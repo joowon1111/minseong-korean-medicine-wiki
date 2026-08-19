@@ -596,6 +596,17 @@ nav:
   - 사상의학과 동의보감 이후 흐름: sasang-history/post-donguibogam.md
   - 사상의학 연구·교육의 확장: sasang-history/modern-expansion.md
   - 사상의학 역사 통합 지도: sasang-history/integrated-map.md
+- 사상의학 질문형 AEO 허브:
+  - sasang-questions/index.md
+  - 사상체질은 어떻게 진단하나: sasang-questions/how-to-diagnose.md
+  - 체질은 평생 같은가: sasang-questions/is-constitution-fixed.md
+  - 같은 체질이면 같은 처방을 쓰나: sasang-questions/same-constitution-same-formula.md
+  - 소양인과 소음인은 어떻게 다른가: sasang-questions/soyangin-vs-soeumin.md
+  - 태음인과 소양인은 어떻게 다른가: sasang-questions/taeeumin-vs-soyangin.md
+  - 사상체질과 음식은 어떤 관계인가: sasang-questions/diet-and-constitution.md
+  - 사상체질과 운동은 어떤 관계인가: sasang-questions/exercise-and-constitution.md
+  - 동의수세보원은 어떤 책인가: sasang-questions/what-is-donguisusebowon.md
+  - 사상의학 질문 통합 지도: sasang-questions/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
