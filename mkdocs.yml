@@ -47,7 +47,6 @@ theme:
   - search.share
   - content.action.edit
   - content.code.copy
-  custom_dir: overrides
 markdown_extensions:
 - admonition
 - attr_list
@@ -548,6 +547,16 @@ nav:
   - 방제→질환·변증 지도: network/formula-to-condition-map.md
   - 질환→치료 통합 지도: network/condition-to-treatment-map.md
   - 고전→현대 연구 연결: network/classic-to-evidence-map.md
+- 사상의학 지식망:
+  - sasang/index.md
+  - 사상체질 기본 구조: sasang/four-constitutions.md
+  - 소양인: sasang/soyangin.md
+  - 소음인: sasang/soeumin.md
+  - 태음인: sasang/taeeumin.md
+  - 태양인: sasang/taeyangin.md
+  - 체질→병증·처방: sasang/pattern-formula-map.md
+  - 동의수세보원: sasang/donguisusebowon.md
+  - 사상의학 통합 지도: sasang/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
