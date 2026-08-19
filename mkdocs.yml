@@ -73,8 +73,12 @@ nav:
   - foundations/index.md
   - 음양·오행: foundations/yinyang-five-phases.md
   - 기·혈·진액: foundations/qi-blood-fluid.md
-  - 장부: foundations/zangfu.md
-  - 병인·병기: foundations/pathogenesis.md
+  - 장부 개요: foundations/zangfu-overview.md
+  - 간(肝): foundations/liver.md
+  - 심(心): foundations/heart.md
+  - 비(脾): foundations/spleen.md
+  - 폐(肺): foundations/lung.md
+  - 신(腎): foundations/kidney.md
 - 진단·변증:
   - diagnostics/index.md
   - 사진: diagnostics/four-examinations.md
@@ -170,7 +174,10 @@ nav:
 - 침구학:
   - acupuncture/index.md
   - 경락 개요: acupuncture/meridians.md
-  - 경혈 문서 원칙: acupuncture/acupoint-writing-guide.md
+  - 십이경맥: acupuncture/twelve-meridians.md
+  - 독맥·임맥: acupuncture/du-ren.md
+  - 주요 경혈: acupuncture/key-acupoints.md
+  - 침구 치료 원리: acupuncture/treatment-principles.md
 - 사상의학:
   - sasang/index.md
   - 사상체질 개요: sasang/overview.md
