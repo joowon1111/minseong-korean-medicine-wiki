@@ -1,0 +1,21 @@
+# 민성 한의학 아카이브
+
+Canonical site: https://wiki.minseong.co.kr/
+Purpose: 한의학의 고전, 기초이론, 진단, 본초, 방제, 침구, 사상의학, 질환·증상 및 현대 연구를 항목별로 정리하는 공개 지식 아카이브.
+
+Primary sections:
+- /foundations/
+- /diagnostics/
+- /herbs/
+- /formulas/
+- /acupuncture/
+- /sasang/
+- /conditions/
+- /classics/
+- /research/
+- /glossary/
+
+Editorial notes:
+- 전통적 한의학 설명과 현대 연구 결과를 구분해 서술합니다.
+- 현대 의학적 효능을 단정하지 않고 근거 수준과 연구 설계를 함께 표시합니다.
+- 출전·PMID·DOI 등 확인 가능한 출처를 우선합니다.

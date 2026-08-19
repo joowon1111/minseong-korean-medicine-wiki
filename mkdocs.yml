@@ -1,88 +1,130 @@
 site_name: 민성 한의학 아카이브
-site_description: 한의학 고전, 본초, 방제, 변증, 질환 및 현대 연구를 구조화한 지식 아카이브
+site_description: 한의학 고전, 기초이론, 진단, 본초, 방제, 침구, 사상의학, 질환 및 현대 연구를 연결하는 지식 아카이브
 site_url: https://wiki.minseong.co.kr/
-site_author: 민성한의원
-repo_name: minseong-korean-medicine-wiki
+site_author: 민성 한의학 아카이브
+copyright: © 2026 민성 한의학 아카이브
 
-theme:
-  name: material
-  language: ko
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - navigation.indexes
-    - toc.follow
-    - search.suggest
-    - search.highlight
-    - content.code.copy
-  palette:
-    - scheme: default
-      primary: green
-      accent: green
-    - scheme: slate
-      primary: green
-      accent: green
+repo_url: https://github.com/joowon1111/minseong-korean-medicine-wiki
+repo_name: joowon1111/minseong-korean-medicine-wiki
+edit_uri: edit/main/docs/
+
+use_directory_urls: true
+
+extra_css:
+  - assets/extra.css
+
+extra:
+  generator: false
 
 plugins:
   - search:
       lang: ko
+  - tags:
+      tags_file: tags.md
+  - meta
+
+theme:
+  name: material
+  language: ko
+  icon:
+    logo: material/book-open-page-variant
+  palette:
+    - scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: 다크 모드로 전환
+    - scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: 라이트 모드로 전환
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.code.copy
 
 markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
   - tables
+  - footnotes
   - toc:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.highlight
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 nav:
   - 홈: index.md
+  - 안내:
+      - guide/index.md
+      - 운영 원칙: guide/editorial-policy.md
+      - 분류 체계: guide/taxonomy.md
+      - 출처·인용 원칙: guide/citation-policy.md
+      - 문서 상태 기준: guide/status-policy.md
   - 한의학 기초:
-      - 개요: basic/index.md
-      - 기허: basic/qi-deficiency.md
-      - 혈허: basic/blood-deficiency.md
-      - 담음: basic/phlegm-fluid.md
-      - 어혈: basic/blood-stasis.md
+      - foundations/index.md
+      - 음양·오행: foundations/yinyang-five-phases.md
+      - 기·혈·진액: foundations/qi-blood-fluid.md
+      - 장부: foundations/zangfu.md
+      - 병인·병기: foundations/pathogenesis.md
+  - 진단·변증:
+      - diagnostics/index.md
+      - 사진: diagnostics/four-examinations.md
+      - 팔강변증: diagnostics/eight-principles.md
+      - 장부변증: diagnostics/zangfu-patterns.md
+      - 기혈진액변증: diagnostics/qi-blood-fluid-patterns.md
   - 본초학:
-      - 개요: herbs/index.md
+      - herbs/index.md
       - 녹용: herbs/cervi-parvum-cornu.md
       - 인삼: herbs/ginseng.md
       - 황기: herbs/astragalus.md
       - 당귀: herbs/angelica.md
   - 방제학:
-      - 개요: formulas/index.md
+      - formulas/index.md
       - 귀비탕: formulas/guibi-tang.md
       - 온담탕: formulas/wendan-tang.md
       - 독활기생탕: formulas/duhuo-jisheng-tang.md
       - 보중익기탕: formulas/buzhong-yiqi-tang.md
+  - 침구학:
+      - acupuncture/index.md
+      - 경락 개요: acupuncture/meridians.md
+      - 경혈 문서 원칙: acupuncture/acupoint-writing-guide.md
+  - 사상의학:
+      - sasang/index.md
+      - 사상체질 개요: sasang/overview.md
   - 질환·증상:
-      - 개요: diseases/index.md
-      - 불면: diseases/insomnia.md
-      - 만성피로: diseases/chronic-fatigue.md
-      - 소화불량: diseases/dyspepsia.md
-      - 요통: diseases/low-back-pain.md
+      - conditions/index.md
+      - 불면: conditions/insomnia.md
+      - 소화불량: conditions/dyspepsia.md
+      - 만성피로: conditions/chronic-fatigue.md
+      - 요통: conditions/low-back-pain.md
   - 한의학 고전:
-      - 개요: classics/index.md
-      - 동의보감: classics/donguibogam.md
-      - 상한론: classics/shanghanlun.md
+      - classics/index.md
       - 황제내경: classics/huangdi-neijing.md
+      - 상한론: classics/shanghanlun.md
+      - 동의보감: classics/donguibogam.md
   - 현대 연구:
-      - 개요: research/index.md
+      - research/index.md
       - 임상시험 읽기: research/clinical-trials.md
-      - 체계적 문헌고찰: research/systematic-reviews.md
-
-extra:
-  social: []
-  generator: false
-  analytics: {}
-
-extra_css:
-  - assets/extra.css
-
-copyright: "© 2026 민성 한의학 아카이브 · 운영: 민성한의원"
+      - 체계적 문헌고찰 읽기: research/systematic-reviews.md
+      - 근거 수준: research/evidence-levels.md
+  - 용어사전:
+      - glossary/index.md
+  - 태그: tags.md
