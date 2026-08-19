@@ -47,6 +47,7 @@ theme:
   - search.share
   - content.action.edit
   - content.code.copy
+  custom_dir: overrides
 markdown_extensions:
 - admonition
 - attr_list
