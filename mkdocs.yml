@@ -118,6 +118,8 @@ nav:
   - 팔물탕: formulas/bazhen-tang.md
   - 십전대보탕: formulas/shi-quan-da-bu-tang.md
   - 생맥산: formulas/shengmai-san.md
+  - 사군자탕: formulas/sijunzi-tang.md
+  - 육군자탕: formulas/liujunzi-tang.md
 - 침구학:
   - acupuncture/index.md
   - 경락 개요: acupuncture/meridians.md
@@ -180,3 +182,8 @@ nav:
 - 용어사전:
   - glossary/index.md
 - 태그: tags.md
+- 한의학 지식망:
+  - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
+  - 인삼을 쓰는 처방: network/ginseng-formulas.md
+  - 황기를 쓰는 처방: network/astragalus-formulas.md
+  - 당귀를 쓰는 처방: network/angelica-formulas.md
