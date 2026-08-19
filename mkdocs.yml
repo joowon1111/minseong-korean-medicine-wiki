@@ -404,6 +404,8 @@ nav:
     - 어깨 충돌증후군·어깨통증: authority/conditions/shoulder-pain.md
     - 편두통: authority/conditions/migraine.md
     - 턱관절장애 TMD: authority/conditions/tmd.md
+    - 손목터널증후군: authority/conditions/carpal-tunnel.md
+    - 섬유근육통: authority/conditions/fibromyalgia.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
