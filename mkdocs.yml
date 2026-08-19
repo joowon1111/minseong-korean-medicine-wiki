@@ -588,6 +588,14 @@ nav:
   - 사상의학 연구 읽는 법: sasang-research/evidence-framework.md
   - 전통→현대 연구 연결: sasang-research/classic-to-modern.md
   - 사상의학 현대 연구 통합 지도: sasang-research/integrated-map.md
+- 사상의학 역사·인물 지식망:
+  - sasang-history/index.md
+  - 이제마: sasang-history/lee-je-ma.md
+  - 동의수세보원 형성 배경: sasang-history/donguisusebowon-context.md
+  - 사상의학의 시대적 위치: sasang-history/historical-position.md
+  - 사상의학과 동의보감 이후 흐름: sasang-history/post-donguibogam.md
+  - 사상의학 연구·교육의 확장: sasang-history/modern-expansion.md
+  - 사상의학 역사 통합 지도: sasang-history/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
