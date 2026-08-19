@@ -175,6 +175,8 @@ nav:
       - 맥문동: classics/donguibogam/tangyeok/ophiopogon.md
       - 두충: classics/donguibogam/tangyeok/eucommia.md
       - 우슬: classics/donguibogam/tangyeok/achyranthes.md
+    - 공진단: classics/donguibogam/gongjin-dan.md
+    - 경옥고: classics/donguibogam/gyeongok-go.md
   - 동의수세보원: classics/donguisusebowon.md
 - 현대 연구:
   - research/index.md
@@ -200,3 +202,6 @@ nav:
   - 소화불량 임상 지식망: network/dyspepsia-map.md
   - 요통 임상 지식망: network/low-back-pain-map.md
   - 증상별 임상 지도: network/clinical-map.md
+  - 공진단 지식망: network/gongjin-dan-map.md
+  - 경옥고 지식망: network/gyeongok-go-map.md
+  - 공진단과 경옥고 비교: network/gongjin-vs-gyeongok.md
