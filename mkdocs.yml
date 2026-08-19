@@ -483,6 +483,14 @@ nav:
   - 피로·회복과 자율조절: autonomic/fatigue-recovery.md
   - 내관·신문·족삼리 연결: autonomic/acupoint-map.md
   - 자율신경 통합 지도: autonomic/integrated-map.md
+- 면역·알레르기·회복 지식망:
+  - immune-allergy/index.md
+  - 비염·알레르기: immune-allergy/rhinitis-allergy.md
+  - 피로·회복 저하: immune-allergy/fatigue-recovery.md
+  - 염증·통증과 회복: immune-allergy/inflammation-pain.md
+  - 장·비위와 전신 회복: immune-allergy/gut-recovery.md
+  - 보익 본초·방제 연결: immune-allergy/tonic-herb-formula-map.md
+  - 면역·회복 통합 지도: immune-allergy/integrated-map.md
 - 진료 안전·감별 안내:
   - clinical-safety/index.md
   - 통증에서 먼저 확인할 신호: clinical-safety/pain-red-flags.md
