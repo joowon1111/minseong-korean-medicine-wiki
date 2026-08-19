@@ -337,6 +337,16 @@ nav:
   - 의학사상·학파 지도: history/schools-map.md
   - 고전의 흐름: history/classics-flow.md
   - 처방의 역사적 흐름: history/formula-history.md
+- 출처·근거 허브:
+  - authority/index.md
+  - 공진단 근거 카드: authority/gongjin-dan.md
+  - 경옥고 근거 카드: authority/gyeongok-go.md
+  - 보중익기탕 근거 카드: authority/buzhong-yiqi-tang.md
+  - 독활기생탕 근거 카드: authority/duhuo-jisheng-tang.md
+  - 침 치료 근거 카드: authority/acupuncture.md
+  - 약침 근거 카드: authority/pharmacopuncture.md
+  - 불면 근거 카드: authority/insomnia.md
+  - 요통 근거 카드: authority/low-back-pain.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
