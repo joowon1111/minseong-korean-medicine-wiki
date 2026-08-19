@@ -274,6 +274,14 @@ nav:
     - 공진단: classics/donguibogam/gongjin-dan.md
     - 경옥고: classics/donguibogam/gyeongok-go.md
   - 동의수세보원: classics/donguisusebowon.md
+- 질문으로 찾기:
+  - faq/index.md
+  - 보익·공진단·경옥고: faq/tonic-faq.md
+  - 본초학: faq/herbs-faq.md
+  - 침·약침·침구: faq/acupuncture-faq.md
+  - 사상의학: faq/sasang-faq.md
+  - 증상·치료: faq/conditions-faq.md
+  - 고전·현대 연구: faq/classics-evidence-faq.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
