@@ -1,35 +1,31 @@
 ---
 title: 목통증
-description: 목통증의 한의학적 변증, 침·약침·전침·부항과 관련 현대 연구를 정리합니다.
-tags: [질환, 목통증, 경항통]
+description: 목통증의 한의학적 변증, 치료 연결과 주요 systematic review·임상연구 근거를 정리합니다.
+tags: [질환, 목통증, 현대근거]
 status: 검토완료
 last_reviewed: 2026-08-19
 ---
 # 목통증
 
-목통증은 근육·근막 긴장, 경추 관절과 디스크, 신경 자극 등 다양한 원인으로 나타날 수 있다. 한의학에서는 통증의 위치와 양상에 더해 **풍한습, 어혈, 기혈허, 근육과 경락의 긴장**을 함께 살펴본다.
-
 ## 한의학적 접근
-### 풍한습
-찬 기운이나 습한 환경에서 더 뻣뻣하고 아픈 양상.
+대표적으로 **풍한습·어혈·기혈허·경락 긴장** 등의 방향을 환자의 전체 증후에 따라 구분해 본다. 같은 증상이라도 병리와 전신 상태에 따라 본초·방제·침구의 선택이 달라질 수 있다.
 
-### 어혈
-외상 후 지속되는 고정통, 찌르는 듯한 통증 등과 연결해 본다.
+## 치료 연결
+**풍지 GB20·합곡 LI4, 침·약침·전침·부항**
 
-### 기혈허
-오래 지속되는 통증과 함께 피로·허약이 동반되는 경우.
+## 현대 임상근거
+2024년 만성 목통증 systematic review·meta-analysis는 18개 RCT를 포함했다. 침을 보조치료로 사용했을 때 치료 종료 후 3개월과 6개월에도 통증 감소가 유지되는 결과가 보고되어 지속효과에 대한 연구가 축적되고 있다.
 
-## 침구·치료
-- [침 치료](../treatments/acupuncture.md)
-- [약침](../treatments/pharmacopuncture.md)
-- [전침](../treatments/electroacupuncture.md)
-- [부항](../treatments/cupping.md)
-- [풍지 GB20](../acupuncture/points/gb20-fengchi.md)
-- [합곡 LI4](../acupuncture/points/li4-hegu.md)
+만성 경항통을 대상으로 한 pragmatic randomized controlled trial에서도 약침 치료 후 통증과 기능 개선이 보고됐다.
 
-## 현대 연구
-만성 경항통에서 침과 약침의 통증·기능 개선을 평가한 임상연구가 축적되어 있다. 특히 약침의 pragmatic RCT에서 통증과 기능회복의 개선이 보고된 바 있다.
+## 근거 요약
+**연구 축적도: 중등도 이상**
 
-## 관련
-- [어혈](../diagnostics/blood-stasis.md)
-- [한의치료 방법 지식망](../network/treatment-methods-map.md)
+한의학적 임상 활용을 현대적인 무작위시험·체계적 문헌고찰·메타분석으로 검증하려는 연구가 꾸준히 축적되고 있다. 연구 설계와 비교군에 따른 차이는 개별 논문을 해석할 때 함께 살펴본다.
+
+## 지식망
+→ [한의치료 방법 지식망](../network/treatment-methods-map.md)
+
+## 주요 연구 식별자
+- Durable Effect of Acupuncture for Chronic Neck Pain. 2024.
+- Pharmacopuncture chronic neck pain: PMID 35011752
