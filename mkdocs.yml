@@ -394,6 +394,12 @@ nav:
     - 당귀: authority/herbs/angelica.md
     - 산조인: authority/herbs/ziziphus-seed.md
     - 맥문동: authority/herbs/ophiopogon.md
+  - 질환별 현대 근거 카드:
+    - authority/conditions/index.md
+    - 기능성 소화불량: authority/conditions/functional-dyspepsia.md
+    - 알레르기비염: authority/conditions/allergic-rhinitis.md
+    - 무릎 골관절염: authority/conditions/knee-osteoarthritis.md
+    - 만성 목통증: authority/conditions/chronic-neck-pain.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
