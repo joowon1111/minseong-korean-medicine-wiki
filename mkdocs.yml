@@ -373,6 +373,11 @@ nav:
   - 허준 계보: network/heo-jun-lineage.md
   - 이제마 계보: network/lee-je-ma-lineage.md
   - 상한론 태양병 지도: network/shanghan-taiyang-map.md
+  - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
+  - 본초→방제 역탐색: network/herb-to-formula-map.md
+  - 방제→질환·변증 지도: network/formula-to-condition-map.md
+  - 질환→치료 통합 지도: network/condition-to-treatment-map.md
+  - 고전→현대 연구 연결: network/classic-to-evidence-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
