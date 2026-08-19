@@ -174,6 +174,12 @@ nav:
 - 사상의학:
   - sasang/index.md
   - 사상체질 개요: sasang/overview.md
+  - 태양인: sasang/taeyangin.md
+  - 태음인: sasang/taeumin.md
+  - 소양인: sasang/soyangin.md
+  - 소음인: sasang/soeumin.md
+  - 체질 비교: sasang/constitution-compare.md
+  - 진단과 현대 연구: sasang/diagnosis-research.md
 - 질환·증상:
   - conditions/index.md
   - 불면: conditions/insomnia.md
