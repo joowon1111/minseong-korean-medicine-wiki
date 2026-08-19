@@ -408,6 +408,9 @@ nav:
     - 섬유근육통: authority/conditions/fibromyalgia.md
     - 족저근막염·발뒤꿈치통증: authority/conditions/plantar-fasciitis.md
     - 테니스엘보·외측상과통: authority/conditions/lateral-epicondylitis.md
+    - 뇌졸중 재활: authority/conditions/stroke-rehabilitation.md
+    - 뇌졸중 후 감각장애·통증: authority/conditions/post-stroke-sensory-pain.md
+    - 뇌졸중 후 견수증후군: authority/conditions/post-stroke-shoulder-hand.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
