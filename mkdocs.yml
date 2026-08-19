@@ -210,6 +210,17 @@ nav:
     - 위중 BL40: acupuncture/points/bl40-weizhong.md
     - 풍지 GB20: acupuncture/points/gb20-fengchi.md
   - 침구 치료 원리: acupuncture/treatment-principles.md
+- 경혈 임상 지식망:
+  - acupoint-network/index.md
+  - 족삼리 ST36: acupoint-network/st36.md
+  - 내관 PC6: acupoint-network/pc6.md
+  - 신문 HT7: acupoint-network/ht7.md
+  - 삼음교 SP6: acupoint-network/sp6.md
+  - 합곡 LI4: acupoint-network/li4.md
+  - 백회 GV20: acupoint-network/gv20.md
+  - 위중 BL40: acupoint-network/bl40.md
+  - 신수 BL23: acupoint-network/bl23.md
+  - 증상별 경혈 지도: acupoint-network/by-condition.md
 - 한의치료 방법:
   - treatments/index.md
   - 침 치료: treatments/acupuncture.md
