@@ -280,6 +280,16 @@ nav:
   - 체계적 문헌고찰 읽기: research/systematic-reviews.md
   - 근거 수준: research/evidence-levels.md
   - 임상 근거 허브: research/clinical-evidence-hub.md
+  - 한약 처방 임상근거:
+    - research/formulas/index.md
+    - 공진단: research/formulas/gongjin-dan.md
+    - 경옥고: research/formulas/gyeongok-go.md
+    - 십전대보탕: research/formulas/sipjeondaebo-tang.md
+    - 생맥산: research/formulas/shengmai-san.md
+    - 육군자탕: research/formulas/rikkunshito.md
+    - 귀비탕: research/formulas/guibi-tang.md
+    - 보중익기탕: research/formulas/buzhong-yiqi-tang.md
+    - 독활기생탕: research/formulas/duhuo-jisheng-tang.md
 - 용어사전:
   - glossary/index.md
   - 기(氣): glossary/qi.md
