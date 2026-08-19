@@ -572,6 +572,14 @@ nav:
   - 체질별 생활관리 구조: sasang-guideline/lifestyle-framework.md
   - 국가 임상자료·진단가이드: sasang-guideline/nckm-resources.md
   - 사상의학 표준 통합 지도: sasang-guideline/integrated-map.md
+- 사상체질 치료·관리 지식망:
+  - sasang-treatment/index.md
+  - 체질한약치료: sasang-treatment/herbal-treatment.md
+  - 체질침·뜸 치료: sasang-treatment/acupuncture-moxibustion.md
+  - 체질식사요법: sasang-treatment/diet.md
+  - 체질운동요법: sasang-treatment/exercise.md
+  - 체질성정요법: sasang-treatment/emotion.md
+  - 치료·예방 통합 지도: sasang-treatment/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
