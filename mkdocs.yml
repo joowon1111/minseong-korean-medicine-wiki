@@ -300,6 +300,14 @@ nav:
   - 귀비탕과 온담탕: compare/guibi-vs-wendan.md
   - 침과 약침: compare/acupuncture-vs-pharmacopuncture.md
   - 침과 전침: compare/acupuncture-vs-electroacupuncture.md
+- 상황별로 찾기:
+  - questions/choice/index.md
+  - 피로할 때 공진단과 경옥고: questions/choice/fatigue-gongjin-gyeongok.md
+  - 기운 없고 소화도 약할 때: questions/choice/fatigue-poor-digestion.md
+  - 잠이 안 오면서 두근거릴 때: questions/choice/insomnia-palpitations.md
+  - 잠이 안 오고 속도 더부룩할 때: questions/choice/insomnia-dyspepsia.md
+  - 오래된 허리통증에서 침과 한약: questions/choice/chronic-back-pain-treatment.md
+  - 기허와 기혈양허는 어떻게 다른가: questions/choice/qi-vs-qi-blood-deficiency.md
 - 증상으로 찾기:
   - symptoms/index.md
   - 피로·기력저하: symptoms/fatigue.md
