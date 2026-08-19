@@ -96,6 +96,8 @@ nav:
   - 계지탕: formulas/guizhi-tang.md
   - 마황탕: formulas/mahuang-tang.md
   - 소시호탕: formulas/xiaochaihu-tang.md
+  - 계지가갈근탕: formulas/guizhi-jia-gegen-tang.md
+  - 갈근탕: formulas/gegen-tang.md
 - 침구학:
   - acupuncture/index.md
   - 경락 개요: acupuncture/meridians.md
@@ -118,6 +120,8 @@ nav:
       - 태양병의 기본 정의: classics/shanghanlun/taiyang-definition.md
       - 계지탕 주치 조문: classics/shanghanlun/guizhi-indication.md
       - 마황탕 주치 조문: classics/shanghanlun/mahuang-indication.md
+      - 계지가갈근탕 조문: classics/shanghanlun/guizhi-jia-gegen.md
+      - 갈근탕 조문: classics/shanghanlun/gegen-tang.md
     - 소양병 조문:
       - 소시호탕 주치 조문: classics/shanghanlun/xiaochaihu-indication.md
   - 금궤요략: classics/jinkui-yaolue.md
