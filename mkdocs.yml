@@ -557,6 +557,13 @@ nav:
   - 체질→병증·처방: sasang/pattern-formula-map.md
   - 동의수세보원: sasang/donguisusebowon.md
   - 사상의학 통합 지도: sasang/integrated-map.md
+- 사상체질 처방 심화:
+  - sasang-formulas/index.md
+  - 형방도적산: sasang-formulas/hyeongbangdojeok-san.md
+  - 형방사백산: sasang-formulas/hyeongbangsabaek-san.md
+  - 양격산화탕: sasang-formulas/yanggyeoksanhwa-tang.md
+  - 소양인 처방 비교: sasang-formulas/soyangin-comparison.md
+  - 체질→병증→처방 탐색: sasang-formulas/decision-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
