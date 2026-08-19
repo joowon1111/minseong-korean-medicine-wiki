@@ -1,0 +1,84 @@
+name: Notify IndexNow
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect changed documentation URLs
+        id: urls
+        shell: python
+        run: |
+          import os, subprocess, json
+          base = "https://wiki.minseong.co.kr"
+          before = os.environ.get("BEFORE", "")
+          after = os.environ.get("AFTER", "")
+          if before and set(before) != {"0"}:
+              cmd = ["git","diff","--name-only",before,after]
+              files = subprocess.check_output(cmd,text=True).splitlines()
+          else:
+              files = subprocess.check_output(["git","ls-files","docs"],text=True).splitlines()
+
+          urls = set()
+          for f in files:
+              if not f.startswith("docs/"):
+                  continue
+              rel = f[5:]
+              if rel.endswith(".md"):
+                  rel = rel[:-3]
+                  if rel == "index":
+                      url = base + "/"
+                  elif rel.endswith("/index"):
+                      url = base + "/" + rel[:-6] + "/"
+                  else:
+                      url = base + "/" + rel + "/"
+                  urls.add(url)
+              elif rel in ("robots.txt","llms.txt"):
+                  urls.add(base + "/" + rel)
+
+          urls.add(base + "/")
+          with open(os.environ["GITHUB_OUTPUT"],"a",encoding="utf-8") as out:
+              out.write("json=" + json.dumps(sorted(urls),ensure_ascii=False) + "\n")
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+
+      - name: Submit changed URLs to IndexNow
+        shell: python
+        run: |
+          import json, urllib.request
+          urls = json.loads(r'''${{ steps.urls.outputs.json }}''')
+          payload = {
+              "host": "wiki.minseong.co.kr",
+              "key": "c9f08cbe667518fc88901d68a49b5450",
+              "keyLocation": "https://wiki.minseong.co.kr/c9f08cbe667518fc88901d68a49b5450.txt",
+              "urlList": urls[:10000]
+          }
+          data=json.dumps(payload).encode()
+          req=urllib.request.Request(
+              "https://api.indexnow.org/indexnow",
+              data=data,
+              headers={"Content-Type":"application/json; charset=utf-8"},
+              method="POST"
+          )
+          try:
+              with urllib.request.urlopen(req,timeout=30) as r:
+                  print("IndexNow status:", r.status)
+                  print(r.read().decode(errors="replace"))
+          except urllib.error.HTTPError as e:
+              print("IndexNow HTTP status:", e.code)
+              print(e.read().decode(errors="replace"))
+              if e.code not in (200,202):
+                  raise
