@@ -580,6 +580,14 @@ nav:
   - 체질운동요법: sasang-treatment/exercise.md
   - 체질성정요법: sasang-treatment/emotion.md
   - 치료·예방 통합 지도: sasang-treatment/integrated-map.md
+- 사상의학 현대 연구 지식망:
+  - sasang-research/index.md
+  - 체질진단 연구: sasang-research/diagnosis-research.md
+  - 체질과 대사·건강지표: sasang-research/metabolic-health.md
+  - 체질별 치료 연구: sasang-research/treatment-research.md
+  - 사상의학 연구 읽는 법: sasang-research/evidence-framework.md
+  - 전통→현대 연구 연결: sasang-research/classic-to-modern.md
+  - 사상의학 현대 연구 통합 지도: sasang-research/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
