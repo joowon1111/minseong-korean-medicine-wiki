@@ -180,6 +180,13 @@ nav:
   - 소화불량: conditions/dyspepsia.md
   - 만성피로: conditions/chronic-fatigue.md
   - 요통: conditions/low-back-pain.md
+- 의가·인물:
+  - physicians/index.md
+  - 허준: physicians/heo-jun.md
+  - 장중경: physicians/zhang-zhongjing.md
+  - 손사막: physicians/sun-simiao.md
+  - 이동원: physicians/li-dongyuan.md
+  - 이제마: physicians/lee-je-ma.md
 - 한의학 고전:
   - classics/index.md
   - 황제내경: classics/huangdi-neijing.md
@@ -230,6 +237,15 @@ nav:
   - 근거 수준: research/evidence-levels.md
 - 용어사전:
   - glossary/index.md
+  - 기(氣): glossary/qi.md
+  - 혈(血): glossary/blood.md
+  - 정(精): glossary/essence.md
+  - 진액(津液): glossary/body-fluids.md
+  - 담음(痰飮): glossary/phlegm-fluid.md
+  - 어혈(瘀血): glossary/blood-stasis.md
+  - 신양(腎陽): glossary/kidney-yang.md
+  - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
+  - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
 - 태그: tags.md
 - 한의학 지식망:
   - network/index.md
