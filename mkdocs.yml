@@ -93,6 +93,9 @@ nav:
   - 온담탕: formulas/wendan-tang.md
   - 독활기생탕: formulas/duhuo-jisheng-tang.md
   - 보중익기탕: formulas/buzhong-yiqi-tang.md
+  - 계지탕: formulas/guizhi-tang.md
+  - 마황탕: formulas/mahuang-tang.md
+  - 소시호탕: formulas/xiaochaihu-tang.md
 - 침구학:
   - acupuncture/index.md
   - 경락 개요: acupuncture/meridians.md
@@ -109,7 +112,14 @@ nav:
 - 한의학 고전:
   - classics/index.md
   - 황제내경: classics/huangdi-neijing.md
-  - 상한론: classics/shanghanlun.md
+  - 상한론:
+    - 개요: classics/shanghanlun.md
+    - 태양병 조문:
+      - 태양병의 기본 정의: classics/shanghanlun/taiyang-definition.md
+      - 계지탕 주치 조문: classics/shanghanlun/guizhi-indication.md
+      - 마황탕 주치 조문: classics/shanghanlun/mahuang-indication.md
+    - 소양병 조문:
+      - 소시호탕 주치 조문: classics/shanghanlun/xiaochaihu-indication.md
   - 금궤요략: classics/jinkui-yaolue.md
   - 비급천금요방: classics/beiji-qianjin-yaofang.md
   - 비위론: classics/piwei-lun.md
