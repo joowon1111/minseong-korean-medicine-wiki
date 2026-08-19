@@ -428,6 +428,16 @@ nav:
   - 심비양허: concepts/heart-spleen-deficiency.md
   - 간신부족·허손: concepts/liver-kidney-deficiency.md
   - 풍한습비: concepts/wind-cold-damp-bi.md
+- 변증→치법 지식망:
+  - pattern-treatment/index.md
+  - 기허: pattern-treatment/qi-deficiency.md
+  - 혈허·기혈양허: pattern-treatment/blood-deficiency.md
+  - 담음: pattern-treatment/phlegm-fluid.md
+  - 어혈: pattern-treatment/blood-stasis.md
+  - 심비양허: pattern-treatment/heart-spleen-deficiency.md
+  - 중기하함: pattern-treatment/sinking-middle-qi.md
+  - 풍한습비·허손: pattern-treatment/bi-deficiency.md
+  - 변증→본초·방제·경혈 지도: pattern-treatment/overview-map.md
 - 한의학 지식망:
   - network/index.md
   - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
