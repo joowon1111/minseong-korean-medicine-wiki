@@ -84,6 +84,7 @@ nav:
 - 본초학:
   - herbs/index.md
   - 보익약:
+    - herbs/categories/tonics.md
     - 녹용: herbs/cervi-parvum-cornu.md
     - 인삼: herbs/ginseng.md
     - 황기: herbs/astragalus.md
@@ -95,37 +96,46 @@ nav:
     - 두충: herbs/eucommia.md
     - 우슬: herbs/achyranthes.md
   - 안신·양심:
+    - herbs/categories/calm-spirit.md
     - 산조인: herbs/ziziphus-seed.md
     - 복령: herbs/poria.md
     - 오미자: herbs/schisandra.md
   - 화담·이기:
+    - herbs/categories/phlegm-qi.md
     - 반하: herbs/pinellia.md
     - 진피: herbs/citrus-peel.md
     - 복령: herbs/poria.md
   - 이수삼습:
+    - herbs/categories/drain-damp.md
     - 복령: herbs/poria.md
     - 저령: herbs/polyporus.md
     - 택사: herbs/alisma.md
     - 백출: herbs/atractylodes.md
   - 양음·생진:
+    - herbs/categories/nourish-yin.md
     - 생지황: herbs/fresh-rehmannia.md
     - 맥문동: herbs/ophiopogon.md
     - 숙지황: herbs/prepared-rehmannia.md
     - 오미자: herbs/schisandra.md
   - 활혈·보혈:
+    - herbs/categories/blood.md
     - 당귀: herbs/angelica.md
     - 천궁: herbs/chuanxiong.md
     - 백작약: herbs/white-peony.md
     - 우슬: herbs/achyranthes.md
   - 온리·온보:
+    - herbs/categories/warm-interior.md
     - 육계: herbs/cinnamon-bark.md
   - 개규:
+    - herbs/categories/open-orifices.md
     - 사향: herbs/musk.md
   - 조화·기타:
+    - herbs/categories/harmonize.md
     - 감초: herbs/licorice.md
 - 방제학:
   - formulas/index.md
   - 보익제:
+    - formulas/categories/tonic-formulas.md
     - 사군자탕: formulas/sijunzi-tang.md
     - 육군자탕: formulas/liujunzi-tang.md
     - 사물탕: formulas/siwu-tang.md
@@ -137,6 +147,7 @@ nav:
     - 공진단: formulas/gongjin-dan.md
     - 경옥고: formulas/gyeongok-go.md
   - 해표·상한론 처방:
+    - formulas/categories/exterior-shanghan.md
     - 계지탕: formulas/guizhi-tang.md
     - 마황탕: formulas/mahuang-tang.md
     - 계지가갈근탕: formulas/guizhi-jia-gegen-tang.md
@@ -146,12 +157,15 @@ nav:
     - 마행감석탕: formulas/maxing-ganshi-tang.md
     - 소시호탕: formulas/xiaochaihu-tang.md
   - 화담·이기:
+    - formulas/categories/phlegm-qi-formulas.md
     - 온담탕: formulas/wendan-tang.md
     - 육군자탕: formulas/liujunzi-tang.md
     - 소청룡탕: formulas/xiaoqinglong-tang.md
   - 이수제:
+    - formulas/categories/drain-fluid-formulas.md
     - 오령산: formulas/wuling-san.md
   - 거풍습·근골:
+    - formulas/categories/wind-damp-musculoskeletal.md
     - 독활기생탕: formulas/duhuo-jisheng-tang.md
 - 침구학:
   - acupuncture/index.md
