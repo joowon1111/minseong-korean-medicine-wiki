@@ -221,6 +221,16 @@ nav:
   - 위중 BL40: acupoint-network/bl40.md
   - 신수 BL23: acupoint-network/bl23.md
   - 증상별 경혈 지도: acupoint-network/by-condition.md
+- 경락·경맥 지식망:
+  - meridian-network/index.md
+  - 족양명위경: meridian-network/stomach-meridian.md
+  - 수궐음심포경: meridian-network/pericardium-meridian.md
+  - 수소음심경: meridian-network/heart-meridian.md
+  - 족태음비경: meridian-network/spleen-meridian.md
+  - 수양명대장경: meridian-network/large-intestine-meridian.md
+  - 족태양방광경: meridian-network/bladder-meridian.md
+  - 독맥: meridian-network/governing-vessel.md
+  - 경맥→증상 지도: meridian-network/by-condition.md
 - 한의치료 방법:
   - treatments/index.md
   - 침 치료: treatments/acupuncture.md
