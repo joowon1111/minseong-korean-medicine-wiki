@@ -364,6 +364,16 @@ not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
 
+  /templates/classic-template.md
+
+  /templates/condition-template.md
+
+  /templates/formula-template.md
+
+  /templates/herb-template.md
+
+  /templates/research-template.md
+
   '
 validation:
   nav:
