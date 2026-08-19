@@ -292,6 +292,13 @@ nav:
   - 침구·치료 허브: pillar/acupuncture-treatment.md
   - 고전·역사 허브: pillar/classics-history.md
   - 현대 임상근거 허브: pillar/clinical-evidence.md
+- 증상으로 찾기:
+  - symptoms/index.md
+  - 피로·기력저하: symptoms/fatigue.md
+  - 잠이 안 올 때: symptoms/sleep-problem.md
+  - 허리·목·무릎 통증: symptoms/musculoskeletal-pain.md
+  - 소화가 안 될 때: symptoms/digestion.md
+  - 코막힘·비염: symptoms/rhinitis.md
 - 질문으로 찾기:
   - faq/index.md
   - 보익·공진단·경옥고: faq/tonic-faq.md
