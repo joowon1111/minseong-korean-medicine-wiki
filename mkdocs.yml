@@ -1,5 +1,5 @@
 site_name: 민성 한의학 아카이브
-site_description: 한의학 고전, 기초이론, 진단, 본초, 방제, 침구, 사상의학, 질환 및 현대 연구를 연결하는 지식 아카이브
+site_description: 본초·방제·고전·사상의학·침구·임상연구를 연결하는 한의학 지식 아카이브
 site_url: https://wiki.minseong.co.kr/
 site_author: 민성 한의학 아카이브
 copyright: © 2026 민성 한의학 아카이브
@@ -70,6 +70,8 @@ nav:
   - 출처·인용 원칙: guide/citation-policy.md
   - 문서 상태 기준: guide/status-policy.md
   - 경혈 문서 작성 원칙: acupuncture/acupoint-writing-guide.md
+  - SEO·AEO 문서 표준: seo-aeo-standard.md
+  - 문서 메타데이터 점검표: metadata-audit-guide.md
 - 한의학 기초:
   - foundations/index.md
   - 음양·오행: foundations/yinyang-five-phases.md
