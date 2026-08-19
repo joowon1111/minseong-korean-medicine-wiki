@@ -347,6 +347,14 @@ nav:
   - 약침 근거 카드: authority/pharmacopuncture.md
   - 불면 근거 카드: authority/insomnia.md
   - 요통 근거 카드: authority/low-back-pain.md
+  - 대표 본초 근거 카드:
+    - authority/herbs/index.md
+    - 녹용: authority/herbs/velvet-antler.md
+    - 인삼: authority/herbs/ginseng.md
+    - 황기: authority/herbs/astragalus.md
+    - 당귀: authority/herbs/angelica.md
+    - 산조인: authority/herbs/ziziphus-seed.md
+    - 맥문동: authority/herbs/ophiopogon.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
