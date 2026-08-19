@@ -290,6 +290,12 @@ nav:
     - 귀비탕: research/formulas/guibi-tang.md
     - 보중익기탕: research/formulas/buzhong-yiqi-tang.md
     - 독활기생탕: research/formulas/duhuo-jisheng-tang.md
+  - 연구 유형별 보기:
+    - research/by-study-type.md
+    - 무작위 임상시험 RCT: research/rct-index.md
+    - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
+    - 기전·전임상 연구: research/mechanism-preclinical-index.md
+  - 참고문헌 데이터베이스: research/references/index.md
 - 용어사전:
   - glossary/index.md
   - 기(氣): glossary/qi.md

@@ -1,0 +1,29 @@
+﻿type,topic,intervention,year,citation,pmid,doi,link
+RCT,요통,침,2025,"DeBar LL, et al. Acupuncture for Chronic Low Back Pain in Older Adults: A Randomized Clinical Trial.",40938602,,../conditions/low-back-pain.md
+Systematic review / Meta-analysis,요통,침,2023,"Kim G, et al. Acupuncture and Acupoints for Low Back Pain: Systematic Review and Meta-Analysis.",36585839,10.1142/S0192415X23500131,../conditions/low-back-pain.md
+Systematic review / Meta-analysis,무릎 골관절염,침·전침,2024,"Liu CY, et al. Clinical effect and contributing factors of acupuncture for knee osteoarthritis.",39486882,10.1136/bmjebm-2023-112626,../conditions/knee-pain.md
+Systematic review / Meta-analysis,무릎 골관절염,침,2024,"Chen H, et al. Durable Effects of Acupuncture for Knee Osteoarthritis.",38635021,10.1007/s11916-024-01242-6,../conditions/knee-pain.md
+Systematic review / Meta-analysis,불면,침,2024,"Zhao FY, et al. Acupuncture for primary insomnia: Effectiveness, safety, mechanisms and recommendations for clinical practice.",38232645,10.1016/j.smrv.2023.101892,../conditions/insomnia.md
+Systematic review / Meta-analysis,불면,전침,2024,"Xu HY, et al. Efficacy and safety of electroacupuncture for insomnia.",38871592,10.1016/j.joim.2024.05.005,../conditions/insomnia.md
+Systematic review / Meta-analysis,알레르기비염,침,2024,"Xiao Q, et al. Efficacy of acupuncture for allergic rhinitis in children.",39017391,10.1002/alr.23414,../conditions/rhinitis.md
+Systematic review / Meta-analysis,기능성 소화불량,침,2024,Bayesian network meta-analysis of acupuncture for functional dyspepsia.,38761869,10.1016/j.ctim.2024.103051,../conditions/dyspepsia.md
+RCT,만성 요통,약침,2023,"Park KS, et al. A Pragmatic Randomized Controlled Trial on the Effectiveness of Pharmacopuncture for Chronic Low Back Pain.",37554434,,../treatments/pharmacopuncture.md
+RCT,만성 경항통,약침,2021,"Park KS, et al. Pharmacopuncture Therapy for Chronic Neck Pain: A Pragmatic, Randomized, Controlled Trial.",35011752,,../treatments/pharmacopuncture.md
+RCT,만성 요통,전침,2020,"Kong JT, et al. Effect of Electroacupuncture vs Sham Treatment on Change in Pain Severity Among Adults With Chronic Low Back Pain.",33107921,,../treatments/electroacupuncture.md
+Systematic review / Meta-analysis,요통,부항,2024,"Zhang Z, et al. The effectiveness of cupping therapy on low back pain: A systematic review and meta-analysis.",38184285,,../treatments/cupping.md
+RCT,만성피로,공진단,2024,"Choi JY, et al. Efficacy and safety of herbal medicine Gongjin-Dan and Ssanghwa-Tang in patients with chronic fatigue.",39669697,10.1016/j.imr.2024.101025,../formulas/gongjin-dan.md
+RCT,급성피로,공진단,2018,"Son MJ, et al. Gongjin-dan and acute fatigue caused by short-term sleep deprivation.",29867485,,../formulas/gongjin-dan.md
+Systematic review / Meta-analysis,암 관련 피로,십전대보탕,2024,Efficacy and safety of Sipjeondaebo-tang for cancer-related fatigue: A systematic review and meta-analysis.,39368761,,../formulas/shi-quan-da-bu-tang.md
+RCT,암 관련 식욕저하,십전대보탕,2017,"Efficacy and Safety of Sipjeondaebo-Tang for Anorexia in Patients with Cancer: A Pilot, Randomized, Double-Blind, Placebo-Controlled Trial.",29441116,10.1155/2017/8780325,../formulas/shi-quan-da-bu-tang.md
+Systematic review / Meta-analysis,바이러스성 심근염,생맥산,2024,"Zhang BR, et al. Effectiveness and Safety of Shengmai San for Viral Myocarditis.",39742019,10.1155/2024/2127018,../formulas/shengmai-san.md
+Systematic review / Meta-analysis,만성 심부전,생맥 기반 치료,2020,"Wang Y, et al. Shengmai-based therapy for chronic heart failure.",32655670,10.1155/2020/9571627,../formulas/shengmai-san.md
+Systematic review / Meta-analysis,기능성 소화불량,육군자탕,2021,"Ko SJ, et al. Effects of the herbal medicine Rikkunshito for functional dyspepsia.",32767596,,../formulas/liujunzi-tang.md
+Systematic review / Meta-analysis,불면,귀비탕 포함 한약처방,2012,"Yeung WF, et al. Chinese herbal medicine for insomnia: a systematic review of randomized controlled trials.",22440393,,../formulas/guibi-tang.md
+Systematic review / Meta-analysis,안정기 COPD,보중익기탕,2016,"Chen Y, et al. A systematic review and meta-analysis of Buzhong Yiqi Tang for stable chronic obstructive pulmonary disease.",27912964,,../formulas/buzhong-yiqi-tang.md
+Systematic review / Meta-analysis,기능성 변비,가미 보중익기탕,2018,"Gong H, et al. Modified Buzhong-Yiqi-Tang for Functional Constipation in Adults.",29552087,,../formulas/buzhong-yiqi-tang.md
+Systematic review / Meta-analysis,류마티스관절염,독활기생탕,2023,"Qu P, et al. Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis.",37933004,,../formulas/duhuo-jisheng-tang.md
+Systematic review / Meta-analysis,요추 추간판질환,독활기생탕,2020,"Sun K, et al. Duhuo Jisheng Decoction for lumbar disc herniation.",32118755,,../formulas/duhuo-jisheng-tang.md
+Mechanism / Review,녹용,녹용,2026,Modern Advances in Velvet Antler Research.,42046775,10.1155/ijfo/3848349,../herbs/cervi-parvum-cornu.md
+Mechanism / Review,인삼·피로,인삼,2020,Clinical and Preclinical Systematic Review of Panax ginseng C. A. Mey and Its Compounds for Fatigue.,32765262,,../herbs/ginseng.md
+Mechanism / Review,황기,황기,2023,"Review of Astragalus membranaceus: phytochemistry, pharmacology and quality control.",37680711,10.3389/fphar.2023.1242318,../herbs/astragalus.md
+Mechanism / Review,당귀,당귀,2026,"Angelica sinensis: Botany, Traditional Uses, Phytochemistry, Pharmacology, Safety, and Applications.",42366516,10.1142/S0192415X2650045X,../herbs/angelica.md
