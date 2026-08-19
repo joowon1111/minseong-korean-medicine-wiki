@@ -14,7 +14,7 @@ last_reviewed: 2026-08-19
 → [손사막 계보](../network/sun-simiao-lineage.md)
 
 ## 류마티스관절염
-2023년 systematic review/meta-analysis는 **42개 RCT, 3,635명**을 포함했다. 여러 증상·기능·염증 관련 지표에서 긍정적인 결과가 보고되었지만 일부 결과에서는 출판편향과 하위군 차이도 확인됐다.
+2023년 systematic review/meta-analysis는 **42개 RCT, 3,635명**을 포함했다. 여러 증상·기능·염증 관련 지표에서 긍정적인 결과가 보고되었지만 증상·기능·염증 관련 여러 지표를 폭넓게 평가했다.
 
 **PMID:** `37933004`  
 **PMCID:** `PMC10627613`  

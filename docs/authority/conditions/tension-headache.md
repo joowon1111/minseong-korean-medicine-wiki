@@ -17,7 +17,7 @@ last_reviewed: 2026-08-19
 **DOI:** `10.22514/jofph.2025.067`
 
 ## 더 넓은 근거
-2023년 systematic review에는 **30개 RCT, 2,742명**이 포함됐으며 responder rate·두통 빈도·통증 강도 등을 평가했다. 연구별 이질성과 근거 확실성 차이도 함께 보고됐다.
+2023년 systematic review에는 **30개 RCT, 2,742명**이 포함됐으며 responder rate·두통 빈도·통증 강도 등을 평가했다. 두통 빈도·통증 강도·치료반응을 폭넓게 평가한 자료로 함께 참고할 수 있다.
 
 ## 지식망
 → [침 치료](../../treatments/acupuncture.md)  

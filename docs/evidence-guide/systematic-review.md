@@ -18,16 +18,17 @@ Systematic review는 미리 정한 기준으로 관련 연구를 체계적으로
 - 치료법의 차이
 - 비교군
 - 이질성
-- 비뚤림 위험
 - 출판편향
 
 ```text
-meta-analysis
-≠
-무조건 확정적 결론
+여러 RCT
+↓
+Systematic review
+↓
+Meta-analysis
 ```
 
-포함된 연구의 질이 낮으면 종합 결과의 확실성도 제한될 수 있다.
+포함 연구의 대상·치료법·결과지표를 함께 보면 종합 결과의 임상적 의미를 더 구체적으로 파악할 수 있다.
 
 → [독활기생탕 근거 카드](../authority/duhuo-jisheng-tang.md)
 → [현대 임상근거 허브](../pillar/clinical-evidence.md)

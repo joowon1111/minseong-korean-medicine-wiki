@@ -10,7 +10,7 @@ last_reviewed: 2026-08-19
 어깨 통증은 회전근개·견봉하 공간·관절·근육 등 다양한 구조와 관련될 수 있다. 한의학에서는 국소 압통과 움직임, 경락, 어혈·풍한습 등의 상태를 함께 살핀다.
 
 ## 수기침 systematic review·meta-analysis
-2024년 systematic review/meta-analysis는 shoulder impingement syndrome에서 **5개 RCT**를 분석했다. 수기침 치료는 통증 감소와 어깨 기능·장애 지표 개선에서 유리한 결과가 보고됐으며, 연구진은 포함 연구 수와 이질성을 고려해 추가 연구가 필요하다고 설명했다.
+2024년 systematic review/meta-analysis는 shoulder impingement syndrome에서 **5개 RCT**를 분석했다. 수기침 치료는 통증 감소와 어깨 기능·장애 지표 개선에서 유리한 결과가 보고됐으며, 수기침 치료의 통증과 어깨 기능·장애 지표 개선 가능성을 보여주는 임상 근거로 정리할 수 있다.
 
 **PMID:** `39287298`
 

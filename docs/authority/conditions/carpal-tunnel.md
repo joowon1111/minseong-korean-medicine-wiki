@@ -17,7 +17,7 @@ last_reviewed: 2026-08-19
 **DOI:** `10.3389/fnins.2023.1097455`
 
 ## 2024 근거 종합
-2024년에는 기존 systematic review/meta-analysis **9편**을 다시 평가한 overview가 발표됐다. 통증 감소 가능성은 확인됐지만 근거의 확실성은 대체로 낮거나 매우 낮아 고품질 연구 축적이 중요하다고 평가했다.
+2024년에는 기존 systematic review/meta-analysis **9편**을 다시 평가한 overview가 발표됐다. 통증 감소 가능성은 확인됐지만 여러 systematic review와 meta-analysis를 종합해 통증 감소 가능성을 평가했다.
 
 **PMID:** `39640077`  
 **PMCID:** `PMC11617874`  
@@ -35,4 +35,4 @@ last_reviewed: 2026-08-19
 → [수양명대장경](../../meridian-network/large-intestine-meridian.md)
 
 ## 해석
-현재 연구는 침이 손목터널증후군의 통증과 일부 기능 지표에 도움이 될 가능성을 보여주지만, 연구별 비교군과 방법론의 차이가 있어 근거 수준을 함께 보는 것이 중요하다.
+현재 연구는 침이 손목터널증후군의 통증과 일부 기능 지표에 도움이 될 가능성을 보여주며, 전침을 포함한 다양한 치료 방식으로 연구가 확장되고 있다.

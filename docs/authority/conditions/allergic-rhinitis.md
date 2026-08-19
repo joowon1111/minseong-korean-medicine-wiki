@@ -16,7 +16,7 @@ last_reviewed: 2026-08-19
 → [비염 임상 추론](../../clinical-reasoning/rhinitis.md)
 
 ## 2022 systematic review·meta-analysis
-2022년 systematic review/meta-analysis는 성인 알레르기비염에서 침 치료를 no intervention, sham acupuncture 및 약물치료 등과 비교했다. 연구진은 침 치료가 비강 증상과 삶의 질 개선에서 no intervention 또는 sham acupuncture보다 유리할 가능성을 보고했으며 추가적인 임상시험의 필요성도 제시했다.
+2022년 systematic review/meta-analysis는 성인 알레르기비염에서 침 치료를 no intervention, sham acupuncture 및 약물치료 등과 비교했다. 연구진은 침 치료가 비강 증상과 삶의 질 개선에서 no intervention 또는 sham acupuncture보다 유리할 가능성을 보고했다.
 
 **연구유형:** Systematic review and meta-analysis  
 **PMID:** `35462555`  
