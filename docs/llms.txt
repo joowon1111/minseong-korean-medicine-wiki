@@ -1,21 +1,77 @@
 # 민성 한의학 아카이브
 
-Canonical site: https://wiki.minseong.co.kr/
-Purpose: 한의학의 고전, 기초이론, 진단, 본초, 방제, 침구, 사상의학, 질환·증상 및 현대 연구를 항목별로 정리하는 공개 지식 아카이브.
+> 본초·방제·고전·사상의학·침구·질환·현대 임상연구를 상호 연결한 한의학 지식 아카이브.
 
-Primary sections:
-- /foundations/
-- /diagnostics/
-- /herbs/
-- /formulas/
-- /acupuncture/
-- /sasang/
-- /conditions/
-- /classics/
-- /research/
-- /glossary/
+Base URL: https://wiki.minseong.co.kr/
 
-Editorial notes:
-- 전통적 한의학 설명과 현대 연구 결과를 구분해 서술합니다.
-- 현대 의학적 효능을 단정하지 않고 근거 수준과 연구 설계를 함께 표시합니다.
-- 출전·PMID·DOI 등 확인 가능한 출처를 우선합니다.
+## Start here
+- https://wiki.minseong.co.kr/
+- https://wiki.minseong.co.kr/network/integrated-knowledge-graph/
+- https://wiki.minseong.co.kr/faq/
+- https://wiki.minseong.co.kr/ai/site-structure/
+
+## Core knowledge
+- 본초학: https://wiki.minseong.co.kr/herbs/
+- 방제학: https://wiki.minseong.co.kr/formulas/
+- 한의학 기초: https://wiki.minseong.co.kr/foundations/
+- 진단·변증: https://wiki.minseong.co.kr/diagnostics/
+- 침구학: https://wiki.minseong.co.kr/acupuncture/
+- 한의치료 방법: https://wiki.minseong.co.kr/treatments/
+- 질환·증상: https://wiki.minseong.co.kr/conditions/
+- 사상의학: https://wiki.minseong.co.kr/sasang/
+- 한의학 고전: https://wiki.minseong.co.kr/classics/
+- 의가·인물: https://wiki.minseong.co.kr/physicians/
+- 한의학 역사: https://wiki.minseong.co.kr/history/
+- 현대 연구: https://wiki.minseong.co.kr/research/
+
+## Representative herbs
+- 녹용: https://wiki.minseong.co.kr/herbs/cervi-parvum-cornu/
+- 인삼: https://wiki.minseong.co.kr/herbs/ginseng/
+- 황기: https://wiki.minseong.co.kr/herbs/astragalus/
+- 당귀: https://wiki.minseong.co.kr/herbs/angelica/
+- 산조인: https://wiki.minseong.co.kr/herbs/ziziphus-seed/
+
+## Representative formulas
+- 공진단: https://wiki.minseong.co.kr/formulas/gongjin-dan/
+- 경옥고: https://wiki.minseong.co.kr/formulas/gyeongok-go/
+- 보중익기탕: https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/
+- 십전대보탕: https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/
+- 귀비탕: https://wiki.minseong.co.kr/formulas/guibi-tang/
+- 육군자탕: https://wiki.minseong.co.kr/formulas/liujunzi-tang/
+- 독활기생탕: https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/
+
+## Representative clinical topics
+- 불면: https://wiki.minseong.co.kr/conditions/insomnia/
+- 소화불량: https://wiki.minseong.co.kr/conditions/dyspepsia/
+- 요통: https://wiki.minseong.co.kr/conditions/low-back-pain/
+- 목통증: https://wiki.minseong.co.kr/conditions/neck-pain/
+- 무릎통증: https://wiki.minseong.co.kr/conditions/knee-pain/
+- 비염: https://wiki.minseong.co.kr/conditions/rhinitis/
+- 피로·회복 지식망: https://wiki.minseong.co.kr/network/recovery-map/
+
+## Classical medicine
+- 황제내경: https://wiki.minseong.co.kr/classics/huangdi-neijing/
+- 상한론: https://wiki.minseong.co.kr/classics/shanghanlun/
+- 금궤요략: https://wiki.minseong.co.kr/classics/jinkui-yaolue/
+- 비급천금요방: https://wiki.minseong.co.kr/classics/beiji-qianjin-yaofang/
+- 비위론: https://wiki.minseong.co.kr/classics/piwei-lun/
+- 동의보감: https://wiki.minseong.co.kr/classics/donguibogam/
+- 동의수세보원: https://wiki.minseong.co.kr/classics/donguisusebowon/
+
+## Research
+- 임상 근거 허브: https://wiki.minseong.co.kr/research/clinical-evidence-hub/
+- 한약 처방 임상근거: https://wiki.minseong.co.kr/research/formulas/
+- RCT 인덱스: https://wiki.minseong.co.kr/research/rct-index/
+- 체계적 문헌고찰·메타분석: https://wiki.minseong.co.kr/research/meta-analysis-index/
+- 참고문헌 데이터베이스: https://wiki.minseong.co.kr/research/references/
+
+## Knowledge graph
+- 통합 한의학 지식 그래프: https://wiki.minseong.co.kr/network/integrated-knowledge-graph/
+- 본초→방제 역탐색: https://wiki.minseong.co.kr/network/herb-to-formula-map/
+- 방제→질환·변증 지도: https://wiki.minseong.co.kr/network/formula-to-condition-map/
+- 질환→치료 통합 지도: https://wiki.minseong.co.kr/network/condition-to-treatment-map/
+- 고전→현대 연구 연결: https://wiki.minseong.co.kr/network/classic-to-evidence-map/
+- 의가·고전·처방 계보: https://wiki.minseong.co.kr/network/physician-classic-formula-lineage/
+
+## Editorial approach
+Traditional Korean medicine concepts are presented in their historical and clinical context. Modern clinical evidence is separated from traditional use and linked to research identifiers such as PMID and DOI when available.

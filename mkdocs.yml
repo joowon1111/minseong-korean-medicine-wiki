@@ -72,6 +72,7 @@ nav:
   - 경혈 문서 작성 원칙: acupuncture/acupoint-writing-guide.md
   - SEO·AEO 문서 표준: seo-aeo-standard.md
   - 문서 메타데이터 점검표: metadata-audit-guide.md
+  - AI·검색엔진용 사이트 구조: ai/site-structure.md
 - 한의학 기초:
   - foundations/index.md
   - 음양·오행: foundations/yinyang-five-phases.md

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://wiki.minseong.co.kr/sitemap.xml
