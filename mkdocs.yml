@@ -290,6 +290,12 @@ nav:
   - 사상의학: faq/sasang-faq.md
   - 증상·치료: faq/conditions-faq.md
   - 고전·현대 연구: faq/classics-evidence-faq.md
+- 한의학 역사:
+  - history/index.md
+  - 한의학 역사 타임라인: history/timeline.md
+  - 의학사상·학파 지도: history/schools-map.md
+  - 고전의 흐름: history/classics-flow.md
+  - 처방의 역사적 흐름: history/formula-history.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
