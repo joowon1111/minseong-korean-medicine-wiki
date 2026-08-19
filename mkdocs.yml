@@ -283,6 +283,15 @@ nav:
     - 공진단: classics/donguibogam/gongjin-dan.md
     - 경옥고: classics/donguibogam/gyeongok-go.md
   - 동의수세보원: classics/donguisusebowon.md
+- 핵심 주제 허브:
+  - pillar/index.md
+  - 보익·회복 허브: pillar/tonic-recovery.md
+  - 통증·근골격 허브: pillar/pain-musculoskeletal.md
+  - 수면·신경계 허브: pillar/sleep-neuro.md
+  - 소화·비위 허브: pillar/digestion-spleen-stomach.md
+  - 침구·치료 허브: pillar/acupuncture-treatment.md
+  - 고전·역사 허브: pillar/classics-history.md
+  - 현대 임상근거 허브: pillar/clinical-evidence.md
 - 질문으로 찾기:
   - faq/index.md
   - 보익·공진단·경옥고: faq/tonic-faq.md
