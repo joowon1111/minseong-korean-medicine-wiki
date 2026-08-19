@@ -191,6 +191,15 @@ nav:
     - 위중 BL40: acupuncture/points/bl40-weizhong.md
     - 풍지 GB20: acupuncture/points/gb20-fengchi.md
   - 침구 치료 원리: acupuncture/treatment-principles.md
+- 한의치료 방법:
+  - treatments/index.md
+  - 침 치료: treatments/acupuncture.md
+  - 약침: treatments/pharmacopuncture.md
+  - 전침: treatments/electroacupuncture.md
+  - 부항: treatments/cupping.md
+  - 뜸: treatments/moxibustion.md
+  - 온열·TDP: treatments/thermal-tdp.md
+  - 복합 치료 전략: treatments/integrated-treatment.md
 - 사상의학:
   - sasang/index.md
   - 사상체질 개요: sasang/overview.md
@@ -307,3 +316,4 @@ nav:
   - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
   - 요통 경혈 지식망: network/low-back-pain-acupoints.md
   - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
+  - 한의치료 방법 지식망: network/treatment-methods-map.md
