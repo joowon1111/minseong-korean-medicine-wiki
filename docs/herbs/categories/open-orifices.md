@@ -1,7 +1,11 @@
 ---
 title: 개규 본초
 description: 방향개규와 통락의 특징을 가진 대표 본초를 정리합니다.
-tags: [본초학, 개규]
+tags:
+- 본초학
+- 개규
+status: 검토완료
+last_reviewed: '2026-08-19'
 ---
 # 개규 본초
 

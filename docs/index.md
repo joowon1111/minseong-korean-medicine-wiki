@@ -2,9 +2,13 @@
 title: 민성 한의학 아카이브
 description: 한의학의 본초·방제·고전·변증·임상 지식을 연결하는 전문 지식 아카이브입니다.
 hide:
-  - toc
+- toc
+status: 검토완료
+last_reviewed: '2026-08-19'
+tags:
+- 한의학
+- 지식아카이브
 ---
-
 # 민성 한의학 아카이브
 
 <div class="hero-box">

@@ -2,8 +2,9 @@
 title: 한의학 핵심 지식 빠른 색인
 description: 민성 한의학 아카이브의 핵심 본초·방제·고전·치료·연구 문서를 짧게 연결한 기계친화적 색인입니다.
 robots: index, follow
+status: 검토완료
+last_reviewed: '2026-08-19'
 ---
-
 # 민성 한의학 아카이브 핵심 색인
 
 ## 대표 본초
