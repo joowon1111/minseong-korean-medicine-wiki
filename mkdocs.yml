@@ -69,10 +69,12 @@ nav:
   - 분류 체계: guide/taxonomy.md
   - 출처·인용 원칙: guide/citation-policy.md
   - 문서 상태 기준: guide/status-policy.md
+  - 경혈 문서 작성 원칙: acupuncture/acupoint-writing-guide.md
 - 한의학 기초:
   - foundations/index.md
   - 음양·오행: foundations/yinyang-five-phases.md
   - 기·혈·진액: foundations/qi-blood-fluid.md
+  - 병인·병기: foundations/pathogenesis.md
   - 장부 개요: foundations/zangfu-overview.md
   - 간(肝): foundations/liver.md
   - 심(心): foundations/heart.md
@@ -85,6 +87,10 @@ nav:
   - 팔강변증: diagnostics/eight-principles.md
   - 장부변증: diagnostics/zangfu-patterns.md
   - 기혈진액변증: diagnostics/qi-blood-fluid-patterns.md
+  - 기허(氣虛): diagnostics/qi-deficiency.md
+  - 혈허(血虛): diagnostics/blood-deficiency.md
+  - 어혈(瘀血): diagnostics/blood-stasis.md
+  - 담음(痰飮): diagnostics/phlegm-fluid.md
 - 본초학:
   - herbs/index.md
   - 보익약:
@@ -352,3 +358,14 @@ nav:
   - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
   - 한의치료 방법 지식망: network/treatment-methods-map.md
   - 질환·증상 확장 지도: network/condition-expansion-map.md
+not_in_nav: '/ai-index.md
+
+  /foundations/zangfu.md
+
+  '
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+  links:
+    not_found: warn
