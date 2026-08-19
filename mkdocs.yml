@@ -176,7 +176,20 @@ nav:
   - 경락 개요: acupuncture/meridians.md
   - 십이경맥: acupuncture/twelve-meridians.md
   - 독맥·임맥: acupuncture/du-ren.md
-  - 주요 경혈: acupuncture/key-acupoints.md
+  - 주요 경혈:
+    - acupuncture/key-acupoints.md
+    - 합곡 LI4: acupuncture/points/li4-hegu.md
+    - 족삼리 ST36: acupuncture/points/st36-zusanli.md
+    - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
+    - 내관 PC6: acupuncture/points/pc6-neiguan.md
+    - 신문 HT7: acupuncture/points/ht7-shenmen.md
+    - 태충 LR3: acupuncture/points/lr3-taichong.md
+    - 관원 CV4: acupuncture/points/cv4-guanyuan.md
+    - 중완 CV12: acupuncture/points/cv12-zhongwan.md
+    - 백회 GV20: acupuncture/points/gv20-baihui.md
+    - 신수 BL23: acupuncture/points/bl23-shenshu.md
+    - 위중 BL40: acupuncture/points/bl40-weizhong.md
+    - 풍지 GB20: acupuncture/points/gb20-fengchi.md
   - 침구 치료 원리: acupuncture/treatment-principles.md
 - 사상의학:
   - sasang/index.md
@@ -289,3 +302,8 @@ nav:
   - 오령산 구성 본초: network/wuling-composition.md
   - 십전대보탕 구성 본초: network/shipjeondaebo-composition.md
   - 아카이브 분류 안내: network/navigation-guide.md
+  - 침구 임상 지식망: network/acupuncture-clinical-map.md
+  - 불면 경혈 지식망: network/insomnia-acupoints.md
+  - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
+  - 요통 경혈 지식망: network/low-back-pain-acupoints.md
+  - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
