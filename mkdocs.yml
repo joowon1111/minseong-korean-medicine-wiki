@@ -292,6 +292,14 @@ nav:
   - 침구·치료 허브: pillar/acupuncture-treatment.md
   - 고전·역사 허브: pillar/classics-history.md
   - 현대 임상근거 허브: pillar/clinical-evidence.md
+- 비교해서 찾기:
+  - compare/index.md
+  - 공진단과 경옥고: compare/gongjin-vs-gyeongok.md
+  - 보중익기탕과 십전대보탕: compare/buzhong-vs-sipjeondaebo.md
+  - 사군자탕과 육군자탕: compare/sijunzi-vs-liujunzi.md
+  - 귀비탕과 온담탕: compare/guibi-vs-wendan.md
+  - 침과 약침: compare/acupuncture-vs-pharmacopuncture.md
+  - 침과 전침: compare/acupuncture-vs-electroacupuncture.md
 - 증상으로 찾기:
   - symptoms/index.md
   - 피로·기력저하: symptoms/fatigue.md
