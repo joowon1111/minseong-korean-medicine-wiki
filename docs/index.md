@@ -1,62 +1,121 @@
 ---
 title: 민성 한의학 아카이브
-description: 한의학의 고전과 현대 연구를 연결하는 구조화된 지식 아카이브
-tags: [아카이브, 한의학]
+description: 한의학의 본초·방제·고전·변증·임상 지식을 연결하는 전문 지식 아카이브입니다.
+hide:
+  - toc
 ---
 
 # 민성 한의학 아카이브
 
-<div class="archive-hero" markdown>
+<div class="hero-box">
+  <div class="hero-kicker">MINSEONG KOREAN MEDICINE ARCHIVE</div>
+  <h2>고전에서 현대 연구까지,<br>한의학 지식을 연결합니다.</h2>
+  <p>
+    본초·방제·변증·고전·현대 연구를 각각 분리해 보는 데서 그치지 않고,
+    서로 연결된 하나의 지식망으로 정리합니다.
+  </p>
+</div>
 
-## MINSEONG Korean Medicine Archive
+<div class="hub-grid">
 
-한의학의 **고전·기초이론·진단·본초·방제·침구·사상의학·질환·현대 연구**를 문서 단위로 연결해 축적하는 지식 아카이브입니다.
+<a class="hub-card" href="herbs/">
+  <div class="hub-icon">藥</div>
+  <h3>본초학</h3>
+  <p>녹용·인삼·황기·당귀부터 백출·복령·산조인·두충·우슬까지.</p>
+  <span>본초 탐색 →</span>
+</a>
 
-이 아카이브는 전통적 설명과 현대 연구를 구분하고, 가능한 경우 원전·논문·PMID·DOI 등 확인 가능한 출처를 함께 기록하는 것을 원칙으로 합니다.
+<a class="hub-card" href="formulas/">
+  <div class="hub-icon">方</div>
+  <h3>방제학</h3>
+  <p>귀비탕·보중익기탕·십전대보탕·상한론 처방까지 구조적으로 연결합니다.</p>
+  <span>방제 탐색 →</span>
+</a>
+
+<a class="hub-card" href="classics/">
+  <div class="hub-icon">典</div>
+  <h3>한의학 고전</h3>
+  <p>황제내경·상한론·금궤요략·동의보감·동의수세보원의 흐름을 정리합니다.</p>
+  <span>고전 탐색 →</span>
+</a>
+
+<a class="hub-card" href="network/">
+  <div class="hub-icon">網</div>
+  <h3>한의학 지식망</h3>
+  <p>증상 → 변증 → 본초 → 방제로 이어지는 실제 탐색형 지식 구조입니다.</p>
+  <span>지식망 보기 →</span>
+</a>
 
 </div>
 
-<div class="archive-grid" markdown>
-<div class="archive-card" markdown>
-### 한의학 기초
-음양오행, 기혈진액, 장부, 병인·병기 등 기본 개념.
-</div>
-<div class="archive-card" markdown>
-### 진단·변증
-사진, 팔강, 장부, 기혈진액 등 진단과 변증 체계.
-</div>
-<div class="archive-card" markdown>
-### 본초학
-개별 본초의 전통적 성미·귀경·효능과 현대 연구.
-</div>
-<div class="archive-card" markdown>
-### 방제학
-출전, 구성, 방의, 변증, 유사 처방, 현대 연구.
-</div>
-<div class="archive-card" markdown>
-### 한의학 고전
-원전의 배경, 주요 개념, 대표 구절과 후대 해석.
-</div>
-<div class="archive-card" markdown>
-### 현대 연구
-임상시험, 체계적 문헌고찰, 메타분석과 근거 수준.
-</div>
+## 핵심 지식 경로
+
+<div class="path-grid">
+
+<div class="path-card">
+  <div class="path-label">보익·회복</div>
+  <h3>만성피로 → 기허 → 인삼·황기·녹용 → 보중익기탕·십전대보탕</h3>
+  <a href="network/fatigue-map/">만성피로 임상 지식망 →</a>
 </div>
 
-## 문서 읽는 법
+<div class="path-card">
+  <div class="path-label">수면</div>
+  <h3>불면 → 심비양허·담음 → 산조인 → 귀비탕·온담탕</h3>
+  <a href="network/insomnia-map/">불면 임상 지식망 →</a>
+</div>
 
-각 문서는 가능한 한 **① 전통적 맥락 → ② 원전/출전 → ③ 현대 연구 → ④ 관련 문서 → ⑤ 참고문헌** 순서로 구성합니다. 문서 상단의 `상태`와 `최종 검토일`을 통해 자료의 성숙도를 표시합니다.
+<div class="path-card">
+  <div class="path-label">소화기</div>
+  <h3>소화불량 → 비위기허·담습 → 백출·반하·진피 → 육군자탕</h3>
+  <a href="network/dyspepsia-map/">소화불량 임상 지식망 →</a>
+</div>
 
-!!! note "의학적 정보에 대한 안내"
-    이 사이트는 학술·교육 목적의 지식 아카이브이며 개별 환자에 대한 진단이나 치료 지시를 제공하기 위한 것이 아닙니다.
+<div class="path-card">
+  <div class="path-label">근골격</div>
+  <h3>요통 → 간신부족·어혈 → 두충·우슬·당귀 → 독활기생탕</h3>
+  <a href="network/low-back-pain-map/">요통 임상 지식망 →</a>
+</div>
 
-## 우선 구축 영역
+</div>
 
-1. 본초 100항목
-2. 방제 100항목
-3. 핵심 변증 50항목
-4. 주요 고전 20항목
-5. 질환·증상 100항목
-6. 현대 연구 리뷰 100항목
+## 대표 본초
 
-[운영 원칙 보기](guide/editorial-policy.md) · [분류 체계 보기](guide/taxonomy.md) · [출처 원칙 보기](guide/citation-policy.md)
+<div class="mini-grid">
+<a href="herbs/cervi-parvum-cornu/">녹용 鹿茸</a>
+<a href="herbs/ginseng/">인삼 人蔘</a>
+<a href="herbs/astragalus/">황기 黃芪</a>
+<a href="herbs/angelica/">당귀 當歸</a>
+<a href="herbs/atractylodes/">백출 白朮</a>
+<a href="herbs/poria/">복령 茯苓</a>
+<a href="herbs/ziziphus-seed/">산조인 酸棗仁</a>
+<a href="herbs/eucommia/">두충 杜仲</a>
+</div>
+
+## 대표 방제
+
+<div class="mini-grid">
+<a href="formulas/sijunzi-tang/">사군자탕 四君子湯</a>
+<a href="formulas/liujunzi-tang/">육군자탕 六君子湯</a>
+<a href="formulas/guibi-tang/">귀비탕 歸脾湯</a>
+<a href="formulas/buzhong-yiqi-tang/">보중익기탕 補中益氣湯</a>
+<a href="formulas/siwu-tang/">사물탕 四物湯</a>
+<a href="formulas/shi-quan-da-bu-tang/">십전대보탕 十全大補湯</a>
+<a href="formulas/duhuo-jisheng-tang/">독활기생탕 獨活寄生湯</a>
+<a href="formulas/shengmai-san/">생맥산 生脈散</a>
+</div>
+
+## 아카이브의 원칙
+
+<div class="principle-box">
+
+**전통을 존중하고, 현대 연구와 연결합니다.**
+
+한의학의 고전적 의미와 임상적 가치를 충분히 보여주면서,
+현대 연구는 성분·약리·임상근거의 층위를 구분해 정리합니다.
+한의학의 가치를 축소하지 않되, 과장하지 않는 전문 아카이브를 지향합니다.
+
+</div>
+
+---
+
+<small>운영: 민성 한의학 아카이브 · MINSEONG Korean Medicine Archive</small>

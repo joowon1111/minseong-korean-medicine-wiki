@@ -183,6 +183,7 @@ nav:
   - glossary/index.md
 - 태그: tags.md
 - 한의학 지식망:
+  - network/index.md
   - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
   - 인삼을 쓰는 처방: network/ginseng-formulas.md
   - 황기를 쓰는 처방: network/astragalus-formulas.md
