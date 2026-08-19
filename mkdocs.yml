@@ -135,7 +135,14 @@ nav:
   - 금궤요략: classics/jinkui-yaolue.md
   - 비급천금요방: classics/beiji-qianjin-yaofang.md
   - 비위론: classics/piwei-lun.md
-  - 동의보감: classics/donguibogam.md
+  - 동의보감:
+    - 개요: classics/donguibogam.md
+    - 탕액편:
+      - 탕액편 개요: classics/donguibogam/tangyeok/index.md
+      - 녹용: classics/donguibogam/tangyeok/deer-antler.md
+      - 인삼: classics/donguibogam/tangyeok/ginseng.md
+      - 황기: classics/donguibogam/tangyeok/astragalus.md
+      - 당귀: classics/donguibogam/tangyeok/angelica.md
   - 동의수세보원: classics/donguisusebowon.md
 - 현대 연구:
   - research/index.md
