@@ -19,8 +19,7 @@ extra:
 plugins:
   - search:
       lang: ko
-  - tags:
-      tags_file: tags.md
+  - tags
   - meta
 
 theme:
