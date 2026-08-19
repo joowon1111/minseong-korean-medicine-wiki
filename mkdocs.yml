@@ -411,6 +411,10 @@ nav:
     - 뇌졸중 재활: authority/conditions/stroke-rehabilitation.md
     - 뇌졸중 후 감각장애·통증: authority/conditions/post-stroke-sensory-pain.md
     - 뇌졸중 후 견수증후군: authority/conditions/post-stroke-shoulder-hand.md
+    - 뇌졸중 후 연하장애: authority/conditions/post-stroke-dysphagia.md
+    - 뇌졸중 후 우울: authority/conditions/post-stroke-depression.md
+    - 대상포진 후 신경통: authority/conditions/postherpetic-neuralgia.md
+    - 뇌졸중 후 경직: authority/conditions/post-stroke-spasticity.md
 - 현대 연구:
   - research/index.md
   - 임상시험 읽기: research/clinical-trials.md
