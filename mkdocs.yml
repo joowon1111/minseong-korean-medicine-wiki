@@ -98,6 +98,10 @@ nav:
   - 소시호탕: formulas/xiaochaihu-tang.md
   - 계지가갈근탕: formulas/guizhi-jia-gegen-tang.md
   - 갈근탕: formulas/gegen-tang.md
+  - 대청룡탕: formulas/daqinglong-tang.md
+  - 소청룡탕: formulas/xiaoqinglong-tang.md
+  - 오령산: formulas/wuling-san.md
+  - 마행감석탕: formulas/maxing-ganshi-tang.md
 - 침구학:
   - acupuncture/index.md
   - 경락 개요: acupuncture/meridians.md
@@ -122,6 +126,10 @@ nav:
       - 마황탕 주치 조문: classics/shanghanlun/mahuang-indication.md
       - 계지가갈근탕 조문: classics/shanghanlun/guizhi-jia-gegen.md
       - 갈근탕 조문: classics/shanghanlun/gegen-tang.md
+      - 대청룡탕 조문: classics/shanghanlun/daqinglong.md
+      - 소청룡탕 조문: classics/shanghanlun/xiaoqinglong.md
+      - 오령산 조문: classics/shanghanlun/wuling-san.md
+      - 마행감석탕 조문: classics/shanghanlun/maxing-ganshi.md
     - 소양병 조문:
       - 소시호탕 주치 조문: classics/shanghanlun/xiaochaihu-indication.md
   - 금궤요략: classics/jinkui-yaolue.md
