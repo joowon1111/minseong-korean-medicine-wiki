@@ -130,6 +130,18 @@ nav:
     - 팔강과 장부·기혈·육경 비교: eight-principles-network/comparison.md
     - 팔강변증 임상 추론: eight-principles-network/clinical-reasoning.md
     - 팔강변증 통합 지도: eight-principles-network/integrated-map.md
+  - 장부변증 핵심 지식망:
+    - zangfu-pattern-network/index.md
+    - 장부변증이란: zangfu-pattern-network/what-is-zangfu-pattern.md
+    - 간·담 병증: zangfu-pattern-network/liver-gallbladder.md
+    - 심·소장 병증: zangfu-pattern-network/heart-small-intestine.md
+    - 비·위 병증: zangfu-pattern-network/spleen-stomach.md
+    - 폐·대장 병증: zangfu-pattern-network/lung-large-intestine.md
+    - 신·방광 병증: zangfu-pattern-network/kidney-bladder.md
+    - 장부 상호관계: zangfu-pattern-network/interrelationships.md
+    - 장부변증→치법: zangfu-pattern-network/treatment-map.md
+    - 장부변증 임상 추론: zangfu-pattern-network/clinical-reasoning.md
+    - 장부변증 통합 지도: zangfu-pattern-network/integrated-map.md
 - 본초·방제:
   - portal/herbs-formulas.md
   - 본초학:
