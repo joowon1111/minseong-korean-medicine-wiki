@@ -134,3 +134,20 @@ last_reviewed: 2026-08-20
 한약과 침구를 단순히 “둘 다 한다”가 아니라 **어떤 병증과 기능문제를 각각 겨냥하는지** 명확히 합니다.
 
 → [환자 30개 키워드 한눈에 보기](index.md#환자-검색-키워드-30개-한눈에-카드)
+
+## 치료법을 고르는 임상 의사결정 지도
+
+| 질문 | 다음으로 볼 자료 |
+|---|---|
+| 이 증상에 위험신호가 있는가? | 이 페이지의 안전 체크 |
+| 한열·허실·담습·어혈 중 무엇이 중심인가? | [증상·치법으로 방제 찾기](../herbal-integrated/by-symptom-treatment.md) |
+| 어떤 처방군끼리 비교해야 하는가? | [처방 구조·비교](../herbal-integrated/formula-structure.md) |
+| 처방 안의 약재가 왜 들어가는가? | [본초 찾기](../herbal-integrated/herbs.md) · [본초 비교](../herbal-integrated/herb-comparisons.md) |
+| 침·전침·부항·온열 중 무엇을 볼 것인가? | [침구 치료수단 비교](../acupuncture-integrated/modalities.md) |
+| 어떤 혈위·부위를 볼 것인가? | [침구·치료 증상으로 찾기](../acupuncture-integrated/by-symptom.md) |
+| 치료가 맞는지 어떻게 판단하는가? | 증상별 회복신호 + [침구 경과·재평가](../acupuncture-integrated/followup.md) |
+| 근거 수준은 어떤가? | [연구·근거 임상 해석](../evidence-integrated/index.md) |
+
+### 핵심
+`치료법부터 선택 → 증상을 끼워 맞추기`가 아니라  
+**`증상 → 감별 → 병증 → 치법 → 치료수단 → 반응 → 재평가`** 순서로 갑니다.
