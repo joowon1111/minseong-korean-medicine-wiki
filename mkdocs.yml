@@ -67,93 +67,102 @@ markdown_extensions:
 nav:
 - 홈: index.md
 - 한의학 기초:
-  - portal/basics.md
-  - 한의학 기초:
-    - foundations/index.md
-    - 음양·오행: foundations/yinyang-five-phases.md
-    - 기·혈·진액: foundations/qi-blood-fluid.md
-    - 병인·병기: foundations/pathogenesis.md
-    - 장부 개요: foundations/zangfu-overview.md
-    - 간(肝): foundations/liver.md
-    - 심(心): foundations/heart.md
-    - 비(脾): foundations/spleen.md
-    - 폐(肺): foundations/lung.md
-    - 신(腎): foundations/kidney.md
-  - 한의학 역사:
-    - history/index.md
-    - 한의학 역사 타임라인: history/timeline.md
-    - 의학사상·학파 지도: history/schools-map.md
-    - 고전의 흐름: history/classics-flow.md
-    - 처방의 역사적 흐름: history/formula-history.md
-  - 핵심 개념 사전:
-    - concepts/index.md
-    - 기허·혈허·기혈양허: concepts/deficiency-map.md
-    - 어혈·담음·기체: concepts/pathological-products.md
-    - 비위기허·중기하함: concepts/spleen-qi-sinking.md
-    - 심비양허: concepts/heart-spleen-deficiency.md
-    - 간신부족·허손: concepts/liver-kidney-deficiency.md
-    - 풍한습비: concepts/wind-cold-damp-bi.md
-  - 변증→치법 지식망:
-    - pattern-treatment/index.md
-    - 기허: pattern-treatment/qi-deficiency.md
-    - 혈허·기혈양허: pattern-treatment/blood-deficiency.md
-    - 담음: pattern-treatment/phlegm-fluid.md
-    - 어혈: pattern-treatment/blood-stasis.md
-    - 심비양허: pattern-treatment/heart-spleen-deficiency.md
-    - 중기하함: pattern-treatment/sinking-middle-qi.md
-    - 풍한습비·허손: pattern-treatment/bi-deficiency.md
-    - 변증→본초·방제·경혈 지도: pattern-treatment/overview-map.md
-  - 임상 추론 경로:
-    - clinical-reasoning/index.md
-    - 피로: clinical-reasoning/fatigue.md
-    - 불면: clinical-reasoning/insomnia.md
-    - 소화불량: clinical-reasoning/dyspepsia.md
-    - 요통: clinical-reasoning/low-back-pain.md
-    - 비염: clinical-reasoning/rhinitis.md
-    - 통합 임상 추론 지도: clinical-reasoning/integrated-map.md
-  - 진료 안전·감별 안내:
-    - clinical-safety/index.md
-    - 통증에서 먼저 확인할 신호: clinical-safety/pain-red-flags.md
-    - 두통·어지럼에서 먼저 확인할 신호: clinical-safety/headache-dizziness.md
-    - 소화기 증상에서 먼저 확인할 신호: clinical-safety/digestive-red-flags.md
-    - 불면·피로에서 먼저 확인할 것: clinical-safety/fatigue-sleep-check.md
-    - 비염·호흡기 증상에서 먼저 확인할 것: clinical-safety/rhinitis-respiratory.md
-    - 한약·침구 치료 전 확인사항: clinical-safety/treatment-checklist.md
-  - 팔강변증 핵심 지식망:
-    - eight-principles-network/index.md
-    - 표리: eight-principles-network/exterior-interior.md
-    - 한열: eight-principles-network/cold-heat.md
-    - 허실: eight-principles-network/deficiency-excess.md
-    - 음양: eight-principles-network/yin-yang.md
-    - 팔강의 조합: eight-principles-network/combined-patterns.md
-    - 팔강→치법: eight-principles-network/treatment-map.md
-    - 팔강과 장부·기혈·육경 비교: eight-principles-network/comparison.md
-    - 팔강변증 임상 추론: eight-principles-network/clinical-reasoning.md
-    - 팔강변증 통합 지도: eight-principles-network/integrated-map.md
-  - 장부변증 핵심 지식망:
-    - zangfu-pattern-network/index.md
-    - 장부변증이란: zangfu-pattern-network/what-is-zangfu-pattern.md
-    - 간·담 병증: zangfu-pattern-network/liver-gallbladder.md
-    - 심·소장 병증: zangfu-pattern-network/heart-small-intestine.md
-    - 비·위 병증: zangfu-pattern-network/spleen-stomach.md
-    - 폐·대장 병증: zangfu-pattern-network/lung-large-intestine.md
-    - 신·방광 병증: zangfu-pattern-network/kidney-bladder.md
-    - 장부 상호관계: zangfu-pattern-network/interrelationships.md
-    - 장부변증→치법: zangfu-pattern-network/treatment-map.md
-    - 장부변증 임상 추론: zangfu-pattern-network/clinical-reasoning.md
-    - 장부변증 통합 지도: zangfu-pattern-network/integrated-map.md
-  - 한의학 기초→임상 통합 심화:
-    - foundations-clinical/index.md
-    - 음양·오행→임상: foundations-clinical/yinyang-fivephases.md
-    - 장부→병증: foundations-clinical/zangfu-to-pattern.md
-    - 기혈진액→병리: foundations-clinical/qi-blood-fluid.md
-    - 병인→병기: foundations-clinical/etiology-pathogenesis.md
-    - 팔강→구체적 변증: foundations-clinical/eight-principles-bridge.md
-    - 변증→치법: foundations-clinical/pattern-to-treatment.md
-    - 설·맥·문진 정보 통합: foundations-clinical/diagnostic-integration.md
-    - 임상추론 단계: foundations-clinical/clinical-reasoning.md
-    - 기초→본초·방제·침구 연결: foundations-clinical/treatment-bridge.md
-    - 전체 지식지도: foundations-clinical/integrated-map.md
+  - 한의학 기초 한눈에 보기: foundations-integrated/index.md
+  - 음양·오행: foundations-integrated/yinyang-fivephases.md
+  - 장부·기혈진액: foundations-integrated/zangfu-qi-blood-fluids.md
+  - 병인·병기: foundations-integrated/etiology-pathogenesis.md
+  - 사진·진단: foundations-integrated/diagnosis.md
+  - 변증·치법: foundations-integrated/pattern-treatment.md
+  - 임상 추론: foundations-integrated/clinical-reasoning.md
+  - 고전→현대 연결: foundations-integrated/classics-modern.md
+  - 상세 자료실:
+    - portal/basics.md
+    - 한의학 기초:
+      - foundations/index.md
+      - 음양·오행: foundations/yinyang-five-phases.md
+      - 기·혈·진액: foundations/qi-blood-fluid.md
+      - 병인·병기: foundations/pathogenesis.md
+      - 장부 개요: foundations/zangfu-overview.md
+      - 간(肝): foundations/liver.md
+      - 심(心): foundations/heart.md
+      - 비(脾): foundations/spleen.md
+      - 폐(肺): foundations/lung.md
+      - 신(腎): foundations/kidney.md
+    - 한의학 역사:
+      - history/index.md
+      - 한의학 역사 타임라인: history/timeline.md
+      - 의학사상·학파 지도: history/schools-map.md
+      - 고전의 흐름: history/classics-flow.md
+      - 처방의 역사적 흐름: history/formula-history.md
+    - 핵심 개념 사전:
+      - concepts/index.md
+      - 기허·혈허·기혈양허: concepts/deficiency-map.md
+      - 어혈·담음·기체: concepts/pathological-products.md
+      - 비위기허·중기하함: concepts/spleen-qi-sinking.md
+      - 심비양허: concepts/heart-spleen-deficiency.md
+      - 간신부족·허손: concepts/liver-kidney-deficiency.md
+      - 풍한습비: concepts/wind-cold-damp-bi.md
+    - 변증→치법 지식망:
+      - pattern-treatment/index.md
+      - 기허: pattern-treatment/qi-deficiency.md
+      - 혈허·기혈양허: pattern-treatment/blood-deficiency.md
+      - 담음: pattern-treatment/phlegm-fluid.md
+      - 어혈: pattern-treatment/blood-stasis.md
+      - 심비양허: pattern-treatment/heart-spleen-deficiency.md
+      - 중기하함: pattern-treatment/sinking-middle-qi.md
+      - 풍한습비·허손: pattern-treatment/bi-deficiency.md
+      - 변증→본초·방제·경혈 지도: pattern-treatment/overview-map.md
+    - 임상 추론 경로:
+      - clinical-reasoning/index.md
+      - 피로: clinical-reasoning/fatigue.md
+      - 불면: clinical-reasoning/insomnia.md
+      - 소화불량: clinical-reasoning/dyspepsia.md
+      - 요통: clinical-reasoning/low-back-pain.md
+      - 비염: clinical-reasoning/rhinitis.md
+      - 통합 임상 추론 지도: clinical-reasoning/integrated-map.md
+    - 진료 안전·감별 안내:
+      - clinical-safety/index.md
+      - 통증에서 먼저 확인할 신호: clinical-safety/pain-red-flags.md
+      - 두통·어지럼에서 먼저 확인할 신호: clinical-safety/headache-dizziness.md
+      - 소화기 증상에서 먼저 확인할 신호: clinical-safety/digestive-red-flags.md
+      - 불면·피로에서 먼저 확인할 것: clinical-safety/fatigue-sleep-check.md
+      - 비염·호흡기 증상에서 먼저 확인할 것: clinical-safety/rhinitis-respiratory.md
+      - 한약·침구 치료 전 확인사항: clinical-safety/treatment-checklist.md
+    - 팔강변증 핵심 지식망:
+      - eight-principles-network/index.md
+      - 표리: eight-principles-network/exterior-interior.md
+      - 한열: eight-principles-network/cold-heat.md
+      - 허실: eight-principles-network/deficiency-excess.md
+      - 음양: eight-principles-network/yin-yang.md
+      - 팔강의 조합: eight-principles-network/combined-patterns.md
+      - 팔강→치법: eight-principles-network/treatment-map.md
+      - 팔강과 장부·기혈·육경 비교: eight-principles-network/comparison.md
+      - 팔강변증 임상 추론: eight-principles-network/clinical-reasoning.md
+      - 팔강변증 통합 지도: eight-principles-network/integrated-map.md
+    - 장부변증 핵심 지식망:
+      - zangfu-pattern-network/index.md
+      - 장부변증이란: zangfu-pattern-network/what-is-zangfu-pattern.md
+      - 간·담 병증: zangfu-pattern-network/liver-gallbladder.md
+      - 심·소장 병증: zangfu-pattern-network/heart-small-intestine.md
+      - 비·위 병증: zangfu-pattern-network/spleen-stomach.md
+      - 폐·대장 병증: zangfu-pattern-network/lung-large-intestine.md
+      - 신·방광 병증: zangfu-pattern-network/kidney-bladder.md
+      - 장부 상호관계: zangfu-pattern-network/interrelationships.md
+      - 장부변증→치법: zangfu-pattern-network/treatment-map.md
+      - 장부변증 임상 추론: zangfu-pattern-network/clinical-reasoning.md
+      - 장부변증 통합 지도: zangfu-pattern-network/integrated-map.md
+    - 한의학 기초→임상 통합 심화:
+      - foundations-clinical/index.md
+      - 음양·오행→임상: foundations-clinical/yinyang-fivephases.md
+      - 장부→병증: foundations-clinical/zangfu-to-pattern.md
+      - 기혈진액→병리: foundations-clinical/qi-blood-fluid.md
+      - 병인→병기: foundations-clinical/etiology-pathogenesis.md
+      - 팔강→구체적 변증: foundations-clinical/eight-principles-bridge.md
+      - 변증→치법: foundations-clinical/pattern-to-treatment.md
+      - 설·맥·문진 정보 통합: foundations-clinical/diagnostic-integration.md
+      - 임상추론 단계: foundations-clinical/clinical-reasoning.md
+      - 기초→본초·방제·침구 연결: foundations-clinical/treatment-bridge.md
+      - 전체 지식지도: foundations-clinical/integrated-map.md
 - 본초·방제:
   - 본초·방제 한눈에 보기: herbal-integrated/index.md
   - 본초 찾기: herbal-integrated/herbs.md
