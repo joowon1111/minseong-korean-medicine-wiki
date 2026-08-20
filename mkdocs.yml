@@ -694,6 +694,19 @@ nav:
       - 체질별 용량 패턴: sasang-formula-dose-fingerprint/constitution-dose-patterns.md
       - 유사처방 구성비 비교: sasang-formula-dose-fingerprint/dose-pair-comparisons.md
       - 처방 용량 지문 표: sasang-formula-dose-fingerprint/formula-fingerprint-table.md
+    - 사상처방 라이브러리 V4 추가:
+      - 황련청장탕: sasang-formula-library/hwangryeoncheongjang-tang.md
+      - 갈근해기탕: sasang-formula-library/galgeunhaegi-tang.md
+      - 갈근승기탕: sasang-formula-library/galgeunseunggi-tang.md
+      - 승지조위탕: sasang-formula-library/seungjijowi-tang.md
+      - 승양팔물탕: sasang-formula-library/seungyangpalmul-tang.md
+      - 향부자팔물탕: sasang-formula-library/hyangbujapalmul-tang.md
+      - 향소산: sasang-formula-library/hyangso-san.md
+      - 궁귀향소산: sasang-formula-library/gunggwihyangso-san.md
+      - 계지부자탕: sasang-formula-library/gyejibujatang.md
+      - 인삼계지부자탕: sasang-formula-library/insamgyejibujatang.md
+      - 오수유부자이중탕: sasang-formula-library/osuyubujairijung-tang.md
+      - 궁귀총소이중탕: sasang-formula-library/gunggwichongsoijung-tang.md
 - 연구·근거:
   - 연구·근거 한눈에 보기: evidence-integrated/index.md
   - 근거 수준 읽기: evidence-integrated/evidence-levels.md
