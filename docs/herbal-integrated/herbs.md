@@ -1,74 +1,80 @@
 ---
 title: 본초 찾기
-tags: [본초, 방제, 통합허브, 임상탐색]
+tags: [본초, 방제, 임상본초, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
 ---
 # 본초 찾기
 
-## 가장 많이 보는 본초군
+본초를 단독 효능으로만 보지 않고 **치법 → 본초군 → 실제 처방에서의 역할**까지 연결합니다.
 
-### 보익
-[녹용](../herbs/cervi-parvum-cornu.md) · [인삼](../herbs/ginseng.md) · [황기](../herbs/astragalus.md) · [당귀](../herbs/angelica.md) · [숙지황](../herbs/prepared-rehmannia.md)
+## 보기·보혈·보음·보양
 
-### 비위·담음
-[백출](../herbs/atractylodes.md) · [복령](../herbs/poria.md) · [반하](../herbs/pinellia.md) · [진피](../herbs/citrus-peel.md)
-
-### 양음·생진
-[생지황](../herbs/fresh-rehmannia.md) · [맥문동](../herbs/ophiopogon.md) · [오미자](../herbs/schisandra.md)
-
-### 활혈·보혈
-[당귀](../herbs/angelica.md) · [천궁](../herbs/chuanxiong.md) · [백작약](../herbs/white-peony.md)
-
-### 사상처방에서 자주 만나는 본초
-[갈근](../herbs/pueraria.md) · [황금](../herbs/scutellaria.md) · [석고](../herbs/gypsum.md) · [형개](../herbs/schizonepeta.md) · [방풍](../herbs/saposhnikovia.md) · [강활](../herbs/notopterygium.md) · [독활](../herbs/angelica-pubescens.md) · [나복자](../herbs/raphanus-seed.md) · [길경](../herbs/platycodon.md) · [마황](../herbs/ephedra.md)
-
-→ [본초학 전체](../herbs/index.md)  
-→ [본초→사상처방 역색인](../herbs/sasang-formula-reverse-index.md)
-
-
-## 임상에서 자주 쓰는 주요 본초 확장
-
-### 소간·화해·청열
-[시호](../herbs/bupleurum.md) · [황련](../herbs/coptis.md) · [치자](../herbs/gardenia.md) · [금은화](../herbs/honeysuckle.md) · [우방자](../herbs/arctium.md)
-
-### 이기·소화·비위
-[후박](../herbs/magnolia-bark.md) · [사인](../herbs/amomum.md) · [목향](../herbs/aucklandia.md) · [향부자](../herbs/cyperus.md) · [지실](../herbs/citrus-immature.md)
-
-### 활혈·근골
-[도인](../herbs/peach-kernel.md) · [홍화](../herbs/safflower.md) · [단삼](../herbs/salvia.md) · [우슬](../herbs/achyranthes.md) · [두충](../herbs/eucommia.md) · [속단](../herbs/dipsacus.md) · [골쇄보](../herbs/drynaria.md)
-
-### 이수·습담
-[의이인](../herbs/coix.md) · [차전자](../herbs/plantago-seed.md)
-
-### 안신·정신
-[원지](../herbs/polygala.md) · [석창포](../herbs/acorus.md) · [용안육](../herbs/longan.md) · [백자인](../herbs/thuja-seed.md)
-
-### 양음·윤폐·생진
-[백합](../herbs/lily.md) · [천화분](../herbs/trichosanthes-root.md) · [천문동](../herbs/ophiopogon-extra.md) · [산약](../herbs/schisandra-extra.md) · [구기자](../herbs/cornus-extra.md) · [목단피](../herbs/moutan.md)
-
-### 해표·호흡
-[박하](../herbs/mint.md) · [천패모](../herbs/fritillaria.md) · [행인](../herbs/apricot-kernel.md) · [자소엽](../herbs/perilla-leaf.md) · [생강](../herbs/fresh-ginger.md)
-
-### 온리·회양
-[건강](../herbs/dried-ginger.md) · [부자](../herbs/aconite.md)
-
-
-## 헷갈리기 쉬운 주요 본초 비교
-
-본초 이름을 하나씩 외우기보다 **비슷한 효능을 가진 약재의 차이**를 비교하면 임상에서 훨씬 빠르게 구조가 잡힙니다.
-
-| 비교 | 핵심 질문 | 바로가기 |
+| 본초군 | 핵심 | 대표 처방 연결 |
 |---|---|---|
-| 황련 · 황금 · 황백 | 같은 청열약인데 상·중·하초와 습열의 차이는? | [삼황 비교](herb-comparisons.md#삼황-황련-황금-황백) |
-| 시호 · 향부자 | 둘 다 울체에 쓰는데 무엇이 다른가? | [소간·해울 비교](herb-comparisons.md#시호-vs-향부자) |
-| 후박 · 지실 · 목향 · 사인 | 복만·창만·기체·습체에서 어떻게 고르나? | [비위 이기약 비교](herb-comparisons.md#후박-지실-목향-사인) |
-| 도인 · 홍화 · 단삼 | 활혈화어의 강점이 어떻게 다른가? | [활혈약 비교](herb-comparisons.md#도인-홍화-단삼) |
-| 두충 · 속단 · 우슬 · 골쇄보 | 요슬·근골 허약과 손상에서 차이는? | [근골 보익약 비교](herb-comparisons.md#두충-속단-우슬-골쇄보) |
-| 맥문동 · 천문동 · 백합 | 양음윤폐에서 어떻게 다른가? | [윤폐양음 비교](herb-comparisons.md#맥문동-천문동-백합) |
-| 원지 · 산조인 · 백자인 · 용안육 | 불면·심계·건망에서 어떤 차이가 있나? | [안신약 비교](herb-comparisons.md#원지-산조인-백자인-용안육) |
-| 건강 · 부자 · 육계 | 온리·회양·보화의 차이는? | [온리약 비교](herb-comparisons.md#건강-부자-육계) |
-| 복령 · 의이인 · 택사 · 차전자 | 같은 이수삼습인데 어디에 초점이 있나? | [이수삼습 비교](herb-comparisons.md#복령-의이인-택사-차전자) |
-| 행인 · 천패모 · 반하 | 기침·담에서 어떤 방향이 다른가? | [지해화담 비교](herb-comparisons.md#행인-천패모-반하) |
+| 인삼·황기·백출 | 보기·건비 | [보중익기탕](../formulas/buzhong-yiqi-classic.md) · [귀비탕](../formulas/guipi-classic.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| 당귀·숙지황·백작약·천궁 | 양혈·활혈 | [쌍화탕](../formulas/ssanghwa-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) · [온경탕](../formulas/wenjing-tang.md) |
+| 맥문동·천문동·생지황 | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
+| 두충·우슬·속단 | 보간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-classic.md) |
 
-→ [주요 본초 비교·감별 전체 보기](herb-comparisons.md)
+## 이기·소화
+
+| 본초군 | 핵심 | 대표 처방 연결 |
+|---|---|---|
+| 진피·후박·지실 | 행기·제만·소적 | [평위산](../formulas/pingwei-san.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) |
+| 목향·사인·향부자 | 이기·화습·소간 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
+| 산사·신곡·나복자 | 소식화적 | [보화환](../formulas/baohe-wan.md) |
+
+## 화담·지해·평천
+
+| 본초군 | 핵심 | 대표 처방 연결 |
+|---|---|---|
+| 반하·진피·복령 | 조습화담 | [이진탕](../formulas/erchen-tang.md) · [도담탕](../formulas/daotan-tang.md) |
+| 반하·천마·백출 | 화담식풍 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) |
+| 행인·마황·석고 | 선폐평천·청열 | [마행감석탕](../formulas/maxing-ganshi-tang.md) |
+| 소자·반하·후박 | 강기거담 | [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
+
+## 청열·해독
+
+| 본초군 | 핵심 | 대표 처방 연결 |
+|---|---|---|
+| 황련·황금·황백·치자 | 청열사화·조습 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [용담사간탕](../formulas/longdan-xiegan-tang.md) |
+| 석고·지모 | 청기분열 | [백호탕](../formulas/baihu-tang.md) |
+| 금은화·연교 | 청열해독·소산풍열 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) |
+
+## 활혈·거어
+
+| 본초군 | 핵심 | 대표 처방 연결 |
+|---|---|---|
+| 도인·홍화·천궁·적작약 | 활혈거어 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) · [보양환오탕](../formulas/buyang-huanwu-tang.md) |
+| 도인·대황·망초 | 축혈·공하 | [도핵승기탕](../formulas/taohe-chengqi-tang.md) |
+
+## 이수·삼습
+
+| 본초군 | 핵심 | 대표 처방 연결 |
+|---|---|---|
+| 복령·저령·택사 | 이수삼습 | [오령산](../formulas/wuling-san.md) · [저령탕](../formulas/zhuling-tang.md) |
+| 부자·백출·복령 | 온양이수 | [진무탕](../formulas/zhenwu-tang.md) |
+| 차전자·목통·활석 | 청열이수통림 | [팔정산](../formulas/bazheng-san.md) |
+
+## 안신·정신
+
+| 본초군 | 핵심 | 대표 처방 연결 |
+|---|---|---|
+| 산조인·복신·원지 | 양심안신 | [귀비탕](../formulas/guipi-classic.md) · [산조인탕](../formulas/suanzaoren-tang.md) |
+| 산조인·백자인·원지·생지황 | 자음양혈·안신 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+
+## 소간·해울
+
+| 본초군 | 핵심 | 대표 처방 연결 |
+|---|---|---|
+| 시호·향부자 | 소간해울·이기 | [소요산](../formulas/xiaoyao-san.md) · [시호소간산](../formulas/chaihu-shugan-san.md) |
+| 반하·후박·자소엽 | 행기산결·화담 | [반하후박탕](../formulas/banxia-houpo-tang.md) |
+
+## 본초를 읽는 순서
+
+`본초 효능 → 어떤 병증에서 쓰이는가 → 어떤 본초와 배합되는가 → 어떤 처방을 만드는가 → 그 처방의 치법은 무엇인가`
+
+→ [주요 본초 비교·감별](herb-comparisons.md)  
+→ [방제 찾기](formulas.md)  
+→ [증상·치법으로 찾기](by-symptom-treatment.md)
