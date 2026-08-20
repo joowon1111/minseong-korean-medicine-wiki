@@ -495,6 +495,17 @@ nav:
     - 진료 우선순위 체크: sasang-severity/clinical-priority.md
     - 회복·예후 추적: sasang-severity/recovery-prognosis.md
     - 근거: sasang-severity/references.md
+  - 사상체질 치료 경과관찰·재평가:
+    - sasang-followup/index.md
+    - 초진 기록: sasang-followup/initial-assessment.md
+    - 1차 치료 후 재평가: sasang-followup/first-followup.md
+    - 소증·현증 변화표: sasang-followup/symptom-change-table.md
+    - 처방 유지·변경 판단: sasang-followup/formula-decision.md
+    - 체질별 회복 추적: sasang-followup/constitution-recovery.md
+    - mCGI 기반 평가: sasang-followup/mcgi-assessment.md
+    - 재발예방·생활관리: sasang-followup/relapse-prevention.md
+    - 진료 경과기록 템플릿: sasang-followup/clinical-template.md
+    - 근거: sasang-followup/references.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
