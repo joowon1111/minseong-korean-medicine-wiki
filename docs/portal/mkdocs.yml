@@ -668,6 +668,17 @@ nav:
     - 대표 처방 구조: shanghan-network/formula-map.md
     - 상한론 임상 추론: shanghan-network/clinical-reasoning.md
     - 상한론→현대 한의학 지도: shanghan-network/integrated-map.md
+  - 금궤요략 핵심 지식망:
+    - jingui-network/index.md
+    - 잡병과 병증 구조: jingui-network/misc-disease-framework.md
+    - 담음·수기: jingui-network/phlegm-fluid.md
+    - 흉비·심통: jingui-network/chest-bi-heart-pain.md
+    - 복만·한산·숙식: jingui-network/abdominal-cold-food-retention.md
+    - 허로: jingui-network/consumptive-deficiency.md
+    - 부인병: jingui-network/gynecology.md
+    - 대표 처방 구조: jingui-network/formula-map.md
+    - 금궤요략 임상 추론: jingui-network/clinical-reasoning.md
+    - 금궤요략→현대 한의학 지도: jingui-network/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
