@@ -168,6 +168,42 @@ nav:
   - 본초 찾기: herbal-integrated/herbs.md
   - 주요 본초 비교·감별: herbal-integrated/herb-comparisons.md
   - 방제 찾기: herbal-integrated/formulas.md
+  - 일반 방제 임상 지도:
+    - herbal-integrated/general-formulary.md
+    - 비위·소화:
+      - 평위산: formulas/pingwei-san.md
+      - 향사육군자탕: formulas/xiangsha-liujunzi-tang.md
+      - 향사양위탕: formulas/xiangsha-yangwei-tang.md
+      - 불환금정기산: formulas/buhuanjin-zhengqi-san.md
+      - 인삼양위탕: formulas/renshen-yangwei-tang.md
+      - 보화환: formulas/baohe-wan.md
+      - 위령탕: formulas/weiling-tang.md
+    - 담음·현훈·불면:
+      - 이진탕: formulas/erchen-tang.md
+      - 반하백출천마탕: formulas/banxia-baizhu-tianma-tang.md
+      - 도담탕: formulas/daotan-tang.md
+      - 가미온담탕: formulas/jiawei-wendan-tang.md
+      - 천왕보심단: formulas/tianwang-buxin-dan.md
+      - 산조인탕: formulas/suanzaoren-tang.md
+    - 간울·기체·활혈:
+      - 소요산: formulas/xiaoyao-san.md
+      - 가미소요산: formulas/jiawei-xiaoyao-san.md
+      - 분심기음: formulas/fenxin-qiyin.md
+      - 오약순기산: formulas/wuyao-shunqi-san.md
+      - 혈부축어탕: formulas/xuefu-zhuyu-tang.md
+    - 외감·호흡·청열:
+      - 삼소음: formulas/renshen-suyin.md
+      - 형개연교탕: formulas/jingjie-lianqiao-tang.md
+      - 연교패독산: formulas/lianqiao-baidu-san.md
+      - 맥문동탕: formulas/maidong-tang.md
+    - 한열·비위조화:
+      - 반하사심탕: formulas/banxia-xiexin-tang.md
+      - 오적산: formulas/wujisan.md
+    - 보익·음양:
+      - 자음강화탕: formulas/ziyin-jianghuo-tang.md
+      - 청심연자음: formulas/qingxin-lianzi-yin.md
+      - 육미지황환: formulas/liu wei dihuang wan.md
+      - 팔미지황환: formulas/bawei-dihuang-wan.md
   - 보익·회복 핵심: herbal-integrated/tonic-recovery.md
   - 증상·치법으로 찾기: herbal-integrated/by-symptom-treatment.md
   - 처방 구조·비교: herbal-integrated/formula-structure.md
