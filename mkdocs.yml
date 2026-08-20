@@ -170,6 +170,7 @@ nav:
   - 방제 찾기: herbal-integrated/formulas.md
   - 일반 방제 임상 지도:
     - herbal-integrated/general-formulary.md
+  - 건강보험 한약제제: herbal-integrated/insurance-herbal.md
     - 비위·소화:
       - 평위산: formulas/pingwei-san.md
       - 향사육군자탕: formulas/xiangsha-liujunzi-tang.md
@@ -1014,6 +1015,7 @@ nav:
       - 두통: conditions/headache.md
       - 어지럼: conditions/dizziness.md
       - 비염: conditions/rhinitis.md
+      - 감기·급성 상기도감염: conditions/common-cold.md
       - 기침: conditions/cough.md
       - 갱년기: conditions/menopause.md
       - 산후회복: conditions/postpartum-recovery.md
