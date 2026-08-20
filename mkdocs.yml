@@ -463,7 +463,7 @@ nav:
       - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
       - 기전·전임상 연구: research/mechanism-preclinical-index.md
     - 참고문헌 데이터베이스: research/references/index.md
-- 지식지도·안내:
+- 전체 둘러보기:
   - portal/maps.md
   - 안내:
     - guide/index.md
@@ -638,6 +638,87 @@ nav:
       - 신양(腎陽): glossary/kidney-yang.md
       - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
       - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
+  - 한의학 고전 비교·계보:
+    - classics-network/index.md
+    - 황제내경: classics-network/huangdi-neijing.md
+    - 상한론: classics-network/shanghan-lun.md
+    - 금궤요략: classics-network/jingui-yaolue.md
+    - 동의보감: classics-network/donguibogam.md
+    - 동의수세보원: classics-network/donguisusebowon.md
+    - 고전 5종 비교: classics-network/comparison.md
+    - 고전 읽는 순서: classics-network/reading-path.md
+    - 고전→현대 임상 연결 지도: classics-network/integrated-map.md
+  - 황제내경 핵심 지식망:
+    - neijing-network/index.md
+    - 음양과 인체: neijing-network/yinyang-human-body.md
+    - 장부와 기능체계: neijing-network/zangfu-system.md
+    - 기혈진액: neijing-network/qi-blood-fluids.md
+    - 경락과 경맥: neijing-network/meridian-concepts.md
+    - 병인·병기: neijing-network/pathogenesis.md
+    - 사진·진단: neijing-network/diagnosis.md
+    - 치미병과 예방: neijing-network/prevention.md
+    - 황제내경→현대 한의학 지도: neijing-network/integrated-map.md
+  - 상한론 핵심 지식망:
+    - shanghan-network/index.md
+    - 육경변증: shanghan-network/six-stage-patterns.md
+    - 태양병: shanghan-network/taiyang.md
+    - 양명병: shanghan-network/yangming.md
+    - 소양병: shanghan-network/shaoyang.md
+    - 태음·소음·궐음: shanghan-network/yin-stages.md
+    - 대표 처방 구조: shanghan-network/formula-map.md
+    - 상한론 임상 추론: shanghan-network/clinical-reasoning.md
+    - 상한론→현대 한의학 지도: shanghan-network/integrated-map.md
+  - 금궤요략 핵심 지식망:
+    - jingui-network/index.md
+    - 잡병과 병증 구조: jingui-network/misc-disease-framework.md
+    - 담음·수기: jingui-network/phlegm-fluid.md
+    - 흉비·심통: jingui-network/chest-bi-heart-pain.md
+    - 복만·한산·숙식: jingui-network/abdominal-cold-food-retention.md
+    - 허로: jingui-network/consumptive-deficiency.md
+    - 부인병: jingui-network/gynecology.md
+    - 대표 처방 구조: jingui-network/formula-map.md
+    - 금궤요략 임상 추론: jingui-network/clinical-reasoning.md
+    - 금궤요략→현대 한의학 지도: jingui-network/integrated-map.md
+  - 동의보감 핵심 지식망:
+    - donguibogam-network/index.md
+    - 내경편: donguibogam-network/naegyeong.md
+    - 외형편: donguibogam-network/oehyeong.md
+    - 잡병편: donguibogam-network/japbyeong.md
+    - 탕액편: donguibogam-network/tangaek.md
+    - 침구편: donguibogam-network/chimgu.md
+    - 양생과 예방: donguibogam-network/yangsaeng-prevention.md
+    - 동의보감 임상 탐색법: donguibogam-network/clinical-navigation.md
+    - 동의보감→현대 한의학 지도: donguibogam-network/integrated-map.md
+  - 동의수세보원 핵심 지식망:
+    - donguisusebowon-network/index.md
+    - 사상인의 기본 구조: donguisusebowon-network/four-constitutions.md
+    - 성명론·사단론의 의미: donguisusebowon-network/seongmyeong-sadan.md
+    - 장부론과 체질 생리: donguisusebowon-network/zangbu-physiology.md
+    - 소증과 체질병증: donguisusebowon-network/ordinary-symptoms-patterns.md
+    - 표리병증과 처방: donguisusebowon-network/exterior-interior-patterns.md
+    - 체질별 치료 원칙: donguisusebowon-network/treatment-principles.md
+    - 양생·성정 관리: donguisusebowon-network/lifestyle-emotion.md
+    - 동의수세보원→현대 사상의학 지도: donguisusebowon-network/integrated-map.md
+  - 온병학 핵심 지식망:
+    - wenbing-network/index.md
+    - 온병학이란: wenbing-network/what-is-wenbing.md
+    - 위기영혈변증: wenbing-network/wei-qi-ying-xue.md
+    - 삼초변증: wenbing-network/triple-burner-patterns.md
+    - 위분·기분: wenbing-network/wei-qi-stages.md
+    - 영분·혈분: wenbing-network/ying-xue-stages.md
+    - 대표 처방 구조: wenbing-network/formula-map.md
+    - 온열론과 온병조변: wenbing-network/classic-texts.md
+    - 상한론과 온병학 비교: wenbing-network/shanghan-comparison.md
+    - 온병학→현대 한의학 지도: wenbing-network/integrated-map.md
+  - 방약합편 핵심 지식망:
+    - bangyakhappyeon-network/index.md
+    - 방약합편이란: bangyakhappyeon-network/what-is-bangyakhappyeon.md
+    - 상통·중통·하통: bangyakhappyeon-network/sang-jung-ha.md
+    - 손익본초·약성가: bangyakhappyeon-network/boncho-yakseongga.md
+    - 칠방·십제: bangyakhappyeon-network/seven-formulas-ten-agents.md
+    - 처방 탐색법: bangyakhappyeon-network/clinical-navigation.md
+    - 동의보감과 방약합편 비교: bangyakhappyeon-network/donguibogam-comparison.md
+    - 방약합편→현대 임상 지도: bangyakhappyeon-network/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
