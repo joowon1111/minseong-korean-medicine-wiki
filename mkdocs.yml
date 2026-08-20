@@ -623,6 +623,18 @@ nav:
       - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
       - 기전·전임상 연구: research/mechanism-preclinical-index.md
     - 참고문헌 데이터베이스: research/references/index.md
+  - 연구·근거 임상 해석 심화:
+    - evidence-clinical/index.md
+    - 근거의 층위: evidence-clinical/evidence-levels.md
+    - 고전근거와 현대근거: evidence-clinical/classic-vs-modern.md
+    - 전임상·기전 연구 읽기: evidence-clinical/preclinical.md
+    - 증례·관찰연구 읽기: evidence-clinical/case-observational.md
+    - RCT 읽기: evidence-clinical/rct.md
+    - 체계적 문헌고찰·메타분석: evidence-clinical/systematic-review.md
+    - 임상진료지침 읽기: evidence-clinical/guidelines.md
+    - 한의학 연구의 해석 포인트: evidence-clinical/km-specific.md
+    - 근거→임상 적용: evidence-clinical/evidence-to-practice.md
+    - 통합 근거 지도: evidence-clinical/integrated-map.md
 - 전체 둘러보기:
   - portal/maps.md
   - 안내:
