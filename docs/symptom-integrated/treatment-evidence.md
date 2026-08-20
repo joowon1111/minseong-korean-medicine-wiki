@@ -170,3 +170,23 @@ last_reviewed: 2026-08-20
 → [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)  
 → [사상의학 병증 비교](../sasang-integrated/patterns.md)  
 → [사상 대표처방 찾기](../sasang-integrated/formulas.md)
+
+## 치료 후보를 찾은 다음 근거를 확인하기
+
+처방이나 침구치료 후보를 찾았다고 바로 결론내리지 않고 **그 치료에 어떤 종류의 근거가 있는지** 한 단계 더 확인합니다.
+
+```text
+증상·병증
+ ↓
+치료 후보
+ ↓
+고전/공식DB/진료지침/임상시험 중 어떤 근거인가?
+ ↓
+내 환자와 연구 대상이 비슷한가?
+ ↓
+효과 + 안전성 + 기능변화
+ ↓
+치료·재평가
+```
+
+→ [연구·근거 임상 해석](../evidence-integrated/index.md)
