@@ -460,6 +460,19 @@ nav:
     - 6종 비교: sasang-formula-cards/comparison-map.md
     - 처방 선택 원칙: sasang-formula-cards/selection-principles.md
     - 근거: sasang-formula-cards/references.md
+  - 사상처방 상세 임상 카드 2차:
+    - sasang-formula-cards-2/index.md
+    - 열다한소탕: sasang-formula-cards-2/yeoldahanso-tang.md
+    - 조위승청탕: sasang-formula-cards-2/jowiseungcheong-tang.md
+    - 청폐사간탕: sasang-formula-cards-2/cheongpyesagan-tang.md
+    - 독활지황탕: sasang-formula-cards-2/dokhwaljihwang-tang.md
+    - 형방사백산: sasang-formula-cards-2/hyeongbangsabaek-san.md
+    - 백하오이중탕: sasang-formula-cards-2/baekhao-ijung-tang.md
+    - 관계부자이중탕: sasang-formula-cards-2/gwangye-buja-ijung-tang.md
+    - 오가피장척탕: sasang-formula-cards-2/ogapi-jangcheok-tang.md
+    - 미후등식장탕: sasang-formula-cards-2/mihudeung-sikjang-tang.md
+    - 15종 처방 연결 지도: sasang-formula-cards-2/full-map.md
+    - 근거: sasang-formula-cards-2/references.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
