@@ -155,154 +155,163 @@ nav:
     - 기초→본초·방제·침구 연결: foundations-clinical/treatment-bridge.md
     - 전체 지식지도: foundations-clinical/integrated-map.md
 - 본초·방제:
-  - portal/herbs-formulas.md
-  - 본초학:
-    - herbs/index.md
-    - 보익약:
-      - herbs/categories/tonics.md
-      - 녹용: herbs/cervi-parvum-cornu.md
-      - 인삼: herbs/ginseng.md
-      - 황기: herbs/astragalus.md
-      - 당귀: herbs/angelica.md
-      - 숙지황: herbs/prepared-rehmannia.md
-      - 백출: herbs/atractylodes.md
-      - 복령: herbs/poria.md
-      - 산수유: herbs/cornus-fruit.md
-      - 두충: herbs/eucommia.md
-      - 우슬: herbs/achyranthes.md
-    - 안신·양심:
-      - herbs/categories/calm-spirit.md
-      - 산조인: herbs/ziziphus-seed.md
-      - 복령: herbs/poria.md
-      - 오미자: herbs/schisandra.md
-    - 화담·이기:
-      - herbs/categories/phlegm-qi.md
-      - 반하: herbs/pinellia.md
-      - 진피: herbs/citrus-peel.md
-      - 복령: herbs/poria.md
-    - 이수삼습:
-      - herbs/categories/drain-damp.md
-      - 복령: herbs/poria.md
-      - 저령: herbs/polyporus.md
-      - 택사: herbs/alisma.md
-      - 백출: herbs/atractylodes.md
-    - 양음·생진:
-      - herbs/categories/nourish-yin.md
-      - 생지황: herbs/fresh-rehmannia.md
-      - 맥문동: herbs/ophiopogon.md
-      - 숙지황: herbs/prepared-rehmannia.md
-      - 오미자: herbs/schisandra.md
-    - 활혈·보혈:
-      - herbs/categories/blood.md
-      - 당귀: herbs/angelica.md
-      - 천궁: herbs/chuanxiong.md
-      - 백작약: herbs/white-peony.md
-      - 우슬: herbs/achyranthes.md
-    - 온리·온보:
-      - herbs/categories/warm-interior.md
-      - 육계: herbs/cinnamon-bark.md
-    - 개규:
-      - herbs/categories/open-orifices.md
-      - 사향: herbs/musk.md
-    - 조화·기타:
-      - herbs/categories/harmonize.md
-      - 감초: herbs/licorice.md
-  - 방제학:
-    - formulas/index.md
-    - 보익제:
-      - formulas/categories/tonic-formulas.md
-      - 사군자탕: formulas/sijunzi-tang.md
-      - 육군자탕: formulas/liujunzi-tang.md
-      - 사물탕: formulas/siwu-tang.md
-      - 팔물탕: formulas/bazhen-tang.md
-      - 십전대보탕: formulas/shi-quan-da-bu-tang.md
-      - 보중익기탕: formulas/buzhong-yiqi-tang.md
-      - 귀비탕: formulas/guibi-tang.md
-      - 생맥산: formulas/shengmai-san.md
-      - 공진단: formulas/gongjin-dan.md
-      - 경옥고: formulas/gyeongok-go.md
-    - 해표·상한론 처방:
-      - formulas/categories/exterior-shanghan.md
-      - 계지탕: formulas/guizhi-tang.md
-      - 마황탕: formulas/mahuang-tang.md
-      - 계지가갈근탕: formulas/guizhi-jia-gegen-tang.md
-      - 갈근탕: formulas/gegen-tang.md
-      - 대청룡탕: formulas/daqinglong-tang.md
-      - 소청룡탕: formulas/xiaoqinglong-tang.md
-      - 마행감석탕: formulas/maxing-ganshi-tang.md
-      - 소시호탕: formulas/xiaochaihu-tang.md
-    - 화담·이기:
-      - formulas/categories/phlegm-qi-formulas.md
-      - 온담탕: formulas/wendan-tang.md
-      - 육군자탕: formulas/liujunzi-tang.md
-      - 소청룡탕: formulas/xiaoqinglong-tang.md
-    - 이수제:
-      - formulas/categories/drain-fluid-formulas.md
-      - 오령산: formulas/wuling-san.md
-    - 거풍습·근골:
-      - formulas/categories/wind-damp-musculoskeletal.md
-      - 독활기생탕: formulas/duhuo-jisheng-tang.md
-  - 방제 구조로 찾기:
-    - formula-architecture/index.md
-    - 사군자탕 계열: formula-architecture/sijunzi-family.md
-    - 사물탕·기혈쌍보 계열: formula-architecture/siwu-qi-blood-family.md
-    - 비위·담음 계열: formula-architecture/spleen-phlegm-family.md
-    - 안신·불면 계열: formula-architecture/insomnia-family.md
-    - 보익·회복 계열: formula-architecture/tonic-family.md
-    - 근골격·비증 계열: formula-architecture/bi-syndrome-family.md
-    - 상한 고방 계열: formula-architecture/shanghan-family.md
-  - 면역·알레르기·회복 지식망:
-    - immune-allergy/index.md
-    - 비염·알레르기: immune-allergy/rhinitis-allergy.md
-    - 피로·회복 저하: immune-allergy/fatigue-recovery.md
-    - 염증·통증과 회복: immune-allergy/inflammation-pain.md
-    - 장·비위와 전신 회복: immune-allergy/gut-recovery.md
-    - 보익 본초·방제 연결: immune-allergy/tonic-herb-formula-map.md
-    - 면역·회복 통합 지도: immune-allergy/integrated-map.md
-  - 본초·방제 임상 심화:
-    - herbal-formula-clinical/index.md
-    - 본초→치법→방제: herbal-formula-clinical/herb-to-formula.md
-    - 군신좌사와 처방 구조: herbal-formula-clinical/formula-architecture.md
-    - 보·화·공 치료방향: herbal-formula-clinical/treatment-directions.md
-    - 대표 방제 비교: herbal-formula-clinical/formula-comparison.md
-    - 증상에서 방제 찾기: herbal-formula-clinical/symptom-to-formula.md
-    - 처방 유지·변경 판단: herbal-formula-clinical/followup-adjustment.md
-    - 안전·금기·상호작용: herbal-formula-clinical/safety.md
-    - 현대 연구와 근거: herbal-formula-clinical/evidence.md
-    - 임상 통합 지도: herbal-formula-clinical/integrated-map.md
-  - 녹용·공진단·경옥고 심화:
-    - tonic-masterpieces/index.md
-    - 녹용: tonic-masterpieces/deer-antler/index.md
-    - 녹용 부위·품질: tonic-masterpieces/deer-antler/quality-parts.md
-    - 녹용 현대 연구: tonic-masterpieces/deer-antler/research.md
-    - 녹용 임상 지도: tonic-masterpieces/deer-antler/clinical-map.md
-    - 공진단: tonic-masterpieces/gongjindan/index.md
-    - 공진단 구성·방의: tonic-masterpieces/gongjindan/composition.md
-    - 공진단 피로 임상연구: tonic-masterpieces/gongjindan/fatigue-evidence.md
-    - 공진단 임상 지도: tonic-masterpieces/gongjindan/clinical-map.md
-    - 경옥고: tonic-masterpieces/gyeongokgo/index.md
-    - 경옥고 구성·방의: tonic-masterpieces/gyeongokgo/composition.md
-    - 경옥고 피로·회복 연구: tonic-masterpieces/gyeongokgo/fatigue-recovery.md
-    - 경옥고 임상 지도: tonic-masterpieces/gyeongokgo/clinical-map.md
-    - 세 가지 비교: tonic-masterpieces/comparison.md
-    - 선택·경과관찰: tonic-masterpieces/selection-followup.md
-    - 근거·참고문헌: tonic-masterpieces/references.md
-  - 사상처방 핵심 본초 확장:
-    - 갈근: herbs/pueraria.md
-    - 황금: herbs/scutellaria.md
-    - 석고: herbs/gypsum.md
-    - 연교: herbs/forsythia.md
-    - 형개: herbs/schizonepeta.md
-    - 방풍: herbs/saposhnikovia.md
-    - 강활: herbs/notopterygium.md
-    - 독활: herbs/angelica-pubescens.md
-    - 나복자: herbs/raphanus-seed.md
-    - 길경: herbs/platycodon.md
-    - 마황: herbs/ephedra.md
-    - 지모: herbs/anemarrhena.md
-    - 황백: herbs/phellodendron.md
-    - 대황: herbs/rhubarb.md
-  - 본초→사상처방 역색인: herbs/sasang-formula-reverse-index.md
+  - 본초·방제 한눈에 보기: herbal-integrated/index.md
+  - 본초 찾기: herbal-integrated/herbs.md
+  - 방제 찾기: herbal-integrated/formulas.md
+  - 보익·회복 핵심: herbal-integrated/tonic-recovery.md
+  - 증상·치법으로 찾기: herbal-integrated/by-symptom-treatment.md
+  - 처방 구조·비교: herbal-integrated/formula-structure.md
+  - 안전·복용 주의: herbal-integrated/safety.md
+  - 근거·출전: herbal-integrated/evidence.md
+  - 상세 자료실:
+    - portal/herbs-formulas.md
+    - 본초학:
+      - herbs/index.md
+      - 보익약:
+        - herbs/categories/tonics.md
+        - 녹용: herbs/cervi-parvum-cornu.md
+        - 인삼: herbs/ginseng.md
+        - 황기: herbs/astragalus.md
+        - 당귀: herbs/angelica.md
+        - 숙지황: herbs/prepared-rehmannia.md
+        - 백출: herbs/atractylodes.md
+        - 복령: herbs/poria.md
+        - 산수유: herbs/cornus-fruit.md
+        - 두충: herbs/eucommia.md
+        - 우슬: herbs/achyranthes.md
+      - 안신·양심:
+        - herbs/categories/calm-spirit.md
+        - 산조인: herbs/ziziphus-seed.md
+        - 복령: herbs/poria.md
+        - 오미자: herbs/schisandra.md
+      - 화담·이기:
+        - herbs/categories/phlegm-qi.md
+        - 반하: herbs/pinellia.md
+        - 진피: herbs/citrus-peel.md
+        - 복령: herbs/poria.md
+      - 이수삼습:
+        - herbs/categories/drain-damp.md
+        - 복령: herbs/poria.md
+        - 저령: herbs/polyporus.md
+        - 택사: herbs/alisma.md
+        - 백출: herbs/atractylodes.md
+      - 양음·생진:
+        - herbs/categories/nourish-yin.md
+        - 생지황: herbs/fresh-rehmannia.md
+        - 맥문동: herbs/ophiopogon.md
+        - 숙지황: herbs/prepared-rehmannia.md
+        - 오미자: herbs/schisandra.md
+      - 활혈·보혈:
+        - herbs/categories/blood.md
+        - 당귀: herbs/angelica.md
+        - 천궁: herbs/chuanxiong.md
+        - 백작약: herbs/white-peony.md
+        - 우슬: herbs/achyranthes.md
+      - 온리·온보:
+        - herbs/categories/warm-interior.md
+        - 육계: herbs/cinnamon-bark.md
+      - 개규:
+        - herbs/categories/open-orifices.md
+        - 사향: herbs/musk.md
+      - 조화·기타:
+        - herbs/categories/harmonize.md
+        - 감초: herbs/licorice.md
+    - 방제학:
+      - formulas/index.md
+      - 보익제:
+        - formulas/categories/tonic-formulas.md
+        - 사군자탕: formulas/sijunzi-tang.md
+        - 육군자탕: formulas/liujunzi-tang.md
+        - 사물탕: formulas/siwu-tang.md
+        - 팔물탕: formulas/bazhen-tang.md
+        - 십전대보탕: formulas/shi-quan-da-bu-tang.md
+        - 보중익기탕: formulas/buzhong-yiqi-tang.md
+        - 귀비탕: formulas/guibi-tang.md
+        - 생맥산: formulas/shengmai-san.md
+        - 공진단: formulas/gongjin-dan.md
+        - 경옥고: formulas/gyeongok-go.md
+      - 해표·상한론 처방:
+        - formulas/categories/exterior-shanghan.md
+        - 계지탕: formulas/guizhi-tang.md
+        - 마황탕: formulas/mahuang-tang.md
+        - 계지가갈근탕: formulas/guizhi-jia-gegen-tang.md
+        - 갈근탕: formulas/gegen-tang.md
+        - 대청룡탕: formulas/daqinglong-tang.md
+        - 소청룡탕: formulas/xiaoqinglong-tang.md
+        - 마행감석탕: formulas/maxing-ganshi-tang.md
+        - 소시호탕: formulas/xiaochaihu-tang.md
+      - 화담·이기:
+        - formulas/categories/phlegm-qi-formulas.md
+        - 온담탕: formulas/wendan-tang.md
+        - 육군자탕: formulas/liujunzi-tang.md
+        - 소청룡탕: formulas/xiaoqinglong-tang.md
+      - 이수제:
+        - formulas/categories/drain-fluid-formulas.md
+        - 오령산: formulas/wuling-san.md
+      - 거풍습·근골:
+        - formulas/categories/wind-damp-musculoskeletal.md
+        - 독활기생탕: formulas/duhuo-jisheng-tang.md
+    - 방제 구조로 찾기:
+      - formula-architecture/index.md
+      - 사군자탕 계열: formula-architecture/sijunzi-family.md
+      - 사물탕·기혈쌍보 계열: formula-architecture/siwu-qi-blood-family.md
+      - 비위·담음 계열: formula-architecture/spleen-phlegm-family.md
+      - 안신·불면 계열: formula-architecture/insomnia-family.md
+      - 보익·회복 계열: formula-architecture/tonic-family.md
+      - 근골격·비증 계열: formula-architecture/bi-syndrome-family.md
+      - 상한 고방 계열: formula-architecture/shanghan-family.md
+    - 면역·알레르기·회복 지식망:
+      - immune-allergy/index.md
+      - 비염·알레르기: immune-allergy/rhinitis-allergy.md
+      - 피로·회복 저하: immune-allergy/fatigue-recovery.md
+      - 염증·통증과 회복: immune-allergy/inflammation-pain.md
+      - 장·비위와 전신 회복: immune-allergy/gut-recovery.md
+      - 보익 본초·방제 연결: immune-allergy/tonic-herb-formula-map.md
+      - 면역·회복 통합 지도: immune-allergy/integrated-map.md
+    - 본초·방제 임상 심화:
+      - herbal-formula-clinical/index.md
+      - 본초→치법→방제: herbal-formula-clinical/herb-to-formula.md
+      - 군신좌사와 처방 구조: herbal-formula-clinical/formula-architecture.md
+      - 보·화·공 치료방향: herbal-formula-clinical/treatment-directions.md
+      - 대표 방제 비교: herbal-formula-clinical/formula-comparison.md
+      - 증상에서 방제 찾기: herbal-formula-clinical/symptom-to-formula.md
+      - 처방 유지·변경 판단: herbal-formula-clinical/followup-adjustment.md
+      - 안전·금기·상호작용: herbal-formula-clinical/safety.md
+      - 현대 연구와 근거: herbal-formula-clinical/evidence.md
+      - 임상 통합 지도: herbal-formula-clinical/integrated-map.md
+    - 녹용·공진단·경옥고 심화:
+      - tonic-masterpieces/index.md
+      - 녹용: tonic-masterpieces/deer-antler/index.md
+      - 녹용 부위·품질: tonic-masterpieces/deer-antler/quality-parts.md
+      - 녹용 현대 연구: tonic-masterpieces/deer-antler/research.md
+      - 녹용 임상 지도: tonic-masterpieces/deer-antler/clinical-map.md
+      - 공진단: tonic-masterpieces/gongjindan/index.md
+      - 공진단 구성·방의: tonic-masterpieces/gongjindan/composition.md
+      - 공진단 피로 임상연구: tonic-masterpieces/gongjindan/fatigue-evidence.md
+      - 공진단 임상 지도: tonic-masterpieces/gongjindan/clinical-map.md
+      - 경옥고: tonic-masterpieces/gyeongokgo/index.md
+      - 경옥고 구성·방의: tonic-masterpieces/gyeongokgo/composition.md
+      - 경옥고 피로·회복 연구: tonic-masterpieces/gyeongokgo/fatigue-recovery.md
+      - 경옥고 임상 지도: tonic-masterpieces/gyeongokgo/clinical-map.md
+      - 세 가지 비교: tonic-masterpieces/comparison.md
+      - 선택·경과관찰: tonic-masterpieces/selection-followup.md
+      - 근거·참고문헌: tonic-masterpieces/references.md
+    - 사상처방 핵심 본초 확장:
+      - 갈근: herbs/pueraria.md
+      - 황금: herbs/scutellaria.md
+      - 석고: herbs/gypsum.md
+      - 연교: herbs/forsythia.md
+      - 형개: herbs/schizonepeta.md
+      - 방풍: herbs/saposhnikovia.md
+      - 강활: herbs/notopterygium.md
+      - 독활: herbs/angelica-pubescens.md
+      - 나복자: herbs/raphanus-seed.md
+      - 길경: herbs/platycodon.md
+      - 마황: herbs/ephedra.md
+      - 지모: herbs/anemarrhena.md
+      - 황백: herbs/phellodendron.md
+      - 대황: herbs/rhubarb.md
+    - 본초→사상처방 역색인: herbs/sasang-formula-reverse-index.md
 - 침구·치료:
   - portal/acupuncture.md
   - 침구학:
