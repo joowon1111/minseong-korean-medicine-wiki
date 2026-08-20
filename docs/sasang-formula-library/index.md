@@ -12,3 +12,25 @@
 - [화석지황탕(花惜地黃湯)](hwaseokjihwang-tang.md)
 - [마황정통탕(麻黃定痛湯)](mahwangjeongtong-tang.md)
 - [조리폐원탕(調理肺元湯)](joripyewon-tang.md)
+
+## V4 주요 사상방 추가
+
+### 소양인
+- [황련청장탕](hwangryeoncheongjang-tang.md)
+
+### 태음인
+- [갈근해기탕](galgeunhaegi-tang.md)
+- [갈근승기탕](galgeunseunggi-tang.md)
+- [승지조위탕](seungjijowi-tang.md)
+
+### 소음인
+- [승양팔물탕](seungyangpalmul-tang.md)
+- [향부자팔물탕](hyangbujapalmul-tang.md)
+- [향소산](hyangso-san.md)
+- [궁귀향소산](gunggwihyangso-san.md)
+- [계지부자탕](gyejibujatang.md)
+- [인삼계지부자탕](insamgyejibujatang.md)
+- [오수유부자이중탕](osuyubujairijung-tang.md)
+- [궁귀총소이중탕](gunggwichongsoijung-tang.md)
+
+이번 확장은 **임상에서 자주 언급되는 처방군과 기존 위키의 병증축을 보강하는 방향**으로 선정했습니다.
