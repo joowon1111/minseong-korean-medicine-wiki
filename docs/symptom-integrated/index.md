@@ -83,3 +83,20 @@ last_reviewed: 2026-08-20
 → [치료·경과·근거](treatment-evidence.md)  
 → [증상·치법으로 방제 찾기](../herbal-integrated/by-symptom-treatment.md)  
 → [침구·치료 증상으로 찾기](../acupuncture-integrated/by-symptom.md)
+
+## 비슷해서 헷갈리는 증상 빠른 연결
+
+| 증상 A | 증상 B | 먼저 구분할 것 |
+|---|---|---|
+| [두통](pain.md#두통) | [어지럼](autonomic-stress.md#어지럼증머리가-띵해요) | 신경학적 위험신호·경항부·담습·간양 |
+| [목통증](pain.md#목통증뒷목-뻐근함) | [두통](pain.md#두통) | 경추성/근긴장성 요소 |
+| [불면](sleep-fatigue.md#불면증잠이-안-와요) | [두근거림](sleep-fatigue.md#두근거림가슴답답) | 심비양허·담울·기울 |
+| [만성피로](sleep-fatigue.md#만성피로기운이-없어요) | [소화불량](digestive.md#소화불량체한-느낌) | 비위기허·기혈허 |
+| [소화불량](digestive.md#소화불량체한-느낌) | [메스꺼움](digestive.md#메스꺼움울렁거림) | 담습·위기상역·한열착잡 |
+| [복부팽만](digestive.md#식후-더부룩함복부팽만) | [스트레스성 소화불량](autonomic-stress.md#스트레스-받으면-소화가-안-돼요) | 기체·간울·습체 |
+| [비염](respiratory-rhinitis.md#비염재채기맑은-콧물) | [코막힘](respiratory-rhinitis.md#코막힘축농증-느낌) | 분비물·열·비규폐색 |
+| [인후통](respiratory-rhinitis.md#목이-자주-붓고-아파요) | [매핵기](autonomic-stress.md#목에-뭔가-걸린-느낌매핵기) | 실제 염증/구조적 문제 vs 담기울결 |
+| [냉증](autonomic-stress.md#손발냉증냉증) | [부종](autonomic-stress.md#부종몸이-잘-붓는다) | 양허·수습·순환 |
+| [숨참](respiratory-rhinitis.md#숨참쌕쌕거림) | [두근거림](sleep-fatigue.md#두근거림가슴답답) | 호흡기·심혈관·자율신경 위험신호 |
+
+**탐색 원칙:** 서로 비슷한 증상은 한 페이지에서 끝내지 않고, 연관 증상으로 이동해 병증과 위험신호를 다시 비교합니다.
