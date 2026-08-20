@@ -142,6 +142,18 @@ nav:
     - 장부변증→치법: zangfu-pattern-network/treatment-map.md
     - 장부변증 임상 추론: zangfu-pattern-network/clinical-reasoning.md
     - 장부변증 통합 지도: zangfu-pattern-network/integrated-map.md
+  - 한의학 기초→임상 통합 심화:
+    - foundations-clinical/index.md
+    - 음양·오행→임상: foundations-clinical/yinyang-fivephases.md
+    - 장부→병증: foundations-clinical/zangfu-to-pattern.md
+    - 기혈진액→병리: foundations-clinical/qi-blood-fluid.md
+    - 병인→병기: foundations-clinical/etiology-pathogenesis.md
+    - 팔강→구체적 변증: foundations-clinical/eight-principles-bridge.md
+    - 변증→치법: foundations-clinical/pattern-to-treatment.md
+    - 설·맥·문진 정보 통합: foundations-clinical/diagnostic-integration.md
+    - 임상추론 단계: foundations-clinical/clinical-reasoning.md
+    - 기초→본초·방제·침구 연결: foundations-clinical/treatment-bridge.md
+    - 전체 지식지도: foundations-clinical/integrated-map.md
 - 본초·방제:
   - portal/herbs-formulas.md
   - 본초학:
