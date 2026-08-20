@@ -473,6 +473,17 @@ nav:
     - 미후등식장탕: sasang-formula-cards-2/mihudeung-sikjang-tang.md
     - 15종 처방 연결 지도: sasang-formula-cards-2/full-map.md
     - 근거: sasang-formula-cards-2/references.md
+  - 사상체질 병증 감별 심화:
+    - sasang-pattern-differential/index.md
+    - 소음인 태음병 vs 소음병: sasang-pattern-differential/soeumin-taeeum-vs-soeum.md
+    - 소음인 망양병까지: sasang-pattern-differential/soeumin-severity-map.md
+    - 소양인 망음 vs 흉격열: sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md
+    - 소양인 음허오열까지: sasang-pattern-differential/soyangin-severity-map.md
+    - 태음인 표한 vs 리열: sasang-pattern-differential/taeeumin-exterior-vs-interior.md
+    - 태양인 해역 vs 열격: sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md
+    - 네 체질 감별 핵심표: sasang-pattern-differential/four-constitution-map.md
+    - 병증 감별 문진 순서: sasang-pattern-differential/interview-algorithm.md
+    - 근거: sasang-pattern-differential/references.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
