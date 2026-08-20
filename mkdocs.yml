@@ -166,6 +166,7 @@ nav:
 - 본초·방제:
   - 본초·방제 한눈에 보기: herbal-integrated/index.md
   - 본초 찾기: herbal-integrated/herbs.md
+  - 주요 본초 비교·감별: herbal-integrated/herb-comparisons.md
   - 방제 찾기: herbal-integrated/formulas.md
   - 보익·회복 핵심: herbal-integrated/tonic-recovery.md
   - 증상·치법으로 찾기: herbal-integrated/by-symptom-treatment.md
@@ -695,20 +696,21 @@ nav:
       - 유사처방 구성비 비교: sasang-formula-dose-fingerprint/dose-pair-comparisons.md
       - 처방 용량 지문 표: sasang-formula-dose-fingerprint/formula-fingerprint-table.md
     - 사상처방 구성·용량 라이브러리:
-      - sasang-formula-library/index.md
       - 소양인 처방:
-        - 망음·표병: sasang-formula-library/soyangin-exterior.md
-        - 흉격열·리열: sasang-formula-library/soyangin-interior-heat.md
-        - 음허오열·하소: sasang-formula-library/soyangin-yin-deficiency.md
-        - 기타 주요 처방: sasang-formula-library/soyangin-other.md
+        - 황련청장탕: sasang-formula-library/hwangryeoncheongjang-tang.md
       - 태음인 처방:
-        - 위완수한표한: sasang-formula-library/taeeumin-exterior-cold.md
-        - 간수열리열: sasang-formula-library/taeeumin-interior-heat.md
-        - 기타 주요 처방: sasang-formula-library/taeeumin-other.md
+        - 갈근해기탕: sasang-formula-library/galgeunhaegi-tang.md
+        - 갈근승기탕: sasang-formula-library/galgeunseunggi-tang.md
+        - 승지조위탕: sasang-formula-library/seungjijowi-tang.md
       - 소음인 처방:
-        - 태음병·리한: sasang-formula-library/soeumin-taeeum.md
-        - 망양·표병: sasang-formula-library/soeumin-mangyang.md
-        - 비위·기체·기타: sasang-formula-library/soeumin-digestive.md
+        - 승양팔물탕: sasang-formula-library/seungyangpalmul-tang.md
+        - 향부자팔물탕: sasang-formula-library/hyangbujapalmul-tang.md
+        - 향소산: sasang-formula-library/hyangso-san.md
+        - 궁귀향소산: sasang-formula-library/gunggwihyangso-san.md
+        - 계지부자탕: sasang-formula-library/gyejibujatang.md
+        - 인삼계지부자탕: sasang-formula-library/insamgyejibujatang.md
+        - 오수유부자이중탕: sasang-formula-library/osuyubujairijung-tang.md
+        - 궁귀총소이중탕: sasang-formula-library/gunggwichongsoijung-tang.md
 - 연구·근거:
   - 연구·근거 한눈에 보기: evidence-integrated/index.md
   - 근거 수준 읽기: evidence-integrated/evidence-levels.md
