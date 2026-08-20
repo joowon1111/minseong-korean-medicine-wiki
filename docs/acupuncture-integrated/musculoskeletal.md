@@ -30,4 +30,4 @@ last_reviewed: 2026-08-20
 ```
 
 → [근골격 통증 감별](../acupuncture-clinical/musculoskeletal-differential.md)  
-→ [통증·근골격 핵심 허브](../pillar/pain-musculoskeletal/index.md)
+→ [통증·증상으로 찾기](by-symptom.md)
