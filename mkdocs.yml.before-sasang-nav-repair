@@ -1,4 +1,4 @@
-﻿site_name: 민성 한의학 아카이브
+site_name: 민성 한의학 아카이브
 site_description: 본초·방제·고전·사상의학·침구·임상연구를 연결하는 한의학 지식 아카이브
 site_url: https://wiki.minseong.co.kr/
 site_author: 민성 한의학 아카이브
@@ -405,20 +405,6 @@ nav:
     - 소음인: sasang/soeumin.md
     - 체질 비교: sasang/constitution-compare.md
     - 진단과 현대 연구: sasang/diagnosis-research.md
-      - "사상처방 전체 색인·처방집":
-        # BEGIN AUTO SASANG FORMULA LIBRARY NAV
-        - "행인승청탕(杏仁升淸湯)": "sasang-formula-library/haenginseungcheong-tang.md"
-        - "활석고삼탕(滑石苦蔘湯)": "sasang-formula-library/hwalseokgosam-tang.md"
-        - "화석지황탕(花惜地黃湯)": "sasang-formula-library/hwaseokjihwang-tang.md"
-        - "형방도백산(荊防導白散)": "sasang-formula-library/hyeongbangdobaek-san.md"
-        - "형방패독산(荊防敗毒散)G": "sasang-formula-library/hyeongbangpaedok-san.md"
-        - "현삼백호탕(玄蔘白虎湯)": "sasang-formula-library/hyeonsambaekho-tang.md"
-        - "사상처방 구성·용량 라이브러리 V3": "sasang-formula-library/index.md"
-        - "조리폐원탕(調理肺元湯)": "sasang-formula-library/joripyewon-tang.md"
-        - "마황정통탕(麻黃定痛湯)": "sasang-formula-library/mahwangjeongtong-tang.md"
-        - "나복자승기탕(蘿菔子承氣湯)": "sasang-formula-library/nabokjaseunggi-tang.md"
-        - "숙지황고삼탕(熟地黃苦蔘湯)": "sasang-formula-library/sukjihwanggosam-tang.md"
-        # END AUTO SASANG FORMULA LIBRARY NAV
   - 사상의학 지식망:
     - sasang/index.md
     - 사상체질 기본 구조: sasang/four-constitutions.md
@@ -944,4 +930,3 @@ validation:
     not_found: warn
   links:
     not_found: warn
-
