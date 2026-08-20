@@ -425,6 +425,16 @@ nav:
     - 소증→현재병증→처방: sasang-clinical-detail/clinical-algorithm.md
     - 체질별 치료수단: sasang-clinical-detail/treatment-modalities.md
     - 근거·참고문헌: sasang-clinical-detail/references.md
+  - 사상체질 건강→악화→회복 단계 지도:
+    - sasang-progression/index.md
+    - 소음인 단계 지도: sasang-progression/soeumin.md
+    - 소양인 단계 지도: sasang-progression/soyangin.md
+    - 태음인 단계 지도: sasang-progression/taeeumin.md
+    - 태양인 단계 지도: sasang-progression/taeyangin.md
+    - 완실무병과 건강신호: sasang-progression/healthy-signs.md
+    - 악화 신호: sasang-progression/worsening-signs.md
+    - 회복 신호: sasang-progression/recovery-signs.md
+    - 네 체질 단계 비교: sasang-progression/comparison.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
