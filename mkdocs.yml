@@ -313,59 +313,68 @@ nav:
       - 대황: herbs/rhubarb.md
     - 본초→사상처방 역색인: herbs/sasang-formula-reverse-index.md
 - 침구·치료:
-  - portal/acupuncture.md
-  - 침구학:
-    - acupuncture/index.md
-    - 경락 개요: acupuncture/meridians.md
-    - 십이경맥: acupuncture/twelve-meridians.md
-    - 독맥·임맥: acupuncture/du-ren.md
-    - 주요 경혈:
-      - acupuncture/key-acupoints.md
-      - 합곡 LI4: acupuncture/points/li4-hegu.md
-      - 족삼리 ST36: acupuncture/points/st36-zusanli.md
-      - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
-      - 내관 PC6: acupuncture/points/pc6-neiguan.md
-      - 신문 HT7: acupuncture/points/ht7-shenmen.md
-      - 태충 LR3: acupuncture/points/lr3-taichong.md
-      - 관원 CV4: acupuncture/points/cv4-guanyuan.md
-      - 중완 CV12: acupuncture/points/cv12-zhongwan.md
-      - 백회 GV20: acupuncture/points/gv20-baihui.md
-      - 신수 BL23: acupuncture/points/bl23-shenshu.md
-      - 위중 BL40: acupuncture/points/bl40-weizhong.md
-      - 풍지 GB20: acupuncture/points/gb20-fengchi.md
-    - 침구 치료 원리: acupuncture/treatment-principles.md
-  - 경혈 임상 지식망:
-    - acupoint-network/index.md
-    - 족삼리 ST36: acupoint-network/st36.md
-    - 내관 PC6: acupoint-network/pc6.md
-    - 신문 HT7: acupoint-network/ht7.md
-    - 삼음교 SP6: acupoint-network/sp6.md
-    - 합곡 LI4: acupoint-network/li4.md
-    - 백회 GV20: acupoint-network/gv20.md
-    - 위중 BL40: acupoint-network/bl40.md
-    - 신수 BL23: acupoint-network/bl23.md
-    - 증상별 경혈 지도: acupoint-network/by-condition.md
-  - 경락·경맥 지식망:
-    - meridian-network/index.md
-    - 족양명위경: meridian-network/stomach-meridian.md
-    - 수궐음심포경: meridian-network/pericardium-meridian.md
-    - 수소음심경: meridian-network/heart-meridian.md
-    - 족태음비경: meridian-network/spleen-meridian.md
-    - 수양명대장경: meridian-network/large-intestine-meridian.md
-    - 족태양방광경: meridian-network/bladder-meridian.md
-    - 독맥: meridian-network/governing-vessel.md
-    - 경맥→증상 지도: meridian-network/by-condition.md
-  - 침구·치료 임상 심화:
-    - acupuncture-clinical/index.md
-    - 증상→치료전략: acupuncture-clinical/symptom-to-strategy.md
-    - 경락→경혈→자침: acupuncture-clinical/meridian-point-needling.md
-    - 근골격 통증 감별: acupuncture-clinical/musculoskeletal-differential.md
-    - 침 vs 전침 vs 뜸 vs 부항: acupuncture-clinical/modality-comparison.md
-    - 치료 강도·빈도·경과: acupuncture-clinical/dose-followup.md
-    - 치료 반응·재평가: acupuncture-clinical/response-reassessment.md
-    - 안전·금기·위험신호: acupuncture-clinical/safety-redflags.md
-    - 현대 근거 읽기: acupuncture-clinical/evidence.md
-    - 임상 통합 지도: acupuncture-clinical/integrated-map.md
+  - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
+  - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
+  - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
+  - 침·전침·뜸·부항: acupuncture-integrated/modalities.md
+  - 근골격 통증 핵심: acupuncture-integrated/musculoskeletal.md
+  - 치료 경과·재평가: acupuncture-integrated/followup.md
+  - 안전·위험신호: acupuncture-integrated/safety.md
+  - 근거·연구: acupuncture-integrated/evidence.md
+  - 상세 자료실:
+    - portal/acupuncture.md
+    - 침구학:
+      - acupuncture/index.md
+      - 경락 개요: acupuncture/meridians.md
+      - 십이경맥: acupuncture/twelve-meridians.md
+      - 독맥·임맥: acupuncture/du-ren.md
+      - 주요 경혈:
+        - acupuncture/key-acupoints.md
+        - 합곡 LI4: acupuncture/points/li4-hegu.md
+        - 족삼리 ST36: acupuncture/points/st36-zusanli.md
+        - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
+        - 내관 PC6: acupuncture/points/pc6-neiguan.md
+        - 신문 HT7: acupuncture/points/ht7-shenmen.md
+        - 태충 LR3: acupuncture/points/lr3-taichong.md
+        - 관원 CV4: acupuncture/points/cv4-guanyuan.md
+        - 중완 CV12: acupuncture/points/cv12-zhongwan.md
+        - 백회 GV20: acupuncture/points/gv20-baihui.md
+        - 신수 BL23: acupuncture/points/bl23-shenshu.md
+        - 위중 BL40: acupuncture/points/bl40-weizhong.md
+        - 풍지 GB20: acupuncture/points/gb20-fengchi.md
+      - 침구 치료 원리: acupuncture/treatment-principles.md
+    - 경혈 임상 지식망:
+      - acupoint-network/index.md
+      - 족삼리 ST36: acupoint-network/st36.md
+      - 내관 PC6: acupoint-network/pc6.md
+      - 신문 HT7: acupoint-network/ht7.md
+      - 삼음교 SP6: acupoint-network/sp6.md
+      - 합곡 LI4: acupoint-network/li4.md
+      - 백회 GV20: acupoint-network/gv20.md
+      - 위중 BL40: acupoint-network/bl40.md
+      - 신수 BL23: acupoint-network/bl23.md
+      - 증상별 경혈 지도: acupoint-network/by-condition.md
+    - 경락·경맥 지식망:
+      - meridian-network/index.md
+      - 족양명위경: meridian-network/stomach-meridian.md
+      - 수궐음심포경: meridian-network/pericardium-meridian.md
+      - 수소음심경: meridian-network/heart-meridian.md
+      - 족태음비경: meridian-network/spleen-meridian.md
+      - 수양명대장경: meridian-network/large-intestine-meridian.md
+      - 족태양방광경: meridian-network/bladder-meridian.md
+      - 독맥: meridian-network/governing-vessel.md
+      - 경맥→증상 지도: meridian-network/by-condition.md
+    - 침구·치료 임상 심화:
+      - acupuncture-clinical/index.md
+      - 증상→치료전략: acupuncture-clinical/symptom-to-strategy.md
+      - 경락→경혈→자침: acupuncture-clinical/meridian-point-needling.md
+      - 근골격 통증 감별: acupuncture-clinical/musculoskeletal-differential.md
+      - 침 vs 전침 vs 뜸 vs 부항: acupuncture-clinical/modality-comparison.md
+      - 치료 강도·빈도·경과: acupuncture-clinical/dose-followup.md
+      - 치료 반응·재평가: acupuncture-clinical/response-reassessment.md
+      - 안전·금기·위험신호: acupuncture-clinical/safety-redflags.md
+      - 현대 근거 읽기: acupuncture-clinical/evidence.md
+      - 임상 통합 지도: acupuncture-clinical/integrated-map.md
 - 증상·질환:
   - portal/conditions.md
   - 비교해서 찾기:
