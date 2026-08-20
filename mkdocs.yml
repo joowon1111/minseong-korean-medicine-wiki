@@ -611,6 +611,15 @@ nav:
   - 사상체질과 운동은 어떤 관계인가: sasang-questions/exercise-and-constitution.md
   - 동의수세보원은 어떤 책인가: sasang-questions/what-is-donguisusebowon.md
   - 사상의학 질문 통합 지도: sasang-questions/integrated-map.md
+- 사상체질 증상으로 찾기:
+  - sasang-symptoms/index.md
+  - 소화가 약하고 피곤할 때: sasang-symptoms/digestion-fatigue.md
+  - 열감·갈증이 두드러질 때: sasang-symptoms/heat-thirst.md
+  - 땀과 피로가 함께 나타날 때: sasang-symptoms/sweating-fatigue.md
+  - 잠이 불편하고 두근거릴 때: sasang-symptoms/sleep-palpitations.md
+  - 대변·소변 변화와 소증: sasang-symptoms/bowel-urination.md
+  - 체질과 현재 병증: sasang-symptoms/constitution-vs-pattern.md
+  - 증상→체질병증 지도: sasang-symptoms/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
