@@ -25,3 +25,30 @@ last_reviewed: 2026-08-20
 
 → [본초학 전체](../herbs/index.md)  
 → [본초→사상처방 역색인](../herbs/sasang-formula-reverse-index.md)
+
+
+## 임상에서 자주 쓰는 주요 본초 확장
+
+### 소간·화해·청열
+[시호](../herbs/bupleurum.md) · [황련](../herbs/coptis.md) · [치자](../herbs/gardenia.md) · [금은화](../herbs/honeysuckle.md) · [우방자](../herbs/arctium.md)
+
+### 이기·소화·비위
+[후박](../herbs/magnolia-bark.md) · [사인](../herbs/amomum.md) · [목향](../herbs/aucklandia.md) · [향부자](../herbs/cyperus.md) · [지실](../herbs/citrus-immature.md)
+
+### 활혈·근골
+[도인](../herbs/peach-kernel.md) · [홍화](../herbs/safflower.md) · [단삼](../herbs/salvia.md) · [우슬](../herbs/achyranthes.md) · [두충](../herbs/eucommia.md) · [속단](../herbs/dipsacus.md) · [골쇄보](../herbs/drynaria.md)
+
+### 이수·습담
+[의이인](../herbs/coix.md) · [차전자](../herbs/plantago-seed.md)
+
+### 안신·정신
+[원지](../herbs/polygala.md) · [석창포](../herbs/acorus.md) · [용안육](../herbs/longan.md) · [백자인](../herbs/thuja-seed.md)
+
+### 양음·윤폐·생진
+[백합](../herbs/lily.md) · [천화분](../herbs/trichosanthes-root.md) · [천문동](../herbs/ophiopogon-extra.md) · [산약](../herbs/schisandra-extra.md) · [구기자](../herbs/cornus-extra.md) · [목단피](../herbs/moutan.md)
+
+### 해표·호흡
+[박하](../herbs/mint.md) · [천패모](../herbs/fritillaria.md) · [행인](../herbs/apricot-kernel.md) · [자소엽](../herbs/perilla-leaf.md) · [생강](../herbs/fresh-ginger.md)
+
+### 온리·회양
+[건강](../herbs/dried-ginger.md) · [부자](../herbs/aconite.md)
