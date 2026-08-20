@@ -699,6 +699,17 @@ nav:
     - 체질별 치료 원칙: donguisusebowon-network/treatment-principles.md
     - 양생·성정 관리: donguisusebowon-network/lifestyle-emotion.md
     - 동의수세보원→현대 사상의학 지도: donguisusebowon-network/integrated-map.md
+  - 온병학 핵심 지식망:
+    - wenbing-network/index.md
+    - 온병학이란: wenbing-network/what-is-wenbing.md
+    - 위기영혈변증: wenbing-network/wei-qi-ying-xue.md
+    - 삼초변증: wenbing-network/triple-burner-patterns.md
+    - 위분·기분: wenbing-network/wei-qi-stages.md
+    - 영분·혈분: wenbing-network/ying-xue-stages.md
+    - 대표 처방 구조: wenbing-network/formula-map.md
+    - 온열론과 온병조변: wenbing-network/classic-texts.md
+    - 상한론과 온병학 비교: wenbing-network/shanghan-comparison.md
+    - 온병학→현대 한의학 지도: wenbing-network/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
