@@ -597,6 +597,14 @@ nav:
     - 마황정통탕: sasang-formula-library/mahwangjeongtong-tang.md
     - 나복자승기탕: sasang-formula-library/nabokjaseunggi-tang.md
     - 숙지황고삼탕: sasang-formula-library/sukjihwanggosam-tang.md
+  - 사상처방 배합 원리·공통본초:
+    - sasang-formula-combination-network/index.md
+    - 공통본초 빈도: sasang-formula-combination-network/ingredient-frequency.md
+    - 소양인 처방 배합망: sasang-formula-combination-network/soyangin-network.md
+    - 태음인 처방 배합망: sasang-formula-combination-network/taeeumin-network.md
+    - 소음인 처방 배합망: sasang-formula-combination-network/soeumin-network.md
+    - 비슷한 처방 쌍 비교: sasang-formula-combination-network/pair-comparisons.md
+    - 처방군·골격 비교: sasang-formula-combination-network/formula-families.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
