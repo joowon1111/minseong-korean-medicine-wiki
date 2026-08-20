@@ -270,6 +270,23 @@ nav:
     - 안전·금기·상호작용: herbal-formula-clinical/safety.md
     - 현대 연구와 근거: herbal-formula-clinical/evidence.md
     - 임상 통합 지도: herbal-formula-clinical/integrated-map.md
+  - 녹용·공진단·경옥고 심화:
+    - tonic-masterpieces/index.md
+    - 녹용: tonic-masterpieces/deer-antler/index.md
+    - 녹용 부위·품질: tonic-masterpieces/deer-antler/quality-parts.md
+    - 녹용 현대 연구: tonic-masterpieces/deer-antler/research.md
+    - 녹용 임상 지도: tonic-masterpieces/deer-antler/clinical-map.md
+    - 공진단: tonic-masterpieces/gongjindan/index.md
+    - 공진단 구성·방의: tonic-masterpieces/gongjindan/composition.md
+    - 공진단 피로 임상연구: tonic-masterpieces/gongjindan/fatigue-evidence.md
+    - 공진단 임상 지도: tonic-masterpieces/gongjindan/clinical-map.md
+    - 경옥고: tonic-masterpieces/gyeongokgo/index.md
+    - 경옥고 구성·방의: tonic-masterpieces/gyeongokgo/composition.md
+    - 경옥고 피로·회복 연구: tonic-masterpieces/gyeongokgo/fatigue-recovery.md
+    - 경옥고 임상 지도: tonic-masterpieces/gyeongokgo/clinical-map.md
+    - 세 가지 비교: tonic-masterpieces/comparison.md
+    - 선택·경과관찰: tonic-masterpieces/selection-followup.md
+    - 근거·참고문헌: tonic-masterpieces/references.md
 - 침구·치료:
   - portal/acupuncture.md
   - 침구학:
