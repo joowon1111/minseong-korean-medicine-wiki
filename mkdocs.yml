@@ -657,88 +657,97 @@ nav:
       - 유사처방 구성비 비교: sasang-formula-dose-fingerprint/dose-pair-comparisons.md
       - 처방 용량 지문 표: sasang-formula-dose-fingerprint/formula-fingerprint-table.md
 - 연구·근거:
-  - portal/evidence.md
-  - 근거 읽는 법:
-    - evidence-guide/index.md
-    - 전통 문헌과 현대 연구: evidence-guide/tradition-modern.md
-    - 전임상·기전 연구: evidence-guide/preclinical.md
-    - 임상시험 RCT: evidence-guide/rct.md
-    - 체계적 문헌고찰·메타분석: evidence-guide/systematic-review.md
-    - PMID·DOI 읽는 법: evidence-guide/pmid-doi.md
-    - 한의학 근거 계층 지도: evidence-guide/evidence-ladder.md
-  - 출처·근거 허브:
-    - authority/index.md
-    - 공진단 근거 카드: authority/gongjin-dan.md
-    - 경옥고 근거 카드: authority/gyeongok-go.md
-    - 보중익기탕 근거 카드: authority/buzhong-yiqi-tang.md
-    - 독활기생탕 근거 카드: authority/duhuo-jisheng-tang.md
-    - 침 치료 근거 카드: authority/acupuncture.md
-    - 약침 근거 카드: authority/pharmacopuncture.md
-    - 불면 근거 카드: authority/insomnia.md
-    - 요통 근거 카드: authority/low-back-pain.md
-    - 대표 본초 근거 카드:
-      - authority/herbs/index.md
-      - 녹용: authority/herbs/velvet-antler.md
-      - 인삼: authority/herbs/ginseng.md
-      - 황기: authority/herbs/astragalus.md
-      - 당귀: authority/herbs/angelica.md
-      - 산조인: authority/herbs/ziziphus-seed.md
-      - 맥문동: authority/herbs/ophiopogon.md
-    - 질환별 현대 근거 카드:
-      - authority/conditions/index.md
-      - 기능성 소화불량: authority/conditions/functional-dyspepsia.md
-      - 알레르기비염: authority/conditions/allergic-rhinitis.md
-      - 무릎 골관절염: authority/conditions/knee-osteoarthritis.md
-      - 만성 목통증: authority/conditions/chronic-neck-pain.md
-      - 긴장형 두통: authority/conditions/tension-headache.md
-      - 어깨 충돌증후군·어깨통증: authority/conditions/shoulder-pain.md
-      - 편두통: authority/conditions/migraine.md
-      - 턱관절장애 TMD: authority/conditions/tmd.md
-      - 손목터널증후군: authority/conditions/carpal-tunnel.md
-      - 섬유근육통: authority/conditions/fibromyalgia.md
-      - 족저근막염·발뒤꿈치통증: authority/conditions/plantar-fasciitis.md
-      - 테니스엘보·외측상과통: authority/conditions/lateral-epicondylitis.md
-      - 뇌졸중 재활: authority/conditions/stroke-rehabilitation.md
-      - 뇌졸중 후 감각장애·통증: authority/conditions/post-stroke-sensory-pain.md
-      - 뇌졸중 후 견수증후군: authority/conditions/post-stroke-shoulder-hand.md
-      - 뇌졸중 후 연하장애: authority/conditions/post-stroke-dysphagia.md
-      - 뇌졸중 후 우울: authority/conditions/post-stroke-depression.md
-      - 대상포진 후 신경통: authority/conditions/postherpetic-neuralgia.md
-      - 뇌졸중 후 경직: authority/conditions/post-stroke-spasticity.md
-  - 현대 연구:
-    - research/index.md
-    - 임상시험 읽기: research/clinical-trials.md
-    - 체계적 문헌고찰 읽기: research/systematic-reviews.md
-    - 근거 수준: research/evidence-levels.md
-    - 임상 근거 허브: research/clinical-evidence-hub.md
-    - 한약 처방 임상근거:
-      - research/formulas/index.md
-      - 공진단: research/formulas/gongjin-dan.md
-      - 경옥고: research/formulas/gyeongok-go.md
-      - 십전대보탕: research/formulas/sipjeondaebo-tang.md
-      - 생맥산: research/formulas/shengmai-san.md
-      - 육군자탕: research/formulas/rikkunshito.md
-      - 귀비탕: research/formulas/guibi-tang.md
-      - 보중익기탕: research/formulas/buzhong-yiqi-tang.md
-      - 독활기생탕: research/formulas/duhuo-jisheng-tang.md
-    - 연구 유형별 보기:
-      - research/by-study-type.md
-      - 무작위 임상시험 RCT: research/rct-index.md
-      - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
-      - 기전·전임상 연구: research/mechanism-preclinical-index.md
-    - 참고문헌 데이터베이스: research/references/index.md
-  - 연구·근거 임상 해석 심화:
-    - evidence-clinical/index.md
-    - 근거의 층위: evidence-clinical/evidence-levels.md
-    - 고전근거와 현대근거: evidence-clinical/classic-vs-modern.md
-    - 전임상·기전 연구 읽기: evidence-clinical/preclinical.md
-    - 증례·관찰연구 읽기: evidence-clinical/case-observational.md
-    - RCT 읽기: evidence-clinical/rct.md
-    - 체계적 문헌고찰·메타분석: evidence-clinical/systematic-review.md
-    - 임상진료지침 읽기: evidence-clinical/guidelines.md
-    - 한의학 연구의 해석 포인트: evidence-clinical/km-specific.md
-    - 근거→임상 적용: evidence-clinical/evidence-to-practice.md
-    - 통합 근거 지도: evidence-clinical/integrated-map.md
+  - 연구·근거 한눈에 보기: evidence-integrated/index.md
+  - 근거 수준 읽기: evidence-integrated/evidence-levels.md
+  - 논문·PMID·DOI 찾기: evidence-integrated/find-research.md
+  - 한약 연구: evidence-integrated/herbal-evidence.md
+  - 침구 연구: evidence-integrated/acupuncture-evidence.md
+  - 사상의학 연구: evidence-integrated/sasang-evidence.md
+  - 고전·전통자료: evidence-integrated/classical-sources.md
+  - 임상에 적용하기: evidence-integrated/clinical-application.md
+  - 상세 자료실:
+    - portal/evidence.md
+    - 근거 읽는 법:
+      - evidence-guide/index.md
+      - 전통 문헌과 현대 연구: evidence-guide/tradition-modern.md
+      - 전임상·기전 연구: evidence-guide/preclinical.md
+      - 임상시험 RCT: evidence-guide/rct.md
+      - 체계적 문헌고찰·메타분석: evidence-guide/systematic-review.md
+      - PMID·DOI 읽는 법: evidence-guide/pmid-doi.md
+      - 한의학 근거 계층 지도: evidence-guide/evidence-ladder.md
+    - 출처·근거 허브:
+      - authority/index.md
+      - 공진단 근거 카드: authority/gongjin-dan.md
+      - 경옥고 근거 카드: authority/gyeongok-go.md
+      - 보중익기탕 근거 카드: authority/buzhong-yiqi-tang.md
+      - 독활기생탕 근거 카드: authority/duhuo-jisheng-tang.md
+      - 침 치료 근거 카드: authority/acupuncture.md
+      - 약침 근거 카드: authority/pharmacopuncture.md
+      - 불면 근거 카드: authority/insomnia.md
+      - 요통 근거 카드: authority/low-back-pain.md
+      - 대표 본초 근거 카드:
+        - authority/herbs/index.md
+        - 녹용: authority/herbs/velvet-antler.md
+        - 인삼: authority/herbs/ginseng.md
+        - 황기: authority/herbs/astragalus.md
+        - 당귀: authority/herbs/angelica.md
+        - 산조인: authority/herbs/ziziphus-seed.md
+        - 맥문동: authority/herbs/ophiopogon.md
+      - 질환별 현대 근거 카드:
+        - authority/conditions/index.md
+        - 기능성 소화불량: authority/conditions/functional-dyspepsia.md
+        - 알레르기비염: authority/conditions/allergic-rhinitis.md
+        - 무릎 골관절염: authority/conditions/knee-osteoarthritis.md
+        - 만성 목통증: authority/conditions/chronic-neck-pain.md
+        - 긴장형 두통: authority/conditions/tension-headache.md
+        - 어깨 충돌증후군·어깨통증: authority/conditions/shoulder-pain.md
+        - 편두통: authority/conditions/migraine.md
+        - 턱관절장애 TMD: authority/conditions/tmd.md
+        - 손목터널증후군: authority/conditions/carpal-tunnel.md
+        - 섬유근육통: authority/conditions/fibromyalgia.md
+        - 족저근막염·발뒤꿈치통증: authority/conditions/plantar-fasciitis.md
+        - 테니스엘보·외측상과통: authority/conditions/lateral-epicondylitis.md
+        - 뇌졸중 재활: authority/conditions/stroke-rehabilitation.md
+        - 뇌졸중 후 감각장애·통증: authority/conditions/post-stroke-sensory-pain.md
+        - 뇌졸중 후 견수증후군: authority/conditions/post-stroke-shoulder-hand.md
+        - 뇌졸중 후 연하장애: authority/conditions/post-stroke-dysphagia.md
+        - 뇌졸중 후 우울: authority/conditions/post-stroke-depression.md
+        - 대상포진 후 신경통: authority/conditions/postherpetic-neuralgia.md
+        - 뇌졸중 후 경직: authority/conditions/post-stroke-spasticity.md
+    - 현대 연구:
+      - research/index.md
+      - 임상시험 읽기: research/clinical-trials.md
+      - 체계적 문헌고찰 읽기: research/systematic-reviews.md
+      - 근거 수준: research/evidence-levels.md
+      - 임상 근거 허브: research/clinical-evidence-hub.md
+      - 한약 처방 임상근거:
+        - research/formulas/index.md
+        - 공진단: research/formulas/gongjin-dan.md
+        - 경옥고: research/formulas/gyeongok-go.md
+        - 십전대보탕: research/formulas/sipjeondaebo-tang.md
+        - 생맥산: research/formulas/shengmai-san.md
+        - 육군자탕: research/formulas/rikkunshito.md
+        - 귀비탕: research/formulas/guibi-tang.md
+        - 보중익기탕: research/formulas/buzhong-yiqi-tang.md
+        - 독활기생탕: research/formulas/duhuo-jisheng-tang.md
+      - 연구 유형별 보기:
+        - research/by-study-type.md
+        - 무작위 임상시험 RCT: research/rct-index.md
+        - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
+        - 기전·전임상 연구: research/mechanism-preclinical-index.md
+      - 참고문헌 데이터베이스: research/references/index.md
+    - 연구·근거 임상 해석 심화:
+      - evidence-clinical/index.md
+      - 근거의 층위: evidence-clinical/evidence-levels.md
+      - 고전근거와 현대근거: evidence-clinical/classic-vs-modern.md
+      - 전임상·기전 연구 읽기: evidence-clinical/preclinical.md
+      - 증례·관찰연구 읽기: evidence-clinical/case-observational.md
+      - RCT 읽기: evidence-clinical/rct.md
+      - 체계적 문헌고찰·메타분석: evidence-clinical/systematic-review.md
+      - 임상진료지침 읽기: evidence-clinical/guidelines.md
+      - 한의학 연구의 해석 포인트: evidence-clinical/km-specific.md
+      - 근거→임상 적용: evidence-clinical/evidence-to-practice.md
+      - 통합 근거 지도: evidence-clinical/integrated-map.md
 - 전체 둘러보기:
   - portal/maps.md
   - 안내:
