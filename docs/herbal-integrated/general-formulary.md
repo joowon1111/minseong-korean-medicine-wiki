@@ -6,8 +6,7 @@ last_reviewed: 2026-08-20
 ---
 # 일반 방제 임상 지도
 
-일반 방제를 **증상명보다 병증과 치법 중심**으로 탐색합니다.
-
+일반 방제를 **병증과 치법 중심**으로 탐색합니다.
 
 ## 비위·소화
 - [평위산](../formulas/pingwei-san.md)
@@ -78,6 +77,49 @@ last_reviewed: 2026-08-20
 ## 부인·조경
 - [온경탕](../formulas/wenjing-tang.md)
 - [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md)
+
+## 청열·화독
+- [황련해독탕](../formulas/huanglian-jiedu-tang.md)
+- [용담사간탕](../formulas/longdan-xiegan-tang.md)
+- [백호탕](../formulas/baihu-tang.md)
+- [죽엽석고탕](../formulas/zhuye-shigao-tang.md)
+- [청서익기탕](../formulas/qingshu-yiqi-tang.md)
+
+## 외감·호흡
+- [은교산](../formulas/yinqiao-san.md)
+- [상국음](../formulas/sangju-yin.md)
+- [마행감석탕](../formulas/maxing-ganshi-tang.md)
+- [정천탕](../formulas/dingchuan-tang.md)
+- [소자강기탕](../formulas/suzi-jiangqi-tang.md)
+- [행소산](../formulas/xingsu-san.md)
+
+## 기체·담울
+- [반하후박탕](../formulas/banxia-houpo-tang.md)
+- [시호소간산](../formulas/chaihu-shugan-san.md)
+
+## 풍·현훈
+- [천마구등음](../formulas/tianma-gouteng-yin.md)
+
+## 활혈·통락
+- [보양환오탕](../formulas/buyang-huanwu-tang.md)
+- [도핵승기탕](../formulas/taohe-chengqi-tang.md)
+
+## 온리·수습
+- [진무탕](../formulas/zhenwu-tang.md)
+- [영계출감탕](../formulas/linggui-zhugan-tang.md)
+- [실비음](../formulas/shipi-yin.md)
+
+## 이수·통림
+- [팔정산](../formulas/bazheng-san.md)
+
+## 화해·공하
+- [대시호탕](../formulas/dachaihu-tang.md)
+- [소승기탕](../formulas/xiaochengqi-tang.md)
+- [대승기탕](../formulas/dachengqi-tang.md)
+
+## 두통·두면
+- [천궁다조산](../formulas/chuanxiong-chatiao-san.md)
+- [창이자산](../formulas/cangerzi-san.md)
 
 ## 읽는 순서
 `증상 → 병증 → 치법 → 처방군 → 개별 처방 → 구성·용량 → 출전·근거`
