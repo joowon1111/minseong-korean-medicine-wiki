@@ -689,6 +689,16 @@ nav:
     - 양생과 예방: donguibogam-network/yangsaeng-prevention.md
     - 동의보감 임상 탐색법: donguibogam-network/clinical-navigation.md
     - 동의보감→현대 한의학 지도: donguibogam-network/integrated-map.md
+  - 동의수세보원 핵심 지식망:
+    - donguisusebowon-network/index.md
+    - 사상인의 기본 구조: donguisusebowon-network/four-constitutions.md
+    - 성명론·사단론의 의미: donguisusebowon-network/seongmyeong-sadan.md
+    - 장부론과 체질 생리: donguisusebowon-network/zangbu-physiology.md
+    - 소증과 체질병증: donguisusebowon-network/ordinary-symptoms-patterns.md
+    - 표리병증과 처방: donguisusebowon-network/exterior-interior-patterns.md
+    - 체질별 치료 원칙: donguisusebowon-network/treatment-principles.md
+    - 양생·성정 관리: donguisusebowon-network/lifestyle-emotion.md
+    - 동의수세보원→현대 사상의학 지도: donguisusebowon-network/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
