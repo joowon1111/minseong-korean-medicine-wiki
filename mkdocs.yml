@@ -484,6 +484,17 @@ nav:
     - 네 체질 감별 핵심표: sasang-pattern-differential/four-constitution-map.md
     - 병증 감별 문진 순서: sasang-pattern-differential/interview-algorithm.md
     - 근거: sasang-pattern-differential/references.md
+  - 사상체질 중증도·위험신호 지도:
+    - sasang-severity/index.md
+    - 소음인 중증도: sasang-severity/soeumin.md
+    - 소양인 중증도: sasang-severity/soyangin.md
+    - 태음인 중증도: sasang-severity/taeeumin.md
+    - 태양인 중증도: sasang-severity/taeyangin.md
+    - 경증→위중증 비교: sasang-severity/severity-comparison.md
+    - 소증 붕괴와 위험신호: sasang-severity/original-symptom-collapse.md
+    - 진료 우선순위 체크: sasang-severity/clinical-priority.md
+    - 회복·예후 추적: sasang-severity/recovery-prognosis.md
+    - 근거: sasang-severity/references.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
