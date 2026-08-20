@@ -1,12 +1,32 @@
 ---
 title: 치료·경과·근거
-tags: [증상, 질환, 통합허브, 임상탐색]
+tags: [증상, 치료, 경과, 근거, 방제, 침구]
 status: 검토완료
 last_reviewed: 2026-08-20
 ---
 # 치료·경과·근거
 
 환자의 상태에 따라 한약·침구·운동·수면·식사·생활관리를 조합합니다.
+
+## 치료선택의 연결 구조
+
+```text
+증상
+ ↓
+위험신호·감별
+ ↓
+한의학 병증
+ ↓
+치법
+ ↓
+한약/방제 + 침구 + 생활관리
+ ↓
+증상 변화 + 기능 변화
+ ↓
+재평가
+```
+
+## 경과 추적
 
 | 증상 | 경과 추적 |
 |---|---|
@@ -16,5 +36,15 @@ last_reviewed: 2026-08-20
 | 비염 | 재채기·콧물·코막힘 + 수면 + 약물사용 |
 | 소화 | 식사량 + 포만감 + 통증 + 체중 |
 
-→ [침구치료 경과·재평가](../acupuncture-integrated/followup.md)  
-→ [연구·근거 임상 해석](../evidence-clinical/index.md)
+## 한약·방제 연결
+→ [증상·치법으로 방제 찾기](../herbal-integrated/by-symptom-treatment.md)  
+→ [방제 찾기](../herbal-integrated/formulas.md)  
+→ [처방 구조·비교](../herbal-integrated/formula-structure.md)
+
+## 침구 연결
+→ [침구치료 경과·재평가](../acupuncture-integrated/followup.md)
+
+## 근거
+현대 연구는 질환·대상군·비교군·효과크기·근거확실성을 함께 봅니다.
+
+→ [연구·근거 임상 해석](../evidence-integrated/index.md)
