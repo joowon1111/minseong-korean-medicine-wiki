@@ -415,6 +415,16 @@ nav:
     - 대변·소변 변화와 소증: sasang-symptoms/bowel-urination.md
     - 체질과 현재 병증: sasang-symptoms/constitution-vs-pattern.md
     - 증상→체질병증 지도: sasang-symptoms/integrated-map.md
+  - 사상체질별 증상·치료 상세:
+    - sasang-clinical-detail/index.md
+    - '소음인: 악화 양상과 치료': sasang-clinical-detail/soeumin.md
+    - '소양인: 악화 양상과 치료': sasang-clinical-detail/soyangin.md
+    - '태음인: 악화 양상과 치료': sasang-clinical-detail/taeeumin.md
+    - '태양인: 악화 양상과 치료': sasang-clinical-detail/taeyangin.md
+    - 네 체질 비교표: sasang-clinical-detail/four-constitution-comparison.md
+    - 소증→현재병증→처방: sasang-clinical-detail/clinical-algorithm.md
+    - 체질별 치료수단: sasang-clinical-detail/treatment-modalities.md
+    - 근거·참고문헌: sasang-clinical-detail/references.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
