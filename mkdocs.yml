@@ -301,6 +301,17 @@ nav:
     - 족태양방광경: meridian-network/bladder-meridian.md
     - 독맥: meridian-network/governing-vessel.md
     - 경맥→증상 지도: meridian-network/by-condition.md
+  - 침구·치료 임상 심화:
+    - acupuncture-clinical/index.md
+    - 증상→치료전략: acupuncture-clinical/symptom-to-strategy.md
+    - 경락→경혈→자침: acupuncture-clinical/meridian-point-needling.md
+    - 근골격 통증 감별: acupuncture-clinical/musculoskeletal-differential.md
+    - 침 vs 전침 vs 뜸 vs 부항: acupuncture-clinical/modality-comparison.md
+    - 치료 강도·빈도·경과: acupuncture-clinical/dose-followup.md
+    - 치료 반응·재평가: acupuncture-clinical/response-reassessment.md
+    - 안전·금기·위험신호: acupuncture-clinical/safety-redflags.md
+    - 현대 근거 읽기: acupuncture-clinical/evidence.md
+    - 임상 통합 지도: acupuncture-clinical/integrated-map.md
 - 증상·질환:
   - portal/conditions.md
   - 비교해서 찾기:
