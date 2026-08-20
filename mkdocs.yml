@@ -247,6 +247,17 @@ nav:
     - 장·비위와 전신 회복: immune-allergy/gut-recovery.md
     - 보익 본초·방제 연결: immune-allergy/tonic-herb-formula-map.md
     - 면역·회복 통합 지도: immune-allergy/integrated-map.md
+  - 본초·방제 임상 심화:
+    - herbal-formula-clinical/index.md
+    - 본초→치법→방제: herbal-formula-clinical/herb-to-formula.md
+    - 군신좌사와 처방 구조: herbal-formula-clinical/formula-architecture.md
+    - 보·화·공 치료방향: herbal-formula-clinical/treatment-directions.md
+    - 대표 방제 비교: herbal-formula-clinical/formula-comparison.md
+    - 증상에서 방제 찾기: herbal-formula-clinical/symptom-to-formula.md
+    - 처방 유지·변경 판단: herbal-formula-clinical/followup-adjustment.md
+    - 안전·금기·상호작용: herbal-formula-clinical/safety.md
+    - 현대 연구와 근거: herbal-formula-clinical/evidence.md
+    - 임상 통합 지도: herbal-formula-clinical/integrated-map.md
 - 침구·치료:
   - portal/acupuncture.md
   - 침구학:
