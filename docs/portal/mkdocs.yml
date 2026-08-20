@@ -648,6 +648,16 @@ nav:
     - 고전 5종 비교: classics-network/comparison.md
     - 고전 읽는 순서: classics-network/reading-path.md
     - 고전→현대 임상 연결 지도: classics-network/integrated-map.md
+  - 황제내경 핵심 지식망:
+    - neijing-network/index.md
+    - 음양과 인체: neijing-network/yinyang-human-body.md
+    - 장부와 기능체계: neijing-network/zangfu-system.md
+    - 기혈진액: neijing-network/qi-blood-fluids.md
+    - 경락과 경맥: neijing-network/meridian-concepts.md
+    - 병인·병기: neijing-network/pathogenesis.md
+    - 사진·진단: neijing-network/diagnosis.md
+    - 치미병과 예방: neijing-network/prevention.md
+    - 황제내경→현대 한의학 지도: neijing-network/integrated-map.md
 not_in_nav: '/ai-index.md
 
   /foundations/zangfu.md
