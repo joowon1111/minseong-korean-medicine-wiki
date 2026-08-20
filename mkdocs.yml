@@ -605,6 +605,12 @@ nav:
     - 소음인 처방 배합망: sasang-formula-combination-network/soeumin-network.md
     - 비슷한 처방 쌍 비교: sasang-formula-combination-network/pair-comparisons.md
     - 처방군·골격 비교: sasang-formula-combination-network/formula-families.md
+  - 사상처방 구성비·용량 지문:
+    - sasang-formula-dose-fingerprint/index.md
+    - 처방별 고용량 핵심약재: sasang-formula-dose-fingerprint/core-dose-map.md
+    - 체질별 용량 패턴: sasang-formula-dose-fingerprint/constitution-dose-patterns.md
+    - 유사처방 구성비 비교: sasang-formula-dose-fingerprint/dose-pair-comparisons.md
+    - 처방 용량 지문 표: sasang-formula-dose-fingerprint/formula-fingerprint-table.md
 - 연구·근거:
   - portal/evidence.md
   - 근거 읽는 법:
