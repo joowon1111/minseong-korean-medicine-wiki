@@ -27,10 +27,3 @@ last_reviewed: '2026-08-19'
 보약의 완성도는 고가 약재 하나보다 **보기·보혈·자음·건비·수렴·활혈 등 각 본초가 전체 처방에서 어떤 균형을 이루는지** 함께 보는 것이 중요합니다.
 <!-- TONIC_HERBS_EXPANDED_END -->
 
-<!-- GYEONGOK_HERBS_INDEX_START -->
-### 경옥고 구성 본초
-[인삼](ginseng.md) · [생지황](rehmannia-root-fresh.md) · [복령](poria.md) · [봉밀](honey.md)
-
-→ [경옥고 구성·원료·제조 품질 가이드](../clinical-guides/gyeongokgo-composition-quality-guide.md)
-<!-- GYEONGOK_HERBS_INDEX_END -->
-

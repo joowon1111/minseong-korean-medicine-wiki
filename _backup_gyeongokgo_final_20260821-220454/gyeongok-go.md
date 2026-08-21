@@ -1,4 +1,4 @@
-﻿---
+---
 title: 경옥고(瓊玉膏)
 description: 경옥고의 동의보감 원문, 인삼·생지황·복령·봉밀 배합과 양생·보익 가치, 현대 임상연구를 정리합니다.
 tags: [방제학, 경옥고, 보익제, 동의보감, 피로]
@@ -54,18 +54,3 @@ last_reviewed: 2026-08-19
 2. Sunwoo YY, et al. *Hematologic and Serological Investigation of Effect on Gyeongokgo in Healthy Individuals: a Randomized, Subject-assessor-blind, Placebo-controlled, Single-center Pilot Study.* 2019. DOI **10.15188/kjopp.2019.08.33.4.239**.
 3. Yang WK, et al. *Inhibitory Effects of Gyeongok-go on Lung Injury in a Chronic Obstructive Pulmonary Disease Mouse Model.* 2026. PMID **42075873**.
 4. 《동의보감》 내경편 권1, 身形, 養性延年藥餌, 瓊玉膏.
-
-<!-- GYEONGOK_CORE_HERBS_START -->
-## 경옥고의 네 핵심 구성
-경옥고는 **인삼·생지황·복령·봉밀**이 서로 다른 역할을 맡는 전통 고제입니다.
-
-| 구성 | 처방 안에서 보는 핵심 |
-|---|---|
-| [인삼](../herbs/ginseng.md) | 보기·원기 |
-| [생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 |
-| [복령](../herbs/poria.md) | 건비·수습 |
-| [봉밀](../herbs/honey.md) | 윤조·완급·조화와 고제의 바탕 |
-
-[경옥고 구성·원료·제조 품질 가이드 →](../clinical-guides/gyeongokgo-composition-quality-guide.md)
-<!-- GYEONGOK_CORE_HERBS_END -->
-

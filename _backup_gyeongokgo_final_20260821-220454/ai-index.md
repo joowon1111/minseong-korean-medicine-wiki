@@ -225,8 +225,3 @@ tags:
 [녹용](herbs/cervi-parvum-cornu.md) · [당귀](herbs/angelica.md) · [산수유](herbs/cornus-fructus.md) · [사향](herbs/moschus.md) · [숙지황](herbs/rehmannia-preparata.md) · [황기](herbs/astragalus-tonic-guide.md)
 <!-- GONGJIN_HERBS_AI_END -->
 
-<!-- GYEONGOK_AI_START -->
-### 경옥고 핵심 구성
-[경옥고](formulas/gyeongok-go.md) → [인삼](herbs/ginseng.md) · [생지황](herbs/rehmannia-root-fresh.md) · [복령](herbs/poria.md) · [봉밀](herbs/honey.md) → [원료·제조 품질 심화](clinical-guides/gyeongokgo-composition-quality-guide.md)
-<!-- GYEONGOK_AI_END -->
-
