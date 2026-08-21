@@ -26,7 +26,7 @@ hide:
 <a href="formulas/gyeongok-go/">경옥고</a>
 <a href="conditions/insomnia/">불면</a>
 <a href="conditions/low-back-pain/">요통</a>
-<a href="conditions/rhinitis/">비염</a>
+<a href="symptom-integrated/digestive/">소화</a>
 <a href="sasang/">사상체질</a>
 </div>
 
