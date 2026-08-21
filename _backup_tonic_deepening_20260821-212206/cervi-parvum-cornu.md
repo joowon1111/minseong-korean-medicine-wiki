@@ -52,17 +52,3 @@ last_reviewed: 2026-08-19
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 
-<!-- DEER_TONIC_CONNECT_START -->
-
-## 녹용보약으로 검색했다면
-
-녹용은 단독 약재 정보뿐 아니라 **보약 처방 안에서 어떤 역할을 하는지, 어떤 품질 기준으로 선택되는지, 어떤 보익 처방과 연결되는지** 함께 보면 이해가 더 쉽습니다.
-
-- [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
-- [보약 처방의 용량·출전·품질](../clinical-guides/tonic-formula-dose-source-quality.md)
-- [보익·보약 처방 현대 연구 심화 지도](../clinical-guides/tonic-research-deep-guide.md)
-- [보익·회복 허브](../pillar/tonic-recovery.md)
-- [보익 처방 비교](../network/tonic-formula-compare.md)
-
-<!-- DEER_TONIC_CONNECT_END -->
-

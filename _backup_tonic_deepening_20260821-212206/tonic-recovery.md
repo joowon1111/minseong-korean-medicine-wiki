@@ -1,4 +1,4 @@
-﻿---
+---
 title: 보익·회복 한의학 허브
 description: 녹용·인삼·황기와 공진단·경옥고·보중익기탕·십전대보탕을 피로·허손·회복의 관점으로 연결합니다.
 tags: [Pillar, 한의학지식망, AEO]
@@ -32,18 +32,3 @@ last_reviewed: 2026-08-19
 
 → [피로·회복 지식망](../network/recovery-map.md)
 → [본초→방제 역탐색](../network/herb-to-formula-map.md)
-
-<!-- TONIC_DEEP_CONNECT_START -->
-
-## 녹용보약·보익 처방 심화
-
-보약을 단순히 '기운을 올리는 처방'으로만 보지 않고 **약재 품질, 원전과 처방 구조, 구성비, 탕전량, 실제 복용 설계, 현대 연구**까지 함께 살펴볼 수 있습니다.
-
-- [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
-- [보약 처방의 용량·출전·품질](../clinical-guides/tonic-formula-dose-source-quality.md)
-- [보익·보약 처방 현대 연구 심화 지도](../clinical-guides/tonic-research-deep-guide.md)
-- [녹용 약재 상세](../herbs/cervi-parvum-cornu.md)
-- [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
-
-<!-- TONIC_DEEP_CONNECT_END -->
-

@@ -46,14 +46,3 @@ last_reviewed: '2026-08-19'
 - [상한 고방 계열](../formula-architecture/shanghan-family.md)
 
 <!-- EXPANDED_FORMULA_MAP_END -->
-
-<!-- TONIC_FORMULA_DEEP_LINK_START -->
-
-## 보익 처방을 더 깊게 비교하기
-
-- [보약 처방의 용량·출전·품질](../clinical-guides/tonic-formula-dose-source-quality.md)
-- [보익·보약 처방 현대 연구 심화 지도](../clinical-guides/tonic-research-deep-guide.md)
-- [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
-
-<!-- TONIC_FORMULA_DEEP_LINK_END -->
-

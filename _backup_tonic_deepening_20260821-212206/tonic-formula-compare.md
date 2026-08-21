@@ -1,4 +1,4 @@
-﻿---
+---
 title: 보익 처방 비교
 description: 공진단·경옥고·보중익기탕·십전대보탕·생맥산의 한의학적 방향과 대표 구성을 비교합니다.
 tags: [한의학지식망, 보익제, 공진단, 경옥고, 십전대보탕]
@@ -38,16 +38,3 @@ last_reviewed: 2026-08-19
     어느 처방이 '더 강하다'거나 '더 좋다'기보다, **환자의 허손 양상이 무엇인지에 따라 서로 다른 강점이 있다**고 보는 것이 한의학적이다.
 
 → [보익·양생 허브](tonic-wellness-hub.md)
-
-<!-- TONIC_QUALITY_CONNECT_START -->
-
-## 처방명만 비교하지 말고 품질·용량·출전까지 보기
-
-같은 보익 처방도 **원전의 구조, 약재 비율, 제형, 탕전량, 원료 품질, 환자별 가감**에 따라 실제 처방의 성격이 달라질 수 있습니다.
-
-- [보약 처방의 용량·출전·품질 심화](../clinical-guides/tonic-formula-dose-source-quality.md)
-- [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
-- [보익·보약 처방 현대 연구 심화](../clinical-guides/tonic-research-deep-guide.md)
-
-<!-- TONIC_QUALITY_CONNECT_END -->
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 민성 한의학 아카이브 핵심 색인
 description: 환자 증상·자연어 질문부터 한의학 전문 지식, 본초·방제, 침구·치료, 고전과 현대 임상근거까지 빠르게 연결하는 민성 한의학 아카이브 핵심 색인입니다.
 tags:
@@ -192,15 +192,3 @@ tags:
 ---
 
 > 이 아카이브는 한의학 지식과 임상 정보를 체계적으로 탐색하기 위한 자료입니다. 개별 증상에 대한 진단과 치료는 환자의 병력·진찰·검사 결과 등을 종합하여 판단해야 합니다.
-
-<!-- DEER_TONIC_AI_INDEX_START -->
-
-## 녹용보약·보약 처방 심화
-
-- [녹용보약 — 녹용 정보와 보익 처방 통합 가이드](clinical-guides/deer-antler-tonic-guide.md)
-- [보약 처방의 용량·출전·품질](clinical-guides/tonic-formula-dose-source-quality.md)
-- [보익·보약 처방 현대 연구 심화 지도](clinical-guides/tonic-research-deep-guide.md)
-- [녹용 약재 상세](herbs/cervi-parvum-cornu.md)
-
-<!-- DEER_TONIC_AI_INDEX_END -->
-
