@@ -5,271 +5,271 @@
 ## 요약
 
 - 전체 Markdown 문서: **1265**
-- 180단어 미만 얇은 문서 후보: **1162**
-- 100단어 미만 매우 얇은 문서 후보: **663**
-- description 없는 문서: **375**
-- 내부링크 3개 미만 문서: **561**
+- 180단어 미만 얇은 문서 후보: **1156**
+- 100단어 미만 매우 얇은 문서 후보: **660**
+- description 없는 문서: **370**
+- 내부링크 3개 미만 문서: **559**
 - 정규화 제목 중복 그룹: **37**
 
 ## 1. 매우 얇은 문서 우선 검토
 
 | 파일 | 제목 | 단어수 | 내부링크 |
 | --- | --- | ---: | ---: |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/formula-template.md` | 방제 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/research-template.md` | 연구 요약 템플릿 | 3 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/formula-template.md` | 방제 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/herb-template.md` | 본초 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/classic-template.md` | 고전 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/condition-template.md` | 질환·증상 문서 템플릿 | 4 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/diagnostics/index.md` | 진단·변증 | 12 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/integrated-map.md` | 팔강변증 통합 지도 | 13 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/research/index.md` | 현대 연구 | 13 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/index.md` | 방제학 | 14 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/conditions/index.md` | 질환·증상 | 14 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/index.md` | 본초학 | 15 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/integrated-map.md` | 장부변증 통합 지도 | 16 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/integrated-map.md` | 본초·방제 임상 통합 지도 | 17 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/integrated-map.md` | 방약합편 → 현대 한의학 통합 지도 | 18 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/integrated-map.md` | 한의학 기초→임상 전체 지식지도 | 18 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/clinical-navigation.md` | 방약합편 처방 탐색법 | 20 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/integrated-map.md` | 침구·치료 임상 통합 지도 | 20 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/integrated-map.md` | 연구·근거 통합 지도 | 21 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations/zangfu.md` | 장부 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/soeumin.md` | 소음인 | 21 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/integrated-map.md` | 증상·질환 임상 통합 지도 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/integrated-map.md` | 증상 → 사상체질병증 탐색 지도 | 21 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations/zangfu.md` | 장부 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/donguisusebowon.md` | 동의수세보원과 사상의학 | 22 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/exterior-interior.md` | 표리(表裏) | 24 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/yangming.md` | 양명병 | 25 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soyangin-other.md` | 소양인 — 기타 주요 처방 | 26 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/deficiency-excess.md` | 허실(虛實) | 26 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soyangin-other.md` | 소양인 — 기타 주요 처방 | 26 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/yin-yang.md` | 음양(陰陽) | 26 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/qi-blood-fluids.md` | 기혈진액 | 26 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sweating-fatigue.md` | 땀과 피로가 함께 나타날 때 | 27 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/kidney-bladder.md` | 신·방광 병증 | 27 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/taeeumin.md` | 태음인 | 28 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sweating-fatigue.md` | 땀과 피로가 함께 나타날 때 | 27 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/what-is-donguisusebowon.md` | 동의수세보원은 어떤 책인가? | 28 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/gynecology.md` | 부인병 | 28 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/lung-large-intestine.md` | 폐·대장 병증 | 28 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/what-is-donguisusebowon.md` | 동의수세보원은 어떤 책인가? | 28 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/shaoyang.md` | 소양병 | 29 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/taeeumin.md` | 태음인 | 28 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/li4.md` | 합곡(合谷) LI4 | 29 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/chest-bi-heart-pain.md` | 흉비·심통 | 29 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/shaoyang.md` | 소양병 | 29 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/warm-interior.md` | 온리·온보 본초 | 30 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/taeeumin-other.md` | 태음인 — 기타 주요 처방 | 30 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/integrated-map.md` | 사상의학 질문 통합 지도 | 30 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/treatment-map.md` | 팔강에서 치법으로 | 30 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/taeeumin-other.md` | 태음인 — 기타 주요 처방 | 30 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/warm-interior.md` | 온리·온보 본초 | 30 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/clinical-reasoning.md` | 팔강변증 임상 추론 | 31 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/integrated-map.md` | 황제내경 → 현대 한의학 통합 지도 | 31 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/taeyangin.md` | 태양인 | 31 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/consumptive-deficiency.md` | 허로 | 31 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/clinical-reasoning.md` | 팔강변증 임상 추론 | 31 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/boncho-yakseongga.md` | 손익본초와 약성가 | 32 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/taeeumin-vs-soyangin.md` | 태음인과 소양인은 어떻게 다른가? | 32 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/index.md` | 공진단 심화 | 32 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/exercise-and-constitution.md` | 사상체질과 운동은 어떤 관계인가? | 32 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/taeeumin-vs-soyangin.md` | 태음인과 소양인은 어떻게 다른가? | 32 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/boncho-yakseongga.md` | 손익본초와 약성가 | 32 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/index.md` | 공진단 심화 | 32 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/what-is-bangyakhappyeon.md` | 방약합편이란? | 32 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/sp6.md` | 삼음교(三陰交) SP6 | 32 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/pathogenesis.md` | 병인·병기 | 32 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/combined-patterns.md` | 팔강의 조합 | 32 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/seven-formulas-ten-agents.md` | 칠방·십제 | 33 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/sp6.md` | 삼음교(三陰交) SP6 | 32 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/open-orifices.md` | 개규 본초 | 33 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/zangfu-system.md` | 장부와 기능체계 | 33 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/by-condition.md` | 증상별 경혈 지도 | 33 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/index.md` | 아카이브 안내 | 33 | 4 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/seven-formulas-ten-agents.md` | 칠방·십제 | 33 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/integrated-map.md` | 사상의학 통합 지식 지도 | 33 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/zangfu-system.md` | 장부와 기능체계 | 33 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/index.md` | 아카이브 안내 | 33 | 4 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soeumin-mangyang.md` | 소음인 — 망양·표병 | 33 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/sleep.md` | 수면 | 34 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/four-constitutions.md` | 사상체질의 기본 구조 | 34 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/followup.md` | 증상·질환 치료경과·재평가 | 34 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/yinyang-human-body.md` | 음양과 인체 | 34 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/clinical-reasoning.md` | 장부변증 임상 추론 | 34 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/pc6.md` | 내관(內關) PC6 | 34 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/by-condition.md` | 증상별 경혈 지도 | 33 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/heart-small-intestine.md` | 심·소장 병증 | 34 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/four-constitutions.md` | 사상체질의 기본 구조 | 34 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/pc6.md` | 내관(內關) PC6 | 34 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/yinyang-human-body.md` | 음양과 인체 | 34 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/pattern-formula-map.md` | 사상체질 → 병증·처방 지도 | 34 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/clinical-map.md` | 공진단 임상 활용 지도 | 35 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/sleep.md` | 수면 | 34 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/followup.md` | 증상·질환 치료경과·재평가 | 34 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/clinical-reasoning.md` | 장부변증 임상 추론 | 34 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/hyeongbangsabaek-san.md` | 형방사백산 | 35 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/sinking-middle-qi.md` | 중기하함 → 보기승양 | 35 | 4 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/spleen-stomach.md` | 비·위 병증 | 35 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/clinical-map.md` | 공진단 임상 활용 지도 | 35 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/sinking-middle-qi.md` | 중기하함 → 보기승양 | 35 | 4 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/blood-stasis.md` | 어혈 → 활혈·통락 | 35 | 5 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/integrated-map.md` | 상한론 → 현대 한의학 통합 지도 | 36 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-history/integrated-map.md` | 사상의학 역사 통합 지도 | 36 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/yangsaeng-prevention.md` | 동의보감의 양생과 예방 | 36 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/treatment-map.md` | 장부변증에서 치법으로 | 36 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/yangsaeng-prevention.md` | 동의보감의 양생과 예방 | 36 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/integrated-map.md` | 상한론 → 현대 한의학 통합 지도 | 36 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-guideline/integrated-map.md` | 사상의학 표준 임상 통합 지도 | 36 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-history/integrated-map.md` | 사상의학 역사 통합 지도 | 36 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-research/classic-to-modern.md` | 동의수세보원에서 현대 연구까지 | 37 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/harmonize.md` | 조화·기타 본초 | 37 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/large-intestine-meridian.md` | 수양명대장경 | 37 | 4 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sleep-palpitations.md` | 잠이 불편하고 두근거릴 때 | 37 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/diagnosis.md` | 사진과 진단 | 37 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/qi-deficiency.md` | 기허 → 보기 | 37 | 6 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/harmonize.md` | 조화·기타 본초 | 37 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/soyangin-severity-map.md` | 소양인 병증 중증도 지도 | 37 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sleep-palpitations.md` | 잠이 불편하고 두근거릴 때 | 37 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/tangaek.md` | 동의보감 탕액편 | 38 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/bowel-urination.md` | 대변·소변 변화와 소증 | 38 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/systematic-review.md` | 체계적 문헌고찰·메타분석 읽기 | 38 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/hyeongbangdojeok-san.md` | 형방도적산 | 38 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/meridian-concepts.md` | 경락과 경맥 | 38 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/donguisusebowon.md` | 동의수세보원 | 38 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-treatment/integrated-map.md` | 사상체질 치료·예방 통합 지도 | 38 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/large-intestine-meridian.md` | 수양명대장경 | 37 | 4 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/clinical-map.md` | 녹용 임상 활용 지도 | 38 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/concepts/spleen-qi-sinking.md` | 비위기허·중기하함 | 38 | 5 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/treatment-principles.md` | 체질별 치료 원칙 | 38 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/tangaek.md` | 동의보감 탕액편 | 38 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-treatment/integrated-map.md` | 사상체질 치료·예방 통합 지도 | 38 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/systematic-review.md` | 체계적 문헌고찰·메타분석 읽기 | 38 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/categories/drain-fluid-formulas.md` | 이수제 | 38 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/clinical-map.md` | 녹용 임상 활용 지도 | 38 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/clinical-navigation.md` | 동의보감은 임상에서 어떻게 찾아보나? | 39 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/bowel-urination.md` | 대변·소변 변화와 소증 | 38 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/donguisusebowon.md` | 동의수세보원 | 38 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/hyeongbangdojeok-san.md` | 형방도적산 | 38 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/meridian-concepts.md` | 경락과 경맥 | 38 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/integrated-map.md` | 금궤요략 → 현대 한의학 통합 지도 | 39 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/bl40.md` | 위중(委中) BL40 | 39 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/integrated-map.md` | 동의수세보원 → 현대 사상의학 통합 지도 | 39 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soyangin-yin-deficiency.md` | 소양인 — 음허오열·하소 | 39 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/clinical-navigation.md` | 동의보감은 임상에서 어떻게 찾아보나? | 39 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/naegyeong.md` | 동의보감 내경편 | 39 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/symptom-to-formula.md` | 증상에서 방제 찾기 | 39 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-treatment/exercise.md` | 체질운동요법 | 39 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/huangdi-neijing.md` | 황제내경 | 39 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/diet-and-constitution.md` | 사상체질과 음식은 어떤 관계인가? | 39 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gyeongokgo/index.md` | 경옥고 심화 | 39 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-integrated/patterns.md` | 사상체질 병증 비교 | 40 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/soyangin.md` | 소양인 | 40 | 1 |
 
 ## 2. 얇은 문서 후보
 
 | 파일 | 제목 | 단어수 | 내부링크 |
 | --- | --- | ---: | ---: |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/herb-template.md` | 본초 문서 템플릿 | 3 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/classic-template.md` | 고전 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/research-template.md` | 연구 요약 템플릿 | 3 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/classic-template.md` | 고전 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/formula-template.md` | 방제 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/condition-template.md` | 질환·증상 문서 템플릿 | 4 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/diagnostics/index.md` | 진단·변증 | 12 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/integrated-map.md` | 팔강변증 통합 지도 | 13 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/research/index.md` | 현대 연구 | 13 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/index.md` | 방제학 | 14 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/conditions/index.md` | 질환·증상 | 14 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/index.md` | 본초학 | 15 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/integrated-map.md` | 장부변증 통합 지도 | 16 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/integrated-map.md` | 본초·방제 임상 통합 지도 | 17 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/integrated-map.md` | 한의학 기초→임상 전체 지식지도 | 18 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/integrated-map.md` | 방약합편 → 현대 한의학 통합 지도 | 18 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/integrated-map.md` | 침구·치료 임상 통합 지도 | 20 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/clinical-navigation.md` | 방약합편 처방 탐색법 | 20 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/integrated-map.md` | 증상 → 사상체질병증 탐색 지도 | 21 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations/zangfu.md` | 장부 | 21 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/integrated-map.md` | 증상·질환 임상 통합 지도 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/soeumin.md` | 소음인 | 21 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/integrated-map.md` | 연구·근거 통합 지도 | 21 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/integrated-map.md` | 증상 → 사상체질병증 탐색 지도 | 21 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/donguisusebowon.md` | 동의수세보원과 사상의학 | 22 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/exterior-interior.md` | 표리(表裏) | 24 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/yangming.md` | 양명병 | 25 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/qi-blood-fluids.md` | 기혈진액 | 26 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/deficiency-excess.md` | 허실(虛實) | 26 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/yin-yang.md` | 음양(陰陽) | 26 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/deficiency-excess.md` | 허실(虛實) | 26 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/qi-blood-fluids.md` | 기혈진액 | 26 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soyangin-other.md` | 소양인 — 기타 주요 처방 | 26 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sweating-fatigue.md` | 땀과 피로가 함께 나타날 때 | 27 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/kidney-bladder.md` | 신·방광 병증 | 27 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/lung-large-intestine.md` | 폐·대장 병증 | 28 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sweating-fatigue.md` | 땀과 피로가 함께 나타날 때 | 27 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/taeeumin.md` | 태음인 | 28 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/gynecology.md` | 부인병 | 28 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/what-is-donguisusebowon.md` | 동의수세보원은 어떤 책인가? | 28 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/li4.md` | 합곡(合谷) LI4 | 29 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/lung-large-intestine.md` | 폐·대장 병증 | 28 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/chest-bi-heart-pain.md` | 흉비·심통 | 29 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/shaoyang.md` | 소양병 | 29 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/integrated-map.md` | 사상의학 질문 통합 지도 | 30 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/treatment-map.md` | 팔강에서 치법으로 | 30 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/li4.md` | 합곡(合谷) LI4 | 29 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/warm-interior.md` | 온리·온보 본초 | 30 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/treatment-map.md` | 팔강에서 치법으로 | 30 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/taeeumin-other.md` | 태음인 — 기타 주요 처방 | 30 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/consumptive-deficiency.md` | 허로 | 31 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/integrated-map.md` | 사상의학 질문 통합 지도 | 30 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/taeyangin.md` | 태양인 | 31 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/consumptive-deficiency.md` | 허로 | 31 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/clinical-reasoning.md` | 팔강변증 임상 추론 | 31 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/integrated-map.md` | 황제내경 → 현대 한의학 통합 지도 | 31 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/exercise-and-constitution.md` | 사상체질과 운동은 어떤 관계인가? | 32 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/boncho-yakseongga.md` | 손익본초와 약성가 | 32 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/sp6.md` | 삼음교(三陰交) SP6 | 32 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/taeeumin-vs-soyangin.md` | 태음인과 소양인은 어떻게 다른가? | 32 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/pathogenesis.md` | 병인·병기 | 32 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/boncho-yakseongga.md` | 손익본초와 약성가 | 32 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/exercise-and-constitution.md` | 사상체질과 운동은 어떤 관계인가? | 32 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/combined-patterns.md` | 팔강의 조합 | 32 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/what-is-bangyakhappyeon.md` | 방약합편이란? | 32 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/index.md` | 공진단 심화 | 32 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/combined-patterns.md` | 팔강의 조합 | 32 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/sp6.md` | 삼음교(三陰交) SP6 | 32 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/by-condition.md` | 증상별 경혈 지도 | 33 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soeumin-mangyang.md` | 소음인 — 망양·표병 | 33 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/index.md` | 아카이브 안내 | 33 | 4 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/zangfu-system.md` | 장부와 기능체계 | 33 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/seven-formulas-ten-agents.md` | 칠방·십제 | 33 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/index.md` | 아카이브 안내 | 33 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/open-orifices.md` | 개규 본초 | 33 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/integrated-map.md` | 사상의학 통합 지식 지도 | 33 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soeumin-mangyang.md` | 소음인 — 망양·표병 | 33 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/open-orifices.md` | 개규 본초 | 33 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/by-condition.md` | 증상별 경혈 지도 | 33 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/followup.md` | 증상·질환 치료경과·재평가 | 34 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/yinyang-human-body.md` | 음양과 인체 | 34 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/clinical-reasoning.md` | 장부변증 임상 추론 | 34 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/four-constitutions.md` | 사상체질의 기본 구조 | 34 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/pattern-formula-map.md` | 사상체질 → 병증·처방 지도 | 34 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/pc6.md` | 내관(內關) PC6 | 34 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/clinical-reasoning.md` | 장부변증 임상 추론 | 34 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/heart-small-intestine.md` | 심·소장 병증 | 34 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/sleep.md` | 수면 | 34 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/hyeongbangsabaek-san.md` | 형방사백산 | 35 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/spleen-stomach.md` | 비·위 병증 | 35 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/clinical-map.md` | 공진단 임상 활용 지도 | 35 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/yinyang-human-body.md` | 음양과 인체 | 34 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/pc6.md` | 내관(內關) PC6 | 34 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/blood-stasis.md` | 어혈 → 활혈·통락 | 35 | 5 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/clinical-map.md` | 공진단 임상 활용 지도 | 35 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/spleen-stomach.md` | 비·위 병증 | 35 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/hyeongbangsabaek-san.md` | 형방사백산 | 35 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/sinking-middle-qi.md` | 중기하함 → 보기승양 | 35 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-history/integrated-map.md` | 사상의학 역사 통합 지도 | 36 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/yangsaeng-prevention.md` | 동의보감의 양생과 예방 | 36 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-guideline/integrated-map.md` | 사상의학 표준 임상 통합 지도 | 36 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/integrated-map.md` | 상한론 → 현대 한의학 통합 지도 | 36 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/treatment-map.md` | 장부변증에서 치법으로 | 36 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/integrated-map.md` | 상한론 → 현대 한의학 통합 지도 | 36 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-history/integrated-map.md` | 사상의학 역사 통합 지도 | 36 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-guideline/integrated-map.md` | 사상의학 표준 임상 통합 지도 | 36 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/yangsaeng-prevention.md` | 동의보감의 양생과 예방 | 36 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/large-intestine-meridian.md` | 수양명대장경 | 37 | 4 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/qi-deficiency.md` | 기허 → 보기 | 37 | 6 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/diagnosis.md` | 사진과 진단 | 37 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sleep-palpitations.md` | 잠이 불편하고 두근거릴 때 | 37 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-research/classic-to-modern.md` | 동의수세보원에서 현대 연구까지 | 37 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/soyangin-severity-map.md` | 소양인 병증 중증도 지도 | 37 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/sleep-palpitations.md` | 잠이 불편하고 두근거릴 때 | 37 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/qi-deficiency.md` | 기허 → 보기 | 37 | 6 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/large-intestine-meridian.md` | 수양명대장경 | 37 | 4 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/harmonize.md` | 조화·기타 본초 | 37 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/systematic-review.md` | 체계적 문헌고찰·메타분석 읽기 | 38 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/treatment-principles.md` | 체질별 치료 원칙 | 38 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/categories/drain-fluid-formulas.md` | 이수제 | 38 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/hyeongbangdojeok-san.md` | 형방도적산 | 38 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-treatment/integrated-map.md` | 사상체질 치료·예방 통합 지도 | 38 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/bowel-urination.md` | 대변·소변 변화와 소증 | 38 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/neijing-network/meridian-concepts.md` | 경락과 경맥 | 38 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/tangaek.md` | 동의보감 탕액편 | 38 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/donguisusebowon.md` | 동의수세보원 | 38 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/concepts/spleen-qi-sinking.md` | 비위기허·중기하함 | 38 | 5 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/bowel-urination.md` | 대변·소변 변화와 소증 | 38 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/treatment-principles.md` | 체질별 치료 원칙 | 38 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/hyeongbangdojeok-san.md` | 형방도적산 | 38 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/categories/drain-fluid-formulas.md` | 이수제 | 38 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/clinical-map.md` | 녹용 임상 활용 지도 | 38 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-treatment/integrated-map.md` | 사상체질 치료·예방 통합 지도 | 38 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/clinical-navigation.md` | 동의보감은 임상에서 어떻게 찾아보나? | 39 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/concepts/spleen-qi-sinking.md` | 비위기허·중기하함 | 38 | 5 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/huangdi-neijing.md` | 황제내경 | 39 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soyangin-yin-deficiency.md` | 소양인 — 음허오열·하소 | 39 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/integrated-map.md` | 동의수세보원 → 현대 사상의학 통합 지도 | 39 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/symptom-to-formula.md` | 증상에서 방제 찾기 | 39 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-treatment/exercise.md` | 체질운동요법 | 39 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/naegyeong.md` | 동의보감 내경편 | 39 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gyeongokgo/index.md` | 경옥고 심화 | 39 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/symptom-to-formula.md` | 증상에서 방제 찾기 | 39 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soyangin-yin-deficiency.md` | 소양인 — 음허오열·하소 | 39 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/integrated-map.md` | 금궤요략 → 현대 한의학 통합 지도 | 39 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/bl40.md` | 위중(委中) BL40 | 39 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/integrated-map.md` | 동의수세보원 → 현대 사상의학 통합 지도 | 39 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-treatment/exercise.md` | 체질운동요법 | 39 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/diet-and-constitution.md` | 사상체질과 음식은 어떤 관계인가? | 39 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/huangdi-neijing.md` | 황제내경 | 39 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/zangbu-physiology.md` | 장부론과 체질 생리 | 40 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/bl40.md` | 위중(委中) BL40 | 39 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/integrated-map.md` | 금궤요략 → 현대 한의학 통합 지도 | 39 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/clinical-navigation.md` | 동의보감은 임상에서 어떻게 찾아보나? | 39 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/network/gyeongok-go-map.md` | 경옥고 지식망 | 40 | 6 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/abdominal-cold-food-retention.md` | 복만·한산·숙식 | 40 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/soyangin.md` | 소양인 | 40 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/integrated-map.md` | 팔강변증 통합 지도 | 40 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/pericardium-meridian.md` | 수궐음심포경 | 40 | 4 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/constitution-vs-pattern.md` | 체질과 현재 병증 | 40 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-integrated/patterns.md` | 사상체질 병증 비교 | 40 | 3 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/network/gyeongok-go-map.md` | 경옥고 지식망 | 40 | 6 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/soyangin.md` | 소양인 | 40 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/zangbu-physiology.md` | 장부론과 체질 생리 | 40 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/six-stage-patterns.md` | 육경변증 | 40 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/spleen-meridian.md` | 족태음비경 | 41 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/what-is-zangfu-pattern.md` | 장부변증이란? | 41 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/concepts/heart-spleen-deficiency.md` | 심비양허 | 41 | 5 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/jingui-yaolue.md` | 금궤요략 | 41 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soeumin-digestive.md` | 소음인 — 비위·기체·기타 | 41 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/blood-deficiency.md` | 혈허·기혈양허 → 보혈·기혈쌍보 | 41 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/taiyang.md` | 태양병 | 41 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/concepts/heart-spleen-deficiency.md` | 심비양허 | 41 | 5 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/fatigue-recovery.md` | 피로·회복 | 41 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/soeumin-digestive.md` | 소음인 — 비위·기체·기타 | 41 | 4 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/shanghan-network/taiyang.md` | 태양병 | 41 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gyeongokgo/clinical-map.md` | 경옥고 임상 활용 지도 | 41 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/by-condition.md` | 경맥→증상 지도 | 41 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/eight-principles-bridge.md` | 팔강 → 구체적 변증 | 41 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/drain-damp.md` | 이수삼습 본초 | 41 | 6 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/what-is-zangfu-pattern.md` | 장부변증이란? | 41 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/misc-disease-framework.md` | 잡병과 병증 구조 | 41 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/by-condition.md` | 경맥→증상 지도 | 41 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/pattern-treatment/blood-deficiency.md` | 혈허·기혈양허 → 보혈·기혈쌍보 | 41 | 4 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/categories/drain-damp.md` | 이수삼습 본초 | 41 | 6 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/meridian-network/spleen-meridian.md` | 족태음비경 | 41 | 4 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-integrated/zangfu-qi-blood-fluids.md` | 장부·기혈진액 | 42 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/status-policy.md` | 문서 상태 기준 | 42 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/donguibogam.md` | 동의보감 | 42 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/gv20.md` | 백회(百會) GV20 | 42 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/seongmyeong-sadan.md` | 성명론·사단론의 의미 | 42 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/shanghan-lun.md` | 상한론 | 42 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/symptom-to-strategy.md` | 증상 → 침구 치료전략 | 42 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-symptoms/heat-thirst.md` | 열감·갈증이 두드러질 때 | 42 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/donguibogam.md` | 동의보감 | 42 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/status-policy.md` | 문서 상태 기준 | 42 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-integrated/zangfu-qi-blood-fluids.md` | 장부·기혈진액 | 42 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguisusebowon-network/seongmyeong-sadan.md` | 성명론·사단론의 의미 | 42 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/treatment-directions.md` | 보·화·공의 치료방향 | 42 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/gv20.md` | 백회(百會) GV20 | 42 | 3 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/network/condition-to-treatment-map.md` | 질환→치료 통합 지도 | 42 | 6 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/network/gongjin-dan-map.md` | 공진단 지식망 | 42 | 6 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/interrelationships.md` | 장부 상호관계 | 43 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/categories/phlegm-qi-formulas.md` | 화담·이기 처방 | 43 | 5 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/wenbing-network/triple-burner-patterns.md` | 삼초변증 | 43 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/soyangin-vs-soeumin.md` | 소양인과 소음인은 어떻게 다른가? | 43 | 2 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/liver-gallbladder.md` | 간·담 병증 | 43 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/treatment-directions.md` | 보·화·공의 치료방향 | 42 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/donguibogam-network/oehyeong.md` | 동의보감 외형편 | 43 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/preclinical.md` | 전임상·기전 연구 읽기 | 43 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/soyangin-vs-soeumin.md` | 소양인과 소음인은 어떻게 다른가? | 43 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/wenbing-network/triple-burner-patterns.md` | 삼초변증 | 43 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/cold-heat.md` | 한열(寒熱) | 43 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-integrated/pattern-treatment.md` | 변증·치법 | 43 | 1 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/index.md` | 사상처방 상세 임상 카드 2차 | 43 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-history/modern-expansion.md` | 사상의학 연구·교육의 현대적 확장 | 43 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupoint-network/bl23.md` | 신수(腎兪) BL23 | 43 | 3 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/liver-gallbladder.md` | 간·담 병증 | 43 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-integrated/pattern-treatment.md` | 변증·치법 | 43 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/interrelationships.md` | 장부 상호관계 | 43 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/index.md` | 사상처방 상세 임상 카드 2차 | 43 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/categories/phlegm-qi-formulas.md` | 화담·이기 처방 | 43 | 5 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/evidence.md` | 본초·방제 현대 연구와 근거 | 44 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-guide/pmid-doi.md` | PMID·DOI는 무엇인가? | 44 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/jingui-network/phlegm-fluid.md` | 담음·수기 | 44 | 1 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/thirst-drinking.md` | 갈증·음수 | 44 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/qi-blood-fluid.md` | 기혈진액 → 병리 | 44 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/composition.md` | 공진단 구성·방의 | 44 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-questions/how-to-diagnose.md` | 사상체질은 어떻게 진단하나? | 44 | 2 |
 
 ## 3. description 없는 문서
 
@@ -278,7 +278,6 @@
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/dose-followup.md` | 치료 강도·빈도·경과 | 51 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/evidence.md` | 침구치료 현대 근거 읽기 | 93 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/index.md` | 침구·치료 임상 심화 | 65 | 4 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/integrated-map.md` | 침구·치료 임상 통합 지도 | 20 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/meridian-point-needling.md` | 경락 → 경혈 → 자침 | 54 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/modality-comparison.md` | 침 vs 전침 vs 뜸 vs 부항 | 77 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/musculoskeletal-differential.md` | 근골격 통증 감별 | 87 | 0 |
@@ -300,7 +299,6 @@
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/evidence-to-practice.md` | 근거 → 실제 임상 적용 | 51 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/guidelines.md` | 임상진료지침 읽기 | 64 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/index.md` | 연구·근거 임상 해석 심화 | 55 | 6 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/integrated-map.md` | 연구·근거 통합 지도 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/km-specific.md` | 한의학 연구의 해석 포인트 | 66 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/preclinical.md` | 전임상·기전 연구 읽기 | 43 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/rct.md` | 무작위대조시험(RCT) 읽기 | 64 | 0 |
@@ -389,7 +387,6 @@
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/eight-principles-bridge.md` | 팔강 → 구체적 변증 | 41 | 1 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/etiology-pathogenesis.md` | 병인 → 병기 | 56 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/index.md` | 한의학 기초 → 임상 통합 심화 | 52 | 6 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/integrated-map.md` | 한의학 기초→임상 전체 지식지도 | 18 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/pattern-to-treatment.md` | 변증 → 치법 | 46 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/qi-blood-fluid.md` | 기혈진액 → 병리 | 44 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/treatment-bridge.md` | 기초이론 → 본초·방제·침구 연결 | 49 | 2 |
@@ -409,7 +406,6 @@
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/formula-comparison.md` | 대표 방제 비교 | 63 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/herb-to-formula.md` | 본초 → 치법 → 방제 | 51 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/index.md` | 본초·방제 임상 심화 | 60 | 7 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/integrated-map.md` | 본초·방제 임상 통합 지도 | 17 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/safety.md` | 본초·방제 안전·금기·상호작용 | 62 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/symptom-to-formula.md` | 증상에서 방제 찾기 | 39 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/treatment-directions.md` | 보·화·공의 치료방향 | 42 | 0 |
@@ -425,32 +421,26 @@
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-integrated/tonic-recovery.md` | 보익·회복 핵심 | 106 | 8 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/achyranthes.md` | 우슬(牛膝) | 66 | 2 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/aconite.md` | 부자(附子) | 73 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/acorus.md` | 석창포(石菖蒲) | 68 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/alisma-extra.md` | 택사(澤瀉) 임상 확장 | 67 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/amomum.md` | 사인(砂仁) | 68 | 2 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/anemarrhena.md` | 지모(知母) | 88 | 1 |
 
 ## 4. 내부링크 부족 후보
 
 | 파일 | 제목 | 단어수 | 내부링크 |
 | --- | --- | ---: | ---: |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/herb-template.md` | 본초 문서 템플릿 | 3 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/classic-template.md` | 고전 문서 템플릿 | 3 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/formula-template.md` | 방제 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/research-template.md` | 연구 요약 템플릿 | 3 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/formula-template.md` | 방제 문서 템플릿 | 3 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/classic-template.md` | 고전 문서 템플릿 | 3 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/templates/condition-template.md` | 질환·증상 문서 템플릿 | 4 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/diagnostics/index.md` | 진단·변증 | 12 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/integrated-map.md` | 팔강변증 통합 지도 | 13 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/research/index.md` | 현대 연구 | 13 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/conditions/index.md` | 질환·증상 | 14 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/formulas/index.md` | 방제학 | 14 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbs/index.md` | 본초학 | 15 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/integrated-map.md` | 장부변증 통합 지도 | 16 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/integrated-map.md` | 본초·방제 임상 통합 지도 | 17 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/integrated-map.md` | 방약합편 → 현대 한의학 통합 지도 | 18 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/integrated-map.md` | 한의학 기초→임상 전체 지식지도 | 18 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/clinical-navigation.md` | 방약합편 처방 탐색법 | 20 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/integrated-map.md` | 침구·치료 임상 통합 지도 | 20 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/integrated-map.md` | 증상·질환 임상 통합 지도 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/soeumin.md` | 소음인 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations/zangfu.md` | 장부 | 21 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/integrated-map.md` | 연구·근거 통합 지도 | 21 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/donguisusebowon.md` | 동의수세보원과 사상의학 | 22 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/exterior-interior.md` | 표리(表裏) | 24 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/deficiency-excess.md` | 허실(虛實) | 26 | 0 |
@@ -458,128 +448,138 @@
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/kidney-bladder.md` | 신·방광 병증 | 27 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/lung-large-intestine.md` | 폐·대장 병증 | 28 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/clinical-reasoning.md` | 팔강변증 임상 추론 | 31 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/what-is-bangyakhappyeon.md` | 방약합편이란? | 32 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/boncho-yakseongga.md` | 손익본초와 약성가 | 32 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/combined-patterns.md` | 팔강의 조합 | 32 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/what-is-bangyakhappyeon.md` | 방약합편이란? | 32 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/seven-formulas-ten-agents.md` | 칠방·십제 | 33 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/clinical-reasoning.md` | 장부변증 임상 추론 | 34 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/pattern-formula-map.md` | 사상체질 → 병증·처방 지도 | 34 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/followup.md` | 증상·질환 치료경과·재평가 | 34 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang/four-constitutions.md` | 사상체질의 기본 구조 | 34 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/followup.md` | 증상·질환 치료경과·재평가 | 34 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/clinical-map.md` | 공진단 임상 활용 지도 | 35 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/soyangin-severity-map.md` | 소양인 병증 중증도 지도 | 37 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/systematic-review.md` | 체계적 문헌고찰·메타분석 읽기 | 38 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/clinical-map.md` | 녹용 임상 활용 지도 | 38 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/systematic-review.md` | 체계적 문헌고찰·메타분석 읽기 | 38 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/symptom-to-formula.md` | 증상에서 방제 찾기 | 39 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/fatigue-recovery.md` | 피로·회복 | 41 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/integrated-map.md` | 팔강변증 통합 지도 | 40 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gyeongokgo/clinical-map.md` | 경옥고 임상 활용 지도 | 41 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/fatigue-recovery.md` | 피로·회복 | 41 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/status-policy.md` | 문서 상태 기준 | 42 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/treatment-directions.md` | 보·화·공의 치료방향 | 42 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/symptom-to-strategy.md` | 증상 → 침구 치료전략 | 42 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/liver-gallbladder.md` | 간·담 병증 | 43 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/treatment-directions.md` | 보·화·공의 치료방향 | 42 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/index.md` | 사상처방 상세 임상 카드 2차 | 43 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/cold-heat.md` | 한열(寒熱) | 43 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/preclinical.md` | 전임상·기전 연구 읽기 | 43 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/index.md` | 사상처방 상세 임상 카드 2차 | 43 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/interrelationships.md` | 장부 상호관계 | 43 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/thirst-drinking.md` | 갈증·음수 | 44 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/liver-gallbladder.md` | 간·담 병증 | 43 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gongjindan/composition.md` | 공진단 구성·방의 | 44 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/evidence.md` | 본초·방제 현대 연구와 근거 | 44 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/thirst-drinking.md` | 갈증·음수 | 44 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/qi-blood-fluid.md` | 기혈진액 → 병리 | 44 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gyeongokgo/composition.md` | 경옥고 구성·방의 | 45 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/pattern-to-treatment.md` | 변증 → 치법 | 46 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards/selection-principles.md` | 사상처방 선택 원칙 | 46 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/pattern-to-treatment.md` | 변증 → 치법 | 46 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/diagnostic-integration.md` | 설·맥·문진 정보 통합 | 47 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/cold-heat.md` | 한열 | 47 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/yinyang-fivephases.md` | 음양·오행 → 임상 | 47 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/cold-heat.md` | 한열 | 47 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/response-reassessment.md` | 치료 반응·재평가 | 48 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/stool.md` | 대변 | 49 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/full-map.md` | 주요 사상처방 15종 연결 지도 | 49 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/stool.md` | 대변 | 49 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/urination.md` | 소변 | 50 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/sang-jung-ha.md` | 상통·중통·하통 | 50 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/sasang.md` | 사상의학 | 50 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/classic-vs-modern.md` | 고전근거와 현대근거 | 50 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/hyangso-san.md` | 향소산(香蘇散)W | 50 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/soeumin-severity-map.md` | 소음인 병증 중증도 지도 | 50 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/hyangso-san.md` | 향소산(香蘇散)W | 50 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/sasang.md` | 사상의학 | 50 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/sang-jung-ha.md` | 상통·중통·하통 | 50 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/dose-followup.md` | 치료 강도·빈도·경과 | 51 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/herb-to-formula.md` | 본초 → 치법 → 방제 | 51 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/evidence-to-practice.md` | 근거 → 실제 임상 적용 | 51 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/dose-followup.md` | 치료 강도·빈도·경과 | 51 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-integrated/red-flags.md` | 위험신호·감별 | 51 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/insamgyejibujatang.md` | 인삼계지부자탕(人蔘桂枝附子湯) | 52 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/acupuncture.md` | 침구·치료 | 52 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/dyspepsia.md` | 소화불량 | 52 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/herbs-formulas.md` | 본초·방제 | 52 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/insamgyejibujatang.md` | 인삼계지부자탕(人蔘桂枝附子湯) | 52 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formulas/soyangin-comparison.md` | 소양인 처방 비교 | 52 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/evidence.md` | 연구·근거 | 53 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/gunggwihyangso-san.md` | 궁귀향소산(當歸香蘇散) | 53 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/yeoldahanso-tang.md` | 열다한소탕(熱多寒少湯) | 53 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/basics.md` | 한의학 기초 | 53 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/sweating.md` | 땀 | 54 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-progression/healthy-signs.md` | 완실무병과 체질별 건강신호 | 54 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/meridian-point-needling.md` | 경락 → 경혈 → 자침 | 54 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/quality-parts.md` | 녹용 부위·품질·분골 | 55 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/mihudeung-sikjang-tang.md` | 미후등식장탕 | 55 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/index.md` | 녹용 심화 | 55 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/diagnostics/blood-stasis.md` | 어혈(瘀血) | 55 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/conditions.md` | 증상·질환 | 55 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/sweating.md` | 땀 | 54 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/zangfu-pattern-network/integrated-map.md` | 장부변증 통합 지도 | 54 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/integrated-map.md` | 한의학 기초→임상 전체 지식지도 | 54 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/galgeunseunggi-tang.md` | 갈근승기탕(葛根承氣湯) | 55 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/mihudeung-sikjang-tang.md` | 미후등식장탕 | 55 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/quality-parts.md` | 녹용 부위·품질·분골 | 55 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/index.md` | 녹용 심화 | 55 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md` | 태양인 해역증 vs 열격증 | 55 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/diagnostics/blood-stasis.md` | 어혈(瘀血) | 55 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/integrated-map.md` | 본초·방제 임상 통합 지도 | 56 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/case-observational.md` | 증례·관찰연구 읽기 | 56 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-severity/recovery-prognosis.md` | 회복·예후 추적 | 56 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-severity/original-symptom-collapse.md` | 소증 붕괴와 위험신호 | 56 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/etiology-pathogenesis.md` | 병인 → 병기 | 56 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards/comparison-map.md` | 사상처방 6종 비교 | 56 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/case-observational.md` | 증례·관찰연구 읽기 | 56 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-progression/recovery-signs.md` | 사상체질 회복 신호 체크포인트 | 56 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-severity/recovery-prognosis.md` | 회복·예후 추적 | 56 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/gyejibujatang.md` | 계지부자탕(桂枝附子湯)I | 56 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-severity/original-symptom-collapse.md` | 소증 붕괴와 위험신호 | 56 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/dokhwaljihwang-tang.md` | 독활지황탕(獨活地黃湯) | 57 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/maps.md` | 지식지도·안내 | 57 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/red-flags.md` | 증상·질환 위험신호·감별 | 57 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/followup-adjustment.md` | 처방 유지·가감·변경 판단 | 57 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/seungyangpalmul-tang.md` | 승양팔물탕(升陽八物湯) | 57 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/dokhwaljihwang-tang.md` | 독활지황탕(獨活地黃湯) | 57 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/shoulder-pain.md` | 어깨통증 | 57 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/seungyangpalmul-tang.md` | 승양팔물탕(升陽八物湯) | 57 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-progression/comparison.md` | 네 체질 건강→악화→회복 비교 | 58 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/formula-architecture.md` | 군신좌사와 처방 구조 | 58 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/four-constitution-map.md` | 네 체질 병증 감별 핵심표 | 59 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/integrated-map.md` | 연구·근거 통합 지도 | 59 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/ogapi-jangcheok-tang.md` | 오가피장척탕 | 59 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/bangyakhappyeon-network/donguibogam-comparison.md` | 동의보감과 방약합편 비교 | 59 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/gunggwichongsoijung-tang.md` | 궁귀총소이중탕(芎歸葱蘇理中湯) | 60 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/four-constitution-map.md` | 네 체질 병증 감별 핵심표 | 59 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/selection-followup.md` | 선택·경과관찰 | 60 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/integrated-map.md` | 침구·치료 임상 통합 지도 | 60 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/gunggwichongsoijung-tang.md` | 궁귀총소이중탕(芎歸葱蘇理中湯) | 60 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/integrated-map.md` | 증상·질환 임상 통합 지도 | 61 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/baekhao-ijung-tang.md` | 백하오이중탕(白何烏理中湯) | 61 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/comparison.md` | 녹용·공진단·경옥고 비교 | 61 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/safety.md` | 본초·방제 안전·금기·상호작용 | 62 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/digestion-appetite.md` | 소화·식욕 | 62 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/fatigue.md` | 피로 | 62 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/evidence-levels.md` | 근거의 층위 | 62 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-followup/relapse-prevention.md` | 재발예방·생활관리 | 62 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/safety.md` | 본초·방제 안전·금기·상호작용 | 62 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-original-symptoms/digestion-appetite.md` | 소화·식욕 | 62 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-followup/constitution-recovery.md` | 체질별 회복 추적 | 63 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/comparison.md` | 팔강과 다른 변증체계 비교 | 63 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/herbal-formula-clinical/formula-comparison.md` | 대표 방제 비교 | 63 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/clinical-reasoning.md` | 한의학 임상추론 단계 | 64 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/guidelines.md` | 임상진료지침 읽기 | 64 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/eight-principles-network/comparison.md` | 팔강과 다른 변증체계 비교 | 63 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/rct.md` | 무작위대조시험(RCT) 읽기 | 64 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture/du-ren.md` | 독맥·임맥 | 65 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/guidelines.md` | 임상진료지침 읽기 | 64 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/foundations-clinical/clinical-reasoning.md` | 한의학 임상추론 단계 | 64 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/hwangryeoncheongjang-tang.md` | 황련청장탕(黃連淸腸湯) | 65 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture/du-ren.md` | 독맥·임맥 | 65 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/reading-path.md` | 한의학 고전은 어떤 순서로 읽으면 좋은가? | 66 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/evidence-clinical/km-specific.md` | 한의학 연구의 해석 포인트 | 66 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards/hyeongbangdojeok-san.md` | 형방도적산 | 67 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/galgeunhaegi-tang.md` | 갈근해기탕(葛根解肌湯)F | 67 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/guide/citation-policy.md` | 인용 원칙 | 67 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/galgeunhaegi-tang.md` | 갈근해기탕(葛根解肌湯)F | 67 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards/hyeongbangdojeok-san.md` | 형방도적산 | 67 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/deer-antler/research.md` | 녹용 성분·현대 연구 | 68 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-followup/first-followup.md` | 1차 치료 후 재평가 | 69 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/classics-network/comparison.md` | 한의학 주요 고전 5종 비교 | 69 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/hyangbujapalmul-tang.md` | 향부자팔물탕(香附子八物湯) | 70 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/hwaseokjihwang-tang.md` | 화석지황탕(花惜地黃湯) | 70 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/hyangbujapalmul-tang.md` | 향부자팔물탕(香附子八物湯) | 70 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/interview-algorithm.md` | 사상체질 병증 감별 문진 순서 | 70 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-severity/taeyangin.md` | 태양인 중증도·위험신호 | 70 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/taeeumin-exterior-vs-interior.md` | 태음인 표한병 vs 리열병 | 73 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-combination-network/ingredient-frequency.md` | 사상처방 공통본초 빈도 | 73 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/joripyewon-tang.md` | 조리폐원탕(調理肺元湯) | 73 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture/treatment-principles.md` | 침구 치료 원리 | 74 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-combination-network/ingredient-frequency.md` | 사상처방 공통본초 빈도 | 73 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-pattern-differential/taeeumin-exterior-vs-interior.md` | 태음인 표한병 vs 리열병 | 73 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/diagnostics/index.md` | 진단·변증 | 73 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-followup/mcgi-assessment.md` | mCGI 기반 사상체질병증 평가 | 74 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture/treatment-principles.md` | 침구 치료 원리 | 74 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/sukjihwanggosam-tang.md` | 숙지황고삼탕(熟地黃苦蔘湯) | 75 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/symptom-clinical/insomnia.md` | 불면 | 76 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-severity/severity-comparison.md` | 네 체질 경증→위중증 비교 | 77 | 0 |
-| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/osuyubujairijung-tang.md` | 오수유부자이중탕(吳茱萸附子理中湯) | 77 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/acupuncture-clinical/modality-comparison.md` | 침 vs 전침 vs 뜸 vs 부항 | 77 | 0 |
 | `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-progression/worsening-signs.md` | 사상체질 악화 신호 체크포인트 | 77 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/references.md` | 근거·참고문헌 | 77 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/osuyubujairijung-tang.md` | 오수유부자이중탕(吳茱萸附子理中湯) | 77 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/portal/basics.md` | 한의학 기초 | 77 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/tonic-masterpieces/gyeongokgo/fatigue-recovery.md` | 경옥고 피로·회복 연구 | 78 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/hwalseokgosam-tang.md` | 활석고삼탕(滑石苦蔘湯) | 78 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-library/seungjijowi-tang.md` | 승지조위탕(升芷調胃湯) | 78 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-formula-cards-2/hyeongbangsabaek-san.md` | 형방사백산 | 78 | 0 |
+| `C:/Users/민성한의원/Documents/GitHub/minseong-korean-medicine-wiki/docs/sasang-followup/clinical-template.md` | 사상체질 진료 경과기록 템플릿 | 79 | 0 |
 
 ## 5. 제목 중복 그룹
 
