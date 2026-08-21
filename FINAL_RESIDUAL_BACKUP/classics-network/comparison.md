@@ -28,10 +28,3 @@ last_reviewed: 2026-08-20
 - [한의학 고전 읽기](reading-path.md)
 - [근거와 출처](../ai/evidence-map.md)
 
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](../guide/index.md)
-- [증상·질환](../conditions/index.md)
-- [본초·방제](../herbal-integrated/index.md)
-

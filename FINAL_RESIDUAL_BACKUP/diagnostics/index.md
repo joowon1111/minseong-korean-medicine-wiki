@@ -34,10 +34,3 @@ last_reviewed: '2026-08-19'
 - [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
 - [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](../guide/index.md)
-- [증상·질환](../conditions/index.md)
-- [본초·방제](../herbal-integrated/index.md)
-

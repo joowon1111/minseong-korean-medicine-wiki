@@ -55,10 +55,3 @@ last_reviewed: '2026-08-19'
 - [아카이브 안내](guide/index.md)
 - [증상·질환](conditions/index.md)
 
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](guide/index.md)
-- [증상·질환](conditions/index.md)
-- [본초·방제](herbal-integrated/index.md)
-

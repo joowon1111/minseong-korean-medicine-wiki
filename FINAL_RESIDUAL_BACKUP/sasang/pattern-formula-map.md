@@ -36,10 +36,3 @@ description: 사상체질 → 병증·처방 지도 — 사상체질의 소증·
 - [사상의학 개요](index.md)
 - [사상체질 기본 구조](four-constitutions.md)
 
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](../guide/index.md)
-- [증상·질환](../conditions/index.md)
-- [본초·방제](../herbal-integrated/index.md)
-

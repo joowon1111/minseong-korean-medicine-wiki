@@ -1,4 +1,4 @@
-﻿---
+---
 title: 운영 원칙
 tags:
 - 운영
@@ -26,11 +26,3 @@ last_reviewed: '2026-08-19'
 
 ## 6. 개정 기록
 중요 문서는 `최종 검토일`을 관리하고, GitHub 이력을 통해 변경 내용을 추적합니다.
-
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](index.md)
-- [증상·질환](../conditions/index.md)
-- [본초·방제](../herbal-integrated/index.md)
-

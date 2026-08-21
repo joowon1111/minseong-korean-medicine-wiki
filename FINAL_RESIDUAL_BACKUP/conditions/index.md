@@ -34,10 +34,3 @@ last_reviewed: '2026-08-19'
 - [환자 질문 검색 지도](../ai/patient-search-map.md)
 - [맞춤한약](custom-herbal-medicine.md)
 
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](../guide/index.md)
-- [본초·방제](../herbal-integrated/index.md)
-- [침구·치료](../acupuncture-integrated/index.md)
-

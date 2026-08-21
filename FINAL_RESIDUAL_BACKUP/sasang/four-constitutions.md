@@ -27,10 +27,3 @@ description: 사상체질의 기본 구조 — 사상체질의 소증·병증·�
 - [사상의학 개요](index.md)
 - [사상 병증·처방 지도](pattern-formula-map.md)
 
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](../guide/index.md)
-- [증상·질환](../conditions/index.md)
-- [본초·방제](../herbal-integrated/index.md)
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 분류 체계
 description: 본초·방제·고전·질환·침구·연구 문서의 분류 체계를 정리합니다.
 tags:
@@ -25,11 +25,3 @@ last_reviewed: '2026-08-19'
 | 용어사전 | 한글·한자·영문 용어 | 모든 분야 |
 
 URL은 영문 소문자와 하이픈을 사용하며, 한 번 공개한 슬러그는 특별한 이유가 없으면 변경하지 않습니다.
-
-<!-- MINSEONG_FINAL_RESIDUAL_V1 -->
-## 관련 핵심 허브
-
-- [아카이브 안내](index.md)
-- [증상·질환](../conditions/index.md)
-- [본초·방제](../herbal-integrated/index.md)
-
