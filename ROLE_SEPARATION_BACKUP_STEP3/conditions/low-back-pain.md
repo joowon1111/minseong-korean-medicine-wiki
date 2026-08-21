@@ -1,0 +1,41 @@
+﻿---
+title: 요통
+description: 요통의 한의학적 변증, 치료 연결과 주요 systematic review·임상연구 근거를 정리합니다.
+tags: [질환, 요통, 현대근거]
+status: 검토완료
+last_reviewed: 2026-08-19
+---
+# 요통
+
+## 한의학적 접근
+대표적으로 **풍한습비·어혈·간신부족·기혈허** 등의 방향을 환자의 전체 증후에 따라 구분해 본다. 같은 증상이라도 병리와 전신 상태에 따라 본초·방제·침구의 선택이 달라질 수 있다.
+
+## 치료 연결
+**신수 BL23·위중 BL40, 침·약침·전침·부항**
+
+## 현대 임상근거
+2023년 systematic review·meta-analysis·network analysis에서 침 치료는 대조군보다 통증 감소에서 유리했고 BL23·GV3·BL20·BL40·BL25가 가장 자주 사용된 경혈군이었다.
+
+2025년 미국 무작위 임상시험에서는 65세 이상 만성요통 환자에서 침 치료를 기존 의료에 추가했을 때 6개월과 12개월의 요통 관련 기능장애가 더 크게 개선되었다.
+
+## 근거 요약
+**연구 축적도: 높음**
+
+한의학적 임상 활용을 현대적인 무작위시험·체계적 문헌고찰·메타분석으로 검증하려는 연구가 꾸준히 축적되고 있다. 연구 설계와 비교군에 따른 차이는 개별 논문을 해석할 때 함께 살펴본다.
+
+## 지식망
+→ [요통 경혈 지식망](../network/low-back-pain-acupoints.md)
+
+## 주요 연구 식별자
+- PMID 36585839; DOI 10.1142/S0192415X23500131
+- PMID 40938602
+
+<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
+## 함께 보면 좋은 핵심 문서
+
+- [오래 앉으면 허리가 아파요](low-back-pain-sitting.md)
+- [운전하면 목·허리가 아파요](driving-neck-back-pain.md)
+- [근골격 통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md)
+- [허리통증·요통과 경혈 찾기](../acupuncture-integrated/points-for-low-back.md)
+- [근골격 통증 핵심](../acupuncture-integrated/musculoskeletal.md)
+
