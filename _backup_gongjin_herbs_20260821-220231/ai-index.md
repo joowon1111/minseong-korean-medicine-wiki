@@ -220,8 +220,3 @@ tags:
 [사군자탕부터 귀비탕·십전대보탕까지 원방 구조와 녹용 가미 비교](clinical-guides/tonic-formula-design-dose-atlas.md)
 <!-- TONIC_ATLAS_AI_END -->
 
-<!-- GONGJIN_HERBS_AI_START -->
-### 공진단·보약 핵심 본초
-[녹용](herbs/cervi-parvum-cornu.md) · [당귀](herbs/angelica.md) · [산수유](herbs/cornus-fructus.md) · [사향](herbs/moschus.md) · [숙지황](herbs/rehmannia-preparata.md) · [황기](herbs/astragalus-tonic-guide.md)
-<!-- GONGJIN_HERBS_AI_END -->
-

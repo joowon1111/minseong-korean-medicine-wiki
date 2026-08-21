@@ -18,3 +18,12 @@ last_reviewed: '2026-08-19'
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 
+<!-- TONIC_HERBS_EXPANDED_START -->
+## 보약을 이해할 때 함께 보면 좋은 핵심 본초
+- [녹용](cervi-parvum-cornu.md) · [인삼](ginseng.md) · [황기](astragalus-tonic-guide.md) · [당귀](angelica.md)
+- [숙지황](rehmannia-preparata.md) · [산수유](cornus-fructus.md) · [사향](moschus.md)
+- [백출](atractylodes.md) · [복령](poria.md) · [감초](licorice.md)
+
+보약의 완성도는 고가 약재 하나보다 **보기·보혈·자음·건비·수렴·활혈 등 각 본초가 전체 처방에서 어떤 균형을 이루는지** 함께 보는 것이 중요합니다.
+<!-- TONIC_HERBS_EXPANDED_END -->
+

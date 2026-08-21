@@ -1,4 +1,4 @@
-﻿---
+---
 title: 공진단(拱辰丹)
 description: 공진단의 동의보감 전통, 구성, 보익적 활용과 만성피로 관련 현대 임상연구를 정리합니다.
 tags: [방제학, 공진단, 보익제, 피로]
@@ -49,18 +49,3 @@ last_reviewed: 2026-08-19
 2. Son MJ, et al. *An Herbal Drug, Gongjin-dan, Ameliorates Acute Fatigue Caused by Short-Term Sleep-Deprivation.* 2018. PMID **29867485**.
 3. Hong SS, et al. *The traditional drug Gongjin-Dan ameliorates chronic fatigue in a forced-stress mouse exercise model.* 2015. PMID **25865680**.
 4. 임석현 외. 「拱辰丹 方義에 대한 고찰 – 『東醫寶鑑』의 내용을 중심으로」. 2020. DOI **10.14369/jkmc.2020.33.4.107**.
-
-<!-- GONGJIN_HERBS_EXPANDED_START -->
-## 공진단 핵심 구성 본초
-공진단은 약재 하나의 효능보다 **녹용·당귀·산수유·사향이 서로 어떤 역할을 맡는지** 구조로 보면 이해하기 쉽습니다.
-
-| 본초 | 처방 안에서 보는 핵심 |
-|---|---|
-| [녹용](../herbs/cervi-parvum-cornu.md) | 보익·정혈·허약 회복의 축 |
-| [당귀](../herbs/angelica.md) | 보혈과 혈행의 축 |
-| [산수유](../herbs/cornus-fructus.md) | 간신 보익·수렴의 축 |
-| [사향](../herbs/moschus.md) | 방향·개규·활혈의 축 |
-
-[공진단 구성 본초 네트워크 →](../network/gongjin-composition.md)
-<!-- GONGJIN_HERBS_EXPANDED_END -->
-

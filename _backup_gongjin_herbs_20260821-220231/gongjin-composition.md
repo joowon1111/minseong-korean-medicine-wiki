@@ -1,4 +1,4 @@
-﻿---
+---
 title: 공진단 구성 본초
 description: 공진단의 녹용·당귀·산수유·사향이 만드는 보익 배합 구조를 정리합니다.
 tags: [공진단, 본초배합, 한의학지식망]
@@ -32,14 +32,3 @@ last_reviewed: 2026-08-19
 
 → [공진단](../formulas/gongjin-dan.md)  
 → [공진단 지식망](gongjin-dan-map.md)
-
-<!-- GONGJIN_COMPOSITION_DEEP_START -->
-## 네 본초로 읽는 공진단
-- [녹용](../herbs/cervi-parvum-cornu.md) — 보익
-- [당귀](../herbs/angelica.md) — 보혈
-- [산수유](../herbs/cornus-fructus.md) — 보익·수렴
-- [사향](../herbs/moschus.md) — 방향·개규·활혈
-
-**보익 → 보혈 → 수렴 → 움직임**이라는 네 축으로 보면 공진단의 처방 구조를 입체적으로 이해할 수 있습니다.
-<!-- GONGJIN_COMPOSITION_DEEP_END -->
-
