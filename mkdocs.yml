@@ -3,9 +3,6 @@ site_description: 본초·방제·고전·사상의학·침구·임상연구를 
 site_url: https://wiki.minseong.co.kr/
 site_author: 민성 한의학 아카이브
 copyright: 민성 한의학 아카이브 · 민성한의원 운영 · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
-repo_url: https://github.com/joowon1111/minseong-korean-medicine-wiki
-repo_name: joowon1111/minseong-korean-medicine-wiki
-edit_uri: edit/main/docs/
 use_directory_urls: true
 extra_css:
 - assets/extra.css
