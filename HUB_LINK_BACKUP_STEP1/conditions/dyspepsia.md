@@ -1,4 +1,4 @@
-﻿---
+---
 title: 소화불량
 description: 소화불량의 한의학적 변증, 치료 연결과 주요 systematic review·임상연구 근거를 정리합니다.
 tags: [질환, 소화불량, 현대근거]
@@ -29,13 +29,3 @@ last_reviewed: 2026-08-19
 ## 주요 연구 식별자
 - PMID 38761869; DOI 10.1016/j.ctim.2024.103051
 - PMID 40850525
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [맞춤한약](custom-herbal-medicine.md)
-- [만성피로](chronic-fatigue.md)
-- [소화불량 한약 처방 찾기](../herbal-integrated/formula-for-digestion.md)
-- [소화·비위 본초 찾기](../herbal-integrated/herbs-for-digestion.md)
-- [소화불량과 경혈 찾기](../acupuncture-integrated/points-for-digestion.md)
-

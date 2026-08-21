@@ -1,4 +1,4 @@
-﻿---
+---
 title: 불면증·수면장애
 description: 불면증·수면장애을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 불면증·수면장애, 환자검색]
@@ -47,13 +47,3 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 불면증 · 잠이 안 와요 · 자다가 자주 깨요 · 새벽에 깨면 다시 못 자요 · 꿈을 많이 꾸고 피곤해요
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [만성피로](chronic-fatigue.md)
-- [맞춤한약](custom-herbal-medicine.md)
-- [불면 한약 처방 찾기](../herbal-integrated/formula-for-insomnia.md)
-- [불면·심계 본초 찾기](../herbal-integrated/herbs-for-sleep.md)
-- [불면과 경혈 찾기](../acupuncture-integrated/points-for-insomnia.md)
-

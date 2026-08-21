@@ -1,4 +1,4 @@
-﻿---
+---
 title: 맞춤한약·체질과 증상에 맞춘 처방
 description: 맞춤한약·체질과 증상에 맞춘 처방을 환자 검색어에서 맞춤 한약·보약 선택과 상담까지 연결합니다.
 tags: [한약, 보약, 녹용, 공진단, 경옥고, 환자검색]
@@ -50,14 +50,3 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 맞춤한약 · 나에게 맞는 한약 · 체질 한약 · 증상별 한약 · 개인별 보약 · 맞춤 보약 · 한약 처방 상담
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [보약은 언제 먹나요](when-to-take-tonic.md)
-- [녹용보약](deer-antler-tonic-guide.md)
-- [건강검진 후 한약·보약 상담](herbal-medicine-after-checkup.md)
-- [영양제·건강기능식품과 한약](supplements-herbal-medicine.md)
-- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
-- [같은 증상인데 처방이 다른 이유](../herbal-integrated/formula-selection-guide.md)
-

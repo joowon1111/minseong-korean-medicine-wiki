@@ -1,4 +1,4 @@
-﻿---
+---
 title: 만성피로
 description: 만성피로의 감별, 한의학적 변증, 녹용·인삼 및 관련 방제와의 연결을 정리합니다.
 tags: [질환증상, 만성피로, 피로]
@@ -24,14 +24,3 @@ last_reviewed: 2026-08-19
 ## 관련 방제
 - [보중익기탕](../formulas/buzhong-yiqi-tang.md)
 - [귀비탕](../formulas/guibi-tang.md)
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [기력회복·허약](energy-recovery.md)
-- [맞춤한약](custom-herbal-medicine.md)
-- [녹용보약](deer-antler-tonic-guide.md)
-- [불면](insomnia.md)
-- [소화불량](dyspepsia.md)
-- [피로·기력저하 한약 처방 찾기](../herbal-integrated/formula-for-fatigue.md)
-

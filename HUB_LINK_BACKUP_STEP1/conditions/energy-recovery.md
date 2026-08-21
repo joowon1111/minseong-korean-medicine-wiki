@@ -1,4 +1,4 @@
-﻿---
+---
 title: 기력회복·허약
 description: 기력회복·허약을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 회복, 보약, 환자검색]
@@ -59,13 +59,3 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 기력회복 · 기운이 없어요 · 체력이 떨어졌어요 · 몸에 힘이 없어요 · 회복이 느려요 · 기력회복 한약 · 기력회복 보약 · 체력 보강
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [만성피로](chronic-fatigue.md)
-- [노인보약·어르신보약](elderly-tonic.md)
-- [녹용보약](deer-antler-tonic-guide.md)
-- [맞춤한약](custom-herbal-medicine.md)
-- [피로·기력저하 한약 처방 찾기](../herbal-integrated/formula-for-fatigue.md)
-

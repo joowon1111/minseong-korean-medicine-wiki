@@ -1,4 +1,4 @@
-﻿---
+---
 title: 어깨통증
 description: 어깨통증과 오십견의 한의학적 접근, 침·약침·부항 및 회복 전략을 정리합니다.
 tags: [질환, 어깨통증, 오십견]
@@ -29,13 +29,3 @@ last_reviewed: 2026-08-19
 - [당귀](../herbs/angelica.md)
 - [천궁](../herbs/chuanxiong.md)
 - [독활기생탕](../formulas/duhuo-jisheng-tang.md)
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [팔을 위로 들면 어깨가 아파요](overhead-shoulder-pain.md)
-- [컴퓨터 하면 목·어깨가 뭉쳐요](computer-neck-shoulder.md)
-- [목·어깨 뭉침과 경혈 찾기](../acupuncture-integrated/points-for-neck-shoulder.md)
-- [근골격 통증 핵심](../acupuncture-integrated/musculoskeletal.md)
-- [약침치료](../acupuncture-integrated/pharmacopuncture.md)
-

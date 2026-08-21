@@ -1,4 +1,4 @@
-﻿---
+---
 title: 녹용보약이 궁금해요
 description: 녹용보약이 궁금해요을 환자 검색어에서 맞춤 한약·보약 선택과 상담까지 연결합니다.
 tags: [한약, 보약, 녹용, 공진단, 경옥고, 환자검색]
@@ -52,15 +52,3 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 녹용보약 · 녹용 한약 · 녹용 효능 · 녹용 보약 언제 먹나요 · 부모님 녹용보약 · 수험생 녹용 · 기력회복 녹용
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [맞춤한약](custom-herbal-medicine.md)
-- [기력회복·허약](energy-recovery.md)
-- [노인보약·어르신보약](elderly-tonic.md)
-- [수험생 체력·기력회복](student-stamina.md)
-- [보약·영양제 함께 선택](tonic-vs-health-supplement.md)
-- [피로·기력저하 한약 처방 찾기](../herbal-integrated/formula-for-fatigue.md)
-- [피로·기력회복 본초 찾기](../herbal-integrated/herbs-for-fatigue.md)
-

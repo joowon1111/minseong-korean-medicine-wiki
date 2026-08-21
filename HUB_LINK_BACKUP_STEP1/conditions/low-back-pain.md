@@ -1,4 +1,4 @@
-﻿---
+---
 title: 요통
 description: 요통의 한의학적 변증, 치료 연결과 주요 systematic review·임상연구 근거를 정리합니다.
 tags: [질환, 요통, 현대근거]
@@ -29,13 +29,3 @@ last_reviewed: 2026-08-19
 ## 주요 연구 식별자
 - PMID 36585839; DOI 10.1142/S0192415X23500131
 - PMID 40938602
-
-<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
-## 함께 보면 좋은 핵심 문서
-
-- [오래 앉으면 허리가 아파요](low-back-pain-sitting.md)
-- [운전하면 목·허리가 아파요](driving-neck-back-pain.md)
-- [근골격 통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md)
-- [허리통증·요통과 경혈 찾기](../acupuncture-integrated/points-for-low-back.md)
-- [근골격 통증 핵심](../acupuncture-integrated/musculoskeletal.md)
-
