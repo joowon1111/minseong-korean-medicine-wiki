@@ -204,14 +204,3 @@ tags:
 
 <!-- DEER_TONIC_AI_INDEX_END -->
 
-<!-- TONIC_AI_IMPACT_START -->
-
-## 보약·녹용보약 빠른 가이드
-
-- [어떤 보약을 선택해야 하나요?](clinical-guides/tonic-decision-map.md)
-- [녹용의 품질은 무엇으로 판단하나요?](clinical-guides/deer-antler-quality-map.md)
-- [대표 보약 처방 비교표](clinical-guides/tonic-comparison-matrix.md)
-- [보익 처방 현대 연구 대시보드](clinical-guides/tonic-evidence-dashboard.md)
-
-<!-- TONIC_AI_IMPACT_END -->
-

@@ -47,18 +47,3 @@ last_reviewed: 2026-08-19
 
 <!-- TONIC_DEEP_CONNECT_END -->
 
-<!-- TONIC_IMPACT_START -->
-
-## 보약·녹용보약 핵심 탐색
-
-보약은 처방명만 고르는 것이 아니라 **현재 증상 → 회복 단계 → 처방 구조 → 약재 품질 → 용량·제형 → 현대 연구**까지 함께 보는 것이 핵심입니다.
-
-- [어떤 보약을 선택해야 하나요? — 증상별 처방 지도](../clinical-guides/tonic-decision-map.md)
-- [녹용의 품질은 무엇으로 판단하나요?](../clinical-guides/deer-antler-quality-map.md)
-- [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md)
-- [보익 처방 현대 연구 대시보드](../clinical-guides/tonic-evidence-dashboard.md)
-- [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
-- [보약 처방의 용량·출전·품질](../clinical-guides/tonic-formula-dose-source-quality.md)
-
-<!-- TONIC_IMPACT_END -->
-

@@ -57,14 +57,3 @@ last_reviewed: '2026-08-19'
 
 <!-- TONIC_FORMULA_DEEP_LINK_END -->
 
-<!-- FORMULA_IMPACT_START -->
-
-## 보약 처방 비교·선택
-
-- [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md)
-- [어떤 보약을 선택해야 하나요?](../clinical-guides/tonic-decision-map.md)
-- [보약 처방의 용량·출전·품질](../clinical-guides/tonic-formula-dose-source-quality.md)
-- [보익 처방 현대 연구 대시보드](../clinical-guides/tonic-evidence-dashboard.md)
-
-<!-- FORMULA_IMPACT_END -->
-

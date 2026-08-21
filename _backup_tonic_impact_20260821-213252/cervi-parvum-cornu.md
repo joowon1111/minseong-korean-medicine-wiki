@@ -66,14 +66,3 @@ last_reviewed: 2026-08-19
 
 <!-- DEER_TONIC_CONNECT_END -->
 
-<!-- DEER_IMPACT_START -->
-
-## 녹용을 더 입체적으로 보기
-
-- [녹용의 품질은 무엇으로 판단하나요? — 부위·조직·가공·유통](../clinical-guides/deer-antler-quality-map.md)
-- [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
-- [어떤 보약을 선택해야 하나요?](../clinical-guides/tonic-decision-map.md)
-- [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md)
-
-<!-- DEER_IMPACT_END -->
-
