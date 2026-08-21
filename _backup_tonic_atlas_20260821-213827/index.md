@@ -68,10 +68,3 @@ last_reviewed: '2026-08-19'
 
 <!-- FORMULA_IMPACT_END -->
 
-<!-- TONIC_ATLAS_LINK_START -->
-## 보익 처방 설계·용량 아틀라스
-사군자탕·사물탕·팔물탕·십전대보탕·보중익기탕·귀비탕·육군자탕·생맥산을 **출전 → 원방 구조 → 상대 구성비 → 현대적 가감 → 녹용 가미** 순으로 비교합니다.
-
-[보익 처방 설계·용량 아틀라스 보기 →](../clinical-guides/tonic-formula-design-dose-atlas.md)
-<!-- TONIC_ATLAS_LINK_END -->
-

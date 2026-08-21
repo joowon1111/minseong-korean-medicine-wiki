@@ -215,8 +215,3 @@ tags:
 
 <!-- TONIC_AI_IMPACT_END -->
 
-<!-- TONIC_ATLAS_AI_START -->
-### 보익 처방 설계·용량 아틀라스
-[사군자탕부터 귀비탕·십전대보탕까지 원방 구조와 녹용 가미 비교](clinical-guides/tonic-formula-design-dose-atlas.md)
-<!-- TONIC_ATLAS_AI_END -->
-

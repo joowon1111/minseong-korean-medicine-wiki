@@ -77,10 +77,3 @@ last_reviewed: 2026-08-19
 
 <!-- DEER_IMPACT_END -->
 
-<!-- DEER_ATLAS_LINK_START -->
-## 녹용을 어떤 처방 구조에 연결할 것인가?
-녹용의 양만 비교하기보다 **어떤 기본 보익 처방에 녹용을 더하는지, 그 가미가 원방의 방향을 어떻게 강화하는지** 함께 봅니다.
-
-[보익 처방 설계·용량 아틀라스 보기 →](../clinical-guides/tonic-formula-design-dose-atlas.md)
-<!-- DEER_ATLAS_LINK_END -->
-
