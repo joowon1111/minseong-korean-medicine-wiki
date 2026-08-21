@@ -1,4 +1,4 @@
----
+﻿---
 title: 소음인 - 몸이 나빠질 때 증상 변화와 치료
 description: 소음인의 평소 소증, 위수한리한병의 태음병·소음병, 악화 신호, 대표 처방과 치료 원칙을 정리합니다.
 tags: [소음인, 태음병, 소음병, 곽향정기산, 이중탕]
@@ -78,3 +78,11 @@ last_reviewed: 2026-08-20
 - 평소 소증 수준으로 돌아오는지 확인
 
 → [소증→현재병증→처방 알고리즘](clinical-algorithm.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

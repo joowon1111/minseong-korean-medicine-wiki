@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의보감 잡병편
 description: 동의보감 잡병편을 동의보감의 편제·임상·본초·방제·침구 지식망으로 정리합니다.
 tags: [동의보감, 한의학고전, 본초, 방제, 침구, 양생]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-20
 
 → [상한론 핵심 지식망](../shanghan-network/index.md)
 → [금궤요략 핵심 지식망](../jingui-network/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

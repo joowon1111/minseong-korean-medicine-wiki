@@ -1,4 +1,4 @@
----
+﻿---
 title: 체계적 문헌고찰·메타분석은 무엇인가?
 description: 여러 RCT를 종합하는 systematic review와 meta-analysis의 의미와 해석 시 확인할 요소를 설명합니다.
 tags: [근거중심, 연구방법, AEO]
@@ -32,3 +32,11 @@ Meta-analysis
 
 → [독활기생탕 근거 카드](../authority/duhuo-jisheng-tang.md)
 → [현대 임상근거 허브](../pillar/clinical-evidence.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

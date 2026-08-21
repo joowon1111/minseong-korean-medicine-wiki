@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상체질은 평생 같은가?
 description: 사상체질은 평생 같은가?에 대한 사상의학적 핵심 답변과 관련 지식망을 정리합니다.
 tags: [사상의학, 사상체질, AEO, 질문형검색]
@@ -22,4 +22,11 @@ last_reviewed: 2026-08-19
 따라서 체질이 같더라도 현재의 병증에 따라 치료 원칙과 처방은 달라질 수 있다.
 
 → [같은 체질이면 같은 처방을 쓰나?](same-constitution-same-formula.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

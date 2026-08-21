@@ -1,8 +1,9 @@
----
+﻿---
 title: 맥문동탕(麥門冬湯)
 tags: [방제학, 일반방제, 맥문동, 출전별처방]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 맥문동탕(麥門冬湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 맥문동탕(麥門冬湯)
 
@@ -26,3 +27,11 @@ last_reviewed: 2026-08-20
 
 ## 핵심
 따라서 '맥문동탕'이라는 이름만 보고 『금궤요략』의 맥문동탕이나 후대 동명방의 구성을 섞지 않는다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

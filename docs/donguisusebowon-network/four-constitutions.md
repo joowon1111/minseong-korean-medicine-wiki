@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상인의 기본 구조
 description: 사상인의 기본 구조을 동의수세보원의 체질·병증·치법·생활관리 지식망으로 정리합니다.
 tags: [동의수세보원, 사상의학, 이제마, 사상체질]
@@ -20,4 +20,11 @@ last_reviewed: 2026-08-20
 체질은 단순한 성격 분류가 아니라 장부 기능의 상대적 특성과 병증의 전개, 치료 원칙까지 연결되는 의학적 구조다.
 
 → [사상체질 기본 구조](../sasang/four-constitutions.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [사상의학 개요](../sasang/index.md)
+- [사상체질 기본 구조](../sasang/four-constitutions.md)
+- [사상 병증·처방 지도](../sasang/pattern-formula-map.md)
 

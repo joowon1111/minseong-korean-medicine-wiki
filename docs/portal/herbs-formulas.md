@@ -25,3 +25,10 @@ hide:
 
 본초 → 방제 → 병증 → 환자 증상 → 현대 연구근거가 서로 연결됩니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

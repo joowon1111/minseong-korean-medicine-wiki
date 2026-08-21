@@ -1,4 +1,4 @@
----
+﻿---
 title: 형방사백산
 description: 형방사백산의 사상의학적 위치와 체질·병증·처방 지식망을 정리합니다.
 tags: [사상의학, 소양인, 체질처방, 동의수세보원]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-19
 
 → [소양인](../sasang/soyangin.md)
 → [체질→병증→처방 탐색](decision-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

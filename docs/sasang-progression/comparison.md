@@ -1,4 +1,4 @@
----
+﻿---
 title: 네 체질 건강→악화→회복 비교
 description: 네 체질 건강→악화→회복 비교을 사상체질의 완실무병·소증·병증 진행과 회복 구조로 정리합니다.
 tags: [사상체질, 완실무병, 소증, 악화, 회복]
@@ -25,3 +25,11 @@ last_reviewed: 2026-08-20
    ↓
 건강신호 회복
 ```
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

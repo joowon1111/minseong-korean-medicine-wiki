@@ -1,4 +1,4 @@
----
+﻿---
 title: SEO·AEO 문서 표준
 description: 민성 한의학 아카이브의 title·description·질문형 답변·내부링크·근거표기 표준을 정리합니다.
 tags: [운영, SEO, AEO, GEO]
@@ -84,3 +84,11 @@ AI가 문서를 이해하기 쉽게 다음을 우선한다.
 - 중복되지 않는 canonical 주제 문서
 
 → [질문으로 찾는 한의학](faq/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](guide/index.md)
+- [증상·질환](conditions/index.md)
+- [AI 검색 구조](ai-index.md)
+

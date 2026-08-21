@@ -1,8 +1,9 @@
----
+﻿---
 title: 한약 연구
 tags: [연구, 근거, PMID, DOI, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 한약 연구 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 한약 연구
 
@@ -23,3 +24,4 @@ last_reviewed: 2026-08-20
 → [녹용 현대 연구](../tonic-masterpieces/deer-antler/research.md)  
 → [공진단 피로 임상연구](../tonic-masterpieces/gongjindan/fatigue-evidence.md)  
 → [경옥고 피로·회복 연구](../tonic-masterpieces/gyeongokgo/fatigue-recovery.md)
+

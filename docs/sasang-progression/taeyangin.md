@@ -1,4 +1,4 @@
----
+﻿---
 title: 태양인 건강→악화→회복
 description: 태양인 건강→악화→회복을 사상체질의 완실무병·소증·병증 진행과 회복 구조로 정리합니다.
 tags: [사상체질, 완실무병, 소증, 악화, 회복]
@@ -23,3 +23,11 @@ last_reviewed: 2026-08-20
 연하·섭취 개선 → 하지/요척 기능 개선 → 일상활동 회복 → 배뇨 안정 → **소변왕다의 건강상태 유지**.
 
 → [증상·치료 상세](../sasang-clinical-detail/taeyangin.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

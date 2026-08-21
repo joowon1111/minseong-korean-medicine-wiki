@@ -28,3 +28,9 @@ last_reviewed: '2026-08-19'
 
 각 문서는 **위험신호와 감별 → 증상패턴 → 한의학적 병증 → 한약·침·전침·약침 → 관련 전문지식** 순으로 더 깊게 탐색할 수 있도록 연결합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [환자 질문 검색 지도](../ai/patient-search-map.md)
+- [맞춤한약](custom-herbal-medicine.md)
+

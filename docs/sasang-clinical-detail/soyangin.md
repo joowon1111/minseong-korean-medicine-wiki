@@ -1,4 +1,4 @@
----
+﻿---
 title: 소양인 - 몸이 나빠질 때 증상 변화와 치료
 description: 소양인의 표리병, 흉격열병·망음병·음허오열병, 열·갈증·소화·대소변 변화와 대표 처방을 정리합니다.
 tags: [소양인, 흉격열병, 망음병, 음허오열병, 형방지황탕, 양격산화탕]
@@ -83,3 +83,11 @@ last_reviewed: 2026-08-20
 - 평소 소증 수준이 안정되는지
 
 → [네 체질 비교표](four-constitution-comparison.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상체질 진단 연구
 description: 사상체질 진단 연구을 사상체질의 현대 임상·진단·건강지표 연구와 연결해 정리합니다.
 tags: [사상의학, 사상체질, 현대연구, 임상연구]
@@ -29,4 +29,11 @@ last_reviewed: 2026-08-19
 
 → [체질 진단의 임상 흐름](../sasang-guideline/diagnostic-workflow.md)
 → [소증과 현재 병증](../sasang-guideline/ordinary-symptoms.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

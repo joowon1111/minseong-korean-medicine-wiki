@@ -1,4 +1,4 @@
----
+﻿---
 title: PMID·DOI는 무엇인가?
 description: PubMed의 PMID와 논문 고유 식별자인 DOI가 무엇이며 아카이브에서 어떻게 활용하는지 설명합니다.
 tags: [근거중심, 연구방법, AEO]
@@ -38,3 +38,11 @@ PMID / DOI
 
 → [참고문헌 데이터베이스](../research/references/index.md)
 → [출처·근거 허브](../authority/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

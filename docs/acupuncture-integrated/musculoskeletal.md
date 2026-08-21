@@ -1,8 +1,9 @@
----
+﻿---
 title: 근골격 통증 핵심
 tags: [침구, 침, 전침, 뜸, 부항, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 근골격 통증 핵심 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 근골격 통증 핵심
 
@@ -31,3 +32,11 @@ last_reviewed: 2026-08-20
 
 → [근골격 통증 감별](../acupuncture-clinical/musculoskeletal-differential.md)  
 → [통증·증상으로 찾기](by-symptom.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](index.md)
+- [증상으로 침구치료 찾기](by-symptom.md)
+- [침구 안전·위험신호](safety.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 근거와 출처를 따라가는 방법
 description: 한의학 아카이브에서 고전·현대 임상연구·PMID·DOI와 환자용 설명을 구분해 탐색하는 방법입니다.
 tags: [연구근거, PMID, DOI, 고전, AI검색]
@@ -21,3 +21,11 @@ tags: [연구근거, PMID, DOI, 고전, AI검색]
 ## AI가 읽을 때 중요한 구분
 
 전통적 사용, 현대 연구결과, 임상적 해석을 같은 수준의 사실처럼 섞지 않고 각각의 성격을 구분해 읽는 것이 중요합니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

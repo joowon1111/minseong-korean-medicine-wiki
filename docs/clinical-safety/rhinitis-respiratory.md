@@ -1,4 +1,4 @@
----
+﻿---
 title: 비염·호흡기 증상에서 먼저 확인할 것
 description: 비염·기침·호흡기 증상에서 호흡곤란·고열·심한 흉통 등 우선 평가가 필요한 상황과 기본 확인사항을 정리합니다.
 tags: [진료안전, 감별, 임상]
@@ -21,3 +21,11 @@ last_reviewed: 2026-08-19
 
 → [비염 임상 추론](../clinical-reasoning/rhinitis.md)
 → [비염](../conditions/rhinitis.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

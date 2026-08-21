@@ -1,8 +1,9 @@
----
+﻿---
 title: 근골격 통증 감별
 tags: [침구, 침, 전침, 뜸, 부항, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 근골격 통증 감별 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 근골격 통증 감별
 ## 통증에서 먼저 묻는 것
@@ -23,3 +24,11 @@ last_reviewed: 2026-08-20
 | 내장 연관 | 움직임과 무관한 통증, 전신증상 |
 
 WHO의 만성 일차성 요통 지침은 단일 치료보다 사람 중심의 통합적 접근을 강조하며, 교육·운동·일부 물리치료·심리치료·약물 등 여러 중재를 상황에 맞게 조합할 수 있다고 설명합니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 조화·기타 본초
 description: 여러 처방을 조화시키고 복합적인 역할을 하는 본초를 정리합니다.
 tags:
@@ -17,3 +17,11 @@ last_reviewed: '2026-08-19'
 감초는 보기·윤폐·완급·조화제약의 여러 역할로 수많은 처방에서 활용된다.
 
 → [감초를 쓰는 처방](../../network/licorice-formulas.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../../herbal-integrated/herbs.md)
+- [본초 비교·감별](../../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../../herbal-integrated/formulas.md)
+

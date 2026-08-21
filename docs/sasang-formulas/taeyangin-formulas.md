@@ -1,4 +1,4 @@
----
+﻿---
 title: 태양인 대표 처방 지식망
 description: 태양인 대표 처방 지식망을 체질·병증·치법·대표 처방의 관계로 정리합니다.
 tags: [사상의학, 사상체질, 체질처방, 동의수세보원]
@@ -30,4 +30,11 @@ last_reviewed: 2026-08-19
 
 → [태양인](../sasang/taeyangin.md)  
 → [사상체질 기본 구조](../sasang/four-constitutions.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

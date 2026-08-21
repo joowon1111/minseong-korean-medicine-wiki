@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의보감의 백출(白朮)
 description: 동의보감 탕액편의 백출과 현대 본초 문서를 연결합니다.
 tags: [동의보감, 탕액편, 백출]
@@ -27,3 +27,11 @@ atractylenolides와 polysaccharides 등을 중심으로 위장관 기능, 면역
 
 ## 자료 원칙
 구체적인 원문 문구와 판본 위치는 1613년 판본 및 한국한의학연구원 고전 데이터베이스에서 확인한 뒤 단계적으로 보강한다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../../../classics-network/reading-path.md)
+- [주요 고전 비교](../../../classics-network/comparison.md)
+- [근거와 출처](../../../ai/evidence-map.md)
+

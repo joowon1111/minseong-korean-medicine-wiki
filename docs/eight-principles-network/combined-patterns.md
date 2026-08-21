@@ -1,4 +1,4 @@
----
+﻿---
 title: 팔강의 조합
 description: 팔강의 조합을 한의학 팔강변증의 병위·병성·허실·치법 구조로 정리합니다.
 tags: [팔강변증, 표리, 한열, 허실, 음양, 변증]
@@ -20,4 +20,11 @@ last_reviewed: 2026-08-20
 또한 병의 진행 과정에서 **한열전환·허실전환·표리전변**이 나타날 수 있다.
 
 팔강을 조합해서 보면 단순 증상 목록이 **병증의 구조**로 바뀐다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 

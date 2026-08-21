@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의수세보원에서 현대 연구까지
 description: 동의수세보원에서 현대 연구까지을 사상체질의 현대 임상·진단·건강지표 연구와 연결해 정리합니다.
 tags: [사상의학, 사상체질, 현대연구, 임상연구]
@@ -27,4 +27,11 @@ last_reviewed: 2026-08-19
 
 → [동의수세보원](../sasang/donguisusebowon.md)
 → [사상체질병증 표준 분류](../sasang-guideline/kcd-classification.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

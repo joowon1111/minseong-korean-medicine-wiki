@@ -1,8 +1,9 @@
----
+﻿---
 title: 근거를 임상에 적용하기
 tags: [연구, 근거, PMID, DOI, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 근거를 임상에 적용하기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 근거를 임상에 적용하기
 
@@ -30,3 +31,11 @@ last_reviewed: 2026-08-20
 - 환자가 중요하게 생각하는 기능이 좋아지는가
 
 → [증상·질환 치료·경과·근거](../symptom-integrated/treatment-evidence.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

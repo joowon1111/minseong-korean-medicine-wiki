@@ -1,4 +1,4 @@
----
+﻿---
 title: 금궤요략식 임상 추론
 description: 금궤요략식 임상 추론을 금궤요략의 잡병·병기·치법·처방 지식망으로 정리합니다.
 tags: [금궤요략, 잡병, 고전방제, 임상추론]
@@ -29,4 +29,11 @@ last_reviewed: 2026-08-20
 
 → [상한론 핵심 지식망](../shanghan-network/index.md)
 → [임상 추론 경로](../clinical-reasoning/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

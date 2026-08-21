@@ -1,8 +1,9 @@
----
+﻿---
 title: 소양인 망음병 vs 흉격열병
 tags: [사상의학, 체질병증, 감별]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 소양인 망음병 vs 흉격열병 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 소양인 망음병 vs 흉격열병
 두 병증은 큰 방향이 다릅니다.
@@ -24,3 +25,11 @@ last_reviewed: 2026-08-20
 ```
 
 → [소양인 상세](../sasang-clinical-detail/soyangin.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

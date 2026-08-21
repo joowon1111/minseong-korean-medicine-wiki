@@ -1,8 +1,9 @@
----
+﻿---
 title: 태음인 중증도·위험신호
 tags: [사상의학, 중증도, 위험신호, 체질병증]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 태음인 중증도·위험신호 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 태음인 중증도·위험신호
 태음인은 **위완수한표한병**과 **간수열리열병**이라는 큰 축에서 중증도가 진행합니다.
@@ -35,3 +36,11 @@ last_reviewed: 2026-08-20
 - 태음인의 건강신호인 한액통창이 현저히 무너짐
 
 → [표한 vs 리열](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

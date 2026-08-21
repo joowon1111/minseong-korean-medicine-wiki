@@ -34,3 +34,10 @@ last_reviewed: 2026-08-20
 
 비·위, 간·담, 심·소장, 폐·대장, 신·방광의 주요 병증을 서로 비교하고 치법·본초·방제로 연결합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+

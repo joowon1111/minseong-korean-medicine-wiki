@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의보감은 임상에서 어떻게 찾아보나?
 description: 동의보감은 임상에서 어떻게 찾아보나?을 동의보감의 편제·임상·본초·방제·침구 지식망으로 정리합니다.
 tags: [동의보감, 한의학고전, 본초, 방제, 침구, 양생]
@@ -34,4 +34,11 @@ last_reviewed: 2026-08-20
 이런 구조는 오늘날 디지털 한의학 아카이브에서 메뉴·태그·검색을 설계하는 데도 매우 잘 맞는다.
 
 → [전체 둘러보기](../portal/maps.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

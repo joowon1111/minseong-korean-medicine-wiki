@@ -1,4 +1,4 @@
----
+﻿---
 title: 팔강변증 임상 추론
 description: 팔강변증 임상 추론을 한의학 팔강변증의 병위·병성·허실·치법 구조로 정리합니다.
 tags: [팔강변증, 표리, 한열, 허실, 음양, 변증]
@@ -24,4 +24,11 @@ last_reviewed: 2026-08-20
 ```
 
 예를 들어 같은 복통이라도 **리한허증, 리열실증, 기체·어혈** 등 구조가 다르면 치료 방향도 달라질 수 있다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 

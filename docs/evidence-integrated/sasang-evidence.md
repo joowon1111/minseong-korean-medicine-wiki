@@ -1,8 +1,9 @@
----
+﻿---
 title: 사상의학 연구
 tags: [연구, 근거, PMID, DOI, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 사상의학 연구 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 사상의학 연구
 
@@ -17,3 +18,11 @@ last_reviewed: 2026-08-20
 
 → [사상의학 근거·출전](../sasang-integrated/evidence.md)  
 → [사상처방 구성·용량 라이브러리](../sasang-formula-library/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

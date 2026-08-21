@@ -1,4 +1,4 @@
----
+﻿---
 title: 부항
 description: 부항의 음압 자극 원리, 건식·습식 부항과 근골격계 통증 관련 연구를 정리합니다.
 tags: [부항, 한의치료, 통증]
@@ -38,3 +38,11 @@ last_reviewed: 2026-08-19
 ## 참고문헌
 1. Tehseen A, et al. *The efficacy and safety of dry cupping in cervical pain: a randomized clinical trial.* 2022. PMID **35751549**.
 2. Zhang Z, et al. *The effectiveness of cupping therapy on low back pain: A systematic review and meta-analysis.* 2024. PMID **38184285**.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

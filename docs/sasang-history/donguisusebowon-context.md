@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의수세보원의 형성 배경
 description: 동의수세보원의 형성 배경을 사상의학의 역사·인물·고전·현대 확장과 연결해 정리합니다.
 tags: [사상의학, 이제마, 동의수세보원, 한의학역사]
@@ -22,4 +22,11 @@ last_reviewed: 2026-08-19
 이 책을 통해 체질은 단순한 분류가 아니라 **병증의 발생과 치료 선택에 영향을 주는 임상 구조**로 제시되었다.
 
 → [체질→병증·처방 탐색](../sasang-formulas/decision-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

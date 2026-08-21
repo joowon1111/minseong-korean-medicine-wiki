@@ -1,4 +1,4 @@
----
+﻿---
 title: 상한론 계지가갈근탕 조문
 description: 태양병의 항배강과 한출·오풍에 대한 계지가갈근탕 조문을 정리합니다.
 tags: [상한론, 태양병, 계지가갈근탕, 조문]
@@ -29,3 +29,11 @@ last_reviewed: 2026-08-19
 
 ## 원문 확인
 Wikisource 《傷寒論》 및 《傷寒論注釋》 전승문 대조.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../../classics-network/reading-path.md)
+- [주요 고전 비교](../../classics-network/comparison.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

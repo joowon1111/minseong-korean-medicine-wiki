@@ -1,8 +1,9 @@
----
+﻿---
 title: 인삼양위탕(人蔘養胃湯)
 tags: [방제학, 일반방제, 비위, 외감, 담습, 방약합편]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 인삼양위탕(人蔘養胃湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 인삼양위탕(人蔘養胃湯)
 
@@ -34,3 +35,11 @@ last_reviewed: 2026-08-20
 - 삼소음: 기허 + 외감풍한 + 담
 - 인삼양위탕: 비위허약 + 습담 + 음증성 외감
 - 불환금정기산: 외감과 내상습체의 정기 조절
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

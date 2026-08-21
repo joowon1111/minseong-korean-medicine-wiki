@@ -1,4 +1,4 @@
----
+﻿---
 title: 네 사상체질 - 악화 양상과 대표 처방 비교
 description: 소음인·소양인·태음인·태양인의 악화 시 핵심 변화와 대표 병증·처방을 한눈에 비교합니다.
 tags: [사상체질, 비교, 체질병증, 처방]
@@ -31,3 +31,11 @@ last_reviewed: 2026-08-20
 ```
 
 → [임상 알고리즘](clinical-algorithm.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

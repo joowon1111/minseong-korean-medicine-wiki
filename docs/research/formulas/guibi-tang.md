@@ -1,4 +1,4 @@
----
+﻿---
 title: 귀비탕 임상근거
 description: 귀비탕(Guipi Decoction)의 불면·정서 영역 임상연구와 systematic review를 정리합니다.
 tags: [귀비탕, 임상근거, 불면]
@@ -22,3 +22,11 @@ last_reviewed: 2026-08-19
 2. Sheng CX, et al. Guipi Decoction for depression: meta-analysis. **PMID 26453561**.
 
 → [불면 임상 지식망](../../network/insomnia-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../../evidence-integrated/find-research.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

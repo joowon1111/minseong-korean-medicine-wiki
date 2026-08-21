@@ -1,8 +1,9 @@
----
+﻿---
 title: 보익·회복 핵심
 tags: [본초, 방제, 통합허브, 임상탐색]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 보익·회복 핵심 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 보익·회복 핵심
 
@@ -19,3 +20,4 @@ last_reviewed: 2026-08-20
 
 → [녹용·공진단·경옥고 세 가지 비교](../tonic-masterpieces/comparison.md)  
 → [피로·회복 지식망](../immune-allergy/fatigue-recovery.md)
+

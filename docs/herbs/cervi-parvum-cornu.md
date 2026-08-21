@@ -1,4 +1,4 @@
----
+﻿---
 title: 녹용(鹿茸)
 description: 녹용의 전통적 보익 가치, 주요 성분, 재생·골대사·면역 관련 현대 연구와 임상 활용을 정리합니다.
 tags: [본초학, 보익약, 녹용]
@@ -44,3 +44,11 @@ last_reviewed: 2026-08-19
 2. Lee SJ, et al. *Deer antler velvet as a multifunctional natural resource for biomedical and nutraceutical applications.* 2026. PMID **41925970**; DOI **10.1007/s44463-026-00070-z**.
 3. Sui Z, et al. *Bioactive components of velvet antlers and their pharmacological properties.* PMID **24029381**.
 4. Jamrasi P, et al. *Efficacy and Safety of Enzyme-Derived Deer Velvet Extract Supplementation on Adults with Chronic Fatigue.* 2026. PMID **42487402**.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

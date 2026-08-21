@@ -1,4 +1,4 @@
----
+﻿---
 title: 소증과 체질병증
 description: 소증과 체질병증을 동의수세보원의 체질·병증·치법·생활관리 지식망으로 정리합니다.
 tags: [동의수세보원, 사상의학, 이제마, 사상체질]
@@ -30,4 +30,11 @@ last_reviewed: 2026-08-20
 현재 증상만 보는 것이 아니라 평소의 상태와 비교한다는 점이 사상의학적 진단의 중요한 특징이다.
 
 → [소증과 현재 병증](../sasang-guideline/ordinary-symptoms.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [사상의학 개요](../sasang/index.md)
+- [사상체질 기본 구조](../sasang/four-constitutions.md)
+- [사상 병증·처방 지도](../sasang/pattern-formula-map.md)
 

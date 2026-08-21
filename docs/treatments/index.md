@@ -1,4 +1,4 @@
----
+﻿---
 title: 한의치료 방법
 description: 침·약침·전침·부항·뜸·온열치료의 원리와 임상적 활용을 연결합니다.
 tags: [한의치료, 침구, 약침, 부항, 뜸]
@@ -71,3 +71,11 @@ last_reviewed: 2026-08-19
 ```
 
 → [한의치료 방법 지식망](../network/treatment-methods-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

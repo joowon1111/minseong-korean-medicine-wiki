@@ -1,4 +1,4 @@
----
+﻿---
 title: 국가 임상자료·사상체질 진단가이드
 description: 국가 임상자료·사상체질 진단가이드을 사상체질 진단·병증·현대 임상표준과 연결해 정리합니다.
 tags: [사상의학, 사상체질, 임상표준, NCKM]
@@ -27,4 +27,11 @@ last_reviewed: 2026-08-19
 
 → [체질 진단의 임상 흐름](diagnostic-workflow.md)
 → [체질별 생활관리 구조](lifestyle-framework.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

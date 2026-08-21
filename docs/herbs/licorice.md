@@ -1,4 +1,4 @@
----
+﻿---
 title: 감초(甘草)
 description: 감초(甘草)의 전통적 효능, 동의보감 연결, 현대 성분·약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 감초]
@@ -32,3 +32,11 @@ glycyrrhizin과 flavonoids를 중심으로 항염·항산화 등 폭넓은 연�
 
 ## 연구 메모
 장기·고용량 복용 시 glycyrrhizin 관련 저칼륨혈증·혈압 상승 가능성을 고려
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 백출(白朮)
 description: 백출(白朮)의 전통적 효능, 동의보감 연결, 현대 성분·약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 백출]
@@ -29,3 +29,11 @@ atractylenolides와 polysaccharides 등을 중심으로 위장관 기능, 면역
 
 ## 연구 메모
 30130541 / DOI 10.1016/j.jep.2018.08.023; PMID 39473269 / DOI 10.1002/cbdv.202401879
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

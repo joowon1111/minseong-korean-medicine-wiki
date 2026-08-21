@@ -1,8 +1,9 @@
----
+﻿---
 title: 본초 찾기
 tags: [본초, 방제, 임상본초, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 본초 찾기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 본초 찾기
 
@@ -78,3 +79,4 @@ last_reviewed: 2026-08-20
 → [주요 본초 비교·감별](herb-comparisons.md)  
 → [방제 찾기](formulas.md)  
 → [증상·치법으로 찾기](by-symptom-treatment.md)
+

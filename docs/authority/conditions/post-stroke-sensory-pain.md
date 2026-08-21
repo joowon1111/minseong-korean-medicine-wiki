@@ -1,4 +1,4 @@
----
+﻿---
 title: 뇌졸중 후 감각장애·통증 — 침 치료 현대 임상근거 카드
 description: 뇌졸중 후 감각장애와 시상통·중추성 통증에서 침 치료 meta-analysis를 통증·감각·일상생활기능 중심으로 정리합니다.
 tags: [뇌졸중, 감각장애, 시상통, 통증, 침]
@@ -40,3 +40,11 @@ last_reviewed: 2026-08-19
 
 → [침 치료](../../treatments/acupuncture.md)
 → [전침](../../treatments/electroacupuncture.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../../guide/index.md)
+- [증상·질환](../../conditions/index.md)
+- [AI 검색 구조](../../ai-index.md)
+

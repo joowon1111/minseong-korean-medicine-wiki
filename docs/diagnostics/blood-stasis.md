@@ -1,4 +1,4 @@
----
+﻿---
 title: 어혈(瘀血)
 description: 어혈의 전통적 병리 개념, 주요 증후와 감별 원칙을 정리합니다.
 tags: [진단변증, 어혈, 병리]
@@ -15,3 +15,11 @@ last_reviewed: 2026-08-19
 
 ## 감별
 어혈을 혈전, 동맥경화, 멍 등 특정 현대 병리와 동일시해서는 안 된다. 혈전성 질환이 의심되는 상황에서는 즉각적인 현대의학적 평가가 우선한다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+

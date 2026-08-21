@@ -38,3 +38,10 @@ description: 통증·저림·기능저하에서 해부학·MPS·경혈·침·전
 
 근골격 통증과 자율신경·소화·수면 등 전신 증상은 서로 다른 치료축으로 연결할 수 있습니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

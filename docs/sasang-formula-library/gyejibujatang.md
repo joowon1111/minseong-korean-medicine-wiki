@@ -1,8 +1,9 @@
----
+﻿---
 title: 계지부자탕(桂枝附子湯)I
 tags: [사상의학, 소음인, 계지부자탕, 처방구성, 출전]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 계지부자탕(桂枝附子湯)I — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 계지부자탕(桂枝附子湯)I
 
@@ -24,3 +25,11 @@ last_reviewed: 2026-08-20
 
 ## 조제
 약재를 썰어 물에 달여 복용.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

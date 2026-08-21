@@ -1,4 +1,4 @@
----
+﻿---
 title: 상한론과 온병학 비교
 description: 상한론과 온병학 비교을 온병학의 위기영혈·삼초변증·치법·처방 지식망으로 정리합니다.
 tags: [온병학, 위기영혈, 삼초변증, 온병조변, 온열론]
@@ -26,4 +26,11 @@ last_reviewed: 2026-08-20
 두 체계는 어느 하나가 다른 하나를 단순히 대체한다기보다, 서로 다른 병증 구조를 이해하는 데 활용되는 고전적 임상 틀이다.
 
 → [상한론 핵심 지식망](../shanghan-network/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

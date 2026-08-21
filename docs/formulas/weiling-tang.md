@@ -1,8 +1,9 @@
----
+﻿---
 title: 위령탕(胃苓湯)
 tags: [방제학, 비위한습, 수습, 방약합편]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 위령탕(胃苓湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 위령탕(胃苓湯)
 
@@ -35,3 +36,11 @@ last_reviewed: 2026-08-20
 ## 출전·근거
 한국전통지식포탈, 위령탕B, P0004290  
 https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0004290&tempLang=ko
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

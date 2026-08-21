@@ -1,4 +1,4 @@
----
+﻿---
 title: 소화기 증상에서 먼저 확인할 신호
 description: 소화불량·복통에서 출혈·연하곤란·지속적 구토·체중감소 등 우선 평가가 필요한 신호를 정리합니다.
 tags: [진료안전, 감별, 임상]
@@ -20,3 +20,11 @@ last_reviewed: 2026-08-19
 
 → [소화불량 임상 추론](../clinical-reasoning/dyspepsia.md)
 → [소화·비위 허브](../pillar/digestion-spleen-stomach.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

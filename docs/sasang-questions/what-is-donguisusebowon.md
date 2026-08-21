@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의수세보원은 어떤 책인가?
 description: 동의수세보원은 어떤 책인가?에 대한 사상의학적 핵심 답변과 관련 지식망을 정리합니다.
 tags: [사상의학, 사상체질, AEO, 질문형검색]
@@ -23,4 +23,11 @@ last_reviewed: 2026-08-19
 
 → [동의수세보원](../sasang/donguisusebowon.md)
 → [이제마](../sasang-history/lee-je-ma.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 상한론 갈근탕 조문
 description: 태양병 항배강·무한·오풍의 갈근탕 조문과 태양양명 합병 조문을 정리합니다.
 tags: [상한론, 태양병, 갈근탕, 조문]
@@ -30,3 +30,11 @@ last_reviewed: 2026-08-19
 
 ## 원문 확인
 《傷寒論注釋》 四庫全書本 卷03 및 Wikisource 전승문 대조.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../../classics-network/reading-path.md)
+- [주요 고전 비교](../../classics-network/comparison.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

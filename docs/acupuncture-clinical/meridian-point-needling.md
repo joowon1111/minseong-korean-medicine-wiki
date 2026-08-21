@@ -1,8 +1,9 @@
----
+﻿---
 title: 경락 → 경혈 → 자침
 tags: [침구, 침, 전침, 뜸, 부항, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 경락 → 경혈 → 자침 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 경락 → 경혈 → 자침
 전통 침구학에서는 장부·경락·경혈을 연결하고, 현대 임상에서는 여기에 국소 해부학·근육·신경·압통점 정보를 함께 활용할 수 있습니다.
@@ -28,3 +29,11 @@ last_reviewed: 2026-08-20
 4. 기능·근막·압통점 기반 접근
 
 경혈의 이름만 외우기보다 **왜 그 혈을 선택했는가**가 위키에서 드러나도록 구성합니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

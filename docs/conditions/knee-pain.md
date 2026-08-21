@@ -1,4 +1,4 @@
----
+﻿---
 title: 무릎통증
 description: 무릎통증의 한의학적 변증, 치료 연결과 주요 systematic review·임상연구 근거를 정리합니다.
 tags: [질환, 무릎통증, 현대근거]
@@ -29,3 +29,11 @@ last_reviewed: 2026-08-19
 ## 주요 연구 식별자
 - PMID 39486882; DOI 10.1136/bmjebm-2023-112626
 - PMID 38635021; DOI 10.1007/s11916-024-01242-6
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [증상·질환 한눈에 보기](index.md)
+- [환자 질문 검색 지도](../ai/patient-search-map.md)
+- [맞춤한약](custom-herbal-medicine.md)
+

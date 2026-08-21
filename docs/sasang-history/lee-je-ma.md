@@ -1,4 +1,4 @@
----
+﻿---
 title: 이제마
 description: 이제마을 사상의학의 역사·인물·고전·현대 확장과 연결해 정리합니다.
 tags: [사상의학, 이제마, 동의수세보원, 한의학역사]
@@ -24,4 +24,11 @@ last_reviewed: 2026-08-19
 
 → [동의수세보원](../sasang/donguisusebowon.md)
 → [사상체질의 기본 구조](../sasang/four-constitutions.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

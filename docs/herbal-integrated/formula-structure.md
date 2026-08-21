@@ -1,8 +1,9 @@
----
+﻿---
 title: 처방 구조·비교
 tags: [방제학, 처방구조, 비교감별, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 처방 구조·비교 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 처방 구조·비교
 
@@ -114,3 +115,11 @@ last_reviewed: 2026-08-20
 
 → [방제 찾기](formulas.md)  
 → [일반 방제 임상 지도](general-formulary.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

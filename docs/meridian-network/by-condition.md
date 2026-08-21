@@ -1,4 +1,4 @@
----
+﻿---
 title: 경맥→증상 지도
 description: 불면·소화불량·요통·비염을 대표 경맥과 경혈의 연결 구조로 탐색합니다.
 tags: [경락, 경맥, 침구지식망]
@@ -38,3 +38,11 @@ last_reviewed: 2026-08-19
 
 → [증상별 경혈 지도](../acupoint-network/by-condition.md)
 → [질환→치료 통합 지도](../network/condition-to-treatment-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

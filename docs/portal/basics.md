@@ -25,3 +25,10 @@ hide:
 
 음양·오행 → 장부 → 기혈진액 → 병인병기 → 변증 → 치법의 흐름으로 탐색합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

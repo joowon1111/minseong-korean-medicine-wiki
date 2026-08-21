@@ -1,4 +1,4 @@
----
+﻿---
 title: 같은 체질이면 같은 처방을 쓰나?
 description: 같은 체질이면 같은 처방을 쓰나?에 대한 사상의학적 핵심 답변과 관련 지식망을 정리합니다.
 tags: [사상의학, 사상체질, AEO, 질문형검색]
@@ -24,4 +24,11 @@ last_reviewed: 2026-08-19
 예를 들어 소양인에서도 형방도적산·형방사백산·양격산화탕은 서로 다른 병증 맥락에서 탐색된다.
 
 → [체질→병증→처방 탐색](../sasang-formulas/decision-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

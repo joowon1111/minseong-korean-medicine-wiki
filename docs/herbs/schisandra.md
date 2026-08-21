@@ -1,4 +1,4 @@
----
+﻿---
 title: 오미자(五味子)
 description: 오미자의 수렴·생진·안신 전통과 lignans·polysaccharides 현대 연구, 생맥산에서의 역할을 정리합니다.
 tags: [본초학, 오미자, 수삽약, 생맥산]
@@ -34,3 +34,11 @@ Schisandra lignans는 항산화·항염·신경보호·간보호·대사 관련 
 1. Ehambarampillai D, et al. *A comprehensive review of Schisandra chinensis lignans.* 2025. PMCID **PMC11984061**.
 2. Panossian A, Wikman G. *Pharmacology of Schisandra chinensis Bail.: an overview of Russian research and uses in medicine.* 2008. PMID **18515024**.
 3. Luan F, et al. *Extraction, purification, structural features, bioactivities and applications of polysaccharides from Schisandra chinensis.* 2024. PMID **38336330**.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

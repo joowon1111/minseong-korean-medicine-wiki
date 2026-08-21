@@ -1,4 +1,4 @@
----
+﻿---
 title: 한의학 근거 계층 지도
 description: 고전·기전·전임상·임상시험·RCT·체계적 문헌고찰·메타분석의 관계를 한눈에 정리합니다.
 tags: [근거중심, 연구방법, AEO]
@@ -25,3 +25,11 @@ last_reviewed: 2026-08-19
 
 → [대표 본초 근거 카드](../authority/herbs/index.md)
 → [출처·근거 허브](../authority/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

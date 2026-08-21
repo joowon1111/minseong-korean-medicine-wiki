@@ -25,3 +25,10 @@ hide:
 
 환자가 검색하는 표현과 임상가가 사용하는 해부학·기능평가 용어를 서로 연결합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

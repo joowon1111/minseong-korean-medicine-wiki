@@ -1,4 +1,4 @@
----
+﻿---
 title: 혈허(血虛)
 description: 혈허의 정의, 주요 증후, 관련 본초·방제와 현대적 해석의 주의점을 정리합니다.
 tags: [진단변증, 혈허, 기혈진액]
@@ -21,3 +21,11 @@ last_reviewed: 2026-08-19
 
 ## 감별
 혈허와 현대의 빈혈은 같은 개념이 아니다. 빈혈 여부는 필요한 경우 혈액검사 등 현대의학적 평가를 통해 확인한다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+

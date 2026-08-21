@@ -28,3 +28,9 @@ last_reviewed: '2026-08-19'
 
 이 허브는 환자 증상에서 전문적인 변증 체계로 넘어가는 관문 역할을 합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+

@@ -1,8 +1,9 @@
----
+﻿---
 title: 사상체질 중증도·위험신호 지도
 tags: [사상의학, 중증도, 위험신호, 체질병증]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 사상체질 중증도·위험신호 지도 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 사상체질 중증도·위험신호 지도
 사상체질병증 CPG는 병증을 단순 체질명이 아니라 **표리 → 순역 → 경증·중등증·중증·위중증 → 세부 진행단계**로 구조화합니다.
@@ -26,3 +27,4 @@ last_reviewed: 2026-08-20
 - [소음인](soeumin.md) · [소양인](soyangin.md) · [태음인](taeeumin.md) · [태양인](taeyangin.md)
 - [소증 붕괴와 위험신호](original-symptom-collapse.md)
 - [진료 우선순위 체크](clinical-priority.md)
+

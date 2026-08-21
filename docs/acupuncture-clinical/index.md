@@ -1,8 +1,9 @@
----
+﻿---
 title: 침구·치료 임상 심화
 tags: [침구, 침, 전침, 뜸, 부항, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 침구·치료 임상 심화 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 침구·치료 임상 심화
 침구치료를 단순히 **질환명 → 혈자리 목록**으로 만들지 않고 실제 임상 추론 과정으로 연결합니다.
@@ -31,3 +32,4 @@ last_reviewed: 2026-08-20
 - [근골격 통증 감별](musculoskeletal-differential.md)
 - [침 vs 전침 vs 뜸 vs 부항](modality-comparison.md)
 - [안전·금기·위험신호](safety-redflags.md)
+

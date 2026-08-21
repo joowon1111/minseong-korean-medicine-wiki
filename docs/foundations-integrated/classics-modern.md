@@ -1,8 +1,9 @@
----
+﻿---
 title: 고전→현대 연결
 tags: [한의학기초, 통합허브, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 고전→현대 연결 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 고전 → 현대 연결
 
@@ -25,3 +26,11 @@ last_reviewed: 2026-08-20
 - 현대 연구는 연구설계와 대상군을 함께 기록
 
 → [연구·근거 임상 해석](../evidence-clinical/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

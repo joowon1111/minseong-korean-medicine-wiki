@@ -1,4 +1,4 @@
----
+﻿---
 title: 침구 치료 원리
 description: 경락·장부·기혈을 바탕으로 한 침구 치료의 기본 원리를 정리합니다.
 tags: [침구학, 치료원리]
@@ -27,3 +27,11 @@ last_reviewed: 2026-08-19
 
 ## 현대 연구
 현대 침 연구는 신경계·근막·통증조절·자율신경·면역·뇌영상 등 다양한 영역으로 확장되고 있다. 전통적인 경락·경혈 개념과 현대 생리학을 연결하려는 연구가 꾸준히 이어지고 있다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

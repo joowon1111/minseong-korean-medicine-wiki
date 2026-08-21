@@ -1,8 +1,9 @@
----
+﻿---
 title: 한의학 임상 추론
 tags: [한의학기초, 통합허브, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 한의학 임상 추론 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 임상 추론
 
@@ -24,3 +25,11 @@ last_reviewed: 2026-08-20
 
 → [증상·질환 한눈에 보기](../symptom-integrated/index.md)  
 → [사상의학 한눈에 보기](../sasang-integrated/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

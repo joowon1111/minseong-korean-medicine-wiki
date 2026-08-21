@@ -1,4 +1,4 @@
----
+﻿---
 title: 폐·대장 병증
 description: 폐·대장 병증을 한의학 장부변증의 병리·증후·치법 구조로 정리합니다.
 tags: [장부변증, 간, 심, 비, 폐, 신, 변증]
@@ -28,4 +28,11 @@ last_reviewed: 2026-08-20
             ↓
          치법·처방
 ```
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 

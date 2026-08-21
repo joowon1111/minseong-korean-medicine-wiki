@@ -1,4 +1,4 @@
----
+﻿---
 title: 백회(百會) GV20
 description: 백회(百會) GV20의 WHO 표준 위치, 전통적 효능, 주요 임상 활용과 관련 지식망을 정리합니다.
 tags: [침구학, 경혈, 백회]
@@ -31,3 +31,11 @@ last_reviewed: 2026-08-19
 
 ## 참고
 - World Health Organization. *WHO Standard Acupuncture Point Locations in the Western Pacific Region.* 2008.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../../acupuncture-integrated/safety.md)
+

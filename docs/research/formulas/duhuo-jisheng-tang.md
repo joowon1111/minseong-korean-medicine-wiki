@@ -1,4 +1,4 @@
----
+﻿---
 title: 독활기생탕 임상근거
 description: 독활기생탕의 무릎골관절염·요추질환·류마티스·골다공증 영역 meta-analysis를 정리합니다.
 tags: [독활기생탕, 임상근거, 근골격계]
@@ -31,3 +31,11 @@ bisphosphonate 치료에 독활기생탕을 병용한 골다공증 연구와 강
 4. Huang CY, et al. Duhuo Jisheng Decoction add-on bisphosphonate medications in osteoporosis. **PMID 34637967**.
 
 → [요통 임상 지식망](../../network/low-back-pain-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../../evidence-integrated/find-research.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

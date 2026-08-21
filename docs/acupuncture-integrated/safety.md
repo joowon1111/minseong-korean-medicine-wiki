@@ -1,8 +1,9 @@
----
+﻿---
 title: 침구치료 안전·위험신호
 tags: [침구, 침, 전침, 뜸, 부항, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 침구치료 안전·위험신호 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 안전·위험신호
 
@@ -26,3 +27,10 @@ last_reviewed: 2026-08-20
 → [안전·금기·위험신호 상세](../acupuncture-clinical/safety-redflags.md)
 
 침구치료가 필요한 검사나 다른 치료를 지연시키는 이유가 되어서는 안 됩니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](index.md)
+- [증상으로 침구치료 찾기](by-symptom.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 산수유(山茱萸)
 description: 산수유의 보간신·수렴 전통과 iridoid glycosides를 중심으로 한 현대 연구, 공진단에서의 역할을 정리합니다.
 tags: [본초학, 산수유, 보익약, 공진단]
@@ -36,3 +36,11 @@ loganin, morroniside를 비롯한 **iridoid glycosides**, triterpenoids, flavono
 1. Deng W, et al. *A comprehensive review of Cornus officinalis.* 2024. PMID **38274211**.
 2. Gao X, et al. *Active Components and Pharmacological Effects of Cornus officinalis.* 2021. PMID **33912050**.
 3. Cui C, et al. *Cornus officinalis Sieb.: An updated review on the traditional uses, phytochemistry and pharmacology.* 2025. PMID **40784528**.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

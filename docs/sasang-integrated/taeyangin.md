@@ -1,8 +1,9 @@
----
+﻿---
 title: 태양인 통합 허브
 tags: [사상의학, 통합허브, 임상탐색]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 태양인 통합 허브 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 태양인
 
@@ -18,3 +19,11 @@ last_reviewed: 2026-08-20
 
 → [해역 vs 열격](../sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md)  
 → [태양인 중증도](../sasang-severity/taeyangin.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

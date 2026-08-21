@@ -1,8 +1,9 @@
----
+﻿---
 title: 소음인 중증도·위험신호
 tags: [사상의학, 중증도, 위험신호, 체질병증]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 소음인 중증도·위험신호 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 소음인 중증도·위험신호
 소음인 CPG는 병증을 4단계로 분류하고, 역증의 소증으로 **성정편급, 과도한 발한, 설사, 심번** 등을 특히 강조합니다.
@@ -30,3 +31,11 @@ last_reviewed: 2026-08-20
 - 평소 음식선화가 크게 무너짐
 
 → [태음병 vs 소음병](../sasang-pattern-differential/soeumin-taeeum-vs-soeum.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 육군자탕 임상근거
 description: 육군자탕(Rikkunshito)의 기능성 소화불량과 상부위장관 증상에 대한 RCT·meta-analysis를 정리합니다.
 tags: [육군자탕, 임상근거, 기능성소화불량]
@@ -23,3 +23,11 @@ last_reviewed: 2026-08-19
 2. Hoshino N, et al. *Rikkunshito for upper gastrointestinal symptoms: a systematic review and meta-analysis.* **PMID 30670250**.
 
 → [소화불량 임상 지식망](../../network/dyspepsia-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../../evidence-integrated/find-research.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

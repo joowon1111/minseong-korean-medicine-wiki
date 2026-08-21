@@ -1,8 +1,9 @@
----
+﻿---
 title: 사상체질 대표처방 찾기
 tags: [사상의학, 대표처방, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 사상체질 대표처방 찾기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 대표처방 찾기
 
@@ -37,3 +38,4 @@ last_reviewed: 2026-08-20
 → [배합 원리·공통본초](../sasang-formula-combination-network/index.md)  
 → [구성비·용량 지문](../sasang-formula-dose-fingerprint/index.md)  
 → [본초→사상처방 역색인](../herbs/sasang-formula-reverse-index.md)
+

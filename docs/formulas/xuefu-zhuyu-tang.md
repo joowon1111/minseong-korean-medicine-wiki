@@ -1,8 +1,9 @@
----
+﻿---
 title: 혈부축어탕(血府逐瘀湯)
 tags: [방제학, 일반방제, 활혈화어, 의림개착]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 혈부축어탕(血府逐瘀湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 혈부축어탕(血府逐瘀湯)
 
@@ -39,3 +40,11 @@ last_reviewed: 2026-08-20
 
 ## 출전
 한국전통지식포탈 혈부축어탕B, P0020404.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

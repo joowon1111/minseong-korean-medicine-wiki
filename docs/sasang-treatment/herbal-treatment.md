@@ -1,4 +1,4 @@
----
+﻿---
 title: 체질한약치료
 description: 체질한약치료을 사상체질병증의 치료·예방·관리 구조와 연결해 정리합니다.
 tags: [사상의학, 사상체질, 치료, 예방, 생활관리]
@@ -27,4 +27,11 @@ last_reviewed: 2026-08-19
 → [체질→병증→처방 탐색](../sasang-formulas/decision-map.md)
 
 핵심은 `체질명 하나 → 처방 하나`가 아니라 **체질병증을 먼저 구분한 뒤 치료 원칙과 처방을 연결하는 구조**다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

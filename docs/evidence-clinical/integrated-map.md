@@ -43,3 +43,10 @@ RCT
 
 각 근거의 성격과 한계를 구분하고, 환자의 상태와 치료목표에 맞춰 해석합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

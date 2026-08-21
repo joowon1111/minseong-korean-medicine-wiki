@@ -1,8 +1,9 @@
----
+﻿---
 title: 침 vs 전침 vs 뜸 vs 부항
 tags: [침구, 침, 전침, 뜸, 부항, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 침 vs 전침 vs 뜸 vs 부항 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 침 vs 전침 vs 뜸 vs 부항
 | 치료 | 주요 특징 | 임상에서 보는 포인트 |
@@ -16,3 +17,11 @@ last_reviewed: 2026-08-20
 침은 수기 또는 전기자극을 사용할 수 있으며, 현대 연구에서 통증과 일부 기능 결과에 대해 연구되어 왔습니다.
 
 치료수단을 경쟁시키기보다 **현재 목표에 따라 단독 또는 복합적으로 구성**합니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

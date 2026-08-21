@@ -1,4 +1,4 @@
----
+﻿---
 title: 태음·소음·궐음
 description: 태음·소음·궐음을 상한론의 육경병증·치법·처방·임상추론 구조로 정리합니다.
 tags: [상한론, 육경변증, 고전방제, 임상추론]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-20
 ```
 
 → [상한론 임상 추론](clinical-reasoning.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

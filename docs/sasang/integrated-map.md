@@ -1,8 +1,9 @@
----
+﻿---
 title: 사상의학 통합 지식 지도
 tags: [사상의학, 사상체질, 이제마, 동의수세보원]
 status: 검토완료
 last_reviewed: 2026-08-19
+description: 사상의학 통합 지식 지도 — 사상체질의 소증·병증·표리·순역·처방·경과평가를 연결하는 사상의학 문서입니다.
 ---
 # 사상의학 통합 지식 지도
 
@@ -26,3 +27,11 @@ last_reviewed: 2026-08-19
 
 → [체질→병증·처방](pattern-formula-map.md)  
 → [동의수세보원](donguisusebowon.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [사상의학 개요](index.md)
+- [사상체질 기본 구조](four-constitutions.md)
+- [사상 병증·처방 지도](pattern-formula-map.md)
+

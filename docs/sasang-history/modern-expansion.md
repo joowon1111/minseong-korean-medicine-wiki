@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상의학 연구·교육의 현대적 확장
 description: 사상의학 연구·교육의 현대적 확장을 사상의학의 역사·인물·고전·현대 확장과 연결해 정리합니다.
 tags: [사상의학, 이제마, 동의수세보원, 한의학역사]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-19
 
 → [사상체질 임상표준·진단 지식망](../sasang-guideline/index.md)
 → [사상의학 현대 연구 지식망](../sasang-research/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

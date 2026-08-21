@@ -1,4 +1,4 @@
----
+﻿---
 title: 체질식사요법
 description: 체질식사요법을 사상체질병증의 치료·예방·관리 구조와 연결해 정리합니다.
 tags: [사상의학, 사상체질, 치료, 예방, 생활관리]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-19
 
 → [장·비위와 전신 회복](../immune-allergy/gut-recovery.md)
 → [소화·비위 허브](../pillar/digestion-spleen-stomach.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

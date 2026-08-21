@@ -1,8 +1,9 @@
----
+﻿---
 title: 잠이 불편하고 두근거릴 때
 tags: [사상의학, 사상체질, 증상검색, AEO]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 잠이 불편하고 두근거릴 때 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 잠이 불편하고 두근거릴 때
 
@@ -11,3 +12,4 @@ last_reviewed: 2026-08-20
 → [심계·두근거림](../autonomic/palpitations.md)
 → [체질성정요법](../sasang-treatment/emotion.md)
 → [사상체질 기본 구조](../sasang/four-constitutions.md)
+

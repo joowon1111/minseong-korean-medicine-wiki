@@ -1,4 +1,4 @@
----
+﻿---
 title: 맥문동(麥門冬)
 description: 맥문동의 전통적 가치, 동의보감 연결, 현대 약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 맥문동]
@@ -28,3 +28,11 @@ steroidal saponins, homoisoflavonoids, polysaccharides 등이 연구되며 호�
 
 ## 주요 연구 식별자
 PMID 26826325 DOI 10.1016/j.jep.2016.01.037
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 팔강에서 치법으로
 description: 팔강에서 치법으로을 한의학 팔강변증의 병위·병성·허실·치법 구조로 정리합니다.
 tags: [팔강변증, 표리, 한열, 허실, 음양, 변증]
@@ -23,4 +23,11 @@ last_reviewed: 2026-08-20
 실제 치법은 장부·기혈·담음·어혈 등 보다 구체적인 변증과 함께 결정한다.
 
 → [방제 구조로 찾기](../formula-architecture/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 

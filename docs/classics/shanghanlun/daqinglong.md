@@ -1,4 +1,4 @@
----
+﻿---
 title: 상한론 대청룡탕 조문
 description: 태양중풍의 무한·번조와 대청룡탕 주치 조문을 정리합니다.
 tags: [상한론, 태양병, 대청룡탕, 조문]
@@ -31,3 +31,11 @@ last_reviewed: 2026-08-19
 
 ## 원문 출처
 《상한론》 전승문, 위키문헌의 《의종금감》 및 관련 고전 판본 대조.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../../classics-network/reading-path.md)
+- [주요 고전 비교](../../classics-network/comparison.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

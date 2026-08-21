@@ -1,4 +1,4 @@
----
+﻿---
 title: 상통·중통·하통
 description: 상통·중통·하통을 방약합편의 본초·처방·임상 탐색 구조로 정리합니다.
 tags: [방약합편, 손익본초, 약성가, 의방활투]
@@ -16,4 +16,11 @@ last_reviewed: 2026-08-20
 | 하통 | 공(攻) | 실한 병사·적체 등을 다루는 처방 |
 
 이 구조는 수많은 처방을 단순 목록이 아니라 **치법의 큰 방향**으로 빠르게 찾아가도록 돕는다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

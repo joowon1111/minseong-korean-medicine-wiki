@@ -27,3 +27,10 @@ last_reviewed: '2026-08-19'
 
 가능한 경우 PMID·DOI 등 식별자를 통해 원문으로 추적합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../evidence-integrated/find-research.md)
+- [근거와 출처](../ai/evidence-map.md)
+

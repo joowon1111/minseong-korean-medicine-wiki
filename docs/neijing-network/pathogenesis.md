@@ -1,4 +1,4 @@
----
+﻿---
 title: 병인·병기
 description: 병인·병기을 황제내경의 핵심 이론과 현대 한의학 지식망으로 연결해 정리합니다.
 tags: [황제내경, 한의학기초, 음양, 장부, 기혈진액, 경락]
@@ -22,4 +22,11 @@ last_reviewed: 2026-08-20
 병기란 질병이 어떤 방식으로 발생하고 변화하는지 설명하는 구조다.
 
 → [변증→치법 지식망](../pattern-treatment/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

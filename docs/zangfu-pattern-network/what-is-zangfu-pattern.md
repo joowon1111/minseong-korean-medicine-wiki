@@ -1,4 +1,4 @@
----
+﻿---
 title: 장부변증이란?
 description: 장부변증이란?을 한의학 장부변증의 병리·증후·치법 구조로 정리합니다.
 tags: [장부변증, 간, 심, 비, 폐, 신, 변증]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-20
 팔강변증이 전체적인 방향을 잡는 기본 좌표라면, 장부변증은 **어느 기능체계가 중심인지**를 더 구체적으로 본다.
 
 → [팔강변증 핵심 지식망](../eight-principles-network/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 

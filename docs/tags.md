@@ -1,4 +1,4 @@
----
+﻿---
 title: 태그 지식 색인
 description: 본초·방제·질환·침구·고전·현대연구 등 민성 한의학 아카이브의 관련 문서를 태그별로 횡단 탐색합니다.
 tags: [태그, 지식색인, 검색]
@@ -36,3 +36,11 @@ search:
 
 → [통합 한의학 지식 그래프](network/integrated-knowledge-graph.md)  
 → [핵심 주제 허브](pillar/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](guide/index.md)
+- [증상·질환](conditions/index.md)
+- [AI 검색 구조](ai-index.md)
+

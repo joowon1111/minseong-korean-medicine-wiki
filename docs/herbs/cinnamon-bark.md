@@ -1,4 +1,4 @@
----
+﻿---
 title: 육계(肉桂)
 description: 육계의 온보신양·온경통맥 전통과 Cinnamomum cassia의 현대 약리 연구, 십전대보탕에서의 역할을 정리합니다.
 tags: [본초학, 육계, 온리약, 십전대보탕]
@@ -33,3 +33,11 @@ cinnamaldehyde, cinnamic acid 및 다양한 volatile oils·polyphenols 등이 �
 ## 참고문헌
 1. Liu S, et al. *A review: the botany, ethnopharmacology, phytochemistry, pharmacology, toxicology and quality control of Cinnamomum cassia.* PMID **35480649**.
 2. Maierean SM, et al. *The effects of cinnamon supplementation on blood lipid concentrations: a systematic review and meta-analysis.* 2017. PMID **28887086**.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

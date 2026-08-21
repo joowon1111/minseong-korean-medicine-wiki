@@ -1,8 +1,9 @@
----
+﻿---
 title: 오약순기산(烏藥順氣散)
 tags: [방제학, 일반방제, 순기, 풍질, 방약합편]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 오약순기산(烏藥順氣散) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 오약순기산(烏藥順氣散)
 
@@ -36,3 +37,11 @@ last_reviewed: 2026-08-20
 - 분심기음: 칠정기울·흉복비체
 - 오약순기산: 풍사 + 기체 + 지체통·마목의 방향
 - 오적산: 한습·기혈담식이 더 복합적
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

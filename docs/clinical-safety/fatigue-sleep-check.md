@@ -1,4 +1,4 @@
----
+﻿---
 title: 불면·피로에서 먼저 확인할 것
 description: 지속되는 피로와 불면에서 생활요인·약물·수면질환·전신질환 가능성을 먼저 살펴보는 안전 원칙을 정리합니다.
 tags: [진료안전, 감별, 임상]
@@ -21,3 +21,11 @@ last_reviewed: 2026-08-19
 
 → [피로 임상 추론](../clinical-reasoning/fatigue.md)
 → [불면 임상 추론](../clinical-reasoning/insomnia.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

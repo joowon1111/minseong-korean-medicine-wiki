@@ -1,8 +1,9 @@
----
+﻿---
 title: 치료 강도·빈도·경과
 tags: [침구, 침, 전침, 뜸, 부항, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 치료 강도·빈도·경과 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 치료 강도·빈도·경과
 침구치료의 '용량'은 약물처럼 한 숫자로만 표현되지 않습니다.
@@ -30,3 +31,11 @@ last_reviewed: 2026-08-20
 ```
 
 만성통증에서는 단기 통증점수뿐 아니라 **걷기·수면·업무·운동 등 실제 기능**을 함께 추적하는 것이 중요합니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

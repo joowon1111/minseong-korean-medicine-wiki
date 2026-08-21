@@ -1,4 +1,4 @@
----
+﻿---
 title: 장부 상호관계
 description: 장부 상호관계을 한의학 장부변증의 병리·증후·치법 구조로 정리합니다.
 tags: [장부변증, 간, 심, 비, 폐, 신, 변증]
@@ -21,4 +21,11 @@ last_reviewed: 2026-08-20
 예를 들어 한 장부의 기능 저하가 다른 장부 병증으로 이어지거나, 두 장부의 병증이 동시에 나타나는 **겸증**으로 표현될 수 있다.
 
 장부 상호관계를 보면 복합 증상을 하나의 병리 흐름으로 이해하기 쉬워진다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 

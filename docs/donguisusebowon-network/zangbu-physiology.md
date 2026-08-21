@@ -1,4 +1,4 @@
----
+﻿---
 title: 장부론과 체질 생리
 description: 장부론과 체질 생리을 동의수세보원의 체질·병증·치법·생활관리 지식망으로 정리합니다.
 tags: [동의수세보원, 사상의학, 이제마, 사상체질]
@@ -24,4 +24,11 @@ last_reviewed: 2026-08-20
 이 장부론은 기존 한의학의 장부 개념을 그대로 반복하기보다 **사상체질이라는 새로운 축으로 재구성**한다는 점이 특징이다.
 
 → [사상체질 임상표준·진단](../sasang-guideline/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [사상의학 개요](../sasang/index.md)
+- [사상체질 기본 구조](../sasang/four-constitutions.md)
+- [사상 병증·처방 지도](../sasang/pattern-formula-map.md)
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의보감 외형편
 description: 동의보감 외형편을 동의보감의 편제·임상·본초·방제·침구 지식망으로 정리합니다.
 tags: [동의보감, 한의학고전, 본초, 방제, 침구, 양생]
@@ -21,4 +21,11 @@ last_reviewed: 2026-08-20
 오늘날의 증상·질환형 탐색과 연결하기 좋은 구조로, 부위별 증상에서 본초·방제·침구로 이어지는 지식망의 기반이 된다.
 
 → [증상·질환](../portal/conditions.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

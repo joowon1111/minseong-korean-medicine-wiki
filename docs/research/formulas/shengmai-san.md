@@ -1,4 +1,4 @@
----
+﻿---
 title: 생맥산 임상근거
 description: 생맥산의 바이러스성 심근염과 심혈관 영역에 대한 RCT systematic review·meta-analysis를 정리합니다.
 tags: [생맥산, 임상근거, 심혈관]
@@ -23,3 +23,11 @@ last_reviewed: 2026-08-19
 2. Wang Y, et al. Shengmai-based therapy for chronic heart failure. **PMID 32655670**, DOI **10.1155/2020/9571627**.
 
 → [생맥산 구성 본초](../../network/shengmai-composition.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../../evidence-integrated/find-research.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

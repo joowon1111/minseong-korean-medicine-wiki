@@ -1,4 +1,4 @@
----
+﻿---
 title: 동의보감의 두충(杜仲)
 description: 동의보감 탕액편의 두충과 현대 본초 연구를 연결합니다.
 tags: [동의보감, 탕액편, 두충]
@@ -26,3 +26,11 @@ lignans, iridoids, phenolics 등 다양한 성분을 바탕으로 골대사, 심
 
 ## 편집 원칙
 구체적인 원문 문구와 판본 위치는 1613년 판본 및 신뢰할 수 있는 고전 데이터베이스에서 확인한 뒤 단계적으로 추가한다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../../../classics-network/reading-path.md)
+- [주요 고전 비교](../../../classics-network/comparison.md)
+- [근거와 출처](../../../ai/evidence-map.md)
+

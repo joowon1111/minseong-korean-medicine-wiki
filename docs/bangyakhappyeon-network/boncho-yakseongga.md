@@ -1,4 +1,4 @@
----
+﻿---
 title: 손익본초와 약성가
 description: 손익본초와 약성가을 방약합편의 본초·처방·임상 탐색 구조로 정리합니다.
 tags: [방약합편, 손익본초, 약성가, 의방활투]
@@ -20,4 +20,11 @@ last_reviewed: 2026-08-20
 ```
 
 본초와 방제를 따로 외우기보다 **약물의 성질 → 배합 → 처방의 치료 방향**으로 연결해 볼 수 있다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

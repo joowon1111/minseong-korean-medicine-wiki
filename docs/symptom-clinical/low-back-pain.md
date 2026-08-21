@@ -1,8 +1,9 @@
----
+﻿---
 title: 요통
 tags: [증상, 질환, 임상감별, 한의학]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 요통 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 요통
 ## 먼저 구분
@@ -18,3 +19,11 @@ last_reviewed: 2026-08-20
 통증점수뿐 아니라 걷기·앉기·수면·업무·운동 기능을 함께 기록합니다.
 
 → [침구 임상 심화](../acupuncture-clinical/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

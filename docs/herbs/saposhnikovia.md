@@ -1,8 +1,9 @@
----
+﻿---
 title: 방풍(防風)
 tags: [본초, 사상처방, 약재, 지식그래프]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 방풍(防風) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 방풍(防風)
 
@@ -27,3 +28,11 @@ last_reviewed: 2026-08-20
 한국전통지식포탈 방풍 약재·처방 데이터와 전통 본초학 자료.
 
 > 이 문서는 전통 처방·본초 지식을 정리한 자료이며 자가복용 또는 개별 약재의 단독 복용 지침이 아닙니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

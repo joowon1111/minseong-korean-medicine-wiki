@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상의학 질문 통합 지도
 description: 사상의학 질문 통합 지도에 대한 사상의학적 핵심 답변과 관련 지식망을 정리합니다.
 tags: [사상의학, 사상체질, AEO, 질문형검색]
@@ -27,4 +27,11 @@ last_reviewed: 2026-08-19
 
 → [사상의학 지식망](../sasang/index.md)
 → [사상의학 현대 연구 지식망](../sasang-research/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

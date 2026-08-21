@@ -1,4 +1,4 @@
----
+﻿---
 title: 경혈 문서 작성 원칙
 description: 경혈 문서의 위치·전통적 효능·현대 연구·안전성 표준 작성 형식을 정리합니다.
 tags: [침구, 운영, 경혈]
@@ -32,3 +32,11 @@ last_reviewed: 2026-08-19
 
 → [주요 경혈](key-acupoints.md)  
 → [침구 임상 지식망](../network/acupuncture-clinical-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

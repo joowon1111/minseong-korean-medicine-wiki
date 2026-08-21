@@ -1,4 +1,4 @@
----
+﻿---
 title: 민성 한의학 아카이브
 description: 본초·방제·침구·질환·사상의학·고전·현대 임상근거를 연결한 한의학 지식 아카이브입니다.
 hide:
@@ -34,3 +34,11 @@ hide:
 
 어떤 분야인지 잘 모르겠다면 **상단 검색창에 궁금한 증상이나 처방 이름을 그대로 입력**하세요.  
 전문용어를 몰라도 [증상·질환](portal/conditions/) 또는 [사상의학 증상으로 찾기](sasang-symptoms/)에서 시작할 수 있습니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](guide/index.md)
+- [증상·질환](conditions/index.md)
+- [AI 검색 구조](ai-index.md)
+

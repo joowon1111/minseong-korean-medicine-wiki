@@ -1,8 +1,9 @@
----
+﻿---
 title: 반하백출천마탕(半夏白朮天麻湯)
 tags: [방제학, 현훈, 담궐두통, 방약합편]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 반하백출천마탕(半夏白朮天麻湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 반하백출천마탕(半夏白朮天麻湯)
 
@@ -39,3 +40,11 @@ last_reviewed: 2026-08-20
 ## 출전·근거
 한국전통지식포탈, 반하백출천마탕B, P0004138  
 https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0004138&tempLang=ko
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

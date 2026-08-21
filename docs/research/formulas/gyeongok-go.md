@@ -1,4 +1,4 @@
----
+﻿---
 title: 경옥고 임상근거
 description: 경옥고의 피로·운동능력·건강 관련 무작위시험과 체계적 고찰을 정리합니다.
 tags: [경옥고, 임상근거, 보익]
@@ -23,3 +23,11 @@ last_reviewed: 2026-08-19
 2. Sunwoo YY, et al. *Hematologic and Serological Investigation of Effect on Gyeongokgo in Healthy Individuals: a Randomized, Subject-assessor-blind, Placebo-controlled, Single-center Pilot Study.* 2019. DOI **10.15188/kjopp.2019.08.33.4.239**.
 
 → [경옥고 지식망](../../network/gyeongok-go-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../../evidence-integrated/find-research.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

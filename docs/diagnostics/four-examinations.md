@@ -1,4 +1,4 @@
----
+﻿---
 title: 사진(四診)
 description: 망진·문진(聞診)·문진(問診)·절진으로 정보를 종합하는 한의학의 전통적 진찰 체계를 정리합니다.
 tags: [진단, 사진, 망문문절]
@@ -59,3 +59,11 @@ last_reviewed: 2026-08-19
 
 → [팔강변증](eight-principles.md)  
 → [장부변증](zangfu-patterns.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 음양과 인체
 description: 음양과 인체을 황제내경의 핵심 이론과 현대 한의학 지식망으로 연결해 정리합니다.
 tags: [황제내경, 한의학기초, 음양, 장부, 기혈진액, 경락]
@@ -24,4 +24,11 @@ last_reviewed: 2026-08-20
 음양은 고정된 두 물질이라기보다 서로 대립하면서도 의존하고 변화하는 관계를 설명하는 틀로 이해할 수 있다.
 
 → [한의학 기초](../portal/basics.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

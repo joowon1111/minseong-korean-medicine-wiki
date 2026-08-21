@@ -1,4 +1,4 @@
----
+﻿---
 title: 공진단 임상근거
 description: 공진단의 만성피로·급성피로 관련 사람 대상 무작위 임상시험을 정리합니다.
 tags: [공진단, 임상근거, 피로]
@@ -25,3 +25,11 @@ last_reviewed: 2026-08-19
 2. Son MJ, et al. Gongjin-dan and acute fatigue caused by short-term sleep deprivation. **PMID 29867485**.
 
 → [공진단 지식망](../../network/gongjin-dan-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../../evidence-integrated/find-research.md)
+- [근거와 출처](../../ai/evidence-map.md)
+

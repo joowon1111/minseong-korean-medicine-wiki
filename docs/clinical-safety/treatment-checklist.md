@@ -1,4 +1,4 @@
----
+﻿---
 title: 한약·침구 치료 전 확인사항
 description: 한약·침·약침·부항·뜸 치료 전에 복용약·알레르기·임신 가능성·출혈 위험 등 기본적으로 확인할 사항을 정리합니다.
 tags: [진료안전, 감별, 임상]
@@ -28,3 +28,11 @@ last_reviewed: 2026-08-19
 
 → [침구·한의치료 허브](../pillar/acupuncture-treatment.md)
 → [현대 임상근거 허브](../pillar/clinical-evidence.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

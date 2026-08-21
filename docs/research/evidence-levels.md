@@ -1,4 +1,4 @@
----
+﻿---
 title: 근거 수준과 연구 읽기
 description: RCT·체계적 문헌고찰·메타분석·기전연구의 역할과 한의학 임상근거를 해석하는 기본 원칙을 정리합니다.
 tags: [현대연구, 근거수준, RCT, 메타분석]
@@ -40,3 +40,11 @@ ClinicalTrials.gov를 분석한 연구에서는 전통의학 관련 등록 임�
 
 → [연구 유형별 보기](by-study-type.md)  
 → [참고문헌 데이터베이스](references/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../evidence-integrated/find-research.md)
+- [근거와 출처](../ai/evidence-map.md)
+

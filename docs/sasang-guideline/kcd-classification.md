@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상체질병증의 표준 분류
 description: 사상체질병증의 표준 분류을 사상체질 진단·병증·현대 임상표준과 연결해 정리합니다.
 tags: [사상의학, 사상체질, 임상표준, NCKM]
@@ -29,4 +29,11 @@ last_reviewed: 2026-08-19
 ```
 
 → [사상체질 기본 구조](../sasang/four-constitutions.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

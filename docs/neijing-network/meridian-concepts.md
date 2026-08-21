@@ -1,4 +1,4 @@
----
+﻿---
 title: 경락과 경맥
 description: 경락과 경맥을 황제내경의 핵심 이론과 현대 한의학 지식망으로 연결해 정리합니다.
 tags: [황제내경, 한의학기초, 음양, 장부, 기혈진액, 경락]
@@ -23,4 +23,11 @@ last_reviewed: 2026-08-20
 
 → [경락·경맥 지식망](../meridian-network/index.md)
 → [경혈 임상 지식망](../acupoint-network/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

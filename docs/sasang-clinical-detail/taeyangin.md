@@ -1,4 +1,4 @@
----
+﻿---
 title: 태양인 - 몸이 나빠질 때 증상 변화와 치료
 description: 태양인의 외감요척병·내촉소장병, 해역·열격 증후와 대표 처방을 정리합니다.
 tags: [태양인, 해역증, 열격증, 오가피장척탕, 미후등식장탕]
@@ -66,3 +66,11 @@ NCKM 지침의 전체 사상체질 치료 틀과 마찬가지로 체질한약 �
 - 체력과 일상 기능 회복
 
 → [네 체질 비교표](four-constitution-comparison.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

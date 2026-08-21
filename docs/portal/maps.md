@@ -25,3 +25,10 @@ hide:
 
 환자 생활언어, 증상·질환, 병증, 방제, 본초, 경혈·침구, 고전, 현대 연구를 여러 통합지도를 통해 오갈 수 있습니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

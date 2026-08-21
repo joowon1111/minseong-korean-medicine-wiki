@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상의학 역사 통합 지도
 description: 사상의학 역사 통합 지도을 사상의학의 역사·인물·고전·현대 확장과 연결해 정리합니다.
 tags: [사상의학, 이제마, 동의수세보원, 한의학역사]
@@ -29,4 +29,11 @@ last_reviewed: 2026-08-19
 
 → [사상의학 지식망](../sasang/index.md)
 → [사상의학 현대 연구 통합 지도](../sasang-research/integrated-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

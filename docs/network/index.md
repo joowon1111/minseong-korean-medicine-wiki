@@ -1,4 +1,4 @@
----
+﻿---
 title: 한의학 지식망
 description: 본초·방제·변증·고전·임상 지식을 서로 연결해 탐색하는 한의학 지식 네트워크입니다.
 hide:
@@ -60,3 +60,11 @@ last_reviewed: 2026-08-19
 <a href="pinellia-formulas/">반하를 쓰는 처방</a>
 <a href="formula-family-map/">처방군 지도</a>
 </div>
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

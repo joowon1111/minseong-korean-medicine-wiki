@@ -1,4 +1,4 @@
----
+﻿---
 title: 황제내경
 description: 황제내경을 한의학 고전의 역사·이론·임상 지식망 안에서 정리합니다.
 tags: [한의학고전, 황제내경, 상한론, 금궤요략, 동의보감, 동의수세보원]
@@ -22,4 +22,11 @@ last_reviewed: 2026-08-20
 현대 한의학 교육에서도 여러 기초과목이 이 고전의 개념과 연결된다.
 
 → [고전 5종 비교](comparison.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](reading-path.md)
+- [주요 고전 비교](comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

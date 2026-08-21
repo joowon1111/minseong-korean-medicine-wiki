@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상체질별 생활관리 구조
 description: 사상체질별 생활관리 구조을 사상체질 진단·병증·현대 임상표준과 연결해 정리합니다.
 tags: [사상의학, 사상체질, 임상표준, NCKM]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-19
 체질별 생활관리는 개인의 현재 질환과 신체 상태를 함께 고려해 적용하는 것이 중요하다.
 
 → [사상체질병증 표준 분류](kcd-classification.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

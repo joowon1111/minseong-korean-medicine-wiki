@@ -1,4 +1,4 @@
----
+﻿---
 title: 위분·기분
 description: 위분·기분을 온병학의 위기영혈·삼초변증·치법·처방 지식망으로 정리합니다.
 tags: [온병학, 위기영혈, 삼초변증, 온병조변, 온열론]
@@ -32,4 +32,11 @@ last_reviewed: 2026-08-20
 ```
 
 → [대표 처방 구조](formula-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
 

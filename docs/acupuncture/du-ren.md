@@ -1,4 +1,4 @@
----
+﻿---
 title: 독맥·임맥
 description: 기경팔맥 가운데 독맥과 임맥의 기본 의미와 임상적 역할을 정리합니다.
 tags: [경락, 독맥, 임맥, 기경팔맥]
@@ -21,3 +21,11 @@ last_reviewed: 2026-08-19
 
 ## 임상적 의미
 독맥과 임맥은 좌우로 짝을 이루는 십이경맥과 달리 몸의 정중선을 따라 주행하며 전신의 음양을 조절하는 중요한 축으로 활용된다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [침구·치료 한눈에 보기](../acupuncture-integrated/index.md)
+- [증상으로 침구치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [침구 안전·위험신호](../acupuncture-integrated/safety.md)
+

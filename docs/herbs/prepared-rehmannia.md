@@ -1,4 +1,4 @@
----
+﻿---
 title: 숙지황(熟地黃)
 description: 숙지황의 전통적 가치, 동의보감 연결, 현대 약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 숙지황]
@@ -29,3 +29,11 @@ iridoids·당류·polysaccharides 등이 연구되고 있으며, Rehmannia 연�
 
 ## 주요 연구 식별자
 PMID 18407446; PMID 36634722; PMID 41420949
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

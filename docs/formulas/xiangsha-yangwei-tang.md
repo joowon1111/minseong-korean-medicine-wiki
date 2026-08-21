@@ -1,8 +1,9 @@
----
+﻿---
 title: 향사양위탕(香砂養胃湯)
 tags: [방제학, 일반방제, 임상처방]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 향사양위탕(香砂養胃湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 향사양위탕(香砂養胃湯)
 
@@ -23,3 +24,11 @@ last_reviewed: 2026-08-20
 → [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
 
 > 전통 병증과 현대 질환명을 1:1로 동일시하지 않으며, 실제 적용은 환자 상태와 안전성을 함께 평가한다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

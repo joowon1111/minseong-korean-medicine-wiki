@@ -1,4 +1,4 @@
----
+﻿---
 title: 문서 메타데이터 점검표
 description: 새 문서를 추가할 때 title·description·tags·status·last_reviewed를 빠짐없이 확인하는 점검표입니다.
 tags: [운영, 메타데이터, 품질관리]
@@ -34,3 +34,11 @@ last_reviewed: 2026-08-19
 ```
 
 이 표준은 콘텐츠 양이 커져도 검색·AI·사람 모두가 일관되게 문서를 이해하도록 하기 위한 운영 기준이다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](guide/index.md)
+- [증상·질환](conditions/index.md)
+- [AI 검색 구조](ai-index.md)
+

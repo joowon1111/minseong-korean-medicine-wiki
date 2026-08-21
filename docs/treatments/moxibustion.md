@@ -1,4 +1,4 @@
----
+﻿---
 title: 뜸
 description: 뜸의 온열·경혈 자극 원리와 관절통·한증 관련 현대 연구를 정리합니다.
 tags: [뜸, 구법, 한의치료]
@@ -39,3 +39,11 @@ last_reviewed: 2026-08-19
 
 ## 참고문헌
 1. Choi TY, et al. *Moxibustion for the treatment of osteoarthritis: An updated systematic review and meta-analysis.* 2017. PMID **28539175**.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

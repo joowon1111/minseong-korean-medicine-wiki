@@ -1,4 +1,4 @@
----
+﻿---
 title: 반하(半夏)
 description: 반하(半夏)의 전통적 효능, 동의보감 연결, 현대 성분·약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 반하]
@@ -30,3 +30,11 @@ last_reviewed: 2026-08-19
 
 ## 연구 메모
 PMID 38058630; PMID 35988838 / DOI 10.1016/j.jep.2022.115650
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

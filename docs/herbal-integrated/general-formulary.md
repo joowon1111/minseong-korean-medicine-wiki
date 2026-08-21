@@ -1,8 +1,9 @@
----
+﻿---
 title: 일반 방제 임상 지도
 tags: [방제학, 일반방제, 임상지도, 처방감별]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 일반 방제 임상 지도
 
@@ -295,3 +296,4 @@ last_reviewed: 2026-08-20
 
 → [본초 찾기](herbs.md)  
 → [증상·치법으로 방제 찾기](by-symptom-treatment.md)
+

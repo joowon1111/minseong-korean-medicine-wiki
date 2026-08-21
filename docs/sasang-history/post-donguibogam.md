@@ -1,4 +1,4 @@
----
+﻿---
 title: 사상의학과 동의보감 이후의 흐름
 description: 사상의학과 동의보감 이후의 흐름을 사상의학의 역사·인물·고전·현대 확장과 연결해 정리합니다.
 tags: [사상의학, 이제마, 동의수세보원, 한의학역사]
@@ -25,4 +25,11 @@ last_reviewed: 2026-08-19
 
 → [동의보감](../classics/donguibogam.md)
 → [동의수세보원](../sasang/donguisusebowon.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

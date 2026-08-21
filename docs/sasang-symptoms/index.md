@@ -1,8 +1,9 @@
----
+﻿---
 title: 사상체질 증상으로 찾기
 tags: [사상의학, 사상체질, 증상검색, AEO]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 사상체질 증상으로 찾기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 사상체질 증상으로 찾기
 
@@ -16,3 +17,4 @@ last_reviewed: 2026-08-20
 - [체질과 현재 병증](constitution-vs-pattern.md)
 
 → [사상의학 지식망](../sasang/index.md)
+

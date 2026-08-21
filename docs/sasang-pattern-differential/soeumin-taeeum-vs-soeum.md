@@ -1,8 +1,9 @@
----
+﻿---
 title: 소음인 태음병 vs 소음병
 tags: [사상의학, 체질병증, 감별]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 소음인 태음병 vs 소음병 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 소음인 태음병 vs 소음병
 두 병증 모두 복통·설사가 나타날 수 있으므로 **갈증·흉부불편·전신통·수족냉과 중증도**가 중요한 감별축입니다.
@@ -31,3 +32,11 @@ last_reviewed: 2026-08-20
 소음병 자리증 → 관계부자이중탕 등
 
 → [소음인 상세](../sasang-clinical-detail/soeumin.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

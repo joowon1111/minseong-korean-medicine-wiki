@@ -1,4 +1,4 @@
----
+﻿---
 title: 한열(寒熱)
 description: 한열(寒熱)을 한의학 팔강변증의 병위·병성·허실·치법 구조로 정리합니다.
 tags: [팔강변증, 표리, 한열, 허실, 음양, 변증]
@@ -17,4 +17,11 @@ last_reviewed: 2026-08-20
 | 설담·백태 등 | 설홍·황태 등 |
 
 한두 증상만으로 한열을 단정하기보다 **전신 증후를 종합**한다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](../diagnostics/index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 

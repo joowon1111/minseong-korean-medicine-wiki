@@ -25,3 +25,10 @@ hide:
 
 환자용 설명 → 임상 심화 → 한약·침구·연구근거까지 단계적으로 연결합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

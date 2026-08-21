@@ -1,8 +1,9 @@
----
+﻿---
 title: 불면
 tags: [증상, 질환, 임상감별, 한의학]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 불면 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 불면
 ## 먼저 구분
@@ -16,3 +17,11 @@ last_reviewed: 2026-08-20
 
 ## 경과
 입면시간, 야간각성, 총수면시간, 기상 후 상태, 낮 기능, 수면제 사용을 추적합니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

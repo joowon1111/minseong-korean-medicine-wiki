@@ -1,4 +1,4 @@
----
+﻿---
 title: 천궁(川芎)
 description: 천궁의 전통적 가치, 동의보감 연결, 현대 약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 천궁]
@@ -29,3 +29,11 @@ phthalides, phenolic acids, alkaloids, 정유 성분 등을 중심으로 심뇌�
 
 ## 주요 연구 식별자
 PMID 40235541 DOI 10.3389/fphar.2025.1523176; PMID 39180449
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

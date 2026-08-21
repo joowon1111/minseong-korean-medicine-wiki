@@ -1,4 +1,4 @@
----
+﻿---
 title: 복합 한의치료 전략
 description: 침·약침·전침·부항·뜸·온열을 환자 상태에 따라 조합하는 한의치료의 구조를 정리합니다.
 tags: [한의치료, 복합치료]
@@ -45,3 +45,11 @@ last_reviewed: 2026-08-19
 을 종합하여 치료 강도와 조합을 조절한다.
 
 → [한의치료 방법 지식망](../network/treatment-methods-map.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

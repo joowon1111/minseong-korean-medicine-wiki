@@ -1,4 +1,4 @@
----
+﻿---
 title: 통증에서 먼저 확인할 신호
 description: 요통·목통증·관절통에서 한의치료 전에 우선 확인할 신경학적 이상·외상·전신 증상 등 주요 위험 신호를 정리합니다.
 tags: [진료안전, 감별, 임상]
@@ -21,3 +21,11 @@ last_reviewed: 2026-08-19
 
 → [요통 임상 추론](../clinical-reasoning/low-back-pain.md)
 → [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

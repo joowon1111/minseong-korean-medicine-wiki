@@ -1,4 +1,4 @@
----
+﻿---
 title: 비염
 description: 비염의 한의학적 변증, 치료 연결과 주요 systematic review·임상연구 근거를 정리합니다.
 tags: [질환, 비염, 현대근거]
@@ -28,3 +28,11 @@ last_reviewed: 2026-08-19
 
 ## 주요 연구 식별자
 - PMID 39017391; DOI 10.1002/alr.23414
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [증상·질환 한눈에 보기](index.md)
+- [환자 질문 검색 지도](../ai/patient-search-map.md)
+- [맞춤한약](custom-herbal-medicine.md)
+

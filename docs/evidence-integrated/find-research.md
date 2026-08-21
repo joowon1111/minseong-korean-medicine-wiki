@@ -1,8 +1,9 @@
----
+﻿---
 title: 논문·PMID·DOI 찾기
 tags: [연구, 근거, PMID, DOI, 통합허브]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 논문·PMID·DOI 찾기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 논문·PMID·DOI 찾기
 
@@ -26,3 +27,11 @@ PubMed에서 논문을 식별하는 고유번호입니다.
 → [연구·근거 한눈에 보기](index.md)
 
 숫자만 나열하기보다 **그 연구가 어떤 환자에게 어떤 치료를 얼마나 시행했는지**까지 함께 기록합니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

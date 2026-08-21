@@ -1,4 +1,4 @@
----
+﻿---
 title: 이제마(李濟馬)
 description: 이제마와 동의수세보원, 사상의학의 체질·병증·처방 체계를 정리합니다.
 tags: [의가, 이제마, 사상의학, 동의수세보원]
@@ -17,3 +17,11 @@ last_reviewed: 2026-08-19
 ## 연결
 - [동의수세보원](../classics/donguisusebowon.md)
 - [사상의학 개요](../sasang/overview.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

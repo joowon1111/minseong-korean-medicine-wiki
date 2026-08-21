@@ -1,4 +1,4 @@
----
+﻿---
 title: 소음인 건강→악화→회복
 description: 소음인 건강→악화→회복을 사상체질의 완실무병·소증·병증 진행과 회복 구조로 정리합니다.
 tags: [사상체질, 완실무병, 소증, 악화, 회복]
@@ -23,3 +23,11 @@ last_reviewed: 2026-08-20
 급한 위장 증상 감소 → 냉감 완화 → 식욕 회복 → 식후 불편 감소 → **음식선화 회복**.
 
 → [증상·치료 상세](../sasang-clinical-detail/soeumin.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

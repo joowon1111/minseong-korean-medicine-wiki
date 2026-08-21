@@ -1,4 +1,4 @@
----
+﻿---
 title: 성명론·사단론의 의미
 description: 성명론·사단론의 의미을 동의수세보원의 체질·병증·치법·생활관리 지식망으로 정리합니다.
 tags: [동의수세보원, 사상의학, 이제마, 사상체질]
@@ -22,4 +22,11 @@ last_reviewed: 2026-08-20
 이 구조는 오늘날 사상의학에서 체질의 성정 특성을 생활관리와 연결하는 근거가 된다.
 
 → [체질성정요법](../sasang-treatment/emotion.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [사상의학 개요](../sasang/index.md)
+- [사상체질 기본 구조](../sasang/four-constitutions.md)
+- [사상 병증·처방 지도](../sasang/pattern-formula-map.md)
 

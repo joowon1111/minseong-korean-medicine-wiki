@@ -1,4 +1,4 @@
----
+﻿---
 title: 면역·알레르기·회복 통합 지도
 description: 비염·피로·소화·통증을 폐·비위·기혈·담음·어혈·허손과 본초·방제·경혈로 연결하는 통합 지도를 제공합니다.
 tags: [면역, 알레르기, 회복, 한의학지식망]
@@ -25,3 +25,11 @@ last_reviewed: 2026-08-19
 
 → [자율신경·스트레스 지식망](../autonomic/index.md)
 → [통합 한의학 지식 그래프](../network/integrated-knowledge-graph.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

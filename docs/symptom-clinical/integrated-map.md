@@ -37,3 +37,10 @@ description: 환자 증상에서 감별·위험신호·기능평가·한의학�
 
 피로·소화·수면·통증·비염·어지럼·두근거림 등 여러 증상이 동시에 나타날 때도 이 흐름을 사용합니다.
 
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

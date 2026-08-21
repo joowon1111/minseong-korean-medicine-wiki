@@ -1,8 +1,9 @@
----
+﻿---
 title: 쌍화탕(雙和湯)
 tags: [방제학, 일반방제, 기혈허, 피로, 방약합편]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: 쌍화탕(雙和湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 쌍화탕(雙和湯)
 
@@ -36,3 +37,11 @@ last_reviewed: 2026-08-20
 
 ## 현대 임상근거
 만성피로 한의표준임상진료지침은 만성피로증후군 또는 특발성 만성피로의 증상개선을 위해 쌍화탕을 전문가 합의에 근거해 고려하며, 특히 기혈양허 변증 환자에서의 활용을 언급한다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

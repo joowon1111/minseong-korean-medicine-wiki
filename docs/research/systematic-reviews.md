@@ -1,4 +1,4 @@
----
+﻿---
 title: 체계적 문헌고찰·메타분석
 description: 여러 한의학 임상시험을 종합하는 systematic review와 meta-analysis의 의미와 활용을 정리합니다.
 tags: [현대연구, systematic-review, meta-analysis]
@@ -25,3 +25,11 @@ last_reviewed: 2026-08-19
 
 → [메타분석 인덱스](meta-analysis-index.md)  
 → [근거 수준과 연구 읽기](evidence-levels.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [연구·근거 임상 해석](../evidence-integrated/index.md)
+- [논문·PMID·DOI 찾기](../evidence-integrated/find-research.md)
+- [근거와 출처](../ai/evidence-map.md)
+

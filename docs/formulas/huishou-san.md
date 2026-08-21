@@ -1,8 +1,9 @@
----
+﻿---
 title: 회수산(回首散)
 tags: [방제학, 일반방제, 임상처방]
 status: 검토필요
 last_reviewed: 2026-08-20
+description: 회수산(回首散) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 회수산(回首散)
 
@@ -20,3 +21,11 @@ last_reviewed: 2026-08-20
 출전별 차이가 있을 수 있으므로 현재는 **임상 위치와 구성 골격**을 우선 정리합니다. 정확한 출전별 구성량은 원전·공식 처방 DB 확인 후 심화합니다.
 
 → [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [방제 찾기](../herbal-integrated/formulas.md)
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+

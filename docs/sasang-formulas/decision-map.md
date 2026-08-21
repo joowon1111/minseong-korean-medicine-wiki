@@ -1,4 +1,4 @@
----
+﻿---
 title: 체질 → 병증 → 처방 탐색
 description: 체질 → 병증 → 처방 탐색의 사상의학적 위치와 체질·병증·처방 지식망을 정리합니다.
 tags: [사상의학, 소양인, 체질처방, 동의수세보원]
@@ -39,4 +39,11 @@ last_reviewed: 2026-08-19
 
 → [사상의학 통합 지도](../sasang/integrated-map.md)
 → [변증→치법 지식망](../pattern-treatment/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
 

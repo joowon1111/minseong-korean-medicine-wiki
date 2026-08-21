@@ -1,4 +1,4 @@
----
+﻿---
 title: 담음(痰飮)
 description: 담음의 한의학적 병리 개념, 주요 증후와 온담탕 등 관련 처방을 정리합니다.
 tags: [진단변증, 담음, 병리]
@@ -18,3 +18,11 @@ last_reviewed: 2026-08-19
 
 ## 해석 주의
 담음은 영상검사에서 보이는 체액이나 객담 자체와 동일한 개념이 아니며, 현대 질환명과 직접 대응시키지 않는다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 기초 한눈에 보기](../foundations-integrated/index.md)
+- [진단·변증](index.md)
+- [증상·치법으로 본초·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+
