@@ -1,0 +1,1 @@
+@echo off\nchcp 65001 >nul\ncd /d "%~dp0"\npython MERGE_PATIENT_SEARCH_LANGUAGE.py\npause\n
