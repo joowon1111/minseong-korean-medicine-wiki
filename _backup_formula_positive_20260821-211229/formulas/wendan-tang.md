@@ -1,4 +1,4 @@
-﻿---
+---
 title: 온담탕(溫膽湯)
 description: 온담탕의 담위불화 병기, 구성, 불면 관련 연구와 근거 수준을 정리합니다.
 tags: [방제학, 온담탕, 화담제, 불면]
@@ -25,7 +25,7 @@ last_reviewed: 2026-08-19
 
 변증 기반 불면 치료 체계적 문헌고찰에서는 온담탕이 담열내요(internal disturbance of phlegm-heat) 계열에서 비교적 흔히 선택된 처방으로 보고되었다. 그러나 연구 전반에서 변증 과정과 방법론적 질이 충분하지 않았다.
 
-**근거 판단:** 불면에 대한 사용과 연구는 존재하지만, 표준 온담탕 자체의 효능을 확정할 수준의 고품질 임상현재 근거는 제한된 범위에서 형성되어 있으나 임상적 가능성을 시사하는 연구들이 보고되고 있다. 가감온담탕 연구를 표준 온담탕과 구분할 필요가 있다.
+**근거 판단:** 불면에 대한 사용과 연구는 존재하지만, 표준 온담탕 자체의 효능을 확정할 수준의 고품질 임상근거는 제한적이다. 가감온담탕 연구를 표준 온담탕과 구분할 필요가 있다.
 
 ## 안전성
 반하 등 법제와 원료 품질이 중요한 약재가 포함될 수 있다. 규격화된 원료, 적절한 법제·용량, 병용약물을 함께 평가한다.
@@ -39,4 +39,3 @@ last_reviewed: 2026-08-19
 1. Yan X, et al. *Wendan decoction for primary insomnia: Protocol for a systematic review and meta-analysis.* Medicine (Baltimore). 2017;96:e8906. PMID **29382025**; DOI **10.1097/MD.0000000000008906**.
 2. Yeung WF, et al. *Prescription of Chinese herbal medicine and selection of acupoints in pattern-based traditional Chinese medicine treatment for insomnia: a systematic review.* PMID **23259001**.
 3. Yeung WF, et al. *Chinese herbal medicine for insomnia: a systematic review of randomized controlled trials.* PMID **22440393**.
-
