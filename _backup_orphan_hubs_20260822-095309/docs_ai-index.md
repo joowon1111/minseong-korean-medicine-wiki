@@ -230,13 +230,3 @@ tags:
 [경옥고](formulas/gyeongok-go.md) → [인삼](herbs/ginseng.md) · [생지황](herbs/rehmannia-root-fresh.md) · [복령](herbs/poria.md) · [봉밀](herbs/honey.md) → [원료·제조 품질 심화](clinical-guides/gyeongokgo-composition-quality-guide.md)
 <!-- GYEONGOK_AI_END -->
 
-<!-- ORPHAN_HUB_LINKS_START -->
-
-## 전체 증상·질문 더 찾아보기
-
-- [증상·질환 전체 상세 색인](conditions/index.md)
-- [AI 자연어 질문 전체 가이드](answer-guides/index.md)
-
-세부 문서를 상단 메뉴에 모두 나열하지 않고 **핵심 색인 → 분야별 허브 → 세부 문서**로 연결합니다.
-
-<!-- ORPHAN_HUB_LINKS_END -->
