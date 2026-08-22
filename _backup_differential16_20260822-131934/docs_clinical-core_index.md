@@ -59,10 +59,3 @@ tags: [임상한의학, 본초, 방제, 경혈]
 → [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 <!-- PATTERN_CLINICAL_CORE_15_END -->
 
-<!-- DIFFERENTIAL_CLINICAL_CORE_16_START -->
-## 변증을 서로 비교하기
-증상별 임상 경로에서 한 단계 더 들어가 **기허·혈허, 담음·식적, 어혈·한습, 신음허·신양허** 등을 비교합니다.
-
-→ [임상 변증 감별 지도](../diagnostics/differentials/index.md)
-<!-- DIFFERENTIAL_CLINICAL_CORE_16_END -->
-

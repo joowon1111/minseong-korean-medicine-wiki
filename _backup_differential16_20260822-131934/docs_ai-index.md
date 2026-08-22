@@ -250,11 +250,3 @@ tags:
 - [기허](diagnostics/patterns/qi-deficiency.md) · [혈허](diagnostics/patterns/blood-deficiency.md) · [담음](diagnostics/patterns/phlegm-fluid.md) · [어혈](diagnostics/patterns/blood-stasis.md) · [간울](diagnostics/patterns/liver-qi-stagnation.md) · [신허](diagnostics/patterns/kidney-deficiency.md)
 <!-- PATTERN_AI_INDEX_15_END -->
 
-<!-- DIFFERENTIAL_AI_16_START -->
-## 변증 감별로 찾기
-- [기허·혈허·기혈양허](diagnostics/differentials/qi-vs-blood-vs-qi-blood.md)
-- [담음·식적](diagnostics/differentials/phlegm-vs-food-stagnation.md)
-- [어혈·한습성 통증](diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)
-- [신음허·신양허](diagnostics/differentials/kidney-yin-vs-yang.md)
-<!-- DIFFERENTIAL_AI_16_END -->
-

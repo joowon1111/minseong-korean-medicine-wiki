@@ -1,4 +1,4 @@
-﻿---
+---
 title: 임상 핵심 변증 지도
 description: 기허·혈허·기혈양허·담음·어혈·한습·간울·신허를 증상, 설·맥, 본초, 방제, 경혈과 연결합니다.
 tags: [변증, 진단, 임상한의학, 지식망]
@@ -36,9 +36,3 @@ tags: [변증, 진단, 임상한의학, 지식망]
 - [본초학](../../herbs/index.md)
 - [방제학](../../formulas/index.md)
 - [경혈·경락](../../acupuncture/index.md)
-
-<!-- DIFFERENTIAL_FROM_PATTERNS_16_START -->
-## 비슷한 변증 비교하기
-- [임상 변증 감별 지도](../differentials/index.md)
-<!-- DIFFERENTIAL_FROM_PATTERNS_16_END -->
-

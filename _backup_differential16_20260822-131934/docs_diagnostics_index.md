@@ -48,17 +48,3 @@ last_reviewed: '2026-08-19'
 → [임상 핵심 변증 지도](patterns/index.md)
 <!-- PATTERN_NETWORK_15_END -->
 
-<!-- DIFFERENTIAL_NETWORK_16_START -->
-## 임상 변증 감별
-비슷한 증상에서 **어느 변증에 더 무게를 둘지** 비교합니다.
-
-- [기허·혈허·기혈양허](differentials/qi-vs-blood-vs-qi-blood.md)
-- [담음·식적](differentials/phlegm-vs-food-stagnation.md)
-- [어혈·한습성 통증](differentials/blood-stasis-vs-cold-damp-pain.md)
-- [간울·담음성 흉민](differentials/liver-qi-vs-phlegm-chest.md)
-- [신음허·신양허](differentials/kidney-yin-vs-yang.md)
-- [기허·신허성 피로](differentials/qi-deficiency-vs-kidney-deficiency-fatigue.md)
-
-→ [임상 변증 감별 전체 보기](differentials/index.md)
-<!-- DIFFERENTIAL_NETWORK_16_END -->
-
