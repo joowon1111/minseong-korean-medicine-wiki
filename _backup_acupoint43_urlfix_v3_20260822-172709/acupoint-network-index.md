@@ -1,20 +1,9 @@
-﻿---
+---
 title: 경혈 임상 지식망
 description: 경맥별 전체 경혈, 특정혈, 상세 경혈 문서, 증상·변증·배혈을 통합해 탐색합니다.
 tags: [경혈, 특정혈, 침구, 배혈, 임상지식망]
 ---
 # 경혈 임상 지식망
-
-<!-- MS_43_URL_FIX_V3_START -->
-## WHO standard 361-acupoint atlas
-
-- [WHO standard 361-acupoint clinical atlas](standard-atlas.md)
-- [Meridian-to-symptom clinical map](by-condition.md)
-- [Special-point clinical network](../meridian-network/special-points/index.md)
-
-This atlas indexes the existing canonical point pages and does not create a duplicate point system.
-<!-- MS_43_URL_FIX_V3_END -->
-
 
 경혈은 **소속 경맥 → 위치·해부학 → 특정혈 성격 → 증상·변증 → 배혈 조합**을 함께 볼 때 임상적 의미가 분명해집니다.
 
@@ -82,4 +71,3 @@ This atlas indexes the existing canonical point pages and does not create a dupl
 - [전침](../treatments/electroacupuncture.md)
 - [침구·한의치료 허브](../pillar/acupuncture-treatment.md)
 - [현대 임상근거](../pillar/clinical-evidence.md)
-

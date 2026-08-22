@@ -1,0 +1,7 @@
+﻿COMPLETE
+Atlas: docs/acupoint-network/standard-atlas.md
+Standard acupoints: 361
+Missing point files: 0
+Meridian count problems: 0
+Expected public path: /acupoint-network/standard-atlas/
+Report: _quality_audit_43/43_URL_FIX_V3_REPORT.md
