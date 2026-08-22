@@ -1,0 +1,11 @@
+﻿ 482:         - 위중 BL40: acupuncture/points/bl40-weizhong.md
+ 483:         - 풍지 GB20: acupuncture/points/gb20-fengchi.md
+ 484:       - 침구 치료 원리: acupuncture/treatment-principles.md
+ 485:     - 경혈 임상 지식망:
+ 486:       - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
+ 487:       - acupoint-network/index.md
+ 488:       - 족삼리 ST36: acupoint-network/st36.md
+ 489:       - 내관 PC6: acupoint-network/pc6.md
+ 490:       - 신문 HT7: acupoint-network/ht7.md
+ 491:       - 삼음교 SP6: acupoint-network/sp6.md
+ 492:       - 합곡 LI4: acupoint-network/li4.md

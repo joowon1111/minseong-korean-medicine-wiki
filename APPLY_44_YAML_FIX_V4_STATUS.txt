@@ -1,0 +1,6 @@
+﻿COMPLETE
+Atlas path count: 1
+Atlas indentation: 6
+Index indentation: 6
+Backup: mkdocs_44_yaml_fix_v4_backup_20260822-182931.yml
+Snippet: MKDOCS_44_FIXED_SNIPPET.txt
