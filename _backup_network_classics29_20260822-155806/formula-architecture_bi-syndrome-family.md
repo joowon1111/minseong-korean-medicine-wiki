@@ -16,7 +16,5 @@ tags: [방제구조, 비증, 통증]
 → [어혈 vs 한습성 통증](../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)  
 → [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
-## 본초·경혈
-독활·두충·우슬·당귀·단삼 / 대장수 BL25 · 위중 BL40 · 곤륜 BL60 · 양릉천 GB34 · 태계 KI3
-
-현대 연구에서는 독활기생탕 등 일부 처방이 무릎 골관절염·요추 질환 등 근골격계 영역에서 임상 연구로 확장되어 왔습니다.
+## 경혈
+대장수 BL25 · 위중 BL40 · 곤륜 BL60 · 양릉천 GB34 · 태계 KI3

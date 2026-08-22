@@ -14,9 +14,8 @@ tags: [방제구조, 담음, 비위]
 - 반하사심탕 — 심하비·위장관 한열착잡
 - 평위산 — 습체·복만
 
-→ [화담·이기 본초](../herbs/categories/phlegm-qi.md)  
-→ [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
+→ [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)  
+→ [화담·이기 본초](../herbs/categories/phlegm-qi.md)
 
-## 임상·경혈
-더부룩함·오심·목이물감·트림·조기포만·스트레스 연동을 구분합니다.  
+## 경혈
 족삼리 ST36 · 중완 CV12 · 내관 PC6 · 공손 SP4 · 풍륭 ST40
