@@ -45,9 +45,3 @@ tags: [임상한의학, 본초, 방제, 경혈]
 각 문서는 기존 [본초학](../herbs/index.md), [방제학](../formulas/index.md), [경혈·경락](../acupuncture/index.md), [침구·한의치료 허브](../pillar/acupuncture-treatment.md)와 상호 연결됩니다.
 <!-- CLINICAL_CORE_PHASE2_END -->
 
-<!-- COMBINATION_NETWORK_14_START -->
-## 임상 조합 네트워크
-- [임상 핵심 배혈 조합 지도](../network/acupoint-combinations.md)
-- [임상 핵심 본초 배합 지도 — 약대](../network/herb-pair-combinations.md)
-- [방제·경혈 임상 조합 지도](../network/formula-acupoint-combinations.md)
-<!-- COMBINATION_NETWORK_14_END -->

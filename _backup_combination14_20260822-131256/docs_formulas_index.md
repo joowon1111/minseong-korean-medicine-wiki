@@ -80,7 +80,3 @@ last_reviewed: '2026-08-19'
 ## 임상 핵심 확장
 → [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
 
-<!-- COMBO_FORMULA_14_START -->
-## 방제와 경혈을 함께 보기
-- [방제·경혈 임상 조합 지도](../network/formula-acupoint-combinations.md)
-<!-- COMBO_FORMULA_14_END -->

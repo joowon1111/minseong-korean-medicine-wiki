@@ -39,7 +39,3 @@ last_reviewed: '2026-08-19'
 ## 임상 핵심 확장
 → [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
 
-<!-- COMBO_HERB_14_START -->
-## 본초 배합으로 더 깊게 보기
-- [임상 핵심 본초 배합 지도 — 약대](../network/herb-pair-combinations.md)
-<!-- COMBO_HERB_14_END -->
