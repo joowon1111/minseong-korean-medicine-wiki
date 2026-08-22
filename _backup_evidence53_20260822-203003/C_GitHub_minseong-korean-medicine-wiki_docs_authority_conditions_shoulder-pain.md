@@ -1,4 +1,4 @@
-﻿---
+---
 title: 어깨 충돌증후군·어깨통증 — 현대 임상근거 카드
 description: 어깨 충돌증후군에서 수기침 치료 systematic review·meta-analysis와 어깨통증·침구 지식망을 연결합니다.
 tags: [어깨통증, 침, 임상근거, meta-analysis]
@@ -23,12 +23,3 @@ last_reviewed: 2026-08-19
 → [어깨통증](../../conditions/shoulder-pain.md)  
 → [어깨가 아플 때](../../symptoms/longtail/shoulder-pain.md)  
 → [통증·근골격 허브](../../pillar/pain-musculoskeletal.md)
-
-
-<!-- MS53_SHOULDER_START -->
-## 최신 침구 종합근거
-
-2025 neck/shoulder myofascial pain syndrome network meta-analysis는 **29개 RCT·2,424명**을 포함하고 전침·뜸·일반침+운동·일반침+추나 등 여러 침구 관련 치료를 비교했습니다. PMID `40893120`.
-
-어깨통증 연구는 회전근개질환·유착성관절낭염·근막통증처럼 대상 질환이 서로 다르므로, 결과를 '어깨통증 전체'로 뭉뚱그리지 않고 **질환군·기능·가동범위·통증 지표**를 구분해 봅니다.
-<!-- MS53_SHOULDER_END -->
