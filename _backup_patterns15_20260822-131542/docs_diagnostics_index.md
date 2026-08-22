@@ -41,10 +41,3 @@ last_reviewed: '2026-08-19'
 - [증상·질환](../conditions/index.md)
 - [본초·방제](../herbal-integrated/index.md)
 
-<!-- PATTERN_NETWORK_15_START -->
-## 임상 핵심 변증
-기허·혈허·기혈양허·담음·어혈·한습·간울·신허를 **증상 → 설·맥 참고점 → 본초 → 방제 → 경혈 → 환자 질문 → 현대 연구**로 연결합니다.
-
-→ [임상 핵심 변증 지도](patterns/index.md)
-<!-- PATTERN_NETWORK_15_END -->
-

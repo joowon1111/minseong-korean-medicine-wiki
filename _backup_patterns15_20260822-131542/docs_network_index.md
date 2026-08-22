@@ -68,8 +68,3 @@ last_reviewed: 2026-08-19
 - [증상·질환](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
 
-<!-- PATTERN_KNOWLEDGE_NETWORK_15_START -->
-## 변증에서 본초·방제·경혈로
-- [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
-<!-- PATTERN_KNOWLEDGE_NETWORK_15_END -->
-

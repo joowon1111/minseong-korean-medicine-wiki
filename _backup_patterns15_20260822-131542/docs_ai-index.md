@@ -244,9 +244,3 @@ tags:
 ## 임상 핵심 본초·방제·경혈
 - [임상 핵심 통합 허브](clinical-core/index.md)
 
-<!-- PATTERN_AI_INDEX_15_START -->
-## 변증으로 찾기
-- [임상 핵심 변증 지도](diagnostics/patterns/index.md)
-- [기허](diagnostics/patterns/qi-deficiency.md) · [혈허](diagnostics/patterns/blood-deficiency.md) · [담음](diagnostics/patterns/phlegm-fluid.md) · [어혈](diagnostics/patterns/blood-stasis.md) · [간울](diagnostics/patterns/liver-qi-stagnation.md) · [신허](diagnostics/patterns/kidney-deficiency.md)
-<!-- PATTERN_AI_INDEX_15_END -->
-
