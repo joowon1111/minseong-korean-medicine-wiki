@@ -1,4 +1,34 @@
-﻿---
+﻿$ErrorActionPreference="Stop"
+try{
+$R=Split-Path -Parent $MyInvocation.MyCommand.Path;Set-Location $R
+if(-not(Test-Path "docs")){throw "docs folder not found"}
+
+# Locate the actual source page instead of assuming docs\acupoint-network.md.
+$candidates=@(
+ "docs\acupoint-network\index.md",
+ "docs\acupoint-network.md",
+ "docs\acupuncture\acupoint-network.md",
+ "docs\acupuncture\network.md"
+)
+$target=$null
+foreach($c in $candidates){if(Test-Path $c){$target=$c;break}}
+
+if(-not $target){
+ # Fallback: search markdown files for the page title/content.
+ $hit=Get-ChildItem "docs" -Recurse -Filter "*.md" -File | Where-Object {
+   $txt=Get-Content $_.FullName -Raw -Encoding UTF8
+   ($txt -match "경혈 임상 지식망") -or ($txt -match "acupoint-network")
+ } | Select-Object -First 1
+ if($hit){$target=$hit.FullName}
+}
+if(-not $target){throw "acupoint-network source page could not be located automatically"}
+
+$stamp=Get-Date -Format "yyyyMMdd-HHmmss";$bk="_backup_acupoint_network17_"+$stamp
+New-Item -ItemType Directory -Force $bk|Out-Null
+Copy-Item $target (Join-Path $bk "acupoint-network-original.md") -Force
+
+$new=@'
+---
 title: 경혈 임상 지식망
 description: 주요 경혈을 증상·경락·배혈·변증·방제·치료와 연결해 임상적으로 탐색하는 경혈 지식망입니다.
 tags: [경혈, 임상지식망, 침구, 배혈]
@@ -90,3 +120,22 @@ tags: [경혈, 임상지식망, 침구, 배혈]
 침구 연구에서는 단일 경혈뿐 아니라 실제 임상과 유사한 복합 배혈 프로토콜이 폭넓게 사용됩니다. 대상 질환, 사용 경혈, 자침·전침 방법, 치료 횟수와 평가변수를 함께 살펴봅니다.
 
 → [현대 임상근거 허브](../pillar/clinical-evidence.md)
+'@
+
+# Correct relative links depending on whether source is docs root or a directory index.
+$full=(Resolve-Path $target).Path
+$docsroot=(Resolve-Path "docs").Path
+$rel=$full.Substring($docsroot.Length).TrimStart([char]92).Replace("\","/")
+if($rel -eq "acupoint-network.md"){
+ # Page lives at docs root: remove one ../ from links.
+ $new=$new.Replace("(../","(")
+}
+
+Set-Content $target $new -Encoding UTF8
+Write-Host "ACUPOINT NETWORK REFRESH 17 FIXED COMPLETE" -ForegroundColor Green
+Write-Host ("Actual source updated: "+$target) -ForegroundColor Cyan
+Write-Host ("Backup: "+$bk) -ForegroundColor Yellow
+}catch{
+Write-Host ("ERROR: "+$_.Exception.Message) -ForegroundColor Red
+}
+Read-Host "Press Enter to close"
