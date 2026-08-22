@@ -1,0 +1,9 @@
+﻿COMPLETE
+Added nav entry: 
+WHO 표준 361경혈 아틀라스
+Path: 
+acupoint-network/standard-atlas.md
+Entry count: 
+1
+Backup: 
+mkdocs_44_backup_20260822-181724.yml

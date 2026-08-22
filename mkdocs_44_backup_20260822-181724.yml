@@ -1,4 +1,4 @@
-﻿site_name: 민성 한의학 아카이브
+site_name: 민성 한의학 아카이브
 site_description: 본초·방제·고전·사상의학·침구·임상연구를 연결하는 한의학 지식 아카이브
 site_url: https://wiki.minseong.co.kr/
 site_author: 민성 한의학 아카이브
@@ -452,7 +452,6 @@ nav:
       - 건강: herbs/dried-ginger.md
       - 부자: herbs/aconite.md
 - 침구·치료:
-    - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
   - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
   - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
   - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
