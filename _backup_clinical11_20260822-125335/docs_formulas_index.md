@@ -75,8 +75,3 @@ last_reviewed: '2026-08-19'
 [보익 처방 설계·용량 아틀라스 보기 →](../clinical-guides/tonic-formula-design-dose-atlas.md)
 <!-- TONIC_ATLAS_LINK_END -->
 
-
-
-## 임상 핵심 확장
-→ [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
-

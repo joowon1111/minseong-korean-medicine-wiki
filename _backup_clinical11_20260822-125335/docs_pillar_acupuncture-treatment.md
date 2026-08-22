@@ -22,8 +22,3 @@ last_reviewed: 2026-08-19
 
 → [한의치료 방법 지식망](../network/treatment-methods-map.md)
 → [임상 근거 허브](../research/clinical-evidence-hub.md)
-
-
-## 임상 핵심 확장
-→ [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
-

@@ -20,8 +20,3 @@ last_reviewed: 2026-08-19
 침구 이론은 《황제내경》, 특히 《영추》의 경맥·경혈·침법 체계와 밀접하게 연결된다.
 
 → [황제내경](../classics/huangdi-neijing.md)
-
-
-## 임상 핵심 확장
-→ [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
-

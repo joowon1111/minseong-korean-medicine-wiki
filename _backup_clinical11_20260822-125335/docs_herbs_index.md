@@ -34,8 +34,3 @@ last_reviewed: '2026-08-19'
 → [경옥고 구성·원료·제조 품질 가이드](../clinical-guides/gyeongokgo-composition-quality-guide.md)
 <!-- GYEONGOK_HERBS_INDEX_END -->
 
-
-
-## 임상 핵심 확장
-→ [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
-
