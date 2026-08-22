@@ -1,0 +1,2529 @@
+[
+  {
+    "code": "LU1",
+    "name_ko": "중부",
+    "name_zh": "中府",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU2",
+    "name_ko": "운문",
+    "name_zh": "雲門",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU3",
+    "name_ko": "천부",
+    "name_zh": "天府",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU4",
+    "name_ko": "협백",
+    "name_zh": "俠白",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU5",
+    "name_ko": "척택",
+    "name_zh": "尺澤",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU6",
+    "name_ko": "공최",
+    "name_zh": "孔最",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU7",
+    "name_ko": "열결",
+    "name_zh": "缺",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU8",
+    "name_ko": "경거",
+    "name_zh": "經渠",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU9",
+    "name_ko": "태연",
+    "name_zh": "太淵",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU10",
+    "name_ko": "어제",
+    "name_zh": "魚際",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LU11",
+    "name_ko": "소상",
+    "name_zh": "少商",
+    "meridian_code": "LU",
+    "meridian": "수태음폐경"
+  },
+  {
+    "code": "LI1",
+    "name_ko": "상양",
+    "name_zh": "商陽",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI2",
+    "name_ko": "이간",
+    "name_zh": "二間",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI3",
+    "name_ko": "삼간",
+    "name_zh": "三間",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI4",
+    "name_ko": "합곡",
+    "name_zh": "合谷",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI5",
+    "name_ko": "양계",
+    "name_zh": "陽谿",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI6",
+    "name_ko": "편력",
+    "name_zh": "偏歷",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI7",
+    "name_ko": "온류",
+    "name_zh": "溫溜",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI8",
+    "name_ko": "하렴",
+    "name_zh": "下廉",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI9",
+    "name_ko": "상렴",
+    "name_zh": "上廉",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI10",
+    "name_ko": "수삼리",
+    "name_zh": "手三里",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI11",
+    "name_ko": "곡지",
+    "name_zh": "曲池",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI12",
+    "name_ko": "주료",
+    "name_zh": "肘髎",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI13",
+    "name_ko": "수오리",
+    "name_zh": "手五里",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI14",
+    "name_ko": "비노",
+    "name_zh": "臂臑",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI15",
+    "name_ko": "견우",
+    "name_zh": "肩髃",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI16",
+    "name_ko": "거골",
+    "name_zh": "巨骨",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI17",
+    "name_ko": "천정",
+    "name_zh": "天鼎",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI18",
+    "name_ko": "부돌",
+    "name_zh": "扶突",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI19",
+    "name_ko": "화료",
+    "name_zh": "禾髎",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "LI20",
+    "name_ko": "영향",
+    "name_zh": "迎香",
+    "meridian_code": "LI",
+    "meridian": "수양명대장경"
+  },
+  {
+    "code": "ST1",
+    "name_ko": "승읍",
+    "name_zh": "承泣",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST2",
+    "name_ko": "사백",
+    "name_zh": "四白",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST3",
+    "name_ko": "거료",
+    "name_zh": "巨髎",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST4",
+    "name_ko": "지창",
+    "name_zh": "地倉",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST5",
+    "name_ko": "대영",
+    "name_zh": "大迎",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST6",
+    "name_ko": "협거",
+    "name_zh": "頰",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST7",
+    "name_ko": "하관",
+    "name_zh": "下關",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST8",
+    "name_ko": "두유",
+    "name_zh": "頭維",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST9",
+    "name_ko": "인영",
+    "name_zh": "人迎",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST10",
+    "name_ko": "수돌",
+    "name_zh": "水突",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST11",
+    "name_ko": "기사",
+    "name_zh": "氣舍",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST12",
+    "name_ko": "결분",
+    "name_zh": "缺盆",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST13",
+    "name_ko": "기호",
+    "name_zh": "氣戶",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST14",
+    "name_ko": "고방",
+    "name_zh": "庫房",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST15",
+    "name_ko": "옥예",
+    "name_zh": "屋翳",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST16",
+    "name_ko": "응창",
+    "name_zh": "膺窓",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST17",
+    "name_ko": "유중",
+    "name_zh": "乳中",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST18",
+    "name_ko": "유근",
+    "name_zh": "乳根",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST19",
+    "name_ko": "불용",
+    "name_zh": "容",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST20",
+    "name_ko": "승만",
+    "name_zh": "承滿",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST21",
+    "name_ko": "양문",
+    "name_zh": "門",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST22",
+    "name_ko": "관문",
+    "name_zh": "關門",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST23",
+    "name_ko": "태을",
+    "name_zh": "太乙",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST24",
+    "name_ko": "활육문",
+    "name_zh": "滑肉門",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST25",
+    "name_ko": "천추",
+    "name_zh": "天樞",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST26",
+    "name_ko": "외릉",
+    "name_zh": "外陵",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST27",
+    "name_ko": "대거",
+    "name_zh": "大巨",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST28",
+    "name_ko": "수도",
+    "name_zh": "水道",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST29",
+    "name_ko": "귀래",
+    "name_zh": "歸來",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST30",
+    "name_ko": "기충",
+    "name_zh": "氣衝",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST31",
+    "name_ko": "비관",
+    "name_zh": "髀關",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST32",
+    "name_ko": "복토",
+    "name_zh": "伏兎",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST33",
+    "name_ko": "음시",
+    "name_zh": "陰市",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST34",
+    "name_ko": "양구",
+    "name_zh": "丘",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST35",
+    "name_ko": "독비",
+    "name_zh": "犢鼻",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST36",
+    "name_ko": "족삼리",
+    "name_zh": "足三里",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST37",
+    "name_ko": "상거허",
+    "name_zh": "上巨虛",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST38",
+    "name_ko": "조구",
+    "name_zh": "條口",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST39",
+    "name_ko": "하거허",
+    "name_zh": "下巨虛",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST40",
+    "name_ko": "풍륭",
+    "name_zh": "豊隆",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST41",
+    "name_ko": "해계",
+    "name_zh": "解谿",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST42",
+    "name_ko": "충양",
+    "name_zh": "衝陽",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST43",
+    "name_ko": "함곡",
+    "name_zh": "陷谷",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST44",
+    "name_ko": "내정",
+    "name_zh": "內庭",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "ST45",
+    "name_ko": "여태",
+    "name_zh": "厲兌",
+    "meridian_code": "ST",
+    "meridian": "족양명위경"
+  },
+  {
+    "code": "SP1",
+    "name_ko": "은백",
+    "name_zh": "隱白",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP2",
+    "name_ko": "대도",
+    "name_zh": "大都",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP3",
+    "name_ko": "태백",
+    "name_zh": "太白",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP4",
+    "name_ko": "공손",
+    "name_zh": "公孫",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP5",
+    "name_ko": "상구",
+    "name_zh": "商丘",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP6",
+    "name_ko": "삼음교",
+    "name_zh": "三陰交",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP7",
+    "name_ko": "누곡",
+    "name_zh": "谷",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP8",
+    "name_ko": "지기",
+    "name_zh": "地機",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP9",
+    "name_ko": "음릉천",
+    "name_zh": "陰陵泉",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP10",
+    "name_ko": "혈해",
+    "name_zh": "血海",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP11",
+    "name_ko": "기문",
+    "name_zh": "箕門",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP12",
+    "name_ko": "충문",
+    "name_zh": "衝門",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP13",
+    "name_ko": "부사",
+    "name_zh": "府舍",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP14",
+    "name_ko": "복결",
+    "name_zh": "腹結",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP15",
+    "name_ko": "대횡",
+    "name_zh": "大橫",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP16",
+    "name_ko": "복애",
+    "name_zh": "腹哀",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP17",
+    "name_ko": "식두",
+    "name_zh": "食竇",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP18",
+    "name_ko": "천계",
+    "name_zh": "天谿",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP19",
+    "name_ko": "흉향",
+    "name_zh": "胸鄕",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP20",
+    "name_ko": "주영",
+    "name_zh": "周榮",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "SP21",
+    "name_ko": "대포",
+    "name_zh": "大包",
+    "meridian_code": "SP",
+    "meridian": "족태음비경"
+  },
+  {
+    "code": "HT1",
+    "name_ko": "극천",
+    "name_zh": "極泉",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT2",
+    "name_ko": "청령",
+    "name_zh": "靑靈",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT3",
+    "name_ko": "소해",
+    "name_zh": "少海",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT4",
+    "name_ko": "영도",
+    "name_zh": "道",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT5",
+    "name_ko": "통리",
+    "name_zh": "通里",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT6",
+    "name_ko": "음극",
+    "name_zh": "陰郄",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT7",
+    "name_ko": "신문",
+    "name_zh": "神門",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT8",
+    "name_ko": "소부",
+    "name_zh": "少府",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "HT9",
+    "name_ko": "소충",
+    "name_zh": "少衝",
+    "meridian_code": "HT",
+    "meridian": "수소음심경"
+  },
+  {
+    "code": "SI1",
+    "name_ko": "소택",
+    "name_zh": "少澤",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI2",
+    "name_ko": "전곡",
+    "name_zh": "前谷",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI3",
+    "name_ko": "후계",
+    "name_zh": "後谿",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI4",
+    "name_ko": "완골",
+    "name_zh": "腕骨",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI5",
+    "name_ko": "양곡",
+    "name_zh": "陽谷",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI6",
+    "name_ko": "양로",
+    "name_zh": "養老",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI7",
+    "name_ko": "지정",
+    "name_zh": "支正",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI8",
+    "name_ko": "소해",
+    "name_zh": "小海",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI9",
+    "name_ko": "견정",
+    "name_zh": "肩貞",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI10",
+    "name_ko": "노수",
+    "name_zh": "臑兪",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI11",
+    "name_ko": "천종",
+    "name_zh": "天宗",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI12",
+    "name_ko": "병풍",
+    "name_zh": "秉風",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI13",
+    "name_ko": "곡원",
+    "name_zh": "曲垣",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI14",
+    "name_ko": "견외수",
+    "name_zh": "肩外兪",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI15",
+    "name_ko": "견중수",
+    "name_zh": "肩中兪",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI16",
+    "name_ko": "천창",
+    "name_zh": "天窓",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI17",
+    "name_ko": "천용",
+    "name_zh": "天容",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI18",
+    "name_ko": "관료",
+    "name_zh": "顴髎",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "SI19",
+    "name_ko": "청궁",
+    "name_zh": "聽宮",
+    "meridian_code": "SI",
+    "meridian": "수태양소장경"
+  },
+  {
+    "code": "BL1",
+    "name_ko": "정명",
+    "name_zh": "睛明",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL2",
+    "name_ko": "찬죽",
+    "name_zh": "攢竹",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL3",
+    "name_ko": "미충",
+    "name_zh": "眉衝",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL4",
+    "name_ko": "곡차",
+    "name_zh": "曲差",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL5",
+    "name_ko": "오처",
+    "name_zh": "五處",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL6",
+    "name_ko": "승광",
+    "name_zh": "承光",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL7",
+    "name_ko": "통천",
+    "name_zh": "通天",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL8",
+    "name_ko": "낙각",
+    "name_zh": "絡却",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL9",
+    "name_ko": "옥침",
+    "name_zh": "玉枕",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL10",
+    "name_ko": "천주",
+    "name_zh": "天柱",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL11",
+    "name_ko": "대저",
+    "name_zh": "大杼",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL12",
+    "name_ko": "풍문",
+    "name_zh": "風門",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL13",
+    "name_ko": "폐수",
+    "name_zh": "肺兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL14",
+    "name_ko": "궐음수",
+    "name_zh": "厥陰兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL15",
+    "name_ko": "심수",
+    "name_zh": "心兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL16",
+    "name_ko": "독수",
+    "name_zh": "督兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL17",
+    "name_ko": "격수",
+    "name_zh": "膈兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL18",
+    "name_ko": "간수",
+    "name_zh": "肝兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL19",
+    "name_ko": "담수",
+    "name_zh": "膽兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL20",
+    "name_ko": "비수",
+    "name_zh": "脾兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL21",
+    "name_ko": "위수",
+    "name_zh": "胃兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL22",
+    "name_ko": "삼초수",
+    "name_zh": "三焦兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL23",
+    "name_ko": "신수",
+    "name_zh": "腎兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL24",
+    "name_ko": "기해수",
+    "name_zh": "氣海兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL25",
+    "name_ko": "대장수",
+    "name_zh": "大腸兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL26",
+    "name_ko": "관원수",
+    "name_zh": "關元兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL27",
+    "name_ko": "소장수",
+    "name_zh": "小腸兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL28",
+    "name_ko": "방광수",
+    "name_zh": "膀胱兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL29",
+    "name_ko": "중려수",
+    "name_zh": "中膂兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL30",
+    "name_ko": "백환수",
+    "name_zh": "白環兪",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL31",
+    "name_ko": "상료",
+    "name_zh": "上髎",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL32",
+    "name_ko": "차료",
+    "name_zh": "次髎",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL33",
+    "name_ko": "중료",
+    "name_zh": "中髎",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL34",
+    "name_ko": "하료",
+    "name_zh": "下髎",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL35",
+    "name_ko": "회양",
+    "name_zh": "會陽",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL36",
+    "name_ko": "승부",
+    "name_zh": "承扶",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL37",
+    "name_ko": "은문",
+    "name_zh": "殷門",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL38",
+    "name_ko": "부극",
+    "name_zh": "浮郄",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL39",
+    "name_ko": "위양",
+    "name_zh": "委陽",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL40",
+    "name_ko": "위중",
+    "name_zh": "委中",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL41",
+    "name_ko": "부분",
+    "name_zh": "附分",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL42",
+    "name_ko": "백호",
+    "name_zh": "魄戶",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL43",
+    "name_ko": "고황",
+    "name_zh": "膏肓",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL44",
+    "name_ko": "신당",
+    "name_zh": "神堂",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL45",
+    "name_ko": "의희",
+    "name_zh": "譩譆",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL46",
+    "name_ko": "격관",
+    "name_zh": "膈關",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL47",
+    "name_ko": "혼문",
+    "name_zh": "魂門",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL48",
+    "name_ko": "양강",
+    "name_zh": "陽綱",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL49",
+    "name_ko": "의사",
+    "name_zh": "意舍",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL50",
+    "name_ko": "위창",
+    "name_zh": "胃倉",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL51",
+    "name_ko": "황문",
+    "name_zh": "肓門",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL52",
+    "name_ko": "지실",
+    "name_zh": "志室",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL53",
+    "name_ko": "포황",
+    "name_zh": "胞肓",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL54",
+    "name_ko": "질변",
+    "name_zh": "秩邊",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL55",
+    "name_ko": "합양",
+    "name_zh": "合陽",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL56",
+    "name_ko": "승근",
+    "name_zh": "承筋",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL57",
+    "name_ko": "승산",
+    "name_zh": "承山",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL58",
+    "name_ko": "비양",
+    "name_zh": "飛揚",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL59",
+    "name_ko": "부양",
+    "name_zh": "跗陽",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL60",
+    "name_ko": "곤륜",
+    "name_zh": "崑崙",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL61",
+    "name_ko": "복삼",
+    "name_zh": "僕",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL62",
+    "name_ko": "신맥",
+    "name_zh": "申脈",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL63",
+    "name_ko": "금문",
+    "name_zh": "門",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL64",
+    "name_ko": "경골",
+    "name_zh": "京骨",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL65",
+    "name_ko": "속골",
+    "name_zh": "束骨",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL66",
+    "name_ko": "족통곡",
+    "name_zh": "足通谷",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "BL67",
+    "name_ko": "지음",
+    "name_zh": "至陰",
+    "meridian_code": "BL",
+    "meridian": "족태양방광경"
+  },
+  {
+    "code": "KI1",
+    "name_ko": "용천",
+    "name_zh": "湧泉",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI2",
+    "name_ko": "연곡",
+    "name_zh": "然谷",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI3",
+    "name_ko": "태계",
+    "name_zh": "太谿",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI4",
+    "name_ko": "대종",
+    "name_zh": "大鐘",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI5",
+    "name_ko": "수천",
+    "name_zh": "水泉",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI6",
+    "name_ko": "조해",
+    "name_zh": "照海",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI7",
+    "name_ko": "부류",
+    "name_zh": "復溜",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI8",
+    "name_ko": "교신",
+    "name_zh": "交信",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI9",
+    "name_ko": "축빈",
+    "name_zh": "築賓",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI10",
+    "name_ko": "음곡",
+    "name_zh": "陰谷",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI11",
+    "name_ko": "횡골",
+    "name_zh": "橫骨",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI12",
+    "name_ko": "대혁",
+    "name_zh": "大赫",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI13",
+    "name_ko": "기혈",
+    "name_zh": "氣穴",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI14",
+    "name_ko": "사만",
+    "name_zh": "四滿",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI15",
+    "name_ko": "중주",
+    "name_zh": "中注",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI16",
+    "name_ko": "황수",
+    "name_zh": "肓兪",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI17",
+    "name_ko": "상곡",
+    "name_zh": "商曲",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI18",
+    "name_ko": "석관",
+    "name_zh": "石關",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI19",
+    "name_ko": "음도",
+    "name_zh": "陰都",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI20",
+    "name_ko": "복통곡",
+    "name_zh": "腹痛谷",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI21",
+    "name_ko": "유문",
+    "name_zh": "幽門",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI22",
+    "name_ko": "보랑",
+    "name_zh": "步廊",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI23",
+    "name_ko": "신봉",
+    "name_zh": "神封",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI24",
+    "name_ko": "영허",
+    "name_zh": "墟",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI25",
+    "name_ko": "신장",
+    "name_zh": "神藏",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI26",
+    "name_ko": "욱중",
+    "name_zh": "彧中",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "KI27",
+    "name_ko": "수부",
+    "name_zh": "兪府",
+    "meridian_code": "KI",
+    "meridian": "족소음신경"
+  },
+  {
+    "code": "PC1",
+    "name_ko": "천지",
+    "name_zh": "天池",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC2",
+    "name_ko": "천천",
+    "name_zh": "天泉",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC3",
+    "name_ko": "곡택",
+    "name_zh": "曲澤",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC4",
+    "name_ko": "극문",
+    "name_zh": "郄門",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC5",
+    "name_ko": "간사",
+    "name_zh": "間使",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC6",
+    "name_ko": "내관",
+    "name_zh": "內關",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC7",
+    "name_ko": "대릉",
+    "name_zh": "大陵",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC8",
+    "name_ko": "노궁",
+    "name_zh": "宮",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "PC9",
+    "name_ko": "중충",
+    "name_zh": "中衝",
+    "meridian_code": "PC",
+    "meridian": "수궐음심포경"
+  },
+  {
+    "code": "TE1",
+    "name_ko": "관충",
+    "name_zh": "關衝",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE2",
+    "name_ko": "액문",
+    "name_zh": "液門",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE3",
+    "name_ko": "중저",
+    "name_zh": "中渚",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE4",
+    "name_ko": "양지",
+    "name_zh": "陽池",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE5",
+    "name_ko": "외관",
+    "name_zh": "外關",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE6",
+    "name_ko": "지구",
+    "name_zh": "支溝",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE7",
+    "name_ko": "회종",
+    "name_zh": "會宗",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE8",
+    "name_ko": "삼양락",
+    "name_zh": "三陽絡",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE9",
+    "name_ko": "사독",
+    "name_zh": "四瀆",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE10",
+    "name_ko": "천정",
+    "name_zh": "天井",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE11",
+    "name_ko": "청랭연",
+    "name_zh": "淸淵",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE12",
+    "name_ko": "소락",
+    "name_zh": "消濼",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE13",
+    "name_ko": "노회",
+    "name_zh": "臑會",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE14",
+    "name_ko": "견료",
+    "name_zh": "肩髎",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE15",
+    "name_ko": "천료",
+    "name_zh": "天髎",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE16",
+    "name_ko": "천유",
+    "name_zh": "天牖",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE17",
+    "name_ko": "예풍",
+    "name_zh": "翳風",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE18",
+    "name_ko": "계맥",
+    "name_zh": "瘈脈",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE19",
+    "name_ko": "노식",
+    "name_zh": "顱息",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE20",
+    "name_ko": "각손",
+    "name_zh": "角孫",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE21",
+    "name_ko": "이문",
+    "name_zh": "耳門",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE22",
+    "name_ko": "화료",
+    "name_zh": "和髎",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "TE23",
+    "name_ko": "사죽공",
+    "name_zh": "絲竹空",
+    "meridian_code": "TE",
+    "meridian": "수소양삼초경"
+  },
+  {
+    "code": "GB1",
+    "name_ko": "동자료",
+    "name_zh": "瞳子髎",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB2",
+    "name_ko": "청회",
+    "name_zh": "聽會",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB3",
+    "name_ko": "상관",
+    "name_zh": "上關",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB4",
+    "name_ko": "함염",
+    "name_zh": "頷厭",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB5",
+    "name_ko": "현로",
+    "name_zh": "懸顱",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB6",
+    "name_ko": "현리",
+    "name_zh": "懸釐",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB7",
+    "name_ko": "곡빈",
+    "name_zh": "曲鬢",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB8",
+    "name_ko": "솔곡",
+    "name_zh": "率谷",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB9",
+    "name_ko": "천충",
+    "name_zh": "天衝",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB10",
+    "name_ko": "부백",
+    "name_zh": "浮白",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB11",
+    "name_ko": "두규음",
+    "name_zh": "頭竅陰",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB12",
+    "name_ko": "완골",
+    "name_zh": "完骨",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB13",
+    "name_ko": "본신",
+    "name_zh": "本神",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB14",
+    "name_ko": "양백",
+    "name_zh": "陽白",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB15",
+    "name_ko": "두임읍",
+    "name_zh": "頭泣",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB16",
+    "name_ko": "목창",
+    "name_zh": "目窓",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB17",
+    "name_ko": "정영",
+    "name_zh": "正營",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB18",
+    "name_ko": "승령",
+    "name_zh": "承靈",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB19",
+    "name_ko": "뇌공",
+    "name_zh": "腦空",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB20",
+    "name_ko": "풍지",
+    "name_zh": "風池",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB21",
+    "name_ko": "견정",
+    "name_zh": "肩井",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB22",
+    "name_ko": "연액",
+    "name_zh": "淵腋",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB23",
+    "name_ko": "첩근",
+    "name_zh": "輒筋",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB24",
+    "name_ko": "일월",
+    "name_zh": "日月",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB25",
+    "name_ko": "경문",
+    "name_zh": "京門",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB26",
+    "name_ko": "대맥",
+    "name_zh": "帶脈",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB27",
+    "name_ko": "오추",
+    "name_zh": "五樞",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB28",
+    "name_ko": "유도",
+    "name_zh": "維道",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB29",
+    "name_ko": "거료",
+    "name_zh": "居髎",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB30",
+    "name_ko": "환도",
+    "name_zh": "環跳",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB31",
+    "name_ko": "풍시",
+    "name_zh": "風市",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB32",
+    "name_ko": "중독",
+    "name_zh": "中瀆",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB33",
+    "name_ko": "슬양관",
+    "name_zh": "膝陽關",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB34",
+    "name_ko": "양릉천",
+    "name_zh": "陽陵泉",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB35",
+    "name_ko": "양교",
+    "name_zh": "陽交",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB36",
+    "name_ko": "외구",
+    "name_zh": "外丘",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB37",
+    "name_ko": "광명",
+    "name_zh": "光明",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB38",
+    "name_ko": "양보",
+    "name_zh": "陽輔",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB39",
+    "name_ko": "현종",
+    "name_zh": "懸鍾",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB40",
+    "name_ko": "구허",
+    "name_zh": "丘墟",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB41",
+    "name_ko": "족임읍",
+    "name_zh": "足泣",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB42",
+    "name_ko": "지오회",
+    "name_zh": "地五會",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB43",
+    "name_ko": "협계",
+    "name_zh": "俠谿",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "GB44",
+    "name_ko": "족규음",
+    "name_zh": "足竅陰",
+    "meridian_code": "GB",
+    "meridian": "족소양담경"
+  },
+  {
+    "code": "LR1",
+    "name_ko": "대돈",
+    "name_zh": "大敦",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR2",
+    "name_ko": "행간",
+    "name_zh": "行間",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR3",
+    "name_ko": "태충",
+    "name_zh": "太衝",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR4",
+    "name_ko": "중봉",
+    "name_zh": "中封",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR5",
+    "name_ko": "여구",
+    "name_zh": "蠡溝",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR6",
+    "name_ko": "중도",
+    "name_zh": "中都",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR7",
+    "name_ko": "슬관",
+    "name_zh": "膝關",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR8",
+    "name_ko": "곡천",
+    "name_zh": "曲泉",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR9",
+    "name_ko": "음포",
+    "name_zh": "陰包",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR10",
+    "name_ko": "족오리",
+    "name_zh": "足五里",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR11",
+    "name_ko": "음렴",
+    "name_zh": "陰廉",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR12",
+    "name_ko": "급맥",
+    "name_zh": "急脈",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR13",
+    "name_ko": "장문",
+    "name_zh": "章門",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "LR14",
+    "name_ko": "기문",
+    "name_zh": "期門",
+    "meridian_code": "LR",
+    "meridian": "족궐음간경"
+  },
+  {
+    "code": "GV1",
+    "name_ko": "장강",
+    "name_zh": "長强",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV2",
+    "name_ko": "요수",
+    "name_zh": "腰兪",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV3",
+    "name_ko": "요양관",
+    "name_zh": "腰陽關",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV4",
+    "name_ko": "명문",
+    "name_zh": "命門",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV5",
+    "name_ko": "현추",
+    "name_zh": "懸樞",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV6",
+    "name_ko": "척중",
+    "name_zh": "脊中",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV7",
+    "name_ko": "중추",
+    "name_zh": "中樞",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV8",
+    "name_ko": "근축",
+    "name_zh": "筋縮",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV9",
+    "name_ko": "지양",
+    "name_zh": "至陽",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV10",
+    "name_ko": "영대",
+    "name_zh": "臺",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV11",
+    "name_ko": "신도",
+    "name_zh": "神道",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV12",
+    "name_ko": "신주",
+    "name_zh": "身柱",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV13",
+    "name_ko": "도도",
+    "name_zh": "陶道",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV14",
+    "name_ko": "대추",
+    "name_zh": "大椎",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV15",
+    "name_ko": "아문",
+    "name_zh": "瘂門",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV16",
+    "name_ko": "풍부",
+    "name_zh": "風府",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV17",
+    "name_ko": "뇌호",
+    "name_zh": "腦戶",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV18",
+    "name_ko": "강간",
+    "name_zh": "强間",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV19",
+    "name_ko": "후정",
+    "name_zh": "後頂",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV20",
+    "name_ko": "백회",
+    "name_zh": "百會",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV21",
+    "name_ko": "전정",
+    "name_zh": "前頂",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV22",
+    "name_ko": "신회",
+    "name_zh": "顖會",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV23",
+    "name_ko": "상성",
+    "name_zh": "上星",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV24",
+    "name_ko": "신정",
+    "name_zh": "神庭",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV25",
+    "name_ko": "소료",
+    "name_zh": "素髎",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV26",
+    "name_ko": "수구",
+    "name_zh": "水溝",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV27",
+    "name_ko": "태단",
+    "name_zh": "兌端",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "GV28",
+    "name_ko": "은교",
+    "name_zh": "齦交",
+    "meridian_code": "GV",
+    "meridian": "독맥"
+  },
+  {
+    "code": "CV1",
+    "name_ko": "회음",
+    "name_zh": "會陰",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV2",
+    "name_ko": "곡골",
+    "name_zh": "曲骨",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV3",
+    "name_ko": "중극",
+    "name_zh": "中極",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV4",
+    "name_ko": "관원",
+    "name_zh": "關元",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV5",
+    "name_ko": "석문",
+    "name_zh": "石門",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV6",
+    "name_ko": "기해",
+    "name_zh": "氣海",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV7",
+    "name_ko": "음교",
+    "name_zh": "陰交",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV8",
+    "name_ko": "신궐",
+    "name_zh": "神闕",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV9",
+    "name_ko": "수분",
+    "name_zh": "水分",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV10",
+    "name_ko": "하완",
+    "name_zh": "下脘",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV11",
+    "name_ko": "건리",
+    "name_zh": "建里",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV12",
+    "name_ko": "중완",
+    "name_zh": "中脘",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV13",
+    "name_ko": "상완",
+    "name_zh": "上脘",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV14",
+    "name_ko": "거궐",
+    "name_zh": "巨闕",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV15",
+    "name_ko": "구미",
+    "name_zh": "鳩尾",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV16",
+    "name_ko": "중정",
+    "name_zh": "中庭",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV17",
+    "name_ko": "단중",
+    "name_zh": "膻中",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV18",
+    "name_ko": "옥당",
+    "name_zh": "玉堂",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV19",
+    "name_ko": "자궁",
+    "name_zh": "紫宮",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV20",
+    "name_ko": "화개",
+    "name_zh": "華蓋",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV21",
+    "name_ko": "선기",
+    "name_zh": "璇璣",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV22",
+    "name_ko": "천돌",
+    "name_zh": "天突",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV23",
+    "name_ko": "염천",
+    "name_zh": "廉泉",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  },
+  {
+    "code": "CV24",
+    "name_ko": "승장",
+    "name_zh": "承漿",
+    "meridian_code": "CV",
+    "meridian": "임맥"
+  }
+]

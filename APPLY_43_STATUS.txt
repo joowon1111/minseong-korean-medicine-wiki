@@ -1,0 +1,11 @@
+﻿FAILED
+Resolve-Path : 'C:\GitHub\minseong-korean-medicine-wiki\docs\acupoint-network\standard-atlas.md' 경로는 존재하지 않으므로 찾을 수 없습니
+다.
+위치 C:\GitHub\minseong-korean-medicine-wiki\APPLY_COMPLETE_STANDARD_ACUPOINT_ATLAS_43.ps1:27 문자:42
++ ...   $fromDir=[IO.Path]::GetDirectoryName((Resolve-Path $fromFile).Path)
++                                             ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\GitHub\minse...andard-atlas.md:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+
