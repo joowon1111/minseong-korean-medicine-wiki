@@ -1,0 +1,33 @@
+﻿---
+title: 사진과 진단
+description: 사진과 진단을 황제내경의 핵심 이론과 현대 한의학 지식망으로 연결해 정리합니다.
+tags: [황제내경, 한의학기초, 음양, 장부, 기혈진액, 경락]
+status: 검토완료
+last_reviewed: 2026-08-20
+---
+# 사진과 진단
+
+한의학의 사진(四診)은 망진·문진·문진·절진을 통해 환자의 전반적인 상태를 파악하는 진단 구조다.
+
+```text
+망진
++ 문진(聞診)
++ 문진(問診)
++ 절진
+   ↓
+증상 정보 통합
+   ↓
+변증
+```
+
+진단의 핵심은 한 가지 소견보다 여러 정보를 종합해 병증의 전체 구조를 파악하는 데 있다.
+
+→ [임상 추론 경로](../clinical-reasoning/index.md)
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [한의학 고전 읽기](../classics-network/reading-path.md)
+- [주요 고전 비교](../classics-network/comparison.md)
+- [근거와 출처](../ai/evidence-map.md)
+
