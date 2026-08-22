@@ -21,7 +21,7 @@ tags: [마른아이, 체력약한아이, 소아보약, 체중증가, 허약아]
 체중이 실제로 감소하거나 성장곡선이 뚜렷하게 하락하는 경우, 지속되는 설사·복통·발열, 심한 피로와 활동저하가 동반되면 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [소아보약](../conditions/pediatric-tonic.md)
+- [소아보약](../conditions/child-parent-tonic-guide.md)
 - [식욕부진](../conditions/poor-appetite-adult.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [만성피로](../conditions/chronic-fatigue.md)
@@ -42,4 +42,5 @@ tags: [마른아이, 체력약한아이, 소아보약, 체중증가, 허약아]
 > **검색 포인트:** 소아·성장·보약 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

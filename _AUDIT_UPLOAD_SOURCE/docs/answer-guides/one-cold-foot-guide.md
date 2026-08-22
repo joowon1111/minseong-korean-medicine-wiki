@@ -22,7 +22,7 @@ tags: [한쪽발냉감, 발시림, 혈액순환, 발저림, 허리신경]
 
 ## 더 깊게 보기
 - [요통](../conditions/low-back-pain.md)
-- [하지저림](../conditions/leg-numbness.md)
+- [하지저림](../conditions/foot-numbness.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 
@@ -42,4 +42,5 @@ tags: [한쪽발냉감, 발시림, 혈액순환, 발저림, 허리신경]
 > **검색 포인트:** 냉증·순환·저림 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

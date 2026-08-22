@@ -1,4 +1,4 @@
----
+﻿---
 title: 침구학
 description: 경락·경혈과 침구 치료의 기본 원리를 정리합니다.
 tags: [침구학, 경락, 경혈]
@@ -20,3 +20,12 @@ last_reviewed: 2026-08-19
 침구 이론은 《황제내경》, 특히 《영추》의 경맥·경혈·침법 체계와 밀접하게 연결된다.
 
 → [황제내경](../classics/huangdi-neijing.md)
+
+
+## 임상 핵심 확장
+→ [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
+
+<!-- COMBO_ACU_14_START -->
+## 배혈 조합으로 더 깊게 보기
+- [임상 핵심 배혈 조합 지도](../network/acupoint-combinations.md)
+<!-- COMBO_ACU_14_END -->

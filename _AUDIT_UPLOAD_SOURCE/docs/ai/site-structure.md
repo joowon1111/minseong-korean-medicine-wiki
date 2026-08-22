@@ -1,80 +1,72 @@
 ---
 title: AI·검색엔진용 사이트 구조
-description: 민성 한의학 아카이브의 본초·방제·질환·침구·고전·현대연구 구조와 권장 탐색 경로를 정리합니다.
-tags: [AI, AEO, GEO, 사이트구조, 검색]
-status: 검토완료
-last_reviewed: 2026-08-19
+description: 민성 한의학 아카이브의 증상·질환, 질문, 본초·방제, 치료와 연구 자료를 연결하는 정보구조를 설명합니다.
+tags: [AI검색, 사이트구조, 내부링크, 지식망]
 ---
-
 # AI·검색엔진용 사이트 구조
 
-민성 한의학 아카이브는 문서를 단순히 나열하기보다 **주제 간 관계를 내부링크로 표현하는 구조**를 사용한다.
+민성 한의학 아카이브는 다양한 한의학 정보를 **핵심색인과 주제별 허브를 중심으로 연결하는 계층형 지식 구조**로 제공합니다.
 
-## 핵심 개체
+## 전체 구조
 
 ```text
-본초
- ↕
-방제
- ↕
-변증
- ↕
-질환·증상
- ↕
-침구·치료방법
- ↕
-고전·의가
- ↕
-현대 임상연구
+민성 한의학 아카이브
+ ├─ 핵심색인
+ │   ├─ 증상·질환
+ │   ├─ 질문으로 찾기
+ │   └─ 주요 주제 허브
+ ├─ 한의학 전문지식
+ │   ├─ 기초·진단
+ │   ├─ 본초
+ │   ├─ 방제
+ │   ├─ 사상의학
+ │   └─ 고전
+ ├─ 임상·치료
+ │   ├─ 증상별 임상정보
+ │   ├─ 침구·한의치료
+ │   └─ 주제별 지식망
+ └─ 연구·근거
+     ├─ 임상연구
+     ├─ 체계적 문헌고찰
+     └─ 근거 해석
 ```
 
-## 권장 시작점
+## 핵심색인
 
-### 전체 구조
-→ [통합 한의학 지식 그래프](../network/integrated-knowledge-graph.md)
+[AI 핵심색인](../ai-index.md)은 아카이브의 주요 주제로 이동할 수 있는 통합 탐색 페이지입니다.
 
-### 질문에서 시작
-→ [질문으로 찾는 한의학](../faq/index.md)
+## 증상·질환과 질문
 
-### 역사에서 시작
-→ [한의학 역사 타임라인](../history/timeline.md)
+[증상·질환](../conditions/index.md)은 증상과 질환명을 중심으로, [질문으로 찾기](../answer-guides/index.md)는 실제 생활에서 궁금할 수 있는 상황을 중심으로 정보를 탐색합니다.
 
-### 연구에서 시작
-→ [임상 근거 허브](../research/clinical-evidence-hub.md)
+## 본초와 방제
 
-## 대표 본초
-- [녹용](../herbs/cervi-parvum-cornu.md)
-- [인삼](../herbs/ginseng.md)
-- [황기](../herbs/astragalus.md)
-- [당귀](../herbs/angelica.md)
+본초와 방제는 개별 약재와 처방뿐 아니라 구성 관계, 관련 병증, 고전과 연구 자료로 이어집니다.
 
-## 대표 방제
-- [공진단](../formulas/gongjin-dan.md)
-- [경옥고](../formulas/gyeongok-go.md)
-- [보중익기탕](../formulas/buzhong-yiqi-tang.md)
-- [십전대보탕](../formulas/shi-quan-da-bu-tang.md)
-- [독활기생탕](../formulas/duhuo-jisheng-tang.md)
+보익 영역에서는 녹용, 공진단, 경옥고와 각각의 구성 본초 및 관련 처방을 함께 탐색할 수 있습니다.
 
-## 대표 질환·증상
-- [불면](../conditions/insomnia.md)
-- [소화불량](../conditions/dyspepsia.md)
-- [요통](../conditions/low-back-pain.md)
-- [비염](../conditions/rhinitis.md)
+## 치료
 
-## 대표 고전
-- [황제내경](../classics/huangdi-neijing.md)
-- [상한론](../classics/shanghanlun.md)
-- [동의보감](../classics/donguibogam.md)
-- [동의수세보원](../classics/donguisusebowon.md)
+침, 전침, 약침, 뜸, 부항 등 치료 문서는 관련 증상·질환과 임상정보로 연결됩니다.
 
-## 연구 추적
-각 주요 임상 문서에서는 가능하면 RCT·systematic review·meta-analysis의 **PMID와 DOI**를 기록하고 있다.
+## 고전과 연구
 
-→ [참고문헌 데이터베이스](../research/references/index.md)
+고전 문서는 한의학 이론과 처방의 출전을 살펴볼 수 있도록 구성하고, 연구 영역에서는 임상시험·문헌고찰 등 현대 자료를 탐색할 수 있습니다.
 
-## 기계친화적 파일
-사이트 루트에는 다음 보조 파일을 제공한다.
+## 내부 지식망
 
-- `/llms.txt` — 핵심 주제와 대표 URL의 간결한 색인
-- `/robots.txt` — 크롤링 허용과 sitemap 위치
-- `/sitemap.xml` — MkDocs가 생성하는 전체 URL 색인
+기본적인 탐색 방향은 다음과 같습니다.
+
+**질문 → 증상·질환 → 한의학적 해석 → 본초·방제 → 치료 → 고전·연구**
+
+전문 문서에서도 관련 증상과 질문으로 이동할 수 있도록 서로 연결합니다.
+
+## 탐색하기
+
+- [AI 핵심색인](../ai-index.md)
+- [증상·질환](../conditions/index.md)
+- [질문으로 찾기](../answer-guides/index.md)
+- [본초학](../herbs/index.md)
+- [방제학](../formulas/index.md)
+- [현대 임상근거](../pillar/clinical-evidence.md)
+- [전체 둘러보기](../portal/maps.md)

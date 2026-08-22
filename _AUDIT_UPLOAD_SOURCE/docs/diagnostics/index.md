@@ -41,3 +41,24 @@ last_reviewed: '2026-08-19'
 - [증상·질환](../conditions/index.md)
 - [본초·방제](../herbal-integrated/index.md)
 
+<!-- PATTERN_NETWORK_15_START -->
+## 임상 핵심 변증
+기허·혈허·기혈양허·담음·어혈·한습·간울·신허를 **증상 → 설·맥 참고점 → 본초 → 방제 → 경혈 → 환자 질문 → 현대 연구**로 연결합니다.
+
+→ [임상 핵심 변증 지도](patterns/index.md)
+<!-- PATTERN_NETWORK_15_END -->
+
+<!-- DIFFERENTIAL_NETWORK_16_START -->
+## 임상 변증 감별
+비슷한 증상에서 **어느 변증에 더 무게를 둘지** 비교합니다.
+
+- [기허·혈허·기혈양허](differentials/qi-vs-blood-vs-qi-blood.md)
+- [담음·식적](differentials/phlegm-vs-food-stagnation.md)
+- [어혈·한습성 통증](differentials/blood-stasis-vs-cold-damp-pain.md)
+- [간울·담음성 흉민](differentials/liver-qi-vs-phlegm-chest.md)
+- [신음허·신양허](differentials/kidney-yin-vs-yang.md)
+- [기허·신허성 피로](differentials/qi-deficiency-vs-kidney-deficiency-fatigue.md)
+
+→ [임상 변증 감별 전체 보기](differentials/index.md)
+<!-- DIFFERENTIAL_NETWORK_16_END -->
+

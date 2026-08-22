@@ -34,3 +34,33 @@ last_reviewed: '2026-08-19'
 → [경옥고 구성·원료·제조 품질 가이드](../clinical-guides/gyeongokgo-composition-quality-guide.md)
 <!-- GYEONGOK_HERBS_INDEX_END -->
 
+
+
+## 임상 핵심 확장
+→ [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
+
+<!-- COMBO_HERB_14_START -->
+## 본초 배합으로 더 깊게 보기
+- [임상 핵심 본초 배합 지도 — 약대](../network/herb-pair-combinations.md)
+<!-- COMBO_HERB_14_END -->
+
+<!-- THREE_CORE_HERB_HUB_18_START -->
+## 임상 본초 지식망
+본초는 **병증 → 본초군 → 약대 → 대표 방제 → 임상 증상**으로 연결해 봅니다.
+
+### 영역별 핵심 본초
+- **보기·회복**: 인삼 · 황기 · 백출 · 복령 · 녹용
+- **보혈·기혈**: 당귀 · 백작약 · 숙지황 · 천궁
+- **소화·담음**: 반하 · 진피 · 후박 · 사인 · 복령
+- **안신·수면**: 산조인 · 원지 · 맥문동 · 오미자
+- **활혈·어혈**: 단삼 · 도인 · 홍화 · 당귀
+- **근골·풍습**: 두충 · 우슬 · 독활 · 강활 · 의이인
+- **간울**: 시호 · 백작약 · 진피
+- **신허·보익**: 숙지황 · 산수유 · 두충 · 녹용
+
+### 배합·변증·증상으로 더 깊게
+- [임상 핵심 본초 배합 지도 — 약대](../network/herb-pair-combinations.md)
+- [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
+- [임상 변증 감별 지도](../diagnostics/differentials/index.md)
+- [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
+<!-- THREE_CORE_HERB_HUB_18_END -->

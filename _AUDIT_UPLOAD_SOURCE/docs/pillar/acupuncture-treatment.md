@@ -1,4 +1,4 @@
----
+﻿---
 title: 침구·한의치료 허브
 description: 침·약침·전침·부항·뜸의 특징과 주요 경혈·질환·임상근거를 통합적으로 탐색합니다.
 tags: [Pillar, 한의학지식망, AEO]
@@ -22,3 +22,12 @@ last_reviewed: 2026-08-19
 
 → [한의치료 방법 지식망](../network/treatment-methods-map.md)
 → [임상 근거 허브](../research/clinical-evidence-hub.md)
+
+
+## 임상 핵심 확장
+→ [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
+
+<!-- COMBO_ACU_14_START -->
+## 배혈 조합으로 더 깊게 보기
+- [임상 핵심 배혈 조합 지도](../network/acupoint-combinations.md)
+<!-- COMBO_ACU_14_END -->

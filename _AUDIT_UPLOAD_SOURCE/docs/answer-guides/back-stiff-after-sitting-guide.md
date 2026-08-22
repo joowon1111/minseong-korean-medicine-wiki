@@ -1,4 +1,4 @@
----
+﻿---
 title: 오래 앉았다 일어나면 허리가 바로 안 펴지는 이유는 무엇인가요?
 description: 앉은 뒤 허리 신전 불편을 지속시간·자세·고관절·다리저림·아침강직과 함께 설명합니다.
 tags: [허리통증, 오래앉기, 허리뻣뻣함, 요통, 골반]
@@ -23,5 +23,6 @@ tags: [허리통증, 오래앉기, 허리뻣뻣함, 요통, 골반]
 ## 더 깊게 보기
 - [요통](../conditions/low-back-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
-- [하지저림](../conditions/leg-numbness.md)
+- [하지저림](../conditions/foot-numbness.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
+

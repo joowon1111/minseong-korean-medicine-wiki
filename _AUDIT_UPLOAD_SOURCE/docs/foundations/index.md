@@ -1,4 +1,4 @@
----
+﻿---
 title: 한의학 기초
 description: 음양·오행, 기혈진액, 장부와 경락의 핵심 개념을 연결합니다.
 tags: [한의학기초]
@@ -32,3 +32,11 @@ last_reviewed: 2026-08-19
 
 ## 고전 연결
 - [황제내경](../classics/huangdi-neijing.md)
+
+<!-- PATTERN_FOUNDATION_15_START -->
+## 기혈진액에서 임상 변증으로
+기·혈·진액의 기초 개념을 실제 임상 변증과 연결해 볼 수 있습니다.
+
+→ [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
+<!-- PATTERN_FOUNDATION_15_END -->
+

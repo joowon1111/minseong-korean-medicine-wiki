@@ -240,3 +240,28 @@ tags:
 세부 문서를 상단 메뉴에 모두 나열하지 않고 **핵심 색인 → 분야별 허브 → 세부 문서**로 연결합니다.
 
 <!-- ORPHAN_HUB_LINKS_END -->
+
+## 임상 핵심 본초·방제·경혈
+- [임상 핵심 통합 허브](clinical-core/index.md)
+
+<!-- PATTERN_AI_INDEX_15_START -->
+## 변증으로 찾기
+- [임상 핵심 변증 지도](diagnostics/patterns/index.md)
+- [기허](diagnostics/patterns/qi-deficiency.md) · [혈허](diagnostics/patterns/blood-deficiency.md) · [담음](diagnostics/patterns/phlegm-fluid.md) · [어혈](diagnostics/patterns/blood-stasis.md) · [간울](diagnostics/patterns/liver-qi-stagnation.md) · [신허](diagnostics/patterns/kidney-deficiency.md)
+<!-- PATTERN_AI_INDEX_15_END -->
+
+<!-- DIFFERENTIAL_AI_16_START -->
+## 변증 감별로 찾기
+- [기허·혈허·기혈양허](diagnostics/differentials/qi-vs-blood-vs-qi-blood.md)
+- [담음·식적](diagnostics/differentials/phlegm-vs-food-stagnation.md)
+- [어혈·한습성 통증](diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)
+- [신음허·신양허](diagnostics/differentials/kidney-yin-vs-yang.md)
+<!-- DIFFERENTIAL_AI_16_END -->
+
+<!-- THREE_CORE_AI_18_START -->
+## 임상 핵심 3대 지식망
+- [본초학 임상 지식망](herbs/index.md)
+- [방제학 임상 지식망](formulas/index.md)
+- [경혈 임상 지식망](acupoint-network/)
+- [본초·방제·경혈 통합 허브](clinical-core/index.md)
+<!-- THREE_CORE_AI_18_END -->

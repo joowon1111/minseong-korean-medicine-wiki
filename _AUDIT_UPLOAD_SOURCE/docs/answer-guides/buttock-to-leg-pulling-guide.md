@@ -1,4 +1,4 @@
----
+﻿---
 title: 엉덩이부터 다리까지 당기고 저리는 이유는 무엇인가요?
 description: 둔부에서 다리로 이어지는 통증·저림을 허리신경·이상근·자세·근력저하와 함께 설명합니다.
 tags: [좌골신경통, 엉덩이통증, 다리저림, 요통, 하지방사통]
@@ -21,7 +21,8 @@ tags: [좌골신경통, 엉덩이통증, 다리저림, 요통, 하지방사통]
 발목이나 발가락 힘이 떨어지거나 발이 끌리는 경우, 대소변 조절 변화, 회음부 감각저하, 양쪽 다리의 심한 신경증상이 생기면 빠른 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [하지저림](../conditions/leg-numbness.md)
+- [하지저림](../conditions/foot-numbness.md)
 - [요통](../conditions/low-back-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
+

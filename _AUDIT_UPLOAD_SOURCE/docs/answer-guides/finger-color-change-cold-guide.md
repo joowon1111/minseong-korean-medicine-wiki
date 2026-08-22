@@ -22,7 +22,7 @@ tags: [손가락색변화, 레이노현상, 수족냉증, 손발냉증, 혈관]
 
 ## 더 깊게 보기
 - [자율신경](../autonomic/index.md)
-- [손저림](../conditions/hand-numbness.md)
+- [손저림](../conditions/arm-numbness.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 
@@ -42,4 +42,5 @@ tags: [손가락색변화, 레이노현상, 수족냉증, 손발냉증, 혈관]
 > **검색 포인트:** 냉증·순환·저림 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

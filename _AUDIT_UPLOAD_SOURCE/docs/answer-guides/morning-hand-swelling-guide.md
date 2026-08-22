@@ -1,4 +1,4 @@
----
+﻿---
 title: 아침마다 손이 붓고 뻣뻣한 이유는 무엇인가요?
 description: 아침 손 부종·뻣뻣함을 지속시간·관절통·저림·수면자세·염증성 위험신호와 함께 설명합니다.
 tags: [손붓기, 아침손부종, 손뻣뻣함, 관절통, 손저림]
@@ -21,7 +21,8 @@ tags: [손붓기, 아침손부종, 손뻣뻣함, 관절통, 손저림]
 여러 관절이 지속적으로 붓고 뜨겁거나, 아침 뻣뻣함이 오래 지속되고 점점 심해지는 경우, 근력저하가 동반되면 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [손저림](../conditions/hand-numbness.md)
+- [손저림](../conditions/arm-numbness.md)
 - [부종](../conditions/edema.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 무릎에서 소리가 나는데 아프지 않으면 괜찮은가요?
 description: 무릎 소리를 통증·부종·잠김·불안정성·운동패턴과 함께 설명합니다.
 tags: [무릎소리, 무릎딱딱, 슬관절, 관절소리, 무릎통증]
@@ -24,4 +24,5 @@ tags: [무릎소리, 무릎딱딱, 슬관절, 관절소리, 무릎통증]
 - [무릎통증](../conditions/knee-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
-- [하지저림](../conditions/leg-numbness.md)
+- [하지저림](../conditions/foot-numbness.md)
+

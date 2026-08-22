@@ -24,7 +24,7 @@ tags: [교통사고불면, 교통사고두근거림, 자율신경, 사고후불�
 - [교통사고 후유증](../conditions/traffic-accident-sequelae.md)
 - [불면](../conditions/insomnia.md)
 - [자율신경](../autonomic/index.md)
-- [두근거림](../conditions/palpitations.md)
+- [두근거림](../conditions/palpitation.md)
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_START -->
 
@@ -42,4 +42,5 @@ tags: [교통사고불면, 교통사고두근거림, 자율신경, 사고후불�
 > **검색 포인트:** 교통사고 후유증 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

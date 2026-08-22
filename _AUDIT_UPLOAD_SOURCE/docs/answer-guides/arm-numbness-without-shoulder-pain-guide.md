@@ -21,7 +21,7 @@ tags: [팔저림, 손저림, 목디스크, 경추, 신경압박]
 팔이나 손의 근력이 점점 떨어지거나 물건을 자주 떨어뜨리는 경우, 양손 저림과 보행이상이 함께 생기는 경우에는 신경학적 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [손저림](../conditions/hand-numbness.md)
+- [손저림](../conditions/arm-numbness.md)
 - [경항통](../conditions/neck-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
@@ -42,4 +42,5 @@ tags: [팔저림, 손저림, 목디스크, 경추, 신경압박]
 > **검색 포인트:** 목·어깨·상지 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 
