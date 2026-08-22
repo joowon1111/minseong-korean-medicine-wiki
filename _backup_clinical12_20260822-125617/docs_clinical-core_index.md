@@ -1,4 +1,4 @@
-﻿---
+---
 title: 임상 핵심 본초·방제·경혈
 description: 기존 본초학·방제학·침구치료 구조 안에서 임상 핵심 본초, 처방과 경혈을 함께 탐색합니다.
 tags: [임상한의학, 본초, 방제, 경혈]
@@ -29,19 +29,3 @@ tags: [임상한의학, 본초, 방제, 경혈]
 - [증상·질환](../conditions/index.md)
 - [질문으로 찾기](../answer-guides/index.md)
 - [현대 임상근거](../pillar/clinical-evidence.md)
-
-<!-- CLINICAL_CORE_PHASE2_START -->
-## 2차 임상 확장
-
-### 활혈·통증 본초
-도인 · 홍화 · 단삼 · 강활 · 독활 · 방풍 · 천마 · 구등
-
-### 소화·호흡기·여성·신허 방제
-소경활혈탕 · 당귀수산 · 계지복령환 · 당귀작약산 · 삼소음 · 곽향정기산 · 삼령백출산 · 보화환 · 시호가용골모려탕 · 팔미지황환
-
-### 추가 경혈
-승산 · 곤륜 · 대장수 · 기해 · 인당 · 견정 · 견우 · 천주 · 내정 · 조해 · 대릉 · 소해
-
-각 문서는 기존 [본초학](../herbs/index.md), [방제학](../formulas/index.md), [경혈·경락](../acupuncture/index.md), [침구·한의치료 허브](../pillar/acupuncture-treatment.md)와 상호 연결됩니다.
-<!-- CLINICAL_CORE_PHASE2_END -->
-
