@@ -693,10 +693,3 @@ taut band 안의 trigger point.
 
 **약침 이름 하나가 치료를 결정하는 것이 아니라, 환자의 병증과 해부학적 치료목표가 약침치료 전체를 결정합니다.**
 
-
-
-<!-- MS51_PHARM_START -->
-## 약침 무작위 임상근거
-만성 경항통 *Journal of Clinical Medicine* 2021(PMID `35011752`)과 만성 요통 *Journal of Pain Research* 2023(PMID `37554434`) pragmatic RCT에서 통증·기능 관련 긍정적 결과가 보고되었습니다. 제제·농도·주입량·시술부위는 연구별로 함께 확인합니다.
-<!-- MS51_PHARM_END -->
-

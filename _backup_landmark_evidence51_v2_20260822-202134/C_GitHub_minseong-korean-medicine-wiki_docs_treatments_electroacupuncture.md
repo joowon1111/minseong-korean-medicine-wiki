@@ -1,4 +1,4 @@
-﻿---
+---
 title: 전침
 description: 전침의 원리, 조절 가능한 전기 자극과 통증 관련 현대 임상연구를 정리합니다.
 tags: [전침, 침구학, 통증]
@@ -35,10 +35,3 @@ last_reviewed: 2026-08-19
 ## 참고문헌
 1. Kong JT, et al. *Effect of Electroacupuncture vs Sham Treatment on Change in Pain Severity Among Adults With Chronic Low Back Pain.* JAMA Netw Open. 2020. PMID **33107921**.
 2. Ngo OTK, et al. *Electroacupuncture at Traditional Acupoints or Myofascial Trigger Points for Chronic Nonspecific Low Back Pain.* 2024. PMID **39741759**.
-
-
-<!-- MS51_EA_START -->
-## 대표 고영향력 전침 연구
-*Annals of Internal Medicine* 2016 중증 기능성 변비 1,075명 RCT(PMID `27618593`)와 *JAMA* 2017 복압성 요실금 504명 RCT(PMID `28655016`)는 전침의 대표적인 대규모 임상시험입니다.
-<!-- MS51_EA_END -->
-

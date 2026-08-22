@@ -1,0 +1,9 @@
+﻿FAILED
+Could not identify canonical references.md
+위치 C:\GitHub\minseong-korean-medicine-wiki\APPLY_LANDMARK_CLINICAL_EVIDENCE_51_FIXED.ps1:28 문자:15
++  if(!$refRel){throw "Could not identify canonical references.md"}
++               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (Could not ident...l references.md:String) [], RuntimeException
+    + FullyQualifiedErrorId : Could not identify canonical references.md
+ 
+

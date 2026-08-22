@@ -1,4 +1,4 @@
-﻿---
+---
 title: 한약 현대 근거 통합 지도
 description: 전통 출전·본초·방제 구조와 전임상·임상연구를 연결해 한약 근거를 읽습니다.
 status: 검토완료
@@ -26,11 +26,4 @@ last_reviewed: 2026-08-22
 → [본초학](../herbs/index.md)  
 → [방제학](../formulas/index.md)  
 → [고전→현대 연구](../network/classic-to-evidence-map.md)
-
-
-
-<!-- MS51_HERB_START -->
-## 고영향력 한약 임상연구
-*JAMA* 1998 과민성장증후군 이중맹검 RCT(PMID `9820260`)에서는 복합 한약군의 장 증상과 전반적 개선 지표가 placebo보다 유의하게 개선되었습니다. landmark 사례로 보되 다른 처방에 그대로 일반화하지 않습니다.
-<!-- MS51_HERB_END -->
 
