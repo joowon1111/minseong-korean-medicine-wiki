@@ -66,13 +66,3 @@ tags: [임상한의학, 본초, 방제, 경혈]
 → [임상 변증 감별 지도](../diagnostics/differentials/index.md)
 <!-- DIFFERENTIAL_CLINICAL_CORE_16_END -->
 
-<!-- THREE_CORE_BALANCE_18_START -->
-## 본초·방제·경혈 3대 임상 허브
-| 시작점 | 연결 |
-|---|---|
-| **본초** | [본초학 임상 지식망](../herbs/index.md) |
-| **방제** | [방제학 임상 지식망](../formulas/index.md) |
-| **경혈** | [경혈 임상 지식망](../acupoint-network/) |
-
-세 축은 **환자 질문 → 증상 → 변증 → 본초·방제·경혈 → 치료 → 연구** 흐름으로 서로 연결됩니다.
-<!-- THREE_CORE_BALANCE_18_END -->

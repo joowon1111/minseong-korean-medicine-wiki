@@ -258,10 +258,3 @@ tags:
 - [신음허·신양허](diagnostics/differentials/kidney-yin-vs-yang.md)
 <!-- DIFFERENTIAL_AI_16_END -->
 
-<!-- THREE_CORE_AI_18_START -->
-## 임상 핵심 3대 지식망
-- [본초학 임상 지식망](herbs/index.md)
-- [방제학 임상 지식망](formulas/index.md)
-- [경혈 임상 지식망](acupoint-network/)
-- [본초·방제·경혈 통합 허브](clinical-core/index.md)
-<!-- THREE_CORE_AI_18_END -->
