@@ -1,4 +1,4 @@
----
+﻿---
 title: 과호흡·숨이 답답하고 손발저림
 description: 과호흡·숨이 답답하고 손발저림을 환자 생활언어에서 자율신경·수면·피로·한의치료까지 연결합니다.
 tags: [자율신경, 수면, 피로, 스트레스, 환자검색]
@@ -43,7 +43,7 @@ last_reviewed: 2026-08-21
 
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
 - [수면·피로](../symptom-integrated/sleep-fatigue.md)
-- [불면증·수면장애](insomnia.md)
+- [불면증·수면장애](/authority/conditions/insomnia/)
 - [만성피로](chronic-fatigue.md)
 - [두근거림·심계](palpitation.md)
 - [소화불량](dyspepsia.md)
@@ -51,3 +51,4 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 과호흡 · 숨이 답답하고 손발이 저려요 · 긴장하면 숨을 못 쉬겠어요 · 숨이 가쁘고 어지러워요 · 과호흡 한의원
+

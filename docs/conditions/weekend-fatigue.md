@@ -1,4 +1,4 @@
----
+﻿---
 title: 주말에 늘어지는 피로·회복부족
 description: 주말에 늘어지는 피로·회복부족을 환자 생활언어에서 자율신경·수면·피로·한의치료까지 연결합니다.
 tags: [자율신경, 수면, 피로, 스트레스, 환자검색]
@@ -43,7 +43,7 @@ last_reviewed: 2026-08-21
 
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
 - [수면·피로](../symptom-integrated/sleep-fatigue.md)
-- [불면증·수면장애](insomnia.md)
+- [불면증·수면장애](/authority/conditions/insomnia/)
 - [만성피로](chronic-fatigue.md)
 - [두근거림·심계](palpitation.md)
 - [소화불량](dyspepsia.md)
@@ -51,3 +51,4 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 주말만 되면 너무 피곤해요 · 쉬는 날 하루종일 자요 · 주말에 기운이 없어요 · 평일 피로가 주말에 몰려와요 · 과로 후 회복 한약
+

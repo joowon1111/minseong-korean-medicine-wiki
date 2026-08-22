@@ -31,7 +31,7 @@ last_reviewed: 2026-08-19
 - [기력회복·허약](energy-recovery.md)
 - [맞춤한약](custom-herbal-medicine.md)
 - [녹용보약](deer-antler-tonic-guide.md)
-- [불면](insomnia.md)
+- [불면](/authority/conditions/insomnia/)
 - [소화불량](dyspepsia.md)
 - [피로·기력저하 한약 처방 찾기](../herbal-integrated/formula-for-fatigue.md)
 
@@ -48,3 +48,4 @@ last_reviewed: 2026-08-19
 
 따라서 '피로' 전체를 하나의 근거로 묶지 않고 **만성피로증후군·MS·감염후 피로 등 원인과 대상군을 구분**해 해석합니다.
 <!-- MS55_FATIGUE_END -->
+

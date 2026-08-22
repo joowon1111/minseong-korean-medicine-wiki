@@ -1,4 +1,4 @@
----
+﻿---
 title: 새벽각성·새벽에 자꾸 깨요
 description: 새벽각성·새벽에 자꾸 깨요을 환자 생활언어에서 자율신경·수면·피로·한의치료까지 연결합니다.
 tags: [자율신경, 수면, 피로, 스트레스, 환자검색]
@@ -42,7 +42,7 @@ last_reviewed: 2026-08-21
 
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
 - [수면·피로](../symptom-integrated/sleep-fatigue.md)
-- [불면증·수면장애](insomnia.md)
+- [불면증·수면장애](/authority/conditions/insomnia/)
 - [만성피로](chronic-fatigue.md)
 - [두근거림·심계](palpitation.md)
 - [소화불량](dyspepsia.md)
@@ -50,3 +50,4 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 새벽에 자꾸 깨요 · 새벽 3시에 깨요 · 새벽에 깨면 다시 못 자요 · 조기각성 · 새벽각성 한약
+

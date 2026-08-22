@@ -1,4 +1,4 @@
----
+﻿---
 title: 아침피로·자고 일어나도 피곤
 description: 아침피로·자고 일어나도 피곤을 환자 생활언어에서 자율신경·수면·피로·한의치료까지 연결합니다.
 tags: [자율신경, 수면, 피로, 스트레스, 환자검색]
@@ -41,7 +41,7 @@ last_reviewed: 2026-08-21
 
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
 - [수면·피로](../symptom-integrated/sleep-fatigue.md)
-- [불면증·수면장애](insomnia.md)
+- [불면증·수면장애](/authority/conditions/insomnia/)
 - [만성피로](chronic-fatigue.md)
 - [두근거림·심계](palpitation.md)
 - [소화불량](dyspepsia.md)
@@ -49,3 +49,4 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 아침부터 피곤해요 · 자고 일어나도 피곤해요 · 아침에 몸이 무거워요 · 잠을 자도 개운하지 않아요 · 아침피로 한약
+

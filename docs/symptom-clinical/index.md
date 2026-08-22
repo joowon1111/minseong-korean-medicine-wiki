@@ -24,5 +24,6 @@ description: 증상·질환 임상 심화 — 민성 한의학 아카이브의 �
 재평가
 ```
 
-핵심 증상: [요통](low-back-pain.md) · [어깨통증](shoulder-pain.md) · [두통](headache.md) · [불면](insomnia.md) · [소화불량](dyspepsia.md) · [비염](rhinitis.md) · [피로](fatigue.md)
+핵심 증상: [요통](low-back-pain.md) · [어깨통증](shoulder-pain.md) · [두통](headache.md) · [불면](/authority/conditions/insomnia/) · [소화불량](dyspepsia.md) · [비염](rhinitis.md) · [피로](/authority/conditions/fatigue/)
+
 

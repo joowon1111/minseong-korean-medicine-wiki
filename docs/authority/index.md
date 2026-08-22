@@ -1,4 +1,4 @@
----
+﻿---
 title: 출처·근거 허브
 description: 대표 한의학 본초·방제·침구·질환 문서의 고전적 맥락과 현대 연구 식별자를 표준 형식으로 정리합니다.
 tags: [출처, 임상근거, PMID, DOI]
@@ -16,7 +16,7 @@ last_reviewed: 2026-08-19
 - [독활기생탕](duhuo-jisheng-tang.md)
 - [침 치료](acupuncture.md)
 - [약침](pharmacopuncture.md)
-- [불면](insomnia.md)
+- [불면](/authority/conditions/insomnia/)
 - [요통](low-back-pain.md)
 
 ## 표준
@@ -33,3 +33,4 @@ PMID · DOI
 ```
 
 → [전체 참고문헌 데이터베이스](../research/references/index.md)
+

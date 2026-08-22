@@ -58,7 +58,7 @@ last_reviewed: '2026-08-19'
 - [소아 두통·아이 머리아픔](child-headache.md)
 - [안면통증·얼굴통증](facial-pain.md)
 - [발저림·발바닥 저림](foot-numbness.md)
-- [오십견·어깨가 안 올라가요](frozen-shoulder.md)
+- [오십견·어깨가 안 올라가요](/authority/conditions/frozen-shoulder/)
 - [골프엘보·팔꿈치 안쪽 통증](golfer-elbow.md)
 - [성장통·아이 다리통증](growing-pains.md)
 - [뒤꿈치 통증·걸을 때 발뒤꿈치 아픔](heel-pain.md)
@@ -174,7 +174,7 @@ last_reviewed: '2026-08-19'
 ### 남성·배뇨·골반
 
 - [야간뇨·밤에 소변 때문에 깨요](nocturia.md)
-- [과민성방광·급하게 소변 마려움](overactive-bladder.md)
+- [과민성방광·급하게 소변 마려움](/authority/conditions/overactive-bladder/)
 - [남성 골반저근 긴장·회음부 불편](pelvic-floor-tension-men.md)
 - [잔뇨감·소변이 시원하지 않아요](residual-urine.md)
 - [소변줄기 약함·배뇨지연](weak-urine-stream.md)
@@ -277,4 +277,5 @@ last_reviewed: '2026-08-19'
 - [온몸이 쑤셔요·전신근육통](whole-body-ache.md)
 
 <!-- ORPHAN_CONDITIONS_HUB_END -->
+
 
