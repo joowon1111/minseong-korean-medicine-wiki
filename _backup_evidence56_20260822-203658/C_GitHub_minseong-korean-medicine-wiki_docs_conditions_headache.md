@@ -1,4 +1,4 @@
-﻿---
+---
 title: 두통
 description: 두통을 위험신호·감별·변증·본초·방제·경맥·경혈·현대 연구로 연결합니다.
 status: 검토완료
@@ -27,13 +27,3 @@ last_reviewed: 2026-08-22
 
 → [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
 → [현대 임상근거](../pillar/clinical-evidence.md)
-
-
-<!-- MS56_HEADACHE_START -->
-## 편두통 근거 심화 연결
-
-두통 페이지에서는 긴장형두통과 편두통을 구분합니다. 편두통은 최근 23개 RCT·2,295명 meta-analysis(PMID `41219786`)에서 발작 횟수·편두통 일수·지속시간과 삶의 질의 개선이 보고됐고, 19개 RCT·2,296명 약물 비교 meta-analysis(PMID `40406034`)에서도 예방치료의 긍정적인 결과가 제시됐습니다.
-
-→ 편두통 세부 문서가 있다면 해당 문서의 최신 근거를 우선 봅니다.
-<!-- MS56_HEADACHE_END -->
-

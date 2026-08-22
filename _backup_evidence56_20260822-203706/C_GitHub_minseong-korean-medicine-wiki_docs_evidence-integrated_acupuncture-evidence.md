@@ -42,4 +42,3 @@ Vickers 등의 2012년 17,922명 IPD meta-analysis(PMID `22965186`)와 2018년 2
 
 개별 질환 페이지에서는 이런 umbrella 수준의 전체 지형보다 **해당 질환의 landmark RCT + 최신 systematic review/meta-analysis**를 우선 연결합니다.
 <!-- MS56_ACU_STATE_END -->
-

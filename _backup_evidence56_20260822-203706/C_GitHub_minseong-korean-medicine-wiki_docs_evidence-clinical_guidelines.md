@@ -34,4 +34,3 @@ description: 임상진료지침 읽기 — 민성 한의학 아카이브의 관�
 
 임상진료지침은 개별 RCT와 다른 층위의 근거이므로, 위키에서는 **landmark RCT → systematic review/meta-analysis → guideline** 순으로 연결해 실제 임상 의사결정의 맥락을 보여줍니다.
 <!-- MS56_GUIDELINE_END -->
-

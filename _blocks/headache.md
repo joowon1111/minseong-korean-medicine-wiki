@@ -1,7 +1,7 @@
-<!-- MS53_HEAD_START -->
-## 최신 침구 종합근거
+<!-- MS56_HEADACHE_START -->
+## 편두통 근거 심화 연결
 
-2024 tension-type headache systematic review/network meta-analysis는 여러 침 관련 치료의 무작위시험을 종합해 **두통 빈도·지속시간·통증강도·반응률**을 비교했습니다. PMID `39703352`.
+두통 페이지에서는 긴장형두통과 편두통을 구분합니다. 편두통은 최근 23개 RCT·2,295명 meta-analysis(PMID `41219786`)에서 발작 횟수·편두통 일수·지속시간과 삶의 질의 개선이 보고됐고, 19개 RCT·2,296명 약물 비교 meta-analysis(PMID `40406034`)에서도 예방치료의 긍정적인 결과가 제시됐습니다.
 
-편두통에서는 2017 *JAMA Internal Medicine* RCT(PMID `28241154`)처럼 sham·대기군과 비교한 landmark 연구도 함께 봅니다. 따라서 두통 근거는 **긴장형두통과 편두통을 구분**해 연결합니다.
-<!-- MS53_HEAD_END -->
+→ 편두통 세부 문서가 있다면 해당 문서의 최신 근거를 우선 봅니다.
+<!-- MS56_HEADACHE_END -->

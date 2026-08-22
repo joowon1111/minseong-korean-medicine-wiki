@@ -45,4 +45,3 @@ last_reviewed: 2026-08-19
 
 이 근거는 2017 *JAMA Internal Medicine* 예방 RCT(PMID `28241154`)와 함께 **예방치료와 급성기 치료를 구분**해서 읽습니다.
 <!-- MS56_MIGRAINE_END -->
-

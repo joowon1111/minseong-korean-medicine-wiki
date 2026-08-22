@@ -33,13 +33,3 @@ description: 침구 연구 — 민성 한의학 아카이브의 관련 전문 �
 Vickers 등의 2012년 17,922명 IPD meta-analysis(PMID `22965186`)와 2018년 20,827명 업데이트(PMID `29198932`)는 만성통증 침 연구의 핵심 landmark입니다. 무릎 골관절염·만성요통·알레르기비염·편두통 등에서도 대규모 RCT가 축적되어 있습니다.
 <!-- MS51_ACU_END -->
 
-
-
-<!-- MS56_ACU_STATE_START -->
-## 침 근거 전체 지형
-
-2025 review of systematic reviews/meta-analyses는 2017–2022년에 발표된 침 근거를 다시 검토해 **침 연구가 축적된 질환군과 근거의 질적 분포**를 업데이트했습니다. PMID `40021024`.
-
-개별 질환 페이지에서는 이런 umbrella 수준의 전체 지형보다 **해당 질환의 landmark RCT + 최신 systematic review/meta-analysis**를 우선 연결합니다.
-<!-- MS56_ACU_STATE_END -->
-
