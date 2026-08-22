@@ -1,4 +1,4 @@
----
+﻿---
 title: 생리 끝나고 너무 피곤한 이유는 무엇인가요?
 description: 생리 후 피로를 월경량·철결핍 가능성·수면·통증·식사·회복속도와 함께 살펴봅니다.
 tags: [생리후피로, 월경후피로, 여성피로, 빈혈, 여성한약]
@@ -22,6 +22,7 @@ tags: [생리후피로, 월경후피로, 여성피로, 빈혈, 여성한약]
 
 ## 더 깊게 보기
 - [만성피로](../conditions/chronic-fatigue.md)
-- [여성 생애주기](../conditions/womens-lifecycle.md)
+- [여성 생애주기](../answer-guides/women-lifecycle-guide.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
+

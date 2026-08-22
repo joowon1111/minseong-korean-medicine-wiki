@@ -1,4 +1,4 @@
----
+﻿---
 title: 생리통이 예전보다 점점 심해지는 이유는 무엇인가요?
 description: 점점 심해지는 생리통을 통증시점·출혈양상·진통제반응·성교통·배변통·위험신호와 함께 설명합니다.
 tags: [생리통, 월경통, 골반통, 여성건강, 여성한약]
@@ -22,6 +22,7 @@ tags: [생리통, 월경통, 골반통, 여성건강, 여성한약]
 
 ## 더 깊게 보기
 - [생리통](../conditions/dysmenorrhea.md)
-- [여성 생애주기](../conditions/womens-lifecycle.md)
+- [여성 생애주기](../answer-guides/women-lifecycle-guide.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [어혈](../diagnostics/blood-stasis.md)
+

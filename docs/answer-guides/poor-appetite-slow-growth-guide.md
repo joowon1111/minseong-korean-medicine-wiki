@@ -1,4 +1,4 @@
----
+﻿---
 title: 아이가 밥을 잘 안 먹고 키도 잘 안 크면 어떻게 봐야 하나요?
 description: 식욕부진과 성장 걱정을 식사량·체중·소화증상·배변·성장속도와 연결해 설명합니다.
 tags: [아이식욕부진, 성장부진, 밥안먹는아이, 소아성장, 소아보약]
@@ -21,7 +21,8 @@ tags: [아이식욕부진, 성장부진, 밥안먹는아이, 소아성장, 소�
 체중 감소, 반복 구토, 지속되는 설사나 심한 복통, 삼키기 어려움, 성장속도의 뚜렷한 저하가 있다면 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [식욕부진](../conditions/anorexia.md)
+- [식욕부진](../conditions/poor-appetite-adult.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [소아보약](../conditions/pediatric-tonic.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

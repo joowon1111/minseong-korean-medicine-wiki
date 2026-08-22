@@ -1,4 +1,4 @@
----
+﻿---
 title: 목 앞쪽이 답답하고 조이는 느낌이 드는 이유는 무엇인가요?
 description: 목 앞쪽 조임을 삼킴·호흡·목이물감·역류·근육긴장·갑상선 관련 위험신호와 함께 설명합니다.
 tags: [목조임, 목이물감, 목답답함, 매핵기, 자율신경]
@@ -21,7 +21,9 @@ tags: [목조임, 목이물감, 목답답함, 매핵기, 자율신경]
 실제로 숨쉬기 어렵거나 침도 삼키기 힘든 경우, 목이 빠르게 붓는 경우, 지속적인 쉰목소리·체중감소·목의 뚜렷한 종괴가 있으면 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [목이물감](../conditions/globus-sensation.md)
+- [목이물감](../conditions/globus.md)
 - [소화불량](../conditions/dyspepsia.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [경항통](../conditions/neck-pain.md)
+
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 아이가 또래보다 키가 작으면 무엇을 먼저 확인해야 하나요?
 description: 또래보다 작은 아이의 키를 성장속도·부모키·체중·사춘기 시기·전신상태와 함께 살펴봅니다.
 tags: [아이키, 성장부진, 소아성장, 성장속도, 소아보약]
@@ -22,6 +22,7 @@ tags: [아이키, 성장부진, 소아성장, 성장속도, 소아보약]
 
 ## 더 깊게 보기
 - [소아보약](../conditions/pediatric-tonic.md)
-- [식욕부진](../conditions/anorexia.md)
+- [식욕부진](../conditions/poor-appetite-adult.md)
 - [비염](../conditions/rhinitis.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

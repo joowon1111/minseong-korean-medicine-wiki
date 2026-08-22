@@ -1,4 +1,4 @@
----
+﻿---
 title: 앉았다 일어날 때 어지러운 이유는 무엇인가요?
 description: 기립 시 어지럼을 지속시간·혈압·수분섭취·식사·빈혈 가능성·약물과 함께 설명합니다.
 tags: [어지럼, 기립성어지럼, 기립성저혈압, 자율신경, 피로]
@@ -21,7 +21,8 @@ tags: [어지럼, 기립성어지럼, 기립성저혈압, 자율신경, 피로]
 실신, 흉통, 심한 호흡곤란, 한쪽 마비·말 어눌함·새로운 심한 두통이 동반되면 즉시 진료가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
+

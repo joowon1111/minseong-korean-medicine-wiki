@@ -1,4 +1,4 @@
----
+﻿---
 title: 아랫배나 회음부가 묵직하고 불편한 이유는 무엇인가요?
 description: 남성의 하복부·회음부 불편을 배뇨·배변·오래 앉기·운동·성생활·골반저 긴장과 함께 설명합니다.
 tags: [회음부통증, 아랫배묵직, 골반통, 전립선, 만성골반통]
@@ -22,6 +22,8 @@ tags: [회음부통증, 아랫배묵직, 골반통, 전립선, 만성골반통]
 
 ## 더 깊게 보기
 - [골반통](../conditions/pelvic-pain.md)
-- [전립선·배뇨](../conditions/prostate-urinary.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [전립선·배뇨](../conditions/prostate-urinary-symptoms.md)
+- [자율신경](../autonomic/index.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+
+

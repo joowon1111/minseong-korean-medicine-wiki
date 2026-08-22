@@ -1,4 +1,4 @@
----
+﻿---
 title: 머리가 멍하고 집중이 잘 안 되는 이유는 무엇인가요?
 description: 브레인포그와 집중저하를 수면·피로·스트레스·식사·약물·전신상태와 함께 설명합니다.
 tags: [브레인포그, 집중력저하, 머리멍함, 만성피로, 자율신경]
@@ -22,6 +22,7 @@ tags: [브레인포그, 집중력저하, 머리멍함, 만성피로, 자율신�
 
 ## 더 깊게 보기
 - [만성피로](../conditions/chronic-fatigue.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [수면·신경계 허브](../pillar/sleep-neuro.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 밤에 소변 때문에 자꾸 깨는 이유는 무엇인가요?
 description: 야간뇨를 횟수·저녁 수분·수면·배뇨증상·부종·전신상태와 함께 설명합니다.
 tags: [야간뇨, 밤에소변, 전립선, 수면, 남성건강]
@@ -21,7 +21,8 @@ tags: [야간뇨, 밤에소변, 전립선, 수면, 남성건강]
 혈뇨, 발열과 배뇨통, 소변이 전혀 나오지 않는 경우, 심한 갈증·체중변화 또는 갑작스러운 배뇨 변화가 있으면 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [전립선·배뇨](../conditions/prostate-urinary.md)
+- [전립선·배뇨](../conditions/prostate-urinary-symptoms.md)
 - [불면](../conditions/insomnia.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
+

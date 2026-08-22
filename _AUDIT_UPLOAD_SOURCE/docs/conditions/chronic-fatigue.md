@@ -1,0 +1,37 @@
+﻿---
+title: 만성피로
+description: 만성피로의 감별, 한의학적 변증, 녹용·인삼 및 관련 방제와의 연결을 정리합니다.
+tags: [질환증상, 만성피로, 피로]
+status: 검토완료
+last_reviewed: 2026-08-19
+---
+# 만성피로
+
+## 개요
+피로는 매우 흔하지만 비특이적인 증상이다. 지속되는 피로에는 수면 문제, 빈혈, 내분비·대사질환, 감염, 약물, 정신건강 문제 등 다양한 원인이 관여할 수 있다.
+
+## 평가 원칙
+새롭게 발생했거나 심해지는 피로, 체중감소, 발열, 출혈, 호흡곤란 등 경고 증상이 있으면 원인 평가가 우선한다. 만성피로증후군/ME-CFS는 일반적인 '오래된 피로'와 동일하지 않다.
+
+## 한의학적 접근
+기허, 혈허, 비허, 신허 등 다양한 변증 틀로 해석할 수 있으며 한 가지 처방을 모든 피로에 적용하지 않는다.
+
+## 관련 본초
+- [녹용](../herbs/cervi-parvum-cornu.md)
+- [인삼](../herbs/ginseng.md)
+- [황기](../herbs/astragalus.md)
+
+## 관련 방제
+- [보중익기탕](../formulas/buzhong-yiqi-tang.md)
+- [귀비탕](../formulas/guibi-tang.md)
+
+<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
+## 함께 보면 좋은 핵심 문서
+
+- [기력회복·허약](energy-recovery.md)
+- [맞춤한약](custom-herbal-medicine.md)
+- [녹용보약](deer-antler-tonic-guide.md)
+- [불면](insomnia.md)
+- [소화불량](dyspepsia.md)
+- [피로·기력저하 한약 처방 찾기](../herbal-integrated/formula-for-fatigue.md)
+

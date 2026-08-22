@@ -1,4 +1,4 @@
----
+﻿---
 title: 교통사고 후 두통과 어지럼이 계속되면 무엇을 확인해야 하나요?
 description: 사고 후 지속되는 두통·어지럼을 머리충격·목긴장·신경학적 증상·수면·회복경과와 함께 설명합니다.
 tags: [교통사고후두통, 교통사고어지럼, 교통사고후유증, 두통, 어지럼]
@@ -23,5 +23,6 @@ tags: [교통사고후두통, 교통사고어지럼, 교통사고후유증, 두�
 ## 더 깊게 보기
 - [교통사고 후유증](../conditions/traffic-accident-sequelae.md)
 - [두통](../conditions/headache.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [경항통](../conditions/neck-pain.md)
+

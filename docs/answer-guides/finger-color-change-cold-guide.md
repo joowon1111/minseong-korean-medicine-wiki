@@ -1,4 +1,4 @@
----
+﻿---
 title: 추우면 손가락 색이 하얗거나 파랗게 변하는 이유는 무엇인가요?
 description: 추위에 따른 손가락 색 변화를 레이노 현상 가능성·대칭성·통증·상처·자가면역 위험신호와 함께 설명합니다.
 tags: [손가락색변화, 레이노현상, 수족냉증, 손발냉증, 혈관]
@@ -21,7 +21,8 @@ tags: [손가락색변화, 레이노현상, 수족냉증, 손발냉증, 혈관]
 한쪽에서만 심하게 나타나거나 손끝에 상처·궤양이 생기는 경우, 관절통·피부 변화 등 다른 전신증상이 함께 있는 경우에는 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [손저림](../conditions/hand-numbness.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

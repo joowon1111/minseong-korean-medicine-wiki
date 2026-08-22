@@ -1,4 +1,4 @@
----
+﻿---
 title: 손발이 항상 차가운 이유는 무엇인가요?
 description: 지속적인 손발 냉감을 체온환경·빈혈 가능성·갑상선·혈류·자율신경·전신상태와 함께 설명합니다.
 tags: [손발냉증, 수족냉증, 냉증, 혈액순환, 자율신경]
@@ -21,7 +21,8 @@ tags: [손발냉증, 수족냉증, 냉증, 혈액순환, 자율신경]
 한쪽 팔다리가 갑자기 차갑고 창백하거나 푸르게 변하면서 심한 통증·감각저하·근력저하가 생기면 혈류 문제 가능성이 있어 즉시 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 아이 보약은 언제 먹이는 게 좋은가요?
 description: 소아보약을 특정 계절이나 나이만으로 정하지 않고 식욕·피로·잔병치레·회복속도·성장상태로 설명합니다.
 tags: [아이보약, 소아보약, 성장보약, 허약아, 소아한약]
@@ -23,5 +23,6 @@ tags: [아이보약, 소아보약, 성장보약, 허약아, 소아한약]
 ## 더 깊게 보기
 - [소아보약](../conditions/pediatric-tonic.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
-- [식욕부진](../conditions/anorexia.md)
+- [식욕부진](../conditions/poor-appetite-adult.md)
 - [만성피로](../conditions/chronic-fatigue.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 생리 전에 두통과 붓기가 심해지는 이유는 무엇인가요?
 description: 생리 전 두통·부종을 주기성·수면·염분·스트레스·월경양상과 함께 살펴봅니다.
 tags: [생리전두통, 생리전붓기, PMS, 월경전증후군, 여성한약]
@@ -21,7 +21,8 @@ tags: [생리전두통, 생리전붓기, PMS, 월경전증후군, 여성한약]
 갑자기 매우 심한 두통이 생기거나 시야이상·마비·말이 어눌해지는 신경학적 증상이 동반되는 경우, 한쪽 다리만 심하게 붓고 통증이 있는 경우에는 즉시 진료가 필요합니다.
 
 ## 더 깊게 보기
-- [여성 생애주기](../conditions/womens-lifecycle.md)
+- [여성 생애주기](../answer-guides/women-lifecycle-guide.md)
 - [두통](../conditions/headache.md)
 - [부종](../conditions/edema.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

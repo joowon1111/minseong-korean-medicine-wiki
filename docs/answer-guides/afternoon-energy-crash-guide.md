@@ -1,4 +1,4 @@
----
+﻿---
 title: 오후만 되면 기운이 뚝 떨어지는 이유는 무엇인가요?
 description: 오후 체력저하를 식사·카페인·수면·업무패턴·소화·혈당 관련 가능성과 함께 설명합니다.
 tags: [오후피로, 식후피로, 만성피로, 기력저하, 자율신경]
@@ -23,5 +23,6 @@ tags: [오후피로, 식후피로, 만성피로, 기력저하, 자율신경]
 ## 더 깊게 보기
 - [만성피로](../conditions/chronic-fatigue.md)
 - [소화불량](../conditions/dyspepsia.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [장·비위와 전신 회복](../immune-allergy/gut-recovery.md)
+

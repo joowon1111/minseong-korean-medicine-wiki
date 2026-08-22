@@ -1,4 +1,4 @@
----
+﻿---
 title: 갑자기 숨이 답답하고 심장이 뛰면서 불안해지는 경우 무엇을 확인해야 하나요?
 description: 갑작스러운 불안과 신체증상을 시작양상·지속시간·호흡·심계·재발패턴·응급신호와 함께 설명합니다.
 tags: [갑작스런불안, 심계항진, 숨막힘, 자율신경, 과호흡]
@@ -21,7 +21,9 @@ tags: [갑작스런불안, 심계항진, 숨막힘, 자율신경, 과호흡]
 새로운 심한 흉통, 실신, 지속적인 호흡곤란, 한쪽 마비나 의식변화가 있으면 즉시 응급 평가가 필요합니다. 반복되는 발작 때문에 외출·수면·일상생활이 크게 제한되는 경우에도 진료가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [불면](../conditions/insomnia.md)
-- [목이물감](../conditions/globus-sensation.md)
+- [목이물감](../conditions/globus.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+
+

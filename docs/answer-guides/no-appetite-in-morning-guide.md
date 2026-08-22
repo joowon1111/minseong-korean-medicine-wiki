@@ -1,4 +1,4 @@
----
+﻿---
 title: 아침에는 입맛이 없고 아무것도 먹기 싫은 이유는 무엇인가요?
 description: 아침 식욕저하를 야식·수면·역류·소화·스트레스·하루 식사패턴과 함께 설명합니다.
 tags: [아침식욕부진, 입맛없음, 소화불량, 식욕저하, 위장]
@@ -21,7 +21,9 @@ tags: [아침식욕부진, 입맛없음, 소화불량, 식욕저하, 위장]
 식욕저하가 하루 종일 지속되면서 체중이 감소하거나 반복 구토·심한 복통·삼킴곤란·흑색변 등이 동반되면 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [식욕부진](../conditions/anorexia.md)
+- [식욕부진](../conditions/poor-appetite-adult.md)
 - [소화불량](../conditions/dyspepsia.md)
-- [목이물감](../conditions/globus-sensation.md)
+- [목이물감](../conditions/globus.md)
 - [장·비위와 전신 회복](../immune-allergy/gut-recovery.md)
+
+

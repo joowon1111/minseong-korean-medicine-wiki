@@ -1,4 +1,4 @@
----
+﻿---
 title: 스트레스 받으면 단 음식이 계속 당기는 이유는 무엇인가요?
 description: 스트레스성 단맛 갈망을 수면·식사간격·습관·기분·카페인·대사 위험신호와 함께 설명합니다.
 tags: [단것당김, 스트레스식욕, 당갈망, 식욕, 자율신경]
@@ -21,7 +21,8 @@ tags: [단것당김, 스트레스식욕, 당갈망, 식욕, 자율신경]
 심한 갈증·다뇨·원인 모를 체중변화가 동반되거나 식욕과 섭취 행동이 일상생활을 크게 방해하면 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

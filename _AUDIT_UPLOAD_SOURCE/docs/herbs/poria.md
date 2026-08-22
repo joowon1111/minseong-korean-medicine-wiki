@@ -1,0 +1,40 @@
+﻿---
+title: 복령(茯苓)
+description: 복령(茯苓)의 전통적 효능, 동의보감 연결, 현대 성분·약리 연구와 관련 방제를 정리합니다.
+tags: [본초학, 복령]
+status: 검토완료
+last_reviewed: 2026-08-19
+---
+# 복령(茯苓)
+
+**대표 기원:** *Wolfiporia cocos* (Poria cocos)
+
+## 개요
+복령은 동아시아 한의학에서 오랫동안 활용되어 온 중요한 본초이다. 여러 고전 처방 속에서 다른 약재와 배합되며 한의학의 복합적인 처방 원리를 보여준다.
+
+## 전통적 효능
+**이수삼습(利水滲濕), 건비(健脾), 영심안신(寧心安神)** 등의 방향으로 설명되어 왔다. 실제 임상에서는 단일 효능명보다 환자의 전체 변증과 처방 배합 속에서 이해한다.
+
+## 현대 연구
+polysaccharides와 triterpenoids가 주요 연구 성분군이며 면역·염증 및 대사 관련 연구가 이어지고 있다.
+
+전통적으로 축적된 활용 경험을 현대적인 성분분석·약리학·임상연구로 해석하려는 연구가 계속 확대되고 있다.
+
+## 관련 방제
+- 귀비탕
+- 온담탕
+- 오령산
+
+## 동의보감 연결
+→ [《동의보감》 탕액편의 복령](../classics/donguibogam/tangyeok/poria.md)
+
+## 연구 메모
+PMID 21347995
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [본초 찾기](../herbal-integrated/herbs.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [방제 찾기](../herbal-integrated/formulas.md)
+

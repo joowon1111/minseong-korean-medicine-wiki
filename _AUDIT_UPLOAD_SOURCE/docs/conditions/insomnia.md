@@ -1,0 +1,59 @@
+﻿---
+title: 불면증·수면장애
+description: 불면증·수면장애을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
+tags: [질환증상, 불면증·수면장애, 환자검색]
+status: 검토완료
+last_reviewed: 2026-08-21
+---
+# 불면증·수면장애
+
+## 환자가 이렇게 검색할 수 있습니다
+
+- 불면증
+- 잠이 안 와요
+- 자다가 자주 깨요
+- 새벽에 깨면 다시 못 자요
+- 꿈을 많이 꾸고 피곤해요
+
+## 함께 구분할 상태
+
+- 입면장애
+- 수면유지장애
+- 조기각성
+- 갱년기·통증·자율신경과 연동
+- 심비양허·음허화왕·담열 등 병증
+
+## 먼저 확인해야 할 신호
+
+- 심한 우울·조증 양상
+- 수면 중 호흡정지 의심
+- 극심한 주간졸림과 사고위험
+
+## 한의치료 연결
+
+한약은 귀비탕·가미온담탕·천왕보심단·산조인탕 등 병증별 처방군과 연결하고, 신문·내관·삼음교·백회 등의 침구축을 함께 봅니다.
+
+## 치료를 한눈에 보기
+
+증상명 하나로 치료를 고정하지 않고 **감별 → 한의학적 병증 → 한약 · 침 · 전침 · 약침 → 재평가** 순으로 봅니다.
+
+## 기존 지식망과 연결
+
+- [증상·질환 한눈에 보기](index.md)
+- [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+- [침구·치료 찾기](../acupuncture-integrated/by-symptom.md)
+- [치료 안전·위험신호](../acupuncture-integrated/safety.md)
+
+## 검색 동의어
+
+불면증 · 잠이 안 와요 · 자다가 자주 깨요 · 새벽에 깨면 다시 못 자요 · 꿈을 많이 꾸고 피곤해요
+
+<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
+## 함께 보면 좋은 핵심 문서
+
+- [만성피로](chronic-fatigue.md)
+- [맞춤한약](custom-herbal-medicine.md)
+- [불면 한약 처방 찾기](../herbal-integrated/formula-for-insomnia.md)
+- [불면·심계 본초 찾기](../herbal-integrated/herbs-for-sleep.md)
+- [불면과 경혈 찾기](../acupuncture-integrated/points-for-insomnia.md)
+

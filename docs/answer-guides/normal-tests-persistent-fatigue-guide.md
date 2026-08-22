@@ -1,4 +1,4 @@
----
+﻿---
 title: 검사에서는 정상이라는데 계속 피곤한 이유는 무엇인가요?
 description: 기본검사 정상 후 지속되는 피로를 수면·활동·소화·스트레스·약물·기능저하와 함께 설명합니다.
 tags: [검사정상피로, 만성피로, 자율신경, 기력저하, 보약]
@@ -22,6 +22,7 @@ tags: [검사정상피로, 만성피로, 자율신경, 기력저하, 보약]
 
 ## 더 깊게 보기
 - [만성피로](../conditions/chronic-fatigue.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

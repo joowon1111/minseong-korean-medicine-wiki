@@ -1,4 +1,4 @@
----
+﻿---
 title: 귀가 먹먹한데 이비인후과 검사에서 큰 이상이 없으면 무엇을 확인하나요?
 description: 귀 먹먹함을 청력·이명·턱관절·목긴장·비염·압력 변화와 함께 설명합니다.
 tags: [귀먹먹함, 이충만감, 이명, 턱관절, 비염]
@@ -24,4 +24,5 @@ tags: [귀먹먹함, 이충만감, 이명, 턱관절, 비염]
 - [비염](../conditions/rhinitis.md)
 - [턱관절 통증](../conditions/tmj-pain.md)
 - [경항통](../conditions/neck-pain.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 생리양이 갑자기 줄었으면 무엇을 확인해야 하나요?
 description: 갑자기 줄어든 월경량을 임신 가능성·주기 변화·체중·스트레스·약물·호르몬 변화와 함께 설명합니다.
 tags: [생리양감소, 월경량감소, 생리불순, 여성건강, 여성한약]
@@ -21,7 +21,8 @@ tags: [생리양감소, 월경량감소, 생리불순, 여성건강, 여성한�
 임신 가능성이 있거나, 월경이 여러 달 지속적으로 줄거나 멈추는 경우, 심한 통증·비정상 출혈·급격한 체중변화가 동반되는 경우에는 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [여성 생애주기](../conditions/womens-lifecycle.md)
+- [여성 생애주기](../answer-guides/women-lifecycle-guide.md)
 - [생리불순](../conditions/irregular-menstruation.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [만성피로](../conditions/chronic-fatigue.md)
+

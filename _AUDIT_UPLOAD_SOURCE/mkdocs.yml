@@ -1,0 +1,1189 @@
+site_name: 민성 한의학 아카이브
+site_description: 본초·방제·고전·사상의학·침구·임상연구를 연결하는 한의학 지식 아카이브
+site_url: https://wiki.minseong.co.kr/
+site_author: 민성 한의학 아카이브
+copyright: 민성 한의학 아카이브 · 민성한의원 운영 · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
+use_directory_urls: true
+extra_css:
+- assets/extra.css
+- stylesheets/portal.css
+extra:
+  generator: false
+plugins:
+- search:
+    lang: ko
+- tags
+- meta
+theme:
+  name: material
+  language: ko
+  icon:
+    logo: material/book-open-page-variant
+  palette:
+  - scheme: default
+    primary: green
+    accent: green
+    toggle:
+      icon: material/brightness-7
+      name: 다크 모드로 전환
+  - scheme: slate
+    primary: green
+    accent: green
+    toggle:
+      icon: material/brightness-4
+      name: 라이트 모드로 전환
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.top
+  - navigation.tracking
+  - navigation.indexes
+  - toc.follow
+  - search.suggest
+  - search.highlight
+  - search.share
+  - content.action.edit
+  - content.code.copy
+  - navigation.path
+  - navigation.prune
+markdown_extensions:
+- admonition
+- attr_list
+- md_in_html
+- tables
+- footnotes
+- toc:
+    permalink: true
+- pymdownx.details
+- pymdownx.superfences
+- pymdownx.tabbed:
+    alternate_style: true
+- pymdownx.tasklist:
+    custom_checkbox: true
+nav:
+- 홈: index.md
+- 한의학 기초:
+  - 한의학 기초 한눈에 보기: foundations-integrated/index.md
+  - 음양·오행: foundations-integrated/yinyang-fivephases.md
+  - 장부·기혈진액: foundations-integrated/zangfu-qi-blood-fluids.md
+  - 병인·병기: foundations-integrated/etiology-pathogenesis.md
+  - 사진·진단: foundations-integrated/diagnosis.md
+  - 변증·치법: foundations-integrated/pattern-treatment.md
+  - 임상 추론: foundations-integrated/clinical-reasoning.md
+  - 고전→현대 연결: foundations-integrated/classics-modern.md
+  - 상세 자료실:
+    - portal/basics.md
+    - 한의학 기초:
+      - foundations/index.md
+      - 음양·오행: foundations/yinyang-five-phases.md
+      - 기·혈·진액: foundations/qi-blood-fluid.md
+      - 병인·병기: foundations/pathogenesis.md
+      - 장부 개요: foundations/zangfu-overview.md
+      - 간(肝): foundations/liver.md
+      - 심(心): foundations/heart.md
+      - 비(脾): foundations/spleen.md
+      - 폐(肺): foundations/lung.md
+      - 신(腎): foundations/kidney.md
+    - 한의학 역사:
+      - history/index.md
+      - 한의학 역사 타임라인: history/timeline.md
+      - 의학사상·학파 지도: history/schools-map.md
+      - 고전의 흐름: history/classics-flow.md
+      - 처방의 역사적 흐름: history/formula-history.md
+    - 핵심 개념 사전:
+      - concepts/index.md
+      - 기허·혈허·기혈양허: concepts/deficiency-map.md
+      - 어혈·담음·기체: concepts/pathological-products.md
+      - 비위기허·중기하함: concepts/spleen-qi-sinking.md
+      - 심비양허: concepts/heart-spleen-deficiency.md
+      - 간신부족·허손: concepts/liver-kidney-deficiency.md
+      - 풍한습비: concepts/wind-cold-damp-bi.md
+    - 변증→치법 지식망:
+      - pattern-treatment/index.md
+      - 기허: pattern-treatment/qi-deficiency.md
+      - 혈허·기혈양허: pattern-treatment/blood-deficiency.md
+      - 담음: pattern-treatment/phlegm-fluid.md
+      - 어혈: pattern-treatment/blood-stasis.md
+      - 심비양허: pattern-treatment/heart-spleen-deficiency.md
+      - 중기하함: pattern-treatment/sinking-middle-qi.md
+      - 풍한습비·허손: pattern-treatment/bi-deficiency.md
+      - 변증→본초·방제·경혈 지도: pattern-treatment/overview-map.md
+    - 임상 추론 경로:
+      - clinical-reasoning/index.md
+      - 피로: clinical-reasoning/fatigue.md
+      - 불면: clinical-reasoning/insomnia.md
+      - 소화불량: clinical-reasoning/dyspepsia.md
+      - 요통: clinical-reasoning/low-back-pain.md
+      - 비염: clinical-reasoning/rhinitis.md
+      - 통합 임상 추론 지도: clinical-reasoning/integrated-map.md
+    - 진료 안전·감별 안내:
+      - clinical-safety/index.md
+      - 통증에서 먼저 확인할 신호: clinical-safety/pain-red-flags.md
+      - 두통·어지럼에서 먼저 확인할 신호: clinical-safety/headache-dizziness.md
+      - 소화기 증상에서 먼저 확인할 신호: clinical-safety/digestive-red-flags.md
+      - 불면·피로에서 먼저 확인할 것: clinical-safety/fatigue-sleep-check.md
+      - 비염·호흡기 증상에서 먼저 확인할 것: clinical-safety/rhinitis-respiratory.md
+      - 한약·침구 치료 전 확인사항: clinical-safety/treatment-checklist.md
+    - 팔강변증 핵심 지식망:
+      - eight-principles-network/index.md
+      - 표리: eight-principles-network/exterior-interior.md
+      - 한열: eight-principles-network/cold-heat.md
+      - 허실: eight-principles-network/deficiency-excess.md
+      - 음양: eight-principles-network/yin-yang.md
+      - 팔강의 조합: eight-principles-network/combined-patterns.md
+      - 팔강→치법: eight-principles-network/treatment-map.md
+      - 팔강과 장부·기혈·육경 비교: eight-principles-network/comparison.md
+      - 팔강변증 임상 추론: eight-principles-network/clinical-reasoning.md
+      - 팔강변증 통합 지도: eight-principles-network/integrated-map.md
+    - 장부변증 핵심 지식망:
+      - zangfu-pattern-network/index.md
+      - 장부변증이란: zangfu-pattern-network/what-is-zangfu-pattern.md
+      - 간·담 병증: zangfu-pattern-network/liver-gallbladder.md
+      - 심·소장 병증: zangfu-pattern-network/heart-small-intestine.md
+      - 비·위 병증: zangfu-pattern-network/spleen-stomach.md
+      - 폐·대장 병증: zangfu-pattern-network/lung-large-intestine.md
+      - 신·방광 병증: zangfu-pattern-network/kidney-bladder.md
+      - 장부 상호관계: zangfu-pattern-network/interrelationships.md
+      - 장부변증→치법: zangfu-pattern-network/treatment-map.md
+      - 장부변증 임상 추론: zangfu-pattern-network/clinical-reasoning.md
+      - 장부변증 통합 지도: zangfu-pattern-network/integrated-map.md
+    - 한의학 기초→임상 통합 심화:
+      - foundations-clinical/index.md
+      - 음양·오행→임상: foundations-clinical/yinyang-fivephases.md
+      - 장부→병증: foundations-clinical/zangfu-to-pattern.md
+      - 기혈진액→병리: foundations-clinical/qi-blood-fluid.md
+      - 병인→병기: foundations-clinical/etiology-pathogenesis.md
+      - 팔강→구체적 변증: foundations-clinical/eight-principles-bridge.md
+      - 변증→치법: foundations-clinical/pattern-to-treatment.md
+      - 설·맥·문진 정보 통합: foundations-clinical/diagnostic-integration.md
+      - 임상추론 단계: foundations-clinical/clinical-reasoning.md
+      - 기초→본초·방제·침구 연결: foundations-clinical/treatment-bridge.md
+      - 전체 지식지도: foundations-clinical/integrated-map.md
+- 본초·방제:
+  - 본초·방제 한눈에 보기: herbal-integrated/index.md
+  - 본초 찾기: herbal-integrated/herbs.md
+  - 주요 본초 비교·감별: herbal-integrated/herb-comparisons.md
+  - 방제 찾기: herbal-integrated/formulas.md
+  - 일반 방제 임상 지도:
+    - herbal-integrated/general-formulary.md
+    - 비위·소화:
+      - 평위산: formulas/pingwei-san.md
+      - 향사육군자탕: formulas/xiangsha-liujunzi-tang.md
+      - 향사양위탕: formulas/xiangsha-yangwei-tang.md
+      - 불환금정기산: formulas/buhuanjin-zhengqi-san.md
+      - 인삼양위탕: formulas/renshen-yangwei-tang.md
+      - 보화환: formulas/baohe-wan.md
+      - 위령탕: formulas/weiling-tang.md
+    - 담음·현훈·불면:
+      - 이진탕: formulas/erchen-tang.md
+      - 반하백출천마탕: formulas/banxia-baizhu-tianma-tang.md
+      - 도담탕: formulas/daotan-tang.md
+      - 가미온담탕: formulas/jiawei-wendan-tang.md
+      - 천왕보심단: formulas/tianwang-buxin-dan.md
+      - 산조인탕: formulas/suanzaoren-tang.md
+    - 간울·기체·활혈:
+      - 소요산: formulas/xiaoyao-san.md
+      - 가미소요산: formulas/jiawei-xiaoyao-san.md
+      - 분심기음: formulas/fenxin-qiyin.md
+      - 오약순기산: formulas/wuyao-shunqi-san.md
+      - 혈부축어탕: formulas/xuefu-zhuyu-tang.md
+    - 외감·호흡·청열:
+      - 삼소음: formulas/renshen-suyin.md
+      - 형개연교탕: formulas/jingjie-lianqiao-tang.md
+      - 연교패독산: formulas/lianqiao-baidu-san.md
+      - 맥문동탕: formulas/maidong-tang.md
+    - 한열·비위조화:
+      - 반하사심탕: formulas/banxia-xiexin-tang.md
+      - 오적산: formulas/wujisan.md
+    - 보익·음양:
+      - 자음강화탕: formulas/ziyin-jianghuo-tang.md
+      - 청심연자음: formulas/qingxin-lianzi-yin.md
+      - 육미지황환: formulas/liu wei dihuang wan.md
+      - 팔미지황환: formulas/bawei-dihuang-wan.md
+    - 습·수분대사:
+      - 곽향정기산: formulas/huoxiang-zhengqi-san.md
+      - 오령산: formulas/wuling-san.md
+      - 저령탕: formulas/zhuling-tang.md
+    - 두통·통증·비증:
+      - 청상견통탕: formulas/qingshang-juantong-tang.md
+      - 회수산: formulas/huishou-san.md
+      - 독활기생탕: formulas/duhuo-jisheng-classic.md
+    - 피부·풍열:
+      - 방풍통성산: formulas/fangfeng-tongsheng-san.md
+      - 소풍산: formulas/xiaofeng-san.md
+    - 폐·기음·표허:
+      - 보폐탕: formulas/bufei-tang.md
+      - 생맥산: formulas/shengmai-san.md
+      - 옥병풍산: formulas/yupingfeng-san.md
+    - 보익·기혈 심화:
+      - 당귀보혈탕: formulas/danggui-buxue-tang.md
+      - 귀비탕: formulas/guipi-classic.md
+      - 십전대보탕: formulas/shiquan-dabu-classic.md
+      - 쌍화탕: formulas/ssanghwa-tang.md
+      - 보중익기탕: formulas/buzhong-yiqi-classic.md
+    - 부인·조경:
+      - 온경탕: formulas/wenjing-tang.md
+      - 조경종옥탕: formulas/tiaojing-zhongyu-tang.md
+    - 청열·화독:
+      - 황련해독탕: formulas/huanglian-jiedu-tang.md
+      - 용담사간탕: formulas/longdan-xiegan-tang.md
+      - 백호탕: formulas/baihu-tang.md
+      - 죽엽석고탕: formulas/zhuye-shigao-tang.md
+      - 청서익기탕: formulas/qingshu-yiqi-tang.md
+    - 외감·호흡:
+      - 은교산: formulas/yinqiao-san.md
+      - 상국음: formulas/sangju-yin.md
+      - 마행감석탕: formulas/maxing-ganshi-tang.md
+      - 정천탕: formulas/dingchuan-tang.md
+      - 소자강기탕: formulas/suzi-jiangqi-tang.md
+      - 행소산: formulas/xingsu-san.md
+    - 기체·담울:
+      - 반하후박탕: formulas/banxia-houpo-tang.md
+      - 시호소간산: formulas/chaihu-shugan-san.md
+    - 풍·현훈:
+      - 천마구등음: formulas/tianma-gouteng-yin.md
+    - 활혈·통락:
+      - 보양환오탕: formulas/buyang-huanwu-tang.md
+      - 도핵승기탕: formulas/taohe-chengqi-tang.md
+    - 온리·수습:
+      - 진무탕: formulas/zhenwu-tang.md
+      - 영계출감탕: formulas/linggui-zhugan-tang.md
+      - 실비음: formulas/shipi-yin.md
+    - 이수·통림:
+      - 팔정산: formulas/bazheng-san.md
+    - 화해·공하:
+      - 대시호탕: formulas/dachaihu-tang.md
+      - 소승기탕: formulas/xiaochengqi-tang.md
+      - 대승기탕: formulas/dachengqi-tang.md
+    - 두통·두면:
+      - 천궁다조산: formulas/chuanxiong-chatiao-san.md
+      - 창이자산: formulas/cangerzi-san.md
+  - 보익·회복 핵심: herbal-integrated/tonic-recovery.md
+  - 증상·치법으로 찾기: herbal-integrated/by-symptom-treatment.md
+  - 처방 구조·비교: herbal-integrated/formula-structure.md
+  - 안전·복용 주의: herbal-integrated/safety.md
+  - 근거·출전: herbal-integrated/evidence.md
+  - 상세 자료실:
+    - portal/herbs-formulas.md
+    - 본초학:
+      - herbs/index.md
+      - 보익약:
+        - herbs/categories/tonics.md
+        - 녹용: herbs/cervi-parvum-cornu.md
+        - 인삼: herbs/ginseng.md
+        - 황기: herbs/astragalus.md
+        - 당귀: herbs/angelica.md
+        - 숙지황: herbs/prepared-rehmannia.md
+        - 백출: herbs/atractylodes.md
+        - 복령: herbs/poria.md
+        - 산수유: herbs/cornus-fruit.md
+        - 두충: herbs/eucommia.md
+        - 우슬: herbs/achyranthes.md
+      - 안신·양심:
+        - herbs/categories/calm-spirit.md
+        - 산조인: herbs/ziziphus-seed.md
+        - 복령: herbs/poria.md
+        - 오미자: herbs/schisandra.md
+      - 화담·이기:
+        - herbs/categories/phlegm-qi.md
+        - 반하: herbs/pinellia.md
+        - 진피: herbs/citrus-peel.md
+        - 복령: herbs/poria.md
+      - 이수삼습:
+        - herbs/categories/drain-damp.md
+        - 복령: herbs/poria.md
+        - 저령: herbs/polyporus.md
+        - 택사: herbs/alisma.md
+        - 백출: herbs/atractylodes.md
+      - 양음·생진:
+        - herbs/categories/nourish-yin.md
+        - 생지황: herbs/fresh-rehmannia.md
+        - 맥문동: herbs/ophiopogon.md
+        - 숙지황: herbs/prepared-rehmannia.md
+        - 오미자: herbs/schisandra.md
+      - 활혈·보혈:
+        - herbs/categories/blood.md
+        - 당귀: herbs/angelica.md
+        - 천궁: herbs/chuanxiong.md
+        - 백작약: herbs/white-peony.md
+        - 우슬: herbs/achyranthes.md
+      - 온리·온보:
+        - herbs/categories/warm-interior.md
+        - 육계: herbs/cinnamon-bark.md
+      - 개규:
+        - herbs/categories/open-orifices.md
+        - 사향: herbs/musk.md
+      - 조화·기타:
+        - herbs/categories/harmonize.md
+        - 감초: herbs/licorice.md
+    - 방제학:
+      - formulas/index.md
+      - 보익제:
+        - formulas/categories/tonic-formulas.md
+        - 사군자탕: formulas/sijunzi-tang.md
+        - 육군자탕: formulas/liujunzi-tang.md
+        - 사물탕: formulas/siwu-tang.md
+        - 팔물탕: formulas/bazhen-tang.md
+        - 십전대보탕: formulas/shi-quan-da-bu-tang.md
+        - 보중익기탕: formulas/buzhong-yiqi-tang.md
+        - 귀비탕: formulas/guibi-tang.md
+        - 생맥산: formulas/shengmai-san.md
+        - 공진단: formulas/gongjin-dan.md
+        - 경옥고: formulas/gyeongok-go.md
+      - 해표·상한론 처방:
+        - formulas/categories/exterior-shanghan.md
+        - 계지탕: formulas/guizhi-tang.md
+        - 마황탕: formulas/mahuang-tang.md
+        - 계지가갈근탕: formulas/guizhi-jia-gegen-tang.md
+        - 갈근탕: formulas/gegen-tang.md
+        - 대청룡탕: formulas/daqinglong-tang.md
+        - 소청룡탕: formulas/xiaoqinglong-tang.md
+        - 마행감석탕: formulas/maxing-ganshi-tang.md
+        - 소시호탕: formulas/xiaochaihu-tang.md
+      - 화담·이기:
+        - formulas/categories/phlegm-qi-formulas.md
+        - 온담탕: formulas/wendan-tang.md
+        - 육군자탕: formulas/liujunzi-tang.md
+        - 소청룡탕: formulas/xiaoqinglong-tang.md
+      - 이수제:
+        - formulas/categories/drain-fluid-formulas.md
+        - 오령산: formulas/wuling-san.md
+      - 거풍습·근골:
+        - formulas/categories/wind-damp-musculoskeletal.md
+        - 독활기생탕: formulas/duhuo-jisheng-tang.md
+    - 방제 구조로 찾기:
+      - formula-architecture/index.md
+      - 사군자탕 계열: formula-architecture/sijunzi-family.md
+      - 사물탕·기혈쌍보 계열: formula-architecture/siwu-qi-blood-family.md
+      - 비위·담음 계열: formula-architecture/spleen-phlegm-family.md
+      - 안신·불면 계열: formula-architecture/insomnia-family.md
+      - 보익·회복 계열: formula-architecture/tonic-family.md
+      - 근골격·비증 계열: formula-architecture/bi-syndrome-family.md
+      - 상한 고방 계열: formula-architecture/shanghan-family.md
+    - 면역·알레르기·회복 지식망:
+      - immune-allergy/index.md
+      - 비염·알레르기: immune-allergy/rhinitis-allergy.md
+      - 피로·회복 저하: immune-allergy/fatigue-recovery.md
+      - 염증·통증과 회복: immune-allergy/inflammation-pain.md
+      - 장·비위와 전신 회복: immune-allergy/gut-recovery.md
+      - 보익 본초·방제 연결: immune-allergy/tonic-herb-formula-map.md
+      - 면역·회복 통합 지도: immune-allergy/integrated-map.md
+    - 본초·방제 임상 심화:
+      - herbal-formula-clinical/index.md
+      - 본초→치법→방제: herbal-formula-clinical/herb-to-formula.md
+      - 군신좌사와 처방 구조: herbal-formula-clinical/formula-architecture.md
+      - 보·화·공 치료방향: herbal-formula-clinical/treatment-directions.md
+      - 대표 방제 비교: herbal-formula-clinical/formula-comparison.md
+      - 증상에서 방제 찾기: herbal-formula-clinical/symptom-to-formula.md
+      - 처방 유지·변경 판단: herbal-formula-clinical/followup-adjustment.md
+      - 안전·금기·상호작용: herbal-formula-clinical/safety.md
+      - 현대 연구와 근거: herbal-formula-clinical/evidence.md
+      - 임상 통합 지도: herbal-formula-clinical/integrated-map.md
+    - 녹용·공진단·경옥고 심화:
+      - tonic-masterpieces/index.md
+      - 녹용: tonic-masterpieces/deer-antler/index.md
+      - 녹용 부위·품질: tonic-masterpieces/deer-antler/quality-parts.md
+      - 녹용 현대 연구: tonic-masterpieces/deer-antler/research.md
+      - 녹용 임상 지도: tonic-masterpieces/deer-antler/clinical-map.md
+      - 공진단: tonic-masterpieces/gongjindan/index.md
+      - 공진단 구성·방의: tonic-masterpieces/gongjindan/composition.md
+      - 공진단 피로 임상연구: tonic-masterpieces/gongjindan/fatigue-evidence.md
+      - 공진단 임상 지도: tonic-masterpieces/gongjindan/clinical-map.md
+      - 경옥고: tonic-masterpieces/gyeongokgo/index.md
+      - 경옥고 구성·방의: tonic-masterpieces/gyeongokgo/composition.md
+      - 경옥고 피로·회복 연구: tonic-masterpieces/gyeongokgo/fatigue-recovery.md
+      - 경옥고 임상 지도: tonic-masterpieces/gyeongokgo/clinical-map.md
+      - 세 가지 비교: tonic-masterpieces/comparison.md
+      - 선택·경과관찰: tonic-masterpieces/selection-followup.md
+      - 근거·참고문헌: tonic-masterpieces/references.md
+    - 사상처방 핵심 본초 확장:
+      - 갈근: herbs/pueraria.md
+      - 황금: herbs/scutellaria.md
+      - 석고: herbs/gypsum.md
+      - 연교: herbs/forsythia.md
+      - 형개: herbs/schizonepeta.md
+      - 방풍: herbs/saposhnikovia.md
+      - 강활: herbs/notopterygium.md
+      - 독활: herbs/angelica-pubescens.md
+      - 나복자: herbs/raphanus-seed.md
+      - 길경: herbs/platycodon.md
+      - 마황: herbs/ephedra.md
+      - 지모: herbs/anemarrhena.md
+      - 황백: herbs/phellodendron.md
+      - 대황: herbs/rhubarb.md
+    - 본초→사상처방 역색인: herbs/sasang-formula-reverse-index.md
+    - 주요 임상 본초 확장:
+      - 시호: herbs/bupleurum.md
+      - 황련: herbs/coptis.md
+      - 치자: herbs/gardenia.md
+      - 후박: herbs/magnolia-bark.md
+      - 사인: herbs/amomum.md
+      - 목향: herbs/aucklandia.md
+      - 향부자: herbs/cyperus.md
+      - 지실: herbs/citrus-immature.md
+      - 도인: herbs/peach-kernel.md
+      - 홍화: herbs/safflower.md
+      - 단삼: herbs/salvia.md
+      - 우슬: herbs/achyranthes.md
+      - 두충: herbs/eucommia.md
+      - 속단: herbs/dipsacus.md
+      - 골쇄보: herbs/drynaria.md
+      - 의이인: herbs/coix.md
+      - 택사 임상 확장: herbs/alisma-extra.md
+      - 차전자: herbs/plantago-seed.md
+      - 원지: herbs/polygala.md
+      - 석창포: herbs/acorus.md
+      - 용안육: herbs/longan.md
+      - 백자인: herbs/thuja-seed.md
+      - 백합: herbs/lily.md
+      - 천화분: herbs/trichosanthes-root.md
+      - 천문동: herbs/ophiopogon-extra.md
+      - 산약: herbs/schisandra-extra.md
+      - 구기자: herbs/cornus-extra.md
+      - 목단피: herbs/moutan.md
+      - 박하: herbs/mint.md
+      - 금은화: herbs/honeysuckle.md
+      - 우방자: herbs/arctium.md
+      - 천패모: herbs/fritillaria.md
+      - 행인: herbs/apricot-kernel.md
+      - 자소엽: herbs/perilla-leaf.md
+      - 생강: herbs/fresh-ginger.md
+      - 건강: herbs/dried-ginger.md
+      - 부자: herbs/aconite.md
+- 침구·치료:
+  - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
+  - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
+  - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
+  - 침·전침·뜸·부항: acupuncture-integrated/modalities.md
+  - 근골격 통증 핵심: acupuncture-integrated/musculoskeletal.md
+  - 치료 경과·재평가: acupuncture-integrated/followup.md
+  - 안전·위험신호: acupuncture-integrated/safety.md
+  - 근거·연구: acupuncture-integrated/evidence.md
+  - 상세 자료실:
+    - portal/acupuncture.md
+    - 침구학:
+      - acupuncture/index.md
+      - 경락 개요: acupuncture/meridians.md
+      - 십이경맥: acupuncture/twelve-meridians.md
+      - 독맥·임맥: acupuncture/du-ren.md
+      - 주요 경혈:
+        - acupuncture/key-acupoints.md
+        - 합곡 LI4: acupuncture/points/li4-hegu.md
+        - 족삼리 ST36: acupuncture/points/st36-zusanli.md
+        - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
+        - 내관 PC6: acupuncture/points/pc6-neiguan.md
+        - 신문 HT7: acupuncture/points/ht7-shenmen.md
+        - 태충 LR3: acupuncture/points/lr3-taichong.md
+        - 관원 CV4: acupuncture/points/cv4-guanyuan.md
+        - 중완 CV12: acupuncture/points/cv12-zhongwan.md
+        - 백회 GV20: acupuncture/points/gv20-baihui.md
+        - 신수 BL23: acupuncture/points/bl23-shenshu.md
+        - 위중 BL40: acupuncture/points/bl40-weizhong.md
+        - 풍지 GB20: acupuncture/points/gb20-fengchi.md
+      - 침구 치료 원리: acupuncture/treatment-principles.md
+    - 경혈 임상 지식망:
+      - acupoint-network/index.md
+      - 족삼리 ST36: acupoint-network/st36.md
+      - 내관 PC6: acupoint-network/pc6.md
+      - 신문 HT7: acupoint-network/ht7.md
+      - 삼음교 SP6: acupoint-network/sp6.md
+      - 합곡 LI4: acupoint-network/li4.md
+      - 백회 GV20: acupoint-network/gv20.md
+      - 위중 BL40: acupoint-network/bl40.md
+      - 신수 BL23: acupoint-network/bl23.md
+      - 증상별 경혈 지도: acupoint-network/by-condition.md
+    - 경락·경맥 지식망:
+      - meridian-network/index.md
+      - 족양명위경: meridian-network/stomach-meridian.md
+      - 수궐음심포경: meridian-network/pericardium-meridian.md
+      - 수소음심경: meridian-network/heart-meridian.md
+      - 족태음비경: meridian-network/spleen-meridian.md
+      - 수양명대장경: meridian-network/large-intestine-meridian.md
+      - 족태양방광경: meridian-network/bladder-meridian.md
+      - 독맥: meridian-network/governing-vessel.md
+      - 경맥→증상 지도: meridian-network/by-condition.md
+    - 침구·치료 임상 심화:
+      - acupuncture-clinical/index.md
+      - 증상→치료전략: acupuncture-clinical/symptom-to-strategy.md
+      - 경락→경혈→자침: acupuncture-clinical/meridian-point-needling.md
+      - 근골격 통증 감별: acupuncture-clinical/musculoskeletal-differential.md
+      - 침 vs 전침 vs 뜸 vs 부항: acupuncture-clinical/modality-comparison.md
+      - 치료 강도·빈도·경과: acupuncture-clinical/dose-followup.md
+      - 치료 반응·재평가: acupuncture-clinical/response-reassessment.md
+      - 안전·금기·위험신호: acupuncture-clinical/safety-redflags.md
+      - 현대 근거 읽기: acupuncture-clinical/evidence.md
+      - 임상 통합 지도: acupuncture-clinical/integrated-map.md
+- 증상·질환:
+  - 증상·질환 한눈에 보기: symptom-integrated/index.md
+  - 통증: symptom-integrated/pain.md
+  - 수면·피로: symptom-integrated/sleep-fatigue.md
+  - 소화: symptom-integrated/digestive.md
+  - 호흡·비염: symptom-integrated/respiratory-rhinitis.md
+  - 자율신경·스트레스: symptom-integrated/autonomic-stress.md
+  - 위험신호·감별: symptom-integrated/red-flags.md
+  - 치료·경과·근거: symptom-integrated/treatment-evidence.md
+  - 상세 자료실:
+    - portal/conditions.md
+    - 비교해서 찾기:
+      - compare/index.md
+      - 공진단과 경옥고: compare/gongjin-vs-gyeongok.md
+      - 보중익기탕과 십전대보탕: compare/buzhong-vs-sipjeondaebo.md
+      - 사군자탕과 육군자탕: compare/sijunzi-vs-liujunzi.md
+      - 귀비탕과 온담탕: compare/guibi-vs-wendan.md
+      - 침과 약침: compare/acupuncture-vs-pharmacopuncture.md
+      - 침과 전침: compare/acupuncture-vs-electroacupuncture.md
+    - 상황별로 찾기:
+      - questions/choice/index.md
+      - 피로할 때 공진단과 경옥고: questions/choice/fatigue-gongjin-gyeongok.md
+      - 기운 없고 소화도 약할 때: questions/choice/fatigue-poor-digestion.md
+      - 잠이 안 오면서 두근거릴 때: questions/choice/insomnia-palpitations.md
+      - 잠이 안 오고 속도 더부룩할 때: questions/choice/insomnia-dyspepsia.md
+      - 오래된 허리통증에서 침과 한약: questions/choice/chronic-back-pain-treatment.md
+      - 기허와 기혈양허는 어떻게 다른가: questions/choice/qi-vs-qi-blood-deficiency.md
+    - 증상으로 찾기:
+      - symptoms/index.md
+      - 피로·기력저하: symptoms/fatigue.md
+      - 잠이 안 올 때: symptoms/sleep-problem.md
+      - 허리·목·무릎 통증: symptoms/musculoskeletal-pain.md
+      - 소화가 안 될 때: symptoms/digestion.md
+      - 코막힘·비염: symptoms/rhinitis.md
+      - 어깨가 아플 때: symptoms/longtail/shoulder-pain.md
+      - 목이 뻣뻣하고 아플 때: symptoms/longtail/stiff-neck.md
+      - 자꾸 피곤하고 기운이 없을 때: symptoms/longtail/persistent-fatigue.md
+      - 식후 더부룩하고 소화가 안 될 때: symptoms/longtail/postmeal-fullness.md
+      - 자다가 자주 깰 때: symptoms/longtail/night-awakening.md
+      - 허리가 오래 아플 때: symptoms/longtail/chronic-low-back-pain.md
+      - 무릎이 시큰하고 아플 때: symptoms/longtail/knee-aching.md
+      - 콧물·재채기가 반복될 때: symptoms/longtail/sneezing-runny-nose.md
+    - 자율신경·스트레스 지식망:
+      - autonomic/index.md
+      - 심계·두근거림: autonomic/palpitations.md
+      - 긴장·스트레스와 소화: autonomic/stress-digestion.md
+      - 긴장·스트레스와 수면: autonomic/stress-sleep.md
+      - 피로·회복과 자율조절: autonomic/fatigue-recovery.md
+      - 내관·신문·족삼리 연결: autonomic/acupoint-map.md
+      - 자율신경 통합 지도: autonomic/integrated-map.md
+    - 증상·질환 임상 심화:
+      - symptom-clinical/index.md
+      - 요통: symptom-clinical/low-back-pain.md
+      - 어깨통증: symptom-clinical/shoulder-pain.md
+      - 두통: symptom-clinical/headache.md
+      - 불면: symptom-clinical/insomnia.md
+      - 소화불량: symptom-clinical/dyspepsia.md
+      - 비염: symptom-clinical/rhinitis.md
+      - 피로: symptom-clinical/fatigue.md
+      - 위험신호·감별: symptom-clinical/red-flags.md
+      - 치료경과·재평가: symptom-clinical/followup.md
+      - 통합 임상 지도: symptom-clinical/integrated-map.md
+- 사상의학:
+  - 사상의학 한눈에 보기: sasang-integrated/index.md
+  - 소양인: sasang-integrated/soyangin.md
+  - 태음인: sasang-integrated/taeeumin.md
+  - 소음인: sasang-integrated/soeumin.md
+  - 태양인: sasang-integrated/taeyangin.md
+  - 대표처방 찾기: sasang-integrated/formulas.md
+  - 병증 비교: sasang-integrated/patterns.md
+  - 근거·출전: sasang-integrated/evidence.md
+  - 상세 자료실:
+    - portal/sasang.md
+    - 사상의학:
+      - sasang/index.md
+      - 사상체질 개요: sasang/overview.md
+      - 태양인: sasang/taeyangin.md
+      - 태음인: sasang/taeumin.md
+      - 소양인: sasang/soyangin.md
+      - 소음인: sasang/soeumin.md
+      - 체질 비교: sasang/constitution-compare.md
+      - 진단과 현대 연구: sasang/diagnosis-research.md
+    - 사상의학 지식망:
+      - sasang/index.md
+      - 사상체질 기본 구조: sasang/four-constitutions.md
+      - 소양인: sasang/soyangin.md
+      - 소음인: sasang/soeumin.md
+      - 태음인: sasang/taeeumin.md
+      - 태양인: sasang/taeyangin.md
+      - 체질→병증·처방: sasang/pattern-formula-map.md
+      - 동의수세보원: sasang/donguisusebowon.md
+      - 사상의학 통합 지도: sasang/integrated-map.md
+    - 사상체질 처방 심화:
+      - sasang-formulas/index.md
+      - 형방도적산: sasang-formulas/hyeongbangdojeok-san.md
+      - 형방사백산: sasang-formulas/hyeongbangsabaek-san.md
+      - 양격산화탕: sasang-formulas/yanggyeoksanhwa-tang.md
+      - 소양인 처방 비교: sasang-formulas/soyangin-comparison.md
+      - 체질→병증→처방 탐색: sasang-formulas/decision-map.md
+      - 소음인 대표 처방: sasang-formulas/soeumin-formulas.md
+      - 태음인 대표 처방: sasang-formulas/taeeumin-formulas.md
+      - 태양인 대표 처방: sasang-formulas/taeyangin-formulas.md
+      - 사상체질 처방 전체 비교: sasang-formulas/four-constitution-formula-map.md
+    - 사상체질 임상표준·진단 지식망:
+      - sasang-guideline/index.md
+      - 사상체질병증 표준 분류: sasang-guideline/kcd-classification.md
+      - 체질 진단의 임상 흐름: sasang-guideline/diagnostic-workflow.md
+      - 소증과 현재 병증: sasang-guideline/ordinary-symptoms.md
+      - 체질별 생활관리 구조: sasang-guideline/lifestyle-framework.md
+      - 국가 임상자료·진단가이드: sasang-guideline/nckm-resources.md
+      - 사상의학 표준 통합 지도: sasang-guideline/integrated-map.md
+    - 사상체질 치료·관리 지식망:
+      - sasang-treatment/index.md
+      - 체질한약치료: sasang-treatment/herbal-treatment.md
+      - 체질침·뜸 치료: sasang-treatment/acupuncture-moxibustion.md
+      - 체질식사요법: sasang-treatment/diet.md
+      - 체질운동요법: sasang-treatment/exercise.md
+      - 체질성정요법: sasang-treatment/emotion.md
+      - 치료·예방 통합 지도: sasang-treatment/integrated-map.md
+    - 사상의학 현대 연구 지식망:
+      - sasang-research/index.md
+      - 체질진단 연구: sasang-research/diagnosis-research.md
+      - 체질과 대사·건강지표: sasang-research/metabolic-health.md
+      - 체질별 치료 연구: sasang-research/treatment-research.md
+      - 사상의학 연구 읽는 법: sasang-research/evidence-framework.md
+      - 전통→현대 연구 연결: sasang-research/classic-to-modern.md
+      - 사상의학 현대 연구 통합 지도: sasang-research/integrated-map.md
+    - 사상의학 역사·인물 지식망:
+      - sasang-history/index.md
+      - 이제마: sasang-history/lee-je-ma.md
+      - 동의수세보원 형성 배경: sasang-history/donguisusebowon-context.md
+      - 사상의학의 시대적 위치: sasang-history/historical-position.md
+      - 사상의학과 동의보감 이후 흐름: sasang-history/post-donguibogam.md
+      - 사상의학 연구·교육의 확장: sasang-history/modern-expansion.md
+      - 사상의학 역사 통합 지도: sasang-history/integrated-map.md
+    - 사상의학 질문형 AEO 허브:
+      - sasang-questions/index.md
+      - 사상체질은 어떻게 진단하나: sasang-questions/how-to-diagnose.md
+      - 체질은 평생 같은가: sasang-questions/is-constitution-fixed.md
+      - 같은 체질이면 같은 처방을 쓰나: sasang-questions/same-constitution-same-formula.md
+      - 소양인과 소음인은 어떻게 다른가: sasang-questions/soyangin-vs-soeumin.md
+      - 태음인과 소양인은 어떻게 다른가: sasang-questions/taeeumin-vs-soyangin.md
+      - 사상체질과 음식은 어떤 관계인가: sasang-questions/diet-and-constitution.md
+      - 사상체질과 운동은 어떤 관계인가: sasang-questions/exercise-and-constitution.md
+      - 동의수세보원은 어떤 책인가: sasang-questions/what-is-donguisusebowon.md
+      - 사상의학 질문 통합 지도: sasang-questions/integrated-map.md
+    - 사상체질 증상으로 찾기:
+      - sasang-symptoms/index.md
+      - 소화가 약하고 피곤할 때: sasang-symptoms/digestion-fatigue.md
+      - 열감·갈증이 두드러질 때: sasang-symptoms/heat-thirst.md
+      - 땀과 피로가 함께 나타날 때: sasang-symptoms/sweating-fatigue.md
+      - 잠이 불편하고 두근거릴 때: sasang-symptoms/sleep-palpitations.md
+      - 대변·소변 변화와 소증: sasang-symptoms/bowel-urination.md
+      - 체질과 현재 병증: sasang-symptoms/constitution-vs-pattern.md
+      - 증상→체질병증 지도: sasang-symptoms/integrated-map.md
+    - 사상체질별 증상·치료 상세:
+      - sasang-clinical-detail/index.md
+      - '소음인: 악화 양상과 치료': sasang-clinical-detail/soeumin.md
+      - '소양인: 악화 양상과 치료': sasang-clinical-detail/soyangin.md
+      - '태음인: 악화 양상과 치료': sasang-clinical-detail/taeeumin.md
+      - '태양인: 악화 양상과 치료': sasang-clinical-detail/taeyangin.md
+      - 네 체질 비교표: sasang-clinical-detail/four-constitution-comparison.md
+      - 소증→현재병증→처방: sasang-clinical-detail/clinical-algorithm.md
+      - 체질별 치료수단: sasang-clinical-detail/treatment-modalities.md
+      - 근거·참고문헌: sasang-clinical-detail/references.md
+    - 사상체질 건강→악화→회복 단계 지도:
+      - sasang-progression/index.md
+      - 소음인 단계 지도: sasang-progression/soeumin.md
+      - 소양인 단계 지도: sasang-progression/soyangin.md
+      - 태음인 단계 지도: sasang-progression/taeeumin.md
+      - 태양인 단계 지도: sasang-progression/taeyangin.md
+      - 완실무병과 건강신호: sasang-progression/healthy-signs.md
+      - 악화 신호: sasang-progression/worsening-signs.md
+      - 회복 신호: sasang-progression/recovery-signs.md
+      - 네 체질 단계 비교: sasang-progression/comparison.md
+    - 사상체질 소증 9항목 심화:
+      - sasang-original-symptoms/index.md
+      - 소화·식욕: sasang-original-symptoms/digestion-appetite.md
+      - 대변: sasang-original-symptoms/stool.md
+      - 소변: sasang-original-symptoms/urination.md
+      - 땀: sasang-original-symptoms/sweating.md
+      - 수면: sasang-original-symptoms/sleep.md
+      - 한열: sasang-original-symptoms/cold-heat.md
+      - 갈증·음수: sasang-original-symptoms/thirst-drinking.md
+      - 피로·회복: sasang-original-symptoms/fatigue-recovery.md
+      - 성정·정서: sasang-original-symptoms/emotion.md
+      - 네 체질 비교: sasang-original-symptoms/comparison.md
+      - 소증 문진표: sasang-original-symptoms/interview-checklist.md
+      - 근거: sasang-original-symptoms/references.md
+    - 사상처방 상세 임상 카드:
+      - sasang-formula-cards/index.md
+      - 태음조위탕: sasang-formula-cards/taeeumjowi-tang.md
+      - 청심연자탕: sasang-formula-cards/cheongsimyeonja-tang.md
+      - 형방지황탕: sasang-formula-cards/hyeongbangjihwang-tang.md
+      - 형방도적산: sasang-formula-cards/hyeongbangdojeok-san.md
+      - 양격산화탕: sasang-formula-cards/yanggyeoksanhwa-tang.md
+      - 곽향정기산: sasang-formula-cards/gwakhyangjeonggi-san.md
+      - 6종 비교: sasang-formula-cards/comparison-map.md
+      - 처방 선택 원칙: sasang-formula-cards/selection-principles.md
+      - 근거: sasang-formula-cards/references.md
+    - 사상처방 상세 임상 카드 2차:
+      - sasang-formula-cards-2/index.md
+      - 열다한소탕: sasang-formula-cards-2/yeoldahanso-tang.md
+      - 조위승청탕: sasang-formula-cards-2/jowiseungcheong-tang.md
+      - 청폐사간탕: sasang-formula-cards-2/cheongpyesagan-tang.md
+      - 독활지황탕: sasang-formula-cards-2/dokhwaljihwang-tang.md
+      - 형방사백산: sasang-formula-cards-2/hyeongbangsabaek-san.md
+      - 백하오이중탕: sasang-formula-cards-2/baekhao-ijung-tang.md
+      - 관계부자이중탕: sasang-formula-cards-2/gwangye-buja-ijung-tang.md
+      - 오가피장척탕: sasang-formula-cards-2/ogapi-jangcheok-tang.md
+      - 미후등식장탕: sasang-formula-cards-2/mihudeung-sikjang-tang.md
+      - 15종 처방 연결 지도: sasang-formula-cards-2/full-map.md
+      - 근거: sasang-formula-cards-2/references.md
+    - 사상체질 병증 감별 심화:
+      - sasang-pattern-differential/index.md
+      - 소음인 태음병 vs 소음병: sasang-pattern-differential/soeumin-taeeum-vs-soeum.md
+      - 소음인 망양병까지: sasang-pattern-differential/soeumin-severity-map.md
+      - 소양인 망음 vs 흉격열: sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md
+      - 소양인 음허오열까지: sasang-pattern-differential/soyangin-severity-map.md
+      - 태음인 표한 vs 리열: sasang-pattern-differential/taeeumin-exterior-vs-interior.md
+      - 태양인 해역 vs 열격: sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md
+      - 네 체질 감별 핵심표: sasang-pattern-differential/four-constitution-map.md
+      - 병증 감별 문진 순서: sasang-pattern-differential/interview-algorithm.md
+      - 근거: sasang-pattern-differential/references.md
+    - 사상체질 중증도·위험신호 지도:
+      - sasang-severity/index.md
+      - 소음인 중증도: sasang-severity/soeumin.md
+      - 소양인 중증도: sasang-severity/soyangin.md
+      - 태음인 중증도: sasang-severity/taeeumin.md
+      - 태양인 중증도: sasang-severity/taeyangin.md
+      - 경증→위중증 비교: sasang-severity/severity-comparison.md
+      - 소증 붕괴와 위험신호: sasang-severity/original-symptom-collapse.md
+      - 진료 우선순위 체크: sasang-severity/clinical-priority.md
+      - 회복·예후 추적: sasang-severity/recovery-prognosis.md
+      - 근거: sasang-severity/references.md
+    - 사상체질 치료 경과관찰·재평가:
+      - sasang-followup/index.md
+      - 초진 기록: sasang-followup/initial-assessment.md
+      - 1차 치료 후 재평가: sasang-followup/first-followup.md
+      - 소증·현증 변화표: sasang-followup/symptom-change-table.md
+      - 처방 유지·변경 판단: sasang-followup/formula-decision.md
+      - 체질별 회복 추적: sasang-followup/constitution-recovery.md
+      - mCGI 기반 평가: sasang-followup/mcgi-assessment.md
+      - 재발예방·생활관리: sasang-followup/relapse-prevention.md
+      - 진료 경과기록 템플릿: sasang-followup/clinical-template.md
+      - 근거: sasang-followup/references.md
+    - 사상처방 전체 색인·처방집:
+      - 사상처방 전체 색인: sasang-formula-library/index.md
+      - 행인승청탕: sasang-formula-library/haenginseungcheong-tang.md
+      - 활석고삼탕: sasang-formula-library/hwalseokgosam-tang.md
+      - 화석지황탕: sasang-formula-library/hwaseokjihwang-tang.md
+      - 형방도백산: sasang-formula-library/hyeongbangdobaek-san.md
+      - 형방패독산: sasang-formula-library/hyeongbangpaedok-san.md
+      - 현삼백호탕: sasang-formula-library/hyeonsambaekho-tang.md
+      - 조리폐원탕: sasang-formula-library/joripyewon-tang.md
+      - 마황정통탕: sasang-formula-library/mahwangjeongtong-tang.md
+      - 나복자승기탕: sasang-formula-library/nabokjaseunggi-tang.md
+      - 숙지황고삼탕: sasang-formula-library/sukjihwanggosam-tang.md
+    - 사상처방 배합 원리·공통본초:
+      - sasang-formula-combination-network/index.md
+      - 공통본초 빈도: sasang-formula-combination-network/ingredient-frequency.md
+      - 소양인 처방 배합망: sasang-formula-combination-network/soyangin-network.md
+      - 태음인 처방 배합망: sasang-formula-combination-network/taeeumin-network.md
+      - 소음인 처방 배합망: sasang-formula-combination-network/soeumin-network.md
+      - 비슷한 처방 쌍 비교: sasang-formula-combination-network/pair-comparisons.md
+      - 처방군·골격 비교: sasang-formula-combination-network/formula-families.md
+    - 사상처방 구성비·용량 지문:
+      - sasang-formula-dose-fingerprint/index.md
+      - 처방별 고용량 핵심약재: sasang-formula-dose-fingerprint/core-dose-map.md
+      - 체질별 용량 패턴: sasang-formula-dose-fingerprint/constitution-dose-patterns.md
+      - 유사처방 구성비 비교: sasang-formula-dose-fingerprint/dose-pair-comparisons.md
+      - 처방 용량 지문 표: sasang-formula-dose-fingerprint/formula-fingerprint-table.md
+    - 사상처방 구성·용량 라이브러리:
+      - sasang-formula-library/index.md
+      - 소양인 처방:
+        - 망음·표병: sasang-formula-library/soyangin-exterior.md
+        - 흉격열·리열: sasang-formula-library/soyangin-interior-heat.md
+        - 음허오열·하소: sasang-formula-library/soyangin-yin-deficiency.md
+        - 기타 주요 처방: sasang-formula-library/soyangin-other.md
+        - 주요 처방:
+          - 황련청장탕: sasang-formula-library/hwangryeoncheongjang-tang.md
+      - 태음인 처방:
+        - 위완수한표한: sasang-formula-library/taeeumin-exterior-cold.md
+        - 간수열리열: sasang-formula-library/taeeumin-interior-heat.md
+        - 기타 주요 처방: sasang-formula-library/taeeumin-other.md
+        - 주요 처방:
+          - 갈근해기탕: sasang-formula-library/galgeunhaegi-tang.md
+          - 갈근승기탕: sasang-formula-library/galgeunseunggi-tang.md
+          - 승지조위탕: sasang-formula-library/seungjijowi-tang.md
+      - 소음인 처방:
+        - 태음병·리한: sasang-formula-library/soeumin-taeeum.md
+        - 망양·표병: sasang-formula-library/soeumin-mangyang.md
+        - 비위·기체·기타: sasang-formula-library/soeumin-digestive.md
+        - 주요 처방:
+          - 승양팔물탕: sasang-formula-library/seungyangpalmul-tang.md
+          - 향부자팔물탕: sasang-formula-library/hyangbujapalmul-tang.md
+          - 향소산: sasang-formula-library/hyangso-san.md
+          - 궁귀향소산: sasang-formula-library/gunggwihyangso-san.md
+          - 계지부자탕: sasang-formula-library/gyejibujatang.md
+          - 인삼계지부자탕: sasang-formula-library/insamgyejibujatang.md
+          - 오수유부자이중탕: sasang-formula-library/osuyubujairijung-tang.md
+          - 궁귀총소이중탕: sasang-formula-library/gunggwichongsoijung-tang.md
+- 연구·근거:
+  - 연구·근거 한눈에 보기: evidence-integrated/index.md
+  - 근거 수준 읽기: evidence-integrated/evidence-levels.md
+  - 논문·PMID·DOI 찾기: evidence-integrated/find-research.md
+  - 한약 연구: evidence-integrated/herbal-evidence.md
+  - 침구 연구: evidence-integrated/acupuncture-evidence.md
+  - 사상의학 연구: evidence-integrated/sasang-evidence.md
+  - 고전·전통자료: evidence-integrated/classical-sources.md
+  - 임상에 적용하기: evidence-integrated/clinical-application.md
+  - 상세 자료실:
+    - portal/evidence.md
+    - 근거 읽는 법:
+      - evidence-guide/index.md
+      - 전통 문헌과 현대 연구: evidence-guide/tradition-modern.md
+      - 전임상·기전 연구: evidence-guide/preclinical.md
+      - 임상시험 RCT: evidence-guide/rct.md
+      - 체계적 문헌고찰·메타분석: evidence-guide/systematic-review.md
+      - PMID·DOI 읽는 법: evidence-guide/pmid-doi.md
+      - 한의학 근거 계층 지도: evidence-guide/evidence-ladder.md
+    - 출처·근거 허브:
+      - authority/index.md
+      - 공진단 근거 카드: authority/gongjin-dan.md
+      - 경옥고 근거 카드: authority/gyeongok-go.md
+      - 보중익기탕 근거 카드: authority/buzhong-yiqi-tang.md
+      - 독활기생탕 근거 카드: authority/duhuo-jisheng-tang.md
+      - 침 치료 근거 카드: authority/acupuncture.md
+      - 약침 근거 카드: authority/pharmacopuncture.md
+      - 불면 근거 카드: authority/insomnia.md
+      - 요통 근거 카드: authority/low-back-pain.md
+      - 대표 본초 근거 카드:
+        - authority/herbs/index.md
+        - 녹용: authority/herbs/velvet-antler.md
+        - 인삼: authority/herbs/ginseng.md
+        - 황기: authority/herbs/astragalus.md
+        - 당귀: authority/herbs/angelica.md
+        - 산조인: authority/herbs/ziziphus-seed.md
+        - 맥문동: authority/herbs/ophiopogon.md
+      - 질환별 현대 근거 카드:
+        - authority/conditions/index.md
+        - 기능성 소화불량: authority/conditions/functional-dyspepsia.md
+        - 알레르기비염: authority/conditions/allergic-rhinitis.md
+        - 무릎 골관절염: authority/conditions/knee-osteoarthritis.md
+        - 만성 목통증: authority/conditions/chronic-neck-pain.md
+        - 긴장형 두통: authority/conditions/tension-headache.md
+        - 어깨 충돌증후군·어깨통증: authority/conditions/shoulder-pain.md
+        - 편두통: authority/conditions/migraine.md
+        - 턱관절장애 TMD: authority/conditions/tmd.md
+        - 손목터널증후군: authority/conditions/carpal-tunnel.md
+        - 섬유근육통: authority/conditions/fibromyalgia.md
+        - 족저근막염·발뒤꿈치통증: authority/conditions/plantar-fasciitis.md
+        - 테니스엘보·외측상과통: authority/conditions/lateral-epicondylitis.md
+        - 뇌졸중 재활: authority/conditions/stroke-rehabilitation.md
+        - 뇌졸중 후 감각장애·통증: authority/conditions/post-stroke-sensory-pain.md
+        - 뇌졸중 후 견수증후군: authority/conditions/post-stroke-shoulder-hand.md
+        - 뇌졸중 후 연하장애: authority/conditions/post-stroke-dysphagia.md
+        - 뇌졸중 후 우울: authority/conditions/post-stroke-depression.md
+        - 대상포진 후 신경통: authority/conditions/postherpetic-neuralgia.md
+        - 뇌졸중 후 경직: authority/conditions/post-stroke-spasticity.md
+    - 현대 연구:
+      - research/index.md
+      - 임상시험 읽기: research/clinical-trials.md
+      - 체계적 문헌고찰 읽기: research/systematic-reviews.md
+      - 근거 수준: research/evidence-levels.md
+      - 임상 근거 허브: research/clinical-evidence-hub.md
+      - 한약 처방 임상근거:
+        - research/formulas/index.md
+        - 공진단: research/formulas/gongjin-dan.md
+        - 경옥고: research/formulas/gyeongok-go.md
+        - 십전대보탕: research/formulas/sipjeondaebo-tang.md
+        - 생맥산: research/formulas/shengmai-san.md
+        - 육군자탕: research/formulas/rikkunshito.md
+        - 귀비탕: research/formulas/guibi-tang.md
+        - 보중익기탕: research/formulas/buzhong-yiqi-tang.md
+        - 독활기생탕: research/formulas/duhuo-jisheng-tang.md
+      - 연구 유형별 보기:
+        - research/by-study-type.md
+        - 무작위 임상시험 RCT: research/rct-index.md
+        - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
+        - 기전·전임상 연구: research/mechanism-preclinical-index.md
+      - 참고문헌 데이터베이스: research/references/index.md
+    - 연구·근거 임상 해석 심화:
+      - evidence-clinical/index.md
+      - 근거의 층위: evidence-clinical/evidence-levels.md
+      - 고전근거와 현대근거: evidence-clinical/classic-vs-modern.md
+      - 전임상·기전 연구 읽기: evidence-clinical/preclinical.md
+      - 증례·관찰연구 읽기: evidence-clinical/case-observational.md
+      - RCT 읽기: evidence-clinical/rct.md
+      - 체계적 문헌고찰·메타분석: evidence-clinical/systematic-review.md
+      - 임상진료지침 읽기: evidence-clinical/guidelines.md
+      - 한의학 연구의 해석 포인트: evidence-clinical/km-specific.md
+      - 근거→임상 적용: evidence-clinical/evidence-to-practice.md
+      - 통합 근거 지도: evidence-clinical/integrated-map.md
+- 전체 둘러보기:
+  - portal/maps.md
+  - 안내:
+    - guide/index.md
+    - 운영 원칙: guide/editorial-policy.md
+    - 분류 체계: guide/taxonomy.md
+    - 출처·인용 원칙: guide/citation-policy.md
+    - 문서 상태 기준: guide/status-policy.md
+    - 경혈 문서 작성 원칙: acupuncture/acupoint-writing-guide.md
+    - SEO·AEO 문서 표준: seo-aeo-standard.md
+    - 문서 메타데이터 점검표: metadata-audit-guide.md
+    - AI·검색엔진용 사이트 구조: ai/site-structure.md
+    - 사이트 검색 안내: search-guide.md
+  - 핵심 주제 허브:
+    - pillar/index.md
+    - 보익·회복 허브: pillar/tonic-recovery.md
+    - 통증·근골격 허브: pillar/pain-musculoskeletal.md
+    - 수면·신경계 허브: pillar/sleep-neuro.md
+    - 소화·비위 허브: pillar/digestion-spleen-stomach.md
+    - 침구·치료 허브: pillar/acupuncture-treatment.md
+    - 고전·역사 허브: pillar/classics-history.md
+    - 현대 임상근거 허브: pillar/clinical-evidence.md
+  - 태그: tags.md
+  - 한의학 지식망:
+    - network/index.md
+    - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
+    - 인삼을 쓰는 처방: network/ginseng-formulas.md
+    - 황기를 쓰는 처방: network/astragalus-formulas.md
+    - 당귀를 쓰는 처방: network/angelica-formulas.md
+    - 백출을 쓰는 처방: network/atractylodes-formulas.md
+    - 복령을 쓰는 처방: network/poria-formulas.md
+    - 감초를 쓰는 처방: network/licorice-formulas.md
+    - 반하를 쓰는 처방: network/pinellia-formulas.md
+    - 처방군 지도: network/formula-family-map.md
+    - 불면 임상 지식망: network/insomnia-map.md
+    - 만성피로 임상 지식망: network/fatigue-map.md
+    - 소화불량 임상 지식망: network/dyspepsia-map.md
+    - 요통 임상 지식망: network/low-back-pain-map.md
+    - 증상별 임상 지도: network/clinical-map.md
+    - 공진단 지식망: network/gongjin-dan-map.md
+    - 경옥고 지식망: network/gyeongok-go-map.md
+    - 공진단과 경옥고 비교: network/gongjin-vs-gyeongok.md
+    - 보익·양생 허브: network/tonic-wellness-hub.md
+    - 보익 처방 비교: network/tonic-formula-compare.md
+    - 피로·회복 지식망: network/recovery-map.md
+    - 처방 구성 네트워크: network/formula-composition-hub.md
+    - 공진단 구성 본초: network/gongjin-composition.md
+    - 경옥고 구성 본초: network/gyeongok-composition.md
+    - 생맥산 구성 본초: network/shengmai-composition.md
+    - 오령산 구성 본초: network/wuling-composition.md
+    - 십전대보탕 구성 본초: network/shipjeondaebo-composition.md
+    - 아카이브 분류 안내: network/navigation-guide.md
+    - 침구 임상 지식망: network/acupuncture-clinical-map.md
+    - 불면 경혈 지식망: network/insomnia-acupoints.md
+    - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
+    - 요통 경혈 지식망: network/low-back-pain-acupoints.md
+    - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
+    - 한의치료 방법 지식망: network/treatment-methods-map.md
+    - 질환·증상 확장 지도: network/condition-expansion-map.md
+    - 의가·고전·처방 계보: network/physician-classic-formula-lineage.md
+    - 장중경 계보: network/zhang-zhongjing-lineage.md
+    - 이동원 계보: network/li-dongyuan-lineage.md
+    - 손사막 계보: network/sun-simiao-lineage.md
+    - 허준 계보: network/heo-jun-lineage.md
+    - 이제마 계보: network/lee-je-ma-lineage.md
+    - 상한론 태양병 지도: network/shanghan-taiyang-map.md
+    - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
+    - 본초→방제 역탐색: network/herb-to-formula-map.md
+    - 방제→질환·변증 지도: network/formula-to-condition-map.md
+    - 질환→치료 통합 지도: network/condition-to-treatment-map.md
+    - 고전→현대 연구 연결: network/classic-to-evidence-map.md
+  - 전체 기존 메뉴:
+    - 진단·변증:
+      - diagnostics/index.md
+      - 사진: diagnostics/four-examinations.md
+      - 팔강변증: diagnostics/eight-principles.md
+      - 장부변증: diagnostics/zangfu-patterns.md
+      - 기혈진액변증: diagnostics/qi-blood-fluid-patterns.md
+      - 기허(氣虛): diagnostics/qi-deficiency.md
+      - 혈허(血虛): diagnostics/blood-deficiency.md
+      - 어혈(瘀血): diagnostics/blood-stasis.md
+      - 담음(痰飮): diagnostics/phlegm-fluid.md
+    - 한의치료 방법:
+      - treatments/index.md
+      - 침 치료: treatments/acupuncture.md
+      - 약침: treatments/pharmacopuncture.md
+      - 전침: treatments/electroacupuncture.md
+      - 부항: treatments/cupping.md
+      - 뜸: treatments/moxibustion.md
+      - 온열·TDP: treatments/thermal-tdp.md
+      - 복합 치료 전략: treatments/integrated-treatment.md
+    - 질환·증상:
+      - conditions/index.md
+      - 불면: conditions/insomnia.md
+      - 소화불량: conditions/dyspepsia.md
+      - 만성피로: conditions/chronic-fatigue.md
+      - 요통: conditions/low-back-pain.md
+      - 목통증: conditions/neck-pain.md
+      - 어깨통증: conditions/shoulder-pain.md
+      - 무릎통증: conditions/knee-pain.md
+      - 두통: conditions/headache.md
+      - 어지럼: conditions/dizziness.md
+      - 비염: conditions/rhinitis.md
+      - 감기·급성 상기도감염: conditions/common-cold.md
+      - 기침: conditions/cough.md
+      - 갱년기: conditions/menopause.md
+      - 산후회복: conditions/postpartum-recovery.md
+    - 의가·인물:
+      - physicians/index.md
+      - 허준: physicians/heo-jun.md
+      - 장중경: physicians/zhang-zhongjing.md
+      - 손사막: physicians/sun-simiao.md
+      - 이동원: physicians/li-dongyuan.md
+      - 이제마: physicians/lee-je-ma.md
+    - 한의학 고전:
+      - classics/index.md
+      - 황제내경: classics/huangdi-neijing.md
+      - 상한론:
+        - 개요: classics/shanghanlun.md
+        - 태양병 조문:
+          - 태양병의 기본 정의: classics/shanghanlun/taiyang-definition.md
+          - 계지탕 주치 조문: classics/shanghanlun/guizhi-indication.md
+          - 마황탕 주치 조문: classics/shanghanlun/mahuang-indication.md
+          - 계지가갈근탕 조문: classics/shanghanlun/guizhi-jia-gegen.md
+          - 갈근탕 조문: classics/shanghanlun/gegen-tang.md
+          - 대청룡탕 조문: classics/shanghanlun/daqinglong.md
+          - 소청룡탕 조문: classics/shanghanlun/xiaoqinglong.md
+          - 오령산 조문: classics/shanghanlun/wuling-san.md
+          - 마행감석탕 조문: classics/shanghanlun/maxing-ganshi.md
+        - 소양병 조문:
+          - 소시호탕 주치 조문: classics/shanghanlun/xiaochaihu-indication.md
+      - 금궤요략: classics/jinkui-yaolue.md
+      - 비급천금요방: classics/beiji-qianjin-yaofang.md
+      - 비위론: classics/piwei-lun.md
+      - 동의보감:
+        - 개요: classics/donguibogam.md
+        - 탕액편:
+          - 탕액편 개요: classics/donguibogam/tangyeok/index.md
+          - 녹용: classics/donguibogam/tangyeok/deer-antler.md
+          - 인삼: classics/donguibogam/tangyeok/ginseng.md
+          - 황기: classics/donguibogam/tangyeok/astragalus.md
+          - 당귀: classics/donguibogam/tangyeok/angelica.md
+          - 백출: classics/donguibogam/tangyeok/atractylodes.md
+          - 복령: classics/donguibogam/tangyeok/poria.md
+          - 감초: classics/donguibogam/tangyeok/licorice.md
+          - 산조인: classics/donguibogam/tangyeok/ziziphus-seed.md
+          - 반하: classics/donguibogam/tangyeok/pinellia.md
+          - 진피: classics/donguibogam/tangyeok/citrus-peel.md
+          - 숙지황: classics/donguibogam/tangyeok/prepared-rehmannia.md
+          - 천궁: classics/donguibogam/tangyeok/chuanxiong.md
+          - 백작약: classics/donguibogam/tangyeok/white-peony.md
+          - 맥문동: classics/donguibogam/tangyeok/ophiopogon.md
+          - 두충: classics/donguibogam/tangyeok/eucommia.md
+          - 우슬: classics/donguibogam/tangyeok/achyranthes.md
+        - 공진단: classics/donguibogam/gongjin-dan.md
+        - 경옥고: classics/donguibogam/gyeongok-go.md
+      - 동의수세보원: classics/donguisusebowon.md
+    - 질문으로 찾기:
+      - faq/index.md
+      - 보익·공진단·경옥고: faq/tonic-faq.md
+      - 본초학: faq/herbs-faq.md
+      - 침·약침·침구: faq/acupuncture-faq.md
+      - 사상의학: faq/sasang-faq.md
+      - 증상·치료: faq/conditions-faq.md
+      - 고전·현대 연구: faq/classics-evidence-faq.md
+    - 용어사전:
+      - glossary/index.md
+      - 기(氣): glossary/qi.md
+      - 혈(血): glossary/blood.md
+      - 정(精): glossary/essence.md
+      - 진액(津液): glossary/body-fluids.md
+      - 담음(痰飮): glossary/phlegm-fluid.md
+      - 어혈(瘀血): glossary/blood-stasis.md
+      - 신양(腎陽): glossary/kidney-yang.md
+      - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
+      - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
+  - 한의학 고전 비교·계보:
+    - classics-network/index.md
+    - 황제내경: classics-network/huangdi-neijing.md
+    - 상한론: classics-network/shanghan-lun.md
+    - 금궤요략: classics-network/jingui-yaolue.md
+    - 동의보감: classics-network/donguibogam.md
+    - 동의수세보원: classics-network/donguisusebowon.md
+    - 고전 5종 비교: classics-network/comparison.md
+    - 고전 읽는 순서: classics-network/reading-path.md
+    - 고전→현대 임상 연결 지도: classics-network/integrated-map.md
+  - 황제내경 핵심 지식망:
+    - neijing-network/index.md
+    - 음양과 인체: neijing-network/yinyang-human-body.md
+    - 장부와 기능체계: neijing-network/zangfu-system.md
+    - 기혈진액: neijing-network/qi-blood-fluids.md
+    - 경락과 경맥: neijing-network/meridian-concepts.md
+    - 병인·병기: neijing-network/pathogenesis.md
+    - 사진·진단: neijing-network/diagnosis.md
+    - 치미병과 예방: neijing-network/prevention.md
+    - 황제내경→현대 한의학 지도: neijing-network/integrated-map.md
+  - 상한론 핵심 지식망:
+    - shanghan-network/index.md
+    - 육경변증: shanghan-network/six-stage-patterns.md
+    - 태양병: shanghan-network/taiyang.md
+    - 양명병: shanghan-network/yangming.md
+    - 소양병: shanghan-network/shaoyang.md
+    - 태음·소음·궐음: shanghan-network/yin-stages.md
+    - 대표 처방 구조: shanghan-network/formula-map.md
+    - 상한론 임상 추론: shanghan-network/clinical-reasoning.md
+    - 상한론→현대 한의학 지도: shanghan-network/integrated-map.md
+  - 금궤요략 핵심 지식망:
+    - jingui-network/index.md
+    - 잡병과 병증 구조: jingui-network/misc-disease-framework.md
+    - 담음·수기: jingui-network/phlegm-fluid.md
+    - 흉비·심통: jingui-network/chest-bi-heart-pain.md
+    - 복만·한산·숙식: jingui-network/abdominal-cold-food-retention.md
+    - 허로: jingui-network/consumptive-deficiency.md
+    - 부인병: jingui-network/gynecology.md
+    - 대표 처방 구조: jingui-network/formula-map.md
+    - 금궤요략 임상 추론: jingui-network/clinical-reasoning.md
+    - 금궤요략→현대 한의학 지도: jingui-network/integrated-map.md
+  - 동의보감 핵심 지식망:
+    - donguibogam-network/index.md
+    - 내경편: donguibogam-network/naegyeong.md
+    - 외형편: donguibogam-network/oehyeong.md
+    - 잡병편: donguibogam-network/japbyeong.md
+    - 탕액편: donguibogam-network/tangaek.md
+    - 침구편: donguibogam-network/chimgu.md
+    - 양생과 예방: donguibogam-network/yangsaeng-prevention.md
+    - 동의보감 임상 탐색법: donguibogam-network/clinical-navigation.md
+    - 동의보감→현대 한의학 지도: donguibogam-network/integrated-map.md
+  - 동의수세보원 핵심 지식망:
+    - donguisusebowon-network/index.md
+    - 사상인의 기본 구조: donguisusebowon-network/four-constitutions.md
+    - 성명론·사단론의 의미: donguisusebowon-network/seongmyeong-sadan.md
+    - 장부론과 체질 생리: donguisusebowon-network/zangbu-physiology.md
+    - 소증과 체질병증: donguisusebowon-network/ordinary-symptoms-patterns.md
+    - 표리병증과 처방: donguisusebowon-network/exterior-interior-patterns.md
+    - 체질별 치료 원칙: donguisusebowon-network/treatment-principles.md
+    - 양생·성정 관리: donguisusebowon-network/lifestyle-emotion.md
+    - 동의수세보원→현대 사상의학 지도: donguisusebowon-network/integrated-map.md
+  - 온병학 핵심 지식망:
+    - wenbing-network/index.md
+    - 온병학이란: wenbing-network/what-is-wenbing.md
+    - 위기영혈변증: wenbing-network/wei-qi-ying-xue.md
+    - 삼초변증: wenbing-network/triple-burner-patterns.md
+    - 위분·기분: wenbing-network/wei-qi-stages.md
+    - 영분·혈분: wenbing-network/ying-xue-stages.md
+    - 대표 처방 구조: wenbing-network/formula-map.md
+    - 온열론과 온병조변: wenbing-network/classic-texts.md
+    - 상한론과 온병학 비교: wenbing-network/shanghan-comparison.md
+    - 온병학→현대 한의학 지도: wenbing-network/integrated-map.md
+  - 방약합편 핵심 지식망:
+    - bangyakhappyeon-network/index.md
+    - 방약합편이란: bangyakhappyeon-network/what-is-bangyakhappyeon.md
+    - 상통·중통·하통: bangyakhappyeon-network/sang-jung-ha.md
+    - 손익본초·약성가: bangyakhappyeon-network/boncho-yakseongga.md
+    - 칠방·십제: bangyakhappyeon-network/seven-formulas-ten-agents.md
+    - 처방 탐색법: bangyakhappyeon-network/clinical-navigation.md
+    - 동의보감과 방약합편 비교: bangyakhappyeon-network/donguibogam-comparison.md
+    - 방약합편→현대 임상 지도: bangyakhappyeon-network/integrated-map.md
+- 민성한의원 ↗: https://www.minseong.co.kr/
+not_in_nav: '/ai-index.md
+
+  /foundations/zangfu.md
+
+  /templates/classic-template.md
+
+  /templates/condition-template.md
+
+  /templates/formula-template.md
+
+  /templates/herb-template.md
+
+  /templates/research-template.md
+
+  '
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+  links:
+    not_found: warn

@@ -1,4 +1,4 @@
----
+﻿---
 title: 얼굴 한쪽이 자꾸 떨리거나 씰룩거리는 이유는 무엇인가요?
 description: 얼굴 떨림을 위치·지속시간·피로·카페인·눈주변 떨림·신경학적 위험신호와 함께 설명합니다.
 tags: [얼굴떨림, 눈떨림, 안면경련, 피로, 신경증상]
@@ -24,4 +24,5 @@ tags: [얼굴떨림, 눈떨림, 안면경련, 피로, 신경증상]
 - [두통](../conditions/headache.md)
 - [경항통](../conditions/neck-pain.md)
 - [만성피로](../conditions/chronic-fatigue.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
+

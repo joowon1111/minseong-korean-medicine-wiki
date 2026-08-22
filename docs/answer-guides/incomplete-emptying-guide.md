@@ -1,4 +1,4 @@
----
+﻿---
 title: 소변을 봐도 시원하지 않고 남아 있는 느낌이 드는 이유는 무엇인가요?
 description: 잔뇨감을 소변줄기·빈뇨·배뇨통·전립선·골반긴장·위험신호와 함께 설명합니다.
 tags: [잔뇨감, 전립선, 배뇨장애, 빈뇨, 남성건강]
@@ -21,7 +21,8 @@ tags: [잔뇨감, 전립선, 배뇨장애, 빈뇨, 남성건강]
 소변이 거의 또는 전혀 나오지 않으면서 아랫배가 심하게 팽창하거나, 혈뇨·고열·오한·심한 옆구리 통증이 있으면 빠른 진료가 필요합니다.
 
 ## 더 깊게 보기
-- [전립선·배뇨](../conditions/prostate-urinary.md)
+- [전립선·배뇨](../conditions/prostate-urinary-symptoms.md)
 - [골반통](../conditions/pelvic-pain.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [만성통증](../conditions/chronic-pain.md)
+

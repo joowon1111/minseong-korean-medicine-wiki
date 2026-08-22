@@ -1,4 +1,4 @@
----
+﻿---
 title: 조금만 움직여도 금방 지치고 회복이 느린 이유는 무엇인가요?
 description: 가벼운 활동 후 피로를 운동능력·호흡·심계·근육회복·수면·빈혈 등과 함께 설명합니다.
 tags: [쉽게지침, 운동후피로, 만성피로, 체력저하, 기력회복]
@@ -23,5 +23,6 @@ tags: [쉽게지침, 운동후피로, 만성피로, 체력저하, 기력회복]
 ## 더 깊게 보기
 - [만성피로](../conditions/chronic-fatigue.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

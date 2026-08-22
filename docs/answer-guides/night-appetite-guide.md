@@ -1,4 +1,4 @@
----
+﻿---
 title: 밤만 되면 식욕이 폭발하고 자꾸 먹고 싶은 이유는 무엇인가요?
 description: 야간 식욕을 낮 섭취량·수면·스트레스·습관·야식 후 소화와 함께 설명합니다.
 tags: [야식, 밤식욕, 폭식, 식욕, 수면]
@@ -21,7 +21,9 @@ tags: [야식, 밤식욕, 폭식, 식욕, 수면]
 야간 섭취를 스스로 조절하기 어렵고 반복적인 폭식과 죄책감, 구토나 극단적인 식사 제한이 동반된다면 전문적인 평가와 도움이 필요합니다.
 
 ## 더 깊게 보기
-- [식욕부진](../conditions/anorexia.md)
+- [식욕부진](../conditions/poor-appetite-adult.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [불면](../conditions/insomnia.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
+
+

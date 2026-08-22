@@ -1,4 +1,4 @@
----
+﻿---
 title: 갱년기인데 열감과 잠 문제가 같이 생기면 어떻게 봐야 하나요?
 description: 갱년기 열감·야간발한·불면을 발생시간·야간각성·심계·불안·생활패턴과 함께 설명합니다.
 tags: [갱년기, 열감, 불면, 야간발한, 갱년기한약]
@@ -23,5 +23,6 @@ tags: [갱년기, 열감, 불면, 야간발한, 갱년기한약]
 ## 더 깊게 보기
 - [갱년기](../conditions/menopause.md)
 - [불면](../conditions/insomnia.md)
-- [여성 생애주기](../conditions/womens-lifecycle.md)
+- [여성 생애주기](../answer-guides/women-lifecycle-guide.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

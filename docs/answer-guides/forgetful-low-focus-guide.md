@@ -1,4 +1,4 @@
----
+﻿---
 title: 건망증이 늘고 집중력이 떨어진 것 같으면 무엇을 확인해야 하나요?
 description: 건망증·집중저하를 수면·스트레스·피로·기분·약물·일상기능 변화와 함께 설명합니다.
 tags: [건망증, 집중력저하, 기억력저하, 브레인포그, 만성피로]
@@ -23,5 +23,6 @@ tags: [건망증, 집중력저하, 기억력저하, 브레인포그, 만성피�
 ## 더 깊게 보기
 - [만성피로](../conditions/chronic-fatigue.md)
 - [불면](../conditions/insomnia.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [수면·신경계 허브](../pillar/sleep-neuro.md)
+

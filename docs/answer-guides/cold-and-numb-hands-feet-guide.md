@@ -1,4 +1,4 @@
----
+﻿---
 title: 손발이 차면서 저리기까지 하면 혈액순환 문제인가요?
 description: 냉감과 저림을 말초혈류·신경압박·자세·대사성 원인·위험신호로 나눠 설명합니다.
 tags: [손발저림, 손발냉증, 혈액순환, 신경압박, 자율신경]
@@ -24,4 +24,5 @@ tags: [손발저림, 손발냉증, 혈액순환, 신경압박, 자율신경]
 - [손저림](../conditions/hand-numbness.md)
 - [경항통](../conditions/neck-pain.md)
 - [요통](../conditions/low-back-pain.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
+

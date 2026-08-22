@@ -1,4 +1,4 @@
----
+﻿---
 title: 저녁만 되면 다리가 붓는 이유는 무엇인가요?
 description: 저녁 다리 부종을 양측성·서있기·정맥순환·약물·심장·신장 관련 위험신호와 함께 설명합니다.
 tags: [다리붓기, 저녁부종, 하지부종, 순환, 부종]
@@ -22,6 +22,7 @@ tags: [다리붓기, 저녁부종, 하지부종, 순환, 부종]
 
 ## 더 깊게 보기
 - [부종](../conditions/edema.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

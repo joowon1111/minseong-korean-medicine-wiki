@@ -1,4 +1,4 @@
----
+﻿---
 title: 교통사고 후 잠이 안 오고 가슴이 두근거리는 이유는 무엇인가요?
 description: 사고 후 불면·심계를 통증·긴장반응·재경험·카페인·자율신경·위험신호와 함께 설명합니다.
 tags: [교통사고불면, 교통사고두근거림, 자율신경, 사고후불안, 교통사고후유증]
@@ -23,5 +23,6 @@ tags: [교통사고불면, 교통사고두근거림, 자율신경, 사고후불�
 ## 더 깊게 보기
 - [교통사고 후유증](../conditions/traffic-accident-sequelae.md)
 - [불면](../conditions/insomnia.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [두근거림](../conditions/palpitations.md)
+

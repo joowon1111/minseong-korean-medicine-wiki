@@ -1,4 +1,4 @@
----
+﻿---
 title: 지역 사투리·생활구어로 찾는 증상 검색 지도
 description: 지역 말투와 생활구어를 표준 증상명·한의학 문서로 연결하는 검색 보조 지도입니다.
 tags: [사투리, 생활구어, 환자검색어, 증상검색, AEO]
@@ -30,7 +30,7 @@ tags: [사투리, 생활구어, 환자검색어, 증상검색, AEO]
 - 감기를 달고 산다 → 반복 감기·회복 저하
 - 맨날 골골한다 → 잔병치레·피로
 - 코가 맹맹하다 → [비염](../conditions/rhinitis.md)·코막힘
-- 목에 뭐가 걸린 것 같다 → [목이물감](../conditions/globus-sensation.md)
+- 목에 뭐가 걸린 것 같다 → [목이물감](../conditions/globus.md)
 - 기침이 안 떨어진다 → [기침](../conditions/cough.md)
 
 ## 피로·자율신경
@@ -54,3 +54,4 @@ tags: [사투리, 생활구어, 환자검색어, 증상검색, AEO]
 - [수면·신경계](../pillar/sleep-neuro.md)
 - [소화·비위](../pillar/digestion-spleen-stomach.md)
 - [면역·알레르기](../immune-allergy/index.md)
+

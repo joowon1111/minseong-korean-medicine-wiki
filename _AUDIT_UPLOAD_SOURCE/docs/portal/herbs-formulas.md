@@ -1,0 +1,34 @@
+﻿---
+title: 본초·방제
+description: 본초와 방제를 증상·병증·치법·배합구조·임상 활용으로 탐색하는 한약 포털입니다.
+hide:
+  - toc
+---
+<div class="ms-hero">
+<h1>본초·방제</h1>
+<p class="ms-sub">본초의 성미·귀경과 방제의 구성 원리, 보익 처방과 처방 계보를 연결해 탐색합니다.</p>
+</div>
+<div class="ms-grid">
+<a class="ms-card" href="/herbs/"><strong>본초학</strong><span>관련 문서 보기 →</span></a>
+<a class="ms-card" href="/formulas/"><strong>방제학</strong><span>관련 문서 보기 →</span></a>
+<a class="ms-card" href="/formula-architecture/"><strong>방제 구조</strong><span>관련 문서 보기 →</span></a>
+<a class="ms-card" href="/pillar/tonic-recovery/"><strong>보익·회복</strong><span>관련 문서 보기 →</span></a>
+</div>
+
+## 검색으로 바로 찾기
+상단 검색창에 본초·처방·질환·경혈·고전 또는 PMID를 입력하면 관련 문서와 섹션을 바로 찾을 수 있습니다.
+
+<!-- MINSEONG_PORTAL_MAP_ENRICH_V1 -->
+## 본초·방제 포털
+
+약재명이나 처방명뿐 아니라 **피로, 소화, 수면, 통증, 비염, 여성건강** 같은 증상에서 본초와 방제로 들어갈 수 있습니다.
+
+본초 → 방제 → 병증 → 환자 증상 → 현대 연구근거가 서로 연결됩니다.
+
+<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+## 관련 핵심 문서
+
+- [아카이브 안내](../guide/index.md)
+- [증상·질환](../conditions/index.md)
+- [AI 검색 구조](../ai-index.md)
+

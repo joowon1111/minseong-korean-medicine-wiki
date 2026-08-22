@@ -1,4 +1,4 @@
----
+﻿---
 title: 잘 먹는데도 아이가 마르고 체력이 약하면 무엇을 확인하나요?
 description: 마르고 쉽게 지치는 아이를 실제 섭취량·체중곡선·활동량·수면·배변·전신증상과 함께 살펴봅니다.
 tags: [마른아이, 체력약한아이, 소아보약, 체중증가, 허약아]
@@ -22,6 +22,7 @@ tags: [마른아이, 체력약한아이, 소아보약, 체중증가, 허약아]
 
 ## 더 깊게 보기
 - [소아보약](../conditions/pediatric-tonic.md)
-- [식욕부진](../conditions/anorexia.md)
+- [식욕부진](../conditions/poor-appetite-adult.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [만성피로](../conditions/chronic-fatigue.md)
+
