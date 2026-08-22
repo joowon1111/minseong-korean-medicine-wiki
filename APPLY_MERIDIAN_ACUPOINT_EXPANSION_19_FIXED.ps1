@@ -1,0 +1,13 @@
+﻿$ErrorActionPreference="Stop"
+function U($f,$s,$e,$b){$t=Get-Content $f -Raw -Encoding UTF8;if($t.Contains($s)){$p=[regex]::Escape($s)+".*?"+[regex]::Escape($e);$t=[regex]::Replace($t,$p,$b,[Text.RegularExpressions.RegexOptions]::Singleline)}else{$t=$t.TrimEnd()+"`r`n`r`n"+$b};Set-Content $f $t -Encoding UTF8}
+function F($a,$pat){foreach($n in $a){if(Test-Path $n){return $n}};$h=Get-ChildItem docs -Recurse -Filter *.md -File|Where-Object{(Get-Content $_.FullName -Raw -Encoding UTF8)-match $pat}|Select-Object -First 1;if($h){return $h.FullName};return $null}
+try{$R=Split-Path -Parent $MyInvocation.MyCommand.Path;Set-Location $R;if(!(Test-Path docs)){throw "docs folder not found"}
+$bk="_backup_meridian19fixed_"+(Get-Date -Format "yyyyMMdd-HHmmss");New-Item -ItemType Directory -Force $bk|Out-Null
+New-Item -ItemType Directory -Force "docs\acupuncture\meridians"|Out-Null;New-Item -ItemType Directory -Force "docs\acupuncture\extraordinary"|Out-Null
+Copy-Item "_payload\meridians\*" "docs\acupuncture\meridians\" -Force;Copy-Item "_payload\extraordinary\*" "docs\acupuncture\extraordinary\" -Force
+$m=F @("docs\meridian-network\index.md","docs\meridian-network.md","docs\acupuncture\meridian-network.md") "경락.*지식망|meridian-network";if(!$m){throw "meridian-network source not found"}
+Copy-Item $m (Join-Path $bk "meridian-network.md") -Force;$b=Get-Content "_payload\meridian_block.md" -Raw -Encoding UTF8
+$dr=(Resolve-Path docs).Path;$r=(Resolve-Path $m).Path.Substring($dr.Length).TrimStart([char]92).Replace("\","/");if($r -ne "meridian-network.md"){$b=$b.Replace("(acupuncture/","(../acupuncture/").Replace("(acupoint-network/","(../acupoint-network/")};U $m "<!-- MERIDIAN_EXPANSION_19_START -->" "<!-- MERIDIAN_EXPANSION_19_END -->" $b
+$a=F @("docs\acupoint-network\index.md","docs\acupoint-network.md","docs\acupuncture\acupoint-network.md") "경혈 임상 지식망";if($a){Copy-Item $a (Join-Path $bk "acupoint-network.md") -Force;$q=Get-Content "_payload\acu_block.md" -Raw -Encoding UTF8;$r=(Resolve-Path $a).Path.Substring($dr.Length).TrimStart([char]92).Replace("\","/");if($r -ne "acupoint-network.md"){$q=$q.Replace("(acupuncture/","(../acupuncture/")};U $a "<!-- ACUPOINT_ATLAS_19_START -->" "<!-- ACUPOINT_ATLAS_19_END -->" $q}
+Write-Host "MERIDIAN ACUPOINT EXPANSION 19 FIXED COMPLETE" -ForegroundColor Green;Write-Host ("Meridian: "+$m) -ForegroundColor Cyan;Write-Host ("Acupoint: "+$a) -ForegroundColor Cyan;Write-Host ("Backup: "+$bk) -ForegroundColor Yellow
+}catch{Write-Host ("ERROR: "+$_.Exception.Message) -ForegroundColor Red};Read-Host "Press Enter to close"
