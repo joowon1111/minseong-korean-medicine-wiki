@@ -1,4 +1,4 @@
----
+﻿---
 title: 화담·이기 처방 임상 지식망
 description: 담음·기체·비위허를 이진탕·육군자탕·온담탕·반하사심탕 등과 감별해 연결합니다.
 tags: [방제학, 화담제, 이기제, 담음]
@@ -27,4 +27,5 @@ last_reviewed: 2026-08-22
 ## 감별
 
 → [담음 vs 식적](../../diagnostics/differentials/phlegm-vs-food-stagnation.md)  
-→ [소화불량 임상 연결](../../clinical-core/pathways/dyspepsia.md)
+→ [소화불량 임상 연결](../../conditions/dyspepsia.md)
+

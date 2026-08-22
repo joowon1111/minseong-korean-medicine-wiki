@@ -1,4 +1,4 @@
----
+﻿---
 title: 불면·수면저하
 description: 불면을 원인 감별·기혈부족·담음·간울·안신 방제·경혈과 연결합니다.
 tags: [불면, 수면]
@@ -21,4 +21,5 @@ tags: [불면, 수면]
 연구에서는 수면척도뿐 아니라 입면시간·야간각성·수면효율·낮 기능과 피로를 함께 평가합니다.
 
 ## 관련 핵심 문서
-[불면 임상 연결](../clinical-core/pathways/insomnia.md) · [안신·불면 처방](../formula-architecture/insomnia-family.md)
+[불면 임상 연결](../conditions/insomnia.md) · [안신·불면 처방](../formula-architecture/insomnia-family.md)
+

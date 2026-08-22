@@ -1,4 +1,4 @@
----
+﻿---
 title: 신허(腎虛) 임상 연결 지도
 description: 신허(腎虛) 임상 연결 지도의 주요 증상, 설·맥 참고점, 본초·방제·경혈, 환자 질문과 현대 연구를 연결합니다.
 tags: [변증, 임상한의학, 본초, 방제, 경혈]
@@ -28,7 +28,7 @@ tags: [변증, 임상한의학, 본초, 방제, 경혈]
 - [녹용](../../herbs/cervi-parvum-cornu.md)
 
 ## 방제
-- [육미지황환](../../formulas/liu-wei-di-huang-wan.md)
+- [육미지황환](../../formulas/index.md)
 - [팔미지황환](../../formulas/bawei-dihuang-wan.md)
 - [독활기생탕](../../formulas/duhuo-jisheng-tang.md)
 
@@ -52,3 +52,4 @@ tags: [변증, 임상한의학, 본초, 방제, 경혈]
 - [진단·변증 허브](../index.md)
 - [임상 핵심 본초·방제·경혈](../../clinical-core/index.md)
 - [현대 임상근거](../../pillar/clinical-evidence.md)
+

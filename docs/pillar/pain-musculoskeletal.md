@@ -1,4 +1,4 @@
----
+﻿---
 title: 통증·근골격 한의학 허브
 description: 요통·목·어깨·무릎·하지통증을 비증·어혈·한습·간신부족, 본초·방제·경혈·침구와 현대 임상근거로 연결합니다.
 tags: [Pillar, 통증, 근골격, 한의학지식망]
@@ -15,8 +15,8 @@ last_reviewed: 2026-08-22
 - [목통증](../conditions/neck-pain.md)
 - [어깨통증](../conditions/shoulder-pain.md)
 - [무릎통증](../conditions/knee-pain.md)
-- [요통 임상 연결 지도](../clinical-core/pathways/low-back-pain.md)
-- [무릎·하지통증 임상 연결 지도](../clinical-core/pathways/knee-leg-pain.md)
+- [요통 임상 연결 지도](../conditions/low-back-pain.md)
+- [무릎·하지통증 임상 연결 지도](../conditions/knee-pain.md)
 
 ## 변증 감별
 
@@ -38,7 +38,7 @@ last_reviewed: 2026-08-22
 - [오적산](../formulas/wuji-san.md)
 - [소경활혈탕](../formulas/shujing-huoxue-tang.md)
 - [당귀수산](../formulas/danggui-susan.md)
-- [작약감초탕](../formulas/shaoyao-gancao-tang.md)
+- [작약감초탕](../formulas/index.md)
 
 ## 경맥·경혈
 
@@ -69,3 +69,5 @@ last_reviewed: 2026-08-22
 ## 위험신호
 
 갑작스러운 근력저하, 배뇨·배변 장애, 진행성 감각저하, 심한 외상 후 통증, 발열과 신경학적 증상 등은 경락·변증보다 의학적 감별이 우선됩니다.
+
+

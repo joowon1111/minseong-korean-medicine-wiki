@@ -1,4 +1,4 @@
----
+﻿---
 title: 수면·신경계 한의학 허브
 description: 불면·자주 깨는 수면·심계·긴장·브레인포그를 심비양허·담음·음혈부족과 안신 본초·방제·경혈로 연결합니다.
 tags: [Pillar, 수면, 신경계, 안신]
@@ -11,7 +11,7 @@ last_reviewed: 2026-08-22
 
 ## 질문에서 시작
 
-- [불면·수면저하 임상 연결](../clinical-core/pathways/insomnia.md)
+- [불면·수면저하 임상 연결](../conditions/insomnia.md)
 - [잠을 자도 개운하지 않고 자주 깨는 경우](../answer-guides/sleep-autonomic-guide.md)
 - [가만히 있는데 두근거림](../answer-guides/palpitations-at-rest-guide.md)
 - [브레인포그·집중력 저하](../answer-guides/brain-fog-focus-guide.md)
@@ -44,3 +44,4 @@ last_reviewed: 2026-08-22
 
 - [현대 임상근거 허브](clinical-evidence.md)
 - [불면 임상 지식망](../network/insomnia-map.md)
+

@@ -7,23 +7,24 @@ tags: [방제, 경혈, 침구, 임상한의학]
 
 ## 비위허약·소화불량
 **육군자탕·향사육군자탕 ↔ 족삼리·중완·내관**
-→ [소화불량 임상 경로](../clinical-core/pathways/dyspepsia.md)
+→ [소화불량 임상 경로](../conditions/dyspepsia.md)
 
 ## 수면·심계
 **귀비탕·산조인탕 ↔ 신문·내관·인당**
-→ [불면 임상 경로](../clinical-core/pathways/insomnia.md)
+→ [불면 임상 경로](../conditions/insomnia.md)
 
 ## 한습·어혈성 근골격 통증
 **오적산·소경활혈탕 ↔ 대장수·위중·곤륜**
-→ [요통 임상 경로](../clinical-core/pathways/low-back-pain.md)
+→ [요통 임상 경로](../conditions/low-back-pain.md)
 
 ## 여성 냉증·어혈
 **온경탕·계지복령환 ↔ 삼음교·관원·태충**
-→ [여성 임상 경로](../clinical-core/pathways/women-cold-blood.md)
+→ [여성 임상 경로](../conditions/dysmenorrhea.md)
 
 ## 기허·회복저하
 **보중익기탕·십전대보탕 ↔ 족삼리·기해·관원**
-→ [피로·회복 임상 경로](../clinical-core/pathways/fatigue-recovery.md)
+→ [피로·회복 임상 경로](../conditions/fatigue.md)
 
 ## 해석 원칙
 한약과 침구를 같은 효능으로 단순 대응시키지 않고 **병증·치법이라는 공통 언어**를 중심으로 연결합니다.
+

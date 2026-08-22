@@ -1,4 +1,4 @@
----
+﻿---
 title: 안신·불면 처방 계열
 description: 귀비탕·산조인탕·천왕보심단·온담탕·시호가용골모려탕을 불면 변증으로 비교합니다.
 tags: [방제구조, 불면, 안신]
@@ -16,7 +16,8 @@ tags: [방제구조, 불면, 안신]
 | 시호가용골모려탕 | 소양·긴장·흉민·심계 |
 
 → [안신 본초](../herbs/categories/calm-spirit.md)  
-→ [불면 임상 연결](../clinical-core/pathways/insomnia.md)
+→ [불면 임상 연결](../conditions/insomnia.md)
 
 ## 경혈
 신문 HT7 · 내관 PC6 · 조해 KI6 · 인당 · 백회 GV20
+

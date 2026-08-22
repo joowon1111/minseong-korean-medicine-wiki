@@ -1,0 +1,1522 @@
+﻿score	path	body_chars	headings	internal_links	has_title	has_description	reasons
+10	meridian-network/special-points/lower-he-sea.md	173	1	0	True	True	very short body; few sections; few internal links
+10	meridian-network/special-points/eight-influential.md	203	1	0	True	True	very short body; few sections; few internal links
+10	meridian-network/special-points/front-mu.md	223	1	1	True	True	very short body; few sections; few internal links
+10	meridian-network/special-points/eight-confluent.md	290	2	1	True	True	very short body; few sections; few internal links
+10	meridian-network/special-points/yuan-luo-pairs.md	321	2	0	True	True	very short body; few sections; few internal links
+10	sasang-formula-cards-2/references.md	339	1	0	True	False	very short body; few sections; few internal links; missing description
+9	guide/status-policy.md	194	1	0	True	True	very short body; few sections; few internal links
+8	templates/classic-template.md	77	10	0	False	False	very short body; few internal links; missing description
+8	templates/condition-template.md	91	10	0	False	False	very short body; few internal links; missing description
+8	templates/research-template.md	107	12	0	False	False	very short body; few internal links; missing description
+8	templates/formula-template.md	114	16	0	False	False	very short body; few internal links; missing description
+8	acupoint-network/gv20.md	195	1	3	True	True	very short body; few sections
+8	acupoint-network/sp6.md	195	1	3	True	True	very short body; few sections
+8	acupoint-network/li4.md	202	1	3	True	True	very short body; few sections
+8	acupoint-network/bl23.md	209	2	3	True	True	very short body; few sections
+8	acupoint-network/ht7.md	210	2	3	True	True	very short body; few sections
+8	acupoint-network/pc6.md	223	1	3	True	True	very short body; few sections
+8	acupoint-network/bl40.md	234	1	3	True	True	very short body; few sections
+8	herbs/categories/nourish-yin.md	249	5	1	True	True	very short body; few internal links
+8	acupoint-network/st36.md	260	2	3	True	True	very short body; few sections
+8	sasang/donguisusebowon.md	268	2	3	True	True	very short body; few sections
+8	meridian-network/special-points/xi-cleft.md	276	3	0	True	True	very short body; few internal links
+8	sasang-followup/clinical-template.md	279	6	0	True	False	very short body; few internal links; missing description
+8	meridian-network/special-points/luo-connecting.md	280	3	0	True	True	very short body; few internal links
+8	classics/shanghanlun.md	281	4	1	True	True	very short body; few internal links
+8	formula-architecture/insomnia-family.md	281	2	2	True	True	very short body; few sections
+8	meridian-network/special-points/yuan-source.md	306	3	1	True	True	very short body; few internal links
+8	formula-architecture/spleen-phlegm-family.md	329	2	2	True	True	very short body; few sections
+8	sasang/integrated-map.md	329	2	5	True	True	very short body; few sections
+8	evidence-integrated/herbal-evidence.md	336	2	4	True	True	very short body; few sections
+8	meridian-network/conception-vessel.md	350	4	1	True	True	very short body; few internal links
+8	formula-architecture/bi-syndrome-family.md	361	2	2	True	True	very short body; few sections
+8	network/condition-to-treatment-map.md	361	5	1	True	True	very short body; few internal links
+8	meridian-network/governing-vessel.md	392	4	1	True	True	very short body; few internal links
+8	formula-architecture/tonic-family.md	397	2	4	True	True	very short body; few sections
+8	pillar/classics-history.md	439	1	9	True	True	very short body; few sections
+8	formula-architecture/siwu-qi-blood-family.md	482	2	5	True	True	very short body; few sections
+8	sasang-followup/references.md	610	1	0	True	False	short body; few sections; few internal links; missing description
+8	sasang-pattern-differential/references.md	708	1	0	True	False	short body; few sections; few internal links; missing description
+8	sasang-severity/references.md	768	1	0	True	False	short body; few sections; few internal links; missing description
+8	sasang-original-symptoms/references.md	786	1	0	True	False	short body; few sections; few internal links; missing description
+8	sasang-formula-cards/references.md	857	1	0	True	False	short body; few sections; few internal links; missing description
+7	acupuncture/extraordinary/chong.md	65	3	1	True	True	very short body; few internal links
+7	acupuncture/extraordinary/yinwei.md	65	3	1	True	True	very short body; few internal links
+7	acupuncture/extraordinary/dai.md	68	3	1	True	True	very short body; few internal links
+7	acupuncture/extraordinary/yangwei.md	69	3	1	True	True	very short body; few internal links
+7	acupuncture/extraordinary/yinqiao.md	69	3	1	True	True	very short body; few internal links
+7	acupuncture/extraordinary/yangqiao.md	70	3	1	True	True	very short body; few internal links
+7	acupuncture/extraordinary/du.md	85	3	1	True	True	very short body; few internal links
+7	acupuncture/extraordinary/ren.md	86	3	1	True	True	very short body; few internal links
+7	guide/index.md	144	1	4	True	True	very short body; few sections
+7	sasang-formula-library/soeumin-mangyang.md	179	1	3	True	True	very short body; few sections
+7	sasang-symptoms/sleep-palpitations.md	180	1	3	True	True	very short body; few sections
+7	shanghan-network/six-stage-patterns.md	191	1	4	True	True	very short body; few sections
+7	sasang-formulas/yanggyeoksanhwa-tang.md	193	1	3	True	True	very short body; few sections
+7	templates/herb-template.md	197	12	0	True	True	very short body; few internal links
+7	sasang-symptoms/digestion-fatigue.md	210	1	3	True	True	very short body; few sections
+7	guide/citation-policy.md	214	4	0	True	True	very short body; few internal links
+7	donguibogam-network/tangaek.md	215	1	3	True	True	very short body; few sections
+7	sasang-symptoms/heat-thirst.md	216	1	4	True	True	very short body; few sections
+7	neijing-network/integrated-map.md	217	1	3	True	True	very short body; few sections
+7	sasang-integrated/patterns.md	217	1	3	True	True	very short body; few sections
+7	sasang-formula-library/soyangin-yin-deficiency.md	218	1	3	True	True	very short body; few sections
+7	shanghan-network/integrated-map.md	218	1	3	True	True	very short body; few sections
+7	sasang-formula-library/soeumin-digestive.md	219	1	4	True	True	very short body; few sections
+7	acupuncture/extraordinary/index.md	221	2	9	True	True	very short body; few sections
+7	pattern-treatment/sinking-middle-qi.md	230	1	4	True	True	very short body; few sections
+7	donguibogam-network/chimgu.md	231	1	3	True	True	very short body; few sections
+7	sasang-formula-library/soyangin-interior-heat.md	231	1	3	True	True	very short body; few sections
+7	sasang-formulas/hyeongbangdojeok-san.md	236	1	3	True	True	very short body; few sections
+7	sasang-formula-library/soyangin-other.md	241	2	4	True	True	very short body; few sections
+7	tonic-masterpieces/index.md	241	1	5	True	True	very short body; few sections
+7	symptoms/longtail/sneezing-runny-nose.md	243	1	4	True	True	very short body; few sections
+7	sasang-original-symptoms/sleep.md	245	2	4	True	True	very short body; few sections
+7	tonic-masterpieces/deer-antler/clinical-map.md	245	2	3	True	True	very short body; few sections
+7	tonic-masterpieces/gongjindan/clinical-map.md	245	2	3	True	True	very short body; few sections
+7	jingui-network/integrated-map.md	249	1	3	True	True	very short body; few sections
+7	sasang-original-symptoms/fatigue-recovery.md	250	2	3	True	True	very short body; few sections
+7	symptoms/rhinitis.md	251	2	3	True	True	very short body; few sections
+7	tonic-masterpieces/gyeongokgo/clinical-map.md	251	2	3	True	True	very short body; few sections
+7	pattern-treatment/blood-stasis.md	256	1	5	True	True	very short body; few sections
+7	pattern-treatment/blood-deficiency.md	258	1	4	True	True	very short body; few sections
+7	sasang-symptoms/bowel-urination.md	259	2	4	True	True	very short body; few sections
+7	compare/guibi-vs-wendan.md	263	1	4	True	True	very short body; few sections
+7	foundations/zangfu.md	264	2	3	True	True	very short body; few sections
+7	symptoms/longtail/knee-aching.md	264	1	4	True	True	very short body; few sections
+7	sasang-formula-library/taeeumin-other.md	265	2	5	True	True	very short body; few sections
+7	concepts/spleen-qi-sinking.md	267	1	5	True	True	very short body; few sections
+7	sasang-original-symptoms/thirst-drinking.md	267	2	3	True	True	very short body; few sections
+7	tonic-masterpieces/gongjindan/index.md	267	2	5	True	True	very short body; few sections
+7	donguisusebowon-network/lifestyle-emotion.md	268	1	3	True	True	very short body; few sections
+7	sasang-formula-library/soyangin-exterior.md	268	1	4	True	True	very short body; few sections
+7	sasang-formula-cards/selection-principles.md	270	2	3	True	True	very short body; few sections
+7	donguisusebowon-network/integrated-map.md	272	1	3	True	True	very short body; few sections
+7	tonic-masterpieces/gongjindan/composition.md	272	2	3	True	True	very short body; few sections
+7	symptom-clinical/index.md	275	1	7	True	True	very short body; few sections
+7	tonic-masterpieces/gyeongokgo/composition.md	275	2	3	True	True	very short body; few sections
+7	sasang-original-symptoms/cold-heat.md	276	2	3	True	True	very short body; few sections
+7	sasang-original-symptoms/urination.md	276	2	3	True	True	very short body; few sections
+7	pattern-treatment/qi-deficiency.md	278	1	6	True	True	very short body; few sections
+7	sasang-treatment/acupuncture-moxibustion.md	280	1	3	True	True	very short body; few sections
+7	compare/acupuncture-vs-electroacupuncture.md	281	1	4	True	True	very short body; few sections
+7	sasang-pattern-differential/index.md	281	1	4	True	True	very short body; few sections
+7	sasang-original-symptoms/sweating.md	282	2	3	True	True	very short body; few sections
+7	wenbing-network/integrated-map.md	282	1	3	True	True	very short body; few sections
+7	bangyakhappyeon-network/integrated-map.md	283	2	3	True	True	very short body; few sections
+7	bangyakhappyeon-network/clinical-navigation.md	285	2	3	True	True	very short body; few sections
+7	compare/acupuncture-vs-pharmacopuncture.md	285	1	3	True	True	very short body; few sections
+7	concepts/heart-spleen-deficiency.md	285	1	5	True	True	very short body; few sections
+7	sasang-original-symptoms/stool.md	285	2	3	True	True	very short body; few sections
+7	classics-network/donguibogam.md	287	2	4	True	True	very short body; few sections
+7	sasang-formula-library/index.md	287	1	3	True	True	very short body; few sections
+7	sasang-symptoms/sweating-fatigue.md	287	2	5	True	True	very short body; few sections
+7	tonic-masterpieces/gyeongokgo/index.md	288	2	5	True	True	very short body; few sections
+7	bangyakhappyeon-network/boncho-yakseongga.md	289	2	3	True	True	very short body; few sections
+7	sasang-original-symptoms/index.md	290	2	5	True	True	very short body; few sections
+7	symptoms/longtail/persistent-fatigue.md	291	1	4	True	True	very short body; few sections
+7	donguibogam-network/integrated-map.md	292	1	4	True	True	very short body; few sections
+7	symptoms/longtail/postmeal-fullness.md	293	2	5	True	True	very short body; few sections
+7	sasang-questions/taeeumin-vs-soyangin.md	295	2	5	True	True	very short body; few sections
+7	shanghan-network/yangming.md	295	2	4	True	True	very short body; few sections
+7	eight-principles-network/exterior-interior.md	297	2	3	True	True	very short body; few sections
+7	classics-network/huangdi-neijing.md	298	2	4	True	True	very short body; few sections
+7	herbal-formula-clinical/treatment-directions.md	298	2	3	True	True	very short body; few sections
+7	herbal-formula-clinical/symptom-to-formula.md	299	2	3	True	True	very short body; few sections
+7	sasang-original-symptoms/emotion.md	299	2	4	True	True	very short body; few sections
+7	authority/herbs/index.md	300	1	8	True	True	very short body; few sections
+7	bangyakhappyeon-network/seven-formulas-ten-agents.md	300	2	3	True	True	very short body; few sections
+7	pattern-treatment/index.md	300	1	8	True	True	very short body; few sections
+7	pattern-treatment/phlegm-fluid.md	300	1	5	True	True	very short body; few sections
+7	sasang-research/metabolic-health.md	300	1	3	True	True	very short body; few sections
+7	acupuncture/meridians/index.md	301	2	13	True	True	very short body; few sections
+7	pattern-treatment/bi-deficiency.md	301	1	5	True	True	very short body; few sections
+7	classics-network/jingui-yaolue.md	302	2	5	True	True	very short body; few sections
+7	eight-principles-network/yin-yang.md	302	2	3	True	True	very short body; few sections
+7	sasang-research/treatment-research.md	302	2	3	True	True	very short body; few sections
+7	symptom-integrated/red-flags.md	302	2	3	True	True	very short body; few sections
+7	symptoms/digestion.md	303	1	5	True	True	very short body; few sections
+7	classics-network/shanghan-lun.md	304	2	4	True	True	very short body; few sections
+7	sasang-symptoms/index.md	304	1	7	True	True	very short body; few sections
+7	shanghan-network/shaoyang.md	304	2	4	True	True	very short body; few sections
+7	bangyakhappyeon-network/what-is-bangyakhappyeon.md	305	2	3	True	True	very short body; few sections
+7	neijing-network/qi-blood-fluids.md	305	2	4	True	True	very short body; few sections
+7	physicians/index.md	306	1	5	True	True	very short body; few sections
+7	classics-network/donguisusebowon.md	307	2	4	True	True	very short body; few sections
+7	foundations-clinical/qi-blood-fluid.md	307	2	3	True	True	very short body; few sections
+7	classics-network/integrated-map.md	308	1	5	True	True	very short body; few sections
+7	sasang-severity/index.md	308	1	6	True	True	very short body; few sections
+7	sasang-pattern-differential/soyangin-severity-map.md	310	2	3	True	True	very short body; few sections
+7	autonomic/fatigue-recovery.md	311	2	4	True	True	very short body; few sections
+7	jingui-network/gynecology.md	311	2	4	True	True	very short body; few sections
+7	sasang-formulas/hyeongbangsabaek-san.md	311	2	5	True	True	very short body; few sections
+7	symptoms/longtail/night-awakening.md	311	2	6	True	True	very short body; few sections
+7	foundations-integrated/diagnosis.md	312	2	4	True	True	very short body; few sections
+7	herbal-formula-clinical/index.md	313	1	7	True	True	very short body; few sections
+7	foundations-clinical/pattern-to-treatment.md	314	2	3	True	True	very short body; few sections
+7	eight-principles-network/deficiency-excess.md	315	2	3	True	True	very short body; few sections
+7	evidence-clinical/index.md	315	1	6	True	True	very short body; few sections
+7	foundations-clinical/eight-principles-bridge.md	315	2	4	True	True	very short body; few sections
+7	sasang-symptoms/integrated-map.md	315	2	5	True	True	very short body; few sections
+7	foundations-clinical/yinyang-fivephases.md	316	2	3	True	True	very short body; few sections
+7	symptoms/sleep-problem.md	316	1	5	True	True	very short body; few sections
+7	tonic-masterpieces/deer-antler/index.md	316	2	3	True	True	very short body; few sections
+7	eight-principles-network/combined-patterns.md	317	2	3	True	True	very short body; few sections
+7	jingui-network/chest-bi-heart-pain.md	317	2	4	True	True	very short body; few sections
+7	neijing-network/yinyang-human-body.md	318	2	4	True	True	very short body; few sections
+7	sasang-formula-cards/index.md	319	1	6	True	True	very short body; few sections
+7	sasang-formula-cards-2/index.md	319	2	3	True	True	very short body; few sections
+7	sasang-questions/what-is-donguisusebowon.md	319	2	5	True	True	very short body; few sections
+7	symptom-clinical/red-flags.md	319	2	3	True	True	very short body; few sections
+7	herbal-formula-clinical/herb-to-formula.md	320	2	3	True	True	very short body; few sections
+7	answer-guides/heel-first-step-pain-guide.md	322	6	1	True	True	very short body; few internal links
+7	history/index.md	322	2	5	True	True	very short body; few sections
+7	foundations-clinical/index.md	323	1	6	True	True	very short body; few sections
+7	wenbing-network/triple-burner-patterns.md	323	2	4	True	True	very short body; few sections
+7	concepts/wind-cold-damp-bi.md	324	1	5	True	True	very short body; few sections
+7	pattern-treatment/heart-spleen-deficiency.md	324	1	6	True	True	very short body; few sections
+7	eight-principles-network/clinical-reasoning.md	325	2	3	True	True	very short body; few sections
+7	herbal-formula-clinical/evidence.md	325	2	3	True	True	very short body; few sections
+7	sasang-symptoms/constitution-vs-pattern.md	325	2	4	True	True	very short body; few sections
+7	zangfu-pattern-network/kidney-bladder.md	325	2	3	True	True	very short body; few sections
+7	sasang-questions/exercise-and-constitution.md	327	2	5	True	True	very short body; few sections
+7	sasang-treatment/integrated-map.md	327	1	3	True	True	very short body; few sections
+7	tonic-masterpieces/comparison.md	327	2	3	True	True	very short body; few sections
+7	donguibogam-network/index.md	328	1	8	True	True	very short body; few sections
+7	questions/choice/insomnia-palpitations.md	328	1	5	True	True	very short body; few sections
+7	sasang-original-symptoms/digestion-appetite.md	328	2	3	True	True	very short body; few sections
+7	zangfu-pattern-network/lung-large-intestine.md	328	2	3	True	True	very short body; few sections
+7	neijing-network/diagnosis.md	329	2	4	True	True	very short body; few sections
+7	neijing-network/pathogenesis.md	329	2	4	True	True	very short body; few sections
+7	sasang-pattern-differential/four-constitution-map.md	330	2	3	True	True	very short body; few sections
+7	sasang-questions/is-constitution-fixed.md	330	2	4	True	True	very short body; few sections
+7	donguisusebowon-network/treatment-principles.md	331	2	4	True	True	very short body; few sections
+7	eight-principles-network/cold-heat.md	331	2	3	True	True	very short body; few sections
+7	jingui-network/consumptive-deficiency.md	332	2	4	True	True	very short body; few sections
+7	sasang-questions/integrated-map.md	332	2	5	True	True	very short body; few sections
+7	bangyakhappyeon-network/sang-jung-ha.md	334	2	3	True	True	very short body; few sections
+7	sasang-questions/diet-and-constitution.md	334	2	5	True	True	very short body; few sections
+7	sasang-questions/soyangin-vs-soeumin.md	334	2	5	True	True	very short body; few sections
+7	sasang-formulas/index.md	335	1	7	True	True	very short body; few sections
+7	jingui-network/abdominal-cold-food-retention.md	337	2	4	True	True	very short body; few sections
+7	sasang-questions/same-constitution-same-formula.md	337	2	4	True	True	very short body; few sections
+7	sasang-history/donguisusebowon-context.md	338	2	4	True	True	very short body; few sections
+7	sasang-pattern-differential/soeumin-severity-map.md	339	2	3	True	True	very short body; few sections
+7	compare/sijunzi-vs-liujunzi.md	341	1	4	True	True	very short body; few sections
+7	neijing-network/meridian-concepts.md	341	2	5	True	True	very short body; few sections
+7	sasang-formula-combination-network/index.md	341	1	6	True	True	very short body; few sections
+7	symptoms/longtail/stiff-neck.md	341	2	6	True	True	very short body; few sections
+7	eight-principles-network/index.md	342	1	7	True	True	very short body; few sections
+7	zangfu-pattern-network/interrelationships.md	342	2	3	True	True	very short body; few sections
+7	acupuncture-clinical/index.md	343	1	4	True	True	very short body; few sections
+7	sasang-guideline/integrated-map.md	343	1	3	True	True	very short body; few sections
+7	donguibogam-network/naegyeong.md	344	2	4	True	True	very short body; few sections
+7	authority/conditions/index.md	345	2	6	True	True	very short body; few sections
+7	jingui-network/misc-disease-framework.md	346	2	4	True	True	very short body; few sections
+7	sasang-formula-dose-fingerprint/index.md	346	1	4	True	True	very short body; few sections
+7	sasang-formula-cards/comparison-map.md	347	2	3	True	True	very short body; few sections
+7	sasang-history/index.md	347	1	6	True	True	very short body; few sections
+7	autonomic/palpitations.md	348	2	5	True	True	very short body; few sections
+7	sasang-treatment/exercise.md	348	2	5	True	True	very short body; few sections
+7	compare/index.md	349	1	7	True	True	very short body; few sections
+7	herbal-formula-clinical/formula-architecture.md	349	2	3	True	True	very short body; few sections
+7	sasang-formulas/soyangin-comparison.md	349	2	3	True	True	very short body; few sections
+7	symptoms/index.md	349	1	7	True	True	very short body; few sections
+7	shanghan-network/taiyang.md	350	2	4	True	True	very short body; few sections
+7	donguibogam-network/yangsaeng-prevention.md	352	2	4	True	True	very short body; few sections
+7	eight-principles-network/treatment-map.md	352	2	4	True	True	very short body; few sections
+7	bangyakhappyeon-network/donguibogam-comparison.md	353	2	3	True	True	very short body; few sections
+7	compare/buzhong-vs-sipjeondaebo.md	353	1	4	True	True	very short body; few sections
+7	sasang-followup/index.md	353	1	5	True	True	very short body; few sections
+7	zangfu-pattern-network/clinical-reasoning.md	353	2	3	True	True	very short body; few sections
+7	autonomic/stress-digestion.md	354	2	6	True	True	very short body; few sections
+7	donguibogam-network/oehyeong.md	354	2	4	True	True	very short body; few sections
+7	questions/choice/fatigue-poor-digestion.md	354	1	5	True	True	very short body; few sections
+7	sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md	354	2	3	True	True	very short body; few sections
+7	autonomic/stress-sleep.md	355	2	7	True	True	very short body; few sections
+7	classics-network/index.md	355	1	7	True	True	very short body; few sections
+7	donguisusebowon-network/four-constitutions.md	355	2	4	True	True	very short body; few sections
+7	donguisusebowon-network/zangbu-physiology.md	355	2	4	True	True	very short body; few sections
+7	evidence-clinical/evidence-levels.md	355	2	3	True	True	very short body; few sections
+7	neijing-network/zangfu-system.md	355	2	5	True	True	very short body; few sections
+7	sasang-history/integrated-map.md	355	2	5	True	True	very short body; few sections
+7	acupuncture-integrated/modalities.md	356	2	4	True	True	very short body; few sections
+7	zangfu-pattern-network/spleen-stomach.md	357	2	4	True	True	very short body; few sections
+7	wenbing-network/wei-qi-ying-xue.md	358	2	5	True	True	very short body; few sections
+7	wenbing-network/what-is-wenbing.md	358	2	4	True	True	very short body; few sections
+7	zangfu-pattern-network/heart-small-intestine.md	358	2	4	True	True	very short body; few sections
+7	sasang-formula-library/taeeumin-exterior-cold.md	359	1	6	True	True	very short body; few sections
+7	bangyakhappyeon-network/index.md	360	1	6	True	True	very short body; few sections
+7	zangfu-pattern-network/liver-gallbladder.md	361	2	3	True	True	very short body; few sections
+7	donguisusebowon-network/seongmyeong-sadan.md	362	2	4	True	True	very short body; few sections
+7	jingui-network/phlegm-fluid.md	362	2	4	True	True	very short body; few sections
+7	questions/choice/insomnia-dyspepsia.md	362	1	5	True	True	very short body; few sections
+7	sasang-history/modern-expansion.md	362	2	5	True	True	very short body; few sections
+7	sasang-research/classic-to-modern.md	362	2	5	True	True	very short body; few sections
+7	shanghan-network/index.md	363	1	8	True	True	very short body; few sections
+7	sasang-questions/how-to-diagnose.md	365	2	5	True	True	very short body; few sections
+7	sasang-progression/comparison.md	366	2	3	True	True	very short body; few sections
+7	neijing-network/index.md	367	1	8	True	True	very short body; few sections
+7	sasang-formula-combination-network/ingredient-frequency.md	368	2	3	True	True	very short body; few sections
+7	sasang-treatment/emotion.md	368	2	5	True	True	very short body; few sections
+7	questions/choice/qi-vs-qi-blood-deficiency.md	369	1	4	True	True	very short body; few sections
+7	clinical-reasoning/index.md	372	1	9	True	True	very short body; few sections
+7	donguibogam-network/clinical-navigation.md	376	2	4	True	True	very short body; few sections
+7	neijing-network/prevention.md	377	2	4	True	True	very short body; few sections
+7	sasang-pattern-differential/interview-algorithm.md	378	2	3	True	True	very short body; few sections
+7	evidence-guide/index.md	379	1	7	True	True	very short body; few sections
+7	donguibogam-network/japbyeong.md	380	2	5	True	True	very short body; few sections
+7	shanghan-network/clinical-reasoning.md	380	2	5	True	True	very short body; few sections
+7	sasang-guideline/lifestyle-framework.md	381	2	4	True	True	very short body; few sections
+7	tonic-masterpieces/deer-antler/research.md	381	2	3	True	True	very short body; few sections
+7	zangfu-pattern-network/treatment-map.md	382	2	4	True	True	very short body; few sections
+7	autonomic/integrated-map.md	383	1	3	True	True	very short body; few sections
+7	sasang-guideline/diagnostic-workflow.md	383	2	5	True	True	very short body; few sections
+7	sasang-progression/healthy-signs.md	383	2	3	True	True	very short body; few sections
+7	sasang-formula-library/taeeumin-interior-heat.md	384	1	6	True	True	very short body; few sections
+7	zangfu-pattern-network/index.md	386	1	8	True	True	very short body; few sections
+7	sasang-guideline/ordinary-symptoms.md	387	2	5	True	True	very short body; few sections
+7	jingui-network/clinical-reasoning.md	388	2	5	True	True	very short body; few sections
+7	sasang-research/integrated-map.md	389	2	4	True	True	very short body; few sections
+7	symptoms/longtail/chronic-low-back-pain.md	391	2	7	True	True	very short body; few sections
+7	donguisusebowon-network/exterior-interior-patterns.md	392	2	4	True	True	very short body; few sections
+7	sasang-severity/severity-comparison.md	392	2	3	True	True	very short body; few sections
+7	sasang-treatment/herbal-treatment.md	393	2	5	True	True	very short body; few sections
+7	sasang-progression/index.md	395	1	6	True	True	very short body; few sections
+7	sasang-treatment/index.md	396	1	7	True	True	very short body; few sections
+7	sasang-history/post-donguibogam.md	397	2	5	True	True	very short body; few sections
+7	donguisusebowon-network/ordinary-symptoms-patterns.md	398	2	4	True	True	very short body; few sections
+7	sasang-treatment/diet.md	398	2	5	True	True	very short body; few sections
+7	sasang-formula-library/soeumin-taeeum.md	400	1	6	True	True	very short body; few sections
+7	sasang-progression/worsening-signs.md	400	2	3	True	True	very short body; few sections
+7	wenbing-network/classic-texts.md	400	2	5	True	True	very short body; few sections
+7	acupuncture-integrated/index.md	405	1	7	True	True	very short body; few sections
+7	autonomic/index.md	407	1	8	True	True	very short body; few sections
+7	compare/gongjin-vs-gyeongok.md	409	1	5	True	True	very short body; few sections
+7	eight-principles-network/comparison.md	410	2	3	True	True	very short body; few sections
+7	zangfu-pattern-network/what-is-zangfu-pattern.md	411	2	4	True	True	very short body; few sections
+7	concepts/index.md	413	1	8	True	True	very short body; few sections
+7	clinical-safety/digestive-red-flags.md	415	2	5	True	True	very short body; few sections
+7	sasang-research/index.md	415	1	8	True	True	very short body; few sections
+7	sasang-formulas/four-constitution-formula-map.md	420	1	4	True	True	very short body; few sections
+7	shanghan-network/formula-map.md	420	2	4	True	True	very short body; few sections
+7	jingui-network/formula-map.md	422	2	4	True	True	very short body; few sections
+7	sasang-research/evidence-framework.md	424	2	4	True	True	very short body; few sections
+7	acupuncture/index.md	425	5	8	True	True	very short body; old append marker
+7	wenbing-network/index.md	425	1	9	True	True	very short body; few sections
+7	sasang-followup/symptom-change-table.md	428	2	3	True	True	very short body; few sections
+7	sasang-pattern-differential/taeeumin-exterior-vs-interior.md	429	2	3	True	True	very short body; few sections
+7	sasang-guideline/kcd-classification.md	431	2	4	True	True	very short body; few sections
+7	pattern-treatment/overview-map.md	433	1	3	True	True	very short body; few sections
+7	sasang-guideline/index.md	433	1	7	True	True	very short body; few sections
+7	sasang-progression/recovery-signs.md	433	2	3	True	True	very short body; few sections
+7	clinical-safety/index.md	438	1	7	True	True	very short body; few sections
+7	wenbing-network/formula-map.md	438	2	4	True	True	very short body; few sections
+7	acupuncture-clinical/modality-comparison.md	439	2	3	True	True	very short body; few sections
+7	foundations/index.md	450	5	6	True	True	very short body; old append marker
+7	donguisusebowon-network/index.md	452	1	8	True	True	very short body; few sections
+7	sasang-questions/index.md	452	1	9	True	True	very short body; few sections
+7	sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md	454	2	4	True	True	very short body; few sections
+7	jingui-network/index.md	455	1	9	True	True	very short body; few sections
+7	questions/choice/index.md	455	1	8	True	True	very short body; few sections
+7	tonic-masterpieces/gyeongokgo/fatigue-recovery.md	461	2	3	True	True	very short body; few sections
+7	guide/taxonomy.md	462	2	3	True	True	very short body; few sections
+7	immune-allergy/index.md	463	1	8	True	True	very short body; few sections
+7	sasang-original-symptoms/comparison.md	474	2	3	True	True	very short body; few sections
+7	clinical-reasoning/integrated-map.md	477	2	3	True	True	very short body; few sections
+7	wenbing-network/shanghan-comparison.md	478	2	4	True	True	very short body; few sections
+7	history/classics-flow.md	492	2	7	True	True	very short body; few sections
+7	answer-guides/dialect-content-policy.md	494	4	0	True	True	very short body; few internal links
+6	herbs/jujube-seed.md	253	6	2	True	True	very short body
+6	herbs/categories/open-orifices.md	270	4	2	True	True	very short body
+6	network/shengmai-composition.md	271	5	4	True	True	very short body
+6	formulas/danggui-susan.md	279	5	3	True	True	very short body
+6	formulas/guizhi-fuling-wan.md	280	5	3	True	True	very short body
+6	formulas/samsoeum.md	280	5	3	True	True	very short body
+6	formulas/danggui-shaoyao-san.md	286	5	3	True	True	very short body
+6	formulas/shenling-baizhu-san.md	288	5	3	True	True	very short body
+6	formulas/shujing-huoxue-tang.md	288	5	3	True	True	very short body
+6	formula-architecture/shanghan-family.md	296	3	2	True	True	very short body
+6	herbs/gastrodia.md	296	6	3	True	True	very short body
+6	herbs/uncaria.md	296	6	3	True	True	very short body
+6	formulas/wuji-san.md	297	5	3	True	True	very short body
+6	evidence-integrated/acupuncture-evidence.md	300	3	4	True	True	very short body
+6	formulas/chaihu-jia-longgu-muli-tang.md	300	5	3	True	True	very short body
+6	meridian-network/special-points/back-shu.md	302	3	2	True	True	very short body
+6	herbs/categories/harmonize.md	316	5	2	True	True	very short body
+6	classics/huangdi-neijing.md	325	4	2	True	True	very short body
+6	conditions/knee-pain.md	326	7	2	True	True	very short body
+6	conditions/shoulder-pain.md	329	7	2	True	True	very short body
+6	evidence-integrated/find-research.md	331	5	4	True	True	very short body
+6	formulas/guizhi-jia-gegen-tang.md	331	6	4	True	True	very short body
+6	network/astragalus-formulas.md	333	6	5	True	True	very short body
+6	evidence-integrated/classical-sources.md	335	4	4	True	True	very short body
+6	meridian-network/heart-meridian.md	336	6	2	True	True	very short body
+6	meridian-network/pericardium-meridian.md	339	6	2	True	True	very short body
+6	diagnostics/blood-stasis.md	340	5	3	True	True	very short body
+6	herbs/categories/drain-damp.md	340	5	3	True	True	very short body
+6	conditions/neck-pain.md	342	7	2	True	True	very short body
+6	research/by-study-type.md	344	5	3	True	True	very short body
+6	herbs/categories/warm-interior.md	351	5	3	True	True	very short body
+6	network/classic-to-evidence-map.md	351	5	2	True	True	very short body
+6	classics/donguibogam.md	354	5	4	True	True	very short body
+6	formulas/categories/exterior-shanghan.md	355	4	2	True	True	very short body
+6	network/gongjin-dan-map.md	356	5	6	True	True	very short body
+6	evidence-integrated/sasang-evidence.md	359	3	5	True	True	very short body
+6	conditions/fatigue.md	366	7	2	True	True	very short body
+6	formulas/categories/phlegm-qi-formulas.md	366	4	3	True	True	very short body
+6	conditions/insomnia.md	367	7	2	True	True	very short body
+6	meridian-network/lung-meridian.md	367	6	2	True	True	very short body
+6	conditions/low-back-pain.md	373	7	2	True	True	very short body
+6	network/wuling-composition.md	373	7	5	True	True	very short body
+6	evidence-integrated/clinical-application.md	376	3	4	True	True	very short body
+6	diagnostics/qi-deficiency.md	379	7	4	True	True	very short body
+6	formulas/xiaochaihu-tang.md	379	8	5	True	True	very short body
+6	formulas/daqinglong-tang.md	382	7	4	True	True	very short body
+6	conditions/allergic-rhinitis.md	383	7	2	True	True	very short body
+6	conditions/dyspepsia.md	385	7	2	True	True	very short body
+6	herbs/categories/phlegm-qi.md	386	5	3	True	True	very short body
+6	network/pinellia-formulas.md	389	7	6	True	True	very short body
+6	formulas/xiaoqinglong-tang.md	390	8	3	True	True	very short body
+6	sasang/constitution-compare.md	391	3	5	True	True	very short body
+6	sasang/four-constitutions.md	397	3	5	True	True	very short body
+6	evidence-integrated/evidence-levels.md	398	3	3	True	True	very short body
+6	formulas/categories/drain-fluid-formulas.md	404	4	4	True	True	very short body
+6	diagnostics/phlegm-fluid.md	405	6	4	True	True	very short body
+6	diagnostics/blood-deficiency.md	410	7	5	True	True	very short body
+6	meridian-network/liver-meridian.md	414	6	2	True	True	very short body
+6	classics/shanghanlun/taiyang-definition.md	419	6	3	True	True	very short body
+6	classics/index.md	422	3	8	True	True	very short body
+6	conditions/dizziness.md	423	6	2	True	True	very short body
+6	meridian-network/extraordinary-vessels.md	423	3	2	True	True	very short body
+6	formulas/categories/wind-damp-musculoskeletal.md	427	5	3	True	True	very short body
+6	conditions/headache.md	428	6	2	True	True	very short body
+6	network/herb-to-formula-map.md	432	7	5	True	True	very short body
+6	conditions/edema.md	437	6	2	True	True	very short body
+6	conditions/anxiety-somatic.md	438	6	2	True	True	very short body
+6	conditions/arm-numbness.md	438	6	2	True	True	very short body
+6	conditions/cold-hands-feet.md	439	6	2	True	True	very short body
+6	network/formula-composition-hub.md	439	3	5	True	True	very short body
+6	conditions/cough.md	440	6	2	True	True	very short body
+6	sasang/pattern-formula-map.md	440	6	2	True	True	very short body
+6	formulas/gegen-tang.md	442	8	5	True	True	very short body
+6	conditions/palpitation.md	443	6	2	True	True	very short body
+6	meridian-network/small-intestine-meridian.md	444	6	2	True	True	very short body
+6	meridian-network/large-intestine-meridian.md	447	6	2	True	True	very short body
+6	conditions/foot-numbness.md	450	6	2	True	True	very short body
+6	classics/donguibogam/gongjin-dan.md	451	7	3	True	True	very short body
+6	formulas/categories/tonic-formulas.md	453	4	4	True	True	very short body
+6	meridian-network/spleen-meridian.md	460	6	2	True	True	very short body
+6	sasang/sasang-sleep.md	461	6	5	True	True	very short body
+6	conditions/dysmenorrhea.md	462	6	2	True	True	very short body
+6	formulas/mahuang-tang.md	464	8	3	True	True	very short body
+6	sasang/sasang-fatigue.md	468	6	5	True	True	very short body
+6	sasang/sasang-rhinitis.md	472	6	5	True	True	very short body
+6	sasang/sasang-digestion.md	476	6	5	True	True	very short body
+6	sasang/sasang-sweat.md	477	6	5	True	True	very short body
+6	meridian-network/triple-energizer-meridian.md	481	6	2	True	True	very short body
+6	formulas/guizhi-tang.md	482	8	3	True	True	very short body
+6	classics/donguibogam/gyeongok-go.md	488	8	3	True	True	very short body
+6	sasang/taeumin.md	488	6	3	True	True	very short body
+6	sasang/soeumin.md	493	7	4	True	True	very short body
+6	sasang/soyangin.md	494	7	4	True	True	very short body
+6	sasang/taeeumin.md	494	7	4	True	True	very short body
+6	sasang/sasang-weight.md	495	6	5	True	True	very short body
+6	sasang/sasang-cold-heat.md	496	6	5	True	True	very short body
+6	conditions/globus.md	497	8	4	True	True	very short body
+6	conditions/frequent-urination.md	499	8	4	True	True	very short body
+6	network/formula-acupoint-combinations.md	499	7	5	True	True	very short body
+6	research/mechanism-preclinical-index.md	504	2	5	True	True	short body; few sections
+6	research/rct-index.md	650	1	8	True	True	short body; few sections
+6	network/gongjin-composition.md	677	7	10	True	True	short body; old append marker
+6	network/gyeongok-go-map.md	682	6	11	True	True	short body; old append marker
+6	network/gyeongok-composition.md	704	7	10	True	True	short body; old append marker
+6	meridian-network/special-points/five-shu.md	861	4	0	True	True	short body; few internal links
+5	acupuncture/meridians/pc.md	153	4	2	True	True	very short body
+5	acupuncture/meridians/ht.md	155	4	2	True	True	very short body
+5	acupuncture/meridians/si.md	158	4	2	True	True	very short body
+5	acupuncture/meridians/te.md	161	4	2	True	True	very short body
+5	acupuncture/meridians/lu.md	165	4	2	True	True	very short body
+5	acupuncture/meridians/ki.md	168	4	2	True	True	very short body
+5	acupuncture/meridians/lr.md	169	4	2	True	True	very short body
+5	acupuncture/meridians/sp.md	169	4	2	True	True	very short body
+5	acupuncture/meridians/li.md	171	4	2	True	True	very short body
+5	acupuncture/meridians/st.md	171	4	2	True	True	very short body
+5	acupuncture/meridians/gb.md	185	4	2	True	True	very short body
+5	acupuncture/meridians/bl.md	208	4	2	True	True	very short body
+5	acupuncture/meridians.md	253	3	3	True	True	very short body
+5	acupuncture/points/si3-houxi.md	280	6	2	True	True	very short body
+5	acupuncture/points/sp4-gongsun.md	281	6	2	True	True	very short body
+5	acupuncture/points/st25-tianshu.md	281	6	2	True	True	very short body
+5	symptom-clinical/followup.md	281	4	3	True	True	very short body
+5	acupuncture/points/ki3-taixi.md	283	6	2	True	True	very short body
+5	acupuncture/points/sp9-yinlingquan.md	284	6	2	True	True	very short body
+5	acupuncture/points/te5-waiguan.md	284	6	2	True	True	very short body
+5	acupuncture/points/gb34-yanglingquan.md	285	6	2	True	True	very short body
+5	acupuncture/points/lu7-lieque.md	285	6	2	True	True	very short body
+5	acupuncture/points/st40-fenglong.md	285	6	2	True	True	very short body
+5	acupuncture/points/li11-quchi.md	286	6	2	True	True	very short body
+5	evidence-clinical/systematic-review.md	295	3	3	True	True	very short body
+5	acupuncture/points/bl10-tianzhu.md	301	6	3	True	True	very short body
+5	acupuncture/points/bl60-kunlun.md	302	6	3	True	True	very short body
+5	acupuncture/points/cv6-qihai.md	302	6	3	True	True	very short body
+5	acupuncture/points/ht3-shaohai.md	302	6	3	True	True	very short body
+5	acupuncture/points/li15-jianyu.md	302	6	3	True	True	very short body
+5	acupuncture/points/gb21-jianjing.md	303	6	3	True	True	very short body
+5	acupuncture/points/bl25-dachangshu.md	304	6	3	True	True	very short body
+5	acupuncture/points/bl57-chengshan.md	304	6	3	True	True	very short body
+5	acupuncture/points/pc7-daling.md	305	6	3	True	True	very short body
+5	evidence-clinical/preclinical.md	305	3	3	True	True	very short body
+5	acupuncture/points/ki6-zhaohai.md	306	6	3	True	True	very short body
+5	foundations-clinical/diagnostic-integration.md	306	3	3	True	True	very short body
+5	tonic-masterpieces/deer-antler/quality-parts.md	306	3	3	True	True	very short body
+5	tonic-masterpieces/selection-followup.md	306	4	3	True	True	very short body
+5	foundations-integrated/etiology-pathogenesis.md	307	5	5	True	True	very short body
+5	acupuncture/points/ex-hn3-yintang.md	308	6	3	True	True	very short body
+5	acupuncture/points/st44-neiting.md	308	6	3	True	True	very short body
+5	glossary/blood.md	313	4	4	True	True	very short body
+5	evidence-clinical/classic-vs-modern.md	317	4	3	True	True	very short body
+5	sasang-followup/relapse-prevention.md	317	3	3	True	True	very short body
+5	sasang-formula-cards-2/mihudeung-sikjang-tang.md	317	5	3	True	True	very short body
+5	concepts/liver-kidney-deficiency.md	318	3	5	True	True	very short body
+5	autonomic/acupoint-map.md	319	5	4	True	True	very short body
+5	glossary/kidney-yang.md	319	4	4	True	True	very short body
+5	sasang-formula-cards-2/yeoldahanso-tang.md	321	3	3	True	True	very short body
+5	herbal-formula-clinical/safety.md	325	4	3	True	True	very short body
+5	sasang-formula-cards-2/ogapi-jangcheok-tang.md	325	4	3	True	True	very short body
+5	foundations-integrated/yinyang-fivephases.md	327	5	4	True	True	very short body
+5	sasang-formula-library/hyangso-san.md	327	6	3	True	True	very short body
+5	acupuncture-integrated/safety.md	328	4	3	True	True	very short body
+5	sasang-formula-library/galgeunseunggi-tang.md	330	6	3	True	True	very short body
+5	sasang-formula-library/insamgyejibujatang.md	330	6	3	True	True	very short body
+5	evidence-clinical/case-observational.md	332	5	3	True	True	very short body
+5	foundations-clinical/etiology-pathogenesis.md	333	3	3	True	True	very short body
+5	herbal-formula-clinical/followup-adjustment.md	333	5	3	True	True	very short body
+5	evidence-clinical/guidelines.md	335	3	3	True	True	very short body
+5	evidence-guide/tradition-modern.md	335	3	3	True	True	very short body
+5	sasang-followup/constitution-recovery.md	335	6	3	True	True	very short body
+5	sasang-formula-library/gyejibujatang.md	335	6	3	True	True	very short body
+5	herbal-formula-clinical/formula-comparison.md	336	3	3	True	True	very short body
+5	evidence-clinical/evidence-to-practice.md	337	3	3	True	True	very short body
+5	glossary/blood-stasis.md	337	4	5	True	True	very short body
+5	glossary/essence.md	337	4	4	True	True	very short body
+5	sasang-formula-library/gunggwihyangso-san.md	337	6	3	True	True	very short body
+5	foundations-integrated/pattern-treatment.md	338	4	4	True	True	very short body
+5	foundations-integrated/zangfu-qi-blood-fluids.md	338	4	4	True	True	very short body
+5	sasang-formula-library/seungyangpalmul-tang.md	340	6	3	True	True	very short body
+5	evidence-guide/rct.md	341	3	3	True	True	very short body
+5	foundations/lung.md	341	6	5	True	True	very short body
+5	sasang-formula-cards-2/dokhwaljihwang-tang.md	346	3	3	True	True	very short body
+5	sasang-formula-library/gunggwichongsoijung-tang.md	346	6	3	True	True	very short body
+5	sasang-severity/taeyangin.md	350	5	3	True	True	very short body
+5	evidence-guide/preclinical.md	351	3	3	True	True	very short body
+5	glossary/heart-spleen-deficiency.md	354	4	5	True	True	very short body
+5	glossary/qi.md	354	4	5	True	True	very short body
+5	glossary/sinking-middle-qi.md	356	4	5	True	True	very short body
+5	sasang-history/historical-position.md	356	3	5	True	True	very short body
+5	search-guide.md	356	6	4	True	True	very short body
+5	sasang-formula-library/hwangryeoncheongjang-tang.md	357	6	3	True	True	very short body
+5	acupuncture-integrated/evidence.md	358	3	5	True	True	very short body
+5	evidence-clinical/rct.md	358	3	3	True	True	very short body
+5	foundations-integrated/classics-modern.md	358	3	4	True	True	very short body
+5	sasang-formula-cards-2/baekhao-ijung-tang.md	358	3	3	True	True	very short body
+5	shanghan-network/yin-stages.md	359	5	4	True	True	very short body
+5	herbal-integrated/safety.md	360	3	4	True	True	very short body
+5	physicians/sun-simiao.md	361	4	4	True	True	very short body
+5	sasang-progression/taeyangin.md	362	7	4	True	True	very short body
+5	glossary/body-fluids.md	363	4	5	True	True	very short body
+5	foundations/zangfu-overview.md	364	4	6	True	True	very short body
+5	symptom-clinical/shoulder-pain.md	364	5	3	True	True	very short body
+5	sasang-formula-library/galgeunhaegi-tang.md	365	6	3	True	True	very short body
+5	sasang-formula-cards-2/full-map.md	367	6	3	True	True	very short body
+5	acupuncture-clinical/response-reassessment.md	368	4	3	True	True	very short body
+5	symptom-clinical/dyspepsia.md	368	6	3	True	True	very short body
+5	foundations-clinical/zangfu-to-pattern.md	369	3	4	True	True	very short body
+5	evidence-clinical/km-specific.md	370	5	3	True	True	very short body
+5	sasang-formula-library/hyangbujapalmul-tang.md	370	6	3	True	True	very short body
+5	acupuncture-integrated/musculoskeletal.md	371	4	5	True	True	very short body
+5	clinical-safety/headache-dizziness.md	371	4	3	True	True	very short body
+5	foundations/heart.md	372	6	5	True	True	very short body
+5	foundations-clinical/treatment-bridge.md	372	5	5	True	True	very short body
+5	sasang-severity/original-symptom-collapse.md	372	3	3	True	True	very short body
+5	sasang-formula-cards/hyeongbangdojeok-san.md	374	5	3	True	True	very short body
+5	symptom-clinical/fatigue.md	374	5	3	True	True	very short body
+5	foundations/liver.md	375	6	6	True	True	very short body
+5	sasang-integrated/taeyangin.md	375	4	5	True	True	very short body
+5	answer-guides/stairs-knee-pain-guide.md	376	6	2	True	True	very short body
+5	foundations-integrated/clinical-reasoning.md	376	4	5	True	True	very short body
+5	sasang-severity/recovery-prognosis.md	376	4	3	True	True	very short body
+5	sasang-followup/initial-assessment.md	377	7	3	True	True	very short body
+5	sasang-formula-library/hwaseokjihwang-tang.md	378	6	3	True	True	very short body
+5	wenbing-network/ying-xue-stages.md	379	4	4	True	True	very short body
+5	symptom-clinical/rhinitis.md	381	6	3	True	True	very short body
+5	foundations-clinical/clinical-reasoning.md	382	8	3	True	True	very short body
+5	sasang-formula-cards/cheongsimyeonja-tang.md	383	3	3	True	True	very short body
+5	clinical-safety/rhinitis-respiratory.md	385	3	5	True	True	very short body
+5	sasang-followup/first-followup.md	386	3	3	True	True	very short body
+5	sasang-formula-library/joripyewon-tang.md	387	6	3	True	True	very short body
+5	sasang-history/lee-je-ma.md	388	3	5	True	True	very short body
+5	sasang-formula-library/hwalseokgosam-tang.md	390	6	3	True	True	very short body
+5	symptom-clinical/headache.md	390	6	3	True	True	very short body
+5	answer-guides/incomplete-bowel-movement-guide.md	391	6	2	True	True	very short body
+5	glossary/phlegm-fluid.md	391	4	6	True	True	very short body
+5	authority/gyeongok-go.md	392	4	3	True	True	very short body
+5	symptom-clinical/insomnia.md	392	6	3	True	True	very short body
+5	immune-allergy/gut-recovery.md	393	3	7	True	True	very short body
+5	sasang-formula-library/sukjihwanggosam-tang.md	393	6	3	True	True	very short body
+5	sasang-formula-library/osuyubujairijung-tang.md	394	6	3	True	True	very short body
+5	authority/index.md	395	3	9	True	True	very short body
+5	physicians/heo-jun.md	395	3	4	True	True	very short body
+5	wenbing-network/wei-qi-stages.md	396	4	4	True	True	very short body
+5	acupuncture-clinical/meridian-point-needling.md	398	3	3	True	True	very short body
+5	sasang-formula-library/nabokjaseunggi-tang.md	399	6	3	True	True	very short body
+5	acupuncture-clinical/symptom-to-strategy.md	401	3	3	True	True	very short body
+5	clinical-reasoning/rhinitis.md	401	4	7	True	True	very short body
+5	sasang-formula-library/seungjijowi-tang.md	401	6	3	True	True	very short body
+5	sasang-progression/soeumin.md	401	7	4	True	True	very short body
+5	physicians/zhang-zhongjing.md	403	4	5	True	True	very short body
+5	sasang-formulas/taeeumin-formulas.md	404	5	3	True	True	very short body
+5	sasang-formula-cards-2/hyeongbangsabaek-san.md	405	3	3	True	True	very short body
+5	symptoms/longtail/shoulder-pain.md	407	3	6	True	True	very short body
+5	clinical-safety/fatigue-sleep-check.md	408	3	5	True	True	very short body
+5	foundations/kidney.md	410	6	7	True	True	very short body
+5	herbal-integrated/evidence.md	411	5	5	True	True	very short body
+5	acupuncture/du-ren.md	412	5	3	True	True	very short body
+5	physicians/lee-je-ma.md	412	4	5	True	True	very short body
+5	sasang-integrated/evidence.md	412	5	4	True	True	very short body
+5	sasang-formula-library/hyeongbangdobaek-san.md	413	6	3	True	True	very short body
+5	sasang-formulas/soeumin-formulas.md	413	4	3	True	True	very short body
+5	acupuncture-clinical/dose-followup.md	415	4	3	True	True	very short body
+5	ai/evidence-map.md	417	5	3	True	True	very short body
+5	foundations/spleen.md	419	6	7	True	True	very short body
+5	sasang-formula-library/hyeongbangpaedok-san.md	419	6	3	True	True	very short body
+5	sasang-severity/clinical-priority.md	419	5	3	True	True	very short body
+5	concepts/pathological-products.md	421	4	7	True	True	very short body
+5	sasang-formulas/decision-map.md	421	3	5	True	True	very short body
+5	evidence-guide/pmid-doi.md	422	5	5	True	True	very short body
+5	sasang-progression/soyangin.md	423	8	4	True	True	very short body
+5	sasang-progression/taeeumin.md	423	7	4	True	True	very short body
+5	clinical-reasoning/dyspepsia.md	426	5	7	True	True	very short body
+5	clinical-safety/pain-red-flags.md	426	3	5	True	True	very short body
+5	herbal-formula-clinical/integrated-map.md	427	3	3	True	True	very short body
+5	sasang-severity/taeeumin.md	427	5	4	True	True	very short body
+5	acupuncture/twelve-meridians.md	431	4	4	True	True	very short body
+5	authority/insomnia.md	431	4	5	True	True	very short body
+5	evidence-clinical/integrated-map.md	434	3	3	True	True	very short body
+5	sasang-followup/formula-decision.md	434	4	3	True	True	very short body
+5	immune-allergy/inflammation-pain.md	435	3	7	True	True	very short body
+5	herbal-integrated/herbs-for-edema.md	439	6	5	True	True	very short body
+5	acupuncture/treatment-principles.md	440	5	3	True	True	very short body
+5	clinical-reasoning/low-back-pain.md	440	4	8	True	True	very short body
+5	sasang-severity/soyangin.md	440	4	4	True	True	very short body
+5	symptom-clinical/low-back-pain.md	440	6	4	True	True	very short body
+5	sasang-formulas/taeyangin-formulas.md	443	4	5	True	True	very short body
+5	herbal-integrated/herbs-for-cold-cough.md	449	6	5	True	True	very short body
+5	herbal-integrated/herbs-for-women.md	449	6	5	True	True	very short body
+5	tags.md	450	3	5	True	True	very short body
+5	sasang-formula-library/hyeonsambaekho-tang.md	451	6	3	True	True	very short body
+5	clinical-safety/treatment-checklist.md	453	5	5	True	True	very short body
+5	herbal-integrated/herbs-for-sleep.md	453	6	5	True	True	very short body
+5	sasang-formula-combination-network/soeumin-network.md	453	3	3	True	True	very short body
+5	sasang-research/diagnosis-research.md	453	3	5	True	True	very short body
+5	clinical-reasoning/insomnia.md	455	5	8	True	True	very short body
+5	sasang-formula-library/mahwangjeongtong-tang.md	455	6	3	True	True	very short body
+5	sasang-formula-combination-network/formula-families.md	456	6	3	True	True	very short body
+5	sasang-original-symptoms/interview-checklist.md	456	3	3	True	True	very short body
+5	immune-allergy/rhinitis-allergy.md	457	3	7	True	True	very short body
+5	herbal-integrated/herbs-for-digestion.md	458	6	5	True	True	very short body
+5	herbal-integrated/herbs-for-stress.md	458	6	5	True	True	very short body
+5	eight-principles-network/integrated-map.md	460	3	3	True	True	very short body
+5	answer-guides/pain-time-pattern-guide.md	461	5	4	True	True	very short body
+5	sasang-formula-cards/hyeongbangjihwang-tang.md	461	3	3	True	True	very short body
+5	symptom-clinical/integrated-map.md	463	3	3	True	True	very short body
+5	sasang-formula-library/haenginseungcheong-tang.md	464	6	3	True	True	very short body
+5	sasang-formula-cards-2/gwangye-buja-ijung-tang.md	466	3	3	True	True	very short body
+5	evidence-guide/systematic-review.md	468	4	5	True	True	very short body
+5	sasang-guideline/nckm-resources.md	469	4	5	True	True	very short body
+5	sasang-formula-cards/taeeumjowi-tang.md	470	4	3	True	True	very short body
+5	herbal-integrated/herbs-for-menopause.md	471	6	5	True	True	very short body
+5	herbal-integrated/herbs-for-pain.md	471	6	5	True	True	very short body
+5	guide/editorial-policy.md	474	8	3	True	True	very short body
+5	sasang-severity/soeumin.md	474	6	4	True	True	very short body
+5	questions/choice/chronic-back-pain-treatment.md	475	3	7	True	True	very short body
+5	sasang-formula-cards/gwakhyangjeonggi-san.md	481	3	3	True	True	very short body
+5	answer-guides/herbal-supplements-guide.md	482	5	4	True	True	very short body
+5	treatments/integrated-treatment.md	482	6	4	True	True	very short body
+5	immune-allergy/fatigue-recovery.md	483	3	9	True	True	very short body
+5	herbal-integrated/herbs-for-fatigue.md	487	6	5	True	True	very short body
+5	acupuncture-clinical/musculoskeletal-differential.md	488	4	3	True	True	very short body
+5	symptoms/fatigue.md	488	3	10	True	True	very short body
+5	sasang-formula-cards-2/cheongpyesagan-tang.md	489	4	3	True	True	very short body
+5	foundations-clinical/integrated-map.md	490	3	3	True	True	very short body
+5	sasang-clinical-detail/treatment-modalities.md	492	6	3	True	True	very short body
+5	herbal-integrated/formula-for-rhinitis.md	496	6	6	True	True	very short body
+5	physicians/li-dongyuan.md	496	4	6	True	True	very short body
+5	authority/pharmacopuncture.md	498	4	3	True	True	very short body
+5	foundations-integrated/index.md	532	1	7	True	True	short body; few sections
+5	immune-allergy/integrated-map.md	541	2	5	True	True	short body; few sections
+5	acupuncture-clinical/evidence.md	546	2	3	True	True	short body; few sections
+5	herbal-integrated/tonic-recovery.md	547	1	8	True	True	short body; few sections
+5	herbal-integrated/index.md	570	2	9	True	True	short body; few sections
+5	answer-guides/regional-dialect-query-variants.md	589	8	0	True	True	short body; few internal links
+5	glossary/index.md	596	2	9	True	True	short body; few sections
+5	portal/sasang.md	652	2	3	True	True	short body; few sections
+5	answer-guides/stress-digestion-guide.md	891	7	7	True	True	short body; old append marker
+4	herbs/categories/calm-spirit.md	500	6	5	True	True	short body
+4	classics/shanghanlun/wuling-san.md	503	8	4	True	True	short body
+4	network/angelica-formulas.md	505	9	8	True	True	short body
+4	herbs/platycodon.md	506	7	4	True	True	short body
+4	sasang/sasang-formula-guide.md	506	6	5	True	True	short body
+4	conditions/chest-tightness.md	507	8	4	True	True	short body
+4	sasang/sasang-intro-patient.md	510	6	5	True	True	short body
+4	sasang/taeyangin.md	510	7	4	True	True	short body
+4	meridian-network/by-condition.md	513	6	5	True	True	short body
+4	classics/shanghanlun/maxing-ganshi.md	517	8	4	True	True	short body
+4	network/li-dongyuan-lineage.md	517	4	9	True	True	short body
+4	network/sun-simiao-lineage.md	517	4	7	True	True	short body
+4	conditions/hot-flush.md	519	8	4	True	True	short body
+4	conditions/postnasal-drip.md	519	8	4	True	True	short body
+4	herbs/forsythia.md	519	7	4	True	True	short body
+4	meridian-network/kidney-meridian.md	519	6	2	True	True	short body
+4	conditions/eczema.md	520	8	4	True	True	short body
+4	herbs/raphanus-seed.md	520	7	4	True	True	short body
+4	herbs/schizonepeta.md	520	7	4	True	True	short body
+4	diagnostics/eight-principles.md	521	6	3	True	True	short body
+4	herbs/anemarrhena.md	521	7	4	True	True	short body
+4	herbs/phellodendron.md	521	7	4	True	True	short body
+4	formulas/suanzaoren-tang.md	522	6	5	True	True	short body
+4	sasang/sasang-vs-constitution.md	522	6	5	True	True	short body
+4	formulas/bawei-dihuang-wan.md	523	6	5	True	True	short body
+4	classics/donguibogam/tangyeok/index.md	524	5	4	True	True	short body
+4	herbs/gypsum.md	524	7	4	True	True	short body
+4	network/physician-classic-formula-lineage.md	525	3	5	True	True	short body
+4	herbs/saposhnikovia.md	526	7	4	True	True	short body
+4	classics/shanghanlun/guizhi-jia-gegen.md	527	8	4	True	True	short body
+4	conditions/phlegm.md	527	8	6	True	True	short body
+4	herbs/pueraria.md	528	7	4	True	True	short body
+4	herbs/scutellaria.md	529	7	4	True	True	short body
+4	conditions/pelvic-pain.md	530	8	4	True	True	short body
+4	network/fatigue-acupoints.md	530	3	10	True	True	short body
+4	sasang/index.md	530	6	9	True	True	short body
+4	formulas/liu wei dihuang wan.md	531	6	5	True	True	short body
+4	network/navigation-guide.md	531	5	3	True	True	short body
+4	classics/shanghanlun/gegen-tang.md	533	8	4	True	True	short body
+4	herbs/notopterygium.md	533	7	4	True	True	short body
+4	formulas/yupingfeng-san.md	535	6	4	True	True	short body
+4	diagnostics/differentials/index.md	536	4	10	True	True	short body
+4	formulas/shengmai-san.md	537	6	4	True	True	short body
+4	formulas/shiquan-dabu-classic.md	537	6	4	True	True	short body
+4	conditions/dry-cough.md	538	8	6	True	True	short body
+4	sasang/overview.md	538	3	5	True	True	short body
+4	conditions/bad-breath.md	539	8	6	True	True	short body
+4	conditions/tongue-burning.md	539	8	6	True	True	short body
+4	formulas/zhuling-tang.md	539	6	4	True	True	short body
+4	herbs/angelica-pubescens.md	539	7	4	True	True	short body
+4	network/poria-formulas.md	539	10	9	True	True	short body
+4	formulas/baohe-wan.md	540	6	4	True	True	short body
+4	formulas/taohe-chengqi-tang.md	540	6	4	True	True	short body
+4	formulas/xiaochengqi-tang.md	540	6	4	True	True	short body
+4	conditions/sore-throat.md	541	8	4	True	True	short body
+4	herbs/honey.md	541	6	5	True	True	short body
+4	herbs/rhubarb.md	543	7	4	True	True	short body
+4	network/treatment-methods-map.md	543	4	10	True	True	short body
+4	classics/shanghanlun/xiaoqinglong.md	544	8	4	True	True	short body
+4	formulas/maxing-ganshi-tang.md	544	6	4	True	True	short body
+4	classics/shanghanlun/daqinglong.md	545	8	4	True	True	short body
+4	conditions/cold-sensitivity.md	545	8	4	True	True	short body
+4	conditions/diarrhea.md	545	8	4	True	True	short body
+4	formulas/xiaoyao-san.md	545	6	4	True	True	short body
+4	formulas/tianwang-buxin-dan.md	546	6	5	True	True	short body
+4	formulas/zhenwu-tang.md	546	6	4	True	True	short body
+4	formulas/lianqiao-baidu-san.md	547	6	4	True	True	short body
+4	conditions/bitter-taste.md	548	8	6	True	True	short body
+4	conditions/womens-herbal.md	549	8	4	True	True	short body
+4	formulas/dachengqi-tang.md	549	6	4	True	True	short body
+4	conditions/sinusitis.md	550	8	4	True	True	short body
+4	formulas/chuanxiong-chatiao-san.md	550	6	4	True	True	short body
+4	formulas/renshen-suyin.md	550	6	4	True	True	short body
+4	formulas/wuling-san.md	550	6	4	True	True	short body
+4	conditions/sneezing-runny-nose.md	551	8	6	True	True	short body
+4	formulas/cangerzi-san.md	551	6	4	True	True	short body
+4	conditions/dry-throat.md	552	8	6	True	True	short body
+4	diagnostics/differentials/qi-deficiency-vs-kidney-deficiency-fatigue.md	552	7	5	True	True	short body
+4	formulas/bufei-tang.md	552	6	4	True	True	short body
+4	conditions/child-recurrent-colds.md	553	8	4	True	True	short body
+4	conditions/recurrent-sore-throat.md	553	8	6	True	True	short body
+4	formulas/huanglian-jiedu-tang.md	553	6	4	True	True	short body
+4	formulas/linggui-zhugan-tang.md	553	6	4	True	True	short body
+4	conditions/menopause-herbal.md	554	8	4	True	True	short body
+4	formulas/tiaojing-zhongyu-tang.md	554	6	4	True	True	short body
+4	herbs/ephedra.md	554	7	4	True	True	short body
+4	formulas/banxia-houpo-tang.md	555	6	4	True	True	short body
+4	formulas/wuyao-shunqi-san.md	555	6	3	True	True	short body
+4	conditions/taste-change.md	556	8	6	True	True	short body
+4	conditions/child-nosebleed.md	557	8	4	True	True	short body
+4	conditions/male-menopause.md	557	8	4	True	True	short body
+4	conditions/mouth-ulcer.md	557	8	6	True	True	short body
+4	formula-architecture/sijunzi-family.md	557	3	4	True	True	short body
+4	formulas/dingchuan-tang.md	558	6	4	True	True	short body
+4	formulas/renshen-yangwei-tang.md	558	6	3	True	True	short body
+4	conditions/nasal-congestion.md	559	8	6	True	True	short body
+4	formulas/baihu-tang.md	559	6	4	True	True	short body
+4	formulas/bazheng-san.md	559	6	4	True	True	short body
+4	formulas/jiawei-xiaoyao-san.md	559	6	4	True	True	short body
+4	formulas/sangju-yin.md	559	6	4	True	True	short body
+4	formulas/xiangsha-yangwei-tang.md	559	6	4	True	True	short body
+4	conditions/tinnitus.md	560	8	4	True	True	short body
+4	formulas/dachaihu-tang.md	560	6	4	True	True	short body
+4	formulas/guipi-classic.md	560	6	3	True	True	short body
+4	conditions/dry-eye.md	561	8	4	True	True	short body
+4	network/atractylodes-formulas.md	561	9	8	True	True	short body
+4	network/lee-je-ma-lineage.md	561	3	9	True	True	short body
+4	conditions/pms.md	562	8	4	True	True	short body
+4	formulas/maidong-tang.md	562	6	3	True	True	short body
+4	formulas/shipi-yin.md	562	6	4	True	True	short body
+4	conditions/loose-stool.md	563	8	6	True	True	short body
+4	conditions/shortness-of-breath.md	563	8	6	True	True	short body
+4	conditions/student-stamina.md	563	8	4	True	True	short body
+4	conditions/hoarseness.md	564	8	6	True	True	short body
+4	formulas/wenjing-tang.md	564	6	4	True	True	short body
+4	conditions/bronchitis-recovery.md	565	8	6	True	True	short body
+4	conditions/child-poor-appetite.md	565	8	4	True	True	short body
+4	conditions/dyshidrotic-eczema.md	565	8	5	True	True	short body
+4	conditions/eczema-hands.md	565	8	5	True	True	short body
+4	conditions/growing-pains.md	565	8	4	True	True	short body
+4	formulas/qingshu-yiqi-tang.md	567	6	4	True	True	short body
+4	formulas/siwu-tang.md	567	6	6	True	True	short body
+4	formulas/yinqiao-san.md	567	6	4	True	True	short body
+4	formulas/zhuye-shigao-tang.md	567	6	4	True	True	short body
+4	network/acupuncture-clinical-map.md	567	4	5	True	True	short body
+4	formulas/duhuo-jisheng-classic.md	568	6	4	True	True	short body
+4	formulas/xiaofeng-san.md	568	6	4	True	True	short body
+4	conditions/prostate-urinary-symptoms.md	569	8	4	True	True	short body
+4	formulas/chaihu-shugan-san.md	569	6	4	True	True	short body
+4	formulas/daotan-tang.md	569	6	4	True	True	short body
+4	formulas/xingsu-san.md	569	6	4	True	True	short body
+4	conditions/child-rhinitis.md	570	8	4	True	True	short body
+4	conditions/gastritis-symptoms.md	570	8	6	True	True	short body
+4	conditions/night-arm-numbness.md	570	8	6	True	True	short body
+4	conditions/heartburn.md	571	8	6	True	True	short body
+4	conditions/morning-first-step-foot-pain.md	571	8	6	True	True	short body
+4	conditions/overhead-shoulder-pain.md	571	8	6	True	True	short body
+4	formulas/suzi-jiangqi-tang.md	571	6	4	True	True	short body
+4	formulas/qingshang-juantong-tang.md	572	6	4	True	True	short body
+4	conditions/eye-twitching.md	573	8	6	True	True	short body
+4	conditions/hearing-loss.md	573	8	6	True	True	short body
+4	conditions/squatting-knee-pain.md	573	8	6	True	True	short body
+4	formulas/danggui-buxue-tang.md	573	6	3	True	True	short body
+4	conditions/chronic-cough.md	574	8	6	True	True	short body
+4	conditions/dry-skin.md	574	8	5	True	True	short body
+4	conditions/ear-fullness.md	574	8	6	True	True	short body
+4	formulas/huoxiang-zhengqi-san.md	574	6	4	True	True	short body
+4	conditions/herbal-with-coffee.md	575	6	6	True	True	short body
+4	formulas/buyang-huanwu-tang.md	575	6	4	True	True	short body
+4	conditions/facial-palsy.md	576	8	4	True	True	short body
+4	conditions/stairs-knee-pain.md	576	8	6	True	True	short body
+4	conditions/smartphone-neck-pain.md	577	8	6	True	True	short body
+4	conditions/facial-pain.md	578	8	6	True	True	short body
+4	conditions/herbal-pills-decoction.md	578	6	6	True	True	short body
+4	conditions/nausea.md	578	8	4	True	True	short body
+4	formulas/tianma-gouteng-yin.md	580	6	4	True	True	short body
+4	formulas/buzhong-yiqi-classic.md	582	7	3	True	True	short body
+4	formulas/longdan-xiegan-tang.md	582	6	4	True	True	short body
+4	conditions/belching.md	584	8	6	True	True	short body
+4	conditions/seborrheic-dermatitis.md	584	8	5	True	True	short body
+4	network/condition-expansion-map.md	584	6	10	True	True	short body
+4	conditions/eye-fatigue.md	585	8	6	True	True	short body
+4	conditions/frequent-colds-adult.md	585	8	6	True	True	short body
+4	herbs/poria.md	585	8	4	True	True	short body
+4	network/gongjin-vs-gyeongok.md	585	4	4	True	True	short body
+4	conditions/herbal-missed-dose.md	586	6	6	True	True	short body
+4	conditions/constipation-hard-stool.md	587	8	6	True	True	short body
+4	herbs/citrus-peel.md	587	8	4	True	True	short body
+4	conditions/computer-neck-shoulder.md	588	8	6	True	True	short body
+4	conditions/postpartum-herbal.md	588	8	4	True	True	short body
+4	formulas/buhuanjin-zhengqi-san.md	588	6	4	True	True	short body
+4	conditions/early-awakening.md	589	8	6	True	True	short body
+4	conditions/herbal-storage.md	589	6	6	True	True	short body
+4	formulas/banxia-xiexin-tang.md	589	7	3	True	True	short body
+4	conditions/weight-management-herbal.md	590	8	4	True	True	short body
+4	conditions/pruritus.md	591	8	5	True	True	short body
+4	network/shipjeondaebo-composition.md	591	5	12	True	True	short body
+4	conditions/middle-age-weight.md	594	8	6	True	True	short body
+4	conditions/postmeal-sleepiness.md	594	8	6	True	True	short body
+4	classics/shanghanlun/guizhi-indication.md	595	9	5	True	True	short body
+4	conditions/ankle-pain.md	595	8	4	True	True	short body
+4	conditions/herbal-before-after-meals.md	595	6	6	True	True	short body
+4	formulas/qingxin-lianzi-yin.md	595	6	3	True	True	short body
+4	conditions/cervicogenic-headache.md	596	8	6	True	True	short body
+4	conditions/constipation.md	597	8	4	True	True	short body
+4	classics/shanghanlun/mahuang-indication.md	598	9	5	True	True	short body
+4	conditions/child-motion-sickness.md	599	8	6	True	True	short body
+4	conditions/morning-diarrhea.md	599	8	6	True	True	short body
+4	conditions/driving-neck-back-pain.md	600	8	6	True	True	short body
+4	network/heo-jun-lineage.md	600	4	9	True	True	short body
+4	research/clinical-trials.md	600	5	5	True	True	short body
+4	classics/donguibogam/tangyeok/eucommia.md	601	7	4	True	True	short body
+4	conditions/occipital-neuralgia.md	601	8	6	True	True	short body
+4	conditions/wrist-pain.md	601	8	4	True	True	short body
+4	conditions/postpartum-sweating.md	602	8	5	True	True	short body
+4	classics/shanghanlun/xiaochaihu-indication.md	603	8	4	True	True	short body
+4	conditions/abdominal-gas.md	603	8	6	True	True	short body
+4	conditions/abdominal-obesity.md	603	8	6	True	True	short body
+4	conditions/allergic-skin.md	603	8	5	True	True	short body
+4	conditions/carpal-tunnel.md	603	8	4	True	True	short body
+4	conditions/herbal-followup.md	603	6	6	True	True	short body
+4	conditions/herbal-with-food.md	603	6	6	True	True	short body
+4	conditions/preconception-herbal.md	603	8	4	True	True	short body
+4	conditions/tennis-elbow.md	603	8	4	True	True	short body
+4	conditions/traffic-accident-sequelae.md	603	8	4	True	True	short body
+4	diagnostics/differentials/kidney-yin-vs-yang.md	603	7	4	True	True	short body
+4	conditions/cold-feet-circulation.md	604	8	6	True	True	short body
+4	conditions/herbal-long-term.md	604	6	6	True	True	short body
+4	formulas/jingjie-lianqiao-tang.md	604	7	3	True	True	short body
+4	conditions/acne.md	605	8	5	True	True	short body
+4	conditions/easy-bruising.md	605	8	6	True	True	short body
+4	conditions/night-eating.md	605	8	6	True	True	short body
+4	conditions/weight-regain.md	605	8	6	True	True	short body
+4	formulas/xuefu-zhuyu-tang.md	605	7	3	True	True	short body
+4	formulas/weiling-tang.md	606	6	3	True	True	short body
+4	conditions/jaw-clenching-bruxism.md	607	8	6	True	True	short body
+4	conditions/plantar-fasciitis.md	607	8	4	True	True	short body
+4	conditions/standing-leg-back-pain.md	608	8	6	True	True	short body
+4	conditions/tension-headache.md	608	8	6	True	True	short body
+4	diagnostics/four-examinations.md	608	9	5	True	True	short body
+4	classics/donguibogam/tangyeok/citrus-peel.md	609	7	4	True	True	short body
+4	conditions/herbal-consultation-prep.md	609	6	6	True	True	short body
+4	conditions/pneumonia-recovery.md	609	8	6	True	True	short body
+4	conditions/poor-sleep-elderly.md	609	8	6	True	True	short body
+4	conditions/anemia-fatigue.md	610	8	6	True	True	short body
+4	conditions/atopic-dermatitis.md	610	8	5	True	True	short body
+4	conditions/hyperventilation.md	610	8	6	True	True	short body
+4	conditions/migraine.md	611	8	6	True	True	short body
+4	conditions/rhinitis.md	611	8	4	True	True	short body
+4	herbs/ziziphus-seed.md	612	8	4	True	True	short body
+4	diagnostics/differentials/liver-qi-vs-phlegm-chest.md	613	7	5	True	True	short body
+4	conditions/low-blood-pressure-symptoms.md	614	8	6	True	True	short body
+4	conditions/herbal-customization.md	615	6	6	True	True	short body
+4	formulas/sijunzi-tang.md	615	6	9	True	True	short body
+4	conditions/gerd.md	616	8	4	True	True	short body
+4	conditions/orthostatic-dizziness.md	616	8	6	True	True	short body
+4	conditions/pharmacopuncture-frequency.md	616	7	5	True	True	short body
+4	conditions/post-hospitalization-recovery.md	616	8	6	True	True	short body
+4	conditions/scanty-menstruation.md	616	8	5	True	True	short body
+4	conditions/cold-weather-body-ache.md	617	8	6	True	True	short body
+4	conditions/fracture-recovery.md	617	8	6	True	True	short body
+4	conditions/leg-swelling-evening.md	617	8	6	True	True	short body
+4	classics/donguisusebowon.md	618	5	5	True	True	short body
+4	conditions/leg-heaviness.md	618	8	6	True	True	short body
+4	conditions/weight-plateau.md	618	8	6	True	True	short body
+4	conditions/ovulation-pain.md	619	8	5	True	True	short body
+4	conditions/acupuncture-pain-question.md	620	7	5	True	True	short body
+4	conditions/bloating.md	620	8	4	True	True	short body
+4	conditions/indigestion-headache.md	620	8	6	True	True	short body
+4	conditions/low-back-pain-sitting.md	620	8	6	True	True	short body
+4	network/integrated-knowledge-graph.md	620	7	8	True	True	short body
+4	classics/donguibogam/tangyeok/poria.md	621	7	4	True	True	short body
+4	conditions/child-diarrhea.md	621	8	6	True	True	short body
+4	conditions/edema-weight.md	621	8	6	True	True	short body
+4	formulas/ziyin-jianghuo-tang.md	621	6	3	True	True	short body
+4	conditions/overeating-binge.md	622	8	6	True	True	short body
+4	formulas/xiangsha-liujunzi-tang.md	622	6	3	True	True	short body
+4	conditions/abdominal-pain.md	623	8	4	True	True	short body
+4	conditions/child-night-sweats.md	623	8	6	True	True	short body
+4	conditions/pcos.md	623	8	5	True	True	short body
+4	conditions/perimenopause.md	623	8	5	True	True	short body
+4	conditions/tonic-age.md	623	8	6	True	True	short body
+4	classics/donguibogam/tangyeok/astragalus.md	624	6	3	True	True	short body
+4	conditions/child-constipation.md	624	8	6	True	True	short body
+4	conditions/high-blood-pressure-checkup.md	624	8	6	True	True	short body
+4	conditions/ibs.md	624	8	4	True	True	short body
+4	conditions/shingles.md	624	8	5	True	True	short body
+4	conditions/stress-gut.md	624	8	6	True	True	short body
+4	formulas/erchen-tang.md	624	7	3	True	True	short body
+4	classics/piwei-lun.md	625	6	5	True	True	short body
+4	conditions/electroacupuncture-question.md	625	7	5	True	True	short body
+4	conditions/low-bone-density.md	625	7	6	True	True	short body
+4	conditions/nonrestorative-sleep.md	625	8	6	True	True	short body
+4	conditions/tmj-pain.md	625	8	4	True	True	short body
+4	conditions/metabolic-syndrome.md	626	8	6	True	True	short body
+4	conditions/morning-fatigue.md	626	8	6	True	True	short body
+4	formulas/ssanghwa-tang.md	626	7	3	True	True	short body
+4	conditions/postherpetic-neuralgia.md	627	8	6	True	True	short body
+4	formulas/jiawei-wendan-tang.md	627	6	3	True	True	short body
+4	conditions/child-fatigue.md	628	8	6	True	True	short body
+4	conditions/trigeminal-neuralgia.md	628	8	6	True	True	short body
+4	conditions/prediabetes.md	629	7	6	True	True	short body
+4	conditions/gyeongokgo-guide.md	630	8	6	True	True	short body
+4	conditions/scapular-pain.md	630	8	6	True	True	short body
+4	conditions/child-cold-hands-feet.md	631	8	6	True	True	short body
+4	conditions/gongjin-dan-guide.md	631	8	6	True	True	short body
+4	conditions/thoracic-outlet-symptoms.md	631	8	6	True	True	short body
+4	conditions/child-sleep.md	632	8	6	True	True	short body
+4	conditions/cupping-question.md	632	7	5	True	True	short body
+4	conditions/elevated-liver-enzymes.md	632	7	6	True	True	short body
+4	conditions/fatty-liver.md	632	7	6	True	True	short body
+4	conditions/anemia-lab.md	633	7	6	True	True	short body
+4	classics/donguibogam/tangyeok/deer-antler.md	634	6	3	True	True	short body
+4	network/ginseng-formulas.md	634	11	10	True	True	short body
+4	conditions/buttock-pain.md	635	8	5	True	True	short body
+4	conditions/child-growth.md	635	8	4	True	True	short body
+4	conditions/child-headache.md	635	8	6	True	True	short body
+4	conditions/dyslipidemia.md	635	7	6	True	True	short body
+4	conditions/healthy-weight-management.md	635	8	6	True	True	short body
+4	conditions/pharmacopuncture-pain.md	635	7	5	True	True	short body
+4	conditions/stress-neck-shoulder.md	635	8	6	True	True	short body
+4	classics/donguibogam/tangyeok/atractylodes.md	636	7	4	True	True	short body
+4	conditions/acupuncture-frequency.md	637	7	5	True	True	short body
+4	conditions/irregular-menstruation.md	637	8	4	True	True	short body
+4	conditions/post-viral-fatigue.md	637	8	6	True	True	short body
+4	conditions/sciatica.md	638	8	4	True	True	short body
+4	conditions/thyroid-lab.md	638	7	6	True	True	short body
+4	conditions/unintentional-weight-loss.md	638	8	6	True	True	short body
+4	conditions/inflammation-markers.md	639	7	6	True	True	short body
+4	conditions/postpartum-wrist-pain.md	639	8	5	True	True	short body
+4	conditions/residual-urine.md	639	8	6	True	True	short body
+4	conditions/weekend-fatigue.md	639	8	6	True	True	short body
+4	herbs/licorice.md	639	8	4	True	True	short body
+4	classics/donguibogam/tangyeok/ophiopogon.md	640	7	4	True	True	short body
+4	conditions/acupuncture-herbal-combination.md	640	7	5	True	True	short body
+4	conditions/tonic-season.md	640	8	6	True	True	short body
+4	conditions/weak-urine-stream.md	640	8	6	True	True	short body
+4	conditions/poor-circulation-sensation.md	641	8	6	True	True	short body
+4	conditions/checkup-gastritis.md	642	7	6	True	True	short body
+4	conditions/dequervain.md	642	8	5	True	True	short body
+4	conditions/fertility-fatigue.md	643	8	5	True	True	short body
+4	conditions/poor-recovery-after-exercise.md	643	8	6	True	True	short body
+4	conditions/ankle-instability.md	644	8	6	True	True	short body
+4	conditions/chronic-fatigue.md	644	7	11	True	True	short body
+4	formulas/liujunzi-tang.md	644	7	10	True	True	short body
+4	classics/donguibogam/tangyeok/ziziphus-seed.md	645	7	4	True	True	short body
+4	conditions/amenorrhea.md	645	8	5	True	True	short body
+4	conditions/piriformis-syndrome.md	645	8	5	True	True	short body
+4	conditions/post-void-dribble.md	645	8	6	True	True	short body
+4	conditions/brain-fog.md	646	8	6	True	True	short body
+4	conditions/cold-sweaty-hands.md	646	8	6	True	True	short body
+4	conditions/student-concentration.md	646	8	4	True	True	short body
+4	conditions/treatment-response-evaluation.md	646	7	5	True	True	short body
+4	herbs/pinellia.md	646	8	4	True	True	short body
+4	conditions/overactive-bladder.md	647	8	6	True	True	short body
+4	conditions/hamstring-tightness.md	648	8	6	True	True	short body
+4	conditions/pharmacopuncture-what-is.md	648	7	5	True	True	short body
+4	conditions/functional-dyspepsia.md	649	8	6	True	True	short body
+4	conditions/thigh-pain.md	649	8	6	True	True	short body
+4	classics/beiji-qianjin-yaofang.md	650	6	5	True	True	short body
+4	classics/donguibogam/tangyeok/chuanxiong.md	650	7	4	True	True	short body
+4	conditions/heavy-menstruation.md	651	8	5	True	True	short body
+4	conditions/nocturia.md	651	8	6	True	True	short body
+4	herbs/ophiopogon.md	651	8	4	True	True	short body
+4	classics/donguibogam/tangyeok/pinellia.md	652	7	4	True	True	short body
+4	conditions/golfer-elbow.md	652	8	5	True	True	short body
+4	conditions/stress-fatigue.md	652	8	6	True	True	short body
+4	conditions/tonic-duration.md	652	8	6	True	True	short body
+4	conditions/urticaria.md	652	8	5	True	True	short body
+4	conditions/child-abdominal-pain.md	653	8	6	True	True	short body
+4	conditions/herbal-medicine-after-checkup.md	653	8	6	True	True	short body
+4	conditions/hip-pain.md	653	8	5	True	True	short body
+4	conditions/menopause-joint-pain.md	653	8	5	True	True	short body
+4	conditions/mps-treatment-question.md	653	7	5	True	True	short body
+4	conditions/poor-appetite-adult.md	653	8	6	True	True	short body
+4	conditions/rotator-cuff-pain.md	655	8	5	True	True	short body
+4	conditions/trigger-finger.md	657	8	5	True	True	short body
+4	conditions/child-parent-tonic-guide.md	658	8	6	True	True	short body
+4	conditions/erectile-difficulty.md	658	8	6	True	True	short body
+4	classics/donguibogam/tangyeok/ginseng.md	659	6	4	True	True	short body
+4	conditions/stress-palpitations-digestion.md	659	8	6	True	True	short body
+4	classics/donguibogam/tangyeok/achyranthes.md	660	7	4	True	True	short body
+4	classics/donguibogam/tangyeok/licorice.md	660	7	4	True	True	short body
+4	diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md	660	8	5	True	True	short body
+4	conditions/back-stiffness.md	661	8	6	True	True	short body
+4	conditions/urinary-frequency-stress.md	661	8	6	True	True	short body
+4	herbs/atractylodes.md	661	8	4	True	True	short body
+4	network/low-back-pain-map.md	662	7	11	True	True	short body
+4	conditions/tonic-vs-health-supplement.md	663	8	6	True	True	short body
+4	conditions/pelvic-floor-tension-men.md	664	8	6	True	True	short body
+4	conditions/achilles-pain.md	665	8	6	True	True	short body
+4	conditions/heel-pain.md	666	8	6	True	True	short body
+4	conditions/male-fatigue-tonic.md	666	8	6	True	True	short body
+4	conditions/when-to-take-tonic.md	666	8	6	True	True	short body
+4	conditions/morning-stiffness.md	667	8	6	True	True	short body
+4	conditions/muscle-tightness.md	667	8	6	True	True	short body
+4	conditions/frailty-sarcopenia.md	668	8	6	True	True	short body
+4	classics/jinkui-yaolue.md	669	6	5	True	True	short body
+4	herbs/chuanxiong.md	669	8	4	True	True	short body
+4	network/low-back-pain-acupoints.md	669	3	3	True	True	short body
+4	classics/donguibogam/tangyeok/white-peony.md	671	7	4	True	True	short body
+4	conditions/chronic-prostatitis.md	673	8	6	True	True	short body
+4	formulas/banxia-baizhu-tianma-tang.md	673	6	3	True	True	short body
+4	conditions/whole-body-ache.md	674	8	6	True	True	short body
+4	conditions/frozen-shoulder.md	675	8	5	True	True	short body
+4	classics/donguibogam/tangyeok/prepared-rehmannia.md	677	7	4	True	True	short body
+4	conditions/calf-cramp.md	677	8	5	True	True	short body
+4	network/index.md	680	5	14	True	True	short body
+4	conditions/normal-checkup-fatigue.md	682	7	6	True	True	short body
+4	herbs/moschus.md	682	7	8	True	True	short body
+4	meridian-network/stomach-meridian.md	684	6	2	True	True	short body
+4	herbs/prepared-rehmannia.md	685	8	4	True	True	short body
+4	classics/donguibogam/tangyeok/angelica.md	687	6	4	True	True	short body
+4	diagnostics/qi-blood-fluid-patterns.md	689	14	10	True	True	short body
+4	network/shanghan-taiyang-map.md	689	8	8	True	True	short body
+4	formulas/fenxin-qiyin.md	692	6	3	True	True	short body
+4	herbs/white-peony.md	694	8	4	True	True	short body
+4	meridian-network/gallbladder-meridian.md	696	6	2	True	True	short body
+4	formulas/wujisan.md	698	7	3	True	True	short body
+4	research/index.md	699	6	9	True	True	short body
+4	network/zhang-zhongjing-lineage.md	710	4	11	True	True	short body
+4	conditions/postpartum-recovery.md	713	5	15	True	True	short body
+4	formulas/pingwei-san.md	725	8	3	True	True	short body
+4	formulas/fangfeng-tongsheng-san.md	731	7	3	True	True	short body
+4	network/dyspepsia-acupoints.md	731	3	5	True	True	short body
+4	research/formulas/buzhong-yiqi-tang.md	734	5	3	True	True	short body
+4	diagnostics/zangfu-patterns.md	740	7	10	True	True	short body
+4	network/licorice-formulas.md	743	13	12	True	True	short body
+4	network/insomnia-acupoints.md	745	3	7	True	True	short body
+4	network/clinical-map.md	749	5	11	True	True	short body
+4	conditions/elderly-dry-mouth.md	766	9	6	True	True	short body
+4	conditions/low-immunity-recurrent-illness.md	768	9	6	True	True	short body
+4	network/insomnia-map.md	768	5	14	True	True	short body
+4	conditions/elderly-tonic.md	771	9	6	True	True	short body
+4	herbs/rehmannia-root-fresh.md	778	7	7	True	True	short body
+4	network/dyspepsia-map.md	778	5	15	True	True	short body
+4	conditions/postoperative-recovery.md	780	9	6	True	True	short body
+4	research/formulas/guibi-tang.md	787	5	5	True	True	short body
+4	herbs/cornus-fructus.md	792	7	7	True	True	short body
+4	conditions/vitamins-herbal.md	806	8	6	True	True	short body
+4	conditions/herbal-extract-products.md	809	8	6	True	True	short body
+4	sasang/diagnosis-research.md	814	6	4	True	True	short body
+4	pillar/sleep-neuro.md	815	6	10	True	True	short body
+4	research/clinical-evidence-hub.md	815	6	6	True	True	short body
+4	research/systematic-reviews.md	816	6	5	True	True	short body
+4	conditions/liver-supplements-herbal.md	817	8	6	True	True	short body
+4	network/fatigue-map.md	817	6	12	True	True	short body
+4	herbs/categories/blood.md	819	8	12	True	True	short body
+4	herbs/polyporus.md	819	7	3	True	True	short body
+4	network/formula-to-condition-map.md	820	6	17	True	True	short body
+4	formula-architecture/index.md	821	6	14	True	True	short body
+4	conditions/omega3-herbal.md	822	8	6	True	True	short body
+4	conditions/probiotics-herbal.md	827	8	6	True	True	short body
+4	conditions/cancer-treatment-recovery.md	830	9	6	True	True	short body
+4	conditions/natural-products-herbal.md	836	8	6	True	True	short body
+4	conditions/red-ginseng-herbal.md	836	8	6	True	True	short body
+4	research/formulas/rikkunshito.md	857	6	5	True	True	short body
+4	conditions/multi-supplement-review.md	862	8	6	True	True	short body
+4	conditions/tonic-supplement-choice.md	862	8	6	True	True	short body
+4	pillar/clinical-evidence.md	863	9	11	True	True	short body
+4	conditions/supplements-herbal-medicine.md	874	8	6	True	True	short body
+4	research/formulas/shengmai-san.md	881	6	5	True	True	short body
+4	diagnostics/differentials/phlegm-vs-food-stagnation.md	898	8	12	True	True	short body
+4	herbs/astragalus-tonic-guide.md	904	9	3	True	True	content depth candidate; old append marker
+4	herbs/rehmannia-preparata.md	953	9	4	True	True	content depth candidate; old append marker
+4	herbs/lily.md	970	9	5	True	True	content depth candidate; old append marker
+4	herbs/eucommia.md	973	9	5	True	True	content depth candidate; old append marker
+4	herbs/apricot-kernel.md	974	9	5	True	True	content depth candidate; old append marker
+4	herbs/honeysuckle.md	974	9	5	True	True	content depth candidate; old append marker
+4	herbs/safflower.md	975	9	5	True	True	content depth candidate; old append marker
+4	herbs/dipsacus.md	977	9	5	True	True	content depth candidate; old append marker
+4	herbs/gardenia.md	977	9	5	True	True	content depth candidate; old append marker
+4	herbs/mint.md	977	9	5	True	True	content depth candidate; old append marker
+4	herbs/peach-kernel.md	977	9	5	True	True	content depth candidate; old append marker
+4	herbs/coptis.md	979	9	5	True	True	content depth candidate; old append marker
+4	herbs/cornus-extra.md	979	9	5	True	True	content depth candidate; old append marker
+4	herbs/drynaria.md	979	9	5	True	True	content depth candidate; old append marker
+4	herbs/longan.md	979	9	5	True	True	content depth candidate; old append marker
+4	herbs/magnolia-bark.md	979	9	5	True	True	content depth candidate; old append marker
+4	herbs/perilla-leaf.md	979	9	5	True	True	content depth candidate; old append marker
+4	herbs/thuja-seed.md	979	9	5	True	True	content depth candidate; old append marker
+4	herbs/achyranthes.md	980	9	5	True	True	content depth candidate; old append marker
+4	herbs/amomum.md	980	9	5	True	True	content depth candidate; old append marker
+4	herbs/ophiopogon-extra.md	980	9	5	True	True	content depth candidate; old append marker
+4	herbs/arctium.md	981	9	5	True	True	content depth candidate; old append marker
+4	herbs/bupleurum.md	982	9	5	True	True	content depth candidate; old append marker
+4	herbs/polygala.md	982	9	5	True	True	content depth candidate; old append marker
+4	herbs/dried-ginger.md	983	9	5	True	True	content depth candidate; old append marker
+4	herbs/coix.md	984	9	5	True	True	content depth candidate; old append marker
+4	herbs/moutan.md	984	9	5	True	True	content depth candidate; old append marker
+4	herbs/schisandra-extra.md	984	9	5	True	True	content depth candidate; old append marker
+4	herbs/alisma-extra.md	985	9	5	True	True	content depth candidate; old append marker
+4	herbs/aucklandia.md	986	9	5	True	True	content depth candidate; old append marker
+4	herbs/citrus-immature.md	987	9	5	True	True	content depth candidate; old append marker
+4	herbs/trichosanthes-root.md	987	9	5	True	True	content depth candidate; old append marker
+4	herbs/acorus.md	989	9	5	True	True	content depth candidate; old append marker
+4	herbs/fresh-ginger.md	989	9	5	True	True	content depth candidate; old append marker
+4	herbs/plantago-seed.md	989	9	5	True	True	content depth candidate; old append marker
+4	herbs/cyperus.md	991	9	5	True	True	content depth candidate; old append marker
+4	herbs/salvia.md	992	9	5	True	True	content depth candidate; old append marker
+4	herbs/fritillaria.md	995	9	5	True	True	content depth candidate; old append marker
+4	herbs/aconite.md	1008	9	5	True	True	content depth candidate; old append marker
+4	formulas/huishou-san.md	1009	9	4	True	True	content depth candidate; old append marker
+4	tonic-masterpieces/references.md	1010	4	0	True	False	content depth candidate; few internal links; missing description
+4	formulas/bazhen-tang.md	1047	9	10	True	True	content depth candidate; old append marker
+4	diagnostics/patterns/index.md	1077	5	17	True	True	content depth candidate; old append marker
+4	conditions/menopause.md	1178	10	9	True	True	content depth candidate; old append marker
+4	diagnostics/index.md	1211	7	13	True	True	content depth candidate; old append marker
+4	network/tonic-formula-compare.md	1216	7	9	True	True	content depth candidate; old append marker
+3	acupuncture/key-acupoints.md	500	3	3	True	True	short body
+3	authority/herbs/ophiopogon.md	501	5	3	True	True	short body
+3	clinical-reasoning/fatigue.md	502	4	8	True	True	short body
+3	sasang-formula-cards/yanggyeoksanhwa-tang.md	502	3	3	True	True	short body
+3	classics-network/reading-path.md	503	4	5	True	True	short body
+3	symptoms/musculoskeletal-pain.md	505	4	11	True	True	short body
+3	sasang-clinical-detail/clinical-algorithm.md	507	4	3	True	True	short body
+3	sasang-formula-cards-2/jowiseungcheong-tang.md	507	4	3	True	True	short body
+3	authority/buzhong-yiqi-tang.md	509	4	3	True	True	short body
+3	answer-guides/reading-headache-guide.md	510	7	4	True	True	short body
+3	treatments/thermal-tdp.md	510	7	4	True	True	short body
+3	acupuncture-clinical/safety-redflags.md	511	4	3	True	True	short body
+3	treatments/acupuncture.md	511	5	3	True	True	short body
+3	immune-allergy/tonic-herb-formula-map.md	513	3	10	True	True	short body
+3	sasang-followup/mcgi-assessment.md	513	3	3	True	True	short body
+3	herbal-integrated/formula-for-menopause.md	514	6	6	True	True	short body
+3	acupuncture-clinical/integrated-map.md	515	3	3	True	True	short body
+3	ai/clinic-knowledge-map.md	516	5	3	True	True	short body
+3	herbal-integrated/formula-for-pain.md	517	6	6	True	True	short body
+3	herbal-integrated/formula-for-headache.md	518	6	6	True	True	short body
+3	sasang-clinical-detail/four-constitution-comparison.md	523	3	4	True	True	short body
+3	zangfu-pattern-network/integrated-map.md	523	3	3	True	True	short body
+3	tonic-masterpieces/gongjindan/fatigue-evidence.md	524	4	3	True	True	short body
+3	concepts/deficiency-map.md	525	4	11	True	True	short body
+3	classics-network/comparison.md	529	3	5	True	True	short body
+3	herbal-integrated/formula-for-women.md	531	6	6	True	True	short body
+3	answer-guides/top-of-foot-pain-no-injury-guide.md	534	7	4	True	True	short body
+3	acupuncture-integrated/points-for-rhinitis.md	535	7	5	True	True	short body
+3	herbal-integrated/formula-for-insomnia.md	537	6	6	True	True	short body
+3	answer-guides/ankle-pain-swelling-after-walking-guide.md	538	7	4	True	True	short body
+3	answer-guides/tonic-fatigue-guide.md	538	5	5	True	True	short body
+3	answer-guides/knee-clicking-guide.md	540	7	4	True	True	short body
+3	herbal-integrated/formula-for-cold-cough.md	542	6	6	True	True	short body
+3	herbal-integrated/how-herbs-combine.md	542	6	5	True	True	short body
+3	questions/choice/fatigue-gongjin-gyeongok.md	542	3	8	True	True	short body
+3	sasang-pattern-differential/soeumin-taeeum-vs-soeum.md	542	3	4	True	True	short body
+3	answer-guides/knee-pain-standing-up-guide.md	543	7	4	True	True	short body
+3	answer-guides/no-appetite-in-morning-guide.md	543	7	4	True	True	short body
+3	answer-guides/stress-pressure-head-guide.md	544	7	4	True	True	short body
+3	herbal-integrated/formula-for-digestion.md	544	6	6	True	True	short body
+3	answer-guides/sole-pain-after-standing-guide.md	545	7	4	True	True	short body
+3	answer-guides/elderly-tonic-guide.md	546	6	4	True	True	short body
+3	acupuncture-integrated/points-for-insomnia.md	547	7	5	True	True	short body
+3	authority/herbs/ginseng.md	550	5	6	True	True	short body
+3	acupuncture-integrated/points-for-digestion.md	551	7	5	True	True	short body
+3	authority/acupuncture.md	551	4	4	True	True	short body
+3	authority/gongjin-dan.md	551	4	3	True	True	short body
+3	authority/herbs/ziziphus-seed.md	551	5	3	True	True	short body
+3	answer-guides/deer-antler-guide.md	552	6	4	True	True	short body
+3	authority/herbs/velvet-antler.md	552	5	3	True	True	short body
+3	answer-guides/perineal-heaviness-guide.md	553	7	4	True	True	short body
+3	answer-guides/morning-jaw-clenching-guide.md	555	7	4	True	True	short body
+3	answer-guides/weight-gain-despite-small-meals-guide.md	556	7	4	True	True	short body
+3	sasang-clinical-detail/index.md	556	3	6	True	True	short body
+3	answer-guides/cross-legged-hip-pain-guide.md	557	7	4	True	True	short body
+3	answer-guides/ear-fullness-normal-ent-guide.md	558	7	4	True	True	short body
+3	answer-guides/front-neck-tightness-guide.md	559	7	4	True	True	short body
+3	herbal-integrated/formula-for-fatigue.md	559	6	6	True	True	short body
+3	acupuncture-integrated/points-for-womens-health.md	560	7	5	True	True	short body
+3	answer-guides/stress-sugar-craving-guide.md	560	7	4	True	True	short body
+3	answer-guides/night-appetite-guide.md	561	7	4	True	True	short body
+3	authority/herbs/angelica.md	561	5	3	True	True	short body
+3	acupuncture-integrated/points-for-urinary.md	562	7	5	True	True	short body
+3	answer-guides/evening-lowback-pain-guide.md	562	7	4	True	True	short body
+3	answer-guides/hand-tremor-stress-guide.md	562	7	4	True	True	short body
+3	evidence-guide/evidence-ladder.md	562	3	5	True	True	short body
+3	acupuncture-integrated/points-for-neck-shoulder.md	564	7	5	True	True	short body
+3	herbal-integrated/formula-selection-guide.md	564	6	6	True	True	short body
+3	acupuncture-integrated/points-for-stress-autonomic.md	565	7	5	True	True	short body
+3	acupuncture-integrated/points-for-low-back.md	568	7	5	True	True	short body
+3	answer-guides/afternoon-eye-heavy-headache-guide.md	568	7	4	True	True	short body
+3	authority/duhuo-jisheng-tang.md	569	5	3	True	True	short body
+3	answer-guides/back-stiff-after-sitting-guide.md	573	7	4	True	True	short body
+3	answer-guides/buttock-to-leg-pulling-guide.md	573	7	4	True	True	short body
+3	answer-guides/ear-temple-pain-guide.md	573	7	4	True	True	short body
+3	answer-guides/calf-cramp-guide.md	577	7	4	True	True	short body
+3	answer-guides/morning-low-back-pain-guide.md	579	6	4	True	True	short body
+3	answer-guides/palpitations-at-rest-guide.md	579	7	4	True	True	short body
+3	authority/low-back-pain.md	579	5	5	True	True	short body
+3	answer-guides/morning-hand-swelling-guide.md	584	7	4	True	True	short body
+3	answer-guides/chest-tightness-normal-tests-guide.md	586	7	4	True	True	short body
+3	acupuncture-integrated/points-for-headache.md	590	7	5	True	True	short body
+3	answer-guides/facial-twitch-guide.md	592	7	4	True	True	short body
+3	answer-guides/sudden-anxiety-body-symptoms-guide.md	592	7	4	True	True	short body
+3	answer-guides/nocturia-guide.md	594	7	4	True	True	short body
+3	symptom-integrated/menopause-insomnia.md	594	7	3	True	True	short body
+3	symptom-integrated/rhinitis-cough.md	595	7	3	True	True	short body
+3	answer-guides/incomplete-emptying-guide.md	597	7	4	True	True	short body
+3	answer-guides/walking-leg-pain-relief-rest-guide.md	597	7	4	True	True	short body
+3	answer-guides/leg-numbness-without-back-pain-guide.md	601	7	4	True	True	short body
+3	answer-guides/weight-loss-despite-eating-guide.md	601	7	4	True	True	short body
+3	acupuncture-integrated/how-acupoints-combine.md	607	7	5	True	True	short body
+3	answer-guides/slow-recovery-after-drinking-guide.md	609	7	4	True	True	short body
+3	authority/conditions/shoulder-pain.md	609	3	7	True	True	short body
+3	authority/conditions/tension-headache.md	610	4	4	True	True	short body
+3	acupuncture/points/cv12-zhongwan.md	613	9	4	True	True	short body
+3	answer-guides/standing-dizziness-guide.md	613	7	4	True	True	short body
+3	answer-guides/jaw-click-pain-guide.md	616	7	4	True	True	short body
+3	acupuncture/points/cv4-guanyuan.md	620	9	4	True	True	short body
+3	acupuncture/points/bl40-weizhong.md	625	9	4	True	True	short body
+3	answer-guides/itch-without-rash-guide.md	625	7	4	True	True	short body
+3	answer-guides/adult-acne-recurrent-guide.md	626	7	4	True	True	short body
+3	acupuncture/points/gv20-baihui.md	627	9	4	True	True	short body
+3	acupuncture/points/ht7-shenmen.md	629	9	4	True	True	short body
+3	acupuncture/points/bl23-shenshu.md	631	9	4	True	True	short body
+3	answer-guides/stress-skin-flare-guide.md	631	7	4	True	True	short body
+3	authority/herbs/astragalus.md	631	5	5	True	True	short body
+3	acupuncture/points/lr3-taichong.md	637	9	4	True	True	short body
+3	acupuncture/points/sp6-sanyinjiao.md	639	9	4	True	True	short body
+3	acupuncture/points/gb20-fengchi.md	641	9	4	True	True	short body
+3	symptom-integrated/elderly-appetite-fatigue.md	642	7	3	True	True	short body
+3	acupuncture/acupoint-writing-guide.md	643	6	5	True	True	short body
+3	foundations/yinyang-five-phases.md	646	7	3	True	True	short body
+3	acupuncture/points/li4-hegu.md	648	9	4	True	True	short body
+3	answer-guides/eczema-recurs-guide.md	654	7	4	True	True	short body
+3	symptom-integrated/headache-dizziness.md	685	8	5	True	True	short body
+3	answer-guides/colloquial-symptom-synonyms.md	687	7	4	True	True	short body
+3	answer-guides/skin-and-digestion-guide.md	690	7	4	True	True	short body
+3	acupuncture/points/pc6-neiguan.md	692	9	5	True	True	short body
+3	acupuncture/points/st36-zusanli.md	692	9	5	True	True	short body
+3	foundations/pathogenesis.md	692	9	7	True	True	short body
+3	symptom-integrated/insomnia-palpitations.md	692	8	5	True	True	short body
+3	symptom-integrated/cold-hands-hot-flush.md	697	8	5	True	True	short body
+3	symptom-integrated/lowback-leg-numbness.md	697	8	5	True	True	short body
+3	authority/conditions/knee-osteoarthritis.md	699	4	6	True	True	short body
+3	treatments/moxibustion.md	703	8	5	True	True	short body
+3	symptom-integrated/neck-headache.md	705	8	5	True	True	short body
+3	clinical-guides/deer-antler-quality-map.md	706	11	3	True	True	short body
+3	symptom-integrated/postpartum-fatigue-pain.md	713	8	5	True	True	short body
+3	symptom-integrated/fatigue-digestion.md	714	8	5	True	True	short body
+3	ai/patient-search-map.md	715	8	3	True	True	short body
+3	answer-guides/night-hives-guide.md	728	7	4	True	True	short body
+3	history/formula-history.md	731	7	12	True	True	short body
+3	authority/conditions/post-stroke-shoulder-hand.md	742	4	4	True	True	short body
+3	authority/conditions/stroke-rehabilitation.md	751	4	4	True	True	short body
+3	authority/conditions/functional-dyspepsia.md	755	5	6	True	True	short body
+3	authority/conditions/chronic-neck-pain.md	758	5	7	True	True	short body
+3	authority/conditions/post-stroke-depression.md	760	5	3	True	True	short body
+3	portal/basics.md	776	3	3	True	True	short body
+3	portal/herbs-formulas.md	777	3	3	True	True	short body
+3	history/schools-map.md	781	3	14	True	True	short body
+3	authority/conditions/migraine.md	784	5	5	True	True	short body
+3	portal/conditions.md	787	3	3	True	True	short body
+3	authority/conditions/lateral-epicondylitis.md	788	7	4	True	True	short body
+3	portal/maps.md	795	3	3	True	True	short body
+3	sasang-formula-dose-fingerprint/constitution-dose-patterns.md	796	5	3	True	True	short body
+3	seo-aeo-standard.md	801	10	3	True	True	short body
+3	metadata-audit-guide.md	805	10	3	True	True	short body
+3	portal/evidence.md	808	3	3	True	True	short body
+3	portal/acupuncture.md	809	3	3	True	True	short body
+3	sasang-formula-combination-network/pair-comparisons.md	817	5	8	True	True	short body
+3	authority/conditions/allergic-rhinitis.md	820	5	7	True	True	short body
+3	answer-guides/gyeongsang-daegu-colloquial-guide.md	823	6	9	True	True	short body
+3	treatments/electroacupuncture.md	840	7	3	True	True	short body
+3	acupuncture/points/gb40-qiuxu.md	846	9	5	True	True	short body
+3	authority/conditions/plantar-fasciitis.md	850	7	3	True	True	short body
+3	acupuncture/points/ht5-tongli.md	861	9	5	True	True	short body
+3	acupuncture/points/lr13-zhangmen.md	861	9	5	True	True	short body
+3	treatments/cupping.md	861	10	5	True	True	short body
+3	acupuncture/points/bl62-shenmai.md	864	9	5	True	True	short body
+3	acupuncture/points/ki7-fuliu.md	864	9	5	True	True	short body
+3	acupuncture/points/lr14-qimen.md	864	9	5	True	True	short body
+3	acupuncture/points/gb39-xuanzhong.md	865	9	5	True	True	short body
+3	acupuncture/points/st35-dubi.md	866	9	5	True	True	short body
+3	acupuncture/points/bl17-geshu.md	867	9	5	True	True	short body
+3	authority/conditions/fibromyalgia.md	867	6	4	True	True	short body
+3	acupuncture/points/pc4-ximen.md	870	9	5	True	True	short body
+3	authority/conditions/post-stroke-sensory-pain.md	871	6	5	True	True	short body
+3	acupuncture/points/si6-yanglao.md	873	9	5	True	True	short body
+3	acupuncture/points/bl28-pangguangshu.md	874	9	5	True	True	short body
+3	acupuncture/points/gv14-dazhui.md	874	9	5	True	True	short body
+3	authority/conditions/tmd.md	874	6	4	True	True	short body
+3	acupuncture/points/bl20-pishu.md	875	9	5	True	True	short body
+3	acupuncture/points/bl18-ganshu.md	876	9	5	True	True	short body
+3	acupuncture/points/cv17-danzhong.md	876	9	5	True	True	short body
+3	acupuncture/points/si11-tianzong.md	877	9	5	True	True	short body
+3	acupuncture/points/te17-yifeng.md	877	9	5	True	True	short body
+3	acupuncture/points/gv4-mingmen.md	878	9	5	True	True	short body
+3	acupuncture/points/st37-shangjuxu.md	878	9	5	True	True	short body
+3	acupuncture/points/li20-yingxiang.md	879	9	5	True	True	short body
+3	acupuncture/points/bl13-feishu.md	880	9	5	True	True	short body
+3	foundations/qi-blood-fluid.md	883	6	14	True	True	short body
+3	acupuncture/points/gv26-shuigou.md	884	9	5	True	True	short body
+3	acupuncture/points/sp10-xuehai.md	885	9	5	True	True	short body
+3	acupuncture/points/st42-chongyang.md	885	9	5	True	True	short body
+3	acupuncture/points/ki1-yongquan.md	886	9	5	True	True	short body
+3	acupuncture/points/li10-shousanli.md	889	9	5	True	True	short body
+3	acupuncture/points/lu5-chize.md	890	9	5	True	True	short body
+3	acupuncture/points/lr8-ququan.md	897	9	5	True	True	short body
+3	acupuncture/points/lu9-taiyuan.md	897	9	5	True	True	short body
+3	acupuncture/points/lu1-zhongfu.md	898	9	5	True	True	short body
+3	answer-guides/early-satiety-guide.md	927	8	7	True	True	content depth candidate; old append marker
+3	answer-guides/bloating-gas-guide.md	942	8	7	True	True	content depth candidate; old append marker
+3	answer-guides/night-hand-numbness-guide.md	964	8	6	True	True	content depth candidate; old append marker
+3	answer-guides/overhead-shoulder-pain-guide.md	971	8	7	True	True	content depth candidate; old append marker
+3	answer-guides/dyspepsia-guide.md	972	7	8	True	True	content depth candidate; old append marker
+3	answer-guides/student-stamina-focus-guide.md	975	7	8	True	True	content depth candidate; old append marker
+3	answer-guides/headache-neck-tension-guide.md	992	8	7	True	True	content depth candidate; old append marker
+3	answer-guides/women-lifecycle-guide.md	1005	8	8	True	True	content depth candidate; old append marker
+3	sasang-clinical-detail/references.md	1007	4	0	True	True	content depth candidate; few internal links
+3	answer-guides/postmeal-sleepiness-guide.md	1009	7	8	True	True	content depth candidate; old append marker
+3	answer-guides/normal-endoscopy-dyspepsia-guide.md	1031	8	8	True	True	content depth candidate; old append marker
+3	answer-guides/cold-and-numb-hands-feet-guide.md	1041	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/evening-leg-swelling-guide.md	1052	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/unclear-head-after-sleep-guide.md	1053	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/dizzy-after-meal-guide.md	1058	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/recovery-after-treatment-guide.md	1075	8	8	True	True	content depth candidate; old append marker
+3	answer-guides/night-shoulder-pain-guide.md	1086	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/forgetful-low-focus-guide.md	1089	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/cold-hands-feet-guide.md	1092	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/shoulder-pain-reaching-behind-guide.md	1093	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/period-pain-worsening-guide.md	1094	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/brain-fog-focus-guide.md	1097	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/neck-turn-shoulder-pain-guide.md	1098	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/tired-from-morning-guide.md	1098	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/inner-shoulder-blade-pain-computer-guide.md	1099	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/post-viral-fatigue-guide.md	1102	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/arm-numbness-without-shoulder-pain-guide.md	1105	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/still-tired-after-weekend-sleep-guide.md	1105	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/finger-color-change-cold-guide.md	1107	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/menopause-heat-sleep-guide.md	1108	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/afternoon-energy-crash-guide.md	1109	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/one-cold-foot-guide.md	1113	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/sleep-autonomic-guide.md	1114	8	8	True	True	content depth candidate; old append marker
+3	answer-guides/acute-wry-neck-morning-guide.md	1117	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/fatigue-after-diet-guide.md	1118	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/tired-after-small-activity-guide.md	1123	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/pms-headache-swelling-guide.md	1125	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/poor-appetite-slow-growth-guide.md	1125	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/post-period-fatigue-guide.md	1125	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/lighter-period-guide.md	1129	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/frequent-colds-child-tonic-guide.md	1131	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/thin-low-stamina-child-guide.md	1139	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/midlife-stamina-drop-guide.md	1140	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/delayed-lowback-pain-after-accident-guide.md	1145	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/sleep-and-child-growth-guide.md	1145	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/sleep-palpitations-after-accident-guide.md	1146	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/normal-tests-persistent-fatigue-guide.md	1150	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/when-child-tonic-guide.md	1166	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/headache-dizziness-after-accident-guide.md	1174	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/when-to-stop-treatment-after-accident-guide.md	1176	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/postpartum-recovery-slow-guide.md	1180	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/normal-xray-persistent-pain-after-accident-guide.md	1190	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/fatigue-low-vitality-guide.md	1193	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/next-day-neck-pain-after-accident-guide.md	1197	9	8	True	True	content depth candidate; old append marker
+3	answer-guides/shorter-than-peers-growth-guide.md	1217	9	8	True	True	content depth candidate; old append marker
+3	research/meta-analysis-index.md	1487	1	18	True	True	few sections
+3	herbs/index.md	1504	9	24	True	True	old append marker
+3	pillar/tonic-recovery.md	1694	6	23	True	True	old append marker
+3	clinical-core/index.md	1755	13	19	True	True	old append marker
+3	formulas/gyeongok-go.md	1842	10	11	True	True	old append marker
+3	formulas/gongjin-dan.md	1926	9	11	True	True	old append marker
+3	herbs/cervi-parvum-cornu.md	2429	12	15	True	True	old append marker
+3	formulas/index.md	3016	16	49	True	True	old append marker
+3	conditions/index.md	8061	15	209	True	True	old append marker
+2	meridian-network/bladder-meridian.md	903	6	2	True	True	content depth candidate
+2	network/herb-pair-combinations.md	937	9	22	True	True	content depth candidate
+2	herbs/fresh-rehmannia.md	950	7	4	True	True	content depth candidate
+2	conditions/energy-recovery.md	953	10	11	True	True	content depth candidate
+2	network/acupoint-combinations.md	963	9	12	True	True	content depth candidate
+2	research/formulas/gongjin-dan.md	977	6	5	True	True	content depth candidate
+2	conditions/custom-herbal-medicine.md	978	9	12	True	True	content depth candidate
+2	research/formulas/gyeongok-go.md	978	6	5	True	True	content depth candidate
+2	network/tonic-formula-lineage.md	986	10	10	True	True	content depth candidate
+2	conditions/deer-antler-tonic-guide.md	988	9	13	True	True	content depth candidate
+2	herbs/cinnamon-bark.md	989	8	5	True	True	content depth candidate
+2	research/evidence-levels.md	999	9	5	True	True	content depth candidate
+2	research/formulas/sipjeondaebo-tang.md	1002	6	5	True	True	content depth candidate
+2	pillar/acupuncture-treatment.md	1027	8	15	True	True	content depth candidate
+2	pillar/digestion-spleen-stomach.md	1051	7	13	True	True	content depth candidate
+2	herbs/musk.md	1073	8	3	True	True	content depth candidate
+2	pillar/index.md	1081	5	19	True	True	content depth candidate
+2	herbs/cornus-fruit.md	1082	8	5	True	True	content depth candidate
+2	research/formulas/index.md	1094	3	17	True	True	content depth candidate
+2	herbs/alisma.md	1110	7	4	True	True	content depth candidate
+2	herbs/schisandra.md	1125	8	5	True	True	content depth candidate
+2	herbs/astragalus.md	1149	8	6	True	True	content depth candidate
+2	diagnostics/patterns/cold-damp.md	1163	10	16	True	True	content depth candidate
+2	diagnostics/patterns/blood-deficiency.md	1171	10	16	True	True	content depth candidate
+2	diagnostics/patterns/blood-stasis.md	1184	10	16	True	True	content depth candidate
+2	diagnostics/patterns/qi-deficiency.md	1185	10	16	True	True	content depth candidate
+2	diagnostics/patterns/qi-blood-deficiency.md	1188	10	16	True	True	content depth candidate
+2	formulas/wendan-tang.md	1199	8	3	True	True	content depth candidate
+2	research/formulas/duhuo-jisheng-tang.md	1204	8	5	True	True	content depth candidate
+2	network/recovery-map.md	1212	7	22	True	True	content depth candidate
+2	diagnostics/patterns/phlegm-fluid.md	1216	10	17	True	True	content depth candidate
+2	diagnostics/patterns/liver-qi-stagnation.md	1225	10	16	True	True	content depth candidate
+2	formulas/shi-quan-da-bu-tang.md	1233	7	13	True	True	content depth candidate
+2	formulas/buzhong-yiqi-tang.md	1242	11	8	True	True	content depth candidate
+2	formulas/duhuo-jisheng-tang.md	1243	9	5	True	True	content depth candidate
+2	herbs/categories/tonics.md	1260	6	20	True	True	content depth candidate
+2	diagnostics/patterns/kidney-deficiency.md	1293	10	18	True	True	content depth candidate
+2	herbs/ginseng.md	1313	8	8	True	True	content depth candidate
+2	herbs/angelica.md	1322	9	8	True	True	content depth candidate
+2	meridian-network/special-points/index.md	1338	5	27	True	True	content depth candidate
+2	diagnostics/differentials/qi-vs-blood-vs-qi-blood.md	1367	10	18	True	True	content depth candidate
+2	meridian-network/index.md	1392	7	30	True	True	content depth candidate
+2	sasang-formula-dose-fingerprint/formula-fingerprint-table.md	2056	1	21	True	True	few sections
+2	answer-guides/index.md	4616	11	76	True	True	old append marker
+2	ai-index.md	8240	27	138	True	True	old append marker
+1	clinical-guides/tonic-comparison-matrix.md	900	4	9	True	True	content depth candidate
+1	acupuncture/points/gb30-huantiao.md	902	9	5	True	True	content depth candidate
+1	authority/conditions/carpal-tunnel.md	909	6	4	True	True	content depth candidate
+1	ai/site-structure.md	914	9	10	True	True	content depth candidate
+1	clinical-guides/tonic-evidence-dashboard.md	936	11	11	True	True	content depth candidate
+1	sasang-clinical-detail/taeyangin.md	949	7	4	True	True	content depth candidate
+1	clinical-guides/tonic-research-deep-guide.md	961	9	12	True	True	content depth candidate
+1	treatments/pharmacopuncture.md	982	7	3	True	True	content depth candidate
+1	sasang-formula-combination-network/soyangin-network.md	986	3	9	True	True	content depth candidate
+1	clinical-guides/gyeongokgo-composition-quality-guide.md	1003	7	8	True	True	content depth candidate
+1	history/timeline.md	1012	8	17	True	True	content depth candidate
+1	sasang-integrated/index.md	1031	4	17	True	True	content depth candidate
+1	sasang-formula-combination-network/taeeumin-network.md	1038	3	9	True	True	content depth candidate
+1	authority/conditions/post-stroke-dysphagia.md	1044	6	3	True	True	content depth candidate
+1	authority/conditions/post-stroke-spasticity.md	1061	5	4	True	True	content depth candidate
+1	herbal-integrated/formula-structure.md	1100	12	5	True	True	content depth candidate
+1	ai-index.backup-20260821-174040.md	1105	10	5	True	True	content depth candidate
+1	authority/conditions/postherpetic-neuralgia.md	1125	6	4	True	True	content depth candidate
+1	sasang-clinical-detail/taeeumin.md	1159	13	4	True	True	content depth candidate
+1	clinical-guides/tonic-decision-map.md	1160	6	14	True	True	content depth candidate
+1	answer-guides/dialect-symptom-search-map.md	1187	8	15	True	True	content depth candidate
+1	acupuncture-integrated/followup.md	1188	10	3	True	True	content depth candidate
+1	treatments/index.md	1202	3	4	True	True	content depth candidate
+1	sasang-clinical-detail/soeumin.md	1221	10	4	True	True	content depth candidate
+1	sasang-clinical-detail/soyangin.md	1228	10	4	True	True	content depth candidate
+1	sasang-formula-dose-fingerprint/dose-pair-comparisons.md	1253	5	8	True	True	content depth candidate
+1	index.md	1273	3	5	True	True	content depth candidate
+1	sasang-integrated/taeeumin.md	1293	7	12	True	True	content depth candidate
+1	faq/index.md	1298	3	3	True	True	content depth candidate
+1	sasang-integrated/soyangin.md	1332	8	12	True	True	content depth candidate
+1	conditions/common-cold.md	1413	8	6	True	True	
+1	network/tonic-wellness-hub.md	1448	8	18	True	True	
+1	pillar/pain-musculoskeletal.md	1525	11	24	True	True	
+1	formulas/guibi-tang.md	1557	8	9	True	True	
+1	network/formula-family-map.md	1656	13	37	True	True	
+1	research/references/index.md	3190	3	28	True	True	
+1	evidence-integrated/index.md	3287	18	18	True	True	
+1	acupoint-network/by-condition.md	3530	16	23	True	True	
+1	acupoint-network/index.md	4191	14	79	True	True	
+1	herbs/sasang-formula-reverse-index.md	5518	3	102	True	True	
+0	faq/sasang-faq.md	1724	6	5	True	True	
+0	clinical-guides/tonic-formula-dose-source-quality.md	1734	12	9	True	True	
+0	herbal-integrated/insurance-herbal.md	1849	15	12	True	True	
+0	sasang-integrated/soeumin.md	1904	13	5	True	True	
+0	sasang-integrated/formulas.md	1945	12	34	True	True	
+0	faq/herbs-faq.md	2008	7	6	True	True	
+0	faq/acupuncture-faq.md	2037	7	6	True	True	
+0	clinical-guides/deer-antler-tonic-guide.md	2048	13	22	True	True	
+0	faq/conditions-faq.md	2074	7	6	True	True	
+0	symptom-integrated/respiratory-rhinitis.md	2104	19	18	True	True	
+0	faq/tonic-faq.md	2185	7	6	True	True	
+0	faq/classics-evidence-faq.md	2187	7	6	True	True	
+0	symptom-integrated/digestive.md	2253	18	17	True	True	
+0	symptom-integrated/autonomic-stress.md	2365	18	22	True	True	
+0	herbal-integrated/herbs.md	2400	10	41	True	True	
+0	symptom-integrated/sleep-fatigue.md	2563	19	22	True	True	
+0	clinical-guides/tonic-formula-design-dose-atlas.md	2626	15	17	True	True	
+0	herbal-integrated/herb-comparisons.md	2901	12	50	True	True	
+0	symptom-integrated/pain.md	3094	20	21	True	True	
+0	herbal-integrated/formulas.md	3095	12	64	True	True	
+0	sasang-formula-dose-fingerprint/core-dose-map.md	3469	22	21	True	True	
+0	herbal-integrated/by-symptom-treatment.md	3691	12	58	True	True	
+0	acupuncture-integrated/by-symptom.md	5884	24	21	True	True	
+0	symptom-integrated/treatment-evidence.md	6268	37	32	True	True	
+0	herbal-integrated/general-formulary.md	6526	31	76	True	True	
+0	symptom-integrated/index.md	6997	14	95	True	True	
+0	acupuncture-integrated/pharmacopuncture.md	7426	99	25	True	True	
+0	acupuncture-integrated/points-meridians.md	24059	207	8	True	True	

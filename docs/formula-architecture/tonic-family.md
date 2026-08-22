@@ -1,4 +1,4 @@
----
+﻿---
 title: 보익·회복 처방 계열
 description: 보기·보혈·기혈쌍보·보신·익정 처방을 피로와 회복저하 관점에서 비교합니다.
 tags: [방제구조, 보익, 회복]
@@ -19,4 +19,5 @@ tags: [방제구조, 보익, 회복]
 
 → [녹용](../herbs/cervi-parvum-cornu.md) · [보익약](../herbs/categories/tonics.md)  
 → [기허 vs 신허성 피로](../diagnostics/differentials/qi-deficiency-vs-kidney-deficiency-fatigue.md)  
-→ [피로·회복](../clinical-core/pathways/fatigue-recovery.md)
+→ [피로·회복](../conditions/fatigue.md)
+

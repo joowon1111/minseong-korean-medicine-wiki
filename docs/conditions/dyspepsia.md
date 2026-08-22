@@ -1,4 +1,4 @@
----
+﻿---
 title: 소화불량·더부룩함
 description: 소화불량을 위험신호·비위기허·담음·식적·간울·방제·경혈과 연결합니다.
 tags: [소화불량, 더부룩함]
@@ -21,4 +21,5 @@ tags: [소화불량, 더부룩함]
 기능성 소화불량 연구에서는 식후포만·조기포만·통증·삶의 질과 위장운동 관련 지표를 함께 평가합니다.
 
 ## 관련 핵심 문서
-[소화불량 임상 연결](../clinical-core/pathways/dyspepsia.md) · [비위·담음 처방](../formula-architecture/spleen-phlegm-family.md)
+[소화불량 임상 연결](../conditions/dyspepsia.md) · [비위·담음 처방](../formula-architecture/spleen-phlegm-family.md)
+

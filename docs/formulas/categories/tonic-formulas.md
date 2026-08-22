@@ -1,4 +1,4 @@
----
+﻿---
 title: 보익 처방 임상 지식망
 description: 보기·보혈·기혈쌍보·보신 처방을 기허·혈허·기혈양허·신허 감별과 연결합니다.
 tags: [방제학, 보익제, 기허, 혈허]
@@ -32,4 +32,5 @@ last_reviewed: 2026-08-22
 
 ## 임상 연결
 
-→ [피로·회복 임상 연결](../../clinical-core/pathways/fatigue-recovery.md)
+→ [피로·회복 임상 연결](../../conditions/fatigue.md)
+

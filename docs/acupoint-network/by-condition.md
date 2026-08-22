@@ -1,4 +1,4 @@
----
+﻿---
 title: 경맥→증상 임상 지도
 description: 12경맥·임맥·독맥·기경팔맥과 주요 경혈·특정혈·배혈을 증상별로 연결합니다.
 tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
@@ -34,7 +34,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 **대표 배혈:** 신문 + 내관 + 인당, 필요에 따라 조해·백회 연결.
 
-→ [불면 임상 연결](../clinical-core/pathways/insomnia.md)
+→ [불면 임상 연결](../conditions/insomnia.md)
 
 ## 소화불량·더부룩함
 **위경·비경·심포경·임맥**을 중심으로 봅니다.
@@ -49,7 +49,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 **대표 배혈:** 족삼리 + 중완 + 내관을 중심으로 담음·식적·배변 양상에 따라 확장.
 
-→ [소화불량 임상 연결](../clinical-core/pathways/dyspepsia.md)
+→ [소화불량 임상 연결](../conditions/dyspepsia.md)
 
 ## 요통·요부 뻣뻣함
 **방광경·신경·독맥**이 중심입니다.
@@ -58,7 +58,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 **대표 배혈:** 대장수 + 위중 + 곤륜. 허증·냉감·회복저하가 뚜렷하면 신수·태계·명문을 함께 봅니다.
 
-→ [요통 임상 연결](../clinical-core/pathways/low-back-pain.md)
+→ [요통 임상 연결](../conditions/low-back-pain.md)
 
 ## 비염·코막힘
 **폐경·대장경·독맥**과 비부 국소를 연결합니다.
@@ -67,7 +67,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 **대표 배혈:** 열결 + 합곡 + 영향/인당.
 
-→ [비염·기침 임상 연결](../clinical-core/pathways/rhinitis-cough.md)
+→ [비염·기침 임상 연결](../conditions/allergic-rhinitis.md)
 
 ## 목·어깨·견갑부
 **담경·방광경·소장경·대장경·삼초경**이 교차하는 영역입니다.
@@ -83,7 +83,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 양릉천은 근회, 족삼리는 위 하합혈, 위중은 방광경 합혈이라는 특정혈 성격까지 함께 봅니다.
 
-→ [무릎·하지 임상 연결](../clinical-core/pathways/knee-leg-pain.md)
+→ [무릎·하지 임상 연결](../conditions/knee-pain.md)
 
 ## 두통·경항통·어지럼
 - 후두·경항: 방광경·담경·독맥
@@ -98,7 +98,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 내관 PC6 · 신문 HT7 · 전중 CV17 · 극문 PC4
 
-→ [두근거림·자율신경 임상 연결](../clinical-core/pathways/palpitations-autonomic.md)
+→ [두근거림·자율신경 임상 연결](../conditions/palpitation.md)
 
 ## 기침·호흡기
 **폐경·대장경·임맥·방광경**
@@ -114,14 +114,14 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 공손 SP4 + 내관 PC6은 충맥·음유맥의 팔맥교회혈 조합으로 복부·흉부·여성 증상과 연결해 이해합니다.
 
-→ [여성 임상 연결](../clinical-core/pathways/women-cold-blood.md)
+→ [여성 임상 연결](../conditions/dysmenorrhea.md)
 
 ## 냉증·피로·회복저하
 **신경·비경·위경·임맥·독맥**
 
 태계 KI3 · 족삼리 ST36 · 기해 CV6 · 관원 CV4 · 명문 GV4 · 신수 BL23
 
-→ [피로·회복 임상 연결](../clinical-core/pathways/fatigue-recovery.md)
+→ [피로·회복 임상 연결](../conditions/fatigue.md)
 
 ## 특정혈 체계로 다시 보기
 - [오수혈](../meridian-network/special-points/five-shu.md)
@@ -144,3 +144,4 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 - [임상 핵심 배혈 조합](../network/acupoint-combinations.md)
 - [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 - [침구·한의치료 허브](../pillar/acupuncture-treatment.md)
+

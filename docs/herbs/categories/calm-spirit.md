@@ -1,4 +1,4 @@
----
+﻿---
 title: 안신 본초 임상 지식망
 description: 산조인·원지 등 안신 본초를 불면·심계·긴장·혈허·담음 변증과 대표 처방으로 연결합니다.
 tags: [본초학, 안신, 불면, 심계]
@@ -27,10 +27,11 @@ last_reviewed: 2026-08-22
 
 [기혈양허](../../diagnostics/patterns/qi-blood-deficiency.md) · [담음](../../diagnostics/patterns/phlegm-fluid.md) · [간울](../../diagnostics/patterns/liver-qi-stagnation.md)
 
-→ [불면 임상 연결](../../clinical-core/pathways/insomnia.md)
+→ [불면 임상 연결](../../conditions/insomnia.md)
 
 ## 경혈 연결
 
 신문 HT7 · 내관 PC6 · 조해 KI6 · 인당 EX-HN3 · 백회 GV20
 
 → [경맥→증상 지도](../../acupoint-network/by-condition.md)
+
