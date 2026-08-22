@@ -1,4 +1,4 @@
-﻿---
+---
 title: 보혈·활혈 본초 임상 지식망
 description: 보혈과 활혈 본초를 혈허·어혈 감별, 사물탕계열·활혈방제, 여성·통증 임상과 연결합니다.
 tags: [본초학, 보혈, 활혈, 혈허, 어혈]
@@ -41,6 +41,5 @@ last_reviewed: 2026-08-22
 
 여성 생리증상, 병후 회복, 어지럼, 수면저하, 타박·근골격 통증에서 혈허와 어혈의 비중을 구분합니다.
 
-→ [여성 임상 연결](../../conditions/dysmenorrhea.md)  
+→ [여성 임상 연결](../../clinical-core/pathways/women-cold-blood.md)  
 → [어혈성 통증 vs 한습성 통증](../../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)
-

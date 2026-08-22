@@ -1,4 +1,4 @@
-﻿---
+---
 title: 사물탕·기혈쌍보 처방 계열
 description: 사물탕·팔물탕·십전대보탕·귀비탕을 혈허와 기혈양허 관점에서 비교합니다.
 tags: [방제구조, 사물탕, 기혈양허]
@@ -20,5 +20,4 @@ tags: [방제구조, 사물탕, 기혈양허]
 ## 임상 연결
 어지럼·창백·수면저하·병후 회복·여성 생리 변화에서 혈허와 기허의 비중을 함께 봅니다.
 
-→ [피로·회복](../conditions/fatigue.md) · [여성 임상](../conditions/dysmenorrhea.md)
-
+→ [피로·회복](../clinical-core/pathways/fatigue-recovery.md) · [여성 임상](../clinical-core/pathways/women-cold-blood.md)

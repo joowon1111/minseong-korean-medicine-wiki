@@ -1,4 +1,4 @@
-﻿---
+---
 title: 소화·비위 한의학 허브
 description: 소화불량·복부팽만·조기포만·배변변화를 비위기허·담음·식적·기체와 본초·방제·경혈·현대 연구로 연결합니다.
 tags: [Pillar, 소화, 비위, 한의학지식망]
@@ -11,7 +11,7 @@ last_reviewed: 2026-08-22
 
 ## 환자 질문에서 시작
 
-- [소화불량 임상 연결 지도](../conditions/dyspepsia.md)
+- [소화불량 임상 연결 지도](../clinical-core/pathways/dyspepsia.md)
 - [더부룩함·가스](../answer-guides/bloating-gas-guide.md)
 - [조금만 먹어도 금방 배부름](../answer-guides/early-satiety-guide.md)
 - [스트레스성 소화불량](../answer-guides/stress-digestion-guide.md)
@@ -58,4 +58,3 @@ last_reviewed: 2026-08-22
 
 - [육군자탕 임상근거](../research/formulas/rikkunshito.md)
 - [현대 임상근거 허브](clinical-evidence.md)
-

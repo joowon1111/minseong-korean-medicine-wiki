@@ -1,4 +1,4 @@
-﻿---
+---
 title: 거풍습·근골 처방 임상 지식망
 description: 독활기생탕·오적산·소경활혈탕 등을 한습·어혈·간신부족 통증과 비교합니다.
 tags: [방제학, 거풍습제, 근골, 통증]
@@ -24,11 +24,10 @@ last_reviewed: 2026-08-22
 ## 감별
 
 → [어혈성 통증 vs 한습성 통증](../../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)  
-→ [요통 임상 연결](../../conditions/low-back-pain.md)
+→ [요통 임상 연결](../../clinical-core/pathways/low-back-pain.md)
 
 ## 경혈과 함께 보기
 
 대장수 BL25 · 위중 BL40 · 곤륜 BL60 · 양릉천 GB34 · 태계 KI3
 
 → [방제·경혈 임상 조합](../../network/formula-acupoint-combinations.md)
-

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 한의학 고전 임상 지식망
 description: 황제내경·상한론·금궤요략·동의보감·동의수세보원을 병증·치법·방제·경혈·현대 연구로 연결합니다.
 ---
@@ -9,7 +9,7 @@ description: 황제내경·상한론·금궤요략·동의보감·동의수세�
 ## 주요 고전
 - [황제내경](huangdi-neijing.md) — 장부·경락·병기·침구
 - [상한론](shanghanlun.md) — 육경병·맥증·고방
-- 금궤요략 — 잡병·내과·부인과
+- [금궤요략](jingui-yaolue.md) — 잡병·내과·부인과
 - [동의보감](donguibogam.md) — 한국 한의학의 종합 임상체계
 - [동의수세보원](../sasang/donguisusebowon.md) — 사상의학
 
@@ -19,4 +19,3 @@ description: 황제내경·상한론·금궤요략·동의보감·동의수세�
 → [방제 구조](../formula-architecture/index.md)
 → [경락·경맥](../meridian-network/index.md)
 → [고전→현대 연구](../network/classic-to-evidence-map.md)
-
