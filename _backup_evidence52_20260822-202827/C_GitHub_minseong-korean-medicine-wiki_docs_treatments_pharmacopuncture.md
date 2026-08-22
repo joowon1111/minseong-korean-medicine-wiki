@@ -1,4 +1,4 @@
-﻿---
+---
 title: 약침
 description: 약침의 개념, 한의학적 특징과 근골격계 통증 관련 현대 임상연구를 정리합니다.
 tags: [약침, 한의치료, 통증]
@@ -36,14 +36,3 @@ last_reviewed: 2026-08-19
 1. Park KS, et al. *A Pragmatic Randomized Controlled Trial on the Effectiveness of Pharmacopuncture for Chronic Low Back Pain.* 2023. PMID **37554434**.
 2. Park KS, et al. *Pharmacopuncture Therapy for Chronic Neck Pain: A Pragmatic, Randomized, Controlled Trial.* 2021/2022. PMID **35011752**.
 3. Kim D, et al. *Pharmacopuncture therapy for adhesive capsulitis: a pragmatic randomized controlled pilot study.* 2024. PMID **39224580**.
-
-
-<!-- MS52_PHARM_START -->
-## 최신 약침 종합근거
-
-2025년 ultrasound-guided pharmacopuncture systematic review/meta-analysis는 16개 임상연구를 검토하고, 그중 9개 무작위시험 685명을 정량합성했습니다. 통증 개선 비율은 비초음파 유도 약침 및 usual care와 비교해 초음파 유도 약침군에서 더 높게 보고되었습니다. PMID `40101074`.
-
-약침 근거는 **제제·농도·주입량·표적조직·초음파 유도 여부**에 따라 중재가 달라질 수 있으므로 연구 프로토콜을 함께 기록합니다.
-
-→ [고영향력 임상연구 참고문헌](../research/references.md)
-<!-- MS52_PHARM_END -->
