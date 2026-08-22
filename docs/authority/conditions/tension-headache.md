@@ -1,35 +1,13 @@
-﻿---
-title: 긴장형 두통 — 현대 임상근거 카드
-description: 긴장형 두통에서 침 치료 systematic review·meta-analysis와 통증·경혈 지식망을 연결합니다.
-tags: [두통, 침, 임상근거, meta-analysis]
-status: 검토완료
-last_reviewed: 2026-08-19
----
 # 긴장형 두통 — 현대 임상근거 카드
 
-긴장형 두통은 흔한 일차성 두통으로, 한의학에서는 통증 양상과 동반증상을 살펴 기혈·경락·풍한·긴장 등의 맥락을 함께 고려할 수 있다.
+## 임상 맥락
+긴장형 두통은 편두통과 구분해 양측성 압박감, 활동에 따른 악화 여부, 오심·빛/소리과민, 경부 근육 긴장 등을 확인합니다.
 
-## 2025 systematic review·meta-analysis
-2025년 meta-analysis에는 **6개 RCT, 927명**이 포함됐다. 침 치료군은 6주 후 두통 빈도 감소와 sham acupuncture 대비 두통 완화 반응에서 유리한 결과가 보고됐다. 1개월 이상 또는 10회 이상 치료한 하위군에서도 통증 수준 감소가 관찰됐다.
+## 현대 임상근거
+- 2024 systematic review/network meta-analysis는 여러 침 관련 치료의 무작위시험을 종합해 두통 빈도·지속시간·통증강도·반응률을 비교했습니다. PMID `39703352`.
 
-**PMID:** `41436106`  
-**PMCID:** `PMC12727187`  
-**DOI:** `10.22514/jofph.2025.067`
+## 한의학 지식망
+`긴장형 두통 → 두통 양상·경항부 긴장 → 위험신호 감별 → 경락·경근·아시혈 → 침구 → 빈도·강도·진통제 사용 재평가`
 
-## 더 넓은 근거
-2023년 systematic review에는 **30개 RCT, 2,742명**이 포함됐으며 responder rate·두통 빈도·통증 강도 등을 평가했다. 두통 빈도·통증 강도·치료반응을 폭넓게 평가한 자료로 함께 참고할 수 있다.
-
-## 지식망
-→ [침 치료](../../treatments/acupuncture.md)  
-→ [합곡 LI4](../../acupoint-network/li4.md)  
-→ [백회 GV20](../../acupoint-network/gv20.md)  
-→ [수양명대장경](../../meridian-network/large-intestine-meridian.md)
-
-
-<!-- MS53_HEAD_START -->
-## 최신 침구 종합근거
-
-2024 tension-type headache systematic review/network meta-analysis는 여러 침 관련 치료의 무작위시험을 종합해 **두통 빈도·지속시간·통증강도·반응률**을 비교했습니다. PMID `39703352`.
-
-편두통에서는 2017 *JAMA Internal Medicine* RCT(PMID `28241154`)처럼 sham·대기군과 비교한 landmark 연구도 함께 봅니다. 따라서 두통 근거는 **긴장형두통과 편두통을 구분**해 연결합니다.
-<!-- MS53_HEAD_END -->
+## 해석
+편두통 연구와 섞지 않고 긴장형 두통의 발작빈도, 지속시간, 통증강도와 일상기능을 중심으로 봅니다.
