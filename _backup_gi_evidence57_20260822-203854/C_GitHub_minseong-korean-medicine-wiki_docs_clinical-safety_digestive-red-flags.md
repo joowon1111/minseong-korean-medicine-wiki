@@ -1,4 +1,4 @@
-﻿---
+---
 title: 소화기 증상 위험신호
 description: 소화불량·복통·구토·배변변화에서 우선 평가가 필요한 위험신호를 정리합니다.
 status: 검토완료
@@ -23,12 +23,3 @@ last_reviewed: 2026-08-22
 → [소화불량](../conditions/dyspepsia.md)  
 → [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
 
-
-
-<!-- MS57_FGID_START -->
-## 기능성 위장관질환 침 근거
-
-2025 systematic review/meta-analysis는 기능성 위장관질환(FGID) **29개 RCT·5,100명**을 포함했습니다. sham 침 및 서양의학 약물치료와 비교한 반응률에서 침 기반 치료에 유리한 결과가 보고되었고, 치료 빈도와 치료기간이 결과와 관련될 가능성도 분석했습니다. PMID `40850525`.
-
-기능성소화불량·IBS·기능성변비는 서로 다른 질환이므로 이 종합근거는 전체 지형을 보는 데 사용하고, 실제 페이지에서는 각 질환의 개별 RCT·meta-analysis를 우선합니다.
-<!-- MS57_FGID_END -->
