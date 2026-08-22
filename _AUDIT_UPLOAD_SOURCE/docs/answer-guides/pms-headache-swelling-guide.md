@@ -1,4 +1,4 @@
----
+﻿---
 title: 생리 전에 두통과 붓기가 심해지는 이유는 무엇인가요?
 description: 생리 전 두통·부종을 주기성·수면·염분·스트레스·월경양상과 함께 살펴봅니다.
 tags: [생리전두통, 생리전붓기, PMS, 월경전증후군, 여성한약]
@@ -21,7 +21,25 @@ tags: [생리전두통, 생리전붓기, PMS, 월경전증후군, 여성한약]
 갑자기 매우 심한 두통이 생기거나 시야이상·마비·말이 어눌해지는 신경학적 증상이 동반되는 경우, 한쪽 다리만 심하게 붓고 통증이 있는 경우에는 즉시 진료가 필요합니다.
 
 ## 더 깊게 보기
-- [여성 생애주기](../conditions/womens-lifecycle.md)
+- [여성 생애주기](../answer-guides/women-lifecycle-guide.md)
 - [두통](../conditions/headache.md)
 - [부종](../conditions/edema.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+
+<!-- SEARCH_INTENT_DIFFERENTIATION_06_START -->
+
+## 이 질문이 다루는 범위
+
+이 문서는 **“생리 전에 두통과 붓기가 심해지는 이유는 무엇인가요?”**라는 상황에 초점을 둡니다. 같은 계열의 증상이라도 **발생 시간·유발 상황·동반 증상·회복 패턴**이 다르면 확인해야 할 원인과 치료 방향도 달라질 수 있습니다.
+
+### 비슷하지만 다른 질문
+
+- [생리양이 갑자기 줄었으면 무엇을 확인해야 하나요?](lighter-period-guide.md)
+- [갱년기인데 열감과 잠 문제가 같이 생기면 어떻게 봐야 하나요?](menopause-heat-sleep-guide.md)
+- [생리통이 예전보다 점점 심해지는 이유는 무엇인가요?](period-pain-worsening-guide.md)
+- [생리 끝나고 너무 피곤한 이유는 무엇인가요?](post-period-fatigue-guide.md)
+
+> **검색 포인트:** 여성 생애주기 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
+
+<!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+

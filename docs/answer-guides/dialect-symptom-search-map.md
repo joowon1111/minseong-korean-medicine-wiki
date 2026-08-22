@@ -17,7 +17,7 @@ tags: [사투리, 생활구어, 환자검색어, 증상검색, AEO]
 - 목이 땡긴다 → 당김·근육 긴장 → [경항통](../conditions/neck-pain.md)
 - 어깨가 꽉 뭉쳤다 → 견갑대 긴장 → [어깨통증](../conditions/shoulder-pain.md)
 - 삭신이 쑤신다 / 뼈마디가 쑤신다 → 전신 근육통·관절통
-- 다리가 땡긴다 → 근육 당김·방사통 감별 → [하지저림](../conditions/leg-numbness.md)
+- 다리가 땡긴다 → 근육 당김·방사통 감별 → [하지저림](../conditions/foot-numbness.md)
 
 ## 소화·장
 - 체한 것 같다 / 얹힌 것 같다 → 체기·[소화불량](../conditions/dyspepsia.md)
@@ -54,4 +54,5 @@ tags: [사투리, 생활구어, 환자검색어, 증상검색, AEO]
 - [수면·신경계](../pillar/sleep-neuro.md)
 - [소화·비위](../pillar/digestion-spleen-stomach.md)
 - [면역·알레르기](../immune-allergy/index.md)
+
 

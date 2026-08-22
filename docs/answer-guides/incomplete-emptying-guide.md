@@ -24,5 +24,6 @@ tags: [잔뇨감, 전립선, 배뇨장애, 빈뇨, 남성건강]
 - [전립선·배뇨](../conditions/prostate-urinary-symptoms.md)
 - [골반통](../conditions/pelvic-pain.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
-- [만성통증](../conditions/chronic-pain.md)
+- [만성통증](../conditions/chronic-prostatitis.md)
+
 

@@ -23,7 +23,7 @@ tags: [교통사고허리통증, 교통사고후유증, 요통, 허리통증, �
 ## 더 깊게 보기
 - [교통사고 후유증](../conditions/traffic-accident-sequelae.md)
 - [요통](../conditions/low-back-pain.md)
-- [하지저림](../conditions/leg-numbness.md)
+- [하지저림](../conditions/foot-numbness.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_START -->
@@ -42,4 +42,5 @@ tags: [교통사고허리통증, 교통사고후유증, 요통, 허리통증, �
 > **검색 포인트:** 교통사고 후유증 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

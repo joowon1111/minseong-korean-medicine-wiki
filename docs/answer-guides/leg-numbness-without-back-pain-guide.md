@@ -1,4 +1,4 @@
----
+﻿---
 title: 허리는 안 아픈데 다리만 저린 경우에도 허리 문제일 수 있나요?
 description: 허리통증 없는 다리저림을 신경분포·자세·말초신경·혈류·근력저하와 함께 설명합니다.
 tags: [다리저림, 허리디스크, 신경통, 하지저림, 요추]
@@ -21,7 +21,8 @@ tags: [다리저림, 허리디스크, 신경통, 하지저림, 요추]
 저림과 함께 다리 힘이 빠지거나 발이 끌리고, 대소변 조절 이상이나 회음부 감각저하가 생기면 빠른 평가가 필요합니다. 갑자기 한쪽 다리가 차고 창백해지는 경우도 즉시 평가해야 합니다.
 
 ## 더 깊게 보기
-- [하지저림](../conditions/leg-numbness.md)
+- [하지저림](../conditions/foot-numbness.md)
 - [요통](../conditions/low-back-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: 긴장하거나 피곤할 때 손이 떨리는 이유는 무엇인가요?
 description: 손떨림을 발생상황·카페인·공복·수면·약물·신경학적 위험신호와 함께 설명합니다.
 tags: [손떨림, 수전증, 자율신경, 긴장, 피로]
@@ -21,7 +21,8 @@ tags: [손떨림, 수전증, 자율신경, 긴장, 피로]
 한쪽 손의 떨림이 새롭게 지속되거나 근력저하·보행이상·말 어눌함 등 신경학적 변화가 동반되는 경우에는 원인 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [불면](../conditions/insomnia.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

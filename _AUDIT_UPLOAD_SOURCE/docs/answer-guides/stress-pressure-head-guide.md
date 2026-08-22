@@ -1,4 +1,4 @@
----
+﻿---
 title: 스트레스 받으면 머리가 띵하고 압박되는 느낌이 드는 이유는 무엇인가요?
 description: 스트레스성 머리 압박감을 목근육·호흡·수면·심계·긴장성두통과 함께 설명합니다.
 tags: [스트레스두통, 머리압박감, 긴장성두통, 자율신경, 목긴장]
@@ -22,6 +22,7 @@ tags: [스트레스두통, 머리압박감, 긴장성두통, 자율신경, 목�
 
 ## 더 깊게 보기
 - [두통](../conditions/headache.md)
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [경항통](../conditions/neck-pain.md)
 - [불면](../conditions/insomnia.md)
+

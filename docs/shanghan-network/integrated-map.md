@@ -1,4 +1,4 @@
----
+﻿---
 title: 상한론 → 현대 한의학 통합 지도
 description: 상한론 → 현대 한의학 통합 지도을 상한론의 육경병증·치법·처방·임상추론 구조로 정리합니다.
 tags: [상한론, 육경변증, 고전방제, 임상추론]
@@ -25,5 +25,6 @@ last_reviewed: 2026-08-20
 
 → [황제내경 핵심 지식망](../neijing-network/index.md)
 → [금궤요략](../classics-network/jingui-yaolue.md)
-→ [방제학](../formulas/)
+→ [방제학](../formulas/index.md)
+
 

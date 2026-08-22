@@ -1,4 +1,4 @@
----
+﻿---
 title: 검사는 괜찮다는데 가슴이 답답하고 숨이 막히는 느낌이 드는 이유는 무엇인가요?
 description: 검사 후에도 반복되는 흉부답답함을 호흡패턴·운동·식후·스트레스·역류·위험신호와 함께 설명합니다.
 tags: [가슴답답함, 숨막힘, 자율신경, 과호흡, 흉민]
@@ -21,7 +21,9 @@ tags: [가슴답답함, 숨막힘, 자율신경, 과호흡, 흉민]
 압박성 흉통, 식은땀, 실신, 심한 호흡곤란, 통증이 팔·턱·등으로 퍼지는 경우에는 즉시 응급 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
-- [목이물감](../conditions/globus-sensation.md)
+- [자율신경](../autonomic/index.md)
+- [목이물감](../conditions/globus.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [불면](../conditions/insomnia.md)
+
+

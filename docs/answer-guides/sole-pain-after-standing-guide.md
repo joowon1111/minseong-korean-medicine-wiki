@@ -1,4 +1,4 @@
----
+﻿---
 title: 아침 첫발뿐 아니라 오래 서 있어도 발바닥이 아픈 이유는 무엇인가요?
 description: 오래 서 있을 때 발바닥 통증을 통증위치·족저근막·신발·보행·저림과 함께 설명합니다.
 tags: [발바닥통증, 족저근막염, 오래서있기, 발뒤꿈치통증, 발통증]
@@ -21,7 +21,8 @@ tags: [발바닥통증, 족저근막염, 오래서있기, 발뒤꿈치통증, �
 발이 붉고 뜨거우면서 심하게 붓거나, 외상 후 체중을 싣기 어렵거나, 감각저하·상처가 잘 낫지 않는 경우에는 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [족저근막통증](../conditions/plantar-fascia-pain.md)
+- [족저근막통증](../conditions/plantar-fasciitis.md)
 - [발목통증](../conditions/ankle-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
+

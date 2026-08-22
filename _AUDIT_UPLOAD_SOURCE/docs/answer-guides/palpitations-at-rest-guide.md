@@ -1,4 +1,4 @@
----
+﻿---
 title: 가만히 있는데 심장이 두근거리는 이유는 무엇인가요?
 description: 휴식 중 두근거림을 맥박·지속시간·카페인·수면·스트레스·부정맥 위험신호와 함께 설명합니다.
 tags: [두근거림, 심계항진, 자율신경, 불안, 가슴두근거림]
@@ -21,7 +21,8 @@ tags: [두근거림, 심계항진, 자율신경, 불안, 가슴두근거림]
 두근거림과 함께 흉통·실신·심한 호흡곤란이 있거나, 매우 빠른 맥박이 지속되고 컨디션이 급격히 나빠지는 경우에는 즉시 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [자율신경](../conditions/autonomic-dysfunction.md)
+- [자율신경](../autonomic/index.md)
 - [불면](../conditions/insomnia.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+

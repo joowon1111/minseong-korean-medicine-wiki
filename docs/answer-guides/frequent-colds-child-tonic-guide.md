@@ -23,7 +23,7 @@ tags: [감기자주하는아이, 잔병치레, 소아보약, 면역, 소아한�
 ## 더 깊게 보기
 - [비염](../conditions/rhinitis.md)
 - [기침](../conditions/cough.md)
-- [소아보약](../conditions/pediatric-tonic.md)
+- [소아보약](../conditions/child-parent-tonic-guide.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_START -->
@@ -42,4 +42,5 @@ tags: [감기자주하는아이, 잔병치레, 소아보약, 면역, 소아한�
 > **검색 포인트:** 소아·성장·보약 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

@@ -21,7 +21,7 @@ tags: [아이키, 성장부진, 소아성장, 성장속도, 소아보약]
 성장속도가 뚜렷하게 떨어지거나 성장곡선이 아래로 크게 이동하는 경우, 체중이 잘 늘지 않거나 감소하는 경우, 만성 설사·복통·심한 피로가 지속되면 성장과 전신상태 평가가 우선합니다.
 
 ## 더 깊게 보기
-- [소아보약](../conditions/pediatric-tonic.md)
+- [소아보약](../conditions/child-parent-tonic-guide.md)
 - [식욕부진](../conditions/poor-appetite-adult.md)
 - [비염](../conditions/rhinitis.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
@@ -42,4 +42,5 @@ tags: [아이키, 성장부진, 소아성장, 성장속도, 소아보약]
 > **검색 포인트:** 소아·성장·보약 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

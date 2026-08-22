@@ -21,7 +21,7 @@ tags: [손발저림, 손발냉증, 혈액순환, 신경압박, 자율신경]
 갑작스러운 한쪽 팔다리 저림과 근력저하, 말 어눌함, 보행이상 또는 팔다리가 차갑고 창백해지면서 심한 통증이 생기면 즉시 평가가 필요합니다.
 
 ## 더 깊게 보기
-- [손저림](../conditions/hand-numbness.md)
+- [손저림](../conditions/arm-numbness.md)
 - [경항통](../conditions/neck-pain.md)
 - [요통](../conditions/low-back-pain.md)
 - [자율신경](../autonomic/index.md)
@@ -42,4 +42,5 @@ tags: [손발저림, 손발냉증, 혈액순환, 신경압박, 자율신경]
 > **검색 포인트:** 냉증·순환·저림 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
+
 

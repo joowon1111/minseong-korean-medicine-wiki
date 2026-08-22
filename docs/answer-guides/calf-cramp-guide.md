@@ -1,4 +1,4 @@
----
+﻿---
 title: 종아리가 자주 당기고 쥐가 나는 이유는 무엇인가요?
 description: 반복되는 종아리 경련을 운동·수분·약물·신경·혈류·야간패턴과 함께 설명합니다.
 tags: [종아리쥐, 근육경련, 종아리당김, 야간경련, 다리통증]
@@ -21,7 +21,8 @@ tags: [종아리쥐, 근육경련, 종아리당김, 야간경련, 다리통증]
 한쪽 종아리가 갑자기 붓고 붉거나 뜨겁고 지속적으로 아픈 경우, 호흡곤란·흉통이 동반되는 경우에는 즉시 평가가 필요합니다. 진행하는 근력저하가 있는 경우도 진료가 필요합니다.
 
 ## 더 깊게 보기
-- [하지저림](../conditions/leg-numbness.md)
+- [하지저림](../conditions/foot-numbness.md)
 - [요통](../conditions/low-back-pain.md)
 - [부종](../conditions/edema.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
+
