@@ -1,56 +1,12 @@
-﻿---
-title: 기능성 소화불량 — 현대 임상근거 카드
-description: 기능성 소화불량에서 침 치료의 Bayesian meta-analysis와 비위기허·담음·육군자탕·경혈 지식망을 연결합니다.
-tags: [질환, 임상근거, 침, meta-analysis, PMID]
-status: 검토완료
-last_reviewed: 2026-08-19
----
 # 기능성 소화불량 — 현대 임상근거 카드
-
 ## 임상 맥락
-기능성 소화불량은 식후 포만감·조기포만·상복부 통증·불편감 등이 반복되지만 구조적 원인만으로 충분히 설명되지 않는 기능성 위장관 질환이다.
-
-한의학에서는 증후에 따라 **비위기허·담음·기체·식적** 등의 구조를 함께 살핀다.
-
-→ [소화불량](../../conditions/dyspepsia.md)  
-→ [소화불량 임상 추론](../../clinical-reasoning/dyspepsia.md)
-
-## 침 치료 Bayesian meta-analysis
-2024년 발표된 Bayesian meta-analysis는 기능성 소화불량에서 여러 침 치료 전략을 비교했다. 연구에서는 침 치료 단독 또는 서양의학 치료와의 병용이 증상 개선에 활용될 가능성을 평가했으며, 특히 조기포만과 식후 포만감 등 주요 증상에 대한 비교 결과를 제시했다.
-
-**연구유형:** Bayesian meta-analysis  
-**PMID:** `38761869`  
-**DOI:** `10.1016/j.ctim.2024.103051`
-
+식후 더부룩함·조기포만·명치통증·작열감과 '소화가 안 돼요', '먹으면 더부룩해요' 같은 환자 검색표현을 연결합니다.
+## 현대 임상연구
+- 2026 updated meta-analysis: **23 RCT·2,454명**. sham과 비교해 증상과 삶의 질이 개선됐고 usual care 및 위장운동촉진제 비교에서도 긍정적인 임상결과가 보고됐습니다. PMID `41737400`.
+- 2025 FGID meta-analysis: **29 RCT·5,100명**. sham 및 약물치료와 비교한 반응률에서 긍정적 결과. PMID `40850525`.
+- 2024 Bayesian meta-analysis: 침+서양의학은 조기포만·식후포만감, 침+뜸은 명치통증 개선에서 좋은 결과. PMID `38761869`.
+- 한국 연구진의 add-on systematic review/meta-analysis. PMID `34381798`.
 ## 한의학 지식망
-```text
-소화불량
-├─ 비위기허 → 사군자탕·육군자탕
-├─ 담음 → 온담탕
-└─ 침구 → 족삼리 ST36·내관 PC6
-```
-
-→ [족삼리 ST36](../../acupoint-network/st36.md)  
-→ [내관 PC6](../../acupoint-network/pc6.md)  
-→ [육군자탕](../../formulas/liujunzi-tang.md)  
-→ [소화·비위 허브](../../pillar/digestion-spleen-stomach.md)
-
-## 해석
-침 치료 연구에서는 사용한 경혈·자극방법·비교군이 서로 다를 수 있으므로, meta-analysis 결과와 함께 개별 연구 설계를 확인하는 것이 좋다.
-
-
-
-<!-- MS52_DYS_START -->
-## 한약치료의 최신 종합근거
-
-기능성소화불량은 한약 임상연구가 비교적 활발한 영역입니다.
-
-- 49 RCT·6,987명 meta-analysis에서는 여러 herbal treatment의 효과를 종합했습니다. PMID `34851546`.
-- 15 placebo-controlled RCT network meta-analysis에서는 한약이 8주 global symptom 개선에서 placebo보다 우수한 방향을 보였고 일부 처방군의 비교효과를 제시했습니다. PMID `34592339`.
-- 시호소간산 systematic review/meta-analysis는 12개 연구·867명을 포함했고 단독 또는 병용치료의 긍정적 결과를 보고했습니다. PMID `37127143`.
-- 반하사심탕 systematic review/meta-analysis는 57 RCT·5,525명을 포함해 임상효과와 안전성을 종합했습니다. PMID `37274096`.
-
-개별 환자에서는 **비위기허·담음·식적·간울 등의 변증과 실제 연구에 사용된 처방·제형이 일치하는지**를 함께 봅니다.
-
-→ [고영향력 임상연구 참고문헌](../research/references.md)
-<!-- MS52_DYS_END -->
+`더부룩함·조기포만·명치통증 → 비위기허·담음·식적·간위불화 → 침구·한약 → 소화증상·삶의 질 재평가`
+## 치료 연결
+족삼리 ST36·내관 PC6·중완 CV12과 육군자탕·향사육군자탕·반하사심탕 등 변증별 처방 지식망을 연결합니다.
