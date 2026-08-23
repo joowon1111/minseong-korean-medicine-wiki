@@ -1,7 +1,10 @@
 ---
 title: 만성피로·회복저하
 description: 지속 피로를 원인 감별·기허·기혈양허·신허·보익 처방과 연결합니다.
-tags: [만성피로, 피로]
+tags:
+- 만성피로
+- 피로
+last_reviewed: '2026-08-23'
 ---
 # 만성피로·회복저하
 
@@ -22,28 +25,3 @@ tags: [만성피로, 피로]
 
 ## 관련 핵심 문서
 [피로·회복](../clinical-core/pathways/fatigue-recovery.md) · [보익·회복 처방](../formula-architecture/tonic-family.md)
-
-<!-- MS132_STRUCTURED_DATA_START -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalWebPage",
-  "name": "피로·기력저하",
-  "description": "지속되는 피로와 기력저하의 감별·한의학적 변증·보익 처방·본초·현대 임상근거를 연결합니다.",
-  "url": "https://wiki.minseong.co.kr/conditions/fatigue/",
-  "inLanguage": "ko-KR",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "민성 한의학 아카이브",
-    "url": "https://wiki.minseong.co.kr/"
-  },
-  "about": {
-    "@type": "MedicalCondition",
-    "name": "피로·기력저하"
-  },
-  "keywords": "피로, 기력저하, 만성피로, 사군자탕, 보중익기탕, 인삼, 황기",
-  "dateModified": "2026-08-23"
-}
-</script>
-<!-- MS132_STRUCTURED_DATA_END -->
-

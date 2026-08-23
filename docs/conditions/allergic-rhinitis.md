@@ -1,7 +1,10 @@
 ---
 title: 알레르기비염·코막힘
 description: 재채기·콧물·코막힘을 감별·폐비 변증·한약·경혈·침구와 연결합니다.
-tags: [알레르기비염, 비염]
+tags:
+- 알레르기비염
+- 비염
+last_reviewed: '2026-08-23'
 ---
 # 알레르기비염·코막힘
 
@@ -22,28 +25,3 @@ tags: [알레르기비염, 비염]
 
 ## 관련 핵심 문서
 [비염·기침 임상 연결](../clinical-core/pathways/rhinitis-cough.md) · [경맥→증상 지도](../acupoint-network/by-condition.md)
-
-<!-- MS132_STRUCTURED_DATA_START -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalWebPage",
-  "name": "알레르기비염",
-  "description": "재채기, 콧물, 코막힘 등 알레르기비염의 한의학적 해석·한약·경혈·현대 임상근거를 연결합니다.",
-  "url": "https://wiki.minseong.co.kr/conditions/allergic-rhinitis/",
-  "inLanguage": "ko-KR",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "민성 한의학 아카이브",
-    "url": "https://wiki.minseong.co.kr/"
-  },
-  "about": {
-    "@type": "MedicalCondition",
-    "name": "알레르기비염"
-  },
-  "keywords": "알레르기비염, 재채기, 콧물, 코막힘, 소청룡탕, 합곡 LI4, 침 치료",
-  "dateModified": "2026-08-23"
-}
-</script>
-<!-- MS132_STRUCTURED_DATA_END -->
-
