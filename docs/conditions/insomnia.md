@@ -1,6 +1,6 @@
-﻿---
+---
 title: 불면·수면저하
-description: 불면을 원인 감별·기혈부족·담음·간울·안신 방제·경혈과 연결합니다.
+description: 불면의 감별·변증·한약·경혈·침구·현대 연구를 연결합니다.
 tags: [불면, 수면]
 ---
 # 불면·수면저하
@@ -21,27 +21,21 @@ tags: [불면, 수면]
 연구에서는 수면척도뿐 아니라 입면시간·야간각성·수면효율·낮 기능과 피로를 함께 평가합니다.
 
 ## 관련 핵심 문서
-[불면 임상 연결](../clinical-core/pathways/insomnia.md) · [안신·불면 처방](../formula-architecture/insomnia-family.md)
+[불면 임상 연결](../clinical-core/pathways/insomnia.md) · [안신·불면 처방](../network/formula-families.md#안신불면-처방군)
 
-
-<!-- MS52_INS_START -->
 ## 한약치료 최신 종합근거
 
-2025년 Chinese herbal medicine insomnia network meta-analysis는 **186개 RCT와 13개 herbal intervention**을 포함했습니다. PSQI 기준 상위권에 귀비탕(Guipi decoction), 시호가용골모려탕 계열, 산조인 계열 등이 포함되어 한약 불면치료의 비교효과를 폭넓게 평가했습니다. PMID `40826721`.
+2025년 Chinese herbal medicine insomnia network meta-analysis는 186개 RCT와 13개 herbal intervention을 포함했습니다. PSQI 기준 상위권에 귀비탕(Guipi decoction), 시호가용골모려탕 계열, 산조인 계열 등이 포함되어 한약 불면치료의 비교효과를 폭넓게 평가했습니다. PMID `40826721`.
 
-이 결과는 특정 처방을 모든 불면에 적용한다는 의미가 아니라, **심비양허·담음·음혈부족·간울 등 변증과 연구에 사용된 처방을 맞춰 읽는 근거**로 활용합니다.
+이 결과는 특정 처방을 모든 불면에 적용한다는 의미가 아니라, 심비양허·담음·음혈부족·간울 등 변증과 연구에 사용된 처방을 맞춰 읽는 근거로 활용합니다.
 
-→ [불면 처방 계열](../formula-architecture/insomnia-family.md)  
-→ [고영향력 임상연구 참고문헌](../research/references.md)
-<!-- MS52_INS_END -->
+→ [불면 처방 계열](../network/formula-families.md#안신불면-처방군)  
+→ [고영향력 임상연구 참고문헌](/research/references/)
 
-
-<!-- MS63_INSOMNIA_START -->
 ## 만성·원발성 불면 침 치료 최신 근거
 
-- 2025 chronic insomnia disorder systematic review/meta-analysis+TSA는 **10개 RCT·757명**에서 sham 대비 PSQI와 ISI 개선을 보고했습니다. 객관적 수면지표에서는 sleep efficiency와 WASO가 개선됐지만 total sleep time 차이는 명확하지 않았습니다. PMID `40371085`.
+- 2025 chronic insomnia disorder systematic review/meta-analysis+TSA는 10개 RCT·757명에서 sham 대비 PSQI와 ISI 개선을 보고했습니다. 객관적 수면지표에서는 sleep efficiency와 WASO가 개선됐지만 total sleep time 차이는 명확하지 않았습니다. PMID `40371085`.
 - 2025 Cochrane review는 불면에 대한 침 무작위시험을 체계적으로 재평가한 최신 고수준 근거입니다. PMID `40626505`.
-- 2026 primary insomnia network meta-analysis는 **80개 연구·7,791명**을 포함해 일반침·복침·전침 등 다양한 치료를 비교했습니다. 일부 outcome에서 침 치료가 conventional medication 또는 sham보다 유리했지만 출판편향·프로토콜 이질성·장기추적 부족을 지적했습니다. PMID `41853182`.
+- 2026 primary insomnia network meta-analysis는 80개 연구·7,791명을 포함해 일반침·복침·전침 등 다양한 치료를 비교했습니다. 일부 outcome에서 침 치료가 conventional medication 또는 sham보다 유리했지만 출판편향·프로토콜 이질성·장기추적 부족을 지적했습니다. PMID `41853182`.
 
-불면에서는 **주관적 수면척도(PSQI·ISI)와 객관적 수면지표를 구분**하고, 수면위생·인지행동치료·기저 정신건강 및 신체질환 평가와 함께 봅니다.
-<!-- MS63_INSOMNIA_END -->
+불면에서는 주관적 수면척도(PSQI·ISI)와 객관적 수면지표를 구분하고, 수면위생·인지행동치료·기저 정신건강 및 신체질환 평가와 함께 봅니다.
