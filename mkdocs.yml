@@ -888,8 +888,49 @@ nav:
           - 산조인: authority/herbs/ziziphus-seed.md
           - 맥문동: authority/herbs/ophiopogon.md
         - 방제:
-          - 보중익기탕: authority/buzhong-yiqi-tang.md
-          - 독활기생탕: authority/duhuo-jisheng-tang.md
+          - 보익·피로:
+            - 보중익기탕: authority/buzhong-yiqi-tang.md
+            - 사군자탕: authority/formulas/sijunzi-tang.md
+          - 수면·정서:
+            - 산조인탕: authority/formulas/suanzaoren-tang.md
+            - 귀비탕: authority/formulas/guipi-tang-evidence.md
+            - 천왕보심단: authority/formulas/cheonwangbosimdan.md
+            - 소요산: authority/formulas/xiaoyao-san.md
+            - 가미소요산·단치소요산: authority/formulas/danzhi-xiaoyao-san.md
+            - 시호소간산: authority/formulas/chaihu-shugan-san.md
+            - 시호가용골모려탕: authority/formulas/chaihu-jia-longgu-muli-tang.md
+            - 황련온담탕: authority/formulas/huanglian-wendan-tang.md
+            - 용담사간탕: authority/formulas/longdan-xiegan-tang.md
+          - 소화기:
+            - 반하사심탕: authority/formulas/banxia-xiexin-tang.md
+            - 육군자탕: authority/formulas/rikkunshito-evidence.md
+            - 마자인환: authority/formulas/mazi-ren-wan.md
+            - 통사요방: authority/formulas/tongxie-yaofang.md
+            - 사신환: authority/formulas/sishen-wan.md
+          - 여성·갱년기:
+            - 온경탕: authority/formulas/wenjing-tang.md
+            - 당귀작약산: authority/formulas/danggui-shaoyao-san.md
+            - 정곤단: authority/formulas/ding-kun-dan.md
+          - 호흡기·비염:
+            - 소청룡탕: authority/formulas/xiao-qing-long-tang.md
+            - 옥병풍산: authority/formulas/yupingfeng-san.md
+            - 위경탕·천금위경탕: authority/formulas/weijing-tang.md
+            - 마행감석탕: authority/formulas/maxing-shigan-tang.md
+          - 근골격·통증:
+            - 독활기생탕: authority/duhuo-jisheng-tang.md
+            - 오적산: authority/formulas/ojeok-san.md
+            - 작약감초탕: authority/formulas/shakuyaku-kanzo-tang-update.md
+          - 대사·신장·심혈관:
+            - 육미지황환: authority/formulas/liuwei-dihuang-wan.md
+            - 황련해독탕: authority/formulas/huanglian-jiedu-tang-diabetes.md
+            - 갈근금련탕: authority/formulas/gegen-qinlian-tang-diabetes.md
+            - 천마구등음: authority/formulas/tianma-gouteng-yin.md
+            - 혈부축어탕: authority/formulas/xuefu-zhuyu-tang-hypertension.md
+            - 이선탕: authority/formulas/erxian-decoction-osteoporosis.md
+          - 신경·뇌졸중:
+            - 보양환오탕: authority/formulas/buyang-huanwu-tang-poststroke.md
+          - 비뇨생식:
+            - 전열서통캡슐: authority/formulas/qianlieshutong-bph.md
     - 현대 연구:
       - research/index.md
       - 임상시험 읽기: research/clinical-trials.md
