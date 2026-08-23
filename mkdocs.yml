@@ -524,6 +524,32 @@ nav:
   - 자율신경·스트레스: symptom-integrated/autonomic-stress.md
   - 위험신호·감별: symptom-integrated/red-flags.md
   - 치료·경과·근거: symptom-integrated/treatment-evidence.md
+  - 증상 기반 한약 탐색:
+    - symptom-herbal-guide/index.md
+    - 소화기계:
+      - symptom-herbal-guide/digestive/index.md
+      - R10 복부 및 골반 통증: symptom-herbal-guide/digestive/r10-abdominal-pelvic-pain.md
+      - R14 복부팽만 및 관련 상태: symptom-herbal-guide/digestive/r14-bloating.md
+      - R63 식욕 및 수분 섭취 증상: symptom-herbal-guide/digestive/r63-appetite-intake.md
+    - 신경·정신계:
+      - symptom-herbal-guide/neuro-mental/index.md
+      - R51 두통: symptom-herbal-guide/neuro-mental/r51-headache.md
+      - R42 현기증 및 어지러움: symptom-herbal-guide/neuro-mental/r42-dizziness.md
+      - R45 정서와 관련된 증상: symptom-herbal-guide/neuro-mental/r45-emotional.md
+      - R46 수면 관련 증상: symptom-herbal-guide/neuro-mental/r46-sleep.md
+    - 호흡기·이비인후과:
+      - symptom-herbal-guide/respiratory-ent/index.md
+      - R05 기침: symptom-herbal-guide/respiratory-ent/r05-cough.md
+      - R07 목 및 가슴의 통증: symptom-herbal-guide/respiratory-ent/r07-throat-chest.md
+      - R53 권태 및 피로: symptom-herbal-guide/respiratory-ent/r53-fatigue.md
+    - 전신·대사·피부:
+      - symptom-herbal-guide/systemic-skin/index.md
+      - R52 달리 분류되지 않은 통증: symptom-herbal-guide/systemic-skin/r52-generalized-pain.md
+      - R21 발진 및 피부 분출: symptom-herbal-guide/systemic-skin/r21-rash-itch.md
+    - 비뇨·생식기계:
+      - symptom-herbal-guide/urogenital/index.md
+      - R11 골반 및 회음부 통증: symptom-herbal-guide/urogenital/r11-pelvic-perineal.md
+      - R30 소변볼 때의 통증·배뇨 증상: symptom-herbal-guide/urogenital/r30-urinary.md
   - 상세 자료실:
     - portal/conditions.md
     - 비교해서 찾기:
