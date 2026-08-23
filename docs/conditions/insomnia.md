@@ -20,6 +20,14 @@ tags: [불면, 수면]
 ## 치료·현대 연구
 연구에서는 수면척도뿐 아니라 입면시간·야간각성·수면효율·낮 기능과 피로를 함께 평가합니다.
 
+
+## 관련 본초·방제·경혈·근거
+
+- **관련 방제**: [산조인탕](https://wiki.minseong.co.kr/authority/formulas/suanzaoren-tang/) · [귀비탕](https://wiki.minseong.co.kr/authority/formulas/guipi-tang-evidence/) · [천왕보심단](https://wiki.minseong.co.kr/authority/formulas/cheonwangbosimdan/)
+- **관련 본초**: [산조인](https://wiki.minseong.co.kr/authority/herbs/ziziphus-seed/) · [원지](https://wiki.minseong.co.kr/herbs/polygala/) · [맥문동](https://wiki.minseong.co.kr/authority/herbs/ophiopogon/)
+- **관련 경혈**: [신문 HT7](https://wiki.minseong.co.kr/acupoint-network/ht7/) · [내관 PC6](https://wiki.minseong.co.kr/acupoint-network/pc6/) · [삼음교 SP6](https://wiki.minseong.co.kr/acupoint-network/sp6/)
+- **현대 임상근거**: [불면 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/insomnia/) · [불면 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/insomnia-herbal-formula-map/)
+
 ## 관련 핵심 문서
 [불면 임상 지식망](https://wiki.minseong.co.kr/network/insomnia-map/) · [수면·신경계 허브](https://wiki.minseong.co.kr/pillar/sleep-neuro/)
 

@@ -20,6 +20,14 @@ tags: [요통, 허리통증]
 ## 치료·현대 연구
 침·전침·약침·부항·뜸과 한약을 기능상태에 맞춰 조합합니다. 연구에서는 통증뿐 아니라 기능과 삶의 질을 함께 평가합니다.
 
+
+## 관련 본초·방제·경혈·근거
+
+- **관련 방제**: [독활기생탕](https://wiki.minseong.co.kr/authority/duhuo-jisheng-tang/) · [오적산](https://wiki.minseong.co.kr/authority/formulas/ojeok-san/)
+- **관련 본초**: [독활](https://wiki.minseong.co.kr/herbs/angelica-pubescens/) · [두충](https://wiki.minseong.co.kr/herbs/eucommia/) · [우슬](https://wiki.minseong.co.kr/herbs/achyranthes/)
+- **관련 경혈**: [신수 BL23](https://wiki.minseong.co.kr/acupoint-network/bl23/) · [위중 BL40](https://wiki.minseong.co.kr/acupoint-network/bl40/) · [WHO 표준 361경혈 아틀라스](https://wiki.minseong.co.kr/acupoint-network/standard-atlas/)
+- **현대 임상근거**: [만성 요통 최신 근거](https://wiki.minseong.co.kr/authority/conditions/chronic-low-back-pain-update/) · [요통 임상 지식망](https://wiki.minseong.co.kr/network/low-back-pain-map/)
+
 ## 관련 핵심 문서
 [요통 임상 지식망](https://wiki.minseong.co.kr/network/low-back-pain-map/) · [통증·근골격 허브](https://wiki.minseong.co.kr/pillar/pain-musculoskeletal/)
 

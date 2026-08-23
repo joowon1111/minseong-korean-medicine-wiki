@@ -20,5 +20,13 @@ tags: [무릎통증, 슬통]
 ## 치료·현대 연구
 침 치료와 독활기생탕 등은 무릎 골관절염을 포함한 근골격 영역에서 임상 연구가 축적되어 있습니다.
 
+
+## 관련 본초·방제·경혈·근거
+
+- **관련 방제**: [독활기생탕](https://wiki.minseong.co.kr/authority/duhuo-jisheng-tang/) · [무릎 골관절염 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/knee-osteoarthritis-herbal-map/)
+- **관련 본초**: [두충](https://wiki.minseong.co.kr/herbs/eucommia/) · [우슬](https://wiki.minseong.co.kr/herbs/achyranthes/) · [독활](https://wiki.minseong.co.kr/herbs/angelica-pubescens/)
+- **관련 경혈**: [족삼리 ST36](https://wiki.minseong.co.kr/acupoint-network/st36/) · [WHO 표준 361경혈 아틀라스](https://wiki.minseong.co.kr/acupoint-network/standard-atlas/)
+- **현대 임상근거**: [무릎 골관절염 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/knee-osteoarthritis/) · [침·뜸 근거](https://wiki.minseong.co.kr/authority/conditions/knee-osteoarthritis-acupuncture-moxibustion/)
+
 ## 관련 핵심 문서
-[무릎·하지 임상 연결](/conditions/knee-pain/) · [현대 임상근거](../pillar/clinical-evidence.md)
+[무릎·하지 임상 연결](../clinical-core/pathways/knee-leg-pain.md) · [현대 임상근거](../pillar/clinical-evidence.md)

@@ -52,3 +52,11 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 기능성소화불량 · 위내시경은 정상인데 소화가 안돼요 · 먹으면 더부룩해요 · 조금만 먹어도 배불러요 · 명치가 답답해요 · 기능성소화불량 한약
+
+## 관련 본초·방제·경혈·근거
+
+- **관련 방제**: [육군자탕](https://wiki.minseong.co.kr/authority/formulas/rikkunshito-evidence/) · [반하사심탕](https://wiki.minseong.co.kr/authority/formulas/banxia-xiexin-tang/)
+- **관련 본초**: [반하](https://wiki.minseong.co.kr/herbs/pinellia/) · [진피](https://wiki.minseong.co.kr/herbs/citrus-peel/) · [인삼](https://wiki.minseong.co.kr/authority/herbs/ginseng/) · [백출](https://wiki.minseong.co.kr/herbs/atractylodes/)
+- **관련 경혈**: [족삼리 ST36](https://wiki.minseong.co.kr/acupoint-network/st36/) · [내관 PC6](https://wiki.minseong.co.kr/acupoint-network/pc6/) · [중완 CV12](https://wiki.minseong.co.kr/acupuncture/points/cv12-zhongwan/)
+- **현대 임상근거**: [기능성소화불량 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/functional-dyspepsia/) · [소화기 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/functional-dyspepsia-herbal-map/)
+

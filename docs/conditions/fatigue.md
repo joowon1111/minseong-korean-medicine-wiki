@@ -20,5 +20,13 @@ tags: [만성피로, 피로]
 ## 치료·현대 연구
 피로척도 외 활동능력·수면·정신사회적 기능·삶의 질을 함께 평가하며 일부 보익 처방은 위약대조 임상연구까지 확장되어 있습니다.
 
+
+## 관련 본초·방제·경혈·근거
+
+- **관련 방제**: [사군자탕](https://wiki.minseong.co.kr/authority/formulas/sijunzi-tang/) · [보중익기탕](https://wiki.minseong.co.kr/authority/buzhong-yiqi-tang/)
+- **관련 본초**: [인삼](https://wiki.minseong.co.kr/authority/herbs/ginseng/) · [황기](https://wiki.minseong.co.kr/authority/herbs/astragalus/) · [백출](https://wiki.minseong.co.kr/herbs/atractylodes/)
+- **관련 임상근거**: [만성피로 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/chronic-fatigue-herbal-map/) · [인삼 함유 처방 피로 근거](https://wiki.minseong.co.kr/authority/formulas/ginseng-formula-fatigue/)
+- **관련 지식망**: [피로 임상 지식망](https://wiki.minseong.co.kr/network/fatigue-map/)
+
 ## 관련 핵심 문서
-[피로·회복](/network/fatigue-map/) · [보익·회복 처방](../formula-architecture/tonic-family.md)
+[피로·회복](../clinical-core/pathways/fatigue-recovery.md) · [보익·회복 처방](../formula-architecture/tonic-family.md)

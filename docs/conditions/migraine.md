@@ -52,3 +52,11 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 편두통 · 한쪽 머리가 지끈거려요 · 두통과 메스꺼움 · 빛 보면 머리가 아파요 · 생리 전 편두통 · 편두통 한약 · 편두통 침치료
+
+## 관련 본초·방제·경혈·근거
+
+- **관련 한약근거**: [편두통 한약 현대근거](https://wiki.minseong.co.kr/authority/formulas/migraine-herbal-evidence/) · [천궁 함유 처방 근거](https://wiki.minseong.co.kr/authority/formulas/chuanxiong-migraine-formula/)
+- **관련 본초**: [천궁](https://wiki.minseong.co.kr/herbs/chuanxiong/) · [천마](https://wiki.minseong.co.kr/herbs/gastrodia/) · [구등](https://wiki.minseong.co.kr/herbs/uncaria/)
+- **관련 경혈**: [합곡 LI4](https://wiki.minseong.co.kr/acupoint-network/li4/) · [태양 EX-HN5](https://wiki.minseong.co.kr/acupuncture/extra-points/ex-hn5/) · [WHO 표준 361경혈 아틀라스](https://wiki.minseong.co.kr/acupoint-network/standard-atlas/)
+- **현대 임상근거**: [편두통 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/migraine/) · [편두통 이침 근거](https://wiki.minseong.co.kr/authority/conditions/migraine-auricular-acupuncture/)
+

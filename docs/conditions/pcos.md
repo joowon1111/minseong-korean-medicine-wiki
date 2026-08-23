@@ -51,3 +51,11 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 다낭성난소증후군 · PCOS · 생리불순 여드름 · 생리가 몇달에 한번 · 다낭성 한약 · 다낭성 임신준비
+
+## 관련 본초·방제·경혈·근거
+
+- **관련 임상근거**: [PCOS 배란·치료량 근거](https://wiki.minseong.co.kr/authority/conditions/pcos-ovulation-dose-response/) · [비만 동반 PCOS 근거](https://wiki.minseong.co.kr/authority/conditions/obese-pcos/)
+- **관련 본초**: [숙지황](https://wiki.minseong.co.kr/herbs/prepared-rehmannia/) · [당귀](https://wiki.minseong.co.kr/authority/herbs/angelica/) · [백출](https://wiki.minseong.co.kr/herbs/atractylodes/)
+- **관련 경혈**: [삼음교 SP6](https://wiki.minseong.co.kr/acupoint-network/sp6/) · [중극 CV3](https://wiki.minseong.co.kr/acupuncture/points/cv3/) · [WHO 표준 361경혈 아틀라스](https://wiki.minseong.co.kr/acupoint-network/standard-atlas/)
+- **연결 근거지도**: [여성 내분비·생식 근거지도](https://wiki.minseong.co.kr/authority/conditions/women-endocrine-reproductive-evidence-map/)
+
