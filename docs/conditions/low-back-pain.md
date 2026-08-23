@@ -1,4 +1,4 @@
-﻿---
+---
 title: 요통
 description: 허리통증의 위험신호·변증·한약·경혈·침구·현대 연구를 연결합니다.
 tags: [요통, 허리통증]
@@ -19,7 +19,6 @@ tags: [요통, 허리통증]
 
 ## 치료·현대 연구
 침·전침·약침·부항·뜸과 한약을 기능상태에 맞춰 조합합니다. 연구에서는 통증뿐 아니라 기능과 삶의 질을 함께 평가합니다.
-
 ## 관련 핵심 문서
 [요통 임상 연결](../clinical-core/pathways/low-back-pain.md) · [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
@@ -28,7 +27,6 @@ tags: [요통, 허리통증]
 ## Landmark + 최신 종합근거
 
 만성 요통의 침 근거는 landmark RCT와 최근 umbrella review를 함께 보는 것이 좋습니다.
-
 - Haake et al., *Archives of Internal Medicine* 2007 — 1,162명 다기관 RCT, PMID `17893311`.
 - Cherkin et al., *Archives of Internal Medicine* 2009 — 638명 RCT, PMID `19433697`.
 - Vickers et al., *J Pain* 2018 — 39개 RCT·20,827명 IPD meta-analysis, PMID `29198932`.
@@ -36,5 +34,5 @@ tags: [요통, 허리통증]
 
 **임상적으로는 통증점수뿐 아니라 기능·활동능력·재발과 지속효과를 함께 봅니다.**
 
-→ [고영향력 임상연구 참고문헌](../research/references.md)
+→ [고영향력 임상연구 참고문헌](../research/references/)
 <!-- MS52_LBP_END -->
