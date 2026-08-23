@@ -881,12 +881,84 @@ nav:
       - 대표 본초·방제 근거 카드:
         - authority/herbs/index.md
         - 본초:
-          - 녹용: authority/herbs/velvet-antler.md
-          - 인삼: authority/herbs/ginseng.md
-          - 황기: authority/herbs/astragalus.md
-          - 당귀: authority/herbs/angelica.md
-          - 산조인: authority/herbs/ziziphus-seed.md
-          - 맥문동: authority/herbs/ophiopogon.md
+          - 보익·회복:
+            - 녹용: authority/herbs/velvet-antler.md
+            - 인삼: authority/herbs/ginseng.md
+            - 황기: authority/herbs/astragalus.md
+            - 숙지황: herbs/prepared-rehmannia.md
+            - 백출: herbs/atractylodes.md
+            - 복령: herbs/poria.md
+            - 산수유: herbs/cornus-fruit.md
+            - 두충: herbs/eucommia.md
+            - 우슬: herbs/achyranthes.md
+            - 속단: herbs/dipsacus.md
+            - 골쇄보: herbs/drynaria.md
+          - 수면·정서:
+            - 산조인: authority/herbs/ziziphus-seed.md
+            - 원지: herbs/polygala.md
+            - 석창포: herbs/acorus.md
+            - 용안육: herbs/longan.md
+            - 백자인: herbs/thuja-seed.md
+            - 백합: herbs/lily.md
+            - 오미자: herbs/schisandra.md
+          - 소화기·담음:
+            - 반하: herbs/pinellia.md
+            - 진피: herbs/citrus-peel.md
+            - 후박: herbs/magnolia-bark.md
+            - 사인: herbs/amomum.md
+            - 목향: herbs/aucklandia.md
+            - 향부자: herbs/cyperus.md
+            - 지실: herbs/citrus-immature.md
+            - 나복자: herbs/raphanus-seed.md
+            - 감초: herbs/licorice.md
+          - 여성·혈분·활혈:
+            - 당귀: authority/herbs/angelica.md
+            - 천궁: herbs/chuanxiong.md
+            - 백작약: herbs/white-peony.md
+            - 도인: herbs/peach-kernel.md
+            - 홍화: herbs/safflower.md
+            - 단삼: herbs/salvia.md
+            - 목단피: herbs/moutan.md
+          - 호흡기·비염:
+            - 맥문동: authority/herbs/ophiopogon.md
+            - 마황: herbs/ephedra.md
+            - 행인: herbs/apricot-kernel.md
+            - 길경: herbs/platycodon.md
+            - 천패모: herbs/fritillaria.md
+            - 자소엽: herbs/perilla-leaf.md
+            - 생강: herbs/fresh-ginger.md
+            - 금은화: herbs/honeysuckle.md
+            - 연교: herbs/forsythia.md
+            - 우방자: herbs/arctium.md
+          - 두통·어지럼·경항:
+            - 천마: herbs/gastrodia.md
+            - 구등: herbs/uncaria.md
+            - 갈근: herbs/pueraria.md
+            - 강활: herbs/notopterygium.md
+            - 독활: herbs/angelica-pubescens.md
+            - 방풍: herbs/saposhnikovia.md
+            - 형개: herbs/schizonepeta.md
+            - 박하: herbs/mint.md
+          - 청열·대사:
+            - 황련: herbs/coptis.md
+            - 황금: herbs/scutellaria.md
+            - 황백: herbs/phellodendron.md
+            - 치자: herbs/gardenia.md
+            - 석고: herbs/gypsum.md
+            - 지모: herbs/anemarrhena.md
+            - 대황: herbs/rhubarb.md
+            - 천화분: herbs/trichosanthes-root.md
+          - 이수·신장:
+            - 택사: herbs/alisma.md
+            - 저령: herbs/polyporus.md
+            - 차전자: herbs/plantago-seed.md
+            - 의이인: herbs/coix.md
+          - 온리·한증:
+            - 육계: herbs/cinnamon-bark.md
+            - 건강: herbs/dried-ginger.md
+            - 부자: herbs/aconite.md
+          - 개규:
+            - 사향: herbs/musk.md
         - 방제:
           - 보익·피로:
             - 보중익기탕: authority/buzhong-yiqi-tang.md
