@@ -21,7 +21,7 @@ tags: [불면, 수면]
 연구에서는 수면척도뿐 아니라 입면시간·야간각성·수면효율·낮 기능과 피로를 함께 평가합니다.
 
 ## 관련 핵심 문서
-[불면 임상·근거 해석](https://wiki.minseong.co.kr/evidence-integrated/) · [불면 한약 임상근거 참고문헌](https://wiki.minseong.co.kr/research/references/)
+[불면 임상 지식망](https://wiki.minseong.co.kr/network/insomnia-map/) · [수면·신경계 허브](https://wiki.minseong.co.kr/pillar/sleep-neuro/)
 
 ## 한약치료 최신 종합근거
 
