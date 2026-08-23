@@ -838,24 +838,10 @@ nav:
       - 한의학 근거 계층 지도: evidence-guide/evidence-ladder.md
     - 출처·근거 허브:
       - authority/index.md
-      - 공진단 근거 카드: authority/gongjin-dan.md
-      - 경옥고 근거 카드: authority/gyeongok-go.md
-      - 보중익기탕 근거 카드: authority/buzhong-yiqi-tang.md
-      - 독활기생탕 근거 카드: authority/duhuo-jisheng-tang.md
-      - 침 치료 근거 카드: authority/acupuncture.md
-      - 약침 근거 카드: authority/pharmacopuncture.md
-      - 불면 근거 카드: authority/insomnia.md
-      - 요통 근거 카드: authority/low-back-pain.md
-      - 대표 본초 근거 카드:
-        - authority/herbs/index.md
-        - 녹용: authority/herbs/velvet-antler.md
-        - 인삼: authority/herbs/ginseng.md
-        - 황기: authority/herbs/astragalus.md
-        - 당귀: authority/herbs/angelica.md
-        - 산조인: authority/herbs/ziziphus-seed.md
-        - 맥문동: authority/herbs/ophiopogon.md
       - 질환별 현대 근거 카드:
         - authority/conditions/index.md
+        - 불면: authority/insomnia.md
+        - 요통: authority/low-back-pain.md
         - 기능성 소화불량: authority/conditions/functional-dyspepsia.md
         - 알레르기비염: authority/conditions/allergic-rhinitis.md
         - 무릎 골관절염: authority/conditions/knee-osteoarthritis.md
@@ -875,19 +861,35 @@ nav:
         - 뇌졸중 후 우울: authority/conditions/post-stroke-depression.md
         - 대상포진 후 신경통: authority/conditions/postherpetic-neuralgia.md
         - 뇌졸중 후 경직: authority/conditions/post-stroke-spasticity.md
-        - 과민성장증후군: /authority/conditions/irritable-bowel-syndrome/
-        - 기능성 변비: /authority/conditions/functional-constipation/
-        - 불안: /authority/conditions/anxiety/
-        - 갱년기·주폐경기: /authority/conditions/menopause/
-        - 만성전립선염·만성골반통증후군: /authority/conditions/chronic-prostatitis-cpps/
-        - 과민성방광: /authority/conditions/overactive-bladder/
-        - 천식: /authority/conditions/asthma/
-        - COPD: /authority/conditions/copd/
-        - 당뇨병성 말초신경병증: /authority/conditions/diabetic-peripheral-neuropathy/
-        - 파킨슨병: /authority/conditions/parkinson-disease/
-        - 항암치료 유발 오심·구토: /authority/conditions/chemotherapy-nausea-vomiting/
-        - 항암치료 유발 말초신경병증: /authority/conditions/chemotherapy-induced-peripheral-neuropathy/
-        - 방사선치료 후 구강건조: /authority/conditions/radiation-xerostomia/
+        - 과민성장증후군: authority/conditions/irritable-bowel-syndrome.md
+        - 기능성 변비: authority/conditions/functional-constipation.md
+        - 불안: authority/conditions/anxiety.md
+        - 갱년기·주폐경기: authority/conditions/menopause.md
+        - 만성전립선염·만성골반통증후군: authority/conditions/chronic-prostatitis-cpps.md
+        - 과민성방광: authority/conditions/overactive-bladder.md
+        - 천식: authority/conditions/asthma.md
+        - COPD: authority/conditions/copd.md
+        - 당뇨병성 말초신경병증: authority/conditions/diabetic-peripheral-neuropathy.md
+        - 파킨슨병: authority/conditions/parkinson-disease.md
+        - 항암치료 유발 오심·구토: authority/conditions/chemotherapy-nausea-vomiting.md
+        - 항암치료 유발 말초신경병증: authority/conditions/chemotherapy-induced-peripheral-neuropathy.md
+        - 방사선치료 후 구강건조: authority/conditions/radiation-xerostomia.md
+      - 공진단 근거 카드: authority/gongjin-dan.md
+      - 경옥고 근거 카드: authority/gyeongok-go.md
+      - 침 치료 근거 카드: authority/acupuncture.md
+      - 약침 근거 카드: authority/pharmacopuncture.md
+      - 대표 본초·방제 근거 카드:
+        - authority/herbs/index.md
+        - 본초:
+          - 녹용: authority/herbs/velvet-antler.md
+          - 인삼: authority/herbs/ginseng.md
+          - 황기: authority/herbs/astragalus.md
+          - 당귀: authority/herbs/angelica.md
+          - 산조인: authority/herbs/ziziphus-seed.md
+          - 맥문동: authority/herbs/ophiopogon.md
+        - 방제:
+          - 보중익기탕: authority/buzhong-yiqi-tang.md
+          - 독활기생탕: authority/duhuo-jisheng-tang.md
     - 현대 연구:
       - research/index.md
       - 임상시험 읽기: research/clinical-trials.md
