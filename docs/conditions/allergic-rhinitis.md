@@ -20,13 +20,30 @@ tags: [알레르기비염, 비염]
 ## 치료·현대 연구
 한약과 침치료 연구에서는 코막힘·재채기·비증상 점수·삶의 질과 안전성을 함께 평가합니다.
 
-
-## 관련 본초·방제·경혈·근거
-
-- **관련 방제**: [소청룡탕](https://wiki.minseong.co.kr/authority/formulas/xiao-qing-long-tang/) · [알레르기비염 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/allergic-rhinitis-herbal-map/)
-- **관련 본초**: [마황](https://wiki.minseong.co.kr/herbs/ephedra/) · [오미자](https://wiki.minseong.co.kr/herbs/schisandra/) · [반하](https://wiki.minseong.co.kr/herbs/pinellia/)
-- **관련 경혈**: [합곡 LI4](https://wiki.minseong.co.kr/acupoint-network/li4/) · [비염 경혈 지도](https://wiki.minseong.co.kr/acupuncture-integrated/points-for-rhinitis/)
-- **현대 임상근거**: [알레르기비염 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/allergic-rhinitis/) · [비강내 침 근거](https://wiki.minseong.co.kr/authority/conditions/intranasal-acupuncture-allergic-rhinitis/)
-
 ## 관련 핵심 문서
 [비염·기침 임상 연결](../clinical-core/pathways/rhinitis-cough.md) · [경맥→증상 지도](../acupoint-network/by-condition.md)
+
+<!-- MS132_STRUCTURED_DATA_START -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "알레르기비염",
+  "description": "재채기, 콧물, 코막힘 등 알레르기비염의 한의학적 해석·한약·경혈·현대 임상근거를 연결합니다.",
+  "url": "https://wiki.minseong.co.kr/conditions/allergic-rhinitis/",
+  "inLanguage": "ko-KR",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "민성 한의학 아카이브",
+    "url": "https://wiki.minseong.co.kr/"
+  },
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "알레르기비염"
+  },
+  "keywords": "알레르기비염, 재채기, 콧물, 코막힘, 소청룡탕, 합곡 LI4, 침 치료",
+  "dateModified": "2026-08-23"
+}
+</script>
+<!-- MS132_STRUCTURED_DATA_END -->
+

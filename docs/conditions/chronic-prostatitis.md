@@ -53,13 +53,6 @@ last_reviewed: 2026-08-21
 만성전립선염 · 전립선염 한약 · 회음부가 묵직해요 · 오래 앉으면 회음부가 아파요 · 소변 보고 불편해요 · 만성골반통 한의원
 
 
-
-## 관련 본초·방제·경혈·근거
-
-- **관련 임상근거**: [CP/CPPS 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/chronic-prostatitis-cpps/) · [최신 CP/CPPS 근거 확장](https://wiki.minseong.co.kr/authority/conditions/chronic-prostatitis-cpps-update/)
-- **관련 한약근거**: [CP/CPPS 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/cpps-herbal-evidence-map/) · [비뇨생식 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/urologic-herbal-evidence-map-110/)
-- **관련 경혈**: [중극 CV3](https://wiki.minseong.co.kr/acupuncture/points/cv3/) · [삼음교 SP6](https://wiki.minseong.co.kr/acupoint-network/sp6/) · [WHO 표준 361경혈 아틀라스](https://wiki.minseong.co.kr/acupoint-network/standard-atlas/)
-
 <!-- MS59_CPPS_START -->
 ## 만성전립선염·만성골반통증후군 침 치료 근거
 
@@ -72,3 +65,28 @@ CP/CPPS는 통증·배뇨·삶의 질을 함께 보는 대표적인 남성 골�
 
 CP/CPPS에서는 감염성 전립선염과 구분하고 **골반통·배뇨증상·성기능·근육 긴장·삶의 질**을 함께 평가합니다.
 <!-- MS59_CPPS_END -->
+
+<!-- MS132_STRUCTURED_DATA_START -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "만성전립선염·만성골반통증후군",
+  "description": "CP/CPPS의 골반통·배뇨·삶의 질과 한약·침구치료·현대 임상근거를 연결합니다.",
+  "url": "https://wiki.minseong.co.kr/conditions/chronic-prostatitis/",
+  "inLanguage": "ko-KR",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "민성 한의학 아카이브",
+    "url": "https://wiki.minseong.co.kr/"
+  },
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "만성전립선염·만성골반통증후군"
+  },
+  "keywords": "만성전립선염, CP/CPPS, 만성골반통증후군, NIH-CPSI, 중극 CV3, 삼음교 SP6",
+  "dateModified": "2026-08-23"
+}
+</script>
+<!-- MS132_STRUCTURED_DATA_END -->
+

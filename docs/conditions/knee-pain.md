@@ -20,13 +20,30 @@ tags: [무릎통증, 슬통]
 ## 치료·현대 연구
 침 치료와 독활기생탕 등은 무릎 골관절염을 포함한 근골격 영역에서 임상 연구가 축적되어 있습니다.
 
-
-## 관련 본초·방제·경혈·근거
-
-- **관련 방제**: [독활기생탕](https://wiki.minseong.co.kr/authority/duhuo-jisheng-tang/) · [무릎 골관절염 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/knee-osteoarthritis-herbal-map/)
-- **관련 본초**: [두충](https://wiki.minseong.co.kr/herbs/eucommia/) · [우슬](https://wiki.minseong.co.kr/herbs/achyranthes/) · [독활](https://wiki.minseong.co.kr/herbs/angelica-pubescens/)
-- **관련 경혈**: [족삼리 ST36](https://wiki.minseong.co.kr/acupoint-network/st36/) · [WHO 표준 361경혈 아틀라스](https://wiki.minseong.co.kr/acupoint-network/standard-atlas/)
-- **현대 임상근거**: [무릎 골관절염 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/knee-osteoarthritis/) · [침·뜸 근거](https://wiki.minseong.co.kr/authority/conditions/knee-osteoarthritis-acupuncture-moxibustion/)
-
 ## 관련 핵심 문서
 [무릎·하지 임상 연결](../clinical-core/pathways/knee-leg-pain.md) · [현대 임상근거](../pillar/clinical-evidence.md)
+
+<!-- MS132_STRUCTURED_DATA_START -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "무릎통증",
+  "description": "무릎통증과 무릎 골관절염의 감별·한약·경혈·침구치료·현대 임상근거를 연결합니다.",
+  "url": "https://wiki.minseong.co.kr/conditions/knee-pain/",
+  "inLanguage": "ko-KR",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "민성 한의학 아카이브",
+    "url": "https://wiki.minseong.co.kr/"
+  },
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "무릎통증"
+  },
+  "keywords": "무릎통증, 무릎 골관절염, 독활기생탕, 족삼리 ST36, WOMAC, 침 치료",
+  "dateModified": "2026-08-23"
+}
+</script>
+<!-- MS132_STRUCTURED_DATA_END -->
+

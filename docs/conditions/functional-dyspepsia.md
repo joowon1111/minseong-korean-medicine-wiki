@@ -53,10 +53,27 @@ last_reviewed: 2026-08-21
 
 기능성소화불량 · 위내시경은 정상인데 소화가 안돼요 · 먹으면 더부룩해요 · 조금만 먹어도 배불러요 · 명치가 답답해요 · 기능성소화불량 한약
 
-## 관련 본초·방제·경혈·근거
-
-- **관련 방제**: [육군자탕](https://wiki.minseong.co.kr/authority/formulas/rikkunshito-evidence/) · [반하사심탕](https://wiki.minseong.co.kr/authority/formulas/banxia-xiexin-tang/)
-- **관련 본초**: [반하](https://wiki.minseong.co.kr/herbs/pinellia/) · [진피](https://wiki.minseong.co.kr/herbs/citrus-peel/) · [인삼](https://wiki.minseong.co.kr/authority/herbs/ginseng/) · [백출](https://wiki.minseong.co.kr/herbs/atractylodes/)
-- **관련 경혈**: [족삼리 ST36](https://wiki.minseong.co.kr/acupoint-network/st36/) · [내관 PC6](https://wiki.minseong.co.kr/acupoint-network/pc6/) · [중완 CV12](https://wiki.minseong.co.kr/acupuncture/points/cv12-zhongwan/)
-- **현대 임상근거**: [기능성소화불량 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/functional-dyspepsia/) · [소화기 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/functional-dyspepsia-herbal-map/)
+<!-- MS132_STRUCTURED_DATA_START -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "기능성소화불량",
+  "description": "식후 더부룩함, 조기포만, 명치 불편감과 관련된 기능성소화불량의 감별·한의학적 해석·치료·현대 임상근거를 연결합니다.",
+  "url": "https://wiki.minseong.co.kr/conditions/functional-dyspepsia/",
+  "inLanguage": "ko-KR",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "민성 한의학 아카이브",
+    "url": "https://wiki.minseong.co.kr/"
+  },
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "기능성소화불량"
+  },
+  "keywords": "기능성소화불량, 식후 더부룩함, 조기포만, 육군자탕, 반하사심탕, 족삼리 ST36, 내관 PC6",
+  "dateModified": "2026-08-23"
+}
+</script>
+<!-- MS132_STRUCTURED_DATA_END -->
 

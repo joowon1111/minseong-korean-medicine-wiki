@@ -20,14 +20,6 @@ tags: [불면, 수면]
 ## 치료·현대 연구
 연구에서는 수면척도뿐 아니라 입면시간·야간각성·수면효율·낮 기능과 피로를 함께 평가합니다.
 
-
-## 관련 본초·방제·경혈·근거
-
-- **관련 방제**: [산조인탕](https://wiki.minseong.co.kr/authority/formulas/suanzaoren-tang/) · [귀비탕](https://wiki.minseong.co.kr/authority/formulas/guipi-tang-evidence/) · [천왕보심단](https://wiki.minseong.co.kr/authority/formulas/cheonwangbosimdan/)
-- **관련 본초**: [산조인](https://wiki.minseong.co.kr/authority/herbs/ziziphus-seed/) · [원지](https://wiki.minseong.co.kr/herbs/polygala/) · [맥문동](https://wiki.minseong.co.kr/authority/herbs/ophiopogon/)
-- **관련 경혈**: [신문 HT7](https://wiki.minseong.co.kr/acupoint-network/ht7/) · [내관 PC6](https://wiki.minseong.co.kr/acupoint-network/pc6/) · [삼음교 SP6](https://wiki.minseong.co.kr/acupoint-network/sp6/)
-- **현대 임상근거**: [불면 현대 근거 카드](https://wiki.minseong.co.kr/authority/conditions/insomnia/) · [불면 한약 근거지도](https://wiki.minseong.co.kr/authority/formulas/insomnia-herbal-formula-map/)
-
 ## 관련 핵심 문서
 [불면 임상 지식망](https://wiki.minseong.co.kr/network/insomnia-map/) · [수면·신경계 허브](https://wiki.minseong.co.kr/pillar/sleep-neuro/)
 
@@ -47,3 +39,28 @@ tags: [불면, 수면]
 - 2026 primary insomnia network meta-analysis는 80개 연구·7,791명을 포함해 일반침·복침·전침 등 다양한 치료를 비교했습니다. 일부 outcome에서 침 치료가 conventional medication 또는 sham보다 유리했지만 출판편향·프로토콜 이질성·장기추적 부족을 지적했습니다. PMID `41853182`.
 
 불면에서는 주관적 수면척도(PSQI·ISI)와 객관적 수면지표를 구분하고, 수면위생·인지행동치료·기저 정신건강 및 신체질환 평가와 함께 봅니다.
+
+<!-- MS132_STRUCTURED_DATA_START -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "불면·수면저하",
+  "description": "입면장애, 중간각성, 조기각성 등 불면 증상의 감별과 한약·침구·현대 임상근거를 연결합니다.",
+  "url": "https://wiki.minseong.co.kr/conditions/insomnia/",
+  "inLanguage": "ko-KR",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "민성 한의학 아카이브",
+    "url": "https://wiki.minseong.co.kr/"
+  },
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "불면·수면저하"
+  },
+  "keywords": "불면, 수면장애, 산조인탕, 귀비탕, 천왕보심단, 신문 HT7, 내관 PC6",
+  "dateModified": "2026-08-23"
+}
+</script>
+<!-- MS132_STRUCTURED_DATA_END -->
+
