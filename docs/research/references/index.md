@@ -1,50 +1,212 @@
 ---
 title: 참고문헌 데이터베이스
-description: 민성 한의학 아카이브에서 인용한 주요 RCT·메타분석·기전연구를 PMID·DOI 중심으로 정리합니다.
-tags: [참고문헌, PMID, DOI, 현대연구]
-status: 검토완료
-last_reviewed: 2026-08-19
+description: 민성 한의학 아카이브에서 반복적으로 활용되는 현대 임상연구를 질환·본초·방제·침구치료·연구유형·PMID·DOI 기준으로 연결한 참고문헌 핵심 인덱스입니다.
+tags:
+- 참고문헌
+- 현대연구
+- PMID
+- DOI
+- 임상근거
+last_reviewed: '2026-08-23'
 ---
 
 # 참고문헌 데이터베이스
 
-이 페이지는 아카이브 안에서 반복적으로 활용되는 주요 연구를 **연구유형·주제·처방/치료·PMID·DOI** 기준으로 모아둔 인덱스다.
+이 페이지는 민성 한의학 아카이브에서 반복적으로 활용되는 주요 연구를 **질환·본초·방제·침구치료·연구유형·PMID·DOI** 기준으로 연결하는 핵심 참고문헌 인덱스입니다.
 
-| 연도 | 연구유형 | 주제 | 처방·치료 | PMID | DOI | 아카이브 |
-|---|---|---|---|---|---|---|
-| 2025 | RCT | 요통 | 침 | `40938602` | — | [연결 문서](../../conditions/low-back-pain.md) |
-| 2023 | Systematic review / Meta-analysis | 요통 | 침 | `36585839` | `10.1142/S0192415X23500131` | [연결 문서](../../conditions/low-back-pain.md) |
-| 2024 | Systematic review / Meta-analysis | 무릎 골관절염 | 침·전침 | `39486882` | `10.1136/bmjebm-2023-112626` | [연결 문서](../../conditions/knee-pain.md) |
-| 2024 | Systematic review / Meta-analysis | 무릎 골관절염 | 침 | `38635021` | `10.1007/s11916-024-01242-6` | [연결 문서](../../conditions/knee-pain.md) |
-| 2024 | Systematic review / Meta-analysis | 불면 | 침 | `38232645` | `10.1016/j.smrv.2023.101892` | [연결 문서](../../conditions/insomnia.md) |
-| 2024 | Systematic review / Meta-analysis | 불면 | 전침 | `38871592` | `10.1016/j.joim.2024.05.005` | [연결 문서](../../conditions/insomnia.md) |
-| 2024 | Systematic review / Meta-analysis | 알레르기비염 | 침 | `39017391` | `10.1002/alr.23414` | [연결 문서](../../conditions/rhinitis.md) |
-| 2024 | Systematic review / Meta-analysis | 기능성 소화불량 | 침 | `38761869` | `10.1016/j.ctim.2024.103051` | [연결 문서](../../conditions/dyspepsia.md) |
-| 2023 | RCT | 만성 요통 | 약침 | `37554434` | — | [연결 문서](../../treatments/pharmacopuncture.md) |
-| 2021 | RCT | 만성 경항통 | 약침 | `35011752` | — | [연결 문서](../../treatments/pharmacopuncture.md) |
-| 2020 | RCT | 만성 요통 | 전침 | `33107921` | — | [연결 문서](../../treatments/electroacupuncture.md) |
-| 2024 | Systematic review / Meta-analysis | 요통 | 부항 | `38184285` | — | [연결 문서](../../treatments/cupping.md) |
-| 2024 | RCT | 만성피로 | 공진단 | `39669697` | `10.1016/j.imr.2024.101025` | [연결 문서](../../formulas/gongjin-dan.md) |
-| 2018 | RCT | 급성피로 | 공진단 | `29867485` | — | [연결 문서](../../formulas/gongjin-dan.md) |
-| 2024 | Systematic review / Meta-analysis | 암 관련 피로 | 십전대보탕 | `39368761` | — | [연결 문서](../../formulas/shi-quan-da-bu-tang.md) |
-| 2017 | RCT | 암 관련 식욕저하 | 십전대보탕 | `29441116` | `10.1155/2017/8780325` | [연결 문서](../../formulas/shi-quan-da-bu-tang.md) |
-| 2024 | Systematic review / Meta-analysis | 바이러스성 심근염 | 생맥산 | `39742019` | `10.1155/2024/2127018` | [연결 문서](../../formulas/shengmai-san.md) |
-| 2020 | Systematic review / Meta-analysis | 만성 심부전 | 생맥 기반 치료 | `32655670` | `10.1155/2020/9571627` | [연결 문서](../../formulas/shengmai-san.md) |
-| 2021 | Systematic review / Meta-analysis | 기능성 소화불량 | 육군자탕 | `32767596` | — | [연결 문서](../../formulas/liujunzi-tang.md) |
-| 2012 | Systematic review / Meta-analysis | 불면 | 귀비탕 포함 한약처방 | `22440393` | — | [연결 문서](../../formulas/guibi-tang.md) |
-| 2016 | Systematic review / Meta-analysis | 안정기 COPD | 보중익기탕 | `27912964` | — | [연결 문서](../../formulas/buzhong-yiqi-tang.md) |
-| 2018 | Systematic review / Meta-analysis | 기능성 변비 | 가미 보중익기탕 | `29552087` | — | [연결 문서](../../formulas/buzhong-yiqi-tang.md) |
-| 2023 | Systematic review / Meta-analysis | 류마티스관절염 | 독활기생탕 | `37933004` | — | [연결 문서](../../formulas/duhuo-jisheng-tang.md) |
-| 2020 | Systematic review / Meta-analysis | 요추 추간판질환 | 독활기생탕 | `32118755` | — | [연결 문서](../../formulas/duhuo-jisheng-tang.md) |
-| 2026 | Mechanism / Review | 녹용 | 녹용 | `42046775` | `10.1155/ijfo/3848349` | [연결 문서](../../herbs/cervi-parvum-cornu.md) |
-| 2020 | Mechanism / Review | 인삼·피로 | 인삼 | `32765262` | — | [연결 문서](../../herbs/ginseng.md) |
-| 2023 | Mechanism / Review | 황기 | 황기 | `37680711` | `10.3389/fphar.2023.1242318` | [연결 문서](../../herbs/astragalus.md) |
-| 2026 | Mechanism / Review | 당귀 | 당귀 | `42366516` | `10.1142/S0192415X2650045X` | [연결 문서](../../herbs/angelica.md) |
+최근 아카이브가 크게 확장되면서 참고문헌도 단순한 논문 목록보다 다음 관계로 읽는 것이 중요해졌습니다.
 
-## 활용 방법
-- PMID로 PubMed에서 원문 정보를 빠르게 확인할 수 있다.
-- DOI로 학술지의 공식 논문 페이지를 추적할 수 있다.
-- `아카이브` 링크를 누르면 해당 연구가 실제로 어떤 본초·방제·질환 문서에 사용되었는지 확인할 수 있다.
+`질환·증상 → 치료법·처방·본초 → RCT·systematic review·meta-analysis → 실제 임상 outcome → PMID·DOI → 아카이브 연결 문서`
+
+> 아래는 아카이브 전체 연구의 완전한 목록이 아니라, 여러 문서에서 반복적으로 활용하거나 지식망의 기준점이 되는 대표 연구를 우선 정리한 인덱스입니다.
+
+## 질환별 현대 임상근거
+
+| 연도 | 연구유형 | 주제 | 치료 | 규모 | PMID |
+|---|---|---|---|---:|---|
+| 2018 | IPD meta-analysis | 만성통증 | 침 | 39 RCT·20,827명 | `29198932` |
+| 2024 | Network meta-analysis | 무릎 골관절염 | 침·전침 | 80 RCT·9,933명 | `39486882` |
+| 2025 | Meta-analysis | PCOS 배란 | 침·한약 병용 포함 | 43 RCT·4,827명 | `40951420` |
+| 2026 | Network meta-analysis | CP/CPPS | 침·전침·온침 등 | 45 RCT·3,534명 | `42294361` |
+| 2025 | Meta-analysis | 발목 불안정성 | 침 관련 치료 | 12 trials·571명 | `37666474` |
+| 2024 | Meta-analysis | 회전근개질환 | 침 | 13 RCT·1,371명 | `38463603` |
+| 2024 | Network meta-analysis | 경추 신경근병증 | 침 관련 치료 | 28 RCT·2,593명 | `38912448` |
+| 2024 | Meta-analysis | 임신 중 오심·구토 | 침+일반치료 | 24 RCT·2,390명 | `39214380` |
+| 2026 | Meta-analysis | CINV | 침 | 49 RCT·4,133명 | `42490841` |
+| 2026 | Meta-analysis | 발기부전 | 침 | 21 RCT | `42364146` |
+
+→ [질환별 현대 근거 카드](/authority/conditions/)
+
+## 한약·방제 임상근거
+
+### 소화기
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 반하사심탕 · 기능성소화불량 | Systematic review/meta-analysis | 57 RCT·5,525명 | `37274096` |
+| 육군자탕 · 기능성소화불량 | Systematic review/meta-analysis | 52 RCT·5,475명 | `32767596` |
+| 통사요방 · IBS-D | Meta-analysis | 11 RCT·985명 | `36091782` |
+| 기능성 변비 한약 전체 | Meta-analysis | 97개 연구·8,693명 | `35801027` |
+| 보중익기탕 · 기능성 변비 | Meta-analysis | 25 RCT·2,089명 | `29552087` |
+
+### 수면·정서
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 불면 한약 network | Network meta-analysis | 186 RCT | `40826721` |
+| 산조인탕 · 불면 | Meta-analysis | 12 RCT·1,311명 | `36459033` |
+| 천왕보심단 · 원발성 불면 | 임상연구 | 56명 | `33919176` |
+| 우울 한약 network | Network meta-analysis | 198 RCT·8,923명 | `38633609` |
+| 소요산 · 우울 | Systematic review | 26 RCT·1,837명 | `21869903` |
+| 소요산 · 불안 | Meta-analysis+TSA | 14 trials·1,256명 | `37905203` |
+
+### 여성·생식
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 온경탕 · 월경통 | Meta-analysis | 18개 연구·1,736명 | `28791471` |
+| 침+온경탕 · 월경통 | Meta-analysis | 11 RCT·1,024명 | `40988743` |
+| 당귀작약산 · 월경통 | Systematic review/meta-analysis | RCT 종합 | `26857875` |
+| 정곤단 · 갱년기 | Systematic review/meta-analysis | RCT 종합 | `41143285` |
+
+### 호흡기·비염
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 소청룡탕 · 알레르기비염 | Meta-analysis | 24 RCT | `35257842` |
+| 보중익기탕 · 안정기 COPD | Meta-analysis | 16개 연구·1,400명 | `27912964` |
+| 위경탕 · 천식 | Meta-analysis | 14개 연구·1,200명 | `39889171` |
+| AECOPD 한약 network | Network meta-analysis | 132 RCT·13,177명 | `41625332` |
+| 만성기침 한약 | Meta-analysis | 80 RCT·7,573명 | `37920213` |
+
+### 근골격·통증
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 독활기생탕 · 무릎 골관절염 | Systematic review | 12개 연구·982명 | `26729379` |
+| 무릎 골관절염 한약 전체 | Meta-analysis | 56 RCT·5,350명 | `35035664` |
+| 편두통 경구 한약 | Meta-analysis | 18 RCT·3,015명 | `35873759` |
+| 천궁 함유 편두통 처방 | Meta-analysis | 19 RCT·1,832명 | `30013473` |
+| 경추 신경근병증 한약 | Meta-analysis+TSA | 14개 연구·1,576명 | `41743910` |
+| 작약감초탕 · 근육경련 | RCT/systematic review | 임상시험 종합 | `40204247` |
+
+### 피로·보익
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 만성피로 한약 전체 | Meta-analysis | 84 RCT·6,944명 | `36249791` |
+| 인삼 함유 처방 · 피로 | Meta-analysis | 19 RCT·2,413명 | `36730693` |
+| 사군자탕 · 만성피로 | 다기관 이중맹검 위약대조 RCT | — | `38640860` |
+| 공진단 · 만성피로 | RCT | — | `39669697` |
+
+### 대사·신장·심혈관
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 당뇨·대사 한약 | Meta-analysis | 122 RCT·11,252명 | `41552833` |
+| 당뇨병성 말초신경병증 한약 | Meta-analysis | 72 RCT·6,260명 | `36007447` |
+| 육미지황환 · 초기 DKD | Meta-analysis | 11 RCT·1,007명 | `42051693` |
+| 승강산 계열 · DKD | Meta-analysis | 23 RCT·1,682명 | `39109075` |
+| 골다공증 한약 | Meta-analysis | 18 RCT·1,816명 | `40786085` |
+| 이선탕 · 폐경 후 골다공증 | Updated meta-analysis | 13 RCT·1,269명 | `42155162` |
+| 천마구등음 · 고혈압 | Meta-analysis+TSA | 15 RCT·1,508명 | `33787150` |
+| 혈부축어탕 · 고혈압 | Meta-analysis | 37개 연구·3,391명 | `40489881` |
+
+### 비뇨생식
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| BPH 경구 중성약 network | Network meta-analysis | 72 RCT·7,800명 | `39802886` |
+| 전열서통캡슐 · BPH | Meta-analysis | 18 RCT·1,802명 | `32233238` |
+| CP/CPPS | Cochrane review | 99개 연구·9,119명 | `31899937` |
+| 발기부전 한약 | Meta-analysis+TSA | 45 trials·5,016명 | `36848898` |
+| 한약+tadalafil · 발기부전 | Meta-analysis | 11개 연구·903명 | `31464074` |
+
+### 신경·뇌졸중
+
+| 처방/영역 | 대표 근거 | 규모 | PMID |
+|---|---|---:|---|
+| 뇌졸중 후 우울 한약 | Meta-analysis | 18 RCT·1,367명 | `33429802` |
+| 보양환오탕 · 뇌졸중 후 우울 | Meta-analysis | 15 RCT | `36408491` |
+| 시호가용골모려탕 · 뇌졸중 후 우울 | Meta-analysis | 13 RCT·1,665명 | `34457030` |
+| 뇌졸중 후 인지장애 TCM | Meta-analysis | 34개 연구 | `35237166` |
+
+→ [한약 처방 임상근거](/research/formulas/)  
+→ [대표 본초·방제 근거 카드](/authority/)
+
+## 대표 본초 연구
+
+| 연도 | 연구유형 | 본초·주제 | PMID | DOI |
+|---|---|---|---|---|
+| 2026 | 종합 review | 녹용 | `42046775` | `10.1155/ijfo/3848349` |
+| 2020 | Review | 인삼·피로 | `32765262` | — |
+| 2023 | Review | 황기 | `37680711` | `10.3389/fphar.2023.1242318` |
+| 2026 | Review | 당귀 | `42366516` | `10.1142/S0192415X2650045X` |
+
+→ [대표 본초 근거 카드](/authority/herbs/)
+
+## 침구·치료 대표 연구
+
+| 연도 | 연구유형 | 주제 | 치료 | PMID |
+|---|---|---|---|---|
+| 2007 | Multicenter RCT | 만성 요통 | 침 | `17893311` |
+| 2009 | RCT | 만성 요통 | 침 | `19433697` |
+| 2018 | IPD meta-analysis | 만성통증 | 침 | `29198932` |
+| 2024 | Umbrella review | 요통 | 침 | `38790086` |
+| 2024 | Network meta-analysis | 무릎 골관절염 | 침·전침 | `39486882` |
+| 2024 | Meta-analysis | 알레르기비염 | 침 | `39017391` |
+| 2024 | Meta-analysis | 기능성소화불량 | 침 | `38761869` |
+| 2023 | RCT | 만성 요통 | 약침 | `37554434` |
+| 2021 | RCT | 만성 경항통 | 약침 | `35011752` |
+
+→ [침 치료 근거 카드](/authority/acupuncture/)  
+→ [질환별 현대 근거 카드](/authority/conditions/)
+
+## 연구를 찾는 빠른 방법
+
+### 질환명으로 찾기
+`요통`, `불면`, `기능성소화불량`, `PCOS`, `CP/CPPS`, `비염`처럼 질환명을 사이트 검색창에 입력합니다.
+
+### 처방명으로 찾기
+`육군자탕`, `반하사심탕`, `산조인탕`, `독활기생탕`, `육미지황환`처럼 처방명을 검색하면 관련 방제·질환·임상근거 문서가 연결됩니다.
+
+### PMID로 찾기
+PMID는 PubMed의 고유 식별자입니다. 사이트 검색 또는 PubMed에서 PMID를 검색하면 해당 논문을 빠르게 추적할 수 있습니다.
+
+### DOI로 찾기
+DOI가 기록된 연구는 학술지의 공식 논문 페이지를 추적하는 데 활용할 수 있습니다.
+
+## 참고문헌을 임상적으로 읽는 방법
+
+논문이 있다는 사실만으로 임상적 의미가 결정되지는 않습니다. 다음을 함께 확인합니다.
+
+1. 연구유형 — RCT인지 systematic review/meta-analysis인지
+2. 대상자 수와 연구 수
+3. 비교군
+4. 실제 개선된 outcome
+5. 치료기간과 추적기간
+6. 질환과 변증·치료법의 관계
+7. PMID·DOI 등 원문 식별자
+
+→ [근거 가이드](/evidence-guide/)
+
+## 아카이브의 근거 연결 구조
+
+`환자 검색어 → 증상 → 질환 → 변증 → 치료법·처방·본초 → 현대 임상연구 → PMID·DOI`
+
+따라서 참고문헌 데이터베이스는 독립된 논문 목록이라기보다 **질환별 현대 근거 카드, 본초·방제 근거 카드, 침구치료 근거와 서로 연결되는 출처 허브**로 사용합니다.
+
+## 관련 핵심 문서
+
+- [질환별 현대 근거 카드](/authority/conditions/)
+- [대표 본초·방제 근거 카드](/authority/)
+- [한약 처방 임상근거](/research/formulas/)
+- [근거 가이드](/evidence-guide/)
+- [AI 검색 구조](/ai-index/)
+- [증상·질환](/conditions/)
 
 ## 편집 원칙
-새 논문을 추가할 때는 가능하면 **연구유형, 대상자 수, 비교군, 주요 결과, PMID/DOI**를 함께 기록한다.
+
+새 논문을 추가할 때는 가능한 범위에서 **연구유형, 연구 수·대상자 수, 비교군, 주요 outcome, PMID·DOI, 연결되는 질환·본초·방제·치료 문서**를 함께 기록합니다.
+
+아카이브에 반복적으로 활용되는 고영향력 연구와 대규모 systematic review/meta-analysis는 이 페이지에도 지속적으로 추가합니다.
