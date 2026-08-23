@@ -21,7 +21,7 @@ tags: [불면, 수면]
 연구에서는 수면척도뿐 아니라 입면시간·야간각성·수면효율·낮 기능과 피로를 함께 평가합니다.
 
 ## 관련 핵심 문서
-[불면 임상 연결](../clinical-core/pathways/insomnia.md) · [안신·불면 처방](../network/formula-families.md#안신불면-처방군)
+[불면 임상 지식망](https://wiki.minseong.co.kr/network/insomnia-map/) · [수면·신경계 허브](https://wiki.minseong.co.kr/pillar/sleep-neuro/)
 
 ## 한약치료 최신 종합근거
 
@@ -29,7 +29,7 @@ tags: [불면, 수면]
 
 이 결과는 특정 처방을 모든 불면에 적용한다는 의미가 아니라, 심비양허·담음·음혈부족·간울 등 변증과 연구에 사용된 처방을 맞춰 읽는 근거로 활용합니다.
 
-→ [불면 처방 계열](../network/formula-families.md#안신불면-처방군)  
+→ [불면 한약 임상근거 참고문헌](https://wiki.minseong.co.kr/research/references/)
 → [고영향력 임상연구 참고문헌](/research/references/)
 
 ## 만성·원발성 불면 침 치료 최신 근거
