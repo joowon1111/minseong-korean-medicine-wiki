@@ -21,7 +21,7 @@ tags: [요통, 허리통증]
 침·전침·약침·부항·뜸과 한약을 기능상태에 맞춰 조합합니다. 연구에서는 통증뿐 아니라 기능과 삶의 질을 함께 평가합니다.
 
 ## 관련 핵심 문서
-[요통 임상 연결](../clinical-core/pathways/low-back-pain.md) · [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
+[요통 임상 연결](/clinical-core/pathways/low-back-pain/) · [통증·근골격 허브](/pillar/pain-musculoskeletal/)
 
 <!-- MS52_LBP_START -->
 ## Landmark + 최신 종합근거
