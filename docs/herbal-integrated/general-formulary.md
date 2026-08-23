@@ -1,4 +1,4 @@
-﻿---
+---
 title: 일반 방제 임상 지도
 tags: [방제학, 일반방제, 임상지도, 처방감별]
 status: 검토완료
@@ -80,7 +80,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 |---|---|
 | 음허화왕·허열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | 기음부족 + 심화·소변 문제 | [청심연자음](../formulas/qingxin-lianzi-yin.md) |
-| 신음허 | [육미지황환](../formulas/liu wei dihuang wan.md) |
+| 신음허 | [육미지황환](<../formulas/liu wei dihuang wan.md>) |
 | 신양허 | [팔미지황환](../formulas/bawei-dihuang-wan.md) |
 
 ## 습·수분대사

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 무릎 골관절염 — 현대 임상근거 카드
 description: 무릎 골관절염에서 침 치료의 지속 효과 systematic review·meta-analysis와 통증·비증 지식망을 연결합니다.
 tags: [질환, 임상근거, 침, meta-analysis, PMID]
@@ -47,5 +47,5 @@ last_reviewed: 2026-08-19
 
 무릎 골관절염에서는 **통증 + WOMAC/기능 + 치료 후 지속성**을 함께 보는 것이 중요합니다.
 
-→ [고영향력 임상연구 참고문헌](../research/references.md)
+→ [고영향력 임상연구 참고문헌](/research/references/)
 <!-- MS52_KNEE_END -->

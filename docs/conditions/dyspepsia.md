@@ -21,4 +21,4 @@ tags: [소화불량, 더부룩함]
 기능성 소화불량 연구에서는 식후포만·조기포만·통증·삶의 질과 위장운동 관련 지표를 함께 평가합니다.
 
 ## 관련 핵심 문서
-[소화불량 임상 연결](../clinical-core/pathways/dyspepsia.md) · [비위·담음 처방](../formula-architecture/spleen-phlegm-family.md)
+[소화불량 임상 연결](/network/dyspepsia-map/) · [비위·담음 처방](../formula-architecture/spleen-phlegm-family.md)

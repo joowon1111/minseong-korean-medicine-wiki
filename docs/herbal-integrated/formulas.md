@@ -1,4 +1,4 @@
-﻿---
+---
 title: 방제 찾기
 tags: [방제학, 일반방제, 처방탐색, 통합허브]
 status: 검토완료
@@ -84,7 +84,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [쌍화탕](../formulas/ssanghwa-tang.md) — 노권·기혈구상
 - [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허·허손
 - [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 보기생혈
-- [육미지황환](../formulas/liu wei dihuang wan.md) — 신음허
+- [육미지황환](<../formulas/liu wei dihuang wan.md>) — 신음허
 - [팔미지황환](../formulas/bawei-dihuang-wan.md) — 신양허
 - [자음강화탕](../formulas/ziyin-jianghuo-tang.md) — 음허화왕
 - [옥병풍산](../formulas/yupingfeng-san.md) — 표허·위외불고

@@ -11,7 +11,7 @@ last_reviewed: 2026-08-22
 
 ## 환자 질문에서 시작
 
-- [소화불량 임상 연결 지도](../clinical-core/pathways/dyspepsia.md)
+- [소화불량 임상 연결 지도](/network/dyspepsia-map/)
 - [더부룩함·가스](../answer-guides/bloating-gas-guide.md)
 - [조금만 먹어도 금방 배부름](../answer-guides/early-satiety-guide.md)
 - [스트레스성 소화불량](../answer-guides/stress-digestion-guide.md)

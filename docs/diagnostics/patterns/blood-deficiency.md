@@ -1,4 +1,4 @@
-﻿---
+---
 title: 혈허(血虛) 임상 연결 지도
 description: 혈허(血虛) 임상 연결 지도의 주요 증상, 설·맥 참고점, 본초·방제·경혈, 환자 질문과 현대 연구를 연결합니다.
 tags: [변증, 임상한의학, 본초, 방제, 경혈]
@@ -24,7 +24,7 @@ tags: [변증, 임상한의학, 본초, 방제, 경혈]
 - [당귀](../../herbs/angelica.md)
 - [백작약](../../herbs/white-peony.md)
 - [숙지황](../../herbs/rehmannia-preparata.md)
-- [천궁](../../herbs/ligusticum.md)
+- [천궁](/herbs/chuanxiong/)
 
 ## 방제
 - [사물탕](../../formulas/siwu-tang.md)

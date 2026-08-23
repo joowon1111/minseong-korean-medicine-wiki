@@ -27,7 +27,7 @@ last_reviewed: 2026-08-22
 
 [기혈양허](../../diagnostics/patterns/qi-blood-deficiency.md) · [담음](../../diagnostics/patterns/phlegm-fluid.md) · [간울](../../diagnostics/patterns/liver-qi-stagnation.md)
 
-→ [불면 임상 연결](../../clinical-core/pathways/insomnia.md)
+→ [불면 임상 연결](/network/insomnia-map/)
 
 ## 경혈 연결
 

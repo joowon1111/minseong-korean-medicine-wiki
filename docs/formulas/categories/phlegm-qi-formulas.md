@@ -27,4 +27,4 @@ last_reviewed: 2026-08-22
 ## 감별
 
 → [담음 vs 식적](../../diagnostics/differentials/phlegm-vs-food-stagnation.md)  
-→ [소화불량 임상 연결](../../clinical-core/pathways/dyspepsia.md)
+→ [소화불량 임상 연결](/network/dyspepsia-map/)

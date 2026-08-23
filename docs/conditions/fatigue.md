@@ -21,4 +21,4 @@ tags: [만성피로, 피로]
 피로척도 외 활동능력·수면·정신사회적 기능·삶의 질을 함께 평가하며 일부 보익 처방은 위약대조 임상연구까지 확장되어 있습니다.
 
 ## 관련 핵심 문서
-[피로·회복](../clinical-core/pathways/fatigue-recovery.md) · [보익·회복 처방](../formula-architecture/tonic-family.md)
+[피로·회복](/network/fatigue-map/) · [보익·회복 처방](../formula-architecture/tonic-family.md)

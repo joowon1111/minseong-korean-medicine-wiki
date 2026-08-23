@@ -41,5 +41,5 @@ last_reviewed: 2026-08-22
 
 여성 생리증상, 병후 회복, 어지럼, 수면저하, 타박·근골격 통증에서 혈허와 어혈의 비중을 구분합니다.
 
-→ [여성 임상 연결](../../clinical-core/pathways/women-cold-blood.md)  
+→ [여성 임상 연결](/herbal-integrated/formula-for-women/)  
 → [어혈성 통증 vs 한습성 통증](../../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)

@@ -24,7 +24,7 @@ last_reviewed: 2026-08-22
 ## 감별
 
 → [어혈성 통증 vs 한습성 통증](../../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)  
-→ [요통 임상 연결](../../clinical-core/pathways/low-back-pain.md)
+→ [요통 임상 연결](/network/low-back-pain-map/)
 
 ## 경혈과 함께 보기
 

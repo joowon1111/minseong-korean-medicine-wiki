@@ -21,4 +21,4 @@ tags: [알레르기비염, 비염]
 한약과 침치료 연구에서는 코막힘·재채기·비증상 점수·삶의 질과 안전성을 함께 평가합니다.
 
 ## 관련 핵심 문서
-[비염·기침 임상 연결](../clinical-core/pathways/rhinitis-cough.md) · [경맥→증상 지도](../acupoint-network/by-condition.md)
+[비염·기침 임상 연결](/symptom-integrated/rhinitis-cough/) · [경맥→증상 지도](../acupoint-network/by-condition.md)

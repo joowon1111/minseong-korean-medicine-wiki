@@ -21,4 +21,4 @@ tags: [무릎통증, 슬통]
 침 치료와 독활기생탕 등은 무릎 골관절염을 포함한 근골격 영역에서 임상 연구가 축적되어 있습니다.
 
 ## 관련 핵심 문서
-[무릎·하지 임상 연결](../clinical-core/pathways/knee-leg-pain.md) · [현대 임상근거](../pillar/clinical-evidence.md)
+[무릎·하지 임상 연결](/conditions/knee-pain/) · [현대 임상근거](../pillar/clinical-evidence.md)

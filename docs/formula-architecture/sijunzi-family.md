@@ -24,4 +24,4 @@ tags: [방제구조, 사군자탕, 비위기허]
 인삼·백출·복령 / 반하+진피 / 황기 구조를 비교합니다.  
 족삼리 ST36 · 중완 CV12 · 내관 PC6 · 공손 SP4 · 풍륭 ST40
 
-→ [소화불량 임상 연결](../clinical-core/pathways/dyspepsia.md)
+→ [소화불량 임상 연결](/network/dyspepsia-map/)

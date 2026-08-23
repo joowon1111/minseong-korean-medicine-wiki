@@ -32,4 +32,4 @@ last_reviewed: 2026-08-22
 
 ## 임상 연결
 
-→ [피로·회복 임상 연결](../../clinical-core/pathways/fatigue-recovery.md)
+→ [피로·회복 임상 연결](/network/fatigue-map/)

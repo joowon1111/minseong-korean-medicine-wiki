@@ -9,7 +9,7 @@ description: 황제내경·상한론·금궤요략·동의보감·동의수세�
 ## 주요 고전
 - [황제내경](huangdi-neijing.md) — 장부·경락·병기·침구
 - [상한론](shanghanlun.md) — 육경병·맥증·고방
-- [금궤요략](jingui-yaolue.md) — 잡병·내과·부인과
+- [금궤요략](/classics-network/jingui-yaolue/) — 잡병·내과·부인과
 - [동의보감](donguibogam.md) — 한국 한의학의 종합 임상체계
 - [동의수세보원](../sasang/donguisusebowon.md) — 사상의학
 
