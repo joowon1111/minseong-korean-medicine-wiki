@@ -138,7 +138,6 @@ last_reviewed: '2026-08-24'
 `체질 → 소증 → 표리병증 → 현재 증상 → 대표 처방 → 구성 약재 → 원전 → 현대 연구`
 
 → [사상의학 대표 처방](../sasang-formula-cards/index.md)  
-→ [사상처방 임상 지식망](../sasang-formula-clinical/index.md)
 
 ## 사상의학 원전
 
