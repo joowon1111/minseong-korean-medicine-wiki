@@ -479,6 +479,31 @@ nav:
     - 경부·견갑대 근육·신경: clinical-anatomy/neck-shoulder.md
     - 둔부·고관절 근육·신경: clinical-anatomy/hip-gluteal.md
     - 말초신경 포착부위 지도: clinical-anatomy/peripheral-nerve-map.md
+  - 침의 과학적 접근:
+    - acupuncture-science/index.md
+    - 말초신경과 침 자극: acupuncture-science/peripheral-afferent.md
+    - 침과 통증조절 신경생리: acupuncture-science/pain-modulation.md
+    - 침과 뇌·중추신경계: acupuncture-science/brain-central.md
+    - 침과 자율신경계: acupuncture-science/autonomic.md
+    - 전침의 자극 파라미터: acupuncture-science/electroacupuncture.md
+    - 침 연구·임상근거 읽기: acupuncture-science/evidence-reading.md
+    - 침 치료 안전성과 임상해부학: acupuncture-science/safety.md
+  - 근골격계 초음파·초음파 유도 치료:
+    - musculoskeletal-ultrasound/index.md
+    - 근골격계 초음파 기초: musculoskeletal-ultrasound/ultrasound-basics.md
+    - 조직별 초음파 해부학: musculoskeletal-ultrasound/tissue-anatomy.md
+    - 부위별 근골격 초음파: musculoskeletal-ultrasound/regional-ultrasound.md
+    - 말초신경 초음파: musculoskeletal-ultrasound/peripheral-nerve-ultrasound.md
+    - 신경포착·말초신경 초음파 통합지도: musculoskeletal-ultrasound/nerve-entrapment-integration.md
+    - 정중신경·손목터널 초음파: musculoskeletal-ultrasound/median-nerve-carpal-tunnel.md
+    - 척골신경·주관 초음파: musculoskeletal-ultrasound/ulnar-nerve-cubital-tunnel.md
+    - 요골신경·후골간신경 초음파: musculoskeletal-ultrasound/radial-nerve-ultrasound.md
+    - 총비골신경·비골두 초음파: musculoskeletal-ultrasound/peroneal-nerve-ultrasound.md
+    - 경골신경·족근관 초음파: musculoskeletal-ultrasound/tibial-nerve-ultrasound.md
+    - 경혈·근육·말초신경·초음파 지도: musculoskeletal-ultrasound/acupoint-ultrasound-map.md
+    - 초음파 유도 침·약침·도침: musculoskeletal-ultrasound/ultrasound-guided-treatment.md
+    - 초음파 유도 치료 현대근거: musculoskeletal-ultrasound/evidence.md
+    - 초음파 유도 시술 안전성: musculoskeletal-ultrasound/safety.md
   - 상세 자료실:
     - portal/acupuncture.md
     - 침구학:
