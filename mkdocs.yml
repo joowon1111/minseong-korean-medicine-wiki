@@ -460,6 +460,25 @@ nav:
   - 치료 경과·재평가: acupuncture-integrated/followup.md
   - 안전·위험신호: acupuncture-integrated/safety.md
   - 근거·연구: acupuncture-integrated/evidence.md
+  - 신경포착증후군:
+    - nerve-entrapment/index.md
+    - 손목터널증후군 · 정중신경: nerve-entrapment/carpal-tunnel.md
+    - 척골신경 포착 · 주관증후군: nerve-entrapment/ulnar-entrapment.md
+    - 요골신경 포착: nerve-entrapment/radial-entrapment.md
+    - 원회내근증후군: nerve-entrapment/pronator-syndrome.md
+    - 흉곽출구증후군: nerve-entrapment/thoracic-outlet.md
+    - 심부둔부·좌골신경: nerve-entrapment/deep-gluteal-sciatic.md
+    - 외측대퇴피신경 포착: nerve-entrapment/meralgia-paresthetica.md
+    - 총비골신경 포착: nerve-entrapment/common-peroneal-entrapment.md
+    - 족근관증후군 · 경골신경: nerve-entrapment/tarsal-tunnel.md
+  - 근육·말초신경 임상해부학:
+    - clinical-anatomy/index.md
+    - Dermatome·Myotome 임상지도: clinical-anatomy/dermatome-myotome.md
+    - 상지 말초신경·근육: clinical-anatomy/upper-limb.md
+    - 하지 말초신경·근육: clinical-anatomy/lower-limb.md
+    - 경부·견갑대 근육·신경: clinical-anatomy/neck-shoulder.md
+    - 둔부·고관절 근육·신경: clinical-anatomy/hip-gluteal.md
+    - 말초신경 포착부위 지도: clinical-anatomy/peripheral-nerve-map.md
   - 상세 자료실:
     - portal/acupuncture.md
     - 침구학:
