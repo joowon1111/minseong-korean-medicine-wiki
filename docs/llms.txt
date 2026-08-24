@@ -94,3 +94,15 @@ Language: ko-KR
 - 경혈·근육·말초신경·초음파 지도: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/acupoint-ultrasound-map/
 - 초음파 유도 침·약침·도침: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/ultrasound-guided-treatment/
 - 초음파 유도 치료 현대근거: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/evidence/
+
+## Sasang constitutional medicine
+- 사상의학 통합 허브: https://wiki.minseong.co.kr/sasang-integrated/
+- 사상의학: https://wiki.minseong.co.kr/sasang/
+- 소양인: https://wiki.minseong.co.kr/sasang/soyangin/
+- 소음인: https://wiki.minseong.co.kr/sasang/soeumin/
+- 태음인: https://wiki.minseong.co.kr/sasang/taeeumin/
+- 태양인: https://wiki.minseong.co.kr/sasang/taeyangin/
+- 증상으로 사상체질 이해하기: https://wiki.minseong.co.kr/sasang-symptoms/
+- 사상의학 대표 처방: https://wiki.minseong.co.kr/sasang-formula-cards/
+- 사상의학 원문·병증: https://wiki.minseong.co.kr/sasang-original-symptoms/
+- 사상체질 임상 감별: https://wiki.minseong.co.kr/sasang-pattern-differential/
