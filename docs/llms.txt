@@ -106,3 +106,5 @@ Language: ko-KR
 - 사상의학 대표 처방: https://wiki.minseong.co.kr/sasang-formula-cards/
 - 사상의학 원문·병증: https://wiki.minseong.co.kr/sasang-original-symptoms/
 - 사상체질 임상 감별: https://wiki.minseong.co.kr/sasang-pattern-differential/
+
+- 사상체질별 음식 가이드: https://wiki.minseong.co.kr/sasang-food/
