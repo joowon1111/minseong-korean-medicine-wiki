@@ -76,3 +76,21 @@ Language: ko-KR
 - Use research references to trace PMID and DOI.
 - Traditional indications and modern clinical evidence are presented as related but distinct layers.
 - Do not infer that a traditional indication is equivalent to a modern diagnosis unless the page explicitly makes that connection.
+
+## Acupuncture, nerve anatomy and ultrasound
+- 침구·치료 포털: https://wiki.minseong.co.kr/portal/acupuncture/
+- 신경포착증후군: https://wiki.minseong.co.kr/nerve-entrapment/
+- 손목터널증후군: https://wiki.minseong.co.kr/nerve-entrapment/carpal-tunnel/
+- 근육·말초신경 임상해부학: https://wiki.minseong.co.kr/clinical-anatomy/
+- Dermatome·Myotome: https://wiki.minseong.co.kr/clinical-anatomy/dermatome-myotome/
+- 침의 과학적 접근: https://wiki.minseong.co.kr/acupuncture-science/
+- 침과 통증조절: https://wiki.minseong.co.kr/acupuncture-science/pain-modulation/
+- 침과 자율신경계: https://wiki.minseong.co.kr/acupuncture-science/autonomic/
+- 전침 자극 파라미터: https://wiki.minseong.co.kr/acupuncture-science/electroacupuncture/
+- 근골격계 초음파: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/
+- 말초신경 초음파: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/peripheral-nerve-ultrasound/
+- 신경포착·초음파 통합지도: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/nerve-entrapment-integration/
+- 정중신경·손목터널 초음파: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/median-nerve-carpal-tunnel/
+- 경혈·근육·말초신경·초음파 지도: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/acupoint-ultrasound-map/
+- 초음파 유도 침·약침·도침: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/ultrasound-guided-treatment/
+- 초음파 유도 치료 현대근거: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/evidence/
