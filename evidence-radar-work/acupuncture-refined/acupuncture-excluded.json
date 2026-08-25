@@ -1,0 +1,686 @@
+[
+  {
+    "title": "Home-based transcutaneous electrical acupuncture-point stimulation for depressive symptoms in inflammatory bowel disease: a randomized feasibility study",
+    "published_date": "2025-10-29",
+    "journal": "European Journal of Gastroenterology & Hepatology",
+    "pmid": "",
+    "doi": "10.1097/meg.0000000000003034",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "염증성 장질환(Inflammatory Bowel Disease, IBD)",
+      "경피전침자극(Transcutaneous Electrical Acupuncture-point Stimulation, TEAS)",
+      "우울 증상(Depressive symptoms)",
+      "가정 기반 치료(Home-based treatment)",
+      "실행 가능성 연구(Feasibility study)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Evaluating Electroacupuncture Assessment Strategies for Mild Cognitive Impairment: A Scoping Review",
+    "published_date": "2025-09",
+    "journal": "대한한방내과학회지",
+    "pmid": "",
+    "doi": "10.22246/jikm.2025.46.4.610",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "경도인지장애(Mild Cognitive Impairment)",
+      "電鍼(전침, Electroacupuncture)",
+      "평가 도구(Assessment Tools)",
+      "범위 검토(Scoping Review)",
+      "인지 기능(Cognitive Function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Study Protocol for Multi-Center, Open-Label, Randomized Controlled Trial for Assessing the Efficacy and Safety of Electroacupuncture for Cold Hypersensitivity in Hands and Feet",
+    "published_date": "2025-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.1.47",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "수족냉증(Cold Hypersensitivity in Hands and Feet)",
+      "전침(電鍼, Electroacupuncture)",
+      "침(鍼, Acupuncture)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "The Safety and Effectiveness of Electroacupuncture for Labor Pain Relief: a Systematic Review and Meta-Analysis",
+    "published_date": "2025-02-28",
+    "journal": "Perspectives on Integrative Medicine",
+    "pmid": "",
+    "doi": "10.56986/pim.2025.02.002",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "分娩痛(분만통, Labor pain)",
+      "電鍼(전침, Electroacupuncture)",
+      "분만 기간(Labor duration)",
+      "안전성(Safety)",
+      "효과(Effectiveness)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "The Efficacy of Neuropuncture™ Electrical Acupuncture Treatment of Patients with Parkinson’s Disease",
+    "published_date": "2025-06-30",
+    "journal": "Journal of Clinical Research and Case Studies",
+    "pmid": "",
+    "doi": "10.61440/jcrcs.2025.v3.76",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "파킨슨병(Parkinson’s Disease)",
+      "전침(電鍼, electrical acupuncture)",
+      "Neuropuncture™",
+      "통합 파킨슨병 등급 척도(UPDRS)",
+      "도파민(Dopamine)",
+      "신경 재활(Neuro-rehabilitation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Efficacy of Electro acupuncture for Intestinal Paralysis after Laparoscopic Cholecystectomy: A Case Report and Literature Review",
+    "published_date": "2023-09-19",
+    "journal": "Journal on Surgery",
+    "pmid": "",
+    "doi": "10.52768/2691-7785/1118",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "복강경 담낭절제술(Laparoscopic Cholecystectomy)",
+      "수술 후 장마비(Postoperative Ileus, POI)",
+      "전침(電鍼, Electroacupuncture)",
+      "위장관 운동성(Gastrointestinal dynamics)",
+      "복통(Abdominal pain)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Sleep and endocrine effects of acupuncture for insomnia: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2026-04-07",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1807826",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "불면증(Insomnia)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "멜라토닌(Melatonin)",
+      "코르티솔(Cortisol)",
+      "수면다원검사(Polysomnography)",
+      "내분비 조절(Endocrine regulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Acupuncture combined with language training for aphasia in children with cerebral palsy: a systematic review with meta-analysis and trial sequential analysis",
+    "published_date": "2025-03-12",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1502023",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌성마비(Cerebral Palsy)",
+      "실어증(Aphasia)",
+      "침 치료(鍼, Acupuncture)",
+      "언어 훈련(Language training)",
+      "전침(電鍼, Electroacupuncture)",
+      "두피침(頭皮鍼, Scalp acupuncture)",
+      "이침 압결(耳鍼, Auricular point seed-pressing)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "RETRACTION : Clinical Effects of Acupuncture for the Treatment of Pressure Ulcers: A Comprehensive Systematic Review and Meta‐Analysis",
+    "published_date": "2025-04",
+    "journal": "International Wound Journal",
+    "pmid": "",
+    "doi": "10.1111/iwj.70668",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "욕창(Pressure Ulcers)",
+      "鍼(침, Acupuncture)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-Analysis)",
+      "철회(Retraction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "retracted/withdrawn"
+  },
+  {
+    "title": "RETRACTION : Enhancing Wound Recovery in Chemotherapy‐Induced Leukopenia for Malignant Tumours: A Meta‐Analysis of Acupuncture Treatment Efficacy",
+    "published_date": "2025-03-26",
+    "journal": "International Wound Journal",
+    "pmid": "",
+    "doi": "10.1111/iwj.70436",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "Acupuncture (鍼(침))",
+      "Chemotherapy-Induced Leukopenia (화학요법 유발 백혈구 감소증)",
+      "Wound Recovery (상처 회복)",
+      "Malignant Tumours (악성 종양)",
+      "Meta-Analysis (메타분석)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "retracted/withdrawn"
+  },
+  {
+    "title": "Comparative effectiveness of acupuncture-based multimodal rehabilitation for post-stroke cognitive impairment: a network meta-analysis of 70 randomized controlled trials",
+    "published_date": "2026-02-10",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2026.1759572",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후 인지장애(Post-stroke cognitive impairment)",
+      "침술(Acupuncture, 鍼)",
+      "다중모드 재활(Multimodal rehabilitation)",
+      "두피침(Scalp acupuncture)",
+      "전침(Electroacupuncture, 電鍼)",
+      "네트워크 메타분석(Network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Efficacy of Abdominal Acupuncture in Poststroke Constipation: A Systematic Review and Meta‐Analysis With Trial Sequential Analysis",
+    "published_date": "2026-04-29",
+    "journal": "Brain and Behavior",
+    "pmid": "",
+    "doi": "10.1002/brb3.71442",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후 변비(Poststroke constipation)",
+      "복침(Abdominal Acupuncture)",
+      "전침(Electroacupuncture)",
+      "메타분석(Meta-analysis)",
+      "배변 시간(Time to first bowel movement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Acupuncture treatment of postoperative urinary retention in cervical cancer: Systematic evaluation and meta-analysis",
+    "published_date": "2025-02-21",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041520",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "자궁경부암(Cervical Cancer)",
+      "수술 후 요정체(Postoperative Urinary Retention)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "뜸(Moxibustion)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Acupuncture for diabetic peripheral neuropathy: A systematic review and Bayesian network meta-analysis",
+    "published_date": "2025-08-08",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043796",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "당뇨병성 말초신경병증(Diabetic peripheral neuropathy)",
+      "침치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "혈위주입(Acupoint injection)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "신경전도속도(Nerve conduction velocity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Electro-acupuncture for irritable bowel syndrome with constipation: study protocol of a pilot, randomized, double-blinded, sham-controlled trial",
+    "published_date": "2025-09-12",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1632822",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "status": "candidate",
+        "archive_path": "conditions/irritable-bowel-syndrome/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "sham acupuncture",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "변비형 과민성 장 증후군(IBS-C)",
+      "전침(電鍼, electro-acupuncture)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "가짜 침(sham acupuncture)",
+      "위장관 기능 장애(Functional Gastrointestinal Disorder)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Comment on Takakura et al. Acupuncture for Japanese Katakori (Chronic Neck Pain): A Randomized Placebo-Controlled Double-Blind Study. Medicina 2023, 59, 2141",
+    "published_date": "2024-06-24",
+    "journal": "Medicina",
+    "pmid": "",
+    "doi": "10.3390/medicina60071030",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54.2",
+        "label": "경부통",
+        "status": "candidate",
+        "archive_path": "conditions/neck-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "Katakori(肩凝り, shoulder stiffness)",
+      "鍼(침, acupuncture)",
+      "Randomized Controlled Trial(무작위 대조 시험)",
+      "Commentary(논평)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "comment/editorial"
+  },
+  {
+    "title": "Efficacy of electro-acupuncture on pregnancy outcomes for women undergoing in vitro fertilization: study protocol for a pilot randomized controlled trial",
+    "published_date": "2024-08-05",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2024.1380885",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "전침(電鍼, electro-acupuncture)",
+      "체외수정(體外受精, in vitro fertilization)",
+      "불임(不妊, infertility)",
+      "임신율(妊娠率, pregnancy rate)",
+      "임상시험(臨床試驗, clinical trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Efficacy of Electroacupuncture Combined With Medication for Postherpetic Neuralgia",
+    "published_date": "2026-08-13",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261475414",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G53.0",
+        "label": "대상포진후신경통",
+        "status": "candidate",
+        "archive_path": "conditions/postherpetic-neuralgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "대상포진 후 신경통(Postherpetic Neuralgia, PHN)",
+      "電鍼(전침, Electroacupuncture)",
+      "통증 완화(Pain relief)",
+      "삶의 질(Quality of Life)",
+      "염증 지표(Inflammatory markers)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Effects of Acupuncture Treatment on Polycystic Ovary Syndrome (PCOS)",
+    "published_date": "2024-06-19",
+    "journal": "Obstetrics and Gynecology",
+    "pmid": "",
+    "doi": "10.5772/intechopen.113799",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "鍼(침, Acupuncture)",
+      "電鍼(전침, Electro-acupuncture)",
+      "생식 호르몬(Reproductive hormones)",
+      "인슐린 저항성(Insulin resistance)",
+      "β-엔도르핀(β-endorphin)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "CURRENT STATUS OF THE DISEASE PATTERN AND TRADITIONAL MEDICINE TREATMENT, TRADITIONAL MEDICINE - MODERN MEDICINE AT THE DEPARTMENT OF TRADITIONAL MEDICINE AND REHABILITATION, CAM KHE DISTRICT MEDICAL CENTER, PHU THO PROVINCE, PERIOD 2022–2024",
+    "published_date": "2025-12-24",
+    "journal": "Tạp chí Y học Cộng đồng",
+    "pmid": "",
+    "doi": "10.52163/yhc.v66i8.4053",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "전통의학(Traditional Medicine)",
+      "근골격계 질환(Musculoskeletal system diseases)",
+      "신경계 질환(Nervous system diseases)",
+      "전침(電鍼, electroacupuncture)",
+      "지압 마사지(acupressure massage)",
+      "통합의료(Integrative Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  },
+  {
+    "title": "Research Progress in Traditional Chinese Medicine Treatment of Rotator Cuff Injury",
+    "published_date": "2026-06-30",
+    "journal": "Journal of Artificial Intelligence and Information",
+    "pmid": "",
+    "doi": "10.66069/ojspub.20542246",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "회전근개 손상(Rotator Cuff Injury)",
+      "한방 치료(Traditional Chinese Medicine)",
+      "鍼(침, acupuncture)",
+      "推拿(추나, tuina)",
+      "鍼刀(침도, acupotomy)",
+      "비증(Bi Zheng)",
+      "근상(Jin Shang)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "acupotomy-only"
+  },
+  {
+    "title": "Clinical Study on the Treatment of Cold Dampness Arthralgia Type Periarthritis of Shoulder",
+    "published_date": "2025-03-24",
+    "journal": "Chinese Medicine Research and Development",
+    "pmid": "",
+    "doi": "10.57237/j.cmrd.2025.01.001",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M25.51",
+        "label": "어깨통증",
+        "status": "candidate",
+        "archive_path": "conditions/shoulder-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "견관절주위염(Periarthritis of shoulder)",
+      "한랭습비(寒冷濕痺, Cold Dampness Arthralgia)",
+      "경근동자(經筋洞磁, Jingjin Dongci)",
+      "견우지통탕(肩盂止痛湯, Jian Yu Zhi Tong Decoction)",
+      "전침(電鍼, Electroacupuncture)",
+      "어깨 통증(Shoulder Pain)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only"
+  }
+]
