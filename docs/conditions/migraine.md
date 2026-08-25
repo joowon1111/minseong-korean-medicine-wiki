@@ -77,3 +77,6 @@ last_reviewed: 2026-08-21
 </script>
 <!-- MS132_STRUCTURED_DATA_END -->
 
+### 침 치료 최신 임상근거
+
+- **The durable effect of acupuncture for episodic migraine: a systematic review and meta-analysis** — 2023 체계적 문헌고찰·메타분석에서는 삽화성 편두통에서 침 치료의 지속 효과(durable effect)를 평가했습니다. DOI `10.3389/fnins.2023.1211438`

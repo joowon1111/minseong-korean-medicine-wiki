@@ -1,4 +1,4 @@
-﻿---
+---
 title: 섬유근육통 — 현대 임상근거 카드
 description: 섬유근육통에서 침 치료의 umbrella review와 systematic review·meta-analysis를 통증·피로·수면·기능 지표 중심으로 정리합니다.
 tags: [섬유근육통, 침, 통증, 피로, meta-analysis]
@@ -55,3 +55,7 @@ last_reviewed: 2026-08-19
 
 섬유근육통에서는 통증만이 아니라 **피로·수면·신체기능·삶의 질**을 함께 평가하고, 운동·수면·교육 등 다중치료전략 속에서 침을 위치시킵니다.
 <!-- MS61_FIBRO_END -->
+
+### 침 치료 최신 임상근거
+
+- **The efficacy of acupuncture treatment for fibromyalgia syndrome: a systematic review and meta-analysis** — 2026 체계적 문헌고찰·메타분석에서는 섬유근육통 증후군에서 침 치료와 통증·FIQ 등 임상지표를 종합적으로 평가했습니다. DOI `10.3389/fmed.2025.1710642`

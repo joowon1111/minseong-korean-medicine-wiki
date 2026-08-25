@@ -42,3 +42,9 @@ last_reviewed: '2026-08-23'
 - 2026 primary insomnia network meta-analysis는 80개 연구·7,791명을 포함해 일반침·복침·전침 등 다양한 치료를 비교했습니다. 일부 outcome에서 침 치료가 conventional medication 또는 sham보다 유리했지만 출판편향·프로토콜 이질성·장기추적 부족을 지적했습니다. PMID `41853182`.
 
 불면에서는 주관적 수면척도(PSQI·ISI)와 객관적 수면지표를 구분하고, 수면위생·인지행동치료·기저 정신건강 및 신체질환 평가와 함께 봅니다.
+
+### 침 치료 최신 임상근거
+
+- **The efficacy and safety of acupuncture for Parkinson’s disease insomnia: a systematic review and meta-analysis** — 2025 체계적 문헌고찰·메타분석에서는 파킨슨병 환자의 불면에 대한 침 치료의 유효성과 안전성을 평가했습니다. 일반 불면 전체가 아니라 파킨슨병 동반 불면에 관한 근거입니다. DOI `10.3389/fneur.2025.1697481`
+
+- **Efficacy and safety of acupuncture in the treatment of poststroke insomnia: A systematic review and meta-analysis** — 2025 체계적 문헌고찰·메타분석에서는 뇌졸중 후 불면에서 침 치료의 유효성과 안전성을 평가했습니다. 일반 불면 전체가 아니라 뇌졸중 후 불면에 관한 근거입니다. DOI `10.1097/md.0000000000043890`

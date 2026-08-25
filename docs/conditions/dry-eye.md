@@ -52,3 +52,7 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 안구건조 · 눈이 뻑뻑해요 · 눈이 시려요 · 눈에 모래가 들어간 느낌 · 컴퓨터 보면 눈이 건조해요 · Dry Eye
+
+### 침 치료 최신 임상근거
+
+- **Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial** — 2025 pilot RCT에서는 중등도–중증 안구건조증에서 피내침을 평가했습니다. OSDI와 Schirmer test 등 안구건조 관련 임상지표를 중심으로 살펴볼 수 있는 최근 침 임상연구입니다. DOI `10.3831/KPI.2025.28.4.301`

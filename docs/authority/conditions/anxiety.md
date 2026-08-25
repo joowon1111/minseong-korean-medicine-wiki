@@ -23,3 +23,7 @@
 중증 불안, 자살사고, 심한 기능저하 등에서는 정신건강의학적 평가가 우선이다. 침은 증상관리의 보조적 선택지로 해석한다.
 
 → [질환별 현대 임상근거 카드](../)
+
+### 침 치료 최신 임상근거
+
+- **Efficacy and Safety of Acupuncture for Anxiety Disorders in Adults: A Systematic Review and Meta-Analysis.** — 2026 체계적 문헌고찰·메타분석에서는 성인 불안장애에 대한 침 치료의 유효성과 안전성을 종합적으로 평가했습니다. PMID `42613003` · DOI `10.30773/pi.2025.0437`
