@@ -1,0 +1,20 @@
+{
+  "queries": [
+    "electroacupuncture",
+    "electro-acupuncture",
+    "electrical acupuncture"
+  ],
+  "succeeded": [
+    {
+      "query": "electro-acupuncture",
+      "records": 41
+    },
+    {
+      "query": "electrical acupuncture",
+      "records": 89
+    }
+  ],
+  "raw_records": 130,
+  "errors": 3,
+  "all_queries_failed": false
+}

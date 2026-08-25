@@ -1,0 +1,23 @@
+[
+  {
+    "query": "electroacupuncture",
+    "attempt": 1,
+    "type": "HTTPError",
+    "code": 500,
+    "message": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "query": "electroacupuncture",
+    "attempt": 2,
+    "type": "HTTPError",
+    "code": 500,
+    "message": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "query": "electroacupuncture",
+    "attempt": 3,
+    "type": "HTTPError",
+    "code": 500,
+    "message": "HTTP Error 500: Internal Server Error"
+  }
+]
