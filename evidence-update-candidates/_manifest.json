@@ -1,0 +1,72 @@
+[
+  {
+    "target": "conditions/frozen-shoulder/",
+    "label": "유착성 관절낭염",
+    "file": "conditions__frozen-shoulder.md",
+    "completed": 3,
+    "protocols": 0
+  },
+  {
+    "target": "conditions/lumbar-disc-herniation/",
+    "label": "요추 추간판탈출증",
+    "file": "conditions__lumbar-disc-herniation.md",
+    "completed": 1,
+    "protocols": 0
+  },
+  {
+    "target": "conditions/temporomandibular-disorder/",
+    "label": "턱관절장애",
+    "file": "conditions__temporomandibular-disorder.md",
+    "completed": 1,
+    "protocols": 0
+  },
+  {
+    "target": "conditions/tension-type-headache/",
+    "label": "긴장형두통",
+    "file": "conditions__tension-type-headache.md",
+    "completed": 1,
+    "protocols": 0
+  },
+  {
+    "target": "conditions/low-back-pain/",
+    "label": "요통",
+    "file": "conditions__low-back-pain.md",
+    "completed": 1,
+    "protocols": 1
+  },
+  {
+    "target": "conditions/lumbar-spinal-stenosis/",
+    "label": "요추 척추관협착증",
+    "file": "conditions__lumbar-spinal-stenosis.md",
+    "completed": 2,
+    "protocols": 1
+  },
+  {
+    "target": "conditions/rotator-cuff-disease/",
+    "label": "회전근개 질환",
+    "file": "conditions__rotator-cuff-disease.md",
+    "completed": 1,
+    "protocols": 0
+  },
+  {
+    "target": "conditions/knee-pain/",
+    "label": "무릎통증",
+    "file": "conditions__knee-pain.md",
+    "completed": 1,
+    "protocols": 0
+  },
+  {
+    "target": "conditions/cervical-disc-herniation/",
+    "label": "경추 추간판탈출증",
+    "file": "conditions__cervical-disc-herniation.md",
+    "completed": 1,
+    "protocols": 0
+  },
+  {
+    "target": "conditions/myofascial-pain-syndrome/",
+    "label": "근막통증증후군",
+    "file": "conditions__myofascial-pain-syndrome.md",
+    "completed": 0,
+    "protocols": 1
+  }
+]
