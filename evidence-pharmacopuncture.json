@@ -1,0 +1,1398 @@
+[
+  {
+    "title": "Efficacy of ultrasound-guided pharmacopuncture: A systematic review and meta-analysis",
+    "published_date": "2025-03-14",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041733",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "초음파 유도하 약침(Ultrasound-guided pharmacopuncture)",
+      "근골격계 질환(Musculoskeletal diseases)",
+      "통증 관리(Pain management)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Feasibility of Emotional Freedom Techniques in Patients with Posttraumatic Stress Disorder: a pilot study",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.27",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "외상 후 스트레스 장애(PTSD)",
+      "감정자유기법(EFT)",
+      "후계혈(後谿穴, SI3)",
+      "심리치료(Psychotherapy)",
+      "타핑(Tapping)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Use of Herbal Decoction and Pharmacopuncture in Individuals with Chronic Disease: findings from a nationally representative panel",
+    "published_date": "2024-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.2.110",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "韓方治療(한방치료, Korean medicine)",
+      "湯藥(탕약, herbal decoction)",
+      "藥鍼(약침, pharmacopuncture)",
+      "慢性疾患(만성질환, chronic disease)",
+      "醫療利用(의료이용, health service utilization)",
+      "韓國醫療패널(한국의료패널, Korea Health Panel)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Mental Health and Medical Error among Nursing Staffs at Korean Medicine Clinics: a first survey in South Korea",
+    "published_date": "2024-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.3.253",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한의원(Korean Medicine Clinic)",
+      "간호사(Nurse)",
+      "정신건강(Mental Health)",
+      "의료 오류(Medical Error)",
+      "화병(Hwa-byung)",
+      "감정노동(Emotional Labor)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Cupping Therapy for the Treatment of Migraine Headache: a systematic review and meta-analysis of clinical trials",
+    "published_date": "2024-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.3.177",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [
+      {
+        "code": "G43",
+        "label": "편두통",
+        "status": "candidate"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "부항요법(Cupping therapy)",
+      "편두통(Migraine headache)",
+      "습식 부항(Wet cupping)",
+      "건식 부항(Dry cupping)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "General Worker’s Sleep Disturbances and the Degree of Cold-Heat Symptoms: a national cross-sectional survey",
+    "published_date": "2024-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.3.199",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "수면 장애 (Sleep disturbances)",
+      "일반 직장인 (General workers)",
+      "한열 증상 (Cold-heat symptoms, 寒熱症狀)",
+      "단면 연구 (Cross-sectional study)",
+      "직업적 위험 요인 (Occupational risk factors)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Study Protocol for Multi-Center, Open-Label, Randomized Controlled Trial for Assessing the Efficacy and Safety of Electroacupuncture for Cold Hypersensitivity in Hands and Feet",
+    "published_date": "2025-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.1.47",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "수족냉증(Cold Hypersensitivity in Hands and Feet)",
+      "전침(電鍼, Electroacupuncture)",
+      "침(鍼, Acupuncture)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Management of Perennial Allergic Rhinitis Complicated by Rhinosinusitis Using Ultrasound-Guided Sphenopalatine Ganglion Acupuncture and Modified Socheongryong-tang: two CARE-compliant case reports",
+    "published_date": "2025-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.2.154",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [
+      {
+        "code": "J30",
+        "label": "알레르기비염",
+        "status": "candidate"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "알레르기 비염(Allergic Rhinitis)",
+      "부비동염(Rhinosinusitis)",
+      "소청룡탕(小靑龍湯)",
+      "접형구개신경절(Sphenopalatine Ganglion)",
+      "초음파 유도하 침 치료(Ultrasound-guided acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Clinical Study for the Development of a Bee Venom Allergy Diagnostic Kit",
+    "published_date": "2025-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.2.138",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "봉독약침(蜂毒藥鍼, Bee Venom Pharmacopuncture)",
+      "알레르기 진단(Allergy Diagnosis)",
+      "총 IgE(Total IgE)",
+      "피부검사(Skin test)",
+      "멜리틴(Melittin)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effectiveness of Traditional Chinese Medicine Integrated with Self-Slump Stretching on Chronic Low Back Pain among Hill Tribe Farmers in Thailand: a pilot randomized controlled trial",
+    "published_date": "2025-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.3.211",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "침(鍼, acupuncture)",
+      "부항(拔罐, cupping)",
+      "자가 슬럼프 스트레칭(Self-Slump Stretching)",
+      "전통 중의학(Traditional Chinese Medicine)",
+      "태국 농부(Thai Farmers)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Prevalence of Traditional East Asian Medicine Patterns among Older Adults with Sarcopenia: a systematic review of observational studies",
+    "published_date": "2025-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.3.165",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "근감소증(Sarcopenia)",
+      "변증(Pattern Identification)",
+      "전통 동양 의학(Traditional East Asian Medicine)",
+      "유병률(Prevalence)",
+      "간신부족(Liver-kidney deficiency)",
+      "비위허약(Spleen-stomach deficiency)",
+      "비위습열(Spleen-stomach damp-heat)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Ultrasound-Guided Pharmacopuncture for Lateral Epicondylitis Initially Misdiagnosed Due to Incomplete Common Extensor Tendon Evaluation: a case report",
+    "published_date": "2025-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.3.248",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "외측 상과염(Lateral Epicondylitis)",
+      "약침(Pharmacopuncture)",
+      "초음파 유도(Ultrasound-guided)",
+      "공통 신전근 건(Common Extensor Tendon, CET)",
+      "폴리데옥시리보뉴클레오티드(Polydeoxyribonucleotide, PDRN)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.301",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "안구건조증(Dry Eye Disease)",
+      "피내침(Intradermal Acupuncture)",
+      "체침(Body Acupuncture)",
+      "안구표면질환지수(OSDI)",
+      "쉬르머 검사(Schirmer test)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparison of Effectiveness of Manual Therapy for Infant Crying: systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2023-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2023.26.4.285",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "영아 산통(Infantile Colic)",
+      "야제증(Nocturnal Crying)",
+      "추나(Tuina)",
+      "수기 요법(Manual Therapy)",
+      "마사지(Massage)",
+      "카이로프랙틱(Chiropractic)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Current Status of Korean Medicine Treatment for Schizophrenia Spectrum Disorders: a nationwide survey of Korean medicine doctors",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.75",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "조현병 스펙트럼 장애(Schizophrenia Spectrum Disorders)",
+      "한의학(Korean Medicine)",
+      "실태조사(Nationwide Survey)",
+      "한약(Herbal Medicine)",
+      "침 치료(Acupuncture)",
+      "임상진료지침(Clinical Practice Guideline)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Racial Discrimination and Hwa-byung, a Korean Medicine-Based Anger Syndrome, among Foreign Residents in South Korea: a cross-sectional study",
+    "published_date": "2026-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.2.212",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "화병(火病, Hwa-byung)",
+      "인종 차별(Racial discrimination)",
+      "외국인(Foreigners)",
+      "귀화자(Naturalized citizens)",
+      "문화결합증후군(Culture-bound syndrome)",
+      "정신건강(Mental health)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effects of Acupuncture on Crohn’s Disease: a systematic review and meta-analysis",
+    "published_date": "2023-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2023.26.3.211",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "크론병(Crohn's disease)",
+      "鍼(침, acupuncture)",
+      "灸(뜸, moxibustion)",
+      "염증성 장질환(Inflammatory bowel disease)",
+      "크론병 활성도 지수(CDAI)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture for Attenuating Frontal Lobe α Band Asymmetry Induced by Anger: a pilot study",
+    "published_date": "2023-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2023.26.3.276",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "鍼(침, acupuncture)",
+      "분노(Anger)",
+      "전두엽 α-대역 비대칭성(Frontal Lobe α Band Asymmetry)",
+      "뇌파(EEG)",
+      "풍지혈(GB20)",
+      "견정혈(GB21)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case Report of Prolonged Hemorrhage Following Traditional Phlebotomy (Fasd)",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.47",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "사혈(瀉血, Phlebotomy)",
+      "Fasd",
+      "지혈(止血, Hemostasis)",
+      "탄화 면 드레싱(Burnt cotton dressing)",
+      "합병증(Complication)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacoacupuncture for the Treatment of Frozen Shoulder: protocol for a systematic review and meta-analysis",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.14",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "오십견(Frozen Shoulder)",
+      "약침(Pharmacoacupuncture)",
+      "한의학(Traditional Korean Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case Study of Stress-Induced Alopecia Areata Treated with Hominis Placenta Pharmacopunture",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.53",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "원형탈모증(Alopecia Areata)",
+      "자하강(Hominis Placenta)",
+      "약침(Pharmacopuncture)",
+      "스트레스(Stress)",
+      "두피(Scalp)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pediatric Finger Warts Treated Using Taeeumjowi-tang: a case report",
+    "published_date": "2024-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.2.172",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "소아 사마귀(Pediatric Warts)",
+      "태음조위탕(太陰調胃湯)",
+      "인유두종바이러스(Human Papillomavirus, HPV)",
+      "한약 치료(Herbal Medicine Treatment)",
+      "증례 보고(Case Report)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Seborrheic Dermatitis Treatment Using a Standardized Medical Insurance-Approved Korean Medicine: a case report",
+    "published_date": "2024-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.3.264",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "지루성 피부염(Seborrheic Dermatitis)",
+      "황련해독탕(黃連解毒湯)",
+      "한약(Herbal Medicine)",
+      "사례 보고(Case Report)",
+      "화열 증후군(Fire-heat syndrome)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of Sophora japonica L. Pill in Subjective Memory Complaints in Healthy Adults: a protocol of randomized, double-blind, placebo-controlled, parallel-group, clinical trial",
+    "published_date": "2024-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.4.349",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "회화나무(Sophora japonica L.)",
+      "주관적 기억 저하(Subjective memory complaints)",
+      "인지 기능(Cognitive function)",
+      "한약(Herbal medicine)",
+      "무작위 대조 시험(Randomized controlled trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of Herbal Medicine (Hwanglyeonhaedok-tang) on Insomnia Patients with Bedtime Procrastination: study protocol for a randomized controlled trial",
+    "published_date": "2024-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.4.322",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "불면증(Insomnia)",
+      "취침 시간 미루기(Bedtime Procrastination)",
+      "황련해독탕(黃連解毒湯)",
+      "한약(Herbal Medicine)",
+      "수면 질(Sleep Quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Assessing Hwa-byung Vulnerability Using the Hwa-byung Personality Scale: a comparative study of machine learning approaches",
+    "published_date": "2024-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.4.358",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "화병(Hwa-byung)",
+      "화병 성격 척도(HB personality scale)",
+      "머신러닝(Machine Learning)",
+      "앙상블 모델(Ensemble model)",
+      "취약성 평가(Vulnerability assessment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of Biodegradable Microneedle Acupuncture in Mild to Moderate Atopic Dermatitis: a single-blinded randomized controlled pilot trial",
+    "published_date": "2025-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.1.69",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "아토피 피부염(Atopic Dermatitis)",
+      "생분해성 마이크로니들 침(Biodegradable Microneedle Acupuncture)",
+      "피내침(Intradermal Acupuncture)",
+      "곡지(曲池, LI11)",
+      "족삼리(足三里, ST36)",
+      "내관(內關, PC6)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Satisfaction with Clinical Clerkship and Its Determinants Among Korean Medicine Students",
+    "published_date": "2025-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.2.108",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한의과대학생(Korean medicine students)",
+      "임상실습(clinical clerkship)",
+      "만족도(satisfaction)",
+      "의학교육(medical education)",
+      "결정요인(determinants)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of Western and Korean Medicine Combination Treatment on Physical Activity in Elderly Arthropathy Patients",
+    "published_date": "2025-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.2.81",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "관절병증(Arthropathy)",
+      "한양방 병용치료(Combined Western and Korean Medicine)",
+      "신체 활동(Physical Activity)",
+      "노인(Elderly)",
+      "침(鍼, Acupuncture)",
+      "한국의료패널(Korean Health Panel Survey)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparison of the Safety and Efficacy of Biodegradable Microneedle Acupuncture and Sterile Acupuncture: study protocol for a prospective, confirmatory, superiority, multicenter, parallel, single-blinded randomized controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.386",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "생분해성 마이크로니들 침(Biodegradable Microneedle Acupuncture)",
+      "멸균 침(Sterile Acupuncture)",
+      "안구건조증(Dry eye disease)",
+      "안전성(Safety)",
+      "이상반응(Adverse Events)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of an Herbal Vaginal Tablet Containing Oregano and Lemon Balm on Bacterial Vaginosis in Comparison to Metronidazole: a non-inferiority triple-blind active-controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.321",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "세균성 질염(Bacterial Vaginosis)",
+      "오레가노(Oregano)",
+      "레몬밤(Lemon Balm)",
+      "한방 질정(Herbal Vaginal Tablet)",
+      "메트로니다졸(Metronidazole)",
+      "비열등성 시험(Non-inferiority trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Types and Doses of Pharmacopuncture for Lumbar Disc Herniation: a scoping review of clinical studies",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.269",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "요추 추간판 탈출증(Lumbar Disc Herniation)",
+      "약침(Pharmacopuncture)",
+      "봉독(Bee venom)",
+      "신바로(Shinbaro)",
+      "범위 검토(Scoping review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Student Satisfaction with Pharmacopuncture Education and the Need for Curriculum Improvement",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.126",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(pharmacopuncture)",
+      "한의학 교육(Korean Medicine education)",
+      "학생 만족도(student satisfaction)",
+      "교육과정 개선(curriculum improvement)",
+      "실습 교육(hands-on training)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "User Experience and Clinical Utility of a Smartphone-Based Application for Hwa-Byung Treatment: a protocol for a single-arm prospective pilot study",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.118",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "화병(火病, Hwa-byung)",
+      "디지털 헬스케어(Digital Healthcare)",
+      "스마트폰 애플리케이션(Smartphone Application)",
+      "수용전념치료(ACT, Acceptance and Commitment Therapy)",
+      "심신요법(Mind-body therapy)",
+      "한의학(Korean Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness of Herbal Medicine Compared to Antidepressants in Patients with Schizophrenia Spectrum Disorders Accompanied by Depression: a systematic review and meta-analysis",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.21",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "조현병 스펙트럼 장애(Schizophrenia Spectrum Disorders)",
+      "우울증(Depression)",
+      "한약(Herbal Medicine, 韓藥)",
+      "항우울제(Antidepressants)",
+      "항정신병 약물(Antipsychotics)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Prevalence of Traditional East Asian Medicine Patterns among Older Adults with Frailty: a systematic review of observational studies",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.1",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "노쇠(Frailty)",
+      "전통 동양 의학(Traditional East Asian Medicine)",
+      "변증(Syndrome differentiation)",
+      "유병률(Prevalence)",
+      "기혈양허(Qi-blood deficiency)",
+      "신정부족(Kidney essence deficiency)",
+      "비기허 및 담음(Spleen deficiency with phlegm-dampness)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Efficacy of Acupuncture and Bee Venom Injections in Improving Hearing in a Patient with Idiopathic Conductive Hearing Loss: a case report",
+    "published_date": "2026-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.2.233",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "전음성 난청(Conductive Hearing Loss)",
+      "침(鍼, acupuncture)",
+      "봉침(蜂鍼, bee venom injection)",
+      "특발성(Idiopathic)",
+      "청력 개선(Hearing improvement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Use of Honey/Gotu Kola/κ-Carrageenan Base Hydrogel Film Dressing on Diabetic Foot Ulcer Patient in Home Care Setting: a case report",
+    "published_date": "2026-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.2.224",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "당뇨병성 족부궤양(Diabetic Foot Ulcer)",
+      "병풀(Gotu Kola, Centella asiatica)",
+      "하이드로겔 드레싱(Hydrogel dressing)",
+      "홈케어(Home care)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Protocol for a Radial Pulse-Based Vascular Age Index Integrated with Traditional Korean Medicine Pulse Diagnosis",
+    "published_date": "2026-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.2.155",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "요골동맥 맥파 분석(Radial artery pulse wave analysis)",
+      "혈관 연령(Vascular age)",
+      "한의학 맥진(TKM pulse diagnosis)",
+      "맥파전달속도(PWV, pulse wave velocity)",
+      "통합 지표(Integrative index)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Herbal and Natural Product Interventions to Modulate Gut Microbiota in Acid Suppression-Associated Dysbiosis: a systematic review protocol",
+    "published_date": "2026-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.2.149",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "위산 억제 요법(Acid suppression therapy)",
+      "장내 미생물 불균형(Gut dysbiosis)",
+      "한약(Herbal medicine)",
+      "천연물(Natural products)",
+      "장내 미생물(Gut microbiota)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Status and Needs Analysis ofKoreanMedicineDoctors’ Continuing Professional Development",
+    "published_date": "2025-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.3.201",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한의사(韓醫師, Korean Medicine Doctors)",
+      "보수교육(Continuing Professional Development)",
+      "전공의 수련(Residency Training)",
+      "역량 개발(Competency Development)",
+      "교육 요구도(Educational Needs)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Bridging Theory and Practice: a qualitative study on electronic charting and health systems science inKoreanmedicineeducationin alignment with KAS2022",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.97",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한의학 교육 (Korean medicine education)",
+      "전자 차트 (Electronic charting)",
+      "보건의료시스템과학 (Health Systems Science, HSS)",
+      "KAS2022",
+      "임상 기록 (Clinical documentation)",
+      "역량 중심 교육 (Competency-based education)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Advancing from Compliance to Innovation in MedicalEducation: a strategic roadmap for MEUs in colleges ofKoreanmedicinebased on FGI",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.106",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한의학교육(Korean Medicine Education)",
+      "의학교육단위(Medical Education Units, MEUs)",
+      "전략적 로드맵(Strategic Roadmap)",
+      "초점집단면접(Focus Group Interview, FGI)",
+      "교육의 질 개선(Quality Improvement in Education)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Overcoming Barriers to Research Competency: a nationwide mixed-method study on residencytrainingin the field ofKoreanmedicine",
+    "published_date": "2024-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.2.142",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한의학(韓醫學, Korean medicine)",
+      "전공의 교육(residency training)",
+      "연구 역량(research competency)",
+      "교육 요구도(educational needs)",
+      "학술적 글쓰기(academic writing)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Experience and Prior-Educationin Medical Volunteering amongKoreanMedicineStudents: a survey study",
+    "published_date": "2025-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.1.24",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한의과대학생(KM students)",
+      "의료봉사(Medical volunteering)",
+      "사전 교육(Prior-education)",
+      "만족도(Satisfaction)",
+      "교육과정(Curriculum)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case of Postherpetic Neuralgia Treated with Korean Medicine, including Soeumin Bojungikgitang-gagambang",
+    "published_date": "2023-10-30",
+    "journal": "The Journal of Internal Korean Medicine",
+    "pmid": "",
+    "doi": "10.22246/jikm.2023.44.5.920",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "대상포진 후 신경통(Postherpetic Neuralgia)",
+      "소음인(少陰人)",
+      "보중익기탕 가감방(補中益氣湯 加減方)",
+      "약침(pharmacopuncture)",
+      "침(acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Common Peroneal Nerve Entrapment Masked by Acute Lumbar Disc Herniation: Integrated Korean Medicine Treatment with Ultrasound-Guided Pharmacopuncture",
+    "published_date": "2024-10-31",
+    "journal": "Perspectives on Integrative Medicine",
+    "pmid": "",
+    "doi": "10.56986/pim.2024.10.008",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "Common Peroneal Nerve Entrapment(총비골신경 포착)",
+      "Lumbar Disc Herniation(요추 추간판 탈출증)",
+      "Pharmacopuncture(약침)",
+      "Ultrasound-guided(초음파 유도하)",
+      "Integrated Korean Medicine(통합 한의 치료)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Study on Major Uninsured Korean Medicine Treatments Search Trends and Their Meanings in an Online Portal: Using Naver Data Lab",
+    "published_date": "2023-09-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.23032",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한방 비급여 치료(Uninsured KM treatments)",
+      "네이버 데이터랩(Naver Data Lab)",
+      "추나(Chuna)",
+      "약침(pharmacopuncture)",
+      "한약(herbal decoction)",
+      "매선요법(needle-embedding therapy)",
+      "검색 트렌드(search trends)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Peripheral Facial Palsy with Fatigue Symptoms is Improved by Korean Medicine Treatment: A Case Report",
+    "published_date": "2023-10-30",
+    "journal": "The Journal of Internal Korean Medicine",
+    "pmid": "",
+    "doi": "10.22246/jikm.2023.44.5.830",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "말초성 안면신경마비(Peripheral Facial Palsy)",
+      "피로(Fatigue)",
+      "익기보혈탕(益氣補血湯)",
+      "한의 통합 치료(Korean Medicine Treatment)",
+      "추나 요법(Chuna manual therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case Report of Korean Medicine Treatment for an Intractable Hiccup Patient with Unknown Cause after a Traffic Accident",
+    "published_date": "2023-10-30",
+    "journal": "The Journal of Internal Korean Medicine",
+    "pmid": "",
+    "doi": "10.22246/jikm.2023.44.5.1083",
+    "study_type": "",
+    "korean_medicine": "",
+    "human_study": "",
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "난치성 딸꾹질(intractable hiccup)",
+      "교통사고(traffic accident)",
+      "소시호탕(小柴胡湯)",
+      "한의 통합 치료(Korean medicine treatment)",
+      "약침(pharmacopuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  }
+]
