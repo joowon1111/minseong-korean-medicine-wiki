@@ -39,3 +39,9 @@ last_reviewed: '2026-08-23'
 
 → [고영향력 임상연구 참고문헌](https://wiki.minseong.co.kr/research/references/)
 <!-- MS52_LBP_END -->
+
+## 전침 최신 임상연구
+
+- **A Comparative Study on the Immediate Impact of Balance Meridian and Electro-Acupuncture on Individuals with Chronic Low Back Pain: A Randomized Controlled Trial** — 2026 무작위 대조시험에서는 만성 요통 환자에서 균형경락침법과 전침의 즉각적 영향을 비교했습니다. 통증과 요추 가동범위가 주요 임상 평가축으로 제시되었습니다. DOI `10.1177/19336586261419872`.
+
+이 연구는 만성 요통에서 전침을 직접 평가한 최근 임상시험으로, 기존 침 치료 근거와 구분하여 전침 치료의 임상연구 축으로 살펴볼 수 있습니다.
