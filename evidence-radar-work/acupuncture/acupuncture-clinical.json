@@ -1,0 +1,5790 @@
+[
+  {
+    "title": "Perforation of small intestine as a rare adverse event of acupuncture: a case report",
+    "published_date": "2026-03-16",
+    "journal": "International Journal of Emergency Medicine",
+    "pmid": "",
+    "doi": "10.1186/s12245-026-01164-7",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "鍼(침, acupuncture)",
+      "소장 천공(small intestine perforation)",
+      "복벽 탈장(abdominal wall hernia)",
+      "장폐색(intestine obstruction)",
+      "의원성 손상(iatrogenic injury)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Efficacy of Acupuncture Therapy Based on the Principles of Primary Point Selection, Local Point Selection, and Syndrome Differentiation in Rheumatoid Arthritis",
+    "published_date": "2025-04",
+    "journal": "International Journal of Rheumatic Diseases",
+    "pmid": "",
+    "doi": "10.1111/1756-185x.70226",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "침 치료(Acupuncture therapy)",
+      "변증시치(Syndrome Differentiation)",
+      "주혈(Primary point)",
+      "국소혈(Local point)",
+      "염증 지표(Inflammatory markers)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Home-based transcutaneous electrical acupuncture-point stimulation for depressive symptoms in inflammatory bowel disease: a randomized feasibility study",
+    "published_date": "2025-10-29",
+    "journal": "European Journal of Gastroenterology & Hepatology",
+    "pmid": "",
+    "doi": "10.1097/meg.0000000000003034",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "염증성 장질환(Inflammatory Bowel Disease, IBD)",
+      "경피전침자극(Transcutaneous Electrical Acupuncture-point Stimulation, TEAS)",
+      "우울 증상(Depressive symptoms)",
+      "가정 기반 치료(Home-based treatment)",
+      "실행 가능성 연구(Feasibility study)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Evaluating Electroacupuncture Assessment Strategies for Mild Cognitive Impairment: A Scoping Review",
+    "published_date": "2025-09",
+    "journal": "대한한방내과학회지",
+    "pmid": "",
+    "doi": "10.22246/jikm.2025.46.4.610",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "경도인지장애(Mild Cognitive Impairment)",
+      "電鍼(전침, Electroacupuncture)",
+      "평가 도구(Assessment Tools)",
+      "범위 검토(Scoping Review)",
+      "인지 기능(Cognitive Function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Short-Term Pain Relief from Electroacupuncture and Electroceutical Stimulation at ST36 and SP9 in Cancer Patients: A Retrospective Case Series",
+    "published_date": "2025-06",
+    "journal": "대한한방내과학회지",
+    "pmid": "",
+    "doi": "10.22246/jikm.2025.46.3.502",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "電鍼(전침, Electroacupuncture)",
+      "Electroceutical stimulation",
+      "足三里(족삼리, ST36)",
+      "陰陵泉(음릉천, SP9)",
+      "암성 통증 (Cancer pain)",
+      "화학요법 유발 통증 (Chemotherapy-induced pain)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of acupuncture on mild cognitive impairment via the microbiota-gut-brain axis: a systematic review.",
+    "published_date": "2026",
+    "journal": "Frontiers in neuroscience",
+    "pmid": "42614390",
+    "doi": "10.3389/fnins.2026.1867545",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "경도인지장애(Mild Cognitive Impairment, MCI)",
+      "침(Acupuncture, 鍼)",
+      "장-뇌 축(Microbiota-Gut-Brain Axis, MGB axis)",
+      "장내 미생물(Gut Microbiota)",
+      "신경염증(Neuroinflammation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Study Protocol for Multi-Center, Open-Label, Randomized Controlled Trial for Assessing the Efficacy and Safety of Electroacupuncture for Cold Hypersensitivity in Hands and Feet",
+    "published_date": "2025-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.1.47",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "수족냉증(Cold Hypersensitivity in Hands and Feet)",
+      "전침(電鍼, Electroacupuncture)",
+      "침(鍼, Acupuncture)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Management of Perennial Allergic Rhinitis Complicated by Rhinosinusitis Using Ultrasound-Guided Sphenopalatine Ganglion Acupuncture and Modified Socheongryong-tang: two CARE-compliant case reports",
+    "published_date": "2025-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.2.154",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "J30",
+        "label": "알레르기비염",
+        "status": "candidate",
+        "archive_path": "conditions/allergic-rhinitis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "알레르기 비염(Allergic Rhinitis)",
+      "부비동염(Rhinosinusitis)",
+      "소청룡탕(小靑龍湯)",
+      "접형구개신경절(Sphenopalatine Ganglion)",
+      "초음파 유도하 침 치료(Ultrasound-guided acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.301",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "안구건조증(Dry Eye Disease)",
+      "피내침(Intradermal Acupuncture)",
+      "체침(Body Acupuncture)",
+      "안구표면질환지수(OSDI)",
+      "쉬르머 검사(Schirmer test)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case of Invasive Rhino-Orbito-Cerebral Mucormycosis After Acupuncture Therapy for Bell’s Palsy",
+    "published_date": "2025-01",
+    "journal": "대한이비인후-두경부외과학회지",
+    "pmid": "",
+    "doi": "10.3342/kjorl-hns.2024.00122",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "무코르균증(Mucormycosis)",
+      "비강-안와-뇌 무코르균증(Rhino-orbito-cerebral mucormycosis)",
+      "鍼(침, acupuncture)",
+      "벨마비(Bell's palsy)",
+      "면역저하(Immunosuppression)",
+      "감염(Infection)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effects of Acupuncture on Crohn’s Disease: a systematic review and meta-analysis",
+    "published_date": "2023-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2023.26.3.211",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "크론병(Crohn's disease)",
+      "鍼(침, acupuncture)",
+      "灸(뜸, moxibustion)",
+      "염증성 장질환(Inflammatory bowel disease)",
+      "크론병 활성도 지수(CDAI)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture for Attenuating Frontal Lobe α Band Asymmetry Induced by Anger: a pilot study",
+    "published_date": "2023-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2023.26.3.276",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "鍼(침, acupuncture)",
+      "분노(Anger)",
+      "전두엽 α-대역 비대칭성(Frontal Lobe α Band Asymmetry)",
+      "뇌파(EEG)",
+      "풍지혈(GB20)",
+      "견정혈(GB21)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacoacupuncture for the Treatment of Frozen Shoulder: protocol for a systematic review and meta-analysis",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.14",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M75.0",
+        "label": "유착성관절낭염",
+        "status": "candidate",
+        "archive_path": "conditions/frozen-shoulder/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "오십견(Frozen Shoulder)",
+      "약침(Pharmacoacupuncture)",
+      "한의학(Traditional Korean Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of Biodegradable Microneedle Acupuncture in Mild to Moderate Atopic Dermatitis: a single-blinded randomized controlled pilot trial",
+    "published_date": "2025-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.1.69",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "아토피 피부염(Atopic Dermatitis)",
+      "생분해성 마이크로니들 침(Biodegradable Microneedle Acupuncture)",
+      "피내침(Intradermal Acupuncture)",
+      "곡지(曲池, LI11)",
+      "족삼리(足三里, ST36)",
+      "내관(內關, PC6)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparison of the Safety and Efficacy of Biodegradable Microneedle Acupuncture and Sterile Acupuncture: study protocol for a prospective, confirmatory, superiority, multicenter, parallel, single-blinded randomized controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.386",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "생분해성 마이크로니들 침(Biodegradable Microneedle Acupuncture)",
+      "멸균 침(Sterile Acupuncture)",
+      "안구건조증(Dry eye disease)",
+      "안전성(Safety)",
+      "이상반응(Adverse Events)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Efficacy of Acupuncture and Bee Venom Injections in Improving Hearing in a Patient with Idiopathic Conductive Hearing Loss: a case report",
+    "published_date": "2026-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.2.233",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "전음성 난청(Conductive Hearing Loss)",
+      "침(鍼, acupuncture)",
+      "봉침(蜂鍼, bee venom injection)",
+      "특발성(Idiopathic)",
+      "청력 개선(Hearing improvement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy and Safety of Acupuncture for Anxiety Disorders in Adults: A Systematic Review and Meta-Analysis.",
+    "published_date": "2026-08",
+    "journal": "Psychiatry investigation",
+    "pmid": "42613003",
+    "doi": "10.30773/pi.2025.0437",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "침(鍼, acupuncture)",
+      "불안 장애 (Anxiety disorders)",
+      "성인 (Adults)",
+      "체계적 문헌고찰 (Systematic review)",
+      "메타분석 (Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparative Efficacy of Body Acupuncture, Electroacupuncture, and Auricular Acupuncture in Stroke Rehabilitation",
+    "published_date": "2026-08-18",
+    "journal": "American Journal of Physical Medicine & Rehabilitation",
+    "pmid": "",
+    "doi": "10.1097/phm.0000000000003129",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 (Stroke)",
+      "전침 (Electroacupuncture)",
+      "체침 (Body acupuncture)",
+      "이침 (Auricular acupuncture)",
+      "재활 (Rehabilitation)",
+      "운동 기능 (Motor function)",
+      "망상메타분석 (Network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Impact of Early Acupuncture on Bell’s Palsy Recurrence: Real-World Evidence from Korea",
+    "published_date": "2023-12-11",
+    "journal": "Healthcare",
+    "pmid": "",
+    "doi": "10.3390/healthcare11243143",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "벨마비(Bell's palsy)",
+      "鍼(침, acupuncture)",
+      "재발(recurrence)",
+      "국민건강보험공단 데이터(National Health Insurance database)",
+      "스테로이드(steroids)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Horizontal semicircular canal benign paroxysmal positional vertigo treated by acupuncture and moxibustion: A case report",
+    "published_date": "2023-11-24",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000036032",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "수평반고리관 양성 발작성 체위성 현훈(Horizontal semicircular canal benign paroxysmal positional vertigo, HSC-BPPV)",
+      "침(鍼, acupuncture)",
+      "뜸(灸, moxibustion)",
+      "밀알뜸(Wheat grain moxibustion)",
+      "현훈(Vertigo)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Fu’s subcutaneous needling: a traditional acupuncture radiating new therapeutic potentials",
+    "published_date": "2026-07-10",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1846486",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 6,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "부씨 피하 자침법(Fu's subcutaneous needling, FSN)",
+      "피하 자침(subcutaneous needling)",
+      "통증 관리(pain management)",
+      "하부 위장관 질환(lower gastrointestinal disorders)",
+      "신경-내분비-면역 네트워크(neuro-endocrine-immune network)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "External treatment methods of Traditional Chinese Medicine for Insomnia in Patients with hypertension: Network Meta-analysis",
+    "published_date": "2025-06-17",
+    "journal": "Seminars in Medical Writing and Education",
+    "pmid": "",
+    "doi": "10.56294/mw2025459",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "고혈압(hypertension)",
+      "불면증(insomnia)",
+      "鍼(침, acupuncture)",
+      "지압(acupressure)",
+      "拔罐(발관, cupping)",
+      "망상메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparative efficacy of combined and single neuromuscular electrical stimulation and traditional swallowing training for neurogenic dysphagia: a network meta-analysis",
+    "published_date": "2025-12-03",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1700317",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "신경성 연하장애(Neurogenic dysphagia)",
+      "신경근 전기자극(NMES, Neuromuscular Electrical Stimulation)",
+      "전통적 연하 훈련(TST, Traditional Swallowing Training)",
+      "침술(鍼術, Acupuncture)",
+      "망상 메타분석(Network Meta-analysis)",
+      "흡인(Aspiration)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Traditional Medicine in the Treatment and Reduction of Back Pain: A Systematic Review",
+    "published_date": "2025-10-07",
+    "journal": "Jundishapur Journal of Chronic Disease Care",
+    "pmid": "",
+    "doi": "10.5812/jjcdc-161722",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "보완대체요법(Complementary and Alternative Medicine)",
+      "鍼(침, acupuncture)",
+      "推拿(추나, Tuina)",
+      "刮痧(괄사, Gua Sha)",
+      "태극권(Tai Chi)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Viability of Superbrain Yoga Practise in Academic Setting: A Systematic\nReview",
+    "published_date": "2024-12",
+    "journal": "Current Traditional Medicine",
+    "pmid": "",
+    "doi": "10.2174/2215083810666230830125242",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": false,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "Superbrain Yoga (슈퍼브레인 요가)",
+      "Cognitive function (인지 기능)",
+      "Academic performance (학업 성취도)",
+      "Mental health (정신 건강)",
+      "Ear acupuncture (이침, 耳鍼)",
+      "Student health (학생 건강)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture combined with intratympanic dexamethasone for sudden sensorineural hearing loss: a randomized controlled trial",
+    "published_date": "2026-02-13",
+    "journal": "QJM: An International Journal of Medicine",
+    "pmid": "",
+    "doi": "10.1093/qjmed/hcag021",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "갑작스러운 감각신경성 난청(Sudden Sensorineural Hearing Loss, SSNHL)",
+      "鍼(침, Acupuncture)",
+      "고실 내 덱사메타손(Intratympanic Dexamethasone, ITD)",
+      "순음평균(Pure Tone Average, PTA)",
+      "병용요법(Combination Therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of Traditional Chinese Medicine Rehabilitation Program on Knee Osteoarthritis in Aging Population: A Multicenter Randomized Controlled Trial",
+    "published_date": "2025-08",
+    "journal": "International Journal of Rheumatic Diseases",
+    "pmid": "",
+    "doi": "10.1111/1756-185x.70398",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M17",
+        "label": "무릎 골관절염",
+        "status": "candidate",
+        "archive_path": "conditions/knee-osteoarthritis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "Knee Osteoarthritis (무릎 골관절염)",
+      "Traditional Chinese Medicine (중의학/한의학)",
+      "Acupuncture (鍼, 침)",
+      "Rehabilitation (재활)",
+      "Aging Population (노인 인구)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Research Progress of Traditional Chinese Medicine in Adjuvant Treatment of Type 1 Diabetes",
+    "published_date": "2025-05-08",
+    "journal": "Phytotherapy Research",
+    "pmid": "",
+    "doi": "10.1002/ptr.8514",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "제1형 당뇨병(Type 1 Diabetes Mellitus)",
+      "한방 치료(Traditional Chinese Medicine)",
+      "인슐린 저항성(Insulin resistance)",
+      "침(Acupuncture)",
+      "뜸(Moxibustion)",
+      "중약(Chinese herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Analysis of Traditional Chinese Medicine and Western Medicine in Ankle Sprain and Fracture Treatment",
+    "published_date": "2025-09-09",
+    "journal": "Theoretical and Natural Science",
+    "pmid": "",
+    "doi": "10.54254/2753-8818/2025.au26780",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "발목 염좌(Ankle sprain)",
+      "발목 골절(Ankle fracture)",
+      "중의학(TCM, Traditional Chinese Medicine)",
+      "서양의학(Western Medicine)",
+      "통합 의학(Integrative Medicine)",
+      "침(鍼, acupuncture)",
+      "뜸(灸, moxibustion)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Timing and Dose Effect of Acupuncture on Pregnancy Outcomes for Infertile Women Undergoing In Vitro Fertilization and Embryo Transfer: A Systematic Review and Meta-Analysis",
+    "published_date": "2024-11",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1089/jicm.2023.0478",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "체외수정(IVF)",
+      "배아이식(Embryo Transfer)",
+      "침 치료(Acupuncture, 鍼)",
+      "임신율(Pregnancy Rate)",
+      "생존아 출생률(Live Birth Rate)",
+      "과배란 유도(Controlled Ovarian Hyperstimulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Safety and Effectiveness of Electroacupuncture for Labor Pain Relief: a Systematic Review and Meta-Analysis",
+    "published_date": "2025-02-28",
+    "journal": "Perspectives on Integrative Medicine",
+    "pmid": "",
+    "doi": "10.56986/pim.2025.02.002",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "分娩痛(분만통, Labor pain)",
+      "電鍼(전침, Electroacupuncture)",
+      "분만 기간(Labor duration)",
+      "안전성(Safety)",
+      "효과(Effectiveness)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Role of Battlefield Acupuncture in Emergency Department Settings: A Systematic Review of Randomized Controlled Trials",
+    "published_date": "2026-03-26",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1177/27683605261435756",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "전장침(Battlefield Acupuncture, BFA)",
+      "응급실(Emergency Department)",
+      "통증 관리(Pain Management)",
+      "침술(Acupuncture, 鍼術)",
+      "체계적 문헌고찰(Systematic Review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Is Acupuncture an Effective Treatment for Radiation-Induced Xerostomia of Patients with Head and Neck Cancer? A Systematic Review and Meta-Analysis",
+    "published_date": "2025-05",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1089/jicm.2023.0781",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "두경부암(Head and Neck Cancer)",
+      "방사선 유발 구강건조증(Radiation-Induced Xerostomia)",
+      "鍼(침, Acupuncture)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-Analysis)",
+      "타액 분비율(Salivary flow rate)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "INTEGRATIVE APPROACHES IN THE MANAGEMENT OF CHRONIC PAIN: A SYSTEMATIC REVIEW OF COMPLEMENTARY AND ALTERNATIVE MEDICINE THERAPIES.",
+    "published_date": "2024-03-31",
+    "journal": "Student's Journal of Health Research Africa",
+    "pmid": "",
+    "doi": "10.51168/sjhrafrica.v5i3.1040",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "만성 통증(Chronic Pain)",
+      "보완통합의학(CIM)",
+      "鍼(침, acupuncture)",
+      "심신 중재술(mind-body interventions)",
+      "삶의 질(Quality of Life)",
+      "통합 의료(Integrative Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Manual Acupuncture for Postoperative Pain and Recovery after Abdominal Surgeries: A Systematic Review",
+    "published_date": "2025-01-31",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1089/jicm.2023.0750",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "침치료(鍼治療, Acupuncture)",
+      "복부 수술(Abdominal surgery)",
+      "수술 후 통증(Postoperative pain)",
+      "위장관 회복(GI recovery)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness and Safety of Acupuncture for Cancer-Related Cognitive Impairment: A Systematic Review and Meta-Analysis",
+    "published_date": "2026-04-01",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1177/27683605261436293",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "암 관련 인지 기능 장애(Cancer-Related Cognitive Impairment, CRCI)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "인지 기능(Cognitive Function)",
+      "수술 후 인지 기능 장애(Postoperative Cognitive Dysfunction, POCD)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-Analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of Acupuncture on Labor Progression in Term Pregnancies with Prelabor Rupture of Membranes: A Randomized Controlled Trial",
+    "published_date": "2025-09-30",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1177/27683605251382855",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "양막 파수 (Prelabor Rupture of Membranes, PROM)",
+      "鍼(침, Acupuncture)",
+      "유도 분만 (Labor Induction)",
+      "분만 진행 (Labor Progression)",
+      "만삭 임신 (Term Pregnancy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Open-Label Randomized Clinical Trial to Assess the Effects of Preoperative Acupuncture in High Anxiety Patients Undergoing Total Knee or Hip Arthroplasty",
+    "published_date": "2025-01-31",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1089/jicm.2024.0314",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "鍼(침, acupuncture)",
+      "수술 전 불안(Preoperative anxiety)",
+      "인공관절 치환술(Total joint arthroplasty)",
+      "수술 후 통증(Postoperative pain)",
+      "정형외과 수술(Orthopedic surgery)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture Treatment for Individuals With Myasthenia Gravis – A Pilot Randomized Clinical Trial",
+    "published_date": "2025-08",
+    "journal": "Global Advances in Integrative Medicine and Health",
+    "pmid": "",
+    "doi": "10.1177/27536130251375341",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "중증근무력증(Myasthenia Gravis)",
+      "鍼(침, acupuncture)",
+      "안전성(Safety)",
+      "타당성(Feasibility)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Recruitment and Retention for an Acupuncture Trial in an Underrepresented 65 and Older Population With Chronic Low Back Pain",
+    "published_date": "2025-05-09",
+    "journal": "Global Advances in Integrative Medicine and Health",
+    "pmid": "",
+    "doi": "10.1177/27536130251340921",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "침 치료(鍼, Acupuncture)",
+      "만성 요통(Chronic Low Back Pain)",
+      "노인(Older Adults)",
+      "소외 계층(Underrepresented Population)",
+      "환자 모집(Recruitment)",
+      "환자 유지(Retention)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Knee and Hip Osteoarthritis Integrative Care in an Academic Medicine Pain Center: A Clinical Case Series During COVID-19",
+    "published_date": "2025-01",
+    "journal": "Integrative Medicine Reports",
+    "pmid": "",
+    "doi": "10.1177/27683222251378071",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "골관절염(Osteoarthritis)",
+      "통합의료(Integrative Care)",
+      "침술(Acupuncture, 鍼)",
+      "통증 관리(Pain Management)",
+      "COVID-19",
+      "가상 진료(Virtual Visit)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of Comprehensive and Integrative Medical Service on Patients with Degenerative Lumbar Spinal Stenosis: A Randomized Control Clinical Trial",
+    "published_date": "2023-10-25",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.20944/preprints202310.1604.v1",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M48.06",
+        "label": "요추 척추관협착증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-spinal-stenosis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "퇴행성 요추 척추관 협착증(Degenerative Lumbar Spinal Stenosis)",
+      "통합 의료 서비스(Comprehensive and Integrative Medical Services)",
+      "鍼(침, acupuncture)",
+      "수기요법(Manual therapy)",
+      "시각적 아날로그 척도(Visual Analog Scale)",
+      "Oswestry 장애 지수(Oswestry Disability Index)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "TCM-Based Integrative Medicine for Sjögren's Syndrome: Bridging Traditional Wisdom and Modern Healthcare",
+    "published_date": "2025-10-19",
+    "journal": "Frontiers in Preventive Medicine",
+    "pmid": "",
+    "doi": "10.64904/fpm25009",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "쇼그렌 증후군(Sjögren's syndrome)",
+      "중의학(TCM)",
+      "통합의학(Integrative Medicine)",
+      "鍼(침, acupuncture)",
+      "한약(Herbal medicine)",
+      "면역 조절(Immunomodulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "“The Evidence I Need Is Change in a Child” Healthcare Provider Perspectives on Acupuncture Therapy for Children Diagnosed With Autism Spectrum Disorder (ASD): An Interpretive Description",
+    "published_date": "2026-05",
+    "journal": "Global Advances in Integrative Medicine and Health",
+    "pmid": "",
+    "doi": "10.1177/27536130261448873",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "자폐 스펙트럼 장애(Autism Spectrum Disorder)",
+      "鍼(침, acupuncture)",
+      "레이저 침(laser acupuncture)",
+      "의료 제공자 관점(Healthcare provider perspectives)",
+      "통합 의학(Integrative medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Efficacy of Integrative Medicine in Managing  Chronic Pain",
+    "published_date": "2023-08-31",
+    "journal": "Advances in Healthcare Research",
+    "pmid": "",
+    "doi": "10.60079/ahr.v1i2.358",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "만성 통증(Chronic Pain)",
+      "통합 의학(Integrative Medicine)",
+      "鍼(침, acupuncture)",
+      "마음챙김 기반 스트레스 감소(Mindfulness-Based Stress Reduction)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Nonpharmacologic Back Pain Treatment Use and Associated Patient Reported Outcomes in US-Based Integrative Medicine Clinics",
+    "published_date": "2025-06-02",
+    "journal": "Global Advances in Integrative Medicine and Health",
+    "pmid": "",
+    "doi": "10.1177/27536130251345481",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "요통(Low Back Pain)",
+      "통합의학(Integrative Medicine)",
+      "鍼(침, acupuncture)",
+      "비약물적 치료(Nonpharmacologic treatment)",
+      "환자 보고 결과(Patient Reported Outcomes)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Cost Sharing for Acupuncture Therapy in Commercial Insurance Plans",
+    "published_date": "2025-07",
+    "journal": "Global Advances in Integrative Medicine and Health",
+    "pmid": "",
+    "doi": "10.1177/27536130251363903",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": false,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "鍼(침, Acupuncture)",
+      "비용 분담(Cost sharing)",
+      "건강보험(Health Insurance)",
+      "의료 이용률(Healthcare utilization)",
+      "본인부담금(Copayment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Experiences with complementary and integrative medicine in mental healthcare: a qualitative substudy of the PSYKIM project",
+    "published_date": "2025-09-02",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1629436",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "보완통합의학(Complementary and Integrative Medicine, CIM)",
+      "정신건강(Mental Health)",
+      "질적 연구(Qualitative Research)",
+      "鍼(침, acupuncture)",
+      "요가(Yoga)",
+      "명상(Meditation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Complementary and Alternative Medicine (CAM) Practices: A Narrative Review Elucidating the Impact on Healthcare Systems, Mechanisms and Paediatric Applications",
+    "published_date": "2024-08-05",
+    "journal": "Healthcare",
+    "pmid": "",
+    "doi": "10.3390/healthcare12151547",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "보완대체요법(Complementary and Alternative Medicine, CAM)",
+      "소아과(Paediatrics)",
+      "침술(Acupuncture)",
+      "한약(Herbal medicine)",
+      "통합의료(Integrated healthcare)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Complementary and Alternative Medicine (CAM) Practices: Elucidating the Impact on Healthcare Systems, Mechanisms, and Paediatric Applications.",
+    "published_date": "2024-05-13",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.20944/preprints202405.0742.v1",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "보완대체의학(CAM)",
+      "소아(Paediatric)",
+      "鍼(침, Acupuncture)",
+      "藥草(약초, Herbal medicine)",
+      "통합의료(Integrated medicine)",
+      "정신건강(Mental health)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Use of Complementary and Alternative Treatments in Adolescent Obesity: A Narrative Review",
+    "published_date": "2024-12-05",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.20944/preprints202412.0431.v1",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "청소년 비만 (Adolescent obesity)",
+      "보완대체의학 (Complementary and Alternative Medicine, CAM)",
+      "鍼(침, acupuncture)",
+      "胎陰助胃湯(태음조위탕, Tae-umjowi-tang)",
+      "요가 (yoga)",
+      "체질량지수 (BMI)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Complementary and Alternative Medicine for Menopausal Symptoms Management",
+    "published_date": "2024-03-18",
+    "journal": "International Journal of Science and Healthcare Research",
+    "pmid": "",
+    "doi": "10.52403/ijshr.20240117",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "폐경 (Menopause)",
+      "폐경 후 (Post-menopause)",
+      "보완대체요법 (Complementary and Alternative Medicine)",
+      "鍼(침, acupuncture)",
+      "전통 중의학 (Traditional Chinese Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture as a Complementary Treatment Modality in the Post-Anesthesia Care Setting: A Feasibility Study",
+    "published_date": "2024-08",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1089/jicm.2023.0168",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "鍼(침, Acupuncture)",
+      "마취후 회복실(PACU)",
+      "수술 후 통증(Postoperative pain)",
+      "수술 후 구역 및 구토(PONV)",
+      "보완요법(Complementary treatment)",
+      "실행 가능성(Feasibility)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "EFFECTIVENESS OF ACUPUNCTURE IN THE TREATMENT OF CHRONIC LOW BACK PAIN (LBP): LITERATURE REVIEW",
+    "published_date": "2024-03-10",
+    "journal": "International Journal of Islamic and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.55116/ijicm.v5i1.73",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "鍼(침, acupuncture)",
+      "통증 완화(Pain relief)",
+      "기능 개선(Functional improvement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness of TCM Treatment for Intractable Chronic Diseases: Case Report",
+    "published_date": "2025-09-10",
+    "journal": "Asian Journal of Complementary and Alternative Medicine",
+    "pmid": "",
+    "doi": "10.53043/2347-3894.acam13006",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "중의학(TCM)",
+      "난치성 질환(Intractable diseases)",
+      "鍼(침, acupuncture)",
+      "식료법(food therapy)",
+      "경피적 전기신경자극치료(TEAS)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A closer look at the complementary benefits of acupuncture in the treatment of male infertility",
+    "published_date": "2026",
+    "journal": "International Journal of Complementary & Alternative Medicine",
+    "pmid": "",
+    "doi": "10.15406/ijcam.2026.19.00773",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "남성 불임 (Male infertility)",
+      "침술 (鍼術, Acupuncture)",
+      "보완 요법 (Complementary therapy)",
+      "보조 생식 기술 (Assisted reproductive techniques, ART)",
+      "전통 의학 (Traditional medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Importance of Histology in Complementary Medicine",
+    "published_date": "2024-06-17",
+    "journal": "Complementary Medicine with New Approaches",
+    "pmid": "",
+    "doi": "10.69860/nobel.9786053359418.13",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "組織學(조직학, Histology)",
+      "補完代替醫學(보완대체의학, Complementary and Alternative Medicine)",
+      "鍼(침, Acupuncture)",
+      "植物療法(식물요법, Phytotherapy)",
+      "組織再生(조직재생, Tissue regeneration)",
+      "抗炎症(항염증, Anti-inflammatory)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Role of Oriental Medicine Methods in Complex Rehabilitation of Patients with Neuropsychological Manifestations of Post-Covid Syndrome",
+    "published_date": "2024-10-03",
+    "journal": "Рецепт",
+    "pmid": "",
+    "doi": "10.34883/pi.2024.27.4.012",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "포스트 코로나 증후군(Post-Covid Syndrome)",
+      "침술(鍼術, Acupuncture)",
+      "동양 체조(Oriental gymnastics)",
+      "신경심리학적 증상(Neuropsychological manifestations)",
+      "복합 재활(Complex rehabilitation)",
+      "요가(Yoga)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of acupuncture on pain and substance P levels in middle-aged women with chronic neck pain",
+    "published_date": "2023-10-19",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2023.1267952",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54.2",
+        "label": "경부통",
+        "status": "candidate",
+        "archive_path": "conditions/neck-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "만성 경부통(Chronic neck pain)",
+      "침 치료(Acupuncture)",
+      "Substance P",
+      "시각적 아날로그 척도(VAS)",
+      "경추 기능 장애 지수(NDI)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture for patients with insomnia and predictors of treatment response: a chart review",
+    "published_date": "2023-12-30",
+    "journal": "Acupuncture in Medicine",
+    "pmid": "",
+    "doi": "10.1177/09645284231210582",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "불면증(Insomnia)",
+      "침 치료(Acupuncture)",
+      "Insomnia Severity Index(ISI)",
+      "Pittsburgh Sleep Quality Index(PSQI)",
+      "치료 반응 예측 인자(Predictors of treatment response)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture-Related Therapies for Primary Dysmenorrhea: A Systematic Review and Network Meta-Analysis",
+    "published_date": "2025-10-07",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1177/27683605251382169",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "원발성 생리통(Primary Dysmenorrhea)",
+      "침 치료(Acupuncture)",
+      "매선(Acupoint Catgut Embedding)",
+      "뜸(Moxibustion)",
+      "네트워크 메타분석(Network Meta-Analysis)",
+      "프로스타글란딘(Prostaglandins)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Efficacy of Neuropuncture™ Electrical Acupuncture Treatment of Patients with Parkinson’s Disease",
+    "published_date": "2025-06-30",
+    "journal": "Journal of Clinical Research and Case Studies",
+    "pmid": "",
+    "doi": "10.61440/jcrcs.2025.v3.76",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "파킨슨병(Parkinson’s Disease)",
+      "전침(電鍼, electrical acupuncture)",
+      "Neuropuncture™",
+      "통합 파킨슨병 등급 척도(UPDRS)",
+      "도파민(Dopamine)",
+      "신경 재활(Neuro-rehabilitation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture for patients with mild cognitive impairment: a randomized, patient–assessor-blinded, sham-controlled pilot study",
+    "published_date": "2025-07-19",
+    "journal": "BMC Complementary Medicine and Therapies",
+    "pmid": "",
+    "doi": "10.1186/s12906-025-05023-5",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "sham acupuncture",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "경도인지장애(Mild Cognitive Impairment)",
+      "침 치료(Acupuncture)",
+      "가짜 침(Sham acupuncture)",
+      "인지 기능(Cognitive function)",
+      "ADAS-cog",
+      "SNSB-II"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Different Outcomes According to Needling Point Location Used in Sham Acupuncture for Cancer-Related Pain: A Systematic Review and Network Meta-Analysis",
+    "published_date": "2023-12-17",
+    "journal": "Cancers",
+    "pmid": "",
+    "doi": "10.3390/cancers15245875",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "sham acupuncture",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "암성 통증(Cancer-related pain)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "가짜 침(Sham acupuncture)",
+      "네트워크 메타분석(Network Meta-Analysis)",
+      "위약 효과(Placebo effect)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Knowledge, Attitudes, and Behaviors of Medical Residents towards Traditional and Complementary Medicine: A Cross-sectional Study",
+    "published_date": "2024-04-29",
+    "journal": "International Journal of Traditional and Complementary Medicine Research",
+    "pmid": "",
+    "doi": "10.53811/ijtcmr.1397656",
+    "study_type": "Cross-sectional study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "전통 및 보완의학(Traditional and Complementary Medicine)",
+      "전공의(Medical Residents)",
+      "인식도(Knowledge)",
+      "태도(Attitude)",
+      "행동(Behavior)",
+      "부항요법(Cupping therapy)",
+      "약용식물요법(Phytotherapy)",
+      "침술(Acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparative Study: The Effectiveness of Acupuncture, Acupressure, and Aromatherapy in Overcoming Nausea Vomiting in First Trimester Pregnant Women",
+    "published_date": "2023-12-31",
+    "journal": "Asian Journal of Health and Applied Sciences",
+    "pmid": "",
+    "doi": "10.53402/ajhas.v2i3.351",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "임신 오심 및 구토(Nausea and Vomiting of Pregnancy)",
+      "침 치료(Acupuncture)",
+      "지압(Acupressure)",
+      "아로마테라피(Aromatherapy)",
+      "내관혈(內關穴, P6)",
+      "임신 초기(First Trimester)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of Electro acupuncture for Intestinal Paralysis after Laparoscopic Cholecystectomy: A Case Report and Literature Review",
+    "published_date": "2023-09-19",
+    "journal": "Journal on Surgery",
+    "pmid": "",
+    "doi": "10.52768/2691-7785/1118",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "복강경 담낭절제술(Laparoscopic Cholecystectomy)",
+      "수술 후 장마비(Postoperative Ileus, POI)",
+      "전침(電鍼, Electroacupuncture)",
+      "위장관 운동성(Gastrointestinal dynamics)",
+      "복통(Abdominal pain)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture Treatment in Prolapsed Lumbar Intervertebral Disease (PLID): A Case Study at a Acupuncture Specialized Hospital in Bangladesh",
+    "published_date": "2024-11-05",
+    "journal": "Middle East Research Journal of Medical Sciences",
+    "pmid": "",
+    "doi": "10.36348/merjms.2024.v04i06.001",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "추간판 탈출증(Prolapsed Lumbar Intervertebral Disease, PLID)",
+      "요통(Lower back pain)",
+      "침 치료(Acupuncture)",
+      "좌골신경통(Sciatica)",
+      "사례 보고(Case report)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture Combined with Banxia Baizhu Tianma Tang for Cervical Vertigo",
+    "published_date": "2026-05-21",
+    "journal": "Current Traditional Medicine",
+    "pmid": "",
+    "doi": "10.2174/0122150838444066260518051226",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "경성 현훈(Cervical Vertigo)",
+      "鍼(침, acupuncture)",
+      "半夏白朮天麻湯(반하백출천마탕, Banxia Baizhu Tianma Tang)",
+      "椎骨基底動脈(추골기저동맥, Vertebrobasilar artery)",
+      "혈류 속도(Blood flow velocity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effectiveness of Traditional Acupuncture in the Complex Treatment of Herniated Intervertebral Discs",
+    "published_date": "2025-04-19",
+    "journal": "Bulletin of Rehabilitation Medicine",
+    "pmid": "",
+    "doi": "10.38025/2078-1962-2025-24-2-45-55",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "추간판 탈출증(Herniated Intervertebral Discs)",
+      "鍼(침, Acupuncture)",
+      "灸(뜸, Moxibustion)",
+      "이침(Auricular Acupuncture)",
+      "통증 완화(Pain relief)",
+      "추간판 흡수(Hernia resorption)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A systematic review and meta-analysis of acupuncture for De Quervain’s tenosynovitis treatment",
+    "published_date": "2024-06-26",
+    "journal": "Postgraduate Medical Journal",
+    "pmid": "",
+    "doi": "10.1093/postmj/qgae057",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54.2",
+        "label": "경부통",
+        "status": "candidate",
+        "archive_path": "conditions/neck-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "드퀘르벵 건초염(De Quervain’s tenosynovitis)",
+      "침(鍼, acupuncture)",
+      "손목 통증(Wrist pain)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture for constipation in Parkinson’s disease: A systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2024-07-19",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000038937",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "파킨슨병(Parkinson’s disease)",
+      "변비(Constipation)",
+      "침 치료(Acupuncture, 鍼)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The durable effect of acupuncture for episodic migraine: a systematic review and meta-analysis",
+    "published_date": "2023-09-08",
+    "journal": "Frontiers in Neuroscience",
+    "pmid": "",
+    "doi": "10.3389/fnins.2023.1211438",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G43",
+        "label": "편두통",
+        "status": "candidate",
+        "archive_path": "conditions/migraine/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "편두통(Migraine)",
+      "鍼(침, Acupuncture)",
+      "지속 효과(Durable effect)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrated acupuncture-pharmacotherapy for perimenopausal insomnia: a systematic review and meta-analysis",
+    "published_date": "2025-08-20",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1633794",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "갱년기 불면증(Perimenopausal insomnia)",
+      "침술(Acupuncture, 鍼)",
+      "약물 요법(Pharmacotherapy, 藥物療法)",
+      "통합 의학(Integrative medicine)",
+      "수면의 질(Sleep quality)",
+      "호르몬 조절(Hormonal regulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The efficacy of acupuncture on endometrial receptivity in infertile women: an overview of systematic review and meta-analysis",
+    "published_date": "2025-08-28",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1609519",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "침 치료 (Acupuncture therapy)",
+      "자궁내막 수용성 (Endometrial receptivity)",
+      "불임 (Infertility)",
+      "체계적 문헌고찰 (Systematic review)",
+      "임신율 (Pregnancy rate)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture or moxibustion adjuvant chemotherapy for advanced non-small cell lung cancer: Systematic review and network meta-analysis",
+    "published_date": "2023-10-20",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000035000",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "비소세포폐암(Non-Small Cell Lung Cancer)",
+      "鍼(침, Acupuncture)",
+      "灸(뜸, Moxibustion)",
+      "화학요법(Chemotherapy)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "KPS score"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Application of acupuncture and moxibustion for tic disorders: An overview of systematic reviews and meta-analysis",
+    "published_date": "2025-12-12",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000046506",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "틱 장애(Tic Disorder)",
+      "鍼(침, acupuncture)",
+      "灸(뜸, moxibustion)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)",
+      "Overview"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The efficacy and safety of acupuncture for Parkinson’s disease insomnia: a systematic review and meta-analysis",
+    "published_date": "2025-11-03",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1697481",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "파킨슨병(Parkinson’s disease)",
+      "불면증(Insomnia)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "수면 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The efficacy of acupuncture and related treatments on chronic pelvic inflammatory disease: a network meta-analysis",
+    "published_date": "2026-01-12",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1731543",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "만성 골반 염증성 질환(Chronic Pelvic Inflammatory Disease)",
+      "침(鍼, acupuncture)",
+      "뜸(灸, moxibustion)",
+      "부항(cupping)",
+      "네트워크 메타분석(Network Meta-Analysis)",
+      "염증 인자(Inflammatory factors)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Meta-Analysis of Efficacy and Safety of Mongolian Medical Warm Acupuncture in the Treatment of Lumbar Disc Herniation",
+    "published_date": "2024-06-24",
+    "journal": "Journal of Clinical and Nursing Research",
+    "pmid": "",
+    "doi": "10.26689/jcnr.v8i5.7334",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M51.1",
+        "label": "요추 추간판탈출증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-disc-herniation/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "요추 추간판 탈출증(Lumbar Disc Herniation)",
+      "온침(Warm Acupuncture)",
+      "몽골 의학(Mongolian Medicine)",
+      "메타분석(Meta-Analysis)",
+      "침술(Acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Sleep and endocrine effects of acupuncture for insomnia: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2026-04-07",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1807826",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "불면증(Insomnia)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "멜라토닌(Melatonin)",
+      "코르티솔(Cortisol)",
+      "수면다원검사(Polysomnography)",
+      "내분비 조절(Endocrine regulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The efficacy of acupuncture treatment for fibromyalgia syndrome: a systematic review and meta-analysis",
+    "published_date": "2026-01-16",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1710642",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "섬유근육통 증후군(Fibromyalgia Syndrome)",
+      "鍼(침, acupuncture)",
+      "통증 완화(Pain relief)",
+      "섬유근육통 영향 설문지(FIQ)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of different acupuncture therapies on hand dysfunction in post-stroke patients: a systematic review and meta-analysis",
+    "published_date": "2025-05-22",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1589874",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "손 기능 장애(Hand dysfunction)",
+      "鍼(침, acupuncture)",
+      "電鍼(전침, electroacupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture-related therapies for drug addiction: a systematic review and network meta-analysis",
+    "published_date": "2026-05-20",
+    "journal": "Frontiers in Human Neuroscience",
+    "pmid": "",
+    "doi": "10.3389/fnhum.2026.1800440",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "약물 중독(Drug addiction)",
+      "침 치료(Acupuncture)",
+      "이침(Auricular acupuncture)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "금단 증상(Withdrawal symptoms)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Meta-analysis of acupuncture combined therapies for amblyopia: efficacy and safety insights",
+    "published_date": "2025-06-10",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1584296",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "약시(Amblyopia)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "병용 요법(Combined therapy)",
+      "최대 교정 시력(BCVA)",
+      "시각 유발 전위(VEP)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture combined with language training for aphasia in children with cerebral palsy: a systematic review with meta-analysis and trial sequential analysis",
+    "published_date": "2025-03-12",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1502023",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌성마비(Cerebral Palsy)",
+      "실어증(Aphasia)",
+      "침 치료(鍼, Acupuncture)",
+      "언어 훈련(Language training)",
+      "전침(電鍼, Electroacupuncture)",
+      "두피침(頭皮鍼, Scalp acupuncture)",
+      "이침 압결(耳鍼, Auricular point seed-pressing)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of acupuncture-related treatment for sleep disturbances in children with neurodevelopmental disorders: a systematic review and meta-analysis",
+    "published_date": "2026-01-13",
+    "journal": "Frontiers in Psychiatry",
+    "pmid": "",
+    "doi": "10.3389/fpsyt.2025.1670438",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "신경발달장애(Neurodevelopmental Disorders)",
+      "수면장애(Sleep Disturbances)",
+      "침 치료(Acupuncture)",
+      "아동(Children)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The efficacy of acupuncture for depression-associated chronic pain: a systematic review and meta-analysis",
+    "published_date": "2026-06-01",
+    "journal": "Frontiers in Psychiatry",
+    "pmid": "",
+    "doi": "10.3389/fpsyt.2026.1845974",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "침 치료(鍼治療, Acupuncture)",
+      "우울증 동반 만성 통증(Depression-associated chronic pain)",
+      "우울 증상(Depressive symptoms)",
+      "통증 완화(Pain relief)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture combined with biofeedback electrical stimulation for female stress urinary incontinence: a systematic review and meta-analysis",
+    "published_date": "2026-01-22",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1760125",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "Stress Urinary Incontinence (복압성 요실금)",
+      "Acupuncture (鍼, 침)",
+      "Biofeedback Electrical Stimulation (바이오피드백 전기자극술)",
+      "Pelvic Floor Muscle (골반저근)",
+      "Meta-analysis (메타분석)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "RETRACTION : Clinical Effects of Acupuncture for the Treatment of Pressure Ulcers: A Comprehensive Systematic Review and Meta‐Analysis",
+    "published_date": "2025-04",
+    "journal": "International Wound Journal",
+    "pmid": "",
+    "doi": "10.1111/iwj.70668",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "욕창(Pressure Ulcers)",
+      "鍼(침, Acupuncture)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-Analysis)",
+      "철회(Retraction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "RETRACTION : Enhancing Wound Recovery in Chemotherapy‐Induced Leukopenia for Malignant Tumours: A Meta‐Analysis of Acupuncture Treatment Efficacy",
+    "published_date": "2025-03-26",
+    "journal": "International Wound Journal",
+    "pmid": "",
+    "doi": "10.1111/iwj.70436",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "Acupuncture (鍼(침))",
+      "Chemotherapy-Induced Leukopenia (화학요법 유발 백혈구 감소증)",
+      "Wound Recovery (상처 회복)",
+      "Malignant Tumours (악성 종양)",
+      "Meta-Analysis (메타분석)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effectiveness of Acupuncture in the Management of Chronic Low Back Pain: A Theoretical Meta-Analysis Review",
+    "published_date": "2025-12-26",
+    "journal": "International Journal of Traditional and Complementary Medicine Research",
+    "pmid": "",
+    "doi": "10.53811/ijtcmr.1723790",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain relief)",
+      "기능 개선(Functional improvement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy and safety of acupuncture treatment for post-stroke depression: A protocol for systematic review and meta-analysis",
+    "published_date": "2024-05-06",
+    "journal": "PLOS ONE",
+    "pmid": "",
+    "doi": "10.1371/journal.pone.0300769",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 우울증(Post-stroke depression)",
+      "鍼(침, Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "유효성(Efficacy)",
+      "안전성(Safety)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of Mongolian medicines warm acupuncture for knee osteoarthritis: a systematic review and meta-analysis",
+    "published_date": "2026-07-22",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1860943",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M17",
+        "label": "무릎 골관절염",
+        "status": "candidate",
+        "archive_path": "conditions/knee-osteoarthritis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "무릎 골관절염(Knee Osteoarthritis)",
+      "몽골 약재 온침(Mongolian medicines warm acupuncture)",
+      "온침(Warm acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain reduction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparative effectiveness of acupuncture-based multimodal rehabilitation for post-stroke cognitive impairment: a network meta-analysis of 70 randomized controlled trials",
+    "published_date": "2026-02-10",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2026.1759572",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후 인지장애(Post-stroke cognitive impairment)",
+      "침술(Acupuncture, 鍼)",
+      "다중모드 재활(Multimodal rehabilitation)",
+      "두피침(Scalp acupuncture)",
+      "전침(Electroacupuncture, 電鍼)",
+      "네트워크 메타분석(Network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Dose-response of acupuncture on ovulation rates in polycystic ovary syndrome: a meta-analysis and exploratory dose-response analysis",
+    "published_date": "2025-08-28",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2025.1610338",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "鍼(침, acupuncture)",
+      "韓藥(한약, herbal medicine)",
+      "배란율(ovulation rates)",
+      "용량-반응 분석(dose-response analysis)",
+      "네트워크 메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Meta-Analysis of Acupuncture Therapy for Blood Pressure Reduction in Pre-Elderly with Hypertension",
+    "published_date": "2024-02-16",
+    "journal": "Indonesian Journal of Medicine",
+    "pmid": "",
+    "doi": "10.26911/theijmed.2024.9.1.727",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "鍼(침, Acupuncture)",
+      "高血壓(고혈압, Hypertension)",
+      "中壯年(중장년, Pre-elderly)",
+      "血壓(혈압, Blood pressure)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Meta-Analysis of Acupuncture Therapy for Blood Pressure Reduction in Pre-Elderly with Hypertension",
+    "published_date": "2024-02-16",
+    "journal": "Indonesian Journal of Medicine",
+    "pmid": "",
+    "doi": "10.26911/theijmed.2024.09.01.09",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "鍼(침, acupuncture)",
+      "高血壓(고혈압, hypertension)",
+      "전노년층(pre-elderly)",
+      "혈압(blood pressure)",
+      "메타분석(meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of Abdominal Acupuncture in Poststroke Constipation: A Systematic Review and Meta‐Analysis With Trial Sequential Analysis",
+    "published_date": "2026-04-29",
+    "journal": "Brain and Behavior",
+    "pmid": "",
+    "doi": "10.1002/brb3.71442",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후 변비(Poststroke constipation)",
+      "복침(Abdominal Acupuncture)",
+      "전침(Electroacupuncture)",
+      "메타분석(Meta-analysis)",
+      "배변 시간(Time to first bowel movement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A network meta-analysis of different acupuncture modalities in the treatment of bronchial asthma",
+    "published_date": "2023-09-22",
+    "journal": "BMC Pulmonary Medicine",
+    "pmid": "",
+    "doi": "10.1186/s12890-023-02645-8",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "기관지 천식(bronchial asthma)",
+      "침술(acupuncture)",
+      "네트워크 메타분석(network meta-analysis)",
+      "穴(혈) 부착(acupoint application)",
+      "穴(혈) 매선(acupoint catgut embedding)",
+      "폐 기능(pulmonary function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of Ten Different Acupuncture Treatments for Angina Pectoris —A Network Meta-Analysis of Randomized Controlled Trials",
+    "published_date": "2024-08-21",
+    "journal": "Journal of Contemporary Medical Practice",
+    "pmid": "",
+    "doi": "10.53469/jcmp.2024.06(08).24",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "협심증(Angina Pectoris)",
+      "침(鍼, Acupuncture)",
+      "전침(電鍼, Electroacupuncture)",
+      "부항(拔罐, Cupping)",
+      "이침(耳鍼, Auricular acupuncture)",
+      "망상메타분석(Network Meta-Analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Does Manual Acupuncture Improve Gastroesophageal Reflux Disease Symptoms? A Trial Sequential Meta-Analysis",
+    "published_date": "2025-03-24",
+    "journal": "Complementary Medicine Research",
+    "pmid": "",
+    "doi": "10.1159/000544956",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "위식도역류질환(Gastroesophageal Reflux Disease, GERD)",
+      "수기 침(Manual Acupuncture)",
+      "양성자 펌프 억제제(Proton Pump Inhibitors, PPIs)",
+      "메타분석(Meta-analysis)",
+      "시험 순차 분석(Trial Sequential Analysis, TSA)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture treatment of postoperative urinary retention in cervical cancer: Systematic evaluation and meta-analysis",
+    "published_date": "2025-02-21",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041520",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "자궁경부암(Cervical Cancer)",
+      "수술 후 요정체(Postoperative Urinary Retention)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "뜸(Moxibustion)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy and Safety of Acupuncture versus Sham in Patients with Chronic Sciatica: A Systematic review and Meta-analysis with GRADE assessment",
+    "published_date": "2025-06-04",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-6797552/v1",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "sham acupuncture",
+      "outcomes": [
+        "안전성",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "만성 좌골신경통(Chronic Sciatica)",
+      "鍼(침, Acupuncture)",
+      "가짜 침(Sham Acupuncture)",
+      "VAS",
+      "ODI",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture combined with mirror therapy for post-stroke dyskinesia: A meta-analysis and systematic review",
+    "published_date": "2024-06-28",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000038733",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 운동이상증(Post-stroke dyskinesia)",
+      "침치료(鍼治療, Acupuncture)",
+      "거울치료(Mirror therapy)",
+      "운동기능 개선(Motor function improvement)",
+      "재활(Rehabilitation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture for diabetic peripheral neuropathy: A systematic review and Bayesian network meta-analysis",
+    "published_date": "2025-08-08",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043796",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "당뇨병성 말초신경병증(Diabetic peripheral neuropathy)",
+      "침치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "혈위주입(Acupoint injection)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "신경전도속도(Nerve conduction velocity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical evidence of acupuncture for luteinized unruptured follicle syndrome: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2025-08-29",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2025.1640820",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "황체화미파열난포증후군(LUFS)",
+      "鍼(침, acupuncture)",
+      "배란율(Ovulation rate)",
+      "임신율(Pregnancy rate)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of acupuncture-related therapies for gastroesophageal reflux-related chronic cough: a systematic review and meta-analysis",
+    "published_date": "2026-03-04",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1712003",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "위식도역류질환(GERD)",
+      "만성 기침(Chronic cough)",
+      "침 치료(Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effects of Acupuncture in Patients with Multiple Sclerosis: A Systematic Review",
+    "published_date": "2026-02-28",
+    "journal": "Journal of Iranian Medical Council",
+    "pmid": "",
+    "doi": "10.18502/jimc.v9i2.21140",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "다발성 경화증(Multiple Sclerosis)",
+      "鍼(침, acupuncture)",
+      "피로(fatigue)",
+      "경직(spasticity)",
+      "삶의 질(quality of life)",
+      "체계적 문헌고찰(systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Western medical acupuncture techniques for pain management in athletes: a systematic review and meta-analysis",
+    "published_date": "2026-02-17",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1737602",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "서양의학적 침술(Western medical acupuncture)",
+      "드라이 니들링(Dry needling)",
+      "운동선수(Athletes)",
+      "근골격계 통증(Musculoskeletal pain)",
+      "통증 관리(Pain management)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Neuroimaging evidence of acupuncture in cognitive impairment following ischemic stroke: a systematic review",
+    "published_date": "2026-01-12",
+    "journal": "Frontiers in Neuroscience",
+    "pmid": "",
+    "doi": "10.3389/fnins.2025.1629305",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "허혈성 뇌졸중 후 인지장애(Post-ischemic stroke cognitive impairment, PISCI)",
+      "침 치료(Acupuncture, 鍼)",
+      "신경영상학(Neuroimaging)",
+      "휴지기 기능적 자기공명영상(rs-fMRI)",
+      "자기공명분광법(MRS)",
+      "뇌 연결성(Brain connectivity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy and safety of acupuncture in the treatment of poststroke insomnia: A systematic review and meta-analysis",
+    "published_date": "2025-08-15",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043890",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 불면증(Poststroke Insomnia)",
+      "침(鍼, Acupuncture)",
+      "피츠버그 수면 질 지수(PSQI)",
+      "수면 효율(Sleep efficiency)",
+      "해밀턴 우울 척도(Hamilton depression scale)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of acupuncture treatment for myasthenia gravis: A systematic review and meta-analysis",
+    "published_date": "2024-01-02",
+    "journal": "PLOS ONE",
+    "pmid": "",
+    "doi": "10.1371/journal.pone.0291685",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "중증 근무력증(Myasthenia Gravis)",
+      "침 치료(Acupuncture)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)",
+      "정량적 근무력증 점수(QMG)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The efficacy of acupuncture for tension-type headache: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2025-12-12",
+    "journal": "Journal of Oral & Facial Pain and Headache",
+    "pmid": "",
+    "doi": "10.22514/jofph.2025.067",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G44.2",
+        "label": "긴장형두통",
+        "status": "candidate",
+        "archive_path": "conditions/tension-type-headache/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "긴장성 두통(Tension-type headache)",
+      "침(鍼, Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain relief)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture therapy in postoperative rehabilitation for arthroscopic rotator cuff repair: a systematic review and meta-analysis",
+    "published_date": "2025-09-09",
+    "journal": "Frontiers in Surgery",
+    "pmid": "",
+    "doi": "10.3389/fsurg.2025.1631880",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "회전근개 봉합술(Rotator cuff repair)",
+      "침 치료(Acupuncture)",
+      "관절경 수술(Arthroscopic surgery)",
+      "재활(Rehabilitation)",
+      "관절 가동범위(Range of motion)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of acupuncture on Hashimoto thyroiditis: A systematic review and meta-analysis",
+    "published_date": "2024-03-01",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000037326",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "Hashimoto thyroiditis(하시모토 갑상선염)",
+      "Acupuncture(鍼, 침 치료)",
+      "TPOAb(갑상선 과산화효소 항체)",
+      "TGAb(갑상선 글로불린 항체)",
+      "Thyroid function(갑상선 기능)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy and Safety of Acupuncture for Subthreshold Depression: Systematic Review and Meta-analysis",
+    "published_date": "2025-12-24",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251399207",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "하역치 우울증(Subthreshold Depression)",
+      "침 치료(鍼, Acupuncture)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)",
+      "수면의 질(Sleep Quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture for Chronic Stress: A Systematic Review",
+    "published_date": "2026-05-26",
+    "journal": "Japan Journal of Clinical & Medical Research",
+    "pmid": "",
+    "doi": "10.47363/jjcmr/2026(6)205",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "만성 스트레스(Chronic stress)",
+      "鍼(침, Acupuncture)",
+      "체계적 문헌고찰(Systematic Review)",
+      "치료 효능(Therapeutic efficacy)",
+      "보완 요법(Complementary therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy and mechanism of acupuncture for functional constipation in older adults: study protocol for a randomized controlled trial",
+    "published_date": "2024-04-15",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2024.1341861",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "Functional Constipation (기능성 변비)",
+      "Acupuncture (鍼, acupuncture)",
+      "Older adults (고령자)",
+      "Gut microbiota (장내 미생물군)",
+      "Inflammatory cytokines (염증성 사이토카인)",
+      "Randomized Controlled Trial (무작위 대조 시험)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture Treatment Improves the Swallowing Function and Nutritional Status of the Elderly with Dysphagia : A Randomized Controlled Trial",
+    "published_date": "2025-09-23",
+    "journal": "Journal of Alternative, Complementary & Integrative Medicine",
+    "pmid": "",
+    "doi": "10.24966/acim-7562/100616",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "연하곤란(dysphagia)",
+      "침 치료(acupuncture)",
+      "연하 재활(swallowing rehabilitation)",
+      "고령자(elderly)",
+      "영양 상태(nutritional status)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Observation of the immediate effect of ultrasound-guided acupuncture at Zusanli (ST36) point on Blood flow volume in lower limb arteries: a randomized controlled trial study protocol",
+    "published_date": "2024-05-14",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-4362173/v1",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "足三里(족삼리, ST36)",
+      "鍼(침, acupuncture)",
+      "超音波(초음파, ultrasound)",
+      "血流(혈류, blood flow)",
+      "下肢動脈(하지동맥, lower limb artery)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Dose-effect relationship of different acupuncture courses on chronic insomnia disorder: study protocol for a randomized controlled trial",
+    "published_date": "2023-12-11",
+    "journal": "Frontiers in Psychiatry",
+    "pmid": "",
+    "doi": "10.3389/fpsyt.2023.1277133",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "만성 불면 장애(Chronic Insomnia Disorder)",
+      "침 치료(Acupuncture)",
+      "용량-효과 관계(Dose-effect relationship)",
+      "치료 기간(Treatment course)",
+      "수면 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Electro-acupuncture for irritable bowel syndrome with constipation: study protocol of a pilot, randomized, double-blinded, sham-controlled trial",
+    "published_date": "2025-09-12",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1632822",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "status": "candidate",
+        "archive_path": "conditions/irritable-bowel-syndrome/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "sham acupuncture",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "변비형 과민성 장 증후군(IBS-C)",
+      "전침(電鍼, electro-acupuncture)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "가짜 침(sham acupuncture)",
+      "위장관 기능 장애(Functional Gastrointestinal Disorder)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Immediate analgesic effect of acupuncture for acute primary dysmenorrhea: protocol of a randomized controlled trial",
+    "published_date": "2025-09-10",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1644666",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "원발성 생리통(Primary Dysmenorrhea)",
+      "鍼(침, Acupuncture)",
+      "즉각적 진통 효과(Immediate analgesic effect)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "시각적 아날로그 척도(Visual Analog Scale, VAS)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Ultrasound-guided stellate ganglion acupuncture for chronic insomnia disorder using fNIRS: study protocol for a randomized controlled trial",
+    "published_date": "2026-06-29",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2026.1855633",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "수면"
+      ]
+    },
+    "keywords": [
+      "만성 불면장애(Chronic Insomnia Disorder)",
+      "성상신경절(Stellate Ganglion)",
+      "초음파 유도하 침치료(Ultrasound-guided acupuncture)",
+      "기능적 근적외선 분광법(fNIRS)",
+      "수면 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of acupuncture on upper limb dysfunction after stroke: a randomized controlled trial protocol with surface electromyography evaluation",
+    "published_date": "2025-07-10",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1615762",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "상지 기능 장애(Upper limb dysfunction)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "표면 근전도(surface electromyography, sEMG)",
+      "Fugl-Meyer 평가(Fugl-Meyer Assessment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy and safety of acupuncture for post-stroke spasticity: a study protocol for a randomized controlled trial",
+    "published_date": "2026-06-04",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2026.1737118",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "안전성",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 경직(Post-stroke spasticity)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "Modified Ashworth Scale(MAS)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "운동 기능(Motor function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comment on Takakura et al. Acupuncture for Japanese Katakori (Chronic Neck Pain): A Randomized Placebo-Controlled Double-Blind Study. Medicina 2023, 59, 2141",
+    "published_date": "2024-06-24",
+    "journal": "Medicina",
+    "pmid": "",
+    "doi": "10.3390/medicina60071030",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54.2",
+        "label": "경부통",
+        "status": "candidate",
+        "archive_path": "conditions/neck-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "Katakori(肩凝り, shoulder stiffness)",
+      "鍼(침, acupuncture)",
+      "Randomized Controlled Trial(무작위 대조 시험)",
+      "Commentary(논평)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical trial effects of acupuncture combined with different general anesthesia on postoperative nausea and vomiting and early recovery after thyroidectomy with intra-operative neuromonitoring: a randomized controlled trial",
+    "published_date": "2025-10-16",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1650403",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "갑상선 절제술(thyroidectomy)",
+      "수술 후 오심 및 구토(PONV)",
+      "침(鍼, acupuncture)",
+      "프로포폴(propofol)",
+      "수술 중 신경감시(IONM)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of electro-acupuncture on pregnancy outcomes for women undergoing in vitro fertilization: study protocol for a pilot randomized controlled trial",
+    "published_date": "2024-08-05",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2024.1380885",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "전침(電鍼, electro-acupuncture)",
+      "체외수정(體外受精, in vitro fertilization)",
+      "불임(不妊, infertility)",
+      "임신율(妊娠率, pregnancy rate)",
+      "임상시험(臨床試驗, clinical trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture and Sleep Quality Among Patients With Parkinson Disease",
+    "published_date": "2024-06-26",
+    "journal": "JAMA Network Open",
+    "pmid": "",
+    "doi": "10.1001/jamanetworkopen.2024.17862",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "파킨슨병(Parkinson Disease)",
+      "수면의 질(Sleep Quality)",
+      "침치료(Acupuncture, 鍼治療)",
+      "파킨슨병 수면 척도(PDSS)",
+      "보조요법(Adjunctive Therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparing the Effect of Acupuncture, Sham Acupuncture, and Waiting-List Control on Patients with Post-stroke Cognitive Impairment: A Randomized Clinical Trial",
+    "published_date": "2025-09-13",
+    "journal": "QJM: An International Journal of Medicine",
+    "pmid": "",
+    "doi": "10.1093/qjmed/hcaf181",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "sham acupuncture",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 인지장애(Post-stroke cognitive impairment)",
+      "침치료(Acupuncture)",
+      "인지기능(Cognitive function)",
+      "MoCA",
+      "무작위 대조 시험(Randomized Clinical Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of Electroacupuncture Combined With Medication for Postherpetic Neuralgia",
+    "published_date": "2026-08-13",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261475414",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G53.0",
+        "label": "대상포진후신경통",
+        "status": "candidate",
+        "archive_path": "conditions/postherpetic-neuralgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "대상포진 후 신경통(Postherpetic Neuralgia, PHN)",
+      "電鍼(전침, Electroacupuncture)",
+      "통증 완화(Pain relief)",
+      "삶의 질(Quality of Life)",
+      "염증 지표(Inflammatory markers)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Efficacy of Acupuncture and Moxibustion in the Treatment of Chronic Urticaria and Its Effect on Cellular Immune Indexes and Th1/Th2 Cell Dysfunction",
+    "published_date": "2026-01-13",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251412415",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "만성 두드러기(Chronic Urticaria)",
+      "鍼(침, acupuncture)",
+      "灸(뜸, moxibustion)",
+      "Th1/Th2 세포 불균형(Th1/Th2 cell imbalance)",
+      "면역 지표(Immune indexes)",
+      "로라타딘(Loratadine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Observation on the Efficacy of Acupuncture in Treating Upper Limb Motor Dysfunction in Patients with Acute Ischemic Stroke During the Recovery Period",
+    "published_date": "2025-12-22",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251406618",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "급성 허혈성 뇌졸중(Acute Ischemic Stroke)",
+      "상지 운동 기능(Upper Limb Motor Dysfunction)",
+      "鍼(침, Acupuncture)",
+      "경두개 자기 자극술(Transcranial Magnetic Stimulation)",
+      "신경영양인자(Neurotrophic Factors)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effect of a Single Acupuncture on Postpartum Hypogalactia",
+    "published_date": "2026-04-15",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261440006",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "산후 유즙 부족(postpartum hypogalactia)",
+      "鍼(침, acupuncture)",
+      "초음파(ultrasound)",
+      "유방 혈류(breast blood flow)",
+      "모유 수유(breastfeeding)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Guipi Decoction Combined with Acupuncture in the Treatment of Cervical Vertigo from Qi–Blood Deficiency: Efficacy and Effects on Hemodynamics",
+    "published_date": "2026-01-06",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251411548",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "경추성 현훈(Cervical Vertigo)",
+      "歸脾湯(귀비탕, Guipi Decoction)",
+      "鍼(침, Acupuncture)",
+      "氣血不足(기혈부족, Qi-Blood Deficiency)",
+      "혈역학(Hemodynamics)",
+      "추골동맥(Vertebral Artery)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Relationship Between Deqi and the Effect of Acupuncture on Pressure Pain Threshold: A Randomized Crossover-Controlled Study—Short Report",
+    "published_date": "2026-04-28",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261445681",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "득기(得氣, Deqi)",
+      "압통 역치(Pressure Pain Threshold, PPT)",
+      "후계혈(後溪穴, SI3)",
+      "침술(Acupuncture)",
+      "진통 효과(Analgesic effect)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness of Integrated Acupuncture and Modified Buyang Huanwu Decoction on Motor Function Recovery After Ischemic Stroke: A Prospective Cohort Study Based on Propensity Score Matching",
+    "published_date": "2026-05-02",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261444775",
+    "study_type": "Cohort study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "Ischemic stroke (허혈성 뇌졸중)",
+      "Acupuncture (鍼, 침)",
+      "Buyang Huanwu Decoction (補陽環五湯, 보양환오탕)",
+      "Motor function (운동 기능)",
+      "Vascular endothelial function (혈관 내피 기능)",
+      "Fugl-Meyer assessment (FMA)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Role of Acupuncture in Managing Chronic Low Back Pain During Perimenopause: A Study Among Women Aged 35–60 Years",
+    "published_date": "2026-05-02",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261444003",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능",
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "폐경 이행기(Perimenopause)",
+      "만성 요통(Chronic Low Back Pain)",
+      "鍼(침, Acupuncture)",
+      "삶의 질(Quality of Life)",
+      "기능적 장애(Functional Impairment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Analysis of the Effect of Pulse-Feeling Acupuncture Combined with Submental Resistance Training and Feeding Training on Dysphagia in Patients After Radiotherapy for Nasopharyngeal Carcinoma",
+    "published_date": "2025-12-17",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251406959",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "비인두암(nasopharyngeal carcinoma)",
+      "연하곤란(dysphagia)",
+      "맥진 침법(pulse-feeling acupuncture)",
+      "재활 훈련(rehabilitation training)",
+      "영양 상태(nutritional status)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Study on Acupuncture Treatment of Pseudobulbar Palsy",
+    "published_date": "2025-11-17",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251394025",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "가성구마비(Pseudobulbar palsy)",
+      "침치료(鍼治療, Acupuncture)",
+      "연하장애(Dysphagia)",
+      "조음장애(Dysarthria)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Short-Term Comparative Clinical Outcomes of Acupuncture and Phototherapy in Chronic Generalized Pruritus: A Prospective Study",
+    "published_date": "2026-07-17",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261468913",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "만성 가려움증(Chronic Generalized Pruritus)",
+      "침 치료(鍼治療, Acupuncture)",
+      "광선치료(光線治療, Phototherapy)",
+      "좁은 대역 UVB(Narrowband UVB)",
+      "VAS 척도(Visual Analog Scale)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Impact of Warming Acupuncture–Moxibustion Combined with Xingnaojing Injection on Serum NSE, SOD, T Lymphocytes, and Prognosis in Severe Craniocerebral Trauma Patients",
+    "published_date": "2026-06-05",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261455556",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "두개뇌손상(craniocerebral trauma)",
+      "온침-온구(warming acupuncture-moxibustion)",
+      "행뇌정 주사(Xingnaojing injection)",
+      "산화 스트레스(oxidative stress)",
+      "면역 기능(immune function)",
+      "NSE"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of Orthokeratology Combined with Acupuncture Treatment on Visual Quality, Corneal Transparency, and Endothelial Cells in Children Who Suffer from Mild to Moderate Myopia",
+    "published_date": "2026-04-28",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261446340",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "근시(Myopia)",
+      "드림렌즈(Orthokeratology)",
+      "침 치료(Acupuncture)",
+      "시력 개선(Visual Quality)",
+      "각막 내피세포(Corneal Endothelial Cells)",
+      "안축장(Axial Length)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Observation on Clinical Efficacy and Safety of Acupuncture Combined With Leflunomide in the Treatment of Rheumatoid Arthritis",
+    "published_date": "2026-07-17",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261468803",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "鍼(침, acupuncture)",
+      "레플루노마이드(Leflunomide)",
+      "질병 활성도(Disease Activity)",
+      "DAS28",
+      "ACR 반응률(ACR response)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Preliminary research of the effectiveness of acupuncture (spoon needle) on stress relief of Japanese expatriates in a developing country Myanmar: A retrospective study",
+    "published_date": "2023-09-22",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000035085",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "鍼(침, acupuncture)",
+      "스트레스 완화(stress relief)",
+      "해외 파견자(expatriates)",
+      "기분 상태 척도(Profile of Mood States)",
+      "스푼 니들(spoon needle)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative acupuncture management of cancer-related pain and nausea in an elderly patient with concurrent breast cancer and multiple myeloma: Case report",
+    "published_date": "2026-07-07",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261468008",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "암성 통증(cancer-related pain)",
+      "오심(nausea)",
+      "침술(acupuncture, 鍼術)",
+      "다발성 골수종(multiple myeloma)",
+      "유방암(breast cancer)",
+      "완화 의료(palliative care)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Impact of Preoperative Acupuncture on Postoperative Nausea and Vomiting in Surgical Patients Under General Anesthesia",
+    "published_date": "2026-01-08",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251410202",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "내관혈(內關穴, PC6)",
+      "수술 후 오심 및 구토(Postoperative Nausea and Vomiting, PONV)",
+      "침 치료(鍼治療, Acupuncture)",
+      "복강경 수술(Laparoscopic surgery)",
+      "전신마취(General anesthesia)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Therapeutic Effect of Acupuncture on Esophageal Spasm After Iodine Staining for Early Cancer Screening of the Upper Gastrointestinal Tract",
+    "published_date": "2026-04-15",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261442302",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "식도 경련(Esophageal spasm)",
+      "鍼(침, acupuncture)",
+      "요오드 염색(Iodine staining)",
+      "상부 위장관 암(Upper gastrointestinal cancer)",
+      "프로포폴(Propofol)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Research Supports the Integration of Acupuncture in Mainstream Health Care for the Management of Chronic Diseases",
+    "published_date": "2025-04",
+    "journal": "Medical Acupuncture",
+    "pmid": "",
+    "doi": "10.1089/acu.2024.0108",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": false,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "鍼(침, acupuncture)",
+      "만성 질환(chronic diseases)",
+      "통합 의료(integrative health care)",
+      "중개 연구(translational research)",
+      "침술 교육(acupuncture education)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture Regulates the Neurovascular Unit in Poststroke Motor Function Reconstruction: Mechanisms and Clinical Rehabilitation Prospects",
+    "published_date": "2026-07-11",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261468385",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "鍼(침, Acupuncture)",
+      "신경혈관계 단위(Neurovascular unit)",
+      "운동 기능 재건(Motor function reconstruction)",
+      "뇌혈류(Cerebral blood flow)",
+      "신경영양인자(Neurotrophic factors)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Application of Acupuncture for Restless Legs Syndrome: Case Report",
+    "published_date": "2025-10-06",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251383171",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "하지불안증후군(Restless Legs Syndrome, RLS)",
+      "침치료(鍼治療, Acupuncture)",
+      "불면증(Insomnia)",
+      "수면의 질(Sleep Quality)",
+      "사례보고(Case Report)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Research Progress of Acupuncture in Conjunction with Huatan Tongluo Decoction in Treating Stroke Sequelae: A Review",
+    "published_date": "2025-09-08",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251375534",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후유증(Stroke sequelae)",
+      "침치료(鍼, Acupuncture)",
+      "화담통락탕(化痰通絡湯, Huatan Tongluo Decoction)",
+      "재활(Rehabilitation)",
+      "운동장애(Dyskinesia)",
+      "연하곤란(Dysphagia)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture treatment of lumbar intervertebral disc herniation (PLID) - A study in Bangladesh",
+    "published_date": "2024-06-30",
+    "journal": "Scientific Research Journal of Medical Case Reports",
+    "pmid": "",
+    "doi": "10.47310/srjmcr.2024.v04i01.001",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      },
+      {
+        "code": "M51.1",
+        "label": "요추 추간판탈출증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-disc-herniation/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "요추 추간판 탈출증(PLID, Lumbar Intervertebral Disc Herniation)",
+      "요통(lower back pain)",
+      "鍼(침, Acupuncture)",
+      "방글라데시(Bangladesh)",
+      "좌골신경통(Sciatica)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture in the Treatment of Systemic Lupus Erythematosus: Clinical Evidence and Perspectives",
+    "published_date": "2026-05-16",
+    "journal": "International Journal of Medical Science and Pharmaceutical Research",
+    "pmid": "",
+    "doi": "10.55677/ijmspr/2026-3050-i505",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "전신성 홍반성 루푸스(Systemic Lupus Erythematosus, SLE)",
+      "침(鍼, Acupuncture)",
+      "보완대체요법(Complementary Therapy)",
+      "면역 조절(Immune Modulation)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of Acupuncture Treatment on Polycystic Ovary Syndrome (PCOS)",
+    "published_date": "2024-06-19",
+    "journal": "Obstetrics and Gynecology",
+    "pmid": "",
+    "doi": "10.5772/intechopen.113799",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "鍼(침, Acupuncture)",
+      "電鍼(전침, Electro-acupuncture)",
+      "생식 호르몬(Reproductive hormones)",
+      "인슐린 저항성(Insulin resistance)",
+      "β-엔도르핀(β-endorphin)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Current Status of Acupuncture Therapy for Scapulohumeral Periarthritis",
+    "published_date": "2024-12-26",
+    "journal": "Journal of Contemporary Medical Practice",
+    "pmid": "",
+    "doi": "10.53469/jcmp.2024.06(12).13",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "견관절주위염(肩關節周圍炎, Scapulohumeral periarthritis)",
+      "침치료(鍼治療, Acupuncture therapy)",
+      "근골격계 질환(Musculoskeletal disease)",
+      "통증 관리(Pain management)",
+      "관절 가동 범위(Range of Motion)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effects of laser acupuncture (stress-free therapy) on blood liver function indicators",
+    "published_date": "2025-10-14",
+    "journal": "Laser Therapy",
+    "pmid": "",
+    "doi": "10.4081/ltj.2025.403",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "레이저 침(Laser acupuncture)",
+      "스트레스 프리 테라피(SFT)",
+      "대사 이상 관련 지방간 질환(MASLD)",
+      "간 기능 지표(Liver function indicators)",
+      "대사 증후군(Metabolic syndrome)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Effect of Acupuncture Therapy with a Combination of Moxibustion in Cases of Low Back Pain on Changes in Pain Scale in Mekarjaya Village, Indramayu Regency",
+    "published_date": "2025-10-13",
+    "journal": "Indonesian Journal of Acupuncture",
+    "pmid": "",
+    "doi": "10.62354/ijoa.v3i2.45",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "요통 (Low Back Pain)",
+      "鍼(침, acupuncture)",
+      "灸(뜸, moxibustion)",
+      "통증 척도 (Numeric Rating Scale)",
+      "보완대체요법 (Complementary Therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness of Acupuncture Therapy in Combination with Rosella Tea on Changes in Blood Pressure in Hypertension Cases in Krajan, Mojosongo",
+    "published_date": "2025-10-13",
+    "journal": "Indonesian Journal of Acupuncture",
+    "pmid": "",
+    "doi": "10.62354/ijoa.v3i2.47",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "高血壓(고혈압, Hypertension)",
+      "鍼(침, Acupuncture)",
+      "로젤차(Rosella tea)",
+      "혈압 강하(Blood pressure reduction)",
+      "비약물적 치료(Nonpharmacological treatment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Complementary Acupuncture Therapy in a Case of Hyperhidrosis at the CD Bethesda Acupuncture Clinic Yogyakarta (A Case Study)",
+    "published_date": "2026-03-31",
+    "journal": "International Journal of Scientific Multidisciplinary Research",
+    "pmid": "",
+    "doi": "10.55927/ijsmr.v4i2.7",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다한증(Hyperhidrosis)",
+      "침 치료(Acupuncture Therapy)",
+      "보완대체요법(Complementary Therapy)",
+      "사진(四診, Four examinations)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness of Acupuncture Therapy Combination of Ginger Patch on Changes in Pain Scale in Cases of Knee Pain in Tempak Village, Candimulyo District",
+    "published_date": "2025-04-18",
+    "journal": "Indonesian Journal of Acupuncture",
+    "pmid": "",
+    "doi": "10.62354/ijoa.v3i1.38",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "무릎 통증(Knee pain)",
+      "침 치료(鍼治療, Acupuncture)",
+      "생강 패치(Ginger Patch)",
+      "통증 척도(Numeric Rating Scale, NRS)",
+      "전-노년층(Pre-elderly)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative Therapy for Smile Lines: An Experimental Study of the Combination of Acupuncture and Aloe Vera Gel",
+    "published_date": "2025-10-13",
+    "journal": "Indonesian Journal of Acupuncture",
+    "pmid": "",
+    "doi": "10.62354/ijoa.v3i2.48",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "팔자주름(smile lines)",
+      "침(鍼, acupuncture)",
+      "알로에 베라 겔(Aloe Vera Gel)",
+      "피부 노화(skin aging)",
+      "피부 탄력(skin elasticity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Observation on Acupuncture Combined with Five-Element Music Therapy for Postoperative Pain and Anxiety in Patients with Lumbar Disc Herniation",
+    "published_date": "2026-05-26",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261453957",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M51.1",
+        "label": "요추 추간판탈출증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-disc-herniation/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "keywords": [
+      "요추 추간판 탈출증(Lumbar Disc Herniation)",
+      "침(鍼, Acupuncture)",
+      "오행 음악 요법(Five-element music therapy)",
+      "수술 후 통증(Postoperative Pain)",
+      "불안(Anxiety)",
+      "요추 기능(Lumbar Function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Outcomes of Acupuncture Combined with Antidepressant Therapy for Major Depressive Disorder: A Propensity Score–Matched Retrospective Observational Study",
+    "published_date": "2026-02-24",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261423248",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "주요 우울 장애(Major Depressive Disorder)",
+      "鍼(침, acupuncture)",
+      "항우울제(Antidepressants)",
+      "병용 요법(Combination therapy)",
+      "성향 점수 매칭(Propensity score matching)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Comparison of the Effects of Shi's “Tongguan Liqiao” Therapy and Gao's Cervical Acupuncture Combined Respectively with Swallowing Function Rehabilitation Training on Poststroke Dysphagia",
+    "published_date": "2025-12-15",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251401799",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 연하장애(Poststroke dysphagia)",
+      "경추침(Cervical acupuncture)",
+      "통관이교 요법(Tongguan Liqiao therapy)",
+      "연하 재활(Swallowing rehabilitation)",
+      "비위관 유지 기간(Nasogastric tube retention time)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture Therapy for Huntington's Disease: An Evidence Review and Mechanistic Insights",
+    "published_date": "2025-10-01",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293251383555",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "헌팅턴병(Huntington's disease)",
+      "鍼(침, acupuncture)",
+      "신경보호(neuroprotection)",
+      "신경염증(neuroinflammation)",
+      "백회(百會, GV20)",
+      "합곡(合谷, LI4)",
+      "태충(太衝, LR3)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Series of traditional complementary medicine practices (acupuncture, ozone, homeopathy) in cases of facial paralysis",
+    "published_date": "2024-10-08",
+    "journal": "Archives of Clinical Investigation",
+    "pmid": "",
+    "doi": "10.31579/2834-8087/032",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "안면마비(Facial paralysis)",
+      "鍼(침, acupuncture)",
+      "오존 치료(Ozone therapy)",
+      "동종요법(Homeopathy)",
+      "보완대체의학(Complementary medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Combining traditional medicine with modern medicine: The role of acupuncture anesthesia in multidisciplinary pain management",
+    "published_date": "2026-06-18",
+    "journal": "Perioperative Precision Medicine",
+    "pmid": "",
+    "doi": "10.61189/693733xrbrvc",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "침 마취(鍼麻醉, Acupuncture Anesthesia)",
+      "다학제적 통증 관리(Multidisciplinary Pain Management)",
+      "수술 후 통증(Postoperative Pain)",
+      "마약성 진통제(Opioids)",
+      "수술 후 회복(Perioperative Recovery)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Protocol for a clinical practice guideline on acupuncture for chronic non-specific low back pain",
+    "published_date": "2026-07-06",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1834549",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "만성 비특이적 요통(Chronic non-specific low back pain)",
+      "침(鍼, Acupuncture)",
+      "임상진료지침(Clinical Practice Guideline)",
+      "GRADE 방법론(GRADE approach)",
+      "델파이 기법(Delphi process)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Therapeutic efficacy study on shoulder impingement syndrome in swimmers: a network meta-analysis",
+    "published_date": "2026-06-15",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.64898/2026.06.11.26355435",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "어깨 충돌 증후군(Shoulder Impingement Syndrome)",
+      "수영 선수(Swimmers)",
+      "네트워크 메타분석(Network Meta-Analysis)",
+      "鍼(침, acupuncture)",
+      "운동 재활(Exercise rehabilitation)",
+      "관절 가동범위(Range-of-motion)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Exploration of Japanese women seeking acupuncture for menopausal symptoms: a preliminary study",
+    "published_date": "2023-12-18",
+    "journal": "International Journal of Complementary & Alternative Medicine",
+    "pmid": "",
+    "doi": "10.15406/ijcam.2023.16.00674",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "갱년기 증상(Menopausal symptoms)",
+      "鍼(침, Acupuncture)",
+      "근골격계 증상(Musculoskeletal symptoms)",
+      "간이 갱년기 지수(Simple Menopause Index)",
+      "일본 여성(Japanese women)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "CURRENT STATUS OF THE DISEASE PATTERN AND TRADITIONAL MEDICINE TREATMENT, TRADITIONAL MEDICINE - MODERN MEDICINE AT THE DEPARTMENT OF TRADITIONAL MEDICINE AND REHABILITATION, CAM KHE DISTRICT MEDICAL CENTER, PHU THO PROVINCE, PERIOD 2022–2024",
+    "published_date": "2025-12-24",
+    "journal": "Tạp chí Y học Cộng đồng",
+    "pmid": "",
+    "doi": "10.52163/yhc.v66i8.4053",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "전통의학(Traditional Medicine)",
+      "근골격계 질환(Musculoskeletal system diseases)",
+      "신경계 질환(Nervous system diseases)",
+      "전침(電鍼, electroacupuncture)",
+      "지압 마사지(acupressure massage)",
+      "통합의료(Integrative Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Mechanism of cognitive processing for acupuncture action on generalized anxiety with naturally occurring consecutive partial sleep deprivation in early adulthood: a randomized controlled study and evaluation of event-related potentials",
+    "published_date": "2024-10-16",
+    "journal": "Frontiers in Public Health",
+    "pmid": "",
+    "doi": "10.3389/fpubh.2024.1420299",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "범불안장애(Generalized Anxiety Disorder, GAD)",
+      "부분 수면 박탈(Partial Sleep Deprivation, PSD)",
+      "침 치료(Acupuncture, 鍼)",
+      "사건 관련 전위(Event-Related Potentials, ERP)",
+      "인지 처리(Cognitive processing)",
+      "성인 초기(Early adulthood)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Observation on the Postoperative Rehabilitation Effect of Combining Traditional Chinese Medicine Techniques with Psychological Counseling in Patients with Mixed Hemorrhoids",
+    "published_date": "2025-09-26",
+    "journal": "Advances in Precision Medicine",
+    "pmid": "",
+    "doi": "10.18063/apm.v10i3.614",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "혼합 치핵(Mixed hemorrhoids)",
+      "한방 간호(Traditional Chinese Medicine nursing)",
+      "심리 상담(Psychological counseling)",
+      "수술 후 재활(Postoperative rehabilitation)",
+      "이침(耳鍼, auricular acupuncture)",
+      "한약 좌욕(Herbal sitz bath)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Efficacy Observation of Integrated Traditional Chinese and Western Medicine in the Treatment of Type 2 Diabetic Peripheral Neuropathy",
+    "published_date": "2026-04-26",
+    "journal": "Advances in Precision Medicine",
+    "pmid": "",
+    "doi": "10.18063/apm.v11i4.1851",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "제2형 당뇨병성 말초신경병증(Type 2 Diabetic Peripheral Neuropathy)",
+      "중서의결합치료(Integrated Traditional Chinese and Western Medicine)",
+      "鍼(침, acupuncture)",
+      "신경전도속도(Nerve Conduction Velocity)",
+      "포도당 대사(Glucose Metabolism)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Analysis of the Impact of Traditional Chinese Medicine Integrated Rehabilitation Nursing Model on the Recovery of Patients with Cerebral Infarction",
+    "published_date": "2025-12-20",
+    "journal": "Advances in Precision Medicine",
+    "pmid": "",
+    "doi": "10.18063/apm.v10i4.1046",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌경색(Cerebral Infarction)",
+      "한의 통합 간호(TCM Integrated Nursing)",
+      "鍼(침, acupuncture)",
+      "재활(Rehabilitation)",
+      "Barthel 지수(Barthel Index)",
+      "NIHSS 점수(NIHSS score)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of acupuncture on tic disorder: a randomized controlled clinical trial based on energy metabolomics and infrared thermography",
+    "published_date": "2024-06-20",
+    "journal": "BMC Complementary Medicine and Therapies",
+    "pmid": "",
+    "doi": "10.1186/s12906-024-04534-x",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "틱 장애(Tic disorder)",
+      "침 치료(Acupuncture)",
+      "에너지 대사체학(Energy metabolomics)",
+      "적외선 체열 진단(Infrared thermography)",
+      "독맥(Governor vessel, GV)",
+      "YGTSS"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Research Progress in Traditional Chinese Medicine Treatment of Rotator Cuff Injury",
+    "published_date": "2026-06-30",
+    "journal": "Journal of Artificial Intelligence and Information",
+    "pmid": "",
+    "doi": "10.66069/ojspub.20542246",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "회전근개 손상(Rotator Cuff Injury)",
+      "한방 치료(Traditional Chinese Medicine)",
+      "鍼(침, acupuncture)",
+      "推拿(추나, tuina)",
+      "鍼刀(침도, acupotomy)",
+      "비증(Bi Zheng)",
+      "근상(Jin Shang)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative Therapies of Traditional Chinese Medicine in Melanoma Treatment: Current Status, Mechanisms, and Prospects",
+    "published_date": "2025-07-04",
+    "journal": "Theoretical and Natural Science",
+    "pmid": "",
+    "doi": "10.54254/2753-8818/2025.ld24483",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "흑색종(Melanoma)",
+      "중의학(Traditional Chinese Medicine)",
+      "통합 치료(Integrative Therapy)",
+      "한약(Herbal medicine)",
+      "鍼(침, acupuncture)",
+      "시너지 효과(Synergistic effects)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Study on the Treatment of Cold Dampness Arthralgia Type Periarthritis of Shoulder",
+    "published_date": "2025-03-24",
+    "journal": "Chinese Medicine Research and Development",
+    "pmid": "",
+    "doi": "10.57237/j.cmrd.2025.01.001",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M25.51",
+        "label": "어깨통증",
+        "status": "candidate",
+        "archive_path": "conditions/shoulder-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "견관절주위염(Periarthritis of shoulder)",
+      "한랭습비(寒冷濕痺, Cold Dampness Arthralgia)",
+      "경근동자(經筋洞磁, Jingjin Dongci)",
+      "견우지통탕(肩盂止痛湯, Jian Yu Zhi Tong Decoction)",
+      "전침(電鍼, Electroacupuncture)",
+      "어깨 통증(Shoulder Pain)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical value of warm acupuncture combined with Jiaji acupoint Tongbian scraping therapy in the treatment of myofascial pain syndrome of the lumbar and dorsal muscles with wind-cold-dampness obstruction syndrome",
+    "published_date": "2025-12-26",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000046161",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "근막통증증후군(Myofascial Pain Syndrome)",
+      "온침(溫鍼, warm acupuncture)",
+      "夾脊穴(협척혈, Jiaji acupoint)",
+      "괄사 요법(Scraping therapy)",
+      "풍한습체(風寒濕體, wind-cold-dampness obstruction)",
+      "염증성 사이토카인(Inflammatory cytokines)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Study on the Treatment of Alzheimer's Disease of Spleen Deficiency and Phlegm Obstruction Type by Wenpi Tongluo Kaiqiao Formula Combined with Acupuncture",
+    "published_date": "2025-09-26",
+    "journal": "Advances in Precision Medicine",
+    "pmid": "",
+    "doi": "10.18063/apm.v10i3.610",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "알츠하이머병(Alzheimer's Disease)",
+      "온비통락개규탕(Wenpi Tongluo Kaiqiao Formula)",
+      "침(鍼, Acupuncture)",
+      "비위허약(Spleen Deficiency)",
+      "담탁폐색(Phlegm Obstruction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical efficacy of warm acupuncture on wind-cold-dampness rheumatoid arthritis",
+    "published_date": "2025-12-31",
+    "journal": "Malawi Medical Journal",
+    "pmid": "",
+    "doi": "10.4314/mmj.v37i5.15",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "온침(溫鍼, warm acupuncture)",
+      "풍한습(風寒濕)",
+      "염증 지표(Inflammatory factors)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Efficacy Observation of Fire Needle Short-term Intensive Treatment on Patients with Nonalcoholic Fatty Liver Disease (Cold-Dampness Constitution Type)",
+    "published_date": "2026-02-25",
+    "journal": "Journal of Contemporary Medical Practice",
+    "pmid": "",
+    "doi": "10.53469/jcmp.2026.08(02).17",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 4,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "Nonalcoholic Fatty Liver Disease (비알코올성 지방간 질환, NAFLD)",
+      "Fire Needle (화침, 火鍼)",
+      "Cold-Dampness Constitution (한습체질, 寒濕體質)",
+      "Acupuncture (침 치료, 鍼治療)",
+      "Liver Function (간 기능)",
+      "TCM Syndrome Differentiation (변증시치, 辨證施治)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Role of Acupuncture of 13 Ghost Points Combined with Cognitive Therapy in Alleviating Liver-qi Stagnation Depression: A Clinical Study",
+    "published_date": "2025-03",
+    "journal": "Journal of Physiological Investigation",
+    "pmid": "",
+    "doi": "10.4103/ejpi.ejpi-d-24-00064",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "간기울결(肝氣鬱結)",
+      "우울증(Depression)",
+      "13귀혈(13 Ghost Points)",
+      "침 치료(Acupuncture)",
+      "인지 치료(Cognitive Therapy)",
+      "플루옥세틴(Fluoxetine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Association of acupuncture combined with therapeutic massage with clinical outcomes in cervical radiculopathy: A retrospective cohort study",
+    "published_date": "2026-08-07",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000049993",
+    "study_type": "Cohort study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "keywords": [
+      "경추 신경근증(Cervical radiculopathy)",
+      "침(鍼, acupuncture)",
+      "치료적 마사지(Therapeutic massage)",
+      "경추 기능장애 지수(Neck Disability Index)",
+      "통증 완화(Pain reduction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Acupuncture combined with Tuina in the treatment of cervical longus tendinitis: A case report",
+    "published_date": "2023-11-17",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000035980",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54.2",
+        "label": "경부통",
+        "status": "candidate",
+        "archive_path": "conditions/neck-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "경장근 건염(Cervical longus tendinitis)",
+      "鍼(침, acupuncture)",
+      "推拿(추나, Tuina)",
+      "목 통증(Neck pain)",
+      "연하통(Odynophagia)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Treatment of knee osteoarthritis by acupuncture combined with Tuina massage for both the knee and ankle joints simultaneously",
+    "published_date": "2025-09-30",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-7496069/v1",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M17",
+        "label": "무릎 골관절염",
+        "status": "candidate",
+        "archive_path": "conditions/knee-osteoarthritis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "무릎 관절염(Knee Osteoarthritis)",
+      "침(鍼, Acupuncture)",
+      "추나(推拿, Tuina)",
+      "발목 관절(Ankle joint)",
+      "염증성 사이토카인(Inflammatory cytokines)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical observation of kidney-tonifying and mind-calming acupuncture therapy in the treatment of perimenopausal insomnia",
+    "published_date": "2023-12-29",
+    "journal": "Journal of Acupuncture and Tuina Science",
+    "pmid": "",
+    "doi": "10.1007/s11726-023-1415-z",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "폐경전기 불면증(Perimenopausal Insomnia)",
+      "보신안신(補腎安神)",
+      "침치료(Acupuncture)",
+      "수면의 질(Sleep Quality)",
+      "에스트라디올(Estradiol)",
+      "정신건강(Mental Health)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Research Progress on Common Protocols and Clinical Advantages of Acupuncture and Tuina Therapy for Peptic Ulcer",
+    "published_date": "2025-12-30",
+    "journal": "Journal of Contemporary Medical Practice",
+    "pmid": "",
+    "doi": "10.53469/jcmp.2025.07(12).16",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "소화성 궤양(Peptic Ulcer)",
+      "鍼(침, acupuncture)",
+      "推拿(추나, tuina)",
+      "전통의학(Traditional Chinese Medicine)",
+      "비약물적 치료(Non-pharmacological treatment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Chinese herbal medicine and acupuncture reduce mortality after intracerebral hemorrhage",
+    "published_date": "2026-04-17",
+    "journal": "Journal of the Chinese Medical Association",
+    "pmid": "",
+    "doi": "10.1097/jcma.0000000000001381",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌내출혈(Intracerebral hemorrhage)",
+      "中藥(중약, Chinese herbal medicine)",
+      "鍼(침, acupuncture)",
+      "사망률(Mortality)",
+      "혈부축어탕(血府逐瘀湯, Xue-Fu-Zhu-Yu-Tang)",
+      "시호가룡골모려탕(柴胡加龍骨牡蠣湯, Chai-Hu-Jia-Long-Gu-Mu-Li-Tang)",
+      "보양환오탕(補陽還五湯, Bu-Yang-Huan-Wu-Tang)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  }
+]
