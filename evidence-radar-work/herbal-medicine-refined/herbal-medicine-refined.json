@@ -1,0 +1,4073 @@
+[
+  {
+    "title": "Review of HerbalMedicinefor the Treatment of Guillain-Barré Syndrome",
+    "published_date": "2025-06",
+    "journal": "대한한방내과학회지",
+    "pmid": "",
+    "doi": "10.22246/jikm.2025.46.3.359",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "길랭-바레 증후군(Guillain-Barré syndrome)",
+      "한약(Herbal medicine)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "휴즈 기능 점수(Hughes functional score)",
+      "바델 지수(Barthel Index)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "HerbalMedicinefor Oral Mucositis Induced by Chemoradiation Therapy: A Systematic Review and Meta-analysis",
+    "published_date": "2025-12",
+    "journal": "대한한방내과학회지",
+    "pmid": "",
+    "doi": "10.22246/jikm.2025.46.6.1532",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "구강점막염(Oral Mucositis)",
+      "한약(Herbal medicine)",
+      "화학방사선요법(Chemoradiation therapy)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness of Herbal Medicine Compared to Antidepressants in Patients with Schizophrenia Spectrum Disorders Accompanied by Depression: a systematic review and meta-analysis",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.21",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "조현병 스펙트럼 장애(Schizophrenia Spectrum Disorders)",
+      "우울증(Depression)",
+      "한약(Herbal Medicine, 韓藥)",
+      "항우울제(Antidepressants)",
+      "항정신병 약물(Antipsychotics)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Combined Herbal and Western Medicine Based on Traditional Chinese Medicine for Mild Cognitive Impairment and Dementia in Parkinson’s Disease: A Systematic Review and Meta-Analysis",
+    "published_date": "2025-05-15",
+    "journal": "Complementary Medicine Research",
+    "pmid": "",
+    "doi": "10.1159/000545937",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "파킨슨병(Parkinson's disease)",
+      "경도인지장애(Mild Cognitive Impairment)",
+      "파킨슨병 치매(Parkinson's disease dementia)",
+      "변증(Syndrome Differentiation)",
+      "한약(Herbal Medicine)",
+      "병용요법(Combination therapy)",
+      "몬트리올 인지 평가(MoCA)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Clinical effectiveness of traditional Chinese medicine in modulating intestinal microbiota for pediatric Mycoplasma pneumoniae pneumonia: A systematic review and meta-analysis",
+    "published_date": "2025-03-24",
+    "journal": "Eurasian Journal of Medicine and Oncology",
+    "pmid": "",
+    "doi": "10.36922/ejmo.8602",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "소아 마이코플라스마 폐렴(Pediatric Mycoplasma pneumoniae pneumonia)",
+      "한약(Traditional Chinese medicine, TCM)",
+      "장내 미생물군(Intestinal microbiota)",
+      "비피도박테리움 비피덤(Bifidobacterium bifidum)",
+      "염증 지표(Inflammatory markers)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Traditional herbal medicine in the treatment of acute and chronic rhinosinusitis: a systematic review",
+    "published_date": "2025-04-01",
+    "journal": "Rhinology Journal",
+    "pmid": "",
+    "doi": "10.4193/rhin23.526",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "부비동염(Rhinosinusitis)",
+      "한약(Herbal medicine)",
+      "전통의학(Traditional Medicine)",
+      "급성 부비동염(Acute rhinosinusitis)",
+      "만성 부비동염(Chronic rhinosinusitis)",
+      "BNO-1016",
+      "향거(Xiangju)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Herbal Medicine for Treating Herpes Labialis: A Systematic Review",
+    "published_date": "2025-11",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1089/jicm.2025.0131",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "구순포진(Herpes labialis)",
+      "한약(Herbal Medicine)",
+      "레몬밤(Melissa officinalis)",
+      "올리브 잎 추출물(Olive leaf extract)",
+      "프로폴리스(Propolis)",
+      "세이지(Salvia officinalis)",
+      "대황(Rheum palmatum)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Herbal Medicines for the Improvement of Immune Function in Patients With Non-Small Cell Lung Cancer: A Systematic Review and Meta-Analysis",
+    "published_date": "2024-01",
+    "journal": "Integrative Cancer Therapies",
+    "pmid": "",
+    "doi": "10.1177/15347354241287775",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "비소세포폐암(Non-Small Cell Lung Cancer)",
+      "한약(Herbal Medicine)",
+      "면역 기능(Immune Function)",
+      "CD4+ T세포",
+      "CD8+ T세포",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-Analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and Safety of Orally Administered East Asian Herbal Medicine Combined with Narrowband Ultraviolet B against Psoriasis: A Bayesian Network Meta-Analysis and Network Analysis",
+    "published_date": "2024-08-13",
+    "journal": "Nutrients",
+    "pmid": "",
+    "doi": "10.3390/nu16162690",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "건선(Psoriasis)",
+      "동양 한약(East Asian Herbal Medicine)",
+      "협대역 자외선 B(Narrowband Ultraviolet B, NB-UVB)",
+      "베이지안 네트워크 메타분석(Bayesian Network Meta-Analysis)",
+      "PASI",
+      "병용 요법(Combination Therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Safety and efficacy of East Asian herbal medicine for iron deficiency anemia in children and adolescents: a systematic review and meta-analysis",
+    "published_date": "2024-04-08",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1339486",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "철결핍성 빈혈(Iron Deficiency Anemia)",
+      "한약(Herbal Medicine)",
+      "소아(Children)",
+      "청소년(Adolescents)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness and safety of East Asian herbal medicine for menopausal insomnia: a systematic review and meta-analysis",
+    "published_date": "2024-08-08",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1414700",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      },
+      {
+        "code": "N95",
+        "label": "갱년기",
+        "archive_path": "conditions/menopause/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "갱년기 불면증(Menopausal insomnia)",
+      "동아시아 한약(East Asian herbal medicine)",
+      "산조인탕(Suan Zao Ren Tang)",
+      "수면의 질(Sleep quality)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Dose-response of acupuncture on ovulation rates in polycystic ovary syndrome: a meta-analysis and exploratory dose-response analysis",
+    "published_date": "2025-08-28",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2025.1610338",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "鍼(침, acupuncture)",
+      "韓藥(한약, herbal medicine)",
+      "배란율(ovulation rates)",
+      "용량-반응 분석(dose-response analysis)",
+      "네트워크 메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Meta-analysis of spleen-strengthening and phlegm-resolving herbal therapy for airway mucus hypersecretion in chronic obstructive pulmonary disease",
+    "published_date": "2026-03-19",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1776303",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 폐쇄성 폐질환(Chronic Obstructive Pulmonary Disease, COPD)",
+      "건비화담(健脾化痰, Spleen-strengthening and Phlegm-resolving)",
+      "기도 점액 과분비(Airway mucus hypersecretion)",
+      "한약(Herbal medicine)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Quantitative analysis of Chinese herbal medicine for post-stroke fatigue: a meta-analysis and medication pattern study.",
+    "published_date": "2026",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "42602211",
+    "doi": "10.3389/fphar.2026.1880065",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "뇌졸중 후 피로(Post-stroke fatigue, PSF)",
+      "중약(Chinese herbal medicine, CHM)",
+      "메타분석(Meta-analysis)",
+      "처방 패턴 분석(Medication pattern study)",
+      "보허활혈(Tonifying deficiency and activating blood)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Chinese herbal medicine for multiple sclerosis: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2025-09-22",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1635833",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "다발성 경화증(Multiple Sclerosis)",
+      "중약(Chinese Herbal Medicine)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)",
+      "확장 장애 상태 척도(EDSS)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Chinese herbal medicine for metabolic conditions: a systematic review and meta-analysis of randomised controlled trials",
+    "published_date": "2026-01-02",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1644950",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "거습(祛濕, eliminating dampness)",
+      "중약(中藥, Chinese herbal medicine)",
+      "대사성 질환(Metabolic conditions)",
+      "제2형 당뇨병(Type 2 Diabetes Mellitus)",
+      "고혈압(Hypertension)",
+      "비만(Obesity)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effects of Chinese herbal medicine on colorectal adenoma recurrence following polypectomy: a systematic review and meta-analysis",
+    "published_date": "2025-03-20",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1460900",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "대장 선종(Colorectal Adenoma)",
+      "용종 절제술(Polypectomy)",
+      "중약(Chinese Herbal Medicine)",
+      "재발 예방(Recurrence Prevention)",
+      "사군자탕(四君子湯, Si jun zi decoction)",
+      "삼자 과립(San zi granule)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Therapeutic potential of Chinese herbal medicine for coronary heart disease patients with cerebral ischemic stroke: a systematic review and meta-analysis",
+    "published_date": "2025-07-16",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1578783",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "관상동맥성 심장질환(Coronary Heart Disease)",
+      "뇌허혈성 뇌졸중(Cerebral Ischemic Stroke)",
+      "중약(Chinese Herbal Medicine)",
+      "메타분석(Meta-analysis)",
+      "지질 프로필(Lipid profiles)",
+      "혈류역학(Hemorheology)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy comparison of four different Chinese herbal mediciness in intervening acute respiratory distress syndrome: a bayesian network meta-analysis",
+    "published_date": "2025-11-21",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1671930",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "급성 호흡곤란 증후군(Acute Respiratory Distress Syndrome, ARDS)",
+      "중의약(Chinese Herbal Medicine, CHM)",
+      "네트워크 메타분석(Network Meta-Analysis, NMA)",
+      "宣白承氣湯(선백승기탕, XBCQD)",
+      "佛手散(불수산, FSA)",
+      "기계 환기 기간(Mechanical Ventilation Duration)",
+      "산소화 지표(P/F ratio)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effect of Chinese herbal medicine on sexual characteristics of females with precocious puberty: a meta-analysis",
+    "published_date": "2025-11-10",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1703077",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "성조숙증(Precocious Puberty)",
+      "중약(Chinese Herbal Medicine)",
+      "한약(Herbal Medicine)",
+      "이차 성징(Secondary Sexual Characteristics)",
+      "GnRHa",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effect of Chinese herbal medicine as an adjunctive technique to standard treatment for personal with diabetic foot ulcers: A meta-analysis",
+    "published_date": "2024-07-20",
+    "journal": "International Journal of Clinical Medical Research",
+    "pmid": "",
+    "doi": "10.61466/ijcmr2040003",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "당뇨병성 족부궤양(Diabetic foot ulcers)",
+      "중약(Chinese herbal medicine, 中藥)",
+      "보조 요법(Adjunctive technique)",
+      "상처 치유(Wound healing)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Chinese Herbal Medicine as an Adjuvant Therapy in Treating Central Precocious Puberty: A Systematic Review and Meta-Analysis of Randomized Control Trials",
+    "published_date": "2025-03",
+    "journal": "Natural Product Communications",
+    "pmid": "",
+    "doi": "10.1177/1934578x251323772",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "중추성 성조숙증(Central Precocious Puberty, CPP)",
+      "중약(Chinese Herbal Medicine, CHM)",
+      "보조요법(Adjuvant Therapy)",
+      "지백지황탕(Zhibai dihuang formula)",
+      "성호르몬(Sex Hormones)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Systematic review of Chinese medicine for the treatment of atherosclerosis",
+    "published_date": "2025-11-03",
+    "journal": "Frontiers in Cardiovascular Medicine",
+    "pmid": "",
+    "doi": "10.3389/fcvm.2025.1671008",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "죽상동맥경화증(Atherosclerosis, AS)",
+      "중약(Chinese Medicine)",
+      "단일 본초(Single Herbal Medicines)",
+      "천연 화합물(Natural Compounds)",
+      "심혈관 질환(Cardiovascular Diseases, CVDs)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "The efficacy and safety of Chinese herbal medicine for mild cognitive impairment: a systematic review and meta-analysis of randomized placebo-controlled trials",
+    "published_date": "2024-02-15",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1341074",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "경도인지장애(Mild Cognitive Impairment, MCI)",
+      "중약(Chinese Herbal Medicine, CHM)",
+      "인지 기능(Cognitive Function)",
+      "MMSE",
+      "MoCA",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Chinese herbal medicine in the treatment of anxiety and depression in male sexual dysfunction: a systematic review and meta-analysis",
+    "published_date": "2025-05-31",
+    "journal": "Sexual Medicine",
+    "pmid": "",
+    "doi": "10.1093/sexmed/qfaf048",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "남성 성기능 장애(Male Sexual Dysfunction)",
+      "중약(Chinese Herbal Medicine, 中藥)",
+      "불안(Anxiety)",
+      "우울(Depression)",
+      "발기부전(Erectile Dysfunction, ED)",
+      "조루증(Premature Ejaculation, PE)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of common Chinese herbal medicines in treating psoriasis: a systematic review and meta-analysis",
+    "published_date": "2026-02-20",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2026.1718564",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "건선(Psoriasis)",
+      "한약(Herbal medicine)",
+      "청열해독(Clear heat and detoxify)",
+      "PASI score",
+      "DLQI score",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine for insomnia: A systematic review and network meta-analysis",
+    "published_date": "2025-08-15",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043789",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "불면증(Insomnia)",
+      "중약(Chinese herbal medicine)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "수면 질(Sleep quality)",
+      "피츠버그 수면 질 지수(PSQI)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness of Chinese Herbal Medicine in Postoperative Fatigue\nSyndrome Following Total Joint Arthroplasty or Hip Fracture Surgery:\nEvidence from Randomized Controlled Trials",
+    "published_date": "2024-09",
+    "journal": "Combinatorial Chemistry & High Throughput Screening",
+    "pmid": "",
+    "doi": "10.2174/0113862073258802231107060433",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "수술 후 피로 증후군(POFS)",
+      "중약(CHM, Chinese Herbal Medicine)",
+      "인공관절 전치환술(TJA)",
+      "고관절 골절 수술(HFS)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Traditional Chinese herbal compound as complementary treatment for nonspecific low back pain: A randomized controlled trial",
+    "published_date": "2024-11-08",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000040392",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "archive_path": "conditions/low-back-pain/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "비특이적 요통(nonspecific low back pain)",
+      "補腎通絡(보신통락, Bu Shen Tong Luo)",
+      "한약(herbal medicine)",
+      "Celecoxib(셀레콕시브)",
+      "변증(syndrome differentiation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Astragalus-containing Chinese herbal medicine used with Western medicine for lupus nephritis: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2025-02-21",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1395844",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "루푸스 신염(Lupus Nephritis)",
+      "황기(Astragalus)",
+      "중약(Chinese Herbal Medicine)",
+      "병용 요법(Combination Therapy)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis",
+    "published_date": "2024-04-03",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1295564",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "우울증(Depression)",
+      "중약(Chinese herbal medicines)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "HAMD",
+      "치료 반응률(Response rate)",
+      "안전성(Safety)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Herbal medicine for asymptomatic hyperuricemia: a systematic review and network meta-analysis",
+    "published_date": "2025-09-29",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1627714",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "무증상 고요산혈증(Asymptomatic Hyperuricemia)",
+      "한약(Herbal Medicine, 漢藥)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "혈청 요산(Serum Uric Acid)",
+      "지질 프로필(Lipid Profile)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Different acupuncture and moxibustion therapies in the treatment of IBS-D with anxiety and depression: A network meta-analysis",
+    "published_date": "2024-04-26",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000037982",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "설사형 과민성 장 증후군(IBS-D)",
+      "불안(Anxiety)",
+      "우울(Depression)",
+      "침(鍼, Acupuncture)",
+      "뜸(灸, Moxibustion)",
+      "전침(電鍼, Electroacupuncture)",
+      "한약(漢藥, Chinese Herbal Medicine)",
+      "네트워크 메타분석(Network Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of the combination of Chinese herbal medicine and negative pressure wound therapy in the treatment of patients with diabetic foot ulcer: A meta-analysis.",
+    "published_date": "2024-04",
+    "journal": "International wound journal",
+    "pmid": "38069543",
+    "doi": "10.1111/iwj.14536",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "당뇨병성 족부궤양(Diabetic Foot Ulcer)",
+      "중약(Chinese herbal medicine)",
+      "음압 상처 치료(Negative Pressure Wound Therapy, NPWT)",
+      "상처 치유(Wound healing)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of traditional Chinese medicine for endometriosis-related pain: a meta-analysis.",
+    "published_date": "2025",
+    "journal": "American journal of translational research",
+    "pmid": "41268238",
+    "doi": "10.62347/RHXV3554",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N94",
+        "label": "생리통",
+        "archive_path": "conditions/primary-dysmenorrhea/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "자궁내막증(Endometriosis)",
+      "중약(Chinese herbal medicine)",
+      "생리통(Dysmenorrhea)",
+      "성교통(Dyspareunia)",
+      "골반통(Pelvic pain)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Dissecting the efficacy of the use of acupuncture and Chinese herbal medicine for the treatment of premature ovarian insufficiency (POI): A systematic review and metaanalysis.",
+    "published_date": "2023-10",
+    "journal": "Heliyon",
+    "pmid": "37818004",
+    "doi": "10.1016/j.heliyon.2023.e20498",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "조기 난소 부전(Premature Ovarian Insufficiency, POI)",
+      "침(鍼, acupuncture)",
+      "한약(漢藥, Chinese herbal medicine)",
+      "호르몬 수치(Hormone levels)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Comparative effectiveness of nonsurgical interventions for urinary incontinence in older women: A systematic review and network meta-analysis.",
+    "published_date": "2024-01",
+    "journal": "Archives of gerontology and geriatrics",
+    "pmid": "37832271",
+    "doi": "10.1016/j.archger.2023.105214",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "요실금(urinary incontinence)",
+      "고령 여성(older women)",
+      "비수술적 중재(nonsurgical interventions)",
+      "중약(Chinese herbal medicine)",
+      "행동요법(behavioral therapy)",
+      "鍼(침, acupuncture)",
+      "네트워크 메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness of Zhibai Dihuang pill (Chinese herbal formula) in combination with western drugs in the treatment of recurrent aphthous stomatitis: A systematic review and meta-analysis.",
+    "published_date": "2023-10-27",
+    "journal": "Medicine",
+    "pmid": "37904377",
+    "doi": "10.1097/MD.0000000000035180",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "재발성 아프타성 구내염(Recurrent Aphthous Stomatitis)",
+      "知柏地黃丸(지백지황환, Zhibai Dihuang pill)",
+      "병용 요법(Combination therapy)",
+      "메타분석(Meta-analysis)",
+      "구강 궤양(Oral ulcer)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Adjunctive Effect and Safety of Chinese Herbal Medicine in Patients with Coronary Artery Disease Undergoing Percutaneous Coronary Intervention: A Systematic Review and Meta-Analysis.",
+    "published_date": "2024-05",
+    "journal": "Alternative therapies in health and medicine",
+    "pmid": "37917887",
+    "doi": "",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "관상동맥질환(Coronary Artery Disease, CAD)",
+      "경피적 관상동맥 중재술(Percutaneous Coronary Intervention, PCI)",
+      "중약(Chinese Herbal Medicine, CHM)",
+      "주요 심혈관계 사건(Major Adverse Cardiovascular Events, MACEs)",
+      "심혈관 보호(Cardiovascular Protection)",
+      "메타분석(Meta-Analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "An updated systematic review and meta-analysis of efficacy and safety of Chinese herbal medicine for treating atopic dermatitis.",
+    "published_date": "2023-12",
+    "journal": "The Journal of dermatological treatment",
+    "pmid": "37955143",
+    "doi": "10.1080/09546634.2023.2268766",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "L20",
+        "label": "아토피피부염",
+        "archive_path": "conditions/atopic-dermatitis/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "아토피 피부염(Atopic Dermatitis)",
+      "중약(Chinese herbal medicine)",
+      "한약(Herbal medicine)",
+      "메타분석(Meta-analysis)",
+      "회복률(Recovery rate)",
+      "재발률(Recurrence rate)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Systematic Assessment of Chinese Medicine Compounds for Mitigating Anthracycline-Induced Cardiotoxicity.",
+    "published_date": "2024-11",
+    "journal": "Alternative therapies in health and medicine",
+    "pmid": "38430166",
+    "doi": "",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "안트라사이클린 유발 심독성(Anthracycline-induced cardiotoxicity)",
+      "중약(Chinese herbal medicine)",
+      "메타분석(Meta-analysis)",
+      "좌심실 박출률(LVEF)",
+      "심장 표지자(Cardiac markers)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Traditional Chinese medicine lowering lipid levels and cardiovascular events across baseline lipid levels among coronary heart disease: a meta-analysis of randomized controlled trials.",
+    "published_date": "2024",
+    "journal": "Frontiers in cardiovascular medicine",
+    "pmid": "39055660",
+    "doi": "10.3389/fcvm.2024.1407536",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "관상동맥성 심장질환(Coronary Heart Disease)",
+      "중약(Chinese Herbal Medicine)",
+      "이상지질혈증(Dyslipidemia)",
+      "주요 심혈관계 사건(MACEs)",
+      "저밀도 지질단백질 콜레스테롤(LDL-C)",
+      "중성지방(TG)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine for obstructive sleep apnoea: a systematic review with meta-analysis.",
+    "published_date": "2024-12-12",
+    "journal": "Sleep & breathing = Schlaf & Atmung",
+    "pmid": "39665846",
+    "doi": "10.1007/s11325-024-03194-y",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "폐쇄성 수면무호흡증(Obstructive Sleep Apnoea, OSA)",
+      "한약(Chinese Herbal Medicine, CHM)",
+      "무호흡-저호흡 지수(Apnoea Hypopnoea Index, AHI)",
+      "지속적 양압기(Continuous Positive Airway Pressure, CPAP)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine for the treatment of children with cerebral palsy: a meta-analysis of randomized controlled trials with core herbs exploration.",
+    "published_date": "2025",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "40078275",
+    "doi": "10.3389/fphar.2025.1500095",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "뇌성마비(Cerebral Palsy)",
+      "중약(Chinese Herbal Medicine)",
+      "메타분석(Meta-analysis)",
+      "대근육 기능 평가(Gross Motor Function Measure, GMFM)",
+      "핵심 본초(Core herbs)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "The efficacy and safety of Chinese herbal medicine Shugan Sanjie decoction in the treatment of uterine fibroids: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "40313615",
+    "doi": "10.3389/fphar.2025.1508015",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "자궁근종(Uterine Fibroids)",
+      "舒肝散結湯(서간산결탕, Shugan Sanjie Decoction)",
+      "미페프리스톤(Mifepristone)",
+      "루프로라이드 아세테이트(Leuprolide acetate)",
+      "한약(Herbal Medicine)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Unconventional Treatments for Pancreatic Cancer: A Systematic Review.",
+    "published_date": "2025-04-25",
+    "journal": "Cancers",
+    "pmid": "40361364",
+    "doi": "10.3390/cancers17091437",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "췌장암(Pancreatic cancer)",
+      "비관습적 치료(Unconventional treatments)",
+      "중약(中藥, Chinese herbal medicine)",
+      "전침(電鍼, Electroacupuncture)",
+      "커큐민(Curcumin)",
+      "통합 종양학(Integrative oncology)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Chinese herbal medicine in patients with osteoporosis: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in medicine",
+    "pmid": "40786085",
+    "doi": "10.3389/fmed.2025.1620264",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "골다공증(Osteoporosis)",
+      "중약(Chinese Herbal Medicine)",
+      "골밀도(Bone Mineral Density, BMD)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine Ding Kun Dan for menopausal syndrome: A systematic review and meta-analysis of randomized controlled trials.",
+    "published_date": "2026-06",
+    "journal": "Integrative medicine research",
+    "pmid": "41143285",
+    "doi": "10.1016/j.imr.2025.101254",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N95",
+        "label": "갱년기",
+        "archive_path": "conditions/menopause/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "갱년기 증후군(Menopausal syndrome)",
+      "정곤단(Ding Kun Dan, 定坤丹)",
+      "한약(Herbal medicine)",
+      "호르몬 대체 요법(Menopause Hormone Therapy, MHT)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "The clinical efficacy of herbal medicines containing leeches in the treatment of coronary heart disease: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "41181591",
+    "doi": "10.3389/fphar.2025.1643611",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "冠心病(관상동맥성 심장질환, Coronary Heart Disease)",
+      "地蛭(지질, Leech)",
+      "Hirudin(히루딘)",
+      "血流動力學(혈액유변학, Hemorheology)",
+      "心電圖(심전도, ECG)",
+      "Meta-analysis(메타분석)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Oral Chinese herbal medicine in combination with opioids for treatment of cancer pain: A systematic review and meta-analysis.",
+    "published_date": "2026-01",
+    "journal": "Journal of traditional and complementary medicine",
+    "pmid": "41696742",
+    "doi": "10.1016/j.jtcme.2025.12.002",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "암성 통증(Cancer Pain)",
+      "경구 중약(Oral Chinese Herbal Medicine)",
+      "마약성 진통제(Opioids)",
+      "병용 요법(Combination Therapy)",
+      "통증 강도(Pain Intensity)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Chinese medicine in the adjuvant treatment of Hashimoto's thyroiditis with hypothyroidism: a systematic review and meta-analysis.",
+    "published_date": "2024-04",
+    "journal": "Biotechnology & genetic engineering reviews",
+    "pmid": "36942566",
+    "doi": "10.1080/02648725.2023.2184959",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "하시모토 갑상선염(Hashimoto's thyroiditis)",
+      "갑상선 기능 저하증(Hypothyroidism)",
+      "중약(Chinese Herbal Medicine, CHM)",
+      "병용 요법(Combination therapy)",
+      "메타 분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Different therapies of Chinese herbal medicine for diarrhea-predominant irritable bowel syndrome: A network meta-analysis of double-blinded, placebo-controlled trials.",
+    "published_date": "2023-12-05",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "37328079",
+    "doi": "10.1016/j.jep.2023.116672",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "archive_path": "conditions/irritable-bowel-syndrome/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "설사형 과민성 대장 증후군(diarrhea-predominant irritable bowel syndrome, IBS-D)",
+      "중약(Chinese herbal medicine, CHM)",
+      "네트워크 메타분석(network meta-analysis)",
+      "健脾溫腎(건비온신, JPWS)",
+      "疏肝健脾(소간건비, SGJP)",
+      "IBS-SSS"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Clinical evidence of three traditional Chinese medicine drugs and three herbal formulas for COVID-19: A systematic review and meta-analysis of the Chinese population.",
+    "published_date": "2023-09",
+    "journal": "Journal of integrative medicine",
+    "pmid": "37596131",
+    "doi": "10.1016/j.joim.2023.08.001",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "COVID-19",
+      "중약(中藥, TCM drugs)",
+      "한약 처방(方劑, Herbal formulas)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "병용요법(Combination therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "A propensity score matched comparison of blood pressure lowering in essential hypertension patients treated with antihypertensive Chinese herbal Medicine: comparing the real-world registry data vs. randomized controlled trial.",
+    "published_date": "2023-12-31",
+    "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+    "pmid": "37639695",
+    "doi": "10.1080/10641963.2023.2249269",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "본태성 고혈압(Essential hypertension)",
+      "송령혈맥강(Songling Xuemaikang capsule)",
+      "성향 점수 매칭(Propensity score matching)",
+      "실제 임상 데이터(Real-world data)",
+      "혈압 강하(Blood pressure lowering)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine for post-viral fatigue: A systematic review of randomized controlled trials.",
+    "published_date": "2024",
+    "journal": "PloS one",
+    "pmid": "38512808",
+    "doi": "10.1371/journal.pone.0300896",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "바이러스 후 피로(Post-viral fatigue)",
+      "중약(CHM, Chinese herbal medicine)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "면역 지표(Immune indicators)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Huzhang Granule, a compound Chinese herbal medicine, for acute gouty arthritis: A double-blind, randomized controlled trial.",
+    "published_date": "2024-05",
+    "journal": "Journal of integrative medicine",
+    "pmid": "38553375",
+    "doi": "10.1016/j.joim.2024.03.008",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "급성 통풍성 관절염(Acute Gouty Arthritis)",
+      "호장과립(Huzhang Granule)",
+      "에토리콕시브(Etoricoxib)",
+      "비열등성 시험(Noninferiority trial)",
+      "중약(Chinese herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Sijunzi decoction, a classical Chinese herbal formula, improves fatigue symptoms with changes in gut microbiota in chronic fatigue syndrome: A randomized, double-blind, placebo-controlled, multi-center clinical trial.",
+    "published_date": "2024-07",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "38640860",
+    "doi": "10.1016/j.phymed.2024.155636",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성피로증후군(Chronic Fatigue Syndrome)",
+      "사군자탕(四君子湯)",
+      "비기허(Spleen Deficiency)",
+      "장내 미생물(Gut Microbiota)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Chinese herbal medicine in treating postcholecystectomy diarrhea: A systematic review and meta-analysis.",
+    "published_date": "2024-05-03",
+    "journal": "Medicine",
+    "pmid": "38701312",
+    "doi": "10.1097/MD.0000000000038046",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "담낭절제술 후 설사(Postcholecystectomy diarrhea)",
+      "중약(Chinese herbal medicine)",
+      "한약(Herbal medicine)",
+      "메타분석(Meta-analysis)",
+      "비위허약(Spleen deficiency)",
+      "간기울결(Liver stagnation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Chinese herbal medicine to prevent and treat COVID-19 household close contacts in Hong Kong: an open-label, randomized controlled trial.",
+    "published_date": "2024",
+    "journal": "Frontiers in immunology",
+    "pmid": "38799438",
+    "doi": "10.3389/fimmu.2024.1359331",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "COVID-19",
+      "중약(中藥, Chinese herbal medicine)",
+      "밀접 접촉자(Close contacts)",
+      "예방(Prevention)",
+      "무작위 대조 시험(Randomized controlled trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine and acupuncture for insomnia in stroke patients: A systematic review and meta-analysis of randomised controlled trials.",
+    "published_date": "2024-08",
+    "journal": "Sleep medicine",
+    "pmid": "38905930",
+    "doi": "10.1016/j.sleep.2024.05.006",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "불면증(Insomnia)",
+      "한약(CHM)",
+      "침 치료(Acupuncture)",
+      "피츠버그 수면 질 지수(PSQI)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Exploring the role of Chinese herbal medicine in the long-term management of postoperative ovarian endometriotic cysts: a systematic review and meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38910886",
+    "doi": "10.3389/fphar.2024.1376037",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "난소 자궁내막종(Ovarian endometriotic cysts)",
+      "중약(Chinese herbal medicine)",
+      "재발 방지(Recurrence prevention)",
+      "한양방 병용요법(Combined CHM and CWM)",
+      "임신율(Pregnancy rate)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Statistical Analysis Plan for the Chinese Herbal Medicine in Acute Intracerebral Hemorrhage Trial.",
+    "published_date": "2025",
+    "journal": "Cerebrovascular diseases (Basel, Switzerland)",
+    "pmid": "39043146",
+    "doi": "10.1159/000540444",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "급성 뇌내출혈(Acute Intracerebral Hemorrhage)",
+      "中風醒腦方(중풍성뇌방, Zhong Feng Xing Nao prescription)",
+      "한약(Herbal Medicine)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "통계 분석 계획(Statistical Analysis Plan)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effect of cinnamon as a Chinese herbal medicine on markers of cardiovascular risk in women with polycystic ovary syndrome: A systematic review and meta-analysis of randomized controlled trials.",
+    "published_date": "2024-09",
+    "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+    "pmid": "39053085",
+    "doi": "10.1016/j.ejogrb.2024.07.032",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "다낭성 난소 증후군(PCOS)",
+      "계피(Cinnamon, 桂皮)",
+      "심혈관 위험(Cardiovascular risk)",
+      "인슐린 저항성(Insulin resistance)",
+      "대사 증후군(Metabolic syndrome)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Tianqi Pingchan Granule, a compound Chinese herbal medicine, for levodopa-induced dyskinesia in Parkinson's disease: A randomized double-blind placebo-controlled trial.",
+    "published_date": "2024-09",
+    "journal": "Journal of integrative medicine",
+    "pmid": "39060125",
+    "doi": "10.1016/j.joim.2024.07.002",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "파킨슨병(Parkinson's disease)",
+      "레보도파 유발성 이상운동증(levodopa-induced dyskinesia, LID)",
+      "Tianqi Pingchan Granule(천기평찬과립)",
+      "아마탄딘(amantadine)",
+      "한약(Chinese herbal medicine)",
+      "무작위 대조 시험(randomized controlled trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Chinese herbal medicines combined with biomedicine in the treatment of idiopathic membranous nephropathy: a systematic review and network meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "39539621",
+    "doi": "10.3389/fphar.2024.1391675",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "특발성 막성 신병증(Idiopathic membranous nephropathy)",
+      "중약(Chinese herbal medicines)",
+      "생의학(Biomedicine)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "요단백(Urinary protein)",
+      "병용요법(Combination therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine (JianPi-BuShen) and completion rate of adjuvant chemotherapy for patients with stage II and III colon cancer: A randomized clinical trial.",
+    "published_date": "2024-12",
+    "journal": "European journal of cancer (Oxford, England : 1990)",
+    "pmid": "39509846",
+    "doi": "10.1016/j.ejca.2024.115109",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "결장암(colon cancer)",
+      "건비보신탕(JianPi-BuShen formula)",
+      "보조 화학요법(adjuvant chemotherapy)",
+      "완료율(completion rate)",
+      "삶의 질(quality of life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Clinical efficacy of Chinese herbal medicine formula for Graves' hyperthyroidism: A multicentre, randomized, double-blind, placebo-controlled clinical trial.",
+    "published_date": "2025-02-10",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "39550016",
+    "doi": "10.1016/j.jep.2024.119106",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "Graves' hyperthyroidism (그레이브스 갑상선 기능 항진증)",
+      "Pingkang granules (평강과립, 平康顆粒)",
+      "Haizao Yuhu decoction (해조옥호탕, 海藻玉壺湯)",
+      "Methimazole (메티마졸)",
+      "Herbal Medicine (한약, 韓藥)",
+      "Randomized Controlled Trial (무작위 대조 시험)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Identifying an effective Chinese herbal medicine for reducing postoperative hidden bleeding and stabilizing blood volume following intertrochanteric femur fracture: a Bayesian network meta-analysis of randomized controlled trials.",
+    "published_date": "2024-12-26",
+    "journal": "Journal of orthopaedic surgery and research",
+    "pmid": "39725985",
+    "doi": "10.1186/s13018-024-05379-3",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "대퇴골 전자간 골절(Intertrochanteric femur fracture)",
+      "숨은 출혈(Hidden bleeding)",
+      "중약(Chinese herbal medicine)",
+      "베이지안 네트워크 메타분석(Bayesian network meta-analysis)",
+      "養血柔肝湯(양혈유간탕)",
+      "헤모글로빈(Haemoglobin)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Chinese herbal compound in the treatment of acute gouty arthritis: A systematic review and meta-analysis of randomized controlled trials.",
+    "published_date": "2025-03-06",
+    "journal": "International immunopharmacology",
+    "pmid": "39923577",
+    "doi": "10.1016/j.intimp.2025.114223",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "급성 통풍성 관절염 (Acute Gouty Arthritis)",
+      "중약 복합제 (Chinese herbal compounds)",
+      "한약 (Herbal medicine)",
+      "체계적 문헌고찰 (Systematic review)",
+      "메타분석 (Meta-analysis)",
+      "요산 (Uric acid)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine for dyspnea and persistent symptoms of long COVID: A systematic review and meta-analysis of randomized controlled trials.",
+    "published_date": "2025-03",
+    "journal": "Journal of integrative medicine",
+    "pmid": "39971694",
+    "doi": "10.1016/j.joim.2025.01.001",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "Long COVID",
+      "Chinese herbal medicine (中藥(중약))",
+      "Dyspnea (呼吸困難(호흡곤란))",
+      "Fatigue (疲勞(피로))",
+      "Mental health (精神健康(정신건강))",
+      "Systematic review (系統的評價(체계적 문헌고찰))"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Comparative effectiveness of ten traditional Chinese herbal formulas for acute exacerbation of chronic obstructive pulmonary disease: a systematic review and Bayesian network meta-analysis",
+    "published_date": "2026-01-15",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1585150",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성폐쇄성폐질환 급성 악화(AECOPD)",
+      "한약 처방(Herbal formulas)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "폐 기능(Lung function)",
+      "동맥혈 가스 분석(Arterial blood gas)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal formulas as adjuncts to antihistamines in chronic spontaneous urticaria: a network meta-analysis of efficacy, recurrence, and safety",
+    "published_date": "2026-04-22",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2026.1718329",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 자발성 두드러기(Chronic Spontaneous Urticaria)",
+      "항히스타민제(Antihistamines)",
+      "중의학 처방(TCM formulas)",
+      "당귀음자(當歸陰子)",
+      "옥병풍산(玉屏風散)",
+      "계지탕(桂枝湯)",
+      "네트워크 메타분석(Network Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "The Efficacy of the Herbal Formula of Bunium persicum and Coriandrum sativum on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Controlled Trial.",
+    "published_date": "2024",
+    "journal": "Complementary medicine research",
+    "pmid": "38981452",
+    "doi": "10.1159/000539472",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "Bunium persicum",
+      "Coriandrum sativum (고수)",
+      "약초 제제(Herbal preparation)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "The efficacy and safety of herbal formulas for adults with pulmonary hypertension combined with chronic obstructive pulmonary disease: a systematic review and meta-analysis involving 1,865 participants.",
+    "published_date": "2024-09-30",
+    "journal": "Journal of thoracic disease",
+    "pmid": "39444852",
+    "doi": "10.21037/jtd-24-471",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 폐쇄성 폐질환(COPD)",
+      "폐고혈압(Pulmonary Hypertension)",
+      "한약 처방(Herbal formulas)",
+      "전통 중의학(TCM)",
+      "폐동맥압(Pulmonary Artery Pressure)",
+      "폐 환기 기능(Pulmonary Ventilation Function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal formula Tongxie Yaofang granules for diarrhoea-predominant irritable bowel syndrome: a randomised, double-blind, placebo-controlled, phase II trial.",
+    "published_date": "2025-01-27",
+    "journal": "BMJ open",
+    "pmid": "39870499",
+    "doi": "10.1136/bmjopen-2024-088410",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "archive_path": "conditions/irritable-bowel-syndrome/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "설사형 과민성 대장 증후군(IBS-D)",
+      "통설요방(痛瀉要方, Tongxie Yaofang)",
+      "한약 제제(Herbal Medicine)",
+      "무작위 대조 시험(Randomised Controlled Trial)",
+      "IBS-SSS"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "통사요방",
+        "archive_path": "formulas/tongxie-yaofang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of a traditional Chinese herbal formula Xuefu Zhuyu prescription for hypertension: A meta-analysis of randomized controlled trials.",
+    "published_date": "2025-06-06",
+    "journal": "Medicine",
+    "pmid": "40489881",
+    "doi": "10.1097/MD.0000000000041661",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "혈부축어탕(血府逐瘀湯, Xuefu Zhuyu prescription)",
+      "고혈압(Hypertension)",
+      "메타분석(Meta-analysis)",
+      "심혈관 질환(Cardiovascular disease)",
+      "혈압 강하(Blood pressure reduction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal medicine (Tangshen Formula) formula treatment of patients with diabetic kidney disease: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in endocrinology",
+    "pmid": "40589511",
+    "doi": "10.3389/fendo.2025.1522759",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "당뇨병성 신증(Diabetic Kidney Disease)",
+      "당신방(Tangshen Formula)",
+      "한약(Herbal Medicine)",
+      "요단백(Urinary Protein)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal formula Huoxiang Zhengqi Qral liquid for atopic dermatitis: The CHARM randomized controlled trial.",
+    "published_date": "2025-11",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "40839987",
+    "doi": "10.1016/j.phymed.2025.157141",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "L20",
+        "label": "아토피피부염",
+        "archive_path": "conditions/atopic-dermatitis/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "곽향정기산(藿香正氣散, Huoxiang Zhengqi)",
+      "아토피 피부염(Atopic Dermatitis)",
+      "습진(Eczema)",
+      "EASI 점수(EASI score)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "곽향정기산",
+        "archive_path": "formulas/huoxiang-zhengqi-san/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of manufactured Chinese herbal formula for cervical radiculopathy: a systematic review with meta-analysis and trial sequential analysis",
+    "published_date": "2026-02-10",
+    "journal": "Frontiers in Neuroscience",
+    "pmid": "",
+    "doi": "10.3389/fnins.2026.1721569",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "경추 신경근증(Cervical Radiculopathy)",
+      "제조 한약(Manufactured Chinese Herbal Formula)",
+      "통증(Pain)",
+      "경추 기능 장애 지수(Neck Disability Index)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Evaluating the Safety of Herbal Medicine on Renal Function: A Comprehensive Analysis from Six Randomized Controlled Trials Conducted with Four Formulations from Traditional Korean Medicine",
+    "published_date": "2024-04-23",
+    "journal": "Pharmaceuticals",
+    "pmid": "",
+    "doi": "10.3390/ph17050544",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "한약(韓藥, Herbal Medicine)",
+      "신독성(腎毒性, Nephrotoxicity)",
+      "신장 기능(腎機能, Renal Function)",
+      "추정 사구체 여과율(eGFR)",
+      "안전성(安全性, Safety)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Clinical Effectiveness of Traditional Polyherbal Formulations for Wound Healing: A Systematic Review and Meta-Analysis.",
+    "published_date": "2026",
+    "journal": "TheScientificWorldJournal",
+    "pmid": "42109081",
+    "doi": "10.1155/tswj/1551004",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "다성분 한약 처방(Polyherbal formulations)",
+      "상처 치유(Wound healing)",
+      "당뇨병성 궤양(Diabetic ulcers)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal formula Xuefu Zhuyu oral liquid for primary dysmenorrhea: a multicenter randomized controlled trial.",
+    "published_date": "2026",
+    "journal": "Frontiers in medicine",
+    "pmid": "41907285",
+    "doi": "10.3389/fmed.2026.1724529",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N94",
+        "label": "생리통",
+        "archive_path": "conditions/primary-dysmenorrhea/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "원발성 생리통(Primary dysmenorrhea)",
+      "혈부축어탕(血府逐瘀湯, Xuefu Zhuyu)",
+      "경구액(Oral liquid)",
+      "무작위 대조 시험(Randomized controlled trial)",
+      "진통제 사용(Painkiller use)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "The additive effect of herbal medicines on lifestyle modification in the treatment of non-alcoholic fatty liver disease: a systematic review and meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38464716",
+    "doi": "10.3389/fphar.2024.1362391",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "비알코올성 지방간 질환(Non-alcoholic fatty liver disease, NAFLD)",
+      "한약(Herbal medicine, 韓藥)",
+      "생활습관 교정(Lifestyle modification)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of traditional Chinese medicine decoctions in breast cancer treatment: a network meta-analysis",
+    "published_date": "2026-07-08",
+    "journal": "Frontiers in Oncology",
+    "pmid": "",
+    "doi": "10.3389/fonc.2026.1785268",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "유방암(Breast cancer)",
+      "중약 탕제(Traditional Chinese medicine decoctions)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "객관적 반응률(Objective response rate)",
+      "면역 조절(Immune regulation)",
+      "항암 부작용(Chemotherapy side effects)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "A meta-analysis of the efficacy and safety of the traditional Chinese medicine formula Kaixinsan decoction for depression",
+    "published_date": "2024-01-05",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000036719",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "개심산(開心散, Kaixinsan)",
+      "우울증(Depression)",
+      "한약(Herbal Medicine)",
+      "메타분석(Meta-analysis)",
+      "항우울제(Antidepressants)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Cangfu Daotan decoction with Diane-35 in phlegm-dampness polycystic ovary syndrome: a meta-analysis and systematic review",
+    "published_date": "2026-02-20",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1761111",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "다낭성 난소 증후군(多囊性卵巢綜合征, Polycystic Ovary Syndrome)",
+      "창부다탄탕(蒼俯導痰湯, Cangfu Daotan decoction)",
+      "Diane-35",
+      "담습(痰濕, phlegm-dampness)",
+      "내분비 지표(endocrine indicators)",
+      "체질량지수(BMI)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of sini powder combined with Xiaoxianxiong decoction for adolescent depression with liver qi stagnation and phlegm-heat obstruction syndrome: a randomized controlled trial",
+    "published_date": "2026-06-12",
+    "journal": "Frontiers in Pediatrics",
+    "pmid": "",
+    "doi": "10.3389/fped.2026.1787781",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "청소년 우울증(Adolescent depression)",
+      "심니산(Sini San, 四逆散)",
+      "소선흉탕(Xiaoxianxiong Tang, 小旋胸湯)",
+      "간기울결(Liver qi stagnation)",
+      "담열저체(Phlegm-heat obstruction)",
+      "한의 병용 요법(TCM add-on therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of traditional Chinese medicine decoction as an adjuvant treatment for diabetic nephropathy: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2024-05-09",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1327030",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "당뇨병성 신병증(Diabetic nephropathy)",
+      "한약 탕제(TCM decoction)",
+      "보조 치료(Adjuvant treatment)",
+      "신장 기능(Renal function)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Banxia Shumi decoction for the treatment of insomnia: A systematic review and meta-analysis",
+    "published_date": "2025-11-28",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000046207",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "半夏秫米湯(반하숙미탕, Banxia Shumi decoction)",
+      "不眠(불면, Insomnia)",
+      "系統的 展望(계통적 문헌고찰, Systematic review)",
+      "메타분석(Meta-analysis)",
+      "수면의 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "반하서미탕",
+        "archive_path": "formulas/banxia-shumi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effect-enhancing and toxicity-reducing effects of Chaihu Jia Longgu Muli decoction in the treatment of multimorbidity with depression: a systematic review and meta-analysis.",
+    "published_date": "2023-12",
+    "journal": "Pharmaceutical biology",
+    "pmid": "37439185",
+    "doi": "10.1080/13880209.2023.2228356",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "柴胡加龍骨牡蠣湯(시호가룡골모려탕)",
+      "우울증(Depression)",
+      "다병환자(Multimorbidity)",
+      "항우울제(Antidepressants)",
+      "병용요법(Combination therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Huangqi Jianzhong decoction in the treatment of chronic atrophic gastritis: A meta-analysis.",
+    "published_date": "2023-08-26",
+    "journal": "World journal of clinical cases",
+    "pmid": "37727729",
+    "doi": "10.12998/wjcc.v11.i24.5710",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 위축성 위염(Chronic Atrophic Gastritis)",
+      "황기건중탕(黃芪建中湯, Huangqi Jianzhong decoction)",
+      "메타분석(Meta-analysis)",
+      "헬리코박터 파이로리(Helicobacter pylori)",
+      "위점막 위축(Gastric mucosal atrophy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Meta-Analysis of the Effect of Conventional Western Medicine Therapy Supplemented with Buyanghuanwu Decoction on Neurological Function and Condition Improvement of Patients with Cerebral Apoplexy in Convalescence.",
+    "published_date": "2024-07",
+    "journal": "Alternative therapies in health and medicine",
+    "pmid": "37944979",
+    "doi": "",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "보양환오탕(補陽還五湯)",
+      "신경학적 기능(Neurological function)",
+      "재활(Rehabilitation)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Five commonly used traditional Chinese medicine formulas in the treatment of ulcerative colitis: A network meta-analysis.",
+    "published_date": "2024-08-06",
+    "journal": "World journal of clinical cases",
+    "pmid": "39109018",
+    "doi": "10.12998/wjcc.v12.i22.5067",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "궤양성 대장염(Ulcerative Colitis)",
+      "한약 처방(TCM formulas)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "백두翁탕(Baitouweng decoction, BTWT)",
+      "작약탕(Shaoyao decoction)",
+      "신령백출산(Shenlingbaizhu powder, SLBZS)",
+      "메살라진(Mesalazine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Study on the Efficacy and Safety of the Huangqi Guizhi Wuwu Decoction in the Prevention and Treatment of Chemotherapy-Induced Peripheral Neuropathy: Meta-Analysis of 32 Randomized Controlled Trials.",
+    "published_date": "2024",
+    "journal": "Journal of pain research",
+    "pmid": "39139997",
+    "doi": "10.2147/JPR.S466658",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "항암화학요법 유발 말초신경병증(Chemotherapy-induced peripheral neuropathy)",
+      "황기계지오우탕(黃芪桂枝五味湯)",
+      "메타분석(Meta-analysis)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "말초신경병증 예방(Peripheral neuropathy prevention)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Comprehensive evaluation of Chinese herbal compound prescriptions for postoperative spinal cord injury: A network meta-analysis of randomized controlled trials.",
+    "published_date": "2024-09-30",
+    "journal": "Heliyon",
+    "pmid": "39347403",
+    "doi": "10.1016/j.heliyon.2024.e37058",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "척수손상(Spinal Cord Injury)",
+      "중약 복합 처방(Chinese herbal compound prescriptions)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "황기계지오우탕(黃芪桂枝五吳湯)",
+      "보양환오탕(補陽還五湯)",
+      "ASIA 점수(ASIA score)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Network Meta-analysis of the clinical efficacy and safety of kidney-tonifying and bone-strengthening therapies for the treatment of rheumatoid arthritis with kidney deficiency type.",
+    "published_date": "2024-12",
+    "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+    "pmid": "39617692",
+    "doi": "10.19852/j.cnki.jtcm.20240927.002",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "신허형(腎虛型, Kidney deficiency)",
+      "보신강골(補腎強骨, Kidney-tonifying and bone-strengthening)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "완비탕(完畢湯, Wanbi decoction)",
+      "보신거한지왕탕(補腎祛寒知網湯, Bushen Quhan Zhiwang decoction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Safety and Efficacy of Shaoyao Decoction with Anti-Inflammatory Effect in the Treatment of Ulcerative Colitis: A Meta-Analysis.",
+    "published_date": "2025-03",
+    "journal": "Iranian journal of public health",
+    "pmid": "40330184",
+    "doi": "10.18502/ijph.v54i3.18241",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "芍藥湯(작약탕, Shaoyao Decoction)",
+      "궤양성 대장염(Ulcerative Colitis)",
+      "메타분석(Meta-analysis)",
+      "염증성 장질환(Inflammatory Bowel Disease)",
+      "임상 유효율(Clinical effective rate)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness of Huangqi Guizhi Wuwu decoction combined with rehabilitation training for shoulder hand syndrome after stroke: A systematic review and meta-analysis.",
+    "published_date": "2023-11-24",
+    "journal": "Medicine",
+    "pmid": "38013357",
+    "doi": "10.1097/MD.0000000000036282",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "뇌졸중(stroke)",
+      "어깨-손 증후군(Shoulder Hand Syndrome)",
+      "황기계지오우탕(黃芪桂枝五味湯)",
+      "재활 훈련(rehabilitation training)",
+      "메타분석(meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effect of Bushen Tiansui Decoction on Delayed Fracture Healing: A Systematic Review and Meta-analysis.",
+    "published_date": "2023-12-01",
+    "journal": "Journal of musculoskeletal & neuronal interactions",
+    "pmid": "38037365",
+    "doi": "",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "補腎添髓湯(보신첨수탕, Bushen Tiansui Decoction)",
+      "골절 지연유합(delayed fracture healing)",
+      "골 대사(bone metabolism)",
+      "Harris 고관절 점수(Harris hip score)",
+      "체계적 문헌고찰(systematic review)",
+      "메타분석(meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Buzhongyiqi decoction combined with acupoint application for functional constipation in elderly people: A systematic review and meta-analysis.",
+    "published_date": "2024-01-19",
+    "journal": "Medicine",
+    "pmid": "38241527",
+    "doi": "10.1097/MD.0000000000036579",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "보중익기탕",
+        "archive_path": "formulas/bojungikgi-tang/"
+      }
+    ],
+    "kcd_candidates": [
+      {
+        "code": "K59.0",
+        "label": "변비",
+        "archive_path": "conditions/constipation/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "補中益氣湯(보중익기탕, Buzhongyiqi decoction)",
+      "穴位貼敷(혈위첩부, acupoint application)",
+      "기능성 변비(Functional constipation)",
+      "노인(Elderly)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "보중익기탕",
+        "archive_path": "formulas/bojungikgi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Zhishi Xiebai Guizhi Decoction for coronary heart disease: A systematic review and meta-analysis.",
+    "published_date": "2024-01-19",
+    "journal": "Medicine",
+    "pmid": "38241594",
+    "doi": "10.1097/MD.0000000000036588",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "관상동맥질환(Coronary Heart Disease)",
+      "지실해백계지탕(Zhishi Xiebai Guizhi Decoction)",
+      "한약(Herbal Medicine)",
+      "메타분석(Meta-analysis)",
+      "혈중지질(Blood Lipid)",
+      "혈관내피기능(Vascular Endothelial Function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Wuhu decoction combined with azithromycin for treatment of Mycoplasma pneumoniae pneumonia in Asian children: a systematic review and meta analysis of randomized controlled trials.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38633618",
+    "doi": "10.3389/fphar.2024.1329516",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "Mycoplasma pneumoniae pneumonia(마이코플라스마 폐렴)",
+      "Wuhu Decoction(五虎湯, 오호탕)",
+      "Azithromycin(아지스로마이신)",
+      "Pediatrics(소아과)",
+      "Systematic Review(체계적 문헌고찰)",
+      "Meta-analysis(메타분석)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Exploring the therapeutic potential of \"Xiaochaihu Decoction\": a systematic review and meta-analysis on the clinical effectiveness and safety in managing cancer-related fever.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38803432",
+    "doi": "10.3389/fphar.2024.1359866",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "小柴胡湯(소시호탕, Xiaochaihu Decoction)",
+      "암 관련 발열(Cancer-related Fever, CRF)",
+      "체온 조절(Temperature regulation)",
+      "삶의 질(Quality of Life)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effects of modified Danggui Sini Decoction as adjuvant therapy for angina pectoris in coronary heart disease: a systematic review and meta-analysis based on randomised controlled trials.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38895625",
+    "doi": "10.3389/fphar.2024.1375795",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "가감당귀사역탕(Modified Danggui Sini Decoction, 加減當歸四逆湯)",
+      "협심증(Angina Pectoris)",
+      "관상동맥질환(Coronary Heart Disease)",
+      "병용요법(Adjuvant therapy)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Xiangsha liujunzi decoction for functional dyspepsia: a systematic review and meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38933675",
+    "doi": "10.3389/fphar.2024.1356899",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "향사육군자탕(香砂六君子湯)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "향사육군자탕",
+        "archive_path": "formulas/xiangsha-liujunzi-tang/"
+      },
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "The efficacy and safety of Dachaihu decoction in the treatment of nonalcoholic fatty liver disease: a systematic review and meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in medicine",
+    "pmid": "39015790",
+    "doi": "10.3389/fmed.2024.1397900",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "비알코올성 지방간 질환(NAFLD)",
+      "대청룡탕(大柴胡湯, Dachaihu decoction)",
+      "간 기능(Liver function)",
+      "ALT(알라닌 아미노전이효소)",
+      "지질 대사(Lipid metabolism)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of cangfu daotan decoction as an adjuvant treatment of Diane-35 for polycystic ovary syndrome: A systematic review and meta-analysis.",
+    "published_date": "2024-09-15",
+    "journal": "Heliyon",
+    "pmid": "39281507",
+    "doi": "10.1016/j.heliyon.2024.e36959",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "蒼腑導痰湯(창부도담탕, Cangfu Daotan decoction)",
+      "Diane-35",
+      "병용요법(Adjuvant therapy)",
+      "임신율(Pregnancy rate)",
+      "고안드로겐혈증(Hyperandrogenism)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effects of Qingjin Huatan decoction on pulmonary function and inflammatory mediators in acute exacerbations of chronic obstructive pulmonary disease: a systematic review and meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "39494348",
+    "doi": "10.3389/fphar.2024.1466677",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "청금화담탕(Qingjin Huatan decoction)",
+      "만성 폐쇄성 폐질환의 급성 악화(AECOPD)",
+      "폐 기능(Pulmonary function)",
+      "염증 매개체(Inflammatory mediators)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of different traditional Chinese medicine decoctions in the treatment of ischemic stroke: a network meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "39555103",
+    "doi": "10.3389/fphar.2024.1486458",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "허혈성 뇌졸중(Ischemic Stroke)",
+      "중의학 탕약(TCM Decoctions)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "혈부축어탕(血府逐瘀湯)",
+      "신기통락탕(神氣通絡湯)",
+      "화담통락탕(化痰通絡湯)",
+      "NIHSS 점수",
+      "바델 지수(Barthel Index)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Precision Strike Strategy for Liver Diseases Trilogy with Xiao-Chai-Hu Decoction: A Meta-Analysis with Machine Learning.",
+    "published_date": "2025-07",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "40347886",
+    "doi": "10.1016/j.phymed.2025.156796",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "소시호탕(小柴胡湯, Xiao-Chai-Hu Decoction)",
+      "간염(Hepatitis)",
+      "간섬유화(Liver Fibrosis)",
+      "간암(Hepatic Carcinoma, HCC)",
+      "메타분석(Meta-analysis)",
+      "머신러닝(Machine Learning)",
+      "정밀의학(Precision Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Jinshui Liujun decoction on chronic obstructive pulmonary disease patients: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "40469977",
+    "doi": "10.3389/fphar.2025.1567452",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 폐쇄성 폐질환(Chronic Obstructive Pulmonary Disease, COPD)",
+      "금수육군탕(Jinshui Liujun decoction, JSD)",
+      "폐 기능(Pulmonary function)",
+      "메타분석(Meta-analysis)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Correction: Efficacy of Jinshui Liujun decoction on chronic obstructive pulmonary disease patients: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "40918518",
+    "doi": "10.3389/fphar.2025.1643998",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "금수육군탕(Jinshui Liujun decoction)",
+      "만성 폐쇄성 폐질환(Chronic Obstructive Pulmonary Disease, COPD)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)",
+      "한약(Herbal Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness and safety of Maxing Shigan Decoction for community-acquired pneumonia: a systematic review and meta-analysis of randomized controlled trials.",
+    "published_date": "2025",
+    "journal": "Frontiers in medicine",
+    "pmid": "40950987",
+    "doi": "10.3389/fmed.2025.1639027",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "지역사회 획득성 폐렴(Community-acquired pneumonia)",
+      "마황석간탕(麻杏石甘湯, Maxing Shigan Decoction)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)",
+      "병용요법(Combination therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and Safety of Huangqi Guizhi Wuwu Decoction for Oxaliplatin-Induced Peripheral Neurotoxicity: A Systematic Review and Meta-Analysis.",
+    "published_date": "2024-01",
+    "journal": "Alternative therapies in health and medicine",
+    "pmid": "37820675",
+    "doi": "",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "옥살리플라틴 유발 말초신경독성(Oxaliplatin-induced peripheral neurotoxicity, OIPN)",
+      "황기계지오우탕(黃芪桂枝五味湯)",
+      "대장암(Colorectal cancer)",
+      "메타분석(Meta-analysis)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Buyang Huanwu decoction for diabetic peripheral neuropathy: a systematic review and Metaanalysis.",
+    "published_date": "2023-10",
+    "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+    "pmid": "37679971",
+    "doi": "10.19852/j.cnki.jtcm.20230802.002",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "補陽還五湯(보양환오탕, Buyang Huanwu Decoction)",
+      "당뇨병성 말초신경병증(Diabetic Peripheral Neuropathy)",
+      "신경전도속도(Nerve Conduction Velocity)",
+      "메타분석(Meta-analysis)",
+      "혈액점도(Blood Viscosity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and Adverse Reactions of Dahuang Mudan decoction Combined with Laparoscopy in the Treatment of Appendicitis: A Meta-Analysis.",
+    "published_date": "2023-11",
+    "journal": "Alternative therapies in health and medicine",
+    "pmid": "37773648",
+    "doi": "",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "급성 충수염(Acute Appendicitis)",
+      "대황목단탕(大黃牡丹湯, Dahuang Mudan Tang)",
+      "복강경 수술(Laparoscopy)",
+      "청열해독(Clear heat and detoxify)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Clinical efficacy of Huanglian Wendan decoction in treating type 2 diabetes mellitus: A systematic review and meta-analysis.",
+    "published_date": "2023-10-06",
+    "journal": "Medicine",
+    "pmid": "37800822",
+    "doi": "10.1097/MD.0000000000035299",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "온담탕",
+        "archive_path": "formulas/ondam-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "황련온담탕(黃連溫膽湯, Huanglian Wendan decoction)",
+      "제2형 당뇨병(Type 2 Diabetes Mellitus)",
+      "혈당 조절(Blood Glucose Control)",
+      "혈중 지질(Blood Lipids)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "온담탕",
+        "archive_path": "formulas/ondam-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "A Systematic Review and Meta-Analysis of Xiangsha Liujunzi Decoction in the Treatment of Chronic Gastritis.",
+    "published_date": "2024",
+    "journal": "Combinatorial chemistry & high throughput screening",
+    "pmid": "37861042",
+    "doi": "10.2174/0113862073252121230925103843",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 위염(Chronic Gastritis)",
+      "향사육군자탕(Xiangsha Liujunzi Decoction)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "향사육군자탕",
+        "archive_path": "formulas/xiangsha-liujunzi-tang/"
+      },
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials.",
+    "published_date": "2023-11-03",
+    "journal": "Medicine",
+    "pmid": "37933004",
+    "doi": "10.1097/MD.0000000000035513",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "독활기생탕",
+        "archive_path": "formulas/dokhwalgi-saeng-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "독활기생탕(獨活寄生湯, Duhuo-Jisheng decoction)",
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "메타분석(Meta-analysis)",
+      "항류마티스제(DMARDs)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "독활기생탕",
+        "archive_path": "formulas/dokhwalgi-saeng-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Shenqi Dihuang decoction for lupus nephritis: A systematic review and meta-analysis.",
+    "published_date": "2024-04-06",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "38158100",
+    "doi": "10.1016/j.jep.2023.117602",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "루푸스 신염(Lupus Nephritis)",
+      "신기지황탕(Shenqi Dihuang decoction)",
+      "전통의학(Traditional medicine)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Herbal medicine for Hashimoto's thyroiditis: A systematic review and network meta-analysis.",
+    "published_date": "2024-04-06",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "38181936",
+    "doi": "10.1016/j.jep.2023.117663",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "橋本甲狀腺炎(Hashimoto's thyroiditis)",
+      "한약(Herbal Medicine)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "TPOAb",
+      "갑상선 항체(Thyroid antibody)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Huanglian Jiedu Decoction for Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis.",
+    "published_date": "2024",
+    "journal": "Complementary medicine research",
+    "pmid": "38286111",
+    "doi": "10.1159/000536453",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "제2형 당뇨병(Type 2 Diabetes Mellitus)",
+      "黃連解毒湯(황련해독탕, Huanglian Jiedu Decoction)",
+      "혈당 조절(Glycemic control)",
+      "지질 프로필(Lipid profiles)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness of Taohong Siwu decoction in the prevention of deep vein thrombosis in hip surgery patients: A systematic review and meta-analysis of randomized controlled trials.",
+    "published_date": "2024-03-01",
+    "journal": "Medicine",
+    "pmid": "38428876",
+    "doi": "10.1097/MD.0000000000037241",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "桃紅四物湯(도홍사물탕, Taohong Siwu Decoction)",
+      "深部靜脈血栓症(심부정맥 혈전증, Deep vein thrombosis)",
+      "고관절 수술(Hip surgery)",
+      "저분자량 헤파린(LMWH)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Double-blinded, randomized clinical trial of Gegen Qinlian decoction pinpoints Faecalibacterium as key gut bacteria in alleviating hyperglycemia.",
+    "published_date": "2024-03",
+    "journal": "Precision clinical medicine",
+    "pmid": "38495337",
+    "doi": "10.1093/pcmedi/pbae003",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "葛根芩連湯(갈근금련탕, Gegen Qinlian decoction)",
+      "제2형 당뇨병(type 2 diabetes mellitus)",
+      "장내 미생물(gut microbiota)",
+      "Faecalibacterium",
+      "고혈당(hyperglycemia)",
+      "단쇄지방산(short-chain fatty acids)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Buyang Huanwu Decoction in patients with spinal cord injury: A meta-analysis of randomized controlled trials.",
+    "published_date": "2024-04-19",
+    "journal": "Medicine",
+    "pmid": "38640259",
+    "doi": "10.1097/MD.0000000000037865",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "補陽還五湯(보양환오탕, Buyang Huanwu Decoction)",
+      "脊髓損傷(척수손상, Spinal Cord Injury)",
+      "메타분석(Meta-analysis)",
+      "ASIA 점수(ASIA score)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Meta-analysis of modified Sijunzi decoction for the treatment of chronic atrophic gastritis.",
+    "published_date": "2024-04-26",
+    "journal": "Medicine",
+    "pmid": "38669406",
+    "doi": "10.1097/MD.0000000000037648",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 위축성 위염(Chronic Atrophic Gastritis)",
+      "가감사군자탕(Modified Sijunzi Decoction, 四君子湯)",
+      "메타분석(Meta-analysis)",
+      "비위기허(Spleen and Stomach Qi Deficiency)",
+      "Helicobacter pylori"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Zhishixiaopi decoction in functional dyspepsia: A meta-analysis of randomized controlled trials.",
+    "published_date": "2024",
+    "journal": "PloS one",
+    "pmid": "38809916",
+    "doi": "10.1371/journal.pone.0301686",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "지시소피탕(Zhishixiaopi decoction)",
+      "한약(Herbal medicine)",
+      "메타분석(Meta-analysis)",
+      "총 유효율(Total effective rate)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Systematic evaluation and meta-analysis of Flunarizine Hydrochloride combined with traditional Chinese medicine decoction in the treatment of migraine headaches.",
+    "published_date": "2024",
+    "journal": "Clinics (Sao Paulo, Brazil)",
+    "pmid": "38964249",
+    "doi": "10.1016/j.clinsp.2024.100431",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "편두통(Migraine)",
+      "Flunarizine Hydrochloride(플루나리진 염산염)",
+      "中藥湯劑(중약탕제, TCM decoctions)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain relief)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of BaitouWeng decoction for ulcerative colitis: A meta-analysis of randomized and controlled trials.",
+    "published_date": "2024-07-05",
+    "journal": "Medicine",
+    "pmid": "38968514",
+    "doi": "10.1097/MD.0000000000038704",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "궤양성 대장염(Ulcerative Colitis)",
+      "白頭翁湯(백두옹탕, BaitouWeng Decoction)",
+      "메타분석(Meta-analysis)",
+      "염증성 장질환(Inflammatory Bowel Disease)",
+      "전통의학(Traditional Medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Comparison of granule and traditional decoction of Gancao Xiexin for cold-heat complex pattern recurrent oral ulcer: a randomized controlled trial.",
+    "published_date": "2025",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "41560733",
+    "doi": "10.3389/fphar.2025.1668985",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "감초섭심탕(甘草瀉心湯, Gancao Xiexin Decoction)",
+      "재발성 구강 궤양(再發性 口腔 潰瘍, Recurrent Oral Ulcers)",
+      "한열혼잡증(寒熱混雜證, Cold-heat complex pattern)",
+      "과립제(Granule)",
+      "탕제(Decoction)",
+      "중금속 분석(Heavy metal analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of a Chinese medicine formula Diankuang Mengxing Decoction combined with antipsychotics in the treatment of schizophrenia: A meta-analysis of randomized controlled trials.",
+    "published_date": "2024-09-06",
+    "journal": "Medicine",
+    "pmid": "39252273",
+    "doi": "10.1097/MD.0000000000039489",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "조현병(Schizophrenia)",
+      "電狂夢醒湯(전광몽성탕, Diankuang Mengxing Decoction)",
+      "항정신병 약물(Antipsychotics)",
+      "PANSS",
+      "메타분석(Meta-analysis)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Bixie Fenqing decoction in the treatment of chronic prostatitis: A systematic review and meta-analysis.",
+    "published_date": "2024-09-13",
+    "journal": "Medicine",
+    "pmid": "39287319",
+    "doi": "10.1097/MD.0000000000039558",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 전립선염(Chronic Prostatitis)",
+      "비설분청탕(Bixie Fenqing decoction)",
+      "한약(Herbal Medicine)",
+      "메타분석(Meta-analysis)",
+      "NIH-CPSI"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Yigu decoction regulates plasma miRNA in postmenopausal osteoporosis patients: a randomized controlled trial.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "39568587",
+    "doi": "10.3389/fphar.2024.1460906",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N95",
+        "label": "갱년기",
+        "archive_path": "conditions/menopause/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "폐경 후 골다공증(Postmenopausal osteoporosis)",
+      "Yigu decoction(意古湯)",
+      "골밀도(Bone mineral density)",
+      "microRNA(miRNA)",
+      "miR-133a-3p",
+      "골대사(Bone metabolism)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Dachaihu decoction for sepsis: A randomized controlled trial.",
+    "published_date": "2025-01",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "39653630",
+    "doi": "10.1016/j.phymed.2024.156311",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "패혈증(Sepsis)",
+      "대시후탕(大柴胡湯, Dachaihu decoction)",
+      "다장기 기능부전 증후군(MODS)",
+      "SOFA 점수(SOFA score)",
+      "APACHE II 점수(APACHE II score)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Therapeutic Effect of Yu Melody Relaxation Training Combined with Jianpi Jieyu Decoction in Insomnia Patients: A Randomized Controlled Trial.",
+    "published_date": "2025-04",
+    "journal": "Chinese journal of integrative medicine",
+    "pmid": "39658768",
+    "doi": "10.1007/s11655-024-3923-1",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      },
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "不眠(불면, Insomnia)",
+      "建脾解鬱湯(건비해울탕, Jianpi Jieyu Decoction)",
+      "玉律(옥률) 이완 훈련(Yu Melody Relaxation Training)",
+      "수면의 질(Sleep Quality)",
+      "불안(Anxiety)",
+      "우울(Depression)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "[Network Meta-analysis of Chinese patent medicines combined with recombinant human interferon α-2b in treatment of cervical human papillomavirus infections].",
+    "published_date": "2024-12",
+    "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+    "pmid": "39805767",
+    "doi": "10.19540/j.cnki.cjcmm.20240905.501",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "자궁경부 인유두종 바이러스(cervical HPV)",
+      "중성약(Chinese patent medicines)",
+      "인터페론 α-2b(interferon α-2b)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "음전율(negative conversion rate)",
+      "황기승맥탕(黃芪昇脈湯)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Lingguizhugan Decoction in the Treatment of Non-Alcoholic Fatty Liver Disease: A Systematic Review and Meta-Analysis.",
+    "published_date": "2025",
+    "journal": "Endocrine, metabolic & immune disorders drug targets",
+    "pmid": "39806967",
+    "doi": "10.2174/0118715303323071241022053842",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "苓桂朮甘湯(영계출감탕, Ling Gui Zhu Gan Decoction)",
+      "비알코올성 지방간(Non-Alcoholic Fatty Liver Disease)",
+      "메타분석(Meta-Analysis)",
+      "간기능 검사(Liver Function Tests)",
+      "인슐린 저항성(Insulin Resistance)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "[Outcome indicators in randomized controlled trials of traditional Chinese medicine treatment of post-stroke depression].",
+    "published_date": "2025-01",
+    "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+    "pmid": "39929635",
+    "doi": "10.19540/j.cnki.cjcmm.20240826.501",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "뇌졸중 후 우울증(Post-stroke depression)",
+      "전통 의학(Traditional Chinese Medicine)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "결과 지표(Outcome indicators)",
+      "핵심 결과 세트(Core Outcome Set)",
+      "한약 탕제(TCM decoction)",
+      "침술(Acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effect of Qingjin Huatan decoction on pulmonary function and inflammatory mediators in stable chronic obstructive pulmonary disease: A systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "PloS one",
+    "pmid": "40333888",
+    "doi": "10.1371/journal.pone.0322779",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "Chronic Obstructive Pulmonary Disease (만성 폐쇄성 폐질환, COPD)",
+      "Qingjin Huatan decoction (청금화담탕, 清金化痰湯)",
+      "Pulmonary function (폐 기능)",
+      "Inflammatory mediators (염증 매개체)",
+      "Meta-analysis (메타 분석)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effects of Chinese herbal medicine on the secondary prevention of chemotherapy-induced thrombocytopenia in malignant solid tumors, a randomized clinical trial.",
+    "published_date": "2025-08",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "40505481",
+    "doi": "10.1016/j.phymed.2025.156871",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "化學療法(화학요법, Chemotherapy)",
+      "血小板減少症(혈소판감소증, Thrombocytopenia)",
+      "當歸補血湯(당귀보혈탕, Danggui Buxue Decoction)",
+      "固形癌(고형암, Solid tumors)",
+      "二次豫防(이차예방, Secondary prevention)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Meta-analysis of the adjuvant treatment of COPD with Erchen Decoction.",
+    "published_date": "2025-07-11",
+    "journal": "Medicine",
+    "pmid": "40660578",
+    "doi": "10.1097/MD.0000000000043078",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 폐쇄성 폐질환(Chronic Obstructive Pulmonary Disease, COPD)",
+      "이진탕(二陳湯, Erchen Decoction)",
+      "보조 치료(adjuvant treatment)",
+      "메타분석(meta-analysis)",
+      "삶의 질(quality of life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Systematic review and meta-analysis of Guipi Decoction in the treatment of anemia.",
+    "published_date": "2025-07-25",
+    "journal": "Medicine",
+    "pmid": "40725883",
+    "doi": "10.1097/MD.0000000000043625",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "귀비탕(歸脾湯, Guipi Decoction)",
+      "빈혈(Anemia)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "보조요법(Adjuvant therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Integrated traditional herbal medicine for recurrent urinary tract infection treatment and follow-up: A meta-analysis of randomized controlled trials.",
+    "published_date": "2024-03-01",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "38012975",
+    "doi": "10.1016/j.jep.2023.117491",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "요로감염(Urinary Tract Infection)",
+      "재발성 요로감염(Recurrent UTI)",
+      "한약(Traditional Herbal Medicine)",
+      "항생제(Antibiotics)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Traditional Chinese medicine versus flunarizine for the preventive treatment of episodic migraine: a randomized controlled clinical trial.",
+    "published_date": "2026-01-01",
+    "journal": "QJM : monthly journal of the Association of Physicians",
+    "pmid": "40986334",
+    "doi": "10.1093/qjmed/hcaf210",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "편두통(Migraine)",
+      "침(鍼, acupuncture)",
+      "한약(漢藥, herbal medicine)",
+      "Flunarizine",
+      "예방치료(Prophylactic treatment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of traditional Chinese medicine combined with immunomodulators in treating erosive oral lichen planus: A network meta-analysis of randomized controlled trials.",
+    "published_date": "2025-09-26",
+    "journal": "Medicine",
+    "pmid": "41029064",
+    "doi": "10.1097/MD.0000000000044832",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "미란성 구강편평태선(Erosive Oral Lichen Planus)",
+      "중약(Traditional Chinese Medicine)",
+      "면역조절제(Immunomodulators)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "口咽淸(구음청, Kouyanqing)",
+      "解毒益口湯(해독익구탕, Jiedu Yukou decoction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Herbal Medicine in Head and Neck Cancer:  A Review of Randomized Controlled Trial",
+    "published_date": "2026-07-19",
+    "journal": "Traditional and Integrative Medicine",
+    "pmid": "",
+    "doi": "10.18502/tim.v11i2.22058",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "두경부암(Head and Neck Cancer)",
+      "한약(Herbal Medicine)",
+      "구강점막염(Oral Mucositis)",
+      "삶의 질(Quality of Life)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Combined acupuncture and herb treatment improves intestinal flora inabdominally obese subjects based on 16s rRNA sequencing: a randomized controlled trial.",
+    "published_date": "2026-02",
+    "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+    "pmid": "41736436",
+    "doi": "10.19852/j.cnki.jtcm.2026.01.019",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "복부 비만(Abdominal obesity)",
+      "침(鍼, acupuncture)",
+      "한약( herbal medicine)",
+      "장내 미생물(Gut microbiota)",
+      "16S rRNA 시퀀싱(16S rRNA sequencing)",
+      "華痰理石方(Huatan Lishi Fang)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of traditional Chinese medicine for post-COVID-19 syndrome: a systematic review and meta-analysis.",
+    "published_date": "2025-07-16",
+    "journal": "Journal of translational medicine",
+    "pmid": "40671020",
+    "doi": "10.1186/s12967-025-06830-7",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "Post-COVID-19 syndrome (포스트 코로나 증후군)",
+      "Traditional Chinese Medicine (TCM, 中醫藥(중의약))",
+      "Chinese herbal medicine (CHM, 中藥(중약))",
+      "Systematic review (체계적 문헌고찰)",
+      "Meta-analysis (메타분석)",
+      "Insomnia (불면증)",
+      "Chest tightness (흉부 압박감)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Safety and effectiveness of traditional herbal medicine Siho-sogan-san in functional dyspepsia: A systematic review and meta-analysis.",
+    "published_date": "2023-09-15",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "37127143",
+    "doi": "10.1016/j.jep.2023.116518",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "시호소간산(柴胡疎肝散, Siho-sogan-san)",
+      "한약(Herbal Medicine)",
+      "체질 및 변증(Pattern Identification)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and Safety of Combined Treatment with Traditional Herbal Medicine and Western Medicine for Children with Pertussis-like Syndrome: Systematic Review and Meta-Analysis",
+    "published_date": "2025-05-13",
+    "journal": "Healthcare",
+    "pmid": "",
+    "doi": "10.3390/healthcare13101131",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "백일해 유사 증후군(Pertussis-like syndrome)",
+      "한양방 병용치료(Combined treatment of HM and WM)",
+      "소아(Children)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-Analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness and safety of traditional herbal medicine on cardiac arrhythmic condition: A systematic review and meta-analysis of randomized control clinical trial",
+    "published_date": "2024-06-07",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000038441",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "심부정맥(Cardiac arrhythmia)",
+      "한약(Herbal medicine)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "심방세동(Atrial fibrillation)",
+      "심실조기수축(Premature ventricular contraction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness of traditional herbal Kampo medicine Goreisan on chronic subdural hematoma recurrence: a meta-analysis",
+    "published_date": "2024-07-15",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1412190",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 경막하 혈종(Chronic Subdural Hematoma)",
+      "고려산(五苓散, Goreisan)",
+      "재발(Recurrence)",
+      "한약(Herbal Medicine)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Different Traditional Chinese Medicine Techniques for Preventing Stroke-Associated Pneumonia in Patients with Stroke: A Network Meta-analysis",
+    "published_date": "2026-04-30",
+    "journal": "Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine",
+    "pmid": "",
+    "doi": "10.1177/03601293261439954",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "뇌졸중 관련 폐렴(Stroke-Associated Pneumonia, SAP)",
+      "전통의학(Traditional Chinese Medicine, TCM)",
+      "침술(鍼, Acupuncture)",
+      "혈위 자극(穴位刺激, Acupoint stimulation)",
+      "한약(韓藥, Chinese herbal medicine)",
+      "네트워크 메타분석(Network Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Traditional Chinese Herbal Medicine in the Treatment of Immune-Mediated Thrombocytopenia: A Systematic Review and Meta-analysis",
+    "published_date": "2024-08-01",
+    "journal": "American Journal of Traditional Chinese Veterinary Medicine",
+    "pmid": "",
+    "doi": "10.59565/001c.121502",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "면역 매개성 혈소판 감소증(Immune-mediated thrombocytopenia)",
+      "중약(Chinese herbal medicine)",
+      "혈소판 수치(Platelet count)",
+      "귀비탕(Gui Pi Tang)",
+      "양혈화어탕(Liang Xue Hua Yu Tang)",
+      "수의학(Veterinary medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Effectiveness and safety of traditional East Asian herbal medicine for major depressive disorder with anxiety: a systematic review and meta-analysis",
+    "published_date": "2025-12-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.25050",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "주요 우울 장애(Major Depressive Disorder)",
+      "불안(Anxiety)",
+      "전통 동아시아 약물(Traditional East Asian Herbal Medicine)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "title": "Traditional Chinese Medicine Intervention for Managing Type 2 Diabetes in Elderly Urban Populations: A Randomized Controlled Trial.",
+    "published_date": "2026-01-30",
+    "journal": "Journal of visualized experiments : JoVE",
+    "pmid": "41697886",
+    "doi": "10.3791/69645",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "제2형 당뇨병(Type 2 Diabetes)",
+      "중의학(TCM, Traditional Chinese Medicine)",
+      "고령자(Elderly)",
+      "혈당 조절(Glycemic control)",
+      "삶의 질(Quality of Life)",
+      "침(鍼, acupuncture)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  }
+]

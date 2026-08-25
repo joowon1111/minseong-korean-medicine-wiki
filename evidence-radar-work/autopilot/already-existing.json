@@ -1,0 +1,1447 @@
+[
+  {
+    "kind": "pharmacopuncture",
+    "title": "Efficacy of ultrasound-guided pharmacopuncture: A systematic review and meta-analysis",
+    "published_date": "2025-03-14",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041733",
+    "study_type": "Systematic review & meta-analysis",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "근골격계 질환 환자/대상",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "초음파 유도하 약침(Ultrasound-guided pharmacopuncture)",
+      "근골격계 질환(Musculoskeletal diseases)",
+      "통증 관리(Pain management)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "A",
+    "condition_groups": [
+      "초음파 유도 약침"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "Effectiveness and safety of hominis placental pharmacopuncture for chronic temporomandibular disorder: A multi-center randomized controlled trial.",
+    "published_date": "2024-06",
+    "journal": "Integrative medicine research",
+    "pmid": "38779539",
+    "doi": "10.1016/j.imr.2024.101044",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [
+      {
+        "code": "K07.6",
+        "label": "턱관절장애",
+        "status": "candidate",
+        "archive_path": "conditions/temporomandibular-disorder/",
+        "group": "턱관절"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "Temporomandibular disorder (턱관절 장애, TMD)",
+      "Hominis placenta (자하거, HPP)",
+      "Pharmacopuncture (약침)",
+      "Pain management (통증 관리)",
+      "Quality of Life (삶의 질)",
+      "Randomized Controlled Trial (무작위 대조 시험)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/conditions/temporomandibular-disorder/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "B",
+    "condition_groups": [
+      "턱관절"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "Effectiveness and Safety of Pharmacopuncture on Inpatients with Tension Headache Caused by Traffic Accidents: A Pragmatic Randomized Controlled Trial.",
+    "published_date": "2024-07-30",
+    "journal": "Journal of clinical medicine",
+    "pmid": "39124723",
+    "doi": "10.3390/jcm13154457",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [
+      {
+        "code": "G44.2",
+        "label": "긴장형두통",
+        "status": "candidate",
+        "archive_path": "conditions/tension-type-headache/",
+        "group": "두통"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침( Pharmacopuncture)",
+      "긴장성 두통(Tension Headache)",
+      "교통사고(Traffic Accident)",
+      "후두하근(Suboccipital muscles)",
+      "통증 완화(Pain relief)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/conditions/tension-type-headache/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "B",
+    "condition_groups": [
+      "두통"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "Effectiveness and Safety of Pharmacopuncture therapy for chronic low back pain: A protocol for an assessor-blinded, pragmatic randomized controlled, pilot trial",
+    "published_date": "2023-08-30",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-3210696/v1",
+    "study_type": "RCT protocol",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 20,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "만성 요통(Chronic low back pain)",
+      "약침(Pharmacopuncture)",
+      "한방 치료(Traditional Korean medicine)",
+      "무작위 대조 시험(Randomized controlled trial)",
+      "실용적 임상시험(Pragmatic trial)"
+    ],
+    "archive_links": [
+      "/conditions/low-back-pain/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "P",
+    "condition_groups": [
+      "척추·요통"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "Economic Evaluation of Pharmacopuncture for Adhesive Capsulitis Alongside a Pilot Pragmatic Randomized Controlled Trial Comparing Pharmacopuncture and Physical Therapy",
+    "published_date": "2026-02-27",
+    "journal": "Healthcare",
+    "pmid": "",
+    "doi": "10.3390/healthcare14050605",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [
+      {
+        "code": "M75.0",
+        "label": "유착성 관절낭염",
+        "status": "candidate",
+        "archive_path": "conditions/frozen-shoulder/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "오십견(adhesive capsulitis)",
+      "약침(pharmacopuncture)",
+      "물리치료(physical therapy)",
+      "경제성 평가(economic evaluation)",
+      "비용-효과성(cost-effectiveness)",
+      "질 보정 수명(QALYs)"
+    ],
+    "archive_links": [
+      "/conditions/frozen-shoulder/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "B",
+    "condition_groups": [
+      "어깨"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "A Pilot Study for Effectiveness and Safety of Adjunctive Pharmacopuncture to Acupuncture Treatment for Rotator Cuff Diseases: A Pragmatic Randomized Controlled Trial.",
+    "published_date": "2024",
+    "journal": "Journal of pain research",
+    "pmid": "38947130",
+    "doi": "10.2147/JPR.S457425",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [
+      {
+        "code": "M75.1",
+        "label": "회전근개 질환",
+        "status": "candidate",
+        "archive_path": "conditions/rotator-cuff-disease/",
+        "group": "어깨"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "회전근개 질환(Rotator Cuff Diseases)",
+      "약침(藥鍼, Pharmacopuncture)",
+      "침(鍼, Acupuncture)",
+      "통증(Pain)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/conditions/rotator-cuff-disease/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "B",
+    "condition_groups": [
+      "어깨"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "Pharmacopuncture therapy for adhesive capsulitis: A pragmatic randomized controlled pilot study.",
+    "published_date": "2024-09",
+    "journal": "Integrative medicine research",
+    "pmid": "39224580",
+    "doi": "10.1016/j.imr.2024.101065",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [
+      {
+        "code": "M75.0",
+        "label": "유착성 관절낭염",
+        "status": "candidate",
+        "archive_path": "conditions/frozen-shoulder/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "오십견(adhesive capsulitis)",
+      "약침 요법(pharmacopuncture therapy)",
+      "물리치료(physiotherapy)",
+      "어깨 통증(shoulder pain)",
+      "관절 가동 범위(range of motion)"
+    ],
+    "archive_links": [
+      "/conditions/frozen-shoulder/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "B",
+    "condition_groups": [
+      "어깨"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "Effectiveness and Safety of Pharmacopuncture Therapy Compared to Standard Physical Therapy in Patients with Chronic Knee Pain: A Pilot Study for a Pragmatic Randomized Controlled Trial.",
+    "published_date": "2025-06-18",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "pmid": "40572793",
+    "doi": "10.3390/medicina61061106",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [
+      {
+        "code": "M25.56",
+        "label": "무릎통증",
+        "status": "candidate",
+        "archive_path": "conditions/knee-pain/",
+        "group": "무릎"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "active comparator",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(藥鍼, Pharmacopuncture)",
+      "만성 무릎 통증(Chronic knee pain)",
+      "물리치료(Physical therapy)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "통증 완화(Pain relief)",
+      "K-WOMAC"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/conditions/knee-pain/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "B",
+    "condition_groups": [
+      "무릎"
+    ]
+  },
+  {
+    "kind": "pharmacopuncture",
+    "title": "A cost-utility analysis of pharmacopuncture versus physiotherapy for chronic low back pain: A multicenter, pragmatic randomized controlled trial.",
+    "published_date": "2025-12",
+    "journal": "Integrative medicine research",
+    "pmid": "41497196",
+    "doi": "10.1016/j.imr.2025.101210",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "만성 요통(Chronic low back pain)",
+      "약침(Pharmacopuncture)",
+      "물리치료(Physiotherapy)",
+      "비용-효용 분석(Cost-utility analysis)",
+      "질 보정 수명(QALYs)"
+    ],
+    "archive_links": [
+      "/conditions/low-back-pain/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "B",
+    "condition_groups": [
+      "척추·요통"
+    ]
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.301",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "H04.1",
+        "label": "안구건조",
+        "status": "candidate",
+        "archive_path": "conditions/dry-eye/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "안구건조증(Dry Eye Disease)",
+      "피내침(Intradermal Acupuncture)",
+      "체침(Body Acupuncture)",
+      "안구표면질환지수(OSDI)",
+      "쉬르머 검사(Schirmer test)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": true,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Efficacy and Safety of Acupuncture for Anxiety Disorders in Adults: A Systematic Review and Meta-Analysis.",
+    "published_date": "2026-08",
+    "journal": "Psychiatry investigation",
+    "pmid": "42613003",
+    "doi": "10.30773/pi.2025.0437",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "침(鍼, acupuncture)",
+      "불안 장애 (Anxiety disorders)",
+      "성인 (Adults)",
+      "체계적 문헌고찰 (Systematic review)",
+      "메타분석 (Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Acupuncture-Related Therapies for Primary Dysmenorrhea: A Systematic Review and Network Meta-Analysis",
+    "published_date": "2025-10-07",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1177/27683605251382169",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "N94.4",
+        "label": "원발성 생리통",
+        "status": "candidate",
+        "archive_path": "conditions/primary-dysmenorrhea/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "원발성 생리통(Primary Dysmenorrhea)",
+      "침 치료(Acupuncture)",
+      "매선(Acupoint Catgut Embedding)",
+      "뜸(Moxibustion)",
+      "네트워크 메타분석(Network Meta-Analysis)",
+      "프로스타글란딘(Prostaglandins)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "The durable effect of acupuncture for episodic migraine: a systematic review and meta-analysis",
+    "published_date": "2023-09-08",
+    "journal": "Frontiers in Neuroscience",
+    "pmid": "",
+    "doi": "10.3389/fnins.2023.1211438",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G43",
+        "label": "편두통",
+        "status": "candidate",
+        "archive_path": "conditions/migraine/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "편두통(Migraine)",
+      "鍼(침, Acupuncture)",
+      "지속 효과(Durable effect)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "The efficacy and safety of acupuncture for Parkinson’s disease insomnia: a systematic review and meta-analysis",
+    "published_date": "2025-11-03",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1697481",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "파킨슨병(Parkinson’s disease)",
+      "불면증(Insomnia)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "수면 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "The efficacy of acupuncture treatment for fibromyalgia syndrome: a systematic review and meta-analysis",
+    "published_date": "2026-01-16",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1710642",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M79.7",
+        "label": "섬유근육통",
+        "status": "candidate",
+        "archive_path": "conditions/fibromyalgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "섬유근육통 증후군(Fibromyalgia Syndrome)",
+      "鍼(침, acupuncture)",
+      "통증 완화(Pain relief)",
+      "섬유근육통 영향 설문지(FIQ)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Dose-response of acupuncture on ovulation rates in polycystic ovary syndrome: a meta-analysis and exploratory dose-response analysis",
+    "published_date": "2025-08-28",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2025.1610338",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "鍼(침, acupuncture)",
+      "韓藥(한약, herbal medicine)",
+      "배란율(ovulation rates)",
+      "용량-반응 분석(dose-response analysis)",
+      "네트워크 메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Does Manual Acupuncture Improve Gastroesophageal Reflux Disease Symptoms? A Trial Sequential Meta-Analysis",
+    "published_date": "2025-03-24",
+    "journal": "Complementary Medicine Research",
+    "pmid": "",
+    "doi": "10.1159/000544956",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "K21",
+        "label": "위식도역류질환",
+        "status": "candidate",
+        "archive_path": "conditions/gastroesophageal-reflux-disease/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "위식도역류질환(Gastroesophageal Reflux Disease, GERD)",
+      "수기 침(Manual Acupuncture)",
+      "양성자 펌프 억제제(Proton Pump Inhibitors, PPIs)",
+      "메타분석(Meta-analysis)",
+      "시험 순차 분석(Trial Sequential Analysis, TSA)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Efficacy of acupuncture-related therapies for gastroesophageal reflux-related chronic cough: a systematic review and meta-analysis",
+    "published_date": "2026-03-04",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1712003",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "K21",
+        "label": "위식도역류질환",
+        "status": "candidate",
+        "archive_path": "conditions/gastroesophageal-reflux-disease/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "위식도역류질환(GERD)",
+      "만성 기침(Chronic cough)",
+      "침 치료(Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Efficacy and safety of acupuncture in the treatment of poststroke insomnia: A systematic review and meta-analysis",
+    "published_date": "2025-08-15",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043890",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      },
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 불면증(Poststroke Insomnia)",
+      "침(鍼, Acupuncture)",
+      "피츠버그 수면 질 지수(PSQI)",
+      "수면 효율(Sleep efficiency)",
+      "해밀턴 우울 척도(Hamilton depression scale)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "The efficacy of acupuncture for tension-type headache: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2025-12-12",
+    "journal": "Journal of Oral & Facial Pain and Headache",
+    "pmid": "",
+    "doi": "10.22514/jofph.2025.067",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G44.2",
+        "label": "긴장형두통",
+        "status": "candidate",
+        "archive_path": "conditions/tension-type-headache/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "긴장성 두통(Tension-type headache)",
+      "침(鍼, Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain relief)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "title": "Acupuncture treatment of postoperative urinary retention in cervical cancer: Systematic evaluation and meta-analysis",
+    "published_date": "2025-02-21",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041520",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "자궁경부암(Cervical Cancer)",
+      "수술 후 요정체(Postoperative Urinary Retention)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "뜸(Moxibustion)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "electroacupuncture",
+    "title": "A Comparative Study on the Immediate Impact of Balance Meridian and Electro-Acupuncture on Individuals with Chronic Low Back Pain: A Randomized Controlled Trial",
+    "published_date": "2026-02-04",
+    "journal": "Medical Acupuncture",
+    "pmid": "",
+    "doi": "10.1177/19336586261419872",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "균형경락침법(Balance Meridian Acupuncture)",
+      "전침(Electro-Acupuncture)",
+      "요추 가동범위(Lumbar Spine Range of Motion)",
+      "통증 관리(Pain Management)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "kind": "electroacupuncture",
+    "title": "Acupuncture for women undergoing in vitro fertilization: An updated systematic review and meta-analysis with trial sequential analysis.",
+    "published_date": "2025-08",
+    "journal": "International journal of nursing studies",
+    "pmid": "40412094",
+    "doi": "10.1016/j.ijnurstu.2025.105097",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "체외수정(IVF)",
+      "침치료(Acupuncture)",
+      "임신율(Pregnancy rate)",
+      "전침(Electro-acupuncture)",
+      "보조생식술(Assisted reproductive technology)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "kind": "electroacupuncture",
+    "title": "Efficacy of Acupuncture in Patients with Fibromyalgia Syndrome: A Meta-Analysis.",
+    "published_date": "2026",
+    "journal": "Journal of pain research",
+    "pmid": "41919066",
+    "doi": "10.2147/JPR.S568235",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M79.7",
+        "label": "섬유근육통",
+        "status": "candidate",
+        "archive_path": "conditions/fibromyalgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "섬유근육통 증후군(Fibromyalgia Syndrome)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "통증 관리(Pain management)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "M79.7",
+        "label": "섬유근육통",
+        "status": "candidate",
+        "archive_path": "conditions/fibromyalgia/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Efficacy and safety of Chinese herbal medicine for metabolic conditions: a systematic review and meta-analysis of randomised controlled trials",
+    "published_date": "2026-01-02",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1644950",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "거습(祛濕, eliminating dampness)",
+      "중약(中藥, Chinese herbal medicine)",
+      "대사성 질환(Metabolic conditions)",
+      "제2형 당뇨병(Type 2 Diabetes Mellitus)",
+      "고혈압(Hypertension)",
+      "비만(Obesity)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Comparative effectiveness of nonsurgical interventions for urinary incontinence in older women: A systematic review and network meta-analysis.",
+    "published_date": "2024-01",
+    "journal": "Archives of gerontology and geriatrics",
+    "pmid": "37832271",
+    "doi": "10.1016/j.archger.2023.105214",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "요실금(urinary incontinence)",
+      "고령 여성(older women)",
+      "비수술적 중재(nonsurgical interventions)",
+      "중약(Chinese herbal medicine)",
+      "행동요법(behavioral therapy)",
+      "鍼(침, acupuncture)",
+      "네트워크 메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Efficacy of Chinese herbal medicine in patients with osteoporosis: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in medicine",
+    "pmid": "40786085",
+    "doi": "10.3389/fmed.2025.1620264",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "골다공증(Osteoporosis)",
+      "중약(Chinese Herbal Medicine)",
+      "골밀도(Bone Mineral Density, BMD)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Chinese herbal medicine Ding Kun Dan for menopausal syndrome: A systematic review and meta-analysis of randomized controlled trials.",
+    "published_date": "2026-06",
+    "journal": "Integrative medicine research",
+    "pmid": "41143285",
+    "doi": "10.1016/j.imr.2025.101254",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N95",
+        "label": "갱년기",
+        "archive_path": "conditions/menopause/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "갱년기 증후군(Menopausal syndrome)",
+      "정곤단(Ding Kun Dan, 定坤丹)",
+      "한약(Herbal medicine)",
+      "호르몬 대체 요법(Menopause Hormone Therapy, MHT)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Sijunzi decoction, a classical Chinese herbal formula, improves fatigue symptoms with changes in gut microbiota in chronic fatigue syndrome: A randomized, double-blind, placebo-controlled, multi-center clinical trial.",
+    "published_date": "2024-07",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "38640860",
+    "doi": "10.1016/j.phymed.2024.155636",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성피로증후군(Chronic Fatigue Syndrome)",
+      "사군자탕(四君子湯)",
+      "비기허(Spleen Deficiency)",
+      "장내 미생물(Gut Microbiota)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Efficacy and safety of a traditional Chinese herbal formula Xuefu Zhuyu prescription for hypertension: A meta-analysis of randomized controlled trials.",
+    "published_date": "2025-06-06",
+    "journal": "Medicine",
+    "pmid": "40489881",
+    "doi": "10.1097/MD.0000000000041661",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "혈부축어탕(血府逐瘀湯, Xuefu Zhuyu prescription)",
+      "고혈압(Hypertension)",
+      "메타분석(Meta-analysis)",
+      "심혈관 질환(Cardiovascular disease)",
+      "혈압 강하(Blood pressure reduction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Chinese herbal medicine (Tangshen Formula) formula treatment of patients with diabetic kidney disease: a systematic review and meta-analysis.",
+    "published_date": "2025",
+    "journal": "Frontiers in endocrinology",
+    "pmid": "40589511",
+    "doi": "10.3389/fendo.2025.1522759",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "당뇨병성 신증(Diabetic Kidney Disease)",
+      "당신방(Tangshen Formula)",
+      "한약(Herbal Medicine)",
+      "요단백(Urinary Protein)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials.",
+    "published_date": "2023-11-03",
+    "journal": "Medicine",
+    "pmid": "37933004",
+    "doi": "10.1097/MD.0000000000035513",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "독활기생탕",
+        "archive_path": "formulas/dokhwalgi-saeng-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "독활기생탕(獨活寄生湯, Duhuo-Jisheng decoction)",
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "메타분석(Meta-analysis)",
+      "항류마티스제(DMARDs)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "독활기생탕",
+        "archive_path": "formulas/dokhwalgi-saeng-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "title": "Efficacy of Huanglian Jiedu Decoction for Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis.",
+    "published_date": "2024",
+    "journal": "Complementary medicine research",
+    "pmid": "38286111",
+    "doi": "10.1159/000536453",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "제2형 당뇨병(Type 2 Diabetes Mellitus)",
+      "黃連解毒湯(황련해독탕, Huanglian Jiedu Decoction)",
+      "혈당 조절(Glycemic control)",
+      "지질 프로필(Lipid profiles)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  }
+]

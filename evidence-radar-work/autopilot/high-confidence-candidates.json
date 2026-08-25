@@ -1,0 +1,1491 @@
+[
+  {
+    "kind": "pharmacopuncture",
+    "target": "conditions/frozen-shoulder.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Pharmacoacupuncture for the Treatment of Frozen Shoulder: protocol for a systematic review and meta-analysis",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.14",
+    "study_type": "Systematic review & meta-analysis",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 26,
+    "kcd_candidates": [
+      {
+        "code": "M75.0",
+        "label": "유착성 관절낭염",
+        "status": "candidate",
+        "archive_path": "conditions/frozen-shoulder/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "오십견(Frozen Shoulder)",
+      "약침(Pharmacoacupuncture)",
+      "한의학(Traditional Korean Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "archive_links": [
+      "/conditions/frozen-shoulder/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "clinical_evidence": true,
+    "exclusion_reasons": [],
+    "evidence_level": "A",
+    "condition_groups": [
+      "어깨"
+    ]
+  },
+  {
+    "kind": "acupuncture",
+    "target": "conditions/insomnia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Integrated acupuncture-pharmacotherapy for perimenopausal insomnia: a systematic review and meta-analysis",
+    "published_date": "2025-08-20",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1633794",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "갱년기 불면증(Perimenopausal insomnia)",
+      "침술(Acupuncture, 鍼)",
+      "약물 요법(Pharmacotherapy, 藥物療法)",
+      "통합 의학(Integrative medicine)",
+      "수면의 질(Sleep quality)",
+      "호르몬 조절(Hormonal regulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "target": "conditions/low-back-pain.md",
+    "reasons": [],
+    "approved": false,
+    "title": "The Effectiveness of Acupuncture in the Management of Chronic Low Back Pain: A Theoretical Meta-Analysis Review",
+    "published_date": "2025-12-26",
+    "journal": "International Journal of Traditional and Complementary Medicine Research",
+    "pmid": "",
+    "doi": "10.53811/ijtcmr.1723790",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain relief)",
+      "기능 개선(Functional improvement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "target": "authority/conditions/knee-osteoarthritis.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy of Mongolian medicines warm acupuncture for knee osteoarthritis: a systematic review and meta-analysis",
+    "published_date": "2026-07-22",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1860943",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M17",
+        "label": "무릎 골관절염",
+        "status": "candidate",
+        "archive_path": "conditions/knee-osteoarthritis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "무릎 골관절염(Knee Osteoarthritis)",
+      "몽골 약재 온침(Mongolian medicines warm acupuncture)",
+      "온침(Warm acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain reduction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "acupuncture",
+    "target": "authority/conditions/anxiety.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Mechanism of cognitive processing for acupuncture action on generalized anxiety with naturally occurring consecutive partial sleep deprivation in early adulthood: a randomized controlled study and evaluation of event-related potentials",
+    "published_date": "2024-10-16",
+    "journal": "Frontiers in Public Health",
+    "pmid": "",
+    "doi": "10.3389/fpubh.2024.1420299",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "범불안장애(Generalized Anxiety Disorder, GAD)",
+      "부분 수면 박탈(Partial Sleep Deprivation, PSD)",
+      "침 치료(Acupuncture, 鍼)",
+      "사건 관련 전위(Event-Related Potentials, ERP)",
+      "인지 처리(Cognitive processing)",
+      "성인 초기(Early adulthood)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "kind": "electroacupuncture",
+    "target": "authority/conditions/polycystic-ovary-syndrome.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Effects of different acupuncture methods on polycystic ovarian syndrome: a systematic review and network meta-analysis.",
+    "published_date": "2026-02-13",
+    "journal": "BMC complementary medicine and therapies",
+    "pmid": "41680702",
+    "doi": "10.1186/s12906-026-05295-5",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "E28.2",
+        "label": "다낭성난소증후군",
+        "status": "candidate",
+        "archive_path": "conditions/polycystic-ovary-syndrome/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovarian Syndrome, PCOS)",
+      "침 치료(Acupuncture, 鍼)",
+      "전침(Electro-acupuncture, 電鍼)",
+      "매선요법(Acupoint Catgut Embedding, ACE)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "고안드로겐혈증(Hyperandrogenism)",
+      "대사 증후군(Metabolic status)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "E28.2",
+        "label": "다낭성난소증후군",
+        "status": "candidate",
+        "archive_path": "conditions/polycystic-ovary-syndrome/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "kind": "electroacupuncture",
+    "target": "authority/conditions/anxiety.md",
+    "reasons": [],
+    "approved": false,
+    "title": "The Effect of Nonpharmacological Methods on Preoperative Anxiety in Breast Surgery Patients: A Meta-analysis.",
+    "published_date": "2025-04",
+    "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+    "pmid": "39269406",
+    "doi": "10.1016/j.jopan.2024.05.024",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "유방 수술 (Breast surgery)",
+      "수술 전 불안 (Preoperative anxiety)",
+      "비약물적 중재 (Nonpharmacological methods)",
+      "電鍼 (전침, Electro-acupuncture)",
+      "抑肝散 (억간산, Yokukansan)",
+      "아로마테라피 (Aromatherapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "kind": "electroacupuncture",
+    "target": "conditions/low-back-pain.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Therapeutic effects of different acupuncture methods on chronic nonspecific low back pain: A network meta-analysis.",
+    "published_date": "2024-09-30",
+    "journal": "Journal of orthopaedic surgery and research",
+    "pmid": "39350218",
+    "doi": "10.1186/s13018-024-05118-8",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "만성 비특이적 요통(Chronic Nonspecific Low Back Pain)",
+      "침 치료(Acupuncture)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "온침(溫鍼, warm needle acupuncture)",
+      "전침(電鍼, electroacupuncture)",
+      "경근 이론(Meridian-sinew theory)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/depression.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Effectiveness of Herbal Medicine Compared to Antidepressants in Patients with Schizophrenia Spectrum Disorders Accompanied by Depression: a systematic review and meta-analysis",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.21",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "조현병 스펙트럼 장애(Schizophrenia Spectrum Disorders)",
+      "우울증(Depression)",
+      "한약(Herbal Medicine, 韓藥)",
+      "항우울제(Antidepressants)",
+      "항정신병 약물(Antipsychotics)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/insomnia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Effectiveness and safety of East Asian herbal medicine for menopausal insomnia: a systematic review and meta-analysis",
+    "published_date": "2024-08-08",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1414700",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      },
+      {
+        "code": "N95",
+        "label": "갱년기",
+        "archive_path": "conditions/menopause/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "갱년기 불면증(Menopausal insomnia)",
+      "동아시아 한약(East Asian herbal medicine)",
+      "산조인탕(Suan Zao Ren Tang)",
+      "수면의 질(Sleep quality)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/anxiety.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy of Chinese herbal medicine in the treatment of anxiety and depression in male sexual dysfunction: a systematic review and meta-analysis",
+    "published_date": "2025-05-31",
+    "journal": "Sexual Medicine",
+    "pmid": "",
+    "doi": "10.1093/sexmed/qfaf048",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "남성 성기능 장애(Male Sexual Dysfunction)",
+      "중약(Chinese Herbal Medicine, 中藥)",
+      "불안(Anxiety)",
+      "우울(Depression)",
+      "발기부전(Erectile Dysfunction, ED)",
+      "조루증(Premature Ejaculation, PE)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/insomnia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Chinese herbal medicine for insomnia: A systematic review and network meta-analysis",
+    "published_date": "2025-08-15",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043789",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "불면증(Insomnia)",
+      "중약(Chinese herbal medicine)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "수면 질(Sleep quality)",
+      "피츠버그 수면 질 지수(PSQI)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/low-back-pain.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Traditional Chinese herbal compound as complementary treatment for nonspecific low back pain: A randomized controlled trial",
+    "published_date": "2024-11-08",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000040392",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "archive_path": "conditions/low-back-pain/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "비특이적 요통(nonspecific low back pain)",
+      "補腎通絡(보신통락, Bu Shen Tong Luo)",
+      "한약(herbal medicine)",
+      "Celecoxib(셀레콕시브)",
+      "변증(syndrome differentiation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/depression.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis",
+    "published_date": "2024-04-03",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2024.1295564",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "우울증(Depression)",
+      "중약(Chinese herbal medicines)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "HAMD",
+      "치료 반응률(Response rate)",
+      "안전성(Safety)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/anxiety.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Different acupuncture and moxibustion therapies in the treatment of IBS-D with anxiety and depression: A network meta-analysis",
+    "published_date": "2024-04-26",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000037982",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "설사형 과민성 장 증후군(IBS-D)",
+      "불안(Anxiety)",
+      "우울(Depression)",
+      "침(鍼, Acupuncture)",
+      "뜸(灸, Moxibustion)",
+      "전침(電鍼, Electroacupuncture)",
+      "한약(漢藥, Chinese Herbal Medicine)",
+      "네트워크 메타분석(Network Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/primary-dysmenorrhea.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy and safety of traditional Chinese medicine for endometriosis-related pain: a meta-analysis.",
+    "published_date": "2025",
+    "journal": "American journal of translational research",
+    "pmid": "41268238",
+    "doi": "10.62347/RHXV3554",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N94",
+        "label": "생리통",
+        "archive_path": "conditions/primary-dysmenorrhea/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "자궁내막증(Endometriosis)",
+      "중약(Chinese herbal medicine)",
+      "생리통(Dysmenorrhea)",
+      "성교통(Dyspareunia)",
+      "골반통(Pelvic pain)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/atopic-dermatitis.md",
+    "reasons": [],
+    "approved": false,
+    "title": "An updated systematic review and meta-analysis of efficacy and safety of Chinese herbal medicine for treating atopic dermatitis.",
+    "published_date": "2023-12",
+    "journal": "The Journal of dermatological treatment",
+    "pmid": "37955143",
+    "doi": "10.1080/09546634.2023.2268766",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "L20",
+        "label": "아토피피부염",
+        "archive_path": "conditions/atopic-dermatitis/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "아토피 피부염(Atopic Dermatitis)",
+      "중약(Chinese herbal medicine)",
+      "한약(Herbal medicine)",
+      "메타분석(Meta-analysis)",
+      "회복률(Recovery rate)",
+      "재발률(Recurrence rate)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/irritable-bowel-syndrome.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Different therapies of Chinese herbal medicine for diarrhea-predominant irritable bowel syndrome: A network meta-analysis of double-blinded, placebo-controlled trials.",
+    "published_date": "2023-12-05",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "37328079",
+    "doi": "10.1016/j.jep.2023.116672",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "archive_path": "conditions/irritable-bowel-syndrome/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "설사형 과민성 대장 증후군(diarrhea-predominant irritable bowel syndrome, IBS-D)",
+      "중약(Chinese herbal medicine, CHM)",
+      "네트워크 메타분석(network meta-analysis)",
+      "健脾溫腎(건비온신, JPWS)",
+      "疏肝健脾(소간건비, SGJP)",
+      "IBS-SSS"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/insomnia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Chinese herbal medicine and acupuncture for insomnia in stroke patients: A systematic review and meta-analysis of randomised controlled trials.",
+    "published_date": "2024-08",
+    "journal": "Sleep medicine",
+    "pmid": "38905930",
+    "doi": "10.1016/j.sleep.2024.05.006",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "불면증(Insomnia)",
+      "한약(CHM)",
+      "침 치료(Acupuncture)",
+      "피츠버그 수면 질 지수(PSQI)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/functional-dyspepsia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "The Efficacy of the Herbal Formula of Bunium persicum and Coriandrum sativum on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Controlled Trial.",
+    "published_date": "2024",
+    "journal": "Complementary medicine research",
+    "pmid": "38981452",
+    "doi": "10.1159/000539472",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "Bunium persicum",
+      "Coriandrum sativum (고수)",
+      "약초 제제(Herbal preparation)",
+      "삶의 질(Quality of Life)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/irritable-bowel-syndrome.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Chinese herbal formula Tongxie Yaofang granules for diarrhoea-predominant irritable bowel syndrome: a randomised, double-blind, placebo-controlled, phase II trial.",
+    "published_date": "2025-01-27",
+    "journal": "BMJ open",
+    "pmid": "39870499",
+    "doi": "10.1136/bmjopen-2024-088410",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "archive_path": "conditions/irritable-bowel-syndrome/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "설사형 과민성 대장 증후군(IBS-D)",
+      "통설요방(痛瀉要方, Tongxie Yaofang)",
+      "한약 제제(Herbal Medicine)",
+      "무작위 대조 시험(Randomised Controlled Trial)",
+      "IBS-SSS"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "통사요방",
+        "archive_path": "formulas/tongxie-yaofang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/atopic-dermatitis.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Chinese herbal formula Huoxiang Zhengqi Qral liquid for atopic dermatitis: The CHARM randomized controlled trial.",
+    "published_date": "2025-11",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "40839987",
+    "doi": "10.1016/j.phymed.2025.157141",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "L20",
+        "label": "아토피피부염",
+        "archive_path": "conditions/atopic-dermatitis/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "곽향정기산(藿香正氣散, Huoxiang Zhengqi)",
+      "아토피 피부염(Atopic Dermatitis)",
+      "습진(Eczema)",
+      "EASI 점수(EASI score)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "곽향정기산",
+        "archive_path": "formulas/huoxiang-zhengqi-san/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/primary-dysmenorrhea.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Chinese herbal formula Xuefu Zhuyu oral liquid for primary dysmenorrhea: a multicenter randomized controlled trial.",
+    "published_date": "2026",
+    "journal": "Frontiers in medicine",
+    "pmid": "41907285",
+    "doi": "10.3389/fmed.2026.1724529",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N94",
+        "label": "생리통",
+        "archive_path": "conditions/primary-dysmenorrhea/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "원발성 생리통(Primary dysmenorrhea)",
+      "혈부축어탕(血府逐瘀湯, Xuefu Zhuyu)",
+      "경구액(Oral liquid)",
+      "무작위 대조 시험(Randomized controlled trial)",
+      "진통제 사용(Painkiller use)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/depression.md",
+    "reasons": [],
+    "approved": false,
+    "title": "A meta-analysis of the efficacy and safety of the traditional Chinese medicine formula Kaixinsan decoction for depression",
+    "published_date": "2024-01-05",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000036719",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "개심산(開心散, Kaixinsan)",
+      "우울증(Depression)",
+      "한약(Herbal Medicine)",
+      "메타분석(Meta-analysis)",
+      "항우울제(Antidepressants)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/depression.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy and safety of sini powder combined with Xiaoxianxiong decoction for adolescent depression with liver qi stagnation and phlegm-heat obstruction syndrome: a randomized controlled trial",
+    "published_date": "2026-06-12",
+    "journal": "Frontiers in Pediatrics",
+    "pmid": "",
+    "doi": "10.3389/fped.2026.1787781",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "청소년 우울증(Adolescent depression)",
+      "심니산(Sini San, 四逆散)",
+      "소선흉탕(Xiaoxianxiong Tang, 小旋胸湯)",
+      "간기울결(Liver qi stagnation)",
+      "담열저체(Phlegm-heat obstruction)",
+      "한의 병용 요법(TCM add-on therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/insomnia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Banxia Shumi decoction for the treatment of insomnia: A systematic review and meta-analysis",
+    "published_date": "2025-11-28",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000046207",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "半夏秫米湯(반하숙미탕, Banxia Shumi decoction)",
+      "不眠(불면, Insomnia)",
+      "系統的 展望(계통적 문헌고찰, Systematic review)",
+      "메타분석(Meta-analysis)",
+      "수면의 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "반하서미탕",
+        "archive_path": "formulas/banxia-shumi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/depression.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Effect-enhancing and toxicity-reducing effects of Chaihu Jia Longgu Muli decoction in the treatment of multimorbidity with depression: a systematic review and meta-analysis.",
+    "published_date": "2023-12",
+    "journal": "Pharmaceutical biology",
+    "pmid": "37439185",
+    "doi": "10.1080/13880209.2023.2228356",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "柴胡加龍骨牡蠣湯(시호가룡골모려탕)",
+      "우울증(Depression)",
+      "다병환자(Multimorbidity)",
+      "항우울제(Antidepressants)",
+      "병용요법(Combination therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/constipation.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy and safety of Buzhongyiqi decoction combined with acupoint application for functional constipation in elderly people: A systematic review and meta-analysis.",
+    "published_date": "2024-01-19",
+    "journal": "Medicine",
+    "pmid": "38241527",
+    "doi": "10.1097/MD.0000000000036579",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "보중익기탕",
+        "archive_path": "formulas/bojungikgi-tang/"
+      }
+    ],
+    "kcd_candidates": [
+      {
+        "code": "K59.0",
+        "label": "변비",
+        "archive_path": "conditions/constipation/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "補中益氣湯(보중익기탕, Buzhongyiqi decoction)",
+      "穴位貼敷(혈위첩부, acupoint application)",
+      "기능성 변비(Functional constipation)",
+      "노인(Elderly)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "보중익기탕",
+        "archive_path": "formulas/bojungikgi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/functional-dyspepsia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy and safety of Xiangsha liujunzi decoction for functional dyspepsia: a systematic review and meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38933675",
+    "doi": "10.3389/fphar.2024.1356899",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "향사육군자탕(香砂六君子湯)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "향사육군자탕",
+        "archive_path": "formulas/xiangsha-liujunzi-tang/"
+      },
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/functional-dyspepsia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy and safety of Zhishixiaopi decoction in functional dyspepsia: A meta-analysis of randomized controlled trials.",
+    "published_date": "2024",
+    "journal": "PloS one",
+    "pmid": "38809916",
+    "doi": "10.1371/journal.pone.0301686",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "지시소피탕(Zhishixiaopi decoction)",
+      "한약(Herbal medicine)",
+      "메타분석(Meta-analysis)",
+      "총 유효율(Total effective rate)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/menopause.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Yigu decoction regulates plasma miRNA in postmenopausal osteoporosis patients: a randomized controlled trial.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "39568587",
+    "doi": "10.3389/fphar.2024.1460906",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N95",
+        "label": "갱년기",
+        "archive_path": "conditions/menopause/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "폐경 후 골다공증(Postmenopausal osteoporosis)",
+      "Yigu decoction(意古湯)",
+      "골밀도(Bone mineral density)",
+      "microRNA(miRNA)",
+      "miR-133a-3p",
+      "골대사(Bone metabolism)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/insomnia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Therapeutic Effect of Yu Melody Relaxation Training Combined with Jianpi Jieyu Decoction in Insomnia Patients: A Randomized Controlled Trial.",
+    "published_date": "2025-04",
+    "journal": "Chinese journal of integrative medicine",
+    "pmid": "39658768",
+    "doi": "10.1007/s11655-024-3923-1",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      },
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "不眠(불면, Insomnia)",
+      "建脾解鬱湯(건비해울탕, Jianpi Jieyu Decoction)",
+      "玉律(옥률) 이완 훈련(Yu Melody Relaxation Training)",
+      "수면의 질(Sleep Quality)",
+      "불안(Anxiety)",
+      "우울(Depression)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/depression.md",
+    "reasons": [],
+    "approved": false,
+    "title": "[Outcome indicators in randomized controlled trials of traditional Chinese medicine treatment of post-stroke depression].",
+    "published_date": "2025-01",
+    "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+    "pmid": "39929635",
+    "doi": "10.19540/j.cnki.cjcmm.20240826.501",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "뇌졸중 후 우울증(Post-stroke depression)",
+      "전통 의학(Traditional Chinese Medicine)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "결과 지표(Outcome indicators)",
+      "핵심 결과 세트(Core Outcome Set)",
+      "한약 탕제(TCM decoction)",
+      "침술(Acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/insomnia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Efficacy and safety of traditional Chinese medicine for post-COVID-19 syndrome: a systematic review and meta-analysis.",
+    "published_date": "2025-07-16",
+    "journal": "Journal of translational medicine",
+    "pmid": "40671020",
+    "doi": "10.1186/s12967-025-06830-7",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "Post-COVID-19 syndrome (포스트 코로나 증후군)",
+      "Traditional Chinese Medicine (TCM, 中醫藥(중의약))",
+      "Chinese herbal medicine (CHM, 中藥(중약))",
+      "Systematic review (체계적 문헌고찰)",
+      "Meta-analysis (메타분석)",
+      "Insomnia (불면증)",
+      "Chest tightness (흉부 압박감)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "conditions/functional-dyspepsia.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Safety and effectiveness of traditional herbal medicine Siho-sogan-san in functional dyspepsia: A systematic review and meta-analysis.",
+    "published_date": "2023-09-15",
+    "journal": "Journal of ethnopharmacology",
+    "pmid": "37127143",
+    "doi": "10.1016/j.jep.2023.116518",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "시호소간산(柴胡疎肝散, Siho-sogan-san)",
+      "한약(Herbal Medicine)",
+      "체질 및 변증(Pattern Identification)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  },
+  {
+    "kind": "herbal-medicine",
+    "target": "authority/conditions/anxiety.md",
+    "reasons": [],
+    "approved": false,
+    "title": "Effectiveness and safety of traditional East Asian herbal medicine for major depressive disorder with anxiety: a systematic review and meta-analysis",
+    "published_date": "2025-12-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.25050",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "archive_path": "conditions/anxiety/",
+        "status": "candidate"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "archive_path": "conditions/depression/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "주요 우울 장애(Major Depressive Disorder)",
+      "불안(Anxiety)",
+      "전통 동아시아 약물(Traditional East Asian Herbal Medicine)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [],
+    "refine_reasons": []
+  }
+]

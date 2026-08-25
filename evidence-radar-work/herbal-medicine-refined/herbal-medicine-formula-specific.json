@@ -1,0 +1,557 @@
+[
+  {
+    "title": "Effects of Chinese herbal medicine on colorectal adenoma recurrence following polypectomy: a systematic review and meta-analysis",
+    "published_date": "2025-03-20",
+    "journal": "Frontiers in Pharmacology",
+    "pmid": "",
+    "doi": "10.3389/fphar.2025.1460900",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "대장 선종(Colorectal Adenoma)",
+      "용종 절제술(Polypectomy)",
+      "중약(Chinese Herbal Medicine)",
+      "재발 예방(Recurrence Prevention)",
+      "사군자탕(四君子湯, Si jun zi decoction)",
+      "삼자 과립(San zi granule)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Sijunzi decoction, a classical Chinese herbal formula, improves fatigue symptoms with changes in gut microbiota in chronic fatigue syndrome: A randomized, double-blind, placebo-controlled, multi-center clinical trial.",
+    "published_date": "2024-07",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "38640860",
+    "doi": "10.1016/j.phymed.2024.155636",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성피로증후군(Chronic Fatigue Syndrome)",
+      "사군자탕(四君子湯)",
+      "비기허(Spleen Deficiency)",
+      "장내 미생물(Gut Microbiota)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal formula Tongxie Yaofang granules for diarrhoea-predominant irritable bowel syndrome: a randomised, double-blind, placebo-controlled, phase II trial.",
+    "published_date": "2025-01-27",
+    "journal": "BMJ open",
+    "pmid": "39870499",
+    "doi": "10.1136/bmjopen-2024-088410",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "archive_path": "conditions/irritable-bowel-syndrome/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "설사형 과민성 대장 증후군(IBS-D)",
+      "통설요방(痛瀉要方, Tongxie Yaofang)",
+      "한약 제제(Herbal Medicine)",
+      "무작위 대조 시험(Randomised Controlled Trial)",
+      "IBS-SSS"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "통사요방",
+        "archive_path": "formulas/tongxie-yaofang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of a traditional Chinese herbal formula Xuefu Zhuyu prescription for hypertension: A meta-analysis of randomized controlled trials.",
+    "published_date": "2025-06-06",
+    "journal": "Medicine",
+    "pmid": "40489881",
+    "doi": "10.1097/MD.0000000000041661",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "혈부축어탕(血府逐瘀湯, Xuefu Zhuyu prescription)",
+      "고혈압(Hypertension)",
+      "메타분석(Meta-analysis)",
+      "심혈관 질환(Cardiovascular disease)",
+      "혈압 강하(Blood pressure reduction)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal formula Huoxiang Zhengqi Qral liquid for atopic dermatitis: The CHARM randomized controlled trial.",
+    "published_date": "2025-11",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "pmid": "40839987",
+    "doi": "10.1016/j.phymed.2025.157141",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "L20",
+        "label": "아토피피부염",
+        "archive_path": "conditions/atopic-dermatitis/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "곽향정기산(藿香正氣散, Huoxiang Zhengqi)",
+      "아토피 피부염(Atopic Dermatitis)",
+      "습진(Eczema)",
+      "EASI 점수(EASI score)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "곽향정기산",
+        "archive_path": "formulas/huoxiang-zhengqi-san/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Chinese herbal formula Xuefu Zhuyu oral liquid for primary dysmenorrhea: a multicenter randomized controlled trial.",
+    "published_date": "2026",
+    "journal": "Frontiers in medicine",
+    "pmid": "41907285",
+    "doi": "10.3389/fmed.2026.1724529",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "N94",
+        "label": "생리통",
+        "archive_path": "conditions/primary-dysmenorrhea/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "원발성 생리통(Primary dysmenorrhea)",
+      "혈부축어탕(血府逐瘀湯, Xuefu Zhuyu)",
+      "경구액(Oral liquid)",
+      "무작위 대조 시험(Randomized controlled trial)",
+      "진통제 사용(Painkiller use)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Banxia Shumi decoction for the treatment of insomnia: A systematic review and meta-analysis",
+    "published_date": "2025-11-28",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000046207",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "archive_path": "conditions/insomnia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "半夏秫米湯(반하숙미탕, Banxia Shumi decoction)",
+      "不眠(불면, Insomnia)",
+      "系統的 展望(계통적 문헌고찰, Systematic review)",
+      "메타분석(Meta-analysis)",
+      "수면의 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "반하서미탕",
+        "archive_path": "formulas/banxia-shumi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Buzhongyiqi decoction combined with acupoint application for functional constipation in elderly people: A systematic review and meta-analysis.",
+    "published_date": "2024-01-19",
+    "journal": "Medicine",
+    "pmid": "38241527",
+    "doi": "10.1097/MD.0000000000036579",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "보중익기탕",
+        "archive_path": "formulas/bojungikgi-tang/"
+      }
+    ],
+    "kcd_candidates": [
+      {
+        "code": "K59.0",
+        "label": "변비",
+        "archive_path": "conditions/constipation/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "補中益氣湯(보중익기탕, Buzhongyiqi decoction)",
+      "穴位貼敷(혈위첩부, acupoint application)",
+      "기능성 변비(Functional constipation)",
+      "노인(Elderly)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "보중익기탕",
+        "archive_path": "formulas/bojungikgi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Xiangsha liujunzi decoction for functional dyspepsia: a systematic review and meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "38933675",
+    "doi": "10.3389/fphar.2024.1356899",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "kcd_candidates": [
+      {
+        "code": "K30",
+        "label": "기능성소화불량",
+        "archive_path": "conditions/functional-dyspepsia/",
+        "status": "candidate"
+      }
+    ],
+    "keywords": [
+      "기능성 소화불량(Functional Dyspepsia)",
+      "향사육군자탕(香砂六君子湯)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "향사육군자탕",
+        "archive_path": "formulas/xiangsha-liujunzi-tang/"
+      },
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of different traditional Chinese medicine decoctions in the treatment of ischemic stroke: a network meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in pharmacology",
+    "pmid": "39555103",
+    "doi": "10.3389/fphar.2024.1486458",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [],
+    "kcd_candidates": [],
+    "keywords": [
+      "허혈성 뇌졸중(Ischemic Stroke)",
+      "중의학 탕약(TCM Decoctions)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "혈부축어탕(血府逐瘀湯)",
+      "신기통락탕(神氣通絡湯)",
+      "화담통락탕(化痰通絡湯)",
+      "NIHSS 점수",
+      "바델 지수(Barthel Index)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "혈부축어탕",
+        "archive_path": "formulas/xuefu-zhuyu-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Clinical efficacy of Huanglian Wendan decoction in treating type 2 diabetes mellitus: A systematic review and meta-analysis.",
+    "published_date": "2023-10-06",
+    "journal": "Medicine",
+    "pmid": "37800822",
+    "doi": "10.1097/MD.0000000000035299",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "온담탕",
+        "archive_path": "formulas/ondam-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "황련온담탕(黃連溫膽湯, Huanglian Wendan decoction)",
+      "제2형 당뇨병(Type 2 Diabetes Mellitus)",
+      "혈당 조절(Blood Glucose Control)",
+      "혈중 지질(Blood Lipids)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "온담탕",
+        "archive_path": "formulas/ondam-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "A Systematic Review and Meta-Analysis of Xiangsha Liujunzi Decoction in the Treatment of Chronic Gastritis.",
+    "published_date": "2024",
+    "journal": "Combinatorial chemistry & high throughput screening",
+    "pmid": "37861042",
+    "doi": "10.2174/0113862073252121230925103843",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 위염(Chronic Gastritis)",
+      "향사육군자탕(Xiangsha Liujunzi Decoction)",
+      "한약(Herbal Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "향사육군자탕",
+        "archive_path": "formulas/xiangsha-liujunzi-tang/"
+      },
+      {
+        "label": "육군자탕",
+        "archive_path": "formulas/yukgunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials.",
+    "published_date": "2023-11-03",
+    "journal": "Medicine",
+    "pmid": "37933004",
+    "doi": "10.1097/MD.0000000000035513",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "독활기생탕",
+        "archive_path": "formulas/dokhwalgi-saeng-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "독활기생탕(獨活寄生湯, Duhuo-Jisheng decoction)",
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "메타분석(Meta-analysis)",
+      "항류마티스제(DMARDs)",
+      "한약(Herbal medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "독활기생탕",
+        "archive_path": "formulas/dokhwalgi-saeng-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Meta-analysis of modified Sijunzi decoction for the treatment of chronic atrophic gastritis.",
+    "published_date": "2024-04-26",
+    "journal": "Medicine",
+    "pmid": "38669406",
+    "doi": "10.1097/MD.0000000000037648",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "만성 위축성 위염(Chronic Atrophic Gastritis)",
+      "가감사군자탕(Modified Sijunzi Decoction, 四君子湯)",
+      "메타분석(Meta-analysis)",
+      "비위기허(Spleen and Stomach Qi Deficiency)",
+      "Helicobacter pylori"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "사군자탕",
+        "archive_path": "formulas/sagunja-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Systematic review and meta-analysis of Guipi Decoction in the treatment of anemia.",
+    "published_date": "2025-07-25",
+    "journal": "Medicine",
+    "pmid": "40725883",
+    "doi": "10.1097/MD.0000000000043625",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "귀비탕(歸脾湯, Guipi Decoction)",
+      "빈혈(Anemia)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "보조요법(Adjuvant therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  },
+  {
+    "title": "Efficacy of Traditional Chinese Herbal Medicine in the Treatment of Immune-Mediated Thrombocytopenia: A Systematic Review and Meta-analysis",
+    "published_date": "2024-08-01",
+    "journal": "American Journal of Traditional Chinese Veterinary Medicine",
+    "pmid": "",
+    "doi": "10.59565/001c.121502",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "clinical_evidence": true,
+    "formula_candidates": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "kcd_candidates": [],
+    "keywords": [
+      "면역 매개성 혈소판 감소증(Immune-mediated thrombocytopenia)",
+      "중약(Chinese herbal medicine)",
+      "혈소판 수치(Platelet count)",
+      "귀비탕(Gui Pi Tang)",
+      "양혈화어탕(Liang Xue Hua Yu Tang)",
+      "수의학(Veterinary medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "formula_candidates_refined": [
+      {
+        "label": "귀비탕",
+        "archive_path": "formulas/guibi-tang/"
+      }
+    ],
+    "refine_reasons": []
+  }
+]

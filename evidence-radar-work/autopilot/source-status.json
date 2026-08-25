@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "pharmacopuncture",
+    "path": "evidence-pharmacopuncture-clinical.json",
+    "records": 52
+  },
+  {
+    "kind": "acupuncture",
+    "path": "evidence-radar-work\\acupuncture-final\\acupuncture-final.json",
+    "records": 150
+  },
+  {
+    "kind": "electroacupuncture",
+    "path": "evidence-radar-work\\electroacupuncture-refined\\electroacupuncture-refined.json",
+    "records": 47
+  },
+  {
+    "kind": "herbal-medicine",
+    "path": "evidence-radar-work\\herbal-medicine-refined\\herbal-medicine-refined.json",
+    "records": 156
+  }
+]
