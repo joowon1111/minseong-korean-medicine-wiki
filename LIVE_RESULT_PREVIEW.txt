@@ -1,0 +1,11 @@
+﻿163 live-result preview from uploaded acupuncture-clinical.json
+
+Input: 193
+Would keep after core refinement: 171
+Would exclude: 22
+- electroacupuncture-only: 18
+- retracted/withdrawn: 2
+- comment/editorial: 1
+- acupotomy-only: 1
+
+Note: final script also corrects De Quervain neck-pain false mapping and RLS insomnia false mapping, and expands KCD candidates.
