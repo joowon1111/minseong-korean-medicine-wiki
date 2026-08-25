@@ -1,0 +1,337 @@
+[
+  {
+    "title": "The Efficacy of Neuropuncture™ Electrical Acupuncture Treatment of Patients with Parkinson’s Disease",
+    "published_date": "2025-06-30",
+    "journal": "Journal of Clinical Research and Case Studies",
+    "pmid": "",
+    "doi": "10.61440/jcrcs.2025.v3.76",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "파킨슨병(Parkinson’s Disease)",
+      "전침(電鍼, electrical acupuncture)",
+      "Neuropuncture™",
+      "통합 파킨슨병 등급 척도(UPDRS)",
+      "도파민(Dopamine)",
+      "신경 재활(Neuro-rehabilitation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Efficacy of Electro acupuncture for Intestinal Paralysis after Laparoscopic Cholecystectomy: A Case Report and Literature Review",
+    "published_date": "2023-09-19",
+    "journal": "Journal on Surgery",
+    "pmid": "",
+    "doi": "10.52768/2691-7785/1118",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "복강경 담낭절제술(Laparoscopic Cholecystectomy)",
+      "수술 후 장마비(Postoperative Ileus, POI)",
+      "전침(電鍼, Electroacupuncture)",
+      "위장관 운동성(Gastrointestinal dynamics)",
+      "복통(Abdominal pain)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Sleep and endocrine effects of acupuncture for insomnia: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2026-04-07",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1807826",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "불면증(Insomnia)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "멜라토닌(Melatonin)",
+      "코르티솔(Cortisol)",
+      "수면다원검사(Polysomnography)",
+      "내분비 조절(Endocrine regulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Acupuncture combined with language training for aphasia in children with cerebral palsy: a systematic review with meta-analysis and trial sequential analysis",
+    "published_date": "2025-03-12",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1502023",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌성마비(Cerebral Palsy)",
+      "실어증(Aphasia)",
+      "침 치료(鍼, Acupuncture)",
+      "언어 훈련(Language training)",
+      "전침(電鍼, Electroacupuncture)",
+      "두피침(頭皮鍼, Scalp acupuncture)",
+      "이침 압결(耳鍼, Auricular point seed-pressing)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Comparative effectiveness of acupuncture-based multimodal rehabilitation for post-stroke cognitive impairment: a network meta-analysis of 70 randomized controlled trials",
+    "published_date": "2026-02-10",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2026.1759572",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후 인지장애(Post-stroke cognitive impairment)",
+      "침술(Acupuncture, 鍼)",
+      "다중모드 재활(Multimodal rehabilitation)",
+      "두피침(Scalp acupuncture)",
+      "전침(Electroacupuncture, 電鍼)",
+      "네트워크 메타분석(Network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Efficacy of Abdominal Acupuncture in Poststroke Constipation: A Systematic Review and Meta‐Analysis With Trial Sequential Analysis",
+    "published_date": "2026-04-29",
+    "journal": "Brain and Behavior",
+    "pmid": "",
+    "doi": "10.1002/brb3.71442",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후 변비(Poststroke constipation)",
+      "복침(Abdominal Acupuncture)",
+      "전침(Electroacupuncture)",
+      "메타분석(Meta-analysis)",
+      "배변 시간(Time to first bowel movement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Acupuncture treatment of postoperative urinary retention in cervical cancer: Systematic evaluation and meta-analysis",
+    "published_date": "2025-02-21",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041520",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "자궁경부암(Cervical Cancer)",
+      "수술 후 요정체(Postoperative Urinary Retention)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "뜸(Moxibustion)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Acupuncture for diabetic peripheral neuropathy: A systematic review and Bayesian network meta-analysis",
+    "published_date": "2025-08-08",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043796",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "당뇨병성 말초신경병증(Diabetic peripheral neuropathy)",
+      "침치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "혈위주입(Acupoint injection)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "신경전도속도(Nerve conduction velocity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Effects of Acupuncture Treatment on Polycystic Ovary Syndrome (PCOS)",
+    "published_date": "2024-06-19",
+    "journal": "Obstetrics and Gynecology",
+    "pmid": "",
+    "doi": "10.5772/intechopen.113799",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "鍼(침, Acupuncture)",
+      "電鍼(전침, Electro-acupuncture)",
+      "생식 호르몬(Reproductive hormones)",
+      "인슐린 저항성(Insulin resistance)",
+      "β-엔도르핀(β-endorphin)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  }
+]
