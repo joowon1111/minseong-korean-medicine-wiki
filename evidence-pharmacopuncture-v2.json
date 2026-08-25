@@ -1,0 +1,2368 @@
+[
+  {
+    "title": "Efficacy of ultrasound-guided pharmacopuncture: A systematic review and meta-analysis",
+    "published_date": "2025-03-14",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041733",
+    "study_type": "Systematic review & meta-analysis",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "근골격계 질환 환자/대상",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "초음파 유도하 약침(Ultrasound-guided pharmacopuncture)",
+      "근골격계 질환(Musculoskeletal diseases)",
+      "통증 관리(Pain management)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Use of Herbal Decoction and Pharmacopuncture in Individuals with Chronic Disease: findings from a nationally representative panel",
+    "published_date": "2024-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.2.110",
+    "study_type": "Survey",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "herbal medicine"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, herbal medicine",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "韓方治療(한방치료, Korean medicine)",
+      "湯藥(탕약, herbal decoction)",
+      "藥鍼(약침, pharmacopuncture)",
+      "慢性疾患(만성질환, chronic disease)",
+      "醫療利用(의료이용, health service utilization)",
+      "韓國醫療패널(한국의료패널, Korea Health Panel)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Clinical Study for the Development of a Bee Venom Allergy Diagnostic Kit",
+    "published_date": "2025-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.2.138",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "봉독약침(蜂毒藥鍼, Bee Venom Pharmacopuncture)",
+      "알레르기 진단(Allergy Diagnosis)",
+      "총 IgE(Total IgE)",
+      "피부검사(Skin test)",
+      "멜리틴(Melittin)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Ultrasound-Guided Pharmacopuncture for Lateral Epicondylitis Initially Misdiagnosed Due to Incomplete Common Extensor Tendon Evaluation: a case report",
+    "published_date": "2025-09",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.3.248",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 21,
+    "kcd_candidates": [
+      {
+        "code": "M77.1",
+        "label": "외측상과염",
+        "status": "candidate",
+        "archive_path": "conditions/lateral-epicondylitis/"
+      }
+    ],
+    "pico": {
+      "population": "외측상과염 환자/대상",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "외측 상과염(Lateral Epicondylitis)",
+      "약침(Pharmacopuncture)",
+      "초음파 유도(Ultrasound-guided)",
+      "공통 신전근 건(Common Extensor Tendon, CET)",
+      "폴리데옥시리보뉴클레오티드(Polydeoxyribonucleotide, PDRN)"
+    ],
+    "archive_links": [
+      "/conditions/lateral-epicondylitis/",
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacoacupuncture for the Treatment of Frozen Shoulder: protocol for a systematic review and meta-analysis",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.14",
+    "study_type": "Systematic review & meta-analysis",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 26,
+    "kcd_candidates": [
+      {
+        "code": "M75.0",
+        "label": "유착성 관절낭염",
+        "status": "candidate",
+        "archive_path": "conditions/frozen-shoulder/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "오십견(Frozen Shoulder)",
+      "약침(Pharmacoacupuncture)",
+      "한의학(Traditional Korean Medicine)",
+      "체계적 문헌고찰(Systematic Review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "archive_links": [
+      "/conditions/frozen-shoulder/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case Study of Stress-Induced Alopecia Areata Treated with Hominis Placenta Pharmacopunture",
+    "published_date": "2024-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2024.27.1.53",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 14,
+    "kcd_candidates": [
+      {
+        "code": "L63",
+        "label": "원형탈모증",
+        "status": "candidate",
+        "archive_path": "conditions/alopecia-areata/"
+      }
+    ],
+    "pico": {
+      "population": "원형탈모증 환자/대상",
+      "intervention": "pharmacopuncture",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "원형탈모증(Alopecia Areata)",
+      "자하강(Hominis Placenta)",
+      "약침(Pharmacopuncture)",
+      "스트레스(Stress)",
+      "두피(Scalp)"
+    ],
+    "archive_links": [
+      "/conditions/alopecia-areata/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Types and Doses of Pharmacopuncture for Lumbar Disc Herniation: a scoping review of clinical studies",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.269",
+    "study_type": "Scoping review",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 23,
+    "kcd_candidates": [
+      {
+        "code": "M51.1",
+        "label": "요추 추간판탈출증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-disc-herniation/"
+      }
+    ],
+    "pico": {
+      "population": "요추 추간판탈출증 환자/대상",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "요추 추간판 탈출증(Lumbar Disc Herniation)",
+      "약침(Pharmacopuncture)",
+      "봉독(Bee venom)",
+      "신바로(Shinbaro)",
+      "범위 검토(Scoping review)"
+    ],
+    "archive_links": [
+      "/conditions/lumbar-disc-herniation/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Student Satisfaction with Pharmacopuncture Education and the Need for Curriculum Improvement",
+    "published_date": "2026-03",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.1.126",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(pharmacopuncture)",
+      "한의학 교육(Korean Medicine education)",
+      "학생 만족도(student satisfaction)",
+      "교육과정 개선(curriculum improvement)",
+      "실습 교육(hands-on training)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Efficacy of Acupuncture and Bee Venom Injections in Improving Hearing in a Patient with Idiopathic Conductive Hearing Loss: a case report",
+    "published_date": "2026-06",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2026.29.2.233",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 16,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "전음성 난청(Conductive Hearing Loss)",
+      "침(鍼, acupuncture)",
+      "봉침(蜂鍼, bee venom injection)",
+      "특발성(Idiopathic)",
+      "청력 개선(Hearing improvement)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case of Postherpetic Neuralgia Treated with Korean Medicine, including Soeumin Bojungikgitang-gagambang",
+    "published_date": "2023-10-30",
+    "journal": "The Journal of Internal Korean Medicine",
+    "pmid": "",
+    "doi": "10.22246/jikm.2023.44.5.920",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 13,
+    "kcd_candidates": [
+      {
+        "code": "G53.0",
+        "label": "대상포진후신경통",
+        "status": "candidate",
+        "archive_path": "conditions/postherpetic-neuralgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "대상포진 후 신경통(Postherpetic Neuralgia)",
+      "소음인(少陰人)",
+      "보중익기탕 가감방(補中益氣湯 加減方)",
+      "약침(pharmacopuncture)",
+      "침(acupuncture)"
+    ],
+    "archive_links": [
+      "/conditions/postherpetic-neuralgia/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Common Peroneal Nerve Entrapment Masked by Acute Lumbar Disc Herniation: Integrated Korean Medicine Treatment with Ultrasound-Guided Pharmacopuncture",
+    "published_date": "2024-10-31",
+    "journal": "Perspectives on Integrative Medicine",
+    "pmid": "",
+    "doi": "10.56986/pim.2024.10.008",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 20,
+    "kcd_candidates": [
+      {
+        "code": "G57.3",
+        "label": "총비골신경 포착",
+        "status": "candidate",
+        "archive_path": "nerve-entrapment/common-peroneal-entrapment/"
+      },
+      {
+        "code": "M51.1",
+        "label": "요추 추간판탈출증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-disc-herniation/"
+      }
+    ],
+    "pico": {
+      "population": "요추 추간판탈출증 환자/대상",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "Common Peroneal Nerve Entrapment(총비골신경 포착)",
+      "Lumbar Disc Herniation(요추 추간판 탈출증)",
+      "Pharmacopuncture(약침)",
+      "Ultrasound-guided(초음파 유도하)",
+      "Integrated Korean Medicine(통합 한의 치료)"
+    ],
+    "archive_links": [
+      "/nerve-entrapment/common-peroneal-entrapment/",
+      "/conditions/lumbar-disc-herniation/",
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Study on Major Uninsured Korean Medicine Treatments Search Trends and Their Meanings in an Online Portal: Using Naver Data Lab",
+    "published_date": "2023-09-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.23032",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "herbal medicine",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, herbal medicine, chuna/manual",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한방 비급여 치료(Uninsured KM treatments)",
+      "네이버 데이터랩(Naver Data Lab)",
+      "추나(Chuna)",
+      "약침(pharmacopuncture)",
+      "한약(herbal decoction)",
+      "매선요법(needle-embedding therapy)",
+      "검색 트렌드(search trends)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case Report of Korean Medicine Treatment for an Intractable Hiccup Patient with Unknown Cause after a Traffic Accident",
+    "published_date": "2023-10-30",
+    "journal": "The Journal of Internal Korean Medicine",
+    "pmid": "",
+    "doi": "10.22246/jikm.2023.44.5.1083",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "herbal medicine"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 11,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, herbal medicine",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "난치성 딸꾹질(intractable hiccup)",
+      "교통사고(traffic accident)",
+      "소시호탕(小柴胡湯)",
+      "한의 통합 치료(Korean medicine treatment)",
+      "약침(pharmacopuncture)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative Medicine Focusing on Ultrasound-Guided High-Dose Shinbaro 2 Pharmacopuncture for Acute Herniated Intervertebral Discs: A Case Report.",
+    "published_date": "2024-08-14",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "pmid": "39201178",
+    "doi": "10.3390/healthcare12161620",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 18,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "추간판 탈출증(Herniated Intervertebral Disc)",
+      "신바로 2 약침(Shinbaro 2 pharmacopuncture)",
+      "초음파 유도(Ultrasound-guided)",
+      "캄빈 삼각지대(Kambin’s triangle)",
+      "한양방 통합 의학(Integrative Medicine)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "An economic evaluation of pharmacopuncture versus usual care for chronic neck pain: a pragmatic randomized controlled trial.",
+    "published_date": "2023-11-23",
+    "journal": "BMC health services research",
+    "pmid": "37993844",
+    "doi": "10.1186/s12913-023-10325-w",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "usual care",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(pharmacopuncture)",
+      "만성 목 통증(chronic neck pain)",
+      "경제성 평가(economic evaluation)",
+      "비용-효과 분석(cost-effectiveness analysis)",
+      "삶의 질 보정 수명(QALY)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Outcomes of MOK Pharmacopuncture in an Elderly Male Patient with Hypothyroidism-A Case Report and Literature Review.",
+    "published_date": "2024-03-22",
+    "journal": "Journal of personalized medicine",
+    "pmid": "38672958",
+    "doi": "10.3390/jpm14040331",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 16,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "해당 없음",
+      "outcomes": [
+        "삶의 질"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "갑상선 기능 저하증(Hypothyroidism)",
+      "약침(Pharmacopuncture)",
+      "MOK 약침",
+      "피로(Fatigue)",
+      "삶의 질(Quality of Life)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness and safety of hominis placental pharmacopuncture for chronic temporomandibular disorder: A multi-center randomized controlled trial.",
+    "published_date": "2024-06",
+    "journal": "Integrative medicine research",
+    "pmid": "38779539",
+    "doi": "10.1016/j.imr.2024.101044",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "삶의 질",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "Temporomandibular disorder (턱관절 장애, TMD)",
+      "Hominis placenta (자하거, HPP)",
+      "Pharmacopuncture (약침)",
+      "Pain management (통증 관리)",
+      "Quality of Life (삶의 질)",
+      "Randomized Controlled Trial (무작위 대조 시험)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacopuncture Improves the Lipid Profile in Patients under Statins: Retrospective Study at a Korean Medicine Clinic.",
+    "published_date": "2024-09",
+    "journal": "Alternative therapies in health and medicine",
+    "pmid": "39212512",
+    "doi": "",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(藥鍼, pharmacopuncture)",
+      "스타틴(statins)",
+      "이상지질혈증(dyslipidemia)",
+      "지질 프로필(lipid profile)",
+      "고지혈증(hyperlipidemia)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Survey on the current usage of ultrasound-guided procedures in Korean Medicine Clinics and Hospitals.",
+    "published_date": "2024-04-05",
+    "journal": "Medicine",
+    "pmid": "38579082",
+    "doi": "10.1097/MD.0000000000037659",
+    "study_type": "Survey",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 12,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "초음파 유도 (Ultrasound-guidance)",
+      "한의 임상 (Korean Medicine clinic)",
+      "약침 (Pharmacopuncture)",
+      "안전성 (Safety)",
+      "효과성 (Efficacy)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness and Safety of Pharmacopuncture on Inpatients with Tension Headache Caused by Traffic Accidents: A Pragmatic Randomized Controlled Trial.",
+    "published_date": "2024-07-30",
+    "journal": "Journal of clinical medicine",
+    "pmid": "39124723",
+    "doi": "10.3390/jcm13154457",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침( Pharmacopuncture)",
+      "긴장성 두통(Tension Headache)",
+      "교통사고(Traffic Accident)",
+      "후두하근(Suboccipital muscles)",
+      "통증 완화(Pain relief)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacopuncture for patients with psychological stress caused by traffic accidents: A pragmatic randomized controlled pilot trial.",
+    "published_date": "2026-03",
+    "journal": "Integrative medicine research",
+    "pmid": "40995057",
+    "doi": "10.1016/j.imr.2025.101251",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(藥鍼, pharmacopuncture)",
+      "교통사고(traffic accident)",
+      "심리적 스트레스(psychological stress)",
+      "불안(anxiety)",
+      "우울(depression)",
+      "통합 한의 치료(integrative Korean medicine)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Factors associated with the use of pharmacopuncture in addition to acupuncture in South Korea: An analysis of a nationally representative panel",
+    "published_date": "2024-08-30",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000039518",
+    "study_type": "Survey",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(藥鍼, pharmacopuncture)",
+      "침(鍼, acupuncture)",
+      "한국건강패널(Korea Health Panel)",
+      "의료비(medical cost)",
+      "사회경제적 요인(socioeconomic factors)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Improvement of triceps muscle weakness in patients with cervical spondylotic myelopathy using Korean medicine therapy including shinbaro-2 pharmacopuncture: A CARE-compliant case series",
+    "published_date": "2025-07-04",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043085",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, chuna/manual",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "경추 척수증(Cervical Spondylotic Myelopathy)",
+      "신바로-2 약침(Shinbaro-2 pharmacopuncture)",
+      "삼두근 약화(Triceps muscle weakness)",
+      "한의 통합치료(Integrated Korean Medicine)",
+      "추나 요법(Chuna manual therapy)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Short Review on “A Case Report of Cervical Spondylotic Myelopathy Improved with Korean Medicine Treatment Focused on Bee Venom Pharmacopuncture”",
+    "published_date": "2025-02-28",
+    "journal": "Journal of Alternative, Complementary & Integrative Medicine",
+    "pmid": "",
+    "doi": "10.24966/acim-7562/100550",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 16,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "경추 척수증(Cervical Spondylotic Myelopathy)",
+      "봉침(Bee Venom)",
+      "약침(Pharmacopuncture)",
+      "한방 치료(Korean Medicine)",
+      "신경학적 손상(Neurological Impairment)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Model-based economic evaluation of pharmacopuncture for chronic low back pain: a 3-year Markov analysis",
+    "published_date": "2026-01-13",
+    "journal": "Frontiers in Public Health",
+    "pmid": "",
+    "doi": "10.3389/fpubh.2025.1710425",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 18,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "약침(Pharmacopuncture, PPT)",
+      "비용-효과 분석(Cost-effectiveness analysis)",
+      "마르코프 모델(Markov model)",
+      "질 보정 수명(QALYs)"
+    ],
+    "archive_links": [
+      "/conditions/low-back-pain/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness and Safety of Pharmacopuncture therapy for chronic low back pain: A protocol for an assessor-blinded, pragmatic randomized controlled, pilot trial",
+    "published_date": "2023-08-30",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-3210696/v1",
+    "study_type": "RCT protocol",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 20,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "만성 요통(Chronic low back pain)",
+      "약침(Pharmacopuncture)",
+      "한방 치료(Traditional Korean medicine)",
+      "무작위 대조 시험(Randomized controlled trial)",
+      "실용적 임상시험(Pragmatic trial)"
+    ],
+    "archive_links": [
+      "/conditions/low-back-pain/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness of Scolopendrid Pharmacopuncture for Neuropathic Dysfunction: Clinical Evidence and Potential Mechanism",
+    "published_date": "2025-02-12",
+    "journal": "Toxins",
+    "pmid": "",
+    "doi": "10.3390/toxins17020083",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "지네 약침(Scolopendrid Pharmacopuncture)",
+      "신경병성 통증(Neuropathic pain)",
+      "말초신경계(Peripheral nervous system)",
+      "약침요법(Pharmacopuncture)",
+      "신경 보호(Neuroprotection)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Case Report of Ultrasound-guided Hominis Placenta Pharmacopuncture on Lateral epicondylitis",
+    "published_date": "2024-06-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.24030",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 21,
+    "kcd_candidates": [
+      {
+        "code": "M77.1",
+        "label": "외측상과염",
+        "status": "candidate",
+        "archive_path": "conditions/lateral-epicondylitis/"
+      }
+    ],
+    "pico": {
+      "population": "외측상과염 환자/대상",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "외측상과염(Lateral epicondylitis)",
+      "인태반(Hominis Placenta)",
+      "약침(Pharmacopuncture)",
+      "초음파 유도(Ultrasound-guided)",
+      "테니스 엘보(Tennis elbow)"
+    ],
+    "archive_links": [
+      "/conditions/lateral-epicondylitis/",
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Korean Medicine with Polydeoxyribonucleotide Pharmacopuncture and Excimer Light Therapy for Foot Dyshidrotic Eczema: Two Case Reports",
+    "published_date": "2026-06-30",
+    "journal": "Perspectives on Integrative Medicine",
+    "pmid": "",
+    "doi": "10.56986/pim.2026.06.007",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "herbal medicine"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 16,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture, herbal medicine",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "한포진(Dyshidrotic Eczema)",
+      "약침(Pharmacopuncture)",
+      "폴리데옥시리보뉴클레오티드(Polydeoxyribonucleotide, PDRN)",
+      "엑시머 광선 치료(Excimer light therapy)",
+      "황련해독탕(黃連解毒湯)",
+      "사암침(Saam acupuncture)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Analysis of research trends on microneedle patches loaded pharmacopuncture preparation: A Literature Review",
+    "published_date": "2024-06-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.24032",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(pharmacopuncture)",
+      "마이크로니들 패치(microneedle patch)",
+      "용해성 마이크로니들(dissolving microneedle)",
+      "약물 전달 시스템(drug delivery system)",
+      "문헌 고찰(literature review)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Sweet Bee Venom Pharmacopuncture as a Sole Treatment for Verruca Vulgaris : A Case Report",
+    "published_date": "2025-09-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.25043",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 16,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "尋常疣(심상유, Verruca Vulgaris)",
+      "蜂藥鍼(봉약침, Bee Venom Pharmacopuncture)",
+      "藥鍼(약침, Pharmacopuncture)",
+      "면역조절(Immunomodulation)",
+      "항바이러스(Antiviral)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Economic Evaluation of Pharmacopuncture for Adhesive Capsulitis Alongside a Pilot Pragmatic Randomized Controlled Trial Comparing Pharmacopuncture and Physical Therapy",
+    "published_date": "2026-02-27",
+    "journal": "Healthcare",
+    "pmid": "",
+    "doi": "10.3390/healthcare14050605",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [
+      {
+        "code": "M75.0",
+        "label": "유착성 관절낭염",
+        "status": "candidate",
+        "archive_path": "conditions/frozen-shoulder/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "오십견(adhesive capsulitis)",
+      "약침(pharmacopuncture)",
+      "물리치료(physical therapy)",
+      "경제성 평가(economic evaluation)",
+      "비용-효과성(cost-effectiveness)",
+      "질 보정 수명(QALYs)"
+    ],
+    "archive_links": [
+      "/conditions/frozen-shoulder/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacopuncture for Post-Arthroscopic Peripheral Neuropathy: A Case Report",
+    "published_date": "2026-08-05",
+    "journal": "Medical Acupuncture",
+    "pmid": "",
+    "doi": "10.1177/19336586261475894",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 16,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "해당 없음",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(pharmacopuncture)",
+      "말초신경병증(peripheral neuropathy)",
+      "관절경 수술(arthroscopic surgery)",
+      "신경병증성 통증(neuropathic pain)",
+      "메코발라민(mecobalamin)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "PROSPECTS FOR THE APPLICATION OF PHARMACOPUNCTURE IN MOTOR DISORDERS AND MYOFASCIAL PAIN SYNDROMES",
+    "published_date": "2025-04-13",
+    "journal": "EPRA International Journal of Research & Development (IJRD)",
+    "pmid": "",
+    "doi": "10.36713/epra20963",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(藥鍼, Pharmacopuncture)",
+      "반사요법(Reflexotherapy)",
+      "운동 장애(Motor Disorders)",
+      "근막 통증 증후군(Myofascial Pain Syndromes)",
+      "근이완제(Muscle Relaxant)",
+      "미도칼름(Midokalm)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Ultrasound-guided pharmacopuncture for lumbar disc herniation: a retrospective matched cohort study",
+    "published_date": "2026",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.2139/ssrn.7174795",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 20,
+    "kcd_candidates": [
+      {
+        "code": "M51.1",
+        "label": "요추 추간판탈출증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-disc-herniation/"
+      }
+    ],
+    "pico": {
+      "population": "요추 추간판탈출증 환자/대상",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "요추 추간판 탈출증(Lumbar disc herniation)",
+      "초음파 유도하 약침(Ultrasound-guided pharmacopuncture)",
+      "방사통(Radiating leg pain)",
+      "한의 진료(Korean medicine practice)",
+      "후향적 매칭 코호트 연구(Retrospective matched cohort study)"
+    ],
+    "archive_links": [
+      "/conditions/lumbar-disc-herniation/",
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "CORRECTION OF DIABETIC POLYNEUROPATHY USING PHARMACOPUNCTURE METHOD",
+    "published_date": "2024-02-17",
+    "journal": "EPRA International Journal of Research & Development (IJRD)",
+    "pmid": "",
+    "doi": "10.36713/epra15817",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(藥鍼, pharmacopuncture)",
+      "당뇨병성 다발신경병증(Diabetic polyneuropathy)",
+      "Cerebrum Compositum",
+      "제2형 당뇨병(Type 2 diabetes mellitus)",
+      "전기신경근전도(Electroneuromyography)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The usage of pharmacopuncture in medical complexes for lumbosacral dorsopathies",
+    "published_date": "2025-02-14",
+    "journal": "International journal of Innovative Medicine",
+    "pmid": "",
+    "doi": "10.33667/2782-4101-2024-1-29-31",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(pharmacopuncture)",
+      "요천추부 척추질환(lumbosacral dorsopathies)",
+      "Alflutop",
+      "전자기 자극(electromagnetic stimulation)",
+      "추간판(intervertebral discs)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The pharmacopuncture in dorsopathy",
+    "published_date": "2023-08-30",
+    "journal": "Lechaschi Vrach",
+    "pmid": "",
+    "doi": "10.51793/os.2023.26.8.002",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 15,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(Pharmacopuncture)",
+      "척추병증(Dorsopathy)",
+      "요천추(Lumbosacral)",
+      "Alflutop",
+      "경혈 자극(Reflexology points stimulation)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Retrospective Analysis of Outcomes in the 2023 Busan Korean Medicine infertility Treatment Support Project",
+    "published_date": "2024-06-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.24027",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "herbal medicine"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, herbal medicine",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "난임(難妊, Infertility)",
+      "한방 치료(韓方治療, Korean Medicine Treatment)",
+      "한약(韓藥, Herbal Medicine)",
+      "약침(藥鍼, Pharmacopuncture)",
+      "임신율(妊娠率, Pregnancy Rate)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Folliculitis Refractory to Antibiotic in an Adolescent: 2 Case Reports",
+    "published_date": "2026-03-01",
+    "journal": "Journal of Korean Medicine",
+    "pmid": "",
+    "doi": "10.13048/jkm.26014",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "herbal medicine"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 11,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture, herbal medicine",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "모낭염(Folliculitis)",
+      "항생제 내성(Antibiotic refractory)",
+      "鍼(침, acupuncture)",
+      "약침(pharmacopuncture)",
+      "韓藥(한약, herbal medicine)",
+      "KAGS Grade"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect of Korean Medicine Treatment on Patients with Postherpetic Neuralgia: A Retrospective Chart Review.",
+    "published_date": "2024-01-19",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "pmid": "38275536",
+    "doi": "10.3390/healthcare12020256",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 13,
+    "kcd_candidates": [
+      {
+        "code": "G53.0",
+        "label": "대상포진후신경통",
+        "status": "candidate",
+        "archive_path": "conditions/postherpetic-neuralgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "대상포진 후 신경통(Postherpetic Neuralgia)",
+      "한의치료(Korean Medicine Treatment)",
+      "통증 관리(Pain Management)",
+      "약침(Pharmacopuncture)",
+      "침치료(Acupuncture)"
+    ],
+    "archive_links": [
+      "/conditions/postherpetic-neuralgia/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Long-term follow-up of inpatients with meniscus tears who received integrative Korean medicine treatment: A retrospective analysis and follow-up survey.",
+    "published_date": "2024-02-09",
+    "journal": "Medicine",
+    "pmid": "38335386",
+    "doi": "10.1097/MD.0000000000036917",
+    "study_type": "Survey",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, chuna/manual",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "반월상 연골 파열(Meniscus tear)",
+      "한의 통합 치료(Integrative Korean medicine)",
+      "약침(藥鍼, pharmacopuncture)",
+      "추나 요법(推拿, Chuna therapy)",
+      "장기 추적 관찰(Long-term follow-up)",
+      "무릎 통증(Knee pain)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative Korean medicine for recurrent lumbar disc herniation after coronavirus disease vaccination: A case report and literature review.",
+    "published_date": "2025-01-03",
+    "journal": "Medicine",
+    "pmid": "40184086",
+    "doi": "10.1097/MD.0000000000041079",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 14,
+    "kcd_candidates": [
+      {
+        "code": "M51.1",
+        "label": "요추 추간판탈출증",
+        "status": "candidate",
+        "archive_path": "conditions/lumbar-disc-herniation/"
+      }
+    ],
+    "pico": {
+      "population": "요추 추간판탈출증 환자/대상",
+      "intervention": "pharmacopuncture, acupuncture, chuna/manual",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "코로나19 백신(COVID-19 vaccine)",
+      "요추 추간판 탈출증(lumbar disc herniation)",
+      "통합 한의 치료(integrative Korean medicine)",
+      "鍼(침, acupuncture)",
+      "藥鍼(약침, pharmacopuncture)",
+      "추나 요법(Chuna manual therapy)",
+      "마미 증후군(cauda equina syndrome)"
+    ],
+    "archive_links": [
+      "/conditions/lumbar-disc-herniation/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative Postural Rehabilitation for Kyphotic Deformity in a Patient with Parkinson's Disease: A Case Report and Literature Review.",
+    "published_date": "2025-05-25",
+    "journal": "Journal of clinical medicine",
+    "pmid": "40507466",
+    "doi": "10.3390/jcm14113705",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 11,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture, chuna/manual",
+      "comparator": "해당 없음",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "파킨슨병(Parkinson's disease)",
+      "흉요추 후만증(Thoracolumbar kyphosis)",
+      "추나 요법(Chuna spinal manual therapy)",
+      "침(Acupuncture)",
+      "약침(Pharmacopuncture)",
+      "자세 재활(Postural rehabilitation)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Clinical Outcomes of Integrative Korean Medicine Treatment in Patients with Neck Pain Following Cervical Disc Surgery: A Multi-Center Retrospective Study.",
+    "published_date": "2025",
+    "journal": "Journal of pain research",
+    "pmid": "41215984",
+    "doi": "10.2147/JPR.S553978",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "herbal medicine",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture, herbal medicine, chuna/manual",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "경추 추간판 탈출증(Cervical disc herniation)",
+      "경추 수술 후 통증(Post-surgical neck pain)",
+      "통합 한의 치료(Integrative Korean medicine)",
+      "鍼(침, acupuncture)",
+      "藥鍼(약침, pharmacopuncture)",
+      "韓藥(한약, herbal medicine)",
+      "수기치료(Manual therapy)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effect and Safety of Combining Pharmacopuncture Therapy and Acupotomy in the Treatment of Patients with Degenerative Lumbar Spinal Stenosis: a Study Protocol for a Pragmatic, Assessor-Blinded, Randomized, Controlled Trial.",
+    "published_date": "2023-12-31",
+    "journal": "Journal of acupuncture and meridian studies",
+    "pmid": "38115593",
+    "doi": "10.51507/j.jams.2023.16.6.268",
+    "study_type": "RCT protocol",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 17,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "요추 척추관 협착증(Lumbar Spinal Stenosis)",
+      "약침(Pharmacopuncture)",
+      "도침(Acupotomy)",
+      "한방 치료(Korean Medicine)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacopuncture Therapy as an Adjunctive Treatment for Patients with Lumbar Spinal Stenosis: A Pragmatic Randomized Controlled Pilot Trial.",
+    "published_date": "2024",
+    "journal": "Journal of pain research",
+    "pmid": "38464904",
+    "doi": "10.2147/JPR.S438219",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "요추관 협착증(Lumbar Spinal Stenosis)",
+      "약침요법(Pharmacopuncture Therapy)",
+      "한방 치료(Korean Medicine)",
+      "시각적 아날로그 척도(Visual Analog Scale)",
+      "안전성(Safety)",
+      "타당성(Feasibility)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A Pilot Study for Effectiveness and Safety of Adjunctive Pharmacopuncture to Acupuncture Treatment for Rotator Cuff Diseases: A Pragmatic Randomized Controlled Trial.",
+    "published_date": "2024",
+    "journal": "Journal of pain research",
+    "pmid": "38947130",
+    "doi": "10.2147/JPR.S457425",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "회전근개 질환(Rotator Cuff Diseases)",
+      "약침(藥鍼, Pharmacopuncture)",
+      "침(鍼, Acupuncture)",
+      "통증(Pain)",
+      "무작위 대조 시험(Randomized Controlled Trial)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pharmacopuncture therapy for adhesive capsulitis: A pragmatic randomized controlled pilot study.",
+    "published_date": "2024-09",
+    "journal": "Integrative medicine research",
+    "pmid": "39224580",
+    "doi": "10.1016/j.imr.2024.101065",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [
+      {
+        "code": "M75.0",
+        "label": "유착성 관절낭염",
+        "status": "candidate",
+        "archive_path": "conditions/frozen-shoulder/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "오십견(adhesive capsulitis)",
+      "약침 요법(pharmacopuncture therapy)",
+      "물리치료(physiotherapy)",
+      "어깨 통증(shoulder pain)",
+      "관절 가동 범위(range of motion)"
+    ],
+    "archive_links": [
+      "/conditions/frozen-shoulder/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "The Transformation of Acupuncture Practice Using Ultrasonography: Expert Opinions.",
+    "published_date": "2024-10-31",
+    "journal": "Journal of acupuncture and meridian studies",
+    "pmid": "39444101",
+    "doi": "10.51507/j.jams.2024.17.5.165",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "초음파(Ultrasonography)",
+      "침치료(Acupuncture)",
+      "약침(Pharmacopuncture)",
+      "도침(Acupotomy)",
+      "한의학(Korean Medicine)",
+      "안전성(Safety)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness of Korean medicine treatments in improving cognitive function and prefrontal cortex activity in older individuals with mild cognitive impairment: retrospective observational study.",
+    "published_date": "2024",
+    "journal": "Frontiers in neurology",
+    "pmid": "39539667",
+    "doi": "10.3389/fneur.2024.1440111",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "herbal medicine"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture, herbal medicine",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "경도인지장애(Mild Cognitive Impairment)",
+      "한약(Herbal medicine)",
+      "침(Acupuncture)",
+      "약침(Pharmacopuncture)",
+      "인지 기능(Cognitive function)",
+      "전전두엽 피질(Prefrontal cortex)",
+      "fNIRS"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness and Safety of Pharmacopuncture Therapy Compared to Standard Physical Therapy in Patients with Chronic Knee Pain: A Pilot Study for a Pragmatic Randomized Controlled Trial.",
+    "published_date": "2025-06-18",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "pmid": "40572793",
+    "doi": "10.3390/medicina61061106",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "active comparator",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "약침(藥鍼, Pharmacopuncture)",
+      "만성 무릎 통증(Chronic knee pain)",
+      "물리치료(Physical therapy)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "통증 완화(Pain relief)",
+      "K-WOMAC"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Pragmatic Randomized Controlled Trial of Pharmacopuncture Therapy for Cervical Disc Herniation: A Pilot Study.",
+    "published_date": "2025",
+    "journal": "Journal of pain research",
+    "pmid": "40726764",
+    "doi": "10.2147/JPR.S527880",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "경추 추간판 탈출증(Cervical Disc Herniation)",
+      "약침(Pharmacopuncture)",
+      "침 치료(Acupuncture)",
+      "실용적 임상시험(Pragmatic Randomized Controlled Trial)",
+      "통증 완화(Pain Reduction)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Effectiveness and safety of combining pharmacopuncture therapy and acupotomy for treating patients with degenerative lumbar spinal stenosis: A pragmatic, assessor-blinded, randomized, controlled trial.",
+    "published_date": "2026-03",
+    "journal": "Integrative medicine research",
+    "pmid": "40919521",
+    "doi": "10.1016/j.imr.2025.101204",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 22,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "요추 척추관 협착증(Lumbar Spinal Stenosis)",
+      "약침(Pharmacopuncture)",
+      "도침(Acupotomy)",
+      "한방 치료(Korean Medicine)",
+      "통증 완화(Pain Relief)",
+      "보행 거리(Walking Distance)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "A cost-utility analysis of pharmacopuncture versus physiotherapy for chronic low back pain: A multicenter, pragmatic randomized controlled trial.",
+    "published_date": "2025-12",
+    "journal": "Integrative medicine research",
+    "pmid": "41497196",
+    "doi": "10.1016/j.imr.2025.101210",
+    "study_type": "RCT",
+    "treatment_tags": [
+      "pharmacopuncture"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 25,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "만성 요통(Chronic low back pain)",
+      "약침(Pharmacopuncture)",
+      "물리치료(Physiotherapy)",
+      "비용-효용 분석(Cost-utility analysis)",
+      "질 보정 수명(QALYs)"
+    ],
+    "archive_links": [
+      "/conditions/low-back-pain/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Traditional Chinese medicine for foot pain in a patient with complex regional pain syndrome: A case report.",
+    "published_date": "2023-10-26",
+    "journal": "World journal of clinical cases",
+    "pmid": "37969454",
+    "doi": "10.12998/wjcc.v11.i30.7424",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "herbal medicine",
+      "moxibustion"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 11,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture, herbal medicine, moxibustion",
+      "comparator": "해당 없음",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "복합부위통증증후군(Complex Regional Pain Syndrome, CRPS)",
+      "한방치료(Traditional Chinese Medicine, TCM)",
+      "침(鍼, acupuncture)",
+      "뜸(灸, moxibustion)",
+      "약침(藥鍼, pharmacopuncture)",
+      "한약(Herbal medicine)",
+      "발 통증(Foot pain)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Characteristics of Korean medical care utilization in patients with traffic injury: Analysis of 3 hospital electronic health record databases.",
+    "published_date": "2024-06-14",
+    "journal": "Medicine",
+    "pmid": "38875418",
+    "doi": "10.1097/MD.0000000000038495",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "herbal medicine",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 10,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, herbal medicine, chuna/manual",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "교통사고 부상(Traffic Injury)",
+      "한방 의료 이용(Korean medical care utilization)",
+      "추나(Chuna manual therapy)",
+      "약침(Pharmacopuncture)",
+      "한약(Herbal medicine)",
+      "경추 염좌(Sprain and strain of cervical spine)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative Korean medicine treatment for inpatients with osteoarthritis of the knee: An observational study.",
+    "published_date": "2024-08-09",
+    "journal": "Medicine",
+    "pmid": "39121270",
+    "doi": "10.1097/MD.0000000000039183",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "acupuncture",
+      "herbal medicine"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 13,
+    "kcd_candidates": [
+      {
+        "code": "M17",
+        "label": "무릎 골관절염",
+        "status": "candidate",
+        "archive_path": "conditions/knee-osteoarthritis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, acupuncture, herbal medicine",
+      "comparator": "",
+      "outcomes": []
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "Knee Osteoarthritis (슬관절 골관절염)",
+      "Integrative Korean Medicine Treatment (통합 한의 치료)",
+      "Pharmacopuncture (약침)",
+      "Acupuncture (침)",
+      "Herbal Medicine (한약)",
+      "Long-term prognosis (장기 예후)"
+    ],
+    "archive_links": [
+      "/conditions/knee-osteoarthritis/",
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Integrative Korean medicine treatment without surgery for the management of subacute radiating pain attributed to vertebral artery loop formation: A case report and literature review.",
+    "published_date": "2025-02-28",
+    "journal": "Medicine",
+    "pmid": "40020132",
+    "doi": "10.1097/MD.0000000000039483",
+    "study_type": "Case report",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "chuna/manual"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 11,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, chuna/manual",
+      "comparator": "해당 없음",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "척추동맥 루프 형성(Vertebral artery loop formation)",
+      "경추 신경근증(Cervical radiculopathy)",
+      "통합 한의학(Integrative Korean Medicine)",
+      "추나(推拿, Chuna therapy)",
+      "약침(藥鍼, pharmacopuncture)",
+      "방사통(Radiating pain)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Ultrasound-Guided vs Non-Guided Pharmacopuncture for Cervical Myofascial Pain Syndrome: A Multi-Center Prospective Comparative Study Protocol.",
+    "published_date": "2025",
+    "journal": "Journal of pain research",
+    "pmid": "40130203",
+    "doi": "10.2147/JPR.S509236",
+    "study_type": "RCT protocol",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided"
+    ],
+    "query_relevance_score": 13,
+    "keep_for_query": true,
+    "priority_score": 19,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "pharmacopuncture, ultrasound-guided",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "경추 근막통증증후군(Cervical Myofascial Pain Syndrome)",
+      "초음파 유도하 약침(Ultrasound-Guided Pharmacopuncture)",
+      "자하강(Hominis Placenta)",
+      "약침(Pharmacopuncture)",
+      "통증 관리(Pain Management)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  },
+  {
+    "title": "Ultrasound-guided acupuncture therapy in Korea: advancing traditional practices with new technology.",
+    "published_date": "2025",
+    "journal": "Frontiers in medicine",
+    "pmid": "40206473",
+    "doi": "10.3389/fmed.2025.1544618",
+    "study_type": "Other human study",
+    "treatment_tags": [
+      "pharmacopuncture",
+      "ultrasound-guided",
+      "acupuncture"
+    ],
+    "query_relevance_score": 8,
+    "keep_for_query": true,
+    "priority_score": 12,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "근골격계 질환 환자/대상",
+      "intervention": "pharmacopuncture, ultrasound-guided, acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "clinical_summary": "",
+    "keywords": [
+      "초음파 유도하 침 치료(Ultrasound-guided acupuncture)",
+      "한의사(Korean Medicine doctor)",
+      "근골격계 질환(Musculoskeletal disorders)",
+      "약침(Pharmacopuncture)",
+      "도침(Acupotomy)",
+      "안전성(Safety)"
+    ],
+    "archive_links": [
+      "/portal/acupuncture/",
+      "/musculoskeletal-ultrasound/",
+      "/musculoskeletal-ultrasound/ultrasound-guided-treatment/"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false
+  }
+]
