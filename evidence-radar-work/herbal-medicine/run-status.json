@@ -1,0 +1,33 @@
+{
+  "queries": [
+    "herbal medicine",
+    "Chinese herbal medicine",
+    "herbal formula",
+    "decoction",
+    "traditional herbal medicine"
+  ],
+  "succeeded": [
+    {
+      "query": "herbal medicine",
+      "records": 200
+    },
+    {
+      "query": "Chinese herbal medicine",
+      "records": 200
+    },
+    {
+      "query": "herbal formula",
+      "records": 155
+    },
+    {
+      "query": "decoction",
+      "records": 200
+    },
+    {
+      "query": "traditional herbal medicine",
+      "records": 200
+    }
+  ],
+  "raw": 955,
+  "errors": []
+}
