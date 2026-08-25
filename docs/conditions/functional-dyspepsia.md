@@ -77,3 +77,12 @@ last_reviewed: 2026-08-21
 </script>
 <!-- MS132_STRUCTURED_DATA_END -->
 
+### 한약 최신 임상근거
+
+- **The Efficacy of the Herbal Formula of Bunium persicum and Coriandrum sativum on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Controlled Trial.** — 해당 질환에서 동아시아 한약 치료를 평가한 최근 임상근거입니다. PMID `38981452` · DOI `10.1159/000539472`
+
+- **Efficacy and safety of Xiangsha liujunzi decoction for functional dyspepsia: a systematic review and meta-analysis.** — 기능성소화불량에서 향사육군자탕의 유효성과 안전성을 종합한 체계적 문헌고찰·메타분석입니다. PMID `38933675` · DOI `10.3389/fphar.2024.1356899`
+
+- **Efficacy and safety of Zhishixiaopi decoction in functional dyspepsia: A meta-analysis of randomized controlled trials.** — 기능성소화불량에서 지실소비 계열 탕제를 평가한 무작위시험 메타분석입니다. PMID `38809916` · DOI `10.1371/journal.pone.0301686`
+
+- **Safety and effectiveness of traditional herbal medicine Siho-sogan-san in functional dyspepsia: A systematic review and meta-analysis.** — 기능성소화불량에서 시호소간산의 유효성과 안전성을 평가한 체계적 문헌고찰·메타분석입니다. PMID `37127143` · DOI `10.1016/j.jep.2023.116518`

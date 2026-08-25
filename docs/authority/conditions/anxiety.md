@@ -27,3 +27,7 @@
 ### 침 치료 최신 임상근거
 
 - **Efficacy and Safety of Acupuncture for Anxiety Disorders in Adults: A Systematic Review and Meta-Analysis.** — 2026 체계적 문헌고찰·메타분석에서는 성인 불안장애에 대한 침 치료의 유효성과 안전성을 종합적으로 평가했습니다. PMID `42613003` · DOI `10.30773/pi.2025.0437`
+
+### 한약 최신 임상근거
+
+- **Effectiveness and safety of traditional East Asian herbal medicine for major depressive disorder with anxiety: a systematic review and meta-analysis** — 해당 질환에서 동아시아 한약 치료를 평가한 최근 임상근거입니다. DOI `10.13048/jkm.25050`

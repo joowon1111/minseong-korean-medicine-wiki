@@ -14,3 +14,7 @@
 ### 침 치료 최신 임상근거
 
 - **Acupuncture-Related Therapies for Primary Dysmenorrhea: A Systematic Review and Network Meta-Analysis** — 2025 체계적 문헌고찰·네트워크 메타분석에서는 원발성 생리통에 활용되는 침 관련 치료들을 비교·종합했습니다. 침 외 관련 중재가 함께 포함될 수 있어 치료법별 결과는 원문 구분이 필요합니다. DOI `10.1177/27683605251382169`
+
+### 한약 최신 임상근거
+
+- **Chinese herbal formula Xuefu Zhuyu oral liquid for primary dysmenorrhea: a multicenter randomized controlled trial.** — 원발성 생리통에서 혈부축어 경구제제를 평가한 다기관 무작위 대조시험입니다. PMID `41907285` · DOI `10.3389/fmed.2026.1724529`

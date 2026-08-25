@@ -51,3 +51,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 아토피 · 아토피피부염 · 피부가 건조하고 가려워요 · 밤에 너무 가려워요 · 아토피 한약 · 아토피 한의원 · 아이 아토피
+
+### 한약 최신 임상근거
+
+- **An updated systematic review and meta-analysis of efficacy and safety of Chinese herbal medicine for treating atopic dermatitis.** — 아토피피부염에서 한약 치료의 유효성과 안전성을 평가한 임상근거입니다. PMID `37955143` · DOI `10.1080/09546634.2023.2268766`
+
+- **Chinese herbal formula Huoxiang Zhengqi Qral liquid for atopic dermatitis: The CHARM randomized controlled trial.** — 아토피피부염에서 한약 치료의 유효성과 안전성을 평가한 임상근거입니다. PMID `40839987` · DOI `10.1016/j.phymed.2025.157141`

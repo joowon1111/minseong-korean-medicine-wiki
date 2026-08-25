@@ -25,3 +25,9 @@
 IBS 전체를 하나의 처방이나 배혈로 고정하지 않는다. 연구의 IBS 아형, 비교군, 치료기간과 환자의 실제 변증을 함께 확인한다.
 
 → [질환별 현대 임상근거 카드](../)
+
+### 한약 최신 임상근거
+
+- **Different therapies of Chinese herbal medicine for diarrhea-predominant irritable bowel syndrome: A network meta-analysis of double-blinded, placebo-controlled trials.** — 설사형 과민성장증후군에서 여러 한약 치료를 비교한 임상근거입니다. PMID `37328079` · DOI `10.1016/j.jep.2023.116672`
+
+- **Chinese herbal formula Tongxie Yaofang granules for diarrhoea-predominant irritable bowel syndrome: a randomised, double-blind, placebo-controlled, phase II trial.** — 설사형 과민성장증후군에서 통사요방 과립을 평가한 무작위 이중맹검 위약대조 임상시험입니다. PMID `39870499` · DOI `10.1136/bmjopen-2024-088410`

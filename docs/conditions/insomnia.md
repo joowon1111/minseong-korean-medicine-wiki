@@ -48,3 +48,11 @@ last_reviewed: '2026-08-23'
 - **The efficacy and safety of acupuncture for Parkinson’s disease insomnia: a systematic review and meta-analysis** — 2025 체계적 문헌고찰·메타분석에서는 파킨슨병 환자의 불면에 대한 침 치료의 유효성과 안전성을 평가했습니다. 일반 불면 전체가 아니라 파킨슨병 동반 불면에 관한 근거입니다. DOI `10.3389/fneur.2025.1697481`
 
 - **Efficacy and safety of acupuncture in the treatment of poststroke insomnia: A systematic review and meta-analysis** — 2025 체계적 문헌고찰·메타분석에서는 뇌졸중 후 불면에서 침 치료의 유효성과 안전성을 평가했습니다. 일반 불면 전체가 아니라 뇌졸중 후 불면에 관한 근거입니다. DOI `10.1097/md.0000000000043890`
+
+### 한약 최신 임상근거
+
+- **Effectiveness and safety of East Asian herbal medicine for menopausal insomnia: a systematic review and meta-analysis** — 갱년기 불면에서 동아시아 한약의 유효성과 안전성을 종합한 체계적 문헌고찰·메타분석입니다. DOI `10.3389/fphar.2024.1414700`
+
+- **Chinese herbal medicine for insomnia: A systematic review and network meta-analysis** — 불면에서 한약 치료를 종합 비교한 체계적 문헌고찰·네트워크 메타분석입니다. DOI `10.1097/md.0000000000043789`
+
+- **Banxia Shumi decoction for the treatment of insomnia: A systematic review and meta-analysis** — 불면에서 반하서미탕의 임상효과를 종합한 체계적 문헌고찰·메타분석입니다. DOI `10.1097/md.0000000000046207`

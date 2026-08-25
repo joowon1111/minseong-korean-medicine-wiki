@@ -13,3 +13,9 @@
 
 ## 안전
 자살사고, 정신병적 증상, 심한 기능저하가 있으면 정신건강의학적 평가가 우선입니다.
+
+### 한약 최신 임상근거
+
+- **Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis** — 우울·불안 관련 동아시아 한약 치료의 임상근거를 종합한 연구입니다. DOI `10.3389/fphar.2024.1295564`
+
+- **A meta-analysis of the efficacy and safety of the traditional Chinese medicine formula Kaixinsan decoction for depression** — 우울증에서 개심산의 유효성과 안전성을 평가한 메타분석입니다. DOI `10.1097/md.0000000000036719`
