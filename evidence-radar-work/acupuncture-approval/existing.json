@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Dose-response of acupuncture on ovulation rates in polycystic ovary syndrome: a meta-analysis and exploratory dose-response analysis",
+    "published_date": "2025-08-28",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2025.1610338",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovary Syndrome, PCOS)",
+      "鍼(침, acupuncture)",
+      "韓藥(한약, herbal medicine)",
+      "배란율(ovulation rates)",
+      "용량-반응 분석(dose-response analysis)",
+      "네트워크 메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Does Manual Acupuncture Improve Gastroesophageal Reflux Disease Symptoms? A Trial Sequential Meta-Analysis",
+    "published_date": "2025-03-24",
+    "journal": "Complementary Medicine Research",
+    "pmid": "",
+    "doi": "10.1159/000544956",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "K21",
+        "label": "위식도역류질환",
+        "status": "candidate",
+        "archive_path": "conditions/gastroesophageal-reflux-disease/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "위식도역류질환(Gastroesophageal Reflux Disease, GERD)",
+      "수기 침(Manual Acupuncture)",
+      "양성자 펌프 억제제(Proton Pump Inhibitors, PPIs)",
+      "메타분석(Meta-analysis)",
+      "시험 순차 분석(Trial Sequential Analysis, TSA)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Efficacy of acupuncture-related therapies for gastroesophageal reflux-related chronic cough: a systematic review and meta-analysis",
+    "published_date": "2026-03-04",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2026.1712003",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "K21",
+        "label": "위식도역류질환",
+        "status": "candidate",
+        "archive_path": "conditions/gastroesophageal-reflux-disease/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "위식도역류질환(GERD)",
+      "만성 기침(Chronic cough)",
+      "침 치료(Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "The efficacy of acupuncture for tension-type headache: a systematic review and meta-analysis of randomized controlled trials",
+    "published_date": "2025-12-12",
+    "journal": "Journal of Oral & Facial Pain and Headache",
+    "pmid": "",
+    "doi": "10.22514/jofph.2025.067",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G44.2",
+        "label": "긴장형두통",
+        "status": "candidate",
+        "archive_path": "conditions/tension-type-headache/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "긴장성 두통(Tension-type headache)",
+      "침(鍼, Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "통증 완화(Pain relief)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Acupuncture treatment of postoperative urinary retention in cervical cancer: Systematic evaluation and meta-analysis",
+    "published_date": "2025-02-21",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000041520",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "자궁경부암(Cervical Cancer)",
+      "수술 후 요정체(Postoperative Urinary Retention)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "뜸(Moxibustion)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "refine_exclusion_reason": "electroacupuncture-only",
+    "modality_final": {
+      "primary": "mixed",
+      "manual": true,
+      "electroacupuncture": true,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  }
+]

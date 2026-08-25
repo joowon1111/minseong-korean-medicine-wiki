@@ -1,0 +1,430 @@
+[
+  {
+    "title": "Comparison of the Safety and Efficacy of Biodegradable Microneedle Acupuncture and Sterile Acupuncture: study protocol for a prospective, confirmatory, superiority, multicenter, parallel, single-blinded randomized controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.386",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "H04.1",
+        "label": "안구건조",
+        "status": "candidate",
+        "archive_path": "conditions/dry-eye/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "생분해성 마이크로니들 침(Biodegradable Microneedle Acupuncture)",
+      "멸균 침(Sterile Acupuncture)",
+      "안구건조증(Dry eye disease)",
+      "안전성(Safety)",
+      "이상반응(Adverse Events)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": true,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Efficacy and safety of acupuncture treatment for post-stroke depression: A protocol for systematic review and meta-analysis",
+    "published_date": "2024-05-06",
+    "journal": "PLOS ONE",
+    "pmid": "",
+    "doi": "10.1371/journal.pone.0300769",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 우울증(Post-stroke depression)",
+      "鍼(침, Acupuncture)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "유효성(Efficacy)",
+      "안전성(Safety)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Efficacy and mechanism of acupuncture for functional constipation in older adults: study protocol for a randomized controlled trial",
+    "published_date": "2024-04-15",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2024.1341861",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "Functional Constipation (기능성 변비)",
+      "Acupuncture (鍼, acupuncture)",
+      "Older adults (고령자)",
+      "Gut microbiota (장내 미생물군)",
+      "Inflammatory cytokines (염증성 사이토카인)",
+      "Randomized Controlled Trial (무작위 대조 시험)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Observation of the immediate effect of ultrasound-guided acupuncture at Zusanli (ST36) point on Blood flow volume in lower limb arteries: a randomized controlled trial study protocol",
+    "published_date": "2024-05-14",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-4362173/v1",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "足三里(족삼리, ST36)",
+      "鍼(침, acupuncture)",
+      "超音波(초음파, ultrasound)",
+      "血流(혈류, blood flow)",
+      "下肢動脈(하지동맥, lower limb artery)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Dose-effect relationship of different acupuncture courses on chronic insomnia disorder: study protocol for a randomized controlled trial",
+    "published_date": "2023-12-11",
+    "journal": "Frontiers in Psychiatry",
+    "pmid": "",
+    "doi": "10.3389/fpsyt.2023.1277133",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "만성 불면 장애(Chronic Insomnia Disorder)",
+      "침 치료(Acupuncture)",
+      "용량-효과 관계(Dose-effect relationship)",
+      "치료 기간(Treatment course)",
+      "수면 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Immediate analgesic effect of acupuncture for acute primary dysmenorrhea: protocol of a randomized controlled trial",
+    "published_date": "2025-09-10",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1644666",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "N94.4",
+        "label": "원발성 생리통",
+        "status": "candidate",
+        "archive_path": "conditions/primary-dysmenorrhea/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "원발성 생리통(Primary Dysmenorrhea)",
+      "鍼(침, Acupuncture)",
+      "즉각적 진통 효과(Immediate analgesic effect)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "시각적 아날로그 척도(Visual Analog Scale, VAS)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Ultrasound-guided stellate ganglion acupuncture for chronic insomnia disorder using fNIRS: study protocol for a randomized controlled trial",
+    "published_date": "2026-06-29",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2026.1855633",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "수면"
+      ]
+    },
+    "keywords": [
+      "만성 불면장애(Chronic Insomnia Disorder)",
+      "성상신경절(Stellate Ganglion)",
+      "초음파 유도하 침치료(Ultrasound-guided acupuncture)",
+      "기능적 근적외선 분광법(fNIRS)",
+      "수면 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Efficacy of acupuncture on upper limb dysfunction after stroke: a randomized controlled trial protocol with surface electromyography evaluation",
+    "published_date": "2025-07-10",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1615762",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "상지 기능 장애(Upper limb dysfunction)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "표면 근전도(surface electromyography, sEMG)",
+      "Fugl-Meyer 평가(Fugl-Meyer Assessment)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  },
+  {
+    "title": "Efficacy and safety of acupuncture for post-stroke spasticity: a study protocol for a randomized controlled trial",
+    "published_date": "2026-06-04",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2026.1737118",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "안전성",
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 경직(Post-stroke spasticity)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "Modified Ashworth Scale(MAS)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "운동 기능(Motor function)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    }
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial",
+    "published_date": "2025-12",
+    "journal": "Journal of Pharmacopuncture",
+    "pmid": "",
+    "doi": "10.3831/KPI.2025.28.4.301",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "H04.1",
+        "label": "안구건조",
+        "status": "candidate",
+        "archive_path": "conditions/dry-eye/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "안구건조증(Dry Eye Disease)",
+      "피내침(Intradermal Acupuncture)",
+      "체침(Body Acupuncture)",
+      "안구표면질환지수(OSDI)",
+      "쉬르머 검사(Schirmer test)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": true,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "conditions/dry-eye.md"
+    ]
+  },
+  {
+    "title": "Efficacy and Safety of Acupuncture for Anxiety Disorders in Adults: A Systematic Review and Meta-Analysis.",
+    "published_date": "2026-08",
+    "journal": "Psychiatry investigation",
+    "pmid": "42613003",
+    "doi": "10.30773/pi.2025.0437",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "침(鍼, acupuncture)",
+      "불안 장애 (Anxiety disorders)",
+      "성인 (Adults)",
+      "체계적 문헌고찰 (Systematic review)",
+      "메타분석 (Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "authority/conditions/anxiety.md"
+    ]
+  },
+  {
+    "title": "Acupuncture-Related Therapies for Primary Dysmenorrhea: A Systematic Review and Network Meta-Analysis",
+    "published_date": "2025-10-07",
+    "journal": "Journal of Integrative and Complementary Medicine",
+    "pmid": "",
+    "doi": "10.1177/27683605251382169",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "N94.4",
+        "label": "원발성 생리통",
+        "status": "candidate",
+        "archive_path": "conditions/primary-dysmenorrhea/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "원발성 생리통(Primary Dysmenorrhea)",
+      "침 치료(Acupuncture)",
+      "매선(Acupoint Catgut Embedding)",
+      "뜸(Moxibustion)",
+      "네트워크 메타분석(Network Meta-Analysis)",
+      "프로스타글란딘(Prostaglandins)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "authority/conditions/primary-dysmenorrhea.md"
+    ]
+  },
+  {
+    "title": "The durable effect of acupuncture for episodic migraine: a systematic review and meta-analysis",
+    "published_date": "2023-09-08",
+    "journal": "Frontiers in Neuroscience",
+    "pmid": "",
+    "doi": "10.3389/fnins.2023.1211438",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G43",
+        "label": "편두통",
+        "status": "candidate",
+        "archive_path": "conditions/migraine/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질/기능척도"
+      ]
+    },
+    "keywords": [
+      "편두통(Migraine)",
+      "鍼(침, Acupuncture)",
+      "지속 효과(Durable effect)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "conditions/migraine.md"
+    ]
+  },
+  {
+    "title": "Integrated acupuncture-pharmacotherapy for perimenopausal insomnia: a systematic review and meta-analysis",
+    "published_date": "2025-08-20",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1633794",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "갱년기 불면증(Perimenopausal insomnia)",
+      "침술(Acupuncture, 鍼)",
+      "약물 요법(Pharmacotherapy, 藥物療法)",
+      "통합 의학(Integrative medicine)",
+      "수면의 질(Sleep quality)",
+      "호르몬 조절(Hormonal regulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "conditions/insomnia.md"
+    ]
+  },
+  {
+    "title": "The efficacy and safety of acupuncture for Parkinson’s disease insomnia: a systematic review and meta-analysis",
+    "published_date": "2025-11-03",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1697481",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "파킨슨병(Parkinson’s disease)",
+      "불면증(Insomnia)",
+      "침 치료(Acupuncture, 鍼治療)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)",
+      "수면 질(Sleep quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "conditions/insomnia.md"
+    ]
+  },
+  {
+    "title": "The efficacy of acupuncture treatment for fibromyalgia syndrome: a systematic review and meta-analysis",
+    "published_date": "2026-01-16",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1710642",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M79.7",
+        "label": "섬유근육통",
+        "status": "candidate",
+        "archive_path": "conditions/fibromyalgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "섬유근육통 증후군(Fibromyalgia Syndrome)",
+      "鍼(침, acupuncture)",
+      "통증 완화(Pain relief)",
+      "섬유근육통 영향 설문지(FIQ)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "authority/conditions/fibromyalgia.md"
+    ]
+  },
+  {
+    "title": "Efficacy and safety of acupuncture in the treatment of poststroke insomnia: A systematic review and meta-analysis",
+    "published_date": "2025-08-15",
+    "journal": "Medicine",
+    "pmid": "",
+    "doi": "10.1097/md.0000000000043890",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      },
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "뇌졸중 후 불면증(Poststroke Insomnia)",
+      "침(鍼, Acupuncture)",
+      "피츠버그 수면 질 지수(PSQI)",
+      "수면 효율(Sleep efficiency)",
+      "해밀턴 우울 척도(Hamilton depression scale)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "conditions/insomnia.md"
+    ]
+  },
+  {
+    "title": "Mechanism of cognitive processing for acupuncture action on generalized anxiety with naturally occurring consecutive partial sleep deprivation in early adulthood: a randomized controlled study and evaluation of event-related potentials",
+    "published_date": "2024-10-16",
+    "journal": "Frontiers in Public Health",
+    "pmid": "",
+    "doi": "10.3389/fpubh.2024.1420299",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "query_relevance_score": 10,
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "acupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "범불안장애(Generalized Anxiety Disorder, GAD)",
+      "부분 수면 박탈(Partial Sleep Deprivation, PSD)",
+      "침 치료(Acupuncture, 鍼)",
+      "사건 관련 전위(Event-Related Potentials, ERP)",
+      "인지 처리(Cognitive processing)",
+      "성인 초기(Early adulthood)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "modality_flags": {
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false,
+      "manual_acupuncture": true
+    },
+    "modality_final": {
+      "primary": "manual",
+      "manual": true,
+      "electroacupuncture": false,
+      "pharmacopuncture": false,
+      "acupotomy": false
+    },
+    "resolved_targets": [
+      "authority/conditions/anxiety.md"
+    ]
+  }
+]
