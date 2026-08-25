@@ -1,0 +1,57 @@
+[
+  {
+    "title": "A Comparative Study on the Immediate Impact of Balance Meridian and Electro-Acupuncture on Individuals with Chronic Low Back Pain: A Randomized Controlled Trial",
+    "published_date": "2026-02-04",
+    "journal": "Medical Acupuncture",
+    "pmid": "",
+    "doi": "10.1177/19336586261419872",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "만성 요통(Chronic Low Back Pain)",
+      "균형경락침법(Balance Meridian Acupuncture)",
+      "전침(Electro-Acupuncture)",
+      "요추 가동범위(Lumbar Spine Range of Motion)",
+      "통증 관리(Pain Management)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [
+      "conditions/low-back-pain.md"
+    ],
+    "approval_reasons": []
+  }
+]

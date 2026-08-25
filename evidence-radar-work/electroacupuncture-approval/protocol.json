@@ -1,0 +1,431 @@
+[
+  {
+    "title": "Electro-acupuncture for irritable bowel syndrome with constipation: study protocol of a pilot, randomized, double-blinded, sham-controlled trial",
+    "published_date": "2025-09-12",
+    "journal": "Frontiers in Neurology",
+    "pmid": "",
+    "doi": "10.3389/fneur.2025.1632822",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "status": "candidate",
+        "archive_path": "conditions/irritable-bowel-syndrome/"
+      },
+      {
+        "code": "K59.0",
+        "label": "변비",
+        "status": "candidate",
+        "archive_path": "conditions/constipation/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "sham",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "변비형 과민성 장 증후군(IBS-C)",
+      "전침(電鍼, electro-acupuncture)",
+      "무작위 대조 시험(Randomized Controlled Trial)",
+      "가짜 침(sham acupuncture)",
+      "위장관 기능 장애(Functional Gastrointestinal Disorder)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "K58",
+        "label": "과민성장증후군",
+        "status": "candidate",
+        "archive_path": "conditions/irritable-bowel-syndrome/"
+      },
+      {
+        "code": "K59.0",
+        "label": "변비",
+        "status": "candidate",
+        "archive_path": "conditions/constipation/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Efficacy of electro-acupuncture on pregnancy outcomes for women undergoing in vitro fertilization: study protocol for a pilot randomized controlled trial",
+    "published_date": "2024-08-05",
+    "journal": "Frontiers in Endocrinology",
+    "pmid": "",
+    "doi": "10.3389/fendo.2024.1380885",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "전침(電鍼, electro-acupuncture)",
+      "체외수정(體外受精, in vitro fertilization)",
+      "불임(不妊, infertility)",
+      "임신율(妊娠率, pregnancy rate)",
+      "임상시험(臨床試驗, clinical trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Electro-acupuncture combined with adjuvant chemotherapy in gastric cancer (EAGER-2): a protocol for a multicenter randomized controlled trial",
+    "published_date": "2026-07-12",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-10155071/v1",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "위암(gastric cancer)",
+      "전침(電鍼, electro-acupuncture)",
+      "보조 화학요법(adjuvant chemotherapy)",
+      "무병 생존기간(DFS, disease-free survival)",
+      "삶의 질(HRQOL)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Effect of electro-acupuncture on postpartum urinary retention: a protocol for multicenter, randomized and placebo-controlled trial",
+    "published_date": "2025-11-20",
+    "journal": "Frontiers in Medicine",
+    "pmid": "",
+    "doi": "10.3389/fmed.2025.1698938",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "산후뇨정체(Postpartum urinary retention)",
+      "전침(電鍼, electro-acupuncture)",
+      "방광 회복(Bladder recovery)",
+      "무작위 대조 시험(Randomized controlled trial)",
+      "산후 재활(Postpartum rehabilitation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Effect of electro-acupuncture on postpartum urinary retention —— A protocol for multicenter, randomized and placebo-controlled trial",
+    "published_date": "2024-10-18",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-4968359/v1",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "산후 요정체(Postpartum urinary retention)",
+      "전침(電鍼, electro-acupuncture)",
+      "방광 기능(bladder function)",
+      "산후 회복(postpartum rehabilitation)",
+      "무작위 대조 시험(Randomized controlled trial)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Efficacy of electro-acupuncture versus sham acupuncture for diabetic peripheral neuropathy: study protocol for a three-armed randomised controlled trial.",
+    "published_date": "2024-04-02",
+    "journal": "BMJ open",
+    "pmid": "38569706",
+    "doi": "10.1136/bmjopen-2023-079354",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G63.2",
+        "label": "당뇨병성 말초신경병증",
+        "status": "candidate",
+        "archive_path": "conditions/diabetic-polyneuropathy/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "sham",
+      "outcomes": []
+    },
+    "keywords": [
+      "당뇨병성 말초신경병증(Diabetic Peripheral Neuropathy)",
+      "전침(Electro-acupuncture, 電鍼)",
+      "가짜 침(Sham acupuncture)",
+      "무작위 대조 시험(Randomised Controlled Trial)",
+      "총 증상 점수(Total Symptom Score)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "G63.2",
+        "label": "당뇨병성 말초신경병증",
+        "status": "candidate",
+        "archive_path": "conditions/diabetic-polyneuropathy/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Electro-Acupuncture to Treat Disorder of Consciousness (AcuDoc): Study Protocol for a Randomized Sham-Controlled Trial.",
+    "published_date": "2025-06",
+    "journal": "Brain and behavior",
+    "pmid": "40566931",
+    "doi": "10.1002/brb3.70637",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "sham",
+      "outcomes": []
+    },
+    "keywords": [
+      "의식장애(DOC, disorder of consciousness)",
+      "전침(電鍼, electro-acupuncture)",
+      "외상성 뇌손상(TBI, traumatic brain injury)",
+      "CRS-R",
+      "신경영상(neuroimaging)",
+      "무작위 대조 시험(RCT)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Electro-Acupuncture for Diminished Ovarian Reserve: Protocol for a Randomized, Placebo-Controlled Trial.",
+    "published_date": "2025",
+    "journal": "Journal of multidisciplinary healthcare",
+    "pmid": "40761582",
+    "doi": "10.2147/JMDH.S529775",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "난소 예비능 저하(Diminished Ovarian Reserve, DOR)",
+      "전침(電鍼, Electro-Acupuncture)",
+      "동난포 개수(Antral Follicle Count, AFC)",
+      "항뮬러관 호르몬(Anti-Müllerian Hormone, AMH)",
+      "불임(Infertility)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Electro-acupuncture for long COVID neuropsychiatric symptoms: study protocol for a prospective, randomized sham-controlled, patient-assessor-blinded clinical trial.",
+    "published_date": "2025",
+    "journal": "Frontiers in medicine",
+    "pmid": "40978720",
+    "doi": "10.3389/fmed.2025.1620288",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "status": "candidate",
+        "archive_path": "conditions/depression/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "sham",
+      "outcomes": [
+        "기능",
+        "수면"
+      ]
+    },
+    "keywords": [
+      "Long COVID (롱코비드)",
+      "Electro-acupuncture (電鍼, 전침)",
+      "Neuropsychiatric symptoms (신경정신과적 증상)",
+      "Cognitive impairment (인지 기능 저하)",
+      "Depression (우울증)",
+      "Insomnia (불면증)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "status": "candidate",
+        "archive_path": "conditions/depression/"
+      }
+    ],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Role of Chinese Acupuncture in the Treatment for Chemotherapy-Induced Cognitive Impairment in Older Patients With Cancer: Protocol for a Randomized Controlled Trial (Preprint)",
+    "published_date": "2023-10-21",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.2196/preprints.53853",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "항암화학요법 유발 인지장애(Chemobrain)",
+      "전침(Electroacupuncture, 電鍼)",
+      "고령 암 환자(Older cancer patients)",
+      "몬트리올 인지 평가(MoCA)",
+      "인지기능 개선(Cognitive improvement)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  }
+]

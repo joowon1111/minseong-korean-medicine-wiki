@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Acupuncture for women undergoing in vitro fertilization: An updated systematic review and meta-analysis with trial sequential analysis.",
+    "published_date": "2025-08",
+    "journal": "International journal of nursing studies",
+    "pmid": "40412094",
+    "doi": "10.1016/j.ijnurstu.2025.105097",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "체외수정(IVF)",
+      "침치료(Acupuncture)",
+      "임신율(Pregnancy rate)",
+      "전침(Electro-acupuncture)",
+      "보조생식술(Assisted reproductive technology)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Efficacy of Acupuncture in Patients with Fibromyalgia Syndrome: A Meta-Analysis.",
+    "published_date": "2026",
+    "journal": "Journal of pain research",
+    "pmid": "41919066",
+    "doi": "10.2147/JPR.S568235",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M79.7",
+        "label": "섬유근육통",
+        "status": "candidate",
+        "archive_path": "conditions/fibromyalgia/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "섬유근육통 증후군(Fibromyalgia Syndrome)",
+      "침 치료(Acupuncture)",
+      "전침(Electroacupuncture)",
+      "통증 관리(Pain management)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "M79.7",
+        "label": "섬유근육통",
+        "status": "candidate",
+        "archive_path": "conditions/fibromyalgia/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  }
+]

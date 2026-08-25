@@ -1,0 +1,772 @@
+[
+  {
+    "title": "Comparison of the effects of different physical stimulation therapies on reducing upper limb spastic paralysis and motor dysfunction in stroke survivors after stroke: a network meta-analysis of randomized controlled trials.",
+    "published_date": "2025",
+    "journal": "Frontiers in neurology",
+    "pmid": "40303894",
+    "doi": "10.3389/fneur.2025.1554583",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "mixed",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "상지 경성(Upper limb spasticity)",
+      "전침(電鍼, Electro-acupuncture)",
+      "체침(體鍼, Body Acupuncture)",
+      "반복적 경두개 자기자극술(rTMS)",
+      "물리적 재활(Physical Rehabilitation)",
+      "네트워크 메타분석(Network Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "indirect-or-multimodal-evidence"
+    ]
+  },
+  {
+    "title": "Immediate Effect of Electro-acupuncture on Endometrial Blood Flow in Patients with Recurrent Implantation Failure: A Randomized Controlled Trial.",
+    "published_date": "2024-04",
+    "journal": "Chinese journal of integrative medicine",
+    "pmid": "38433155",
+    "doi": "10.1007/s11655-024-3758-9",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "반복 착상 실패(Recurrent Implantation Failure, RIF)",
+      "전침(Electro-acupuncture)",
+      "자궁내막 혈류(Endometrial blood flow)",
+      "혈관 분포 지수(Vascular distribution index)",
+      "불임(Infertility)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review"
+    ]
+  },
+  {
+    "title": "A randomized controlled study investigating the efficacy of electro-acupuncture and exercise-based swallowing rehabilitation for post-stroke dysphagia: Impacts on brainstem auditory evoked potentials and cerebral blood flow.",
+    "published_date": "2024-03-15",
+    "journal": "Medicine",
+    "pmid": "38489710",
+    "doi": "10.1097/MD.0000000000037464",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중 후 연하장애(Post-stroke dysphagia)",
+      "전침(電鍼, electro-acupuncture)",
+      "연하 재활(swallowing rehabilitation)",
+      "뇌간 청성 유발전위(BAEP)",
+      "뇌혈류(cerebral blood flow)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "combination-intervention"
+    ]
+  },
+  {
+    "title": "Electro-Acupuncture Effects Measured by Functional Magnetic Resonance Imaging-A Systematic Review of Randomized Clinical Trials.",
+    "published_date": "2023-12-19",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "pmid": "38200908",
+    "doi": "10.3390/healthcare12010002",
+    "study_type": "Systematic review",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "keywords": [
+      "전침(電鍼, Electro-acupuncture)",
+      "기능적 자기공명영상(fMRI)",
+      "뇌 연결성(Brain connectivity)",
+      "신경가소성(Neuroplasticity)",
+      "통증 조절(Pain modulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review"
+    ]
+  },
+  {
+    "title": "Electro-acupuncture versus battle field auricular acupuncture in breast cancer survivors with chronic musculoskeletal pain: subgroup analysis of a randomized clinical trial.",
+    "published_date": "2023-11",
+    "journal": "Breast cancer research and treatment",
+    "pmid": "37612534",
+    "doi": "10.1007/s10549-023-07072-1",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "유방암 생존자(breast cancer survivors)",
+      "만성 근골격계 통증(chronic musculoskeletal pain)",
+      "전침(電鍼, electro-acupuncture)",
+      "이침(耳鍼, auricular acupuncture)",
+      "통증 관리(pain management)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review"
+    ]
+  },
+  {
+    "title": "Comparative effectiveness of rehabilitation therapies for diastasis recti abdominis: A systematic review and Bayesian network meta-analysis.",
+    "published_date": "2026-02",
+    "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+    "pmid": "40709641",
+    "doi": "10.1002/ijgo.70413",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "복직근 이개(Diastasis Recti Abdominis)",
+      "재활 치료(Rehabilitation therapy)",
+      "네트워크 메타분석(Network Meta-Analysis)",
+      "복직근 간 거리(Inter-rectus distance)",
+      "전침(電鍼, electro-acupuncture)",
+      "필라테스(Pilates)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review",
+      "indirect-or-multimodal-evidence"
+    ]
+  },
+  {
+    "title": "Acupuncture Improves Functional Limitations for Cancer Patients with Chronic Pain: A Secondary Analysis of PEACE Randomized Clinical Trial.",
+    "published_date": "2025-11-16",
+    "journal": "Current oncology (Toronto, Ont.)",
+    "pmid": "41294702",
+    "doi": "10.3390/curroncol32110640",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능"
+      ]
+    },
+    "keywords": [
+      "암 환자 (Cancer patients)",
+      "만성 통증 (Chronic pain)",
+      "전침 (電鍼, electro-acupuncture)",
+      "이침 (耳鍼, auricular acupuncture)",
+      "신체 기능 (Functional performance)",
+      "재활 (Rehabilitation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review"
+    ]
+  },
+  {
+    "title": "Effects of different acupuncture methods on polycystic ovarian syndrome: a systematic review and network meta-analysis.",
+    "published_date": "2026-02-13",
+    "journal": "BMC complementary medicine and therapies",
+    "pmid": "41680702",
+    "doi": "10.1186/s12906-026-05295-5",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "E28.2",
+        "label": "다낭성난소증후군",
+        "status": "candidate",
+        "archive_path": "conditions/polycystic-ovary-syndrome/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "다낭성 난소 증후군(Polycystic Ovarian Syndrome, PCOS)",
+      "침 치료(Acupuncture, 鍼)",
+      "전침(Electro-acupuncture, 電鍼)",
+      "매선요법(Acupoint Catgut Embedding, ACE)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "고안드로겐혈증(Hyperandrogenism)",
+      "대사 증후군(Metabolic status)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "E28.2",
+        "label": "다낭성난소증후군",
+        "status": "candidate",
+        "archive_path": "conditions/polycystic-ovary-syndrome/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [
+      "authority/conditions/polycystic-ovary-syndrome.md"
+    ],
+    "approval_reasons": [
+      "indirect-or-multimodal-evidence"
+    ]
+  },
+  {
+    "title": "The Effect of Nonpharmacological Methods on Preoperative Anxiety in Breast Surgery Patients: A Meta-analysis.",
+    "published_date": "2025-04",
+    "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+    "pmid": "39269406",
+    "doi": "10.1016/j.jopan.2024.05.024",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "유방 수술 (Breast surgery)",
+      "수술 전 불안 (Preoperative anxiety)",
+      "비약물적 중재 (Nonpharmacological methods)",
+      "電鍼 (전침, Electro-acupuncture)",
+      "抑肝散 (억간산, Yokukansan)",
+      "아로마테라피 (Aromatherapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "F41",
+        "label": "불안장애",
+        "status": "candidate",
+        "archive_path": "conditions/anxiety/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [
+      "authority/conditions/anxiety.md"
+    ],
+    "approval_reasons": [
+      "indirect-or-multimodal-evidence"
+    ]
+  },
+  {
+    "title": "Electroacupuncture with intermittent wave stimulation as rehabilitation approach for chronic Bell's palsy: a randomized controlled trial.",
+    "published_date": "2024-02-15",
+    "journal": "Postgraduate medical journal",
+    "pmid": "38134327",
+    "doi": "10.1093/postmj/qgad126",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "벨마비(Bell's palsy)",
+      "電鍼(전침, electroacupuncture)",
+      "간헐파 자극(intermittent wave stimulation)",
+      "안면 마비(facial palsy)",
+      "재활(rehabilitation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review"
+    ]
+  },
+  {
+    "title": "Exercise, nutrition, physical agent therapy in older adults with sarcopenic obesity: a systematic review and network meta-analysis.",
+    "published_date": "2026-03-09",
+    "journal": "BMC geriatrics",
+    "pmid": "41803775",
+    "doi": "10.1186/s12877-026-07207-1",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "근감소성 비만(Sarcopenic Obesity)",
+      "저항성 운동(Resistance Training)",
+      "전침(Electrical acupuncture)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "고령자(Older adults)",
+      "영양(Nutrition)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review"
+    ]
+  },
+  {
+    "title": "Therapeutic effects of different acupuncture methods on chronic nonspecific low back pain: A network meta-analysis.",
+    "published_date": "2024-09-30",
+    "journal": "Journal of orthopaedic surgery and research",
+    "pmid": "39350218",
+    "doi": "10.1186/s13018-024-05118-8",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "만성 비특이적 요통(Chronic Nonspecific Low Back Pain)",
+      "침 치료(Acupuncture)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "온침(溫鍼, warm needle acupuncture)",
+      "전침(電鍼, electroacupuncture)",
+      "경근 이론(Meridian-sinew theory)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "M54",
+        "label": "요통",
+        "status": "candidate",
+        "archive_path": "conditions/low-back-pain/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [
+      "conditions/low-back-pain.md"
+    ],
+    "approval_reasons": [
+      "indirect-or-multimodal-evidence"
+    ]
+  },
+  {
+    "title": "Effect of different interventions on the efficacy of postpartum urinary incontinence in China: A systematic review and network meta-analysis.",
+    "published_date": "2023-10-06",
+    "journal": "Medicine",
+    "pmid": "37800777",
+    "doi": "10.1097/MD.0000000000035473",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "산후 요실금(Postpartum Urinary Incontinence)",
+      "지압(Acupressure)",
+      "골반저근 운동(Pelvic Floor Muscle Training)",
+      "전침(Electroacupuncture)",
+      "灸(뜸, Moxibustion)",
+      "네트워크 메타분석(Network Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review",
+      "indirect-or-multimodal-evidence"
+    ]
+  },
+  {
+    "title": "[Auricular electroacupuncture for post-stroke dysphagia in pharyngeal phase: a randomized controlled trial].",
+    "published_date": "2025-12-12",
+    "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+    "pmid": "41397717",
+    "doi": "10.13703/j.0255-2930.20241228-k0004",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중(stroke)",
+      "연하장애(dysphagia)",
+      "이침(auricular acupuncture)",
+      "전침(electroacupuncture)",
+      "인두기(pharyngeal phase)",
+      "비디오 투시 연하 검사(VFSS)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "auricular-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": true
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "auricular-ea-subtype"
+    ]
+  },
+  {
+    "title": "[Effect of auricular electroacupuncture on tracheal extubation success rate in patients with post-stroke tracheotomy: a randomized controlled trial].",
+    "published_date": "2026-04-12",
+    "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+    "pmid": "41987439",
+    "doi": "10.13703/j.0255-2930.20250305-0003",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "기관절개술(Tracheotomy)",
+      "이침 전침(Auricular electroacupuncture)",
+      "발관 성공률(Extubation success rate)",
+      "연하 기능(Swallowing function)",
+      "기침 반사(Cough reflex)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "auricular-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": true
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "auricular-ea-subtype"
+    ]
+  },
+  {
+    "title": "The effect of acupoint stimulation as an adjuvant therapy for obsessive-compulsive disorder: a systematic review and meta-analysis.",
+    "published_date": "2026",
+    "journal": "Frontiers in neurology",
+    "pmid": "42564106",
+    "doi": "10.3389/fneur.2026.1875285",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "강박장애(Obsessive-Compulsive Disorder, OCD)",
+      "穴(혈, acupoint) 자극(Acupoint Stimulation)",
+      "전침(Electroacupuncture)",
+      "Y-BOCS",
+      "보조요법(Adjuvant therapy)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "needle-electroacupuncture",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": false,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review",
+    "resolved_targets": [],
+    "approval_reasons": [
+      "target-missing-or-unmapped",
+      "condition-mapping-review"
+    ]
+  }
+]
