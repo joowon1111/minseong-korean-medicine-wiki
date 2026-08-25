@@ -25,3 +25,9 @@ last_reviewed: '2026-08-23'
 
 ## 관련 핵심 문서
 [무릎·하지 임상 연결](../clinical-core/pathways/knee-leg-pain.md) · [현대 임상근거](../pillar/clinical-evidence.md)
+
+## 약침 최신 임상연구
+
+- 2025 pragmatic randomized controlled pilot study에서는 만성 무릎통증 환자에서 **약침과 표준 물리치료**를 비교해 통증·안전성 및 K-WOMAC 등을 평가했습니다. PMID `40572793`, DOI `10.3390/medicina61061106`.
+
+무릎통증의 원인과 골관절염·연골손상 등 세부 진단을 구분하면서 침·약침·운동 및 기능 회복 근거를 함께 살펴봅니다.

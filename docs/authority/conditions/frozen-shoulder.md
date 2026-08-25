@@ -11,3 +11,10 @@
 
 ## 해석
 통증점수만 보지 않고 외회전·거상 등 관절가동범위와 실제 일상기능 회복을 함께 봅니다. 질환의 자연경과와 운동재활도 중요합니다.
+
+## 약침 최신 임상연구
+
+- 2024 pragmatic randomized controlled pilot study에서는 유착성관절낭염 환자의 **약침 치료**를 임상적으로 평가했습니다. PMID `39224580`, DOI `10.1016/j.imr.2024.101065`.
+- 2026 연구에서는 약침과 물리치료를 비교한 pragmatic RCT와 함께 경제성 평가가 보고되었습니다. DOI `10.3390/healthcare14050605`.
+
+> `Pharmacoacupuncture for the Treatment of Frozen Shoulder: protocol for a systematic review and meta-analysis`는 **완료된 SR/MA가 아니라 연구 프로토콜**이므로 치료효과 근거와 분리해 추적합니다.
