@@ -52,6 +52,12 @@ last_reviewed: 2026-08-22
 
 임상적 의미는 단순한 통증점수뿐 아니라 기능, 수면, 소화, 활동능력, 삶의 질 등 해당 증상에 맞는 결과지표로 평가합니다.
 
+## 특정혈 속성
+
+**특정혈 속성:** 낙혈 · 팔맥교회혈(음유맥) · SP4 공손과 짝
+
+이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈·오행 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
+
 ## 관련 지식망
 
 - [경혈 임상 지식망](../../acupoint-network/index.md)
