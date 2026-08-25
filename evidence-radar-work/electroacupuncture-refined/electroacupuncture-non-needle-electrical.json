@@ -1,0 +1,789 @@
+[
+  {
+    "title": "Literature review of transcutaneous electrical nerve stimulation in peripheral arterial occlusive disease of the lower limbs.",
+    "published_date": "2023-09",
+    "journal": "Journal de medecine vasculaire",
+    "pmid": "37914456",
+    "doi": "10.1016/j.jdmv.2023.10.001",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "말초동맥 폐쇄성 질환(Peripheral Arterial Occlusive Disease, PAD)",
+      "경피 전기 신경 자극(Transcutaneous Electrical Nerve Stimulation, TENS)",
+      "이개 미주신경 자극(Trans-auricular Vagus Nerve Stimulation, Ta-VNS)",
+      "보행 거리(Walking distance)",
+      "전침(Electro-acupuncture)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Efficacy of different acupuncture-related therapies for tension-type headache: a systematic review and network meta-analysis.",
+    "published_date": "2024",
+    "journal": "Frontiers in neurology",
+    "pmid": "39703352",
+    "doi": "10.3389/fneur.2024.1481715",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G44.2",
+        "label": "긴장형두통",
+        "status": "candidate",
+        "archive_path": "conditions/tension-type-headache/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "긴장성 두통(Tension-type headache)",
+      "침술(Acupuncture)",
+      "전침(Electro-acupuncture)",
+      "부항(Cupping therapy)",
+      "네트워크 메타분석(Network meta-analysis)",
+      "통증 관리(Pain management)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "G44.2",
+        "label": "긴장형두통",
+        "status": "candidate",
+        "archive_path": "conditions/tension-type-headache/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Electrical acupoint stimulation for the treatment of chemotherapy-induced nausea and vomiting: A systematic review and meta-analysis.",
+    "published_date": "2024-05-30",
+    "journal": "Heliyon",
+    "pmid": "38799757",
+    "doi": "10.1016/j.heliyon.2024.e30965",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "항암화학요법 유발 오심 및 구토(Chemotherapy-induced nausea and vomiting, CINV)",
+      "전침(Electroacupuncture)",
+      "전침 자극(Electrical acupoint stimulation, EAS)",
+      "경피전기자극(Transcutaneous electrical stimulation, TES)",
+      "체계적 문헌고찰(Systematic review)",
+      "메타분석(Meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Clinical study of low-frequency acupoint electrical stimulation to improve thumb-to-finger movements after stroke: A randomized controlled trial.",
+    "published_date": "2023-11-24",
+    "journal": "Medicine",
+    "pmid": "38013325",
+    "doi": "10.1097/MD.0000000000035755",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "저주파 혈위 전기 자극(Low-frequency acupoint electrical stimulation)",
+      "전침(Electroacupuncture, 電鍼)",
+      "손 기능 회복(Hand function recovery)",
+      "표면 근전도(sEMG)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Peripheral Electrical Stimulation on Motor Function and Activities of Daily Living After Stroke: A Systematic Review and Network Meta-analysis.",
+    "published_date": "2025-08",
+    "journal": "Archives of physical medicine and rehabilitation",
+    "pmid": "39892728",
+    "doi": "10.1016/j.apmr.2025.01.466",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "말초 전기 자극(Peripheral Electrical Stimulation)",
+      "신경근 전기 자극(NMES)",
+      "전침(Electrical Acupuncture)",
+      "경피적 전기 혈위 자극(TEAS)",
+      "운동 기능(Motor Function)",
+      "일상생활 동작(Activities of Daily Living)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "[Efficacy of eye transcutaneous electrical acupoint stimulation on preventing the progression of pre-myopic to myopia in children].",
+    "published_date": "2025-02-12",
+    "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+    "pmid": "39943758",
+    "doi": "10.13703/j.0255-2930.20240808-k0001",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "경피전침자극(transcutaneous electrical acupoint stimulation, TEAS)",
+      "근시(myopia)",
+      "근시 임상 전 단계(pre-myopia)",
+      "아동(children)",
+      "안축장(axial length)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Comparing penetrating needles and non-penetrating needles with electrical stimulation combined with exercise training for relief of dyspnea and improving exercise tolerance in chronic obstructive pulmonary disease patients: A single-blind randomized controlled trial.",
+    "published_date": "2025-03",
+    "journal": "Integrative medicine research",
+    "pmid": "40026369",
+    "doi": "10.1016/j.imr.2024.101117",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "Chronic obstructive pulmonary disease (COPD, 만성폐쇄성폐질환)",
+      "Electroacupuncture (전침, 電鍼)",
+      "Exercise training (운동 훈련)",
+      "Dyspnea (호흡곤란)",
+      "Exercise tolerance (운동 내성)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Effect of electrical stimulation in the treatment on patients with foot drop after stroke: a systematic review and network meta-analysis.",
+    "published_date": "2025-05",
+    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+    "pmid": "40057253",
+    "doi": "10.1016/j.jstrokecerebrovasdis.2025.108279",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "뇌졸중(Stroke)",
+      "족하수(Foot Drop)",
+      "전기자극치료(Electrical Stimulation)",
+      "전침(電鍼, Electroacupuncture)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "재활치료(Rehabilitation Therapy)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Efficacy and safety of electrical stimulation for functional impairment and pain in patients with rheumatoid arthritis: a protocol for systematic review and network meta-analysis of RCTs.",
+    "published_date": "2025-04-09",
+    "journal": "BMJ open",
+    "pmid": "40204328",
+    "doi": "10.1136/bmjopen-2024-095309",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증",
+        "기능",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "류마티스 관절염(Rheumatoid Arthritis)",
+      "전기 자극(Electrical Stimulation)",
+      "電鍼(전침, Electroacupuncture)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "통증 관리(Pain Management)",
+      "기능 회복(Functional Recovery)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Electrical Stimulation of Acupuncture Points Helps Resolve a Child's Failure to Thrive",
+    "published_date": "2024-04",
+    "journal": "Medical Acupuncture",
+    "pmid": "",
+    "doi": "10.1089/acu.2023.0087",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "성장 부진(Failure to Thrive)",
+      "전침(Electroacupuncture)",
+      "腧目(수목, Shu Mu points)",
+      "이침(Auricular acupuncture)",
+      "소아 성장(Pediatric growth)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "The Effect of Transcutaneous Electrical Acupuncture Stimulation on Postoperative Pain Control and Mobility in Patients Undergoing Percutaneous Endoscopic Lumbar Discectomy: Study Protocol for a Prospective Randomized Trial.",
+    "published_date": "2025",
+    "journal": "Journal of pain research",
+    "pmid": "41328428",
+    "doi": "10.2147/JPR.S554528",
+    "study_type": "RCT protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "경피적 전기경혈자극(Transcutaneous Electrical Acupoint Stimulation, TEAS)",
+      "경피적 내시경 요추 추간판 절제술(Percutaneous Endoscopic Lumbar Discectomy, PELD)",
+      "수술 후 통증(Postoperative Pain)",
+      "조기 보행(Early Ambulation)",
+      "수술 후 회복 향상(Enhanced Recovery After Surgery, ERAS)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": false,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Effectiveness of transcutaneous electrical acupoint stimulation combined with press needle therapy for pain control after caesarean section: A randomized controlled trial.",
+    "published_date": "2026-07",
+    "journal": "Journal of integrative medicine",
+    "pmid": "41339168",
+    "doi": "10.1016/j.joim.2025.10.002",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "제왕절개술(caesarean section)",
+      "경피전침자극(TEAS)",
+      "압침(press needle therapy)",
+      "수술 후 통증(postoperative pain)",
+      "모르핀 소비량(morphine consumption)",
+      "진통(analgesia)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Effectiveness of Transcutaneous Electrical Acupoint Stimulation in the Treatment of Post-COVID Severe Dyspnea: A Case Report.",
+    "published_date": "2025-10",
+    "journal": "Medical acupuncture",
+    "pmid": "41573029",
+    "doi": "10.1089/acu.2024.0011",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "Long COVID (롱코비드)",
+      "Dyspnea (호흡곤란)",
+      "TEAS (경피전침자극)",
+      "Transcutaneous Electrical Acupoint Stimulation (경피전침자극)",
+      "Post-COVID syndrome (포스트 코로나 증후군)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "[Transcutaneous electrical acupoint stimulation reduces perioperative arrhythmia risk and improves recovery quality in laparoscopic cholecystectomy: mechanisms involving suppression of repolarization abnormalities induced by CO(2) pneumoperitoneum].",
+    "published_date": "2026-03-25",
+    "journal": "Zhen ci yan jiu = Acupuncture research",
+    "pmid": "41839586",
+    "doi": "10.13702/j.1000-0607.20250701",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "경피혈위전침(經皮穴位電刺激, TEAS)",
+      "복강경 담낭 절제술(Laparoscopic cholecystectomy)",
+      "심율부정맥(Arrhythmia)",
+      "이산화탄소 기복(CO2 pneumoperitoneum)",
+      "내관(內關, PC6)",
+      "외관(外關, TE5)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Comparison of efficacy and safety of different types of electrical stimulation for shoulder subluxation after acute stroke: protocol for a systematic review and network meta-analysis of randomised controlled trials.",
+    "published_date": "2025-10-09",
+    "journal": "BMJ open",
+    "pmid": "41067774",
+    "doi": "10.1136/bmjopen-2024-090121",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "뇌졸중(stroke)",
+      "견관절 아탈구(glenohumeral subluxation)",
+      "電鍼(전침, electroacupuncture)",
+      "신경근 전기 자극(neuromuscular electrical stimulation)",
+      "전근전도 바이오피드백(electromyography biofeedback)",
+      "네트워크 메타분석(network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Efficacy and Safety of Transcutaneous Electrical Acupoint Stimulation for Improving Clinical Signs of Facial Skin Aging.",
+    "published_date": "2026-04",
+    "journal": "Journal of cosmetic dermatology",
+    "pmid": "41937110",
+    "doi": "10.1111/jocd.70839",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "경피전침자극(TEAS)",
+      "안면 피부 노화(Facial skin aging)",
+      "주름 개선(Wrinkle reduction)",
+      "안면 회춘(Facial rejuvenation)",
+      "비침습적 치료(Noninvasive intervention)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Acupuncture with Electrical Stimulation on Lian Quan-S (CV23-S) and Shang Lian Quan-S (Ex-HN21-S) Treats Obstructive Sleep Apnea Syndrome: Two Case Reports.",
+    "published_date": "2026-04",
+    "journal": "Medical acupuncture",
+    "pmid": "42131850",
+    "doi": "10.1177/19336586251366065",
+    "study_type": "Case report/series",
+    "evidence_level": "D",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "폐쇄성 수면 무호흡 증후군(Obstructive Sleep Apnea Syndrome)",
+      "전침(Electroacupuncture)",
+      "련권(Lian Quan, CV23)",
+      "상련권(Shang Lian Quan, Ex-HN21)",
+      "수면의 질(Sleep Quality)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Comparative efficacy and safety of multiple acupoint electrical stimulation therapies for postoperative cognitive dysfunction in cancer patients: a network meta-analysis.",
+    "published_date": "2026-06-04",
+    "journal": "Systematic reviews",
+    "pmid": "42237158",
+    "doi": "10.1186/s13643-026-03217-7",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "수술 후 인지기능 장애(Postoperative Cognitive Dysfunction, POCD)",
+      "전침(電鍼, Electroacupuncture)",
+      "경피전침자극(經皮電鍼刺激, TEAS)",
+      "경피이개미주신경자극(taVNS)",
+      "네트워크 메타분석(Network Meta-analysis)",
+      "암 환자(Cancer patients)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Specific mode acupoint electrical stimulation combined with NGF for neurological recovery in ischemic stroke convalescence: A randomized controlled study.",
+    "published_date": "2026-07-20",
+    "journal": "BMC medicine",
+    "pmid": "42477731",
+    "doi": "10.1186/s12916-026-05073-7",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능",
+        "신경기능"
+      ]
+    },
+    "keywords": [
+      "뇌경색(Ischemic Stroke)",
+      "전침(Electroacupuncture)",
+      "신경성장인자(Nerve Growth Factor, NGF)",
+      "백회(百會, GV20)",
+      "수구(水溝, GV26)",
+      "인지 기능 회복(Cognitive Recovery)",
+      "혈뇌장벽(Blood-Brain Barrier, BBB)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "non-needle-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "I63",
+        "label": "뇌졸중/뇌경색",
+        "status": "candidate",
+        "archive_path": "conditions/stroke/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  }
+]

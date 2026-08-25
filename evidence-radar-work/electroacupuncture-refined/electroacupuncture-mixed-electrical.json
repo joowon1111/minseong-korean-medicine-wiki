@@ -1,0 +1,584 @@
+[
+  {
+    "title": "Home-based transcutaneous electrical acupuncture-point stimulation for depressive symptoms in inflammatory bowel disease: a randomized feasibility study",
+    "published_date": "2025-10-29",
+    "journal": "European Journal of Gastroenterology & Hepatology",
+    "pmid": "",
+    "doi": "10.1097/meg.0000000000003034",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "status": "candidate",
+        "archive_path": "conditions/depression/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "염증성 장질환(Inflammatory Bowel Disease, IBD)",
+      "경피전침자극(Transcutaneous Electrical Acupuncture-point Stimulation, TEAS)",
+      "우울 증상(Depressive symptoms)",
+      "가정 기반 치료(Home-based treatment)",
+      "실행 가능성 연구(Feasibility study)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "F32",
+        "label": "우울증",
+        "status": "candidate",
+        "archive_path": "conditions/depression/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Pregnancy Benefit of Acupuncture on in vitro Fertilization: A Systematic Review and Meta-Analysis.",
+    "published_date": "2023-11",
+    "journal": "Chinese journal of integrative medicine",
+    "pmid": "37815728",
+    "doi": "10.1007/s11655-023-3748-3",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "체외수정(IVF, in vitro fertilization)",
+      "침 치료(鍼, acupuncture)",
+      "임신율(Pregnancy rate)",
+      "생존아 출생률(Live birth rate)",
+      "경피전침자극(TENS, transcutaneous electrical acupoint stimulation)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Comparative effectiveness of non-pharmacological therapies for postoperative cognitive dysfunction: Protocol for a systematic review and network meta-analysis.",
+    "published_date": "2024",
+    "journal": "PloS one",
+    "pmid": "39700183",
+    "doi": "10.1371/journal.pone.0309605",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "modality": "mixed",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "manual acupuncture",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "수술 후 인지기능 저하(Postoperative cognitive dysfunction, POCD)",
+      "電鍼(전침, Electroacupuncture)",
+      "鍼(침, Manual acupuncture)",
+      "경피전기자극법(Transcutaneous electrical acupoint stimulation, TEAS)",
+      "인지 훈련(Cognitive training)",
+      "네트워크 메타분석(Network meta-analysis)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Clinical efficacy of electroacupuncture-like magnetic therapy compared to conventional transcutaneous electrical nerve stimulation in individuals with carpal tunnel syndrome.",
+    "published_date": "2023-11-16",
+    "journal": "Scientific reports",
+    "pmid": "37978314",
+    "doi": "10.1038/s41598-023-46916-0",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "신경기능"
+      ]
+    },
+    "keywords": [
+      "수근관 증후군(Carpal Tunnel Syndrome)",
+      "전침 유사 자기치료(Electroacupuncture-like Magnetic Therapy)",
+      "경피신경전기자극(TENS)",
+      "내관(內關, PC6)",
+      "신경전도속도(Nerve Conduction Velocity)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Electroacupuncture and Transcutaneous Electrical Acupoint Stimulation for Perioperative Neurocognitive Disorder in Older Patients Undergoing Cardiac Surgery: Protocol for Systematic Review and Meta-Analysis.",
+    "published_date": "2024-08-29",
+    "journal": "JMIR research protocols",
+    "pmid": "39208417",
+    "doi": "10.2196/55996",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "기능"
+      ]
+    },
+    "keywords": [
+      "Perioperative Neurocognitive Disorder (수술 후 인지기능 장애, PND)",
+      "Electroacupuncture (電鍼, 전침)",
+      "Transcutaneous Electrical Acupoint Stimulation (경피전침자극, TEAS)",
+      "Cardiac Surgery (심장 수술)",
+      "Older Patients (고령 환자)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Electroacupuncture and Transcutaneous Electrical Acupoint Stimulation for Perioperative Neurocognitive Disorder in Older Patients Undergoing Cardiac Surgery: Protocol for Systematic Review and Meta-Analysis (Preprint)",
+    "published_date": "2024-01-02",
+    "journal": "",
+    "pmid": "",
+    "doi": "10.2196/preprints.55996",
+    "study_type": "SR/MA protocol",
+    "evidence_level": "P",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "수술 후 신경인지장애(Perioperative neurocognitive disorder, PND)",
+      "심장 수술(Cardiac surgery)",
+      "電鍼(전침, Electroacupuncture)",
+      "경피전침자극(Transcutaneous Electrical Acupoint Stimulation, TEAS)",
+      "고령 환자(Older patients)",
+      "체계적 문헌고찰(Systematic review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Evidence-based acupuncture: Methodological insights and challenges in gastroenteroscopy recovery research.",
+    "published_date": "2026-01-14",
+    "journal": "World journal of gastroenterology",
+    "pmid": "41551826",
+    "doi": "10.3748/wjg.v32.i2.114591",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "위장관 내시경(Gastroenteroscopy)",
+      "경락유통주입법(經絡流通注入法, MFI)",
+      "경피전침자극(經皮電鍼刺激, TEAS)",
+      "足三里(족삼리, ST36)",
+      "위장관 회복(GI recovery)",
+      "근거중심의학(Evidence-based medicine)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Effects of acupuncture-related intervention on chemotherapy-induced peripheral neuropathy and quality of life: An umbrella review.",
+    "published_date": "2025-05",
+    "journal": "Complementary therapies in medicine",
+    "pmid": "39900253",
+    "doi": "10.1016/j.ctim.2025.103131",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "삶의 질"
+      ]
+    },
+    "keywords": [
+      "항암화학요법 유발 말초신경병증(CIPN, Chemotherapy-induced peripheral neuropathy)",
+      "침술(鍼, Acupuncture)",
+      "전침(電鍼, Electroacupuncture)",
+      "경피전기자극치료(TEAS)",
+      "삶의 질(Quality of Life)",
+      "엄브렐러 리뷰(Umbrella review)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Combining various acupuncture therapies with multimodal analgesia to enhance postoperative pain management following total knee arthroplasty: a network meta-analysis of randomized controlled trials.",
+    "published_date": "2024",
+    "journal": "Frontiers in neurology",
+    "pmid": "38562427",
+    "doi": "10.3389/fneur.2024.1361037",
+    "study_type": "Meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "통증"
+      ]
+    },
+    "keywords": [
+      "인공 슬관절 전치환술(Total Knee Arthroplasty, TKA)",
+      "침(鍼, Acupuncture)",
+      "전침(電鍼, Electroacupuncture)",
+      "경피전기자극치료(TEAS)",
+      "이침(耳鍼, Auricular Acupoint Therapy)",
+      "다모드 진통법(Multimodal Analgesia)",
+      "수술 후 통증(Postoperative Pain)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Effects of different electroacupuncture/ transcutaneous electrical acupoint stimulation parameters on the pregnancy outcomes of in vitro fertilisation-embryo transfer: a systematic review and meta-analysis.",
+    "published_date": "2025-08-08",
+    "journal": "BMJ open",
+    "pmid": "40780719",
+    "doi": "10.1136/bmjopen-2024-097901",
+    "study_type": "Systematic review & meta-analysis",
+    "evidence_level": "A",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "체외수정-배아이식(IVF-ET)",
+      "전침(EA, electroacupuncture)",
+      "경피전침자극(TEAS, transcutaneous electrical acupoint stimulation)",
+      "임상적 임신율(CPR)",
+      "치료 파라미터(Treatment parameters)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Additional benefits of pelvic floor proprioceptive training combined with conventional therapy in the treatment of female stress urinary incontinence.",
+    "published_date": "2025-08-28",
+    "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+    "pmid": "41383000",
+    "doi": "10.11817/j.issn.1672-7347.2025.240242",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "N39.3",
+        "label": "복압성 요실금",
+        "status": "candidate",
+        "archive_path": "conditions/stress-urinary-incontinence/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "복압성 요실금(Stress Urinary Incontinence)",
+      "골반저 고유수용성 훈련(Pelvic Floor Proprioceptive Training)",
+      "전침(電鍼, electroacupuncture)",
+      "바이오피드백(biofeedback)",
+      "전기자극(electrical stimulation)",
+      "균형 능력(balance ability)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "N39.3",
+        "label": "복압성 요실금",
+        "status": "candidate",
+        "archive_path": "conditions/stress-urinary-incontinence/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Clinical Efficacy and Safety Assessment of Specific-Mode Electroacupuncture Stimulation Combined With Paclitaxel for Recurrent Malignant Gliomas: Study Protocol for a Single-Arm Trial.",
+    "published_date": "2026-01-29",
+    "journal": "JMIR research protocols",
+    "pmid": "41610368",
+    "doi": "10.2196/84593",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "안전성"
+      ]
+    },
+    "keywords": [
+      "재발성 악성 신경교종(Recurrent Malignant Gliomas)",
+      "전기자극(Electrical Stimulation)",
+      "혈뇌장벽(Blood-Brain Barrier, BBB)",
+      "파클리탁셀(Paclitaxel)",
+      "전침(Electroacupuncture)",
+      "무진행 생존율(Progression-Free Survival)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [],
+    "kcd_mapping_status": "needs-review"
+  },
+  {
+    "title": "Current status and research gaps of neuromodulation in the rehabilitation of knee osteoarthritis: a scoping review.",
+    "published_date": "2026",
+    "journal": "Frontiers in neurology",
+    "pmid": "42528529",
+    "doi": "10.3389/fneur.2026.1845945",
+    "study_type": "Other human study",
+    "evidence_level": "C",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "M17",
+        "label": "무릎 골관절염",
+        "status": "candidate",
+        "archive_path": "conditions/knee-osteoarthritis/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": []
+    },
+    "keywords": [
+      "Knee Osteoarthritis (무릎 골관절염)",
+      "Neuromodulation (신경조절술)",
+      "Electroacupuncture (電鍼, 전침)",
+      "TENS (경피신경전기자극)",
+      "tDCS (경두개직류자극)",
+      "Rehabilitation (재활)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "M17",
+        "label": "무릎 골관절염",
+        "status": "candidate",
+        "archive_path": "conditions/knee-osteoarthritis/"
+      }
+    ],
+    "kcd_mapping_status": "title-supported"
+  },
+  {
+    "title": "Combining electroacupuncture and transcutaneous electrical acupoint stimulation for psychiatric disorders in women victims of domestic violence: An assessor-blinded, randomised controlled trial.",
+    "published_date": "2026-08",
+    "journal": "General psychiatry",
+    "pmid": "42415722",
+    "doi": "10.1002/gps3.70035",
+    "study_type": "RCT",
+    "evidence_level": "B",
+    "modality": "electroacupuncture",
+    "clinical_evidence": true,
+    "kcd_candidates": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "status": "candidate",
+        "archive_path": "conditions/depression/"
+      }
+    ],
+    "pico": {
+      "population": "",
+      "intervention": "electroacupuncture",
+      "comparator": "",
+      "outcomes": [
+        "수면"
+      ]
+    },
+    "keywords": [
+      "가정폭력(Domestic Violence)",
+      "우울증(Depression)",
+      "외상 후 스트레스 장애(PTSD)",
+      "불면증(Insomnia)",
+      "전침(電鍼, Electroacupuncture)",
+      "경피전침자극(經皮電鍼刺激, TEAS)"
+    ],
+    "source": "med.symbolicinfo.com",
+    "human_reviewed": false,
+    "electrical_modality_final": {
+      "primary": "mixed-electrical",
+      "needle_electroacupuncture": true,
+      "non_needle_electrical": true,
+      "auricular_electrical": false
+    },
+    "kcd_candidates_refined": [
+      {
+        "code": "G47",
+        "label": "불면",
+        "status": "candidate",
+        "archive_path": "conditions/insomnia/"
+      },
+      {
+        "code": "F32",
+        "label": "우울증",
+        "status": "candidate",
+        "archive_path": "conditions/depression/"
+      }
+    ],
+    "kcd_mapping_status": "needs-review"
+  }
+]
