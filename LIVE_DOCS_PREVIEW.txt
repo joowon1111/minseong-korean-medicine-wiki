@@ -1,11 +1,6 @@
-﻿165 live docs comparison preview
-
-Current docs markdown files: 2130
-Completed A/B acupuncture evidence: 67
-Identifiers already found in docs: 5
-Not already present + target path directly resolved: 12
-Not already present + target missing/unmapped: 50
-
-This is only a structural preview. The 165 script additionally flags mixed modality,
-duplicate-title, preprint, theoretical-review, and warm/Mongolian acupuncture items
-for human review rather than automatic approval.
+﻿170 live docs comparison
+Markdown files: 2130
+Completed A/B true-EA evidence: 19
+Identifiers already present: 2
+Not present + directly resolved target: 4
+Remaining require mapping/review.
