@@ -6,9 +6,11 @@ copyright: 민성 한의학 아카이브 · 민성한의원 운영 · <a href="h
 use_directory_urls: true
 extra_javascript:
   - javascripts/korean-search-fallback.js
+  - assets/korean-search-185.js
 extra_css:
 - assets/extra.css
 - stylesheets/portal.css
+- assets/korean-search-185.css
 extra:
   generator: false
 plugins:
