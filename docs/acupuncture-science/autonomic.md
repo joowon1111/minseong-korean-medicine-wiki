@@ -32,4 +32,5 @@ description: 침 자극을 감각신경, 척수·뇌간·시상하부와 교감�
 자율신경 관점은 불면, 기능성소화불량, 편두통, 혈압 등 여러 임상영역과 연결해 탐색할 수 있습니다.
 
 → [불면](../conditions/insomnia.md)  
-→ [기능성소화불량](../conditions/functional-dyspepsia.md)
+→ [기능성소화불량](../conditions/functional-dyspepsia.md)  
+→ [자율신경 기능 이상 핵심 안내](../autonomic/index.md)
