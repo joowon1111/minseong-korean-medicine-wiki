@@ -203,6 +203,7 @@ last_reviewed: '2026-08-28'
 
 ### 수면·자율신경·피로
 
+- [자율신경 기능 이상·여러 증상을 함께 보는 방법](../autonomic/index.md)
 - [긴장하면 몸이 불편해요·신체화 증상](anxiety-somatic.md)
 - [머리가 멍해요·브레인포그](brain-fog.md)
 - [기관지염 후 기침·회복](bronchitis-recovery.md)
