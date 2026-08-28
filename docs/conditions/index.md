@@ -180,6 +180,7 @@ last_reviewed: '2026-08-28'
 - [복부비만·뱃살](abdominal-obesity.md)
 - [복부팽만·가스](bloating.md)
 - [건강검진 위염·위내시경 소견](checkup-gastritis.md)
+- [위암·위절제 수술 후 식사·체중·기력회복](gastric-cancer-gastrectomy-recovery.md)
 - [소아 변비·아이 딱딱한변](child-constipation.md)
 - [소아 설사·묽은변](child-diarrhea.md)
 - [딱딱한변·배변곤란](constipation-hard-stool.md)
