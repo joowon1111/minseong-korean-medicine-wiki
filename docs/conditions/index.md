@@ -8,7 +8,7 @@ tags:
 - 한약
 - 현대근거
 status: 검토완료
-last_reviewed: '2026-08-23'
+last_reviewed: '2026-08-28'
 ---
 
 # 질환·증상
@@ -267,8 +267,9 @@ last_reviewed: '2026-08-23'
 - [잔뇨감·소변이 시원하지 않아요](residual-urine.md)
 - [소변줄기 약함·배뇨지연](weak-urine-stream.md)
 
-### 냉증·부종·순환
+### 대사·신장·부종·순환
 
+- [건강검진 크레아티닌·eGFR·단백뇨 이상 — 만성콩팥병 초기관리](chronic-kidney-disease.md)
 - [저녁 다리부종·발목붓기](leg-swelling-evening.md)
 - [혈액순환이 안 되는 느낌](poor-circulation-sensation.md)
 
