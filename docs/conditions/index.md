@@ -270,6 +270,7 @@ last_reviewed: '2026-08-28'
 ### 대사·신장·부종·순환
 
 - [건강검진 크레아티닌·eGFR·단백뇨 이상 — 만성콩팥병 초기관리](chronic-kidney-disease.md)
+- [당뇨가 있는데 미세알부민뇨·단백뇨가 나왔어요](diabetic-kidney-disease.md)
 - [저녁 다리부종·발목붓기](leg-swelling-evening.md)
 - [혈액순환이 안 되는 느낌](poor-circulation-sensation.md)
 
