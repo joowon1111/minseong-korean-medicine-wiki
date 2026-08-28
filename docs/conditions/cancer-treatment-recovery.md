@@ -274,6 +274,7 @@ last_reviewed: 2026-08-28
 
 ## 함께 보면 좋은 문서
 
+- [위암·위절제 수술 후 회복](gastric-cancer-gastrectomy-recovery.md)
 - [수술 후 회복·기력저하](postoperative-recovery.md)
 - [입원·퇴원 후 회복](post-hospitalization-recovery.md)
 - [만성피로](chronic-fatigue.md)
