@@ -228,6 +228,8 @@ last_reviewed: 2026-08-28
 
 ## 함께 보면 좋은 문서
 
+- [대상포진·띠 모양 통증과 수포](../../conditions/shingles.md)
+- [대상포진 후 신경통](../../conditions/postherpetic-neuralgia.md)
 - [두드러기·반복되는 가려움](../../conditions/urticaria.md)
 - [아토피피부염·만성 가려움](../../conditions/atopic-dermatitis.md)
 - [소풍산](../../formulas/xiaofeng-san.md)

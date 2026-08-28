@@ -1218,6 +1218,8 @@ nav:
       - 두통: conditions/headache.md
       - 어지럼: conditions/dizziness.md
       - 비염: conditions/rhinitis.md
+      - 대상포진: conditions/shingles.md
+      - 대상포진 후 신경통: conditions/postherpetic-neuralgia.md
       - 감기·급성 상기도감염: conditions/common-cold.md
       - 기침: conditions/cough.md
       - 갱년기: conditions/menopause.md
