@@ -1206,6 +1206,7 @@ nav:
     - 질환·증상:
       - conditions/index.md
       - 불면: conditions/insomnia.md
+      - 불안·과도한 걱정: conditions/anxiety.md
       - 소화불량: conditions/dyspepsia.md
       - 과민성장증후군: conditions/ibs.md
       - 위암·위절제 수술 후 회복: conditions/gastric-cancer-gastrectomy-recovery.md
