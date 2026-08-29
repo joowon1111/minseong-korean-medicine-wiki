@@ -18,7 +18,7 @@ last_reviewed: 2026-08-29
 | 기침이 계속되거나 감기 뒤 남음 | [기침](../conditions/cough.md) · [만성기침](../conditions/chronic-cough.md) |
 | 감기에 자주 걸리거나 회복이 더딤 | [감기·급성 상기도감염](../conditions/common-cold.md) |
 | 목이 아프거나 가슴·목이 불편함 | [목·가슴 불편 증상군](../symptom-herbal-guide/respiratory-ent/r07-throat-chest.md) |
-| 목에 뭔가 걸린 듯함 | [목 이물감](../conditions/globus-sensation.md) |
+| 목에 뭔가 걸린 듯함 | [목 이물감](../conditions/globus.md) |
 | 천식 등 반복적 호흡기 질환 | [천식 근거 카드](../authority/conditions/asthma.md) |
 
 ## 한의학적 해석
