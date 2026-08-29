@@ -9,9 +9,12 @@ last_reviewed: 2026-08-22
 이 영역은 고전별 상세 내용을 중복 작성하기보다 **현재의 기준 고전 문서로 안내하고 고전 사이 관계를 비교하는 탐색층**으로 사용합니다.
 
 - [황제내경](huangdi-neijing.md)
+- [난경](nanjing.md)
 - [상한론](shanghan-lun.md)
 - [금궤요략](jingui-yaolue.md)
 - [의학입문](uihak-ipmun.md)
+- [경악전서](jingyue-quanshu.md)
+- [온병조변](wenbing-tiaobian.md)
 - [동의보감](donguibogam.md)
 - [동의수세보원](donguisusebowon.md)
 
