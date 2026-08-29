@@ -3,7 +3,7 @@ title: 온열론과 온병조변
 description: 온열론과 온병조변을 온병학의 위기영혈·삼초변증·치법·처방 지식망으로 정리합니다.
 tags: [온병학, 위기영혈, 삼초변증, 온병조변, 온열론]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-08-29
 ---
 # 온열론과 온병조변
 
@@ -25,6 +25,8 @@ last_reviewed: 2026-08-20
 → [삼초변증](triple-burner-patterns.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+→ [온병조변 기준문서](../classics/wenbing-tiaobian.md)
+
 ## 관련 핵심 문서
 
 - [한의학 고전 읽기](../classics-network/reading-path.md)
