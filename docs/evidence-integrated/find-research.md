@@ -149,7 +149,7 @@ DOI는 학술논문·보고서 등 디지털 자료를 지속적으로 식별하
 ## 빠른 검색 경로
 
 - [질환별 현대 근거 카드](../authority/conditions/index.md)
-- [전체 참고문헌](../research/references.md)
+- [전체 참고문헌](../research/references/index.md)
 - [한약 현대 근거](herbal-evidence.md)
 - [침구 연구](acupuncture-evidence.md)
 - [사상의학 연구](sasang-evidence.md)
