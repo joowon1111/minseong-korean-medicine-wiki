@@ -114,7 +114,7 @@ last_reviewed: '2026-08-29'
 
 → [경혈·경락 찾기](acupoints-meridians.md)  
 → [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)  
-→ [경혈·근육·말초신경·초음파 지도](../acupoint-ultrasound-map/index.md)
+→ [경혈·근육·말초신경·초음파 지도](../musculoskeletal-ultrasound/acupoint-ultrasound-map.md)
 
 ## 경락과 현대 해부학은 어떻게 함께 보나요?
 
@@ -134,8 +134,8 @@ last_reviewed: '2026-08-29'
 
 - [신경포착증후군](../nerve-entrapment/index.md)
 - [근육·말초신경 임상해부학](../clinical-anatomy/index.md)
-- [근골격계 초음파](../msk-ultrasound/index.md)
-- [침 치료 안전성과 임상해부학](../acupuncture-science/safety-anatomy.md)
+- [근골격계 초음파](../musculoskeletal-ultrasound/index.md)
+- [침 치료 안전성과 임상해부학](../acupuncture-science/safety.md)
 
 ## 치료 경과는 무엇으로 판단하나요?
 
@@ -221,4 +221,4 @@ last_reviewed: '2026-08-29'
 - [경혈 임상 지식망](../acupoint-network/index.md)
 - [경락·경맥 지식망](../meridian-network/index.md)
 - [침의 과학적 접근](../acupuncture-science/index.md)
-- [근골격계 초음파·초음파 유도 치료](../msk-ultrasound/index.md)
+- [근골격계 초음파·초음파 유도 치료](../musculoskeletal-ultrasound/index.md)
