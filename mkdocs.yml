@@ -1185,52 +1185,57 @@ nav:
   - 태그: tags.md
   - 한의학 지식망:
     - network/index.md
-    - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
-    - 인삼을 쓰는 처방: network/ginseng-formulas.md
-    - 황기를 쓰는 처방: network/astragalus-formulas.md
-    - 당귀를 쓰는 처방: network/angelica-formulas.md
-    - 백출을 쓰는 처방: network/atractylodes-formulas.md
-    - 복령을 쓰는 처방: network/poria-formulas.md
-    - 감초를 쓰는 처방: network/licorice-formulas.md
-    - 반하를 쓰는 처방: network/pinellia-formulas.md
-    - 처방군 지도: network/formula-family-map.md
-    - 불면 임상 지식망: network/insomnia-map.md
-    - 만성피로 임상 지식망: network/fatigue-map.md
-    - 소화불량 임상 지식망: network/dyspepsia-map.md
-    - 요통 임상 지식망: network/low-back-pain-map.md
-    - 증상별 임상 지도: network/clinical-map.md
-    - 공진단 지식망: network/gongjin-dan-map.md
-    - 경옥고 지식망: network/gyeongok-go-map.md
-    - 공진단과 경옥고 비교: network/gongjin-vs-gyeongok.md
-    - 보익·양생 허브: network/tonic-wellness-hub.md
-    - 보익 처방 비교: network/tonic-formula-compare.md
-    - 피로·회복 지식망: network/recovery-map.md
-    - 처방 구성 네트워크: network/formula-composition-hub.md
-    - 공진단 구성 본초: network/gongjin-composition.md
-    - 경옥고 구성 본초: network/gyeongok-composition.md
-    - 생맥산 구성 본초: network/shengmai-composition.md
-    - 오령산 구성 본초: network/wuling-composition.md
-    - 십전대보탕 구성 본초: network/shipjeondaebo-composition.md
-    - 본초·방제 분류 안내: network/navigation-guide.md
-    - 침구 임상 지식망: network/acupuncture-clinical-map.md
-    - 불면 경혈 지식망: network/insomnia-acupoints.md
-    - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
-    - 요통 경혈 지식망: network/low-back-pain-acupoints.md
-    - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
-    - 한의치료 방법 지식망: network/treatment-methods-map.md
-    - 질환·증상 확장 지도: network/condition-expansion-map.md
-    - 의가·고전·처방 계보: network/physician-classic-formula-lineage.md
-    - 장중경 계보: network/zhang-zhongjing-lineage.md
-    - 이동원 계보: network/li-dongyuan-lineage.md
-    - 손사막 계보: network/sun-simiao-lineage.md
-    - 허준 계보: network/heo-jun-lineage.md
-    - 이제마 계보: network/lee-je-ma-lineage.md
-    - 상한론 태양병 지도: network/shanghan-taiyang-map.md
-    - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
-    - 본초→방제 역탐색: network/herb-to-formula-map.md
-    - 방제→질환·변증 지도: network/formula-to-condition-map.md
-    - 질환→치료 통합 지도: network/condition-to-treatment-map.md
-    - 고전→현대 연구 연결: network/classic-to-evidence-map.md
+    - 임상 증상·질환 지도:
+      - 불면 임상 지식망: network/insomnia-map.md
+      - 만성피로 임상 지식망: network/fatigue-map.md
+      - 소화불량 임상 지식망: network/dyspepsia-map.md
+      - 요통 임상 지식망: network/low-back-pain-map.md
+      - 증상별 임상 지도: network/clinical-map.md
+      - 질환·증상 확장 지도: network/condition-expansion-map.md
+      - 질환→치료 통합 지도: network/condition-to-treatment-map.md
+    - 본초·방제 연결:
+      - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
+      - 인삼을 쓰는 처방: network/ginseng-formulas.md
+      - 황기를 쓰는 처방: network/astragalus-formulas.md
+      - 당귀를 쓰는 처방: network/angelica-formulas.md
+      - 백출을 쓰는 처방: network/atractylodes-formulas.md
+      - 복령을 쓰는 처방: network/poria-formulas.md
+      - 감초를 쓰는 처방: network/licorice-formulas.md
+      - 반하를 쓰는 처방: network/pinellia-formulas.md
+      - 처방군 지도: network/formula-family-map.md
+      - 공진단 지식망: network/gongjin-dan-map.md
+      - 경옥고 지식망: network/gyeongok-go-map.md
+      - 공진단과 경옥고 비교: network/gongjin-vs-gyeongok.md
+      - 보익·양생 허브: network/tonic-wellness-hub.md
+      - 보익 처방 비교: network/tonic-formula-compare.md
+      - 피로·회복 지식망: network/recovery-map.md
+      - 처방 구성 네트워크: network/formula-composition-hub.md
+      - 공진단 구성 본초: network/gongjin-composition.md
+      - 경옥고 구성 본초: network/gyeongok-composition.md
+      - 생맥산 구성 본초: network/shengmai-composition.md
+      - 오령산 구성 본초: network/wuling-composition.md
+      - 십전대보탕 구성 본초: network/shipjeondaebo-composition.md
+      - 본초·방제 분류 안내: network/navigation-guide.md
+      - 본초→방제 역탐색: network/herb-to-formula-map.md
+      - 방제→질환·변증 지도: network/formula-to-condition-map.md
+    - 침구·치료 연결:
+      - 침구 임상 지식망: network/acupuncture-clinical-map.md
+      - 불면 경혈 지식망: network/insomnia-acupoints.md
+      - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
+      - 요통 경혈 지식망: network/low-back-pain-acupoints.md
+      - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
+      - 한의치료 방법 지식망: network/treatment-methods-map.md
+    - 의가·고전·연구 연결:
+      - 의가·고전·처방 계보: network/physician-classic-formula-lineage.md
+      - 장중경 계보: network/zhang-zhongjing-lineage.md
+      - 이동원 계보: network/li-dongyuan-lineage.md
+      - 손사막 계보: network/sun-simiao-lineage.md
+      - 허준 계보: network/heo-jun-lineage.md
+      - 이제마 계보: network/lee-je-ma-lineage.md
+      - 상한론 태양병 지도: network/shanghan-taiyang-map.md
+      - 고전→현대 연구 연결: network/classic-to-evidence-map.md
+    - 통합 지식 그래프:
+      - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
   - 전체 기존 메뉴:
     - 진단·변증:
       - diagnostics/index.md

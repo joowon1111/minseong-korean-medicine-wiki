@@ -1,15 +1,30 @@
 ---
 title: 한의학 핵심 주제 허브
-description: 보익·통증·수면·소화·침구·고전·현대 임상근거를 환자 질문과 변증, 본초·방제·경혈 지식망까지 연결합니다.
+description: 증상·질환에서 시작해 보익·통증·수면·소화·호흡·여성건강·침구·본초·방제와 현대 임상근거까지 연결하는 핵심 탐색 허브입니다.
 tags: [Pillar, 한의학지식망, AEO]
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-08-29
 ---
+
 # 한의학 핵심 주제 허브
 
-이 페이지는 민성 한의학 아카이브의 큰 주제를 단순 목록이 아니라 **환자 질문 → 증상·질환 → 변증 → 본초·방제·경혈 → 치료 → 현대 임상근거**의 흐름으로 연결하는 상위 허브입니다.
+이 페이지는 민성 한의학 아카이브의 큰 주제를 **환자 질문 → 증상·질환 → 변증 → 한약·침구치료 → 본초·방제·경혈 → 현대 임상근거**의 흐름으로 연결합니다.
 
-## 주요 임상 주제
+정확한 병명을 모르면 [증상으로 찾기](../symptom-integrated/index.md)에서 시작하고, 진단명이나 관심 질환을 알고 있다면 [질환별 보기](../conditions/index.md)를 이용하세요.
+
+## 증상·질환에서 바로 찾기
+
+| 관심 분야 | 대표 문서 |
+|---|---|
+| 통증·근골격 | [요통](../conditions/low-back-pain.md) · [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md) · [손목통증](../conditions/wrist-pain.md) · [발목통증](../conditions/ankle-pain.md) |
+| 수면·신경계 | [불면증](../conditions/insomnia.md) · [두통](../conditions/headache.md) · [어지럼](../conditions/dizziness.md) · [하지불안증후군](../conditions/restless-legs-syndrome.md) |
+| 소화·비위 | [소화불량](../conditions/dyspepsia.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) · [변비](../conditions/constipation.md) · [설사](../conditions/diarrhea.md) |
+| 호흡·비염 | [비염](../conditions/rhinitis.md) · [알레르기비염](../conditions/allergic-rhinitis.md) · [기침](../conditions/cough.md) · [만성기침](../conditions/chronic-cough.md) |
+| 순환·냉증·부종 | [수족냉증](../conditions/cold-hands-feet.md) · [부종](../conditions/edema.md) · [저림](../conditions/foot-numbness.md) · [근육경련](../conditions/muscle-cramps.md) |
+| 여성건강·회복 | [난임·임신준비](../conditions/infertility-preconception.md) · [갱년기](../conditions/menopause.md) · [산후회복](../conditions/postpartum-recovery.md) |
+| 수술·질환 후 회복 | [수술 후 회복관리](../conditions/postoperative-recovery.md) · [암 치료·수술 후 회복](../conditions/cancer-treatment-recovery.md) · [골절 후 회복](../conditions/fracture-recovery.md) |
+
+## 주요 한의학 주제
 
 | 주제 | 먼저 보는 내용 | 연결 |
 |---|---|---|
@@ -21,7 +36,7 @@ last_reviewed: 2026-08-22
 | 고전·역사 | 황제내경·상한론·동의보감·동의수세보원 | [고전·역사](classics-history.md) |
 | 현대 임상근거 | RCT·체계적 문헌고찰·메타분석·참고문헌 | [현대 임상근거](clinical-evidence.md) |
 
-## 세 가지 임상 핵심 축
+## 한의학의 세 가지 핵심 축
 
 - [본초학 임상 지식망](../herbs/index.md)
 - [방제학 임상 지식망](../formulas/index.md)
@@ -31,8 +46,9 @@ last_reviewed: 2026-08-22
 
 ## 질문과 증상에서 시작하기
 
-- [질문으로 찾기](../answer-guides/index.md)
-- [증상·질환](../conditions/index.md)
+- [환자 질문으로 찾기](../answer-guides/index.md)
+- [증상으로 찾기](../symptom-integrated/index.md)
+- [질환별 보기](../conditions/index.md)
 - [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
 
 ## 지식망으로 더 깊게 보기
