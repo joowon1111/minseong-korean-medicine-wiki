@@ -64,8 +64,8 @@ last_reviewed: '2026-08-29'
 - 간·신장 기능, 알레르기와 이상반응
 
 → [한약 현대 근거 통합 지도](herbal-evidence.md)  
-→ [본초 임상근거](../herbs-evidence/index.md)  
-→ [방제 임상근거](../formula-evidence/index.md)
+→ [본초 임상근거](../authority/herbs/index.md)  
+→ [방제 임상근거](../authority/formulas/herbal-formula-evidence-hub.md)
 
 ## 침구 연구에서 특히 확인할 것
 
@@ -177,4 +177,4 @@ last_reviewed: '2026-08-29'
 - [임상추론](../clinical-reasoning/index.md)
 - [임상 안전성](../clinical-safety/index.md)
 - [증상·질환 치료·경과·근거](../symptom-integrated/treatment-evidence.md)
-- [전체 참고문헌](../research/references.md)
+- [전체 참고문헌](../research/references/index.md)
