@@ -565,6 +565,7 @@ nav:
       - 임상 통합 지도: acupuncture-clinical/integrated-map.md
 - 증상·질환:
   - 증상으로 찾기: symptom-integrated/index.md
+  - 질환별 보기: conditions/index.md
   - 통증: symptom-integrated/pain.md
   - 수면·피로: symptom-integrated/sleep-fatigue.md
   - 소화: symptom-integrated/digestive.md
@@ -1163,7 +1164,7 @@ nav:
     - 생맥산 구성 본초: network/shengmai-composition.md
     - 오령산 구성 본초: network/wuling-composition.md
     - 십전대보탕 구성 본초: network/shipjeondaebo-composition.md
-    - 아카이브 분류 안내: network/navigation-guide.md
+    - 본초·방제 분류 안내: network/navigation-guide.md
     - 침구 임상 지식망: network/acupuncture-clinical-map.md
     - 불면 경혈 지식망: network/insomnia-acupoints.md
     - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
@@ -1203,8 +1204,7 @@ nav:
       - 뜸: treatments/moxibustion.md
       - 온열·TDP: treatments/thermal-tdp.md
       - 복합 치료 전략: treatments/integrated-treatment.md
-    - 질환·증상:
-      - conditions/index.md
+    - 질환·증상 기존 문서:
       - 불면: conditions/insomnia.md
       - 불안·과도한 걱정: conditions/anxiety.md
       - 소화불량: conditions/dyspepsia.md

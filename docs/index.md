@@ -12,7 +12,8 @@ hide:
 <a class="ms-card" href="portal/basics/"><strong>📖 한의학 기초</strong><span>음양·장부·기혈·변증·임상 추론</span></a>
 <a class="ms-card" href="portal/herbs-formulas/"><strong>🌿 본초·방제</strong><span>본초학·방제학·보익·처방 구조</span></a>
 <a class="ms-card" href="portal/acupuncture/"><strong>📍 침구·치료</strong><span>침·약침·전침·경혈·경락</span></a>
-<a class="ms-card" href="conditions/"><strong>🩺 증상·질환</strong><span>통증·소화·수면·호흡·피로·여성·비뇨</span></a>
+<a class="ms-card" href="symptom-integrated/"><strong>🗣️ 증상으로 찾기</strong><span>아파요·저려요·부어요·잠이 안 와요</span></a>
+<a class="ms-card" href="conditions/"><strong>🩺 질환별 보기</strong><span>진단명·검사·감별·한의치료·임상근거</span></a>
 <a class="ms-card" href="portal/sasang/"><strong>☯ 사상의학</strong><span>체질·병증·처방·동의수세보원</span></a>
 <a class="ms-card" href="portal/evidence/"><strong>🔬 연구·근거</strong><span>임상시험·메타분석·PMID·DOI</span></a>
 </div>
@@ -24,17 +25,22 @@ hide:
 <a href="formulas/gyeongok-go/">경옥고</a>
 <a href="conditions/insomnia/">불면</a>
 <a href="conditions/low-back-pain/">요통</a>
+<a href="conditions/temporomandibular-disorder/">턱관절통증</a>
+<a href="conditions/limb-numbness/">손발저림</a>
+<a href="conditions/restless-legs-syndrome/">하지불안</a>
+<a href="conditions/edema-swelling/">붓기·부종</a>
 <a href="symptom-integrated/digestive/">소화</a>
 <a href="sasang/">사상체질</a>
 </div>
 ## 처음 방문하셨나요?
 
 어떤 분야인지 잘 모르겠다면 **상단 검색창에 궁금한 증상이나 처방 이름을 그대로 입력**하세요.
-전문용어를 몰라도 [증상·질환](conditions/) 또는 [사상의학 증상으로 찾기](sasang-symptoms/index.md)에서 시작할 수 있습니다.
+전문용어를 몰라도 [증상으로 찾기](symptom-integrated/)에서 시작할 수 있습니다. 진단명이나 의심 질환을 알고 있다면 [질환별 보기](conditions/)로 이동하고, 체질과 평소 소증을 함께 살피려면 [사상의학 증상으로 찾기](sasang-symptoms/index.md)를 이용하세요.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
 - [아카이브 안내](guide/index.md)
-- [증상·질환](conditions/index.md)
+- [증상으로 찾기](symptom-integrated/index.md)
+- [질환별 보기](conditions/index.md)
 - [AI 검색 구조](ai-index.md)
