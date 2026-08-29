@@ -17,9 +17,9 @@ last_reviewed: 2026-08-29
 | 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) |
 | 목·어깨 | [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md) |
 | 얼굴·턱 | [턱관절통증](../conditions/temporomandibular-disorder.md) |
-| 팔·손목 | [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel-syndrome.md) |
+| 팔·손목 | [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel.md) |
 | 무릎·발목·발 | [무릎통증](../conditions/knee-pain.md) · [발목통증](../conditions/ankle-pain.md) · [족저근막염](../conditions/plantar-fasciitis.md) |
-| 전신·신경통 | [전신통증](../conditions/generalized-pain.md) · [대상포진 후 신경통](../conditions/postherpetic-neuralgia.md) |
+| 전신·신경통 | [전신통증](../symptom-herbal-guide/systemic-skin/r52-generalized-pain.md) · [대상포진 후 신경통](../conditions/postherpetic-neuralgia.md) |
 
 ## 통증의 양상으로 구분하기
 
