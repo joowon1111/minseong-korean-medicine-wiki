@@ -15,4 +15,4 @@ BL10 천주 · BL13 폐수 · BL18 간수 · BL20 비수 · BL23 신수 · BL25 
 표리경 관계, 특정혈 체계, 국소 해부학, 변증과 배혈을 함께 살펴봅니다.
 
 → [십이경맥 전체](index.md)
-→ [경혈 임상 지식망](../../acupoint-network/)
+→ [경혈 임상 지식망](../../acupoint-network/index.md)
