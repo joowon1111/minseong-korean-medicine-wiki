@@ -1266,6 +1266,7 @@ nav:
     - 한의학 고전:
       - classics/index.md
       - 황제내경: classics/huangdi-neijing.md
+      - 난경: classics/nanjing.md
       - 상한론:
         - 개요: classics/shanghanlun.md
         - 태양병 조문:
@@ -1284,6 +1285,8 @@ nav:
       - 비급천금요방: classics/beiji-qianjin-yaofang.md
       - 비위론: classics/piwei-lun.md
       - 의학입문: classics/uihak-ipmun.md
+      - 경악전서: classics/jingyue-quanshu.md
+      - 온병조변: classics/wenbing-tiaobian.md
       - 동의보감:
         - 개요: classics/donguibogam.md
         - 탕액편:
@@ -1329,12 +1332,15 @@ nav:
   - 한의학 고전 비교·계보:
     - classics-network/index.md
     - 황제내경: classics-network/huangdi-neijing.md
+    - 난경: classics-network/nanjing.md
     - 상한론: classics-network/shanghan-lun.md
     - 금궤요략: classics-network/jingui-yaolue.md
     - 의학입문: classics-network/uihak-ipmun.md
+    - 경악전서: classics-network/jingyue-quanshu.md
+    - 온병조변: classics-network/wenbing-tiaobian.md
     - 동의보감: classics-network/donguibogam.md
     - 동의수세보원: classics-network/donguisusebowon.md
-    - 고전 6종 비교: classics-network/comparison.md
+    - 고전 9종 비교: classics-network/comparison.md
     - 고전 읽는 순서: classics-network/reading-path.md
     - 고전→현대 임상 연결 지도: classics-network/integrated-map.md
   - 황제내경 핵심 지식망:
