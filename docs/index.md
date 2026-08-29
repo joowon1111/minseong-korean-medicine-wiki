@@ -25,6 +25,10 @@ hide:
 <a href="formulas/gyeongok-go/">경옥고</a>
 <a href="conditions/insomnia/">불면</a>
 <a href="conditions/low-back-pain/">요통</a>
+<a href="conditions/temporomandibular-disorder/">턱관절통증</a>
+<a href="conditions/limb-numbness/">손발저림</a>
+<a href="conditions/restless-legs-syndrome/">하지불안</a>
+<a href="conditions/edema-swelling/">붓기·부종</a>
 <a href="symptom-integrated/digestive/">소화</a>
 <a href="sasang/">사상체질</a>
 </div>
