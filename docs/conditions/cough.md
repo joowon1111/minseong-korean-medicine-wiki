@@ -200,7 +200,7 @@ last_reviewed: 2026-08-28
 - [비염](./rhinitis.md)
 - [감기·급성 상기도감염](./common-cold.md)
 - [목·가슴 증상 R07 안내](../symptom-herbal-guide/respiratory-ent/r07-throat-chest.md)
-- [호흡기·면역 허브](../pillar/respiratory-immune.md)
+- [호흡·비염 증상 허브](../symptom-integrated/respiratory-rhinitis.md)
 - [경맥→증상 지도](../acupoint-network/by-condition.md)
 
 ## 근거와 참고자료

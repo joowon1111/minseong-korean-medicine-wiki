@@ -165,7 +165,7 @@ last_reviewed: '2026-08-28'
 
 ## 관련 문서
 
-- [소화불량 임상 연결](../clinical-core/pathways/dyspepsia.md)
+- [소화불량 임상 심화](../symptom-clinical/dyspepsia.md)
 - [비위·담음 처방 구조](../formula-architecture/spleen-phlegm-family.md)
 - [복부·골반 통증 R10 안내](../symptom-herbal-guide/digestive/r10-abdominal-pelvic-pain.md)
 - [복부 팽만 R14 안내](../symptom-herbal-guide/digestive/r14-bloating.md)

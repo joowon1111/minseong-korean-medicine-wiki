@@ -80,7 +80,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 |---|---|
 | 음허화왕·허열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | 기음부족 + 심화·소변 문제 | [청심연자음](../formulas/qingxin-lianzi-yin.md) |
-| 신음허 | [육미지황환](<../formulas/liu wei dihuang wan.md>) |
+| 신음허 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | 신양허 | [팔미지황환](../formulas/bawei-dihuang-wan.md) |
 
 ## 습·수분대사
@@ -296,4 +296,3 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 
 → [본초 찾기](herbs.md)  
 → [증상·치법으로 방제 찾기](by-symptom-treatment.md)
-
