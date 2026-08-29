@@ -23,3 +23,10 @@ description: 황제내경·난경·상한론·금궤요략·의학입문·경악
 → [방제 구조](../formula-architecture/index.md)
 → [경락·경맥](../meridian-network/index.md)
 → [고전→현대 연구](../network/classic-to-evidence-map.md)
+
+## 근현대 한국 한의학 임상서
+
+전통 고전이 근현대 한국의 실제 진료와 기록 속에서 어떻게 계승됐는지는 별도 영역에서 살펴봅니다.
+
+- [청강의감](cheonggang-uigam.md) — 김영훈의 의학사상·병증·처방·가감·치험례
+- [근현대 한국 한의학 임상서](../modern-korean-medicine/index.md)
