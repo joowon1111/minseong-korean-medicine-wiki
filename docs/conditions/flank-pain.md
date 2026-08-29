@@ -136,6 +136,5 @@ last_reviewed: '2026-08-29'
 ## 근거와 참고자료
 
 - American College of Radiology. [ACR Appropriateness Criteria® Acute Onset Flank Pain—Suspicion of Stone Disease](https://acsearch.acr.org/docs/69362/Narrative/).
-- World Health Organization. [WHO guidelines for the management of symptomatic sexually transmitted infections: pyelonephritis and urinary tract infection considerations](https://www.who.int/publications/i/item/9789240024168).
 - Chen HT, et al. Acupuncture for renal colic: systematic review and meta-analysis. PMID [35832526](https://pubmed.ncbi.nlm.nih.gov/35832526/).
 - Qu Z, et al. Acupuncture for acute renal colic: meta-analysis of randomized controlled trials. PMID [36698826](https://pubmed.ncbi.nlm.nih.gov/36698826/).
