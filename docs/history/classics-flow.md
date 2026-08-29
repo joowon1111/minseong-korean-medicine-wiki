@@ -20,6 +20,7 @@ last_reviewed: 2026-08-29
 | [동의보감](../classics/donguibogam.md) | 조선 한의학 지식의 체계적 집대성 |
 | [경악전서](../classics/jingyue-quanshu.md) | 음양·장부·허손·보법·잡증·본초·방제 |
 | [온병조변](../classics/wenbing-tiaobian.md) | 삼초변증과 온열성 병증의 전변·치법 |
+| [청강의감](../classics/cheonggang-uigam.md) | 장기간 진료기록을 바탕으로 한 근현대 한국 임상과 처방 운용 |
 | [동의수세보원](../classics/donguisusebowon.md) | 사상의학과 체질별 치료 |
 
 ## 무엇부터 읽을까?
@@ -32,4 +33,5 @@ last_reviewed: 2026-08-29
 - 한국 한의학은 동의보감
 - 허손·보법과 잡증은 경악전서
 - 온병학은 온병조변
+- 근현대 한국 임상은 청강의감
 - 체질의학은 동의수세보원
