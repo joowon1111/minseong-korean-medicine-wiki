@@ -24,10 +24,11 @@ description: 황제내경·난경·상한론·금궤요략·의학입문·경악
 → [경락·경맥](../meridian-network/index.md)
 → [고전→현대 연구](../network/classic-to-evidence-map.md)
 
-## 근현대 한국 한의학 임상서
+## 한국 한의학 임상서·처방서
 
-전통 고전이 근현대 한국의 실제 진료와 기록 속에서 어떻게 계승됐는지는 별도 영역에서 살펴봅니다.
+전통 의학 지식이 한국에서 처방서·원전 해석·진료기록으로 어떻게 계승됐는지는 별도 영역에서 살펴봅니다.
 
+- [방약합편](../bangyakhappyeon-network/index.md) — 조선 후기의 처방·본초 임상 탐색 체계
 - [소문대요](somun-daeyo.md) — 이규준의 소문 교정·주석과 부양론·기혈론
 - [청강의감](cheonggang-uigam.md) — 김영훈의 의학사상·병증·처방·가감·치험례
-- [근현대 한국 한의학 임상서](../modern-korean-medicine/index.md)
+- [한국 한의학 임상서·처방서](../modern-korean-medicine/index.md)
