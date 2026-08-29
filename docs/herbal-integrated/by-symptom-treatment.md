@@ -20,7 +20,7 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 | 노권·기혈구상 | 조화기혈·보허 | [쌍화탕](../formulas/ssanghwa-tang.md) |
 | 기혈양허·허손 | 온보기혈 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | 기음양허·진액손상 | 익기생진 | [생맥산](../formulas/shengmai-san.md) |
-| 신음허 | 자보신음 | [육미지황환](<../formulas/liu wei dihuang wan.md>) |
+| 신음허 | 자보신음 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | 신양허 | 온보신양 | [팔미지황환](../formulas/bawei-dihuang-wan.md) |
 
 **빠른 감별:** `보중익기탕 ↔ 귀비탕 ↔ 쌍화탕 ↔ 십전대보탕`은 모두 피로에 쓰일 수 있지만 **중기하함 / 심비양허 / 노권 / 기혈양허**가 갈림점입니다.
