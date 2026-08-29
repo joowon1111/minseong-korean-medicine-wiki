@@ -35,7 +35,7 @@ hide:
 ## 처음 방문하셨나요?
 
 어떤 분야인지 잘 모르겠다면 **상단 검색창에 궁금한 증상이나 처방 이름을 그대로 입력**하세요.
-전문용어를 몰라도 [증상으로 찾기](symptom-integrated/)에서 시작할 수 있습니다. 진단명이나 의심 질환을 알고 있다면 [질환별 보기](conditions/)로 이동하고, 체질과 평소 소증을 함께 살피려면 [사상의학 증상으로 찾기](sasang-symptoms/index.md)를 이용하세요.
+전문용어를 몰라도 [증상으로 찾기](symptom-integrated/index.md)에서 시작할 수 있습니다. 진단명이나 의심 질환을 알고 있다면 [질환별 보기](conditions/index.md)로 이동하고, 체질과 평소 소증을 함께 살피려면 [사상의학 증상으로 찾기](sasang-symptoms/index.md)를 이용하세요.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

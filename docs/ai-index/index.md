@@ -247,11 +247,11 @@ AI와 검색엔진이 환자의 질문 의도를 직접 이해할 수 있도록 
 ## 관련 핵심 문서
 
 - [아카이브 안내](/guide/)
-- [증상·질환](../symptom-integrated/)
-- [증상 기반 한약 탐색](../symptom-herbal-guide/)
-- [본초·방제](../herbs/)
-- [근거 가이드](../evidence-guide/)
-- [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas/)
+- [증상·질환](../symptom-integrated/index.md)
+- [증상 기반 한약 탐색](../symptom-herbal-guide/index.md)
+- [본초·방제](../herbs/index.md)
+- [근거 가이드](../evidence-guide/index.md)
+- [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)
 
 ## 관련 핵심 허브
 

@@ -15,4 +15,4 @@ GB20 풍지 · GB21 견정 · GB30 환도 · GB34 양릉천 · GB39 현종 · GB
 표리경 관계, 특정혈 체계, 국소 해부학, 변증과 배혈을 함께 살펴봅니다.
 
 → [십이경맥 전체](index.md)
-→ [경혈 임상 지식망](../../acupoint-network/)
+→ [경혈 임상 지식망](../../acupoint-network/index.md)

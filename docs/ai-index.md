@@ -262,7 +262,7 @@ tags:
 ## 임상 핵심 3대 지식망
 - [본초학 임상 지식망](herbs/index.md)
 - [방제학 임상 지식망](formulas/index.md)
-- [경혈 임상 지식망](acupoint-network/)
+- [경혈 임상 지식망](acupoint-network/index.md)
 - [본초·방제·경혈 통합 허브](clinical-core/index.md)
 <!-- THREE_CORE_AI_18_END -->
 
