@@ -81,8 +81,8 @@ hide:
 | 살펴볼 내용 | 바로가기 |
 |---|---|
 | 음양·오행·장부·기혈진액 | [한의학 기초 통합 허브](../foundations-integrated/index.md) |
-| 병인·병기와 변증 | [병인병기·변증](../foundations-integrated/pathogenesis-patterns.md) |
-| 사진과 진찰 | [한의 진찰과 사진](../foundations-integrated/diagnosis-four-exams.md) |
+| 병인·병기와 변증 | [병인병기·변증](../foundations-integrated/etiology-pathogenesis.md) |
+| 사진과 진찰 | [한의 진찰과 사진](../foundations-integrated/diagnosis.md) |
 | 변증에서 치법으로 | [변증→치법 지도](../pattern-treatment/overview-map.md) |
 | 임상적 판단 과정 | [임상추론](../clinical-reasoning/index.md) |
 | 위험신호와 안전 | [임상 안전성](../clinical-safety/index.md) |
@@ -194,5 +194,5 @@ hide:
 - [통합 지식 그래프](../network/integrated-knowledge-graph.md)
 - [핵심 주제 허브](../pillar/index.md)
 - [태그 지식 색인](../tags.md)
-- [사이트 검색 안내](../search-guide/index.md)
+- [사이트 검색 안내](../search-guide.md)
 - [AI 검색 구조](../ai-index.md)
