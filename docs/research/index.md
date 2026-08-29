@@ -1,45 +1,47 @@
 ---
-title: 현대 연구 유형별 자료실
-description: 한의학 관련 현대 연구를 임상시험·체계적 문헌고찰·메타분석·관찰연구·기전연구·참고문헌의 층위로 탐색합니다.
-tags: [현대연구, 임상근거]
+title: 현대 연구 데이터베이스
+description: 한의학 관련 RCT·체계적 문헌고찰·메타분석·기전연구·한약처방 연구와 PMID·DOI 참고문헌을 연구유형별로 탐색합니다.
+tags: [현대연구, 임상근거, RCT, 메타분석, PMID, DOI]
 status: 검토완료
-last_reviewed: 2026-08-29
+last_reviewed: '2026-08-29'
 ---
-# 현대 연구 유형별 자료실
+# 현대 연구 데이터베이스
 
-이 세부 자료실은 한의학 연구를 단순 결론이 아니라 **연구 질문·설계·대상·중재·비교군·결과지표·안전성·임상 적용 가능성**의 순서로 읽도록 연결합니다.
+이 영역은 연구설계를 반복 설명하는 곳이 아니라 **RCT·체계적 문헌고찰·메타분석·기전연구·한약처방 연구와 PMID·DOI를 실제로 찾는 자료실**입니다.
 
-## 연구 유형별 탐색
+연구유형의 의미는 [한의학 근거 읽는 법](../evidence-guide/index.md), 완성된 질환·치료 요약은 [출처·근거 카드](../authority/index.md)에서 확인합니다.
 
-- [RCT](rct-index.md)
-- [체계적 문헌고찰·메타분석](meta-analysis-index.md)
-- [기전·전임상 연구](mechanism-preclinical-index.md)
-- [질환별 임상 근거 허브](clinical-evidence-hub.md)
+## 연구유형별 찾기
+
+| 찾는 자료 | 데이터베이스 |
+|---|---|
+| 무작위 임상시험 | [RCT 목록](rct-index.md) |
+| 체계적 문헌고찰·메타분석 | [메타분석 목록](meta-analysis-index.md) |
+| 기전·전임상 연구 | [기전·전임상 목록](mechanism-preclinical-index.md) |
+| 연구유형 전체 보기 | [연구유형별 색인](by-study-type.md) |
+| PMID·DOI와 전체 출처 | [참고문헌 데이터베이스](references/index.md) |
+
+## 임상 분야별 찾기
+
+- [질환별 임상근거 허브](clinical-evidence-hub.md)
 - [한약 처방 임상근거](formulas/index.md)
-- [PMID·DOI 참고문헌](references/index.md)
+- [질환별 현대 임상근거 카드](../authority/conditions/index.md)
+- [한약·처방 현대 임상근거](../authority/formulas/herbal-formula-evidence-hub.md)
+- [침·전침·약침 현대 임상근거](../evidence-integrated/acupuncture-evidence.md)
 
-## 연구를 읽는 순서
+## 한약 처방별 연구
 
-1. 어떤 환자와 질문을 다루는가
-2. 어떤 치료를 어떤 용량·횟수로 사용했는가
-3. 무엇과 비교했는가
-4. 어떤 증상·기능·삶의 질 지표를 평가했는가
-5. 효과크기와 불확실성은 어떠한가
-6. 이상반응과 중도탈락은 어떠한가
-7. 실제 임상과 얼마나 비슷한가
+[공진단](formulas/gongjin-dan.md) · [경옥고](formulas/gyeongok-go.md) · [십전대보탕](formulas/sipjeondaebo-tang.md) · [생맥산](formulas/shengmai-san.md) · [육군자탕](formulas/rikkunshito.md) · [귀비탕](formulas/guibi-tang.md) · [보중익기탕](formulas/buzhong-yiqi-tang.md) · [독활기생탕](formulas/duhuo-jisheng-tang.md)
 
-## 한약 연구
+## 데이터베이스 표준 항목
 
-처방명만 같아도 구성·제형·용량·복용기간이 다를 수 있으므로 연구 간 차이를 확인합니다.
+제목·저자·발표연도·연구유형·대상자 수·질환·치료 유형·처방과 제형 또는 시술 프로토콜·비교군·치료기간·주요 임상결과·안전성·PMID·DOI를 확인합니다.
 
-## 침구 연구
+## 다른 근거 영역과의 관계
 
-경혈 조합, 자침깊이, 유침시간, 전침·수기자극, 치료 횟수와 비교군을 함께 봅니다.
-
-## 전통문헌과 현대연구
-
-고전의 병증과 현대 질환명을 일대일로 동일시하지 않고 **증상군·병증·치법**을 매개로 연결합니다.
-
-- [전통지식·현대근거 통합 임상 지도](../evidence-integrated/index.md)
-- [질환별 현대 임상근거](../authority/conditions/index.md)
-- [고전→현대 연구 연결](../network/classic-to-evidence-map.md)
+| 영역 | 역할 |
+|---|---|
+| [근거 읽는 법](../evidence-guide/index.md) | 연구유형과 논문 해석의 표준 |
+| [출처·근거 카드](../authority/index.md) | 질환·치료별 핵심 근거 요약 |
+| 현대 연구 데이터베이스 | 연구와 PMID·DOI의 상세 목록 |
+| [임상 적용 심화](../evidence-clinical/index.md) | 연구 결과를 치료계획과 재평가로 연결 |
