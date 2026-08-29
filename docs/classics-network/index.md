@@ -11,6 +11,7 @@ last_reviewed: 2026-08-22
 - [황제내경](huangdi-neijing.md)
 - [상한론](shanghan-lun.md)
 - [금궤요략](jingui-yaolue.md)
+- [의학입문](uihak-ipmun.md)
 - [동의보감](donguibogam.md)
 - [동의수세보원](donguisusebowon.md)
 

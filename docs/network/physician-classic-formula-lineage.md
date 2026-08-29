@@ -1,9 +1,9 @@
 ---
 title: 의가·고전·처방 계보
-description: 장중경·이동원·손사막·허준·이제마를 대표 고전과 처방·체질 체계로 연결한 한의학 역사 지식망입니다.
+description: 장중경·이동원·손사막·이천·허준·이제마를 대표 고전과 처방·체질 체계로 연결한 한의학 역사 지식망입니다.
 tags: [한의학지식망, 의가, 고전, 방제, 의학사]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-08-29
 ---
 
 # 의가·고전·처방 계보
@@ -32,6 +32,10 @@ last_reviewed: 2026-08-19
    └─ 풍한습비 + 간신·기혈허
       └─ 독활기생탕
 
+이천
+└─ 의학입문
+   └─ 기초·진단·본초·상한·내상·잡병·침구
+
 허준
 └─ 동의보감
    ├─ 공진단
@@ -46,11 +50,12 @@ last_reviewed: 2026-08-19
       └─ 소음인
 ```
 
-## 다섯 개의 핵심 계보
+## 주요 의가와 고전의 핵심 계보
 
 - [장중경 계보](zhang-zhongjing-lineage.md)
 - [이동원 계보](li-dongyuan-lineage.md)
 - [손사막 계보](sun-simiao-lineage.md)
+- [의학입문](../classics/uihak-ipmun.md)
 - [허준 계보](heo-jun-lineage.md)
 - [이제마 계보](lee-je-ma-lineage.md)
 
