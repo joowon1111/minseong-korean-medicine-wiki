@@ -1329,8 +1329,17 @@ nav:
       - 신양(腎陽): glossary/kidney-yang.md
       - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
       - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
-  - 근현대 한국 한의학 임상서:
+  - 한국 한의학 임상서·처방서:
     - modern-korean-medicine/index.md
+    - 방약합편 임상 지식망:
+      - bangyakhappyeon-network/index.md
+      - 방약합편이란: bangyakhappyeon-network/what-is-bangyakhappyeon.md
+      - 상통·중통·하통: bangyakhappyeon-network/sang-jung-ha.md
+      - 손익본초·약성가: bangyakhappyeon-network/boncho-yakseongga.md
+      - 칠방·십제: bangyakhappyeon-network/seven-formulas-ten-agents.md
+      - 처방 탐색법: bangyakhappyeon-network/clinical-navigation.md
+      - 동의보감과 방약합편 비교: bangyakhappyeon-network/donguibogam-comparison.md
+      - 방약합편→현대 임상 지도: bangyakhappyeon-network/integrated-map.md
     - 소문대요: classics/somun-daeyo.md
     - 석곡 이규준: physicians/lee-gyujun.md
     - 청강의감: classics/cheonggang-uigam.md
@@ -1411,15 +1420,6 @@ nav:
     - 온열론과 온병조변: wenbing-network/classic-texts.md
     - 상한론과 온병학 비교: wenbing-network/shanghan-comparison.md
     - 온병학→현대 한의학 지도: wenbing-network/integrated-map.md
-  - 방약합편 핵심 지식망:
-    - bangyakhappyeon-network/index.md
-    - 방약합편이란: bangyakhappyeon-network/what-is-bangyakhappyeon.md
-    - 상통·중통·하통: bangyakhappyeon-network/sang-jung-ha.md
-    - 손익본초·약성가: bangyakhappyeon-network/boncho-yakseongga.md
-    - 칠방·십제: bangyakhappyeon-network/seven-formulas-ten-agents.md
-    - 처방 탐색법: bangyakhappyeon-network/clinical-navigation.md
-    - 동의보감과 방약합편 비교: bangyakhappyeon-network/donguibogam-comparison.md
-    - 방약합편→현대 임상 지도: bangyakhappyeon-network/integrated-map.md
 - 민성한의원 ↗: https://www.minseong.co.kr/
 not_in_nav: '/ai-index.md
 
