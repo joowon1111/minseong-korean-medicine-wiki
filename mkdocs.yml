@@ -941,18 +941,21 @@ nav:
           - 오수유부자이중탕: sasang-formula-library/osuyubujairijung-tang.md
           - 궁귀총소이중탕: sasang-formula-library/gunggwichongsoijung-tang.md
 - 연구·근거:
-  - 연구·근거 한눈에 보기: evidence-integrated/index.md
-  - 근거 수준 읽기: evidence-integrated/evidence-levels.md
+  - 연구·근거 안내: portal/evidence.md
+  - 질환별 현대 임상근거: authority/conditions/index.md
+  - 한약·처방 임상근거: authority/formulas/herbal-formula-evidence-hub.md
+  - 침·전침·약침 임상근거: evidence-integrated/acupuncture-evidence.md
   - 논문·PMID·DOI 찾기: evidence-integrated/find-research.md
-  - 한약 연구: evidence-integrated/herbal-evidence.md
-  - 침구 연구: evidence-integrated/acupuncture-evidence.md
-  - 사상의학 연구: evidence-integrated/sasang-evidence.md
-  - 고전·전통자료: evidence-integrated/classical-sources.md
-  - 임상에 적용하기: evidence-integrated/clinical-application.md
-  - 상세 자료실:
-    - portal/evidence.md
-    - 근거 읽는 법:
-      - evidence-guide/index.md
+  - 전통지식과 현대근거 연결: evidence-integrated/index.md
+  - 근거 읽는 법: evidence-guide/index.md
+  - 세부 근거 자료:
+    - 치료·전통지식 근거:
+      - 근거 수준 읽기: evidence-integrated/evidence-levels.md
+      - 한약 연구: evidence-integrated/herbal-evidence.md
+      - 사상의학 연구: evidence-integrated/sasang-evidence.md
+      - 고전·전통자료: evidence-integrated/classical-sources.md
+      - 근거를 임상에 적용하기: evidence-integrated/clinical-application.md
+    - 근거 읽는 법 세부:
       - 전통 문헌과 현대 연구: evidence-guide/tradition-modern.md
       - 전임상·기전 연구: evidence-guide/preclinical.md
       - 임상시험 RCT: evidence-guide/rct.md
@@ -962,7 +965,6 @@ nav:
     - 출처·근거 허브:
       - authority/index.md
       - 질환별 현대 근거 카드:
-        - authority/conditions/index.md
         - 불면: authority/insomnia.md
         - 요통: authority/low-back-pain.md
         - 기능성 소화불량: authority/conditions/functional-dyspepsia.md
