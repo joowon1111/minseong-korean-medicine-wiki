@@ -1,9 +1,9 @@
 ---
 title: 한의학 고전·역사 허브
-description: 황제내경·상한론·금궤요략·비위론·동의보감·동의수세보원과 주요 의가를 역사적으로 연결합니다.
+description: 황제내경·상한론·금궤요략·비위론·의학입문·동의보감·동의수세보원과 주요 의가를 역사적으로 연결합니다.
 tags: [Pillar, 한의학지식망, AEO]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-08-29
 ---
 # 한의학 고전·역사 허브
 
@@ -16,6 +16,8 @@ last_reviewed: 2026-08-19
  ↓
 이동원 ─ 비위론
  ↓
+이천 ─ 의학입문
+ ↓
 허준 ─ 동의보감
  ↓
 이제마 ─ 동의수세보원
@@ -26,6 +28,7 @@ last_reviewed: 2026-08-19
 - [금궤요략](../classics/jinkui-yaolue.md)
 - [비급천금요방](../classics/beiji-qianjin-yaofang.md)
 - [비위론](../classics/piwei-lun.md)
+- [의학입문](../classics/uihak-ipmun.md)
 - [동의보감](../classics/donguibogam.md)
 - [동의수세보원](../classics/donguisusebowon.md)
 
