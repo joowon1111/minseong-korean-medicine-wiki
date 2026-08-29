@@ -30,7 +30,7 @@ hide:
 <a href="conditions/restless-legs-syndrome/">하지불안</a>
 <a href="conditions/edema-swelling/">붓기·부종</a>
 <a href="symptom-integrated/digestive/">소화</a>
-<a href="sasang/">사상체질</a>
+<a href="sasang-integrated/">사상체질</a>
 </div>
 ## 처음 방문하셨나요?
 
