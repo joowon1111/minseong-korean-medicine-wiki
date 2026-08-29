@@ -21,8 +21,6 @@ last_reviewed: "2026-08-29"
 6. **지식 연결:** 증상·질환·변증·치료·본초·방제·경혈·근거를 적절한 내부 링크로 연결합니다.
 7. **출처 추적:** 현대 연구는 연구유형·대상·평가지표와 PMID·DOI를 가능한 범위에서 기록합니다.
 
-Google 역시 검색 순위 조작을 위한 콘텐츠보다 사람에게 유용하고 신뢰할 수 있는 콘텐츠를 우선하도록 안내합니다.
-
 ## 문서 유형과 검색 의도
 
 새 문서를 만들기 전에 사용자가 무엇을 알고 싶은지와 기존 대표 문서가 있는지를 먼저 확인합니다.
@@ -172,7 +170,7 @@ AI로 초안을 만들거나 대량 보강한 경우에도 정확성·관련성�
 - 내부 링크는 크롤러가 따라갈 수 있는 일반 링크로 제공합니다.
 - 새 문서와 변경 문서는 사이트맵·검색 색인에 반영되는지 확인합니다.
 
-Google이 지원하는 구조화 데이터 유형과 필수 속성을 확인한 뒤 적용하고 Rich Results Test로 검증합니다.
+구조화 데이터는 실제 페이지 유형과 필수 속성을 확인한 뒤 적용하고, 배포 전후에 본문과 일치하는지 검증합니다.
 
 ## 배포 전 점검표
 
@@ -187,15 +185,6 @@ Google이 지원하는 구조화 데이터 유형과 필수 속성을 확인한 
 - [ ] 연구의 대상·설계·결과·PMID·DOI를 확인했는가?
 - [ ] 구조화 데이터가 보이는 본문과 일치하는가?
 - [ ] MkDocs 전체 빌드와 공개 페이지를 확인했는가?
-
-## 공식 참고자료
-
-- [유용하고 신뢰할 수 있는 사람 우선 콘텐츠](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
-- [검색결과 제목 작성 기준](https://developers.google.com/search/docs/appearance/title-link)
-- [메타 설명과 검색결과 스니펫](https://developers.google.com/search/docs/appearance/snippet)
-- [크롤링 가능한 링크 권장사항](https://developers.google.com/search/docs/crawling-indexing/links-crawlable)
-- [구조화 데이터 일반 지침](https://developers.google.com/search/docs/appearance/structured-data/sd-policies)
-- [생성형 AI 콘텐츠 활용 안내](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content)
 
 ## 관련 문서
 
