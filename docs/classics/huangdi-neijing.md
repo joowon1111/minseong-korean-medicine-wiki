@@ -63,4 +63,5 @@ last_reviewed: 2026-08-29
 - [사진·진단](../neijing-network/diagnosis.md)
 - [경락과 경맥](../neijing-network/meridian-concepts.md)
 - [치미병과 예방](../neijing-network/prevention.md)
+- [소문대요](somun-daeyo.md) — 한국 근대 의가 이규준의 소문 선별·교정과 주석
 - [황제내경 탐색](../classics-network/huangdi-neijing.md)
