@@ -1,6 +1,6 @@
 ---
 title: 한의학 고전·역사 허브
-description: 황제내경·난경·상한론·금궤요략·의학입문·동의보감·경악전서·온병조변·동의수세보원과 주요 의가를 역사적으로 연결합니다.
+description: 황제내경·난경·상한론·금궤요략부터 동의보감·방약합편·소문대요·청강의감·동의수세보원까지 주요 고전과 한국 임상서를 역사적으로 연결합니다.
 tags: [Pillar, 한의학지식망, AEO]
 status: 검토완료
 last_reviewed: 2026-08-29
@@ -17,11 +17,12 @@ last_reviewed: 2026-08-29
 | 조선 의학 집대성 | [동의보감](../classics/donguibogam.md) | 내경·외형·잡병·탕액·침구 |
 | 명대 종합 임상 | [경악전서](../classics/jingyue-quanshu.md) | 허손·보법·잡증·본초·방제 |
 | 청대 온병학 | [온병조변](../classics/wenbing-tiaobian.md) | 삼초변증·위기영혈·온병 치법 |
+| 조선 후기 임상 처방 정리 | [방약합편](../bangyakhappyeon-network/index.md) | 상·중·하통·손익본초·약성가를 통한 처방·본초 탐색 |
 | 근대 한국의 원전 해석 | [소문대요](../classics/somun-daeyo.md) · [이규준](../physicians/lee-gyujun.md) | 소문 교정·주석·부양론·기혈론 |
 | 근현대 한국 임상 | [청강의감](../classics/cheonggang-uigam.md) · [김영훈](../physicians/kim-young-hoon.md) | 진료기록·병증·처방·가감·치험례 |
 | 사상의학 | [동의수세보원](../classics/donguisusebowon.md) | 체질·소증·체질병증·처방 |
 
-고전이 근현대 임상으로 이어진 흐름은 [근현대 한국 한의학 임상서](../modern-korean-medicine/index.md)에서 살펴봅니다.
+고전이 한국의 처방 정리와 근현대 임상으로 이어진 흐름은 [한국 한의학 임상서·처방서](../modern-korean-medicine/index.md)에서 살펴봅니다.
 
 함께 보면 좋은 고전으로 [비급천금요방](../classics/beiji-qianjin-yaofang.md)과 [비위론](../classics/piwei-lun.md)이 있습니다.
 
