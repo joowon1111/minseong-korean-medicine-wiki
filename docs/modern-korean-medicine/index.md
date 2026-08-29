@@ -16,7 +16,16 @@ last_reviewed: 2026-08-29
 
 `전통 고전 → 의가의 임상 해석 → 진료기록과 처방 → 근현대 한국 한의학`
 
-## 첫 번째 핵심 문헌
+## 핵심 문헌
+
+### [소문대요](../classics/somun-daeyo.md)
+
+석곡 이규준이 《황제내경·소문》을 선별·교정하고 부양론·기혈론·맥진·병기 해석을 더한 한국 근대 의서입니다.
+
+- 황제내경 원문과 한국 의가의 재해석
+- 부양론·기혈론·신유양장변
+- 장부·경락·운기·맥진
+- 원전 교정과 근현대 이론 형성
 
 ### [청강의감](../classics/cheonggang-uigam.md)
 
@@ -41,6 +50,7 @@ last_reviewed: 2026-08-29
 
 ## 관련 문서
 
+- [석곡 이규준](../physicians/lee-gyujun.md)
 - [청강 김영훈](../physicians/kim-young-hoon.md)
 - [한의학 고전 탐색 네트워크](../classics-network/index.md)
 - [의가·고전·처방 계보](../network/physician-classic-formula-lineage.md)
