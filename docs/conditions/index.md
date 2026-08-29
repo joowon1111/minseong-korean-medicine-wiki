@@ -1,5 +1,5 @@
 ---
-title: 질환·증상
+title: 질환별 보기
 description: 환자가 실제로 사용하는 증상·생활언어에서 R-code 증상군, 관련 질환, 위험신호·감별, 한의학적 변증, 본초·방제, 침구치료와 현대 임상근거까지 연결하는 민성 한의학 아카이브의 증상·질환 핵심 허브입니다.
 tags:
 - 질환
@@ -8,16 +8,78 @@ tags:
 - 한약
 - 현대근거
 status: 검토완료
-last_reviewed: '2026-08-28'
+last_reviewed: '2026-08-29'
 ---
 
-# 질환·증상
+# 질환별 보기
 
-질환명을 정확히 몰라도 괜찮습니다. **“속이 더부룩해요”, “잠이 안 와요”, “기침이 오래가요”, “계속 피곤해요”, “소변이 자주 마려워요”**처럼 실제 불편한 표현에서 시작해 관련 질환과 한의학적 진료·근거 자료까지 탐색할 수 있습니다.
+이 페이지는 진단명이나 의심 질환을 기준으로 검사·위험신호·감별과 한의학적 치료를 깊이 찾아보는 **질환별 심화 허브**입니다. 병명을 모르고 **“아파요·저려요·부어요·잠이 안 와요”**처럼 불편한 표현만 알고 있다면 [증상으로 찾기](../symptom-integrated/index.md)에서 시작하세요.
 
 민성 한의학 아카이브는 현재 다음 흐름으로 증상과 질환을 연결합니다.
 
 `환자 표현 → 증상군 → 관련 질환 → 위험신호·감별 → 한의학적 변증 → 본초·방제 → 경혈·침구치료 → 현대 임상근거`
+
+## 최신 질환 심화 문서 빠른 찾기
+
+오늘까지 확장한 주요 문서를 환자가 많이 찾는 분야별로 먼저 모았습니다. 아래 목록은 핵심 심화 문서이며, 더 세부적인 생활 증상과 치료 질문은 페이지 아래의 전체 상세 문서에서 찾을 수 있습니다.
+
+### 통증·근골격
+
+- [요통·허리가 아파요](low-back-pain.md)
+- [등통증·흉추통증](thoracic-back-pain.md)
+- [옆구리통증](flank-pain.md)
+- [목통증·경항통](neck-pain.md)
+- [턱관절통증·입 벌릴 때 턱이 아파요](temporomandibular-disorder.md)
+- [어깨통증](shoulder-pain.md)
+- [손목통증·엄지쪽 손목이 아파요](wrist-pain.md)
+- [무릎통증](knee-pain.md)
+- [발목통증](ankle-pain.md)
+- [두통](headache.md)
+
+### 신경·감각·순환 증상
+
+- [어지럼](dizziness.md)
+- [이명](tinnitus.md)
+- [손발저림·팔다리가 저려요](limb-numbness.md)
+- [다리에 쥐가 나요·근육경련](muscle-cramps.md)
+- [하지불안증후군·밤에 다리가 불편해요](restless-legs-syndrome.md)
+- [수족냉증·손발이 차가워요](cold-hands-feet.md)
+- [붓기·부종·몸이 자주 부어요](edema-swelling.md)
+- [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md)
+
+### 수면·피로·회복
+
+- [불면증·수면장애](insomnia.md)
+- [불안·과도한 걱정](anxiety.md)
+- [만성피로](chronic-fatigue.md)
+- [수술 후 회복·기력저하](postoperative-recovery.md)
+- [주요 5대암 수술 후 회복관리](gastric-cancer-gastrectomy-recovery.md)
+- [퇴원 후 회복·장기입원 후 기력저하](post-hospitalization-recovery.md)
+
+### 소화·호흡·피부
+
+- [소화불량](dyspepsia.md)
+- [과민성장증후군](ibs.md)
+- [복부팽만·가스](bloating.md)
+- [비염](rhinitis.md)
+- [기침](cough.md)
+- [감기·급성 상기도감염](common-cold.md)
+- [대상포진](shingles.md)
+- [대상포진 후 신경통](postherpetic-neuralgia.md)
+
+### 여성·임신·산후
+
+- [난임·임신준비](infertility-preconception.md)
+- [생리통·월경통](dysmenorrhea.md)
+- [월경불순·생리불순](irregular-menstruation.md)
+- [다낭성난소증후군](polycystic-ovary-syndrome.md)
+- [갱년기](menopause.md)
+- [산후회복](postpartum-recovery.md)
+
+### 검사·대사·신장
+
+- [만성콩팥병·크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
+- [당뇨병성 콩팥병·미세알부민뇨](diabetic-kidney-disease.md)
 
 ## 어디서부터 찾을까요?
 
