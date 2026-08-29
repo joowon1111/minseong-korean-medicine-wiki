@@ -152,8 +152,8 @@ last_reviewed: '2026-08-24'
 
 같은 본초가 여러 처방에 들어가더라도 배합되는 약재와 용량, 처방 전체의 역할에 따라 의미가 달라집니다.
 
-→ [사상처방 배합 원리·공통본초](../sasang-formula-principles/index.md)  
-→ [사상처방 전체 색인·처방집](../sasang-formula-index/index.md)
+→ [사상처방 배합 원리·공통본초](../sasang-formula-combination-network/index.md)  
+→ [사상처방 전체 색인·처방집](../sasang-formula-library/index.md)
 
 ---
 
@@ -163,7 +163,7 @@ last_reviewed: '2026-08-24'
 
 아카이브의 구성·용량 자료는 **원전의 처방구조를 비교하고 이해하기 위한 전문 자료**이며, 환자가 스스로 조제하기 위한 복용 지침이 아닙니다.
 
-→ [사상처방 구성·용량 라이브러리](../sasang-formula-index/index.md)  
+→ [사상처방 구성·용량 라이브러리](../sasang-formula-dose-fingerprint/index.md)  
 → [동의수세보원](../sasang/donguisusebowon.md)
 
 ---
