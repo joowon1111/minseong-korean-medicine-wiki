@@ -1263,6 +1263,7 @@ nav:
       - 손사막: physicians/sun-simiao.md
       - 이동원: physicians/li-dongyuan.md
       - 이제마: physicians/lee-je-ma.md
+      - 청강 김영훈: physicians/kim-young-hoon.md
     - 한의학 고전:
       - classics/index.md
       - 황제내경: classics/huangdi-neijing.md
@@ -1310,6 +1311,7 @@ nav:
         - 공진단: classics/donguibogam/gongjin-dan.md
         - 경옥고: classics/donguibogam/gyeongok-go.md
       - 동의수세보원: classics/donguisusebowon.md
+      - 청강의감: classics/cheonggang-uigam.md
     - 질문으로 찾기:
       - faq/index.md
       - 보익·공진단·경옥고: faq/tonic-faq.md
@@ -1329,6 +1331,10 @@ nav:
       - 신양(腎陽): glossary/kidney-yang.md
       - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
       - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
+  - 근현대 한국 한의학 임상서:
+    - modern-korean-medicine/index.md
+    - 청강의감: classics/cheonggang-uigam.md
+    - 청강 김영훈: physicians/kim-young-hoon.md
   - 한의학 고전 비교·계보:
     - classics-network/index.md
     - 황제내경: classics-network/huangdi-neijing.md
