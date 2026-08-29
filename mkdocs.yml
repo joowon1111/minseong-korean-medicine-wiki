@@ -955,14 +955,14 @@ nav:
       - 사상의학 연구: evidence-integrated/sasang-evidence.md
       - 고전·전통자료: evidence-integrated/classical-sources.md
       - 근거를 임상에 적용하기: evidence-integrated/clinical-application.md
-    - 근거 읽는 법 세부:
+    - 연구설계별 근거 읽기:
       - 전통 문헌과 현대 연구: evidence-guide/tradition-modern.md
       - 전임상·기전 연구: evidence-guide/preclinical.md
       - 임상시험 RCT: evidence-guide/rct.md
       - 체계적 문헌고찰·메타분석: evidence-guide/systematic-review.md
       - PMID·DOI 읽는 법: evidence-guide/pmid-doi.md
       - 한의학 근거 계층 지도: evidence-guide/evidence-ladder.md
-    - 출처·근거 허브:
+    - 출처·근거 카드:
       - authority/index.md
       - 질환별 현대 근거 카드:
         - 불면: authority/insomnia.md
@@ -1128,11 +1128,8 @@ nav:
             - 보양환오탕: authority/formulas/buyang-huanwu-tang-poststroke.md
           - 비뇨생식:
             - 전열서통캡슐: authority/formulas/qianlieshutong-bph.md
-    - 현대 연구:
+    - 연구 데이터베이스:
       - research/index.md
-      - 임상시험 읽기: research/clinical-trials.md
-      - 체계적 문헌고찰 읽기: research/systematic-reviews.md
-      - 근거 수준: research/evidence-levels.md
       - 임상 근거 허브: research/clinical-evidence-hub.md
       - 한약 처방 임상근거:
         - research/formulas/index.md
@@ -1150,14 +1147,9 @@ nav:
         - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
         - 기전·전임상 연구: research/mechanism-preclinical-index.md
       - 참고문헌 데이터베이스: research/references/index.md
-    - 연구·근거 임상 해석 심화:
+    - 임상 적용 심화:
       - evidence-clinical/index.md
-      - 근거의 층위: evidence-clinical/evidence-levels.md
-      - 고전근거와 현대근거: evidence-clinical/classic-vs-modern.md
-      - 전임상·기전 연구 읽기: evidence-clinical/preclinical.md
-      - 증례·관찰연구 읽기: evidence-clinical/case-observational.md
-      - RCT 읽기: evidence-clinical/rct.md
-      - 체계적 문헌고찰·메타분석: evidence-clinical/systematic-review.md
+      - 증례·관찰연구의 임상적 의미: evidence-clinical/case-observational.md
       - 임상진료지침 읽기: evidence-clinical/guidelines.md
       - 한의학 연구의 해석 포인트: evidence-clinical/km-specific.md
       - 근거→임상 적용: evidence-clinical/evidence-to-practice.md
@@ -1438,6 +1430,22 @@ not_in_nav: '/ai-index.md
   /templates/herb-template.md
 
   /templates/research-template.md
+
+  /research/clinical-trials.md
+
+  /research/systematic-reviews.md
+
+  /research/evidence-levels.md
+
+  /evidence-clinical/evidence-levels.md
+
+  /evidence-clinical/classic-vs-modern.md
+
+  /evidence-clinical/preclinical.md
+
+  /evidence-clinical/rct.md
+
+  /evidence-clinical/systematic-review.md
 
   '
 validation:
