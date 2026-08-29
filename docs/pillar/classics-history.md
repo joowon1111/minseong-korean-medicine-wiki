@@ -17,6 +17,7 @@ last_reviewed: 2026-08-29
 | 조선 의학 집대성 | [동의보감](../classics/donguibogam.md) | 내경·외형·잡병·탕액·침구 |
 | 명대 종합 임상 | [경악전서](../classics/jingyue-quanshu.md) | 허손·보법·잡증·본초·방제 |
 | 청대 온병학 | [온병조변](../classics/wenbing-tiaobian.md) | 삼초변증·위기영혈·온병 치법 |
+| 근대 한국의 원전 해석 | [소문대요](../classics/somun-daeyo.md) · [이규준](../physicians/lee-gyujun.md) | 소문 교정·주석·부양론·기혈론 |
 | 근현대 한국 임상 | [청강의감](../classics/cheonggang-uigam.md) · [김영훈](../physicians/kim-young-hoon.md) | 진료기록·병증·처방·가감·치험례 |
 | 사상의학 | [동의수세보원](../classics/donguisusebowon.md) | 체질·소증·체질병증·처방 |
 
