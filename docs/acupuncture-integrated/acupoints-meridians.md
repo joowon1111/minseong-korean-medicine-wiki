@@ -17,9 +17,9 @@ last_reviewed: '2026-08-29'
 | 증상에서 경혈 찾기 | [통증·증상으로 침구치료 찾기](by-symptom.md) |
 | 경혈의 임상 활용과 배혈 | [경혈 임상 지식망](../acupoint-network/index.md) |
 | 12경맥·임맥·독맥의 경로 | [경락·경맥 지식망](../meridian-network/index.md) |
-| 오수혈·원혈·락혈·극혈·모혈·수혈 | [특정혈 분류](../acupoint-network/specific-points.md) |
-| 경혈과 근육·말초신경·초음파 | [경혈·초음파 통합지도](../acupoint-ultrasound-map/index.md) |
-| 정확한 취혈법 | [경혈 취혈법](../acupuncture/locating-points.md) |
+| 오수혈·원혈·락혈·극혈·모혈·수혈 | [특정혈 분류](../acupuncture-specific/special-points-atlas.md) |
+| 경혈과 근육·말초신경·초음파 | [경혈·초음파 통합지도](../musculoskeletal-ultrasound/acupoint-ultrasound-map.md) |
+| 정확한 취혈법 | [경혈 취혈법](../acupuncture/acupoint-writing-guide.md) |
 
 ## 12경맥과 임맥·독맥
 
@@ -76,12 +76,12 @@ last_reviewed: '2026-08-29'
 
 ## 경맥에서 더 확장하기
 
-- [12경근](../meridian-network/sinew-meridians.md)
-- [락맥](../meridian-network/collaterals.md)
-- [경별](../meridian-network/divergent-meridians.md)
+- [12경근](../acupuncture/treatment-principles.md)
+- [락맥](../meridian-network/special-points/luo-connecting.md)
+- [경별](../acupuncture/twelve-meridians.md)
 - [기경팔맥](../meridian-network/extraordinary-vessels.md)
-- [배혈 조합](../acupoint-network/pairing-strategies.md)
-- [오수혈·오행](../acupoint-network/five-shu.md)
+- [배혈 조합](../acupuncture-specific/pairing-principles.md)
+- [오수혈·오행](../meridian-network/special-points/five-shu.md)
 
 ## 부위별 안전 확인
 
@@ -94,7 +94,7 @@ last_reviewed: '2026-08-29'
 
 안전한 자침은 경혈 위치에 더해 체형과 자세, 시술 각도·깊이, 질환과 복용약을 확인하는 과정입니다.
 
-→ [침 치료 안전성과 임상해부학](../acupuncture-science/safety-anatomy.md)  
+→ [침 치료 안전성과 임상해부학](../acupuncture-science/safety.md)  
 → [침구치료 안전·위험신호](safety.md)
 
 ## 자주 묻는 질문
