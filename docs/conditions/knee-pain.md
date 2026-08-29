@@ -179,7 +179,7 @@ last_reviewed: '2026-08-28'
 
 ## 관련 문서
 
-- [무릎·하지 임상 연결](../clinical-core/pathways/knee-leg-pain.md)
+- [하지 근골격 현대 근거 지도](../authority/conditions/lower-limb-musculoskeletal-evidence-map.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [비증·근골격 처방](../formula-architecture/bi-syndrome-family.md)
 - [전신통증 R52 안내](../symptom-herbal-guide/systemic-skin/r52-generalized-pain.md)
