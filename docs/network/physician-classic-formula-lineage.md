@@ -1,6 +1,6 @@
 ---
 title: 의가·고전·처방 계보
-description: 장중경·이동원·손사막·이천·허준·이제마를 대표 고전과 처방·체질 체계로 연결한 한의학 역사 지식망입니다.
+description: 장중경·이동원·손사막·이천·허준·김영훈·이제마를 대표 고전과 처방·체질 체계로 연결한 한의학 역사 지식망입니다.
 tags: [한의학지식망, 의가, 고전, 방제, 의학사]
 status: 검토완료
 last_reviewed: 2026-08-29
@@ -41,6 +41,10 @@ last_reviewed: 2026-08-29
    ├─ 공진단
    └─ 경옥고
 
+김영훈
+└─ 청강의감
+   └─ 기혈·담·울·병증·처방·가감·치험례
+
 이제마
 └─ 동의수세보원
    └─ 사상의학
@@ -57,6 +61,8 @@ last_reviewed: 2026-08-29
 - [손사막 계보](sun-simiao-lineage.md)
 - [의학입문](../classics/uihak-ipmun.md)
 - [허준 계보](heo-jun-lineage.md)
+- [청강 김영훈](../physicians/kim-young-hoon.md)
+- [청강의감](../classics/cheonggang-uigam.md)
 - [이제마 계보](lee-je-ma-lineage.md)
 
 ## 이 지식망의 의미
