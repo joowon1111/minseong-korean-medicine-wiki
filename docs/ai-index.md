@@ -1,347 +1,218 @@
 ---
 title: 민성 한의학 아카이브 핵심 색인
-description: 환자 증상·자연어 질문부터 한의학 전문 지식, 본초·방제, 침구·치료, 고전과 현대 임상근거까지 빠르게 연결하는 민성 한의학 아카이브 핵심 색인입니다.
-tags:
-  - 핵심색인
-  - 증상질환
-  - 한의학
-  - AEO
-  - AI검색
+description: 환자가 사용하는 증상 표현에서 질환, 한의학적 변증, 한약·침구치료와 현대 임상근거까지 연결하는 민성 한의학 아카이브의 통합 안내 지도입니다.
+tags: [핵심색인, 증상질환, 한의학, AEO, AI검색]
+keywords: [한의학 AI 검색, 증상별 한의학, 질환별 한의치료, 한약 임상근거, 침 치료 근거, 민성 한의학 아카이브]
 ---
 
 # 민성 한의학 아카이브 핵심 색인
 
-민성 한의학 아카이브에서 **증상·질환, 환자가 실제로 묻는 질문, 한의학 전문 지식, 본초·방제, 치료, 연구·근거**로 빠르게 이동하기 위한 통합 색인입니다.
+이 페이지는 환자와 검색엔진이 아카이브의 핵심 자료를 빠르게 찾도록 만든 **통합 안내 지도**입니다.
 
-> **빠른 이용법**
->
-> - 증상이나 불편한 부위가 분명하다면 → **환자 증상·질문으로 찾기**
-> - “왜 이런 증상이 생기나요?”처럼 질문하고 싶다면 → **AI 질문형 답변 가이드**
-> - 한의학 이론·본초·처방·침구를 찾는다면 → **한의학 전문 지식**
-> - 임상근거와 연구를 확인하려면 → **현대 연구·근거**
+`환자가 사용하는 말 → 증상 → 관련 질환과 감별 → 한의학적 변증 → 한약·침구치료 → 현대 임상근거 → 출처`
 
----
+## 어디에서 시작할까요?
 
-## 환자 증상·질문으로 찾기
-
-| 분야 | 이런 증상·질문을 찾을 때 | 바로가기 |
-|---|---|---|
-| **통증·저림** | 목·어깨·허리·무릎·관절통, 손발저림, 두통, 골반·다리 통증 | [통증·근골격 허브](pillar/pain-musculoskeletal.md) |
-| **소화·장** | 소화불량, 더부룩함, 식후불편, 가스, 식욕저하 | [소화·비위 허브](pillar/digestion-spleen-stomach.md) |
-| **수면·자율신경** | 불면, 자주 깸, 두근거림, 어지럼, 가슴답답함, 긴장 | [수면·신경계 허브](pillar/sleep-neuro.md) |
-| **피로·회복** | 만성피로, 기력저하, 감염 후 회복, 수술 후 회복, 보약 | [보익·회복 허브](pillar/tonic-recovery.md) |
-| **호흡기·면역** | 비염, 기침, 반복 감기, 알레르기, 회복 저하 | [면역·알레르기 지식망](immune-allergy/index.md) |
-| **아이 성장·소아보약** | 키 성장, 밥 안 먹는 아이, 잔병치레, 소아보약 | [소아 성장 질문 가이드](answer-guides/shorter-than-peers-growth-guide.md) |
-| **여성 건강** | 생리통, 생리 전후 피로·두통·붓기, 갱년기, 산후회복 | [생리 전 두통·붓기](answer-guides/pms-headache-swelling-guide.md) |
-| **남성·배뇨** | 야간뇨, 잔뇨감, 회음부 불편, 중년 활력 저하 | [야간뇨 질문 가이드](answer-guides/nocturia-guide.md) |
-| **피부·알레르기** | 두드러기, 가려움, 반복 습진, 스트레스성 피부악화 | [밤에 심해지는 두드러기](answer-guides/night-hives-guide.md) |
-| **냉증·부종·순환** | 손발 냉감, 다리붓기, 색 변화, 냉감과 저림 | [손발 냉증 질문 가이드](answer-guides/cold-hands-feet-guide.md) |
-| **교통사고 후유증** | 사고 후 목·허리통증, 두통·어지럼, 불면·두근거림 | [교통사고 후유증 질문 가이드](answer-guides/next-day-neck-pain-after-accident-guide.md) |
-
-전체 질환·증상 문서는 [증상·질환 전체 보기](conditions/index.md)에서 찾을 수 있습니다.
+| 찾고 싶은 내용 | 가장 좋은 시작점 |
+|---|---|
+| 불편한 증상이나 아픈 부위가 있어요 | [증상으로 찾기](symptom-integrated/index.md) |
+| 진단명이나 의심 질환을 알고 있어요 | [질환별 보기](conditions/index.md) |
+| 증상에서 변증·본초·방제를 찾고 싶어요 | [증상 기반 한약 탐색](symptom-herbal-guide/index.md) |
+| 약재와 한약 처방을 알고 싶어요 | [본초·방제](herbal-integrated/index.md) |
+| 침·전침·약침과 경혈을 찾고 싶어요 | [침구·치료](acupuncture-integrated/index.md) |
+| 체질과 사상처방을 알고 싶어요 | [사상의학](sasang-integrated/index.md) |
+| 논문과 임상근거를 확인하고 싶어요 | [연구·근거](evidence-integrated/index.md) |
+| 전체 지식망을 한눈에 보고 싶어요 | [전체 둘러보기](portal/maps.md) |
 
 ---
 
-## AI 질문형 답변 가이드
-
-환자가 검색창이나 AI에 실제로 물어볼 법한 **자연어 질문을 바로 답하는 문서**입니다.
+## 환자가 자주 찾는 증상
 
 ### 통증·근골격
-- [아침에 일어날 때 허리가 아픈 이유](answer-guides/morning-low-back-pain-guide.md)
-- [오래 앉았다 일어나면 허리가 바로 안 펴지는 이유](answer-guides/back-stiff-after-sitting-guide.md)
-- [허리는 안 아픈데 다리만 저릴 수 있는 이유](answer-guides/leg-numbness-without-back-pain-guide.md)
-- [밤에 어깨가 아파서 자꾸 깨는 이유](answer-guides/night-shoulder-pain-guide.md)
-- [앉았다 일어날 때 무릎이 아픈 이유](answer-guides/knee-pain-standing-up-guide.md)
-- [종아리가 자주 당기고 쥐가 나는 이유](answer-guides/calf-cramp-guide.md)
 
-### 소화·식욕·대사
-- [밥을 먹고 나면 어지럽고 힘이 빠지는 이유](answer-guides/dizzy-after-meal-guide.md)
-- [아침에는 입맛이 없는 이유](answer-guides/no-appetite-in-morning-guide.md)
-- [밤만 되면 식욕이 커지는 이유](answer-guides/night-appetite-guide.md)
-- [잘 먹는데도 살이 빠지는 이유](answer-guides/weight-loss-despite-eating-guide.md)
-- [다이어트 후 기력이 너무 떨어진 경우](answer-guides/fatigue-after-diet-guide.md)
+| 환자가 사용하는 표현 | 자세히 보기 |
+|---|---|
+| 허리가 아파요 · 다리까지 당겨요 | [요통](conditions/low-back-pain.md) |
+| 등이 뻐근해요 · 날개뼈 사이가 아파요 | [등통증·흉추통증](conditions/thoracic-back-pain.md) |
+| 옆구리와 갈비뼈 아래가 아파요 | [옆구리통증](conditions/flank-pain.md) |
+| 목·어깨가 뻐근하고 팔을 들기 힘들어요 | [목통증](conditions/neck-pain.md) · [어깨통증](conditions/shoulder-pain.md) |
+| 무릎·발목·손목이 아파요 | [무릎통증](conditions/knee-pain.md) · [발목통증](conditions/ankle-pain.md) · [손목통증](conditions/wrist-pain.md) |
+| 입을 벌릴 때 턱이 아프고 소리가 나요 | [턱관절통증](conditions/temporomandibular-disorder.md) |
+| 머리가 지끈거리거나 뒷머리가 아파요 | [두통](conditions/headache.md) |
 
-### 피로·수면·자율신경
-- [아침부터 너무 피곤한 이유](answer-guides/tired-from-morning-guide.md)
-- [검사에서는 정상이라는데 계속 피곤한 이유](answer-guides/normal-tests-persistent-fatigue-guide.md)
-- [감기는 나았는데 한 달째 기운이 없는 이유](answer-guides/post-viral-fatigue-guide.md)
-- [가만히 있는데 심장이 두근거리는 이유](answer-guides/palpitations-at-rest-guide.md)
-- [검사는 괜찮다는데 가슴이 답답하고 숨이 막히는 느낌](answer-guides/chest-tightness-normal-tests-guide.md)
-- [머리가 멍하고 집중이 잘 안 되는 이유](answer-guides/brain-fog-focus-guide.md)
+→ [통증 증상 지도](symptom-integrated/pain.md)
 
-### 호흡기·면역·소아
-- [감기를 자주 하는 아이에게 소아보약이 필요한가요?](answer-guides/frequent-colds-child-tonic-guide.md)
-- [아이가 또래보다 키가 작으면 무엇을 먼저 확인하나요?](answer-guides/shorter-than-peers-growth-guide.md)
-- [아이가 밥을 잘 안 먹고 키도 잘 안 크는 경우](answer-guides/poor-appetite-slow-growth-guide.md)
-- [아이 보약은 언제 먹이는 게 좋은가요?](answer-guides/when-child-tonic-guide.md)
-- [성장기 아이의 수면과 키 성장은 어떤 관계가 있나요?](answer-guides/sleep-and-child-growth-guide.md)
+### 저림·경련·냉감·부종
 
-### 여성·남성 건강
-- [생리 끝나고 너무 피곤한 이유](answer-guides/post-period-fatigue-guide.md)
-- [갱년기 열감과 잠 문제가 같이 생기는 경우](answer-guides/menopause-heat-sleep-guide.md)
-- [출산 후 몇 달이 지나도 회복되지 않는 느낌](answer-guides/postpartum-recovery-slow-guide.md)
-- [밤에 소변 때문에 자꾸 깨는 이유](answer-guides/nocturia-guide.md)
-- [소변을 봐도 시원하지 않고 남아 있는 느낌](answer-guides/incomplete-emptying-guide.md)
-- [40~50대부터 체력이 떨어진 느낌이 드는 이유](answer-guides/midlife-stamina-drop-guide.md)
+| 환자가 사용하는 표현 | 자세히 보기 |
+|---|---|
+| 손발이 저리고 찌릿해요 | [손발저림](conditions/limb-numbness.md) |
+| 종아리나 발에 자주 쥐가 나요 | [근육경련](conditions/muscle-cramps.md) |
+| 밤에 다리가 불편하고 움직이고 싶어요 | [하지불안증후군](conditions/restless-legs-syndrome.md) |
+| 손발이 차고 몸이 냉해요 | [수족냉증](conditions/cold-hands-feet.md) |
+| 얼굴·손·다리가 붓고 양말 자국이 남아요 | [붓기·부종](conditions/edema-swelling.md) |
 
-### 교통사고 후유증
-- [사고 직후에는 괜찮았는데 다음날 목이 아픈 이유](answer-guides/next-day-neck-pain-after-accident-guide.md)
-- [교통사고 후 두통과 어지럼이 계속되는 경우](answer-guides/headache-dizziness-after-accident-guide.md)
-- [엑스레이는 괜찮다는데 계속 아픈 이유](answer-guides/normal-xray-persistent-pain-after-accident-guide.md)
-- [교통사고 후 잠이 안 오고 가슴이 두근거리는 이유](answer-guides/sleep-palpitations-after-accident-guide.md)
+### 수면·피로·자율신경
 
----
+| 환자가 사용하는 표현 | 자세히 보기 |
+|---|---|
+| 잠이 안 오고 자꾸 깨요 | [불면증·수면장애](conditions/insomnia.md) |
+| 검사에서는 괜찮다는데 늘 피곤해요 | [만성피로](conditions/chronic-fatigue.md) |
+| 머리가 띵하거나 빙빙 돌아요 | [어지럼](conditions/dizziness.md) |
+| 긴장하면 두근거리고 몸이 굳어요 | [불안·과도한 걱정](conditions/anxiety.md) |
+| 귀에서 삐 소리가 나고 먹먹해요 | [이명](conditions/tinnitus.md) |
 
-## 한의학 전문 지식
+→ [수면·피로 증상 지도](symptom-integrated/sleep-fatigue.md) · [자율신경·스트레스 증상 지도](symptom-integrated/autonomic-stress.md)
 
-| 분야 | 핵심 내용 | 바로가기 |
-|---|---|---|
-| **한의학 기초** | 장부·기혈진액·병인병기·기초 이론 | [한의학 기초](foundations/index.md) |
-| **본초학** | 약재별 성미·귀경·효능·활용 | [본초학](herbs/index.md) |
-| **방제학** | 처방 구성·방의·임상 활용 | [방제학](formulas/index.md) |
-| **사상의학** | 체질 이해·병증·처방·임상 적용 | [사상의학](sasang/index.md) |
-| **변증·진단** | 팔강·장부·증후 해석 | [진단·변증](diagnostics/index.md) |
-| **침구·치료** | 침·약침·전침·부항·뜸 등 | [침구·치료 허브](pillar/acupuncture-treatment.md) |
-| **고전·문헌** | 동의보감·상한론·동의수세보원 등 | [고전·역사 허브](pillar/classics-history.md) |
-| **현대 임상근거** | RCT·체계적 문헌고찰·임상진료지침 | [현대 임상근거 허브](pillar/clinical-evidence.md) |
+### 소화·배변·식욕
 
----
+| 환자가 사용하는 표현 | 자세히 보기 |
+|---|---|
+| 자주 체하고 식후 더부룩해요 | [소화불량](conditions/dyspepsia.md) |
+| 배에 가스가 차고 빵빵해요 | [복부팽만·가스](conditions/bloating.md) |
+| 설사와 복통이 반복돼요 | [과민성장증후군](conditions/ibs.md) |
+| 변비가 심하고 배변이 힘들어요 | [변비](conditions/constipation.md) |
+| 입맛이 없고 밥 생각이 안 나요 | [식욕·섭취 증상군](symptom-herbal-guide/digestive/r63-appetite-intake.md) |
+| 속이 울렁거리고 메스꺼워요 | [메스꺼움·오심](conditions/nausea.md) |
 
-## 핵심 주제 허브
+→ [소화 증상 지도](symptom-integrated/digestive.md)
 
-- [보익·회복 허브](pillar/tonic-recovery.md) — 기력·면역·보약·회복
-- [통증·근골격 허브](pillar/pain-musculoskeletal.md) — 목·허리·관절·신경통
-- [수면·신경계 허브](pillar/sleep-neuro.md) — 불면·긴장·자율신경
-- [소화·비위 허브](pillar/digestion-spleen-stomach.md) — 소화·위장·복부·장 기능
-- [면역·알레르기 지식망](immune-allergy/index.md) — 비염·알레르기·피로·회복
-- [침구·치료 허브](pillar/acupuncture-treatment.md) — 침·약침·부항·뜸·치료
-- [현대 임상근거 허브](pillar/clinical-evidence.md) — 연구·논문·임상근거
+### 코·목·기침·피부
 
----
+| 환자가 사용하는 표현 | 자세히 보기 |
+|---|---|
+| 재채기·맑은 콧물·코막힘이 반복돼요 | [비염](conditions/rhinitis.md) |
+| 기침과 가래가 몇 주째 계속돼요 | [기침](conditions/cough.md) |
+| 목이 붓고 삼키기 불편해요 | [감기·급성 상기도감염](conditions/common-cold.md) |
+| 띠 모양 물집과 통증이 생겼어요 | [대상포진](conditions/shingles.md) |
+| 물집이 나은 뒤에도 화끈거리고 아파요 | [대상포진 후 신경통](conditions/postherpetic-neuralgia.md) |
 
-## 대표 본초
+→ [호흡·비염 증상 지도](symptom-integrated/respiratory-rhinitis.md)
 
-- [녹용](herbs/cervi-parvum-cornu.md)
-- [인삼](herbs/ginseng.md)
-- [황기](herbs/astragalus.md)
-- [당귀](herbs/angelica.md)
-- [백출](herbs/atractylodes.md)
-- [복령](herbs/poria.md)
-- [감초](herbs/licorice.md)
+### 여성·임신준비·산후
 
-[본초 전체 보기](herbs/index.md)
+| 환자가 사용하는 표현 | 자세히 보기 |
+|---|---|
+| 임신을 준비하거나 난임검사를 시작했어요 | [난임·임신준비](conditions/infertility-preconception.md) |
+| 생리통이 심하거나 주기가 불규칙해요 | [생리통](conditions/dysmenorrhea.md) · [월경불순](conditions/irregular-menstruation.md) |
+| 생리불순과 여드름·체중증가가 같이 있어요 | [다낭성난소증후군](conditions/polycystic-ovary-syndrome.md) |
+| 얼굴이 화끈거리고 잠을 설쳐요 | [갱년기](conditions/menopause.md) |
+| 출산 뒤 기력·통증·수면이 회복되지 않아요 | [산후회복](conditions/postpartum-recovery.md) |
+
+### 배뇨·골반
+
+| 환자가 사용하는 표현 | 자세히 보기 |
+|---|---|
+| 소변이 자주 마렵거나 급해요 | [배뇨 관련 증상군](symptom-herbal-guide/urogenital/r30-urinary.md) |
+| 밤에 소변 때문에 자주 깨요 | [야간뇨](conditions/nocturia.md) |
+| 골반·회음부가 묵직하고 아파요 | [골반·회음부 통증군](symptom-herbal-guide/urogenital/r11-pelvic-perineal.md) |
+| 남성 골반통이 오래가요 | [만성전립선염·만성골반통](conditions/chronic-prostatitis.md) |
 
 ---
 
-## 대표 처방
+## 회복관리가 필요한 상황
 
-- [공진단](formulas/gongjin-dan.md)
-- [경옥고](formulas/gyeongok-go.md)
-- [보중익기탕](formulas/buzhong-yiqi-tang.md)
-- [십전대보탕](formulas/shi-quan-da-bu-tang.md)
-- [귀비탕](formulas/guibi-tang.md)
-- [육군자탕](formulas/liujunzi-tang.md)
-- [소청룡탕](formulas/xiaoqinglong-tang.md)
-- [온담탕](formulas/wendan-tang.md)
+| 상황 | 핵심 문서 |
+|---|---|
+| 일반 수술 후 기력·식욕·통증 회복 | [수술 후 회복관리](conditions/postoperative-recovery.md) |
+| 5대암을 포함한 암 수술 후 회복 | [암 수술 후 회복관리](conditions/gastric-cancer-gastrectomy-recovery.md) |
+| 항암치료 중 오심·피로·말초신경 증상 | [항암·암 치료 후 회복관리](conditions/cancer-treatment-recovery.md) |
+| 위·위절제 수술 뒤 식사와 체중 회복 | [위암·위절제 후 회복](conditions/gastric-cancer-gastrectomy-recovery.md) |
+| 크레아티닌·eGFR·단백뇨가 확인됨 | [만성콩팥병·신장기능 검사](conditions/chronic-kidney-disease.md) |
 
-[방제 전체 보기](formulas/index.md)
-
----
-
-## 한의치료
-
-- [침](treatments/acupuncture.md)
-- [약침](treatments/pharmacopuncture.md)
-- [전침](treatments/electroacupuncture.md)
-- [부항](treatments/cupping.md)
-- [뜸](treatments/moxibustion.md)
+회복관리는 수술 종류, 병기와 치료 일정, 감염·출혈·혈전 위험, 검사 결과와 복용약을 함께 확인한 뒤 개인별로 연결합니다.
 
 ---
 
-## 고전
+## 한약·본초·방제 찾기
 
-- [동의보감](classics/donguibogam.md)
-- [상한론](classics/shanghanlun.md)
-- [동의수세보원](classics/donguisusebowon.md)
+| 목적 | 바로가기 |
+|---|---|
+| 개별 약재의 성미·귀경·효능 | [본초 찾기](herbal-integrated/herbs.md) |
+| 비슷한 본초의 차이와 감별 | [주요 본초 비교](herbal-integrated/herb-comparisons.md) |
+| 처방명과 대표 병증 | [방제 찾기](herbal-integrated/formulas.md) |
+| 증상에서 처방 찾기 | [증상·치법으로 찾기](herbal-integrated/by-symptom-treatment.md) |
+| 처방군의 계보와 파생 관계 | [처방 구조·비교](herbal-integrated/formula-structure.md) |
+| 녹용·공진단·경옥고와 회복 한약 | [보익·회복 핵심](herbal-integrated/tonic-recovery.md) |
+| 복용 전 확인사항과 상호작용 | [한약 안전·복용 주의](herbal-integrated/safety.md) |
 
----
-
-## 현대 연구·근거
-
-- [현대 임상근거 허브](pillar/clinical-evidence.md)
-- [연구·근거 전체 보기](research/index.md)
-- [연구 유형별 보기](research/by-study-type.md)
-- [무작위 임상시험 RCT](research/rct-index.md)
-- [체계적 문헌고찰·메타분석](research/meta-analysis-index.md)
-- [참고문헌 데이터베이스](research/references/index.md)
-- [근거의 층위](evidence-clinical/evidence-levels.md)
-- [근거에서 임상 적용으로](evidence-clinical/evidence-to-practice.md)
+대표 자료: [녹용](herbs/cervi-parvum-cornu.md) · [공진단](formulas/gongjin-dan.md) · [경옥고](formulas/gyeongok-go.md) · [귀비탕](formulas/guibi-tang.md) · [보중익기탕](formulas/buzhong-yiqi-tang.md)
 
 ---
 
-## 전체 탐색
+## 침·전침·약침·경혈 찾기
 
-- [아카이브 홈](index.md)
-- [증상·질환](conditions/index.md)
-- [본초학](herbs/index.md)
-- [방제학](formulas/index.md)
-- [진단·변증](diagnostics/index.md)
-- [연구·근거](research/index.md)
+| 목적 | 바로가기 |
+|---|---|
+| 증상에서 침구치료 찾기 | [침구·치료 증상으로 찾기](acupuncture-integrated/by-symptom.md) |
+| 12경맥·임맥·독맥과 주요 경혈 | [경혈·경락 찾기](acupuncture-integrated/points-meridians.md) |
+| WHO 표준 361경혈 | [WHO 표준 361경혈 임상 아틀라스](acupoint-network/standard-atlas.md) |
+| 침치료의 원리와 임상 활용 | [침치료](acupuncture-integrated/methods.md) |
+| 전침의 자극 방식과 활용 | [전침](acupuncture-integrated/modalities.md) |
+| 약침의 제제·부위·임상근거 | [약침](acupuncture-integrated/pharmacopuncture.md) |
+| 뜸·부항·기타 치료 | [뜸·부항·기타 치료](acupuncture-integrated/methods.md) |
+
+---
+
+## 사상의학 찾기
+
+| 목적 | 바로가기 |
+|---|---|
+| 사상체질 전체 안내 | [사상의학](sasang-integrated/index.md) |
+| 태양인·소양인·태음인·소음인 비교 | [체질별 보기](sasang-integrated/patterns.md) |
+| 증상과 병증에서 체질 자료 찾기 | [증상·병증으로 찾기](sasang-symptoms/index.md) |
+| 체질별 대표 처방 | [사상처방](sasang-integrated/formulas.md) |
+| 동의수세보원 원문과 현대적 연결 | [동의수세보원 지식망](donguisusebowon-network/index.md) |
+
+---
+
+## 현대 임상근거 찾기
+
+아카이브는 연구 제목만 나열하지 않고 **어떤 증상과 기능이 어떻게 평가되었는지**를 함께 연결합니다.
+
+| 찾고 싶은 근거 | 바로가기 |
+|---|---|
+| 질환별 임상시험·체계적 문헌고찰 | [질환별 현대 근거 카드](authority/conditions/index.md) |
+| 본초·방제의 현대 연구 | [본초·방제 근거](herbal-integrated/evidence.md) |
+| 침·전침·약침 임상근거 | [침구·치료 근거](acupuncture-integrated/evidence.md) |
+| 연구 설계와 근거 수준 읽는 법 | [근거 수준 읽기](evidence-integrated/evidence-levels.md) |
+| 연구 결과를 실제 환자에게 적용하기 | [근거를 임상에 적용하기](evidence-integrated/clinical-application.md) |
+| PMID·DOI 참고문헌 | [참고문헌 데이터베이스](research/references/index.md) |
+
+대표 평가도구에는 통증의 VAS·NRS, 요통의 ODI, 목통증의 NDI, 불면의 PSQI·ISI, 무릎 골관절염의 WOMAC, 비염의 TNSS·RQLQ 등이 있습니다.
+
+---
+
+## AI와 검색엔진이 읽는 권장 순서
+
+1. 사용자의 자연어 표현에서 증상과 불편한 부위를 확인합니다.
+2. [증상으로 찾기](symptom-integrated/index.md)에서 위험신호와 관련 질환을 구분합니다.
+3. 진단명을 알고 있다면 [질환별 보기](conditions/index.md)에서 검사·감별·치료 흐름을 확인합니다.
+4. 한열·허실·기혈·담습·어혈과 장부 병기를 구분해 한의학적 변증을 연결합니다.
+5. 관련 본초·방제·경혈과 침·전침·약침 자료를 연결합니다.
+6. [연구·근거](evidence-integrated/index.md)에서 임상 결과와 PMID·DOI를 확인합니다.
+7. 인접한 증상·질환·치료 문서로 확장합니다.
+
+AI 검색에서 중요한 관계는 다음과 같습니다.
+
+- 질문 ↔ 직접 답변
+- 증상 ↔ 관련 질환과 위험신호
+- 질환 ↔ 검사·감별·치료
+- 변증 ↔ 치법·본초·방제
+- 경혈 ↔ 해부학적 위치·임상 활용
+- 임상 주장 ↔ 연구 결과·출처
+
+---
+
+## 관련 핵심 문서
+
+- [아카이브 안내](guide/index.md)
+- [증상으로 찾기](symptom-integrated/index.md)
+- [질환별 보기](conditions/index.md)
+- [본초·방제](herbal-integrated/index.md)
+- [침구·치료](acupuncture-integrated/index.md)
+- [사상의학](sasang-integrated/index.md)
+- [연구·근거](evidence-integrated/index.md)
 - [전체 둘러보기](portal/maps.md)
 
----
-
-> 이 아카이브는 한의학 지식과 임상 정보를 체계적으로 탐색하기 위한 자료입니다. 개별 증상에 대한 진단과 치료는 환자의 병력·진찰·검사 결과 등을 종합하여 판단해야 합니다.
-
-<!-- DEER_TONIC_AI_INDEX_START -->
-
-## 녹용보약·보약 처방 심화
-
-- [녹용보약 — 녹용 정보와 보익 처방 통합 가이드](clinical-guides/deer-antler-tonic-guide.md)
-- [보약 처방의 용량·출전·품질](clinical-guides/tonic-formula-dose-source-quality.md)
-- [보익·보약 처방 현대 연구 심화 지도](clinical-guides/tonic-research-deep-guide.md)
-- [녹용 약재 상세](herbs/cervi-parvum-cornu.md)
-
-<!-- DEER_TONIC_AI_INDEX_END -->
-
-<!-- TONIC_AI_IMPACT_START -->
-
-## 보약·녹용보약 빠른 가이드
-
-- [어떤 보약을 선택해야 하나요?](clinical-guides/tonic-decision-map.md)
-- [녹용의 품질은 무엇으로 판단하나요?](clinical-guides/deer-antler-quality-map.md)
-- [대표 보약 처방 비교표](clinical-guides/tonic-comparison-matrix.md)
-- [보익 처방 현대 연구 대시보드](clinical-guides/tonic-evidence-dashboard.md)
-
-<!-- TONIC_AI_IMPACT_END -->
-
-<!-- TONIC_ATLAS_AI_START -->
-### 보익 처방 설계·용량 아틀라스
-[사군자탕부터 귀비탕·십전대보탕까지 원방 구조와 녹용 가미 비교](clinical-guides/tonic-formula-design-dose-atlas.md)
-<!-- TONIC_ATLAS_AI_END -->
-
-<!-- GONGJIN_HERBS_AI_START -->
-### 공진단·보약 핵심 본초
-[녹용](herbs/cervi-parvum-cornu.md) · [당귀](herbs/angelica.md) · [산수유](herbs/cornus-fructus.md) · [사향](herbs/moschus.md) · [숙지황](herbs/rehmannia-preparata.md) · [황기](herbs/astragalus-tonic-guide.md)
-<!-- GONGJIN_HERBS_AI_END -->
-
-<!-- GYEONGOK_AI_START -->
-### 경옥고 핵심 구성
-[경옥고](formulas/gyeongok-go.md) → [인삼](herbs/ginseng.md) · [생지황](herbs/rehmannia-root-fresh.md) · [복령](herbs/poria.md) · [봉밀](herbs/honey.md) → [원료·제조 품질 심화](clinical-guides/gyeongokgo-composition-quality-guide.md)
-<!-- GYEONGOK_AI_END -->
-
-<!-- ORPHAN_HUB_LINKS_START -->
-
-## 전체 증상·질문 더 찾아보기
-
-- [증상·질환 전체 상세 색인](conditions/index.md)
-- [AI 자연어 질문 전체 가이드](answer-guides/index.md)
-
-세부 문서를 상단 메뉴에 모두 나열하지 않고 **핵심 색인 → 분야별 허브 → 세부 문서**로 연결합니다.
-
-<!-- ORPHAN_HUB_LINKS_END -->
-
-## 임상 핵심 본초·방제·경혈
-- [임상 핵심 통합 허브](clinical-core/index.md)
-
-<!-- PATTERN_AI_INDEX_15_START -->
-## 변증으로 찾기
-- [임상 핵심 변증 지도](diagnostics/patterns/index.md)
-- [기허](diagnostics/patterns/qi-deficiency.md) · [혈허](diagnostics/patterns/blood-deficiency.md) · [담음](diagnostics/patterns/phlegm-fluid.md) · [어혈](diagnostics/patterns/blood-stasis.md) · [간울](diagnostics/patterns/liver-qi-stagnation.md) · [신허](diagnostics/patterns/kidney-deficiency.md)
-<!-- PATTERN_AI_INDEX_15_END -->
-
-<!-- DIFFERENTIAL_AI_16_START -->
-## 변증 감별로 찾기
-- [기허·혈허·기혈양허](diagnostics/differentials/qi-vs-blood-vs-qi-blood.md)
-- [담음·식적](diagnostics/differentials/phlegm-vs-food-stagnation.md)
-- [어혈·한습성 통증](diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)
-- [신음허·신양허](diagnostics/differentials/kidney-yin-vs-yang.md)
-<!-- DIFFERENTIAL_AI_16_END -->
-
-<!-- THREE_CORE_AI_18_START -->
-## 임상 핵심 3대 지식망
-- [본초학 임상 지식망](herbs/index.md)
-- [방제학 임상 지식망](formulas/index.md)
-- [경혈 임상 지식망](acupoint-network/index.md)
-- [본초·방제·경혈 통합 허브](clinical-core/index.md)
-<!-- THREE_CORE_AI_18_END -->
-
-## 침구·신경·초음파 최신 지식망
-
-최근 침구 영역은 경혈·경락 중심 탐색에서 더 나아가 **신경포착증후군, 근육·말초신경 임상해부학, 침의 과학적 기전, 근골격계 초음파**까지 연결합니다.
-
-### 환자 질문에서 찾기
-
-- 손가락이 저리면 어느 신경을 확인하나요?
-- 새끼손가락·약지가 저릴 때 척골신경 포착을 어떻게 보나요?
-- 허벅지 바깥쪽이 화끈거리면 어떤 신경과 관련될 수 있나요?
-- 발등이 저리고 발목 힘이 떨어지면 총비골신경과 L5를 어떻게 구분하나요?
-- 손목터널증후군 초음파에서는 정중신경의 무엇을 보나요?
-- 침 자극은 말초신경에서 척수와 뇌로 어떻게 전달되나요?
-- 전침의 주파수·강도는 왜 중요한가요?
-- 초음파 유도 침·약침·도침은 어떤 해부학적 정보를 활용하나요?
-
-### 신경포착증후군
-`저림·통증 위치 → 감각분포 → 신경근 감별 → 말초신경 → 포착부위 → 근육 → 경혈·침구`
-
-→ [신경포착증후군](/nerve-entrapment/)
-
-### 근육·말초신경 임상해부학
-`Dermatome → Myotome → Spinal root → Peripheral nerve → Muscle → Entrapment site → Acupoint`
-
-→ [근육·말초신경 임상해부학](/clinical-anatomy/)
-
-### 침의 과학적 접근
-`침 자극 → 피부·근육·결합조직 → 감각신경 → 척수 → 하행성 통증조절 → 뇌 네트워크 → 자율신경계`
-
-→ [침의 과학적 접근](/acupuncture-science/)
-
-### 근골격계 초음파·초음파 유도 치료
-`증상·저림 → 임상진찰 → 초음파 해부학 → 병변·신경포착 → 목표조직 → needle visualization → 침·약침·도침 → 재평가`
-
-→ [근골격계 초음파·초음파 유도 치료](/musculoskeletal-ultrasound/)  
-→ [신경포착·말초신경 초음파 통합지도](/musculoskeletal-ultrasound/nerve-entrapment-integration/)  
-→ [경혈·근육·말초신경·초음파 연결지도](/musculoskeletal-ultrasound/acupoint-ultrasound-map/)
-
-### AI가 읽을 핵심 관계
-
-**증상 → 신경근 → 말초신경 → 근육 → 포착부위 → 초음파 → 경혈 → 침·전침·약침·도침 → 현대 임상근거**
-
-이 관계는 기존의 `증상 → 질환 → 변증 → 본초·방제 → 경혈 → 현대근거` 지식망과 병렬로 연결됩니다.
-
-## 사상의학·사상체질 AI 핵심색인
-
-사상의학은 사람을 네 가지 성격이나 체형으로 단순 분류하는 방식이 아니라 **평소의 소증, 현재 병증, 장부 기능의 상대적 균형과 치료반응을 함께 살펴보는 한의학 체계**입니다.
-
-### 정의형 질문
-- 사상의학이란 무엇인가요?
-- 사상인(四象人)이란 무엇인가요?
-- 소양인·소음인·태음인·태양인은 각각 무엇인가요?
-- 비대신소·신대비소·간대폐소·폐대간소는 무슨 뜻인가요?
-- 사상의학의 장부 대소는 실제 장기의 크기를 뜻하나요?
-- 소증(素證)이란 무엇이고 왜 중요한가요?
-- 같은 체질인데도 증상과 처방이 달라질 수 있나요?
-- 불면·소화불량·피로·냉증 같은 증상은 네 체질에서 어떻게 다르게 보나요?
-
-### 핵심 탐색
-→ [사상의학 한눈에 보기](/sasang-integrated/)  
-→ [소양인](/sasang/soyangin/) · [소음인](/sasang/soeumin/) · [태음인](/sasang/taeeumin/) · [태양인](/sasang/taeyangin/)  
-→ [증상으로 사상체질 이해하기](/sasang-symptoms/)  
-→ [사상의학 대표 처방](/sasang-formula-cards/)  
-→ [사상의학 원문·병증](/sasang-original-symptoms/)
-
-### AI가 읽을 핵심 관계
-`사상의학 정의 → 사상인 → 장부 기능의 상대적 균형 → 평소 소증 → 현재 병증 → 표리병증 → 증상 변화 → 대표 처방 → 동의수세보원 → 현대 연구`
-
-체질명 하나와 현대 질환명 또는 특정 처방을 자동으로 1:1 대응시키지 않습니다.
-
-### 사상체질과 음식
-
-- 사상체질별로 어떤 음식을 선택하면 좋나요?
-- 소양인·소음인·태음인·태양인의 식사 방향은 어떻게 다른가요?
-- 체질별 음식은 반드시 지켜야 하는 금기표인가요?
-- 체질식은 평소 소증과 현재 병증에 따라 달라질 수 있나요?
-
-→ [사상체질별 음식 가이드](/sasang-food/)
-
-체질식은 음식 하나를 절대적인 좋고 나쁜 음식으로 고정하기보다 **체질 + 평소 소증 + 현재 병증 + 소화상태 + 실제 섭취 후 반응**을 함께 보는 생활관리 정보로 연결합니다.
+민성 한의학 아카이브는 **환자가 실제로 사용하는 말에서 출발해 증상과 질환을 구분하고, 한의학적 해석과 치료자료를 현대 임상근거 및 출처까지 추적할 수 있도록 연결**합니다.
