@@ -1,11 +1,42 @@
 ---
 title: 상한론 탐색
-description: 상한론 최신 기준문서와 육경병·방제 구조로 연결합니다.
-status: canonical-bridge
-last_reviewed: 2026-08-22
+description: 상한론의 육경병증·맥증·치법·고방과 병의 전변을 방제·임상추론 지식망으로 연결합니다.
+tags: [한의학고전, 상한론, 임상지식망]
+status: 검토완료
+last_reviewed: 2026-08-29
 ---
+
 # 상한론 탐색
 
-→ [상한론 기준문서](../classics/shanghanlun.md)  
-→ [상한론 육경병](../classics/shanghan-six-channels.md)  
-→ [상한론 처방 계열](../formula-architecture/shanghan-family.md)
+《상한론》은 증상 몇 개에 처방을 붙이는 책이 아니라, 병의 위치와 전변·맥증·치법·처방을 함께 판단하는 임상 추론서입니다.
+
+## 이 고전에서 먼저 볼 질문
+
+- 표·리와 한·열·허·실이 병의 전변 속에서 어떻게 달라지는가?
+- 같은 발열·오한·두통도 맥증과 동반증상에 따라 왜 처방이 달라지는가?
+- 방제 구성은 치법을 어떻게 구현하는가?
+
+## 핵심 탐색축
+
+| 탐색축 | 임상적으로 읽는 관점 |
+|---|---|
+| 태양·양명·소양 | 삼양병의 병위·전변·대표 치법 |
+| 태음·소음·궐음 | 삼음병의 허한·한열착잡과 회복력 |
+| 맥증과 조문 | 주증·겸증·맥을 하나의 판단 단위로 읽기 |
+| 고방과 가감 | 구성·용량·제법·금기를 원문 맥락에서 확인 |
+
+## 다른 고전과 함께 읽기
+
+- [금궤요략](jingui-yaolue.md)과 함께 장중경 의학의 외감·잡병 두 축을 봅니다.
+- [온병조변](wenbing-tiaobian.md)과 육경변증·삼초변증의 관찰 초점을 비교합니다.
+- [의학입문](uihak-ipmun.md)에서 후대의 상한 학습과 종합 임상 구조를 살핍니다.
+
+고전의 병증을 현대 질환명과 곧바로 동일시하지 않고, **원문 맥락 → 변증과 치법 → 본초·방제·경혈 → 현대 진단과 근거**의 순서로 연결합니다.
+
+## 아카이브에서 이어보기
+
+- [상한론 기준문서](../classics/shanghanlun.md)
+- [상한론 핵심 지식망](../shanghan-network/index.md)
+- [육경병](../classics/shanghan-six-channels.md)
+- [상한론 처방 계열](../formula-architecture/shanghan-family.md)
+- [고전 처방 읽기](../classics/classical-formula-reading.md)

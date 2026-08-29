@@ -1,12 +1,42 @@
 ---
 title: 온병조변 탐색
-description: 온병조변 기준문서와 삼초변증·위기영혈·온병학 지식망으로 연결합니다.
-status: canonical-bridge
+description: 온병조변의 삼초변증·위기영혈·온열성 병증의 전변·치법·대표 처방을 온병학 지식망으로 연결합니다.
+tags: [한의학고전, 온병조변, 임상지식망]
+status: 검토완료
 last_reviewed: 2026-08-29
 ---
+
 # 온병조변 탐색
 
-→ [온병조변 기준문서](../classics/wenbing-tiaobian.md)  
-→ [온병학 핵심 지식망](../wenbing-network/index.md)  
-→ [삼초변증](../wenbing-network/triple-burner-patterns.md)  
-→ [위기영혈변증](../wenbing-network/wei-qi-ying-xue.md)
+《온병조변》은 오국통이 온열성 병증을 상초·중초·하초의 전변으로 정리한 청대 온병학의 대표 고전입니다.
+
+## 이 고전에서 먼저 볼 질문
+
+- 상초·중초·하초는 병위와 전변을 어떻게 보여주는가?
+- 삼초변증과 위기영혈변증은 무엇을 각각 강조하는가?
+- 진액 손상·습열·영혈 변화는 어떤 증후로 관찰되는가?
+
+## 핵심 탐색축
+
+| 탐색축 | 임상적으로 읽는 관점 |
+|---|---|
+| 상초 | 폐·위분 중심의 초기 병위 |
+| 중초 | 비위·기분의 열과 습열 |
+| 하초 | 간신·영혈·음액 손상 |
+| 처방과 치법 | 병의 단계·병위·진액 상태에 따른 운용 |
+
+## 다른 고전과 함께 읽기
+
+- [상한론](shanghan-lun.md)의 육경변증과 온병조변의 삼초변증을 비교합니다.
+- [황제내경](huangdi-neijing.md)의 열병·병기 이론과 후대 온병학의 전개를 봅니다.
+- 급성 감염성 질환은 현대 진단과 중증도 평가를 우선하며 고전은 병기·치법의 전통적 자료로 읽습니다.
+
+고전의 병증을 현대 질환명과 곧바로 동일시하지 않고, **원문 맥락 → 변증과 치법 → 본초·방제·경혈 → 현대 진단과 근거**의 순서로 연결합니다.
+
+## 아카이브에서 이어보기
+
+- [온병조변 기준문서](../classics/wenbing-tiaobian.md)
+- [온병학 핵심 지식망](../wenbing-network/index.md)
+- [삼초변증](../wenbing-network/triple-burner-patterns.md)
+- [위기영혈변증](../wenbing-network/wei-qi-ying-xue.md)
+- [상한론과 온병학 비교](../wenbing-network/shanghan-comparison.md)
