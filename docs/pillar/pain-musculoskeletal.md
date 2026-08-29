@@ -1,80 +1,50 @@
 ---
 title: 통증·근골격 한의학 허브
-description: 요통·목·어깨·무릎·하지통증을 비증·어혈·한습·간신부족, 본초·방제·경혈·침구와 현대 임상근거로 연결합니다.
+description: 허리·등·옆구리·목·어깨·턱·손목·무릎·발목통증을 감별, 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 통증, 근골격, 한의학지식망]
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-08-29
 ---
+
 # 통증·근골격 한의학 허브
 
-근골격계 통증은 통증 부위만 보지 않고 **발병 계기·시간패턴·냉온 반응·방사통·부종·근력·감각 변화**를 먼저 확인한 뒤, 한의학적으로는 비증·어혈·한습·기혈허·간신부족 등의 비중을 함께 살펴봅니다.
+통증은 부위만 보는 것이 아니라 **발병 계기, 움직임과 자세, 시간대, 냉온 반응, 방사통, 부종, 근력과 감각 변화**를 함께 확인합니다. 한의학적으로는 비증·어혈·한습·기혈허·간신부족 등의 비중을 살펴 치료 방향을 정합니다.
 
-## 증상별로 시작
+## 아픈 부위로 찾기
 
-- [요통](../conditions/low-back-pain.md)
-- [목통증](../conditions/neck-pain.md)
-- [어깨통증](../conditions/shoulder-pain.md)
-- [무릎통증](../conditions/knee-pain.md)
-- [요통 임상 연결 지도](/network/low-back-pain-map/)
-- [무릎·하지통증 임상 연결 지도](/conditions/knee-pain/)
+| 부위 | 대표 문서 |
+|---|---|
+| 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) |
+| 목·어깨 | [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md) |
+| 얼굴·턱 | [턱관절통증](../conditions/temporomandibular-disorder.md) |
+| 팔·손목 | [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel-syndrome.md) |
+| 무릎·발목·발 | [무릎통증](../conditions/knee-pain.md) · [발목통증](../conditions/ankle-pain.md) · [족저근막염](../conditions/plantar-fasciitis.md) |
+| 전신·신경통 | [전신통증](../conditions/generalized-pain.md) · [대상포진 후 신경통](../conditions/postherpetic-neuralgia.md) |
 
-## 변증 감별
+## 통증의 양상으로 구분하기
 
-- [어혈](../diagnostics/patterns/blood-stasis.md)
-- [한습](../diagnostics/patterns/cold-damp.md)
-- [신허](../diagnostics/patterns/kidney-deficiency.md)
-- [어혈성 통증 vs 한습성 통증](../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)
+- 움직이거나 특정 자세에서 심해지는지
+- 밤이나 휴식 중에도 지속되는지
+- 차가움·습기 또는 온열에 따라 달라지는지
+- 붓기·열감·멍·외상 뒤 통증인지
+- 팔·다리로 뻗치거나 저림·근력저하가 동반되는지
 
-## 본초·방제
+→ [통증에서 먼저 확인할 신호](../clinical-safety/pain-red-flags.md)
 
-### 근골·풍습
-두충 · 우슬 · 독활 · 강활 · 의이인
+## 변증·본초·방제
 
-### 활혈·어혈
-단삼 · 도인 · 홍화 · 당귀
+- 변증: [어혈](../diagnostics/patterns/blood-stasis.md) · [한습](../diagnostics/patterns/cold-damp.md) · [신허](../diagnostics/patterns/kidney-deficiency.md)
+- 근골·풍습 본초: 두충 · 우슬 · 독활 · 강활 · 의이인
+- 활혈 본초: 단삼 · 도인 · 홍화 · 당귀
+- 대표 방제: [독활기생탕](../formulas/duhuo-jisheng-tang.md) · [오적산](../formulas/wuji-san.md) · [소경활혈탕](../formulas/shujing-huoxue-tang.md) · [당귀수산](../formulas/danggui-susan.md)
 
-### 대표 방제
-- [독활기생탕](../formulas/duhuo-jisheng-tang.md)
-- [오적산](../formulas/wuji-san.md)
-- [소경활혈탕](../formulas/shujing-huoxue-tang.md)
-- [당귀수산](../formulas/danggui-susan.md)
-- [작약감초탕](/authority/formulas/shakuyaku-kanzo-tang-update/)
+## 침구치료와 임상근거
 
-## 경맥·경혈
-
-요부·하지는 방광경·신경·독맥·담경, 목·어깨는 담경·방광경·소장경·대장경·삼초경의 교차를 자주 봅니다.
-
-- 신수 BL23 · 대장수 BL25 · 위중 BL40 · 곤륜 BL60 · 태계 KI3
-- 풍지 GB20 · 천주 BL10 · 견정 GB21 · 천종 SI11 · 견우 LI15
-- 양릉천 GB34 · 음릉천 SP9 · 족삼리 ST36 · 승산 BL57 · 환도 GB30
-
-→ [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
-
-## 침구치료
-
-- [침](../treatments/acupuncture.md)
-- [전침](../treatments/electroacupuncture.md)
-- [약침](../treatments/pharmacopuncture.md)
-- [부항](../treatments/cupping.md)
-- [뜸](../treatments/moxibustion.md)
-- [배혈 조합](../network/acupoint-combinations.md)
-
-## 현대 연구
-
-통증 연구에서는 통증 강도뿐 아니라 **관절·근육 기능, 보행, 가동범위, 일상생활 기능과 삶의 질**을 함께 평가하는 것이 중요합니다.
-
+- [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
+- [침](../treatments/acupuncture.md) · [전침](../treatments/electroacupuncture.md) · [약침](../treatments/pharmacopuncture.md) · [부항](../treatments/cupping.md) · [뜸](../treatments/moxibustion.md)
+- [임상 핵심 배혈 조합](../network/acupoint-combinations.md)
+- [요통 임상 지식망](../network/low-back-pain-map.md)
 - [현대 임상근거 허브](clinical-evidence.md)
-- [독활기생탕 임상근거](../research/formulas/duhuo-jisheng-tang.md)
 
-## 위험신호
-
-갑작스러운 근력저하, 배뇨·배변 장애, 진행성 감각저하, 심한 외상 후 통증, 발열과 신경학적 증상 등은 경락·변증보다 의학적 감별이 우선됩니다.
-
-
-<!-- MS58_MSK_GUIDE_START -->
-## 만성 근골격 통증 — 임상진료지침 층
-
-2025 systematic review는 2014–2024년에 발표된 **골관절염·요통·경항통·어깨통증의 침 임상진료지침**을 체계적으로 수집하고 권고와 방법론적 질을 평가했습니다. PMID `40890678`.
-
-이 아카이브에서는 근골격 침 근거를 **개별 RCT → systematic review/meta-analysis → 임상진료지침**의 세 층으로 연결합니다. 지침의 권고는 국가·의료체계·대상 질환에 따라 다를 수 있으므로 각 질환 페이지의 직접 임상근거와 함께 읽습니다.
-<!-- MS58_MSK_GUIDE_END -->
+!!! warning "빠른 평가가 필요한 경우"
+    심한 외상, 갑작스러운 근력저하, 진행하는 감각저하, 배뇨·배변 장애, 발열을 동반한 통증, 흉통·호흡곤란과 이어지는 등·옆구리통증은 우선 의학적 감별이 필요합니다.
