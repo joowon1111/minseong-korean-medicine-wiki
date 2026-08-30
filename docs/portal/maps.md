@@ -2,7 +2,7 @@
 title: 전체 지식지도·안내
 description: 증상·질환, 한의학 기초, 본초·방제, 침구·치료, 사상의학, 고전과 현대 임상근거를 독자의 목적에 맞춰 연결하는 민성 한의학 아카이브 전체 지도입니다.
 tags: [전체지도, 통합허브, 증상, 질환, 본초, 방제, 침구, 사상의학, 임상근거]
-last_reviewed: '2026-08-29'
+last_reviewed: '2026-08-30'
 hide:
   - toc
 ---
@@ -31,7 +31,7 @@ hide:
 | 침·약침·전침의 차이가 궁금해요 | [침구·치료 통합 허브](../acupuncture-integrated/index.md) | 증상 → 경혈·해부학 → 치료법 → 재평가 |
 | 체질과 평소 소증이 궁금해요 | [사상의학 한눈에 보기](../sasang-integrated/index.md) | 소증 → 현재 병증 → 처방·생활관리 |
 | 논문과 임상근거를 확인하고 싶어요 | [연구·근거 한눈에 보기](../evidence-integrated/index.md) | 연구설계 → PMID·DOI → 임상 적용 |
-| 음양·장부·기혈·변증을 공부하고 싶어요 | [한의학 기초 통합 허브](../foundations-integrated/index.md) | 개념 → 증상 해석 → 변증 → 치법 |
+| 장부·기혈진액·병인·변증을 공부하고 싶어요 | [한의학 기초 통합 허브](../foundations-integrated/index.md) | 개념 → 증상 해석 → 변증 → 치법 |
 | 고전 원문에서 출발하고 싶어요 | [고전 지식망](../classics-network/index.md) | 원문 → 병증·처방 → 현대 임상 |
 
 ## 환자를 위한 두 개의 대표 입구
@@ -80,7 +80,7 @@ hide:
 
 | 살펴볼 내용 | 바로가기 |
 |---|---|
-| 음양·오행·장부·기혈진액 | [한의학 기초 통합 허브](../foundations-integrated/index.md) |
+| 장부·기혈진액과 기능체계 | [한의학 기초 통합 허브](../foundations-integrated/index.md) |
 | 병인·병기와 변증 | [병인병기·변증](../foundations-integrated/etiology-pathogenesis.md) |
 | 사진과 진찰 | [한의 진찰과 사진](../foundations-integrated/diagnosis.md) |
 | 변증에서 치법으로 | [변증→치법 지도](../pattern-treatment/overview-map.md) |
@@ -97,7 +97,7 @@ hide:
 | 처방 이름·구성·주치 | [방제학](../formulas/index.md) |
 | 증상에서 한약 찾기 | [증상 기반 한약 탐색](../symptom-herbal-guide/index.md) |
 | 처방 구성 원리 | [방제 구조](../formula-architecture/index.md) |
-| 보약·기력·회복 | [보익·회복 허브](../pillar/tonic-recovery.md) |
+| 보약·피로·기력·회복 | [보익·피로·회복 허브](../pillar/tonic-recovery.md) |
 | 본초·방제 임상 활용 | [본초·방제 통합 허브](../herbal-integrated/index.md) |
 | 현대 임상근거 | [한약 현대 근거](../evidence-integrated/herbal-evidence.md) |
 
