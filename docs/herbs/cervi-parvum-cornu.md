@@ -173,7 +173,6 @@ last_reviewed: 2026-08-30
 
 - [《동의보감》의 녹용](../classics/donguibogam/tangyeok/deer-antler.md)
 - [만성피로](../conditions/chronic-fatigue.md)
-- [보익약 임상 지식망](../herbal-tonic-network.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 
