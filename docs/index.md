@@ -17,9 +17,7 @@ hide:
 <a class="ms-card" href="portal/sasang/"><strong>☯ 사상의학</strong><span>체질·병증·처방·동의수세보원</span></a>
 <a class="ms-card" href="portal/evidence/"><strong>🔬 연구·근거</strong><span>임상시험·메타분석·PMID·DOI</span></a>
 </div>
-## 주요 탐색 주제
-
-아래 항목은 검색 순위가 아니라 아카이브의 대표 콘텐츠를 빠르게 찾도록 구성한 바로가기입니다.
+## 많이 찾는 주제
 
 <div class="ms-quick">
 <a href="herbs/cervi-parvum-cornu/">녹용</a>
@@ -54,9 +52,9 @@ hide:
 어떤 분야인지 잘 모르겠다면 **상단 검색창에 궁금한 증상이나 처방 이름을 그대로 입력**하세요.
 전문용어를 몰라도 [증상으로 찾기](symptom-integrated/index.md)에서 시작할 수 있습니다. 진단명이나 의심 질환을 알고 있다면 [질환별 보기](conditions/index.md)로 이동하고, 체질과 평소 소증을 함께 살피려면 [사상의학 증상으로 찾기](sasang-symptoms/index.md)를 이용하세요.
 
-## 아카이브 이용 안내
+## 관련 핵심 문서
 
 - [아카이브 안내](guide/index.md)
-- [전체 둘러보기](portal/maps.md)
-- [검색창 이용 안내](search-guide.md)
-- [출처·인용 원칙](guide/citation-policy.md)
+- [증상으로 찾기](symptom-integrated/index.md)
+- [질환별 보기](conditions/index.md)
+- [AI 검색 구조](ai-index.md)
