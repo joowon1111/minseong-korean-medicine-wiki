@@ -2,7 +2,7 @@ site_name: 민성 한의학 아카이브
 site_description: 본초·방제·고전·사상의학·침구·임상연구를 연결하는 한의학 지식 아카이브
 site_url: https://wiki.minseong.co.kr/
 site_author: 민성 한의학 아카이브
-copyright: 민성 한의학 아카이브 · 민성한의원 운영 · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
+copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
 use_directory_urls: true
 extra_javascript:
   - javascripts/korean-search-fallback.js
@@ -677,6 +677,7 @@ nav:
     - 운영 원칙: guide/editorial-policy.md
     - 분류 체계: guide/taxonomy.md
     - 출처·인용 원칙: guide/citation-policy.md
+    - 콘텐츠 이용 안내: guide/content-use.md
     - 문서 상태 기준: guide/status-policy.md
     - 경혈 문서 작성 원칙: acupuncture/acupoint-writing-guide.md
     - SEO·AEO 문서 표준: seo-aeo-standard.md

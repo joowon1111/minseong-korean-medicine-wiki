@@ -2,7 +2,7 @@
 title: 아카이브 안내
 description: 민성 한의학 아카이브의 목적, 임상 탐색 원칙, 근거·출처와 편집 기준을 안내합니다.
 keywords: [민성 한의학 아카이브, 한의학 지식 아카이브, 임상 탐색, 한약 임상근거, 한의학 AI 검색]
-last_reviewed: "2026-08-29"
+last_reviewed: "2026-08-30"
 ---
 
 # 아카이브 안내
@@ -118,7 +118,7 @@ last_reviewed: "2026-08-29"
 - 새로운 자료를 기존 증상·질환·치료 지식망에 지속적으로 통합
 - 검색엔진과 AI가 이해하기 쉬운 제목·설명·질문형 구조를 사용
 
-세부 운영 기준은 [운영 원칙](editorial-policy.md), [분류 체계](taxonomy.md), [출처·인용 원칙](citation-policy.md)에서 확인할 수 있습니다.
+세부 운영 기준은 [운영 원칙](editorial-policy.md), [분류 체계](taxonomy.md), [출처·인용 원칙](citation-policy.md)에서 확인할 수 있습니다. 자료를 공유하거나 활용하려면 [콘텐츠 이용 안내](content-use.md)를 함께 확인할 수 있습니다.
 
 ---
 
@@ -147,5 +147,6 @@ last_reviewed: "2026-08-29"
 - [사상의학](../sasang-integrated/index.md)
 - [연구·근거](../evidence-integrated/index.md)
 - [전체 둘러보기](../portal/maps.md)
+- [콘텐츠 이용 안내](content-use.md)
 
 민성 한의학 아카이브는 **전통 한의학의 원전과 임상 지식을 보존하면서 환자가 실제로 찾는 증상, 치료자료와 현대 임상연구가 서로 이어지는 지식 아카이브**를 지향합니다.
