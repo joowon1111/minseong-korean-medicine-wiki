@@ -274,6 +274,7 @@ nav:
     - 전체 방제 찾아보기: formulas/index.md
     - 방제 구조·계보: formula-architecture/index.md
     - 임상 연결 지식망: herbal-formula-clinical/index.md
+- 침구·치료:
   - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
   - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
   - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
@@ -1197,4 +1198,3 @@ nav:
     - jingui-network/index.md
     - 잡병과 병증 구조: jingui-network/misc-disease-framework.md
     - 담음·수기: jingui-network/phlegm-fluid.md
-    - 흉비·심통: jingui-network/chest-bi-heart-pain.md
