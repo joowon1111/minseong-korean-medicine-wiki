@@ -1,10 +1,10 @@
 ---
-title: 근거·참고문헌
+title: 보익 명방 근거·참고문헌
 tags: [녹용, 공진단, 경옥고, 보익, 회복]
 status: 검토완료
 last_reviewed: 2026-08-20
 ---
-# 근거·참고문헌
+# 보익 명방 근거·참고문헌
 ## 녹용
 - Gilbey A, Perezgonzalez JD. Health benefits of deer and elk velvet antler supplements: a systematic review of randomised controlled studies. PMID 23321886.
 - Sun H et al. Well-known polypeptides of deer antler velvet with key actives. 2024. PMID 37555852. DOI 10.1007/s00210-023-02642-y.

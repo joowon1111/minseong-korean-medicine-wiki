@@ -1,11 +1,11 @@
 ---
-title: 인당 EX-HN3
+title: 인당 EX-HN3 표준 위치
 description: 경외기혈 인당의 위치·취혈·자침 정보를 정리합니다.
 status: 검토완료
 last_reviewed: 2026-08-22
 source_standard: KM-Agent CC BY 4.0 / WHO-derived metadata
 ---
-# 인당 EX-HN3
+# 인당 EX-HN3 표준 위치
 
 ## 분류
 **경외기혈** · 코드 **EX-HN3**

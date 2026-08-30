@@ -13,28 +13,28 @@ last_reviewed: 2026-08-19
 
 <div class="hub-grid">
 
-<a class="hub-card" href="../herbs/cervi-parvum-cornu/">
+<a class="hub-card" href="/herbs/cervi-parvum-cornu/">
   <div class="hub-icon">茸</div>
   <h3>녹용</h3>
   <p>정혈·신양·근골을 돕는 대표적인 동물성 보익 본초.</p>
   <span>녹용 보기 →</span>
 </a>
 
-<a class="hub-card" href="../formulas/gongjin-dan/">
+<a class="hub-card" href="/formulas/gongjin-dan/">
   <div class="hub-icon">拱</div>
   <h3>공진단</h3>
   <p>녹용·당귀·산수유·사향을 중심으로 허손과 정기 소모를 돌보는 대표 보익 처방.</p>
   <span>공진단 보기 →</span>
 </a>
 
-<a class="hub-card" href="../formulas/gyeongok-go/">
+<a class="hub-card" href="/formulas/gyeongok-go/">
   <div class="hub-icon">瓊</div>
   <h3>경옥고</h3>
   <p>인삼·생지황·복령·봉밀의 조화로 보기·자음·건비를 함께 고려하는 양생 처방.</p>
   <span>경옥고 보기 →</span>
 </a>
 
-<a class="hub-card" href="../formulas/shi-quan-da-bu-tang/">
+<a class="hub-card" href="/formulas/shi-quan-da-bu-tang/">
   <div class="hub-icon">十</div>
   <h3>십전대보탕</h3>
   <p>기혈을 함께 보하면서 온보의 방향을 더한 대표적인 기혈쌍보 처방.</p>

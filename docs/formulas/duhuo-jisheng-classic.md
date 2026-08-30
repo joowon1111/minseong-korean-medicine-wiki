@@ -1,11 +1,11 @@
 ﻿---
-title: 독활기생탕(獨活寄生湯)
+title: 독활기생탕 처방 구조·고전 연결
 tags: [방제학, 일반방제, 임상처방]
 status: 검토완료
 last_reviewed: 2026-08-20
 description: 독활기생탕(獨活寄生湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
-# 독활기생탕(獨活寄生湯)
+# 독활기생탕 처방 구조·고전 연결
 
 ## 한눈에
 - **치법:** 거풍습·익간신·보기혈
@@ -31,4 +31,3 @@ description: 독활기생탕(獨活寄生湯) — 한약 처방의 구성·치�
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
-

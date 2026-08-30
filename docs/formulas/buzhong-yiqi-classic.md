@@ -1,11 +1,11 @@
 ﻿---
-title: 보중익기탕(補中益氣湯)
+title: 보중익기탕 처방 구조·고전 연결
 tags: [방제학, 일반방제, 보기, 승양, 방약합편]
 status: 검토완료
 last_reviewed: 2026-08-20
 description: 보중익기탕(補中益氣湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
-# 보중익기탕(補中益氣湯)
+# 보중익기탕 처방 구조·고전 연결
 
 ## 한눈에
 **비위의 기를 보하고 청양을 들어 올리는 대표 익기승양방**이다.
@@ -43,4 +43,3 @@ description: 보중익기탕(補中益氣湯) — 한약 처방의 구성·치�
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
-

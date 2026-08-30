@@ -1,10 +1,10 @@
 ---
-title: 신문 HT7
+title: 신문 HT7 임상 지식망
 description: 신문 HT7의 상세 문서와 경맥·특정혈·임상 배혈 지식망으로 연결하는 안내 페이지입니다.
 status: canonical-bridge
 last_reviewed: 2026-08-22
 ---
-# 신문 HT7
+# 신문 HT7 임상 지식망
 
 **심경 원혈·불면·심계**
 

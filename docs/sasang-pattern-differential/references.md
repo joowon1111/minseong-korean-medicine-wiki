@@ -1,10 +1,10 @@
 ﻿---
-title: 근거·참고문헌
+title: 사상 병증 감별 근거·참고문헌
 tags: [사상의학, 체질병증, 감별]
 status: 검토완료
 last_reviewed: 2026-08-20
 ---
-# 근거·참고문헌
+# 사상 병증 감별 근거·참고문헌
 - Lee JH, Lee EJ. Clinical Practice Guideline for Soeumin Disease: Diagnosis and Algorithm. JSCIM. 2014;26(1):11-26. DOI 10.7730/JSCM.2014.26.1.011.
 - Hwang MW, Park HS, Lee EJ. Soeumin Disease: Greater Yin Symptomatology. 2014;26(1):45-54. DOI 10.7730/JSCM.2014.26.1.045.
 - Yoo JS, Jeon SH, Lee EJ. Soeumin Disease: Lesser Yin Symptomatology. 2014;26(1):55-63. DOI 10.7730/JSCM.2014.26.1.055.
@@ -55,4 +55,3 @@ last_reviewed: 2026-08-20
 
 **대규모 RCT·IPD meta-analysis → 고영향력 임상저널 → 한국 한의치료 직접 RCT → 최신 systematic review/meta-analysis**를 함께 연결합니다. 긍정적인 임상 결과는 구체적으로 소개하되 실제 연구의 대상군·중재·제형·평가지표를 같이 기록합니다.
 <!-- MS51_REFS_END -->
-

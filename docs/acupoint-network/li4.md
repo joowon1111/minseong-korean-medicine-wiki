@@ -1,10 +1,10 @@
 ---
-title: 합곡 LI4
+title: 합곡 LI4 임상 지식망
 description: 합곡 LI4의 상세 문서와 경맥·특정혈·임상 배혈 지식망으로 연결하는 안내 페이지입니다.
 status: canonical-bridge
 last_reviewed: 2026-08-22
 ---
-# 합곡 LI4
+# 합곡 LI4 임상 지식망
 
 **대장경 원혈·두면부·상지**
 

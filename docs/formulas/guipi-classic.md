@@ -1,11 +1,11 @@
 ﻿---
-title: 귀비탕(歸脾湯)
+title: 귀비탕 처방 구조·고전 연결
 tags: [방제학, 일반방제, 심비양허, 안신, 방약합편]
 status: 검토완료
 last_reviewed: 2026-08-20
 description: 귀비탕(歸脾湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
-# 귀비탕(歸脾湯)
+# 귀비탕 처방 구조·고전 연결
 
 ## 한눈에
 **심비를 함께 보하고 기혈을 보충하면서 안신하는 대표 심비양허방**이다.
@@ -42,4 +42,3 @@ description: 귀비탕(歸脾湯) — 한약 처방의 구성·치법·병증·�
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
-

@@ -1,10 +1,10 @@
 ---
-title: 근거·참고문헌
+title: 사상처방 임상 카드 근거·참고문헌
 tags: [사상의학, 사상처방, 체질병증]
 status: 검토완료
 last_reviewed: 2026-08-20
 ---
-# 근거·참고문헌
+# 사상처방 임상 카드 근거·참고문헌
 1. 국가한의임상정보포털(NCKM). 사상체질병증 한의표준임상진료지침. 2022.
 2. NCKM 사상체질병증 환자·일반인용 자료: 체질별 체질한약치료 처방군.
 3. *A Report on the Collecting Status of the Prospective Clinical Data Included the Constitutional Prescription.* Journal of Sasang Constitution and Immune Medicine.

@@ -1,11 +1,11 @@
 ﻿---
-title: 체계적 문헌고찰·메타분석
+title: 체계적 문헌고찰·메타분석 찾기
 description: 여러 한의학 임상시험을 종합하는 systematic review와 meta-analysis의 의미와 활용을 정리합니다.
 tags: [현대연구, systematic-review, meta-analysis]
 status: 검토완료
 last_reviewed: 2026-08-19
 ---
-# 체계적 문헌고찰·메타분석
+# 체계적 문헌고찰·메타분석 찾기
 
 체계적 문헌고찰은 관련 연구를 정해진 기준으로 찾아 평가하고, 메타분석은 여러 연구의 결과를 통계적으로 합쳐 **전체적인 효과의 방향과 크기**를 살펴본다.
 
@@ -32,4 +32,3 @@ last_reviewed: 2026-08-19
 - [연구·근거 임상 해석](../evidence-integrated/index.md)
 - [논문·PMID·DOI 찾기](../evidence-integrated/find-research.md)
 - [근거와 출처](../ai/evidence-map.md)
-

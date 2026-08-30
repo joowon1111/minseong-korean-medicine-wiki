@@ -66,7 +66,7 @@ last_reviewed: 2026-08-30
 ### 간신·정혈·수렴
 
 - [산수유](cornus-fructus.md) — 보익간신·수렴고삽
-- [산약](schisandra-extra.md) — 비·폐·신을 함께 보하는 평보 본초
+- [산약](dioscorea.md) — 비·폐·신을 함께 보하는 평보 본초
 - [녹용](cervi-parvum-cornu.md) — 보신양·익정혈
 - [숙지황](rehmannia-preparata.md) — 자음보혈·익정
 

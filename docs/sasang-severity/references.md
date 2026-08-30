@@ -1,10 +1,10 @@
 ---
-title: 근거·참고문헌
+title: 사상 병증 중증도 근거·참고문헌
 tags: [사상의학, 중증도, 위험신호, 체질병증]
 status: 검토완료
 last_reviewed: 2026-08-20
 ---
-# 근거·참고문헌
+# 사상 병증 중증도 근거·참고문헌
 1. Lee JH, Lee EJ. Clinical Practice Guideline for Soeumin Disease: Diagnosis and Algorithm. JSCIM. 2014;26(1):11-26. DOI 10.7730/JSCM.2014.26.1.011.
 2. Lee JH, Lee EJ. Clinical Practice Guideline for Soyangin Disease: Diagnosis and Algorithm. JSCIM. 2014;26(3):224-240. DOI 10.7730/JSCM.2014.26.3.224.
 3. Park HS, Joo JC, Lee EJ. Clinical Practice Guideline for Taeyangin Disease. JSCIM. 2015;27(1):71-81.

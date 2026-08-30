@@ -24,8 +24,14 @@ jobs:
       - name: Build Korean search index
         run: python tools/build_korean_search_index.py
 
-      # 기존 운영 원칙대로 strict 검증
-      - name: Strict MkDocs build
-        run: mkdocs build 
+      - name: Audit source links and duplicate URLs
+        run: python tools/audit_internal_links.py
+
+      - name: Build MkDocs site
+        run: mkdocs build
+
+      - name: Audit generated site links
+        run: python tools/audit_internal_links.py --site
+
       - name: Deploy
         run: mkdocs gh-deploy --force
