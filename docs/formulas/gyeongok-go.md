@@ -113,6 +113,7 @@ last_reviewed: 2026-08-30
 - [보익·피로·회복 허브](../pillar/tonic-recovery.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [수술 후 회복](../conditions/postoperative-recovery.md)
+- [경옥고는 어떤 경우에 선택하나요?](../conditions/gyeongokgo-guide.md)
 - [인삼](../herbs/ginseng.md)
 - [경옥고 지식망](../network/gyeongok-go-map.md)
 
