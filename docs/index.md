@@ -42,7 +42,7 @@ hide:
 | 본초나 처방 이름을 알고 있어요 | [본초·방제 한눈에 보기](herbal-integrated/index.md) |
 | 침·전침·약침과 경혈이 궁금해요 | [침구·치료 한눈에 보기](acupuncture-integrated/index.md) |
 | 체질·소증·사상처방을 찾고 있어요 | [사상의학 한눈에 보기](sasang-integrated/index.md) |
-| 임상시험·메타분석과 출처를 확인하고 싶어요 | [연구·근거 한눈에 보기](evidence-integrated/index.md) |
+| 임상시험·메타분석과 출처를 확인하고 싶어요 | [연구·근거 한눈에 보기](portal/evidence.md) |
 
 ## 핵심 주제별로 둘러보기
 
