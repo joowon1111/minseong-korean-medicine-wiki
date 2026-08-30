@@ -530,236 +530,13 @@ nav:
   - 병증 비교: sasang-integrated/patterns.md
   - 근거·출전: sasang-integrated/evidence.md
   - 상세 자료실:
-    - portal/sasang.md
-    - 사상의학:
-      - sasang/index.md
-      - 사상체질 개요: sasang/overview.md
-      - 태양인: sasang/taeyangin.md
-      - 태음인: sasang/taeumin.md
-      - 소양인: sasang/soyangin.md
-      - 소음인: sasang/soeumin.md
-      - 체질 비교: sasang/constitution-compare.md
-      - 진단과 현대 연구: sasang/diagnosis-research.md
-    - 사상의학 지식망:
-      - sasang/index.md
-      - 사상체질 기본 구조: sasang/four-constitutions.md
-      - 소양인: sasang/soyangin.md
-      - 소음인: sasang/soeumin.md
-      - 태음인: sasang/taeeumin.md
-      - 태양인: sasang/taeyangin.md
-      - 체질→병증·처방: sasang/pattern-formula-map.md
-      - 동의수세보원: sasang/donguisusebowon.md
-      - 사상의학 통합 지도: sasang/integrated-map.md
-    - 사상체질 처방 심화:
-      - sasang-formulas/index.md
-      - 형방도적산: sasang-formulas/hyeongbangdojeok-san.md
-      - 형방사백산: sasang-formulas/hyeongbangsabaek-san.md
-      - 양격산화탕: sasang-formulas/yanggyeoksanhwa-tang.md
-      - 소양인 처방 비교: sasang-formulas/soyangin-comparison.md
-      - 체질→병증→처방 탐색: sasang-formulas/decision-map.md
-      - 소음인 대표 처방: sasang-formulas/soeumin-formulas.md
-      - 태음인 대표 처방: sasang-formulas/taeeumin-formulas.md
-      - 태양인 대표 처방: sasang-formulas/taeyangin-formulas.md
-      - 사상체질 처방 전체 비교: sasang-formulas/four-constitution-formula-map.md
-    - 사상체질 임상표준·진단 지식망:
-      - sasang-guideline/index.md
-      - 사상체질병증 표준 분류: sasang-guideline/kcd-classification.md
-      - 체질 진단의 임상 흐름: sasang-guideline/diagnostic-workflow.md
-      - 소증과 현재 병증: sasang-guideline/ordinary-symptoms.md
-      - 체질별 생활관리 구조: sasang-guideline/lifestyle-framework.md
-      - 국가 임상자료·진단가이드: sasang-guideline/nckm-resources.md
-      - 사상의학 표준 통합 지도: sasang-guideline/integrated-map.md
-    - 사상체질 치료·관리 지식망:
-      - sasang-treatment/index.md
-      - 체질한약치료: sasang-treatment/herbal-treatment.md
-      - 체질침·뜸 치료: sasang-treatment/acupuncture-moxibustion.md
-      - 체질식사요법: sasang-treatment/diet.md
-      - 체질운동요법: sasang-treatment/exercise.md
-      - 체질성정요법: sasang-treatment/emotion.md
-      - 치료·예방 통합 지도: sasang-treatment/integrated-map.md
-    - 사상의학 현대 연구 지식망:
-      - sasang-research/index.md
-      - 체질진단 연구: sasang-research/diagnosis-research.md
-      - 체질과 대사·건강지표: sasang-research/metabolic-health.md
-      - 체질별 치료 연구: sasang-research/treatment-research.md
-      - 사상의학 연구 읽는 법: sasang-research/evidence-framework.md
-      - 전통→현대 연구 연결: sasang-research/classic-to-modern.md
-      - 사상의학 현대 연구 통합 지도: sasang-research/integrated-map.md
-    - 사상의학 역사·인물 지식망:
-      - sasang-history/index.md
-      - 이제마: sasang-history/lee-je-ma.md
-      - 동의수세보원 형성 배경: sasang-history/donguisusebowon-context.md
-      - 사상의학의 시대적 위치: sasang-history/historical-position.md
-      - 사상의학과 동의보감 이후 흐름: sasang-history/post-donguibogam.md
-      - 사상의학 연구·교육의 확장: sasang-history/modern-expansion.md
-      - 사상의학 역사 통합 지도: sasang-history/integrated-map.md
-    - 사상의학 질문형 AEO 허브:
-      - sasang-questions/index.md
-      - 사상체질은 어떻게 진단하나: sasang-questions/how-to-diagnose.md
-      - 체질은 평생 같은가: sasang-questions/is-constitution-fixed.md
-      - 같은 체질이면 같은 처방을 쓰나: sasang-questions/same-constitution-same-formula.md
-      - 소양인과 소음인은 어떻게 다른가: sasang-questions/soyangin-vs-soeumin.md
-      - 태음인과 소양인은 어떻게 다른가: sasang-questions/taeeumin-vs-soyangin.md
-      - 사상체질과 음식은 어떤 관계인가: sasang-questions/diet-and-constitution.md
-      - 사상체질과 운동은 어떤 관계인가: sasang-questions/exercise-and-constitution.md
-      - 동의수세보원은 어떤 책인가: sasang-questions/what-is-donguisusebowon.md
-      - 사상의학 질문 통합 지도: sasang-questions/integrated-map.md
-    - 사상체질 증상으로 찾기:
-      - sasang-symptoms/index.md
-      - 소화가 약하고 피곤할 때: sasang-symptoms/digestion-fatigue.md
-      - 열감·갈증이 두드러질 때: sasang-symptoms/heat-thirst.md
-      - 땀과 피로가 함께 나타날 때: sasang-symptoms/sweating-fatigue.md
-      - 잠이 불편하고 두근거릴 때: sasang-symptoms/sleep-palpitations.md
-      - 대변·소변 변화와 소증: sasang-symptoms/bowel-urination.md
-      - 체질과 현재 병증: sasang-symptoms/constitution-vs-pattern.md
-      - 증상→체질병증 지도: sasang-symptoms/integrated-map.md
-    - 사상체질별 증상·치료 상세:
-      - sasang-clinical-detail/index.md
-      - '소음인: 악화 양상과 치료': sasang-clinical-detail/soeumin.md
-      - '소양인: 악화 양상과 치료': sasang-clinical-detail/soyangin.md
-      - '태음인: 악화 양상과 치료': sasang-clinical-detail/taeeumin.md
-      - '태양인: 악화 양상과 치료': sasang-clinical-detail/taeyangin.md
-      - 네 체질 비교표: sasang-clinical-detail/four-constitution-comparison.md
-      - 소증→현재병증→처방: sasang-clinical-detail/clinical-algorithm.md
-      - 체질별 치료수단: sasang-clinical-detail/treatment-modalities.md
-      - 근거·참고문헌: sasang-clinical-detail/references.md
-    - 사상체질 건강→악화→회복 단계 지도:
-      - sasang-progression/index.md
-      - 소음인 단계 지도: sasang-progression/soeumin.md
-      - 소양인 단계 지도: sasang-progression/soyangin.md
-      - 태음인 단계 지도: sasang-progression/taeeumin.md
-      - 태양인 단계 지도: sasang-progression/taeyangin.md
-      - 완실무병과 건강신호: sasang-progression/healthy-signs.md
-      - 악화 신호: sasang-progression/worsening-signs.md
-      - 회복 신호: sasang-progression/recovery-signs.md
-      - 네 체질 단계 비교: sasang-progression/comparison.md
-    - 사상체질 소증 9항목 심화:
-      - sasang-original-symptoms/index.md
-      - 소화·식욕: sasang-original-symptoms/digestion-appetite.md
-      - 대변: sasang-original-symptoms/stool.md
-      - 소변: sasang-original-symptoms/urination.md
-      - 땀: sasang-original-symptoms/sweating.md
-      - 수면: sasang-original-symptoms/sleep.md
-      - 한열: sasang-original-symptoms/cold-heat.md
-      - 갈증·음수: sasang-original-symptoms/thirst-drinking.md
-      - 피로·회복: sasang-original-symptoms/fatigue-recovery.md
-      - 성정·정서: sasang-original-symptoms/emotion.md
-      - 네 체질 비교: sasang-original-symptoms/comparison.md
-      - 소증 문진표: sasang-original-symptoms/interview-checklist.md
-      - 근거: sasang-original-symptoms/references.md
-    - 사상처방 상세 임상 카드:
-      - sasang-formula-cards/index.md
-      - 태음조위탕: sasang-formula-cards/taeeumjowi-tang.md
-      - 청심연자탕: sasang-formula-cards/cheongsimyeonja-tang.md
-      - 형방지황탕: sasang-formula-cards/hyeongbangjihwang-tang.md
-      - 형방도적산: sasang-formula-cards/hyeongbangdojeok-san.md
-      - 양격산화탕: sasang-formula-cards/yanggyeoksanhwa-tang.md
-      - 곽향정기산: sasang-formula-cards/gwakhyangjeonggi-san.md
-      - 6종 비교: sasang-formula-cards/comparison-map.md
-      - 처방 선택 원칙: sasang-formula-cards/selection-principles.md
-      - 근거: sasang-formula-cards/references.md
-    - 사상처방 상세 임상 카드 2차:
-      - sasang-formula-cards-2/index.md
-      - 열다한소탕: sasang-formula-cards-2/yeoldahanso-tang.md
-      - 조위승청탕: sasang-formula-cards-2/jowiseungcheong-tang.md
-      - 청폐사간탕: sasang-formula-cards-2/cheongpyesagan-tang.md
-      - 독활지황탕: sasang-formula-cards-2/dokhwaljihwang-tang.md
-      - 형방사백산: sasang-formula-cards-2/hyeongbangsabaek-san.md
-      - 백하오이중탕: sasang-formula-cards-2/baekhao-ijung-tang.md
-      - 관계부자이중탕: sasang-formula-cards-2/gwangye-buja-ijung-tang.md
-      - 오가피장척탕: sasang-formula-cards-2/ogapi-jangcheok-tang.md
-      - 미후등식장탕: sasang-formula-cards-2/mihudeung-sikjang-tang.md
-      - 15종 처방 연결 지도: sasang-formula-cards-2/full-map.md
-      - 근거: sasang-formula-cards-2/references.md
-    - 사상체질 병증 감별 심화:
-      - sasang-pattern-differential/index.md
-      - 소음인 태음병 vs 소음병: sasang-pattern-differential/soeumin-taeeum-vs-soeum.md
-      - 소음인 망양병까지: sasang-pattern-differential/soeumin-severity-map.md
-      - 소양인 망음 vs 흉격열: sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md
-      - 소양인 음허오열까지: sasang-pattern-differential/soyangin-severity-map.md
-      - 태음인 표한 vs 리열: sasang-pattern-differential/taeeumin-exterior-vs-interior.md
-      - 태양인 해역 vs 열격: sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md
-      - 네 체질 감별 핵심표: sasang-pattern-differential/four-constitution-map.md
-      - 병증 감별 문진 순서: sasang-pattern-differential/interview-algorithm.md
-      - 근거: sasang-pattern-differential/references.md
-    - 사상체질 중증도·위험신호 지도:
-      - sasang-severity/index.md
-      - 소음인 중증도: sasang-severity/soeumin.md
-      - 소양인 중증도: sasang-severity/soyangin.md
-      - 태음인 중증도: sasang-severity/taeeumin.md
-      - 태양인 중증도: sasang-severity/taeyangin.md
-      - 경증→위중증 비교: sasang-severity/severity-comparison.md
-      - 소증 붕괴와 위험신호: sasang-severity/original-symptom-collapse.md
-      - 진료 우선순위 체크: sasang-severity/clinical-priority.md
-      - 회복·예후 추적: sasang-severity/recovery-prognosis.md
-      - 근거: sasang-severity/references.md
-    - 사상체질 치료 경과관찰·재평가:
-      - sasang-followup/index.md
-      - 초진 기록: sasang-followup/initial-assessment.md
-      - 1차 치료 후 재평가: sasang-followup/first-followup.md
-      - 소증·현증 변화표: sasang-followup/symptom-change-table.md
-      - 처방 유지·변경 판단: sasang-followup/formula-decision.md
-      - 체질별 회복 추적: sasang-followup/constitution-recovery.md
-      - mCGI 기반 평가: sasang-followup/mcgi-assessment.md
-      - 재발예방·생활관리: sasang-followup/relapse-prevention.md
-      - 진료 경과기록 템플릿: sasang-followup/clinical-template.md
-      - 근거: sasang-followup/references.md
-    - 사상처방 전체 색인·처방집:
-      - 사상처방 전체 색인: sasang-formula-library/index.md
-      - 행인승청탕: sasang-formula-library/haenginseungcheong-tang.md
-      - 활석고삼탕: sasang-formula-library/hwalseokgosam-tang.md
-      - 화석지황탕: sasang-formula-library/hwaseokjihwang-tang.md
-      - 형방도백산: sasang-formula-library/hyeongbangdobaek-san.md
-      - 형방패독산: sasang-formula-library/hyeongbangpaedok-san.md
-      - 현삼백호탕: sasang-formula-library/hyeonsambaekho-tang.md
-      - 조리폐원탕: sasang-formula-library/joripyewon-tang.md
-      - 마황정통탕: sasang-formula-library/mahwangjeongtong-tang.md
-      - 나복자승기탕: sasang-formula-library/nabokjaseunggi-tang.md
-      - 숙지황고삼탕: sasang-formula-library/sukjihwanggosam-tang.md
-    - 사상처방 배합 원리·공통본초:
-      - sasang-formula-combination-network/index.md
-      - 공통본초 빈도: sasang-formula-combination-network/ingredient-frequency.md
-      - 소양인 처방 배합망: sasang-formula-combination-network/soyangin-network.md
-      - 태음인 처방 배합망: sasang-formula-combination-network/taeeumin-network.md
-      - 소음인 처방 배합망: sasang-formula-combination-network/soeumin-network.md
-      - 비슷한 처방 쌍 비교: sasang-formula-combination-network/pair-comparisons.md
-      - 처방군·골격 비교: sasang-formula-combination-network/formula-families.md
-    - 사상처방 구성비·용량 지문:
-      - sasang-formula-dose-fingerprint/index.md
-      - 처방별 고용량 핵심약재: sasang-formula-dose-fingerprint/core-dose-map.md
-      - 체질별 용량 패턴: sasang-formula-dose-fingerprint/constitution-dose-patterns.md
-      - 유사처방 구성비 비교: sasang-formula-dose-fingerprint/dose-pair-comparisons.md
-      - 처방 용량 지문 표: sasang-formula-dose-fingerprint/formula-fingerprint-table.md
-    - 사상처방 구성·용량 라이브러리:
-      - sasang-formula-library/index.md
-      - 소양인 처방:
-        - 망음·표병: sasang-formula-library/soyangin-exterior.md
-        - 흉격열·리열: sasang-formula-library/soyangin-interior-heat.md
-        - 음허오열·하소: sasang-formula-library/soyangin-yin-deficiency.md
-        - 기타 주요 처방: sasang-formula-library/soyangin-other.md
-        - 주요 처방:
-          - 황련청장탕: sasang-formula-library/hwangryeoncheongjang-tang.md
-      - 태음인 처방:
-        - 위완수한표한: sasang-formula-library/taeeumin-exterior-cold.md
-        - 간수열리열: sasang-formula-library/taeeumin-interior-heat.md
-        - 기타 주요 처방: sasang-formula-library/taeeumin-other.md
-        - 주요 처방:
-          - 갈근해기탕: sasang-formula-library/galgeunhaegi-tang.md
-          - 갈근승기탕: sasang-formula-library/galgeunseunggi-tang.md
-          - 승지조위탕: sasang-formula-library/seungjijowi-tang.md
-      - 소음인 처방:
-        - 태음병·리한: sasang-formula-library/soeumin-taeeum.md
-        - 망양·표병: sasang-formula-library/soeumin-mangyang.md
-        - 비위·기체·기타: sasang-formula-library/soeumin-digestive.md
-        - 주요 처방:
-          - 승양팔물탕: sasang-formula-library/seungyangpalmul-tang.md
-          - 향부자팔물탕: sasang-formula-library/hyangbujapalmul-tang.md
-          - 향소산: sasang-formula-library/hyangso-san.md
-          - 궁귀향소산: sasang-formula-library/gunggwihyangso-san.md
-          - 계지부자탕: sasang-formula-library/gyejibujatang.md
-          - 인삼계지부자탕: sasang-formula-library/insamgyejibujatang.md
-          - 오수유부자이중탕: sasang-formula-library/osuyubujairijung-tang.md
-          - 궁귀총소이중탕: sasang-formula-library/gunggwichongsoijung-tang.md
+    - 사상의학 자료실: portal/sasang.md
+    - 체질·소증·병증 심화: sasang-original-symptoms/index.md
+    - 진단·임상표준: sasang-guideline/index.md
+    - 사상처방 임상카드: sasang-formula-cards/index.md
+    - 사상처방 전체 색인: sasang-formula-library/index.md
+    - 현대 연구: sasang-research/index.md
+    - 역사·인물: sasang-history/index.md
 - 연구·근거:
   - 연구·근거 안내: portal/evidence.md
   - 질환별 현대 임상근거: authority/conditions/index.md
@@ -1198,3 +975,79 @@ nav:
     - jingui-network/index.md
     - 잡병과 병증 구조: jingui-network/misc-disease-framework.md
     - 담음·수기: jingui-network/phlegm-fluid.md
+    - 흉비·심통: jingui-network/chest-bi-heart-pain.md
+    - 복만·한산·숙식: jingui-network/abdominal-cold-food-retention.md
+    - 허로: jingui-network/consumptive-deficiency.md
+    - 부인병: jingui-network/gynecology.md
+    - 대표 처방 구조: jingui-network/formula-map.md
+    - 금궤요략 임상 추론: jingui-network/clinical-reasoning.md
+    - 금궤요략→현대 한의학 지도: jingui-network/integrated-map.md
+  - 동의보감 핵심 지식망:
+    - donguibogam-network/index.md
+    - 내경편: donguibogam-network/naegyeong.md
+    - 외형편: donguibogam-network/oehyeong.md
+    - 잡병편: donguibogam-network/japbyeong.md
+    - 탕액편: donguibogam-network/tangaek.md
+    - 침구편: donguibogam-network/chimgu.md
+    - 양생과 예방: donguibogam-network/yangsaeng-prevention.md
+    - 동의보감 임상 탐색법: donguibogam-network/clinical-navigation.md
+    - 동의보감→현대 한의학 지도: donguibogam-network/integrated-map.md
+  - 동의수세보원 핵심 지식망:
+    - donguisusebowon-network/index.md
+    - 사상인의 기본 구조: donguisusebowon-network/four-constitutions.md
+    - 성명론·사단론의 의미: donguisusebowon-network/seongmyeong-sadan.md
+    - 장부론과 체질 생리: donguisusebowon-network/zangbu-physiology.md
+    - 소증과 체질병증: donguisusebowon-network/ordinary-symptoms-patterns.md
+    - 표리병증과 처방: donguisusebowon-network/exterior-interior-patterns.md
+    - 체질별 치료 원칙: donguisusebowon-network/treatment-principles.md
+    - 양생·성정 관리: donguisusebowon-network/lifestyle-emotion.md
+    - 동의수세보원→현대 사상의학 지도: donguisusebowon-network/integrated-map.md
+  - 온병학 핵심 지식망:
+    - wenbing-network/index.md
+    - 온병학이란: wenbing-network/what-is-wenbing.md
+    - 위기영혈변증: wenbing-network/wei-qi-ying-xue.md
+    - 삼초변증: wenbing-network/triple-burner-patterns.md
+    - 위분·기분: wenbing-network/wei-qi-stages.md
+    - 영분·혈분: wenbing-network/ying-xue-stages.md
+    - 대표 처방 구조: wenbing-network/formula-map.md
+    - 온열론과 온병조변: wenbing-network/classic-texts.md
+    - 상한론과 온병학 비교: wenbing-network/shanghan-comparison.md
+    - 온병학→현대 한의학 지도: wenbing-network/integrated-map.md
+- 민성한의원 ↗: https://www.minseong.co.kr/
+not_in_nav: '/ai-index.md
+
+  /foundations/zangfu.md
+
+  /templates/classic-template.md
+
+  /templates/condition-template.md
+
+  /templates/formula-template.md
+
+  /templates/herb-template.md
+
+  /templates/research-template.md
+
+  /research/clinical-trials.md
+
+  /research/systematic-reviews.md
+
+  /research/evidence-levels.md
+
+  /evidence-clinical/evidence-levels.md
+
+  /evidence-clinical/classic-vs-modern.md
+
+  /evidence-clinical/preclinical.md
+
+  /evidence-clinical/rct.md
+
+  /evidence-clinical/systematic-review.md
+
+  '
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+  links:
+    not_found: warn
