@@ -27,6 +27,6 @@ description: 사상처방 6종 비교 — 민성 한의학 아카이브의 관�
 
 ## 관련 핵심 문서
 
-- [주요 사상처방 15종 연결 지도](../sasang-formula-cards-2/full-map.md)
+- [체질별 대표 사상처방 연결 지도](../sasang-formula-cards-2/full-map.md)
 - [사상처방 선택 원칙](selection-principles.md)
 - [사상처방 전체 색인](../sasang-formula-library/index.md)

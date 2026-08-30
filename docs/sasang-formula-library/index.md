@@ -65,7 +65,7 @@ last_reviewed: 2026-08-22
 
 - [사상처방 상세 임상 카드](../sasang-formula-cards/index.md)
 - [사상처방 선택 원칙](../sasang-formula-cards/selection-principles.md)
-- [주요 사상처방 15종 연결 지도](../sasang-formula-cards-2/full-map.md)
+- [체질별 대표 사상처방 연결 지도](../sasang-formula-cards-2/full-map.md)
 - [본초로 사상처방 찾기](../herbs/sasang-formula-reverse-index.md)
 - [체질 병증](../sasang/disease-patterns.md)
 - [사상의학 임상 지식망](../sasang/index.md)

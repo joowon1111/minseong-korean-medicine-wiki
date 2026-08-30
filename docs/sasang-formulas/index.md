@@ -82,7 +82,7 @@ last_reviewed: '2026-08-24'
 
 → [태음인 대표 처방](taeeumin-formulas.md)  
 → [태음인](../sasang/taeeumin.md)  
-→ [사상처방 상세 임상 카드 2차](../sasang-formula-cards-2/index.md)
+→ [체질별 사상처방 임상 카드 모음](../sasang-formula-cards-2/index.md)
 
 ---
 
@@ -94,7 +94,7 @@ last_reviewed: '2026-08-24'
 
 → [태양인 대표 처방](taeyangin-formulas.md)  
 → [태양인](../sasang/taeyangin.md)  
-→ [사상처방 상세 임상 카드 2차](../sasang-formula-cards-2/index.md)
+→ [체질별 사상처방 임상 카드 모음](../sasang-formula-cards-2/index.md)
 
 ---
 
@@ -142,7 +142,7 @@ last_reviewed: '2026-08-24'
 `언제 고려하는가 → 핵심 병증 → 주요 증상 → 구성 본초 → 비슷한 처방과 차이 → 회복신호 → 원전·근거`
 
 → [사상처방 상세 임상 카드](../sasang-formula-cards/index.md)  
-→ [사상처방 상세 임상 카드 2차](../sasang-formula-cards-2/index.md)
+→ [체질별 사상처방 임상 카드 모음](../sasang-formula-cards-2/index.md)
 
 ---
 
