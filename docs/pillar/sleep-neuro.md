@@ -3,7 +3,7 @@ title: 수면·정서·신경 한의학 허브
 description: 불면·불안·두통·어지럼·이명·저림·하지불안·브레인포그를 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 수면, 정서, 신경계, 안신]
 status: 검토완료
-last_reviewed: 2026-08-29
+last_reviewed: 2026-08-31
 ---
 
 # 수면·정서·신경 한의학 허브
@@ -16,6 +16,7 @@ last_reviewed: 2026-08-29
 |---|---|
 | 잠들기 어렵거나 자주 깸 | [불면증·수면장애](../conditions/insomnia.md) |
 | 걱정과 긴장이 지속됨 | [불안·과도한 걱정](../conditions/anxiety.md) |
+| 억울함·분노와 가슴 답답함·상열감이 반복됨 | [화병·울화·가슴답답함](../conditions/hwabyeong.md) |
 | 머리가 아프고 뒷목이 당김 | [두통](../conditions/headache.md) · [긴장형두통](../conditions/tension-headache.md) |
 | 빙빙 돌거나 휘청거림 | [어지럼](../conditions/dizziness.md) |
 | 귀에서 소리가 남 | [이명](../conditions/tinnitus.md) |
@@ -42,6 +43,7 @@ last_reviewed: 2026-08-29
 
 - [불면 임상 지식망](../network/insomnia-map.md)
 - [불면 경혈 지식망](../network/insomnia-acupoints.md)
+- [화병·울화의 감별과 통합치료](../conditions/hwabyeong.md)
 - [두통·어지럼에서 먼저 확인할 신호](../clinical-safety/headache-dizziness.md)
 - [침구·한의치료 허브](acupuncture-treatment.md)
 - [현대 임상근거 허브](clinical-evidence.md)

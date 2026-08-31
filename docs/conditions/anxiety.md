@@ -150,6 +150,7 @@ last_reviewed: 2026-08-28
 - [어지럼](dizziness.md)
 - [두통](headache.md)
 - [갱년기](menopause.md)
+- [화병·울화·가슴답답함](hwabyeong.md)
 - [만성피로](chronic-fatigue.md)
 - [불안 현대 임상근거 카드](../authority/conditions/anxiety.md)
 - [R45 정서 관련 증상 안내](../symptom-herbal-guide/neuro-mental/r45-emotional.md)
