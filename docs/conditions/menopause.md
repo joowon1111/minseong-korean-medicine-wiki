@@ -140,6 +140,7 @@ last_reviewed: 2026-08-28
 ## 관련 문서
 
 - [불면](./insomnia.md)
+- [화병·울화·가슴답답함](./hwabyeong.md)
 - [만성피로](./chronic-fatigue.md)
 - [골반·회음부 증상 R11](../symptom-herbal-guide/urogenital/r11-pelvic-perineal.md)
 - [수면 R46 안내](../symptom-herbal-guide/neuro-mental/r46-sleep.md)
