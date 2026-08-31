@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 문서별 실제 Git 수정일을 sitemap.xml의 lastmod에 반영합니다.
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
