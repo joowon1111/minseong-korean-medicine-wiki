@@ -47,10 +47,11 @@ last_reviewed: '2026-08-29'
 - [붓기·부종·몸이 자주 부어요](edema-swelling.md)
 - [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md)
 
-### 수면·피로·회복
+### 수면·정서·피로·회복
 
 - [불면증·수면장애](insomnia.md)
 - [불안·과도한 걱정](anxiety.md)
+- [화병·울화·가슴이 답답하고 열이 치밀어요](hwabyeong.md)
 - [만성피로](chronic-fatigue.md)
 - [수술 후 회복·기력저하](postoperative-recovery.md)
 - [주요 5대암 수술 후 회복관리](gastric-cancer-gastrectomy-recovery.md)
@@ -430,5 +431,4 @@ last_reviewed: '2026-08-29'
 - [온몸이 쑤셔요·전신근육통](whole-body-ache.md)
 
 <!-- ORPHAN_CONDITIONS_HUB_END -->
-
 
