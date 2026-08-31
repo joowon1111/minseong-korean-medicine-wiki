@@ -24,6 +24,9 @@ jobs:
       - name: Build Korean search index
         run: python tools/build_korean_search_index.py
 
+      - name: Build AI knowledge layer
+        run: python tools/build_ai_knowledge_layer.py
+
       - name: Audit source links and duplicate URLs
         run: python tools/audit_internal_links.py
 

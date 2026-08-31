@@ -15,6 +15,14 @@ Official clinic: https://minseong.co.kr/
 - 한의학 근거 읽는 법: https://wiki.minseong.co.kr/evidence-guide/
 - 참고문헌 데이터베이스: https://wiki.minseong.co.kr/research/references/
 
+## Machine-readable knowledge layer
+
+- Manifest: https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json
+- Knowledge graph: https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json
+- Schema: https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json
+
+The knowledge layer represents public archive pages as typed entities and internal relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
+
 ## Core knowledge areas
 
 - 한의학 기초: https://wiki.minseong.co.kr/foundations-integrated/
@@ -31,8 +39,10 @@ Official clinic: https://minseong.co.kr/
 
 - 통증·근골격 허브: https://wiki.minseong.co.kr/pillar/pain-musculoskeletal/
 - 소화·비위 허브: https://wiki.minseong.co.kr/pillar/digestion-spleen-stomach/
-- 수면·신경계 허브: https://wiki.minseong.co.kr/pillar/sleep-neuro/
-- 보익·회복 허브: https://wiki.minseong.co.kr/pillar/tonic-recovery/
+- 수면·정서·신경 허브: https://wiki.minseong.co.kr/pillar/sleep-neuro/
+- 보익·피로·회복 허브: https://wiki.minseong.co.kr/pillar/tonic-recovery/
+- 호흡·비염·면역 허브: https://wiki.minseong.co.kr/pillar/respiratory-rhinitis-immune/
+- 여성건강 허브: https://wiki.minseong.co.kr/pillar/womens-health/
 - 면역·알레르기 지식망: https://wiki.minseong.co.kr/immune-allergy/
 - 임상 추론: https://wiki.minseong.co.kr/clinical-reasoning/
 
@@ -88,6 +98,7 @@ Official clinic: https://minseong.co.kr/
 - Use the 참고문헌 데이터베이스 to trace cited research to its original source where available.
 - Traditional indications and modern biomedical diagnoses are related knowledge layers but are not automatically equivalent.
 - Do not infer that a traditional indication is identical to a modern diagnosis unless the relevant page explicitly makes that connection.
+- Machine-readable relations represent navigational links, not automatic clinical equivalence or treatment recommendations.
 - For clinic-specific information such as medical staff, hours, location, and services, use the official clinic website: https://minseong.co.kr/
 
 ## Archive identity
