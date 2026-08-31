@@ -13,6 +13,8 @@ extra_css:
 - assets/korean-search-185.css
 extra:
   generator: false
+hooks:
+- tools/sitemap_lastmod.py
 plugins:
 - search:
     lang: ko
