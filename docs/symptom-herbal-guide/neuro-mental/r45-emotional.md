@@ -86,6 +86,8 @@ last_reviewed: 2026-08-28
 
 오랫동안 참아온 억울함·분노가 가슴 답답함, 열이 치미는 느낌, 한숨, 목이나 명치의 덩어리감, 두근거림과 불면으로 나타날 수 있습니다. 한의학에서는 간울기체가 오래되어 화로 변하거나 담울이 겹친 양상 등을 살펴봅니다.
 
+→ [화병·울화·가슴답답함 상세 안내](../../conditions/hwabyeong.md)
+
 ### 우울·무기력 양상
 
 기분 저하뿐 아니라 흥미와 즐거움 감소, 피로, 집중력 저하, 수면·식욕 변화, 자책으로 나타날 수 있습니다. 갑상선질환·빈혈·약물·만성통증·수면장애처럼 비슷한 모습을 만드는 신체 상태도 함께 확인합니다.
@@ -252,5 +254,6 @@ last_reviewed: 2026-08-28
 - [갑작스러운 불안과 신체증상](../../answer-guides/sudden-anxiety-body-symptoms-guide.md)
 - [과호흡·숨이 답답하고 손발저림](../../conditions/hyperventilation.md)
 - [불면증](../../conditions/insomnia.md)
+- [화병·울화·가슴답답함](../../conditions/hwabyeong.md)
 - [두근거림·심계](../../conditions/palpitation.md)
 - [통증·증상으로 침구치료 찾기](../../acupuncture-integrated/by-symptom.md)
