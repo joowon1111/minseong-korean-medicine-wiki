@@ -1,0 +1,101 @@
+/* Minseong Korean Search 185
+   Material result DOM에 결과를 삽입하지 않고 .md-search 자체에 독립 패널을 둔다. */
+
+.md-search {
+  position: relative;
+}
+
+.ms-ksearch-panel {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  max-height: min(70vh, 680px);
+  overflow: auto;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0 0 .45rem .45rem;
+  box-shadow: 0 .5rem 1.5rem rgba(0,0,0,.18);
+}
+
+.ms-ksearch-panel[hidden] {
+  display: none !important;
+}
+
+.ms-ksearch-head {
+  display: flex;
+  justify-content: space-between;
+  gap: .75rem;
+  padding: .7rem .9rem;
+  font-size: .72rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.ms-ksearch-head small {
+  font-size: .6rem;
+  font-weight: 400;
+  opacity: .65;
+}
+
+.ms-ksearch-list {
+  display: block;
+}
+
+.ms-ksearch-item {
+  display: block;
+  padding: .72rem .9rem;
+  color: var(--md-default-fg-color);
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  text-decoration: none;
+}
+
+.ms-ksearch-item:hover,
+.ms-ksearch-item:focus {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+.ms-ksearch-title {
+  display: block;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.ms-ksearch-snippet {
+  display: -webkit-box;
+  margin-top: .25rem;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  font-size: .65rem;
+  line-height: 1.45;
+  opacity: .72;
+}
+
+.ms-ksearch-foot,
+.ms-ksearch-empty {
+  padding: .65rem .9rem;
+  font-size: .62rem;
+  line-height: 1.5;
+  opacity: .72;
+}
+
+.ms-ksearch-empty span {
+  display: block;
+  margin-top: .2rem;
+}
+
+/* 자체 검색 결과가 있더라도 Material 검색 자체는 제거하지 않는다.
+   독립 패널이 그 위에 표시되고, 결과 없음일 때 안내 후 기본 검색을 보조로 사용할 수 있다. */
+
+@media screen and (max-width: 44.984375em) {
+  .ms-ksearch-panel {
+    position: fixed;
+    top: 3.6rem;
+    left: .6rem;
+    right: .6rem;
+    max-height: calc(100vh - 4.3rem);
+    border-radius: .45rem;
+  }
+}

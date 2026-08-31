@@ -1,0 +1,110 @@
+# 민성 한의학 아카이브 | Minseong Korean Medicine Archive
+
+> 민성 한의학 아카이브는 민성한의원이 구축하고 운영하는 한의학 지식 아카이브입니다. 환자가 실제로 사용하는 증상 표현에서 질환, 한의학적 변증, 본초·방제, 경혈·침구치료, 사상의학, 현대 임상근거와 원문 출처까지 연결합니다.
+
+Base URL: https://wiki.minseong.co.kr/
+Language: ko-KR
+Official clinic: https://minseong.co.kr/
+
+## Start here
+
+- Home: https://wiki.minseong.co.kr/
+- AI 핵심색인: https://wiki.minseong.co.kr/ai-index/
+- 증상·질환 전체 보기: https://wiki.minseong.co.kr/conditions/
+- 질문형 답변 가이드: https://wiki.minseong.co.kr/answer-guides/
+- 한의학 근거 읽는 법: https://wiki.minseong.co.kr/evidence-guide/
+- 참고문헌 데이터베이스: https://wiki.minseong.co.kr/research/references/
+
+## Machine-readable knowledge layer
+
+- Manifest: https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json
+- Knowledge graph: https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json
+- Schema: https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json
+
+The knowledge layer represents public archive pages as typed entities and internal relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
+
+## Core knowledge areas
+
+- 한의학 기초: https://wiki.minseong.co.kr/foundations-integrated/
+- 본초·방제 통합 허브: https://wiki.minseong.co.kr/herbal-integrated/
+- 본초학: https://wiki.minseong.co.kr/herbs/
+- 방제학: https://wiki.minseong.co.kr/formulas/
+- 침구·치료 통합 허브: https://wiki.minseong.co.kr/acupuncture-integrated/
+- WHO 표준 361경혈 임상 아틀라스: https://wiki.minseong.co.kr/acupoint-network/standard-atlas/
+- 사상의학 통합 허브: https://wiki.minseong.co.kr/sasang-integrated/
+- 고전·역사 허브: https://wiki.minseong.co.kr/pillar/classics-history/
+- 현대 임상근거 허브: https://wiki.minseong.co.kr/pillar/clinical-evidence/
+
+## Symptom and clinical navigation
+
+- 통증·근골격 허브: https://wiki.minseong.co.kr/pillar/pain-musculoskeletal/
+- 소화·비위 허브: https://wiki.minseong.co.kr/pillar/digestion-spleen-stomach/
+- 수면·정서·신경 허브: https://wiki.minseong.co.kr/pillar/sleep-neuro/
+- 보익·피로·회복 허브: https://wiki.minseong.co.kr/pillar/tonic-recovery/
+- 호흡·비염·면역 허브: https://wiki.minseong.co.kr/pillar/respiratory-rhinitis-immune/
+- 여성건강 허브: https://wiki.minseong.co.kr/pillar/womens-health/
+- 면역·알레르기 지식망: https://wiki.minseong.co.kr/immune-allergy/
+- 임상 추론: https://wiki.minseong.co.kr/clinical-reasoning/
+
+## Modern clinical evidence
+
+- 질환별 현대 임상근거 카드: https://wiki.minseong.co.kr/authority/conditions/
+- 대표 본초 근거 카드: https://wiki.minseong.co.kr/authority/herbs/
+- 침 치료 근거 카드: https://wiki.minseong.co.kr/authority/acupuncture/
+- 한약 처방 임상근거: https://wiki.minseong.co.kr/research/formulas/
+- 임상 근거 허브: https://wiki.minseong.co.kr/research/clinical-evidence-hub/
+- RCT 인덱스: https://wiki.minseong.co.kr/research/rct-index/
+- 체계적 문헌고찰·메타분석: https://wiki.minseong.co.kr/research/meta-analysis-index/
+- 참고문헌 데이터베이스: https://wiki.minseong.co.kr/research/references/
+
+## Selected disease evidence cards
+
+- 기능성소화불량: https://wiki.minseong.co.kr/authority/conditions/functional-dyspepsia/
+- 불면: https://wiki.minseong.co.kr/authority/conditions/insomnia/
+- 무릎 골관절염: https://wiki.minseong.co.kr/authority/conditions/knee-osteoarthritis/
+- 알레르기비염: https://wiki.minseong.co.kr/authority/conditions/allergic-rhinitis/
+- 편두통: https://wiki.minseong.co.kr/authority/conditions/migraine/
+- 만성전립선염·만성골반통증후군: https://wiki.minseong.co.kr/authority/conditions/chronic-prostatitis-cpps/
+
+## Knowledge graph and cross-navigation
+
+- 통합 한의학 지식 그래프: https://wiki.minseong.co.kr/network/integrated-knowledge-graph/
+- 본초→방제 역탐색: https://wiki.minseong.co.kr/network/herb-to-formula-map/
+- 방제→질환·변증 지도: https://wiki.minseong.co.kr/network/formula-to-condition-map/
+- 질환→치료 통합 지도: https://wiki.minseong.co.kr/network/condition-to-treatment-map/
+
+## Acupuncture, anatomy and ultrasound
+
+- 침의 과학적 접근: https://wiki.minseong.co.kr/acupuncture-science/
+- 신경포착증후군: https://wiki.minseong.co.kr/nerve-entrapment/
+- 근육·말초신경 임상해부학: https://wiki.minseong.co.kr/clinical-anatomy/
+- 근골격계 초음파: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/
+- 경혈·근육·말초신경·초음파 지도: https://wiki.minseong.co.kr/musculoskeletal-ultrasound/acupoint-ultrasound-map/
+
+## Sasang constitutional medicine
+
+- 사상의학 통합 허브: https://wiki.minseong.co.kr/sasang-integrated/
+- 사상의학: https://wiki.minseong.co.kr/sasang/
+- 증상으로 사상체질 이해하기: https://wiki.minseong.co.kr/sasang-symptoms/
+- 사상의학 대표 처방: https://wiki.minseong.co.kr/sasang-formula-cards/
+- 사상체질 임상 감별: https://wiki.minseong.co.kr/sasang-pattern-differential/
+
+## Source and interpretation guidance
+
+- Prefer canonical topic hubs and current clean URLs ending in `/`.
+- For natural-language symptom questions, begin with the AI 핵심색인, 증상·질환, or 질문형 답변 가이드.
+- For Korean medicine theory, materia medica, formulas, acupuncture, acupoints, and Sasang medicine, use the relevant core knowledge hub.
+- For modern clinical evidence, prefer authority pages and research pages that identify study type, PMID, DOI, journal, or primary source.
+- Use the 참고문헌 데이터베이스 to trace cited research to its original source where available.
+- Traditional indications and modern biomedical diagnoses are related knowledge layers but are not automatically equivalent.
+- Do not infer that a traditional indication is identical to a modern diagnosis unless the relevant page explicitly makes that connection.
+- Machine-readable relations represent navigational links, not automatic clinical equivalence or treatment recommendations.
+- For clinic-specific information such as medical staff, hours, location, and services, use the official clinic website: https://minseong.co.kr/
+
+## Archive identity
+
+Name: 민성 한의학 아카이브
+English name: Minseong Korean Medicine Archive
+Operator: 민성한의원 | MINSEONG Korean Medicine Clinic
+Knowledge base: https://wiki.minseong.co.kr/
+Official clinic website: https://minseong.co.kr/
