@@ -494,7 +494,24 @@ nav:
   - 치료별 임상근거:
     - 한약·처방: authority/formulas/herbal-formula-evidence-hub.md
     - 침·전침·약침: evidence-integrated/acupuncture-evidence.md
-    - 대표 본초: authority/herbs/index.md
+    - 대표 본초:
+      - 본초 근거 한눈에 보기: authority/herbs/index.md
+      - 보기·회복:
+        - 녹용: authority/herbs/velvet-antler.md
+        - 인삼: authority/herbs/ginseng.md
+        - 황기: authority/herbs/astragalus.md
+      - 보혈·순환:
+        - 당귀: authority/herbs/angelica.md
+        - 백작약: authority/herbs/white-peony.md
+        - 천궁: authority/herbs/chuanxiong.md
+      - 수면·호흡:
+        - 산조인: authority/herbs/ziziphus-seed.md
+        - 맥문동: authority/herbs/ophiopogon.md
+      - 간신·수분대사:
+        - 산수유: authority/herbs/cornus-fructus.md
+        - 산약: authority/herbs/dioscorea.md
+        - 택사: authority/herbs/alisma.md
+        - 목단피: authority/herbs/moutan.md
   - 근거 이해·적용:
     - 연구 유형 한눈에 보기: evidence-guide/index.md
     - 근거 수준: evidence-integrated/evidence-levels.md
