@@ -413,13 +413,23 @@ nav:
     - 불면 근거 카드: authority/insomnia.md
     - 요통 근거 카드: authority/low-back-pain.md
     - 대표 본초 근거 카드:
-      - authority/herbs/index.md
-      - 녹용: authority/herbs/velvet-antler.md
-      - 인삼: authority/herbs/ginseng.md
-      - 황기: authority/herbs/astragalus.md
-      - 당귀: authority/herbs/angelica.md
-      - 산조인: authority/herbs/ziziphus-seed.md
-      - 맥문동: authority/herbs/ophiopogon.md
+      - 한눈에 보기: authority/herbs/index.md
+      - 보기·회복:
+        - 녹용: authority/herbs/velvet-antler.md
+        - 인삼: authority/herbs/ginseng.md
+        - 황기: authority/herbs/astragalus.md
+      - 보혈·순환:
+        - 당귀: authority/herbs/angelica.md
+        - 백작약: authority/herbs/white-peony.md
+        - 천궁: authority/herbs/chuanxiong.md
+      - 수면·호흡:
+        - 산조인: authority/herbs/ziziphus-seed.md
+        - 맥문동: authority/herbs/ophiopogon.md
+      - 간신·수분대사:
+        - 산수유: authority/herbs/cornus-fructus.md
+        - 산약: authority/herbs/dioscorea.md
+        - 택사: authority/herbs/alisma.md
+        - 목단피: authority/herbs/moutan.md
     - 질환별 현대 근거 카드:
       - authority/conditions/index.md
       - 기능성 소화불량: authority/conditions/functional-dyspepsia.md
