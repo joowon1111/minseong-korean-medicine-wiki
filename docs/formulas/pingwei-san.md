@@ -2,7 +2,7 @@
 title: 평위산(平胃散)
 tags: [방제학, 일반방제, 비위, 화습, 방약합편]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-01
 description: 평위산(平胃散) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 평위산(平胃散)
@@ -35,6 +35,10 @@ description: 평위산(平胃散) — 한약 처방의 구성·치법·병증·�
 - **향사양위탕:** 비위허한·기체가 더 뚜렷
 - **위령탕:** 평위산 계열에 수습·소변불리·설사 축이 더해짐
 
+## 현대 임상연구
+
+2026년 한국 다기관 무작위시험은 기능성 소화불량 환자 140명을 평위산·육군자탕·통상관리군으로 나누어 6주간 비교했다. 평위산군은 통상관리보다 총 소화불량 증상점수가 더 감소했다(MD -1.55, 95% CI -2.98~-0.12). 육군자탕과의 전체 효과 차이는 뚜렷하지 않았고, 치료 관련 중대한 이상반응은 보고되지 않았다. 이 결과는 모든 소화불량에 평위산을 일률적으로 적용한다는 뜻이 아니라, 연구 대상과 습체·창만 중심의 실제 병증이 가까운지 확인해 활용한다. PMID `42637062`, DOI `10.1016/j.jep.2026.122335`.
+
 ## 출전·근거
 한국전통지식포탈, 평위산B, 처방코드 P0004226  
 https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0004226&tempLang=ko
@@ -45,4 +49,4 @@ https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0004226
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
-
+- [기능성소화불량](../conditions/functional-dyspepsia.md)

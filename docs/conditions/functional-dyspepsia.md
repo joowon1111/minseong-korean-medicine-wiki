@@ -3,7 +3,7 @@ title: 기능성소화불량
 description: 기능성소화불량을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 소화기, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-01
 ---
 # 기능성소화불량
 
@@ -72,12 +72,14 @@ last_reviewed: 2026-08-21
     "name": "기능성소화불량"
   },
   "keywords": "기능성소화불량, 식후 더부룩함, 조기포만, 육군자탕, 반하사심탕, 족삼리 ST36, 내관 PC6",
-  "dateModified": "2026-08-23"
+  "dateModified": "2026-09-01"
 }
 </script>
 <!-- MS132_STRUCTURED_DATA_END -->
 
 ### 한약 최신 임상근거
+
+- **Yukgunja-tang and Pyeongwi-san improve functional dyspepsia and modulate ghrelin dynamics: A multicenter randomized controlled trial.** — 140명을 6주간 비교한 다기관 무작위시험에서 육군자탕과 평위산은 통상관리보다 총 소화불량 증상점수를 더 낮췄습니다. 두 처방 사이의 전체 효과 차이는 뚜렷하지 않았고, 치료 관련 중대한 이상반응은 보고되지 않았습니다. 위약 대조가 아닌 통상관리 비교 연구라는 점을 함께 봅니다. PMID `42637062` · DOI `10.1016/j.jep.2026.122335`
 
 - **The Efficacy of the Herbal Formula of Bunium persicum and Coriandrum sativum on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Controlled Trial.** — 해당 질환에서 동아시아 한약 치료를 평가한 최근 임상근거입니다. PMID `38981452` · DOI `10.1159/000539472`
 
