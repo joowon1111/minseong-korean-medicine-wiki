@@ -127,6 +127,6 @@ description: 고전→현대 연결 — 민성 한의학 아카이브의 관련 
 - [고전 지식망](../classics-network/index.md)
 - [고전·전통자료 판별](../evidence-integrated/classical-sources.md)
 - [전통 문헌과 현대 연구](../evidence-guide/tradition-modern.md)
-- [연구·근거 임상 해석](../evidence-clinical/index.md)
+- [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 - [근거를 임상에 적용하기](../evidence-integrated/clinical-application.md)
 - [출처·인용 원칙](../research/references/index.md)

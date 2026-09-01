@@ -50,4 +50,4 @@ tags: [보익처방연구, 녹용연구, 귀비탕연구, 보중익기탕연구,
 
 - [보익·보약 연구 심화 지도](tonic-research-deep-guide.md)
 - [현대 임상근거 허브](../pillar/clinical-evidence.md)
-- [근거의 층위](../evidence-clinical/evidence-levels.md)
+- [근거의 층위](../evidence-integrated/evidence-levels.md)

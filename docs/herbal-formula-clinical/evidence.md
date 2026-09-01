@@ -24,6 +24,5 @@ last_reviewed: 2026-08-22
 ## 전임상과 임상
 성분·기전·동물연구는 작용 가능성을 이해하는 데 유용하고, 실제 환자에서의 효과는 사람 대상 임상연구를 중심으로 봅니다.
 
-→ [현대 임상근거 읽기](../evidence-clinical/index.md)  
+→ [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 → [한약 현대근거 통합지도](../evidence-integrated/herbal-evidence.md)
-

@@ -55,5 +55,5 @@ last_reviewed: 2026-08-19
 → [한의학 역사 타임라인](../history/timeline.md)
 
 ## 현대 연구 축
-→ [임상 근거 허브](../research/clinical-evidence-hub.md)  
+→ [연구·근거 안내](../portal/evidence.md)
 → [참고문헌 데이터베이스](../research/references/index.md)

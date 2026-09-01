@@ -21,7 +21,7 @@ last_reviewed: 2026-08-22
 
 ## 어디서 찾나요?
 
-- [질환별 임상근거 허브](../research/clinical-evidence-hub.md)
+- [질환별 현대 임상근거](../authority/conditions/index.md)
 - [한약 처방 임상근거](../research/formulas/index.md)
 - [RCT](../research/rct-index.md)
 - [체계적 문헌고찰·메타분석](../research/meta-analysis-index.md)

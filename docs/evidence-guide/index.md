@@ -3,7 +3,7 @@ title: 한의학 근거 읽는 법
 description: 전통 문헌·기전연구·관찰연구·임상시험·체계적 문헌고찰·진료지침을 구분하고 한약·침구 연구를 환자 증상과 임상결과에 연결해 읽는 표준 안내입니다.
 tags: [근거중심, 연구방법, RCT, 메타분석, PMID, DOI, AEO]
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: '2026-09-01'
 ---
 # 한의학 근거 읽는 법
 
@@ -112,7 +112,7 @@ last_reviewed: '2026-08-29'
 
 - 완성된 질환·치료별 요약: [출처·근거 카드](../authority/index.md)
 - RCT·메타분석·PMID·DOI 목록: [현대 연구 데이터베이스](../research/index.md)
-- 연구 결과를 진료계획으로 옮기기: [임상 적용 심화](../evidence-clinical/index.md)
+- 연구 결과를 진료계획으로 옮기기: [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 - 전통 병증에서 현대 연구까지 연결: [전통지식·현대근거 통합 임상 지도](../evidence-integrated/index.md)
 
 !!! note "긍정적 결과를 읽는 방법"

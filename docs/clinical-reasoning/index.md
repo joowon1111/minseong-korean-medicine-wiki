@@ -173,6 +173,6 @@ last_reviewed: 2026-08-22
 
 - [팔강변증](../eight-principles-network/index.md)
 - [임상 안전성](../clinical-safety/index.md)
-- [임상근거](../evidence-clinical/index.md)
+- [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 - [통합 임상추론 지도](integrated-map.md)
 - [변증·치법](../foundations-integrated/pattern-treatment.md)

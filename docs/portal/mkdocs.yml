@@ -443,10 +443,10 @@ nav:
       - 뇌졸중 후 경직: authority/conditions/post-stroke-spasticity.md
   - 현대 연구:
     - research/index.md
-    - 임상시험 읽기: research/clinical-trials.md
-    - 체계적 문헌고찰 읽기: research/systematic-reviews.md
+    - 임상시험 읽기: evidence-guide/rct.md
+    - 체계적 문헌고찰 읽기: evidence-guide/systematic-review.md
     - 근거 수준: research/evidence-levels.md
-    - 임상 근거 허브: research/clinical-evidence-hub.md
+    - 임상 근거 허브: portal/evidence.md
     - 한약 처방 임상근거:
       - research/formulas/index.md
       - 공진단: research/formulas/gongjin-dan.md

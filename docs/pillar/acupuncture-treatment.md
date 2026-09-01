@@ -48,4 +48,4 @@ last_reviewed: 2026-08-22
 침구 임상연구에서는 단일혈보다 복합 배혈 프로토콜이 많이 사용됩니다. **경혈 조합, 자침 깊이, 유침시간, 전침 여부, 치료 빈도, 비교군과 평가변수**를 함께 확인합니다.
 
 - [한의학 현대 임상근거](clinical-evidence.md)
-- [질환별 임상근거](../research/clinical-evidence-hub.md)
+- [질환별 임상근거](../authority/conditions/index.md)

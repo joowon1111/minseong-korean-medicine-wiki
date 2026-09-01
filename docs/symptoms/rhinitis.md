@@ -14,6 +14,6 @@ last_reviewed: 2026-08-19
 
 → [비염 상세 문서](../conditions/rhinitis.md)  
 → [침 치료](../treatments/acupuncture.md)  
-→ [임상 근거 허브](../research/clinical-evidence-hub.md)
+→ [질환별 현대 임상근거](../authority/conditions/index.md)
 
 증상이 오래 지속되거나 심한 경우에는 알레르기 원인과 다른 비강 질환 여부를 함께 평가하는 것이 중요하다.

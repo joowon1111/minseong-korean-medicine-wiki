@@ -3,7 +3,7 @@ title: 한약·처방 현대 임상근거 허브
 description: 소화기·수면·통증·호흡기·여성건강·보익·회복 영역의 한약 처방을 질환, 변증, 처방 구성, 임상결과와 PMID·DOI로 연결합니다.
 tags: [한약, 방제, 임상근거, RCT, 메타분석, PMID, DOI]
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: '2026-09-01'
 ---
 # 한약·처방 현대 임상근거 허브
 
@@ -21,6 +21,21 @@ last_reviewed: '2026-08-29'
 | 호흡·비염 | 콧물·코막힘·재채기·기침·감기 후 회복 | 소청룡탕 · 옥병풍산 · 맥문동탕 · [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) |
 | 여성건강 | 생리통·월경불순·갱년기·산후 피로 | 온경탕 · 당귀작약산 · 가미소요산 · 귀비탕 |
 | 보익·피로·회복 | 만성피로·식욕저하·질환 및 치료 후 쇠약 | [공진단](../../research/formulas/gongjin-dan.md) · [경옥고](../../research/formulas/gyeongok-go.md) · [십전대보탕](../../research/formulas/sipjeondaebo-tang.md) · [생맥산](../../research/formulas/shengmai-san.md) |
+
+## 진료 분야별 상세 근거 지도
+
+과거 제작 순서별로 흩어져 있던 확장 지도는 아래 여섯 분야로 통합했습니다. 질환별 세부 카드와 처방별 문서는 각 지도에서 이어집니다.
+
+| 분야 | 상세 근거 지도 | 함께 보는 세부 자료 |
+|---|---|---|
+| 소화기 | [소화기 한약 현대 임상근거](digestive-herbal-evidence.md) | 기능성소화불량·IBS·기능성변비 |
+| 수면·정서 | [수면·정서 한약 현대 임상근거](sleep-emotion-herbal-evidence.md) | 불면·귀비탕·산조인탕·정서 관련 처방 |
+| 통증·근골격 | [통증·근골격 한약 현대 임상근거](musculoskeletal-herbal-evidence.md) | 목통증·무릎 골관절염·편두통·골다공증 |
+| 심혈관·대사 | [심혈관·대사 한약 현대 임상근거](cardiometabolic-herbal-evidence.md) | 고혈압·당뇨병·신경 및 신장 합병증 |
+| 비뇨·남성건강 | [비뇨·남성건강 한약 현대 임상근거](urologic-herbal-evidence.md) | 전립선·골반통·성기능·요실금 |
+| 신경·뇌졸중 | [신경·뇌졸중 한약 현대 임상근거](neurologic-herbal-evidence.md) | 뇌졸중 후 정서·인지·두통·말초신경 |
+
+그 밖의 [알레르기비염](allergic-rhinitis-herbal-map.md) · [호흡기](respiratory-herbal-formula-map.md) · [갱년기](menopause-herbal-formula-map.md) · [만성피로](chronic-fatigue-herbal-map.md) 근거는 해당 진료 분야 카드에서 바로 확인할 수 있습니다.
 
 ## 대표 처방 임상근거 카드
 

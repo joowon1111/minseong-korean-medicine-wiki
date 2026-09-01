@@ -147,5 +147,5 @@ last_reviewed: '2026-08-29'
 
 - [본초·방제 한눈에 보기](index.md)
 - [한약 현대 근거 통합 지도](../evidence-integrated/herbal-evidence.md)
-- [연구·근거 임상 해석](../evidence-clinical/index.md)
+- [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 - [전체 참고문헌](../research/references/index.md)

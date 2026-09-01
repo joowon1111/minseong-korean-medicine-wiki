@@ -3,7 +3,7 @@ title: 현대 연구 데이터베이스
 description: 한의학 관련 RCT·체계적 문헌고찰·메타분석·기전연구·한약처방 연구와 PMID·DOI 참고문헌을 연구유형별로 탐색합니다.
 tags: [현대연구, 임상근거, RCT, 메타분석, PMID, DOI]
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: '2026-09-01'
 ---
 # 현대 연구 데이터베이스
 
@@ -23,7 +23,7 @@ last_reviewed: '2026-08-29'
 
 ## 임상 분야별 찾기
 
-- [질환별 임상근거 허브](clinical-evidence-hub.md)
+- [연구·근거 통합 안내](../portal/evidence.md)
 - [한약 처방 임상근거](formulas/index.md)
 - [질환별 현대 임상근거 카드](../authority/conditions/index.md)
 - [한약·처방 현대 임상근거](../authority/formulas/herbal-formula-evidence-hub.md)
@@ -44,4 +44,4 @@ last_reviewed: '2026-08-29'
 | [근거 읽는 법](../evidence-guide/index.md) | 연구유형과 논문 해석의 표준 |
 | [출처·근거 카드](../authority/index.md) | 질환·치료별 핵심 근거 요약 |
 | 현대 연구 데이터베이스 | 연구와 PMID·DOI의 상세 목록 |
-| [임상 적용 심화](../evidence-clinical/index.md) | 연구 결과를 치료계획과 재평가로 연결 |
+| [임상 적용](../evidence-integrated/clinical-application.md) | 연구 결과를 치료계획과 재평가로 연결 |
