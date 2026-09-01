@@ -94,4 +94,4 @@ last_reviewed: '2026-08-29'
 - [사상체질 대표처방](../sasang-integrated/formulas.md)
 - [사상의학 현대 연구](../sasang-research/index.md)
 - [사상의학 연구 프레임](../sasang-research/evidence-framework.md)
-- [근거의 임상 적용 심화](../evidence-clinical/index.md)
+- [근거의 임상 적용](clinical-application.md)

@@ -53,5 +53,5 @@ last_reviewed: '2026-08-29'
 
 - [한의학 근거 읽는 법](../evidence-guide/index.md)
 - [현대 연구 데이터베이스](../research/index.md)
-- [임상 적용 심화](../evidence-clinical/index.md)
+- [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 - [전체 참고문헌 데이터베이스](../research/references/index.md)

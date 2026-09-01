@@ -185,7 +185,7 @@ last_reviewed: '2026-08-29'
 ## 관련 핵심 허브
 
 - [질환별 현대 근거 카드](../authority/conditions/index.md)
-- [연구·근거 임상 해석](../evidence-clinical/index.md)
+- [근거의 임상 적용](clinical-application.md)
 - [임상추론](../clinical-reasoning/index.md)
 - [임상 안전성](../clinical-safety/index.md)
 - [증상·질환 치료·경과·근거](../symptom-integrated/treatment-evidence.md)

@@ -12,4 +12,4 @@ last_reviewed: 2026-08-19
 → [코막힘·비염 허브](../rhinitis.md)
 → [비염 상세 문서](../../conditions/rhinitis.md)
 → [침 치료](../../treatments/acupuncture.md)
-→ [임상 근거 허브](../../research/clinical-evidence-hub.md)
+→ [질환별 현대 임상근거](../../authority/conditions/index.md)

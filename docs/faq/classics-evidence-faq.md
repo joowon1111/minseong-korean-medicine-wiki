@@ -43,7 +43,7 @@ RCT는 개별 사람 대상에서 치료 효과와 안전성을 평가하는 임
 
 아닙니다. 본초의 성분·약리 기전 연구뿐 아니라 침·약침·한약처방을 대상으로 한 사람 대상 RCT와 systematic review·meta-analysis도 다양한 분야에서 축적되고 있습니다.
 
-→ [자세히 보기](../research/clinical-evidence-hub.md)
+→ [자세히 보기](../portal/evidence.md)
 
 ---
 

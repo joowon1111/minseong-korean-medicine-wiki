@@ -80,6 +80,6 @@ tags: [보약, 보익처방, 처방용량, 처방출전, 한약품질, 십전대
 단순히 ‘효과 있음/없음’으로 나누기보다 **어떤 환자군, 어떤 처방 형태, 어떤 평가변수에서 긍정적 변화가 보고되었는지**를 살펴보는 것이 실제 임상 이해에 더 도움이 됩니다.
 
 - [처방 현대연구](../research/formulas/index.md)
-- [RCT 읽기](../evidence-clinical/rct.md)
-- [체계적 문헌고찰 읽기](../evidence-clinical/systematic-review.md)
-- [근거에서 임상 적용으로](../evidence-clinical/evidence-to-practice.md)
+- [RCT 읽기](../evidence-guide/rct.md)
+- [체계적 문헌고찰 읽기](../evidence-guide/systematic-review.md)
+- [근거에서 임상 적용으로](../evidence-integrated/clinical-application.md)

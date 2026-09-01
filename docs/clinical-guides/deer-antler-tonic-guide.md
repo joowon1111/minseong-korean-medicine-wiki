@@ -75,7 +75,7 @@ tags: [녹용보약, 녹용, 보약, 보익, 기력회복, 맞춤한약]
 
 - [현대 임상근거 허브](../pillar/clinical-evidence.md)
 - [연구 유형별 보기](../research/by-study-type.md)
-- [근거의 층위](../evidence-clinical/evidence-levels.md)
+- [근거의 층위](../evidence-integrated/evidence-levels.md)
 - [한의학 연구 해석 포인트](../evidence-clinical/km-specific.md)
 
 ## 같이 찾아보면 좋은 질문

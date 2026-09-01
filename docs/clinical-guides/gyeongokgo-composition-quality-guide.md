@@ -36,7 +36,7 @@ tags: [경옥고, 생지황, 봉밀, 인삼, 복령, 고제, 보약품질]
 
 - [경옥고 현대 연구](../research/formulas/gyeongok-go.md)
 - [현대 임상근거 허브](../pillar/clinical-evidence.md)
-- [근거의 층위](../evidence-clinical/evidence-levels.md)
+- [근거의 층위](../evidence-integrated/evidence-levels.md)
 
 ## 공진단과 함께 비교하면
 공진단은 녹용·당귀·산수유·사향을 중심으로 한 환제 계통이고, 경옥고는 인삼·생지황·복령·봉밀을 중심으로 한 고제 계통입니다. 두 처방은 모두 보익 영역에서 널리 알려져 있지만 **구성 약재와 제형, 처방 구조가 분명히 다릅니다.**

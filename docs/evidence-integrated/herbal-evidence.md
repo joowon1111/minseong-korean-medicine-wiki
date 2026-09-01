@@ -107,4 +107,4 @@ last_reviewed: '2026-08-29'
 - [한약·처방 현대 임상근거](../authority/formulas/herbal-formula-evidence-hub.md)
 - [본초 근거카드](../authority/herbs/index.md)
 - [현대 연구 데이터베이스](../research/index.md)
-- [근거의 임상 적용 심화](../evidence-clinical/index.md)
+- [근거의 임상 적용](clinical-application.md)

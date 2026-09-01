@@ -73,7 +73,7 @@ description: 침구치료 근거·연구 — 경혈·경락·해부학·침·전
 ```
 
 → [침구치료 현대 근거 읽기](../acupuncture-clinical/evidence.md)  
-→ [연구·근거 임상 해석](../evidence-clinical/index.md)
+→ [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 → [침·전침·약침 임상근거](../evidence-integrated/acupuncture-evidence.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

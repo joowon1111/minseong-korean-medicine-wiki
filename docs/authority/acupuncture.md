@@ -25,4 +25,4 @@ last_reviewed: 2026-08-19
 최근 침 연구는 단기 통증점수뿐 아니라 기능장애, 임상적으로 의미 있는 개선, 장기 추적과 안전성까지 평가하는 방향으로 확대되고 있다.
 
 → [요통](../conditions/low-back-pain.md)  
-→ [임상 근거 허브](../research/clinical-evidence-hub.md)
+→ [연구·근거 안내](../portal/evidence.md)

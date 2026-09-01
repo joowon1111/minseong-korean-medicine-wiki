@@ -127,4 +127,4 @@ p값이 기준보다 작다는 사실만으로 환자가 체감할 만큼 좋아
 - [연구·근거 한눈에 보기](index.md)
 - [논문·PMID·DOI 찾기](find-research.md)
 - [근거를 임상에 적용하기](clinical-application.md)
-- [연구·근거 임상 해석](../evidence-clinical/index.md)
+- [근거의 임상 적용](clinical-application.md)
