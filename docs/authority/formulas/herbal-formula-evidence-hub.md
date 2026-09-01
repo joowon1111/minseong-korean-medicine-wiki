@@ -15,15 +15,17 @@ last_reviewed: '2026-09-01'
 
 | 분야 | 환자가 자주 찾는 표현 | 대표 처방·근거 |
 |---|---|---|
-| 소화기 | 더부룩함·조기포만·명치 답답함·식욕저하 | 반하사심탕 · [육군자탕](../../research/formulas/rikkunshito.md) · 보중익기탕 |
-| 수면·정서 | 잠들기 어려움·자주 깸·두근거림·걱정·피로 | 산조인탕 · [귀비탕](../../research/formulas/guibi-tang.md) · 천왕보심단 |
-| 통증·근골격 | 허리·무릎·관절통증·회복저하 | [독활기생탕](../../research/formulas/duhuo-jisheng-tang.md) · 오적산 · 작약감초탕 |
-| 호흡·비염 | 콧물·코막힘·재채기·기침·감기 후 회복 | 소청룡탕 · 옥병풍산 · 맥문동탕 · [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) |
-| 여성건강 | 생리통·월경불순·갱년기·산후 피로 | 온경탕 · 당귀작약산 · 가미소요산 · 귀비탕 |
+| 소화기 | 더부룩함·조기포만·명치 답답함·식욕저하 | [반하사심탕](banxia-xiexin-tang.md) · [육군자탕](../../research/formulas/rikkunshito.md) · [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) |
+| 수면·정서 | 잠들기 어려움·자주 깸·두근거림·걱정·피로 | [산조인탕](suanzaoren-tang.md) · [귀비탕](../../research/formulas/guibi-tang.md) · [천왕보심단](cheonwangbosimdan.md) |
+| 통증·근골격 | 허리·무릎·관절통증·회복저하 | [독활기생탕](../../research/formulas/duhuo-jisheng-tang.md) · [오적산](ojeok-san.md) · [작약감초탕](shakuyaku-kanzo-tang-update.md) |
+| 호흡·비염 | 콧물·코막힘·재채기·기침·감기 후 회복 | [소청룡탕](xiao-qing-long-tang.md) · [옥병풍산](yupingfeng-san.md) · [맥문동탕](maidong-tang.md) · [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) |
+| 여성건강 | 생리통·월경불순·갱년기·산후 피로 | [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [가미소요산](danzhi-xiaoyao-san.md) · [귀비탕](../../research/formulas/guibi-tang.md) |
 | 보익·피로·회복 | 만성피로·식욕저하·질환 및 치료 후 쇠약 | [공진단](../../research/formulas/gongjin-dan.md) · [경옥고](../../research/formulas/gyeongok-go.md) · [십전대보탕](../../research/formulas/sipjeondaebo-tang.md) · [생맥산](../../research/formulas/shengmai-san.md) |
-| 심혈관·대사 | 혈압·순환·당뇨병 합병증·심혈관 회복 | 천마구등음 · 혈부축어탕 · [생맥산](../../research/formulas/shengmai-san.md) · [육미지황환](liuwei-dihuang-wan.md) |
-| 비뇨·남성건강 | 배뇨불편·전립선·골반통·신허 관련 증상 | [육미지황환](liuwei-dihuang-wan.md) · 전열서통 · 오자연종환 |
-| 신경·뇌졸중 | 뇌졸중 후 기능·정서·인지·말초신경 증상 | 보양환오탕 · 천마구등음 · 시호가용골모려탕 |
+| 심혈관·대사 | 혈압·순환·당뇨병 합병증·심혈관 회복 | [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md) · [생맥산](../../research/formulas/shengmai-san.md) · [육미지황환](liuwei-dihuang-wan.md) |
+| 비뇨·남성건강 | 배뇨불편·전립선·골반통·신허 관련 증상 | [육미지황환](liuwei-dihuang-wan.md) · [전열서통](qianlieshutong-bph.md) · [오자연종환](wuzi-yanzong-wan.md) |
+| 신경·뇌졸중 | 뇌졸중 후 기능·정서·인지·말초신경 증상 | [보양환오탕](buyang-huanwu-tang-poststroke.md) · [천마구등음](tianma-gouteng-yin.md) · [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) |
+
+표의 처방명은 모두 클릭할 수 있으며, 각 세부 문서에서 처방 구조·대상 환자·사람 대상 연구·평가 지표를 이어서 확인할 수 있습니다.
 
 ## 진료 분야별 상세 근거 지도
 
@@ -42,18 +44,51 @@ last_reviewed: '2026-09-01'
 
 ## 최근·대표 주요 처방 연구
 
-아래 연구는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석 가운데, 처방과 대상 질환이 비교적 분명하고 세부 처방 문서로 이어지는 자료를 우선 선별했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
+아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 24개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
+
+### 소화기 처방 5개
 
 | 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
 |---|---|---|
-| [육군자탕·평위산](../../research/formulas/rikkunshito.md) | 2026년 한국 다기관 RCT, 기능성소화불량 140명·6주 — [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) | 실제 처방 간 비교와 통상관리군을 포함해 소화불량 증상과 그렐린 관련 지표를 평가한 직접 임상시험 |
-| [작약감초탕](shakuyaku-kanzo-tang-update.md) | 2025년 무작위 교차시험, 유지 혈액투석 중 근육경련 환자 62명 무작위배정·60명 완료 — [PMID 40204247](https://pubmed.ncbi.nlm.nih.gov/40204247/) | 근육경련 빈도와 강도를 평가한 처방 단독의 사람 대상 연구이며, 혈액투석 환자군에 해당하는 결과 |
-| [옥병풍산](yupingfeng-san.md) | 2026년 성인 천식 체계적 문헌고찰·메타분석, 20개 RCT·1,896명 — [PMID 42147341](https://pubmed.ncbi.nlm.nih.gov/42147341/) | 기존 천식 치료에 더한 병용근거로 천식 조절과 폐기능 지표를 함께 평가 |
-| [육미지황환](liuwei-dihuang-wan.md) | 2026년 초기 당뇨병성 신증 11개 RCT·1,007명 — [PMID 42051693](https://pubmed.ncbi.nlm.nih.gov/42051693/) · 인지기능 12개 RCT·1,137명 — [PMID 42198453](https://pubmed.ncbi.nlm.nih.gov/42198453/) | 서로 다른 환자군의 병용치료 연구이므로 신장·인지 영역을 나누어 확인 |
-| [독활기생탕](../../research/formulas/duhuo-jisheng-tang.md) | 무릎 골관절염 메타분석 — [PMID 26729379](https://pubmed.ncbi.nlm.nih.gov/26729379/) · 류마티스관절염 42개 RCT 메타분석 — [PMID 37933004](https://pubmed.ncbi.nlm.nih.gov/37933004/) | 통증점수뿐 아니라 관절 기능을 보고, 단독·병용 연구를 구분해 해석 |
-| [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) | 안정기 COPD 체계적 문헌고찰·메타분석 — [PMID 27912964](https://pubmed.ncbi.nlm.nih.gov/27912964/) · 성인 기능성변비 메타분석 — [PMID 29552087](https://pubmed.ncbi.nlm.nih.gov/29552087/) | 같은 처방이라도 호흡기와 소화기 연구의 대상·변증·평가지표를 각각 확인 |
-| [통사요방](tongxie-yaofang.md) | 설사형 과민성장증후군 11개 RCT·985명 메타분석 — [PMID 36091782](https://pubmed.ncbi.nlm.nih.gov/36091782/) | 복통·변 상태·배변빈도와 삶의 질 등 IBS-D의 여러 결과지표를 함께 평가 |
-| [생맥산](../../research/formulas/shengmai-san.md) | 2024년 바이러스성 심근염 44개 RCT·4,298명 메타분석 — [PMID 39742019](https://pubmed.ncbi.nlm.nih.gov/39742019/) | 증상·심전도·일부 심근손상 지표를 다룬 심혈관 병용근거로 확인 |
+| [반하사심탕](banxia-xiexin-tang.md) | 기능성소화불량 57개 RCT·5,525명 메타분석 — [PMID 37274096](https://pubmed.ncbi.nlm.nih.gov/37274096/) | 식후 더부룩함·조기포만·명치불편과 전체 소화기 증상을 평가 |
+| [육군자탕](../../research/formulas/rikkunshito.md) | 2026년 한국 다기관 RCT, 기능성소화불량 140명·6주 — [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) | 통상관리군과 비교한 직접 임상시험으로 소화불량 증상과 식욕 관련 지표를 확인 |
+| [평위산](../../formulas/pingwei-san.md) | 같은 한국 다기관 RCT에서 평위산·육군자탕·통상관리 비교 — [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) | 습체·창만 중심의 실제 병증과 연구 대상이 가까운지 확인 |
+| [통사요방](tongxie-yaofang.md) | 설사형 과민성장증후군 11개 RCT·985명 메타분석 — [PMID 36091782](https://pubmed.ncbi.nlm.nih.gov/36091782/) | 복통·변 상태·배변빈도와 삶의 질을 함께 평가 |
+| [마자인환](mazi-ren-wan.md) | 기능성변비 다기관 이중맹검 RCT 291명 — [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) | 완전자발배변·힘주기·잔변감과 8주 치료 후 추적반응을 평가 |
+
+### 수면·정서 처방 5개
+
+| 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
+|---|---|---|
+| [산조인탕](suanzaoren-tang.md) | 불면 12개 RCT·1,311명 메타분석 — [PMID 36459033](https://pubmed.ncbi.nlm.nih.gov/36459033/) | PSQI·수면의 질·재발과 낮 기능을 함께 확인 |
+| [귀비탕](guipi-tang-evidence.md) | 2025년 불면 처방 186개 RCT 네트워크 메타분석 — [PMID 40826721](https://pubmed.ncbi.nlm.nih.gov/40826721/) | 심비양허·기혈부족 증상과 수면 결과를 연결 |
+| [천왕보심단](cheonwangbosimdan.md) | 원발성 불면 환자 56명, 6주 임상연구 — [PMID 33919176](https://pubmed.ncbi.nlm.nih.gov/33919176/) | PSQI·ISI·총수면시간과 심음허 증상군을 평가 |
+| [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) | 불면 처방 네트워크 메타분석 — [PMID 40826721](https://pubmed.ncbi.nlm.nih.gov/40826721/) | 수면과 번조·심계·정서 증상이 함께 흔들리는 경우를 확인 |
+| [소요산](xiaoyao-san.md) | 2025년 만성피로 6개 연구·623명 메타분석 — [PMID 39981187](https://pubmed.ncbi.nlm.nih.gov/39981187/) | 피로와 불안·우울·소화 증상을 함께 평가 |
+
+### 통증·호흡기 처방 5개
+
+| 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
+|---|---|---|
+| [작약감초탕](shakuyaku-kanzo-tang-update.md) | 2025년 무작위 교차시험, 혈액투석 중 근육경련 62명 무작위배정·60명 완료 — [PMID 40204247](https://pubmed.ncbi.nlm.nih.gov/40204247/) | 근육경련 빈도와 강도를 평가한 처방 단위 사람 대상 연구 |
+| [독활기생탕](../../research/formulas/duhuo-jisheng-tang.md) | 무릎 골관절염 메타분석 — [PMID 26729379](https://pubmed.ncbi.nlm.nih.gov/26729379/) · 류마티스관절염 42개 RCT 메타분석 — [PMID 37933004](https://pubmed.ncbi.nlm.nih.gov/37933004/) | 통증뿐 아니라 관절 기능을 보고 단독·병용 연구를 구분 |
+| [소청룡탕](xiao-qing-long-tang.md) | 알레르기비염 24개 RCT 메타분석 — [PMID 35257842](https://pubmed.ncbi.nlm.nih.gov/35257842/) | 콧물·코막힘·재채기·TNSS와 재발을 평가 |
+| [옥병풍산](yupingfeng-san.md) | 2026년 성인 천식 20개 RCT·1,896명 메타분석 — [PMID 42147341](https://pubmed.ncbi.nlm.nih.gov/42147341/) | 기존 천식 치료에 더한 병용근거로 천식 조절과 폐기능을 확인 |
+| [맥문동탕](maidong-tang.md) | 기침 9개 RCT·2,453명 메타분석 — [PMID 26666732](https://pubmed.ncbi.nlm.nih.gov/26666732/) | 감염 후·만성 기침 등 대상 질환과 처방 구성을 나누어 확인 |
+
+### 여성·보익·심혈관·신경·비뇨 처방 9개
+
+| 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
+|---|---|---|
+| [온경탕](wenjing-tang.md) | 원발성 월경통 18개 연구·1,736명 메타분석 — [PMID 28791471](https://pubmed.ncbi.nlm.nih.gov/28791471/) | 통증강도·월경상태·진통제 사용을 평가 |
+| [당귀작약산](danggui-shaoyao-san.md) | 원발성 월경통 RCT 메타분석 — [PMID 26857875](https://pubmed.ncbi.nlm.nih.gov/26857875/) | 여성 골반·월경 증상과 혈허·수습 구조를 연결 |
+| [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) | 안정기 COPD 16개 연구·1,400명 메타분석 — [PMID 27912964](https://pubmed.ncbi.nlm.nih.gov/27912964/) | 호흡기 기능·보행·삶의 질과 기존 치료 병용 여부를 확인 |
+| [생맥산](../../research/formulas/shengmai-san.md) | 2024년 바이러스성 심근염 44개 RCT·4,298명 메타분석 — [PMID 39742019](https://pubmed.ncbi.nlm.nih.gov/39742019/) | 증상·심전도·일부 심근손상 지표를 다룬 병용근거 |
+| [육미지황환](liuwei-dihuang-wan.md) | 2026년 초기 당뇨병성 신증 11개 RCT·1,007명 — [PMID 42051693](https://pubmed.ncbi.nlm.nih.gov/42051693/) | 신장 관련 검사와 기존 치료에 더한 병용효과를 확인 |
+| [천마구등음](tianma-gouteng-yin.md) | 고혈압 15개 RCT·1,508명 체계적 문헌고찰 — [PMID 33787150](https://pubmed.ncbi.nlm.nih.gov/33787150/) | 혈압과 두통·어지럼·변증 증상을 함께 평가 |
+| [혈부축어탕](xuefu-zhuyu-tang-hypertension.md) | 2025년 고혈압 37개 연구·3,391명 메타분석 — [PMID 40489881](https://pubmed.ncbi.nlm.nih.gov/40489881/) | 혈압·혈관기능과 어혈 관련 증상을 연결 |
+| [보양환오탕](buyang-huanwu-tang-poststroke.md) | 뇌졸중 후 우울 15개 RCT 메타분석 — [PMID 36408491](https://pubmed.ncbi.nlm.nih.gov/36408491/) | 정서지표와 신경학적·일상생활 기능을 함께 평가 |
+| [오자연종환](wuzi-yanzong-wan.md) | 2025년 남성 난임 11개 RCT 메타분석 — [PMID 40395732](https://pubmed.ncbi.nlm.nih.gov/40395732/) | 정자 농도·운동성·형태와 임신결과를 기존 치료와 함께 확인 |
 
 ## 대표 처방 임상근거 카드
 
