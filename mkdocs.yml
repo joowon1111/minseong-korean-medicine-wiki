@@ -489,34 +489,26 @@ nav:
     - 현대 연구: sasang-research/index.md
     - 역사·인물: sasang-history/index.md
 - 연구·근거:
-  - 연구·근거 안내: portal/evidence.md
-  - 질환별 현대 임상근거: authority/conditions/index.md
+  - 한눈에 보기: portal/evidence.md
+  - 질환별 임상근거: authority/conditions/index.md
   - 치료별 임상근거:
     - 한약·처방: authority/formulas/herbal-formula-evidence-hub.md
     - 침·전침·약침: evidence-integrated/acupuncture-evidence.md
     - 대표 본초: authority/herbs/index.md
-  - 근거 읽는 법:
-    - 한의학 근거 읽는 법: evidence-guide/index.md
+  - 근거 이해·적용:
+    - 연구 유형 한눈에 보기: evidence-guide/index.md
     - 근거 수준: evidence-integrated/evidence-levels.md
     - 전통 문헌과 현대 연구: evidence-guide/tradition-modern.md
-    - 전임상·기전 연구: evidence-guide/preclinical.md
-    - 임상시험 RCT: evidence-guide/rct.md
-    - 체계적 문헌고찰·메타분석: evidence-guide/systematic-review.md
-    - 증례·관찰연구: evidence-clinical/case-observational.md
     - 임상진료지침: evidence-clinical/guidelines.md
-    - PMID·DOI: evidence-guide/pmid-doi.md
     - 한약 연구: evidence-integrated/herbal-evidence.md
     - 사상의학 연구: evidence-integrated/sasang-evidence.md
     - 고전·전통자료: evidence-integrated/classical-sources.md
+    - 전통→현대 통합 지도: evidence-integrated/index.md
     - 임상 적용: evidence-integrated/clinical-application.md
   - 논문·출처 찾기:
-    - 논문·PMID·DOI 찾기: evidence-integrated/find-research.md
+    - 논문 검색 안내: evidence-integrated/find-research.md
     - 현대 연구 데이터베이스: research/index.md
-    - 무작위 임상시험 RCT: research/rct-index.md
-    - 체계적 문헌고찰·메타분석: research/meta-analysis-index.md
-    - 기전·전임상 연구: research/mechanism-preclinical-index.md
     - 참고문헌 데이터베이스: research/references/index.md
-  - 전통지식과 현대근거 연결: evidence-integrated/index.md
 - 전체 둘러보기:
   - portal/maps.md
   - 안내:
