@@ -38,7 +38,17 @@ last_reviewed: 2026-08-29
 - 변증: [어혈](../diagnostics/patterns/blood-stasis.md) · [한습](../diagnostics/patterns/cold-damp.md) · [신허](../diagnostics/patterns/kidney-deficiency.md)
 - 근골·풍습 본초: 두충 · 우슬 · 독활 · 강활 · 의이인
 - 활혈 본초: 단삼 · 도인 · 홍화 · 당귀
-- 대표 방제: [독활기생탕](../formulas/duhuo-jisheng-tang.md) · [오적산](../formulas/wuji-san.md) · [소경활혈탕](../formulas/shujing-huoxue-tang.md) · [당귀수산](../formulas/danggui-susan.md)
+
+| 통증의 병증·경과 | 살펴볼 수 있는 처방군 |
+|---|---|
+| 염좌·타박 뒤 고정통·멍·어혈 | [회수산](../formulas/huishou-san.md) · [당귀수산](../formulas/danggui-susan.md) |
+| 냉감·한습과 여러 부위의 묵직함 | [오적산](../formulas/wuji-san.md) |
+| 풍한습·외감과 전신의 몸살성 통증 | 구미강활탕 등 해표·거습 처방군 |
+| 오래된 통증과 경락의 뻣뻣함 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) 등 활혈·거풍습 처방군 |
+| 근육 긴장·쥐·경련이 두드러짐 | 작약감초탕 등 완급·서근 처방군 |
+| 만성 비증에 허약·냉감·하지 무력이 동반됨 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) 등 거풍습·보익 처방군 |
+
+같은 허리·어깨·무릎통증도 발병 시기와 원인, 냉온 반응, 부종·열감, 근력과 전신상태에 따라 처방 방향이 달라집니다. → [근골격 통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md)
 
 ## 침구치료와 임상근거
 
