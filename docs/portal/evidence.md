@@ -27,19 +27,6 @@ hide:
 
 같은 논문은 질환·처방·치료방법 페이지에 각각 인용될 수 있습니다. 좌측 메뉴에서는 중복 노출을 줄이고, 세부 RCT·메타분석·전임상 목록은 각 대표 자료실 안에서 이어지도록 구성했습니다.
 
-### 본초 근거 빠른 연결
-
-개별 본초는 전통 효능만 나열하지 않고 **기원과 약용부위 → 주요 성분 → 현대 성분·기전 연구 → 사람 대상 연구 → 관련 처방**의 순서로 정리합니다. 현재 처방 연결이 많은 12개 본초를 우선 심화 카드로 제공합니다.
-
-| 임상에서 살피는 방향 | 대표 본초 근거 카드 | 관련 처방·분야 |
-|---|---|---|
-| 보기·회복 | [녹용](../authority/herbs/velvet-antler.md) · [인삼](../authority/herbs/ginseng.md) · [황기](../authority/herbs/astragalus.md) | 공진단·경옥고·보중익기탕·회복 |
-| 보혈·순환 | [당귀](../authority/herbs/angelica.md) · [백작약](../authority/herbs/white-peony.md) · [천궁](../authority/herbs/chuanxiong.md) | 사물탕·계지복령환·통증·여성건강 |
-| 수면·호흡 | [산조인](../authority/herbs/ziziphus-seed.md) · [맥문동](../authority/herbs/ophiopogon.md) | 산조인탕·귀비탕·생맥산·맥문동탕 |
-| 간신·수분대사 | [산수유](../authority/herbs/cornus-fructus.md) · [산약](../authority/herbs/dioscorea.md) · [택사](../authority/herbs/alisma.md) · [목단피](../authority/herbs/moutan.md) | 육미지황환·오령산·공진단 |
-
-개별 본초의 성분·전임상 연구는 완성 처방의 임상효과와 같은 의미가 아닙니다. 실제 환자 대상 결과는 [한약·처방 임상근거](../authority/formulas/herbal-formula-evidence-hub.md)에서 처방 구성·용량·제형·복용기간과 함께 확인합니다.
-
 ## 이 아카이브가 근거를 연결하는 방식
 
 1. 환자의 증상과 치료 목표를 확인합니다.
