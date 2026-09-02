@@ -1,9 +1,9 @@
 ---
 title: 대사증후군·건강검진 체중관리
-description: 대사증후군·건강검진 체중관리을 환자 생활언어에서 체중·대사·한약 관리까지 연결합니다.
-tags: [체중관리, 다이어트, 대사, 환자검색, 한약]
+description: 대사증후군·건강검진 체중관리를 환자 생활언어에서 혈압·혈당·혈중지질·체중·한약 관리까지 연결합니다.
+tags: [체중관리, 다이어트, 대사, 혈압, 이상지질혈증, 환자검색, 한약]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-02
 ---
 # 대사증후군·건강검진 체중관리
 
@@ -15,6 +15,35 @@ last_reviewed: 2026-08-21
 - 혈압 혈당 콜레스테롤 높음
 - 대사증후군 한약
 - 대사 다이어트
+
+## 대사증후군 수치 한눈에 보기
+
+대사증후군은 한 가지 검사값으로 정하지 않습니다. 다음 다섯 가지 가운데 **세 가지 이상**이 함께 확인되는지를 살펴봅니다.
+
+| 확인 항목 | 대사증후군 판단 기준 |
+|---|---|
+| 허리둘레 | 남성 90 cm 이상, 여성 85 cm 이상 |
+| 혈압 | 수축기 130 mmHg 이상 또는 이완기 85 mmHg 이상, 또는 혈압 치료 중 |
+| 공복혈당 | 100 mg/dL 이상 또는 혈당 치료 중 |
+| 중성지방(TG) | 150 mg/dL 이상 또는 관련 치료 중 |
+| HDL 콜레스테롤 | 남성 40 mg/dL 미만, 여성 50 mg/dL 미만 또는 관련 치료 중 |
+
+여기에서 혈압 **130/85 mmHg**는 대사증후군 위험요소를 찾는 기준입니다. 일반적인 진료실 고혈압 진단 범위인 **140/90 mmHg 이상**과 쓰임이 다르므로 같은 의미로 보지 않습니다.
+
+## 혈중지질 수치 기본 해석
+
+흔히 말하는 ‘고지혈증’은 LDL 콜레스테롤이나 중성지방이 높은 상태뿐 아니라 HDL 콜레스테롤이 낮은 상태도 포함하므로, 정확한 표현은 **이상지질혈증**입니다.
+
+| 검사 항목 | 기본 해석 |
+|---|---|
+| 총콜레스테롤 | 200 mg/dL 미만 적정 · 200~239 경계 · 240 이상 높음 |
+| LDL 콜레스테롤 | 100 mg/dL 미만 적정 · 100~129 정상 · 130~159 경계 · 160~189 높음 · 190 이상 매우 높음 |
+| 중성지방(TG) | 150 mg/dL 미만 적정 · 150~199 경계 · 200~499 높음 · 500 이상 매우 높음 |
+| HDL 콜레스테롤 | 높을수록 대체로 유리 · 낮음: 남성 40 mg/dL 미만, 여성 50 mg/dL 미만* |
+
+* HDL의 남녀 기준은 대사증후군 위험요소를 판단할 때 사용하는 값입니다.
+
+총콜레스테롤과 LDL 콜레스테롤은 대사증후군을 정하는 다섯 가지 항목에는 포함되지 않지만, 전체 심뇌혈관 위험을 파악할 때 함께 확인하는 중요한 수치입니다. 특히 LDL의 실제 치료 목표는 과거 심근경색·뇌졸중, 당뇨병, 만성콩팥병, 흡연과 같은 위험요인에 따라 기본 적정 범위보다 더 낮게 설정될 수 있습니다.
 
 ## 함께 구분할 상태
 
@@ -49,6 +78,13 @@ last_reviewed: 2026-08-21
 - [만성염증·CRP·ESR 해석](inflammation-markers.md)
 - [면역·염증·질병·노화 지식망](../immune-allergy/inflammation-pain.md)
 - [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
+
+## 근거·참고자료
+
+- [질병관리청 국가건강정보포털 — 대사증후군](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6781)
+- [질병관리청 국가건강정보포털 — 이상지질혈증](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6715)
+- [질병관리청 국가건강정보포털 — 혈압·혈당이 높다면? 지금부터 관리하세요](https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=124)
+- [질병관리청 국가건강정보포털 — 비만과 복부비만 기준](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6694)
 
 ## 검색 동의어
 
