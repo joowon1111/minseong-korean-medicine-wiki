@@ -379,7 +379,11 @@ nav:
       - 다낭성난소증후군: conditions/polycystic-ovary-syndrome.md
       - 갱년기: conditions/menopause.md
       - 산후회복: conditions/postpartum-recovery.md
-    - 검사·신장:
+    - 면역·만성염증·대사·신장:
+      - 면역·염증·질병·노화 지식망: immune-allergy/inflammation-pain.md
+      - 만성염증·CRP·ESR 해석: conditions/inflammation-markers.md
+      - 혈압이 높아요·건강검진 고혈압: conditions/high-blood-pressure-checkup.md
+      - 대사증후군·건강검진 체중관리: conditions/metabolic-syndrome.md
       - 만성콩팥병·신장기능 검사: conditions/chronic-kidney-disease.md
       - 당뇨병성 콩팥병·미세알부민뇨: conditions/diabetic-kidney-disease.md
   - 증상 상세 자료실:
