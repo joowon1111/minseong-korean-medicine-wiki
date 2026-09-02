@@ -1,9 +1,9 @@
 ---
 title: 호흡·비염·면역 한의학 허브
-description: 비염·알레르기비염·기침·만성기침·감기·목 불편감과 반복되는 호흡기 증상을 한약·침구치료 및 현대 임상근거로 연결합니다.
-tags: [Pillar, 비염, 기침, 호흡기, 면역, 알레르기]
+description: 비염·알레르기비염·기침·만성기침·감기·목 불편감과 면역·만성염증을 한약·침구치료 및 현대 임상근거로 연결합니다.
+tags: [Pillar, 비염, 기침, 호흡기, 면역, 알레르기, 만성염증]
 status: 검토완료
-last_reviewed: 2026-08-29
+last_reviewed: 2026-09-02
 ---
 
 # 호흡·비염·면역 한의학 허브
@@ -20,6 +20,7 @@ last_reviewed: 2026-08-29
 | 목이 아프거나 가슴·목이 불편함 | [목·가슴 불편 증상군](../symptom-herbal-guide/respiratory-ent/r07-throat-chest.md) |
 | 목에 뭔가 걸린 듯함 | [목 이물감](../conditions/globus.md) |
 | 천식 등 반복적 호흡기 질환 | [천식 근거 카드](../authority/conditions/asthma.md) |
+| 염증수치·CRP·ESR과 만성염증이 궁금함 | [만성염증·염증수치 해석](../conditions/inflammation-markers.md) |
 
 ## 한의학적 해석
 
@@ -38,6 +39,7 @@ last_reviewed: 2026-08-29
 ## 치료와 근거 연결
 
 - [면역·알레르기·회복 지식망](../immune-allergy/index.md)
+- [만성염증·면역·통증과 회복](../immune-allergy/inflammation-pain.md)
 - [비염·알레르기](../immune-allergy/rhinitis-allergy.md)
 - [비염·호흡기에서 먼저 확인할 신호](../clinical-safety/rhinitis-respiratory.md)
 - [침구·한의치료 허브](acupuncture-treatment.md)
