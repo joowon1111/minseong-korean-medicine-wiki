@@ -49,6 +49,7 @@ last_reviewed: 2026-09-02
 - [빈혈·어지럼·피로](anemia-fatigue.md)
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
 - [만성염증·CRP·ESR 해석](inflammation-markers.md)
+- [면역·염증·질병·노화 지식망](../immune-allergy/inflammation-pain.md)
 - [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 
 ## 검색 동의어

@@ -284,6 +284,8 @@ last_reviewed: 2026-08-28
 - [항암 유발 말초신경병증 근거 카드](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
 - [암 관련 불면 근거 카드](../authority/conditions/cancer-related-insomnia.md)
 - [암 관련 통증 근거 카드](../authority/conditions/cancer-related-pain.md)
+- [면역·염증·질병·노화 지식망](../immune-allergy/inflammation-pain.md)
+- [만성염증·CRP·ESR 해석](inflammation-markers.md)
 - [보익·회복 핵심](../herbal-integrated/tonic-recovery.md)
 - [한약 안전·복용 주의](../herbal-integrated/safety.md)
 - [침구치료 안전](../acupuncture-integrated/safety.md)

@@ -30,7 +30,18 @@ hide:
 <a href="conditions/restless-legs-syndrome/">하지불안</a>
 <a href="conditions/edema-swelling/">붓기·부종</a>
 <a href="symptom-integrated/digestive/">소화</a>
+<a href="conditions/inflammation-markers/">만성염증</a>
+<a href="immune-allergy/inflammation-pain/">면역·염증·노화</a>
 <a href="sasang-integrated/">사상체질</a>
+</div>
+
+## 면역·만성염증·질병·노화를 연결해서 보기
+
+면역과 염증은 감염 방어뿐 아니라 조직 회복, 통증, 혈관·대사 건강과 노화 과정에도 연결됩니다. 검사수치의 의미부터 여러 만성질환과 회복의 관계까지 두 중심 문서에서 이어서 볼 수 있습니다.
+
+<div class="ms-grid">
+<a class="ms-card" href="conditions/inflammation-markers/"><strong>🧪 만성염증·CRP·ESR</strong><span>염증수치의 의미·원인·질환 연결과 관리 방향</span></a>
+<a class="ms-card" href="immune-allergy/inflammation-pain/"><strong>🧬 면역·염증·질병·노화</strong><span>혈관·뇌·대사·암·통증·회복을 잇는 중심 지식망</span></a>
 </div>
 
 ## 무엇을 알고 있나요?
@@ -46,7 +57,7 @@ hide:
 
 ## 핵심 주제별로 둘러보기
 
-[보익·피로·회복](pillar/tonic-recovery.md) · [통증·근골격](pillar/pain-musculoskeletal.md) · [수면·정서·신경](pillar/sleep-neuro.md) · [소화·비위](pillar/digestion-spleen-stomach.md) · [호흡·비염·면역](pillar/respiratory-rhinitis-immune.md) · [여성건강](pillar/womens-health.md)
+[보익·피로·회복](pillar/tonic-recovery.md) · [통증·근골격](pillar/pain-musculoskeletal.md) · [수면·정서·신경](pillar/sleep-neuro.md) · [소화·비위](pillar/digestion-spleen-stomach.md) · [호흡·비염·면역](pillar/respiratory-rhinitis-immune.md) · [면역·만성염증·질병·노화](immune-allergy/inflammation-pain.md) · [여성건강](pillar/womens-health.md)
 ## 처음 방문하셨나요?
 
 어떤 분야인지 잘 모르겠다면 **상단 검색창에 궁금한 증상이나 처방 이름을 그대로 입력**하세요.

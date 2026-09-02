@@ -46,6 +46,8 @@ last_reviewed: 2026-08-21
 - [공복혈당·당화혈색소 경계](prediabetes.md)
 - [콜레스테롤·중성지방](dyslipidemia.md)
 - [갱년기 한약](menopause-herbal.md)
+- [만성염증·CRP·ESR 해석](inflammation-markers.md)
+- [면역·염증·질병·노화 지식망](../immune-allergy/inflammation-pain.md)
 - [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 
 ## 검색 동의어

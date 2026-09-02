@@ -9,6 +9,8 @@ hide:
 <p class="ms-sub">내가 알고 있는 정보에 맞춰 증상·질환·변증·치료 자료로 이동합니다.</p>
 </div>
 <div class="ms-grid">
+<a class="ms-card" href="/immune-allergy/inflammation-pain/"><strong>🧬 면역·만성염증·질병·노화</strong><span>혈관·뇌·대사·암·통증·회복의 연결</span></a>
+<a class="ms-card" href="/conditions/inflammation-markers/"><strong>🧪 염증수치·CRP·ESR</strong><span>검사 의미와 지속 상승의 원인 찾기</span></a>
 <a class="ms-card" href="/symptom-integrated/"><strong>🗣️ 증상으로 찾기</strong><span>아파요·저려요·부어요 같은 생활 표현</span></a>
 <a class="ms-card" href="/conditions/"><strong>🩺 질환별 보기</strong><span>진단명·검사·감별·한의치료</span></a>
 <a class="ms-card" href="/symptom-herbal-guide/"><strong>🌿 R-code 한약 탐색</strong><span>증상군·변증·본초·방제 연결</span></a>
@@ -24,6 +26,8 @@ hide:
 | R-code 증상군에서 변증과 한약을 찾고 싶어요 | [증상 기반 한약 탐색](/symptom-herbal-guide/) |
 | 임상가용 감별과 치료전략을 더 깊게 보고 싶어요 | [증상·질환 임상 심화](/symptom-clinical/) |
 | 자율신경·스트레스와 여러 증상의 관계를 보고 싶어요 | [자율신경·스트레스 지식망](/autonomic/) |
+| 면역·만성염증과 질병·노화의 연결을 보고 싶어요 | [면역·염증·질병·노화 지식망](/immune-allergy/inflammation-pain/) |
+| CRP·ESR 등 염증수치가 궁금해요 | [만성염증·염증수치 해석](/conditions/inflammation-markers/) |
 
 ## 탐색 원칙
 

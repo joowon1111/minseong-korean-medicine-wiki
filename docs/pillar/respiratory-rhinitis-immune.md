@@ -10,6 +10,15 @@ last_reviewed: 2026-09-02
 
 코와 목, 기침 증상은 따로 나타나기도 하지만 비강 분비물·후비루·인후 자극·기관지 과민성과 연결되기도 합니다. **계절성, 찬 공기와 먼지, 감기 이후 경과, 가래, 야간 악화, 소화와 피로 상태**를 함께 살핍니다.
 
+## 면역·만성염증·질병·노화를 함께 보기
+
+면역은 호흡기와 알레르기에만 머물지 않습니다. 나이에 따른 면역 변화와 만성 저등급 염증은 혈관·뇌·대사·암·통증·회복을 이해하는 공통 축이 될 수 있습니다.
+
+<div class="ms-grid">
+<a class="ms-card" href="/conditions/inflammation-markers/"><strong>🧪 만성염증·CRP·ESR</strong><span>검사수치의 의미와 원인·질환 연결</span></a>
+<a class="ms-card" href="/immune-allergy/inflammation-pain/"><strong>🧬 면역·염증·질병·노화</strong><span>만성관리와 회복을 잇는 중심 지식망</span></a>
+</div>
+
 ## 증상과 질환으로 찾기
 
 | 불편함 | 대표 문서 |
