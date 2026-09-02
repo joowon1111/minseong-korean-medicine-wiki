@@ -79,6 +79,8 @@ last_reviewed: '2026-08-29'
 
 ### 검사·대사·신장
 
+- [만성염증·염증수치·CRP·ESR 상승](inflammation-markers.md)
+- [혈압이 높아요·건강검진 고혈압](high-blood-pressure-checkup.md)
 - [만성콩팥병·크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
 - [당뇨병성 콩팥병·미세알부민뇨](diabetic-kidney-disease.md)
 
@@ -431,4 +433,3 @@ last_reviewed: '2026-08-29'
 - [온몸이 쑤셔요·전신근육통](whole-body-ache.md)
 
 <!-- ORPHAN_CONDITIONS_HUB_END -->
-
