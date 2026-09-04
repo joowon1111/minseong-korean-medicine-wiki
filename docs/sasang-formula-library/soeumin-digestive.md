@@ -9,10 +9,10 @@ description: 소음인 — 비위·기체·기타 — 민성 한의학 아카이
 
 | 처방 | 핵심 위치 |
 |---|---|
-| [향부자팔물탕](hyangbujapalmul-tang.md) | 사려상비·두통 |
+| [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) | 사려상비·두통 |
 | [향소산](hyangso-san.md) | 사시온역 |
 | [궁귀향소산](gunggwihyangso-san.md) | 사시온역 |
-| [승양팔물탕](seungyangpalmul-tang.md) | 보익·승양 계열 |
+| [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) | 보익·승양 계열 |
 
 각 처방을 클릭하면 **구성 본초·용량·출전·조제법·주치** 상세로 이동합니다.
 

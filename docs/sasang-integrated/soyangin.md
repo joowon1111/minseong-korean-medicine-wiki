@@ -30,7 +30,7 @@ description: 소양인 통합 허브 — 민성 한의학 아카이브의 관련
 - **[지황백호탕](#soyang-jihwangbaekho)** — 결흉·변폐·번조·구갈 등 강한 이열
 
 ### 음허오열·하소
-- **[독활지황탕](../sasang-formula-cards-2/dokhwaljihwang-tang.md)** — 음허오열·하지위약·배뇨 변화
+- **[독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md)** — 음허오열·하지위약·배뇨 변화
 - **[숙지황고삼탕](../sasang-formula-library/sukjihwanggosam-tang.md)** — 하소·음허열 방향
 - **[화석지황탕](../sasang-formula-library/hwaseokjihwang-tang.md)** — 탈음·허로 방향
 

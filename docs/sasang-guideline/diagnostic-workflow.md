@@ -28,7 +28,7 @@ last_reviewed: 2026-08-19
 국가 임상 활용자료에는 소음인·소양인·태음인 등의 **병증 진단가이드라인**과 체질진단 결과지가 별도로 제공되어 있다.
 
 → [소증과 현재 병증](ordinary-symptoms.md)
-→ [체질→병증→처방 탐색](../sasang-formulas/decision-map.md)
+→ [체질→병증→처방 탐색](../sasang-integrated/formulas.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

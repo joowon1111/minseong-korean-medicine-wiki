@@ -9,8 +9,8 @@ description: 태음인 — 간수열리열 — 민성 한의학 아카이브의 
 
 | 처방 | 핵심 위치 |
 |---|---|
-| [열다한소탕](../sasang-formula-cards-2/yeoldahanso-tang.md) | 간열폐조 계열 |
-| [청폐사간탕](../sasang-formula-cards-2/cheongpyesagan-tang.md) | 리열·변비·번갈 |
+| [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) | 간열폐조 계열 |
+| [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) | 리열·변비·번갈 |
 | [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) | 리열·조열 |
 | [나복자승기탕](nabokjaseunggi-tang.md) | 식체·승기 |
 | [갈근해기탕](galgeunhaegi-tang.md) | 양독·인후통 등 |

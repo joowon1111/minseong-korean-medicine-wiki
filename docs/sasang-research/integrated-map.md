@@ -26,7 +26,7 @@ last_reviewed: 2026-08-19
 ## 연결
 - 진단 → [체질 진단의 임상 흐름](../sasang-guideline/diagnostic-workflow.md)
 - 치료 → [사상체질 치료·관리 지식망](../sasang-treatment/index.md)
-- 처방 → [사상체질 처방 심화](../sasang-formulas/index.md)
+- 처방 → [사상체질 처방 심화](../sasang-integrated/formulas.md)
 - 고전 → [동의수세보원](../sasang/donguisusebowon.md)
 
 이 구조를 통해 사상의학 파트는 **고전 → 체질이론 → 진단표준 → 치료·생활관리 → 현대 연구**까지 완전한 지식 흐름을 갖게 된다.

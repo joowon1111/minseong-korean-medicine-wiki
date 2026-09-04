@@ -75,13 +75,13 @@ last_reviewed: '2026-08-29'
 
 오가피장척탕은 태양인의 해역, 특히 허리·하지의 약화와 보행 불편을 중심으로 살피는 대표 처방입니다. 처방명만으로 선택하지 않고 실제 근력과 신경학적 상태, 현재 소증을 함께 평가합니다.
 
-→ [오가피장척탕](../sasang-formula-cards-2/ogapi-jangcheok-tang.md)
+→ [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md)
 
 ### 미후등식장탕
 
 미후등식장탕은 열격·반위처럼 섭취와 구역·구토가 중심이 되는 병증에서 살피는 대표 처방입니다. 음식이 걸리는 느낌이나 체중감소가 있으면 기질적 질환 감별이 먼저 필요합니다.
 
-→ [미후등식장탕](../sasang-formula-cards-2/mihudeung-sikjang-tang.md)
+→ [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md)
 
 ## 태양인과 다른 체질의 감별
 

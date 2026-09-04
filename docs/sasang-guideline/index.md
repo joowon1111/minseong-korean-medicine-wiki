@@ -30,5 +30,5 @@ last_reviewed: 2026-08-19
 - [국가 임상자료·진단가이드](nckm-resources.md)
 
 → [사상의학 지식망](../sasang/index.md)
-→ [사상체질 처방 심화](../sasang-formulas/index.md)
+→ [사상체질 처방 심화](../sasang-integrated/formulas.md)
 

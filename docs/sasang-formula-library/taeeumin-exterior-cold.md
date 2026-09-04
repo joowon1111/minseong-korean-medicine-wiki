@@ -10,7 +10,7 @@ description: 태음인 — 위완수한표한 — 민성 한의학 아카이브�
 | 처방 | 핵심 위치 |
 |---|---|
 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) | 표한 대표 처방 |
-| [조위승청탕](../sasang-formula-cards-2/jowiseungcheong-tang.md) | 식후비만·중소·하지무력 |
+| [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) | 식후비만·중소·하지무력 |
 | [행인승청탕](haenginseungcheong-tang.md) | 조위승청탕 계열 |
 | [마황정통탕](mahwangjeongtong-tang.md) | 흉복통 |
 | [조리폐원탕](joripyewon-tang.md) | 병후체허·폐원 조리 |

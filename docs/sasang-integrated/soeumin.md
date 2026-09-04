@@ -19,9 +19,9 @@ description: 소음인 통합 허브 — 민성 한의학 아카이브의 관련
 ## 대표처방 10
 
 ### 태음병·리한
-- **[백하오이중탕](../sasang-formula-cards-2/baekhao-ijung-tang.md)** — 복통·설사·한증의 태음병 계열
+- **[백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md)** — 복통·설사·한증의 태음병 계열
 - **[곽향정기산 — 소음인방](../sasang-formula-cards/gwakhyangjeonggi-san.md)** — 소음인 비위·한습 계열
-- **[관계부자이중탕](../sasang-formula-cards-2/gwangye-buja-ijung-tang.md)** — 더 깊은 리한·허한 방향
+- **[관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md)** — 더 깊은 리한·허한 방향
 - **[계지반하생강탕](#soeum-gyeji-banha)** — 허한성 구토·수결흉
 - **[십이미관중탕](#soeum-sibimi-gwanjung)** — 소음인 위장병
 - **[관중탕](#soeum-gwanjung)** — 흉복통·배뇨불리·사지권태

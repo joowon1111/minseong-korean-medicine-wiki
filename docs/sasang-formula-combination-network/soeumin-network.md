@@ -11,8 +11,8 @@ description: 소음인 처방 배합망 — 민성 한의학 아카이브의 관
 
 ## 출처 확인 처방
 - [곽향정기산(藿香正氣散) — 소음인방](../sasang-formula-cards/gwakhyangjeonggi-san.md): 곽향 · 소엽 · 건강 · 계피 · 대복피 · 반하 · 백출 · 익지인 · 자감초 · 진피 · 창출 · 청피
-- [관계부자이중탕(官桂附子理中湯)](../sasang-formula-cards-2/gwangye-buja-ijung-tang.md): 인삼 · 건강(구움) · 관계 · 백출 · 포부자 · 백작약 · 자감초 · 진피
-- [백하오이중탕(白何烏理中湯)](../sasang-formula-cards-2/baekhao-ijung-tang.md): 백하수오 · 백출 · 백작약 · 계지 · 건강 · 진피 · 자감초
+- [관계부자이중탕(官桂附子理中湯)](../sasang-formula-cards/gwangye-buja-ijung-tang.md): 인삼 · 건강(구움) · 관계 · 백출 · 포부자 · 백작약 · 자감초 · 진피
+- [백하오이중탕(白何烏理中湯)](../sasang-formula-cards/baekhao-ijung-tang.md): 백하수오 · 백출 · 백작약 · 계지 · 건강 · 진피 · 자감초
 
 ## 반복 본초
 | 반복 본초 | 처방 수 |
