@@ -91,6 +91,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [쌍화탕](../formulas/ssanghwa-tang.md) — 노권·기혈구상
 - [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허·허손
 - [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 보기생혈
+- [인삼양영탕](../formulas/renshen-yangrong-tang.md) — 기혈양허 + 허손·식욕저하·심신 소모
+- [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) — 기혈부족 + 비위허약·담습·기체
 - [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) — 신음허
 - [팔미지황환](../formulas/bawei-dihuang-wan.md) — 신양허
 - [자음강화탕](../formulas/ziyin-jianghuo-tang.md) — 음허화왕
