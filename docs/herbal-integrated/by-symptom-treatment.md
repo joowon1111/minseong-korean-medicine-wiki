@@ -45,6 +45,7 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 | 음식적체 | 소식화적 | [보화환](../formulas/baohe-wan.md) |
 | 한열착잡·심하비 | 한열평조 | [반하사심탕](../formulas/banxia-xiexin-tang.md) |
 | 비위습체 + 수습·설사 | 화습이수 | [위령탕](../formulas/weiling-tang.md) |
+| 비위기허 + 수습 + 만성 묽은변 | 보기건비·삼습지사 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 
 ## 현훈·두통
 
@@ -114,6 +115,8 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 
 | 병증축 | 치법 | 대표 처방 |
 |---|---|---|
+| 혈허 + 수습 | 양혈조간·건비이수 | [당귀작약산](../formulas/danggui-shaoyao-san.md) |
+| 하초 어혈 + 고정성 통증·혈괴 | 활혈화어 | [계지복령환](../formulas/guizhi-fuling-wan.md) |
 | 충임허한 + 어혈 | 온경산한·양혈거어 | [온경탕](../formulas/wenjing-tang.md) |
 | 혈허 + 기체·조경 | 양혈조경·이기 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
 
