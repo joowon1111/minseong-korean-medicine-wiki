@@ -17,6 +17,9 @@ last_reviewed: 2026-08-19
 ### [온담탕](../formulas/wendan-tang.md)
 담과 위기불화를 조절하는 대표적인 화담 처방.
 
+### [궁하탕](../formulas/gungha-tang.md)
+반하·복령·진피의 화담축에 천궁·청피·지각을 더해 흉협부 담음과 기체·통증을 함께 살핀다.
+
 ### [소시호탕](../formulas/xiaochaihu-tang.md)
 소양병 계열에서 시호·황금·인삼 등과 함께 반하가 포함된다.
 
