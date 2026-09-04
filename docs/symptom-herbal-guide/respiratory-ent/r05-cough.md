@@ -150,7 +150,7 @@ last_reviewed: 2026-08-28
 처방명은 탐색을 위한 대표 예시입니다. 같은 마른기침이라도 감염 후 기도 과민성, 역류, 약물, 폐음허가 서로 다르므로 원인과 병증을 함께 확인합니다. 임신·수유, 고혈압·심장질환, 간·신장질환과 현재 복용약도 처방 전에 확인합니다.
 
 - [소청룡탕](../../formulas/xiaoqinglong-tang.md)
-- [삼소음](../../formulas/samsoeum.md)
+- [삼소음](../../formulas/renshen-suyin.md)
 - [이진탕](../../formulas/erchen-tang.md)
 - [맥문동탕](../../formulas/maidong-tang.md)
 - [마행감석탕](../../formulas/maxing-ganshi-tang.md)
