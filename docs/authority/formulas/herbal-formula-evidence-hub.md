@@ -3,7 +3,7 @@ title: 한약·처방 현대 임상근거 허브
 description: 소화기·수면·통증·호흡기·여성건강·보익·회복·심혈관·대사·비뇨·신경 영역의 주요 한약 처방을 질환, 변증, 처방 구성, 임상결과와 PMID·DOI로 연결합니다.
 tags: [한약, 방제, 임상근거, RCT, 메타분석, PMID, DOI]
 status: 검토완료
-last_reviewed: '2026-09-01'
+last_reviewed: '2026-09-04'
 ---
 # 한약·처방 현대 임상근거 허브
 
@@ -21,7 +21,7 @@ last_reviewed: '2026-09-01'
 | 호흡·비염 | 콧물·코막힘·재채기·기침·감기 후 회복 | [소청룡탕](xiao-qing-long-tang.md) · [옥병풍산](yupingfeng-san.md) · [맥문동탕](maidong-tang.md) · [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) |
 | 여성건강 | 생리통·월경불순·갱년기·산후 피로 | [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [가미소요산](danzhi-xiaoyao-san.md) · [귀비탕](../../research/formulas/guibi-tang.md) |
 | 보익·피로·회복 | 만성피로·식욕저하·질환 및 치료 후 쇠약 | [공진단](../../research/formulas/gongjin-dan.md) · [경옥고](../../research/formulas/gyeongok-go.md) · [십전대보탕](../../research/formulas/sipjeondaebo-tang.md) · [생맥산](../../research/formulas/shengmai-san.md) |
-| 심혈관·대사 | 혈압·순환·당뇨병 합병증·심혈관 회복 | [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md) · [생맥산](../../research/formulas/shengmai-san.md) · [육미지황환](liuwei-dihuang-wan.md) |
+| 심혈관·대사 | 상열·혈압 동반 증상·순환·당뇨병 합병증·심혈관 회복 | [황련해독탕](../../formulas/huanglian-jiedu-tang.md) · [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md) · [생맥산](../../research/formulas/shengmai-san.md) · [육미지황환](liuwei-dihuang-wan.md) |
 | 비뇨·남성건강 | 배뇨불편·전립선·골반통·신허 관련 증상 | [육미지황환](liuwei-dihuang-wan.md) · [전열서통](qianlieshutong-bph.md) · [오자연종환](wuzi-yanzong-wan.md) |
 | 신경·뇌졸중 | 뇌졸중 후 기능·정서·인지·말초신경 증상 | [보양환오탕](buyang-huanwu-tang-poststroke.md) · [천마구등음](tianma-gouteng-yin.md) · [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) |
 
@@ -44,7 +44,7 @@ last_reviewed: '2026-09-01'
 
 ## 최근·대표 주요 처방 연구
 
-아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 24개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
+아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 25개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
 
 ### 소화기 처방 5개
 
@@ -76,10 +76,11 @@ last_reviewed: '2026-09-01'
 | [옥병풍산](yupingfeng-san.md) | 2026년 성인 천식 20개 RCT·1,896명 메타분석 — [PMID 42147341](https://pubmed.ncbi.nlm.nih.gov/42147341/) | 기존 천식 치료에 더한 병용근거로 천식 조절과 폐기능을 확인 |
 | [맥문동탕](maidong-tang.md) | 기침 9개 RCT·2,453명 메타분석 — [PMID 26666732](https://pubmed.ncbi.nlm.nih.gov/26666732/) | 감염 후·만성 기침 등 대상 질환과 처방 구성을 나누어 확인 |
 
-### 여성·보익·심혈관·신경·비뇨 처방 9개
+### 여성·보익·심혈관·신경·비뇨 처방 10개
 
 | 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
 |---|---|---|
+| [황련해독탕](../../formulas/huanglian-jiedu-tang.md) | 고혈압 동반 증상 이중맹검 위약대조시험 265명 — [PMID 16360926](https://pubmed.ncbi.nlm.nih.gov/16360926/) · 제2형 당뇨병 40개 연구·3,934명 메타분석 — [PMID 38286111](https://pubmed.ncbi.nlm.nih.gov/38286111/) | 상열감·안면홍조·번조와 열·습열성 대사양상을 구분해 평가 |
 | [온경탕](wenjing-tang.md) | 원발성 월경통 18개 연구·1,736명 메타분석 — [PMID 28791471](https://pubmed.ncbi.nlm.nih.gov/28791471/) | 통증강도·월경상태·진통제 사용을 평가 |
 | [당귀작약산](danggui-shaoyao-san.md) | 원발성 월경통 RCT 메타분석 — [PMID 26857875](https://pubmed.ncbi.nlm.nih.gov/26857875/) | 여성 골반·월경 증상과 혈허·수습 구조를 연결 |
 | [보중익기탕](../../research/formulas/buzhong-yiqi-tang.md) | 안정기 COPD 16개 연구·1,400명 메타분석 — [PMID 27912964](https://pubmed.ncbi.nlm.nih.gov/27912964/) | 호흡기 기능·보행·삶의 질과 기존 치료 병용 여부를 확인 |
@@ -122,6 +123,16 @@ last_reviewed: '2026-09-01'
 수면 연구에서는 총수면시간뿐 아니라 **PSQI·ISI, 입면시간, 야간각성, 낮 피로와 기능 변화**를 함께 봅니다.
 
 → [귀비탕 임상근거](../../research/formulas/guibi-tang.md) · [불면증](../../conditions/insomnia.md)
+
+### 황련해독탕 — 화열·자율신경·대사
+
+- **처방 구조:** 황련·황금·황백·치자로 삼초의 실열과 화독을 맑히는 네 약재 처방
+- **직접 임상시험:** 고혈압 환자 265명을 8주간 평가한 이중맹검 위약대조시험에서 동반 증상 총점과 상열감·안면홍조를 확인했습니다. 혈압 감소는 위약과 차이가 없어 치료목표를 열성 동반 증상과 구분합니다. — [PMID 16360926](https://pubmed.ncbi.nlm.nih.gov/16360926/)
+- **대사 근거:** 제2형 당뇨병 40개 연구·3,934명 메타분석과 2026년 고전처방-메트포르민 병용 네트워크 메타분석에서 혈당·HbA1c·인슐린저항성·지질 지표를 다뤘습니다. — [PMID 38286111](https://pubmed.ncbi.nlm.nih.gov/38286111/) · [PMID 41756240](https://pubmed.ncbi.nlm.nih.gov/41756240/)
+- **현대 연구 확장:** 2026년 한·일 학술교류에서는 신경·자율신경, 피부-신경 연결, 약침과 미세혈관·지혈 연구가 논의됐습니다. 이 영역은 경구 처방의 확립된 효과와 구분해 후속 임상연구를 살핍니다.
+- **임상 연결:** 단순 스트레스나 염증이 아니라 상열감·홍조·번조·구갈·붉은 피부·황태 등 실열 단서를 확인합니다.
+
+→ [황련해독탕 핵심 문서](../../formulas/huanglian-jiedu-tang.md) · [제2형 당뇨병 근거카드](huanglian-jiedu-tang-diabetes.md)
 
 ### 온경탕 — 원발성 월경통
 
