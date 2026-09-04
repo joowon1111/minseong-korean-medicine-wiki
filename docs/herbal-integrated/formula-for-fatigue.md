@@ -3,7 +3,7 @@ title: 피로·기력저하에 쓰는 한약 처방 찾기
 description: 피로·기력저하에 쓰는 한약 처방 찾기을 환자 검색어에서 병증·대표 처방·본초 자료까지 연결합니다.
 tags: [한약, 방제, 처방, 환자검색, 맞춤한약]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-04
 ---
 # 피로·기력저하에 쓰는 한약 처방 찾기
 
@@ -19,13 +19,14 @@ last_reviewed: 2026-08-21
 
 ## 관련 처방·병증
 
-- 보중익기탕
-- 사군자탕
-- 사물탕
-- 팔물탕
-- 십전대보탕
-- 생맥산
-- 귀비탕
+- [보중익기탕](../formulas/buzhong-yiqi-tang.md) — 비위기허·중기하함과 식후 처짐
+- [사군자탕](../authority/formulas/sijunzi-tang.md) — 비위기허의 기본 보기 구조
+- [사물탕](../formulas/siwu-tang.md) — 혈허와 어지럼·건조·월경 관련 피로
+- [팔물탕](../formulas/bazhen-tang.md) — 기허와 혈허가 함께 나타나는 회복저하
+- [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허·허손과 병후 회복
+- [생맥산](../formulas/shengmai-san.md) — 기음양허·다한·갈증과 활동 후 소모
+- [귀비탕](../formulas/guibi-tang.md) — 심비양허와 식욕저하·심계·수면저하
+- [소요산](../formulas/xiaoyao-san.md) — 간울·혈허·비허와 변동성 피로·소화불편
 
 ## 처방을 고르는 관점
 
