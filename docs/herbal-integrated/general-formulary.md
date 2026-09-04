@@ -168,7 +168,11 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 혈허유열 + 월경선기·출혈량 증가 | [청경사물탕](../formulas/qingjing-siwu-tang.md) |
 | 비허·간울·습 + 만성 백대하 | [완대탕](../formulas/wandai-tang.md) |
 | 충임허손 + 혈허·허한성 출혈 | [교애탕](../formulas/jiaoai-tang.md) |
-| 혈허 + 기체·조경 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
+| 혈허 + 기체·하초 한의 임신준비 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
+| 기혈양허 + 신허·충임부족의 임신준비 | [육린주](../formulas/yulin-zhu.md) |
+| 간울기체 + 월경·임신준비 | [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) |
+| 보신·고충 + 태루·태동불안 | [수태환](../formulas/shoutai-wan.md) |
+| 기혈양허·비위허약 + 충임불고 | [태산반석산](../formulas/taishan-panshi-san.md) |
 
 **빠른 감별:** `당귀작약산 ↔ 계지복령환 ↔ 온경탕 ↔ 소복축어탕`은 **혈허·수습 / 어혈 / 충임허한 / 한응어혈성 통증** 가운데 무엇이 중심인지가 갈림점입니다. 출혈 양상은 청경사물탕·교애탕, 대하는 완대탕으로 별도 감별합니다.
 
