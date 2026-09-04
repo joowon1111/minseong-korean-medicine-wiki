@@ -9,8 +9,8 @@ description: 소음인 — 망양·표병 — 민성 한의학 아카이브의 �
 
 | 처방 | 핵심 위치 |
 |---|---|
-| [인삼계지부자탕](insamgyejibujatang.md) | 망양증 |
-| [승양팔물탕](seungyangpalmul-tang.md) | 태양양명증 |
+| [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) | 망양증 |
+| [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) | 태양양명증 |
 | [계지부자탕](gyejibujatang.md) | 발한 후 양기 손상 |
 
 각 처방을 클릭하면 **구성 본초·용량·출전·조제법·주치** 상세로 이동합니다.

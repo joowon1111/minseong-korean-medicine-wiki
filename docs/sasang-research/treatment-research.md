@@ -23,5 +23,5 @@ last_reviewed: 2026-08-19
 
 → [체질한약치료](../sasang-treatment/herbal-treatment.md)
 → [체질침·뜸 치료](../sasang-treatment/acupuncture-moxibustion.md)
-→ [사상체질 처방 심화](../sasang-formulas/index.md)
+→ [사상체질 처방 심화](../sasang-integrated/formulas.md)
 

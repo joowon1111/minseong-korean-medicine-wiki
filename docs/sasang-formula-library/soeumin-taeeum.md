@@ -9,9 +9,9 @@ description: 소음인 — 태음병·리한 — 민성 한의학 아카이브�
 
 | 처방 | 핵심 위치 |
 |---|---|
-| [백하오이중탕](../sasang-formula-cards-2/baekhao-ijung-tang.md) | 복통·설사·한증 |
+| [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) | 복통·설사·한증 |
 | [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) | 비위·한습 |
-| [관계부자이중탕](../sasang-formula-cards-2/gwangye-buja-ijung-tang.md) | 깊은 리한·허한 |
+| [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) | 깊은 리한·허한 |
 | [계지부자탕](gyejibujatang.md) | 발한 후 자한·사지구급 |
 | [오수유부자이중탕](osuyubujairijung-tang.md) | 음성격양·장궐 |
 | [궁귀총소이중탕](gunggwichongsoijung-tang.md) | 건곽란 |

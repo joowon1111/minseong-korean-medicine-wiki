@@ -23,8 +23,8 @@ last_reviewed: 2026-08-19
 
 예를 들어 소양인에서는 형방도적산·형방사백산·양격산화탕 등이 서로 다른 병증 맥락에서 탐색된다.
 
-→ [사상체질 처방 심화](../sasang-formulas/index.md)
-→ [체질→병증→처방 탐색](../sasang-formulas/decision-map.md)
+→ [사상체질 처방 심화](../sasang-integrated/formulas.md)
+→ [체질→병증→처방 탐색](../sasang-integrated/formulas.md)
 
 핵심은 `체질명 하나 → 처방 하나`가 아니라 **체질병증을 먼저 구분한 뒤 치료 원칙과 처방을 연결하는 구조**다.
 

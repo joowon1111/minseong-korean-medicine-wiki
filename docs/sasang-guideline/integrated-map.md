@@ -31,6 +31,6 @@ last_reviewed: 2026-08-19
 이 구조를 통해 위키의 사상의학 영역은 **고전 → 체질 → 병증 → 처방 → 현대 임상표준**으로 연결된다.
 
 → [동의수세보원](../sasang/donguisusebowon.md)
-→ [사상체질 처방 심화](../sasang-formulas/index.md)
+→ [사상체질 처방 심화](../sasang-integrated/formulas.md)
 → [사상체질병증 표준 분류](kcd-classification.md)
 

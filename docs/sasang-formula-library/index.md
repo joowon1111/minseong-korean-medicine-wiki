@@ -30,19 +30,19 @@ last_reviewed: 2026-08-22
 
 ### 소양인
 
-[형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [형방사백산](../sasang-formula-cards-2/hyeongbangsabaek-san.md) · [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) · [독활지황탕](../sasang-formula-cards-2/dokhwaljihwang-tang.md) · [활석고삼탕](hwalseokgosam-tang.md) · [형방도백산](hyeongbangdobaek-san.md) · [형방패독산](hyeongbangpaedok-san.md) · [현삼백호탕](hyeonsambaekho-tang.md) · [황련청장탕](hwangryeoncheongjang-tang.md) · [숙지황고삼탕](sukjihwanggosam-tang.md) · [화석지황탕](hwaseokjihwang-tang.md)
+[형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) · [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) · [활석고삼탕](hwalseokgosam-tang.md) · [형방도백산](hyeongbangdobaek-san.md) · [형방패독산](hyeongbangpaedok-san.md) · [현삼백호탕](hyeonsambaekho-tang.md) · [황련청장탕](hwangryeoncheongjang-tang.md) · [숙지황고삼탕](sukjihwanggosam-tang.md) · [화석지황탕](hwaseokjihwang-tang.md)
 
 ### 태음인
 
-[태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [조위승청탕](../sasang-formula-cards-2/jowiseungcheong-tang.md) · [열다한소탕](../sasang-formula-cards-2/yeoldahanso-tang.md) · [청폐사간탕](../sasang-formula-cards-2/cheongpyesagan-tang.md) · [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) · [행인승청탕](haenginseungcheong-tang.md) · [마황정통탕](mahwangjeongtong-tang.md) · [조리폐원탕](joripyewon-tang.md) · [승지조위탕](seungjijowi-tang.md) · [나복자승기탕](nabokjaseunggi-tang.md) · [갈근해기탕](galgeunhaegi-tang.md) · [갈근승기탕](galgeunseunggi-tang.md)
+[태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) · [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) · [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) · [행인승청탕](haenginseungcheong-tang.md) · [마황정통탕](mahwangjeongtong-tang.md) · [조리폐원탕](joripyewon-tang.md) · [승지조위탕](seungjijowi-tang.md) · [나복자승기탕](nabokjaseunggi-tang.md) · [갈근해기탕](galgeunhaegi-tang.md) · [갈근승기탕](galgeunseunggi-tang.md)
 
 ### 소음인
 
-[곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) · [백하오이중탕](../sasang-formula-cards-2/baekhao-ijung-tang.md) · [관계부자이중탕](../sasang-formula-cards-2/gwangye-buja-ijung-tang.md) · [계지부자탕](gyejibujatang.md) · [인삼계지부자탕](insamgyejibujatang.md) · [오수유부자이중탕](osuyubujairijung-tang.md) · [궁귀총소이중탕](gunggwichongsoijung-tang.md) · [승양팔물탕](seungyangpalmul-tang.md) · [향부자팔물탕](hyangbujapalmul-tang.md) · [향소산](hyangso-san.md) · [궁귀향소산](gunggwihyangso-san.md)
+[곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) · [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) · [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) · [계지부자탕](gyejibujatang.md) · [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) · [오수유부자이중탕](osuyubujairijung-tang.md) · [궁귀총소이중탕](gunggwichongsoijung-tang.md) · [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) · [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) · [향소산](hyangso-san.md) · [궁귀향소산](gunggwihyangso-san.md)
 
 ### 태양인
 
-[오가피장척탕](../sasang-formula-cards-2/ogapi-jangcheok-tang.md) · [미후등식장탕](../sasang-formula-cards-2/mihudeung-sikjang-tang.md)
+[오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) · [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md)
 
 ## 처방을 읽는 항목
 
@@ -65,7 +65,7 @@ last_reviewed: 2026-08-22
 
 - [사상처방 상세 임상 카드](../sasang-formula-cards/index.md)
 - [사상처방 선택 원칙](../sasang-formula-cards/selection-principles.md)
-- [체질별 대표 사상처방 연결 지도](../sasang-formula-cards-2/full-map.md)
+- [체질별 대표 사상처방 연결 지도](../sasang-formula-cards/comparison-map.md)
 - [본초로 사상처방 찾기](../herbs/sasang-formula-reverse-index.md)
 - [체질 병증](../sasang/disease-patterns.md)
 - [사상의학 임상 지식망](../sasang/index.md)

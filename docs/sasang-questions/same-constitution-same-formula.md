@@ -23,7 +23,7 @@ last_reviewed: 2026-08-19
 
 예를 들어 소양인에서도 형방도적산·형방사백산·양격산화탕은 서로 다른 병증 맥락에서 탐색된다.
 
-→ [체질→병증→처방 탐색](../sasang-formulas/decision-map.md)
+→ [체질→병증→처방 탐색](../sasang-integrated/formulas.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

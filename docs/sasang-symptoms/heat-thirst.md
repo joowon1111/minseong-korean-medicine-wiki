@@ -11,6 +11,6 @@ description: 열감·갈증이 두드러질 때 — 민성 한의학 아카이�
 
 → [소양인](../sasang/soyangin.md)
 → [태음인](../sasang/taeeumin.md)
-→ [소양인 처방 비교](../sasang-formulas/soyangin-comparison.md)
-→ [태음인 대표 처방](../sasang-formulas/taeeumin-formulas.md)
+→ [소양인 처방 비교](../sasang-formula-cards/comparison-map.md)
+→ [태음인 대표 처방](../sasang-integrated/taeeumin.md)
 

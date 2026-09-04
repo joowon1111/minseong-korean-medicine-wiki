@@ -35,11 +35,11 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 | 단계·병증 | 환자가 느끼기 쉬운 모습 | 대표 처방군 |
 |---|---|---|
 | 표병의 비교적 얕은 단계 | 한열왕래, 두통·신체통, 흉협 불편 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
-| 표병의 열·번조 | 두통, 번조, 구갈, 소변·대변 변화 | [형방사백산](../sasang-formula-cards-2/hyeongbangsabaek-san.md) · [형방도백산](../sasang-formula-library/hyeongbangdobaek-san.md) |
+| 표병의 열·번조 | 두통, 번조, 구갈, 소변·대변 변화 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [형방도백산](../sasang-formula-library/hyeongbangdobaek-san.md) |
 | 망음·설사와 소모 | 복통·설사, 신체통, 기력저하 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) · [활석고삼탕](../sasang-formula-library/hwalseokgosam-tang.md) |
 | 리열·흉격열 | 상열·구갈·번조·변비, 흉격의 열감 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) · [황련청장탕](../sasang-formula-library/hwangryeoncheongjang-tang.md) |
 | 강한 리열 | 심한 구갈·변폐·번조, 열증 심화 | [현삼백호탕](../sasang-formula-library/hyeonsambaekho-tang.md) · [지황백호탕](soyangin.md#soyang-jihwangbaekho) |
-| 음허오열·하소 | 오후·야간 열감, 소모, 하지무력·배뇨 변화 | [독활지황탕](../sasang-formula-cards-2/dokhwaljihwang-tang.md) · [숙지황고삼탕](../sasang-formula-library/sukjihwanggosam-tang.md) · [화석지황탕](../sasang-formula-library/hwaseokjihwang-tang.md) |
+| 음허오열·하소 | 오후·야간 열감, 소모, 하지무력·배뇨 변화 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) · [숙지황고삼탕](../sasang-formula-library/sukjihwanggosam-tang.md) · [화석지황탕](../sasang-formula-library/hwaseokjihwang-tang.md) |
 
 ### 망음과 음허오열의 차이
 
@@ -59,10 +59,10 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 |---|---|---|
 | 표한·한궐 | 오한, 무한, 몸살·관절통, 두통 | [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md) · [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) |
 | 표한+비위·담습 | 몸이 무겁고 식후 더부룩함, 부종·피로 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [승지조위탕](../sasang-formula-library/seungjijowi-tang.md) |
-| 승청 기능 저하 | 식후비만, 중소, 하지무력, 오래된 회복저하 | [조위승청탕](../sasang-formula-cards-2/jowiseungcheong-tang.md) · [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) |
+| 승청 기능 저하 | 식후비만, 중소, 하지무력, 오래된 회복저하 | [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) · [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) |
 | 폐원·병후 회복 | 호흡기 허약, 병후체허와 회복 지연 | [조리폐원탕](../sasang-formula-library/joripyewon-tang.md) · [경험승청탕](taeeumin.md#taeeum-gyeongheomseungcheong) |
-| 간열·폐조 | 열감·구갈·다한, 피부·대변 건조 | [열다한소탕](../sasang-formula-cards-2/yeoldahanso-tang.md) · [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) |
-| 강한 리열·조열 | 번갈·변비·두면부 열감, 열증 심화 | [청폐사간탕](../sasang-formula-cards-2/cheongpyesagan-tang.md) · [갈근승기탕](../sasang-formula-library/galgeunseunggi-tang.md) |
+| 간열·폐조 | 열감·구갈·다한, 피부·대변 건조 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) |
+| 강한 리열·조열 | 번갈·변비·두면부 열감, 열증 심화 | [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) · [갈근승기탕](../sasang-formula-library/galgeunseunggi-tang.md) |
 | 리열+심신 증상 | 피로·현훈·심계·수면불편이 함께 | [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) |
 | 식체·대변 정체 | 복만·소화장애와 대변 정체가 중심 | [나복자승기탕](../sasang-formula-library/nabokjaseunggi-tang.md) |
 
@@ -81,11 +81,11 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 | 단계·병증 | 환자가 느끼기 쉬운 모습 | 대표 처방군 |
 |---|---|---|
 | 태양증·표병 초기 | 오한·발열, 두통·신체통, 땀의 변화 | [천궁계지탕](soeumin.md#soeum-cheongung-gyeji) · [궁귀향소산](../sasang-formula-library/gunggwihyangso-san.md) |
-| 망양초증 | 땀 뒤 기력저하, 표병이 오래가며 회복이 더딤 | [승양익기탕](soeumin.md#soeum-seungyangikgi) · [승양팔물탕](../sasang-formula-library/seungyangpalmul-tang.md) |
-| 망양의 심화 | 발한과 탈진, 냉감·쇠약이 더욱 뚜렷함 | [승양익기부자탕](soeumin.md#soeum-seungyangikgi-buja) · [인삼관계부자탕](soeumin.md#soeum-insam-gwangye-buja) · [인삼계지부자탕](../sasang-formula-library/insamgyejibujatang.md) |
-| 태음병·리한 | 식욕저하, 복통·설사, 구토, 냉감 | [백하오이중탕](../sasang-formula-cards-2/baekhao-ijung-tang.md) · [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
-| 리한+기체·담습 | 흉복부 답답함, 더부룩함, 오심·구토 | [향부자팔물탕](../sasang-formula-library/hyangbujapalmul-tang.md) · [향소산](../sasang-formula-library/hyangso-san.md) · [계지반하생강탕](soeumin.md#soeum-gyeji-banha) |
-| 리한의 심화 | 심한 냉감·설사·쇠약, 양기 저하 | [관계부자이중탕](../sasang-formula-cards-2/gwangye-buja-ijung-tang.md) · [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) |
+| 망양초증 | 땀 뒤 기력저하, 표병이 오래가며 회복이 더딤 | [승양익기탕](soeumin.md#soeum-seungyangikgi) · [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
+| 망양의 심화 | 발한과 탈진, 냉감·쇠약이 더욱 뚜렷함 | [승양익기부자탕](soeumin.md#soeum-seungyangikgi-buja) · [인삼관계부자탕](soeumin.md#soeum-insam-gwangye-buja) · [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) |
+| 태음병·리한 | 식욕저하, 복통·설사, 구토, 냉감 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) · [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
+| 리한+기체·담습 | 흉복부 답답함, 더부룩함, 오심·구토 | [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) · [향소산](../sasang-formula-library/hyangso-san.md) · [계지반하생강탕](soeumin.md#soeum-gyeji-banha) |
+| 리한의 심화 | 심한 냉감·설사·쇠약, 양기 저하 | [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) · [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) |
 | 복통·배뇨·사지권태 | 흉복통과 배뇨불리, 기력저하가 함께 | [관중탕](soeumin.md#soeum-gwanjung) · [십이미관중탕](soeumin.md#soeum-sibimi-gwanjung) |
 
 ### 망양과 망음은 다른 병증입니다
@@ -102,8 +102,8 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 
 | 병증 | 대표 처방 | 함께 확인할 점 |
 |---|---|---|
-| 외감요척병·해역 | [오가피장척탕](../sasang-formula-cards-2/ogapi-jangcheok-tang.md) | 근력저하·보행장애의 신경계·척추·관절 원인 감별 |
-| 내촉소장병·열격 | [미후등식장탕](../sasang-formula-cards-2/mihudeung-sikjang-tang.md) | 연하곤란·반복 구토·체중감소의 위·식도 평가 |
+| 외감요척병·해역 | [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) | 근력저하·보행장애의 신경계·척추·관절 원인 감별 |
+| 내촉소장병·열격 | [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md) | 연하곤란·반복 구토·체중감소의 위·식도 평가 |
 
 → [태양인 통합 허브](taeyangin.md)
 
@@ -122,7 +122,7 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 
 - [사상처방 전체 색인](../sasang-formula-library/index.md)
 - [사상처방 상세 임상 카드](../sasang-formula-cards/index.md)
-- [체질별 대표처방 연결 지도](../sasang-formula-cards-2/full-map.md)
+- [체질별 대표처방 연결 지도](../sasang-formula-cards/comparison-map.md)
 - [배합 원리·공통본초](../sasang-formula-combination-network/index.md)
 - [구성비·용량 지문](../sasang-formula-dose-fingerprint/index.md)
 - [본초→사상처방 역색인](../herbs/sasang-formula-reverse-index.md)

@@ -7,7 +7,7 @@ description: 유사 사상처방 구성비 비교 — 민성 한의학 아카이
 ---
 # 유사 사상처방 구성비 비교
 
-## [태음조위탕(太陰調胃湯)](../sasang-formula-cards/taeeumjowi-tang.md) ↔ [조위승청탕(調胃升淸湯)](../sasang-formula-cards-2/jowiseungcheong-tang.md)
+## [태음조위탕(太陰調胃湯)](../sasang-formula-cards/taeeumjowi-tang.md) ↔ [조위승청탕(調胃升淸湯)](../sasang-formula-cards/jowiseungcheong-tang.md)
 
 | 본초 | 태음조위탕 | 조위승청탕 |
 |---|---:|---:|
@@ -25,7 +25,7 @@ description: 유사 사상처방 구성비 비교 — 민성 한의학 아카이
 | 천문동 | 3.75 g | 3.75 g |
 
 
-## [열다한소탕(熱多寒少湯)](../sasang-formula-cards-2/yeoldahanso-tang.md) ↔ [청폐사간탕(淸肺瀉肝湯)](../sasang-formula-cards-2/cheongpyesagan-tang.md)
+## [열다한소탕(熱多寒少湯)](../sasang-formula-cards/yeoldahanso-tang.md) ↔ [청폐사간탕(淸肺瀉肝湯)](../sasang-formula-cards/cheongpyesagan-tang.md)
 
 | 본초 | 열다한소탕 | 청폐사간탕 |
 |---|---:|---:|
@@ -39,7 +39,7 @@ description: 유사 사상처방 구성비 비교 — 민성 한의학 아카이
 | 황금 | 7.5 g | 7.5 g |
 
 
-## [형방지황탕(荊防地黃湯)](../sasang-formula-cards/hyeongbangjihwang-tang.md) ↔ [독활지황탕(獨活地黃湯)](../sasang-formula-cards-2/dokhwaljihwang-tang.md)
+## [형방지황탕(荊防地黃湯)](../sasang-formula-cards/hyeongbangjihwang-tang.md) ↔ [독활지황탕(獨活地黃湯)](../sasang-formula-cards/dokhwaljihwang-tang.md)
 
 | 본초 | 형방지황탕 | 독활지황탕 |
 |---|---:|---:|

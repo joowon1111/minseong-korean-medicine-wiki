@@ -19,15 +19,15 @@ description: 태음인 통합 허브 — 민성 한의학 아카이브의 관련
 
 ### 위완수한표한
 - **[태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md)** — 태음인 표한의 대표 처방
-- **[조위승청탕](../sasang-formula-cards-2/jowiseungcheong-tang.md)** — 식후비만·중소·하지무력 등
+- **[조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md)** — 식후비만·중소·하지무력 등
 - **[행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md)** — 조위승청탕 계열의 변방
 - **[마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md)** — 흉복통 등 표한 계열
 - **[조리폐원탕](../sasang-formula-library/joripyewon-tang.md)** — 병후체허·폐원 조리
 - **[경험승청탕](#taeeum-gyeongheomseungcheong)** — 조위승청탕 계열의 후대 경험방
 
 ### 간수열리열
-- **[열다한소탕](../sasang-formula-cards-2/yeoldahanso-tang.md)** — 열다한소·간열폐조 축
-- **[청폐사간탕](../sasang-formula-cards-2/cheongpyesagan-tang.md)** — 강한 리열·변비·번갈 등
+- **[열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md)** — 열다한소·간열폐조 축
+- **[청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md)** — 강한 리열·변비·번갈 등
 - **[청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md)** — 리열·조열·피로·현훈 등의 맥락
 - **[나복자승기탕](../sasang-formula-library/nabokjaseunggi-tang.md)** — 식체·소화장애·승기 방향
 

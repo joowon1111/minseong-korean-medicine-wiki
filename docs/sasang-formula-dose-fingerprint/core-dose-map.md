@@ -14,7 +14,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 건강: **1.875 g** (6.7%)
 - 계피: **1.875 g** (6.7%)
 
-## [관계부자이중탕(官桂附子理中湯)](../sasang-formula-cards-2/gwangye-buja-ijung-tang.md)
+## [관계부자이중탕(官桂附子理中湯)](../sasang-formula-cards/gwangye-buja-ijung-tang.md)
 - **정량 가능한 총량:** 45 g
 - 인삼: **11.25 g** (25.0%)
 - 건강(구움): **7.5 g** (16.7%)
@@ -28,7 +28,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 대황: **7.5 g** (15.4%)
 - 황금: **7.5 g** (15.4%)
 
-## [독활지황탕(獨活地黃湯)](../sasang-formula-cards-2/dokhwaljihwang-tang.md)
+## [독활지황탕(獨活地黃湯)](../sasang-formula-cards/dokhwaljihwang-tang.md)
 - **정량 가능한 총량:** 45 g
 - 숙지황: **15 g** (33.3%)
 - 산수유: **7.5 g** (16.7%)
@@ -42,7 +42,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 마황: **7.5 g** (13.3%)
 - 길경: **3.75 g** (6.7%)
 
-## [백하오이중탕(白何烏理中湯)](../sasang-formula-cards-2/baekhao-ijung-tang.md)
+## [백하오이중탕(白何烏理中湯)](../sasang-formula-cards/baekhao-ijung-tang.md)
 - **정량 가능한 총량:** 63.75 g
 - 백하수오: **11.25 g** (17.6%)
 - 백출: **11.25 g** (17.6%)
@@ -63,7 +63,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 연교: **7.5 g** (16.7%)
 - 산치자: **3.75 g** (8.3%)
 
-## [열다한소탕(熱多寒少湯)](../sasang-formula-cards-2/yeoldahanso-tang.md)
+## [열다한소탕(熱多寒少湯)](../sasang-formula-cards/yeoldahanso-tang.md)
 - **정량 가능한 총량:** 45 g
 - 갈근: **15 g** (33.3%)
 - 고본: **7.5 g** (16.7%)
@@ -77,7 +77,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 의이인: **7.5 g** (22.2%)
 - 나복자: **3.75 g** (11.1%)
 
-## [조위승청탕(調胃升淸湯)](../sasang-formula-cards-2/jowiseungcheong-tang.md)
+## [조위승청탕(調胃升淸湯)](../sasang-formula-cards/jowiseungcheong-tang.md)
 - **정량 가능한 총량:** 61.875 g
 - 건율: **11.25 g** (18.2%)
 - 의이인: **11.25 g** (18.2%)
@@ -91,7 +91,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 천문동: **7.5 g** (9.0%)
 - 맥문동: **7.5 g** (9.0%)
 
-## [청폐사간탕(淸肺瀉肝湯)](../sasang-formula-cards-2/cheongpyesagan-tang.md)
+## [청폐사간탕(淸肺瀉肝湯)](../sasang-formula-cards/cheongpyesagan-tang.md)
 - **정량 가능한 총량:** 48.75 g
 - 갈근: **15 g** (30.8%)
 - 고본: **7.5 g** (15.4%)

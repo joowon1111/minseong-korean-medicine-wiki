@@ -10,7 +10,7 @@ description: 소양인 처방 배합망 — 민성 한의학 아카이브의 관
 지황계·택사·복령 골격과 형개·방풍·강활·독활, 석고·지모·황백·고삼 등의 조합 차이를 비교합니다.
 
 ## 출처 확인 처방
-- [독활지황탕(獨活地黃湯)](../sasang-formula-cards-2/dokhwaljihwang-tang.md): 숙지황 · 산수유 · 복령 · 택사 · 독활 · 목단피 · 방풍
+- [독활지황탕(獨活地黃湯)](../sasang-formula-cards/dokhwaljihwang-tang.md): 숙지황 · 산수유 · 복령 · 택사 · 독활 · 목단피 · 방풍
 - [숙지황고삼탕(熟地黃苦蔘湯)](../sasang-formula-library/sukjihwanggosam-tang.md): 고삼 · 백복령 · 산수유 · 숙지황 · 지모 · 택사 · 황백
 - [양격산화탕(凉膈散火湯)](../sasang-formula-cards/yanggyeoksanhwa-tang.md): 생지황 · 인동등 · 연교 · 산치자 · 박하 · 지모 · 석고 · 방풍 · 형개
 - [현삼백호탕(玄蔘白虎湯)](../sasang-formula-library/hyeonsambaekho-tang.md): 나복자 · 독활 · 방풍 · 산수유 · 생지황 · 석고 · 숙지황 · 시호 · 지모 · 현삼
