@@ -10,9 +10,14 @@ tags:
 - 여성난임
 - 남성난임
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-04
 ---
 # 난임·임신준비
+
+
+!!! tip "임신준비 전체 흐름"
+    자연임신 준비부터 시험관·인공수정, 착상 대기, 임신 중 한약, 유산 후 회복과 산후보약까지는 [임신 준비·난임·임신·산후 통합 허브](../womens-health/fertility-pregnancy-postpartum.md)에서 단계별로 볼 수 있습니다.
+
 
 임신준비는 임신이 잘 되는 시기만 계산하는 일이 아닙니다. **배란과 난소 기능, 난관·자궁 환경, 정자 상태, 갑상선과 대사 건강, 수면·영양·복용약**을 부부가 함께 점검하는 과정입니다.
 
@@ -212,3 +217,12 @@ AMH만으로 자연임신 가능성을 단정할 수 없습니다. 다만 치료
 - Xu M, et al. Effects of acupuncture on pregnancy outcomes in women undergoing IVF. PMID [37436463](https://pubmed.ncbi.nlm.nih.gov/37436463/).
 - Wang X, et al. Timing and dose effect of acupuncture on pregnancy outcomes in IVF. PMID [38808509](https://pubmed.ncbi.nlm.nih.gov/38808509/).
 - Hyun JY, et al. Herbal therapeutics for female infertility: a systematic review and meta-analysis. PMID [37778518](https://pubmed.ncbi.nlm.nih.gov/37778518/).
+
+
+## 보조생식·임신 이후로 이어 보기
+
+- [시험관·인공수정·착상 준비](assisted-reproduction-support.md)
+- [임신 중 한약·한의진료](pregnancy-herbal-care.md)
+- [유산 후 회복·조리 한약](miscarriage-recovery.md)
+- [산후보약·산후풍](postpartum-recovery.md)
+- [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md)
