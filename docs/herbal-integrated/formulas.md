@@ -80,7 +80,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 ## 보익·기혈·음양
 
 - [보중익기탕](../formulas/buzhong-yiqi-classic.md) — 비위기허·중기하함
-- [귀비탕](../formulas/guipi-classic.md) — 심비양허
+- [귀비탕](../formulas/guibi-tang.md) — 심비양허
 - [쌍화탕](../formulas/ssanghwa-tang.md) — 노권·기혈구상
 - [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허·허손
 - [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 보기생혈

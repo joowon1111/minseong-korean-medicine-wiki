@@ -16,14 +16,15 @@ last_reviewed: '2026-09-04'
 | 분야 | 환자가 자주 찾는 표현 | 대표 처방·근거 |
 |---|---|---|
 | 소화기 | 더부룩함·조기포만·명치 답답함·식욕저하 | [반하사심탕](../../formulas/banxia-xiexin-tang.md) · [육군자탕](../../research/formulas/rikkunshito.md) · [보중익기탕](../../formulas/buzhong-yiqi-tang.md) |
-| 수면·정서 | 잠들기 어려움·자주 깸·두근거림·걱정·피로 | [산조인탕](suanzaoren-tang.md) · [귀비탕](../../research/formulas/guibi-tang.md) · [천왕보심단](cheonwangbosimdan.md) |
+| 수면·정서 | 잠들기 어려움·자주 깸·두근거림·걱정·피로 | [산조인탕](suanzaoren-tang.md) · [귀비탕](../../formulas/guibi-tang.md) · [천왕보심단](cheonwangbosimdan.md) |
 | 통증·근골격 | 허리·무릎·관절통증·회복저하 | [독활기생탕](../../research/formulas/duhuo-jisheng-tang.md) · [오적산](../../formulas/wujisan.md) · [작약감초탕](shakuyaku-kanzo-tang-update.md) |
-| 호흡·비염 | 콧물·코막힘·재채기·기침·감기 후 회복 | [소청룡탕](../../formulas/xiaoqinglong-tang.md) · [옥병풍산](yupingfeng-san.md) · [맥문동탕](maidong-tang.md) · [보중익기탕](../../formulas/buzhong-yiqi-tang.md) |
-| 여성건강 | 생리통·월경불순·갱년기·산후 피로 | [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [가미소요산](danzhi-xiaoyao-san.md) · [귀비탕](../../research/formulas/guibi-tang.md) |
+| 호흡·비염 | 콧물·코막힘·재채기·기침·감기 후 회복 | [소청룡탕](../../formulas/xiaoqinglong-tang.md) · [갈근탕](../../formulas/gegen-tang.md) · [형개연교탕](../../formulas/jingjie-lianqiao-tang.md) · [옥병풍산](yupingfeng-san.md) · [맥문동탕](maidong-tang.md) |
+| 여성건강 | 생리통·월경불순·갱년기·산후 피로 | [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [가미소요산](../../formulas/jiawei-xiaoyao-san.md) · [귀비탕](../../formulas/guibi-tang.md) |
 | 보익·피로·회복 | 만성피로·식욕저하·과로 및 치료 후 쇠약 | [쌍화탕](../../formulas/ssanghwa-tang.md) · [보중익기탕](../../formulas/buzhong-yiqi-tang.md) · [공진단](../../research/formulas/gongjin-dan.md) · [경옥고](../../research/formulas/gyeongok-go.md) · [십전대보탕](../../research/formulas/sipjeondaebo-tang.md) |
 | 심혈관·대사 | 상열·혈압 동반 증상·순환·당뇨병 합병증·심혈관 회복 | [황련해독탕](../../formulas/huanglian-jiedu-tang.md) · [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md) · [생맥산](../../research/formulas/shengmai-san.md) · [육미지황환](liuwei-dihuang-wan.md) |
 | 비뇨·남성건강 | 배뇨불편·전립선·골반통·신허 관련 증상 | [육미지황환](liuwei-dihuang-wan.md) · [전열서통](qianlieshutong-bph.md) · [오자연종환](wuzi-yanzong-wan.md) |
 | 신경·뇌졸중 | 뇌졸중 후 기능·정서·인지·말초신경 증상 | [보양환오탕](buyang-huanwu-tang-poststroke.md) · [천마구등음](tianma-gouteng-yin.md) · [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) |
+| 수분대사·부종 | 갈증과 소변불리·붓기·두통·어지럼이 함께 나타남 | [오령산](../../formulas/wuling-san.md) · [저령탕](../../formulas/zhuling-tang.md) · [진무탕](../../formulas/zhenwu-tang.md) |
 
 표의 처방명은 모두 클릭할 수 있으며, 각 세부 문서에서 처방 구조·대상 환자·사람 대상 연구·평가 지표를 이어서 확인할 수 있습니다.
 
@@ -44,7 +45,7 @@ last_reviewed: '2026-09-04'
 
 ## 최근·대표 주요 처방 연구
 
-아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 26개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
+아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 27개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
 
 ### 소화기 처방 5개
 
@@ -76,10 +77,11 @@ last_reviewed: '2026-09-04'
 | [옥병풍산](yupingfeng-san.md) | 2026년 성인 천식 20개 RCT·1,896명 메타분석 — [PMID 42147341](https://pubmed.ncbi.nlm.nih.gov/42147341/) | 기존 천식 치료에 더한 병용근거로 천식 조절과 폐기능을 확인 |
 | [맥문동탕](maidong-tang.md) | 기침 9개 RCT·2,453명 메타분석 — [PMID 26666732](https://pubmed.ncbi.nlm.nih.gov/26666732/) | 감염 후·만성 기침 등 대상 질환과 처방 구성을 나누어 확인 |
 
-### 여성·보익·심혈관·신경·비뇨 처방 11개
+### 여성·보익·심혈관·신경·비뇨·수분대사 처방 12개
 
 | 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
 |---|---|---|
+| [오령산](../../formulas/wuling-san.md) | 2024년 만성 경막하혈종 수술 후 재발 관련 8개 연구 메타분석 — [PMID 39076594](https://pubmed.ncbi.nlm.nih.gov/39076594/) | 신경외과 표준치료 뒤 재발·영상변화를 보는 보조근거로 읽고 비수술 환자 연구와 구분 |
 | [황련해독탕](../../formulas/huanglian-jiedu-tang.md) | 고혈압 동반 증상 이중맹검 위약대조시험 265명 — [PMID 16360926](https://pubmed.ncbi.nlm.nih.gov/16360926/) · 제2형 당뇨병 40개 연구·3,934명 메타분석 — [PMID 38286111](https://pubmed.ncbi.nlm.nih.gov/38286111/) | 상열감·안면홍조·번조와 열·습열성 대사양상을 구분해 평가 |
 | [온경탕](wenjing-tang.md) | 원발성 월경통 18개 연구·1,736명 메타분석 — [PMID 28791471](https://pubmed.ncbi.nlm.nih.gov/28791471/) | 통증강도·월경상태·진통제 사용을 평가 |
 | [당귀작약산](danggui-shaoyao-san.md) | 원발성 월경통 RCT 메타분석 — [PMID 26857875](https://pubmed.ncbi.nlm.nih.gov/26857875/) | 여성 골반·월경 증상과 혈허·수습 구조를 연결 |
@@ -123,7 +125,7 @@ last_reviewed: '2026-09-04'
 
 수면 연구에서는 총수면시간뿐 아니라 **PSQI·ISI, 입면시간, 야간각성, 낮 피로와 기능 변화**를 함께 봅니다.
 
-→ [귀비탕 임상근거](../../research/formulas/guibi-tang.md) · [불면증](../../conditions/insomnia.md)
+→ [귀비탕 핵심 문서](../../formulas/guibi-tang.md) · [불면증](../../conditions/insomnia.md)
 
 ### 황련해독탕 — 화열·자율신경·대사
 

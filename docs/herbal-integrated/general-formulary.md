@@ -127,7 +127,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 핵심 갈림점 | 처방 |
 |---|---|
 | 보기생혈 | [당귀보혈탕](../formulas/danggui-buxue-tang.md) |
-| 심비양허·불면·심계 | [귀비탕](../formulas/guipi-classic.md) |
+| 심비양허·불면·심계 | [귀비탕](../formulas/guibi-tang.md) |
 | 기혈양허·허손 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | 노권·기혈구상 | [쌍화탕](../formulas/ssanghwa-tang.md) |
 | 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |

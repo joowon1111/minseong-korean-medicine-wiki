@@ -16,7 +16,7 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 | 병증축 | 치법 | 대표 처방 |
 |---|---|---|
 | 비위기허·중기하함 | 보기승양 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
-| 심비양허·기혈부족 | 익기보혈·안신 | [귀비탕](../formulas/guipi-classic.md) |
+| 심비양허·기혈부족 | 익기보혈·안신 | [귀비탕](../formulas/guibi-tang.md) |
 | 노권·기혈구상 | 조화기혈·보허 | [쌍화탕](../formulas/ssanghwa-tang.md) |
 | 기혈양허·허손 | 온보기혈 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | 기음양허·진액손상 | 익기생진 | [생맥산](../formulas/shengmai-san.md) |
@@ -29,7 +29,7 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 
 | 병증축 | 치법 | 대표 처방 |
 |---|---|---|
-| 심비양허 | 익기보혈·양심 | [귀비탕](../formulas/guipi-classic.md) |
+| 심비양허 | 익기보혈·양심 | [귀비탕](../formulas/guibi-tang.md) |
 | 심신음혈부족 | 자음양혈·안신 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | 허번불면 | 양혈안신·청열제번 | [산조인탕](../formulas/suanzaoren-tang.md) |
 | 담울·심번·경계 | 이기화담·안신 | [가미온담탕](../formulas/jiawei-wendan-tang.md) |
