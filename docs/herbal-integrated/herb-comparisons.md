@@ -30,7 +30,7 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 |---|---|---|
 | 후박 | 조습·하기·제만 | [평위산](../formulas/pingwei-san.md), [반하후박탕](../formulas/banxia-houpo-tang.md) |
 | 지실 | 파기·소적 | [대승기탕](../formulas/dachengqi-tang.md), [도담탕](../formulas/daotan-tang.md) |
-| 목향 | 행기지통·건비 | [귀비탕](../formulas/guipi-classic.md), [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
+| 목향 | 행기지통·건비 | [귀비탕](../formulas/guibi-tang.md), [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
 | 사인 | 화습·행기·온중 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
 
 ## 도인 · 홍화 · 단삼
@@ -59,10 +59,10 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 | 본초 | 핵심 | 처방에서 보기 |
 |---|---|---|
-| 원지 | 교통심신·안신익지 | [귀비탕](../formulas/guipi-classic.md), [천왕보심단](../formulas/tianwang-buxin-dan.md) |
-| 산조인 | 양심안신·허번불면 | [산조인탕](../formulas/suanzaoren-tang.md), [귀비탕](../formulas/guipi-classic.md) |
+| 원지 | 교통심신·안신익지 | [귀비탕](../formulas/guibi-tang.md), [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+| 산조인 | 양심안신·허번불면 | [산조인탕](../formulas/suanzaoren-tang.md), [귀비탕](../formulas/guibi-tang.md) |
 | 백자인 | 양심안신 + 윤장 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
-| 용안육 | 보익심비·양혈안신 | [귀비탕](../formulas/guipi-classic.md) |
+| 용안육 | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
 
 ## 건강 · 부자 · 육계
 
@@ -76,7 +76,7 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 | 본초 | 핵심 | 처방에서 보기 |
 |---|---|---|
-| 복령 | 이수 + 건비 + 안신 | [오령산](../formulas/wuling-san.md), [귀비탕](../formulas/guipi-classic.md) |
+| 복령 | 이수 + 건비 + 안신 | [오령산](../formulas/wuling-san.md), [귀비탕](../formulas/guibi-tang.md) |
 | 의이인 | 이수 + 건비 + 제비 | 습·비증 처방군 |
 | 택사 | 이수삼습·설열 | [오령산](../formulas/wuling-san.md), [저령탕](../formulas/zhuling-tang.md) |
 | 차전자 | 이뇨통림·삼습 | [팔정산](../formulas/bazheng-san.md) |
@@ -94,4 +94,3 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 → [본초 찾기](herbs.md)  
 → [방제 찾기](formulas.md)
-
