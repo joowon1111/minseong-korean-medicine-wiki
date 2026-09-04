@@ -25,8 +25,9 @@ last_reviewed: 2026-09-04
 - 한약 치료 10개 시험·2,501명 메타분석, PMID `34385918`
 - 통사요방 11 RCT·985명 메타분석, PMID `36091782`
 - 사신환 메타분석과 순차시험분석, PMID `40529486`
+- 삼령백출산을 포함한 성인 만성설사 14 RCT·1,158명 메타분석, PMID `35635135`; 만성 기능성 설사·IBS-D·궤양성대장염 등 대상군과 단독·병용치료를 나누어 읽습니다.
 
-→ [과민성장증후군 처방 지도](ibs-herbal-formula-map.md) · [과민성장증후군](../../conditions/ibs.md)
+→ [과민성장증후군 처방 지도](ibs-herbal-formula-map.md) · [과민성장증후군](../../conditions/ibs.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md)
 
 ## 기능성변비
 
