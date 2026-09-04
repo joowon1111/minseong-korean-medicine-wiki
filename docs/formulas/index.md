@@ -33,6 +33,7 @@ last_reviewed: '2026-09-04'
 
 ### 여성·임신준비·산후
 - [조경종옥탕](tiaojing-zhongyu-tang.md) · [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [계지복령환](guizhi-fuling-wan.md)
+- [소복축어탕](shaofu-zhuyu-tang.md) · [청경사물탕](qingjing-siwu-tang.md) · [완대탕](wandai-tang.md) · [교애탕](jiaoai-tang.md)
 - [달생산](dalsaeng-san.md) · [불수산](bulsu-san.md) · [단녹용탕](dan-nokyong-tang.md) · [생화탕](saenghwa-tang.md)
 - [임신 준비·난임·임신·산후 통합 허브](../womens-health/fertility-pregnancy-postpartum.md)
 
