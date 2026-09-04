@@ -27,12 +27,16 @@ last_reviewed: '2026-08-19'
 ### 보익·기력·회복
 - [사군자탕](sijunzi-tang.md) · [육군자탕](liujunzi-tang.md) · [사물탕](siwu-tang.md) · [팔물탕](bazhen-tang.md)
 - [십전대보탕](shi-quan-da-bu-tang.md) · [보중익기탕](buzhong-yiqi-tang.md) · [귀비탕](guibi-tang.md) · [생맥산](shengmai-san.md)
-- [인삼양영탕](renshen-yangrong-tang.md) · [익기보혈탕](ikgi-bohyeol-tang.md) · [당귀보혈탕](danggui-buxue-tang.md)
+- [인삼양영탕](renshen-yangrong-tang.md) · [익기보혈탕](ikgi-bohyeol-tang.md) · [당귀보혈탕](danggui-buxue-tang.md) · [인삼황기탕](renshen-huangqi-tang.md)
+- [대보원전](dabo-wonjeon.md) · [좌귀환](zuogui-wan.md) · [우귀환](yougui-wan.md)
 - [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md)
 
 ### 감기·호흡기·표증
 - [계지탕](guizhi-tang.md) · [마황탕](mahuang-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md) · [갈근탕](gegen-tang.md)
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md)
+
+### 건중·허로
+- [소건중탕](xiaojianzhong-tang.md) · [황기건중탕](huangqi-jianzhong-tang.md)
 
 ### 소화·담음·수습
 - [이진탕](erchen-tang.md) · [궁하탕](gungha-tang.md) · [온담탕](wendan-tang.md) · [육군자탕](liujunzi-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [오령산](wuling-san.md)
