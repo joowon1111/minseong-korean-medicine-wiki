@@ -31,6 +31,11 @@ last_reviewed: '2026-08-19'
 - [대보원전](dabo-wonjeon.md) · [좌귀환](zuogui-wan.md) · [우귀환](yougui-wan.md)
 - [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md)
 
+### 여성·임신준비·산후
+- [조경종옥탕](tiaojing-zhongyu-tang.md) · [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [계지복령환](guizhi-fuling-wan.md)
+- [달생산](dalsaeng-san.md) · [불수산](bulsu-san.md) · [단녹용탕](dan-nokyong-tang.md) · [생화탕](saenghwa-tang.md)
+- [임신 준비·난임·임신·산후 통합 허브](../womens-health/fertility-pregnancy-postpartum.md)
+
 ### 감기·호흡기·표증
 - [계지탕](guizhi-tang.md) · [마황탕](mahuang-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md) · [갈근탕](gegen-tang.md)
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md)
@@ -99,7 +104,7 @@ last_reviewed: '2026-08-19'
 - **소화·담음**: 평위산 · 이진탕 · 반하사심탕 · 향사육군자탕 · 삼령백출산 · 보화환 · 온담탕
 - **수면·심계**: 귀비탕 · 산조인탕 · 천왕보심단 · 시호가용골모려탕
 - **통증·풍습·어혈**: 독활기생탕 · 오적산 · 소경활혈탕 · 당귀수산 · 작약감초탕
-- **여성**: 온경탕 · 당귀작약산 · 계지복령환 · 가미소요산
+- **여성·임신준비·산후**: 조경종옥탕 · 온경탕 · 당귀작약산 · 계지복령환 · 생화탕 · 달생산
 - **호흡기**: 소청룡탕 · 맥문동탕 · 삼소음
 - **신허**: 육미지황환 · 팔미지황환
 - **대표 보익**: 공진단 · 경옥고
