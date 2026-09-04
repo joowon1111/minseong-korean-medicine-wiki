@@ -13,7 +13,7 @@ description: 본초 찾기 — 민성 한의학 아카이브의 관련 전문 �
 
 | 본초군 | 핵심 | 대표 처방 연결 |
 |---|---|---|
-| 인삼·황기·백출 | 보기·건비 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guipi-classic.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| 인삼·황기·백출 | 보기·건비 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | 당귀·숙지황·백작약·천궁 | 양혈·활혈 | [쌍화탕](../formulas/ssanghwa-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) · [온경탕](../formulas/wenjing-tang.md) |
 | 맥문동·천문동·생지황 | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | 두충·우슬·속단 | 보간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-classic.md) |
@@ -62,7 +62,7 @@ description: 본초 찾기 — 민성 한의학 아카이브의 관련 전문 �
 
 | 본초군 | 핵심 | 대표 처방 연결 |
 |---|---|---|
-| 산조인·복신·원지 | 양심안신 | [귀비탕](../formulas/guipi-classic.md) · [산조인탕](../formulas/suanzaoren-tang.md) |
+| 산조인·복신·원지 | 양심안신 | [귀비탕](../formulas/guibi-tang.md) · [산조인탕](../formulas/suanzaoren-tang.md) |
 | 산조인·백자인·원지·생지황 | 자음양혈·안신 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 
 ## 소간·해울
