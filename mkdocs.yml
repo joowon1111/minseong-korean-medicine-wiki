@@ -122,6 +122,7 @@ nav:
   - 일반 방제 임상 지도:
     - herbal-integrated/general-formulary.md
     - 비위·소화:
+      - 삼령백출산: formulas/shenling-baizhu-san.md
       - 평위산: formulas/pingwei-san.md
       - 향사육군자탕: formulas/xiangsha-liujunzi-tang.md
       - 향사양위탕: formulas/xiangsha-yangwei-tang.md
@@ -181,6 +182,8 @@ nav:
       - 쌍화탕: formulas/ssanghwa-tang.md
       - 보중익기탕: formulas/buzhong-yiqi-tang.md
     - 부인·조경:
+      - 당귀작약산: formulas/danggui-shaoyao-san.md
+      - 계지복령환: formulas/guizhi-fuling-wan.md
       - 온경탕: formulas/wenjing-tang.md
       - 조경종옥탕: formulas/tiaojing-zhongyu-tang.md
     - 청열·화독:
