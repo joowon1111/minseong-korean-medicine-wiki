@@ -17,6 +17,14 @@ last_reviewed: 2026-08-22
 | 팔물탕 | 기혈양허 |
 | 십전대보탕 | 기혈양허 + 온보 |
 | 귀비탕 | 심비양허·기혈부족·안신 |
+| [인삼양영탕](../formulas/renshen-yangrong-tang.md) | 기혈양허 + 심신·영혈 소모 |
+| [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) | 기혈부족 + 비위·담습·기체 |
+| [대보원전](../formulas/dabo-wonjeon.md) | 큰 허손 + 간신·정혈부족 |
+| [인삼황기탕](../formulas/renshen-huangqi-tang.md) | 비위기허 + 자한·회복저하 |
+| [소건중탕](../formulas/xiaojianzhong-tang.md) | 중초허한 + 허로성 복통 |
+| [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | 건중 + 기허·표허 |
+| [좌귀환](../formulas/zuogui-wan.md) | 신음·정혈부족 |
+| [우귀환](../formulas/yougui-wan.md) | 신양허 + 정혈부족 |
 
 ## 보익 본초
 인삼 · 황기 · 백출 · 당귀 · 숙지황 · 녹용 · 산수유 등을 현재 허증에 따라 조합합니다.

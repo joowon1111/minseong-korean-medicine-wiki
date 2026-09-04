@@ -19,6 +19,12 @@ last_reviewed: 2026-08-19
 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 팔물탕 + 황기·육계 | 기혈쌍보·온보 | 기혈양허·허약·회복 |
 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) | 인삼·황기·백출 + 당귀·작약·숙지황 + 원지·오미자 | 익기양혈·양심안신 | 허손·식욕저하·심계·수면저하 |
 | [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) | 보기·양혈 + 건비·화담·이기약 | 익기보혈·건비이기 | 피로·무력·두중·현훈·소화저하 |
+| [대보원전](../formulas/dabo-wonjeon.md) | 인삼·숙지황·당귀·산수유·구기자·두충 | 기혈·정수 보익 | 큰 허손·어지럼·요슬무력 |
+| [인삼황기탕](../formulas/renshen-huangqi-tang.md) | 사군자탕 + 황기·당귀 | 보기건비·양혈 | 기허·식욕저하·자한 |
+| [소건중탕](../formulas/xiaojianzhong-tang.md) | 계지탕 배작약 + 교이 | 온중보허·완급 | 허로성 복통·복부 긴장 |
+| [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | 소건중탕 + 황기 | 건중익기·고표 | 허로성 복통 + 자한·회복저하 |
+| [좌귀환](../formulas/zuogui-wan.md) | 숙지황·산약·산수유·구기자·교질약 | 자신익정 | 신음·정혈부족 |
+| [우귀환](../formulas/yougui-wan.md) | 숙지황·녹각교·두충 + 부자·육계 | 온보신양·익정 | 신양허 + 정혈부족 |
 | [생맥산](../formulas/shengmai-san.md) | 인삼·맥문동·오미자 | 익기양음·생진 | 기음양허·소모·구갈 |
 
 ## 공진단
