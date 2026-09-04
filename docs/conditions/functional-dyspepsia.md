@@ -3,7 +3,7 @@ title: 기능성소화불량
 description: 기능성소화불량을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 소화기, 환자검색]
 status: 검토완료
-last_reviewed: 2026-09-01
+last_reviewed: 2026-09-04
 ---
 # 기능성소화불량
 
@@ -72,7 +72,7 @@ last_reviewed: 2026-09-01
     "name": "기능성소화불량"
   },
   "keywords": "기능성소화불량, 식후 더부룩함, 조기포만, 육군자탕, 반하사심탕, 족삼리 ST36, 내관 PC6",
-  "dateModified": "2026-09-01"
+  "dateModified": "2026-09-04"
 }
 </script>
 <!-- MS132_STRUCTURED_DATA_END -->
@@ -88,3 +88,5 @@ last_reviewed: 2026-09-01
 - **Efficacy and safety of Zhishixiaopi decoction in functional dyspepsia: A meta-analysis of randomized controlled trials.** — 기능성소화불량에서 지실소비 계열 탕제를 평가한 무작위시험 메타분석입니다. PMID `38809916` · DOI `10.1371/journal.pone.0301686`
 
 - **Safety and effectiveness of traditional herbal medicine Siho-sogan-san in functional dyspepsia: A systematic review and meta-analysis.** — 기능성소화불량에서 시호소간산의 유효성과 안전성을 평가한 체계적 문헌고찰·메타분석입니다. PMID `37127143` · DOI `10.1016/j.jep.2023.116518`
+
+- **Effect of Chaihu-Shugan-San on functional dyspepsia and gut microbiota: A randomized, double-blind, placebo-controlled trial.** — Rome IV 기능성소화불량 환자 94명을 4주간 비교한 시험에서 소화불량 증상점수·위배출률·삶의 질을 평가했습니다. 한 기관의 단기 연구이며 정정 공지가 연결된 논문입니다. [시호소간산 상세](../formulas/chaihu-shugan-san.md)에서 처방 구조와 함께 볼 수 있습니다. PMID `38151181` · DOI `10.1016/j.jep.2023.117659`
