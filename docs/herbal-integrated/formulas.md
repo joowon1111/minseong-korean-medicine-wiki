@@ -113,6 +113,10 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [당귀작약산](../formulas/danggui-shaoyao-san.md) — 혈허 + 수습의 월경·하복부 증상
 - [계지복령환](../formulas/guizhi-fuling-wan.md) — 하초 어혈 + 고정성 통증·혈괴
 - [온경탕](../formulas/wenjing-tang.md) — 충임허한 + 어혈
+- [소복축어탕](../formulas/shaofu-zhuyu-tang.md) — 한응어혈 + 월경통·하복부 고정통
+- [청경사물탕](../formulas/qingjing-siwu-tang.md) — 혈허유열 + 월경선기·출혈량 증가
+- [완대탕](../formulas/wandai-tang.md) — 비허·간울·습 + 만성 백대하
+- [교애탕](../formulas/jiaoai-tang.md) — 충임허손 + 혈허·허한성 출혈
 - [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 월경부조·하초 한·기혈실조를 살피는 임신준비 대표처방
 - [달생산](../formulas/dalsaeng-san.md) — 임신 말기·출산 준비의 고전 처방
 - [불수산](../formulas/bulsu-san.md) — 당귀·천궁 중심의 산과·산후 처방
