@@ -3,7 +3,7 @@ title: 심혈관·대사 한약 현대 임상근거
 description: 고혈압·당뇨병과 주요 합병증의 한약 연구를 임상 결과와 처방별 근거로 연결합니다.
 tags: [한약, 고혈압, 당뇨병, 대사, 심혈관, 임상근거]
 status: 검토완료
-last_reviewed: 2026-09-01
+last_reviewed: 2026-09-04
 ---
 # 심혈관·대사 한약 현대 임상근거
 
@@ -11,19 +11,23 @@ last_reviewed: 2026-09-01
 
 ## 고혈압·혈관 기능
 
+- 황련해독탕 이중맹검 위약대조시험은 고혈압 환자 265명을 8주간 평가해 동반 증상 총점과 상열감·안면홍조의 변화를 확인했습니다. 혈압 감소는 위약과 차이가 없었으므로 혈압강하보다 **열성 동반 증상**을 목표로 구분합니다. [PMID 16360926](https://pubmed.ncbi.nlm.nih.gov/16360926/)
 - 한약과 통상치료 병용 29 RCT·2,623명, PMID `36096347`
 - 천마구등음 15 RCT·1,508명, PMID `33787150`
 - 천마구등탕과 nifedipine 병용 14개 연구·1,537명, PMID `32089726`
 - 혈부축어탕 37개 연구·3,391명, PMID `40489881`
 - 중성약과 칼슘통로차단제 병용 네트워크 메타분석, PMID `38560355`
 
-→ [고혈압 한약 지도](hypertension-herbal-map.md) · [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md)
+→ [황련해독탕](../../formulas/huanglian-jiedu-tang.md) · [고혈압 한약 지도](hypertension-herbal-map.md) · [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md)
 
 ## 제2형 당뇨병
 
 - 대사질환 거습법 한약 122 RCT·11,252명에서 공복혈당·식후혈당·혈압·BMI 등을 평가했습니다. PMID `41552833`
-- 황련해독탕 체계적 문헌고찰·메타분석, PMID `38286111`
+- 황련해독탕 40개 연구·3,934명 체계적 문헌고찰·메타분석, [PMID 38286111](https://pubmed.ncbi.nlm.nih.gov/38286111/)
+- 고전처방과 메트포르민 병용 40개 RCT·3,088명 네트워크 메타분석에서 황련해독탕을 포함한 처방별 혈당·HbA1c 결과를 비교했습니다. [PMID 41756240](https://pubmed.ncbi.nlm.nih.gov/41756240/)
 - 중성약과 통상치료 병용 네트워크 메타분석, PMID `37223050`
+
+→ [황련해독탕—제2형 당뇨병 근거카드](huanglian-jiedu-tang-diabetes.md) · [대사증후군](../../conditions/metabolic-syndrome.md)
 
 ## 당뇨병 합병증
 
