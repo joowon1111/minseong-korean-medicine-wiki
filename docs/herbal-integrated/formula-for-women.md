@@ -31,7 +31,11 @@ last_reviewed: 2026-09-04
 - [가미소요산](../formulas/jiawei-xiaoyao-san.md) — 간울혈허와 울열, 주기성 열감·긴장
 - [소요산](../formulas/xiaoyao-san.md) — 간울·혈허·비허와 피로·소화·주기성 증상의 변동
 - [귀비탕](../formulas/guibi-tang.md) — 심비양허, 피로·심계·수면저하
-- [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 혈허·기체와 조경의 맥락
+- [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 혈허·기체·하초 한의 임신준비 조경
+- [육린주](../formulas/yulin-zhu.md) — 기혈양허·신허·충임부족형 임신준비
+- [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) — 간울기체가 중심인 임신준비
+- [수태환](../formulas/shoutai-wan.md) — 보신안태·고충임
+- [태산반석산](../formulas/taishan-panshi-san.md) — 기혈양허·비위허약형 산전 안태
 - [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허와 산후·질병 후 회복저하
 
 ## 처방을 고르는 관점
@@ -51,4 +55,4 @@ last_reviewed: 2026-09-04
 
 ## 검색 동의어
 
-생리통 한약 처방 · 생리불순 한약 처방 · 생리통 혈괴 · 임신준비 처방 · 산후보약 처방 · 당귀작약산 · 계지복령환 · 온경탕 · 귀비탕 · 십전대보탕 · 가미소요산 · 조경종옥탕 · 소복축어탕 · 청경사물탕 · 완대탕 · 교애탕
+생리통 한약 처방 · 생리불순 한약 처방 · 생리통 혈괴 · 임신준비 처방 · 산후보약 처방 · 당귀작약산 · 계지복령환 · 온경탕 · 귀비탕 · 십전대보탕 · 가미소요산 · 조경종옥탕 · 육린주 · 개울종옥탕 · 수태환 · 태산반석산 · 소복축어탕 · 청경사물탕 · 완대탕 · 교애탕
