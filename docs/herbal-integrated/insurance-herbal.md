@@ -32,17 +32,17 @@ last_reviewed: 2026-08-20
 ## 감기·상기도
 
 ### 풍한·몸살
-- **갈근탕** — 항배강·근육통이 두드러지는 외감
-- **구미강활탕** — 풍한습과 전신통
-- **소청룡탕** — 수음·맑은 콧물·기침
+- [**갈근탕**](../formulas/gegen-tang.md) — 항배강·근육통이 두드러지는 외감
+- [**구미강활탕**](../formulas/jiuwei-qianghuo-tang.md) — 풍한습과 전신통
+- [**소청룡탕**](../formulas/xiaoqinglong-tang.md) — 수음·맑은 콧물·기침
 
 ### 허약체질의 외감
-- **삼소음**
+- [**삼소음**](../formulas/renshen-suyin.md)
 - **인삼패독산**
 
 ### 풍열·이비인후
-- **연교패독산**
-- **형개연교탕**
+- [**연교패독산**](../formulas/lianqiao-baidu-san.md)
+- [**형개연교탕**](../formulas/jingjie-lianqiao-tang.md)
 
 ### 소양병 양상
 - **소시호탕**
@@ -52,25 +52,25 @@ last_reviewed: 2026-08-20
 
 ## 기침·가래
 
-**삼소음 · 소청룡탕 · 이진탕 · 시경반하탕 · 행소탕 · 생맥산 · 자음강화탕** 등을 기침 성상·가래·한열·체력에 따라 비교합니다.
+[삼소음](../formulas/renshen-suyin.md) · [소청룡탕](../formulas/xiaoqinglong-tang.md) · [이진탕](../formulas/erchen-tang.md) · 시경반하탕 · 행소탕 · 생맥산 · 자음강화탕 등을 기침 성상·가래·한열·체력에 따라 비교합니다.
 
 → [기침](../conditions/cough.md)
 
 ## 비염
 
-**소청룡탕 · 형개연교탕 · 연교패독산 · 이진탕** 등을 콧물 성상, 코막힘, 인후 증상, 담습 여부에 따라 비교합니다.
+[소청룡탕](../formulas/xiaoqinglong-tang.md) · [형개연교탕](../formulas/jingjie-lianqiao-tang.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) · [이진탕](../formulas/erchen-tang.md) 등을 콧물 성상, 코막힘, 인후 증상, 담습 여부에 따라 비교합니다.
 
 → [비염](../conditions/rhinitis.md)
 
 ## 소화불량
 
-**평위산 · 향사평위산 · 삼출건비탕 · 이중탕 · 반하사심탕 · 반하후박탕 · 이진탕** 등을 습체·비허·허한·한열착잡·담기울결에 따라 구분합니다.
+[평위산](../formulas/pingwei-san.md) · 향사평위산 · 삼출건비탕 · 이중탕 · [반하사심탕](../formulas/banxia-xiexin-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) · [이진탕](../formulas/erchen-tang.md) 등을 습체·비허·허한·한열착잡·담기울결에 따라 구분합니다.
 
 → [소화불량](../conditions/dyspepsia.md)
 
 ## 통증·근골격
 
-**오적산 · 구미강활탕 · 갈근탕 · 청상견통탕** 등을 한습·외감·경항통·두면통과 연계해 봅니다.
+[오적산](../formulas/wujisan.md) · [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) · [갈근탕](../formulas/gegen-tang.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) 등을 한습·외감·경항통·두면통과 연계해 봅니다.
 
 → [요통](../conditions/low-back-pain.md) · [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md)
 
