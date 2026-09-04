@@ -53,6 +53,7 @@ last_reviewed: 2026-09-04
 | [육군자탕](liujunzi-tang.md) | 비기허 | 피로·식욕저하·무른변 등 허증이 선명 |
 | [향사육군자탕](xiangsha-liujunzi-tang.md) | 비허+기체 | 식후팽만·트림·기체와 식욕부진이 더 큼 |
 | [온담탕](wendan-tang.md) | 담위불화+심담불녕 | 흉민·심계·다몽·불면·경계가 동반 |
+| [궁하탕](gungha-tang.md) | 흉협부 담음+기체 | 옆구리의 묵직함·당김·통증이 담음 단서와 동반 |
 | [반하백출천마탕](banxia-baizhu-tianma-tang.md) | 비허담습+풍담 | 현훈·두중·두통의 비중이 큼 |
 | [소청룡탕](xiaoqinglong-tang.md) | 외한+수음 | 맑은 콧물·재채기·묽은 가래와 오한이 중심 |
 
