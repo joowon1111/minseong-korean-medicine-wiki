@@ -3,7 +3,7 @@ title: 갱년기·상열감 한약 처방 찾기
 description: 갱년기·상열감 한약 처방 찾기을 환자 검색어에서 병증·대표 처방·본초 자료까지 연결합니다.
 tags: [한약, 방제, 처방, 환자검색, 맞춤한약]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-04
 ---
 # 갱년기·상열감 한약 처방 찾기
 
@@ -18,11 +18,12 @@ last_reviewed: 2026-08-21
 
 ## 관련 처방·병증
 
-- 가미소요산
-- 자음강화탕
-- 귀비탕
-- 천왕보심단
-- 온경탕
+- [가미소요산](../formulas/jiawei-xiaoyao-san.md) — 간울혈허·울열과 상열감·긴장
+- [소요산](../formulas/xiaoyao-san.md) — 간울·혈허·비허와 피로·소화·주기성 증상
+- [자음강화탕](../formulas/ziyin-jianghuo-tang.md) — 음허화왕과 야간 열감·도한
+- [귀비탕](../formulas/guibi-tang.md) — 심비양허와 피로·심계·수면저하
+- [천왕보심단](../formulas/tianwang-buxin-dan.md) — 심신음혈부족과 구건·심계·불면
+- [온경탕](../formulas/wenjing-tang.md) — 충임허한·어혈과 냉감·월경 변화
 
 ## 처방을 고르는 관점
 

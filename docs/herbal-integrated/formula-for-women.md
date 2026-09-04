@@ -20,10 +20,12 @@ last_reviewed: 2026-09-04
 
 ## 관련 처방·병증
 
+- [사물탕](../formulas/siwu-tang.md) — 혈허와 혈행의 불균형을 보는 대표 보혈 기본방
 - [당귀작약산](../formulas/danggui-shaoyao-san.md) — 혈허와 수습, 어지럼·피로·부종을 동반한 월경·하복부 불편
 - [계지복령환](../formulas/guizhi-fuling-wan.md) — 고정성 통증·압통·혈괴가 뚜렷한 어혈 양상
 - [온경탕](../formulas/wenjing-tang.md) — 충임허한과 어혈, 냉감·주기 이상
 - [가미소요산](../formulas/jiawei-xiaoyao-san.md) — 간울혈허와 울열, 주기성 열감·긴장
+- [소요산](../formulas/xiaoyao-san.md) — 간울·혈허·비허와 피로·소화·주기성 증상의 변동
 - [귀비탕](../formulas/guibi-tang.md) — 심비양허, 피로·심계·수면저하
 - [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 혈허·기체와 조경의 맥락
 - [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허와 산후·질병 후 회복저하
