@@ -3,7 +3,7 @@ title: 건강보험 한약제제
 description: 건강보험 한약제제와 보험한약을 감기·기침·비염·소화·통증·두통·피로 등 증상별로 찾는 임상 라이브러리입니다.
 tags: [건강보험, 보험한약, 보험 한약, 건강보험 한약제제, 급여한약, 56처방, 한약제제]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-04
 ---
 
 # 건강보험 한약제제
@@ -45,7 +45,7 @@ last_reviewed: 2026-08-20
 - [**형개연교탕**](../formulas/jingjie-lianqiao-tang.md)
 
 ### 소양병 양상
-- **소시호탕**
+- [**소시호탕**](../formulas/xiaochaihu-tang.md)
 - **시호계지탕**
 
 → [감기·급성 상기도감염](../conditions/common-cold.md)
@@ -64,7 +64,7 @@ last_reviewed: 2026-08-20
 
 ## 소화불량
 
-[평위산](../formulas/pingwei-san.md) · 향사평위산 · 삼출건비탕 · 이중탕 · [반하사심탕](../formulas/banxia-xiexin-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) · [이진탕](../formulas/erchen-tang.md) 등을 습체·비허·허한·한열착잡·담기울결에 따라 구분합니다.
+[평위산](../formulas/pingwei-san.md) · 향사평위산 · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) · 삼출건비탕 · 이중탕 · [반하사심탕](../formulas/banxia-xiexin-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) · [이진탕](../formulas/erchen-tang.md) 등을 습체·비허·허한·기체·한열착잡·담기울결에 따라 구분합니다.
 
 → [소화불량](../conditions/dyspepsia.md)
 
