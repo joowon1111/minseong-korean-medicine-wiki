@@ -11,6 +11,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 
 ## 비위·소화
 
+- [삼령백출산](../formulas/shenling-baizhu-san.md) — 비위기허 + 수습 + 만성 묽은변
 - [평위산](../formulas/pingwei-san.md) — 습체·창만
 - [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) — 비기허 + 담습 + 기체
 - [향사양위탕](../formulas/xiangsha-yangwei-tang.md) — 비위허한 + 습체
@@ -96,6 +97,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 
 ## 부인·조경
 
+- [당귀작약산](../formulas/danggui-shaoyao-san.md) — 혈허 + 수습의 월경·하복부 증상
+- [계지복령환](../formulas/guizhi-fuling-wan.md) — 하초 어혈 + 고정성 통증·혈괴
 - [온경탕](../formulas/wenjing-tang.md) — 충임허한 + 어혈
 - [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 혈허 + 기체·조경
 

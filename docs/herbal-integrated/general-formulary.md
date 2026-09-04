@@ -15,6 +15,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 
 | 핵심 갈림점 | 처방 |
 |---|---|
+| 비위기허 + 수습 + 만성 묽은변 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 | 습체·창만 | [평위산](../formulas/pingwei-san.md) |
 | 비기허 + 담습 + 기체 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
 | 비위허한 + 습체·기체 | [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
@@ -138,8 +139,12 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 
 | 핵심 갈림점 | 처방 |
 |---|---|
+| 혈허 + 수습 | [당귀작약산](../formulas/danggui-shaoyao-san.md) |
+| 하초 어혈 + 고정성 통증·혈괴 | [계지복령환](../formulas/guizhi-fuling-wan.md) |
 | 충임허한 + 어혈 | [온경탕](../formulas/wenjing-tang.md) |
 | 혈허 + 기체·조경 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
+
+**빠른 감별:** `당귀작약산 ↔ 계지복령환 ↔ 온경탕`은 각각 **혈허·수습 / 어혈 / 허한·어혈** 가운데 무엇이 중심인지가 갈림점입니다.
 
 ## 청열·화독
 
