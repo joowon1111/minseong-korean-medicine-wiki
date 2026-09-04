@@ -3,7 +3,7 @@ title: 소화기 한약 현대 임상근거
 description: 기능성소화불량·과민성장증후군·기능성변비의 한약 처방 근거와 대표 PMID를 한곳에 연결합니다.
 tags: [한약, 소화기, 기능성소화불량, 과민성장증후군, 변비, 임상근거]
 status: 검토완료
-last_reviewed: 2026-09-01
+last_reviewed: 2026-09-04
 ---
 # 소화기 한약 현대 임상근거
 
@@ -13,11 +13,12 @@ last_reviewed: 2026-09-01
 
 - 육군자탕: 52 RCT·5,475명 메타분석, PMID `32767596`
 - 반하사심탕: 57 RCT·5,525명 메타분석, PMID `37274096`
+- 시호소간산: 12개 연구·867명 메타분석, PMID `37127143`; 94명·4주 이중맹검 위약대조시험, PMID `38151181`
 - 26종 처방을 비교한 28 RCT 네트워크 메타분석, PMID `34930390`
 - 소화증상과 정서 증상을 함께 평가한 11개 연구·951명 메타분석, PMID `35911981`
 - 2026년 육군자탕·평위산 다기관 무작위시험 140명·6주, PMID `42637062`, DOI `10.1016/j.jep.2026.122335`
 
-→ [기능성소화불량 질환 근거](../conditions/functional-dyspepsia.md) · [처방별 상세 지도](functional-dyspepsia-herbal-map.md) · [육군자탕 임상근거](../../research/formulas/rikkunshito.md)
+→ [기능성소화불량 질환 근거](../conditions/functional-dyspepsia.md) · [처방별 상세 지도](functional-dyspepsia-herbal-map.md) · [육군자탕 임상근거](../../research/formulas/rikkunshito.md) · [시호소간산](../../formulas/chaihu-shugan-san.md)
 
 ## 과민성장증후군
 

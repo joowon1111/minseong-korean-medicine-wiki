@@ -15,7 +15,7 @@ last_reviewed: '2026-09-04'
 
 | 분야 | 환자가 자주 찾는 표현 | 대표 처방·근거 |
 |---|---|---|
-| 소화기 | 더부룩함·조기포만·명치 답답함·식욕저하·급성 구토·설사 | [반하사심탕](../../formulas/banxia-xiexin-tang.md) · [육군자탕](../../research/formulas/rikkunshito.md) · [향사육군자탕](../../formulas/xiangsha-liujunzi-tang.md) · [이진탕](../../formulas/erchen-tang.md) · [곽향정기산](../../formulas/huoxiang-zhengqi-san.md) · [보중익기탕](../../formulas/buzhong-yiqi-tang.md) |
+| 소화기·인후이물감 | 더부룩함·조기포만·명치 답답함·트림·목 이물감·식욕저하·구토·설사 | [반하사심탕](../../formulas/banxia-xiexin-tang.md) · [육군자탕](../../research/formulas/rikkunshito.md) · [향사육군자탕](../../formulas/xiangsha-liujunzi-tang.md) · [시호소간산](../../formulas/chaihu-shugan-san.md) · [반하후박탕](../../formulas/banxia-houpo-tang.md) · [곽향정기산](../../formulas/huoxiang-zhengqi-san.md) |
 | 수면·정서 | 잠들기 어려움·자주 깸·두근거림·걱정·피로 | [산조인탕](suanzaoren-tang.md) · [귀비탕](../../formulas/guibi-tang.md) · [온담탕](../../formulas/wendan-tang.md) · [천왕보심단](cheonwangbosimdan.md) |
 | 통증·근골격 | 허리·무릎·관절통증·두통·외상 후 통증·회복저하 | [독활기생탕](../../research/formulas/duhuo-jisheng-tang.md) · [오적산](../../formulas/wujisan.md) · [당귀수산](../../formulas/danggui-susan.md) · [회수산](../../formulas/huishou-san.md) · [구미강활탕](../../formulas/jiuwei-qianghuo-tang.md) · [청상견통탕](../../formulas/qingshang-juantong-tang.md) · [작약감초탕](shakuyaku-kanzo-tang-update.md) |
 | 호흡·비염 | 콧물·코막힘·재채기·기침·인후통·감기 후 회복 | [소청룡탕](../../formulas/xiaoqinglong-tang.md) · [갈근탕](../../formulas/gegen-tang.md) · [삼소음](../../formulas/renshen-suyin.md) · [구미강활탕](../../formulas/jiuwei-qianghuo-tang.md) · [연교패독산](../../formulas/lianqiao-baidu-san.md) · [형개연교탕](../../formulas/jingjie-lianqiao-tang.md) · [옥병풍산](yupingfeng-san.md) · [맥문동탕](maidong-tang.md) |
@@ -45,9 +45,9 @@ last_reviewed: '2026-09-04'
 
 ## 최근·대표 주요 처방 연구
 
-아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 33개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
+아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 35개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
 
-### 소화기 처방 7개
+### 소화기·인후이물감 처방 9개
 
 | 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
 |---|---|---|
@@ -58,6 +58,8 @@ last_reviewed: '2026-09-04'
 | [통사요방](tongxie-yaofang.md) | 설사형 과민성장증후군 11개 RCT·985명 메타분석 — [PMID 36091782](https://pubmed.ncbi.nlm.nih.gov/36091782/) | 복통·변 상태·배변빈도와 삶의 질을 함께 평가 |
 | [마자인환](mazi-ren-wan.md) | 기능성변비 다기관 이중맹검 RCT 291명 — [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) | 완전자발배변·힘주기·잔변감과 8주 치료 후 추적반응을 평가 |
 | [곽향정기산](../../formulas/huoxiang-zhengqi-san.md) | 급성 위장염 병용치료 44개 연구·4,153명 메타분석 — [PMID 31602833](https://pubmed.ncbi.nlm.nih.gov/31602833/) | 환제 병용근거로 읽고 구토·설사·발열과 탈수, 제형 차이를 함께 확인 |
+| [시호소간산](../../formulas/chaihu-shugan-san.md) | 기능성소화불량 12개 연구·867명 메타분석 — [PMID 37127143](https://pubmed.ncbi.nlm.nih.gov/37127143/) · 이중맹검 위약대조 RCT 94명 — [PMID 38151181](https://pubmed.ncbi.nlm.nih.gov/38151181/) | 상복부 팽만·통증·트림과 기체 단서를 보고 원방·가감방 및 제형 차이를 확인 |
+| [반하후박탕](../../formulas/banxia-houpo-tang.md) | 목 이물감 단일맹검 위약대조 병용 RCT, 92명 완료 — [PMID 40241419](https://pubmed.ncbi.nlm.nih.gov/40241419/) | 기존 약물치료에 더한 연구로 목 증상과 후두내시경 역류소견점수를 구분해 평가 |
 
 ### 수면·정서 처방 5개
 
