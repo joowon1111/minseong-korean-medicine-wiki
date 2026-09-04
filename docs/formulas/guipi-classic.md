@@ -7,6 +7,8 @@ description: 귀비탕(歸脾湯) — 한약 처방의 구성·치법·병증·�
 ---
 # 귀비탕 처방 구조·고전 연결
 
+이 문서는 『방약합편』 수록 구성과 고전 연결을 정리한 자료입니다. 변증·현대 임상근거·처방 감별·안전성은 [귀비탕 핵심 문서](guibi-tang.md)에서 통합해 볼 수 있습니다.
+
 ## 한눈에
 **심비를 함께 보하고 기혈을 보충하면서 안신하는 대표 심비양허방**이다.
 
@@ -39,6 +41,7 @@ description: 귀비탕(歸脾湯) — 한약 처방의 구성·치법·병증·�
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
+- [귀비탕 핵심 문서](guibi-tang.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
