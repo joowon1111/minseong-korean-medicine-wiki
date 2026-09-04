@@ -22,6 +22,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 ## 담음·현훈·불면
 
 - [이진탕](../formulas/erchen-tang.md) — 담습 기본방
+- [궁하탕](../formulas/gungha-tang.md) — 흉협부 담음 + 기체·통증
 - [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) — 비허담습 + 현훈
 - [도담탕](../formulas/daotan-tang.md) — 완고한 담습
 - [가미온담탕](../formulas/jiawei-wendan-tang.md) — 담울 + 심번·불면
