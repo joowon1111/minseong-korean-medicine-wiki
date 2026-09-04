@@ -41,7 +41,7 @@ last_reviewed: '2026-09-04'
 | 처방 | 중심 차이 |
 |---|---|
 | **황기계지오물탕** | 기혈·영위허를 바탕으로 한 혈비, 저림·감각저하·냉감 |
-| [당귀사역탕](danggui-sini-tang.md) | 혈허한궐과 사지 말단의 심한 냉감 |
+| 당귀사역탕 | 혈허한궐과 사지 말단의 심한 냉감 |
 | [보양환오탕](buyang-huanwu-tang.md) | 기허혈어와 편측 무력·후유증의 비중이 큼 |
 | [독활기생탕](duhuo-jisheng-classic.md) | 간신기혈허를 바탕으로 한 오래된 관절·요슬 통증 |
 | [당귀보혈탕](danggui-buxue-tang.md) | 출혈·병후의 보기생혈이 중심 |
@@ -63,6 +63,6 @@ last_reviewed: '2026-09-04'
 ## 관련 문서
 
 - [보익·피로·회복 한의학 허브](../pillar/tonic-recovery.md)
-- [저림](../conditions/numbness.md)
-- [신경포착증후군](../neuro-entrapment/index.md)
+- [저림](../conditions/limb-numbness.md)
+- [신경포착증후군](../nerve-entrapment/index.md)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
