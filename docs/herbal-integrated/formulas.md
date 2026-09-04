@@ -17,6 +17,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [향사양위탕](../formulas/xiangsha-yangwei-tang.md) — 비위허한 + 습체
 - [보화환](../formulas/baohe-wan.md) — 식적
 - [반하사심탕](../formulas/banxia-xiexin-tang.md) — 한열착잡·심하비
+- [소건중탕](../formulas/xiaojianzhong-tang.md) — 중초허한 + 허로성 복통·복부 긴장
+- [황기건중탕](../formulas/huangqi-jianzhong-tang.md) — 중초허한 + 기허·자한·회복저하
 - [위령탕](../formulas/weiling-tang.md) — 비위습체 + 수습
 
 ## 담음·현훈·불면
@@ -93,8 +95,12 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 보기생혈
 - [인삼양영탕](../formulas/renshen-yangrong-tang.md) — 기혈양허 + 허손·식욕저하·심신 소모
 - [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) — 기혈부족 + 비위허약·담습·기체
+- [대보원전](../formulas/dabo-wonjeon.md) — 기혈·정수의 큰 허손 + 요슬무력
+- [인삼황기탕](../formulas/renshen-huangqi-tang.md) — 비위기허 + 자한·회복저하
 - [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) — 신음허
 - [팔미지황환](../formulas/bawei-dihuang-wan.md) — 신양허
+- [좌귀환](../formulas/zuogui-wan.md) — 신음·정혈부족
+- [우귀환](../formulas/yougui-wan.md) — 신양허 + 정혈부족
 - [자음강화탕](../formulas/ziyin-jianghuo-tang.md) — 음허화왕
 - [옥병풍산](../formulas/yupingfeng-san.md) — 표허·위외불고
 
