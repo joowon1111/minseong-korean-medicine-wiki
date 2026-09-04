@@ -19,13 +19,13 @@ last_reviewed: 2026-08-21
 
 ## 관련 처방·병증
 
-- 갈근탕
-- 구미강활탕
-- 소청룡탕
-- 삼소음
-- 인삼패독산
-- 연교패독산
-- 형개연교탕
+- [갈근탕](../formulas/gegen-tang.md) — 오한·무한과 뒷목·등의 뻣뻣함
+- [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) — 오한·무한과 전신 몸살·관절통
+- [소청룡탕](../formulas/xiaoqinglong-tang.md) — 맑은 콧물·재채기·묽은 가래
+- [삼소음](../formulas/renshen-suyin.md) — 체력저하와 기침·가래·식욕저하
+- 인삼패독산 — 허약을 바탕으로 한 풍한습 외감
+- [연교패독산](../formulas/lianqiao-baidu-san.md) — 인후통·열감·종통이 함께한 풍열독
+- [형개연교탕](../formulas/jingjie-lianqiao-tang.md) — 반복되는 이비인후·피부의 풍열·울열
 
 ## 처방을 고르는 관점
 
