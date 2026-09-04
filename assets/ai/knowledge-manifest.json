@@ -2,7 +2,7 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "a51ff7fffaf1c1748b0bb785b6d2e2e51fb07c51df06af246615b44a18a2883b",
+  "content_sha256": "bf4ec9fe9d9f3b8d734c268ddca325ee919ce08235e204030c2e05ee0b181b25",
   "entity_count": 2148,
   "entity_types": {
     "acupoint": 417,
@@ -35,17 +35,17 @@
     "schema": "/assets/ai/knowledge-schema.json"
   },
   "language": "ko-KR",
-  "red_flag_section_entities": 282,
-  "relation_count": 12828,
+  "red_flag_section_entities": 284,
+  "relation_count": 12890,
   "relation_types": {
-    "links_to": 7328,
+    "links_to": 7322,
     "links_to_acupoint": 495,
-    "links_to_condition": 2414,
+    "links_to_condition": 2424,
     "links_to_evidence": 167,
-    "links_to_formula": 1673,
-    "links_to_herb": 650,
+    "links_to_formula": 1712,
+    "links_to_herb": 669,
     "links_to_pattern": 101
   },
-  "safety_section_entities": 764,
+  "safety_section_entities": 769,
   "schema_version": "1.0"
 }
