@@ -15,14 +15,14 @@ last_reviewed: '2026-09-04'
 
 | 분야 | 환자가 자주 찾는 표현 | 대표 처방·근거 |
 |---|---|---|
-| 소화기·인후이물감 | 더부룩함·조기포만·명치 답답함·트림·목 이물감·식욕저하·구토·설사 | [반하사심탕](../../formulas/banxia-xiexin-tang.md) · [육군자탕](../../research/formulas/rikkunshito.md) · [향사육군자탕](../../formulas/xiangsha-liujunzi-tang.md) · [시호소간산](../../formulas/chaihu-shugan-san.md) · [반하후박탕](../../formulas/banxia-houpo-tang.md) · [곽향정기산](../../formulas/huoxiang-zhengqi-san.md) |
+| 소화기·인후이물감 | 더부룩함·조기포만·명치 답답함·트림·목 이물감·식욕저하·구토·설사 | [반하사심탕](../../formulas/banxia-xiexin-tang.md) · [육군자탕](../../research/formulas/rikkunshito.md) · [향사육군자탕](../../formulas/xiangsha-liujunzi-tang.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) · [시호소간산](../../formulas/chaihu-shugan-san.md) · [반하후박탕](../../formulas/banxia-houpo-tang.md) · [곽향정기산](../../formulas/huoxiang-zhengqi-san.md) |
 | 수면·정서 | 잠들기 어려움·자주 깸·두근거림·걱정·피로 | [산조인탕](suanzaoren-tang.md) · [귀비탕](../../formulas/guibi-tang.md) · [온담탕](../../formulas/wendan-tang.md) · [천왕보심단](cheonwangbosimdan.md) |
 | 통증·근골격 | 허리·무릎·관절통증·두통·외상 후 통증·회복저하 | [독활기생탕](../../research/formulas/duhuo-jisheng-tang.md) · [오적산](../../formulas/wujisan.md) · [당귀수산](../../formulas/danggui-susan.md) · [회수산](../../formulas/huishou-san.md) · [구미강활탕](../../formulas/jiuwei-qianghuo-tang.md) · [청상견통탕](../../formulas/qingshang-juantong-tang.md) · [작약감초탕](shakuyaku-kanzo-tang-update.md) |
 | 호흡·비염 | 콧물·코막힘·재채기·기침·인후통·감기 후 회복 | [소청룡탕](../../formulas/xiaoqinglong-tang.md) · [갈근탕](../../formulas/gegen-tang.md) · [삼소음](../../formulas/renshen-suyin.md) · [구미강활탕](../../formulas/jiuwei-qianghuo-tang.md) · [연교패독산](../../formulas/lianqiao-baidu-san.md) · [형개연교탕](../../formulas/jingjie-lianqiao-tang.md) · [옥병풍산](yupingfeng-san.md) · [맥문동탕](maidong-tang.md) |
-| 여성건강 | 생리통·월경불순·갱년기·산후 피로 | [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [가미소요산](../../formulas/jiawei-xiaoyao-san.md) · [귀비탕](../../formulas/guibi-tang.md) |
+| 여성건강 | 생리통·월경불순·갱년기·산후 피로 | [온경탕](wenjing-tang.md) · [당귀작약산](../../formulas/danggui-shaoyao-san.md) · [계지복령환](../../formulas/guizhi-fuling-wan.md) · [가미소요산](../../formulas/jiawei-xiaoyao-san.md) · [귀비탕](../../formulas/guibi-tang.md) |
 | 보익·피로·회복 | 만성피로·식욕저하·과로 및 치료 후 쇠약 | [쌍화탕](../../formulas/ssanghwa-tang.md) · [보중익기탕](../../formulas/buzhong-yiqi-tang.md) · [공진단](../../research/formulas/gongjin-dan.md) · [경옥고](../../research/formulas/gyeongok-go.md) · [십전대보탕](../../research/formulas/sipjeondaebo-tang.md) |
 | 심혈관·대사 | 상열·혈압 동반 증상·순환·당뇨병 합병증·심혈관 회복 | [황련해독탕](../../formulas/huanglian-jiedu-tang.md) · [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md) · [생맥산](../../research/formulas/shengmai-san.md) · [육미지황환](liuwei-dihuang-wan.md) |
-| 비뇨·남성건강 | 배뇨불편·전립선·골반통·신허 관련 증상 | [육미지황환](liuwei-dihuang-wan.md) · [전열서통](qianlieshutong-bph.md) · [오자연종환](wuzi-yanzong-wan.md) |
+| 비뇨·남성건강 | 배뇨불편·전립선·골반통·신허 관련 증상 | [팔미지황환](../../formulas/bawei-dihuang-wan.md) · [육미지황환](liuwei-dihuang-wan.md) · [전열서통](qianlieshutong-bph.md) · [오자연종환](wuzi-yanzong-wan.md) |
 | 신경·뇌졸중 | 어지럼·두중·뇌졸중 후 기능·정서·인지·말초신경 증상 | [반하백출천마탕](../../formulas/banxia-baizhu-tianma-tang.md) · [보양환오탕](buyang-huanwu-tang-poststroke.md) · [천마구등음](tianma-gouteng-yin.md) · [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) |
 | 수분대사·부종 | 갈증과 소변불리·붓기·두통·어지럼이 함께 나타남 | [오령산](../../formulas/wuling-san.md) · [저령탕](../../formulas/zhuling-tang.md) · [진무탕](../../formulas/zhenwu-tang.md) |
 
@@ -45,9 +45,9 @@ last_reviewed: '2026-09-04'
 
 ## 최근·대표 주요 처방 연구
 
-아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 35개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
+아래에는 사람을 대상으로 한 무작위시험 또는 여러 임상시험을 종합한 체계적 문헌고찰·메타분석이 확인되는 **주요 처방 37개**를 진료 분야별로 정리했습니다. 연구 규모만으로 처방의 우열을 정하지 않고 **단독치료인지 병용치료인지, 어떤 환자군과 결과지표를 평가했는지**를 함께 읽습니다.
 
-### 소화기·인후이물감 처방 9개
+### 소화기·인후이물감 처방 10개
 
 | 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
 |---|---|---|
@@ -60,6 +60,7 @@ last_reviewed: '2026-09-04'
 | [곽향정기산](../../formulas/huoxiang-zhengqi-san.md) | 급성 위장염 병용치료 44개 연구·4,153명 메타분석 — [PMID 31602833](https://pubmed.ncbi.nlm.nih.gov/31602833/) | 환제 병용근거로 읽고 구토·설사·발열과 탈수, 제형 차이를 함께 확인 |
 | [시호소간산](../../formulas/chaihu-shugan-san.md) | 기능성소화불량 12개 연구·867명 메타분석 — [PMID 37127143](https://pubmed.ncbi.nlm.nih.gov/37127143/) · 이중맹검 위약대조 RCT 94명 — [PMID 38151181](https://pubmed.ncbi.nlm.nih.gov/38151181/) | 상복부 팽만·통증·트림과 기체 단서를 보고 원방·가감방 및 제형 차이를 확인 |
 | [반하후박탕](../../formulas/banxia-houpo-tang.md) | 목 이물감 단일맹검 위약대조 병용 RCT, 92명 완료 — [PMID 40241419](https://pubmed.ncbi.nlm.nih.gov/40241419/) | 기존 약물치료에 더한 연구로 목 증상과 후두내시경 역류소견점수를 구분해 평가 |
+| [삼령백출산](../../formulas/shenling-baizhu-san.md) | 만성설사 14개 RCT·1,158명 메타분석 — [PMID 35635135](https://pubmed.ncbi.nlm.nih.gov/35635135/) | 만성 기능성 설사·IBS-D·궤양성대장염 등 대상군과 단독·병용치료를 구분하고 배변·복통·만족도를 평가 |
 
 ### 수면·정서 처방 5개
 
@@ -84,7 +85,7 @@ last_reviewed: '2026-09-04'
 | [연교패독산](../../formulas/lianqiao-baidu-san.md) | 국내 감기 무작위·이중맹검·위약대조시험 480명 — [PMID 21040773](https://pubmed.ncbi.nlm.nih.gov/21040773/) | 발병 48시간 이내 감기의 증상점수와 풍한·풍열 병증 분류를 함께 확인 |
 | [당귀수산](../../formulas/danggui-susan.md) | 국내 급성 외측 발목 염좌 무작위·이중맹검·위약대조시험 48명 — [PMID 33663582](https://pubmed.ncbi.nlm.nih.gov/33663582/) | 두 군 모두 시행한 침 치료에 당귀수산을 더한 연구로 통증·발목기능·삶의 질을 평가 |
 
-### 여성·보익·심혈관·신경·비뇨·수분대사 처방 13개
+### 여성·보익·심혈관·신경·비뇨·수분대사 처방 14개
 
 | 주요 처방 | 사람 대상 근거 | 허브에서 읽는 핵심 |
 |---|---|---|
@@ -92,6 +93,7 @@ last_reviewed: '2026-09-04'
 | [황련해독탕](../../formulas/huanglian-jiedu-tang.md) | 고혈압 동반 증상 이중맹검 위약대조시험 265명 — [PMID 16360926](https://pubmed.ncbi.nlm.nih.gov/16360926/) · 제2형 당뇨병 40개 연구·3,934명 메타분석 — [PMID 38286111](https://pubmed.ncbi.nlm.nih.gov/38286111/) | 상열감·안면홍조·번조와 열·습열성 대사양상을 구분해 평가 |
 | [온경탕](wenjing-tang.md) | 원발성 월경통 18개 연구·1,736명 메타분석 — [PMID 28791471](https://pubmed.ncbi.nlm.nih.gov/28791471/) | 통증강도·월경상태·진통제 사용을 평가 |
 | [당귀작약산](danggui-shaoyao-san.md) | 원발성 월경통 RCT 메타분석 — [PMID 26857875](https://pubmed.ncbi.nlm.nih.gov/26857875/) | 여성 골반·월경 증상과 혈허·수습 구조를 연결 |
+| [계지복령환](../../formulas/guizhi-fuling-wan.md) | 원발성 월경통 무작위 대조시험 — [PMID 36746293](https://pubmed.ncbi.nlm.nih.gov/36746293/) | 열작혈어형 대상의 통증과 혈괴·압통 등 어혈 단서를 함께 확인 |
 | [쌍화탕](../../formulas/ssanghwa-tang.md) | 원인불명 만성피로 성인 90명 무작위·이중맹검·위약대조시험 — [PMID 39669697](https://pubmed.ncbi.nlm.nih.gov/39669697/) | 과로 뒤 신체·정서 피로와 SF-36 기능 변화를 함께 평가 |
 | [보중익기탕](../../formulas/buzhong-yiqi-tang.md) | 안정기 COPD 16개 연구·1,400명 메타분석 — [PMID 27912964](https://pubmed.ncbi.nlm.nih.gov/27912964/) | 호흡기 기능·보행·삶의 질과 기존 치료 병용 여부를 확인 |
 | [생맥산](../../research/formulas/shengmai-san.md) | 2024년 바이러스성 심근염 44개 RCT·4,298명 메타분석 — [PMID 39742019](https://pubmed.ncbi.nlm.nih.gov/39742019/) | 증상·심전도·일부 심근손상 지표를 다룬 병용근거 |
