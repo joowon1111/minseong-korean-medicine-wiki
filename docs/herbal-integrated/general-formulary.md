@@ -31,6 +31,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 핵심 갈림점 | 처방 |
 |---|---|
 | 담습의 기본형 | [이진탕](../formulas/erchen-tang.md) |
+| 흉협부 담음 + 기체·통증 | [궁하탕](../formulas/gungha-tang.md) |
 | 비허담습 + 현훈·두통 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) |
 | 완고한 담습·담궐 | [도담탕](../formulas/daotan-tang.md) |
 | 담울 + 심번·불면·경계 | [가미온담탕](../formulas/jiawei-wendan-tang.md) |
