@@ -42,6 +42,10 @@ last_reviewed: 2026-09-04
 
 자동으로 계속 먹지 않습니다. [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md)은 임신준비의 조경 맥락에서 쓰여 온 처방이므로 임신 확인 뒤에는 구성과 목적을 다시 평가합니다.
 
+### 수태환·태산반석산은 임신 전 보약인가요?
+
+두 처방은 임신 전 일반 보약이라기보다 임신 성립 뒤 **태루·태동불안·충임불고**를 변증하는 산전 안태 처방입니다. [수태환](../formulas/shoutai-wan.md)은 보신·고충에, [태산반석산](../formulas/taishan-panshi-san.md)은 기혈과 비위를 폭넓게 보강하는 데 무게가 있습니다. 출혈·복통이 있으면 처방보다 초음파와 산과 평가가 먼저입니다.
+
 ### 달생산은 순산을 위해 미리 먹는 약인가요?
 
 [달생산](../formulas/dalsaeng-san.md)은 고전에서 임신 말기·출산을 다룬 처방이지만 현대의 모든 임신부에게 권하는 예방약은 아닙니다. 출산기관과 협의 없이 임의 복용하지 않습니다.
@@ -54,5 +58,6 @@ last_reviewed: 2026-09-04
 
 - [임신 준비·난임·임신·산후 허브](../womens-health/fertility-pregnancy-postpartum.md)
 - [시험관·인공수정·착상 준비](assisted-reproduction-support.md)
+- [수태환](../formulas/shoutai-wan.md) · [태산반석산](../formulas/taishan-panshi-san.md)
 - [유산 후 회복](miscarriage-recovery.md)
 - [산후회복](postpartum-recovery.md)

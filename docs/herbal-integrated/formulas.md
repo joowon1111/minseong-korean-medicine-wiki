@@ -118,6 +118,10 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [완대탕](../formulas/wandai-tang.md) — 비허·간울·습 + 만성 백대하
 - [교애탕](../formulas/jiaoai-tang.md) — 충임허손 + 혈허·허한성 출혈
 - [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 월경부조·하초 한·기혈실조를 살피는 임신준비 대표처방
+- [육린주](../formulas/yulin-zhu.md) — 기혈양허·신허·충임부족형 임신준비
+- [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) — 간울기체형 임신준비
+- [수태환](../formulas/shoutai-wan.md) — 보신안태·고충임의 간결한 안태방
+- [태산반석산](../formulas/taishan-panshi-san.md) — 기혈양허·비위허약·충임불고형 산전 안태
 - [달생산](../formulas/dalsaeng-san.md) — 임신 말기·출산 준비의 고전 처방
 - [불수산](../formulas/bulsu-san.md) — 당귀·천궁 중심의 산과·산후 처방
 - [단녹용탕](../formulas/dan-nokyong-tang.md) — 고전의 난산 맥락에 놓인 단미 녹용 처방
