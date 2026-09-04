@@ -12,7 +12,7 @@ description: 수면·피로 — 민성 한의학 아카이브의 관련 전문 �
 
 | 패턴 | 처방 |
 |---|---|
-| 심비양허·기혈허 | [귀비탕](../formulas/guipi-classic.md) |
+| 심비양허·기혈허 | [귀비탕](../formulas/guibi-tang.md) |
 | 심신음혈부족 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | 허번불면 | [산조인탕](../formulas/suanzaoren-tang.md) |
 | 담울·심번·경계 | [가미온담탕](../formulas/jiawei-wendan-tang.md) |
