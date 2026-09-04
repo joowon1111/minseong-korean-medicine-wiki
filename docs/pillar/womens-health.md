@@ -22,6 +22,7 @@ last_reviewed: 2026-09-04
 | 유산후조리한약·다음 임신 준비 | [유산 후 회복](../conditions/miscarriage-recovery.md) |
 | 산후보약·산후풍·제왕절개 회복 | [산후회복](../conditions/postpartum-recovery.md) |
 | 임신준비 대표 조경 처방 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
+| 생리통·월경선기·대하·출혈 대표 처방 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) · [청경사물탕](../formulas/qingjing-siwu-tang.md) · [완대탕](../formulas/wandai-tang.md) · [교애탕](../formulas/jiaoai-tang.md) |
 | 출산 전후 고전 처방 | [달생산](../formulas/dalsaeng-san.md) · [불수산](../formulas/bulsu-san.md) · [단녹용탕](../formulas/dan-nokyong-tang.md) · [생화탕](../formulas/saenghwa-tang.md) |
 
 ## 생애주기와 증상으로 찾기
