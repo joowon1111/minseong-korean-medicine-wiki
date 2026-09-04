@@ -74,6 +74,8 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 핵심 갈림점 | 처방 |
 |---|---|
 | 심하비 + 구역·장명·설사 + 한열착잡 | [반하사심탕](../formulas/banxia-xiexin-tang.md) |
+| 중초허한 + 허로성 복통·복부 긴장 | [소건중탕](../formulas/xiaojianzhong-tang.md) |
+| 중초허한 + 기허·자한·회복저하 | [황기건중탕](../formulas/huangqi-jianzhong-tang.md) |
 | 한습 + 기혈담식 복합 | [오적산](../formulas/wujisan.md) |
 
 ## 보익·음양
@@ -84,6 +86,8 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 기음부족 + 심화·소변 문제 | [청심연자음](../formulas/qingxin-lianzi-yin.md) |
 | 신음허 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | 신양허 | [팔미지황환](../formulas/bawei-dihuang-wan.md) |
+| 신음·정혈부족 | [좌귀환](../formulas/zuogui-wan.md) |
+| 신양허 + 정혈부족 | [우귀환](../formulas/yougui-wan.md) |
 
 ## 습·수분대사
 
@@ -133,6 +137,8 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 기혈부족 + 비위허약·담습·기체 | [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) |
 | 심비양허·불면·심계 | [귀비탕](../formulas/guibi-tang.md) |
 | 기혈양허·허손 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| 기혈·정수의 큰 허손 + 요슬무력 | [대보원전](../formulas/dabo-wonjeon.md) |
+| 비위기허 + 자한·회복저하 | [인삼황기탕](../formulas/renshen-huangqi-tang.md) |
 | 노권·기혈구상 | [쌍화탕](../formulas/ssanghwa-tang.md) |
 | 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
 
