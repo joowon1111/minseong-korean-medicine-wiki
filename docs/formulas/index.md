@@ -25,8 +25,9 @@ last_reviewed: '2026-09-04'
 처방은 단순한 효능 목록보다 **어떤 병증과 증상 조합에서 활용되어 왔는지, 어떤 약재 구조를 가지는지** 함께 살펴보면 이해하기 쉽습니다.
 
 ### 보익·기력·회복
-- [사군자탕](sijunzi-tang.md) · [육군자탕](liujunzi-tang.md) · [사물탕](siwu-tang.md) · [팔물탕](bazhen-tang.md)
+- [사군자탕](sijunzi-tang.md) · [육군자탕](liujunzi-tang.md) · [사물탕](siwu-tang.md) · [당귀보혈탕](danggui-buxue-tang.md) · [팔물탕](bazhen-tang.md)
 - [십전대보탕](shi-quan-da-bu-tang.md) · [보중익기탕](buzhong-yiqi-tang.md) · [귀비탕](guibi-tang.md) · [생맥산](shengmai-san.md)
+- [자감초탕](zhigancao-tang.md) · [황기계지오물탕](huangqi-guizhi-wuwu-tang.md)
 - [인삼양영탕](renshen-yangrong-tang.md) · [익기보혈탕](ikgi-bohyeol-tang.md) · [당귀보혈탕](danggui-buxue-tang.md) · [인삼황기탕](renshen-huangqi-tang.md)
 - [대보원전](dabo-wonjeon.md) · [좌귀환](zuogui-wan.md) · [우귀환](yougui-wan.md)
 - [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md)
