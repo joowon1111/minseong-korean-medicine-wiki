@@ -2,7 +2,7 @@
 title: 방제 찾기
 tags: [방제학, 일반방제, 처방탐색, 통합허브]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-04
 description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 방제 찾기
@@ -69,6 +69,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [영계출감탕](../formulas/linggui-zhugan-tang.md) — 중양부족 + 담음
 - [실비음](../formulas/shipi-yin.md) — 비양허 수종
 - [팔정산](../formulas/bazheng-san.md) — 습열하주·열림
+- [청심연자음](../formulas/qingxin-lianzi-yin.md) — 기음부족 + 심화·배뇨불편
 
 ## 통증·비증·두통
 
@@ -76,6 +77,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [독활기생탕](../formulas/duhuo-jisheng-classic.md) — 만성 비증 + 간신기혈허
 - [회수산](../formulas/huishou-san.md) — 풍한·기체 + 급성 경항통
 - [당귀수산](../formulas/danggui-susan.md) — 외상 뒤 어혈·종창·고정통
+- [소경활혈탕](../formulas/shujing-huoxue-tang.md) — 혈허·어혈 + 풍습의 오래된 통증
 - [청상견통탕](../formulas/qingshang-juantong-tang.md) — 복합 두통
 - [천궁다조산](../formulas/chuanxiong-chatiao-san.md) — 외풍 두통
 - [창이자산](../formulas/cangerzi-san.md) — 비연·비색 + 두통
