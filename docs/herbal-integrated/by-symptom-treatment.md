@@ -15,7 +15,7 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 
 | 병증축 | 치법 | 대표 처방 |
 |---|---|---|
-| 비위기허·중기하함 | 보기승양 | [보중익기탕](../formulas/buzhong-yiqi-classic.md) |
+| 비위기허·중기하함 | 보기승양 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
 | 심비양허·기혈부족 | 익기보혈·안신 | [귀비탕](../formulas/guipi-classic.md) |
 | 노권·기혈구상 | 조화기혈·보허 | [쌍화탕](../formulas/ssanghwa-tang.md) |
 | 기혈양허·허손 | 온보기혈 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
@@ -125,4 +125,3 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 → [본초 찾기](herbs.md)
 
 **증상 하나만 보고 처방을 정하지 않고, 반드시 병증과 치법을 중간 단계로 둡니다.**
-

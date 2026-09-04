@@ -130,7 +130,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 심비양허·불면·심계 | [귀비탕](../formulas/guipi-classic.md) |
 | 기혈양허·허손 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | 노권·기혈구상 | [쌍화탕](../formulas/ssanghwa-tang.md) |
-| 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-classic.md) |
+| 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
 
 **빠른 감별:** `보중익기탕 ↔ 귀비탕 ↔ 쌍화탕 ↔ 십전대보탕`은 모두 피로·허손에 쓰이지만 **중기하함 / 심비양허 / 노권 / 기혈양허**가 갈림점입니다.
 
