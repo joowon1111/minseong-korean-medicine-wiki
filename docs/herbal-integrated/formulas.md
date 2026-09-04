@@ -16,6 +16,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) — 비기허 + 담습 + 기체
 - [향사양위탕](../formulas/xiangsha-yangwei-tang.md) — 비위허한 + 습체
 - [보화환](../formulas/baohe-wan.md) — 식적
+- [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) — 식적 + 담습 + 기체가 겹친 반복성 소화불편
+- [이중탕](../formulas/lizhong-tang.md) — 비위허한 + 복통·설사·구토
 - [반하사심탕](../formulas/banxia-xiexin-tang.md) — 한열착잡·심하비
 - [소건중탕](../formulas/xiaojianzhong-tang.md) — 중초허한 + 허로성 복통·복부 긴장
 - [황기건중탕](../formulas/huangqi-jianzhong-tang.md) — 중초허한 + 기허·자한·회복저하
@@ -38,6 +40,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [시호소간산](../formulas/chaihu-shugan-san.md) — 간기울결 + 흉협통
 - [반하후박탕](../formulas/banxia-houpo-tang.md) — 담기울결·매핵기
 - [분심기음](../formulas/fenxin-qiyin.md) — 칠정기울 + 흉복비체
+- [육울탕](../formulas/yukwul-tang.md) — 기·혈·담·화·습·식의 복합 울체
+- [월국환](../formulas/yueju-wan.md) — 육울을 다스리는 간결한 기본방
 - [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) — 흉중어혈 + 기체
 - [보양환오탕](../formulas/buyang-huanwu-tang.md) — 기허혈어 + 통락장애
 - [도핵승기탕](../formulas/taohe-chengqi-tang.md) — 하초축혈 + 공하
@@ -116,6 +120,12 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [생화탕](../formulas/saenghwa-tang.md) — 출산 뒤 오로·어혈·하복부통의 대표 산후 처방
 
 → [임신 준비·난임·임신·산후 통합 허브](../womens-health/fertility-pregnancy-postpartum.md) — 혈허 + 기체·조경
+
+## 윤장·허비
+
+- [제천전](../formulas/jichuan-jian.md) — 신허·정혈부족을 바탕으로 한 허손성 변비
+- [마자인환 현대근거 카드](../authority/formulas/mazi-ren-wan.md) — 장조·열결형 기능성변비 연구
+- [변비 임상 안내](../conditions/constipation.md) — 위험신호·병증 감별·치료 연결
 
 ## 화해·공하
 
