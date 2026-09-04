@@ -92,11 +92,20 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 
 ## 보익·기혈·음양
 
+**기본 계보:** [사군자탕](../formulas/sijunzi-tang.md)(보기) + [사물탕](../formulas/siwu-tang.md)(보혈) → [팔물탕](../formulas/bazhen-tang.md)(기혈쌍보) → [십전대보탕](../formulas/shiquan-dabu-classic.md)(온보기혈)
+
+- [사군자탕](../formulas/sijunzi-tang.md) — 비위기허·보기의 기본방
+- [육군자탕](../formulas/liujunzi-tang.md) — 비위기허 + 담음
+- [사물탕](../formulas/siwu-tang.md) — 보혈·조혈의 기본방
+- [팔물탕](../formulas/bazhen-tang.md) — 사군자탕 + 사물탕의 기혈쌍보
 - [보중익기탕](../formulas/buzhong-yiqi-classic.md) — 비위기허·중기하함
 - [귀비탕](../formulas/guibi-tang.md) — 심비양허
 - [쌍화탕](../formulas/ssanghwa-tang.md) — 노권·기혈구상
 - [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허·허손
-- [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 보기생혈
+- [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 황기 중심의 보기생혈
+- [생맥산](../formulas/shengmai-san.md) — 기음양허·익기생진
+- [자감초탕](../formulas/zhigancao-tang.md) — 기혈음 허손 + 심계·맥결대
+- [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) — 기혈·영위허 + 혈비·저림
 - [인삼양영탕](../formulas/renshen-yangrong-tang.md) — 기혈양허 + 허손·식욕저하·심신 소모
 - [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) — 기혈부족 + 비위허약·담습·기체
 - [대보원전](../formulas/dabo-wonjeon.md) — 기혈·정수의 큰 허손 + 요슬무력

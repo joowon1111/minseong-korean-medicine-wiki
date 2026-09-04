@@ -145,17 +145,24 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 
 | 핵심 갈림점 | 처방 |
 |---|---|
-| 보기생혈 | [당귀보혈탕](../formulas/danggui-buxue-tang.md) |
+| 비위기허·보기 기본방 | [사군자탕](../formulas/sijunzi-tang.md) |
+| 비위기허 + 담음 | [육군자탕](../formulas/liujunzi-tang.md) |
+| 혈허·보혈 기본방 | [사물탕](../formulas/siwu-tang.md) |
+| 황기 중심의 보기생혈 | [당귀보혈탕](../formulas/danggui-buxue-tang.md) |
+| 기허와 혈허가 고르게 동반 | [팔물탕](../formulas/bazhen-tang.md) |
+| 기혈양허 + 온보 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | 기혈양허 + 허손·심신 소모 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) |
 | 기혈부족 + 비위허약·담습·기체 | [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) |
+| 기음양허 + 발한·구갈·숨참 | [생맥산](../formulas/shengmai-san.md) |
+| 기혈음 허손 + 심계·맥결대 | [자감초탕](../formulas/zhigancao-tang.md) |
+| 기혈·영위허 + 혈비·저림·냉감 | [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) |
 | 심비양허·불면·심계 | [귀비탕](../formulas/guibi-tang.md) |
-| 기혈양허·허손 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | 기혈·정수의 큰 허손 + 요슬무력 | [대보원전](../formulas/dabo-wonjeon.md) |
 | 비위기허 + 자한·회복저하 | [인삼황기탕](../formulas/renshen-huangqi-tang.md) |
 | 노권·기혈구상 | [쌍화탕](../formulas/ssanghwa-tang.md) |
 | 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
 
-**빠른 감별:** `보중익기탕 ↔ 귀비탕 ↔ 쌍화탕 ↔ 십전대보탕`은 모두 피로·허손에 쓰이지만 **중기하함 / 심비양허 / 노권 / 기혈양허**가 갈림점입니다.
+**빠른 계보:** 사군자탕과 사물탕이 합쳐져 팔물탕이 되고, 여기에 황기·육계가 더해지면 십전대보탕으로 확장됩니다. 당귀보혈탕은 보기생혈, 생맥산은 기음·진액, 자감초탕은 심계·복맥, 황기계지오물탕은 혈비·영위허가 갈림점입니다.
 
 ## 부인·조경
 
