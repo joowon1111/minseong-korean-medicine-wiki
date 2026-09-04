@@ -104,12 +104,18 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [자음강화탕](../formulas/ziyin-jianghuo-tang.md) — 음허화왕
 - [옥병풍산](../formulas/yupingfeng-san.md) — 표허·위외불고
 
-## 부인·조경
+## 여성·임신준비·산후
 
 - [당귀작약산](../formulas/danggui-shaoyao-san.md) — 혈허 + 수습의 월경·하복부 증상
 - [계지복령환](../formulas/guizhi-fuling-wan.md) — 하초 어혈 + 고정성 통증·혈괴
 - [온경탕](../formulas/wenjing-tang.md) — 충임허한 + 어혈
-- [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 혈허 + 기체·조경
+- [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) — 월경부조·하초 한·기혈실조를 살피는 임신준비 대표처방
+- [달생산](../formulas/dalsaeng-san.md) — 임신 말기·출산 준비의 고전 처방
+- [불수산](../formulas/bulsu-san.md) — 당귀·천궁 중심의 산과·산후 처방
+- [단녹용탕](../formulas/dan-nokyong-tang.md) — 고전의 난산 맥락에 놓인 단미 녹용 처방
+- [생화탕](../formulas/saenghwa-tang.md) — 출산 뒤 오로·어혈·하복부통의 대표 산후 처방
+
+→ [임신 준비·난임·임신·산후 통합 허브](../womens-health/fertility-pregnancy-postpartum.md) — 혈허 + 기체·조경
 
 ## 화해·공하
 
