@@ -164,9 +164,13 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 혈허 + 수습 | [당귀작약산](../formulas/danggui-shaoyao-san.md) |
 | 하초 어혈 + 고정성 통증·혈괴 | [계지복령환](../formulas/guizhi-fuling-wan.md) |
 | 충임허한 + 어혈 | [온경탕](../formulas/wenjing-tang.md) |
+| 한응어혈 + 월경통·하복부 고정통 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) |
+| 혈허유열 + 월경선기·출혈량 증가 | [청경사물탕](../formulas/qingjing-siwu-tang.md) |
+| 비허·간울·습 + 만성 백대하 | [완대탕](../formulas/wandai-tang.md) |
+| 충임허손 + 혈허·허한성 출혈 | [교애탕](../formulas/jiaoai-tang.md) |
 | 혈허 + 기체·조경 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
 
-**빠른 감별:** `당귀작약산 ↔ 계지복령환 ↔ 온경탕`은 각각 **혈허·수습 / 어혈 / 허한·어혈** 가운데 무엇이 중심인지가 갈림점입니다.
+**빠른 감별:** `당귀작약산 ↔ 계지복령환 ↔ 온경탕 ↔ 소복축어탕`은 **혈허·수습 / 어혈 / 충임허한 / 한응어혈성 통증** 가운데 무엇이 중심인지가 갈림점입니다. 출혈 양상은 청경사물탕·교애탕, 대하는 완대탕으로 별도 감별합니다.
 
 ## 청열·화독
 
