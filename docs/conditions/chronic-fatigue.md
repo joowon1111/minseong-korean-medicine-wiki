@@ -91,6 +91,8 @@ last_reviewed: 2026-08-31
 - [보중익기탕](../formulas/buzhong-yiqi-tang.md)
 - [귀비탕](../formulas/guibi-tang.md)
 - [십전대보탕](../formulas/shi-quan-da-bu-tang.md)
+- [인삼양영탕](../formulas/renshen-yangrong-tang.md)
+- [익기보혈탕](../formulas/ikgi-bohyeol-tang.md)
 - [소요산](../formulas/xiaoyao-san.md)
 
 ## 침·전침·이침·뜸 등은 어떻게 활용하나요?

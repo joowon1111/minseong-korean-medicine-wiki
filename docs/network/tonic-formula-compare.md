@@ -17,6 +17,8 @@ last_reviewed: 2026-08-19
 | [경옥고](../formulas/gyeongok-go.md) | 인삼·생지황·복령·봉밀 | 보기·자음·건비·윤조 | 양생·허약·장기 회복 |
 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기·인삼·백출·당귀 등 | 보기·승양 | 비위기허·중기하함·피로 |
 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 팔물탕 + 황기·육계 | 기혈쌍보·온보 | 기혈양허·허약·회복 |
+| [인삼양영탕](../formulas/renshen-yangrong-tang.md) | 인삼·황기·백출 + 당귀·작약·숙지황 + 원지·오미자 | 익기양혈·양심안신 | 허손·식욕저하·심계·수면저하 |
+| [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) | 보기·양혈 + 건비·화담·이기약 | 익기보혈·건비이기 | 피로·무력·두중·현훈·소화저하 |
 | [생맥산](../formulas/shengmai-san.md) | 인삼·맥문동·오미자 | 익기양음·생진 | 기음양허·소모·구갈 |
 
 ## 공진단
