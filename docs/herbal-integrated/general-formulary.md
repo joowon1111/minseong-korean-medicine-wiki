@@ -2,7 +2,7 @@
 title: 일반 방제 임상 지도
 tags: [방제학, 일반방제, 임상지도, 처방감별]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-04
 description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 일반 방제 임상 지도
@@ -22,6 +22,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 외감 + 내상습체 | [불환금정기산](../formulas/buhuanjin-zhengqi-san.md) |
 | 비위허약 + 습담 + 음증성 외감 | [인삼양위탕](../formulas/renshen-yangwei-tang.md) |
 | 음식적체 | [보화환](../formulas/baohe-wan.md) |
+| 식적 + 담습 + 기체가 겹친 반복성 소화불편 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
 | 비위습체 + 수습·설사 | [위령탕](../formulas/weiling-tang.md) |
 
 **빠른 감별:** `평위산 ↔ 향사육군자탕 ↔ 향사양위탕 ↔ 보화환`은 모두 소화불편에 쓰이지만, **습체 / 비허 / 기체 / 식적** 중 무엇이 중심인지가 갈림점입니다.
@@ -51,6 +52,8 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 흉중어혈 + 기체 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) |
 | 간기울결 + 흉협통 | [시호소간산](../formulas/chaihu-shugan-san.md) |
 | 담기울결·매핵기 | [반하후박탕](../formulas/banxia-houpo-tang.md) |
+| 기·혈·담·화·습·식이 겹친 복합 울체 | [육울탕](../formulas/yukwul-tang.md) |
+| 울체를 풀되 간결한 기본 구조가 필요할 때 | [월국환](../formulas/yueju-wan.md) |
 
 ## 외감·호흡·청열
 
@@ -74,6 +77,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 핵심 갈림점 | 처방 |
 |---|---|
 | 심하비 + 구역·장명·설사 + 한열착잡 | [반하사심탕](../formulas/banxia-xiexin-tang.md) |
+| 태음 중초허한 + 복통·설사·구토 | [이중탕](../formulas/lizhong-tang.md) |
 | 중초허한 + 허로성 복통·복부 긴장 | [소건중탕](../formulas/xiaojianzhong-tang.md) |
 | 중초허한 + 기허·자한·회복저하 | [황기건중탕](../formulas/huangqi-jianzhong-tang.md) |
 | 한습 + 기혈담식 복합 | [오적산](../formulas/wujisan.md) |
@@ -88,6 +92,15 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 신양허 | [팔미지황환](../formulas/bawei-dihuang-wan.md) |
 | 신음·정혈부족 | [좌귀환](../formulas/zuogui-wan.md) |
 | 신양허 + 정혈부족 | [우귀환](../formulas/yougui-wan.md) |
+
+## 윤장·변비
+
+| 핵심 갈림점 | 처방 |
+|---|---|
+| 신허·정혈부족 + 고령·허손성 변비 | [제천전](../formulas/jichuan-jian.md) |
+| 장조·열결형 기능성변비의 연구 근거 확인 | [마자인환 현대근거 카드](../authority/formulas/mazi-ren-wan.md) |
+
+**빠른 감별:** 제천전은 단순 공하제가 아니라 **신허·정혈부족을 보하면서 윤장·하행**하는 허비의 구조입니다. 복통·구토·혈변 등 위험신호가 있으면 처방 감별보다 의학적 평가가 우선입니다.
 
 ## 습·수분대사
 

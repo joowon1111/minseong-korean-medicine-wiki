@@ -154,6 +154,7 @@ nav:
       - 불환금정기산: formulas/buhuanjin-zhengqi-san.md
       - 인삼양위탕: formulas/renshen-yangwei-tang.md
       - 보화환: formulas/baohe-wan.md
+      - 정전가미이진탕: formulas/jeongjeon-gami-ijin-tang.md
       - 위령탕: formulas/weiling-tang.md
     - 담음·현훈·불면:
       - 이진탕: formulas/erchen-tang.md
@@ -168,6 +169,8 @@ nav:
       - 소요산: formulas/xiaoyao-san.md
       - 가미소요산: formulas/jiawei-xiaoyao-san.md
       - 분심기음: formulas/fenxin-qiyin.md
+      - 육울탕: formulas/yukwul-tang.md
+      - 월국환: formulas/yueju-wan.md
       - 오약순기산: formulas/wuyao-shunqi-san.md
       - 혈부축어탕: formulas/xuefu-zhuyu-tang.md
     - 외감·호흡·청열:
@@ -178,6 +181,7 @@ nav:
       - 맥문동탕: formulas/maidong-tang.md
     - 한열·비위조화:
       - 반하사심탕: formulas/banxia-xiexin-tang.md
+      - 이중탕: formulas/lizhong-tang.md
       - 소건중탕: formulas/xiaojianzhong-tang.md
       - 황기건중탕: formulas/huangqi-jianzhong-tang.md
       - 오적산: formulas/wujisan.md
@@ -192,6 +196,8 @@ nav:
       - 곽향정기산: formulas/huoxiang-zhengqi-san.md
       - 오령산: formulas/wuling-san.md
       - 저령탕: formulas/zhuling-tang.md
+    - 윤장·변비:
+      - 제천전: formulas/jichuan-jian.md
     - 두통·통증·비증:
       - 청상견통탕: formulas/qingshang-juantong-tang.md
       - 회수산: formulas/huishou-san.md
