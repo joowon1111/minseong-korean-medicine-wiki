@@ -5,7 +5,7 @@ tags:
 - 방제학
 - 한약처방
 status: 검토완료
-last_reviewed: '2026-09-04'
+last_reviewed: '2026-09-05'
 ---
 # 방제학
 
@@ -44,6 +44,8 @@ last_reviewed: '2026-09-04'
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md)
 
 ### 건중·허로
+
+- [대건중탕](dajianzhong-tang.md) — 복부 냉감·팽만과 장기능 회복
 - [이중탕](lizhong-tang.md) · [소건중탕](xiaojianzhong-tang.md) · [황기건중탕](huangqi-jianzhong-tang.md)
 
 ### 소화·담음·수습
@@ -56,7 +58,13 @@ last_reviewed: '2026-09-04'
 - [제천전](jichuan-jian.md) · [마자인환 현대근거 카드](../authority/formulas/mazi-ren-wan.md) · [변비 임상 안내](../conditions/constipation.md)
 
 ### 통증·근골격
+
+- [작약감초탕](shaoyao-gancao-tang.md) — 근육경련·쥐
 - [독활기생탕](duhuo-jisheng-tang.md) · [갈근탕](gegen-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md)
+
+### 과민·긴장과 수면
+
+- [억간산](yigan-san.md) — 처방 구조와 치매 행동심리증상 연구
 
 ### 처방 구조로 더 깊게 보기
 - [사군자탕 계열](../formula-architecture/sijunzi-family.md) · [사물탕·기혈쌍보 계열](../formula-architecture/siwu-qi-blood-family.md)
