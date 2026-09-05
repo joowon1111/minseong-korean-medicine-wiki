@@ -23,7 +23,7 @@ last_reviewed: 2026-09-04
 | 배합축 | 대표 본초 | 역할 |
 |---|---|---|
 | 습을 말리고 창만을 풂 | 창출·[후박](../herbs/magnolia-bark.md)·[진피](../herbs/citrus-peel.md) | 무겁고 그득한 중초의 습체를 조절 |
-| 기를 움직이고 위를 편안히 함 | 향부자·[사인](../herbs/amomum.md)·목향·백두구 | 식후 팽만·트림·오심과 기체를 다룸 |
+| 기를 움직이고 위를 편안히 함 | 향부자·[사인](../herbs/amomum.md)·목향·[백두구](../herbs/white-cardamom.md) | 식후 팽만·트림·오심과 기체를 다룸 |
 | 비위를 지지 | [인삼](../herbs/ginseng.md)·백출·[복령](../herbs/poria.md)·[감초](../herbs/licorice.md) | 오래된 식욕저하와 비위기허를 보완 |
 | 중초를 조화 | 생강·대조 | 온중하고 위기를 조화 |
 

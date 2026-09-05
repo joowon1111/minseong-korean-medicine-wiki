@@ -95,6 +95,8 @@ last_reviewed: '2026-09-05'
 
 - [현삼](scrophularia.md) — 청열량혈과 자음
 
+- [지모](anemarrhena.md) — 청열사화·윤조와 실열·허열의 배합 비교
+
 ### 수분대사·이수
 
 - [택사](alisma.md) — 이수삼습·설열
@@ -112,6 +114,8 @@ last_reviewed: '2026-09-05'
 
 - [산사](hawthorn.md) · [맥아](barley-malt.md) · [나복자](raphanus-seed.md) — 음식 적체를 살피는 소식약
 
+- [백두구](white-cardamom.md) · [익지인](alpinia-oxyphylla.md) — 화습·온중·온비의 역할 비교
+
 ### 화담·지해
 
 - [반하](pinellia.md) · [진피](citrus-peel.md) · [복령](poria.md) — 조습화담·건비의 배합
@@ -120,6 +124,8 @@ last_reviewed: '2026-09-05'
 - [자소자·소자](perilla-fruit.md) — 강기·화담·평천
 
 - [상엽](mulberry-leaf.md) · [상백피](mulberry-root-bark.md) · [전호](peucedanum-root.md) — 청폐·평천·강기화담의 역할 비교
+
+- [죽여](bamboo-shavings.md) — 청열화담·제번지구와 온담탕 배합
 
 ### 해표·외감·인후
 

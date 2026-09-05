@@ -1,8 +1,8 @@
-﻿---
+---
 title: 목향(木香)
 tags: [본초, 임상본초, 주요본초]
 status: 검토필요
-last_reviewed: 2026-08-20
+last_reviewed: '2026-09-05'
 description: 목향(木香) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 목향(木香)
@@ -30,6 +30,22 @@ description: 목향(木香) — 본초의 성미·귀경·효능·병증·배합
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 소화 처방과 보익 처방에서의 역할
+
+목향은 **기가 막혀 생기는 복부 팽만과 통증을 행기지통의 관점에서 살피는 본초**입니다. 소화 처방뿐 아니라 보익 처방에서도 중초의 기기를 움직이는 역할을 맡습니다.
+
+| 대표 처방 | 목향이 연결하는 배합 |
+|---|---|
+| [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 사인·향부자·후박과 이기하고 인삼·백출의 보익을 함께 살핌 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 비위허한·습체에 대한 온중·조습 배합과 기체를 연결 |
+| [귀비탕](../formulas/guibi-tang.md) | 보기양혈·양심안신의 구성 안에서 이기성비를 맡음 |
+
+### 사인·후박·향부자와 비교
+
+[사인](amomum.md)은 방향화습·온비, [후박](magnolia-bark.md)은 조습·제만, [향부자](cyperus.md)는 소간·이기를 중심으로 비교합니다. 목향의 뿌리 원료는 천목향 등 비슷한 이름의 약재와 구분해 기원을 확인합니다. 지속되는 국소 복통·체중감소·출혈은 기체로만 설명하지 않습니다.
+
+- [홍콩침례대 목향 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00088) — 기원·전통 효능
 
 <!-- QUALITY_DEPTH_05_START -->
 

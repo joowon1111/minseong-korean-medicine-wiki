@@ -41,6 +41,8 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[반하](../herbs/pinellia.md) | 건비와 화담을 함께 살피는 배합 | [육군자탕](../formulas/liujunzi-tang.md) |
 | [맥아](../herbs/barley-malt.md)·[산사](../herbs/hawthorn.md)·신곡 | 소식과 화담·건비 배합 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
 | [백편두](../herbs/lablab-seed.md)·[연자육](../herbs/lotus-seed.md) | 비위허약·습체와 오래된 묽은변을 살피는 건비 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
+| [백두구](../herbs/white-cardamom.md)·[사인](../herbs/amomum.md) | 방향화습·행기온중 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
+| [익지인](../herbs/alpinia-oxyphylla.md) | 온비·온신과 고삽의 역할 구분 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
 
 ## 화담·지해·평천 {#_3}
 
@@ -55,6 +57,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [상엽](../herbs/mulberry-leaf.md) | 소산풍열·청폐윤조 | [상국음](../formulas/sangju-yin.md) |
 | [상백피](../herbs/mulberry-root-bark.md) | 사폐평천·이수 | [정천탕](../formulas/dingchuan-tang.md) |
 | [전호](../herbs/peucedanum-root.md) | 소산풍열·강기화담 | [삼소음](../formulas/renshen-suyin.md) · [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
+| [죽여](../herbs/bamboo-shavings.md)·[반하](../herbs/pinellia.md)·[지실](../herbs/citrus-immature.md) | 청담·제번과 강역·이기 | [온담탕](../formulas/wendan-tang.md) · [가미온담탕](../formulas/jiawei-wendan-tang.md) |
 
 ## 청열·해독 {#_4}
 
@@ -65,6 +68,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md) | 청열해독·소산풍열 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) |
 | [목단피](../herbs/moutan.md)·[치자](../herbs/gardenia.md) | 량혈·청열과 울열 조절 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) |
 | [현삼](../herbs/scrophularia.md)·[생지황](../herbs/rehmannia-root-fresh.md)·[맥문동](../herbs/ophiopogon.md) | 청열·자음과 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+| [지모](../herbs/anemarrhena.md)·[황백](../herbs/phellodendron.md) | 자음양혈 배합 속 허열 조절 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 
 ## 활혈·거어 {#_5}
 
