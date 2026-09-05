@@ -63,6 +63,8 @@ last_reviewed: '2026-09-05'
 
 사물탕 계열의 구조를 이해할 때는 당귀·숙지황·백작약·천궁이 각각 **보혈, 양혈·수렴, 활혈·행기**의 역할을 어떻게 나누는지 함께 보는 것이 중요합니다.
 
+- [적작약](red-peony.md) · [현호색](corydalis.md) — 산어·활혈행기와 통증 배합
+
 ### 간신·정혈·수렴
 
 - [산수유](cornus-fructus.md) — 보익간신·수렴고삽
@@ -81,6 +83,8 @@ last_reviewed: '2026-09-05'
 
 생지황과 숙지황은 가공에 따라 활용 방향이 달라집니다. 목단피는 지황계 처방에서 보익이 지나치게 정체되지 않도록 **허열과 어혈의 방향을 조절하는 역할**을 살펴봅니다.
 
+- [천문동](ophiopogon-extra.md) · [맥문동](ophiopogon.md) — 양음·윤조·생진
+
 ### 수분대사·이수
 
 - [택사](alisma.md) — 이수삼습·설열
@@ -96,16 +100,22 @@ last_reviewed: '2026-09-05'
 - [창출](atractylodes-lancea.md) · [진피](citrus-peel.md) · [후박](magnolia-bark.md) — 조습·행기와 복부 팽만의 배합
 - [목향](aucklandia.md) · [사인](amomum.md) · [향부자](cyperus.md) — 이기·화습·소간의 역할 비교
 
+- [산사](hawthorn.md) · [맥아](barley-malt.md) · [나복자](raphanus-seed.md) — 음식 적체를 살피는 소식약
+
 ### 화담·지해
 
 - [반하](pinellia.md) · [진피](citrus-peel.md) · [복령](poria.md) — 조습화담·건비의 배합
 - [길경](platycodon.md) · [천패모](fritillaria.md) — 선폐·거담과 청열윤폐의 역할 비교
+
+- [자소자·소자](perilla-fruit.md) — 강기·화담·평천
 
 ### 해표·외감·인후
 
 - [계지](cinnamon-twig.md) · [갈근](pueraria.md) — 영위·항배강·해표 배합
 - [방풍](saposhnikovia.md) · [강활](notopterygium.md) — 풍한습과 통증 배합
 - [길경](platycodon.md) — 선폐·인후·거담 배합
+
+- [우방자](arctium.md) · [박하](mint.md) — 소산풍열·인후 배합
 
 → [효능별 본초와 대표 처방 보기](../herbal-integrated/herbs.md)
 

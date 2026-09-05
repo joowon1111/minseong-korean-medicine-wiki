@@ -19,11 +19,12 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 |---|---|---|
 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | [당귀](../herbs/angelica.md)·[숙지황](../herbs/rehmannia-preparata.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈 | [쌍화탕](../formulas/ssanghwa-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) · [온경탕](../formulas/wenjing-tang.md) |
-| [맥문동](../herbs/ophiopogon.md)·천문동·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
+| [맥문동](../herbs/ophiopogon.md)·[천문동](../herbs/ophiopogon-extra.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | [두충](../herbs/eucommia.md)·[우슬](../herbs/achyranthes.md)·[속단](../herbs/dipsacus.md) | 보간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [녹용](../herbs/cervi-parvum-cornu.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md) | 보익간신·정혈·비신을 나누어 봄 | [공진단](../formulas/gongjin-dan.md) · [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | [오미자](../herbs/schisandra.md)·[맥문동](../herbs/ophiopogon.md) | 수렴과 양음·생진의 배합 | [생맥산](../formulas/shengmai-san.md) |
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
+| [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 
 ## 이기·소화 {#_2}
 
@@ -31,9 +32,10 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 |---|---|---|
 | [진피](../herbs/citrus-peel.md)·[후박](../herbs/magnolia-bark.md)·[지실](../herbs/citrus-immature.md) | 행기·제만·소적 | [평위산](../formulas/pingwei-san.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) |
 | [목향](../herbs/aucklandia.md)·[사인](../herbs/amomum.md)·[향부자](../herbs/cyperus.md) | 이기·화습·소간 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
-| 산사·신곡·[나복자](../herbs/raphanus-seed.md) | 소식화적 | [보화환](../formulas/baohe-wan.md) |
+| [산사](../herbs/hawthorn.md)·신곡·[나복자](../herbs/raphanus-seed.md) | 소식화적 | [보화환](../formulas/baohe-wan.md) |
 | [창출](../herbs/atractylodes-lancea.md)·[후박](../herbs/magnolia-bark.md)·[진피](../herbs/citrus-peel.md) | 조습건비·행기제만 | [평위산](../formulas/pingwei-san.md) |
 | [백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[반하](../herbs/pinellia.md) | 건비와 화담을 함께 살피는 배합 | [육군자탕](../formulas/liujunzi-tang.md) |
+| [맥아](../herbs/barley-malt.md)·[산사](../herbs/hawthorn.md)·신곡 | 소식과 화담·건비 배합 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
 
 ## 화담·지해·평천 {#_3}
 
@@ -42,7 +44,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md) | 조습화담 | [이진탕](../formulas/erchen-tang.md) · [도담탕](../formulas/daotan-tang.md) |
 | [반하](../herbs/pinellia.md)·[천마](../herbs/gastrodia.md)·[백출](../herbs/atractylodes.md) | 화담식풍 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) |
 | [행인](../herbs/apricot-kernel.md)·[마황](../herbs/ephedra.md)·[석고](../herbs/gypsum.md) | 선폐평천·청열 | [마행감석탕](../formulas/maxing-ganshi-tang.md) |
-| 소자·[반하](../herbs/pinellia.md)·[후박](../herbs/magnolia-bark.md) | 강기거담 | [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
+| [자소자·소자](../herbs/perilla-fruit.md)·[반하](../herbs/pinellia.md)·[후박](../herbs/magnolia-bark.md) | 강기거담 | [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
 | [길경](../herbs/platycodon.md) | 선폐·이인·거담 | [삼소음](../formulas/renshen-suyin.md) |
 | [천패모](../herbs/fritillaria.md) | 청열윤폐·화담지해 | [천패모의 효능과 배합](../herbs/fritillaria.md) |
 
@@ -59,9 +61,11 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|
-| [도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md)·[천궁](../herbs/chuanxiong.md)·적작약 | 활혈거어 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) · [보양환오탕](../formulas/buyang-huanwu-tang.md) |
+| [도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md)·[천궁](../herbs/chuanxiong.md)·[적작약](../herbs/red-peony.md) | 활혈거어 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) · [보양환오탕](../formulas/buyang-huanwu-tang.md) |
 | [도인](../herbs/peach-kernel.md)·[대황](../herbs/rhubarb.md)·망초 | 축혈·공하 | [도핵승기탕](../formulas/taohe-chengqi-tang.md) |
 | [단삼](../herbs/salvia.md) | 활혈거어·통경지통 | [심적환·복방단삼적환](../formulas/simjeok-hwan.md) |
+| [현호색](../herbs/corydalis.md)·[향부자](../herbs/cyperus.md) | 활혈행기·지통 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) · [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
+| [적작약](../herbs/red-peony.md)·[도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md) | 산어·지통 | [당귀수산](../formulas/danggui-susan.md) |
 
 ## 이수·삼습 {#_6}
 
@@ -96,6 +100,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [계지](../herbs/cinnamon-twig.md)·[갈근](../herbs/pueraria.md)·[마황](../herbs/ephedra.md) | 땀·오한·항배강을 구분하는 해표·서근 | [계지탕](../formulas/guizhi-tang.md) · [갈근탕](../formulas/gegen-tang.md) |
 | [강활](../herbs/notopterygium.md)·[방풍](../herbs/saposhnikovia.md)·[창출](../herbs/atractylodes-lancea.md) | 외감 풍한습과 몸살·무거움 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) |
 | [형개](../herbs/schizonepeta.md)·[연교](../herbs/forsythia.md)·[길경](../herbs/platycodon.md) | 표·인후·호흡기 배합 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
+| [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인 | [은교산](../formulas/yinqiao-san.md) |
 
 ## 온리·산한 {#warming-herbs}
 
