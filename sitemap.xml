@@ -3026,7 +3026,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/cardiometabolic-herbal-evidence/</loc>
-    <lastmod>2026-09-05T15:37:00+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/cervical-radiculopathy-herbal/</loc>
@@ -3078,7 +3078,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/digestive-herbal-evidence/</loc>
-    <lastmod>2026-09-04T14:50:39+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/ding-kun-dan/</loc>
@@ -3110,7 +3110,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/gegen-qinlian-tang-diabetes/</loc>
-    <lastmod>2026-08-23T11:10:24+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/ginseng-formula-fatigue/</loc>
@@ -3122,7 +3122,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/herbal-formula-evidence-hub/</loc>
-    <lastmod>2026-09-05T15:37:00+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/huanglian-jiedu-tang-diabetes/</loc>
@@ -3174,7 +3174,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/mazi-ren-wan/</loc>
-    <lastmod>2026-09-01T16:03:10+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/authority/formulas/menopause-herbal-formula-map/</loc>
@@ -4082,7 +4082,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/conditions/constipation/</loc>
-    <lastmod>2026-09-04T21:26:43+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/conditions/cough/</loc>
@@ -4494,7 +4494,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/conditions/metabolic-syndrome/</loc>
-    <lastmod>2026-09-02T16:36:14+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/conditions/middle-age-weight/</loc>
@@ -5334,7 +5334,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/</loc>
-    <lastmod>2026-09-05T15:37:00+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/baihu-tang/</loc>
@@ -5477,6 +5477,10 @@
     <lastmod>2026-08-21T16:25:48+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/formulas/gegen-qinlian-tang/</loc>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/formulas/gegen-tang/</loc>
     <lastmod>2026-09-04T13:08:36+09:00</lastmod>
   </url>
@@ -5554,11 +5558,15 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/jichuan-jian/</loc>
-    <lastmod>2026-09-04T21:26:43+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/jingjie-lianqiao-tang/</loc>
     <lastmod>2026-09-04T13:08:36+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/jinlida/</loc>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/jiuwei-qianghuo-tang/</loc>
@@ -5603,6 +5611,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/maxing-ganshi-tang/</loc>
     <lastmod>2026-08-21T16:25:48+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/mazi-ren-wan/</loc>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/pingwei-san/</loc>
@@ -6170,11 +6182,11 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbal-integrated/formulas/</loc>
-    <lastmod>2026-09-05T15:37:00+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbal-integrated/general-formulary/</loc>
-    <lastmod>2026-09-05T15:37:00+09:00</lastmod>
+    <lastmod>2026-09-05T15:56:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbal-integrated/herb-comparisons/</loc>
