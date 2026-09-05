@@ -67,6 +67,8 @@ last_reviewed: '2026-09-05'
 
 - [적작약](red-peony.md) · [현호색](corydalis.md) — 산어·활혈행기와 통증 배합
 
+- [익모초](leonurus.md) — 활혈조경과 수습의 배합
+
 ### 간신·정혈·수렴
 
 - [산수유](cornus-fructus.md) — 보익간신·수렴고삽
@@ -78,6 +80,8 @@ last_reviewed: '2026-09-05'
 
 - [구기자](cornus-extra.md) — 자보간신·익정과 정혈 보익
 
+- [토사자](cuscuta-seed.md) · [육종용](cistanche.md) — 보신익정과 윤장 역할을 구분
+
 ### 자음·생진·허열 조절
 
 - [생지황](rehmannia-root-fresh.md) — 청열량혈·양음생진
@@ -88,6 +92,8 @@ last_reviewed: '2026-09-05'
 생지황과 숙지황은 가공에 따라 활용 방향이 달라집니다. 목단피는 지황계 처방에서 보익이 지나치게 정체되지 않도록 **허열과 어혈의 방향을 조절하는 역할**을 살펴봅니다.
 
 - [천문동](ophiopogon-extra.md) · [맥문동](ophiopogon.md) — 양음·윤조·생진
+
+- [현삼](scrophularia.md) — 청열량혈과 자음
 
 ### 수분대사·이수
 
@@ -122,6 +128,8 @@ last_reviewed: '2026-09-05'
 - [우방자](arctium.md) · [박하](mint.md) — 소산풍열·인후 배합
 
 - [백지](angelica-dahurica.md) · [신이](magnolia-bud.md) — 코와 두면부의 거풍·통규 배합
+
+- [만형자](vitex-fruit.md) — 풍열·두면부를 살피는 청리두목
 
 ### 온리·산한
 
