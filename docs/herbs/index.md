@@ -85,16 +85,21 @@ last_reviewed: '2026-09-05'
 
 - [택사](alisma.md) — 이수삼습·설열
 - [복령](poria.md) — 건비이수·안신
+- [저령](polyporus.md) · [의이인](coix.md) — 이수·삼습의 본초
 - 산약 — 비신을 보하면서 수분대사의 바탕을 돕는 방향
 - 목단피 — 하초의 허열·어혈을 함께 조절하는 방향
 
 육미지황계 처방에서는 숙지황·산수유·산약의 보익축과 택사·목단피·복령의 조절축이 함께 구성됩니다. 어느 한 약재만 강조하기보다 **보하는 약과 순환·배출을 돕는 약의 균형**을 보는 것이 핵심입니다.
 
-### 소화·담음·기본 배합
+### 이기·소화
 
-- [감초](licorice.md) · [생강](fresh-ginger.md) · [대추·대조](jujube-fruit.md) — 완급·구역·중초 조화를 나누어 보기
-- [창출](atractylodes-lancea.md) · [진피](citrus-peel.md) · [반하](pinellia.md) · [복령](poria.md) — 습체·기체·담음·비허의 배합
-- [향부자](cyperus.md) — 소간·이기와 월경 관련 배합
+- [창출](atractylodes-lancea.md) · [진피](citrus-peel.md) · [후박](magnolia-bark.md) — 조습·행기와 복부 팽만의 배합
+- [목향](aucklandia.md) · [사인](amomum.md) · [향부자](cyperus.md) — 이기·화습·소간의 역할 비교
+
+### 화담·지해
+
+- [반하](pinellia.md) · [진피](citrus-peel.md) · [복령](poria.md) — 조습화담·건비의 배합
+- [길경](platycodon.md) · [천패모](fritillaria.md) — 선폐·거담과 청열윤폐의 역할 비교
 
 ### 해표·외감·인후
 
@@ -102,7 +107,7 @@ last_reviewed: '2026-09-05'
 - [방풍](saposhnikovia.md) · [강활](notopterygium.md) — 풍한습과 통증 배합
 - [길경](platycodon.md) — 선폐·인후·거담 배합
 
-→ [상용 본초와 대표 처방을 표로 비교](../herbal-integrated/herbs.md#_10)
+→ [효능별 본초와 대표 처방 보기](../herbal-integrated/herbs.md)
 
 ## 보약을 이해할 때 함께 볼 본초
 
@@ -141,6 +146,10 @@ last_reviewed: '2026-09-05'
 4. **처방 속 역할:** 군·신·좌·사와 배합에 따라 실제 방향이 달라집니다.
 5. **현대 연구:** 성분·전임상 연구와 사람 대상 임상시험을 구분합니다.
 6. **안전과 품질:** 용량·법제·원산지·검사·복용약과 개인 상태를 함께 확인합니다.
+
+### 배합을 돕는 본초
+
+[감초](licorice.md) · [생강](fresh-ginger.md) · [대조](jujube-fruit.md)는 주요 본초와 함께 구성되는 배합의 역할을 확인할 때 참고하세요.
 
 ## 안전하게 활용하려면
 
