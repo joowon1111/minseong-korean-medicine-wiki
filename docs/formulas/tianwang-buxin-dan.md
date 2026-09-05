@@ -25,7 +25,7 @@ last_reviewed: 2026-09-04
 
 | 처방층 | 대표 본초 | 역할 |
 |---|---|---|
-| 자음·청허열 | [생지황](../herbs/fresh-rehmannia.md)·[천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·현삼 | 소모된 음액을 보하고 건조감·허열 단서를 조절 |
+| 자음·청허열 | [생지황](../herbs/fresh-rehmannia.md)·[천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[현삼](../herbs/scrophularia.md) | 소모된 음액을 보하고 건조감·허열 단서를 조절 |
 | 양혈·활혈 | [당귀](../herbs/angelica.md)·[단삼](../herbs/salvia.md) | 혈을 기르고 심혈의 운행을 도움 |
 | 양심안신 | [산조인](../herbs/jujube-seed.md)·[백자인](../herbs/thuja-seed.md)·[원지](../herbs/polygala.md)·복신 | 잠이 얕고 잘 깨며 심계·건망이 동반되는 축을 조절 |
 | 보기·조화 | 인삼·[복령](../herbs/poria.md)·[길경](../herbs/platycodon.md)·[오미자](../herbs/schisandra.md)·[감초](../herbs/licorice.md) | 기를 돕고 처방을 조화하며 수렴·상행 구조를 보완 |

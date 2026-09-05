@@ -27,6 +27,8 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | [연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md)·[산약](../herbs/dioscorea.md) | 보비·건비와 지사 배합 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 | [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/rehmannia-preparata.md) | 자보간신·정혈 보익 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
+| [토사자](../herbs/cuscuta-seed.md)·[구기자](../herbs/cornus-extra.md) | 보신익정·정혈과 수렴 배합 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
+| [육종용](../herbs/cistanche.md)·[당귀](../herbs/angelica.md) | 익정혈과 윤장통변 | [제천전](../formulas/jichuan-jian.md) |
 
 ## 이기·소화 {#_2}
 
@@ -59,6 +61,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md) | 청기분열 | [백호탕](../formulas/baihu-tang.md) |
 | [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md) | 청열해독·소산풍열 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) |
 | [목단피](../herbs/moutan.md)·[치자](../herbs/gardenia.md) | 량혈·청열과 울열 조절 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) |
+| [현삼](../herbs/scrophularia.md)·[생지황](../herbs/rehmannia-root-fresh.md)·[맥문동](../herbs/ophiopogon.md) | 청열·자음과 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 
 ## 활혈·거어 {#_5}
 
@@ -69,6 +72,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [단삼](../herbs/salvia.md) | 활혈거어·통경지통 | [심적환·복방단삼적환](../formulas/simjeok-hwan.md) |
 | [현호색](../herbs/corydalis.md)·[향부자](../herbs/cyperus.md) | 활혈행기·지통 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) · [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
 | [적작약](../herbs/red-peony.md)·[도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md) | 산어·지통 | [당귀수산](../formulas/danggui-susan.md) |
+| [익모초](../herbs/leonurus.md) | 활혈조경·이수 | [천마구등음](../formulas/tianma-gouteng-yin.md) · [익모초 배합과 확인점](../herbs/leonurus.md) |
 
 ## 이수·삼습 {#_6}
 
@@ -105,6 +109,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [형개](../herbs/schizonepeta.md)·[연교](../herbs/forsythia.md)·[길경](../herbs/platycodon.md) | 표·인후·호흡기 배합 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
 | [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인 | [은교산](../formulas/yinqiao-san.md) |
 | [백지](../herbs/angelica-dahurica.md)·[신이](../herbs/magnolia-bud.md) | 거풍·통규와 코·두면부 배합 | [창이자산](../formulas/cangerzi-san.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
+| [만형자](../herbs/vitex-fruit.md) | 소산풍열·청리두목 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 
 ## 온리·산한 {#warming-herbs}
 

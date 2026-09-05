@@ -30,7 +30,7 @@ last_reviewed: 2026-09-04
 | 소풍·통락 | [강활](../herbs/notopterygium.md)·[독활](../herbs/angelica-pubescens.md)·[방풍](../herbs/saposhnikovia.md)·[백지](../herbs/angelica-dahurica.md)·세신 | 머리와 목의 풍한·습사를 흩고 통증 통로를 엶 |
 | 활혈·양혈 | [천궁](../herbs/chuanxiong.md)·[당귀](../herbs/angelica.md) | 오래된 두통의 혈행과 혈분을 조절 |
 | 청상열 | [황금](../herbs/scutellaria.md) | 상부의 울열과 열성 두통 단서를 맑힘 |
-| 청리두목 | 맥문동·만형자·감국 | 두면부의 열감·건조·눈 주위 불편을 함께 다룸 |
+| 청리두목 | 맥문동·[만형자](../herbs/vitex-fruit.md)·감국 | 두면부의 열감·건조·눈 주위 불편을 함께 다룸 |
 | 조화 | [감초](../herbs/licorice.md)·생강 | 여러 발산약의 성질을 조화하고 중초를 보호 |
 
 『방약합편』 계통 기재는 황금 5.625g, 창출·강활·독활·방풍·천궁·당귀·백지·맥문동 각 3.75g, 만형자·감국 각 1.875g, 세신·감초 각 1.125g에 생강을 더하는 구성입니다. 수록본과 제형에 따른 차이는 별도로 확인합니다.
