@@ -30,7 +30,7 @@ last_reviewed: 2026-09-04
 | 보기건비 | [인삼](../herbs/ginseng.md)·[백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[감초](../herbs/licorice.md) | 비위기허와 피로·식욕저하의 바탕을 보완 |
 | 화담강역 | [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md) | 담습·오심·명치 답답함을 정리 |
 | 행기소창 | [목향](../herbs/aucklandia.md)·[사인](../herbs/amomum.md)·[향부자](../herbs/cyperus.md)·[후박](../herbs/magnolia-bark.md) | 식후팽만·트림과 기체를 적극적으로 풀어줌 |
-| 온중화습 | 백두구·익지인·생강·대조 | 중초를 따뜻하게 조화하고 습체를 도움 |
+| 온중화습 | [백두구](../herbs/white-cardamom.md)·[익지인](../herbs/alpinia-oxyphylla.md)·생강·대조 | 중초를 따뜻하게 조화하고 습체를 도움 |
 
 『방약합편』에는 반하·백두구·백복령·백출·진피·향부자·후박 각 3.75g, 감초·목향·사인·익지인·인삼 각 1.875g에 생강 3편·대조 2매를 더하는 구성으로 수록됩니다.
 
