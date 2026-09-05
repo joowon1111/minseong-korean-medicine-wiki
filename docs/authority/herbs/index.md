@@ -84,10 +84,20 @@ last_reviewed: '2026-09-05'
 | 황련·아이비엽 복합추출물 | 한양대구리병원·삼성서울병원·서울성모병원·보라매병원 등 | 급성 기관지염 220명, 7일 비교시험 — [기침·가래 연구](../../conditions/bronchitis-recovery.md#ivy-coptis-trial) · [PMID 38889376](https://pubmed.ncbi.nlm.nih.gov/38889376/) |
 | 7종 생약 복합추출물 HL-301 | 건국대병원·강남세브란스·서울성모병원·고려대구로병원 등 | 급성 기관지염 110명 무작위 배정, 7일 비교시험 — [기관지염 증상 연구](../../conditions/bronchitis-recovery.md#hl301-bronchitis-trial) · [PMID 40859807](https://pubmed.ncbi.nlm.nih.gov/40859807/) |
 | 홍삼오일 RXGIN | 가톨릭대·가톨릭관동대 의대 비뇨의학과 등 | 남성 배뇨 증상 12주 위약 대조, 88명 완료 — [배뇨 증상 연구](../../conditions/prostate-urinary-symptoms.md#red-ginseng-oil-trial) · [PMID 37652660](https://pubmed.ncbi.nlm.nih.gov/37652660/) |
+| 홍삼과 폐경 후 갱년기 증상 | 연세대 의대 강남세브란스병원 산부인과 | 72명·12주 위약 대조 — [갱년기 증상 연구](../../conditions/menopause-herbal.md#red-ginseng-menopause-trial) · [PMID 22027944](https://pubmed.ncbi.nlm.nih.gov/22027944/) |
 
 **관절통 연구 더 보기:** [GCSB-5의 198명·12주 무작위시험과 24주 추적 연구](../../herbal-integrated/formula-for-pain.md#gcsb5-clinical-trials)에서는 효과 비교와 비교적 긴 복용기간의 위장관 안전성을 각각 확인할 수 있습니다.
 
 홍삼, 표준화 추출물 의약품, 개인별 탕약은 성분·용량·제형이 다릅니다. 연구 결과는 시험한 제제와 대상 질환에 맞춰 연결하며, 기관의 참여는 그 기관이 모든 한약의 효과·안전성을 보증한다는 의미는 아닙니다. 개별 성분의 세포·동물실험은 이 표의 사람 대상 연구와 구분합니다.
+
+## 장 건강·대사 건강의 해외 연구 연결
+
+국내 연구 표와 별도로 해외의 **복합 한약 임상시험**과 **분리 성분 연구**를 구분해 연결합니다.
+
+| 분야 | 연구 대상·유형 | 상세 근거 |
+|---|---|---|
+| 과민성장증후군 | 호주에서 시행한 복합 한약·위약 비교시험, *JAMA* 1998 | [장 증상·일상생활 결과](../conditions/irritable-bowel-syndrome.md#jama-herbal-trial) |
+| 콜레스테롤·중성지방 | 베르베린의 소규모 사람 연구와 별도 기전실험, *Nature Medicine* 2004 | [지질 수치 변화와 성분 연구](../../conditions/dyslipidemia.md#berberine-lipid-study) |
 
 ## 처방 구조로 이해하는 대표 본초
 

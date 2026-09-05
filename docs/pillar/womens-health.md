@@ -3,7 +3,7 @@ title: 여성건강 한의학 허브
 description: 월경·난임·시험관·임신·유산 후 회복·산후보약·산후풍·갱년기를 생애주기별로 연결합니다.
 tags: [Pillar, 여성건강, 난임, 시험관, 임신, 유산후조리, 산후보약, 산후풍, 갱년기]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: '2026-09-05'
 ---
 
 # 여성건강 한의학 허브
@@ -37,6 +37,14 @@ last_reviewed: 2026-09-04
 | 난임시술 중임 | [시험관·인공수정 준비](../conditions/assisted-reproduction-support.md) | 난소자극·채취·이식·투약 일정 |
 | 출산·유산 뒤 회복이 더딤 | [산후회복](../conditions/postpartum-recovery.md) · [유산 후 회복](../conditions/miscarriage-recovery.md) | 출혈·빈혈·감염·수유·수면·정서 |
 | 열감·불면·발한 변화 | [갱년기](../conditions/menopause.md) | 월경 변화·수면·기분·골건강·심혈관 위험 |
+
+## 갱년기와 폐경 후 건강 이어 보기
+
+열감·발한·수면·피로 등 현재 불편과 장기적인 대사 건강을 함께 살펴봅니다. 연구는 실제 대상군과 제제에 따라 구분해 연결합니다.
+
+- [갱년기 한약과 홍삼 임상시험](../conditions/menopause-herbal.md#red-ginseng-menopause-trial)
+- [갱년기 대표 처방 비교](../herbal-integrated/formula-for-menopause.md)
+- [대사증후군·혈중지질 기본 수치](../conditions/metabolic-syndrome.md)
 
 ## 한의학적 해석
 
