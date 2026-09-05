@@ -22,7 +22,7 @@ last_reviewed: 2026-09-04
 
 | 배합축 | 대표 본초 | 역할 |
 |---|---|---|
-| 음식적체를 풂 | 산사·신곡·[나복자](../herbs/raphanus-seed.md) | 육류·곡식·전분성 음식의 정체를 소화시키는 축 |
+| 음식적체를 풂 | [산사](../herbs/hawthorn.md)·신곡·[나복자](../herbs/raphanus-seed.md) | 육류·곡식·전분성 음식의 정체를 소화시키는 축 |
 | 담습과 구역을 조절 | [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md) | 오심·담습·복부팽만과 위기의 역상을 함께 다룸 |
 | 울열을 조절 | [연교](../herbs/forsythia.md) | 오래된 식적이 열로 변하는 양상을 보완 |
 

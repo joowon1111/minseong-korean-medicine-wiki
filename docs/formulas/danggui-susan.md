@@ -27,7 +27,7 @@ last_reviewed: 2026-09-04
 
 | 구성축 | 주요 본초 | 처방 안에서 보는 역할 |
 |---|---|---|
-| 활혈거어 | 당귀미·적작약·소목·[홍화](../herbs/safflower.md)·[도인](../herbs/peach-kernel.md) | 외상 뒤 정체된 혈과 멍·종창·고정통을 풀어줌 |
+| 활혈거어 | 당귀미·[적작약](../herbs/red-peony.md)·소목·[홍화](../herbs/safflower.md)·[도인](../herbs/peach-kernel.md) | 외상 뒤 정체된 혈과 멍·종창·고정통을 풀어줌 |
 | 이기지통 | [오약](../herbs/aucklandia.md)·[향부자](../herbs/cyperus.md) | 기의 울체를 풀어 움직일 때의 통증과 당김을 조절 |
 | 온통조화 | [계피](../herbs/cinnamon-bark.md)·[감초](../herbs/licorice.md) | 혈행을 돕고 처방을 조화 |
 
