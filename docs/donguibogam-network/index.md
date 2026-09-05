@@ -12,8 +12,8 @@ last_reviewed: 2026-08-22
 - [내경편](naegyeong.md) — 정·기·신·장부·기혈진액
 - [외형편](oehyeong.md) — 두면·목·흉복·요배·사지 등 신체 부위
 - [잡병편](japbyeong.md) — 내과·외감·허로·부인·소아 등 병증
-- [탕액편](tangaek.md) — 본초·약성·배합·방제
-- [침구편](chimgu.md) — 경락·경혈·자법·구법
+- [탕액편](../classics/donguibogam-tangaek.md) — 본초·약성·배합·방제
+- [침구편](../classics/donguibogam-acupuncture.md) — 경락·경혈·자법·구법
 - [양생·예방](yangsaeng-prevention.md) — 생활·계절·회복
 
 ## 현재 위키에서 읽는 순서

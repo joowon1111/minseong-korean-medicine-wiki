@@ -17,6 +17,6 @@ last_reviewed: 2026-08-22
 ## 임상으로 내려가기
 장부명 하나에서 처방으로 바로 가기보다 **증상 → 팔강 → 기혈진액 → 장부변증 → 치법** 순으로 구체화합니다.
 
-→ [장부 기초](../foundations/zangfu.md)  
+→ [장부 기초](../foundations-integrated/zangfu-qi-blood-fluids.md)<br>
 → [핵심 변증](../diagnostics/patterns/index.md)
 
