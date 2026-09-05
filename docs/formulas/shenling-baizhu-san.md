@@ -24,7 +24,7 @@ last_reviewed: 2026-09-04
 | 처방층 | 대표 본초 | 역할 |
 |---|---|---|
 | 보기건비 | [인삼](../herbs/ginseng.md)·[백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[감초](../herbs/licorice.md) | 사군자탕의 기본 골격으로 비위의 운화를 도움 |
-| 보비지사 | [산약](../herbs/dioscorea.md)·백편두·연자육 | 허약한 소화흡수와 오래된 묽은변을 보완 |
+| 보비지사 | [산약](../herbs/dioscorea.md)·[백편두](../herbs/lablab-seed.md)·[연자육](../herbs/lotus-seed.md) | 허약한 소화흡수와 오래된 묽은변을 보완 |
 | 삼습 | [의이인](../herbs/coix.md) | 수습을 부드럽게 배출해 무거움·묽은변 축을 조절 |
 | 행기화습 | [사인](../herbs/amomum.md) | 보익약의 체기를 줄이고 식욕·창만을 조절 |
 | 선폐상행 | [길경](../herbs/platycodon.md) | 폐기를 열어 처방의 기기 운행과 상행을 도움 |
