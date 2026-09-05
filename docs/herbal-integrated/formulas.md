@@ -50,6 +50,12 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [보양환오탕](../formulas/buyang-huanwu-tang.md) — 기허혈어 + 통락장애
 - [도핵승기탕](../formulas/taohe-chengqi-tang.md) — 하초축혈 + 공하
 
+## 심혈관 임상연구 제제
+
+[심적환](../formulas/simjeok-hwan.md) · [기력강심](../formulas/qiliqiangxin.md) · [통심락](../formulas/tongxinluo.md)
+
+심적환의 국내 제품 정보와 해외 제제의 심장 기능·심부전·심뇌혈관 사건 연구를 연결합니다. 제품별 구성과 표준치료 병용 조건을 확인할 수 있습니다.
+
 ## 외감·호흡
 
 - [삼소음](../formulas/renshen-suyin.md) — 기허 + 외감풍한 + 담
