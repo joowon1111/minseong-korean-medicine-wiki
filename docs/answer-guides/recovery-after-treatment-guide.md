@@ -1,9 +1,11 @@
-﻿---
+---
 title: 수술·큰 치료 후 기력회복은 무엇을 확인해야 하나요?
 description: 수술이나 큰 치료 후 피로·식욕·수면·근력·활동 회복을 평가하고 한약·보약을 고려하는 관점을 설명합니다.
 tags: [수술후회복, 기력회복, 보약, 회복기한약]
 ---
 # 수술·큰 치료 후 기력회복은 무엇을 확인해야 하나요?
+
+수술 후 회복보약의 처방 방향과 시작 시점은 [수술 후 회복 상세 안내](../conditions/postoperative-recovery.md#herbal-care)에서 확인할 수 있습니다. 여기서는 상담 전에 준비할 회복 기록을 살펴봅니다.
 
 ## 핵심 답변
 회복기에는 단순히 '기운이 없다'는 표현보다 **식사량, 체중 변화, 수면, 보행·근력, 통증, 배변, 활동 후 피로와 회복시간**을 함께 봅니다. 수술 종류와 치료 단계, 현재 복용약도 중요합니다.
@@ -18,6 +20,9 @@ tags: [수술후회복, 기력회복, 보약, 회복기한약]
 발열, 수술부위의 악화되는 통증·부종·분비물, 호흡곤란, 흉통, 갑작스러운 한쪽 다리 부종 등은 회복용 보약보다 의료평가가 우선합니다.
 
 ## 더 깊게 보기
+- [수술 후 한약·보약을 검토하는 시점](../conditions/postoperative-recovery.md#starting-treatment)
+- [수술 후 회복 관찰 항목](../conditions/postoperative-recovery.md#recovery-check)
+- [퇴원 후 회복](../conditions/post-hospitalization-recovery.md)
 - [기력회복·허약](../conditions/energy-recovery.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [녹용보약](../conditions/deer-antler-tonic-guide.md)

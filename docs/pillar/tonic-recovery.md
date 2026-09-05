@@ -3,7 +3,7 @@ title: 보익·피로·회복 한의학 허브
 description: 만성피로와 허약, 수술·퇴원·암 치료·골절·산후 회복을 녹용·보익 본초, 처방, 침구치료와 임상근거로 연결합니다.
 tags: [Pillar, 보익, 피로, 회복, 보약]
 status: 검토완료
-last_reviewed: 2026-08-30
+last_reviewed: 2026-09-05
 ---
 
 # 보익·피로·회복 한의학 허브
@@ -12,16 +12,21 @@ last_reviewed: 2026-08-30
 
 나이에 따른 면역 변화와 저등급 염증을 포함한 장기 관리의 공통 축은 [면역·만성염증·질병·노화와 회복 지식망](../immune-allergy/inflammation-pain.md)에서 함께 볼 수 있습니다.
 
+<span id="tonic-keywords"></span>
+
 ## 어떤 회복 상황인가요?
 
 | 상황 | 먼저 볼 문서 | 함께 확인할 것 |
 |---|---|---|
-| 오래 피곤하고 자도 개운하지 않음 | [만성피로](../conditions/chronic-fatigue.md) | 수면·식욕·빈혈·갑상선·감염·활동 후 악화 |
-| 일반 수술 뒤 기력과 식욕이 떨어짐 | [수술 후 회복관리](../conditions/postoperative-recovery.md) | 수술 종류·상처·감염·통증·영양상태 |
+| 오래 피곤하고 자도 개운하지 않음 | [피로보약·기력회복](../conditions/energy-recovery.md) · [만성피로](../conditions/chronic-fatigue.md) | 수면·식욕·빈혈·갑상선·감염·활동 후 악화 |
+| 녹용보약의 복용과 배합이 궁금함 | [녹용보약 안내](../conditions/deer-antler-tonic-guide.md) · [약재·처방 상세](../clinical-guides/deer-antler-tonic-guide.md) | 소화·냉열·기력, 약재 품질·전체 처방 |
+| 부모님의 식사·근력·보행이 줄어듦 | [노인보약](../conditions/elderly-tonic.md) · [노쇠·근감소](../conditions/frailty-sarcopenia.md) | 식사·체중·복용약·생활기능 |
+| 아이의 식욕·성장·피로가 걱정됨 | [성장보약·아이 보약](../conditions/child-parent-tonic-guide.md) · [성장 평가](../conditions/child-growth.md) | 성장곡선·식사·배변·수면 |
+| 일반 수술 뒤 기력과 식욕이 떨어짐 | [수술 후 회복·보약](../conditions/postoperative-recovery.md) | 수술 종류·상처·감염·통증·영양상태 |
 | 퇴원하거나 오래 입원한 뒤 쇠약함 | [퇴원 후 회복](../conditions/post-hospitalization-recovery.md) | 근감소·보행·식사량·수면 |
 | 암 수술·항암치료 뒤 회복이 필요함 | [암 치료·수술 후 회복](../conditions/cancer-treatment-recovery.md) | 치료 단계·혈액검사·오심·말초신경증상 |
 | 골절 뒤 뼈와 근력이 함께 약해짐 | [골절 후 회복](../conditions/fracture-recovery.md) | 유합 상태·부종·가동범위·재활 |
-| 출산 뒤 피로·식욕·수면이 저하됨 | [산후회복](../conditions/postpartum-recovery.md) | 오로·수유·빈혈·골반통·정서상태 |
+| 출산 뒤 피로·식욕·수면이 저하됨 | [산후회복](../conditions/postpartum-recovery.md) · [산후보약](../conditions/postpartum-herbal.md) | 오로·수유·빈혈·골반통·정서상태 |
 
 ## 한의학적 회복 방향
 
