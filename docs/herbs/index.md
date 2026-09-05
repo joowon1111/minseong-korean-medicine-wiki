@@ -3,7 +3,7 @@ title: 본초학
 description: 한약재를 이름, 증상과 치료 목적, 본초군, 유사 약재 비교, 처방 구성, 현대 연구와 안전성으로 찾아보는 본초학 통합 안내입니다.
 tags: [본초학, 한약재, 본초 찾기, 한약재 효능]
 status: 검토완료
-last_reviewed: 2026-08-30
+last_reviewed: '2026-09-05'
 ---
 
 # 본초학
@@ -89,6 +89,20 @@ last_reviewed: 2026-08-30
 - 목단피 — 하초의 허열·어혈을 함께 조절하는 방향
 
 육미지황계 처방에서는 숙지황·산수유·산약의 보익축과 택사·목단피·복령의 조절축이 함께 구성됩니다. 어느 한 약재만 강조하기보다 **보하는 약과 순환·배출을 돕는 약의 균형**을 보는 것이 핵심입니다.
+
+### 소화·담음·기본 배합
+
+- [감초](licorice.md) · [생강](fresh-ginger.md) · [대추·대조](jujube-fruit.md) — 완급·구역·중초 조화를 나누어 보기
+- [창출](atractylodes-lancea.md) · [진피](citrus-peel.md) · [반하](pinellia.md) · [복령](poria.md) — 습체·기체·담음·비허의 배합
+- [향부자](cyperus.md) — 소간·이기와 월경 관련 배합
+
+### 해표·외감·인후
+
+- [계지](cinnamon-twig.md) · [갈근](pueraria.md) — 영위·항배강·해표 배합
+- [방풍](saposhnikovia.md) · [강활](notopterygium.md) — 풍한습과 통증 배합
+- [길경](platycodon.md) — 선폐·인후·거담 배합
+
+→ [상용 본초와 대표 처방을 표로 비교](../herbal-integrated/herbs.md#_10)
 
 ## 보약을 이해할 때 함께 볼 본초
 
