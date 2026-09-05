@@ -69,6 +69,8 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [목단피](../herbs/moutan.md)·[치자](../herbs/gardenia.md) | 량혈·청열과 울열 조절 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) |
 | [현삼](../herbs/scrophularia.md)·[생지황](../herbs/rehmannia-root-fresh.md)·[맥문동](../herbs/ophiopogon.md) | 청열·자음과 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | [지모](../herbs/anemarrhena.md)·[황백](../herbs/phellodendron.md) | 자음양혈 배합 속 허열 조절 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
+| [용담·용담초](../herbs/gentian-root.md)·[치자](../herbs/gardenia.md) | 청열조습·사간담화와 사화제번 | [용담사간탕](../formulas/longdan-xiegan-tang.md) |
+| [인진·인진호](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md) | 청리습열·퇴황과 배합 비교 | [인진의 대표 배합](../herbs/artemisia-capillaris.md) |
 
 ## 활혈·거어 {#_5}
 
@@ -89,6 +91,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [부자](../herbs/aconite.md)·[백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md) | 온양이수 | [진무탕](../formulas/zhenwu-tang.md) |
 | [차전자](../herbs/plantago-seed.md)·목통·활석 | 청열이수통림 | [팔정산](../formulas/bazheng-san.md) |
 | [의이인](../herbs/coix.md)·[백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md) | 건비·삼습 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
+| [인진](../herbs/artemisia-capillaris.md)·[택사](../herbs/alisma.md) | 습열·퇴황과 이수·설열의 차이 | [이수·거습 본초 비교](../herbs/categories/drain-damp.md) |
 
 ## 안신·정신 {#_7}
 
