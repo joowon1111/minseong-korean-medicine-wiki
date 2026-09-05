@@ -97,6 +97,12 @@ last_reviewed: '2026-09-05'
 
 - [지모](anemarrhena.md) — 청열사화·윤조와 실열·허열의 배합 비교
 
+### 청열·습열 {#heat-damp-herbs}
+
+- [치자](gardenia.md) — 사화제번·청열이습과 처방별 배합
+- [용담·용담초](gentian-root.md) — 청열조습·사간담화
+- [인진·인진호](artemisia-capillaris.md) — 청리습열·퇴황과 기원 구분
+
 ### 수분대사·이수
 
 - [택사](alisma.md) — 이수삼습·설열
