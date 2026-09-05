@@ -3,7 +3,7 @@ title: 연구·근거 안내
 description: 질환별 임상근거, 한약·처방, 대표 본초, 침·전침·약침, PMID·DOI와 전통지식·현대근거 통합 지도를 한곳에서 안내합니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 status: 검토완료
-last_reviewed: '2026-09-01'
+last_reviewed: '2026-09-05'
 hide:
   - toc
 ---
@@ -16,6 +16,7 @@ hide:
 | 찾는 내용 | 대표 자료실 |
 |---|---|
 | 질환·증상별 핵심 연구와 진료 시 확인점 | [질환별 임상근거](../authority/conditions/index.md) |
+| 한약 복용과 간수치·간 안전성 연구 | [한약 간 안전성 주요 연구](../herbal-integrated/safety.md#liver-safety-evidence) |
 | 처방별·진료 분야별 한약 임상연구 | [한약·처방 임상근거](../authority/formulas/herbal-formula-evidence-hub.md) |
 | 개별 본초의 기원·성분·사람 연구와 처방 속 역할 | [본초 출처·현대 연구](../authority/herbs/index.md) |
 | 침·전침·약침의 치료 조건과 결과지표 | [침·전침·약침 임상근거](../evidence-integrated/acupuncture-evidence.md) |
