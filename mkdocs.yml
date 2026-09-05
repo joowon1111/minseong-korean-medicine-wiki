@@ -5,7 +5,6 @@ site_author: 민성 한의학 아카이브
 copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
 use_directory_urls: true
 extra_javascript:
-  - javascripts/korean-search-fallback.js
   - assets/korean-search-185.js
 extra_css:
 - assets/extra.css

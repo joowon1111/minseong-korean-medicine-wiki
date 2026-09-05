@@ -37,13 +37,14 @@
           return r.json();
         })
         .then((data) => {
-          docs = Array.isArray(data) ? data : [];
+          docs = Array.isArray(data) ? data.map(prepareDoc) : [];
           return docs;
         })
         .catch((err) => {
           console.error("[Minseong Search 185] index load failed", err);
-          docs = [];
-          return docs;
+          // A temporary failure must not disable search until the next page load.
+          loading = null;
+          return [];
         });
     }
     return loading;
@@ -62,16 +63,19 @@
     return [...terms].filter((x) => x.length >= 1);
   }
 
-  function scoreDoc(doc, raw) {
-    const qn = normalize(raw);
-    const qc = compact(raw);
+  function prepareDoc(doc) {
     const title = normalize(doc.title);
-    const titleC = compact(doc.title);
+    const titleC = title.replace(/\s+/g, "");
     const keys = (doc.keywords || []).map(normalize);
-    const keysC = (doc.keywords || []).map(compact);
+    const keysC = keys.map((key) => key.replace(/\s+/g, ""));
     const text = normalize(doc.text);
-    const textC = compact(doc.text);
-    const terms = queryTerms(raw);
+    const textC = text.replace(/\s+/g, "");
+    return { doc, title, titleC, keys, keysC, text, textC };
+  }
+
+  function scoreDoc(prepared, query) {
+    const { doc, title, titleC, keys, keysC, text, textC } = prepared;
+    const { qn, qc, terms } = query;
 
     let score = Number(doc.boost || 0);
 
@@ -99,8 +103,9 @@
   }
 
   function search(data, raw) {
+    const query = { qn: normalize(raw), qc: compact(raw), terms: queryTerms(raw) };
     return data
-      .map((doc) => ({ doc, score: scoreDoc(doc, raw) }))
+      .map((prepared) => ({ doc: prepared.doc, score: scoreDoc(prepared, query) }))
       .filter((x) => x.score > 0)
       .sort((a, b) => b.score - a.score || a.doc.title.localeCompare(b.doc.title, "ko"))
       .slice(0, RESULT_LIMIT);
@@ -113,6 +118,7 @@
     panel = document.createElement("div");
     panel.id = "ms-ksearch-panel";
     panel.className = "ms-ksearch-panel";
+    panel.hidden = true;
     panel.setAttribute("aria-live", "polite");
     searchRoot.appendChild(panel);
     return panel;
@@ -157,7 +163,7 @@
         <small>${results.length}개 우선 표시</small>
       </div>
       <div class="ms-ksearch-list">${items}</div>
-      <div class="ms-ksearch-foot">환자 표현·제목·태그·본문을 통합 검색합니다. 기본 MkDocs 검색은 보조로 유지됩니다.</div>`;
+      <div class="ms-ksearch-foot">증상 표현·제목·태그·본문에서 검색한 결과입니다.</div>`;
   }
 
   function install() {
@@ -198,7 +204,6 @@
       document$.subscribe(() => setTimeout(install, 0));
     }
 
-    loadIndex();
     return true;
   }
 
