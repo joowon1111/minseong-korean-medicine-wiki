@@ -3,7 +3,7 @@ title: 기능성소화불량
 description: 기능성소화불량을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 소화기, 환자검색]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: '2026-09-05'
 ---
 # 기능성소화불량
 
@@ -35,6 +35,18 @@ last_reviewed: 2026-09-04
 ## 한의치료 연결
 
 내시경 소견만으로 증상의 정도가 결정되지는 않습니다. 식후불편·조기포만·상복부 통증과 스트레스 연동을 보고 한약은 반하사심탕·향사육군자탕·평위산 등 병증별 처방군과 연결합니다.
+
+## 현호색·견우자 추출물의 국내 다기관 임상시험 {#da9701-clinical-trial}
+
+한약재를 원료로 표준화한 의약품도 소화불량 임상연구의 한 분야입니다. **현호색·견우자 추출물 DA-9701(모티리톤)**은 서울성모병원 최명규 연구진과 서울아산·삼성서울·분당서울대·강남세브란스병원 등 **18개 기관**이 참여한 2015년 무작위 이중눈가림 시험에서 평가됐습니다.
+
+기능성소화불량 환자 **464명**을 무작위 배정해 4주간 이토프리드와 비교했습니다. 소화불량 증상점수 개선에서 DA-9701은 비교약보다 열등하지 않았고, 삶의 질 개선과 안전성 양상도 비슷했습니다. 위약이 아닌 기존 치료약과 비교한 연구입니다.
+
+이 결과는 **시험한 복합 추출물 의약품**의 근거입니다. 현호색이나 견우자 하나의 효과, 또는 육군자탕·반하사심탕 등 구성이 다른 처방의 효과와 구분합니다. 실제 치료에서는 식후불편·조기포만·명치통증의 비중과 복용약을 확인합니다.
+
+Choi MG et al. *Randomized, Controlled, Multi-center Trial: Comparing the Safety and Efficacy of DA-9701 and Itopride Hydrochloride in Patients With Functional Dyspepsia.* *Journal of Neurogastroenterology and Motility*, 2015. [PMID 26130637](https://pubmed.ncbi.nlm.nih.gov/26130637/) · [학술지 원문](https://www.jnmjournal.org/journal/view.html?doi=10.5056/jnm14117)
+
+→ [국내 대학병원 한약재·추출물 연구 모아 보기](../authority/herbs/index.md#university-clinical-studies)
 
 ## 치료를 한눈에 보기
 
@@ -72,7 +84,7 @@ last_reviewed: 2026-09-04
     "name": "기능성소화불량"
   },
   "keywords": "기능성소화불량, 식후 더부룩함, 조기포만, 육군자탕, 반하사심탕, 족삼리 ST36, 내관 PC6",
-  "dateModified": "2026-09-04"
+  "dateModified": "2026-09-05"
 }
 </script>
 <!-- MS132_STRUCTURED_DATA_END -->

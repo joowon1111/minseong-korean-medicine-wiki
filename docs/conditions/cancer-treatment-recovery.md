@@ -126,6 +126,18 @@ last_reviewed: '2026-09-05'
 
 따라서 현재는 우차신기환을 일률적인 예방약으로 설명하기보다 감각·통증·보행·낙상위험을 평가하고, 항암제 용량조정 여부는 종양팀과 상의하며 침·운동·통증치료 등 여러 방법을 조합합니다.
 
+## 국내 대학병원의 홍삼·항암치료 중 피로 연구 {#korean-red-ginseng-trial}
+
+2020년 *European Journal of Cancer*에는 분당서울대병원 김진원, 서울대병원 한세원, 고려대 안암병원 김열홍 등 **국내 내과·종양내과 연구진**이 참여한 다기관 무작위 이중눈가림 3상시험이 발표됐습니다.
+
+mFOLFOX-6 항암요법을 받는 대장암 환자 **438명**을 홍삼 하루 2g군과 위약군에 각각 219명씩 배정해 **16주**간 평가했습니다. 전체 분석에서는 피로가 기분·보행에 미치는 영향 등 일부 항목이 개선됐고, 계획대로 치료를 마친 환자 분석에서는 전체 BFI 피로점수도 위약보다 개선됐습니다. 전체 분석과 치료계획 준수군 분석의 결과를 구분해 읽습니다.
+
+이 연구는 **항암치료 중 피로와 일상기능 관리**에 참고할 수 있습니다. 암 축소·재발 예방·생존 연장을 평가한 근거로 사용하지 않습니다. 전체 이상반응 발생은 비슷했지만 호중구감소증은 홍삼군에서 더 많았으므로, 병용 시 항암요법과 혈구검사를 함께 확인합니다.
+
+Kim JW et al. *Korean red ginseng for cancer-related fatigue in colorectal cancer patients with chemotherapy: A randomised phase III trial.* 2020. [PMID 32172198](https://pubmed.ncbi.nlm.nih.gov/32172198/) · [DOI 10.1016/j.ejca.2020.02.018](https://doi.org/10.1016/j.ejca.2020.02.018)
+
+→ [인삼·홍삼 현대 근거](../authority/herbs/ginseng.md#korean-hospital-trials) · [복용약·항암 일정과 한약 안전성](../herbal-integrated/safety.md)
+
 ## 한의학에서는 회복 상태를 어떻게 나누나요?
 
 | 변증 경향 | 함께 나타나는 모습 | 치료 목표 |
@@ -301,7 +313,7 @@ last_reviewed: '2026-09-05'
   "description": "암수술과 항암치료 중·후 피로, 식욕, 소화, 수면, 통증과 말초신경 증상의 한의 보조관리를 안내합니다.",
   "url": "https://wiki.minseong.co.kr/conditions/cancer-treatment-recovery/",
   "inLanguage": "ko-KR",
-  "dateModified": "2026-08-28",
+  "dateModified": "2026-09-05",
   "about": {"@type": "MedicalCondition", "name": "암 치료 후 회복·기력저하"}
 }
 </script>
