@@ -2,7 +2,7 @@
 title: 일반 방제 임상 지도
 tags: [방제학, 일반방제, 임상지도, 처방감별]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: '2026-09-05'
 description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 일반 방제 임상 지도
@@ -31,6 +31,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 
 | 핵심 갈림점 | 처방 |
 |---|---|
+| 과민·흥분·긴장과 수면 불편 | [억간산](../formulas/yigan-san.md) |
 | 담습의 기본형 | [이진탕](../formulas/erchen-tang.md) |
 | 흉협부 담음 + 기체·통증 | [궁하탕](../formulas/gungha-tang.md) |
 | 비허담습 + 현훈·두통 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) |
@@ -76,6 +77,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 
 | 핵심 갈림점 | 처방 |
 |---|---|
+| 복부 냉감·통증·팽만 | [대건중탕](../formulas/dajianzhong-tang.md) |
 | 심하비 + 구역·장명·설사 + 한열착잡 | [반하사심탕](../formulas/banxia-xiexin-tang.md) |
 | 태음 중초허한 + 복통·설사·구토 | [이중탕](../formulas/lizhong-tang.md) |
 | 중초허한 + 허로성 복통·복부 긴장 | [소건중탕](../formulas/xiaojianzhong-tang.md) |
@@ -120,6 +122,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 
 | 핵심 갈림점 | 처방 |
 |---|---|
+| 근육의 급박·경련·쥐 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) |
 | 복합 두통 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | 경항·견배의 풍한담 | [회수산](../formulas/huishou-san.md) |
 | 만성 풍한습비 + 간신기혈허 | [독활기생탕](../formulas/duhuo-jisheng-classic.md) |

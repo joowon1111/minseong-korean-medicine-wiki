@@ -2,7 +2,7 @@
 title: 방제 찾기
 tags: [방제학, 일반방제, 처방탐색, 통합허브]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: '2026-09-05'
 description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 방제 찾기
@@ -10,6 +10,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 처방을 이름순으로 나열하지 않고 **병증·치법·처방군**에서 시작해 상세 처방으로 내려갑니다.
 
 ## 비위·소화
+
+- [대건중탕](../formulas/dajianzhong-tang.md) — 복부 냉감·통증·팽만과 수술 후 장기능 연구
 
 - [삼령백출산](../formulas/shenling-baizhu-san.md) — 비위기허 + 수습 + 만성 묽은변
 - [평위산](../formulas/pingwei-san.md) — 습체·창만
@@ -24,6 +26,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [위령탕](../formulas/weiling-tang.md) — 비위습체 + 수습
 
 ## 담음·현훈·불면
+
+- [억간산](../formulas/yigan-san.md) — 과민·흥분·긴장과 수면·비위 상태
 
 - [이진탕](../formulas/erchen-tang.md) — 담습 기본방
 - [궁하탕](../formulas/gungha-tang.md) — 흉협부 담음 + 기체·통증
@@ -80,6 +84,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [청심연자음](../formulas/qingxin-lianzi-yin.md) — 기음부족 + 심화·배뇨불편
 
 ## 통증·비증·두통
+
+- [작약감초탕](../formulas/shaoyao-gancao-tang.md) — 근육의 급박·경련·쥐
 
 - [오적산](../formulas/wujisan.md) — 한습 + 기혈담식
 - [독활기생탕](../formulas/duhuo-jisheng-classic.md) — 만성 비증 + 간신기혈허
