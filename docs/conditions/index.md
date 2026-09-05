@@ -94,6 +94,8 @@ last_reviewed: 2026-09-05
 - [만성콩팥병·크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
 - [당뇨병성 콩팥병·미세알부민뇨](diabetic-kidney-disease.md)
 
+녹용보약·피로보약·노인보약·성장보약·수술 후 회복보약은 [보약·회복 상황별 안내](../pillar/tonic-recovery.md#tonic-keywords)에서 관련 증상과 처방 자료로 이어집니다.
+
 ## 어디서부터 찾을까요?
 
 ### 1. 증상으로 시작하기
@@ -325,9 +327,10 @@ last_reviewed: 2026-09-05
 
 ### 소아·성장
 
+- [성장기·아이 키 성장](child-growth.md)
 - [소아 멀미·차만 타면 울렁거림](child-motion-sickness.md)
 - [아이 식은땀·잘 때 땀](child-night-sweats.md)
-- [아이 보약·소아 한약 언제 먹나요](child-parent-tonic-guide.md)
+- [성장보약·아이 보약·소아 한약](child-parent-tonic-guide.md)
 
 ### 여성·산후·갱년기
 
