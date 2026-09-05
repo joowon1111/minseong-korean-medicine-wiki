@@ -52,6 +52,9 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [자소자·소자](../herbs/perilla-fruit.md)·[반하](../herbs/pinellia.md)·[후박](../herbs/magnolia-bark.md) | 강기거담 | [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
 | [길경](../herbs/platycodon.md) | 선폐·이인·거담 | [삼소음](../formulas/renshen-suyin.md) |
 | [천패모](../herbs/fritillaria.md) | 청열윤폐·화담지해 | [천패모의 효능과 배합](../herbs/fritillaria.md) |
+| [상엽](../herbs/mulberry-leaf.md) | 소산풍열·청폐윤조 | [상국음](../formulas/sangju-yin.md) |
+| [상백피](../herbs/mulberry-root-bark.md) | 사폐평천·이수 | [정천탕](../formulas/dingchuan-tang.md) |
+| [전호](../herbs/peucedanum-root.md) | 소산풍열·강기화담 | [삼소음](../formulas/renshen-suyin.md) · [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
 
 ## 청열·해독 {#_4}
 
@@ -110,6 +113,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인 | [은교산](../formulas/yinqiao-san.md) |
 | [백지](../herbs/angelica-dahurica.md)·[신이](../herbs/magnolia-bud.md) | 거풍·통규와 코·두면부 배합 | [창이자산](../formulas/cangerzi-san.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | [만형자](../herbs/vitex-fruit.md) | 소산풍열·청리두목 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
+| [상엽](../herbs/mulberry-leaf.md)·[박하](../herbs/mint.md) | 풍열과 기침을 함께 보는 해표 배합 | [상국음](../formulas/sangju-yin.md) |
 
 ## 온리·산한 {#warming-herbs}
 

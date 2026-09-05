@@ -28,7 +28,7 @@ last_reviewed: 2026-09-04
 | 구성축 | 주요 본초 | 처방 안에서 보는 역할 |
 |---|---|---|
 | 익기부정 | [인삼](../herbs/ginseng.md) | 외감을 푸는 동안 기허와 피로, 식욕저하를 받침 |
-| 해표선폐 | [자소엽](../herbs/perilla-leaf.md)·[갈근](../herbs/pueraria.md)·전호 | 표를 풀고 폐기의 선강을 회복해 기침을 다룸 |
+| 해표선폐 | [자소엽](../herbs/perilla-leaf.md)·[갈근](../herbs/pueraria.md)·[전호](../herbs/peucedanum-root.md) | 표를 풀고 폐기의 선강을 회복해 기침을 다룸 |
 | 화담강역 | [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md) | 가래·오심·흉민과 중초의 담습을 정리 |
 | 이기이인 | [길경](../herbs/platycodon.md)·[지각](../herbs/citrus-immature.md)·목향 | 위아래의 기기를 소통해 목·가슴과 복부 답답함을 풀어줌 |
 | 조화 | [감초](../herbs/licorice.md)·[생강](../herbs/fresh-ginger.md)·대조 | 비위를 보호하고 해표·화담·보기의 방향을 조화 |
