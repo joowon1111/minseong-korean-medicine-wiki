@@ -30,7 +30,16 @@ last_reviewed: '2026-09-05'
 
 → [황련해독탕](../../formulas/huanglian-jiedu-tang.md) · [고혈압 한약 지도](hypertension-herbal-map.md) · [천마구등음](tianma-gouteng-yin.md) · [혈부축어탕](xuefu-zhuyu-tang-hypertension.md)
 
+## 당뇨병전단계에서의 진행 예방 {#diabetes-prevention}
+
+2024년 *JAMA Internal Medicine*의 FOCUS 연구는 내당능장애와 여러 대사 이상이 있는 성인 885명을 분석했습니다. 생활습관 관리에 진리다를 더한 군은 위약 병행군보다 당뇨병 진행이 적었습니다(중앙값 2.20년, 27.83% 대 42.66%, 정정된 HR 0.59). 정상 혈당인 모든 사람에게 예방 복용을 권하는 연구는 아닙니다. [PMID 38829648](https://pubmed.ncbi.nlm.nih.gov/38829648/)
+
+→ [진리다의 구성·FOCUS·메트포르민 병용시험](../../formulas/jinlida.md)
+
 ## 제2형 당뇨병
+
+- [갈근금련탕](../../formulas/gegen-qinlian-tang.md): 2015년 187명 시험과 2024년 가감방 시험에서 혈당·HbA1c와 장내미생물을 함께 평가했습니다. 원방과 일곱 약재 가감방을 구분합니다. [PMID 25279787](https://pubmed.ncbi.nlm.nih.gov/25279787/) · [PMID 38495337](https://pubmed.ncbi.nlm.nih.gov/38495337/)
+- [진리다](../../formulas/jinlida.md): 2015년 메트포르민 병용시험 186명 분석에서 12주 HbA1c 감소량은 0.92%p 대 0.53%p였습니다. [PMID 26098833](https://pubmed.ncbi.nlm.nih.gov/26098833/)
 
 - 대사질환 거습법 한약 122 RCT·11,252명에서 공복혈당·식후혈당·혈압·BMI 등을 평가했습니다. PMID `41552833`
 - 황련해독탕 40개 연구·3,934명 체계적 문헌고찰·메타분석, [PMID 38286111](https://pubmed.ncbi.nlm.nih.gov/38286111/)

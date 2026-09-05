@@ -55,7 +55,7 @@ last_reviewed: '2026-09-05'
 - [육울탕](yukwul-tang.md) · [월국환](yueju-wan.md) · [시호소간산](chaihu-shugan-san.md) · [반하후박탕](banxia-houpo-tang.md)
 
 ### 윤장·변비
-- [제천전](jichuan-jian.md) · [마자인환 현대근거 카드](../authority/formulas/mazi-ren-wan.md) · [변비 임상 안내](../conditions/constipation.md)
+- [제천전](jichuan-jian.md) · [마자인환](mazi-ren-wan.md) · [변비 임상 안내](../conditions/constipation.md)
 
 ### 통증·근골격
 
@@ -66,11 +66,13 @@ last_reviewed: '2026-09-05'
 
 - [억간산](yigan-san.md) — 처방 구조와 치매 행동심리증상 연구
 
-### 심혈관 임상연구 제제
+### 심혈관·대사 임상연구 제제 {#_13}
 
 - [심적환](simjeok-hwan.md) — 국내 제품과 복방단삼적환 연구
 - [기력강심](qiliqiangxin.md) — 심부전 입원·심혈관 사망 연구
 - [통심락](tongxinluo.md) — 심근경색 사건·뇌졸중 후 기능 연구
+- [진리다](jinlida.md) — 내당능장애의 당뇨병 진행·메트포르민 병용 연구
+- [갈근금련탕](gegen-qinlian-tang.md) — 장위 습열의 처방 구조와 혈당·장내미생물 연구
 
 ### 처방 구조로 더 깊게 보기
 - [사군자탕 계열](../formula-architecture/sijunzi-family.md) · [사물탕·기혈쌍보 계열](../formula-architecture/siwu-qi-blood-family.md)
