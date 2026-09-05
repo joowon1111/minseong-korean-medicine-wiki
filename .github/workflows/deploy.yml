@@ -36,6 +36,13 @@ jobs:
       - name: Test link and anchor audit
         run: python -m unittest discover -s tools -p test_audit_internal_links.py
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Test Korean search loading and results
+        run: node --test tools/test_korean_search.cjs
+
       - name: Build MkDocs site
         run: mkdocs build
 
