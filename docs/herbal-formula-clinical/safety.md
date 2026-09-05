@@ -8,7 +8,7 @@ description: 본초·방제 안전·금기·상호작용 — 민성 한의학 �
 # 본초·방제 안전·금기·상호작용
 본초·방제는 체질과 병증뿐 아니라 **용량·복용기간·기저질환·임신·수유·연령·동시 복용약**을 함께 고려합니다.
 
-[한약 간 안전성의 주요 연구와 복용 안내](../herbal-integrated/safety.md#liver-safety-evidence)에서 국내 임상자료와 출처를 확인할 수 있습니다.
+[한약의 간·신장·양약 병용 안전성 연구](../herbal-integrated/safety.md#safety-evidence-guide)에서 국내 임상자료와 출처를 확인할 수 있습니다. 진료 시 활용할 [복용목록 정리표](../conditions/multi-supplement-review.md#medication-list)도 함께 연결합니다.
 
 ## 확인할 것
 - 알레르기·과민반응
