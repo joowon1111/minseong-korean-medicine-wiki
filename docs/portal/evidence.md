@@ -19,7 +19,7 @@ hide:
 | 한약의 간·신장 기능과 양약 병용 안전성 | [한약 안전성 연구 한눈에 보기](../herbal-integrated/safety.md#safety-evidence-guide) |
 | 처방별·진료 분야별 한약 임상연구 | [한약·처방 임상근거](../authority/formulas/herbal-formula-evidence-hub.md) |
 | 개별 본초의 기원·성분·사람 연구와 처방 속 역할 | [본초 출처·현대 연구](../authority/herbs/index.md) |
-| 국내 대학병원 연구진의 한약재·추출물 임상시험 | [연구진·제제별 연구 모아 보기](../authority/herbs/index.md#university-clinical-studies) |
+| 국내 대학병원 연구진의 한약재·추출물 임상시험 | [연구진·제제별 연구 모아 보기](../authority/herbs/index.md#university-clinical-studies) — 홍삼·소화기·관절통·기관지염·배뇨 증상 |
 | 침·전침·약침의 치료 조건과 결과지표 | [침·전침·약침 임상근거](../evidence-integrated/acupuncture-evidence.md) |
 | RCT·메타분석·관찰연구·전임상 연구의 차이 | [연구 유형 한눈에 보기](../evidence-guide/index.md) |
 | 전통 병증·치법과 현대 연구의 연결 | [전통→현대 통합 지도](../evidence-integrated/index.md) |
