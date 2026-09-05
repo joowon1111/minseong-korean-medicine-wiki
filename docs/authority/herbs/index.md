@@ -3,7 +3,7 @@ title: 본초 출처·현대 연구 허브
 description: 녹용·인삼·황기·당귀·백작약·천궁·산조인·맥문동·산수유·산약·택사·목단피의 전통적 역할, 성분 연구, 사람 대상 근거와 관련 처방을 연결합니다.
 tags: [본초, 한약재, 현대연구, 임상근거, PMID, DOI]
 status: 검토완료
-last_reviewed: 2026-09-01
+last_reviewed: '2026-09-05'
 ---
 
 # 본초 출처·현대 연구 허브
@@ -67,6 +67,20 @@ last_reviewed: 2026-09-01
 | [녹용](velvet-antler.md) | 성분·기전·활용 영역을 정리한 종합 리뷰 — [PMID 42046775](https://pubmed.ncbi.nlm.nih.gov/42046775/) | 사람 대상 연구와 전임상·성분 연구를 분리해 해석 |
 
 대부분의 한약 임상연구는 개별 본초보다 **완성 처방**을 평가합니다. 임상효과를 찾을 때는 [한약·처방 현대 임상근거 허브](../formulas/herbal-formula-evidence-hub.md)에서 처방명, 대상 질환, 용량·제형과 복용기간을 함께 확인하는 것이 더 정확합니다.
+
+## 국내 대학병원 연구진이 평가한 한약재·추출물 {#university-clinical-studies}
+
+국내 의과대학의 가정의학과·소화기내과·종양내과·정형외과 연구진도 한약재와 복합 추출물을 사람 대상 임상시험으로 평가했습니다. 아래 표는 **논문 발표 당시 연구진 소속과 실제 시험한 제제**를 기준으로 정리했습니다.
+
+| 연구 대상 | 참여 연구진 소속의 예 | 사람 대상 연구와 상세 설명 |
+|---|---|---|
+| 홍삼의 안전성 | 서울대병원·세브란스·삼성서울병원·서울성모병원 등 가정의학과 | 1,000명 무작위 배정, 24주 위약 대조 — [안전성 결과](../../herbal-integrated/safety.md#red-ginseng-safety) · [PMID 30337818](https://pubmed.ncbi.nlm.nih.gov/30337818/) |
+| 홍삼과 항암치료 중 피로 | 분당서울대병원·서울대병원·고려대 안암병원 등 내과·종양내과 | 대장암 환자 438명, 16주 3상시험 — [피로·활동 결과](../../conditions/cancer-treatment-recovery.md#korean-red-ginseng-trial) · [PMID 32172198](https://pubmed.ncbi.nlm.nih.gov/32172198/) |
+| 현호색·견우자 추출물 DA-9701 | 서울성모·서울아산·삼성서울·분당서울대병원 등 18개 기관 | 기능성소화불량 464명, 4주 비교시험 — [소화불량 연구](../../conditions/functional-dyspepsia.md#da9701-clinical-trial) · [PMID 26130637](https://pubmed.ncbi.nlm.nih.gov/26130637/) |
+| 애엽 추출물 DA-9601 | 인제대·울산대·전남대·가톨릭대 소화기내과 연구진 등 | 미란성 위염 512명, 2주 비교시험 — [위점막 회복 연구](../../conditions/gastritis-symptoms.md#da9601-clinical-trial) · [PMID 15285023](https://pubmed.ncbi.nlm.nih.gov/15285023/) |
+| 복합 생약 추출물 SKI306X | 중앙대 정형외과 연구진 등 | 무릎 골관절염 249명, 4주 비교시험 — [통증·복용편의 연구](../../herbal-integrated/formula-for-pain.md#ski306x-clinical-trial) · [PMID 15315266](https://pubmed.ncbi.nlm.nih.gov/15315266/) |
+
+홍삼, 표준화 추출물 의약품, 개인별 탕약은 성분·용량·제형이 다릅니다. 연구 결과는 시험한 제제와 대상 질환에 맞춰 연결하며, 기관의 참여는 그 기관이 모든 한약의 효과·안전성을 보증한다는 의미는 아닙니다. 개별 성분의 세포·동물실험은 이 표의 사람 대상 연구와 구분합니다.
 
 ## 처방 구조로 이해하는 대표 본초
 

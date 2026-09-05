@@ -13,12 +13,27 @@ last_reviewed: '2026-09-05'
 
 | 궁금한 내용 | 바로 보기 |
 |---|---|
+| 국내 대학병원에서 평가한 홍삼 안전성 | [1,000명 무작위 배정·24주 연구](#red-ginseng-safety) |
 | 한약 복용과 간수치 변화 | [간 안전성 연구 3편](#liver-safety-evidence) |
 | 크레아티닌·eGFR과 신장기능 | [6개 무작위시험 자료 분석](#renal-safety-evidence) |
 | 여러 양약을 먹을 때 한약 병용 | [뇌졸중 환자 병용 연구](#combination-safety-evidence) |
 | 진료 전에 준비할 약·영양제 목록 | [복용목록 정리 방법](../conditions/multi-supplement-review.md#medication-list) |
 
 간·신장 검사에서 확인한 결과와 실제 병용약을 함께 보면, 환자 상태에 맞는 처방과 추적 계획을 세우는 데 도움이 됩니다.
+
+## 국내 대학병원 홍삼 안전성 임상시험 {#red-ginseng-safety}
+
+2018년 *Journal of Ginseng Research*에는 **서울대병원·세브란스·삼성서울병원·서울성모병원 등 12개 기관 가정의학과 연구진**이 참여한 홍삼 안전성 연구가 발표됐습니다. 건강한 성인 1,000명을 무작위 배정해 홍삼 하루 2g 또는 위약을 24주간 복용하도록 했습니다.
+
+| 평가 항목 | 홍삼군 | 위약군 | 해석 |
+|---|---|---|---|
+| 이상반응 경험 비율 | 39.2% | 42.0% | 유의한 차이 없음 |
+| 약물 관련 이상반응 비율 | 12.0% | 11.4% | 유의한 차이 없음 |
+| 검사·활력징후 | 위약 대비 유의한 이상 변화 없음 | 비교 기준 | 연구 조건에서 양호한 안전성·내약성을 뒷받침 |
+
+이는 **건강한 성인의 해당 홍삼 제품·용량·24주 복용 조건**에 대한 직접 비교 자료입니다. 간·신장질환 환자, 항암치료 환자와 다른 탕약 전체의 안전성은 각각의 연구와 진료정보로 판단합니다. 인삼·홍삼의 피로 관련 연구는 [인삼 근거 카드](../authority/herbs/ginseng.md)에서 이어서 볼 수 있습니다. 연구는 한국인삼공사의 지원을 받았습니다.
+
+Song SW et al. *Safety and tolerability of Korean Red Ginseng in healthy adults: a multicenter, double-blind, randomized, placebo-controlled trial.* 2018. [PMID 30337818](https://pubmed.ncbi.nlm.nih.gov/30337818/) · [DOI 10.1016/j.jgr.2018.07.002](https://doi.org/10.1016/j.jgr.2018.07.002)
 
 ## 복용 전에 알려야 할 내용
 

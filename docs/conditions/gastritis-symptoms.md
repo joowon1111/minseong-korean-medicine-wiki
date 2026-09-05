@@ -3,7 +3,7 @@ title: 위염·속쓰림·명치통증
 description: 위염·속쓰림·명치통증을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 소화기, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: '2026-09-05'
 ---
 # 위염·속쓰림·명치통증
 
@@ -34,6 +34,18 @@ last_reviewed: 2026-08-21
 ## 한의치료 연결
 
 위염이라는 진단명과 실제 증상을 분리해서 봅니다. 한약은 한열·허실·위기상역을 구분하고 침구는 중완·내관·족삼리 등과 연결합니다.
+
+## 애엽 추출물의 위점막 회복 임상연구 {#da9601-clinical-trial}
+
+**애엽 유래 추출물 DA-9601(스티렌)**은 인제대·울산대·전남대·가톨릭대 소화기내과 연구진 등이 참여한 국내 다기관 시험에서 평가됐습니다. 2004년 *World Journal of Gastroenterology* 연구는 미란성 위염 환자 **512명**에서 2주간 DA-9601 두 용량군과 비교약 세트락세이트의 결과를 확인했습니다.
+
+전체 분석에서 내시경상 미란 소실률은 DA-9601 두 군이 **52.2%·51.4%**, 비교약군이 **35.0%**로 추출물군에서 더 높았습니다. 증상 완화율은 군 간 유의한 차이가 없었습니다. 즉, **내시경상 위점막 회복을 보여준 결과와 환자가 느끼는 속쓰림 개선을 구분**해서 봅니다.
+
+연구 기간 중 중대한 이상반응은 보고되지 않았고 전체 이상반응에서 군 간 유의한 차이는 없었습니다. 일부 간효소 상승 등이 기록됐으므로 ‘부작용이 전혀 없다’는 의미로 사용하지 않습니다. 표준화 추출물의 결과를 쑥차·자가조제 약재나 다른 탕약에 그대로 적용하지 않습니다.
+
+Seol SY et al. *DA-9601 for erosive gastritis: Results of a double-blind placebo-controlled phase III clinical trial.* 2004. 논문 제목에 placebo-controlled가 포함되지만 실제 비교군은 세트락세이트군입니다. [PMID 15285023](https://pubmed.ncbi.nlm.nih.gov/15285023/) · [학술지 원문](https://www.wjgnet.com/1007-9327/full/v10/i16/2379.htm)
+
+→ [기능성소화불량과 추출물 연구](functional-dyspepsia.md#da9701-clinical-trial) · [본초 현대 연구 허브](../authority/herbs/index.md#university-clinical-studies)
 
 ## 치료를 한눈에 보기
 

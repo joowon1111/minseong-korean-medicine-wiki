@@ -3,7 +3,7 @@ title: 근골격 통증 한약 처방 찾기
 description: 근골격 통증을 외상·어혈·한습·풍한습·근경련·허손으로 나누어 다양한 한약 처방군과 현대 천연물 유래 의약품 연구까지 연결합니다.
 tags: [한약, 방제, 처방, 환자검색, 맞춤한약, 통증, 천연물의약품]
 status: 검토완료
-last_reviewed: 2026-09-02
+last_reviewed: '2026-09-05'
 ---
 # 근골격 통증 한약 처방 찾기
 
@@ -44,6 +44,18 @@ last_reviewed: 2026-09-02
 - [SKI306X 골관절염 임상시험, PMID 11789591](https://pubmed.ncbi.nlm.nih.gov/11789591/)
 - [GCSB-5와 celecoxib 비교 무작위시험, PMID 23954277](https://pubmed.ncbi.nlm.nih.gov/23954277/)
 - [근골격 통증 처방 임상 지식망](../formulas/categories/wind-damp-musculoskeletal.md)
+
+### SKI306X와 기존 소염진통제를 비교한 연구 {#ski306x-clinical-trial}
+
+중앙대 **정형외과 연구진 등**이 참여한 2004년 *American Journal of Chinese Medicine* 다기관 무작위 이중눈가림 시험은 무릎 골관절염 환자 **249명**에서 복합 생약 추출물 SKI306X와 디클로페낙 서방제를 **4주**간 비교했습니다.
+
+연구진은 통증점수와 전반적 만족도에서 두 군의 효과가 비슷했다고 보고했습니다. 속쓰림 발생은 **SKI306X 4.0%, 디클로페낙 13.7%**로 추출물군에서 더 적었습니다. 통증 개선과 함께 복용 중 위장 불편을 비교했다는 점에서 참고할 수 있습니다.
+
+SKI306X는 위령선·괄루근·하고초를 바탕으로 한 표준화 복합 추출물입니다. 이 시험은 해당 제품의 단기 증상 개선 자료이며 연골 재생이나 모든 통증 처방의 장기 안전성을 입증한 연구는 아닙니다. 기존 2001년 위약 대조시험과는 별도 시험입니다.
+
+*A four-week, randomized, double-blind trial of the efficacy and safety of SKI306X: a herbal anti-arthritic agent versus diclofenac in osteoarthritis of the knee.* 2004. [PMID 15315266](https://pubmed.ncbi.nlm.nih.gov/15315266/) · [DOI 10.1142/S0192415X04001941](https://doi.org/10.1142/S0192415X04001941)
+
+→ [국내 대학병원 한약재·추출물 연구](../authority/herbs/index.md#university-clinical-studies) · [본초·방제 복용 안전성](safety.md)
 
 ## 지식망 연결
 
