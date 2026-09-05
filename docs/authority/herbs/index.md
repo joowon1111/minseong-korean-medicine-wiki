@@ -80,6 +80,8 @@ last_reviewed: '2026-09-05'
 | 애엽 추출물 DA-9601 | 인제대·울산대·전남대·가톨릭대 소화기내과 연구진 등 | 미란성 위염 512명, 2주 비교시험 — [위점막 회복 연구](../../conditions/gastritis-symptoms.md#da9601-clinical-trial) · [PMID 15285023](https://pubmed.ncbi.nlm.nih.gov/15285023/) |
 | 복합 생약 추출물 SKI306X | 중앙대 정형외과 연구진 등 | 무릎 골관절염 249명, 4주 비교시험 — [통증·복용편의 연구](../../herbal-integrated/formula-for-pain.md#ski306x-clinical-trial) · [PMID 15315266](https://pubmed.ncbi.nlm.nih.gov/15315266/) |
 
+**관절통 연구 더 보기:** [GCSB-5의 198명·12주 무작위시험과 24주 추적 연구](../../herbal-integrated/formula-for-pain.md#gcsb5-clinical-trials)에서는 효과 비교와 비교적 긴 복용기간의 위장관 안전성을 각각 확인할 수 있습니다.
+
 홍삼, 표준화 추출물 의약품, 개인별 탕약은 성분·용량·제형이 다릅니다. 연구 결과는 시험한 제제와 대상 질환에 맞춰 연결하며, 기관의 참여는 그 기관이 모든 한약의 효과·안전성을 보증한다는 의미는 아닙니다. 개별 성분의 세포·동물실험은 이 표의 사람 대상 연구와 구분합니다.
 
 ## 처방 구조로 이해하는 대표 본초
