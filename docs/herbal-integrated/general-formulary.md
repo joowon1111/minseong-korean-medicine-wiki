@@ -56,6 +56,12 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 기·혈·담·화·습·식이 겹친 복합 울체 | [육울탕](../formulas/yukwul-tang.md) |
 | 울체를 풀되 간결한 기본 구조가 필요할 때 | [월국환](../formulas/yueju-wan.md) |
 
+## 심혈관 임상연구 제제
+
+[심적환](../formulas/simjeok-hwan.md) · [기력강심](../formulas/qiliqiangxin.md) · [통심락](../formulas/tongxinluo.md)
+
+심적환의 국내 제품 정보와 해외 제제의 심장 기능·심부전·심뇌혈관 사건 연구를 연결합니다. 제품별 구성과 표준치료 병용 조건을 확인할 수 있습니다.
+
 ## 외감·호흡·청열
 
 | 핵심 갈림점 | 처방 |
