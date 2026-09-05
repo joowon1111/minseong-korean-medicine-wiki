@@ -3,7 +3,7 @@ title: 여성건강 한의학 허브
 description: 월경·난임·시험관·임신·유산 후 회복·산후보약·산후풍·갱년기를 생애주기별로 연결합니다.
 tags: [Pillar, 여성건강, 난임, 시험관, 임신, 유산후조리, 산후보약, 산후풍, 갱년기]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-05
 ---
 
 # 여성건강 한의학 허브
@@ -20,7 +20,8 @@ last_reviewed: '2026-09-05'
 | 시험관 준비·인공수정·착상보약·고령임신 | [시험관·인공수정·착상 준비](../conditions/assisted-reproduction-support.md) |
 | 임신한약·임신 중 한의진료 | [임신 중 한약](../conditions/pregnancy-herbal-care.md) |
 | 유산후조리한약·다음 임신 준비 | [유산 후 회복](../conditions/miscarriage-recovery.md) |
-| 산후보약·산후풍·제왕절개 회복 | [산후회복](../conditions/postpartum-recovery.md) |
+| 산후보약·수유 중 한약·처방 선택 | [출산 후 한약·산후보약](../conditions/postpartum-herbal.md) |
+| 산후풍·피로·제왕절개·생활관리 | [산후회복](../conditions/postpartum-recovery.md) |
 | 임신준비 대표 조경 처방 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) · [육린주](../formulas/yulin-zhu.md) · [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) |
 | 산전 안태 대표 처방 | [수태환](../formulas/shoutai-wan.md) · [태산반석산](../formulas/taishan-panshi-san.md) · [교애탕](../formulas/jiaoai-tang.md) |
 | 생리통·월경선기·대하·출혈 대표 처방 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) · [청경사물탕](../formulas/qingjing-siwu-tang.md) · [완대탕](../formulas/wandai-tang.md) · [교애탕](../formulas/jiaoai-tang.md) |

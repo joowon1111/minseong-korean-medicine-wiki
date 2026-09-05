@@ -1,9 +1,9 @@
-﻿---
+---
 title: 산후피로 + 관절·허리통증
 description: 환자가 두 가지 이상 증상을 함께 검색할 때 관련 질환·한약·침구 자료로 연결하는 통합 페이지입니다.
 tags: [복합증상, 환자검색, 한약, 침구]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-05
 ---
 # 산후피로 + 관절·허리통증
 
@@ -23,8 +23,8 @@ last_reviewed: 2026-08-21
 
 ## 관련 페이지 바로가기
 
-- [postpartum recovery](../conditions/postpartum-recovery.md)
-- [postpartum herbal](../conditions/postpartum-herbal.md)
+- [산후회복 — 피로·관절통의 원인과 생활관리](../conditions/postpartum-recovery.md#symptoms)
+- [산후보약 — 기력·통증·수면에 따른 처방 선택](../conditions/postpartum-herbal.md#formula-selection)
 
 ## 한의치료 연결
 
