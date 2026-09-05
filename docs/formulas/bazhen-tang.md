@@ -3,7 +3,7 @@ title: 팔물탕(八物湯)
 description: 사군자탕과 사물탕을 결합한 기혈쌍보 대표 처방의 구성·계보·임상 감별을 정리합니다.
 tags: [방제학, 팔물탕, 기혈쌍보, 보익]
 status: 검토완료
-last_reviewed: '2026-09-04'
+last_reviewed: 2026-09-05
 ---
 # 팔물탕(八物湯)
 
@@ -61,6 +61,7 @@ last_reviewed: '2026-09-04'
 
 ## 관련 문서
 
+- [산후보약에서 팔물탕과 다른 처방 비교](../conditions/postpartum-herbal.md#formula-selection)
 - [보익·피로·회복 한의학 허브](../pillar/tonic-recovery.md)
 - [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
 - [사물탕·기혈쌍보 계열](../formula-architecture/siwu-qi-blood-family.md)

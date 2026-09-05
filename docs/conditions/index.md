@@ -8,7 +8,7 @@ tags:
 - 한약
 - 현대근거
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-05
 ---
 
 # 질환별 보기
@@ -84,7 +84,8 @@ last_reviewed: '2026-08-29'
 - [월경불순·생리불순](irregular-menstruation.md)
 - [다낭성난소증후군](polycystic-ovary-syndrome.md)
 - [갱년기](menopause.md)
-- [산후회복](postpartum-recovery.md)
+- [산후회복 — 회복 단계·산후풍·생활관리](postpartum-recovery.md)
+- [출산 후 한약·산후보약 — 복용 시점·처방·수유](postpartum-herbal.md)
 
 ### 검사·대사·신장
 
