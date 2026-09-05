@@ -3,7 +3,7 @@ title: 소화기 한약 현대 임상근거
 description: 기능성소화불량·과민성장증후군·기능성변비의 한약 처방 근거와 대표 PMID를 한곳에 연결합니다.
 tags: [한약, 소화기, 기능성소화불량, 과민성장증후군, 변비, 임상근거]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: '2026-09-05'
 ---
 # 소화기 한약 현대 임상근거
 
@@ -32,7 +32,8 @@ last_reviewed: 2026-09-04
 ## 기능성변비
 
 - 한약 치료 97개 연구·8,693명 메타분석, PMID `35801027`
-- 마자인환은 변비 임상문헌에서 반복적으로 연구된 대표 고전처방입니다. PMID `27347002`
+- [마자인환](../../formulas/mazi-ren-wan.md): 291명 위약·센나 대조시험에서 8주 배변반응과 16주 추적결과를 평가했습니다. [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/)
+- 앞선 마자인환 위약대조 단계는 120명이며, 용량 탐색 96명은 별도입니다. [PMID 21045817](https://pubmed.ncbi.nlm.nih.gov/21045817/)
 - 보중익기탕 가미방 25 RCT·2,089명 메타분석, PMID `29552087`
 
 → [기능성변비 처방 지도](functional-constipation-herbal-map.md) · [기능성변비](../conditions/functional-constipation.md)

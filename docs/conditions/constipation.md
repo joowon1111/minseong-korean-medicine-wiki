@@ -36,7 +36,7 @@ last_reviewed: 2026-09-04
 
 | 임상 갈림점 | 치료 방향 | 대표 처방축 |
 |---|---|---|
-| 단단하고 건조한 변, 열감·갈증, 장조·열결 | 윤장·청열 | [마자인환 현대근거 카드](../authority/formulas/mazi-ren-wan.md) |
+| 단단하고 건조한 변, 열감·갈증, 장조·열결 | 윤장·청열 | [마자인환](../formulas/mazi-ren-wan.md) |
 | 고령·산후·만성 허손, 요슬산연, 힘은 부족하고 변은 마른 양상 | 보신·양혈·윤장·하행 | [제천전](../formulas/jichuan-jian.md) |
 | 기운이 없고 힘주기가 어려우며 배변 뒤 피로 | 보기·승양을 포함한 감별 | 보중익기탕 계열 |
 | 복부창만·트림·스트레스와 함께 배변이 막힘 | 이기·도체 | 육마탕·목향빈랑환 계열 |
@@ -60,7 +60,7 @@ Liu et al., *Annals of Internal Medicine* 2016 다기관 RCT는 중증 기능성
 ## 관련 문서
 
 - [제천전](../formulas/jichuan-jian.md)
-- [마자인환 현대근거 카드](../authority/formulas/mazi-ren-wan.md)
+- [마자인환](../formulas/mazi-ren-wan.md)
 - [한약·방제 찾기](../herbal-integrated/formulas.md)
 - [침구·치료 찾기](../acupuncture-integrated/by-symptom.md)
 - [치료 안전·위험신호](../acupuncture-integrated/safety.md)

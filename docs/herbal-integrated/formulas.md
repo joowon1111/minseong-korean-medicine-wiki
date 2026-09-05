@@ -50,11 +50,13 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [보양환오탕](../formulas/buyang-huanwu-tang.md) — 기허혈어 + 통락장애
 - [도핵승기탕](../formulas/taohe-chengqi-tang.md) — 하초축혈 + 공하
 
-## 심혈관 임상연구 제제
+## 심혈관·대사 임상연구 제제 {#_5}
 
-[심적환](../formulas/simjeok-hwan.md) · [기력강심](../formulas/qiliqiangxin.md) · [통심락](../formulas/tongxinluo.md)
+[심적환](../formulas/simjeok-hwan.md) · [기력강심](../formulas/qiliqiangxin.md) · [통심락](../formulas/tongxinluo.md) · [진리다](../formulas/jinlida.md)
 
 심적환의 국내 제품 정보와 해외 제제의 심장 기능·심부전·심뇌혈관 사건 연구를 연결합니다. 제품별 구성과 표준치료 병용 조건을 확인할 수 있습니다.
+
+진리다는 내당능장애에서 당뇨병 진행, 메트포르민 병용 시 혈당 변화를 살핀 별도 제제입니다.
 
 ## 외감·호흡
 
@@ -72,6 +74,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 ## 청열·화독
 
 - [황련해독탕](../formulas/huanglian-jiedu-tang.md) — 삼초 실열·화독
+- [갈근금련탕](../formulas/gegen-qinlian-tang.md) — 장위 열·설사와 혈당·장내미생물 연구
 - [용담사간탕](../formulas/longdan-xiegan-tang.md) — 간담실화·습열
 - [백호탕](../formulas/baihu-tang.md) — 양명기분대열
 - [죽엽석고탕](../formulas/zhuye-shigao-tang.md) — 열병 후 기음손상
@@ -153,7 +156,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 ## 윤장·허비
 
 - [제천전](../formulas/jichuan-jian.md) — 신허·정혈부족을 바탕으로 한 허손성 변비
-- [마자인환 현대근거 카드](../authority/formulas/mazi-ren-wan.md) — 장조·열결형 기능성변비 연구
+- [마자인환](../formulas/mazi-ren-wan.md) — 장조·열결형 기능성변비 연구
 - [변비 임상 안내](../conditions/constipation.md) — 위험신호·병증 감별·치료 연결
 
 ## 화해·공하
