@@ -3,7 +3,7 @@ title: 전립선·배뇨불편
 description: 전립선·배뇨불편을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: '2026-09-05'
 ---
 # 전립선·배뇨불편
 
@@ -39,6 +39,18 @@ last_reviewed: 2026-08-21
 ## 치료를 한눈에 보기
 
 증상명 하나만으로 치료를 고정하지 않고 **감별 → 한의학적 병증 → 한약·침·전침·약침 → 생활관리 → 재평가** 순으로 봅니다.
+
+## 홍삼오일의 배뇨 증상 임상시험 {#red-ginseng-oil-trial}
+
+가톨릭대·가톨릭관동대 의과대학 **비뇨의학과 연구진** 등이 참여한 *World Journal of Men's Health* 연구는 홍삼오일 RXGIN을 위약과 비교했습니다. 2023년 온라인 발표 후 2024년 1월호에 게재된 동일 논문입니다.
+
+40~75세 남성 중 국제전립선증상점수(IPSS) 8~19점인 참여자를 무작위 배정해 **12주**간 평가했으며 **88명이 시험을 완료**했습니다. 6주와 12주에 홍삼오일군의 IPSS 총점과 빈뇨·야간뇨·잔뇨감 등 하위 점수가 위약군보다 개선됐습니다. 홍삼오일군에서 시험약 중단으로 이어진 중대한 이상반응은 관찰되지 않았습니다.
+
+이 연구는 **홍삼에서 추출한 오일 제형**의 결과입니다. 일반 홍삼액·인삼 탕약과 구분하며 전립선 크기 감소나 전립선염 치료를 입증한 결과로 해석하지 않습니다. 배뇨일지와 증상 점수로 불편의 변화를 확인하고 요로감염·과민성방광 등 원인을 함께 구분합니다.
+
+*Safety and Efficacy Assessment of Red Ginseng Oil (RXGIN) in Men with Lower Urinary Tract Symptoms in a Randomized, Double-Blind, Placebo-Controlled Trial.* [PMID 37652660](https://pubmed.ncbi.nlm.nih.gov/37652660/) · [DOI 10.5534/wjmh.230172](https://doi.org/10.5534/wjmh.230172)
+
+→ [인삼·홍삼 현대 연구](../authority/herbs/ginseng.md) · [국내 대학병원 본초·추출물 임상연구](../authority/herbs/index.md#university-clinical-studies)
 
 ## 기존 지식망과 연결
 

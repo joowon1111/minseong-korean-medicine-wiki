@@ -70,7 +70,7 @@ last_reviewed: '2026-09-05'
 
 ## 국내 대학병원 연구진이 평가한 한약재·추출물 {#university-clinical-studies}
 
-국내 의과대학의 가정의학과·소화기내과·종양내과·정형외과 연구진도 한약재와 복합 추출물을 사람 대상 임상시험으로 평가했습니다. 아래 표는 **논문 발표 당시 연구진 소속과 실제 시험한 제제**를 기준으로 정리했습니다.
+국내 의과대학의 가정의학과·소화기내과·종양내과·정형외과·류마티스내과·호흡기내과·비뇨의학과 연구진도 한약재와 복합 추출물을 사람 대상 임상시험으로 평가했습니다. 아래 표는 **논문 발표 당시 연구진 소속과 실제 시험한 제제**를 기준으로 정리했습니다.
 
 | 연구 대상 | 참여 연구진 소속의 예 | 사람 대상 연구와 상세 설명 |
 |---|---|---|
@@ -79,6 +79,11 @@ last_reviewed: '2026-09-05'
 | 현호색·견우자 추출물 DA-9701 | 서울성모·서울아산·삼성서울·분당서울대병원 등 18개 기관 | 기능성소화불량 464명, 4주 비교시험 — [소화불량 연구](../../conditions/functional-dyspepsia.md#da9701-clinical-trial) · [PMID 26130637](https://pubmed.ncbi.nlm.nih.gov/26130637/) |
 | 애엽 추출물 DA-9601 | 인제대·울산대·전남대·가톨릭대 소화기내과 연구진 등 | 미란성 위염 512명, 2주 비교시험 — [위점막 회복 연구](../../conditions/gastritis-symptoms.md#da9601-clinical-trial) · [PMID 15285023](https://pubmed.ncbi.nlm.nih.gov/15285023/) |
 | 복합 생약 추출물 SKI306X | 중앙대 정형외과 연구진 등 | 무릎 골관절염 249명, 4주 비교시험 — [통증·복용편의 연구](../../herbal-integrated/formula-for-pain.md#ski306x-clinical-trial) · [PMID 15315266](https://pubmed.ncbi.nlm.nih.gov/15315266/) |
+| 복합 생약 PG201·레일라 | 전북대병원·서울대병원·분당서울대병원·가톨릭대 등 | 무릎 골관절염 309명, 8주 비교시험 — [통증 개선 연구](../../herbal-integrated/formula-for-pain.md#pg201-knee-trial) · [PMID 24531687](https://pubmed.ncbi.nlm.nih.gov/24531687/) |
+| 6종 생약 복합추출물 GCSB-5 | 서울대 의대 류마티스내과·보라매병원·분당서울대병원 | 손 골관절염 220명 등록, 12주 위약 대조 — [손 통증·치료 반응](../../herbal-integrated/formula-for-pain.md#gcsb5-hand-trial) · [PMID 27449412](https://pubmed.ncbi.nlm.nih.gov/27449412/) |
+| 황련·아이비엽 복합추출물 | 한양대구리병원·삼성서울병원·서울성모병원·보라매병원 등 | 급성 기관지염 220명, 7일 비교시험 — [기침·가래 연구](../../conditions/bronchitis-recovery.md#ivy-coptis-trial) · [PMID 38889376](https://pubmed.ncbi.nlm.nih.gov/38889376/) |
+| 7종 생약 복합추출물 HL-301 | 건국대병원·강남세브란스·서울성모병원·고려대구로병원 등 | 급성 기관지염 110명 무작위 배정, 7일 비교시험 — [기관지염 증상 연구](../../conditions/bronchitis-recovery.md#hl301-bronchitis-trial) · [PMID 40859807](https://pubmed.ncbi.nlm.nih.gov/40859807/) |
+| 홍삼오일 RXGIN | 가톨릭대·가톨릭관동대 의대 비뇨의학과 등 | 남성 배뇨 증상 12주 위약 대조, 88명 완료 — [배뇨 증상 연구](../../conditions/prostate-urinary-symptoms.md#red-ginseng-oil-trial) · [PMID 37652660](https://pubmed.ncbi.nlm.nih.gov/37652660/) |
 
 **관절통 연구 더 보기:** [GCSB-5의 198명·12주 무작위시험과 24주 추적 연구](../../herbal-integrated/formula-for-pain.md#gcsb5-clinical-trials)에서는 효과 비교와 비교적 긴 복용기간의 위장관 안전성을 각각 확인할 수 있습니다.
 
