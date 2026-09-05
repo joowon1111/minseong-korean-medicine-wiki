@@ -3,7 +3,7 @@ title: 과민성장증후군 — 침·한약 현대 임상근거
 description: 과민성장증후군의 침·전침·한약 연구를 전체 증상, 복통, 배변, 삶의 질과 정서 outcome 중심으로 정리합니다.
 tags: [과민성장증후군, IBS, 침, 전침, 한약, 통사요방, meta-analysis, RCT, PMID]
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: '2026-09-05'
 ---
 
 # 과민성장증후군 — 침·한약 현대 임상근거
@@ -56,6 +56,18 @@ last_reviewed: 2026-08-28
 
 - PMID: [37328079](https://pubmed.ncbi.nlm.nih.gov/37328079/)
 - DOI: [10.1016/j.jep.2023.116672](https://doi.org/10.1016/j.jep.2023.116672)
+
+### 복합 한약을 평가한 JAMA 무작위시험 {#jama-herbal-trial}
+
+1998년 *JAMA*에 발표된 호주 연구에는 웨스턴시드니대와 시드니대·Nepean Hospital 내과, Concord 병원 소화기 연구진 등이 참여했습니다. Rome 진단기준을 충족한 **116명**을 개별 복합 한약 38명, 표준 복합 한약 43명, 위약 35명으로 무작위 배정해 **16주**간 평가한 이중눈가림 시험입니다.
+
+한약 치료군은 위약군보다 환자와 소화기 전문의가 평가한 **장 증상·전반적 개선**에서 유리했고, 증상이 일상생활을 방해하는 정도도 줄었습니다. 치료 기간 중 개별 처방이 표준 처방보다 더 우수하지는 않았으며, 종료 14주 후에는 개별 처방군에서 개선 유지가 보고됐습니다.
+
+연구에서 사용한 복합 한약 캡슐의 결과를 통사요방이나 다른 특정 처방에 그대로 적용하지 않습니다. 이 논문은 대표적인 초기 임상시험으로, 위의 후속 연구와 함께 IBS 아형·처방 구성·평가 시점을 비교하는 자료입니다.
+
+*Treatment of Irritable Bowel Syndrome With Chinese Herbal Medicine: A Randomized Controlled Trial.* [PMID 9820260](https://pubmed.ncbi.nlm.nih.gov/9820260/) · [JAMA 원문·DOI 10.1001/jama.280.18.1585](https://jamanetwork.com/journals/jama/fullarticle/188145)
+
+→ [복통·설사·변비 환자 안내](../../conditions/ibs.md) · [IBS 처방 비교 지도](../formulas/ibs-herbal-formula-map.md)
 
 ## 장–뇌축과 정서·삶의 질
 

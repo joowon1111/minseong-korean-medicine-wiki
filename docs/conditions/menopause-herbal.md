@@ -1,9 +1,9 @@
 ---
 title: 갱년기 한약·여성 갱년기
-description: 갱년기 한약·여성 갱년기을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
+description: 갱년기의 열감·수면·피로와 변증 한약, 강남세브란스 홍삼 임상시험 및 폐경 후 대사 건강을 연결합니다.
 tags: [질환증상, 환자검색, 한약]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: '2026-09-05'
 ---
 # 갱년기 한약·여성 갱년기
 
@@ -38,6 +38,22 @@ last_reviewed: 2026-08-21
 ## 치료를 한눈에 보기
 
 증상명·목표 하나만으로 처방을 고정하지 않고 **감별 → 현재 상태와 병증 → 한약·침구치료 → 생활관리 → 같은 지표로 재평가** 순으로 봅니다.
+
+## 폐경 후 여성의 홍삼 임상시험 {#red-ginseng-menopause-trial}
+
+연세대 의과대학 **강남세브란스병원 산부인과 연구진**은 45~60세 폐경 후 여성 **72명**을 홍삼군과 위약군으로 무작위 배정해 **12주**간 평가했습니다. 2012년 *Menopause*에 발표된 이중눈가림 시험으로, 갱년기 증상과 혈중지질 등 지표를 함께 살폈습니다.
+
+홍삼군은 위약군보다 **쿠퍼만 지수와 갱년기평가척도(MRS)의 증상 점수가 개선**됐습니다. 홍삼군에서 총콜레스테롤·LDL 감소도 보고됐고, 혈중 에스트라디올에는 변화가 없었습니다. 갱년기 증상 완화에 참고할 수 있는 연구이며, 호르몬 수치 증가나 심근경색·뇌졸중 예방을 확인한 시험은 아닙니다.
+
+시험한 홍삼 제품의 결과는 개인별 탕약과 구분합니다. 홍조·발한·수면·피로 등 여러 증상의 변화를 같은 척도로 비교하면 도움이 되며, 전체 점수 개선을 모든 개별 증상에서 같은 효과가 있었다는 뜻으로 읽지 않습니다.
+
+*Effects of red ginseng supplementation on menopausal symptoms and cardiovascular risk factors in postmenopausal women: a double-blind randomized controlled trial.* [PMID 22027944](https://pubmed.ncbi.nlm.nih.gov/22027944/) · [DOI 10.1097/gme.0b013e3182325e4b](https://doi.org/10.1097/gme.0b013e3182325e4b)
+
+## 갱년기 관리를 이어가는 방법
+
+치료 전 가장 불편한 증상 두세 가지를 정하고 **낮의 열감·밤에 깨는 횟수·낮 활동의 피로·일상생활 불편**을 같은 방식으로 기록합니다. 연구에 사용된 홍삼과 실제 복용할 제품, 기존 호르몬치료·약·영양제의 구성을 함께 확인합니다.
+
+→ [갱년기 처방 비교](../herbal-integrated/formula-for-menopause.md) · [인삼·홍삼 연구](../authority/herbs/ginseng.md) · [여성건강 허브](../pillar/womens-health.md) · [대사 건강과 검진 수치](metabolic-syndrome.md)
 
 ## 기존 지식망과 연결
 
