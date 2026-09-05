@@ -54,6 +54,8 @@ last_reviewed: '2026-09-05'
 - [백출](atractylodes.md) — 보기건비·조습
 - [복령](poria.md) — 건비·이수·안신
 
+- [연자육](lotus-seed.md) · [백편두](lablab-seed.md) — 보비·건비와 만성 묽은변의 배합
+
 ### 보혈·양혈·활혈
 
 - [당귀](angelica.md) — 보혈하면서 혈행을 돕는 대표 본초
@@ -73,6 +75,8 @@ last_reviewed: '2026-09-05'
 - [숙지황](rehmannia-preparata.md) — 자음보혈·익정
 
 산수유와 산약은 육미지황계 처방에서 숙지황의 보익을 받쳐 주면서, **간신과 비신을 보하고 정기·진액이 지나치게 소모되는 것을 조절하는 축**으로 이해할 수 있습니다.
+
+- [구기자](cornus-extra.md) — 자보간신·익정과 정혈 보익
 
 ### 자음·생진·허열 조절
 
@@ -116,6 +120,12 @@ last_reviewed: '2026-09-05'
 - [길경](platycodon.md) — 선폐·인후·거담 배합
 
 - [우방자](arctium.md) · [박하](mint.md) — 소산풍열·인후 배합
+
+- [백지](angelica-dahurica.md) · [신이](magnolia-bud.md) — 코와 두면부의 거풍·통규 배합
+
+### 온리·산한
+
+- [오수유](evodia-fruit.md) · [건강](dried-ginger.md) · [육계](cinnamon-bark.md) — 산한·강역·온양 역할 비교
 
 → [효능별 본초와 대표 처방 보기](../herbal-integrated/herbs.md)
 

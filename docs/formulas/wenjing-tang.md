@@ -23,7 +23,7 @@ last_reviewed: 2026-09-04
 
 | 처방축 | 대표 본초 | 역할 |
 |---|---|---|
-| 온경산한 | 오수유·[계지](../herbs/cinnamon-bark.md)·생강 | 충임과 하복부의 한응을 덥히고 기혈 운행을 도움 |
+| 온경산한 | [오수유](../herbs/evodia-fruit.md)·[계지](../herbs/cinnamon-twig.md)·생강 | 충임과 하복부의 한응을 덥히고 기혈 운행을 도움 |
 | 양혈활혈 | [당귀](../herbs/angelica.md)·[천궁](../herbs/chuanxiong.md)·[백작약](../herbs/white-peony.md)·[목단피](../herbs/moutan.md) | 혈을 기르면서 어혈과 통증을 조절 |
 | 보기양음 | [인삼](../herbs/ginseng.md)·[맥문동](../herbs/ophiopogon.md)·아교 | 허약과 진액부족을 보완 |
 | 조화강역 | 반하·[감초](../herbs/licorice.md) | 위기를 조화하고 복합 처방의 균형을 잡음 |

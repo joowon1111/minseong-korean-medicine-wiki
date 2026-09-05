@@ -25,6 +25,8 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [오미자](../herbs/schisandra.md)·[맥문동](../herbs/ophiopogon.md) | 수렴과 양음·생진의 배합 | [생맥산](../formulas/shengmai-san.md) |
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
 | [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+| [연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md)·[산약](../herbs/dioscorea.md) | 보비·건비와 지사 배합 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
+| [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/rehmannia-preparata.md) | 자보간신·정혈 보익 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
 
 ## 이기·소화 {#_2}
 
@@ -36,6 +38,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [창출](../herbs/atractylodes-lancea.md)·[후박](../herbs/magnolia-bark.md)·[진피](../herbs/citrus-peel.md) | 조습건비·행기제만 | [평위산](../formulas/pingwei-san.md) |
 | [백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[반하](../herbs/pinellia.md) | 건비와 화담을 함께 살피는 배합 | [육군자탕](../formulas/liujunzi-tang.md) |
 | [맥아](../herbs/barley-malt.md)·[산사](../herbs/hawthorn.md)·신곡 | 소식과 화담·건비 배합 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
+| [백편두](../herbs/lablab-seed.md)·[연자육](../herbs/lotus-seed.md) | 비위허약·습체와 오래된 묽은변을 살피는 건비 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 
 ## 화담·지해·평천 {#_3}
 
@@ -101,6 +104,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [강활](../herbs/notopterygium.md)·[방풍](../herbs/saposhnikovia.md)·[창출](../herbs/atractylodes-lancea.md) | 외감 풍한습과 몸살·무거움 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) |
 | [형개](../herbs/schizonepeta.md)·[연교](../herbs/forsythia.md)·[길경](../herbs/platycodon.md) | 표·인후·호흡기 배합 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
 | [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인 | [은교산](../formulas/yinqiao-san.md) |
+| [백지](../herbs/angelica-dahurica.md)·[신이](../herbs/magnolia-bud.md) | 거풍·통규와 코·두면부 배합 | [창이자산](../formulas/cangerzi-san.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 
 ## 온리·산한 {#warming-herbs}
 
@@ -109,6 +113,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [건강](../herbs/dried-ginger.md) | 온중산한·온폐화음 | [이중탕](../formulas/lizhong-tang.md) |
 | [육계](../herbs/cinnamon-bark.md) | 보화조양·산한통맥 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | [부자](../herbs/aconite.md) | 온양·화기; 법제·전탕과 용량을 함께 확인 | [진무탕](../formulas/zhenwu-tang.md) |
+| [오수유](../herbs/evodia-fruit.md) | 산한지통·강역지구; 가공·용량 확인 | [온경탕](../formulas/wenjing-tang.md) · [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
 
 ## 본초를 읽는 순서 {#_9}
 
