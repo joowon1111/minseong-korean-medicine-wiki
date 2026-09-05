@@ -1,8 +1,8 @@
-﻿---
+---
 title: 사인(砂仁)
 tags: [본초, 임상본초, 주요본초]
 status: 검토필요
-last_reviewed: 2026-08-20
+last_reviewed: '2026-09-05'
 description: 사인(砂仁) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 사인(砂仁)
@@ -30,6 +30,24 @@ description: 사인(砂仁) — 본초의 성미·귀경·효능·병증·배합
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 비위허약과 습체를 함께 보는 배합
+
+사인은 **향기로운 성질로 중초의 습과 기체를 다루는 본초**입니다. 식후 팽만·트림·구역과 식욕저하를 살피면서, 비위허약을 보하는 약재와 어떻게 배합되는지 봅니다.
+
+| 대표 처방 | 사인이 연결하는 역할 |
+|---|---|
+| [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 인삼·백출 등의 보기와 목향·진피 등의 이기를 함께 살핌 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 창출·후박의 조습·제만과 비위허한의 배합을 연결 |
+| [삼령백출산](../formulas/shenling-baizhu-san.md) | 산약·백편두·연자육 등 보비약과 행기화습의 역할을 나눔 |
+
+### 목향·후박·백출과 비교
+
+[목향](aucklandia.md)은 행기지통, [후박](magnolia-bark.md)은 하기제만·조습, [백출](atractylodes.md)은 보기건비를 중심으로 비교합니다. 사인은 같은 소화 증상에서도 냉감·습체·허약의 비중과 전체 배합을 함께 읽는 것이 좋습니다.
+
+사인류의 열매와 종자 덩어리는 기원·원료 규격·보관 및 조제 방법을 확인합니다. 전통적인 ‘이기안태’라는 표현을 모든 임신부에게 같은 약재가 적합하다는 뜻으로 읽지 않고, 임신 단계·구토 원인·배합을 확인합니다.
+
+- [홍콩침례대 사인 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00254) — 기원·약용 부위·전통 활용
 
 <!-- QUALITY_DEPTH_05_START -->
 

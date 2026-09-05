@@ -119,6 +119,8 @@ last_reviewed: '2026-09-05'
 
 - [자소자·소자](perilla-fruit.md) — 강기·화담·평천
 
+- [상엽](mulberry-leaf.md) · [상백피](mulberry-root-bark.md) · [전호](peucedanum-root.md) — 청폐·평천·강기화담의 역할 비교
+
 ### 해표·외감·인후
 
 - [계지](cinnamon-twig.md) · [갈근](pueraria.md) — 영위·항배강·해표 배합

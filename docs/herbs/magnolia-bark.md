@@ -1,8 +1,8 @@
-﻿---
+---
 title: 후박(厚朴)
 tags: [본초, 임상본초, 주요본초]
 status: 검토필요
-last_reviewed: 2026-08-20
+last_reviewed: '2026-09-05'
 description: 후박(厚朴) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 후박(厚朴)
@@ -30,6 +30,24 @@ description: 후박(厚朴) — 본초의 성미·귀경·효능·병증·배합
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 복부 팽만과 담기울결에서의 배합
+
+후박은 **기가 정체되어 그득한 느낌을 풀고 습·담을 함께 다루는 본초**입니다. 식후 팽만, 흉복부 답답함, 목 이물감을 같은 증상으로 묶기보다 어떤 처방 구조에서 쓰였는지 확인합니다.
+
+| 대표 처방 | 후박과 함께 읽는 본초 |
+|---|---|
+| [평위산](../formulas/pingwei-san.md) | 창출의 조습과 진피의 이기를 연결해 습체·창만을 살핌 |
+| [반하후박탕](../formulas/banxia-houpo-tang.md) | 반하·복령·자소엽과 담기울결·강역의 구조를 봄 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 사인·목향의 행기와 인삼·백출의 보익을 함께 살핌 |
+
+### 진피·지실·사인과 비교
+
+[진피](citrus-peel.md)는 이기건비·조습화담, [지실](citrus-immature.md)은 기체·적체, [사인](amomum.md)은 방향화습·온비를 중심으로 비교합니다. 후박은 이들과 병용되더라도 본초별 역할과 환자의 허실을 나누어 봅니다.
+
+후박류의 **약용 나무껍질**을 쓰며 국내외 기원 규격과 가공을 확인합니다. [신이](magnolia-bud.md)의 꽃봉오리와는 다른 본초입니다. 지속되는 구토·체중감소·삼킴 곤란·심한 복부팽만은 원인 평가를 함께 진행합니다.
+
+- [홍콩침례대 후박 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00347) — 기원·약용 부위·전통 활용
 
 <!-- QUALITY_DEPTH_05_START -->
 
