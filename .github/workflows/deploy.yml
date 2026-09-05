@@ -33,6 +33,9 @@ jobs:
       - name: Audit source links and duplicate URLs
         run: python tools/audit_internal_links.py
 
+      - name: Test link and anchor audit
+        run: python -m unittest discover -s tools -p test_audit_internal_links.py
+
       - name: Build MkDocs site
         run: mkdocs build
 

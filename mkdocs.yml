@@ -22,6 +22,11 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      herbs/schisandra-extra.md: herbs/dioscorea.md
+      formulas/samsoeum.md: formulas/renshen-suyin.md
+      foundations/zangfu.md: foundations-integrated/zangfu-qi-blood-fluids.md
+      donguibogam-network/tangaek.md: classics/donguibogam-tangaek.md
+      donguibogam-network/chimgu.md: classics/donguibogam-acupuncture.md
       evidence-clinical/index.md: evidence-integrated/clinical-application.md
       evidence-clinical/rct.md: evidence-guide/rct.md
       evidence-clinical/systematic-review.md: evidence-guide/systematic-review.md
@@ -871,8 +876,8 @@ nav:
     - 내경편: donguibogam-network/naegyeong.md
     - 외형편: donguibogam-network/oehyeong.md
     - 잡병편: donguibogam-network/japbyeong.md
-    - 탕액편: donguibogam-network/tangaek.md
-    - 침구편: donguibogam-network/chimgu.md
+    - 탕액편: classics/donguibogam-tangaek.md
+    - 침구편: classics/donguibogam-acupuncture.md
     - 양생과 예방: donguibogam-network/yangsaeng-prevention.md
     - 동의보감 임상 탐색법: donguibogam-network/clinical-navigation.md
     - 동의보감→현대 한의학 지도: donguibogam-network/integrated-map.md
@@ -899,8 +904,6 @@ nav:
     - 온병학→현대 한의학 지도: wenbing-network/integrated-map.md
 - 민성한의원 ↗: https://www.minseong.co.kr/
 not_in_nav: '/ai-index.md
-
-  /foundations/zangfu.md
 
   /templates/classic-template.md
 

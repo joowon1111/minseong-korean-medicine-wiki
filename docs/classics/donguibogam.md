@@ -62,6 +62,6 @@ last_reviewed: 2026-08-29
 - [내경편](../donguibogam-network/naegyeong.md)
 - [외형편](../donguibogam-network/oehyeong.md)
 - [잡병편](../donguibogam-network/japbyeong.md)
-- [탕액편](../donguibogam-network/tangaek.md)
-- [침구편](../donguibogam-network/chimgu.md)
+- [탕액편](donguibogam-tangaek.md)
+- [침구편](donguibogam-acupuncture.md)
 - [동의보감 탐색](../classics-network/donguibogam.md)

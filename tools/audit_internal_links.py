@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html as html_lib
 import re
 import sys
 from collections import defaultdict
@@ -19,6 +20,8 @@ MD_LINK = re.compile(r"!?\[[^\]]*\]\(([^)\s]+)(?:\s+[\"'][^\"']*[\"'])?\)")
 HTML_LINK = re.compile(r"(?:href|src)\s*=\s*[\"']([^\"']+)[\"']", re.I)
 FRONT_TITLE = re.compile(r"(?m)^title:\s*[\"']?(.+?)[\"']?\s*$")
 H1 = re.compile(r"(?m)^#\s+(.+?)\s*$")
+HTML_ID = re.compile(r"\bid\s*=\s*[\"']([^\"']+)[\"']", re.I)
+SITE_HOST = "wiki.minseong.co.kr"
 
 
 def local_candidates(source: Path, raw: str) -> list[Path]:
@@ -93,27 +96,46 @@ def audit_site() -> int:
     if not SITE.exists():
         print("ERROR generated site directory does not exist; run mkdocs build first")
         return 1
+    site = SITE.resolve()
     missing: set[tuple[str, str]] = set()
-    for page in sorted(SITE.rglob("*.html")):
-        html = page.read_text(encoding="utf-8", errors="replace")
+    anchors: set[tuple[str, str]] = set()
+    pages = {page.resolve(): page.read_text(encoding="utf-8", errors="replace")
+             for page in sorted(site.rglob("*.html"))}
+    ids = {page: {html_lib.unescape(value) for value in HTML_ID.findall(body)}
+           for page, body in pages.items()}
+    for page, html in pages.items():
         for match in HTML_LINK.finditer(html):
-            raw = unquote(match.group(1).strip())
+            raw = html_lib.unescape(match.group(1).strip())
             split = urlsplit(raw)
-            if split.scheme or split.netloc or not split.path or split.path.startswith("//"):
+            if split.netloc and split.netloc != SITE_HOST:
                 continue
-            path = split.path
-            target = SITE / path.lstrip("/") if path.startswith("/") else page.parent / path
+            if split.scheme and split.scheme not in ("http", "https"):
+                continue
+            path = unquote(split.path)
+            target = (site / path.lstrip("/") if path.startswith("/") or split.netloc
+                      else page.parent / path) if path else page
+            target = target.resolve()
             candidates = [target]
-            if path.endswith("/"):
-                candidates.append(target / "index.html")
+            if path.endswith("/") or target.is_dir():
+                candidates = [target / "index.html"]
             elif not target.suffix:
                 candidates.extend([target.with_suffix(".html"), target / "index.html"])
-            if not any(candidate.exists() for candidate in candidates):
-                missing.add((page.relative_to(SITE).as_posix(), raw))
+            found = next((candidate for candidate in candidates if candidate.is_file()), None)
+            rel = page.relative_to(site).as_posix()
+            if found is None:
+                missing.add((rel, raw))
+                continue
+            # Browser text fragments are not element IDs; SVG fragments are not HTML anchors.
+            fragment = unquote(split.fragment).split(":~:", 1)[0]
+            if fragment and found in ids and fragment not in ids[found]:
+                anchors.add((rel, raw))
     print(f"generated-site missing links: {len(missing)}")
+    print(f"generated-site missing anchors: {len(anchors)}")
     for page, raw in sorted(missing):
         print(f"ERROR generated link: {page} -> {raw}")
-    return len(missing)
+    for page, raw in sorted(anchors):
+        print(f"ERROR generated anchor: {page} -> {raw}")
+    return len(missing) + len(anchors)
 
 
 def main() -> int:
@@ -128,4 +150,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-
