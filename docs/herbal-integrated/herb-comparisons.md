@@ -1,8 +1,8 @@
-﻿---
+---
 title: 주요 본초 비교·감별
 tags: [본초, 비교, 감별, 임상본초]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: '2026-09-05'
 description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 주요 본초 비교·감별
@@ -88,6 +88,17 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 행인 | 지해평천·윤장 | [마행감석탕](../formulas/maxing-ganshi-tang.md), [행소산](../formulas/xingsu-san.md) |
 | 천패모 | 청열윤폐·화담 | 조열·열담 처방군 |
 | 반하 | 조습화담·강역지구 | [이진탕](../formulas/erchen-tang.md), [반하사심탕](../formulas/banxia-xiexin-tang.md), [반하후박탕](../formulas/banxia-houpo-tang.md) |
+
+## 기본 본초의 약용 부위·가공 비교 {#common-herb-differences}
+
+| 비교 | 구분할 핵심 | 상세 문서 |
+|---|---|---|
+| 계지·육계 | 어린 가지와 나무껍질; 해표·온경과 온리·보화의 비중 | [계지](../herbs/cinnamon-twig.md) · [육계](../herbs/cinnamon-bark.md) |
+| 생강·건강 | 신선한 뿌리줄기와 말린 뿌리줄기; 구역·해표와 온중의 비중 | [생강](../herbs/fresh-ginger.md) · [건강](../herbs/dried-ginger.md) |
+| 백출·창출 | 약재 규격·기원과 보기건비·조습의 비중 | [백출](../herbs/atractylodes.md) · [창출](../herbs/atractylodes-lancea.md) |
+| 대조·산조인 | 대추 열매와 산조의 씨; 별도 본초로 구분 | [대조](../herbs/jujube-fruit.md) · [산조인](../herbs/ziziphus-seed.md) |
+
+같은 식물 계열이나 비슷한 이름이어도 약용 부위·가공·처방의 역할을 확인해 비교합니다.
 
 ## 읽는 순서
 `비슷한 본초 → 핵심 차이 → 실제 배합 처방 → 처방의 병증·치법 → 다시 본초 역할 확인`
