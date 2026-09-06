@@ -95,3 +95,9 @@ last_reviewed: 2026-09-06
 수습·갈증·소변의 조합을 체수분 관리와 연결합니다. 소변량이나 일시적 체중 변화만으로 독소 배출·체지방 감소를 판단하지 않습니다.
 
 [비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+담음·수음 양상과 현대적인 귀·전정질환 진단을 구분합니다. 한약의 동반 증상 관리와 원인별 치료를 함께 확인합니다.
+
+[이석증](../conditions/bppv.md) · [메니에르병](../conditions/menieres-disease.md) · [메스꺼움](../conditions/nausea.md)

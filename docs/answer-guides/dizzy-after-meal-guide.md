@@ -1,4 +1,4 @@
-﻿---
+---
 title: 밥을 먹고 나면 어지럽고 힘이 빠지는 이유는 무엇인가요?
 description: 식후 어지럼과 무기력을 식사량·발생시간·혈압·혈당 관련 가능성·소화·수면과 함께 설명합니다.
 tags: [식후어지럼, 식후피로, 자율신경, 식곤증, 소화불량]
@@ -43,3 +43,8 @@ tags: [식후어지럼, 식후피로, 자율신경, 식곤증, 소화불량]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+일어설 때 눈앞이 캄캄한 느낌과 고개를 돌릴 때 빙 도는 느낌을 구분하고 혈압·맥박·섭취 상태를 확인합니다.
+
+[기립성 어지럼](../conditions/orthostatic-dizziness.md) · [이석증](../conditions/bppv.md)

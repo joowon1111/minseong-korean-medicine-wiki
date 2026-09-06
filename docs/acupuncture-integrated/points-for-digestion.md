@@ -51,3 +51,9 @@ last_reviewed: 2026-09-06
 신물·속쓰림, 실제 삼킴장애와 다른 목이물감, 긴장에 따른 소화불편을 구분해 읽습니다. 소화력·오심·냉열·피로에 따른 변증과 처방의 차이로 이어집니다.
 
 [역류성식도염](../conditions/gerd.md) · [매핵기](../conditions/globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
+
+[변비](../conditions/constipation.md) · [급성·만성설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) · [복부팽만](../conditions/bloating.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)

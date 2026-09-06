@@ -58,6 +58,12 @@ Choi MG et al. *Randomized, Controlled, Multi-center Trial: Comparing the Safety
 
 [역류성식도염](gerd.md) · [매핵기](globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md)
 
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+함께 있는 배변·팽만·식사량의 변화에 따라 다음 안내를 선택합니다.
+
+[변비](constipation.md) · [급성·만성설사](diarrhea.md) · [아침·식후설사](morning-diarrhea.md) · [복부팽만](bloating.md) · [성인 식욕저하](poor-appetite-adult.md)
+
 ## 기존 지식망과 연결
 
 - [소화불량](dyspepsia.md)

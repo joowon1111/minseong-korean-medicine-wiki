@@ -12,3 +12,9 @@
 
 ## 연결
 IBS·장-뇌축 현대근거 카드와 백출·작약·진피·방풍 본초 지식망을 연결합니다.
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변 시간만으로 처방을 정하지 않고 원인과 한열·허실을 함께 봅니다. 소아에서는 수분·성장 평가와 개별 처방이 필요합니다.
+
+[설사](../../conditions/diarrhea.md) · [아침·식후설사](../../conditions/morning-diarrhea.md) · [소아 설사](../../conditions/child-diarrhea.md)

@@ -51,3 +51,9 @@ last_reviewed: 2026-09-06
 오래된 더부룩함·명치 답답함을 담적이라고 설명받았을 때는 담음·식적·기체·비위허약의 차이부터 처방·치료까지 이어서 볼 수 있습니다.
 
 [담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
+
+[아침·식후설사](../conditions/morning-diarrhea.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)

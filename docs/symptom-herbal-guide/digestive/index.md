@@ -23,3 +23,9 @@ keywords:
 ## 진료 정보 구조
 
 `증상 확인 → 발생 시점·강도·동반증상 → 감별 → 한의학적 변증 → 본초·방제 근거 → 치료 후 변화 확인`
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
+
+[변비](../../conditions/constipation.md) · [급성·만성설사](../../conditions/diarrhea.md) · [아침·식후설사](../../conditions/morning-diarrhea.md) · [복부팽만](../../conditions/bloating.md) · [성인 식욕저하](../../conditions/poor-appetite-adult.md) · [소아 식욕부진](../../conditions/child-poor-appetite.md) · [메스꺼움](../../conditions/nausea.md)

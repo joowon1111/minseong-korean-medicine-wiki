@@ -57,3 +57,9 @@ last_reviewed: 2026-09-06
 자율신경 관련 증상은 원인 감별을, 갑작스러운 안면마비는 초기 치료 시기와 눈 보호를 함께 확인합니다.
 
 [자율신경실조증 안내](../autonomic/index.md) · [구안와사·안면마비](../authority/conditions/peripheral-facial-palsy.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+짧은 자세 유발 회전감, 반복 발작과 청력 변동, 갑작스러운 청력저하는 검사와 치료 시점이 다릅니다.
+
+[이석증](../conditions/bppv.md) · [메니에르병](../conditions/menieres-disease.md) · [돌발성난청](../conditions/sudden-sensorineural-hearing-loss.md) · [난청·청력재활](../conditions/hearing-loss.md) · [기립성 어지럼](../conditions/orthostatic-dizziness.md)

@@ -3,7 +3,7 @@ title: 제천전(濟川煎)
 description: 육종용·당귀를 중심으로 신허·정혈부족형 허비를 윤장통변하는 제천전의 구성과 마자인환 감별을 정리합니다.
 tags: [방제학, 제천전, 경악전서, 변비, 허비, 윤장통변, 노인변비]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 
 # 제천전(濟川煎)
@@ -60,3 +60,9 @@ last_reviewed: 2026-09-04
 - 한국전통지식포탈. [제천전 A — 『경악전서 신방팔진』·『방약합편』](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0003978&tempLang=ko).
 - 약학정보원. [제천전 — 『방약합편』 상통 78](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=421).
 - [변비](../conditions/constipation.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+변 형태·힘주기·잔변감을 함께 비교하고, 아이의 배변 참기와 성인 변비는 연령과 원인에 맞춰 구분합니다.
+
+[소아 변비](../conditions/child-constipation.md)

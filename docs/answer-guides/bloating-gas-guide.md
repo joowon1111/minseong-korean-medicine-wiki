@@ -1,4 +1,4 @@
-﻿---
+---
 title: 속이 더부룩하고 가스가 자주 차면 무엇을 보나요?
 description: 복부팽만과 가스를 음식·배변·스트레스·시간패턴·소화기 위험신호와 연결해 설명합니다.
 tags: [복부팽만, 가스, 더부룩함, 소화불량, 장건강]
@@ -39,3 +39,8 @@ tags: [복부팽만, 가스, 더부룩함, 소화불량, 장건강]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배가 부푼 느낌, 실제 팽창, 가스 배출과 배변곤란을 나누어 다음 자료에서 확인합니다.
+
+[복부팽만의 처방 비교](../conditions/bloating.md) · [장내가스·방귀](../conditions/abdominal-gas.md) · [변비](../conditions/constipation.md)

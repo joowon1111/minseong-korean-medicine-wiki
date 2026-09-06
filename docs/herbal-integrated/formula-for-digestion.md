@@ -56,3 +56,9 @@ last_reviewed: 2026-09-06
 담적·담음으로 검색했다면, 소화불편의 변증을 먼저 구분한 뒤 이 페이지의 처방군을 비교하면 도움이 됩니다.
 
 [담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
+
+[변비](../conditions/constipation.md) · [급성·만성설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) · [복부팽만](../conditions/bloating.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)

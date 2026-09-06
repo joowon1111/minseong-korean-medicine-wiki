@@ -76,3 +76,9 @@ last_reviewed: 2026-09-06
 체중관리 중 과식·식적의 동반 증상을 다루는 목적과 체지방 감량을 구분합니다. 음식 정체의 경과를 식사 리듬과 연결합니다.
 
 [비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+식사 후 불편과 실제 섭취량을 구분하고, 비위허약·식적·담습의 동반 양상을 비교합니다. 소아 적용은 성인 근거와 구분합니다.
+
+[복부팽만](../conditions/bloating.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)

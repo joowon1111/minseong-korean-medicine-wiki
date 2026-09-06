@@ -3,7 +3,7 @@ title: 이중탕(理中湯)
 description: 인삼·백출·건강·감초 4미로 중초를 덥히고 비위기허를 보하는 이중탕의 복통·설사·구토 감별을 정리합니다.
 tags: [방제학, 이중탕, 상한론, 태음병, 비위허한, 설사]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 
 # 이중탕(理中湯)
@@ -49,3 +49,9 @@ last_reviewed: 2026-09-04
 
 - 한국전통지식포탈. [이중탕 B — 『상한론』·『방약합편』](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0003906&tempLang=ko).
 - 약학정보원. [이중탕 — 『방약합편』 상통 6](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=373).
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변 시간만으로 처방을 정하지 않고 원인과 한열·허실을 함께 봅니다. 소아에서는 수분·성장 평가와 개별 처방이 필요합니다.
+
+[설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) · [소아 설사](../conditions/child-diarrhea.md)

@@ -109,3 +109,9 @@ last_reviewed: 2026-09-06
 - 개념·변증: [담음](phlegm-fluid.md) · [담음 변증 지도](patterns/phlegm-fluid.md) · [어혈](blood-stasis.md)
 - 처방·치료: [소화불량 처방](../herbal-integrated/formula-for-digestion.md) · [비위기허·담음 처방 계열](../formula-architecture/spleen-phlegm-family.md) · [담음 치료](../pattern-treatment/phlegm-fluid.md)
 - 증상·진료: [소화·비위 허브](../pillar/digestion-spleen-stomach.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) · [소화불량](../conditions/dyspepsia.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+담적·담음·식적이라는 용어를 식후 팽만·오심·배변·섭취량의 실제 변화와 연결합니다.
+
+[아침·식후설사](../conditions/morning-diarrhea.md) · [식욕저하](../conditions/poor-appetite-adult.md)

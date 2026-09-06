@@ -91,3 +91,9 @@ last_reviewed: 2026-09-06
 두통을 위치만으로 구분하지 않고 오심·빛 민감성, 조이는 느낌, 목 움직임과의 관계를 비교합니다. 두통일수와 약 복용일수·일상 회복을 각 안내에서 확인할 수 있습니다.
 
 [편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+담음·수음 양상과 현대적인 귀·전정질환 진단을 구분합니다. 한약의 동반 증상 관리와 원인별 치료를 함께 확인합니다.
+
+[이석증](../conditions/bppv.md) · [메니에르병](../conditions/menieres-disease.md) · [메스꺼움](../conditions/nausea.md)
