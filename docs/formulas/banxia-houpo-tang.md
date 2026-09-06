@@ -2,7 +2,7 @@
 title: 반하후박탕(半夏厚朴湯)
 tags: [방제학, 기체, 담음, 매핵기, 인후이물감]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 description: 반하후박탕의 행기산결·강역화담 구조, 목 이물감과 매핵기의 감별, 현대 무작위시험과 안전 확인점을 연결합니다.
 ---
 # 반하후박탕(半夏厚朴湯)
@@ -73,3 +73,9 @@ description: 반하후박탕의 행기산결·강역화담 구조, 목 이물감
 - [기능성소화불량](../conditions/functional-dyspepsia.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+담기울결의 목 이물감·흉민을 비허담습·식적과 비교하고, 실제 연하곤란 및 역류 증상의 감별로 연결합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)

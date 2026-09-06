@@ -1,4 +1,4 @@
-﻿---
+---
 title: 위내시경은 괜찮은데 계속 속이 불편하면 어떻게 하나요?
 description: 내시경에서 큰 이상이 없는데 지속되는 소화불편을 증상패턴·기능성 문제·생활요인·한의학적 병증과 연결해 설명합니다.
 tags: [위내시경정상, 기능성소화불량, 더부룩함, 소화불량]
@@ -40,3 +40,8 @@ tags: [위내시경정상, 기능성소화불량, 더부룩함, 소화불량]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+내시경이 정상이라는 사실만으로 담적을 확정하지 않습니다. 담적이라는 말의 뜻과 실제 소화불편의 평가·치료를 함께 확인할 수 있습니다.
+
+[담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)

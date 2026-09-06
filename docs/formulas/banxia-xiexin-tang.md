@@ -2,7 +2,7 @@
 title: 반하사심탕(半夏瀉心湯)
 tags: [방제학, 반하사심탕, 상한론, 한열착잡, 심하비, 기능성소화불량, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 description: 반하사심탕의 신개고강·한열평조 구조와 심하비·구역·장명·묽은 변의 감별, 기능성소화불량 사람 대상 임상근거를 연결합니다.
 ---
 # 반하사심탕(半夏瀉心湯)
@@ -84,3 +84,9 @@ description: 반하사심탕의 신개고강·한열평조 구조와 심하비·
 - [반하사심탕 임상근거 카드](../authority/formulas/banxia-xiexin-tang.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [증상·치법으로 찾기](../herbal-integrated/by-symptom-treatment.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+심하비·한열착잡의 구조를 담음 기본방이나 비위기허 처방과 구분합니다.
+
+[담적: 증상·변증·처방·치료](../diagnostics/phlegm-accumulation.md) · [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md) · [소화불량 처방 비교](../herbal-integrated/formula-for-digestion.md)

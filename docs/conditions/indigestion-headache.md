@@ -3,7 +3,7 @@ title: 체기·소화불량과 두통
 description: 체기·소화불량과 두통을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 소화기, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 체기·소화불량과 두통
 
@@ -51,3 +51,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 체하면 머리가 아파요 · 소화 안되면 두통 · 체기 두통 · 속이 더부룩하고 머리가 아파요 · 메스껍고 두통 · 소화불량 어지럼 두통
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+소화불편과 두통·어지럼이 함께 나타날 때 담음의 증상 조합을 검토할 수 있습니다. 동반된다는 이유만으로 소화기의 담적을 모든 증상의 원인으로 확정하지 않습니다.
+
+[담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)

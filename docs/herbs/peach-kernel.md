@@ -1,8 +1,8 @@
-﻿---
+---
 title: 도인(桃仁)
 tags: [본초, 임상본초, 주요본초]
 status: 검토필요
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 도인(桃仁) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 도인(桃仁)
@@ -53,3 +53,6 @@ description: 도인(桃仁) — 본초의 성미·귀경·효능·병증·배합
 
 <!-- QUALITY_DEPTH_05_END -->
 
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+이 약재의 역할은 처방 안의 배합으로 확인합니다. [어혈 전체 안내](../diagnostics/blood-stasis.md)에서 변증별 대표 처방을 비교하고, [어혈 치료 안내](../pattern-treatment/blood-stasis.md)에서 치료 목표와 경과 확인으로 이어갈 수 있습니다.

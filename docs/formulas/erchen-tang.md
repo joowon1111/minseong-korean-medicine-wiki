@@ -3,7 +3,7 @@ title: 이진탕(二陳湯)
 description: 이진탕의 조습화담·이기화중 구조와 가래·오심·흉완비민의 감별, 온담탕·육군자탕 등 파생 처방군을 연결합니다.
 tags: [방제학, 이진탕, 담음, 화담, 비위, 방약합편, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 이진탕(二陳湯)
 
@@ -76,3 +76,9 @@ last_reviewed: 2026-09-04
 - [메스꺼움](../conditions/nausea.md)
 - [비위·담음 처방군](../formula-architecture/spleen-phlegm-family.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+담음의 기본 화담 구조에서 출발해, 허약·기체·열·수음이 더해질 때 처방이 어떻게 달라지는지 비교합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)

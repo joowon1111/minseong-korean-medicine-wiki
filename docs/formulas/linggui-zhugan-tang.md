@@ -1,8 +1,8 @@
-﻿---
+---
 title: 영계출감탕(苓桂朮甘湯)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 영계출감탕(苓桂朮甘湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 영계출감탕(苓桂朮甘湯)
@@ -34,3 +34,8 @@ description: 영계출감탕(苓桂朮甘湯) — 한약 처방의 구성·치�
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+중양부족·수음의 온양화음 구조를 습담의 조습화담, 비허담습의 건비화담과 구분합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md)

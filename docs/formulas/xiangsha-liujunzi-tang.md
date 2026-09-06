@@ -3,7 +3,7 @@ title: 향사육군자탕(香砂六君子湯)
 description: 향사육군자탕의 익기건비·이기화담 구조와 식후팽만·조기포만·식욕저하의 감별, 기능성소화불량 RCT와 메타분석을 연결합니다.
 tags: [방제학, 향사육군자탕, 기능성소화불량, 식욕저하, 비허, 기체, 방약합편, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 향사육군자탕(香砂六君子湯)
 
@@ -77,3 +77,9 @@ last_reviewed: 2026-09-04
 - [소화기 통합 지도](../symptom-integrated/digestive.md)
 - [비위·담음 처방군](../formula-architecture/spleen-phlegm-family.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+비위허약·담습·기체가 함께 나타나는 식후불편을 담음 변증 및 담적 관련 소화불편 안내와 연결합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)

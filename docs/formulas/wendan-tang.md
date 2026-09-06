@@ -3,7 +3,7 @@ title: 온담탕(溫膽湯)
 description: 온담탕의 이기화담·화위이담 구조와 불면·심계·현훈·오심이 함께 나타나는 담위불화의 감별, 온담탕 계열 임상연구를 연결합니다.
 tags: [방제학, 온담탕, 화담제, 담위불화, 불면, 심계, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 온담탕(溫膽湯)
 
@@ -82,3 +82,9 @@ last_reviewed: 2026-09-04
 - [담음](../diagnostics/phlegm-fluid.md)
 - [수면·정서·신경 허브](../pillar/sleep-neuro.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+담위불화와 흉민·오심·수면 증상의 관계를 담음 변증 안에서 비교합니다. 모든 불면이나 담적에 같은 처방을 대응시키지 않습니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md)

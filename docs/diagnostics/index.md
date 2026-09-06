@@ -1,4 +1,4 @@
-﻿---
+---
 title: 진단·변증
 description: 한의학의 진단·변증 체계를 팔강·장부·기혈진액·병인병기와 임상 의사결정으로 연결하는 진단 허브입니다.
 tags:
@@ -6,7 +6,7 @@ tags:
 - 변증
 - 한의학기초
 status: 검토완료
-last_reviewed: '2026-08-19'
+last_reviewed: 2026-09-06
 ---
 # 진단·변증
 
@@ -62,3 +62,10 @@ last_reviewed: '2026-08-19'
 → [임상 변증 감별 전체 보기](differentials/index.md)
 <!-- DIFFERENTIAL_NETWORK_16_END -->
 
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+어혈·담음·담적에서 출발할 때는 다음 안내에서 개념을 구분하고 주요 변증·처방·치료로 이어갈 수 있습니다.
+
+- [어혈: 외상·기체·한응·월경통의 변증과 활혈 처방](blood-stasis.md)
+- [담음: 습담·비허담습·담기울결·수음과 화담 처방](phlegm-fluid.md)
+- [담적: 만성 소화불편의 감별·처방·치료](phlegm-accumulation.md)

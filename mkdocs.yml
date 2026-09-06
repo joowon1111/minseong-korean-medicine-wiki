@@ -736,6 +736,7 @@ nav:
       - 혈허(血虛): diagnostics/blood-deficiency.md
       - 어혈(瘀血): diagnostics/blood-stasis.md
       - 담음(痰飮): diagnostics/phlegm-fluid.md
+      - 담적(痰積): diagnostics/phlegm-accumulation.md
     - 한의치료 방법:
       - treatments/index.md
       - 침 치료: treatments/acupuncture.md

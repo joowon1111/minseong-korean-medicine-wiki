@@ -3,7 +3,7 @@ title: 소화·비위 한의학 허브
 description: 소화불량·복통·복부팽만·식욕저하·변비·설사·과민성장증후군을 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 소화, 비위, 장, 한의학지식망]
 status: 검토완료
-last_reviewed: 2026-08-29
+last_reviewed: 2026-09-06
 ---
 
 # 소화·비위 한의학 허브
@@ -45,3 +45,9 @@ last_reviewed: 2026-08-29
 - [소화기 증상에서 먼저 확인할 신호](../clinical-safety/digestive-red-flags.md)
 - [육군자탕 임상근거](../research/formulas/rikkunshito.md)
 - [현대 임상근거 허브](clinical-evidence.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+오래된 더부룩함·명치 답답함을 담적이라고 설명받았을 때는 담음·식적·기체·비위허약의 차이부터 처방·치료까지 이어서 볼 수 있습니다.
+
+[담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)

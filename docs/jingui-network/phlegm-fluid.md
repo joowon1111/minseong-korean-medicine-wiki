@@ -2,7 +2,7 @@
 title: 금궤요략 담음·수기
 description: 금궤요략의 담음·현음·일음·지음을 현대 담음 변증과 소화·흉부·어지럼 증상으로 연결합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 금궤요략 담음·수기
 
@@ -17,3 +17,8 @@ last_reviewed: 2026-08-22
 → [담음](../diagnostics/patterns/phlegm-fluid.md)  
 → [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
 
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+고전의 담음·수기를 현대의 습담·비허담습·수음 변증 및 처방 선택과 연결합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [담음 치료와 경과 확인](../pattern-treatment/phlegm-fluid.md)

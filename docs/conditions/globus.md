@@ -3,7 +3,7 @@ title: 목이물감·매핵기
 description: 목이물감·매핵기을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 목이물감·매핵기, 환자검색]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 목이물감·매핵기
 
@@ -47,3 +47,9 @@ last_reviewed: 2026-09-04
 ## 검색 동의어
 
 목에 뭔가 걸린 느낌 · 목이물감 · 매핵기 · 목에 가래가 붙은 느낌 · 스트레스 받으면 목이 막힌 느낌
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+목 이물감과 기체·긴장·오심이 겹치는 담기울결의 맥락을 살피고, 비위기허·담습 및 실제 연하곤란과 구분합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [담음 치료와 경과 확인](../pattern-treatment/phlegm-fluid.md)
