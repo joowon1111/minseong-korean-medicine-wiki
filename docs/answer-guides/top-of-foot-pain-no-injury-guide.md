@@ -25,3 +25,9 @@ tags: [발등통증, 발통증, 보행통증, 피로골절, 발부종]
 - [부종](../conditions/edema.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+외상 없이 갑자기 붓고 뜨거운 통증은 발등 위치만으로 원인을 정하지 않습니다. 통풍을 포함한 급성 관절염의 감별을 확인합니다.
+
+[통풍·요산 관리](../conditions/gout.md)

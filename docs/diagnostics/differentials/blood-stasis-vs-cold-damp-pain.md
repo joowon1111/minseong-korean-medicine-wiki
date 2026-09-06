@@ -2,7 +2,7 @@
 title: 어혈성 통증 vs 한습성 통증
 description: 어혈성 통증 vs 한습성 통증의 임상 감별과 본초·방제·경혈 지식망을 최신 구조로 정리합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 어혈성 통증 vs 한습성 통증
 
@@ -23,3 +23,9 @@ last_reviewed: 2026-08-22
 
 → [어혈](../patterns/blood-stasis.md)
 → [한습](../patterns/cold-damp.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+아침강직·갱년기 관절통·골절 후 고정통은 원인과 회복 단계가 다릅니다. 전통적 통증 성질과 구조적·염증성 평가를 함께 봅니다.
+
+[아침강직·조조강직](../../conditions/morning-stiffness.md) · [갱년기 관절통](../../conditions/menopause-joint-pain.md) · [골절 후 회복](../../conditions/fracture-recovery.md)

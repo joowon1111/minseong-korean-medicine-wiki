@@ -104,3 +104,9 @@ last_reviewed: 2026-09-06
 혈허·기혈허의 증상 조합과 빈혈·철결핍 검사를 구분합니다. 출혈 원인과 필요한 영양 치료를 함께 확인합니다.
 
 [헤모글로빈·페리틴](../conditions/anemia-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+불면·두근거림·식욕저하를 동반한 허약에서 통증과 신체기능의 회복을 함께 살핍니다.
+
+[근감소증·노쇠](../conditions/frailty-sarcopenia.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)

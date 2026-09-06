@@ -72,6 +72,12 @@ last_reviewed: 2026-09-06
 
 [갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [갑상선 검사](thyroid-lab.md) · [제2형 당뇨병](type-2-diabetes.md)
 
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+식사량과 체중 감소에 근력·보행 저하가 겹치면 영양과 기능을 함께 봅니다. 회복 목표는 식욕의 느낌과 실제 활동을 나누어 정합니다.
+
+[근감소증·노쇠](frailty-sarcopenia.md)
+
 ## 기존 지식망과 연결
 
 - [만성피로](chronic-fatigue.md)

@@ -40,3 +40,9 @@ last_reviewed: 2026-09-06
 외상 후 통증은 위험신호·손상 평가를 거쳐 어혈·한습·긴장 등 동반 맥락을 살핍니다. 통증뿐 아니라 움직임·수면·일상 복귀를 기준으로 경과를 확인합니다.
 
 [교통사고 후유증](../conditions/traffic-accident-sequelae.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+냉감·무거움·근육 긴장과 동반 증상을 함께 살핍니다. 아침강직이나 전신통증을 한습으로만 설명하지 않고 관절 염증·수면·피로를 구분합니다.
+
+[아침강직·조조강직](../conditions/morning-stiffness.md) · [갱년기 관절통](../conditions/menopause-joint-pain.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)

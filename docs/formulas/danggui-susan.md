@@ -97,3 +97,9 @@ last_reviewed: 2026-09-06
 외상 후 통증은 위험신호·손상 평가를 거쳐 어혈·한습·긴장 등 동반 맥락을 살핍니다. 통증뿐 아니라 움직임·수면·일상 복귀를 기준으로 경과를 확인합니다.
 
 [교통사고 후유증](../conditions/traffic-accident-sequelae.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+골절 후 압통·고정통을 어혈의 전통적 틀로 살필 때도 정복·고정과 유합 확인을 유지합니다. 회복 단계와 병용약을 확인해 동반 불편을 관리합니다.
+
+[골절 후 회복](../conditions/fracture-recovery.md)

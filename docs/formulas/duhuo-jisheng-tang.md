@@ -47,3 +47,9 @@ last_reviewed: 2026-09-06
 같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
 
 [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+만성 요슬통·허약의 처방 구조와 골다공증·관절염의 질환 관리는 구분합니다. 골절 예방·염증 조절·보행 회복을 각각 확인합니다.
+
+[골다공증·골절 예방](../conditions/osteoporosis.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [갱년기 관절통](../conditions/menopause-joint-pain.md)

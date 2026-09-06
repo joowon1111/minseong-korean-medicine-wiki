@@ -69,3 +69,9 @@ last_reviewed: 2026-09-06
 외상·고정통·야간 악화 등 어혈의 단서를 한습·담습·허약과 비교하고, 활혈 처방과 치료 경과를 연결합니다.
 
 [어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 비교](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+관절이 붓는 염증성 질환, 골밀도·골절 위험, 전신통증과 수면·피로를 나누어 해당 안내로 이어갑니다.
+
+[통풍·요산 관리](../conditions/gout.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [골다공증·골절 예방](../conditions/osteoporosis.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)

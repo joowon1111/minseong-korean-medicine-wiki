@@ -2,7 +2,7 @@
 title: 비증·근골격 통증 처방 계열
 description: 독활기생탕·오적산·소경활혈탕·당귀수산을 한습·어혈·허증·외상 구조로 비교합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 비증·근골격 통증 처방 계열
 
@@ -30,3 +30,8 @@ last_reviewed: 2026-08-22
 → [어혈 vs 한습 통증](../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)  
 → [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+비증의 한습·습열·어혈·허증과 현대 질환명은 일대일로 대응하지 않습니다. 관절 염증의 원인과 회복 상태를 확인하며 처방 구조를 비교합니다.
+
+[통풍·요산 관리](../conditions/gout.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [아침강직·조조강직](../conditions/morning-stiffness.md) · [갱년기 관절통](../conditions/menopause-joint-pain.md)

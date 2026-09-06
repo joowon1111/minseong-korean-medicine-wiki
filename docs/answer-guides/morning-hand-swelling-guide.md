@@ -1,4 +1,4 @@
-﻿---
+---
 title: 아침마다 손이 붓고 뻣뻣한 이유는 무엇인가요?
 description: 아침 손 부종·뻣뻣함을 지속시간·관절통·저림·수면자세·염증성 위험신호와 함께 설명합니다.
 tags: [손붓기, 아침손부종, 손뻣뻣함, 관절통, 손저림]
@@ -26,3 +26,8 @@ tags: [손붓기, 아침손부종, 손뻣뻣함, 관절통, 손저림]
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+손가락 관절의 부종·강직이 지속되면 저림이나 수면자세 문제와 구분해 평가합니다. 검사 결과 하나보다 관절 진찰과 경과를 함께 봅니다.
+
+[아침강직·조조강직](../conditions/morning-stiffness.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md)

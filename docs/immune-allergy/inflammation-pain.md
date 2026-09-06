@@ -190,3 +190,9 @@ last_reviewed: 2026-09-06
 면역·만성염증의 관계에서 출발해 실제 진료 목표를 구체화할 수 있습니다. 잦은 감기·회복 지연은 면역 안내로, 열성 증상의 치법은 청열해독으로, 내장지방·대사위험은 비만·다이어트로 이어집니다.
 
 [면역·회복의 변증과 처방](index.md) · [청열해독·습열의 구분](../herbal-integrated/detoxification.md) · [비만·대사 관리](../conditions/obesity.md) · [건강한 다이어트](../conditions/healthy-weight-management.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+관절 염증의 원인은 질환별로 다릅니다. 자가면역성 활막염·요산염 결정과 관련된 염증·광범위 통증과 수면 문제를 각각의 안내에서 비교할 수 있습니다.
+
+[류마티스관절염](../conditions/rheumatoid-arthritis.md) · [통풍·요산 관리](../conditions/gout.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
