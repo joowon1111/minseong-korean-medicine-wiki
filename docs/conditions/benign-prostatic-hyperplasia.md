@@ -1,0 +1,46 @@
+---
+title: "전립선비대증 — 약한 소변줄기·잔뇨감·야간뇨"
+description: "전립선비대증의 배뇨증상과 검사, 약물·수술 평가, 신허·습열·기체어혈의 한약 비교 및 배뇨기능 추적을 연결합니다."
+tags: ["전립선비대증", "전립선비대", "BPH", "전립선비대증 한약", "소변줄기 약함"]
+status: 검토완료
+last_reviewed: 2026-09-06
+---
+
+# 전립선비대증 — 약한 소변줄기·잔뇨감·야간뇨
+
+전립선비대증은 전립선의 양성 증식과 관련된 상태입니다. 소변줄기 약화·시작 지연·끊김·잔뇨감뿐 아니라 빈뇨·절박뇨·야간뇨가 함께 나타날 수 있습니다. 다만 전립선 크기와 불편의 정도가 항상 비례하지 않고, 배뇨증상이 모두 전립선 때문인 것도 아닙니다.
+
+## 소변을 저장하는 문제와 배출하는 문제 {#symptom-map}
+
+| 불편한 양상 | 평가할 내용 | 함께 읽기 |
+|---|---|---|
+| 줄기가 약하고 힘을 줘야 나옴 | 폐색·방광 수축·잔뇨 | [소변줄기 약화](weak-urine-stream.md) |
+| 갑자기 급해 참기 어렵고 자주 봄 | 감염·과민성방광의 동반 | [과민성방광](overactive-bladder.md) |
+| 밤에 자주 일어남 | 야간 소변량과 수면·부종 | [야간뇨](nocturia.md) |
+| 통증·따가움·발열이 함께 있음 | 요로감염·전립선염 감별 | [방광염](cystitis.md) · [전립선염](chronic-prostatitis.md) |
+
+## 검사와 표준치료를 정하는 기준 {#assessment-treatment}
+
+증상과 복용약을 확인하고 필요에 따라 소변검사·잔뇨량·요속·전립선 평가를 시행합니다. PSA는 검사 목적과 해석을 상담하며 수치 하나로 비대증이나 암을 확정하지 않습니다. 불편이 가벼우면 경과 관찰과 생활관리를, 증상과 합병증에 따라 약물·시술·수술을 검토합니다. [NIDDK 전립선비대증 안내](https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia)
+
+**소변이 전혀 나오지 않고 아랫배가 팽팽하게 아프면 급성 요폐 평가가 필요합니다.** 혈뇨·발열·급격한 배뇨 악화도 진료를 미루지 않습니다.
+
+## 한약은 전립선 크기만으로 정하지 않습니다 {#pattern-formulas}
+
+| 동반 양상과 전통적 변증 | 비교할 자료 | 치료 목표 |
+|---|---|---|
+| 냉감·허약·요슬산연과 기화 저하 | [신허 변증](../diagnostics/patterns/kidney-deficiency.md) · [팔미지황환](../formulas/bawei-dihuang-wan.md) | 배뇨 불편과 전신 회복을 함께 평가 |
+| 배뇨 불편에 열감·습열 양상이 겹침 | [팔정산](../formulas/bazheng-san.md) · [저령탕](../formulas/zhuling-tang.md) | 감염 감별과 함께 한열·진액 상태 비교 |
+| 골반의 답답함·긴장·고정된 통증 | [기체 변증](../diagnostics/patterns/liver-qi-stagnation.md) · [어혈](../diagnostics/blood-stasis.md) | 통증과 배뇨를 나누어 추적 |
+
+이 비교는 전통적 처방 선택의 틀입니다. 개별 한약제제 연구를 모든 탕약의 전립선 크기 감소 효과로 넓히지 않습니다. [전립선비대증 한약 근거](../authority/formulas/bph-herbal-evidence-map.md) · [전립선·배뇨와 홍삼오일 연구](prostate-urinary-symptoms.md)
+
+침·전침을 병행하면 [배뇨 경혈 구성](../acupuncture-integrated/points-for-urinary.md)과 연결하고 배뇨 불편·수면을 목표로 봅니다. 한의치료가 필요한 폐색 평가나 약물·수술을 대신하지 않도록 병행 계획을 세웁니다.
+
+## 배뇨일지와 경과 확인 {#followup}
+
+**소변 본 시각·가능하면 양·급박감·야간 각성·잔뇨감**을 기록합니다. 증상 점수(IPSS), 필요 시 요속·잔뇨량을 함께 비교하면 소변이 ‘좀 시원해진 느낌’만으로 놓치기 쉬운 변화를 볼 수 있습니다.
+
+저녁 카페인·음주·수분 집중 섭취와 감기약 등 복용약을 검토합니다. 무조건 수분을 크게 줄이기보다 시간과 양을 조절하고, 약 복용 뒤 어지럼이 생기면 임의 증량·중단보다 처방 의료진과 상의합니다.
+
+→ [남성갱년기·기력저하](male-menopause.md) · [남성 비뇨기 임상근거](../authority/conditions/male-urologic-evidence-map.md)

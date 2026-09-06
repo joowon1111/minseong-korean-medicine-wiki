@@ -3,7 +3,7 @@ title: 호흡기 한약 처방 현대근거 지도
 description: 천식·비염·만성기침·COPD의 주요 한약 처방 연구를 상세 임상카드와 연결합니다.
 tags: [호흡기, 한약, 천식, 기침, 임상근거]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 호흡기 — 한약 처방 현대근거 지도
 ## 천식
@@ -19,3 +19,9 @@ last_reviewed: 2026-09-04
 - [맥문동탕](../../formulas/maidong-tang.md) → 기침 9 RCT·2,453명 종합연구, PMID `26666732`; 감염 후 마른기침과 인후건조를 중심으로 대상 질환·제형을 구분합니다.
 ## 한의학 지식망
 `기침·담·천식·호흡곤란 → 한열·담음·폐기허 등 변증 → 처방 → 구성 본초 → 폐기능·기침·삶의 질`
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](../../conditions/chronic-cough.md) · [후비루](../../conditions/postnasal-drip.md) · [축농증·부비동염](../../conditions/sinusitis.md) · [천식](../../conditions/asthma.md)

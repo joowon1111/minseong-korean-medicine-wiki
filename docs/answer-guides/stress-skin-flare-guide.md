@@ -25,3 +25,9 @@ tags: [스트레스피부, 가려움, 두드러기, 습진, 자율신경]
 - [면역·알레르기 지식망](../immune-allergy/index.md)
 - [피로·회복 저하](../immune-allergy/fatigue-recovery.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+가려움은 팽진의 시간 경과, 건조·각질·진물, 접촉 자극을 구분해 평가합니다. 청열·제습·양혈의 전통적 맥락과 피부장벽·수면·기본 치료를 함께 연결합니다.
+
+[두드러기](../conditions/urticaria.md) · [아토피피부염](../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../conditions/eczema.md)

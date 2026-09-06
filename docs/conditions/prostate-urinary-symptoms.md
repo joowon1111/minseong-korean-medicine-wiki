@@ -3,7 +3,7 @@ title: 전립선·배뇨불편
 description: 전립선·배뇨불편을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 환자검색]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 전립선·배뇨불편
 
@@ -51,6 +51,12 @@ last_reviewed: '2026-09-05'
 *Safety and Efficacy Assessment of Red Ginseng Oil (RXGIN) in Men with Lower Urinary Tract Symptoms in a Randomized, Double-Blind, Placebo-Controlled Trial.* [PMID 37652660](https://pubmed.ncbi.nlm.nih.gov/37652660/) · [DOI 10.5534/wjmh.230172](https://doi.org/10.5534/wjmh.230172)
 
 → [인삼·홍삼 현대 연구](../authority/herbs/ginseng.md) · [국내 대학병원 본초·추출물 임상연구](../authority/herbs/index.md#university-clinical-studies)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+배뇨통·절박감·소변줄기·야간 각성을 나누면 감염·저장·배출·수면 중 어떤 평가가 필요한지 구체화할 수 있습니다. 필요한 검사와 변증별 치료를 각각의 안내에서 이어갑니다.
+
+[방광염](cystitis.md) · [과민성방광](overactive-bladder.md) · [전립선비대증](benign-prostatic-hyperplasia.md) · [야간뇨](nocturia.md)
 
 ## 기존 지식망과 연결
 

@@ -3,7 +3,7 @@ title: 당귀작약산(當歸芍藥散)
 description: 당귀작약산의 양혈조간·건비이수 구조, 월경·골반 증상 임상 단서, 계지복령환과의 감별, 사람 대상 근거와 안전성을 연결합니다.
 tags: [방제학, 당귀작약산, 여성건강, 월경통, 혈허, 수습]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 당귀작약산(當歸芍藥散)
 
@@ -63,3 +63,9 @@ last_reviewed: 2026-09-04
 - [당귀작약산 현대 임상근거 카드](../authority/formulas/danggui-shaoyao-san.md)
 - [보혈·활혈 본초](../herbs/categories/blood.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+월경 전후 불편은 두 주기 이상 증상과 시기를 기록해 비교합니다. 주기 불규칙·월경통과 PMS의 차이를 확인하고 기분·붓기·두통·수면에 맞는 치료 목표로 이어갑니다.
+
+[월경전증후군·PMS](../conditions/pms.md)

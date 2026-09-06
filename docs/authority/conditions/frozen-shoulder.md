@@ -1,5 +1,7 @@
 # 유착성관절낭염(오십견) — 현대 임상근거 카드
 
+→ [오십견의 감별·한약·침치료·운동 전체 안내](../../conditions/frozen-shoulder.md)
+
 ## 임상 맥락
 유착성관절낭염은 통증과 함께 능동·수동 관절가동범위가 모두 제한되는 것이 특징입니다. 회전근개질환과 구분하고 야간통, 외회전 제한, 일상생활 기능을 함께 평가합니다.
 
@@ -18,3 +20,9 @@
 - 2026 연구에서는 약침과 물리치료를 비교한 pragmatic RCT와 함께 경제성 평가가 보고되었습니다. DOI `10.3390/healthcare14050605`.
 
 > `Pharmacoacupuncture for the Treatment of Frozen Shoulder: protocol for a systematic review and meta-analysis`는 **완료된 SR/MA가 아니라 연구 프로토콜**이므로 치료효과 근거와 분리해 추적합니다.
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+어깨가 굳는 양상, 팔을 들고 버티기 어려운 양상, 쥘 때 팔꿈치가 아픈 양상을 비교합니다. 신경 증상과 힘줄·관절 기능을 확인하고 한약·침구치료와 부하 조절을 연결합니다.
+
+[오십견](../../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../../conditions/rotator-cuff-pain.md) · [테니스엘보](../../conditions/tennis-elbow.md)

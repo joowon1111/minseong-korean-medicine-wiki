@@ -13,3 +13,9 @@
 - 2024 pragmatic randomized controlled pilot study에서는 회전근개 질환에서 **침 치료에 약침을 병행하는 전략**의 효과와 안전성을 평가했습니다. PMID `38947130`, DOI `10.2147/JPR.S457425`.
 
 기존 침 임상근거와 함께 약침 병행 연구를 별도 치료축으로 연결해 볼 수 있습니다.
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+어깨가 굳는 양상, 팔을 들고 버티기 어려운 양상, 쥘 때 팔꿈치가 아픈 양상을 비교합니다. 신경 증상과 힘줄·관절 기능을 확인하고 한약·침구치료와 부하 조절을 연결합니다.
+
+[오십견](../../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../../conditions/rotator-cuff-pain.md) · [테니스엘보](../../conditions/tennis-elbow.md)

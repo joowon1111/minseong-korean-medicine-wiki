@@ -227,3 +227,9 @@ last_reviewed: 2026-09-06
 같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
 
 [허리디스크](../../conditions/lumbar-disc-herniation.md) · [척추관협착증](../../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../../conditions/sciatica.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+외상 후 통증은 위험신호·손상 평가를 거쳐 어혈·한습·긴장 등 동반 맥락을 살핍니다. 통증뿐 아니라 움직임·수면·일상 복귀를 기준으로 경과를 확인합니다.
+
+[교통사고 후유증](../../conditions/traffic-accident-sequelae.md) · [오십견](../../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../../conditions/rotator-cuff-pain.md)

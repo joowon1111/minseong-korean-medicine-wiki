@@ -1,8 +1,8 @@
-﻿---
+---
 title: 팔정산(八正散)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 팔정산(八正散) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 팔정산(八正散)
@@ -34,3 +34,21 @@ description: 팔정산(八正散) — 한약 처방의 구성·치법·병증·�
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 
+## 열림·습열과 현대 배뇨 증상을 연결하기 {#urinary-formula-context}
+
+팔정산은 습열하주의 열림을 청열·이수·통림으로 해석하는 처방입니다. 배뇨 시 불편·빈뇨 같은 증상을 볼 때 소변검사와 감염·폐색 평가를 함께 진행합니다. 전통적 열림이 모든 방광염이나 과민성방광과 같은 진단명은 아닙니다.
+
+| 비교할 처방 | 중심 차이 |
+|---|---|
+| 팔정산 | 습열·열림의 청열통림·사화 |
+| [저령탕](zhuling-tang.md) | 수열호결에 양음의 층을 함께 고려 |
+| [오령산](wuling-san.md) | 수습·기화·갈증·소변의 조합을 비교 |
+| [팔미지황환](bawei-dihuang-wan.md) | 냉감·허약 등 신양허·기화 저하와 구분 |
+
+## 배뇨 불편에서 먼저 확인할 점 {#infection-obstruction}
+
+[방광염](../conditions/cystitis.md)의 세균성 감염에는 필요한 항생제 치료를 병행합니다. [전립선비대증](../conditions/benign-prostatic-hyperplasia.md)의 요폐·잔뇨와 [과민성방광](../conditions/overactive-bladder.md)의 절박감은 치료 목표가 다릅니다.
+
+청열·통림의 증상 개선을 세균 제거 또는 전립선 크기 감소로 동일시하지 않습니다. 발열·옆구리 통증·혈뇨·급성 요폐가 있으면 처방 반응을 기다리지 말고 평가합니다. [배뇨 경혈 구성](../acupuncture-integrated/points-for-urinary.md)
+
+대황의 배변 영향, 허약·탈수·임신 여부와 병용약을 확인하며 약재 기원·제형·배합은 진료에서 검토합니다. 경과는 배뇨통·횟수·절박감·불편과 필요한 검사로 확인합니다.

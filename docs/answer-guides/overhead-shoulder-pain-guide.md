@@ -1,4 +1,4 @@
-﻿---
+---
 title: 팔을 올릴 때 어깨가 아프면 무엇을 확인하나요?
 description: 팔 올릴 때 어깨통증을 가동범위·야간통·근력·목통증과 연결해 설명하는 환자 질문형 안내입니다.
 tags: [어깨통증, 팔올릴때어깨통증, 야간통, 회전근개]
@@ -39,3 +39,8 @@ tags: [어깨통증, 팔올릴때어깨통증, 야간통, 회전근개]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+어깨가 굳는 양상, 팔을 들고 버티기 어려운 양상, 쥘 때 팔꿈치가 아픈 양상을 비교합니다. 신경 증상과 힘줄·관절 기능을 확인하고 한약·침구치료와 부하 조절을 연결합니다.
+
+[오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) · [테니스엘보](../conditions/tennis-elbow.md)

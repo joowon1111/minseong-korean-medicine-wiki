@@ -3,7 +3,7 @@ title: 회음부가 묵직하고 소변·사정 후 불편해요 — 만성전�
 description: 균이 확인되는 전립선염과 만성골반통증후군을 구분하고, 골반저근·배뇨·성기능·스트레스까지 함께 살피는 한의치료 안내입니다.
 tags: [비뇨기, 남성건강, 만성전립선염, 만성골반통증후군, 골반저근, 한약, 침, 약침]
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 
 # 회음부가 묵직하고 소변·사정 후 불편해요
@@ -253,7 +253,13 @@ CP/CPPS 자체가 전립선암으로 진행한다는 뜻은 아닙니다. 다만
   "description": "감염성 전립선염과 CP/CPPS를 구분하고 골반저근·배뇨·성기능·한약·침치료를 안내합니다.",
   "url": "https://wiki.minseong.co.kr/conditions/chronic-prostatitis/",
   "inLanguage": "ko-KR",
-  "dateModified": "2026-08-28",
+  "dateModified": "2026-09-06",
   "about": {"@type": "MedicalCondition", "name": "만성전립선염·만성골반통증후군"}
 }
 </script>
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+배뇨통·절박감·소변줄기·야간 각성을 나누면 감염·저장·배출·수면 중 어떤 평가가 필요한지 구체화할 수 있습니다. 필요한 검사와 변증별 치료를 각각의 안내에서 이어갑니다.
+
+[방광염](cystitis.md) · [과민성방광](overactive-bladder.md) · [전립선비대증](benign-prostatic-hyperplasia.md) · [야간뇨](nocturia.md)

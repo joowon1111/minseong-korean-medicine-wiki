@@ -64,3 +64,9 @@ hide:
 소화·수면·두통은 동반 증상을 함께 비교하면 다음에 읽을 자료를 좁히기 좋습니다.
 
 [역류성식도염](../conditions/gerd.md) · [매핵기](../conditions/globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md) · [편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+배뇨의 불편은 감염·절박감·배출 지연·야간 각성으로 나누어 살펴볼 수 있습니다.
+
+[방광염](../conditions/cystitis.md) · [과민성방광](../conditions/overactive-bladder.md) · [전립선비대증](../conditions/benign-prostatic-hyperplasia.md) · [야간뇨](../conditions/nocturia.md)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 교통사고 치료는 통증이 줄면 바로 끝내도 되나요?
 description: 교통사고 치료 종료를 통증점수뿐 아니라 가동범위·수면·업무·운전·재발 패턴과 함께 설명합니다.
 tags: [교통사고치료, 교통사고후유증, 사고후회복, 통증회복, 한의원교통사고]
@@ -43,3 +43,8 @@ tags: [교통사고치료, 교통사고후유증, 사고후회복, 통증회복,
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+외상 후 통증은 위험신호·손상 평가를 거쳐 어혈·한습·긴장 등 동반 맥락을 살핍니다. 통증뿐 아니라 움직임·수면·일상 복귀를 기준으로 경과를 확인합니다.
+
+[교통사고 후유증](../conditions/traffic-accident-sequelae.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md)

@@ -3,7 +3,7 @@ title: 맥문동탕(麥門冬湯)
 description: 금궤요략 맥문동탕의 윤폐익위·강역 구조, 감염 후 마른기침 임상 단서, 소청룡탕·생맥산과의 감별, 사람 대상 기침 연구와 동명방을 연결합니다.
 tags: [방제학, 맥문동탕, 마른기침, 감염후기침, 윤폐, 동명방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 맥문동탕(麥門冬湯)
 
@@ -62,3 +62,9 @@ last_reviewed: 2026-09-04
 - [맥문동탕 현대 임상근거](../authority/formulas/maidong-tang.md)
 - [호흡기 한약 처방 지도](../authority/formulas/respiratory-herbal-formula-map.md)
 - [맥문동](../herbs/ophiopogon.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](../conditions/chronic-cough.md) · [후비루](../conditions/postnasal-drip.md) · [축농증·부비동염](../conditions/sinusitis.md) · [천식](../conditions/asthma.md)

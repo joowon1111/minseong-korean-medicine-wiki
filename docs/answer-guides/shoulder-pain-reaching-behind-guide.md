@@ -1,4 +1,4 @@
-﻿---
+---
 title: 팔을 뒤로 돌릴 때 어깨가 아픈 이유는 무엇인가요?
 description: 등 뒤로 손을 돌릴 때 어깨통증을 관절가동범위·회전근개·유착·일상기능과 함께 설명합니다.
 tags: [어깨통증, 팔뒤로통증, 오십견, 회전근개, 어깨가동범위]
@@ -43,3 +43,8 @@ tags: [어깨통증, 팔뒤로통증, 오십견, 회전근개, 어깨가동범�
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+어깨가 굳는 양상, 팔을 들고 버티기 어려운 양상, 쥘 때 팔꿈치가 아픈 양상을 비교합니다. 신경 증상과 힘줄·관절 기능을 확인하고 한약·침구치료와 부하 조절을 연결합니다.
+
+[오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) · [테니스엘보](../conditions/tennis-elbow.md)

@@ -197,3 +197,9 @@ last_reviewed: 2026-09-06
 - Kelley MJ, et al. Shoulder Pain and Mobility Deficits: Adhesive Capsulitis. *J Orthop Sports Phys Ther*. 2013. PMID [23636125](https://pubmed.ncbi.nlm.nih.gov/23636125/).
 - Zhang HN, et al. Efficacy of acupuncture for rotator cuff diseases: a systematic review and meta-analysis. 2024. PMID [38463603](https://pubmed.ncbi.nlm.nih.gov/38463603/).
 - Lee JH, et al. Pharmacoacupuncture for the Treatment of Frozen Shoulder: A Systematic Review and Meta-analysis. 2024. PMID [39096470](https://pubmed.ncbi.nlm.nih.gov/39096470/).
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+어깨가 굳는 양상, 팔을 들고 버티기 어려운 양상, 쥘 때 팔꿈치가 아픈 양상을 비교합니다. 신경 증상과 힘줄·관절 기능을 확인하고 한약·침구치료와 부하 조절을 연결합니다.
+
+[오십견](frozen-shoulder.md) · [회전근개 통증·파열](rotator-cuff-pain.md) · [테니스엘보](tennis-elbow.md)

@@ -3,7 +3,7 @@ title: 여성건강 한의학 허브
 description: 월경·난임·시험관·임신·유산 후 회복·산후보약·산후풍·갱년기를 생애주기별로 연결합니다.
 tags: [Pillar, 여성건강, 난임, 시험관, 임신, 유산후조리, 산후보약, 산후풍, 갱년기]
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 
 # 여성건강 한의학 허브
@@ -70,3 +70,9 @@ last_reviewed: 2026-09-05
 - [수면·정서·신경 허브](sleep-neuro.md)
 - [침구·한의치료 허브](acupuncture-treatment.md)
 - [현대 임상근거 허브](clinical-evidence.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+월경 전후 불편은 두 주기 이상 증상과 시기를 기록해 비교합니다. 주기 불규칙·월경통과 PMS의 차이를 확인하고 기분·붓기·두통·수면에 맞는 치료 목표로 이어갑니다.
+
+[월경전증후군·PMS](../conditions/pms.md)

@@ -3,7 +3,7 @@ title: 비염 + 기침·후비루
 description: 환자가 두 가지 이상 증상을 함께 검색할 때 관련 질환·한약·침구 자료로 연결하는 통합 페이지입니다.
 tags: [복합증상, 환자검색, 한약, 침구]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 비염 + 기침·후비루
 
@@ -39,3 +39,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 비염 기침 · 콧물이 목뒤로 넘어가고 기침해요 · 아침에 콧물 기침 · 후비루 기침 · 비염 때문에 기침해요 · 비염 기침 한약
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](../conditions/chronic-cough.md) · [후비루](../conditions/postnasal-drip.md) · [축농증·부비동염](../conditions/sinusitis.md) · [천식](../conditions/asthma.md)

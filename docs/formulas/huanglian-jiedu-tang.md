@@ -132,3 +132,9 @@ description: 황련해독탕의 황련·황금·황백·치자 처방 구조와 
 황련해독탕의 청열해독은 화열·실열의 증상 조합을 다루는 치법입니다. 소식·이수·체중감량의 목적과 구분해 실제 열감·홍조·번조·피부·소화의 경과로 평가합니다.
 
 [해독·청열해독 전체 안내](../herbal-integrated/detoxification.md) · [면역·염증·회복](../immune-allergy/index.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+가려움은 팽진의 시간 경과, 건조·각질·진물, 접촉 자극을 구분해 평가합니다. 청열·제습·양혈의 전통적 맥락과 피부장벽·수면·기본 치료를 함께 연결합니다.
+
+[두드러기](../conditions/urticaria.md) · [아토피피부염](../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../conditions/eczema.md)

@@ -71,3 +71,9 @@ last_reviewed: 2026-09-06
 ## 관련 진료 안내 {#related}
 
 [간수치 상승](../conditions/elevated-liver-enzymes.md) · [간 영양제와 한약](../conditions/liver-supplements-herbal.md) · [지방간](../conditions/fatty-liver.md) · [만성콩팥병](../conditions/chronic-kidney-disease.md) · [면역](../immune-allergy/index.md) · [비만](../conditions/obesity.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+가려움은 팽진의 시간 경과, 건조·각질·진물, 접촉 자극을 구분해 평가합니다. 청열·제습·양혈의 전통적 맥락과 피부장벽·수면·기본 치료를 함께 연결합니다.
+
+[두드러기](../conditions/urticaria.md) · [아토피피부염](../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../conditions/eczema.md)
