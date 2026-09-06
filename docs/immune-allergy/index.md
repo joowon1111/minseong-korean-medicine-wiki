@@ -72,3 +72,9 @@ CRP·ESR, 백혈구, IgE, NK세포 활성도 등 한 가지 수치로 면역 전
 ## 이어서 보기 {#related}
 
 [면역 통합 지도](integrated-map.md) · [보익·회복 허브](../pillar/tonic-recovery.md) · [호흡·비염·면역 허브](../pillar/respiratory-rhinitis-immune.md) · [해독·청열해독](../herbal-integrated/detoxification.md) · [비만·체중관리](../conditions/obesity.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+호흡기·피부에서 면역과 알레르기를 함께 볼 때는 실제 증상의 모양과 원인, 질환별 조절 상태를 구분합니다.
+
+[천식](../conditions/asthma.md) · [두드러기](../conditions/urticaria.md) · [아토피피부염](../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../conditions/eczema.md)

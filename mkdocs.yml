@@ -430,6 +430,10 @@ nav:
       - 손목터널증후군: conditions/carpal-tunnel.md
       - 턱관절통증·입 벌릴 때 아파요: conditions/temporomandibular-disorder.md
       - 어깨통증: conditions/shoulder-pain.md
+      - 오십견: conditions/frozen-shoulder.md
+      - 회전근개 통증·파열: conditions/rotator-cuff-pain.md
+      - 테니스엘보: conditions/tennis-elbow.md
+      - 교통사고 후유증: conditions/traffic-accident-sequelae.md
       - 손목통증·엄지쪽 손목이 아파요: conditions/wrist-pain.md
       - 무릎통증: conditions/knee-pain.md
       - 발목통증: conditions/ankle-pain.md
@@ -473,9 +477,17 @@ nav:
       - 비염: conditions/rhinitis.md
       - 감기·급성 상기도감염: conditions/common-cold.md
       - 기침: conditions/cough.md
+      - 만성기침: conditions/chronic-cough.md
+      - 천식: conditions/asthma.md
+      - 후비루: conditions/postnasal-drip.md
+      - 축농증·부비동염: conditions/sinusitis.md
+      - 두드러기: conditions/urticaria.md
+      - 아토피피부염: conditions/atopic-dermatitis.md
+      - 습진·접촉피부염: conditions/eczema.md
       - 대상포진: conditions/shingles.md
       - 대상포진 후 신경통: conditions/postherpetic-neuralgia.md
     - 여성·임신·산후:
+      - 월경전증후군·PMS: conditions/pms.md
       - 임신준비·난임·임신·산후 허브: womens-health/fertility-pregnancy-postpartum.md
       - 난임·자연임신 준비: conditions/infertility-preconception.md
       - 시험관·인공수정·착상 준비: conditions/assisted-reproduction-support.md
@@ -496,6 +508,14 @@ nav:
       - 대사증후군·건강검진 체중관리: conditions/metabolic-syndrome.md
       - 만성콩팥병·신장기능 검사: conditions/chronic-kidney-disease.md
       - 당뇨병성 콩팥병·미세알부민뇨: conditions/diabetic-kidney-disease.md
+    - 비뇨·남성건강:
+      - 남성갱년기: conditions/male-menopause.md
+      - 야간뇨: conditions/nocturia.md
+      - 과민성방광: conditions/overactive-bladder.md
+      - 방광염·반복 요로감염: conditions/cystitis.md
+      - 전립선비대증: conditions/benign-prostatic-hyperplasia.md
+      - 빈뇨·배뇨일지: conditions/frequent-urination.md
+      - 만성전립선염·골반통: conditions/chronic-prostatitis.md
     - 비만·다이어트·체중관리:
       - 비만 평가·변증·치료: conditions/obesity.md
       - 건강한 다이어트·유지: conditions/healthy-weight-management.md

@@ -10,7 +10,7 @@ tags:
 - 배란장애
 - 마른다낭성
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-06
 ---
 # 다낭성난소증후군(PCOS)
 
@@ -208,3 +208,9 @@ last_reviewed: '2026-08-29'
 - Jo J, et al. Acupuncture for polycystic ovarian syndrome: a systematic review and meta-analysis. PMID [28591042](https://pubmed.ncbi.nlm.nih.gov/28591042/).
 - Yang L, et al. Acupuncture and moxibustion for ovulation induction and pregnancy outcomes in PCOS. PMID [38075051](https://pubmed.ncbi.nlm.nih.gov/38075051/).
 - Rong A, et al. Add-on effect of the Guizhi Fuling formula for PCOS. PMID [37143960](https://pubmed.ncbi.nlm.nih.gov/37143960/).
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+월경 전후 불편은 두 주기 이상 증상과 시기를 기록해 비교합니다. 주기 불규칙·월경통과 PMS의 차이를 확인하고 기분·붓기·두통·수면에 맞는 치료 목표로 이어갑니다.
+
+[월경전증후군·PMS](pms.md)

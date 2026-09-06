@@ -34,3 +34,9 @@ last_reviewed: 2026-09-06
 반복되는 재채기·콧물·가려움은 알레르기와 감염을 구분합니다. 평소 표허·자한·허약의 관리와 현재 풍한·수음·열성 증상 치료의 시기를 나누어 처방을 비교합니다.
 
 [면역 전체 안내](index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](tonic-herb-formula-map.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](../conditions/chronic-cough.md) · [후비루](../conditions/postnasal-drip.md) · [축농증·부비동염](../conditions/sinusitis.md) · [천식](../conditions/asthma.md)

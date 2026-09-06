@@ -1,8 +1,8 @@
-﻿---
+---
 title: 창이자산(蒼耳子散)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 창이자산(蒼耳子散) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 창이자산(蒼耳子散)
@@ -34,3 +34,8 @@ description: 창이자산(蒼耳子散) — 한약 처방의 구성·치법·병
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](../conditions/chronic-cough.md) · [후비루](../conditions/postnasal-drip.md) · [축농증·부비동염](../conditions/sinusitis.md) · [천식](../conditions/asthma.md)

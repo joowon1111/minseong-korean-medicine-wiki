@@ -9,7 +9,7 @@ tags:
 - 가래기침
 - 감염후기침
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 # 기침
 
@@ -211,3 +211,9 @@ last_reviewed: 2026-08-28
 - Kim KI, et al. A traditional herbal medication, Maekmoondong-tang, for cough: a systematic review and meta-analysis. 2016. PMID [26666732](https://pubmed.ncbi.nlm.nih.gov/26666732/).
 - Lee B, et al. Acupuncture-related therapy for chronic cough: a systematic review and network meta-analysis. 2025. PMID [39944112](https://pubmed.ncbi.nlm.nih.gov/39944112/).
 - Abuelgasim H, et al. Effectiveness of honey for symptomatic relief in upper respiratory tract infections: a systematic review and meta-analysis. 2021. PMID [32817011](https://pubmed.ncbi.nlm.nih.gov/32817011/).
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](chronic-cough.md) · [후비루](postnasal-drip.md) · [축농증·부비동염](sinusitis.md) · [천식](asthma.md)

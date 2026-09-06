@@ -9,7 +9,7 @@ tags:
 - 생리주기
 - 배란장애
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-06
 ---
 # 월경불순·생리불순
 
@@ -191,3 +191,9 @@ AMH는 난소 자극 반응과 난포 수를 참고하는 검사이며, 월경�
 - American College of Obstetricians and Gynecologists. [Amenorrhea: Absence of Periods](https://www.acog.org/womens-health/faqs/amenorrhea-absence-of-periods).
 - American Society for Reproductive Medicine. [Current evaluation of amenorrhea: a committee opinion](https://www.asrm.org/practice-guidance/practice-committee-documents/current-evaluation-of-amenorrhea/).
 - Li Y, et al. Acupoint stimulation and Chinese herbal medicines for menstrual disorders: systematic review and meta-analysis. PMID [33039750](https://pubmed.ncbi.nlm.nih.gov/33039750/).
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+월경 전후 불편은 두 주기 이상 증상과 시기를 기록해 비교합니다. 주기 불규칙·월경통과 PMS의 차이를 확인하고 기분·붓기·두통·수면에 맞는 치료 목표로 이어갑니다.
+
+[월경전증후군·PMS](pms.md)

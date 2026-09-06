@@ -197,3 +197,9 @@ last_reviewed: 2026-09-06
 월경혈괴·하복부 압통·고정통이 있다면 어혈에 한응·기체·혈허가 얼마나 겹치는지 비교해 처방 방향을 구체화합니다.
 
 [어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 비교](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+월경 전후 불편은 두 주기 이상 증상과 시기를 기록해 비교합니다. 주기 불규칙·월경통과 PMS의 차이를 확인하고 기분·붓기·두통·수면에 맞는 치료 목표로 이어갑니다.
+
+[월경전증후군·PMS](pms.md)

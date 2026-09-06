@@ -51,3 +51,9 @@ last_reviewed: 2026-09-06
 팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
 
 [목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md) · [경추성두통](../conditions/cervicogenic-headache.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+어깨가 굳는 양상, 팔을 들고 버티기 어려운 양상, 쥘 때 팔꿈치가 아픈 양상을 비교합니다. 신경 증상과 힘줄·관절 기능을 확인하고 한약·침구치료와 부하 조절을 연결합니다.
+
+[오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) · [테니스엘보](../conditions/tennis-elbow.md)

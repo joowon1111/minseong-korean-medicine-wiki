@@ -456,3 +456,13 @@ last_reviewed: 2026-09-06
 소화·수면·두통은 동반 증상을 함께 비교하면 다음에 읽을 자료를 좁히기 좋습니다.
 
 [역류성식도염](gerd.md) · [매핵기](globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md) · [편두통](migraine.md) · [긴장성두통](tension-headache.md) · [스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](early-awakening.md) · [숙면·회복감](nonrestorative-sleep.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+호흡기·피부에서 면역과 알레르기를 함께 볼 때는 실제 증상의 모양과 원인, 질환별 조절 상태를 구분합니다.
+
+[천식](asthma.md) · [두드러기](urticaria.md) · [아토피피부염](atopic-dermatitis.md) · [습진·접촉피부염](eczema.md)
+
+배뇨의 불편은 감염·절박감·배출 지연·야간 각성으로 나누어 살펴볼 수 있습니다.
+
+[방광염](cystitis.md) · [과민성방광](overactive-bladder.md) · [전립선비대증](benign-prostatic-hyperplasia.md) · [야간뇨](nocturia.md)

@@ -23,3 +23,9 @@
 흡입 스테로이드·기관지확장제와 급성 악화 대응이 우선이다. 침은 표준치료를 대체하지 않는 보조치료로 설명한다.
 
 → [질환별 현대 임상근거 카드](../index.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](../../conditions/chronic-cough.md) · [후비루](../../conditions/postnasal-drip.md) · [축농증·부비동염](../../conditions/sinusitis.md) · [천식](../../conditions/asthma.md)

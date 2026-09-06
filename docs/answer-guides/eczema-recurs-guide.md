@@ -25,3 +25,9 @@ tags: [습진, 만성습진, 피부염, 가려움, 피부한약]
 - [장·비위와 전신 회복](../immune-allergy/gut-recovery.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [염증·통증과 회복](../immune-allergy/inflammation-pain.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+가려움은 팽진의 시간 경과, 건조·각질·진물, 접촉 자극을 구분해 평가합니다. 청열·제습·양혈의 전통적 맥락과 피부장벽·수면·기본 치료를 함께 연결합니다.
+
+[두드러기](../conditions/urticaria.md) · [아토피피부염](../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../conditions/eczema.md)

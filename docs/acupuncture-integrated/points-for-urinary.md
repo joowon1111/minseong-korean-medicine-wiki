@@ -3,7 +3,7 @@ title: 빈뇨·야간뇨·배뇨불편과 경혈 찾기
 description: 빈뇨·야간뇨·배뇨불편과 경혈 찾기을 환자 검색어에서 경혈·침구·MPS·병증 지식으로 연결합니다.
 tags: [경혈, 침구, 침치료, MPS, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 빈뇨·야간뇨·배뇨불편과 경혈 찾기
 
@@ -45,3 +45,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 빈뇨 경혈 · 야간뇨 혈자리 · 전립선 침치료 · 배뇨불편 경혈 · 과민성방광 침 · 중극 · 관원 · 삼음교 · 태계 · 방광수 · 신수
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+배뇨통·절박감·소변줄기·야간 각성을 나누면 감염·저장·배출·수면 중 어떤 평가가 필요한지 구체화할 수 있습니다. 필요한 검사와 변증별 치료를 각각의 안내에서 이어갑니다.
+
+[방광염](../conditions/cystitis.md) · [과민성방광](../conditions/overactive-bladder.md) · [전립선비대증](../conditions/benign-prostatic-hyperplasia.md) · [야간뇨](../conditions/nocturia.md)

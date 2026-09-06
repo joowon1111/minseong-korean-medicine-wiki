@@ -3,7 +3,7 @@ title: 팔미지황환(八味地黃丸)
 description: 팔미지황환의 보신조양 구조, 냉감·배뇨·요슬 증상 임상 단서, 육미지황환·진무탕과의 감별, 추적지표와 부자 안전성을 연결합니다.
 tags: [방제학, 팔미지황환, 신양허, 배뇨, 냉감, 보신조양]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 팔미지황환(八味地黃丸)
 
@@ -66,3 +66,9 @@ last_reviewed: 2026-09-04
 - [육미지황환 현대 임상근거](../authority/formulas/liuwei-dihuang-wan.md)
 - [보익·회복 핵심](../herbal-integrated/tonic-recovery.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+배뇨통·절박감·소변줄기·야간 각성을 나누면 감염·저장·배출·수면 중 어떤 평가가 필요한지 구체화할 수 있습니다. 필요한 검사와 변증별 치료를 각각의 안내에서 이어갑니다.
+
+[방광염](../conditions/cystitis.md) · [과민성방광](../conditions/overactive-bladder.md) · [전립선비대증](../conditions/benign-prostatic-hyperplasia.md) · [야간뇨](../conditions/nocturia.md)

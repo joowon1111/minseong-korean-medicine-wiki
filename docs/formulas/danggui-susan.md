@@ -91,3 +91,9 @@ last_reviewed: 2026-09-06
 급성 목 굳음의 풍한·기체, 외상 후 어혈, 허약·감각 불편의 맥락을 구분하며 목디스크·손목 신경 압박의 평가를 함께 이어갑니다.
 
 [목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md)
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+외상 후 통증은 위험신호·손상 평가를 거쳐 어혈·한습·긴장 등 동반 맥락을 살핍니다. 통증뿐 아니라 움직임·수면·일상 복귀를 기준으로 경과를 확인합니다.
+
+[교통사고 후유증](../conditions/traffic-accident-sequelae.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md)

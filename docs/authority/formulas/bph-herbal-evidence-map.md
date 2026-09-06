@@ -12,3 +12,9 @@
 
 ## 연결
 과민성방광·남성 비뇨생식 근거지도와 보신·활혈·이수 본초 및 비뇨기 경혈망을 연결합니다.
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+배뇨통·절박감·소변줄기·야간 각성을 나누면 감염·저장·배출·수면 중 어떤 평가가 필요한지 구체화할 수 있습니다. 필요한 검사와 변증별 치료를 각각의 안내에서 이어갑니다.
+
+[방광염](../../conditions/cystitis.md) · [과민성방광](../../conditions/overactive-bladder.md) · [전립선비대증](../../conditions/benign-prostatic-hyperplasia.md) · [야간뇨](../../conditions/nocturia.md)

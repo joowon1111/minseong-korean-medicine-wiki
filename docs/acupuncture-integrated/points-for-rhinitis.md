@@ -3,7 +3,7 @@ title: 비염·코막힘과 경혈 찾기
 description: 비염·코막힘과 경혈 찾기을 환자 검색어에서 경혈·침구·MPS·병증 지식으로 연결합니다.
 tags: [경혈, 침구, 침치료, MPS, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 비염·코막힘과 경혈 찾기
 
@@ -45,3 +45,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 비염 경혈 · 코막힘 혈자리 · 재채기 침치료 · 콧물 침자리 · 비염 한의원 침 · 영향 · 비통 · 상성 · 합곡 · 족삼리 · 폐수
+
+## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
+
+코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
+
+[만성기침](../conditions/chronic-cough.md) · [후비루](../conditions/postnasal-drip.md) · [축농증·부비동염](../conditions/sinusitis.md) · [천식](../conditions/asthma.md)
