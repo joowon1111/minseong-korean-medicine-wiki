@@ -98,3 +98,9 @@ last_reviewed: 2026-09-06
 기력·식욕·활동 후 회복을 중기부족의 맥락에서 살피고, 표허 중심의 옥병풍산이나 기혈양허 처방과 비교합니다.
 
 [면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+회복을 평가할 때 피로·식사·수면뿐 아니라 활동 다음날의 악화와 실제 생활기능을 함께 기록합니다.
+
+[정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md)

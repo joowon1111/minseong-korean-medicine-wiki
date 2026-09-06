@@ -3,7 +3,7 @@ title: 보익·피로·회복 한의학 허브
 description: 만성피로와 허약, 수술·퇴원·암 치료·골절·산후 회복을 녹용·보익 본초, 처방, 침구치료와 임상근거로 연결합니다.
 tags: [Pillar, 보익, 피로, 회복, 보약]
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 
 # 보익·피로·회복 한의학 허브
@@ -124,3 +124,9 @@ last_reviewed: 2026-09-05
 
 !!! note "회복관리에서 함께 확인할 점"
     발열·상처 이상·지속적인 구토나 출혈, 갑작스러운 호흡곤란·흉통, 급격한 체중감소처럼 치료 과정의 합병증을 의심할 신호는 수술·질환을 담당하는 의료진의 평가가 우선입니다.
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+피로의 느낌과 검사 결과를 함께 살피고, 원인 치료와 식사·수면·일상 기능의 회복을 연결합니다.
+
+[빈혈·철결핍성빈혈](../conditions/anemia-fatigue.md) · [갑상선기능저하증](../conditions/hypothyroidism.md) · [갑상선기능항진증](../conditions/hyperthyroidism.md) · [갑상선 검사](../conditions/thyroid-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md) · [의도하지 않은 체중감소](../conditions/unintentional-weight-loss.md)

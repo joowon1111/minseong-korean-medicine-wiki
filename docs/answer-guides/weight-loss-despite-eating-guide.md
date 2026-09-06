@@ -25,3 +25,9 @@ tags: [체중감소, 살빠짐, 식욕, 대사, 소화]
 - [만성피로](../conditions/chronic-fatigue.md)
 - [장·비위와 전신 회복](../immune-allergy/gut-recovery.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+실제 섭취량과 체중 변화에 갈증·두근거림·땀 등 동반 증상이 있는지 확인합니다.
+
+[의도하지 않은 체중감소](../conditions/unintentional-weight-loss.md) · [제2형 당뇨병](../conditions/type-2-diabetes.md) · [갑상선기능항진증](../conditions/hyperthyroidism.md)

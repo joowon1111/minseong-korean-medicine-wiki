@@ -3,7 +3,7 @@ title: 피로보약·기력회복·허약
 description: 피로보약·기력회복 한약의 판단 기준과 경과 관찰을 만성피로 원인 감별·대표 처방·녹용·노년기·수술 후 회복과 연결합니다.
 tags: [질환증상, 피로보약, 기력회복, 허약, 보약, 피로]
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 # 피로보약·기력회복·허약
 
@@ -80,3 +80,9 @@ last_reviewed: 2026-09-05
 - [맞춤한약](custom-herbal-medicine.md)
 - [소화불량](dyspepsia.md)
 - [NHS 피로의 원인과 진료 안내](https://www.nhs.uk/symptoms/tiredness-and-fatigue/)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+피로의 느낌과 검사 결과를 함께 살피고, 원인 치료와 식사·수면·일상 기능의 회복을 연결합니다.
+
+[빈혈·철결핍성빈혈](anemia-fatigue.md) · [갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [갑상선 검사](thyroid-lab.md) · [정상 검사 뒤 지속 피로](normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](post-viral-fatigue.md) · [의도하지 않은 체중감소](unintentional-weight-loss.md)

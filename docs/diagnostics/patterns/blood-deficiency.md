@@ -51,3 +51,8 @@ tags: [변증, 임상한의학, 본초, 방제, 경혈]
 - [임상 핵심 본초·방제·경혈](../../clinical-core/index.md)
 - [현대 임상근거](../../pillar/clinical-evidence.md)
 
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+혈허·기혈허의 증상 조합과 빈혈·철결핍 검사를 구분합니다. 출혈 원인과 필요한 영양 치료를 함께 확인합니다.
+
+[빈혈·철결핍성빈혈](../../conditions/anemia-fatigue.md) · [헤모글로빈·페리틴](../../conditions/anemia-lab.md) · [정상 검사 뒤 지속 피로](../../conditions/normal-checkup-fatigue.md)

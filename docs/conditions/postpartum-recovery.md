@@ -8,7 +8,7 @@ tags:
 - 산후보약
 - 산후풍
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 # 산후회복
 
@@ -210,3 +210,9 @@ last_reviewed: 2026-09-05
 - CDC. [Urgent maternal warning signs](https://www.cdc.gov/hearher/pregnant-postpartum/index.html).
 - Zhao FY, et al. Acupuncture as an Alternative or Adjunct for Postpartum Depression: Bayesian systematic review and network meta-analysis. 2024. PMID [39323936](https://pubmed.ncbi.nlm.nih.gov/39323936/).
 - Jensen MCH, et al. Treatment for women with postpartum iron deficiency anaemia. Cochrane Review. 2024. PMID [39670550](https://pubmed.ncbi.nlm.nih.gov/39670550/).
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+월경량·출혈과 철 상태를 함께 살피며, 검사로 확인하는 빈혈과 전통적인 혈허 변증을 구분합니다.
+
+[빈혈·철결핍성빈혈](anemia-fatigue.md) · [헤모글로빈·페리틴](anemia-lab.md) · [과다월경](heavy-menstruation.md)

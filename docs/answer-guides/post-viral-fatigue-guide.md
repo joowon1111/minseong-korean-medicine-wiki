@@ -1,4 +1,4 @@
-﻿---
+---
 title: 감기는 나았는데 한 달째 기운이 없는 이유는 무엇인가요?
 description: 감염 후 지속되는 피로를 회복기간·기침·식욕·수면·활동후악화·위험신호와 함께 설명합니다.
 tags: [감기후피로, 감염후피로, 회복저하, 만성피로, 면역]
@@ -43,3 +43,8 @@ tags: [감기후피로, 감염후피로, 회복저하, 만성피로, 면역]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+회복을 평가할 때 피로·식사·수면뿐 아니라 활동 다음날의 악화와 실제 생활기능을 함께 기록합니다.
+
+[정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md)

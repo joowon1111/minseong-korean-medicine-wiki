@@ -78,3 +78,9 @@ CRP·ESR, 백혈구, IgE, NK세포 활성도 등 한 가지 수치로 면역 전
 호흡기·피부에서 면역과 알레르기를 함께 볼 때는 실제 증상의 모양과 원인, 질환별 조절 상태를 구분합니다.
 
 [천식](../conditions/asthma.md) · [두드러기](../conditions/urticaria.md) · [아토피피부염](../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../conditions/eczema.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+자가면역성 갑상선 질환과 감염에 취약하다는 의미의 면역저하를 구분하고, 현재 호르몬 기능을 검사로 확인합니다.
+
+[갑상선기능저하증](../conditions/hypothyroidism.md) · [갑상선기능항진증](../conditions/hyperthyroidism.md)

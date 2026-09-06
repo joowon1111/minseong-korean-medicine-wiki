@@ -98,3 +98,9 @@ last_reviewed: 2026-09-06
 잠들기 어려움, 새벽에 깬 뒤 재입면의 어려움, 충분히 잔 듯해도 남는 피로는 구분합니다. 각 안내에서 동반 증상별 처방과 수면·주간 기능의 평가를 연결합니다.
 
 [스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+혈허·기혈허의 증상 조합과 빈혈·철결핍 검사를 구분합니다. 출혈 원인과 필요한 영양 치료를 함께 확인합니다.
+
+[헤모글로빈·페리틴](../conditions/anemia-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md)

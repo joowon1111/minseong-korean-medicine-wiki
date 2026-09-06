@@ -86,3 +86,9 @@ last_reviewed: 2026-09-06
 ## 더 자세히 보기 {#related}
 
 [비만 한의표준임상진료지침, 2024](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=325&menu_idx=14) · [복부비만](abdominal-obesity.md) · [지방간](fatty-liver.md) · [공복혈당·당화혈색소](prediabetes.md) · [이상지질혈증](dyslipidemia.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+당뇨전단계와 이미 진단된 당뇨병을 구분하고, 혈당·지질·체중의 치료 목표를 개인의 위험도와 함께 확인합니다.
+
+[제2형 당뇨병](type-2-diabetes.md)

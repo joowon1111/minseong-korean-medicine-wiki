@@ -1,4 +1,4 @@
-﻿---
+---
 title: 생리 끝나고 너무 피곤한 이유는 무엇인가요?
 description: 생리 후 피로를 월경량·철결핍 가능성·수면·통증·식사·회복속도와 함께 살펴봅니다.
 tags: [생리후피로, 월경후피로, 여성피로, 빈혈, 여성한약]
@@ -43,3 +43,8 @@ tags: [생리후피로, 월경후피로, 여성피로, 빈혈, 여성한약]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+월경량·출혈과 철 상태를 함께 살피며, 검사로 확인하는 빈혈과 전통적인 혈허 변증을 구분합니다.
+
+[빈혈·철결핍성빈혈](../conditions/anemia-fatigue.md) · [헤모글로빈·페리틴](../conditions/anemia-lab.md) · [과다월경](../conditions/heavy-menstruation.md)

@@ -66,6 +66,12 @@ last_reviewed: 2026-09-06
 
 일정한 조건에서 체중을 비교하고, 하루 식사량·식후 불편·배변·걷기와 활동의 회복을 기록합니다. 체중이 계속 줄거나 삼킴곤란·지속 구토가 생기면 보약을 반복하기 전에 원인을 재평가합니다. 아이의 식욕은 [소아 식욕부진](child-poor-appetite.md)에서 성장곡선과 함께 따로 봅니다.
 
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+두근거림·피로·배변·체중 변화에 내분비 원인이 동반되는지 검사와 경과를 함께 살핍니다.
+
+[갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [갑상선 검사](thyroid-lab.md) · [제2형 당뇨병](type-2-diabetes.md)
+
 ## 기존 지식망과 연결
 
 - [만성피로](chronic-fatigue.md)

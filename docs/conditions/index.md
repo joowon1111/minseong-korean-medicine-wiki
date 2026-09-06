@@ -472,3 +472,9 @@ last_reviewed: 2026-09-06
 식사·배변, 아이의 성장, 어지럼과 청력은 동반 양상에 따라 아래 안내에서 자세히 볼 수 있습니다.
 
 [소아 식욕부진](child-poor-appetite.md) · [이석증](bppv.md) · [메니에르병](menieres-disease.md) · [돌발성난청](sudden-sensorineural-hearing-loss.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+검진에서 발견된 수치 변화와 피로·체중·월경 증상을 원인별 평가와 치료로 연결합니다.
+
+[제2형 당뇨병](type-2-diabetes.md) · [당뇨전단계·혈당 검사](prediabetes.md) · [이상지질혈증](dyslipidemia.md) · [갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [빈혈·철결핍성빈혈](anemia-fatigue.md)
