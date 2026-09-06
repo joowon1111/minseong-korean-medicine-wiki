@@ -1,4 +1,4 @@
-﻿---
+---
 title: 앉았다 일어날 때 어지러운 이유는 무엇인가요?
 description: 기립 시 어지럼을 지속시간·혈압·수분섭취·식사·빈혈 가능성·약물과 함께 설명합니다.
 tags: [어지럼, 기립성어지럼, 기립성저혈압, 자율신경, 피로]
@@ -26,3 +26,8 @@ tags: [어지럼, 기립성어지럼, 기립성저혈압, 자율신경, 피로]
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
 
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+일어설 때 눈앞이 캄캄한 느낌과 고개를 돌릴 때 빙 도는 느낌을 구분하고 혈압·맥박·섭취 상태를 확인합니다.
+
+[기립성 어지럼](../conditions/orthostatic-dizziness.md) · [이석증](../conditions/bppv.md)

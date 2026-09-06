@@ -13,7 +13,7 @@ keywords:
   - "어지럼 침치료"
   - "현훈"
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 
 # 어지러워요 — R42 현기증 및 어지러움
@@ -235,3 +235,9 @@ last_reviewed: 2026-08-28
 - [두통 R51 안내](r51-headache.md)
 - [두통·어지럼 한약 처방 찾기](../../herbal-integrated/formula-for-headache.md)
 - [통증·증상으로 침구치료 찾기](../../acupuncture-integrated/by-symptom.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+짧은 자세 유발 회전감, 반복 발작과 청력 변동, 갑작스러운 청력저하는 검사와 치료 시점이 다릅니다.
+
+[이석증](../../conditions/bppv.md) · [메니에르병](../../conditions/menieres-disease.md) · [돌발성난청](../../conditions/sudden-sensorineural-hearing-loss.md) · [난청·청력재활](../../conditions/hearing-loss.md) · [기립성 어지럼](../../conditions/orthostatic-dizziness.md)

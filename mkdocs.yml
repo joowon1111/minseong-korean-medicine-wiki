@@ -445,7 +445,13 @@ nav:
       - 경추성두통: conditions/cervicogenic-headache.md
       - 구안와사·안면마비: conditions/facial-palsy.md
       - 어지럼: conditions/dizziness.md
+      - 이석증: conditions/bppv.md
+      - 메니에르병: conditions/menieres-disease.md
+      - 기립성 어지럼·저혈압: conditions/orthostatic-dizziness.md
       - 이명: conditions/tinnitus.md
+      - 난청·청력저하: conditions/hearing-loss.md
+      - 돌발성난청: conditions/sudden-sensorineural-hearing-loss.md
+      - 귀먹먹함: conditions/ear-fullness.md
       - 손발저림·팔다리가 저려요: conditions/limb-numbness.md
       - 다리에 쥐가 나요·근육경련: conditions/muscle-cramps.md
       - 하지불안증후군·밤에 다리가 불편해요: conditions/restless-legs-syndrome.md
@@ -465,9 +471,19 @@ nav:
       - 노쇠·근감소·근력저하: conditions/frailty-sarcopenia.md
       - 성장보약·아이 보약: conditions/child-parent-tonic-guide.md
       - 성장기·아이 키 성장: conditions/child-growth.md
+      - 소아 식욕부진: conditions/child-poor-appetite.md
+      - 소아 변비: conditions/child-constipation.md
+      - 소아 설사: conditions/child-diarrhea.md
     - 소화·수술 후 회복:
       - 소화불량: conditions/dyspepsia.md
       - 과민성대장증후군: conditions/ibs.md
+      - 변비·배변곤란: conditions/constipation.md
+      - 설사·만성설사: conditions/diarrhea.md
+      - 아침·식후설사: conditions/morning-diarrhea.md
+      - 복부팽만: conditions/bloating.md
+      - 장내가스·방귀: conditions/abdominal-gas.md
+      - 메스꺼움·오심: conditions/nausea.md
+      - 성인 식욕저하: conditions/poor-appetite-adult.md
       - 역류성식도염·속쓰림: conditions/gerd.md
       - 매핵기·목이물감: conditions/globus.md
       - 수술 후 회복·기력저하: conditions/postoperative-recovery.md

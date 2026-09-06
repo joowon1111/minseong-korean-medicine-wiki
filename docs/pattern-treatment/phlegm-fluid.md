@@ -52,3 +52,9 @@ last_reviewed: 2026-09-06
 기능성소화불량의 평가·한약·침구치료는 [한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)과 연결해 볼 수 있습니다. 구체적 처방의 연구 대상·제형·비교군은 각 처방 문서에서 확인합니다.
 
 [소화·비위 허브](../pillar/digestion-spleen-stomach.md) · [수면·신경계 허브](../pillar/sleep-neuro.md) · [담적 안내](../diagnostics/phlegm-accumulation.md) · [변증·치법 전체 비교](index.md) · [진료 안전·감별](../clinical-safety/index.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+담적·담음·식적이라는 용어를 식후 팽만·오심·배변·섭취량의 실제 변화와 연결합니다.
+
+[복부팽만](../conditions/bloating.md) · [메스꺼움](../conditions/nausea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) · [식욕저하](../conditions/poor-appetite-adult.md)

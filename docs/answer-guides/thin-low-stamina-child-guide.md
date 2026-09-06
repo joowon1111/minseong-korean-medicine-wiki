@@ -1,4 +1,4 @@
-﻿---
+---
 title: 잘 먹는데도 아이가 마르고 체력이 약하면 무엇을 확인하나요?
 description: 마르고 쉽게 지치는 아이를 실제 섭취량·체중곡선·활동량·수면·배변·전신증상과 함께 살펴봅니다.
 tags: [마른아이, 체력약한아이, 소아보약, 체중증가, 허약아]
@@ -22,7 +22,7 @@ tags: [마른아이, 체력약한아이, 소아보약, 체중증가, 허약아]
 
 ## 더 깊게 보기
 - [소아보약](../conditions/child-parent-tonic-guide.md)
-- [식욕부진](../conditions/poor-appetite-adult.md)
+- [소아 식욕부진](../conditions/child-poor-appetite.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 
@@ -39,8 +39,12 @@ tags: [마른아이, 체력약한아이, 소아보약, 체중증가, 허약아]
 - [아이가 또래보다 키가 작으면 무엇을 먼저 확인해야 하나요?](shorter-than-peers-growth-guide.md)
 - [성장기 아이의 수면과 키 성장은 어떤 관계가 있나요?](sleep-and-child-growth-guide.md)
 
-> **검색 포인트:** 소아·성장·보약 관련 문서들은 서로 중복되는 페이지가 아니라, 환자가 실제로 구분해서 묻는 상황별 질문을 나누어 설명합니다.
+식욕·체중·성장속도·배변·활동량 중 가장 달라진 부분을 기록하면 상담할 내용을 구체화할 수 있습니다.
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
 
+식욕 문제와 배변으로 인한 불편이 함께 있는지 구분합니다.
+
+[소아 변비](../conditions/child-constipation.md) · [소아 설사](../conditions/child-diarrhea.md)

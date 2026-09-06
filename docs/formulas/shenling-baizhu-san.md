@@ -3,7 +3,7 @@ title: 삼령백출산(參苓白朮散)
 description: 삼령백출산의 보기건비·삼습지사 구조, 만성 묽은변·식욕저하 임상 단서, 육군자탕·평위산과의 감별, 만성설사 임상근거와 안전성을 연결합니다.
 tags: [방제학, 삼령백출산, 만성설사, 식욕저하, 비위기허, 수습]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 삼령백출산(參苓白朮散)
 
@@ -65,3 +65,9 @@ last_reviewed: 2026-09-04
 - [소화기 한약 현대 임상근거](../authority/formulas/digestive-herbal-evidence.md)
 - [사군자탕 계열](../formula-architecture/sijunzi-family.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변 시간만으로 처방을 정하지 않고 원인과 한열·허실을 함께 봅니다. 소아에서는 수분·성장 평가와 개별 처방이 필요합니다.
+
+[아침·식후설사](../conditions/morning-diarrhea.md) · [소아 설사](../conditions/child-diarrhea.md)

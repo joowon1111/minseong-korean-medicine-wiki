@@ -3,7 +3,7 @@ title: 소화기 한약 현대 임상근거
 description: 기능성소화불량·과민성장증후군·기능성변비의 한약 처방 근거와 대표 PMID를 한곳에 연결합니다.
 tags: [한약, 소화기, 기능성소화불량, 과민성장증후군, 변비, 임상근거]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 소화기 한약 현대 임상근거
 
@@ -41,3 +41,9 @@ last_reviewed: '2026-09-05'
 ## 임상에서 연결하는 순서
 
 `주증상과 위험신호 → 기능성 질환과 기질적 질환 감별 → 비위기허·담음·식적·기체·한열 등 병증 → 처방과 제형 → 증상·식사량·배변·삶의 질 재평가`
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
+
+[변비](../../conditions/constipation.md) · [급성·만성설사](../../conditions/diarrhea.md) · [아침·식후설사](../../conditions/morning-diarrhea.md) · [복부팽만](../../conditions/bloating.md) · [성인 식욕저하](../../conditions/poor-appetite-adult.md) · [소아 식욕부진](../../conditions/child-poor-appetite.md) · [메스꺼움](../../conditions/nausea.md)

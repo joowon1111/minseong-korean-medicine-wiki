@@ -28,3 +28,9 @@ last_reviewed: 2026-09-06
 ‘담적’이라는 말을 들었더라도 소화불편의 실제 양상을 다시 구분합니다. **허약과 식후팽만**이 크면 [향사육군자탕](../../formulas/xiangsha-liujunzi-tang.md), **습체중초의 그득함**은 [평위산](../../formulas/pingwei-san.md), **심하비·한열착잡**은 [반하사심탕](../../formulas/banxia-xiexin-tang.md) 등으로 비교 방향이 달라집니다.
 
 [담적 전체 안내](../phlegm-accumulation.md) · [담음 전체 안내](../phlegm-fluid.md) · [담음 치료](../../pattern-treatment/phlegm-fluid.md) · [기능성소화불량](../../conditions/functional-dyspepsia.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+담적·담음·식적이라는 용어를 식후 팽만·오심·배변·섭취량의 실제 변화와 연결합니다.
+
+[복부팽만](../../conditions/bloating.md) · [메스꺼움](../../conditions/nausea.md) · [아침·식후설사](../../conditions/morning-diarrhea.md) · [식욕저하](../../conditions/poor-appetite-adult.md)

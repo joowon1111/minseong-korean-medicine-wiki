@@ -12,7 +12,7 @@ keywords:
   - 이명 침치료
   - 귀울림
 status: published
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 
 # 귀에서 삐·윙 소리가 나요
@@ -314,3 +314,9 @@ last_reviewed: 2026-08-28
 
 !!! note "안내"
     이 문서는 건강정보 제공을 위한 일반 안내입니다. 갑작스러운 청력저하, 박동성 이명, 한쪽의 지속성 이명은 먼저 이비인후과 평가를 받고 개인의 검사 결과와 복용약을 확인해 치료 계획을 정하세요.
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+짧은 자세 유발 회전감, 반복 발작과 청력 변동, 갑작스러운 청력저하는 검사와 치료 시점이 다릅니다.
+
+[이석증](bppv.md) · [메니에르병](menieres-disease.md) · [돌발성난청](sudden-sensorineural-hearing-loss.md) · [기립성 어지럼](orthostatic-dizziness.md)

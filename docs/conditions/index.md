@@ -466,3 +466,9 @@ last_reviewed: 2026-09-06
 배뇨의 불편은 감염·절박감·배출 지연·야간 각성으로 나누어 살펴볼 수 있습니다.
 
 [방광염](cystitis.md) · [과민성방광](overactive-bladder.md) · [전립선비대증](benign-prostatic-hyperplasia.md) · [야간뇨](nocturia.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+식사·배변, 아이의 성장, 어지럼과 청력은 동반 양상에 따라 아래 안내에서 자세히 볼 수 있습니다.
+
+[소아 식욕부진](child-poor-appetite.md) · [이석증](bppv.md) · [메니에르병](menieres-disease.md) · [돌발성난청](sudden-sensorineural-hearing-loss.md)

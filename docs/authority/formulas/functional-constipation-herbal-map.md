@@ -1,4 +1,6 @@
 # 기능성 변비 — 한약 처방 현대근거 지도
+
+→ [변비의 감별·처방 비교·생활관리](../../conditions/constipation.md)
 ## 대규모 한약 근거
 systematic review/meta-analysis **97개 연구·8,693명**에서 한약치료는 임상반응, 전반적 변비증상, 배변횟수와 변 상태를 유의하게 개선했습니다. PMID `35801027`.
 ## 대표 처방
@@ -11,3 +13,9 @@ systematic review/meta-analysis **97개 연구·8,693명**에서 한약치료는
 `기체·실증 → 지실·후박·대황 등 구성 본초 탐색`
 ## 아카이브 연결
 기능성 변비 질환카드와 대장 관련 경혈·본초·방제 임상근거를 연결합니다.
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+변 형태·힘주기·잔변감을 함께 비교하고, 아이의 배변 참기와 성인 변비는 연령과 원인에 맞춰 구분합니다.
+
+[변비의 감별·치료](../../conditions/constipation.md) · [소아 변비](../../conditions/child-constipation.md)

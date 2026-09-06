@@ -1,12 +1,12 @@
 ---
-title: 변비
-description: 변비의 양상·위험신호·약물 원인을 구분하고 제천전·마자인환·전침 등 한의치료 연결을 정리합니다.
-tags: [질환증상, 변비, 기능성변비, 허비, 제천전, 환자검색]
+title: "변비 — 딱딱한변·잔변감·배변곤란"
+description: "변비의 변 형태·힘주기·잔변감과 약물 원인, 배출장애 평가, 제천전·마자인환과 전침·생활관리의 연결을 정리합니다."
+tags: ["변비", "기능성변비", "변비 한약", "노인성변비", "산후변비", "허비", "제천전"]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 
-# 변비
+# 변비 — 딱딱한변·잔변감·배변곤란
 
 **Constipation**
 
@@ -68,3 +68,17 @@ Liu et al., *Annals of Internal Medicine* 2016 다기관 RCT는 중증 기능성
 ## 검색 동의어
 
 변비 · 기능성변비 · 노인성변비 · 산후변비 · 허비 · 대변이 안 나와요 · 변이 딱딱해요 · 잔변감 · Constipation
+
+## 매일 대변을 보는데도 변비인가요? {#incomplete-emptying}
+
+매일 조금씩 보더라도 딱딱한 변을 힘들게 배출하거나 잔변감이 반복되면 평가가 필요합니다. 반대로 횟수가 적어도 부드럽게 보고 불편이 없다면 횟수만으로 치료를 늘리지 않습니다. [딱딱한변·배변곤란](constipation-hard-stool.md)에서는 변 형태와 힘주기를, [과민성대장증후군](ibs.md)에서는 복통과 배변 변화의 관계를 이어서 봅니다.
+
+변이 부드러워져도 출구가 막힌 느낌과 과도한 힘주기가 계속되면 골반저 배출장애 등도 검토합니다. 필요한 경우 바이오피드백 등 배변 근육의 협응을 돕는 치료를 상담합니다. 자극성 변비약이나 식이섬유를 계속 더하는 것만으로 해결되지 않을 수 있습니다. [NIDDK 변비 치료](https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment)
+
+## 식이섬유를 늘렸더니 배가 더 빵빵해요 {#fiber-bloating}
+
+섭취량을 갑자기 늘렸는지, 수분과 식사량은 어떤지, 기존 변비·팽만이 얼마나 심한지 봅니다. [복부팽만](bloating.md)과 [장내가스](abdominal-gas.md)를 함께 읽고 본인에게 맞는 양과 종류를 조절합니다. 약물이 필요하면 완하제 선택과 사용 기간을 의료진과 정하고, 현재 약을 임의로 중단하지 않습니다. [NIDDK 생활·약물 관리](https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/treatment)
+
+## 연령과 허약 양상에 따라 이어서 보기 {#age-pattern-routes}
+
+아이의 배변 참기·배변통은 [소아 변비](child-constipation.md)에서, 성인의 기허·허비는 [보중익기탕](../formulas/buzhong-yiqi-tang.md)과 [제천전](../formulas/jichuan-jian.md)에서 비교합니다. 같은 처방을 나이만 바꾸어 적용하지 않으며, [기능성변비의 전침 연구](../authority/conditions/functional-constipation.md)는 해당 연구의 대상과 치료 구성을 확인해 읽습니다.

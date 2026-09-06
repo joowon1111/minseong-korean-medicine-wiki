@@ -4,7 +4,7 @@ description: 마자인환의 여섯 약재 구성, 제천전과의 감별, 기�
 tags: [마자인환, 변비, 장조, 윤장, 소화기, 임상근거]
 aliases: [마자인환, 麻子仁丸, MaZiRenWan, Ma Zi Ren Wan, Hemp Seed Pill]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 마자인환 — 건조한 변·기능성변비와 배변 회복 연구
 
@@ -66,3 +66,9 @@ last_reviewed: '2026-09-05'
 ## 함께 보기
 
 [변비 임상 안내](../conditions/constipation.md) · [마자인환 근거 요약](../authority/formulas/mazi-ren-wan.md) · [소화기 한약 근거](../authority/formulas/digestive-herbal-evidence.md) · [주요 처방 연구 허브](../authority/formulas/herbal-formula-evidence-hub.md)
+
+## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
+
+변 형태·힘주기·잔변감을 함께 비교하고, 아이의 배변 참기와 성인 변비는 연령과 원인에 맞춰 구분합니다.
+
+[소아 변비](../conditions/child-constipation.md)
