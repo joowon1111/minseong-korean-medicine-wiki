@@ -196,3 +196,9 @@ last_reviewed: 2026-09-06
 - Liu CY, et al. Clinical effect and contributing factors of acupuncture for knee osteoarthritis. 2024. PMID [39486882](https://pubmed.ncbi.nlm.nih.gov/39486882/).
 - Durable Effects of Acupuncture for Knee Osteoarthritis: A Systematic Review and Meta-analysis. 2024. PMID [38635021](https://pubmed.ncbi.nlm.nih.gov/38635021/).
 - Pragmatic randomized controlled pilot study of pharmacopuncture for chronic knee pain. 2025. PMID [40572793](https://pubmed.ncbi.nlm.nih.gov/40572793/).
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+무릎이 갑자기 붓고 뜨거운 경우와 여러 관절의 부종·강직이 지속되는 경우를 구분합니다. 퇴행성 변화와 염증성 질환이 겹칠 수도 있어 현재 양상에 맞춰 평가합니다.
+
+[통풍·요산 관리](gout.md) · [류마티스관절염](rheumatoid-arthritis.md) · [아침강직·조조강직](morning-stiffness.md)

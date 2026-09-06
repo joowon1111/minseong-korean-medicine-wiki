@@ -66,6 +66,12 @@ last_reviewed: 2026-09-06
 
 체중을 올리는 처방으로 원인불명 감소를 가리는 방식으로 접근하지 않습니다. 체중과 함께 **식사량·보행·근력·부종 여부**를 봐야 수분 증가와 영양·기능 회복을 구분할 수 있습니다. [노쇠·근감소](frailty-sarcopenia.md) · [기력회복](energy-recovery.md) · [먹는데도 살이 빠질 때](../answer-guides/weight-loss-despite-eating-guide.md)
 
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+원인 평가와 함께 근육·식사·활동 변화를 확인합니다. 체중이 줄었다는 사실뿐 아니라 일어서기·보행·낙상 위험을 살핍니다.
+
+[근감소증·노쇠](frailty-sarcopenia.md)
+
 ## 기존 지식망과 연결
 
 - [만성피로](chronic-fatigue.md)

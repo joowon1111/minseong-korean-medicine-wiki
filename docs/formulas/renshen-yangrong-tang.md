@@ -104,3 +104,9 @@ last_reviewed: 2026-09-06
 회복을 평가할 때 피로·식사·수면뿐 아니라 활동 다음날의 악화와 실제 생활기능을 함께 기록합니다.
 
 [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+어르신의 식사·피로·허약과 골절 이후 회복 지연을 비교합니다. 기력의 느낌뿐 아니라 보행·일어서기·낙상을 함께 봅니다.
+
+[근감소증·노쇠](../conditions/frailty-sarcopenia.md) · [골절 후 회복](../conditions/fracture-recovery.md)

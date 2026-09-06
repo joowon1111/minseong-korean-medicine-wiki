@@ -84,3 +84,9 @@ CRP·ESR, 백혈구, IgE, NK세포 활성도 등 한 가지 수치로 면역 전
 자가면역성 갑상선 질환과 감염에 취약하다는 의미의 면역저하를 구분하고, 현재 호르몬 기능을 검사로 확인합니다.
 
 [갑상선기능저하증](../conditions/hypothyroidism.md) · [갑상선기능항진증](../conditions/hyperthyroidism.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+자가면역성 관절염은 감염에 취약하다는 의미의 면역저하와 구분합니다. 관절 부종과 질병 활성도·복용약을 함께 평가합니다.
+
+[류마티스관절염](../conditions/rheumatoid-arthritis.md)

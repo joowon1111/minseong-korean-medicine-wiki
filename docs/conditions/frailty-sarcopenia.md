@@ -1,11 +1,11 @@
 ---
-title: 노쇠·근감소·근력저하
-description: 노쇠·근감소·근력저하에서 식사·보행·낙상·생활기능을 살피고 어르신 보약·재활·회복 자료로 연결합니다.
-tags: [질환증상, 환자검색, 회복]
+title: "근감소증·노쇠 — 근력저하·보행·영양과 회복"
+description: "근감소증과 노쇠의 차이, 근력·근육량·보행 평가, 영양·운동과 보익 처방의 회복 목표를 안내합니다."
+tags: ["근감소증", "근감소", "노쇠", "근력저하", "근감소 보약", "노인 근력저하"]
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
-# 노쇠·근감소·근력저하
+# 근감소증·노쇠 — 근력저하·보행·영양과 회복
 
 노쇠·근감소에서는 근육량뿐 아니라 걷기·일어서기와 일상생활의 변화를 함께 살핍니다. 식욕·피로·수면과 보약이 궁금하다면 [노인보약·어르신보약](elderly-tonic.md)을 함께 참고하세요.
 
@@ -53,6 +53,31 @@ last_reviewed: 2026-09-05
 | 피로·수면·회복 | [어르신 보약의 처방 방향](elderly-tonic.md#formula-selection)과 동반 증상 평가 |
 
 WHO의 [노인 통합돌봄 안내](https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing/ageing-and-health/integrated-care-for-older-people-icope)처럼 기능과 돌봄 환경을 함께 살핍니다. 한약·침구치료도 현재 회복 단계·병증에 맞춰 영양·활동관리와 함께 계획합니다.
+
+## 근육량이 적은 것과 근감소증은 같은가요? {#muscle-function}
+
+근감소증은 근육량뿐 아니라 **악력 등 근력과 보행·일어서기 같은 신체기능**을 함께 평가합니다. 체성분검사 한 장이나 다리가 가늘다는 인상만으로 확정하지 않습니다. 노쇠는 식사·활동·피로·질병과 생활기능을 더 넓게 살피는 개념으로 근감소증과 겹칠 수 있습니다. [AWGS 근감소증 진단·치료 합의문](https://pubmed.ncbi.nlm.nih.gov/32033882/)
+
+| 변화 | 함께 살필 내용 |
+|---|---|
+| 의자에서 일어나기 어려움 | 하지 근력·관절통·균형 |
+| 걸음이 느려지고 자주 넘어짐 | 보행·시력·어지럼·약물 |
+| 살이 빠지고 먹는 양이 줄어듦 | 섭취·소화·삼킴·원인 질환 |
+| 체중은 비슷한데 힘이 줄어듦 | 근육·지방 구성과 활동 변화 |
+
+갑작스러운 한쪽 마비나 빠르게 진행하는 약화는 노화로 넘기지 않습니다. 섭취와 체중 변화는 [성인 식욕저하](poor-appetite-adult.md)·[원인불명 체중감소](unintentional-weight-loss.md), 검사 해석은 [빈혈](anemia-fatigue.md)·[갑상선기능저하증](hypothyroidism.md)으로 이어집니다.
+
+## 영양과 운동을 실제 생활에 붙이기 {#strength-nutrition}
+
+현재 할 수 있는 의자 일어서기·저항운동·균형 활동을 안전하게 시작하고 식사량과 단백질 섭취를 함께 점검합니다. 혼자 일어서기 불안한 경우 지지대와 보호자를 활용합니다. 통증·낙상·심폐질환이 있다면 운동 종류와 강도를 조정합니다. [WHO 노인 통합돌봄](https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing/ageing-and-health/integrated-care-for-older-people-icope)
+
+보충제의 양을 일률적으로 정하기보다 식사·체중·활동과 신장기능을 확인합니다. [골다공증](osteoporosis.md)이 함께 있으면 근력과 골절 예방을 같이 관리합니다.
+
+## 보약은 어떤 회복 목표로 비교하나요? {#sarcopenia-formulas}
+
+식사·기력 저하를 동반한 비기허는 [보중익기탕](../formulas/buzhong-yiqi-tang.md), 불면·두근거림·식욕저하는 [귀비탕](../formulas/guibi-tang.md), 오래된 허약·기혈부족은 [인삼양영탕](../formulas/renshen-yangrong-tang.md)의 전통적 구조와 비교합니다. 처방 선택과 연구 범위는 [노인보약](elderly-tonic.md#formula-selection)에서 이어서 볼 수 있습니다.
+
+‘기운이 난다’는 느낌과 근육량·근력이 회복되는 것은 구분합니다. 식사·피로·수면을 관리하면서 **악력·일어서기·보행·낙상·생활 독립성**을 함께 추적합니다.
 
 ## 기존 지식망과 연결
 

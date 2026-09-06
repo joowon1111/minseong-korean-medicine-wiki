@@ -183,3 +183,9 @@ last_reviewed: 2026-09-06
 피로의 느낌과 검사 결과를 함께 살피고, 원인 치료와 식사·수면·일상 기능의 회복을 연결합니다.
 
 [빈혈·철결핍성빈혈](anemia-fatigue.md) · [갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [갑상선 검사](thyroid-lab.md) · [정상 검사 뒤 지속 피로](normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](post-viral-fatigue.md) · [의도하지 않은 체중감소](unintentional-weight-loss.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+넓은 부위의 통증과 비회복성 수면이 겹치는지, 실제 근력·보행이 저하되는지 구분해 피로의 동반 양상을 평가합니다.
+
+[섬유근육통·전신통증](../authority/conditions/fibromyalgia.md) · [근감소증·노쇠](frailty-sarcopenia.md)

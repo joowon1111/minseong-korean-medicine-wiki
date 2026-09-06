@@ -3,7 +3,7 @@ title: 손목통증·엄지쪽 손목이 아파요
 description: 엄지쪽·새끼손가락쪽·손바닥쪽 손목통증을 구분하고 드퀘르벵 건초염·손목터널·TFCC·염좌의 침·전침·약침·한약과 운동치료를 연결합니다.
 tags: [손목통증, 엄지손목통증, 손목건초염, 드퀘르벵, 손목터널증후군, TFCC, 육아손목, 침, 전침, 약침]
 status: 검토완료
-last_reviewed: 2026-08-29
+last_reviewed: 2026-09-06
 ---
 
 # 손목통증·엄지쪽 손목이 아파요
@@ -180,5 +180,11 @@ last_reviewed: 2026-08-29
     외상 후 변형·심한 부종, 주상골 압통, 손가락 순환이상, 진행성 감각저하·근위축 또는 발열을 동반한 관절 열감이 있으면 영상검사와 전문 진료를 우선합니다.
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalWebPage","name":"손목통증·엄지쪽 손목이 아파요","url":"https://wiki.minseong.co.kr/conditions/wrist-pain/","inLanguage":"ko-KR","dateModified":"2026-08-29","about":{"@type":"MedicalCondition","name":"손목통증"}}
+{"@context":"https://schema.org","@type":"MedicalWebPage","name":"손목통증·엄지쪽 손목이 아파요","url":"https://wiki.minseong.co.kr/conditions/wrist-pain/","inLanguage":"ko-KR","dateModified":"2026-09-06","about":{"@type":"MedicalCondition","name":"손목통증"}}
 </script>
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+손목·손가락의 관절 부종과 아침강직은 저림을 유발하는 신경 압박과 구분합니다. 여러 관절이 함께 붓거나 오래 굳으면 염증성 관절염을 평가합니다.
+
+[류마티스관절염](rheumatoid-arthritis.md) · [아침강직·조조강직](morning-stiffness.md)

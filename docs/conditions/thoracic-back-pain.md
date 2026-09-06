@@ -8,7 +8,7 @@ tags:
 - 날개뼈통증
 - 등결림
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-06
 ---
 # 등통증·등이 결리고 아파요
 
@@ -145,3 +145,9 @@ last_reviewed: '2026-08-29'
 - American College of Radiology. [ACR Appropriateness Criteria® Suspected Spine Infection](https://acsearch.acr.org/docs/3148734/Narrative/).
 - Kietrys DM, et al. Effectiveness of dry needling for upper-quarter myofascial pain. PMID [25768071](https://pubmed.ncbi.nlm.nih.gov/25768071/).
 - Gattie E, et al. The effectiveness of trigger point dry needling for musculoskeletal conditions. PMID [28158962](https://pubmed.ncbi.nlm.nih.gov/28158962/).
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+작은 충격 뒤 갑작스러운 등통증이나 키 감소가 있으면 척추골절 여부를 살핍니다. 골절이 확인되면 통증 치료와 재골절 예방을 연결합니다.
+
+[골다공증·골절 예방](osteoporosis.md) · [골절 후 회복](fracture-recovery.md)

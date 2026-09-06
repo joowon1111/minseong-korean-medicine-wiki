@@ -36,3 +36,9 @@ last_reviewed: 2026-09-06
 대장수 BL25 · 위중 BL40 · 곤륜 BL60 · 양릉천 GB34 · 태계 KI3
 
 → [방제·경혈 임상 조합](../../network/formula-acupoint-combinations.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+같은 통증 부위라도 급성 부종·열감, 오래된 강직·허약, 골절 회복은 평가가 다릅니다. 각 안내에서 검사와 치료 목표를 확인합니다.
+
+[통풍·요산 관리](../../conditions/gout.md) · [류마티스관절염](../../conditions/rheumatoid-arthritis.md) · [골절 후 회복](../../conditions/fracture-recovery.md)

@@ -87,3 +87,9 @@ last_reviewed: 2026-09-06
 외상 후 통증은 위험신호·손상 평가를 거쳐 어혈·한습·긴장 등 동반 맥락을 살핍니다. 통증뿐 아니라 움직임·수면·일상 복귀를 기준으로 경과를 확인합니다.
 
 [교통사고 후유증](../conditions/traffic-accident-sequelae.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+풍습·혈허·어혈의 처방 구조를 만성 통증과 비교하되 급성 결정성 관절염이나 지속 활막염의 치료를 먼저 확인합니다.
+
+[아침강직·조조강직](../conditions/morning-stiffness.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [통풍·요산 관리](../conditions/gout.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)

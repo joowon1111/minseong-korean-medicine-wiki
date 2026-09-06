@@ -4,7 +4,7 @@
 폐경 후 골다공증에서 요추·대퇴경부 골밀도와 통증을 중심으로 봅니다.
 
 ## 현대 임상연구
-- 2026 updated systematic review/meta-analysis: **13 RCT·1,269명**. 이선탕 병용치료는 요추 골밀도와 대퇴경부 골밀도를 유의하게 높였고 VAS 통증도 개선했습니다. PMID `42155162`.
+- 2026 updated systematic review/meta-analysis: **13 RCT·1,269명**. 이선탕 병용치료는 요추 골밀도와 대퇴경부 골밀도를 유의하게 높였고 VAS 통증도 개선했습니다. [PMID 42155162](https://pubmed.ncbi.nlm.nih.gov/42155162/).
 - 연구는 2012–2025년 RCT를 포함해 폐경 후 골다공증의 골밀도와 통증 outcome을 종합했습니다.
 
 ## 한의학 지식망
@@ -12,3 +12,9 @@
 
 ## 연결
 갱년기·폐경 후 골다공증 카드와 신허·보신 관련 본초·방제 지식망을 연결합니다.
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+폐경 후 여성에서 기존 치료에 이선탕을 병용한 연구 맥락을 확인합니다. 골밀도·통증의 변화가 모든 연령이나 모든 보약의 골절 예방 효과를 뜻하지는 않습니다.
+
+[골다공증·골절 예방](../../conditions/osteoporosis.md) · [갱년기 관절통](../../conditions/menopause-joint-pain.md) · [골밀도 검사·골감소증](../../conditions/low-bone-density.md)

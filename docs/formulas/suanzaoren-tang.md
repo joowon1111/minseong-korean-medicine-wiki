@@ -78,3 +78,9 @@ last_reviewed: 2026-09-06
 잠들기 어려움, 새벽에 깬 뒤 재입면의 어려움, 충분히 잔 듯해도 남는 피로는 구분합니다. 각 안내에서 동반 증상별 처방과 수면·주간 기능의 평가를 연결합니다.
 
 [스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+전신통증과 수면 문제가 함께 있으면 잠드는 시간뿐 아니라 회복감·피로·낮 활동을 따로 비교합니다.
+
+[섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)

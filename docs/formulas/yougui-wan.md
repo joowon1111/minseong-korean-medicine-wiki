@@ -3,7 +3,7 @@ title: 우귀환(右歸丸)
 description: 우귀환의 온보신양·익정전수 구조와 신양허·정혈부족의 감별, 팔미지황환·좌귀환·대보원전과의 차이를 정리합니다.
 tags: [방제학, 우귀환, 경악전서, 신양허, 정혈부족, 보양제, 부자]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 우귀환(右歸丸)
 
@@ -44,3 +44,9 @@ last_reviewed: 2026-09-04
 - [좌귀환](zuogui-wan.md)
 - [신양](../glossary/kidney-yang.md)
 - [보익·피로·회복](../pillar/tonic-recovery.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+냉감·허약의 전통적 변증과 골밀도 수치는 다른 평가입니다. 동반 불편의 관리와 골절 예방 목표를 함께 정합니다.
+
+[골다공증·골절 예방](../conditions/osteoporosis.md) · [골밀도 검사·골감소증](../conditions/low-bone-density.md)

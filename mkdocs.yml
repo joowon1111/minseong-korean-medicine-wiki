@@ -436,6 +436,14 @@ nav:
       - 교통사고 후유증: conditions/traffic-accident-sequelae.md
       - 손목통증·엄지쪽 손목이 아파요: conditions/wrist-pain.md
       - 무릎통증: conditions/knee-pain.md
+      - 통풍·요산 관리: conditions/gout.md
+      - 류마티스관절염: conditions/rheumatoid-arthritis.md
+      - 아침강직·조조강직: conditions/morning-stiffness.md
+      - 섬유근육통·전신통증: authority/conditions/fibromyalgia.md
+      - 골다공증·골절 예방: conditions/osteoporosis.md
+      - 골밀도 검사·골감소증: conditions/low-bone-density.md
+      - 골절 후 회복: conditions/fracture-recovery.md
+      - 갱년기 관절통: conditions/menopause-joint-pain.md
       - 발목통증: conditions/ankle-pain.md
       - 족저근막염·발뒤꿈치통증: conditions/plantar-fasciitis.md
     - 신경·감각·순환:
@@ -473,7 +481,7 @@ nav:
     - 보약·노년기·성장:
       - 녹용보약: conditions/deer-antler-tonic-guide.md
       - 노인보약·어르신보약: conditions/elderly-tonic.md
-      - 노쇠·근감소·근력저하: conditions/frailty-sarcopenia.md
+      - 근감소증·노쇠·근력저하: conditions/frailty-sarcopenia.md
       - 성장보약·아이 보약: conditions/child-parent-tonic-guide.md
       - 성장기·아이 키 성장: conditions/child-growth.md
       - 소아 식욕부진: conditions/child-poor-appetite.md

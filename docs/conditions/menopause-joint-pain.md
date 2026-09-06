@@ -1,11 +1,11 @@
 ---
-title: 갱년기 관절통·몸이 쑤셔요
-description: 갱년기 관절통·몸이 쑤셔요을 여성 생애주기와 환자 검색어에서 감별·한약·침구치료까지 연결합니다.
-tags: [여성건강, 월경, 산후, 갱년기, 환자검색]
+title: "갱년기 관절통·근육통 — 손가락 통증·골밀도와 감별"
+description: "갱년기 관절·근육통에서 류마티스·퇴행성 질환·골밀도·수면을 구분하고 한약·운동·회복 자료를 연결합니다."
+tags: ["갱년기 관절통", "갱년기 근육통", "갱년기 손가락 관절통", "폐경 후 관절통", "갱년기 관절 한약"]
 status: 검토완료
 last_reviewed: 2026-09-06
 ---
-# 갱년기 관절통·몸이 쑤셔요
+# 갱년기 관절통·근육통 — 손가락 통증·골밀도와 감별
 
 ## 환자가 이렇게 검색할 수 있습니다
 
@@ -46,6 +46,25 @@ last_reviewed: 2026-09-06
 갱년기의 열감·수면·피로·정서·관절 불편을 나누어 치료 목표를 정합니다. 변증별 처방을 비교하고 수면과 일상 기능의 경과로 연결합니다.
 
 [갱년기 한약·처방 비교](menopause-herbal.md) · [새벽각성](early-awakening.md)
+
+## 갱년기라서 아픈 것인지 어떻게 구분하나요? {#menopause-joint-differential}
+
+폐경이행기와 갱년기에 관절·근육통이 나타날 수 있지만, 같은 시기에 다른 근골격 질환이 생기기도 합니다. 열감·수면·월경 변화와 통증이 함께 움직이는지, 특정 관절의 부종과 기능 제한이 뚜렷한지 나누어 봅니다. [NHS 갱년기 증상 안내](https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/)
+
+- 아침에 손가락·손목이 붓고 오래 굳음: [조조강직](morning-stiffness.md)·[류마티스관절염](rheumatoid-arthritis.md)
+- 계단에서 무릎이 아프거나 어깨가 잘 올라가지 않음: [무릎관절염](knee-pain.md)·[오십견](frozen-shoulder.md)
+- 전신 통증·피로·비회복성 수면이 함께 있음: [섬유근육통](../authority/conditions/fibromyalgia.md)
+- 작은 충격 뒤 심한 등·허리 통증: 골절 평가와 [골다공증](osteoporosis.md)
+
+## 관절이 아프면 골밀도가 낮다는 뜻인가요? {#pain-versus-bone-density}
+
+통증과 골밀도는 따로 평가합니다. 골다공증은 골절 전까지 통증이 없을 수 있고, 골밀도가 정상이어도 관절·근육은 아플 수 있습니다. 검사 대상과 결과 해석은 [골밀도 검사](low-bone-density.md), 골절 예방은 [골다공증 관리](osteoporosis.md)로 이어집니다. [NIAMS 골다공증 개요](https://www.niams.nih.gov/health-topics/osteoporosis)
+
+## 갱년기 치료와 근골격 회복을 함께 보기 {#menopause-joint-care}
+
+열감·불면·정서 변화의 치료는 [갱년기 한약의 처방 비교](menopause-herbal.md)와 연결하고, 관절의 냉감·무거움·고정통·허약은 [비증 처방 계열](../formula-architecture/bi-syndrome-family.md)에서 비교합니다. 기혈허·수면 저하가 겹치면 [귀비탕](../formulas/guibi-tang.md), 오래된 요슬통·허약은 [독활기생탕](../formulas/duhuo-jisheng-tang.md) 등 동반 양상에 맞는 구조를 살핍니다.
+
+통증 부위의 침치료와 근력·유연성 운동, 수면 관리를 함께 구성합니다. 호르몬 치료 여부는 갱년기 증상과 개인 병력에 따라 담당 진료에서 정하며, 모든 관절통의 원인을 호르몬으로 단정하지 않습니다. **수면·통증·관절 부종·걷기·일상동작**을 함께 추적합니다.
 
 ## 기존 지식망과 연결
 

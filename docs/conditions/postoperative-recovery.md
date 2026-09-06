@@ -3,7 +3,7 @@ title: 수술 후 회복·기력저하·수술 후 보약
 description: 복강경·담낭·척추·관절·골절·부인과·제왕절개·갑상선 수술 후 기력저하, 식욕저하, 빈혈, 통증과 부종을 한약·침치료로 회복 관리하는 방법을 안내합니다.
 tags: [수술후회복보약, 수술후회복, 수술후보약, 수술후한약, 수술후기력회복, 복강경수술후회복, 담낭수술후회복, 척추수술후회복, 관절수술후회복, 골절수술후회복, 자궁수술후회복, 제왕절개후회복, 갑상선수술후회복]
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 
 # 수술 후 회복·기력저하·수술 후 보약
@@ -284,7 +284,13 @@ last_reviewed: 2026-09-05
   "description": "복강경·담낭·척추·관절·골절·부인과·제왕절개·갑상선 수술 후 한의 회복관리를 안내합니다.",
   "url": "https://wiki.minseong.co.kr/conditions/postoperative-recovery/",
   "inLanguage": "ko-KR",
-  "dateModified": "2026-09-05",
+  "dateModified": "2026-09-06",
   "about": {"@type": "MedicalCondition", "name": "수술 후 회복·기력저하"}
 }
 </script>
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+골절 수술 뒤에는 정복·고정과 유합 확인, 허용된 재활 범위가 중요합니다. 식사·기력과 걷기·근력 회복을 함께 관리합니다.
+
+[골절 후 회복](fracture-recovery.md) · [근감소증·노쇠](frailty-sarcopenia.md)

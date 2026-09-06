@@ -151,5 +151,11 @@ last_reviewed: 2026-09-06
     외상 후 보행불능·뼈 압통·변형, 아킬레스건 파열 의심, 발열과 단일관절 열감이 있으면 영상검사와 전문 진료를 우선합니다.
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalWebPage","name":"발목통증·발목을 삐었어요","url":"https://wiki.minseong.co.kr/conditions/ankle-pain/","inLanguage":"ko-KR","dateModified":"2026-08-29","about":{"@type":"MedicalCondition","name":"발목통증"}}
+{"@context":"https://schema.org","@type":"MedicalWebPage","name":"발목통증·발목을 삐었어요","url":"https://wiki.minseong.co.kr/conditions/ankle-pain/","inLanguage":"ko-KR","dateModified":"2026-09-06","about":{"@type":"MedicalCondition","name":"발목통증"}}
 </script>
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+접질린 기억 없이 발목이 갑자기 붓고 뜨거우면 통풍·감염성 관절염 등을 살핍니다. 반복되는 발작은 요산과 동반 대사질환 관리로 연결합니다.
+
+[통풍·요산 관리](gout.md)

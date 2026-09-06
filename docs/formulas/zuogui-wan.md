@@ -3,7 +3,7 @@ title: 좌귀환(左歸丸)
 description: 좌귀환의 자신보신·익정전수 구조와 신음·정혈 부족의 감별, 육미지황환·우귀환·대보원전과의 차이를 정리합니다.
 tags: [방제학, 좌귀환, 경악전서, 신음허, 정혈부족, 보음제]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 좌귀환(左歸丸)
 
@@ -40,3 +40,9 @@ last_reviewed: 2026-09-04
 - [육미지황환](../authority/formulas/liuwei-dihuang-wan.md)
 - [대보원전](dabo-wonjeon.md)
 - [보익 처방 비교](../network/tonic-formula-compare.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+전통적인 자음·보신 구조와 DXA 골밀도 진단은 구분합니다. 골절 예방 치료와 식사·근력·회복 상태를 함께 확인합니다.
+
+[골다공증·골절 예방](../conditions/osteoporosis.md) · [골밀도 검사·골감소증](../conditions/low-bone-density.md)

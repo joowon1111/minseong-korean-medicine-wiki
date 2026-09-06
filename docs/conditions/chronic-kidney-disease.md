@@ -3,7 +3,7 @@ title: 건강검진에서 크레아티닌·eGFR·단백뇨가 이상해요 — �
 description: 건강검진에서 발견된 크레아티닌 상승, eGFR 감소, 단백뇨·혈뇨를 해석하고 만성콩팥병의 진행을 늦추는 초기 한의·생활 관리를 안내합니다.
 tags: [만성콩팥병, 만성신장병, CKD, 크레아티닌, eGFR, 단백뇨, 혈뇨, 미세알부민뇨, 신장기능, 한약]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 
 # 건강검진에서 크레아티닌·eGFR·단백뇨가 이상해요
@@ -316,7 +316,13 @@ CKD 단계와 영양상태에 맞춰 양을 조절합니다. 과도한 고단백
   "description": "크레아티닌, eGFR, 단백뇨와 혈뇨를 해석하고 만성콩팥병의 진행을 늦추는 초기관리를 안내합니다.",
   "url": "https://wiki.minseong.co.kr/conditions/chronic-kidney-disease/",
   "inLanguage": "ko-KR",
-  "dateModified": "2026-08-28",
+  "dateModified": "2026-09-06",
   "about": {"@type": "MedicalCondition", "name": "만성콩팥병"}
 }
 </script>
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+통풍 약제와 한약을 병행할 때는 신장기능·전체 복용 목록을 확인합니다. 신장질환의 뼈·무기질 이상은 일반 골다공증과 구분해 담당 진료에서 함께 평가합니다.
+
+[통풍·요산 관리](gout.md) · [골다공증·골절 예방](osteoporosis.md)

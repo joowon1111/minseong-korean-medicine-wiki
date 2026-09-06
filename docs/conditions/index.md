@@ -478,3 +478,9 @@ last_reviewed: 2026-09-06
 검진에서 발견된 수치 변화와 피로·체중·월경 증상을 원인별 평가와 치료로 연결합니다.
 
 [제2형 당뇨병](type-2-diabetes.md) · [당뇨전단계·혈당 검사](prediabetes.md) · [이상지질혈증](dyslipidemia.md) · [갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [빈혈·철결핍성빈혈](anemia-fatigue.md)
+
+## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
+
+관절의 급성 부종·아침강직, 골밀도 저하와 골절 회복, 전신통증·피로를 해당 안내에서 구분할 수 있습니다.
+
+[통풍·요산 관리](gout.md) · [류마티스관절염](rheumatoid-arthritis.md) · [골다공증·골절 예방](osteoporosis.md) · [아침강직·조조강직](morning-stiffness.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
