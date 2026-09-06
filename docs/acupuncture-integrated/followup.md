@@ -1,13 +1,13 @@
-﻿---
+---
 title: 침구치료 경과·재평가
 tags: [침구, 침, 전침, 경과, 재평가, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 침구치료 경과·재평가 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 침구치료 경과·재평가
 
-30개 환자 증상 키워드를 치료한 뒤 **통증점수 하나가 아니라 증상 + 기능 + 생활 변화**를 함께 추적합니다.
+증상에 맞는 침구치료 후 **통증점수 하나가 아니라 증상 + 기능 + 생활 변화**를 함께 추적합니다.
 
 ## 초진 기준점
 
@@ -87,3 +87,6 @@ description: 침구치료 경과·재평가 — 경혈·경락·해부학·침·
 | 변화 없음 | 진단·감별·목표 재설정 |
 | 악화 | 위험신호 확인 후 치료전략 재평가 |
 
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+치료를 몇 번·얼마 간격으로 받을지는 [치료 횟수·강도 안내](../acupuncture-clinical/dose-followup.md), 뻐근함·효과 지속·악화의 구분은 [치료 후 반응](../acupuncture-clinical/response-reassessment.md)으로 이어집니다. 약침을 받았다면 [제제와 국소 반응](../treatments/pharmacopuncture.md#pharmacopuncture-visit)도 함께 기록합니다.

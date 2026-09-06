@@ -57,3 +57,7 @@ last_reviewed: 2026-09-06
 배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
 
 [변비](../conditions/constipation.md) · [급성·만성설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) · [복부팽만](../conditions/bloating.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+배변 곤란을 함께 평가한다면 [전침과 기능성 변비 연구](../authority/electroacupuncture.md#ea-constipation-trial)를 참고합니다. 소화불량·변비를 같은 질환으로 보지 않고 [증상별 안내](by-symptom.md)와 [치료 반응](followup.md)으로 연결합니다.

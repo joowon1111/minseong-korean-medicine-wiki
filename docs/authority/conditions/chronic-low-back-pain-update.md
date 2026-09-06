@@ -17,3 +17,7 @@
 - 만성 요통 약침 pragmatic pilot RCT의 연구 프로토콜도 확인되며, 이는 완료된 효과 근거와 구분하여 후속 결과를 추적합니다. DOI `10.21203/rs.3.rs-3210696/v1`.
 
 기존 침의 landmark RCT·meta-analysis와 약침 연구를 구분해 제시하여 치료방법별 근거를 함께 탐색할 수 있도록 합니다.
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+일반침은 [고령자 요통 RCT](../acupuncture.md), 전침은 [통증·기능을 나눈 가짜 전침 비교](../electroacupuncture.md#ea-low-back-trial), 약침은 [물리치료와 비교한 RCT](../pharmacopuncture.md#pharmaco-back-trial)에서 상세히 봅니다. [요통 경혈](../../acupuncture-integrated/points-for-low-back.md)과 [치료량·재평가](../../acupuncture-clinical/dose-followup.md)를 연결해 적용합니다.

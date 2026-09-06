@@ -11,7 +11,7 @@ tags:
 - 경락
 - 임상해부학
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-06
 ---
 # 통합 침구치료 탐색 허브
 
@@ -222,3 +222,7 @@ last_reviewed: '2026-08-29'
 - [경락·경맥 지식망](../meridian-network/index.md)
 - [침의 과학적 접근](../acupuncture-science/index.md)
 - [근골격계 초음파·초음파 유도 치료](../musculoskeletal-ultrasound/index.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+[침의 원리·경혈 선택](../treatments/acupuncture.md) · [전침의 강도·효과](../treatments/electroacupuncture.md) · [약침의 종류·과정](../treatments/pharmacopuncture.md)에서 치료별 설명을 읽고, [횟수·간격](../acupuncture-clinical/dose-followup.md)과 [치료 후 반응](../acupuncture-clinical/response-reassessment.md)을 함께 확인합니다.

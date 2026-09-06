@@ -1,9 +1,9 @@
 ---
 title: 침치료와 한약을 같이 하나요
 description: 침치료와 한약을 같이 하나요에 대한 환자 질문을 침·전침·약침·한약 치료 정보로 연결합니다.
-tags: [침, 전침, 약침, MPS, 환자질문, 환자검색]
+tags: ["환자질문", "환자검색", "침 한약 병행", "침과 한약 같이"]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 침치료와 한약을 같이 하나요
 
@@ -26,6 +26,10 @@ last_reviewed: 2026-08-21
 ## 안전과 재평가
 
 치료 전 복용약·출혈경향·임신 여부·기저질환과 치료부위의 상태를 확인하고, 치료 후에는 처음 정한 지표로 변화를 비교합니다. 예상과 다른 심한 통증·부종·신경학적 변화 등이 있으면 상태를 다시 평가합니다.
+
+## 질문에서 치료 과정으로 이어가기 {#modality-faq-detail}
+
+병행할 때에는 국소 통증·움직임과 수면·소화·피로 등 전신 병증의 목표를 함께 정합니다. [침 치료의 역할](../treatments/acupuncture.md#acupuncture-combination), [약침과 경구 한약 구분](../treatments/pharmacopuncture.md#pharmacopuncture-types), [복합치료 경과 평가](../acupuncture-integrated/followup.md)를 연결해 어느 기능이 달라졌는지 확인합니다.
 
 ## 기존 지식망과 연결
 

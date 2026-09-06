@@ -3,7 +3,7 @@ title: 약침 — 출전·임상근거 카드
 description: 약침의 경혈·약침액 결합 치료 특성과 만성요통 pragmatic RCT의 PMID·DOI를 정리합니다.
 tags: [출처, 임상근거, PMID, DOI]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 약침 — 출전·임상근거 카드
 
@@ -25,3 +25,27 @@ last_reviewed: 2026-08-19
 
 → [요통](../conditions/low-back-pain.md)  
 → [침과 약침 비교](../compare/acupuncture-vs-pharmacopuncture.md)
+
+## 요통 시험의 치료기간과 효과크기 {#pharmaco-back-trial}
+
+5주 동안 10회 치료를 시행한 연구에서 6주 요통 NRS의 군 간 차이는 **1.54점(95% CI 0.94~2.13)**이었습니다. ODI 기능과 삶의 질도 함께 평가하고 25주까지 추적했습니다. 물리치료와 비교한 실용적 임상시험이며, 모든 약침 제제가 동일한 효과를 낸다거나 일반침보다 우월하다는 비교는 아닙니다. [PMID 37554434](https://pubmed.ncbi.nlm.nih.gov/37554434/)
+
+## 만성 목통증 — 통증과 업무 기능 {#pharmaco-neck-trial}
+
+2021년 온라인 발표된 다기관 RCT는 **101명**을 약침과 물리치료로 배정하고 2주 이내 8회 치료했습니다. 5주 평가에서 목 통증과 NDI 등 기능 지표의 유리한 결과가 보고됐고 12주까지 추적했습니다. [Park 등, PMID 35011752](https://pubmed.ncbi.nlm.nih.gov/35011752/) · [DOI 원문](https://doi.org/10.3390/jcm11010012)
+
+연구가 다룬 만성 경항통을 진행하는 신경마비나 모든 목디스크와 같은 상태로 보지 않습니다. → [목통증 감별](../conditions/neck-pain.md) · [목·어깨 경혈](../acupuncture-integrated/points-for-neck-shoulder.md)
+
+## 오십견 — 50명 예비시험 {#pharmaco-shoulder-trial}
+
+2024년 유착성관절낭염 연구는 **50명**에서 6주간 주 2회 약침과 물리치료를 비교했습니다. 7주 통증·SPADI와 어깨 굴곡·외전 등의 개선이 보고됐습니다. 후속 본시험의 실행 가능성을 살핀 **예비시험**이라는 점을 함께 표시합니다. [Kim 등, PMID 39224580](https://pubmed.ncbi.nlm.nih.gov/39224580/)
+
+야간통·옷 입기·머리 감기와 능동·수동 가동범위를 함께 평가합니다. → [오십견 안내](../conditions/frozen-shoulder.md) · [오십견 전체 근거](conditions/frozen-shoulder.md)
+
+## 초음파 유도 연구의 의미 {#ultrasound-pharmacopuncture-evidence}
+
+2025년 체계적 문헌고찰은 **16개 임상연구 중 9개 무작위시험·685명**을 정량합성했습니다. 초음파 유도 약침은 비유도 약침 또는 통상치료와 비교해 통증 개선을 보인 비율이 높게 보고됐습니다. [PMID 40101074](https://pubmed.ncbi.nlm.nih.gov/40101074/)
+
+영상 유도는 목표 조직과 주변 구조를 확인하는 방식입니다. 연구마다 제제·부위·질환이 다르므로 영상 사용 자체가 모든 질환의 효과나 안전을 보장한다고 설명하지 않습니다.
+
+→ [약침의 종류·치료 과정](../treatments/pharmacopuncture.md) · [약침 상세 임상 지도](../acupuncture-integrated/pharmacopuncture.md) · [치료별 연구 탐색](../acupuncture-integrated/evidence.md)

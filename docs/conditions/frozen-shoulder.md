@@ -63,6 +63,10 @@ last_reviewed: 2026-09-06
 
 한약이 관절낭 유착을 직접 제거한다고 설명하지 않고 **야간통·옷 입기·머리 감기·등 뒤 손 닿는 범위**를 치료 목표로 잡습니다. 당뇨·갑상선 질환 등 동반 상태와 운동 제한의 변화도 함께 확인합니다.
 
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+통증·SPADI·가동범위를 평가한 [약침 예비시험](../authority/pharmacopuncture.md#pharmaco-shoulder-trial)과 [침·약침 비교](../compare/acupuncture-vs-pharmacopuncture.md)를 연결합니다. 어깨가 덜 아픈 것과 옷 입기·팔 올리기가 회복되는 것은 함께 확인합니다.
+
 ## 기존 지식망과 연결
 
 - [통증·증상으로 찾기](../acupuncture-integrated/by-symptom.md)

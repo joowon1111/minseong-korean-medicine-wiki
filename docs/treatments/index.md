@@ -1,9 +1,9 @@
-﻿---
+---
 title: 한의치료 방법
 description: 침·약침·전침·부항·뜸·온열치료의 원리와 임상적 활용을 연결합니다.
 tags: [한의치료, 침구, 약침, 부항, 뜸]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 한의치료 방법
 
@@ -79,3 +79,6 @@ last_reviewed: 2026-08-19
 - [증상·질환](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
 
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+[침](acupuncture.md)·[전침](electroacupuncture.md)·[약침](pharmacopuncture.md)의 과정과 근거를 확인하고 [침·전침 비교](../compare/acupuncture-vs-electroacupuncture.md)·[침·약침 비교](../compare/acupuncture-vs-pharmacopuncture.md)로 선택 기준을 좁힙니다. [횟수·간격](../acupuncture-clinical/dose-followup.md)과 [치료 후 반응](../acupuncture-clinical/response-reassessment.md)도 함께 확인할 수 있습니다.
