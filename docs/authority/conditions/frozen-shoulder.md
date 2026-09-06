@@ -26,3 +26,7 @@
 어깨가 굳는 양상, 팔을 들고 버티기 어려운 양상, 쥘 때 팔꿈치가 아픈 양상을 비교합니다. 신경 증상과 힘줄·관절 기능을 확인하고 한약·침구치료와 부하 조절을 연결합니다.
 
 [오십견](../../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../../conditions/rotator-cuff-pain.md) · [테니스엘보](../../conditions/tennis-elbow.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+[약침 50명 예비시험](../pharmacopuncture.md#pharmaco-shoulder-trial)에서 비교군·치료기간과 평가 지표를 확인합니다. 실제 치료 선택은 [약침의 과정](../../treatments/pharmacopuncture.md)과 [침·약침 비교](../../compare/acupuncture-vs-pharmacopuncture.md), 회복 평가는 [오십견 안내](../../conditions/frozen-shoulder.md)로 이어집니다.

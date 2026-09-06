@@ -88,3 +88,7 @@ Liu et al., *Annals of Internal Medicine* 2016 다기관 RCT는 중증 기능성
 두근거림·피로·배변·체중 변화에 내분비 원인이 동반되는지 검사와 경과를 함께 살핍니다.
 
 [갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [갑상선 검사](thyroid-lab.md) · [제2형 당뇨병](type-2-diabetes.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+[전침 변비 연구](../authority/electroacupuncture.md#ea-constipation-trial)는 중증 기능성 변비에서 완전자발배변을 평가했습니다. [전침의 원리와 과정](../treatments/electroacupuncture.md)을 읽고 배변일지·원인 치료·생활관리와 함께 계획합니다.

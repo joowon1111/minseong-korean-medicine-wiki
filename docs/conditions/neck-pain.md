@@ -211,3 +211,7 @@ MRI는 모든 목통증에 즉시 필요한 검사는 아닙니다. 위험신호
 팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
 
 [목디스크](cervical-disc-herniation.md) · [손목터널증후군](carpal-tunnel.md) · [경추성두통](cervicogenic-headache.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+[만성 목통증 약침 연구](../authority/pharmacopuncture.md#pharmaco-neck-trial)와 [침·전침 선택 기준](../compare/acupuncture-vs-electroacupuncture.md)을 이어서 읽을 수 있습니다. 치료 뒤에는 목 움직임·업무 시간·팔의 감각과 힘을 함께 비교합니다.

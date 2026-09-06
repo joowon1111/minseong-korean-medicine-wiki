@@ -30,3 +30,7 @@
 변 형태·힘주기·잔변감을 함께 비교하고, 아이의 배변 참기와 성인 변비는 연령과 원인에 맞춰 구분합니다.
 
 [변비의 감별·치료](../../conditions/constipation.md) · [소아 변비](../../conditions/child-constipation.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+완전자발배변의 정의와 연구 결과는 [전침 변비 시험 상세](../electroacupuncture.md#ea-constipation-trial), 자극 방식은 [전침 안내](../../treatments/electroacupuncture.md)에서 볼 수 있습니다. 배변 횟수·힘주기·변 형태와 구조약 사용을 함께 기록합니다.

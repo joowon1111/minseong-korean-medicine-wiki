@@ -160,3 +160,7 @@ WHO 2023 만성 일차성 요통 지침은 침을 포함해 교육·운동·일�
 허리·다리 증상은 방사통의 경로와 앉기·서기·보행의 차이를 함께 확인합니다. 원인별 안내에서 신경학적 평가와 변증·한약·침치료, 보행 회복으로 이어갈 수 있습니다.
 
 [허리디스크](lumbar-disc-herniation.md) · [척추관협착증](lumbar-spinal-stenosis.md) · [좌골신경통](sciatica.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+[일반침의 경혈 선택](../treatments/acupuncture.md)·[전침의 강도와 목표](../treatments/electroacupuncture.md)·[약침의 제제와 부위](../treatments/pharmacopuncture.md)를 비교하고, [만성요통 근거](../authority/conditions/chronic-low-back-pain-update.md)와 [치료 횟수·경과](../acupuncture-clinical/dose-followup.md)를 함께 확인합니다.

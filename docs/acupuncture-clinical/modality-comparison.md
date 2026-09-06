@@ -2,7 +2,7 @@
 title: 침·전침·약침 치료방식 비교
 description: 침·전침·약침의 자극 방식과 임상 선택 기준을 비교하고 각 최신 치료 문서로 연결합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 침·전침·약침 치료방식 비교
 
@@ -21,3 +21,7 @@ last_reviewed: 2026-08-22
 → [전침](../treatments/electroacupuncture.md)  
 → [약침](../treatments/pharmacopuncture.md)  
 → [침구·치료 허브](../pillar/acupuncture-treatment.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+처음 치료를 비교할 때는 [침·전침 차이](../compare/acupuncture-vs-electroacupuncture.md)·[침·약침 차이](../compare/acupuncture-vs-pharmacopuncture.md)를 읽습니다. 진료에서는 목표 증상과 기능, 자극 민감도, 제제·부위를 확인하고 [치료량](dose-followup.md)과 [다음 평가](response-reassessment.md)를 정합니다.

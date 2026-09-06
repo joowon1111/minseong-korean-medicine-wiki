@@ -1,10 +1,11 @@
 ---
-title: 침 vs 약침
+title: "침과 약침의 차이 — 성분·부위·선택과 병행"
 description: 일반 침과 약침의 자극·제제·임상 선택·안전성 차이를 비교합니다.
+tags: ["침 약침 차이", "침과 약침", "약침 스테로이드 차이"]
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
-# 침 vs 약침
+# 침과 약침의 차이 — 성분·부위·선택과 병행 {#vs}
 
 | 항목 | 침 | 약침 |
 |---|---|---|
@@ -16,3 +17,24 @@ last_reviewed: 2026-08-22
 약침을 단순히 '침보다 센 치료'로 비교하지 않고 사용 제제와 목표 조직, 용량, 안전성을 별도로 평가합니다.
 
 → [침](../treatments/acupuncture.md) · [약침](../treatments/pharmacopuncture.md)
+
+## 약침을 추가하는 이유를 확인하기 {#manual-pharmaco-selection}
+
+일반침은 경혈·아시혈과 조직 반응을 고려하고, 약침은 여기에 **어떤 제제를 어느 부위에 어떤 목표로 사용하는지**가 추가됩니다. 같은 통증이라도 진단·조직 상태·알레르기·이전 치료 반응에 따라 선택이 달라집니다.
+
+| 확인할 질문 | 연결할 설명 |
+|---|---|
+| 약침 성분은 무엇인가요? | [제제와 봉약침의 구분](../treatments/pharmacopuncture.md#pharmacopuncture-types) |
+| 어느 질환에서 연구됐나요? | [요통·목통증·오십견 연구](../authority/pharmacopuncture.md) |
+| 경구 한약과 같은가요? | 투여경로·농도·제조·용량이 달라 별도로 평가 |
+| 동시에 치료하면 무엇을 보나요? | 통증·기능·전신 병증과 각 치료의 목표 |
+
+## 약침과 봉약침·스테로이드 주사 {#pharmacopuncture-injection-comparison}
+
+봉약침은 봉독을 사용하는 약침의 한 종류입니다. 모든 약침에 봉독이 들어가는 것은 아니며 과거 벌독·봉약침 반응을 확인합니다. 스테로이드 주사와도 치료명·성분을 구분하고 실제 제제를 기준으로 설명합니다. 같은 ‘주입 치료’라는 이유로 기전·효과·위험을 동일하게 보지 않습니다.
+
+## 어떤 치료가 더 효과적인가요? {#pharmaco-comparison-faq}
+
+현재 연결한 약침 대표 연구들은 주로 물리치료와 비교했습니다. 그 결과를 일반침보다 더 좋다는 결론으로 바꾸지 않습니다. 환자의 목표와 제제·시술부위가 분명할 때 선택하고, 병행하면 **통증 감소와 움직임의 회복, 시술 후 국소 반응**을 함께 비교합니다.
+
+→ [약침 상세 임상 지도](../acupuncture-integrated/pharmacopuncture.md) · [치료 과정](../treatments/pharmacopuncture.md#pharmacopuncture-visit) · [경과·재평가](../acupuncture-integrated/followup.md)

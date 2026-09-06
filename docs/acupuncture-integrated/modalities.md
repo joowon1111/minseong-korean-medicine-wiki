@@ -2,7 +2,7 @@
 title: 침구 치료수단 통합 지도
 description: 침·전침·약침·부항·뜸의 역할과 선택 기준을 한 페이지에서 비교합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 침구 치료수단 통합 지도
 
@@ -61,3 +61,7 @@ last_reviewed: 2026-08-22
 통증점수뿐 아니라 가동범위, 보행, 수면, 일상활동과 이상반응을 함께 기록합니다.
 
 → [침](../treatments/acupuncture.md) · [전침](../treatments/electroacupuncture.md) · [약침](../treatments/pharmacopuncture.md) · [부항](../treatments/cupping.md) · [뜸](../treatments/moxibustion.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+치료별 과정과 연구는 [일반침](../treatments/acupuncture.md)·[전침](../treatments/electroacupuncture.md)·[약침](../treatments/pharmacopuncture.md)에서 이어집니다. 차이가 궁금하면 [침·전침 비교](../compare/acupuncture-vs-electroacupuncture.md)와 [침·약침 비교](../compare/acupuncture-vs-pharmacopuncture.md)를 선택합니다.

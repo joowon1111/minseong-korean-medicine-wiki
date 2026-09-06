@@ -1,8 +1,8 @@
-﻿---
+---
 title: 침구치료 근거·연구
 tags: [침구, 침, 전침, 뜸, 부항, 통합허브]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 침구치료 근거·연구 — 경혈·경락·해부학·침·전침·약침과 임상 안전을 연결하는 침구 문서입니다.
 ---
 # 근거·연구
@@ -82,3 +82,7 @@ description: 침구치료 근거·연구 — 경혈·경락·해부학·침·전
 - [침구·치료 한눈에 보기](index.md)
 - [증상으로 침구치료 찾기](by-symptom.md)
 - [침구 안전·위험신호](safety.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+[침의 고령자 만성요통 연구](../authority/acupuncture.md) · [전침의 요통·변비·복압성 요실금 연구](../authority/electroacupuncture.md) · [약침의 요통·경항통·오십견 연구](../authority/pharmacopuncture.md)를 치료별로 읽습니다. 각 카드에는 비교군·평가지표와 환자 안내로 이어지는 링크가 있습니다.

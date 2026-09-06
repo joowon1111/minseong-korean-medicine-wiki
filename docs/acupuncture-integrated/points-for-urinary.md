@@ -51,3 +51,7 @@ last_reviewed: 2026-09-06
 배뇨통·절박감·소변줄기·야간 각성을 나누면 감염·저장·배출·수면 중 어떤 평가가 필요한지 구체화할 수 있습니다. 필요한 검사와 변증별 치료를 각각의 안내에서 이어갑니다.
 
 [방광염](../conditions/cystitis.md) · [과민성방광](../conditions/overactive-bladder.md) · [전립선비대증](../conditions/benign-prostatic-hyperplasia.md) · [야간뇨](../conditions/nocturia.md)
+
+## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
+
+전침 대표 근거 중 [여성 복압성 요실금 RCT](../authority/electroacupuncture.md#ea-incontinence-trial)는 기침·활동 시 누출과 패드 검사 결과를 평가했습니다. 절박감·야간뇨·배출 곤란과 구분하고 [전침 과정](../treatments/electroacupuncture.md)으로 연결합니다.

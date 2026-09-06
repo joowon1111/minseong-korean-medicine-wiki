@@ -310,7 +310,8 @@ nav:
   - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
   - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
   - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
-  - 침·전침·뜸·부항: acupuncture-integrated/modalities.md
+  - 침·전침·약침·뜸·부항: acupuncture-integrated/modalities.md
+  - 약침 임상 지도: acupuncture-integrated/pharmacopuncture.md
   - 근골격 통증 핵심: acupuncture-integrated/musculoskeletal.md
   - 치료 경과·재평가: acupuncture-integrated/followup.md
   - 안전·위험신호: acupuncture-integrated/safety.md
@@ -837,6 +838,7 @@ nav:
       - 침 치료: treatments/acupuncture.md
       - 약침: treatments/pharmacopuncture.md
       - 전침: treatments/electroacupuncture.md
+      - 전침 임상근거: authority/electroacupuncture.md
       - 부항: treatments/cupping.md
       - 뜸: treatments/moxibustion.md
       - 온열·TDP: treatments/thermal-tdp.md
