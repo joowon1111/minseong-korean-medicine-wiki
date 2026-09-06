@@ -3,7 +3,7 @@ title: 변증→치법 지식망
 description: 기허·혈허·담음·어혈·심비양허·중기하함·풍한습비에서 치법·본초·방제·경혈로 이어지는 한의학 임상 구조를 정리합니다.
 tags: [변증, 치법, 임상지식망]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 변증→치법 지식망
 
@@ -50,3 +50,11 @@ last_reviewed: '2026-09-05'
 치료 뒤에는 처음 세운 목표에 맞춰 식사·배변·수면·활동·통증 등의 변화를 살피고 병기와 치료 계획을 다시 평가합니다. 전통 변증 용어는 현대 질환명이나 검사 결과와 별도로 기록합니다.
 
 → [장부·기혈진액](../foundations-integrated/zangfu-qi-blood-fluids.md) · [임상 추론](../clinical-reasoning/index.md) · [WHO 전통의학 용어 자료](https://www.who.int/publications/i/item/9789240042322)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+어혈·담음·담적에서 출발할 때는 다음 안내에서 개념을 구분하고 주요 변증·처방·치료로 이어갈 수 있습니다.
+
+- [어혈: 외상·기체·한응·월경통의 변증과 활혈 처방](../diagnostics/blood-stasis.md)
+- [담음: 습담·비허담습·담기울결·수음과 화담 처방](../diagnostics/phlegm-fluid.md)
+- [담적: 만성 소화불편의 감별·처방·치료](../diagnostics/phlegm-accumulation.md)

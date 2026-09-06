@@ -215,3 +215,9 @@ last_reviewed: 2026-09-06
 - 처방 선택: [통증 한약 처방 찾기](../../herbal-integrated/formula-for-pain.md) · [근골격 처방 임상 지식망](../../formulas/categories/wind-damp-musculoskeletal.md)
 - 다른 분야의 한약 연구: [한약·처방 현대 임상근거 허브](herbal-formula-evidence-hub.md)
 - 침구와 질환별 연구: [근골격 통증 현대근거 지도](../conditions/musculoskeletal-evidence-overview.md) · [현대 임상근거 포털](../../portal/evidence.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+활혈 처방의 선택 맥락을 더 보려면 어혈의 주요 변증과 치료 안내를 함께 확인합니다. 통증의 임상근거는 질환·처방·비교 치료별로 구분합니다.
+
+[어혈 전체 안내](../../diagnostics/blood-stasis.md) · [어혈 변증 비교](../../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../../pattern-treatment/blood-stasis.md)

@@ -3,7 +3,7 @@ title: 기능성소화불량
 description: 기능성소화불량을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 소화기, 환자검색]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 기능성소화불량
 
@@ -84,7 +84,7 @@ Choi MG et al. *Randomized, Controlled, Multi-center Trial: Comparing the Safety
     "name": "기능성소화불량"
   },
   "keywords": "기능성소화불량, 식후 더부룩함, 조기포만, 육군자탕, 반하사심탕, 족삼리 ST36, 내관 PC6",
-  "dateModified": "2026-09-05"
+  "dateModified": "2026-09-06"
 }
 </script>
 <!-- MS132_STRUCTURED_DATA_END -->
@@ -102,3 +102,9 @@ Choi MG et al. *Randomized, Controlled, Multi-center Trial: Comparing the Safety
 - **Safety and effectiveness of traditional herbal medicine Siho-sogan-san in functional dyspepsia: A systematic review and meta-analysis.** — 기능성소화불량에서 시호소간산의 유효성과 안전성을 평가한 체계적 문헌고찰·메타분석입니다. PMID `37127143` · DOI `10.1016/j.jep.2023.116518`
 
 - **Effect of Chaihu-Shugan-San on functional dyspepsia and gut microbiota: A randomized, double-blind, placebo-controlled trial.** — Rome IV 기능성소화불량 환자 94명을 4주간 비교한 시험에서 소화불량 증상점수·위배출률·삶의 질을 평가했습니다. 한 기관의 단기 연구이며 정정 공지가 연결된 논문입니다. [시호소간산 상세](../formulas/chaihu-shugan-san.md)에서 처방 구조와 함께 볼 수 있습니다. PMID `38151181` · DOI `10.1016/j.jep.2023.117659`
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+담적병·담적증후군이라는 설명을 들었다면, 증상·검사 결과를 바탕으로 담음·식적·기체·비위허약의 비중을 구분해 볼 수 있습니다.
+
+[담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)

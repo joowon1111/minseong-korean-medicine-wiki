@@ -3,7 +3,7 @@ title: 보화환(保和丸)
 description: 과식·식적에 쓰는 보화환의 구성, 식후 악화 단서, 평위산·향사육군자탕과의 감별 및 안전 확인사항을 정리합니다.
 tags: [방제학, 보화환, 식적, 소식화적, 소화불량]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 보화환(保和丸)
 
@@ -64,3 +64,9 @@ last_reviewed: 2026-09-04
 - [기능성소화불량](../conditions/functional-dyspepsia.md)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+음식 정체가 중심인 식적을 담음·비위허약과 구분하고, 과식과 증상 변화의 관계를 확인합니다.
+
+[담적: 증상·변증·처방·치료](../diagnostics/phlegm-accumulation.md) · [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md) · [소화불량 처방 비교](../herbal-integrated/formula-for-digestion.md)

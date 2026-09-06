@@ -1,8 +1,8 @@
-﻿---
+---
 title: 평위산(平胃散)
 tags: [방제학, 일반방제, 비위, 화습, 방약합편]
 status: 검토완료
-last_reviewed: 2026-09-01
+last_reviewed: 2026-09-06
 description: 평위산(平胃散) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 평위산(平胃散)
@@ -50,3 +50,9 @@ https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0004226
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 - [기능성소화불량](../conditions/functional-dyspepsia.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+습체중초의 그득함을 비허담습·식적·한열착잡과 구분합니다.
+
+[담적: 증상·변증·처방·치료](../diagnostics/phlegm-accumulation.md) · [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md) · [소화불량 처방 비교](../herbal-integrated/formula-for-digestion.md)

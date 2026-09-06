@@ -3,7 +3,7 @@ title: 복령(茯苓)
 description: 복령(茯苓)의 전통적 효능, 동의보감 연결, 현대 성분·약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 복령]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 복령(茯苓)
 
@@ -52,3 +52,6 @@ PMID 21347995
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+이 약재의 역할은 처방 안의 배합으로 확인합니다. [담음 전체 안내](../diagnostics/phlegm-fluid.md)에서 변증별 대표 처방을 비교하고, [담음 치료 안내](../pattern-treatment/phlegm-fluid.md)에서 치료 목표와 경과 확인으로 이어갈 수 있습니다.

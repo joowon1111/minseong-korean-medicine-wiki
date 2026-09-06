@@ -3,7 +3,7 @@ title: 소복축어탕(少腹逐瘀湯)
 description: 한응과 어혈이 겹친 월경통·하복부 고정통을 다루는 소복축어탕의 구성과 온경탕·계지복령환 감별을 정리합니다.
 tags: [방제학, 소복축어탕, 의림개착, 생리통, 한응, 어혈, 하복부통]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 
 # 소복축어탕(少腹逐瘀湯)
@@ -46,3 +46,9 @@ last_reviewed: 2026-09-04
 - 한국전통지식포탈. [소복축어탕 — 『의림개착』](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0020347&tempLang=ko).
 - [생리통](../conditions/dysmenorrhea.md)
 - [여성건강 허브](../pillar/womens-health.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+한응혈어의 하복부 고정통을 중심으로, 한증이 필수는 아닌 어혈 처방 및 허한·혈허 처방과 비교합니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 지도](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)

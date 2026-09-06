@@ -3,7 +3,7 @@ title: 당귀수산(當歸鬚散)
 description: 당귀수산의 활혈거어·이기지통 구조와 타박·염좌 후 멍·종창·통증의 감별, 국내 급성 발목 염좌 RCT를 연결합니다.
 tags: [방제학, 당귀수산, 타박상, 발목염좌, 어혈, 멍, 통증, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 당귀수산(當歸鬚散)
 
@@ -79,3 +79,9 @@ last_reviewed: 2026-09-04
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
 - [염좌·타박 후 통증의 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#injury)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+외상 후 멍·종창·고정통에서 출발해 기체·한응·허약이 겹치는지를 비교합니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 지도](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)

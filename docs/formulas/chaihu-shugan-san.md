@@ -2,7 +2,7 @@
 title: 시호소간산(柴胡疏肝散)
 tags: [방제학, 간기울결, 기체, 기능성소화불량, 흉협통]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 description: 시호소간산의 소간이기·활혈지통 구조, 소요산·반하후박탕과의 감별, 기능성소화불량 임상근거를 연결합니다.
 ---
 # 시호소간산(柴胡疏肝散)
@@ -67,3 +67,9 @@ description: 시호소간산의 소간이기·활혈지통 구조, 소요산·�
 - [소화불량·더부룩함 처방 찾기](../herbal-integrated/formula-for-digestion.md)
 - [목이물감·매핵기](../conditions/globus.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+스트레스와 연동하는 기체를 담습·식적·비위허약과 비교합니다.
+
+[담적: 증상·변증·처방·치료](../diagnostics/phlegm-accumulation.md) · [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md) · [소화불량 처방 비교](../herbal-integrated/formula-for-digestion.md)

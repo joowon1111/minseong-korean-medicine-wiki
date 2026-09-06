@@ -3,7 +3,7 @@ title: 계지복령환(桂枝茯苓丸)
 description: 계지복령환의 활혈화어 구조, 월경통·하복부 어혈 임상 단서, 당귀작약산·온경탕과의 감별, 직접 임상시험과 안전성을 연결합니다.
 tags: [방제학, 계지복령환, 여성건강, 월경통, 어혈, 활혈화어]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 계지복령환(桂枝茯苓丸)
 
@@ -23,7 +23,7 @@ last_reviewed: 2026-09-04
 
 | 본초 | 처방 안의 역할 |
 |---|---|
-| [계지](../herbs/cinnamon-bark.md) | 양기를 통하게 하고 기혈 운행을 도움 |
+| [계지](../herbs/cinnamon-twig.md) | 양기를 통하게 하고 기혈 운행을 도움 |
 | [복령](../herbs/poria.md) | 수습을 조절하며 계지의 온통 작용을 받침 |
 | [목단피](../herbs/moutan.md) | 혈분의 울체와 열을 풀어 활혈 구조를 보완 |
 | [도인](../herbs/peach-kernel.md) | 파혈행어하여 고정성 통증·혈괴의 축을 조절 |
@@ -66,3 +66,9 @@ last_reviewed: 2026-09-04
 - [당귀작약산](danggui-shaoyao-san.md)
 - [보혈·활혈 본초](../herbs/categories/blood.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+하복부 압통·월경혈괴를 어혈의 전체 변증 안에서 보고, 한응·혈허·수습과의 차이를 확인합니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 지도](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)

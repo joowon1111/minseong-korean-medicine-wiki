@@ -3,7 +3,7 @@ title: 온경탕(溫經湯)
 description: 온경탕의 온경산한·양혈거어 구조, 냉감과 월경통 임상 단서, 당귀작약산·계지복령환과의 감별, 사람 대상 근거와 안전성을 연결합니다.
 tags: [방제학, 온경탕, 여성건강, 월경통, 한응, 어혈]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 온경탕(溫經湯)
 
@@ -58,3 +58,9 @@ last_reviewed: 2026-09-04
 - [온경탕 현대 임상근거](../authority/formulas/wenjing-tang.md)
 - [갱년기·상열감 처방 찾기](../herbal-integrated/formula-for-menopause.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+허한·혈허·어혈이 겹친 배합을 이해하고, 단순 활혈과 온경양혈의 차이를 확인합니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 지도](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)

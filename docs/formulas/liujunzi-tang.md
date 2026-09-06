@@ -3,7 +3,7 @@ title: 육군자탕(六君子湯)
 description: 사군자탕에 반하·진피를 더한 대표적인 보기화담 처방의 구조와 현대 활용을 정리합니다.
 tags: [방제학, 육군자탕, 보기제, 화담]
 status: 검토완료
-last_reviewed: 2026-09-01
+last_reviewed: 2026-09-06
 ---
 # 육군자탕(六君子湯)
 
@@ -42,3 +42,9 @@ last_reviewed: 2026-09-01
 - [육군자탕 현대 임상근거](../research/formulas/rikkunshito.md)
 - [담음](../diagnostics/phlegm-fluid.md)
 - [인삼을 쓰는 처방](../network/ginseng-formulas.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+비위기허에 담습이 겹치는 경우를 이진탕·향사육군자탕과 비교하고, 식사량·오심·배변의 경과로 연결합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)

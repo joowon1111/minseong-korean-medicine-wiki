@@ -2,7 +2,7 @@
 title: 한의학 핵심 병리·변증 개념
 description: 기허·신허·간울·담음·어혈·한습·심비양허·중기하함 등 핵심 개념을 임상적으로 탐색합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 한의학 핵심 병리·변증 개념
 
@@ -130,3 +130,11 @@ last_reviewed: 2026-08-22
 - [변증·치법](../foundations-integrated/pattern-treatment.md)
 - [기초→임상 연결](../foundations-clinical/index.md)
 - [통합 임상추론](../clinical-reasoning/index.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+어혈·담음·담적에서 출발할 때는 다음 안내에서 개념을 구분하고 주요 변증·처방·치료로 이어갈 수 있습니다.
+
+- [어혈: 외상·기체·한응·월경통의 변증과 활혈 처방](../diagnostics/blood-stasis.md)
+- [담음: 습담·비허담습·담기울결·수음과 화담 처방](../diagnostics/phlegm-fluid.md)
+- [담적: 만성 소화불편의 감별·처방·치료](../diagnostics/phlegm-accumulation.md)

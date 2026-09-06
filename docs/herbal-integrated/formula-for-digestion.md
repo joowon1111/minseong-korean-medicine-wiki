@@ -3,7 +3,7 @@ title: 소화불량·더부룩함 한약 처방 찾기
 description: 소화불량·더부룩함 한약 처방 찾기를 환자 검색어에서 병증·대표 처방·본초 자료까지 연결합니다.
 tags: [한약, 방제, 처방, 환자검색, 맞춤한약]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 소화불량·더부룩함 한약 처방 찾기
 
@@ -50,3 +50,9 @@ last_reviewed: 2026-09-04
 ## 검색 동의어
 
 소화불량 한약 처방 · 체기 한약 · 더부룩함 한약 · 비위허약 처방 · 만성 설사 한약 · 삼령백출산 · 반하사심탕 소화 · 평위산 소화 · 향사육군자탕 · 향사양위탕 · 시호소간산 · 반하후박탕 · 이진탕 · 보화환 · 육군자탕
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+담적·담음으로 검색했다면, 소화불편의 변증을 먼저 구분한 뒤 이 페이지의 처방군을 비교하면 도움이 됩니다.
+
+[담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)

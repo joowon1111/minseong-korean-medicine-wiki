@@ -8,7 +8,7 @@ tags:
 - 조기포만
 - 명치통증
 status: 검토완료
-last_reviewed: '2026-08-28'
+last_reviewed: 2026-09-06
 ---
 # 소화불량·더부룩함
 
@@ -182,3 +182,9 @@ last_reviewed: '2026-08-28'
 - Suzuki H, et al. Randomized clinical trial: rikkunshito in the treatment of functional dyspepsia. *Neurogastroenterol Motil*. 2014. PMID [24766295](https://pubmed.ncbi.nlm.nih.gov/24766295/).
 - Liao X, et al. Acupuncture for functional dyspepsia: Bayesian meta-analysis. *Complement Ther Med*. 2024;82:103051. PMID [38761869](https://pubmed.ncbi.nlm.nih.gov/38761869/).
 - Xu Z, et al. Efficacy of acupuncture for anxiety and depression in functional dyspepsia: a systematic review and meta-analysis. *PLoS One*. 2024. PMID [38452033](https://pubmed.ncbi.nlm.nih.gov/38452033/).
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+반복되는 소화불편을 담적이라고 설명받았더라도 실제 처방 선택은 허약·담습·기체·식적·한열에 따라 달라집니다.
+
+[담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)

@@ -55,3 +55,9 @@ last_reviewed: 2026-09-06
 ## 검색 동의어
 
 교통사고 후유증 · 교통사고 한의원 · 교통사고 목통증 · 교통사고 허리통증 · 교통사고 두통 · 사고 후 어지럼 · 교통사고 한약 · 교통사고 약침
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+사고 후 멍·종창·고정통을 어혈의 전통적 맥락과 연결하되, 손상 부위와 신경 증상의 평가를 함께 진행합니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 비교](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)

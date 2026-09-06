@@ -63,3 +63,9 @@ last_reviewed: 2026-09-06
 
 !!! warning "빠른 평가가 필요한 경우"
     심한 외상, 갑작스러운 근력저하, 진행하는 감각저하, 배뇨·배변 장애, 발열을 동반한 통증, 흉통·호흡곤란과 이어지는 등·옆구리통증은 우선 의학적 감별이 필요합니다.
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+외상·고정통·야간 악화 등 어혈의 단서를 한습·담습·허약과 비교하고, 활혈 처방과 치료 경과를 연결합니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 비교](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)

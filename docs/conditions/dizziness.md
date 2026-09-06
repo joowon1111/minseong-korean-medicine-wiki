@@ -9,7 +9,7 @@ tags:
 - 메니에르병
 - PPPD
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 # 어지럼·현훈
 
@@ -189,3 +189,9 @@ last_reviewed: 2026-08-28
 - Staab JP, et al. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): Bárány Society consensus. *J Vestib Res*. 2017. [PMC 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC9249299/).
 - Hou Z, et al. The Efficacy of Acupuncture for the Treatment of Cervical Vertigo: A Systematic Review and Meta-analysis. 2017. PMID [28659989](https://pubmed.ncbi.nlm.nih.gov/28659989/).
 - Oh H, et al. Chinese Herbal Medicine for Cervicogenic Dizziness: A Systematic Review and Meta-analysis. 2022. PMID [35586689](https://pubmed.ncbi.nlm.nih.gov/35586689/).
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+어지럼에 소화불편·두중·오심이 함께 있을 때 담음의 비중을 검토합니다. 급성 신경학적 이상 등은 먼저 원인 평가가 필요합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [담음 치료와 경과 확인](../pattern-treatment/phlegm-fluid.md)

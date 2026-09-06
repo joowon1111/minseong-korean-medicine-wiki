@@ -3,7 +3,7 @@ title: 가래·목에 가래가 걸려요
 description: 가래·목에 가래가 걸려요을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 호흡기, 이비인후, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 가래·목에 가래가 걸려요
 
@@ -51,3 +51,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 가래가 많아요 · 목에 가래가 걸려요 · 끈적한 가래 · 아침에 가래가 많아요 · 기침 가래 · 가래 한약
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+눈에 보이는 가래와 한의학의 담음은 범위가 같다고 보지 않습니다. 객담의 원인 평가와 함께 오심·흉민·소화상태의 조합을 살핍니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [담음 치료와 경과 확인](../pattern-treatment/phlegm-fluid.md)

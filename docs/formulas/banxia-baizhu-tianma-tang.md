@@ -3,7 +3,7 @@ title: 반하백출천마탕(半夏白朮天麻湯)
 description: 반하백출천마탕의 건비조습·화담식풍 구조와 현훈·두중·오심·소화저하의 감별, 사람 대상 체계적 문헌고찰을 연결합니다.
 tags: [방제학, 반하백출천마탕, 현훈, 담궐두통, 비허담습, 방약합편, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 반하백출천마탕(半夏白朮天麻湯)
 
@@ -79,3 +79,9 @@ last_reviewed: 2026-09-04
 - [담음](../diagnostics/phlegm-fluid.md)
 - [자율신경·스트레스 통합 지도](../autonomic/integrated-map.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+비허담습에 어지럼·두중이 겹치는 맥락을 살피고, 수음·한증이나 다른 어지럼 원인과의 차이를 확인합니다.
+
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md)

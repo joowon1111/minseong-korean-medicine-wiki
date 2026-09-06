@@ -3,7 +3,7 @@ title: 소경활혈탕(疏經活血湯)
 tags: [방제학, 통증, 비증, 어혈, 풍습]
 description: 소경활혈탕의 보혈·활혈·거풍습·통락 구조와 오적산·독활기생탕·당귀수산 감별, 통증 경과평가를 연결합니다.
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 소경활혈탕(疏經活血湯)
 
@@ -69,3 +69,9 @@ last_reviewed: 2026-09-04
 - [통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md)
 
 - [주요 통증 처방 비교와 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#formula-guide)
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+풍습·혈허와 어혈이 겹친 근골격 통증을 비교하고, 활혈뿐 아니라 거풍습·기능 회복의 방향을 함께 봅니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 지도](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)

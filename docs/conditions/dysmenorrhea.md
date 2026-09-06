@@ -9,7 +9,7 @@ tags:
 - 골반통
 - 자궁내막증
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-06
 ---
 # 생리통·월경통
 
@@ -191,3 +191,9 @@ last_reviewed: '2026-08-29'
 - Lee HW, et al. Herbal medicine (Danggui Shaoyao San) for treating primary dysmenorrhea. PMID [26857875](https://pubmed.ncbi.nlm.nih.gov/26857875/).
 - Leem J, et al. Hyeolbuchukeo-tang for primary dysmenorrhea: systematic review and meta-analysis. PMID [30702569](https://pubmed.ncbi.nlm.nih.gov/30702569/).
 - Gao L, et al. Wenjing decoction for primary dysmenorrhea: systematic review and meta-analysis. PMID [28791471](https://pubmed.ncbi.nlm.nih.gov/28791471/).
+
+## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
+
+월경혈괴·하복부 압통·고정통이 있다면 어혈에 한응·기체·혈허가 얼마나 겹치는지 비교해 처방 방향을 구체화합니다.
+
+[어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 비교](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)
