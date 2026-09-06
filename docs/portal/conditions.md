@@ -39,6 +39,15 @@ hide:
 
 상단 검색창에 “입 벌릴 때 아파요”, “밤에 다리가 불편해요”, “다리에 쥐가 나요” 같은 생활 표현이나 질환·본초·처방·경혈·PMID를 입력할 수 있습니다.
 
+## 면역·해독·체중관리에서 시작하기 {#immune-weight-routes}
+
+| 궁금한 내용 | 대표 안내 |
+|---|---|
+| 면역력·잦은 감기·알레르기·회복 | [면역 전체 안내](../immune-allergy/index.md) |
+| 해독·청열해독·습열의 의미와 치료 | [해독 안내](../herbal-integrated/detoxification.md) |
+| 비만의 기준·변증·치료 | [비만](../conditions/obesity.md) |
+| 다이어트 시작·정체·감량 후 유지 | [건강한 다이어트](../conditions/healthy-weight-management.md) |
+
 ## 관련 핵심 문서
 
 - [아카이브 안내](../guide/index.md)

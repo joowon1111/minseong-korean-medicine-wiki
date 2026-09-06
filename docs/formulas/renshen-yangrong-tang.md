@@ -3,7 +3,7 @@ title: 인삼양영탕(人蔘養榮湯)
 description: 인삼양영탕의 익기양혈·양심안신 구조와 피로·식욕저하·심계·수면 불편의 감별, 십전대보탕·귀비탕·보중익기탕과의 차이를 정리합니다.
 tags: [방제학, 인삼양영탕, 기혈양허, 허손, 피로, 식욕저하, 태평혜민화제국방, 방약합편, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 인삼양영탕(人蔘養榮湯)
 
@@ -92,3 +92,9 @@ last_reviewed: 2026-09-04
 - [혈허](../diagnostics/blood-deficiency.md)
 - [보익 처방 비교](../network/tonic-formula-compare.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+기혈허약에 소화·호흡·정신적 피로가 어떻게 겹치는지 살피고 면역·영양·회복 진료로 연결합니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)

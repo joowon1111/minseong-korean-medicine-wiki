@@ -259,6 +259,7 @@ nav:
       - 단녹용탕 · 고전 산과처방: formulas/dan-nokyong-tang.md
       - 생화탕 · 산후 대표처방: formulas/saenghwa-tang.md
     - 청열·화독:
+      - 해독·청열해독 안내: herbal-integrated/detoxification.md
       - 황련해독탕: formulas/huanglian-jiedu-tang.md
       - 갈근금련탕: formulas/gegen-qinlian-tang.md
       - 용담사간탕: formulas/longdan-xiegan-tang.md
@@ -285,6 +286,7 @@ nav:
       - 영계출감탕: formulas/linggui-zhugan-tang.md
       - 실비음: formulas/shipi-yin.md
     - 이수·통림:
+      - 방기황기탕: formulas/fangji-huangqi-tang.md
       - 팔정산: formulas/bazheng-san.md
     - 화해·공하:
       - 대시호탕: formulas/dachaihu-tang.md
@@ -472,12 +474,23 @@ nav:
       - 산후회복: conditions/postpartum-recovery.md
       - 출산 후 한약·산후보약: conditions/postpartum-herbal.md
     - 면역·만성염증·대사·신장:
+      - 면역·알레르기·회복 안내: immune-allergy/index.md
+      - 면역력 저하·잦은 감기: conditions/low-immunity-recurrent-illness.md
       - 면역·염증·질병·노화 지식망: immune-allergy/inflammation-pain.md
       - 만성염증·CRP·ESR 해석: conditions/inflammation-markers.md
       - 혈압이 높아요·건강검진 고혈압: conditions/high-blood-pressure-checkup.md
       - 대사증후군·건강검진 체중관리: conditions/metabolic-syndrome.md
       - 만성콩팥병·신장기능 검사: conditions/chronic-kidney-disease.md
       - 당뇨병성 콩팥병·미세알부민뇨: conditions/diabetic-kidney-disease.md
+    - 비만·다이어트·체중관리:
+      - 비만 평가·변증·치료: conditions/obesity.md
+      - 건강한 다이어트·유지: conditions/healthy-weight-management.md
+      - 다이어트 한약·처방 비교: conditions/weight-management-herbal.md
+      - 복부비만·뱃살: conditions/abdominal-obesity.md
+      - 다이어트 정체기: conditions/weight-plateau.md
+      - 요요·체중 유지: conditions/weight-regain.md
+      - 부종과 체중변화: conditions/edema-weight.md
+      - 사상체질과 체중: sasang/sasang-weight.md
   - 증상 상세 자료실:
     - 통증: symptom-integrated/pain.md
     - 수면·피로: symptom-integrated/sleep-fatigue.md

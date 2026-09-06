@@ -56,3 +56,9 @@ https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0004226
 습체중초의 그득함을 비허담습·식적·한열착잡과 구분합니다.
 
 [담적: 증상·변증·처방·치료](../diagnostics/phlegm-accumulation.md) · [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md) · [소화불량 처방 비교](../herbal-integrated/formula-for-digestion.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+습체중초의 소화불편·그득함을 체중관리의 전체 변증 안에서 비교합니다. 소화가 편해지는 것과 감량 효과는 별도로 평가합니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

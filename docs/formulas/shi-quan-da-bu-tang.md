@@ -3,7 +3,7 @@ title: 십전대보탕(十全大補湯)
 description: 기혈을 함께 보하고 온보하는 대표 보익 처방의 구성, 전통적 활용과 현대 임상연구를 정리합니다.
 tags: [방제학, 십전대보탕, 보익제, 피로]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 십전대보탕(十全大補湯)
 
@@ -41,3 +41,9 @@ last_reviewed: 2026-08-19
 1. *Efficacy and safety of Sipjeondaebo-tang for cancer-related fatigue: A systematic review and meta-analysis.* 2024. PMID **39368761**.
 2. *Efficacy and Safety of Sipjeondaebo-Tang for Anorexia in Patients with Cancer: A Pilot, Randomized, Double-Blind, Placebo-Controlled Trial.* PMID **29441116**; DOI **10.1155/2017/8780325**.
 3. Zee-Cheng RK. *Shi-quan-da-bu-tang... in cancer immunotherapy.* PMID **1294861**.
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+기혈양허와 오래된 쇠약·회복 지연을 살피며, 열감·소화력·냉감·땀의 양상에 따라 다른 보익 처방과 비교합니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)

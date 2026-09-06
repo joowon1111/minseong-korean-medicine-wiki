@@ -3,7 +3,7 @@ title: 황기(黃芪)
 description: 황기의 보기·고표 전통과 astragalosides·다당류를 중심으로 한 현대 연구를 정리합니다.
 tags: [본초학, 보익약, 황기]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 황기(黃芪)
 
@@ -46,3 +46,9 @@ Astragalus polysaccharides 역시 면역조절을 비롯한 다양한 생리활�
 ## 참고문헌
 1. Wang P, et al. *A review of the botany, phytochemistry, traditional uses, pharmacology, toxicology, and quality control of Astragalus membranaceus.* 2023. PMID **37680711**; DOI **10.3389/fphar.2023.1242318**.
 2. Zheng Y, et al. *A Review of the Pharmacological Action of Astragalus Polysaccharide.* 2020. PMID **32265719**.
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+황기의 보기·고표·수습 조절 역할은 처방 배합에 따라 달라집니다. 옥병풍산·보중익기탕 등과 연결해 주증상과 회복 목표를 확인합니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)

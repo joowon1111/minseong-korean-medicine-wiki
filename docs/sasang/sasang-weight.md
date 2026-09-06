@@ -3,7 +3,7 @@ title: 사상체질과 체중·다이어트
 description: 사상체질과 체중·다이어트을 환자 생활언어에서 사상의학·체질·병증·처방 지식으로 연결합니다.
 tags: [사상의학, 사상체질, 체질, 환자검색, 한약]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 사상체질과 체중·다이어트
 
@@ -40,3 +40,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 사상체질 다이어트 · 태음인 다이어트 · 소양인 다이어트 · 소음인 살 · 체질별 다이어트 한약 · 식욕 · 체중 · 부종 · 소화 · 활동량
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+사상체질의 처방 선택은 체형만으로 정하지 않고 평소 소화·땀·대변·냉열과 현재 병증을 함께 봅니다. [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md)과 [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md)의 차이를 살피며, 비만의 진단·대사위험·생활 관리도 병행합니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

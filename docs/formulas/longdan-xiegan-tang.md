@@ -2,7 +2,7 @@
 title: 용담사간탕(龍膽瀉肝湯)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 용담사간탕(龍膽瀉肝湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 용담사간탕(龍膽瀉肝湯)
@@ -34,3 +34,8 @@ description: 용담사간탕(龍膽瀉肝湯) — 한약 처방의 구성·치�
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+간담실화·습열의 병위와 증상을 황련해독탕의 삼초실열 및 다른 해독 관련 표현과 비교합니다.
+
+[해독·청열해독 전체 안내](../herbal-integrated/detoxification.md) · [면역·염증·회복](../immune-allergy/index.md)

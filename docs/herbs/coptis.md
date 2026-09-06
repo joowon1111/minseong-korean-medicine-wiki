@@ -2,7 +2,7 @@
 title: 황련(黃連)
 tags: [본초, 임상본초, 주요본초]
 status: 검토필요
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 description: 황련(黃連) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 황련(黃連)
@@ -59,3 +59,8 @@ description: 황련(黃連) — 본초의 성미·귀경·효능·병증·배합
 
 <!-- QUALITY_DEPTH_05_END -->
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+황련의 청열조습·사화해독을 완성된 처방 구조와 연결합니다. 베르베린 분리 성분 연구는 황련이나 황련해독탕 전체의 효과와 구분합니다.
+
+[해독·청열해독 전체 안내](../herbal-integrated/detoxification.md) · [면역·염증·회복](../immune-allergy/index.md)

@@ -1,8 +1,8 @@
-﻿---
+---
 title: 마황(麻黃)
 tags: [본초, 사상처방, 약재, 지식그래프]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 마황(麻黃) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 마황(麻黃)
@@ -36,3 +36,8 @@ description: 마황(麻黃) — 본초의 성미·귀경·효능·병증·배합
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+체중관리 처방에 포함되는 경우 총 복용량·제형·병용약과 두근거림·혈압·잠을 함께 확인합니다. 개별 성분의 실험이나 제제 연구를 모든 마황 함유 처방의 결과로 넓히지 않습니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

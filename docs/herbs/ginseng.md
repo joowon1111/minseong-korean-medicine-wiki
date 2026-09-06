@@ -3,7 +3,7 @@ title: 인삼(人蔘)
 description: 인삼의 대표적인 보기·보익 가치와 ginsenoside, 피로·면역·신경계 등 현대 연구를 정리합니다.
 tags: [본초학, 보익약, 인삼]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 인삼(人蔘)
 
@@ -68,3 +68,9 @@ last_reviewed: '2026-09-05'
 1. Jin Y, et al. *Clinical and Preclinical Systematic Review of Panax ginseng C. A. Mey and Its Compounds for Fatigue.* 2020. PMID **32765262**.
 2. Li X, et al. *Ginseng and Ginseng Herbal Formulas for Symptomatic Management of Fatigue.* 2023. PMID **36730693**.
 3. Arring NM, et al. *Ginseng as a Treatment for Fatigue: A Systematic Review.* PMID **29624410**.
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+인삼은 보기·건비·생진의 배합을 이해하는 출발점입니다. 특정 성분의 면역 실험 결과와 완성된 처방의 임상효과를 구분해 살핍니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)
