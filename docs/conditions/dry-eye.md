@@ -64,7 +64,7 @@ last_reviewed: 2026-09-06
 
 ## 건조에 피로가 겹칠 때의 본초·방제
 
-[구기자](../herbs/cornus-extra.md)·[국화](../herbs/chrysanthemum.md)와 [기국지황환](../formulas/qiju-dihuang-wan.md)은 간신음허·명목의 전통적 배합을 이해하는 연결입니다. [눈피로 본초·처방 안내](../herbal-integrated/herbs-for-eye-fatigue.md)에서 혈허·수면 피로의 다른 처방과 비교합니다. 안구건조의 유형과 안구표면 치료는 함께 평가하며, 이 전통적 연결이 모든 안구건조에 대한 동일한 임상효과를 뜻하지 않습니다.
+[구기자](../herbs/cornus-extra.md)·[국화](../herbs/chrysanthemum.md)와 [기국지황환](../formulas/qiju-dihuang-wan.md)은 간신음허·명목의 전통적 배합을 이해하는 연결입니다. [눈피로 본초·처방 안내](../conditions/eye-fatigue.md#eye-fatigue-herbal-network)에서 혈허·수면 피로의 다른 처방과 비교합니다. 안구건조의 유형과 안구표면 치료는 함께 평가하며, 이 전통적 연결이 모든 안구건조에 대한 동일한 임상효과를 뜻하지 않습니다.
 
 ## 기존 지식망과 연결 {#_7}
 

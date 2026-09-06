@@ -56,7 +56,7 @@ last_reviewed: 2026-09-06
 | 기운 저하에 어지럼·혈허가 겹침 | [팔물탕](../formulas/bazhen-tang.md): 보기와 보혈의 결합 |
 | 허약·냉감과 기혈부족이 뚜렷함 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md): 황기·육계를 더한 보익 |
 
-위 비교는 전통적 변증에 따른 처방 구조입니다. [육체피로 본초 안내](../herbal-integrated/herbs-for-fatigue.md)에서 주요 약재를 자세히 보고, [전신근육통](whole-body-ache.md)에서는 경련·손상·한습·어혈 양상을 별도로 구분합니다. 인삼의 피로 연구를 운동기록·근력 향상 효과로 해석하지 않습니다. [NCCIH 인삼 근거](https://www.nccih.nih.gov/health/asian-ginseng)
+위 비교는 전통적 변증에 따른 처방 구조입니다. [육체피로 본초 안내](../herbal-integrated/herbs.md#_1)에서 주요 약재를 자세히 보고, [전신근육통](whole-body-ache.md)에서는 경련·손상·한습·어혈 양상을 별도로 구분합니다. 인삼의 피로 연구를 운동기록·근력 향상 효과로 해석하지 않습니다. [NCCIH 인삼 근거](https://www.nccih.nih.gov/health/asian-ginseng)
 
 ## 치료 후 무엇을 확인하나요? {#physical-fatigue-followup}
 

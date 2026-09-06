@@ -40,4 +40,4 @@ description: 독활(獨活) — 본초의 성미·귀경·효능·병증·배합
 
 식약처 독활 규격은 *Aralia continentalis*의 뿌리를 수재합니다. 해외 문헌의 *Angelicae Pubescentis Radix*와는 기원이 다르므로, ‘Duhuo’라는 이름만으로 성분·임상결과를 같은 약재에 적용하지 않습니다. [식약처 독활 규격](https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_411.pdf)
 
-[독활기생탕](../formulas/duhuo-jisheng-tang.md)의 풍한습·요슬부 통증 배합을 읽되 실제 사용 원료를 확인합니다. [두충](eucommia.md)·[우슬](achyranthes.md)의 보익·활혈 역할과 구분하고, [통증 본초·처방 안내](../herbal-integrated/herbs-for-pain.md)에서 기혈허·한습·어혈별 비교를 볼 수 있습니다.
+[독활기생탕](../formulas/duhuo-jisheng-tang.md)의 풍한습·요슬부 통증 배합을 읽되 실제 사용 원료를 확인합니다. [두충](eucommia.md)·[우슬](achyranthes.md)의 보익·활혈 역할과 구분하고, [통증 본초·처방 안내](../herbal-integrated/formula-for-pain.md)에서 기혈허·한습·어혈별 비교를 볼 수 있습니다.

@@ -242,4 +242,4 @@ last_reviewed: 2026-09-06
 
 ## 육체피로·전신근육통에서 본초와 방제로 이어가기 {#physical-fatigue-herbal-routes}
 
-[통증·관절통·근육통의 주요 본초](../../herbal-integrated/herbs-for-pain.md)에서 백작약·당귀·천궁·독활·두충·우슬·속단을 배합 목적별로 비교합니다. 과로와 허약이 함께 있다면 [육체피로 본초·탕제](../../herbal-integrated/herbs-for-fatigue.md), 눈의 불편도 겹친다면 [눈피로 본초·탕제](../../herbal-integrated/herbs-for-eye-fatigue.md)로 연결됩니다. 증상 이름에 처방 하나를 고정하기보다 통증 양상·냉열·피로·소화·수면과 연구 대상 질환을 함께 읽습니다.
+[통증·관절통·근육통의 주요 본초](../../herbal-integrated/formula-for-pain.md)에서 백작약·당귀·천궁·독활·두충·우슬·속단을 배합 목적별로 비교합니다. 과로와 허약이 함께 있다면 [육체피로 본초·탕제](../../herbal-integrated/herbs.md#_1), 눈의 불편도 겹친다면 [눈피로 본초·탕제](../../conditions/eye-fatigue.md#eye-fatigue-herbal-network)로 연결됩니다. 증상 이름에 처방 하나를 고정하기보다 통증 양상·냉열·피로·소화·수면과 연구 대상 질환을 함께 읽습니다.

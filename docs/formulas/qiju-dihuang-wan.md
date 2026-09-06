@@ -30,4 +30,4 @@ last_reviewed: 2026-09-06
 
 ## 평가와 치료 연결 {#qiju-dihuang-care}
 
-[눈피로](../conditions/eye-fatigue.md)에서는 화면 작업·굴절·목 긴장을, [안구건조증](../conditions/dry-eye.md)에서는 눈물막·눈꺼풀 문제를 함께 평가합니다. [눈피로 본초·탕제 안내](../herbal-integrated/herbs-for-eye-fatigue.md)에서 한약과 생활관리의 역할을 비교할 수 있습니다. 갑작스러운 시력저하나 심한 안구통은 안과 평가가 우선입니다.
+[눈피로](../conditions/eye-fatigue.md)에서는 화면 작업·굴절·목 긴장을, [안구건조증](../conditions/dry-eye.md)에서는 눈물막·눈꺼풀 문제를 함께 평가합니다. [눈피로 본초·탕제 안내](../conditions/eye-fatigue.md#eye-fatigue-herbal-network)에서 한약과 생활관리의 역할을 비교할 수 있습니다. 갑작스러운 시력저하나 심한 안구통은 안과 평가가 우선입니다.

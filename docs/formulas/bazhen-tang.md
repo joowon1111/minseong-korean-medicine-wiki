@@ -84,4 +84,4 @@ last_reviewed: 2026-09-06
 
 ## 육체피로와 눈피로에 겹치는 기혈부족
 
-[육체피로 본초·탕제 비교](../herbal-integrated/herbs-for-fatigue.md)에서 사군자탕·사물탕의 결합을, [눈피로 본초·탕제 비교](../herbal-integrated/herbs-for-eye-fatigue.md)에서 혈허와 기허가 겹치는 맥락을 읽습니다. 눈의 건조·허열을 보는 [기국지황환](qiju-dihuang-wan.md)과는 배합 구조가 다릅니다.
+[육체피로 본초·탕제 비교](../herbal-integrated/herbs.md#_1)에서 사군자탕·사물탕의 결합을, [눈피로 본초·탕제 비교](../conditions/eye-fatigue.md#eye-fatigue-herbal-network)에서 혈허와 기허가 겹치는 맥락을 읽습니다. 눈의 건조·허열을 보는 [기국지황환](qiju-dihuang-wan.md)과는 배합 구조가 다릅니다.

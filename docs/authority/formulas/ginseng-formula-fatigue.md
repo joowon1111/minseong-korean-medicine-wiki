@@ -29,7 +29,7 @@ last_reviewed: 2026-09-06
 
 ## 연결
 
-- [육체피로·기력회복의 본초와 한약 처방](../../herbal-integrated/herbs-for-fatigue.md): 인삼·황기·당귀·작약의 역할 구분.
+- [육체피로·기력회복의 본초와 한약 처방](../../herbal-integrated/herbs.md#_1): 인삼·황기·당귀·작약의 역할 구분.
 - [육체피로·운동 후 회복지연](../../conditions/poor-recovery-after-exercise.md): 업무·운동 부담과 회복시간 평가.
 - [만성피로 한약 근거 지도](chronic-fatigue-herbal-map.md): 대상 질환과 연구의 한계.
 

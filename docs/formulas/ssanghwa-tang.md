@@ -85,4 +85,4 @@ description: 쌍화탕의 기혈쌍보·영위조화 구조와 과로 후 피로
 
 ## 육체피로·몸이 쑤시는 양상에서 비교
 
-[육체피로·운동 후 회복지연](../conditions/poor-recovery-after-exercise.md)과 [전신근육통](../conditions/whole-body-ache.md)에서는 활동량·수면·손상 여부를 함께 살핍니다. 쌍화탕의 작약·당귀·황기 배합을 [보중익기탕](buzhong-yiqi-tang.md)의 보기 중심 배합, [팔물탕](bazhen-tang.md)의 기혈쌍보와 비교합니다. [피로 본초·탕제 안내](../herbal-integrated/herbs-for-fatigue.md)에서 주요 본초의 역할을 볼 수 있습니다.
+[육체피로·운동 후 회복지연](../conditions/poor-recovery-after-exercise.md)과 [전신근육통](../conditions/whole-body-ache.md)에서는 활동량·수면·손상 여부를 함께 살핍니다. 쌍화탕의 작약·당귀·황기 배합을 [보중익기탕](buzhong-yiqi-tang.md)의 보기 중심 배합, [팔물탕](bazhen-tang.md)의 기혈쌍보와 비교합니다. [피로 본초·탕제 안내](../herbal-integrated/herbs.md#_1)에서 주요 본초의 역할을 볼 수 있습니다.

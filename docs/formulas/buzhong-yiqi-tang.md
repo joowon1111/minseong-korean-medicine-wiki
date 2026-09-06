@@ -113,4 +113,4 @@ last_reviewed: 2026-09-06
 
 ## 육체피로에서 다른 보익탕제와 비교
 
-쉽게 처지고 식욕·기력이 약한 기허를 보는 본방과, 과로 후 기혈부족을 보는 [쌍화탕](ssanghwa-tang.md), 보기·보혈을 함께 구성하는 [팔물탕](bazhen-tang.md)을 비교합니다. [육체피로의 본초와 처방](../herbal-integrated/herbs-for-fatigue.md) 및 [운동 후 회복 평가](../conditions/poor-recovery-after-exercise.md)로 연결됩니다.
+쉽게 처지고 식욕·기력이 약한 기허를 보는 본방과, 과로 후 기혈부족을 보는 [쌍화탕](ssanghwa-tang.md), 보기·보혈을 함께 구성하는 [팔물탕](bazhen-tang.md)을 비교합니다. [육체피로의 본초와 처방](../herbal-integrated/herbs.md#_1) 및 [운동 후 회복 평가](../conditions/poor-recovery-after-exercise.md)로 연결됩니다.

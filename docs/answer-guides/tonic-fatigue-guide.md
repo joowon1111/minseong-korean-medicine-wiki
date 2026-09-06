@@ -18,4 +18,4 @@ description: 만성피로와 기력저하에서 먼저 확인할 점, 한의학�
 - [만성피로](../conditions/chronic-fatigue.md)
 - [녹용보약](../conditions/deer-antler-tonic-guide.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
-- [피로·기력회복 본초](../herbal-integrated/herbs-for-fatigue.md)
+- [피로·기력회복 본초](../herbal-integrated/herbs.md#_1)

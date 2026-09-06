@@ -55,4 +55,4 @@ Astragalus polysaccharides 역시 면역조절을 비롯한 다양한 생리활�
 
 ## 육체피로에서 인삼·당귀·작약과 비교
 
-[보중익기탕](../formulas/buzhong-yiqi-tang.md)의 인삼·황기 배합과 [쌍화탕](../formulas/ssanghwa-tang.md)의 황기·작약·당귀 배합은 구성이 다릅니다. 전자는 보기·비위·승양, 후자는 과로와 기혈부족을 함께 보는 비교점입니다. [육체피로 본초·탕제 안내](../herbal-integrated/herbs-for-fatigue.md)에서 동반 증상에 따른 차이를 확인합니다.
+[보중익기탕](../formulas/buzhong-yiqi-tang.md)의 인삼·황기 배합과 [쌍화탕](../formulas/ssanghwa-tang.md)의 황기·작약·당귀 배합은 구성이 다릅니다. 전자는 보기·비위·승양, 후자는 과로와 기혈부족을 함께 보는 비교점입니다. [육체피로 본초·탕제 안내](../herbal-integrated/herbs.md#_1)에서 동반 증상에 따른 차이를 확인합니다.

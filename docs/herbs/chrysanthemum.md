@@ -23,5 +23,5 @@ last_reviewed: 2026-09-06
 
 - [구기자](cornus-extra.md): 자보간신·명목의 배합.
 - [상엽](mulberry-leaf.md): 풍열·기침과 연결하는 상국음의 배합.
-- [눈피로의 본초와 처방](../herbal-integrated/herbs-for-eye-fatigue.md): 혈허·음허·수면 피로의 구분.
+- [눈피로의 본초와 처방](../conditions/eye-fatigue.md#eye-fatigue-herbal-network): 혈허·음허·수면 피로의 구분.
 - [눈피로](../conditions/eye-fatigue.md)·[안구건조증](../conditions/dry-eye.md): 시력·안구표면 평가와 일상관리.
