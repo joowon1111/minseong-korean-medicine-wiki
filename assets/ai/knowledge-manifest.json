@@ -2,14 +2,14 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "0316294ac857a30c842d31e52c23988c27e6f3f831649ea692f00d8f619502cf",
-  "entity_count": 2204,
+  "content_sha256": "1ac909dc464be00f14a22599abd697bf0f1549903f1e9801abc2540ff823f463",
+  "entity_count": 2207,
   "entity_types": {
     "acupoint": 417,
     "acupuncture": 62,
     "article": 222,
     "classical_source": 47,
-    "condition": 293,
+    "condition": 296,
     "condition_evidence": 117,
     "evidence_guide": 18,
     "formula": 141,
@@ -35,17 +35,17 @@
     "schema": "/assets/ai/knowledge-schema.json"
   },
   "language": "ko-KR",
-  "red_flag_section_entities": 290,
-  "relation_count": 15445,
+  "red_flag_section_entities": 291,
+  "relation_count": 15854,
   "relation_types": {
-    "links_to": 7698,
+    "links_to": 7732,
     "links_to_acupoint": 523,
-    "links_to_condition": 2978,
+    "links_to_condition": 3277,
     "links_to_evidence": 169,
-    "links_to_formula": 2709,
-    "links_to_herb": 1195,
-    "links_to_pattern": 173
+    "links_to_formula": 2778,
+    "links_to_herb": 1197,
+    "links_to_pattern": 178
   },
-  "safety_section_entities": 821,
+  "safety_section_entities": 822,
   "schema_version": "1.0"
 }
