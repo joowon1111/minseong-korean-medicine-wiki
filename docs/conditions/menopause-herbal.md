@@ -81,6 +81,10 @@ last_reviewed: 2026-09-06
 
 [갱년기 관절통](menopause-joint-pain.md) · [골다공증·골절 예방](osteoporosis.md)
 
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+갱년기에 입마름·혀 화끈거림이 있어도 호르몬 변화 하나로 원인을 확정하지 않습니다. [구강작열감증후군·설통](tongue-burning.md)·[구강건조증](dry-mouth.md)에서 구강·약물·대사 원인과 변증을 나누어 봅니다.
+
 ## 기존 지식망과 연결
 
 - [증상·질환 한눈에 보기](index.md)

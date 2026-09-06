@@ -484,3 +484,9 @@ last_reviewed: 2026-09-06
 관절의 급성 부종·아침강직, 골밀도 저하와 골절 회복, 전신통증·피로를 해당 안내에서 구분할 수 있습니다.
 
 [통풍·요산 관리](gout.md) · [류마티스관절염](rheumatoid-arthritis.md) · [골다공증·골절 예방](osteoporosis.md) · [아침강직·조조강직](morning-stiffness.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
+
+## 눈·입의 불편을 이어서 보기 {#eye-oral-symptom-routes}
+
+건조·떨림·궤양·통증·맛의 변화를 나누어 원인 평가와 변증·처방·연구로 이어집니다.
+
+[안구건조증](dry-eye.md) · [눈피로](eye-fatigue.md) · [눈밑떨림](eye-twitching.md) · [구강건조증·입마름](dry-mouth.md) · [쇼그렌증후군](sjogrens-syndrome.md) · [노인 입마름](elderly-dry-mouth.md) · [구내염](mouth-ulcer.md) · [구강작열감·설통](tongue-burning.md) · [입냄새](bad-breath.md) · [미각장애](taste-change.md) · [입쓴맛](bitter-taste.md)

@@ -138,3 +138,7 @@ description: 황련해독탕의 황련·황금·황백·치자 처방 구조와 
 가려움은 팽진의 시간 경과, 건조·각질·진물, 접촉 자극을 구분해 평가합니다. 청열·제습·양혈의 전통적 맥락과 피부장벽·수면·기본 치료를 함께 연결합니다.
 
 [두드러기](../conditions/urticaria.md) · [아토피피부염](../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../conditions/eczema.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+열증의 전통적 처방 비교는 [구내염](../conditions/mouth-ulcer.md)·[입쓴맛](../conditions/bitter-taste.md)·[입냄새](../conditions/bad-breath.md)로 연결합니다. 증상 이름만으로 열증을 단정하지 않고 구강·약물·소화 원인을 확인합니다.

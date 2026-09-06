@@ -3,7 +3,7 @@ title: 암수술·항암치료 후 면역력과 기력을 회복하고 싶어요
 description: 암수술과 항암·방사선치료 중 또는 이후의 피로·식욕·소화·수면·통증·말초신경 증상을 한약과 침치료로 보조 관리하는 방법을 안내합니다.
 tags: [암수술후회복, 항암후회복, 암환자면역력, 암환자한약, 항암중한약, 암관련피로, 식욕저하, 침, 약침]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 
 # 암수술·항암치료 후 면역력과 기력을 회복하고 싶어요
@@ -313,7 +313,11 @@ Kim JW et al. *Korean red ginseng for cancer-related fatigue in colorectal cance
   "description": "암수술과 항암치료 중·후 피로, 식욕, 소화, 수면, 통증과 말초신경 증상의 한의 보조관리를 안내합니다.",
   "url": "https://wiki.minseong.co.kr/conditions/cancer-treatment-recovery/",
   "inLanguage": "ko-KR",
-  "dateModified": "2026-09-05",
+  "dateModified": "2026-09-06",
   "about": {"@type": "MedicalCondition", "name": "암 치료 후 회복·기력저하"}
 }
 </script>
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+두경부 치료 후 입마름은 [방사선치료 후 구강건조 근거](../authority/conditions/radiation-xerostomia.md)와 [구강건조 관리](dry-mouth.md)를 연결합니다. [미각 변화](taste-change.md)와 식사량도 별도로 평가합니다.

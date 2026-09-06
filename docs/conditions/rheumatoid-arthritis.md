@@ -45,3 +45,7 @@ RF(류마티스 인자) 양성만으로 확진할 수 없고, 음성이라고 �
 이는 류마티스관절염의 일괄 처방 목록이 아닙니다. 항류마티스제와 한약을 병행한다면 전체 복용 목록·간신장 검사·감염 증상을 공유하고, 관절염 치료를 유지하면서 반응을 확인합니다. 침을 포함한 통합적 관리는 운동·재활과 함께 약물치료에 더하는 방식으로 검토합니다. [ACR 운동·재활·통합관리 지침](https://pubmed.ncbi.nlm.nih.gov/37227116/)
 
 → [염증 수치 CRP·ESR](inflammation-markers.md) · [면역·알레르기](../immune-allergy/index.md) · [골다공증](osteoporosis.md) · [비증 처방 비교](../formula-architecture/bi-syndrome-family.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+눈과 입이 함께 지속적으로 마르면 [쇼그렌증후군](sjogrens-syndrome.md) 동반 여부를 평가할 수 있습니다. [안구건조증](dry-eye.md)과 [구강건조증](dry-mouth.md)의 국소 관리도 관절염 조절과 함께 살펴봅니다.

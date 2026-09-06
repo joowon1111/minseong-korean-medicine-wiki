@@ -95,3 +95,7 @@ last_reviewed: 2026-09-06
 식사 후 불편과 실제 섭취량을 구분하고, 비위허약·식적·담습의 동반 양상을 비교합니다. 소아 적용은 성인 근거와 구분합니다.
 
 [복부팽만](../conditions/bloating.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+비위허약·기체의 맥락에서 [미각 변화와 식욕저하](../conditions/taste-change.md), [소화 증상을 동반한 구취](../conditions/bad-breath.md)를 비교할 수 있습니다. 소화 개선과 미각·구취 자체의 변화는 나누어 평가합니다.

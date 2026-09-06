@@ -34,3 +34,7 @@ last_reviewed: 2026-09-06
 혈허·기혈허의 증상 조합과 빈혈·철결핍 검사를 구분합니다. 출혈 원인과 필요한 영양 치료를 함께 확인합니다.
 
 [빈혈·철결핍성빈혈](../conditions/anemia-fatigue.md) · [헤모글로빈·페리틴](../conditions/anemia-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+눈의 피로를 혈허 하나로 고정하지 않고 [눈피로의 시력·화면·건조 구분](../conditions/eye-fatigue.md)과 [눈떨림의 유발 요인·경련 감별](../conditions/eye-twitching.md)을 함께 확인합니다.

@@ -75,3 +75,7 @@ description: 자음강화탕의 자음양혈·강허화 구조, 음허성 마른
 갱년기의 열감·수면·피로·정서·관절 불편을 나누어 치료 목표를 정합니다. 변증별 처방을 비교하고 수면과 일상 기능의 경과로 연결합니다.
 
 [갱년기 한약·처방 비교](../conditions/menopause-herbal.md) · [새벽각성](../conditions/early-awakening.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+음허·허열과 건조를 함께 볼 때 [안구건조증](../conditions/dry-eye.md)·[입마름](../conditions/dry-mouth.md)·[구강작열감·설통](../conditions/tongue-burning.md)의 원인 평가를 먼저 연결합니다. 이 연결은 전통적 병증 비교이며 각 질환에 대한 임상 효과의 확정 목록은 아닙니다.

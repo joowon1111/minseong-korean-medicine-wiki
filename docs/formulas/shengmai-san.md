@@ -72,3 +72,7 @@ last_reviewed: 2026-09-06
 회복을 평가할 때 피로·식사·수면뿐 아니라 활동 다음날의 악화와 실제 생활기능을 함께 기록합니다.
 
 [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+기음부족과 피로·건조의 처방 비교는 [입마름](../conditions/dry-mouth.md)·[노인 입마름](../conditions/elderly-dry-mouth.md)으로 이어집니다. [쇼그렌증후군](../conditions/sjogrens-syndrome.md)에서는 국소 건조 관리와 전신질환 치료를 구분하며, 변증 비교가 자가면역질환 조절 효과의 입증을 뜻하지 않습니다.

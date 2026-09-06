@@ -57,6 +57,10 @@ last_reviewed: 2026-09-06
 
 [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
 
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+일반 검진 결과와 별개로 눈·입 건조가 지속되고 관절 불편이 겹치면 [쇼그렌증후군 평가](sjogrens-syndrome.md)를 살펴볼 수 있습니다. 증상의 조합에 따라 필요한 검사를 선택합니다.
+
 ## 기존 지식망과 연결
 
 - [만성피로](chronic-fatigue.md)

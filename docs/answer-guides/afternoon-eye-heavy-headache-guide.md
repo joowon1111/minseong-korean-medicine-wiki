@@ -25,3 +25,7 @@ tags: [눈피로, 오후두통, 안구피로, 긴장성두통, 목통증]
 - [경항통](../conditions/neck-pain.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+화면 사용·도수·건조와 작업시간 조절은 [눈피로 상세 안내](../conditions/eye-fatigue.md), 눈물막·침 연구는 [안구건조증](../conditions/dry-eye.md)에서 이어서 볼 수 있습니다.

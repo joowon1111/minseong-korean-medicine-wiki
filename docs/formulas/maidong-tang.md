@@ -68,3 +68,7 @@ last_reviewed: 2026-09-06
 코·목·기관지 증상은 가래와 콧물, 시간대·호흡·역류의 동반을 비교합니다. 원인별 안내에서 변증·처방과 표준치료 병행, 수면·활동 회복으로 이어갈 수 있습니다.
 
 [만성기침](../conditions/chronic-cough.md) · [후비루](../conditions/postnasal-drip.md) · [축농증·부비동염](../conditions/sinusitis.md) · [천식](../conditions/asthma.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+위음·폐음 부족과 건조의 전통적 맥락은 [입마름](../conditions/dry-mouth.md)·[노인 구강건조](../conditions/elderly-dry-mouth.md)·[혀 작열감](../conditions/tongue-burning.md) 안내에서 감별과 함께 비교할 수 있습니다. 이 문서의 기침 연구를 타액 분비나 구강작열감 치료 효과로 환산하지 않습니다.

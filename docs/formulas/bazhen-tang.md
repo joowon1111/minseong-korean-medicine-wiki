@@ -77,3 +77,7 @@ last_reviewed: 2026-09-06
 골절·수술 이후 기혈허와 식사·회복 상태를 살필 때 골유합과 실제 근력 회복을 따로 평가합니다.
 
 [골절 후 회복](../conditions/fracture-recovery.md) · [근감소증·노쇠](../conditions/frailty-sarcopenia.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+기혈부족과 피로를 동반하는 [눈피로](../conditions/eye-fatigue.md)는 시력·안구건조 평가와 함께 봅니다. 처방 비교는 전신 병증에 근거하며 시력 교정 효과를 뜻하지 않습니다.
