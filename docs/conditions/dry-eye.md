@@ -1,12 +1,12 @@
 ---
-title: 안구건조
-description: 안구건조의 환자 검색어, 감별, 위험신호와 한약·침·전침·약침 등 한의치료 연결을 정리합니다.
-tags: [질환증상, 안구건조, 환자검색]
+title: "안구건조증 — 눈물막·눈꺼풀 관리와 침·한약"
+description: "안구건조증 — 눈물막·눈꺼풀 관리와 침·한약의 원인 구분, 평가와 생활관리, 변증별 처방 비교 및 관련 연구를 연결합니다."
+tags: ["질환증상", "환자검색", "안구건조", "안구건조증", "눈이 뻑뻑해요", "안구건조증 한약"]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 
-# 안구건조
+# 안구건조증 — 눈물막·눈꺼풀 관리와 침·한약
 
 **Dry Eye**
 
@@ -42,6 +42,26 @@ last_reviewed: 2026-08-21
 
 치료는 증상명 하나만으로 정하지 않고 **발생 시점·유발상황·동반증상·기능저하·한의학적 병증**을 함께 평가합니다.
 
+## 눈물이 부족한 경우와 빨리 마르는 경우 {#tear-film-assessment}
+
+안구건조증은 눈물의 양뿐 아니라 눈물막의 유지와 증발에도 관계됩니다. 눈꺼풀·마이봄샘 상태, 눈물량과 눈물막이 깨지는 시간을 확인하면 관리 방향을 구분하는 데 도움이 됩니다. 화면을 오래 볼 때만 불편한지, 아침부터 계속되는지, 렌즈 착용에 달라지는지도 기록합니다.
+
+인공눈물, 필요한 처방 점안제, 눈꺼풀 관리와 생활환경 조절을 안과 소견에 맞춰 구성합니다. 화면 중간 휴식, 의식적인 깜빡임, 눈에 직접 닿는 바람 줄이기도 함께 실천합니다. [미국 국립안연구소 안구건조 안내](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/dry-eye)
+
+| 함께 나타나는 불편 | 연결할 안내 | 확인할 점 |
+|---|---|---|
+| 화면 작업 후 피로·흐림 | [눈피로](eye-fatigue.md) | 도수·작업시간·목 긴장 |
+| 입까지 마르고 관절통·피로가 겹침 | [구강건조증](dry-mouth.md) · [쇼그렌증후군](sjogrens-syndrome.md) | 눈과 입 건조의 원인 평가 |
+| 수면 부족과 눈밑떨림 | [눈꺼풀떨림](eye-twitching.md) | 카페인·수면과 지속 범위 |
+
+## 변증별 한약과 침 근거를 읽는 방법 {#dry-eye-integrative-care}
+
+한약은 눈물 검사 수치 하나로 정하지 않습니다. 건조와 허열·야간 불편이 겹치는 음허 맥락은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md), 피로·식욕저하·잠들기 어려움이 겹치는 심비양허 맥락은 [귀비탕](../formulas/guibi-tang.md)을 비교할 수 있습니다. [혈허 변증](../diagnostics/blood-deficiency.md)과 전신 증상을 확인하는 전통적 처방 비교이며, 해당 처방의 안구건조 치료 효과가 입증됐다는 뜻은 아닙니다.
+
+침과 인공눈물을 병행한 **16개 임상시험·1,383명**의 메타분석에서는 눈물막 파괴시간·Schirmer 검사·각막염색 지표의 개선이 보고됐지만, **환자보고 증상척도 OSDI의 군 간 차이는 유의하지 않았습니다(P=0.15)**. 검사 지표와 체감 증상을 나누어 해석해야 합니다. → [연구 결과와 비교군 상세](../authority/conditions/dry-eye-acupuncture-artificial-tears.md)
+
+치료 전후에는 건조감뿐 아니라 화면을 볼 수 있는 시간, 점안 빈도, 시야 불편과 안과 검사 결과를 함께 비교합니다. 눈 주변 침은 해부학적 안전성을 고려해 의료인이 시행하며, 눈을 직접 누르거나 자가 시술하지 않습니다.
+
 ## 기존 지식망과 연결
 
 - [증상·질환 한눈에 보기](index.md)
@@ -55,4 +75,4 @@ last_reviewed: 2026-08-21
 
 ### 침 치료 최신 임상근거
 
-- **Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial** — 2025 pilot RCT에서는 중등도–중증 안구건조증에서 피내침을 평가했습니다. OSDI와 Schirmer test 등 안구건조 관련 임상지표를 중심으로 살펴볼 수 있는 최근 침 임상연구입니다. DOI `10.3831/KPI.2025.28.4.301`
+- **Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial** — 2025 pilot RCT에서는 중등도–중증 안구건조증에서 피내침을 평가했습니다. OSDI와 Schirmer test 등 안구건조 관련 임상지표를 중심으로 살펴볼 수 있는 최근 침 임상연구입니다. [DOI: 10.3831/KPI.2025.28.4.301](https://doi.org/10.3831/KPI.2025.28.4.301)

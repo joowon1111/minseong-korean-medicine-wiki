@@ -50,3 +50,7 @@ tags: [변증, 임상한의학, 본초, 방제, 경혈]
 - [진단·변증 허브](../index.md)
 - [임상 핵심 본초·방제·경혈](../../clinical-core/index.md)
 - [현대 임상근거](../../pillar/clinical-evidence.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+국소 불편에 기혈부족을 적용하기 전 [눈피로](../../conditions/eye-fatigue.md)의 시력·건조와 [노인 입마름](../../conditions/elderly-dry-mouth.md)의 약물·식사 문제를 확인합니다.

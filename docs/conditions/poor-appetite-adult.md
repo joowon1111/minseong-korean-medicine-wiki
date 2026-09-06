@@ -78,6 +78,10 @@ last_reviewed: 2026-09-06
 
 [근감소증·노쇠](frailty-sarcopenia.md)
 
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+먹고 싶은 마음의 저하와 [맛이 달라지는 미각장애](taste-change.md), [입마름 때문에 씹기 힘든 상태](dry-mouth.md)를 구분하면 식사량 감소의 원인을 찾는 데 도움이 됩니다.
+
 ## 기존 지식망과 연결
 
 - [만성피로](chronic-fatigue.md)

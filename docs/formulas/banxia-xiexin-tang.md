@@ -102,3 +102,7 @@ description: 반하사심탕의 신개고강·한열평조 구조와 심하비·
 식사 후 불편과 실제 섭취량을 구분하고, 비위허약·식적·담습의 동반 양상을 비교합니다. 소아 적용은 성인 근거와 구분합니다.
 
 [복부팽만](../conditions/bloating.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+명치 답답함·구역 등 소화 병증을 동반하는 [입쓴맛](../conditions/bitter-taste.md)과 [구취](../conditions/bad-breath.md)는 구강·미각 원인을 함께 구분합니다. 이 처방을 모든 입쓴맛·구취에 적용하지 않습니다.

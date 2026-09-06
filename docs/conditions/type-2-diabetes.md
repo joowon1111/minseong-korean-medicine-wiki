@@ -45,3 +45,7 @@ last_reviewed: 2026-09-06
 - 지질과 혈압: [이상지질혈증](dyslipidemia.md) · [혈압 관리](high-blood-pressure-checkup.md)
 
 혈당뿐 아니라 정기적인 눈·발·신장 평가, 식사와 활동의 회복을 함께 챙깁니다. [NIDDK 당뇨병 관리](https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+갈증·입마름은 혈당과 수분 상태뿐 아니라 복용약·구강 문제도 확인합니다. [구강건조증](dry-mouth.md)에서 침 분비와 구강 관리, [혀 통증·작열감](tongue-burning.md)에서 국소 원인 감별을 이어서 볼 수 있습니다.

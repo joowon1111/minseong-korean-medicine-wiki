@@ -110,3 +110,7 @@ last_reviewed: 2026-09-06
 불면·두근거림·식욕저하를 동반한 허약에서 통증과 신체기능의 회복을 함께 살핍니다.
 
 [근감소증·노쇠](../conditions/frailty-sarcopenia.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+심비양허와 식사·수면·피로를 함께 평가하는 예는 [눈피로](../conditions/eye-fatigue.md)·[눈꺼풀떨림](../conditions/eye-twitching.md)·[반복 구내염](../conditions/mouth-ulcer.md)에서 볼 수 있습니다. 국소 질환과 동반 병증을 구분해 처방 필요성을 판단합니다.

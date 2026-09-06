@@ -84,3 +84,7 @@ last_reviewed: 2026-09-06
 전신통증과 수면 문제가 함께 있으면 잠드는 시간뿐 아니라 회복감·피로·낮 활동을 따로 비교합니다.
 
 [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+수면 부족과 함께 나타나는 [눈꺼풀떨림](../conditions/eye-twitching.md)은 수면·카페인과 경련 범위를 확인합니다. 이 연결은 동반 불면의 변증 비교이며 신경학적 경련의 진단·치료를 대신하지 않습니다.

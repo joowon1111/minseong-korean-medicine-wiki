@@ -189,3 +189,7 @@ last_reviewed: 2026-09-06
 넓은 부위의 통증과 비회복성 수면이 겹치는지, 실제 근력·보행이 저하되는지 구분해 피로의 동반 양상을 평가합니다.
 
 [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md) · [근감소증·노쇠](frailty-sarcopenia.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+눈·입 건조와 관절 불편이 겹친 피로는 [쇼그렌증후군](sjogrens-syndrome.md) 안내에서 평가 맥락을 확인할 수 있습니다. 화면 작업 후 피로가 중심이면 [눈피로](eye-fatigue.md)에서 시력·건조·수면을 구분합니다.

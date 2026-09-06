@@ -90,3 +90,7 @@ CRP·ESR, 백혈구, IgE, NK세포 활성도 등 한 가지 수치로 면역 전
 자가면역성 관절염은 감염에 취약하다는 의미의 면역저하와 구분합니다. 관절 부종과 질병 활성도·복용약을 함께 평가합니다.
 
 [류마티스관절염](../conditions/rheumatoid-arthritis.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+[쇼그렌증후군](../conditions/sjogrens-syndrome.md)은 눈·입 건조와 전신 증상을 함께 평가하는 자가면역질환입니다. 단순한 ‘면역 저하’와 구분하고 [안구건조증](../conditions/dry-eye.md)·[입마름](../conditions/dry-mouth.md)의 원인 평가와 국소 관리를 연결합니다.

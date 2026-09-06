@@ -64,6 +64,10 @@ last_reviewed: 2026-09-06
 
 [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
 
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+잠을 못 잔 뒤 [눈피로](eye-fatigue.md)·[눈밑떨림](eye-twitching.md)이 반복되는지 함께 기록할 수 있습니다. [밤에 입이 마르는 경우](dry-mouth.md)는 코막힘·구강호흡·복용약도 확인합니다.
+
 ## 기존 지식망과 연결
 
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)

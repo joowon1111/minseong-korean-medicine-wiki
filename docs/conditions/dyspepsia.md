@@ -200,3 +200,7 @@ last_reviewed: 2026-09-06
 함께 있는 배변·팽만·식사량의 변화에 따라 다음 안내를 선택합니다.
 
 [변비](constipation.md) · [급성·만성설사](diarrhea.md) · [아침·식후설사](morning-diarrhea.md) · [복부팽만](bloating.md) · [성인 식욕저하](poor-appetite-adult.md)
+
+## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
+
+소화 불편과 함께 [입냄새](bad-breath.md)·[입쓴맛](bitter-taste.md)·[미각 변화](taste-change.md)가 있다면 구강·약물 원인도 확인합니다. 각각의 증상 안내에서 다음 평가와 처방 비교로 이어갈 수 있습니다.
