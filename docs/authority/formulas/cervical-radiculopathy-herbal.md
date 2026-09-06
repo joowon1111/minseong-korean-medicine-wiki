@@ -13,3 +13,5 @@
 
 ## 연결
 경추 신경근병증·만성 목통증 현대근거 카드와 독활·강활·갈근·천궁·작약 등 경항부·근골격 본초 지식망을 연결합니다.
+
+→ [통증·근골격 한약 근거 허브 — 목·경추](musculoskeletal-herbal-evidence.md#neck) · [주요 통증 처방 비교](musculoskeletal-herbal-evidence.md#formula-guide)

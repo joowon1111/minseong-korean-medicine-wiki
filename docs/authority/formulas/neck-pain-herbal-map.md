@@ -12,3 +12,5 @@
 
 ## 연결
 목통증·경추 신경근병증 질환카드와 침·전침·경근·본초·방제 근거를 연결합니다.
+
+→ [통증·근골격 한약 근거 허브 — 목·경추](musculoskeletal-herbal-evidence.md#neck) · [주요 통증 처방 비교](musculoskeletal-herbal-evidence.md#formula-guide)

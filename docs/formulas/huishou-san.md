@@ -72,3 +72,5 @@ last_reviewed: 2026-09-04
 - [근골격 통증 처방 찾기](../herbal-integrated/formula-for-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+- [목·경추 통증의 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#neck)

@@ -67,3 +67,5 @@ last_reviewed: 2026-09-04
 - [요통](../conditions/low-back-pain.md)
 - [비증 처방 계열 비교](../formula-architecture/bi-syndrome-family.md)
 - [통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md)
+
+- [주요 통증 처방 비교와 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#formula-guide)

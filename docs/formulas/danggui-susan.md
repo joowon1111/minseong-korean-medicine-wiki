@@ -77,3 +77,5 @@ last_reviewed: 2026-09-04
 - [어혈](../diagnostics/patterns/blood-stasis.md)
 - [근골격 통증 처방 찾기](../herbal-integrated/formula-for-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
+
+- [염좌·타박 후 통증의 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#injury)

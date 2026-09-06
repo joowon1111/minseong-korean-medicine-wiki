@@ -37,3 +37,5 @@ last_reviewed: '2026-09-05'
 
 ## 연결
 무릎 골관절염 질환카드와 독활기생탕, 두충·우슬·상기생·독활 등 본초 및 침구 근거를 통합합니다.
+
+→ [통증·근골격 한약 근거 허브 — 무릎 골관절염](musculoskeletal-herbal-evidence.md#knee) · [주요 통증 처방 비교](musculoskeletal-herbal-evidence.md#formula-guide)
