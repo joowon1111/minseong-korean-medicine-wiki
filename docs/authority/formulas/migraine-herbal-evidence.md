@@ -13,3 +13,5 @@
 
 ## 연결
 편두통 질환별 현대근거 카드와 천궁·백지·당귀·작약 등 두통 관련 본초, 풍지 GB20·태양 EX-HN5·합곡 LI4·태충 LR3 경혈망을 연결합니다.
+
+→ [통증·근골격 한약 근거 허브 — 편두통·두통](musculoskeletal-herbal-evidence.md#headache) · [주요 통증 처방 비교](musculoskeletal-herbal-evidence.md#formula-guide)

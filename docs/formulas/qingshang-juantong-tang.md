@@ -78,3 +78,5 @@ last_reviewed: 2026-09-04
 - [편두통](../conditions/migraine.md)
 - [통증 통합 지도](../symptom-integrated/pain.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+- [편두통·두통 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#headache)

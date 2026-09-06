@@ -3,7 +3,7 @@ title: 교통사고 후유증
 description: 교통사고 후유증을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
 tags: [질환증상, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 교통사고 후유증
 
@@ -36,6 +36,8 @@ last_reviewed: 2026-08-21
 - 점점 심해지는 두통
 
 ## 한의치료 연결
+
+→ [외상 후 통증의 한약 연구와 처방 구분](../authority/formulas/musculoskeletal-herbal-evidence.md#injury)
 
 사고 직후에는 외상·신경학적 위험신호를 먼저 확인합니다. 이후 목·허리·두통·어지럼·수면 등을 함께 보고 한약·침·전침·약침·부항 등을 상태에 맞게 연결합니다.
 

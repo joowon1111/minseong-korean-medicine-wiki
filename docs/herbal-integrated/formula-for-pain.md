@@ -3,7 +3,7 @@ title: 근골격 통증 한약 처방 찾기
 description: 근골격 통증을 외상·어혈·한습·풍한습·근경련·허손으로 나누어 다양한 한약 처방군과 현대 천연물 유래 의약품 연구까지 연결합니다.
 tags: [한약, 방제, 처방, 환자검색, 맞춤한약, 통증, 천연물의약품]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 근골격 통증 한약 처방 찾기
 
@@ -22,12 +22,15 @@ last_reviewed: '2026-09-05'
 
 | 통증의 양상 | 한의학적 치료축 | 대표 처방군 |
 |---|---|---|
-| 삐거나 부딪힌 뒤 멍·고정통이 남음 | 활혈거어·이기지통 | [회수산](../formulas/huishou-san.md) · [당귀수산](../formulas/danggui-susan.md) |
+| 갑자기 목이 굳고 회전이 제한되며 견배부가 당김 | 순기소풍·산한서근 | [회수산](../formulas/huishou-san.md) |
+| 삐거나 부딪힌 뒤 멍·고정통이 남음 | 활혈거어·이기지통 | [당귀수산](../formulas/danggui-susan.md) |
 | 차고 습할 때 심하고 몸이 무거우며 여러 부위가 뻣뻣함 | 산한조습·이기활혈 | [오적산](../formulas/wuji-san.md) |
 | 감기·외감 뒤 오한·몸살과 관절통이 함께 나타남 | 해표·거풍습 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) 등 |
 | 오래된 관절·근육통과 경락의 뻣뻣함 | 활혈·거풍습·통락 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) 등 |
-| 쥐가 나거나 근육이 당기고 경련이 두드러짐 | 완급지통·서근 | 작약감초탕 등 |
+| 쥐가 나거나 근육이 당기고 경련이 두드러짐 | 완급지통·서근 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) 등 |
 | 만성 비증과 함께 냉감·하지 무력·전신 허약이 뚜렷함 | 거풍습·보익 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) 등 |
+
+사람 대상 연구를 함께 보려면 [통증·근골격 한약 현대 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md)에서 요통·목·무릎·염좌·경련별 연구와 실제 평가 지표를 확인할 수 있습니다.
 
 ## 처방을 고르는 관점
 

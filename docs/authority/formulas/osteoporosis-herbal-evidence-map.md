@@ -14,3 +14,5 @@
 
 ## 한의학 지식망
 `폐경·노화 → 신허·간신부족 → 보신·강근골 → 처방·본초 → BMD·통증·골대사`
+
+→ [통증·근골격 한약 근거 허브 — 골다공증·근골격 회복](musculoskeletal-herbal-evidence.md#bone-health) · [주요 통증 처방 비교](musculoskeletal-herbal-evidence.md#formula-guide)

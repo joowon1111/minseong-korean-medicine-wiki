@@ -73,3 +73,5 @@ last_reviewed: 2026-09-04
 - [감기·기침 처방 찾기](../herbal-integrated/formula-for-cold-cough.md)
 - [근골격 통증 처방 찾기](../herbal-integrated/formula-for-pain.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+- [주요 통증 처방 비교와 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#formula-guide)

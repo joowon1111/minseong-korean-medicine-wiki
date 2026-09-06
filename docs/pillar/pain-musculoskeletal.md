@@ -3,7 +3,7 @@ title: 통증·근골격 한의학 허브
 description: 허리·등·옆구리·목·어깨·턱·손목·무릎·발목통증을 감별, 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 통증, 근골격, 한의학지식망]
 status: 검토완료
-last_reviewed: 2026-08-29
+last_reviewed: 2026-09-06
 ---
 
 # 통증·근골격 한의학 허브
@@ -41,14 +41,17 @@ last_reviewed: 2026-08-29
 
 | 통증의 병증·경과 | 살펴볼 수 있는 처방군 |
 |---|---|
-| 염좌·타박 뒤 고정통·멍·어혈 | [회수산](../formulas/huishou-san.md) · [당귀수산](../formulas/danggui-susan.md) |
+| 급성 목결림·회전 제한·견배부 긴장 | [회수산](../formulas/huishou-san.md) |
+| 염좌·타박 뒤 고정통·멍·어혈 | [당귀수산](../formulas/danggui-susan.md) |
 | 냉감·한습과 여러 부위의 묵직함 | [오적산](../formulas/wuji-san.md) |
-| 풍한습·외감과 전신의 몸살성 통증 | 구미강활탕 등 해표·거습 처방군 |
+| 풍한습·외감과 전신의 몸살성 통증 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) 등 해표·거습 처방군 |
 | 오래된 통증과 경락의 뻣뻣함 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) 등 활혈·거풍습 처방군 |
-| 근육 긴장·쥐·경련이 두드러짐 | 작약감초탕 등 완급·서근 처방군 |
+| 근육 긴장·쥐·경련이 두드러짐 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) 등 완급·서근 처방군 |
 | 만성 비증에 허약·냉감·하지 무력이 동반됨 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) 등 거풍습·보익 처방군 |
 
 같은 허리·어깨·무릎통증도 발병 시기와 원인, 냉온 반응, 부종·열감, 근력과 전신상태에 따라 처방 방향이 달라집니다. → [근골격 통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md)
+
+한약의 사람 대상 연구는 [통증·근골격 한약 현대 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md)에서 부위별로 확인할 수 있습니다. 요통·경추 신경근병증·무릎관절염·염좌·근육경련과 처방별 자료를 연결합니다.
 
 ## 침구치료와 임상근거
 

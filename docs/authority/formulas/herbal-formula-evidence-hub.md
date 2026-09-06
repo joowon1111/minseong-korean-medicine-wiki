@@ -3,7 +3,7 @@ title: 한약·처방 현대 임상근거 허브
 description: 소화기·수면·통증·호흡기·여성건강·보익·회복·심혈관·대사·비뇨·신경 영역의 주요 한약 처방을 질환, 변증, 처방 구성, 임상결과와 PMID·DOI로 연결합니다.
 tags: [한약, 방제, 임상근거, RCT, 메타분석, PMID, DOI]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 한약·처방 현대 임상근거 허브
 
@@ -38,7 +38,7 @@ last_reviewed: '2026-09-05'
 |---|---|---|
 | 소화기 | [소화기 한약 현대 임상근거](digestive-herbal-evidence.md) | 기능성소화불량·IBS·기능성변비 |
 | 수면·정서 | [수면·정서 한약 현대 임상근거](sleep-emotion-herbal-evidence.md) | 불면·귀비탕·산조인탕·정서 관련 처방 |
-| 통증·근골격 | [통증·근골격 한약 현대 임상근거](musculoskeletal-herbal-evidence.md) | 목통증·무릎 골관절염·편두통·골다공증 |
+| 통증·근골격 | [통증·근골격 한약 현대 임상근거](musculoskeletal-herbal-evidence.md) | 요통·목·어깨·무릎·외상 후 통증·근육경련·두통·골다공증 |
 | 심혈관·대사 | [심혈관·대사 한약 현대 임상근거](cardiometabolic-herbal-evidence.md) | 고혈압·당뇨병·신경 및 신장 합병증 |
 | 비뇨·남성건강 | [비뇨·남성건강 한약 현대 임상근거](urologic-herbal-evidence.md) | 전립선·골반통·성기능·요실금 |
 | 신경·뇌졸중 | [신경·뇌졸중 한약 현대 임상근거](neurologic-herbal-evidence.md) | 뇌졸중 후 정서·인지·두통·말초신경 |
