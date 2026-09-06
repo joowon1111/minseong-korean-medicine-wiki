@@ -44,4 +44,4 @@ tags: [숙지황, 보혈, 사물탕, 십전대보탕, 보약]
 
 ## 회복·눈피로와 지황 배합
 
-[팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md)에서는 보기·보혈의 결합을, [기국지황환](../formulas/qiju-dihuang-wan.md)에서는 지황 계열과 구기자·국화의 배합을 비교합니다. 실제 지황의 포제·구성을 확인하면서 [육체피로](../herbal-integrated/herbs-for-fatigue.md)와 [눈피로](../herbal-integrated/herbs-for-eye-fatigue.md)의 변증 차이를 읽습니다.
+[팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md)에서는 보기·보혈의 결합을, [기국지황환](../formulas/qiju-dihuang-wan.md)에서는 지황 계열과 구기자·국화의 배합을 비교합니다. 실제 지황의 포제·구성을 확인하면서 [육체피로](../herbal-integrated/herbs.md#_1)와 [눈피로](../conditions/eye-fatigue.md#eye-fatigue-herbal-network)의 변증 차이를 읽습니다.

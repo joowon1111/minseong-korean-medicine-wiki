@@ -30,7 +30,7 @@ paeoniflorin을 포함한 monoterpene glycosides가 대표적으로 연구되며
 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) | 혈허·어혈·풍습이 겹친 통증의 복합 배합 |
 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) | 풍한습비와 허약을 함께 보는 보혈 배합 |
 
-같은 백작약이 들어가도 보혈·보익과 경련성 통증의 치료 목표는 다릅니다. [피로 본초](../herbal-integrated/herbs-for-fatigue.md)·[통증 본초](../herbal-integrated/herbs-for-pain.md)·[눈피로 본초](../herbal-integrated/herbs-for-eye-fatigue.md)를 비교하면 배합의 차이를 볼 수 있습니다.
+같은 백작약이 들어가도 보혈·보익과 경련성 통증의 치료 목표는 다릅니다. [피로 본초](../herbal-integrated/herbs.md#_1)·[통증 본초](../herbal-integrated/formula-for-pain.md)·[눈피로 본초](../conditions/eye-fatigue.md#eye-fatigue-herbal-network)를 비교하면 배합의 차이를 볼 수 있습니다.
 
 ## 동의보감 연결
 → [《동의보감》 탕액편의 백작약](../classics/donguibogam/tangyeok/white-peony.md)

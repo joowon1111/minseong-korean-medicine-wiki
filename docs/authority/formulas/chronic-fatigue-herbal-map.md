@@ -27,12 +27,12 @@ last_reviewed: 2026-09-06
 
 ## 한의학 지식망
 
-[만성피로](../../conditions/chronic-fatigue.md)에서 지속 기간과 원인을 평가하고, [기허](../../diagnostics/qi-deficiency.md)·[혈허](../../diagnostics/blood-deficiency.md) 등 변증과 소화·수면·냉열을 연결합니다. [주요 피로 본초와 탕제](../../herbal-integrated/herbs-for-fatigue.md)에서 인삼·황기·당귀·백작약·숙지황의 배합을 비교합니다.
+[만성피로](../../conditions/chronic-fatigue.md)에서 지속 기간과 원인을 평가하고, [기허](../../diagnostics/qi-deficiency.md)·[혈허](../../diagnostics/blood-deficiency.md) 등 변증과 소화·수면·냉열을 연결합니다. [주요 피로 본초와 탕제](../../herbal-integrated/herbs.md#_1)에서 인삼·황기·당귀·백작약·숙지황의 배합을 비교합니다.
 
 ## 연결
 
 - [육체피로·운동 후 회복](../../conditions/poor-recovery-after-exercise.md): 활동 후 피로와 회복시간.
 - [전신근육통](../../conditions/whole-body-ache.md): 피로에 통증이 겹칠 때의 감별.
-- [눈피로 본초·방제](../../herbal-integrated/herbs-for-eye-fatigue.md): 눈의 건조·혈허·수면 피로 구분.
+- [눈피로 본초·방제](../../conditions/eye-fatigue.md#eye-fatigue-herbal-network): 눈의 건조·혈허·수면 피로 구분.
 
 재평가에서는 같은 피로 척도와 함께 일상 활동·수면·소화·이상반응을 기록합니다. 좋아진 지표와 변하지 않은 지표를 모두 남겨 다음 처방과 치료 계획에 반영합니다.

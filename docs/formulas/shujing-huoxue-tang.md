@@ -96,4 +96,4 @@ last_reviewed: 2026-09-06
 
 ## 전신근육통·관절통에서 본초 배합 읽기
 
-[당귀](../herbs/angelica.md)·[백작약](../herbs/white-peony.md)·[우슬](../herbs/achyranthes.md)을 양혈·활혈·요슬부 배합으로 읽고, [통증 본초·처방 안내](../herbal-integrated/herbs-for-pain.md)에서 쌍화탕의 기혈 회복, 오적산의 한습·담습, 독활기생탕의 허약을 동반한 풍한습비와 비교합니다. 증상별 출발점은 [전신근육통](../conditions/whole-body-ache.md)입니다.
+[당귀](../herbs/angelica.md)·[백작약](../herbs/white-peony.md)·[우슬](../herbs/achyranthes.md)을 양혈·활혈·요슬부 배합으로 읽고, [통증 본초·처방 안내](../herbal-integrated/formula-for-pain.md)에서 쌍화탕의 기혈 회복, 오적산의 한습·담습, 독활기생탕의 허약을 동반한 풍한습비와 비교합니다. 증상별 출발점은 [전신근육통](../conditions/whole-body-ache.md)입니다.

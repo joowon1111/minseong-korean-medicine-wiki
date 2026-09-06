@@ -50,4 +50,4 @@ last_reviewed: 2026-09-06
 
 ## 쌍화탕·팔물탕과 육체피로 비교
 
-[팔물탕](bazhen-tang.md)의 보기·보혈에 황기·육계를 더한 구성을 중심으로 기혈부족과 냉감·허약을 살핍니다. [쌍화탕](ssanghwa-tang.md)의 과로·회복 맥락과 [보중익기탕](buzhong-yiqi-tang.md)의 보기·비위 맥락을 [육체피로 처방 안내](../herbal-integrated/herbs-for-fatigue.md)에서 비교할 수 있습니다.
+[팔물탕](bazhen-tang.md)의 보기·보혈에 황기·육계를 더한 구성을 중심으로 기혈부족과 냉감·허약을 살핍니다. [쌍화탕](ssanghwa-tang.md)의 과로·회복 맥락과 [보중익기탕](buzhong-yiqi-tang.md)의 보기·비위 맥락을 [육체피로 처방 안내](../herbal-integrated/herbs.md#_1)에서 비교할 수 있습니다.

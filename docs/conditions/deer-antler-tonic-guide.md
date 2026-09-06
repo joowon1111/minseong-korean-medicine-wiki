@@ -63,4 +63,4 @@ last_reviewed: 2026-09-05
 
 - [녹용 약재 정보와 연구 출처](../herbs/cervi-parvum-cornu.md)
 - [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
-- [피로·기력회복 본초 찾기](../herbal-integrated/herbs-for-fatigue.md)
+- [피로·기력회복 본초 찾기](../herbal-integrated/herbs.md#_1)

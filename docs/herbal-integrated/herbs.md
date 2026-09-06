@@ -17,8 +17,8 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|
-| [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
-| [당귀](../herbs/angelica.md)·[숙지황](../herbs/rehmannia-preparata.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈 | [쌍화탕](../formulas/ssanghwa-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) · [온경탕](../formulas/wenjing-tang.md) |
+| [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비; 식욕·소화와 함께 보는 기력저하 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| [당귀](../herbs/angelica.md)·[숙지황](../herbs/rehmannia-preparata.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈; 피로·건조·근육 당김을 함께 보는 배합 | [사물탕](../formulas/siwu-tang.md) · [쌍화탕](../formulas/ssanghwa-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
 | [맥문동](../herbs/ophiopogon.md)·[천문동](../herbs/ophiopogon-extra.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | [두충](../herbs/eucommia.md)·[우슬](../herbs/achyranthes.md)·[속단](../herbs/dipsacus.md) | 보간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [녹용](../herbs/cervi-parvum-cornu.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md) | 보익간신·정혈·비신을 나누어 봄 | [공진단](../formulas/gongjin-dan.md) · [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
@@ -26,7 +26,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
 | [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | [연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md)·[산약](../herbs/dioscorea.md) | 보비·건비와 지사 배합 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
-| [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/rehmannia-preparata.md) | 자보간신·정혈 보익 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md)  · [기국지황환](../formulas/qiju-dihuang-wan.md) |
+| [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/rehmannia-preparata.md)·[국화](../herbs/chrysanthemum.md) | 자보간신·정혈과 명목 배합; 건조·허열의 동반 여부를 구분 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) · [기국지황환](../formulas/qiju-dihuang-wan.md) |
 | [토사자](../herbs/cuscuta-seed.md)·[구기자](../herbs/cornus-extra.md) | 보신익정·정혈과 수렴 배합 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
 | [육종용](../herbs/cistanche.md)·[당귀](../herbs/angelica.md) | 익정혈과 윤장통변 | [제천전](../formulas/jichuan-jian.md) |
 
@@ -83,6 +83,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [현호색](../herbs/corydalis.md)·[향부자](../herbs/cyperus.md) | 활혈행기·지통 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) · [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
 | [적작약](../herbs/red-peony.md)·[도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md) | 산어·지통 | [당귀수산](../formulas/danggui-susan.md) |
 | [익모초](../herbs/leonurus.md) | 활혈조경·이수 | [천마구등음](../formulas/tianma-gouteng-yin.md) · [익모초 배합과 확인점](../herbs/leonurus.md) |
+| [당귀](../herbs/angelica.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md)·[우슬](../herbs/achyranthes.md) | 양혈·활혈과 팔다리 통증의 배합 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) · [당귀수산](../formulas/danggui-susan.md) |
 
 ## 이수·삼습 {#_6}
 
@@ -116,12 +117,12 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | 본초군 | 배합에서 보는 핵심 | 대표 처방 |
 |---|---|---|
 | [계지](../herbs/cinnamon-twig.md)·[갈근](../herbs/pueraria.md)·[마황](../herbs/ephedra.md) | 땀·오한·항배강을 구분하는 해표·서근 | [계지탕](../formulas/guizhi-tang.md) · [갈근탕](../formulas/gegen-tang.md) |
-| [강활](../herbs/notopterygium.md)·[방풍](../herbs/saposhnikovia.md)·[창출](../herbs/atractylodes-lancea.md) | 외감 풍한습과 몸살·무거움 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) |
+| [강활](../herbs/notopterygium.md)·[독활](../herbs/angelica-pubescens.md)·[방풍](../herbs/saposhnikovia.md)·[창출](../herbs/atractylodes-lancea.md) | 풍한습과 몸살·무거움·요슬부 통증을 배합별로 구분 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) · [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [형개](../herbs/schizonepeta.md)·[연교](../herbs/forsythia.md)·[길경](../herbs/platycodon.md) | 표·인후·호흡기 배합 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
 | [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인 | [은교산](../formulas/yinqiao-san.md) |
 | [백지](../herbs/angelica-dahurica.md)·[신이](../herbs/magnolia-bud.md) | 거풍·통규와 코·두면부 배합 | [창이자산](../formulas/cangerzi-san.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | [만형자](../herbs/vitex-fruit.md) | 소산풍열·청리두목 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
-| [상엽](../herbs/mulberry-leaf.md)·[박하](../herbs/mint.md) | 풍열과 기침을 함께 보는 해표 배합 | [상국음](../formulas/sangju-yin.md) |
+| [상엽](../herbs/mulberry-leaf.md)·[국화](../herbs/chrysanthemum.md)·[박하](../herbs/mint.md) | 풍열과 기침·두면부 불편을 함께 보는 해표 배합 | [상국음](../formulas/sangju-yin.md) |
 
 ## 온리·산한 {#warming-herbs}
 
@@ -145,9 +146,3 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 ### 배합을 돕는 본초 {#harmonizing-herbs}
 
 [감초](../herbs/licorice.md)·[생강](../herbs/fresh-ginger.md)·[대조](../herbs/jujube-fruit.md)는 주요 본초의 배합을 살필 때 함께 참고합니다. 감초의 완급·조화, 생강의 온중·지구, 대조의 보중·조화 역할은 각 처방의 구성 안에서 확인할 수 있습니다.
-
-## 피로·눈피로·통증에서 효능별 본초 찾아보기 {#fatigue-eye-pain-herbs}
-
-- [육체피로·기력회복](herbs-for-fatigue.md): 인삼·황기와 당귀·백작약·숙지황의 보기·보혈 배합.
-- [눈의 피로](herbs-for-eye-fatigue.md): 구기자·국화의 명목 배합과 혈허·음허의 구분.
-- [통증·관절통·근육통](herbs-for-pain.md): 양혈·활혈·거풍습·보간신강근골과 주요 방제.

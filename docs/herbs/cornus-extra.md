@@ -70,4 +70,4 @@ description: 구기자(枸杞子) — 본초의 성미·귀경·효능·병증·
 
 ## 구기자와 눈피로의 배합
 
-[기국지황환·기국지황탕](../formulas/qiju-dihuang-wan.md)은 육미지황 계열에 구기자·국화를 더한 구조입니다. [국화](chrysanthemum.md)의 명목·풍열 관련 역할과 구기자의 자보간신 역할을 비교합니다. [눈피로의 주요 본초와 처방](../herbal-integrated/herbs-for-eye-fatigue.md)에서는 건조·혈허·수면 피로를 구분해 볼 수 있습니다.
+[기국지황환·기국지황탕](../formulas/qiju-dihuang-wan.md)은 육미지황 계열에 구기자·국화를 더한 구조입니다. [국화](chrysanthemum.md)의 명목·풍열 관련 역할과 구기자의 자보간신 역할을 비교합니다. [눈피로의 주요 본초와 처방](../conditions/eye-fatigue.md#eye-fatigue-herbal-network)에서는 건조·혈허·수면 피로를 구분해 볼 수 있습니다.

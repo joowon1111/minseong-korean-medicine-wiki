@@ -46,7 +46,7 @@ last_reviewed: 2026-09-06
 |---|---|---|
 | 운동·작업 뒤 여러 근육이 쑤심 | 부하 변화, 수면, 근력·회복 | [육체피로와 회복지연](poor-recovery-after-exercise.md) |
 | 근육이 갑자기 단단해지고 당김 | 경련 빈도, 수분·복용약·신경 증상 | [근육경련](muscle-cramps.md) |
-| 특정 관절이 붓고 뜨겁거나 움직이기 어려움 | 관절의 염증·손상과 원인 진단 | [관절통·근육통 본초 안내](../herbal-integrated/herbs-for-pain.md) |
+| 특정 관절이 붓고 뜨겁거나 움직이기 어려움 | 관절의 염증·손상과 원인 진단 | [관절통·근육통 본초 안내](../herbal-integrated/formula-for-pain.md) |
 | 목·어깨 등 특정 동작에서 반복되는 통증 | 근육 긴장, 유발점, 자세·기능 | [근육 긴장](muscle-tightness.md) |
 
 ## 피로와 통증이 겹칠 때의 한약 비교 {#body-ache-herbal-care}

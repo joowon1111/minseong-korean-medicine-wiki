@@ -52,4 +52,4 @@ last_reviewed: 2026-09-06
 
 ## 피로·근육통·눈피로에서 배합 비교
 
-당귀의 양혈·활혈 배합은 [쌍화탕](../formulas/ssanghwa-tang.md)의 과로·허약, [소경활혈탕](../formulas/shujing-huoxue-tang.md)의 통증, [사물탕](../formulas/siwu-tang.md)의 혈허를 비교하는 연결입니다. [피로 본초](../herbal-integrated/herbs-for-fatigue.md)·[통증 본초](../herbal-integrated/herbs-for-pain.md)·[눈피로 본초](../herbal-integrated/herbs-for-eye-fatigue.md)에서 동반 양상에 따른 역할을 살펴봅니다.
+당귀의 양혈·활혈 배합은 [쌍화탕](../formulas/ssanghwa-tang.md)의 과로·허약, [소경활혈탕](../formulas/shujing-huoxue-tang.md)의 통증, [사물탕](../formulas/siwu-tang.md)의 혈허를 비교하는 연결입니다. [피로 본초](../herbal-integrated/herbs.md#_1)·[통증 본초](../herbal-integrated/formula-for-pain.md)·[눈피로 본초](../conditions/eye-fatigue.md#eye-fatigue-herbal-network)에서 동반 양상에 따른 역할을 살펴봅니다.
