@@ -3,7 +3,7 @@ title: 당귀보혈탕(當歸補血湯)
 description: 황기와 당귀의 간결한 배합으로 보기생혈 원리를 보여주는 대표 처방의 출전·구조·임상 감별을 정리합니다.
 tags: [방제학, 당귀보혈탕, 보기생혈, 기혈]
 status: 검토완료
-last_reviewed: '2026-09-04'
+last_reviewed: 2026-09-06
 ---
 # 당귀보혈탕(當歸補血湯)
 
@@ -61,3 +61,9 @@ last_reviewed: '2026-09-04'
 - [보익·피로·회복 한의학 허브](../pillar/tonic-recovery.md)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+혈허·기혈허의 증상 조합과 빈혈·철결핍 검사를 구분합니다. 출혈 원인과 필요한 영양 치료를 함께 확인합니다.
+
+[빈혈·철결핍성빈혈](../conditions/anemia-fatigue.md) · [헤모글로빈·페리틴](../conditions/anemia-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md)

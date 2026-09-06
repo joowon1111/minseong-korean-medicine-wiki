@@ -55,6 +55,12 @@ last_reviewed: 2026-09-06
 
 규칙적인 수면과 식사, 단백질 섭취, 예방접종, 활동과 근력 유지가 기반입니다. 체중감량 중이라면 지나친 절식으로 회복이 떨어지지 않는지도 확인합니다. [건강한 다이어트](healthy-weight-management.md)
 
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+회복을 평가할 때 피로·식사·수면뿐 아니라 활동 다음날의 악화와 실제 생활기능을 함께 기록합니다.
+
+[정상 검사 뒤 지속 피로](normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](post-viral-fatigue.md)
+
 ## 기존 지식망과 연결
 
 [면역·알레르기·만성염증](../immune-allergy/index.md) · [만성피로](chronic-fatigue.md) · [소화불량](dyspepsia.md) · [보익·회복](../herbal-integrated/tonic-recovery.md) · [청열해독과 회복의 차이](../herbal-integrated/detoxification.md)

@@ -232,3 +232,9 @@ HRV는 자율조절 상태를 참고하고 경과를 추적하는 도구입니�
 | 긴장할 때 두근거리거나 가슴이 답답함 | [두근거림과 자율신경](palpitations.md) |
 | 스트레스 뒤 더부룩함·트림·오심 | [스트레스성 소화불량](stress-digestion.md) |
 | 수면·식사·활동 후 회복이 계속 부족함 | [피로와 회복저하](fatigue-recovery.md) |
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+두근거림·피로·배변·체중 변화에 내분비 원인이 동반되는지 검사와 경과를 함께 살핍니다.
+
+[갑상선기능저하증](../conditions/hypothyroidism.md) · [갑상선기능항진증](../conditions/hyperthyroidism.md) · [갑상선 검사](../conditions/thyroid-lab.md) · [제2형 당뇨병](../conditions/type-2-diabetes.md)

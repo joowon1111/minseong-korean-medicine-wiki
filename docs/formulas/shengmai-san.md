@@ -66,3 +66,9 @@ last_reviewed: 2026-09-06
 기음부족의 피로·땀·갈증·건조를 표허·기혈양허와 비교합니다. 이를 감염 예방이나 면역검사 수치 개선과 동일한 목표로 보지 않습니다.
 
 [면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+회복을 평가할 때 피로·식사·수면뿐 아니라 활동 다음날의 악화와 실제 생활기능을 함께 기록합니다.
+
+[정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md)

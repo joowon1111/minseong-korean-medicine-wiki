@@ -2,7 +2,7 @@
 title: 두근거림·심계
 description: 두근거림·심계을 위험신호·감별·변증·본초·방제·경맥·경혈·현대 연구로 연결합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 두근거림·심계
 
@@ -27,3 +27,9 @@ last_reviewed: 2026-08-22
 
 → [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
 → [현대 임상근거](../pillar/clinical-evidence.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+두근거림·피로·배변·체중 변화에 내분비 원인이 동반되는지 검사와 경과를 함께 살핍니다.
+
+[갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [갑상선 검사](thyroid-lab.md) · [제2형 당뇨병](type-2-diabetes.md)

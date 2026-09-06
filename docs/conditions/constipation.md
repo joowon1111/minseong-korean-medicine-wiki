@@ -82,3 +82,9 @@ Liu et al., *Annals of Internal Medicine* 2016 다기관 RCT는 중증 기능성
 ## 연령과 허약 양상에 따라 이어서 보기 {#age-pattern-routes}
 
 아이의 배변 참기·배변통은 [소아 변비](child-constipation.md)에서, 성인의 기허·허비는 [보중익기탕](../formulas/buzhong-yiqi-tang.md)과 [제천전](../formulas/jichuan-jian.md)에서 비교합니다. 같은 처방을 나이만 바꾸어 적용하지 않으며, [기능성변비의 전침 연구](../authority/conditions/functional-constipation.md)는 해당 연구의 대상과 치료 구성을 확인해 읽습니다.
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+두근거림·피로·배변·체중 변화에 내분비 원인이 동반되는지 검사와 경과를 함께 살핍니다.
+
+[갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [갑상선 검사](thyroid-lab.md) · [제2형 당뇨병](type-2-diabetes.md)

@@ -3,7 +3,7 @@ title: 혈허·기혈양허 → 보혈·기혈쌍보
 description: 혈허와 기혈양허의 치법을 당귀·숙지황·사물탕·십전대보탕과 연결합니다.
 tags: [변증, 치법, 임상지식망]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 혈허·기혈양허 → 보혈·기혈쌍보
 
@@ -40,3 +40,9 @@ last_reviewed: '2026-09-05'
 위 연결은 전통 치법과 배합의 비교입니다. 처방의 구체적 구성·감별·연구 출처는 각 대표 문서에서 확인합니다.
 
 → [변증·치법 전체 비교](index.md) · [진료 안전·감별](../clinical-safety/index.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+혈허·기혈허의 증상 조합과 빈혈·철결핍 검사를 구분합니다. 출혈 원인과 필요한 영양 치료를 함께 확인합니다.
+
+[빈혈·철결핍성빈혈](../conditions/anemia-fatigue.md) · [헤모글로빈·페리틴](../conditions/anemia-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md)

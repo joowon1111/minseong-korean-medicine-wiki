@@ -3,7 +3,7 @@ title: 당뇨가 있는데 미세알부민뇨·단백뇨가 나왔어요 — 당
 description: 당뇨 환자의 uACR·단백뇨와 eGFR을 해석하고 당뇨병성 콩팥병의 진행을 늦추는 표준치료·한의치료·생활관리를 안내합니다.
 tags: [당뇨병성콩팥병, 당뇨신장병, 미세알부민뇨, 단백뇨, uACR, eGFR, SGLT2억제제, 한약, 침]
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 
 # 당뇨가 있는데 미세알부민뇨·단백뇨가 나왔어요
@@ -207,5 +207,11 @@ uACR 300mg/g 이상, eGFR 30 미만, 빠른 기능저하, 단백뇨와 혈뇨 �
     이 문서는 일반적인 건강정보이며 개인의 진단·처방을 대신하지 않습니다. 당뇨병성 콩팥병은 심혈관 위험과 연결되므로 내분비·신장 진료와 한의치료를 함께 계획하세요.
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MedicalWebPage","name":"당뇨병성 콩팥병·미세알부민뇨 초기관리","url":"https://wiki.minseong.co.kr/conditions/diabetic-kidney-disease/","inLanguage":"ko-KR","dateModified":"2026-08-28","about":{"@type":"MedicalCondition","name":"당뇨병성 콩팥병"}}
+{"@context":"https://schema.org","@type":"MedicalWebPage","name":"당뇨병성 콩팥병·미세알부민뇨 초기관리","url":"https://wiki.minseong.co.kr/conditions/diabetic-kidney-disease/","inLanguage":"ko-KR","dateModified":"2026-09-06","about":{"@type":"MedicalCondition","name":"당뇨병성 콩팥병"}}
 </script>
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+당뇨전단계와 이미 진단된 당뇨병을 구분하고, 혈당·지질·체중의 치료 목표를 개인의 위험도와 함께 확인합니다.
+
+[제2형 당뇨병](type-2-diabetes.md) · [이상지질혈증](dyslipidemia.md)

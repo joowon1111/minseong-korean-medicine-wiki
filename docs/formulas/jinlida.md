@@ -4,7 +4,7 @@ description: Jinlida의 17종 복합제제 구성과 JAMA Internal Medicine FOCU
 tags: [진리다, Jinlida, 당뇨병전단계, 당뇨병, 혈당, 대사, 임상근거]
 aliases: [진리다, 津力達, 津力达, Jinlida, Jinlida Granules, JLD, FOCUS]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 진리다 — 당뇨병 진행 예방과 혈당 관리 임상연구
 
@@ -63,3 +63,9 @@ last_reviewed: '2026-09-05'
 ## 함께 보기
 
 [주요 처방 연구 허브](../authority/formulas/herbal-formula-evidence-hub.md) · [방제 목록](index.md) · [면역·염증·질병·노화](../immune-allergy/inflammation-pain.md)
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+당뇨전단계와 이미 진단된 당뇨병을 구분하고, 혈당·지질·체중의 치료 목표를 개인의 위험도와 함께 확인합니다.
+
+[제2형 당뇨병](../conditions/type-2-diabetes.md) · [당뇨전단계·혈당 검사](../conditions/prediabetes.md) · [이상지질혈증](../conditions/dyslipidemia.md)

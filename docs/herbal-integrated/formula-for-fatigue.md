@@ -3,7 +3,7 @@ title: 피로·기력저하에 쓰는 한약 처방 찾기
 description: 피로보약·기력회복 한약의 대표 처방을 병증별로 비교하고 피로 원인·복용 판단·본초 자료와 연결합니다.
 tags: [한약, 방제, 처방, 환자검색, 맞춤한약]
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 # 피로·기력저하에 쓰는 한약 처방 찾기
 
@@ -50,3 +50,9 @@ last_reviewed: 2026-09-05
 ## 검색 동의어
 
 피로 한약 처방 · 기력회복 처방 · 만성피로 보약 처방 · 기허 한약 · 기혈허 한약 · 보중익기탕 피로 · 십전대보탕 기력 · 보중익기탕 · 사군자탕 · 사물탕 · 팔물탕 · 십전대보탕 · 생맥산 · 귀비탕
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+피로의 느낌과 검사 결과를 함께 살피고, 원인 치료와 식사·수면·일상 기능의 회복을 연결합니다.
+
+[빈혈·철결핍성빈혈](../conditions/anemia-fatigue.md) · [갑상선기능저하증](../conditions/hypothyroidism.md) · [갑상선기능항진증](../conditions/hyperthyroidism.md) · [갑상선 검사](../conditions/thyroid-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md) · [의도하지 않은 체중감소](../conditions/unintentional-weight-loss.md)

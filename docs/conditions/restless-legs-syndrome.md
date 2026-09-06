@@ -8,7 +8,7 @@ tags:
 - 잠들 때 다리저림
 - RLS
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-06
 ---
 # 하지불안증후군·밤에 다리가 불편해요
 
@@ -182,3 +182,9 @@ last_reviewed: '2026-08-29'
 - Kwon S, et al. Paeoniae Radix-containing herbal medicine for restless legs syndrome. PMID [31003678](https://pubmed.ncbi.nlm.nih.gov/31003678/).
 - Harrison EG, et al. Non-pharmacological interventions for restless legs syndrome. PMID [29561180](https://pubmed.ncbi.nlm.nih.gov/29561180/).
 - Safarpour Y, et al. Restless Legs Syndrome in Chronic Kidney Disease. PMID [37008995](https://pubmed.ncbi.nlm.nih.gov/37008995/).
+
+## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
+
+월경량·출혈과 철 상태를 함께 살피며, 검사로 확인하는 빈혈과 전통적인 혈허 변증을 구분합니다.
+
+[빈혈·철결핍성빈혈](anemia-fatigue.md) · [헤모글로빈·페리틴](anemia-lab.md) · [과다월경](heavy-menstruation.md)
