@@ -53,3 +53,7 @@ last_reviewed: 2026-09-06
 만성 요슬통·허약의 처방 구조와 골다공증·관절염의 질환 관리는 구분합니다. 골절 예방·염증 조절·보행 회복을 각각 확인합니다.
 
 [골다공증·골절 예방](../conditions/osteoporosis.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [갱년기 관절통](../conditions/menopause-joint-pain.md)
+
+## 독활·두충·우슬의 역할과 기원 확인
+
+[독활](../herbs/angelica-pubescens.md)의 풍한습 관련 역할, [두충](../herbs/eucommia.md)의 보간신·강근골, [우슬](../herbs/achyranthes.md)의 활혈·요슬부 배합을 구분합니다. [속단](../herbs/dipsacus.md)은 원방 구성약이 아니므로 가감 여부를 따로 확인합니다. 국내 독활과 해외 연구의 Duhuo는 원료 기원이 다를 수 있습니다. [통증 본초·처방 안내](../herbal-integrated/herbs-for-pain.md)에서 다른 통증 방제와 비교합니다.

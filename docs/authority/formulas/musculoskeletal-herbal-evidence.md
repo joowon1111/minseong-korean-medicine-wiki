@@ -239,3 +239,7 @@ last_reviewed: 2026-09-06
 질환별 종합 안내에서 진단·현재 치료를 확인한 뒤 변증과 처방·연구로 이어갈 수 있습니다. 골밀도·통증 변화와 실제 골절 예방은 구분합니다.
 
 [통풍·요산 관리](../../conditions/gout.md) · [류마티스관절염](../../conditions/rheumatoid-arthritis.md) · [골다공증·골절 예방](../../conditions/osteoporosis.md) · [골절 후 회복](../../conditions/fracture-recovery.md)
+
+## 육체피로·전신근육통에서 본초와 방제로 이어가기 {#physical-fatigue-herbal-routes}
+
+[통증·관절통·근육통의 주요 본초](../../herbal-integrated/herbs-for-pain.md)에서 백작약·당귀·천궁·독활·두충·우슬·속단을 배합 목적별로 비교합니다. 과로와 허약이 함께 있다면 [육체피로 본초·탕제](../../herbal-integrated/herbs-for-fatigue.md), 눈의 불편도 겹친다면 [눈피로 본초·탕제](../../herbal-integrated/herbs-for-eye-fatigue.md)로 연결됩니다. 증상 이름에 처방 하나를 고정하기보다 통증 양상·냉열·피로·소화·수면과 연구 대상 질환을 함께 읽습니다.

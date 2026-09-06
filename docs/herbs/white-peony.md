@@ -1,9 +1,9 @@
-﻿---
+---
 title: 백작약(白芍)
 description: 백작약의 전통적 가치, 동의보감 연결, 현대 약리 연구와 관련 방제를 정리합니다.
 tags: [본초학, 백작약]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 백작약(白芍)
 
@@ -21,9 +21,16 @@ paeoniflorin을 포함한 monoterpene glycosides가 대표적으로 연구되며
 전통적 활용을 현대의 성분분석·약리학·임상연구로 해석하려는 연구가 꾸준히 축적되고 있어 한의학 본초의 현대적 이해가 넓어지고 있다.
 
 ## 관련 방제
-- 독활기생탕
-- 계지탕 계열
-- 향후 사물탕
+
+| 관련 방제 | 백작약 배합을 읽는 방향 |
+|---|---|
+| [사물탕](../formulas/siwu-tang.md)·[팔물탕](../formulas/bazhen-tang.md) | 당귀·지황·천궁과 보혈, 또는 보기와 보혈의 결합 |
+| [쌍화탕](../formulas/ssanghwa-tang.md) | 과로·허약과 몸이 쑤시는 기혈부족 양상 |
+| [작약감초탕](../formulas/shaoyao-gancao-tang.md) | 작약·감초의 완급지통 배합과 경련성 통증 |
+| [소경활혈탕](../formulas/shujing-huoxue-tang.md) | 혈허·어혈·풍습이 겹친 통증의 복합 배합 |
+| [독활기생탕](../formulas/duhuo-jisheng-tang.md) | 풍한습비와 허약을 함께 보는 보혈 배합 |
+
+같은 백작약이 들어가도 보혈·보익과 경련성 통증의 치료 목표는 다릅니다. [피로 본초](../herbal-integrated/herbs-for-fatigue.md)·[통증 본초](../herbal-integrated/herbs-for-pain.md)·[눈피로 본초](../herbal-integrated/herbs-for-eye-fatigue.md)를 비교하면 배합의 차이를 볼 수 있습니다.
 
 ## 동의보감 연결
 → [《동의보감》 탕액편의 백작약](../classics/donguibogam/tangyeok/white-peony.md)
@@ -37,4 +44,3 @@ PMID 39053710 DOI 10.1016/j.jep.2024.118616; PMID 27279421
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
-
