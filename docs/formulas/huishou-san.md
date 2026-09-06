@@ -3,7 +3,7 @@ title: 회수산(回首散)
 description: 회수산의 오약순기산 가미 구조와 급성 목·어깨 통증의 감별, 경과관찰과 안전성을 정리합니다.
 tags: [방제학, 회수산, 낙침, 목통증, 어깨통증, 외상, 기체, 풍한습, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 회수산(回首散)
 
@@ -74,3 +74,9 @@ last_reviewed: 2026-09-04
 - [방제 찾기](../herbal-integrated/formulas.md)
 
 - [목·경추 통증의 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#neck)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+급성 목 굳음의 풍한·기체, 외상 후 어혈, 허약·감각 불편의 맥락을 구분하며 목디스크·손목 신경 압박의 평가를 함께 이어갑니다.
+
+[목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md)

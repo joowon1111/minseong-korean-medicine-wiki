@@ -3,7 +3,7 @@ title: 불면·두근거림 한약 처방 찾기
 description: 입면곤란·야간각성·새벽각성·두근거림과 동반 증상을 병증별 대표 처방, 현대 임상근거, 수면 평가로 연결합니다.
 tags: [한약, 방제, 불면, 심계, 수면, 처방탐색]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 불면·두근거림 한약 처방 찾기
 
@@ -43,3 +43,9 @@ last_reviewed: 2026-09-04
 - [불면 한약 처방 지도](../authority/formulas/insomnia-herbal-formula-map.md)
 - [처방 선택 원리](formula-selection-guide.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+잠들기 어려움, 새벽에 깬 뒤 재입면의 어려움, 충분히 잔 듯해도 남는 피로는 구분합니다. 각 안내에서 동반 증상별 처방과 수면·주간 기능의 평가를 연결합니다.
+
+[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)

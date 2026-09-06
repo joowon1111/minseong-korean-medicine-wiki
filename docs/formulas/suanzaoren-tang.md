@@ -3,7 +3,7 @@ title: 산조인탕(酸棗仁湯)
 description: 산조인탕의 양혈안신·청열제번 구조, 허번불면 임상 단서, 천왕보심단·귀비탕과의 감별, 불면 임상연구와 안전성을 연결합니다.
 tags: [방제학, 산조인탕, 불면, 허번, 양혈안신, 수면]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 산조인탕(酸棗仁湯)
 
@@ -72,3 +72,9 @@ last_reviewed: 2026-09-04
 - [산조인탕 임상근거 카드](../authority/formulas/suanzaoren-tang.md)
 - [산조인 본초](../herbs/jujube-seed.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+잠들기 어려움, 새벽에 깬 뒤 재입면의 어려움, 충분히 잔 듯해도 남는 피로는 구분합니다. 각 안내에서 동반 증상별 처방과 수면·주간 기능의 평가를 연결합니다.
+
+[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)

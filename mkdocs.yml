@@ -420,16 +420,26 @@ nav:
     - conditions/index.md
     - 통증·근골격:
       - 요통·허리가 아파요: conditions/low-back-pain.md
+      - 허리디스크·다리저림: conditions/lumbar-disc-herniation.md
+      - 척추관협착증·보행통증: conditions/lumbar-spinal-stenosis.md
+      - 좌골신경통: conditions/sciatica.md
       - 등통증·흉추통증: conditions/thoracic-back-pain.md
       - 옆구리통증: conditions/flank-pain.md
       - 목통증·경항통: conditions/neck-pain.md
+      - 목디스크·팔저림: conditions/cervical-disc-herniation.md
+      - 손목터널증후군: conditions/carpal-tunnel.md
       - 턱관절통증·입 벌릴 때 아파요: conditions/temporomandibular-disorder.md
       - 어깨통증: conditions/shoulder-pain.md
       - 손목통증·엄지쪽 손목이 아파요: conditions/wrist-pain.md
       - 무릎통증: conditions/knee-pain.md
       - 발목통증: conditions/ankle-pain.md
+      - 족저근막염·발뒤꿈치통증: conditions/plantar-fasciitis.md
     - 신경·감각·순환:
       - 두통: conditions/headache.md
+      - 편두통: conditions/migraine.md
+      - 긴장성두통·뒷목두통: conditions/tension-headache.md
+      - 경추성두통: conditions/cervicogenic-headache.md
+      - 구안와사·안면마비: conditions/facial-palsy.md
       - 어지럼: conditions/dizziness.md
       - 이명: conditions/tinnitus.md
       - 손발저림·팔다리가 저려요: conditions/limb-numbness.md
@@ -439,6 +449,8 @@ nav:
       - 붓기·부종·몸이 자주 부어요: conditions/edema-swelling.md
     - 수면·정서·피로:
       - 불면증·수면장애: conditions/insomnia.md
+      - 새벽각성: conditions/early-awakening.md
+      - 숙면·수면회복감: conditions/nonrestorative-sleep.md
       - 불안·과도한 걱정: conditions/anxiety.md
       - 화병·울화·가슴답답함: conditions/hwabyeong.md
       - 만성피로: conditions/chronic-fatigue.md
@@ -451,7 +463,9 @@ nav:
       - 성장기·아이 키 성장: conditions/child-growth.md
     - 소화·수술 후 회복:
       - 소화불량: conditions/dyspepsia.md
-      - 과민성장증후군: conditions/ibs.md
+      - 과민성대장증후군: conditions/ibs.md
+      - 역류성식도염·속쓰림: conditions/gerd.md
+      - 매핵기·목이물감: conditions/globus.md
       - 수술 후 회복·기력저하: conditions/postoperative-recovery.md
       - 주요 5대암 수술 후 회복관리: conditions/gastric-cancer-gastrectomy-recovery.md
       - 퇴원 후 회복·장기입원 후 기력저하: conditions/post-hospitalization-recovery.md

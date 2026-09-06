@@ -8,7 +8,7 @@ tags:
 - 안면홍조
 - 갱년기불면
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 # 갱년기
 
@@ -152,3 +152,9 @@ last_reviewed: 2026-08-28
 - The Menopause Society. [Position Statements](https://menopause.org/professional-resources/position-statements).
 - The 2023 Nonhormone Therapy Position Statement of The North American Menopause Society. PMID [37252752](https://pubmed.ncbi.nlm.nih.gov/37252752/).
 - Maunder A, et al. Complementary therapies for management of menopausal symptoms: systematic review. PMID [41498229](https://pubmed.ncbi.nlm.nih.gov/41498229/).
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+갱년기의 열감·수면·피로·정서·관절 불편을 나누어 치료 목표를 정합니다. 변증별 처방을 비교하고 수면과 일상 기능의 경과로 연결합니다.
+
+[갱년기 한약·처방 비교](menopause-herbal.md) · [새벽각성](early-awakening.md)

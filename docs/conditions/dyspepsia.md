@@ -188,3 +188,9 @@ last_reviewed: 2026-09-06
 반복되는 소화불편을 담적이라고 설명받았더라도 실제 처방 선택은 허약·담습·기체·식적·한열에 따라 달라집니다.
 
 [담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+신물·속쓰림, 실제 삼킴장애와 다른 목이물감, 긴장에 따른 소화불편을 구분해 읽습니다. 소화력·오심·냉열·피로에 따른 변증과 처방의 차이로 이어집니다.
+
+[역류성식도염](gerd.md) · [매핵기](globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md)

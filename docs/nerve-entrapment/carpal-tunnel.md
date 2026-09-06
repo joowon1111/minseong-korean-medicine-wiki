@@ -13,3 +13,9 @@
 
 ## 연결
 [신경포착증후군 허브](index.md) · [합곡 LI4](../acupoint-network/li4.md) · [내관 PC6](../acupoint-network/pc6.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
+
+[목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md) · [경추성두통](../conditions/cervicogenic-headache.md)

@@ -3,10 +3,12 @@ title: 과민성장증후군 — 침·한약 현대 임상근거
 description: 과민성장증후군의 침·전침·한약 연구를 전체 증상, 복통, 배변, 삶의 질과 정서 outcome 중심으로 정리합니다.
 tags: [과민성장증후군, IBS, 침, 전침, 한약, 통사요방, meta-analysis, RCT, PMID]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 
 # 과민성장증후군 — 침·한약 현대 임상근거
+
+→ [과민성대장증후군의 증상·변증·치료 전체 안내](../../conditions/ibs.md)
 
 ## 임상 질문
 
@@ -96,3 +98,9 @@ last_reviewed: '2026-09-05'
 
 !!! note "근거 카드 안내"
     최근 연구는 침과 한약의 활용 가능성을 뒷받침합니다. 개별 치료는 위험신호, IBS 아형, 검사결과와 한의학적 병증을 함께 확인해 결정합니다.
+
+## 과민성대장증후군으로 찾는 증상·치료 안내 {#patient-care}
+
+과민성대장증후군과 과민성장증후군은 같은 IBS를 가리키는 검색 표현입니다. 연구를 읽기 전 복통·배변 변화와 위험신호, 설사형·변비형의 차이를 [IBS 전체 안내](../../conditions/ibs.md)에서 확인할 수 있습니다.
+
+→ [스트레스성 소화불량](../../autonomic/stress-digestion.md) · [역류성식도염](../../conditions/gerd.md) · [담음·식적 감별](../../diagnostics/differentials/phlegm-vs-food-stagnation.md)

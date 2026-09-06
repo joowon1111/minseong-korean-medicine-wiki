@@ -3,7 +3,7 @@ title: 두통·머리통증과 경혈 찾기
 description: 두통·머리통증과 경혈 찾기을 환자 검색어에서 경혈·침구·MPS·병증 지식으로 연결합니다.
 tags: [경혈, 침구, 침치료, MPS, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 두통·머리통증과 경혈 찾기
 
@@ -45,3 +45,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 두통 경혈 · 두통 혈자리 · 머리 아플 때 침자리 · 편두통 침치료 · 경추성두통 경혈 · 백회 · 풍지 · 태양 · 합곡 · 태충 · 후계
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+두통을 위치만으로 구분하지 않고 오심·빛 민감성, 조이는 느낌, 목 움직임과의 관계를 비교합니다. 두통일수와 약 복용일수·일상 회복을 각 안내에서 확인할 수 있습니다.
+
+[편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md)

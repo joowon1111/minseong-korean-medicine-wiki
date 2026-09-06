@@ -1,9 +1,9 @@
-﻿---
+---
 title: 손목터널증후군 — 현대 임상근거 카드
 description: 손목터널증후군에서 침·전침의 systematic review·meta-analysis와 통증·기능·신경전도 연구를 정리합니다.
 tags: [손목터널증후군, 침, 전침, meta-analysis]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 손목터널증후군 — 현대 임상근거 카드
 
@@ -47,3 +47,9 @@ last_reviewed: 2026-08-19
 
 손목터널증후군에서는 침 치료 근거와 함께 **감각저하·근력저하·무지구 위축·신경전도검사·수술 적응증** 등 신경압박의 중증도를 먼저 확인합니다.
 <!-- MS58_CTS_END -->
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
+
+[목디스크](../../conditions/cervical-disc-herniation.md) · [손목터널증후군](../../conditions/carpal-tunnel.md) · [경추성두통](../../conditions/cervicogenic-headache.md)

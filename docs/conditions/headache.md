@@ -8,7 +8,7 @@ tags:
 - 경추성두통
 - 약물과용두통
 status: 검토완료
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-06
 ---
 # 두통
 
@@ -188,3 +188,9 @@ last_reviewed: 2026-08-28
 - Tao QF, et al. Acupuncture for tension-type headache prophylaxis. 2023. PMID [37017736](https://pubmed.ncbi.nlm.nih.gov/37017736/).
 - Lin PT, et al. The efficacy of acupuncture for tension-type headache. 2025. PMID [41436106](https://pubmed.ncbi.nlm.nih.gov/41436106/).
 - Wang Y, et al. Different acupuncture-related therapies for migraine: network meta-analysis. 2024. PMID [39703352](https://pubmed.ncbi.nlm.nih.gov/39703352/).
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+두통을 위치만으로 구분하지 않고 오심·빛 민감성, 조이는 느낌, 목 움직임과의 관계를 비교합니다. 두통일수와 약 복용일수·일상 회복을 각 안내에서 확인할 수 있습니다.
+
+[편두통](migraine.md) · [긴장성두통](tension-headache.md) · [경추성두통](cervicogenic-headache.md)

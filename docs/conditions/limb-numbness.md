@@ -3,7 +3,7 @@ title: 손발저림·팔다리가 저려요
 description: 손발저림에서 목·허리 신경압박, 손목터널, 당뇨병성 신경병증, 혈관 문제를 구분하고 한약·침·전침 치료를 안내합니다.
 tags: [손발저림, 팔다리저림, 손저림, 발저림, 말초신경병증]
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: 2026-09-06
 ---
 # 손발저림·팔다리가 저려요
 
@@ -89,3 +89,9 @@ last_reviewed: '2026-08-29'
 - Dimitrova A, et al. Acupuncture for the Treatment of Peripheral Neuropathy. PMID [28112552](https://pubmed.ncbi.nlm.nih.gov/28112552/).
 - Wang C, et al. Acupuncture for painful diabetic peripheral neuropathy. PMID [39079232](https://pubmed.ncbi.nlm.nih.gov/39079232/).
 - Ge R, et al. Acupuncture for diabetic peripheral neuropathy: systematic review and meta-analysis. PMID [39758782](https://pubmed.ncbi.nlm.nih.gov/39758782/).
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
+
+[목디스크](cervical-disc-herniation.md) · [손목터널증후군](carpal-tunnel.md) · [경추성두통](cervicogenic-headache.md)

@@ -2,7 +2,7 @@
 title: 자음강화탕(滋陰降火湯)
 tags: [방제학, 음허화왕, 허열, 마른기침, 방약합편]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 description: 자음강화탕의 자음양혈·강허화 구조, 음허성 마른기침과 야간열감의 감별, 구성과 안전 확인점을 정리합니다.
 ---
 # 자음강화탕(滋陰降火湯)
@@ -69,3 +69,9 @@ description: 자음강화탕의 자음양혈·강허화 구조, 음허성 마른
 - [만성기침](../conditions/chronic-cough.md)
 - [감기·기침 처방 찾기](../herbal-integrated/formula-for-cold-cough.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+갱년기의 열감·수면·피로·정서·관절 불편을 나누어 치료 목표를 정합니다. 변증별 처방을 비교하고 수면과 일상 기능의 경과로 연결합니다.
+
+[갱년기 한약·처방 비교](../conditions/menopause-herbal.md) · [새벽각성](../conditions/early-awakening.md)

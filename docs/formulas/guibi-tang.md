@@ -3,7 +3,7 @@ title: 귀비탕(歸脾湯)
 description: 귀비탕의 익기보혈·건비양심 구조와 심비양허의 불면·심계·건망·피로 감별, 사람 대상 수면 연구와 안전성을 연결합니다.
 tags: [방제학, 귀비탕, 보익제, 심비양허, 기혈부족, 불면, 심계, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 귀비탕(歸脾湯)
 
@@ -93,3 +93,8 @@ last_reviewed: 2026-09-04
 - [수면·정서 한약 현대 임상근거](../authority/formulas/sleep-emotion-herbal-evidence.md)
 - [보익·피로·회복 허브](../pillar/tonic-recovery.md)
 
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+잠들기 어려움, 새벽에 깬 뒤 재입면의 어려움, 충분히 잔 듯해도 남는 피로는 구분합니다. 각 안내에서 동반 증상별 처방과 수면·주간 기능의 평가를 연결합니다.
+
+[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)

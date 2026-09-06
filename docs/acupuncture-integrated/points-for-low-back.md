@@ -3,7 +3,7 @@ title: 허리통증·요통과 경혈 찾기
 description: 허리통증·요통과 경혈 찾기을 환자 검색어에서 경혈·침구·MPS·병증 지식으로 연결합니다.
 tags: [경혈, 침구, 침치료, MPS, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 허리통증·요통과 경혈 찾기
 
@@ -45,3 +45,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 허리통증 경혈 · 요통 혈자리 · 허리 침자리 · 좌골신경통 경혈 · 허리 약침 혈자리 · 신수 · 대장수 · 요양관 · 위중 · 곤륜 · 후계
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+허리·다리 증상은 방사통의 경로와 앉기·서기·보행의 차이를 함께 확인합니다. 원인별 안내에서 신경학적 평가와 변증·한약·침치료, 보행 회복으로 이어갈 수 있습니다.
+
+[허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)

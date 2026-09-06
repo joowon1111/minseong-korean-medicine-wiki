@@ -85,3 +85,9 @@ last_reviewed: 2026-09-06
 외상 후 멍·종창·고정통에서 출발해 기체·한응·허약이 겹치는지를 비교합니다.
 
 [어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 지도](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+급성 목 굳음의 풍한·기체, 외상 후 어혈, 허약·감각 불편의 맥락을 구분하며 목디스크·손목 신경 압박의 평가를 함께 이어갑니다.
+
+[목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md)

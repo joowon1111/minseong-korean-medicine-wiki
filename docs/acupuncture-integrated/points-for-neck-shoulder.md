@@ -3,7 +3,7 @@ title: 목·어깨 뭉침과 경혈 찾기
 description: 목·어깨 뭉침과 경혈 찾기을 환자 검색어에서 경혈·침구·MPS·병증 지식으로 연결합니다.
 tags: [경혈, 침구, 침치료, MPS, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 목·어깨 뭉침과 경혈 찾기
 
@@ -45,3 +45,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 목통증 경혈 · 어깨통증 혈자리 · 승모근 침치료 · 목어깨 뭉침 침자리 · 견갑통 경혈 · 풍지 · 견정 · 천종 · 견외수 · 후계 · 외관
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
+
+[목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md) · [경추성두통](../conditions/cervicogenic-headache.md)

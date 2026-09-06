@@ -3,7 +3,7 @@ title: 독활기생탕(獨活寄生湯)
 description: 독활기생탕의 출전, 구성, 비증 변증과 무릎 골관절염 관련 임상근거를 정리합니다.
 tags: [방제학, 독활기생탕, 거풍습제, 골관절염]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 독활기생탕(獨活寄生湯)
 
@@ -41,3 +41,9 @@ last_reviewed: 2026-08-19
 1. Zhang W, et al. *Evidence of Chinese herbal medicine Duhuo Jisheng decoction for knee osteoarthritis: a systematic review of randomised clinical trials.* BMJ Open. 2016;6:e008973. PMID **26729379**; DOI **10.1136/bmjopen-2015-008973**.
 2. *Duhuo jisheng tang for treating osteoarthritis of the knee: a prospective clinical observation.* PMID **17394666**.
 3. Cao JH, et al. *Chinese herbal medicine Du-Huo-Ji-Sheng-decoction for knee osteoarthritis: A protocol for systematic review and meta-analysis.* 2021. PMID **33546087**; DOI **10.1097/MD.0000000000024413**.
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
+
+[허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)

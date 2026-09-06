@@ -3,7 +3,7 @@ title: 청상견통탕(淸上蠲痛湯)
 description: 청상견통탕의 소풍산한·청열지통·양혈 구조와 반복성 두통의 감별, 국내 만성 긴장형두통 임상연구를 연결합니다.
 tags: [방제학, 청상견통탕, 두통, 긴장형두통, 편두통, 방약합편, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 청상견통탕(淸上蠲痛湯)
 
@@ -80,3 +80,9 @@ last_reviewed: 2026-09-04
 - [방제 찾기](../herbal-integrated/formulas.md)
 
 - [편두통·두통 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#headache)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+두통을 위치만으로 구분하지 않고 오심·빛 민감성, 조이는 느낌, 목 움직임과의 관계를 비교합니다. 두통일수와 약 복용일수·일상 회복을 각 안내에서 확인할 수 있습니다.
+
+[편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md)

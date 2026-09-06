@@ -2,7 +2,7 @@
 title: 두근거림·심계와 자율신경
 description: 두근거림을 심혈관 위험신호와 긴장·담음·기혈허 변증으로 연결합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 두근거림·심계와 자율신경
 
@@ -18,3 +18,24 @@ last_reviewed: 2026-08-22
 내관 PC6 · 신문 HT7 · 전중 CV17 · 극문 PC4
 
 → [두근거림·심계](../conditions/palpitation.md)
+
+## 두근거림을 자율신경 때문이라고 판단하기 전에 {#assessment}
+
+심장이 빨리 뛰거나 크게 느껴지는 증상은 스트레스·수면부족·카페인과 연동될 수 있지만 부정맥·빈혈·갑상선 문제·약물 영향도 확인해야 합니다. 반복되거나 길어지면 심전도 등 필요한 검사를 검토합니다. **흉통·실신·심한 숨참이 동반된 현재 증상은 응급평가가 우선**입니다. [NHS 두근거림 안내](https://www.nhs.uk/symptoms/heart-palpitations/)
+
+| 기록할 내용 | 도움이 되는 이유 |
+|---|---|
+| 시작·지속시간과 규칙성 | 갑자기 시작·끝나는지, 불규칙한지 확인 |
+| 기립·식사·카페인·운동·긴장 | 자세와 활동에 따른 원인 비교 |
+| 어지럼·숨참·열감·식은땀 | 심장·내분비·기립성 문제 감별 |
+| 복용약·감기약·영양제·체중관리 제품 | 자극 성분과 중복 확인 |
+
+웨어러블의 맥박 기록은 진료에 참고할 수 있지만 정상 표시만으로 부정맥을 배제하지 않습니다. [기립성 어지럼](../conditions/orthostatic-dizziness.md)과 [자율신경 전체 안내](index.md)도 함께 봅니다.
+
+## 소화·잠·피로에 따라 달라지는 변증 {#formula-context}
+
+피로·식욕저하·건망과 얕은 잠이 겹치면 [귀비탕](../formulas/guibi-tang.md)의 심비양허 맥락을, 흉민·오심·불안정한 잠이 겹치면 [온담탕](../formulas/wendan-tang.md)의 담음 맥락을 비교합니다. 번조·건조·열감에는 [천왕보심단](../formulas/tianwang-buxin-dan.md), 긴장·놀람·초조와 흉부 불편에는 [시호가용골모려탕](../formulas/chaihu-jia-longgu-muli-tang.md) 등을 변증에 따라 검토합니다.
+
+한약을 부정맥 치료제와 같은 의미로 설명하거나 심장 평가를 대신하지 않습니다. 내관·신문 등 [자율신경 관련 경혈](../acupuncture-integrated/points-for-stress-autonomic.md)을 연결하고, 횟수·지속시간·수면·외출 불편이 어떻게 바뀌는지 봅니다.
+
+→ [스트레스성 불면](stress-sleep.md) · [스트레스성 소화불량](stress-digestion.md) · [갱년기](../conditions/menopause.md)

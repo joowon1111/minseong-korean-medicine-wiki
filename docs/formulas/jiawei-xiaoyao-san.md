@@ -3,7 +3,7 @@ title: 가미소요산(加味逍遙散)
 description: 가미소요산의 소간해울·양혈건비·청열 구조와 간울혈허·울열 감별, 갱년기 상열·초조·수면 관련 사람 대상 임상연구를 연결합니다.
 tags: [방제학, 가미소요산, 단치소요산, 간울혈허, 울열, 여성건강, 갱년기, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 가미소요산(加味逍遙散)
 
@@ -90,3 +90,8 @@ last_reviewed: 2026-09-04
 - [가미소요산 현대 임상근거 카드](../authority/formulas/danzhi-xiaoyao-san.md)
 - [갱년기 한약 처방 지도](../authority/formulas/menopause-herbal-formula-map.md)
 
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+갱년기의 열감·수면·피로·정서·관절 불편을 나누어 치료 목표를 정합니다. 변증별 처방을 비교하고 수면과 일상 기능의 경과로 연결합니다.
+
+[갱년기 한약·처방 비교](../conditions/menopause-herbal.md) · [새벽각성](../conditions/early-awakening.md)

@@ -54,3 +54,13 @@ hide:
 - [증상으로 찾기](../symptom-integrated/index.md)
 - [질환별 보기](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+통증의 원인과 증상 조합에 맞는 안내를 먼저 선택하고, 문서 안에서 변증·처방·치료 자료로 이어갈 수 있습니다.
+
+[허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md) · [목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md)
+
+소화·수면·두통은 동반 증상을 함께 비교하면 다음에 읽을 자료를 좁히기 좋습니다.
+
+[역류성식도염](../conditions/gerd.md) · [매핵기](../conditions/globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md) · [편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)

@@ -2,7 +2,7 @@
 title: 오적산
 description: 오적산의 출전·구조·임상 활용·현대 연구·안전성을 최신 지식망과 연결합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 오적산
 
@@ -28,3 +28,9 @@ last_reviewed: 2026-08-22
 - [손발냉증](../conditions/cold-hands-feet.md)
 - [요통](../conditions/low-back-pain.md)
 - [온리·온보 본초](../herbs/categories/warm-interior.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
+
+[허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)
