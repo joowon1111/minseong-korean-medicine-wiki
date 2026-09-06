@@ -3,7 +3,7 @@ title: 만성염증·면역·통증과 회복 지식망
 description: 선천면역·적응면역·염증 해소와 신경-면역 상호작용을 바탕으로 만성염증, 면역노화, 통증, 고혈압·뇌졸중·인지저하·암·대사질환을 연결합니다.
 tags: [만성염증, 면역, 면역노화, 염증노화, 신경면역, 통증, 회복, 고혈압, 뇌졸중, 치매, 암, 한의학지식망]
 status: 검토완료
-last_reviewed: 2026-09-02
+last_reviewed: 2026-09-06
 ---
 # 만성염증·면역·통증과 회복 지식망
 
@@ -184,3 +184,9 @@ last_reviewed: 2026-09-02
 - [피로·회복 저하](fatigue-recovery.md)
 - [보익·피로·회복 허브](../pillar/tonic-recovery.md)
 - [만성콩팥병](../conditions/chronic-kidney-disease.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+면역·만성염증의 관계에서 출발해 실제 진료 목표를 구체화할 수 있습니다. 잦은 감기·회복 지연은 면역 안내로, 열성 증상의 치법은 청열해독으로, 내장지방·대사위험은 비만·다이어트로 이어집니다.
+
+[면역·회복의 변증과 처방](index.md) · [청열해독·습열의 구분](../herbal-integrated/detoxification.md) · [비만·대사 관리](../conditions/obesity.md) · [건강한 다이어트](../conditions/healthy-weight-management.md)

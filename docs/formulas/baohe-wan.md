@@ -70,3 +70,9 @@ last_reviewed: 2026-09-06
 음식 정체가 중심인 식적을 담음·비위허약과 구분하고, 과식과 증상 변화의 관계를 확인합니다.
 
 [담적: 증상·변증·처방·치료](../diagnostics/phlegm-accumulation.md) · [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md) · [소화불량 처방 비교](../herbal-integrated/formula-for-digestion.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+체중관리 중 과식·식적의 동반 증상을 다루는 목적과 체지방 감량을 구분합니다. 음식 정체의 경과를 식사 리듬과 연결합니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

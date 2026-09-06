@@ -3,7 +3,7 @@ title: 호흡·비염·면역 한의학 허브
 description: 비염·알레르기비염·기침·만성기침·감기·목 불편감과 면역·만성염증을 한약·침구치료 및 현대 임상근거로 연결합니다.
 tags: [Pillar, 비염, 기침, 호흡기, 면역, 알레르기, 만성염증]
 status: 검토완료
-last_reviewed: 2026-09-02
+last_reviewed: 2026-09-06
 ---
 
 # 호흡·비염·면역 한의학 허브
@@ -56,3 +56,9 @@ last_reviewed: 2026-09-02
 
 !!! warning "빠른 진료가 필요한 경우"
     호흡곤란, 입술이 파래짐, 흉통, 객혈, 고열과 의식저하, 숨 쉴 때 심한 천명처럼 급성 위험신호가 있으면 즉시 의학적 평가가 필요합니다.
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+호흡기 증상에서 면역·회복으로 범위를 넓힐 때는 감염 빈도·알레르기·영양·수면을 구분하고, 그에 맞는 변증과 처방을 연결합니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)

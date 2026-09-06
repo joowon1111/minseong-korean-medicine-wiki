@@ -2,7 +2,7 @@
 title: 의이인(薏苡仁)
 tags: [본초, 임상본초, 주요본초]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 description: 의이인의 건비삼습·제비, 삼령백출산·태음조위탕에서의 역할과 복령·택사·백출과의 차이를 정리합니다.
 ---
 # 의이인(薏苡仁)
@@ -67,3 +67,8 @@ description: 의이인의 건비삼습·제비, 삼령백출산·태음조위탕
 
 <!-- QUALITY_DEPTH_05_END -->
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+의이인의 건비·이습 역할을 태음조위탕 등 실제 처방 배합과 연결해 봅니다. 약재 하나나 부종의 변화를 곧바로 체지방 감량 효과로 해석하지 않습니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

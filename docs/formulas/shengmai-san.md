@@ -3,7 +3,7 @@ title: 생맥산(生脈散)
 description: 인삼·맥문동·오미자로 기와 진액을 함께 돕는 대표 처방의 구조·임상 단서·유사 처방 감별을 정리합니다.
 tags: [방제학, 생맥산, 기음양허, 익기생진]
 status: 검토완료
-last_reviewed: '2026-09-04'
+last_reviewed: 2026-09-06
 ---
 # 생맥산(生脈散)
 
@@ -60,3 +60,9 @@ last_reviewed: '2026-09-04'
 - [보익·피로·회복 한의학 허브](../pillar/tonic-recovery.md)
 - [보익·회복 한약 핵심](../herbal-integrated/tonic-recovery.md)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+기음부족의 피로·땀·갈증·건조를 표허·기혈양허와 비교합니다. 이를 감염 예방이나 면역검사 수치 개선과 동일한 목표로 보지 않습니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)

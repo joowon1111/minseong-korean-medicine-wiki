@@ -1,8 +1,8 @@
-﻿---
+---
 title: 대시호탕(大柴胡湯)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 대시호탕(大柴胡湯) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 대시호탕(大柴胡湯)
@@ -34,3 +34,10 @@ description: 대시호탕(大柴胡湯) — 한약 처방의 구성·치법·병
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 
+## 체중관리에서의 비교와 경과 {#immune-weight-care}
+
+흉협고만·상복부 답답함과 변비 등 소양양명의 병증을 확인한 뒤 체중관리의 전체 계획과 연결합니다. 스트레스로 과식한다는 이유 하나만으로 처방을 고정하지 않습니다.
+
+[방풍통성산](fangfeng-tongsheng-san.md)은 표리구실·실열의 맥락, [방기황기탕](fangji-huangqi-tang.md)은 기허·수습의 맥락을 비교합니다. 대황이 포함되므로 대변·복통·설사·수분 상태를 살피고, 급성 복통이나 임신 가능성은 별도로 확인합니다.
+
+[비만 변증](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [담적·식적과 소화](../diagnostics/phlegm-accumulation.md)

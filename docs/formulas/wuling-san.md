@@ -3,7 +3,7 @@ title: 오령산(五苓散)
 description: 오령산의 이수삼습·온양화기 구조와 수습·기화불리 감별, 부종·두통 및 만성 경막하혈종 수술 후 재발 사람 대상 근거를 연결합니다.
 tags: [방제학, 오령산, 상한론, 금궤요략, 수습, 부종, 두통, 만성경막하혈종, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 오령산(五苓散)
 
@@ -90,3 +90,8 @@ last_reviewed: 2026-09-04
 - [본초·방제 수분대사 지도](../herbal-integrated/herbs-for-edema.md)
 - [오령산 구성 본초 지식망](../network/wuling-composition.md)
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+수습·갈증·소변의 조합을 체수분 관리와 연결합니다. 소변량이나 일시적 체중 변화만으로 독소 배출·체지방 감소를 판단하지 않습니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

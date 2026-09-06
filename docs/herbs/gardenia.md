@@ -2,7 +2,7 @@
 title: 치자(梔子)
 tags: [본초, 임상본초, 주요본초]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 description: 치자의 사화제번·청열이습과 황련해독탕·가미소요산·용담사간탕의 배합, 인진·황련과의 차이를 정리합니다.
 ---
 # 치자(梔子)
@@ -66,3 +66,8 @@ description: 치자의 사화제번·청열이습과 황련해독탕·가미소�
 
 <!-- QUALITY_DEPTH_05_END -->
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+치자의 사화제번을 열감·번조의 배합과 연결하고, 해독이라는 생활 표현과 실제 치료 목표를 구분합니다.
+
+[해독·청열해독 전체 안내](../herbal-integrated/detoxification.md) · [면역·염증·회복](../immune-allergy/index.md)

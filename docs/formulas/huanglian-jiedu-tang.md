@@ -2,7 +2,7 @@
 title: 황련해독탕(黃連解毒湯)
 tags: [방제학, 황련해독탕, 청열해독, 화열, 자율신경, 피부, 대사, 핵심처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 description: 황련해독탕의 황련·황금·황백·치자 처방 구조와 화열·번조·상열감·피부 열성 증상, 자율신경·대사·미세혈관 관련 현대 연구를 연결합니다.
 ---
 # 황련해독탕(黃連解毒湯)
@@ -126,3 +126,9 @@ description: 황련해독탕의 황련·황금·황백·치자 처방 구조와 
 - [심혈관·대사 한약 현대 임상근거](../authority/formulas/cardiometabolic-herbal-evidence.md)
 - [한약·처방 현대 임상근거 허브](../authority/formulas/herbal-formula-evidence-hub.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+황련해독탕의 청열해독은 화열·실열의 증상 조합을 다루는 치법입니다. 소식·이수·체중감량의 목적과 구분해 실제 열감·홍조·번조·피부·소화의 경과로 평가합니다.
+
+[해독·청열해독 전체 안내](../herbal-integrated/detoxification.md) · [면역·염증·회복](../immune-allergy/index.md)

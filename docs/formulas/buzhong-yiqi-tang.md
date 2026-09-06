@@ -3,7 +3,7 @@ title: 보중익기탕(補中益氣湯)
 description: 보중익기탕의 보기승양 구조와 비위기허·중기하함·피로·식욕저하의 감별, COPD·암 관련 피로와 회복 분야의 사람 대상 근거를 연결합니다.
 tags: [방제학, 보중익기탕, 비위론, 보기, 승양, 피로, 회복, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 보중익기탕(補中益氣湯)
 
@@ -92,3 +92,9 @@ last_reviewed: 2026-09-04
 - [보익·피로·회복 허브](../pillar/tonic-recovery.md)
 - [보중익기탕 현대 임상근거](../authority/formulas/buzhong-yiqi-tang-update.md)
 - [호흡기 한약 근거지도](../authority/formulas/respiratory-herbal-formula-map.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+기력·식욕·활동 후 회복을 중기부족의 맥락에서 살피고, 표허 중심의 옥병풍산이나 기혈양허 처방과 비교합니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)

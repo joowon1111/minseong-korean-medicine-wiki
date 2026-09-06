@@ -3,7 +3,7 @@ title: 본초·방제 한눈에 보기
 description: 증상·질환·병증·치법에서 본초와 방제를 찾고 맞춤한약, 보익·회복, 안전성과 현대 임상근거까지 연결하는 통합 한약 탐색 허브입니다.
 tags: [본초, 방제, 한약, 맞춤한약, 보약, 임상탐색]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 본초·방제 한눈에 보기
 
@@ -38,6 +38,9 @@ last_reviewed: '2026-09-05'
 | 일반 방제 전체 비교 | [일반 방제 임상 지도](general-formulary.md) |
 | 녹용·공진단·경옥고와 회복 한약 | [보익·회복 핵심](tonic-recovery.md) |
 | 간·신장 안전성 연구와 양약 병용·복용 확인 | [안전성 근거·복용 안내](safety.md#safety-evidence-guide) |
+| 면역력·피로·회복의 처방 | [면역·회복 안내](../immune-allergy/index.md) |
+| 청열해독·습열과 해독의 의미 | [해독·청열해독](detoxification.md) |
+| 다이어트 한약의 변증과 처방 | [체중관리 한약](../conditions/weight-management-herbal.md) |
 | 원전·논문·임상근거 | [근거·출전](evidence.md) |
 
 ## 환자 증상에서 시작하기

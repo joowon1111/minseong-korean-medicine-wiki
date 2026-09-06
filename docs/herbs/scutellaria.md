@@ -1,8 +1,8 @@
-﻿---
+---
 title: 황금(黃芩)
 tags: [본초, 사상처방, 약재, 지식그래프]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 황금(黃芩) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 황금(黃芩)
@@ -36,3 +36,8 @@ description: 황금(黃芩) — 본초의 성미·귀경·효능·병증·배합
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+황금의 청열조습·사화해독은 병위·한열·허실과 함께 이해합니다. 실제 치료에서는 열성 증상과 소화력·복용약을 함께 확인합니다.
+
+[해독·청열해독 전체 안내](../herbal-integrated/detoxification.md) · [면역·염증·회복](../immune-allergy/index.md)

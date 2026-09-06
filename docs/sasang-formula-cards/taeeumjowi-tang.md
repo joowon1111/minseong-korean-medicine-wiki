@@ -3,7 +3,7 @@ title: 태음조위탕(太陰調胃湯) 임상 카드
 description: 태음인 태음조위탕의 위완수한표한 위치, 구성, 조위승청탕과의 감별 및 경과관찰을 정리합니다.
 tags: [사상의학, 태음인, 태음조위탕, 위완수한표한]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 태음조위탕(太陰調胃湯) 임상 카드
 
@@ -43,3 +43,11 @@ last_reviewed: 2026-09-04
 - [태음인 대표처방 비교](comparison-map.md)
 - [태음인 위완수한표한 처방군](../sasang-formula-library/taeeumin-exterior-cold.md)
 - [태음인 통합 허브](../sasang-integrated/taeeumin.md)
+
+## 체중관리 연구와 사상체질의 연결 {#immune-weight-care}
+
+국내 성인 비만을 대상으로 태음조위탕 제제 TJ001의 12주 이중눈가림 위약대조 예비시험이 시행됐습니다. 체중감량 비율과 체성분 등을 평가한 사람 대상 자료로, 시험한 제제와 이 문서의 고전 수록본 구성을 구분합니다. [Park 등, 2013](https://pubmed.ncbi.nlm.nih.gov/24062784/)
+
+태음인이라는 판단이나 체형만으로 감량 처방을 정하지 않습니다. 소화·땀·대변·냉열 등 평소 소증과 현재 병증을 함께 봅니다. 고전의 비만(痞滿)은 그득하고 답답한 증상을 가리키는 표현이며 현대 비만(肥滿, obesity)과 글자·뜻이 다릅니다.
+
+[사상체질과 체중](../sasang/sasang-weight.md) · [비만](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md)

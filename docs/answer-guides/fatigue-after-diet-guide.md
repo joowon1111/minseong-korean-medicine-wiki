@@ -1,4 +1,4 @@
-﻿---
+---
 title: 다이어트 후 기력이 너무 떨어졌으면 어떻게 회복해야 하나요?
 description: 감량 후 기력저하를 감량속도·섭취량·근육량·수면·월경·어지럼·회복속도와 함께 설명합니다.
 tags: [다이어트후피로, 기력저하, 체중감량, 회복, 보약]
@@ -43,3 +43,8 @@ tags: [다이어트후피로, 기력저하, 체중감량, 회복, 보약]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+감량 후 기력 저하는 식사량·단백질·수분·수면·활동과 필요 시 빈혈 등을 확인합니다. 감량 강도를 재조정하고 영양·근력을 회복하는 계획을 함께 세웁니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

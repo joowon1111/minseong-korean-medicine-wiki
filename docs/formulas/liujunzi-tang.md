@@ -48,3 +48,9 @@ last_reviewed: 2026-09-06
 비위기허에 담습이 겹치는 경우를 이진탕·향사육군자탕과 비교하고, 식사량·오심·배변의 경과로 연결합니다.
 
 [담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+체중관리 중에도 비위허약·담습이 있으면 소화·영양·기력의 회복을 함께 살핍니다. 육군자탕을 모든 비만의 감량 처방으로 일괄 적용하지 않습니다.
+
+[비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)

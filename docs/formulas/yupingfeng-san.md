@@ -3,7 +3,7 @@ title: 옥병풍산(玉屏風散)
 description: 옥병풍산의 익기고표 구조, 반복 감기·비염·호흡기 회복 임상 단서, 보중익기탕·소청룡탕과의 감별, 성인 천식 병용근거와 안전성을 연결합니다.
 tags: [방제학, 옥병풍산, 황기, 표허, 호흡기, 면역]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 ---
 # 옥병풍산(玉屏風散)
 
@@ -64,3 +64,9 @@ last_reviewed: 2026-09-04
 - [호흡·비염·면역 허브](../pillar/respiratory-rhinitis-immune.md)
 - [옥병풍산 현대 임상근거](../authority/formulas/yupingfeng-san.md)
 - [호흡기 한약 처방 지도](../authority/formulas/respiratory-herbal-formula-map.md)
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+표허·자한·반복 호흡기 불편이라는 처방 맥락을 면역력 저하의 전체 평가와 연결합니다. 감염의 시기·중증도와 평소 회복 양상을 함께 봅니다.
+
+[면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)

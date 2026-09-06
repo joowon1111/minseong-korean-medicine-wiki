@@ -3,7 +3,7 @@ title: 간수치가 높아요
 description: 간수치가 높아요 관련 검사결과를 환자 검색어에서 의미·추적·한의학적 관리까지 연결합니다.
 tags: [건강검진, 검사결과, 환자검색, 한약]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 간수치가 높아요
 
@@ -47,3 +47,9 @@ last_reviewed: '2026-09-05'
 ## 검색 동의어
 
 간수치 높음 · AST ALT 높음 · 감마지티피 높음 · 간수치 한약 · 간수치 보약
+
+## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
+
+간수치 상승은 약물·음주·지방간·바이러스간염 등 원인을 확인해야 합니다. 해독 한약이라는 이름만으로 선택하기보다 간담도 상태와 실제 변증을 함께 봅니다.
+
+[해독·청열해독 전체 안내](../herbal-integrated/detoxification.md) · [면역·염증·회복](../immune-allergy/index.md)
