@@ -3,7 +3,7 @@ title: 불면·수면장애와 경혈 찾기
 description: 불면·수면장애와 경혈 찾기을 환자 검색어에서 경혈·침구·MPS·병증 지식으로 연결합니다.
 tags: [경혈, 침구, 침치료, MPS, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 불면·수면장애와 경혈 찾기
 
@@ -45,3 +45,9 @@ last_reviewed: 2026-08-21
 ## 검색 동의어
 
 불면 경혈 · 잠 안 올 때 혈자리 · 숙면 침치료 · 새벽각성 침자리 · 불면 한의원 침 · 신문 · 내관 · 삼음교 · 백회 · 안면 · 태계
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+잠들기 어려움, 새벽에 깬 뒤 재입면의 어려움, 충분히 잔 듯해도 남는 피로는 구분합니다. 각 안내에서 동반 증상별 처방과 수면·주간 기능의 평가를 연결합니다.
+
+[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md)

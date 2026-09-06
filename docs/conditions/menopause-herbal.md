@@ -3,7 +3,7 @@ title: 갱년기 한약·여성 갱년기
 description: 갱년기의 열감·수면·피로와 변증 한약, 강남세브란스 홍삼 임상시험 및 폐경 후 대사 건강을 연결합니다.
 tags: [질환증상, 환자검색, 한약]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 갱년기 한약·여성 갱년기
 
@@ -54,6 +54,26 @@ last_reviewed: '2026-09-05'
 치료 전 가장 불편한 증상 두세 가지를 정하고 **낮의 열감·밤에 깨는 횟수·낮 활동의 피로·일상생활 불편**을 같은 방식으로 기록합니다. 연구에 사용된 홍삼과 실제 복용할 제품, 기존 호르몬치료·약·영양제의 구성을 함께 확인합니다.
 
 → [갱년기 처방 비교](../herbal-integrated/formula-for-menopause.md) · [인삼·홍삼 연구](../authority/herbs/ginseng.md) · [여성건강 허브](../pillar/womens-health.md) · [대사 건강과 검진 수치](metabolic-syndrome.md)
+
+## 갱년기 한약은 무엇을 기준으로 달라지나요? {#pattern-formulas}
+
+| 함께 나타나는 증상 | 비교할 변증 | 처방 자료 |
+|---|---|---|
+| 열감과 긴장·짜증·가슴 답답함 | 간울·혈허에 울열이 겹침 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) |
+| 밤의 열감·땀과 건조·번조 | 음허화왕의 맥락 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
+| 피로·심계·건망과 얕은 잠 | 심비양허 | [귀비탕](../formulas/guibi-tang.md) |
+| 건조·초조·두근거림과 오래된 불면 | 심신음혈부족 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+| 냉감·월경 변화가 섞인 폐경 이행기 | 충임허한·어혈 등 감별 | [온경탕](../formulas/wenjing-tang.md) |
+
+이 표는 전통적인 변증별 비교입니다. 갱년기라고 모두 열을 내리는 처방을 쓰거나 호르몬 수치를 올리는 목적으로 설명하지 않습니다. **가장 불편한 증상과 소화·냉열·체력·복용약**에 맞춰 구성을 정합니다.
+
+## 수면·체중·관절·배뇨를 따로 확인합니다 {#connected-symptoms}
+
+[새벽각성](early-awakening.md)과 [숙면 저하](nonrestorative-sleep.md)는 야간 열감뿐 아니라 코골이·야간뇨·기분 변화를 함께 봅니다. [복부비만](abdominal-obesity.md)은 식사·근육·활동·대사 지표와 연결하고, [갱년기 관절통](menopause-joint-pain.md)은 관절 자체의 염증·퇴행성 원인도 확인합니다.
+
+호르몬치료를 포함한 치료 선택은 증상·병력·선호를 함께 고려합니다. 이미 복용하는 호르몬제·수면제·영양제가 있으면 한약과의 병행 여부를 진료에서 확인합니다. [NHS 갱년기 치료 안내](https://www.nhs.uk/conditions/menopause-and-perimenopause/treatment/)
+
+한약과 [여성건강 침구치료](../acupuncture-integrated/points-for-womens-health.md)를 병행할 때도 열감·발한·수면·기력이 각각 어떻게 달라지는지 구분합니다. **폐경 후 출혈은 갱년기 과정으로 넘기지 않고 산부인과 평가가 필요**합니다.
 
 ## 기존 지식망과 연결
 

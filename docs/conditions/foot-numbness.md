@@ -2,7 +2,7 @@
 title: 발·하지 저림
 description: 발·하지 저림을 위험신호·감별·변증·본초·방제·경맥·경혈·현대 연구로 연결합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 발·하지 저림
 
@@ -27,3 +27,9 @@ last_reviewed: 2026-08-22
 
 → [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
 → [현대 임상근거](../pillar/clinical-evidence.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+허리·다리 증상은 방사통의 경로와 앉기·서기·보행의 차이를 함께 확인합니다. 원인별 안내에서 신경학적 평가와 변증·한약·침치료, 보행 회복으로 이어갈 수 있습니다.
+
+[허리디스크](lumbar-disc-herniation.md) · [척추관협착증](lumbar-spinal-stenosis.md) · [좌골신경통](sciatica.md)

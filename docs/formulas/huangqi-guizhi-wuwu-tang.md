@@ -3,7 +3,7 @@ title: 황기계지오물탕(黃耆桂枝五物湯)
 description: 기혈과 영위가 허한 혈비의 저림·냉감·감각저하를 다루는 금궤요략 대표 처방의 구조와 감별을 정리합니다.
 tags: [방제학, 황기계지오물탕, 혈비, 저림, 영위불화]
 status: 검토완료
-last_reviewed: '2026-09-04'
+last_reviewed: 2026-09-06
 ---
 # 황기계지오물탕(黃耆桂枝五物湯)
 
@@ -66,3 +66,9 @@ last_reviewed: '2026-09-04'
 - [저림](../conditions/limb-numbness.md)
 - [신경포착증후군](../nerve-entrapment/index.md)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+급성 목 굳음의 풍한·기체, 외상 후 어혈, 허약·감각 불편의 맥락을 구분하며 목디스크·손목 신경 압박의 평가를 함께 이어갑니다.
+
+[목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md)

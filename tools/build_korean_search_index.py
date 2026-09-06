@@ -70,9 +70,12 @@ def path_boost(path):
 
 def keyword_set(title, plain, fm):
     keys = set()
-    tags = fm.get("tags", [])
-    if isinstance(tags, list):
-        keys.update(str(x).strip() for x in tags if str(x).strip())
+    for field in ("tags", "keywords"):
+        values = fm.get(field, [])
+        if isinstance(values, str):
+            values = values.split(",")
+        if isinstance(values, list):
+            keys.update(x.strip() for x in values if isinstance(x, str) and x.strip())
 
     blob = f"{title} {plain}".lower()
     for canonical, vals in ALIASES.items():

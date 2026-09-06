@@ -205,3 +205,9 @@ MRI는 모든 목통증에 즉시 필요한 검사는 아닙니다. 위험신호
 - Xie CR, et al. Effectiveness of Acupuncture for Neck Pain: Systematic Review and Meta-analysis. 2025. PMID [41322280](https://pubmed.ncbi.nlm.nih.gov/41322280/).
 - Seo SY, et al. Effectiveness of Acupuncture and Electroacupuncture for Chronic Neck Pain: A Systematic Review and Meta-analysis. 2017. PMID [29121797](https://pubmed.ncbi.nlm.nih.gov/29121797/).
 - Singapore Agency for Care Effectiveness. [Acupuncture for adults with low back pain and neck pain](https://www.ace-hta.gov.sg/healthcare-professionals/ace-technology-guidance/medical-technology-guidance/acupuncture-for-adults-with-low-back-pain-and-neck-pain/). 2023.
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
+
+[목디스크](cervical-disc-herniation.md) · [손목터널증후군](carpal-tunnel.md) · [경추성두통](cervicogenic-headache.md)

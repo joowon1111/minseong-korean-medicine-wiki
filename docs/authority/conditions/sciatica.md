@@ -13,3 +13,9 @@
 
 ## 해석
 좌골신경통의 원인질환과 신경학적 중증도를 우선 확인하고 침은 통증과 기능 회복의 보조적 치료근거로 봅니다.
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+허리·다리 증상은 방사통의 경로와 앉기·서기·보행의 차이를 함께 확인합니다. 원인별 안내에서 신경학적 평가와 변증·한약·침치료, 보행 회복으로 이어갈 수 있습니다.
+
+[허리디스크](../../conditions/lumbar-disc-herniation.md) · [척추관협착증](../../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../../conditions/sciatica.md)

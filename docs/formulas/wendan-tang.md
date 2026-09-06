@@ -88,3 +88,9 @@ last_reviewed: 2026-09-06
 담위불화와 흉민·오심·수면 증상의 관계를 담음 변증 안에서 비교합니다. 모든 불면이나 담적에 같은 처방을 대응시키지 않습니다.
 
 [담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+담음과 관련된 불면·심계·소화불편은 각 증상의 원인을 먼저 구분하고 전체 조합을 살핍니다.
+
+[스트레스성 불면](../autonomic/stress-sleep.md) · [두근거림과 자율신경](../autonomic/palpitations.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md)

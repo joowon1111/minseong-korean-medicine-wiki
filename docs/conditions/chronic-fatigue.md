@@ -3,7 +3,7 @@ title: 만성피로·쉽게 지치고 회복이 안 돼요
 description: 만성피로의 원인 감별, 활동 후 악화, 한의학적 변증, 한약·침구치료와 추적관찰을 안내합니다.
 tags: [질환증상, 만성피로, 피로, 활동후악화, 기허, 한약, 침]
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 
 # 만성피로·쉽게 지치고 회복이 안 돼요
@@ -167,7 +167,13 @@ last_reviewed: 2026-09-05
   "description": "만성피로의 원인 감별, 활동 후 악화, 한약·침구치료와 추적관찰을 안내합니다.",
   "url": "https://wiki.minseong.co.kr/conditions/chronic-fatigue/",
   "inLanguage": "ko-KR",
-  "dateModified": "2026-09-05",
+  "dateModified": "2026-09-06",
   "about": {"@type": "MedicalCondition", "name": "만성피로"}
 }
 </script>
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+잠들기 어려움, 새벽에 깬 뒤 재입면의 어려움, 충분히 잔 듯해도 남는 피로는 구분합니다. 각 안내에서 동반 증상별 처방과 수면·주간 기능의 평가를 연결합니다.
+
+[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](early-awakening.md) · [숙면·회복감](nonrestorative-sleep.md)

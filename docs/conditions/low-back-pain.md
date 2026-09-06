@@ -154,3 +154,9 @@ WHO 2023 만성 일차성 요통 지침은 침을 포함해 교육·운동·일�
 - Qaseem A, et al. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain. *Ann Intern Med*. 2017.
 - Vickers AJ, et al. Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-analysis. PMID [29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/).
 - Wu et al. Acupuncture for low back pain: umbrella review. 2024. PMID [38790086](https://pubmed.ncbi.nlm.nih.gov/38790086/).
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+허리·다리 증상은 방사통의 경로와 앉기·서기·보행의 차이를 함께 확인합니다. 원인별 안내에서 신경학적 평가와 변증·한약·침치료, 보행 회복으로 이어갈 수 있습니다.
+
+[허리디스크](lumbar-disc-herniation.md) · [척추관협착증](lumbar-spinal-stenosis.md) · [좌골신경통](sciatica.md)

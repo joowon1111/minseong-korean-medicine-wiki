@@ -83,3 +83,9 @@ last_reviewed: 2026-09-06
 비위허약·담습·기체가 함께 나타나는 식후불편을 담음 변증 및 담적 관련 소화불편 안내와 연결합니다.
 
 [담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+신물·속쓰림, 실제 삼킴장애와 다른 목이물감, 긴장에 따른 소화불편을 구분해 읽습니다. 소화력·오심·냉열·피로에 따른 변증과 처방의 차이로 이어집니다.
+
+[역류성식도염](../conditions/gerd.md) · [매핵기](../conditions/globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md)

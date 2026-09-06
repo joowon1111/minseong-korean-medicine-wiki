@@ -1,4 +1,4 @@
-﻿---
+---
 title: 어깨는 안 아픈데 팔이나 손이 저리면 목 문제일 수 있나요?
 description: 어깨통증 없는 팔·손저림을 목신경·손목·팔꿈치·자세·저림분포·근력과 함께 설명합니다.
 tags: [팔저림, 손저림, 목디스크, 경추, 신경압박]
@@ -43,4 +43,8 @@ tags: [팔저림, 손저림, 목디스크, 경추, 신경압박]
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_END -->
 
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
 
+팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
+
+[목디스크](../conditions/cervical-disc-herniation.md) · [손목터널증후군](../conditions/carpal-tunnel.md) · [경추성두통](../conditions/cervicogenic-headache.md)

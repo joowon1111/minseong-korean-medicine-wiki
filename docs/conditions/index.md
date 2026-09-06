@@ -8,7 +8,7 @@ tags:
 - 한약
 - 현대근거
 status: 검토완료
-last_reviewed: 2026-09-05
+last_reviewed: 2026-09-06
 ---
 
 # 질환별 보기
@@ -446,3 +446,13 @@ last_reviewed: 2026-09-05
 - [온몸이 쑤셔요·전신근육통](whole-body-ache.md)
 
 <!-- ORPHAN_CONDITIONS_HUB_END -->
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+통증의 원인과 증상 조합에 맞는 안내를 먼저 선택하고, 문서 안에서 변증·처방·치료 자료로 이어갈 수 있습니다.
+
+[허리디스크](lumbar-disc-herniation.md) · [척추관협착증](lumbar-spinal-stenosis.md) · [좌골신경통](sciatica.md) · [목디스크](cervical-disc-herniation.md) · [손목터널증후군](carpal-tunnel.md)
+
+소화·수면·두통은 동반 증상을 함께 비교하면 다음에 읽을 자료를 좁히기 좋습니다.
+
+[역류성식도염](gerd.md) · [매핵기](globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md) · [편두통](migraine.md) · [긴장성두통](tension-headache.md) · [스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](early-awakening.md) · [숙면·회복감](nonrestorative-sleep.md)

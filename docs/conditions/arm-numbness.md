@@ -2,7 +2,7 @@
 title: 팔·손 저림
 description: 팔·손 저림을 위험신호·감별·변증·본초·방제·경맥·경혈·현대 연구로 연결합니다.
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-06
 ---
 # 팔·손 저림
 
@@ -27,3 +27,9 @@ last_reviewed: 2026-08-22
 
 → [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
 → [현대 임상근거](../pillar/clinical-evidence.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+팔·손의 저린 분포와 목·손목 자세의 영향을 비교합니다. 목에서 비롯한 통증과 손목 신경 압박이 겹치는 경우도 있어 감각·근력·생활 기능을 함께 평가합니다.
+
+[목디스크](cervical-disc-herniation.md) · [손목터널증후군](carpal-tunnel.md) · [경추성두통](cervicogenic-headache.md)

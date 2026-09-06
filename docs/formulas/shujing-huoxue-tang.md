@@ -75,3 +75,9 @@ last_reviewed: 2026-09-06
 풍습·혈허와 어혈이 겹친 근골격 통증을 비교하고, 활혈뿐 아니라 거풍습·기능 회복의 방향을 함께 봅니다.
 
 [어혈 전체 안내](../diagnostics/blood-stasis.md) · [어혈 변증 지도](../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../pattern-treatment/blood-stasis.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
+
+[허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)

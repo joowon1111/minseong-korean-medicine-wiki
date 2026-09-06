@@ -1,9 +1,9 @@
-﻿---
+---
 title: 편두통 — 현대 임상근거 카드
 description: 편두통에서 침 관련 치료의 systematic review·network meta-analysis와 두면부·경혈 지식망을 연결합니다.
 tags: [편두통, 침, 임상근거, network-meta-analysis]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 편두통 — 현대 임상근거 카드
 
@@ -46,3 +46,8 @@ last_reviewed: 2026-08-19
 이 근거는 2017 *JAMA Internal Medicine* 예방 RCT(PMID `28241154`)와 함께 **예방치료와 급성기 치료를 구분**해서 읽습니다.
 <!-- MS56_MIGRAINE_END -->
 
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+두통을 위치만으로 구분하지 않고 오심·빛 민감성, 조이는 느낌, 목 움직임과의 관계를 비교합니다. 두통일수와 약 복용일수·일상 회복을 각 안내에서 확인할 수 있습니다.
+
+[편두통](../../conditions/migraine.md) · [긴장성두통](../../conditions/tension-headache.md) · [경추성두통](../../conditions/cervicogenic-headache.md)

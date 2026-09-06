@@ -85,3 +85,9 @@ last_reviewed: 2026-09-06
 비허담습에 어지럼·두중이 겹치는 맥락을 살피고, 수음·한증이나 다른 어지럼 원인과의 차이를 확인합니다.
 
 [담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+두통을 위치만으로 구분하지 않고 오심·빛 민감성, 조이는 느낌, 목 움직임과의 관계를 비교합니다. 두통일수와 약 복용일수·일상 회복을 각 안내에서 확인할 수 있습니다.
+
+[편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md)

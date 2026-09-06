@@ -3,7 +3,7 @@ title: 수면·정서·신경 한의학 허브
 description: 불면·불안·두통·어지럼·이명·저림·하지불안·브레인포그를 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 수면, 정서, 신경계, 안신]
 status: 검토완료
-last_reviewed: 2026-08-31
+last_reviewed: 2026-09-06
 ---
 
 # 수면·정서·신경 한의학 허브
@@ -47,3 +47,13 @@ last_reviewed: 2026-08-31
 - [두통·어지럼에서 먼저 확인할 신호](../clinical-safety/headache-dizziness.md)
 - [침구·한의치료 허브](acupuncture-treatment.md)
 - [현대 임상근거 허브](clinical-evidence.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+수면과 신경 증상을 더 구체적으로 살펴볼 수 있습니다. 잠들기·각성·회복감의 차이와 두통의 유형을 나누고 관련 변증·처방으로 이어집니다.
+
+[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md) · [편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md)
+
+자율신경 관련 증상은 원인 감별을, 갑작스러운 안면마비는 초기 치료 시기와 눈 보호를 함께 확인합니다.
+
+[자율신경실조증 안내](../autonomic/index.md) · [구안와사·안면마비](../authority/conditions/peripheral-facial-palsy.md)

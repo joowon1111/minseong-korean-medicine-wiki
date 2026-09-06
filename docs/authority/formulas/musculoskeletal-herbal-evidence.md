@@ -221,3 +221,9 @@ last_reviewed: 2026-09-06
 활혈 처방의 선택 맥락을 더 보려면 어혈의 주요 변증과 치료 안내를 함께 확인합니다. 통증의 임상근거는 질환·처방·비교 치료별로 구분합니다.
 
 [어혈 전체 안내](../../diagnostics/blood-stasis.md) · [어혈 변증 비교](../../diagnostics/patterns/blood-stasis.md) · [활혈·통락 치료와 경과 확인](../../pattern-treatment/blood-stasis.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
+
+[허리디스크](../../conditions/lumbar-disc-herniation.md) · [척추관협착증](../../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../../conditions/sciatica.md)

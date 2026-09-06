@@ -3,7 +3,7 @@ title: 작약감초탕(芍藥甘草湯)
 description: 작약·감초의 완급지통 구조와 근육경련·종아리 쥐의 감별, 임상연구와 감초 중복 복용 주의를 안내합니다.
 tags: [방제학, 작약감초탕, 근육경련, 통증, 임상근거]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 ---
 # 작약감초탕(芍藥甘草湯)
 
@@ -57,3 +57,9 @@ last_reviewed: '2026-09-05'
 - [작약감초탕 기존 임상시험 카드](../authority/formulas/shakuyakukanzoto.md)
 - [통증 한약 처방 선택](../herbal-integrated/formula-for-pain.md)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
+
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
+
+[허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)

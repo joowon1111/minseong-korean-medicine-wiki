@@ -1,11 +1,11 @@
 ---
-title: 경추성두통·목에서 올라오는 두통
+title: "경추성두통 — 목에서 머리로 올라오는 통증"
 description: 경추성두통·목에서 올라오는 두통을 환자 검색어에서 감별·위험신호·한의치료까지 연결합니다.
-tags: [질환증상, 신경통, 두통, 환자검색]
+tags: ["경추성두통", "목에서 올라오는 두통", "목통증 두통", "경추성두통 침치료"]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
-# 경추성두통·목에서 올라오는 두통
+# 경추성두통 — 목에서 머리로 올라오는 통증
 
 ## 환자가 이렇게 검색할 수 있습니다
 
@@ -38,6 +38,25 @@ last_reviewed: 2026-08-21
 ## 치료를 한눈에 보기
 
 **통증·저림의 분포와 시간패턴 → 신경학적 위험신호 → 경추·근육·신경·MPS 감별 → 한약·침·전침·약침 → 재평가** 순으로 봅니다.
+
+## 목이 뻐근하다는 사실만으로 진단하지 않습니다 {#causation}
+
+경추성두통은 경추의 구조나 주변 조직 문제와 두통 사이의 인과관계를 확인하는 진단입니다. 목 움직임 제한과 특정 움직임에 의한 두통 악화, 목 상태와 두통 경과의 연동을 봅니다. 영상에 퇴행성 변화가 있다는 사실만으로 원인이 확정되지는 않습니다. [국제두통질환분류 경추성두통 기준](https://ichd-3.org/11-headache-or-facial-pain-attributed-to-disorder-of-the-cranium-neck-eyes-ears-nose-sinuses-teeth-mouth-or-other-facial-or-cervical-structure/11-2-headache-attributed-to-disorder-of-the-neck/11-2-1-cervicogenic-headache/)
+
+| 함께 확인할 양상 | 이어서 보기 |
+|---|---|
+| 오심·빛 민감성과 발작이 반복됨 | [편두통](migraine.md) |
+| 머리를 조이고 스트레스·수면과 연동됨 | [긴장성두통](tension-headache.md) |
+| 후두부가 짧게 전기 오듯 쏨 | [후두신경통](occipital-neuralgia.md) |
+| 팔·손저림이나 근력저하까지 동반 | [목디스크](cervical-disc-herniation.md) |
+
+## 목 기능과 두통을 따로 기록합니다 {#care-followup}
+
+진료에서는 고개를 돌리는 범위, 평소 두통을 재현하는 자세, 목과 어깨의 압통을 확인합니다. 침·전침은 [목·어깨 경혈](../acupuncture-integrated/points-for-neck-shoulder.md)과 [두통 경혈](../acupuncture-integrated/points-for-headache.md)을 연결하며 약침의 필요성은 실제 표적과 안전을 검토해 정합니다.
+
+한약은 급성 풍한·기체의 목 굳음이면 [회수산](../formulas/huishou-san.md), 외상 후 어혈성 통증이면 [당귀수산](../formulas/danggui-susan.md), 반복 두통의 여러 풍·열·혈분 맥락이면 [청상견통탕](../formulas/qingshang-juantong-tang.md) 등을 비교합니다. 회수산을 일반적인 어혈 처방으로 묶지 않고, 목디스크나 경추성두통 전체에 일괄 적용하지 않습니다.
+
+두통 강도·일수와 목 회전·운전·화면 작업의 불편을 각각 비교합니다. 강한 목 꺾기나 통증을 참는 스트레칭보다 평가 결과에 맞는 움직임을 선택하고, 새로운 신경 증상이나 갑작스러운 심한 두통이 있으면 재평가합니다.
 
 ## 기존 지식망과 연결
 

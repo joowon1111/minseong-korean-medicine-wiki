@@ -52,6 +52,12 @@ Choi MG et al. *Randomized, Controlled, Multi-center Trial: Comparing the Safety
 
 **식사와의 관계·배변·시간패턴·스트레스 → 위험신호 → 소화기 기능과 병증 → 한약·침·약침 → 재평가** 순으로 봅니다.
 
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+신물·속쓰림, 실제 삼킴장애와 다른 목이물감, 긴장에 따른 소화불편을 구분해 읽습니다. 소화력·오심·냉열·피로에 따른 변증과 처방의 차이로 이어집니다.
+
+[역류성식도염](gerd.md) · [매핵기](globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md)
+
 ## 기존 지식망과 연결
 
 - [소화불량](dyspepsia.md)

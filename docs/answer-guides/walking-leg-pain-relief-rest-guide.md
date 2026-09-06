@@ -1,4 +1,4 @@
-﻿---
+---
 title: 걸으면 다리가 당기고 쉬면 괜찮아지는 이유는 무엇인가요?
 description: 보행 시 다리 당김을 거리·허리자세·저림·혈류·척추관협착 가능성과 함께 설명합니다.
 tags: [보행통증, 다리당김, 척추관협착증, 하지저림, 요통]
@@ -26,3 +26,8 @@ tags: [보행통증, 다리당김, 척추관협착증, 하지저림, 요통]
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
 
+## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+
+허리·다리 증상은 방사통의 경로와 앉기·서기·보행의 차이를 함께 확인합니다. 원인별 안내에서 신경학적 평가와 변증·한약·침치료, 보행 회복으로 이어갈 수 있습니다.
+
+[허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)
