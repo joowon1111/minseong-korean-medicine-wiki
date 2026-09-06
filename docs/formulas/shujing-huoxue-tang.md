@@ -93,3 +93,7 @@ last_reviewed: 2026-09-06
 풍습·혈허·어혈의 처방 구조를 만성 통증과 비교하되 급성 결정성 관절염이나 지속 활막염의 치료를 먼저 확인합니다.
 
 [아침강직·조조강직](../conditions/morning-stiffness.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [통풍·요산 관리](../conditions/gout.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
+
+## 전신근육통·관절통에서 본초 배합 읽기
+
+[당귀](../herbs/angelica.md)·[백작약](../herbs/white-peony.md)·[우슬](../herbs/achyranthes.md)을 양혈·활혈·요슬부 배합으로 읽고, [통증 본초·처방 안내](../herbal-integrated/herbs-for-pain.md)에서 쌍화탕의 기혈 회복, 오적산의 한습·담습, 독활기생탕의 허약을 동반한 풍한습비와 비교합니다. 증상별 출발점은 [전신근육통](../conditions/whole-body-ache.md)입니다.

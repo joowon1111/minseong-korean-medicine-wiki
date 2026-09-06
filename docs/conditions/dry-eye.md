@@ -62,17 +62,21 @@ last_reviewed: 2026-09-06
 
 치료 전후에는 건조감뿐 아니라 화면을 볼 수 있는 시간, 점안 빈도, 시야 불편과 안과 검사 결과를 함께 비교합니다. 눈 주변 침은 해부학적 안전성을 고려해 의료인이 시행하며, 눈을 직접 누르거나 자가 시술하지 않습니다.
 
-## 기존 지식망과 연결
+## 건조에 피로가 겹칠 때의 본초·방제
+
+[구기자](../herbs/cornus-extra.md)·[국화](../herbs/chrysanthemum.md)와 [기국지황환](../formulas/qiju-dihuang-wan.md)은 간신음허·명목의 전통적 배합을 이해하는 연결입니다. [눈피로 본초·처방 안내](../herbal-integrated/herbs-for-eye-fatigue.md)에서 혈허·수면 피로의 다른 처방과 비교합니다. 안구건조의 유형과 안구표면 치료는 함께 평가하며, 이 전통적 연결이 모든 안구건조에 대한 동일한 임상효과를 뜻하지 않습니다.
+
+## 기존 지식망과 연결 {#_7}
 
 - [증상·질환 한눈에 보기](index.md)
 - [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 - [침구·치료 찾기](../acupuncture-integrated/by-symptom.md)
 - [치료 안전·위험신호](../acupuncture-integrated/safety.md)
 
-## 검색 동의어
+## 검색 동의어 {#_8}
 
 안구건조 · 눈이 뻑뻑해요 · 눈이 시려요 · 눈에 모래가 들어간 느낌 · 컴퓨터 보면 눈이 건조해요 · Dry Eye
 
-### 침 치료 최신 임상근거
+### 침 치료 최신 임상근거 {#_9}
 
 - **Intradermal Acupuncture for Moderate to Severe Dry Eye Disease: a pilot randomized controlled trial** — 2025 pilot RCT에서는 중등도–중증 안구건조증에서 피내침을 평가했습니다. OSDI와 Schirmer test 등 안구건조 관련 임상지표를 중심으로 살펴볼 수 있는 최근 침 임상연구입니다. [DOI: 10.3831/KPI.2025.28.4.301](https://doi.org/10.3831/KPI.2025.28.4.301)

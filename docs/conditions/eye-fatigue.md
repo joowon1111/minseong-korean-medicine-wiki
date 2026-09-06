@@ -56,9 +56,15 @@ last_reviewed: 2026-09-06
 
 ## 피로·수면을 고려한 한의치료 {#eye-fatigue-formulas}
 
-[혈허](../diagnostics/blood-deficiency.md)나 [기혈부족](../diagnostics/patterns/qi-blood-deficiency.md)은 어지럼·피로·회복 상태를 함께 보는 전통적인 변증 틀입니다. 식욕저하·심계·불면이 겹치는 심비양허는 [귀비탕](../formulas/guibi-tang.md), 허약과 기혈부족은 [팔진탕](../formulas/bazhen-tang.md), 건조와 허열의 맥락은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md)의 구성을 비교합니다. 눈피로만으로 처방을 선택하거나 시력 교정을 대신하는 방식은 아닙니다.
+[혈허](../diagnostics/blood-deficiency.md)나 [기혈부족](../diagnostics/patterns/qi-blood-deficiency.md)은 어지럼·피로·회복 상태를 함께 보는 전통적인 변증 틀입니다. 식욕저하·심계·불면이 겹치는 심비양허는 [귀비탕](../formulas/guibi-tang.md), 허약과 기혈부족은 [팔물탕](../formulas/bazhen-tang.md), 건조와 허열의 맥락은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md)의 구성을 비교합니다. 눈피로만으로 처방을 선택하거나 시력 교정을 대신하는 방식은 아닙니다.
 
 침구치료는 안전한 눈 주변·원위 경혈과 함께 동반된 목·어깨 긴장을 평가해 구성합니다. **작업 지속시간, 휴식 후 회복, 두통 빈도, 수면**을 기록하면 눈 자체의 불편과 전신 피로의 변화가 구분됩니다.
+
+## 눈피로에 쓰는 주요 본초와 탕제 {#eye-fatigue-herbal-network}
+
+[구기자](../herbs/cornus-extra.md)·[국화](../herbs/chrysanthemum.md)는 명목 관련 배합을, [당귀](../herbs/angelica.md)·[백작약](../herbs/white-peony.md)·[숙지황](../herbs/rehmannia-preparata.md)은 혈허·음의 소모와 관련한 배합을 비교할 때 중요합니다. 건조·허열과 간신음허 양상은 [기국지황환·기국지황탕](../formulas/qiju-dihuang-wan.md)의 구조를 살핍니다.
+
+불면·심계·식욕저하가 중심인 귀비탕의 맥락, 기혈부족을 보는 팔물탕의 맥락과 구분합니다. 자세한 비교는 [눈의 피로에 쓰는 본초와 한약 처방](../herbal-integrated/herbs-for-eye-fatigue.md)으로 연결했습니다. 본초와 방제를 고르는 기준은 증상명 하나가 아니라 동반 상태와 진찰입니다.
 
 ## 기존 지식망과 연결
 

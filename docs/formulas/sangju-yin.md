@@ -1,8 +1,8 @@
-﻿---
+---
 title: 상국음(桑菊飮)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-09-06
 description: 상국음(桑菊飮) — 한약 처방의 구성·치법·병증·본초와 임상 활용을 연결하는 방제 문서입니다.
 ---
 # 상국음(桑菊飮)
@@ -34,3 +34,6 @@ description: 상국음(桑菊飮) — 한약 처방의 구성·치법·병증·�
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 
+## 국화의 배합은 처방에 따라 다릅니다
+
+본방의 [상엽](../herbs/mulberry-leaf.md)·[국화](../herbs/chrysanthemum.md)는 외감 풍열의 구조에서 읽습니다. [기국지황환](qiju-dihuang-wan.md)의 구기자·국화와 육미지황 계열은 간신음허를 비교하는 다른 배합입니다. [눈피로 본초 안내](../herbal-integrated/herbs-for-eye-fatigue.md)에서 두 처방의 목적을 구분합니다.

@@ -3,7 +3,7 @@ title: 온몸이 쑤셔요·전신근육통
 description: 온몸이 쑤셔요·전신근육통을 환자 생활언어에서 MPS·근골격 감별·한약·침·전침·약침까지 연결합니다.
 tags: [근골격, MPS, 통증, 약침, 환자검색]
 status: 검토완료
-last_reviewed: 2026-08-21
+last_reviewed: 2026-09-06
 ---
 # 온몸이 쑤셔요·전신근육통
 
@@ -39,6 +39,23 @@ last_reviewed: 2026-08-21
 ## MPS·기능평가와 함께 보기
 
 근골격계 증상은 단순 통증 위치뿐 아니라 **유발동작·ROM·근력·근긴장·MTrP·연관통·신경증상**을 함께 보는 것이 중요합니다. 침·전침·약침은 해부학적 안전을 바탕으로 실제 기능문제에 맞게 적용하고, 한약은 한습·어혈·기체·기혈허 등 병증과 연결합니다.
+
+## 근육통·관절통·쥐 나는 통증의 차이 {#body-ache-differences}
+
+| 불편의 중심 | 함께 확인할 점 | 다음 문서 |
+|---|---|---|
+| 운동·작업 뒤 여러 근육이 쑤심 | 부하 변화, 수면, 근력·회복 | [육체피로와 회복지연](poor-recovery-after-exercise.md) |
+| 근육이 갑자기 단단해지고 당김 | 경련 빈도, 수분·복용약·신경 증상 | [근육경련](muscle-cramps.md) |
+| 특정 관절이 붓고 뜨겁거나 움직이기 어려움 | 관절의 염증·손상과 원인 진단 | [관절통·근육통 본초 안내](../herbal-integrated/herbs-for-pain.md) |
+| 목·어깨 등 특정 동작에서 반복되는 통증 | 근육 긴장, 유발점, 자세·기능 | [근육 긴장](muscle-tightness.md) |
+
+## 피로와 통증이 겹칠 때의 한약 비교 {#body-ache-herbal-care}
+
+과로와 기혈부족의 맥락은 [쌍화탕](../formulas/ssanghwa-tang.md), 혈허·어혈·풍습이 겹친 팔다리 통증은 [소경활혈탕](../formulas/shujing-huoxue-tang.md), 냉감·무거움과 소화·담습 문제가 겹친 양상은 [오적산](../formulas/wujisan.md)의 구성을 비교합니다. 갑자기 당기는 경련성 통증은 [작약감초탕](../formulas/shaoyao-gancao-tang.md)과 연결하지만 모든 전신근육통을 같은 처방으로 설명하지 않습니다.
+
+본초는 [백작약](../herbs/white-peony.md)의 양혈·완급 배합, [당귀](../herbs/angelica.md)·[천궁](../herbs/chuanxiong.md)의 양혈·활혈, [황기](../herbs/astragalus.md)의 보기 역할을 나누어 봅니다. 진단별 근거는 [근골격 한약 근거 지도](../authority/formulas/musculoskeletal-herbal-evidence.md)로 연결됩니다.
+
+침·전침은 아픈 부위와 움직임을 평가해 적용하며, 약침은 성분과 해당 적응증을 확인합니다. 치료 후에는 통증 점수뿐 아니라 보행·작업·수면과 회복이 함께 좋아지는지 확인합니다.
 
 ## 기존 지식망과 연결
 

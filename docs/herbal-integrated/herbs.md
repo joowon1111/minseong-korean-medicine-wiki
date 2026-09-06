@@ -2,10 +2,10 @@
 title: 본초 찾기
 tags: [본초, 방제, 임상본초, 통합허브]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활혈, 이수·삼습 등 효능별로 주요 본초와 대표 처방을 연결합니다.
 ---
-# 본초 찾기
+# 본초 찾기 {#herbs-index}
 
 본초를 단독 효능으로만 보지 않고 **치법 → 본초군 → 실제 처방에서의 역할**까지 연결합니다.
 
@@ -26,7 +26,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
 | [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | [연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md)·[산약](../herbs/dioscorea.md) | 보비·건비와 지사 배합 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
-| [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/rehmannia-preparata.md) | 자보간신·정혈 보익 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
+| [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/rehmannia-preparata.md) | 자보간신·정혈 보익 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md)  · [기국지황환](../formulas/qiju-dihuang-wan.md) |
 | [토사자](../herbs/cuscuta-seed.md)·[구기자](../herbs/cornus-extra.md) | 보신익정·정혈과 수렴 배합 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
 | [육종용](../herbs/cistanche.md)·[당귀](../herbs/angelica.md) | 익정혈과 윤장통변 | [제천전](../formulas/jichuan-jian.md) |
 
@@ -71,6 +71,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [지모](../herbs/anemarrhena.md)·[황백](../herbs/phellodendron.md) | 자음양혈 배합 속 허열 조절 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | [용담·용담초](../herbs/gentian-root.md)·[치자](../herbs/gardenia.md) | 청열조습·사간담화와 사화제번 | [용담사간탕](../formulas/longdan-xiegan-tang.md) |
 | [인진·인진호](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md) | 청리습열·퇴황과 배합 비교 | [인진의 대표 배합](../herbs/artemisia-capillaris.md) |
+| [국화·감국](../herbs/chrysanthemum.md) | 명목·풍열 관련 배합과 국내·해외 기원 구분 | [기국지황환](../formulas/qiju-dihuang-wan.md) · [상국음](../formulas/sangju-yin.md) |
 
 ## 활혈·거어 {#_5}
 
@@ -144,3 +145,9 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 ### 배합을 돕는 본초 {#harmonizing-herbs}
 
 [감초](../herbs/licorice.md)·[생강](../herbs/fresh-ginger.md)·[대조](../herbs/jujube-fruit.md)는 주요 본초의 배합을 살필 때 함께 참고합니다. 감초의 완급·조화, 생강의 온중·지구, 대조의 보중·조화 역할은 각 처방의 구성 안에서 확인할 수 있습니다.
+
+## 피로·눈피로·통증에서 효능별 본초 찾아보기 {#fatigue-eye-pain-herbs}
+
+- [육체피로·기력회복](herbs-for-fatigue.md): 인삼·황기와 당귀·백작약·숙지황의 보기·보혈 배합.
+- [눈의 피로](herbs-for-eye-fatigue.md): 구기자·국화의 명목 배합과 혈허·음허의 구분.
+- [통증·관절통·근육통](herbs-for-pain.md): 양혈·활혈·거풍습·보간신강근골과 주요 방제.

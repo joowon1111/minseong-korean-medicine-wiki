@@ -74,3 +74,7 @@ last_reviewed: 2026-09-06
 인삼은 보기·건비·생진의 배합을 이해하는 출발점입니다. 특정 성분의 면역 실험 결과와 완성된 처방의 임상효과를 구분해 살핍니다.
 
 [면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)
+
+## 육체피로 연구와 실제 처방 연결
+
+인삼 단독과 인삼 함유 복합처방의 피로 연구는 나누어 읽습니다. 피로감 개선 결과를 운동 수행능력 향상으로 바꾸어 설명하지 않습니다. [NCCIH 인삼 자료](https://www.nccih.nih.gov/health/asian-ginseng), [인삼 처방 임상근거](../authority/formulas/ginseng-formula-fatigue.md). 실제 배합 비교는 [육체피로 본초·처방 안내](../herbal-integrated/herbs-for-fatigue.md)에서 보중익기탕·팔물탕·십전대보탕으로 연결됩니다.

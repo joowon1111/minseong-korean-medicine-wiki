@@ -52,3 +52,7 @@ Astragalus polysaccharides 역시 면역조절을 비롯한 다양한 생리활�
 황기의 보기·고표·수습 조절 역할은 처방 배합에 따라 달라집니다. 옥병풍산·보중익기탕 등과 연결해 주증상과 회복 목표를 확인합니다.
 
 [면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)
+
+## 육체피로에서 인삼·당귀·작약과 비교
+
+[보중익기탕](../formulas/buzhong-yiqi-tang.md)의 인삼·황기 배합과 [쌍화탕](../formulas/ssanghwa-tang.md)의 황기·작약·당귀 배합은 구성이 다릅니다. 전자는 보기·비위·승양, 후자는 과로와 기혈부족을 함께 보는 비교점입니다. [육체피로 본초·탕제 안내](../herbal-integrated/herbs-for-fatigue.md)에서 동반 증상에 따른 차이를 확인합니다.

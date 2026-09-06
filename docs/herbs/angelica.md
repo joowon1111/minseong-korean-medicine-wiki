@@ -3,7 +3,7 @@ title: 당귀(當歸)
 description: 당귀의 보혈·활혈 전통과 주요 성분, 혈액·순환·여성건강 등 현대 연구를 정리합니다.
 tags: [본초학, 보익약, 당귀]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-06
 ---
 # 당귀(當歸)
 
@@ -49,3 +49,7 @@ last_reviewed: 2026-08-19
 ## 참고문헌
 1. Zhang Y, et al. *Angelica sinensis: Botany, Traditional Uses, Phytochemistry, Pharmacology, Safety, and Applications.* 2026. PMID **42366516**; DOI **10.1142/S0192415X2650045X**.
 2. Wei WL, et al. *Angelica sinensis in China—A review of botanical profile, ethnopharmacology, phytochemistry and chemical analysis.* PMID **27211015**.
+
+## 피로·근육통·눈피로에서 배합 비교
+
+당귀의 양혈·활혈 배합은 [쌍화탕](../formulas/ssanghwa-tang.md)의 과로·허약, [소경활혈탕](../formulas/shujing-huoxue-tang.md)의 통증, [사물탕](../formulas/siwu-tang.md)의 혈허를 비교하는 연결입니다. [피로 본초](../herbal-integrated/herbs-for-fatigue.md)·[통증 본초](../herbal-integrated/herbs-for-pain.md)·[눈피로 본초](../herbal-integrated/herbs-for-eye-fatigue.md)에서 동반 양상에 따른 역할을 살펴봅니다.

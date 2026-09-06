@@ -114,3 +114,7 @@ last_reviewed: 2026-09-06
 ## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
 
 심비양허와 식사·수면·피로를 함께 평가하는 예는 [눈피로](../conditions/eye-fatigue.md)·[눈꺼풀떨림](../conditions/eye-twitching.md)·[반복 구내염](../conditions/mouth-ulcer.md)에서 볼 수 있습니다. 국소 질환과 동반 병증을 구분해 처방 필요성을 판단합니다.
+
+## 눈피로에 수면·심계·소화 문제가 겹칠 때
+
+눈피로와 함께 불면·심계·식욕저하가 나타날 때에는 심비양허의 배합을 검토합니다. [눈피로 본초·처방 안내](../herbal-integrated/herbs-for-eye-fatigue.md)에서 간신음허를 보는 [기국지황환](qiju-dihuang-wan.md), 기혈부족을 보는 [팔물탕](bazhen-tang.md)과 비교합니다. 눈의 굴절·안구표면 문제는 별도로 평가합니다.

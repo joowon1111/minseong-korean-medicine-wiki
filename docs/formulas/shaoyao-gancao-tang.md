@@ -63,3 +63,7 @@ last_reviewed: 2026-09-06
 같은 통증 처방이라도 디스크 관련 방사통과 협착증의 보행 불편에서는 평가 목표가 다릅니다. 전통적 변증을 신경학적 상태·근력·보행과 함께 해석합니다.
 
 [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [좌골신경통](../conditions/sciatica.md)
+
+## 경련과 일반 근육통을 구분하기
+
+갑자기 근육이 당기는 [근육경련](../conditions/muscle-cramps.md)과 과로 후 넓게 쑤시는 [전신근육통](../conditions/whole-body-ache.md)은 구분합니다. [백작약](../herbs/white-peony.md)이 들어가는 쌍화탕·소경활혈탕과의 차이는 [통증 본초·방제 비교](../herbal-integrated/herbs-for-pain.md)에서 볼 수 있습니다. 본방의 경련 연구를 모든 운동 후 근육통의 치료 근거로 확대하지 않습니다.

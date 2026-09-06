@@ -2,7 +2,7 @@
 title: 구기자(枸杞子)
 tags: [본초, 임상본초, 주요본초]
 status: 검토필요
-last_reviewed: '2026-09-05'
+last_reviewed: 2026-09-06
 description: 구기자(枸杞子) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
 ---
 # 구기자(枸杞子)
@@ -67,3 +67,7 @@ description: 구기자(枸杞子) — 본초의 성미·귀경·효능·병증·
 
 - [홍콩침례대 구기자 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00227) — 기원·약용 부위·전통 효능
 - [효능별 본초 찾기](../herbal-integrated/herbs.md#_1)
+
+## 구기자와 눈피로의 배합
+
+[기국지황환·기국지황탕](../formulas/qiju-dihuang-wan.md)은 육미지황 계열에 구기자·국화를 더한 구조입니다. [국화](chrysanthemum.md)의 명목·풍열 관련 역할과 구기자의 자보간신 역할을 비교합니다. [눈피로의 주요 본초와 처방](../herbal-integrated/herbs-for-eye-fatigue.md)에서는 건조·혈허·수면 피로를 구분해 볼 수 있습니다.

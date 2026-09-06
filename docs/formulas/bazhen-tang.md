@@ -81,3 +81,7 @@ last_reviewed: 2026-09-06
 ## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
 
 기혈부족과 피로를 동반하는 [눈피로](../conditions/eye-fatigue.md)는 시력·안구건조 평가와 함께 봅니다. 처방 비교는 전신 병증에 근거하며 시력 교정 효과를 뜻하지 않습니다.
+
+## 육체피로와 눈피로에 겹치는 기혈부족
+
+[육체피로 본초·탕제 비교](../herbal-integrated/herbs-for-fatigue.md)에서 사군자탕·사물탕의 결합을, [눈피로 본초·탕제 비교](../herbal-integrated/herbs-for-eye-fatigue.md)에서 혈허와 기허가 겹치는 맥락을 읽습니다. 눈의 건조·허열을 보는 [기국지황환](qiju-dihuang-wan.md)과는 배합 구조가 다릅니다.

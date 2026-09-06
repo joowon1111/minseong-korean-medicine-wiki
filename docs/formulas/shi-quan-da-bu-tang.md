@@ -47,3 +47,7 @@ last_reviewed: 2026-09-06
 기혈양허와 오래된 쇠약·회복 지연을 살피며, 열감·소화력·냉감·땀의 양상에 따라 다른 보익 처방과 비교합니다.
 
 [면역 전체 안내](../immune-allergy/index.md) · [면역력 저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) · [보익 본초·처방 비교](../immune-allergy/tonic-herb-formula-map.md)
+
+## 쌍화탕·팔물탕과 육체피로 비교
+
+[팔물탕](bazhen-tang.md)의 보기·보혈에 황기·육계를 더한 구성을 중심으로 기혈부족과 냉감·허약을 살핍니다. [쌍화탕](ssanghwa-tang.md)의 과로·회복 맥락과 [보중익기탕](buzhong-yiqi-tang.md)의 보기·비위 맥락을 [육체피로 처방 안내](../herbal-integrated/herbs-for-fatigue.md)에서 비교할 수 있습니다.

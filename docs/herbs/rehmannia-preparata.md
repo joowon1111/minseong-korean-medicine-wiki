@@ -1,4 +1,4 @@
-﻿---
+---
 title: 숙지황(熟地黃) — 보혈·자음 처방의 중심 본초
 description: 숙지황의 전통 효능, 가공의 의미, 사물탕·팔물탕·십전대보탕 등 보익 처방에서의 역할과 품질을 설명합니다.
 tags: [숙지황, 보혈, 사물탕, 십전대보탕, 보약]
@@ -42,3 +42,6 @@ tags: [숙지황, 보혈, 사물탕, 십전대보탕, 보약]
 
 <!-- QUALITY_DEPTH_05_END -->
 
+## 회복·눈피로와 지황 배합
+
+[팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md)에서는 보기·보혈의 결합을, [기국지황환](../formulas/qiju-dihuang-wan.md)에서는 지황 계열과 구기자·국화의 배합을 비교합니다. 실제 지황의 포제·구성을 확인하면서 [육체피로](../herbal-integrated/herbs-for-fatigue.md)와 [눈피로](../herbal-integrated/herbs-for-eye-fatigue.md)의 변증 차이를 읽습니다.

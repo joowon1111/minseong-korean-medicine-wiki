@@ -2,7 +2,7 @@
 title: 쌍화탕(雙和湯)
 tags: [방제학, 쌍화탕, 기혈허, 노권, 피로, 회복, 방약합편, 상용처방]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-06
 description: 쌍화탕의 기혈쌍보·영위조화 구조와 과로 후 피로·근육 긴장·회복저하의 감별, 만성피로 무작위 임상시험을 연결합니다.
 ---
 # 쌍화탕(雙和湯)
@@ -82,3 +82,7 @@ description: 쌍화탕의 기혈쌍보·영위조화 구조와 과로 후 피로
 - [공진단](gongjin-dan.md)
 - [경옥고](gyeongok-go.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+## 육체피로·몸이 쑤시는 양상에서 비교
+
+[육체피로·운동 후 회복지연](../conditions/poor-recovery-after-exercise.md)과 [전신근육통](../conditions/whole-body-ache.md)에서는 활동량·수면·손상 여부를 함께 살핍니다. 쌍화탕의 작약·당귀·황기 배합을 [보중익기탕](buzhong-yiqi-tang.md)의 보기 중심 배합, [팔물탕](bazhen-tang.md)의 기혈쌍보와 비교합니다. [피로 본초·탕제 안내](../herbal-integrated/herbs-for-fatigue.md)에서 주요 본초의 역할을 볼 수 있습니다.

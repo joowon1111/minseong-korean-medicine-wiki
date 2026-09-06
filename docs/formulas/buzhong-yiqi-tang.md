@@ -110,3 +110,7 @@ last_reviewed: 2026-09-06
 피로·섭취 저하가 있으면 통증·수면·근력의 동반 양상을 구분합니다. 섬유근육통의 침 연구를 해당 처방의 효과로 옮겨 해석하지 않습니다.
 
 [근감소증·노쇠](../conditions/frailty-sarcopenia.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
+
+## 육체피로에서 다른 보익탕제와 비교
+
+쉽게 처지고 식욕·기력이 약한 기허를 보는 본방과, 과로 후 기혈부족을 보는 [쌍화탕](ssanghwa-tang.md), 보기·보혈을 함께 구성하는 [팔물탕](bazhen-tang.md)을 비교합니다. [육체피로의 본초와 처방](../herbal-integrated/herbs-for-fatigue.md) 및 [운동 후 회복 평가](../conditions/poor-recovery-after-exercise.md)로 연결됩니다.
