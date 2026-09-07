@@ -15,6 +15,8 @@ jobs:
         with:
           python-version: '3.13'
       - run: pip install pyyaml
+      - name: Check for committed secrets
+        run: python tools/check_secrets.py
       - run: python tools/build_korean_search_index.py
       - name: Commit search index if changed
         run: |
