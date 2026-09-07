@@ -27,6 +27,9 @@ jobs:
       - name: Build Korean search index
         run: python tools/build_korean_search_index.py
 
+      - name: Check for committed secrets
+        run: python tools/check_secrets.py
+
       - name: Build AI knowledge layer
         run: python tools/build_ai_knowledge_layer.py
 
