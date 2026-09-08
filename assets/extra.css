@@ -5,6 +5,53 @@
   --md-primary-fg-color--dark: #174536;
 }
 
+/* Static reading aids: usable without JavaScript, including on mobile. */
+.archive-breadcrumbs, .archive-reading-tools {
+  font-size: .7rem;
+  color: var(--md-default-fg-color--light);
+  margin: .5rem 0 1rem;
+  overflow-wrap: anywhere;
+}
+.archive-reading-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .4rem 1rem;
+}
+.archive-breadcrumbs a, .archive-reading-tools a {
+  display: inline-block;
+  padding: .3rem 0;
+}
+.archive-related {
+  margin: 2rem 0 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+.archive-related-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
+  gap: .7rem;
+}
+.archive-related-card {
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .4rem;
+  overflow-wrap: anywhere;
+}
+.archive-related-card span {
+  color: var(--md-default-fg-color--light);
+  font-size: .75rem;
+}
+.archive-related-card:hover, .archive-related-card:focus-visible {
+  border-color: var(--md-accent-fg-color);
+}
+@media print {
+  .archive-reading-tools nav, .archive-related { display: none; }
+}
+
 .hero-box {
   padding: 2.2rem 2.4rem;
   margin: 0 0 2rem 0;
