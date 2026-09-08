@@ -37,7 +37,7 @@ description: 증상별 초진 기준점과 생활 기능, 치료 후 불편, 유
 | 반복 치료에도 의미 있는 변화가 없음 | 진단 가설·목표·치료 구성·검사나 협진 필요성을 재검토 |
 | 새 신경 증상·전신 악화·중대한 이상 반응 | 기존 계획의 연장보다 원인 평가와 필요한 대응을 우선 |
 
-수면 문제는 밤의 수면과 낮의 기능을 함께 보는 것이 중요합니다. [NHLBI 수면일지](https://www.nhlbi.nih.gov/resources/sleep-diary)처럼 수면·활동·약물과 자극물 섭취를 같은 기록에서 비교하면 경과 해석에 도움이 됩니다. 두통은 [NICE 두통 지침](https://www.nice.org.uk/guidance/cg150/chapter/recommendations)의 일지 항목처럼 빈도·지속시간·동반 증상·약물 사용을 함께 확인합니다.
+수면 문제는 밤의 수면과 낮의 기능을 함께 보는 것이 중요합니다. 수면·활동·약물과 카페인·음주를 같은 기록에서 비교하면 경과 해석에 도움이 됩니다. [하루 한 줄 변화 기록표](../conditions/herbal-followup.md#daily-record)에 필요한 항목을 적어 활용할 수 있습니다. 두통은 [NICE 두통 지침](https://www.nice.org.uk/guidance/cg150/chapter/recommendations)의 일지 항목처럼 빈도·지속시간·동반 증상·약물 사용을 함께 확인합니다.
 
 ### 치료 후 불편을 기록할 때 {#adverse-response-record}
 
