@@ -58,7 +58,7 @@ class DiscoveryTests(unittest.TestCase):
         self.assertIn('시험 &lt;문서&gt;', content)
         self.assertIn('https://example.org/wiki/conditions/', content)
         self.assertIn('"position":3', output)
-        self.assertIn('"lastReviewed":"2026-01-02"', output)
+        self.assertNotIn('lastReviewed', output)
         self.assertNotIn('dateModified', output)
 
     def test_existing_medical_schema_is_not_duplicated(self):
@@ -80,14 +80,16 @@ class DiscoveryTests(unittest.TestCase):
         self.assertIn('\\u003c/script\\u003e', output)
         self.assertEqual(payload['title'], self.page.title)
 
-    def test_empty_body_and_invalid_or_future_review_date(self):
-        for value in (None, '', {}, 'invalid', '2026-02-30', (date.today() + timedelta(days=1)).isoformat()):
+    def test_review_dates_stay_private_for_all_values(self):
+        for value in ('2026-01-02', date(2026, 1, 2), None, '', {}, 'invalid', '2026-02-30', (date.today() + timedelta(days=1)).isoformat()):
             self.page.meta['last_reviewed'] = value
             content, output, payload = self.render('')
             self.assertNotIn('문서 검토일', content)
             self.assertNotIn('lastReviewed', output)
             self.assertNotIn('last_reviewed', payload)
             self.assertEqual(payload['text'], '')
+            self.assertNotIn('archive-reading-tools', content)
+            self.assertEqual(self.page.meta['last_reviewed'], value)
 
     def test_unsafe_urls_are_not_exported(self):
         for value in ('javascript:alert(1)', 'data:text/html,test', 'https://user:pass@example.org/', 'https://[', '/bad\\path', '/line\nbreak', None):

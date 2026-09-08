@@ -29,13 +29,14 @@ class BuildOutputs(unittest.TestCase):
             docs = Path(tmp)
             (docs/'conditions').mkdir()
             (docs/'index.md').write_text('# Home\n[one](conditions/a.md) [two](conditions/a.md)')
-            (docs/'conditions/a.md').write_text('---\nkcd: G47\n---\n# 불면\nG99 in body\nPMID: 12345678')
+            (docs/'conditions/a.md').write_text('---\nkcd: G47\nlast_reviewed: 2026-01-02\n---\n# 불면\nG99 in body\nPMID: 12345678')
             with patch.object(ai, 'DOCS', docs):
                 entities, relations = ai.build()
                 ai.validate(entities, relations)
                 self.assertEqual((entities, relations), ai.build())
                 self.assertEqual(len(relations), 1)
                 entity = next(e for e in entities if e['name'] == '불면')
+                self.assertNotIn('last_reviewed', entity)
                 self.assertEqual(entity['codes'], {'kcd': ['G47']})
                 self.assertEqual(entity['evidence_ids']['pmid'], ['12345678'])
                 for url in ('https://evil.test/a', 'http://[broken', '../outside.md', 'javascript:alert(1)'):

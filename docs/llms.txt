@@ -24,7 +24,7 @@ Official clinic: https://minseong.co.kr/
 
 The knowledge layer represents public archive pages as typed entities and internal relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
 
-For a single topic, use the page index to retrieve its page-sized JSON document instead of downloading the entire graph. Each HTML page also advertises its JSON document with a `link rel="alternate" type="application/json"` element. These documents contain the rendered article text, canonical URL, real heading anchors, and links to sources and related pages. They are generated together with the HTML at every build. Cite the canonical HTML URL and its heading anchors, not the JSON file. A recorded review date is not a guarantee that every cited study is current; follow source links and preserve safety statements and evidence limitations. No private metadata or patient information is exported.
+For a single topic, use the page index to retrieve its page-sized JSON document instead of downloading the entire graph. Each HTML page also advertises its JSON document with a `link rel="alternate" type="application/json"` element. These documents contain the rendered article text, canonical URL, real heading anchors, and links to sources and related pages. They are generated together with the HTML at every build. Cite the canonical HTML URL and its heading anchors, not the JSON file. Follow source links and preserve safety statements and evidence limitations. No private metadata or patient information is exported.
 
 ## Core knowledge areas
 

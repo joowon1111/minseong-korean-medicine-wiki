@@ -4,7 +4,6 @@ Exports use rendered article content, never arbitrary front matter or source fil
 No browser JavaScript, tracking, clinical inference, or external requests are needed.
 """
 
-from datetime import date
 from html import escape
 from html.parser import HTMLParser
 import json
@@ -117,14 +116,6 @@ class Article(HTMLParser):
         return "\n".join(line for part in "".join(self.text).splitlines() if (line := plain(part)))
 
 
-def reviewed_date(value):
-    try:
-        parsed = date.fromisoformat(str(value))
-        return parsed.isoformat() if parsed <= date.today() else None
-    except (TypeError, ValueError):
-        return None
-
-
 def breadcrumb_items(page, files, config):
     root = config["site_url"]
     items = [{"name": "홈", "url": root}]
@@ -167,7 +158,6 @@ def on_page_content(html, page, config, files):
     article.feed(html)
     breadcrumbs = breadcrumb_items(page, files, config)
     related = related_items(page, files, config)
-    reviewed = reviewed_date(page.meta.get("last_reviewed"))
     prefix = ""
     if len(breadcrumbs) > 1:
         links = [f'<a href="{escape(item["url"], quote=True)}">{escape(item["name"])}</a>' for item in breadcrumbs[:-1]]
@@ -180,12 +170,9 @@ def on_page_content(html, page, config, files):
                       if any(term in heading["text"].lower() for term in terms)), None)
         if match:
             quick.append(f'<a href="#{escape(quote(match["id"]), quote=True)}">{label}</a>')
-    if reviewed or quick:
+    if quick:
         prefix += '<div class="archive-reading-tools">'
-        if reviewed:
-            prefix += f'<span>문서 검토일 <time datetime="{reviewed}">{reviewed}</time></span>'
-        if quick:
-            prefix += '<nav aria-label="본문 빠른 이동">' + ' · '.join(quick) + '</nav>'
+        prefix += '<nav aria-label="본문 빠른 이동">' + ' · '.join(quick) + '</nav>'
         prefix += '</div>'
     suffix = ""
     if related:
@@ -194,7 +181,7 @@ def on_page_content(html, page, config, files):
     document_path = 'assets/ai/pages/' + PurePosixPath(page.file.dest_uri).with_suffix('.json').as_posix()
     page.archive_discovery = {
         "article": article, "breadcrumbs": breadcrumbs, "related": related,
-        "reviewed": reviewed, "document_path": document_path,
+        "document_path": document_path,
     }
     return prefix + html + suffix
 
@@ -230,8 +217,6 @@ def on_post_page(output, page, config):
                 "inLanguage": "ko-KR", "isPartOf": {"@id": root + "#website"}}
         if description:
             node["description"] = description
-        if data["reviewed"]:
-            node["lastReviewed"] = data["reviewed"]
         if data["related"]:
             node["relatedLink"] = [item["url"] for item in data["related"]]
         if len(data["breadcrumbs"]) > 1:
@@ -257,8 +242,6 @@ def on_post_page(output, page, config):
                "headings": [{"level": h["level"], "title": h["text"], "url": url + "#" + quote(h["id"])} for h in article.headings],
                "links": links, "related_reading": data["related"],
                "interpretation": "Public article text and navigation only; links do not establish clinical equivalence or treatment recommendations."}
-    if data["reviewed"]:
-        payload["last_reviewed"] = data["reviewed"]
     write_document(config["site_dir"], data["document_path"], payload)
     _page_index[url] = {"url": url, "title": title, "document": document_url}
     del page.archive_discovery  # Do not retain every article's parsed text after rendering.
