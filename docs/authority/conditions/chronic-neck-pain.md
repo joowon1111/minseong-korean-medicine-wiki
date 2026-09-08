@@ -1,4 +1,4 @@
-﻿---
+---
 title: 만성 목통증 — 현대 임상근거 카드
 description: 만성 목통증에서 침 치료의 장기 효과 systematic review·meta-analysis와 통증·침구 지식망을 연결합니다.
 tags: [질환, 임상근거, 침, meta-analysis, PMID]
@@ -13,7 +13,7 @@ last_reviewed: 2026-08-19
 한의학에서는 **기체·어혈·풍한습과 경락의 상태**를 함께 살핀다.
 
 → [목통증](../../conditions/neck-pain.md)  
-→ [목이 뻣뻣하고 아플 때](../../symptoms/longtail/stiff-neck.md)
+→ [목이 뻣뻣하고 아플 때](../../conditions/neck-pain.md)
 
 ## 2024 지속 효과 systematic review·meta-analysis
 2024년 systematic review/meta-analysis는 만성 목통증에서 침 치료 종료 후 지속되는 효과를 평가했다. 연구진은 adjunct therapy로 사용된 침 치료가 일부 비교에서 치료 후 **최소 3개월**까지 통증 및 기능 개선과 연결될 가능성을 보고했다.

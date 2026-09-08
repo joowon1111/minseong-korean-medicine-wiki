@@ -1,4 +1,4 @@
-﻿---
+---
 title: 알레르기비염 — 현대 임상근거 카드
 description: 알레르기비염에서 침 치료 systematic review·meta-analysis와 합곡·족삼리·경맥 지식망을 연결합니다.
 tags: [질환, 임상근거, 침, meta-analysis, PMID]
@@ -34,7 +34,7 @@ last_reviewed: 2026-08-19
 - [수양명대장경](../../meridian-network/large-intestine-meridian.md)
 - [족양명위경](../../meridian-network/stomach-meridian.md)
 
-→ [코막힘·비염](../../symptoms/rhinitis.md)
+→ [코막힘·비염](../../conditions/rhinitis.md)
 
 
 
