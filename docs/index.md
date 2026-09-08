@@ -17,6 +17,19 @@ hide:
 <a class="ms-card" href="portal/sasang/"><strong>☯ 사상의학</strong><span>체질·병증·처방·동의수세보원</span></a>
 <a class="ms-card" href="portal/evidence/"><strong>🔬 연구·근거</strong><span>임상시험·메타분석·PMID·DOI</span></a>
 </div>
+## 지금 궁금한 질문에서 시작하세요 {#patient-questions}
+
+| 궁금한 점 | 먼저 읽을 안내 |
+|---|---|
+| 쉬어도 피곤한데 보약부터 먹으면 될까요? | [피로보약·기력회복에서 확인할 것](conditions/energy-recovery.md) |
+| 녹용보약은 어떤 상태에서 상담하나요? | [녹용보약의 구성과 복용 안내](conditions/deer-antler-tonic-guide.md) |
+| 출산 뒤 회복과 산후보약은 어떻게 연결되나요? | [산후회복](conditions/postpartum-recovery.md) · [산후보약](conditions/postpartum-herbal.md) |
+| 부모님 식사량과 기력이 줄었다면 무엇을 보나요? | [노인보약·생활기능 확인](conditions/elderly-tonic.md) |
+| 아이의 성장과 식욕이 걱정돼요 | [성장보약·아이 보약 상담 안내](conditions/child-parent-tonic-guide.md) |
+| 수술 뒤 한약 상담에는 무엇을 준비하나요? | [수술 후 회복·보약 안내](conditions/postoperative-recovery.md) |
+
+내 상황을 이해했다면 [상담 전 준비](conditions/herbal-consultation-prep.md), [복용기간과 재평가](conditions/tonic-duration.md), [복용 후 변화 기록](conditions/herbal-followup.md)으로 이어서 볼 수 있습니다.
+
 ## 많이 찾는 주제
 
 <div class="ms-quick">
@@ -60,3 +73,35 @@ hide:
 - [증상으로 찾기](symptom-integrated/index.md)
 - [질환별 보기](conditions/index.md)
 - [AI 검색 구조](ai-index.md)
+
+## 누가 운영하나요? {#publisher}
+
+**민성 한의학 아카이브는 민성한의원이 구축하고 운영하는 공개 지식 아카이브**입니다. 증상 안내와 전통 한의학 자료, 현대 연구를 연결해 제공합니다.
+
+[아카이브의 목적과 운영 주체](guide/index.md#publisher) · [출처·인용 원칙](guide/citation-policy.md) · [민성한의원 공식 홈페이지](https://minseong.co.kr/)
+
+진료시간·위치·예약 안내는 공식 홈페이지에서 확인할 수 있습니다. 자료의 오류나 출처 정정을 문의할 때에는 해당 페이지 주소와 확인할 문장을 함께 알려주세요.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://wiki.minseong.co.kr/#publisher",
+      "name": "민성한의원",
+      "url": "https://minseong.co.kr/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://wiki.minseong.co.kr/#website",
+      "url": "https://wiki.minseong.co.kr/",
+      "name": "민성 한의학 아카이브",
+      "inLanguage": "ko-KR",
+      "publisher": {
+        "@id": "https://wiki.minseong.co.kr/#publisher"
+      }
+    }
+  ]
+}
+</script>
