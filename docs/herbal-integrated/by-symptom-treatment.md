@@ -18,7 +18,7 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 | 비위기허·중기하함 | 보기승양 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
 | 심비양허·기혈부족 | 익기보혈·안신 | [귀비탕](../formulas/guibi-tang.md) |
 | 노권·기혈구상 | 조화기혈·보허 | [쌍화탕](../formulas/ssanghwa-tang.md) |
-| 기혈양허·허손 | 온보기혈 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| 기혈양허·허손 | 온보기혈 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 | 기음양허·진액손상 | 익기생진 | [생맥산](../formulas/shengmai-san.md) |
 | 신음허 | 자보신음 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | 신양허 | 온보신양 | [팔미지황환](../formulas/bawei-dihuang-wan.md) |
@@ -75,7 +75,7 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 | 병증축 | 치법 | 대표 처방 |
 |---|---|---|
 | 한습 + 기혈담식 복합 | 산한조습·이기활혈 | [오적산](../formulas/wujisan.md) |
-| 만성 풍한습비 + 간신기혈허 | 거풍습·익간신·보기혈 | [독활기생탕](../formulas/duhuo-jisheng-classic.md) |
+| 만성 풍한습비 + 간신기혈허 | 거풍습·익간신·보기혈 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | 흉중어혈 + 기체 | 활혈거어·행기지통 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) |
 | 기허혈어 + 통락장애 | 보기활혈·통락 | [보양환오탕](../formulas/buyang-huanwu-tang.md) |
 | 하초축혈 + 열결 | 파혈하어·설열 | [도핵승기탕](../formulas/taohe-chengqi-tang.md) |

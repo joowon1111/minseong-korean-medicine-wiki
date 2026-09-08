@@ -24,9 +24,9 @@ last_reviewed: 2026-08-19
 - 안신 본초 → [산조인](../herbs/ziziphus-seed.md)
 
 ## 4. 경혈
-→ [신문 HT7](../acupoint-network/ht7.md)
-→ [내관 PC6](../acupoint-network/pc6.md)
-→ [삼음교 SP6](../acupoint-network/sp6.md)
-→ [백회 GV20](../acupoint-network/gv20.md)
+→ [신문 HT7](../acupuncture/points/ht7-shenmen.md)
+→ [내관 PC6](../acupuncture/points/pc6-neiguan.md)
+→ [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md)
+→ [백회 GV20](../acupuncture/points/gv20-baihui.md)
 
 → [불면 근거 카드](../authority/insomnia.md)

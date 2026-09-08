@@ -133,7 +133,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 근육의 급박·경련·쥐 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) |
 | 복합 두통 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | 경항·견배의 풍한담 | [회수산](../formulas/huishou-san.md) |
-| 만성 풍한습비 + 간신기혈허 | [독활기생탕](../formulas/duhuo-jisheng-classic.md) |
+| 만성 풍한습비 + 간신기혈허 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | 외감풍사 두통 | [천궁다조산](../formulas/chuanxiong-chatiao-san.md) |
 | 비연·비색 + 두통 | [창이자산](../formulas/cangerzi-san.md) |
 
@@ -161,7 +161,7 @@ description: 일반 방제 임상 지도 — 민성 한의학 아카이브의 �
 | 혈허·보혈 기본방 | [사물탕](../formulas/siwu-tang.md) |
 | 황기 중심의 보기생혈 | [당귀보혈탕](../formulas/danggui-buxue-tang.md) |
 | 기허와 혈허가 고르게 동반 | [팔물탕](../formulas/bazhen-tang.md) |
-| 기혈양허 + 온보 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| 기혈양허 + 온보 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 | 기혈양허 + 허손·심신 소모 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) |
 | 기혈부족 + 비위허약·담습·기체 | [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) |
 | 기음양허 + 발한·구갈·숨참 | [생맥산](../formulas/shengmai-san.md) |

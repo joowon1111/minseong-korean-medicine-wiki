@@ -56,12 +56,12 @@ last_reviewed: 2026-08-29
 ## 상세 지식망
 
 - [황제내경 임상 지식망](../neijing-network/index.md)
-- [음양과 인체](../neijing-network/yinyang-human-body.md)
-- [장부와 기능체계](../neijing-network/zangfu-system.md)
-- [기혈진액](../neijing-network/qi-blood-fluids.md)
-- [병인·병기](../neijing-network/pathogenesis.md)
-- [사진·진단](../neijing-network/diagnosis.md)
-- [경락과 경맥](../neijing-network/meridian-concepts.md)
-- [치미병과 예방](../neijing-network/prevention.md)
+- [음양과 인체](../neijing-network/index.md#yinyang-human-body)
+- [장부와 기능체계](../neijing-network/index.md#zangfu-system)
+- [기혈진액](../neijing-network/index.md#qi-blood-fluids)
+- [병인·병기](../neijing-network/index.md#pathogenesis)
+- [사진·진단](../neijing-network/index.md#diagnosis)
+- [경락과 경맥](../neijing-network/index.md#meridian-concepts)
+- [치미병과 예방](../neijing-network/index.md#prevention)
 - [소문대요](somun-daeyo.md) — 한국 근대 의가 이규준의 소문 선별·교정과 주석
 - [황제내경 탐색](../classics-network/huangdi-neijing.md)

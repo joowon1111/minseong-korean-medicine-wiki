@@ -36,7 +36,7 @@ last_reviewed: 2026-09-06
 - [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) — 간울기체가 중심인 임신준비
 - [수태환](../formulas/shoutai-wan.md) — 보신안태·고충임
 - [태산반석산](../formulas/taishan-panshi-san.md) — 기혈양허·비위허약형 산전 안태
-- [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허와 산후·질병 후 회복저하
+- [십전대보탕](../formulas/shi-quan-da-bu-tang.md) — 기혈양허와 산후·질병 후 회복저하
 
 ## 처방을 고르는 관점
 

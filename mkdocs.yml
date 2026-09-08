@@ -98,6 +98,136 @@ plugins:
       sasang-formulas/hyeongbangdojeok-san.md: sasang-formula-cards/hyeongbangdojeok-san.md
       sasang-formulas/hyeongbangsabaek-san.md: sasang-formula-cards/hyeongbangsabaek-san.md
       sasang-formulas/yanggyeoksanhwa-tang.md: sasang-formula-cards/yanggyeoksanhwa-tang.md
+      neijing-network/yinyang-human-body.md: neijing-network/index.md
+      neijing-network/zangfu-system.md: neijing-network/index.md
+      neijing-network/qi-blood-fluids.md: neijing-network/index.md
+      neijing-network/pathogenesis.md: neijing-network/index.md
+      neijing-network/diagnosis.md: neijing-network/index.md
+      neijing-network/meridian-concepts.md: neijing-network/index.md
+      neijing-network/prevention.md: neijing-network/index.md
+      neijing-network/integrated-map.md: neijing-network/index.md
+      shanghan-network/six-stage-patterns.md: shanghan-network/index.md
+      shanghan-network/taiyang.md: shanghan-network/index.md
+      shanghan-network/yangming.md: shanghan-network/index.md
+      shanghan-network/shaoyang.md: shanghan-network/index.md
+      shanghan-network/yin-stages.md: shanghan-network/index.md
+      shanghan-network/formula-map.md: shanghan-network/index.md
+      shanghan-network/clinical-reasoning.md: shanghan-network/index.md
+      shanghan-network/integrated-map.md: shanghan-network/index.md
+      jingui-network/misc-disease-framework.md: jingui-network/index.md
+      jingui-network/chest-bi-heart-pain.md: jingui-network/index.md
+      jingui-network/phlegm-fluid.md: jingui-network/index.md
+      jingui-network/consumptive-deficiency.md: jingui-network/index.md
+      jingui-network/abdominal-cold-food-retention.md: jingui-network/index.md
+      jingui-network/gynecology.md: jingui-network/index.md
+      jingui-network/formula-map.md: jingui-network/index.md
+      jingui-network/clinical-reasoning.md: jingui-network/index.md
+      jingui-network/integrated-map.md: jingui-network/index.md
+      donguibogam-network/naegyeong.md: donguibogam-network/index.md
+      donguibogam-network/oehyeong.md: donguibogam-network/index.md
+      donguibogam-network/japbyeong.md: donguibogam-network/index.md
+      donguibogam-network/yangsaeng-prevention.md: donguibogam-network/index.md
+      donguibogam-network/clinical-navigation.md: donguibogam-network/index.md
+      donguibogam-network/integrated-map.md: donguibogam-network/index.md
+      donguisusebowon-network/four-constitutions.md: donguisusebowon-network/index.md
+      donguisusebowon-network/seongmyeong-sadan.md: donguisusebowon-network/index.md
+      donguisusebowon-network/zangbu-physiology.md: donguisusebowon-network/index.md
+      donguisusebowon-network/ordinary-symptoms-patterns.md: donguisusebowon-network/index.md
+      donguisusebowon-network/exterior-interior-patterns.md: donguisusebowon-network/index.md
+      donguisusebowon-network/treatment-principles.md: donguisusebowon-network/index.md
+      donguisusebowon-network/lifestyle-emotion.md: donguisusebowon-network/index.md
+      donguisusebowon-network/integrated-map.md: donguisusebowon-network/index.md
+      wenbing-network/what-is-wenbing.md: wenbing-network/index.md
+      wenbing-network/wei-qi-ying-xue.md: wenbing-network/index.md
+      wenbing-network/triple-burner-patterns.md: wenbing-network/index.md
+      wenbing-network/wei-qi-stages.md: wenbing-network/index.md
+      wenbing-network/ying-xue-stages.md: wenbing-network/index.md
+      wenbing-network/formula-map.md: wenbing-network/index.md
+      wenbing-network/classic-texts.md: wenbing-network/index.md
+      wenbing-network/shanghan-comparison.md: wenbing-network/index.md
+      wenbing-network/integrated-map.md: wenbing-network/index.md
+      bangyakhappyeon-network/what-is-bangyakhappyeon.md: bangyakhappyeon-network/index.md
+      bangyakhappyeon-network/sang-jung-ha.md: bangyakhappyeon-network/index.md
+      bangyakhappyeon-network/boncho-yakseongga.md: bangyakhappyeon-network/index.md
+      bangyakhappyeon-network/seven-formulas-ten-agents.md: bangyakhappyeon-network/index.md
+      bangyakhappyeon-network/clinical-navigation.md: bangyakhappyeon-network/index.md
+      bangyakhappyeon-network/donguibogam-comparison.md: bangyakhappyeon-network/index.md
+      bangyakhappyeon-network/integrated-map.md: bangyakhappyeon-network/index.md
+      clinical-anatomy/dermatome-myotome.md: clinical-anatomy/index.md
+      clinical-anatomy/upper-limb.md: clinical-anatomy/index.md
+      clinical-anatomy/lower-limb.md: clinical-anatomy/index.md
+      clinical-anatomy/neck-shoulder.md: clinical-anatomy/index.md
+      clinical-anatomy/hip-gluteal.md: clinical-anatomy/index.md
+      clinical-anatomy/peripheral-nerve-map.md: clinical-anatomy/index.md
+      formulas/duhuo-jisheng-classic.md: formulas/duhuo-jisheng-tang.md
+      formulas/shiquan-dabu-classic.md: formulas/shi-quan-da-bu-tang.md
+      symptom-integrated/red-flags.md: symptom-clinical/red-flags.md
+      acupuncture/index.md: acupuncture-integrated/index.md
+      acupuncture/meridians.md: acupuncture-integrated/points-meridians.md
+      acupuncture/twelve-meridians.md: meridian-network/index.md
+      acupuncture/du-ren.md: acupuncture-integrated/points-meridians.md
+      acupuncture/key-acupoints.md: acupoint-network/standard-atlas.md
+      acupuncture/treatment-principles.md: acupuncture-integrated/index.md
+      acupuncture-clinical/symptom-to-strategy.md: symptom-clinical/index.md
+      acupuncture-clinical/musculoskeletal-differential.md: symptom-clinical/index.md
+      acupuncture-clinical/modality-comparison.md: acupuncture-integrated/modalities.md
+      acupuncture-clinical/safety-redflags.md: acupuncture-integrated/safety.md
+      acupuncture-clinical/evidence.md: acupuncture-integrated/evidence.md
+      acupuncture-clinical/integrated-map.md: acupuncture-clinical/index.md
+      acupuncture-science/electroacupuncture.md: treatments/electroacupuncture.md
+      acupuncture-science/evidence-reading.md: acupuncture-integrated/evidence.md
+      acupuncture-science/safety.md: acupuncture-integrated/safety.md
+      nerve-entrapment/carpal-tunnel.md: conditions/carpal-tunnel.md
+      nerve-entrapment/thoracic-outlet.md: conditions/thoracic-outlet-symptoms.md
+      acupoint-network/st36.md: acupuncture/points/st36-zusanli.md
+      acupoint-network/pc6.md: acupuncture/points/pc6-neiguan.md
+      acupoint-network/ht7.md: acupuncture/points/ht7-shenmen.md
+      acupoint-network/sp6.md: acupuncture/points/sp6-sanyinjiao.md
+      acupoint-network/li4.md: acupuncture/points/li4-hegu.md
+      acupoint-network/gv20.md: acupuncture/points/gv20-baihui.md
+      acupoint-network/bl40.md: acupuncture/points/bl40-weizhong.md
+      acupoint-network/bl23.md: acupuncture/points/bl23-shenshu.md
+      musculoskeletal-ultrasound/median-nerve-carpal-tunnel.md: musculoskeletal-ultrasound/nerve-entrapment-integration.md
+      musculoskeletal-ultrasound/ulnar-nerve-cubital-tunnel.md: musculoskeletal-ultrasound/nerve-entrapment-integration.md
+      musculoskeletal-ultrasound/radial-nerve-ultrasound.md: musculoskeletal-ultrasound/nerve-entrapment-integration.md
+      musculoskeletal-ultrasound/peroneal-nerve-ultrasound.md: musculoskeletal-ultrasound/nerve-entrapment-integration.md
+      musculoskeletal-ultrasound/tibial-nerve-ultrasound.md: musculoskeletal-ultrasound/nerve-entrapment-integration.md
+      foundations-clinical/yinyang-fivephases.md: foundations-clinical/index.md
+      foundations-clinical/zangfu-to-pattern.md: foundations-clinical/index.md
+      foundations-clinical/qi-blood-fluid.md: foundations-clinical/index.md
+      foundations-clinical/etiology-pathogenesis.md: foundations-clinical/index.md
+      foundations-clinical/eight-principles-bridge.md: foundations-clinical/index.md
+      foundations-clinical/diagnostic-integration.md: foundations-clinical/index.md
+      foundations-clinical/pattern-to-treatment.md: foundations-clinical/index.md
+      foundations-clinical/treatment-bridge.md: foundations-clinical/index.md
+      foundations-clinical/clinical-reasoning.md: foundations-clinical/index.md
+      foundations-clinical/integrated-map.md: foundations-clinical/index.md
+      history/timeline.md: history/index.md
+      history/schools-map.md: history/index.md
+      history/formula-history.md: history/index.md
+      sasang-guideline/diagnostic-workflow.md: sasang-guideline/index.md
+      sasang-guideline/ordinary-symptoms.md: sasang-guideline/index.md
+      sasang-guideline/kcd-classification.md: sasang-guideline/index.md
+      sasang-guideline/lifestyle-framework.md: sasang-guideline/index.md
+      sasang-guideline/nckm-resources.md: sasang-guideline/index.md
+      sasang-guideline/integrated-map.md: sasang-guideline/index.md
+      sasang-research/diagnosis-research.md: sasang-research/index.md
+      sasang-research/metabolic-health.md: sasang-research/index.md
+      sasang-research/treatment-research.md: sasang-research/index.md
+      sasang-research/evidence-framework.md: sasang-research/index.md
+      sasang-research/classic-to-modern.md: sasang-research/index.md
+      sasang-research/integrated-map.md: sasang-research/index.md
+      sasang-history/lee-je-ma.md: sasang-history/index.md
+      sasang-history/donguisusebowon-context.md: sasang-history/index.md
+      sasang-history/historical-position.md: sasang-history/index.md
+      sasang-history/post-donguibogam.md: sasang-history/index.md
+      sasang-history/modern-expansion.md: sasang-history/index.md
+      sasang-history/integrated-map.md: sasang-history/index.md
+      musculoskeletal-ultrasound/ultrasound-basics.md: musculoskeletal-ultrasound/index.md
+      musculoskeletal-ultrasound/tissue-anatomy.md: musculoskeletal-ultrasound/index.md
+      musculoskeletal-ultrasound/regional-ultrasound.md: musculoskeletal-ultrasound/index.md
+      musculoskeletal-ultrasound/peripheral-nerve-ultrasound.md: musculoskeletal-ultrasound/nerve-entrapment-integration.md
+      acupuncture-clinical/meridian-point-needling.md: acupuncture-clinical/index.md
 theme:
   name: material
   language: ko
@@ -170,7 +300,7 @@ nav:
   - 방제 찾기: herbal-integrated/formulas.md
   - 일반 방제 임상 지도:
     - herbal-integrated/general-formulary.md
-    - 비위·소화:
+    - 비위·소화·한열 조화:
       - 삼령백출산: formulas/shenling-baizhu-san.md
       - 평위산: formulas/pingwei-san.md
       - 향사육군자탕: formulas/xiangsha-liujunzi-tang.md
@@ -180,7 +310,13 @@ nav:
       - 보화환: formulas/baohe-wan.md
       - 정전가미이진탕: formulas/jeongjeon-gami-ijin-tang.md
       - 위령탕: formulas/weiling-tang.md
-    - 담음·현훈·불면:
+      - 반하사심탕: formulas/banxia-xiexin-tang.md
+      - 이중탕: formulas/lizhong-tang.md
+      - 소건중탕: formulas/xiaojianzhong-tang.md
+      - 대건중탕: formulas/dajianzhong-tang.md
+      - 황기건중탕: formulas/huangqi-jianzhong-tang.md
+      - 오적산: formulas/wujisan.md
+    - 담음·현훈·수면:
       - 이진탕: formulas/erchen-tang.md
       - 궁하탕: formulas/gungha-tang.md
       - 반하백출천마탕: formulas/banxia-baizhu-tianma-tang.md
@@ -190,7 +326,8 @@ nav:
       - 천왕보심단: formulas/tianwang-buxin-dan.md
       - 산조인탕: formulas/suanzaoren-tang.md
       - 억간산: formulas/yigan-san.md
-    - 간울·기체·활혈:
+      - 천마구등음: formulas/tianma-gouteng-yin.md
+    - 기체·울체·활혈:
       - 소요산: formulas/xiaoyao-san.md
       - 가미소요산: formulas/jiawei-xiaoyao-san.md
       - 분심기음: formulas/fenxin-qiyin.md
@@ -198,60 +335,29 @@ nav:
       - 월국환: formulas/yueju-wan.md
       - 오약순기산: formulas/wuyao-shunqi-san.md
       - 혈부축어탕: formulas/xuefu-zhuyu-tang.md
-    - 심혈관·대사 임상연구 제제:
-      - 심적환·복방단삼적환: formulas/simjeok-hwan.md
-      - 기력강심·심부전: formulas/qiliqiangxin.md
-      - 통심락·심뇌혈관: formulas/tongxinluo.md
-      - 진리다·혈당 관리: formulas/jinlida.md
-    - 외감·호흡·청열:
+      - 반하후박탕: formulas/banxia-houpo-tang.md
+      - 시호소간산: formulas/chaihu-shugan-san.md
+      - 보양환오탕: formulas/buyang-huanwu-tang.md
+      - 도핵승기탕: formulas/taohe-chengqi-tang.md
+    - 외감·호흡·기침:
       - 삼소음: formulas/renshen-suyin.md
       - 구미강활탕: formulas/jiuwei-qianghuo-tang.md
       - 형개연교탕: formulas/jingjie-lianqiao-tang.md
       - 연교패독산: formulas/lianqiao-baidu-san.md
       - 맥문동탕: formulas/maidong-tang.md
-    - 한열·비위조화:
-      - 반하사심탕: formulas/banxia-xiexin-tang.md
-      - 이중탕: formulas/lizhong-tang.md
-      - 소건중탕: formulas/xiaojianzhong-tang.md
-      - 대건중탕: formulas/dajianzhong-tang.md
-      - 황기건중탕: formulas/huangqi-jianzhong-tang.md
-      - 오적산: formulas/wujisan.md
-    - 보익·음양:
-      - 자음강화탕: formulas/ziyin-jianghuo-tang.md
-      - 청심연자음: formulas/qingxin-lianzi-yin.md
-      - 육미지황환: formulas/liu wei dihuang wan.md
-      - 팔미지황환: formulas/bawei-dihuang-wan.md
-      - 좌귀환: formulas/zuogui-wan.md
-      - 우귀환: formulas/yougui-wan.md
-      - 기국지황환·기국지황탕: formulas/qiju-dihuang-wan.md
-    - 습·수분대사:
-      - 곽향정기산: formulas/huoxiang-zhengqi-san.md
-      - 오령산: formulas/wuling-san.md
-      - 저령탕: formulas/zhuling-tang.md
-    - 윤장·변비:
-      - 제천전: formulas/jichuan-jian.md
-      - 마자인환: formulas/mazi-ren-wan.md
-    - 두통·통증·비증:
-      - 청상견통탕: formulas/qingshang-juantong-tang.md
-      - 회수산: formulas/huishou-san.md
-      - 당귀수산: formulas/danggui-susan.md
-      - 소경활혈탕: formulas/shujing-huoxue-tang.md
-      - 작약감초탕: formulas/shaoyao-gancao-tang.md
-      - 독활기생탕: formulas/duhuo-jisheng-classic.md
-    - 피부·풍열:
-      - 방풍통성산: formulas/fangfeng-tongsheng-san.md
-      - 소풍산: formulas/xiaofeng-san.md
-    - 폐·기음·표허:
-      - 보폐탕: formulas/bufei-tang.md
-      - 생맥산: formulas/shengmai-san.md
-      - 옥병풍산: formulas/yupingfeng-san.md
-    - 보익·기혈 심화:
+      - 은교산: formulas/yinqiao-san.md
+      - 상국음: formulas/sangju-yin.md
+      - 마행감석탕: formulas/maxing-ganshi-tang.md
+      - 정천탕: formulas/dingchuan-tang.md
+      - 소자강기탕: formulas/suzi-jiangqi-tang.md
+      - 행소산: formulas/xingsu-san.md
+    - 보기·보혈·기음 회복:
       - 사군자탕 · 보기 기본방: formulas/sijunzi-tang.md
       - 육군자탕 · 보기화담: formulas/liujunzi-tang.md
       - 사물탕 · 보혈 기본방: formulas/siwu-tang.md
       - 당귀보혈탕 · 보기생혈: formulas/danggui-buxue-tang.md
       - 팔물탕 · 기혈쌍보: formulas/bazhen-tang.md
-      - 십전대보탕 · 온보기혈: formulas/shiquan-dabu-classic.md
+      - 십전대보탕 · 온보기혈: formulas/shi-quan-da-bu-tang.md
       - 인삼양영탕 · 허손·심신회복: formulas/renshen-yangrong-tang.md
       - 익기보혈탕 · 비위·기혈회복: formulas/ikgi-bohyeol-tang.md
       - 귀비탕 · 심비양허: formulas/guibi-tang.md
@@ -262,7 +368,51 @@ nav:
       - 황기계지오물탕 · 혈비·영위허: formulas/huangqi-guizhi-wuwu-tang.md
       - 쌍화탕 · 노권·기혈: formulas/ssanghwa-tang.md
       - 대보원전 · 기혈정수: formulas/dabo-wonjeon.md
-    - 여성·임신준비·산후:
+      - 보폐탕: formulas/bufei-tang.md
+      - 옥병풍산: formulas/yupingfeng-san.md
+    - 보음·보양·간신:
+      - 자음강화탕: formulas/ziyin-jianghuo-tang.md
+      - 청심연자음: formulas/qingxin-lianzi-yin.md
+      - 육미지황환: formulas/liu wei dihuang wan.md
+      - 팔미지황환: formulas/bawei-dihuang-wan.md
+      - 좌귀환: formulas/zuogui-wan.md
+      - 우귀환: formulas/yougui-wan.md
+      - 기국지황환·기국지황탕: formulas/qiju-dihuang-wan.md
+    - 수습·부종·배뇨:
+      - 곽향정기산: formulas/huoxiang-zhengqi-san.md
+      - 오령산: formulas/wuling-san.md
+      - 저령탕: formulas/zhuling-tang.md
+      - 진무탕: formulas/zhenwu-tang.md
+      - 영계출감탕: formulas/linggui-zhugan-tang.md
+      - 실비음: formulas/shipi-yin.md
+      - 방기황기탕: formulas/fangji-huangqi-tang.md
+      - 팔정산: formulas/bazheng-san.md
+    - 변비·공하:
+      - 제천전: formulas/jichuan-jian.md
+      - 마자인환: formulas/mazi-ren-wan.md
+      - 대시호탕: formulas/dachaihu-tang.md
+      - 소승기탕: formulas/xiaochengqi-tang.md
+      - 대승기탕: formulas/dachengqi-tang.md
+    - 두통·두면·근골격 통증:
+      - 청상견통탕: formulas/qingshang-juantong-tang.md
+      - 회수산: formulas/huishou-san.md
+      - 당귀수산: formulas/danggui-susan.md
+      - 소경활혈탕: formulas/shujing-huoxue-tang.md
+      - 작약감초탕: formulas/shaoyao-gancao-tang.md
+      - 독활기생탕: formulas/duhuo-jisheng-tang.md
+      - 천궁다조산: formulas/chuanxiong-chatiao-san.md
+      - 창이자산: formulas/cangerzi-san.md
+    - 청열·피부·풍열:
+      - 해독·청열해독 안내: herbal-integrated/detoxification.md
+      - 황련해독탕: formulas/huanglian-jiedu-tang.md
+      - 갈근금련탕: formulas/gegen-qinlian-tang.md
+      - 용담사간탕: formulas/longdan-xiegan-tang.md
+      - 백호탕: formulas/baihu-tang.md
+      - 죽엽석고탕: formulas/zhuye-shigao-tang.md
+      - 청서익기탕: formulas/qingshu-yiqi-tang.md
+      - 방풍통성산: formulas/fangfeng-tongsheng-san.md
+      - 소풍산: formulas/xiaofeng-san.md
+    - 여성·임신·산후:
       - 조경종옥탕 · 임신준비 대표처방: formulas/tiaojing-zhongyu-tang.md
       - 육린주 · 기혈신허 임신준비: formulas/yulin-zhu.md
       - 개울종옥탕 · 간울형 임신준비: formulas/kaiyu-zhongyu-tang.md
@@ -279,43 +429,11 @@ nav:
       - 불수산 · 산과·산후 고전처방: formulas/bulsu-san.md
       - 단녹용탕 · 고전 산과처방: formulas/dan-nokyong-tang.md
       - 생화탕 · 산후 대표처방: formulas/saenghwa-tang.md
-    - 청열·화독:
-      - 해독·청열해독 안내: herbal-integrated/detoxification.md
-      - 황련해독탕: formulas/huanglian-jiedu-tang.md
-      - 갈근금련탕: formulas/gegen-qinlian-tang.md
-      - 용담사간탕: formulas/longdan-xiegan-tang.md
-      - 백호탕: formulas/baihu-tang.md
-      - 죽엽석고탕: formulas/zhuye-shigao-tang.md
-      - 청서익기탕: formulas/qingshu-yiqi-tang.md
-    - 외감·호흡:
-      - 은교산: formulas/yinqiao-san.md
-      - 상국음: formulas/sangju-yin.md
-      - 마행감석탕: formulas/maxing-ganshi-tang.md
-      - 정천탕: formulas/dingchuan-tang.md
-      - 소자강기탕: formulas/suzi-jiangqi-tang.md
-      - 행소산: formulas/xingsu-san.md
-    - 기체·담울:
-      - 반하후박탕: formulas/banxia-houpo-tang.md
-      - 시호소간산: formulas/chaihu-shugan-san.md
-    - 풍·현훈:
-      - 천마구등음: formulas/tianma-gouteng-yin.md
-    - 활혈·통락:
-      - 보양환오탕: formulas/buyang-huanwu-tang.md
-      - 도핵승기탕: formulas/taohe-chengqi-tang.md
-    - 온리·수습:
-      - 진무탕: formulas/zhenwu-tang.md
-      - 영계출감탕: formulas/linggui-zhugan-tang.md
-      - 실비음: formulas/shipi-yin.md
-    - 이수·통림:
-      - 방기황기탕: formulas/fangji-huangqi-tang.md
-      - 팔정산: formulas/bazheng-san.md
-    - 화해·공하:
-      - 대시호탕: formulas/dachaihu-tang.md
-      - 소승기탕: formulas/xiaochengqi-tang.md
-      - 대승기탕: formulas/dachengqi-tang.md
-    - 두통·두면:
-      - 천궁다조산: formulas/chuanxiong-chatiao-san.md
-      - 창이자산: formulas/cangerzi-san.md
+    - 심혈관·대사 연구 제제:
+      - 심적환·복방단삼적환: formulas/simjeok-hwan.md
+      - 기력강심·심부전: formulas/qiliqiangxin.md
+      - 통심락·심뇌혈관: formulas/tongxinluo.md
+      - 진리다·혈당 관리: formulas/jinlida.md
   - 보익·회복 핵심: herbal-integrated/tonic-recovery.md
   - 증상·치법으로 찾기: herbal-integrated/by-symptom-treatment.md
   - 처방 구조·비교: herbal-integrated/formula-structure.md
@@ -339,81 +457,47 @@ nav:
   - 근거·연구: acupuncture-integrated/evidence.md
   - 신경포착증후군:
     - nerve-entrapment/index.md
-    - 손목터널증후군 · 정중신경: nerve-entrapment/carpal-tunnel.md
+    - 손목터널증후군 · 정중신경: conditions/carpal-tunnel.md
     - 척골신경 포착 · 주관증후군: nerve-entrapment/ulnar-entrapment.md
     - 요골신경 포착: nerve-entrapment/radial-entrapment.md
     - 원회내근증후군: nerve-entrapment/pronator-syndrome.md
-    - 흉곽출구증후군: nerve-entrapment/thoracic-outlet.md
+    - 흉곽출구증후군: conditions/thoracic-outlet-symptoms.md
     - 심부둔부·좌골신경: nerve-entrapment/deep-gluteal-sciatic.md
     - 외측대퇴피신경 포착: nerve-entrapment/meralgia-paresthetica.md
     - 총비골신경 포착: nerve-entrapment/common-peroneal-entrapment.md
     - 족근관증후군 · 경골신경: nerve-entrapment/tarsal-tunnel.md
-  - 근육·말초신경 임상해부학:
-    - clinical-anatomy/index.md
-    - Dermatome·Myotome 임상지도: clinical-anatomy/dermatome-myotome.md
-    - 상지 말초신경·근육: clinical-anatomy/upper-limb.md
-    - 하지 말초신경·근육: clinical-anatomy/lower-limb.md
-    - 경부·견갑대 근육·신경: clinical-anatomy/neck-shoulder.md
-    - 둔부·고관절 근육·신경: clinical-anatomy/hip-gluteal.md
-    - 말초신경 포착부위 지도: clinical-anatomy/peripheral-nerve-map.md
+  - 근육·말초신경 임상해부학: clinical-anatomy/index.md
   - 침의 과학적 접근:
     - acupuncture-science/index.md
     - 말초신경과 침 자극: acupuncture-science/peripheral-afferent.md
     - 침과 통증조절 신경생리: acupuncture-science/pain-modulation.md
     - 침과 뇌·중추신경계: acupuncture-science/brain-central.md
     - 침과 자율신경계: acupuncture-science/autonomic.md
-    - 전침의 자극 파라미터: acupuncture-science/electroacupuncture.md
-    - 침 연구·임상근거 읽기: acupuncture-science/evidence-reading.md
-    - 침 치료 안전성과 임상해부학: acupuncture-science/safety.md
   - 근골격계 초음파·초음파 유도 치료:
     - musculoskeletal-ultrasound/index.md
-    - 근골격계 초음파 기초: musculoskeletal-ultrasound/ultrasound-basics.md
-    - 조직별 초음파 해부학: musculoskeletal-ultrasound/tissue-anatomy.md
-    - 부위별 근골격 초음파: musculoskeletal-ultrasound/regional-ultrasound.md
-    - 말초신경 초음파: musculoskeletal-ultrasound/peripheral-nerve-ultrasound.md
-    - 신경포착·말초신경 초음파 통합지도: musculoskeletal-ultrasound/nerve-entrapment-integration.md
-    - 정중신경·손목터널 초음파: musculoskeletal-ultrasound/median-nerve-carpal-tunnel.md
-    - 척골신경·주관 초음파: musculoskeletal-ultrasound/ulnar-nerve-cubital-tunnel.md
-    - 요골신경·후골간신경 초음파: musculoskeletal-ultrasound/radial-nerve-ultrasound.md
-    - 총비골신경·비골두 초음파: musculoskeletal-ultrasound/peroneal-nerve-ultrasound.md
-    - 경골신경·족근관 초음파: musculoskeletal-ultrasound/tibial-nerve-ultrasound.md
+    - 말초신경 초음파: musculoskeletal-ultrasound/nerve-entrapment-integration.md
     - 경혈·근육·말초신경·초음파 지도: musculoskeletal-ultrasound/acupoint-ultrasound-map.md
     - 초음파 유도 침·약침·도침: musculoskeletal-ultrasound/ultrasound-guided-treatment.md
     - 초음파 유도 치료 현대근거: musculoskeletal-ultrasound/evidence.md
     - 초음파 유도 시술 안전성: musculoskeletal-ultrasound/safety.md
   - 상세 자료실:
     - portal/acupuncture.md
-    - 침구학:
-      - acupuncture/index.md
-      - 경락 개요: acupuncture/meridians.md
-      - 십이경맥: acupuncture/twelve-meridians.md
-      - 독맥·임맥: acupuncture/du-ren.md
-      - 주요 경혈:
-        - acupuncture/key-acupoints.md
-        - 합곡 LI4: acupuncture/points/li4-hegu.md
-        - 족삼리 ST36: acupuncture/points/st36-zusanli.md
-        - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
-        - 내관 PC6: acupuncture/points/pc6-neiguan.md
-        - 신문 HT7: acupuncture/points/ht7-shenmen.md
-        - 태충 LR3: acupuncture/points/lr3-taichong.md
-        - 관원 CV4: acupuncture/points/cv4-guanyuan.md
-        - 중완 CV12: acupuncture/points/cv12-zhongwan.md
-        - 백회 GV20: acupuncture/points/gv20-baihui.md
-        - 신수 BL23: acupuncture/points/bl23-shenshu.md
-        - 위중 BL40: acupuncture/points/bl40-weizhong.md
-        - 풍지 GB20: acupuncture/points/gb20-fengchi.md
-      - 침구 치료 원리: acupuncture/treatment-principles.md
+    - 주요 경혈 상세:
+      - 합곡 LI4: acupuncture/points/li4-hegu.md
+      - 족삼리 ST36: acupuncture/points/st36-zusanli.md
+      - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
+      - 내관 PC6: acupuncture/points/pc6-neiguan.md
+      - 신문 HT7: acupuncture/points/ht7-shenmen.md
+      - 태충 LR3: acupuncture/points/lr3-taichong.md
+      - 관원 CV4: acupuncture/points/cv4-guanyuan.md
+      - 중완 CV12: acupuncture/points/cv12-zhongwan.md
+      - 백회 GV20: acupuncture/points/gv20-baihui.md
+      - 신수 BL23: acupuncture/points/bl23-shenshu.md
+      - 위중 BL40: acupuncture/points/bl40-weizhong.md
+      - 풍지 GB20: acupuncture/points/gb20-fengchi.md
     - 경혈 임상 지식망:
       - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
       - acupoint-network/index.md
-      - 족삼리 ST36: acupoint-network/st36.md
-      - 내관 PC6: acupoint-network/pc6.md
-      - 신문 HT7: acupoint-network/ht7.md
-      - 삼음교 SP6: acupoint-network/sp6.md
-      - 합곡 LI4: acupoint-network/li4.md
-      - 백회 GV20: acupoint-network/gv20.md
-      - 위중 BL40: acupoint-network/bl40.md
-      - 신수 BL23: acupoint-network/bl23.md
       - 증상별 경혈 지도: acupoint-network/by-condition.md
     - 경락·경맥 지식망:
       - meridian-network/index.md
@@ -427,15 +511,8 @@ nav:
       - 경맥→증상 지도: meridian-network/by-condition.md
     - 침구·치료 임상 심화:
       - acupuncture-clinical/index.md
-      - 증상→치료전략: acupuncture-clinical/symptom-to-strategy.md
-      - 경락→경혈→자침: acupuncture-clinical/meridian-point-needling.md
-      - 근골격 통증 감별: acupuncture-clinical/musculoskeletal-differential.md
-      - 침 vs 전침 vs 뜸 vs 부항: acupuncture-clinical/modality-comparison.md
       - 치료 강도·빈도·경과: acupuncture-clinical/dose-followup.md
       - 치료 반응·재평가: acupuncture-clinical/response-reassessment.md
-      - 안전·금기·위험신호: acupuncture-clinical/safety-redflags.md
-      - 현대 근거 읽기: acupuncture-clinical/evidence.md
-      - 임상 통합 지도: acupuncture-clinical/integrated-map.md
 - 증상·질환:
   - 증상으로 찾기: symptom-integrated/index.md
   - 질환별 보기:
@@ -601,7 +678,7 @@ nav:
     - 소화: symptom-integrated/digestive.md
     - 호흡·비염: symptom-integrated/respiratory-rhinitis.md
     - 자율신경·스트레스: symptom-integrated/autonomic-stress.md
-    - 위험신호·감별: symptom-integrated/red-flags.md
+    - 위험신호·감별: symptom-clinical/red-flags.md
     - 치료·경과·근거: symptom-integrated/treatment-evidence.md
   - 증상 기반 한약 탐색:
     - symptom-herbal-guide/index.md
@@ -660,7 +737,6 @@ nav:
         - 소화불량: symptom-clinical/dyspepsia.md
         - 비염: symptom-clinical/rhinitis.md
         - 피로: symptom-clinical/fatigue.md
-      - 위험신호·감별: symptom-clinical/red-flags.md
       - 치료경과·재평가: symptom-clinical/followup.md
     - 자율신경·스트레스 지식망:
       - autonomic/index.md
@@ -830,28 +906,47 @@ nav:
       - 고전→현대 연구 연결: network/classic-to-evidence-map.md
     - 통합 지식 그래프:
       - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
-  - 전체 기존 메뉴:
-    - 진단·변증:
-      - diagnostics/index.md
-      - 사진: diagnostics/four-examinations.md
-      - 팔강변증: diagnostics/eight-principles.md
-      - 장부변증: diagnostics/zangfu-patterns.md
-      - 기혈진액변증: diagnostics/qi-blood-fluid-patterns.md
-      - 기허(氣虛): diagnostics/qi-deficiency.md
-      - 혈허(血虛): diagnostics/blood-deficiency.md
-      - 어혈(瘀血): diagnostics/blood-stasis.md
-      - 담음(痰飮): diagnostics/phlegm-fluid.md
-      - 담적(痰積): diagnostics/phlegm-accumulation.md
-    - 한의치료 방법:
-      - treatments/index.md
-      - 침 치료: treatments/acupuncture.md
-      - 약침: treatments/pharmacopuncture.md
-      - 전침: treatments/electroacupuncture.md
-      - 전침 임상근거: authority/electroacupuncture.md
-      - 부항: treatments/cupping.md
-      - 뜸: treatments/moxibustion.md
-      - 온열·TDP: treatments/thermal-tdp.md
-      - 복합 치료 전략: treatments/integrated-treatment.md
+  - 진단·변증:
+    - diagnostics/index.md
+    - 사진: diagnostics/four-examinations.md
+    - 팔강변증: diagnostics/eight-principles.md
+    - 장부변증: diagnostics/zangfu-patterns.md
+    - 기혈진액변증: diagnostics/qi-blood-fluid-patterns.md
+    - 기허(氣虛): diagnostics/qi-deficiency.md
+    - 혈허(血虛): diagnostics/blood-deficiency.md
+    - 어혈(瘀血): diagnostics/blood-stasis.md
+    - 담음(痰飮): diagnostics/phlegm-fluid.md
+    - 담적(痰積): diagnostics/phlegm-accumulation.md
+  - 한의치료 방법:
+    - treatments/index.md
+    - 침 치료: treatments/acupuncture.md
+    - 약침: treatments/pharmacopuncture.md
+    - 전침: treatments/electroacupuncture.md
+    - 전침 임상근거: authority/electroacupuncture.md
+    - 부항: treatments/cupping.md
+    - 뜸: treatments/moxibustion.md
+    - 온열·TDP: treatments/thermal-tdp.md
+    - 복합 치료 전략: treatments/integrated-treatment.md
+  - 질문으로 찾기:
+    - faq/index.md
+    - 보익·공진단·경옥고: faq/tonic-faq.md
+    - 본초학: faq/herbs-faq.md
+    - 침·약침·침구: faq/acupuncture-faq.md
+    - 사상의학: faq/sasang-faq.md
+    - 증상·치료: faq/conditions-faq.md
+    - 고전·현대 연구: faq/classics-evidence-faq.md
+  - 용어사전:
+    - glossary/index.md
+    - 기(氣): glossary/qi.md
+    - 혈(血): glossary/blood.md
+    - 정(精): glossary/essence.md
+    - 진액(津液): glossary/body-fluids.md
+    - 담음(痰飮): glossary/phlegm-fluid.md
+    - 어혈(瘀血): glossary/blood-stasis.md
+    - 신양(腎陽): glossary/kidney-yang.md
+    - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
+    - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
+  - 고전·의학사 자료실:
     - 의가·인물:
       - physicians/index.md
       - 허준: physicians/heo-jun.md
@@ -906,116 +1001,36 @@ nav:
         - 공진단: classics/donguibogam/gongjin-dan.md
         - 경옥고: classics/donguibogam/gyeongok-go.md
       - 동의수세보원: classics/donguisusebowon.md
-    - 질문으로 찾기:
-      - faq/index.md
-      - 보익·공진단·경옥고: faq/tonic-faq.md
-      - 본초학: faq/herbs-faq.md
-      - 침·약침·침구: faq/acupuncture-faq.md
-      - 사상의학: faq/sasang-faq.md
-      - 증상·치료: faq/conditions-faq.md
-      - 고전·현대 연구: faq/classics-evidence-faq.md
-    - 용어사전:
-      - glossary/index.md
-      - 기(氣): glossary/qi.md
-      - 혈(血): glossary/blood.md
-      - 정(精): glossary/essence.md
-      - 진액(津液): glossary/body-fluids.md
-      - 담음(痰飮): glossary/phlegm-fluid.md
-      - 어혈(瘀血): glossary/blood-stasis.md
-      - 신양(腎陽): glossary/kidney-yang.md
-      - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
-      - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
-  - 한국 한의학 임상서·처방서:
-    - modern-korean-medicine/index.md
-    - 방약합편 임상 지식망:
-      - bangyakhappyeon-network/index.md
-      - 방약합편이란: bangyakhappyeon-network/what-is-bangyakhappyeon.md
-      - 상통·중통·하통: bangyakhappyeon-network/sang-jung-ha.md
-      - 손익본초·약성가: bangyakhappyeon-network/boncho-yakseongga.md
-      - 칠방·십제: bangyakhappyeon-network/seven-formulas-ten-agents.md
-      - 처방 탐색법: bangyakhappyeon-network/clinical-navigation.md
-      - 동의보감과 방약합편 비교: bangyakhappyeon-network/donguibogam-comparison.md
-      - 방약합편→현대 임상 지도: bangyakhappyeon-network/integrated-map.md
-    - 소문대요: classics/somun-daeyo.md
-    - 석곡 이규준: physicians/lee-gyujun.md
-    - 청강의감: classics/cheonggang-uigam.md
-    - 청강 김영훈: physicians/kim-young-hoon.md
-  - 한의학 고전 비교·계보:
-    - classics-network/index.md
-    - 황제내경: classics-network/huangdi-neijing.md
-    - 난경: classics-network/nanjing.md
-    - 상한론: classics-network/shanghan-lun.md
-    - 금궤요략: classics-network/jingui-yaolue.md
-    - 의학입문: classics-network/uihak-ipmun.md
-    - 경악전서: classics-network/jingyue-quanshu.md
-    - 온병조변: classics-network/wenbing-tiaobian.md
-    - 동의보감: classics-network/donguibogam.md
-    - 동의수세보원: classics-network/donguisusebowon.md
-    - 고전 9종 비교: classics-network/comparison.md
-    - 고전 읽는 순서: classics-network/reading-path.md
-    - 고전→현대 임상 연결 지도: classics-network/integrated-map.md
-  - 황제내경 핵심 지식망:
-    - neijing-network/index.md
-    - 음양과 인체: neijing-network/yinyang-human-body.md
-    - 장부와 기능체계: neijing-network/zangfu-system.md
-    - 기혈진액: neijing-network/qi-blood-fluids.md
-    - 경락과 경맥: neijing-network/meridian-concepts.md
-    - 병인·병기: neijing-network/pathogenesis.md
-    - 사진·진단: neijing-network/diagnosis.md
-    - 치미병과 예방: neijing-network/prevention.md
-    - 황제내경→현대 한의학 지도: neijing-network/integrated-map.md
-  - 상한론 핵심 지식망:
-    - shanghan-network/index.md
-    - 육경변증: shanghan-network/six-stage-patterns.md
-    - 태양병: shanghan-network/taiyang.md
-    - 양명병: shanghan-network/yangming.md
-    - 소양병: shanghan-network/shaoyang.md
-    - 태음·소음·궐음: shanghan-network/yin-stages.md
-    - 대표 처방 구조: shanghan-network/formula-map.md
-    - 상한론 임상 추론: shanghan-network/clinical-reasoning.md
-    - 상한론→현대 한의학 지도: shanghan-network/integrated-map.md
-  - 금궤요략 핵심 지식망:
-    - jingui-network/index.md
-    - 잡병과 병증 구조: jingui-network/misc-disease-framework.md
-    - 담음·수기: jingui-network/phlegm-fluid.md
-    - 흉비·심통: jingui-network/chest-bi-heart-pain.md
-    - 복만·한산·숙식: jingui-network/abdominal-cold-food-retention.md
-    - 허로: jingui-network/consumptive-deficiency.md
-    - 부인병: jingui-network/gynecology.md
-    - 대표 처방 구조: jingui-network/formula-map.md
-    - 금궤요략 임상 추론: jingui-network/clinical-reasoning.md
-    - 금궤요략→현대 한의학 지도: jingui-network/integrated-map.md
-  - 동의보감 핵심 지식망:
-    - donguibogam-network/index.md
-    - 내경편: donguibogam-network/naegyeong.md
-    - 외형편: donguibogam-network/oehyeong.md
-    - 잡병편: donguibogam-network/japbyeong.md
-    - 탕액편: classics/donguibogam-tangaek.md
-    - 침구편: classics/donguibogam-acupuncture.md
-    - 양생과 예방: donguibogam-network/yangsaeng-prevention.md
-    - 동의보감 임상 탐색법: donguibogam-network/clinical-navigation.md
-    - 동의보감→현대 한의학 지도: donguibogam-network/integrated-map.md
-  - 동의수세보원 핵심 지식망:
-    - donguisusebowon-network/index.md
-    - 사상인의 기본 구조: donguisusebowon-network/four-constitutions.md
-    - 성명론·사단론의 의미: donguisusebowon-network/seongmyeong-sadan.md
-    - 장부론과 체질 생리: donguisusebowon-network/zangbu-physiology.md
-    - 소증과 체질병증: donguisusebowon-network/ordinary-symptoms-patterns.md
-    - 표리병증과 처방: donguisusebowon-network/exterior-interior-patterns.md
-    - 체질별 치료 원칙: donguisusebowon-network/treatment-principles.md
-    - 양생·성정 관리: donguisusebowon-network/lifestyle-emotion.md
-    - 동의수세보원→현대 사상의학 지도: donguisusebowon-network/integrated-map.md
-  - 온병학 핵심 지식망:
-    - wenbing-network/index.md
-    - 온병학이란: wenbing-network/what-is-wenbing.md
-    - 위기영혈변증: wenbing-network/wei-qi-ying-xue.md
-    - 삼초변증: wenbing-network/triple-burner-patterns.md
-    - 위분·기분: wenbing-network/wei-qi-stages.md
-    - 영분·혈분: wenbing-network/ying-xue-stages.md
-    - 대표 처방 구조: wenbing-network/formula-map.md
-    - 온열론과 온병조변: wenbing-network/classic-texts.md
-    - 상한론과 온병학 비교: wenbing-network/shanghan-comparison.md
-    - 온병학→현대 한의학 지도: wenbing-network/integrated-map.md
+    - 한국 한의학 임상서·처방서:
+      - modern-korean-medicine/index.md
+      - 방약합편 임상 지식망: bangyakhappyeon-network/index.md
+      - 소문대요: classics/somun-daeyo.md
+      - 석곡 이규준: physicians/lee-gyujun.md
+      - 청강의감: classics/cheonggang-uigam.md
+      - 청강 김영훈: physicians/kim-young-hoon.md
+    - 한의학 고전 비교·계보:
+      - classics-network/index.md
+      - 황제내경: classics-network/huangdi-neijing.md
+      - 난경: classics-network/nanjing.md
+      - 상한론: classics-network/shanghan-lun.md
+      - 금궤요략: classics-network/jingui-yaolue.md
+      - 의학입문: classics-network/uihak-ipmun.md
+      - 경악전서: classics-network/jingyue-quanshu.md
+      - 온병조변: classics-network/wenbing-tiaobian.md
+      - 동의보감: classics-network/donguibogam.md
+      - 동의수세보원: classics-network/donguisusebowon.md
+      - 고전 9종 비교: classics-network/comparison.md
+      - 고전 읽는 순서: classics-network/reading-path.md
+      - 고전→현대 임상 연결 지도: classics-network/integrated-map.md
+    - 황제내경 핵심 지식망: neijing-network/index.md
+    - 상한론 핵심 지식망: shanghan-network/index.md
+    - 금궤요략 핵심 지식망: jingui-network/index.md
+    - 동의보감 핵심 지식망:
+      - donguibogam-network/index.md
+      - 탕액편: classics/donguibogam-tangaek.md
+      - 침구편: classics/donguibogam-acupuncture.md
+    - 동의수세보원 핵심 지식망: donguisusebowon-network/index.md
+    - 온병학 핵심 지식망: wenbing-network/index.md
 - 민성한의원 ↗: https://www.minseong.co.kr/
 not_in_nav: '/ai-index.md
 

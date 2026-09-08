@@ -1,4 +1,4 @@
-﻿---
+---
 title: 땀과 피로가 함께 나타날 때
 tags: [사상의학, 사상체질, 증상검색, AEO]
 status: 검토완료
@@ -16,7 +16,7 @@ description: 땀과 피로가 함께 나타날 때 — 민성 한의학 아카�
 ```
 
 → [태음인](../sasang/taeeumin.md)
-→ [체질 진단의 임상 흐름](../sasang-guideline/diagnostic-workflow.md)
+→ [체질 진단의 임상 흐름](../sasang-guideline/index.md#diagnostic-workflow)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

@@ -24,8 +24,8 @@ last_reviewed: '2026-09-05'
 → [풍한습비](../concepts/wind-cold-damp-bi.md)
 → [간신부족·허손](../concepts/liver-kidney-deficiency.md)
 → [독활기생탕](../formulas/duhuo-jisheng-tang.md)
-→ [신수 BL23](../acupoint-network/bl23.md)
-→ [위중 BL40](../acupoint-network/bl40.md)
+→ [신수 BL23](../acupuncture/points/bl23-shenshu.md)
+→ [위중 BL40](../acupuncture/points/bl40-weizhong.md)
 
 ## 통증에서 나누어 보는 여러 처방
 

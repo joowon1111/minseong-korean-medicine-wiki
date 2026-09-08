@@ -21,7 +21,7 @@ last_reviewed: 2026-09-06
 2025년 미국의 대규모 무작위 임상시험에서는 65세 이상 만성요통 환자에서 침 치료를 기존 의료에 추가했을 때 6개월과 12개월의 요통 관련 기능장애가 더 크게 개선되었다.
 
 ## 연결
-- [주요 경혈](../acupuncture/key-acupoints.md)
+- [주요 경혈](../acupoint-network/standard-atlas.md)
 - [침구 임상 지식망](../network/acupuncture-clinical-map.md)
 - [요통 경혈 지식망](../network/low-back-pain-acupoints.md)
 

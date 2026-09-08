@@ -31,7 +31,7 @@ last_reviewed: 2026-09-06
 ## 지식망
 → [침 치료](../../treatments/acupuncture.md)  
 → [전침](../../treatments/electroacupuncture.md)  
-→ [합곡 LI4](../../acupoint-network/li4.md)  
+→ [합곡 LI4](../../acupuncture/points/li4-hegu.md)  
 → [수양명대장경](../../meridian-network/large-intestine-meridian.md)
 
 ## 해석

@@ -17,8 +17,8 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|
-| [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비; 식욕·소화와 함께 보는 기력저하 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
-| [당귀](../herbs/angelica.md)·[숙지황](../herbs/rehmannia-preparata.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈; 피로·건조·근육 당김을 함께 보는 배합 | [사물탕](../formulas/siwu-tang.md) · [쌍화탕](../formulas/ssanghwa-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비; 식욕·소화와 함께 보는 기력저하 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
+| [당귀](../herbs/angelica.md)·[숙지황](../herbs/rehmannia-preparata.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈; 피로·건조·근육 당김을 함께 보는 배합 | [사물탕](../formulas/siwu-tang.md) · [쌍화탕](../formulas/ssanghwa-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 | [맥문동](../herbs/ophiopogon.md)·[천문동](../herbs/ophiopogon-extra.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | [두충](../herbs/eucommia.md)·[우슬](../herbs/achyranthes.md)·[속단](../herbs/dipsacus.md) | 보간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [녹용](../herbs/cervi-parvum-cornu.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md) | 보익간신·정혈·비신을 나누어 봄 | [공진단](../formulas/gongjin-dan.md) · [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
@@ -129,7 +129,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | 본초 | 배합에서 보는 핵심 | 대표 처방 |
 |---|---|---|
 | [건강](../herbs/dried-ginger.md) | 온중산한·온폐화음 | [이중탕](../formulas/lizhong-tang.md) |
-| [육계](../herbs/cinnamon-bark.md) | 보화조양·산한통맥 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| [육계](../herbs/cinnamon-bark.md) | 보화조양·산한통맥 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 | [부자](../herbs/aconite.md) | 온양·화기; 법제·전탕과 용량을 함께 확인 | [진무탕](../formulas/zhenwu-tang.md) |
 | [오수유](../herbs/evodia-fruit.md) | 산한지통·강역지구; 가공·용량 확인 | [온경탕](../formulas/wenjing-tang.md) · [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
 

@@ -14,5 +14,5 @@ TE5 외관 · TE6 지구 · TE17 예풍
 ## 임상적으로 읽는 방법
 표리경 관계, 특정혈 체계, 국소 해부학, 변증과 배혈을 함께 살펴봅니다.
 
-→ [경락 개요](../meridians.md)
+→ [경락 개요](../../acupuncture-integrated/points-meridians.md)
 → [경혈 임상 지식망](../../acupoint-network/index.md)

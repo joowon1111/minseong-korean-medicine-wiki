@@ -24,7 +24,7 @@ last_reviewed: '2026-09-05'
 → [황기](../herbs/astragalus.md)
 → [사군자탕](../formulas/sijunzi-tang.md)
 → [보중익기탕](../formulas/buzhong-yiqi-tang.md)
-→ [족삼리 ST36](../acupoint-network/st36.md)
+→ [족삼리 ST36](../acupuncture/points/st36-zusanli.md)
 
 ## 기허 안에서 나누어 볼 배합
 

@@ -52,12 +52,12 @@ last_reviewed: 2026-08-29
 ## 상세 지식망
 
 - [동의수세보원·사상의학 임상 네트워크](../donguisusebowon-network/index.md)
-- [사상인의 기본 구조](../donguisusebowon-network/four-constitutions.md)
-- [성명론·사단론](../donguisusebowon-network/seongmyeong-sadan.md)
-- [장부론과 체질 생리](../donguisusebowon-network/zangbu-physiology.md)
-- [소증과 체질병증](../donguisusebowon-network/ordinary-symptoms-patterns.md)
-- [표리병증과 처방](../donguisusebowon-network/exterior-interior-patterns.md)
-- [체질별 치료 원칙](../donguisusebowon-network/treatment-principles.md)
+- [사상인의 기본 구조](../donguisusebowon-network/index.md#four-constitutions)
+- [성명론·사단론](../donguisusebowon-network/index.md#seongmyeong-sadan)
+- [장부론과 체질 생리](../donguisusebowon-network/index.md#zangbu-physiology)
+- [소증과 체질병증](../donguisusebowon-network/index.md#ordinary-symptoms-patterns)
+- [표리병증과 처방](../donguisusebowon-network/index.md#exterior-interior-patterns)
+- [체질별 치료 원칙](../donguisusebowon-network/index.md#treatment-principles)
 - [사상의학](../sasang/index.md)
 - [사상 처방 라이브러리](../sasang-formula-library/index.md)
 - [이제마](../physicians/lee-je-ma.md)

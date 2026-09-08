@@ -26,8 +26,8 @@ last_reviewed: 2026-08-19
 - [부항](../treatments/cupping.md)
 
 경혈:
-- [신수 BL23](../acupoint-network/bl23.md)
-- [위중 BL40](../acupoint-network/bl40.md)
+- [신수 BL23](../acupuncture/points/bl23-shenshu.md)
+- [위중 BL40](../acupuncture/points/bl40-weizhong.md)
 
 방제:
 → [독활기생탕](../formulas/duhuo-jisheng-tang.md)

@@ -8,6 +8,9 @@ last_reviewed: 2026-09-06
 
 # 손목터널증후군·손저림 — 야간 저림과 정중신경 압박
 
+<span id="symptom-care-routes"></span>
+
+
 **Carpal Tunnel Syndrome**
 
 ## 환자가 이렇게 검색할 수 있습니다
@@ -48,7 +51,7 @@ last_reviewed: 2026-09-06
 
 | 양상 | 추가로 살필 내용 | 자세한 안내 |
 |---|---|---|
-| 야간에 손끝이 저리고 손목 자세에 민감함 | 정중신경 감각·엄지근력 | [정중신경 포착 상세](../nerve-entrapment/carpal-tunnel.md) |
+| 야간에 손끝이 저리고 손목 자세에 민감함 | 정중신경 감각·엄지근력 | 정중신경 포착 상세 |
 | 목 움직임에 따라 팔·손저림이 변함 | 경추 신경근과 어깨 기능 | [목디스크](cervical-disc-herniation.md) |
 | 팔 전체의 저림과 자세·작업 연동 | 목·팔꿈치·손목의 여러 압박 부위 | [팔저림](arm-numbness.md) |
 | 양손·발끝이 함께 저림 | 당뇨·대사·말초신경 원인 | [손발저림](limb-numbness.md) |

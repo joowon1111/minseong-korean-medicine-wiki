@@ -1,4 +1,4 @@
-﻿---
+---
 title: 증상 → 사상체질병증 탐색 지도
 tags: [사상의학, 사상체질, 증상검색, AEO]
 status: 검토완료
@@ -21,7 +21,7 @@ description: 증상 → 사상체질병증 탐색 지도 — 민성 한의학 �
 한약 · 침뜸 · 식사 · 운동 · 성정관리
 ```
 
-→ [체질 진단의 임상 흐름](../sasang-guideline/diagnostic-workflow.md)
+→ [체질 진단의 임상 흐름](../sasang-guideline/index.md#diagnostic-workflow)
 → [사상의학 질문형 AEO 허브](../sasang-questions/index.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

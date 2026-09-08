@@ -39,7 +39,7 @@ last_reviewed: 2026-08-29
 - [황제내경](huangdi-neijing.md) — 열병·병기·장부 이론의 기반
 - [의학입문](uihak-ipmun.md) — 상한·내상·잡병을 포함한 종합 학습 체계
 - [온병학 핵심 지식망](../wenbing-network/index.md) — 위기영혈·삼초·처방 구조
-- [상한론과 온병학 비교](../wenbing-network/shanghan-comparison.md)
+- [상한론과 온병학 비교](../wenbing-network/index.md#shanghan-comparison)
 
 ## 원문과 자료
 
@@ -47,7 +47,7 @@ last_reviewed: 2026-08-29
 
 ## 관련 지식망
 
-- [온열론과 온병조변](../wenbing-network/classic-texts.md)
-- [삼초변증](../wenbing-network/triple-burner-patterns.md)
-- [위기영혈변증](../wenbing-network/wei-qi-ying-xue.md)
+- [온열론과 온병조변](../wenbing-network/index.md#classic-texts)
+- [삼초변증](../wenbing-network/index.md#triple-burner-patterns)
+- [위기영혈변증](../wenbing-network/index.md#wei-qi-ying-xue)
 - [고전 통합 임상 지도](../classics-network/integrated-map.md)

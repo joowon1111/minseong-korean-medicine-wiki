@@ -1,4 +1,4 @@
-﻿---
+---
 title: 경혈 문서 작성 원칙
 description: 경혈 문서의 위치·전통적 효능·현대 연구·안전성 표준 작성 형식을 정리합니다.
 tags: [침구, 운영, 경혈]
@@ -30,7 +30,7 @@ last_reviewed: 2026-08-19
 ## 표현 원칙
 특정 경혈 하나가 특정 질환을 단독으로 치료한다고 단정하지 않는다. 실제 침구치료는 경락·장부·변증과 국소 상태를 함께 고려해 배혈한다.
 
-→ [주요 경혈](key-acupoints.md)  
+→ [주요 경혈](../acupoint-network/standard-atlas.md)  
 → [침구 임상 지식망](../network/acupuncture-clinical-map.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

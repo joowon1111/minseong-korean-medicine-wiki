@@ -22,8 +22,8 @@ last_reviewed: 2026-09-06
 **PMID:** `41219786`
 
 ## 침구 지식망
-- [합곡 LI4](../../acupoint-network/li4.md)
-- [백회 GV20](../../acupoint-network/gv20.md)
+- [합곡 LI4](../../acupuncture/points/li4-hegu.md)
+- [백회 GV20](../../acupuncture/points/gv20-baihui.md)
 - [수양명대장경](../../meridian-network/large-intestine-meridian.md)
 - [독맥](../../meridian-network/governing-vessel.md)
 

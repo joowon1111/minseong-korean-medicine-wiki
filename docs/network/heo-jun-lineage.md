@@ -32,6 +32,6 @@ last_reviewed: 2026-08-19
 → [경옥고 임상근거](../research/formulas/gyeongok-go.md)
 
 ## 탕액과 침구
-동의보감 계보는 처방뿐 아니라 [본초학](../herbs/index.md)과 [침구학](../acupuncture/index.md)으로도 자연스럽게 확장된다.
+동의보감 계보는 처방뿐 아니라 [본초학](../herbs/index.md)과 [침구학](../acupuncture-integrated/index.md)으로도 자연스럽게 확장된다.
 
 → [전체 의가·고전·처방 계보](physician-classic-formula-lineage.md)

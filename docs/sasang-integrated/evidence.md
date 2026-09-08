@@ -43,8 +43,8 @@ last_reviewed: '2026-08-29'
 
 체질진단은 단일 검사 결과보다 평소 소증, 현재 병증, 임상가의 종합평가와 시간에 따른 일관성을 함께 봅니다.
 
-→ [체질진단 연구](../sasang-research/diagnosis-research.md)  
-→ [체질 진단의 임상 흐름](../sasang-guideline/diagnostic-workflow.md)
+→ [체질진단 연구](../sasang-research/index.md#diagnosis-research)  
+→ [체질 진단의 임상 흐름](../sasang-guideline/index.md#diagnostic-workflow)
 
 ### 체질처방 치료 연구
 
@@ -57,14 +57,14 @@ last_reviewed: '2026-08-29'
 
 같은 처방명이라도 출전과 구성, 대상 병증이 다를 수 있으므로 제목만 보고 같은 치료로 묶지 않습니다.
 
-→ [체질별 치료 연구](../sasang-research/treatment-research.md)  
+→ [체질별 치료 연구](../sasang-research/index.md#treatment-research)  
 → [사상체질 한약치료](../sasang-treatment/herbal-treatment.md)
 
 ### 체질과 건강지표 연구
 
 체질과 비만·대사·혈압·수면·소화·호흡기 특성의 연관성을 탐색하는 연구가 있습니다. 연관성이 확인됐다고 해서 체질이 질환의 직접 원인이라는 뜻은 아니며, 예방관리와 위험요인을 세분화하는 자료로 활용합니다.
 
-→ [체질과 대사·건강지표](../sasang-research/metabolic-health.md)
+→ [체질과 대사·건강지표](../sasang-research/index.md#metabolic-health)
 
 ## 진료지침과 표준자료
 
@@ -75,7 +75,7 @@ last_reviewed: '2026-08-29'
 - 체질처방 전향적 임상자료와 증례·임상시험
 
 → [사상체질 임상표준·진단](../sasang-guideline/index.md)  
-→ [국가 임상자료·진단가이드](../sasang-guideline/nckm-resources.md)
+→ [국가 임상자료·진단가이드](../sasang-guideline/index.md#nckm-resources)
 
 ## 원전 병증과 현대 질환을 연결하는 법
 
@@ -130,5 +130,5 @@ last_reviewed: '2026-08-29'
 - [사상체질 병증 비교](patterns.md)
 - [사상체질 대표처방](formulas.md)
 - [사상의학 현대 연구](../sasang-research/index.md)
-- [사상의학 연구 읽는 법](../sasang-research/evidence-framework.md)
+- [사상의학 연구 읽는 법](../sasang-research/index.md#evidence-framework)
 - [근거의 임상 적용](../evidence-integrated/clinical-application.md)

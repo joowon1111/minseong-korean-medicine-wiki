@@ -20,8 +20,8 @@ last_reviewed: 2026-08-19
 ```
 
 ## 3. 침구 연결
-- [합곡 LI4](../acupoint-network/li4.md)
-- [족삼리 ST36](../acupoint-network/st36.md)
+- [합곡 LI4](../acupuncture/points/li4-hegu.md)
+- [족삼리 ST36](../acupuncture/points/st36-zusanli.md)
 - [수양명대장경](../meridian-network/large-intestine-meridian.md)
 - [족양명위경](../meridian-network/stomach-meridian.md)
 

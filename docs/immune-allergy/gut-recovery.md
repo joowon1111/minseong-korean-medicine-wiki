@@ -25,8 +25,8 @@ last_reviewed: 2026-09-06
 - [온담탕](../formulas/wendan-tang.md)
 
 ## 경혈
-- [족삼리 ST36](../acupoint-network/st36.md)
-- [내관 PC6](../acupoint-network/pc6.md)
+- [족삼리 ST36](../acupuncture/points/st36-zusanli.md)
+- [내관 PC6](../acupuncture/points/pc6-neiguan.md)
 
 → [소화불량 임상 추론](../clinical-reasoning/dyspepsia.md)
 → [소화·비위 허브](../pillar/digestion-spleen-stomach.md)

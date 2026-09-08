@@ -52,7 +52,7 @@ last_reviewed: 2026-08-19
 
 ## 역사 축
 → [의가·고전·처방 계보](physician-classic-formula-lineage.md)  
-→ [한의학 역사 타임라인](../history/timeline.md)
+→ [한의학 역사 타임라인](../history/index.md#timeline)
 
 ## 현대 연구 축
 → [연구·근거 안내](../portal/evidence.md)
