@@ -29,6 +29,15 @@
     ["명치답답함", ["소화불량", "명치답답함"]],
   ]);
 
+  // Match concrete patient phrases inside longer questions, not isolated particles
+  // such as "안". These expand document search; they do not select a prescription.
+  const patientPhrases = [
+    [/피곤(?:해요|하고|해서|합니다)|기운이?없(?:어요|고|어서|습니다)/, ["피로", "기력저하"]],
+    [/잠(?:이|도)?안(?:와요|오고|와서|옵니다)|자주깨(?:요|고|서)/, ["불면", "수면"]],
+    [/소화(?:가|도)?안(?:돼요|되고|돼서|됩니다)|속(?:이|도)?더부룩(?:해요|하고|해서)/, ["소화불량"]],
+    [/밥(?:을|도)?못(?:먹(?:어요|고|어서)|드(?:세요|시고|셔서))|입맛이?없(?:어요|고|어서)/, ["식욕저하"]],
+  ];
+
   async function loadIndex() {
     if (docs) return docs;
     if (!loading) {
@@ -73,6 +82,22 @@
       terms.add(normalize(extra));
       terms.add(compact(extra));
     }
+    let symptomPhrase = false;
+    for (const [pattern, extras] of patientPhrases) {
+      if (!pattern.test(c)) continue;
+      symptomPhrase = true;
+      for (const extra of extras) terms.add(extra);
+    }
+    if (symptomPhrase && /부모님|어머니|아버지|어르신/.test(c)) {
+      terms.add("어르신");
+      terms.add("노인");
+    }
+    if (symptomPhrase && c.includes("수술후")) terms.add("수술후");
+    if (symptomPhrase) {
+      // In a recognized sentence, these particles otherwise match unrelated titles
+      // (e.g. "안" matches every "안내"). Keep the complete original query.
+      for (const particle of ["안", "못", "후", "도"]) terms.delete(particle);
+    }
     return [...terms].filter((x) => x.length >= 1);
   }
 
@@ -98,14 +123,20 @@
     if (title.includes(qn) || titleC.includes(qc)) score += 420;
     if (keys.includes(qn) || keysC.includes(qc)) score += 340;
 
-    let textMatched = false;
+    let termMatched = false;
     for (const [term, tc] of terms) {
       if (!term) continue;
-      if (title.includes(term) || titleC.includes(tc)) score += 160;
-      if (keys.some((k) => k.includes(term)) || keysC.some((k) => k.includes(tc))) score += 110;
+      if (title.includes(term) || titleC.includes(tc)) {
+        score += 160;
+        termMatched = true;
+      }
+      if (keys.some((k) => k.includes(term)) || keysC.some((k) => k.includes(tc))) {
+        score += 110;
+        termMatched = true;
+      }
       if (text.includes(term) || textC.includes(tc)) {
         score += 18;
-        textMatched = true;
+        termMatched = true;
       }
     }
 
@@ -113,7 +144,7 @@
     const matched =
       title.includes(qn) || titleC.includes(qc) ||
       keys.includes(qn) || keysC.includes(qc) ||
-      textMatched;
+      termMatched;
 
     return matched ? score : 0;
   }

@@ -167,3 +167,65 @@ test('empty index and HTML titles/snippets are safe', async () => {
   assert.match(b.panel.innerHTML, /&lt;img&gt;/);
   assert.doesNotMatch(b.panel.innerHTML, /<script>|<img>/);
 });
+
+test('compound patient questions expand fatigue, sleep and digestion together', async () => {
+  const compoundRows = [
+    { title: '잠과 소화 상담', url: '/questions/choice/insomnia-dyspepsia/', keywords: ['불면', '소화불량', '피로'], text: '' },
+    { title: '피로 안내', url: '/conditions/chronic-fatigue/', text: '피로 기력저하' },
+    { title: '무관한 안내', url: '/unrelated/', text: '일정 위치' },
+  ];
+  const b = browser(async () => ({ ok: true, json: async () => compoundRows }));
+  for (const query of ['피곤하고 잠도 안 오고 소화도 안 돼요', '피곤하고잠도안오고소화도안돼요']) {
+    await b.enter(query);
+    const urls = [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
+    assert.equal(urls[0], '/questions/choice/insomnia-dyspepsia/', query);
+    assert.ok(urls.includes('/conditions/chronic-fatigue/'), query);
+    assert.ok(!urls.includes('/unrelated/'), query);
+  }
+});
+
+test('family context in a symptom question surfaces the older-adult guide', async () => {
+  const b = browser(async () => ({ ok: true, json: async () => [
+    { title: '노인보약·어르신보약', url: '/conditions/elderly-tonic/', keywords: ['식욕저하', '기력저하'], text: '' },
+    { title: '소아 식욕저하', url: '/conditions/child-poor-appetite/', text: '식욕저하' },
+  ] }));
+  await b.enter('부모님이 밥을 못 드시고 기운이 없어요');
+  assert.ok(b.panel.innerHTML.indexOf('/conditions/elderly-tonic/') < b.panel.innerHTML.indexOf('/conditions/child-poor-appetite/'));
+  assert.match(b.panel.innerHTML, /href="\/conditions\/elderly-tonic\/"/);
+});
+
+test('healthy and negated phrases do not expand into symptom aliases', async () => {
+  const b = browser(async () => ({ ok: true, json: async () => [
+    { title: '불면', url: '/sleep/', text: '불면 수면' },
+    { title: '소화불량', url: '/digestion/', text: '소화불량' },
+    { title: '피로', url: '/fatigue/', text: '피로 기력저하' },
+    { title: '노인', url: '/elderly/', text: '노인 어르신' },
+  ] }));
+  for (const query of ['잠이잘와요', '소화가잘돼요', '피곤하지않아요', '부모님선물포장']) {
+    await b.enter(query);
+    assert.doesNotMatch(b.panel.innerHTML, /class="ms-ksearch-item"/, query);
+  }
+});
+
+test('term matches in titles or keywords survive when the body is empty', async () => {
+  for (const row of [
+    { title: '불면', keywords: [] },
+    { title: '수면 상담', keywords: ['불면증'] },
+  ]) {
+    const b = browser(async () => ({ ok: true, json: async () => [{ ...row, url: '/guide/', text: '' }] }));
+    await b.enter('잠이안와요');
+    assert.match(b.panel.innerHTML, /href="\/guide\/"/);
+  }
+});
+
+test('a compound symptom question keeps the surgery context despite spacing', async () => {
+  const b = browser(async () => ({ ok: true, json: async () => [
+    { title: '수술 후 회복', url: '/conditions/postoperative-recovery/', text: '식욕저하 피로 기력저하' },
+    { title: '피로', url: '/conditions/chronic-fatigue/', text: '식욕저하 피로 기력저하' },
+  ] }));
+  for (const query of ['수술 후 밥을 못 먹고 기운이 없어요', '수술후밥을못먹고기운이없어요']) {
+    await b.enter(query);
+    const urls = [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
+    assert.equal(urls[0], '/conditions/postoperative-recovery/', query);
+  }
+});
