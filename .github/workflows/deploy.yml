@@ -36,15 +36,15 @@ jobs:
       - name: Audit source links and duplicate URLs
         run: python tools/audit_internal_links.py
 
-      - name: Test link and anchor audit
-        run: python -m unittest discover -s tools -p test_audit_internal_links.py
+      - name: Test build, security, links and Evidence Radar
+        run: python -m unittest discover -s tools -p "test_*.py"
 
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
 
       - name: Test Korean search loading and results
-        run: node --test tools/test_korean_search.cjs
+        run: node --test tools/test_*.cjs
 
       - name: Build MkDocs site
         run: mkdocs build

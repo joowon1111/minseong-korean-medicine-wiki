@@ -11,4 +11,8 @@ This repository is public. Treat every committed file, pull request, issue, and 
 
 ## Required check before a commit or push
 
-Run `python tools/check_secrets.py`. The check must finish without findings. Do not bypass the check by weakening a detection pattern. A documented false positive may use an adjacent `secret-scan: allow` marker only when it contains no credential value.
+Run `python tools/check_secrets.py` after staging and before every commit or push.
+It checks the actual Git index; `--staged` checks only staged changes. The check
+must finish without findings. Never bypass a finding with inline allow markers
+or weaker patterns. Any false positive must be reviewed without exposing values.
+A failed or incomplete security check blocks publication; do not silently pass it.

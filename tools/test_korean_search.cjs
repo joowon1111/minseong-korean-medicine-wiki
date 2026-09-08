@@ -16,6 +16,8 @@ const rows = [
 function browser(fetchImpl = async () => ({ ok: true, json: async () => rows })) {
   const listeners = {};
   const classes = new Set();
+  const keyListeners = [];
+  const subscriptions = [];
   const input = { value: '', dataset: {}, addEventListener: (name, fn) => { listeners[name] = fn; } };
   let panel;
   const requests = [];
@@ -25,14 +27,17 @@ function browser(fetchImpl = async () => ({ ok: true, json: async () => rows }))
     getElementById: () => panel,
     createElement: () => ({ hidden: false, innerHTML: '', setAttribute() {} }),
     documentElement: { classList: { add: (name) => classes.add(name), remove: (name) => classes.delete(name) } },
-    addEventListener() {},
+    addEventListener(name, fn) { if (name === "keydown") keyListeners.push(fn); },
   };
   vm.runInNewContext(script, {
-    document, setTimeout, console: { error() {} },
+    document, setTimeout: (fn) => fn(), console: { error() {} },
+    document$: { subscribe: (fn) => subscriptions.push(fn) },
     fetch: (...args) => { requests.push(args); return fetchImpl(...args); },
   });
   return {
-    input, requests, classes,
+    input, requests, classes, keyListeners, subscriptions,
+    escape() { keyListeners.forEach((fn) => fn({ key: "Escape" })); },
+    navigate() { input.dataset = {}; subscriptions.forEach((fn) => fn()); },
     get panel() { return panel; },
     async enter(value) { input.value = value; await listeners.input(); },
     async focus() { await listeners.focus(); },
@@ -109,4 +114,56 @@ test('unknown queries show an escaped empty result', async () => {
   await b.enter('<없는검색어>');
   assert.match(b.panel.innerHTML, /&lt;없는검색어&gt;/);
   assert.doesNotMatch(b.panel.innerHTML, /class="ms-ksearch-item"/);
+});
+
+test('escape cancels a pending render', async () => {
+  let finish;
+  const b = browser(() => new Promise((resolve) => { finish = resolve; }));
+  const pending = b.enter('불면');
+  b.escape();
+  finish({ ok: true, json: async () => rows });
+  await pending;
+  assert.equal(b.panel.hidden, true);
+  assert.equal(b.classes.has('ms-ksearch-active'), false);
+});
+
+test('instant navigation installs only one global listener and subscription', () => {
+  const b = browser();
+  for (let n = 0; n < 20; n++) b.navigate();
+  assert.equal(b.subscriptions.length, 1);
+  assert.equal(b.keyListeners.length, 1);
+});
+
+test('invalid rows and executable URLs cannot break or inject search results', async () => {
+  const invalid = [null, {}, { ...rows[0], keywords: {} },
+    ...['javascript:alert(1)', 'data:text/html,evil', '//evil.test/', '/\\evil.test/', '/\nevil.test/'].map(url => ({ ...rows[0], url }))];
+  const b = browser(async () => ({ ok: true, json: async () => [...invalid, ...rows] }));
+  await b.enter('불면');
+  assert.match(b.panel.innerHTML, /href="\/conditions\/insomnia\/"/);
+  assert.doesNotMatch(b.panel.innerHTML, /evil|javascript:|data:text/);
+});
+
+test('HTTP permission failures and corrupt JSON recover on next input', async () => {
+  for (const response of [
+    { ok: false, status: 403 },
+    { ok: true, json: async () => { throw new SyntaxError('bad JSON'); } },
+    { ok: true, json: async () => ({ rows: [] }) },
+  ]) {
+    let attempts = 0;
+    const b = browser(async () => ++attempts === 1 ? response : { ok: true, json: async () => rows });
+    await b.enter('불면');
+    await b.focus();
+    assert.equal(attempts, 2);
+    assert.match(b.panel.innerHTML, /conditions\/insomnia/);
+  }
+});
+
+test('empty index and HTML titles/snippets are safe', async () => {
+  const empty = browser(async () => ({ ok: true, json: async () => [] }));
+  await empty.enter('불면');
+  assert.doesNotMatch(empty.panel.innerHTML, /class="ms-ksearch-item"/);
+  const b = browser(async () => ({ ok: true, json: async () => [{ ...rows[0], title: '<img>불면', snippet: '<script>bad</script>' }] }));
+  await b.enter('불면');
+  assert.match(b.panel.innerHTML, /&lt;img&gt;/);
+  assert.doesNotMatch(b.panel.innerHTML, /<script>|<img>/);
 });

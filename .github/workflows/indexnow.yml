@@ -58,10 +58,12 @@ jobs:
           AFTER: ${{ github.sha }}
 
       - name: Submit changed URLs to IndexNow
+        env:
+          INDEXNOW_URLS: ${{ steps.urls.outputs.json }}
         shell: python
         run: |
-          import json, urllib.request
-          urls = json.loads(r'''${{ steps.urls.outputs.json }}''')
+          import json, os, urllib.request
+          urls = json.loads(os.environ["INDEXNOW_URLS"])
           payload = {
               "host": "wiki.minseong.co.kr",
               "key": "c9f08cbe667518fc88901d68a49b5450",
