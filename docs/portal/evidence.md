@@ -29,6 +29,18 @@ hide:
 
 같은 논문은 질환·처방·치료방법 페이지에 각각 인용될 수 있습니다. 좌측 메뉴에서는 중복 노출을 줄이고, 세부 RCT·메타분석·전임상 목록은 각 대표 자료실 안에서 이어지도록 구성했습니다.
 
+## 질문에서 설명과 근거까지 이어 읽기 {#question-reading-paths}
+
+짧은 증상 안내를 읽은 뒤, 궁금한 치료의 근거로 이동하세요. 마지막 자료에서는 연구 대상과 비교군, 평가한 결과를 확인할 수 있습니다.
+
+| 시작 질문 | 증상·치료 설명 | 연구를 더 읽으려면 |
+|---|---|---|
+| 피로에 공진단을 연구한 자료가 있나요? | [피로·기력회복](../conditions/energy-recovery.md) → [공진단의 구성과 전통 맥락](../formulas/gongjin-dan.md) | [공진단 사람 대상 연구와 원문](../research/formulas/gongjin-dan.md) |
+| 잠들기 어렵고 자주 깨는 증상을 어떻게 살피나요? | [불면·수면장애 안내](../conditions/insomnia.md) | [불면 임상근거와 평가 지표](../authority/conditions/insomnia.md) |
+| 먹고 나면 더부룩한 증상의 치료 근거가 궁금해요 | [소화불량 안내](../conditions/dyspepsia.md) | [기능성소화불량 임상근거](../authority/conditions/functional-dyspepsia.md) |
+
+논문이 낯설다면 [RCT의 비교군과 결과 숫자 읽기](../evidence-guide/rct.md#reading-results)를 먼저 보세요. 연구를 읽고 실제 상담에서 물어볼 내용은 [연구와 내 상황 비교](../evidence-integrated/clinical-application.md)로 정리할 수 있습니다.
+
 ## 이 아카이브가 근거를 연결하는 방식
 
 1. 환자의 증상과 치료 목표를 확인합니다.

@@ -25,3 +25,5 @@ last_reviewed: 2026-08-19
 이 연구는 공진단의 전통적 보익 활용이 현대 사람 대상 위약대조 임상시험으로 연구되고 있음을 보여준다. 단일 연구의 결과를 모든 피로 상태에 일반화하기보다 대상자와 평가변수를 함께 본다.
 
 → [공진단 임상근거](../research/formulas/gongjin-dan.md)
+
+원 논문에 연결된 [2025년 정정 공지](https://pubmed.ncbi.nlm.nih.gov/40949767/)와 확인 범위는 [원문·정정 공지 안내](../research/formulas/gongjin-dan.md#source-status)에서 함께 볼 수 있습니다.
