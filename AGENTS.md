@@ -16,3 +16,10 @@ It checks the actual Git index; `--staged` checks only staged changes. The check
 must finish without findings. Never bypass a finding with inline allow markers
 or weaker patterns. Any false positive must be reviewed without exposing values.
 A failed or incomplete security check blocks publication; do not silently pass it.
+
+## Content integration
+
+- Read the whole target document before expanding it. Integrate new material into the relevant existing paragraphs, tables, and sections; merge or replace overlapping explanations.
+- Do not accumulate unrelated update blocks, repeated warnings, link lists, or duplicate summaries at the end of a page. Add a section only when it serves a distinct question in the document's reading order.
+- Place related links where readers need the next explanation. Keep the established taxonomy and URLs; verify existing heading anchors when restructuring.
+- Prefer strengthening existing documents to creating overlapping pages. Preserve the policy against blanket public review dates and do not invent clinical experience, authorship, or credentials.

@@ -29,7 +29,7 @@ last_reviewed: 2026-09-06
 - [반하후박탕](../formulas/banxia-houpo-tang.md) — 목 이물감과 담기울결·오심
 - [이진탕](../formulas/erchen-tang.md) — 담습·오심·가래
 - [보화환](../formulas/baohe-wan.md) — 식적
-- [육군자탕](../research/formulas/rikkunshito.md) — 비위기허·식욕저하·조기포만
+- [육군자탕](../formulas/liujunzi-tang.md) — 비위기허·식욕저하·조기포만; [사군자탕과 배합 비교](../compare/sijunzi-vs-liujunzi.md#pinellia-citrus) · [임상근거](../research/formulas/rikkunshito.md)
 - [삼령백출산](../formulas/shenling-baizhu-san.md) — 비위기허와 수습이 함께 있는 만성 묽은변·식욕저하·피로
 
 ## 처방을 고르는 관점

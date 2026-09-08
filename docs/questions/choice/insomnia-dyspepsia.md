@@ -23,11 +23,13 @@ last_reviewed: 2026-08-19
 
 ## 한의학에서는 왜 여러 처방을 비교하나요? {#formula-reasoning}
 
-불면과 함께 더부룩함·메스꺼움 등이 두드러지면 전통적으로 담음·담위불화의 관점에서 [온담탕](../../formulas/wendan-tang.md)을 살펴볼 수 있습니다. 비위기허와 담음이 함께 나타나는지에 따라 [육군자탕](../../formulas/liujunzi-tang.md), 걱정·두근거림과 기혈부족의 양상에 따라 [귀비탕](../../formulas/guibi-tang.md)도 비교합니다.
+불면과 함께 더부룩함·메스꺼움 등이 두드러지면 전통적으로 담음·담위불화의 관점에서 온담탕을 살펴볼 수 있습니다. 걱정·두근거림과 기혈부족의 양상을 보는 귀비탕과 어떤 점이 다른지는 [귀비탕과 온담탕 비교](../../compare/guibi-vs-wendan.md#digestion-context)에서 확인할 수 있습니다.
+
+식사량과 기력이 줄면서 소화불편이 동반된다면 비위를 보하는 기본 골격에 어떤 조절이 필요한지도 살핍니다. [사군자탕과 육군자탕 비교](../../compare/sijunzi-vs-liujunzi.md#appetite-fullness)는 입맛이 없는 경우와 조금 먹어도 배부른 경우를 나누어 설명합니다.
 
 이것은 서로 다른 배합을 설명하는 틀이며 증상만으로 진단하거나 약을 선택하는 기준은 아닙니다. 수면과 소화를 같이 묻는 이유는 **어떤 변화가 일상생활을 가장 방해하고 있는지 파악하기 위해서**입니다.
 
-[귀비탕과 온담탕 비교](../../compare/guibi-vs-wendan.md) · [피로와 소화불편을 보는 보중익기탕 해설](../../formulas/buzhong-yiqi-tang.md#fatigue-with-digestion)
+피로·식욕과 처지는 느낌이 중심이라면 [보중익기탕의 피로·소화불편 해설](../../formulas/buzhong-yiqi-tang.md#fatigue-with-digestion)도 함께 읽을 수 있습니다.
 
 ## 진료 전에 준비할 내용 {#next-step}
 
