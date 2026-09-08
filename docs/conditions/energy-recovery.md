@@ -4,6 +4,13 @@ description: 피로보약·기력회복 한약의 판단 기준과 경과 관찰
 tags: [질환증상, 피로보약, 기력회복, 허약, 보약, 피로]
 status: 검토완료
 last_reviewed: 2026-09-06
+related_reading:
+- document: conditions/chronic-fatigue.md
+  reason: 지속되는 피로의 원인과 감별을 먼저 확인해요.
+- document: conditions/deer-antler-tonic-guide.md
+  reason: 녹용보약을 고려할 때의 확인사항을 읽어요.
+- document: conditions/elderly-tonic.md
+  reason: 노년기 피로라면 식사·근력·복용약을 함께 살펴요.
 ---
 # 피로보약·기력회복·허약
 

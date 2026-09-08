@@ -4,6 +4,13 @@ description: 성장보약·아이 보약·소아 한약의 목표와 복용 판�
 tags: [소아, 성장보약, 아이보약, 소아보약, 소아한약, 식욕, 성장]
 status: 검토완료
 last_reviewed: 2026-09-06
+related_reading:
+- document: conditions/child-growth.md
+  reason: 성장 평가와 생활관리를 함께 확인해요.
+- document: conditions/deer-antler-tonic-guide.md
+  reason: 녹용 배합을 고려할 때 확인할 내용을 읽어요.
+- document: conditions/child-fatigue.md
+  reason: 아이의 피로·활동량 변화를 함께 살펴요.
 ---
 # 성장보약·아이 보약·소아 한약
 

@@ -52,5 +52,8 @@ jobs:
       - name: Audit generated site links
         run: python tools/audit_internal_links.py --site
 
+      - name: Audit page metadata and AI documents
+        run: python tools/audit_page_discovery.py
+
       - name: Deploy
         run: mkdocs gh-deploy --force

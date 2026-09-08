@@ -17,11 +17,14 @@ Official clinic: https://minseong.co.kr/
 
 ## Machine-readable knowledge layer
 
+- Page index: https://wiki.minseong.co.kr/assets/ai/page-index.json
 - Manifest: https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json
 - Knowledge graph: https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json
 - Schema: https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json
 
 The knowledge layer represents public archive pages as typed entities and internal relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
+
+For a single topic, use the page index to retrieve its page-sized JSON document instead of downloading the entire graph. Each HTML page also advertises its JSON document with a `link rel="alternate" type="application/json"` element. These documents contain the rendered article text, canonical URL, real heading anchors, and links to sources and related pages. They are generated together with the HTML at every build. Cite the canonical HTML URL and its heading anchors, not the JSON file. A recorded review date is not a guarantee that every cited study is current; follow source links and preserve safety statements and evidence limitations. No private metadata or patient information is exported.
 
 ## Core knowledge areas
 
@@ -52,7 +55,7 @@ The knowledge layer represents public archive pages as typed entities and intern
 - 대표 본초 근거 카드: https://wiki.minseong.co.kr/authority/herbs/
 - 침 치료 근거 카드: https://wiki.minseong.co.kr/authority/acupuncture/
 - 한약 처방 임상근거: https://wiki.minseong.co.kr/research/formulas/
-- 임상 근거 허브: https://wiki.minseong.co.kr/research/clinical-evidence-hub/
+- 임상 근거 허브: https://wiki.minseong.co.kr/portal/evidence/
 - RCT 인덱스: https://wiki.minseong.co.kr/research/rct-index/
 - 체계적 문헌고찰·메타분석: https://wiki.minseong.co.kr/research/meta-analysis-index/
 - 참고문헌 데이터베이스: https://wiki.minseong.co.kr/research/references/
