@@ -48,6 +48,53 @@ class BuildOutputs(unittest.TestCase):
         with self.assertRaises(ValueError): ai.validate([entity], [{'source':'a','relation':'links_to','target':'missing'}])
         ai.validate([], [])
 
+    def test_aliases_exclude_comments_and_structured_data(self):
+        body = '''## 검색 동의어
+피로 · 기력저하
+<!-- MINSEONG_CORE_HUB_LINKS_V2 -->
+<script type="application/ld+json">
+{"@type": "MedicalWebPage", "name": "관리용 이름"}
+</script>
+<style>.private {color:red}</style>
+<template>템플릿</template>
+### 최신 연구
+논문 제목 · 연구 설명
+'''
+        self.assertEqual(ai.extract_search_aliases(body), ['피로', '기력저하'])
+
+    def test_hidden_headings_do_not_change_alias_section(self):
+        body = '''<!--
+## 검색 동의어
+숨긴 동의어
+-->
+<SCRIPT>
+## 검색 동의어
+스크립트 문자열
+</SCRIPT>
+## 검색 동의어 {#aliases}
+피로<!-- 주석 -->회복 · **보약**
+<!--
+## 숨긴 경계
+-->
+기력
+'''
+        self.assertEqual(ai.extract_search_aliases(body), ['피로회복', '보약', '기력'])
+
+    def test_aliases_stop_at_any_next_heading(self):
+        for heading in ('# 다른 문서', '## 관련 문서', '### 연구', '#### 주의', '<h2 id="next">다음</h2>'):
+            body = '## 검색 동의어\n피로 · 보약\n' + heading + '\n설명 · 출처'
+            self.assertEqual(ai.extract_search_aliases(body), ['피로', '보약'])
+
+    def test_aliases_keep_valid_terms_and_remove_tags(self):
+        body = '## 검색 동의어\n<span id="anchor"></span>\n**PCOS** · pcOS, <em>생리불순</em>; 피로\n[관련](topic.md)'
+        self.assertEqual(ai.extract_search_aliases(body), ['PCOS', '생리불순', '피로'])
+        self.assertEqual(ai.extract_search_aliases('## 다른 제목\n피로'), [])
+        self.assertEqual(ai.extract_search_aliases('## 검색 동의어\n<!-- 관리 -->'), [])
+
+    def test_unclosed_hidden_blocks_do_not_leak(self):
+        for hidden in ('<!-- 관리 메모', '<script>관리 코드', '<style>관리 스타일', '<template>관리 양식'):
+            self.assertEqual(ai.extract_search_aliases('## 검색 동의어\n피로\n' + hidden), ['피로'])
+
     def test_failed_replace_preserves_previous_file(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp)/'index.json'; path.write_bytes(b'old')
