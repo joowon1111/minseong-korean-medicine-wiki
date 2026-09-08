@@ -28,7 +28,7 @@ hide:
 | 아이의 성장과 식욕이 걱정돼요 | [성장보약·아이 보약 상담 안내](conditions/child-parent-tonic-guide.md) |
 | 수술 뒤 한약 상담에는 무엇을 준비하나요? | [수술 후 회복·보약 안내](conditions/postoperative-recovery.md) |
 
-내 상황을 이해했다면 [상담 전 준비](conditions/herbal-consultation-prep.md), [복용기간과 재평가](conditions/tonic-duration.md), [복용 후 변화 기록](conditions/herbal-followup.md)으로 이어서 볼 수 있습니다.
+한약 상담과 복용을 준비할 때는 [상담 전 준비](conditions/herbal-consultation-prep.md), [복용기간과 재평가](conditions/tonic-duration.md), [복용 후 변화 기록](conditions/herbal-followup.md)을 함께 참고하세요.
 
 ## 많이 찾는 주제
 
