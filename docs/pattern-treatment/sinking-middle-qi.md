@@ -22,7 +22,7 @@ last_reviewed: '2026-09-05'
 
 → [보중익기탕](../formulas/buzhong-yiqi-tang.md)
 → [비위론](../classics/piwei-lun.md)
-→ [이동원 계보](../network/li-dongyuan-lineage.md)
+→ [이동원 계보](../physicians/li-dongyuan.md#formula-lineage)
 
 ## 보기승양과 다른 보익의 차이
 

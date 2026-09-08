@@ -33,31 +33,31 @@ last_reviewed: 2026-08-19
 
 [장중경](../physicians/zhang-zhongjing.md)의 [《상한론》](../classics/shanghanlun.md)과 [《금궤요략》](../classics/jinkui-yaolue.md)은 맥증과 병기를 실제 처방으로 연결하는 임상체계를 보여준다.
 
-→ [장중경 계보](../network/zhang-zhongjing-lineage.md)
+→ [장중경 계보](../physicians/zhang-zhongjing.md#formula-lineage)
 
 **3. 종합 임상 — 손사막**
 
 [손사막](../physicians/sun-simiao.md)의 [《비급천금요방》](../classics/beiji-qianjin-yaofang.md)은 내과·부인과·소아과·침구·식치·양생을 아우르는 종합 임상 의학의 흐름을 보여준다.
 
-→ [손사막 계보](../network/sun-simiao-lineage.md)
+→ [손사막 계보](../physicians/sun-simiao.md#formula-lineage)
 
 **4. 비위와 내상 — 이동원**
 
 [이동원](../physicians/li-dongyuan.md)의 [《비위론》](../classics/piwei-lun.md)은 음식·노권, 비위손상과 원기부족을 강조하며 보기·승양 치료를 발전시켰다.
 
-→ [이동원 계보](../network/li-dongyuan-lineage.md)
+→ [이동원 계보](../physicians/li-dongyuan.md#formula-lineage)
 
 **5. 조선 의학의 집대성 — 허준**
 
 [허준](../physicians/heo-jun.md)의 [《동의보감》](../classics/donguibogam.md)은 내경·외형·잡병·탕액·침구의 구조로 방대한 의학지식을 재구성했다.
 
-→ [허준 계보](../network/heo-jun-lineage.md)
+→ [허준 계보](../physicians/heo-jun.md#formula-lineage)
 
 **6. 한국 체질의학 — 이제마**
 
 [이제마](../physicians/lee-je-ma.md)의 [《동의수세보원》](../classics/donguisusebowon.md)은 태양인·태음인·소양인·소음인의 장부 구조와 병증·치료를 체계화했다.
 
-→ [이제마 계보](../network/lee-je-ma-lineage.md)
+→ [이제마 계보](../physicians/lee-je-ma.md#formula-lineage)
 
 **전체 흐름**
 
@@ -97,7 +97,7 @@ last_reviewed: 2026-08-19
 
 `맥증·육경 → 치법 → 계지탕·마황탕·소청룡탕·소시호탕·오령산`
 
-→ [장중경 계보](../network/zhang-zhongjing-lineage.md)
+→ [장중경 계보](../physicians/zhang-zhongjing.md#formula-lineage)
 
 **손사막 — 비증과 허손**
 
