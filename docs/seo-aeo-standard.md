@@ -161,12 +161,46 @@ AI가 문서를 정확하게 이해하고 인용하려면 다음 요소가 중�
 
 ## 구조화 데이터와 기술 기준 {#_10}
 
+아카이브는 사람이 읽는 문서와 함께, 검색엔진과 AI 도구가 문서의 제목·본문·출처·연결 관계를 읽을 수 있는 구조화 자료를 제공합니다. 아래에서 실제 공개 자료와 데이터 형식을 확인할 수 있습니다.
+
+### 공개된 AI 읽기 자료 {#public-ai-data}
+
+| 자료 | 담고 있는 정보 | 직접 살펴보기 |
+|---|---|---|
+| 문서별 JSON | 한 문서의 제목·본문·소제목 주소·출처 및 관련 링크 | [이 문서의 JSON](https://wiki.minseong.co.kr/assets/ai/pages/seo-aeo-standard/index.json) · [전체 문서 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json) |
+| 지식그래프 JSON | 증상·질환·본초·방제 등 공개 문서의 분류와 문서 사이의 연결 | [지식그래프](https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json) |
+| JSON Schema | 지식그래프의 필드와 자료형을 정의한 데이터 규격 | [데이터 스키마](https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json) |
+| 데이터 매니페스트 | 지식그래프의 문서·관계 수, 분류별 구성과 제공 파일 목록 | [데이터 구성 정보](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json) |
+| llms.txt | 아카이브의 주요 주제와 AI 읽기 자료를 안내하는 텍스트 | [AI 읽기 안내](https://wiki.minseong.co.kr/llms.txt) |
+
+특정 주제 하나를 읽을 때는 문서별 JSON을, 여러 주제의 연결을 살펴볼 때는 지식그래프를 활용할 수 있습니다. 문서별 JSON에는 실제 본문 소제목으로 이동하는 주소도 포함됩니다. 내용을 인용할 때는 독자가 맥락과 출처를 확인할 수 있도록 원래 문서 주소를 사용합니다.
+
+### 페이지에 담긴 구조화 데이터 {#json-ld-example}
+
+각 페이지에는 schema.org 어휘를 사용하는 JSON-LD 구조화 데이터도 포함됩니다. 문서의 성격을 나타내는 `WebPage`·`MedicalWebPage`, 사이트 정보를 나타내는 `WebSite`, 문서의 탐색 경로를 나타내는 `BreadcrumbList` 등을 페이지에 맞게 제공합니다.
+
+다음은 이 문서의 구조화 데이터에서 주요 항목을 간추린 예시입니다.
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://wiki.minseong.co.kr/seo-aeo-standard/#webpage",
+  "url": "https://wiki.minseong.co.kr/seo-aeo-standard/",
+  "name": "SEO·AEO·GEO 문서 표준",
+  "inLanguage": "ko-KR"
+}
+```
+
+JSON-LD는 **웹페이지가 무엇을 설명하는지**를 표현하고, 위의 JSON Schema는 **지식그래프 파일을 어떤 형식으로 읽어야 하는지**를 정의합니다. 공개 문서의 정보를 일관되게 전달하기 위한 서로 다른 자료입니다.
+
+### 적용 원칙 {#structured-data-principles}
+
 - 구조화 데이터는 페이지에서 사용자가 실제로 볼 수 있는 내용과 일치해야 합니다.
 - 존재하지 않는 저자·평점·질문·답변을 마크업에 추가하지 않습니다.
 - 구조화 데이터는 검색 노출이나 순위를 보장하지 않습니다.
 - 중복 페이지를 만들지 않고 하나의 대표 URL을 유지합니다.
 - 내부 링크는 크롤러가 따라갈 수 있는 일반 링크로 제공합니다.
-
 
 ## 관련 문서 {#_11}
 
