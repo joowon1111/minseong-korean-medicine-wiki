@@ -4,6 +4,13 @@ description: 복강경·담낭·척추·관절·골절·부인과·제왕절개�
 tags: [수술후회복보약, 수술후회복, 수술후보약, 수술후한약, 수술후기력회복, 복강경수술후회복, 담낭수술후회복, 척추수술후회복, 관절수술후회복, 골절수술후회복, 자궁수술후회복, 제왕절개후회복, 갑상선수술후회복]
 status: 검토완료
 last_reviewed: 2026-09-06
+related_reading:
+- document: conditions/post-hospitalization-recovery.md
+  reason: 퇴원 뒤 식사·활동·기력 회복으로 이어가요.
+- document: conditions/elderly-tonic.md
+  reason: 어르신의 근력·식사·복용약을 함께 확인해요.
+- document: conditions/postpartum-recovery.md
+  reason: 제왕절개 뒤에는 산후회복 자료를 함께 읽어요.
 ---
 
 # 수술 후 회복·기력저하·수술 후 보약

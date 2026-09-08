@@ -27,3 +27,4 @@ jobs:
       - run: python tools/build_ai_knowledge_layer.py
       - run: mkdocs build
       - run: python tools/audit_internal_links.py --site
+      - run: python tools/audit_page_discovery.py

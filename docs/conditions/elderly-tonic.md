@@ -4,6 +4,13 @@ description: 부모님·어르신 보약을 식사·체중·수면·보행·근�
 tags: [질환증상, 노인보약, 어르신보약, 부모님보약, 기력회복, 노쇠]
 status: 검토완료
 last_reviewed: 2026-09-06
+related_reading:
+- document: conditions/frailty-sarcopenia.md
+  reason: 체중·보행·근력 변화와 노쇠를 함께 살펴요.
+- document: conditions/deer-antler-tonic-guide.md
+  reason: 녹용보약 선택 전 확인사항을 읽어요.
+- document: conditions/postoperative-recovery.md
+  reason: 수술·퇴원 뒤 회복 상황에 맞춰 이어서 읽어요.
 ---
 # 노인보약·어르신보약
 

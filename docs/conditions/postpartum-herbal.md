@@ -4,6 +4,13 @@ description: 산후보약의 복용 시점·기간, 생화탕·팔물탕 등 대
 tags: [질환증상, 여성건강, 산후보약, 출산후한약, 산후회복, 수유, 한약]
 status: 검토완료
 last_reviewed: 2026-09-05
+related_reading:
+- document: conditions/postpartum-recovery.md
+  reason: 회복 단계·생활관리와 산후 위험신호를 함께 확인해요.
+- document: conditions/deer-antler-tonic-guide.md
+  reason: 녹용 배합을 고려할 때 확인할 내용을 읽어요.
+- document: conditions/energy-recovery.md
+  reason: 피로·식욕·수면을 함께 살피는 기준을 비교해요.
 ---
 # 출산 후 한약·산후보약
 

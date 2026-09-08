@@ -9,6 +9,13 @@ tags:
 - 산후풍
 status: 검토완료
 last_reviewed: 2026-09-06
+related_reading:
+- document: conditions/postpartum-herbal.md
+  reason: 산후 한약의 시작 시점·처방 목적·수유 중 확인사항을 읽어요.
+- document: conditions/postoperative-recovery.md
+  reason: 제왕절개 등 수술 뒤 회복 자료로 이어가요.
+- document: conditions/energy-recovery.md
+  reason: 회복 중 기력저하와 피로를 살피는 기준을 확인해요.
 ---
 # 산후회복
 

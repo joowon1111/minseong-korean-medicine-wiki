@@ -14,6 +14,7 @@ extra:
   generator: false
 hooks:
 - tools/sitemap_lastmod.py
+- tools/page_discovery.py
 plugins:
 - search:
     lang: ko

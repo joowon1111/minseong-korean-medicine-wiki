@@ -4,6 +4,15 @@ description: 녹용보약을 고려하는 상황, 복용 전 확인사항과 경
 tags: [한약, 보약, 녹용, 녹용보약, 기력회복, 맞춤한약]
 status: 검토완료
 last_reviewed: 2026-09-05
+related_reading:
+- document: conditions/energy-recovery.md
+  reason: 피로와 기력저하가 중심일 때 함께 읽어요.
+- document: conditions/elderly-tonic.md
+  reason: 부모님 보약은 식사·근력·복용약부터 살펴요.
+- document: conditions/child-parent-tonic-guide.md
+  reason: 아이 보약은 성장·식욕·수면을 함께 살펴요.
+- document: conditions/postoperative-recovery.md
+  reason: 수술 뒤 회복 단계에 맞춰 확인할 내용을 읽어요.
 ---
 # 녹용보약이 궁금해요
 
