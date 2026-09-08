@@ -22,6 +22,22 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      symptoms/index.md: symptom-integrated/index.md
+      symptoms/fatigue.md: conditions/energy-recovery.md
+      symptoms/sleep-problem.md: conditions/insomnia.md
+      symptoms/digestion.md: conditions/dyspepsia.md
+      symptoms/rhinitis.md: conditions/rhinitis.md
+      symptoms/musculoskeletal-pain.md: symptom-integrated/pain.md
+      symptoms/longtail/chronic-low-back-pain.md: conditions/low-back-pain.md
+      symptoms/longtail/knee-aching.md: conditions/knee-pain.md
+      symptoms/longtail/night-awakening.md: conditions/insomnia.md
+      symptoms/longtail/persistent-fatigue.md: conditions/chronic-fatigue.md
+      symptoms/longtail/postmeal-fullness.md: conditions/functional-dyspepsia.md
+      symptoms/longtail/shoulder-pain.md: conditions/shoulder-pain.md
+      symptoms/longtail/sneezing-runny-nose.md: conditions/rhinitis.md
+      symptoms/longtail/stiff-neck.md: conditions/neck-pain.md
+      questions/choice/fatigue-gongjin-gyeongok.md: compare/gongjin-vs-gyeongok.md
+      symptom-clinical/integrated-map.md: symptom-clinical/index.md
       herbal-integrated/herbs-for-fatigue.md: herbal-integrated/herbs.md#_1
       herbal-integrated/herbs-for-pain.md: herbal-integrated/formula-for-pain.md
       herbal-integrated/herbs-for-eye-fatigue.md: conditions/eye-fatigue.md#eye-fatigue-herbal-network
@@ -615,37 +631,37 @@ nav:
       - R30 소변볼 때의 통증·배뇨 증상: symptom-herbal-guide/urogenital/r30-urinary.md
   - 상세 자료실:
     - portal/conditions.md
-    - 비교해서 찾기:
+    - 처방·치료 비교:
       - compare/index.md
-      - 공진단과 경옥고: compare/gongjin-vs-gyeongok.md
-      - 보중익기탕과 십전대보탕: compare/buzhong-vs-sipjeondaebo.md
-      - 사군자탕과 육군자탕: compare/sijunzi-vs-liujunzi.md
-      - 귀비탕과 온담탕: compare/guibi-vs-wendan.md
-      - 침과 약침: compare/acupuncture-vs-pharmacopuncture.md
-      - 침과 전침: compare/acupuncture-vs-electroacupuncture.md
-    - 상황별로 찾기:
+      - 보약·기력회복:
+        - 공진단·경옥고: compare/gongjin-vs-gyeongok.md
+        - 보중익기탕·십전대보탕: compare/buzhong-vs-sipjeondaebo.md
+        - 기허·기혈양허의 차이: questions/choice/qi-vs-qi-blood-deficiency.md
+      - 소화·수면 처방:
+        - 사군자탕·육군자탕: compare/sijunzi-vs-liujunzi.md
+        - 귀비탕·온담탕: compare/guibi-vs-wendan.md
+      - 침·전침·약침:
+        - 침·전침: compare/acupuncture-vs-electroacupuncture.md
+        - 침·약침: compare/acupuncture-vs-pharmacopuncture.md
+    - 복합 증상 질문:
       - questions/choice/index.md
-      - 피로할 때 공진단과 경옥고: questions/choice/fatigue-gongjin-gyeongok.md
-      - 기운 없고 소화도 약할 때: questions/choice/fatigue-poor-digestion.md
-      - 잠이 안 오면서 두근거릴 때: questions/choice/insomnia-palpitations.md
-      - 잠이 안 오고 속도 더부룩할 때: questions/choice/insomnia-dyspepsia.md
-      - 오래된 허리통증에서 침과 한약: questions/choice/chronic-back-pain-treatment.md
-      - 기허와 기혈양허는 어떻게 다른가: questions/choice/qi-vs-qi-blood-deficiency.md
-    - 증상으로 찾기:
-      - symptoms/index.md
-      - 피로·기력저하: symptoms/fatigue.md
-      - 잠이 안 올 때: symptoms/sleep-problem.md
-      - 허리·목·무릎 통증: symptoms/musculoskeletal-pain.md
-      - 소화가 안 될 때: symptoms/digestion.md
-      - 코막힘·비염: symptoms/rhinitis.md
-      - 어깨가 아플 때: symptoms/longtail/shoulder-pain.md
-      - 목이 뻣뻣하고 아플 때: symptoms/longtail/stiff-neck.md
-      - 자꾸 피곤하고 기운이 없을 때: symptoms/longtail/persistent-fatigue.md
-      - 식후 더부룩하고 소화가 안 될 때: symptoms/longtail/postmeal-fullness.md
-      - 자다가 자주 깰 때: symptoms/longtail/night-awakening.md
-      - 허리가 오래 아플 때: symptoms/longtail/chronic-low-back-pain.md
-      - 무릎이 시큰하고 아플 때: symptoms/longtail/knee-aching.md
-      - 콧물·재채기가 반복될 때: symptoms/longtail/sneezing-runny-nose.md
+      - 피로와 소화불량: questions/choice/fatigue-poor-digestion.md
+      - 불면과 두근거림: questions/choice/insomnia-palpitations.md
+      - 불면과 더부룩함: questions/choice/insomnia-dyspepsia.md
+      - 만성 요통에서 침과 한약: questions/choice/chronic-back-pain-treatment.md
+    - 임상 평가·경과:
+      - symptom-clinical/index.md
+      - 통증 평가:
+        - 요통: symptom-clinical/low-back-pain.md
+        - 어깨통증: symptom-clinical/shoulder-pain.md
+        - 두통: symptom-clinical/headache.md
+      - 수면·소화·비염·피로 평가:
+        - 불면: symptom-clinical/insomnia.md
+        - 소화불량: symptom-clinical/dyspepsia.md
+        - 비염: symptom-clinical/rhinitis.md
+        - 피로: symptom-clinical/fatigue.md
+      - 위험신호·감별: symptom-clinical/red-flags.md
+      - 치료경과·재평가: symptom-clinical/followup.md
     - 자율신경·스트레스 지식망:
       - autonomic/index.md
       - 심계·두근거림: autonomic/palpitations.md
@@ -654,18 +670,6 @@ nav:
       - 피로·회복과 자율조절: autonomic/fatigue-recovery.md
       - 내관·신문·족삼리 연결: autonomic/acupoint-map.md
       - 자율신경 통합 지도: autonomic/integrated-map.md
-    - 증상·질환 임상 심화:
-      - symptom-clinical/index.md
-      - 요통: symptom-clinical/low-back-pain.md
-      - 어깨통증: symptom-clinical/shoulder-pain.md
-      - 두통: symptom-clinical/headache.md
-      - 불면: symptom-clinical/insomnia.md
-      - 소화불량: symptom-clinical/dyspepsia.md
-      - 비염: symptom-clinical/rhinitis.md
-      - 피로: symptom-clinical/fatigue.md
-      - 위험신호·감별: symptom-clinical/red-flags.md
-      - 치료경과·재평가: symptom-clinical/followup.md
-      - 통합 임상 지도: symptom-clinical/integrated-map.md
 - 사상의학:
   - 사상의학 한눈에 보기: sasang-integrated/index.md
   - 소양인: sasang-integrated/soyangin.md

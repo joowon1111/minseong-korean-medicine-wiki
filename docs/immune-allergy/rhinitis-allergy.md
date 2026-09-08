@@ -27,7 +27,7 @@ last_reviewed: 2026-09-06
 → [알레르기비염 현대 근거 카드](../authority/conditions/allergic-rhinitis.md)
 
 → [비염 임상 추론](../clinical-reasoning/rhinitis.md)
-→ [코막힘·비염](../symptoms/rhinitis.md)
+→ [코막힘·비염](../conditions/rhinitis.md)
 
 ## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
 

@@ -54,7 +54,7 @@ last_reviewed: 2026-08-31
 
 초기 2~4주에 같은 지표를 비교하고, 8주까지 의미 있는 기능 개선이 없거나 경고 증상이 새로 생기면 진단과 치료 목표를 다시 검토한다.
 
-→ [피로·기력저하](../symptoms/fatigue.md)
+→ [피로·기력저하](../conditions/energy-recovery.md)
 → [보익·회복 허브](../pillar/tonic-recovery.md)
 → [공진단 근거 카드](../authority/gongjin-dan.md)
 → [만성피로 환자 안내](../conditions/chronic-fatigue.md)

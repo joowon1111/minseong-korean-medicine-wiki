@@ -26,5 +26,5 @@ last_reviewed: 2026-08-19
 - [족양명위경](../meridian-network/stomach-meridian.md)
 
 → [비염](../conditions/rhinitis.md)
-→ [코막힘·비염](../symptoms/rhinitis.md)
+→ [코막힘·비염](../conditions/rhinitis.md)
 → [침 치료](../treatments/acupuncture.md)
