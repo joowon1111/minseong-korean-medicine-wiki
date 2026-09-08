@@ -66,6 +66,8 @@ related_reading:
 
 복용 기간과 재평가 시점은 개인의 상태에 맞춰 정합니다. 새로운 불편이나 기존 증상의 악화도 함께 기록하고, [만성피로의 경과 평가](chronic-fatigue.md#follow-up)와 연결해 봅니다.
 
+피로의 변화는 [하루 한 줄 복용·활동 기록표](herbal-followup.md#daily-record)에 적고, 진료 전에는 [증상·복용약 준비표](herbal-consultation-prep.md#visit-checklist)를 함께 확인하세요.
+
 ## 상황에 맞는 회복 안내
 
 | 상황 | 이어서 볼 문서 |
