@@ -84,7 +84,7 @@ last_reviewed: 2026-09-06
 
 ## 관련 핵심 문서
 
-- [부종](../conditions/edema.md)
+- [부종](../conditions/edema-swelling.md)
 - [부종·붓기](../conditions/edema-swelling.md)
 - [두통](../conditions/headache.md)
 - [본초·방제 수분대사 지도](../herbal-integrated/herbs-for-edema.md)

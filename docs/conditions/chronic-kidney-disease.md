@@ -297,7 +297,7 @@ CKD 단계와 영양상태에 맞춰 양을 조절합니다. 과도한 고단백
 - [건강검진 고혈압](high-blood-pressure-checkup.md)
 - [당뇨 전단계](prediabetes.md)
 - [대사증후군](metabolic-syndrome.md)
-- [부종·붓기](edema.md)
+- [부종·붓기](edema-swelling.md)
 - [부종과 체중변화](edema-weight.md)
 - [빈뇨·야간뇨](frequent-urination.md)
 - [R30 배뇨 관련 증상](../symptom-herbal-guide/urogenital/r30-urinary.md)

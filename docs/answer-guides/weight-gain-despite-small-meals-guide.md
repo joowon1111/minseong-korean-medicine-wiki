@@ -21,7 +21,7 @@ tags: [체중증가, 살찌는이유, 대사, 부종, 식욕]
 짧은 기간에 체중이 급격히 늘면서 다리부종·호흡곤란이 생기거나, 심한 피로·냉감·변비 등 새로운 전신증상이 지속되면 진료가 필요합니다.
 
 ## 더 깊게 보기
-- [부종](../conditions/edema.md)
+- [부종](../conditions/edema-swelling.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)

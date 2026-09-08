@@ -41,7 +41,7 @@ last_reviewed: 2026-08-21
 ## 기존 지식망과 연결
 
 - [손발냉증](cold-hands-feet.md)
-- [부종](edema.md)
+- [부종](edema-swelling.md)
 - [어지럼](dizziness.md)
 - [빈혈·어지럼·피로](anemia-fatigue.md)
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)

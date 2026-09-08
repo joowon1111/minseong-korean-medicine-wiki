@@ -198,7 +198,7 @@ uACR 300mg/g 이상, eGFR 30 미만, 빠른 기능저하, 단백뇨와 혈뇨 �
 - [당뇨 전단계](prediabetes.md)
 - [대사증후군](metabolic-syndrome.md)
 - [건강검진 고혈압](high-blood-pressure-checkup.md)
-- [부종·붓기](edema.md)
+- [부종·붓기](edema-swelling.md)
 - [신장질환 한약 근거 지도](../authority/formulas/kidney-disease-herbal-map.md)
 - [신허 변증](../diagnostics/patterns/kidney-deficiency.md)
 - [한약 안전·복용 주의](../herbal-integrated/safety.md)
