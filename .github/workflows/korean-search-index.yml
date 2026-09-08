@@ -23,5 +23,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/assets/korean-search-index.json
+          python tools/check_secrets.py --staged
           git diff --cached --quiet || git commit -m "Update Korean search fallback index"
           git push

@@ -116,7 +116,7 @@ def request(url, params, retries=4):
             with urllib.request.urlopen(req, timeout=60) as r:
                 return r.read(), errors
         except Exception as e:
-            errors.append({"attempt": i, "error": str(e), "url": full})
+            errors.append({"attempt": i, "error": type(e).__name__, "url": url})
             if i < retries:
                 time.sleep(3 * i)
     return None, errors
@@ -215,8 +215,16 @@ def fetch_kind(kind, query, mindate, maxdate, retmax):
     })
     if raw is None:
         return [], errors
-    data = json.loads(raw.decode("utf-8"))
-    pmids = data.get("esearchresult", {}).get("idlist", [])
+    try:
+        data = json.loads(raw.decode("utf-8"))
+        result = data.get("esearchresult")
+        if not isinstance(result, dict) or not isinstance(result.get("idlist"), list):
+            raise ValueError("invalid search response")
+        pmids = result["idlist"]
+        if any(not isinstance(pmid, str) or not pmid.isdigit() for pmid in pmids):
+            raise ValueError("invalid identifiers")
+    except (ValueError, AttributeError, UnicodeError) as error:
+        return [], errors + [{"stage": "esearch", "error": type(error).__name__}]
     if not pmids:
         return [], errors
 
@@ -227,7 +235,12 @@ def fetch_kind(kind, query, mindate, maxdate, retmax):
     if fetched is None:
         return [], errors
 
-    root = ET.fromstring(fetched)
+    try:
+        root = ET.fromstring(fetched)
+        if root.tag != "PubmedArticleSet":
+            raise ValueError("unexpected XML root")
+    except (ET.ParseError, ValueError) as error:
+        return [], errors + [{"stage": "efetch", "error": type(error).__name__}]
     rows = []
     for a in root.findall(".//PubmedArticle"):
         med = a.find("MedlineCitation")
@@ -267,6 +280,11 @@ def main():
     ap.add_argument("--docs", default="docs")
     ap.add_argument("--outdir", default="evidence-radar-work/pubmed-watch")
     args = ap.parse_args()
+
+    if not 1 <= args.days <= 36500 or not 1 <= args.retmax <= 10000:
+        ap.error("days must be 1..36500 and retmax 1..10000")
+    if not Path(args.docs).is_dir():
+        ap.error("docs directory does not exist")
 
     today = date.today()
     start = today - timedelta(days=args.days)

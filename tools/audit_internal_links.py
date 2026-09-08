@@ -9,6 +9,7 @@ import html as html_lib
 import re
 import sys
 from collections import defaultdict
+from functools import lru_cache
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -38,6 +39,9 @@ def local_candidates(source: Path, raw: str) -> list[Path]:
 
 
 def audit_source() -> int:
+    if not DOCS.is_dir():
+        print("ERROR source docs directory does not exist")
+        return 1
     files = sorted(DOCS.rglob("*.md"))
     missing: list[tuple[str, int, str]] = []
     html_md: list[tuple[str, int, str]] = []
@@ -63,9 +67,13 @@ def audit_source() -> int:
             for match in regex.finditer(text):
                 raw = match.group(1)
                 line = text.count("\n", 0, match.start()) + 1
-                if kind == "html" and urlsplit(raw).path.endswith(".md"):
-                    html_md.append((rel, line, raw))
-                candidates = local_candidates(source, raw)
+                try:
+                    if kind == "html" and urlsplit(raw).path.endswith(".md"):
+                        html_md.append((rel, line, raw))
+                    candidates = local_candidates(source, raw)
+                except ValueError:
+                    missing.append((rel, line, raw))
+                    continue
                 if candidates and not any(path.exists() for path in candidates):
                     missing.append((rel, line, raw))
 
@@ -99,28 +107,44 @@ def audit_site() -> int:
     site = SITE.resolve()
     missing: set[tuple[str, str]] = set()
     anchors: set[tuple[str, str]] = set()
-    pages = {page.resolve(): page.read_text(encoding="utf-8", errors="replace")
-             for page in sorted(site.rglob("*.html"))}
-    ids = {page: {html_lib.unescape(value) for value in HTML_ID.findall(body)}
-           for page, body in pages.items()}
-    for page, html in pages.items():
+    pages = [page.resolve() for page in sorted(site.rglob("*.html"))]
+    if not pages:
+        print("ERROR generated site contains no HTML pages")
+        return 1
+    ids = {page: {html_lib.unescape(value) for value in HTML_ID.findall(
+        page.read_text(encoding="utf-8", errors="replace"))} for page in pages}
+
+    @lru_cache(maxsize=32768)
+    def resolve_file(parent, path):
+        target = (site / path.lstrip("/") if path.startswith("/") else parent / path).resolve()
+        if not target.is_relative_to(site):
+            return None
+        candidates = [target]
+        if path.endswith("/") or target.is_dir():
+            candidates = [target / "index.html"]
+        elif not target.suffix:
+            candidates.extend([target.with_suffix(".html"), target / "index.html"])
+        return next((candidate for candidate in candidates if candidate.is_file()), None)
+
+    @lru_cache(maxsize=8192)
+    def split_link(raw):
+        return urlsplit(raw)
+
+    for page in pages:
+        html = page.read_text(encoding="utf-8", errors="replace")
         for match in HTML_LINK.finditer(html):
             raw = html_lib.unescape(match.group(1).strip())
-            split = urlsplit(raw)
+            try:
+                split = split_link(raw)
+            except ValueError:
+                missing.add((page.relative_to(site).as_posix(), raw))
+                continue
             if split.netloc and split.netloc != SITE_HOST:
                 continue
             if split.scheme and split.scheme not in ("http", "https"):
                 continue
             path = unquote(split.path)
-            target = (site / path.lstrip("/") if path.startswith("/") or split.netloc
-                      else page.parent / path) if path else page
-            target = target.resolve()
-            candidates = [target]
-            if path.endswith("/") or target.is_dir():
-                candidates = [target / "index.html"]
-            elif not target.suffix:
-                candidates.extend([target.with_suffix(".html"), target / "index.html"])
-            found = next((candidate for candidate in candidates if candidate.is_file()), None)
+            found = resolve_file(page.parent, path) if path else page
             rel = page.relative_to(site).as_posix()
             if found is None:
                 missing.add((rel, raw))
@@ -142,9 +166,13 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--site", action="store_true", help="also audit generated site HTML")
     args = parser.parse_args()
-    errors = audit_source()
-    if args.site:
-        errors += audit_site()
+    try:
+        errors = audit_source()
+        if args.site:
+            errors += audit_site()
+    except (OSError, ValueError) as error:
+        print(f"ERROR link audit incomplete [{type(error).__name__}]")
+        return 1
     return 1 if errors else 0
 
 

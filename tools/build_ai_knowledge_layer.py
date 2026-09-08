@@ -9,6 +9,7 @@ front matter explicitly provides them.
 from __future__ import annotations
 
 from collections import Counter
+from functools import lru_cache
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import argparse
@@ -18,6 +19,7 @@ import re
 import sys
 
 import yaml
+from atomic_output import write_bytes
 
 
 DOCS = Path("docs")
@@ -266,7 +268,16 @@ def resolve_target(source: Path, raw_target: str, by_url: dict[str, Path]) -> Pa
     if not target or target.startswith(("#", "mailto:", "tel:", "javascript:")):
         return None
 
-    parts = urlsplit(target)
+    try:
+        parts = urlsplit(target)
+    except ValueError:
+        return None
+    if parts.scheme and parts.scheme not in {"http", "https"}:
+        return None
+    if parts.netloc and not parts.scheme:
+        if parts.netloc not in {"wiki.minseong.co.kr", "www.wiki.minseong.co.kr"}:
+            return None
+        return by_url.get(parts.path.rstrip("/") or "/")
     if parts.scheme in {"http", "https"}:
         if parts.netloc not in {"wiki.minseong.co.kr", "www.wiki.minseong.co.kr"}:
             return None
@@ -327,7 +338,7 @@ def build() -> tuple[list[dict], list[dict]]:
     for path in paths:
         text = path.read_text(encoding="utf-8-sig", errors="ignore")
         frontmatter, body = parse_frontmatter(text)
-        parsed[path] = (text, body)
+        parsed[path] = body
         entities.append(build_entity(path, text, frontmatter, body))
 
     entity_by_path = {DOCS / item["source_path"]: item for item in entities}
@@ -336,12 +347,17 @@ def build() -> tuple[list[dict], list[dict]]:
         relative_url = canonical_url(path).removeprefix(BASE_URL)
         by_url[relative_url.rstrip("/") or "/"] = path
 
+    # Resolve repeated links from the same directory once per build.
+    @lru_cache(maxsize=32768)
+    def cached_target(parent, raw_target):
+        return resolve_target(parent / "index.md", raw_target, by_url)
+
     relations = set()
-    for source, (_, body) in parsed.items():
+    for source, body in parsed.items():
         source_entity = entity_by_path[source]
         targets = MARKDOWN_LINK_RE.findall(body) + HTML_LINK_RE.findall(body)
         for raw_target in targets:
-            target_path = resolve_target(source, raw_target, by_url)
+            target_path = cached_target(source.parent, raw_target)
             if not target_path or target_path == source or target_path not in entity_by_path:
                 continue
             target_entity = entity_by_path[target_path]
@@ -403,7 +419,7 @@ def write_if_changed(path: Path, content: bytes) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     if path.exists() and path.read_bytes() == content:
         return
-    path.write_bytes(content)
+    write_bytes(path, content)
 
 
 def main() -> int:

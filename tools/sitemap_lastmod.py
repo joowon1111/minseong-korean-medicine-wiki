@@ -58,15 +58,20 @@ def _source_document(
     site_url: str,
     docs_dir: Path,
 ) -> Path | None:
-    parsed_location = urlparse(location)
-    parsed_site = urlparse(site_url)
+    try:
+        parsed_location = urlparse(location)
+        parsed_site = urlparse(site_url)
+    except ValueError:
+        return None
 
     if parsed_location.netloc != parsed_site.netloc:
         return None
 
     site_path = parsed_site.path.rstrip("/")
     page_path = unquote(parsed_location.path)
-    if site_path and page_path.startswith(site_path + "/"):
+    if site_path:
+        if not page_path.startswith(site_path + "/") and page_path != site_path:
+            return None
         page_path = page_path[len(site_path) :]
 
     relative = page_path.strip("/")
@@ -75,7 +80,8 @@ def _source_document(
     else:
         candidates = [docs_dir / relative / "index.md", docs_dir / f"{relative}.md"]
 
-    return next((candidate for candidate in candidates if candidate.is_file()), None)
+    return next((candidate for candidate in candidates
+                 if candidate.resolve().is_relative_to(docs_dir.resolve()) and candidate.is_file()), None)
 
 
 def update_sitemap(config: object) -> tuple[int, int]:

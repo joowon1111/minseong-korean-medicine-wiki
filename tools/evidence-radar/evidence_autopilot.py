@@ -11,8 +11,10 @@ Purpose:
 - NEVER edits docs automatically by default
 - optional --apply-reviewed only applies candidates marked approved=true
 """
-import argparse,json,re,hashlib
+import argparse,json,re
 from pathlib import Path
+import logging
+from functools import lru_cache
 from collections import defaultdict
 from datetime import datetime
 
@@ -34,12 +36,27 @@ PROTOCOL={"RCT protocol","SR/MA protocol"}
 DIRECT_LEVEL={"A","B"}
 
 def read_first(paths):
-    for x in paths:
-        p=Path(x)
-        if p.exists():
-            try:return json.loads(p.read_text(encoding="utf-8")),str(p)
-            except Exception:return [],str(p)
-    return [],None
+    for value in paths:
+        path = Path(value)
+        if not path.exists():
+            continue
+        try:
+            rows = json.loads(path.read_text(encoding="utf-8"))
+            if not isinstance(rows, list):
+                raise ValueError("expected record list")
+            scalar_fields = ("title", "doi", "pmid", "study_type", "evidence_level", "kcd_mapping_status")
+            valid = [row for row in rows if isinstance(row, dict)
+                     and all(row.get(key) is None or isinstance(row.get(key), (str, int, float)) for key in scalar_fields)
+                     and (row.get("keywords") is None or isinstance(row.get("keywords"), list))
+                     and all(row.get(key) is None or isinstance(row.get(key), dict)
+                             for key in ("modality_final", "electrical_modality_final"))]
+            if len(valid) != len(rows):
+                logging.warning("Invalid Evidence Radar records skipped: %s", path.name)
+            return valid, str(path)
+        except (OSError, ValueError) as error:
+            logging.warning("Evidence Radar source unavailable: %s [%s]", path.name, type(error).__name__)
+            return [], str(path)
+    return [], None
 
 def norm_title(s):return re.sub(r"[^a-z0-9가-힣]+"," ",str(s).lower()).strip()
 def ident(r):
@@ -52,28 +69,34 @@ def ident(r):
 def ids(r):
     return [x for x in [str(r.get("doi") or "").lower().strip(),str(r.get("pmid") or "").strip()] if x]
 
-def resolve(root,path):
-    if not path:return None
-    rel=path.strip("/")
-    cs=[Path(root)/(rel+".md"),Path(root)/rel/"index.md",
-        Path(root)/"authority"/(rel+".md"),Path(root)/"authority"/rel/"index.md"]
-    for p in cs:
-        if p.exists():return p
-    base=Path(rel).name
-    hits=list(Path(root).rglob(base+".md"))
-    return hits[0] if len(hits)==1 else None
+def resolve(root, path):
+    if not isinstance(path, str) or not path:
+        return None
+    rel = path.strip("/")
+    if any(part == ".." for part in rel.split("/")) or any(c in rel for c in "\\:*?[]\x00"):
+        return None
+    root = Path(root)
+    candidates = [root / (rel + ".md"), root / rel / "index.md",
+                  root / "authority" / (rel + ".md"), root / "authority" / rel / "index.md"]
+    for candidate in candidates:
+        if candidate.resolve().is_relative_to(root.resolve()) and candidate.is_file():
+            return candidate
+    hits = [p for p in root.rglob(Path(rel).name + ".md")
+            if p.resolve().is_relative_to(root.resolve()) and p.is_file()]
+    return hits[0] if len(hits) == 1 else None
 
 def mappings(r):
-    return r.get("kcd_candidates_refined") or r.get("kcd_candidates") or []
+    value = r.get("kcd_candidates_refined") or r.get("kcd_candidates") or []
+    return value if isinstance(value, list) else []
 
 def modality_ok(kind,r):
     title=str(r.get("title","")).lower()
     if kind=="acupuncture":
-        return r.get("modality_final",{}).get("primary","manual")=="manual"
+        return (r.get("modality_final") if isinstance(r.get("modality_final"), dict) else {}).get("primary","manual")=="manual"
     if kind=="electroacupuncture":
-        return r.get("electrical_modality_final",{}).get("primary")=="needle-electroacupuncture"
+        return (r.get("electrical_modality_final") if isinstance(r.get("electrical_modality_final"), dict) else {}).get("primary")=="needle-electroacupuncture"
     if kind=="pharmacopuncture":
-        return "pharmacopuncture" in title or "약침" in " ".join(map(str,r.get("keywords",[]))) or "pharmacoacupuncture" in title
+        return "pharmacopuncture" in title or "약침" in " ".join(map(str,(r.get("keywords") or []))) or "pharmacoacupuncture" in title
     return False
 
 def quality_reasons(kind,r,target):
@@ -114,6 +137,8 @@ def main():
     args=ap.parse_args()
 
     docs=Path(args.docs)
+    if not docs.is_dir(): ap.error("docs directory does not exist")
+    resolve_cached = lru_cache(maxsize=4096)(lambda path: resolve(docs, path))
     md=list(docs.rglob("*.md"))
     alltext="\n".join(p.read_text(encoding="utf-8-sig",errors="ignore").lower() for p in md)
     seen=set(); candidates=[]; holds=[]; existing=[]; source_status=[]
@@ -129,12 +154,12 @@ def main():
                 existing.append({"kind":kind,**r});continue
             target=None
             for m in mappings(r):
-                p=resolve(docs,m.get("archive_path"))
+                p=resolve_cached(m.get("archive_path")) if isinstance(m, dict) and isinstance(m.get("archive_path"), str) else None
                 if p:
                     target=str(p.relative_to(docs)).replace("\\","/");break
             reasons=quality_reasons(kind,r,target)
-            item={"kind":kind,"target":target,"reasons":reasons,
-                  "approved":False,**r}
+            item={**r,"kind":kind,"target":target,"reasons":reasons,
+                  "approved":False}
             if reasons:holds.append(item)
             else:candidates.append(item)
 

@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 from pathlib import Path
 import json
+import logging
 import re
 import yaml
+from atomic_output import write_bytes
 
 DOCS = Path("docs")
 OUT = DOCS / "assets" / "korean-search-index.json"
@@ -36,8 +38,13 @@ def strip_frontmatter(text):
     if len(parts) < 3:
         return {}, text
     try:
-        return yaml.safe_load(parts[1]) or {}, parts[2]
-    except Exception:
+        metadata = yaml.safe_load(parts[1]) or {}
+        if not isinstance(metadata, dict):
+            logging.warning("Search metadata is not a mapping; using heading fallback")
+            metadata = {}
+        return metadata, parts[2]
+    except yaml.YAMLError:
+        logging.warning("Invalid search YAML; using heading fallback")
         return {}, parts[2]
 
 def clean_markdown(body):
@@ -108,10 +115,7 @@ def main():
         })
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(
-        json.dumps(rows, ensure_ascii=False, separators=(",", ":")),
-        encoding="utf-8",
-    )
+    write_bytes(OUT, json.dumps(rows, ensure_ascii=False, separators=(",", ":")).encode("utf-8"))
     print(f"Korean search index: {len(rows)} documents -> {OUT}")
 
 if __name__ == "__main__":
