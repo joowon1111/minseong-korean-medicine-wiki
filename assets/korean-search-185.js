@@ -5,6 +5,7 @@
   const RESULT_LIMIT = 12;
   let docs = null;
   let loading = null;
+  let closeSearch = () => {};
 
   const normalize = (s) =>
     String(s || "")
@@ -37,7 +38,9 @@
           return r.json();
         })
         .then((data) => {
-          docs = Array.isArray(data) ? data.map(prepareDoc) : [];
+          if (!Array.isArray(data)) throw new Error('invalid index');
+          docs = data.filter(validDoc).map(prepareDoc);
+          if (docs.length !== data.length) console.error('[Minseong Search 185] invalid rows skipped');
           return docs;
         })
         .catch((err) => {
@@ -48,6 +51,16 @@
         });
     }
     return loading;
+  }
+
+  function validDoc(doc) {
+    // The index contains only root-relative internal links, never executable URLs.
+    return doc && typeof doc === 'object' && typeof doc.title === 'string' &&
+      typeof doc.url === 'string' && /^\/(?!\/)/.test(doc.url) &&
+      !/[\\\x00-\x20\x7f]/.test(doc.url) &&
+      (doc.keywords == null || Array.isArray(doc.keywords)) &&
+      (doc.text == null || typeof doc.text === 'string') &&
+      Number.isFinite(Number(doc.boost || 0));
   }
 
   function queryTerms(raw) {
@@ -85,25 +98,29 @@
     if (title.includes(qn) || titleC.includes(qc)) score += 420;
     if (keys.includes(qn) || keysC.includes(qc)) score += 340;
 
-    for (const term of terms) {
-      const tc = term.replace(/\s+/g, "");
+    let textMatched = false;
+    for (const [term, tc] of terms) {
       if (!term) continue;
       if (title.includes(term) || titleC.includes(tc)) score += 160;
       if (keys.some((k) => k.includes(term)) || keysC.some((k) => k.includes(tc))) score += 110;
-      if (text.includes(term) || textC.includes(tc)) score += 18;
+      if (text.includes(term) || textC.includes(tc)) {
+        score += 18;
+        textMatched = true;
+      }
     }
 
     // 아무 관련도 없는 문서는 제외
     const matched =
       title.includes(qn) || titleC.includes(qc) ||
       keys.includes(qn) || keysC.includes(qc) ||
-      terms.some((t) => text.includes(t) || textC.includes(t.replace(/\s+/g, "")));
+      textMatched;
 
     return matched ? score : 0;
   }
 
   function search(data, raw) {
-    const query = { qn: normalize(raw), qc: compact(raw), terms: queryTerms(raw) };
+    const query = { qn: normalize(raw), qc: compact(raw),
+      terms: queryTerms(raw).map((term) => [term, term.replace(/\s+/g, '')]) };
     return data
       .map((prepared) => ({ doc: prepared.doc, score: scoreDoc(prepared, query) }))
       .filter((x) => x.score > 0)
@@ -172,6 +189,7 @@
     if (!input || !searchRoot) return false;
 
     if (input.dataset.msKsearch185 === "1") return true;
+    closeSearch();
     input.dataset.msKsearch185 = "1";
 
     const panel = ensurePanel(searchRoot);
@@ -192,19 +210,22 @@
     input.addEventListener("input", run);
     input.addEventListener("focus", run);
 
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") {
-        panel.hidden = true;
-        document.documentElement.classList.remove("ms-ksearch-active");
-      }
-    });
-
-    // Material instant navigation에서도 재설치 가능
-    if (typeof document$ !== "undefined" && document$?.subscribe) {
-      document$.subscribe(() => setTimeout(install, 0));
-    }
+    closeSearch = () => {
+      ++seq;
+      panel.hidden = true;
+      document.documentElement.classList.remove("ms-ksearch-active");
+    };
 
     return true;
+  }
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeSearch();
+  });
+
+  // Subscribe once, rather than once for every new search input.
+  if (typeof document$ !== "undefined" && document$?.subscribe) {
+    document$.subscribe(() => setTimeout(install, 0));
   }
 
   // Material의 검색 결과 DOM을 기다리지 않는다.

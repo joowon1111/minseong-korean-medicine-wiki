@@ -6,7 +6,6 @@
   async function loadIndex(){
     if(idx) return idx;
     try{
-      const base=(document.querySelector('meta[name="site_url"]')||{}).content||'/';
       const r=await fetch((new URL('assets/korean-search-index.json', document.baseURI)).href);
       idx=await r.json(); return idx;
     }catch(e){ return []; }
