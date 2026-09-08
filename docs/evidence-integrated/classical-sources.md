@@ -23,15 +23,15 @@ last_reviewed: '2026-08-29'
 
 ## 핵심 자료군
 
-- [황제내경](../classics-network/huangdi-neijing.md)
-- [난경](../classics-network/nanjing.md)
-- [상한론](../classics-network/shanghan-lun.md)
-- [금궤요략](../classics-network/jingui-yaolue.md)
-- [의학입문](../classics-network/uihak-ipmun.md)
-- [경악전서](../classics-network/jingyue-quanshu.md)
-- [온병조변](../classics-network/wenbing-tiaobian.md)
-- [동의보감](../classics-network/donguibogam.md)
-- [동의수세보원](../classics-network/donguisusebowon.md)
+- [황제내경](../classics/huangdi-neijing.md)
+- [난경](../classics/nanjing.md)
+- [상한론](../classics/shanghanlun.md)
+- [금궤요략](../classics/jinkui-yaolue.md)
+- [의학입문](../classics/uihak-ipmun.md)
+- [경악전서](../classics/jingyue-quanshu.md)
+- [온병조변](../classics/wenbing-tiaobian.md)
+- [동의보감](../classics/donguibogam.md)
+- [동의수세보원](../classics/donguisusebowon.md)
 - [방약합편 임상 지식망](../bangyakhappyeon-network/index.md)
 - [소문대요](../classics/somun-daeyo.md)
 - [청강의감](../classics/cheonggang-uigam.md)
@@ -60,7 +60,7 @@ last_reviewed: '2026-08-29'
 | 예후·순역 | 기능 변화와 경과 |
 | 현대 질환명 | 진단기준과 연구 대상군 |
 
-→ [고전→현대 임상 연결 지도](../classics-network/integrated-map.md)
+→ [고전→현대 임상 연결 지도](../classics/index.md#classics-to-clinic)
 
 ## 동명 처방을 확인하는 법
 
@@ -110,7 +110,7 @@ last_reviewed: '2026-08-29'
 
 ## 더 깊게 보기
 
-- [한의학 고전 비교·계보](../classics-network/index.md)
+- [한의학 고전 비교·계보](../classics/index.md)
 - [고전 9종 비교](../classics-network/comparison.md)
 - [고전 읽는 순서](../classics-network/reading-path.md)
 - [고전→현대 연결](../foundations-integrated/classics-modern.md)

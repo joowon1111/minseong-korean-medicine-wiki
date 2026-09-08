@@ -36,7 +36,7 @@ last_reviewed: 2026-08-30
 - 현대 질환명을 고전 병증과 바로 동일시하지 않고 병증·치법의 연결 맥락을 설명합니다.
 - 번역문을 이용했다면 가능한 범위에서 번역본과 제공처를 표시합니다.
 
-→ [고전→현대 연결](../foundations-integrated/classics-modern.md) · [고전 핵심 지식망](../classics-network/index.md)
+→ [고전→현대 연결](../foundations-integrated/classics-modern.md) · [고전 핵심 지식망](../classics/index.md)
 
 ## 현대 논문의 기본 서지정보
 

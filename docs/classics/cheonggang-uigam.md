@@ -77,6 +77,6 @@ last_reviewed: 2026-08-29
 
 - [청강 김영훈](../physicians/kim-young-hoon.md)
 - [근현대 한국 한의학 임상서](../modern-korean-medicine/index.md)
-- [한의학 고전 탐색 네트워크](../classics-network/index.md)
+- [한의학 고전 탐색 네트워크](index.md)
 - [본초·방제](../herbal-integrated/index.md)
 - [질환·증상](../conditions/index.md)

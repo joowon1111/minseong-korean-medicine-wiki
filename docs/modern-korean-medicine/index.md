@@ -66,7 +66,7 @@ last_reviewed: 2026-08-29
 
 ## 관련 문서
 
-- [한의학 고전 탐색 네트워크](../classics-network/index.md)
+- [한의학 고전 탐색 네트워크](../classics/index.md)
 - [한의학 고전·역사 허브](../pillar/classics-history.md)
 - [의가·고전·처방 계보](../network/physician-classic-formula-lineage.md)
 - [고전→현대 연구 연결](../network/classic-to-evidence-map.md)

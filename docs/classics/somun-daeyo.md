@@ -60,7 +60,7 @@ last_reviewed: 2026-08-29
 `황제내경·소문 원문 → 이규준의 선별과 교정 → 부양론·기혈론·맥진·병기 해석 → 근현대 한국 임상`
 
 - [황제내경](huangdi-neijing.md)
-- [황제내경 탐색](../classics-network/huangdi-neijing.md)
+- [황제내경 탐색](huangdi-neijing.md)
 - [황제내경 핵심 지식망](../neijing-network/index.md)
 - [난경](nanjing.md)
 

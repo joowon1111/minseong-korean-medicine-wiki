@@ -126,5 +126,5 @@ last_reviewed: 2026-08-20
 상한론은 고전 처방의 집합을 넘어 **병증을 구분하고 치료 원칙을 세우는 임상 사고체계**로 이해할 수 있다.
 
 → [황제내경 핵심 지식망](../neijing-network/index.md)
-→ [금궤요략](../classics-network/jingui-yaolue.md)
+→ [금궤요략](../classics/jinkui-yaolue.md)
 → [방제학](../formulas/index.md)
