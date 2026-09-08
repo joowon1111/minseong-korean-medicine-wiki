@@ -26,7 +26,7 @@ keywords: [한약 효과 언제, 보약 효과 언제 느끼나요, 한약 먹�
 | 소화·식욕 | 평소 식사량, 식후 더부룩함, 불편이 생기는 상황 | 비슷한 식사 뒤의 불편, 먹을 수 있는 양, 배변 변화 |
 | 통증 | 아픈 부위, 불편한 동작, 일상 제한 | 같은 동작의 불편과 가능한 활동, 진통제 사용 변화 |
 
-수면은 취침·기상과 낮 동안의 상태를 함께 적으면 상담에 도움이 됩니다. [NHLBI 수면일지 안내](https://www.nhlbi.nih.gov/resources/sleep-diary).
+수면은 취침·기상과 낮 동안의 상태를 함께 적으면 상담에 도움이 됩니다. 아래 [하루 한 줄 변화 기록표](#daily-record)에 정리해 진료 때 보여주세요.
 
 → [피로·기력회복](energy-recovery.md) · [불면·수면장애](insomnia.md) · [소화불량](dyspepsia.md)
 
@@ -109,6 +109,5 @@ keywords: [한약 효과 언제, 보약 효과 언제 느끼나요, 한약 먹�
 ## 참고자료 {#references}
 
 - [AHRQ: Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html) — 진료 전·후 질문과 복약 확인.
-- [NHLBI: Sleep Diary](https://www.nhlbi.nih.gov/resources/sleep-diary) — 수면과 낮 활동을 기록하는 참고자료.
 - [NCCIH: Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely) — 병용 제품과 이상반응 확인에 관한 일반 정보. 개별 한약의 치료효과나 평가기간을 정하는 근거는 아닙니다.
 - [NHS: Anaphylaxis](https://www.nhs.uk/conditions/anaphylaxis/) — 즉시 응급평가가 필요한 알레르기 반응.
