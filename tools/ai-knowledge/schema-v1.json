@@ -143,9 +143,6 @@
         },
         "status": {
           "type": "string"
-        },
-        "last_reviewed": {
-          "type": "string"
         }
       },
       "additionalProperties": false

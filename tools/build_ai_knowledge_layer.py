@@ -255,11 +255,8 @@ def build_entity(path: Path, text: str, frontmatter: dict, body: str) -> dict:
         },
     }
     status = str(frontmatter.get("status") or "").strip()
-    reviewed = str(frontmatter.get("last_reviewed") or "").strip()
     if status:
         entity["status"] = status
-    if reviewed:
-        entity["last_reviewed"] = reviewed
     return entity
 
 
