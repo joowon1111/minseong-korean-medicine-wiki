@@ -24,4 +24,4 @@ tags: [무릎통증, 앉았다일어날때무릎, 슬관절, 계단통증, 관�
 - [무릎통증](../conditions/knee-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)
-- [부종](../conditions/edema.md)
+- [부종](../conditions/edema-swelling.md)

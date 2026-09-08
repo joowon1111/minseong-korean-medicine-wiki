@@ -22,6 +22,6 @@ tags: [발목통증, 발목붓기, 오래걸으면발목, 발목염좌, 하지�
 
 ## 더 깊게 보기
 - [발목통증](../conditions/ankle-pain.md)
-- [부종](../conditions/edema.md)
+- [부종](../conditions/edema-swelling.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)

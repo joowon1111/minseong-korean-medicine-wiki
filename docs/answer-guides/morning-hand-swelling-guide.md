@@ -22,7 +22,7 @@ tags: [손붓기, 아침손부종, 손뻣뻣함, 관절통, 손저림]
 
 ## 더 깊게 보기
 - [손저림](../conditions/arm-numbness.md)
-- [부종](../conditions/edema.md)
+- [부종](../conditions/edema-swelling.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 

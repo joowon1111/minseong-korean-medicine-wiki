@@ -5,9 +5,13 @@ tags: [한의치료, 침구, 약침, 부항, 뜸]
 status: 검토완료
 last_reviewed: 2026-09-06
 ---
-# 한의치료 방법
+# 한의치료 방법 {#_1}
 
-한의치료는 한 가지 시술만을 반복하기보다 **환자의 변증과 통증 양상, 조직 상태, 전신 컨디션에 맞추어 여러 치료수단을 조합**하는 것이 특징이다.
+<span id="_3"></span>
+<span id="_4"></span>
+
+
+한의치료 방법은 **증상의 원인·조직 상태·변증과 회복 목표에 맞춰 선택**합니다. 아래에서 각 치료의 과정과 주의사항을 확인한 뒤, 필요한 경우 치료의 역할을 나누어 조합합니다.
 
 <div class="hub-grid">
 
@@ -55,30 +59,22 @@ last_reviewed: 2026-09-06
 
 </div>
 
-## 치료를 조합하는 이유
-같은 요통이라도 근육 긴장, 관절·인대의 문제, 오래된 허증, 냉감, 어혈성 통증 등 양상이 서로 다를 수 있다.
+## 치료를 조합하는 이유 {#_2}
 
-```text
-진찰·변증
-   ↓
-침 → 경락·경혈·근육 자극
-약침 → 국소·경혈 자극 강화
-전침 → 일정한 반복 자극
-부항 → 연부조직·음압 자극
-뜸·온열 → 온통·이완 보조
-   ↓
-환자 상태에 맞춰 조합
-```
+같은 통증에도 움직임 제한, 근육 긴장, 저림, 냉감의 비중이 다릅니다. 치료 수를 늘리기보다 원인 평가와 기능 회복 목표에 맞춰 수단을 선택하고, 피부·신경·전신 반응을 함께 봅니다. 조합의 예와 조절 기준은 [복합 치료 전략](integrated-treatment.md)에 정리했습니다.
 
-→ [한의치료 방법 지식망](../network/treatment-methods-map.md)
+## 무엇이 궁금한가요? {#choose-treatment}
 
-<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
-## 관련 핵심 문서
+| 지금 궁금한 점 | 먼저 볼 설명 | 다음에 확인할 것 |
+|---|---|---|
+| 침에 전기를 연결하는 이유 | [침·전침 비교](../compare/acupuncture-vs-electroacupuncture.md) | 강도·자극감·이전 반응 |
+| 침과 약침의 차이 | [침·약침 비교](../compare/acupuncture-vs-pharmacopuncture.md) | 사용 성분·국소 반응·알레르기 |
+| 따뜻하게 하는 치료의 차이 | [뜸](moxibustion.md)·[온열·TDP](thermal-tdp.md) | 열감각·피부·연기 민감성 |
+| 통증에 어떤 치료를 함께 쓰는지 | [복합 치료 전략](integrated-treatment.md) | 통증과 생활 기능의 변화 |
+| 치료를 얼마나 자주 받는지 | [치료 횟수·간격](../acupuncture-clinical/dose-followup.md) | 재평가 목표와 시점 |
 
-- [아카이브 안내](../guide/index.md)
-- [증상·질환](../conditions/index.md)
-- [AI 검색 구조](../ai-index.md)
+요통이 중심이면 [요통 임상 지도](../network/low-back-pain-map.md), 냉감·피로와 회복이 중심이면 [피로·회복 지식망](../network/recovery-map.md)에서 증상과 치료의 관계를 이어 볼 수 있습니다.
 
 ## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
 
-[침](acupuncture.md)·[전침](electroacupuncture.md)·[약침](pharmacopuncture.md)의 과정과 근거를 확인하고 [침·전침 비교](../compare/acupuncture-vs-electroacupuncture.md)·[침·약침 비교](../compare/acupuncture-vs-pharmacopuncture.md)로 선택 기준을 좁힙니다. [횟수·간격](../acupuncture-clinical/dose-followup.md)과 [치료 후 반응](../acupuncture-clinical/response-reassessment.md)도 함께 확인할 수 있습니다.
+각 치료 문서의 연구는 대상 질환과 비교 치료를 함께 확인합니다. 복합 치료 연구의 결과를 특정 시술 하나의 효과로 바꾸어 읽지 않습니다. 치료 뒤에는 통증 숫자와 함께 걷기·일하기·수면처럼 원래 제한됐던 활동을 [치료 후 반응](../acupuncture-clinical/response-reassessment.md)에 맞춰 기록하면 다음 치료계획에 도움이 됩니다.

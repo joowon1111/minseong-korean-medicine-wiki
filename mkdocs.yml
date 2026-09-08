@@ -250,6 +250,8 @@ plugins:
       classics-network/donguisusebowon.md: classics/donguisusebowon.md
       classics-network/index.md: classics/index.md
       classics-network/integrated-map.md: classics/index.md
+      conditions/edema.md: conditions/edema-swelling.md
+      network/treatment-methods-map.md: treatments/index.md
 theme:
   name: material
   language: ko
@@ -926,7 +928,6 @@ nav:
       - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
       - 요통 경혈 지식망: network/low-back-pain-acupoints.md
       - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
-      - 한의치료 방법 지식망: network/treatment-methods-map.md
     - 의가·고전·연구 연결:
       - 의가·고전·처방 계보: network/physician-classic-formula-lineage.md
       - 상한론 태양병 지도: network/shanghan-taiyang-map.md

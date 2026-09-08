@@ -23,7 +23,7 @@ tags: [생리전두통, 생리전붓기, PMS, 월경전증후군, 여성한약]
 ## 더 깊게 보기
 - [여성 생애주기](../answer-guides/women-lifecycle-guide.md)
 - [두통](../conditions/headache.md)
-- [부종](../conditions/edema.md)
+- [부종](../conditions/edema-swelling.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
 
 <!-- SEARCH_INTENT_DIFFERENTIATION_06_START -->

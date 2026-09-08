@@ -1,4 +1,4 @@
-﻿---
+---
 title: 종아리가 자주 당기고 쥐가 나는 이유는 무엇인가요?
 description: 반복되는 종아리 경련을 운동·수분·약물·신경·혈류·야간패턴과 함께 설명합니다.
 tags: [종아리쥐, 근육경련, 종아리당김, 야간경련, 다리통증]
@@ -23,6 +23,6 @@ tags: [종아리쥐, 근육경련, 종아리당김, 야간경련, 다리통증]
 ## 더 깊게 보기
 - [하지저림](../conditions/foot-numbness.md)
 - [요통](../conditions/low-back-pain.md)
-- [부종](../conditions/edema.md)
+- [부종](../conditions/edema-swelling.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
