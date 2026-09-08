@@ -1,4 +1,4 @@
-﻿---
+---
 title: 근골격 통증 핵심
 tags: [침구, 침, 전침, 뜸, 부항, 통합허브]
 status: 검토완료
@@ -75,7 +75,7 @@ description: 근골격 통증 핵심 — 경혈·경락·해부학·침·전침�
 | 신체검사 | 가동범위, 근력, 감각·반사 |
 | 생활 | 수면, 업무·운동 복귀, 진통제 사용 |
 
-→ [근골격 통증 감별](../acupuncture-clinical/musculoskeletal-differential.md)  
+→ [근골격 통증 감별](../symptom-clinical/index.md)  
 → [통증·증상으로 찾기](by-symptom.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

@@ -27,5 +27,5 @@ last_reviewed: 2026-08-29
 함께 보면 좋은 고전으로 [비급천금요방](../classics/beiji-qianjin-yaofang.md)과 [비위론](../classics/piwei-lun.md)이 있습니다.
 
 → [한의학 주요 고전 9종 비교](../classics-network/comparison.md)  
-→ [한의학 역사 타임라인](../history/timeline.md)  
+→ [한의학 역사 타임라인](../history/index.md#timeline)  
 → [의가·고전·처방 계보](../network/physician-classic-formula-lineage.md)

@@ -18,27 +18,27 @@ tags: [경혈, 초음파, 말초신경, 근육, 침]
 ### 내관 PC6
 전완 굴측의 해부학과 정중신경 주행을 함께 살펴봅니다.
 
-→ [내관 PC6](../acupoint-network/pc6.md)  
-→ [정중신경·손목터널 초음파](median-nerve-carpal-tunnel.md)
+→ [내관 PC6](../acupuncture/points/pc6-neiguan.md)  
+→ [정중신경·손목터널 초음파](nerve-entrapment-integration.md#median-nerve-carpal-tunnel)
 
 ### 합곡 LI4
 수부의 근육·신경·혈관 구조와 함께 해부학적 자침 위치를 이해합니다.
 
-→ [합곡 LI4](../acupoint-network/li4.md)
+→ [합곡 LI4](../acupuncture/points/li4-hegu.md)
 
 ### 족삼리 ST36
 전외측 하퇴의 근육·심비골신경 등 주변 해부구조와 함께 탐색합니다.
 
-→ [족삼리 ST36](../acupoint-network/st36.md)
+→ [족삼리 ST36](../acupuncture/points/st36-zusanli.md)
 
 ### 위중 BL40
 슬와부의 신경·혈관 구조가 가까운 영역이므로 해부학적 안전성을 함께 봅니다.
 
-→ [위중 BL40](../acupoint-network/bl40.md)
+→ [위중 BL40](../acupuncture/points/bl40-weizhong.md)
 
 ## 임상적 의미
 
 초음파를 통해 ‘경혈의 효과를 영상으로 증명한다’고 단순화하기보다 **침이 실제 어느 조직층에 도달하는지, 주변 신경·혈관과 어떤 해부학적 관계를 갖는지, 안전한 경로가 무엇인지**를 연구하고 교육하는 방향이 적절합니다.
 
 → [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)  
-→ [침 치료 안전성과 임상해부학](../acupuncture-science/safety.md)
+→ [침 치료 안전성과 임상해부학](../acupuncture-integrated/safety.md)

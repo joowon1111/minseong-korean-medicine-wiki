@@ -14,5 +14,5 @@ GB20 풍지 · GB21 견정 · GB30 환도 · GB34 양릉천 · GB39 현종 · GB
 ## 임상적으로 읽는 방법
 표리경 관계, 특정혈 체계, 국소 해부학, 변증과 배혈을 함께 살펴봅니다.
 
-→ [경락 개요](../meridians.md)
+→ [경락 개요](../../acupuncture-integrated/points-meridians.md)
 → [경혈 임상 지식망](../../acupoint-network/index.md)

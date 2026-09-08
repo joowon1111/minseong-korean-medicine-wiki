@@ -31,7 +31,7 @@ last_reviewed: 2026-09-06
 |---|---|---|
 | 양혈 중심 | [사물탕](../formulas/siwu-tang.md) | 당귀·천궁·작약·숙지황의 역할 |
 | 기혈을 함께 보함 | [팔물탕](../formulas/bazhen-tang.md) | 보기와 보혈의 결합 |
-| 기혈양허 + 온보 | [십전대보탕](../formulas/shiquan-dabu-classic.md) | 황기·육계가 더해진 배합 |
+| 기혈양허 + 온보 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 황기·육계가 더해진 배합 |
 
 ## 적용과 경과 확인
 

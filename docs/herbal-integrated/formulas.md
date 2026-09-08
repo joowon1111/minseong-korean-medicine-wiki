@@ -97,7 +97,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [작약감초탕](../formulas/shaoyao-gancao-tang.md) — 근육의 급박·경련·쥐
 
 - [오적산](../formulas/wujisan.md) — 한습 + 기혈담식
-- [독활기생탕](../formulas/duhuo-jisheng-classic.md) — 만성 비증 + 간신기혈허
+- [독활기생탕](../formulas/duhuo-jisheng-tang.md) — 만성 비증 + 간신기혈허
 - [회수산](../formulas/huishou-san.md) — 풍한·기체 + 급성 경항통
 - [당귀수산](../formulas/danggui-susan.md) — 외상 뒤 어혈·종창·고정통
 - [소경활혈탕](../formulas/shujing-huoxue-tang.md) — 혈허·어혈 + 풍습의 오래된 통증
@@ -107,7 +107,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 
 ## 보익·기혈·음양
 
-**기본 계보:** [사군자탕](../formulas/sijunzi-tang.md)(보기) + [사물탕](../formulas/siwu-tang.md)(보혈) → [팔물탕](../formulas/bazhen-tang.md)(기혈쌍보) → [십전대보탕](../formulas/shiquan-dabu-classic.md)(온보기혈)
+**기본 계보:** [사군자탕](../formulas/sijunzi-tang.md)(보기) + [사물탕](../formulas/siwu-tang.md)(보혈) → [팔물탕](../formulas/bazhen-tang.md)(기혈쌍보) → [십전대보탕](../formulas/shi-quan-da-bu-tang.md)(온보기혈)
 
 - [사군자탕](../formulas/sijunzi-tang.md) — 비위기허·보기의 기본방
 - [육군자탕](../formulas/liujunzi-tang.md) — 비위기허 + 담음
@@ -116,7 +116,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [보중익기탕](../formulas/buzhong-yiqi-classic.md) — 비위기허·중기하함
 - [귀비탕](../formulas/guibi-tang.md) — 심비양허
 - [쌍화탕](../formulas/ssanghwa-tang.md) — 노권·기혈구상
-- [십전대보탕](../formulas/shiquan-dabu-classic.md) — 기혈양허·허손
+- [십전대보탕](../formulas/shi-quan-da-bu-tang.md) — 기혈양허·허손
 - [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 황기 중심의 보기생혈
 - [생맥산](../formulas/shengmai-san.md) — 기음양허·익기생진
 - [자감초탕](../formulas/zhigancao-tang.md) — 기혈음 허손 + 심계·맥결대

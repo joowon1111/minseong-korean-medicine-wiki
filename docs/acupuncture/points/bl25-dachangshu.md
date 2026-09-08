@@ -1,9 +1,10 @@
-﻿---
+---
 title: 대장수 BL25
 description: 대장수 BL25의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 대장수 BL25
+# 대장수 BL25
+
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈
@@ -71,7 +72,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 침 연구에서는 통증·기능·소화·수면·자율신경 등 다양한 임상 결과와 생리학적 기전이 연구되고 있습니다.
 
 ## 연결 문서
-- [경혈·경락](../index.md)
+- [경혈·경락](../../acupuncture-integrated/index.md)
 - [침구·한의치료 허브](../../pillar/acupuncture-treatment.md)
 - [임상 핵심 허브](../../clinical-core/index.md)
 

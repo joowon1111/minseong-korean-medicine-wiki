@@ -1,4 +1,4 @@
-﻿---
+---
 title: 사상체질은 어떻게 진단하나?
 description: 사상체질은 어떻게 진단하나?에 대한 사상의학적 핵심 답변과 관련 지식망을 정리합니다.
 tags: [사상의학, 사상체질, AEO, 질문형검색]
@@ -20,8 +20,8 @@ last_reviewed: 2026-08-19
    체질 판단
 ```
 
-→ [체질 진단의 임상 흐름](../sasang-guideline/diagnostic-workflow.md)
-→ [소증과 현재 병증](../sasang-guideline/ordinary-symptoms.md)
+→ [체질 진단의 임상 흐름](../sasang-guideline/index.md#diagnostic-workflow)
+→ [소증과 현재 병증](../sasang-guideline/index.md#ordinary-symptoms)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

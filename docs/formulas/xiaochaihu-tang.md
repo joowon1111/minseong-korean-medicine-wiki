@@ -60,6 +60,6 @@ last_reviewed: 2026-09-04
 ## 관련 문서
 
 - [상한론](../classics/shanghanlun.md)
-- [소양병 지식망](../shanghan-network/shaoyang.md)
+- [소양병 지식망](../shanghan-network/index.md#shaoyang)
 - [건강보험 한약제제](../herbal-integrated/insurance-herbal.md)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)

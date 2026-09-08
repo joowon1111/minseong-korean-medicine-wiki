@@ -7,6 +7,9 @@ description: 침구치료 근거·연구 — 경혈·경락·해부학·침·전
 ---
 # 근거·연구
 
+<span id="sham-acupuncture"></span>
+
+
 침구 연구는 치료 이름만 같다고 같은 중재가 아닙니다. 경혈, 자침 깊이·수기, 전침 설정, 치료 횟수와 병용치료가 다르므로 **비교군과 실제 치료 프로토콜**을 함께 읽어야 합니다.
 
 ```text
@@ -72,7 +75,6 @@ description: 침구치료 근거·연구 — 경혈·경락·해부학·침·전
  → 일정 기간 뒤 기능 재평가
 ```
 
-→ [침구치료 현대 근거 읽기](../acupuncture-clinical/evidence.md)  
 → [근거의 임상 적용](../evidence-integrated/clinical-application.md)
 → [침·전침·약침 임상근거](../evidence-integrated/acupuncture-evidence.md)
 

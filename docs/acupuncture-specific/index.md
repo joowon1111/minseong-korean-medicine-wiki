@@ -24,4 +24,4 @@ last_reviewed: 2026-08-25
 ## 관련 지식망
 - [WHO 표준 361경혈 아틀라스](../acupoint-network/standard-atlas.md)
 - [경락·경맥 지식망](../meridian-network/index.md)
-- [침구치료 임상 통합 지도](../acupuncture-clinical/integrated-map.md)
+- [침구치료 임상 통합 지도](../acupuncture-clinical/index.md)

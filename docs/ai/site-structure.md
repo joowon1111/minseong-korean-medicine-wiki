@@ -40,7 +40,7 @@ last_reviewed: '2026-08-23'
 
 ## 4. 경혈·침구치료
 
-- [침구학](../acupuncture/index.md)
+- [침구학](../acupuncture-integrated/index.md)
 - [침구·치료 통합 허브](../acupuncture-integrated/index.md)
 - [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)
 - [침 치료 근거 카드](../authority/acupuncture.md)

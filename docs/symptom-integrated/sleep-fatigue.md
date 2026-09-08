@@ -1,4 +1,4 @@
-﻿---
+---
 title: 수면·피로
 tags: [증상, 불면, 피로, 환자검색, 한약, 침구, 경과]
 status: 검토완료
@@ -29,7 +29,7 @@ description: 수면·피로 — 민성 한의학 아카이브의 관련 전문 �
 |---|---|
 | 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-classic.md) |
 | 노권·기혈구상 | [쌍화탕](../formulas/ssanghwa-tang.md) |
-| 기혈양허·허손 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| 기혈양허·허손 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 | 기음양허 | [생맥산](../formulas/shengmai-san.md) |
 
 피로는 빈혈·갑상선·수면장애·감염 후 상태·약물 등 원인 평가가 필요할 수 있습니다.

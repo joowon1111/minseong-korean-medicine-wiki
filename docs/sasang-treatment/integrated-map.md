@@ -23,7 +23,7 @@ last_reviewed: 2026-08-19
 
 국가한의임상정보포털의 사상체질병증 진료지침은 사상의학을 **치료 + 예방 + 건강증진**의 통합적 체계로 다룬다.
 
-→ [사상체질병증 표준 분류](../sasang-guideline/kcd-classification.md)
-→ [사상의학 표준 통합 지도](../sasang-guideline/integrated-map.md)
+→ [사상체질병증 표준 분류](../sasang-guideline/index.md#kcd-classification)
+→ [사상의학 표준 통합 지도](../sasang-guideline/index.md)
 → [사상의학 지식망](../sasang/index.md)
 

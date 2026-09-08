@@ -7,6 +7,9 @@ last_reviewed: 2026-09-06
 ---
 # 전침 — 전기침의 원리·강도·효과와 적용
 
+<span id="opioid"></span>
+
+
 전침은 자입한 침에 낮은 강도의 전기 자극을 연결하여 **일정한 빈도와 강도의 반복 자극을 전달하는 침 치료 방법**이다.
 
 ## 특징
@@ -29,7 +32,7 @@ last_reviewed: 2026-09-06
 
 ## 관련 문서
 - [침 치료](acupuncture.md)
-- [주요 경혈](../acupuncture/key-acupoints.md)
+- [주요 경혈](../acupoint-network/standard-atlas.md)
 - [요통 경혈 지식망](../network/low-back-pain-acupoints.md)
 
 ## 참고문헌

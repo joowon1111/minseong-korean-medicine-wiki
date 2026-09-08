@@ -17,9 +17,9 @@ tags: [침, 침과학, 신경생리, 통증조절, 전침, 자율신경]
 - [침과 통증조절 신경생리](pain-modulation.md)
 - [침과 뇌·중추신경계](brain-central.md)
 - [침과 자율신경계](autonomic.md)
-- [전침의 자극 파라미터](electroacupuncture.md)
-- [침 연구·임상근거 읽기](evidence-reading.md)
-- [침 치료 안전성과 해부학](safety.md)
+- [전침의 자극 파라미터](../treatments/electroacupuncture.md)
+- [침 연구·임상근거 읽기](../acupuncture-integrated/evidence.md)
+- [침 치료 안전성과 해부학](../acupuncture-integrated/safety.md)
 
 ## 현대 연구에서 반복되는 주요 축
 

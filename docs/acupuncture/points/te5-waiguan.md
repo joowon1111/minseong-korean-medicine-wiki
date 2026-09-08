@@ -77,7 +77,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 침 연구에서는 통증과 기능, 소화·수면·자율신경 등 다양한 임상 결과와 생리학적 기전이 연구되고 있습니다.
 
 ## 연결 문서
-- [경혈·경락](../index.md)
+- [경혈·경락](../../acupuncture-integrated/index.md)
 - [침구·한의치료 허브](../../pillar/acupuncture-treatment.md)
 
 

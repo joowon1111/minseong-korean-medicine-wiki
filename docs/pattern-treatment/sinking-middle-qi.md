@@ -30,7 +30,7 @@ last_reviewed: '2026-09-05'
 |---|---|---|
 | 보기건비 기본 | [사군자탕](../formulas/sijunzi-tang.md) | 소화와 기허의 바탕 |
 | 보기승양 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기·인삼과 승마·시호의 배합 |
-| 기혈쌍보 | [십전대보탕](../formulas/shiquan-dabu-classic.md) | 기와 혈의 부족을 함께 보함 |
+| 기혈쌍보 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 기와 혈의 부족을 함께 보함 |
 
 ## 적용과 경과 확인
 

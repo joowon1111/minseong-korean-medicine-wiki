@@ -25,11 +25,11 @@ tags: [신경포착증후군, 말초신경, 저림, 신경통, 침구]
 
 ## 주요 포착증후군
 
-- [손목터널증후군 — 정중신경](carpal-tunnel.md)
+- [손목터널증후군 — 정중신경](../conditions/carpal-tunnel.md)
 - [척골신경 포착 — 주관증후군](ulnar-entrapment.md)
 - [요골신경 포착](radial-entrapment.md)
 - [원회내근증후군 — 정중신경 근위부](pronator-syndrome.md)
-- [흉곽출구증후군](thoracic-outlet.md)
+- [흉곽출구증후군](../conditions/thoracic-outlet-symptoms.md)
 - [심부둔부·이상근과 좌골신경](deep-gluteal-sciatic.md)
 - [외측대퇴피신경 포착](meralgia-paresthetica.md)
 - [총비골신경 포착](common-peroneal-entrapment.md)

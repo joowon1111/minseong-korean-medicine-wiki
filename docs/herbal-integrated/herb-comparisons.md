@@ -45,7 +45,7 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 두충·속단·골쇄보는 보간신·강근골·손상 회복의 방향에서 비교하고, **우슬은 활혈과 인혈하행**의 성격이 더해집니다.
 
-→ [독활기생탕에서 배합 보기](../formulas/duhuo-jisheng-classic.md)
+→ [독활기생탕에서 배합 보기](../formulas/duhuo-jisheng-tang.md)
 
 ## 맥문동 · 천문동 · 백합
 
@@ -70,7 +70,7 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 |---|---|---|
 | 건강 | 온중산한·온폐화음 | [반하사심탕](../formulas/banxia-xiexin-tang.md), [오적산](../formulas/wujisan.md) |
 | 부자 | 회양구역·보화조양 | [진무탕](../formulas/zhenwu-tang.md) |
-| 육계 | 보화조양·산한통맥 | [십전대보탕](../formulas/shiquan-dabu-classic.md) |
+| 육계 | 보화조양·산한통맥 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 
 ## 복령 · 의이인 · 택사 · 차전자
 

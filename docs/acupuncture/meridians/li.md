@@ -14,5 +14,5 @@ LI4 합곡 · LI10 수삼리 · LI11 곡지 · LI15 견우 · LI20 영향
 ## 임상적으로 읽는 방법
 표리경 관계, 특정혈 체계, 국소 해부학, 변증과 배혈을 함께 살펴봅니다.
 
-→ [경락 개요](../meridians.md)
+→ [경락 개요](../../acupuncture-integrated/points-meridians.md)
 → [경혈 임상 지식망](../../acupoint-network/index.md)

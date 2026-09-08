@@ -84,8 +84,8 @@ last_reviewed: 2026-08-29
 
 - [석곡 이규준](../physicians/lee-gyujun.md)
 - [근현대 한국 한의학 임상서](../modern-korean-medicine/index.md)
-- [음양과 인체](../neijing-network/yinyang-human-body.md)
-- [장부와 기능체계](../neijing-network/zangfu-system.md)
-- [기혈진액](../neijing-network/qi-blood-fluids.md)
-- [병인·병기](../neijing-network/pathogenesis.md)
-- [사진·진단](../neijing-network/diagnosis.md)
+- [음양과 인체](../neijing-network/index.md#yinyang-human-body)
+- [장부와 기능체계](../neijing-network/index.md#zangfu-system)
+- [기혈진액](../neijing-network/index.md#qi-blood-fluids)
+- [병인·병기](../neijing-network/index.md#pathogenesis)
+- [사진·진단](../neijing-network/index.md#diagnosis)

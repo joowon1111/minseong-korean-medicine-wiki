@@ -81,8 +81,8 @@ WHO 표준 361경혈과 경맥을 한글명·국제표준코드로 탐색합니�
 
 현재 아카이브에서는 상지·하지 말초신경, 경부·견갑대, 둔부·고관절, 주요 신경포착부위를 연결해 탐색할 수 있습니다.
 
-→ [Dermatome·Myotome 임상지도](../clinical-anatomy/dermatome-myotome.md)  
-→ [말초신경 포착부위 지도](../clinical-anatomy/peripheral-nerve-map.md)
+→ [Dermatome·Myotome 임상지도](../clinical-anatomy/index.md#dermatome-myotome)  
+→ [말초신경 포착부위 지도](../clinical-anatomy/index.md#peripheral-nerve-map)
 
 ---
 
@@ -154,7 +154,7 @@ ACC·insula·thalamus·somatosensory cortex·default mode network 등 통증·�
 
 → [치료 경과·재평가](../acupuncture-integrated/followup.md)  
 → [안전·위험신호](../acupuncture-integrated/safety.md)  
-→ [침 치료 안전성과 임상해부학](../acupuncture-science/safety.md)
+→ [침 치료 안전성과 임상해부학](../acupuncture-integrated/safety.md)
 
 ---
 

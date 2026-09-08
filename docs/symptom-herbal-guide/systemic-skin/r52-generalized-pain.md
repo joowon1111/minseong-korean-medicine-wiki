@@ -114,7 +114,7 @@ last_reviewed: 2026-08-28
 | 치료 목표 | 고려할 수 있는 처방 예시 | 구분에 도움이 되는 단서 |
 |---|---|---|
 | 추위·습기와 무거운 통증 | [오적산](../../formulas/wujisan.md) | 냉감, 몸의 무거움, 허리·복부 불편이 함께 있음 |
-| 오래된 허리·무릎·전신 관절통 | [독활기생탕](../../formulas/duhuo-jisheng-classic.md) | 만성 통증, 하체 허약, 냉감과 기혈 부족 |
+| 오래된 허리·무릎·전신 관절통 | [독활기생탕](../../formulas/duhuo-jisheng-tang.md) | 만성 통증, 하체 허약, 냉감과 기혈 부족 |
 | 여러 부위의 순환 저하성 통증 | [소경활혈탕](../../formulas/shujing-huoxue-tang.md) | 고정되거나 이동하는 통증, 저림, 야간 악화 |
 | 과로 후 근육통과 허약 | [쌍화탕](../../formulas/ssanghwa-tang.md) | 몸살 같은 근육통, 피로, 회복 지연 |
 | 근육의 당김과 경련 | [작약감초탕](../../authority/formulas/shakuyakukanzoto.md) | 갑작스러운 근육 경련과 당기는 통증 |

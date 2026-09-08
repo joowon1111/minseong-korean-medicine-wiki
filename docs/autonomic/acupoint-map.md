@@ -14,7 +14,7 @@ last_reviewed: 2026-08-19
 ├─ 오심·소화
 └─ 수면·정서
 ```
-→ [내관 PC6](../acupoint-network/pc6.md)
+→ [내관 PC6](../acupuncture/points/pc6-neiguan.md)
 
 ## 신문 HT7
 ```text
@@ -23,7 +23,7 @@ last_reviewed: 2026-08-19
 ├─ 심계
 └─ 불면
 ```
-→ [신문 HT7](../acupoint-network/ht7.md)
+→ [신문 HT7](../acupuncture/points/ht7-shenmen.md)
 
 ## 족삼리 ST36
 ```text
@@ -32,9 +32,9 @@ last_reviewed: 2026-08-19
 ├─ 기허
 └─ 전신 회복
 ```
-→ [족삼리 ST36](../acupoint-network/st36.md)
+→ [족삼리 ST36](../acupuncture/points/st36-zusanli.md)
 
 ## 삼음교 SP6
-→ [삼음교 SP6](../acupoint-network/sp6.md)
+→ [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md)
 
 이 경혈들은 하나의 증상에 고정된 혈이라기보다 현재의 증후와 배혈 구조 속에서 활용된다.

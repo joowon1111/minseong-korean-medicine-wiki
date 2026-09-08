@@ -135,7 +135,7 @@ last_reviewed: 2026-09-06
 - [신경포착증후군](../nerve-entrapment/index.md)
 - [근육·말초신경 임상해부학](../clinical-anatomy/index.md)
 - [근골격계 초음파](../musculoskeletal-ultrasound/index.md)
-- [침 치료 안전성과 임상해부학](../acupuncture-science/safety.md)
+- [침 치료 안전성과 임상해부학](safety.md)
 
 ## 치료 경과는 무엇으로 판단하나요?
 
@@ -179,7 +179,7 @@ last_reviewed: 2026-09-06
 - 이상반응과 중도탈락
 
 → [침구치료 근거·연구](evidence.md)  
-→ [침 연구·임상근거 읽기](../acupuncture-science/evidence-reading.md)  
+→ [침 연구·임상근거 읽기](evidence.md)  
 → [현대 임상근거 허브](../pillar/clinical-evidence.md)
 
 ## 누구에게 어떤 순서가 좋을까요?

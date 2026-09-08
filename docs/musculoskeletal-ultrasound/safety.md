@@ -16,4 +16,4 @@
 
 초음파는 해부학적 판단을 보조하는 도구이며 안전한 시술을 위해서는 해부학 지식, 적절한 교육과 술기 숙련이 함께 필요합니다.
 
-→ [침 치료 안전성과 임상해부학](../acupuncture-science/safety.md)
+→ [침 치료 안전성과 임상해부학](../acupuncture-integrated/safety.md)

@@ -37,6 +37,6 @@ last_reviewed: 2026-08-29
 
 - [온병조변 기준문서](../classics/wenbing-tiaobian.md)
 - [온병학 핵심 지식망](../wenbing-network/index.md)
-- [삼초변증](../wenbing-network/triple-burner-patterns.md)
-- [위기영혈변증](../wenbing-network/wei-qi-ying-xue.md)
-- [상한론과 온병학 비교](../wenbing-network/shanghan-comparison.md)
+- [삼초변증](../wenbing-network/index.md#triple-burner-patterns)
+- [위기영혈변증](../wenbing-network/index.md#wei-qi-ying-xue)
+- [상한론과 온병학 비교](../wenbing-network/index.md#shanghan-comparison)

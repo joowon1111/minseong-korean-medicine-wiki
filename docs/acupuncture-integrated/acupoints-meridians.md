@@ -76,9 +76,9 @@ last_reviewed: '2026-08-29'
 
 ## 경맥에서 더 확장하기
 
-- [12경근](../acupuncture/treatment-principles.md)
+- [12경근](index.md)
 - [락맥](../meridian-network/special-points/luo-connecting.md)
-- [경별](../acupuncture/twelve-meridians.md)
+- [경별](../meridian-network/index.md)
 - [기경팔맥](../meridian-network/extraordinary-vessels.md)
 - [배혈 조합](../acupuncture-specific/pairing-principles.md)
 - [오수혈·오행](../meridian-network/special-points/five-shu.md)
@@ -94,7 +94,7 @@ last_reviewed: '2026-08-29'
 
 안전한 자침은 경혈 위치에 더해 체형과 자세, 시술 각도·깊이, 질환과 복용약을 확인하는 과정입니다.
 
-→ [침 치료 안전성과 임상해부학](../acupuncture-science/safety.md)  
+→ [침 치료 안전성과 임상해부학](safety.md)  
 → [침구치료 안전·위험신호](safety.md)
 
 ## 자주 묻는 질문

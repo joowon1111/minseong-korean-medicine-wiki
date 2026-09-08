@@ -32,7 +32,7 @@ last_reviewed: '2026-08-29'
 
 체질진단은 단일 설문이나 체형 수치보다 **평소 소증·현재 병증·전문가 종합평가와 시간에 따른 일관성**을 함께 봅니다.
 
-→ [체질진단 연구](../sasang-research/diagnosis-research.md)
+→ [체질진단 연구](../sasang-research/index.md#diagnosis-research)
 
 ## 소증과 현재 병증을 구분합니다
 
@@ -57,7 +57,7 @@ last_reviewed: '2026-08-29'
 7. 주증상·소증·기능·삶의 질
 8. 이상반응과 중도탈락
 
-→ [사상 처방 임상 라이브러리](../sasang-formula-library/index.md) · [체질별 치료 연구](../sasang-research/treatment-research.md)
+→ [사상 처방 임상 라이브러리](../sasang-formula-library/index.md) · [체질별 치료 연구](../sasang-research/index.md#treatment-research)
 
 ## 원전과 현대 연구의 층위
 
@@ -93,5 +93,5 @@ last_reviewed: '2026-08-29'
 - [사상체질 병증 비교](../sasang-integrated/patterns.md)
 - [사상체질 대표처방](../sasang-integrated/formulas.md)
 - [사상의학 현대 연구](../sasang-research/index.md)
-- [사상의학 연구 프레임](../sasang-research/evidence-framework.md)
+- [사상의학 연구 프레임](../sasang-research/index.md#evidence-framework)
 - [근거의 임상 적용](clinical-application.md)
