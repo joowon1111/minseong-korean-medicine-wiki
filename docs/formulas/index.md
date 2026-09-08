@@ -30,7 +30,7 @@ last_reviewed: '2026-09-05'
 - [자감초탕](zhigancao-tang.md) · [황기계지오물탕](huangqi-guizhi-wuwu-tang.md)
 - [인삼양영탕](renshen-yangrong-tang.md) · [익기보혈탕](ikgi-bohyeol-tang.md) · [당귀보혈탕](danggui-buxue-tang.md) · [인삼황기탕](renshen-huangqi-tang.md)
 - [대보원전](dabo-wonjeon.md) · [좌귀환](zuogui-wan.md) · [우귀환](yougui-wan.md)
-- [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md)
+- [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md) · [귀용탕·귀룡탕 — 소아·성인 가감방](gwiyong-tang.md)
 
 ### 여성·임신준비·산후
 - [조경종옥탕](tiaojing-zhongyu-tang.md) · [육린주](yulin-zhu.md) · [개울종옥탕](kaiyu-zhongyu-tang.md)
