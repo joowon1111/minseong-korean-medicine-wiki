@@ -1559,6 +1559,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="구조화 데이터와 기술 기준">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#public-ai-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        공개된 AI 읽기 자료
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#json-ld-example" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        페이지에 담긴 구조화 데이터
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#structured-data-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        적용 원칙
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -4909,6 +4948,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="구조화 데이터와 기술 기준">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#public-ai-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        공개된 AI 읽기 자료
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#json-ld-example" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        페이지에 담긴 구조화 데이터
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#structured-data-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        적용 원칙
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -5205,6 +5283,59 @@
 <li>중복되지 않는 대표 문서와 안정적인 URL</li>
 </ul>
 <h2 id="_10">구조화 데이터와 기술 기준<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h2>
+<p>아카이브는 사람이 읽는 문서와 함께, 검색엔진과 AI 도구가 문서의 제목·본문·출처·연결 관계를 읽을 수 있는 구조화 자료를 제공합니다. 아래에서 실제 공개 자료와 데이터 형식을 확인할 수 있습니다.</p>
+<h3 id="public-ai-data">공개된 AI 읽기 자료<a class="headerlink" href="#public-ai-data" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>자료</th>
+<th>담고 있는 정보</th>
+<th>직접 살펴보기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>문서별 JSON</td>
+<td>한 문서의 제목·본문·소제목 주소·출처 및 관련 링크</td>
+<td><a href="https://wiki.minseong.co.kr/assets/ai/pages/seo-aeo-standard/index.json">이 문서의 JSON</a> · <a href="https://wiki.minseong.co.kr/assets/ai/page-index.json">전체 문서 색인</a></td>
+</tr>
+<tr>
+<td>지식그래프 JSON</td>
+<td>증상·질환·본초·방제 등 공개 문서의 분류와 문서 사이의 연결</td>
+<td><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json">지식그래프</a></td>
+</tr>
+<tr>
+<td>JSON Schema</td>
+<td>지식그래프의 필드와 자료형을 정의한 데이터 규격</td>
+<td><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json">데이터 스키마</a></td>
+</tr>
+<tr>
+<td>데이터 매니페스트</td>
+<td>지식그래프의 문서·관계 수, 분류별 구성과 제공 파일 목록</td>
+<td><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json">데이터 구성 정보</a></td>
+</tr>
+<tr>
+<td>llms.txt</td>
+<td>아카이브의 주요 주제와 AI 읽기 자료를 안내하는 텍스트</td>
+<td><a href="https://wiki.minseong.co.kr/llms.txt">AI 읽기 안내</a></td>
+</tr>
+</tbody>
+</table>
+<p>특정 주제 하나를 읽을 때는 문서별 JSON을, 여러 주제의 연결을 살펴볼 때는 지식그래프를 활용할 수 있습니다. 문서별 JSON에는 실제 본문 소제목으로 이동하는 주소도 포함됩니다. 내용을 인용할 때는 독자가 맥락과 출처를 확인할 수 있도록 원래 문서 주소를 사용합니다.</p>
+<h3 id="json-ld-example">페이지에 담긴 구조화 데이터<a class="headerlink" href="#json-ld-example" title="Permanent link">&para;</a></h3>
+<p>각 페이지에는 schema.org 어휘를 사용하는 JSON-LD 구조화 데이터도 포함됩니다. 문서의 성격을 나타내는 <code>WebPage</code>·<code>MedicalWebPage</code>, 사이트 정보를 나타내는 <code>WebSite</code>, 문서의 탐색 경로를 나타내는 <code>BreadcrumbList</code> 등을 페이지에 맞게 제공합니다.</p>
+<p>다음은 이 문서의 구조화 데이터에서 주요 항목을 간추린 예시입니다.</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">"@context"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://schema.org"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"@type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"WebPage"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"@id"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://wiki.minseong.co.kr/seo-aeo-standard/#webpage"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"url"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://wiki.minseong.co.kr/seo-aeo-standard/"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"SEO·AEO·GEO 문서 표준"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"inLanguage"</span><span class="p">:</span><span class="w"> </span><span class="s2">"ko-KR"</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>JSON-LD는 <strong>웹페이지가 무엇을 설명하는지</strong>를 표현하고, 위의 JSON Schema는 <strong>지식그래프 파일을 어떤 형식으로 읽어야 하는지</strong>를 정의합니다. 공개 문서의 정보를 일관되게 전달하기 위한 서로 다른 자료입니다.</p>
+<h3 id="structured-data-principles">적용 원칙<a class="headerlink" href="#structured-data-principles" title="Permanent link">&para;</a></h3>
 <ul>
 <li>구조화 데이터는 페이지에서 사용자가 실제로 볼 수 있는 내용과 일치해야 합니다.</li>
 <li>존재하지 않는 저자·평점·질문·답변을 마크업에 추가하지 않습니다.</li>
