@@ -977,11 +977,25 @@ nav:
   - 고전·의학사 자료실:
     - 의가·인물:
       - physicians/index.md
-      - 허준: physicians/heo-jun.md
-      - 장중경: physicians/zhang-zhongjing.md
-      - 손사막: physicians/sun-simiao.md
-      - 이동원: physicians/li-dongyuan.md
-      - 이제마: physicians/lee-je-ma.md
+      - 한국의 주요 의가:
+        - 허준: physicians/heo-jun.md
+        - 혜암 황도연: physicians/hwang-doyeon.md
+        - 이제마: physicians/lee-je-ma.md
+        - 석곡 이규준: physicians/lee-gyujun.md
+        - 청강 김영훈: physicians/kim-young-hoon.md
+      - 한·당대 임상 고전:
+        - 장중경: physicians/zhang-zhongjing.md
+        - 손사막: physicians/sun-simiao.md
+      - 금원사대가:
+        - 유완소: physicians/liu-wansu.md
+        - 장종정: physicians/zhang-congzheng.md
+        - 이동원: physicians/li-dongyuan.md
+        - 주단계: physicians/zhu-danxi.md
+      - 명·청대 본초·보법·온병학:
+        - 이시진: physicians/li-shizhen.md
+        - 장경악: physicians/zhang-jingyue.md
+        - 엽천사: physicians/ye-tianshi.md
+        - 오국통: physicians/wu-jutong.md
     - 한의학 고전:
       - classics/index.md
       - 황제내경: classics/huangdi-neijing.md
@@ -1033,9 +1047,7 @@ nav:
       - modern-korean-medicine/index.md
       - 방약합편 임상 지식망: bangyakhappyeon-network/index.md
       - 소문대요: classics/somun-daeyo.md
-      - 석곡 이규준: physicians/lee-gyujun.md
       - 청강의감: classics/cheonggang-uigam.md
-      - 청강 김영훈: physicians/kim-young-hoon.md
     - 고전 비교·읽는 방법:
       - 고전 9종 비교: classics-network/comparison.md
       - 고전 읽는 순서: classics-network/reading-path.md
