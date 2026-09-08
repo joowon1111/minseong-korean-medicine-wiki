@@ -161,14 +161,23 @@ def entity_type(path: Path) -> str:
 
 
 def extract_search_aliases(body: str) -> list[str]:
+    # Editorial markers and structured data are not search terms. Remove them
+    # before finding headings so hidden headings cannot select or end a block.
+    body = re.sub(r"<!--.*?(?:-->|\Z)", "", body, flags=re.S)
+    body = re.sub(
+        r"<(script|style|template)\b[^>]*>.*?(?:</\1\s*>|\Z)",
+        "", body, flags=re.I | re.S,
+    )
     match = re.search(
-        r"^##\s+검색\s*동의어\s*$\n(.*?)(?=^##\s+|\Z)",
+        r"^##[ \t]+검색[ \t]*동의어(?:[ \t]+\{#[^}]+\})?[ \t]*\n"
+        r"(.*?)(?=^#{1,6}[ \t]+|^<h[1-6]\b|\Z)",
         body,
         flags=re.M | re.S,
     )
     if not match:
         return []
     block = re.sub(r"\[[^\]]+\]\([^)]+\)", " ", match.group(1))
+    block = re.sub(r"<[^>]+>", "", block)
     block = re.sub(r"[*_>#]", " ", block)
     return unique(re.split(r"[·,;|\n]+", block), limit=40)
 
