@@ -60,16 +60,16 @@ last_reviewed: 2026-08-29
 
 ## 주요 의가와 고전의 핵심 계보
 
-- [장중경 계보](zhang-zhongjing-lineage.md)
-- [이동원 계보](li-dongyuan-lineage.md)
-- [손사막 계보](sun-simiao-lineage.md)
+- [장중경 계보](../physicians/zhang-zhongjing.md#formula-lineage)
+- [이동원 계보](../physicians/li-dongyuan.md#formula-lineage)
+- [손사막 계보](../physicians/sun-simiao.md#formula-lineage)
 - [의학입문](../classics/uihak-ipmun.md)
-- [허준 계보](heo-jun-lineage.md)
+- [허준 계보](../physicians/heo-jun.md#formula-lineage)
 - [석곡 이규준](../physicians/lee-gyujun.md)
 - [소문대요](../classics/somun-daeyo.md)
 - [청강 김영훈](../physicians/kim-young-hoon.md)
 - [청강의감](../classics/cheonggang-uigam.md)
-- [이제마 계보](lee-je-ma-lineage.md)
+- [이제마 계보](../physicians/lee-je-ma.md#formula-lineage)
 
 ## 이 지식망의 의미
 

@@ -21,7 +21,7 @@ last_reviewed: 2026-08-19
 ```
 
 → [보중익기탕](../formulas/buzhong-yiqi-tang.md)  
-→ [이동원 계보](../network/li-dongyuan-lineage.md)
+→ [이동원 계보](../physicians/li-dongyuan.md#formula-lineage)
 
 ## 현대 근거
 안정기 COPD를 대상으로 한 2016년 systematic review/meta-analysis에는 16개 연구, 1,400명이 포함되었다. 보중익기탕 단독 또는 기존 치료와 병용한 연구에서 임상증상·6분 보행·일부 폐기능·삶의 질 지표의 개선이 보고됐다.
