@@ -28,7 +28,7 @@ last_reviewed: '2026-08-29'
 - 현대 질환명과 원전 병증을 무리하게 동일시하지 않았는가
 
 → [고전·전통자료](../evidence-integrated/classical-sources.md)  
-→ [고전 지식망](../classics-network/index.md)
+→ [고전 지식망](../classics/index.md)
 
 ## 단일 본초 연구
 

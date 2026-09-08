@@ -32,7 +32,7 @@ hide:
 | 체질과 평소 소증이 궁금해요 | [사상의학 한눈에 보기](../sasang-integrated/index.md) | 소증 → 현재 병증 → 처방·생활관리 |
 | 논문과 임상근거를 확인하고 싶어요 | [연구·근거 한눈에 보기](../evidence-integrated/index.md) | 연구설계 → PMID·DOI → 임상 적용 |
 | 장부·기혈진액·병인·변증을 공부하고 싶어요 | [한의학 기초 통합 허브](../foundations-integrated/index.md) | 개념 → 증상 해석 → 변증 → 치법 |
-| 고전 원문에서 출발하고 싶어요 | [고전 지식망](../classics-network/index.md) | 원문 → 병증·처방 → 현대 임상 |
+| 고전 원문에서 출발하고 싶어요 | [고전 지식망](../classics/index.md) | 원문 → 병증·처방 → 현대 임상 |
 
 ## 환자를 위한 두 개의 대표 입구
 

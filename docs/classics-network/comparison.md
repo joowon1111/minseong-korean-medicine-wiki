@@ -10,22 +10,22 @@ last_reviewed: 2026-08-29
 
 | 고전 | 핵심 초점 | 대표적인 학습 축 |
 |---|---|---|
-| [황제내경](huangdi-neijing.md) | 기초이론·생리·병리·경락 | 음양·장부·기혈·경락 |
-| [난경](nanjing.md) | 내경의 난제를 문답으로 해설 | 맥진·경락·기경팔맥·수혈·침법 |
-| [상한론](shanghan-lun.md) | 외감병의 단계와 처방 | 육경병증·치법·고방 |
-| [금궤요략](jingui-yaolue.md) | 내과 잡병과 처방 | 병증·병기·처방 |
-| [의학입문](uihak-ipmun.md) | 의학 학습과 종합 임상 | 기초·진단·본초·상한·내상·잡병·침구 |
-| [동의보감](donguibogam.md) | 조선 한의학의 종합적 집대성 | 내경·외형·잡병·탕액·침구 |
-| [경악전서](jingyue-quanshu.md) | 음양·장부·허손·잡증과 방제 | 보법·본초정·고방팔진·신방팔진 |
-| [온병조변](wenbing-tiaobian.md) | 온열성 병증의 전변과 치료 | 삼초변증·위기영혈·온병 처방 |
-| [동의수세보원](donguisusebowon.md) | 체질별 생리·병리·치료 | 사상체질·체질병증·처방 |
+| [황제내경](../classics/huangdi-neijing.md) | 기초이론·생리·병리·경락 | 음양·장부·기혈·경락 |
+| [난경](../classics/nanjing.md) | 내경의 난제를 문답으로 해설 | 맥진·경락·기경팔맥·수혈·침법 |
+| [상한론](../classics/shanghanlun.md) | 외감병의 단계와 처방 | 육경병증·치법·고방 |
+| [금궤요략](../classics/jinkui-yaolue.md) | 내과 잡병과 처방 | 병증·병기·처방 |
+| [의학입문](../classics/uihak-ipmun.md) | 의학 학습과 종합 임상 | 기초·진단·본초·상한·내상·잡병·침구 |
+| [동의보감](../classics/donguibogam.md) | 조선 한의학의 종합적 집대성 | 내경·외형·잡병·탕액·침구 |
+| [경악전서](../classics/jingyue-quanshu.md) | 음양·장부·허손·잡증과 방제 | 보법·본초정·고방팔진·신방팔진 |
+| [온병조변](../classics/wenbing-tiaobian.md) | 온열성 병증의 전변과 치료 | 삼초변증·위기영혈·온병 처방 |
+| [동의수세보원](../classics/donguisusebowon.md) | 체질별 생리·병리·치료 | 사상체질·체질병증·처방 |
 
 아홉 고전을 함께 보면 **기초이론 → 진단·경락 → 외감과 잡병 → 종합 임상 → 조선 의학 → 허손·보법 → 온병학 → 체질의학**의 큰 흐름을 파악할 수 있습니다.
 
 ## 관련 문서
 
 - [한의학 고전 읽는 순서](reading-path.md)
-- [고전 통합 임상 지도](integrated-map.md)
+- [고전 통합 임상 지도](../classics/index.md#classics-to-clinic)
 - [한의학 고전 임상 지식망](../classics/index.md)
 
 ## 함께 읽으면 연결이 잘 보이는 조합

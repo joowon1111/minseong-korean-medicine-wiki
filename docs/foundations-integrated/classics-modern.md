@@ -1,4 +1,4 @@
-﻿---
+---
 title: 고전→현대 연결
 tags: [한의학기초, 통합허브, 임상추론]
 status: 검토완료
@@ -50,7 +50,7 @@ description: 고전→현대 연결 — 민성 한의학 아카이브의 관련 
 | 『동의수세보원』 | 사상체질, 소증·병증과 체질처방 체계 |
 | 근현대 임상서 | 시대별 진료 경험과 처방 운용의 확장 |
 
-→ [고전 지식망](../classics-network/index.md)
+→ [고전 지식망](../classics/index.md)
 
 ## 전통 병증과 현대 질환을 연결하는 법
 
@@ -124,7 +124,7 @@ description: 고전→현대 연결 — 민성 한의학 아카이브의 관련 
 
 ## 더 깊이 보기
 
-- [고전 지식망](../classics-network/index.md)
+- [고전 지식망](../classics/index.md)
 - [고전·전통자료 판별](../evidence-integrated/classical-sources.md)
 - [전통 문헌과 현대 연구](../evidence-guide/tradition-modern.md)
 - [근거의 임상 적용](../evidence-integrated/clinical-application.md)

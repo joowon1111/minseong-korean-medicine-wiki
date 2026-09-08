@@ -176,5 +176,5 @@ last_reviewed: 2026-08-22
 | 복만·식적 | 한·비위허·담음·식적 |
 | 부인병 | 어혈·혈허·수습 |
 
-→ [금궤요략 탐색](../classics-network/jingui-yaolue.md)  
+→ [금궤요략 탐색](../classics/jinkui-yaolue.md)  
 → [고전→현대 연구](../network/classic-to-evidence-map.md)

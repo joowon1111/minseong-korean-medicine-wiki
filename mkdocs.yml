@@ -239,6 +239,17 @@ plugins:
       herbal-formula-clinical/treatment-directions.md: herbal-formula-clinical/index.md
       herbal-formula-clinical/formula-architecture.md: herbal-formula-clinical/index.md
       herbal-formula-clinical/evidence.md: herbal-formula-clinical/index.md
+      classics-network/huangdi-neijing.md: classics/huangdi-neijing.md
+      classics-network/nanjing.md: classics/nanjing.md
+      classics-network/shanghan-lun.md: classics/shanghanlun.md
+      classics-network/jingui-yaolue.md: classics/jinkui-yaolue.md
+      classics-network/uihak-ipmun.md: classics/uihak-ipmun.md
+      classics-network/jingyue-quanshu.md: classics/jingyue-quanshu.md
+      classics-network/wenbing-tiaobian.md: classics/wenbing-tiaobian.md
+      classics-network/donguibogam.md: classics/donguibogam.md
+      classics-network/donguisusebowon.md: classics/donguisusebowon.md
+      classics-network/index.md: classics/index.md
+      classics-network/integrated-map.md: classics/index.md
 theme:
   name: material
   language: ko
@@ -1024,20 +1035,9 @@ nav:
       - 석곡 이규준: physicians/lee-gyujun.md
       - 청강의감: classics/cheonggang-uigam.md
       - 청강 김영훈: physicians/kim-young-hoon.md
-    - 한의학 고전 비교·계보:
-      - classics-network/index.md
-      - 황제내경: classics-network/huangdi-neijing.md
-      - 난경: classics-network/nanjing.md
-      - 상한론: classics-network/shanghan-lun.md
-      - 금궤요략: classics-network/jingui-yaolue.md
-      - 의학입문: classics-network/uihak-ipmun.md
-      - 경악전서: classics-network/jingyue-quanshu.md
-      - 온병조변: classics-network/wenbing-tiaobian.md
-      - 동의보감: classics-network/donguibogam.md
-      - 동의수세보원: classics-network/donguisusebowon.md
+    - 고전 비교·읽는 방법:
       - 고전 9종 비교: classics-network/comparison.md
       - 고전 읽는 순서: classics-network/reading-path.md
-      - 고전→현대 임상 연결 지도: classics-network/integrated-map.md
     - 황제내경 핵심 지식망: neijing-network/index.md
     - 상한론 핵심 지식망: shanghan-network/index.md
     - 금궤요략 핵심 지식망: jingui-network/index.md
