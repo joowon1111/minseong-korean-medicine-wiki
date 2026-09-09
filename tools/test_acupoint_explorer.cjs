@@ -55,6 +55,9 @@ test('regional fragment opens its own group and ignores other or malformed ancho
   const region={open:false,matches:s=>s==='details.acupoint-region',querySelectorAll:()=>[]};
   const doc={defaultView:{location:{hash:'#visual-head'}},getElementById:id=>id==='visual-head'?{nextElementSibling:region}:null};
   revealRegion(doc); assert.equal(region.open,true);
+  region.open=false;
+  doc.getElementById=id=>id==='visual-head'?{parentElement:{tagName:'P',nextElementSibling:region}}:null;
+  revealRegion(doc); assert.equal(region.open,true);
   for (const hash of ['#find-points','#%invalid','#visual-missing','']) {
     region.open=false;doc.defaultView.location.hash=hash;revealRegion(doc);assert.equal(region.open,false);
   }
