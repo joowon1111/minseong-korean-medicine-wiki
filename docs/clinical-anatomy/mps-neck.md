@@ -11,7 +11,7 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 ## 근육 위치 도해 {#diagram}
 
-<figure>
+<figure style="display:block;width:100%;max-width:100%;margin-left:0;margin-right:0">
 <object data="/assets/mps-atlas/neck.svg" type="image/svg+xml" width="960" height="680" style="width:100%;height:auto;aspect-ratio:24/17" aria-label="목·뒤통수 근육·MPS 아틀라스">
 <img src="/assets/mps-atlas/neck.svg" alt="뒤에서 보기 · 표층과 심층을 나누어 표시. 상부 승모근, 견갑거근, 후두하근군 위치 개요" width="960" height="680" loading="lazy" />
 </object>

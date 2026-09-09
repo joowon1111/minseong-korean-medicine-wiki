@@ -514,14 +514,16 @@ nav:
     - 종아리 가쪽 · 일중·이중·삼중: tung-acupuncture/lower-leg-lateral.md
     - 허벅지 · 통관·통산·통천·사마: tung-acupuncture/thigh.md
     - 허벅지 안쪽 · 상삼황: tung-acupuncture/thigh-medial.md
-  - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
-  - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
-  - 침·전침·약침·뜸·부항: acupuncture-integrated/modalities.md
-  - 약침 임상 지도: acupuncture-integrated/pharmacopuncture.md
-  - 근골격 통증 핵심: acupuncture-integrated/musculoskeletal.md
-  - 치료 경과·재평가: acupuncture-integrated/followup.md
-  - 안전·위험신호: acupuncture-integrated/safety.md
-  - 근거·연구: acupuncture-integrated/evidence.md
+  - 근육·근막·MPS 해부 아틀라스:
+    - clinical-anatomy/mps-atlas.md
+    - 목·뒤통수: clinical-anatomy/mps-neck.md
+    - 턱·관자: clinical-anatomy/mps-jaw.md
+    - 어깨·견갑대: clinical-anatomy/mps-shoulder.md
+    - 팔꿈치·아래팔: clinical-anatomy/mps-forearm.md
+    - 허리·옆구리: clinical-anatomy/mps-lumbar.md
+    - 엉덩이·고관절: clinical-anatomy/mps-hip.md
+    - 허벅지·무릎: clinical-anatomy/mps-thigh.md
+    - 종아리·발뒤꿈치: clinical-anatomy/mps-calf.md
   - 신경포착증후군:
     - nerve-entrapment/index.md
     - 손목터널증후군 · 정중신경: conditions/carpal-tunnel.md
@@ -533,16 +535,6 @@ nav:
     - 외측대퇴피신경 포착: nerve-entrapment/meralgia-paresthetica.md
     - 총비골신경 포착: nerve-entrapment/common-peroneal-entrapment.md
     - 족근관증후군 · 경골신경: nerve-entrapment/tarsal-tunnel.md
-  - 근육·근막·MPS 해부 아틀라스:
-    - clinical-anatomy/mps-atlas.md
-    - 목·뒤통수: clinical-anatomy/mps-neck.md
-    - 턱·관자: clinical-anatomy/mps-jaw.md
-    - 어깨·견갑대: clinical-anatomy/mps-shoulder.md
-    - 팔꿈치·아래팔: clinical-anatomy/mps-forearm.md
-    - 허리·옆구리: clinical-anatomy/mps-lumbar.md
-    - 엉덩이·고관절: clinical-anatomy/mps-hip.md
-    - 허벅지·무릎: clinical-anatomy/mps-thigh.md
-    - 종아리·발뒤꿈치: clinical-anatomy/mps-calf.md
   - 근육·말초신경 임상해부학: clinical-anatomy/index.md
   - 침의 과학적 접근:
     - acupuncture-science/index.md
@@ -558,27 +550,33 @@ nav:
     - 초음파 유도 치료 현대근거: musculoskeletal-ultrasound/evidence.md
     - 초음파 유도 시술 안전성: musculoskeletal-ultrasound/safety.md
   - 상세 자료실:
-    - portal/acupuncture.md
-    - 주요 경혈 상세:
-      - 합곡 LI4: acupuncture/points/li4-hegu.md
-      - 족삼리 ST36: acupuncture/points/st36-zusanli.md
-      - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
-      - 내관 PC6: acupuncture/points/pc6-neiguan.md
-      - 신문 HT7: acupuncture/points/ht7-shenmen.md
-      - 태충 LR3: acupuncture/points/lr3-taichong.md
-      - 관원 CV4: acupuncture/points/cv4-guanyuan.md
-      - 중완 CV12: acupuncture/points/cv12-zhongwan.md
-      - 백회 GV20: acupuncture/points/gv20-baihui.md
-      - 신수 BL23: acupuncture/points/bl23-shenshu.md
-      - 위중 BL40: acupuncture/points/bl40-weizhong.md
-      - 풍지 GB20: acupuncture/points/gb20-fengchi.md
-    - 경혈 임상 지식망:
-      - acupoint-network/index.md
+    - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
+    - 경혈·경락 찾기:
+      - acupuncture-integrated/points-meridians.md
+      - 경혈 임상 지식망: acupoint-network/index.md
       - 증상별 경혈 지도: acupoint-network/by-condition.md
-    - 침구·치료 임상 심화:
-      - acupuncture-clinical/index.md
+      - 주요 경혈 상세:
+        - 합곡 LI4: acupuncture/points/li4-hegu.md
+        - 족삼리 ST36: acupuncture/points/st36-zusanli.md
+        - 삼음교 SP6: acupuncture/points/sp6-sanyinjiao.md
+        - 내관 PC6: acupuncture/points/pc6-neiguan.md
+        - 신문 HT7: acupuncture/points/ht7-shenmen.md
+        - 태충 LR3: acupuncture/points/lr3-taichong.md
+        - 관원 CV4: acupuncture/points/cv4-guanyuan.md
+        - 중완 CV12: acupuncture/points/cv12-zhongwan.md
+        - 백회 GV20: acupuncture/points/gv20-baihui.md
+        - 신수 BL23: acupuncture/points/bl23-shenshu.md
+        - 위중 BL40: acupuncture/points/bl40-weizhong.md
+        - 풍지 GB20: acupuncture/points/gb20-fengchi.md
+    - 침·전침·약침·뜸·부항: acupuncture-integrated/modalities.md
+    - 약침 임상 지도: acupuncture-integrated/pharmacopuncture.md
+    - 근골격 통증 핵심: acupuncture-integrated/musculoskeletal.md
+    - 치료 경과·재평가:
+      - acupuncture-integrated/followup.md
       - 치료 강도·빈도·경과: acupuncture-clinical/dose-followup.md
       - 치료 반응·재평가: acupuncture-clinical/response-reassessment.md
+    - 안전·위험신호: acupuncture-integrated/safety.md
+    - 근거·연구: acupuncture-integrated/evidence.md
 - 증상·질환:
   - 증상으로 찾기: symptom-integrated/index.md
   - 질환별 보기:
