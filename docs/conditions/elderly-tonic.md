@@ -71,10 +71,13 @@ related_reading:
 |---|---|---|
 | 보기·건비 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 기력과 식욕·소화 저하 |
 | 기혈쌍보 | [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 허약·어지럼·냉감과 회복 지연 |
+| 기혈과 식욕·심신 회복 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) | 오래된 허약에 식욕저하·심계·얕은 잠이 함께 있는 양상 |
 | 익기생진 | [생맥산](../formulas/shengmai-san.md) | 기력저하와 구갈·진액 소모 |
 | 녹용 등 보익 본초 배합 | [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md#tonic-formulas) | 소화력·냉열·근골격·전신 회복 상태 |
 
 위 표는 처방의 역할을 설명합니다. 간·신장기능, 부종·혈압, 다른 약과 영양제를 함께 확인해 실제 구성을 정합니다.
+
+인삼양영탕은 만성폐쇄성폐질환(COPD)과 허약이 겹친 환자에서 식욕·피로·기능을 살핀 연구가 있습니다. 모든 어르신에게 같은 효과를 기대하기보다 현재 병력과 식사·활동 상태가 연구 대상과 가까운지 확인합니다. 자세한 대상과 결과는 [인삼양영탕 연구](../formulas/renshen-yangrong-tang.md#frailty-trials), 실제 기능 관찰은 [근감소증·노쇠](frailty-sarcopenia.md#sarcopenia-formulas)에서 이어 볼 수 있습니다.
 
 ## 복용 중 생활기능을 함께 살핍니다
 

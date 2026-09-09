@@ -22,8 +22,11 @@ last_reviewed: 2026-09-06
 | [쌍화탕](../../formulas/ssanghwa-tang.md) | 과로와 몸이 쑤시는 기혈부족 | 피로 점수와 삶의 질의 서로 다른 결과 |
 | [팔물탕](../../formulas/bazhen-tang.md)·[십전대보탕](../../formulas/shi-quan-da-bu-tang.md) | 기혈쌍보와 허약·냉감 | 변증별 구성 및 처방별 연구 |
 | [귀비탕](../../formulas/guibi-tang.md) | 불면·심계·식욕저하와 심비양허 | 수면·정서 변화와 피로를 구분 |
+| [인삼양영탕](../../formulas/renshen-yangrong-tang.md) | 오래된 허약과 식욕·심계·수면이 겹친 기혈양허 | [COPD·노쇠 동반 연구](../../formulas/renshen-yangrong-tang.md#frailty-trials)의 피로·기능 결과를 일반 만성피로와 구분 |
 
 이 표는 처방을 찾아가는 지도입니다. 각 행의 처방이 위 메타분석에서 모두 같은 조건으로 검증되었다는 뜻은 아닙니다.
+
+평소보다 식사량과 활동이 줄어든 고령자라면 [노쇠·근감소의 평가](../../conditions/frailty-sarcopenia.md#muscle-function)를 함께 봅니다. 특정 만성질환에 동반된 피로 연구를 읽을 때에는 그 질환의 표준치료·영양·재활이 유지됐는지, 피로 점수와 실제 생활기능이 함께 변했는지 확인합니다. 처방별 비교는 [인삼 함유 처방의 개별 연구 색인](ginseng-formula-fatigue.md#formula-specific-evidence)에서 이어집니다.
 
 ## 한의학 지식망
 

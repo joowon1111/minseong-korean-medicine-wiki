@@ -79,6 +79,16 @@ WHO의 [노인 통합돌봄 안내](https://www.who.int/teams/maternal-newborn-c
 
 ‘기운이 난다’는 느낌과 근육량·근력이 회복되는 것은 구분합니다. 식사·피로·수면을 관리하면서 **악력·일어서기·보행·낙상·생활 독립성**을 함께 추적합니다.
 
+인삼양영탕의 2024년 공개 무작위시험은 COPD 환자에서 피로·무릎 폄 근력의 개선을 보고했지만, 첫 12주 보행속도의 군 간 차이는 유의하지 않았습니다. 한 지표의 변화를 ‘근감소증 전체가 회복됐다’고 해석하지 않고 영양·운동 계획과 함께 봅니다. [연구 원문](https://www.dovepress.com/effects-of-ninjinyoeito-on-patients-with-chronic-obstructive-pulmonary-peer-reviewed-fulltext-article-COPD) · [처방·시험 제제와 상세 결과](../formulas/renshen-yangrong-tang.md#frailty-trials)
+
+| 회복 목표 | 다음 상담에서 비교할 변화 |
+|---|---|
+| 식사가 편해지기 | 실제 섭취량, 식후 불편, 체중과 부종의 변화 |
+| 활동을 다시 하기 | 도움 없이 할 수 있는 일, 외출·보행 부담, 낙상 여부 |
+| 피로·수면 안정 | 같은 활동 뒤 회복 시간, 낮 졸림, 수면 방해 |
+
+체중이 늘어도 부종 때문인지 확인하고, 식욕이 좋아져도 근력이나 보행이 계속 나빠지면 원인과 관리 계획을 다시 평가합니다. 여러 피로 처방의 근거는 [처방별 연구 색인](../authority/formulas/ginseng-formula-fatigue.md#formula-specific-evidence)에서 찾아볼 수 있습니다.
+
 ## 기존 지식망과 연결
 
 - [만성피로](chronic-fatigue.md)
