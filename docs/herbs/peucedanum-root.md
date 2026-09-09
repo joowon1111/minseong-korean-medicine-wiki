@@ -24,6 +24,7 @@ last_reviewed: '2026-09-05'
 |---|---|
 | [삼소음](../formulas/renshen-suyin.md) | 자소엽·갈근과 외감을, 인삼·반하·진피 등과 허약·담음을 함께 살핌 |
 | [소자강기탕](../formulas/suzi-jiangqi-tang.md) | 자소자·반하·후박 등과 강기거담하는 구성에서 역할 확인 |
+| [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) | 소양인 표병에서 과루인·현삼 등과 흉격·담의 배합을 읽되, 사상체질의 소증·병증을 함께 확인 |
 
 ## 비슷한 본초와 구분
 

@@ -63,6 +63,22 @@ last_reviewed: '2026-08-29'
 - 자침 깊이·방향과 주의 구조
 - 임상연구와 참고문헌
 
+## 고전 경혈 기록을 현재 진료에 연결하기 {#selected-classics}
+
+《침구갑을경》과 《침구대성》은 경혈 이름·위치·주치와 배혈이 어떻게 기록되어 왔는지 확인할 때 활용합니다. 실제 치료 선택은 현재 증상, 표준 취혈, 해부학적 안전성과 해당 질환의 임상연구를 함께 확인하는 과정입니다.
+
+| 문헌에서 선별할 내용 | 현재 문서에서 확인할 내용 |
+|---|---|
+| 《침구갑을경》 권3의 경혈 위치·명칭 기록 | [표준 경혈 아틀라스](../acupoint-network/standard-atlas.md)의 코드·표면 해부학·촉진 기준과 연결 |
+| 《침구대성》의 부위별 경혈·배혈 기록 | [증상별 침구치료](by-symptom.md)에서 질환·기능을 먼저 정하고 [배혈 원칙](../acupuncture-specific/pairing-principles.md)으로 연결 |
+| 《영추》〈경근〉의 통증 부위 관찰 | [내경의 경근 해석](../classics/huangdi-neijing.md#_7)과 아래 경혈·압통점 구분을 함께 읽기 |
+
+《침구대성》〈사총혈가〉의 **“肚腹三里留，腰背委中求，頭項尋列缺，面口合谷收”**는 배·복부는 족삼리, 허리·등은 위중, 머리·목은 열결, 얼굴·입은 합곡을 떠올리도록 정리한 전통적 부위 색인입니다. [족삼리(ST36)](../acupuncture/points/st36-zusanli.md)·[위중(BL40)](../acupuncture/points/bl40-weizhong.md)·[열결(LU7)](../acupuncture/points/lu7-lieque.md)·[합곡(LI4)](../acupuncture/points/li4-hegu.md)의 상세 문서에서 각각 위치와 주치, 주의 구조를 확인할 수 있습니다. 이 네 혈을 증상마다 고정해서 적용하는 처방표로 사용하지 않습니다.
+
+원문의 깊이·방향을 현재 시술 수치로 바로 옮기지 않고 [임상해부학·안전](safety.md)을 확인합니다. 치료 효과는 [침구 근거 허브](../evidence-integrated/acupuncture-evidence.md)의 질환별 연구에서, 치료 뒤 변화는 [경과·재평가](followup.md)에서 이어 봅니다.
+
+출전: [《침구갑을경》 원문 목차·권3 제혈](https://ctext.org/wiki.pl?if=gb&res=757735) · [《침구대성》 원문·사총혈가](https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html)
+
 ## 경혈·아시혈·근육 압통점의 차이
 
 | 구분 | 의미 |

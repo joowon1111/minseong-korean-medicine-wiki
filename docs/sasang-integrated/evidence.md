@@ -68,11 +68,13 @@ last_reviewed: '2026-08-29'
 
 ## 진료지침과 표준자료
 
-- 사상체질병증 한의표준임상진료지침
-- 국가한의임상정보포털의 임상자료
-- Journal of Sasang Constitution and Immune Medicine
-- 한국전통지식포탈의 처방·본초 자료
-- 체질처방 전향적 임상자료와 증례·임상시험
+| 확인한 자료 | 이 자료에서 확인할 내용 | 기존 문서 연결 |
+|---|---|---|
+| [사상체질병증 한의표준임상진료지침, 2022](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14) | 체질병증의 진단·치료·예방·관리. 체질 자체의 진단은 지침 범위에서 제외 | [동의수세보원 임상 색인](../classics/donguisusebowon.md#clinical-routes) |
+| [소양상풍병 임상진료지침, 2014](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) | 소양상풍병의 분류·정의·표준 증후와 경중 구분 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
+| [망음병 임상진료지침, 2014](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) | 망음병의 분류·표준 증후와 험위 구분 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
+
+병증 분류를 확인하는 지침과 특정 처방의 치료 효과를 평가하는 시험은 역할이 다릅니다. 지침 안에서도 개별 권고의 대상·근거수준·권고등급을 확인합니다. [태음조위탕의 임상시험 연결](../sasang-formula-cards/taeeumjowi-tang.md#immune-weight-care)처럼 실제 사용한 제제와 체질·질환 기준, 비교군, 결과를 함께 읽습니다.
 
 → [사상체질 임상표준·진단](../sasang-guideline/index.md)  
 → [국가 임상자료·진단가이드](../sasang-guideline/index.md#nckm-resources)
