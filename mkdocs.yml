@@ -315,13 +315,12 @@ nav:
   - 변증·치법: foundations-integrated/pattern-treatment.md
   - 임상 추론: foundations-integrated/clinical-reasoning.md
   - 고전→현대 연결: foundations-integrated/classics-modern.md
-  - 주요 고전 원문·임상 지도:
-    - 상한론 전체 조문·판본 안내: shanghan-network/index.md
-    - 금궤요략 임상편 원문·주제별 지도: jingui-network/index.md
-    - 동의보감 핵심 지식망: donguibogam-network/index.md
-    - 경악전서: classics/jingyue-quanshu.md
-    - 온병조변·온병학: wenbing-network/index.md
-    - 동의수세보원 핵심 지식망: donguisusebowon-network/index.md
+  - 상한론 핵심 지식망: shanghan-network/index.md
+  - 금궤요략 임상편 원문·주제별 지도: jingui-network/index.md
+  - 동의보감 핵심 지식망: donguibogam-network/index.md
+  - 경악전서: classics/jingyue-quanshu.md
+  - 온병조변·온병학: wenbing-network/index.md
+  - 동의수세보원 핵심 지식망: donguisusebowon-network/index.md
   - 상세 자료실:
     - 한의학 기초 자료실: portal/basics.md
     - 핵심 개념 사전: concepts/index.md
