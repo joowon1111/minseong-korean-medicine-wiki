@@ -58,6 +58,8 @@ last_reviewed: 2026-09-06
 
 식욕저하가 있다고 모두 보익약부터 쓰지는 않습니다. 전통적으로 **비위기허·담습**에 조기포만·피로가 겹치면 [육군자탕](../formulas/liujunzi-tang.md), 기체·팽만이 더하면 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)을 비교합니다. 묽은변과 식욕저하가 오래 함께 있으면 [삼령백출산](../formulas/shenling-baizhu-san.md), 과식 뒤 정체감이 뚜렷하면 [보화환](../formulas/baohe-wan.md)의 식적 맥락을 살핍니다.
 
+식사량 감소와 함께 말하고 움직이는 힘이 약해지고 쉽게 처진다면 [보중익기탕](../formulas/buzhong-yiqi-tang.md#fatigue-with-digestion)의 보기·승양 맥락도 비교합니다. [《비위론》](../classics/piwei-lun.md#intake-and-function)은 잘 먹지 못하는 상태와 체중·사지 활동·배변을 함께 설명하며, 식욕 하나만으로 처방을 고르는 접근과 구별됩니다.
+
 이 구분은 한의학적 처방 선택의 출발점입니다. 암·감염·내분비질환·약물 등 원인이 있는 식욕저하에서는 해당 원인 관리와 영양평가를 함께 진행합니다. [소화기 처방의 임상자료](../authority/formulas/digestive-herbal-evidence.md)
 
 ## 회복 목표를 식사량과 기능으로 정하기 {#nutrition-recovery}
