@@ -16,9 +16,9 @@ class TungAtlasTests(unittest.TestCase):
         cls.regions=cls.data['regions']
 
     def test_coverage_and_cited_point_sections(self):
-        self.assertEqual(len(self.regions),8)
+        self.assertEqual(len(self.regions),12)
         self.assertEqual(len({r['zone'] for r in self.regions}),7)
-        self.assertEqual(sum(len(r['points']) for r in self.regions),24)
+        self.assertEqual(sum(len(r['points']) for r in self.regions),50)
         identifiers=[]
         for r in self.regions:
             page=(ROOT/'docs/tung-acupuncture'/(r['id']+'.md')).read_text()

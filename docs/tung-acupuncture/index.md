@@ -1,11 +1,11 @@
 ---
 title: 동씨침법·동씨기혈 부위별 아틀라스
-description: 영골·대백, 중자·중선, 하삼황, 사마혈 등 동씨기혈 주요 24혈을 7개 부위의 8개 도해로 찾고 위치·배혈 원리·현대 임상근거와 연결합니다.
+description: 영골·대백, 중자·중선, 하삼황, 사마혈 등 동씨기혈 주요 50혈을 7개 부위의 12개 도해로 찾고 위치·배혈 원리·현대 임상근거와 연결합니다.
 tags: [동씨침법, 동씨기혈, 경혈, 침구, 아틀라스]
 ---
 # 동씨침법·동씨기혈 부위별 아틀라스 {#tung-atlas}
 
-동씨침법은 **동경창(董景昌, Tung Ching-Chang)의 이름으로 전해지는 침법**으로, 고유한 혈군과 부위별 분류, 아픈 곳에서 떨어진 원위부 선택, 여러 혈을 조합하는 방식 등을 함께 살펴보는 체계입니다. 이 아틀라스에서는 **손가락·손·아래팔·위팔·발등·종아리·허벅지의 주요 24혈**을 위치 그림에서 찾아볼 수 있습니다.
+동씨침법은 **동경창(董景昌, Tung Ching-Chang)의 이름으로 전해지는 침법**으로, 고유한 혈군과 부위별 분류, 아픈 곳에서 떨어진 원위부 선택, 여러 혈을 조합하는 방식 등을 함께 살펴보는 체계입니다. 이 아틀라스에서는 **손가락·손·아래팔·위팔·발등·종아리·허벅지의 주요 50혈**을 위치 그림에서 찾아볼 수 있습니다.
 
 영골·대백이 궁금하면 **손등**, 중자·중선은 **손바닥**, 하삼황은 **종아리 안쪽**, 사마혈은 **허벅지**를 고르세요. 그림의 점을 누르면 해당 혈의 위치·임상 설명으로 이어집니다.
 
@@ -13,41 +13,57 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구, 아틀라스]
 
 <div class="grid cards" markdown>
 
-- [![손가락 · 대간·소간·중간 도해](../assets/tung-atlas/fingers.svg){ loading=lazy }](fingers.md)
+- [![손가락 · 대간·소간·중간·측간 도해](../assets/tung-atlas/fingers.svg){ loading=lazy }](fingers.md)
 
-    **[11 부위 · 손가락 · 대간·소간·중간](fingers.md)**
+    **[11 부위 · 손가락 · 대간·소간·중간·측간](fingers.md)**
 
-- [![손등 · 영골·대백·중백·하백 도해](../assets/tung-atlas/hand-dorsal.svg){ loading=lazy }](hand-dorsal.md)
+- [![손등 · 영골·대백·중백·하백·완순 도해](../assets/tung-atlas/hand-dorsal.svg){ loading=lazy }](hand-dorsal.md)
 
-    **[22 부위 · 손등 · 영골·대백·중백·하백](hand-dorsal.md)**
+    **[22 부위 · 손등 · 영골·대백·중백·하백·완순](hand-dorsal.md)**
 
-- [![손바닥 · 중자·중선 도해](../assets/tung-atlas/hand-palmar.svg){ loading=lazy }](hand-palmar.md)
+- [![손바닥 · 중자·중선·토수 도해](../assets/tung-atlas/hand-palmar.svg){ loading=lazy }](hand-palmar.md)
 
-    **[22 부위 · 손바닥 · 중자·중선](hand-palmar.md)**
+    **[22 부위 · 손바닥 · 중자·중선·토수](hand-palmar.md)**
 
-- [![아래팔 · 화관·화릉·화산 도해](../assets/tung-atlas/forearm.svg){ loading=lazy }](forearm.md)
+- [![아래팔 뒷면 · 화관·화릉·화산·수오금·수천금 도해](../assets/tung-atlas/forearm.svg){ loading=lazy }](forearm.md)
 
-    **[33 부위 · 아래팔 · 화관·화릉·화산](forearm.md)**
+    **[33 부위 · 아래팔 뒷면 · 화관·화릉·화산·수오금·수천금](forearm.md)**
+
+- [![아래팔 안쪽 · 장문·간문·심문 도해](../assets/tung-atlas/forearm-ulnar.svg){ loading=lazy }](forearm-ulnar.md)
+
+    **[33 부위 · 아래팔 안쪽 · 장문·간문·심문](forearm-ulnar.md)**
 
 - [![위팔 · 견중·건중 도해](../assets/tung-atlas/upper-arm.svg){ loading=lazy }](upper-arm.md)
 
     **[44 부위 · 위팔 · 견중·건중](upper-arm.md)**
 
-- [![발등 · 문금 도해](../assets/tung-atlas/foot.svg){ loading=lazy }](foot.md)
+- [![발등 · 문금·화경·화주·목두·목류·수곡 도해](../assets/tung-atlas/foot.svg){ loading=lazy }](foot.md)
 
-    **[66 부위 · 발등 · 문금](foot.md)**
+    **[66 부위 · 발등 · 문금·화경·화주·목두·목류·수곡](foot.md)**
 
 - [![종아리 안쪽 · 하삼황 도해](../assets/tung-atlas/lower-leg.svg){ loading=lazy }](lower-leg.md)
 
     **[77 부위 · 종아리 안쪽 · 하삼황](lower-leg.md)**
 
+- [![종아리 앞면 · 사화상·사화중·사화부·사화하 도해](../assets/tung-atlas/lower-leg-front.svg){ loading=lazy }](lower-leg-front.md)
+
+    **[77 부위 · 종아리 앞면 · 사화상·사화중·사화부·사화하](lower-leg-front.md)**
+
+- [![종아리 가쪽 · 일중·이중·삼중 도해](../assets/tung-atlas/lower-leg-lateral.svg){ loading=lazy }](lower-leg-lateral.md)
+
+    **[77 부위 · 종아리 가쪽 · 일중·이중·삼중](lower-leg-lateral.md)**
+
 - [![허벅지 · 통관·통산·통천·사마 도해](../assets/tung-atlas/thigh.svg){ loading=lazy }](thigh.md)
 
     **[88 부위 · 허벅지 · 통관·통산·통천·사마](thigh.md)**
 
+- [![허벅지 안쪽 · 상삼황 도해](../assets/tung-atlas/thigh-medial.svg){ loading=lazy }](thigh-medial.md)
+
+    **[88 부위 · 허벅지 안쪽 · 상삼황](thigh-medial.md)**
+
 </div>
 
-각 부위는 하나의 충실한 문서 안에 관련 혈들을 묶었습니다. 개별 혈 이름으로도 검색할 수 있고, 큰 도해에서 해당 혈로 이동할 수 있습니다.
+같은 면에서 읽는 혈들을 한 문서에 묶고, 아래팔·종아리·허벅지는 보는 면을 나누었습니다. 토수 세 점을 각각 포함해 총 50개의 위치점을 수록했습니다. 개별 혈 이름으로도 검색할 수 있고, 큰 도해에서 해당 혈로 이동할 수 있습니다.
 
 ## 처음 읽는 분을 위한 분류 {#zones}
 
@@ -55,22 +71,22 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구, 아틀라스]
 
 | 부위 분류 | 몸에서 찾을 곳 | 이 아틀라스의 연결 |
 |---|---|---|
-| 11 | 손가락 | [대간·소간·중간](fingers.md) |
-| 22 | 손 | [손등의 영골·대백·중백·하백](hand-dorsal.md), [손바닥의 중자·중선](hand-palmar.md) |
-| 33 | 아래팔 | [화관·화릉·화산](forearm.md) |
+| 11 | 손가락 | [대간·소간·중간·측간](fingers.md) |
+| 22 | 손 | [손등·완순](hand-dorsal.md), [손바닥·토수](hand-palmar.md) |
+| 33 | 아래팔 | [화관·수오금·수천금](forearm.md), [장문·간문·심문](forearm-ulnar.md) |
 | 44 | 위팔 | [견중·건중](upper-arm.md) |
-| 55·66 | 발가락·발바닥·발등 — 세부 구분은 자료에 따라 확인 | [66 부위 문금](foot.md) |
-| 77 | 종아리 | [하삼황](lower-leg.md) |
-| 88 | 허벅지 | [통관·통산·통천·사마혈](thigh.md) |
+| 55·66 | 발가락·발바닥·발등 — 세부 구분은 자료에 따라 확인 | [문금·화경·화주·목두·목류·수곡](foot.md) |
+| 77 | 종아리 | [안쪽 하삼황](lower-leg.md), [앞면 사화](lower-leg-front.md), [가쪽 삼중](lower-leg-lateral.md) |
+| 88 | 허벅지 | [앞면·사마혈](thigh.md), [안쪽 상삼황](thigh-medial.md) |
 | 99·1010 | 귀·머리·얼굴 | 이번 도해 수록 범위 밖이며, [참고 자료의 부위별 목록](https://www.tungs-acupuncture.com/董氏穴位詳解/)에서 확인 |
 
-현재는 주요 24혈을 수록한 아틀라스이며 동씨기혈 전체 목록이나 전수 도해는 아닙니다. 몸통의 전후면 등을 별도 분류하는 자료도 있습니다.
+현재는 주요 50혈을 수록한 아틀라스이며 동씨기혈 전체 목록이나 전수 도해는 아닙니다. 몸통의 전후면 등을 별도 분류하는 자료도 있습니다.
 
 ## 위치를 정확히 읽는 기준 {#location-basis}
 
 **체표 위치 → 사용하는 면과 자세 → 기준 뼈·주름 → 출처의 거리 표현** 순서로 읽습니다. 손가락은 손등·손바닥을, 손과 발에서는 손끝·발끝 방향과 몸쪽 방향을 먼저 구별합니다. 촌·분은 해당 자료의 신체 비례와 촉지 기준에 따른 표현이므로 화면 길이를 그대로 cm나 mm로 환산하지 않습니다.
 
-이 도해는 [董氏心氣神針의 공개 혈위 설명](https://www.tungs-acupuncture.com/董氏穴位詳解/)을 위치 확인 자료로 삼아 아카이브에서 직접 그린 교육용 개요입니다. 원본 그림과 본문을 복제하지 않았으며, 천황·화관처럼 **위치 기술이 다른 경우에는 해당 문서에 기준을 명시**했습니다. 손가락 첫 마디와 천황혈의 다른 기술은 eLotus 자료도 대조했습니다.
+이 도해는 [董氏心氣神針의 공개 혈위 설명](https://www.tungs-acupuncture.com/董氏穴位詳解/)을 위치 확인 자료로 삼아 아카이브에서 직접 그린 교육용 개요입니다. 원본 그림과 본문을 복제하지 않았으며, 천황·화관처럼 **위치 기술이 다른 경우에는 해당 문서에 기준을 명시**했습니다. 손가락 첫 마디·천황·완순의 다른 기술은 eLotus 자료도 대조했습니다. 토수와 사화부는 각 본문에 표시한 eLotus 위치 기준을 사용합니다.
 
 WHO 361경혈은 [표준 경혈 아틀라스](../acupoint-network/standard-atlas.md), 십이경맥의 몸에서 지나가는 길은 [경락·경맥 지식망](../meridian-network/index.md)에서 이어서 봅니다. 동씨기혈이 표준경혈과 가까이 있거나 같은 이름을 쓰더라도 **이름만으로 같은 점이라고 판정하지 않습니다**.
 
@@ -80,6 +96,8 @@ WHO 361경혈은 [표준 경혈 아틀라스](../acupoint-network/standard-atlas
 | 중백·하백과 중저·액문 | 넷째·다섯째 손허리뼈 사이에서 손끝·손목 방향과 거리를 구별 |
 | 동씨 견중과 견중수 SI15 | 위팔 가쪽과 등 위쪽의 서로 다른 부위 |
 | 동씨 통천과 통천 BL7 | 허벅지와 머리의 서로 다른 부위 |
+| 허벅지 천황 天黃과 종아리 천황 天皇 | [상삼황](thigh-medial.md)과 [하삼황](lower-leg.md)의 서로 다른 부위·한자 |
+| 완순일·완순이 | [출처별 이름과 손목 거리](hand-dorsal.md#wanshun-variants)를 함께 확인 |
 | 천황과 천황부 | 전승·숫자 코드·음릉천과의 관계를 함께 확인 |
 
 ## 배혈과 동기요법은 어떻게 읽나요? {#principles}
@@ -96,10 +114,11 @@ WHO 361경혈은 [표준 경혈 아틀라스](../acupoint-network/standard-atlas
 
 | 살펴볼 주제 | 동씨 혈군을 읽는 출발점 | 함께 확인할 기존 자료 |
 |---|---|---|
-| 허리·하지 통증 | [영골·대백·중백·하백](hand-dorsal.md) | [요통](../conditions/low-back-pain.md), [좌골신경통 근거](../authority/conditions/sciatica.md) |
+| 허리·하지 통증 | [영골·대백·완순](hand-dorsal.md), [수오금·수천금](forearm.md) | [요통](../conditions/low-back-pain.md), [좌골신경통 근거](../authority/conditions/sciatica.md) |
 | 어깨·견갑부 | [중자·중선](hand-palmar.md) | [어깨통증](../conditions/shoulder-pain.md), [임상해부학](../clinical-anatomy/index.md) |
 | 무릎·보행 | [견중·건중](upper-arm.md), [통관·통산·통천](thigh.md) | [무릎통증](../conditions/knee-pain.md), [무릎 골관절염 근거](../authority/conditions/knee-osteoarthritis.md) |
-| 월경 관련 복통·소화 불편 | [문금](foot.md) | [월경통 근거](../authority/conditions/primary-dysmenorrhea.md) |
+| 월경 관련 복통·소화 불편 | [문금·목두·목류](foot.md), [토수](hand-palmar.md), [사화혈](lower-leg-front.md) | [월경통 근거](../authority/conditions/primary-dysmenorrhea.md) |
+| 피로·눈의 불편 | [상삼황](thigh-medial.md) | [피로·원기회복](../conditions/energy-recovery.md) |
 | 비염·피부 불편 | [사마혈](thigh.md) | [알레르기비염 근거](../authority/conditions/allergic-rhinitis.md) |
 
 표의 연결은 전승의 활용 맥락과 현재의 임상 질문을 함께 찾는 길입니다. 링크된 일반 침 연구가 해당 동씨 혈군의 효과를 직접 검증한 연구라는 뜻은 아닙니다. **동씨침과 일반 경혈침을 직접 비교한 고령자 만성요통 무작위시험**은 [기존 침구 근거 문서](../acupuncture-integrated/evidence.md#tung-study)에 대상·비교군·결과를 정리했습니다.

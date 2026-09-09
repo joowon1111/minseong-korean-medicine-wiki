@@ -1,19 +1,19 @@
 ---
-title: 동씨침법 손등 · 영골·대백·중백·하백
-description: 동씨침법 손등 · 영골·대백·중백·하백의 위치 도해와 촉지 기준, 전승별 표기, 임상에서 확인할 증상·기능 및 기존 경혈 자료를 연결합니다.
+title: 동씨침법 손등 · 영골·대백·중백·하백·완순
+description: 동씨침법 손등 · 영골·대백·중백·하백·완순의 위치 도해와 촉지 기준, 전승별 표기, 임상에서 확인할 증상·기능 및 기존 경혈 자료를 연결합니다.
 tags: [동씨침법, 동씨기혈, 경혈, 침구]
 ---
-# 동씨침법 손등 · 영골·대백·중백·하백 {#overview}
+# 동씨침법 손등 · 영골·대백·중백·하백·완순 {#overview}
 
-엄지·검지 사이의 영골·대백과 넷째·다섯째 손허리뼈 사이의 중백·하백을 나누어 봅니다. 손끝 쪽과 손목 쪽, 손등과 손바닥의 차이가 핵심입니다.
+엄지·검지 사이의 영골·대백, 넷째·다섯째 손허리뼈 사이의 중백·하백, 새끼손가락 쪽 가장자리의 완순일·완순이를 구별합니다. 완순은 출처에 따라 일·이의 명명이 뒤바뀌므로 아래 비교표도 함께 봅니다.
 
 [동씨침법 부위별 아틀라스](index.md#regions)에서 다른 부위를 고르거나 [위치 기준 읽기](index.md#location-basis)를 먼저 확인할 수 있습니다.
 
 ## 위치 도해 {#diagram}
 
 <figure>
-<object data="/assets/tung-atlas/hand-dorsal.svg" type="image/svg+xml" width="720" height="660" style="width:100%;height:auto;aspect-ratio:12/11" aria-label="동씨침법 손등 · 영골·대백·중백·하백 도해">
-<img src="/assets/tung-atlas/hand-dorsal.svg" alt="동씨침법 손등 · 영골·대백·중백·하백 — 오른손 손등 · 엄지가 왼쪽" width="720" height="660" loading="lazy" />
+<object data="/assets/tung-atlas/hand-dorsal.svg" type="image/svg+xml" width="720" height="660" style="width:100%;height:auto;aspect-ratio:12/11" aria-label="동씨침법 손등 · 영골·대백·중백·하백·완순 도해">
+<img src="/assets/tung-atlas/hand-dorsal.svg" alt="동씨침법 손등 · 영골·대백·중백·하백·완순 — 오른손 손등 · 엄지가 왼쪽" width="720" height="660" loading="lazy" />
 </object>
 <figcaption>뼈 윤곽은 위치 관계를 이해하기 위한 개요입니다. 주먹을 쥐는 정도에 따라 피부에서 보이는 자리가 달라질 수 있습니다.</figcaption>
 </figure>
@@ -55,6 +55,31 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 [위치 출처 · 下白](https://www.tungs-acupuncture.com/下白穴/) · [도해에서 하백 보기](../assets/tung-atlas/hand-dorsal.svg#xiabai)
 
 손바닥 쪽 위치가 궁금하면 [중자·중선 도해](hand-palmar.md)에서 앞뒤 면을 구별해 볼 수 있습니다.
+
+### 완순일 腕順一 {#wanshun-one}
+
+**위치:** 손의 새끼손가락 쪽 가장자리, 다섯째 손허리뼈의 자쪽 아래 가장자리에서 손목 주름보다 손끝 방향 1촌 5분으로 설명합니다.
+
+이 도해는 董氏心氣神針의 명명 순서를 따릅니다. 전승에서는 요통·하지 방사통·이명 등의 배혈에 연결하며, 손등 뼈 사이의 중백·하백과 손 가쪽의 완순을 구분합니다.
+
+[위치 출처 · 腕順一](https://www.tungs-acupuncture.com/腕順一穴/) · [도해에서 완순일 보기](../assets/tung-atlas/hand-dorsal.svg#wanshun-one)
+
+### 완순이 腕順二 {#wanshun-two}
+
+**위치:** 완순일에서 손끝 쪽으로 1촌, 손목 주름에서는 손끝 방향 2촌 5분입니다.
+
+이 기준에서는 완순이 쪽이 손끝에 더 가깝습니다. 전승에서는 목·등의 불편에 함께 활용하는 혈군으로 설명하며, 후계 SI3와의 거리를 기록할 때에도 같은 출처 기준을 유지합니다.
+
+[위치 출처 · 腕順二](https://www.tungs-acupuncture.com/腕順二穴/) · [도해에서 완순이 보기](../assets/tung-atlas/hand-dorsal.svg#wanshun-two)
+
+## 완순일·완순이의 명명 차이 {#wanshun-variants}
+
+| 확인 기준 | 董氏心氣神針 — 이 도해 | eLotus 자료 |
+|---|---|---|
+| 완순일 | 손목 주름에서 손끝 쪽 1.5촌 | 손목 주름에서 손끝 쪽 2.5촌 |
+| 손끝에 더 가까운 점의 이름 | 완순이 | 완순일 |
+
+[eLotus 완순일 T 22.08](https://www.mastertungacupuncture.org/acupuncture/tung/points/wanshunyi-t-2208)은 후계 SI3보다 몸쪽 5분으로도 설명합니다. 이처럼 이름과 순서가 다르므로 **이 그림에는 다른 자료의 번호를 그대로 붙이지 않고, 출처·손목 거리·손끝 방향을 함께 기록**합니다.
 
 ## 임상에서 함께 확인할 것 {#clinical}
 
