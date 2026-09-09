@@ -153,5 +153,7 @@ Dermatome 지도는 문헌과 개인에 따라 경계가 다를 수 있어 **증
 
 361경혈의 해부·신경해부학적 특성을 정리한 연구에서는 각 경혈에 대해 층별 해부, 운동신경, 피부감각신경, dermatome 및 관련 근육·myotome을 연결하는 체계가 제안되었습니다. PMID `24139465`.
 
+조직층의 자극이 구심성 감각 입력으로 전달되는 과정은 [말초신경과 침 자극](../acupuncture-science/peripheral-afferent.md), 척수분절과 원위부 자극의 관계는 [침과 통증조절](../acupuncture-science/pain-modulation.md)에서 이어집니다.
+
 → [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)  
 → [신경포착증후군](../nerve-entrapment/index.md)
