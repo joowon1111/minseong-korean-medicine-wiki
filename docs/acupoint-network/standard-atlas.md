@@ -1,6 +1,6 @@
 ---
 title: WHO 표준 361경혈 임상 아틀라스
-description: 361경혈을 이름·국제 코드·경락으로 찾고, 손·손목·아래팔의 위치 도해에서 기존 경혈 상세 설명으로 이어지는 한글 임상 아틀라스.
+description: 361경혈을 이름·국제 코드·경락으로 찾고, 오수혈·주요 경혈 85혈의 부위별 위치 도해에서 기존 경혈 상세 설명으로 이어지는 한글 임상 아틀라스.
 status: reviewed
 last_reviewed: 2026-08-23
 ---
@@ -12,18 +12,72 @@ last_reviewed: 2026-08-23
 
 WHO 표준 361경혈 체계에 따라 각 경혈의 상세 페이지를 경락별로 정리한 임상 경혈 아틀라스입니다. 경혈의 한글명과 국제 표준 코드를 함께 표시해 임상 탐색과 논문·AI 검색에서 모두 활용할 수 있도록 구성했습니다.
 
-## 그림으로 찾기: 손·손목·아래팔 {#visual-hand}
+## 부위별 경혈 위치 도해 {#five-shu-diagrams}
 
-그림의 **초록색 경혈 표시나 이름**을 누르면 위치·배혈·해부학·연구를 정리한 상세 문서로 이동합니다. 도해는 **합곡·태연·내관·신문 4혈**을 제공하며, 전체 361경혈은 아래 목록에서 찾을 수 있습니다.
+**12경맥의 오수혈 60혈과 주요 경혈 25혈, 총 85혈**을 부위별 그림에서 찾을 수 있습니다. 펼쳐 보고 싶은 부위를 선택한 뒤 그림의 경혈 코드나 아래 이름을 누르면 기존 상세 문서로 이동합니다. [오수혈·오행 통합표](../acupuncture-specific/five-shu.md)에서도 정·형·수·경·합 순서로 찾을 수 있습니다.
 
+그림은 해부학적 표지와 경혈의 **위치 관계를 단순화한 교육용 도해**입니다. 실제 크기·깊이·자침 방향을 나타내지 않으며, B-cun은 신체 비례에 따른 거리입니다. 자세한 위치는 각 경혈 문서의 설명과 함께 확인합니다.
+
+<span id="visual-hand"></span>
+
+<details class="acupoint-region" open><summary>손·손가락 · 16혈</summary>
 <div class="acupoint-figures">
-<figure><object data="/assets/acupoint-atlas/hand-dorsal.svg" type="image/svg+xml" aria-label="오른손 손등 합곡 위치 도해"><img src="/assets/acupoint-atlas/hand-dorsal.svg" alt="오른손 손등, 둘째 손허리뼈 중점의 노쪽에 표시한 합곡" width="540" height="460"></object><figcaption>손등 · <a href="/acupuncture/points/li4-hegu/">합곡 LI4</a></figcaption></figure>
-<figure><object data="/assets/acupoint-atlas/wrist-palmar.svg" type="image/svg+xml" aria-label="손목과 아래팔 태연 내관 신문 위치 도해"><img src="/assets/acupoint-atlas/wrist-palmar.svg" alt="손목 앞쪽의 태연과 신문, 손목주름에서 몸쪽 2 B-cun의 내관" width="540" height="460"></object><figcaption>손바닥 쪽 · <a href="/acupuncture/points/lu9-taiyuan/">태연 LU9</a> · <a href="/acupuncture/points/pc6-neiguan/">내관 PC6</a> · <a href="/acupuncture/points/ht7-shenmen/">신문 HT7</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/hand-dorsal.svg" type="image/svg+xml" aria-label="오른손 손등·손가락 경혈 위치 도해"><img src="/assets/acupoint-atlas/hand-dorsal.svg" alt="오른손 손등·손가락 경혈 위치" width="640" height="660"></object><figcaption><strong>오른손 손등·손가락</strong> · <a href="/assets/acupoint-atlas/hand-dorsal.svg">그림 확대</a><br><a href="/acupuncture/points/lu11/">소상 LU11</a> · <a href="/acupuncture/points/li1/">상양 LI1</a> · <a href="/acupuncture/points/li2/">이간 LI2</a> · <a href="/acupuncture/points/li3/">삼간 LI3</a> · <a href="/acupuncture/points/li4-hegu/">합곡 LI4</a> · <a href="/acupuncture/points/si1/">소택 SI1</a> · <a href="/acupuncture/points/si2/">전곡 SI2</a> · <a href="/acupuncture/points/si3-houxi/">후계 SI3</a> · <a href="/acupuncture/points/te1/">관충 TE1</a> · <a href="/acupuncture/points/te2/">액문 TE2</a> · <a href="/acupuncture/points/te3/">중저 TE3</a> · <a href="/acupuncture/points/pc9/">중충 PC9</a> · <a href="/acupuncture/points/ht9/">소충 HT9</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/hand-palmar.svg" type="image/svg+xml" aria-label="오른손 손바닥 경혈 위치 도해"><img src="/assets/acupoint-atlas/hand-palmar.svg" alt="오른손 손바닥 경혈 위치" width="640" height="660"></object><figcaption><strong>오른손 손바닥</strong> · <a href="/assets/acupoint-atlas/hand-palmar.svg">그림 확대</a><br><a href="/acupuncture/points/lu10/">어제 LU10</a> · <a href="/acupuncture/points/ht8/">소부 HT8</a> · <a href="/acupuncture/points/pc8/">노궁 PC8</a></figcaption></figure>
 </div>
+</details>
 
-위 그림은 뼈·힘줄과 경혈의 **위치 관계를 단순화한 교육용 도해**입니다. 실제 크기나 자침 깊이를 나타내지 않으며, 내관의 2 B-cun은 신체 비례에 따른 거리입니다. 정확한 위치는 각 문서의 해부학적 표지와 함께 확인합니다.
+<span id="visual-region-2"></span>
 
-위치 기준: KMCRIC 표준경혈 DB의 [합곡](https://www.kmcric.com/database/acupoint/LI/LI4) · [태연](https://www.kmcric.com/database/acupoint/LU/LU9) · [내관](https://www.kmcric.com/database/acupoint/PC/PC6) · [신문](https://www.kmcric.com/database/acupoint/HT/HT7). 도해는 해당 위치 기준을 참고하여 아카이브에서 별도로 제작했습니다.
+<details class="acupoint-region"><summary>손목·아래팔 · 13혈</summary>
+<div class="acupoint-figures">
+<figure><object data="/assets/acupoint-atlas/wrist-palmar.svg" type="image/svg+xml" aria-label="오른쪽 손목·아래팔 앞면 경혈 위치 도해"><img src="/assets/acupoint-atlas/wrist-palmar.svg" alt="오른쪽 손목·아래팔 앞면 경혈 위치" width="640" height="660"></object><figcaption><strong>오른쪽 손목·아래팔 앞면</strong> · <a href="/assets/acupoint-atlas/wrist-palmar.svg">그림 확대</a><br><a href="/acupuncture/points/lu9-taiyuan/">태연 LU9</a> · <a href="/acupuncture/points/lu8/">경거 LU8</a> · <a href="/acupuncture/points/ht7-shenmen/">신문 HT7</a> · <a href="/acupuncture/points/ht5-tongli/">통리 HT5</a> · <a href="/acupuncture/points/ht4/">영도 HT4</a> · <a href="/acupuncture/points/pc7-daling/">대릉 PC7</a> · <a href="/acupuncture/points/pc6-neiguan/">내관 PC6</a> · <a href="/acupuncture/points/pc5/">간사 PC5</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/wrist-dorsal.svg" type="image/svg+xml" aria-label="오른쪽 손목·아래팔 뒷면 경혈 위치 도해"><img src="/assets/acupoint-atlas/wrist-dorsal.svg" alt="오른쪽 손목·아래팔 뒷면 경혈 위치" width="640" height="660"></object><figcaption><strong>오른쪽 손목·아래팔 뒷면</strong> · <a href="/assets/acupoint-atlas/wrist-dorsal.svg">그림 확대</a><br><a href="/acupuncture/points/li5/">양계 LI5</a> · <a href="/acupuncture/points/si5/">양곡 SI5</a> · <a href="/acupuncture/points/lu7-lieque/">열결 LU7</a> · <a href="/acupuncture/points/te5-waiguan/">외관 TE5</a> · <a href="/acupuncture/points/te6/">지구 TE6</a></figcaption></figure>
+</div>
+</details>
+
+<span id="visual-region-3"></span>
+
+<details class="acupoint-region"><summary>팔꿈치 · 7혈</summary>
+<div class="acupoint-figures">
+<figure><object data="/assets/acupoint-atlas/elbow-front.svg" type="image/svg+xml" aria-label="오른쪽 팔꿈치 앞면·가쪽 경혈 위치 도해"><img src="/assets/acupoint-atlas/elbow-front.svg" alt="오른쪽 팔꿈치 앞면·가쪽 경혈 위치" width="640" height="660"></object><figcaption><strong>오른쪽 팔꿈치 앞면·가쪽</strong> · <a href="/assets/acupoint-atlas/elbow-front.svg">그림 확대</a><br><a href="/acupuncture/points/ht3-shaohai/">소해 HT3</a> · <a href="/acupuncture/points/pc3/">곡택 PC3</a> · <a href="/acupuncture/points/lu5-chize/">척택 LU5</a> · <a href="/acupuncture/points/li11-quchi/">곡지 LI11</a> · <a href="/acupuncture/points/li10-shousanli/">수삼리 LI10</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/elbow-back.svg" type="image/svg+xml" aria-label="팔꿈치 뒷면 경혈 위치 도해"><img src="/assets/acupoint-atlas/elbow-back.svg" alt="팔꿈치 뒷면 경혈 위치" width="640" height="660"></object><figcaption><strong>팔꿈치 뒷면</strong> · <a href="/assets/acupoint-atlas/elbow-back.svg">그림 확대</a><br><a href="/acupuncture/points/si8/">소해 SI8</a> · <a href="/acupuncture/points/te10/">천정 TE10</a></figcaption></figure>
+</div>
+</details>
+
+<span id="visual-region-4"></span>
+
+<details class="acupoint-region"><summary>발·발목 · 23혈</summary>
+<div class="acupoint-figures">
+<figure><object data="/assets/acupoint-atlas/foot-dorsal.svg" type="image/svg+xml" aria-label="오른발 발등·발가락 경혈 위치 도해"><img src="/assets/acupoint-atlas/foot-dorsal.svg" alt="오른발 발등·발가락 경혈 위치" width="640" height="660"></object><figcaption><strong>오른발 발등·발가락</strong> · <a href="/assets/acupoint-atlas/foot-dorsal.svg">그림 확대</a><br><a href="/acupuncture/points/lr1/">대돈 LR1</a> · <a href="/acupuncture/points/lr2/">행간 LR2</a> · <a href="/acupuncture/points/lr3-taichong/">태충 LR3</a> · <a href="/acupuncture/points/lr4/">중봉 LR4</a> · <a href="/acupuncture/points/st45/">여태 ST45</a> · <a href="/acupuncture/points/st44-neiting/">내정 ST44</a> · <a href="/acupuncture/points/st43/">함곡 ST43</a> · <a href="/acupuncture/points/st41/">해계 ST41</a> · <a href="/acupuncture/points/gb44/">족규음 GB44</a> · <a href="/acupuncture/points/gb43/">협계 GB43</a> · <a href="/acupuncture/points/gb41/">족임읍 GB41</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/foot-medial.svg" type="image/svg+xml" aria-label="발 안쪽·안쪽 발목 경혈 위치 도해"><img src="/assets/acupoint-atlas/foot-medial.svg" alt="발 안쪽·안쪽 발목 경혈 위치" width="640" height="660"></object><figcaption><strong>발 안쪽·안쪽 발목</strong> · <a href="/assets/acupoint-atlas/foot-medial.svg">그림 확대</a><br><a href="/acupuncture/points/sp1/">은백 SP1</a> · <a href="/acupuncture/points/sp2/">대도 SP2</a> · <a href="/acupuncture/points/sp3/">태백 SP3</a> · <a href="/acupuncture/points/sp5/">상구 SP5</a> · <a href="/acupuncture/points/ki2/">연곡 KI2</a> · <a href="/acupuncture/points/ki3-taixi/">태계 KI3</a> · <a href="/acupuncture/points/ki6-zhaohai/">조해 KI6</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/foot-lateral.svg" type="image/svg+xml" aria-label="발 가쪽·가쪽 발목 경혈 위치 도해"><img src="/assets/acupoint-atlas/foot-lateral.svg" alt="발 가쪽·가쪽 발목 경혈 위치" width="640" height="660"></object><figcaption><strong>발 가쪽·가쪽 발목</strong> · <a href="/assets/acupoint-atlas/foot-lateral.svg">그림 확대</a><br><a href="/acupuncture/points/bl67/">지음 BL67</a> · <a href="/acupuncture/points/bl66/">족통곡 BL66</a> · <a href="/acupuncture/points/bl65/">속골 BL65</a> · <a href="/acupuncture/points/bl60-kunlun/">곤륜 BL60</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/foot-plantar.svg" type="image/svg+xml" aria-label="발바닥 경혈 위치 도해"><img src="/assets/acupoint-atlas/foot-plantar.svg" alt="발바닥 경혈 위치" width="640" height="660"></object><figcaption><strong>발바닥</strong> · <a href="/assets/acupoint-atlas/foot-plantar.svg">그림 확대</a><br><a href="/acupuncture/points/ki1-yongquan/">용천 KI1</a></figcaption></figure>
+</div>
+</details>
+
+<span id="visual-region-5"></span>
+
+<details class="acupoint-region"><summary>무릎·종아리 · 14혈</summary>
+<div class="acupoint-figures">
+<figure><object data="/assets/acupoint-atlas/leg-front.svg" type="image/svg+xml" aria-label="오른쪽 무릎·종아리 앞면 경혈 위치 도해"><img src="/assets/acupoint-atlas/leg-front.svg" alt="오른쪽 무릎·종아리 앞면 경혈 위치" width="640" height="660"></object><figcaption><strong>오른쪽 무릎·종아리 앞면</strong> · <a href="/assets/acupoint-atlas/leg-front.svg">그림 확대</a><br><a href="/acupuncture/points/sp10-xuehai/">혈해 SP10</a> · <a href="/acupuncture/points/st35-dubi/">독비 ST35</a> · <a href="/acupuncture/points/st36-zusanli/">족삼리 ST36</a> · <a href="/acupuncture/points/st37-shangjuxu/">상거허 ST37</a> · <a href="/acupuncture/points/st40-fenglong/">풍륭 ST40</a> · <a href="/acupuncture/points/gb34-yanglingquan/">양릉천 GB34</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/leg-medial.svg" type="image/svg+xml" aria-label="무릎·종아리 안쪽 경혈 위치 도해"><img src="/assets/acupoint-atlas/leg-medial.svg" alt="무릎·종아리 안쪽 경혈 위치" width="640" height="660"></object><figcaption><strong>무릎·종아리 안쪽</strong> · <a href="/assets/acupoint-atlas/leg-medial.svg">그림 확대</a><br><a href="/acupuncture/points/sp9-yinlingquan/">음릉천 SP9</a> · <a href="/acupuncture/points/sp6-sanyinjiao/">삼음교 SP6</a> · <a href="/acupuncture/points/ki7-fuliu/">복류 KI7</a> · <a href="/acupuncture/points/ki10/">음곡 KI10</a> · <a href="/acupuncture/points/lr8-ququan/">곡천 LR8</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/leg-lateral.svg" type="image/svg+xml" aria-label="종아리 가쪽 경혈 위치 도해"><img src="/assets/acupoint-atlas/leg-lateral.svg" alt="종아리 가쪽 경혈 위치" width="640" height="660"></object><figcaption><strong>종아리 가쪽</strong> · <a href="/assets/acupoint-atlas/leg-lateral.svg">그림 확대</a><br><a href="/acupuncture/points/gb38/">양보 GB38</a> · <a href="/acupuncture/points/gb39-xuanzhong/">현종 GB39</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/knee-back.svg" type="image/svg+xml" aria-label="무릎 뒷면·오금 경혈 위치 도해"><img src="/assets/acupoint-atlas/knee-back.svg" alt="무릎 뒷면·오금 경혈 위치" width="640" height="660"></object><figcaption><strong>무릎 뒷면·오금</strong> · <a href="/assets/acupoint-atlas/knee-back.svg">그림 확대</a><br><a href="/acupuncture/points/bl40-weizhong/">위중 BL40</a></figcaption></figure>
+</div>
+</details>
+
+<span id="visual-region-6"></span>
+
+<details class="acupoint-region"><summary>머리·목·몸통 · 12혈</summary>
+<div class="acupoint-figures">
+<figure><object data="/assets/acupoint-atlas/head-neck.svg" type="image/svg+xml" aria-label="머리·목·어깨 뒷면 경혈 위치 도해"><img src="/assets/acupoint-atlas/head-neck.svg" alt="머리·목·어깨 뒷면 경혈 위치" width="640" height="660"></object><figcaption><strong>머리·목·어깨 뒷면</strong> · <a href="/assets/acupoint-atlas/head-neck.svg">그림 확대</a><br><a href="/acupuncture/points/gv20-baihui/">백회 GV20</a> · <a href="/acupuncture/points/gb20-fengchi/">풍지(風池) GB20</a> · <a href="/acupuncture/points/gv14-dazhui/">대추 GV14</a> · <a href="/acupuncture/points/gb21-jianjing/">견정 GB21</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/trunk-front.svg" type="image/svg+xml" aria-label="가슴·배 앞면 경혈 위치 도해"><img src="/assets/acupoint-atlas/trunk-front.svg" alt="가슴·배 앞면 경혈 위치" width="640" height="660"></object><figcaption><strong>가슴·배 앞면</strong> · <a href="/assets/acupoint-atlas/trunk-front.svg">그림 확대</a><br><a href="/acupuncture/points/cv17-danzhong/">전중 CV17</a> · <a href="/acupuncture/points/cv12-zhongwan/">중완(中脘) CV12</a> · <a href="/acupuncture/points/st25-tianshu/">천추 ST25</a> · <a href="/acupuncture/points/cv6-qihai/">기해 CV6</a> · <a href="/acupuncture/points/cv4-guanyuan/">관원(關元) CV4</a></figcaption></figure>
+<figure><object data="/assets/acupoint-atlas/back.svg" type="image/svg+xml" aria-label="어깨뼈·허리 뒷면 경혈 위치 도해"><img src="/assets/acupoint-atlas/back.svg" alt="어깨뼈·허리 뒷면 경혈 위치" width="640" height="660"></object><figcaption><strong>어깨뼈·허리 뒷면</strong> · <a href="/assets/acupoint-atlas/back.svg">그림 확대</a><br><a href="/acupuncture/points/si11-tianzong/">천종 SI11</a> · <a href="/acupuncture/points/bl23-shenshu/">신수 BL23</a> · <a href="/acupuncture/points/bl25-dachangshu/">대장수 BL25</a></figcaption></figure>
+</div>
+</details>
+
+위치 기준은 기존 아카이브의 WHO 표준 기반 경혈 데이터와 [KMCRIC 표준경혈 DB](https://www.kmcric.com/database/acupoint)를 참고했습니다. 도해는 아카이브에서 별도로 제작했습니다.
 
 ## 전체 361경혈 찾기 {#find-points}
 

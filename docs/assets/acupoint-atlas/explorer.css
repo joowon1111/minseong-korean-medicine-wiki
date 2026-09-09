@@ -1,6 +1,6 @@
 .acupoint-figures{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin:1.25rem 0}
 .acupoint-figures figure{margin:0!important;border:1px solid var(--md-default-fg-color--lightest);border-radius:14px;overflow:hidden;background:var(--md-default-bg-color)}
-.acupoint-figures object{display:block;width:100%;aspect-ratio:540/460;background:#fff}
+.acupoint-figures object{display:block;width:100%;aspect-ratio:640/660;background:#fff}
 .acupoint-figures img{display:block;width:100%;height:auto}
 .acupoint-figures figcaption{padding:.65rem .8rem;font-size:.8rem!important;margin:0!important}
 .acupoint-controls{display:grid;grid-template-columns:2fr 1.5fr auto;gap:.7rem;align-items:end;padding:1rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:12px;background:var(--md-code-bg-color);margin:1rem 0}
@@ -15,3 +15,9 @@
 .acupoint-controls[hidden],.acupoint-controls [hidden],.acupoint-group[hidden],.acupoint-links a[hidden]{display:none!important}
 @media(max-width:700px){.acupoint-figures{grid-template-columns:1fr}.acupoint-controls{grid-template-columns:1fr}.acupoint-links a{flex:1 0 auto}}
 @media print{.acupoint-controls{display:none!important}.acupoint-group[hidden]{display:block!important}.acupoint-links a[hidden]{display:inline-flex!important}}
+.acupoint-region{margin:1rem 0;border:1px solid var(--md-default-fg-color--lightest);border-radius:10px;padding:.7rem}
+.acupoint-region summary{font-weight:700;cursor:pointer;min-height:44px;padding:.5rem;color:var(--md-primary-fg-color)}
+.acupoint-location{max-width:640px;margin:1rem auto;padding:.7rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:12px}
+.acupoint-location object{display:block;width:100%;aspect-ratio:640/660;background:white;border-radius:8px}
+.acupoint-location p{font-size:.8rem;margin:.5rem 0}
+.acupoint-location .acupoint-note{font-size:.7rem;color:var(--md-default-fg-color--light)}

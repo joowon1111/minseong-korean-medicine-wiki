@@ -15,6 +15,7 @@ extra_css:
 extra:
   generator: false
 hooks:
+- tools/acupoint_diagrams.py
 - tools/sitemap_lastmod.py
 - tools/page_discovery.py
 plugins:
@@ -479,6 +480,7 @@ nav:
     - 임상 연결 지식망: herbal-formula-clinical/index.md
 - 침구·치료:
   - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
+  - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
   - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
   - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
   - 침·전침·약침·뜸·부항: acupuncture-integrated/modalities.md
@@ -528,7 +530,6 @@ nav:
       - 위중 BL40: acupuncture/points/bl40-weizhong.md
       - 풍지 GB20: acupuncture/points/gb20-fengchi.md
     - 경혈 임상 지식망:
-      - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
       - acupoint-network/index.md
       - 증상별 경혈 지도: acupoint-network/by-condition.md
     - 경락·경맥 지식망:
