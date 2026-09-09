@@ -1,5 +1,5 @@
 {
-  "description": "오수혈 60혈과 주요 임상 경혈 25혈. 위치는 기존 WHO 표준 기반 데이터와 문서를 참고한 교육용 상대 위치 도해.",
+  "description": "WHO 표준 361경혈 전체. 기존 WHO 표준 기반 데이터와 문서에 연결한 교육용 상대 위치 도해. 원본 85혈 도해를 유지하고 276혈을 부위별 확대도로 확장.",
   "source_dataset": "data/acupoints_416_ccby4.csv",
   "regions": [
     {
@@ -267,9 +267,145 @@
       "notes": "양계는 노쪽 코담배갑, 양곡은 자쪽 손목입니다. 열결은 아래팔 노쪽면이며, 외관·지구는 뒷면의 뼈사이 공간입니다."
     },
     {
+      "id": "forearm-anterior-full",
+      "title": "아래팔 앞면 · 공최·극문·음극",
+      "group": "손목·아래팔",
+      "points": [
+        {
+          "code": "LU6",
+          "x": 389,
+          "y": 314.6,
+          "name": "공최",
+          "path": "acupuncture/points/lu6.md",
+          "five_shu": false
+        },
+        {
+          "code": "PC4",
+          "x": 337,
+          "y": 380.4,
+          "name": "극문",
+          "path": "acupuncture/points/pc4-ximen.md",
+          "five_shu": false
+        },
+        {
+          "code": "HT6",
+          "x": 285,
+          "y": 528.5,
+          "name": "음극",
+          "path": "acupuncture/points/ht6.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "팔꿈치주름–손목주름을 12 B-cun으로 봅니다. 공최는 척택–태연 선에서 손목 위 7, 극문은 두 힘줄 사이 위 5, 음극은 자쪽손목굽힘근건 노쪽 위 0.5 B-cun입니다."
+    },
+    {
+      "id": "forearm-posterior-full",
+      "title": "아래팔 뒷면 · 대장경·삼초경",
+      "group": "손목·아래팔",
+      "points": [
+        {
+          "code": "LI6",
+          "x": 253,
+          "y": 446,
+          "name": "편력",
+          "path": "acupuncture/points/li6.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI7",
+          "x": 250,
+          "y": 380,
+          "name": "온류",
+          "path": "acupuncture/points/li7.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI8",
+          "x": 244,
+          "y": 282,
+          "name": "하렴",
+          "path": "acupuncture/points/li8.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI9",
+          "x": 242,
+          "y": 249,
+          "name": "상렴",
+          "path": "acupuncture/points/li9.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE7",
+          "x": 351,
+          "y": 446,
+          "name": "회종",
+          "path": "acupuncture/points/te7.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE8",
+          "x": 320,
+          "y": 413,
+          "name": "삼양락",
+          "path": "acupuncture/points/te8.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE9",
+          "x": 320,
+          "y": 315,
+          "name": "사독",
+          "path": "acupuncture/points/te9.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI7",
+          "x": 388,
+          "y": 380,
+          "name": "지정",
+          "path": "acupuncture/points/si7.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "대장경은 노쪽면, 삼초경은 뼈사이 공간, 소장경은 자쪽면입니다. 회종은 지구와 같은 손목 위 3 B-cun 높이에서 자뼈 노쪽에 있습니다. 사독은 팔꿈치머리 아래 5 B-cun입니다."
+    },
+    {
+      "id": "wrist-ulnar-detail",
+      "title": "손목 뒷면·자쪽 확대",
+      "group": "손목·아래팔",
+      "points": [
+        {
+          "code": "TE4",
+          "x": 334,
+          "y": 218,
+          "name": "양지",
+          "path": "acupuncture/points/te4.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI6",
+          "x": 366,
+          "y": 278,
+          "name": "양로",
+          "path": "acupuncture/points/si6-yanglao.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI4",
+          "x": 390,
+          "y": 168,
+          "name": "완골",
+          "path": "acupuncture/points/si4.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "손가락 방향이 위입니다. 양지는 손목주름의 손가락폄근힘줄 자쪽, 양로는 자뼈머리 노쪽의 오목한 곳, 완골은 다섯째 손허리뼈바닥과 세모뼈 사이입니다."
+    },
+    {
       "id": "elbow-front",
       "title": "오른쪽 팔꿈치 앞면·가쪽",
-      "group": "팔꿈치",
+      "group": "팔꿈치·위팔",
       "points": [
         {
           "code": "HT3",
@@ -317,7 +453,7 @@
     {
       "id": "elbow-back",
       "title": "팔꿈치 뒷면",
-      "group": "팔꿈치",
+      "group": "팔꿈치·위팔",
       "points": [
         {
           "code": "SI8",
@@ -337,6 +473,110 @@
         }
       ],
       "notes": "소장경 소해는 팔꿈치머리와 안쪽위관절융기 사이, 천정은 팔꿈치머리에서 몸쪽 1 B-cun입니다."
+    },
+    {
+      "id": "upper-arm-front",
+      "title": "위팔 앞면·안쪽",
+      "group": "팔꿈치·위팔",
+      "points": [
+        {
+          "code": "LU3",
+          "x": 371,
+          "y": 282,
+          "name": "천부",
+          "path": "acupuncture/points/lu3.md",
+          "five_shu": false
+        },
+        {
+          "code": "LU4",
+          "x": 370,
+          "y": 317,
+          "name": "협백",
+          "path": "acupuncture/points/lu4.md",
+          "five_shu": false
+        },
+        {
+          "code": "PC2",
+          "x": 316,
+          "y": 247,
+          "name": "천천",
+          "path": "acupuncture/points/pc2.md",
+          "five_shu": false
+        },
+        {
+          "code": "HT2",
+          "x": 251,
+          "y": 421,
+          "name": "청령",
+          "path": "acupuncture/points/ht2.md",
+          "five_shu": false
+        },
+        {
+          "code": "HT1",
+          "x": 237,
+          "y": 169,
+          "name": "극천",
+          "path": "acupuncture/points/ht1.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "천부·협백은 앞겨드랑주름 아래 3·4 B-cun의 위팔두갈래근 가쪽입니다. 천천은 주름 아래 2 B-cun의 두 근육갈래 사이, 청령은 팔꿈치 위 3 B-cun 안쪽입니다. 극천은 겨드랑 중심을 따로 확인합니다."
+    },
+    {
+      "id": "upper-arm-lateral",
+      "title": "위팔 가쪽·뒷면",
+      "group": "팔꿈치·위팔",
+      "points": [
+        {
+          "code": "LI12",
+          "x": 251,
+          "y": 503,
+          "name": "주료",
+          "path": "acupuncture/points/li12.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI13",
+          "x": 250,
+          "y": 429,
+          "name": "수오리",
+          "path": "acupuncture/points/li13.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI14",
+          "x": 260,
+          "y": 289,
+          "name": "비노",
+          "path": "acupuncture/points/li14.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE11",
+          "x": 320,
+          "y": 458,
+          "name": "청랭연",
+          "path": "acupuncture/points/te11.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE12",
+          "x": 320,
+          "y": 353,
+          "name": "소락",
+          "path": "acupuncture/points/te12.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE13",
+          "x": 361,
+          "y": 239,
+          "name": "노회",
+          "path": "acupuncture/points/te13.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "주료·수오리·비노는 위팔 가쪽입니다. 청랭연·소락은 팔꿈치머리 위 2·5 B-cun의 뒷면, 노회는 어깨뼈봉우리각 아래 3 B-cun의 어깨세모근 뒤아래입니다."
     },
     {
       "id": "foot-dorsal",
@@ -555,6 +795,110 @@
       "notes": "용천은 발가락을 굽힐 때 발바닥 앞부분에서 오목해지는 곳입니다. 발가락 자체가 아닌 발바닥 위치입니다."
     },
     {
+      "id": "foot-medial-detail",
+      "title": "안쪽 발목·발허리 확대",
+      "group": "발·발목",
+      "points": [
+        {
+          "code": "SP4",
+          "x": 232,
+          "y": 346,
+          "name": "공손",
+          "path": "acupuncture/points/sp4-gongsun.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI4",
+          "x": 408,
+          "y": 330,
+          "name": "대종",
+          "path": "acupuncture/points/ki4.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI5",
+          "x": 389,
+          "y": 313,
+          "name": "수천",
+          "path": "acupuncture/points/ki5.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "공손은 첫째 발허리뼈바닥 앞아래, 대종은 안쪽복사 뒤아래의 아킬레스건 부착부 앞쪽, 수천은 태계 바로 아래 1 B-cun입니다."
+    },
+    {
+      "id": "foot-lateral-detail",
+      "title": "가쪽 발목·발허리 확대",
+      "group": "발·발목",
+      "points": [
+        {
+          "code": "BL61",
+          "x": 389,
+          "y": 372,
+          "name": "복삼",
+          "path": "acupuncture/points/bl61.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL62",
+          "x": 347,
+          "y": 329,
+          "name": "신맥",
+          "path": "acupuncture/points/bl62-shenmai.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL63",
+          "x": 271,
+          "y": 365,
+          "name": "금문",
+          "path": "acupuncture/points/bl63.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL64",
+          "x": 223,
+          "y": 361,
+          "name": "경골",
+          "path": "acupuncture/points/bl64.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB40",
+          "x": 307,
+          "y": 313,
+          "name": "구허",
+          "path": "acupuncture/points/gb40-qiuxu.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "복삼은 곤륜 아래 발꿈치뼈 적백육제, 신맥은 가쪽복사 바로 아래입니다. 금문은 입방뼈 아래, 경골은 다섯째 발허리뼈거친면 먼쪽, 구허는 가쪽복사 앞아래입니다."
+    },
+    {
+      "id": "foot-dorsal-detail",
+      "title": "발등 · 충양·지오회",
+      "group": "발·발목",
+      "points": [
+        {
+          "code": "ST42",
+          "x": 299,
+          "y": 424,
+          "name": "충양",
+          "path": "acupuncture/points/st42-chongyang.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB42",
+          "x": 349,
+          "y": 294,
+          "name": "지오회",
+          "path": "acupuncture/points/gb42.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "충양은 둘째 발허리뼈바닥과 중간쐐기뼈 사이, 지오회는 넷째·다섯째 발허리뼈 사이에서 넷째 발허리발가락관절 몸쪽입니다."
+    },
+    {
       "id": "leg-front",
       "title": "오른쪽 무릎·종아리 앞면",
       "group": "무릎·종아리",
@@ -699,9 +1043,697 @@
       "notes": "위중은 오금주름 중점입니다. 오금의 혈관·신경과 자침 깊이는 이 표면 도해에 표시하지 않습니다."
     },
     {
+      "id": "leg-front-detail",
+      "title": "종아리 앞면 · 조구·하거허",
+      "group": "무릎·종아리",
+      "points": [
+        {
+          "code": "ST38",
+          "x": 346,
+          "y": 422,
+          "name": "조구",
+          "path": "acupuncture/points/st38.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST39",
+          "x": 346,
+          "y": 442,
+          "name": "하거허",
+          "path": "acupuncture/points/st39.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "독비–해계 구간을 16 B-cun으로 봅니다. 조구·하거허는 독비 아래 8·9 B-cun이며, 정강뼈 앞능선 가쪽의 앞정강근 위에 있습니다."
+    },
+    {
+      "id": "leg-medial-detail",
+      "title": "종아리 안쪽 · 뼈모서리·근육",
+      "group": "무릎·종아리",
+      "points": [
+        {
+          "code": "SP7",
+          "x": 294,
+          "y": 427,
+          "name": "누곡",
+          "path": "acupuncture/points/sp7.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP8",
+          "x": 289,
+          "y": 333,
+          "name": "지기",
+          "path": "acupuncture/points/sp8.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI8",
+          "x": 314,
+          "y": 521,
+          "name": "교신",
+          "path": "acupuncture/points/ki8.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI9",
+          "x": 357,
+          "y": 450,
+          "name": "축빈",
+          "path": "acupuncture/points/ki9.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR5",
+          "x": 278,
+          "y": 450,
+          "name": "여구",
+          "path": "acupuncture/points/lr5.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR6",
+          "x": 277,
+          "y": 403,
+          "name": "중도",
+          "path": "acupuncture/points/lr6.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR7",
+          "x": 322,
+          "y": 262,
+          "name": "슬관",
+          "path": "acupuncture/points/lr7.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "안쪽복사–음릉천은 13 B-cun입니다. 누곡·여구·중도는 복사 위 6·5·7 B-cun, 지기는 음릉천 아래 3 B-cun입니다. 교신은 복사 위 2 B-cun에서 복류 앞쪽, 축빈은 위 5 B-cun에서 뒤쪽입니다."
+    },
+    {
+      "id": "leg-lateral-detail",
+      "title": "종아리 가쪽 · 양교·외구·광명",
+      "group": "무릎·종아리",
+      "points": [
+        {
+          "code": "GB35",
+          "x": 348,
+          "y": 425,
+          "name": "양교",
+          "path": "acupuncture/points/gb35.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB36",
+          "x": 299,
+          "y": 425,
+          "name": "외구",
+          "path": "acupuncture/points/gb36.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB37",
+          "x": 302,
+          "y": 466,
+          "name": "광명",
+          "path": "acupuncture/points/gb37.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "양교·외구는 가쪽복사 위 7 B-cun에서 종아리뼈의 뒤·앞을 구분합니다. 광명은 같은 뼈의 앞쪽에서 복사 위 5 B-cun입니다."
+    },
+    {
+      "id": "calf-posterior",
+      "title": "오금·종아리 뒷면",
+      "group": "무릎·종아리",
+      "points": [
+        {
+          "code": "BL38",
+          "x": 374,
+          "y": 215,
+          "name": "부극",
+          "path": "acupuncture/points/bl38.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL39",
+          "x": 374,
+          "y": 236,
+          "name": "위양",
+          "path": "acupuncture/points/bl39.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL55",
+          "x": 318,
+          "y": 277,
+          "name": "합양",
+          "path": "acupuncture/points/bl55.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL56",
+          "x": 318,
+          "y": 340,
+          "name": "승근",
+          "path": "acupuncture/points/bl56.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL57",
+          "x": 316,
+          "y": 403,
+          "name": "승산",
+          "path": "acupuncture/points/bl57-chengshan.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL58",
+          "x": 346,
+          "y": 424,
+          "name": "비양",
+          "path": "acupuncture/points/bl58.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL59",
+          "x": 355,
+          "y": 506,
+          "name": "부양",
+          "path": "acupuncture/points/bl59.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "부극·위양은 넙다리두갈래근힘줄 안쪽의 오금 위 1 B-cun·오금 높이입니다. 합양·승근·승산은 위중 아래 2·5·8 B-cun, 비양은 승산 아래가쪽 1, 부양은 곤륜 위 3 B-cun입니다."
+    },
+    {
+      "id": "face-orbit",
+      "title": "눈·눈썹·광대 주변",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "BL1",
+          "x": 343,
+          "y": 216,
+          "name": "정명",
+          "path": "acupuncture/points/bl1.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL2",
+          "x": 346,
+          "y": 195,
+          "name": "찬죽",
+          "path": "acupuncture/points/bl2.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST1",
+          "x": 372,
+          "y": 237,
+          "name": "승읍",
+          "path": "acupuncture/points/st1.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST2",
+          "x": 372,
+          "y": 263,
+          "name": "사백",
+          "path": "acupuncture/points/st2.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST3",
+          "x": 372,
+          "y": 326,
+          "name": "거료",
+          "path": "acupuncture/points/st3.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI18",
+          "x": 398,
+          "y": 307,
+          "name": "관료",
+          "path": "acupuncture/points/si18.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB1",
+          "x": 410,
+          "y": 222,
+          "name": "동자료",
+          "path": "acupuncture/points/gb1.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB14",
+          "x": 372,
+          "y": 155,
+          "name": "양백",
+          "path": "acupuncture/points/gb14.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE23",
+          "x": 403,
+          "y": 195,
+          "name": "사죽공",
+          "path": "acupuncture/points/te23.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "승읍은 눈확 아래모서리와 안구 사이, 사백은 눈확아래구멍입니다. 정명은 안쪽눈구석 위안쪽, 찬죽·사죽공은 눈썹 안쪽·가쪽 끝입니다. 눈 주변의 표면 위치만 표시합니다."
+    },
+    {
+      "id": "face-nose-mouth",
+      "title": "코·입술·턱 주변",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "LI19",
+          "x": 342,
+          "y": 345,
+          "name": "화료",
+          "path": "acupuncture/points/li19.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI20",
+          "x": 350,
+          "y": 316,
+          "name": "영향",
+          "path": "acupuncture/points/li20-yingxiang.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST4",
+          "x": 373,
+          "y": 377,
+          "name": "지창",
+          "path": "acupuncture/points/st4.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV25",
+          "x": 320,
+          "y": 316,
+          "name": "소료",
+          "path": "acupuncture/points/gv25.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV26",
+          "x": 320,
+          "y": 350,
+          "name": "수구",
+          "path": "acupuncture/points/gv26-shuigou.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV27",
+          "x": 320,
+          "y": 372,
+          "name": "태단",
+          "path": "acupuncture/points/gv27.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV24",
+          "x": 320,
+          "y": 419,
+          "name": "승장",
+          "path": "acupuncture/points/cv24.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "영향은 콧방울 가쪽의 코입술고랑, 화료는 콧구멍 가쪽 아래 인중 중점 높이입니다. 수구는 기존 표준 위치 설명의 인중 중점 기준이며, 태단은 윗입술결절, 승장은 턱끝입술고랑입니다."
+    },
+    {
+      "id": "face-jaw-ear",
+      "title": "턱관절·귀 앞쪽",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "ST5",
+          "x": 282,
+          "y": 399,
+          "name": "대영",
+          "path": "acupuncture/points/st5.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST6",
+          "x": 307,
+          "y": 379,
+          "name": "협거",
+          "path": "acupuncture/points/st6.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST7",
+          "x": 316,
+          "y": 280,
+          "name": "하관",
+          "path": "acupuncture/points/st7.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB3",
+          "x": 316,
+          "y": 253,
+          "name": "상관",
+          "path": "acupuncture/points/gb3.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB2",
+          "x": 337,
+          "y": 329,
+          "name": "청회",
+          "path": "acupuncture/points/gb2.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI19",
+          "x": 336,
+          "y": 309,
+          "name": "청궁",
+          "path": "acupuncture/points/si19.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE21",
+          "x": 338,
+          "y": 289,
+          "name": "이문",
+          "path": "acupuncture/points/te21.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE22",
+          "x": 327,
+          "y": 270,
+          "name": "화료",
+          "path": "acupuncture/points/te22.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "상관·하관은 광대활 중점의 위·아래입니다. 이문·청궁·청회는 귀 앞에서 위·가운데·아래로 구분하며, 협거는 아래턱뼈각 앞위, 대영은 교근 앞의 아래턱뼈 가장자리입니다."
+    },
+    {
+      "id": "head-temporal",
+      "title": "관자놀이·귀 위쪽",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "ST8",
+          "x": 251,
+          "y": 158,
+          "name": "두유",
+          "path": "acupuncture/points/st8.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB4",
+          "x": 277,
+          "y": 181,
+          "name": "함염",
+          "path": "acupuncture/points/gb4.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB5",
+          "x": 299,
+          "y": 205,
+          "name": "현로",
+          "path": "acupuncture/points/gb5.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB6",
+          "x": 317,
+          "y": 228,
+          "name": "현리",
+          "path": "acupuncture/points/gb6.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB7",
+          "x": 331,
+          "y": 250,
+          "name": "곡빈",
+          "path": "acupuncture/points/gb7.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB8",
+          "x": 366,
+          "y": 190,
+          "name": "솔곡",
+          "path": "acupuncture/points/gb8.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB9",
+          "x": 397,
+          "y": 171,
+          "name": "천충",
+          "path": "acupuncture/points/gb9.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE20",
+          "x": 366,
+          "y": 248,
+          "name": "각손",
+          "path": "acupuncture/points/te20.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "함염·현로·현리는 두유–곡빈 곡선의 1/4·1/2·3/4입니다. 각손은 귀끝 바로 위, 솔곡은 귀끝 수직선상 머리카락경계 위 1.5 B-cun, 천충은 귀뿌리 뒤 수직선상 위 2 B-cun입니다."
+    },
+    {
+      "id": "head-retroauricular",
+      "title": "귀 뒤·꼭지돌기 주변",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "GB10",
+          "x": 425,
+          "y": 236,
+          "name": "부백",
+          "path": "acupuncture/points/gb10.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB11",
+          "x": 429,
+          "y": 303,
+          "name": "두규음",
+          "path": "acupuncture/points/gb11.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB12",
+          "x": 409,
+          "y": 365,
+          "name": "완골",
+          "path": "acupuncture/points/gb12.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE17",
+          "x": 380,
+          "y": 353,
+          "name": "예풍",
+          "path": "acupuncture/points/te17-yifeng.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE18",
+          "x": 398,
+          "y": 320,
+          "name": "계맥",
+          "path": "acupuncture/points/te18.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE19",
+          "x": 398,
+          "y": 283,
+          "name": "노식",
+          "path": "acupuncture/points/te19.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "부백·두규음은 천충–완골 곡선의 위쪽 1/3·2/3입니다. 계맥·노식은 예풍–각손의 귀 뒤 곡선에서 아래쪽 1/3·2/3입니다. 완골은 꼭지돌기 뒤아래, 예풍은 귓불 뒤입니다."
+    },
+    {
+      "id": "scalp-bladder",
+      "title": "머리 표면 · 방광경",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "BL3",
+          "x": 340,
+          "y": 165.6,
+          "name": "미충",
+          "path": "acupuncture/points/bl3.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL4",
+          "x": 365,
+          "y": 165.6,
+          "name": "곡차",
+          "path": "acupuncture/points/bl4.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL5",
+          "x": 365,
+          "y": 181.2,
+          "name": "오처",
+          "path": "acupuncture/points/bl5.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL6",
+          "x": 365,
+          "y": 228.1,
+          "name": "승광",
+          "path": "acupuncture/points/bl6.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL7",
+          "x": 365,
+          "y": 275.0,
+          "name": "통천",
+          "path": "acupuncture/points/bl7.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL8",
+          "x": 365,
+          "y": 321.9,
+          "name": "낙각",
+          "path": "acupuncture/points/bl8.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "곡차–낙각은 정중선 옆 1.5 B-cun에서 앞머리카락경계 위 0.5·1·2.5·4·5.5 B-cun입니다. 미충은 이마패임 수직선의 위 0.5 B-cun입니다. 높이는 머리 표면을 따라 잽니다."
+    },
+    {
+      "id": "scalp-gallbladder",
+      "title": "머리 표면 · 담경",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "GB13",
+          "x": 410,
+          "y": 165.6,
+          "name": "본신",
+          "path": "acupuncture/points/gb13.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB15",
+          "x": 388,
+          "y": 165.6,
+          "name": "두임읍",
+          "path": "acupuncture/points/gb15.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB16",
+          "x": 388,
+          "y": 196.9,
+          "name": "목창",
+          "path": "acupuncture/points/gb16.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB17",
+          "x": 388,
+          "y": 228.1,
+          "name": "정영",
+          "path": "acupuncture/points/gb17.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB18",
+          "x": 388,
+          "y": 275.0,
+          "name": "승령",
+          "path": "acupuncture/points/gb18.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "본신은 정중선 옆 3 B-cun, 앞머리카락경계 위 0.5 B-cun입니다. 두임읍·목창·정영·승령은 동공 수직선에서 경계 위 0.5·1.5·2.5·4 B-cun입니다."
+    },
+    {
+      "id": "scalp-governing",
+      "title": "머리 표면 · 독맥",
+      "group": "머리·얼굴",
+      "points": [
+        {
+          "code": "GV24",
+          "x": 320,
+          "y": 165.6,
+          "name": "신정",
+          "path": "acupuncture/points/gv24.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV23",
+          "x": 320,
+          "y": 181.2,
+          "name": "상성",
+          "path": "acupuncture/points/gv23.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV22",
+          "x": 320,
+          "y": 212.5,
+          "name": "신회",
+          "path": "acupuncture/points/gv22.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV21",
+          "x": 320,
+          "y": 259.4,
+          "name": "전정",
+          "path": "acupuncture/points/gv21.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV19",
+          "x": 320,
+          "y": 353.1,
+          "name": "후정",
+          "path": "acupuncture/points/gv19.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV18",
+          "x": 320,
+          "y": 400.0,
+          "name": "강간",
+          "path": "acupuncture/points/gv18.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "신정·상성·신회·전정은 앞머리카락경계 위 0.5·1·2·3.5 B-cun입니다. 후정·강간은 뒷머리카락경계 위 5.5·4 B-cun입니다. 백회는 기존 머리·목 도해에서 확인합니다."
+    },
+    {
       "id": "head-neck",
       "title": "머리·목·어깨 뒷면",
-      "group": "머리·목·몸통",
+      "group": "목·어깨",
       "points": [
         {
           "code": "GV20",
@@ -739,9 +1771,265 @@
       "notes": "백회는 머리 꼭대기 정중선, 풍지는 뒤통수뼈 아래 가쪽입니다. 대추는 C7 아래, 견정은 C7과 어깨봉우리 사이입니다. 짝혈은 한쪽만 표시했습니다."
     },
     {
+      "id": "occiput-upper-neck",
+      "title": "뒤통수·위쪽 목",
+      "group": "목·어깨",
+      "points": [
+        {
+          "code": "BL9",
+          "x": 359,
+          "y": 302,
+          "name": "옥침",
+          "path": "acupuncture/points/bl9.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL10",
+          "x": 376,
+          "y": 458,
+          "name": "천주",
+          "path": "acupuncture/points/bl10-tianzhu.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB19",
+          "x": 397,
+          "y": 302,
+          "name": "뇌공",
+          "path": "acupuncture/points/gb19.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV15",
+          "x": 320,
+          "y": 458,
+          "name": "아문",
+          "path": "acupuncture/points/gv15.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV16",
+          "x": 320,
+          "y": 366,
+          "name": "풍부",
+          "path": "acupuncture/points/gv16.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV17",
+          "x": 320,
+          "y": 302,
+          "name": "뇌호",
+          "path": "acupuncture/points/gv17.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "뇌호·옥침·뇌공은 바깥뒤통수뼈융기 위모서리 높이이며, 옥침은 옆 1.3 B-cun, 뇌공은 풍지 수직 위입니다. 아문·천주는 C2 위쪽 높이, 풍부는 뒤통수뼈융기 아래입니다."
+    },
+    {
+      "id": "neck-anterior",
+      "title": "목 앞면 · 연골·목빗근",
+      "group": "목·어깨",
+      "points": [
+        {
+          "code": "ST9",
+          "x": 348,
+          "y": 300,
+          "name": "인영",
+          "path": "acupuncture/points/st9.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST10",
+          "x": 345,
+          "y": 367,
+          "name": "수돌",
+          "path": "acupuncture/points/st10.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST11",
+          "x": 371,
+          "y": 489,
+          "name": "기사",
+          "path": "acupuncture/points/st11.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST12",
+          "x": 419,
+          "y": 481,
+          "name": "결분",
+          "path": "acupuncture/points/st12.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI18",
+          "x": 370,
+          "y": 300,
+          "name": "부돌",
+          "path": "acupuncture/points/li18.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI17",
+          "x": 390,
+          "y": 367,
+          "name": "천정",
+          "path": "acupuncture/points/li17.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI16",
+          "x": 398,
+          "y": 300,
+          "name": "천창",
+          "path": "acupuncture/points/si16.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV22",
+          "x": 320,
+          "y": 496,
+          "name": "천돌",
+          "path": "acupuncture/points/cv22.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV23",
+          "x": 320,
+          "y": 230,
+          "name": "염천",
+          "path": "acupuncture/points/cv23.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "인영·부돌·천창은 방패연골 위모서리 높이에서 목빗근 앞·사이·뒤입니다. 수돌·천정은 반지연골 높이의 앞·뒤, 천돌은 목아래패임 중심입니다. 표면 표지이며 혈관·기도의 깊이는 나타내지 않습니다."
+    },
+    {
+      "id": "neck-lateral",
+      "title": "목 가쪽 · 아래턱뼈각",
+      "group": "목·어깨",
+      "points": [
+        {
+          "code": "SI17",
+          "x": 327,
+          "y": 402,
+          "name": "천용",
+          "path": "acupuncture/points/si17.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE16",
+          "x": 388,
+          "y": 402,
+          "name": "천유",
+          "path": "acupuncture/points/te16.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "천용은 아래턱뼈각 뒤의 목빗근 앞쪽, 천유는 아래턱뼈각과 같은 높이의 목빗근 뒤쪽입니다. 귀 뒤 혈과 구분하도록 턱뼈각 높이를 표시했습니다."
+    },
+    {
+      "id": "shoulder-acromion",
+      "title": "어깨봉우리 주변",
+      "group": "목·어깨",
+      "points": [
+        {
+          "code": "LI15",
+          "x": 383,
+          "y": 267,
+          "name": "견우",
+          "path": "acupuncture/points/li15-jianyu.md",
+          "five_shu": false
+        },
+        {
+          "code": "LI16",
+          "x": 348,
+          "y": 208,
+          "name": "거골",
+          "path": "acupuncture/points/li16.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE14",
+          "x": 442,
+          "y": 266,
+          "name": "견료",
+          "path": "acupuncture/points/te14.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "견우는 어깨봉우리 앞과 위팔뼈 큰결절 사이, 견료는 그 뒤쪽입니다. 거골은 빗장뼈 봉우리끝과 어깨뼈가시 사이입니다. 앞뒤 관계를 펼친 도해입니다."
+    },
+    {
+      "id": "shoulder-scapula",
+      "title": "어깨뼈·뒤겨드랑주름",
+      "group": "목·어깨",
+      "points": [
+        {
+          "code": "SI9",
+          "x": 423,
+          "y": 319,
+          "name": "견정",
+          "path": "acupuncture/points/si9.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI10",
+          "x": 423,
+          "y": 280,
+          "name": "노수",
+          "path": "acupuncture/points/si10.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI12",
+          "x": 369,
+          "y": 240,
+          "name": "병풍",
+          "path": "acupuncture/points/si12.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI13",
+          "x": 314,
+          "y": 234,
+          "name": "곡원",
+          "path": "acupuncture/points/si13.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI14",
+          "x": 359,
+          "y": 208,
+          "name": "견외수",
+          "path": "acupuncture/points/si14.md",
+          "five_shu": false
+        },
+        {
+          "code": "SI15",
+          "x": 330,
+          "y": 171,
+          "name": "견중수",
+          "path": "acupuncture/points/si15.md",
+          "five_shu": false
+        },
+        {
+          "code": "TE15",
+          "x": 322,
+          "y": 202,
+          "name": "천료",
+          "path": "acupuncture/points/te15.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "노수는 뒤겨드랑주름 수직 위 어깨뼈가시 아래, 견정 SI9는 주름 위 1 B-cun입니다. 병풍·곡원은 가시 위, 견외수·견중수는 T1 옆 3·C7 옆 2 B-cun, 천료는 어깨뼈 위각 위입니다."
+    },
+    {
       "id": "trunk-front",
       "title": "가슴·배 앞면",
-      "group": "머리·목·몸통",
+      "group": "가슴·배",
       "points": [
         {
           "code": "CV17",
@@ -787,9 +2075,657 @@
       "notes": "전중은 제4갈비사이 높이의 정중선, 중완은 배꼽 위 4 B-cun, 기해·관원은 아래 1.5·3 B-cun, 천추는 옆 2 B-cun입니다. 천추는 한쪽만 표시했습니다."
     },
     {
+      "id": "chest-stomach",
+      "title": "앞가슴 · 위경·늑간 높이",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "ST13",
+          "x": 404,
+          "y": 153,
+          "name": "기호",
+          "path": "acupuncture/points/st13.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST14",
+          "x": 404,
+          "y": 185,
+          "name": "고방",
+          "path": "acupuncture/points/st14.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST15",
+          "x": 404,
+          "y": 232,
+          "name": "옥예",
+          "path": "acupuncture/points/st15.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST16",
+          "x": 404,
+          "y": 279,
+          "name": "응창",
+          "path": "acupuncture/points/st16.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST17",
+          "x": 404,
+          "y": 326,
+          "name": "유중",
+          "path": "acupuncture/points/st17.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST18",
+          "x": 404,
+          "y": 373,
+          "name": "유근",
+          "path": "acupuncture/points/st18.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR14",
+          "x": 404,
+          "y": 420,
+          "name": "기문",
+          "path": "acupuncture/points/lr14-qimen.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB24",
+          "x": 404,
+          "y": 467,
+          "name": "일월",
+          "path": "acupuncture/points/gb24.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "기호는 빗장뼈 아래, 고방·옥예·응창은 제1·2·3갈비사이, 유근은 제5갈비사이의 정중선 옆 4 B-cun입니다. 유중은 유두 중심이며, 제4갈비사이 높이의 도식으로 표시했습니다. 기문·일월은 제6·7갈비사이입니다."
+    },
+    {
+      "id": "chest-kidney",
+      "title": "앞가슴 · 신경",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "KI27",
+          "x": 362,
+          "y": 153,
+          "name": "수부",
+          "path": "acupuncture/points/ki27.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI22",
+          "x": 362,
+          "y": 373,
+          "name": "보랑",
+          "path": "acupuncture/points/ki22.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI23",
+          "x": 362,
+          "y": 326,
+          "name": "신봉",
+          "path": "acupuncture/points/ki23.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI24",
+          "x": 362,
+          "y": 279,
+          "name": "영허",
+          "path": "acupuncture/points/ki24.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI25",
+          "x": 362,
+          "y": 232,
+          "name": "신장",
+          "path": "acupuncture/points/ki25.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI26",
+          "x": 362,
+          "y": 185,
+          "name": "욱중",
+          "path": "acupuncture/points/ki26.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "수부는 빗장뼈 아래, 욱중부터 보랑까지는 제1–5갈비사이에서 정중선 옆 2 B-cun입니다. 갈비뼈 위가 아니라 갈비사이 높이를 확인합니다."
+    },
+    {
+      "id": "chest-lateral-lines",
+      "title": "가슴 가쪽 · 폐경·비경·심포경",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "LU2",
+          "x": 446,
+          "y": 153,
+          "name": "운문",
+          "path": "acupuncture/points/lu2.md",
+          "five_shu": false
+        },
+        {
+          "code": "LU1",
+          "x": 446,
+          "y": 185,
+          "name": "중부",
+          "path": "acupuncture/points/lu1-zhongfu.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP17",
+          "x": 446,
+          "y": 373,
+          "name": "식두",
+          "path": "acupuncture/points/sp17.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP18",
+          "x": 446,
+          "y": 326,
+          "name": "천계",
+          "path": "acupuncture/points/sp18.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP19",
+          "x": 446,
+          "y": 279,
+          "name": "흉향",
+          "path": "acupuncture/points/sp19.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP20",
+          "x": 446,
+          "y": 232,
+          "name": "주영",
+          "path": "acupuncture/points/sp20.md",
+          "five_shu": false
+        },
+        {
+          "code": "PC1",
+          "x": 425,
+          "y": 326,
+          "name": "천지",
+          "path": "acupuncture/points/pc1.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "중부·운문은 정중선 옆 6 B-cun의 첫째 갈비사이 높이·빗장아래오목입니다. 주영–식두는 제2–5갈비사이 옆 6 B-cun, 천지는 제4갈비사이 옆 5 B-cun입니다."
+    },
+    {
+      "id": "chest-midline",
+      "title": "가슴 정중선 · 임맥",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "CV21",
+          "x": 320,
+          "y": 153,
+          "name": "선기",
+          "path": "acupuncture/points/cv21.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV20",
+          "x": 320,
+          "y": 185,
+          "name": "화개",
+          "path": "acupuncture/points/cv20.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV19",
+          "x": 320,
+          "y": 232,
+          "name": "자궁",
+          "path": "acupuncture/points/cv19.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV18",
+          "x": 320,
+          "y": 279,
+          "name": "옥당",
+          "path": "acupuncture/points/cv18.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV16",
+          "x": 320,
+          "y": 420,
+          "name": "중정",
+          "path": "acupuncture/points/cv16.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "선기는 목아래패임 아래 1 B-cun, 화개·자궁·옥당은 제1·2·3갈비사이 높이입니다. 중정은 칼몸통결합 자체를 기준으로 확인하며 개인의 갈비 높이와 구분합니다."
+    },
+    {
+      "id": "abdomen-stomach",
+      "title": "배 · 위경의 안쪽 두 번째 선",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "ST19",
+          "x": 368,
+          "y": 182,
+          "name": "불용",
+          "path": "acupuncture/points/st19.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST20",
+          "x": 368,
+          "y": 210,
+          "name": "승만",
+          "path": "acupuncture/points/st20.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST21",
+          "x": 368,
+          "y": 238,
+          "name": "양문",
+          "path": "acupuncture/points/st21.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST22",
+          "x": 368,
+          "y": 266,
+          "name": "관문",
+          "path": "acupuncture/points/st22.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST23",
+          "x": 368,
+          "y": 294,
+          "name": "태을",
+          "path": "acupuncture/points/st23.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST24",
+          "x": 368,
+          "y": 322,
+          "name": "활육문",
+          "path": "acupuncture/points/st24.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST26",
+          "x": 368,
+          "y": 378,
+          "name": "외릉",
+          "path": "acupuncture/points/st26.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST27",
+          "x": 368,
+          "y": 406,
+          "name": "대거",
+          "path": "acupuncture/points/st27.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST28",
+          "x": 368,
+          "y": 434,
+          "name": "수도",
+          "path": "acupuncture/points/st28.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST29",
+          "x": 368,
+          "y": 462,
+          "name": "귀래",
+          "path": "acupuncture/points/st29.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST30",
+          "x": 368,
+          "y": 490,
+          "name": "기충",
+          "path": "acupuncture/points/st30.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "정중선 옆 2 B-cun입니다. 불용–활육문은 배꼽 위 6–1 B-cun, 외릉–기충은 아래 1–5 B-cun입니다. 천추는 배꼽과 같은 높이로 기존 도해에 연결되어 있습니다."
+    },
+    {
+      "id": "abdomen-kidney",
+      "title": "배 · 신경의 정중선 가까운 선",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "KI11",
+          "x": 332.0,
+          "y": 490,
+          "name": "횡골",
+          "path": "acupuncture/points/ki11.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI12",
+          "x": 332.0,
+          "y": 462,
+          "name": "대혁",
+          "path": "acupuncture/points/ki12.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI13",
+          "x": 332.0,
+          "y": 434,
+          "name": "기혈",
+          "path": "acupuncture/points/ki13.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI14",
+          "x": 332.0,
+          "y": 406,
+          "name": "사만",
+          "path": "acupuncture/points/ki14.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI15",
+          "x": 332.0,
+          "y": 378,
+          "name": "중주",
+          "path": "acupuncture/points/ki15.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI16",
+          "x": 332.0,
+          "y": 350,
+          "name": "황수",
+          "path": "acupuncture/points/ki16.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI17",
+          "x": 332.0,
+          "y": 294,
+          "name": "상곡",
+          "path": "acupuncture/points/ki17.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI18",
+          "x": 332.0,
+          "y": 266,
+          "name": "석관",
+          "path": "acupuncture/points/ki18.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI19",
+          "x": 332.0,
+          "y": 238,
+          "name": "음도",
+          "path": "acupuncture/points/ki19.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI20",
+          "x": 332.0,
+          "y": 210,
+          "name": "복통곡",
+          "path": "acupuncture/points/ki20.md",
+          "five_shu": false
+        },
+        {
+          "code": "KI21",
+          "x": 332.0,
+          "y": 182,
+          "name": "유문",
+          "path": "acupuncture/points/ki21.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "정중선 옆 0.5 B-cun입니다. 횡골–황수는 배꼽 아래 5 B-cun부터 배꼽 높이까지, 상곡–유문은 배꼽 위 2–6 B-cun입니다. 황수와 상곡 사이에는 2 B-cun 간격이 있습니다."
+    },
+    {
+      "id": "abdomen-midline",
+      "title": "배 정중선 · 임맥",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "CV2",
+          "x": 320,
+          "y": 490,
+          "name": "곡골",
+          "path": "acupuncture/points/cv2.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV3",
+          "x": 320,
+          "y": 462,
+          "name": "중극",
+          "path": "acupuncture/points/cv3.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV5",
+          "x": 320,
+          "y": 406,
+          "name": "석문",
+          "path": "acupuncture/points/cv5.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV7",
+          "x": 320,
+          "y": 378,
+          "name": "음교",
+          "path": "acupuncture/points/cv7.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV8",
+          "x": 320,
+          "y": 350,
+          "name": "신궐",
+          "path": "acupuncture/points/cv8.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV9",
+          "x": 320,
+          "y": 322,
+          "name": "수분",
+          "path": "acupuncture/points/cv9.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV10",
+          "x": 320,
+          "y": 294,
+          "name": "하완",
+          "path": "acupuncture/points/cv10.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV11",
+          "x": 320,
+          "y": 266,
+          "name": "건리",
+          "path": "acupuncture/points/cv11.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV13",
+          "x": 320,
+          "y": 210,
+          "name": "상완",
+          "path": "acupuncture/points/cv13.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV14",
+          "x": 320,
+          "y": 182,
+          "name": "거궐",
+          "path": "acupuncture/points/cv14.md",
+          "five_shu": false
+        },
+        {
+          "code": "CV15",
+          "x": 320,
+          "y": 154,
+          "name": "구미",
+          "path": "acupuncture/points/cv15.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "신궐은 배꼽, 수분·하완·건리는 위 1·2·3 B-cun, 상완·거궐은 위 5·6 B-cun입니다. 구미는 칼몸통결합 아래 1 B-cun입니다. 아래쪽 음교·석문·중극·곡골은 배꼽 아래 1·2·4·5 B-cun입니다."
+    },
+    {
+      "id": "abdomen-lateral",
+      "title": "배 가쪽·샅고랑",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "SP13",
+          "x": 416,
+          "y": 470.4,
+          "name": "부사",
+          "path": "acupuncture/points/sp13.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP14",
+          "x": 416,
+          "y": 386.4,
+          "name": "복결",
+          "path": "acupuncture/points/sp14.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP15",
+          "x": 416,
+          "y": 350,
+          "name": "대횡",
+          "path": "acupuncture/points/sp15.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP16",
+          "x": 416,
+          "y": 266,
+          "name": "복애",
+          "path": "acupuncture/points/sp16.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR12",
+          "x": 380.0,
+          "y": 490,
+          "name": "급맥",
+          "path": "acupuncture/points/lr12.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB27",
+          "x": 405,
+          "y": 434,
+          "name": "오추",
+          "path": "acupuncture/points/gb27.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB28",
+          "x": 410,
+          "y": 449,
+          "name": "유도",
+          "path": "acupuncture/points/gb28.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "비경 네 혈은 정중선 옆 4 B-cun이며 복애·대횡·복결·부사는 배꼽 위 3·같은 높이·아래 1.3·아래 4.3 B-cun입니다. 오추·유도는 위앞엉덩뼈가시 안쪽·아래안쪽, 급맥은 두덩결합 높이 옆 2.5 B-cun입니다."
+    },
+    {
+      "id": "flank-ribs",
+      "title": "옆가슴·옆배 · 갈비뼈 끝",
+      "group": "가슴·배",
+      "points": [
+        {
+          "code": "GB22",
+          "x": 307,
+          "y": 245,
+          "name": "연액",
+          "path": "acupuncture/points/gb22.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB23",
+          "x": 277,
+          "y": 245,
+          "name": "첩근",
+          "path": "acupuncture/points/gb23.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP21",
+          "x": 307,
+          "y": 321,
+          "name": "대포",
+          "path": "acupuncture/points/sp21.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR13",
+          "x": 332,
+          "y": 380,
+          "name": "장문",
+          "path": "acupuncture/points/lr13-zhangmen.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB25",
+          "x": 364,
+          "y": 397,
+          "name": "경문",
+          "path": "acupuncture/points/gb25.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB26",
+          "x": 332,
+          "y": 419,
+          "name": "대맥",
+          "path": "acupuncture/points/gb26.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "연액·첩근은 제4갈비사이 중간겨드랑선·그 앞 1 B-cun, 대포는 제6갈비사이 중간겨드랑선입니다. 장문·경문은 제11·12갈비뼈끝 아래, 대맥은 제11갈비뼈끝 아래 수직선에서 배꼽 높이입니다."
+    },
+    {
       "id": "back",
       "title": "어깨뼈·허리 뒷면",
-      "group": "머리·목·몸통",
+      "group": "등·허리·엉치",
       "points": [
         {
           "code": "SI11",
@@ -817,6 +2753,654 @@
         }
       ],
       "notes": "천종은 어깨뼈가시 중점과 아래각을 잇는 선의 위쪽 1/3, 신수·대장수는 L2·L4 가시돌기 아래 높이에서 정중선 옆 1.5 B-cun입니다. 짝혈은 한쪽만 표시했습니다."
+    },
+    {
+      "id": "back-thoracic-inner",
+      "title": "등 위쪽 · 방광경 안쪽 선",
+      "group": "등·허리·엉치",
+      "points": [
+        {
+          "code": "BL11",
+          "x": 330,
+          "y": 145.0,
+          "name": "대저",
+          "path": "acupuncture/points/bl11.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL12",
+          "x": 330,
+          "y": 208.3,
+          "name": "풍문",
+          "path": "acupuncture/points/bl12.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL13",
+          "x": 330,
+          "y": 271.7,
+          "name": "폐수",
+          "path": "acupuncture/points/bl13-feishu.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL14",
+          "x": 330,
+          "y": 335.0,
+          "name": "궐음수",
+          "path": "acupuncture/points/bl14.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL15",
+          "x": 330,
+          "y": 398.3,
+          "name": "심수",
+          "path": "acupuncture/points/bl15.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL16",
+          "x": 330,
+          "y": 461.7,
+          "name": "독수",
+          "path": "acupuncture/points/bl16.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL17",
+          "x": 330,
+          "y": 525.0,
+          "name": "격수",
+          "path": "acupuncture/points/bl17-geshu.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "대저–격수는 T1–T7 가시돌기 아래 높이에서 뒤정중선 옆 1.5 B-cun입니다. 혈 이름의 순서와 척추 번호가 같지는 않으므로 표시된 분절을 확인합니다."
+    },
+    {
+      "id": "back-thoracic-outer",
+      "title": "등 위쪽 · 방광경 바깥 선",
+      "group": "등·허리·엉치",
+      "points": [
+        {
+          "code": "BL41",
+          "x": 390,
+          "y": 145.0,
+          "name": "부분",
+          "path": "acupuncture/points/bl41.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL42",
+          "x": 390,
+          "y": 221.0,
+          "name": "백호",
+          "path": "acupuncture/points/bl42.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL43",
+          "x": 390,
+          "y": 297.0,
+          "name": "고황",
+          "path": "acupuncture/points/bl43.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL44",
+          "x": 390,
+          "y": 373.0,
+          "name": "신당",
+          "path": "acupuncture/points/bl44.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL45",
+          "x": 390,
+          "y": 449.0,
+          "name": "의희",
+          "path": "acupuncture/points/bl45.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL46",
+          "x": 390,
+          "y": 525.0,
+          "name": "격관",
+          "path": "acupuncture/points/bl46.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "부분–격관은 T2–T7 가시돌기 아래 높이에서 뒤정중선 옆 3 B-cun입니다. 안쪽 선의 혈과 같은 분절 높이를 가질 수 있습니다."
+    },
+    {
+      "id": "back-lower-thoracic",
+      "title": "등 아래쪽 · T9–T12",
+      "group": "등·허리·엉치",
+      "points": [
+        {
+          "code": "BL18",
+          "x": 330,
+          "y": 240.0,
+          "name": "간수",
+          "path": "acupuncture/points/bl18-ganshu.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL19",
+          "x": 330,
+          "y": 335.0,
+          "name": "담수",
+          "path": "acupuncture/points/bl19.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL20",
+          "x": 330,
+          "y": 430.0,
+          "name": "비수",
+          "path": "acupuncture/points/bl20-pishu.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL21",
+          "x": 330,
+          "y": 525.0,
+          "name": "위수",
+          "path": "acupuncture/points/bl21.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL47",
+          "x": 390,
+          "y": 240.0,
+          "name": "혼문",
+          "path": "acupuncture/points/bl47.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL48",
+          "x": 390,
+          "y": 335.0,
+          "name": "양강",
+          "path": "acupuncture/points/bl48.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL49",
+          "x": 390,
+          "y": 430.0,
+          "name": "의사",
+          "path": "acupuncture/points/bl49.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL50",
+          "x": 390,
+          "y": 525.0,
+          "name": "위창",
+          "path": "acupuncture/points/bl50.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "간수·담수·비수·위수는 T9–T12 옆 1.5 B-cun, 혼문·양강·의사·위창은 같은 높이의 옆 3 B-cun입니다. T8에 해당 혈을 임의로 채워 넣지 않았습니다."
+    },
+    {
+      "id": "back-governing",
+      "title": "등 정중선 · 독맥 분절",
+      "group": "등·허리·엉치",
+      "points": [
+        {
+          "code": "GV13",
+          "x": 270,
+          "y": 145.0,
+          "name": "도도",
+          "path": "acupuncture/points/gv13.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV12",
+          "x": 270,
+          "y": 221.0,
+          "name": "신주",
+          "path": "acupuncture/points/gv12.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV11",
+          "x": 270,
+          "y": 297.0,
+          "name": "신도",
+          "path": "acupuncture/points/gv11.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV10",
+          "x": 270,
+          "y": 335.0,
+          "name": "영대",
+          "path": "acupuncture/points/gv10.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV9",
+          "x": 270,
+          "y": 373.0,
+          "name": "지양",
+          "path": "acupuncture/points/gv9.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV8",
+          "x": 270,
+          "y": 449.0,
+          "name": "근축",
+          "path": "acupuncture/points/gv8.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV7",
+          "x": 270,
+          "y": 487.0,
+          "name": "중추",
+          "path": "acupuncture/points/gv7.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV6",
+          "x": 270,
+          "y": 525.0,
+          "name": "척중",
+          "path": "acupuncture/points/gv6.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "도도·신주·신도·영대·지양·근축·중추·척중은 각각 T1·3·5·6·7·9·10·11 가시돌기 아래 오목한 곳입니다. 분절 사이의 실제 피부 간격을 실측한 그림은 아닙니다."
+    },
+    {
+      "id": "back-lumbar",
+      "title": "허리 · 요추 분절",
+      "group": "등·허리·엉치",
+      "points": [
+        {
+          "code": "GV5",
+          "x": 270,
+          "y": 145.0,
+          "name": "현추",
+          "path": "acupuncture/points/gv5.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV4",
+          "x": 270,
+          "y": 240.0,
+          "name": "명문",
+          "path": "acupuncture/points/gv4-mingmen.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV3",
+          "x": 270,
+          "y": 430.0,
+          "name": "요양관",
+          "path": "acupuncture/points/gv3.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL22",
+          "x": 330,
+          "y": 145.0,
+          "name": "삼초수",
+          "path": "acupuncture/points/bl22.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL24",
+          "x": 330,
+          "y": 335.0,
+          "name": "기해수",
+          "path": "acupuncture/points/bl24.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL26",
+          "x": 330,
+          "y": 525.0,
+          "name": "관원수",
+          "path": "acupuncture/points/bl26.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL51",
+          "x": 390,
+          "y": 145.0,
+          "name": "황문",
+          "path": "acupuncture/points/bl51.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL52",
+          "x": 390,
+          "y": 240.0,
+          "name": "지실",
+          "path": "acupuncture/points/bl52.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "현추·명문·요양관은 L1·L2·L4 정중선, 삼초수·기해수·관원수는 L1·L3·L5 옆 1.5 B-cun입니다. 황문·지실은 L1·L2 옆 3 B-cun이며 신수·대장수는 기존 허리 도해에 연결됩니다."
+    },
+    {
+      "id": "sacrum-foramina",
+      "title": "엉치 · 팔료혈과 정중선",
+      "group": "등·허리·엉치",
+      "points": [
+        {
+          "code": "BL31",
+          "x": 348,
+          "y": 195,
+          "name": "상료",
+          "path": "acupuncture/points/bl31.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL32",
+          "x": 345,
+          "y": 252,
+          "name": "차료",
+          "path": "acupuncture/points/bl32.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL33",
+          "x": 342,
+          "y": 309,
+          "name": "중료",
+          "path": "acupuncture/points/bl33.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL34",
+          "x": 339,
+          "y": 366,
+          "name": "하료",
+          "path": "acupuncture/points/bl34.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV2",
+          "x": 320,
+          "y": 418,
+          "name": "요수",
+          "path": "acupuncture/points/gv2.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL35",
+          "x": 339,
+          "y": 482,
+          "name": "회양",
+          "path": "acupuncture/points/bl35.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "상료·차료·중료·하료는 제1–4뒤엉치뼈구멍입니다. 요수는 엉치뼈틈새, 회양은 꼬리뼈끝 옆 0.5 B-cun입니다. 뼈구멍과 정중선 옆 거리로 정하는 혈을 구분합니다."
+    },
+    {
+      "id": "sacrum-lateral",
+      "title": "엉치 · 방광경 가쪽 선",
+      "group": "등·허리·엉치",
+      "points": [
+        {
+          "code": "BL27",
+          "x": 378,
+          "y": 195,
+          "name": "소장수",
+          "path": "acupuncture/points/bl27.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL28",
+          "x": 378,
+          "y": 252,
+          "name": "방광수",
+          "path": "acupuncture/points/bl28-pangguangshu.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL29",
+          "x": 378,
+          "y": 309,
+          "name": "중려수",
+          "path": "acupuncture/points/bl29.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL30",
+          "x": 378,
+          "y": 366,
+          "name": "백환수",
+          "path": "acupuncture/points/bl30.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL53",
+          "x": 436,
+          "y": 252,
+          "name": "포황",
+          "path": "acupuncture/points/bl53.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL54",
+          "x": 436,
+          "y": 366,
+          "name": "질변",
+          "path": "acupuncture/points/bl54.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "소장수·방광수·중려수·백환수는 제1–4뒤엉치뼈구멍과 같은 높이의 정중선 옆 1.5 B-cun입니다. 포황·질변은 제2·4높이의 옆 3 B-cun입니다."
+    },
+    {
+      "id": "thigh-anterior",
+      "title": "넓적다리 앞면·안쪽",
+      "group": "넓적다리·엉덩이",
+      "points": [
+        {
+          "code": "ST31",
+          "x": 378,
+          "y": 165,
+          "name": "비관",
+          "path": "acupuncture/points/st31.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST32",
+          "x": 353,
+          "y": 342,
+          "name": "복토",
+          "path": "acupuncture/points/st32.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST33",
+          "x": 350,
+          "y": 447,
+          "name": "음시",
+          "path": "acupuncture/points/st33.md",
+          "five_shu": false
+        },
+        {
+          "code": "ST34",
+          "x": 349,
+          "y": 482,
+          "name": "양구",
+          "path": "acupuncture/points/st34.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP11",
+          "x": 272,
+          "y": 281,
+          "name": "기문",
+          "path": "acupuncture/points/sp11.md",
+          "five_shu": false
+        },
+        {
+          "code": "SP12",
+          "x": 298,
+          "y": 172,
+          "name": "충문",
+          "path": "acupuncture/points/sp12.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR9",
+          "x": 253,
+          "y": 412,
+          "name": "음포",
+          "path": "acupuncture/points/lr9.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR10",
+          "x": 307,
+          "y": 272,
+          "name": "족오리",
+          "path": "acupuncture/points/lr10.md",
+          "five_shu": false
+        },
+        {
+          "code": "LR11",
+          "x": 310,
+          "y": 237,
+          "name": "음렴",
+          "path": "acupuncture/points/lr11.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "복토·음시·양구는 무릎뼈바닥 위 6·3·2 B-cun입니다. 음포는 위 4 B-cun의 안쪽 두 근육 사이, 음렴·족오리는 기충 아래 2·3 B-cun입니다. 충문은 샅고랑의 넙다리동맥 가쪽입니다."
+    },
+    {
+      "id": "thigh-posterior",
+      "title": "넓적다리 뒷면 · 승부·은문",
+      "group": "넓적다리·엉덩이",
+      "points": [
+        {
+          "code": "BL36",
+          "x": 315,
+          "y": 193,
+          "name": "승부",
+          "path": "acupuncture/points/bl36.md",
+          "five_shu": false
+        },
+        {
+          "code": "BL37",
+          "x": 315,
+          "y": 319,
+          "name": "은문",
+          "path": "acupuncture/points/bl37.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "승부는 볼기주름 중점, 은문은 그 아래 6 B-cun의 두 넙다리 뒤근육 사이입니다. 볼기주름–오금주름을 19 B-cun으로 봅니다."
+    },
+    {
+      "id": "thigh-lateral",
+      "title": "넓적다리 가쪽 · 풍시·중독",
+      "group": "넓적다리·엉덩이",
+      "points": [
+        {
+          "code": "GB31",
+          "x": 339,
+          "y": 323,
+          "name": "풍시",
+          "path": "acupuncture/points/gb31.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB32",
+          "x": 336,
+          "y": 396,
+          "name": "중독",
+          "path": "acupuncture/points/gb32.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB33",
+          "x": 348,
+          "y": 521,
+          "name": "슬양관",
+          "path": "acupuncture/points/gb33.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "풍시는 팔을 늘어뜨렸을 때 가운데손가락 끝이 닿는 장경인대 뒤쪽입니다. 중독은 오금 위 7 B-cun, 슬양관은 가쪽위관절융기 위뒤의 힘줄과 장경인대 사이입니다. 풍시의 높이는 손가락 표지를 우선합니다."
+    },
+    {
+      "id": "hip-landmarks",
+      "title": "엉덩이 · 거료·환도",
+      "group": "넓적다리·엉덩이",
+      "points": [
+        {
+          "code": "GB29",
+          "x": 315,
+          "y": 299,
+          "name": "거료",
+          "path": "acupuncture/points/gb29.md",
+          "five_shu": false
+        },
+        {
+          "code": "GB30",
+          "x": 337,
+          "y": 380,
+          "name": "환도",
+          "path": "acupuncture/points/gb30-huantiao.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "거료는 위앞엉덩뼈가시–큰돌기 선의 중점, 환도는 큰돌기–엉치뼈틈새 선의 가쪽 1/3입니다. 앞·가쪽·뒤 표지를 펼쳐 연결한 관계도이며 실제 취혈 자세는 본문을 확인합니다."
+    },
+    {
+      "id": "upper-lip-frenulum",
+      "title": "윗입술 안쪽 · 은교",
+      "group": "입안·회음",
+      "points": [
+        {
+          "code": "GV28",
+          "x": 320,
+          "y": 320,
+          "name": "은교",
+          "path": "acupuncture/points/gv28.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "은교는 위입술주름띠와 위잇몸이 만나는 지점입니다. 얼굴 바깥의 태단·수구와 다른 면이므로 입안 확대도로 구분합니다."
+    },
+    {
+      "id": "perineal-midline",
+      "title": "회음 · 회음·장강",
+      "group": "입안·회음",
+      "points": [
+        {
+          "code": "CV1",
+          "x": 320,
+          "y": 277.5,
+          "name": "회음",
+          "path": "acupuncture/points/cv1.md",
+          "five_shu": false
+        },
+        {
+          "code": "GV1",
+          "x": 320,
+          "y": 398.5,
+          "name": "장강",
+          "path": "acupuncture/points/gv1.md",
+          "five_shu": false
+        }
+      ],
+      "notes": "회음은 항문과 남성의 음낭 뒤모서리 또는 여성의 뒤 대음순연결 사이 중점입니다. 장강은 항문과 꼬리뼈끝 사이 중점입니다. 성별 해부 형태를 합성한 실물도가 아니라 표지 사이의 관계도입니다."
     }
   ]
 }
