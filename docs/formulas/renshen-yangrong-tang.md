@@ -62,7 +62,22 @@ last_reviewed: 2026-09-06
 
 ## 현대 임상연구 읽기
 
-일본의 표준화된 Ninjin'yoeito 제제를 이용한 임상연구가 축적되고 있습니다.
+일본의 표준화된 Ninjin'yoeito 제제를 이용한 연구에서는 **피로·식욕·근력·보행을 서로 다른 결과로 평가**합니다. 국내 고전 수록본과 연구 제품을 먼저 대조한 뒤, 현재 환자와 가까운 연구를 읽습니다.
+
+### COPD와 노쇠·회복 기능 {#frailty-trials}
+
+| 연구 | 대상·비교 | 확인한 결과 |
+|---|---|---|
+| Hirai 등, 2020 | 65세 이상 노쇠·전노쇠 COPD 환자 68명 배정, 62명 분석. 공개 무작위시험, 24주간 기존 치료와 비교 | 식욕(SNAQ), COPD 건강상태(CAT), 불안·우울 지표는 군 간 개선 차이. 노쇠 체크리스트(KCL)는 유의한 군 간 차이 없음(p=0.09) |
+| Ohbayashi 등, 2024 | 안정적인 GOLD II 이상 COPD와 피로. 53명 완료·분석. 24주 복용군과 처음 12주 미복용 후 12주 복용군 비교 | 첫 12주에 피로와 무릎 폄 근력이 군 간 개선 차이. 보행속도의 군 간 차이는 유의하지 않음 |
+
+2024년 시험은 **KB-108 엑스과립 1일 7.5 g**을 사용했습니다. 이는 연구 제제량이며 국내 탕약의 원약재 중량으로 환산하지 않습니다. 12주 이후에는 두 군 모두 복용하므로, 후반의 복용 전후 변화를 계속 미복용군과 비교한 효과로 읽지 않습니다. 근육량의 하위집단 분석과 악력·보행 등 개별 결과도 구분합니다. [2024년 원문](https://www.dovepress.com/effects-of-ninjinyoeito-on-patients-with-chronic-obstructive-pulmonary-peer-reviewed-fulltext-article-COPD) · [PMID 38737191](https://pubmed.ncbi.nlm.nih.gov/38737191/)
+
+2020년 연구에서는 설사로 감량한 환자가 4명 있었습니다. 두 연구 모두 공개시험이므로 주관적 증상 결과에는 기대와 관찰의 영향이 있을 수 있습니다. COPD에 동반된 허약의 보조치료 자료로 활용하며, 건강한 고령자의 노화 예방이나 모든 근감소증의 치료 효과로 확대하지 않습니다. [2020년 원 논문](https://pubmed.ncbi.nlm.nih.gov/32551796/) · [일본동양의학회 연구 요약, 13쪽](https://www.jsom.or.jp/ebm/ere/file/EKATE_Appendix_2021.pdf#page=13)
+
+식사량·피로가 나아졌다면 [근감소증·노쇠 안내](../conditions/frailty-sarcopenia.md#sarcopenia-formulas)의 일어서기·보행·생활기능도 함께 확인합니다. 다른 피로 처방의 연구 대상은 [인삼 함유 처방 근거](../authority/formulas/ginseng-formula-fatigue.md#formula-specific-evidence)에서 구분합니다.
+
+### 빈혈·항암치료·산후 연구 {#other-clinical-trials}
 
 - 2005년 무작위시험에서는 만성 C형간염 치료 중 리바비린 관련 빈혈을 보조하는 맥락을 탐색했습니다. [PMID 15996025](https://pubmed.ncbi.nlm.nih.gov/15996025/)
 - 2020년 52명 규모의 공개 무작위 2상 연구에서는 대장암 보조항암치료 중 옥살리플라틴 누적 말초신경병증 예방 가능성을 평가했습니다. [PMID 32232692](https://pubmed.ncbi.nlm.nih.gov/32232692/)
