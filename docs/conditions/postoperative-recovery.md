@@ -184,6 +184,14 @@ related_reading:
 
 비위기허와 조기포만·오심이 중심이면 [육군자탕](../formulas/liujunzi-tang.md)·[향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) 계열을 검토할 수 있습니다. 복부 냉감·가스와 장운동 저하에는 [대건중탕](../formulas/dajianzhong-tang.md) 계열이 수술 후 장기능 연구에서 다뤄졌습니다. 장폐색·협착과 지속 구토를 먼저 배제합니다.
 
+| 회복을 막는 불편 | 확인할 자료 |
+|---|---|
+| 위절제 뒤 조기포만·역류·오심 | [육군자탕의 위절제 후 연구](../research/formulas/rikkunshito.md#postgastrectomy-study): 기능성소화불량 연구와 구분 |
+| 음식 정체와 반복 구토, 위배출 지연 | [수술 후 위마비 근거](../authority/conditions/postoperative-gastroparesis.md): 구조적 원인과 영양 상태 확인 |
+| 가스·배변 지연과 복부팽만 | [대건중탕](../formulas/dajianzhong-tang.md)의 수술 후 장기능 연구: 식사 진행·퇴원 여부는 별도 평가 |
+
+연구마다 수술 종류와 회복 단계가 다릅니다. 식사가 조금 편해졌다는 변화와 영양·근력·상처 회복을 함께 확인하며, 식사 재개·확대는 수술팀 지침을 따릅니다.
+
 ### 빈혈·기력·근력이 떨어질 때
 
 식사와 장운동이 안정된 뒤 기혈양허가 뚜렷하면 [보중익기탕](../formulas/buzhong-yiqi-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md)·[인삼양영탕](../formulas/renshen-yangrong-tang.md)·[팔물탕](../formulas/bazhen-tang.md) 등의 보익 원리를 상태에 맞춰 활용할 수 있습니다. 철결핍·B12 부족과 출혈이 있으면 필요한 보충과 원인치료를 함께합니다.
@@ -200,8 +208,8 @@ related_reading:
 
 | 목표 | 치료 방향의 예 |
 |---|---|
-| 오심·구토 | 내관(PC6), 족삼리(ST36) 등 |
-| 장운동·복부팽만 | 족삼리(ST36), 상거허(ST37), 삼음교(SP6) 등 |
+| 오심·구토 | 내관(PC6), 족삼리(ST36) 등 — [PONV 근거](../authority/conditions/postoperative-nausea-vomiting.md) |
+| 장운동·복부팽만 | 족삼리(ST36), 상거허(ST37) 등 — [대장수술 후 전침 RCT](../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial) |
 | 통증·근육 긴장 | 상처를 피한 연관 근육과 원위 혈자리 |
 | 피로·기력 | 족삼리(ST36), 관원(CV4), 삼음교(SP6) 등 |
 | 불면·불안 | 신문(HT7), 내관(PC6), 인당 등 |
