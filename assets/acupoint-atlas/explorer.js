@@ -7,6 +7,33 @@
   function matches(label, code, selected, query) {
     return (!selected || code === selected) && normalize(label).includes(normalize(query));
   }
+  function loadRegion(region) {
+    if (!region.open) return;
+    region.querySelectorAll('object[data-src]').forEach(object => {
+      object.setAttribute('data', object.dataset.src);
+      object.removeAttribute('data-src');
+    });
+  }
+  function initRegions(doc) {
+    doc.querySelectorAll('.acupoint-region').forEach(region => {
+      if (!region.dataset.ready) {
+        region.addEventListener('toggle', () => loadRegion(region));
+        region.dataset.ready = 'true';
+      }
+      loadRegion(region);
+    });
+    revealRegion(doc);
+  }
+  function revealRegion(doc) {
+    const hash = doc.defaultView && doc.defaultView.location.hash;
+    if (!hash || !/^#visual-[a-z0-9-]+$/.test(hash)) return;
+    const anchor = doc.getElementById(hash.slice(1));
+    const region = anchor && anchor.nextElementSibling;
+    if (region && region.matches('details.acupoint-region')) {
+      region.open = true;
+      loadRegion(region);
+    }
+  }
   function init(doc) {
     const controls = doc.getElementById('acupoint-controls');
     if (!controls || controls.dataset.ready) return;
@@ -52,10 +79,12 @@
     });
     controls.dataset.ready = 'true'; controls.hidden = false; update();
   }
-  if (typeof module !== 'undefined' && module.exports) module.exports = {normalize, matches, init};
+  if (typeof module !== 'undefined' && module.exports) module.exports = {normalize, matches, init, initRegions, revealRegion};
   if (typeof document !== 'undefined') {
-    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', () => init(document), {once: true});
-    else init(document);
-    if (typeof document$ !== 'undefined') document$.subscribe(() => init(document));
+    const setup = () => { init(document); initRegions(document); };
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setup, {once: true});
+    else setup();
+    window.addEventListener('hashchange', () => revealRegion(document));
+    if (typeof document$ !== 'undefined') document$.subscribe(setup);
   }
 }());
