@@ -42,6 +42,7 @@ last_reviewed: 2026-09-06
 | 찾고 싶은 것 | 가장 빠른 길 |
 |---|---|
 | 경혈 위치를 그림·이름·코드로 찾기 | [WHO 표준 361경혈 아틀라스](../acupoint-network/standard-atlas.md) |
+| 동씨침법의 부위별 혈자리·도해 찾기 | [동씨침법·동씨기혈 아틀라스](../tung-acupuncture/index.md) |
 | 허리·목·턱·어깨·무릎 등 증상에서 시작 | [통증·증상으로 침구치료 찾기](by-symptom.md) |
 | 경혈 이름·위치·경락을 찾기 | [경혈·경락 찾기](acupoints-meridians.md) |
 | 침·전침·약침·뜸·부항의 차이 | [침구치료 방법 비교](methods.md) |
