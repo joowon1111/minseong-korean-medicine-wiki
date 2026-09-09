@@ -35,9 +35,22 @@ last_reviewed: 2026-08-29
 
 소화·식욕·땀·대변·소변·수면·추위와 더위에 대한 반응처럼 평소 비교적 안정적으로 나타나는 특징을 말합니다. 현재의 급성 증상만 볼 때 놓치기 쉬운 체질적 회복 양상을 파악하는 데 중요합니다.
 
+〈사상인변증론〉의 **“少陽人 大便善通則 完實而無病”**, **“少陰人 飮食善化則 完實而無病”**는 각각 소양인의 편안한 배변과 소음인의 원활한 음식 소화를 건강상태를 읽는 중요한 단서로 제시한 구절입니다. 현대어로는 ‘평소 잘 유지되어야 할 기능이 무엇인가’를 묻는 것으로 풀어 읽을 수 있습니다. 배변이나 소화 한 항목이 정상이라는 이유로 다른 질환이 없다고 판정하는 문장은 아닙니다. [신축본 인용 조문을 다룬 연구](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART002801984)
+
+| 관찰 항목 | 평소 소증 | 현재 병증·치료 뒤 변화 |
+|---|---|---|
+| 소화·식욕 | 식사량, 식후 편안함, 원래 잘 체하는지 | 섭취량 감소, 새로 생긴 구역·복통, 식후 활동 가능 여부 |
+| 대변·소변 | 원래 횟수·형태, 배변 뒤 느낌, 야간뇨 | 설사·변비의 시작, 배뇨량 변화, 갈증과 수분 섭취 |
+| 땀·한열 | 더위·추위 반응, 땀 뒤 개운함이나 피로 | 새로 생긴 발열·오한·식은땀, 활동 뒤 탈진 |
+| 수면·기력 | 잠드는 양상, 중간 각성, 평소 활동량 | 새로 생긴 불면·졸림, 아침 회복감, 보행·업무 수행 |
+
+오래된 특징과 새로 생긴 증상을 나누어 기록하면 [소증별 탐색](../sasang-symptoms/index.md)에서 [치료 경과관찰](../sasang-followup/index.md)까지 같은 기준으로 이어갈 수 있습니다.
+
 ### 표리·순역·경중 {#_7}
 
-같은 체질에서도 병이 표에 있는지 리에 있는지, 회복 방향인지 악화 방향인지, 병의 깊이와 정기 손상 정도가 어떤지에 따라 치료가 달라집니다.
+**표리**는 각 체질의 병리 구조에 따른 병증 분류이고, **순역**은 해당 체질의 보명지주가 손상되는 양상 등을 반영하는 병증 구분입니다. 순증을 단순히 ‘좋아지는 중’, 역증을 ‘나빠지는 중’으로 바꾸어 읽지는 않습니다. 여기에 **경중험위**와 실제 활력징후·섭취·배설·기능 상태를 함께 평가합니다.
+
+소양인의 비수한표한병에서는 소양상풍병과 망음병을 구분합니다. 소양상풍병의 결흉 방향에서 보는 [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md)과, 망음병에서 신열·두통·설사 양상을 함께 살피는 [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md)은 모두 ‘형방계 표병 처방’이라고 묶어 교환하는 관계가 아닙니다. [소양상풍병 진료지침(2014)](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) · [망음병 진료지침(2014)](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062)
 
 ## 체질과 병증에서 치료로 {#_8}
 
@@ -45,7 +58,28 @@ last_reviewed: 2026-08-29
 
 [동의보감](donguibogam.md)의 종합 병증 체계나 [경악전서](jingyue-quanshu.md)의 음양·허손 관점과 비교할 때에도, 여기서는 장부·소증·체질별 병증이라는 분류에서 출발한다는 점을 구별합니다. 구체적인 병증 구분은 [사상체질 병증](../sasang/disease-patterns.md)에서 이어 볼 수 있습니다.
 
+### 네 체질의 병론에서 기존 처방으로 {#clinical-routes}
+
+다음 표는 신축본의 병론 체계를 따라 기존 자료를 찾는 색인입니다. 개별 처방 카드의 용량은 후대 수록본 기준인 경우가 있으므로 원전과 후대 제형을 구분해서 읽습니다.
+
+| 체질·병론 | 읽어야 할 병증과 치법의 방향 | 기존 임상·처방 연결 |
+|---|---|---|
+| 소양인 비수한표한병 | 소양상풍·망음의 구분, 표음과 진액 상태, 두통·한열·흉격·배설의 조합 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
+| 소양인 위수열리열병 | 흉격열·소갈·음허오열 등의 구분, 청열과 음액 보존의 비중 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) · [소양인 병증](../sasang-integrated/soyangin.md) |
+| 태음인 위완수한표한병 | 표한과 위완한·폐조의 비중, 섭취·호흡·발한의 회복 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [표한 처방군](../sasang-formula-library/taeeumin-exterior-cold.md) |
+| 태음인 간수열리열병 | 간열·폐조, 갈증·피부와 대변의 건조, 청열과 조증의 조절 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) |
+| 소음인 신수열표열병·위수한리한병 | 표열의 울광·망양과 리한의 태음·소음병을 나누고 땀·소화·설사·기력 확인 | [소음인 병증](../sasang-integrated/soeumin.md) · [리한·태음병 처방군](../sasang-formula-library/soeumin-taeeum.md) · [망양 처방군](../sasang-formula-library/soeumin-mangyang.md) |
+| 태양인 외감요척병·내촉소장병 | 해역의 요척·하지 기능과 열격의 섭취·연하 문제를 구분 | [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) · [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md) |
+
+본초는 해당 체질 처방 안에서의 배합으로 읽습니다. 형방도적산의 [전호](../herbs/peucedanum-root.md)·[현삼](../herbs/scrophularia.md), 형방계의 [형개](../herbs/schizonepeta.md)·[방풍](../herbs/saposhnikovia.md)을 따라가되, 개별 본초 효능을 체질 진단이나 처방 전체의 효과와 동일시하지 않습니다.
+
 처방은 체질명 하나에 자동으로 대응하지 않습니다. 같은 체질이라도 병증 단계가 다르면 처방이 달라질 수 있고, 소화·땀·대변·수면·기력과 주증의 변화를 보며 치료 방향을 재평가합니다.
+
+### 현대 진료지침과 연구로 이어 읽기 {#modern-evidence}
+
+[사상체질병증 한의표준임상진료지침(2022)](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14)은 체질병증의 진단·치료·예방·관리를 다루며, 체질 자체를 판정하는 진단은 범위에서 제외합니다. 원전의 분류를 확인한 뒤 현재 병증에 해당하는 권고와 근거수준을 따로 읽습니다.
+
+[사상의학 근거·출전](../sasang-integrated/evidence.md)에서는 원전·후대 경험·CPG·임상연구의 역할을 구분합니다. 실제 임상시험의 예는 [태음조위탕 카드의 체중관리 연구](../sasang-formula-cards/taeeumjowi-tang.md#immune-weight-care)에서 볼 수 있습니다. 시험한 제제·대상·평가지표를 확인해야 하며, 한 처방의 결과를 네 체질 전체나 동명 고전 처방에 일괄 적용하지 않습니다.
 
 ## 자가 체질판정에 대한 주의 {#_9}
 
