@@ -28,7 +28,9 @@
     const hash = doc.defaultView && doc.defaultView.location.hash;
     if (!hash || !/^#visual-[a-z0-9-]+$/.test(hash)) return;
     const anchor = doc.getElementById(hash.slice(1));
-    const region = anchor && anchor.nextElementSibling;
+    // Markdown wraps a standalone span anchor in a paragraph.
+    const container = anchor && anchor.parentElement && anchor.parentElement.tagName === 'P' ? anchor.parentElement : anchor;
+    const region = container && container.nextElementSibling;
     if (region && region.matches('details.acupoint-region')) {
       region.open = true;
       loadRegion(region);
