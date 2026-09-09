@@ -481,6 +481,25 @@ nav:
 - 침구·치료:
   - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
   - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
+  - 경락·경맥 한눈에 보기: meridian-network/index.md
+  - 십이경맥 · 몸에서 지나가는 길:
+    - 폐경 LU · 가슴 → 엄지: meridian-network/lung-meridian.md
+    - 대장경 LI · 검지 → 코 옆: meridian-network/large-intestine-meridian.md
+    - 위경 ST · 눈 아래 → 둘째발가락: meridian-network/stomach-meridian.md
+    - 비경 SP · 엄지발가락 → 옆가슴: meridian-network/spleen-meridian.md
+    - 심경 HT · 겨드랑이 → 새끼손가락: meridian-network/heart-meridian.md
+    - 소장경 SI · 새끼손가락 → 귀 앞: meridian-network/small-intestine-meridian.md
+    - 방광경 BL · 눈 안쪽 → 새끼발가락: meridian-network/bladder-meridian.md
+    - 신경 KI · 발바닥 → 빗장뼈 아래: meridian-network/kidney-meridian.md
+    - 심포경 PC · 가슴 → 가운데손가락: meridian-network/pericardium-meridian.md
+    - 삼초경 TE · 넷째손가락 → 눈썹 가쪽: meridian-network/triple-energizer-meridian.md
+    - 담경 GB · 눈 가쪽 → 넷째발가락: meridian-network/gallbladder-meridian.md
+    - 간경 LR · 엄지발가락 → 갈비부위: meridian-network/liver-meridian.md
+  - 임맥·독맥·기경팔맥:
+    - 임맥 CV · 몸 앞 정중선: meridian-network/conception-vessel.md
+    - 독맥 GV · 등에서 머리로: meridian-network/governing-vessel.md
+    - 기경팔맥 전체: meridian-network/extraordinary-vessels.md
+  - 특정혈·배혈 원리: meridian-network/special-points/index.md
   - 통증·증상으로 찾기: acupuncture-integrated/by-symptom.md
   - 경혈·경락 찾기: acupuncture-integrated/points-meridians.md
   - 침·전침·약침·뜸·부항: acupuncture-integrated/modalities.md
@@ -532,26 +551,6 @@ nav:
     - 경혈 임상 지식망:
       - acupoint-network/index.md
       - 증상별 경혈 지도: acupoint-network/by-condition.md
-    - 경락·경맥 지식망:
-      - meridian-network/index.md
-      - 십이경맥:
-        - 폐경 LU: meridian-network/lung-meridian.md
-        - 대장경 LI: meridian-network/large-intestine-meridian.md
-        - 위경 ST: meridian-network/stomach-meridian.md
-        - 비경 SP: meridian-network/spleen-meridian.md
-        - 심경 HT: meridian-network/heart-meridian.md
-        - 소장경 SI: meridian-network/small-intestine-meridian.md
-        - 방광경 BL: meridian-network/bladder-meridian.md
-        - 신경 KI: meridian-network/kidney-meridian.md
-        - 심포경 PC: meridian-network/pericardium-meridian.md
-        - 삼초경 TE: meridian-network/triple-energizer-meridian.md
-        - 담경 GB: meridian-network/gallbladder-meridian.md
-        - 간경 LR: meridian-network/liver-meridian.md
-      - 임맥·독맥·기경팔맥:
-        - 임맥 CV: meridian-network/conception-vessel.md
-        - 독맥 GV: meridian-network/governing-vessel.md
-        - 기경팔맥 전체: meridian-network/extraordinary-vessels.md
-      - 특정혈·배혈 원리: meridian-network/special-points/index.md
     - 침구·치료 임상 심화:
       - acupuncture-clinical/index.md
       - 치료 강도·빈도·경과: acupuncture-clinical/dose-followup.md

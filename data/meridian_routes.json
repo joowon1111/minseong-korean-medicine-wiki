@@ -1,0 +1,837 @@
+{
+  "description": "십이경맥과 임맥·독맥의 체표 주행을 보여주는 교육용 개요. 정확한 혈위는 기존 361경혈 도해에 연결. 내부 유주는 본문에서 별도로 설명.",
+  "routes": [
+    {
+      "code": "LU",
+      "path": "meridian-network/lung-meridian.md",
+      "title": "수태음폐경",
+      "short": "가슴 → 엄지",
+      "view": "front",
+      "summary": "가슴 위쪽 → 팔 안쪽의 엄지 쪽 → 팔꿈치 → 손목 → 엄지",
+      "stations": [
+        "가슴 위쪽: 중부·운문",
+        "위팔 안쪽: 팔꿈치로 내려감",
+        "손목 앞면: 엄지 쪽 맥박 부위",
+        "엄지 두덩을 지나 엄지 끝"
+      ],
+      "points": [
+        {
+          "code": "LU1",
+          "x": 210,
+          "y": 242,
+          "name": "중부",
+          "path": "acupuncture/points/lu1-zhongfu.md"
+        },
+        {
+          "code": "LU5",
+          "x": 157,
+          "y": 349,
+          "name": "척택",
+          "path": "acupuncture/points/lu5-chize.md"
+        },
+        {
+          "code": "LU9",
+          "x": 125,
+          "y": 469,
+          "name": "태연",
+          "path": "acupuncture/points/lu9-taiyuan.md"
+        },
+        {
+          "code": "LU11",
+          "x": 140,
+          "y": 517,
+          "name": "소상",
+          "path": "acupuncture/points/lu11.md"
+        }
+      ],
+      "tracks": [
+        "M210 242 L207 227 Q189 254 178 283 L157 349",
+        "M157 349 L143 400 L125 469",
+        "M125 469 L131 495 L140 517"
+      ],
+      "note": "팔의 앞면을 보며 엄지 쪽을 따라 내려갑니다. 몸 안의 기시는 중초이고, 체표의 첫 혈은 중부입니다.",
+      "branch": "고전은 중초에서 대장을 연락한 뒤 위구·횡격막·폐로 올라오는 내부 경로를 설명합니다. 손목 뒤에서 갈라진 가지는 검지로 이어져 대장경과 연결됩니다.",
+      "first": "LU1",
+      "last": "LU11"
+    },
+    {
+      "code": "LI",
+      "path": "meridian-network/large-intestine-meridian.md",
+      "title": "수양명대장경",
+      "short": "검지 → 코 옆",
+      "view": "front",
+      "summary": "검지 → 손등의 엄지·검지 사이 → 팔 바깥쪽 → 어깨 → 목·입 주위 → 반대쪽 코 옆",
+      "stations": [
+        "검지에서 손등으로 올라감",
+        "팔꿈치 바깥과 어깨 앞을 지남",
+        "목·볼을 지나 입 주위로",
+        "인중에서 교차해 반대쪽 코 옆"
+      ],
+      "points": [
+        {
+          "code": "LI1",
+          "x": 113,
+          "y": 550,
+          "name": "상양",
+          "path": "acupuncture/points/li1.md"
+        },
+        {
+          "code": "LI4",
+          "x": 117,
+          "y": 504,
+          "name": "합곡",
+          "path": "acupuncture/points/li4-hegu.md"
+        },
+        {
+          "code": "LI11",
+          "x": 157,
+          "y": 349,
+          "name": "곡지",
+          "path": "acupuncture/points/li11-quchi.md"
+        },
+        {
+          "code": "LI15",
+          "x": 186,
+          "y": 249,
+          "name": "견우",
+          "path": "acupuncture/points/li15-jianyu.md"
+        },
+        {
+          "code": "LI20",
+          "x": 285,
+          "y": 146,
+          "name": "영향",
+          "path": "acupuncture/points/li20-yingxiang.md"
+        }
+      ],
+      "tracks": [
+        "M113 550 L117 504 L124 469 L143 399 L157 349",
+        "M157 349 L172 299 L186 249 L214 233",
+        "M214 233 L236 215 L245 181 L253 157 L270 157 L285 146"
+      ],
+      "note": "손등·팔 바깥면을 펼쳐 보여줍니다. 얼굴에서는 좌우가 교차하므로 출발한 손과 반대쪽 코 옆으로 이어집니다.",
+      "branch": "빗장위오목에서 폐를 연락하고 횡격막을 지나 대장에 속하는 내부 가지가 있습니다. 얼굴 가지는 아래 치아와 입 주위를 거치며, 영향 부근에서 위경의 안면부 연결을 함께 읽습니다.",
+      "first": "LI1",
+      "last": "LI20"
+    },
+    {
+      "code": "ST",
+      "path": "meridian-network/stomach-meridian.md",
+      "title": "족양명위경",
+      "short": "눈 아래 → 둘째발가락",
+      "view": "front",
+      "summary": "눈 아래 → 코·입·턱과 이마 가지 → 목 → 가슴·배 → 넓적다리 앞 → 종아리 앞가쪽 → 둘째발가락",
+      "stations": [
+        "눈 아래에서 턱·얼굴 가지 확인",
+        "가슴은 정중선 옆, 배는 더 안쪽",
+        "넓적다리·무릎의 앞면",
+        "종아리 앞가쪽을 지나 둘째발가락"
+      ],
+      "points": [
+        {
+          "code": "ST1",
+          "x": 254,
+          "y": 141,
+          "name": "승읍",
+          "path": "acupuncture/points/st1.md"
+        },
+        {
+          "code": "ST8",
+          "x": 238,
+          "y": 106,
+          "name": "두유",
+          "path": "acupuncture/points/st8.md"
+        },
+        {
+          "code": "ST25",
+          "x": 241,
+          "y": 382,
+          "name": "천추",
+          "path": "acupuncture/points/st25-tianshu.md"
+        },
+        {
+          "code": "ST36",
+          "x": 216,
+          "y": 553,
+          "name": "족삼리",
+          "path": "acupuncture/points/st36-zusanli.md"
+        },
+        {
+          "code": "ST45",
+          "x": 219,
+          "y": 716,
+          "name": "여태",
+          "path": "acupuncture/points/st45.md"
+        }
+      ],
+      "tracks": [
+        "M254 141 L253 151 L250 160 L239 171 L231 159 L232 139 L238 106",
+        "M239 171 L243 215 L218 240 L218 311 L241 343 L241 382 L241 453",
+        "M241 453 L221 485 L217 530 L216 553 L213 654 L219 716"
+      ],
+      "note": "얼굴의 올라가는 가지와 몸통·다리로 내려가는 가지를 나눕니다. 체표 첫 혈 승읍과 고전 유주의 코 부근 기시는 구별합니다.",
+      "branch": "목에서 빗장위오목·횡격막을 지나 위에 속하고 비를 연락하는 내부 경로가 있습니다. 아래다리와 발등에서 갈라지는 발가락 가지도 있으며, 엄지발가락 쪽 연결은 비경으로 이어집니다.",
+      "first": "ST1",
+      "last": "ST45"
+    },
+    {
+      "code": "SP",
+      "path": "meridian-network/spleen-meridian.md",
+      "title": "족태음비경",
+      "short": "엄지발가락 → 옆가슴",
+      "view": "front",
+      "summary": "엄지발가락 → 발 안쪽 → 안쪽 발목 앞 → 종아리·넓적다리 안쪽 → 배 가쪽 → 가슴·옆가슴",
+      "stations": [
+        "엄지발가락 안쪽에서 시작",
+        "발목·무릎의 안쪽을 올라감",
+        "배에서는 정중선보다 가쪽",
+        "가슴으로 올라간 뒤 대포는 옆가슴"
+      ],
+      "points": [
+        {
+          "code": "SP1",
+          "x": 239,
+          "y": 718,
+          "name": "은백",
+          "path": "acupuncture/points/sp1.md"
+        },
+        {
+          "code": "SP6",
+          "x": 239,
+          "y": 635,
+          "name": "삼음교",
+          "path": "acupuncture/points/sp6-sanyinjiao.md"
+        },
+        {
+          "code": "SP9",
+          "x": 240,
+          "y": 546,
+          "name": "음릉천",
+          "path": "acupuncture/points/sp9-yinlingquan.md"
+        },
+        {
+          "code": "SP15",
+          "x": 199,
+          "y": 382,
+          "name": "대횡",
+          "path": "acupuncture/points/sp15.md"
+        },
+        {
+          "code": "SP21",
+          "x": 188,
+          "y": 305,
+          "name": "대포",
+          "path": "acupuncture/points/sp21.md"
+        }
+      ],
+      "tracks": [
+        "M239 718 L239 683 L239 635 L240 546",
+        "M240 546 L239 520 L245 459 L212 427 L199 382 L190 340 L194 258",
+        "M194 258 Q175 275 188 305"
+      ],
+      "note": "체표 혈위의 마지막은 옆가슴 대포입니다. 고전의 혀뿌리·혀 아래 연결과 심으로 가는 가지는 본문에서 따로 읽습니다.",
+      "branch": "엄지발가락에서 다리 안쪽으로 올라가며 하퇴에서 간경과 앞뒤 관계가 바뀝니다. 비에 속하고 위를 연락한 뒤 횡격막·인후·혀뿌리와 연결되고, 위에서 갈라진 가지는 심으로 올라갑니다.",
+      "first": "SP1",
+      "last": "SP21"
+    },
+    {
+      "code": "HT",
+      "path": "meridian-network/heart-meridian.md",
+      "title": "수소음심경",
+      "short": "겨드랑이 → 새끼손가락",
+      "view": "front",
+      "summary": "겨드랑이 → 위팔·아래팔 안쪽의 새끼손가락 쪽 → 손목 → 손바닥 → 새끼손가락",
+      "stations": [
+        "겨드랑 중심에서 체표 혈위 시작",
+        "팔 안쪽의 뒤쪽 가장자리",
+        "손목의 새끼손가락 쪽",
+        "손바닥을 지나 새끼손가락 끝"
+      ],
+      "points": [
+        {
+          "code": "HT1",
+          "x": 195,
+          "y": 264,
+          "name": "극천",
+          "path": "acupuncture/points/ht1.md"
+        },
+        {
+          "code": "HT3",
+          "x": 178,
+          "y": 351,
+          "name": "소해",
+          "path": "acupuncture/points/ht3-shaohai.md"
+        },
+        {
+          "code": "HT7",
+          "x": 145,
+          "y": 474,
+          "name": "신문",
+          "path": "acupuncture/points/ht7-shenmen.md"
+        },
+        {
+          "code": "HT9",
+          "x": 82,
+          "y": 548,
+          "name": "소충",
+          "path": "acupuncture/points/ht9.md"
+        }
+      ],
+      "tracks": [
+        "M195 264 L186 298 L178 351",
+        "M178 351 L163 414 L145 474",
+        "M145 474 L126 510 L82 548"
+      ],
+      "note": "폐경의 엄지 쪽과 반대되는 새끼손가락 쪽 흐름을 봅니다. 심중은 내부 기시, 극천은 체표 첫 혈입니다.",
+      "branch": "심에서 심계·횡격막을 거쳐 소장을 연락하는 내부 경로와, 인후·눈의 계통으로 올라가는 가지가 있습니다. 체표로 나온 경로는 겨드랑이에서 팔 안쪽을 따라 소충까지 이어집니다.",
+      "first": "HT1",
+      "last": "HT9"
+    },
+    {
+      "code": "SI",
+      "path": "meridian-network/small-intestine-meridian.md",
+      "title": "수태양소장경",
+      "short": "새끼손가락 → 귀 앞",
+      "view": "back",
+      "summary": "새끼손가락 → 손·팔의 새끼손가락 쪽 뒤면 → 팔꿈치 → 어깨뼈 → 목·광대 → 귀 앞",
+      "stations": [
+        "손의 새끼손가락 쪽에서 시작",
+        "팔 뒤쪽을 따라 어깨로",
+        "어깨뼈 주위를 돌아 목으로",
+        "얼굴 쪽 광대를 거쳐 귀 앞"
+      ],
+      "points": [
+        {
+          "code": "SI1",
+          "x": 458,
+          "y": 548,
+          "name": "소택",
+          "path": "acupuncture/points/si1.md"
+        },
+        {
+          "code": "SI3",
+          "x": 419,
+          "y": 509,
+          "name": "후계",
+          "path": "acupuncture/points/si3-houxi.md"
+        },
+        {
+          "code": "SI8",
+          "x": 379,
+          "y": 349,
+          "name": "소해",
+          "path": "acupuncture/points/si8.md"
+        },
+        {
+          "code": "SI11",
+          "x": 312,
+          "y": 289,
+          "name": "천종",
+          "path": "acupuncture/points/si11-tianzong.md"
+        },
+        {
+          "code": "SI19",
+          "x": 314,
+          "y": 143,
+          "name": "청궁",
+          "path": "acupuncture/points/si19.md"
+        }
+      ],
+      "tracks": [
+        "M458 548 L419 509 L407 470 L391 407 L379 349 L355 269",
+        "M355 269 L339 252 L312 289 L316 247 L293 228",
+        "M293 228 L302 199 L310 165 L314 143"
+      ],
+      "note": "등쪽에서 본 흐름이며 끝의 청궁은 얼굴 쪽 귀 앞에 있습니다. 어깨뼈를 도는 경로를 단순한 팔 직선과 구별합니다.",
+      "branch": "빗장위오목에서 심을 연락하고 인후·횡격막·위를 거쳐 소장에 속합니다. 얼굴에서는 광대에서 눈 안쪽으로 가는 가지가 방광경과 연결되며, 귀 앞의 마지막 체표 혈위 청궁과 구별합니다.",
+      "first": "SI1",
+      "last": "SI19"
+    },
+    {
+      "code": "BL",
+      "path": "meridian-network/bladder-meridian.md",
+      "title": "족태양방광경",
+      "short": "눈 안쪽 → 새끼발가락",
+      "view": "back",
+      "summary": "눈 안쪽 → 이마·정수리·뒤통수 → 척추 양옆 두 줄 → 엉덩이·허벅지 뒤 → 오금·종아리 → 가쪽 발목 → 새끼발가락",
+      "stations": [
+        "얼굴의 눈 안쪽에서 머리 위로",
+        "등에서는 척추 양옆 두 줄",
+        "엉덩이·다리 뒤에서 오금으로 합류",
+        "가쪽 발목 뒤를 지나 새끼발가락"
+      ],
+      "points": [
+        {
+          "code": "BL1",
+          "x": 712,
+          "y": 135,
+          "name": "정명",
+          "path": "acupuncture/points/bl1.md"
+        },
+        {
+          "code": "BL10",
+          "x": 292,
+          "y": 207,
+          "name": "천주",
+          "path": "acupuncture/points/bl10-tianzhu.md"
+        },
+        {
+          "code": "BL23",
+          "x": 294,
+          "y": 383,
+          "name": "신수",
+          "path": "acupuncture/points/bl23-shenshu.md"
+        },
+        {
+          "code": "BL40",
+          "x": 313,
+          "y": 541,
+          "name": "위중",
+          "path": "acupuncture/points/bl40-weizhong.md"
+        },
+        {
+          "code": "BL60",
+          "x": 330,
+          "y": 683,
+          "name": "곤륜",
+          "path": "acupuncture/points/bl60-kunlun.md"
+        },
+        {
+          "code": "BL67",
+          "x": 340,
+          "y": 716,
+          "name": "지음",
+          "path": "acupuncture/points/bl67.md"
+        }
+      ],
+      "tracks": [
+        "M280 83 Q303 103 297 149 L292 207",
+        "M292 207 L294 280 L294 383 L296 440 L310 473 L313 541",
+        "M292 219 L323 249 L329 385 L338 453 L332 484 L313 541",
+        "M313 541 L315 601 L325 653 L330 683 L340 716"
+      ],
+      "note": "왼쪽 큰 그림은 뒷면, 오른쪽 작은 얼굴은 시작혈입니다. 등 두 줄기는 오금에서 합류하며 혈번호대로 한 줄을 왕복하는 그림이 아닙니다.",
+      "branch": "정수리에서 귀 위로 가는 가지와 뇌에 연락하는 전통적 설명이 있습니다. 허리에서 신을 연락하고 방광에 속하며, 체표의 안팎 두 줄기는 엉덩이와 다리 뒤를 거쳐 오금에서 만납니다.",
+      "first": "BL1",
+      "last": "BL67"
+    },
+    {
+      "code": "KI",
+      "path": "meridian-network/kidney-meridian.md",
+      "title": "족소음신경",
+      "short": "발바닥 → 빗장뼈 아래",
+      "view": "front",
+      "summary": "발바닥 → 안쪽 발목 뒤·발꿈치 → 다리 안쪽 뒤편 → 하복부 정중선 가까이 → 가슴 → 빗장뼈 아래",
+      "stations": [
+        "발바닥 용천에서 체표 혈위 시작",
+        "안쪽 발목 뒤와 다리 안쪽",
+        "배는 정중선 가까운 줄",
+        "가슴에서 조금 벌어져 빗장뼈 아래"
+      ],
+      "points": [
+        {
+          "code": "KI1",
+          "x": 223,
+          "y": 701,
+          "name": "용천",
+          "path": "acupuncture/points/ki1-yongquan.md"
+        },
+        {
+          "code": "KI3",
+          "x": 242,
+          "y": 683,
+          "name": "태계",
+          "path": "acupuncture/points/ki3-taixi.md"
+        },
+        {
+          "code": "KI10",
+          "x": 251,
+          "y": 541,
+          "name": "음곡",
+          "path": "acupuncture/points/ki10.md"
+        },
+        {
+          "code": "KI16",
+          "x": 263,
+          "y": 382,
+          "name": "황수",
+          "path": "acupuncture/points/ki16.md"
+        },
+        {
+          "code": "KI27",
+          "x": 243,
+          "y": 235,
+          "name": "수부",
+          "path": "acupuncture/points/ki27.md"
+        }
+      ],
+      "tracks": [
+        "M223 701 L236 707 L242 683 L245 666 L244 644 L247 588 L251 541",
+        "M251 541 L251 480 L262 454 L263 382 L263 329",
+        "M263 329 L243 310 L243 235"
+      ],
+      "note": "발바닥 표면은 펼쳐 표시했습니다. 신경의 신은 腎이며, 말초신경을 뜻하는 神經과 다른 이름입니다.",
+      "branch": "고전은 새끼발가락 아래에서 발바닥으로 비스듬히 가는 기시를 말합니다. 다리 안쪽 뒤를 올라 척추를 관통해 신에 속하고 방광을 연락하며, 간·횡격막·폐·인후·혀뿌리 및 심·흉중으로 연결되는 내부 가지를 설명합니다.",
+      "first": "KI1",
+      "last": "KI27"
+    },
+    {
+      "code": "PC",
+      "path": "meridian-network/pericardium-meridian.md",
+      "title": "수궐음심포경",
+      "short": "가슴 → 가운데손가락",
+      "view": "front",
+      "summary": "가슴 → 위팔 안쪽 중앙 → 팔꿈치 앞 → 아래팔 두 힘줄 사이 → 손바닥 중앙 → 가운데손가락",
+      "stations": [
+        "가슴 가쪽 천지에서 체표 시작",
+        "팔 안쪽에서 폐경·심경 사이",
+        "아래팔 앞면의 두 힘줄 사이",
+        "손바닥 중앙을 지나 가운데손가락"
+      ],
+      "points": [
+        {
+          "code": "PC1",
+          "x": 211,
+          "y": 284,
+          "name": "천지",
+          "path": "acupuncture/points/pc1.md"
+        },
+        {
+          "code": "PC3",
+          "x": 168,
+          "y": 351,
+          "name": "곡택",
+          "path": "acupuncture/points/pc3.md"
+        },
+        {
+          "code": "PC6",
+          "x": 138,
+          "y": 441,
+          "name": "내관",
+          "path": "acupuncture/points/pc6-neiguan.md"
+        },
+        {
+          "code": "PC8",
+          "x": 112,
+          "y": 512,
+          "name": "노궁",
+          "path": "acupuncture/points/pc8.md"
+        },
+        {
+          "code": "PC9",
+          "x": 107,
+          "y": 562,
+          "name": "중충",
+          "path": "acupuncture/points/pc9.md"
+        }
+      ],
+      "tracks": [
+        "M211 284 L194 263 L181 299 L168 351",
+        "M168 351 L151 402 L138 441 L132 476",
+        "M132 476 L112 512 L107 562"
+      ],
+      "note": "팔 안쪽 세 경맥 중 가운데 흐름입니다. 가슴의 천지에서 시작하는 체표 혈위와 흉중의 내부 기시는 구분합니다.",
+      "branch": "흉중에서 심포락에 속하고 횡격막 아래 삼초를 연락합니다. 손바닥에서 갈라진 가지가 넷째손가락으로 이어져 삼초경과 연결되므로 중충 이후를 설명하는 가지도 함께 읽습니다.",
+      "first": "PC1",
+      "last": "PC9"
+    },
+    {
+      "code": "TE",
+      "path": "meridian-network/triple-energizer-meridian.md",
+      "title": "수소양삼초경",
+      "short": "넷째손가락 → 눈썹 가쪽",
+      "view": "back",
+      "summary": "넷째손가락 → 손등 → 아래팔 뼈 사이 → 팔꿈치 뒤 → 어깨·목 → 귀 뒤·귀 앞 → 눈썹 가쪽",
+      "stations": [
+        "넷째손가락과 손등에서 시작",
+        "아래팔 뒷면의 두 뼈 사이",
+        "팔꿈치 뒤에서 어깨·목으로",
+        "귀 주위를 돌아 눈썹 가쪽"
+      ],
+      "points": [
+        {
+          "code": "TE1",
+          "x": 438,
+          "y": 554,
+          "name": "관충",
+          "path": "acupuncture/points/te1.md"
+        },
+        {
+          "code": "TE5",
+          "x": 400,
+          "y": 440,
+          "name": "외관",
+          "path": "acupuncture/points/te5-waiguan.md"
+        },
+        {
+          "code": "TE10",
+          "x": 369,
+          "y": 350,
+          "name": "천정",
+          "path": "acupuncture/points/te10.md"
+        },
+        {
+          "code": "TE17",
+          "x": 316,
+          "y": 165,
+          "name": "예풍",
+          "path": "acupuncture/points/te17-yifeng.md"
+        },
+        {
+          "code": "TE23",
+          "x": 304,
+          "y": 125,
+          "name": "사죽공",
+          "path": "acupuncture/points/te23.md"
+        }
+      ],
+      "tracks": [
+        "M438 554 L419 509 L410 472 L400 440 L383 398 L369 350",
+        "M369 350 L351 294 L347 247 L307 221 L306 198 L316 165",
+        "M316 165 Q337 130 315 108 Q293 114 310 143 L304 125"
+      ],
+      "note": "팔 뒷면의 경로와 귀를 도는 가지를 펼친 개요입니다. 사죽공은 얼굴 쪽 눈썹 끝이므로 귀 앞면과 함께 확인합니다.",
+      "branch": "빗장위오목에서 흉중에 퍼지고 심포를 연락하며 횡격막 아래 삼초에 속합니다. 목에서 귀 뒤로 올라간 가지와 귀 안·귀 앞으로 나오는 가지가 눈 가쪽에서 담경과 이어집니다.",
+      "first": "TE1",
+      "last": "TE23"
+    },
+    {
+      "code": "GB",
+      "path": "meridian-network/gallbladder-meridian.md",
+      "title": "족소양담경",
+      "short": "눈 가쪽 → 넷째발가락",
+      "view": "side",
+      "summary": "눈 가쪽 → 관자놀이·귀 주위·뒤통수 → 목·어깨 → 옆가슴·옆구리 → 엉덩이·다리 바깥 → 넷째발가락",
+      "stations": [
+        "머리 옆면에서 앞뒤로 굽이침",
+        "목·어깨를 지나 몸통 옆면",
+        "엉덩이·무릎·종아리의 바깥쪽",
+        "가쪽 발목 앞에서 넷째발가락"
+      ],
+      "points": [
+        {
+          "code": "GB1",
+          "x": 248,
+          "y": 131,
+          "name": "동자료",
+          "path": "acupuncture/points/gb1.md"
+        },
+        {
+          "code": "GB20",
+          "x": 307,
+          "y": 192,
+          "name": "풍지(風池)",
+          "path": "acupuncture/points/gb20-fengchi.md"
+        },
+        {
+          "code": "GB30",
+          "x": 303,
+          "y": 450,
+          "name": "환도",
+          "path": "acupuncture/points/gb30-huantiao.md"
+        },
+        {
+          "code": "GB34",
+          "x": 295,
+          "y": 548,
+          "name": "양릉천",
+          "path": "acupuncture/points/gb34-yanglingquan.md"
+        },
+        {
+          "code": "GB44",
+          "x": 266,
+          "y": 716,
+          "name": "족규음",
+          "path": "acupuncture/points/gb44.md"
+        }
+      ],
+      "tracks": [
+        "M248 131 L277 116 Q278 88 298 96 L312 118 L307 171 Q321 149 316 105 Q294 72 270 99 L263 117 Q279 80 300 82 L320 124 L307 192",
+        "M307 192 L310 222 L289 262 L278 318 L294 361 L284 409 L303 450",
+        "M303 450 L296 500 L295 548 L293 613 L291 683 L266 716"
+      ],
+      "note": "몸의 옆면을 봅니다. 머리의 굽이치는 경로는 개요이며 풍지·양릉천 등 상세 위치는 경혈 도해로 확인합니다.",
+      "branch": "귀 안으로 들어갔다 나오는 가지, 아래턱과 목에서 빗장위오목으로 합류하는 가지가 있습니다. 가슴 안에서 간을 연락하고 담에 속하며, 발등에서는 엄지발가락 쪽 가지가 간경에 이어집니다.",
+      "first": "GB1",
+      "last": "GB44"
+    },
+    {
+      "code": "LR",
+      "path": "meridian-network/liver-meridian.md",
+      "title": "족궐음간경",
+      "short": "엄지발가락 → 갈비부위",
+      "view": "front",
+      "summary": "엄지발가락 → 발등 → 안쪽 발목 앞 → 다리 안쪽 → 샅고랑·하복부 → 옆배·갈비부위",
+      "stations": [
+        "엄지발가락 가쪽에서 발등으로",
+        "종아리·무릎·넓적다리 안쪽",
+        "샅고랑·하복부로 올라감",
+        "장문·기문은 옆배와 갈비부위"
+      ],
+      "points": [
+        {
+          "code": "LR1",
+          "x": 235,
+          "y": 716,
+          "name": "대돈",
+          "path": "acupuncture/points/lr1.md"
+        },
+        {
+          "code": "LR3",
+          "x": 225,
+          "y": 701,
+          "name": "태충",
+          "path": "acupuncture/points/lr3-taichong.md"
+        },
+        {
+          "code": "LR8",
+          "x": 244,
+          "y": 536,
+          "name": "곡천",
+          "path": "acupuncture/points/lr8-ququan.md"
+        },
+        {
+          "code": "LR13",
+          "x": 198,
+          "y": 345,
+          "name": "장문",
+          "path": "acupuncture/points/lr13-zhangmen.md"
+        },
+        {
+          "code": "LR14",
+          "x": 216,
+          "y": 316,
+          "name": "기문",
+          "path": "acupuncture/points/lr14-qimen.md"
+        }
+      ],
+      "tracks": [
+        "M235 716 L225 701 L235 678 L239 626 L243 575 L244 536",
+        "M244 536 L245 485 L248 454 L263 432 L235 405 L198 345",
+        "M198 345 L216 316"
+      ],
+      "note": "체표 마지막 혈은 제6갈비사이의 기문입니다. 고전에 나오는 눈·정수리의 연결은 기문 이후의 내부 가지로 읽습니다.",
+      "branch": "하퇴에서 비경과 앞뒤 관계가 바뀌고 샅고랑·외생식기 주변·하복부를 거쳐 간에 속하고 담을 연락합니다. 횡격막·흉협·인후·눈·정수리로 연결되며, 입술 안쪽과 폐로 가는 가지도 설명합니다.",
+      "first": "LR1",
+      "last": "LR14"
+    },
+    {
+      "code": "CV",
+      "path": "meridian-network/conception-vessel.md",
+      "title": "임맥",
+      "short": "회음 → 턱",
+      "view": "front",
+      "summary": "회음 → 하복부 → 배꼽·명치 → 가슴 정중선 → 목 앞 → 턱",
+      "stations": [
+        "몸의 앞면 정중선",
+        "하복부에서 배꼽·명치로",
+        "가슴 중앙과 목 앞을 지나",
+        "턱끝입술고랑 승장까지"
+      ],
+      "points": [
+        {
+          "code": "CV1",
+          "x": 270,
+          "y": 476,
+          "name": "회음",
+          "path": "acupuncture/points/cv1.md"
+        },
+        {
+          "code": "CV4",
+          "x": 270,
+          "y": 435,
+          "name": "관원(關元)",
+          "path": "acupuncture/points/cv4-guanyuan.md"
+        },
+        {
+          "code": "CV12",
+          "x": 270,
+          "y": 332,
+          "name": "중완(中脘)",
+          "path": "acupuncture/points/cv12-zhongwan.md"
+        },
+        {
+          "code": "CV17",
+          "x": 270,
+          "y": 283,
+          "name": "전중",
+          "path": "acupuncture/points/cv17-danzhong.md"
+        },
+        {
+          "code": "CV24",
+          "x": 270,
+          "y": 176,
+          "name": "승장",
+          "path": "acupuncture/points/cv24.md"
+        }
+      ],
+      "tracks": [
+        "M270 476 L270 435 L270 382 L270 332",
+        "M270 332 L270 283 L270 227 L270 206 L270 176"
+      ],
+      "note": "회음부는 아래에서 보는 실제 위치를 본문 링크로 확인합니다. 승장은 아랫입술 아래 턱끝입술고랑이며 윗입술 안쪽 은교와 다릅니다.",
+      "branch": "고전에서는 하복부 안의 기시와 생식·비뇨·흉복부 연결도 설명합니다. 여기서는 독립적인 CV1–CV24 체표 혈위의 앞면 정중선 흐름에 집중합니다.",
+      "first": "CV1",
+      "last": "CV24"
+    },
+    {
+      "code": "GV",
+      "path": "meridian-network/governing-vessel.md",
+      "title": "독맥",
+      "short": "꼬리뼈 아래 → 윗잇몸",
+      "view": "back",
+      "summary": "꼬리뼈 아래 회음부 → 엉치·허리·등 정중선 → 목 뒤 → 정수리 → 이마·코·윗입술 안쪽",
+      "stations": [
+        "몸의 뒷면 정중선에서 시작",
+        "엉치·허리·등을 따라 위로",
+        "목 뒤에서 정수리를 넘어",
+        "얼굴 정중선을 내려와 윗잇몸"
+      ],
+      "points": [
+        {
+          "code": "GV1",
+          "x": 270,
+          "y": 467,
+          "name": "장강",
+          "path": "acupuncture/points/gv1.md"
+        },
+        {
+          "code": "GV4",
+          "x": 270,
+          "y": 383,
+          "name": "명문",
+          "path": "acupuncture/points/gv4-mingmen.md"
+        },
+        {
+          "code": "GV14",
+          "x": 270,
+          "y": 221,
+          "name": "대추",
+          "path": "acupuncture/points/gv14-dazhui.md"
+        },
+        {
+          "code": "GV20",
+          "x": 270,
+          "y": 78,
+          "name": "백회",
+          "path": "acupuncture/points/gv20-baihui.md"
+        },
+        {
+          "code": "GV28",
+          "x": 720,
+          "y": 185,
+          "name": "은교",
+          "path": "acupuncture/points/gv28.md"
+        }
+      ],
+      "tracks": [
+        "M270 467 L270 422 L270 383 L270 290 L270 221",
+        "M270 221 L270 194 L270 154 L270 115 L270 78"
+      ],
+      "note": "큰 그림은 뒷면, 작은 그림은 얼굴 쪽 종점입니다. 은교는 코끝이나 턱이 아니라 위입술주름띠와 위잇몸의 만나는 곳입니다.",
+      "branch": "등 정중선의 체표 주행과 고전의 척추·뇌·신 관련 내부 연결을 구별합니다. 정수리 이후 이마·코·인중·윗입술을 지나 입술 안쪽 은교로 이어지므로 몸의 뒤에서 시작하지만 얼굴 앞쪽에서 끝납니다.",
+      "first": "GV1",
+      "last": "GV28"
+    }
+  ]
+}
