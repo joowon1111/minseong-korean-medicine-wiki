@@ -82,6 +82,8 @@ last_reviewed: 2026-09-06
 
 → [보익 처방 임상 지식망](../formulas/categories/tonic-formulas.md) · [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md) · [보익 처방 설계·용량 아틀라스](../clinical-guides/tonic-formula-design-dose-atlas.md)
 
+대보원전·좌귀환·우귀환의 차이는 [《경악전서》의 허손·처방 구성](../classics/jingyue-quanshu.md#core-formulas)에서 원문과 함께 볼 수 있습니다. 기력·정혈의 소모와 냉열·건조·소화 상태를 나누어 읽으면, 보익약을 더하는 이유와 전체 배합의 방향이 분명해집니다.
+
 ## 회복 상황별 선택 지도
 
 | 현재 가장 불편한 점 | 우선 살필 변증축 | 연결할 본초·처방군 |
