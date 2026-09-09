@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 몸의 감각 저하, 오래된 쇠약, 복부 당김, 배뇨·수면·혈의 정체를 함께 살핍니다. 건중·신기·산조인·대황자충의 서로 다른 방향이 한 편에 공존합니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 血痹虛勞病脈證并治第六
 

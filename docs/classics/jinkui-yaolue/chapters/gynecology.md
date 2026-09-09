@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 열입혈실·인후 이물감·장조·월경 이상·복통·전포·음부 병변을 다룹니다. 온경탕·반하후박탕·감맥대조탕 등 익숙한 처방을 실제 원문 조건과 연결합니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 婦人雜病脈證并治第二十二
 
@@ -311,4 +311,4 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 ---
 
-[앞편: 부인 산후병](postpartum.md) · [다음편: 잡료방](miscellaneous-historical.md)
+[앞편: 부인 산후병](postpartum.md)

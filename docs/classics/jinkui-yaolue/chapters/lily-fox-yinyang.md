@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 백합병의 식욕·수면·활동 변화에서 시작해 호혹의 미란과 음양독의 전신 증후를 읽습니다. 치료 이력·병변 위치·병세의 변화가 처방 분기의 기준입니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 百合病狐惑陰陽毒病脈證並治第三
 

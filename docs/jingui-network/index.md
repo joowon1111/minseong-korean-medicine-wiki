@@ -1,14 +1,14 @@
 ---
-title: 금궤요략 전체 25편 원문·독해와 임상 지식망
-description: 금궤요략 서문과 25편 전체 원문, 편별 조문 독해, 처방·부방·교감 및 허로·담음·흉비·부인병의 주제별 읽기를 연결합니다.
+title: 금궤요략 임상 원문·독해와 임상 지식망
+description: 금궤요략 서문과 제1–22편 임상 원문, 편별 조문 독해, 처방·부방·교감 및 허로·담음·흉비·부인병의 주제별 읽기를 연결합니다.
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 금궤요략 전체 25편 원문·독해와 임상 지식망 {#_1}
+# 금궤요략 임상 원문·독해와 임상 지식망 {#_1}
 
 《금궤요략》은 장중경 의학의 **잡병 영역과 처방 운용**을 보여주는 핵심 고전입니다.
 
-이 페이지에서 **서문과 25편 전체를 순서대로 읽거나, 관심 병증의 원문으로 바로 들어갈 수 있습니다.** 각 편에는 원문·한국어 독해 요지·원방 구성과 제법·기존 처방 자료를 연결했습니다. 고전 병증과 현대 진단, 원방과 현재 제제의 근거는 구별합니다.
+이 페이지에서 **서문과 주요 임상편을 순서대로 읽거나, 관심 병증의 원문으로 바로 들어갈 수 있습니다.** 각 편에는 원문·한국어 독해 요지·원방 구성과 제법·기존 처방 자료를 연결했습니다. 고전 병증과 현대 진단, 원방과 현재 제제의 근거는 구별합니다.
 
 ## 읽을 내용 {#reading-guide}
 
@@ -23,9 +23,9 @@ last_reviewed: 2026-08-22
 | 임신·산후·잡병 처방의 조건은 무엇인가 | [부인 임신병](../classics/jinkui-yaolue/chapters/pregnancy.md) | [부인병](#gynecology) |
 | 병명에서 처방으로 바로 뛰지 않으려면 | [장부경락선후병](../classics/jinkui-yaolue/chapters/organs-meridians.md) | [임상추론](#clinical-reasoning) |
 
-## 전체 25편 원문·독해 {#complete-chapters}
+## 임상 원문·독해 {#complete-chapters}
 
-**제1–22편은 대조 전사문에 번호가 붙은 398개 항목을 각각 원문과 독해 요지로**, 제23–25편은 무번호 원문 전체와 주제별 문헌사 해설로 제공합니다. 처방 구성·제법·부방·교감 부기도 수록했습니다. 이 숫자는 해당 전사문의 편별 구분이며 모든 판본에 공통된 전역 조문 번호나 상한론의 398조를 뜻하지 않습니다.
+**제1–22편의 임상 원문 398개 항목을 각각 한국어 독해 요지와 함께 제공합니다.** 처방 구성·제법·부방·교감 부기도 수록했습니다. 이 숫자는 해당 전사문의 편별 구분이며 모든 판본에 공통된 전역 조문 번호나 상한론의 398조를 뜻하지 않습니다.
 
 [서문 원문·판본·인용 기준](../classics/jinkui-yaolue/chapters/preface.md)에서 수록 범위와 번호 기준을 확인할 수 있습니다. 한국어 독해는 조문의 의미와 읽을 조건을 설명한 요지이며, 전 문장의 완역·학술 교감본은 아닙니다.
 
@@ -53,9 +53,6 @@ last_reviewed: 2026-08-22
 | 20편 · 1–11항 | [부인 임신병](../classics/jinkui-yaolue/chapters/pregnancy.md) | 임신 중 출혈·복통·구토·소변불리·수기를 나누어 읽습니다 |
 | 21편 · 1–11항 | [부인 산후병](../classics/jinkui-yaolue/chapters/postpartum.md) | 산후의 혈·진액 손상에서 경·울모·변비를 이해하고 복통·어혈·외감·하리로 이어갑니다 |
 | 22편 · 1–22항 | [부인 잡병](../classics/jinkui-yaolue/chapters/gynecology.md) | 열입혈실·인후 이물감·장조·월경 이상·복통·전포·음부 병변을 다룹니다 |
-| 23편 · 무번호 원문 | [잡료방](../classics/jinkui-yaolue/chapters/miscellaneous-historical.md) | 계절별 가감방, 비급방과 고대의 졸사·자액·중갈·익수·외상 대응을 담은 문헌사 자료입니다 |
-| 24편 · 무번호 원문 | [금수어충 금기](../classics/jinkui-yaolue/chapters/animal-food-historical.md) | 동물성 식품의 변질·오염에 대한 관찰과 계절·배합·주술적 금기가 함께 있는 역사 자료입니다 |
-| 25편 · 무번호 원문 | [과실채곡 금기](../classics/jinkui-yaolue/chapters/plant-food-historical.md) | 과일·채소·곡물·술과 독성 식물·광물에 관한 금기와 구급방을 수록합니다 |
 
 ## 금궤요략 잡병 임상 틀 {#misc-disease-framework}
 
@@ -239,13 +236,24 @@ last_reviewed: 2026-08-22
 
 `환자 증상 → 위험신호 → 고전 병증 → 한열·허실·담음·어혈 → 치법 → 금궤 고방 → 현대근거·재평가`
 
-| 임상축 | 대표 연결 |
-|---|---|
-| 흉비·심통 | 담음·기체·한응 |
-| 담음·수기 | 소화·흉민·어지럼·부종 |
-| 허로 | 이급·배뇨·수면·건혈을 구별한 건중·신기·안신·거어 |
-| 복만·식적 | 한·비위허·담음·식적 |
-| 부인병 | 어혈·혈허·수습 |
+아래 연결은 고전 병증과 현대 질환의 동일성보다 **지금 읽는 증상을 어떤 원문·처방·근거에서 더 살펴볼지**를 안내합니다.
+
+| 임상축 | 고전 원문·방제 | 기존 임상·근거 자료 |
+|---|---|---|
+| 흉비·심통 | [제9편](../classics/jinkui-yaolue/chapters/chest-pain.md) · [인삼탕과 이중탕의 구성](../formulas/lizhong-tang.md) | [두근거림](../conditions/palpitation.md) · [심혈관·대사 한약 근거](../authority/formulas/cardiometabolic-herbal-evidence.md); 현대 연구 제제는 각각 출전 확인 |
+| 담음·어지럼 | [12.16](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-016) · [영계출감탕](../formulas/linggui-zhugan-tang.md) | [어지럼](../conditions/dizziness.md) · [담음 치료](../pattern-treatment/phlegm-fluid.md) |
+| 수기·부종 | [제14편](../classics/jinkui-yaolue/chapters/water-qi.md) · [오령산](../formulas/wuling-san.md)의 수습 처방 구조와 비교 | [부종](../conditions/edema-swelling.md) · [한약 안전성](../herbal-integrated/safety.md) |
+| 소갈·소변 | [제13편](../classics/jinkui-yaolue/chapters/thirst-urination.md) · [팔미지황환](../formulas/bawei-dihuang-wan.md)에서 신기환 구성 대조 | [제2형 당뇨병](../conditions/type-2-diabetes.md) · [심혈관·대사 근거](../authority/formulas/cardiometabolic-herbal-evidence.md) |
+| 황달 | [제15편](../classics/jinkui-yaolue/chapters/jaundice.md) · [인진](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md) | [임상 안전성](../clinical-safety/index.md): 새 황달의 원인과 간담도 평가 |
+| 혈비·허로·허약 | [6.2 황기계지오물탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-002) · [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) · [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | [피로](../conditions/fatigue.md) · [노인보약](../conditions/elderly-tonic.md) · [피로 한약 근거](../authority/formulas/chronic-fatigue-herbal-map.md) |
+| 허번·불면·심계 | [6.17 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) · [제16편 경계](../classics/jinkui-yaolue/chapters/bleeding-stasis.md) | [불면](../conditions/insomnia.md) · [산조인탕 임상근거](../authority/formulas/suanzaoren-tang.md) |
+| 복만·복통·장기능 | [10.14 대건중탕](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md#clause-10-014) · [대건중탕 연구](../formulas/dajianzhong-tang.md) | [소화불량](../conditions/dyspepsia.md) · [수술 후 회복](../conditions/postoperative-recovery.md) |
+| 구토·심하비·하리 | [17.10 반하사심탕](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-010) · [반하사심탕](../formulas/banxia-xiexin-tang.md) | [기능성소화불량](../conditions/functional-dyspepsia.md) · [설사](../conditions/diarrhea.md) · [반하사심탕 근거](../authority/formulas/banxia-xiexin-tang.md) |
+| 임신·복통·혈수 | [제20편](../classics/jinkui-yaolue/chapters/pregnancy.md) · [당귀작약산](../formulas/danggui-shaoyao-san.md)·[교애탕](../formulas/jiaoai-tang.md) | [임신 준비·임신·산후](../womens-health/fertility-pregnancy-postpartum.md) |
+| 산후·복통·회복 | [제21편](../classics/jinkui-yaolue/chapters/postpartum.md) | [산후 회복](../conditions/postpartum-recovery.md) · [산후보약](../conditions/postpartum-herbal.md) |
+| 월경·여성 잡병 | [22.9 온경탕](../classics/jinkui-yaolue/chapters/gynecology.md#clause-22-009) · [온경탕](../formulas/wenjing-tang.md) | [생리통](../conditions/dysmenorrhea.md) · [임신 준비](../conditions/infertility-preconception.md) |
+
+같은 처방을 상한론의 다른 문맥에서 읽는 경로는 [장중경 임상의학 연결표](../network/classic-to-evidence-map.md#zhongjing-network), 원문에서 실제 SR·임상시험으로 이어지는 예시는 [고전→현대 연구](../network/classic-to-evidence-map.md#clinical-examples)에서 볼 수 있습니다.
 
 → [금궤요략 탐색](../classics/jinkui-yaolue.md)  
 → [고전→현대 연구](../network/classic-to-evidence-map.md)

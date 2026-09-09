@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 장부별 병상과 예후, 간착·신착·비약, 고정된 적과 이동하는 취를 다룹니다. 송대 교정자가 남긴 결문 설명도 원문과 함께 확인합니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 五臟風寒積聚病脈證并治第十一
 

@@ -13,10 +13,10 @@ last_reviewed: 2026-08-19
 ## 대표 조문
 > 太陽病，頭痛發熱，身疼腰痛，骨節疼痛，惡風，無汗而喘者，麻黃湯主之。
 
-→ [조문 전체 해설](../classics/shanghanlun/mahuang-indication.md)
+[상한론 35조 원문·독해](../classics/shanghanlun/clauses/taiyang-middle.md#clause-035)에서 앞뒤 문맥을, [조문 전체 해설](../classics/shanghanlun/mahuang-indication.md)에서 무한·천·신통의 관계를 확인할 수 있다.
 
 ## 대표 구성
-전승되는 상한론 계통의 마황탕은 마황, 계지, 행인, 자감초의 네 약물로 구성된다. 판본·도량형에 따른 세부 용량 해석은 별도 원전 페이지에서 다룬다.
+전승되는 상한론 계통의 마황탕은 [마황](../herbs/ephedra.md), [계지](../herbs/cinnamon-twig.md), [행인](../herbs/apricot-kernel.md), [자감초](../herbs/licorice.md)의 네 약물로 구성된다. 판본·도량형에 따른 세부 용량 해석은 별도 원전 페이지에서 다룬다.
 
 ## 전통적 방의
 발한해표(發汗解表), 선폐평천(宣肺平喘)의 방향으로 설명한다.

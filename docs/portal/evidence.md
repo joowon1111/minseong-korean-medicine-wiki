@@ -53,6 +53,34 @@ hide:
 !!! note "독자를 위한 안내"
     연구 결과는 모든 사람에게 동일하게 적용되는 정답이라기보다, 현재 상태와 치료 목표에 맞는 선택을 돕는 자료입니다. 진료에서는 병력·검사·복용약·치료 반응을 함께 확인합니다.
 
+## 고전에서 현대 연구로 이어 읽기 {#classical-evidence-paths}
+
+고전의 주치에서 현재의 연구까지 연결하려면 **원전의 병증 → 실제 치료 구성 → 연구 대상·비교군 → 결과와 안전성**을 함께 확인합니다. [고전→현대 연구 연결 지도](../network/classic-to-evidence-map.md)에서 반하사심탕·산조인탕·대건중탕 등의 원문과 기존 근거카드를 왕복할 수 있습니다.
+
+| 확인할 질문 | 기존 근거층 |
+|---|---|
+| 실제 진료에서 무엇을 권고하는가 | [임상진료지침(CPG)](../evidence-clinical/guidelines.md) |
+| 여러 시험의 결과가 어떤 방향인가 | [SR·메타분석과 근거 해석](../evidence-integrated/evidence-levels.md) |
+| 어떤 비교군을 두고 효과를 평가했는가 | [RCT 읽기](../evidence-guide/rct.md) |
+| 원방·가감방·시험제제가 얼마나 가까운가 | [처방별 근거 허브](../authority/formulas/herbal-formula-evidence-hub.md) |
+| 약재 단독 연구와 복합 처방을 어떻게 연결하는가 | [본초 연구](../authority/herbs/index.md) |
+| 침·전침의 경혈·자극·횟수는 무엇인가 | [침구 연구](../evidence-integrated/acupuncture-evidence.md) |
+| 이상반응·병용약·특별 고려군은 무엇인가 | [한약 안전성 연구](../herbal-integrated/safety.md#safety-evidence-guide) |
+
+연구들은 하나의 직선 순서로 효과를 확정하는 단계가 아니라 서로 다른 질문에 답하는 자료입니다. 개별 처방·시술의 결과는 연구 대상과 사용 조건에 맞추어 읽습니다.
+
+## WHO 전통의학 전략과 근거 중심의 통합 {#who-tm-context}
+
+WHO의 [Global Traditional Medicine Strategy 2025–2034](https://www.who.int/publications/i/item/9789240113176)는 전통·보완·통합의학(TCIM)의 과학적 근거 강화, 안전성과 효과성, 적절한 규제와 보건의료체계 통합을 주요 방향으로 제시합니다. 아카이브는 이 방향을 참고하여 문헌에서 선별한 지식을 실제 임상연구·진료지침·안전성 자료와 연결합니다.
+
+**Evidence-informed TCIM**, **Integrative Medicine**, **Traditional Medicine Research**는 이 국제적 맥락을 이해하는 표현입니다. 이곳에서는 연구의 대상·중재·결과를 확인하고 환자의 상태·선호·치료 목표와 함께 읽는 방식으로 구체화합니다.
+
+### WHO ICD-11과 전통의학의 국제 표준화 {#icd11-traditional-medicine}
+
+ICD-11의 *Traditional Medicine Conditions – Module I*은 한국·일본·중국 등에서 사용되는 전통의학 진단 범주를 국제적으로 비교 가능한 방식으로 기록하도록 마련된 보조 분류입니다. 선택적인 이중 코딩을 통해 진료의 빈도·결과·안전성·질과 연구 자료를 일관되게 축적하는 기반을 제공합니다. [WHO 공식 설명](https://www.who.int/standards/classifications/frequently-asked-questions/traditional-medicine)
+
+여기서 ICD-11은 **진단의 기록·비교를 위한 표준화**, 임상시험과 진료지침은 **개별 치료의 효과·안전성·권고를 판단하는 자료**로 역할을 나누어 소개합니다. 이러한 자료를 연결하면 고전의 용어에서 실제 진료와 연구까지 추적하기가 쉬워집니다.
+
 ## 출처와 운영 원칙
 
 - [전체 참고문헌 데이터베이스](../research/references/index.md)

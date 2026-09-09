@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 담음·현음·일음·지음의 네 구분과 온약화지, 이수·발한·공하, 복약 뒤 순차 가감을 읽습니다. 같은 수음도 위치와 허실·열·혈허에 따라 치료 방향이 달라집니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 痰飲咳嗽病脈證并治第十二
 

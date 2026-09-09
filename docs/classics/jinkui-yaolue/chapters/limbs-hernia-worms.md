@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 보행·사지의 이상, 전근, 음호산, 회충과 회궐을 모은 편입니다. 지금은 쓰지 않는 재료와 결방도 원문 수록 범위에 포함하되 현재 치료법과 구별합니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 趺蹶手指臂腫轉筋陰狐疝蚘蟲病脈證治第十九
 

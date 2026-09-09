@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 국소 통증·열감·농의 형성, 복진과 출혈을 통해 옹·금창·침음창을 읽습니다. 원문의 외과 병상은 현대 감염 평가나 수술 판단을 대신하지 않습니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 瘡癰腸癰浸淫病脈證并治第十八
 
