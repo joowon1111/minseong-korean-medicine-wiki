@@ -36,3 +36,9 @@ A failed or incomplete security check blocks publication; do not silently pass i
 - Work in order: Shanghan Lun connections → Jingui Yaolue connections → Donguibogam clinical index across its five divisions → Wenbing Tiaobian → Piwei Lun → Jingyue Quanshu → selected clinical Huangdi Neijing chapters → Zhenjiu Jiayi Jing and Zhenjiu Dacheng → Dongyi Suse Bowon. Preserve Sasang medicine's own ordinary-symptom, pattern and treatment system.
 - In parallel, maintain the existing evidence layer: CPG, SR/meta-analysis, RCT, observational/safety and relevant mechanistic research. These are different study roles, not an automatic chain proving an intervention. Link verified evidence cards instead of pasting papers under every classic page; match population, formulation, comparator, outcomes and safety.
 - Report the concrete completed tranche and remaining scope. Do not call a reading summary a complete translation or a connected index a completed critical edition.
+
+## Archive publication workflow
+
+- The repository owner explicitly authorized merging and deploying requested archive work on 2026-09-09, including future archive tasks. After applicable security, test, build and link checks pass, proceed through PR merge and production deployment verification without asking for routine publication confirmation again.
+- Honor any later instruction to pause, review only, or not merge/deploy. This authorization is limited to the requested archive work and does not waive security checks, repository protections, platform approval controls, or authorization for unrelated changes.
+- If an actual approval control blocks an action, do not bypass it; report the action and stated reason. Verify deployment completion before saying a change is live.
