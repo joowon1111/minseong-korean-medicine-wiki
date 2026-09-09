@@ -1,0 +1,17 @@
+.acupoint-figures{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin:1.25rem 0}
+.acupoint-figures figure{margin:0!important;border:1px solid var(--md-default-fg-color--lightest);border-radius:14px;overflow:hidden;background:var(--md-default-bg-color)}
+.acupoint-figures object{display:block;width:100%;aspect-ratio:540/460;background:#fff}
+.acupoint-figures img{display:block;width:100%;height:auto}
+.acupoint-figures figcaption{padding:.65rem .8rem;font-size:.8rem!important;margin:0!important}
+.acupoint-controls{display:grid;grid-template-columns:2fr 1.5fr auto;gap:.7rem;align-items:end;padding:1rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:12px;background:var(--md-code-bg-color);margin:1rem 0}
+.acupoint-controls label{font-size:.75rem;font-weight:600}
+.acupoint-controls input,.acupoint-controls select{display:block;width:100%;margin-top:.3rem;padding:.65rem;border:1px solid var(--md-default-fg-color--light);border-radius:6px;background:var(--md-default-bg-color);color:var(--md-default-fg-color);font:inherit;min-height:44px}
+.acupoint-controls button{padding:.65rem .8rem;border:1px solid var(--md-primary-fg-color);border-radius:6px;color:var(--md-primary-fg-color);font:inherit;cursor:pointer;min-height:44px}
+.acupoint-controls p{grid-column:1/-1;margin:0;font-size:.75rem}
+.acupoint-links p{display:flex;flex-wrap:wrap;gap:.45rem;font-size:0}
+.acupoint-links a{display:inline-flex;align-items:center;min-height:44px;padding:.4rem .7rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:8px;font-size:.8rem;background:var(--md-default-bg-color)}
+.acupoint-links a:hover{border-color:var(--md-accent-fg-color)}
+.acupoint-controls :focus-visible,.acupoint-links a:focus-visible{outline:3px solid var(--md-accent-fg-color);outline-offset:3px}
+.acupoint-controls[hidden],.acupoint-controls [hidden],.acupoint-group[hidden],.acupoint-links a[hidden]{display:none!important}
+@media(max-width:700px){.acupoint-figures{grid-template-columns:1fr}.acupoint-controls{grid-template-columns:1fr}.acupoint-links a{flex:1 0 auto}}
+@media print{.acupoint-controls{display:none!important}.acupoint-group[hidden]{display:block!important}.acupoint-links a[hidden]{display:inline-flex!important}}
