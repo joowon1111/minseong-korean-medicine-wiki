@@ -33,3 +33,37 @@ test('diagram destinations are existing point pages without scripts or remote as
     for (const [, link] of links) assert.ok(fs.existsSync(path.join(__dirname, '../docs', link.slice(1,-1)+'.md')), link);
   }
 });
+
+test('regional SVGs load only on expansion and do not reload on repeat setup', () => {
+  const {initRegions} = require('../docs/assets/acupoint-atlas/explorer.js');
+  let loads = 0, bindings = 0;
+  const objects = [0,1].map(i => ({dataset:{src:'/assets/acupoint-atlas/test-'+i+'.svg'},
+    setAttribute(key, value) { assert.equal(key,'data'); assert.equal(value,this.dataset.src); loads++; },
+    removeAttribute(key) { assert.equal(key,'data-src'); delete this.dataset.src; }}));
+  const regions = objects.map((object,i) => ({open:i===0,dataset:{},
+    querySelectorAll() { return object.dataset.src ? [object] : []; },
+    addEventListener(event, listener) { assert.equal(event,'toggle'); bindings++; this.toggle=listener; }}));
+  const doc = {querySelectorAll: () => regions};
+  initRegions(doc); assert.equal(loads,1); assert.equal(bindings,2);
+  initRegions(doc); assert.equal(loads,1); assert.equal(bindings,2);
+  regions[1].open=true; regions[1].toggle(); assert.equal(loads,2);
+  regions[1].open=false; regions[1].toggle();
+  regions[1].open=true; regions[1].toggle(); assert.equal(loads,2);
+});
+test('regional fragment opens its own group and ignores other or malformed anchors', () => {
+  const {revealRegion} = require('../docs/assets/acupoint-atlas/explorer.js');
+  const region={open:false,matches:s=>s==='details.acupoint-region',querySelectorAll:()=>[]};
+  const doc={defaultView:{location:{hash:'#visual-head'}},getElementById:id=>id==='visual-head'?{nextElementSibling:region}:null};
+  revealRegion(doc); assert.equal(region.open,true);
+  for (const hash of ['#find-points','#%invalid','#visual-missing','']) {
+    region.open=false;doc.defaultView.location.hash=hash;revealRegion(doc);assert.equal(region.open,false);
+  }
+});
+test('all diagrams have ordinary links and image fallbacks without JavaScript', () => {
+  const doc=fs.readFileSync(path.join(__dirname,'../docs/acupoint-network/standard-atlas.md'),'utf8');
+  const manifest=JSON.parse(fs.readFileSync(path.join(__dirname,'../data/acupoint_diagrams.json'),'utf8'));
+  const sources=[...doc.matchAll(/<object data-src="([^"]+)"/g)].map(m=>m[1]);
+  assert.equal(sources.length,manifest.regions.length);
+  assert.equal((doc.match(/<noscript><img /g)||[]).length,sources.length);
+  for (const source of sources) assert.ok(doc.includes('href="'+source+'"'));
+});
