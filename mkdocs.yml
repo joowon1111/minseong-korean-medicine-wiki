@@ -1029,7 +1029,40 @@ nav:
           - 마행감석탕 조문: classics/shanghanlun/maxing-ganshi.md
         - 소양병 조문:
           - 소시호탕 주치 조문: classics/shanghanlun/xiaochaihu-indication.md
-      - 금궤요략: classics/jinkui-yaolue.md
+      - 금궤요략:
+        - 개요: classics/jinkui-yaolue.md
+        - 전체 25편·주제별 지도: jingui-network/index.md
+        - 서문·판본과 읽는 기준: classics/jinkui-yaolue/chapters/preface.md
+        - 총론·경습갈·중풍·허로:
+          - 1편 · 장부경락선후병: classics/jinkui-yaolue/chapters/organs-meridians.md
+          - 2편 · 경·습·갈병: classics/jinkui-yaolue/chapters/spasm-damp-heat.md
+          - 3편 · 백합·호혹·음양독: classics/jinkui-yaolue/chapters/lily-fox-yinyang.md
+          - 4편 · 학병: classics/jinkui-yaolue/chapters/malaria-patterns.md
+          - 5편 · 중풍·역절: classics/jinkui-yaolue/chapters/wind-joint.md
+          - 6편 · 혈비·허로: classics/jinkui-yaolue/chapters/blood-bi-deficiency.md
+        - 폐·흉복·담음·수기·출혈:
+          - 7편 · 폐위·폐옹·해수상기: classics/jinkui-yaolue/chapters/lung-cough.md
+          - 8편 · 분돈기: classics/jinkui-yaolue/chapters/running-pig.md
+          - 9편 · 흉비·심통·단기: classics/jinkui-yaolue/chapters/chest-pain.md
+          - 10편 · 복만·한산·숙식: classics/jinkui-yaolue/chapters/abdominal-cold-food.md
+          - 11편 · 오장풍한·적취: classics/jinkui-yaolue/chapters/organs-accumulations.md
+          - 12편 · 담음·해수: classics/jinkui-yaolue/chapters/fluid-cough.md
+          - 13편 · 소갈·소변·임병: classics/jinkui-yaolue/chapters/thirst-urination.md
+          - 14편 · 수기병: classics/jinkui-yaolue/chapters/water-qi.md
+          - 15편 · 황달: classics/jinkui-yaolue/chapters/jaundice.md
+          - 16편 · 경계·출혈·어혈: classics/jinkui-yaolue/chapters/bleeding-stasis.md
+        - 토리·창옹·기타 병증:
+          - 17편 · 구토·얼·하리: classics/jinkui-yaolue/chapters/vomiting-diarrhea.md
+          - 18편 · 창옹·장옹·침음: classics/jinkui-yaolue/chapters/sores-abscess.md
+          - 19편 · 부궐·전근·산증·회충: classics/jinkui-yaolue/chapters/limbs-hernia-worms.md
+        - 부인 임신·산후·잡병:
+          - 20편 · 부인 임신병: classics/jinkui-yaolue/chapters/pregnancy.md
+          - 21편 · 부인 산후병: classics/jinkui-yaolue/chapters/postpartum.md
+          - 22편 · 부인 잡병: classics/jinkui-yaolue/chapters/gynecology.md
+        - 잡료·음식 금기의 문헌사:
+          - 23편 · 잡료방: classics/jinkui-yaolue/chapters/miscellaneous-historical.md
+          - 24편 · 금수어충 금기: classics/jinkui-yaolue/chapters/animal-food-historical.md
+          - 25편 · 과실채곡 금기: classics/jinkui-yaolue/chapters/plant-food-historical.md
       - 비급천금요방: classics/beiji-qianjin-yaofang.md
       - 비위론: classics/piwei-lun.md
       - 의학입문: classics/uihak-ipmun.md
@@ -1068,7 +1101,7 @@ nav:
       - 고전 읽는 순서: classics-network/reading-path.md
     - 황제내경 핵심 지식망: neijing-network/index.md
     - 상한론 핵심 지식망: shanghan-network/index.md
-    - 금궤요략 핵심 지식망: jingui-network/index.md
+    - 금궤요략 전체 원문·지식망: jingui-network/index.md
     - 동의보감 핵심 지식망:
       - donguibogam-network/index.md
       - 탕액편: classics/donguibogam-tangaek.md

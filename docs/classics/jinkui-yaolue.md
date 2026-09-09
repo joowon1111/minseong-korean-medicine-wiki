@@ -1,6 +1,6 @@
 ---
 title: 금궤요략(金匱要略)
-description: 장중경 계통의 잡병 임상서인 금궤요략의 구성과 허로·담음·흉비·수기·부인병 등 주요 병증 체계를 정리합니다.
+description: 금궤요략의 전승과 잡병 체계를 소개하고 서문·25편 전체 원문, 조문별 한국어 독해, 처방·부방·판본 안내로 연결합니다.
 tags: [한의학고전, 금궤요략, 장중경, 잡병]
 status: 검토완료
 last_reviewed: 2026-08-19
@@ -11,7 +11,13 @@ last_reviewed: 2026-08-19
 
 ## 문헌의 성격 {#_2}
 
-현전 문헌은 《상한잡병론》 계통의 잡병 논의가 후대 편집·전승을 거쳐 정리된 것으로 이해합니다. 원저자의 문장, 전승 과정의 편집, 후대 주석을 구분하며 읽는 것이 중요합니다. 자세한 저술 계통은 [장중경](../physicians/zhang-zhongjing.md)에서 살펴볼 수 있습니다.
+현전 문헌은 《상한잡병론》 계통의 잡병 논의가 후대 편집·전승을 거쳐 정리된 것으로 이해합니다. 원저자의 문장, 전승 과정의 편집, 후대 주석을 구분하며 읽는 것이 중요합니다. 자세한 저술 계통은 [장중경](../physicians/zhang-zhongjing.md)에서 살펴볼 수 있습니다. [송교 서문](jinkui-yaolue/chapters/preface.md#original-preface)은 처방을 증후 아래에 배열하고 다른 책의 처방을 편말에 덧붙였다는 편집 과정을 설명합니다. 이 때문에 본문·부방·교감 부기를 구별해서 읽습니다.
+
+## 전체 원문으로 들어가기 {#complete-text}
+
+[전체 25편 지도](../jingui-network/index.md#complete-chapters)에서 서문·각 편의 원문과 독해를 순서대로 읽을 수 있습니다. 제1–22편의 대조 자료 번호 398개 항목에는 개별 한국어 독해 요지를 붙였고, 제23–25편의 잡료·음식 금기는 무번호 원문과 문헌사 해설로 제공합니다. 원방 구성·제법·부방도 포함합니다.
+
+허로·보익에 관심이 있다면 [혈비·허로편](jinkui-yaolue/chapters/blood-bi-deficiency.md), 기침·어지럼·수분대사라면 [담음·해수편](jinkui-yaolue/chapters/fluid-cough.md), 여성 진료의 고방이라면 [임신편](jinkui-yaolue/chapters/pregnancy.md)·[산후편](jinkui-yaolue/chapters/postpartum.md)·[잡병편](jinkui-yaolue/chapters/gynecology.md)에서 시작하면 좋습니다.
 
 ## 주요 영역 {#_3}
 
@@ -46,4 +52,4 @@ last_reviewed: 2026-08-19
 
 ## 원문 자료 {#_6}
 
-[한국한의학연구원 한의학고서목록](https://info.mediclassics.kr/bookshelf/books/distBook/km_books_list/book.pdf)에서 금궤요략방론·논주·심전 등 전승 문헌과 소장 정보를 찾을 수 있습니다. 이 목록은 원문 번역서가 아니라 판본을 찾는 서지자료입니다. 인용할 때에는 실제 읽은 판본·편명과 원문 구절을 함께 확인합니다.
+[한국한의학연구원 한의학고서목록](https://info.mediclassics.kr/bookshelf/books/distBook/km_books_list/book.pdf)에서 금궤요략방론·논주·심전 등 전승 문헌과 소장 정보를 찾을 수 있습니다. 이 목록은 원문 번역서가 아니라 판본을 찾는 서지자료입니다. 인용할 때에는 실제 읽은 판본·편명과 원문 구절을 함께 확인합니다. 이 아카이브의 원문은 [중의급성 금궤요략방론 전사 자료](https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html)를 대조하며, 복수 저본·편별 번호·독해의 범위는 [판본·인용 기준](jinkui-yaolue/chapters/preface.md#edition)에 정리했습니다.
