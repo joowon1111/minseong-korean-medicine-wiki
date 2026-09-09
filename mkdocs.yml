@@ -930,7 +930,7 @@ nav:
       - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
     - 의가·고전·연구 연결:
       - 의가·고전·처방 계보: network/physician-classic-formula-lineage.md
-      - 상한론 태양병 지도: network/shanghan-taiyang-map.md
+      - 상한론 전체 조문 지도: network/shanghan-taiyang-map.md
       - 고전→현대 연구 연결: network/classic-to-evidence-map.md
     - 통합 지식 그래프:
       - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
@@ -1002,6 +1002,21 @@ nav:
       - 난경: classics/nanjing.md
       - 상한론:
         - 개요: classics/shanghanlun.md
+        - 전체 조문·판본 안내: shanghan-network/index.md
+        - 전 조문 원문·독해:
+          - 태양 상 · 1–30조: classics/shanghanlun/clauses/taiyang-upper.md
+          - 태양 중 · 31–127조: classics/shanghanlun/clauses/taiyang-middle.md
+          - 태양 하 · 128–178조: classics/shanghanlun/clauses/taiyang-lower.md
+          - 양명 · 179–262조: classics/shanghanlun/clauses/yangming.md
+          - 소양 · 263–272조: classics/shanghanlun/clauses/shaoyang.md
+          - 태음 · 273–280조: classics/shanghanlun/clauses/taiyin.md
+          - 소음 · 281–325조: classics/shanghanlun/clauses/shaoyin.md
+          - 궐음 · 326–381조: classics/shanghanlun/clauses/jueyin.md
+          - 곽란 · 382–391조: classics/shanghanlun/clauses/huoluan.md
+          - 음양역·차후노복 · 392–398조: classics/shanghanlun/clauses/recovery.md
+        - 서문·맥법·치법편:
+          - 서문·맥법·상한례·치습갈: classics/shanghanlun/clauses/prefaces-pulse.md
+          - 한·토·하의 가부와 치료 후: classics/shanghanlun/clauses/treatment-methods.md
         - 태양병 조문:
           - 태양병의 기본 정의: classics/shanghanlun/taiyang-definition.md
           - 계지탕 주치 조문: classics/shanghanlun/guizhi-indication.md
