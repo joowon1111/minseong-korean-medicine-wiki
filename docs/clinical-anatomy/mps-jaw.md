@@ -11,7 +11,7 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 ## 근육 위치 도해 {#diagram}
 
-<figure>
+<figure style="display:block;width:100%;max-width:100%;margin-left:0;margin-right:0">
 <object data="/assets/mps-atlas/jaw.svg" type="image/svg+xml" width="960" height="680" style="width:100%;height:auto;aspect-ratio:24/17" aria-label="턱·관자 근육·MPS 아틀라스">
 <img src="/assets/mps-atlas/jaw.svg" alt="옆에서 보기 · 오른쪽이 얼굴 앞. 교근, 측두근 위치 개요" width="960" height="680" loading="lazy" />
 </object>
