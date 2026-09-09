@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 거품 침과 진액 손상의 폐위, 농혈과 흉통의 폐옹, 수음·열·허랭이 섞인 기침을 읽습니다. 기침의 소리·가래·눕기 어려움·맥이 구별점입니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 肺痿肺癰咳嗽上氣病脈證治第七
 

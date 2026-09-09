@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 갈증·음수·구토·소변량·배뇨통과 변비의 관계를 다룹니다. 오령산·저령탕·백호가인삼탕·신기환을 갈증 한 가지로 묶지 않고 비교합니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 消渴小便利淋病脈證并治第十三
 

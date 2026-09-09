@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 운동·감각·의식의 변화와 여러 관절의 통증을 다룹니다. 고전 중풍·역절의 범위를 현대 뇌졸중·관절염의 특정 진단과 구별해서 읽습니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 中風歷節病脈證并治第五
 

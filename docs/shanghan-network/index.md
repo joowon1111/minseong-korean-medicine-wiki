@@ -131,22 +131,27 @@ last_reviewed: 2026-08-20
 
 ## 상한론 대표 처방 구조 {#formula-map}
 
-상한론 처방은 병명보다 **병증 구조**와 연결해 이해하는 것이 핵심이다.
+원문·육경·증후에서 기존 방제와 구성 본초로 이동하는 색인입니다. **표의 본초는 배합을 읽는 핵심 예시이며 전 구성은 방제 문서에서 확인합니다.** 처방은 하나의 육경에만 고정되지 않고 실제 맥증을 따라 여러 편에서 등장합니다.
 
-| 병증 축 | 대표 처방 예 |
-|---|---|
-| 태양병 | 계지탕·마황탕 |
-| 양명병 | 백호탕·승기탕류 |
-| 소양병 | 소시호탕 |
-| 태음병 | 이중탕 계열 |
-| 소음병 | 사역탕·황련아교탕 등 |
-| 궐음병 | 오매환 등 |
+| 조문·주요 처방 | 병증·치법의 축 | 원문에서 볼 조건 | 방제·핵심 본초 |
+|---|---|---|---|
+| [12조 · 계지탕](../classics/shanghanlun/clauses/taiyang-upper.md#clause-012) | 태양·영위불화 | 한출·오풍·맥과 계지탕 가감 | [계지탕](../formulas/guizhi-tang.md) · [계지](../herbs/cinnamon-twig.md) · [작약](../herbs/white-peony.md) |
+| [35조 · 마황탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-035) | 태양·표실 | 무한·신통·오풍·천 | [마황탕](../formulas/mahuang-tang.md) · [마황](../herbs/ephedra.md) · [행인](../herbs/apricot-kernel.md) |
+| [96조 · 소시호탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-096) | 소양·화해 | 왕래한열·흉협고만·구토·식욕 | [소시호탕](../formulas/xiaochaihu-tang.md) · [시호](../herbs/bupleurum.md) · [황금](../herbs/scutellaria.md) |
+| [103조 · 대시호탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-103) | 소양과 리실의 관계 | 남은 시호증·구토·심하급 | [대시호탕](../formulas/dachaihu-tang.md) · [시호](../herbs/bupleurum.md) · [지실](../herbs/citrus-immature.md) · [대황](../herbs/rhubarb.md) |
+| [176조 · 백호탕](../classics/shanghanlun/clauses/taiyang-lower.md#clause-176) | 열·진액과 청열 | 열과 땀·맥, 인삼 가미 조건과 비교 | [백호탕](../formulas/baihu-tang.md) · [석고](../herbs/gypsum.md) · [지모](../herbs/anemarrhena.md) |
+| [208조 · 대승기탕](../classics/shanghanlun/clauses/yangming.md#clause-208) | 양명·조실 | 조열·대변·복부·진액의 공하 조건 | [대승기탕](../formulas/dachengqi-tang.md) · [대황](../herbs/rhubarb.md) · [후박](../herbs/magnolia-bark.md) |
+| [209조 · 소승기탕](../classics/shanghanlun/clauses/yangming.md#clause-209) | 양명·실과 기체 | 복부·대변과 복약 뒤 반응 | [소승기탕](../formulas/xiaochengqi-tang.md) · [지실](../herbs/citrus-immature.md) · [후박](../herbs/magnolia-bark.md) |
+| [149조 · 반하사심탕](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149) | 비증·한열병조 | 심하가 그득하지만 아프지 않은 비와 결흉의 구별 | [반하사심탕](../formulas/banxia-xiexin-tang.md) · [반하](../herbs/pinellia.md) · [황금](../herbs/scutellaria.md) · [황련](../herbs/coptis.md) |
+| [316조 · 진무탕](../classics/shanghanlun/clauses/shaoyin.md#clause-316) | 소음·양허수기 | 복통·소변불리·사지 무거움·하리 | [진무탕](../formulas/zhenwu-tang.md) · [복령](../herbs/poria.md) · [백출](../herbs/atractylodes.md) |
+| [71조 · 오령산](../classics/shanghanlun/clauses/taiyang-middle.md#clause-071) | 수기·기화 | 갈증·소변불리·부맥·복약 이력 | [오령산](../formulas/wuling-san.md) · [택사](../herbs/alisma.md) · [저령](../herbs/polyporus.md) · [복령](../herbs/poria.md) |
+| [386조 · 이중환·이중탕](../classics/shanghanlun/clauses/huoluan.md#clause-386) | 중초허한·온중 | 토리·갈증의 한열 구분과 제형 | [이중환·이중탕](../formulas/lizhong-tang.md) · [인삼](../herbs/ginseng.md) · [건강](../herbs/dried-ginger.md) · [백출](../herbs/atractylodes.md) |
 
+사심탕류는 149조에서 비와 결흉을 먼저 나누고 154·157·158조의 대황황련사심탕·생강사심탕·감초사심탕으로 이어 읽습니다. 승기탕류도 대변 상태와 복약 뒤 반응을 확인하여 구성을 비교합니다.
 
-이 표는 대표 구조를 보기 위한 것이며, 실제 상한론의 처방 선택에서는 맥·증·병위와 병성의 세부 판단이 함께 필요하다.
+현대 연구는 [처방별 근거 허브](../authority/formulas/herbal-formula-evidence-hub.md)와 [고전→현대 연구 연결 지도](../network/classic-to-evidence-map.md#clinical-examples)로 이어집니다. 반하사심탕·소시호탕·진무탕·오령산의 기존 문서에서는 사람 대상 연구의 대상·가감·병용 조건을 확인할 수 있습니다. 다른 처방은 확인된 자료의 범위 안에서 원문·구성을 읽고 연구를 탐색합니다.
 
-→ [방제 구조로 찾기](../formula-architecture/index.md)
-
+[방제 전체](../formulas/index.md) · [본초 효능별 찾기](../herbal-integrated/herbs.md) · [장중경의 두 고전 연결](../network/classic-to-evidence-map.md#zhongjing-network)
 
 ## 상한론식 임상 추론 {#clinical-reasoning}
 

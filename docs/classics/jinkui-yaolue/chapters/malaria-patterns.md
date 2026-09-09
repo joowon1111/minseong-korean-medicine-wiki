@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 반복되는 한열을 맥·한열의 비중·장기 경과로 구별합니다. 학모와 온학·단학·빈학은 같은 발열을 한 처방으로 묶지 않는 분류입니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 瘧病脈證并治第四
 

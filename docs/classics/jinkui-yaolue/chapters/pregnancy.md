@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 임신 중 출혈·복통·구토·소변불리·수기를 나누어 읽습니다. 계지복령환·교애탕·당귀작약산의 출전이 있어도 임신 중 보편적 안전성을 뜻하지 않습니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 婦人妊娠病脈證并治第二十
 

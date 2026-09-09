@@ -114,6 +114,9 @@ plugins:
       shanghan-network/formula-map.md: shanghan-network/index.md
       shanghan-network/clinical-reasoning.md: shanghan-network/index.md
       shanghan-network/integrated-map.md: shanghan-network/index.md
+      classics/jinkui-yaolue/chapters/miscellaneous-historical.md: jingui-network/index.md
+      classics/jinkui-yaolue/chapters/animal-food-historical.md: jingui-network/index.md
+      classics/jinkui-yaolue/chapters/plant-food-historical.md: jingui-network/index.md
       jingui-network/misc-disease-framework.md: jingui-network/index.md
       jingui-network/chest-bi-heart-pain.md: jingui-network/index.md
       jingui-network/phlegm-fluid.md: jingui-network/index.md
@@ -1031,7 +1034,7 @@ nav:
           - 소시호탕 주치 조문: classics/shanghanlun/xiaochaihu-indication.md
       - 금궤요략:
         - 개요: classics/jinkui-yaolue.md
-        - 전체 25편·주제별 지도: jingui-network/index.md
+        - 임상편 원문·주제별 지도: jingui-network/index.md
         - 서문·판본과 읽는 기준: classics/jinkui-yaolue/chapters/preface.md
         - 총론·경습갈·중풍·허로:
           - 1편 · 장부경락선후병: classics/jinkui-yaolue/chapters/organs-meridians.md
@@ -1059,10 +1062,6 @@ nav:
           - 20편 · 부인 임신병: classics/jinkui-yaolue/chapters/pregnancy.md
           - 21편 · 부인 산후병: classics/jinkui-yaolue/chapters/postpartum.md
           - 22편 · 부인 잡병: classics/jinkui-yaolue/chapters/gynecology.md
-        - 잡료·음식 금기의 문헌사:
-          - 23편 · 잡료방: classics/jinkui-yaolue/chapters/miscellaneous-historical.md
-          - 24편 · 금수어충 금기: classics/jinkui-yaolue/chapters/animal-food-historical.md
-          - 25편 · 과실채곡 금기: classics/jinkui-yaolue/chapters/plant-food-historical.md
       - 비급천금요방: classics/beiji-qianjin-yaofang.md
       - 비위론: classics/piwei-lun.md
       - 의학입문: classics/uihak-ipmun.md
@@ -1101,7 +1100,7 @@ nav:
       - 고전 읽는 순서: classics-network/reading-path.md
     - 황제내경 핵심 지식망: neijing-network/index.md
     - 상한론 핵심 지식망: shanghan-network/index.md
-    - 금궤요략 전체 원문·지식망: jingui-network/index.md
+    - 금궤요략 임상 원문·지식망: jingui-network/index.md
     - 동의보감 핵심 지식망:
       - donguibogam-network/index.md
       - 탕액편: classics/donguibogam-tangaek.md

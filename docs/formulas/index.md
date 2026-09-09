@@ -1,4 +1,4 @@
-﻿---
+---
 title: 방제학
 description: 대표 한약 처방의 구성·방의·고전적 활용과 현대 임상연구를 정리합니다.
 tags:
@@ -17,6 +17,8 @@ last_reviewed: '2026-09-05'
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
+- [상한론 조문·처방·구성 본초 지도](../shanghan-network/index.md#formula-map) · [금궤요략 임상·처방 지도](../jingui-network/index.md#integrated-map)
+- [동의보감 5편 임상 색인](../donguibogam-network/index.md#clinical-index) · [원전에서 현대 근거까지](../network/classic-to-evidence-map.md#clinical-examples)
 
 <!-- EXPANDED_FORMULA_MAP_START -->
 

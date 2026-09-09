@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 산후의 혈·진액 손상에서 경·울모·변비를 이해하고 복통·어혈·외감·하리로 이어갑니다. 산후라는 시기만으로 모든 병증을 보법 하나에 넣지 않습니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 婦人產後病脈證治第二十一
 

@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 흉부의 막힘과 통증에서 허와 실, 담음·한·기체의 관계를 살핍니다. 가슴과 등으로 뻗는 통증은 고전 학습과 실제 응급 평가를 구별해야 하는 대표 사례입니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 胸痹心痛短氣病脈證治第九
 

@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 놀람과 두근거림, 코피·토혈·하혈, 어혈의 갈증·안색·복부 소견을 읽습니다. 출혈 뒤 발한 금기와 출혈 순서의 역사적 분류가 함께 나옵니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 驚悸吐衄下血胸滿瘀血病脈證治第十六
 

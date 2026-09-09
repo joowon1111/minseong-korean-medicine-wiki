@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 구토와 갈증의 선후, 위반·심하비·얼역, 한리·열리·실리·허번을 구별합니다. 같은 토리에도 온·청·보·하·고삽이 달라지는 조건을 살핍니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 嘔吐噦下利病脈證治第十七
 

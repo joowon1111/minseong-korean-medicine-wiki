@@ -8,7 +8,7 @@ last_reviewed: 2026-08-19
 # 계지탕(桂枝湯)
 
 ## 출전
-《상한론》 계통의 대표 처방이다.
+《상한론》 계통의 대표 처방이다. [12조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-012)에서 태양중풍의 증후와 원방·복용 뒤 관찰을, [13조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-013)에서 두통·발열·한출·오풍의 주치를 이어서 읽을 수 있다.
 
 ## 원전 구성
 Chinese Text Project 전승문에는 다음과 같이 수록되어 있다.
@@ -27,7 +27,7 @@ Chinese Text Project 전승문에는 다음과 같이 수록되어 있다.
 → [조문 전체 해설](../classics/shanghanlun/guizhi-indication.md)
 
 ## 전통적 방의
-계지와 생강의 신온한 성질, 작약, 감초·대조의 조합을 통해 영위(營衛)를 조화시키고 해기(解肌)하는 처방으로 설명되어 왔다.
+[계지](../herbs/cinnamon-twig.md)와 [생강](../herbs/fresh-ginger.md)의 신온한 성질, [작약](../herbs/white-peony.md), [감초](../herbs/licorice.md)·[대조](../herbs/jujube-fruit.md)의 조합을 통해 영위(營衛)를 조화시키고 해기(解肌)하는 처방으로 설명되어 왔다.
 
 ## 마황탕과 비교
 - 계지탕 대표 조문: **汗出 + 惡風**

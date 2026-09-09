@@ -7,7 +7,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 눌렀을 때의 통증, 복만의 지속성, 냉감·구토·대변·맥으로 온법과 하법의 조건을 읽습니다. 대건중탕·후박탕류·승기탕류·당귀생강양육탕이 갈리는 편입니다.
 
-[전체 25편 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
+[임상편 원문 지도](../../../jingui-network/index.md#complete-chapters) · [금궤요략 개요](../../jinkui-yaolue.md) · [판본·인용 기준](preface.md#edition)
 
 **원 편명:** 腹滿寒疝宿食病脈證治第十
 
