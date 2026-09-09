@@ -1,26 +1,45 @@
 ---
 title: 보중익기탕 임상근거
-description: 보중익기탕의 COPD·기능성 변비 등 다양한 질환 영역 RCT meta-analysis를 정리합니다.
+description: 보중익기탕의 COPD·성인 기능성 변비 SR과 암 관련 피로·면역항암 병용 예비 RCT를 대상·제제·비교군·결과별로 구분합니다.
 tags: [보중익기탕, 임상근거, 보기]
 status: 검토완료
 last_reviewed: 2026-08-19
 ---
-# 보중익기탕 — 현대 임상근거
+# 보중익기탕 — 현대 임상근거 {#_1}
 
-[보중익기탕](../../formulas/buzhong-yiqi-tang.md)은 이동원의 비위학설을 대표하는 보기·승양 처방이다.
+[보중익기탕](../../formulas/buzhong-yiqi-tang.md)은 보기·승양 처방입니다. [《비위론》](../../classics/piwei-lun.md#clinical-evidence)의 식사·기력·기능이라는 질문을 현대 연구와 연결할 때에는 **누구에게, 어떤 제제를, 무엇과 비교해, 어떤 결과로 평가했는지**를 먼저 확인합니다.
 
-## 안정기 COPD
-2016년 systematic review/meta-analysis는 안정기 COPD에서 보중익기탕의 randomized clinical trials를 종합했다. 기존 치료와 병용한 연구들을 중심으로 폐기능·임상 증상·삶의 질 등 여러 결과가 평가됐다.
+## 안정기 COPD {#copd}
 
-## 기능성 변비
-2018년에는 가미 보중익기탕의 성인 기능성 변비 RCT를 종합한 meta-analysis가 발표됐다. 비위기허·중기하함이라는 전통적 활용을 현대 소화기 기능 연구와 연결한 사례다.
+2016년 SR·메타분석은 안정기 COPD의 **16개 연구·1,400명**을 종합했습니다. 보중익기탕 단독 또는 통상 치료 병용을 통상 치료 단독 또는 위약 추가와 비교했습니다. 6분보행거리의 통합 평균 차이는 51.22m(95% CI 45.56–56.89), CAT 점수는 −2.56점(95% CI −3.40–−1.72)이었습니다. 이는 해당 연구군의 통합 추정치이며 개인의 예상 개선량은 아닙니다. [Chen et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27912964/)
 
-## 의미
-보중익기탕은 단순한 '피로 처방'보다 **비위기허와 승거 기능의 약화**를 중심으로 하는 처방이며, 현대 연구에서도 호흡기·소화기·허약 관련 다양한 영역으로 연구가 확장되어 왔다.
+폐기능 수치뿐 아니라 보행과 증상 부담을 평가한 연구입니다. 일반적인 피로·소아 허약에 같은 효과를 보장하는 자료로 확대하지 않고, COPD의 기존 치료·재활과 연구별 병용 조건을 함께 읽습니다.
 
-## 주요 논문
-1. Chen Y, et al. *A systematic review and meta-analysis of Buzhong Yiqi Tang for stable chronic obstructive pulmonary disease.* **PMID 27912964**.
-2. Gong H, et al. *Modified Buzhong-Yiqi-Tang for Functional Constipation in Adults: A Meta-Analysis of Randomized Controlled Trials.* **PMID 29552087**.
+## 기능성 변비 {#_2}
 
-→ [이동원](../../physicians/li-dongyuan.md)  
-→ [중기하함](../../glossary/sinking-middle-qi.md)
+2018년 SR·메타분석은 **성인 2,089명의 25개 RCT**를 포함했습니다. 연구 대상은 **가미 보중익기탕**이며, 하제·위장운동촉진제와의 비교 또는 기존 치료에 추가하는 설계가 포함되었습니다. 증상 개선에 유리한 결과가 보고되었으나 저자들은 포함 연구의 전반적인 질이 제한적이라고 평가했습니다. [Gong et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29552087/)
+
+가미 처방 전체를 묶은 결과를 고전 8미 원방이나 모든 시판 제제의 결과로 동일시하지 않습니다. [변비](../../conditions/constipation.md)의 원인·약물·배변 양상과 [중기하함](../../glossary/sinking-middle-qi.md)의 변증은 각각 확인합니다.
+
+## 암 관련 피로: 대기군과 비교한 예비시험 {#cancer-fatigue-pilot}
+
+2010년 국내 시험은 암 관련 피로 환자 **40명**을 보중익기탕 **TJ-41 제제군과 대기군**으로 나누어 2주간 관찰했습니다. 피로와 삶의 질의 일부 지표에서 유의한 개선을 보고했습니다. 위약대조가 아닌 짧은 예비시험이므로 장기 효과나 다른 피로 원인에 대한 결론과 구분합니다. [Jeong et al., 2010](https://pubmed.ncbi.nlm.nih.gov/21059621/)
+
+## 면역항암 병용: 안전성과 탐색 결과 {#ici-safety-pilot}
+
+2025년 다기관 위약대조 예비시험은 아테졸리주맙 단독치료 중인 진행성 비소세포폐암 환자 **28명(각 군 14명)**을 평가했습니다. 일차 평가는 이상사건·면역관련 이상사건, 이차 평가는 피로·근감소였으며 일부 환자에서 면역지표를 탐색했습니다. 피로·근육 관련 증상과 종양반응의 군 간 차이는 유의하지 않았습니다. 보중익기탕군에서 중증 면역관련 이상사건 1건이 보고되었습니다. 이 사건의 보고를 처방의 인과관계 확정으로 읽지도, 소규모 관찰을 병용 안전성 보장으로 읽지도 않습니다. [Ko et al., 2025](https://pubmed.ncbi.nlm.nih.gov/40731270/)
+
+암 치료 중 피로는 치료 일정·빈혈·영양·감염·수면 등과 함께 평가합니다. 구체적인 회복 관찰은 [암 치료 후 회복](../../conditions/cancer-treatment-recovery.md)에서 이어 봅니다.
+
+## 의미 {#_3}
+
+네 연구는 같은 ‘기력 개선’ 질문을 반복한 것이 아닙니다. COPD는 호흡·보행, 변비는 배변 증상, 암 피로 시험은 피로·삶의 질, 면역항암 병용 시험은 안전성과 탐색적 기능·면역지표를 살폈습니다. **SR은 포함 연구를 종합하고, 예비 RCT는 다음 연구의 가능성과 설계를 살피며, CPG 권고는 별도로 확인합니다.**
+
+원전·제제의 차이는 [고전 구성표](../../formulas/buzhong-yiqi-classic.md#piwei-composition), 실제 처방의 감별과 감초 중복 등 복용 관찰은 [보중익기탕 해설](../../formulas/buzhong-yiqi-tang.md), 다른 처방과의 근거 비교는 [현대 임상근거 허브](../../pillar/clinical-evidence.md)로 연결합니다.
+
+## 주요 논문 {#_4}
+
+1. Chen Y, et al. 안정기 COPD SR·메타분석. *Complement Ther Med.* 2016;29:94–108. [PMID 27912964](https://pubmed.ncbi.nlm.nih.gov/27912964/).
+2. Gong H, et al. 성인 기능성 변비의 가미 보중익기탕 메타분석. *Evid Based Complement Alternat Med.* 2018:9602525. [PMID 29552087](https://pubmed.ncbi.nlm.nih.gov/29552087/).
+3. Jeong JS, et al. 암 관련 피로 예비 무작위시험. *Integr Cancer Ther.* 2010;9(4):331–338. [PMID 21059621](https://pubmed.ncbi.nlm.nih.gov/21059621/).
+4. Ko MM, et al. 면역관문억제제 병용 예비 무작위시험. *BMC Cancer.* 2025;25:1229. [PMID 40731270](https://pubmed.ncbi.nlm.nih.gov/40731270/).
