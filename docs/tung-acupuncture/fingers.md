@@ -1,9 +1,9 @@
 ---
-title: 동씨침법 손가락 · 대간·소간·중간
-description: 동씨침법 손가락 · 대간·소간·중간의 위치 도해와 촉지 기준, 전승별 표기, 임상에서 확인할 증상·기능 및 기존 경혈 자료를 연결합니다.
+title: 동씨침법 손가락 · 대간·소간·중간·측간
+description: 동씨침법 손가락 · 대간·소간·중간·측간의 위치 도해와 촉지 기준, 전승별 표기, 임상에서 확인할 증상·기능 및 기존 경혈 자료를 연결합니다.
 tags: [동씨침법, 동씨기혈, 경혈, 침구]
 ---
-# 동씨침법 손가락 · 대간·소간·중간 {#overview}
+# 동씨침법 손가락 · 대간·소간·중간·측간 {#overview}
 
 손가락 끝이 아니라 검지가 손바닥에서 올라오는 첫 마디를 봅니다. 손바닥 쪽 손가락 뿌리주름과 첫 마디 굽힘주름 사이에서 중앙과 엄지 쪽을 구별합니다.
 
@@ -12,8 +12,8 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 ## 위치 도해 {#diagram}
 
 <figure>
-<object data="/assets/tung-atlas/fingers.svg" type="image/svg+xml" width="720" height="660" style="width:100%;height:auto;aspect-ratio:12/11" aria-label="동씨침법 손가락 · 대간·소간·중간 도해">
-<img src="/assets/tung-atlas/fingers.svg" alt="동씨침법 손가락 · 대간·소간·중간 — 손바닥 쪽 검지 확대" width="720" height="660" loading="lazy" />
+<object data="/assets/tung-atlas/fingers.svg" type="image/svg+xml" width="720" height="660" style="width:100%;height:auto;aspect-ratio:12/11" aria-label="동씨침법 손가락 · 대간·소간·중간·측간 도해">
+<img src="/assets/tung-atlas/fingers.svg" alt="동씨침법 손가락 · 대간·소간·중간·측간 — 손바닥 쪽 검지 확대" width="720" height="660" loading="lazy" />
 </object>
 <figcaption>손가락의 작은 간격을 확대해 상대적 배열을 보여 줍니다. 본문의 촌·분을 화면의 길이나 고정된 mm로 환산하지 않습니다.</figcaption>
 </figure>
@@ -47,6 +47,14 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 [위치 출처 · 中間](https://www.tungs-acupuncture.com/中間穴/) · [도해에서 중간 보기](../assets/tung-atlas/fingers.svg#zhongjian)
 
 손가락 첫 마디의 기준은 [eLotus 중간혈 위치 설명](https://www.mastertungacupuncture.org/acupuncture/tung/points/zhongjian-t-1105)에서도 손바닥 쪽 뿌리주름과 첫 마디 굽힘주름 사이로 확인할 수 있습니다. 대간·소간의 상세 배열은 위에 표시한 전승 자료를 따릅니다.
+
+### 측간 側間 {#cejian}
+
+**위치:** 검지 첫 마디 손바닥면에서 대간보다 손바닥 방향으로 2분 5리 떨어진 자리입니다.
+
+대간을 중심으로 손끝 쪽 소간과 손바닥 쪽 측간이 마주합니다. 전승에서는 기침·가래·인후 불편 등에 연결하며, 한 줄에 놓인 세 혈과 중앙의 중간을 구별합니다.
+
+[위치 출처 · 側間](https://www.tungs-acupuncture.com/大間穴/) · [도해에서 측간 보기](../assets/tung-atlas/fingers.svg#cejian)
 
 ## 임상에서 함께 확인할 것 {#clinical}
 

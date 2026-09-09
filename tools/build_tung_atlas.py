@@ -12,6 +12,14 @@ def text(x,y,value,size=16):
     return f'<text x="{x}" y="{y}" font-size="{size}">{html.escape(value)}</text>'
 
 def anatomy(shape):
+    if shape=='forearm-ulnar':
+        return path('M206 145 Q258 105 309 145 L300 532 L222 532 Z','skin')+path('M268 152 L268 509','bone')+path('M231 142 Q270 119 293 151 M224 520 L298 520')+text(220,91,'팔꿈치 끝',16)+text(211,563,'손목 주름',15)+text(91,338,'자뼈 가장자리',14)
+    if shape=='lowerleg-front':
+        return path('M179 146 Q262 121 348 146 L329 307 L311 562 L217 562 L199 308 Z','skin')+path('M258 218 L260 532 M318 225 L298 530','bone')+'<ellipse class="landmark" cx="260" cy="176" rx="29" ry="35"/>'+path('M244 215 L271 215 M226 541 L307 541')+text(315,206,'외슬안',14)+text(80,377,'정강뼈',15)+text(227,596,'발목 방향',15)
+    if shape=='lowerleg-lateral':
+        return path('M171 149 Q240 111 302 156 Q354 244 321 341 L287 526 Q283 552 261 557 L204 557 L179 333 Z','skin')+path('M255 187 L260 534','bone')+path('M182 174 Q231 198 283 175')+'<circle class="landmark" cx="260" cy="537" r="12"/>'+text(190,91,'무릎 가쪽',16)+text(71,364,'앞 · 정강이',14)+text(333,364,'뒤 · 종아리',14)+text(229,590,'바깥 복사뼈',14)
+    if shape=='thigh-medial':
+        return path('M173 137 Q257 110 341 137 L318 478 Q311 544 291 561 L217 561 Q194 536 189 478 Z','skin')+path('M198 173 Q237 309 221 476 M320 184 Q285 319 290 482')+path('M227 531 Q254 513 288 533')+text(217,91,'몸통 방향',16)+text(205,597,'무릎 안쪽',16)
     if shape in ('hand','palm'):
         outline='M255 570 L254 488 Q199 453 157 381 L101 302 Q88 280 105 270 Q124 260 144 290 L198 337 Q215 345 216 307 L200 144 Q199 122 217 121 Q236 121 239 145 L255 280 L258 94 Q258 69 277 69 Q297 69 297 95 L304 279 L317 121 Q319 99 338 104 Q355 107 353 132 L350 296 L372 205 Q379 183 397 191 Q414 200 407 224 L385 386 Q383 449 350 489 L352 570 Z'
         lines='M226 303 L285 474 M291 302 L309 474 M336 315 L329 474 M380 337 L348 474 M178 374 L260 483'
@@ -34,7 +42,8 @@ STYLE='''text{font-family:system-ui,"Noto Sans KR",sans-serif;fill:#29424a}.skin
 
 def render(region):
     title='동씨침법 · '+region['title']
-    out=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 660" role="img" aria-labelledby="title desc"><title id="title">{html.escape(title)}</title><desc id="desc">{html.escape(region["view"]+". "+region["note"])}</desc><style>{STYLE}</style><rect width="720" height="660" rx="18" fill="white"/>',text(24,34,title,21),text(24,61,region['view'],14),anatomy(region['shape'])]
+    title_size = 17 if len(title)>30 else 21
+    out=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 660" role="img" aria-labelledby="title desc"><title id="title">{html.escape(title)}</title><desc id="desc">{html.escape(region["view"]+". "+region["note"])}</desc><style>{STYLE}</style><rect width="720" height="660" rx="18" fill="white"/>',text(24,34,title,title_size),text(24,61,region['view'],14),anatomy(region['shape'])]
     for i,p in enumerate(sorted(region['points'],key=lambda p:p['y'])):
         yy=160+i*65
         href='/tung-acupuncture/'+region['id']+'/#'+p['id']
