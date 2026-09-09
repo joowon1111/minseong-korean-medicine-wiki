@@ -6,8 +6,10 @@ copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/
 use_directory_urls: true
 extra_javascript:
   - assets/korean-search-185.js
+  - assets/acupoint-atlas/explorer.js
 extra_css:
 - assets/extra.css
+- assets/acupoint-atlas/explorer.css
 - stylesheets/portal.css
 - assets/korean-search-185.css
 extra:

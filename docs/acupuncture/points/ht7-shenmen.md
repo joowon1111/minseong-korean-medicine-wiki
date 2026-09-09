@@ -18,6 +18,10 @@ last_reviewed: 2026-08-22
 
 ## 위치와 취혈
 
+[![손목 앞쪽의 신문 위치 — 해부학적 표지와 경혈의 상대적인 위치를 단순화한 교육용 그림](../../assets/acupoint-atlas/wrist-palmar.svg)](../../assets/acupoint-atlas/wrist-palmar.svg)
+
+그림을 누르면 크게 볼 수 있습니다. 실제 크기·자침 깊이를 나타내는 그림은 아니며, 아래 위치 설명과 함께 확인합니다. [그림으로 다른 경혈 찾기](../../acupoint-network/standard-atlas.md#visual-hand) · [표준 위치·취혈 자료](https://www.kmcric.com/database/acupoint/HT/HT7)
+
 **손목 앞주름의 척측, 척측수근굴근건 요측**을 기준으로 취혈합니다. 실제 임상에서는 체형 차이와 촉진, 뼈·근육·건·혈관·신경 등 해부학적 표지를 함께 확인합니다.
 
 ## 경맥과 특정혈에서의 의미
