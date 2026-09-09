@@ -18,6 +18,10 @@ tags: [경혈, 수태음폐경, 특정혈, 침구]
 
 ### WHO 표준 기반 위치
 
+[![손목 앞쪽의 태연 위치 — 해부학적 표지와 경혈의 상대적인 위치를 단순화한 교육용 그림](../../assets/acupoint-atlas/wrist-palmar.svg)](../../assets/acupoint-atlas/wrist-palmar.svg)
+
+그림을 누르면 크게 볼 수 있습니다. 실제 크기·자침 깊이를 나타내는 그림은 아니며, 아래 위치 설명과 함께 확인합니다. [그림으로 다른 경혈 찾기](../../acupoint-network/standard-atlas.md#visual-hand) · [표준 위치·취혈 자료](https://www.kmcric.com/database/acupoint/LU/LU9)
+
 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳.
 
 ### 실제 취혈 포인트
