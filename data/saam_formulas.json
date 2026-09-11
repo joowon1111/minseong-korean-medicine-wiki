@@ -1,0 +1,282 @@
+{
+  "scope": "12경맥의 기본 정격·승격 24조합; 현대 WHO 경혈 코드",
+  "source": "https://doi.org/10.1155/2015/703439",
+  "formulas": [
+    {
+      "meridian": "LU",
+      "name": "폐",
+      "route": "lung",
+      "tonify": [
+        "LU9",
+        "SP3"
+      ],
+      "sedate": [
+        "LU10",
+        "HT8"
+      ],
+      "excess_tonify": [
+        "LU10",
+        "HT8"
+      ],
+      "excess_sedate": [
+        "LU5",
+        "KI10"
+      ],
+      "assessment": "기침·숨참의 경과, 목 건조감, 활동 시 피로",
+      "clinical": "호흡기 증상은 기침 빈도·야간 각성·활동 제한을 함께 봅니다. 갑자기 생긴 숨참은 먼저 원인을 평가합니다."
+    },
+    {
+      "meridian": "LI",
+      "name": "대장",
+      "route": "large-intestine",
+      "tonify": [
+        "LI11",
+        "ST36"
+      ],
+      "sedate": [
+        "LI5",
+        "SI5"
+      ],
+      "excess_tonify": [
+        "LI5",
+        "SI5"
+      ],
+      "excess_sedate": [
+        "LI2",
+        "BL66"
+      ],
+      "assessment": "배변 양상, 치통·인후 불편, 팔 가쪽 통증",
+      "clinical": "장 증상과 팔의 국소 통증을 구별합니다. 곡지·양계의 선택 이유가 전신 변증인지 팔꿈치·손목 증상인지 기록합니다."
+    },
+    {
+      "meridian": "ST",
+      "name": "위",
+      "route": "stomach",
+      "tonify": [
+        "ST41",
+        "SI5"
+      ],
+      "sedate": [
+        "ST43",
+        "GB41"
+      ],
+      "excess_tonify": [
+        "ST43",
+        "GB41"
+      ],
+      "excess_sedate": [
+        "ST45",
+        "LI1"
+      ],
+      "assessment": "식사 후 불편·구역, 얼굴·턱, 다리 앞면 통증",
+      "clinical": "음식과 증상의 관계, 식사량, 구역 빈도를 기준으로 봅니다. 위정격에 족삼리가 포함된다고 혼동하지 않습니다."
+    },
+    {
+      "meridian": "SP",
+      "name": "비",
+      "route": "spleen",
+      "tonify": [
+        "SP2",
+        "HT8"
+      ],
+      "sedate": [
+        "SP1",
+        "LR1"
+      ],
+      "excess_tonify": [
+        "SP1",
+        "LR1"
+      ],
+      "excess_sedate": [
+        "SP5",
+        "LU8"
+      ],
+      "assessment": "식욕·묽은 변·피로, 부종감, 다리 안쪽 불편",
+      "clinical": "피로 하나만으로 정격을 선택하지 않고 소화·대변·냉열·회복 양상을 함께 봅니다. 출혈 증상은 원인 평가와 치료가 선행합니다."
+    },
+    {
+      "meridian": "HT",
+      "name": "심",
+      "route": "heart",
+      "tonify": [
+        "HT9",
+        "LR1"
+      ],
+      "sedate": [
+        "HT3",
+        "KI10"
+      ],
+      "excess_tonify": [
+        "HT3",
+        "KI10"
+      ],
+      "excess_sedate": [
+        "HT7",
+        "SP3"
+      ],
+      "assessment": "두근거림·수면, 팔 안쪽 통증",
+      "clinical": "두근거림은 부정맥·약물·카페인 등의 평가와 구별해서 기록합니다. 심정격을 특정 심장질환의 처방으로 고정하지 않습니다."
+    },
+    {
+      "meridian": "SI",
+      "name": "소장",
+      "route": "small-intestine",
+      "tonify": [
+        "SI3",
+        "GB41"
+      ],
+      "sedate": [
+        "SI2",
+        "BL66"
+      ],
+      "excess_tonify": [
+        "SI2",
+        "BL66"
+      ],
+      "excess_sedate": [
+        "SI8",
+        "ST36"
+      ],
+      "assessment": "목·견갑부와 팔 뒤쪽 통증, 팔꿈치 불편",
+      "clinical": "목 돌리기·팔 올리기와 견갑부 통증 분포를 비교합니다. 후계의 독맥 연결은 소장정격 안의 역할과 나누어 읽습니다."
+    },
+    {
+      "meridian": "BL",
+      "name": "방광",
+      "route": "bladder",
+      "tonify": [
+        "BL67",
+        "LI1"
+      ],
+      "sedate": [
+        "BL40",
+        "ST36"
+      ],
+      "excess_tonify": [
+        "BL40",
+        "ST36"
+      ],
+      "excess_sedate": [
+        "BL65",
+        "GB41"
+      ],
+      "assessment": "허리·하지 뒤쪽 통증, 배뇨 양상",
+      "clinical": "뒤쪽 방사통의 분포와 근력·감각·보행을 평가합니다. 요통에서 사용하는 방광정격과 배뇨장애 진단은 같은 뜻이 아닙니다."
+    },
+    {
+      "meridian": "KI",
+      "name": "신",
+      "route": "kidney",
+      "tonify": [
+        "KI7",
+        "LU8"
+      ],
+      "sedate": [
+        "KI3",
+        "SP3"
+      ],
+      "excess_tonify": [
+        "KI3",
+        "SP3"
+      ],
+      "excess_sedate": [
+        "KI1",
+        "LR1"
+      ],
+      "assessment": "허리·무릎의 허약감, 냉감·건조, 배뇨",
+      "clinical": "신허라는 전통 변증과 신장기능검사 이상을 구분합니다. 야간뇨·부종·체중 변화는 원인 질환을 함께 살핍니다."
+    },
+    {
+      "meridian": "PC",
+      "name": "심포",
+      "route": "pericardium",
+      "tonify": [
+        "PC9",
+        "LR1"
+      ],
+      "sedate": [
+        "PC3",
+        "KI10"
+      ],
+      "excess_tonify": [
+        "PC3",
+        "KI10"
+      ],
+      "excess_sedate": [
+        "PC7",
+        "SP3"
+      ],
+      "assessment": "긴장·수면·흉부 불편, 팔 앞쪽 통증",
+      "clinical": "흉부 불편의 원인 평가 후 수면과 긴장 정도를 목표로 삼을 수 있습니다. 내관은 심포정격 기본 네 혈에 포함되지 않습니다."
+    },
+    {
+      "meridian": "TE",
+      "name": "삼초",
+      "route": "triple-energizer",
+      "tonify": [
+        "TE3",
+        "GB41"
+      ],
+      "sedate": [
+        "TE2",
+        "BL66"
+      ],
+      "excess_tonify": [
+        "TE2",
+        "BL66"
+      ],
+      "excess_sedate": [
+        "TE10",
+        "ST36"
+      ],
+      "assessment": "관자·귀 주위, 목·어깨·팔 뒤쪽 불편",
+      "clinical": "귀 증상은 발생 시점과 청력 변화를, 통증은 목·어깨 움직임을 확인합니다. 갑작스러운 청력 저하는 지체 없이 진료합니다."
+    },
+    {
+      "meridian": "GB",
+      "name": "담",
+      "route": "gallbladder",
+      "tonify": [
+        "GB43",
+        "BL66"
+      ],
+      "sedate": [
+        "GB44",
+        "LI1"
+      ],
+      "excess_tonify": [
+        "GB44",
+        "LI1"
+      ],
+      "excess_sedate": [
+        "GB38",
+        "SI5"
+      ],
+      "assessment": "측두부·옆구리, 엉덩이·하지 가쪽 통증",
+      "clinical": "증상 분포와 경추·고관절·말초신경 평가를 연결합니다. 담정격이라는 이름을 담낭 질환에 대한 단독 치료로 해석하지 않습니다."
+    },
+    {
+      "meridian": "LR",
+      "name": "간",
+      "route": "liver",
+      "tonify": [
+        "LR8",
+        "KI10"
+      ],
+      "sedate": [
+        "LR4",
+        "LU8"
+      ],
+      "excess_tonify": [
+        "LR4",
+        "LU8"
+      ],
+      "excess_sedate": [
+        "LR2",
+        "HT8"
+      ],
+      "assessment": "옆구리 긴장·근육 당김, 월경·하복부 증상",
+      "clinical": "스트레스·식사·월경 주기와 증상의 관계를 봅니다. 간정격·간승격을 간수치 이상과 일대일 대응시키지 않습니다."
+    }
+  ]
+}

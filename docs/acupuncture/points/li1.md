@@ -29,7 +29,17 @@ last_reviewed: 2026-08-22
 
 **오수혈·정혈**
 
-이 혈의 전통적 효능·주치는 질환명 하나와 일대일로 고정하지 않고 **수양명대장경의 유주, 국소 해부학, 특정혈 성격, 환자의 변증과 대표 배혈**을 함께 보아 해석합니다. 기존 위키에 축적된 주치·배혈·현대연구 내용은 삭제하지 않고 이 표준 위치 정보와 통합해 읽습니다.
+<!-- ACUPOINT_CLINICAL_START -->
+| 항목 | 내용 |
+|---|---|
+| 대표 주치·용도 | 치통 · 인후 통증 · 손·손가락 통증 |
+| 효능의 전통적 설명 | 이인 — 인후 불편을 조절; 안신 — 긴장·수면 불편을 조절 |
+| 임상 평가·활용 | 개구량·씹을 때 통증과 치아·턱관절 원인을 함께 확인합니다. [평가 자료](../../conditions/temporomandibular-disorder.md) |
+| 주치 출처 | [상양 전통 주치·교육자료](https://www.americandragon.com/Points/LI-1.html) |
+| 사암침법에서의 역할 | [위승격 사혈](../../acupuncture-specific/saam-12-meridians.md#st) · [방광정격 보혈](../../acupuncture-specific/saam-12-meridians.md#bl) · [담정격 사혈](../../acupuncture-specific/saam-12-meridians.md#gb) · [담승격 보혈](../../acupuncture-specific/saam-12-meridians.md#gb) |
+
+주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+<!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전
 

@@ -28,7 +28,17 @@ last_reviewed: 2026-08-22
 
 ## 전통적 임상 연결
 
-전통 침구학에서는 **소화·식욕·복부·피로·회복·하지** 영역과 연결해 활용해 왔습니다. 한 혈을 특정 질환 하나의 단독 치료점으로 보지 않고 주증·변증·국소 조직 상태를 함께 평가합니다.
+<!-- ACUPOINT_CLINICAL_START -->
+| 항목 | 내용 |
+|---|---|
+| 대표 주치·용도 | 위완부 통증 · 소화불량 · 구토·헛구역 · 하지 통증 |
+| 효능의 전통적 설명 | 건비 — 비위의 소화·운화 기능을 보완; 화위 — 위장 불편과 상역을 조절 |
+| 임상 평가·활용 | 식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다. [평가 자료](../../conditions/functional-dyspepsia.md) |
+| 주치 출처 | [족삼리 전통 주치·교육자료](https://www.americandragon.com/Points/ST-36.html) |
+| 사암침법에서의 역할 | [대장정격 보혈](../../acupuncture-specific/saam-12-meridians.md#li) · [소장승격 사혈](../../acupuncture-specific/saam-12-meridians.md#si) · [방광정격 사혈](../../acupuncture-specific/saam-12-meridians.md#bl) · [방광승격 보혈](../../acupuncture-specific/saam-12-meridians.md#bl) · [삼초승격 사혈](../../acupuncture-specific/saam-12-meridians.md#te) |
+
+주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+<!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈
 

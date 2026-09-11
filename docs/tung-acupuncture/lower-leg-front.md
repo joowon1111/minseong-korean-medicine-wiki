@@ -28,6 +28,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 무릎에서 아래로 재는 사화혈군의 첫 기준점입니다. 족삼리와 겹친다고 설명하는 다른 문헌과 위치선을 섞지 않도록 정강뼈 가장자리라는 기준을 함께 기록합니다.
 
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 기침·천식 증상 · 치통 · 두근거림.
+
+**효능·활용 방향(전승):** 사화 혈군의 전승에서는 호흡·흉부와 소화기 증상을 조절하는 방향으로 활용합니다.
+
+**임상 활용:** 기침과 두근거림의 원인을 구별하고, 사용한 사화 혈의 이름·좌우와 평가할 증상을 구체적으로 남깁니다.
+
+[주치 출처](https://www.tungs-acupuncture.com/四花上穴/)
+<!-- ACUPOINT_CLINICAL_END -->
+
 [위치 출처 · 四花上](https://www.tungs-acupuncture.com/四花上穴/) · [도해에서 사화상 보기](../assets/tung-atlas/lower-leg-front.svg#sihua-upper)
 
 ### 사화중 四花中 {#sihua-middle}
@@ -35,6 +45,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 **위치:** 사화상에서 아래로 4촌 5분입니다. 참고 전승은 외슬안 아래 7촌 5분, 조구 ST38 위 5분으로도 설명합니다.
 
 전승에서는 소화·흉부 불편 등에 연결합니다. 상·중·하가 같은 간격이라는 뜻은 아니며, 무릎에서 내려오는 누적 거리를 함께 확인합니다.
+
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 천식 증상·흉민 · 위장 불편 · 눈 통증.
+
+**효능·활용 방향(전승):** 청폐·조리비위 — 호흡기와 소화기 불편을 다루는 방향입니다.
+
+**임상 활용:** 숨참·야간 각성과 식사 관련 불편을 구별합니다. 눈 통증은 안과적 원인 평가에 연결합니다.
+
+[주치 출처](https://www.tungs-acupuncture.com/四花上穴/)
+<!-- ACUPOINT_CLINICAL_END -->
 
 [위치 출처 · 四花中](https://www.tungs-acupuncture.com/四花上穴/) · [도해에서 사화중 보기](../assets/tung-atlas/lower-leg-front.svg#sihua-middle)
 
@@ -44,6 +64,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 사화중과 사화하 사이에 놓이는 별도의 점입니다. 사화하가 사화부 아래 2촌 5분이라는 董氏心氣神針 기술과 높이 관계가 맞는지 함께 확인할 수 있습니다.
 
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 위통 · 설사 · 흉부 답답함.
+
+**효능·활용 방향(전승):** 전승의 주치는 위장·흉부 증상 조절에 연결됩니다.
+
+**임상 활용:** 사화중과의 간격을 확인합니다. 대변 양상·복통과 호흡·활동 시 흉부 불편을 각각 기록합니다.
+
+[주치 출처](https://www.mastertungacupuncture.org/acupuncture/tung/points/sihuafu-t-7710)
+<!-- ACUPOINT_CLINICAL_END -->
+
 [위치 출처 · 四花副](https://www.mastertungacupuncture.org/acupuncture/tung/points/sihuafu-t-7710) · [도해에서 사화부 보기](../assets/tung-atlas/lower-leg-front.svg#sihua-accessory)
 
 ### 사화하 四花下 {#sihua-lower}
@@ -51,6 +81,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 **위치:** 사화중에서 아래로 5촌, 사화부에서 아래로 2촌 5분입니다.
 
 전승에서는 복부 팽만·위통·장 증상 등에 연결합니다. 발목에 가까운 아래쪽 점이며, 사화상의 높이에서 단순히 등간격으로 점을 복사하지 않습니다.
+
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 위통·복부팽만 · 하지 부종.
+
+**효능·활용 방향(전승):** 이비·화위 — 소화기 불편과 수액 정체를 다루는 방향입니다.
+
+**임상 활용:** 식후 팽만과 부종의 시간대·좌우를 확인하고, 정강이의 국소 압통·혈관 상태도 함께 봅니다.
+
+[주치 출처](https://www.tungs-acupuncture.com/四花上穴/)
+<!-- ACUPOINT_CLINICAL_END -->
 
 [위치 출처 · 四花下](https://www.tungs-acupuncture.com/四花上穴/) · [도해에서 사화하 보기](../assets/tung-atlas/lower-leg-front.svg#sihua-lower)
 

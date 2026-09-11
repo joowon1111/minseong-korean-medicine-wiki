@@ -28,6 +28,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 위팔 가쪽의 혈이며 등 위쪽의 견중수 SI15가 아닙니다. 전승에서 무릎 통증에 위팔을 선택하는 원위 배혈의 예로 소개됩니다.
 
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 무릎 통증 · 어깨 통증.
+
+**효능·활용 방향(전승):** 활혈·통경 — 관절 통증과 움직임 불편을 다루는 방향입니다.
+
+**임상 활용:** 어깨의 국소 불편에 쓰는 목적과 무릎의 원위 배혈 목적을 구분합니다. 팔 올리기 또는 계단 동작을 같은 조건으로 비교합니다.
+
+[주치 출처](https://www.tungs-acupuncture.com/肩中穴、建中穴/)
+<!-- ACUPOINT_CLINICAL_END -->
+
 [위치 출처 · 肩中](https://www.tungs-acupuncture.com/肩中穴、建中穴/) · [도해에서 견중 보기](../assets/tung-atlas/upper-arm.svg#jianzhong)
 
 ### 건중 建中 {#jianzhong-lower}
@@ -35,6 +45,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 **위치:** 견중에서 팔꿈치 방향으로 2촌 아래입니다.
 
 발음이 비슷한 견중·건중은 한자를 함께 확인합니다. 어깨를 들거나 내리면 표면 기준이 변하므로 팔의 자세도 위치 기록에 포함합니다.
+
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 무릎 통증 · 어깨 통증.
+
+**효능·활용 방향(전승):** 활혈·통경 — 관절 통증과 움직임 불편을 다루는 방향입니다.
+
+**임상 활용:** 어깨의 국소 불편에 쓰는 목적과 무릎의 원위 배혈 목적을 구분합니다. 팔 올리기 또는 계단 동작을 같은 조건으로 비교합니다.
+
+[주치 출처](https://www.tungs-acupuncture.com/肩中穴、建中穴/)
+<!-- ACUPOINT_CLINICAL_END -->
 
 [위치 출처 · 建中](https://www.tungs-acupuncture.com/肩中穴、建中穴/) · [도해에서 건중 보기](../assets/tung-atlas/upper-arm.svg#jianzhong-lower)
 

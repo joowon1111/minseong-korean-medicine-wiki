@@ -30,7 +30,17 @@ last_reviewed: 2026-08-22
 
 **오수혈·경혈**
 
-이 혈의 전통적 효능·주치는 질환명 하나와 일대일로 고정하지 않고 **족궐음간경의 유주, 국소 해부학, 특정혈 성격, 환자의 변증과 대표 배혈**을 함께 보아 해석합니다. 기존 위키에 축적된 주치·배혈·현대연구 내용은 삭제하지 않고 이 표준 위치 정보와 통합해 읽습니다.
+<!-- ACUPOINT_CLINICAL_START -->
+| 항목 | 내용 |
+|---|---|
+| 대표 주치·용도 | 배뇨 불편 · 무릎 통증·불편 · 발목 통증 |
+| 활용 방향 | 배뇨 불편의 완화와 무릎 통증·불편의 조절 |
+| 임상 평가·활용 | 배뇨 횟수·야간뇨·통증과 잔뇨감을 구분해 기록합니다. [평가 자료](../../acupuncture-integrated/by-symptom.md) |
+| 주치 출처 | [중봉 전통 주치·교육자료](https://www.americandragon.com/Points/LIV-4.html) |
+| 사암침법에서의 역할 | [간정격 사혈](../../acupuncture-specific/saam-12-meridians.md#lr) · [간승격 보혈](../../acupuncture-specific/saam-12-meridians.md#lr) |
+
+주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+<!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전
 
