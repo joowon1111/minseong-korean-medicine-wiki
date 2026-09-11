@@ -28,6 +28,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 중선보다 손끝 쪽입니다. 전승에서는 손등의 대백과 앞뒤로 대응하는 자리로 설명하고 견갑부 통증에 중선과 함께 연결합니다.
 
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 기침·호흡 불편 · 등·견갑부 통증 · 무릎 통증.
+
+**효능·활용 방향(전승):** 소풍·선폐 — 호흡기와 견배부 불편을 다루는 방향입니다.
+
+**임상 활용:** 기침·호흡 변화와 견갑부 움직임을 구별해 평가합니다. 손바닥의 중자·중선은 손등의 중백·하백과 구분합니다.
+
+[주치 출처](https://www.tungs-acupuncture.com/重子穴/)
+<!-- ACUPOINT_CLINICAL_END -->
+
 [위치 출처 · 重子](https://www.tungs-acupuncture.com/重子穴/) · [도해에서 중자 보기](../assets/tung-atlas/hand-palmar.svg#chongzi)
 
 ### 중선 重仙 {#chongxian}
@@ -35,6 +45,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 **위치:** 손바닥 첫째·둘째 손허리뼈 사이의 손목 쪽 부위로, 손등 영골에 대응하는 자리로 설명합니다.
 
 중자와 함께 손바닥의 한 혈군으로 읽습니다. 손등 혈자리와 이름·면을 바꿔 기록하지 않는 것이 중요합니다.
+
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 기침·호흡 불편 · 등·견갑부 통증 · 무릎 통증.
+
+**효능·활용 방향(전승):** 소풍·선폐 — 호흡기와 견배부 불편을 다루는 방향입니다.
+
+**임상 활용:** 기침·호흡 변화와 견갑부 움직임을 구별해 평가합니다. 손바닥의 중자·중선은 손등의 중백·하백과 구분합니다.
+
+[주치 출처](https://www.tungs-acupuncture.com/重仙穴/)
+<!-- ACUPOINT_CLINICAL_END -->
 
 [위치 출처 · 重仙](https://www.tungs-acupuncture.com/重仙穴/) · [도해에서 중선 보기](../assets/tung-atlas/hand-palmar.svg#chongxian)
 
@@ -46,6 +66,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 토수는 세 점으로 설명되는 혈군입니다. 숫자 명칭의 혼동을 피하도록 이 도해에서는 원위점·중앙점·근위점으로 표시합니다.
 
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 위통 · 속쓰림 · 소화 불편.
+
+**효능·활용 방향(전승):** 토수 혈군은 위완부 통증과 식사 관련 불편을 조절하는 목적으로 전승됩니다.
+
+**임상 활용:** 세 점은 하나의 토수 혈군으로 읽습니다. 식사 전후 통증·속쓰림·섭취량을 기록하며 점의 배열만으로 개별 효능 차이를 정하지 않습니다.
+
+[주치 출처](https://www.mastertungacupuncture.org/acupuncture/tung/points/tushui-t-2211)
+<!-- ACUPOINT_CLINICAL_END -->
+
 [위치 출처 · 土水](https://www.mastertungacupuncture.org/acupuncture/tung/points/tushui-t-2211) · [도해에서 토수 원위점 보기](../assets/tung-atlas/hand-palmar.svg#tushui-distal)
 
 ### 토수 중앙점 土水 {#tushui-center}
@@ -54,6 +84,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 전승에서는 속쓰림·위통·만성적인 소화 불편과 연결하는 혈군입니다. 위장 증상은 식사와의 관계, 약물 복용, 필요한 검사를 함께 살펴 치료 목표를 정합니다.
 
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 위통 · 속쓰림 · 소화 불편.
+
+**효능·활용 방향(전승):** 토수 혈군은 위완부 통증과 식사 관련 불편을 조절하는 목적으로 전승됩니다.
+
+**임상 활용:** 세 점은 하나의 토수 혈군으로 읽습니다. 식사 전후 통증·속쓰림·섭취량을 기록하며 점의 배열만으로 개별 효능 차이를 정하지 않습니다.
+
+[주치 출처](https://www.mastertungacupuncture.org/acupuncture/tung/points/tushui-t-2211)
+<!-- ACUPOINT_CLINICAL_END -->
+
 [위치 출처 · 土水](https://www.mastertungacupuncture.org/acupuncture/tung/points/tushui-t-2211) · [도해에서 토수 중앙점 보기](../assets/tung-atlas/hand-palmar.svg#tushui-center)
 
 ### 토수 근위점 土水 {#tushui-proximal}
@@ -61,6 +101,16 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 **위치:** 토수 중앙점에서 손목 방향으로 5분 떨어진 점입니다.
 
 중자·중선은 첫째·둘째 손허리뼈 사이를, 토수는 첫째 손허리뼈의 엄지 쪽 가장자리를 기준으로 합니다. 도해에서 같은 엄지두덩에 보이더라도 기준선이 다릅니다.
+
+<!-- ACUPOINT_CLINICAL_START -->
+**대표 주치(전승):** 위통 · 속쓰림 · 소화 불편.
+
+**효능·활용 방향(전승):** 토수 혈군은 위완부 통증과 식사 관련 불편을 조절하는 목적으로 전승됩니다.
+
+**임상 활용:** 세 점은 하나의 토수 혈군으로 읽습니다. 식사 전후 통증·속쓰림·섭취량을 기록하며 점의 배열만으로 개별 효능 차이를 정하지 않습니다.
+
+[주치 출처](https://www.mastertungacupuncture.org/acupuncture/tung/points/tushui-t-2211)
+<!-- ACUPOINT_CLINICAL_END -->
 
 [위치 출처 · 土水](https://www.mastertungacupuncture.org/acupuncture/tung/points/tushui-t-2211) · [도해에서 토수 근위점 보기](../assets/tung-atlas/hand-palmar.svg#tushui-proximal)
 
