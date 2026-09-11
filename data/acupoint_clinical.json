@@ -80,7 +80,7 @@
       ],
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3",
       "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
-      "clinical": "안면 움직임과 감각, 치아·코 증상의 원인을 평가합니다. 분만 관련 사용은 산과 진료의 맥락에서 읽습니다.",
+      "clinical": "소화기 증상은 식사와의 관계·구토·배변 양상을, 통증은 부위·강도·기능 제한을, 감기 양상은 발열·인후 증상과 경과를 함께 평가합니다. 지속되는 심한 복통·구토나 고열은 원인 평가를 우선합니다. 임신·분만 관련 사용은 산과 진료의 맥락에서 판단합니다.",
       "clinical_path": "acupuncture-integrated/safety.md",
       "profile_kind": "domestic_review",
       "references": [

@@ -169,7 +169,7 @@ last_reviewed: '2026-09-09'
 | 표준 정보 | **361경혈**의 혈명·코드·소속 경맥 대조 및 KMCRIC 개별 링크 | 위치·취혈 DB를 주치의 근거로 대신 인용하지 않습니다. |
 | 국내 문헌의 전통적 활용 | **30경혈** | 기본 주치 외에 관련 부위·경혈군·배혈의 문헌 해석도 포함합니다. |
 | 임상진료지침의 배혈 | **33경혈** | 질환·대상 환자·치료 방식·변증 조건을 함께 봅니다. |
-| 현대 연구의 사용 분야 | **24경혈** | 임상시험에서 선택된 분야의 분석이며 단일혈의 효과 크기를 뜻하지 않습니다. |
+| 현대 연구의 활용·결과 | **24경혈** | 사용 빈도 분석과 치료 결과를 구분합니다. 배혈 비교시험도 단일혈의 효과를 확정하지 않습니다. |
 
 기존 국내 자료 **27경혈은 보존**했습니다. 족삼리의 기본 주치를 국내 문헌으로 교체하고, 문헌·지침을 보완하여 현재 **58경혈**에 국내 주치·활용 자료가 연결되어 있습니다. **303경혈**의 주치·효능은 기존 교육자료 출처를 유지합니다. 층별 경혈 수는 서로 중복됩니다.
 
@@ -187,6 +187,8 @@ last_reviewed: '2026-09-09'
 - **대한한방내과학회 지침 개발진**. [기능성소화불량 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방내과학회·한국한의약진흥원; 국가한의임상정보포털. 임상진료지침의 일반침·전침 배혈; 10경혈에 반영.
 - **대한한방신경정신과학회 지침 개발진**. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. 임상진료지침의 일반침 배혈; 20경혈에 반영.
 - **대한침구의학회 지침 개발진**. [만성요통증후군 한의표준임상진료지침 (2020년판)](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=149&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2020. 대한침구의학회·한국한의약진흥원; 국가한의임상정보포털. 임상진료지침의 일반침 배혈·확인한 판본; 10경혈에 반영.
+- **성일환·채우석**. [합곡, 태충, 사관혈에 대한 문헌적 고찰](https://koreascience.kr/article/JAKO199325552553741.pdf). 혜화의학. 1993;2(1):133–147. 대전대학교 한의과대학 침구학교실. 합곡·태충·사관혈의 전통적 효능과 주치 문헌고찰; 1경혈에 반영.
+- **Kang KW·Kim WY·Kim TH·Shin BC·Jung SY·Kim AR·Choi SM**. [Adjacent, distal, or combination of point-selective effects of acupuncture on temporomandibular joint disorders: A randomized, single-blind, assessor-blind controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/). Integrative Medicine Research. 2012;1(1):36–40. 한국한의학연구원·하나로동국한의원·부산대학교 한의학전문대학원 임상의학부(Shin BC). 합곡을 포함한 턱관절장애 배혈 비교 예비 무작위 임상시험; 1경혈에 반영. DOI: 10.1016/j.imr.2012.09.004.
 
 만성요통은 공개 원문을 확인한 **2020년판**의 배혈을 소개합니다. 2025년판의 등록은 확인했지만 원문을 확보하지 못하여 최신판 권고로 표시하지 않았습니다.
 
@@ -199,7 +201,7 @@ last_reviewed: '2026-09-09'
 
 - **[KMCRIC 표준경혈 DB](https://www.kmcric.com/database/acupoint):** 14경맥 목록의 혈명·코드를 대조했습니다. 확인한 족삼리 상세 항목은 부위·취혈·침구법으로, 주치·효능 항목은 확인되지 않았습니다. [이용약관](https://www.kmcric.com/etc/agreement)에 따라 DB 본문·영상·이미지를 옮기지 않고 개별 링크를 제공합니다.
 - **[KM-Agent 경혈 위치 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv):** Won-Yung Lee·Ji-Hwan Kim·Jungtae Leem·Byung-Wook Lee·Seungho Lee·Young Woo Kim, 2026. [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE)의 기존 위치 데이터를 사용합니다. 14경혈에서 누락된 한자 이름을 KMCRIC 목록과 대조해 수정했습니다. 이 라이선스가 KMCRIC 콘텐츠 전체에 적용되는 것은 아닙니다.
-- **국내 논문:** CC BY 자료와 비영리 조건이 있는 CC BY-NC 자료를 구분했습니다. 아카이브의 비영리 지위를 가정하거나 원문 표·그림·문장을 전재하지 않고, 필요한 사실 관계를 자체 문장으로 짧게 정리했습니다. 2024년 경혈군 문헌은 일반 재사용 허락을 확인하지 못하여 경혈 구성·관련 부위의 사실과 원문 링크만 사용합니다.
+- **국내 논문:** CC BY 자료와 비영리 조건이 있는 CC BY-NC 자료를 구분했습니다. 아카이브의 비영리 지위를 가정하거나 원문 표·그림·문장을 전재하지 않고, 필요한 사실 관계를 자체 문장으로 짧게 정리했습니다. 1993·2024년 경혈 문헌은 일반 재사용 허락을 확인하지 못하여 필요한 주치·배혈 사실과 원문 링크만 사용합니다. 2012년 턱관절 배혈 비교시험은 CC BY-NC-ND 조건을 확인했으며 원문·표·그림을 전재하지 않습니다.
 - **NCKM 지침:** [저작권 정책](https://nikom.or.kr/nckm/html.do?menu_idx=95)과 각 지침의 판권을 확인했습니다. 배혈의 사실을 요약하며, 권고문·표를 복제하지 않습니다. 지침과 이용조건 링크를 함께 제공합니다.
 - **KIOM 한의학고전DB:** [이용 안내](https://info.mediclassics.kr/document/guide/license)의 데이터 수집·재이용 조건에 따라 고전 원문·번역문을 대량 가져오지 않았습니다.
 

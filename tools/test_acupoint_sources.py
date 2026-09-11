@@ -72,6 +72,16 @@ class SourceRoleTests(unittest.TestCase):
                         self.assertIn('menu_idx=95', ref['policy_url'])
                         self.assertTrue(entry['population'] and entry['intervention'])
 
+    def test_hegu_primary_indications_precede_limited_text_analyses(self):
+        point = self.catalog['points']['LI4']
+        primary = point['traditional'][:4]
+        self.assertEqual([p['source_id'] for p in primary], ['seong1993'] * 4)
+        self.assertEqual([p['priority'] for p in primary], [0, 1, 2, 3])
+        self.assertEqual(primary[3]['related_points'], ['LR3'])
+        self.assertTrue(any(p['source_id'] == 'jung2015' for p in point['traditional'][4:]))
+        self.assertEqual(point['research'][0]['source_id'], 'kang2012tmd')
+        self.assertEqual(point['clinical'], [])
+
     def test_missing_chinese_characters_are_corrected_in_both_datasets(self):
         import csv
         import unicodedata
