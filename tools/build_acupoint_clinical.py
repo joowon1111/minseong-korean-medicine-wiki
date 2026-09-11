@@ -31,7 +31,25 @@ def taegeuk_roles(formulas):
     return roles
 
 
-def point_block(code, point, roles, taegeuk=None):
+def domestic_rows(point, references):
+    """Keep documented use, historical interpretation and efficacy distinct."""
+    if point.get('profile_kind') != 'domestic_review':
+        return None
+    rows = [f'| {point["indications_label"]} | ' + ' · '.join(point['indications']) + ' |',
+            f'| {point["actions_label"]} | ' + '; '.join(point['actions']) + ' |']
+    for item in point.get('additional_evidence', []):
+        rows.append(f'| {item["label"]} | {item["text"]} |')
+    citations = []
+    for item in point['references']:
+        ref = references[item['id']]
+        citations.append(f'{ref["authors"]}. [{ref["title"]}]({ref["url"]}). '
+                         f'{ref["publication"]}; {ref["institution"]}; '
+                         f'**{item["locator"]}** ({item["supports"]})')
+    rows.append('| 주치·활용 출처 | ' + '<br>'.join(citations) + ' |')
+    return rows
+
+
+def point_block(code, point, roles, taegeuk=None, references=None):
     target = posixpath.relpath(point['clinical_path'], posixpath.dirname(point['path']))
     actions = '; '.join(point['actions']).removeprefix('치료 목표 — ')
     label = '활용 방향' if point['actions'][0].startswith('치료 목표') else '효능의 전통적 설명'
@@ -42,6 +60,10 @@ def point_block(code, point, roles, taegeuk=None):
              f'| {label} | {actions} |',
              f'| 임상 평가·활용 | {point["clinical"]} [평가 자료]({target}) |',
              f'| 주치 출처 | [{point["name"]} 전통 주치·교육자료]({point["source"]}) |']
+    reviewed = domestic_rows(point, references or {})
+    if reviewed is not None:
+        lines = [START, '| 항목 | 내용 |', '|---|---|'] + reviewed + [
+            f'| 임상 평가·활용 | {point["clinical"]} [평가 자료]({target}) |']
     if roles.get(code):
         links = [f'[{label}](../../acupuncture-specific/saam-12-meridians.md#{anchor})'
                  for label, anchor in roles[code]]
@@ -50,7 +72,11 @@ def point_block(code, point, roles, taegeuk=None):
         links = [f'[{label}](../../taegeuk-acupuncture/constitutions.md#{anchor})'
                  for label, anchor in taegeuk[code]]
         lines.append('| 태극침법에서의 활용 | ' + ' · '.join(links) + ' |')
-    lines.extend(['', '주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.', END])
+    note = ('이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. '
+            '문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.'
+            if reviewed is not None else
+            '주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.')
+    lines.extend(['', note, END])
     return '\n'.join(lines)
 
 
@@ -100,7 +126,8 @@ def integrate_tung(text, points):
 
 
 def outputs():
-    points = json.loads((ROOT / 'data/acupoint_clinical.json').read_text())['points']
+    data = json.loads((ROOT / 'data/acupoint_clinical.json').read_text())
+    points = data['points']
     formulas = json.loads((ROOT / 'data/saam_formulas.json').read_text())['formulas']
     regions = json.loads((ROOT / 'data/tung_acupuncture.json').read_text())['regions']
     roles = saam_roles(formulas)
@@ -109,7 +136,7 @@ def outputs():
     result = {}
     for code, point in points.items():
         path = ROOT / 'docs' / point['path']
-        result[path] = integrate_point(path.read_text(), point_block(code, point, roles, taegeuk))
+        result[path] = integrate_point(path.read_text(), point_block(code, point, roles, taegeuk, data.get('references', {})))
     for region in regions:
         path = ROOT / 'docs/tung-acupuncture' / (region['id'] + '.md')
         result[path] = integrate_tung(path.read_text(), region['points'])

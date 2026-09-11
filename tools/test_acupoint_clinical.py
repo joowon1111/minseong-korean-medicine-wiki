@@ -73,6 +73,59 @@ class ClinicalCoverageTests(unittest.TestCase):
         self.assertIn('침이나 뜸을 시행하지', st17['clinical'])
         self.assertIn('직접 자침하지', self.points['CV8']['clinical'])
 
+    def test_domestic_replacement_has_traceable_sources_without_relabelling_old_claims(self):
+        data = json.loads((ROOT / 'data/acupoint_clinical.json').read_text())
+        reviewed = {code: p for code, p in self.points.items()
+                    if p.get('profile_kind') == 'domestic_review'}
+        self.assertEqual(len(reviewed), 27)
+        self.assertEqual(sum('americandragon.com' in p['source'] for p in self.points.values()), 325)
+        for code, point in reviewed.items():
+            with self.subTest(code=code):
+                refs = {r['id']: data['references'][r['id']] for r in point['references']}
+                self.assertEqual(point['source'], next(iter(refs.values()))['url'])
+                for r in point['references']:
+                    self.assertTrue(r['locator'] and r['supports'])
+                    self.assertTrue(refs[r['id']]['authors'] and refs[r['id']]['doi'])
+                for extra in point['additional_evidence']:
+                    self.assertIn(extra['source_id'], refs)
+                block = (ROOT / 'docs' / point['path']).read_text().split(clinical.START)[1].split(clinical.END)[0]
+                self.assertNotIn('americandragon.com', block)
+                self.assertNotIn('\ufffd', block)
+                for ref in refs.values():
+                    self.assertIn(ref['url'], block)
+
+    def test_trial_use_is_not_rendered_as_proven_or_traditional_efficacy(self):
+        # Independently checked against Hwang et al. 2020, Table 1.
+        expected = {'HT7': ['불면증'], 'KI3': ['급성 발목염좌'],
+                    'PC7': ['손목터널증후군'], 'BL40': ['요통'],
+                    'CV12': ['과민성장증후군'], 'LI11': ['고혈압', '급성 뇌졸중']}
+        for code, indications in expected.items():
+            point = self.points[code]
+            self.assertEqual(point['indications'], indications)
+            self.assertEqual(point['indications_label'], '임상시험에서 사용된 분야')
+            self.assertEqual(point['actions_label'], '자료의 의미')
+            self.assertIn('치료 효과를 평가한 결과는 아닙니다', point['actions'][0])
+        trials = [p for p in self.points.values() if p.get('indications_label') == '임상시험에서 사용된 분야']
+        self.assertEqual(len(trials), 22)
+
+    def test_sp3_has_literature_indications_and_no_invented_institutional_endorsement(self):
+        point = self.points['SP3']
+        self.assertEqual(point['indications'], ['복부팽만', '복통', '소화불량', '구토', '변비'])
+        self.assertEqual(point['indications_label'], '문헌상 주치')
+        self.assertEqual(point['references'][0]['id'], 'kim2014')
+        self.assertIn('184', point['references'][0]['locator'])
+
+    def test_taegeuk_reuses_source_types_and_portal_reports_actual_coverage(self):
+        profiles = (ROOT / 'docs/taegeuk-acupuncture/points.md').read_text()
+        for code in ['HT7', 'LU9', 'LR3', 'KI3', 'SP3', 'LI4']:
+            section = profiles.split('{#' + code.lower() + '}', 1)[1].split('\n### ', 1)[0]
+            self.assertIn(self.points[code]['indications_label'], section)
+            self.assertNotIn('americandragon.com', section)
+        portal = (ROOT / 'docs/portal/acupuncture.md').read_text()
+        self.assertIn('27경혈', portal)
+        self.assertIn('334경혈', portal)
+        self.assertIn('같은 421개 임상시험', portal)
+
 
 if __name__ == '__main__':
     unittest.main()

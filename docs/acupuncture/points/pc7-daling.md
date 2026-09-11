@@ -32,13 +32,14 @@ tags: [경혈, 침구, 임상한의학]
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 손목 통증·기능 저하 · 두근거림 · 불면 |
-| 효능의 전통적 설명 | 화위 — 위장 불편과 상역을 조절; 안신 — 긴장·수면 불편을 조절 |
-| 임상 평가·활용 | 목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다. [평가 자료](../../conditions/neck-pain.md) |
-| 주치 출처 | [대릉 전통 주치·교육자료](https://www.americandragon.com/Points/PC-7.html) |
+| 임상시험에서 사용된 분야 | 손목터널증후군 |
+| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
+| 문헌에서 확인한 관련 부위 | 흉부 · 안면 관련 증상 — 『침구경험방』 분석 |
+| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석)<br>Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별) |
+| 임상 평가·활용 | 손 저림의 분포·야간 증상·무지구 근력과 정중신경 포착 여부를 평가합니다. [평가 자료](../../conditions/limb-numbness.md) |
 | 사암침법에서의 역할 | [심포승격 사혈](../../acupuncture-specific/saam-12-meridians.md#pc) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

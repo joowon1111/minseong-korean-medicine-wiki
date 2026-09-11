@@ -32,12 +32,12 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 손목 통증·기능 저하 · 목 통증·뻣뻣함 · 두통 |
-| 활용 방향 | 손목 통증·기능 저하의 완화와 목 통증·뻣뻣함의 조절 |
+| 문헌에서 확인한 관련 부위 | 머리 · 귀 · 눈 관련 증상 |
+| 자료의 의미 | 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다. |
+| 주치·활용 출처 | Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별) |
 | 임상 평가·활용 | 목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다. [평가 자료](../../conditions/neck-pain.md) |
-| 주치 출처 | [완골 전통 주치·교육자료](https://www.americandragon.com/Points/SI-4.html) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전
