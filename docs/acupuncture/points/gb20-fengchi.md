@@ -34,12 +34,12 @@ last_reviewed: 2026-08-19
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 두통 · 목 통증·뻣뻣함 · 어지럼 |
-| 효능의 전통적 설명 | 명목 — 눈 관련 증상을 다루는 방향; 서근 — 근육·힘줄의 긴장을 조절 |
-| 임상 평가·활용 | 두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다. [평가 자료](../../conditions/headache.md) |
-| 주치 출처 | [풍지(風池) 전통 주치·교육자료](https://www.americandragon.com/Points/GB-20.html) |
+| 임상시험에서 사용된 분야 | 고혈압 |
+| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
+| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석) |
+| 임상 평가·활용 | 안정 시 혈압과 복용 약물을 확인하고, 심한 두통·흉통·신경학적 증상은 즉시 원인 평가로 연결합니다. [평가 자료](../../acupuncture-integrated/safety.md) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

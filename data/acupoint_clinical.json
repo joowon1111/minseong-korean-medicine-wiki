@@ -1,6 +1,6 @@
 {
-  "scope": "WHO 표준 361경혈; 전통 주치의 선별 요약과 임상 평가 방향",
-  "source_note": "개별 주치 출처는 전통 침구 교육자료이다. WHO는 위치 표준의 근거이며 개별 효능의 인증 자료가 아니다. 임상 활용은 아카이브의 평가·기록 안내이며 특정 배혈의 효과 입증을 뜻하지 않는다.",
+  "scope": "WHO 표준 361경혈; 개별 출처에 따른 주치·문헌상 활용·임상시험 사용 분야와 임상 평가 방향",
+  "source_note": "27경혈의 주치·활용 표를 국내 연구진의 원문으로 교체했다. 나머지 334경혈은 기존 교육자료 출처를 유지한다. 위치 표준, 문헌상 주치, 임상시험의 사용 양상, 치료 효과를 구분한다. 임상 평가 항목은 아카이브의 평가·기록 안내이다.",
   "points": {
     "LU11": {
       "name": "소상",
@@ -73,18 +73,37 @@
       "name": "합곡",
       "path": "acupuncture/points/li4-hegu.md",
       "indications": [
-        "두통",
-        "치통",
-        "안면마비·입 비뚤어짐",
-        "손·손가락 통증"
+        "치아 · 코 관련 증상"
       ],
       "actions": [
-        "소풍·통락지통 — 두면부와 손의 통증을 다루는 방향"
+        "『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다."
       ],
-      "source": "https://www.americandragon.com/Points/LI-4.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다.",
-      "clinical_path": "conditions/headache.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "안면 움직임과 감각, 치아·코 증상의 원인을 평가합니다. 분만 관련 사용은 산과 진료의 맥락에서 읽습니다.",
+      "clinical_path": "acupuncture-integrated/safety.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "jung2015",
+          "locator": "결과 3.1·고찰",
+          "supports": "문헌의 관련 부위; 질환별 치료 효과와 구별"
+        },
+        {
+          "id": "choi2021",
+          "locator": "105쪽, 결과 1",
+          "supports": "임상시험의 사용 분야"
+        }
+      ],
+      "additional_evidence": [
+        {
+          "label": "임상시험에서 사용된 분야",
+          "text": "안면신경마비 · 섬유근통 · 난임 · 분만 통증·분만 유도 — 사용 빈도 분석이며 치료 성공률이 아님",
+          "source_id": "choi2021"
+        }
+      ],
+      "actions_label": "자료의 의미",
+      "indications_label": "문헌에서 확인한 관련 부위"
     },
     "SI1": {
       "name": "소택",
@@ -270,19 +289,26 @@
       "name": "태연",
       "path": "acupuncture/points/lu9-taiyuan.md",
       "indications": [
-        "기침",
-        "숨참",
-        "목 건조감",
-        "손목 통증·기능 저하"
+        "흉부 · 상지 관련 증상"
       ],
       "actions": [
-        "보폐 — 폐의 허약 양상을 보완",
-        "선폐·지해 — 기침·호흡 불편을 조절"
+        "『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다."
       ],
-      "source": "https://www.americandragon.com/Points/LU-9.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다.",
-      "clinical_path": "pillar/respiratory-rhinitis-immune.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "흉부 증상은 원인 평가를 먼저 하고, 상지 증상은 움직임·감각·근력과 함께 기록합니다.",
+      "clinical_path": "acupuncture-integrated/safety.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "jung2015",
+          "locator": "결과 3.1·고찰",
+          "supports": "문헌의 관련 부위; 질환별 치료 효과와 구별"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "문헌에서 확인한 관련 부위"
     },
     "LU8": {
       "name": "경거",
@@ -304,18 +330,37 @@
       "name": "신문",
       "path": "acupuncture/points/ht7-shenmen.md",
       "indications": [
-        "두근거림",
-        "불면",
-        "긴장·불안"
+        "불면증"
       ],
       "actions": [
-        "안신 — 긴장·수면 불편을 조절",
-        "양혈 — 혈허 양상을 보완"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/HT-7.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "잠드는 시간·중간 각성·낮 기능과 두근거림의 발생 상황을 기록합니다.",
-      "clinical_path": "conditions/insomnia.md"
+      "clinical_path": "conditions/insomnia.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        },
+        {
+          "id": "jung2015",
+          "locator": "결과 3.1·고찰",
+          "supports": "문헌의 관련 부위; 질환별 치료 효과와 구별"
+        }
+      ],
+      "additional_evidence": [
+        {
+          "label": "문헌에서 확인한 관련 부위",
+          "text": "흉부 관련 증상 — 『침구경험방』 분석",
+          "source_id": "jung2015"
+        }
+      ],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "HT5": {
       "name": "통리",
@@ -353,18 +398,37 @@
       "name": "대릉",
       "path": "acupuncture/points/pc7-daling.md",
       "indications": [
-        "손목 통증·기능 저하",
-        "두근거림",
-        "불면"
+        "손목터널증후군"
       ],
       "actions": [
-        "화위 — 위장 불편과 상역을 조절",
-        "안신 — 긴장·수면 불편을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/PC-7.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "손 저림의 분포·야간 증상·무지구 근력과 정중신경 포착 여부를 평가합니다.",
+      "clinical_path": "conditions/limb-numbness.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        },
+        {
+          "id": "jung2015",
+          "locator": "결과 3.1·고찰",
+          "supports": "문헌의 관련 부위; 질환별 치료 효과와 구별"
+        }
+      ],
+      "additional_evidence": [
+        {
+          "label": "문헌에서 확인한 관련 부위",
+          "text": "흉부 · 안면 관련 증상 — 『침구경험방』 분석",
+          "source_id": "jung2015"
+        }
+      ],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "PC6": {
       "name": "내관",
@@ -438,18 +502,26 @@
       "name": "열결",
       "path": "acupuncture/points/lu7-lieque.md",
       "indications": [
-        "기침",
-        "인후 통증",
-        "목 통증·뻣뻣함"
+        "만성 천식"
       ],
       "actions": [
-        "선폐·지해 — 기침·호흡 불편을 조절",
-        "통경 — 경맥의 통증·불편을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/LU-7.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다.",
-      "clinical_path": "pillar/respiratory-rhinitis-immune.md"
+      "clinical_path": "pillar/respiratory-rhinitis-immune.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "TE5": {
       "name": "외관",
@@ -698,17 +770,26 @@
       "name": "완골",
       "path": "acupuncture/points/si4.md",
       "indications": [
-        "손목 통증·기능 저하",
-        "목 통증·뻣뻣함",
-        "두통"
+        "머리 · 귀 · 눈 관련 증상"
       ],
       "actions": [
-        "치료 목표 — 손목 통증·기능 저하의 완화와 목 통증·뻣뻣함의 조절"
+        "『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다."
       ],
-      "source": "https://www.americandragon.com/Points/SI-4.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical_path": "conditions/neck-pain.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "jung2015",
+          "locator": "결과 3.1·고찰",
+          "supports": "문헌의 관련 부위; 질환별 치료 효과와 구별"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "문헌에서 확인한 관련 부위"
     },
     "HT3": {
       "name": "소해",
@@ -764,34 +845,52 @@
       "name": "곡지",
       "path": "acupuncture/points/li11-quchi.md",
       "indications": [
-        "팔꿈치 통증",
-        "가려움",
-        "두드러기"
+        "고혈압",
+        "급성 뇌졸중"
       ],
       "actions": [
-        "청열·거풍 — 열감·가려움과 피부 증상을 조절",
-        "통경지통 — 팔꿈치 통증·운동 불편을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/LI-11.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다.",
-      "clinical_path": "clinical-anatomy/mps-forearm.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "혈압·신경학적 증상과 기능을 평가합니다. 갑작스러운 마비·언어장애에는 즉시 응급 평가가 우선입니다.",
+      "clinical_path": "acupuncture-integrated/safety.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "LI10": {
       "name": "수삼리",
       "path": "acupuncture/points/li10-shousanli.md",
       "indications": [
-        "팔꿈치 통증",
-        "팔 통증",
-        "손·팔 저림"
+        "만성콩팥병"
       ],
       "actions": [
-        "치료 목표 — 팔꿈치 통증의 완화와 팔 통증의 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/LI-10.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다.",
-      "clinical_path": "clinical-anatomy/mps-forearm.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "신기능·동반 질환과 증상 변화는 담당 진료와 함께 평가합니다.",
+      "clinical_path": "acupuncture-integrated/evidence.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "SI8": {
       "name": "소해",
@@ -1043,19 +1142,37 @@
       "name": "태충",
       "path": "acupuncture/points/lr3-taichong.md",
       "indications": [
-        "두통",
-        "어지럼",
-        "옆구리 통증",
-        "월경불순"
+        "복부 · 하지 · 등 관련 증상"
       ],
       "actions": [
-        "안신 — 긴장·수면 불편을 조절",
-        "조경 — 월경 관련 증상을 조절"
+        "『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다."
       ],
-      "source": "https://www.americandragon.com/Points/LIV-3.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다.",
-      "clinical_path": "conditions/headache.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "증상이 나타나는 부위와 두통·월경 주기의 관계를 기록하고 원인을 평가합니다.",
+      "clinical_path": "conditions/headache.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "jung2015",
+          "locator": "결과 3.1·고찰",
+          "supports": "문헌의 관련 부위; 질환별 치료 효과와 구별"
+        },
+        {
+          "id": "choi2021",
+          "locator": "105쪽, 결과 1",
+          "supports": "임상시험의 사용 분야"
+        }
+      ],
+      "additional_evidence": [
+        {
+          "label": "임상시험에서 사용된 분야",
+          "text": "월경전증후군 · 고혈압 · 편두통 — 사용 빈도 분석이며 치료 성공률이 아님",
+          "source_id": "choi2021"
+        }
+      ],
+      "actions_label": "자료의 의미",
+      "indications_label": "문헌에서 확인한 관련 부위"
     },
     "LR4": {
       "name": "중봉",
@@ -1227,18 +1344,31 @@
       "name": "태백",
       "path": "acupuncture/points/sp3.md",
       "indications": [
+        "복부팽만",
+        "복통",
         "소화불량",
-        "설사",
-        "복부팽만"
+        "구토",
+        "변비"
       ],
       "actions": [
-        "건비 — 비위의 소화·운화 기능을 보완",
-        "화위 — 위장 불편과 상역을 조절"
+        "조리비위 — 소화·배변 불편을 다루는 전통적 설명",
+        "건비화습 — 함께 쓰는 혈과 보사에 따라 달라지는 배혈의 해석"
       ],
-      "source": "https://www.americandragon.com/Points/SP-3.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://koreascience.kr/article/JAKO201402148668787.pdf#page=6",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "clinical_path": "conditions/functional-dyspepsia.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "kim2014",
+          "locator": "184쪽 고찰",
+          "supports": "태백의 문헌상 주치·배혈 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "문헌상 활용 방향",
+      "indications_label": "문헌상 주치"
     },
     "SP5": {
       "name": "상구",
@@ -1277,17 +1407,37 @@
       "name": "태계",
       "path": "acupuncture/points/ki3-taixi.md",
       "indications": [
-        "요통",
-        "이명",
-        "목 건조감"
+        "급성 발목염좌"
       ],
       "actions": [
-        "보신·이요 — 신허 양상과 요부 불편을 다루는 방향"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/KI-3.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "허리 움직임·앉기·걷기와 통증 분포를 기록하고, 방사통은 근력·감각 평가를 함께 봅니다.",
-      "clinical_path": "conditions/low-back-pain.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "통증·부종·체중부하와 발목 안정성을 평가하고, 외상 후 골절 가능성과 보행 제한을 먼저 확인합니다.",
+      "clinical_path": "acupuncture-integrated/musculoskeletal.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        },
+        {
+          "id": "jung2015",
+          "locator": "결과 3.1·고찰",
+          "supports": "문헌의 관련 부위; 질환별 치료 효과와 구별"
+        }
+      ],
+      "additional_evidence": [
+        {
+          "label": "문헌에서 확인한 관련 부위",
+          "text": "복부 · 하지 · 인후 관련 증상 — 『침구경험방』 분석",
+          "source_id": "jung2015"
+        }
+      ],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "KI6": {
       "name": "조해",
@@ -1360,18 +1510,26 @@
       "name": "곤륜",
       "path": "acupuncture/points/bl60-kunlun.md",
       "indications": [
-        "발목 통증",
-        "요통",
-        "목 통증·뻣뻣함"
+        "급성 발목염좌"
       ],
       "actions": [
-        "서근 — 근육·힘줄의 긴장을 조절",
-        "지통 — 통증을 완화하는 방향"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/UB-60.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical_path": "conditions/neck-pain.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "KI1": {
       "name": "용천",
@@ -1508,16 +1666,26 @@
       "name": "구허",
       "path": "acupuncture/points/gb40-qiuxu.md",
       "indications": [
-        "발목 통증",
-        "옆구리 통증"
+        "급성 발목염좌"
       ],
       "actions": [
-        "치료 목표 — 발목 통증의 완화와 옆구리 통증의 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/GB-40.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical_path": "conditions/neck-pain.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "ST42": {
       "name": "충양",
@@ -1621,49 +1789,76 @@
       "name": "풍륭",
       "path": "acupuncture/points/st40-fenglong.md",
       "indications": [
-        "기침·가래",
-        "어지럼",
-        "흉부 통증·답답함"
+        "조현병"
       ],
       "actions": [
-        "화담·관흉 — 가래와 흉부 불편을 다루는 방향"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/ST-40.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다.",
-      "clinical_path": "pillar/respiratory-rhinitis-immune.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "정신건강 진료와 약물치료 현황, 일상 기능을 함께 확인합니다.",
+      "clinical_path": "acupuncture-integrated/evidence.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "GB34": {
       "name": "양릉천",
       "path": "acupuncture/points/gb34-yanglingquan.md",
       "indications": [
-        "무릎 통증·불편",
-        "하지 통증",
-        "근육경련"
+        "말초관절 골관절염"
       ],
       "actions": [
-        "서근·통경 — 근육 긴장과 하지 운동 불편을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/GB-34.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "계단·의자에서 일어나기·무릎 굽힘을 같은 조건에서 비교합니다.",
-      "clinical_path": "conditions/knee-pain.md"
+      "clinical_path": "conditions/knee-pain.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "SP9": {
       "name": "음릉천",
       "path": "acupuncture/points/sp9-yinlingquan.md",
       "indications": [
-        "부종",
-        "배뇨 불편",
-        "무릎 통증·불편"
+        "말초관절 골관절염"
       ],
       "actions": [
-        "치료 목표 — 부종의 완화와 배뇨 불편의 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/SP-9.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "부종의 좌우·시간대·체중 변화와 동반 증상을 확인합니다.",
-      "clinical_path": "acupuncture-integrated/followup.md"
+      "clinical_path": "acupuncture-integrated/followup.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "SP6": {
       "name": "삼음교",
@@ -1768,17 +1963,26 @@
       "name": "위중",
       "path": "acupuncture/points/bl40-weizhong.md",
       "indications": [
-        "요통",
-        "무릎 통증·불편"
+        "요통"
       ],
       "actions": [
-        "이요 — 허리의 통증·기능을 다루는 방향",
-        "서근 — 근육·힘줄의 긴장을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/UB-40.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "허리 움직임·앉기·걷기와 통증 분포를 기록하고, 방사통은 근력·감각 평가를 함께 봅니다.",
-      "clinical_path": "conditions/low-back-pain.md"
+      "clinical_path": "conditions/low-back-pain.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "ST38": {
       "name": "조구",
@@ -1834,18 +2038,26 @@
       "name": "지기",
       "path": "acupuncture/points/sp8.md",
       "indications": [
-        "월경통",
-        "월경불순",
-        "복통"
+        "월경통"
       ],
       "actions": [
-        "조경 — 월경 관련 증상을 조절",
-        "활혈 — 전통적 혈행 정체를 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/SP-8.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인해 배혈을 검토합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "KI8": {
       "name": "교신",
@@ -3009,18 +3221,26 @@
       "name": "풍지(風池)",
       "path": "acupuncture/points/gb20-fengchi.md",
       "indications": [
-        "두통",
-        "목 통증·뻣뻣함",
-        "어지럼"
+        "고혈압"
       ],
       "actions": [
-        "명목 — 눈 관련 증상을 다루는 방향",
-        "서근 — 근육·힘줄의 긴장을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/GB-20.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다.",
-      "clinical_path": "conditions/headache.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "안정 시 혈압과 복용 약물을 확인하고, 심한 두통·흉통·신경학적 증상은 즉시 원인 평가로 연결합니다.",
+      "clinical_path": "acupuncture-integrated/safety.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "GV14": {
       "name": "대추",
@@ -3515,35 +3735,51 @@
       "name": "중완(中脘)",
       "path": "acupuncture/points/cv12-zhongwan.md",
       "indications": [
-        "위완부 통증",
-        "소화불량",
-        "구토·헛구역"
+        "과민성장증후군"
       ],
       "actions": [
-        "건비 — 비위의 소화·운화 기능을 보완",
-        "화위 — 위장 불편과 상역을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/REN-12.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다.",
+      "clinical_path": "acupuncture-integrated/evidence.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "ST25": {
       "name": "천추",
       "path": "acupuncture/points/st25-tianshu.md",
       "indications": [
-        "복통",
-        "복부팽만",
-        "설사",
-        "변비"
+        "과민성장증후군"
       ],
       "actions": [
-        "조장·이기 — 복통과 배변 양상을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/ST-25.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다.",
+      "clinical_path": "acupuncture-integrated/evidence.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "CV6": {
       "name": "기해",
@@ -3565,18 +3801,26 @@
       "name": "관원(關元)",
       "path": "acupuncture/points/cv4-guanyuan.md",
       "indications": [
-        "배뇨 불편",
-        "월경불순",
-        "복통"
+        "월경통"
       ],
       "actions": [
-        "건비 — 비위의 소화·운화 기능을 보완",
-        "보기 — 기허 양상의 회복을 보완"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/REN-4.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "배뇨 횟수·야간뇨·통증과 잔뇨감을 구분해 기록합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "ST13": {
       "name": "기호",
@@ -4152,17 +4396,26 @@
       "name": "귀래",
       "path": "acupuncture/points/st29.md",
       "indications": [
-        "월경불순",
-        "복통",
-        "대하"
+        "난임"
       ],
       "actions": [
-        "조경 — 월경 관련 증상을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/ST-29.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인해 배혈을 검토합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "ST30": {
       "name": "기충",
@@ -4379,18 +4632,26 @@
       "name": "중극",
       "path": "acupuncture/points/cv3.md",
       "indications": [
-        "배뇨 불편",
-        "빈뇨·요실금",
-        "월경불순"
+        "다낭성난소증후군"
       ],
       "actions": [
-        "조경 — 월경 관련 증상을 조절",
-        "이습 — 수습 관련 증상을 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/REN-3.html",
-      "basis": "전통 주치·교육자료",
-      "clinical": "배뇨 횟수·야간뇨·통증과 잔뇨감을 구분해 기록합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
+      "clinical": "월경 주기·배란 여부와 대사 상태를 확인하고 산부인과 평가와 연결합니다.",
+      "clinical_path": "acupuncture-integrated/evidence.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "CV5": {
       "name": "석문",
@@ -4765,35 +5026,51 @@
       "name": "신수",
       "path": "acupuncture/points/bl23-shenshu.md",
       "indications": [
-        "요통",
-        "배뇨 불편",
-        "이명"
+        "요통"
       ],
       "actions": [
-        "보신·이요 — 신허 양상과 요부 불편을 다루는 방향"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/UB-23.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "허리 움직임·앉기·걷기와 통증 분포를 기록하고, 방사통은 근력·감각 평가를 함께 봅니다.",
-      "clinical_path": "conditions/low-back-pain.md"
+      "clinical_path": "conditions/low-back-pain.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "BL25": {
       "name": "대장수",
       "path": "acupuncture/points/bl25-dachangshu.md",
       "indications": [
-        "요통",
-        "복통",
-        "설사",
-        "변비"
+        "요통"
       ],
       "actions": [
-        "통경 — 경맥의 통증·불편을 조절",
-        "지통 — 통증을 완화하는 방향"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/UB-25.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "허리 움직임·앉기·걷기와 통증 분포를 기록하고, 방사통은 근력·감각 평가를 함께 봅니다.",
-      "clinical_path": "conditions/low-back-pain.md"
+      "clinical_path": "conditions/low-back-pain.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "BL11": {
       "name": "대저",
@@ -5835,16 +6112,26 @@
       "name": "환도",
       "path": "acupuncture/points/gb30-huantiao.md",
       "indications": [
-        "고관절 부위 통증",
-        "좌골신경통 양상의 하지 통증"
+        "고관절 골관절염"
       ],
       "actions": [
-        "치료 목표 — 고관절 부위 통증의 완화와 좌골신경통 양상의 하지 통증의 조절"
+        "경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다."
       ],
-      "source": "https://www.americandragon.com/Points/GB-30.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "고관절 움직임·보행과 둔부에서 하지로 이어지는 통증 분포를 확인합니다.",
-      "clinical_path": "clinical-anatomy/mps-hip.md"
+      "clinical_path": "clinical-anatomy/mps-hip.md",
+      "profile_kind": "domestic_review",
+      "references": [
+        {
+          "id": "hwang2020",
+          "locator": "표 1·고찰의 한계",
+          "supports": "임상시험의 사용 분야·효과 해석"
+        }
+      ],
+      "additional_evidence": [],
+      "actions_label": "자료의 의미",
+      "indications_label": "임상시험에서 사용된 분야"
     },
     "GV28": {
       "name": "은교",
@@ -5893,6 +6180,48 @@
       "basis": "전통 주치·교육자료",
       "clinical": "대변 횟수·형태, 복통·팽만과 식사의 관계를 같은 기준으로 비교합니다.",
       "clinical_path": "acupuncture-integrated/by-symptom.md"
+    }
+  },
+  "references": {
+    "hwang2020": {
+      "authors": "Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y",
+      "title": "Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials",
+      "publication": "Journal of Clinical Medicine. 2020;9(9):3027",
+      "institution": "경희대학교·한국한의학연구원·가천대학교",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
+      "doi": "10.3390/jcm9093027",
+      "evidence_type": "임상시험의 경혈 사용 양상 분석",
+      "reuse": "CC BY 4.0; 질환·경혈 대응과 방법·한계를 한국어로 요약. 원문 표·그림은 복제하지 않음"
+    },
+    "jung2015": {
+      "authors": "Jung WM 외",
+      "title": "Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System",
+      "publication": "Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071",
+      "institution": "경희대학교 연구진; 한국한의학연구원 연구비 지원",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3",
+      "doi": "10.1155/2015/457071",
+      "evidence_type": "침구경험방의 경혈·증상 부위 문헌 분석",
+      "reuse": "CC BY; 부위 대응을 한국어로 요약. 고전 원문·번역문·그림은 복제하지 않음"
+    },
+    "choi2021": {
+      "authors": "최다현·이서영·이인선·류연희·채윤병",
+      "title": "데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성",
+      "publication": "Korean Journal of Acupuncture. 2021;38(2):100–109",
+      "institution": "경희대학교·한국한의학연구원; 대한경락경혈학회 학술지",
+      "url": "https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6",
+      "doi": "10.14406/acu.2021.007",
+      "evidence_type": "임상시험의 원혈 사용 빈도 분석",
+      "reuse": "CC BY-NC 4.0. 질환·경혈의 사실 관계를 짧게 재서술하고 원문으로 연결; 표·그림·본문 전재 없음"
+    },
+    "kim2014": {
+      "authors": "김송이·이순호·박지연·박히준",
+      "title": "사암도인침법에서 태백혈의 운용에 대한 연구",
+      "publication": "Korean Journal of Acupuncture. 2014;31(4):179–187",
+      "institution": "경희대학교 침구경락과학연구센터·진안군 보건소; 대한경락경혈학회 학술지",
+      "url": "https://koreascience.kr/article/JAKO201402148668787.pdf#page=6",
+      "doi": "10.14406/acu.2014.037",
+      "evidence_type": "사암침 처방과 태백 주치의 문헌 연구",
+      "reuse": "CC BY-NC 3.0. 주치와 배혈의 사실 관계를 짧게 재서술하고 원문으로 연결; 표·그림·본문 전재 없음"
     }
   }
 }

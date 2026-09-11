@@ -26,18 +26,19 @@ last_reviewed: 2026-08-22
 
 → [특정혈 임상 지식망](../../meridian-network/special-points/index.md)
 
-## 전통적 임상 연결
+## 주치·활용과 국내 자료 {#전통적-임상-연결}
 
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 두통 · 어지럼 · 옆구리 통증 · 월경불순 |
-| 효능의 전통적 설명 | 안신 — 긴장·수면 불편을 조절; 조경 — 월경 관련 증상을 조절 |
-| 임상 평가·활용 | 두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다. [평가 자료](../../conditions/headache.md) |
-| 주치 출처 | [태충 전통 주치·교육자료](https://www.americandragon.com/Points/LIV-3.html) |
+| 문헌에서 확인한 관련 부위 | 복부 · 하지 · 등 관련 증상 |
+| 자료의 의미 | 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다. |
+| 임상시험에서 사용된 분야 | 월경전증후군 · 고혈압 · 편두통 — 사용 빈도 분석이며 치료 성공률이 아님 |
+| 주치·활용 출처 | Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별)<br>최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109; 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지; **105쪽, 결과 1** (임상시험의 사용 분야) |
+| 임상 평가·활용 | 증상이 나타나는 부위와 두통·월경 주기의 관계를 기록하고 원인을 평가합니다. [평가 자료](../../conditions/headache.md) |
 | 태극침법에서의 활용 | [태양인 보혈](../../taegeuk-acupuncture/constitutions.md#taeyangin) · [태음인 사혈](../../taegeuk-acupuncture/constitutions.md#taeeumin) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

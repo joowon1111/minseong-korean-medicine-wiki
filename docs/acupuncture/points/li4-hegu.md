@@ -26,18 +26,19 @@ last_reviewed: 2026-08-22
 
 → [특정혈 임상 지식망](../../meridian-network/special-points/index.md)
 
-## 전통적 임상 연결
+## 주치·활용과 국내 자료 {#전통적-임상-연결}
 
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 두통 · 치통 · 안면마비·입 비뚤어짐 · 손·손가락 통증 |
-| 효능의 전통적 설명 | 소풍·통락지통 — 두면부와 손의 통증을 다루는 방향 |
-| 임상 평가·활용 | 두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다. [평가 자료](../../conditions/headache.md) |
-| 주치 출처 | [합곡 전통 주치·교육자료](https://www.americandragon.com/Points/LI-4.html) |
+| 문헌에서 확인한 관련 부위 | 치아 · 코 관련 증상 |
+| 자료의 의미 | 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다. |
+| 임상시험에서 사용된 분야 | 안면신경마비 · 섬유근통 · 난임 · 분만 통증·분만 유도 — 사용 빈도 분석이며 치료 성공률이 아님 |
+| 주치·활용 출처 | Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별)<br>최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109; 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지; **105쪽, 결과 1** (임상시험의 사용 분야) |
+| 임상 평가·활용 | 안면 움직임과 감각, 치아·코 증상의 원인을 평가합니다. 분만 관련 사용은 산과 진료의 맥락에서 읽습니다. [평가 자료](../../acupuncture-integrated/safety.md) |
 | 태극침법에서의 활용 | [소음인 사혈](../../taegeuk-acupuncture/constitutions.md#soeumin) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

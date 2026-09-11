@@ -73,19 +73,19 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 
 손목 앞가쪽, 요골동맥 박동 부위의 오목한 곳를 기준으로 취혈합니다. 실제 임상에서는 체형 차이와 촉진, 뼈·근육·건·혈관·신경 등 해부학적 표지를 함께 확인합니다.
 
-## 전통적 의미와 주치
+## 주치·활용과 국내 자료 {#전통적-의미와-주치}
 
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 기침 · 숨참 · 목 건조감 · 손목 통증·기능 저하 |
-| 효능의 전통적 설명 | 보폐 — 폐의 허약 양상을 보완; 선폐·지해 — 기침·호흡 불편을 조절 |
-| 임상 평가·활용 | 기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다. [평가 자료](../../pillar/respiratory-rhinitis-immune.md) |
-| 주치 출처 | [태연 전통 주치·교육자료](https://www.americandragon.com/Points/LU-9.html) |
+| 문헌에서 확인한 관련 부위 | 흉부 · 상지 관련 증상 |
+| 자료의 의미 | 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다. |
+| 주치·활용 출처 | Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별) |
+| 임상 평가·활용 | 흉부 증상은 원인 평가를 먼저 하고, 상지 증상은 움직임·감각·근력과 함께 기록합니다. [평가 자료](../../acupuncture-integrated/safety.md) |
 | 사암침법에서의 역할 | [폐정격 보혈](../../acupuncture-specific/saam-12-meridians.md#lu) |
 | 태극침법에서의 활용 | [태양인 사혈](../../taegeuk-acupuncture/constitutions.md#taeyangin) · [태음인 보혈](../../taegeuk-acupuncture/constitutions.md#taeeumin) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

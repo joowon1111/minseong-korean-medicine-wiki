@@ -26,17 +26,17 @@ last_reviewed: 2026-08-22
 
 → [특정혈 임상 지식망](../../meridian-network/special-points/index.md)
 
-## 전통적 임상 연결
+## 주치·활용과 국내 자료 {#전통적-임상-연결}
 
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 기침 · 인후 통증 · 목 통증·뻣뻣함 |
-| 효능의 전통적 설명 | 선폐·지해 — 기침·호흡 불편을 조절; 통경 — 경맥의 통증·불편을 조절 |
+| 임상시험에서 사용된 분야 | 만성 천식 |
+| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
+| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석) |
 | 임상 평가·활용 | 기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다. [평가 자료](../../pillar/respiratory-rhinitis-immune.md) |
-| 주치 출처 | [열결 전통 주치·교육자료](https://www.americandragon.com/Points/LU-7.html) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

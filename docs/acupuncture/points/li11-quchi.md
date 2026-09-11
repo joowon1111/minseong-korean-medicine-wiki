@@ -32,13 +32,13 @@ tags: [경혈, 임상한의학]
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 팔꿈치 통증 · 가려움 · 두드러기 |
-| 효능의 전통적 설명 | 청열·거풍 — 열감·가려움과 피부 증상을 조절; 통경지통 — 팔꿈치 통증·운동 불편을 조절 |
-| 임상 평가·활용 | 쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다. [평가 자료](../../clinical-anatomy/mps-forearm.md) |
-| 주치 출처 | [곡지 전통 주치·교육자료](https://www.americandragon.com/Points/LI-11.html) |
+| 임상시험에서 사용된 분야 | 고혈압 · 급성 뇌졸중 |
+| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
+| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석) |
+| 임상 평가·활용 | 혈압·신경학적 증상과 기능을 평가합니다. 갑작스러운 마비·언어장애에는 즉시 응급 평가가 우선입니다. [평가 자료](../../acupuncture-integrated/safety.md) |
 | 사암침법에서의 역할 | [대장정격 보혈](../../acupuncture-specific/saam-12-meridians.md#li) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

@@ -67,17 +67,17 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 
 곡지 LI11 아래 약 2촌, 전완 가쪽를 기준으로 취혈합니다. 실제 임상에서는 체형 차이와 촉진, 뼈·근육·건·혈관·신경 등 해부학적 표지를 함께 확인합니다.
 
-## 전통적 의미와 주치
+## 주치·활용과 국내 자료 {#전통적-의미와-주치}
 
 <!-- ACUPOINT_CLINICAL_START -->
 | 항목 | 내용 |
 |---|---|
-| 대표 주치·용도 | 팔꿈치 통증 · 팔 통증 · 손·팔 저림 |
-| 활용 방향 | 팔꿈치 통증의 완화와 팔 통증의 조절 |
-| 임상 평가·활용 | 쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다. [평가 자료](../../clinical-anatomy/mps-forearm.md) |
-| 주치 출처 | [수삼리 전통 주치·교육자료](https://www.americandragon.com/Points/LI-10.html) |
+| 임상시험에서 사용된 분야 | 만성콩팥병 |
+| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
+| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석) |
+| 임상 평가·활용 | 신기능·동반 질환과 증상 변화는 담당 진료와 함께 평가합니다. [평가 자료](../../acupuncture-integrated/evidence.md) |
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈
