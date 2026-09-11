@@ -22,7 +22,16 @@ def saam_roles(formulas):
     return roles
 
 
-def point_block(code, point, roles):
+def taegeuk_roles(formulas):
+    roles = defaultdict(list)
+    for formula in formulas:
+        for field, label in [('tonify', ' 보혈'), ('sedate', ' 사혈')]:
+            for code in formula[field]:
+                roles[code].append((formula['name'] + label, formula['id']))
+    return roles
+
+
+def point_block(code, point, roles, taegeuk=None):
     target = posixpath.relpath(point['clinical_path'], posixpath.dirname(point['path']))
     actions = '; '.join(point['actions']).removeprefix('치료 목표 — ')
     label = '활용 방향' if point['actions'][0].startswith('치료 목표') else '효능의 전통적 설명'
@@ -37,6 +46,10 @@ def point_block(code, point, roles):
         links = [f'[{label}](../../acupuncture-specific/saam-12-meridians.md#{anchor})'
                  for label, anchor in roles[code]]
         lines.append('| 사암침법에서의 역할 | ' + ' · '.join(links) + ' |')
+    if taegeuk and taegeuk.get(code):
+        links = [f'[{label}](../../taegeuk-acupuncture/constitutions.md#{anchor})'
+                 for label, anchor in taegeuk[code]]
+        lines.append('| 태극침법에서의 활용 | ' + ' · '.join(links) + ' |')
     lines.extend(['', '주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.', END])
     return '\n'.join(lines)
 
@@ -91,11 +104,12 @@ def outputs():
     formulas = json.loads((ROOT / 'data/saam_formulas.json').read_text())['formulas']
     regions = json.loads((ROOT / 'data/tung_acupuncture.json').read_text())['regions']
     roles = saam_roles(formulas)
+    taegeuk = taegeuk_roles(json.loads((ROOT / 'data/taegeuk_formulas.json').read_text())['formulas'])
     # Read whole documents before editing; collect all outputs before writing any.
     result = {}
     for code, point in points.items():
         path = ROOT / 'docs' / point['path']
-        result[path] = integrate_point(path.read_text(), point_block(code, point, roles))
+        result[path] = integrate_point(path.read_text(), point_block(code, point, roles, taegeuk))
     for region in regions:
         path = ROOT / 'docs/tung-acupuncture' / (region['id'] + '.md')
         result[path] = integrate_tung(path.read_text(), region['points'])

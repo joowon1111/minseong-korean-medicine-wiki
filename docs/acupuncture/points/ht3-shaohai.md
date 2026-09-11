@@ -37,6 +37,7 @@ tags: [경혈, 침구, 임상한의학]
 | 임상 평가·활용 | 쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다. [평가 자료](../../clinical-anatomy/mps-forearm.md) |
 | 주치 출처 | [소해 전통 주치·교육자료](https://www.americandragon.com/Points/HT-3.html) |
 | 사암침법에서의 역할 | [심정격 사혈](../../acupuncture-specific/saam-12-meridians.md#ht) · [심승격 보혈](../../acupuncture-specific/saam-12-meridians.md#ht) |
+| 태극침법에서의 활용 | [소양인 보혈](../../taegeuk-acupuncture/constitutions.md#soyangin) |
 
 주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
 <!-- ACUPOINT_CLINICAL_END -->

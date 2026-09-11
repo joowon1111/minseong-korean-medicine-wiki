@@ -36,6 +36,7 @@ last_reviewed: 2026-08-22
 | 임상 평가·활용 | 잠드는 시간·중간 각성·낮 기능과 두근거림의 발생 상황을 기록합니다. [평가 자료](../../conditions/insomnia.md) |
 | 주치 출처 | [신문 전통 주치·교육자료](https://www.americandragon.com/Points/HT-7.html) |
 | 사암침법에서의 역할 | [심승격 사혈](../../acupuncture-specific/saam-12-meridians.md#ht) |
+| 태극침법에서의 활용 | [소음인 보혈](../../taegeuk-acupuncture/constitutions.md#soeumin) |
 
 주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
 <!-- ACUPOINT_CLINICAL_END -->

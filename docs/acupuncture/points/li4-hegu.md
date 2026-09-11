@@ -35,6 +35,7 @@ last_reviewed: 2026-08-22
 | 효능의 전통적 설명 | 소풍·통락지통 — 두면부와 손의 통증을 다루는 방향 |
 | 임상 평가·활용 | 두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다. [평가 자료](../../conditions/headache.md) |
 | 주치 출처 | [합곡 전통 주치·교육자료](https://www.americandragon.com/Points/LI-4.html) |
+| 태극침법에서의 활용 | [소음인 사혈](../../taegeuk-acupuncture/constitutions.md#soeumin) |
 
 주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
 <!-- ACUPOINT_CLINICAL_END -->
