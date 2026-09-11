@@ -76,16 +76,36 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 ## 주치·활용과 국내 자료 {#전통적-의미와-주치}
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 문헌에서 확인한 관련 부위 | 흉부 · 상지 관련 증상 |
-| 자료의 의미 | 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다. |
-| 주치·활용 출처 | Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별) |
-| 임상 평가·활용 | 흉부 증상은 원인 평가를 먼저 하고, 상지 증상은 움직임·감각·근력과 함께 기록합니다. [평가 자료](../../acupuncture-integrated/safety.md) |
-| 사암침법에서의 역할 | [폐정격 보혈](../../acupuncture-specific/saam-12-meridians.md#lu) |
-| 태극침법에서의 활용 | [태양인 사혈](../../taegeuk-acupuncture/constitutions.md#taeyangin) · [태음인 보혈](../../taegeuk-acupuncture/constitutions.md#taeeumin) |
+**전통적 효능·주치**
 
-이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
+- **문헌에서 확인한 관련 부위:** 흉부 · 상지 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **오수혈 문헌의 배혈:** 태연과 어제를 함께 흉부 통증에 활용한 『영추』 「궐병」의 기록을 분석했습니다. [출처 2](https://koreascience.kr/article/JAKO202007650436656.pdf)
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+1. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
+2. **황제내경의 오수혈 문헌연구** — 김도훈·백유상. [황제내경의 오수혈 임상 활용 연구 – 사용 빈도와 선혈을 중심으로](https://koreascience.kr/article/JAKO202007650436656.pdf). Korean Journal of Acupuncture. 2020;37(4):276–283. 가천대학교·경희대학교; 대한경락경혈학회. **278쪽 표 2; 281쪽 본론 2**. DOI: 10.14406/acu.2020.035.
+
+**표준 정보:** [KMCRIC 태연 LU9](https://www.kmcric.com/database/acupoint/LU/LU9)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+흉부 증상은 원인 평가를 먼저 하고, 상지 증상은 움직임·감각·근력과 함께 기록합니다. [평가 자료](../../acupuncture-integrated/safety.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+**사암침법에서의 역할:** [폐정격 보혈](../../acupuncture-specific/saam-12-meridians.md#lu)
+
+**태극침법에서의 활용:** [태양인 사혈](../../taegeuk-acupuncture/constitutions.md#taeyangin) · [태음인 보혈](../../taegeuk-acupuncture/constitutions.md#taeeumin)
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

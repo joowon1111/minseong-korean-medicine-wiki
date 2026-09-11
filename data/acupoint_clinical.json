@@ -1,6 +1,6 @@
 {
   "scope": "WHO 표준 361경혈; 개별 출처에 따른 주치·문헌상 활용·임상시험 사용 분야와 임상 평가 방향",
-  "source_note": "27경혈의 주치·활용 표를 국내 연구진의 원문으로 교체했다. 나머지 334경혈은 기존 교육자료 출처를 유지한다. 위치 표준, 문헌상 주치, 임상시험의 사용 양상, 치료 효과를 구분한다. 임상 평가 항목은 아카이브의 평가·기록 안내이다.",
+  "source_note": "기존 국내 자료 27경혈을 보존하고 족삼리의 기본 주치를 국내 문헌으로 교체했다. 추가 문헌·진료지침은 acupoint_sources.json에 층별로 관리한다. 위치·혈명 검증, 전통적 활용, 지침 배혈, 임상시험 사용 양상을 구분하며 자동 산출 커버리지는 acupoint_catalog.json에 기록한다.",
   "points": {
     "LU11": {
       "name": "소상",
@@ -1754,19 +1754,29 @@
       "name": "족삼리",
       "path": "acupuncture/points/st36-zusanli.md",
       "indications": [
+        "복부팽만",
         "위완부 통증",
-        "소화불량",
-        "구토·헛구역",
-        "하지 통증"
+        "음식 섭취의 불편"
       ],
       "actions": [
-        "건비 — 비위의 소화·운화 기능을 보완",
-        "화위 — 위장 불편과 상역을 조절"
+        "온위 — 위장을 덥히는 전통적 활용",
+        "위의 기운을 보하고 복부의 팽만을 다루는 전통적 설명"
       ],
-      "source": "https://www.americandragon.com/Points/ST-36.html",
-      "basis": "전통 주치·교육자료",
+      "source": "https://koreascience.kr/article/JAKO202007650436656.pdf",
+      "basis": "국내 오수혈 문헌연구",
       "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "clinical_path": "conditions/functional-dyspepsia.md",
+      "profile_kind": "domestic_literature",
+      "indications_label": "문헌상 주치",
+      "actions_label": "문헌상 활용 방향",
+      "references": [
+        {
+          "id": "kim2020shu",
+          "locator": "279쪽 표 3; 281쪽 본론 4",
+          "supports": "족삼리의 전통적 주치·효능 해석"
+        }
+      ],
+      "additional_evidence": []
     },
     "ST37": {
       "name": "상거허",

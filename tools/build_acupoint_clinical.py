@@ -7,6 +7,8 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
+from acupoint_sources import catalog, load_sources, portal_sources, render_profile
+
 ROOT = Path(__file__).resolve().parents[1]
 START = '<!-- ACUPOINT_CLINICAL_START -->'
 END = '<!-- ACUPOINT_CLINICAL_END -->'
@@ -31,52 +33,21 @@ def taegeuk_roles(formulas):
     return roles
 
 
-def domestic_rows(point, references):
-    """Keep documented use, historical interpretation and efficacy distinct."""
-    if point.get('profile_kind') != 'domestic_review':
-        return None
-    rows = [f'| {point["indications_label"]} | ' + ' · '.join(point['indications']) + ' |',
-            f'| {point["actions_label"]} | ' + '; '.join(point['actions']) + ' |']
-    for item in point.get('additional_evidence', []):
-        rows.append(f'| {item["label"]} | {item["text"]} |')
-    citations = []
-    for item in point['references']:
-        ref = references[item['id']]
-        citations.append(f'{ref["authors"]}. [{ref["title"]}]({ref["url"]}). '
-                         f'{ref["publication"]}; {ref["institution"]}; '
-                         f'**{item["locator"]}** ({item["supports"]})')
-    rows.append('| 주치·활용 출처 | ' + '<br>'.join(citations) + ' |')
-    return rows
-
-
-def point_block(code, point, roles, taegeuk=None, references=None):
+def point_block(code, point, roles, taegeuk=None, references=None, sources=None):
     target = posixpath.relpath(point['clinical_path'], posixpath.dirname(point['path']))
-    actions = '; '.join(point['actions']).removeprefix('치료 목표 — ')
-    label = '활용 방향' if point['actions'][0].startswith('치료 목표') else '효능의 전통적 설명'
-    if code == 'ST17':
-        label = '용도'
-    lines = [START, '| 항목 | 내용 |', '|---|---|',
-             '| 대표 주치·용도 | ' + ' · '.join(point['indications']) + ' |',
-             f'| {label} | {actions} |',
-             f'| 임상 평가·활용 | {point["clinical"]} [평가 자료]({target}) |',
-             f'| 주치 출처 | [{point["name"]} 전통 주치·교육자료]({point["source"]}) |']
-    reviewed = domestic_rows(point, references or {})
-    if reviewed is not None:
-        lines = [START, '| 항목 | 내용 |', '|---|---|'] + reviewed + [
-            f'| 임상 평가·활용 | {point["clinical"]} [평가 자료]({target}) |']
+    lines = [START, render_profile(code, point, references or {}, sources), '',
+             '**임상 평가·배혈 연결**', '',
+             f'{point["clinical"]} [평가 자료]({target})', '',
+             '임상 평가는 아카이브의 평가·기록 안내입니다.', '']
     if roles.get(code):
         links = [f'[{label}](../../acupuncture-specific/saam-12-meridians.md#{anchor})'
                  for label, anchor in roles[code]]
-        lines.append('| 사암침법에서의 역할 | ' + ' · '.join(links) + ' |')
+        lines.append('**사암침법에서의 역할:** ' + ' · '.join(links))
     if taegeuk and taegeuk.get(code):
         links = [f'[{label}](../../taegeuk-acupuncture/constitutions.md#{anchor})'
                  for label, anchor in taegeuk[code]]
-        lines.append('| 태극침법에서의 활용 | ' + ' · '.join(links) + ' |')
-    note = ('이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. '
-            '문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.'
-            if reviewed is not None else
-            '주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.')
-    lines.extend(['', note, END])
+        lines.extend(['', '**태극침법에서의 활용:** ' + ' · '.join(links)])
+    lines.extend(['', END])
     return '\n'.join(lines)
 
 
@@ -128,6 +99,7 @@ def integrate_tung(text, points):
 def outputs():
     data = json.loads((ROOT / 'data/acupoint_clinical.json').read_text())
     points = data['points']
+    sources = load_sources()
     formulas = json.loads((ROOT / 'data/saam_formulas.json').read_text())['formulas']
     regions = json.loads((ROOT / 'data/tung_acupuncture.json').read_text())['regions']
     roles = saam_roles(formulas)
@@ -136,10 +108,15 @@ def outputs():
     result = {}
     for code, point in points.items():
         path = ROOT / 'docs' / point['path']
-        result[path] = integrate_point(path.read_text(), point_block(code, point, roles, taegeuk, data.get('references', {})))
+        result[path] = integrate_point(path.read_text(), point_block(code, point, roles, taegeuk, data.get('references', {}), sources))
     for region in regions:
         path = ROOT / 'docs/tung-acupuncture' / (region['id'] + '.md')
         result[path] = integrate_tung(path.read_text(), region['points'])
+    structured = catalog(data, sources, roles, taegeuk)
+    result[ROOT / 'data/acupoint_catalog.json'] = json.dumps(structured, ensure_ascii=False, indent=2) + '\n'
+    portal = ROOT / 'docs/portal/acupuncture.md'
+    result[portal] = re.sub(r'<!-- ACUPOINT_SOURCES_START -->.*?<!-- ACUPOINT_SOURCES_END -->',
+                            lambda _: portal_sources(structured, sources), portal.read_text(), flags=re.S)
     return result
 
 
@@ -148,7 +125,7 @@ def main():
     parser.add_argument('--check', action='store_true')
     args = parser.parse_args()
     result = outputs()
-    stale = [path for path, content in result.items() if path.read_text() != content]
+    stale = [path for path, content in result.items() if not path.exists() or path.read_text() != content]
     if args.check:
         if stale:
             raise SystemExit('Clinical sections need regeneration: ' + ', '.join(str(p.relative_to(ROOT)) for p in stale))

@@ -30,14 +30,30 @@ last_reviewed: 2026-08-22
 **일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석**
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 대표 주치·용도 | 식욕 저하 · 복통 · 오심 |
-| 효능의 전통적 설명 | 이습 — 수습 관련 증상을 조절; 화위 — 위장 불편과 상역을 조절 |
-| 임상 평가·활용 | 부종의 좌우·시간대·체중 변화와 동반 증상을 확인합니다. [평가 자료](../../acupuncture-integrated/followup.md) |
-| 주치 출처 | [수분 전통 주치·교육자료](https://www.americandragon.com/Points/REN-9.html) |
+**전통적 효능·주치**
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+- **대표 주치·용도:** 식욕 저하 · 복통 · 오심 [전통 주치·교육자료](https://www.americandragon.com/Points/REN-9.html)
+- **효능·활용 방향:** 이습 — 수습 관련 증상을 조절; 화위 — 위장 불편과 상역을 조절
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+
+**표준 정보:** [KMCRIC 수분 CV9](https://www.kmcric.com/database/acupoint/CV/CV9)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+부종의 좌우·시간대·체중 변화와 동반 증상을 확인합니다. [평가 자료](../../acupuncture-integrated/followup.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

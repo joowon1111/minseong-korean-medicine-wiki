@@ -78,7 +78,7 @@ class ClinicalCoverageTests(unittest.TestCase):
         reviewed = {code: p for code, p in self.points.items()
                     if p.get('profile_kind') == 'domestic_review'}
         self.assertEqual(len(reviewed), 27)
-        self.assertEqual(sum('americandragon.com' in p['source'] for p in self.points.values()), 325)
+        self.assertEqual(sum('americandragon.com' in p['source'] for p in self.points.values()), 324)
         for code, point in reviewed.items():
             with self.subTest(code=code):
                 refs = {r['id']: data['references'][r['id']] for r in point['references']}
@@ -123,7 +123,7 @@ class ClinicalCoverageTests(unittest.TestCase):
             self.assertNotIn('americandragon.com', section)
         portal = (ROOT / 'docs/portal/acupuncture.md').read_text()
         self.assertIn('27경혈', portal)
-        self.assertIn('334경혈', portal)
+        self.assertIn('303경혈', portal)
         self.assertIn('같은 421개 임상시험', portal)
 
 

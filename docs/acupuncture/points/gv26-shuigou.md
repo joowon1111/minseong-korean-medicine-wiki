@@ -73,14 +73,30 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 ## 전통적 의미와 주치
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 대표 주치·용도 | 급성 요부 통증·경련 · 안면마비·입 비뚤어짐 |
-| 효능의 전통적 설명 | 이요 — 허리의 통증·기능을 다루는 방향; 서근 — 근육·힘줄의 긴장을 조절 |
-| 임상 평가·활용 | 급성 요부 통증에서는 움직임과 신경학적 상태를 평가합니다. 전통의 의식 회복 주치는 응급 신고·기도 확보·심폐소생술을 대신하는 방법이 아닙니다. [평가 자료](../../acupuncture-integrated/safety.md) |
-| 주치 출처 | [수구 전통 주치·교육자료](https://www.americandragon.com/Points/DU-26.html) |
+**전통적 효능·주치**
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+- **대표 주치·용도:** 급성 요부 통증·경련 · 안면마비·입 비뚤어짐 [전통 주치·교육자료](https://www.americandragon.com/Points/DU-26.html)
+- **효능·활용 방향:** 이요 — 허리의 통증·기능을 다루는 방향; 서근 — 근육·힘줄의 긴장을 조절
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+
+**표준 정보:** [KMCRIC 수구 GV26](https://www.kmcric.com/database/acupoint/GV/GV26)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+급성 요부 통증에서는 움직임과 신경학적 상태를 평가합니다. 전통의 의식 회복 주치는 응급 신고·기도 확보·심폐소생술을 대신하는 방법이 아닙니다. [평가 자료](../../acupuncture-integrated/safety.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

@@ -1,0 +1,1105 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-09-11",
+  "common_references": {
+    "kmcric": {
+      "title": "KMCRIC 표준경혈 DB",
+      "institution": "한의약융합연구정보센터·경희대학교 침구경락융합연구센터",
+      "url": "https://www.kmcric.com/database/acupoint",
+      "policy_url": "https://www.kmcric.com/etc/agreement",
+      "policy_text_url": "https://www.kmcric.com/ref/policy_agreement.ref",
+      "source_class": "A",
+      "role": "standard_metadata",
+      "coverage": 361,
+      "verified": "14경맥 목록의 361코드·한글명·한자명·소속 경맥 대조. 족삼리 상세 페이지의 부위·취혈·침구법 필드 확인.",
+      "limits": "모든 혈의 위치 문장을 개별 검토한 것은 아님. 확인한 상세 페이지에 주치·효능 필드가 없어 기본 주치의 공통 근거로 채택하지 않음. 특정혈 전체 분류의 근거로도 사용하지 않음.",
+      "reuse": "약관 제11조 저작권 조항 확인. 공개 재사용 라이선스는 확인되지 않음. 개별 항목 외부 링크와 혈명 대조만 사용; DB 본문·영상·이미지 복제 없음."
+    },
+    "km_agent": {
+      "title": "KM-Agent acupoints.csv",
+      "authors": "Won-Yung Lee·Ji-Hwan Kim·Jungtae Leem·Byung-Wook Lee·Seungho Lee·Young Woo Kim",
+      "publication": "2026",
+      "url": "https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv",
+      "policy_url": "https://github.com/wonyung-lee/km-agent/blob/main/LICENSE",
+      "source_class": "D",
+      "role": "location_dataset",
+      "reuse": "CC BY 4.0. 기존 416행 데이터 중 361정경혈을 사용. 저자·원문·라이선스 표시 및 혈명 한자 수정 기록. 주치·효능 자료로 사용하지 않음."
+    }
+  },
+  "references": {
+    "yoon2024": {
+      "authors": "윤다은·문희영·류연희·채윤병",
+      "title": "주요 경혈 구성원리 고찰: 사총혈과 천성십이혈을 중심으로",
+      "publication": "대한한의학회지. 2024;45(3):235–242",
+      "institution": "경희대학교·세명대학교·한국한의학연구원; 대한한의학회",
+      "url": "https://koreascience.kr/article/JAKO202432472148656.pdf",
+      "doi": "10.13048/jkm.24052",
+      "evidence_type": "주요 경혈군의 고전 문헌연구",
+      "source_class": "B",
+      "reuse": "공개 원문에서 일반 재사용 허락을 확인하지 못함. 경혈군 구성·관련 부위의 사실을 짧게 재서술하고 링크함. 원문 문장·표·그림 전재 없음."
+    },
+    "kim2020shu": {
+      "authors": "김도훈·백유상",
+      "title": "황제내경의 오수혈 임상 활용 연구 – 사용 빈도와 선혈을 중심으로",
+      "publication": "Korean Journal of Acupuncture. 2020;37(4):276–283",
+      "institution": "가천대학교·경희대학교; 대한경락경혈학회",
+      "url": "https://koreascience.kr/article/JAKO202007650436656.pdf",
+      "doi": "10.14406/acu.2020.035",
+      "evidence_type": "황제내경의 오수혈 문헌연구",
+      "source_class": "B",
+      "reuse": "CC BY-NC 4.0(276쪽). 비영리 지위를 가정하지 않으며, 필요한 경혈·증상 관계만 자체 문장으로 짧게 요약. 원문·표·그림 전재 없음."
+    },
+    "nckm_fd2021": {
+      "authors": "대한한방내과학회 지침 개발진",
+      "title": "기능성소화불량 한의표준임상진료지침",
+      "publication": "한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021",
+      "institution": "대한한방내과학회·한국한의약진흥원; 국가한의임상정보포털",
+      "url": "https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14",
+      "pdf_url": "https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=154&file_type=pdf#page=152",
+      "doi": "",
+      "evidence_type": "임상진료지침의 일반침·전침 배혈",
+      "source_class": "C",
+      "policy_url": "https://nikom.or.kr/nckm/html.do?menu_idx=95",
+      "reuse": "NCKM 저작권 정책 및 PDF 판권 확인. 필요한 배혈의 사실 관계만 재서술. 원문 표·권고문 전재 없음. 지침 링크와 저작권 정책 링크를 함께 제공."
+    },
+    "nckm_insomnia2021": {
+      "authors": "대한한방신경정신과학회 지침 개발진",
+      "title": "불면장애 한의표준임상진료지침",
+      "publication": "한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021",
+      "institution": "대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털",
+      "url": "https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14",
+      "pdf_url": "https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134",
+      "doi": "",
+      "evidence_type": "임상진료지침의 일반침 배혈",
+      "source_class": "C",
+      "policy_url": "https://nikom.or.kr/nckm/html.do?menu_idx=95",
+      "reuse": "NCKM 저작권 정책 및 PDF 판권 확인. 필요한 배혈의 사실 관계만 재서술. 원문 표·권고문 전재 없음. 지침 링크와 저작권 정책 링크를 함께 제공."
+    },
+    "nckm_lbp2020": {
+      "authors": "대한침구의학회 지침 개발진",
+      "title": "만성요통증후군 한의표준임상진료지침 (2020년판)",
+      "publication": "한국한의약진흥원 한의표준임상진료지침 개발사업단. 2020",
+      "institution": "대한침구의학회·한국한의약진흥원; 국가한의임상정보포털",
+      "url": "https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=149&menu_idx=14",
+      "pdf_url": "https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=149&file_type=pdf#page=77",
+      "doi": "",
+      "evidence_type": "임상진료지침의 일반침 배혈·확인한 판본",
+      "source_class": "C",
+      "policy_url": "https://nikom.or.kr/nckm/html.do?menu_idx=95",
+      "reuse": "공개 2020년판의 배혈 사실만 재서술. 2025년판 등록은 확인했으나 원문을 확보하지 못하여 최신 권고로 표시하지 않음. 원문 표·권고문 전재 없음. 저작권 정책 동시 링크."
+    }
+  },
+  "points": {
+    "BL15": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "음허화왕 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "음허화왕"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심비양허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심비양허"
+      }
+    ],
+    "BL18": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "간울화화 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "간울화화"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심담기허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심담기허"
+      }
+    ],
+    "BL19": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심담기허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심담기허"
+      }
+    ],
+    "BL20": [
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심비양허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심비양허"
+      }
+    ],
+    "BL21": [
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      }
+    ],
+    "BL23": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "음허화왕 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "음허화왕"
+      },
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "BL25": [
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "BL31": [
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "BL32": [
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "BL40": [
+      {
+        "layer": "traditional",
+        "label": "사총혈의 관련 부위",
+        "text": "허리·등의 증상을 대표 혈로 다루는 전통적인 선혈 원리입니다.",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1·각주 2"
+      },
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "BL57": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "허리·등를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      }
+    ],
+    "BL60": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "허리·등를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      },
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "BL62": [
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "SI3와 함께 몸의 뒷면 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "SI3"
+        ]
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      }
+    ],
+    "CV10": [
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      }
+    ],
+    "CV12": [
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      }
+    ],
+    "CV6": [
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      }
+    ],
+    "GB30": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "인체 측면과 무릎 앞·겨드랑이·옆구리를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      }
+    ],
+    "GB34": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "인체 측면과 무릎 앞·겨드랑이·옆구리를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      },
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "GB41": [
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "TE5와 함께 귀 뒤·옆구리·어깨 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "TE5"
+        ]
+      }
+    ],
+    "GV20": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      }
+    ],
+    "GV24": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      }
+    ],
+    "GV3": [
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "GV4": [
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "HT5": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "가슴를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      }
+    ],
+    "HT6": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심담기허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심담기허"
+      }
+    ],
+    "HT7": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      }
+    ],
+    "KI1": [
+      {
+        "layer": "traditional",
+        "label": "오수혈 문헌의 배혈",
+        "text": "곤륜과의 배합을 포함하여 허리·어깨·등·목의 통증에 활용한 기록을 분석했습니다.",
+        "source_id": "kim2020shu",
+        "locator": "280쪽 표 5; 281쪽 본론 2"
+      }
+    ],
+    "KI3": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "음허화왕 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "음허화왕"
+      }
+    ],
+    "KI6": [
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "LU7와 함께 인후·흉격 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "LU7"
+        ]
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      }
+    ],
+    "LI11": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "머리·얼굴를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      }
+    ],
+    "LI4": [
+      {
+        "layer": "traditional",
+        "label": "사총혈의 관련 부위",
+        "text": "얼굴·눈의 증상을 대표 혈로 다루는 전통적인 선혈 원리입니다.",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1·각주 2"
+      }
+    ],
+    "LR2": [
+      {
+        "layer": "traditional",
+        "label": "오수혈 문헌의 관련 증상",
+        "text": "『영추』 「오사」의 옆구리 통증 관련 기록에서 행간의 활용을 분석했습니다.",
+        "source_id": "kim2020shu",
+        "locator": "281쪽 표 8"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "간울화화 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "간울화화"
+      }
+    ],
+    "LR3": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "머리·눈를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      },
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      }
+    ],
+    "LR4": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "담열내요 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "담열내요"
+      }
+    ],
+    "LU10": [
+      {
+        "layer": "traditional",
+        "label": "오수혈 문헌의 배혈",
+        "text": "태연과 어제를 함께 흉부 통증에 활용한 『영추』 「궐병」의 기록을 분석했습니다.",
+        "source_id": "kim2020shu",
+        "locator": "278쪽 표 2; 281쪽 본론 2"
+      }
+    ],
+    "LU7": [
+      {
+        "layer": "traditional",
+        "label": "사총혈의 관련 부위",
+        "text": "머리·뒷목의 증상을 대표 혈로 다루는 전통적인 선혈 원리입니다.",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1·각주 2"
+      },
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "KI6와 함께 인후·흉격 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "KI6"
+        ]
+      }
+    ],
+    "LU9": [
+      {
+        "layer": "traditional",
+        "label": "오수혈 문헌의 배혈",
+        "text": "태연과 어제를 함께 흉부 통증에 활용한 『영추』 「궐병」의 기록을 분석했습니다.",
+        "source_id": "kim2020shu",
+        "locator": "278쪽 표 2; 281쪽 본론 2"
+      }
+    ],
+    "PC6": [
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "SP4와 함께 가슴·위장 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "SP4"
+        ]
+      },
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      }
+    ],
+    "PC7": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심담기허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심담기허"
+      }
+    ],
+    "SI3": [
+      {
+        "layer": "traditional",
+        "label": "천금십일혈의 관련 부위",
+        "text": "머리와 뒷목의 증상을 다루는 혈로 해석했습니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      },
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "BL62와 함께 몸의 뒷면 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "BL62"
+        ]
+      }
+    ],
+    "SP2": [
+      {
+        "layer": "traditional",
+        "label": "오수혈 문헌의 배혈",
+        "text": "대도·태백을 복부와 가슴의 팽만에 함께 활용한 『영추』 「궐병」의 기록을 정리했습니다.",
+        "source_id": "kim2020shu",
+        "locator": "279쪽 표 4"
+      }
+    ],
+    "SP4": [
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "PC6와 함께 가슴·위장 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "PC6"
+        ]
+      },
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "담열내요 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "담열내요"
+      }
+    ],
+    "SP6": [
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심비양허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심비양허"
+      },
+      {
+        "layer": "clinical",
+        "label": "만성요통 지침의 배혈 (2020년판)",
+        "text": "성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다.",
+        "source_id": "nckm_lbp2020",
+        "locator": "67쪽(PDF 77쪽), 일반침 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 만성 비특이적 요통",
+        "edition": "2020"
+      }
+    ],
+    "SP9": [
+      {
+        "layer": "traditional",
+        "label": "오수혈 문헌의 관련 증상",
+        "text": "『영추』 「사시기」의 설사 관련 기록과 「열병」의 배꼽 주변 통증·흉협부 팽만 관련 기록이 제시됩니다.",
+        "source_id": "kim2020shu",
+        "locator": "279쪽 표 4"
+      }
+    ],
+    "ST25": [
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      }
+    ],
+    "ST36": [
+      {
+        "layer": "traditional",
+        "label": "사총혈의 관련 부위",
+        "text": "복부의 증상을 대표 혈로 다루는 전통적인 선혈 원리입니다.",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1·각주 2"
+      },
+      {
+        "layer": "clinical",
+        "label": "기능성소화불량 지침의 배혈",
+        "text": "성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다.",
+        "source_id": "nckm_fd2021",
+        "locator": "142쪽(PDF 152쪽), R13 임상적 고려사항",
+        "intervention": "일반침·전침",
+        "population": "성인 기능성소화불량"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 주요 혈위",
+        "text": "성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면"
+      },
+      {
+        "layer": "clinical",
+        "label": "불면장애 지침의 변증별 추가 혈위",
+        "text": "심비양허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다.",
+        "source_id": "nckm_insomnia2021",
+        "locator": "124쪽(PDF 134쪽), R2-1-1 임상적 고려사항",
+        "intervention": "일반침",
+        "population": "성인 원발성 불면",
+        "pattern": "심비양허"
+      }
+    ],
+    "ST44": [
+      {
+        "layer": "traditional",
+        "label": "천성십이혈의 관련 부위",
+        "text": "복부를 중심으로 활용한 고전 경혈군의 해석입니다.",
+        "source_id": "yoon2024",
+        "locator": "237쪽, 본론 2"
+      }
+    ],
+    "TE5": [
+      {
+        "layer": "traditional",
+        "label": "팔맥교회혈의 배혈",
+        "text": "GB41와 함께 귀 뒤·옆구리·어깨 부위를 다루는 전통적인 배혈로 설명됩니다.",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1",
+        "related_points": [
+          "GB41"
+        ]
+      }
+    ]
+  },
+  "specific_attributes": {
+    "BL40": [
+      {
+        "label": "사총혈",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1"
+      },
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "BL57": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "BL60": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "BL62": [
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ],
+    "GB30": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "GB34": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "GB41": [
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ],
+    "HT5": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "KI6": [
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ],
+    "LI11": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "LI4": [
+      {
+        "label": "사총혈",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1"
+      },
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "LR3": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "LU7": [
+      {
+        "label": "사총혈",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1"
+      },
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      },
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ],
+    "PC6": [
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ],
+    "SI3": [
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ],
+    "SP4": [
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ],
+    "ST36": [
+      {
+        "label": "사총혈",
+        "source_id": "yoon2024",
+        "locator": "236쪽, 본론 1"
+      },
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "ST44": [
+      {
+        "label": "천성십이혈",
+        "source_id": "yoon2024",
+        "locator": "237–238쪽, 본론 2·표 1"
+      }
+    ],
+    "TE5": [
+      {
+        "label": "팔맥교회혈",
+        "source_id": "yoon2024",
+        "locator": "236–237쪽, 본론 1"
+      }
+    ]
+  },
+  "source_review": [
+    {
+      "source": "KIOM 한의학고전DB",
+      "url": "https://info.mediclassics.kr/document/guide/license",
+      "decision": "본문 대량 수집·전재 미채택",
+      "reason": "2026-06-29 이용 안내: 개인 비상업적 열람 외 연구 데이터 수집·대량·상업 이용 및 재배포는 별도 승인 절차. 공개 전통 주치 361혈의 재사용 가능한 공통 데이터로 확보하지 못함."
+    },
+    {
+      "source": "대한침구의학회 만성요통증후군 2025년판",
+      "url": "https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=230&menu_idx=14",
+      "decision": "2025년판 권고 미채택",
+      "reason": "등록 정보는 확인했지만 공개 상세 페이지에서 원문 다운로드를 확보하지 못함. 공개 2020년판은 연도를 명시한 배혈 자료로만 반영."
+    },
+    {
+      "source": "배유혈과 복모혈의 주치증에 관한 문헌적 비교연구 (2001)",
+      "url": "https://koreascience.kr/article/JAKO200104637358736.pdf",
+      "decision": "보류",
+      "reason": "공개 PDF가 스캔본으로 핵심 혈별 표를 충분히 대조하지 못함. 제목만으로 주치를 채우지 않음."
+    },
+    {
+      "source": "한국한의학연구원 경혈 특성 연구",
+      "decision": "기존 hwang2020·choi2021 유지, yoon2024 추가",
+      "reason": "KIOM 연구진 참여의 경혈 선택·특성 분석과 고전 경혈군 연구를 각각의 역할로 반영. 이를 KIOM의 공식 질환별 권고나 361경혈 기본 주치 표준으로 표시하지 않음. 추가 기전 연구 결과를 이번에 새로 확정하지 않음."
+    },
+    {
+      "source": "원문 코드 교차 검토",
+      "decision": "오탈자 전파 방지",
+      "reason": "yoon2024 238쪽 대릉(PC6), 불면 지침 다른 권고의 간수(BL17) 등 코드 불일치 표현은 채택하지 않음. 이번에 사용한 R2-1-1과 경혈군 본문을 표준 코드와 대조."
+    },
+    {
+      "source": "공통 전통 주치 기반의 남은 범위",
+      "decision": "미확보 범위를 명시",
+      "reason": "361경혈 기본 전통 주치·효능 전체를 포괄하고 재사용 범위를 확인한 국내 공통 원문은 아직 확보하지 못함. 위치 DB로 대체 인용하지 않으며 기존 교육자료의 검토를 계속할 수 있도록 출처별 커버리지를 유지."
+    }
+  ],
+  "name_corrections": [
+    {
+      "code": "LU7",
+      "before": "缺",
+      "after": "列缺",
+      "source_url": "https://www.kmcric.com/database/acupoint/LU/LU7"
+    },
+    {
+      "code": "ST6",
+      "before": "頰",
+      "after": "頰車",
+      "source_url": "https://www.kmcric.com/database/acupoint/ST/ST6"
+    },
+    {
+      "code": "ST19",
+      "before": "容",
+      "after": "不容",
+      "source_url": "https://www.kmcric.com/database/acupoint/ST/ST19"
+    },
+    {
+      "code": "ST21",
+      "before": "門",
+      "after": "梁門",
+      "source_url": "https://www.kmcric.com/database/acupoint/ST/ST21"
+    },
+    {
+      "code": "ST34",
+      "before": "丘",
+      "after": "梁丘",
+      "source_url": "https://www.kmcric.com/database/acupoint/ST/ST34"
+    },
+    {
+      "code": "SP7",
+      "before": "谷",
+      "after": "漏谷",
+      "source_url": "https://www.kmcric.com/database/acupoint/SP/SP7"
+    },
+    {
+      "code": "BL61",
+      "before": "僕",
+      "after": "僕參",
+      "source_url": "https://www.kmcric.com/database/acupoint/BL/BL61"
+    },
+    {
+      "code": "BL63",
+      "before": "門",
+      "after": "金門",
+      "source_url": "https://www.kmcric.com/database/acupoint/BL/BL63"
+    },
+    {
+      "code": "KI24",
+      "before": "墟",
+      "after": "靈墟",
+      "source_url": "https://www.kmcric.com/database/acupoint/KI/KI24"
+    },
+    {
+      "code": "PC8",
+      "before": "宮",
+      "after": "勞宮",
+      "source_url": "https://www.kmcric.com/database/acupoint/PC/PC8"
+    },
+    {
+      "code": "TE11",
+      "before": "淸淵",
+      "after": "淸冷淵",
+      "source_url": "https://www.kmcric.com/database/acupoint/TE/TE11"
+    },
+    {
+      "code": "GB15",
+      "before": "頭泣",
+      "after": "頭臨泣",
+      "source_url": "https://www.kmcric.com/database/acupoint/GB/GB15"
+    },
+    {
+      "code": "GB41",
+      "before": "足泣",
+      "after": "足臨泣",
+      "source_url": "https://www.kmcric.com/database/acupoint/GB/GB41"
+    },
+    {
+      "code": "GV10",
+      "before": "臺",
+      "after": "靈臺",
+      "source_url": "https://www.kmcric.com/database/acupoint/GV/GV10"
+    }
+  ]
+}

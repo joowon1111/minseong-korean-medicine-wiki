@@ -30,15 +30,31 @@ last_reviewed: 2026-08-22
 **오수혈·정혈**
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 대표 주치·용도 | 두근거림 · 흉부 통증·답답함 · 팔 통증 |
-| 효능의 전통적 설명 | 안신 — 긴장·수면 불편을 조절; 명목 — 눈 관련 증상을 다루는 방향 |
-| 임상 평가·활용 | 잠드는 시간·중간 각성·낮 기능과 두근거림의 발생 상황을 기록합니다. [평가 자료](../../conditions/insomnia.md) |
-| 주치 출처 | [소충 전통 주치·교육자료](https://www.americandragon.com/Points/HT-9.html) |
-| 사암침법에서의 역할 | [심정격 보혈](../../acupuncture-specific/saam-12-meridians.md#ht) |
+**전통적 효능·주치**
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+- **대표 주치·용도:** 두근거림 · 흉부 통증·답답함 · 팔 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/HT-9.html)
+- **효능·활용 방향:** 안신 — 긴장·수면 불편을 조절; 명목 — 눈 관련 증상을 다루는 방향
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+
+**표준 정보:** [KMCRIC 소충 HT9](https://www.kmcric.com/database/acupoint/HT/HT9)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+잠드는 시간·중간 각성·낮 기능과 두근거림의 발생 상황을 기록합니다. [평가 자료](../../conditions/insomnia.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+**사암침법에서의 역할:** [심정격 보혈](../../acupuncture-specific/saam-12-meridians.md#ht)
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

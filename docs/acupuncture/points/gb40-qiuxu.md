@@ -70,14 +70,31 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 ## 주치·활용과 국내 자료 {#전통적-의미와-주치}
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 임상시험에서 사용된 분야 | 급성 발목염좌 |
-| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
-| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석) |
-| 임상 평가·활용 | 목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다. [평가 자료](../../conditions/neck-pain.md) |
+**현대 연구에서 다루어진 분야**
 
-이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
+- **임상시험에서 사용된 분야:** 급성 발목염좌 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
+- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+1. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
+
+**표준 정보:** [KMCRIC 구허 GB40](https://www.kmcric.com/database/acupoint/GB/GB40)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다. [평가 자료](../../conditions/neck-pain.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

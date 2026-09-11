@@ -70,15 +70,31 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 ## 전통적 의미와 주치
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 대표 주치·용도 | 부종 · 과도한 발한 · 배뇨 불편 |
-| 효능의 전통적 설명 | 보신·이수 — 신허 양상과 수액·발한을 조절 |
-| 임상 평가·활용 | 부종의 좌우·시간대·체중 변화와 동반 증상을 확인합니다. [평가 자료](../../acupuncture-integrated/followup.md) |
-| 주치 출처 | [복류 전통 주치·교육자료](https://www.americandragon.com/Points/KI-7.html) |
-| 사암침법에서의 역할 | [신정격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) |
+**전통적 효능·주치**
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+- **대표 주치·용도:** 부종 · 과도한 발한 · 배뇨 불편 [전통 주치·교육자료](https://www.americandragon.com/Points/KI-7.html)
+- **효능·활용 방향:** 보신·이수 — 신허 양상과 수액·발한을 조절
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+
+**표준 정보:** [KMCRIC 복류 KI7](https://www.kmcric.com/database/acupoint/KI/KI7)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+부종의 좌우·시간대·체중 변화와 동반 증상을 확인합니다. [평가 자료](../../acupuncture-integrated/followup.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+**사암침법에서의 역할:** [신정격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki)
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

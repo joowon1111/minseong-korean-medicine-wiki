@@ -30,14 +30,38 @@ tags: [경혈, 임상한의학]
 **모혈**
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 임상시험에서 사용된 분야 | 과민성장증후군 |
-| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
-| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석) |
-| 임상 평가·활용 | 복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다. [평가 자료](../../acupuncture-integrated/evidence.md) |
+**현대 임상 활용**
 
-이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
+- **기능성소화불량 지침의 배혈:** 성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다. [출처 1](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)
+
+진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+
+**현대 연구에서 다루어진 분야**
+
+- **임상시험에서 사용된 분야:** 과민성장증후군 [출처 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
+- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+1. **임상진료지침의 일반침·전침 배혈** — 대한한방내과학회 지침 개발진. [기능성소화불량 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방내과학회·한국한의약진흥원; 국가한의임상정보포털. **142쪽(PDF 152쪽), R13 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=154&file_type=pdf#page=152).
+2. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
+
+**표준 정보:** [KMCRIC 천추 ST25](https://www.kmcric.com/database/acupoint/ST/ST25)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다. [평가 자료](../../acupuncture-integrated/evidence.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

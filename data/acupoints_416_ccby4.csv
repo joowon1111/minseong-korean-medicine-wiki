@@ -22,7 +22,7 @@ LU5,LU,척택,尺澤,수태음폐경,"팔꿈치 앞쪽면, 팔오금주름(cubit
 LU6,LU,공최,孔最,수태음폐경,"아래팔 앞가쪽면, 尺澤(LU5)과 太淵(LU9)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸.","On the anterolateral aspect of the forearm, on the line connecting LU5 with LU9, 7 B-cun superior to the palmar wrist crease.","팔을 펴고 손바닥을 위로 향하게 한 자세에서, 尺澤(LU5)과 太淵(LU9)을 연결하는 선의 중점에서 위쪽으로 1寸에서 취혈한다.","- 直刺 0.5～1寸 (留3呼)
 
 - 斜刺 1～1.5寸",acupoint
-LU7,LU,열결,缺,수태음폐경,"아래팔의 노쪽면, 긴엄지벌림근힘줄(abductor pollicis longus tendon)과 짧은엄지폄근힘줄(extensor pollicis brevis tendon)의 사이, 긴엄지벌림근힘줄 고랑(groove for the abductor pollicis longus tendon) 위, 손바닥쪽 손목주름(the palmar wrist crease)에서 위쪽으로 1.5寸.","On the radial aspect of the forearm, between the tendons of the abductor pollicis longus and the extensor pollicis brevis muscles, in the groove for the abductor pollicis longus tendon, 1.5 B-cun superior to the palmar wrist crease.",,"- 直刺 0.2～0.3寸
+LU7,LU,열결,列缺,수태음폐경,"아래팔의 노쪽면, 긴엄지벌림근힘줄(abductor pollicis longus tendon)과 짧은엄지폄근힘줄(extensor pollicis brevis tendon)의 사이, 긴엄지벌림근힘줄 고랑(groove for the abductor pollicis longus tendon) 위, 손바닥쪽 손목주름(the palmar wrist crease)에서 위쪽으로 1.5寸.","On the radial aspect of the forearm, between the tendons of the abductor pollicis longus and the extensor pollicis brevis muscles, in the groove for the abductor pollicis longus tendon, 1.5 B-cun superior to the palmar wrist crease.",,"- 直刺 0.2～0.3寸
 
 - 斜刺 0.5～1寸 (肘關節 방향으로 刺入)
 
@@ -147,7 +147,7 @@ ST4,ST,지창,地倉,족양명위경,"얼굴, 입꼬리에서 가쪽으로 0.4�
 ST5,ST,대영,大迎,족양명위경,"얼굴, 턱뼈각(angle of the mandible)앞쪽, 깨물근(masseter muscle) 부착 부분 앞쪽 오목한 곳, 얼굴동맥(facial artery)이 뛰는 곳.","On the face, anterior to the angle of the mandible, in the depression anterior to the masseter attachment, over the facial artery.","입을 다물고, 입안에 공기를 채울 때, 아래턱뼈뿔 아래앞쪽에 나타나는 도랑처럼 패인 오목한 곳에서 취혈한다.","- 直刺 0.2～0.3寸
 
 - 斜刺 0.5～1寸",acupoint
-ST6,ST,협거,頰,족양명위경,"얼굴, 턱뼈각(angle of the mandible)에서 위앞쪽으로 1寸.","On the face, one fingerbreadth (middle finger) anterosuperior to the angle of the mandible.","턱뼈각의 이등분선 위, 입과 치아를 굳게 다물면 깨물근(masseter muscle)이 융기되고, 굳게 다물었던 치아를 놓으면 오목하게 느껴지는 곳에서 취혈한다.","- 直刺 0.3～0.5寸
+ST6,ST,협거,頰車,족양명위경,"얼굴, 턱뼈각(angle of the mandible)에서 위앞쪽으로 1寸.","On the face, one fingerbreadth (middle finger) anterosuperior to the angle of the mandible.","턱뼈각의 이등분선 위, 입과 치아를 굳게 다물면 깨물근(masseter muscle)이 융기되고, 굳게 다물었던 치아를 놓으면 오목하게 느껴지는 곳에서 취혈한다.","- 直刺 0.3～0.5寸
 
 - 斜刺 0.5～1寸 (깨물근경련 치료시 위쪽을 향해 刺入, 上‧下齒痛에는 上齒 및 下齒를 향해 刺入)",acupoint
 ST7,ST,하관,下關,족양명위경,"얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibularnotch) 사이의 오목한 곳.","On the face, in the depression between the midpoint of the inferior border of the zygomatic arch and the mandibular notch.","입을 다물고, 上關(GB3)에서 수직으로 아래쪽, 광대활 아래쪽의 오목한 곳에서 취혈한다.","- 艾炷灸 3～5壯
@@ -194,14 +194,14 @@ ST18,ST,유근,乳根,족양명위경,"앞가슴부위, 다섯째 갈비사이�
 - 斜刺 0.3～0.5寸
 
 - 橫刺 0.5～1寸",acupoint
-ST19,ST,불용,容,족양명위경,"윗배, 배꼽(umbilicus) 중심에서 위쪽으로 6寸, 앞정중선(anterior median line)에서 가쪽으로 2寸.","On the upper abdomen, 6 B-cun superior to the centre of the umbilicus, 2 B-cun lateral to the anterior median line.","巨闕(CV14)에서 가쪽으로 2寸, 갈비뼈각(costal angle) 아래에서 취혈한다. 명치각(infrasternal angle)이 너무 날카롭거나 갈비뼈가 不容(ST19) 아래쪽에 있는 경우에는 斜刺하여 不容(ST19)에 이르도록 한다.","- 直刺 0.5～0.8寸
+ST19,ST,불용,不容,족양명위경,"윗배, 배꼽(umbilicus) 중심에서 위쪽으로 6寸, 앞정중선(anterior median line)에서 가쪽으로 2寸.","On the upper abdomen, 6 B-cun superior to the centre of the umbilicus, 2 B-cun lateral to the anterior median line.","巨闕(CV14)에서 가쪽으로 2寸, 갈비뼈각(costal angle) 아래에서 취혈한다. 명치각(infrasternal angle)이 너무 날카롭거나 갈비뼈가 不容(ST19) 아래쪽에 있는 경우에는 斜刺하여 不容(ST19)에 이르도록 한다.","- 直刺 0.5～0.8寸
 
 - 斜刺 0.5～1寸",acupoint
 ST20,ST,승만,承滿,족양명위경,"윗배, 배꼽(umbilicus) 중심에서 위쪽으로 5寸, 앞정중선(anterior median line)에서 가쪽으로 2寸.","On the upper abdomen, 5 B-cun superior to the centre of the umbilicus, 2 B-cun lateral to the anterior median line.
 Note: ST20 is 5 B-cun superior to ST25, 1 B-cun inferior to St19, 2 B-cun lateral to CV13.",,"- 直刺 0.5～1寸
 
 - 斜刺 0.5～1.5寸",acupoint
-ST21,ST,양문,門,족양명위경,"윗배, 배꼽(umbilicus) 중심에서 위쪽으로 4寸, 앞정중선(anterior median line)에서 가쪽으로 2寸.","On the upper abdomen, 4 B-cun superior to the centre of the umbilicus, 2 B-cun lateral to the anterior median line.
+ST21,ST,양문,梁門,족양명위경,"윗배, 배꼽(umbilicus) 중심에서 위쪽으로 4寸, 앞정중선(anterior median line)에서 가쪽으로 2寸.","On the upper abdomen, 4 B-cun superior to the centre of the umbilicus, 2 B-cun lateral to the anterior median line.
 Note: ST21 is 4 B-cun superior to ST25, 1 B-cun inferior to St20, 2 B-cun lateral to CV12.",,"- 直刺 0.5～1寸
 
 - 斜刺 0.8～1.5寸",acupoint
@@ -255,7 +255,7 @@ ST32,ST,복토,伏兎,족양명위경,"넓적다리 앞가쪽면, 위앞엉덩�
 ST33,ST,음시,陰市,족양명위경,"넓적다리 앞가쪽면, 넙다리곧은근힘줄(rectus femoris tendon) 가쪽, 무릎뼈바닥(base of the patella)에서 위쪽으로 3寸.","On the anterolateral aspect of the thigh, lateral to the rectus femoris tendon, 3 B-cun superior to the base of the patella.",伏兎(ST32)와 무릎뼈바닥 가쪽끝을 연결하는 선의 중점에서 취혈한다.,"- 直刺 0.5～0.7寸
 
 - 斜刺 0.7～1寸",acupoint
-ST34,ST,양구,丘,족양명위경,"넓적다리 앞가쪽면, 가쪽넓은근(vastus lateralis muscle)과 넙다리곧은근힘줄(rectus femoris tendon) 가쪽모서리사이, 무릎뼈바닥(base of patellae)에서 위쪽으로 2寸.","On the anterolateral aspect of the thigh, between the vastus lateralis muscle and the lateral border of the rectus femoris tendon, 2 B-cun superior to the base of the patella.","넓적다리 근육에 힘을 주면, 넙다리 곧은근힘줄과 가쪽넓은근이 현저하게 드러난다. 근육과 힘줄 사이, 陰市(ST33)에서 수직으로 아래쪽 1寸 지점에서 취혈한다.","- 直刺 0.5～1寸
+ST34,ST,양구,梁丘,족양명위경,"넓적다리 앞가쪽면, 가쪽넓은근(vastus lateralis muscle)과 넙다리곧은근힘줄(rectus femoris tendon) 가쪽모서리사이, 무릎뼈바닥(base of patellae)에서 위쪽으로 2寸.","On the anterolateral aspect of the thigh, between the vastus lateralis muscle and the lateral border of the rectus femoris tendon, 2 B-cun superior to the base of the patella.","넓적다리 근육에 힘을 주면, 넙다리 곧은근힘줄과 가쪽넓은근이 현저하게 드러난다. 근육과 힘줄 사이, 陰市(ST33)에서 수직으로 아래쪽 1寸 지점에서 취혈한다.","- 直刺 0.5～1寸
 
 - 斜刺 1～1.5寸",acupoint
 ST35,ST,독비,犢鼻,족양명위경,"무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다.","On the anterior aspect of the knee, in the depression lateral to the patellar ligament.
@@ -316,7 +316,7 @@ Note: 1 B-cun superior to KI8.",,"- 1～1.5寸 直刺
 - 體幹부 疾患 치료시는 鍼尖을 약간 上向하여 刺入하거나 懸鍾(GB39)으로 透刺하기도 한다.
 
 - 임신부에는 금침혈로 되어 있어 강한 자극을 피해야 함. (아직 명확한 근거는 부족하다)",acupoint
-SP7,SP,누곡,谷,족태음비경,"종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기에서 위로 6寸 부위에 취혈함.","On the tibial aspect of the leg, posterior to the medial border of the tibia, 6 B-cun superior to the prominence of the medial malleolus.",三陰交(SP6)에서 위쪽으로 3寸지점에 해당됨.,"- 0.5～1寸 直刺
+SP7,SP,누곡,漏谷,족태음비경,"종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기에서 위로 6寸 부위에 취혈함.","On the tibial aspect of the leg, posterior to the medial border of the tibia, 6 B-cun superior to the prominence of the medial malleolus.",三陰交(SP6)에서 위쪽으로 3寸지점에 해당됨.,"- 0.5～1寸 直刺
 
 - 斜刺 1～1.5寸",acupoint
 SP8,SP,지기,地機,족태음비경,"종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 陰陵泉(SP9)에서 아래쪽으로 3寸 부위에 취혈함.","On the tibial aspect of the leg, posterior to the medial border of the tibia, 3 B-cun inferior to SP9.
@@ -704,13 +704,13 @@ BL60,BL,곤륜,崑崙,족태양방광경,"발목 뒤가쪽면, 가쪽복사 융�
 - 下肢麻痺 치료시 鍼尖을 太谿(KI3)를 향해 1～1.5寸 透刺
 
 - 임신부에는 자침을 금하는 자리이니 신중을 기해야 함.",acupoint
-BL61,BL,복삼,僕,족태양방광경,"발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(BL60)에서 먼 쪽, 赤白肉際에 취혈함.","On the lateral aspect of the foot, distal to BL60, lateral to the calcaneus, at the border between the red and white flesh.",,- 0.3～0.5寸 直刺 혹은 斜刺를 함.,acupoint
+BL61,BL,복삼,僕參,족태양방광경,"발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(BL60)에서 먼 쪽, 赤白肉際에 취혈함.","On the lateral aspect of the foot, distal to BL60, lateral to the calcaneus, at the border between the red and white flesh.",,- 0.3～0.5寸 直刺 혹은 斜刺를 함.,acupoint
 BL62,BL,신맥,申脈,족태양방광경,"발 가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)에서 수직으로 아래쪽, 가쪽복사의 아래모서리와 발꿈치뼈(calcaneus) 사이의 오목한 곳.
 ※주 : 申脈(BL62)에 상응하는 안쪽의 經穴은 照海(KI6)다.","On the lateral aspect of the foot, directly inferior to the prominence of the lateral malleolus, in the depression between the inferior border of the lateral malleolus and the calcaneus.
 Note: The corresponding medial acupuncture point to BL 62 is KI6.",가쪽복사 아래모서리의 먼쪽 오목한 곳에서 취혈한다.,"- 直刺 0.2～0.4寸
 
 - 斜刺 0.3～0.5寸 (鍼尖을 下向하여 刺入)",acupoint
-BL63,BL,금문,門,족태양방광경,"발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳.","On the dorsum of the foot, distal to the anterior border of the lateral malleolus, posterior to the tuberosity of the fifth metatarsal bone, in the depression inferior to the cuboid bone.",다섯째 발허리뼈거친면은 대개 발꿈치(heel)와 다섯째 발허리발가락관절(the 5th metatarsophalangeal joint)을 연결하는 선 중간에 위치한다.,"- 直刺 0.3～0.5寸
+BL63,BL,금문,金門,족태양방광경,"발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳.","On the dorsum of the foot, distal to the anterior border of the lateral malleolus, posterior to the tuberosity of the fifth metatarsal bone, in the depression inferior to the cuboid bone.",다섯째 발허리뼈거친면은 대개 발꿈치(heel)와 다섯째 발허리발가락관절(the 5th metatarsophalangeal joint)을 연결하는 선 중간에 위치한다.,"- 直刺 0.3～0.5寸
 
 - 斜刺 0.5～0.7寸",acupoint
 BL64,BL,경골,京骨,족태양방광경,"발 가쪽면, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 먼 쪽, 赤白肉際.","On the lateral aspect of the foot, distal to the tuberosity of the fifth metatarsal bone, at the border between the red and white flesh.",다섯째 발허리뼈거친면은 대개 발꿈치(heel)와 다섯째 발허리발가락관절(the 5th metatarsophalangeal joint)을 연결하는 선 중간에 위치한다.,"- 直刺 0.3～0.5寸
@@ -793,7 +793,7 @@ KI22,KI,보랑,步廊,족소음신경,"앞가슴부위, 다섯째 갈비사이�
 KI23,KI,신봉,神封,족소음신경,"앞가슴부위, 넷째 갈비사이공간(the 4th intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.","In the anterior thoracic region, in the 4th intercostal space, 2 B-cun lateral to the anterior median line.",남자는 乳頭와 膻中(CV17)의 연결선 중점에서 취혈한다.,"- 直刺 0.2～0.4寸
 
 - 斜刺 0.3～0.5寸",acupoint
-KI24,KI,영허,墟,족소음신경,"앞가슴부위, 셋째 갈비사이공간(the 3rd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.","In the anterior thoracic region, in the 3rd intercostal space, 2 B-cun lateral to the anterior median line.",玉堂(CV18)과 膺窓(ST16)의 연결선 중점에서 취혈한다.,"- 直刺 0.2～0.4寸 (不可深刺)
+KI24,KI,영허,靈墟,족소음신경,"앞가슴부위, 셋째 갈비사이공간(the 3rd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.","In the anterior thoracic region, in the 3rd intercostal space, 2 B-cun lateral to the anterior median line.",玉堂(CV18)과 膺窓(ST16)의 연결선 중점에서 취혈한다.,"- 直刺 0.2～0.4寸 (不可深刺)
 
 - 斜刺 0.3～0.5寸",acupoint
 KI25,KI,신장,神藏,족소음신경,"앞가슴부위, 둘째 갈비사이공간(the 2nd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.","In the anterior thoracic region, in the 2nd intercostal space, 2 B-cun lateral to the anterior median line.",紫宮(CV19)과 屋翳(ST15)의 중간 지점에서 취혈한다.,"- 直刺 0.3～0.4寸 (不可深刺)
@@ -831,7 +831,7 @@ PC6,PC,내관,內關,수궐음심포경,"아래팔 앞쪽면, 긴손바닥근힘
 PC7,PC,대릉,大陵,수궐음심포경,"손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위.","On the anterior aspect of the wrist, between the tendons of palmaris longus and the flexor carpi radialis, on the palmar wrist crease.","주먹을 가볍게 움켜쥐고 손바닥이 위쪽을 향하도록 손목을 돌린 상태에서 팔꿈치를 약간 굽히면, 긴손바닥근힘줄과 노쪽손목굽힘근힘줄이 현저하게 드러난다. 손바닥 쪽 손목주름의 중점, 긴손바닥근힘줄과 노쪽손목굽힘근힘줄의 사이, 콩알뼈(pisiform bone)의 몸 쪽 끝인 神門(HT7)과 같은 높이에서 취혈한다.","- 直刺 0.3～0.5寸 
 
 - 斜刺 0.5～0.8寸",acupoint
-PC8,PC,노궁,宮,수궐음심포경,"손바닥, 둘째와 셋째 손허리뼈(the 2nd and 3rd metacarpal bone)의 사이, 손허리손가락관절(metacarpophalangeal joint)의 몸 쪽 오목한 곳.
+PC8,PC,노궁,勞宮,수궐음심포경,"손바닥, 둘째와 셋째 손허리뼈(the 2nd and 3rd metacarpal bone)의 사이, 손허리손가락관절(metacarpophalangeal joint)의 몸 쪽 오목한 곳.
 ※참고 :  勞宮(PC8)의 부위가 손바닥, 셋째와 넷째 손허리뼈의 사이, 손허리손가락관절의 몸 쪽 오목한 곳이라는 의견도 있다.","On the palm of the hand, in the depression between the second and third metacarpal bones, proximal to the metacarpophalangeal joints.
 Remarks: Alternative location of PC8 – On the palm of the hand, in the depression, between the third and fourth metacarpal bones, proximal to the metacarpophalangeal joints.",,"- 直刺 0.3～0.5寸 (손바닥에서 손등을 향해 刺入)
 
@@ -881,7 +881,7 @@ TE9,TE,사독,四瀆,수소양삼초경,"아래팔 뒤쪽면, 자뼈와 노뼈 �
 TE10,TE,천정,天井,수소양삼초경,"팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳.","On the posterior aspect of the elbow, in the depression 1 B-cun proximal to the prominence of the olecranon.","팔꿈치를 굽혔을 때, 팔꿈치머리오목(olecranon fossa)에서 취혈한다.","- 直刺 0.3～0.5寸
 
 - 斜刺 0.5～1寸",acupoint
-TE11,TE,청랭연,淸淵,수소양삼초경,"위팔 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)와 봉우리각(acromial angle)을 연결하는 선 위, 팔꿈치머리 융기에서 몸쪽으로 2寸.","On the posterior aspect of the arm, on the line connecting the prominence of the olecranon with the acromial angle, 2 B-cun proximal to the prominence of the olecranon.","팔꿈치를 펴고, 팔꿈치머리 융기로부터 위쪽으로 2寸에서 취혈한다.","- 直刺 0.3～0.5寸
+TE11,TE,청랭연,淸冷淵,수소양삼초경,"위팔 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)와 봉우리각(acromial angle)을 연결하는 선 위, 팔꿈치머리 융기에서 몸쪽으로 2寸.","On the posterior aspect of the arm, on the line connecting the prominence of the olecranon with the acromial angle, 2 B-cun proximal to the prominence of the olecranon.","팔꿈치를 펴고, 팔꿈치머리 융기로부터 위쪽으로 2寸에서 취혈한다.","- 直刺 0.3～0.5寸
 
 - 斜刺 0.5～1寸",acupoint
 TE12,TE,소락,消濼,수소양삼초경,"위팔 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)와 봉우리각(acromial angle)을 연결하는 선 위, 팔꿈치머리 융기에서 몸쪽으로 5寸.","On the posterior aspect of the arm, on the line connecting the prominence of the olecranon with the acromial angle, 5 B-cun proximal to the prominence of the olecranon.",,"- 直刺 0.3～0.7寸
@@ -975,7 +975,7 @@ GB14,GB,양백,陽白,족소양담경,"머리, 동공(pupil) 중심에서 수직
 - 斜刺 0.3～0.5寸 (뒤를 향하여 沿皮刺)
 
 - 橫刺하여 魚腰로 透刺 0.3～0.5寸 (위에서 아래로 皮下部를 沿하여 刺入)",acupoint
-GB15,GB,두임읍,頭泣,족소양담경,"머리, 동공(pupil) 중심에서 수직으로 위쪽, 前髮際(anterior hairline)에서 머리 안쪽으로 0.5寸.","On the head, 0.5 B-cun within the anterior hairline, directly superior to the centre of the pupil.","정면을 바라볼 때, 동공 중심에서 위 쪽, 神庭(GV24)에서 頭維(ST8)를 연결하는 곡선의 중점에서 취혈한다.","- 直刺 0.2～0.3寸
+GB15,GB,두임읍,頭臨泣,족소양담경,"머리, 동공(pupil) 중심에서 수직으로 위쪽, 前髮際(anterior hairline)에서 머리 안쪽으로 0.5寸.","On the head, 0.5 B-cun within the anterior hairline, directly superior to the centre of the pupil.","정면을 바라볼 때, 동공 중심에서 위 쪽, 神庭(GV24)에서 頭維(ST8)를 연결하는 곡선의 중점에서 취혈한다.","- 直刺 0.2～0.3寸
 
 - 斜刺 0.3～0.5寸 (위를 향하여 沿皮刺)
 
@@ -1072,7 +1072,7 @@ GB39,GB,현종,懸鍾,족소양담경,"종아리 종아리뼈쪽면, 종아리�
 GB40,GB,구허,丘墟,족소양담경,"발목 앞가쪽면, 긴발가락폄근힘줄(extensor digitorum longus tendon)의 가쪽, 가쪽복사(lateral malleolus)의 앞먼쪽(anterior and distal) 오목한 곳.","On the anterolateral aspect of the ankle, in the depression lateral to the extensor digitorum longus tendon, anterior and distal to the lateral malleolus.","둘째부터 다섯째발가락까지를 저항에 대항하면서 펴서, 먼저 긴발가락폄근힘줄을 찾고, 丘墟(GB40)를 취혈한다.","- 直刺 0.3～0.5寸
 
 - 斜刺 0.5～1寸 (足內踝下緣을 향해 刺入)",acupoint
-GB41,GB,족임읍,足泣,족소양담경,"발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳.","On the dorsum of the foot, distal to the junction of the bases of the fourth and fifth metatarsal bones, in the depression lateral to the fifth extensor digitorum longus tendon.",,"- 直刺 0.3～0.5寸
+GB41,GB,족임읍,足臨泣,족소양담경,"발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳.","On the dorsum of the foot, distal to the junction of the bases of the fourth and fifth metatarsal bones, in the depression lateral to the fifth extensor digitorum longus tendon.",,"- 直刺 0.3～0.5寸
 
 - 斜刺 0.3～0.5寸",acupoint
 GB42,GB,지오회,地五會,족소양담경,"발등, 넷째와 다섯째 발허리뼈(the 4th and 5th metatarsal bones) 사이, 넷째 발허리발가락관절(the 4th metatarsophalangeal joint) 몸 쪽 오목한 곳.","On the dorsum of the foot, between the fourth and fifth metatarsal bones, in the depression proximal to the fourth metatarsophalangeal joint.",,"- 直刺 0.1～0.4寸
@@ -1166,7 +1166,7 @@ GV8,GV,근축,筋縮,독맥,"위쪽 등부위, 뒤정중선(posterior median lin
 GV9,GV,지양,至陽,독맥,"위쪽 등부위, 뒤정중선(posterior median line) 위, 일곱째 등뼈 가시돌기(spinous process of the 7th thoracic vertebra) 아래쪽 오목한 곳.","In the upper back region, in the depression inferior to the spinous process of the 7th thoracic vertebra (T7), on the posterior median line.",양쪽 어깨뼈 아래각(inferior angle of the scapula) 아래모서리를 지나는 수평선과 뒤정중선(posterior median line)이 만나는 지점이 일곱째 등뼈(the 7th thoracic vertebra)가 된다. 그 가시돌기 아래쪽 오목한 곳에서 취혈한다.,"- 直刺 0.3～0.5寸
 
 - 斜刺 0.7～1寸 (약간 上向)",acupoint
-GV10,GV,영대,臺,독맥,"위쪽 등부위, 뒤정중선(posterior median line) 위, 여섯째 등뼈 가시돌기(spinous process of the 6th thoracic vertebra) 아래쪽 오목한 곳.","In the upper back region, in the depression inferior to the spinous process of the 6th thoracic vertebra (T6), on the posterior median line.",,"- 直刺 0.3～0.5寸
+GV10,GV,영대,靈臺,독맥,"위쪽 등부위, 뒤정중선(posterior median line) 위, 여섯째 등뼈 가시돌기(spinous process of the 6th thoracic vertebra) 아래쪽 오목한 곳.","In the upper back region, in the depression inferior to the spinous process of the 6th thoracic vertebra (T6), on the posterior median line.",,"- 直刺 0.3～0.5寸
 
 - 斜刺 0.5～1寸 (약간 上向)",acupoint
 GV11,GV,신도,神道,독맥,"위쪽 등부위, 뒤정중선(posterior median line) 위, 다섯째 등뼈 가시돌기(spinous process of the 5th thoracic vertebra) 아래쪽 오목한 곳.","In the upper back region, in the depression inferior to the spinous process of the 5th thoracic vertebra (T5), on the posterior median line.",- 斜刺 0.5～1寸 (鍼尖을 약간 上向하여 刺入),,acupoint

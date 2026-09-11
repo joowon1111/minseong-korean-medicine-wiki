@@ -5,7 +5,8 @@ import posixpath
 import re
 from pathlib import Path
 
-from build_acupoint_clinical import taegeuk_roles, domestic_rows
+from build_acupoint_clinical import taegeuk_roles
+from acupoint_sources import load_sources, render_profile
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -22,6 +23,7 @@ def outputs():
     data = json.loads((ROOT / 'data/taegeuk_formulas.json').read_text())
     clinical_data = json.loads((ROOT / 'data/acupoint_clinical.json').read_text())
     atlas = clinical_data['points']
+    sources = load_sources()
 
     def link(code):
         point = atlas[code]
@@ -39,18 +41,15 @@ def outputs():
         role_links = ' · '.join(f'[{label}](constitutions.md#{anchor})' for label, anchor in roles[code])
         # Existing clinical summaries contain no Markdown paths; link their source and evaluation explicitly.
         assessment = posixpath.relpath(point['clinical_path'], 'taegeuk-acupuncture')
-        summary = domestic_rows(point, clinical_data.get('references', {}))
-        if summary is None:
-            summary = ['| 대표 주치(전통) | ' + ' · '.join(point['indications']) + ' |',
-                       '| 효능·활용 방향(전통) | ' + '; '.join(point['actions']) + ' |',
-                       f'| 주치 출처 | [기존 경혈 문서의 교육자료]({point["source"]}) |']
+        summary = render_profile(code, point, clinical_data.get('references', {}), sources)
+        summary = summary.replace('../../portal/acupuncture.md', '../portal/acupuncture.md')
         profiles += [f'### {point["name"]} {code} {{#{code.lower()}}}', '',
                      f'**[위치·취혈 도해와 상세 주치](../{point["path"]})**', '',
                      '| 항목 | 내용 |', '|---|---|',
                      f'| 소속 경맥 | [{attrs["meridian"]} 전체 주행](../{attrs["meridian_path"]}) |',
                      f'| 특정혈 | {attrs["specific"]} |',
-                     f'| 태극침법 역할 | {role_links} |'] + summary + [
-                     f'| 임상 평가 | {point["clinical"]} [평가 자료]({assessment}) |', '']
+                     f'| 태극침법 역할 | {role_links} |', '', summary, '',
+                     f'**임상 평가:** {point["clinical"]} [평가 자료]({assessment})', '']
     result = {}
     for filename, marker, content in [('constitutions.md', 'TAEGEUK_FORMULAS', table),
                                        ('points.md', 'TAEGEUK_POINTS', profiles)]:
