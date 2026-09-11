@@ -33,8 +33,10 @@ last_reviewed: 2026-08-22
 
 **현대 연구에서 다루어진 분야**
 
-- **부산대 공동연구: 턱관절 통증:** 부산대 연구자 Shin BC가 참여한 2012년 예비시험은 턱관절장애 환자 42명을 근위혈·원위혈·혼합 배혈의 세 군에 배정했습니다. 합곡은 원위혈·혼합군에 포함됐고, 3주간 6회 치료 후 각 군의 통증은 기저치보다 31–36% 감소했습니다. 군 간 차이는 유의하지 않았습니다(p=0.5867). 소규모이며 가짜침·무치료 대조군이 없어 합곡 단독의 진통 효과나 우월성을 확정할 수 없습니다. [출처 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/)
-- **임상시험에서 사용된 분야:** 안면신경마비 · 섬유근통 · 난임 · 분만 통증·분만 유도 — 사용 빈도 분석이며 치료 성공률이 아님 [출처 5](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6)
+- **부산대 연구진: 국내 합곡 임상연구 154편:** 정주현·김승태 등은 1981–2022년 국내 학술지의 합곡 자극 포함 임상연구 154편을 분석했습니다. 신경계 질환 31편, 소화기 질환 19편, 순환계 질환 16편, 근골격계·결합조직 질환 14편으로, 소화기와 통증 관련 활용을 살펴볼 수 있는 자료입니다. 이 수치는 연구 편수이며 치료 성공률이나 효과 크기가 아닙니다. [출처 4](https://www.riss.kr/link?id=A108913346)
+- **154편 분석의 해석 범위:** 합곡 단독 자극은 6편이고, 148편은 다른 경혈을 함께 사용했습니다. 증례보고·증례군 연구가 105편, 무작위 대조시험이 3편이어서 합곡의 임상 활용을 파악하는 데 유용하지만, 합곡 하나의 독립적인 효능을 확정하는 자료는 아닙니다. 해외 학술지에 발표된 연구와 건강인 연구는 이 분석에서 제외됐습니다. [출처 4](https://www.riss.kr/link?id=A108913346)
+- **부산대 공동연구: 턱관절 통증:** 부산대 연구자 Shin BC가 참여한 2012년 예비시험은 턱관절장애 환자 42명을 근위혈·원위혈·혼합 배혈의 세 군에 배정했습니다. 합곡은 원위혈·혼합군에 포함됐고, 3주간 6회 치료 후 각 군의 통증은 기저치보다 31–36% 감소했습니다. 군 간 차이는 유의하지 않았습니다(p=0.5867). 소규모이며 가짜침·무치료 대조군이 없어 합곡 단독의 진통 효과나 우월성을 확정할 수 없습니다. [출처 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/)
+- **임상시험에서 사용된 분야:** 안면신경마비 · 섬유근통 · 난임 · 분만 통증·분만 유도 — 사용 빈도 분석이며 치료 성공률이 아님 [출처 6](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6)
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -42,8 +44,9 @@ last_reviewed: 2026-08-22
 1. **합곡·태충·사관혈의 전통적 효능과 주치 문헌고찰** — 성일환·채우석. [합곡, 태충, 사관혈에 대한 문헌적 고찰](https://koreascience.kr/article/JAKO199325552553741.pdf). 혜화의학. 1993;2(1):133–147. 대전대학교 한의과대학 침구학교실. **133쪽 서론; 135–136쪽 합곡·사관혈 고찰; 139쪽 표 II**.
 2. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
 3. **주요 경혈군의 고전 문헌연구** — 윤다은·문희영·류연희·채윤병. [주요 경혈 구성원리 고찰: 사총혈과 천성십이혈을 중심으로](https://koreascience.kr/article/JAKO202432472148656.pdf). 대한한의학회지. 2024;45(3):235–242. 경희대학교·세명대학교·한국한의학연구원; 대한한의학회. **236쪽, 본론 1·각주 2**. DOI: 10.13048/jkm.24052.
-4. **합곡을 포함한 턱관절장애 배혈 비교 예비 무작위 임상시험** — Kang KW·Kim WY·Kim TH·Shin BC·Jung SY·Kim AR·Choi SM. [Adjacent, distal, or combination of point-selective effects of acupuncture on temporomandibular joint disorders: A randomized, single-blind, assessor-blind controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/). Integrative Medicine Research. 2012;1(1):36–40. 한국한의학연구원·하나로동국한의원·부산대학교 한의학전문대학원 임상의학부(Shin BC). **방법 2.3–2.4; 결과 3.2·표 2; 고찰의 한계**. DOI: 10.1016/j.imr.2012.09.004.
-5. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
+4. **합곡 자극을 포함한 국내 임상연구 154편의 동향 분석** — 정주현·양형석·한승민·윤동학·김승태. [국내 학술지에 게재된 합곡혈 임상연구 동향](https://www.riss.kr/link?id=A108913346). Korean Journal of Acupuncture. 2023;40(4):149–155. 부산대학교 한의학전문대학원 한의학과·한의과학과·경희윤동학한의원; 부산대학교 연구비 지원. **150쪽 대상 및 방법; 151–152쪽 결과 3–4·표 1; 153–154쪽 고찰**. DOI: 10.14406/acu.2023.018. [해당 쪽 PDF](https://pdf.medrang.co.kr/acu2/2023/040/acu-40-4-149.pdf).
+5. **합곡을 포함한 턱관절장애 배혈 비교 예비 무작위 임상시험** — Kang KW·Kim WY·Kim TH·Shin BC·Jung SY·Kim AR·Choi SM. [Adjacent, distal, or combination of point-selective effects of acupuncture on temporomandibular joint disorders: A randomized, single-blind, assessor-blind controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/). Integrative Medicine Research. 2012;1(1):36–40. 한국한의학연구원·하나로동국한의원·부산대학교 한의학전문대학원 임상의학부(Shin BC). **방법 2.3–2.4; 결과 3.2·표 2; 고찰의 한계**. DOI: 10.1016/j.imr.2012.09.004.
+6. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
 
 **표준 정보:** [KMCRIC 합곡 LI4](https://www.kmcric.com/database/acupoint/LI/LI4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
 

@@ -79,7 +79,8 @@ class SourceRoleTests(unittest.TestCase):
         self.assertEqual([p['priority'] for p in primary], [0, 1, 2, 3])
         self.assertEqual(primary[3]['related_points'], ['LR3'])
         self.assertTrue(any(p['source_id'] == 'jung2015' for p in point['traditional'][4:]))
-        self.assertEqual(point['research'][0]['source_id'], 'kang2012tmd')
+        self.assertEqual([p['source_id'] for p in point['research'][:3]],
+                         ['jung2023li4', 'jung2023li4', 'kang2012tmd'])
         self.assertEqual(point['clinical'], [])
 
     def test_missing_chinese_characters_are_corrected_in_both_datasets(self):

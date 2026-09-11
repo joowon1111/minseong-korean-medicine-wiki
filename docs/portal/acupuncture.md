@@ -189,6 +189,7 @@ last_reviewed: '2026-09-09'
 - **대한침구의학회 지침 개발진**. [만성요통증후군 한의표준임상진료지침 (2020년판)](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=149&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2020. 대한침구의학회·한국한의약진흥원; 국가한의임상정보포털. 임상진료지침의 일반침 배혈·확인한 판본; 10경혈에 반영.
 - **성일환·채우석**. [합곡, 태충, 사관혈에 대한 문헌적 고찰](https://koreascience.kr/article/JAKO199325552553741.pdf). 혜화의학. 1993;2(1):133–147. 대전대학교 한의과대학 침구학교실. 합곡·태충·사관혈의 전통적 효능과 주치 문헌고찰; 1경혈에 반영.
 - **Kang KW·Kim WY·Kim TH·Shin BC·Jung SY·Kim AR·Choi SM**. [Adjacent, distal, or combination of point-selective effects of acupuncture on temporomandibular joint disorders: A randomized, single-blind, assessor-blind controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/). Integrative Medicine Research. 2012;1(1):36–40. 한국한의학연구원·하나로동국한의원·부산대학교 한의학전문대학원 임상의학부(Shin BC). 합곡을 포함한 턱관절장애 배혈 비교 예비 무작위 임상시험; 1경혈에 반영. DOI: 10.1016/j.imr.2012.09.004.
+- **정주현·양형석·한승민·윤동학·김승태**. [국내 학술지에 게재된 합곡혈 임상연구 동향](https://www.riss.kr/link?id=A108913346). Korean Journal of Acupuncture. 2023;40(4):149–155. 부산대학교 한의학전문대학원 한의학과·한의과학과·경희윤동학한의원; 부산대학교 연구비 지원. 합곡 자극을 포함한 국내 임상연구 154편의 동향 분석; 1경혈에 반영. DOI: 10.14406/acu.2023.018.
 
 만성요통은 공개 원문을 확인한 **2020년판**의 배혈을 소개합니다. 2025년판의 등록은 확인했지만 원문을 확보하지 못하여 최신판 권고로 표시하지 않았습니다.
 
