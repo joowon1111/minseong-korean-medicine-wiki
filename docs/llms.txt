@@ -78,6 +78,7 @@ For a single topic, use the page index to retrieve its page-sized JSON document 
 
 ## Acupuncture, anatomy and ultrasound
 
+- 태극침법 핵심 지식망: https://wiki.minseong.co.kr/taegeuk-acupuncture/
 - 침의 과학적 접근: https://wiki.minseong.co.kr/acupuncture-science/
 - 신경포착증후군: https://wiki.minseong.co.kr/nerve-entrapment/
 - 근육·말초신경 임상해부학: https://wiki.minseong.co.kr/clinical-anatomy/

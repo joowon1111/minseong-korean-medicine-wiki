@@ -37,6 +37,7 @@ last_reviewed: 2026-08-22
 | 임상 평가·활용 | 식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다. [평가 자료](../../conditions/functional-dyspepsia.md) |
 | 주치 출처 | [태백 전통 주치·교육자료](https://www.americandragon.com/Points/SP-3.html) |
 | 사암침법에서의 역할 | [폐정격 보혈](../../acupuncture-specific/saam-12-meridians.md#lu) · [심승격 사혈](../../acupuncture-specific/saam-12-meridians.md#ht) · [신정격 사혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [신승격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [심포승격 사혈](../../acupuncture-specific/saam-12-meridians.md#pc) |
+| 태극침법에서의 활용 | [소양인 사혈](../../taegeuk-acupuncture/constitutions.md#soyangin) · [소음인 보혈](../../taegeuk-acupuncture/constitutions.md#soeumin) |
 
 주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
 <!-- ACUPOINT_CLINICAL_END -->

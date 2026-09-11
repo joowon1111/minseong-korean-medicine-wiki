@@ -49,6 +49,7 @@ last_reviewed: 2026-09-06
 | 경맥 유주와 특정혈·배혈 원리 | [경락·경맥 지식망](../meridian-network/index.md) |
 | 사암침법의 정격·승격과 임상 선택 | [사암침법 핵심 지식망](../acupuncture-specific/saam-acupuncture.md) |
 | 동씨침법의 혈자리·주치·도해 찾기 | [동씨침법·동씨기혈 아틀라스](../tung-acupuncture/index.md) |
+| 체질별 선혈·보사와 경혈 주치 찾기 | [태극침법 핵심 지식망](../taegeuk-acupuncture/index.md) |
 | 근육·근막·MPS를 해부 도해로 찾기 | [MPS·근육·근막 아틀라스](../clinical-anatomy/mps-atlas.md) |
 | 허리·목·턱·어깨·무릎 등 증상에서 시작 | [통증·증상으로 침구치료 찾기](by-symptom.md) |
 | 경혈 이름·위치·경락을 찾기 | [경혈·경락 찾기](acupoints-meridians.md) |

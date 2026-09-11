@@ -525,6 +525,13 @@ nav:
     - 종아리 가쪽 · 일중·이중·삼중: tung-acupuncture/lower-leg-lateral.md
     - 허벅지 · 통관·통산·통천·사마: tung-acupuncture/thigh.md
     - 허벅지 안쪽 · 상삼황: tung-acupuncture/thigh-medial.md
+  - 태극침법 핵심 지식망:
+    - 태극침법 한눈에 보기: taegeuk-acupuncture/index.md
+    - 역사와 형성: taegeuk-acupuncture/history.md
+    - 체질별 선혈·보사: taegeuk-acupuncture/constitutions.md
+    - 체질 판별·반응 관찰: taegeuk-acupuncture/assessment.md
+    - 주요 경혈·주치·효능: taegeuk-acupuncture/points.md
+    - 임상 활용·현대 연구: taegeuk-acupuncture/evidence.md
   - 근육·근막·MPS 해부 아틀라스:
     - clinical-anatomy/mps-atlas.md
     - 목·뒤통수: clinical-anatomy/mps-neck.md

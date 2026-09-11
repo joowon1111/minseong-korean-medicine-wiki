@@ -13,7 +13,7 @@ last_reviewed: 2026-08-22
 |---|---|
 | WHO 코드 | **HT4** |
 | 한글명 | **영도** |
-| 한자 | **道** |
+| 한자 | **靈道** |
 | 소속 경맥 | **수소음심경** |
 | 특정혈 | **오수혈·경혈** |
 
@@ -36,6 +36,7 @@ last_reviewed: 2026-08-22
 | 효능의 전통적 설명 | 안신 — 긴장·수면 불편을 조절; 통경 — 경맥의 통증·불편을 조절 |
 | 임상 평가·활용 | 흉부 증상의 원인 평가를 먼저 하고, 호흡·움직임·식사와의 관계를 구별해 기록합니다. [평가 자료](../../acupuncture-integrated/safety.md) |
 | 주치 출처 | [영도 전통 주치·교육자료](https://www.americandragon.com/Points/HT-4.html) |
+| 태극침법에서의 활용 | [태음인 보혈](../../taegeuk-acupuncture/constitutions.md#taeeumin) |
 
 주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
 <!-- ACUPOINT_CLINICAL_END -->

@@ -83,6 +83,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 | 임상 평가·활용 | 기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다. [평가 자료](../../pillar/respiratory-rhinitis-immune.md) |
 | 주치 출처 | [태연 전통 주치·교육자료](https://www.americandragon.com/Points/LU-9.html) |
 | 사암침법에서의 역할 | [폐정격 보혈](../../acupuncture-specific/saam-12-meridians.md#lu) |
+| 태극침법에서의 활용 | [태양인 사혈](../../taegeuk-acupuncture/constitutions.md#taeyangin) · [태음인 보혈](../../taegeuk-acupuncture/constitutions.md#taeeumin) |
 
 주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
 <!-- ACUPOINT_CLINICAL_END -->

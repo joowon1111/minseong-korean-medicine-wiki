@@ -1,0 +1,118 @@
+{
+  "scope": "태극침 기본 네 체질형; 후대 원혈 확장 조합은 포함하지 않음",
+  "sources": [
+    {
+      "url": "https://doi.org/10.13048/jkm.19019",
+      "locator": "김재규(2019), 표 1, 인쇄면 91쪽"
+    },
+    {
+      "url": "https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14",
+      "locator": "사상체질병증 지침(2022), 인쇄면 128쪽"
+    },
+    {
+      "url": "https://koreascience.kr/article/JAKO201225150621736.page",
+      "locator": "임교민·백진웅(2012), 인쇄면 27쪽"
+    }
+  ],
+  "formulas": [
+    {
+      "id": "taeyangin",
+      "name": "태양인",
+      "heart": "HT8",
+      "tonify": [
+        "HT8",
+        "LR3"
+      ],
+      "sedate": [
+        "LU9"
+      ],
+      "source": "https://doi.org/10.13048/jkm.19019"
+    },
+    {
+      "id": "taeeumin",
+      "name": "태음인",
+      "heart": "HT4",
+      "tonify": [
+        "HT4",
+        "LU9"
+      ],
+      "sedate": [
+        "LR3"
+      ],
+      "source": "https://doi.org/10.13048/jkm.19019"
+    },
+    {
+      "id": "soyangin",
+      "name": "소양인",
+      "heart": "HT3",
+      "tonify": [
+        "HT3",
+        "KI3"
+      ],
+      "sedate": [
+        "SP3"
+      ],
+      "source": "https://doi.org/10.13048/jkm.19019"
+    },
+    {
+      "id": "soeumin",
+      "name": "소음인",
+      "heart": "HT7",
+      "tonify": [
+        "HT7",
+        "SP3"
+      ],
+      "sedate": [
+        "LI4"
+      ],
+      "source": "https://doi.org/10.13048/jkm.19019"
+    }
+  ],
+  "points": {
+    "HT8": {
+      "meridian": "수소음심경",
+      "meridian_path": "meridian-network/heart-meridian.md",
+      "specific": "형혈(滎)·화(火)"
+    },
+    "HT4": {
+      "meridian": "수소음심경",
+      "meridian_path": "meridian-network/heart-meridian.md",
+      "specific": "경혈(經)·금(金)"
+    },
+    "HT3": {
+      "meridian": "수소음심경",
+      "meridian_path": "meridian-network/heart-meridian.md",
+      "specific": "합혈(合)·수(水)"
+    },
+    "HT7": {
+      "meridian": "수소음심경",
+      "meridian_path": "meridian-network/heart-meridian.md",
+      "specific": "수혈(輸)·토(土)·원혈"
+    },
+    "LU9": {
+      "meridian": "수태음폐경",
+      "meridian_path": "meridian-network/lung-meridian.md",
+      "specific": "수혈(輸)·토(土)·원혈·팔회혈(맥회)"
+    },
+    "LR3": {
+      "meridian": "족궐음간경",
+      "meridian_path": "meridian-network/liver-meridian.md",
+      "specific": "수혈(輸)·토(土)·원혈"
+    },
+    "KI3": {
+      "meridian": "족소음신경",
+      "meridian_path": "meridian-network/kidney-meridian.md",
+      "specific": "수혈(輸)·토(土)·원혈"
+    },
+    "SP3": {
+      "meridian": "족태음비경",
+      "meridian_path": "meridian-network/spleen-meridian.md",
+      "specific": "수혈(輸)·토(土)·원혈"
+    },
+    "LI4": {
+      "meridian": "수양명대장경",
+      "meridian_path": "meridian-network/large-intestine-meridian.md",
+      "specific": "원혈·사총혈(면구); 오수혈에 포함되지 않음"
+    }
+  }
+}

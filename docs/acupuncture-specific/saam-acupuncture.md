@@ -37,6 +37,7 @@ tags: [사암침법, 오수혈, 정격, 승격, 보사, 배혈]
 | [361경혈](../acupoint-network/standard-atlas.md) | 혈은 어디에 있고 어떤 주치가 전해지나? |
 | [경맥·특정혈](../meridian-network/special-points/index.md) | 본경·타경과 특정혈의 관계는 무엇인가? |
 | [동씨침법](../tung-acupuncture/index.md) | 다른 원위 배혈 체계는 어떤 혈군과 위치 기준을 쓰나? |
+| [태극침법](../taegeuk-acupuncture/index.md#comparison) | 체질별 심경혈·원혈 보사는 정격·승격과 어떻게 다른가? |
 | [근육·근막·MPS](../clinical-anatomy/mps-atlas.md) | 통증을 재현하는 근육·동작과 연관통은 무엇인가? |
 | [침의 과학적 접근](../acupuncture-science/index.md) | 자극 부위·강도와 감각 입력·통증조절은 어떻게 연결되나? |
 

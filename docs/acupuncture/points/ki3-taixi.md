@@ -36,6 +36,7 @@ last_reviewed: 2026-08-22
 | 임상 평가·활용 | 허리 움직임·앉기·걷기와 통증 분포를 기록하고, 방사통은 근력·감각 평가를 함께 봅니다. [평가 자료](../../conditions/low-back-pain.md) |
 | 주치 출처 | [태계 전통 주치·교육자료](https://www.americandragon.com/Points/KI-3.html) |
 | 사암침법에서의 역할 | [신정격 사혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [신승격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) |
+| 태극침법에서의 활용 | [소양인 보혈](../../taegeuk-acupuncture/constitutions.md#soyangin) |
 
 주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
 <!-- ACUPOINT_CLINICAL_END -->
