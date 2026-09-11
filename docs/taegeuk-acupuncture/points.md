@@ -305,20 +305,27 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 
 **전통적 효능·주치**
 
-- **문헌에서 확인한 관련 부위:** 치아 · 코 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
+- **소화기능 조절·소화기 증상 완화:** 체했을 때의 소화불량, 복통, 구토, 설사·변비 등을 다루는 대표적인 전통 주치입니다. 위장 기능을 조절하는 통강장위(通降腸胃)의 활용으로 설명합니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
+- **통증 완화:** 두통·치통·인후통·어깨 통증에 활용하며, 진통과 경락의 소통을 주요 치료 방향으로 설명합니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
+- **해열·감기 초기 증상 완화:** 발열·오한·두통·인후 증상에 활용하는 전통적 해표·해열의 의미입니다. 감기 초기의 증상 조절을 위한 주치로 읽습니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
+- **기혈 순환·사관혈 배혈:** 양손의 합곡과 양발의 태충을 합한 네 혈을 사관혈(四關穴)이라 부릅니다. 기혈의 소통을 도와 통증·막힌 듯한 불편을 다루는 전통적 배혈이며, 이 설명을 전신 노폐물 배출이나 혈류 개선의 임상적 입증으로 해석하지 않습니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
+- **문헌에서 확인한 관련 부위:** 치아 · 코 관련 증상 [출처 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
 - **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
-- **사총혈의 관련 부위:** 얼굴·눈의 증상을 대표 혈로 다루는 전통적인 선혈 원리입니다. [출처 2](https://koreascience.kr/article/JAKO202432472148656.pdf)
+- **사총혈의 관련 부위:** 얼굴·눈의 증상을 대표 혈로 다루는 전통적인 선혈 원리입니다. [출처 3](https://koreascience.kr/article/JAKO202432472148656.pdf)
 
 **현대 연구에서 다루어진 분야**
 
-- **임상시험에서 사용된 분야:** 안면신경마비 · 섬유근통 · 난임 · 분만 통증·분만 유도 — 사용 빈도 분석이며 치료 성공률이 아님 [출처 3](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6)
+- **부산대 공동연구: 턱관절 통증:** 부산대 연구자 Shin BC가 참여한 2012년 예비시험은 턱관절장애 환자 42명을 근위혈·원위혈·혼합 배혈의 세 군에 배정했습니다. 합곡은 원위혈·혼합군에 포함됐고, 3주간 6회 치료 후 각 군의 통증은 기저치보다 31–36% 감소했습니다. 군 간 차이는 유의하지 않았습니다(p=0.5867). 소규모이며 가짜침·무치료 대조군이 없어 합곡 단독의 진통 효과나 우월성을 확정할 수 없습니다. [출처 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/)
+- **임상시험에서 사용된 분야:** 안면신경마비 · 섬유근통 · 난임 · 분만 통증·분만 유도 — 사용 빈도 분석이며 치료 성공률이 아님 [출처 5](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6)
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
 
-1. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
-2. **주요 경혈군의 고전 문헌연구** — 윤다은·문희영·류연희·채윤병. [주요 경혈 구성원리 고찰: 사총혈과 천성십이혈을 중심으로](https://koreascience.kr/article/JAKO202432472148656.pdf). 대한한의학회지. 2024;45(3):235–242. 경희대학교·세명대학교·한국한의학연구원; 대한한의학회. **236쪽, 본론 1·각주 2**. DOI: 10.13048/jkm.24052.
-3. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
+1. **합곡·태충·사관혈의 전통적 효능과 주치 문헌고찰** — 성일환·채우석. [합곡, 태충, 사관혈에 대한 문헌적 고찰](https://koreascience.kr/article/JAKO199325552553741.pdf). 혜화의학. 1993;2(1):133–147. 대전대학교 한의과대학 침구학교실. **133쪽 서론; 135–136쪽 합곡·사관혈 고찰; 139쪽 표 II**.
+2. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
+3. **주요 경혈군의 고전 문헌연구** — 윤다은·문희영·류연희·채윤병. [주요 경혈 구성원리 고찰: 사총혈과 천성십이혈을 중심으로](https://koreascience.kr/article/JAKO202432472148656.pdf). 대한한의학회지. 2024;45(3):235–242. 경희대학교·세명대학교·한국한의학연구원; 대한한의학회. **236쪽, 본론 1·각주 2**. DOI: 10.13048/jkm.24052.
+4. **합곡을 포함한 턱관절장애 배혈 비교 예비 무작위 임상시험** — Kang KW·Kim WY·Kim TH·Shin BC·Jung SY·Kim AR·Choi SM. [Adjacent, distal, or combination of point-selective effects of acupuncture on temporomandibular joint disorders: A randomized, single-blind, assessor-blind controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/). Integrative Medicine Research. 2012;1(1):36–40. 한국한의학연구원·하나로동국한의원·부산대학교 한의학전문대학원 임상의학부(Shin BC). **방법 2.3–2.4; 결과 3.2·표 2; 고찰의 한계**. DOI: 10.1016/j.imr.2012.09.004.
+5. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
 
 **표준 정보:** [KMCRIC 합곡 LI4](https://www.kmcric.com/database/acupoint/LI/LI4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
 
@@ -328,7 +335,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 
 </details>
 
-**임상 평가:** 안면 움직임과 감각, 치아·코 증상의 원인을 평가합니다. 분만 관련 사용은 산과 진료의 맥락에서 읽습니다. [평가 자료](../acupuncture-integrated/safety.md)
+**임상 평가:** 소화기 증상은 식사와의 관계·구토·배변 양상을, 통증은 부위·강도·기능 제한을, 감기 양상은 발열·인후 증상과 경과를 함께 평가합니다. 지속되는 심한 복통·구토나 고열은 원인 평가를 우선합니다. 임신·분만 관련 사용은 산과 진료의 맥락에서 판단합니다. [평가 자료](../acupuncture-integrated/safety.md)
 <!-- TAEGEUK_POINTS_END -->
 
 ## 같은 혈도 처방에서 역할이 달라집니다 {#roles}

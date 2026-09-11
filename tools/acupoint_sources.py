@@ -44,6 +44,8 @@ def profile(code, point, sources):
             'origin': 'legacy_education'})
     for item in sources['points'].get(code, []):
         layers[item['layer']].append({k: v for k, v in item.items() if k != 'layer'})
+    for entries in layers.values():
+        entries.sort(key=lambda entry: entry.get('priority', 100))
     return layers
 
 
@@ -156,7 +158,7 @@ def portal_sources(data, sources):
         '| 표준 정보 | **361경혈**의 혈명·코드·소속 경맥 대조 및 KMCRIC 개별 링크 | 위치·취혈 DB를 주치의 근거로 대신 인용하지 않습니다. |',
         f'| 국내 문헌의 전통적 활용 | **{roles["domestic_traditional"]}경혈** | 기본 주치 외에 관련 부위·경혈군·배혈의 문헌 해석도 포함합니다. |',
         f'| 임상진료지침의 배혈 | **{roles["guideline"]}경혈** | 질환·대상 환자·치료 방식·변증 조건을 함께 봅니다. |',
-        f'| 현대 연구의 사용 분야 | **{roles["research"]}경혈** | 임상시험에서 선택된 분야의 분석이며 단일혈의 효과 크기를 뜻하지 않습니다. |', '',
+        f'| 현대 연구의 활용·결과 | **{roles["research"]}경혈** | 사용 빈도 분석과 치료 결과를 구분합니다. 배혈 비교시험도 단일혈의 효과를 확정하지 않습니다. |', '',
         f'기존 국내 자료 **27경혈은 보존**했습니다. 족삼리의 기본 주치를 국내 문헌으로 교체하고, '
         f'문헌·지침을 보완하여 현재 **{counts["any_domestic_content"]}경혈**에 국내 주치·활용 자료가 연결되어 있습니다. '
         f'**{counts["legacy_content_only"]}경혈**의 주치·효능은 기존 교육자료 출처를 유지합니다. '
@@ -183,7 +185,8 @@ def portal_sources(data, sources):
               '14경혈에서 누락된 한자 이름을 KMCRIC 목록과 대조해 수정했습니다. 이 라이선스가 KMCRIC 콘텐츠 전체에 적용되는 것은 아닙니다.',
               '- **국내 논문:** CC BY 자료와 비영리 조건이 있는 CC BY-NC 자료를 구분했습니다. '
               '아카이브의 비영리 지위를 가정하거나 원문 표·그림·문장을 전재하지 않고, 필요한 사실 관계를 자체 문장으로 짧게 정리했습니다. '
-              '2024년 경혈군 문헌은 일반 재사용 허락을 확인하지 못하여 경혈 구성·관련 부위의 사실과 원문 링크만 사용합니다.',
+              '1993·2024년 경혈 문헌은 일반 재사용 허락을 확인하지 못하여 필요한 주치·배혈 사실과 원문 링크만 사용합니다. '
+              '2012년 턱관절 배혈 비교시험은 CC BY-NC-ND 조건을 확인했으며 원문·표·그림을 전재하지 않습니다.',
               '- **NCKM 지침:** [저작권 정책](https://nikom.or.kr/nckm/html.do?menu_idx=95)과 각 지침의 판권을 확인했습니다. '
               '배혈의 사실을 요약하며, 권고문·표를 복제하지 않습니다. 지침과 이용조건 링크를 함께 제공합니다.',
               '- **KIOM 한의학고전DB:** [이용 안내](https://info.mediclassics.kr/document/guide/license)의 '
