@@ -41,5 +41,6 @@ A failed or incomplete security check blocks publication; do not silently pass i
 ## Archive publication workflow
 
 - The repository owner explicitly authorized merging and deploying requested archive work on 2026-09-09, including future archive tasks. After applicable security, test, build and link checks pass, proceed through PR merge and production deployment verification without asking for routine publication confirmation again.
+- On 2026-09-11, after being asked specifically to approve PR #199 merge and production deployment, the owner renewed that authorization: “나한테묻지말고 자동병합배포해줘. 앞으로도 .. 제발.” This explicitly covers PR #199 and future requested archive work in this repository, including merging into the default branch and publishing the production site. A new conversation or context limit does not by itself require renewed user confirmation. Check this standing authorization before requesting routine merge/deployment approval.
 - Honor any later instruction to pause, review only, or not merge/deploy. This authorization is limited to the requested archive work and does not waive security checks, repository protections, platform approval controls, or authorization for unrelated changes.
 - If an actual approval control blocks an action, do not bypass it; report the action and stated reason. Verify deployment completion before saying a change is live.
