@@ -29,16 +29,49 @@ last_reviewed: 2026-08-22
 ## 주치·활용과 국내 자료 {#전통적-임상-연결}
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 문헌에서 확인한 관련 부위 | 복부 · 하지 · 등 관련 증상 |
-| 자료의 의미 | 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다. |
-| 임상시험에서 사용된 분야 | 월경전증후군 · 고혈압 · 편두통 — 사용 빈도 분석이며 치료 성공률이 아님 |
-| 주치·활용 출처 | Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별)<br>최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109; 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지; **105쪽, 결과 1** (임상시험의 사용 분야) |
-| 임상 평가·활용 | 증상이 나타나는 부위와 두통·월경 주기의 관계를 기록하고 원인을 평가합니다. [평가 자료](../../conditions/headache.md) |
-| 태극침법에서의 활용 | [태양인 보혈](../../taegeuk-acupuncture/constitutions.md#taeyangin) · [태음인 사혈](../../taegeuk-acupuncture/constitutions.md#taeeumin) |
+**전통적 효능·주치**
 
-이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
+- **문헌에서 확인한 관련 부위:** 복부 · 하지 · 등 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **천성십이혈의 관련 부위:** 머리·눈를 중심으로 활용한 고전 경혈군의 해석입니다. [출처 2](https://koreascience.kr/article/JAKO202432472148656.pdf)
+
+**현대 임상 활용**
+
+- **기능성소화불량 지침의 배혈:** 성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다. [출처 3](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)
+- **불면장애 지침의 주요 혈위:** 성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다. [출처 4](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
+
+진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+
+**현대 연구에서 다루어진 분야**
+
+- **임상시험에서 사용된 분야:** 월경전증후군 · 고혈압 · 편두통 — 사용 빈도 분석이며 치료 성공률이 아님 [출처 5](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6)
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+1. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
+2. **주요 경혈군의 고전 문헌연구** — 윤다은·문희영·류연희·채윤병. [주요 경혈 구성원리 고찰: 사총혈과 천성십이혈을 중심으로](https://koreascience.kr/article/JAKO202432472148656.pdf). 대한한의학회지. 2024;45(3):235–242. 경희대학교·세명대학교·한국한의학연구원; 대한한의학회. **237쪽, 본론 2**. DOI: 10.13048/jkm.24052.
+3. **임상진료지침의 일반침·전침 배혈** — 대한한방내과학회 지침 개발진. [기능성소화불량 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방내과학회·한국한의약진흥원; 국가한의임상정보포털. **142쪽(PDF 152쪽), R13 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=154&file_type=pdf#page=152).
+4. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
+5. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
+
+**표준 정보:** [KMCRIC 태충 LR3](https://www.kmcric.com/database/acupoint/LR/LR3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+증상이 나타나는 부위와 두통·월경 주기의 관계를 기록하고 원인을 평가합니다. [평가 자료](../../conditions/headache.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+
+**태극침법에서의 활용:** [태양인 보혈](../../taegeuk-acupuncture/constitutions.md#taeyangin) · [태음인 사혈](../../taegeuk-acupuncture/constitutions.md#taeeumin)
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈

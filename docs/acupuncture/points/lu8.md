@@ -31,15 +31,31 @@ last_reviewed: 2026-08-22
 **오수혈·경혈**
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 대표 주치·용도 | 기침 · 천명·천식 증상 · 손목 통증·기능 저하 |
-| 효능의 전통적 설명 | 선폐·지해 — 기침·호흡 불편을 조절 |
-| 임상 평가·활용 | 기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다. [평가 자료](../../pillar/respiratory-rhinitis-immune.md) |
-| 주치 출처 | [경거 전통 주치·교육자료](https://www.americandragon.com/Points/LU-8.html) |
-| 사암침법에서의 역할 | [비승격 사혈](../../acupuncture-specific/saam-12-meridians.md#sp) · [신정격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [간정격 사혈](../../acupuncture-specific/saam-12-meridians.md#lr) · [간승격 보혈](../../acupuncture-specific/saam-12-meridians.md#lr) |
+**전통적 효능·주치**
 
-주치와 효능은 전통적 활용을 요약한 것입니다. 실제 치료에서는 증상·기능과 배혈 전체를 평가합니다.
+- **대표 주치·용도:** 기침 · 천명·천식 증상 · 손목 통증·기능 저하 [전통 주치·교육자료](https://www.americandragon.com/Points/LU-8.html)
+- **효능·활용 방향:** 선폐·지해 — 기침·호흡 불편을 조절
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+
+**표준 정보:** [KMCRIC 경거 LU8](https://www.kmcric.com/database/acupoint/LU/LU8)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다. [평가 자료](../../pillar/respiratory-rhinitis-immune.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+**사암침법에서의 역할:** [비승격 사혈](../../acupuncture-specific/saam-12-meridians.md#sp) · [신정격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [간정격 사혈](../../acupuncture-specific/saam-12-meridians.md#lr) · [간승격 보혈](../../acupuncture-specific/saam-12-meridians.md#lr)
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

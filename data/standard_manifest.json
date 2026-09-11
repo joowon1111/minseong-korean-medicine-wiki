@@ -44,7 +44,7 @@
   {
     "code": "LU7",
     "name_ko": "열결",
-    "name_zh": "缺",
+    "name_zh": "列缺",
     "meridian_code": "LU",
     "meridian": "수태음폐경"
   },
@@ -254,7 +254,7 @@
   {
     "code": "ST6",
     "name_ko": "협거",
-    "name_zh": "頰",
+    "name_zh": "頰車",
     "meridian_code": "ST",
     "meridian": "족양명위경"
   },
@@ -345,7 +345,7 @@
   {
     "code": "ST19",
     "name_ko": "불용",
-    "name_zh": "容",
+    "name_zh": "不容",
     "meridian_code": "ST",
     "meridian": "족양명위경"
   },
@@ -359,7 +359,7 @@
   {
     "code": "ST21",
     "name_ko": "양문",
-    "name_zh": "門",
+    "name_zh": "梁門",
     "meridian_code": "ST",
     "meridian": "족양명위경"
   },
@@ -450,7 +450,7 @@
   {
     "code": "ST34",
     "name_ko": "양구",
-    "name_zh": "丘",
+    "name_zh": "梁丘",
     "meridian_code": "ST",
     "meridian": "족양명위경"
   },
@@ -576,7 +576,7 @@
   {
     "code": "SP7",
     "name_ko": "누곡",
-    "name_zh": "谷",
+    "name_zh": "漏谷",
     "meridian_code": "SP",
     "meridian": "족태음비경"
   },
@@ -1297,7 +1297,7 @@
   {
     "code": "BL61",
     "name_ko": "복삼",
-    "name_zh": "僕",
+    "name_zh": "僕參",
     "meridian_code": "BL",
     "meridian": "족태양방광경"
   },
@@ -1311,7 +1311,7 @@
   {
     "code": "BL63",
     "name_ko": "금문",
-    "name_zh": "門",
+    "name_zh": "金門",
     "meridian_code": "BL",
     "meridian": "족태양방광경"
   },
@@ -1507,7 +1507,7 @@
   {
     "code": "KI24",
     "name_ko": "영허",
-    "name_zh": "墟",
+    "name_zh": "靈墟",
     "meridian_code": "KI",
     "meridian": "족소음신경"
   },
@@ -1584,7 +1584,7 @@
   {
     "code": "PC8",
     "name_ko": "노궁",
-    "name_zh": "宮",
+    "name_zh": "勞宮",
     "meridian_code": "PC",
     "meridian": "수궐음심포경"
   },
@@ -1668,7 +1668,7 @@
   {
     "code": "TE11",
     "name_ko": "청랭연",
-    "name_zh": "淸淵",
+    "name_zh": "淸冷淵",
     "meridian_code": "TE",
     "meridian": "수소양삼초경"
   },
@@ -1857,7 +1857,7 @@
   {
     "code": "GB15",
     "name_ko": "두임읍",
-    "name_zh": "頭泣",
+    "name_zh": "頭臨泣",
     "meridian_code": "GB",
     "meridian": "족소양담경"
   },
@@ -2039,7 +2039,7 @@
   {
     "code": "GB41",
     "name_ko": "족임읍",
-    "name_zh": "足泣",
+    "name_zh": "足臨泣",
     "meridian_code": "GB",
     "meridian": "족소양담경"
   },
@@ -2228,7 +2228,7 @@
   {
     "code": "GV10",
     "name_ko": "영대",
-    "name_zh": "臺",
+    "name_zh": "靈臺",
     "meridian_code": "GV",
     "meridian": "독맥"
   },

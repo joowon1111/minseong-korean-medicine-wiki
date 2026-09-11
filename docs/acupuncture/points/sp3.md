@@ -30,16 +30,34 @@ last_reviewed: 2026-08-22
 **원혈 · 오수혈·수혈**
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 문헌상 주치 | 복부팽만 · 복통 · 소화불량 · 구토 · 변비 |
-| 문헌상 활용 방향 | 조리비위 — 소화·배변 불편을 다루는 전통적 설명; 건비화습 — 함께 쓰는 혈과 보사에 따라 달라지는 배혈의 해석 |
-| 주치·활용 출처 | 김송이·이순호·박지연·박히준. [사암도인침법에서 태백혈의 운용에 대한 연구](https://koreascience.kr/article/JAKO201402148668787.pdf#page=6). Korean Journal of Acupuncture. 2014;31(4):179–187; 경희대학교 침구경락과학연구센터·진안군 보건소; 대한경락경혈학회 학술지; **184쪽 고찰** (태백의 문헌상 주치·배혈 해석) |
-| 임상 평가·활용 | 식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다. [평가 자료](../../conditions/functional-dyspepsia.md) |
-| 사암침법에서의 역할 | [폐정격 보혈](../../acupuncture-specific/saam-12-meridians.md#lu) · [심승격 사혈](../../acupuncture-specific/saam-12-meridians.md#ht) · [신정격 사혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [신승격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [심포승격 사혈](../../acupuncture-specific/saam-12-meridians.md#pc) |
-| 태극침법에서의 활용 | [소양인 사혈](../../taegeuk-acupuncture/constitutions.md#soyangin) · [소음인 보혈](../../taegeuk-acupuncture/constitutions.md#soeumin) |
+**전통적 효능·주치**
 
-이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
+- **문헌상 주치:** 복부팽만 · 복통 · 소화불량 · 구토 · 변비 [출처 1](https://koreascience.kr/article/JAKO201402148668787.pdf#page=6)
+- **문헌상 활용 방향:** 조리비위 — 소화·배변 불편을 다루는 전통적 설명; 건비화습 — 함께 쓰는 혈과 보사에 따라 달라지는 배혈의 해석
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+1. **사암침 처방과 태백 주치의 문헌 연구** — 김송이·이순호·박지연·박히준. [사암도인침법에서 태백혈의 운용에 대한 연구](https://koreascience.kr/article/JAKO201402148668787.pdf#page=6). Korean Journal of Acupuncture. 2014;31(4):179–187. 경희대학교 침구경락과학연구센터·진안군 보건소; 대한경락경혈학회 학술지. **184쪽 고찰**. DOI: 10.14406/acu.2014.037.
+
+**표준 정보:** [KMCRIC 태백 SP3](https://www.kmcric.com/database/acupoint/SP/SP3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다. [평가 자료](../../conditions/functional-dyspepsia.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+**사암침법에서의 역할:** [폐정격 보혈](../../acupuncture-specific/saam-12-meridians.md#lu) · [심승격 사혈](../../acupuncture-specific/saam-12-meridians.md#ht) · [신정격 사혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [신승격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [심포승격 사혈](../../acupuncture-specific/saam-12-meridians.md#pc)
+
+**태극침법에서의 활용:** [소양인 사혈](../../taegeuk-acupuncture/constitutions.md#soyangin) · [소음인 보혈](../../taegeuk-acupuncture/constitutions.md#soeumin)
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자침법·안전

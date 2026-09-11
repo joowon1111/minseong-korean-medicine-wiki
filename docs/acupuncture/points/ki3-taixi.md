@@ -29,17 +29,46 @@ last_reviewed: 2026-08-22
 ## 주치·활용과 국내 자료 {#전통적-임상-연결}
 
 <!-- ACUPOINT_CLINICAL_START -->
-| 항목 | 내용 |
-|---|---|
-| 임상시험에서 사용된 분야 | 급성 발목염좌 |
-| 자료의 의미 | 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. |
-| 문헌에서 확인한 관련 부위 | 복부 · 하지 · 인후 관련 증상 — 『침구경험방』 분석 |
-| 주치·활용 출처 | Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027; 경희대학교·한국한의학연구원·가천대학교; **표 1·고찰의 한계** (임상시험의 사용 분야·효과 해석)<br>Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071; 경희대학교 연구진; 한국한의학연구원 연구비 지원; **결과 3.1·고찰** (문헌의 관련 부위; 질환별 치료 효과와 구별) |
-| 임상 평가·활용 | 통증·부종·체중부하와 발목 안정성을 평가하고, 외상 후 골절 가능성과 보행 제한을 먼저 확인합니다. [평가 자료](../../acupuncture-integrated/musculoskeletal.md) |
-| 사암침법에서의 역할 | [신정격 사혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [신승격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki) |
-| 태극침법에서의 활용 | [소양인 보혈](../../taegeuk-acupuncture/constitutions.md#soyangin) |
+**전통적 효능·주치**
 
-이 표는 국내 연구진의 원문을 바탕으로 한국어로 요약했습니다. 문헌상 활용과 임상시험의 경혈 사용 양상은 단일혈의 치료 효과와 구분합니다.
+- **문헌에서 확인한 관련 부위:** 복부 · 하지 · 인후 관련 증상 — 『침구경험방』 분석 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
+
+**현대 임상 활용**
+
+- **불면장애 지침의 변증별 추가 혈위:** 음허화왕 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다. [출처 2](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
+
+진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+
+**현대 연구에서 다루어진 분야**
+
+- **임상시험에서 사용된 분야:** 급성 발목염좌 [출처 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
+- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+
+<details markdown="1">
+<summary>출처·원문과 해석 범위</summary>
+
+1. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
+2. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
+3. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
+
+**표준 정보:** [KMCRIC 태계 KI3](https://www.kmcric.com/database/acupoint/KI/KI3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+
+**위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
+
+논문·지침의 필요한 사실 관계를 자체 문장으로 요약했습니다. [자료별 범위와 이용조건](../../portal/acupuncture.md#sources)을 함께 확인하세요.
+
+</details>
+
+**임상 평가·배혈 연결**
+
+통증·부종·체중부하와 발목 안정성을 평가하고, 외상 후 골절 가능성과 보행 제한을 먼저 확인합니다. [평가 자료](../../acupuncture-integrated/musculoskeletal.md)
+
+임상 평가는 아카이브의 평가·기록 안내입니다.
+
+**사암침법에서의 역할:** [신정격 사혈](../../acupuncture-specific/saam-12-meridians.md#ki) · [신승격 보혈](../../acupuncture-specific/saam-12-meridians.md#ki)
+
+**태극침법에서의 활용:** [소양인 보혈](../../taegeuk-acupuncture/constitutions.md#soyangin)
+
 <!-- ACUPOINT_CLINICAL_END -->
 
 ## 자주 연결하는 배혈
