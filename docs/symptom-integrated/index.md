@@ -71,6 +71,7 @@ last_reviewed: '2026-08-29'
 | 속이 울렁거려요 · 메스꺼워요 | [메스꺼움](digestive.md#메스꺼움울렁거림) | [메스꺼움·오심](../conditions/nausea.md) |
 | 설사와 복통이 반복돼요 · 긴장하면 배가 아파요 | [설사](digestive.md#잦은-설사) | [과민성장증후군](../conditions/ibs.md) |
 | 변비가 심하고 배변이 힘들어요 | [변비](digestive.md#변비) | [변비](../conditions/constipation.md) |
+| 배변 뒤 항문이 가려워요 · 자꾸 닦게 돼요 | [배변·세정 자극 점검](../conditions/pruritus-ani.md#causes) | [항문가려움증·항문소양증](../conditions/pruritus-ani.md) |
 
 ## 코·목·기침·귀
 
@@ -89,6 +90,8 @@ last_reviewed: '2026-08-29'
 |---|---|---|
 | 머리가 띵해요 · 빙빙 돌아요 | [어지럼](autonomic-stress.md#어지럼증머리가-띵해요) | [어지럼](../conditions/dizziness.md) |
 | 한쪽 얼굴이 갑자기 움직이지 않아요 | [신경 증상은 신속히 감별](../clinical-safety/headache-dizziness.md) | [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md) |
+| 온몸이 가려워요 · 발진 없이 밤에 가려워요 | [발진 없는 가려움](../answer-guides/itch-without-rash-guide.md) | [가려움증·소양증](../conditions/pruritus.md) |
+| 항문 주변이 가렵고 따가워요 | [항문 주변 원인 구분](../conditions/pruritus-ani.md#causes) | [항문가려움증·항문소양증](../conditions/pruritus-ani.md) |
 | 띠 모양 물집과 통증이 생겼어요 | [피부·통증 감별](../symptom-herbal-guide/systemic-skin/r21-rash-itch.md) | [대상포진](../conditions/shingles.md) |
 | 물집은 나았는데 화끈거리고 아파요 | [통증 증상 지도](pain.md) | [대상포진 후 신경통](../conditions/postherpetic-neuralgia.md) |
 
