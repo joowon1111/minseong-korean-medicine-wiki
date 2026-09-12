@@ -25,6 +25,8 @@ hide:
 | 진료에서 확인할 항목과 치료 경과 | [임상 평가·경과](../symptom-clinical/index.md) | 임상가용 평가와 재평가 |
 | 스트레스와 몸의 반응 | [자율신경·스트레스 지식망](../autonomic/index.md) | 증상 간 관계와 조절 기전 |
 | R-code 증상군의 변증과 한약 | [증상 기반 한약 탐색](../symptom-herbal-guide/index.md) | 증상군·변증·본초·방제 연결 |
+| 혈압·혈당·지질과 체중을 함께 관리 | [대사·순환·건강검진](../conditions/metabolic-syndrome.md#checkup-routes) | 검사별 대표 문서와 생활·추적 계획 |
+| 검사결과와 복용약을 들고 상담 | [검진 후 안내](../conditions/herbal-medicine-after-checkup.md) · [복용약 체크리스트](../conditions/herbal-consultation-prep.md#medicine-check) | 후속 진료와 한약 상담 준비 |
 
 ## 탐색 원칙
 

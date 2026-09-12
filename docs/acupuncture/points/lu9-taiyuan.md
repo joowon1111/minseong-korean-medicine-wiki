@@ -40,7 +40,7 @@ tags: [경혈, 수태음폐경, 특정혈, 침구]
 
 **특정혈 속성:** 원혈 · 오수혈 수혈(兪) · 토혈 · 팔회혈(맥회) · 폐정격 보혈
 
-이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈·오행 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
+이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈 60혈 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
 
 ## 지식망 연결
 
@@ -136,5 +136,4 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 - [경락·경맥 지식망](../../meridian-network/index.md)
 - [임상 핵심 배혈 조합](../../network/acupoint-combinations.md)
 - [현대 임상근거](../../pillar/clinical-evidence.md)
-
 

@@ -1,31 +1,19 @@
 ---
 title: 한의학 기초
-description: 음양·오행, 기혈진액, 장부와 경락의 핵심 개념을 연결합니다.
+description: 기혈진액, 장부, 경락과 변증의 핵심 개념을 임상 판단으로 연결합니다.
 tags: [한의학기초]
 status: 검토완료
 last_reviewed: 2026-08-19
 ---
 # 한의학 기초
 
-한의학의 기초이론은 각각 따로 떨어진 개념이 아니라 **음양·오행 → 기혈진액 → 장부 → 경락 → 변증 → 치료**로 이어지는 하나의 체계다.
+기혈진액·장부·경락의 개념은 증상과 진찰 정보를 정리하고 변증·치료 방향을 이해하는 데 함께 활용한다.
 
 ## 핵심 흐름
-```text
-음양·오행
-   ↓
-기·혈·진액
-   ↓
-간·심·비·폐·신
-   ↓
-경락과 경혈
-   ↓
-변증
-   ↓
-본초·방제·침구
-```
+증상·진찰 → 기혈진액·장부·경락 → 변증 → 치법·본초·방제·침구 → 치료 후 평가
 
 ## 주요 문서
-- [음양·오행](yinyang-five-phases.md)
+- [기초에서 임상 판단으로](../foundations-clinical/index.md)
 - [기·혈·진액](qi-blood-fluid.md)
 - [장부 개요](zangfu-overview.md)
 - [경락 개요](../acupuncture-integrated/points-meridians.md)
@@ -39,4 +27,3 @@ last_reviewed: 2026-08-19
 
 → [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 <!-- PATTERN_FOUNDATION_15_END -->
-

@@ -89,7 +89,7 @@ last_reviewed: 2026-08-22
 
 **특정혈 속성:** 낙혈 · 팔맥교회혈(임맥) · 사총혈(두항)
 
-이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈·오행 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
+이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈 60혈 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
 
 ## 관련 지식망
 

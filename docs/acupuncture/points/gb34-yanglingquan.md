@@ -94,7 +94,7 @@ last_reviewed: 2026-08-22
 
 **특정혈 속성:** 오수혈 합혈 · 토혈 · 담의 하합혈 · 팔회혈(근회)
 
-이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈·오행 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
+이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈 60혈 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
 
 ## 관련 지식망
 
