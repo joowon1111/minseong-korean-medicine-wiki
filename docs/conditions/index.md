@@ -74,6 +74,8 @@ last_reviewed: 2026-09-06
 - [비염](rhinitis.md)
 - [기침](cough.md)
 - [감기·급성 상기도감염](common-cold.md)
+- [가려움증·소양증 — 발진 없는 가려움과 원인별 치료](pruritus.md)
+- [항문가려움증·항문소양증](pruritus-ani.md)
 - [대상포진](shingles.md)
 - [대상포진 후 신경통](postherpetic-neuralgia.md)
 
@@ -423,7 +425,7 @@ last_reviewed: 2026-09-06
 - [소변 후 찔끔·배뇨후 요점적](post-void-dribble.md)
 - [대상포진 후 신경통](postherpetic-neuralgia.md)
 - [유산균·프로바이오틱스와 한약](probiotics-herbal.md)
-- [피부 가려움·원인 모를 소양감](pruritus.md)
+- [가려움증·소양증](pruritus.md)
 - [홍삼·인삼과 한약](red-ginseng-herbal.md)
 - [생리양이 적어요·과소월경](scanty-menstruation.md)
 - [지루성피부염·두피 가려움](seborrheic-dermatitis.md)
