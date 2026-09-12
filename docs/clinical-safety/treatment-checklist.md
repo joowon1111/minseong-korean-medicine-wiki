@@ -26,6 +26,8 @@ last_reviewed: 2026-08-19
 - 간·신장 기능 등 필요한 의학적 정보
 - 복용 후 새롭게 나타나는 이상반응
 
+환자에게는 [복용약 종류별 준비표](../conditions/herbal-consultation-prep.md#medicine-check)와 [검사결과 준비표](../conditions/herbal-consultation-prep.md#test-results)를 안내합니다. 실제 약·제품 이름과 용량을 확인하고, 기존 처방약의 임의 중단 없이 병용 여부와 추적 계획을 상담합니다.
+
 → [침구·한의치료 허브](../pillar/acupuncture-treatment.md)
 → [현대 임상근거 허브](../pillar/clinical-evidence.md)
 
@@ -35,4 +37,3 @@ last_reviewed: 2026-08-19
 - [아카이브 안내](../guide/index.md)
 - [증상·질환](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
-

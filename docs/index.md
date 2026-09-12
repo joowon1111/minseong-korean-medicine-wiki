@@ -27,6 +27,8 @@ hide:
 | 부모님 식사량과 기력이 줄었다면 무엇을 보나요? | [노인보약·생활기능 확인](conditions/elderly-tonic.md) |
 | 아이의 성장과 식욕이 걱정돼요 | [성장보약·아이 보약 상담 안내](conditions/child-parent-tonic-guide.md) |
 | 수술 뒤 한약 상담에는 무엇을 준비하나요? | [수술 후 회복·보약 안내](conditions/postoperative-recovery.md) |
+| 혈압·혈당·콜레스테롤이 높게 나왔어요 | [대사·순환·건강검진 안내](conditions/metabolic-syndrome.md#checkup-routes) |
+| 복용약이 있는데 한약 상담은 어떻게 준비하나요? | [복용약·검사 체크리스트](conditions/herbal-consultation-prep.md#medicine-check) |
 
 한약 상담과 복용을 준비할 때는 [상담 전 준비](conditions/herbal-consultation-prep.md), [복용기간과 재평가](conditions/tonic-duration.md), [복용 후 변화 기록](conditions/herbal-followup.md)을 함께 참고하세요.
 

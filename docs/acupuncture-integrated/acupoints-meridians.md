@@ -97,7 +97,7 @@ last_reviewed: '2026-08-29'
 - [경별](../meridian-network/index.md)
 - [기경팔맥](../meridian-network/extraordinary-vessels.md)
 - [배혈 조합](../acupuncture-specific/pairing-principles.md)
-- [오수혈·오행](../meridian-network/special-points/five-shu.md)
+- [오수혈 분류](../meridian-network/special-points/five-shu.md)
 
 ## 부위별 안전 확인
 

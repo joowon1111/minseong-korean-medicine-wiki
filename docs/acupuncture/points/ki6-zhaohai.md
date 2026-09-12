@@ -77,7 +77,7 @@ tags: [경혈, 침구, 임상한의학]
 
 **특정혈 속성:** 팔맥교회혈(음교맥) · LU7 열결과 짝
 
-이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈·오행 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
+이 속성은 [특정혈 통합 아틀라스](../../acupuncture-specific/special-points-atlas.md)와 [오수혈 60혈 통합표](../../acupuncture-specific/five-shu.md)에서 다른 경혈과 함께 비교할 수 있습니다.
 
 ## 지식망 연결
 
@@ -113,5 +113,4 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 - [경혈·경락](../../acupuncture-integrated/index.md)
 - [침구·한의치료 허브](../../pillar/acupuncture-treatment.md)
 - [임상 핵심 허브](../../clinical-core/index.md)
-
 

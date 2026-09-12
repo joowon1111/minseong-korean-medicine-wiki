@@ -60,4 +60,4 @@ description: 원혈·낙혈·극혈·배수혈·모혈·팔회혈·팔맥교회�
 - **GB34 양릉천**: 담경 → 합혈 → 담 하합혈 → 팔회혈 근회
 - **ST36 족삼리**: 위경 → 합혈 → 위 하합혈 → 사총혈 두복
 
-→ [오수혈·오행 통합표](five-shu.md) · [배혈 원리](pairing-principles.md)
+→ [오수혈 60혈 통합표](five-shu.md) · [배혈 원리](pairing-principles.md)
