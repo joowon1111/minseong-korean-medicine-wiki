@@ -2,7 +2,7 @@
 title: 불면증·수면장애
 description: 잠들기 어렵거나 자주 깨고 일찍 깨는 불면증을 원인 감별, 한약·침 치료, 인지행동치료, 생활관리와 경과평가까지 통합해 안내합니다.
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-15
 ---
 
 # 불면증·수면장애
@@ -83,7 +83,9 @@ last_reviewed: 2026-09-06
 
 침 치료는 과도하게 높아진 각성, 목·어깨 긴장, 두통·통증, 소화 불편 등 수면을 방해하는 증상을 함께 다루는 데 활용합니다. 신문(HT7), 내관(PC6), 삼음교(SP6), 조해(KI6), 백회(GV20), 인당, 안면 등의 혈자리를 환자 상태에 맞추어 조합하며, 필요하면 전침·뜸·이침 등을 검토합니다.
 
-2025년 만성 불면 무작위시험 메타분석에서는 침 치료가 대조군보다 불면척도와 일부 수면지표 개선에 유리한 결과를 보였습니다. 다만 연구마다 치료 횟수와 대조 방법이 달라 “몇 번이면 반드시 낫는다”고 정하기는 어렵습니다. 일반적으로 초기 2~4주 동안 일정한 간격으로 치료하며 입면시간, 야간 각성, 낮의 피로가 실제로 변하는지 확인한 뒤 빈도를 조정합니다.
+2025년 만성 불면 무작위시험 메타분석에서는 침 치료가 대조군보다 불면척도와 일부 수면지표 개선에 유리한 결과를 보였습니다. 2026년에는 만성 불면 환자 201명을 같은 경혈로 주 3회 치료하면서 4주·6주·8주 과정을 직접 비교한 무작위시험이 발표됐습니다. 6주와 8주 과정은 4주보다 불면심각도지수(ISI)가 더 개선됐고, 6주에서 8주로 연장했을 때 핵심 수면 결과의 추가 이점은 크지 않았습니다. 이는 무치료·가짜침과의 효과 비교가 아니라 **반응이 있는 치료의 적정 기간을 탐색한 연구**로 읽습니다. [불면 현대 임상근거 카드](../authority/conditions/insomnia.md)
+
+연구마다 치료 횟수와 대조 방법이 달라 “몇 번이면 반드시 낫는다”고 정하기는 어렵습니다. 일반적으로 초기 2~4주 동안 일정한 간격으로 치료하며 입면시간, 야간 각성, 낮의 피로가 실제로 변하는지 확인한 뒤 빈도를 조정합니다.
 
 ## 인지행동치료와 함께하면 좋은 이유
 
@@ -169,6 +171,7 @@ last_reviewed: 2026-09-06
 5. Acupuncture for chronic insomnia disorder: a systematic review, meta-analysis and trial sequential analysis. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40371085/)
 6. Acupuncture for insomnia: a Cochrane systematic review. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40626505/)
 7. Dose-effect relationship of acupuncture for primary insomnia: a systematic review and meta-analysis. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39995954/)
+8. Zhu F, et al. Comparative effectiveness of different acupuncture courses for chronic insomnia disorder: a randomized controlled trial. *J Affect Disord.* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42697250/) · [DOI](https://doi.org/10.1016/j.jad.2026.122469)
 
 ---
 
