@@ -3,7 +3,7 @@ title: 암수술·항암치료 후 면역력과 기력을 회복하고 싶어요
 description: 암수술과 항암·방사선치료 중 또는 이후의 피로·식욕·소화·수면·통증·말초신경 증상을 한약과 침치료로 보조 관리하는 방법을 안내합니다.
 tags: [암수술후회복, 항암후회복, 암환자면역력, 암환자한약, 항암중한약, 암관련피로, 식욕저하, 침, 약침]
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-15
 ---
 
 # 암수술·항암치료 후 면역력과 기력을 회복하고 싶어요
@@ -207,13 +207,21 @@ Kim JW et al. *Korean red ginseng for cancer-related fatigue in colorectal cance
 - 골전이가 있는 부위에는 강한 수기·충격·심부 자극을 피합니다.
 - 약침은 성분·용량·감염관리·알레르기와 간신장기능을 확인해 보수적으로 적용합니다.
 
-## 암 관련 피로와 침치료 근거
+## 암 관련 피로·인지·정서와 침치료 근거
 
 암 관련 피로는 휴식만으로 잘 풀리지 않고 활동·수면·집중력과 삶의 질을 떨어뜨립니다. 현대 임상연구에서는 침치료가 긍정적 결과를 보인 대표적인 암 지지치료 영역 중 하나로 평가됩니다. [암 관련 피로 근거 카드](../authority/conditions/cancer-related-fatigue.md)
 
 진행성 암 환자 대상 2024년 체계적 문헌고찰·메타분석은 17개 무작위시험, 1,178명에서 침치료와 삶의 질·통증 지표를 분석했습니다. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39417952/)
 
 유방암의 아로마타제억제제 관련 관절통은 대규모 무작위시험과 장기추적 연구가 있는 대표 영역입니다. [JAMA 무작위시험](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [장기추적](https://pubmed.ncbi.nlm.nih.gov/36367721/)
+
+### 유방암 생존자의 인지·정서 증상과 전침
+
+2026년 *Journal of the National Cancer Institute*에 발표된 이중눈가림 예비 무작위시험은 인지저하·피로·불면·심리적 불편 중 하나 이상을 호소한 유방암 생존자 **35명**을 대상으로 했습니다. 신경정신 증상에 맞춘 전침과 다른 경혈에 시행한 전침을 주 1회, 10주간 비교했으며 30명이 전 회차를 마쳤습니다.
+
+증상 맞춤 전침군에서는 주의력과 심리적 고통 지표가 개선됐고, 객관적 인지반응자는 42.9% 대 12.5%, 심리적 고통 반응자는 50% 대 37.5%로 보고됐습니다. 이상반응은 모두 2등급 이하였습니다. 표본이 작은 예비시험이므로 암 치료효과나 모든 암 생존자의 인지저하에 적용하지 않으며, **치료 후 인지·정서 회복을 위한 전침 프로토콜의 후속 다기관 연구 근거**로 활용합니다.
+
+[PMID 41926740](https://pubmed.ncbi.nlm.nih.gov/41926740/) · [JNCI 원문·DOI 10.1093/jnci/djag096](https://doi.org/10.1093/jnci/djag096)
 
 ## 식사와 운동은 ‘면역식품’보다 구체적으로
 
@@ -313,7 +321,7 @@ Kim JW et al. *Korean red ginseng for cancer-related fatigue in colorectal cance
   "description": "암수술과 항암치료 중·후 피로, 식욕, 소화, 수면, 통증과 말초신경 증상의 한의 보조관리를 안내합니다.",
   "url": "https://wiki.minseong.co.kr/conditions/cancer-treatment-recovery/",
   "inLanguage": "ko-KR",
-  "dateModified": "2026-09-06",
+  "dateModified": "2026-09-15",
   "about": {"@type": "MedicalCondition", "name": "암 치료 후 회복·기력저하"}
 }
 </script>

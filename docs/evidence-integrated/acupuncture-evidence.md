@@ -3,7 +3,7 @@ title: 침·전침·약침 현대 임상근거 허브
 description: 침·전침·약침 연구를 치료 유형, 경혈과 자극 프로토콜, 비교군, 질환별 임상결과, 기능 변화와 안전성으로 연결합니다.
 tags: [침, 전침, 약침, 임상근거, RCT, 메타분석, PMID, DOI]
 status: 검토완료
-last_reviewed: '2026-08-29'
+last_reviewed: '2026-09-15'
 ---
 # 침·전침·약침 현대 임상근거 허브
 
@@ -87,6 +87,8 @@ last_reviewed: '2026-08-29'
 - **프로토콜:** 국소 두면부 경혈과 원위혈, 치료 빈도, 예방치료와 병행 여부
 - **근거 연결:** [편두통](../authority/conditions/migraine.md) · [긴장형두통](../authority/conditions/tension-headache.md)
 
+2026년 전조 없는 급성 편두통 환자 80명의 sham 대조 RCT는 10분 시점의 진통 반응과 통증강도를 평가했습니다. 급성기 결과이므로 장기 예방 연구와 구분합니다. [PMID 42265857](https://pubmed.ncbi.nlm.nih.gov/42265857/)
+
 ### 불면·수면저하
 
 - **결과 지표:** PSQI·ISI, 입면시간, 중간각성, 수면효율, 낮 피로
@@ -94,6 +96,8 @@ last_reviewed: '2026-08-29'
 - **임상 연결:** 불안·우울·수면무호흡·약물과 생활리듬을 함께 확인
 
 → [불면 임상 지식망](../network/insomnia-map.md) · [불면 경혈 지식망](../network/insomnia-acupoints.md)
+
+2026년 만성 불면 환자 201명의 치료기간 비교 RCT에서는 같은 경혈을 주 3회 적용했을 때 6주와 8주 과정이 4주보다 ISI 개선에 유리했고, 6주 이후의 추가 이점은 제한적이었습니다. [PMID 42697250](https://pubmed.ncbi.nlm.nih.gov/42697250/)
 
 ### 소화기·장 증상
 
@@ -118,11 +122,13 @@ last_reviewed: '2026-08-29'
 
 ### 항암치료 후 증상·회복
 
-- **주요 영역:** 항암치료 유발 오심·구토, 말초신경병증, 방사선치료 후 구강건조
+- **주요 영역:** 항암치료 유발 오심·구토, 말초신경병증, 방사선치료 후 구강건조, 치료 후 인지·정서 증상
 - **확인 사항:** 암 치료 단계, 혈액검사, 감염·출혈 위험, 항암 일정과 협진
 - **평가 지표:** 오심 빈도·구토·감각증상·통증·수면·기능·삶의 질
 
 → [항암치료 유발 오심·구토](../authority/conditions/chemotherapy-nausea-vomiting.md) · [항암치료 유발 말초신경병증](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
+
+2026년 유방암 생존자 35명의 이중눈가림 예비 RCT는 증상 맞춤 전침을 10주간 시행해 주의력과 심리적 고통의 변화를 평가했습니다. 소규모 예비시험이므로 후속 다기관 검증이 필요한 신호로 봅니다. [암 치료 후 회복 연구 상세](../conditions/cancer-treatment-recovery.md) · [PMID 41926740](https://pubmed.ncbi.nlm.nih.gov/41926740/)
 
 ### 비뇨·골반 증상
 
