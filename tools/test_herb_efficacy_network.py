@@ -38,15 +38,15 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
             with self.subTest(term=term):
                 self.assertIn(term, self.heat)
 
-    def test_nav_keeps_standard_and_heat_comparison_next_to_herb_finder(self) -> None:
+    def test_detailed_guides_are_integrated_through_herb_finder(self) -> None:
         nav = (ROOT / "mkdocs.yml").read_text(encoding="utf-8")
-        expected = (
-            "  - 본초 찾기: herbal-integrated/herbs.md\n"
-            "  - 본초 효능·주치 표준: herbal-integrated/efficacy-indication-standard.md\n"
-            "  - 청열약 5분류 비교: herbal-integrated/heat-clearing-herbs.md\n"
-            "  - 주요 본초 비교·감별: herbal-integrated/herb-comparisons.md"
-        )
-        self.assertIn(expected, nav)
+        herb_finder = (DOCS / "herbal-integrated/herbs.md").read_text(encoding="utf-8")
+
+        self.assertIn("  - 본초 찾기: herbal-integrated/herbs.md", nav)
+        self.assertNotIn("본초 효능·주치 표준: herbal-integrated/efficacy-indication-standard.md", nav)
+        self.assertNotIn("청열약 5분류 비교: herbal-integrated/heat-clearing-herbs.md", nav)
+        self.assertIn("efficacy-indication-standard.md", herb_finder)
+        self.assertIn("heat-clearing-herbs.md", herb_finder)
 
     def test_core_heat_herbs_link_back_to_comparison(self) -> None:
         slugs = (
