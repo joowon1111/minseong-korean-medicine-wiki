@@ -68,13 +68,26 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 세 본초는 음식 적체라는 공통점이 있지만, 산사는 음식의 성격과 어혈 겸증, 맥아는 곡식 적체와 비위, 나복자는 창만·트림·담과 기의 상역을 더 비중 있게 봅니다. 식욕저하가 비기허에서 온 경우에는 소식만 계속하기보다 건비·보기의 필요성을 다시 평가합니다.
 
-## 도인 · 홍화 · 단삼
+## 강활 · 독활 · 방풍 {#wind-damp-herbs}
 
-| 본초 | 특징 | 처방에서 보기 |
+| 본초 | 중심 병위·효능 | 처방에서 보기 |
 |---|---|---|
-| 도인 | 활혈거어 + 윤장 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md), [도핵승기탕](../formulas/taohe-chengqi-tang.md) |
-| 홍화 | 활혈통경·산어지통 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md), [보양환오탕](../formulas/buyang-huanwu-tang.md) |
-| 단삼 | 활혈거어 + 청심제번 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+| [강활](../herbs/notopterygium.md) | 산한해표·거풍승습·지통; 외감과 상부·항배부 풍한습 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) |
+| [독활](../herbs/angelica-pubescens.md) | 거풍제습·지통; 하부·요슬부 풍한습과 만성 비증 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
+| [방풍](../herbs/saposhnikovia.md) | 거풍해표·승습지통; 비교적 완만하고 상·하부에 두루 배합 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) |
+
+‘강활은 위, 독활은 아래’는 상대적 경향을 기억하는 요약일 뿐 처방 기준 전체가 아닙니다. 외감 표증, 통증의 부위·이동성·냉감·무거움, 만성 허손과 기혈부족 동반 여부를 함께 봅니다. 국내 독활과 해외 문헌의 *Angelicae Pubescentis Radix*는 기원이 다를 수 있어 성분·연구 결과를 그대로 합치지 않습니다.
+
+## 도인 · 홍화 · 단삼 · 천궁 {#blood-moving-herbs}
+
+| 본초 | 특징 | 함께 구분할 점 | 처방에서 보기 |
+|---|---|---|---|
+| [도인](../herbs/peach-kernel.md) | 활혈거어 + 윤장 | 씨앗의 윤장, 열결·축혈 배합 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md), [도핵승기탕](../formulas/taohe-chengqi-tang.md) |
+| [홍화](../herbs/safflower.md) | 활혈통경·산어지통 | 월경·외상·고정통에서 도인과 짝지어 배합 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md), [보양환오탕](../formulas/buyang-huanwu-tang.md) |
+| [단삼](../herbs/salvia.md) | 활혈거어 + 량혈·청심 | 열·번조와 어혈이 겹친 병증 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+| [천궁](../herbs/chuanxiong.md) | 활혈행기·거풍지통 | 혈중의 기약으로 두통·월경통·혈허 겸증까지 배합 | [사물탕](../formulas/siwu-tang.md), [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) |
+
+활혈거어는 ‘혈액순환 개선’의 동의어가 아닙니다. 어혈의 병위·출혈 여부·월경과 임신 가능성, 항응고제·항혈소판제 병용을 먼저 확인하고 처방의 전체 용량과 조합으로 판단합니다.
 
 ## 두충 · 속단 · 우슬 · 골쇄보
 
