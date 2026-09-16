@@ -1,9 +1,9 @@
 ---
 title: 인삼(人蔘)
-description: 인삼의 대표적인 보기·보익 가치와 ginsenoside, 피로·면역·신경계 등 현대 연구를 정리합니다.
+description: 인삼의 보기·생진·안신 효능, 백삼·홍삼의 가공 차이, 사군자탕 등 주요 처방 역할과 피로 임상연구를 정리합니다.
 tags: [본초학, 보익약, 인삼]
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-16
 ---
 # 인삼(人蔘)
 
@@ -42,6 +42,12 @@ last_reviewed: 2026-09-06
 | 진세노사이드 단일 성분 | 분리한 성분의 결과와 인삼 전체의 임상결과를 구분 |
 | 인삼 함유 복합처방 | 인삼 한 가지보다 전체 구성·치료 대상·제형을 기준으로 해석 |
 
+### 가공품을 처방에서 바꾸어 써도 되나요? {#processing}
+
+백삼은 인삼을 건조한 가공품, 홍삼은 증숙 후 건조한 가공품입니다. 가공 과정에서 성분 조성과 물성이 달라지므로 **인삼·백삼·홍삼·홍삼농축액·진세노사이드 단일 성분**을 같은 시험물이나 같은 처방 약재로 기록하지 않습니다. 사군자탕 원방의 인삼을 당삼이나 홍삼으로 바꿨다면 `사군자탕 원방`이 아니라 대체·가감 사실을 명시합니다.
+
+확인 순서는 `기원종 → 약용부위 → 재배·가공 형태 → 추출법 → 1일 원생약량 또는 지표성분 → 함께 든 본초·첨가물`입니다. 건강기능식품 연구의 홍삼 복용량을 탕약 속 인삼량으로 단순 환산하지 않습니다.
+
 ## 사람 대상 연구를 목적별로 찾기 {#ginseng-clinical-guide}
 
 - **일반적 피로·만성피로:** [인삼 함유 처방의 피로 근거](../authority/formulas/ginseng-formula-fatigue.md)
@@ -53,12 +59,16 @@ last_reviewed: 2026-09-06
 복용 목적은 ‘기력’ 하나로 묶기보다 식사량·수면·활동시간·회복 속도로 구체화하면 좋습니다. 피로 원인과 복용 중인 약을 확인해 적합한 제제와 처방을 선택합니다.
 
 ## 처방 속 인삼
-- [귀비탕](../formulas/guibi-tang.md)
-- [보중익기탕](../formulas/buzhong-yiqi-tang.md)
-- [팔물탕](../formulas/bazhen-tang.md)
-- [십전대보탕](../formulas/shi-quan-da-bu-tang.md)
-- [생맥산](../formulas/shengmai-san.md)
-- [소시호탕](../formulas/xiaochaihu-tang.md)
+
+| 처방 | 인삼의 배합 역할 | 함께 확인할 본초축 |
+|---|---|---|
+| [사군자탕](../formulas/sijunzi-tang.md) | 보기의 중심 | 백출·복령·자감초의 건비·삼습·조화 |
+| [육군자탕](../formulas/liujunzi-tang.md) | 비위기허를 보함 | 법제 반하·진피의 화담·이기 |
+| [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기와 보기축 강화 | 승마·시호의 승양과 출전별 상대비 |
+| [팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 사물탕 보혈축과 결합 | 숙지황 가공·당귀·백작약·천궁, 황기·육계 |
+| [귀비탕](../formulas/guibi-tang.md) | 심비의 기를 보하는 축 | 황기·백출과 산조인·원지·용안육의 안신·양혈 |
+| [생맥산](../formulas/shengmai-san.md) | 익기의 중심 | 맥문동의 양음·오미자의 수렴 |
+| [소시호탕](../formulas/xiaochaihu-tang.md) | 화해제 안에서 정기를 받침 | 시호·황금과 법제 반하·생강의 조화 |
 
 ## 관련 문서
 - [《동의보감》의 인삼](../classics/donguibogam/tangyeok/ginseng.md)

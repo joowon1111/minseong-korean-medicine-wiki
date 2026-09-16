@@ -1,9 +1,9 @@
 ---
 title: 십전대보탕(十全大補湯)
-description: 기혈을 함께 보하고 온보하는 대표 보익 처방의 구성, 전통적 활용과 현대 임상연구를 정리합니다.
+description: 십전대보탕의 팔물탕·황기·육계 구조, 구성 본초의 수치·법제와 기혈양허 감별, 현대 임상연구를 정리합니다.
 tags: [방제학, 십전대보탕, 보익제, 피로]
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-16
 ---
 # 십전대보탕(十全大補湯)
 
@@ -17,9 +17,21 @@ last_reviewed: 2026-09-06
 
 여기에:
 - [황기](../herbs/astragalus.md)
-- 육계
+- [육계](../herbs/cinnamon-bark.md)
 
 가 더해진다.
+
+### 구성·수치·법제를 기록할 때
+
+| 구분 | 확인할 내용 |
+|---|---|
+| 사군자탕축 | 인삼 기원, 백출·복령의 정확한 약용부위, 자감초 여부 |
+| 사물탕축 | 숙지황의 가공, 당귀 기원종, 백작약·천궁의 규격 |
+| 황기 | 처방 안의 상대비와 원료 규격; ‘면역증강’ 한 단어로 역할을 대체하지 않음 |
+| 육계 | 계지와 바꾸지 않고 수피 약재인지 확인; 냉감·열감과 전체 온보 방향을 함께 판단 |
+| 제형 | 원방·현대 탕제·엑스제의 약미 비율과 1일 원생약량을 별도로 기록 |
+
+숙지황·자감초처럼 포제명이 처방 구조에 포함되는 약재는 생품과 구분합니다. 일본 Juzen-taiho-to 제제, 국내 보험엑스제와 개별 탕약은 같은 처방명을 써도 원료 기준·추출량·복용량이 다를 수 있습니다.
 
 ## 황기와 육계를 더하면 무엇이 달라지나요? {#why-astragalus-cinnamon}
 
@@ -57,6 +69,7 @@ last_reviewed: 2026-09-06
 - [황기](../herbs/astragalus.md)
 - [사물탕](siwu-tang.md)
 - [팔물탕](bazhen-tang.md)
+- [수치·법제·용량 기록 표준](../herbal-integrated/evidence.md#processing-standard)
 
 ## 참고문헌
 1. *Efficacy and safety of Sipjeondaebo-tang for cancer-related fatigue: A systematic review and meta-analysis.* 2025 (온라인 발표 2024). [PMID 39368761](https://pubmed.ncbi.nlm.nih.gov/39368761/).
