@@ -1,6 +1,6 @@
 ---
 title: 본초·방제
-description: 증상·병증·치법에서 본초와 방제를 찾고, 배합 구조·맞춤한약·보익·회복·안전성과 현대 임상근거까지 연결하는 한약 포털입니다.
+description: 본초 효능·주치와 임상 핵심 처방 100선을 중심으로 증상·병증·치법, 배합 구조, 수치·법제, 안전성과 현대 임상근거를 연결하는 한약 포털입니다.
 tags: [본초, 방제, 한약, 맞춤한약, 보약, 임상근거]
 last_reviewed: '2026-09-16'
 hide:
@@ -9,24 +9,27 @@ hide:
 
 <div class="ms-hero">
 <h1>본초·방제</h1>
-<p class="ms-sub">약재·처방 이름부터 증상, 치료 방향, 배합 원리와 안전성·현대 근거까지 한곳에서 탐색합니다.</p>
+<p class="ms-sub">본초의 효능·주치부터 임상 핵심 처방 100선, 증상별 감별, 수치·법제와 안전성·현대 근거까지 한 흐름으로 탐색합니다.</p>
 </div>
 
 <div class="ms-grid">
-<a class="ms-card" href="/herbs/"><strong>본초학</strong><span>약재의 기원·역할·배합 보기 →</span></a>
-<a class="ms-card" href="/formulas/"><strong>방제학</strong><span>처방의 구성·방의·비교 보기 →</span></a>
-<a class="ms-card" href="/herbal-integrated/"><strong>증상·치법으로 찾기</strong><span>피로·소화·수면·통증에서 시작 →</span></a>
-<a class="ms-card" href="/pillar/tonic-recovery/"><strong>보익·회복</strong><span>보약과 회복 한약의 구조 보기 →</span></a>
+<a class="ms-card" href="/herbal-integrated/general-formulary/#core-formulas-100"><strong>임상 핵심 처방 100선</strong><span>기본방·빈용 처방의 구조와 감별 보기 →</span></a>
+<a class="ms-card" href="/herbal-integrated/efficacy-indication-standard/"><strong>본초 효능·주치 표준</strong><span>효능의 뜻과 적용 범위를 정확히 읽기 →</span></a>
+<a class="ms-card" href="/herbs/"><strong>본초 찾기</strong><span>약재의 기원·효능·배합 보기 →</span></a>
+<a class="ms-card" href="/formulas/"><strong>방제 찾기</strong><span>처방의 구성·방의·비교 보기 →</span></a>
+<a class="ms-card" href="/herbal-integrated/by-symptom-treatment/"><strong>증상·치법으로 찾기</strong><span>피로·소화·수면·통증에서 시작 →</span></a>
+<a class="ms-card" href="/herbal-integrated/safety/"><strong>안전성·현대 근거</strong><span>복용 확인과 근거 해석으로 이어 보기 →</span></a>
 </div>
 
 한약은 증상 이름에 처방 하나를 바로 대응시키는 방식보다, **현재 상태를 병증과 치료 목표로 정리하고 필요한 본초를 배합한 뒤 반응을 재평가하는 과정**으로 이해하는 것이 좋습니다.
 
-`증상·질환과 치료 목표 → 위험신호·검사·복용약 확인 → 변증·치법 → 본초·방제의 배합 → 안전성·현대 임상근거 → 증상·기능·소화·수면 재평가`
+`증상·질환과 치료 목표 → 위험신호·검사·복용약 확인 → 병증·치법 → 효능·주치와 후보 처방군 → 핵심 처방·구성 본초 → 안전성·현대 임상근거 → 재평가`
 
 ## 무엇을 찾고 있나요?
 
 | 찾고 싶은 내용 | 가장 빠른 시작점 |
 |---|---|
+| 임상에서 중요한 기본방·빈용 처방과 감별 | [임상 핵심 처방 100선](../herbal-integrated/general-formulary.md#core-formulas-100) |
 | 개별 약재의 기원·성미·귀경·대표 처방 | [전체 본초 찾아보기](../herbs/index.md) |
 | 보기·보혈·화담·이수 등 효능별 본초 | [효능별 본초와 대표 처방](../herbal-integrated/herbs.md) |
 | 효능의 공통 정의·주치·병기와 현대 연구 해석 | [본초 효능·주치 표준](../herbal-integrated/efficacy-indication-standard.md) |
@@ -38,6 +41,28 @@ hide:
 | 군신좌사·처방 계보·구조 비교 | [방제 구조·비교](../formula-architecture/index.md) |
 | 사람 대상 연구·원전·출전 확인 | [본초·방제 근거·출전](../herbal-integrated/evidence.md) |
 | 복용약·임신·수술·간신장 기능이 걱정될 때 | [안전성 근거·복용 안내](../herbal-integrated/safety.md) |
+
+## 임상 핵심 처방 100선
+
+100선은 전국 처방량을 1위부터 100위까지 매긴 순위가 아닙니다. **현재 한의 임상에서의 활용도, 방제학적 기본 구조, 고전·질환·본초·현대 근거와의 연결 가치**를 함께 고려해 정밀하게 관리하는 처방군입니다.
+
+| 탐색 축 | 먼저 비교할 대표 처방 |
+|---|---|
+| 보기·기혈·회복 | 사군자탕 · 사물탕 · 팔물탕 · 십전대보탕 · 보중익기탕 |
+| 보음·보양·신허 | 육미지황환 · 팔미지황환 · 좌귀환 · 우귀환 |
+| 비위·소화·온중·변비 | 육군자탕 · 평위산 · 반하사심탕 · 이중탕 · 마자인환 |
+| 담음·기체·안신 | 이진탕 · 온담탕 · 반하백출천마탕 · 소요산 · 산조인탕 |
+| 외감·호흡·이비인후 | 계지탕 · 마황탕 · 갈근탕 · 소청룡탕 · 은교산 |
+| 청열·습열·온병·피부 | 황련해독탕 · 용담사간탕 · 백호탕 · 청영탕 · 소풍산 |
+| 수습·부종·배뇨 | 오령산 · 저령탕 · 진무탕 · 영계출감탕 · 팔정산 |
+| 여성·임신·산후 | 당귀작약산 · 온경탕 · 가미소요산 · 불수산 · 생화탕 |
+| 통증·풍습·활혈 | 독활기생탕 · 오적산 · 작약감초탕 · 혈부축어탕 · 보양환오탕 |
+| 화해·공하 | 소시호탕 · 대시호탕 · 대승기탕 |
+
+각 상세 문서에서는 처방명과 주치만 확인하는 데 그치지 않고 `대표 출전 → 원방 구성과 본초의 역할 → 수치·법제와 전탕 → 유사 처방 감별 → 안전성 → 현대 연구`의 순서로 살펴볼 수 있습니다. 같은 처방명이라도 출전·제형·구성비가 다르면 구분해서 읽습니다.
+
+[**임상 핵심 처방 100선 전체 보기**](../herbal-integrated/general-formulary.md#core-formulas-100){ .md-button .md-button--primary }
+[증상·병증에서 처방 좁히기](../herbal-integrated/by-symptom-treatment.md){ .md-button }
 
 ## 증상에서 시작하는 본초·방제 탐색
 
@@ -109,6 +134,7 @@ hide:
 ## 더 깊이 탐색하기
 
 - [본초·방제 한눈에 보기](../herbal-integrated/index.md)
+- [임상 핵심 처방 100선](../herbal-integrated/general-formulary.md#core-formulas-100)
 - [본초·방제 임상 연결 지식망](../herbal-formula-clinical/index.md)
 - [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
 - [상한론 조문·처방·구성 본초 지도](../shanghan-network/index.md#formula-map)
@@ -121,4 +147,4 @@ hide:
 
 예: `황기` · `평위산` · `수면` · `산후회복` · `담음` · `보약` · `PMID`
 
-**본초·방제 포털은 약재와 처방을 단순 목록이 아니라, 증상·치법·배합 구조·안전성·현대 근거를 함께 읽는 중심 허브입니다.**
+**본초·방제 포털은 약재와 처방을 단순 목록으로 나열하지 않고, 효능·주치에서 핵심 처방 100선과 증상별 감별, 배합 구조·안전성·현대 근거까지 이어 읽는 중심 허브입니다.**
