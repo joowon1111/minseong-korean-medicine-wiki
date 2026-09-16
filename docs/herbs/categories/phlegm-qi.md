@@ -3,11 +3,13 @@ title: 화담·이기 본초 임상 지식망
 description: 반하·진피·후박·사인을 담음·기체·소화불량·흉민과 대표 처방·배합으로 연결합니다.
 tags: [본초학, 화담, 이기, 담음, 기체]
 status: 검토완료
-last_reviewed: 2026-08-22
+last_reviewed: 2026-09-16
 ---
 # 화담·이기 본초 임상 지식망
 
 담음과 기체는 임상에서 자주 겹칩니다. **더부룩함·오심·목이물감·가래·흉민·트림·스트레스성 소화불량**의 조합을 봅니다.
+
+이기는 기의 울체·상역을 조절하고, 화담은 담의 성상과 담이 생기는 병기를 다룹니다. 화담을 거담, 이기를 장운동 촉진 한 가지로 축약하지 않습니다. → [효능·주치 표준](../../herbal-integrated/efficacy-indication-standard.md#damp-phlegm)
 
 ## 대표 본초
 
@@ -30,3 +32,7 @@ last_reviewed: 2026-08-22
 
 → [담음 vs 식적](../../diagnostics/differentials/phlegm-vs-food-stagnation.md)  
 → [간울 vs 담음성 흉민](../../diagnostics/differentials/liver-qi-vs-phlegm-chest.md)
+
+## 현대 연구에서 구분할 것
+
+가래·기침과 오심·복부팽만·위배출·현훈은 서로 다른 결과지표입니다. 반하 원약재·법제품·추출물과 이진탕·온담탕 같은 복합처방도 구분하며, 담음 전체를 객담량 하나로 측정하지 않습니다.

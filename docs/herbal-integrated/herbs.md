@@ -2,12 +2,14 @@
 title: 본초 찾기
 tags: [본초, 방제, 임상본초, 통합허브]
 status: 검토완료
-last_reviewed: 2026-09-06
-description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활혈, 이수·삼습 등 효능별로 주요 본초와 대표 처방을 연결합니다.
+last_reviewed: 2026-09-16
+description: 주요 본초 효능의 공통 정의와 주치·병기에서 대표 본초·방제·현대 연구 해석까지 연결하는 효능별 탐색 지도입니다.
 ---
 # 본초 찾기 {#herbs-index}
 
-본초를 단독 효능으로만 보지 않고 **치법 → 본초군 → 실제 처방에서의 역할**까지 연결합니다.
+본초를 단독 효능으로만 보지 않고 **공통 효능 정의 → 핵심 주치·병기 → 본초군 → 실제 처방에서의 역할**까지 연결합니다.
+
+효능 용어의 뜻부터 확인하려면 [본초 효능·주치 표준](efficacy-indication-standard.md)을 먼저 보세요. 해표·청열·사하·방향화습·이수삼습·거풍습·온리·이기·소식·화담·지해평천·활혈거어·지혈·안신·평간식풍·개규·보기·보혈·보음·보양·수삽 등 주요 분류를 같은 기준으로 정리했습니다.
 
 <span id="_10"></span>
 
@@ -59,17 +61,17 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 | [전호](../herbs/peucedanum-root.md) | 소산풍열·강기화담 | [삼소음](../formulas/renshen-suyin.md) · [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
 | [죽여](../herbs/bamboo-shavings.md)·[반하](../herbs/pinellia.md)·[지실](../herbs/citrus-immature.md) | 청담·제번과 강역·이기 | [온담탕](../formulas/wendan-tang.md) · [가미온담탕](../formulas/jiawei-wendan-tang.md) |
 
-## 청열·해독 {#_4}
+## 청열약 5분류 {#_4}
+
+청열은 하나의 ‘항염’ 범주가 아닙니다. **청열사화·청열조습·청열해독·청열량혈·청허열**은 병위와 주치가 다릅니다. 자세한 구별은 [청열약 5분류 비교](heat-clearing-herbs.md)에서 확인합니다.
 
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|
-| [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[치자](../herbs/gardenia.md) | 청열사화·조습 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [용담사간탕](../formulas/longdan-xiegan-tang.md) |
-| [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md) | 청기분열 | [백호탕](../formulas/baihu-tang.md) |
+| [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md)·[치자](../herbs/gardenia.md) | 청열사화; 기분·장부의 성한 실열 | [백호탕](../formulas/baihu-tang.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
+| [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[용담](../herbs/gentian-root.md) | 청열조습; 습과 열이 결합한 병증 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [용담사간탕](../formulas/longdan-xiegan-tang.md) |
 | [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md) | 청열해독·소산풍열 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) |
-| [목단피](../herbs/moutan.md)·[치자](../herbs/gardenia.md) | 량혈·청열과 울열 조절 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) |
-| [현삼](../herbs/scrophularia.md)·[생지황](../herbs/rehmannia-root-fresh.md)·[맥문동](../herbs/ophiopogon.md) | 청열·자음과 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
-| [지모](../herbs/anemarrhena.md)·[황백](../herbs/phellodendron.md) | 자음양혈 배합 속 허열 조절 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
-| [용담·용담초](../herbs/gentian-root.md)·[치자](../herbs/gardenia.md) | 청열조습·사간담화와 사화제번 | [용담사간탕](../formulas/longdan-xiegan-tang.md) |
+| [생지황](../herbs/rehmannia-root-fresh.md)·[목단피](../herbs/moutan.md)·[적작약](../herbs/red-peony.md) | 청열량혈; 영혈분의 열·혈열 | [청영탕](../formulas/qingying-tang.md) · [청경사물탕](../formulas/qingjing-siwu-tang.md) |
+| [청호](../herbs/qinghao.md)·[지골피](../herbs/digupi.md)·[목단피](../herbs/moutan.md)·[지모](../herbs/anemarrhena.md) | 청허열; 음허·열병 뒤 남은 열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) 등 자음·퇴허열 배합 |
 | [인진·인진호](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md) | 청리습열·퇴황과 배합 비교 | [인진의 대표 배합](../herbs/artemisia-capillaris.md) |
 | [국화·감국](../herbs/chrysanthemum.md) | 명목·풍열 관련 배합과 국내·해외 기원 구분 | [기국지황환](../formulas/qiju-dihuang-wan.md) · [상국음](../formulas/sangju-yin.md) |
 
@@ -137,6 +139,7 @@ description: 보기·보혈·보음·보양, 이기·소화, 화담, 청열, 활
 
 `본초 효능 → 어떤 병증에서 쓰이는가 → 어떤 본초와 배합되는가 → 어떤 처방을 만드는가 → 그 처방의 치법은 무엇인가`
 
+→ [본초 효능·주치 표준](efficacy-indication-standard.md)
 → [주요 본초 비교·감별](herb-comparisons.md)  
 → [방제 찾기](formulas.md)  
 → [증상·치법으로 찾기](by-symptom-treatment.md)

@@ -2,7 +2,7 @@
 title: 본초·방제
 description: 증상·병증·치법에서 본초와 방제를 찾고, 배합 구조·맞춤한약·보익·회복·안전성과 현대 임상근거까지 연결하는 한약 포털입니다.
 tags: [본초, 방제, 한약, 맞춤한약, 보약, 임상근거]
-last_reviewed: '2026-09-09'
+last_reviewed: '2026-09-16'
 hide:
   - toc
 ---
@@ -29,6 +29,8 @@ hide:
 |---|---|
 | 개별 약재의 기원·성미·귀경·대표 처방 | [전체 본초 찾아보기](../herbs/index.md) |
 | 보기·보혈·화담·이수 등 효능별 본초 | [효능별 본초와 대표 처방](../herbal-integrated/herbs.md) |
+| 효능의 공통 정의·주치·병기와 현대 연구 해석 | [본초 효능·주치 표준](../herbal-integrated/efficacy-indication-standard.md) |
+| 다섯 청열 효능과 대표 본초·방제의 차이 | [청열약 5분류 비교](../herbal-integrated/heat-clearing-herbs.md) |
 | 비슷한 약재의 차이와 배합 | [주요 본초 비교·감별](../herbal-integrated/herb-comparisons.md) |
 | 처방의 구성·방의·유사 처방 차이 | [전체 방제 찾아보기](../formulas/index.md) |
 | 피로·소화·불면·통증 같은 증상에서 찾기 | [증상·치법으로 찾기](../herbal-integrated/by-symptom-treatment.md) |

@@ -19,6 +19,10 @@ description: 황백(黃柏) — 본초의 성미·귀경·효능·병증·배합
 ## 임상적으로 읽는 법
 하초 습열·열독·음허화왕 관련 전통 병증에 배합한다. 비위허한·설사 경향에서는 병증을 신중히 구분한다.
 
+## 효능·주치에서의 위치
+
+황백은 [청열조습](../herbal-integrated/heat-clearing-herbs.md#clear-heat-dry-dampness)을 중심으로 하초 습열에서 비교하고, 자음약과 함께 배합할 때는 퇴허열의 역할을 봅니다. [용담사간탕](../formulas/longdan-xiegan-tang.md)과 [자음강화탕](../formulas/ziyin-jianghuo-tang.md)은 같은 황백을 쓰더라도 병기와 배합 목적이 다릅니다.
+
 ## 사상처방과 연결
 이 본초가 실제 어떤 사상처방에 어떤 용량으로 배합되는지는 사상처방 구성·용량 라이브러리에서 확인합니다.
 
@@ -35,4 +39,3 @@ description: 황백(黃柏) — 본초의 성미·귀경·효능·병증·배합
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
-

@@ -19,6 +19,10 @@ description: 석고(石膏) — 본초의 성미·귀경·효능·병증·배합
 ## 임상적으로 읽는 법
 내복에는 생석고를 주로 사용하며 하석고는 전통적으로 외용의 수습생기·렴창 등에 구분해 쓴다. 병이 나으면 중지하는 등 과용을 피한다.
 
+## 효능·주치에서의 위치
+
+석고는 [청열사화](../herbal-integrated/heat-clearing-herbs.md#clear-heat-drain-fire)의 대표 본초입니다. 심한 갈증·번열처럼 기분실열이 중심일 때 보며, 자음윤조를 겸하는 [지모](anemarrhena.md)와 배합한 [백호탕](../formulas/baihu-tang.md)에서 역할이 선명합니다. 현대 연구에서는 광물 원료의 규격·제형과 임상 증상지표를 확인하며, 식물 추출물의 ‘항염’ 연구와 같은 틀로 설명하지 않습니다.
+
 ## 사상처방과 연결
 이 본초가 실제 어떤 사상처방에 어떤 용량으로 배합되는지는 사상처방 구성·용량 라이브러리에서 확인합니다.
 
@@ -35,4 +39,3 @@ description: 석고(石膏) — 본초의 성미·귀경·효능·병증·배합
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
-
