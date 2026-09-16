@@ -28,6 +28,18 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
             with self.subTest(term=term):
                 self.assertIn(term, self.standard)
 
+    def test_major_groups_include_representative_formula_examples(self) -> None:
+        formulas = (
+            "마황탕", "백호탕", "대승기탕", "곽향정기산", "오령산",
+            "독활기생탕", "이진탕", "마행감석탕", "시호소간산", "보화환",
+            "혈부축어탕", "교애탕", "이중탕", "산조인탕", "천마구등음",
+            "안궁우황환", "사군자탕", "사물탕", "육미지황환", "팔미지황환",
+            "사신환",
+        )
+        for formula in formulas:
+            with self.subTest(formula=formula):
+                self.assertIn(formula, self.standard)
+
     def test_five_heat_clearing_groups_and_core_herbs_are_present(self) -> None:
         terms = (
             "청열사화", "청열조습", "청열해독", "청열량혈", "청허열",
