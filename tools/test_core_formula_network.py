@@ -4,6 +4,7 @@
 from pathlib import Path
 import re
 import unittest
+from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -43,7 +44,7 @@ class CoreFormulaNetworkTest(unittest.TestCase):
         links = re.findall(r"^\| \[([^]]+)]\(([^)]+)\)", self.core_section, re.MULTILINE)
         base = FORMULARY.parent
         for name, target in links:
-            path = (base / target.split("#", 1)[0]).resolve()
+            path = (base / unquote(target.split("#", 1)[0])).resolve()
             with self.subTest(formula=name, target=target):
                 self.assertTrue(path.is_file())
                 self.assertTrue(path.is_relative_to(DOCS.resolve()))
