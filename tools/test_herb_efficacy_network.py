@@ -48,6 +48,19 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
         self.assertIn("efficacy-indication-standard.md", herb_finder)
         self.assertIn("heat-clearing-herbs.md", herb_finder)
 
+    def test_definition_and_history_are_visible_from_top_level_hubs(self) -> None:
+        paths = (
+            "herbal-integrated/index.md",
+            "herbal-integrated/herbs.md",
+            "authority/herbs/index.md",
+        )
+        for path in paths:
+            text = (DOCS / path).read_text(encoding="utf-8")
+            with self.subTest(path=path):
+                self.assertIn("효능", text)
+                self.assertIn("주치", text)
+                self.assertIn("efficacy-indication-standard.md#history", text)
+
     def test_core_heat_herbs_link_back_to_comparison(self) -> None:
         slugs = (
             "gypsum", "anemarrhena", "coptis", "scutellaria", "phellodendron",
