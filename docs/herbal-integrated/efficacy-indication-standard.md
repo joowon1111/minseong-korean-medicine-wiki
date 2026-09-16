@@ -62,6 +62,8 @@ last_reviewed: '2026-09-16'
 - **대표 방제:** 실열적체의 정도에 따라 [대승기탕](../formulas/dachengqi-tang.md)·[소승기탕](../formulas/xiaochengqi-tang.md), 장조변비에는 [마자인환](../formulas/mazi-ren-wan.md), 축혈과 적체가 겹치면 [도핵승기탕](../formulas/taohe-chengqi-tang.md), 허증성 변비에는 [제천전](../formulas/jichuan-jian.md)을 비교합니다.
 - **현대 연구 연결:** 배변 횟수·변 형태·복통·구제약 사용·전해질·이상반응을 평가합니다. 변비 개선과 사하법의 모든 전통 적응을 동일시하지 않습니다.
 
+→ [공하·윤장 본초 비교](herb-comparisons.md#purgative-herbs)
+
 ## 습·수·담 관련 효능 {#damp-phlegm}
 
 ### 방향화습(芳香化濕)
@@ -132,6 +134,8 @@ last_reviewed: '2026-09-16'
 - **대표 방제:** 식적의 기본 구조는 [보화환](../formulas/baohe-wan.md), 비허와 식적이 겹치면 소식약을 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)·[삼령백출산](../formulas/shenling-baizhu-san.md) 같은 건비방에 가감하고, 담습·식적이 함께 보이면 [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md)의 배합을 참고합니다.
 - **연구 연결:** 식후 포만·복부팽만·위배출·소화효소·섭취량 등을 볼 수 있으나, 소식 효능을 특정 효소 활성 하나로 확정하지 않습니다.
 
+→ [산사·맥아·나복자 비교](herb-comparisons.md#digestant-herbs)
+
 ### 활혈거어(活血祛瘀)
 
 **정의:** 혈행을 촉진하고 어혈로 설명되는 고정통·종괴·월경 이상·외상 후 병증을 다루는 방향입니다.
@@ -163,6 +167,8 @@ last_reviewed: '2026-09-16'
 - **대표 방제:** 중초허한에는 [이중탕](../formulas/lizhong-tang.md)·[소건중탕](../formulas/xiaojianzhong-tang.md), 한적복통에는 [대건중탕](../formulas/dajianzhong-tang.md), 비신양허·수습에는 [진무탕](../formulas/zhenwu-tang.md), 충임허한과 어혈에는 [온경탕](../formulas/wenjing-tang.md)을 비교합니다.
 - **연구 연결:** 통증·설사·말초체온·혈압·심박과 안전성을 볼 수 있으나, 특히 부자는 기원·법제·전탕·용량이 핵심입니다.
 
+→ [건강·부자·육계·오수유 비교](herb-comparisons.md#warm-interior-herbs)
+
 ### 안신(安神)
 
 **정의:** 심신을 안정시키되, 심혈·심음 부족을 기르는 양심안신과 중진약으로 잠양하는 중진안신을 구분하는 방향입니다.
@@ -182,6 +188,8 @@ last_reviewed: '2026-09-16'
 - **대표 본초:** 식풍지경에는 [천마](../herbs/gastrodia.md)·[조구등](../herbs/uncaria.md), 평간잠양에는 석결명·진주모·모려, 소간명목에는 백질려·[국화](../herbs/chrysanthemum.md)를 봅니다. 허풍·담풍·열극생풍은 같은 ‘풍’으로 묶어 처방하지 않습니다.
 - **대표 방제:** 간양상항·내풍에는 [천마구등음](../formulas/tianma-gouteng-yin.md), 담습과 현훈에는 [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md), 간울·신경과민·근긴장이 겹친 병증에는 [억간산](../formulas/yigan-san.md)을 비교하되 각 처방의 병기 차이를 유지합니다.
 - **연구 연결:** 어지럼·두통·진전 척도·혈압·보행과 균형 등을 평가할 수 있으나 ‘간풍’을 단일 신경학적 질환으로 환원하지 않습니다.
+
+→ [천마·조구등 비교](herb-comparisons.md#extinguish-wind-herbs)
 
 ### 개규(開竅)
 
@@ -239,6 +247,8 @@ last_reviewed: '2026-09-16'
 - **대표 본초:** 폐·신을 수렴하고 생진하는 [오미자](../herbs/schisandra.md), 보익간신·삽정하는 [산수유](../herbs/cornus-fructus.md), 보비지사·고정하는 [연자육](../herbs/lotus-seed.md)·검실, 삽장지사에는 육두구·가자, 고정축뇨에는 금앵자·상표초를 구분합니다.
 - **대표 방제:** 기음과 진액을 함께 지키는 [생맥산](../formulas/shengmai-san.md), 비신양허의 오래된 설사에는 [사신환](../authority/formulas/sishen-wan.md), 비허대하에는 [완대탕](../formulas/wandai-tang.md), 심신불교와 배뇨·유정의 허증에는 [청심연자음](../formulas/qingxin-lianzi-yin.md)을 관련 병기와 함께 비교합니다.
 - **연구 연결:** 배변·요실금·발한·기침 빈도와 삶의 질을 보되, 수삽을 단순한 분비 억제로 설명하지 않습니다.
+
+→ [오미자·산수유·연자육 비교](herb-comparisons.md#astringent-herbs)
 
 ## 제한적·전문가 영역 {#special-use}
 

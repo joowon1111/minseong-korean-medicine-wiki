@@ -2,7 +2,7 @@
 title: 주요 본초 비교·감별
 tags: [본초, 비교, 감별, 임상본초]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: '2026-09-16'
 description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 주요 본초 비교·감별
@@ -24,7 +24,7 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 핵심 | 화해·소간·승양 | 소간이기·조경 |
 | 처방 | [소요산](../formulas/xiaoyao-san.md), [시호소간산](../formulas/chaihu-shugan-san.md), [보중익기탕](../formulas/buzhong-yiqi-classic.md) | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), [분심기음](../formulas/fenxin-qiyin.md) |
 
-## 후박 · 지실 · 목향 · 사인
+## 후박 · 지실 · 목향 · 사인 {#qi-regulating-herbs}
 
 | 본초 | 핵심 | 처방에서 보기 |
 |---|---|---|
@@ -32,6 +32,28 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 지실 | 파기·소적 | [대승기탕](../formulas/dachengqi-tang.md), [도담탕](../formulas/daotan-tang.md) |
 | 목향 | 행기지통·건비 | [귀비탕](../formulas/guibi-tang.md), [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
 | 사인 | 화습·행기·온중 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
+
+진피는 기체를 풀면서 조습화담하는 비중이 있고, 향부자는 간울·월경과 연결되는 기체를 중심으로 봅니다. 따라서 ‘복부가 더부룩하다’는 한 증상만으로 같은 이기약을 고르지 않고 **식적·습담·간울·허실**을 함께 구분합니다.
+
+## 대황 · 마자인 · 육종용 {#purgative-herbs}
+
+| 본초 | 통변의 방향 | 함께 보는 병증 | 처방에서 보기 |
+|---|---|---|---|
+| [대황](../herbs/rhubarb.md) | 공하·사열·축어 | 실열적체, 복만·변비, 어혈과 열결 | [대승기탕](../formulas/dachengqi-tang.md), [도핵승기탕](../formulas/taohe-chengqi-tang.md) |
+| 마자인 | 윤장통변 | 장조·진액부족, 건조하고 단단한 변 | [마자인환](../formulas/mazi-ren-wan.md) |
+| [육종용](../herbs/cistanche.md) | 온양·익정과 윤장 | 신양·정혈 부족이 겹친 허비 | [제천전](../formulas/jichuan-jian.md) |
+
+사하약은 모두 ‘변비약’이 아닙니다. 대황의 공하와 마자인의 윤장, 육종용의 보익윤장은 **허실·열결·건조·전신 허약**이라는 출발점이 다릅니다. 탈수, 원인불명 복통, 장폐색 가능성, 임신·노쇠가 있으면 자가 선택보다 의학적 평가가 우선입니다.
+
+## 산사 · 맥아 · 나복자 {#digestant-herbs}
+
+| 본초 | 상대적으로 두드러지는 방향 | 배합에서 보기 |
+|---|---|---|
+| [산사](../herbs/hawthorn.md) | 육류·유지류 식적, 행기산어 | [보화환](../formulas/baohe-wan.md) |
+| [맥아](../herbs/barley-malt.md) | 곡식 적체, 건비개위 | 소식약 배합과 수유 계획을 함께 확인 |
+| [나복자](../herbs/raphanus-seed.md) | 식적과 기체·담, 강기 | [보화환](../formulas/baohe-wan.md) |
+
+세 본초는 음식 적체라는 공통점이 있지만, 산사는 음식의 성격과 어혈 겸증, 맥아는 곡식 적체와 비위, 나복자는 창만·트림·담과 기의 상역을 더 비중 있게 봅니다. 식욕저하가 비기허에서 온 경우에는 소식만 계속하기보다 건비·보기의 필요성을 다시 평가합니다.
 
 ## 도인 · 홍화 · 단삼
 
@@ -64,13 +86,16 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 백자인 | 양심안신 + 윤장 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | 용안육 | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
 
-## 건강 · 부자 · 육계
+## 건강 · 부자 · 육계 · 오수유 {#warm-interior-herbs}
 
 | 본초 | 핵심 | 처방에서 보기 |
 |---|---|---|
 | 건강 | 온중산한·온폐화음 | [반하사심탕](../formulas/banxia-xiexin-tang.md), [오적산](../formulas/wujisan.md) |
 | 부자 | 회양구역·보화조양 | [진무탕](../formulas/zhenwu-tang.md) |
 | 육계 | 보화조양·산한통맥 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
+| [오수유](../herbs/evodia-fruit.md) | 산한지통·강역지구 | [온경탕](../formulas/wenjing-tang.md) |
+
+건강은 중초허한과 한음, 부자는 양허·망양과 수습, 육계는 명문화와 경맥의 한응, 오수유는 한응과 기역·구토를 중심으로 구분합니다. 따뜻한 성질이 있다는 공통점만으로 서로 대체하지 않으며, 특히 부자는 **법제·용량·조제 관리가 전제되는 독성 본초**입니다.
 
 ## 복령 · 의이인 · 택사 · 차전자
 
@@ -88,6 +113,25 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 행인 | 지해평천·윤장 | [마행감석탕](../formulas/maxing-ganshi-tang.md), [행소산](../formulas/xingsu-san.md) |
 | 천패모 | 청열윤폐·화담 | 조열·열담 처방군 |
 | 반하 | 조습화담·강역지구 | [이진탕](../formulas/erchen-tang.md), [반하사심탕](../formulas/banxia-xiexin-tang.md), [반하후박탕](../formulas/banxia-houpo-tang.md) |
+
+## 천마 · 조구등 {#extinguish-wind-herbs}
+
+| 본초 | 공통점과 차이 | 처방에서 보기 |
+|---|---|---|
+| [천마](../herbs/gastrodia.md) | 평간식풍에 거풍통락을 겸하며, 담습 여부가 처방 선택을 가름 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md), [천마구등음](../formulas/tianma-gouteng-yin.md) |
+| [조구등](../herbs/uncaria.md) | 청열평간·식풍정경의 비중이 있어 간양상항·열상과 연결 | [천마구등음](../formulas/tianma-gouteng-yin.md) |
+
+어지럼·두통이라는 증상만으로 평간식풍약을 고르지 않습니다. 담습·기혈허·이석증·편두통·급성 신경학적 위험신호 등 다른 층위의 원인을 먼저 구분하고, 전통 병증에서는 간양·내풍·담의 동반 양상을 읽습니다.
+
+## 오미자 · 산수유 · 연자육 {#astringent-herbs}
+
+| 본초 | 수삽의 중심 | 처방에서 보기 |
+|---|---|---|
+| [오미자](../herbs/schisandra.md) | 렴폐·생진·렴한, 심신 안정 | [생맥산](../formulas/shengmai-san.md), [사신환](../authority/formulas/sishen-wan.md) |
+| [산수유](../herbs/cornus-fructus.md) | 보익간신·삽정·고탈 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md), [팔미지황환](../formulas/bawei-dihuang-wan.md) |
+| [연자육](../herbs/lotus-seed.md) | 보비지사·익신삽정·양심안신 | [삼령백출산](../formulas/shenling-baizhu-san.md), [청심연자음](../formulas/qingxin-lianzi-yin.md) |
+
+수삽은 정상 분비를 무조건 억제하는 개념이 아닙니다. 오래된 기침·땀·설사·빈뇨·유정 가운데 **정기 허약으로 고섭이 약해진 병증**을 전제로 하며, 감염·급성 염증·실증성 정체가 남아 있을 때 섣불리 수렴하지 않습니다.
 
 ## 기본 본초의 약용 부위·가공 비교 {#common-herb-differences}
 
