@@ -45,6 +45,8 @@ plugins:
       herbal-integrated/herbs-for-pain.md: herbal-integrated/formula-for-pain.md
       herbal-integrated/herbs-for-eye-fatigue.md: conditions/eye-fatigue.md#eye-fatigue-herbal-network
       herbs/schisandra-extra.md: herbs/dioscorea.md
+      herbs/cornus-fruit.md: herbs/cornus-fructus.md
+      herbs/jujube-seed.md: herbs/ziziphus-seed.md
       formulas/samsoeum.md: formulas/renshen-suyin.md
       foundations/zangfu.md: foundations-integrated/zangfu-qi-blood-fluids.md
       donguibogam-network/tangaek.md: classics/donguibogam-tangaek.md

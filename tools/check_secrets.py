@@ -10,6 +10,7 @@ import argparse
 import re
 import subprocess
 import sys
+import tarfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -61,33 +62,37 @@ def scan_text(text: str):
 def scan(staged: bool) -> tuple[int, list]:
     files = list(indexed_files(staged))
     findings = []
-    # Read one blob at a time: writing all requests before reading can deadlock
-    # on the pipe buffer and retaining all blob contents wastes memory.
-    with subprocess.Popen(["git", "cat-file", "--batch"], cwd=ROOT,
-                          stdin=subprocess.PIPE, stdout=subprocess.PIPE,
-                          stderr=subprocess.DEVNULL) as process:
-        try:
-            for name, oid, mode in files:
-                if forbidden_file(name):
-                    findings.append((name, 1, "forbidden-credential-file"))
-                if mode == b"160000":
-                    continue  # A submodule is a commit, not a file in this index.
-                process.stdin.write(oid + b"\n")
-                process.stdin.flush()
-                header = process.stdout.readline().split()
-                if len(header) != 3 or header[1] != b"blob":
-                    raise ValueError("cannot read indexed blob")
-                size = int(header[2])
-                content = process.stdout.read(size)
-                if len(content) != size or process.stdout.read(1) != b"\n":
-                    raise ValueError("incomplete indexed blob")
+    expected = {name for name, _, mode in files if mode != b"160000"}
+    for name, _, _ in files:
+        if forbidden_file(name):
+            findings.append((name, 1, "forbidden-credential-file"))
+    if not expected:
+        return len(files), findings
+
+    # Archive the index tree once instead of starting thousands of blob reads.
+    # This remains index-accurate while avoiding Git pipe-buffer differences.
+    tree = git("write-tree").strip().decode("ascii")
+    with subprocess.Popen(["git", "archive", "--format=tar", tree], cwd=ROOT,
+                          stdout=subprocess.PIPE, stderr=subprocess.DEVNULL) as process:
+        seen = set()
+        with tarfile.open(fileobj=process.stdout, mode="r|") as archive:
+            for member in archive:
+                name = member.name
+                if name not in expected:
+                    continue
+                if member.isfile():
+                    source = archive.extractfile(member)
+                    content = source.read() if source else b""
+                elif member.issym():
+                    content = member.linkname.encode("utf-8", errors="surrogateescape")
+                else:
+                    continue
+                seen.add(name)
                 text = content.decode("utf-8", errors="replace")
                 findings.extend((name, line, rule) for line, rule in scan_text(text))
-        finally:
-            process.stdin.close()
-            process.stdout.close()
-        if process.wait() != 0:
-            raise ValueError("Git blob reader failed")
+        process.stdout.close()
+        if process.wait() != 0 or seen != expected:
+            raise ValueError("Git index archive scan was incomplete")
     return len(files), findings
 
 

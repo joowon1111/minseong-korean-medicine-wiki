@@ -27,7 +27,7 @@ last_reviewed: 2026-09-06
 |---|---|---|
 | 자음·청허열 | [생지황](../herbs/fresh-rehmannia.md)·[천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[현삼](../herbs/scrophularia.md) | 소모된 음액을 보하고 건조감·허열 단서를 조절 |
 | 양혈·활혈 | [당귀](../herbs/angelica.md)·[단삼](../herbs/salvia.md) | 혈을 기르고 심혈의 운행을 도움 |
-| 양심안신 | [산조인](../herbs/jujube-seed.md)·[백자인](../herbs/thuja-seed.md)·[원지](../herbs/polygala.md)·복신 | 잠이 얕고 잘 깨며 심계·건망이 동반되는 축을 조절 |
+| 양심안신 | [산조인](../herbs/ziziphus-seed.md)·[백자인](../herbs/thuja-seed.md)·[원지](../herbs/polygala.md)·복신 | 잠이 얕고 잘 깨며 심계·건망이 동반되는 축을 조절 |
 | 보기·조화 | 인삼·[복령](../herbs/poria.md)·[길경](../herbs/platycodon.md)·[오미자](../herbs/schisandra.md)·[감초](../herbs/licorice.md) | 기를 돕고 처방을 조화하며 수렴·상행 구조를 보완 |
 
 고전 전승에는 **주사(朱砂)**가 포함된 판본이 있으나 수은 성분 때문에 현대 임상제제에서는 제외하거나 대체하는 경우가 많습니다. 실제 제품·조제 처방의 구성표를 확인해 고전 원방과 동일하다고 가정하지 않습니다.

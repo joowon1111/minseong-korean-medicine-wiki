@@ -20,6 +20,16 @@ last_reviewed: '2026-09-16'
 | [택사](../alisma.md)·[저령](../polyporus.md) | 이수삼습 | [오령산](../../formulas/wuling-san.md) · [저령탕](../../formulas/zhuling-tang.md) |
 | [인진](../artemisia-capillaris.md)·[치자](../gardenia.md) | 청열이습과 퇴황 배합 | [인진의 대표 배합](../artemisia-capillaris.md) |
 
+## 습을 다루는 방향별 비교 {#damp-herb-groups}
+
+| 효능 방향 | 대표 본초 | 대표 연결 |
+|---|---|---|
+| 방향화습 | 곽향·[사인](../amomum.md)·[백두구](../white-cardamom.md) | 오심·완복비민과 외감 동반 여부를 나누어 [곽향정기산](../../formulas/huoxiang-zhengqi-san.md)·[향사양위탕](../../formulas/xiangsha-yangwei-tang.md) 비교 |
+| 조습건비 | [창출](../atractylodes-lancea.md)·[후박](../magnolia-bark.md) | 습체·창만의 [평위산](../../formulas/pingwei-san.md) |
+| 이수통림 | [차전자](../plantago-seed.md)·활석·목통 | 습열성 배뇨 불편의 [팔정산](../../formulas/bazheng-san.md); 탈수·신장기능과 원인질환 우선 확인 |
+| 거풍습·통락 | [강활](../notopterygium.md)·[독활](../angelica-pubescens.md)·위령선·진교 | 상하부 병위와 풍한습의 비중을 구분 |
+| 거풍습·강근골 | 상기생·[두충](../eucommia.md)·[우슬](../achyranthes.md) | 만성 비증에 간신부족·기혈허가 겹친 [독활기생탕](../../formulas/duhuo-jisheng-tang.md) |
+
 같은 습이라도 비허·한습·습열과 진액 손상 여부에 따라 배합이 달라집니다. 위 표의 본초가 연결된 모든 처방에 함께 들어가는 것은 아닙니다.
 
 ## 주요 변증

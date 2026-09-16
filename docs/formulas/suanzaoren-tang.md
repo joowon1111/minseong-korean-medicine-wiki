@@ -23,7 +23,7 @@ last_reviewed: 2026-09-06
 
 | 본초 | 처방 안의 역할 |
 |---|---|
-| [산조인](../herbs/jujube-seed.md) | 군약. 간혈을 기르고 마음을 편안하게 하며 허번불면의 중심을 잡음 |
+| [산조인](../herbs/ziziphus-seed.md) | 군약. 간혈을 기르고 마음을 편안하게 하며 허번불면의 중심을 잡음 |
 | [지모](../herbs/anemarrhena.md) | 음을 돕고 허열·번조를 맑힘 |
 | [복령](../herbs/poria.md) | 비를 돕고 습을 다스리며 안신 구조를 보완 |
 | [천궁](../herbs/chuanxiong.md) | 혈중 기의 운행을 도와 보혈약의 정체를 막고 두통·긴장 축을 조절 |
@@ -70,7 +70,7 @@ last_reviewed: 2026-09-06
 - [불면·두근거림 처방 찾기](../herbal-integrated/formula-for-insomnia.md)
 - [수면·정서 한약 현대 임상근거](../authority/formulas/sleep-emotion-herbal-evidence.md)
 - [산조인탕 임상근거 카드](../authority/formulas/suanzaoren-tang.md)
-- [산조인 본초](../herbs/jujube-seed.md)
+- [산조인 본초](../herbs/ziziphus-seed.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
 
 ## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}

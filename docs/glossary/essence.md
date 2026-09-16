@@ -15,7 +15,7 @@ last_reviewed: 2026-08-19
 
 ## 관련 문서
 - [녹용](../herbs/cervi-parvum-cornu.md)
-- [산수유](../herbs/cornus-fruit.md)
+- [산수유](../herbs/cornus-fructus.md)
 - [공진단](../formulas/gongjin-dan.md)
 - [경옥고](../formulas/gyeongok-go.md)
 

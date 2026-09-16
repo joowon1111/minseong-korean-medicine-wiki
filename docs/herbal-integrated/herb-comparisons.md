@@ -81,7 +81,7 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 택사 | 이수삼습·설열 | [오령산](../formulas/wuling-san.md), [저령탕](../formulas/zhuling-tang.md) |
 | 차전자 | 이뇨통림·삼습 | [팔정산](../formulas/bazheng-san.md) |
 
-## 행인 · 천패모 · 반하
+## 행인 · 천패모 · 반하 {#apricot-fritillaria-pinellia}
 
 | 본초 | 핵심 | 처방에서 보기 |
 |---|---|---|

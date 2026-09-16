@@ -28,7 +28,7 @@ last_reviewed: 2026-09-06
 
 | 배합축 | 본초 | 처방 안에서 읽는 역할 |
 |---|---|---|
-| 자음·정혈의 바탕 | [숙지황](../herbs/prepared-rehmannia.md)·[산약](../herbs/dioscorea.md)·[산수유](../herbs/cornus-fruit.md)·[구기자](../herbs/cornus-extra.md) | 기르고 채우는 중심 |
+| 자음·정혈의 바탕 | [숙지황](../herbs/prepared-rehmannia.md)·[산약](../herbs/dioscorea.md)·[산수유](../herbs/cornus-fructus.md)·[구기자](../herbs/cornus-extra.md) | 기르고 채우는 중심 |
 | 간신·근골과 고섭 | [우슬](../herbs/achyranthes.md)·[토사자](../herbs/cuscuta-seed.md) | 요슬과 정혈의 배합 보조 |
 | 교질 약재 | 녹각교·귀판교 | 음·정혈을 기르는 전체 배합에 함께 사용 |
 
