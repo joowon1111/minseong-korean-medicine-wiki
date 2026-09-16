@@ -51,7 +51,7 @@ last_reviewed: '2026-09-16'
 | 임상에서 살피는 방향 | 환자가 자주 표현하는 상태 | 대표 본초 | 함께 보는 처방 |
 |---|---|---|---|
 | 보기·회복 | 쉽게 지침, 식욕과 체력 저하, 회복이 더딤 | [인삼](ginseng.md) · [황기](astragalus.md) · [백출](../../herbs/atractylodes.md) · [복령](../../herbs/poria.md) | [사군자탕](../../formulas/sijunzi-tang.md) · [보중익기탕](../../formulas/buzhong-yiqi-tang.md) |
-| 보혈·순환 | 어지럼·건조·월경 관련 불편, 오래된 고정통 | [당귀](angelica.md) · [백작약](white-peony.md) · [천궁](chuanxiong.md) · [숙지황](../../herbs/rehmannia-preparata.md) | [사물탕](../../formulas/siwu-tang.md) · [계지복령환](../../formulas/guizhi-fuling-wan.md) |
+| 보혈·순환 | 어지럼·건조·월경 관련 불편, 오래된 고정통 | [당귀](angelica.md) · [백작약](white-peony.md) · [천궁](chuanxiong.md) · [숙지황](../../herbs/prepared-rehmannia.md) | [사물탕](../../formulas/siwu-tang.md) · [계지복령환](../../formulas/guizhi-fuling-wan.md) |
 | 수면·정서 | 잠들기 어려움, 자주 깸, 두근거림과 피로 | [산조인](ziziphus-seed.md) · [원지](../../herbs/polygala.md) · [백자인](../../herbs/thuja-seed.md) · [용안육](../../herbs/longan.md) | [귀비탕](../../formulas/guibi-tang.md) · [산조인탕](../../formulas/suanzaoren-tang.md) |
 | 자음·호흡 | 입과 목이 마름, 마른기침, 소모 뒤 진액 부족 | [맥문동](ophiopogon.md) · [오미자](../../herbs/schisandra.md) · [생지황](../../herbs/rehmannia-root-fresh.md) · [백합](../../herbs/lily.md) | [생맥산](../../formulas/shengmai-san.md) · [맥문동탕](../formulas/maidong-tang.md) |
 | 간신·정혈 | 허리·무릎 무력, 오래된 허약, 정기 소모 | [녹용](velvet-antler.md) · [산수유](cornus-fructus.md) · [산약](dioscorea.md) · [두충](../../herbs/eucommia.md) · [우슬](../../herbs/achyranthes.md) | [공진단](../../formulas/gongjin-dan.md) · [육미지황환](../formulas/liuwei-dihuang-wan.md) |

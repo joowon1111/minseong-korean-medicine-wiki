@@ -31,7 +31,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|
 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비; 식욕·소화와 함께 보는 기력저하 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
-| [당귀](../herbs/angelica.md)·[숙지황](../herbs/rehmannia-preparata.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈; 피로·건조·근육 당김을 함께 보는 배합 | [사물탕](../formulas/siwu-tang.md) · [쌍화탕](../formulas/ssanghwa-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
+| [당귀](../herbs/angelica.md)·[숙지황](../herbs/prepared-rehmannia.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈; 피로·건조·근육 당김을 함께 보는 배합 | [사물탕](../formulas/siwu-tang.md) · [쌍화탕](../formulas/ssanghwa-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 | [맥문동](../herbs/ophiopogon.md)·[천문동](../herbs/ophiopogon-extra.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | [두충](../herbs/eucommia.md)·[우슬](../herbs/achyranthes.md)·[속단](../herbs/dipsacus.md) | 보간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [녹용](../herbs/cervi-parvum-cornu.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md) | 보익간신·정혈·비신을 나누어 봄 | [공진단](../formulas/gongjin-dan.md) · [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
@@ -39,7 +39,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
 | [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | [연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md)·[산약](../herbs/dioscorea.md) | 보비·건비와 지사 배합 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
-| [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/rehmannia-preparata.md)·[국화](../herbs/chrysanthemum.md) | 자보간신·정혈과 명목 배합; 건조·허열의 동반 여부를 구분 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) · [기국지황환](../formulas/qiju-dihuang-wan.md) |
+| [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/prepared-rehmannia.md)·[국화](../herbs/chrysanthemum.md) | 자보간신·정혈과 명목 배합; 건조·허열의 동반 여부를 구분 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) · [기국지황환](../formulas/qiju-dihuang-wan.md) |
 | [토사자](../herbs/cuscuta-seed.md)·[구기자](../herbs/cornus-extra.md) | 보신익정·정혈과 수렴 배합 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
 | [육종용](../herbs/cistanche.md)·[당귀](../herbs/angelica.md) | 익정혈과 윤장통변 | [제천전](../formulas/jichuan-jian.md) |
 

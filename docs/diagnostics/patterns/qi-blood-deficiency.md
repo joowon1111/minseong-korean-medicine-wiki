@@ -24,7 +24,7 @@ tags: [변증, 임상한의학, 본초, 방제, 경혈]
 - [인삼](../../herbs/ginseng.md)
 - [황기](../../herbs/astragalus-tonic-guide.md)
 - [당귀](../../herbs/angelica.md)
-- [숙지황](../../herbs/rehmannia-preparata.md)
+- [숙지황](../../herbs/prepared-rehmannia.md)
 
 ## 방제
 - [팔물탕](../../formulas/bazhen-tang.md)

@@ -224,10 +224,12 @@ last_reviewed: '2026-09-16'
 
 **정의:** 혈허로 설명되는 영양·자윤 부족을 보하는 방향입니다.
 
-- **대표 본초:** 보혈·활혈에는 [당귀](../herbs/angelica.md), 보혈자음·익정에는 [숙지황](../herbs/rehmannia-preparata.md), 양혈렴음·완급에는 [백작약](../herbs/white-peony.md), 심비를 보하며 안신하는 데는 [용안육](../herbs/longan.md), 지혈·자윤을 겸하는 데는 아교를 구분합니다.
+- **대표 본초:** 보혈·활혈에는 [당귀](../herbs/angelica.md), 보혈자음·익정에는 [숙지황](../herbs/prepared-rehmannia.md), 양혈렴음·완급에는 [백작약](../herbs/white-peony.md), 심비를 보하며 안신하는 데는 [용안육](../herbs/longan.md), 지혈·자윤을 겸하는 데는 아교를 구분합니다.
 - **대표 방제:** 혈허의 기본 구조인 [사물탕](../formulas/siwu-tang.md), 기를 보해 혈생을 돕는 [당귀보혈탕](../formulas/danggui-buxue-tang.md), 기혈양허에는 [팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md), 심비양허에는 [귀비탕](../formulas/guibi-tang.md)을 비교합니다.
 - **차이:** 숙지황은 보혈자음·익정, 당귀는 보혈과 활혈, 백작약은 양혈렴음·완급, 용안육은 심비와 안신의 비중이 다릅니다.
 - **연구 연결:** 피로·어지럼·월경·삶의 질과 혈색소·철지표 등이 연구될 수 있지만, 혈허와 빈혈은 겹칠 수 있어도 동일한 진단은 아닙니다.
+
+→ [당귀·숙지황·백작약·용안육의 차이와 처방 역할](../herbs/categories/blood.md)
 
 ### 보음(補陰)
 
@@ -246,6 +248,8 @@ last_reviewed: '2026-09-16'
 - **대표 본초:** 정혈과 근골을 함께 보하는 [녹용](../herbs/cervi-parvum-cornu.md), 간신·근골에는 [두충](../herbs/eucommia.md), 보신익정·고삽에는 [토사자](../herbs/cuscuta-seed.md), 온양과 윤장에는 [육종용](../herbs/cistanche.md), 명문화와 한증에는 [육계](../herbs/cinnamon-bark.md), 신양허·수습에는 법제 [부자](../herbs/aconite.md)를 구분합니다.
 - **대표 방제:** 신양허의 기본 구조는 [팔미지황환](../formulas/bawei-dihuang-wan.md), 정혈과 양허가 깊으면 [우귀환](../formulas/yougui-wan.md), 정기·기혈의 허손에는 [공진단](../formulas/gongjin-dan.md), 정혈·생식 관련 보익 배합은 [오자연종환](../authority/formulas/wuzi-yanzong-wan.md)에서 비교합니다.
 - **연구 연결:** 냉감·근력·골대사·배뇨·성기능·피로 지표 등이 연구될 수 있으나, 호르몬 증가와 보양을 동일시하지 않습니다.
+
+→ [녹용·두충·토사자·육종용 비교](../herbs/categories/tonics.md#yang-tonic-herbs) · [두충·속단·우슬·골쇄보 비교](herb-comparisons.md#kidney-bone-herbs)
 
 ### 수삽(收澀)
 

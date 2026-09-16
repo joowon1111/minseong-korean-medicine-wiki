@@ -38,4 +38,4 @@ tags: [생지황, 지황, 경옥고, 자음, 보약, 본초]
 - [경옥고](../formulas/gyeongok-go.md)
 - [경옥고 지식망](../network/gyeongok-go-map.md)
 - [경옥고 구성 본초](../network/gyeongok-composition.md)
-- [숙지황](rehmannia-preparata.md)
+- [숙지황](prepared-rehmannia.md)
