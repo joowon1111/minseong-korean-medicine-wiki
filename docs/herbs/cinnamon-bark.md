@@ -3,7 +3,7 @@ title: 육계(肉桂)
 description: 육계의 온보신양·온경통맥 전통과 Cinnamomum cassia의 현대 약리 연구, 십전대보탕에서의 역할을 정리합니다.
 tags: [본초학, 육계, 온리약, 십전대보탕]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-16
 ---
 # 육계(肉桂)
 
@@ -12,6 +12,19 @@ last_reviewed: 2026-08-19
 
 ## 개요
 육계는 몸의 양기를 덥히고 경맥을 통하게 하는 대표적인 온리·온보 본초다. [십전대보탕](../formulas/shi-quan-da-bu-tang.md)에서는 황기와 함께 팔물탕의 기혈쌍보 구조에 온보의 방향을 더한다.
+
+## 기원·약용부위·수치·전탕 기록 {#processing}
+
+육계는 계피나무 계열의 **수피**를 사용합니다. 어린 가지인 [계지](cinnamon-twig.md)와 같은 약재로 바꾸지 않으며, 식품용 cinnamon 분말·정유·농축추출물도 탕약의 육계와 구분합니다.
+
+| 확인점 | 기록 원칙 |
+|---|---|
+| 기원·부위 | 학명과 수피 사용 여부, 절편·분말 형태 확인 |
+| 향기성분 | 보관 상태와 휘발성 향의 소실 여부 확인 |
+| 전탕 | 후하·분말 충복 등 실제 조제법을 기록하고 일률적으로 가정하지 않음 |
+| 연구 제제 | cassia·다른 cinnamon 종, 추출물·보충제와 탕약을 분리 해석 |
+
+[십전대보탕](../formulas/shi-quan-da-bu-tang.md)의 소량 온보, [팔미지황환](../formulas/bawei-dihuang-wan.md)의 온양, [우귀환](../formulas/yougui-wan.md)의 보양·정혈 구조는 배합과 제형이 서로 다릅니다.
 
 ## 전통적 효능
 - **보화조양(補火助陽)**
@@ -40,4 +53,3 @@ cinnamaldehyde, cinnamic acid 및 다양한 volatile oils·polyphenols 등이 �
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
-

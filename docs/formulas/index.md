@@ -17,7 +17,7 @@ last_reviewed: '2026-09-05'
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)
-- [임상 핵심 처방 50선](../herbal-integrated/general-formulary.md#core-formulas-50) — 빈용·기본 처방을 병증·수치·법제 확인점과 함께 탐색
+- [임상 핵심 처방 100선](../herbal-integrated/general-formulary.md#core-formulas-100) — 주요 처방을 병증·수치·법제 확인점과 함께 탐색
 - [수치·법제·용량 기록 표준](../herbal-integrated/evidence.md#processing-standard) — 생품·포제품, 고전 단위와 현대 사용량, 전탕 순서를 구분
 - [상한론 조문·처방·구성 본초 지도](../shanghan-network/index.md#formula-map) · [금궤요략 임상·처방 지도](../jingui-network/index.md#integrated-map)
 - [동의보감 5편 임상 색인](../donguibogam-network/index.md#clinical-index) · [원전에서 현대 근거까지](../network/classic-to-evidence-map.md#clinical-examples)
