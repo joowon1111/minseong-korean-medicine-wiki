@@ -10,6 +10,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 FORMULARY = DOCS / "herbal-integrated/general-formulary.md"
+PORTAL = DOCS / "portal/herbs-formulas.md"
 
 
 class CoreFormulaNetworkTest(unittest.TestCase):
@@ -39,6 +40,18 @@ class CoreFormulaNetworkTest(unittest.TestCase):
     def test_legacy_fifty_anchor_is_preserved(self) -> None:
         self.assertIn('id="core-formulas-50"', self.formulary)
         self.assertIn('{#core-formulas-100}', self.formulary)
+
+    def test_herbs_formulas_portal_surfaces_the_core_hundred(self) -> None:
+        portal = PORTAL.read_text(encoding="utf-8")
+        self.assertIn("임상 핵심 처방 100선 전체 보기", portal)
+        self.assertGreaterEqual(portal.count("general-formulary.md#core-formulas-100"), 3)
+        for axis in (
+            "보기·기혈·회복", "보음·보양·신허", "비위·소화·온중·변비",
+            "담음·기체·안신", "외감·호흡·이비인후", "청열·습열·온병·피부",
+            "수습·부종·배뇨", "여성·임신·산후", "통증·풍습·활혈", "화해·공하",
+        ):
+            with self.subTest(axis=axis):
+                self.assertIn(axis, portal)
 
     def test_all_core_formula_targets_exist(self) -> None:
         links = re.findall(r"^\| \[([^]]+)]\(([^)]+)\)", self.core_section, re.MULTILINE)
