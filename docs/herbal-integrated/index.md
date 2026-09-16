@@ -51,7 +51,8 @@ last_reviewed: 2026-09-16
 | 피로·소화·불면 같은 증상에서 찾기 | [증상·치법으로 찾기](by-symptom-treatment.md) |
 | 같은 증상인데 처방이 다른 이유 | [맞춤 처방 선택 원리](formula-selection-guide.md) |
 | 처방군의 계보·파생 관계 | [처방 구조·비교](formula-structure.md) |
-| 일반 방제 전체 비교 | [일반 방제 임상 지도](general-formulary.md) |
+| 빈용 기본방과 수치·법제 확인 | [임상 핵심 처방 50선](general-formulary.md#core-formulas-50) |
+| 증상·병증별 일반 방제 전체 비교 | [일반 방제 임상 지도](general-formulary.md) |
 | 녹용·공진단·경옥고와 회복 한약 | [보익·회복 핵심](tonic-recovery.md) |
 | 간·신장 안전성 연구와 양약 병용·복용 확인 | [안전성 근거·복용 안내](safety.md#safety-evidence-guide) |
 | 면역력·피로·회복의 처방 | [면역·회복 안내](../immune-allergy/index.md) |
