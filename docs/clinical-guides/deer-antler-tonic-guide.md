@@ -58,7 +58,7 @@ tags: [녹용보약, 녹용, 보약, 보익, 기력회복, 맞춤한약]
 - [인삼](../herbs/ginseng.md) — 보기·원기
 - [황기](../herbs/astragalus.md) — 보기·고표
 - [당귀](../herbs/angelica.md) — 보혈·활혈
-- [숙지황](../herbs/rehmannia-preparata.md) — 보혈·자음
+- [숙지황](../herbs/prepared-rehmannia.md) — 보혈·자음
 - [백출](../herbs/atractylodes.md) — 건비·보기
 - [복령](../herbs/poria.md) — 건비·이수
 - [감초](../herbs/licorice.md) — 조화·보기 보조

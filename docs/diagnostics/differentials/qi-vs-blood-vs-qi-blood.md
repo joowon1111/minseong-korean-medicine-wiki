@@ -40,7 +40,7 @@ tags: [변증감별, 기허, 혈허, 기혈양허, 임상한의학]
 
 ## 본초 비교
 - 기허: [인삼](../../herbs/ginseng.md) · [황기](../../herbs/astragalus-tonic-guide.md) · [백출](../../herbs/atractylodes.md)
-- 혈허: [당귀](../../herbs/angelica.md) · [백작약](../../herbs/white-peony.md) · [숙지황](../../herbs/rehmannia-preparata.md)
+- 혈허: [당귀](../../herbs/angelica.md) · [백작약](../../herbs/white-peony.md) · [숙지황](../../herbs/prepared-rehmannia.md)
 - 기혈양허: 인삼·황기 + 당귀·숙지황의 복합 구조
 
 ## 방제 비교

@@ -28,7 +28,7 @@ last_reviewed: 2026-08-30
 
 산약은 강하게 밀어 올리는 보약이라기보다 비·폐·신을 부드럽게 이어 주는 **평보약**입니다. 육미지황계 처방에서는 숙지황·산수유와 함께 보익축을 이루고, 택사·목단피·복령의 조절축과 균형을 이룹니다.
 
-- [숙지황](rehmannia-preparata.md) — 자음보혈·익정
+- [숙지황](prepared-rehmannia.md) — 자음보혈·익정
 - [산수유](cornus-fructus.md) — 보익간신·수렴고삽
 - [택사](alisma.md) — 이수삼습·설열
 - [목단피](moutan.md) — 청열량혈·활혈·퇴허열
@@ -44,4 +44,3 @@ last_reviewed: 2026-08-30
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [보익약 임상 지식망](categories/tonics.md)
 - [본초·방제 안전·복용 주의](../herbal-integrated/safety.md)
-

@@ -22,7 +22,7 @@ last_reviewed: 2026-09-04
 
 | 배합축 | 본초 | 역할 |
 |---|---|---|
-| 정혈을 보함 | [숙지황](../herbs/rehmannia-preparata.md) | 신음·정혈을 자보하는 중심축 |
+| 정혈을 보함 | [숙지황](../herbs/prepared-rehmannia.md) | 신음·정혈을 자보하는 중심축 |
 | 간신을 보하고 수렴 | [산수유](../herbs/cornus-fructus.md) | 간신을 보하며 정기의 과도한 소모를 거둠 |
 | 비신을 함께 지지 | [산약](../herbs/dioscorea.md) | 비·폐·신을 평보하고 소화의 바탕을 보완 |
 | 습과 탁을 조절 | [택사](../herbs/alisma.md)·[복령](../herbs/poria.md) | 보익약의 점체함과 수습 정체를 조절 |

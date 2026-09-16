@@ -59,7 +59,7 @@ last_reviewed: '2026-09-05'
 ### 보혈·양혈·활혈
 
 - [당귀](angelica.md) — 보혈하면서 혈행을 돕는 대표 본초
-- [숙지황](rehmannia-preparata.md) — 보혈자음·익정
+- [숙지황](prepared-rehmannia.md) — 보혈자음·익정
 - [백작약](white-peony.md) — 양혈렴음·유간지통
 - [천궁](chuanxiong.md) — 활혈행기·거풍지통
 
@@ -74,7 +74,7 @@ last_reviewed: '2026-09-05'
 - [산수유](cornus-fructus.md) — 보익간신·수렴고삽
 - [산약](dioscorea.md) — 비·폐·신을 함께 보하는 평보 본초
 - [녹용](cervi-parvum-cornu.md) — 보신양·익정혈
-- [숙지황](rehmannia-preparata.md) — 자음보혈·익정
+- [숙지황](prepared-rehmannia.md) — 자음보혈·익정
 
 산수유와 산약은 육미지황계 처방에서 숙지황의 보익을 받쳐 주면서, **간신과 비신을 보하고 정기·진액이 지나치게 소모되는 것을 조절하는 축**으로 이해할 수 있습니다.
 
@@ -85,7 +85,7 @@ last_reviewed: '2026-09-05'
 ### 자음·생진·허열 조절
 
 - [생지황](rehmannia-root-fresh.md) — 청열량혈·양음생진
-- [숙지황](rehmannia-preparata.md) — 보혈자음·익정
+- [숙지황](prepared-rehmannia.md) — 보혈자음·익정
 - [목단피](moutan.md) — 청열량혈·활혈거어·퇴허열
 - [산수유](cornus-fructus.md) — 보익과 수렴을 함께 담당
 

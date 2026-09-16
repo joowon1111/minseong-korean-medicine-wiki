@@ -23,7 +23,7 @@ tags: [변증, 임상한의학, 본초, 방제, 경혈]
 ## 본초
 - [당귀](../../herbs/angelica.md)
 - [백작약](../../herbs/white-peony.md)
-- [숙지황](../../herbs/rehmannia-preparata.md)
+- [숙지황](../../herbs/prepared-rehmannia.md)
 - [천궁](/herbs/chuanxiong/)
 
 ## 방제
