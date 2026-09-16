@@ -3,7 +3,7 @@ title: 오미자(五味子)
 description: 오미자의 수렴·생진·안신 전통과 lignans·polysaccharides 현대 연구, 생맥산에서의 역할을 정리합니다.
 tags: [본초학, 오미자, 수삽약, 생맥산]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: '2026-09-16'
 ---
 # 오미자(五味子)
 
@@ -30,10 +30,18 @@ Schisandra lignans는 항산화·항염·신경보호·간보호·대사 관련 
 
 → [생맥산](../formulas/shengmai-san.md)
 
+## 같은 수삽약과 구분
+
+[산수유](cornus-fructus.md)는 보익간신·삽정·고탈, [연자육](lotus-seed.md)은 보비지사·익신삽정·양심안신을 중심으로 봅니다. 오미자는 폐·신을 수렴하면서 생진·렴한하고 심신을 안정시키는 비중이 있습니다. 급성 감염이나 실증성 담·열이 남은 기침·설사에 수렴을 먼저 적용하지 않습니다.
+
+→ [오미자·산수유·연자육 비교](../herbal-integrated/herb-comparisons.md#astringent-herbs)
+
 ## 참고문헌
 1. Ehambarampillai D, et al. *A comprehensive review of Schisandra chinensis lignans.* 2025. PMCID **PMC11984061**.
 2. Panossian A, Wikman G. *Pharmacology of Schisandra chinensis Bail.: an overview of Russian research and uses in medicine.* 2008. PMID **18515024**.
 3. Luan F, et al. *Extraction, purification, structural features, bioactivities and applications of polysaccharides from Schisandra chinensis.* 2024. PMID **38336330**.
+
+개별 lignan·polysaccharide의 전임상 결과, 오미자 추출물, 오미자가 든 복합처방의 사람 대상 결과는 서로 다른 근거 층입니다. 간효소·염증지표 같은 변화만으로 수삽·생진·안신 전체가 입증됐다고 해석하지 않습니다.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
@@ -41,4 +49,3 @@ Schisandra lignans는 항산화·항염·신경보호·간보호·대사 관련 
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
-
