@@ -21,9 +21,9 @@ tags: [본초, 약대, 배합, 방제]
 간신·근골과 하체를 함께 봅니다.
 [두충](../herbs/eucommia.md) · [우슬](../herbs/achyranthes.md) → [독활기생탕](../formulas/duhuo-jisheng-tang.md)
 
-## 산조인 + 원지
+## 산조인 + 원지 {#ziziphus-polygala-pair}
 안신을 중심으로 수면·심계·건망을 연결합니다.
-[산조인](../herbs/jujube-seed.md) · [원지](../herbs/polygala.md) → [귀비탕](../formulas/guibi-tang.md) · [천왕보심단](../formulas/tianwang-buxin-dan.md)
+[산조인](../herbs/ziziphus-seed.md) · [원지](../herbs/polygala.md) → [귀비탕](../formulas/guibi-tang.md) · [천왕보심단](../formulas/tianwang-buxin-dan.md)
 
 ## 맥문동 + 오미자
 양음생진과 수렴을 함께 봅니다.

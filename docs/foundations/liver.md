@@ -19,7 +19,7 @@ last_reviewed: 2026-08-19
 ## 관련 문서
 - [당귀](../herbs/angelica.md)
 - [천궁](../herbs/chuanxiong.md)
-- [산수유](../herbs/cornus-fruit.md)
+- [산수유](../herbs/cornus-fructus.md)
 - [어혈](../diagnostics/blood-stasis.md)
 - [공진단](../formulas/gongjin-dan.md)
 

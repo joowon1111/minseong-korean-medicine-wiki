@@ -47,7 +47,7 @@ last_reviewed: 2026-09-06
 | 보기·비위 | [인삼](../herbs/ginseng.md) · [황기](../herbs/astragalus.md) · [백출](../herbs/atractylodes.md) · [복령](../herbs/poria.md) | 쉽게 지침, 식욕저하, 식후 처짐, 말하거나 움직인 뒤 탈진 |
 | 보혈·기혈회복 | [당귀](../herbs/angelica.md) · [숙지황](../herbs/prepared-rehmannia.md) · [백작약](../herbs/white-peony.md) | 안색저하, 어지럼, 두근거림, 건조, 출혈·산후·병후 쇠약 |
 | 기음·진액 | [맥문동](../herbs/ophiopogon.md) · [오미자](../herbs/schisandra.md) · [생지황](../herbs/rehmannia-root-fresh.md) | 구갈·건조·도한, 더위나 장기 질환 뒤 소모, 쉽게 마르는 피로 |
-| 간신·정혈 | [녹용](../herbs/cervi-parvum-cornu.md) · [산수유](../herbs/cornus-fruit.md) · [산약](../herbs/dioscorea.md) | 허리·무릎 무력, 성장·노년기·장기 회복, 정혈부족 양상 |
+| 간신·정혈 | [녹용](../herbs/cervi-parvum-cornu.md) · [산수유](../herbs/cornus-fructus.md) · [산약](../herbs/dioscorea.md) | 허리·무릎 무력, 성장·노년기·장기 회복, 정혈부족 양상 |
 | 근골 회복 | [두충](../herbs/eucommia.md) · [우슬](../herbs/achyranthes.md) | 골절·수술·장기 안정 뒤 근력과 보행 회복, 요슬산연 |
 
 한 약재의 효능만으로 처방을 결정하지 않습니다. 예를 들어 피로가 있어도 식욕저하가 중심이면 비위 회복을, 어지럼·심계가 두드러지면 기혈을, 냉감·하체무력이 뚜렷하면 양기와 간신을 함께 살핍니다.

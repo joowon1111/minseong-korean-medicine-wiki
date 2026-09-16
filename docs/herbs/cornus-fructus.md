@@ -32,6 +32,14 @@ tags: [산수유, 산수유육, 공진단, 보익, 본초]
 ## 현대 연구를 볼 때
 산수유 및 Cornus officinalis 관련 연구에서는 iridoid glycosides 등 성분을 중심으로 항산화·대사·염증 관련 기전이 폭넓게 탐색되어 왔습니다. 성분·추출물 연구와 실제 복합처방 임상효과는 구분해서 해석합니다.
 
+loganin·morroniside 등 iridoid glycosides, triterpenoids, flavonoids와 polysaccharides가 주요 연구 성분군입니다. 항산화·대사·신경·심혈관·간신장 관련 결과가 보고되더라도 **보익간신·수렴고삽이라는 전통 효능 전체가 한 지표로 입증된 것은 아닙니다.** 기원·약용부위·추출법과 사람 대상 여부를 먼저 확인합니다.
+
+## 참고할 연구
+
+- Cornus officinalis 종합 검토 — PMID 38274211
+- 활성 성분과 약리 연구 검토 — PMID 33912050
+- 전통 활용·식물화학·약리 업데이트 — PMID 40784528
+
 ## 관련 문서
 - [공진단](../formulas/gongjin-dan.md)
 - [공진단 지식망](../network/gongjin-dan-map.md)

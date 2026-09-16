@@ -19,13 +19,20 @@ last_reviewed: 2026-09-16
 → [혈허](../../diagnostics/patterns/blood-deficiency.md)  
 → [어혈](../../diagnostics/patterns/blood-stasis.md)
 
-## 대표 본초
+## 대표 본초 비교
 
-### 보혈
-[당귀](../angelica.md) · [숙지황](../prepared-rehmannia.md) · [백작약](../white-peony.md)
-
-### 활혈
-천궁 · 단삼 · 도인 · 홍화 · 우슬
+| 구분 | 대표 본초 | 같은 효능 안에서의 차이 |
+|---|---|---|
+| 보혈·활혈 | [당귀](../angelica.md) | 혈허를 보하면서 혈행을 돕는 축. 혈허와 어혈이 함께 있을 때 배합의 연결점이 됨 |
+| 보혈·자음 | [숙지황](../prepared-rehmannia.md) | 혈과 음·정을 기르는 비중이 큼. 점윤한 성질과 소화 상태를 함께 고려 |
+| 양혈·렴음 | [백작약](../white-peony.md) | 혈을 기르면서 음을 거두고 완급하는 방향 |
+| 양심비·안신 | [용안육](../longan.md) | 심비양허의 건망·심계·수면저하와 함께 보는 보혈약 |
+| 활혈행기·지통 | [천궁](../chuanxiong.md) | 기체와 어혈이 겹친 두통·월경통·통증 배합에 자주 연결 |
+| 활혈·량혈 | [단삼](../salvia.md)·[적작약](../red-peony.md) | 열과 어혈이 함께 보이는 병기에서 비교. 단삼은 청심제번, 적작약은 량혈산어의 겸효능을 봄 |
+| 파혈거어 | [도인](../peach-kernel.md)·[홍화](../safflower.md) | 비교적 강하게 어혈을 깨는 축. 출혈 위험과 임신 가능성을 먼저 확인 |
+| 활혈지통 | [현호색](../corydalis.md) | 기체·어혈성 통증을 중심으로 배합 |
+| 활혈조경·이수 | [익모초](../leonurus.md) | 월경·산후의 어혈과 수분대사 병기를 함께 보는 약재 |
+| 활혈·하행·근골 | [우슬](../achyranthes.md) | 혈행을 아래로 이끌고 요슬부·근골 배합을 연결 |
 
 ## 대표 배합
 
@@ -37,7 +44,19 @@ last_reviewed: 2026-09-16
 
 ## 대표 처방
 
-[사물탕](../../formulas/siwu-tang.md) · [팔물탕](../../formulas/bazhen-tang.md) · [십전대보탕](../../formulas/shi-quan-da-bu-tang.md) · [귀비탕](../../formulas/guibi-tang.md) · 계지복령환 · 소경활혈탕
+- **혈허·기혈양허:** [사물탕](../../formulas/siwu-tang.md) · [팔물탕](../../formulas/bazhen-tang.md) · [십전대보탕](../../formulas/shi-quan-da-bu-tang.md) · [귀비탕](../../formulas/guibi-tang.md)
+- **어혈의 병위·겸증:** [혈부축어탕](../../formulas/xuefu-zhuyu-tang.md) · [계지복령환](../../formulas/guizhi-fuling-wan.md) · [소경활혈탕](../../formulas/shujing-huoxue-tang.md) · [당귀수산](../../formulas/danggui-susan.md) · [생화탕](../../formulas/saenghwa-tang.md)
+
+## 지혈 본초는 따로 구분합니다 {#hemostasis-herbs}
+
+| 출혈 병기 | 대표 본초군 | 읽는 기준 |
+|---|---|---|
+| 혈열 | 지유·측백엽·대계·소계 | 열과 출혈 부위를 함께 봄 |
+| 어혈을 동반한 출혈 | 삼칠·포황 | 지혈과 화어를 함께 고려 |
+| 허한 | 애엽 | 충임허한 등 한증성 출혈의 배합에서 봄 |
+| 수렴 | 백급·선학초 | 출혈 부위와 원인, 허실을 먼저 감별 |
+
+지혈약은 출혈의 원인을 대신 진단하는 약재군이 아닙니다. 원인불명·대량·지속 출혈, 흑변·토혈, 임신 중 출혈은 즉시 의학적 평가가 우선입니다.
 
 ## 임상 연결
 

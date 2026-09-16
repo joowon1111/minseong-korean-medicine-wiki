@@ -110,6 +110,8 @@ last_reviewed: '2026-09-16'
 - **대표 방제:** 폐열해천에는 [마행감석탕](../formulas/maxing-ganshi-tang.md), 담열·숙담에는 [정천탕](../formulas/dingchuan-tang.md), 상실하허의 담성기역에는 [소자강기탕](../formulas/suzi-jiangqi-tang.md), 풍한수음에는 [소청룡탕](../formulas/xiaoqinglong-tang.md), 기허와 오래된 기침에는 [보폐탕](../formulas/bufei-tang.md)을 구분합니다.
 - **연구 연결:** 기침 빈도·야간각성·객담·호흡곤란 척도·폐기능·구제흡입제 사용 등을 보며, 전통 천증과 천식 진단을 구분합니다.
 
+→ [방향화습·이수·거풍습 본초 비교](../herbs/categories/drain-damp.md#damp-herb-groups) · [화담·이기 본초 비교](../herbs/categories/phlegm-qi.md#phlegm-qi-herbs)
+
 ## 기혈·소화 관련 효능 {#qi-blood-digestion}
 
 ### 이기(理氣)
@@ -148,6 +150,8 @@ last_reviewed: '2026-09-16'
 - **대표 방제:** 혈열출혈에는 십회산·[청경사물탕](../formulas/qingjing-siwu-tang.md), 충임허손·허한성 출혈에는 [교애탕](../formulas/jiaoai-tang.md)이 대표적인 비교점입니다. 처방보다 먼저 출혈 원인과 응급도를 확인합니다.
 - **연구 연결:** 출혈량·지혈시간·혈색소·응고검사·수혈 필요·재출혈과 안전성을 평가합니다. 시험관 응고 결과를 임상 지혈효과로 바로 옮기지 않습니다.
 
+→ [보혈·활혈·지혈 본초 비교](../herbs/categories/blood.md)
+
 ## 조절·안정 관련 효능 {#regulation}
 
 ### 온리(溫裏)
@@ -167,6 +171,8 @@ last_reviewed: '2026-09-16'
 - **대표 본초:** 양혈·양심안신에는 [산조인](../herbs/ziziphus-seed.md)·[백자인](../herbs/thuja-seed.md)·야교등, 교통심신·화담개규에는 [원지](../herbs/polygala.md), 중진잠양에는 용골·모려, 해울안신에는 합환피를 구분합니다.
 - **대표 방제:** 간혈부족·허번불면에는 [산조인탕](../formulas/suanzaoren-tang.md), 심비양허에는 [귀비탕](../formulas/guibi-tang.md), 심음혈허에는 [천왕보심단](../formulas/tianwang-buxin-dan.md), 담열요심에는 [온담탕](../formulas/wendan-tang.md), 담화와 불안·번조에는 [시호가용골모려탕](../formulas/chaihu-jia-longgu-muli-tang.md)을 비교합니다.
 - **연구 연결:** 수면일지·PSQI·활동기록·심박변이도·불안척도·이상반응을 볼 수 있습니다. 진정시험 하나로 안신 전체를 설명하지 않습니다.
+
+→ [양심안신·중진안신 본초 비교](../herbs/categories/calm-spirit.md#calm-spirit-herbs)
 
 ### 평간식풍(平肝息風)
 
@@ -196,6 +202,8 @@ last_reviewed: '2026-09-16'
 - **차이:** 인삼은 원기·비폐, 황기는 승양·고표, 백출은 건비조습, 산약은 비폐신과 고삽의 비중이 다릅니다.
 - **연구 연결:** 피로·활동능력·식욕·체중·삶의 질, 대상에 따라 면역·대사 지표를 평가할 수 있습니다. ‘면역증강’은 보기의 번역어가 아닙니다.
 
+→ [인삼·황기·백출·산약 비교](../herbs/categories/tonics.md#qi-tonic-herbs)
+
 ### 보혈(補血)
 
 **정의:** 혈허로 설명되는 영양·자윤 부족을 보하는 방향입니다.
@@ -213,6 +221,8 @@ last_reviewed: '2026-09-16'
 - **대표 방제:** 기음양허·진액손상에는 [생맥산](../formulas/shengmai-san.md), 폐위음허의 기침에는 [맥문동탕](../formulas/maidong-tang.md), 신음허의 기본 구조는 [육미지황환](../authority/formulas/liuwei-dihuang-wan.md), 진음부족에는 [좌귀환](../formulas/zuogui-wan.md), 음허화왕에는 [자음강화탕](../formulas/ziyin-jianghuo-tang.md)을 비교합니다.
 - **연구 연결:** 구강건조·기침·수면·갱년기 증상·삶의 질과 분비·대사 관련 지표 등을 보되, ‘음’을 체액량 하나로 환원하지 않습니다.
 
+→ [병위별 자음·생진 본초 비교](../herbs/categories/nourish-yin.md#yin-tonic-herbs)
+
 ### 보양(補陽)
 
 **정의:** 양허로 설명되는 냉감·기능저하·허리무릎 무력·생식과 배뇨의 허약을 보하는 방향입니다.
@@ -226,7 +236,7 @@ last_reviewed: '2026-09-16'
 **정의:** 정기 허약으로 체액·정·땀·대변·소변이 새는 병증을 수렴하고 고섭하는 방향입니다.
 
 - **주치·병기:** 오래된 설사·자한·도한·유정·빈뇨·대하·만성기침 등. 사기가 남은 초기·실증에 섣불리 수렴하지 않습니다.
-- **대표 본초:** 폐·신을 수렴하고 생진하는 [오미자](../herbs/schisandra.md), 보익간신·삽정하는 [산수유](../herbs/cornus-fruit.md), 보비지사·고정하는 [연자육](../herbs/lotus-seed.md)·검실, 삽장지사에는 육두구·가자, 고정축뇨에는 금앵자·상표초를 구분합니다.
+- **대표 본초:** 폐·신을 수렴하고 생진하는 [오미자](../herbs/schisandra.md), 보익간신·삽정하는 [산수유](../herbs/cornus-fructus.md), 보비지사·고정하는 [연자육](../herbs/lotus-seed.md)·검실, 삽장지사에는 육두구·가자, 고정축뇨에는 금앵자·상표초를 구분합니다.
 - **대표 방제:** 기음과 진액을 함께 지키는 [생맥산](../formulas/shengmai-san.md), 비신양허의 오래된 설사에는 [사신환](../authority/formulas/sishen-wan.md), 비허대하에는 [완대탕](../formulas/wandai-tang.md), 심신불교와 배뇨·유정의 허증에는 [청심연자음](../formulas/qingxin-lianzi-yin.md)을 관련 병기와 함께 비교합니다.
 - **연구 연결:** 배변·요실금·발한·기침 빈도와 삶의 질을 보되, 수삽을 단순한 분비 억제로 설명하지 않습니다.
 

@@ -30,5 +30,5 @@ last_reviewed: 2026-09-04
 ## 연결
 
 - [산조인탕 상세 임상카드](../../formulas/suanzaoren-tang.md)
-- [산조인 본초](../../herbs/jujube-seed.md)
+- [산조인 본초](../../herbs/ziziphus-seed.md)
 - [수면·정서 한약 현대 임상근거](sleep-emotion-herbal-evidence.md)

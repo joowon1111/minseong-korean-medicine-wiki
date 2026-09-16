@@ -21,7 +21,7 @@ last_reviewed: 2026-08-19
 ## [당귀](../herbs/angelica.md)
 혈을 보하면서 혈행을 돕는 방향을 더한다.
 
-## [산수유](../herbs/cornus-fruit.md)
+## [산수유](../herbs/cornus-fructus.md)
 간신을 보하고 정기의 지나친 소모를 수렴하는 방향을 더한다.
 
 ## [사향](../herbs/musk.md)

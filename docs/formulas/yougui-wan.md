@@ -26,7 +26,7 @@ last_reviewed: 2026-09-06
 
 | 배합축 | 본초 | 처방 안에서 읽는 역할 |
 |---|---|---|
-| 정혈·간신의 바탕 | [숙지황](../herbs/prepared-rehmannia.md)·[산약](../herbs/dioscorea.md)·[산수유](../herbs/cornus-fruit.md)·[구기자](../herbs/cornus-extra.md)·[토사자](../herbs/cuscuta-seed.md)·녹각교 | 기르는 바탕을 함께 유지 |
+| 정혈·간신의 바탕 | [숙지황](../herbs/prepared-rehmannia.md)·[산약](../herbs/dioscorea.md)·[산수유](../herbs/cornus-fructus.md)·[구기자](../herbs/cornus-extra.md)·[토사자](../herbs/cuscuta-seed.md)·녹각교 | 기르는 바탕을 함께 유지 |
 | 혈과 요슬 보조 | [당귀](../herbs/angelica.md)·[두충](../herbs/eucommia.md) | 혈분과 허리·무릎의 배합 |
 | 온양 | [육계](../herbs/cinnamon-bark.md)·[법제 부자](../herbs/aconite.md) | 허한을 따뜻하게 다스리는 방향 |
 

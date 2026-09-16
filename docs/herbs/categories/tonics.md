@@ -29,9 +29,19 @@ last_reviewed: 2026-09-16
 - [황기](../astragalus.md) — 보기승양·고표
 - [당귀](../angelica.md) — 보혈·활혈
 - [숙지황](../prepared-rehmannia.md) — 보혈자음·익정
-- [산수유](../cornus-fruit.md) — 보간신·수렴
+- [산수유](../cornus-fructus.md) — 보간신·수렴
 - [두충](../eucommia.md) — 보간신·강근골
 - [우슬](../achyranthes.md) — 보간신·강근골·활혈
+
+## 보기약의 차이 {#qi-tonic-herbs}
+
+| 본초 | 공통된 보기 안에서의 중심 | 대표 처방 |
+|---|---|---|
+| [인삼](../ginseng.md) | 원기와 비·폐의 기를 보하고 진액을 돕는 축 | [사군자탕](../../formulas/sijunzi-tang.md) · [생맥산](../../formulas/shengmai-san.md) |
+| [황기](../astragalus-tonic-guide.md) | 보기승양·고표·탁독생기 | [보중익기탕](../../formulas/buzhong-yiqi-tang.md) · [옥병풍산](../../formulas/yupingfeng-san.md) |
+| [백출](../atractylodes.md) | 건비익기와 조습·지한 | [사군자탕](../../formulas/sijunzi-tang.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) |
+| [산약](../dioscorea.md) | 비·폐·신을 비교적 평하게 보하면서 고삽을 겸함 | [육미지황환](../../formulas/liu%20wei%20dihuang%20wan.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) |
+| [감초](../licorice.md)·[대조](../jujube-fruit.md) | 보중·완급·조화의 보조축 | 실제 처방에서 군약의 역할과 함께 해석 |
 
 ## 대표 처방
 

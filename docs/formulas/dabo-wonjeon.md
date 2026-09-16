@@ -34,7 +34,7 @@ last_reviewed: 2026-09-04
 |---|---|---|
 | 보기 | [인삼](../herbs/ginseng.md)·[산약](../herbs/dioscorea.md)·[감초](../herbs/licorice.md) | 원기와 비위의 회복 기반 |
 | 양혈익정 | [숙지황](../herbs/prepared-rehmannia.md)·[당귀](../herbs/angelica.md) | 혈과 정수의 소모를 보완 |
-| 간신·근골 | [산수유](../herbs/cornus-fruit.md)·[구기자](../herbs/cornus-extra.md)·[두충](../herbs/eucommia.md) | 허리·무릎과 장기 회복을 받침 |
+| 간신·근골 | [산수유](../herbs/cornus-fructus.md)·[구기자](../herbs/cornus-extra.md)·[두충](../herbs/eucommia.md) | 허리·무릎과 장기 회복을 받침 |
 
 원전과 후대 가감방의 용량은 다를 수 있습니다. [가미대보원전](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0020256&tempLang=ko)은 청강의감에 수록된 별도 가감방이므로 대보원전 원방과 섞지 않습니다.
 
