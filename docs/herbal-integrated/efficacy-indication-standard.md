@@ -96,6 +96,8 @@ last_reviewed: '2026-09-16'
 - **대표 방제:** 외감 풍한습 몸살에는 [구미강활탕](../formulas/jiuwei-qianghuo-tang.md), 간신부족·기혈허를 동반한 만성 비증에는 [독활기생탕](../formulas/duhuo-jisheng-tang.md), 풍습과 어혈이 함께 보이는 통증에는 [소경활혈탕](../formulas/shujing-huoxue-tang.md)을 비교합니다.
 - **연구 연결:** 통증 NRS/VAS·기능척도·진통제 사용·보행·관절 가동범위 등을 평가할 수 있으나 풍습과 특정 근골격 진단을 1:1 대응시키지 않습니다.
 
+→ [강활·독활·방풍 비교](herb-comparisons.md#wind-damp-herbs)
+
 ### 화담(化痰)
 
 **정의:** 담을 삭이거나 담이 생기는 병기를 조절하는 방향입니다. 가래뿐 아니라 전통적으로 담음과 연결한 오심·현훈·흉민·매핵기 등을 포함합니다.
@@ -148,6 +150,8 @@ last_reviewed: '2026-09-16'
 - **대표 본초:** 혈중기체와 두통·월경통에는 [천궁](../herbs/chuanxiong.md), 량혈·활혈에는 [단삼](../herbs/salvia.md)·[적작약](../herbs/red-peony.md), 파혈거어에는 [도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md), 활혈지통에는 [현호색](../herbs/corydalis.md), 조경과 이수에는 [익모초](../herbs/leonurus.md), 하행과 근골에는 [우슬](../herbs/achyranthes.md)을 봅니다.
 - **대표 방제:** 흉중어혈에는 [혈부축어탕](../formulas/xuefu-zhuyu-tang.md), 징가·하복부 어혈에는 [계지복령환](../formulas/guizhi-fuling-wan.md), 축혈과 적체에는 [도핵승기탕](../formulas/taohe-chengqi-tang.md), 산후어혈에는 [생화탕](../formulas/saenghwa-tang.md), 외상성 어혈에는 [당귀수산](../formulas/danggui-susan.md), 기허혈어에는 [보양환오탕](../formulas/buyang-huanwu-tang.md)을 비교합니다.
 - **연구 연결:** 통증·월경 지표·혈류영상·혈소판·응고·내피기능 등이 연구되지만 결과는 약재·처방·대상에 따라 다릅니다. ‘혈액순환 개선’ 한 문장으로 대체하지 않습니다.
+
+→ [도인·홍화·단삼·천궁 비교](herb-comparisons.md#blood-moving-herbs)
 
 ### 지혈(止血)
 

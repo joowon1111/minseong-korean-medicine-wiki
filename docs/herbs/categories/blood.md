@@ -34,6 +34,8 @@ last_reviewed: 2026-09-16
 | 활혈조경·이수 | [익모초](../leonurus.md) | 월경·산후의 어혈과 수분대사 병기를 함께 보는 약재 |
 | 활혈·하행·근골 | [우슬](../achyranthes.md) | 혈행을 아래로 이끌고 요슬부·근골 배합을 연결 |
 
+→ [도인·홍화·단삼·천궁의 처방 역할 비교](../../herbal-integrated/herb-comparisons.md#blood-moving-herbs)
+
 ## 대표 배합
 
 - 당귀 + 백작약 → 보혈·양혈의 조화
