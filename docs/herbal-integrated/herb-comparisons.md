@@ -9,6 +9,19 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 비슷한 본초를 비교한 뒤 **실제 어느 처방에서 그 차이가 드러나는지**까지 연결합니다.
 
+## 마황 · 계지 · 방풍 / 박하 · 우방자 · 상엽 {#exterior-releasing-herbs}
+
+| 병증 방향 | 본초 | 상대적으로 두드러지는 역할 | 처방에서 보기 |
+|---|---|---|---|
+| 풍한·표실 | [마황](../herbs/ephedra.md) | 발한해표·선폐평천·이수 | [마황탕](../formulas/mahuang-tang.md), [소청룡탕](../formulas/xiaoqinglong-tang.md) |
+| 풍한·표허 | [계지](../herbs/cinnamon-twig.md) | 해기·온경통맥, 영위 조화 | [계지탕](../formulas/guizhi-tang.md) |
+| 풍한습·두통 | [방풍](../herbs/saposhnikovia.md) | 거풍해표·승습지통, 비교적 완만 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) |
+| 풍열·두면·인후 | [박하](../herbs/mint.md) | 소산풍열·청리두목·이인 | [은교산](../formulas/yinqiao-san.md) |
+| 풍열·인후·투진 | [우방자](../herbs/arctium.md) | 선폐이인·투진·산종 | [은교산](../formulas/yinqiao-san.md) |
+| 풍열·폐조 | [상엽](../herbs/mulberry-leaf.md) | 소산풍열·청폐윤조 | [상국음](../formulas/sangju-yin.md) |
+
+해표약은 감기약의 동의어가 아닙니다. 오한·발열·땀·갈증·인후·기침·진액 상태를 함께 보고 풍한과 풍열, 표실과 표허를 구분합니다. 특히 마황은 자극성 알칼로이드와 심혈관·수면 안전성을 별도로 평가합니다.
+
 ## 황련 · 황금 · 황백
 
 | 본초 | 상대적으로 두드러지는 방향 | 처방에서 보기 |
@@ -97,7 +110,7 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 건강은 중초허한과 한음, 부자는 양허·망양과 수습, 육계는 명문화와 경맥의 한응, 오수유는 한응과 기역·구토를 중심으로 구분합니다. 따뜻한 성질이 있다는 공통점만으로 서로 대체하지 않으며, 특히 부자는 **법제·용량·조제 관리가 전제되는 독성 본초**입니다.
 
-## 복령 · 의이인 · 택사 · 차전자
+## 복령 · 의이인 · 택사 · 차전자 {#drain-damp-herbs}
 
 | 본초 | 핵심 | 처방에서 보기 |
 |---|---|---|
@@ -113,6 +126,17 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 행인 | 지해평천·윤장 | [마행감석탕](../formulas/maxing-ganshi-tang.md), [행소산](../formulas/xingsu-san.md) |
 | 천패모 | 청열윤폐·화담 | 조열·열담 처방군 |
 | 반하 | 조습화담·강역지구 | [이진탕](../formulas/erchen-tang.md), [반하사심탕](../formulas/banxia-xiexin-tang.md), [반하후박탕](../formulas/banxia-houpo-tang.md) |
+
+## 행인 · 상백피 · 길경 · 전호 {#cough-wheezing-herbs}
+
+| 본초 | 기침·천증에서의 중심 | 함께 구분할 점 | 처방에서 보기 |
+|---|---|---|---|
+| [행인](../herbs/apricot-kernel.md) | 폐기를 내리는 지해평천, 윤장 | 한열을 가리지 않고 배합되나 용량·독성 관리 필요 | [마행감석탕](../formulas/maxing-ganshi-tang.md), [행소산](../formulas/xingsu-san.md) |
+| [상백피](../herbs/mulberry-root-bark.md) | 사폐평천·이수소종 | 폐열과 수습을 함께 보는 경우 | [정천탕](../formulas/dingchuan-tang.md) |
+| [길경](../herbs/platycodon.md) | 선폐거담·이인, 약력을 상부로 인도 | 인후·객담 배출과 흉격 | [은교산](../formulas/yinqiao-san.md) |
+| [전호](../herbs/peucedanum-root.md) | 강기화담·소산풍열 | 풍열·담에 기의 상역이 겹친 경우 | [행소산](../formulas/xingsu-san.md) |
+
+같은 기침이라도 외감의 한열, 마른기침과 다량 객담, 폐열·담습·폐허를 구분합니다. 호흡곤란·청색증·흉통·고열·의식변화는 본초 감별보다 즉시 의학적 평가가 우선입니다.
 
 ## 천마 · 조구등 {#extinguish-wind-herbs}
 

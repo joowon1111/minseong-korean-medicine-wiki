@@ -42,6 +42,8 @@ last_reviewed: '2026-09-16'
 - **본초 간 차이:** 마황은 발한·선폐평천, 계지는 해기·온통, 박하는 소산풍열·청리두목, 우방자는 이인투진의 비중이 다릅니다.
 - **현대 연구 연결:** 체온·상기도 증상점수·기침 빈도·비폐색·회복기간 등을 볼 수 있으나, 표증과 바이러스·알레르기·감기 진단은 같은 층위가 아닙니다.
 
+→ [풍한·풍열 해표 본초 비교](herb-comparisons.md#exterior-releasing-herbs)
+
 ## 청열약(淸熱藥) {#clear-heat}
 
 **표준 정의:** 열증을 병위와 병기에 따라 맑히는 본초군입니다. ‘열’은 체온 상승만이 아니라 갈증·번조·황태·출혈·옹종·습열·음허열 등 전통적 증후 묶음을 포함합니다.
@@ -111,6 +113,8 @@ last_reviewed: '2026-09-16'
 - **대표 본초:** 강기지해에는 [행인](../herbs/apricot-kernel.md)·[자소자](../herbs/perilla-fruit.md), 청폐평천에는 [상백피](../herbs/mulberry-root-bark.md), 선폐이인·거담에는 [길경](../herbs/platycodon.md), 소산풍열과 청폐에는 [상엽](../herbs/mulberry-leaf.md), 강기화담에는 [전호](../herbs/peucedanum-root.md)를 봅니다.
 - **대표 방제:** 폐열해천에는 [마행감석탕](../formulas/maxing-ganshi-tang.md), 담열·숙담에는 [정천탕](../formulas/dingchuan-tang.md), 상실하허의 담성기역에는 [소자강기탕](../formulas/suzi-jiangqi-tang.md), 풍한수음에는 [소청룡탕](../formulas/xiaoqinglong-tang.md), 기허와 오래된 기침에는 [보폐탕](../formulas/bufei-tang.md)을 구분합니다.
 - **연구 연결:** 기침 빈도·야간각성·객담·호흡곤란 척도·폐기능·구제흡입제 사용 등을 보며, 전통 천증과 천식 진단을 구분합니다.
+
+→ [행인·상백피·길경·전호 비교](herb-comparisons.md#cough-wheezing-herbs)
 
 → [방향화습·이수·거풍습 본초 비교](../herbs/categories/drain-damp.md#damp-herb-groups) · [화담·이기 본초 비교](../herbs/categories/phlegm-qi.md#phlegm-qi-herbs)
 
