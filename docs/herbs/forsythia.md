@@ -19,6 +19,10 @@ description: 연교(連翹) — 본초의 성미·귀경·효능·병증·배합
 ## 임상적으로 읽는 법
 열독·옹종·풍열표증의 전통적 배합에 사용한다. 허한성 설사나 비위허약 환자에서는 병증을 함께 본다.
 
+## 효능·주치에서의 위치
+
+연교는 [청열해독](../herbal-integrated/heat-clearing-herbs.md#clear-heat-resolve-toxin)을 중심으로 소종산결·소산풍열을 겸합니다. [금은화](honeysuckle.md)와 공통 효능을 공유하지만 결취·종통의 비중과 처방 속 역할로 차이를 설명합니다. [은교산](../formulas/yinqiao-san.md)과 [연교패독산](../formulas/lianqiao-baidu-san.md)의 전체 구성도 함께 봅니다.
+
 ## 사상처방과 연결
 이 본초가 실제 어떤 사상처방에 어떤 용량으로 배합되는지는 사상처방 구성·용량 라이브러리에서 확인합니다.
 
@@ -35,4 +39,3 @@ description: 연교(連翹) — 본초의 성미·귀경·효능·병증·배합
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
-
