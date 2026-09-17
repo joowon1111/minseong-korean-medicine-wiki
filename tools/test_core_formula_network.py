@@ -119,12 +119,25 @@ class CoreFormulaNetworkTest(unittest.TestCase):
             "xiaoyao-san", "mazi-ren-wan", "dachengqi-tang", "bulsu-san",
             "qingying-tang", "sanren-tang", "zhuling-tang", "jiaoai-tang",
             "shoutai-wan", "dingchuan-tang", "shengmai-san", "jichuan-jian",
+            "fangji-huangqi-tang", "duhuo-jisheng-tang", "suzi-jiangqi-tang",
         )
         for slug in slugs:
             text = (DOCS / f"formulas/{slug}.md").read_text(encoding="utf-8-sig")
             with self.subTest(slug=slug):
                 self.assertTrue(any(term in text for term in ("수치", "법제", "포제", "가공")))
                 self.assertTrue(any(term in text for term in ("제형", "탕제", "산제", "환제")))
+
+    def test_selected_core_formulas_preserve_source_and_evidence_distinctions(self) -> None:
+        fangji = (DOCS / "formulas/fangji-huangqi-tang.md").read_text(encoding="utf-8-sig")
+        duhuo = (DOCS / "formulas/duhuo-jisheng-tang.md").read_text(encoding="utf-8-sig")
+        suzi = (DOCS / "formulas/suzi-jiangqi-tang.md").read_text(encoding="utf-8-sig")
+
+        self.assertIn("Boiogito 단독군이 없고", fangji)
+        self.assertIn("관절액이 줄었다는 결과를 체지방 감소", fangji)
+        self.assertIn("원방의 지황은 **건지황**", duhuo)
+        self.assertIn("병용 결과를 독활기생탕 단독효과", duhuo)
+        self.assertIn("출전별 구성이 다릅니다", suzi)
+        self.assertIn("모든 국가·수록본의 절대 표준량은 아닙니다", suzi)
 
     def test_expansion_herbs_include_processing_guidance(self) -> None:
         slugs = (
