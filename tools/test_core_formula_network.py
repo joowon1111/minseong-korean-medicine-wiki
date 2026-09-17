@@ -118,7 +118,7 @@ class CoreFormulaNetworkTest(unittest.TestCase):
             "lizhong-tang", "xiaojianzhong-tang", "huangqi-jianzhong-tang",
             "xiaoyao-san", "mazi-ren-wan", "dachengqi-tang", "bulsu-san",
             "qingying-tang", "sanren-tang", "zhuling-tang", "jiaoai-tang",
-            "shoutai-wan",
+            "shoutai-wan", "dingchuan-tang", "shengmai-san", "jichuan-jian",
         )
         for slug in slugs:
             text = (DOCS / f"formulas/{slug}.md").read_text(encoding="utf-8-sig")
