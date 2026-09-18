@@ -61,6 +61,17 @@ last_reviewed: 2026-09-18
 - **혈허·기혈양허:** [사물탕](../../formulas/siwu-tang.md) · [팔물탕](../../formulas/bazhen-tang.md) · [십전대보탕](../../formulas/shi-quan-da-bu-tang.md) · [귀비탕](../../formulas/guibi-tang.md)
 - **어혈의 병위·겸증:** [혈부축어탕](../../formulas/xuefu-zhuyu-tang.md) · [계지복령환](../../formulas/guizhi-fuling-wan.md) · [소경활혈탕](../../formulas/shujing-huoxue-tang.md) · [당귀수산](../../formulas/danggui-susan.md) · [생화탕](../../formulas/saenghwa-tang.md)
 
+## 통증에서는 어떤 활혈약을 연결하나요? {#pain-herbs}
+
+| 통증의 단서 | 먼저 비교할 본초 | 대표 처방에서의 모습 |
+|---|---|---|
+| 삐거나 부딪힌 뒤 멍·부종·고정통 | [도인](../peach-kernel.md)·[홍화](../safflower.md)·[적작약](../red-peony.md) | [당귀수산](../../formulas/danggui-susan.md)의 외상성 어혈 배합 |
+| 기체와 어혈이 함께 있는 통증 | [현호색](../corydalis.md)·[천궁](../chuanxiong.md) | 행기와 활혈지통의 비중을 함께 봄 |
+| 혈허·어혈에 풍습과 오래된 뻣뻣함이 겹침 | [당귀](../angelica.md)·[천궁](../chuanxiong.md)·[도인](../peach-kernel.md)·[우슬](../achyranthes.md) | [소경활혈탕](../../formulas/shujing-huoxue-tang.md)의 보혈·활혈·통락 구조 |
+| 흉중·월경·열의 단서와 어혈을 함께 봄 | [단삼](../salvia.md)·[적작약](../red-peony.md) | 량혈·청심 또는 조경 등 겸효능을 처방 전체에서 구분 |
+
+‘활혈’은 모든 근육통에 같은 약을 쓰는 뜻이 아닙니다. 외상 여부, 통증이 고정적인지 이동하는지, 멍·종창·야간통, 월경과 출혈, 냉감·열감, 저림·근력저하를 함께 확인합니다. 풍한습·경련·허손의 비중이 크면 [통증 한약 처방 찾기](../../herbal-integrated/formula-for-pain.md)에서 다른 본초군과 비교합니다.
+
 ## 지혈 본초는 따로 구분합니다 {#hemostasis-herbs}
 
 | 출혈 병기 | 대표 본초군 | 읽는 기준 |

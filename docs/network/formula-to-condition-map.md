@@ -3,7 +3,7 @@ title: 방제→질환·변증 지도
 description: 보익·회복·소화기·근골격·고방의 대표 처방을 변증 단서와 실제 증상 문서로 연결하고 비슷한 처방의 차이를 비교합니다.
 tags: [방제, 변증, 질환, 지식망]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-18
 ---
 # 방제→질환·변증 지도 {#_1}
 
@@ -58,11 +58,12 @@ last_reviewed: 2026-08-19
 
 | 처방 | 중심 변증·비교할 단서 | 관련 증상·상담 문서 |
 |---|---|---|
-| [독활기생탕](../formulas/duhuo-jisheng-tang.md) | 풍한습비에 간신·기혈허가 겹친 오래된 통증·하지 무력의 맥락 | [요통](../conditions/low-back-pain.md)·[무릎 통증](../conditions/knee-pain.md) |
+| [회수산](../formulas/huishou-san.md) | 갑작스러운 경항부 결림·회전 제한과 견배부 긴장을 풍한·기체의 맥락에서 살핌 | [목 통증](../conditions/neck-pain.md)·[컴퓨터 목·어깨 통증](../conditions/computer-neck-shoulder.md) |
+| [당귀수산](../formulas/danggui-susan.md) | 타박·삠 뒤 멍과 국소 압통 등 외상성 어혈의 맥락 | [교통사고 후 통증](../conditions/traffic-accident-sequelae.md) |
 | [오적산](../formulas/wujisan.md) | 한습과 기·혈·담식이 얽힌 통증, 냉감과 복부불편의 동반 | [추위에 심해지는 몸살·통증](../conditions/cold-weather-body-ache.md) |
 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) | 혈허·어혈·풍습을 함께 살피는 보혈·활혈·통락의 구조 | [다리로 뻗치는 통증](../conditions/sciatica.md) |
-| [당귀수산](../formulas/danggui-susan.md) | 타박·삠 뒤 멍과 국소 압통 등 외상성 어혈의 맥락 | [교통사고 후 통증](../conditions/traffic-accident-sequelae.md) |
 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) | 근육의 급박·경련·당김을 완급하는 배합 | [종아리 쥐](../conditions/calf-cramp.md)·[근육 경련](../conditions/muscle-cramps.md) |
+| [독활기생탕](../formulas/duhuo-jisheng-tang.md) | 풍한습비에 간신·기혈허가 겹친 오래된 통증·하지 무력의 맥락 | [요통](../conditions/low-back-pain.md)·[무릎 통증](../conditions/knee-pain.md) |
 
 통증의 원인과 침구치료까지 보려면 [질환·증상→치료 임상 지도](condition-to-treatment-map.md#_2)로 이어갑니다. 특히 작약감초탕은 감초 함유 약의 중복과 부종·혈압·전해질 문제를 해당 처방의 안전성 설명에서 함께 확인합니다.
 
