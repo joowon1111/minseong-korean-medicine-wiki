@@ -2,7 +2,7 @@
 title: 본초·방제
 description: 본초 효능·주치와 임상 핵심 처방 100선을 중심으로 증상·병증·치법, 배합 구조, 수치·법제, 안전성과 현대 임상근거를 연결하는 한약 포털입니다.
 tags: [본초, 방제, 한약, 맞춤한약, 보약, 임상근거]
-last_reviewed: '2026-09-16'
+last_reviewed: '2026-09-18'
 hide:
   - toc
 ---
@@ -56,7 +56,7 @@ hide:
 | 청열·습열·온병·피부 | 황련해독탕 · 용담사간탕 · 백호탕 · 청영탕 · 소풍산 |
 | 수습·부종·배뇨 | 오령산 · 저령탕 · 진무탕 · 영계출감탕 · 팔정산 |
 | 여성·임신·산후 | 당귀작약산 · 온경탕 · 가미소요산 · 불수산 · 생화탕 |
-| 통증·풍습·활혈 | 독활기생탕 · 오적산 · 작약감초탕 · 혈부축어탕 · 보양환오탕 |
+| 통증·풍습·활혈 | 회수산 · 당귀수산 · 오적산 · 소경활혈탕 · 작약감초탕 · 독활기생탕 |
 | 화해·공하 | 소시호탕 · 대시호탕 · 대승기탕 |
 
 각 상세 문서에서는 처방명과 주치만 확인하는 데 그치지 않고 `대표 출전 → 원방 구성과 본초의 역할 → 수치·법제와 전탕 → 유사 처방 감별 → 안전성 → 현대 연구`의 순서로 살펴볼 수 있습니다. 같은 처방명이라도 출전·제형·구성비가 다르면 구분해서 읽습니다.
@@ -107,6 +107,7 @@ hide:
 | **자음·생진** | 생지황·맥문동·오미자·천문동 | [자음·생진](../herbs/categories/nourish-yin.md) · [생맥산](../formulas/shengmai-san.md) |
 | **안신·수면** | 산조인·원지·복신·백자인 | [안신·양심](../herbs/categories/calm-spirit.md) · [귀비탕](../formulas/guibi-tang.md) · [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | **여성·산후 회복** | 당귀·백작약·숙지황·익모초 | [여성건강 한약](../herbal-integrated/formula-for-women.md) · [산후회복](../conditions/postpartum-recovery.md) |
+| **통증·근골격** | 도인·홍화·현호색·강활·독활·두충·우슬 | [통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md) · [보혈·활혈 본초](../herbs/categories/blood.md) · [통증 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md) |
 
 ## 보익·회복 한약을 더 깊게 보기
 

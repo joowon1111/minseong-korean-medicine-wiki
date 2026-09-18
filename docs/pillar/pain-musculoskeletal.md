@@ -3,7 +3,7 @@ title: 통증·근골격 한의학 허브
 description: 허리·등·옆구리·목·어깨·턱·손목·무릎·발목통증을 감별, 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 통증, 근골격, 한의학지식망]
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-18
 ---
 
 # 통증·근골격 한의학 허브
@@ -36,8 +36,13 @@ last_reviewed: 2026-09-06
 ## 변증·본초·방제
 
 - 변증: [어혈](../diagnostics/patterns/blood-stasis.md) · [한습](../diagnostics/patterns/cold-damp.md) · [신허](../diagnostics/patterns/kidney-deficiency.md)
-- 근골·풍습 본초: 두충 · 우슬 · 독활 · 강활 · 의이인
-- 활혈 본초: 단삼 · 도인 · 홍화 · 당귀
+
+| 본초를 살피는 축 | 대표 본초 | 구분해서 볼 단서 |
+|---|---|---|
+| 외상·어혈·고정통 | [도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md)·[현호색](../herbs/corydalis.md)·[당귀](../herbs/angelica.md) | 멍·종창·압통, 기체 동반 여부 |
+| 풍한습·몸의 무거움 | [강활](../herbs/notopterygium.md)·[독활](../herbs/angelica-pubescens.md)·[방풍](../herbs/saposhnikovia.md) | 외감 여부, 상·하부, 냉감·습중감 |
+| 근육의 당김·경련 | [백작약](../herbs/white-peony.md)·[감초](../herbs/licorice.md) | 단순 뻐근함과 실제 경련을 구분 |
+| 오래된 근골 허약 | [두충](../herbs/eucommia.md)·[우슬](../herbs/achyranthes.md)·[속단](../herbs/dipsacus.md) | 요슬부 무력, 회복 저하와 전신상태 |
 
 | 통증의 병증·경과 | 살펴볼 수 있는 처방군 |
 |---|---|
@@ -50,6 +55,8 @@ last_reviewed: 2026-09-06
 | 만성 비증에 허약·냉감·하지 무력이 동반됨 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) 등 거풍습·보익 처방군 |
 
 같은 허리·어깨·무릎통증도 발병 시기와 원인, 냉온 반응, 부종·열감, 근력과 전신상태에 따라 처방 방향이 달라집니다. → [근골격 통증 한약 처방 찾기](../herbal-integrated/formula-for-pain.md)
+
+독활기생탕은 위 표의 마지막처럼 **만성 풍한습비와 허약이 함께 있는 특정 맥락**에서 읽습니다. 급성 염좌·타박, 목결림, 경련, 한습성 복합통, 오래된 어혈성 통증은 각각 다른 처방 구조를 먼저 비교합니다.
 
 한약의 사람 대상 연구는 [통증·근골격 한약 현대 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md)에서 부위별로 확인할 수 있습니다. 요통·경추 신경근병증·무릎관절염·염좌·근육경련과 처방별 자료를 연결합니다.
 
