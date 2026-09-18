@@ -84,6 +84,31 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
             with self.subTest(slug=slug):
                 self.assertIn("heat-clearing-herbs.md", text)
 
+    def test_expanded_heat_herbs_cover_clinical_reading_layers(self) -> None:
+        slugs = (
+            "gypsum", "phellodendron", "honeysuckle", "forsythia",
+            "rehmannia-root-fresh", "moutan", "qinghao", "digupi",
+        )
+        required = ("주치", "처방", "research", "안전")
+        for slug in slugs:
+            text = (DOCS / f"herbs/{slug}.md").read_text(encoding="utf-8-sig")
+            with self.subTest(slug=slug):
+                for term in required:
+                    self.assertIn(term, text)
+                self.assertGreaterEqual(len(text.splitlines()), 70)
+
+    def test_honeysuckle_and_forsythia_keep_identity_and_evidence_distinctions(self) -> None:
+        honeysuckle = (DOCS / "herbs/honeysuckle.md").read_text(encoding="utf-8-sig")
+        forsythia = (DOCS / "herbs/forsythia.md").read_text(encoding="utf-8-sig")
+
+        for term in ("산은화", "인동등", "금은화 단독", "PMID 32206048"):
+            self.assertIn(term, honeysuckle)
+        for term in ("청교", "노교", "연교 단독", "PMID 38641141"):
+            self.assertIn(term, forsythia)
+        for text in (honeysuckle, forsythia):
+            self.assertIn("PMID 21040773", text)
+            self.assertIn("완전 소실", text)
+
     def test_oversimplified_equations_are_explicitly_rejected(self) -> None:
         for phrase in (
             "청열=항염", "활혈거어=혈액순환 개선", "보익=면역증강",
