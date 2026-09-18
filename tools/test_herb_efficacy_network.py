@@ -97,6 +97,28 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
                     self.assertIn(term, text)
                 self.assertGreaterEqual(len(text.splitlines()), 70)
 
+    def test_remaining_core_heat_herbs_have_full_clinical_layers(self) -> None:
+        slugs = ("anemarrhena", "coptis", "scutellaria", "red-peony", "gardenia")
+        required = ("주치", "처방", "현대 연구", "안전", "효능에서 주치까지 읽기")
+        for slug in slugs:
+            text = (DOCS / f"herbs/{slug}.md").read_text(encoding="utf-8-sig")
+            with self.subTest(slug=slug):
+                for term in required:
+                    self.assertIn(term, text)
+                self.assertGreaterEqual(len(text.splitlines()), 80)
+
+    def test_core_heat_herb_research_is_not_flattened(self) -> None:
+        coptis = (DOCS / "herbs/coptis.md").read_text(encoding="utf-8-sig")
+        scutellaria = (DOCS / "herbs/scutellaria.md").read_text(encoding="utf-8-sig")
+        red_peony = (DOCS / "herbs/red-peony.md").read_text(encoding="utf-8-sig")
+        gardenia = (DOCS / "herbs/gardenia.md").read_text(encoding="utf-8-sig")
+
+        self.assertIn("황련과 베르베린을 구분", coptis)
+        self.assertIn("특정 성분의 기전 결과", scutellaria)
+        self.assertIn("활혈거어가 과학적으로 증명", red_peony)
+        self.assertIn("장간막 정맥경화증", gardenia)
+        self.assertIn("PMID 34956536", gardenia)
+
     def test_honeysuckle_and_forsythia_keep_identity_and_evidence_distinctions(self) -> None:
         honeysuckle = (DOCS / "herbs/honeysuckle.md").read_text(encoding="utf-8-sig")
         forsythia = (DOCS / "herbs/forsythia.md").read_text(encoding="utf-8-sig")
