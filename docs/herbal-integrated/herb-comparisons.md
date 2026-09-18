@@ -30,21 +30,25 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 | 황금 | 폐·상초·간담 습열 | [용담사간탕](../formulas/longdan-xiegan-tang.md) · [반하사심탕](../formulas/banxia-xiexin-tang.md) |
 | 황백 | 하초습열·허열 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 
-## 시호 vs 향부자
+## 시호 vs 향부자 {#bupleurum-cyperus}
 
-| | 시호 | 향부자 |
+| 구분 | [시호](../herbs/bupleurum.md) | [향부자](../herbs/cyperus.md) |
 |---|---|---|
-| 핵심 | 화해·소간·승양 | 소간이기·조경 |
-| 처방 | [소요산](../formulas/xiaoyao-san.md), [시호소간산](../formulas/chaihu-shugan-san.md), [보중익기탕](../formulas/buzhong-yiqi-classic.md) | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), [분심기음](../formulas/fenxin-qiyin.md) |
+| 공통점 | 간울과 기기의 울체를 푸는 배합에 참여 | 간울과 기기의 울체를 푸는 배합에 참여 |
+| 상대적 중심 | 화해퇴열·소간해울·승거양기. 소양병과 비기하함까지 처방 문맥이 넓음 | 소간이기·조경지통. 월경·흉복부 기체와 정서 연동 증상에 비중 |
+| 짝약에서 드러나는 차이 | 황금·반하와 소양 화해, 당귀·백작약·백출과 간비 조절, 승마·황기와 승양 | 천궁·지각과 행기지통, 목향·진피 등과 흉복부 기체 조절 |
+| 처방에서 보기 | [소시호탕](../formulas/xiaochaihu-tang.md), [소요산](../formulas/xiaoyao-san.md), [시호소간산](../formulas/chaihu-shugan-san.md), [보중익기탕](../formulas/buzhong-yiqi-classic.md) | [시호소간산](../formulas/chaihu-shugan-san.md), [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), [분심기음](../formulas/fenxin-qiyin.md) |
+
+두 약재를 ‘스트레스 본초’로 묶지 않습니다. 시호소간산처럼 함께 들어가는 처방에서는 시호가 소간의 방향을 열고 향부자가 기체·통증을 세밀하게 조절하는 식으로 역할을 나눠 읽습니다.
 
 ## 후박 · 지실 · 목향 · 사인 {#qi-regulating-herbs}
 
-| 본초 | 핵심 | 처방에서 보기 |
+| 본초 | 핵심과 주치의 중심 | 처방에서 보기 |
 |---|---|---|
-| 후박 | 조습·하기·제만 | [평위산](../formulas/pingwei-san.md), [반하후박탕](../formulas/banxia-houpo-tang.md) |
-| 지실 | 파기·소적 | [대승기탕](../formulas/dachengqi-tang.md), [도담탕](../formulas/daotan-tang.md) |
-| 목향 | 행기지통·건비 | [귀비탕](../formulas/guibi-tang.md), [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
-| 사인 | 화습·행기·온중 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
+| [후박](../herbs/magnolia-bark.md) | 조습·하기·제만. 습체로 무겁고 그득한 창만과 기역 | [평위산](../formulas/pingwei-san.md), [반하후박탕](../formulas/banxia-houpo-tang.md), [대승기탕](../formulas/dachengqi-tang.md) |
+| [지실](../herbs/citrus-immature.md) | 파기소적·화담산비. 비교적 단단한 실증성 적체·비만 | [대승기탕](../formulas/dachengqi-tang.md), [대시호탕](../formulas/dachaihu-tang.md), [온담탕](../formulas/wendan-tang.md), [도담탕](../formulas/daotan-tang.md) |
+| [목향](../herbs/aucklandia.md) | 행기지통·건비. 비위기체의 복통·설사와 식욕저하 | [귀비탕](../formulas/guibi-tang.md), [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
+| [사인](../herbs/amomum.md) | 화습·행기·온중. 습조·한습이 겹친 비위불화 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
 
 진피는 기체를 풀면서 조습화담하는 비중이 있고, 향부자는 간울·월경과 연결되는 기체를 중심으로 봅니다. 따라서 ‘복부가 더부룩하다’는 한 증상만으로 같은 이기약을 고르지 않고 **식적·습담·간울·허실**을 함께 구분합니다.
 
