@@ -2,7 +2,7 @@
 title: 주요 본초 비교·감별
 tags: [본초, 비교, 감별, 임상본초]
 status: 검토완료
-last_reviewed: '2026-09-16'
+last_reviewed: '2026-09-18'
 description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 주요 본초 비교·감별
@@ -104,13 +104,15 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 → [보양·익정 본초 비교](../herbs/categories/tonics.md#yang-tonic-herbs) · [독활기생탕에서 배합 보기](../formulas/duhuo-jisheng-tang.md)
 
-## 맥문동 · 천문동 · 백합
+## 맥문동 · 천문동 · 백합 {#ophiopogon-asparagus-lily}
 
 | 본초 | 특징 | 처방에서 보기 |
 |---|---|---|
-| 맥문동 | 양음생진·윤폐·위음 | [생맥산](../formulas/shengmai-san.md), [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
-| 천문동 | 폐·신 음을 보하며 윤조 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
-| 백합 | 양음윤폐 + 청심안신 | 백합계 처방군과 함께 비교 |
+| [맥문동](../herbs/ophiopogon.md) | 폐·위의 음을 기르고 생진하며 윤폐 | [맥문동탕](../authority/formulas/maidong-tang.md), [생맥산](../formulas/shengmai-san.md), [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
+| [천문동](../herbs/ophiopogon-extra.md) | 폐·신의 음을 보하며 윤조하는 비중 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md), [천왕보심단](../formulas/tianwang-buxin-dan.md) |
+| [백합](../herbs/lily.md) | 양음윤폐에 청심안신을 겸함 | 마른기침과 허번·불안정감이 함께 있는지 봄 |
+
+세 본초는 모두 건조와 음액 부족을 다루지만 병위와 겸효능이 다릅니다. 맥문동은 폐위의 진액과 기역, 천문동은 폐신의 조열, 백합은 폐음과 심신의 번조를 상대적으로 더 비중 있게 봅니다. 객담이 많고 흉민·오심이 뚜렷한 습담은 [반하·진피 중심의 화담 구조](../herbs/categories/phlegm-qi.md)와 먼저 감별합니다.
 
 ## 원지 · 산조인 · 백자인 · 용안육
 
