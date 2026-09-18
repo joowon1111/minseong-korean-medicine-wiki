@@ -171,13 +171,14 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 어지럼·두통이라는 증상만으로 평간식풍약을 고르지 않습니다. 담습·기혈허·이석증·편두통·급성 신경학적 위험신호 등 다른 층위의 원인을 먼저 구분하고, 전통 병증에서는 간양·내풍·담의 동반 양상을 읽습니다.
 
-## 오미자 · 산수유 · 연자육 {#astringent-herbs}
+## 오미자 · 산수유 · 산약 · 연자육 {#astringent-herbs}
 
-| 본초 | 수삽의 중심 | 처방에서 보기 |
-|---|---|---|
-| [오미자](../herbs/schisandra.md) | 렴폐·생진·렴한, 심신 안정 | [생맥산](../formulas/shengmai-san.md), [사신환](../authority/formulas/sishen-wan.md) |
-| [산수유](../herbs/cornus-fructus.md) | 보익간신·삽정·고탈 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md), [팔미지황환](../formulas/bawei-dihuang-wan.md) |
-| [연자육](../herbs/lotus-seed.md) | 보비지사·익신삽정·양심안신 | [삼령백출산](../formulas/shenling-baizhu-san.md), [청심연자음](../formulas/qingxin-lianzi-yin.md) |
+| 본초 | 보익·수삽의 중심 | 자주 구분하는 주치 | 처방에서 보기 |
+|---|---|---|---|
+| [오미자](../herbs/schisandra.md) | 렴폐·생진·렴한, 삽정지사, 영심안신 | 오래된 허성 기침·다한·진액소모·오랜 설사·심계 | [생맥산](../formulas/shengmai-san.md), [소청룡탕](../formulas/xiaoqinglong-tang.md), [사신환](../authority/formulas/sishen-wan.md) |
+| [산수유](../herbs/cornus-fructus.md) | 보익간신·삽정·고탈 | 간신허의 요슬산연·유정·빈뇨·허증성 땀 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md), [팔미지황환](../formulas/bawei-dihuang-wan.md), [공진단](../formulas/gongjin-dan.md) |
+| [산약](../herbs/dioscorea.md) | 보비·익폐·보신하면서 지사·삽정 | 비허 식소·오랜 설사, 폐신허와 유정·대하 | [삼령백출산](../formulas/shenling-baizhu-san.md), [육미지황환](../authority/formulas/liuwei-dihuang-wan.md), [완대탕](../formulas/wandai-tang.md) |
+| [연자육](../herbs/lotus-seed.md) | 보비지사·익신삽정·양심안신 | 비허 설사와 유정·대하, 심계·불면이 겹치는지 확인 | [삼령백출산](../formulas/shenling-baizhu-san.md), [청심연자음](../formulas/qingxin-lianzi-yin.md) |
 
 수삽은 정상 분비를 무조건 억제하는 개념이 아닙니다. 오래된 기침·땀·설사·빈뇨·유정 가운데 **정기 허약으로 고섭이 약해진 병증**을 전제로 하며, 감염·급성 염증·실증성 정체가 남아 있을 때 섣불리 수렴하지 않습니다.
 

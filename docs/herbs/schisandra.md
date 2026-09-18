@@ -1,51 +1,92 @@
-﻿---
-title: 오미자(五味子)
-description: 오미자의 수렴·생진·안신 전통과 lignans·polysaccharides 현대 연구, 생맥산에서의 역할을 정리합니다.
+---
+title: 오미자(五味子) — 렴폐·생진·수삽
+description: 오미자의 렴폐지해·생진렴한·삽정지사·영심안신 효능을 생맥산·소청룡탕·사신환의 배합과 현대 연구로 연결합니다.
 tags: [본초학, 오미자, 수삽약, 생맥산]
 status: 검토완료
-last_reviewed: '2026-09-16'
+last_reviewed: 2026-09-18
 ---
 # 오미자(五味子)
 
-**학명:** *Schisandra chinensis*  
-**영문명:** Schisandra fruit
+오미자는 오미자나무 *Schisandra chinensis*의 성숙한 열매를 약용하는 대표적인 수삽 본초입니다. 폐·신의 기가 오래 새는 기침과 허천, 땀과 진액 소모, 유정·오래된 설사, 심계·불면을 한 약재의 여러 효능으로 연결하지만, 모두 **허증성 누출**이라는 전제가 있는지 먼저 봅니다.
 
-## 개요
-오미자는 이름 그대로 다섯 가지 맛을 지닌다고 하여 붙은 이름으로, 기와 진액을 수렴하고 폐·신을 돕는 대표적인 본초다. [생맥산](../formulas/shengmai-san.md)에서는 인삼·맥문동과 함께 기음양허의 보익 구조를 완성한다.
+## 핵심 정보
 
-## 전통적 효능
-- **렴폐자신(斂肺滋腎)**
-- **생진렴한(生津斂汗)**
-- **삽정지사(澀精止瀉)**
-- **영심안신(寧心安神)**
+| 구분 | 내용 |
+|---|---|
+| 약용부위 | 성숙한 열매 |
+| 성미·귀경 | 산·감, 온; 폐·심·신경을 중심으로 설명 |
+| 핵심 효능 | 렴폐지해, 생진렴한, 삽정지사, 영심안신 |
+| 처방에서의 성격 | 보익약이 지키고 기른 기·음·진액이 흩어지지 않게 거두는 수렴축 |
+| 효능 기준 | [수삽의 공통 정의](../herbal-integrated/efficacy-indication-standard.md#tonify-astringe) |
 
-## 주요 성분
-Schisandrin 계열을 포함한 **lignans**와 polysaccharides가 대표적으로 연구된다.
+‘다섯 맛’이라는 이름은 전통적 성미 이해에 속합니다. 현대 분석에서 확인한 개별 유기산·당·리그난의 조성을 전통의 오미 개념과 그대로 같다고 보지는 않습니다.
 
-## 현대 연구
-Schisandra lignans는 항산화·항염·신경보호·간보호·대사 관련 작용 등 다양한 분야에서 활발히 연구되고 있다. 2025년 종합 리뷰에서는 Schisandra chinensis lignans의 약리학적 가능성을 폭넓게 정리했으며, polysaccharides에 대한 연구도 면역·항산화·대사 영역으로 확대되고 있다.
+## 효능을 주치로 읽기
 
-## 생맥산에서의 역할
-오미자는 인삼의 보기, 맥문동의 양음생진과 함께 **흩어지는 기와 진액을 수렴**하여 생맥산의 간결하면서도 완성도 높은 배합을 만든다.
+| 전통 효능 | 핵심 주치·병기 | 처방에서 확인할 점 |
+|---|---|---|
+| 렴폐지해(斂肺止咳) | 폐기가 소모되어 오래 지속되는 기침·허천 | 외감이 남았거나 담열·실사가 성하면 먼저 사기를 풀어야 하는지 확인 |
+| 생진렴한(生津斂汗) | 기음이 손상된 갈증·구건·다한, 체허성 자한·도한 | 인삼·맥문동처럼 기와 음을 보하는 약과의 역할 분담 |
+| 삽정지사(澀精止瀉) | 신허성 유정·빈뇨, 비신허로 오래 지속되는 설사 | 급성 감염성 설사나 습열·식적을 수렴으로 막지 않음 |
+| 영심안신(寧心安神) | 심신이 소모된 심계·다몽·불면 | 산조인·맥문동·원지 등과 음혈·담·심비의 병기를 구분 |
 
-→ [생맥산](../formulas/shengmai-san.md)
+## 대표 처방에서의 역할
 
-## 같은 수삽약과 구분
+| 처방 | 처방의 중심 | 오미자의 역할 |
+|---|---|---|
+| [생맥산](../formulas/shengmai-san.md) | 기음양허와 진액 소모 | 인삼의 보기, 맥문동의 양음생진과 함께 기·음·진액을 거두어 지키는 축 |
+| [소청룡탕](../formulas/xiaoqinglong-tang.md) | 외한과 내음이 겹친 기침·천식 양상 | 마황·계지·세신의 발산, 건강·반하의 온화음과 함께 폐기를 수렴해 지나친 산산을 조절 |
+| [사신환](../authority/formulas/sishen-wan.md) | 비신양허의 오랜 새벽 설사 | 보골지·육두구·오수유의 온보·온삽 구조에서 수렴을 보조 |
+| [천왕보심단](../formulas/tianwang-buxin-dan.md) | 심음혈허와 허열·심계·불면 | 자음양혈·안신 구조에서 생진·렴심의 역할을 보조 |
 
-[산수유](cornus-fructus.md)는 보익간신·삽정·고탈, [연자육](lotus-seed.md)은 보비지사·익신삽정·양심안신을 중심으로 봅니다. 오미자는 폐·신을 수렴하면서 생진·렴한하고 심신을 안정시키는 비중이 있습니다. 급성 감염이나 실증성 담·열이 남은 기침·설사에 수렴을 먼저 적용하지 않습니다.
+같은 오미자라도 생맥산에서는 **기음과 진액**, 소청룡탕에서는 **발산과 수렴의 균형**, 사신환에서는 **온보와 고삽**, 천왕보심단에서는 **심음과 안신**이라는 처방 문맥이 다릅니다.
 
-→ [오미자·산수유·연자육 비교](../herbal-integrated/herb-comparisons.md#astringent-herbs)
+## 약용부위·가공·품질
 
-## 참고문헌
-1. Ehambarampillai D, et al. *A comprehensive review of Schisandra chinensis lignans.* 2025. PMCID **PMC11984061**.
-2. Panossian A, Wikman G. *Pharmacology of Schisandra chinensis Bail.: an overview of Russian research and uses in medicine.* 2008. PMID **18515024**.
-3. Luan F, et al. *Extraction, purification, structural features, bioactivities and applications of polysaccharides from Schisandra chinensis.* 2024. PMID **38336330**.
+오미자는 열매 전체를 약용하며 과육과 종자에 분포하는 성분이 같지 않습니다. 산미·향·색, 과육의 상태, 종자 비율, 건조와 보관, 기원 종을 함께 확인합니다. 약전과 유통 규격에 따라 기원 식물과 명칭이 구분될 수 있으므로, ‘오미자’라는 일반 식품명만으로 약재 규격을 판단하지 않습니다.
 
-개별 lignan·polysaccharide의 전임상 결과, 오미자 추출물, 오미자가 든 복합처방의 사람 대상 결과는 서로 다른 근거 층입니다. 간효소·염증지표 같은 변화만으로 수삽·생진·안신 전체가 입증됐다고 해석하지 않습니다.
+초오미자·주오미자·초제 등 포제 명칭이 문헌과 제품에 보일 수 있지만, 포제법과 사용 목적은 규격·처방 체계에 따라 확인합니다. 가정에서 임의로 술에 찌거나 볶는 방법을 복용 지침으로 제시하지 않습니다.
 
-<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
-## 관련 핵심 문서
+## 같은 수삽 본초와 구분
 
-- [본초 찾기](../herbal-integrated/herbs.md)
+| 본초 | 수삽과 함께 보는 중심 | 대표 연결 |
+|---|---|---|
+| **오미자** | 폐·신을 수렴하면서 생진·렴한하고 심신을 안정 | 생맥산·소청룡탕·사신환 |
+| [산수유](cornus-fructus.md) | 간신을 보하면서 정·땀·소변 등의 누출을 거둠 | 육미지황환·팔미지황환·공진단 |
+| [산약](dioscorea.md) | 비·폐·신을 평보하면서 설사·대하·유정의 허증성 누출을 도움 | 삼령백출산·육미지황환·완대탕 |
+| [연자육](lotus-seed.md) | 보비지사·익신삽정에 양심안신을 겸함 | 삼령백출산·청심연자음 |
+
+→ [오미자·산수유·산약·연자육 비교](../herbal-integrated/herb-comparisons.md#astringent-herbs)
+
+## 현대 연구는 무엇을 측정했나
+
+오미자 연구에서는 schisandrin·gomisin 계열을 포함한 **lignans**, polysaccharides, 유기산 등이 다뤄집니다. 세포·동물 연구는 산화스트레스·염증 신호·간 손상·신경·대사 관련 지표를 측정하고, 일부 사람 대상 연구는 특정 추출물이나 복합제를 평가합니다.
+
+다음 층을 서로 구분합니다.
+
+- **분리 리그난:** 특정 분자와 신호경로를 시험한 자료
+- **오미자 추출물:** 열매의 추출 부위·용매·표준화 성분이 명시된 자료
+- **오미자 단미 제제:** 사람에서 증상·검사치·이상반응을 평가한 자료
+- **생맥산 등 복합처방:** 인삼·맥문동 등 다른 구성 본초가 포함된 결과
+
+간효소나 염증표지자 변화가 관찰되었다고 해서 렴폐·생진·수삽·안신 전체가 입증되었다고 해석하지 않습니다. 반대로 전통 주치가 같아도 연구에 사용한 추출물과 실제 탕제는 같지 않을 수 있습니다.
+
+## 안전하게 읽기
+
+급성 감염·실열·담적이 남아 있는 기침이나 설사에서는 수렴을 먼저 적용하지 않습니다. 임신·수유 중이거나 간질환이 있는 경우, 처방약을 함께 복용하는 경우에는 제품의 추출물 농도와 병용 가능성을 전문가에게 확인합니다. 숨이 차고 청색증·흉통·고열이 동반되는 기침, 탈수·혈변이 동반되는 설사는 먼저 의학적으로 평가합니다.
+
+## 근거 자료
+
+- Panossian A, Wikman G. [Pharmacology of *Schisandra chinensis*: an overview](https://pubmed.ncbi.nlm.nih.gov/18515024/). *J Ethnopharmacol*. 2008. PMID 18515024.
+- Luan F, et al. [Polysaccharides from *Schisandra chinensis*: extraction, structure and bioactivities](https://pubmed.ncbi.nlm.nih.gov/38336330/). 2024. PMID 38336330.
+- Ehambarampillai D, et al. *A comprehensive review of Schisandra chinensis lignans.* 2025. PMCID PMC11984061.
+- 대한민국약전 및 대한민국약전외한약(생약)규격집의 기원·품질 규격을 함께 확인합니다.
+
+## 관련 문서
+
+- [본초 효능·주치 표준](../herbal-integrated/efficacy-indication-standard.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
+- [수삽약 비교](../herbal-integrated/herb-comparisons.md#astringent-herbs)
 - [방제 찾기](../herbal-integrated/formulas.md)
+
+> 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.

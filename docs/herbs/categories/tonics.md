@@ -3,7 +3,7 @@ title: 보익약 임상 지식망
 description: 보기·보혈·보음·보양·익정 본초를 허증 감별, 대표 처방, 회복·피로 임상과 연결합니다.
 tags: [본초학, 보익약, 기허, 혈허, 신허]
 status: 검토완료
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-18
 ---
 # 보익약 임상 지식망
 
@@ -40,7 +40,7 @@ last_reviewed: 2026-09-16
 | [인삼](../ginseng.md) | 원기와 비·폐의 기를 보하고 진액을 돕는 축 | [사군자탕](../../formulas/sijunzi-tang.md) · [생맥산](../../formulas/shengmai-san.md) |
 | [황기](../astragalus-tonic-guide.md) | 보기승양·고표·탁독생기 | [보중익기탕](../../formulas/buzhong-yiqi-tang.md) · [옥병풍산](../../formulas/yupingfeng-san.md) |
 | [백출](../atractylodes.md) | 건비익기와 조습·지한 | [사군자탕](../../formulas/sijunzi-tang.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) |
-| [산약](../dioscorea.md) | 비·폐·신을 비교적 평하게 보하면서 고삽을 겸함 | [육미지황환](../../formulas/liu%20wei%20dihuang%20wan.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) |
+| [산약](../dioscorea.md) | 비·폐·신을 비교적 평하게 보하면서 고삽을 겸함 | [육미지황환](../../authority/formulas/liuwei-dihuang-wan.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) |
 | [감초](../licorice.md)·[대조](../jujube-fruit.md) | 보중·완급·조화의 보조축 | 실제 처방에서 군약의 역할과 함께 해석 |
 
 ## 보혈약은 활혈약과 어떻게 다른가요?
@@ -60,6 +60,15 @@ last_reviewed: 2026-09-16
 | [산수유](../cornus-fructus.md) | 간신을 보하면서 정·땀·소변 등의 허증성 누출을 거두는 수렴축 | [육미지황환](../../authority/formulas/liuwei-dihuang-wan.md) · [공진단](../../formulas/gongjin-dan.md) |
 
 같은 ‘신허’ 관련 본초라도 녹용은 양과 정혈을 함께 보하는 비중, 두충은 근골, 토사자는 익정·고삽, 육종용은 윤장, 산수유는 수렴의 겸효능이 다릅니다. 따뜻한 성질이나 생식·골 관련 실험지표 하나로 보양 전체를 설명하지 않습니다.
+
+### 육미·팔미지황환에서 산약과 산수유
+
+| 구성 본초 | 보익축에서의 중심 | 다른 구성과의 균형 |
+|---|---|---|
+| [산약](../dioscorea.md) | 비·신을 평하게 보하고 고삽하여 숙지황의 자음익정을 받침 | 복령의 건비이수와 대응해 보하면서 정체되지 않도록 함 |
+| [산수유](../cornus-fructus.md) | 간신을 보하고 정·땀·소변의 허증성 누출을 거둠 | 목단피의 청설·활혈과 대응해 보익과 조절의 균형을 이룸 |
+
+[육미지황환](../../authority/formulas/liuwei-dihuang-wan.md)은 숙지황·산약·산수유의 **삼보(三補)**와 택사·목단피·복령의 **삼사(三瀉)**를 함께 읽습니다. [팔미지황환](../../formulas/bawei-dihuang-wan.md)은 이 틀에 계지·부자의 온양을 더하므로, 산약·산수유의 역할은 유지되지만 처방 전체의 병기는 달라집니다.
 
 → [두충·속단·우슬·골쇄보의 근골 배합 비교](../../herbal-integrated/herb-comparisons.md#kidney-bone-herbs)
 
