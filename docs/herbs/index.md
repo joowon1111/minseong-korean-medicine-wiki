@@ -3,7 +3,7 @@ title: 본초학
 description: 한약재를 이름, 증상과 치료 목적, 본초군, 유사 약재 비교, 처방 구성, 현대 연구와 안전성으로 찾아보는 본초학 통합 안내입니다.
 tags: [본초학, 한약재, 본초 찾기, 한약재 효능]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: '2026-09-18'
 ---
 
 # 본초학
@@ -99,6 +99,7 @@ last_reviewed: '2026-09-05'
 
 ### 청열·습열 {#heat-damp-herbs}
 
+- [금은화](honeysuckle.md)·[연교](forsythia.md)·[포공영](dandelion.md) — 청열해독의 공통점과 소산풍열·소종산결·이뇨통림의 차이
 - [치자](gardenia.md) — 사화제번·청열이습과 처방별 배합
 - [용담·용담초](gentian-root.md) — 청열조습·사간담화
 - [인진·인진호](artemisia-capillaris.md) — 청리습열·퇴황과 기원 구분

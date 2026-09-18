@@ -43,7 +43,7 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
     def test_five_heat_clearing_groups_and_core_herbs_are_present(self) -> None:
         terms = (
             "청열사화", "청열조습", "청열해독", "청열량혈", "청허열",
-            "석고", "지모", "황련", "황금", "황백", "금은화", "연교",
+            "석고", "지모", "황련", "황금", "황백", "금은화", "연교", "포공영",
             "생지황", "목단피", "적작약", "청호", "지골피",
         )
         for term in terms:
@@ -76,7 +76,7 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
     def test_core_heat_herbs_link_back_to_comparison(self) -> None:
         slugs = (
             "gypsum", "anemarrhena", "coptis", "scutellaria", "phellodendron",
-            "honeysuckle", "forsythia", "rehmannia-root-fresh", "moutan",
+            "honeysuckle", "forsythia", "dandelion", "rehmannia-root-fresh", "moutan",
             "red-peony", "qinghao", "digupi",
         )
         for slug in slugs:
@@ -86,7 +86,7 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
 
     def test_expanded_heat_herbs_cover_clinical_reading_layers(self) -> None:
         slugs = (
-            "gypsum", "phellodendron", "honeysuckle", "forsythia",
+            "gypsum", "phellodendron", "honeysuckle", "forsythia", "dandelion",
             "rehmannia-root-fresh", "moutan", "qinghao", "digupi",
         )
         required = ("주치", "처방", "research", "안전")
@@ -131,9 +131,10 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
             self.assertIn("PMID 21040773", text)
             self.assertIn("완전 소실", text)
 
-    def test_honeysuckle_and_forsythia_include_verified_dermatitis_models(self) -> None:
+    def test_forsythia_and_dandelion_include_verified_dermatitis_models(self) -> None:
         honeysuckle = (DOCS / "herbs/honeysuckle.md").read_text(encoding="utf-8-sig")
         forsythia = (DOCS / "herbs/forsythia.md").read_text(encoding="utf-8-sig")
+        dandelion = (DOCS / "herbs/dandelion.md").read_text(encoding="utf-8-sig")
 
         for term in (
             "DNCB로 유도된 마우스의 아토피 피부염에 대한 연교의 효능연구",
@@ -144,13 +145,17 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
             self.assertIn(term, forsythia)
 
         for term in (
-            "금은화 화장수가 DNCB로 유발된 접촉성피부염에 미치는 영향",
-            "ART001144026",
-            "NF-κB 활성 억제를 통한 iNOS 조절",
-            "ART001438794",
-            "NC/Nga",
+            "포공영이 DNCB로 유발된 마우스의 아토피피부염에 미치는 영향",
+            "김문정",
+            "T15537282",
+            "Taraxacum platycarpum",
+            "IgE",
+            "Nrf2",
         ):
-            self.assertIn(term, honeysuckle)
+            self.assertIn(term, dandelion)
+
+        for removed_term in ("ART001144026", "ART001438794", "NC/Nga"):
+            self.assertNotIn(removed_term, honeysuckle)
 
     def test_oversimplified_equations_are_explicitly_rejected(self) -> None:
         for phrase in (
