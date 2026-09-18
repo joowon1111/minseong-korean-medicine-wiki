@@ -1,9 +1,9 @@
 ---
 title: 이수·거습 본초 임상 지식망
-description: 복령·의이인 등 수습대사 본초를 부종·담음·비허·한습과 대표 처방·경혈로 연결합니다.
+description: 복령·택사·저령·의이인·차전자를 수습·부종·담음·습열과 대표 방제·현대 연구 지표로 연결합니다.
 tags: [본초학, 이수, 거습, 담음, 부종]
 status: 검토완료
-last_reviewed: '2026-09-16'
+last_reviewed: 2026-09-18
 ---
 # 이수·거습 본초 임상 지식망
 
@@ -15,9 +15,12 @@ last_reviewed: '2026-09-16'
 
 | 본초 | 전통적 역할 | 대표 연결 |
 |---|---|---|
-| [복령](../poria.md)·[백출](../atractylodes.md) | 건비와 이수·조습 | [육군자탕](../../formulas/liujunzi-tang.md) |
-| [의이인](../coix.md) | 건비삼습·제비 | [삼령백출산](../../formulas/shenling-baizhu-san.md) |
-| [택사](../alisma.md)·[저령](../polyporus.md) | 이수삼습 | [오령산](../../formulas/wuling-san.md) · [저령탕](../../formulas/zhuling-tang.md) |
+| [복령](../poria.md) | 이수삼습·건비·안신 | 비허수습과 담음의 바탕; [육군자탕](../../formulas/liujunzi-tang.md) |
+| [백출](../atractylodes.md) | 건비익기·조습이수 | 비허를 보하면서 습을 말림; [삼령백출산](../../formulas/shenling-baizhu-san.md) |
+| [의이인](../coix.md) | 이수삼습·건비지사·제비배농 | 만성 비허습과 관절·근육의 무거움 |
+| [택사](../alisma.md) | 이수삼습·설열 | 하초의 수습·습열과 보익 처방 속 사법; [오령산](../../formulas/wuling-san.md) |
+| [저령](../polyporus.md) | 이수삼습 | 이수에 비교적 집중; [저령탕](../../formulas/zhuling-tang.md) |
+| [차전자](../plantago-seed.md) | 이수통림·청간명목 | 습열성 임증과 배뇨 불편; [팔정산](../../formulas/bazheng-san.md) |
 | [인진](../artemisia-capillaris.md)·[치자](../gardenia.md) | 청열이습과 퇴황 배합 | [인진의 대표 배합](../artemisia-capillaris.md) |
 
 ## 습을 다루는 방향별 비교 {#damp-herb-groups}
@@ -42,9 +45,17 @@ last_reviewed: '2026-09-16'
 
 → [담음](../../diagnostics/patterns/phlegm-fluid.md) · [한습](../../diagnostics/patterns/cold-damp.md)
 
-## 대표 처방 연결
+## 택사를 처방별로 읽기
 
-오령산 계열 · 삼령백출산 · 육군자탕 · 독활기생탕 등에서 수습 조절의 역할을 살펴볼 수 있습니다.
+| 처방 | 택사가 만나는 구조 | 중심 역할 |
+|---|---|---|
+| [오령산](../../formulas/wuling-san.md) | 저령·복령·백출·계지 | 이수에 건비·통양을 결합 |
+| [저령탕](../../formulas/zhuling-tang.md) | 저령·복령·활석·아교 | 습열성 소변불리에서 이수와 양음의 균형 |
+| [육미지황환](../../authority/formulas/liuwei-dihuang-wan.md) | 숙지황·산수유·산약 + 복령·목단피·택사 | 보신자음 속 삼사의 한 축으로 수습·신열 조절 |
+| [당귀작약산](../../formulas/danggui-shaoyao-san.md) | 당귀·백작약·천궁·백출·복령 | 혈허와 수습이 겹친 구조에서 이수 |
+| [용담사간탕](../../formulas/longdan-xiegan-tang.md) | 용담·황금·치자·차전자 | 간담·하초 습열의 배출을 보조 |
+
+→ [택사 상세](../alisma.md)
 
 ## 경혈 연결
 
@@ -54,4 +65,4 @@ last_reviewed: '2026-09-16'
 
 ## 현대 연구에서 구분할 것
 
-요량·체중·부종둘레·전해질·신장기능·배뇨증상 가운데 연구가 실제로 측정한 결과만 연결합니다. 이뇨작용이 관찰되었다고 비허수습·담음·습열을 모두 설명할 수는 없으며, 탈수와 신장·심장 질환의 감별이 우선입니다.
+요량·체중·부종둘레·전해질·신장기능·배뇨증상 가운데 연구가 실제로 측정한 결과만 연결합니다. 원약재·법제품·추출물·분리성분과 오령산 같은 복합처방도 나누어 봅니다. 이뇨작용이 관찰되었다고 비허수습·담음·습열을 모두 설명할 수는 없으며, 탈수와 신장·심장 질환의 감별이 우선입니다.

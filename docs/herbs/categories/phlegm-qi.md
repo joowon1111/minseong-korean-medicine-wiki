@@ -49,6 +49,19 @@ last_reviewed: 2026-09-18
 
 [이진탕](../../formulas/erchen-tang.md) · [육군자탕](../../formulas/liujunzi-tang.md) · [향사육군자탕](../../formulas/xiangsha-liujunzi-tang.md) · [온담탕](../../formulas/wendan-tang.md) · [반하사심탕](../../formulas/banxia-xiexin-tang.md) · [평위산](../../formulas/pingwei-san.md) · [반하백출천마탕](../../formulas/banxia-baizhu-tianma-tang.md)
 
+### 길경의 선폐거담을 처방별로 읽기
+
+길경은 담을 직접 말리는 조습화담약과 달리 **폐기를 펴고 인후·흉격을 열어 담의 배출을 돕는 방향**으로 배합됩니다.
+
+| 처방 | 함께 쓰이는 약물 | 길경을 읽는 초점 |
+|---|---|---|
+| [은교산](../../formulas/yinqiao-san.md) | 금은화·연교·우방자·박하 | 풍열 초기의 인후 불편과 폐기의 소통 |
+| [상국음](../../formulas/sangju-yin.md) | 상엽·국화·행인 | 비교적 가벼운 풍온성 기침에서 선폐거담 |
+| [삼소음](../../formulas/renshen-suyin.md) | 인삼·자소엽·전호·반하 | 기허를 겸한 외감·담체에서 폐기를 폄 |
+| [삼령백출산](../../formulas/shenling-baizhu-san.md) | 인삼·백출·복령·의이인 | 비허습을 다루면서 상부의 폐기를 소통 |
+
+[길경 상세](../platycodon.md)에서 인후·거담·배농 주치와 혈부축어탕 등 다른 처방에서의 역할을 함께 볼 수 있습니다.
+
 ## 감별
 
 → [담음 vs 식적](../../diagnostics/differentials/phlegm-vs-food-stagnation.md)  
@@ -56,4 +69,4 @@ last_reviewed: 2026-09-18
 
 ## 현대 연구에서 구분할 것
 
-가래·기침과 오심·복부팽만·위배출·현훈은 서로 다른 결과지표입니다. 반하 원약재·법제품·추출물과 이진탕·온담탕 같은 복합처방도 구분하며, 담음 전체를 객담량 하나로 측정하지 않습니다.
+가래·기침과 오심·복부팽만·위배출·현훈은 서로 다른 결과지표입니다. 반하 원약재·법제품·추출물과 이진탕·온담탕 같은 복합처방도 구분하며, 담음 전체를 객담량 하나로 측정하지 않습니다. 기도 점액이나 염증성 cytokine을 측정한 길경 전임상 연구도 선폐거담이라는 전통 개념 전체 또는 사람의 기침 개선과 동일시하지 않습니다.
