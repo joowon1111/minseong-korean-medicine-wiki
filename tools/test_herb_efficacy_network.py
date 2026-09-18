@@ -131,6 +131,27 @@ class HerbEfficacyNetworkTest(unittest.TestCase):
             self.assertIn("PMID 21040773", text)
             self.assertIn("완전 소실", text)
 
+    def test_honeysuckle_and_forsythia_include_verified_dermatitis_models(self) -> None:
+        honeysuckle = (DOCS / "herbs/honeysuckle.md").read_text(encoding="utf-8-sig")
+        forsythia = (DOCS / "herbs/forsythia.md").read_text(encoding="utf-8-sig")
+
+        for term in (
+            "DNCB로 유도된 마우스의 아토피 피부염에 대한 연교의 효능연구",
+            "목정일",
+            "T15537232",
+            "IgE",
+        ):
+            self.assertIn(term, forsythia)
+
+        for term in (
+            "금은화 화장수가 DNCB로 유발된 접촉성피부염에 미치는 영향",
+            "ART001144026",
+            "NF-κB 활성 억제를 통한 iNOS 조절",
+            "ART001438794",
+            "NC/Nga",
+        ):
+            self.assertIn(term, honeysuckle)
+
     def test_oversimplified_equations_are_explicitly_rejected(self) -> None:
         for phrase in (
             "청열=항염", "활혈거어=혈액순환 개선", "보익=면역증강",
