@@ -2,7 +2,7 @@
 title: 본초 찾기
 tags: [본초, 방제, 임상본초, 통합허브]
 status: 검토완료
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-18
 description: 주요 본초 효능의 공통 정의와 주치·병기에서 대표 본초·방제·현대 연구 해석까지 연결하는 효능별 탐색 지도입니다.
 ---
 # 본초 찾기 {#herbs-index}
@@ -80,7 +80,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 |---|---|---|
 | [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md)·[치자](../herbs/gardenia.md) | 청열사화; 기분·장부의 성한 실열 | [백호탕](../formulas/baihu-tang.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
 | [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[용담](../herbs/gentian-root.md) | 청열조습; 습과 열이 결합한 병증 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [용담사간탕](../formulas/longdan-xiegan-tang.md) |
-| [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md) | 청열해독·소산풍열 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) |
+| [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md)·[포공영](../herbs/dandelion.md) | 청열해독; 소산풍열·소종산결·이뇨통림의 차이 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) · 오미소독음 |
 | [생지황](../herbs/rehmannia-root-fresh.md)·[목단피](../herbs/moutan.md)·[적작약](../herbs/red-peony.md) | 청열량혈; 영혈분의 열·혈열 | [청영탕](../formulas/qingying-tang.md) · [청경사물탕](../formulas/qingjing-siwu-tang.md) |
 | [청호](../herbs/qinghao.md)·[지골피](../herbs/digupi.md)·[목단피](../herbs/moutan.md)·[지모](../herbs/anemarrhena.md) | 청허열; 음허·열병 뒤 남은 열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) 등 자음·퇴허열 배합 |
 | [인진·인진호](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md) | 청리습열·퇴황과 배합 비교 | [인진의 대표 배합](../herbs/artemisia-capillaris.md) |

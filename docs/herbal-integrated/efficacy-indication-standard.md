@@ -3,7 +3,7 @@ title: 본초 효능·주치 표준
 description: 주요 본초 효능을 공통 정의·핵심 주치·병기·대표 본초·방제·현대 연구 지표와 해석 한계로 연결하는 표준 지식망입니다.
 tags: [본초학, 효능, 주치, 병기, 한약, 현대연구]
 status: 검토완료
-last_reviewed: '2026-09-16'
+last_reviewed: '2026-09-18'
 ---
 # 본초 효능·주치 표준 {#herb-efficacy-standard}
 
@@ -49,7 +49,7 @@ last_reviewed: '2026-09-16'
 **표준 정의:** 열증을 병위와 병기에 따라 맑히는 본초군입니다. ‘열’은 체온 상승만이 아니라 갈증·번조·황태·출혈·옹종·습열·음허열 등 전통적 증후 묶음을 포함합니다.
 
 - **다섯 핵심 분류:** 청열사화, 청열조습, 청열해독, 청열량혈, 청허열.
-- **대표 본초:** 청열사화에는 [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md)·[치자](../herbs/gardenia.md), 청열조습에는 [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[용담](../herbs/gentian-root.md), 청열해독에는 [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md), 청열량혈에는 [생지황](../herbs/rehmannia-root-fresh.md)·[목단피](../herbs/moutan.md)·[적작약](../herbs/red-peony.md), 청허열에는 [청호](../herbs/qinghao.md)·[지골피](../herbs/digupi.md)를 중심으로 비교합니다.
+- **대표 본초:** 청열사화에는 [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md)·[치자](../herbs/gardenia.md), 청열조습에는 [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[용담](../herbs/gentian-root.md), 청열해독에는 [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md)·[포공영](../herbs/dandelion.md), 청열량혈에는 [생지황](../herbs/rehmannia-root-fresh.md)·[목단피](../herbs/moutan.md)·[적작약](../herbs/red-peony.md), 청허열에는 [청호](../herbs/qinghao.md)·[지골피](../herbs/digupi.md)를 중심으로 비교합니다.
 - **대표 방제:** 청열사화는 [백호탕](../formulas/baihu-tang.md)·[죽엽석고탕](../formulas/zhuye-shigao-tang.md), 청열조습은 [황련해독탕](../formulas/huanglian-jiedu-tang.md)·[용담사간탕](../formulas/longdan-xiegan-tang.md)·[갈근황금황련탕](../formulas/gegen-qinlian-tang.md), 청열해독은 [은교산](../formulas/yinqiao-san.md)·[연교패독산](../formulas/lianqiao-baidu-san.md), 청열량혈은 [청영탕](../formulas/qingying-tang.md)·[청경사물탕](../formulas/qingjing-siwu-tang.md), 청허열은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md) 같은 자음·퇴허열 배합으로 나누어 봅니다.
 - **현대 연구 연결:** 체온·통증·피부병변·감염 관련 임상경과, CRP·cytokine 같은 염증지표, 항균시험 등이 연구될 수 있습니다. 그러나 한 지표의 변화로 청열의 병위·병기 전체를 설명할 수 없습니다.
 

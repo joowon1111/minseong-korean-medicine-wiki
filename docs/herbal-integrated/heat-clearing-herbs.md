@@ -3,7 +3,7 @@ title: 청열약 5분류 비교
 description: 청열사화·청열조습·청열해독·청열량혈·청허열의 정의, 주치, 대표 본초와 방제를 비교하고 현대 연구의 해석 범위를 구분합니다.
 tags: [본초학, 청열약, 청열사화, 청열조습, 청열해독, 청열량혈, 청허열]
 status: 검토완료
-last_reviewed: '2026-09-16'
+last_reviewed: '2026-09-18'
 ---
 # 청열약 5분류 비교 {#heat-clearing-herbs}
 
@@ -15,7 +15,7 @@ last_reviewed: '2026-09-16'
 |---|---|---|---|---|
 | **청열사화(淸熱瀉火)** | 기분·장부의 성한 실열 | 고열·대갈·대한·번조, 폐·위 등의 화열 | [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md)·[치자](../herbs/gardenia.md) | [백호탕](../formulas/baihu-tang.md)·[죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
 | **청열조습(淸熱燥濕)** | 습과 열이 결합한 습열 | 황니태·점체·설사·황달·습열하주 등 | [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[용담](../herbs/gentian-root.md) | [황련해독탕](../formulas/huanglian-jiedu-tang.md)·[용담사간탕](../formulas/longdan-xiegan-tang.md)·[갈근황금황련탕](../formulas/gegen-qinlian-tang.md) |
-| **청열해독(淸熱解毒)** | 열독·화독의 옹종·인후·피부 병변 | 홍종열통·화농·인후종통·풍열 초기 | [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md) | [은교산](../formulas/yinqiao-san.md)·[연교패독산](../formulas/lianqiao-baidu-san.md) |
+| **청열해독(淸熱解毒)** | 열독·화독의 옹종·인후·피부 병변 | 홍종열통·화농·인후종통·풍열 초기 | [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md)·[포공영](../herbs/dandelion.md) | [은교산](../formulas/yinqiao-san.md)·[연교패독산](../formulas/lianqiao-baidu-san.md)·오미소독음 |
 | **청열량혈(淸熱涼血)** | 영혈분의 열과 혈열 | 출혈·발진·심번, 혈열과 어혈의 결합 | [생지황](../herbs/rehmannia-root-fresh.md)·[목단피](../herbs/moutan.md)·[적작약](../herbs/red-peony.md) | [청영탕](../formulas/qingying-tang.md)·[청경사물탕](../formulas/qingjing-siwu-tang.md) |
 | **청허열(淸虛熱)** | 음허·열병 후의 복열·골증 | 오후·야간 열감, 도한, 소모 뒤 남은 열 | [청호](../herbs/qinghao.md)·[지골피](../herbs/digupi.md)·[목단피](../herbs/moutan.md)·[지모](../herbs/anemarrhena.md) | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) 등 자음·퇴허열 배합 |
 
@@ -61,12 +61,13 @@ last_reviewed: '2026-09-16'
 
 **표준 정의:** 열독으로 설명되는 홍종열통·화농·옹종·인후종통·발진 등의 병증을 맑히고 풀어 주는 효능입니다. 여기서 ‘독’은 현대 독성물질이나 해독(detoxification) 프로그램과 같은 뜻이 아닙니다.
 
-### 금은화·연교 비교
+### 금은화·연교·포공영 비교
 
 - [금은화](../herbs/honeysuckle.md) — 청열해독과 소산풍열을 함께 보며 풍열 초기·인후·옹종 배합에서 중심이 됩니다.
 - [연교](../herbs/forsythia.md) — 청열해독에 소종산결·소산풍열의 성격을 더해 결취·종통을 함께 봅니다.
+- [포공영](../herbs/dandelion.md) — 청열해독·소종산결에 이뇨통림을 겸해 국소 종창과 습열성 배뇨 불편을 함께 구분합니다.
 
-[은교산](../formulas/yinqiao-san.md)에서는 두 본초가 풍열표증과 인후 불편을 함께 다루고, [연교패독산](../formulas/lianqiao-baidu-san.md)에서는 옹종·열독의 배합 구조를 봅니다.
+[은교산](../formulas/yinqiao-san.md)에서는 금은화·연교가 풍열표증과 인후 불편을 함께 다루고, [연교패독산](../formulas/lianqiao-baidu-san.md)에서는 옹종·열독의 배합 구조를 봅니다. 포공영은 오미소독음 같은 배합에서 종창·옹종을 다루는 축을 이루며, 습열성 통림을 겸할 때는 배합 방향이 달라집니다.
 
 ### 현대 연구 질문과 한계
 
