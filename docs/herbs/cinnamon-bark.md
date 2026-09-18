@@ -1,55 +1,79 @@
-﻿---
+---
 title: 육계(肉桂)
-description: 육계의 온보신양·온경통맥 전통과 Cinnamomum cassia의 현대 약리 연구, 십전대보탕에서의 역할을 정리합니다.
-tags: [본초학, 육계, 온리약, 십전대보탕]
+description: 육계의 보화조양·인화귀원·산한지통·온경통맥 주치, 계지·건강·부자와의 차이, 대표 처방과 현대 연구를 연결합니다.
+tags: [본초학, 육계, 온리약, 보양, 계피]
 status: 검토완료
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-18
 ---
 # 육계(肉桂)
 
-**대표 기원:** *Cinnamomum cassia* bark  
-**영문명:** Cassia cinnamon bark
+육계는 안쪽의 한을 덥히고 양기를 돕는 동시에 경맥을 통하게 하는 본초입니다. “몸을 따뜻하게 한다”는 생활 표현보다 **신양허, 명문화쇠, 한응기체·혈어, 상열하한처럼 전통적으로 구분한 병기**와 처방의 배오를 먼저 봅니다.
 
-## 개요
-육계는 몸의 양기를 덥히고 경맥을 통하게 하는 대표적인 온리·온보 본초다. [십전대보탕](../formulas/shi-quan-da-bu-tang.md)에서는 황기와 함께 팔물탕의 기혈쌍보 구조에 온보의 방향을 더한다.
+## 기원·약용 부위·수치·전탕 기록 {#processing}
 
-## 기원·약용부위·수치·전탕 기록 {#processing}
+- **생약명:** Cinnamomi Cortex
+- **대표 기원:** *Cinnamomum cassia* 계열
+- **약용 부위:** 수피
+- **성미·귀경:** 신·감, 대열 / 신·비·심·간경
 
-육계는 계피나무 계열의 **수피**를 사용합니다. 어린 가지인 [계지](cinnamon-twig.md)와 같은 약재로 바꾸지 않으며, 식품용 cinnamon 분말·정유·농축추출물도 탕약의 육계와 구분합니다.
+육계는 수피를 사용하며 어린 가지인 [계지](cinnamon-twig.md)와 같은 약재로 바꾸지 않습니다. 식품용 cinnamon 분말, cassia와 Ceylon cinnamon, 정유·농축추출물도 기원과 제형을 구분합니다.
 
 | 확인점 | 기록 원칙 |
 |---|---|
-| 기원·부위 | 학명과 수피 사용 여부, 절편·분말 형태 확인 |
-| 향기성분 | 보관 상태와 휘발성 향의 소실 여부 확인 |
-| 전탕 | 후하·분말 충복 등 실제 조제법을 기록하고 일률적으로 가정하지 않음 |
-| 연구 제제 | cassia·다른 cinnamon 종, 추출물·보충제와 탕약을 분리 해석 |
+| 기원·부위 | 학명과 수피 사용 여부, 절편·분말 형태를 확인 |
+| 향기성분 | 보관 상태와 휘발성 향의 소실 여부를 확인 |
+| 전탕·제형 | 후하·분말 충복·환제 등 실제 문헌과 조제법을 기록하고 일률화하지 않음 |
+| 연구 제제 | 수피·정유·분리성분·보충제와 복합탕약을 분리 해석 |
 
-[십전대보탕](../formulas/shi-quan-da-bu-tang.md)의 소량 온보, [팔미지황환](../formulas/bawei-dihuang-wan.md)의 온양, [우귀환](../formulas/yougui-wan.md)의 보양·정혈 구조는 배합과 제형이 서로 다릅니다.
+## 효능에서 주치로 읽기
 
-## 전통적 효능
-- **보화조양(補火助陽)**
-- **인화귀원(引火歸元)**
-- **산한지통(散寒止痛)**
-- **온경통맥(溫經通脈)**
+| 전통 효능 | 핵심 뜻 | 전통적으로 살피는 주치·병기 |
+|---|---|---|
+| 보화조양(補火助陽) | 명문화를 돕고 쇠한 양기를 북돋움 | 신양허·명문화쇠의 냉감, 허리무릎 무력, 빈뇨 등; 처방 전체로 판단 |
+| 인화귀원(引火歸元) | 허양이 위로 뜬 양상을 근원으로 돌린다는 전통 설명 | 상열감과 하부 냉감 등이 함께 나타나는 허양상부 증후 |
+| 산한지통(散寒止痛) | 한응으로 막힌 기혈을 덥혀 통증을 완화 | 복부·흉부·사지의 냉통, 따뜻하게 하면 편한 양상 |
+| 온경통맥(溫經通脈) | 경맥을 덥히고 기혈의 흐름을 도움 | 한응혈체의 통증·월경 관련 증후, 기혈허한의 순환 불리 |
 
-## 주요 성분
-cinnamaldehyde, cinnamic acid 및 다양한 volatile oils·polyphenols 등이 연구된다.
+보화조양은 보양의 층위이고 산한지통은 온리의 층위입니다. 한 처방에서 겹칠 수 있지만, 육계가 들어갔다고 모든 냉증이나 피로를 같은 병기로 보지는 않습니다.
 
-## 현대 연구
-2021년 종합 리뷰에서는 Cinnamomum cassia의 항염, 항균, 항산화, 대사 관련 등 다양한 약리활성을 정리했다. 임상적으로도 cinnamon 계열은 혈당·지질 대사 등 여러 영역에서 연구되어 왔다.
+## 대표 처방에서 달라지는 역할
 
-## 십전대보탕에서의 역할
-십전대보탕은 팔물탕에 황기와 육계를 더한 구조다. 육계는 단순히 약성을 따뜻하게 하는 것을 넘어, **기혈을 보하는 처방에 온통(溫通)의 방향을 부여**한다.
+| 대표 처방 | 함께 보는 배합 | 육계의 역할 |
+|---|---|---|
+| [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 팔물탕 + 황기·육계 | 기혈쌍보 구조에 온보·온통의 방향을 더함 |
+| [인삼양영탕](../formulas/renshen-yangrong-tang.md) | 인삼·황기·숙지황·당귀·원지 | 기혈허에 심신불안과 한이 겹친 구조에서 온통을 보조 |
+| [팔미지황환](../formulas/bawei-dihuang-wan.md) | 육미지황환 + 육계·부자 | 자음보신의 바탕 안에서 신양과 명문화를 도움 |
+| [우귀환](../formulas/yougui-wan.md) | 숙지황·산약·산수유·녹각교·부자 | 정혈을 보하는 약과 함께 신양허를 온보 |
+| [소복축어탕](../formulas/shaofu-zhuyu-tang.md) | 당귀·천궁·포황·오령지·소회향 | 소복의 한응혈어를 덥히고 활혈·지통 배합을 보조 |
+| [소자강기탕](../formulas/suzi-jiangqi-tang.md) | 자소자·반하·후박·당귀 | 상부의 담기상역과 하부의 허한을 함께 보는 구조에서 하원을 온보 |
 
-→ [십전대보탕](../formulas/shi-quan-da-bu-tang.md)
+팔미지황환의 육계는 자음약과 함께 쓰이고, 소복축어탕에서는 활혈약과 한응을 풀며, 소자강기탕에서는 상하의 담기와 허한을 함께 조절합니다. 이 차이가 육계를 단독 효능표보다 처방 속에서 읽어야 하는 이유입니다.
+
+## 계지·건강·부자와 구분
+
+| 본초 | 중심 방향 | 비교 포인트 |
+|---|---|---|
+| [육계](cinnamon-bark.md) | 보화조양·온경산한 | 수피, 안쪽의 허한과 한응을 온보·온통 |
+| [계지](cinnamon-twig.md) | 해기발표·온통경맥·통양화기 | 어린 가지, 영위·표증과 경맥·수기의 소통 |
+| 건강 | 온중산한·회양통맥·온폐화음 | 비위·폐의 안쪽 한과 한음, 포제에 따른 역할 구분 |
+| 부자 | 회양구역·보화조양·산한지통 | 강한 온양약으로 기원·법제·전탕·독성 관리가 특히 중요 |
+
+→ [온리·온보 본초 임상 지식망](categories/warm-interior.md)
+
+## 현대 연구는 무엇을 측정했나
+
+*Cinnamomum cassia* 연구에서는 cinnamaldehyde, cinnamic acid, 휘발성 성분과 polyphenols 등이 다뤄졌습니다. 세포·동물 연구에서는 염증·산화스트레스·미생물과 대사 지표가, cinnamon 보충제 임상연구에서는 공복혈당·HbA1c·혈중 지질·혈압 등이 주로 측정되었습니다.
+
+연구 대상은 cassia 또는 다른 cinnamon 종, 수피 추출물·분말·정유·분리성분으로 다양합니다. 이런 결과를 육계의 보화조양·인화귀원과 1:1로 대응하거나, 특정 복합처방의 효과로 옮겨 해석하지 않습니다. 임상 결과도 제제·용량·대상군·병용치료와 연구 품질을 함께 확인합니다.
+
+## 안전하게 읽기
+
+식품 향신료와 치료 목적의 농축 제제는 노출량이 다릅니다. 간질환, 항응고·항혈소판제나 혈당강하제 복용, 임신·수유 중에는 기원과 제형·용량·기간을 확인합니다. cassia 계열의 coumarin 노출, 정유의 국소 자극, 복합처방의 다른 약재까지 함께 평가합니다.
 
 ## 참고문헌
-1. Liu S, et al. *A review: the botany, ethnopharmacology, phytochemistry, pharmacology, toxicology and quality control of Cinnamomum cassia.* PMID **35480649**.
-2. Maierean SM, et al. *The effects of cinnamon supplementation on blood lipid concentrations: a systematic review and meta-analysis.* 2017. PMID **28887086**.
 
-<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
-## 관련 핵심 문서
+1. Liu S, et al. *A review: the botany, ethnopharmacology, phytochemistry, pharmacology, toxicology and quality control of Cinnamomum cassia.* 2022. [PMID 35480649](https://pubmed.ncbi.nlm.nih.gov/35480649/).
+2. Maierean SM, et al. *The effects of cinnamon supplementation on blood lipid concentrations: a systematic review and meta-analysis.* 2017. [PMID 28887086](https://pubmed.ncbi.nlm.nih.gov/28887086/).
+3. [계지와 육계의 성분 차이 연구](https://doi.org/10.3390/molecules28052015) — 같은 식물의 가지·수피를 구분해 해석할 근거
 
-- [본초 찾기](../herbal-integrated/herbs.md)
-- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
-- [방제 찾기](../herbal-integrated/formulas.md)
+→ [본초 찾기](../herbal-integrated/herbs.md) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [방제 찾기](../herbal-integrated/formulas.md)
