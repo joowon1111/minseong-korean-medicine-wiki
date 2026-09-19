@@ -249,6 +249,8 @@ last_reviewed: '2026-09-19'
 - [턱관절통증 빠른 안내](tmj-pain.md)
 - [이갈이·이악물기·턱근육 긴장](jaw-clenching-bruxism.md)
 - [턱·관자 근육·MPS 아틀라스](../clinical-anatomy/mps-jaw.md)
+- [안면통증·얼굴통증 감별](facial-pain.md)
+- [귀 주변·관자놀이 통증](../answer-guides/ear-temple-pain-guide.md)
 - [목통증·경항통](./neck-pain.md)
 - [두통](./headache.md)
 - [이명](./tinnitus.md)
