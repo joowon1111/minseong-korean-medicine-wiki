@@ -1,11 +1,11 @@
 ---
 title: 턱·관자 근육·MPS 아틀라스
-description: 턱·관자 주요 근육의 해부 도해, 기능·신경지배와 근막통증 평가를 연결합니다.
+description: 교근·측두근·외측익돌근의 해부 도해와 기능·신경지배, 턱관절 근막통증 평가를 연결합니다.
 tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 ---
 # 턱·관자 근육·MPS 아틀라스 {#overview}
 
-씹기·이악물기와 통증의 관계를 살피는 저작근 도해입니다. 교근은 턱의 가쪽, 측두근은 관자 부위에 넓게 놓이며 턱관절과 함께 움직입니다.
+씹기·이악물기와 통증의 관계를 살피는 저작근 도해입니다. 교근은 턱의 가쪽, 측두근은 관자 부위에 넓게 놓이고, 외측익돌근은 턱관절 안쪽의 깊은 층에서 턱 내밀기와 벌리기에 관여합니다.
 
 [MPS·근육·근막 아틀라스](mps-atlas.md#regions) · [근막과 조직층](mps-atlas.md#layers) · [통증유발점·연관통 평가](mps-atlas.md#assessment)
 
@@ -13,9 +13,9 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 <figure style="display:block;width:100%;max-width:100%;margin-left:0;margin-right:0">
 <object data="/assets/mps-atlas/jaw.svg" type="image/svg+xml" width="960" height="680" style="width:100%;height:auto;aspect-ratio:24/17" aria-label="턱·관자 근육·MPS 아틀라스">
-<img src="/assets/mps-atlas/jaw.svg" alt="옆에서 보기 · 오른쪽이 얼굴 앞. 교근, 측두근 위치 개요" width="960" height="680" loading="lazy" />
+<img src="/assets/mps-atlas/jaw.svg" alt="옆에서 본 교근, 측두근과 깊은 외측익돌근 위치 개요" width="960" height="680" loading="lazy" />
 </object>
-<figcaption>옆에서 보기 · 오른쪽이 얼굴 앞. 색칠된 근육이나 이름을 누르면 기능·평가 설명으로 이동합니다.</figcaption>
+<figcaption>옆에서 본 표층 저작근과 깊은 외측익돌근을 패널별로 표시했습니다. 색칠된 근육이나 이름을 누르면 기능·평가 설명으로 이동합니다.</figcaption>
 </figure>
 
 [도해 크게 보기](../assets/mps-atlas/jaw.svg) · 근육의 연결·층 관계를 단순화한 자체 제작 개요이며, 고정 유발점이나 자침 경로를 표시하지 않습니다.
@@ -52,11 +52,27 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 [그림에서 보기](../assets/mps-atlas/jaw.svg#temporalis)
 
+## 외측익돌근 {#lateral-pterygoid}
+
+**Lateral pterygoid**
+
+| 해부 항목 | 요점 |
+|---|---|
+| 주요 부착 | 나비뼈 큰날개·가쪽날개판 → 아래턱뼈 목의 익돌근오목과 턱관절 관절원판·관절주머니 |
+| 기능 | 턱 내밀기·벌리기와 반대쪽 이동에 참여 |
+| 신경지배 | 삼차신경 아래턱가지(V3)의 외측익돌근신경 |
+
+**평가:** 입을 열 때 턱이 한쪽으로 치우치는지, 내밀기·가쪽 이동에서 귀앞 통증이나 걸림이 재현되는지 확인합니다. 깊은 근육이므로 겉에서 누른 느낌만으로 상태를 확정하지 않습니다.
+
+**함께 구분할 것:** 턱관절 원판장애, 관절염, 치과 질환과 구분하고 관절음만으로 통증 원인을 단정하지 않습니다.
+
+[그림에서 보기](../assets/mps-atlas/jaw.svg#lateral-pterygoid)
+
 ## 부위별 임상 연결 {#clinical}
 
 DC/TMD에서는 개구·촉진으로 평소의 익숙한 통증이 재현되는지 확인합니다. 같은 근육 안으로 퍼지는 통증과 근육 경계를 넘어 느끼는 연관통도 구별합니다. 치통처럼 느껴지더라도 치과 원인 확인을 생략하지 않습니다. [DC/TMD 원 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC4478082/)와 [진단기준표](https://ubwp.buffalo.edu/rdc-tmdinternational/wp-content/uploads/sites/58/2017/01/DC-TMD-Diagnostic-Criteria_2014_01_21.pdf)를 참고합니다.
 
-[턱관절장애](../conditions/temporomandibular-disorder.md) · [목 근육 도해](mps-neck.md)
+[턱관절장애](../conditions/temporomandibular-disorder.md) · [턱관절 통증 치료](../conditions/tmj-pain.md) · [삼차신경통](../conditions/trigeminal-neuralgia.md) · [목 근육 도해](mps-neck.md)
 
 근육을 대상으로 침치료를 계획할 때는 [조직층·안전](mps-atlas.md#treatment)과 [치료 전후 재평가](../acupuncture-integrated/followup.md)를 함께 읽습니다.
 

@@ -37,6 +37,9 @@ def anatomy(id):
   return jaw_base(),p('M88 147 L151 146 L160 210 L108 219 Z','muscle'),p('M100 155 L119 207 M119 155 L133 207 M139 155 L147 204','fiber'),'옆쪽 · 턱 가쪽'
  if id=='temporalis':
   return jaw_base(),p('M46 114 Q23 58 77 35 Q143 15 178 76 L161 122 L140 179 L126 183 L119 130 Z','muscle'),p('M56 67 L132 165 M94 47 L134 161 M152 67 L138 158','fiber'),'옆쪽 · 관자 부위'
+ if id=='lateral-pterygoid':
+  bg=jaw_base()+p('M82 137 L174 137','line')+t(35,112,'깊은 층',12)
+  return bg,p('M67 125 L94 115 L172 145 L164 166 L91 151 Z','muscle'),p('M82 128 L159 151 M89 141 L157 158','fiber'),'옆쪽 투영 · 깊은 층'
  if id=='upper-trapezius':
   return neck_base(),p('M116 87 L115 176 Q78 193 30 201 L48 218 Q103 205 120 163 Q138 205 195 218 L213 201 Q169 194 127 176 L125 87 Z','muscle'),p('M118 112 Q105 175 45 207 M123 112 Q139 180 198 207','fiber'),'뒤쪽 · 표층'
  if id=='levator-scapulae':
@@ -45,6 +48,9 @@ def anatomy(id):
   bg=ellipse(120,51,86,53,'skin')+p('M51 155 L189 155 M57 212 L182 212 M120 184 L120 272','bone')+t(196,158,'C1',13)+t(190,217,'C2',13)+t(75,23,'뒤통수뼈',13)
   shape=p('M115 151 L97 100 L112 104 Z M125 151 L128 104 L143 100 Z M113 208 L61 88 L88 102 Z M126 208 L153 102 L180 88 Z M57 151 L42 78 L62 85 Z M183 151 L178 86 L196 79 Z M117 210 L54 158 L72 151 Z M124 210 L167 151 L186 158 Z','muscle')
   return bg,shape,'','뒤쪽 · 심층 확대'
+ if id=='sternocleidomastoid':
+  bg=ellipse(114,52,51,52,'skin')+p('M84 92 L75 184 Q58 213 65 308 L166 308 Q171 216 151 183 L145 92 Z','skin')+p('M76 276 Q115 251 164 276','bone')+p('M72 291 L158 291','bone')+t(158,68,'꼭지돌기',12)+t(73,334,'복장뼈·빗장뼈',12)
+  return bg,p('M145 74 L153 89 L126 183 L142 283 L123 291 L110 184 L132 90 Z','muscle'),p('M141 91 L119 180 L132 276','fiber'),'옆앞쪽 · 표층'
  if id in ('supraspinatus','infraspinatus','rhomboids'):
   bg=scapula()
   if id=='supraspinatus':return bg,p('M70 103 Q118 74 175 83 L217 112 L204 124 L170 103 L73 117 Z','muscle'),p('M80 104 L205 114 M83 110 L204 118','fiber'),'뒤쪽 · 가시 위'
@@ -53,19 +59,32 @@ def anatomy(id):
  if id=='pectoralis-minor':
   bg=p('M49 56 L50 289','bone')+''.join(p(f'M54 {y} Q132 {y-25} 205 {y+12}','bone') for y in (120,155,190,225))+p('M71 55 Q128 39 194 69','bone')+p('M192 78 L179 102 L192 112 L204 89 Z')+t(6,164,'3–5',12)+t(4,186,'갈비뼈',12)+t(138,29,'부리돌기',12)
   return bg,p('M86 156 L189 97 L166 151 L116 234 L84 220 L100 192 L83 187 L103 166 Z','muscle'),p('M94 160 L179 111 M106 193 L179 117 M107 224 L178 124','fiber'),'앞쪽 · 대흉근 생략'
+ if id=='serratus-anterior':
+  bg=p('M67 57 L68 287','bone')+''.join(p(f'M70 {y} Q142 {y-22} 211 {y+12}','bone') for y in (105,139,173,207,241))+p('M178 60 L205 83 L184 264 L160 258 L166 91 Z')+t(7,169,'갈비뼈',12)+t(160,303,'견갑골',12)
+  shape=p('M83 99 L177 77 L178 105 L92 120 Z M84 132 L177 109 L176 136 L93 152 Z M85 164 L175 141 L173 169 L94 184 Z M86 197 L172 174 L170 202 L96 216 Z M89 229 L169 207 L166 239 L99 248 Z','muscle')
+  return bg,shape,p('M97 108 L172 91 M99 142 L170 123 M100 175 L168 156 M101 207 L165 190 M104 238 L162 224','fiber'),'가쪽 흉곽 · 대흉근 생략'
  if id=='ecrb':return forearm_base(),p('M88 44 Q137 79 127 159 L119 226 L122 272 L135 308 L126 312 L111 273 L108 226 Q78 142 84 74 Z','muscle'),p('M92 64 Q116 136 113 218','fiber'),'뒤쪽 · 손등 방향'
  if id=='pronator-teres':return forearm_base(True),p('M161 49 L155 79 L96 174 L84 165 L128 74 L139 53 Z','muscle'),p('M148 67 L94 158','fiber'),'앞쪽 · 손바닥 방향'
+ if id=='flexor-carpi-radialis':return forearm_base(True),p('M132 47 Q150 73 140 126 L126 238 L132 302 L119 307 L110 239 L112 125 Q111 76 119 51 Z','muscle'),p('M127 65 L122 237 L126 294','fiber'),'앞쪽 · 노쪽 굽힘근'
  if id=='quadratus-lumborum':return lumbar_base(),p('M149 101 L188 86 L185 241 L155 250 L142 228 L151 209 L141 187 L150 168 L140 142 Z','muscle'),p('M159 112 L164 233 M178 106 L176 231','fiber'),'뒤쪽 투영 · 후복벽'
  if id=='multifidus':return lumbar_base(),p('M114 106 L90 166 L110 151 L84 210 L106 194 L75 257 L94 270 L118 222 L104 238 L122 184 L110 198 L124 146 Z M128 106 L143 165 L134 151 L156 211 L138 192 L171 257 L152 270 L128 222 L141 238 L126 184 L138 198 L123 146 Z','muscle'),p('M87 254 L119 192 M155 252 L130 192','fiber'),'뒤쪽 · 척추 가까운 심층'
+ if id=='erector-spinae':return lumbar_base(),p('M74 92 Q58 148 68 258 L91 286 L108 263 L103 113 Z M137 111 L130 263 L149 286 L172 257 Q181 147 164 92 Z','muscle'),p('M87 105 L84 263 M151 105 L151 264','fiber'),'뒤쪽 · 척추 양옆'
  if id=='gluteus-medius':return hip_base(),p('M44 75 Q107 19 192 56 L193 92 Q191 129 184 179 L168 180 Q128 127 44 75 Z','muscle'),p('M57 75 L175 168 M106 52 L179 166 M168 53 L183 168','fiber'),'가쪽 · 대둔근 생략'
  if id=='gluteus-minimus':return hip_base(),p('M77 103 Q126 62 193 92 L194 132 L183 182 L167 180 Q123 139 77 103 Z','muscle'),p('M91 103 L176 170 M133 89 L179 167 M176 99 L183 166','fiber'),'가쪽 · 중둔근 생략'
  if id=='piriformis':
   bg=p('M20 69 L60 77 L78 179 L50 218 L19 153 Z')+p('M74 49 Q157 26 209 73 L198 149 L151 187 L104 170 L76 116 Z')+p('M181 174 Q215 164 218 204 L209 325 L184 325 L180 221 L146 199 Z')+p('M93 160 Q118 209 111 314','nerve')+t(22,35,'천골',13)+t(9,344,'노랑: 좌골신경 개요',12)
   return bg,p('M43 105 L47 140 L186 195 L198 180 L118 135 Z','muscle'),p('M51 119 L186 184','fiber'),'뒤쪽 · 대둔근 생략'
+ if id=='gluteus-maximus':
+  bg=hip_base()+p('M28 65 L72 132','bone')
+  return bg,p('M42 70 Q103 39 184 74 L199 127 L167 205 L131 227 L77 207 L43 157 Z','muscle'),p('M58 88 L169 188 M50 116 L148 211 M83 67 L184 159 M126 67 L194 130','fiber'),'뒤쪽 · 표층'
  if id=='rectus-femoris':return thigh_base(),p('M121 51 Q97 112 99 175 Q100 230 116 266 L132 266 Q148 222 147 174 Q145 103 127 51 Z','muscle'),p('M121 83 L121 251 M130 89 L130 245','fiber'),'앞쪽 · 고관절도 지남'
  if id=='vastus-medialis':return thigh_base(),p('M144 109 Q173 151 172 223 Q172 257 148 278 L139 263 Q157 229 140 179 Z','muscle'),p('M155 178 L160 218 L148 262 M158 238 L146 262','fiber'),'앞쪽 · 안쪽 부분'
+ if id=='hamstrings':return thigh_base(),p('M79 60 Q62 120 73 207 L89 282 L110 282 L119 210 L116 61 Z M128 60 L126 209 L140 282 L160 282 L173 205 Q178 117 161 58 Z','muscle'),p('M91 75 L96 264 M144 75 L151 264','fiber'),'뒤쪽 · 넓적다리뒤근군'
+ if id=='adductor-longus':return thigh_base(),p('M111 61 L135 63 L160 238 L143 267 L123 196 L105 101 Z','muscle'),p('M120 77 L149 238','fiber'),'앞안쪽 · 표층 내전근'
  if id=='gastrocnemius':return calf_base(),p('M77 29 Q49 74 67 147 Q83 186 108 200 L111 273 L104 324 L132 324 L130 270 L134 199 Q172 179 177 134 Q185 69 162 30 L130 43 L122 147 L115 45 Z','muscle'),p('M86 46 Q68 108 111 178 M150 49 Q172 110 133 177 M120 216 L117 313','fiber'),'뒤쪽 · 표층 두 갈래'
  if id=='soleus':return calf_base(),p('M74 69 Q47 137 78 209 L108 272 L106 324 L133 324 L132 270 L164 208 Q190 134 164 71 L140 83 L102 84 Z','muscle'),p('M84 98 L111 241 M155 97 L130 242 M120 266 L119 315','fiber'),'뒤쪽 · 비복근 생략'
+ if id=='tibialis-anterior':return calf_base(),p('M92 35 Q78 107 91 206 L104 286 L101 326 L117 327 L122 286 L119 205 L121 50 Z','muscle'),p('M104 50 L106 281 L109 315','fiber'),'앞쪽 · 정강뼈 가쪽'
+ if id=='tibialis-posterior':return calf_base(),p('M113 58 L132 58 L143 179 L130 268 L132 323 L111 323 L113 267 L101 180 Z','muscle'),p('M120 73 L121 305','fiber'),'뒤쪽 · 깊은 층'
  raise ValueError(id)
 
 def render_region(region):
