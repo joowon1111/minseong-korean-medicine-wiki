@@ -3,7 +3,7 @@ title: 통증·근골격 한의학 허브
 description: 허리·등·옆구리·목·어깨·턱·손목·무릎·발목통증을 감별, 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 통증, 근골격, 한의학지식망]
 status: 검토완료
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-19
 ---
 
 # 통증·근골격 한의학 허브
@@ -16,12 +16,24 @@ last_reviewed: 2026-09-18
 
 | 부위 | 대표 문서 |
 |---|---|
-| 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) |
-| 목·어깨 | [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md) |
+| 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) |
+| 목·어깨 | [목통증](../conditions/neck-pain.md) · [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [어깨통증](../conditions/shoulder-pain.md) |
 | 얼굴·턱 | [턱관절통증](../conditions/temporomandibular-disorder.md) |
-| 팔·손목 | [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel.md) |
+| 팔·손목 | [팔·손 저림](../conditions/arm-numbness.md) · [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel.md) |
 | 무릎·발목·발 | [무릎통증](../conditions/knee-pain.md) · [발목통증](../conditions/ankle-pain.md) · [족저근막염](../conditions/plantar-fasciitis.md) |
 | 전신·신경통 | [전신통증](../symptom-herbal-guide/systemic-skin/r52-generalized-pain.md) · [대상포진 후 신경통](../conditions/postherpetic-neuralgia.md) |
+
+## 척추통증·방사통·저림으로 바로 찾기
+
+| 가장 두드러지는 양상 | 먼저 볼 문서 | 구분할 핵심 |
+|---|---|---|
+| 허리에서 한쪽 다리로 뻗는 통증·저림 | [허리디스크·요추 신경근병증](../conditions/lumbar-disc-herniation.md) · [좌골신경통](../conditions/sciatica.md) | 신경근 분포, 기침·자세 영향, 근력·반사 |
+| 서거나 걸을수록 다리가 저리고 숙이거나 앉으면 완화 | [척추관협착증·보행통증](../conditions/lumbar-spinal-stenosis.md) | 신경인성 파행과 혈관성 파행 구분 |
+| 목·견갑부에서 팔과 손으로 뻗는 통증·저림 | [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [팔·손 저림](../conditions/arm-numbness.md) | 경추 신경근과 손목·팔꿈치 말초신경 구분 |
+| 양발 끝부터 대칭적으로 올라오는 저림 | [발·하지 저림](../conditions/foot-numbness.md) · [손발저림](../conditions/limb-numbness.md) | 당뇨·약물·영양·말초신경·혈관 원인 |
+| 등 가운데 통증, 흉곽·갈비뼈와 연동되는 통증 | [등통증·흉추통증](../conditions/thoracic-back-pain.md) | 근골격 통증과 흉부·복부 장기 위험신호 |
+
+디스크·협착 같은 영상 소견은 증상이 없는 사람에게도 보일 수 있습니다. 영상 이름보다 실제 통증 경로, 감각·근력·반사, 보행 기능이 서로 맞는지를 먼저 확인합니다.
 
 ## 통증의 양상으로 구분하기
 
