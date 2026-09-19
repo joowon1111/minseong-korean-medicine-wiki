@@ -3,7 +3,7 @@ title: 수면·정서·신경 한의학 허브
 description: 불면·불안·두통·어지럼·이명·저림·하지불안·브레인포그를 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 수면, 정서, 신경계, 안신]
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-19
 ---
 
 # 수면·정서·신경 한의학 허브
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-06
 | 잠들기 어렵거나 자주 깸 | [불면증·수면장애](../conditions/insomnia.md) |
 | 걱정과 긴장이 지속됨 | [불안·과도한 걱정](../conditions/anxiety.md) |
 | 억울함·분노와 가슴 답답함·상열감이 반복됨 | [화병·울화·가슴답답함](../conditions/hwabyeong.md) |
-| 머리가 아프고 뒷목이 당김 | [두통](../conditions/headache.md) · [긴장형두통](../conditions/tension-headache.md) |
+| 머리가 아프고 뒷목이 당기거나 찌릿함 | [두통](../conditions/headache.md) · [긴장형두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md) |
 | 빙빙 돌거나 휘청거림 | [어지럼](../conditions/dizziness.md) |
 | 귀에서 소리가 남 | [이명](../conditions/tinnitus.md) |
 | 손발·팔다리가 저림 | [손발저림](../conditions/limb-numbness.md) |
@@ -52,7 +52,7 @@ last_reviewed: 2026-09-06
 
 수면과 신경 증상을 더 구체적으로 살펴볼 수 있습니다. 잠들기·각성·회복감의 차이와 두통의 유형을 나누고 관련 변증·처방으로 이어집니다.
 
-[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md) · [편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md)
+[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md) · [편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md)
 
 자율신경 관련 증상은 원인 감별을, 갑작스러운 안면마비는 초기 치료 시기와 눈 보호를 함께 확인합니다.
 
