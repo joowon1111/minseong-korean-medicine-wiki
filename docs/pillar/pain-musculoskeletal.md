@@ -1,6 +1,6 @@
 ---
 title: 통증·근골격 한의학 허브
-description: 두통·신경통과 척추·어깨·팔꿈치·손목·고관절·무릎·발목·발뒤꿈치 통증을 감별, 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
+description: 두통·신경통과 척추·견갑·팔꿈치·손목·손가락·둔부·무릎·발목·아킬레스건 통증을 감별, 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 통증, 근골격, 한의학지식망]
 status: 검토완료
 last_reviewed: 2026-09-19
@@ -18,11 +18,11 @@ last_reviewed: 2026-09-19
 |---|---|
 | 머리·뒤통수 | [두통](../conditions/headache.md) · [편두통](../conditions/migraine.md) · [긴장형두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md) |
 | 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) |
-| 목·어깨 | [목통증](../conditions/neck-pain.md) · [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [어깨통증](../conditions/shoulder-pain.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) |
+| 목·어깨·견갑 | [목통증](../conditions/neck-pain.md) · [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [어깨통증](../conditions/shoulder-pain.md) · [견갑골 안쪽 통증](../conditions/scapular-pain.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) |
 | 얼굴·턱 | [턱관절통증](../conditions/temporomandibular-disorder.md) |
-| 팔꿈치·손목 | [테니스엘보](../conditions/tennis-elbow.md) · [팔·손 저림](../conditions/arm-numbness.md) · [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel.md) |
-| 고관절·무릎 | [고관절·엉덩관절 통증](../conditions/hip-pain.md) · [무릎통증](../conditions/knee-pain.md) |
-| 발목·발 | [발목통증](../conditions/ankle-pain.md) · [족저근막염·발뒤꿈치 통증](../conditions/plantar-fasciitis.md) · [발·하지 저림](../conditions/foot-numbness.md) |
+| 팔꿈치·손목·손가락 | [테니스엘보](../conditions/tennis-elbow.md) · [골프엘보](../conditions/golfer-elbow.md) · [팔·손 저림](../conditions/arm-numbness.md) · [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel.md) · [드퀘르벵](../conditions/dequervain.md) · [방아쇠수지](../conditions/trigger-finger.md) |
+| 둔부·고관절·무릎 | [엉치·둔부 통증](../conditions/buttock-pain.md) · [이상근·심부둔부증후군](../conditions/piriformis-syndrome.md) · [고관절·엉덩관절 통증](../conditions/hip-pain.md) · [무릎통증](../conditions/knee-pain.md) |
+| 발목·발 | [발목통증](../conditions/ankle-pain.md) · [아킬레스건 통증](../conditions/achilles-pain.md) · [족저근막염·발뒤꿈치 통증](../conditions/plantar-fasciitis.md) · [발·하지 저림](../conditions/foot-numbness.md) |
 | 전신·신경통 | [전신통증](../symptom-herbal-guide/systemic-skin/r52-generalized-pain.md) · [대상포진 후 신경통](../conditions/postherpetic-neuralgia.md) |
 
 ## 척추통증·방사통·저림으로 바로 찾기

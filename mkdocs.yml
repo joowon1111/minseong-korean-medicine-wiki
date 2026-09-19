@@ -615,12 +615,18 @@ nav:
       - 손목터널증후군: conditions/carpal-tunnel.md
       - 턱관절통증·입 벌릴 때 아파요: conditions/temporomandibular-disorder.md
       - 어깨통증: conditions/shoulder-pain.md
+      - 날개뼈·견갑골 안쪽 통증: conditions/scapular-pain.md
       - 오십견: conditions/frozen-shoulder.md
       - 회전근개 통증·파열: conditions/rotator-cuff-pain.md
       - 테니스엘보: conditions/tennis-elbow.md
+      - 골프엘보·팔꿈치 안쪽 통증: conditions/golfer-elbow.md
       - 교통사고 후유증: conditions/traffic-accident-sequelae.md
       - 손목통증·엄지쪽 손목이 아파요: conditions/wrist-pain.md
+      - 드퀘르벵 건초염·엄지쪽 손목통증: conditions/dequervain.md
+      - 방아쇠수지·손가락 걸림: conditions/trigger-finger.md
       - 고관절·엉덩관절 통증: conditions/hip-pain.md
+      - 엉치·둔부 통증: conditions/buttock-pain.md
+      - 이상근·심부둔부증후군: conditions/piriformis-syndrome.md
       - 무릎통증: conditions/knee-pain.md
       - 통풍·요산 관리: conditions/gout.md
       - 류마티스관절염: conditions/rheumatoid-arthritis.md
@@ -632,6 +638,7 @@ nav:
       - 갱년기 관절통: conditions/menopause-joint-pain.md
       - 발목통증: conditions/ankle-pain.md
       - 족저근막염·발뒤꿈치통증: conditions/plantar-fasciitis.md
+      - 아킬레스건 통증: conditions/achilles-pain.md
     - 신경·감각·순환:
       - 두통: conditions/headache.md
       - 편두통: conditions/migraine.md
