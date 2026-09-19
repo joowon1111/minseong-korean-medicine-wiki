@@ -175,6 +175,8 @@ last_reviewed: 2026-09-06
 - [편두통](./migraine.md)
 - [긴장형두통](./tension-headache.md)
 - [경추성두통](./cervicogenic-headache.md)
+- [안면통증·얼굴통증 감별](./facial-pain.md)
+- [귀 주변·관자놀이 통증](../answer-guides/ear-temple-pain-guide.md)
 - [목통증](./neck-pain.md)
 - [어지럼](./dizziness.md)
 - [두통·어지럼 한약 처방](../herbal-integrated/formula-for-headache.md)
