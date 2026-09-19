@@ -75,6 +75,7 @@ last_reviewed: 2026-09-19
 
 ## 침구치료와 임상근거
 
+- [MPS·근육·근막 해부 아틀라스](../clinical-anatomy/mps-atlas.md) — 부위별 근육 위치·기능·신경지배와 통증 재현 동작
 - [경맥→증상 임상 지도](../acupoint-network/by-condition.md)
 - [침](../treatments/acupuncture.md) · [전침](../treatments/electroacupuncture.md) · [약침](../treatments/pharmacopuncture.md) · [부항](../treatments/cupping.md) · [뜸](../treatments/moxibustion.md)
 - [임상 핵심 배혈 조합](../network/acupoint-combinations.md)

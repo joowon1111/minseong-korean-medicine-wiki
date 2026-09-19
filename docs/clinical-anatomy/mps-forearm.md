@@ -1,11 +1,11 @@
 ---
 title: 팔꿈치·아래팔 근육·MPS 아틀라스
-description: 팔꿈치·아래팔 주요 근육의 해부 도해, 기능·신경지배와 근막통증 평가를 연결합니다.
+description: 손목폄근·원회내근·요측수근굴근의 해부 도해와 기능·신경지배, 팔꿈치·아래팔 근막통증 평가를 연결합니다.
 tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 ---
 # 팔꿈치·아래팔 근육·MPS 아틀라스 {#overview}
 
-쥐기·손목 젖히기와 아래팔 돌리기는 다른 근육에 부하를 줍니다. 짧은노쪽손목폄근과 원회내근을 비교하면 힘줄 통증과 신경포착을 함께 살필 수 있습니다.
+쥐기·손목 젖히기, 손목 굽히기와 아래팔 돌리기는 서로 다른 근육·힘줄에 부하를 줍니다. 짧은노쪽손목폄근, 원회내근, 요측수근굴근을 비교하면 팔꿈치 안팎의 힘줄 통증과 정중·요골신경 증상을 함께 살필 수 있습니다.
 
 [MPS·근육·근막 아틀라스](mps-atlas.md#regions) · [근막과 조직층](mps-atlas.md#layers) · [통증유발점·연관통 평가](mps-atlas.md#assessment)
 
@@ -13,9 +13,9 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 <figure style="display:block;width:100%;max-width:100%;margin-left:0;margin-right:0">
 <object data="/assets/mps-atlas/forearm.svg" type="image/svg+xml" width="960" height="680" style="width:100%;height:auto;aspect-ratio:24/17" aria-label="팔꿈치·아래팔 근육·MPS 아틀라스">
-<img src="/assets/mps-atlas/forearm.svg" alt="손등 쪽 신전근 / 손바닥 쪽 회내근. 단요측수근신근, 원회내근 위치 개요" width="960" height="680" loading="lazy" />
+<img src="/assets/mps-atlas/forearm.svg" alt="손등 쪽 단요측수근신근과 손바닥 쪽 원회내근·요측수근굴근 위치 개요" width="960" height="680" loading="lazy" />
 </object>
-<figcaption>손등 쪽 신전근 / 손바닥 쪽 회내근. 색칠된 근육이나 이름을 누르면 기능·평가 설명으로 이동합니다.</figcaption>
+<figcaption>손등 쪽 신전근과 손바닥 쪽 회내근·굽힘근을 패널별로 표시했습니다. 색칠된 근육이나 이름을 누르면 기능·평가 설명으로 이동합니다.</figcaption>
 </figure>
 
 [도해 크게 보기](../assets/mps-atlas/forearm.svg) · 근육의 연결·층 관계를 단순화한 자체 제작 개요이며, 고정 유발점이나 자침 경로를 표시하지 않습니다.
@@ -52,11 +52,27 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 [그림에서 보기](../assets/mps-atlas/forearm.svg#pronator-teres)
 
+## 요측수근굴근 {#flexor-carpi-radialis}
+
+**Flexor carpi radialis · FCR**
+
+| 해부 항목 | 요점 |
+|---|---|
+| 주요 부착 | 위팔뼈 안쪽위관절융기의 공통굽힘근힘줄 → 제2·3손허리뼈 바닥 |
+| 기능 | 손목 굽힘·노쪽 치우침 |
+| 신경지배 | 정중신경(C6–C7) |
+
+**평가:** 저항성 손목 굽힘과 노쪽 치우침에서 팔꿈치 안쪽, 아래팔, 손목 앞쪽 중 어디에 증상이 재현되는지 나누어 기록합니다. 반복 쥐기와 타이핑·도구 사용에서 부하가 쌓이는 지점도 확인합니다.
+
+**함께 구분할 것:** 안쪽상과 힘줄병, 손목의 FCR 힘줄 문제, 정중신경 증상을 구분합니다.
+
+[그림에서 보기](../assets/mps-atlas/forearm.svg#flexor-carpi-radialis)
+
 ## 부위별 임상 연결 {#clinical}
 
 통증 위치, 쥐는 기능, 손목 움직임, 손가락 감각을 기록합니다. 팔꿈치 바깥 힘줄의 압통을 모두 MPS로 설명하거나, 손 저림을 단순 근육 긴장으로 처리하지 않습니다.
 
-[외측상과통 근거](../authority/conditions/lateral-epicondylitis.md) · [원회내근증후군](../nerve-entrapment/pronator-syndrome.md) · [요골신경 포착](../nerve-entrapment/radial-entrapment.md)
+[테니스엘보](../conditions/tennis-elbow.md) · [손목 통증](../conditions/wrist-pain.md) · [팔·손 저림](../conditions/arm-numbness.md) · [원회내근증후군](../nerve-entrapment/pronator-syndrome.md) · [요골신경 포착](../nerve-entrapment/radial-entrapment.md)
 
 근육을 대상으로 침치료를 계획할 때는 [조직층·안전](mps-atlas.md#treatment)과 [치료 전후 재평가](../acupuncture-integrated/followup.md)를 함께 읽습니다.
 

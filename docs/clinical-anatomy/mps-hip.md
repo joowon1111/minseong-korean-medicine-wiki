@@ -1,11 +1,11 @@
 ---
 title: 엉덩이·고관절 근육·MPS 아틀라스
-description: 엉덩이·고관절 주요 근육의 해부 도해, 기능·신경지배와 근막통증 평가를 연결합니다.
+description: 중둔근·소둔근·이상근·대둔근의 해부 도해와 기능·신경지배, 엉덩이·고관절 근막통증 평가를 연결합니다.
 tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 ---
 # 엉덩이·고관절 근육·MPS 아틀라스 {#overview}
 
-엉덩이 가쪽의 중둔근·소둔근은 보행 중 골반 조절에 중요하고, 이상근은 둔부 깊은 곳에 놓입니다. 표층과 심층을 분리해 고관절·좌골신경과의 관계를 읽습니다.
+엉덩이 가쪽의 중둔근·소둔근은 보행 중 골반 조절에 중요하고, 이상근은 둔부 깊은 곳, 대둔근은 뒤쪽 표층에 놓입니다. 표층과 심층을 분리해 고관절·좌골신경과 일어서기·보행 기능의 관계를 읽습니다.
 
 [MPS·근육·근막 아틀라스](mps-atlas.md#regions) · [근막과 조직층](mps-atlas.md#layers) · [통증유발점·연관통 평가](mps-atlas.md#assessment)
 
@@ -13,9 +13,9 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 <figure style="display:block;width:100%;max-width:100%;margin-left:0;margin-right:0">
 <object data="/assets/mps-atlas/hip.svg" type="image/svg+xml" width="960" height="680" style="width:100%;height:auto;aspect-ratio:24/17" aria-label="엉덩이·고관절 근육·MPS 아틀라스">
-<img src="/assets/mps-atlas/hip.svg" alt="가쪽 중둔근 / 중둔근을 걷어낸 소둔근 / 뒤쪽 이상근. 중둔근, 소둔근, 이상근 위치 개요" width="960" height="680" loading="lazy" />
+<img src="/assets/mps-atlas/hip.svg" alt="가쪽 중둔근·소둔근과 뒤쪽 이상근·대둔근의 층별 위치 개요" width="960" height="680" loading="lazy" />
 </object>
-<figcaption>가쪽 중둔근 / 중둔근을 걷어낸 소둔근 / 뒤쪽 이상근. 색칠된 근육이나 이름을 누르면 기능·평가 설명으로 이동합니다.</figcaption>
+<figcaption>가쪽 중둔근·소둔근과 뒤쪽의 깊은 이상근·표층 대둔근을 패널별로 표시했습니다. 색칠된 근육이나 이름을 누르면 기능·평가 설명으로 이동합니다.</figcaption>
 </figure>
 
 [도해 크게 보기](../assets/mps-atlas/hip.svg) · 근육의 연결·층 관계를 단순화한 자체 제작 개요이며, 고정 유발점이나 자침 경로를 표시하지 않습니다.
@@ -68,11 +68,27 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 [그림에서 보기](../assets/mps-atlas/hip.svg#piriformis)
 
+## 대둔근 {#gluteus-maximus}
+
+**Gluteus maximus**
+
+| 해부 항목 | 요점 |
+|---|---|
+| 주요 부착 | 장골 뒤쪽·천골·꼬리뼈·천결절인대 → 장경인대와 대퇴골 둔근거친면 |
+| 기능 | 고관절 신전·바깥돌림; 일어서기·계단 오르기 |
+| 신경지배 | 하둔신경(L5–S2) |
+
+**평가:** 앉았다 일어서기, 계단, 오르막에서 둔부 힘과 통증을 비교하고 허리 과신전으로 대신하는지 봅니다. 오래 앉은 뒤 첫 동작과 한발 지지의 차이도 기록합니다.
+
+**함께 구분할 것:** 고관절 관절통, 천장관절 주변 통증, 햄스트링 기시부 통증과 요추성 통증을 구분합니다.
+
+[그림에서 보기](../assets/mps-atlas/hip.svg#gluteus-maximus)
+
 ## 부위별 임상 연결 {#clinical}
 
 한발 서기, 걷기, 고관절 움직임과 통증을 함께 기록합니다. 둔부에서 다리로 퍼지는 통증은 요추 신경근·고관절·힘줄·심부둔부 구조를 비교해야 합니다. 특히 저림·감각저하·근력저하가 있으면 신경 평가를 포함합니다.
 
-[심부둔부·좌골신경](../nerve-entrapment/deep-gluteal-sciatic.md) · [좌골신경통 근거](../authority/conditions/sciatica.md) · [둔부 해부학](index.md#hip-gluteal)
+[고관절·엉덩관절 통증](../conditions/hip-pain.md) · [좌골신경통](../conditions/sciatica.md) · [심부둔부·좌골신경](../nerve-entrapment/deep-gluteal-sciatic.md) · [둔부 해부학](index.md#hip-gluteal)
 
 근육을 대상으로 침치료를 계획할 때는 [조직층·안전](mps-atlas.md#treatment)과 [치료 전후 재평가](../acupuncture-integrated/followup.md)를 함께 읽습니다.
 
