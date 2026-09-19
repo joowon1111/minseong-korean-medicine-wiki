@@ -8,10 +8,6 @@
     {
       "url": "https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14",
       "locator": "사상체질병증 지침(2022), 인쇄면 128쪽"
-    },
-    {
-      "url": "https://koreascience.kr/article/JAKO201225150621736.page",
-      "locator": "임교민·백진웅(2012), 인쇄면 27쪽"
     }
   ],
   "formulas": [
