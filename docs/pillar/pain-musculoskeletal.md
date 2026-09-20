@@ -17,7 +17,7 @@ last_reviewed: 2026-09-20
 | 부위 | 대표 문서 |
 |---|---|
 | 머리·뒤통수 | [두통](../conditions/headache.md) · [편두통](../conditions/migraine.md) · [긴장형두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md) |
-| 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) |
+| 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [늑간신경통](../conditions/intercostal-neuralgia.md) · [옆구리통증](../conditions/flank-pain.md) |
 | 목·어깨·견갑 | [목통증](../conditions/neck-pain.md) · [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [어깨통증](../conditions/shoulder-pain.md) · [견갑골 안쪽 통증](../conditions/scapular-pain.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) |
 | 얼굴·턱 | [턱관절통증](../conditions/temporomandibular-disorder.md) |
 | 팔꿈치·손목·손가락 | [테니스엘보](../conditions/tennis-elbow.md) · [골프엘보](../conditions/golfer-elbow.md) · [팔·손 저림](../conditions/arm-numbness.md) · [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel.md) · [드퀘르벵](../conditions/dequervain.md) · [방아쇠수지](../conditions/trigger-finger.md) |
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-20
 | 서거나 걸을수록 다리가 저리고 숙이거나 앉으면 완화 | [척추관협착증·보행통증](../conditions/lumbar-spinal-stenosis.md) | 신경인성 파행과 혈관성 파행 구분 |
 | 목·견갑부에서 팔과 손으로 뻗는 통증·저림 | [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [팔·손 저림](../conditions/arm-numbness.md) | 경추 신경근과 손목·팔꿈치 말초신경 구분 |
 | 양발 끝부터 대칭적으로 올라오는 저림 | [발·하지 저림](../conditions/foot-numbness.md) · [손발저림](../conditions/limb-numbness.md) | 당뇨·약물·영양·말초신경·혈관 원인 |
-| 등 가운데 통증, 흉곽·갈비뼈와 연동되는 통증 | [등통증·흉추통증](../conditions/thoracic-back-pain.md) | 근골격 통증과 흉부·복부 장기 위험신호 |
+| 등에서 갈비뼈를 따라 가슴·배로 감싸는 화끈거림·저림 | [늑간신경통·흉추 신경근성 통증](../conditions/intercostal-neuralgia.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) | 대상포진, 흉추 신경근, 근육·늑골과 흉부·복부 장기 감별 |
 
 디스크·협착 같은 영상 소견은 증상이 없는 사람에게도 보일 수 있습니다. 영상 이름보다 실제 통증 경로, 감각·근력·반사, 보행 기능이 서로 맞는지를 먼저 확인합니다.
 
