@@ -36,6 +36,7 @@ last_reviewed: 2026-09-06
 
 - [요통·허리가 아파요](low-back-pain.md)
 - [등통증·흉추통증](thoracic-back-pain.md)
+- [늑간신경통·갈비뼈를 따라 띠처럼 아파요](intercostal-neuralgia.md)
 - [옆구리통증](flank-pain.md)
 - [목통증·경항통](neck-pain.md)
 - [턱관절통증·입 벌릴 때 턱이 아파요](temporomandibular-disorder.md)

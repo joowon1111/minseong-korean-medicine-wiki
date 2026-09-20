@@ -135,6 +135,7 @@ PHN에는 가바펜티노이드, 일부 항우울제, 리도카인 패치·국�
 ## 함께 보면 좋은 문서
 
 - [급성 대상포진](shingles.md)
+- [늑간신경통·띠 모양 흉곽통증](intercostal-neuralgia.md)
 - [대상포진 후 신경통 현대근거](../authority/conditions/postherpetic-neuralgia.md)
 - [안면통증](facial-pain.md)
 - [삼차신경통](trigeminal-neuralgia.md)

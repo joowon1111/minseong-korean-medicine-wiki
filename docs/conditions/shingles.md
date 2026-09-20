@@ -143,6 +143,7 @@ last_reviewed: 2026-08-28
 
 ## 함께 보면 좋은 문서
 
+- [늑간신경통·띠 모양 흉곽통증](intercostal-neuralgia.md)
 - [대상포진 후 신경통](postherpetic-neuralgia.md)
 - [대상포진 후 신경통 현대근거](../authority/conditions/postherpetic-neuralgia.md)
 - [발진·가려움 R21 증상 안내](../symptom-herbal-guide/systemic-skin/r21-rash-itch.md)
