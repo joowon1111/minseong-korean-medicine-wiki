@@ -20,8 +20,9 @@ last_reviewed: 2026-08-22
 ## 한의 임상으로 돌아오기
 위험 원인이 배제되거나 안정적 상태라면 비위기허·담음·식적·간울 등 변증과 증상 패턴을 연결합니다.
 
-→ [소화불량](../conditions/dyspepsia.md)  
-→ [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
+- [복통·배가 아파요 — 위치별 원인과 위험신호](../conditions/abdominal-pain.md)
+- [소화불량](../conditions/dyspepsia.md)
+- [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
 
 
 
