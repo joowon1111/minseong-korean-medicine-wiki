@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">허리디스크 신전운동 단계</title>
+  <desc id="desc">엎드려 쉬기, 팔꿈치로 상체 받치기, 골반을 바닥에 둔 프레스업, 서서 하는 가벼운 신전을 단계적으로 나타낸 교육용 도해입니다.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#176f70"/>
+    </marker>
+    <style>
+      text{font-family:system-ui,"Noto Sans KR",sans-serif;fill:#243f4b}
+      .panel{fill:#f7f9f8;stroke:#c8d8d5;stroke-width:2}
+      .skin{fill:#faf3eb;stroke:#8b7566;stroke-width:3}
+      .body{fill:none;stroke:#8b7566;stroke-width:10;stroke-linecap:round;stroke-linejoin:round}
+      .spine{fill:none;stroke:#176f70;stroke-width:6;stroke-linecap:round}
+      .floor{stroke:#b8c3c2;stroke-width:4}
+      .move{fill:none;stroke:#176f70;stroke-width:4;stroke-linecap:round;marker-end:url(#arrow)}
+      .muted{fill:#536974}
+    </style>
+  </defs>
+  <rect width="960" height="560" rx="22" fill="#fff"/>
+  <text x="32" y="46" font-size="28" font-weight="700">허리디스크 신전운동: 낮은 단계에서 반응을 확인</text>
+  <text x="32" y="76" font-size="15" class="muted">골반을 억지로 들거나 끝범위를 버티지 않습니다. 다리 증상이 허리 쪽으로 모이는지 봅니다.</text>
+
+  <g transform="translate(28 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">1. 엎드려 쉬기</text>
+    <line class="floor" x1="20" y1="265" x2="194" y2="265"/>
+    <ellipse class="skin" cx="48" cy="220" rx="27" ry="23"/>
+    <path class="body" d="M72 232 Q117 239 165 235 M88 244 L55 258 M144 240 L184 258"/>
+    <path class="spine" d="M76 226 Q118 228 158 224"/>
+    <text x="107" y="319" font-size="15" text-anchor="middle">1–2분 편안히 호흡</text>
+    <text x="107" y="344" font-size="14" text-anchor="middle">복부·둔부 힘을 뺍니다.</text>
+  </g>
+
+  <g transform="translate(258 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">2. 팔꿈치 지지</text>
+    <line class="floor" x1="20" y1="265" x2="194" y2="265"/>
+    <ellipse class="skin" cx="55" cy="150" rx="27" ry="23"/>
+    <path class="body" d="M76 166 Q104 211 166 235 M89 194 L83 246 L55 260 M146 238 L186 258"/>
+    <path class="spine" d="M78 169 Q111 216 158 226"/>
+    <path class="move" d="M66 230 Q40 198 51 178"/>
+    <text x="107" y="319" font-size="15" text-anchor="middle">10–30초 유지</text>
+    <text x="107" y="344" font-size="14" text-anchor="middle">골반은 바닥에 둡니다.</text>
+  </g>
+
+  <g transform="translate(488 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">3. 팔로 프레스업</text>
+    <line class="floor" x1="20" y1="265" x2="194" y2="265"/>
+    <ellipse class="skin" cx="63" cy="99" rx="27" ry="23"/>
+    <path class="body" d="M78 120 Q92 194 166 235 M92 159 L82 256 M146 238 L186 258"/>
+    <path class="spine" d="M82 124 Q98 198 158 226"/>
+    <path class="move" d="M60 226 Q38 167 54 127"/>
+    <text x="107" y="319" font-size="15" text-anchor="middle">천천히 5회부터</text>
+    <text x="107" y="344" font-size="14" text-anchor="middle">팔로 들고 허리는 이완합니다.</text>
+  </g>
+
+  <g transform="translate(718 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">4. 서서 신전</text>
+    <line class="floor" x1="20" y1="317" x2="194" y2="317"/>
+    <ellipse class="skin" cx="112" cy="93" rx="27" ry="29"/>
+    <path class="body" d="M104 123 Q89 188 110 238 M101 154 L69 197 M101 154 L137 184 M110 238 L86 310 M110 238 L139 310"/>
+    <path class="spine" d="M105 128 Q91 188 109 229"/>
+    <path class="move" d="M145 147 Q165 174 145 200"/>
+    <text x="107" y="348" font-size="15" text-anchor="middle">앉은 뒤 5–10회</text>
+    <text x="107" y="373" font-size="14" text-anchor="middle">손으로 골반을 가볍게 지지.</text>
+  </g>
+
+  <rect x="28" y="500" width="904" height="38" rx="10" fill="#edf7f4"/>
+  <text x="480" y="525" font-size="15" text-anchor="middle">다리 저림이 발 쪽으로 퍼지거나 새 근력저하·대소변 변화가 생기면 중단하고 신속히 평가합니다.</text>
+</svg>
