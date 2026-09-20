@@ -410,6 +410,7 @@ last_reviewed: 2026-09-06
 - [면역력저하·잦은 감기](low-immunity-recurrent-illness.md)
 - [대사증후군·건강검진 체중관리](metabolic-syndrome.md)
 - [편두통](migraine.md)
+- [군발두통·한쪽 눈 주위 극심한 통증](cluster-headache.md)
 - [구내염·입안이 헐어요](mouth-ulcer.md)
 - [MPS·근막통증 치료란 무엇인가요](mps-treatment-question.md)
 - [영양제 여러 개 복용·복용목록 점검](multi-supplement-review.md)

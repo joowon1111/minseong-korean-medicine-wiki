@@ -644,6 +644,7 @@ nav:
     - 신경·감각·순환:
       - 두통: conditions/headache.md
       - 편두통: conditions/migraine.md
+      - 군발두통·한쪽 눈 주위 극심한 통증: conditions/cluster-headache.md
       - 긴장성두통·뒷목두통: conditions/tension-headache.md
       - 경추성두통: conditions/cervicogenic-headache.md
       - 후두신경통·뒤통수 찌릿통증: conditions/occipital-neuralgia.md
