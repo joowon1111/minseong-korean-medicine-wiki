@@ -3,7 +3,7 @@ title: 통증·근골격 한의학 허브
 description: 두통·신경통과 척추·견갑·팔꿈치·손목·손가락·둔부·무릎·발목·아킬레스건 통증을 감별, 변증, 한약·침구치료와 현대 임상근거로 연결합니다.
 tags: [Pillar, 통증, 근골격, 한의학지식망]
 status: 검토완료
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-20
 ---
 
 # 통증·근골격 한의학 허브
@@ -94,6 +94,12 @@ last_reviewed: 2026-09-19
 
 ## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
 
-관절이 붓는 염증성 질환, 골밀도·골절 위험, 전신통증과 수면·피로를 나누어 해당 안내로 이어갑니다.
+관절이 붓는 염증성 질환, 골밀도·골절 위험, 전신통증과 수면·피로를 나누어 해당 안내로 이어갑니다. 같은 “관절통”이라도 급성 결정성 염증, 만성 활막염, 기계적 통증과 골절 위험은 확인 순서가 다릅니다.
 
-[통풍·요산 관리](../conditions/gout.md) · [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [골다공증·골절 예방](../conditions/osteoporosis.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
+| 두드러지는 양상 | 먼저 볼 문서 | 우선 확인할 내용 |
+|---|---|---|
+| 한 관절이 갑자기 붉고 뜨겁고 매우 아픔 | [통풍·요산 관리](../conditions/gout.md) | 감염성 관절염과 결정성 관절염 감별, 관절액·요산 |
+| 양손·발의 여러 관절이 붓고 아침에 오래 굳음 | [류마티스관절염](../conditions/rheumatoid-arthritis.md) · [조조강직](../conditions/morning-stiffness.md) | 활막염, RF·항CCP·염증 수치, 조기 치료 |
+| 계단·체중부하·반복동작에 따라 특정 관절이 아픔 | [무릎통증](../conditions/knee-pain.md) · [손목통증](../conditions/wrist-pain.md) | 관절·힘줄·인대와 움직임 패턴 |
+| 작은 충격 뒤 등·허리·고관절 통증, 키 감소 | [골다공증·골절 예방](../conditions/osteoporosis.md) · [골절 후 회복](../conditions/fracture-recovery.md) | 압박골절·취약골절과 재골절 위험 |
+| 넓은 부위의 통증에 피로·비회복성 수면이 동반 | [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md) | 수면·활동·신경계·동반질환을 함께 평가 |
