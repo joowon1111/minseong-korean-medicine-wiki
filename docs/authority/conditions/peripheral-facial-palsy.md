@@ -297,7 +297,7 @@ last_reviewed: 2026-09-06
 
 - [안면신경마비 환자 안내](../../conditions/facial-palsy.md)
 - [대상포진·띠 모양 통증과 수포](../../conditions/shingles.md)
-- [눈떨림·눈꺼풀떨림](../../conditions/eye-twitching.md)
+- [눈꺼풀떨림·편측안면경련·연합운동 감별](../../conditions/eye-twitching.md)
 - [안면통증](../../conditions/facial-pain.md)
 - [급성기 벨마비 침치료 근거](bell-palsy-acute-acupuncture.md)
 - [침구·치료 찾기](../../acupuncture-integrated/by-symptom.md)

@@ -647,7 +647,9 @@ nav:
       - 긴장성두통·뒷목두통: conditions/tension-headache.md
       - 경추성두통: conditions/cervicogenic-headache.md
       - 후두신경통·뒤통수 찌릿통증: conditions/occipital-neuralgia.md
+      - 삼차신경통·얼굴 전기통증: conditions/trigeminal-neuralgia.md
       - 구안와사·안면마비: conditions/facial-palsy.md
+      - 눈꺼풀떨림·안면떨림·편측안면경련: conditions/eye-twitching.md
       - 어지럼: conditions/dizziness.md
       - 이석증: conditions/bppv.md
       - 메니에르병: conditions/menieres-disease.md
@@ -666,7 +668,6 @@ nav:
     - 눈·구강:
       - 안구건조증: conditions/dry-eye.md
       - 눈피로·안구피로: conditions/eye-fatigue.md
-      - 눈떨림·눈밑떨림: conditions/eye-twitching.md
       - 구강건조증·입마름: conditions/dry-mouth.md
       - 쇼그렌증후군: conditions/sjogrens-syndrome.md
       - 노인 입마름: conditions/elderly-dry-mouth.md
