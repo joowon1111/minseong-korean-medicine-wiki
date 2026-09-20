@@ -343,6 +343,7 @@ last_reviewed: 2026-09-06
 
 ### 남성·배뇨·골반
 
+- [골반·회음부 통증 — 원인 감별과 치료 길잡이](pelvic-pain.md)
 - [야간뇨·밤에 소변 때문에 깨요](nocturia.md)
 - [과민성방광·급하게 소변 마려움](/authority/conditions/overactive-bladder/)
 - [남성 골반저근 긴장·회음부 불편](pelvic-floor-tension-men.md)
