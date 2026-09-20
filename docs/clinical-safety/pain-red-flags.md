@@ -19,8 +19,9 @@ last_reviewed: 2026-08-19
 
 이런 경우에는 단순 근육통으로 판단하기보다 필요한 검사와 의학적 평가를 우선 고려한다.
 
-→ [요통 임상 추론](../clinical-reasoning/low-back-pain.md)
-→ [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
+- [손발저림·팔다리가 저려요 — 신경학적 위험신호](../conditions/limb-numbness.md)
+- [요통 임상 추론](../clinical-reasoning/low-back-pain.md)
+- [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
@@ -28,4 +29,3 @@ last_reviewed: 2026-08-19
 - [아카이브 안내](../guide/index.md)
 - [증상·질환](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
-
