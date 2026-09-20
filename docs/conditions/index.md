@@ -379,7 +379,7 @@ last_reviewed: 2026-09-06
 - [전침치료란 무엇인가요](electroacupuncture-question.md)
 - [간수치가 높아요](elevated-liver-enzymes.md)
 - [발기력저하·남성 활력](erectile-difficulty.md)
-- [눈떨림·눈꺼풀떨림](eye-twitching.md)
+- [눈꺼풀떨림·안면떨림·편측안면경련](eye-twitching.md)
 - [안면신경마비](facial-palsy.md)
 - [역류·속쓰림](gerd.md)
 - [목이물감·매핵기](globus.md)
@@ -493,4 +493,4 @@ last_reviewed: 2026-09-06
 
 건조·떨림·궤양·통증·맛의 변화를 나누어 원인 평가와 변증·처방·연구로 이어집니다.
 
-[안구건조증](dry-eye.md) · [눈피로](eye-fatigue.md) · [눈밑떨림](eye-twitching.md) · [구강건조증·입마름](dry-mouth.md) · [쇼그렌증후군](sjogrens-syndrome.md) · [노인 입마름](elderly-dry-mouth.md) · [구내염](mouth-ulcer.md) · [구강작열감·설통](tongue-burning.md) · [입냄새](bad-breath.md) · [미각장애](taste-change.md) · [입쓴맛](bitter-taste.md)
+[안구건조증](dry-eye.md) · [눈피로](eye-fatigue.md) · [눈꺼풀떨림·안면떨림](eye-twitching.md) · [구강건조증·입마름](dry-mouth.md) · [쇼그렌증후군](sjogrens-syndrome.md) · [노인 입마름](elderly-dry-mouth.md) · [구내염](mouth-ulcer.md) · [구강작열감·설통](tongue-burning.md) · [입냄새](bad-breath.md) · [미각장애](taste-change.md) · [입쓴맛](bitter-taste.md)
