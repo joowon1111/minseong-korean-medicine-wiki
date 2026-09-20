@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">목디스크 신전운동 단계</title>
+  <desc id="desc">앉은 중립 자세, 턱 당기기, 증상 반응을 확인한 소범위 신전, 팔 증상의 중심화와 말초화를 비교한 교육용 도해입니다.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#176f70"/>
+    </marker>
+    <marker id="arrow-good" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2f8f62"/>
+    </marker>
+    <marker id="arrow-stop" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c45b42"/>
+    </marker>
+    <style>
+      text{font-family:system-ui,"Noto Sans KR",sans-serif;fill:#243f4b}
+      .panel{fill:#f7f9f8;stroke:#c8d8d5;stroke-width:2}
+      .skin{fill:#faf3eb;stroke:#8b7566;stroke-width:3}
+      .body{fill:none;stroke:#8b7566;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+      .spine{fill:none;stroke:#176f70;stroke-width:5;stroke-linecap:round}
+      .move{fill:none;stroke:#176f70;stroke-width:4;stroke-linecap:round;marker-end:url(#arrow)}
+      .good{fill:none;stroke:#2f8f62;stroke-width:8;stroke-linecap:round;marker-end:url(#arrow-good)}
+      .stop{fill:none;stroke:#c45b42;stroke-width:8;stroke-linecap:round;marker-end:url(#arrow-stop)}
+      .muted{fill:#536974}
+    </style>
+  </defs>
+  <rect width="960" height="560" rx="22" fill="#fff"/>
+  <text x="32" y="46" font-size="28" font-weight="700">목디스크 신전운동: 턱 당기기부터 반응을 보며 진행</text>
+  <text x="32" y="76" font-size="15" class="muted">목을 세게 꺾는 동작이 아닙니다. 팔·손 증상이 목 쪽으로 모이는지 확인합니다.</text>
+
+  <g transform="translate(28 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">1. 편안한 중립</text>
+    <path class="body" d="M105 280 L105 168 M105 214 L67 262 M105 214 L143 262"/>
+    <ellipse class="skin" cx="105" cy="126" rx="43" ry="50"/>
+    <path class="skin" d="M85 155 Q105 169 125 155 L123 183 L88 183 Z"/>
+    <path class="spine" d="M101 169 Q107 151 105 134"/>
+    <line x1="105" y1="280" x2="105" y2="323" class="body"/>
+    <text x="107" y="350" font-size="15" text-anchor="middle">어깨 힘을 빼고</text>
+    <text x="107" y="373" font-size="15" text-anchor="middle">정면을 봅니다.</text>
+  </g>
+
+  <g transform="translate(258 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">2. 턱 당기기</text>
+    <path class="body" d="M105 280 L105 168 M105 214 L67 262 M105 214 L143 262"/>
+    <ellipse class="skin" cx="94" cy="126" rx="43" ry="50"/>
+    <path class="skin" d="M78 155 Q98 169 118 155 L120 183 L85 183 Z"/>
+    <path class="spine" d="M101 169 Q98 151 96 134"/>
+    <path class="move" d="M164 126 L132 126"/>
+    <text x="107" y="350" font-size="15" text-anchor="middle">턱을 숙이지 않고</text>
+    <text x="107" y="373" font-size="15" text-anchor="middle">머리를 수평으로 뒤로.</text>
+  </g>
+
+  <g transform="translate(488 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">3. 소범위 신전</text>
+    <path class="body" d="M105 280 L105 168 M105 214 L67 262 M105 214 L143 262"/>
+    <g transform="rotate(-10 105 168)">
+      <ellipse class="skin" cx="94" cy="126" rx="43" ry="50"/>
+      <path class="skin" d="M78 155 Q98 169 118 155 L120 183 L85 183 Z"/>
+      <path class="spine" d="M101 169 Q98 151 96 134"/>
+    </g>
+    <path class="move" d="M146 91 Q167 113 151 143"/>
+    <text x="107" y="350" font-size="15" text-anchor="middle">턱 당기기가 편할 때만</text>
+    <text x="107" y="373" font-size="15" text-anchor="middle">조금씩 시선을 올립니다.</text>
+  </g>
+
+  <g transform="translate(718 104)">
+    <rect class="panel" width="214" height="380" rx="16"/>
+    <text x="107" y="34" font-size="18" font-weight="700" text-anchor="middle">4. 증상으로 판정</text>
+    <circle cx="55" cy="112" r="15" fill="#f4c7a8" stroke="#8b7566" stroke-width="2"/>
+    <path d="M55 127 L55 245 M55 158 L95 204 M55 158 L15 204" class="body"/>
+    <path class="good" d="M151 230 Q122 192 86 170"/>
+    <text x="107" y="275" font-size="15" text-anchor="middle" fill="#2f8f62">손 → 팔 → 목</text>
+    <text x="107" y="298" font-size="14" text-anchor="middle">중심화: 진행 가능 신호</text>
+    <path class="stop" d="M83 325 Q124 335 160 366"/>
+    <text x="107" y="350" font-size="15" text-anchor="middle" fill="#c45b42">목 → 팔 → 손</text>
+    <text x="107" y="373" font-size="14" text-anchor="middle">말초화: 중단·재평가</text>
+  </g>
+
+  <rect x="28" y="500" width="904" height="38" rx="10" fill="#edf7f4"/>
+  <text x="480" y="525" font-size="15" text-anchor="middle">회전까지 더해 세게 젖히지 않습니다. 새 근력저하·양손 둔함·보행 변화가 있으면 운동보다 진료가 우선입니다.</text>
+</svg>
