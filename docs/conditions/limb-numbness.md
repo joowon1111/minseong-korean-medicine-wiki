@@ -23,7 +23,7 @@ last_reviewed: 2026-09-20
 | **계획 외래** | 자세에 따라 잠깐 나타났다가 풀리지만 반복됨, 위험신호 없이 수주 이상 지속되는 손발 끝 저림, 야간 저림·화끈거림·감각둔화 | 증상 지도를 가지고 신경과·재활의학과·정형외과·내과 등에서 분포와 원인에 맞게 평가 |
 
 !!! danger "몇 분 만에 좋아져도 뇌혈관 증상은 끝난 것이 아닐 수 있습니다"
-    갑작스러운 편측 저림·마비·말 어눌함·시야 또는 균형 이상이 사라졌다면 일과성허혈발작 가능성도 있습니다. 마사지·침·약으로 반응을 보며 기다리지 않습니다.
+    갑작스러운 편측 저림·마비·말 어눌함·시야 또는 균형 이상이 사라졌다면 일과성허혈발작 가능성도 있습니다. 즉시 응급평가를 연결하고, 결과에 맞춰 마사지·침·한약치료의 시점과 목표를 정합니다.
 
 ## ‘저리다’는 느낌을 먼저 나눕니다
 
@@ -204,13 +204,13 @@ last_reviewed: 2026-09-20
 
 ### 전침
 
-전침은 통증 조절과 근육 활성 보조를 목표로 원인·감각·근력에 맞춰 사용합니다. 감각이 크게 떨어진 부위는 환자가 자극 강도를 제대로 느끼지 못할 수 있어 낮은 강도에서 피부와 근육 반응을 확인합니다. 빠르게 진행하는 근력저하·탈수초성 신경병증·급성 척수질환의 표준치료를 지연시키지 않습니다.
+전침은 통증 조절과 근육 활성 회복을 목표로 원인·감각·근력에 맞춰 사용합니다. 감각이 크게 떨어진 부위는 환자가 자극 강도를 제대로 느끼지 못할 수 있어 낮은 강도에서 피부와 근육 반응을 확인합니다. 빠르게 진행하는 근력저하·탈수초성 신경병증·급성 척수질환은 즉시 평가하고, 안정화 뒤 전침 시점과 목표를 조정합니다.
 
 ### 약침
 
-약침은 포착신경 주변의 연부조직 통증이나 근막 긴장에 보조적으로 고려할 수 있으나, 말초신경병증 전체를 회복시키는 치료로 설명하지 않습니다. **신경 안으로 주입하는 것이 목표가 아니며**, 초음파를 사용하더라도 신경·혈관·흉막 등 위험 구조와 제제·알레르기·감염·항응고 상태를 확인합니다.
+약침은 포착신경 주변의 연부조직 통증이나 근막 긴장을 목표로 고려할 수 있습니다. 말초신경병증에서는 원인·감각·근력·기능 지표를 함께 추적합니다. **신경 안이 아니라 안전한 경혈과 연부조직이 시술 목표이며**, 초음파를 사용하더라도 신경·혈관·흉막 등 위험 구조와 제제·알레르기·감염·항응고 상태를 확인합니다.
 
-침 연구는 질환별로 나누어 해석합니다. 당뇨병성 말초신경병증과 항암치료 유발 신경병증 연구에서 증상 개선 가능성이 보고됐지만, 연구의 눈가림·대조군·처방 이질성과 낮은 근거확실성이 남아 있습니다. 혈당·항암치료 조정·족부관리·재활을 대신하지 않습니다. → [당뇨병성 말초신경병증 근거](../authority/conditions/diabetic-peripheral-neuropathy.md) · [항암치료 유발 말초신경병증 근거](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
+침 연구는 질환별로 나누어 해석합니다. 당뇨병성 말초신경병증과 항암치료 유발 신경병증 연구에서 증상 개선 가능성이 보고됐으며, 연구의 눈가림·대조군·처방 차이를 확인해 개인별 치료계획에 반영합니다. 혈당·항암치료 조정·족부관리·재활과 침치료를 함께 구성합니다. → [당뇨병성 말초신경병증 근거](../authority/conditions/diabetic-peripheral-neuropathy.md) · [항암치료 유발 말초신경병증 근거](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
 
 ## 자세·운동·신경가동은 원인별로 다릅니다
 
@@ -297,10 +297,10 @@ last_reviewed: 2026-09-20
 - Price R, et al. [Oral and Topical Treatment of Painful Diabetic Polyneuropathy](https://pubmed.ncbi.nlm.nih.gov/34965987/). *Neurology*. 2022 — 약물 계열 선택, 수면·기분 평가와 오피오이드 비권고.
 - Loprinzi CL, et al. [Prevention and Management of Chemotherapy-Induced Peripheral Neuropathy in Survivors of Adult Cancers](https://pubmed.ncbi.nlm.nih.gov/32663120/). *J Clin Oncol*. 2020 — 항암치료 유발 말초신경병증의 예방·치료와 종양진료 연계.
 - Dimitrova A, et al. [Acupuncture for the Treatment of Peripheral Neuropathy](https://pubmed.ncbi.nlm.nih.gov/28112552/). *J Altern Complement Med*. 2017 — 원인별 침 연구 종합과 근거의 한계.
-- Li X, et al. [Acupuncture for diabetic peripheral neuropathy: systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40220243/). 2025 — 증상 개선 가능성과 낮은 근거확실성을 함께 보고.
+- Li X, et al. [Acupuncture for diabetic peripheral neuropathy: systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40220243/). 2025 — 증상 개선 가능성과 결과지표별 연구 설계·정밀도를 함께 보고.
 
 !!! note "의료 안내"
-    이 문서는 일반적인 건강정보이며 개인의 진단이나 처방을 대신하지 않습니다. 갑작스러운 편측 저림·마비·말 또는 시야 이상, 회음부 감각·대소변 변화, 빠르게 올라오는 저림과 근력저하·호흡곤란, 외상 후 마비, 차고 창백한 팔다리가 있으면 한약·침·운동보다 즉시 응급 평가를 우선하세요.
+    이 문서는 일반적인 건강정보이며 개인별 진단과 처방은 진료를 통해 정합니다. 갑작스러운 편측 저림·마비·말 또는 시야 이상, 회음부 감각·대소변 변화, 빠르게 올라오는 저림과 근력저하·호흡곤란, 외상 후 마비, 차고 창백한 팔다리가 있으면 즉시 응급 평가와 안정화를 시행하고 이후 한약·침·운동 계획을 정하세요.
 
 <script type="application/ld+json">
 {

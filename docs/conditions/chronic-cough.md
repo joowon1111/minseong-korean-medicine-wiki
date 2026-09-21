@@ -64,7 +64,7 @@ last_reviewed: 2026-09-06
 | 기허에 감기 증상과 담이 남음 | [삼소음](../formulas/renshen-suyin.md) | 현재 외감 증상과 평소 체력 |
 | 허약·땀·갈증과 회복 저하 | [생맥산](../formulas/shengmai-san.md) | 기음부족과 호흡기 원인 감별 |
 
-처방명만으로 기침의 원인을 대신하지 않고 [호흡기 한약 근거](../authority/formulas/respiratory-herbal-formula-map.md)와 개별 방제 자료를 구분해 봅니다. 침치료도 기침 원인과 동반 긴장·수면 상태에 맞춰 계획합니다.
+기침의 원인을 확인한 뒤 [호흡기 한약 근거](../authority/formulas/respiratory-herbal-formula-map.md)와 개별 방제 자료를 구분해 처방을 연결합니다. 침치료도 기침 원인과 동반 긴장·수면 상태에 맞춰 계획합니다.
 
 ## 치료 후 무엇을 비교하나요? {#followup}
 
