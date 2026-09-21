@@ -54,6 +54,9 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[반하](../herbs/pinellia.md) | 건비와 화담을 함께 살피는 배합 | [육군자탕](../formulas/liujunzi-tang.md) |
 | [맥아](../herbs/barley-malt.md)·[산사](../herbs/hawthorn.md)·[신곡](../herbs/massa-medicata-fermentata.md) | 소식과 화담·건비 배합 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
 | [곽향·광곽향](../herbs/agastache.md)·[사인](../herbs/amomum.md)·[백두구](../herbs/white-cardamom.md) | 방향화습·화중지구와 기원·후하 구분 | [곽향정기산](../formulas/huoxiang-zhengqi-san.md) · [불환금정기산](../formulas/buhuanjin-zhengqi-san.md) |
+| [초과](../herbs/tsaoko-fruit.md)·[곽향](../herbs/agastache.md)·[창출](../herbs/atractylodes-lancea.md) | 한습·습탁의 깊이와 방향화습·조습온중 구분 | [인삼양위탕](../formulas/renshen-yangwei-tang.md) |
+| [청피](../herbs/green-citrus-peel.md)·[진피](../herbs/citrus-peel.md)·[향부자](../herbs/cyperus.md) | 소간파기·이기건비·소간해울의 층위 구분 | [분심기음](../formulas/fenxin-qiyin.md) · [시호소간산](../formulas/chaihu-shugan-san.md) |
+| [대복피](../herbs/areca-pericarp.md)·[목통](../herbs/akebia-stem.md) | 행기와 행수·통림의 연결 | [분심기음](../formulas/fenxin-qiyin.md) · [팔정산](../formulas/bazheng-san.md) |
 | [백편두](../herbs/lablab-seed.md)·[연자육](../herbs/lotus-seed.md) | 비위허약·습체와 오래된 묽은변을 살피는 건비 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 | [백두구](../herbs/white-cardamom.md)·[사인](../herbs/amomum.md) | 방향화습·행기온중 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
 | [익지인](../herbs/alpinia-oxyphylla.md) | 온비·온신과 고삽의 역할 구분 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
@@ -96,6 +99,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [도인](../herbs/peach-kernel.md)·[대황](../herbs/rhubarb.md)·망초 | 축혈·공하 | [도핵승기탕](../formulas/taohe-chengqi-tang.md) |
 | [단삼](../herbs/salvia.md) | 활혈거어·통경지통 | [심적환·복방단삼적환](../formulas/simjeok-hwan.md) |
 | [현호색](../herbs/corydalis.md)·[향부자](../herbs/cyperus.md) | 활혈행기·지통 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) · [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
+| [봉출](../herbs/zedoary-rhizome.md)·[향부자](../herbs/cyperus.md) | 파혈행기·소적과 소간이기의 역할 구분 | [분심기음](../formulas/fenxin-qiyin.md) |
 | [적작약](../herbs/red-peony.md)·[도인](../herbs/peach-kernel.md)·[홍화](../herbs/safflower.md) | 산어·지통 | [당귀수산](../formulas/danggui-susan.md) |
 | [익모초](../herbs/leonurus.md) | 활혈조경·이수 | [천마구등음](../formulas/tianma-gouteng-yin.md) · [익모초 배합과 확인점](../herbs/leonurus.md) |
 | [당귀](../herbs/angelica.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md)·[우슬](../herbs/achyranthes.md) | 양혈·활혈과 팔다리 통증의 배합 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) · [당귀수산](../formulas/danggui-susan.md) |
@@ -106,7 +110,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 |---|---|---|
 | [복령](../herbs/poria.md)·[저령](../herbs/polyporus.md)·[택사](../herbs/alisma.md) | 이수삼습 | [오령산](../formulas/wuling-san.md) · [저령탕](../formulas/zhuling-tang.md) |
 | [부자](../herbs/aconite.md)·[백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md) | 온양이수 | [진무탕](../formulas/zhenwu-tang.md) |
-| [차전자](../herbs/plantago-seed.md)·목통·활석 | 청열이수통림 | [팔정산](../formulas/bazheng-san.md) |
+| [차전자](../herbs/plantago-seed.md)·[목통](../herbs/akebia-stem.md)·활석 | 청열이수통림 | [팔정산](../formulas/bazheng-san.md) |
 | [의이인](../herbs/coix.md)·[백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md) | 건비·삼습 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 | [인진](../herbs/artemisia-capillaris.md)·[택사](../herbs/alisma.md) | 습열·퇴황과 이수·설열의 차이 | [이수·거습 본초 비교](../herbs/categories/drain-damp.md) |
 | [유근피](../herbs/elm-root-bark.md) | 뿌리껍질·줄기껍질을 구분해 이수·소종과 점액질 특성을 확인 | [이수·거습 본초](../herbs/categories/drain-damp.md) |
@@ -138,6 +142,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인, 우엉 열매와 박하 후하법 구분 | [은교산](../formulas/yinqiao-san.md) |
 | [백지](../herbs/angelica-dahurica.md)·[신이](../herbs/magnolia-bud.md) | 거풍·통규와 코·두면부 배합 | [창이자산](../formulas/cangerzi-san.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | [만형자](../herbs/vitex-fruit.md) | 소산풍열·청리두목 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
+| [백강잠](../herbs/bombyx-batryticatus.md)·[백지](../herbs/angelica-dahurica.md)·[천궁](../herbs/chuanxiong.md) | 풍담·두면부와 경락 통증을 구분 | [오약순기산](../formulas/wuyao-shunqi-san.md) |
 | [상엽](../herbs/mulberry-leaf.md)·[국화](../herbs/chrysanthemum.md)·[박하](../herbs/mint.md) | 풍열과 기침·두면부 불편을 함께 보는 해표 배합 | [상국음](../formulas/sangju-yin.md) |
 
 ## 온리·산한 {#warming-herbs}
