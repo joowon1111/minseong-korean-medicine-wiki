@@ -38,4 +38,4 @@ last_reviewed: 2026-09-04
 - 현대 질환명과 전통 체질병증은 일대일 대응하지 않습니다.
 - 원방의 구성·용량과 연구에서 사용한 제형이 다르면 별도로 기록합니다.
 
-→ [대표처방 18종](index.md) · [체질별 비교 지도](comparison-map.md) · [사상의학 근거·출전](../sasang-integrated/evidence.md)
+→ [대표처방 27종](index.md) · [체질별 비교 지도](comparison-map.md) · [사상의학 근거·출전](../sasang-integrated/evidence.md)
