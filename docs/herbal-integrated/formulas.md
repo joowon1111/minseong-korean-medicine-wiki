@@ -2,7 +2,7 @@
 title: 방제 찾기
 tags: [방제학, 일반방제, 처방탐색, 통합허브]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: '2026-09-21'
 description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 방제 찾기
@@ -19,8 +19,12 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [평위산](../formulas/pingwei-san.md) — 습체·창만
 - [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) — 비기허 + 담습 + 기체
 - [향사양위탕](../formulas/xiangsha-yangwei-tang.md) — 비위허한 + 습체
+- [전씨이공산·이공산](../formulas/jeonssi-igong-san.md) — 비위기허 + 기체, 목향 포함 수록형 구분
+- [삼출건비탕](../formulas/samchul-geonbi-tang.md) — 비위기허 + 식적 + 복부팽만
 - [보화환](../formulas/baohe-wan.md) — 식적
 - [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) — 식적 + 담습 + 기체가 겹친 반복성 소화불편
+- [개울화담전](../formulas/gaeul-hwadam-jeon.md) — 기울 + 담습 + 식적 + 울열
+- [소식청울탕](../formulas/sosik-cheongul-tang.md) — 식울 + 기울·울열, 조잡·탄산
 - [이중탕](../formulas/lizhong-tang.md) — 비위허한 + 복통·설사·구토
 - [반하사심탕](../formulas/banxia-xiexin-tang.md) — 한열착잡·심하비
 - [소건중탕](../formulas/xiaojianzhong-tang.md) — 중초허한 + 허로성 복통·복부 긴장
@@ -34,6 +38,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [이진탕](../formulas/erchen-tang.md) — 담습 기본방
 - [궁하탕](../formulas/gungha-tang.md) — 흉협부 담음 + 기체·통증
 - [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) — 비허담습 + 현훈
+- [자음건비탕](../formulas/jaeum-geonbi-tang.md) — 기혈·음 부족 + 비위허약·담음·심신 증상
 - [도담탕](../formulas/daotan-tang.md) — 완고한 담습
 - [가미온담탕](../formulas/jiawei-wendan-tang.md) — 담울 + 심번·불면
 - [천왕보심단](../formulas/tianwang-buxin-dan.md) — 심신음혈부족
@@ -72,6 +77,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [행소산](../formulas/xingsu-san.md) — 량조·해수
 - [보폐탕](../formulas/bufei-tang.md) — 폐기허
 - [생맥산](../formulas/shengmai-san.md) — 기음양허
+- [시호계지탕](../formulas/chaihu-guizhi-tang.md) — 소양 화해 + 태양 표증·몸살
 
 ## 청열·화독
 
@@ -102,6 +108,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [독활기생탕](../formulas/duhuo-jisheng-tang.md) — 만성 비증 + 간신기혈허
 - [회수산](../formulas/huishou-san.md) — 풍한·기체 + 급성 경항통
 - [당귀수산](../formulas/danggui-susan.md) — 외상 뒤 어혈·종창·고정통
+- [여신탕](../formulas/yeosin-tang.md) — 좌섬·염좌 뒤 국소 요통과 움직임 제한
 - [소경활혈탕](../formulas/shujing-huoxue-tang.md) — 혈허·어혈 + 풍습의 오래된 통증
 - [청상견통탕](../formulas/qingshang-juantong-tang.md) — 복합 두통
 - [천궁다조산](../formulas/chuanxiong-chatiao-san.md) — 외풍 두통
@@ -118,6 +125,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [보중익기탕](../formulas/buzhong-yiqi-classic.md) — 비위기허·중기하함
 - [귀비탕](../formulas/guibi-tang.md) — 심비양허
 - [쌍화탕](../formulas/ssanghwa-tang.md) — 노권·기혈구상
+- [쌍금탕](../formulas/ssanggeum-tang.md) — 기혈소모 + 비위 습체·기체
 - [십전대보탕](../formulas/shi-quan-da-bu-tang.md) — 기혈양허·허손
 - [당귀보혈탕](../formulas/danggui-buxue-tang.md) — 황기 중심의 보기생혈
 - [생맥산](../formulas/shengmai-san.md) — 기음양허·익기생진
@@ -127,6 +135,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) — 기혈부족 + 비위허약·담습·기체
 - [대보원전](../formulas/dabo-wonjeon.md) — 기혈·정수의 큰 허손 + 요슬무력
 - [인삼황기탕](../formulas/renshen-huangqi-tang.md) — 비위기허 + 자한·회복저하
+- [고진음자](../formulas/gojin-eumja.md) — 기혈·비신허 + 자한·유정·빈뇨의 불고
 - [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) — 신음허
 - [팔미지황환](../formulas/bawei-dihuang-wan.md) — 신양허
 - [좌귀환](../formulas/zuogui-wan.md) — 신음·정혈부족

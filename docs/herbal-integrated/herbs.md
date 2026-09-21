@@ -2,7 +2,7 @@
 title: 본초 찾기
 tags: [본초, 방제, 임상본초, 통합허브]
 status: 검토완료
-last_reviewed: 2026-09-18
+last_reviewed: 2026-09-21
 description: 주요 본초 효능의 공통 정의와 주치·병기에서 대표 본초·방제·현대 연구 해석까지 연결하는 효능별 탐색 지도입니다.
 ---
 # 본초 찾기 {#herbs-index}
@@ -32,7 +32,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 |---|---|---|
 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비; 식욕·소화와 함께 보는 기력저하 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
 | [당귀](../herbs/angelica.md)·[숙지황](../herbs/prepared-rehmannia.md)·[백작약](../herbs/white-peony.md)·[천궁](../herbs/chuanxiong.md) | 양혈·활혈; 피로·건조·근육 당김을 함께 보는 배합 | [사물탕](../formulas/siwu-tang.md) · [쌍화탕](../formulas/ssanghwa-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
-| [맥문동](../herbs/ophiopogon.md)·[천문동](../herbs/ophiopogon-extra.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
+| [맥문동](../herbs/ophiopogon.md)·[천문동](../herbs/ophiopogon-extra.md)·[사삼](../herbs/adenophora-root.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·생진 | [생맥산](../formulas/shengmai-san.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | [두충](../herbs/eucommia.md)·[우슬](../herbs/achyranthes.md)·[속단](../herbs/dipsacus.md) | 보간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [녹용](../herbs/cervi-parvum-cornu.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md) | 보익간신·정혈·비신을 나누어 봄 | [공진단](../formulas/gongjin-dan.md) · [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | [오미자](../herbs/schisandra.md)·[맥문동](../herbs/ophiopogon.md) | 수렴과 양음·생진의 배합 | [생맥산](../formulas/shengmai-san.md) |
@@ -80,7 +80,8 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 |---|---|---|
 | [석고](../herbs/gypsum.md)·[지모](../herbs/anemarrhena.md)·[치자](../herbs/gardenia.md) | 청열사화; 기분·장부의 성한 실열 | [백호탕](../formulas/baihu-tang.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
 | [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[용담](../herbs/gentian-root.md) | 청열조습; 습과 열이 결합한 병증 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [용담사간탕](../formulas/longdan-xiegan-tang.md) |
-| [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md)·[포공영](../herbs/dandelion.md) | 청열해독; 소산풍열·소종산결·이뇨통림의 차이 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) · 오미소독음 |
+| [금은화](../herbs/honeysuckle.md)·[연교](../herbs/forsythia.md)·[포공영](../herbs/dandelion.md)·[대청엽](../herbs/isatis-leaf.md) | 청열해독; 소산풍열·소종산결·이뇨통림·량혈소반의 차이 | [은교산](../formulas/yinqiao-san.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) · 오미소독음 |
+| [죽엽](../herbs/bamboo-leaf.md)·[석고](../herbs/gypsum.md)·[맥문동](../herbs/ophiopogon.md) | 여열·번조·갈증과 기음 손상의 배합 | [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
 | [생지황](../herbs/rehmannia-root-fresh.md)·[목단피](../herbs/moutan.md)·[적작약](../herbs/red-peony.md) | 청열량혈; 영혈분의 열·혈열 | [청영탕](../formulas/qingying-tang.md) · [청경사물탕](../formulas/qingjing-siwu-tang.md) |
 | [청호](../herbs/qinghao.md)·[지골피](../herbs/digupi.md)·[목단피](../herbs/moutan.md)·[지모](../herbs/anemarrhena.md) | 청허열; 음허·열병 뒤 남은 열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) 등 자음·퇴허열 배합 |
 | [인진·인진호](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md) | 청리습열·퇴황과 배합 비교 | [인진의 대표 배합](../herbs/artemisia-capillaris.md) |
@@ -107,6 +108,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [차전자](../herbs/plantago-seed.md)·목통·활석 | 청열이수통림 | [팔정산](../formulas/bazheng-san.md) |
 | [의이인](../herbs/coix.md)·[백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md) | 건비·삼습 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 | [인진](../herbs/artemisia-capillaris.md)·[택사](../herbs/alisma.md) | 습열·퇴황과 이수·설열의 차이 | [이수·거습 본초 비교](../herbs/categories/drain-damp.md) |
+| [유근피](../herbs/elm-root-bark.md) | 뿌리껍질·줄기껍질을 구분해 이수·소종과 점액질 특성을 확인 | [이수·거습 본초](../herbs/categories/drain-damp.md) |
 
 ## 안신·정신 {#_7}
 
@@ -132,7 +134,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [계지](../herbs/cinnamon-twig.md)·[갈근](../herbs/pueraria.md)·[마황](../herbs/ephedra.md) | 땀·오한·항배강을 구분하는 해표·서근 | [계지탕](../formulas/guizhi-tang.md) · [갈근탕](../formulas/gegen-tang.md) |
 | [강활](../herbs/notopterygium.md)·[독활](../herbs/angelica-pubescens.md)·[방풍](../herbs/saposhnikovia.md)·[창출](../herbs/atractylodes-lancea.md) | 풍한습과 몸살·무거움·요슬부 통증을 배합별로 구분 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) · [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [형개](../herbs/schizonepeta.md)·[연교](../herbs/forsythia.md)·[길경](../herbs/platycodon.md) | 표·인후·호흡기 배합 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
-| [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인 | [은교산](../formulas/yinqiao-san.md) |
+| [우방자·우박자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인, 우엉 열매와 박하 후하법 구분 | [은교산](../formulas/yinqiao-san.md) |
 | [백지](../herbs/angelica-dahurica.md)·[신이](../herbs/magnolia-bud.md) | 거풍·통규와 코·두면부 배합 | [창이자산](../formulas/cangerzi-san.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | [만형자](../herbs/vitex-fruit.md) | 소산풍열·청리두목 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | [상엽](../herbs/mulberry-leaf.md)·[국화](../herbs/chrysanthemum.md)·[박하](../herbs/mint.md) | 풍열과 기침·두면부 불편을 함께 보는 해표 배합 | [상국음](../formulas/sangju-yin.md) |

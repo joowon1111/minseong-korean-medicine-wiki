@@ -3,7 +3,7 @@ title: 본초학
 description: 한약재를 이름, 증상과 치료 목적, 본초군, 유사 약재 비교, 처방 구성, 현대 연구와 안전성으로 찾아보는 본초학 통합 안내입니다.
 tags: [본초학, 한약재, 본초 찾기, 한약재 효능]
 status: 검토완료
-last_reviewed: '2026-09-18'
+last_reviewed: '2026-09-21'
 ---
 
 # 본초학
@@ -92,6 +92,7 @@ last_reviewed: '2026-09-18'
 생지황과 숙지황은 가공에 따라 활용 방향이 달라집니다. 목단피는 지황계 처방에서 보익이 지나치게 정체되지 않도록 **허열과 어혈의 방향을 조절하는 역할**을 살펴봅니다.
 
 - [천문동](ophiopogon-extra.md) · [맥문동](ophiopogon.md) — 양음·윤조·생진
+- [사삼·남사삼](adenophora-root.md) — 양음청폐·익위생진, 북사삼과 기원 구분
 
 - [현삼](scrophularia.md) — 청열량혈과 자음
 
@@ -100,6 +101,8 @@ last_reviewed: '2026-09-18'
 ### 청열·습열 {#heat-damp-herbs}
 
 - [금은화](honeysuckle.md)·[연교](forsythia.md)·[포공영](dandelion.md) — 청열해독의 공통점과 소산풍열·소종산결·이뇨통림의 차이
+- [대청엽](isatis-leaf.md) — 청열해독과 량혈소반, 판람근·청대와 약용 부위 구분
+- [죽엽](bamboo-leaf.md) — 심위의 열·번조·갈증, 죽여·담죽엽과 기원·부위 구분
 - [치자](gardenia.md) — 사화제번·청열이습과 처방별 배합
 - [용담·용담초](gentian-root.md) — 청열조습·사간담화
 - [인진·인진호](artemisia-capillaris.md) — 청리습열·퇴황과 기원 구분
@@ -109,6 +112,7 @@ last_reviewed: '2026-09-18'
 - [택사](alisma.md) — 이수삼습·설열
 - [복령](poria.md) — 건비이수·안신
 - [저령](polyporus.md) · [의이인](coix.md) — 이수·삼습의 본초
+- [유근피](elm-root-bark.md) — 뿌리껍질·줄기껍질 명칭을 구분해 이수·소종과 점액질 특성을 확인
 - 산약 — 비신을 보하면서 수분대사의 바탕을 돕는 방향
 - 목단피 — 하초의 허열·어혈을 함께 조절하는 방향
 
@@ -140,7 +144,7 @@ last_reviewed: '2026-09-18'
 - [방풍](saposhnikovia.md) · [강활](notopterygium.md) — 풍한습과 통증 배합
 - [길경](platycodon.md) — 선폐·인후·거담 배합
 
-- [우방자](arctium.md) · [박하](mint.md) — 소산풍열·인후 배합
+- [우방자·우박자](arctium.md) · [박하](mint.md) — 소산풍열·인후 배합과 우엉 열매·후하법 구분
 
 - [백지](angelica-dahurica.md) · [신이](magnolia-bud.md) — 코와 두면부의 거풍·통규 배합
 
