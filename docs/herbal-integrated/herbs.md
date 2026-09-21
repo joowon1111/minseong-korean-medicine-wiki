@@ -48,7 +48,8 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|
 | [진피](../herbs/citrus-peel.md)·[후박](../herbs/magnolia-bark.md)·[지실](../herbs/citrus-immature.md) | 행기·제만·소적 | [평위산](../formulas/pingwei-san.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) |
-| [목향](../herbs/aucklandia.md)·[사인](../herbs/amomum.md)·[향부자](../herbs/cyperus.md) | 이기·화습·소간 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
+| [목향](../herbs/aucklandia.md)·[사인](../herbs/amomum.md) | 이기·화습·건비 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
+| [사인](../herbs/amomum.md)·[향부자](../herbs/cyperus.md)·[백두구](../herbs/white-cardamom.md) | 이기·화습·온중 | [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
 | [산사](../herbs/hawthorn.md)·[신곡·신국](../herbs/massa-medicata-fermentata.md)·[나복자](../herbs/raphanus-seed.md) | 소식화적 | [보화환](../formulas/baohe-wan.md) |
 | [창출](../herbs/atractylodes-lancea.md)·[후박](../herbs/magnolia-bark.md)·[진피](../herbs/citrus-peel.md) | 조습건비·행기제만 | [평위산](../formulas/pingwei-san.md) |
 | [백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[반하](../herbs/pinellia.md) | 건비와 화담을 함께 살피는 배합 | [육군자탕](../formulas/liujunzi-tang.md) |

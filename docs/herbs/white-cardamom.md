@@ -3,7 +3,7 @@ title: 백두구(白豆蔻)
 description: 백두구(白豆蔻)의 약용 부위·전통 효능·대표 처방 배합과 유사 본초의 차이를 정리합니다.
 tags: [백두구, 화습, 온중, 소화, 본초]
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: '2026-09-21'
 ---
 # 백두구(白豆蔻)
 
@@ -23,7 +23,7 @@ last_reviewed: '2026-09-05'
 | 처방 | 배합에서 읽는 역할 |
 |---|---|
 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 국내 방약합편 계통에서 사인·익지인 등과 온중화습하고 보기약과 배합 |
-| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 사인·목향의 이기와 창출·후박의 조습을 연결 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 사인·향부자·진피의 이기와 인삼·백출·건강의 온중건비를 연결 |
 
 ## 비슷한 본초와 구분
 
