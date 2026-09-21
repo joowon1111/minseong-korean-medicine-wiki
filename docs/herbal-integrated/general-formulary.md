@@ -2,7 +2,7 @@
 title: 일반 방제 임상 지도
 tags: [방제학, 일반방제, 임상지도, 처방감별]
 status: 검토완료
-last_reviewed: '2026-09-18'
+last_reviewed: '2026-09-21'
 description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따라 비교하고, 구성 본초와 수치·법제·제형·근거로 연결합니다.
 ---
 # 일반 방제 임상 지도
@@ -57,7 +57,7 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 | [육군자탕](../formulas/liujunzi-tang.md) | 사군자탕 + 화담·이기 | 법제 반하와 진피, 생강·대조 포함 여부 |
 | [평위산](../formulas/pingwei-san.md) | 습체·창만 | 창출·후박의 기원과 자감초, 산제·탕제 차이 |
 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 비기허 + 담습 + 기체 | 법제 반하와 목향·사인의 후하 여부 |
-| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 비위허한 + 습체·기체 | 창출·후박과 사인·목향의 규격·투입 순서 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 소음인 비위허약 + 허한·기체·담체·식상 | 인삼·백출·건강과 반하·진피·향부자·사인·백두구의 규격·투입 순서 |
 | [삼령백출산](../formulas/shenling-baizhu-san.md) | 보기건비·삼습지사 | 산제 원방과 탕제 차이, 사인·백편두 가공 |
 | [곽향정기산](../formulas/huoxiang-zhengqi-san.md) | 외감 + 내상습체 | 곽향·자소엽·백지 등 방향성 약재와 제형 확인 |
 | [반하사심탕](../formulas/banxia-xiexin-tang.md) | 한열착잡·신개고강 | 반하 법제, 건강·생강 및 황련·황금 구분 |

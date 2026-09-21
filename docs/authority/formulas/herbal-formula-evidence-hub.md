@@ -57,7 +57,6 @@ last_reviewed: 2026-09-06
 | [반하사심탕](../../formulas/banxia-xiexin-tang.md) | 기능성소화불량 57개 RCT·5,525명 메타분석 — [PMID 37274096](https://pubmed.ncbi.nlm.nih.gov/37274096/) | 식후 더부룩함·조기포만·명치불편과 전체 소화기 증상을 평가 |
 | [육군자탕](../../research/formulas/rikkunshito.md) | 2026년 한국 다기관 RCT, 기능성소화불량 140명·6주 — [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) | 통상관리군과 비교한 직접 임상시험으로 소화불량 증상과 식욕 관련 지표를 확인 |
 | [향사육군자탕](../../formulas/xiangsha-liujunzi-tang.md) | 기능성소화불량 23개 연구·2,101명 메타분석 — [PMID 38933675](https://pubmed.ncbi.nlm.nih.gov/38933675/) · 다기관 위약대조 RCT 216명 — [PMID 28852318](https://pubmed.ncbi.nlm.nih.gov/28852318/) | 식후포만·조기포만·상복부통증·식욕·위배출을 보고 국내 원방과 시험제제의 구성 차이를 확인 |
-| [향사양위탕](../../formulas/xiangsha-yangwei-tang.md) | 만성위염 18개 RCT·1,720명 메타분석 — [PMID 32627502](https://pubmed.ncbi.nlm.nih.gov/32627502/) | 기존 치료에 더한 향사양위환 병용연구로 읽고 원방·제형·위염 유형을 구분 |
 | [평위산](../../formulas/pingwei-san.md) | 같은 한국 다기관 RCT에서 평위산·육군자탕·통상관리 비교 — [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) | 습체·창만 중심의 실제 병증과 연구 대상이 가까운지 확인 |
 | [통사요방](tongxie-yaofang.md) | 설사형 과민성장증후군 11개 RCT·985명 메타분석 — [PMID 36091782](https://pubmed.ncbi.nlm.nih.gov/36091782/) | 복통·변 상태·배변빈도와 삶의 질을 함께 평가 |
 | [마자인환](../../formulas/mazi-ren-wan.md) | 기능성변비 다기관 이중맹검 RCT 291명 — [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) | 8주 반응률 68% 대 위약 33%; 센나와 8주 차이는 유의하지 않았으며 16주 추적도 평가 |
