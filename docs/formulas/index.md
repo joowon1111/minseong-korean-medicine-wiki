@@ -5,7 +5,7 @@ tags:
 - 방제학
 - 한약처방
 status: 검토완료
-last_reviewed: '2026-09-05'
+last_reviewed: '2026-09-21'
 ---
 # 방제학
 
@@ -45,7 +45,7 @@ last_reviewed: '2026-09-05'
 
 ### 감기·호흡기·표증
 - [계지탕](guizhi-tang.md) · [마황탕](mahuang-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md) · [갈근탕](gegen-tang.md)
-- [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md)
+- [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md) · [시호계지탕](chaihu-guizhi-tang.md)
 
 ### 건중·허로
 
@@ -54,6 +54,8 @@ last_reviewed: '2026-09-05'
 
 ### 소화·담음·수습
 - [이진탕](erchen-tang.md) · [정전가미이진탕](jeongjeon-gami-ijin-tang.md) · [궁하탕](gungha-tang.md) · [온담탕](wendan-tang.md) · [육군자탕](liujunzi-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [오령산](wuling-san.md)
+- [전씨이공산·이공산](jeonssi-igong-san.md) · [삼출건비탕](samchul-geonbi-tang.md) · [자음건비탕](jaeum-geonbi-tang.md)
+- [개울화담전](gaeul-hwadam-jeon.md) · [소식청울탕](sosik-cheongul-tang.md) · [향사양위탕](xiangsha-yangwei-tang.md)
 
 ### 이기·해울
 - [육울탕](yukwul-tang.md) · [월국환](yueju-wan.md) · [시호소간산](chaihu-shugan-san.md) · [반하후박탕](banxia-houpo-tang.md)
@@ -65,10 +67,17 @@ last_reviewed: '2026-09-05'
 
 - [작약감초탕](shaoyao-gancao-tang.md) — 근육경련·쥐
 - [독활기생탕](duhuo-jisheng-tang.md) · [갈근탕](gegen-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md)
+- [여신탕](yeosin-tang.md) — 좌섬·염좌 뒤 국소 요통과 움직임 제한
 
 ### 과민·긴장과 수면
 
 - [억간산](yigan-san.md) — 처방 구조와 치매 행동심리증상 연구
+
+### 허로·회복과 소화가 함께 있을 때
+
+- [쌍금탕](ssanggeum-tang.md) — 쌍화탕의 기혈회복 + 불환금정기산의 화습이기
+- [고진음자](gojin-eumja.md) — 기혈·비신허와 자한·유정·빈뇨의 불고
+- [인삼양영탕](renshen-yangrong-tang.md) · [십전대보탕](shi-quan-da-bu-tang.md) · [귀비탕](guibi-tang.md)
 
 ### 심혈관·대사 임상연구 제제 {#_13}
 
