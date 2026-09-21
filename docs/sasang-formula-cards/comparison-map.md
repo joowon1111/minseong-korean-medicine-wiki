@@ -1,11 +1,11 @@
 ---
-title: 사상체질 대표처방 18종 비교 지도
-description: 네 체질의 대표 사상처방 18종을 표리·한열·순역·중증도와 핵심 관찰 항목으로 비교합니다.
+title: 사상체질 대표처방 27종 비교 지도
+description: 네 체질의 대표 사상처방 27종을 표리·한열·순역·중증도와 핵심 관찰 항목으로 비교합니다.
 tags: [사상의학, 사상처방, 비교, 체질병증]
 status: 검토완료
-last_reviewed: 2026-09-04
+last_reviewed: 2026-09-21
 ---
-# 사상체질 대표처방 18종 비교 지도
+# 사상체질 대표처방 27종 비교 지도
 
 이 지도는 증상 하나에 처방을 바로 붙이지 않고, **같은 체질 안에서 어느 병증축을 먼저 비교할지** 보여줍니다.
 
@@ -18,6 +18,10 @@ last_reviewed: 2026-09-04
 | 간수열리열 | [열다한소탕](yeoldahanso-tang.md) | 열·갈증·다한·피부와 대변 건조 |
 | 강한 리열·정체 | [청폐사간탕](cheongpyesagan-tang.md) | 번갈·변비·복만, 대황 포함 |
 | 리열·조열·심신 | [청심연자탕](cheongsimyeonja-tang.md) | 피로·현훈·심번·수면·심계 |
+| 위완수한표한·승청 저하 | [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) | 기침·담·식후 불편과 수면·회복 |
+| 위완수한표한·흉복통 | [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md) | 흉복통·오한·무한·호흡·담습 |
+| 병후체허·폐원 회복 | [조리폐원탕](../sasang-formula-library/joripyewon-tang.md) | 회복기 기침·호흡·식욕·활동 |
+| 간수열리열·양독 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) | 두면·인후·피부 열과 갈증·대변 |
 
 ## 소양인
 
@@ -28,6 +32,9 @@ last_reviewed: 2026-09-04
 | 망음 심화 | [형방지황탕](hyeongbangjihwang-tang.md) | 복통·설사·진액 손상·기력 저하 |
 | 흉격열·리열 | [양격산화탕](yanggyeoksanhwa-tang.md) | 상열·번조·구갈·대변·수면 |
 | 음허오열·하소 | [독활지황탕](dokhwaljihwang-tang.md) | 지속 소모·하지 무력·배뇨 변화 |
+| 소양상풍·표병 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 두통·한열왕래·신체통·흉협 |
+| 강한 열·진액손상 | [현삼백호탕](../sasang-formula-library/hyeonsambaekho-tang.md) | 변폐·의식·신경계 소견과 탈수 |
+| 장관 열·이질 | [황련청장탕](../sasang-formula-library/hwangryeoncheongjang-tang.md) | 설사·복통·급박감·수분상태 |
 
 ## 소음인
 
@@ -39,6 +46,8 @@ last_reviewed: 2026-09-04
 | 망양초증·승양 | [승양팔물탕](seungyangpalmul-tang.md) | 땀 뒤 탈진·오한·회복 지연 |
 | 망양 심화 | [인삼계지부자탕](insamgyejibujatang.md) | 발한·냉감·전신 쇠약·양기 손상 |
 | 비위·기체 | [향부자팔물탕](hyangbujapalmul-tang.md) | 흉복부 답답함·두통·구갈·긴장 |
+| 망양·발한 뒤 허탈 | [계지부자탕](../sasang-formula-library/gyejibujatang.md) | 자한·냉감·사지 구급·기립 증상 |
+| 소음병·장궐 | [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) | 복통·설사·구토·사지궐냉·쇠약 |
 
 ## 태양인
 

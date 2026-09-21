@@ -868,7 +868,7 @@ nav:
     - 체질·소증·병증 심화: sasang-original-symptoms/index.md
     - 진단·임상표준: sasang-guideline/index.md
     - 사상처방 임상카드:
-      - 대표처방 18종 한눈에 보기: sasang-formula-cards/index.md
+      - 대표처방 27종 한눈에 보기: sasang-formula-cards/index.md
       - 체질별 대표처방 비교: sasang-formula-cards/comparison-map.md
       - 태음인:
         - 태음조위탕: sasang-formula-cards/taeeumjowi-tang.md
@@ -876,12 +876,19 @@ nav:
         - 열다한소탕: sasang-formula-cards/yeoldahanso-tang.md
         - 청폐사간탕: sasang-formula-cards/cheongpyesagan-tang.md
         - 청심연자탕: sasang-formula-cards/cheongsimyeonja-tang.md
+        - 행인승청탕: sasang-formula-library/haenginseungcheong-tang.md
+        - 마황정통탕: sasang-formula-library/mahwangjeongtong-tang.md
+        - 조리폐원탕: sasang-formula-library/joripyewon-tang.md
+        - 갈근해기탕: sasang-formula-library/galgeunhaegi-tang.md
       - 소양인:
         - 형방도적산: sasang-formula-cards/hyeongbangdojeok-san.md
         - 형방사백산: sasang-formula-cards/hyeongbangsabaek-san.md
         - 형방지황탕: sasang-formula-cards/hyeongbangjihwang-tang.md
         - 양격산화탕: sasang-formula-cards/yanggyeoksanhwa-tang.md
         - 독활지황탕: sasang-formula-cards/dokhwaljihwang-tang.md
+        - 형방패독산: sasang-formula-library/hyeongbangpaedok-san.md
+        - 현삼백호탕: sasang-formula-library/hyeonsambaekho-tang.md
+        - 황련청장탕: sasang-formula-library/hwangryeoncheongjang-tang.md
       - 소음인:
         - 곽향정기산: sasang-formula-cards/gwakhyangjeonggi-san.md
         - 백하오이중탕: sasang-formula-cards/baekhao-ijung-tang.md
@@ -889,6 +896,8 @@ nav:
         - 승양팔물탕: sasang-formula-cards/seungyangpalmul-tang.md
         - 인삼계지부자탕: sasang-formula-cards/insamgyejibujatang.md
         - 향부자팔물탕: sasang-formula-cards/hyangbujapalmul-tang.md
+        - 계지부자탕: sasang-formula-library/gyejibujatang.md
+        - 오수유부자이중탕: sasang-formula-library/osuyubujairijung-tang.md
       - 태양인:
         - 오가피장척탕: sasang-formula-cards/ogapi-jangcheok-tang.md
         - 미후등식장탕: sasang-formula-cards/mihudeung-sikjang-tang.md
