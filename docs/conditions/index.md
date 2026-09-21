@@ -8,7 +8,7 @@ tags:
 - 한약
 - 현대근거
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-21
 ---
 
 # 질환별 보기
@@ -61,6 +61,7 @@ last_reviewed: 2026-09-06
 
 - [불면증·수면장애](insomnia.md)
 - [불안·과도한 걱정](anxiety.md)
+- [두근거림·심계 — 가슴이 뛰고 맥이 건너뛰는 느낌](palpitation.md)
 - [화병·울화·가슴이 답답하고 열이 치밀어요](hwabyeong.md)
 - [만성피로](chronic-fatigue.md)
 - [수술 후 회복·기력저하](postoperative-recovery.md)
@@ -70,11 +71,14 @@ last_reviewed: 2026-09-06
 ### 소화·호흡·피부
 
 - [소화불량](dyspepsia.md)
+- [위염·속쓰림·명치통증](gastritis-symptoms.md)
 - [과민성장증후군](ibs.md)
 - [복부팽만·가스](bloating.md)
 - [비염](rhinitis.md)
+- [축농증·부비동염](sinusitis.md)
 - [기침](cough.md)
 - [감기·급성 상기도감염](common-cold.md)
+- [여드름·성인여드름](acne.md)
 - [가려움증·소양증 — 발진 없는 가려움과 원인별 치료](pruritus.md)
 - [항문가려움증·항문소양증](pruritus-ani.md)
 - [대상포진](shingles.md)
