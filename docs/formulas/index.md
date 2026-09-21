@@ -56,6 +56,7 @@ last_reviewed: '2026-09-21'
 - [이진탕](erchen-tang.md) · [정전가미이진탕](jeongjeon-gami-ijin-tang.md) · [궁하탕](gungha-tang.md) · [온담탕](wendan-tang.md) · [육군자탕](liujunzi-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [오령산](wuling-san.md)
 - [전씨이공산·이공산](jeonssi-igong-san.md) · [삼출건비탕](samchul-geonbi-tang.md) · [자음건비탕](jaeum-geonbi-tang.md)
 - [개울화담전](gaeul-hwadam-jeon.md) · [소식청울탕](sosik-cheongul-tang.md) · [향사양위탕](xiangsha-yangwei-tang.md)
+- [불환금정기산](buhuanjin-zhengqi-san.md) · [곽향정기산](huoxiang-zhengqi-san.md) — 외감과 중초 습체가 겹친 오심·복부팽만·설사
 
 ### 이기·해울
 - [육울탕](yukwul-tang.md) · [월국환](yueju-wan.md) · [시호소간산](chaihu-shugan-san.md) · [반하후박탕](banxia-houpo-tang.md)
@@ -68,6 +69,12 @@ last_reviewed: '2026-09-21'
 - [작약감초탕](shaoyao-gancao-tang.md) — 근육경련·쥐
 - [독활기생탕](duhuo-jisheng-tang.md) · [갈근탕](gegen-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md)
 - [여신탕](yeosin-tang.md) — 좌섬·염좌 뒤 국소 요통과 움직임 제한
+- [천궁다조산](chuanxiong-chatiao-san.md) — 외감성 두통과 두면부 풍사의 소풍지통
+
+### 눈피로·더위 뒤 기음소모
+
+- [기국지황환·기국지황탕](qiju-dihuang-wan.md) — 육미지황환 계열 + 구기자·국화의 명목 배합
+- [청서익기탕](qingshu-yiqi-tang.md) — 더위·습 뒤 땀·갈증·권태·식욕저하의 청서익기·양음생진
 
 ### 과민·긴장과 수면
 

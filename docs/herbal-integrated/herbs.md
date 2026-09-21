@@ -49,10 +49,11 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 |---|---|---|
 | [진피](../herbs/citrus-peel.md)·[후박](../herbs/magnolia-bark.md)·[지실](../herbs/citrus-immature.md) | 행기·제만·소적 | [평위산](../formulas/pingwei-san.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) |
 | [목향](../herbs/aucklandia.md)·[사인](../herbs/amomum.md)·[향부자](../herbs/cyperus.md) | 이기·화습·소간 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
-| [산사](../herbs/hawthorn.md)·신곡·[나복자](../herbs/raphanus-seed.md) | 소식화적 | [보화환](../formulas/baohe-wan.md) |
+| [산사](../herbs/hawthorn.md)·[신곡·신국](../herbs/massa-medicata-fermentata.md)·[나복자](../herbs/raphanus-seed.md) | 소식화적 | [보화환](../formulas/baohe-wan.md) |
 | [창출](../herbs/atractylodes-lancea.md)·[후박](../herbs/magnolia-bark.md)·[진피](../herbs/citrus-peel.md) | 조습건비·행기제만 | [평위산](../formulas/pingwei-san.md) |
 | [백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)·[반하](../herbs/pinellia.md) | 건비와 화담을 함께 살피는 배합 | [육군자탕](../formulas/liujunzi-tang.md) |
-| [맥아](../herbs/barley-malt.md)·[산사](../herbs/hawthorn.md)·신곡 | 소식과 화담·건비 배합 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
+| [맥아](../herbs/barley-malt.md)·[산사](../herbs/hawthorn.md)·[신곡](../herbs/massa-medicata-fermentata.md) | 소식과 화담·건비 배합 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
+| [곽향·광곽향](../herbs/agastache.md)·[사인](../herbs/amomum.md)·[백두구](../herbs/white-cardamom.md) | 방향화습·화중지구와 기원·후하 구분 | [곽향정기산](../formulas/huoxiang-zhengqi-san.md) · [불환금정기산](../formulas/buhuanjin-zhengqi-san.md) |
 | [백편두](../herbs/lablab-seed.md)·[연자육](../herbs/lotus-seed.md) | 비위허약·습체와 오래된 묽은변을 살피는 건비 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 | [백두구](../herbs/white-cardamom.md)·[사인](../herbs/amomum.md) | 방향화습·행기온중 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) · [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
 | [익지인](../herbs/alpinia-oxyphylla.md) | 온비·온신과 고삽의 역할 구분 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
@@ -134,7 +135,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [계지](../herbs/cinnamon-twig.md)·[갈근](../herbs/pueraria.md)·[마황](../herbs/ephedra.md) | 땀·오한·항배강을 구분하는 해표·서근 | [계지탕](../formulas/guizhi-tang.md) · [갈근탕](../formulas/gegen-tang.md) |
 | [강활](../herbs/notopterygium.md)·[독활](../herbs/angelica-pubescens.md)·[방풍](../herbs/saposhnikovia.md)·[창출](../herbs/atractylodes-lancea.md) | 풍한습과 몸살·무거움·요슬부 통증을 배합별로 구분 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) · [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
 | [형개](../herbs/schizonepeta.md)·[연교](../herbs/forsythia.md)·[길경](../herbs/platycodon.md) | 표·인후·호흡기 배합 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
-| [우방자·우박자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인, 우엉 열매와 박하 후하법 구분 | [은교산](../formulas/yinqiao-san.md) |
+| [우방자](../herbs/arctium.md)·[박하](../herbs/mint.md)·[금은화](../herbs/honeysuckle.md) | 소산풍열·이인, 우엉 열매와 박하 후하법 구분 | [은교산](../formulas/yinqiao-san.md) |
 | [백지](../herbs/angelica-dahurica.md)·[신이](../herbs/magnolia-bud.md) | 거풍·통규와 코·두면부 배합 | [창이자산](../formulas/cangerzi-san.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | [만형자](../herbs/vitex-fruit.md) | 소산풍열·청리두목 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | [상엽](../herbs/mulberry-leaf.md)·[국화](../herbs/chrysanthemum.md)·[박하](../herbs/mint.md) | 풍열과 기침·두면부 불편을 함께 보는 해표 배합 | [상국음](../formulas/sangju-yin.md) |

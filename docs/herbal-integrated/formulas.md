@@ -30,6 +30,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [소건중탕](../formulas/xiaojianzhong-tang.md) — 중초허한 + 허로성 복통·복부 긴장
 - [황기건중탕](../formulas/huangqi-jianzhong-tang.md) — 중초허한 + 기허·자한·회복저하
 - [위령탕](../formulas/weiling-tang.md) — 비위습체 + 수습
+- [불환금정기산](../formulas/buhuanjin-zhengqi-san.md) — 외감 + 중초 한습·습체, 오심·구토·설사·복부팽만
 
 ## 담음·현훈·불면
 

@@ -123,7 +123,9 @@ last_reviewed: '2026-09-21'
 - [창출](atractylodes-lancea.md) · [진피](citrus-peel.md) · [후박](magnolia-bark.md) — 조습·행기와 복부 팽만의 배합
 - [목향](aucklandia.md) · [사인](amomum.md) · [향부자](cyperus.md) — 이기·화습·소간의 역할 비교
 
-- [산사](hawthorn.md) · [맥아](barley-malt.md) · [나복자](raphanus-seed.md) — 음식 적체를 살피는 소식약
+- [곽향·광곽향](agastache.md) — 방향화습·화중지구와 기원·후하 구분
+
+- [산사](hawthorn.md) · [신곡·신국](massa-medicata-fermentata.md) · [맥아](barley-malt.md) · [나복자](raphanus-seed.md) — 음식 적체를 살피는 소식약
 
 - [백두구](white-cardamom.md) · [익지인](alpinia-oxyphylla.md) — 화습·온중·온비의 역할 비교
 
@@ -141,10 +143,10 @@ last_reviewed: '2026-09-21'
 ### 해표·외감·인후
 
 - [계지](cinnamon-twig.md) · [갈근](pueraria.md) — 영위·항배강·해표 배합
-- [방풍](saposhnikovia.md) · [강활](notopterygium.md) — 풍한습과 통증 배합
+- [형개](schizonepeta.md) · [방풍](saposhnikovia.md) · [강활](notopterygium.md) — 풍사·표증과 통증·피부·인후 배합
 - [길경](platycodon.md) — 선폐·인후·거담 배합
 
-- [우방자·우박자](arctium.md) · [박하](mint.md) — 소산풍열·인후 배합과 우엉 열매·후하법 구분
+- [우방자](arctium.md) · [박하](mint.md) — 소산풍열·인후 배합과 우엉 열매·후하법 구분
 
 - [백지](angelica-dahurica.md) · [신이](magnolia-bud.md) — 코와 두면부의 거풍·통규 배합
 
