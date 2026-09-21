@@ -5350,7 +5350,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/</loc>
-    <lastmod>2026-09-16T18:18:05+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/baihu-tang/</loc>
@@ -5411,6 +5411,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/cangerzi-san/</loc>
     <lastmod>2026-09-16T20:41:57+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/chaihu-guizhi-tang/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/chaihu-jia-longgu-muli-tang/</loc>
@@ -5493,6 +5497,10 @@
     <lastmod>2026-09-08T15:57:51+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/formulas/gaeul-hwadam-jeon/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/formulas/ganlu-xiaodu-dan/</loc>
     <lastmod>2026-09-17T20:35:34+09:00</lastmod>
   </url>
@@ -5503,6 +5511,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/gegen-tang/</loc>
     <lastmod>2026-09-04T13:08:36+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/gojin-eumja/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/gongjin-dan/</loc>
@@ -5561,8 +5573,16 @@
     <lastmod>2026-09-08T17:49:07+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/formulas/jaeum-geonbi-tang/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/formulas/jeongjeon-gami-ijin-tang/</loc>
     <lastmod>2026-09-05T18:34:57+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/jeonssi-igong-san/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/jiaoai-tang/</loc>
@@ -5689,6 +5709,10 @@
     <lastmod>2026-09-17T20:35:34+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/formulas/samchul-geonbi-tang/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/formulas/sangju-yin/</loc>
     <lastmod>2026-09-09T11:42:32+09:00</lastmod>
   </url>
@@ -5739,6 +5763,14 @@
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/siwu-tang/</loc>
     <lastmod>2026-09-16T17:42:19+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/sosik-cheongul-tang/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/ssanggeum-tang/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/ssanghwa-tang/</loc>
@@ -5794,7 +5826,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/wuji-san/</loc>
-    <lastmod>2026-09-06T13:15:46+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/wujisan/</loc>
@@ -5847,6 +5879,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/xuefu-zhuyu-tang/</loc>
     <lastmod>2026-09-16T20:41:57+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/formulas/yeosin-tang/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/formulas/yigan-san/</loc>
@@ -6142,7 +6178,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbal-integrated/formulas/</loc>
-    <lastmod>2026-09-16T18:18:05+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbal-integrated/general-formulary/</loc>
@@ -6186,7 +6222,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbal-integrated/herbs/</loc>
-    <lastmod>2026-09-18T10:59:35+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbal-integrated/how-herbs-combine/</loc>
@@ -6206,7 +6242,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/</loc>
-    <lastmod>2026-09-18T10:59:35+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/achyranthes/</loc>
@@ -6219,6 +6255,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/acorus/</loc>
     <lastmod>2026-08-22T10:11:43+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/adenophora-root/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/alisma-extra/</loc>
@@ -6258,7 +6298,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/arctium/</loc>
-    <lastmod>2026-09-16T15:43:12+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/artemisia-capillaris/</loc>
@@ -6283,6 +6323,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/aucklandia/</loc>
     <lastmod>2026-09-05T20:12:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/bamboo-leaf/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/bamboo-shavings/</loc>
@@ -6381,6 +6425,10 @@
     <lastmod>2026-09-16T17:05:31+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/elm-root-bark/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/ephedra/</loc>
     <lastmod>2026-09-16T18:18:05+09:00</lastmod>
   </url>
@@ -6441,6 +6489,10 @@
     <lastmod>2026-09-18T10:59:35+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/isatis-leaf/</loc>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/jujube-fruit/</loc>
     <lastmod>2026-09-05T17:54:40+09:00</lastmod>
   </url>
@@ -6478,7 +6530,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/mint/</loc>
-    <lastmod>2026-09-16T15:43:12+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/moschus/</loc>
@@ -7674,7 +7726,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-formula-library/galgeunhaegi-tang/</loc>
-    <lastmod>2026-08-21T16:25:48+09:00</lastmod>
+    <lastmod>2026-09-21T15:09:10+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-formula-library/galgeunseunggi-tang/</loc>
