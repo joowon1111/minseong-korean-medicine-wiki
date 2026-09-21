@@ -47,6 +47,9 @@ last_reviewed: '2026-09-21'
 - [계지탕](guizhi-tang.md) · [마황탕](mahuang-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md) · [갈근탕](gegen-tang.md)
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md) · [시호계지탕](chaihu-guizhi-tang.md)
 
+- **한출·오풍과 항배강:** 계지가갈근탕
+- **무한·전신통과 번조:** 대청룡탕
+
 ### 건중·허로
 
 - [대건중탕](dajianzhong-tang.md) — 복부 냉감·팽만과 장기능 회복
@@ -79,6 +82,7 @@ last_reviewed: '2026-09-21'
 ### 과민·긴장과 수면
 
 - [억간산](yigan-san.md) — 처방 구조와 치매 행동심리증상 연구
+- [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) — 흉만·번경·심계·수면 불안정의 복합 증후와 불면·정서 임상연구
 
 ### 허로·회복과 소화가 함께 있을 때
 

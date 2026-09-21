@@ -42,6 +42,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [자음건비탕](../formulas/jaeum-geonbi-tang.md) — 기혈·음 부족 + 비위허약·담음·심신 증상
 - [도담탕](../formulas/daotan-tang.md) — 완고한 담습
 - [가미온담탕](../formulas/jiawei-wendan-tang.md) — 담울 + 심번·불면
+- [시호가용골모려탕](../formulas/chaihu-jia-longgu-muli-tang.md) — 소양불화·담수·울열 + 흉만·번경·심계·수면 불안정
 - [천왕보심단](../formulas/tianwang-buxin-dan.md) — 심신음혈부족
 - [산조인탕](../formulas/suanzaoren-tang.md) — 허번불면
 
@@ -78,6 +79,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [행소산](../formulas/xingsu-san.md) — 량조·해수
 - [보폐탕](../formulas/bufei-tang.md) — 폐기허
 - [생맥산](../formulas/shengmai-san.md) — 기음양허
+- [계지가갈근탕](../formulas/guizhi-jia-gegen-tang.md) — 한출·오풍 + 항배강, 갈근탕의 무한·표실과 감별
+- [대청룡탕](../formulas/daqinglong-tang.md) — 무한·오한·전신통 + 번조·내열
 - [시호계지탕](../formulas/chaihu-guizhi-tang.md) — 소양 화해 + 태양 표증·몸살
 
 ## 청열·화독
