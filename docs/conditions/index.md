@@ -75,10 +75,12 @@ last_reviewed: 2026-09-21
 - [과민성장증후군](ibs.md)
 - [복부팽만·가스](bloating.md)
 - [비염](rhinitis.md)
+- [소아 비염·아이 비염](child-rhinitis.md)
 - [축농증·부비동염](sinusitis.md)
 - [기침](cough.md)
 - [감기·급성 상기도감염](common-cold.md)
 - [여드름·성인여드름](acne.md)
+- [지루성피부염·두피 가려움](seborrheic-dermatitis.md)
 - [가려움증·소양증 — 발진 없는 가려움과 원인별 치료](pruritus.md)
 - [항문가려움증·항문소양증](pruritus-ani.md)
 - [대상포진](shingles.md)
@@ -98,8 +100,16 @@ last_reviewed: 2026-09-21
 
 - [만성염증·염증수치·CRP·ESR 상승](inflammation-markers.md)
 - [혈압이 높아요·건강검진 고혈압](high-blood-pressure-checkup.md)
+- [지방간·건강검진 지방간](fatty-liver.md)
 - [만성콩팥병·크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
 - [당뇨병성 콩팥병·미세알부민뇨](diabetic-kidney-disease.md)
+
+### 비뇨·배뇨
+
+- [방광염·반복되는 요로감염](cystitis.md)
+- [과민성방광·절박뇨](overactive-bladder.md)
+- [야간뇨·밤에 자주 소변을 봐요](nocturia.md)
+- [전립선비대증·소변줄기가 약해요](benign-prostatic-hyperplasia.md)
 
 녹용보약·피로보약·노인보약·성장보약·수술 후 회복보약은 [보약·회복 상황별 안내](../pillar/tonic-recovery.md#tonic-keywords)에서 관련 증상과 처방 자료로 이어집니다.
 
