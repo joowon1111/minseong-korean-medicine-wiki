@@ -17,10 +17,10 @@ CINV는 항암제의 구토유발 위험도와 급성기·지연기를 구분해
 ├─ 급성기 / 지연기
 ├─ 표준 항구토제
 ├─ 내관 PC6·족삼리 ST36·중완 CV12
-└─ 보조적 침 치료`
+└─ 침 병행치료`
 
 ## 해석
 
-침은 암 자체의 치료가 아니며 guideline-based antiemetic regimen을 대체하지 않는다.
+침은 guideline-based antiemetic regimen과 함께 적용해 항암치료 중 오심·구토와 회복 상태를 관리한다.
 
 → [질환별 현대 임상근거 카드](../index.md)

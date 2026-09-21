@@ -36,6 +36,6 @@ last_reviewed: 2026-09-06
 
 피로·식욕저하·건망과 얕은 잠이 겹치면 [귀비탕](../formulas/guibi-tang.md)의 심비양허 맥락을, 흉민·오심·불안정한 잠이 겹치면 [온담탕](../formulas/wendan-tang.md)의 담음 맥락을 비교합니다. 번조·건조·열감에는 [천왕보심단](../formulas/tianwang-buxin-dan.md), 긴장·놀람·초조와 흉부 불편에는 [시호가용골모려탕](../formulas/chaihu-jia-longgu-muli-tang.md) 등을 변증에 따라 검토합니다.
 
-한약을 부정맥 치료제와 같은 의미로 설명하거나 심장 평가를 대신하지 않습니다. 내관·신문 등 [자율신경 관련 경혈](../acupuncture-integrated/points-for-stress-autonomic.md)을 연결하고, 횟수·지속시간·수면·외출 불편이 어떻게 바뀌는지 봅니다.
+심장 평가로 부정맥 유형과 필요한 약물치료를 확인한 뒤 한약치료의 목표를 구분해 함께 계획합니다. 내관·신문 등 [자율신경 관련 경혈](../acupuncture-integrated/points-for-stress-autonomic.md)을 연결하고, 횟수·지속시간·수면·외출 불편이 어떻게 바뀌는지 봅니다.
 
 → [스트레스성 불면](stress-sleep.md) · [스트레스성 소화불량](stress-digestion.md) · [갱년기](../conditions/menopause.md)

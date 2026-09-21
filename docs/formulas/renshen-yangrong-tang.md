@@ -73,7 +73,7 @@ last_reviewed: 2026-09-06
 
 2024년 시험은 **KB-108 엑스과립 1일 7.5 g**을 사용했습니다. 이는 연구 제제량이며 국내 탕약의 원약재 중량으로 환산하지 않습니다. 12주 이후에는 두 군 모두 복용하므로, 후반의 복용 전후 변화를 계속 미복용군과 비교한 효과로 읽지 않습니다. 근육량의 하위집단 분석과 악력·보행 등 개별 결과도 구분합니다. [2024년 원문](https://www.dovepress.com/effects-of-ninjinyoeito-on-patients-with-chronic-obstructive-pulmonary-peer-reviewed-fulltext-article-COPD) · [PMID 38737191](https://pubmed.ncbi.nlm.nih.gov/38737191/)
 
-2020년 연구에서는 설사로 감량한 환자가 4명 있었습니다. 두 연구 모두 공개시험이므로 주관적 증상 결과에는 기대와 관찰의 영향이 있을 수 있습니다. COPD에 동반된 허약의 보조치료 자료로 활용하며, 건강한 고령자의 노화 예방이나 모든 근감소증의 치료 효과로 확대하지 않습니다. [2020년 원 논문](https://pubmed.ncbi.nlm.nih.gov/32551796/) · [일본동양의학회 연구 요약, 13쪽](https://www.jsom.or.jp/ebm/ere/file/EKATE_Appendix_2021.pdf#page=13)
+2020년 연구에서는 설사로 감량한 환자가 4명 있었습니다. 두 연구 모두 공개시험이므로 주관적 증상 결과에는 기대와 관찰의 영향이 있을 수 있습니다. COPD에 동반된 허약에서 식욕·피로·근력·보행을 관리한 자료로 활용하며, 건강한 고령자와 다른 원인의 근감소증에는 각 대상의 임상자료와 경과지표를 적용합니다. [2020년 원 논문](https://pubmed.ncbi.nlm.nih.gov/32551796/) · [일본동양의학회 연구 요약, 13쪽](https://www.jsom.or.jp/ebm/ere/file/EKATE_Appendix_2021.pdf#page=13)
 
 식사량·피로가 나아졌다면 [근감소증·노쇠 안내](../conditions/frailty-sarcopenia.md#sarcopenia-formulas)의 일어서기·보행·생활기능도 함께 확인합니다. 다른 피로 처방의 연구 대상은 [인삼 함유 처방 근거](../authority/formulas/ginseng-formula-fatigue.md#formula-specific-evidence)에서 구분합니다.
 
@@ -92,7 +92,7 @@ last_reviewed: 2026-09-06
 - 인삼·황기·육계가 포함되어 불면·상열·두근거림이 심한 경우 적합성을 재평가합니다.
 - 감초 함유 처방의 중복·장기복용은 부종, 혈압, 근력저하, 혈중 칼륨과 병용약을 확인합니다.
 - 항응고제·항혈소판제, 혈압약·이뇨제, 당뇨약 복용 중이거나 임신·수유 중이면 의료진과 상의합니다.
-- 항암치료·간질환·수술 전후에는 표준치료를 대체하지 않고 담당 의료진과 병용을 조율합니다.
+- 항암치료·간질환·수술 전후에는 담당 의료진과 전체 치료 일정과 병용을 조율합니다.
 
 ## 출전·참고
 

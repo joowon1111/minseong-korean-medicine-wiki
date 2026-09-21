@@ -56,7 +56,7 @@ last_reviewed: 2026-08-19
 <!-- MS60_PSD_START -->
 ## 뇌졸중 후 연하장애 침·전침 최신 근거
 
-뇌졸중 후 연하장애(PSD)는 흡인성 폐렴·영양저하와 연결될 수 있어 **연하재활을 중심으로 한 보조치료 근거**를 봅니다.
+뇌졸중 후 연하장애(PSD)는 흡인성 폐렴·영양저하와 연결될 수 있어 **연하재활과 침구치료를 함께 적용한 근거**를 봅니다.
 
 - 2025 meta-analysis + trial sequential analysis는 **20개 RCT·1,718명**을 포함했습니다. 침+재활은 재활 단독보다 SSA, VFSS, Water Swallow Test, SWAL-QOL에서 유의한 개선을 보였고 TSA에서도 주요 연하기능 결과의 긍정적 효과가 확인되었습니다. PMID `39965554`.
 - 2025 network meta-analysis는 **33개 연구·1,341명**의 비약물 재활치료를 비교했고, 침은 연하기능 및 feeding/daily function 지표에서 높은 순위를 보였습니다. PMID `39532528`.

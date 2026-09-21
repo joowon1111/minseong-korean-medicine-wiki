@@ -35,7 +35,7 @@ last_reviewed: 2026-09-06
 
 이 비교는 전통적 처방 선택의 틀입니다. 개별 한약제제 연구를 모든 탕약의 전립선 크기 감소 효과로 넓히지 않습니다. [전립선비대증 한약 근거](../authority/formulas/bph-herbal-evidence-map.md) · [전립선·배뇨와 홍삼오일 연구](prostate-urinary-symptoms.md)
 
-침·전침을 병행하면 [배뇨 경혈 구성](../acupuncture-integrated/points-for-urinary.md)과 연결하고 배뇨 불편·수면을 목표로 봅니다. 한의치료가 필요한 폐색 평가나 약물·수술을 대신하지 않도록 병행 계획을 세웁니다.
+침·전침을 병행하면 [배뇨 경혈 구성](../acupuncture-integrated/points-for-urinary.md)과 연결하고 배뇨 불편·수면을 목표로 봅니다. 폐색 정도와 약물·수술 적응증을 평가해 한의치료를 포함한 병행 계획을 세웁니다.
 
 ## 배뇨일지와 경과 확인 {#followup}
 

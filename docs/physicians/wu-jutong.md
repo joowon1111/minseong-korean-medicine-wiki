@@ -37,7 +37,7 @@ tags: [의가, 오국통, 오당, 온병조변, 삼초변증, 온병학]
 
 ## 고전에서 현재 문서로
 
-기침·발열에 관한 실제 질문은 [기침 안내](../conditions/cough.md)·[감기 안내](../conditions/common-cold.md)에서 원인과 경과부터 살펴봅니다. 고전적 분류는 현대의 감염 진단이나 응급 평가를 대신하지 않으며, [고전→현대 연구 연결](../network/classic-to-evidence-map.md)에서 연구 대상과 전통 병증의 차이를 확인할 수 있습니다.
+기침·발열에 관한 실제 질문은 [기침 안내](../conditions/cough.md)·[감기 안내](../conditions/common-cold.md)에서 원인과 경과부터 살펴봅니다. 고전적 분류와 현대의 감염 진단·응급 평가를 함께 적용하며, [고전→현대 연구 연결](../network/classic-to-evidence-map.md)에서 연구 대상과 전통 병증의 차이를 확인할 수 있습니다.
 
 ## 참고자료
 
