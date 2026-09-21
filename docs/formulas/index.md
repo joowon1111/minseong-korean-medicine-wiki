@@ -46,6 +46,7 @@ last_reviewed: '2026-09-21'
 ### 감기·호흡기·표증
 - [계지탕](guizhi-tang.md) · [마황탕](mahuang-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md) · [갈근탕](gegen-tang.md)
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md) · [시호계지탕](chaihu-guizhi-tang.md)
+- [행소산](xingsu-san.md) · [상국음](sangju-yin.md) · [맥문동탕](maidong-tang.md) — 량조·풍온·폐위음손의 기침 감별
 
 - **한출·오풍과 항배강:** 계지가갈근탕
 - **무한·전신통과 번조:** 대청룡탕
@@ -60,9 +61,11 @@ last_reviewed: '2026-09-21'
 - [전씨이공산·이공산](jeonssi-igong-san.md) · [삼출건비탕](samchul-geonbi-tang.md) · [자음건비탕](jaeum-geonbi-tang.md)
 - [개울화담전](gaeul-hwadam-jeon.md) · [소식청울탕](sosik-cheongul-tang.md) · [향사양위탕](xiangsha-yangwei-tang.md)
 - [불환금정기산](buhuanjin-zhengqi-san.md) · [곽향정기산](huoxiang-zhengqi-san.md) — 외감과 중초 습체가 겹친 오심·복부팽만·설사
+- [인삼양위탕](renshen-yangwei-tang.md) · [위령탕](weiling-tang.md) — 비위허약·한습과 중초 습체·수습 정체를 구분
 
 ### 이기·해울
 - [육울탕](yukwul-tang.md) · [월국환](yueju-wan.md) · [시호소간산](chaihu-shugan-san.md) · [반하후박탕](banxia-houpo-tang.md)
+- [분심기음](fenxin-qiyin.md) · [오약순기산](wuyao-shunqi-san.md) — 흉복 비체·수습과 풍사·지체통의 차이를 비교
 
 ### 윤장·변비
 - [제천전](jichuan-jian.md) · [마자인환](mazi-ren-wan.md) · [변비 임상 안내](../conditions/constipation.md)

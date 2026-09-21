@@ -112,6 +112,8 @@ last_reviewed: '2026-09-21'
 - [택사](alisma.md) — 이수삼습·설열
 - [복령](poria.md) — 건비이수·안신
 - [저령](polyporus.md) · [의이인](coix.md) — 이수·삼습의 본초
+- [목통](akebia-stem.md) — 청심이수·통림과 공정서 기원 확인
+- [대복피](areca-pericarp.md) — 복부의 기체와 수습·부종을 함께 움직이는 행기이수
 - [유근피](elm-root-bark.md) — 뿌리껍질·줄기껍질 명칭을 구분해 이수·소종과 점액질 특성을 확인
 - 산약 — 비신을 보하면서 수분대사의 바탕을 돕는 방향
 - 목단피 — 하초의 허열·어혈을 함께 조절하는 방향
@@ -122,8 +124,11 @@ last_reviewed: '2026-09-21'
 
 - [창출](atractylodes-lancea.md) · [진피](citrus-peel.md) · [후박](magnolia-bark.md) — 조습·행기와 복부 팽만의 배합
 - [목향](aucklandia.md) · [사인](amomum.md) · [향부자](cyperus.md) — 이기·화습·소간의 역할 비교
+- [청피](green-citrus-peel.md) · [진피](citrus-peel.md) · [지실](citrus-immature.md) — 미성숙 과피·성숙 과피와 파기·이기·소적의 차이
+- [봉출](zedoary-rhizome.md) · [향부자](cyperus.md) · [현호색](corydalis.md) — 기체에 어혈·적체·통증이 겹치는 방향을 구분
 
 - [곽향·광곽향](agastache.md) — 방향화습·화중지구와 기원·후하 구분
+- [초과](tsaoko-fruit.md) — 중초의 한습이 깊고 탁한 방향을 조습온중
 
 - [산사](hawthorn.md) · [신곡·신국](massa-medicata-fermentata.md) · [맥아](barley-malt.md) · [나복자](raphanus-seed.md) — 음식 적체를 살피는 소식약
 
@@ -151,6 +156,8 @@ last_reviewed: '2026-09-21'
 - [백지](angelica-dahurica.md) · [신이](magnolia-bud.md) — 코와 두면부의 거풍·통규 배합
 
 - [만형자](vitex-fruit.md) — 풍열·두면부를 살피는 청리두목
+
+- [백강잠](bombyx-batryticatus.md) — 풍담·경락과 두면부 증상을 살피는 동물성 생약
 
 ### 온리·산한
 
