@@ -85,6 +85,7 @@ last_reviewed: 2026-09-22
 
 - [『동의수세보원』 오가피장척탕 수록 위치](https://www.krpia.co.kr/product/detail?nodeId=NODE04085481&plctId=PLCT00004553)
 - [태양인 병증과 대표처방](../sasang-integrated/taeyangin.md)
+- [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md)
 - [미후등식장탕](mihudeung-sikjang-tang.md)
 - [사상처방 대표 비교](comparison-map.md)
 - [사상체질별 본초→처방 역색인](../herbs/sasang-formula-reverse-index.md#taeyangin-herbs)

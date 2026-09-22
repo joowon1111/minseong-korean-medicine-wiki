@@ -87,6 +87,7 @@ last_reviewed: 2026-09-22
 
 - [『동의사상신편』 미후등식장탕 구성 수록](https://www.krpia.co.kr/product/detail?nodeId=NODE04084994&plctId=PLCT00004548)
 - [태양인 병증과 대표처방](../sasang-integrated/taeyangin.md)
+- [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md)
 - [오가피장척탕](ogapi-jangcheok-tang.md)
 - [사상처방 대표 비교](comparison-map.md)
 - [사상체질별 본초→처방 역색인](../herbs/sasang-formula-reverse-index.md#taeyangin-herbs)

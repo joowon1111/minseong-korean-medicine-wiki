@@ -70,7 +70,7 @@ last_reviewed: '2026-09-21'
 
 대표 처방인 [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md)은 태양인 내촉소장병·열격의 구조를 확인한 뒤 활용합니다. 연하평가·내시경·영상검사 등으로 확인한 현대 의학적 원인과 영양·수분 계획을 함께 통합합니다.
 
-→ [해역과 열격 비교](../sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md) · [태양인 병증 중증도](../sasang-severity/taeyangin.md)
+→ [해역과 열격 비교](../sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md) · [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md) · [태양인 병증 중증도](../sasang-severity/taeyangin.md)
 
 ## 다른 체질·증상과 감별하는 핵심
 
