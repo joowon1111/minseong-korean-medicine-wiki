@@ -131,10 +131,10 @@ last_reviewed: '2026-08-23'
 
 #### 핵심 허브 {#_7}
 - [사상의학 한눈에 보기](../sasang-integrated/index.md)
-- [소양인](../sasang/soyangin.md)
-- [소음인](../sasang/soeumin.md)
-- [태음인](../sasang/taeeumin.md)
-- [태양인](../sasang/taeyangin.md)
+- [소양인](../sasang-integrated/soyangin.md)
+- [소음인](../sasang-integrated/soeumin.md)
+- [태음인](../sasang-integrated/taeeumin.md)
+- [태양인](../sasang-integrated/taeyangin.md)
 - [증상으로 사상체질 이해하기](../sasang-symptoms/index.md)
 
 #### AEO 질문 의도 {#aeo_1}

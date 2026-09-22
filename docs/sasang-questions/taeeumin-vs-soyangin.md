@@ -21,8 +21,8 @@ vs
 체질별 치법
 ```
 
-→ [태음인](../sasang/taeeumin.md)
-→ [소양인](../sasang/soyangin.md)
+→ [태음인](../sasang-integrated/taeeumin.md)
+→ [소양인](../sasang-integrated/soyangin.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
@@ -30,4 +30,3 @@ vs
 - [아카이브 안내](../guide/index.md)
 - [증상·질환](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
-

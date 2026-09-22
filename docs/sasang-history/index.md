@@ -23,7 +23,7 @@ last_reviewed: 2026-08-19
 이제마의 대표 저술인 **《동의수세보원》**은 사상의학의 핵심 고전으로 자리 잡았다.
 
 → [동의수세보원](../sasang/donguisusebowon.md)
-→ [사상체질의 기본 구조](../sasang/four-constitutions.md)
+→ [사상체질의 기본 구조](../sasang-integrated/index.md)
 
 
 ## 동의수세보원의 형성 배경 {#donguisusebowon-context}

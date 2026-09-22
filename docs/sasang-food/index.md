@@ -73,7 +73,7 @@ last_reviewed: '2026-08-30'
 - **소음병·쇠약**: 설사·구토와 탈수, 수족냉·기력저하가 심하면 음식 처방보다 필요한 진료와 수분·전해질 평가가 먼저입니다.
 - **표병·망양 회복기**: 땀을 많이 내는 방식보다 따뜻한 수분과 소화 가능한 식사로 회복력을 지지합니다.
 
-→ [소음인](../sasang/soeumin.md)
+→ [소음인](../sasang-integrated/soeumin.md)
 
 ---
 
@@ -119,7 +119,7 @@ last_reviewed: '2026-08-30'
 
 특정 음식 하나로 소양인 여부를 판단하지 않습니다.
 
-→ [소양인](../sasang/soyangin.md)
+→ [소양인](../sasang-integrated/soyangin.md)
 
 ---
 
@@ -166,7 +166,7 @@ last_reviewed: '2026-08-30'
 - **간수열리열**: 과식·음주·야식·단 음료를 줄이고 대변·갈증·열감과 체중·혈압·혈당을 함께 봅니다.
 - **회복기**: 무조건 발한을 유도하기보다 식사와 활동량을 서서히 늘리며 땀 뒤 개운함 또는 탈진을 관찰합니다.
 
-→ [태음인](../sasang/taeeumin.md)
+→ [태음인](../sasang-integrated/taeeumin.md)
 
 ---
 
@@ -201,7 +201,7 @@ last_reviewed: '2026-08-30'
 
 연하곤란·지속적인 구토·원인 모를 체중감소가 있다면 체질식보다 의학적 평가가 우선됩니다.
 
-→ [태양인](../sasang/taeyangin.md)
+→ [태양인](../sasang-integrated/taeyangin.md)
 
 ---
 
@@ -266,10 +266,10 @@ last_reviewed: '2026-08-30'
 
 ## 네 체질 다시 보기
 
-- [소양인](../sasang/soyangin.md)
-- [소음인](../sasang/soeumin.md)
-- [태음인](../sasang/taeeumin.md)
-- [태양인](../sasang/taeyangin.md)
+- [소양인](../sasang-integrated/soyangin.md)
+- [소음인](../sasang-integrated/soeumin.md)
+- [태음인](../sasang-integrated/taeeumin.md)
+- [태양인](../sasang-integrated/taeyangin.md)
 
 → [사상의학 한눈에 보기](../sasang-integrated/index.md)  
 → [증상으로 사상체질 이해하기](../sasang-symptoms/index.md)

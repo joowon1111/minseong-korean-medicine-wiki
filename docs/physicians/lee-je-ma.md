@@ -18,7 +18,7 @@ last_reviewed: 2026-08-19
 
 | 읽는 층위 | 핵심 질문 | 이어 볼 문서 |
 |---|---|---|
-| 체질의 기본 구조 | 체질별 기능 관계를 어떻게 설명하는가? | [사상체질 개요](../sasang/overview.md) |
+| 체질의 기본 구조 | 체질별 기능 관계를 어떻게 설명하는가? | [사상체질 한눈에 보기](../sasang-integrated/index.md) |
 | 평소 소증 | 아프기 전 소화·수면·땀·대소변은 어땠는가? | [소증과 현재 병증](../sasang-original-symptoms/index.md) |
 | 현재 병증 | 평소와 무엇이 달라졌고 한열·표리는 어떤가? | [체질별 병증 비교](../sasang-integrated/patterns.md) |
 | 처방과 관리 | 현재 병증에서 어떤 치료 목표를 세우는가? | [체질별 처방 탐색](../sasang-integrated/formulas.md) |

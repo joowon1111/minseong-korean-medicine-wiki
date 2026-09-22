@@ -40,7 +40,7 @@ last_reviewed: 2026-08-19
 - 평소 정서·행동 특성
 
 
-→ [사상체질 기본 구조](../sasang/four-constitutions.md)
+→ [사상체질 기본 구조](../sasang-integrated/index.md)
 → [사상의학 통합 지도](../sasang/integrated-map.md)
 
 
@@ -58,7 +58,7 @@ last_reviewed: 2026-08-19
 이 분류는 사상체질의 임상 진단을 단순 성격분류가 아니라 **병증 단위의 의료적 분류체계**로 다루고 있다는 점에서 의미가 있다.
 
 
-→ [사상체질 기본 구조](../sasang/four-constitutions.md)
+→ [사상체질 기본 구조](../sasang-integrated/index.md)
 
 
 ## 사상체질별 생활관리 구조 {#lifestyle-framework}

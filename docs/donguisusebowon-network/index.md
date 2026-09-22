@@ -40,7 +40,7 @@ last_reviewed: 2026-08-22
 #### 소음인
 소화력·복부 냉감·대변·발한·사지냉감·피로를 자세히 봅니다.
 
-→ [사상의학 소증](../sasang/minor-symptoms.md)
+→ [사상의학 소증](../sasang-symptoms/index.md)
 
 
 ## 성명론·사단론 임상 이해 {#seongmyeong-sadan}
@@ -76,8 +76,8 @@ last_reviewed: 2026-08-22
 
 소증은 체질을 정하는 단순 체크리스트가 아니라 **평소 반복되는 생리 패턴과 현재 병증의 변화를 비교하는 기준선**입니다.
 
-→ [사상의학 소증 기준문서](../sasang/minor-symptoms.md)  
-→ [체질 병증 기준문서](../sasang/disease-patterns.md)
+→ [사상의학 소증 기준문서](../sasang-symptoms/index.md)
+→ [체질 병증 기준문서](../sasang-integrated/patterns.md)
 
 
 ## 사상의학 표리병증 {#exterior-interior-patterns}
@@ -87,8 +87,8 @@ last_reviewed: 2026-08-22
 ### 임상 흐름
 체질 후보 → 평소 소증 → 현재 증상 → 체질별 표리병증 → 한열·대소변·발한 → 순역·경중 → 치법·처방
 
-→ [사상체질 병증](../sasang/disease-patterns.md)  
-→ [체질→병증·처방 지도](../sasang/pattern-formula-map.md)
+→ [사상체질 병증](../sasang-integrated/patterns.md)
+→ [체질→병증·처방 지도](../sasang-integrated/formulas.md)
 
 
 ## 사상의학 치료원칙 {#treatment-principles}
@@ -105,7 +105,7 @@ last_reviewed: 2026-08-22
 ### 처방
 소양인의 형방도적산·형방사백산·양격산화탕처럼 같은 체질 안에서도 병증에 따라 처방이 달라집니다.
 
-→ [체질→병증·처방 지도](../sasang/pattern-formula-map.md)  
+→ [체질→병증·처방 지도](../sasang-integrated/formulas.md)
 → [사상 처방 라이브러리](../sasang-formula-library/index.md)
 
 
@@ -119,7 +119,7 @@ last_reviewed: 2026-08-22
 ### 경과평가
 치료 후 주증만 좋아졌는지보다 평소 소증과 생활 기능이 함께 안정되는지 확인합니다.
 
-→ [사상의학 소증](../sasang/minor-symptoms.md)  
+→ [사상의학 소증](../sasang-symptoms/index.md)
 → [피로·회복](../conditions/fatigue.md)
 
 
@@ -134,4 +134,4 @@ last_reviewed: 2026-08-22
 - 현대 질환명과 체질병증을 일대일 대응시키지 않음
 
 → [사상의학 임상 지식망](../sasang/index.md)  
-→ [사상체질 병증](../sasang/disease-patterns.md)
+→ [사상체질 병증](../sasang-integrated/patterns.md)

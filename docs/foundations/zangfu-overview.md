@@ -29,4 +29,4 @@ last_reviewed: 2026-08-19
 ## 사상의학과의 연결
 사상의학에서는 이 장부 기능의 상대적 강약을 체질의 핵심 구조로 활용한다.
 
-→ [사상체질 개요](../sasang/overview.md)
+→ [사상체질 개요](../sasang-integrated/index.md)

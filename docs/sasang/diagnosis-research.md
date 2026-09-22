@@ -25,8 +25,8 @@ last_reviewed: 2026-08-19
 체질진단은 여전히 한 가지 검사로 결정되기보다 **전문가의 종합적 판단과 임상적 맥락**이 중요하다.
 
 ## 연결
-- [사상체질 개요](overview.md)
-- [사상체질 비교](constitution-compare.md)
+- [사상체질 개요](../sasang-integrated/index.md)
+- [사상체질 비교](../sasang-integrated/patterns.md)
 - [동의수세보원](../classics/donguisusebowon.md)
 - [이제마](../physicians/lee-je-ma.md)
 
