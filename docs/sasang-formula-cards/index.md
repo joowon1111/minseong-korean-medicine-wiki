@@ -116,7 +116,7 @@ last_reviewed: 2026-09-22
 
 원전과 후대 처방집의 수록은 전통적 사용 맥락과 조성의 근거입니다. 현대 임상진료지침, 임상연구와 같은 수준의 치료효과 근거를 뜻하지 않으며 현대 질환명과 체질병증을 일대일로 대응하지 않습니다.
 
-→ [처방 감별 지도](comparison-map.md) · [처방 선택 원칙](selection-principles.md) · [근거·참고문헌](references.md) · [구성비·용량 지문](../sasang-formula-dose-fingerprint/index.md)
+→ [처방 감별 지도](comparison-map.md) · [처방 선택 원칙](selection-principles.md) · [근거·참고문헌](references.md) · [본초로 처방 찾기](../herbs/sasang-formula-reverse-index.md) · [구성비·용량 지문](../sasang-formula-dose-fingerprint/index.md)
 
 !!! warning "자가진단·자가조제용 표가 아닙니다"
     사상체질 진단과 체질병증 판단, 처방의 용량·가감은 한의사의 진료를 전제로 합니다. 부자·마황·대황 등 안전성 확인이 중요한 약재가 포함될 수 있습니다.
