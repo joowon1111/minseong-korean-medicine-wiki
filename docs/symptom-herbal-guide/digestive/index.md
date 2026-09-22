@@ -8,6 +8,8 @@ keywords:
   - "배가 아파요"
   - "속이 더부룩해요"
   - "입맛이 없어요"
+status: 검토완료
+last_reviewed: 2026-09-22
 ---
 
 # 소화기계 — 증상 기반 한약 탐색
@@ -24,8 +26,18 @@ keywords:
 
 `증상 확인 → 발생 시점·강도·동반증상 → 감별 → 한의학적 변증 → 본초·방제 근거 → 치료 후 변화 확인`
 
+## 먼저 확인할 위험신호
+
+갑작스럽고 심한 복통, 반발통·복부 경직, 토혈·흑변·혈변, 지속 구토와 탈수, 황달, 원인 모를 체중감소·빈혈, 발열을 동반한 악화는 처방 탐색보다 신속한 의학적 평가가 우선입니다.
+
+→ [소화기 위험신호 자세히 보기](../../clinical-safety/digestive-red-flags.md)
+
 ## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
 
 배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
 
 [변비](../../conditions/constipation.md) · [급성·만성설사](../../conditions/diarrhea.md) · [아침·식후설사](../../conditions/morning-diarrhea.md) · [복부팽만](../../conditions/bloating.md) · [성인 식욕저하](../../conditions/poor-appetite-adult.md) · [소아 식욕부진](../../conditions/child-poor-appetite.md) · [메스꺼움](../../conditions/nausea.md)
+
+## 처방을 비교하는 방법
+
+같은 더부룩함이라도 식후 악화·트림·오심·배변 변화·한열·허실에 따라 비교할 처방군이 달라집니다. 증상명만으로 처방을 고르지 말고 [비위·습체 처방 구조](../../herbal-integrated/formula-structure.md#spleen-damp-family)와 개별 처방의 구성·금기·상호작용을 함께 확인하세요.

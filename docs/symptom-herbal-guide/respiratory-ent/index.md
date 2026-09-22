@@ -8,6 +8,8 @@ keywords:
   - "기침이 오래가요"
   - "목이 따갑고 아파요"
   - "계속 피곤해요"
+status: 검토완료
+last_reviewed: 2026-09-22
 ---
 
 # 호흡기·이비인후과 — 증상 기반 한약 탐색
@@ -23,3 +25,15 @@ keywords:
 ## 진료 정보 구조
 
 `증상 확인 → 발생 시점·강도·동반증상 → 감별 → 한의학적 변증 → 본초·방제 근거 → 치료 후 변화 확인`
+
+## 먼저 확인할 위험신호
+
+호흡곤란, 청색증, 객혈, 산소포화도 저하, 심한 흉통, 의식변화, 침도 삼키기 어려운 증상은 신속한 평가가 필요합니다. 3주 이상 지속되는 기침, 반복되는 발열·체중감소, 새로 생긴 쉰목소리도 원인 감별이 우선입니다.
+
+→ [호흡기·비염 위험신호](../../clinical-safety/rhinitis-respiratory.md)
+
+## 임상 문서로 이어가기
+
+[기침](../../conditions/cough.md) · [만성기침](../../conditions/chronic-cough.md) · [알레르기비염](../../conditions/allergic-rhinitis.md) · [만성피로](../../conditions/chronic-fatigue.md)
+
+감염성 질환, 천식·만성폐질환, 위식도역류, 후비루, 복용약에 의한 기침을 구분하고 한약의 역할을 정합니다. 해수 처방군은 [처방 구조·비교](../../herbal-integrated/formula-structure.md#lung-cough-family)에서 비교할 수 있습니다.

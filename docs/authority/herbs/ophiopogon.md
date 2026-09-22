@@ -1,29 +1,45 @@
 ---
 title: 맥문동 — 출처·현대 연구 카드
-description: 맥문동의 양음생진·윤폐 전통과 steroidal saponin·homoisoflavonoid·다당류 등 현대 연구를 정리합니다.
-tags: [본초, 출처, 현대연구, PMID, DOI]
+description: 맥문동의 기원과 양음생진·윤폐 역할, 성분·처방 연구, 기침 감별과 안전·품질 확인사항을 정리합니다.
+tags: [본초, 맥문동, 현대연구, PMID, DOI]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-22
 ---
+
 # 맥문동 — 출처·현대 연구 카드
 
-## 전통적 활용
-[맥문동](../../herbs/ophiopogon.md)은 전통적으로 **양음생진·윤폐**의 방향으로 활용되며 생맥산 등 기음과 진액을 고려하는 처방에 들어간다.
+## 핵심 정보
 
-## 주요 성분
-현대 리뷰에서는 steroidal saponins, homoisoflavonoids, polysaccharides가 주요 성분군으로 정리되어 있다.
+| 항목 | 내용 |
+|---|---|
+| 생약명 | Ophiopogonis Radix |
+| 대표 기원·부위 | *Ophiopogon japonicus*의 덩이뿌리 |
+| 전통적 역할 | 양음생진·윤폐지해·청심제번 |
+| 주요 연구성분 | steroidal saponins, homoisoflavonoids, 다당류 |
+| 처방 연결 | 맥문동탕·생맥산·죽엽석고탕·천왕보심단 |
 
-## 종합 리뷰
-2016년 *Journal of Ethnopharmacology* 리뷰는 맥문동의 전통적 활용, phytochemistry, 품질관리와 약리 연구를 종합했다.
+## 전통적 활용과 배합
 
-**PMID:** `26826325`  
-**DOI:** `10.1016/j.jep.2016.01.037`
+[맥문동 상세](../../herbs/ophiopogon.md)은 폐·위의 음액과 진액 부족, 마른기침·인후 건조 같은 병증을 중심으로 설명합니다. [생맥산](../../formulas/shengmai-san.md)에서는 인삼·오미자와 익기·생진·렴음을 이루고, 맥문동탕에서는 반하의 강역과 균형을 이룹니다.
 
-2026년에는 맥문동 다당류의 구조·생물학적 활성·응용을 정리한 최신 리뷰도 발표됐다.
+## 현대 연구의 위치
 
-**PMID:** `41967367`  
-**DOI:** `10.1016/j.carres.2026.109871`
+2016년 종합 리뷰는 전통적 활용, 식물화학, 품질관리와 약리 연구를 정리했습니다. 후속 연구는 다당류를 포함한 성분·구조와 생물학적 활성 탐색을 확장하고 있습니다.
 
-## 연결
-→ [생맥산](../../formulas/shengmai-san.md)
-→ [기·혈·진액](../../foundations/qi-blood-fluid.md)
+- [종합 리뷰 — PMID 26826325](https://pubmed.ncbi.nlm.nih.gov/26826325/) · [DOI 10.1016/j.jep.2016.01.037](https://doi.org/10.1016/j.jep.2016.01.037)
+- [맥문동탕 기침 연구 체계적 문헌고찰 — PMID 26666732](https://pubmed.ncbi.nlm.nih.gov/26666732/)
+
+분리 성분과 전임상 연구, 맥문동 단미, 맥문동탕 같은 복합처방은 서로 다른 중재입니다. 사람 대상 결과를 읽을 때 기침의 원인, 제형과 병용치료를 구분합니다.
+
+## 안전·품질 확인
+
+- 묽은 변·복부 냉감·습담이 두드러질 때는 자윤성이 맞는지 처방 전체에서 판단합니다.
+- 만성기침은 천식·폐질환·후비루·역류·약물 관련 원인을 먼저 감별합니다.
+- 기원 식물, 덩이뿌리 품질, 추출법과 원생약 환산량을 확인합니다.
+
+## 관련 문서
+
+- [맥문동 본초 상세](../../herbs/ophiopogon.md)
+- [맥문동탕 현대 임상근거](../formulas/maidong-tang.md)
+- [생맥산](../../formulas/shengmai-san.md)
+- [기침](../../conditions/cough.md) · [마른기침](../../conditions/dry-cough.md)

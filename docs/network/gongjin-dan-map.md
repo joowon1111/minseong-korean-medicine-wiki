@@ -31,6 +31,10 @@ last_reviewed: 2026-08-19
 ## 구성 본초
 - [녹용](../herbs/cervi-parvum-cornu.md)
 - [당귀](../herbs/angelica.md)
+- [산수유](../herbs/cornus-fructus.md)
+- [사향](../herbs/moschus.md)
+
+구성은 문헌과 제품 규격에 따라 차이가 있을 수 있습니다. 특히 사향은 기원·유통과 품질관리 이슈를 확인해야 하며, 다른 대체 원료를 사용한 제제를 원방과 동일하게 보아서는 안 됩니다.
 
 ## 임상 연결
 - [만성피로](../conditions/chronic-fatigue.md)
@@ -38,3 +42,10 @@ last_reviewed: 2026-08-19
 
 ## 처방 문서
 → [공진단(拱辰丹)](../formulas/gongjin-dan.md)
+
+## 현대 연구와 안전성
+
+- [공진단 현대 임상연구](../research/formulas/gongjin-dan.md)
+- [한약 안전성](../herbal-integrated/safety.md)
+
+피로는 빈혈, 갑상샘질환, 수면장애, 감염, 심폐질환, 우울·불안, 약물 등 다양한 원인과 관련될 수 있습니다. 지속되거나 체중감소·발열·호흡곤란·흉통·신경학적 증상이 동반되면 보익 처방을 먼저 정하기보다 원인 평가가 우선입니다. 연구에서 사용한 제제·용량과 실제 제품이 같은지도 확인해야 합니다.

@@ -1133,6 +1133,8 @@ nav:
       - classics/index.md
       - 황제내경: classics/huangdi-neijing.md
       - 난경: classics/nanjing.md
+      - 침구갑을경: classics/zhenjiu-jiayi-jing.md
+      - 침구대성: classics/zhenjiu-dacheng.md
       - 상한론:
         - 개요: classics/shanghanlun.md
         - 전체 조문·판본 안내: shanghan-network/index.md
