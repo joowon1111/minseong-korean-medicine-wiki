@@ -1962,7 +1962,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/ai/site-structure/</loc>
-    <lastmod>2026-09-08T22:20:54+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/answer-guides/</loc>
@@ -3330,7 +3330,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/classics/donguisusebowon/</loc>
-    <lastmod>2026-09-09T12:35:52+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/classics/huangdi-neijing/</loc>
@@ -5174,7 +5174,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/donguisusebowon-network/</loc>
-    <lastmod>2026-09-08T15:57:51+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/eight-principles-network/</loc>
@@ -5310,7 +5310,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/faq/sasang-faq/</loc>
-    <lastmod>2026-08-19T14:45:39+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/faq/tonic-faq/</loc>
@@ -5990,7 +5990,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/foundations/zangfu-overview/</loc>
-    <lastmod>2026-08-19T14:25:16+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/foundations-clinical/</loc>
@@ -7238,7 +7238,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/physicians/lee-je-ma/</loc>
-    <lastmod>2026-09-08T16:28:54+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/physicians/li-dongyuan/</loc>
@@ -7438,43 +7438,19 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang/</loc>
-    <lastmod>2026-09-21T22:14:09+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/constitution-compare/</loc>
-    <lastmod>2026-08-19T14:23:00+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang/diagnosis-research/</loc>
-    <lastmod>2026-08-19T14:23:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/disease-patterns/</loc>
-    <lastmod>2026-08-22T16:22:22+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang/donguisusebowon/</loc>
-    <lastmod>2026-08-21T16:25:48+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/four-constitutions/</loc>
-    <lastmod>2026-08-21T16:34:23+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang/integrated-map/</loc>
-    <lastmod>2026-08-21T16:25:48+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/minor-symptoms/</loc>
-    <lastmod>2026-08-22T16:22:22+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/overview/</loc>
-    <lastmod>2026-08-19T14:23:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/pattern-formula-map/</loc>
-    <lastmod>2026-08-22T15:58:15+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang/sasang-cold-heat/</loc>
@@ -7486,10 +7462,6 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang/sasang-fatigue/</loc>
-    <lastmod>2026-08-21T14:27:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/sasang-formula-guide/</loc>
     <lastmod>2026-08-21T14:27:00+09:00</lastmod>
   </url>
   <url>
@@ -7515,26 +7487,6 @@
   <url>
     <loc>https://wiki.minseong.co.kr/sasang/sasang-weight/</loc>
     <lastmod>2026-09-06T10:58:01+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/soeumin/</loc>
-    <lastmod>2026-08-24T20:54:35+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/soyangin/</loc>
-    <lastmod>2026-08-24T20:54:35+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/taeeumin/</loc>
-    <lastmod>2026-08-24T20:54:35+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/taeumin/</loc>
-    <lastmod>2026-08-19T14:23:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang/taeyangin/</loc>
-    <lastmod>2026-08-24T20:54:35+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-clinical-detail/</loc>
@@ -7614,7 +7566,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-food/</loc>
-    <lastmod>2026-08-30T15:13:41+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-formula-cards/</loc>
@@ -7754,7 +7706,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-formula-library/</loc>
-    <lastmod>2026-09-21T22:14:09+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-formula-library/galgeunhaegi-tang/</loc>
@@ -7874,15 +7826,15 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-guideline/</loc>
-    <lastmod>2026-09-08T15:57:51+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-history/</loc>
-    <lastmod>2026-09-08T15:57:51+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-integrated/</loc>
-    <lastmod>2026-08-29T14:11:20+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-integrated/evidence/</loc>
@@ -7890,11 +7842,11 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-integrated/formulas/</loc>
-    <lastmod>2026-09-04T16:21:38+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-integrated/patterns/</loc>
-    <lastmod>2026-09-09T12:35:52+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-integrated/soeumin/</loc>
@@ -8070,11 +8022,11 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-questions/soyangin-vs-soeumin/</loc>
-    <lastmod>2026-08-21T16:25:48+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-questions/taeeumin-vs-soyangin/</loc>
-    <lastmod>2026-08-21T16:25:48+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-questions/what-is-donguisusebowon/</loc>
@@ -8126,34 +8078,14 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-symptoms/</loc>
-    <lastmod>2026-08-24T20:56:58+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang-symptoms/bowel-urination/</loc>
-    <lastmod>2026-09-08T15:57:51+09:00</lastmod>
+    <lastmod>2026-09-22T09:50:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/sasang-symptoms/constitution-vs-pattern/</loc>
     <lastmod>2026-09-04T16:21:38+09:00</lastmod>
   </url>
   <url>
-    <loc>https://wiki.minseong.co.kr/sasang-symptoms/digestion-fatigue/</loc>
-    <lastmod>2026-09-04T16:21:38+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang-symptoms/heat-thirst/</loc>
-    <lastmod>2026-09-04T16:21:38+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://wiki.minseong.co.kr/sasang-symptoms/integrated-map/</loc>
-    <lastmod>2026-09-08T15:57:51+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang-symptoms/sleep-palpitations/</loc>
-    <lastmod>2026-08-21T16:25:48+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.minseong.co.kr/sasang-symptoms/sweating-fatigue/</loc>
     <lastmod>2026-09-08T15:57:51+09:00</lastmod>
   </url>
   <url>
