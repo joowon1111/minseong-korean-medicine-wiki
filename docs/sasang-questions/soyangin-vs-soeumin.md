@@ -21,8 +21,8 @@ last_reviewed: 2026-08-19
 체질별 치료 원칙
 ```
 
-→ [소양인](../sasang/soyangin.md)
-→ [소음인](../sasang/soeumin.md)
+→ [소양인](../sasang-integrated/soyangin.md)
+→ [소음인](../sasang-integrated/soeumin.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
@@ -30,4 +30,3 @@ last_reviewed: 2026-08-19
 - [아카이브 안내](../guide/index.md)
 - [증상·질환](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
-

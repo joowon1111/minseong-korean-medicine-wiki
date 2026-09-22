@@ -25,13 +25,12 @@ description: 사상의학 통합 지식 지도 — 사상체질의 소증·병�
 
 사상체질은 단순히 “무슨 체질인가?”에서 끝나는 분류가 아니라 **체질이라는 기본 구조와 현재 병증을 함께 판단하는 치료체계**라는 점이 중요하다.
 
-→ [체질→병증·처방](pattern-formula-map.md)  
+→ [체질→병증·처방](../sasang-integrated/formulas.md)
 → [동의수세보원](donguisusebowon.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
 - [사상의학 개요](index.md)
-- [사상체질 기본 구조](four-constitutions.md)
-- [사상 병증·처방 지도](pattern-formula-map.md)
-
+- [사상체질 기본 구조](../sasang-integrated/index.md)
+- [사상 병증·처방 지도](../sasang-integrated/formulas.md)

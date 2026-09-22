@@ -25,6 +25,6 @@ description: 동의수세보원과 사상의학 — 사상체질의 소증·병�
 ## 관련 핵심 문서
 
 - [사상의학 개요](index.md)
-- [사상체질 기본 구조](four-constitutions.md)
-- [사상 병증·처방 지도](pattern-formula-map.md)
-
+- [사상체질 기본 구조](../sasang-integrated/index.md)
+- [사상 병증 비교](../sasang-integrated/patterns.md)
+- [사상 병증·처방 지도](../sasang-integrated/formulas.md)

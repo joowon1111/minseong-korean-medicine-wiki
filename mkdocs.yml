@@ -103,6 +103,23 @@ plugins:
       sasang-formulas/hyeongbangdojeok-san.md: sasang-formula-cards/hyeongbangdojeok-san.md
       sasang-formulas/hyeongbangsabaek-san.md: sasang-formula-cards/hyeongbangsabaek-san.md
       sasang-formulas/yanggyeoksanhwa-tang.md: sasang-formula-cards/yanggyeoksanhwa-tang.md
+      sasang/overview.md: sasang-integrated/index.md
+      sasang/four-constitutions.md: sasang-integrated/index.md
+      sasang/constitution-compare.md: sasang-integrated/patterns.md
+      sasang/soyangin.md: sasang-integrated/soyangin.md
+      sasang/taeeumin.md: sasang-integrated/taeeumin.md
+      sasang/taeumin.md: sasang-integrated/taeeumin.md
+      sasang/soeumin.md: sasang-integrated/soeumin.md
+      sasang/taeyangin.md: sasang-integrated/taeyangin.md
+      sasang/disease-patterns.md: sasang-integrated/patterns.md
+      sasang/pattern-formula-map.md: sasang-integrated/formulas.md
+      sasang/sasang-formula-guide.md: sasang-integrated/formulas.md
+      sasang/minor-symptoms.md: sasang-symptoms/index.md
+      sasang-symptoms/digestion-fatigue.md: sasang-symptoms/index.md#digestion-fatigue
+      sasang-symptoms/bowel-urination.md: sasang-symptoms/index.md#bowel-urination
+      sasang-symptoms/sweating-fatigue.md: sasang-symptoms/index.md#sweating-fatigue
+      sasang-symptoms/sleep-palpitations.md: sasang-symptoms/index.md#sleep-palpitations
+      sasang-symptoms/heat-thirst.md: sasang-symptoms/index.md#heat-thirst
       neijing-network/yinyang-human-body.md: neijing-network/index.md
       neijing-network/zangfu-system.md: neijing-network/index.md
       neijing-network/qi-blood-fluids.md: neijing-network/index.md
