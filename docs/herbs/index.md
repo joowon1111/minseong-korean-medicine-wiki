@@ -3,7 +3,7 @@ title: 본초학
 description: 한약재를 이름, 증상과 치료 목적, 본초군, 유사 약재 비교, 처방 구성, 현대 연구와 안전성으로 찾아보는 본초학 통합 안내입니다.
 tags: [본초학, 한약재, 본초 찾기, 한약재 효능]
 status: 검토완료
-last_reviewed: '2026-09-21'
+last_reviewed: '2026-09-22'
 ---
 
 # 본초학
@@ -193,6 +193,15 @@ last_reviewed: '2026-09-21'
 - **두충 + 우슬:** 간신과 근골을 보하면서 허리·무릎 상태를 살피는 구조
 
 더 깊이 보려면 [임상 핵심 본초 배합 지도—약대](../network/herb-pair-combinations.md)와 [본초 찾기](../herbal-integrated/herbs.md)를 이용하세요.
+
+### 사상처방에서 반복되는 본초
+
+- [건율](dried-chestnut.md) · [천문동](ophiopogon-extra.md) — 태음인의 조위·승청과 폐원·진액축에서 처방별 역할 비교
+- [백하수오](cynanchum-wilfordii.md) — 소음인 리한·기체·망양 회복 처방에서의 배합과 적하수오·이엽우피소 감별
+- [오가피](acanthopanax-bark.md) — 태양인 해역과 오가피장척탕, 가시오가피와 기원 구분
+- [미후등·미후도](mihudeung.md) — 태양인 열격과 미후등식장탕의 처방명·구성 표기 구분
+
+→ [사상체질별 본초→처방 역색인](sasang-formula-reverse-index.md)
 
 ## 개별 본초 문서는 이렇게 읽으세요
 

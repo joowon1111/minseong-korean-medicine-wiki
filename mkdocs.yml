@@ -898,6 +898,12 @@ nav:
   - 체질별 음식 가이드: sasang-food/index.md
   - 한약처방 찾기: sasang-integrated/formulas.md
   - 본초로 사상처방 찾기: herbs/sasang-formula-reverse-index.md
+  - 사상처방 주요 본초:
+    - 건율: herbs/dried-chestnut.md
+    - 천문동: herbs/ophiopogon-extra.md
+    - 백하수오: herbs/cynanchum-wilfordii.md
+    - 오가피: herbs/acanthopanax-bark.md
+    - 미후등·미후도: herbs/mihudeung.md
   - 병증 비교: sasang-integrated/patterns.md
   - 근거·출전: sasang-integrated/evidence.md
   - 상세 자료실:
