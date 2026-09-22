@@ -42,7 +42,7 @@ description: 사상처방 선택 원칙 — 민성 한의학 아카이브의 관
 
 ## 관련 핵심 문서
 
-- [사상처방 상세 임상 카드](index.md)
+- [사상체질별 한약처방](index.md)
 - [사상체질 소증 9항목](../sasang-original-symptoms/index.md)
 - [사상체질 병증 감별](../sasang-pattern-differential/index.md)
 - [치료 경과관찰·재평가](../sasang-followup/index.md)
