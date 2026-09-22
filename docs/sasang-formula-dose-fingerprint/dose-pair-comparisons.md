@@ -55,7 +55,7 @@ description: 유사 사상처방 구성비 비교 — 민성 한의학 아카이
 | 형개 | 3.75 g |  |
 
 
-## [양격산화탕(凉膈散火湯)](../sasang-formula-cards/yanggyeoksanhwa-tang.md) ↔ [형방도백산(荊防導白散)](../sasang-formula-library/hyeongbangdobaek-san.md)
+## [양격산화탕(凉膈散火湯)](../sasang-formula-cards/yanggyeoksanhwa-tang.md) ↔ [형방도백산(荊防導白散)](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek)
 
 | 본초 | 양격산화탕 | 형방도백산 |
 |---|---:|---:|

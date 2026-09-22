@@ -41,7 +41,7 @@ last_reviewed: 2026-09-21
 ## 이어서 보기
 
 - [태음인 대표처방 비교](comparison-map.md)
-- [태음인 위완수한표한 처방군](../sasang-formula-library/taeeumin-exterior-cold.md)
+- [태음인 위완수한표한 처방군](../sasang-formula-library/index.md#taeeum-exterior)
 - [태음인 통합 허브](../sasang-integrated/taeeumin.md)
 
 ## 체중관리 연구와 사상체질의 연결 {#immune-weight-care}

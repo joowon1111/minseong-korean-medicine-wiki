@@ -120,5 +120,5 @@ last_reviewed: 2026-09-21
 - [한국전통지식포탈 조위승청탕 P0018562](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018562&tempLang=ko)
 - [태음인 대표처방 비교](comparison-map.md)
 - [태음인 통합 허브](../sasang-integrated/taeeumin.md)
-- [태음인 위완수한표한 처방군](../sasang-formula-library/taeeumin-exterior-cold.md)
+- [태음인 위완수한표한 처방군](../sasang-formula-library/index.md#taeeum-exterior)
 - [태음조위탕과 조위승청탕 용량 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md)

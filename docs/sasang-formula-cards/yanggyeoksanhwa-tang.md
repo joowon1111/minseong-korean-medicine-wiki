@@ -45,5 +45,5 @@ last_reviewed: 2026-09-04
 ## 이어서 보기
 
 - [소양인 대표처방 비교](comparison-map.md)
-- [소양인 흉격열·리열 처방군](../sasang-formula-library/soyangin-interior-heat.md)
+- [소양인 흉격열·리열 처방군](../sasang-formula-library/index.md#soyang-interior)
 - [소양인 통합 허브](../sasang-integrated/soyangin.md)

@@ -49,7 +49,7 @@ last_reviewed: '2026-09-21'
 | 단계·방향 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |
 |---|---|---|---|
 | 위완한·한궐 | 오한, 무한·발한불리, 몸살·관절통, 두통 | 감염, 갑상선·빈혈, 약물, 혈압 | [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md), [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) |
-| 표한+비위·담습 | 몸이 무겁고 식후 더부룩함, 부종·피로 | 심장·신장·간질환, 수면무호흡, 대사 상태 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md), [승지조위탕](../sasang-formula-library/seungjijowi-tang.md) |
+| 표한+비위·담습 | 몸이 무겁고 식후 더부룩함, 부종·피로 | 심장·신장·간질환, 수면무호흡, 대사 상태 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md), [승지조위탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-seungjijowi) |
 | 승청 기능 저하 | 식후비만, 중소, 하지무력, 오래된 회복저하 | 근감소, 신경·관절 질환, 영양 상태 | [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md), [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) |
 | 위완한폐조 | 호흡기 불편, 건조·소모와 회복 지연 | 폐질환·감염, 빈혈, 체중감소 | [조리폐원탕](../sasang-formula-library/joripyewon-tang.md), [경험승청탕](#taeeum-gyeongheomseungcheong) |
 
@@ -60,9 +60,9 @@ last_reviewed: '2026-09-21'
 | 단계·방향 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |
 |---|---|---|---|
 | 간열 | 열감·구갈·번조, 두면부 열감, 땀 증가 | 발열 원인, 혈압, 갑상선·폐경기 변화 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md), [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) |
-| 강한 리열·조열 | 번갈·변비, 피부·대변 건조, 두통 | 탈수, 급성 복증, 약물성 변비 | [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md), [갈근승기탕](../sasang-formula-library/galgeunseunggi-tang.md) |
+| 강한 리열·조열 | 번갈·변비, 피부·대변 건조, 두통 | 탈수, 급성 복증, 약물성 변비 | [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md), [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) |
 | 리열+심신 증상 | 피로·현훈·심계·수면불편과 열·조 증후 | 부정맥·빈혈·전정질환, 불안·수면장애 | [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) |
-| 식체·대변 정체 | 복만·소화장애와 대변 정체 | 장폐색 신호, 복용약, 식사·활동량 | [나복자승기탕](../sasang-formula-library/nabokjaseunggi-tang.md) |
+| 식체·대변 정체 | 복만·소화장애와 대변 정체 | 장폐색 신호, 복용약, 식사·활동량 | [나복자승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi) |
 
 → [태음인 표한병과 리열병 비교](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md) · [태음인 병증 중증도](../sasang-severity/taeeumin.md)
 
@@ -75,19 +75,11 @@ last_reviewed: '2026-09-21'
 
 체중감량이나 부종 한 가지 목적으로 처방을 고정하지 않습니다. 같은 체중 증가라도 식후 복만·몸의 무거움·발한불리 중심인지, 열·구갈·변비·수면불편 중심인지에 따라 병증축과 치료 목표가 달라집니다.
 
-### 경험승청탕 빠른 카드 {#taeeum-gyeongheomseungcheong}
+### 확장 처방도 함께 비교하기 {#taeeum-gyeongheomseungcheong}
 
-**병증 위치:** 태음인 조위승청탕 계열의 후대 경험방.
+[태음인 확장 처방집](../sasang-formula-library/taeeumin-extended-formulas.md)은 경험승청탕·승지조위탕·갈근승기탕·나복자승기탕을 표한·승청·리열의 축에서 비교합니다. 후대 경험방과 원전 핵심 처방을 구분하고 구성·법제, 감별, 복용 뒤 관찰과 근거 한계를 함께 확인합니다.
 
-| 본초 | 구성량 예시 |
-|---|---:|
-| 건율 | 11.25 g |
-| 해송자 | 7.5 g |
-| 길경·마황·맥문동·산조인·석창포·오미자·용안육·원지·천문동 | 각 3.75 g |
-
-**출전:** 『동의사상신편』(1929), 한국전통지식포탈 P0018563. 원전 처방과 후대 경험방을 구분해 기록하며, 조위승청탕과 기본 방향 및 해송자 등 구성 차이를 비교합니다.
-
-→ [태음인 표한 처방군](../sasang-formula-library/taeeumin-exterior-cold.md) · [태음인 리열 처방군](../sasang-formula-library/taeeumin-interior-heat.md) · [태음인 처방 배합망](../sasang-formula-combination-network/taeeumin-network.md)
+→ [경험승청탕 상세](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-gyeongheomseungcheong) · [태음인 표한 처방군](../sasang-formula-library/index.md#taeeum-exterior) · [태음인 리열 처방군](../sasang-formula-library/index.md#taeeum-interior) · [태음인 처방 배합망](../sasang-formula-combination-network/taeeumin-network.md)
 
 ## 한의원 치료를 어떻게 구성하나요? {#treatment-plan}
 

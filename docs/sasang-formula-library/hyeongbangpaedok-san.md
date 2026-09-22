@@ -56,7 +56,7 @@ last_reviewed: 2026-09-21
 
 ## 이어서 보기
 
-- [소양인 표병 처방군](soyangin-exterior.md)
+- [소양인 표병 처방군](index.md#soyang-exterior)
 - [소양인 통합 허브](../sasang-integrated/soyangin.md)
 - [소양인 병증 중증도](../sasang-severity/soyangin.md)
 

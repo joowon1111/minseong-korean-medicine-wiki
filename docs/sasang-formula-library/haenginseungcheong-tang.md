@@ -54,7 +54,7 @@ last_reviewed: 2026-09-21
 
 이 문서는 전통 수록본의 구성과 병증 위치를 정리한 것입니다. 기침·임신 관련 현대 임상효과를 입증하는 독립적인 근거와는 구분합니다.
 
-- [태음인 위완수한표한 처방군](taeeumin-exterior-cold.md)
+- [태음인 위완수한표한 처방군](index.md#taeeum-exterior)
 - [태음인 통합 허브](../sasang-integrated/taeeumin.md)
 - [기침](../conditions/cough.md)
 

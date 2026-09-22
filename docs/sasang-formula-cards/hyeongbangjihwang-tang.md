@@ -30,7 +30,7 @@ last_reviewed: 2026-09-04
 ## 가까운 처방과 감별
 
 - [형방사백산](hyeongbangsabaek-san.md): 신열·두통·번조와 열·수분대사 변화가 앞서는 망음 초기 방향인지 봅니다.
-- [활석고삼탕](../sasang-formula-library/hwalseokgosam-tang.md): 복통과 습열 양상이 더 강한지 비교합니다.
+- [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam): 복통과 습열 양상이 더 강한지 비교합니다.
 - [독활지황탕](dokhwaljihwang-tang.md): 표병의 설사보다 리열·음허오열·하지무력·배뇨 변화가 중심인지 구분합니다.
 - [형방도적산](hyeongbangdojeok-san.md): 표병의 한열·두통·흉격·배설 변화가 중심이고 진액 손상과 소모가 덜한 단계인지 봅니다.
 
@@ -45,5 +45,5 @@ last_reviewed: 2026-09-04
 ## 이어서 보기
 
 - [소양인 대표처방 비교](comparison-map.md)
-- [소양인 망음·표병 처방군](../sasang-formula-library/soyangin-exterior.md)
+- [소양인 망음·표병 처방군](../sasang-formula-library/index.md#soyang-exterior)
 - [소양인 통합 허브](../sasang-integrated/soyangin.md)

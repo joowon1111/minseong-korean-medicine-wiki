@@ -66,9 +66,9 @@ last_reviewed: 2026-08-29
 |---|---|---|
 | 소양인 비수한표한병 | 소양상풍·망음의 구분, 표음과 진액 상태, 두통·한열·흉격·배설의 조합 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
 | 소양인 위수열리열병 | 흉격열·소갈·음허오열 등의 구분, 청열과 음액 보존의 비중 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) · [소양인 병증](../sasang-integrated/soyangin.md) |
-| 태음인 위완수한표한병 | 표한과 위완한·폐조의 비중, 섭취·호흡·발한의 회복 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [표한 처방군](../sasang-formula-library/taeeumin-exterior-cold.md) |
+| 태음인 위완수한표한병 | 표한과 위완한·폐조의 비중, 섭취·호흡·발한의 회복 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [표한 처방군](../sasang-formula-library/index.md#taeeum-exterior) |
 | 태음인 간수열리열병 | 간열·폐조, 갈증·피부와 대변의 건조, 청열과 조증의 조절 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) |
-| 소음인 신수열표열병·위수한리한병 | 표열의 울광·망양과 리한의 태음·소음병을 나누고 땀·소화·설사·기력 확인 | [소음인 병증](../sasang-integrated/soeumin.md) · [리한·태음병 처방군](../sasang-formula-library/soeumin-taeeum.md) · [망양 처방군](../sasang-formula-library/soeumin-mangyang.md) |
+| 소음인 신수열표열병·위수한리한병 | 표열의 울광·망양과 리한의 태음·소음병을 나누고 땀·소화·설사·기력 확인 | [소음인 병증](../sasang-integrated/soeumin.md) · [리한·태음병 처방군](../sasang-formula-library/index.md#soeum-taeeum) · [망양 처방군](../sasang-formula-library/index.md#soeum-mangyang) |
 | 태양인 외감요척병·내촉소장병 | 해역의 요척·하지 기능과 열격의 섭취·연하 문제를 구분 | [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) · [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md) |
 
 본초는 해당 체질 처방 안에서의 배합으로 읽습니다. 형방도적산의 [전호](../herbs/peucedanum-root.md)·[현삼](../herbs/scrophularia.md), 형방계의 [형개](../herbs/schizonepeta.md)·[방풍](../herbs/saposhnikovia.md)을 따라가되, 개별 본초 효능을 체질 진단이나 처방 전체의 효과와 동일시하지 않습니다.

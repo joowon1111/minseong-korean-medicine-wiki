@@ -65,8 +65,8 @@ last_reviewed: 2026-09-21
 | 처방 | 공통점 | 독활지황탕과 갈리는 지점 |
 |---|---|---|
 | [형방지황탕](hyeongbangjihwang-tang.md) | 숙지황·산수유·복령·택사·독활·방풍 공유 | 비수한표한병의 망음증으로 복통·설사·표병과 진액 손상이 중심. 형개·강활·차전자 포함 |
-| [숙지황고삼탕](../sasang-formula-library/sukjihwanggosam-tang.md) | 숙지황 중심의 음허·리열 축 | 고삼·지모·황백이 배합되어 피부·습열·소양과 리열의 양상을 더 세밀하게 비교 |
-| [화석지황탕](../sasang-formula-library/hwaseokjihwang-tang.md) | 숙지황·산수유·목단피의 하소 축 | 구기자·천화분 등이 더해진 배뇨·갈증·열증 조합을 비교 |
+| [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam) | 숙지황 중심의 음허·리열 축 | 고삼·지모·황백이 배합되어 피부·습열·소양과 리열의 양상을 더 세밀하게 비교 |
+| [화석지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) | 숙지황·산수유·목단피의 하소 축 | 구기자·천화분 등이 더해진 배뇨·갈증·열증 조합을 비교 |
 | 십이미지황탕 | 소양인 음허오열·하소 계열 | 병증의 진행도와 중풍·토혈 등 원전의 중증 증후를 함께 확인 |
 | [양격산화탕](yanggyeoksanhwa-tang.md) | 소양인 리열을 다룸 | 흉격열·두면부 열감·번조·변비가 중심이며 지속 소모와 하지·배뇨 변화는 상대적으로 뒤에 놓임 |
 
@@ -109,6 +109,6 @@ last_reviewed: 2026-09-21
 
 - 『동의수세보원』 소양인 위수열리열병·음허오열병 체계
 - 『동의사상신편』 독활지황탕 수록본 · 한국전통지식포탈 P0018332
-- [소양인 음허오열 처방군](../sasang-formula-library/soyangin-yin-deficiency.md)
+- [소양인 음허오열 처방군](../sasang-formula-library/index.md#soyang-yin-deficiency)
 - [소양인 대표처방 비교](comparison-map.md)
 - [소양인 통합 허브](../sasang-integrated/soyangin.md)

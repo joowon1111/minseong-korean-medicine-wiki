@@ -116,6 +116,6 @@ last_reviewed: 2026-09-21
 
 - [한국전통지식포탈 열다한소탕 P0018568](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018568&tempLang=ko)
 - [태음인 대표처방 비교](comparison-map.md)
-- [태음인 간수열리열 처방군](../sasang-formula-library/taeeumin-interior-heat.md)
+- [태음인 간수열리열 처방군](../sasang-formula-library/index.md#taeeum-interior)
 - [태음인 표한과 리열 감별](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md)
 - [이명](../conditions/tinnitus.md) · [어지럼증](../conditions/dizziness.md)

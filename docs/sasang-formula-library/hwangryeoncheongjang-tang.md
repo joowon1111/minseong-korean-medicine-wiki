@@ -45,7 +45,7 @@ last_reviewed: 2026-09-21
 | **황련청장탕** | 열성 장증상·이질과 수분대사 변화가 중심 |
 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 망음의 복통·설사와 진액·기력 소모가 중심 |
 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 신열·두통·번조와 배설 변화가 함께 나타나는 표병 |
-| [형방도백산](hyeongbangdobaek-san.md) | 형방계 표병에서 열과 배설의 구성 차이를 비교 |
+| [형방도백산](soyangin-extended-formulas.md#soyang-hyeongbangdobaek) | 형방계 표병에서 열과 배설의 구성 차이를 비교 |
 
 ## 경과관찰
 
@@ -57,7 +57,7 @@ last_reviewed: 2026-09-21
 
 ## 이어서 보기
 
-- [소양인 리열 처방군](soyangin-interior-heat.md)
+- [소양인 리열 처방군](index.md#soyang-interior)
 - [소양인 망음과 흉격열 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)
 - [설사](../conditions/diarrhea.md)
 
