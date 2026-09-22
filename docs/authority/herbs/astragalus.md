@@ -1,33 +1,45 @@
 ---
 title: 황기 — 출처·현대 연구 카드
-description: 황기의 보기·승양 전통과 astragaloside·다당류·플라보노이드 등 주요 성분 및 종합 약리 리뷰를 정리합니다.
-tags: [본초, 출처, 현대연구, PMID, DOI]
+description: 황기의 기원과 보기·승양·고표 역할, 주요 성분 연구, 생품·밀자품과 안전·품질 확인사항을 정리합니다.
+tags: [본초, 황기, 현대연구, PMID, DOI]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-22
 ---
+
 # 황기 — 출처·현대 연구 카드
 
-## 전통적 활용
-[황기](../../herbs/astragalus.md)는 대표적인 보기약으로 **보기·승양·고표**의 방향이 두드러진다.
+## 핵심 정보
 
-## 주요 성분
-현대 연구에서는 saponin, flavonoid, polysaccharide 계열이 주요 성분군으로 연구되고 있으며 astragaloside IV와 황기 다당류에 대한 기전연구가 활발하다.
+| 항목 | 내용 |
+|---|---|
+| 생약명 | Astragali Radix |
+| 대표 기원·부위 | *Astragalus*속 공정서 기원 식물의 뿌리 |
+| 전통적 역할 | 보기승양·익위고표·이수소종·탁독생기 |
+| 주요 연구성분 | astragalosides, flavonoids, 다당류 |
+| 처방 연결 | 보중익기탕·옥병풍산·당귀보혈탕·귀비탕·십전대보탕 |
 
-## 2024 종합 리뷰
-Astragali Radix의 botany·phytochemistry·pharmacology·clinical application을 종합한 2024년 리뷰가 발표됐다.
+## 전통적 활용과 배합
 
-**PMID:** `38493280`  
-**DOI:** `10.1007/s12272-024-01489-y`
+[황기 상세](../../herbs/astragalus.md)는 단순한 피로 대응 약재가 아니라 처방의 보기축을 세우는 본초입니다. [보중익기탕](../../formulas/buzhong-yiqi-tang.md)에서는 인삼·백출과 보기를 이루며 승마·시호의 승양 구조와 연결되고, [십전대보탕](../../formulas/shi-quan-da-bu-tang.md)에서는 기혈 보익을 강화합니다.
 
-2023년 종합 리뷰에서는 전통적 활용, 화학성분, 약리, 독성, 품질관리를 폭넓게 정리했다.
+## 현대 연구의 위치
 
-**PMID:** `37680711`  
-**PMCID:** `PMC10482111`  
-**DOI:** `10.3389/fphar.2023.1242318`
+2023년 종합 리뷰는 식물학, 전통적 활용, 화학성분, 약리, 독성과 품질관리를 정리했고, 2024년 리뷰는 임상 적용을 포함한 연구 지형을 갱신했습니다.
 
-## 연결
-- [보중익기탕](../../formulas/buzhong-yiqi-tang.md)
-- [귀비탕](../../formulas/guibi-tang.md)
-- [십전대보탕](../../formulas/shi-quan-da-bu-tang.md)
+- [종합 리뷰 — PMID 37680711](https://pubmed.ncbi.nlm.nih.gov/37680711/) · [PMCID PMC10482111](https://pmc.ncbi.nlm.nih.gov/articles/PMC10482111/)
+- [2024 리뷰 — PMID 38493280](https://pubmed.ncbi.nlm.nih.gov/38493280/) · [DOI 10.1007/s12272-024-01489-y](https://doi.org/10.1007/s12272-024-01489-y)
 
-→ [본초→방제 역탐색](../../network/herb-to-formula-map.md)
+astragaloside IV나 황기 다당류의 전임상 결과를 황기 원약재 또는 황기 함유 복합처방의 임상효과로 바꾸어 말하지 않습니다. 사람 연구에서는 제형, 원생약 환산량, 대상 질환과 병용치료를 확인합니다.
+
+## 안전·품질 확인
+
+- 생황기, 밀자황기, 추출물·다당류 제제는 같은 중재가 아닙니다.
+- 면역억제 치료, 이뇨제나 여러 만성질환 약물을 사용 중이면 전체 처방과 병용 가능성을 검토합니다.
+- 산지명만으로 품질을 판단하지 않고 기원종, 절편, 포제, 추출법과 지표성분을 확인합니다.
+
+## 관련 문서
+
+- [황기 본초 상세](../../herbs/astragalus.md)
+- [보중익기탕](../../formulas/buzhong-yiqi-tang.md) · [귀비탕](../../formulas/guibi-tang.md)
+- [보익·회복 허브](../../pillar/tonic-recovery.md)
+- [본초→방제 역탐색](../../network/herb-to-formula-map.md)

@@ -1,6 +1,8 @@
 ---
 title: 한의학 고전 임상 지식망
-description: 황제내경·난경·상한론·금궤요략·의학입문·경악전서·온병조변·동의보감·동의수세보원을 병증·치법·방제·경혈·현대 연구로 연결합니다.
+description: 황제내경·난경·침구갑을경·침구대성·상한론·금궤요략·의학입문·경악전서·온병조변·동의보감·동의수세보원을 병증·치법·방제·경혈·현대 연구로 연결합니다.
+status: 검토완료
+last_reviewed: 2026-09-22
 ---
 # 한의학 고전 임상 지식망 {#_1}
 
@@ -21,6 +23,8 @@ WHO의 [Global Traditional Medicine Strategy 2025–2034](https://www.who.int/pu
 |---|---|---|
 | 음양·장부·기혈·경락의 기본 개념 | [황제내경](huangdi-neijing.md) | [내경의 개념별 지식망](../neijing-network/index.md) |
 | 맥진·기경팔맥·오수혈의 관계 | [난경](nanjing.md) | [경락·경맥](../meridian-network/index.md) |
+| 경혈 위치·주치의 초기 체계와 변천 | [침구갑을경](zhenjiu-jiayi-jing.md) | [표준 경혈 아틀라스](../acupoint-network/standard-atlas.md) |
+| 명대 침구 종합과 배혈·가결 | [침구대성](zhenjiu-dacheng.md) | [배혈 원칙](../acupuncture-specific/pairing-principles.md) |
 | 육경병과 맥증에 따른 처방의 차이 | [상한론](shanghanlun.md) | [상한론 병증·치법](../shanghan-network/index.md) |
 | 허로·담음·흉비·부인병 등 잡병 | [금궤요략](jinkui-yaolue.md) | [금궤요략 병증별 지식망](../jingui-network/index.md) |
 | 부인·소아·식치·양생을 아우르는 돌봄 | [비급천금요방](beiji-qianjin-yaofang.md) | [손사막과 저술](../physicians/sun-simiao.md) |

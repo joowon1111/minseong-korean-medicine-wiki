@@ -7,7 +7,7 @@ description: 처방 구조·비교 — 민성 한의학 아카이브의 관련 �
 ---
 # 처방 구조·비교
 
-처방을 개별 이름으로 외우기보다 **기본 골격이 어떻게 변형되는지**를 봅니다.
+처방을 개별 이름으로 외우기보다 **기본방의 치료축이 무엇이고 어떤 병리 요소를 더 다루기 위해 약물이 가감되는지**를 봅니다. 아래 계통도는 암기용 족보가 아니라 후보 처방의 차이를 묻는 비교 지도입니다. 실제 처방 선택은 증상명만이 아니라 병력·진찰·변증, 동반질환과 복용약, 구성·용량·안전성을 함께 확인해야 합니다.
 
 ## 1. 보기·기혈 보익 계열
 
@@ -35,7 +35,7 @@ description: 처방 구조·비교 — 민성 한의학 아카이브의 관련 �
 
 **갈림점:** 담습 자체 / 담울·담열 / 비허 / 현훈 / 불면.
 
-## 3. 비위·습체 계열
+## 3. 비위·습체 계열 {#spleen-damp-family}
 
 ```text
 평위산
@@ -69,7 +69,7 @@ description: 처방 구조·비교 — 민성 한의학 아카이브의 관련 �
 팔정산 → 습열하주·열림
 ```
 
-## 6. 폐·해수·천식 계열
+## 6. 폐·해수·천식 계열 {#lung-cough-family}
 
 ```text
 삼소음 → 기허 + 외감풍한 + 담
@@ -109,17 +109,34 @@ description: 처방 구조·비교 — 민성 한의학 아카이브의 관련 �
 창이자산 → 비연·비색·두통
 ```
 
+## 계열별 빠른 비교
+
+| 기본 축 | 기본방·대표방 | 무엇이 더해지며 갈리는가 | 구분 질문 |
+|---|---|---|---|
+| 비기허 → 담습·기체 | [사군자탕](../formulas/sijunzi-tang.md) → [육군자탕](../formulas/liujunzi-tang.md) → [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 진피·반하로 담습, 목향·사인 등으로 기체·식후창만을 더 고려 | 허약이 중심인가, 오심·담습인가, 창만·기체인가? |
+| 혈허 → 기혈양허 | [사물탕](../formulas/siwu-tang.md) → [팔물탕](../formulas/bazhen-tang.md) → [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 보기축 결합 뒤 황기·육계로 기혈허와 한상을 보강 | 혈허 단독인가, 기허가 함께 있는가, 허한이 뚜렷한가? |
+| 담습·담울 | [이진탕](../formulas/erchen-tang.md) → [온담탕](../formulas/wendan-tang.md)·[도담탕](../formulas/daotan-tang.md) | 담울·심번 또는 완고한 담습으로 분기 | 불면·심번이 동반되는가, 담습 정체가 중심인가? |
+| 습체·비위 | [평위산](../formulas/pingwei-san.md) → [위령탕](../formulas/weiling-tang.md)·[곽향정기산](../formulas/huoxiang-zhengqi-san.md) | 이수 또는 외감·구토·설사축이 결합 | 단순 습체인가, 수습인가, 외감 증상이 동반되는가? |
+| 간울·기체 | [소요산](../formulas/xiaoyao-san.md) → [가미소요산](../formulas/jiawei-xiaoyao-san.md) | 울열 소견이 더해짐 | 허실이 섞인 간울인가, 열감·번조가 뚜렷한가? |
+| 수습·기화 | [오령산](../formulas/wuling-san.md)·[저령탕](../formulas/zhuling-tang.md)·[진무탕](../formulas/zhenwu-tang.md) | 수습에 열·음손 또는 양허·한상이 결합 | 갈증·배뇨·부종과 함께 열상인가 한상인가? |
+| 해수·천식 | [삼소음](../formulas/renshen-suyin.md)·[마행감석탕](../formulas/maxing-ganshi-tang.md)·[정천탕](../formulas/dingchuan-tang.md) | 기허외감, 폐열, 담열옹폐로 분기 | 허약·오한인가, 열·갈증인가, 담이 많은가? |
+| 청열 | [황련해독탕](../formulas/huanglian-jiedu-tang.md)·[백호탕](../formulas/baihu-tang.md)·[죽엽석고탕](../formulas/zhuye-shigao-tang.md) | 화독, 양명기분열, 열병 후 기음손상으로 분기 | 열의 위치·단계와 진액 손상이 어떠한가? |
+| 어혈·통락 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md)·[보양환오탕](../formulas/buyang-huanwu-tang.md) | 기체어혈과 기허혈어를 구분 | 통증·고정성 어혈인가, 기허와 기능저하가 중심인가? |
+| 두통·현훈 | [천궁다조산](../formulas/chuanxiong-chatiao-san.md)·[반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md)·[천마구등음](../formulas/tianma-gouteng-yin.md) | 외풍, 비허담습, 간양·간풍으로 분기 | 외감, 담습·오심, 상충·열상 중 무엇이 중심인가? |
+
+!!! note "계통도는 포함관계가 아니라 비교 장치입니다"
+    후대 처방은 출전과 판본에 따라 구성·용량이 다를 수 있고, 이름이 비슷해도 단순히 기본방에 몇 약물을 더한 것으로 환원되지 않는 경우가 있습니다. 각 처방 문서에서 출전·구성·현대 임상근거를 다시 확인하세요.
+
 ## 임상에서 읽는 순서
 
-`주증상 → 병증축 → 기본 처방군 → 가감되는 병리 요소 → 후보 2~4개 → 상세 구성·용량·출전`
+1. 위험신호와 현대의학적 감별이 필요한 상황을 먼저 확인합니다.
+2. 주증상과 시간경과, 한열·허실·담습·어혈 같은 병증축을 정리합니다.
+3. 한 계열에서 후보 2~4개를 고르고 **서로 다른 결정적 소견**을 비교합니다.
+4. 개별 문서에서 정확한 구성·용량·출전·금기·상호작용을 확인합니다.
+5. 치료 뒤 증상과 기능, 이상반응을 같은 지표로 추적합니다.
 
 → [방제 찾기](formulas.md)  
 → [일반 방제 임상 지도](general-formulary.md)
 
-<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
-## 관련 핵심 문서
-
-- [아카이브 안내](../guide/index.md)
-- [증상·질환](../conditions/index.md)
-- [AI 검색 구조](../ai-index.md)
-
+→ [증상 기반 한약 탐색](../symptom-herbal-guide/index.md)
+→ [한약 안전성](safety.md)
