@@ -21,7 +21,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 관계: **7.5 g** (16.7%)
 - 백출: **7.5 g** (16.7%)
 
-## [나복자승기탕(蘿菔子承氣湯)](../sasang-formula-library/nabokjaseunggi-tang.md)
+## [나복자승기탕(蘿菔子承氣湯)](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi)
 - **정량 가능한 총량:** 48.75 g
 - 갈근: **15 g** (30.8%)
 - 나복자: **7.5 g** (15.4%)
@@ -49,7 +49,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 백작약: **11.25 g** (17.6%)
 - 계지: **11.25 g** (17.6%)
 
-## [숙지황고삼탕(熟地黃苦蔘湯)](../sasang-formula-library/sukjihwanggosam-tang.md)
+## [숙지황고삼탕(熟地黃苦蔘湯)](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam)
 - **정량 가능한 총량:** 45 g
 - 숙지황: **15 g** (33.3%)
 - 산수유: **7.5 g** (16.7%)
@@ -119,7 +119,7 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 시호: **9.375 g** (13.2%)
 - 지모: **9.375 g** (13.2%)
 
-## [형방도백산(荊防導白散)](../sasang-formula-library/hyeongbangdobaek-san.md)
+## [형방도백산(荊防導白散)](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek)
 - **정량 가능한 총량:** 45 g
 - 생지황: **11.25 g** (25.0%)
 - 복령: **7.5 g** (16.7%)
@@ -140,14 +140,14 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 방풍: **3.75 g** (11.1%)
 - 생지황: **3.75 g** (11.1%)
 
-## [화석지황탕(花惜地黃湯)](../sasang-formula-library/hwaseokjihwang-tang.md)
+## [화석지황탕(花惜地黃湯)](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang)
 - **정량 가능한 총량:** 46.875 g
 - 숙지황: **15 g** (32.0%)
 - 구기자: **7.5 g** (16.0%)
 - 산수유: **7.5 g** (16.0%)
 - 목단피: **5.625 g** (12.0%)
 
-## [활석고삼탕(滑石苦蔘湯)](../sasang-formula-library/hwalseokgosam-tang.md)
+## [활석고삼탕(滑石苦蔘湯)](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam)
 - **정량 가능한 총량:** 41.25 g
 - 고삼: **7.5 g** (18.2%)
 - 복령: **7.5 g** (18.2%)

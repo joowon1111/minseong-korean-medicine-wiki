@@ -29,7 +29,7 @@ last_reviewed: 2026-09-04
 
 ## 가까운 처방과 감별
 
-- [향소산](../sasang-formula-library/hyangso-san.md): 외감·기체와 소화기 증상의 조합을 비교합니다.
+- [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso): 외감·기체와 소화기 증상의 조합을 비교합니다.
 - [곽향정기산](gwakhyangjeonggi-san.md): 한습·담습, 오심·구토·설사와 심하비만이 더 뚜렷한지 봅니다.
 - [백하오이중탕](baekhao-ijung-tang.md): 복통·설사·냉감의 태음병 리한이 중심인지 구분합니다.
 
@@ -44,5 +44,5 @@ last_reviewed: 2026-09-04
 ## 이어서 보기
 
 - [소음인 대표처방 비교](comparison-map.md)
-- [소음인 비위·기체 처방군](../sasang-formula-library/soeumin-digestive.md)
+- [소음인 비위·기체 처방군](../sasang-formula-library/index.md#soeum-taeeum)
 - [소음인 통합 허브](../sasang-integrated/soeumin.md)

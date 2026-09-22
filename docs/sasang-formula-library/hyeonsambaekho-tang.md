@@ -45,7 +45,7 @@ last_reviewed: 2026-09-21
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 흉격열의 상열·번조·구갈·대변 변화를 중심으로 비교 |
 | 지황백호탕 | 강한 리열과 구갈의 백호탕 계열이지만 실제 수록 구성·병증 단계를 확인 |
 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) | 음허오열·하소와 하지·배뇨·진액 소모가 중심 |
-| [숙지황고삼탕](sukjihwanggosam-tang.md) | 숙지황을 중심으로 한 음허·열·배설 변화의 구성 차이 |
+| [숙지황고삼탕](soyangin-extended-formulas.md#soyang-sukjihwanggosam) | 숙지황을 중심으로 한 음허·열·배설 변화의 구성 차이 |
 
 ## 경과관찰
 
@@ -57,7 +57,7 @@ last_reviewed: 2026-09-21
 
 ## 이어서 보기
 
-- [소양인 리열 처방군](soyangin-interior-heat.md)
+- [소양인 리열 처방군](index.md#soyang-interior)
 - [소양인 통합 허브](../sasang-integrated/soyangin.md)
 - [소양인 병증 중증도](../sasang-severity/soyangin.md)
 

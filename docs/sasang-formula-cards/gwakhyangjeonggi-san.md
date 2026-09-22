@@ -45,5 +45,5 @@ last_reviewed: 2026-09-04
 ## 이어서 보기
 
 - [소음인 대표처방 비교](comparison-map.md)
-- [소음인 태음병 처방군](../sasang-formula-library/soeumin-taeeum.md)
+- [소음인 태음병 처방군](../sasang-formula-library/index.md#soeum-taeeum)
 - [소음인 통합 허브](../sasang-integrated/soeumin.md)

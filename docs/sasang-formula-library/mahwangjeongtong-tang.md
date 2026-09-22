@@ -51,6 +51,6 @@ last_reviewed: 2026-09-21
 
 전통 문헌의 흉복통 수록은 현대의 특정 흉통·복통 질환에 대한 효과 근거와 동일하지 않습니다. 연구를 연결할 때에는 실제 구성, 진단, 비교군과 통증·기능 결과를 확인합니다.
 
-- [태음인 위완수한표한 처방군](taeeumin-exterior-cold.md)
+- [태음인 위완수한표한 처방군](index.md#taeeum-exterior)
 - [태음인 표한과 리열 감별](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md)
 - [가슴답답함·흉부 불편](../conditions/chest-tightness.md) · [복통](../conditions/abdominal-pain.md)

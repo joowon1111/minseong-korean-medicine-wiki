@@ -52,6 +52,6 @@ last_reviewed: 2026-09-21
 
 ‘병후체허’라는 전통 수록 문구는 특정 감염 후 상태나 만성폐질환의 임상효과를 확정하지 않습니다. 현대 연구는 질환, 회복 시점, 실제 제제와 기능 결과를 구분해 읽습니다.
 
-- [태음인 위완수한표한 처방군](taeeumin-exterior-cold.md)
+- [태음인 위완수한표한 처방군](index.md#taeeum-exterior)
 - [태음인 통합 허브](../sasang-integrated/taeeumin.md)
 - [입원·질병 후 회복](../conditions/post-hospitalization-recovery.md)

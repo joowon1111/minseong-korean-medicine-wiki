@@ -53,7 +53,7 @@ last_reviewed: 2026-09-21
 
 문헌상의 장궐·격양을 현대의 쇼크·장폐색·감염으로 단순 대응시키지 않습니다. 현대 연구가 있더라도 실제 포제품·용량·처방 구성과 이상반응 보고를 별도로 확인합니다.
 
-- [소음인 태음병·리한 처방군](soeumin-taeeum.md)
+- [소음인 태음병·리한 처방군](index.md#soeum-taeeum)
 - [소음인 태음병과 소음병 감별](../sasang-pattern-differential/soeumin-taeeum-vs-soeum.md)
 - [소음인 통합 허브](../sasang-integrated/soeumin.md)
 

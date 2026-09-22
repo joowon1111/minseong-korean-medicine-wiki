@@ -42,5 +42,5 @@ last_reviewed: 2026-09-04
 ## 이어서 보기
 
 - [소음인 대표처방 비교](comparison-map.md)
-- [소음인 망양 처방군](../sasang-formula-library/soeumin-mangyang.md)
+- [소음인 망양 처방군](../sasang-formula-library/index.md#soeum-mangyang)
 - [소음인 통합 허브](../sasang-integrated/soeumin.md)

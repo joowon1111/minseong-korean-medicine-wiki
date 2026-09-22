@@ -52,7 +52,7 @@ last_reviewed: '2026-09-21'
 |---|---|---|---|
 | 소양상풍 초기·진행 | 오한·발열의 반복, 두통·신체통, 흉협 불편 | 감염, 체온, 발진, 호흡기 증상 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md), [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
 | 소양상풍 결흉 방향 | 흉격이 막힌 느낌, 번조, 구갈과 배변 변화 | 흉통·호흡곤란, 역류·소화기 질환 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md), [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
-| 망음 | 복통·설사, 오한·신체통, 기력과 진액 소모 | 탈수, 감염성 설사, 전해질 변화 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md), [활석고삼탕](../sasang-formula-library/hwalseokgosam-tang.md) |
+| 망음 | 복통·설사, 오한·신체통, 기력과 진액 소모 | 탈수, 감염성 설사, 전해질 변화 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md), [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) |
 
 망음은 단순히 ‘음이 부족하다’는 말이 아니라 소양인 표병의 특정 역증입니다. 설사 횟수·양상, 복통, 갈증, 소변량, 체중과 활동 가능 범위를 함께 기록합니다.
 
@@ -64,7 +64,7 @@ last_reviewed: '2026-09-21'
 |---|---|---|---|
 | 흉격열 | 상열·입마름·번조, 두통, 변비·배변불리 | 발열 원인, 혈압, 약물성 구강건조, 수면 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md), [황련청장탕](../sasang-formula-library/hwangryeoncheongjang-tang.md) |
 | 강한 리열 | 심한 구갈·변폐·번조, 열성 증후의 심화 | 탈수, 의식 변화, 급성 복증 | [현삼백호탕](../sasang-formula-library/hyeonsambaekho-tang.md), [지황백호탕](#soyang-jihwangbaekho) |
-| 음허오열·하소 | 지속 열감·소모, 하지위약·관절통, 배뇨 변화 | 당뇨·신장질환, 신경·근육 질환, 체중감소 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md), [숙지황고삼탕](../sasang-formula-library/sukjihwanggosam-tang.md), [화석지황탕](../sasang-formula-library/hwaseokjihwang-tang.md) |
+| 음허오열·하소 | 지속 열감·소모, 하지위약·관절통, 배뇨 변화 | 당뇨·신장질환, 신경·근육 질환, 체중감소 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md), [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam), [화석지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) |
 
 → [망음병과 흉격열병 비교](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md) · [소양인 병증 중증도](../sasang-severity/soyangin.md)
 
@@ -77,21 +77,11 @@ last_reviewed: '2026-09-21'
 
 처방은 증상 한 단어가 아니라 **증상의 묶음과 시간 흐름**으로 선택합니다. 설사라고 모두 형방지황탕을 쓰거나 열감이라고 모두 양격산화탕을 쓰는 구조가 아닙니다. 평소 배변, 현재 한열, 갈증·소변, 흉격 불편, 전신 소모가 어느 병증 구조로 모이는지를 확인합니다.
 
-### 지황백호탕 빠른 카드 {#soyang-jihwangbaekho}
+### 확장 처방도 함께 비교하기 {#soyang-jihwangbaekho}
 
-**병증 위치:** 소양인 위수열리열병·흉격열병의 결흉·이열변폐 축.
+[소양인 확장 처방집](../sasang-formula-library/soyangin-extended-formulas.md)은 지황백호탕·활석고삼탕·형방도백산·숙지황고삼탕·화석지황탕을 같은 형식으로 비교합니다. 각 처방의 적용 소증·병증 단계, 핵심 증후, 가까운 처방, 구성·법제, 복용 뒤 관찰, 안전과 근거 한계를 확인할 수 있습니다.
 
-| 본초 | 구성량 예시 |
-|---|---:|
-| 석고 | 18.75 g 또는 37.5 g |
-| 생지황 | 15 g |
-| 지모 | 7.5 g |
-| 방풍 | 3.75 g |
-| 독활 | 3.75 g |
-
-『동의수세보원』 계통과 2022 사상체질병증 한의표준임상진료지침에 수록된 구성량을 연결한 기록입니다. 실제 처방에서는 원전 판본, 제형, 환자의 병증과 병용약을 함께 확인합니다. 양격산화탕·현삼백호탕과는 열증의 깊이, 변폐·구갈·번조와 전신상태를 비교합니다.
-
-→ [소양인 처방군 전체](../sasang-formula-library/soyangin-exterior.md) · [소양인 처방 배합망](../sasang-formula-combination-network/soyangin-network.md)
+→ [지황백호탕 상세](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) · [소양인 처방군 전체](../sasang-formula-library/index.md#soyang-exterior) · [소양인 처방 배합망](../sasang-formula-combination-network/soyangin-network.md)
 
 ## 한의원 치료를 어떻게 구성하나요? {#treatment-plan}
 

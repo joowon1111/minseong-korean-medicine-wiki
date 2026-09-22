@@ -48,7 +48,7 @@ last_reviewed: '2026-09-21'
 
 | 병증 방향 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |
 |---|---|---|---|
-| 태양증·울광 | 오한·발열, 두통·신체통, 땀의 변화 | 감염, 체온, 통증 부위, 호흡기 증상 | [천궁계지탕](#soeum-cheongung-gyeji), [궁귀향소산](../sasang-formula-library/gunggwihyangso-san.md) |
+| 태양증·울광 | 오한·발열, 두통·신체통, 땀의 변화 | 감염, 체온, 통증 부위, 호흡기 증상 | [천궁계지탕](#soeum-cheongung-gyeji), [궁귀향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gunggwihyangso) |
 | 망양초증 | 땀 뒤 기력저하, 표증이 오래가며 회복 지연 | 탈수·저혈압, 빈혈, 약물, 심혈관 상태 | [승양익기탕](#soeum-seungyangikgi), [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
 | 망양 심화 | 발한과 탈진, 냉감·쇠약, 일상기능 저하 | 의식·혈압·맥박, 수분·전해질 | [승양익기부자탕](#soeum-seungyangikgi-buja), [인삼관계부자탕](#soeum-insam-gwangye-buja), [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) |
 
@@ -61,7 +61,7 @@ last_reviewed: '2026-09-21'
 | 태음병 자리·비만 | 복통·설사, 식욕저하, 구토·심하부 답답함, 갈증이 뚜렷하지 않은 흐름 | 장염·식중독, 약물, 염증성 장질환 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md), [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md), [계지반하생강탕](#soeum-gyeji-banha) |
 | 태음병 황달·음독 방향 | 황색 변화·부종, 사지냉·신체통과 기력저하 | 간담도·혈액 질환, 심장·신장 상태 | [십이미관중탕](#soeum-sibimi-gwanjung), [관중탕](#soeum-gwanjung) |
 | 소음병 | 심한 설사·복통, 갈증·심번, 수족냉·전신통, 쇠약 | 중증 탈수, 패혈증, 급성 복증, 전해질 변화 | [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md), [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) |
-| 리한+기체·담습 | 흉복부 답답함, 더부룩함, 오심·구토 | 위·식도 질환, 담낭·췌장 질환 | [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md), [향소산](../sasang-formula-library/hyangso-san.md) |
+| 리한+기체·담습 | 흉복부 답답함, 더부룩함, 오심·구토 | 위·식도 질환, 담낭·췌장 질환 | [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md), [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso) |
 
 → [태음병과 소음병 비교](../sasang-pattern-differential/soeumin-taeeum-vs-soeum.md) · [소음인 병증 중증도](../sasang-severity/soeumin.md)
 
@@ -74,32 +74,15 @@ last_reviewed: '2026-09-21'
 
 복통·설사만으로 처방을 고르지 않습니다. 갈증의 유무와 강도, 수족냉·전신통, 땀과 탈진, 심하비만·구토, 섭취·소변량과 전신상태가 어느 병증 구조로 모이는지를 확인합니다.
 
-### 기존 빠른 카드 {#quick-cards}
+### 확장 처방도 함께 비교하기 {#quick-cards}
 
-<a id="soeum-cheongung-gyeji"></a>
-**천궁계지탕:** 소음인 태양증. 계지 7.5 g, 백작약·진피·천궁·감초 각 3.75 g. 『동의사상신편』 P0018136.
+<a id="soeum-cheongung-gyeji"></a><a id="soeum-gyeji-banha"></a><a id="soeum-seungyangikgi"></a><a id="soeum-seungyangikgi-buja"></a><a id="soeum-insam-gwangye-buja"></a><a id="soeum-sibimi-gwanjung"></a><a id="soeum-gwanjung"></a>
 
-<a id="soeum-gyeji-banha"></a>
-**계지반하생강탕:** 허한성 구토·수결흉. 생강 11.25 g, 계지·반하 각 7.5 g, 백작약·백출·자감초·진피 각 3.75 g. 『동의사상신편』 P0018146.
+[소음인 확장 처방집](../sasang-formula-library/soeumin-extended-formulas.md)은 기존 빠른 카드 7종과 향소산·궁귀향소산·궁귀총소이중탕을 **울광·망양 / 태음병·소음병**의 축으로 재구성했습니다. 각 처방마다 적용 단계, 핵심 증후, 가까운 처방, 구성·법제, 관찰, 안전과 근거 한계를 확인할 수 있습니다.
 
-<a id="soeum-seungyangikgi"></a>
-**승양익기탕:** 태양증·망양초증. 계지·백작약·인삼·황기 각 7.5 g, 관계·당귀·자감초·백하수오 각 3.75 g. 『동의사상신편』 P0018132.
+→ [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) · [계지반하생강탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gyeji-banha) · [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) · [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) · [인삼관계부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-insam-gwangye-buja) · [십이미관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-sibimi-gwanjung) · [관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gwanjung)
 
-<a id="soeum-seungyangikgi-buja"></a>
-**승양익기부자탕:** 망양 심화 방향. 계지·백작약·인삼·황기 각 11.25 g, 관계·당귀·부자·감초·백하수오 각 3.75 g. 『동의사상신편』 P0018130.
-
-<a id="soeum-insam-gwangye-buja"></a>
-**인삼관계부자탕:** 망양증. 관계 18.75 g 또는 37.5 g, 황기 11.25 g, 백작약 7.5 g, 포부자 3.75–7.5 g, 당귀·감초 각 3.75 g. 『동의사상신편』 P0018131.
-
-<a id="soeum-sibimi-gwanjung"></a>
-**십이미관중탕:** 소음인 위장병. 대복피·목향·지실·후박 각 18.75 g, 건강·양강·익지인·적하수오·진피·청피·향부자·백하수오 각 3.75 g, 대조 2매. 『동의사상신편』 P0018150.
-
-<a id="soeum-gwanjung"></a>
-**관중탕:** 흉복통·배뇨불리·사지권태의 맥락. 건강·양강·오령지·익지인·청피 각 3.75 g. 『동의사상신편』 P0018171.
-
-위 구성량은 출전 비교를 위한 기록입니다. 부자·관계가 포함된 처방은 포제, 처방 전체의 배합, 병증·체력, 심혈관 상태와 병용약을 함께 살펴 정밀하게 운용합니다.
-
-→ [소음인 태음병 처방군](../sasang-formula-library/soeumin-taeeum.md) · [소음인 망양 처방군](../sasang-formula-library/soeumin-mangyang.md) · [소음인 처방 배합망](../sasang-formula-combination-network/soeumin-network.md)
+→ [소음인 태음병 처방군](../sasang-formula-library/index.md#soeum-taeeum) · [소음인 망양 처방군](../sasang-formula-library/index.md#soeum-mangyang) · [소음인 처방 배합망](../sasang-formula-combination-network/soeumin-network.md)
 
 ## 한의원 치료를 어떻게 구성하나요? {#treatment-plan}
 

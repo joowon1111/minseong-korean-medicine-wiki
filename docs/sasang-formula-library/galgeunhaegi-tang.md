@@ -69,7 +69,7 @@ last_reviewed: 2026-09-21
 | **갈근해기탕** | 양독·두면·인후·피부의 열성 변화 | 갈근·승마의 해기, 행인·길경의 폐기, 황금·대황의 청열·통부가 함께 구성 |
 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) | 간열폐조·열다한소 | 갈증·다한·피부와 대변 건조 등 전신 리열·조열이 중심. 대황·행인·산조인은 없음 |
 | [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) | 리열과 변비·복만 | 열다한소탕 골격에 대황이 더해져 전신 간열폐조와 대변 정체를 중점 비교 |
-| [갈근승기탕](galgeunseunggi-tang.md) | 갈근계 리열에 승기 필요 | 복만·변비와 장부 정체가 앞서며 통부의 비중이 더 큰지 확인 |
+| [갈근승기탕](taeeumin-extended-formulas.md#taeeum-galgeunseunggi) | 갈근계 리열에 승기 필요 | 복만·변비와 장부 정체가 앞서며 통부의 비중이 더 큰지 확인 |
 | 청혈강기탕 | 피부의 열·혈분 변화 | 홍반·두드러기·소양 등 피부 소견과 병증 전환의 시점을 비교 |
 
 ## 한의원 치료계획과 경과기록
@@ -101,7 +101,7 @@ last_reviewed: 2026-09-21
 ## 출전과 이어 보기
 
 - [한국전통지식포탈 갈근해기탕 P0018561](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018561&tempLang=ko)
-- [태음인 간수열리열 처방군](taeeumin-interior-heat.md)
+- [태음인 간수열리열 처방군](index.md#taeeum-interior)
 - [태음인 처방 구성 네트워크](../sasang-formula-combination-network/taeeumin-network.md)
 - [태음인 표한과 리열 감별](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md)
 - [어지럼증](../conditions/dizziness.md) · [이명](../conditions/tinnitus.md)

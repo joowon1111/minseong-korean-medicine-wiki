@@ -72,7 +72,7 @@ last_reviewed: 2026-09-21
 | [형방도적산](hyeongbangdojeok-san.md) | 강활·독활·형개·방풍을 공유하는 표병 처방 | 흉격·한열·두면부와 배설 변화가 중심인지, 생지황·복령·택사·석고·지모가 필요한 신열두통망음 방향인지 비교 |
 | [형방지황탕](hyeongbangjihwang-tang.md) | 표병·망음과 형방계 약물을 공유 | 복통·설사·진액 손상·기력 저하가 전면에 있는지 확인. 생지황·석고·지모 대신 숙지황·산수유·차전자 축 |
 | 저령차전자탕 | 망음과 수분대사·배설 변화를 함께 봄 | 설사·소변 변화와 습열의 비중, 두통·신열의 강도를 비교 |
-| [활석고삼탕](../sasang-formula-library/hwalseokgosam-tang.md) | 망음에서 열·수분대사를 다룸 | 복통·설사와 습열 양상이 더 뚜렷한지 확인 |
+| [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) | 망음에서 열·수분대사를 다룸 | 복통·설사와 습열 양상이 더 뚜렷한지 확인 |
 | [양격산화탕](yanggyeoksanhwa-tang.md) | 열감·번조·구갈을 함께 볼 수 있음 | 비수한표한병이 아니라 위수열리열병의 흉격열이 중심인지 구분 |
 
 ## 진료 흐름과 경과지표

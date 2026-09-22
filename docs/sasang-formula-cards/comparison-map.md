@@ -1,13 +1,15 @@
 ---
-title: 사상체질 대표처방 27종 비교 지도
-description: 네 체질의 대표 사상처방 27종을 표리·한열·순역·중증도와 핵심 관찰 항목으로 비교합니다.
+title: 사상체질 처방 46종 비교 지도
+description: 네 체질의 대표 임상카드 27종과 확장 처방 19종을 표리·한열·순역·중증도와 핵심 관찰 항목으로 비교합니다.
 tags: [사상의학, 사상처방, 비교, 체질병증]
 status: 검토완료
-last_reviewed: 2026-09-21
+last_reviewed: 2026-09-22
 ---
-# 사상체질 대표처방 27종 비교 지도
+# 사상체질 처방 46종 비교 지도
 
 이 지도는 증상 하나에 처방을 바로 붙이지 않고, **같은 체질 안에서 어느 병증축을 먼저 비교할지** 보여줍니다.
+
+아래 표는 대표 임상카드 27종의 빠른 지도입니다. 후대·확장 처방 19종은 각 체질의 가까운 처방을 한 문서에서 나란히 감별하도록 [확장 비교](#extended-comparison)에 연결했습니다.
 
 ## 태음인
 
@@ -56,6 +58,15 @@ last_reviewed: 2026-09-21
 | 해역 | [오가피장척탕](ogapi-jangcheok-tang.md) | 요척·하지 힘과 기립·보행 기능 |
 | 열격 | [미후등식장탕](mihudeung-sikjang-tang.md) | 연하·섭취·구토와 체중·수분상태 |
 
+## 확장 처방 비교 {#extended-comparison}
+
+| 체질 | 확장 처방집 | 병증축과 추가 처방 |
+|---|---|---|
+| 소양인 | [5종 비교](../sasang-formula-library/soyangin-extended-formulas.md) | 표병·망음: 활석고삼탕·형방도백산 / 리열: 지황백호탕 / 음허오열: 숙지황고삼탕·화석지황탕 |
+| 태음인 | [4종 비교](../sasang-formula-library/taeeumin-extended-formulas.md) | 표한·승청: 승지조위탕·경험승청탕 / 리열·승기: 갈근승기탕·나복자승기탕 |
+| 소음인 | [10종 비교](../sasang-formula-library/soeumin-extended-formulas.md) | 울광·망양 6종 / 태음병·리한·관중계 4종 |
+| 태양인 | [두 대표 카드](index.md) | 현존 자료의 한계 때문에 근거 없는 처방 수 확대를 하지 않음 |
+
 ## 공통 재평가 원칙
 
 - 주증뿐 아니라 식욕·소화, 대변·소변, 땀, 수면, 한열, 갈증, 피로가 같은 방향으로 회복되는지 봅니다.
@@ -64,6 +75,6 @@ last_reviewed: 2026-09-21
 
 ## 함께 보기
 
-- [대표처방 임상카드](index.md)
+- [처방 임상카드 46종](index.md)
 - [사상체질 대표처방 찾기](../sasang-integrated/formulas.md)
 - [사상처방 전체 색인](../sasang-formula-library/index.md)

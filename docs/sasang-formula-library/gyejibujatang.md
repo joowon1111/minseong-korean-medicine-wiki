@@ -54,7 +54,7 @@ last_reviewed: 2026-09-21
 
 전통 병증과 구성 자료는 현대의 저혈압·근육경련 치료효과를 자동으로 입증하지 않습니다. 부자 함유 처방은 특히 처방 전체, 포제, 용량과 이상반응 보고를 함께 읽습니다.
 
-- [소음인 망양 처방군](soeumin-mangyang.md)
+- [소음인 망양 처방군](index.md#soeum-mangyang)
 - [소음인 통합 허브](../sasang-integrated/soeumin.md)
 - [소음인 병증 중증도](../sasang-severity/soeumin.md)
 

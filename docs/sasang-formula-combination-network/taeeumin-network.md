@@ -10,7 +10,7 @@ description: 태음인 처방 배합망 — 민성 한의학 아카이브의 관
 건율·의이인·나복자·길경·마황 등의 표한 계열과 갈근·황금·길경·나복자 등의 리열 계열을 비교합니다.
 
 ## 출처 확인 처방
-- [나복자승기탕(蘿菔子承氣湯)](../sasang-formula-library/nabokjaseunggi-tang.md): 갈근 · 길경 · 나복자 · 대황 · 백지 · 승마 · 황금
+- [나복자승기탕(蘿菔子承氣湯)](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi): 갈근 · 길경 · 나복자 · 대황 · 백지 · 승마 · 황금
 - [마황정통탕(麻黃定痛湯)](../sasang-formula-library/mahwangjeongtong-tang.md): 건율 · 길경 · 나복자 · 마황 · 맥문동 · 백자인 · 사군자 · 석창포 · 오미자 · 용안육 · 의이인 · 행인
 - [열다한소탕(熱多寒少湯)](../sasang-formula-cards/yeoldahanso-tang.md): 갈근 · 고본 · 황금 · 길경 · 나복자 · 백지 · 승마
 - [조리폐원탕(調理肺元湯)](../sasang-formula-library/joripyewon-tang.md): 길경 · 나복자 · 마황 · 맥문동 · 의이인 · 황금
