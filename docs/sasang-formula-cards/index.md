@@ -103,7 +103,7 @@ last_reviewed: 2026-09-22
 | 외감요척병·해역 | [오가피장척탕](ogapi-jangcheok-tang.md) | 요척·하지 힘 저하, 기립·보행 곤란 | 신경계·척추·관절 원인을 평가하고 보행 기능을 추적 |
 | 내촉소장병·열격 | [미후등식장탕](mihudeung-sikjang-tang.md) | 연하불편·구역·구토·섭취 저하 | 위·식도 원인과 탈수·체중감소를 우선 평가 |
 
-→ [태양인 생리·소증과 병증](../sasang-integrated/taeyangin.md)
+→ [태양인 생리·소증과 병증](../sasang-integrated/taeyangin.md) · [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md)
 
 ## 처방 뒤 재평가
 

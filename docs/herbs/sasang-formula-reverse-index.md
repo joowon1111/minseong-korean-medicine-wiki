@@ -130,7 +130,7 @@ description: 소양인·태음인·소음인·태양인 처방의 주요 본초�
 
 오가피·미후등이라는 처방명만으로 전체 구성·용량을 추정하지 않습니다. 진행성 하지 근력저하·보행장애는 신경계·척추 평가를, 연하곤란·반복 구토·체중감소는 위·식도와 영양·탈수 평가를 우선합니다.
 
-→ [태양인 한약처방](../sasang-formula-cards/index.md#taeyangin-formulas) · [태양인 생리·소증과 병증](../sasang-integrated/taeyangin.md)
+→ [태양인 한약처방](../sasang-formula-cards/index.md#taeyangin-formulas) · [태양인 생리·소증과 병증](../sasang-integrated/taeyangin.md) · [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md)
 
 ## 같은 본초를 비교할 때
 

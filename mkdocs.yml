@@ -945,6 +945,15 @@ nav:
       - 소양인 표병·리열·음허오열: sasang-formula-library/soyangin-extended-formulas.md
       - 태음인 표한·승청·리열: sasang-formula-library/taeeumin-extended-formulas.md
       - 소음인 울광·망양·태음병: sasang-formula-library/soeumin-extended-formulas.md
+    - 처방 배합 원리·공통본초:
+      - 배합망 한눈에 보기: sasang-formula-combination-network/index.md
+      - 소양인 처방 배합망: sasang-formula-combination-network/soyangin-network.md
+      - 태음인 처방 배합망: sasang-formula-combination-network/taeeumin-network.md
+      - 소음인 처방 배합망: sasang-formula-combination-network/soeumin-network.md
+      - 태양인 처방 배합망: sasang-formula-combination-network/taeyangin-network.md
+      - 처방군·골격 비교: sasang-formula-combination-network/formula-families.md
+      - 비슷한 처방 쌍 비교: sasang-formula-combination-network/pair-comparisons.md
+      - 공통본초 빈도: sasang-formula-combination-network/ingredient-frequency.md
     - 현대 연구: sasang-research/index.md
     - 역사·인물: sasang-history/index.md
 - 연구·근거:
