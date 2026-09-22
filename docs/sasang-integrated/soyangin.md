@@ -77,9 +77,9 @@ last_reviewed: '2026-09-21'
 
 처방은 증상 한 단어가 아니라 **증상의 묶음과 시간 흐름**으로 선택합니다. 설사라고 모두 형방지황탕을 쓰거나 열감이라고 모두 양격산화탕을 쓰는 구조가 아닙니다. 평소 배변, 현재 한열, 갈증·소변, 흉격 불편, 전신 소모가 어느 병증 구조로 모이는지를 확인합니다.
 
-### 확장 처방도 함께 비교하기 {#soyang-jihwangbaekho}
+### 표병·리열·음허오열 처방 상세 {#soyang-jihwangbaekho}
 
-[소양인 확장 처방집](../sasang-formula-library/soyangin-extended-formulas.md)은 지황백호탕·활석고삼탕·형방도백산·숙지황고삼탕·화석지황탕을 같은 형식으로 비교합니다. 각 처방의 적용 소증·병증 단계, 핵심 증후, 가까운 처방, 구성·법제, 복용 뒤 관찰, 안전과 근거 한계를 확인할 수 있습니다.
+[소양인 한약처방](../sasang-formula-cards/index.md#soyangin-formulas)은 처방을 표병·망음, 흉격열·리열, 음허오열의 순서로 한 화면에 배치합니다. 지황백호탕·활석고삼탕·형방도백산·숙지황고삼탕·화석지황탕의 구성·법제와 근거 층은 [처방 상세](../sasang-formula-library/soyangin-extended-formulas.md)에서 확인합니다.
 
 → [지황백호탕 상세](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) · [소양인 처방군 전체](../sasang-formula-library/index.md#soyang-exterior) · [소양인 처방 배합망](../sasang-formula-combination-network/soyangin-network.md)
 

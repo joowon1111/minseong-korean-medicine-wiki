@@ -1,21 +1,21 @@
 ---
-title: 사상 처방 임상 라이브러리
+title: 사상체질 한약처방 병증 색인
 description: 사상체질 처방을 체질명보다 소증·표리병증·한열·순역·주증과 연결해 탐색합니다.
 tags: [사상의학, 사상처방, 동의수세보원]
 status: 검토완료
 last_reviewed: 2026-09-22
 ---
-# 사상 처방 임상 라이브러리
+# 사상체질 한약처방 병증 색인
 
 사상 처방은 **소양인이면 무조건 소양인 처방 하나**처럼 선택하지 않습니다.
 
 `체질 → 평소 소증 → 현재 체질병증 → 표리·한열 → 순증/역증·경중 → 치법 → 처방 → 경과평가`
 
-현재 처방망은 [대표 임상카드 27종](../sasang-formula-cards/index.md)과 **확장 처방 19종**을 연결합니다. 체질별로는 소양인 13종·태음인 13종·소음인 18종·태양인 2종, 총 46종입니다. 확장 처방은 확인된 출전·구성·용량을 보존하면서 적용 병증·감별·관찰·안전과 근거 한계를 같은 형식으로 갖췄습니다.
+[사상체질별 한약처방](../sasang-formula-cards/index.md)은 모든 처방을 네 체질의 병증 흐름 안에서 한 번에 보여줍니다. 이 색인에서는 같은 처방을 표리·순역·경중에 따라 다시 묶어 가까운 처방과 감별할 수 있습니다.
 
 ## 체질·병증군으로 찾기 {#constitution-pattern-index}
 
-| 체질 | 병증군 | 대표·확장 처방 | 핵심 감별 |
+| 체질 | 병증군 | 함께 비교할 처방 | 핵심 감별 |
 |---|---|---|---|
 | 소양인 | [망음·표병](#soyang-exterior) | 형방지황탕·활석고삼탕·형방도백산·형방패독산 | 설사·복통, 한열·두통, 소변·갈증과 소모 |
 | 소양인 | [흉격열·리열](#soyang-interior) | 양격산화탕·현삼백호탕·지황백호탕·황련청장탕 | 흉격열, 변폐, 번조·구갈과 전신 열증의 깊이 |
@@ -74,24 +74,6 @@ last_reviewed: 2026-09-22
 
 태양인은 현존 원전의 병증·처방 자료가 다른 체질보다 제한적입니다. 숫자를 맞추기 위해 후대 효능이나 다른 체질 처방을 끌어오지 않으며, 진행성 하지근력 저하·보행장애와 연하곤란·반복 구토·체중감소는 신경계·척추·위식도 평가를 우선합니다.
 
-## 주요 개별 처방 바로가기
-
-### 소양인 13종
-
-[형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) · [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) · [형방패독산](hyeongbangpaedok-san.md) · [현삼백호탕](hyeonsambaekho-tang.md) · [황련청장탕](hwangryeoncheongjang-tang.md) · [소양인 확장 처방 5종](soyangin-extended-formulas.md)
-
-### 태음인 13종
-
-[태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) · [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) · [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) · [행인승청탕](haenginseungcheong-tang.md) · [마황정통탕](mahwangjeongtong-tang.md) · [조리폐원탕](joripyewon-tang.md) · [갈근해기탕](galgeunhaegi-tang.md) · [태음인 확장 처방 4종](taeeumin-extended-formulas.md)
-
-### 소음인 18종
-
-[곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) · [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) · [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) · [계지부자탕](gyejibujatang.md) · [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) · [오수유부자이중탕](osuyubujairijung-tang.md) · [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) · [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) · [소음인 확장 처방 10종](soeumin-extended-formulas.md)
-
-### 태양인 2종
-
-[오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) · [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md)
-
 ## 처방을 읽는 항목
 
 - 출전과 원문 병증
@@ -104,16 +86,16 @@ last_reviewed: 2026-09-22
 
 ## 색인 이용 원칙
 
-- **대표 임상 카드**는 처방의 병증 위치와 감별·경과관찰을 빠르게 파악하는 입구입니다.
+- **체질별 한약처방**은 네 체질의 처방을 병증 단계 순서로 훑는 첫 화면입니다.
 - **체질·병증군 색인**은 같은 체질 안에서 가까운 처방을 비교하는 지도입니다.
-- **확장 처방집**은 짧은 조성 기록을 처방별 적용 단계·감별·법제·관찰·안전·근거 한계까지 보강한 자료입니다. 동명 처방의 서로 다른 출전은 임의로 합치지 않습니다.
+- 처방 상세는 적용 단계·감별·법제·관찰·안전·근거 한계를 같은 순서로 읽습니다. 동명 처방의 서로 다른 출전은 임의로 합치지 않습니다.
 - 실제 처방에서는 체질명보다 현재의 표리·한열, 순역·중증도와 소증 변화가 우선합니다.
 
 ## 함께 보는 핵심 자료
 
-- [사상처방 상세 임상 카드](../sasang-formula-cards/index.md)
+- [사상체질별 한약처방](../sasang-formula-cards/index.md)
 - [사상처방 선택 원칙](../sasang-formula-cards/selection-principles.md)
-- [체질별 대표 사상처방 연결 지도](../sasang-formula-cards/comparison-map.md)
+- [체질별 처방 감별 지도](../sasang-formula-cards/comparison-map.md)
 - [본초로 사상처방 찾기](../herbs/sasang-formula-reverse-index.md)
 - [체질 병증 비교](../sasang-integrated/patterns.md)
 - [사상의학 임상 지식망](../sasang/index.md)

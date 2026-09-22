@@ -74,11 +74,11 @@ last_reviewed: '2026-09-21'
 
 복통·설사만으로 처방을 고르지 않습니다. 갈증의 유무와 강도, 수족냉·전신통, 땀과 탈진, 심하비만·구토, 섭취·소변량과 전신상태가 어느 병증 구조로 모이는지를 확인합니다.
 
-### 확장 처방도 함께 비교하기 {#quick-cards}
+### 울광·망양·태음병 처방 상세 {#quick-cards}
 
 <a id="soeum-cheongung-gyeji"></a><a id="soeum-gyeji-banha"></a><a id="soeum-seungyangikgi"></a><a id="soeum-seungyangikgi-buja"></a><a id="soeum-insam-gwangye-buja"></a><a id="soeum-sibimi-gwanjung"></a><a id="soeum-gwanjung"></a>
 
-[소음인 확장 처방집](../sasang-formula-library/soeumin-extended-formulas.md)은 기존 빠른 카드 7종과 향소산·궁귀향소산·궁귀총소이중탕을 **울광·망양 / 태음병·소음병**의 축으로 재구성했습니다. 각 처방마다 적용 단계, 핵심 증후, 가까운 처방, 구성·법제, 관찰, 안전과 근거 한계를 확인할 수 있습니다.
+[소음인 한약처방](../sasang-formula-cards/index.md#soeumin-formulas)은 처방을 울광·망양과 태음병·소음병의 순서로 한 화면에 배치합니다. 천궁계지탕·향소산·궁귀향소산·승양익기탕·부자배합 처방·관중계 처방의 구성·법제와 출전 층은 [처방 상세](../sasang-formula-library/soeumin-extended-formulas.md)에서 확인합니다.
 
 → [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) · [계지반하생강탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gyeji-banha) · [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) · [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) · [인삼관계부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-insam-gwangye-buja) · [십이미관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-sibimi-gwanjung) · [관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gwanjung)
 

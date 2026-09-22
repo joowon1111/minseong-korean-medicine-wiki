@@ -75,9 +75,9 @@ last_reviewed: '2026-09-21'
 
 체중감량이나 부종 한 가지 목적으로 처방을 고정하지 않습니다. 같은 체중 증가라도 식후 복만·몸의 무거움·발한불리 중심인지, 열·구갈·변비·수면불편 중심인지에 따라 병증축과 치료 목표가 달라집니다.
 
-### 확장 처방도 함께 비교하기 {#taeeum-gyeongheomseungcheong}
+### 표한·승청·리열 처방 상세 {#taeeum-gyeongheomseungcheong}
 
-[태음인 확장 처방집](../sasang-formula-library/taeeumin-extended-formulas.md)은 경험승청탕·승지조위탕·갈근승기탕·나복자승기탕을 표한·승청·리열의 축에서 비교합니다. 후대 경험방과 원전 핵심 처방을 구분하고 구성·법제, 감별, 복용 뒤 관찰과 근거 한계를 함께 확인합니다.
+[태음인 한약처방](../sasang-formula-cards/index.md#taeeumin-formulas)은 처방을 위완수한표한·승청 저하와 간수열리열의 순서로 한 화면에 배치합니다. 경험승청탕·승지조위탕·갈근승기탕·나복자승기탕의 구성·법제와 출전 층은 [처방 상세](../sasang-formula-library/taeeumin-extended-formulas.md)에서 확인합니다.
 
 → [경험승청탕 상세](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-gyeongheomseungcheong) · [태음인 표한 처방군](../sasang-formula-library/index.md#taeeum-exterior) · [태음인 리열 처방군](../sasang-formula-library/index.md#taeeum-interior) · [태음인 처방 배합망](../sasang-formula-combination-network/taeeumin-network.md)
 
