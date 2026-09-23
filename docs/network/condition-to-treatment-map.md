@@ -50,14 +50,14 @@ description: 통증·수면·소화·피로·산후·노년·소아·수술 후 
 |---|---|---|
 | [기능성 소화불량](../conditions/functional-dyspepsia.md)·[식욕저하](../conditions/poor-appetite-adult.md) | 증상 기간, 식사량·체중, 검사 이력과 복용약 | [사군자탕과 육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)에서 비위기허와 담습 동반 구분 |
 | [더부룩함](../conditions/bloating.md)·[메스꺼움](../conditions/nausea.md) | 식후 악화, 트림·구역, 스트레스와의 관계 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)·[온담탕](../formulas/wendan-tang.md)의 기허·기체·담음 차이 |
-| [명치 불편](../conditions/dyspepsia.md)·[묽은 변](../conditions/loose-stool.md) | 상복부 막힘과 장명·배변 양상, 음식·약물 관련성 | [반하사심탕](../formulas/banxia-xiexin-tang.md)의 심하비·한열착잡 구조 |
+| [명치 불편](../conditions/dyspepsia.md)·[묽은 변](../conditions/diarrhea.md) | 상복부 막힘과 장명·배변 양상, 음식·약물 관련성 | [반하사심탕](../formulas/banxia-xiexin-tang.md)의 심하비·한열착잡 구조 |
 | [속쓰림](../conditions/heartburn.md)·[역류 증상](../conditions/gerd.md) | 눕거나 식사 후 악화, 삼킴 곤란, 야간 증상 | [소화불량 임상 지식망](dyspepsia-map.md)에서 증상 감별부터 확인 |
 
 침구와 연결할 때는 [소화불량 경혈 지식망](dyspepsia-acupoints.md)에서 족삼리·중완·내관 등의 관계를 확인합니다. 처방을 먹기 전후로 **식사량·식후 불편의 지속 시간·구역·배변·체중**을 살피며, 체중 감소·검은 변·토혈·지속되는 삼킴 곤란은 소화 기능 문제로만 넘기지 않습니다.
 
 ## 피로·회복 {#_5}
 
-피로는 수면 부족, 영양 문제, 빈혈·갑상선질환, 치료 후 회복 지연 등 원인이 다양합니다. [피로 안내](../conditions/fatigue.md)에서 원인을 먼저 살피고 **회복 단계·연령·식사·활동 수준**에 맞추어 보익 처방을 비교합니다.
+피로는 수면 부족, 영양 문제, 빈혈·갑상선질환, 치료 후 회복 지연 등 원인이 다양합니다. [피로 안내](../conditions/chronic-fatigue.md)에서 원인을 먼저 살피고 **회복 단계·연령·식사·활동 수준**에 맞추어 보익 처방을 비교합니다.
 
 | 출발 상황 | 먼저 살필 내용 | 이어서 읽을 내용 |
 |---|---|---|

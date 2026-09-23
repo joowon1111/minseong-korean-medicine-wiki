@@ -222,7 +222,7 @@ MRI를 찍었다는 사실만으로 통증 유형이 정해지는 것은 아니�
 - [이명](tinnitus.md)
 - [대상포진 후 신경통](postherpetic-neuralgia.md)
 - [불면](insomnia.md)
-- [스트레스성 피로](stress-fatigue.md)
+- [스트레스성 피로](chronic-fatigue.md#time-patterns)
 - [침과 척수 통증조절](../acupuncture-science/pain-modulation.md)
 - [침구치료 안전](../acupuncture-integrated/safety.md)
 - [치료 경과·재평가](../acupuncture-integrated/followup.md)

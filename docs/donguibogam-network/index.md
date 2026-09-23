@@ -90,7 +90,7 @@ last_reviewed: 2026-08-22
 | 잡병의 항목 | 읽을 임상 질문 | 기존 연결 |
 |---|---|---|
 | 內傷 · 내상 | 식사·과로 이후 식욕과 소화·활동량이 어떻게 달라졌나 | [성인 식욕저하](../conditions/poor-appetite-adult.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) · [비위론](../classics/piwei-lun.md) |
-| 虛勞 · 허로 | 허약에 식욕저하·불면·건조·냉감이 어떻게 겹치나 | [피로](../conditions/fatigue.md) · [보익 처방 계열](../formula-architecture/tonic-family.md) |
+| 虛勞 · 허로 | 허약에 식욕저하·불면·건조·냉감이 어떻게 겹치나 | [피로](../conditions/chronic-fatigue.md) · [보익 처방 계열](../formula-architecture/tonic-family.md) |
 | 咳嗽 · 해수 | 기침에 담·건조·허약이 어떤 양상으로 동반되나 | [질환→치료 지도](../network/condition-to-treatment-map.md) · [담음](../diagnostics/patterns/phlegm-fluid.md) |
 | 消渴 · 소갈 | 갈증·음수·배뇨·체중 변화의 조합은 무엇인가 | [제2형 당뇨병](../conditions/type-2-diabetes.md) · [심혈관·대사 한약 근거](../authority/formulas/cardiometabolic-herbal-evidence.md) |
 | 浮腫 · 부종 | 붓는 부위·시간과 호흡·소변의 변화는 무엇인가 | [부종](../conditions/edema-swelling.md) · [금궤요략 수기병](../classics/jinkui-yaolue/chapters/water-qi.md) |
@@ -142,7 +142,7 @@ last_reviewed: 2026-08-22
 고전의 양생법을 그대로 의무화하기보다 현재의 수면위생·운동·식사·스트레스 관리와 조화시켜 실천 가능한 방향으로 해석합니다.
 
 → [자율신경·스트레스 지식망](../autonomic/index.md)  
-→ [피로·회복](../conditions/fatigue.md)
+→ [피로·회복](../conditions/chronic-fatigue.md)
 
 
 ## 동의보감 임상 탐색법 {#clinical-navigation}

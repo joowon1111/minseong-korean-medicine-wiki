@@ -40,5 +40,4 @@ last_reviewed: 2026-08-22
 
 → [기허](../diagnostics/patterns/qi-deficiency.md)  
 → [신허](../diagnostics/patterns/kidney-deficiency.md)  
-→ [피로·회복](../conditions/fatigue.md)
-
+→ [피로·회복](../conditions/chronic-fatigue.md)

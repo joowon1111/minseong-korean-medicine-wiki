@@ -84,7 +84,7 @@ last_reviewed: 2026-09-06
 ## 관련 핵심 문서
 
 - [소청룡탕 원문 조문](../classics/shanghanlun/xiaoqinglong.md)
-- [알레르기비염](../conditions/allergic-rhinitis.md)
+- [알레르기비염](../conditions/rhinitis.md#allergic-rhinitis)
 - [호흡·비염·면역 허브](../pillar/respiratory-rhinitis-immune.md)
 - [소청룡탕 임상근거 카드](../authority/formulas/xiao-qing-long-tang.md)
 - [알레르기비염 한약 근거지도](../authority/formulas/allergic-rhinitis-herbal-map.md)

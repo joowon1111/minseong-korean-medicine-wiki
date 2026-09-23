@@ -27,7 +27,7 @@ last_reviewed: '2026-09-05'
 | 탐색할 치법 | 구성 본초 | 배합을 확인할 방제 | 현재의 질문 |
 |---|---|---|---|
 | 보기·건비 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md)·[백출](../herbs/atractylodes.md) | [사군자탕](../formulas/sijunzi-tang.md)·[보중익기탕](../formulas/buzhong-yiqi-tang.md) | [식욕저하](../conditions/poor-appetite-adult.md)·[원기회복](../conditions/energy-recovery.md) |
-| 보혈·기혈쌍보 | [당귀](../herbs/angelica.md)·[숙지황](../herbs/prepared-rehmannia.md)·[작약](../herbs/white-peony.md) | [사물탕](../formulas/siwu-tang.md)·[팔물탕](../formulas/bazhen-tang.md) | [산후 회복](../conditions/postpartum-recovery.md)·[피로](../conditions/fatigue.md) |
+| 보혈·기혈쌍보 | [당귀](../herbs/angelica.md)·[숙지황](../herbs/prepared-rehmannia.md)·[작약](../herbs/white-peony.md) | [사물탕](../formulas/siwu-tang.md)·[팔물탕](../formulas/bazhen-tang.md) | [산후 회복](../conditions/postpartum-recovery.md)·[피로](../conditions/chronic-fatigue.md) |
 | 보익·허손 | [녹용](../herbs/cervi-parvum-cornu.md)과 보익 본초 | [보익 처방 계열](../formula-architecture/tonic-family.md) | [녹용보약](../conditions/deer-antler-tonic-guide.md)·[노인보약](../conditions/elderly-tonic.md) |
 | 이기·화담 | [진피](../herbs/citrus-peel.md)·[반하](../herbs/pinellia.md)·[복령](../herbs/poria.md) | [이진탕](../formulas/erchen-tang.md)·[온담탕](../formulas/wendan-tang.md) | [담음 탐색](../donguibogam-network/index.md#phlegm-pathway) |
 | 이수·삼습 | [복령](../herbs/poria.md)·[택사](../herbs/alisma.md)·[의이인](../herbs/coix.md) | [오령산](../formulas/wuling-san.md)과 수습 처방 비교 | [부종](../conditions/edema-swelling.md) |

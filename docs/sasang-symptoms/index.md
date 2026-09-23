@@ -73,7 +73,7 @@ last_reviewed: '2026-09-22'
 - 태음인 → 몸의 무거움·부종·호흡·대사
 - 태양인 → 섭취·전신 균형·하체 기능
 
-→ [피로](../conditions/fatigue.md)
+→ [피로](../conditions/chronic-fatigue.md)
 
 ## 대변·소변 {#bowel-urination}
 
@@ -126,7 +126,7 @@ last_reviewed: '2026-09-22'
 
 비염은 알레르기성·감염성·구조적 원인 등 현대의학적 감별도 함께 필요합니다.
 
-→ [알레르기비염](../conditions/allergic-rhinitis.md)
+→ [알레르기비염](../conditions/rhinitis.md#allergic-rhinitis)
 
 ## 두통
 

@@ -68,7 +68,7 @@ last_reviewed: 2026-09-06
 ## 관련 핵심 문서
 
 - [목통증](../conditions/neck-pain.md)
-- [컴퓨터 목·어깨 통증](../conditions/computer-neck-shoulder.md)
+- [컴퓨터 목·어깨 통증](../conditions/neck-pain.md#work-posture-patterns)
 - [근골격 통증 처방 찾기](../herbal-integrated/formula-for-pain.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [방제 찾기](../herbal-integrated/formulas.md)

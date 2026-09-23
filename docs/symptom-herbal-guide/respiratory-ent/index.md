@@ -34,6 +34,6 @@ last_reviewed: 2026-09-22
 
 ## 임상 문서로 이어가기
 
-[기침](../../conditions/cough.md) · [만성기침](../../conditions/chronic-cough.md) · [알레르기비염](../../conditions/allergic-rhinitis.md) · [만성피로](../../conditions/chronic-fatigue.md)
+[기침](../../conditions/cough.md) · [만성기침](../../conditions/chronic-cough.md) · [알레르기비염](../../conditions/rhinitis.md#allergic-rhinitis) · [만성피로](../../conditions/chronic-fatigue.md)
 
 감염성 질환, 천식·만성폐질환, 위식도역류, 후비루, 복용약에 의한 기침을 구분하고 한약의 역할을 정합니다. 해수 처방군은 [처방 구조·비교](../../herbal-integrated/formula-structure.md#lung-cough-family)에서 비교할 수 있습니다.

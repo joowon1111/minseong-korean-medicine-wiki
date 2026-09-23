@@ -136,7 +136,7 @@ last_reviewed: 2026-08-22
 
 팔물탕·십전대보탕·보중익기탕·녹용 중심 보약은 이후의 보익 체계와 비교할 자료입니다. 금궤요략의 허로 원방과 같은 출전의 목록처럼 섞지 않습니다.
 
-→ [피로·회복](../conditions/fatigue.md)  
+→ [피로·회복](../conditions/chronic-fatigue.md)  
 → [보익 처방 계열](../formula-architecture/tonic-family.md)
 
 
@@ -245,7 +245,7 @@ last_reviewed: 2026-08-22
 | 수기·부종 | [제14편](../classics/jinkui-yaolue/chapters/water-qi.md) · [오령산](../formulas/wuling-san.md)의 수습 처방 구조와 비교 | [부종](../conditions/edema-swelling.md) · [한약 안전성](../herbal-integrated/safety.md) |
 | 소갈·소변 | [제13편](../classics/jinkui-yaolue/chapters/thirst-urination.md) · [팔미지황환](../formulas/bawei-dihuang-wan.md)에서 신기환 구성 대조 | [제2형 당뇨병](../conditions/type-2-diabetes.md) · [심혈관·대사 근거](../authority/formulas/cardiometabolic-herbal-evidence.md) |
 | 황달 | [제15편](../classics/jinkui-yaolue/chapters/jaundice.md) · [인진](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md) | [임상 안전성](../clinical-safety/index.md): 새 황달의 원인과 간담도 평가 |
-| 혈비·허로·허약 | [6.2 황기계지오물탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-002) · [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) · [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | [피로](../conditions/fatigue.md) · [노인보약](../conditions/elderly-tonic.md) · [피로 한약 근거](../authority/formulas/chronic-fatigue-herbal-map.md) |
+| 혈비·허로·허약 | [6.2 황기계지오물탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-002) · [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) · [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | [피로](../conditions/chronic-fatigue.md) · [노인보약](../conditions/elderly-tonic.md) · [피로 한약 근거](../authority/formulas/chronic-fatigue-herbal-map.md) |
 | 허번·불면·심계 | [6.17 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) · [제16편 경계](../classics/jinkui-yaolue/chapters/bleeding-stasis.md) | [불면](../conditions/insomnia.md) · [산조인탕 임상근거](../authority/formulas/suanzaoren-tang.md) |
 | 복만·복통·장기능 | [10.14 대건중탕](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md#clause-10-014) · [대건중탕 연구](../formulas/dajianzhong-tang.md) | [소화불량](../conditions/dyspepsia.md) · [수술 후 회복](../conditions/postoperative-recovery.md) |
 | 구토·심하비·하리 | [17.10 반하사심탕](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-010) · [반하사심탕](../formulas/banxia-xiexin-tang.md) | [기능성소화불량](../conditions/functional-dyspepsia.md) · [설사](../conditions/diarrhea.md) · [반하사심탕 근거](../authority/formulas/banxia-xiexin-tang.md) |

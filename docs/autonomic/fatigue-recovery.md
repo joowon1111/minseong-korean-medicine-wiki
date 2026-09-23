@@ -17,7 +17,7 @@ last_reviewed: 2026-09-06
 ## 경혈
 족삼리 ST36 · 기해 CV6 · 관원 CV4 · 태계 KI3 · 신수 BL23
 
-→ [만성피로·회복저하](../conditions/fatigue.md)
+→ [만성피로·회복저하](../conditions/chronic-fatigue.md)
 
 ## 피로를 ‘자율신경 문제’ 하나로 묶지 않습니다 {#fatigue-patterns}
 

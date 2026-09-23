@@ -67,7 +67,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 **대표 배혈:** 열결 + 합곡 + 영향/인당.
 
-→ [비염·기침 임상 연결](../conditions/allergic-rhinitis.md)
+→ [비염·기침 임상 연결](../conditions/rhinitis.md#allergic-rhinitis)
 
 ## 목·어깨·견갑부
 **담경·방광경·소장경·대장경·삼초경**이 교차하는 영역입니다.
@@ -121,7 +121,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 태계 KI3 · 족삼리 ST36 · 기해 CV6 · 관원 CV4 · 명문 GV4 · 신수 BL23
 
-→ [피로·회복 임상 연결](../conditions/fatigue.md)
+→ [피로·회복 임상 연결](../conditions/chronic-fatigue.md)
 
 ## 특정혈 체계로 다시 보기
 - [오수혈](../meridian-network/special-points/five-shu.md)
@@ -144,4 +144,3 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 - [임상 핵심 배혈 조합](../network/acupoint-combinations.md)
 - [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 - [침구·한의치료 허브](../pillar/acupuncture-treatment.md)
-

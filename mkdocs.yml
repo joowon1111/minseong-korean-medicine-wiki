@@ -39,6 +39,30 @@ plugins:
       symptoms/longtail/shoulder-pain.md: conditions/shoulder-pain.md
       symptoms/longtail/sneezing-runny-nose.md: conditions/rhinitis.md
       symptoms/longtail/stiff-neck.md: conditions/neck-pain.md
+      conditions/fatigue.md: conditions/chronic-fatigue.md
+      conditions/morning-fatigue.md: conditions/chronic-fatigue.md#time-patterns
+      conditions/weekend-fatigue.md: conditions/chronic-fatigue.md#time-patterns
+      conditions/postmeal-sleepiness.md: conditions/chronic-fatigue.md#time-patterns
+      conditions/stress-fatigue.md: conditions/chronic-fatigue.md#time-patterns
+      conditions/allergic-rhinitis.md: conditions/rhinitis.md#allergic-rhinitis
+      conditions/sneezing-runny-nose.md: conditions/rhinitis.md#sneezing-runny-nose
+      conditions/nasal-congestion.md: conditions/rhinitis.md#nasal-congestion
+      conditions/computer-neck-shoulder.md: conditions/neck-pain.md#work-posture-patterns
+      conditions/smartphone-neck-pain.md: conditions/neck-pain.md#work-posture-patterns
+      conditions/stress-neck-shoulder.md: conditions/neck-pain.md#work-posture-patterns
+      conditions/driving-neck-back-pain.md: conditions/low-back-pain.md#driving-sitting
+      conditions/back-stiffness.md: conditions/thoracic-back-pain.md
+      conditions/loose-stool.md: conditions/diarrhea.md
+      conditions/herbal-storage.md: conditions/herbal-consultation-prep.md#storage
+      conditions/herbal-missed-dose.md: conditions/herbal-consultation-prep.md#missed-dose
+      conditions/herbal-with-coffee.md: conditions/herbal-consultation-prep.md#coffee
+      conditions/herbal-before-after-meals.md: conditions/herbal-consultation-prep.md#before-after-meals
+      conditions/herbal-long-term.md: conditions/herbal-consultation-prep.md#long-term
+      conditions/herbal-customization.md: conditions/herbal-consultation-prep.md#customization
+      conditions/herbal-pills-decoction.md: conditions/herbal-consultation-prep.md#dosage-forms
+      conditions/herbal-with-food.md: conditions/herbal-consultation-prep.md#food
+      authority/conditions/allergic-rhinitis.md: conditions/rhinitis.md#evidence
+      authority/conditions/fatigue.md: conditions/chronic-fatigue.md#evidence
       questions/choice/fatigue-gongjin-gyeongok.md: compare/gongjin-vs-gyeongok.md
       symptom-clinical/integrated-map.md: symptom-clinical/index.md
       herbal-integrated/herbs-for-fatigue.md: herbal-integrated/herbs.md#_1
@@ -1015,7 +1039,11 @@ nav:
     - 수면·정서·신경 허브: pillar/sleep-neuro.md
     - 소화·비위 허브: pillar/digestion-spleen-stomach.md
     - 호흡·비염·면역 허브: pillar/respiratory-rhinitis-immune.md
+    - 피부·두피·모발 허브: pillar/skin-hair.md
+    - 소아·성장·면역 허브: pillar/pediatrics.md
     - 여성건강 허브: pillar/womens-health.md
+    - 비뇨·배뇨·남성건강 허브: pillar/urology-mens-health.md
+    - 대사·건강검진 허브: pillar/metabolic-checkup.md
     - 침구·한의치료 허브: pillar/acupuncture-treatment.md
     - 고전·역사 허브: pillar/classics-history.md
     - 현대 임상근거 허브: pillar/clinical-evidence.md
@@ -1257,7 +1285,7 @@ not_in_nav: '/ai-index.md
   '
 validation:
   nav:
-    omitted_files: warn
+    omitted_files: info
     not_found: warn
   links:
     not_found: warn

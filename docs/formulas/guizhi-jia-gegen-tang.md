@@ -58,6 +58,6 @@ last_reviewed: 2026-09-21
 
 ## 이어 보기
 
-- [목통증](../conditions/neck-pain.md) · [스트레스성 목·어깨 통증](../conditions/stress-neck-shoulder.md)
+- [목통증](../conditions/neck-pain.md) · [스트레스성 목·어깨 통증](../conditions/neck-pain.md#work-posture-patterns)
 - [갈근탕](gegen-tang.md) · [계지탕](guizhi-tang.md)
 - [상한 고방 계열](../formula-architecture/shanghan-family.md)

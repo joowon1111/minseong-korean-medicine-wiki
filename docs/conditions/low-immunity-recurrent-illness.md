@@ -26,8 +26,8 @@ last_reviewed: 2026-09-06
 | 구분할 상황 | 살펴볼 내용 | 연결 문서 |
 |---|---|---|
 | 반복 호흡기 감염 | 고열·인후통·기침, 진료·약 사용과 회복기간 | [잦은 감기](frequent-colds-adult.md) |
-| 알레르기·비염 | 재채기·맑은 콧물·가려움·노출 반복 | [알레르기비염](allergic-rhinitis.md) |
-| 과로·수면 부족 | 수면시간·코골이·낮 졸림·회복 리듬 | [피로](fatigue.md) · [불면](insomnia.md) |
+| 알레르기·비염 | 재채기·맑은 콧물·가려움·노출 반복 | [알레르기비염](rhinitis.md#allergic-rhinitis) |
+| 과로·수면 부족 | 수면시간·코골이·낮 졸림·회복 리듬 | [피로](chronic-fatigue.md) · [불면](insomnia.md) |
 | 섭취·소화 문제 | 식사량·체중·무른변·영양 상태 | [장·비위와 회복](../immune-allergy/gut-recovery.md) |
 | 기저질환·치료 영향 | 당뇨·혈액질환·면역억제제·항암치료 등 | [암 치료 후 회복](cancer-treatment-recovery.md) |
 

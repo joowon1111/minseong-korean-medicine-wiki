@@ -63,7 +63,7 @@ hide:
 
 ## 핵심 주제별로 둘러보기
 
-[보익·피로·회복](pillar/tonic-recovery.md) · [통증·근골격](pillar/pain-musculoskeletal.md) · [수면·정서·신경](pillar/sleep-neuro.md) · [소화·비위](pillar/digestion-spleen-stomach.md) · [호흡·비염·면역](pillar/respiratory-rhinitis-immune.md) · [면역·만성염증·질병·노화](immune-allergy/inflammation-pain.md) · [여성건강](pillar/womens-health.md)
+[보익·피로·회복](pillar/tonic-recovery.md) · [통증·근골격](pillar/pain-musculoskeletal.md) · [수면·정서·신경](pillar/sleep-neuro.md) · [소화·비위](pillar/digestion-spleen-stomach.md) · [호흡·비염·면역](pillar/respiratory-rhinitis-immune.md) · [피부·두피·모발](pillar/skin-hair.md) · [소아·성장](pillar/pediatrics.md) · [여성건강](pillar/womens-health.md) · [비뇨·남성건강](pillar/urology-mens-health.md) · [대사·건강검진](pillar/metabolic-checkup.md) · [면역·만성염증·질병·노화](immune-allergy/inflammation-pain.md)
 ## 처음 방문하셨나요?
 
 어떤 분야인지 잘 모르겠다면 **상단 검색창에 궁금한 증상이나 처방 이름을 그대로 입력**하세요.

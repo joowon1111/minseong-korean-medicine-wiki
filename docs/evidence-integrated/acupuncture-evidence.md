@@ -110,7 +110,7 @@ last_reviewed: '2026-09-15'
 
 - **결과 지표:** 코막힘·콧물·재채기·비강 증상점수·약물사용·삶의 질
 - **프로토콜:** 영향·합곡·열결 등 국소·원위 경혈, 계절과 치료기간
-- **근거 연결:** [알레르기비염](../authority/conditions/allergic-rhinitis.md) · [천식](../authority/conditions/asthma.md)
+- **근거 연결:** [알레르기비염](../conditions/rhinitis.md#evidence) · [천식](../authority/conditions/asthma.md)
 
 ### 뇌졸중 후 재활
 
