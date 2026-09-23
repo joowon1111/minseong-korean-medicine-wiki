@@ -45,7 +45,7 @@ last_reviewed: 2026-08-19
 | 허리 통증과 다리 저림 | [요통](../conditions/low-back-pain.md)·[좌골신경통](../conditions/sciatica.md) | [요통 임상 지식망](low-back-pain-map.md)에서 감별·처방·침구 연결 |
 | 잠을 못 자고 두근거림 | [불면](../conditions/insomnia.md)·[심계](../conditions/palpitation.md) | [불면 임상 지식망](insomnia-map.md)에서 수면·소화·정서의 관계 |
 | 더부룩하고 식욕이 없음 | [소화불량](../conditions/dyspepsia.md)·[식욕저하](../conditions/poor-appetite-adult.md) | [소화불량 임상 지식망](dyspepsia-map.md)에서 허실·담음·식적 비교 |
-| 쉬어도 피곤하고 회복이 더딤 | [피로](../conditions/fatigue.md)·[회복 보약](../conditions/energy-recovery.md) | [피로·회복 지식망](recovery-map.md)에서 수면·영양·보익 처방 연결 |
+| 쉬어도 피곤하고 회복이 더딤 | [피로](../conditions/chronic-fatigue.md)·[회복 보약](../conditions/energy-recovery.md) | [피로·회복 지식망](recovery-map.md)에서 수면·영양·보익 처방 연결 |
 
 각 증상에서 한약과 침구를 어떤 기준으로 함께 검토하는지는 [질환·증상→치료 임상 지도](condition-to-treatment-map.md)에서 이어서 봅니다.
 

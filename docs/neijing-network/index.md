@@ -147,7 +147,7 @@ last_reviewed: 2026-08-29
 고전의 생활규범을 그대로 적용하기보다 현재의 수면위생·운동·영양·스트레스 관리와 조화시킵니다.
 
 → [자율신경·스트레스 지식망](../autonomic/index.md)  
-→ [피로·회복](../conditions/fatigue.md)
+→ [피로·회복](../conditions/chronic-fatigue.md)
 
 
 ## 황제내경 통합 임상 지도 {#integrated-map}

@@ -25,7 +25,7 @@ last_reviewed: '2026-08-29'
 - **수면·정서:** [불면](conditions/insomnia.md) · [불안](conditions/anxiety.md) · [귀비탕](formulas/guipi-tang-evidence.md)
 - **통증·근골격:** [요통](low-back-pain.md) · [무릎 골관절염](conditions/knee-osteoarthritis.md) · [독활기생탕](duhuo-jisheng-tang.md)
 - **소화기:** [기능성소화불량](conditions/functional-dyspepsia.md) · [과민성장증후군](conditions/irritable-bowel-syndrome.md) · [반하사심탕](formulas/banxia-xiexin-tang.md)
-- **호흡·비염:** [알레르기비염](conditions/allergic-rhinitis.md) · [천식](conditions/asthma.md) · [소청룡탕](formulas/xiao-qing-long-tang.md)
+- **호흡·비염:** [알레르기비염](../conditions/rhinitis.md#evidence) · [천식](conditions/asthma.md) · [소청룡탕](formulas/xiao-qing-long-tang.md)
 - **여성건강:** [갱년기](conditions/menopause.md) · [온경탕](formulas/wenjing-tang.md)
 - **보익·회복:** [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md) · [보중익기탕](buzhong-yiqi-tang.md)
 - **비뇨·신경·항암 후 증상:** [만성골반통](conditions/chronic-prostatitis-cpps.md) · [뇌졸중 재활](conditions/stroke-rehabilitation.md) · [항암치료 유발 말초신경병증](conditions/chemotherapy-induced-peripheral-neuropathy.md)

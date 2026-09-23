@@ -42,7 +42,7 @@ keywords: [한약 효과 언제, 보약 효과 언제 느끼나요, 한약 먹�
 
 수면시간·식사·업무량, 다른 약이나 치료가 함께 바뀌었다면 옆에 적습니다. **기록에서 변화가 보인다는 것만으로 한약 단독 효과라고 단정하지 않고**, 함께 달라진 조건을 진료에서 살펴봅니다.
 
-→ [복용을 잊었을 때](herbal-missed-dose.md) · [식전·식후 복용 안내](herbal-before-after-meals.md)
+→ [복용을 잊었을 때](herbal-consultation-prep.md#missed-dose) · [식전·식후 복용 안내](herbal-consultation-prep.md#before-after-meals)
 
 <span id="_4"></span>
 

@@ -66,7 +66,7 @@ last_reviewed: 2026-09-06
 
 치료 전후에는 목 회전범위, 운전·컴퓨터 작업의 불편, 야간 통증과 팔 저림을 함께 봅니다.
 
-→ [목통증 한약 지도](neck-pain-herbal-map.md) · [경추 신경근병증 한약](cervical-radiculopathy-herbal.md) · [회수산](../../formulas/huishou-san.md) · [컴퓨터 목·어깨통증](../../conditions/computer-neck-shoulder.md)
+→ [목통증 한약 지도](neck-pain-herbal-map.md) · [경추 신경근병증 한약](cervical-radiculopathy-herbal.md) · [회수산](../../formulas/huishou-san.md) · [컴퓨터 목·어깨통증](../../conditions/neck-pain.md#work-posture-patterns)
 
 ## 어깨·견갑골·등·상지 통증 {#shoulder}
 

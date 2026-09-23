@@ -24,7 +24,7 @@ last_reviewed: 2026-09-06
 - [족양명위경](../meridian-network/stomach-meridian.md)
 
 ## 현대 임상근거
-→ [알레르기비염 현대 근거 카드](../authority/conditions/allergic-rhinitis.md)
+→ [알레르기비염 현대 임상근거](../conditions/rhinitis.md#evidence)
 
 → [비염 임상 추론](../clinical-reasoning/rhinitis.md)
 → [코막힘·비염](../conditions/rhinitis.md)

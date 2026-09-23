@@ -75,7 +75,7 @@ last_reviewed: 2026-09-06
 
 - [비부비동염](../conditions/sinusitis.md)
 - [비염](../conditions/rhinitis.md)
-- [알레르기비염](../conditions/allergic-rhinitis.md)
+- [알레르기비염](../conditions/rhinitis.md#allergic-rhinitis)
 - [호흡·비염·면역 허브](../pillar/respiratory-rhinitis-immune.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
 

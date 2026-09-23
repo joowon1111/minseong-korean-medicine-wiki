@@ -72,7 +72,7 @@ last_reviewed: 2026-09-16
 
 ## 관련 지식망
 
-- [알레르기비염](../conditions/allergic-rhinitis.md)
+- [알레르기비염](../conditions/rhinitis.md#allergic-rhinitis)
 - [천식](../authority/conditions/asthma.md)
 - [호흡·비염·면역 허브](../pillar/respiratory-rhinitis-immune.md)
 - [옥병풍산 현대 임상근거](../authority/formulas/yupingfeng-san.md)

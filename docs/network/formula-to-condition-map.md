@@ -34,7 +34,7 @@ last_reviewed: 2026-09-18
 |---|---|---|
 | [공진단](../formulas/gongjin-dan.md) | 녹용·당귀·산수유·사향의 배합과 허손·정혈의 맥락 | [공진단 상담 안내](../conditions/gongjin-dan-guide.md) |
 | [경옥고](../formulas/gyeongok-go.md) | 인삼·생지황·복령·봉밀의 보기·양음생진·윤조 구조 | [경옥고 상담 안내](../conditions/gyeongokgo-guide.md) |
-| [생맥산](../formulas/shengmai-san.md) | 기음양허·진액 소모, 기력과 건조감·땀을 함께 살피는 배합 | [입마름](../conditions/dry-mouth.md)·[피로](../conditions/fatigue.md) |
+| [생맥산](../formulas/shengmai-san.md) | 기음양허·진액 소모, 기력과 건조감·땀을 함께 살피는 배합 | [입마름](../conditions/dry-mouth.md)·[피로](../conditions/chronic-fatigue.md) |
 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) | 오래된 기혈 허손에 식욕저하·심계·수면 문제를 함께 살핌 | [노년기 허약·근감소](../conditions/frailty-sarcopenia.md) |
 
 [공진단과 경옥고 비교](../compare/gongjin-vs-gyeongok.md)에서 구성·제형·상담 질문을 확인할 수 있습니다. 산후·수술 후에는 회복 단계와 복용약이 중요하므로 [산후보약](../conditions/postpartum-herbal.md)·[수술 후 회복보약](../conditions/postoperative-recovery.md) 안내를 먼저 함께 읽습니다.
@@ -47,7 +47,7 @@ last_reviewed: 2026-09-18
 |---|---|---|
 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 비위기허·담습에 기체·식후 그득함의 비중을 함께 살핌 | [식후 더부룩함](../conditions/bloating.md) |
 | [온담탕](../formulas/wendan-tang.md) | 담위불화, 오심·흉민과 심계·수면불편의 동반 | [메스꺼움](../conditions/nausea.md)·[불면](../conditions/insomnia.md) |
-| [반하사심탕](../formulas/banxia-xiexin-tang.md) | 심하비·한열착잡, 명치의 막힘과 구역·장명·묽은 변 | [소화불량](../conditions/dyspepsia.md)·[묽은 변](../conditions/loose-stool.md) |
+| [반하사심탕](../formulas/banxia-xiexin-tang.md) | 심하비·한열착잡, 명치의 막힘과 구역·장명·묽은 변 | [소화불량](../conditions/dyspepsia.md)·[묽은 변](../conditions/diarrhea.md) |
 | [평위산](../formulas/pingwei-san.md) | 습체중초, 무겁고 그득한 소화불편을 조습·운비로 살핌 | [복부 팽만·가스](../conditions/abdominal-gas.md) |
 
 불면과 소화불편을 함께 읽을 때는 [귀비탕과 온담탕 비교](../compare/guibi-vs-wendan.md)가 도움이 됩니다. 입마름·열감 등 음혈부족의 단서가 중심인 [천왕보심단](../formulas/tianwang-buxin-dan.md)과도 구분하며, 이름이 비슷한 가미온담탕·황련온담탕의 연구를 기본 온담탕과 동일하게 읽지 않습니다.
@@ -58,7 +58,7 @@ last_reviewed: 2026-09-18
 
 | 처방 | 중심 변증·비교할 단서 | 관련 증상·상담 문서 |
 |---|---|---|
-| [회수산](../formulas/huishou-san.md) | 갑작스러운 경항부 결림·회전 제한과 견배부 긴장을 풍한·기체의 맥락에서 살핌 | [목 통증](../conditions/neck-pain.md)·[컴퓨터 목·어깨 통증](../conditions/computer-neck-shoulder.md) |
+| [회수산](../formulas/huishou-san.md) | 갑작스러운 경항부 결림·회전 제한과 견배부 긴장을 풍한·기체의 맥락에서 살핌 | [목 통증](../conditions/neck-pain.md)·[컴퓨터 목·어깨 통증](../conditions/neck-pain.md#work-posture-patterns) |
 | [당귀수산](../formulas/danggui-susan.md) | 타박·삠 뒤 멍과 국소 압통 등 외상성 어혈의 맥락 | [교통사고 후 통증](../conditions/traffic-accident-sequelae.md) |
 | [오적산](../formulas/wujisan.md) | 한습과 기·혈·담식이 얽힌 통증, 냉감과 복부불편의 동반 | [추위에 심해지는 몸살·통증](../conditions/cold-weather-body-ache.md) |
 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) | 혈허·어혈·풍습을 함께 살피는 보혈·활혈·통락의 구조 | [다리로 뻗치는 통증](../conditions/sciatica.md) |
@@ -75,7 +75,7 @@ last_reviewed: 2026-09-18
 |---|---|---|
 | [계지탕](../formulas/guizhi-tang.md) | 태양중풍·영위불화, 땀과 오풍 등 증상 조합 | [상한론 태양병 지도](shanghan-taiyang-map.md) |
 | [마황탕](../formulas/mahuang-tang.md) | 태양상한·표실, 무한·오한·신통 등의 조합 | [감기 증상 안내](../conditions/common-cold.md) |
-| [소청룡탕](../formulas/xiaoqinglong-tang.md) | 표증과 수음이 겹친 양상 | [알레르기 비염](../conditions/allergic-rhinitis.md)·[기침](../conditions/cough.md) |
+| [소청룡탕](../formulas/xiaoqinglong-tang.md) | 표증과 수음이 겹친 양상 | [알레르기 비염](../conditions/rhinitis.md#allergic-rhinitis)·[기침](../conditions/cough.md) |
 | [소시호탕](../formulas/xiaochaihu-tang.md) | 소양병, 왕래한열·흉협고만·오심 등의 맥락 | [상한론 육경변증](../classics/shanghan-six-channels.md) |
 | [오령산](../formulas/wuling-san.md) | 수기불리, 갈증·소변·수분 분포의 관계 | [부종](../conditions/edema-swelling.md)·[오령산 구성](wuling-composition.md) |
 

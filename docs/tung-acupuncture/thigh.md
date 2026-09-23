@@ -132,6 +132,6 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 ## 임상에서 함께 확인할 것 {#clinical}
 
-무릎 통증은 [무릎 골관절염 근거](../authority/conditions/knee-osteoarthritis.md), 코 증상은 [알레르기비염 근거](../authority/conditions/allergic-rhinitis.md)로 연결합니다. 연구에 동씨 혈군이 실제 포함됐는지를 확인한 뒤 적용 가능성을 판단합니다. 흉통·호흡곤란은 허벅지의 대응점 설명보다 원인 평가가 우선입니다.
+무릎 통증은 [무릎 골관절염 근거](../authority/conditions/knee-osteoarthritis.md), 코 증상은 [알레르기비염 근거](../conditions/rhinitis.md#evidence)로 연결합니다. 연구에 동씨 혈군이 실제 포함됐는지를 확인한 뒤 적용 가능성을 판단합니다. 흉통·호흡곤란은 허벅지의 대응점 설명보다 원인 평가가 우선입니다.
 
 전승의 활용 설명을 실제 치료에 연결할 때는 현재 진단·증상·기능과 적용한 혈군·좌우·자극법을 함께 기록합니다. [배혈과 동기요법 읽기](index.md#principles), [치료 후 재평가](../acupuncture-integrated/followup.md), [시술 전 안전 확인](../acupuncture-integrated/safety.md)으로 이어서 볼 수 있습니다.

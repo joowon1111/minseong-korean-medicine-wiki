@@ -119,7 +119,7 @@ WHO 361경혈은 [표준 경혈 아틀라스](../acupoint-network/standard-atlas
 | 무릎·보행 | [견중·건중](upper-arm.md), [통관·통산·통천](thigh.md) | [무릎통증](../conditions/knee-pain.md), [무릎 골관절염 근거](../authority/conditions/knee-osteoarthritis.md) |
 | 월경 관련 복통·소화 불편 | [문금·목두·목류](foot.md), [토수](hand-palmar.md), [사화혈](lower-leg-front.md) | [월경통 근거](../authority/conditions/primary-dysmenorrhea.md) |
 | 피로·눈의 불편 | [상삼황](thigh-medial.md) | [피로·원기회복](../conditions/energy-recovery.md) |
-| 비염·피부 불편 | [사마혈](thigh.md) | [알레르기비염 근거](../authority/conditions/allergic-rhinitis.md) |
+| 비염·피부 불편 | [사마혈](thigh.md) | [알레르기비염 근거](../conditions/rhinitis.md#evidence) |
 
 표의 연결은 전승의 활용 맥락과 현재의 임상 질문을 함께 찾는 길입니다. 링크된 일반 침 연구가 해당 동씨 혈군의 효과를 직접 검증한 연구라는 뜻은 아닙니다. **동씨침과 일반 경혈침을 직접 비교한 고령자 만성요통 무작위시험**은 [기존 침구 근거 문서](../acupuncture-integrated/evidence.md#tung-study)에 대상·비교군·결과를 정리했습니다.
 

@@ -63,6 +63,8 @@ last_reviewed: 2026-09-21
 - [불안·과도한 걱정](anxiety.md)
 - [두근거림·심계 — 가슴이 뛰고 맥이 건너뛰는 느낌](palpitation.md)
 - [화병·울화·가슴이 답답하고 열이 치밀어요](hwabyeong.md)
+- [공황발작·갑자기 심장이 뛰고 숨이 막혀요](panic-disorder.md)
+- [기억력저하·경도인지장애·건망증](cognitive-impairment.md)
 - [만성피로](chronic-fatigue.md)
 - [수술 후 회복·기력저하](postoperative-recovery.md)
 - [주요 5대암 수술 후 회복관리](gastric-cancer-gastrectomy-recovery.md)
@@ -81,6 +83,8 @@ last_reviewed: 2026-09-21
 - [감기·급성 상기도감염](common-cold.md)
 - [여드름·성인여드름](acne.md)
 - [지루성피부염·두피 가려움](seborrheic-dermatitis.md)
+- [건선·붉은 판과 하얀 각질이 반복돼요](psoriasis.md)
+- [탈모·머리카락이 많이 빠져요](hair-loss.md)
 - [가려움증·소양증 — 발진 없는 가려움과 원인별 치료](pruritus.md)
 - [항문가려움증·항문소양증](pruritus-ani.md)
 - [대상포진](shingles.md)
@@ -95,6 +99,15 @@ last_reviewed: 2026-09-21
 - [갱년기](menopause.md)
 - [산후회복 — 회복 단계·산후풍·생활관리](postpartum-recovery.md)
 - [출산 후 한약·산후보약 — 복용 시점·처방·수유](postpartum-herbal.md)
+- [자궁근종·생리양이 많고 골반이 묵직해요](uterine-fibroids.md)
+
+### 소아·성장
+
+- [소아 성장·아이 키 성장](child-growth.md)
+- [소아 식욕부진](child-poor-appetite.md)
+- [소아 수면](child-sleep.md)
+- [소아 비염](child-rhinitis.md)
+- [소아 야뇨증](child-enuresis.md)
 
 ### 검사·대사·신장
 
@@ -112,6 +125,8 @@ last_reviewed: 2026-09-21
 - [전립선비대증·소변줄기가 약해요](benign-prostatic-hyperplasia.md)
 
 녹용보약·피로보약·노인보약·성장보약·수술 후 회복보약은 [보약·회복 상황별 안내](../pillar/tonic-recovery.md#tonic-keywords)에서 관련 증상과 처방 자료로 이어집니다.
+
+분야 전체를 비교해서 찾으려면 [피부·두피·모발](../pillar/skin-hair.md), [소아·성장·면역](../pillar/pediatrics.md), [비뇨·배뇨·남성건강](../pillar/urology-mens-health.md), [대사·건강검진](../pillar/metabolic-checkup.md) 허브를 이용하세요.
 
 ## 어디서부터 찾을까요?
 
@@ -224,7 +239,12 @@ last_reviewed: 2026-09-21
 
 <!-- ORPHAN_CONDITIONS_HUB_START -->
 
-## 증상·질환 상세 문서 더 찾아보기
+<details>
+<summary><strong>세부 증상·질환 전체 목록 펼쳐보기</strong></summary>
+
+## 세부 증상·질환 전체 목록
+
+주요 질환은 위의 분야별 허브에서 감별 흐름과 함께 찾을 수 있습니다. 아래 목록은 구체적인 생활 표현이나 세부 증상을 바로 찾을 때 펼쳐보세요.
 
 ### 통증·근골격
 
@@ -232,7 +252,7 @@ last_reviewed: 2026-09-21
 - [침치료 많이 아픈가요](acupuncture-pain-question.md)
 - [발목이 자주 접질려요·만성 발목불안정](ankle-instability.md)
 - [팔저림·손까지 내려가는 저림](arm-numbness.md)
-- [등이 뻐근하고 결려요](back-stiffness.md)
+- [등이 뻐근하고 결려요](thoracic-back-pain.md)
 - [엉치·둔부 통증](buttock-pain.md)
 - [종아리 쥐·다리경련](calf-cramp.md)
 - [아이 배아픔·소아 복통](child-abdominal-pain.md)
@@ -257,11 +277,11 @@ last_reviewed: 2026-09-21
 - [산후 손목통증·육아 손목](postpartum-wrist-pain.md)
 - [회전근개 통증·팔 올릴 때 어깨통증](rotator-cuff-pain.md)
 - [날개뼈·견갑골 안쪽 통증](scapular-pain.md)
-- [스마트폰 보면 목이 아파요](smartphone-neck-pain.md)
+- [스마트폰 보면 목이 아파요](neck-pain.md#work-posture-patterns)
 - [쪼그려 앉을 때 무릎이 아파요](squatting-knee-pain.md)
 - [계단 오르내릴 때 무릎이 아파요](stairs-knee-pain.md)
 - [오래 서 있으면 허리·다리가 아파요](standing-leg-back-pain.md)
-- [스트레스성 목·어깨 뭉침](stress-neck-shoulder.md)
+- [스트레스성 목·어깨 뭉침](neck-pain.md#work-posture-patterns)
 - [팔꿈치 바깥쪽 통증](tennis-elbow.md)
 - [긴장형두통·뒷목두통](tension-headache.md)
 - [허벅지 통증·당김](thigh-pain.md)
@@ -283,12 +303,12 @@ last_reviewed: 2026-09-21
 - [기능성소화불량](functional-dyspepsia.md)
 - [위염·속쓰림·명치통증](gastritis-symptoms.md)
 - [건강한 체중관리·한방다이어트 상담](healthy-weight-management.md)
-- [한약 식전·식후 언제 먹나요](herbal-before-after-meals.md)
-- [묽은변·무른변](loose-stool.md)
+- [한약 식전·식후 언제 먹나요](herbal-consultation-prep.md#before-after-meals)
+- [묽은변·무른변](diarrhea.md)
 - [중년 체중증가·나잇살](middle-age-weight.md)
 - [아침설사·식후설사](morning-diarrhea.md)
 - [메스꺼움·오심](nausea.md)
-- [식후 졸림·밥 먹으면 피곤](postmeal-sleepiness.md)
+- [식후 졸림·밥 먹으면 피곤](chronic-fatigue.md#time-patterns)
 - [두근거림 + 소화불량·스트레스](stress-palpitations-digestion.md)
 - [체중감소·살이 빠져요](unintentional-weight-loss.md)
 - [다이어트 정체기·체중이 안 빠져요](weight-plateau.md)
@@ -307,7 +327,7 @@ last_reviewed: 2026-09-21
 - [임신준비 중 피로·냉증·소화저하](fertility-fatigue.md)
 - [골절 후 회복·뼈 회복](fracture-recovery.md)
 - [남성 피로·기력보강 한약](male-fatigue-tonic.md)
-- [아침피로·자고 일어나도 피곤](morning-fatigue.md)
+- [아침피로·자고 일어나도 피곤](chronic-fatigue.md#time-patterns)
 - [숙면이 안돼요·수면회복감 저하](nonrestorative-sleep.md)
 - [건강검진은 정상인데 피곤해요](normal-checkup-fatigue.md)
 - [폐렴 후 회복·기력저하](pneumonia-recovery.md)
@@ -316,10 +336,10 @@ last_reviewed: 2026-09-21
 - [퇴원 후 회복·장기입원 후 기력저하](post-hospitalization-recovery.md)
 - [감기·바이러스 감염 후 피로](post-viral-fatigue.md)
 - [수술 후 회복·기력저하](postoperative-recovery.md)
-- [스트레스성 피로·번아웃 느낌](stress-fatigue.md)
+- [스트레스성 피로·번아웃 느낌](chronic-fatigue.md#time-patterns)
 - [스트레스성 위장증상](stress-gut.md)
 - [긴장하면 소변이 자주 마려워요](urinary-frequency-stress.md)
-- [주말에 늘어지는 피로·회복부족](weekend-fatigue.md)
+- [주말에 늘어지는 피로·회복부족](chronic-fatigue.md#time-patterns)
 
 ### 호흡기·면역·피부
 
@@ -339,7 +359,7 @@ last_reviewed: 2026-09-21
 - [습진·가려움](eczema.md)
 - [성인 잦은 감기·반복 감기](frequent-colds-adult.md)
 - [목이 자주 붓고 아파요](recurrent-sore-throat.md)
-- [재채기·맑은콧물](sneezing-runny-nose.md)
+- [재채기·맑은콧물](rhinitis.md#sneezing-runny-nose)
 - [인후통·목감기](sore-throat.md)
 
 ### 소아·성장
@@ -403,15 +423,15 @@ last_reviewed: 2026-09-21
 - [청력저하·소리가 잘 안 들려요](hearing-loss.md)
 - [속쓰림·가슴쓰림](heartburn.md)
 - [생리양이 많아요·과다월경](heavy-menstruation.md)
-- [한약 먹다가 증상이 바뀌면 처방도 바꾸나요](herbal-customization.md)
+- [한약 먹다가 증상이 바뀌면 처방도 바꾸나요](herbal-consultation-prep.md#customization)
 - [허브·식물추출물·농축액과 한약](herbal-extract-products.md)
 - [한약 먹고 언제 효과를 평가하나요](herbal-followup.md)
-- [한약 장기복용·꾸준히 먹어도 되나요](herbal-long-term.md)
-- [한약 복용을 깜빡했어요](herbal-missed-dose.md)
-- [탕약·환약·농축제형 차이](herbal-pills-decoction.md)
-- [한약 보관방법·파우치 보관](herbal-storage.md)
-- [한약 먹을 때 커피·카페인](herbal-with-coffee.md)
-- [한약 먹을 때 음식·식이관리](herbal-with-food.md)
+- [한약 장기복용·꾸준히 먹어도 되나요](herbal-consultation-prep.md#long-term)
+- [한약 복용을 깜빡했어요](herbal-consultation-prep.md#missed-dose)
+- [탕약·환약·농축제형 차이](herbal-consultation-prep.md#dosage-forms)
+- [한약 보관방법·파우치 보관](herbal-consultation-prep.md#storage)
+- [한약 먹을 때 커피·카페인](herbal-consultation-prep.md#coffee)
+- [한약 먹을 때 음식·식이관리](herbal-consultation-prep.md#food)
 - [혈압이 높아요·건강검진 고혈압](high-blood-pressure-checkup.md)
 - [쉰목소리·목소리가 안 나와요](hoarseness.md)
 - [과호흡·숨이 답답하고 손발저림](hyperventilation.md)
@@ -429,7 +449,7 @@ last_reviewed: 2026-09-21
 - [MPS·근막통증 치료란 무엇인가요](mps-treatment-question.md)
 - [영양제 여러 개 복용·복용목록 점검](multi-supplement-review.md)
 - [근육이 뭉치고 딱딱해요](muscle-tightness.md)
-- [코막힘·코로 숨쉬기 불편](nasal-congestion.md)
+- [코막힘·코로 숨쉬기 불편](rhinitis.md#nasal-congestion)
 - [천연제품·천연성분과 한약](natural-products-herbal.md)
 - [야식·밤에 배고픔](night-eating.md)
 - [후두신경통·뒤통수 찌릿통증](occipital-neuralgia.md)
@@ -463,6 +483,8 @@ last_reviewed: 2026-09-21
 - [두드러기·반복되는 가려움](urticaria.md)
 - [비타민·미네랄과 한약](vitamins-herbal.md)
 - [온몸이 쑤셔요·전신근육통](whole-body-ache.md)
+
+</details>
 
 <!-- ORPHAN_CONDITIONS_HUB_END -->
 

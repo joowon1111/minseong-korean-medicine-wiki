@@ -52,12 +52,12 @@ last_reviewed: 2026-08-30
 - [불면](insomnia.md) · [고혈압 동반 불면](hypertension-with-insomnia.md)
 - [불안](anxiety.md) · [우울](depression.md)
 - [하지불안증후군](restless-legs-syndrome.md)
-- [피로](fatigue.md) · [암 관련 피로](cancer-related-fatigue.md)
+- [피로](../../conditions/chronic-fatigue.md#evidence) · [암 관련 피로](cancer-related-fatigue.md)
 - [산후우울](postpartum-depression.md) · [뇌졸중 후 우울](post-stroke-depression.md)
 
 ### 호흡·비염·면역·피부
 
-- [알레르기비염](allergic-rhinitis.md) · [비강내 침 치료](intranasal-acupuncture-allergic-rhinitis.md) · [근거 업데이트](allergy-rhinitis-evidence-update.md)
+- [알레르기비염](../../conditions/rhinitis.md#evidence) · [비강내 침 치료](intranasal-acupuncture-allergic-rhinitis.md) · [근거 업데이트](allergy-rhinitis-evidence-update.md)
 - [천식](asthma.md) · [만성폐쇄성폐질환 COPD](copd.md) · [호흡곤란](dyspnea.md)
 - [위식도역류 관련 만성기침](gerd-related-chronic-cough.md)
 - [아토피피부염](atopic-dermatitis.md) · [만성 자발성 두드러기](chronic-spontaneous-urticaria.md)

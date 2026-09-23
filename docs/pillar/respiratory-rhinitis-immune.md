@@ -23,7 +23,7 @@ last_reviewed: 2026-09-06
 
 | 불편함 | 대표 문서 |
 |---|---|
-| 코막힘·콧물·재채기가 반복됨 | [비염](../conditions/rhinitis.md) · [알레르기비염](../conditions/allergic-rhinitis.md) |
+| 코막힘·콧물·재채기가 반복됨 | [비염](../conditions/rhinitis.md) · [알레르기비염](../conditions/rhinitis.md#allergic-rhinitis) |
 | 기침이 계속되거나 감기 뒤 남음 | [기침](../conditions/cough.md) · [만성기침](../conditions/chronic-cough.md) |
 | 감기에 자주 걸리거나 회복이 더딤 | [감기·급성 상기도감염](../conditions/common-cold.md) |
 | 목이 아프거나 가슴·목이 불편함 | [목·가슴 불편 증상군](../symptom-herbal-guide/respiratory-ent/r07-throat-chest.md) |

@@ -120,7 +120,7 @@ last_reviewed: 2026-08-22
 치료 후 주증만 좋아졌는지보다 평소 소증과 생활 기능이 함께 안정되는지 확인합니다.
 
 → [사상의학 소증](../sasang-symptoms/index.md)
-→ [피로·회복](../conditions/fatigue.md)
+→ [피로·회복](../conditions/chronic-fatigue.md)
 
 
 ## 동의수세보원 통합 임상 지도 {#integrated-map}

@@ -185,7 +185,7 @@ last_reviewed: 2026-09-06
 - **임상 연결:** 수양성 비루, 찬 공기·계절 반응, 담음과 한열 양상을 확인
 - **함께 볼 내용:** 천식·축농증·감염 여부와 수면 방해 정도
 
-→ [알레르기비염 근거카드](../conditions/allergic-rhinitis.md)
+→ [알레르기비염 근거](../../conditions/rhinitis.md#evidence)
 
 ### 독활기생탕 — 관절·허리·근골격 증상
 
