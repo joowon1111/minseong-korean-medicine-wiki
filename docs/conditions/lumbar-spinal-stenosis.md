@@ -3,7 +3,7 @@ title: 척추관협착증 — 걸을 때 다리통증·저림과 보행 회복
 description: 척추관협착증의 신경성 파행을 허리디스크·혈관성 파행과 구분하고 검사, 비수술 치료, 한약·침·전침·약침과 보행 회복 기준을 안내합니다.
 tags: [척추관협착증, 허리협착증, 요추관협착증, 신경성파행, 보행통증, 다리저림, 협착증한약, 척추관협착증침치료]
 status: 검토완료
-last_reviewed: 2026-09-19
+last_reviewed: 2026-09-29
 ---
 # 척추관협착증 — 걸을 때 다리통증·저림과 보행 회복
 
@@ -101,6 +101,12 @@ X-ray는 정렬과 퇴행·불안정성을, MRI는 척추관·신경공과 신�
 
 ‘신허’는 전통적 변증 용어이며 신장기능검사 저하와 같은 뜻이 아닙니다. 한약만으로 척추관이 넓어진다고 설명하지 않고 보행·통증·수면·근력 변화를 목표로 평가합니다.
 
+## 약침의 다기관 무작위시험 {#pharmacopuncture-rct}
+
+2026년 국내 다기관 실용적 무작위시험은 요추 척추관협착증 환자 **96명**을 약침군과 통상치료군에 배정해 12주 동안 주 2회 치료하고 53주까지 추적했습니다. 13주 시점의 주된 통증 NRS 감소폭은 약침군이 통상치료군보다 **2.7점 더 컸고**, 기능과 삶의 질을 포함한 이차 결과도 약침군에 유리했습니다. 심각한 이상반응은 보고되지 않았습니다. [PMID 42099446](https://pubmed.ncbi.nlm.nih.gov/42099446/) · [DOI 원문](https://doi.org/10.1016/j.imr.2026.101323)
+
+실제 진료 환경을 반영한 비교시험이라는 장점이 있지만, 이 한 연구만으로 모든 약침 제제·주입 부위가 같은 결과를 낸다고 보기는 어렵습니다. 제제와 시술법을 확인하고 보행거리·근력·감각 변화와 함께 평가합니다. → [약침 임상근거 카드](../authority/pharmacopuncture.md#lumbar-spinal-stenosis-trial)
+
 ## 언제 수술을 검토하나요?
 
 충분한 비수술 치료에도 보행과 일상 제한이 크거나 근력저하가 진행하면 감압수술을 포함한 전문평가를 검토합니다. 수술은 허리통증 자체보다 신경성 다리 증상과 보행 제한을 목표로 하는 경우가 많습니다.
@@ -152,6 +158,7 @@ X-ray는 정렬과 퇴행·불안정성을, MRI는 척추관·신경공과 신�
 
 - American Academy of Orthopaedic Surgeons. [Lumbar Spinal Stenosis](https://www.orthoinfo.org/diseases--conditions/lumbar-spinal-stenosis/).
 - NICE. [Low back pain and sciatica in over 16s](https://www.nice.org.uk/guidance/ng59).
+- Pharmacopuncture therapy versus usual care for lumbar spinal stenosis: a randomized controlled trial. *Integr Med Res*. 2026. PMID [42099446](https://pubmed.ncbi.nlm.nih.gov/42099446/). DOI [10.1016/j.imr.2026.101323](https://doi.org/10.1016/j.imr.2026.101323).
 
 !!! note "의료 안내"
     이 문서는 일반적인 건강정보입니다. 대소변 기능 변화, 회음부 감각저하, 급격한 양다리 약화 또는 급성 다리 냉감·색 변화가 있으면 즉시 의료기관에서 평가받습니다.
