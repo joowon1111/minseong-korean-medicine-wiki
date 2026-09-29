@@ -1,9 +1,9 @@
 ---
 title: 황기계지오물탕(黃耆桂枝五物湯)
-description: 기혈과 영위가 허한 혈비의 저림·냉감·감각저하를 다루는 금궤요략 대표 처방의 구조와 감별을 정리합니다.
+description: 기혈과 영위가 허한 혈비의 저림·냉감·감각저하를 다루는 금궤요략 대표 처방의 구조, 감별과 항암치료 유발 말초신경병증 임상시험을 정리합니다.
 tags: [방제학, 황기계지오물탕, 혈비, 저림, 영위불화]
 status: 검토완료
-last_reviewed: 2026-09-16
+last_reviewed: 2026-09-29
 ---
 # 황기계지오물탕(黃耆桂枝五物湯)
 
@@ -62,6 +62,12 @@ last_reviewed: 2026-09-16
 
 양쪽 손발 저림은 당뇨·비타민 결핍·갑상선·약물·말초신경병증과 연결될 수 있고, 특정 자세에서 악화되면 목·허리 신경근이나 신경포착을 살핍니다. 갑자기 한쪽 얼굴·팔·다리가 저리거나 힘이 빠지고 말이 어눌해지면 뇌졸중 가능성이 있으므로 즉시 응급 평가가 필요합니다.
 
+## 옥살리플라틴 말초신경병증 예방 무작위시험 {#oxaliplatin-neuropathy-trial}
+
+2026년 중국 12개 3차 의료기관의 이중맹검 위약대조시험은 XELOX 항암치료를 시작하는 대장암 환자 **360명**을 황기계지오물탕 과립과 위약에 무작위 배정했습니다. 수정 의도치료 분석 354명에서 2등급 이상 만성 옥살리플라틴 유발 말초신경병증은 황기계지오물탕군 **21.3%**, 위약군 **38.6%**였고, 오즈비는 **0.43(95% CI 0.27~0.69)**이었습니다. 전체 이상반응은 두 군 사이에 유의한 차이가 없었습니다. [PMID 42435525](https://pubmed.ncbi.nlm.nih.gov/42435525/) · [DOI 원문](https://doi.org/10.1016/j.phymed.2026.158539) · 임상시험등록 NCT04913376
+
+이는 처방 단위의 규모 있는 예방시험이라는 점에서 의미가 있습니다. 다만 **대장암의 XELOX 요법과 시험용 과립제**를 평가한 결과이므로 이미 발생한 모든 신경병증의 치료 효과나 다른 항암요법으로 곧바로 넓혀 해석하지 않습니다. 항암제 용량 조정과 신경학적 평가는 종양 진료팀과 협의합니다. → [항암치료 유발 말초신경병증 근거 카드](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md#huangqi-guizhi-wuwu-trial)
+
 ## 안전하게 보기
 
 저림의 원인을 확인한 뒤 병증에 맞춰 가감합니다. 임신·수유, 항응고제·항혈소판제 복용, 당뇨약 복용, 부종·심장·신장질환이 있는 경우 현재 치료와 함께 검토합니다.
@@ -70,6 +76,7 @@ last_reviewed: 2026-09-16
 
 - 『금궤요략』 혈비허로병맥증병치
 - [대한한방내과학회지: 황기계지오물탕 관련 임상 증례](https://www.jikm.or.kr/journal/view.php?number=5230)
+- Neuroprotection and prevention of oxaliplatin-induced neuropathy with Huangqi Guizhi Wuwu Decoction: a 12-center randomized, double-blind trial. *Phytomedicine*. 2026. PMID [42435525](https://pubmed.ncbi.nlm.nih.gov/42435525/). DOI [10.1016/j.phymed.2026.158539](https://doi.org/10.1016/j.phymed.2026.158539).
 
 ## 관련 문서
 
