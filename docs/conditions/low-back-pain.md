@@ -8,7 +8,7 @@ tags:
 - 만성요통
 - 좌골신경통
 status: 검토완료
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-29
 ---
 # 요통
 
@@ -98,6 +98,12 @@ MRI는 모든 급성요통에 즉시 필요하지 않습니다. 위험신호, �
 
 WHO 2023 만성 일차성 요통 지침은 침을 포함해 교육·운동·일부 물리적·심리적 치료를 환자 중심의 통합 관리 안에서 고려합니다. 한 가지 치료에만 의존하기보다 통증을 낮추고 활동을 회복하는 조합이 중요합니다.
 
+#### 급성요통 근거는 따로 읽습니다
+
+2026년 급성요통(<6주) 체계적 문헌고찰은 임상지침 개발을 위해 **105개 연구·111편의 보고**를 종합했습니다. 침은 조작·관절가동술, 활동 유지 조언, 조기 물리치료 등과 함께 하나 이상의 평가 시점에서 통증 또는 기능에 도움이 된 비약물 선택지로 분류됐으며, 근거 신뢰도는 중등도였습니다. 다만 대부분의 중재 효과 크기는 작았고, 적정 치료 횟수와 장기 효과는 더 연구해야 합니다. 위험신호가 없는 급성요통에서는 조기 영상검사가 통증이나 기능을 더 개선하지 않았다는 결과도 함께 확인됐습니다. [PMID 42799684](https://pubmed.ncbi.nlm.nih.gov/42799684/) · [DOI 원문](https://doi.org/10.1093/pm/pnag131)
+
+따라서 급성기에는 침을 단독 해결책으로 보기보다 위험신호 확인, 가능한 범위의 활동 유지와 단계적 일상 복귀 안에서 선택합니다. 만성요통 연구 결과를 급성 염좌에 그대로 적용하지 않습니다.
+
 ## 급성기와 만성기의 운동
 
 ### 급성기
@@ -167,6 +173,7 @@ WHO 2023 만성 일차성 요통 지침은 침을 포함해 교육·운동·일�
 - Qaseem A, et al. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain. *Ann Intern Med*. 2017.
 - Vickers AJ, et al. Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-analysis. PMID [29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/).
 - Wu et al. Acupuncture for low back pain: umbrella review. 2024. PMID [38790086](https://pubmed.ncbi.nlm.nih.gov/38790086/).
+- Assessment and Treatment of Acute Low Back Pain: A Systematic Review. *Pain Med*. 2026. PMID [42799684](https://pubmed.ncbi.nlm.nih.gov/42799684/). DOI [10.1093/pm/pnag131](https://doi.org/10.1093/pm/pnag131).
 
 ## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
 
