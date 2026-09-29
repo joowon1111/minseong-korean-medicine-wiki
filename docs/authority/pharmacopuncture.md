@@ -1,9 +1,9 @@
 ---
 title: 약침 — 출전·임상근거 카드
-description: 약침의 경혈·약침액 결합 치료 특성과 만성요통 pragmatic RCT의 PMID·DOI를 정리합니다.
+description: 약침의 경혈·약침액 결합 치료 특성과 요통·척추관협착증·목통증·오십견 임상시험의 PMID·DOI를 정리합니다.
 tags: [출처, 임상근거, PMID, DOI]
 status: 검토완료
-last_reviewed: 2026-09-06
+last_reviewed: 2026-09-29
 ---
 # 약침 — 출전·임상근거 카드
 
@@ -29,6 +29,12 @@ last_reviewed: 2026-09-06
 ## 요통 시험의 치료기간과 효과크기 {#pharmaco-back-trial}
 
 5주 동안 10회 치료를 시행한 연구에서 6주 요통 NRS의 군 간 차이는 **1.54점(95% CI 0.94~2.13)**이었습니다. ODI 기능과 삶의 질도 함께 평가하고 25주까지 추적했습니다. 물리치료와 비교한 실용적 임상시험이며, 모든 약침 제제가 동일한 효과를 낸다거나 일반침보다 우월하다는 비교는 아닙니다. [PMID 37554434](https://pubmed.ncbi.nlm.nih.gov/37554434/)
+
+## 요추 척추관협착증 — 다기관 RCT {#lumbar-spinal-stenosis-trial}
+
+2026년 국내 다기관 실용적 무작위시험은 요추 척추관협착증 환자 **96명**을 약침과 통상치료에 1:1 배정했습니다. 두 군 모두 12주 동안 주 2회 치료받았고 13·25·53주에 추적했습니다. 13주 주된 통증 NRS의 기저치 대비 변화는 약침군이 통상치료군보다 **2.7점 더 컸으며**, 기능과 삶의 질을 포함한 이차 결과도 약침군에 유리했습니다. 심각한 이상반응은 관찰되지 않았습니다. [PMID 42099446](https://pubmed.ncbi.nlm.nih.gov/42099446/) · [PMCID PMC13145381](https://pmc.ncbi.nlm.nih.gov/articles/PMC13145381/) · [DOI 원문](https://doi.org/10.1016/j.imr.2026.101323)
+
+실제 진료에 가까운 설계와 53주 추적은 장점입니다. 다만 사용 제제·주입 위치·병행치료를 확인해야 하며, 결과를 모든 약침이나 진행성 근력저하가 있는 환자에게 일괄 적용하지 않습니다. → [척추관협착증 진료 안내](../conditions/lumbar-spinal-stenosis.md#pharmacopuncture-rct)
 
 ## 만성 목통증 — 통증과 업무 기능 {#pharmaco-neck-trial}
 
