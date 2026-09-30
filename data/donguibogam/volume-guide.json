@@ -1,0 +1,31 @@
+{
+  "source": "국립중앙도서관 CNTS-00047980284의 Commons 영인본. 각 책의 본문 첫 장 권두제를 이미지와 대조했다. 제1책에는 총목·서문 등 앞부분이 함께 있다.",
+  "scope": "본문 23권과 목록 2권. 파일의 책 번호와 원전의 편·권 번호는 다르다. 소개 항목은 원전 편목의 한글 독음이며 검색 가능한 전사의 범위를 뜻하지 않는다.",
+  "volumes": [
+    {"number":1,"division":"내경편","volume":1,"topics":"신형·정·기·신","evidence_page":29,"opening_page":29},
+    {"number":2,"division":"내경편","volume":2,"topics":"혈·몽·성음·언어·진액·담음","evidence_page":3,"opening_page":3},
+    {"number":3,"division":"내경편","volume":3,"topics":"오장육부·포·충","evidence_page":3,"opening_page":3},
+    {"number":4,"division":"내경편","volume":4,"topics":"소변·대변","evidence_page":3,"opening_page":3},
+    {"number":5,"division":"외형편","volume":1,"topics":"두·면·안","evidence_page":3,"opening_page":3},
+    {"number":6,"division":"외형편","volume":2,"topics":"이·비·구설·아치·인후·경항·배","evidence_page":3,"opening_page":3},
+    {"number":7,"division":"외형편","volume":3,"topics":"흉·유·복·제·요·협·피·육·맥·근·골","evidence_page":3,"opening_page":3},
+    {"number":8,"division":"외형편","volume":4,"topics":"수·족·모발·전음·후음","evidence_page":3,"opening_page":3},
+    {"number":9,"division":"잡병편","volume":1,"topics":"심병·변증·진맥·용약·토·한·하","evidence_page":3,"opening_page":3},
+    {"number":10,"division":"잡병편","volume":2,"topics":"풍·한 상","evidence_page":3,"opening_page":3},
+    {"number":11,"division":"잡병편","volume":3,"topics":"한 하·서·습·조·화","evidence_page":3,"opening_page":3},
+    {"number":12,"division":"잡병편","volume":4,"topics":"내상·허로","evidence_page":3,"opening_page":3},
+    {"number":13,"division":"잡병편","volume":5,"topics":"곽란·구토·해수","evidence_page":3,"opening_page":3},
+    {"number":14,"division":"잡병편","volume":6,"topics":"적취·부종·창만·소갈·황달","evidence_page":3,"opening_page":3},
+    {"number":15,"division":"잡병편","volume":7,"topics":"해학·온역·옹저 상","evidence_page":3,"opening_page":3},
+    {"number":16,"division":"잡병편","volume":8,"topics":"옹저 하·제창","evidence_page":3,"opening_page":3},
+    {"number":17,"division":"잡병편","volume":9,"topics":"제상·해독·구급·괴질·잡방","evidence_page":3,"opening_page":3},
+    {"number":18,"division":"잡병편","volume":10,"topics":"부인","evidence_page":3,"opening_page":3},
+    {"number":19,"division":"잡병편","volume":11,"topics":"소아","evidence_page":3,"opening_page":3},
+    {"number":20,"division":"탕액편","volume":1,"topics":"탕액서례·수부·토부·곡부·인부·금부·수부","evidence_page":3,"opening_page":3},
+    {"number":21,"division":"탕액편","volume":2,"topics":"어부·충부·과부·채부·초부 상","evidence_page":3,"opening_page":3},
+    {"number":22,"division":"탕액편","volume":3,"topics":"초부 하·목부·옥부·석부·금부","evidence_page":3,"opening_page":3},
+    {"number":23,"division":"침구편","volume":1,"topics":"자침·구법·경맥·경혈","evidence_page":3,"opening_page":3},
+    {"number":24,"division":"목록","volume":2,"topics":"원전 편목","evidence_page":3,"opening_page":3},
+    {"number":25,"division":"목록","volume":1,"topics":"원전 편목","evidence_page":3,"opening_page":3}
+  ]
+}

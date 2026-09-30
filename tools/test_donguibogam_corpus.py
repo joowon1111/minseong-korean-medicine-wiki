@@ -27,3 +27,12 @@ class CorpusTests(unittest.TestCase):
   for page in (ROOT/'docs/classics/donguibogam').rglob('*.md'):
    for key in re.findall(r'original\.md\?record=([a-z0-9-]+)',page.read_text(encoding='utf-8-sig')):self.assertIn(key,by_id)
   angelica=next(r for r in rows if r['title']=='當歸');self.assertEqual(angelica['group'],'tangaek-3')
+ def test_verified_volume_labels_and_opening_pages(self):
+  manifest=json.loads((BASE/'manifest.json').read_text());guide=json.loads((ROOT/'data/donguibogam/volume-guide.json').read_text())
+  self.assertEqual(len(guide['volumes']),25)
+  from collections import Counter
+  self.assertEqual(Counter(s['division'] for s in manifest['scans']),{'내경편':4,'외형편':4,'잡병편':11,'탕액편':3,'침구편':1,'목록':2})
+  for scan in manifest['scans']:
+   self.assertGreaterEqual(scan['opening_page'],1);self.assertLessEqual(scan['opening_page'],scan['pages']);self.assertIn('/page'+str(scan['evidence_page'])+'-',scan['evidence_image'])
+  by_number={s['number']:s for s in manifest['scans']}
+  self.assertEqual(by_number[24]['title'],'목록 권2');self.assertEqual(by_number[25]['title'],'목록 권1');self.assertEqual(by_number[18]['title'],'잡병편 권10');self.assertEqual(by_number[18]['topics'],'부인')
