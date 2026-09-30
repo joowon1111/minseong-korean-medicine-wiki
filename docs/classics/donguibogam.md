@@ -56,6 +56,8 @@ last_reviewed: 2026-08-29
 
 ## 원문과 상세 지식망 {#_9}
 
+[아카이브 원문 열람·별도 검색](donguibogam/original.md)에서 전사를 읽고 공개 영인본을 넘겨볼 수 있습니다. 검색 가능한 전사 범위와 전권 이미지 열람 범위는 화면에서 구분합니다.
+
 - [한의학고전DB 동의보감](https://mediclassics.kr/books/8)
 - [내손안에 동의보감](https://app.mediclassics.kr/)
 - [동의보감 임상 탐색 네트워크](../donguibogam-network/index.md)
