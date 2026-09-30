@@ -10,5 +10,11 @@
 .dgb-original-text {padding:1rem;background:var(--md-code-bg-color);line-height:2;overflow-wrap:anywhere}
 #dgb-passage {scroll-margin-top:5rem}
 #dgb-scan-image {display:block;margin:1rem auto;max-width:100%;height:auto;border:1px solid var(--md-default-fg-color--lightest)}
-.dgb-controls {display:flex;gap:.6rem}
+.dgb-controls {display:flex;align-items:center;flex-wrap:wrap;gap:.6rem;margin:1rem 0}
+#dgb-results {scroll-margin-top:5rem}
+#dgb-scan {scroll-margin-top:5rem}
+#dgb-volume-guide details {border-bottom:1px solid var(--md-default-fg-color--lightest);padding:.5rem 0}
+#dgb-volume-guide summary {cursor:pointer;font-weight:700}
+#dgb-volume-guide li {margin:.6rem 0;line-height:1.8}
+#dgb-volume-guide li span {font-size:.8rem}
 #dgb-reader [hidden] {display:none!important}
