@@ -1,4 +1,4 @@
-﻿---
+---
 title: 임신준비·산후·갱년기 한약은 어떻게 다르게 보나요?
 description: 여성 생애주기별 한약을 월경·수면·소화·피로·냉열·회복상태와 연결해 비교합니다.
 tags: [임신준비한약, 산후보약, 갱년기한약, 여성한약]
@@ -18,7 +18,7 @@ tags: [임신준비한약, 산후보약, 갱년기한약, 여성한약]
 상열감·발한뿐 아니라 수면, 두근거림, 피로, 기분 변화와 월경 변화를 함께 봅니다. 같은 열감도 음허·간울·담열 등 병증이 다를 수 있습니다.
 
 ## 더 깊게 보기
-- [임신준비 한약](../conditions/preconception-herbal.md)
+- [임신준비 한약](../conditions/infertility-preconception.md#preconception-herbal)
 - [산후 한약·산후보약](../conditions/postpartum-herbal.md)
 - [갱년기 한약](../conditions/menopause-herbal.md)
 - [여성 관련 방제](../herbal-integrated/formula-for-women.md)

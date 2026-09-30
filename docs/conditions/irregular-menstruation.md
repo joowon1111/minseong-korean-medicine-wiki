@@ -89,6 +89,24 @@ last_reviewed: 2026-09-06
 
 AMH는 난소 자극 반응과 난포 수를 참고하는 검사이며, 월경불순의 원인을 단독으로 진단하거나 자연임신 가능성을 확정하지는 않습니다.
 
+## 무월경: 검사와 배란장애를 구분 {#amenorrhea}
+
+월경이 원래 규칙적이던 사람에서 3개월, 불규칙하던 사람에서 6개월 이상 없으면 평가가 필요합니다. 이 기간 전이라도 임신 가능성·통증·두통/시야 변화·급격한 체중 감소가 있으면 기다리지 않습니다. 초경이 없으면 15세 또는 유방 발달 후 3년 경과 등의 기준을 임상에서 확인합니다.
+
+임신검사부터 시행하고 병력·진찰에 따라 TSH·프로락틴·FSH/에스트라디올·초음파 등을 선택합니다. [PCOS](polycystic-ovary-syndrome.md), 시상하부성 무월경(식사 부족·과운동 등), 고프로락틴혈증·갑상선, [조기난소부전과 DOR](diminished-ovarian-reserve.md#dor-versus-poi), 자궁강 유착·해부학적 문제를 감별합니다. 산후·수유·피임약 등도 맥락을 확인합니다.
+
+치료는 원인에 따라 영양·운동 조정, 내분비 치료·내막 보호·배란유도를 선택합니다. 단순히 출혈을 유도한 것과 배란을 회복한 것은 다릅니다. 임신 확인 없이 생리를 나오게 하는 한약을 자가 복용하지 않습니다. [ASRM 무월경 평가 2024](https://www.asrm.org/practice-guidance/practice-committee-documents/current-evaluation-of-amenorrhea/)
+
+## 과소월경: 양이 적으면 모두 난임인가요? {#scanty-menstruation}
+
+출혈량·기간은 개인차와 피임/호르몬제 영향을 받습니다. 갑자기 줄거나 주기 지연·무월경·체중 변화·소파술 병력이 겹치면 임신·배란·에너지 부족·내막/자궁강 등을 확인합니다. 생리양 하나가 난소예비력·내막 수용성·임신 가능성을 측정하지 않습니다.
+
+전통 혈허·신허·간울의 감별에는 담색·어지럼·피로·냉열·설맥 등 증후 묶음이 필요합니다. [변증표](../womens-health/fertility-patterns.md)와 [처방 선택망](../herbal-integrated/formula-for-women.md)을 이용하되 과소 = 사물탕처럼 정하지 않습니다. 주기·배란·출혈·기저질환과 [한의치료 근거](../authority/conditions/female-infertility-art.md)를 분리해 기록합니다.
+
+## 월경주기와 난임을 연결하기
+
+[정상 호르몬·내막·난소·기초체온](../womens-health/reproductive-physiology.md#cycle-phases), [배란 확인](../womens-health/reproductive-physiology.md#ovulation-confirmation), [난임 평가 시점](infertility-preconception.md#evaluation-timing)을 확인합니다. 주기성 출혈과 실제 배란·임신 결과를 혼동하지 않습니다.
+
 ## 한의학적 변증
 
 | 변증 | 함께 보이는 양상 | 치료 방향 |
@@ -177,7 +195,7 @@ AMH는 난소 자극 반응과 난포 수를 참고하는 검사이며, 월경�
 
 ## 관련 문서
 
-- [무월경·생리가 안 나와요](./amenorrhea.md)
+- [무월경·생리가 안 나와요](irregular-menstruation.md#amenorrhea)
 - [생리통·월경통](./dysmenorrhea.md)
 - [난임·임신준비](./infertility-preconception.md)
 - [갱년기](./menopause.md)

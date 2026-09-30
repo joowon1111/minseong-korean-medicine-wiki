@@ -25,6 +25,12 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      conditions/pcos.md: conditions/polycystic-ovary-syndrome.md
+      conditions/preconception-herbal.md: conditions/infertility-preconception.md#preconception-herbal
+      conditions/fertility-fatigue.md: conditions/infertility-preconception.md#whole-health
+      conditions/amenorrhea.md: conditions/irregular-menstruation.md#amenorrhea
+      conditions/scanty-menstruation.md: conditions/irregular-menstruation.md#scanty-menstruation
+      conditions/ovulation-pain.md: womens-health/reproductive-physiology.md#ovulation-pain
       symptoms/index.md: symptom-integrated/index.md
       symptoms/fatigue.md: conditions/energy-recovery.md
       symptoms/sleep-problem.md: conditions/insomnia.md

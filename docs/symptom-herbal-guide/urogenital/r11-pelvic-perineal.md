@@ -257,7 +257,7 @@ last_reviewed: 2026-08-28
 - [만성전립선염·만성골반통](../../conditions/chronic-prostatitis.md)
 - [남성 골반저근 긴장](../../conditions/pelvic-floor-tension-men.md)
 - [생리통·월경통](../../conditions/dysmenorrhea.md)
-- [배란통](../../conditions/ovulation-pain.md)
+- [배란통](../../womens-health/reproductive-physiology.md#ovulation-pain)
 - [여성 골반통 임상근거 지도](../../authority/conditions/gynecologic-pelvic-pain-evidence-map.md)
 - [한약·방제 찾기](../../herbal-integrated/by-symptom-treatment.md)
 - [침구·치료 찾기](../../acupuncture-integrated/by-symptom.md)

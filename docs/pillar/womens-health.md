@@ -10,6 +10,12 @@ last_reviewed: 2026-09-06
 
 여성건강은 월경주기에서 임신준비·출산·산후, 주폐경기까지 이어지는 과정입니다. 특히 임신과 관련된 진료는 **검사·가임력의 시간표·자연임신과 보조생식·임신 중 안전·유산 또는 출산 뒤 회복**을 끊지 않고 연결해야 합니다.
 
+## 생식생리·부부 난임 지식망
+
+[정상 월경·배란](../womens-health/reproductive-physiology.md) → [난임·임신 준비 진료 지도](../conditions/infertility-preconception.md) → [여성 원인](../conditions/infertility-preconception.md#female-causes)·[남성 난임](../conditions/male-infertility.md) → [자연임신·생활관리](../conditions/infertility-preconception.md#whole-health)·[IUI/IVF](../conditions/assisted-reproduction-support.md) → [RIF](../conditions/recurrent-implantation-failure.md)·[RPL](../conditions/recurrent-pregnancy-loss.md) → [임신 초기](../conditions/pregnancy-herbal-care.md).
+
+한의학 학습은 [포궁·충임·천계·신](../womens-health/reproductive-physiology.md#traditional-reproduction) → [변증](../womens-health/fertility-patterns.md) → [처방 선택망](../herbal-integrated/formula-for-women.md) → [본초](../herbal-integrated/herbs-for-women.md)·[침구](../acupuncture-integrated/points-for-womens-health.md) → [현대 근거](../authority/conditions/female-infertility-art.md)·[안전성](../herbal-integrated/safety.md#fertility-pregnancy-safety)으로 이어집니다. [초진 문진표](../womens-health/fertility-intake.md)는 검사·변증·치료계획을 함께 기록합니다.
+
 ## 임신 준비·임신·산후 중심 허브
 
 [임신 준비·난임·임신·산후 한의학 허브 →](../womens-health/fertility-pregnancy-postpartum.md)
@@ -38,6 +44,10 @@ last_reviewed: 2026-09-06
 | 난임시술 중임 | [시험관·인공수정 준비](../conditions/assisted-reproduction-support.md) | 난소자극·채취·이식·투약 일정 |
 | 출산·유산 뒤 회복이 더딤 | [산후회복](../conditions/postpartum-recovery.md) · [유산 후 회복](../conditions/miscarriage-recovery.md) | 출혈·빈혈·감염·수유·수면·정서 |
 | 열감·불면·발한 변화 | [갱년기](../conditions/menopause.md) | 월경 변화·수면·기분·골건강·심혈관 위험 |
+
+## 월경·대하·구조 질환도 함께 보기
+
+[월경통](../conditions/dysmenorrhea.md)과 [월경불순·무월경·과소월경](../conditions/irregular-menstruation.md)은 생식생리와 난임 평가로 연결합니다. [PMS·PMDD](../conditions/pms.md)는 두 주기 이상 일지와 기능 손상으로 평가하며 난임·배란장애와 구분합니다. [내막증](../conditions/endometriosis.md)·[선근증](../conditions/adenomyosis.md)·[근종](../conditions/uterine-fibroids.md)은 통증·출혈과 임신 목표를 함께 봅니다. [질염·대하](../conditions/vaginitis.md)는 감염 평가와 전통 대하 변증을 구분합니다.
 
 ## 갱년기와 폐경 후 건강 이어 보기
 

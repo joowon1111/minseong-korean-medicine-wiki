@@ -57,7 +57,7 @@ last_reviewed: 2026-09-04
 - 스트레스 때 복부팽만·유방창통·월경 지연이 나타남
 - 기혈허, 한응과 기체가 한쪽으로만 치우치지 않고 함께 보임
 
-이 단서만으로 난임 원인을 설명하지 않습니다. 배란, 난관, 자궁·자궁내막, 난소예비력과 남성요인을 함께 평가합니다.
+[월경·대하·전신·설맥 변증표](../womens-health/fertility-patterns.md#fertility-pattern-table)와 [처방 선택 네트워크](../herbal-integrated/formula-for-women.md#fertility-formula-network)에서 혈허·기체·한응의 비중을 비교합니다. 이 단서만으로 난임 원인을 설명하지 않습니다. 배란, 난관, 자궁·자궁내막, 난소예비력과 남성요인을 함께 평가합니다.
 
 ## 주요 처방과 감별
 
