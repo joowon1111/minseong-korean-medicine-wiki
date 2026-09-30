@@ -1,4 +1,4 @@
-﻿---
+---
 title: 관원(關元) CV4
 description: 관원(關元) CV4의 WHO 표준 위치, 전통적 효능, 주요 임상 활용과 관련 지식망을 정리합니다.
 tags: [침구학, 경혈, 관원]
@@ -101,7 +101,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 ### 허손·회복
 원기와 하초를 보하는 방향의 대표 경혈
 ### 비뇨·생식
-하복부·비뇨생식계 배혈에서 폭넓게 활용
+하복부·비뇨생식계 배혈에서 전통적으로 활용합니다. [여성 생식·난임 침구 지도](../../acupuncture-integrated/points-for-womens-health.md)에서 배합 원칙과 [IVF 생아출산 연구](../../authority/conditions/female-infertility-art.md)를 구분합니다. 특정 혈의 주치 기록이 착상률 상승을 입증하는 것은 아닙니다.
 
 ## 지식망 연결
 - [관련 임상 지식망](../../network/fatigue-acupoints.md)

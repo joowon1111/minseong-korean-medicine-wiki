@@ -42,6 +42,8 @@ last_reviewed: 2026-09-06
 
 2017년 원발성 월경통 체계적 문헌고찰·메타분석은 18개 연구·1,736명을 종합해 온경탕 원방 또는 가감방의 통증강도와 임상반응을 평가했습니다. 한응·어혈 단서와 처방 구성, 비교치료를 함께 확인해 적용합니다. [PMID 28791471](https://pubmed.ncbi.nlm.nih.gov/28791471/) · [DOI 10.1007/s00404-017-4485-7](https://doi.org/10.1007/s00404-017-4485-7)
 
+[자궁내막증](../conditions/endometriosis.md)·[선근증](../conditions/adenomyosis.md)에서는 통증 결과와 난임 결과를 구분합니다. [난임·ART 근거카드](../authority/conditions/female-infertility-art.md)의 임신·생아출산 자료와 [임신 시기 안전성](../herbal-integrated/safety.md#fertility-pregnancy-safety)을 함께 확인합니다.
+
 침과 온경탕을 함께 사용한 연구는 복합치료 근거로 별도 구분합니다. 처방 자체의 효과와 동일하게 해석하지 않습니다.
 
 ## 안전성과 진료 연결

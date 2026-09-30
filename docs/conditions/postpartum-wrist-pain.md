@@ -42,7 +42,7 @@ last_reviewed: 2026-08-21
 
 ## 기존 지식망과 연결
 
-- [임신준비 한약·가임기 건강](preconception-herbal.md)
+- [임신준비 한약·가임기 건강](infertility-preconception.md#preconception-herbal)
 - [출산 후 한약·산후보약](postpartum-herbal.md)
 - [갱년기 한약·여성 갱년기](menopause-herbal.md)
 - [여성한약·여성 건강](womens-herbal.md)

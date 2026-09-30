@@ -1,79 +1,60 @@
 ---
 title: 임신 준비·난임·임신·산후 한의학 허브
-description: 자연임신 준비부터 인공수정·시험관, 착상 대기, 임신 중 관리, 유산 후 회복, 산후보약·산후풍까지 단계별로 연결합니다.
-tags: [여성건강, 임신준비, 난임, 시험관, 착상, 임신한약, 유산후조리, 산후보약, 산후풍]
+description: 부부의 임신 준비부터 난임 평가·시술·임신 초기·유산 후·산후까지 이어지는 생애주기 길잡이입니다.
+tags:
+- 여성건강
+- 임신준비
+- 난임
+- 시험관
+- 착상
+- 임신한약
+- 유산후조리
+- 산후보약
+- 산후풍
 status: 검토완료
 last_reviewed: 2026-09-05
 ---
 
 # 임신 준비·난임·임신·산후 한의학 허브
 
-임신을 돕는 진료는 한 가지 ‘임신 처방’을 고르는 일이 아닙니다. **원인 평가와 가임력 보존, 자연임신 또는 보조생식 일정, 임신 성립 뒤 안전, 출산과 산후 회복**을 하나의 흐름으로 관리합니다.
+임신 관련 진료는 현재 단계와 다음 단계를 함께 봅니다. 난임의 상세 검사·치료 지도는 [난임·임신 준비 허브](../conditions/infertility-preconception.md)에 모으고 이 문서는 생애주기의 이동 경로를 안내합니다.
 
 ## 지금 어느 단계인가요?
 
-| 단계 | 먼저 확인할 것 | 한의진료의 역할 | 바로가기 |
-|---|---|---|---|
-| 자연임신 준비 | 월경·배란, 난관, 자궁, 정액검사, 연령 | 주기·수면·소화·냉감·통증과 전신 상태 조절 | [난임·임신준비](../conditions/infertility-preconception.md) |
-| 인공수정·시험관 준비 | 자극법, 채취·이식 일정, 난소예비력, 남성요인 | 시술을 지연하지 않고 증상·생활·치료 일정을 조율 | [시험관·인공수정 준비](../conditions/assisted-reproduction-support.md) |
-| 배아이식·착상 대기 | 이식일, 황체호르몬·항응고제 등 투약 | 새 처방을 임의로 시작하지 않고 복용 중인 처방을 재평가 | [착상보약을 어떻게 이해하나요?](../conditions/assisted-reproduction-support.md#착상보약은-고정된-처방이-아닙니다) |
-| 임신 확인 뒤 | 자궁외임신·출혈·통증, 산과 일정 | 입덧·소화·수면 등 증상을 산과 진료와 함께 관리 | [임신 중 한약](../conditions/pregnancy-herbal-care.md) |
-| 고령임신 준비 | 평가를 미루지 않는 것, 동반질환·유산력 | 시간을 소모하지 않는 병행 계획과 전신 컨디션 관리 | [고령임신과 시간 계획](../conditions/assisted-reproduction-support.md#고령임신과-시간-계획) |
-| 유산 뒤 | 자궁외임신 배제, 출혈·감염, 잔류조직 | 신체·정서 회복과 다음 임신 준비 시점 조율 | [유산 후 조리 한약](../conditions/miscarriage-recovery.md) |
-| 출산 직후·산후 | 출혈·감염·혈압, 빈혈, 수유, 상처 | 오로·소화·기혈·통증·수면을 단계적으로 관리 | [산후회복·산후풍](../conditions/postpartum-recovery.md) · [산후보약·수유 중 한약](../conditions/postpartum-herbal.md) |
+| 현재 단계 | 해결할 질문 | 핵심 문서 |
+|---|---|---|
+| 임신 전 | 배란·가임창·엽산·약물·생활을 어떻게 준비하나 | [난임·임신 준비](../conditions/infertility-preconception.md) · [생활관리](../conditions/infertility-preconception.md#whole-health) |
+| 임신이 지연됨 | 여성·남성 검사를 언제 같이 시작하나 | [검사 시점](../conditions/infertility-preconception.md#evaluation-timing) · [초진 체크리스트](fertility-intake.md) |
+| 원인을 확인 | 배란·난소·자궁·난관·정액을 어떻게 해석하나 | [여성 원인](../conditions/infertility-preconception.md#female-causes) · [남성 난임](../conditions/male-infertility.md) |
+| IUI·IVF | 자극·채취·수정·배양·이식·확인과 병행치료 | [보조생식](../conditions/assisted-reproduction-support.md) |
+| 실패·유산 | 착상 실패와 임신 소실을 어떻게 구분하나 | [RIF](../conditions/recurrent-implantation-failure.md) · [RPL](../conditions/recurrent-pregnancy-loss.md) |
+| 임신 확인 | 위치·주수·출혈·입덧·치료 안전은 | [임신 초기·한의진료](../conditions/pregnancy-herbal-care.md) |
+| 유산 후 | 출혈·감염·잔류조직과 다음 임신은 | [회복과 다음 준비](../conditions/miscarriage-recovery.md) |
+| 출산 후 | 오로·빈혈·통증·수면·수유·상처는 | [산후회복](../conditions/postpartum-recovery.md) · [산후한약](../conditions/postpartum-herbal.md) |
 
 ## 임신 준비에서 보는 핵심 축
 
-- **시간을 놓치지 않는 원인 평가**: 배란, 난관, 자궁·자궁내막, 난소예비력, 정액검사와 필요한 내분비 검사를 함께 봅니다.
-- **월경주기와 배란**: 주기 길이, 출혈량·혈괴, 생리통, 배란 징후와 초음파·호르몬 결과를 연결합니다.
-- **남녀를 함께 평가**: 난임은 여성만의 문제가 아니므로 정액검사와 남성의 생활·질환·약물도 같이 확인합니다.
-- **몸 상태를 수치로 추적**: 수면, 식욕·배변, 체중, 통증뿐 아니라 배란·채취·수정·임신 결과를 구분해 기록합니다.
-- **보조생식과 협진**: 한약·침 치료는 난임시술의 일정·투약·채취·이식 단계에 맞춰 조정합니다.
+[정상 월경·배란·수정·착상](reproductive-physiology.md)에서 시작해 원인별 검사와 연령·시간 계획을 정합니다. AMH·월경·초음파 하나가 모든 임신 가능성을 뜻하지 않습니다. [난소예비력](../conditions/diminished-ovarian-reserve.md)·[PCOS](../conditions/polycystic-ovary-syndrome.md)·[내막증](../conditions/endometriosis.md)·[선근증](../conditions/adenomyosis.md)·[난관/내막](../conditions/tubal-endometrial-infertility.md)·[원인불명](../conditions/unexplained-infertility.md)을 함께 읽습니다.
 
 ## 한의학적 진료 틀
 
-| 중심 양상 | 자주 함께 보는 소견 | 대표 치법·처방군 |
-|---|---|---|
-| 간울기체 | 주기 전 유방창통·복부팽만, 긴장, 수면저하 | 소간이기·조경, 소요산·가미소요산·[개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) 계열 |
-| 혈허·충임부족 | 월경량 감소, 어지럼·창백, 회복저하 | 양혈조경·보신익정, 사물탕·당귀작약산·[육린주](../formulas/yulin-zhu.md) 계열 |
-| 한응·하초허한 | 하복부 냉감, 온열 시 편안, 냉증성 통증 | 온경산한·양혈, 온경탕·[조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) 계열 |
-| 어혈 | 고정된 골반통, 혈괴, 압통 | 활혈조경; 구조적 질환과 출혈 위험을 먼저 평가 |
-| 비신양허·담습 | 피로·냉감·부종, 체중·대사 문제, 배란불규칙 | 건비·온보·화담을 병증에 맞춰 구성 |
-
-처방명보다 **현재 단계와 병증**이 우선입니다. 자연임신 준비 때 사용한 처방을 난자채취·배아이식·임신 확인 뒤까지 자동으로 이어 쓰지 않습니다.
+[腎·天癸·衝任·胞宮](reproductive-physiology.md#traditional-reproduction)의 전통 이론을 현대 생식생리와 별도로 이해합니다. [13개 주요 변증](fertility-patterns.md)은 월경·대하·전신·설맥을 치법·처방에 연결합니다. 현대 질환과 변증을 기계적으로 대응시키지 않습니다.
 
 ## 대표 처방을 단계별로 읽기
 
-| 처방 | 전통적 위치 | 중요한 구분 |
-|---|---|---|
-| [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) | 월경부조와 하초 한·기혈실조를 살피는 임신준비 대표처방 | 임신 성립 뒤에는 그대로 지속하지 않고 재평가 |
-| [육린주](../formulas/yulin-zhu.md) | 기혈양허·신허·충임부족형 임신준비 | 전신 허손과 소화력, 한열을 함께 감별 |
-| [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) | 간울기체가 중심인 임신준비 | 보조생식 일정과 임신 확인 뒤 구성 재평가 |
-| [수태환](../formulas/shoutai-wan.md) | 보신안태·고충임의 태루·태동불안 처방 | 임신 중 출혈은 원인 진단과 산과 치료가 우선 |
-| [태산반석산](../formulas/taishan-panshi-san.md) | 기혈양허·비위허약·충임불고형 산전 안태 | 임신 주수·초음파·병용약을 확인 |
-| 온경탕 | 충임허한과 어혈·건조가 함께 보이는 조경 처방군 | 출혈 양상과 열증 여부 감별 |
-| 당귀작약산 | 혈허에 복통·부종·수분대사 이상이 겹친 처방군 | 임신 중 사용은 별도 진료 판단 |
-| [달생산](../formulas/dalsaeng-san.md) | 고전의 임신 말기·출산 준비 맥락 | 임신준비·착상 처방이 아니며 임의 복용 금지 |
-| [불수산](../formulas/bulsu-san.md) | 당귀·천궁 중심의 산과·산후 고전 처방 | 같은 이름의 이방이 있어 출전 확인 필요 |
-| [단녹용탕](../formulas/dan-nokyong-tang.md) | 난산을 다룬 고전의 단미 녹용 처방 | 일반 산후보약이나 상시 임신보약이 아님 |
-| [생화탕](../formulas/saenghwa-tang.md) | 출산 뒤 오로·어혈·하복부통 맥락 | 임신 중 복용하지 않으며 출혈·감염을 먼저 평가 |
+[여성·난임 처방 네트워크](../herbal-integrated/formula-for-women.md)는 조경종옥탕·육린주·개울종옥탕·온경탕·소요산·보신·화담 처방을 비교합니다. [본초 역인덱스](../herbal-integrated/herbs-for-women.md)와 [침구 지도](../acupuncture-integrated/points-for-womens-health.md)를 거쳐 실제 구성과 안전성을 확인합니다. 임신 전 조경 처방, 임신 성립 뒤 안태, 산후의 어혈·기혈 회복은 같은 목적이 아닙니다.
 
 ## 시험관·인공수정과 함께할 때
 
-난소자극, 난자채취, 항생제·진통제, 배아이식, 프로게스테론, 아스피린·항응고제 등 단계마다 조건이 달라집니다. 난임 의료진과 한의사에게 **전체 투약표와 시술일**을 공유하고, 이식 전후와 임신 확인 시점마다 한약·침 계획을 다시 정합니다.
-
-보조생식술과 침 치료 연구는 임신율·생아출산율을 탐색해 왔지만 시술 시점과 대조군, 연구 품질이 다양합니다. 따라서 “착상을 보장하는 치료”가 아니라 증상과 치료 부담을 관리하는 병행 선택지로 설명합니다.
+단계마다 호르몬제·항응고제·마취·출혈 위험이 달라집니다. [단계별 중재](../conditions/assisted-reproduction-support.md#art-integrative-stages)와 [임신 가능 시기 안전성](../herbal-integrated/safety.md#fertility-pregnancy-safety)을 확인합니다. [근거카드](../authority/conditions/female-infertility-art.md)는 전통 활용·RCT·고찰·임신/출산·불확실성을 구분합니다.
 
 ## 반드시 먼저 진료할 상황
 
-- 임신 가능성이 있는데 한쪽 골반의 심한 통증, 어깨통증, 실신감 또는 출혈이 있음
-- 임신 중 생리보다 많은 출혈, 심한 복통, 고열, 물을 못 마실 정도의 구토가 있음
-- 유산·출산 뒤 많은 출혈, 발열·오한, 악취 나는 분비물, 심한 두통·시야장애가 있음
-- 난임 평가가 필요한 시기인데 보약만 복용하며 검사를 계속 미루고 있음
+임신 가능성이 있는 편측 골반통·어깨통증·실신·출혈, 많은 출혈·고열·심한 구토, 산후 두통·시야장애·호흡곤란 등은 우선 평가합니다. [임신 위험신호](../conditions/pregnancy-herbal-care.md), [유산 후](../conditions/miscarriage-recovery.md), [산후](../conditions/postpartum-recovery.md)의 문맥별 안내를 확인합니다.
 
 ## 근거·공공자료
 
-- 국가한의임상정보포털. [난임·임신오조·산후풍 한의표준임상진료지침 관련 자료](https://nikom.or.kr/nikom/board/view.do?board_idx=565086&manage_idx=50&menu_idx=34).
-- 국가한의임상정보포털. [산후풍 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=177&menu_idx=14).
-- Xie ZY, et al. Acupuncture and assisted reproductive technology outcomes: systematic review and meta-analysis. PMID [37436463](https://pubmed.ncbi.nlm.nih.gov/37436463/).
-- WHO. [Recommendations on maternal and newborn care for a positive postnatal experience](https://www.who.int/publications/i/item/9789240045989).
+- [WHO 난임 지침 2025](https://www.who.int/publications/i/item/9789240115774)
+- [NICE NG257 2026](https://www.nice.org.uk/guidance/ng257)
+- [WHO 산후 진료](https://www.who.int/publications/i/item/9789240045989)
+- [여성건강 전체 허브](../pillar/womens-health.md)

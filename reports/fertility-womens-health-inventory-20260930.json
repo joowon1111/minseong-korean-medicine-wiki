@@ -1,0 +1,7414 @@
+{
+  "base_sha": "ca8fc234d5dc763e987f9d6d7bf87c4e40a83b06",
+  "baseline_markdown": 2114,
+  "keyword_matches": 659,
+  "existing": [
+    {
+      "path": "docs/acupoint-network/by-condition.md",
+      "title": "경맥→증상 임상 지도",
+      "chars": 4296,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupoint-network/standard-atlas.md",
+      "title": "WHO 표준 361경혈 임상 아틀라스",
+      "chars": 67458,
+      "hits": [
+        "자궁"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/extra-points/ex-ca1.md",
+      "title": "자궁 EX-CA1",
+      "chars": 455,
+      "hits": [
+        "자궁"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl10-tianzhu.md",
+      "title": "천주 BL10",
+      "chars": 2591,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl13-feishu.md",
+      "title": "폐수 BL13",
+      "chars": 3224,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl17-geshu.md",
+      "title": "격수 BL17",
+      "chars": 3244,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl18-ganshu.md",
+      "title": "간수 BL18",
+      "chars": 4038,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl20-pishu.md",
+      "title": "비수 BL20",
+      "chars": 4441,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl24.md",
+      "title": "기해수 BL24",
+      "chars": 2235,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/bl25-dachangshu.md",
+      "title": "대장수 BL25",
+      "chars": 3667,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl28-pangguangshu.md",
+      "title": "방광수 BL28",
+      "chars": 3173,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl31.md",
+      "title": "상료 BL31",
+      "chars": 2817,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/bl32.md",
+      "title": "차료 BL32",
+      "chars": 2913,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/bl57-chengshan.md",
+      "title": "승산 BL57",
+      "chars": 3127,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl60-kunlun.md",
+      "title": "곤륜 BL60",
+      "chars": 4007,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl62-shenmai.md",
+      "title": "신맥 BL62",
+      "chars": 4357,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/bl67.md",
+      "title": "지음 BL67",
+      "chars": 2295,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/cv17-danzhong.md",
+      "title": "전중 CV17",
+      "chars": 3211,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/cv19.md",
+      "title": "자궁 CV19",
+      "chars": 2211,
+      "hits": [
+        "자궁"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/cv2.md",
+      "title": "곡골 CV2",
+      "chars": 2153,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/cv3.md",
+      "title": "중극 CV3",
+      "chars": 2483,
+      "hits": [
+        "배란",
+        "월경",
+        "다낭성난소증후군",
+        "난소",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/cv4-guanyuan.md",
+      "title": "관원(關元) CV4",
+      "chars": 3293,
+      "hits": [
+        "월경"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/acupuncture/points/cv5.md",
+      "title": "석문 CV5",
+      "chars": 2119,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/cv6-qihai.md",
+      "title": "기해 CV6",
+      "chars": 3169,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/cv7.md",
+      "title": "음교 CV7",
+      "chars": 2159,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/ex-hn3-yintang.md",
+      "title": "인당 EX-HN3",
+      "chars": 504,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/gb21-jianjing.md",
+      "title": "견정 GB21",
+      "chars": 2678,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/gb26.md",
+      "title": "대맥 GB26",
+      "chars": 2255,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/gb28.md",
+      "title": "유도 GB28",
+      "chars": 2147,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/gb30-huantiao.md",
+      "title": "환도 GB30",
+      "chars": 4042,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/gb39-xuanzhong.md",
+      "title": "현종 GB39",
+      "chars": 3218,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/gb40-qiuxu.md",
+      "title": "구허 GB40",
+      "chars": 3578,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/gb41.md",
+      "title": "족임읍 GB41",
+      "chars": 3121,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/gv14-dazhui.md",
+      "title": "대추 GV14",
+      "chars": 3326,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/gv2.md",
+      "title": "요수 GV2",
+      "chars": 2145,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/gv26-shuigou.md",
+      "title": "수구 GV26",
+      "chars": 3374,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/gv4-mingmen.md",
+      "title": "명문 GV4",
+      "chars": 3900,
+      "hits": [
+        "월경",
+        "생리",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/ht3-shaohai.md",
+      "title": "소해 HT3",
+      "chars": 2759,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/ht5-tongli.md",
+      "title": "통리 HT5",
+      "chars": 3590,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/ki1-yongquan.md",
+      "title": "용천 KI1",
+      "chars": 3645,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/ki12.md",
+      "title": "대혁 KI12",
+      "chars": 2148,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/ki13.md",
+      "title": "기혈 KI13",
+      "chars": 2150,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/ki14.md",
+      "title": "사만 KI14",
+      "chars": 2162,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/ki2.md",
+      "title": "연곡 KI2",
+      "chars": 2123,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/ki5.md",
+      "title": "수천 KI5",
+      "chars": 2146,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/ki6-zhaohai.md",
+      "title": "조해 KI6",
+      "chars": 3694,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/ki7-fuliu.md",
+      "title": "복류 KI7",
+      "chars": 3220,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/ki8.md",
+      "title": "교신 KI8",
+      "chars": 2279,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/li10-shousanli.md",
+      "title": "수삼리 LI10",
+      "chars": 3615,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/li11-quchi.md",
+      "title": "곡지 LI11",
+      "chars": 3464,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/li15-jianyu.md",
+      "title": "견우 LI15",
+      "chars": 2645,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/li20-yingxiang.md",
+      "title": "영향 LI20",
+      "chars": 3189,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/li4-hegu.md",
+      "title": "합곡 LI4",
+      "chars": 6818,
+      "hits": [
+        "난임",
+        "임신"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lr1.md",
+      "title": "대돈 LR1",
+      "chars": 2495,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lr11.md",
+      "title": "음렴 LR11",
+      "chars": 2194,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lr13-zhangmen.md",
+      "title": "장문 LR13",
+      "chars": 3198,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/lr14-qimen.md",
+      "title": "기문 LR14",
+      "chars": 3358,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/lr2.md",
+      "title": "행간 LR2",
+      "chars": 3179,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lr3-taichong.md",
+      "title": "태충 LR3",
+      "chars": 5062,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lr5.md",
+      "title": "여구 LR5",
+      "chars": 2282,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lr8-ququan.md",
+      "title": "곡천 LR8",
+      "chars": 3319,
+      "hits": [
+        "월경",
+        "생리",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lr9.md",
+      "title": "음포 LR9",
+      "chars": 2215,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/lu1-zhongfu.md",
+      "title": "중부 LU1",
+      "chars": 3251,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/lu5-chize.md",
+      "title": "척택 LU5",
+      "chars": 3317,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/lu9-taiyuan.md",
+      "title": "태연 LU9",
+      "chars": 4529,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/pc4-ximen.md",
+      "title": "극문 PC4",
+      "chars": 3331,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/pc7-daling.md",
+      "title": "대릉 PC7",
+      "chars": 4514,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/si11-tianzong.md",
+      "title": "천종 SI11",
+      "chars": 3261,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/si3-houxi.md",
+      "title": "후계 SI3",
+      "chars": 3597,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/si6-yanglao.md",
+      "title": "양로 SI6",
+      "chars": 3237,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/sp1.md",
+      "title": "은백 SP1",
+      "chars": 2368,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/sp10-xuehai.md",
+      "title": "혈해 SP10",
+      "chars": 3362,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/sp4-gongsun.md",
+      "title": "공손 SP4",
+      "chars": 4288,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/sp6-sanyinjiao.md",
+      "title": "삼음교 SP6",
+      "chars": 3753,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/sp8.md",
+      "title": "지기 SP8",
+      "chars": 2582,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/sp9-yinlingquan.md",
+      "title": "음릉천 SP9",
+      "chars": 3381,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/st25-tianshu.md",
+      "title": "천추 ST25",
+      "chars": 3495,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/st26.md",
+      "title": "외릉 ST26",
+      "chars": 2168,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/st27.md",
+      "title": "대거 ST27",
+      "chars": 2192,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/st29.md",
+      "title": "귀래 ST29",
+      "chars": 2593,
+      "hits": [
+        "난임",
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/st30.md",
+      "title": "기충 ST30",
+      "chars": 2272,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture/points/st35-dubi.md",
+      "title": "독비 ST35",
+      "chars": 3172,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/st37-shangjuxu.md",
+      "title": "상거허 ST37",
+      "chars": 3210,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/st40-fenglong.md",
+      "title": "풍륭 ST40",
+      "chars": 3047,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/st42-chongyang.md",
+      "title": "충양 ST42",
+      "chars": 3233,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/st44-neiting.md",
+      "title": "내정 ST44",
+      "chars": 2901,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/te17-yifeng.md",
+      "title": "예풍 TE17",
+      "chars": 3199,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture/points/te5-waiguan.md",
+      "title": "외관 TE5",
+      "chars": 3231,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-integrated/acupoints-meridians.md",
+      "title": "경혈·경락 통합 안내",
+      "chars": 4579,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-integrated/evidence.md",
+      "title": "침구치료 근거·연구",
+      "chars": 4144,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-integrated/index.md",
+      "title": "통합 침구치료 탐색 허브",
+      "chars": 7441,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-integrated/methods.md",
+      "title": "침·전침·약침·뜸·부항 비교",
+      "chars": 3630,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-integrated/musculoskeletal.md",
+      "title": "근골격 통증 핵심",
+      "chars": 2261,
+      "hits": [
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture-integrated/pharmacopuncture.md",
+      "title": "약침치료",
+      "chars": 11898,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-integrated/points-for-womens-health.md",
+      "title": "여성·월경·갱년기와 경혈 찾기",
+      "chars": 880,
+      "hits": [
+        "월경",
+        "생리",
+        "월경불순",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/acupuncture-integrated/points-meridians.md",
+      "title": "경혈·경락 표준 아틀라스",
+      "chars": 33788,
+      "hits": [
+        "임신",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture-integrated/safety.md",
+      "title": "침구치료 안전·위험신호",
+      "chars": 1691,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-science/autonomic.md",
+      "title": "침과 자율신경계",
+      "chars": 3888,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-science/brain-central.md",
+      "title": "침과 뇌·중추신경계",
+      "chars": 3855,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-science/index.md",
+      "title": "침의 과학적 접근",
+      "chars": 3847,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-science/pain-modulation.md",
+      "title": "침과 통증조절 신경생리",
+      "chars": 3690,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-science/peripheral-afferent.md",
+      "title": "말초신경과 침 자극",
+      "chars": 3874,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-specific/saam-12-meridians.md",
+      "title": "사암침법 12경맥 정격·승격 통합 지도",
+      "chars": 8914,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/acupuncture-specific/saam-acupuncture.md",
+      "title": "사암침법 핵심 지식망",
+      "chars": 2626,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/acupuncture-specific/saam-evidence.md",
+      "title": "사암침법과 현대 연구·해부학",
+      "chars": 2546,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/ai/clinic-knowledge-map.md",
+      "title": "민성한의원과 아카이브 지식 연결",
+      "chars": 769,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/ai/patient-search-map.md",
+      "title": "환자 질문에서 시작하는 한의학 검색 지도",
+      "chars": 1111,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/ai-index.md",
+      "title": "민성 한의학 아카이브 핵심 색인",
+      "chars": 9052,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "생리",
+        "월경불순",
+        "다낭성난소증후군",
+        "난소",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/adult-acne-recurrent-guide.md",
+      "title": "성인인데 여드름이 계속 반복되는 이유는 무엇인가요?",
+      "chars": 906,
+      "hits": [
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/cold-hands-feet-guide.md",
+      "title": "손발이 항상 차가운 이유는 무엇인가요?",
+      "chars": 1463,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/fatigue-after-diet-guide.md",
+      "title": "다이어트 후 기력이 너무 떨어졌으면 어떻게 회복해야 하나요?",
+      "chars": 1802,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/index.md",
+      "title": "AI 질문형 답변 가이드",
+      "chars": 5403,
+      "hits": [
+        "임신",
+        "생리",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/answer-guides/lighter-period-guide.md",
+      "title": "생리양이 갑자기 줄었으면 무엇을 확인해야 하나요?",
+      "chars": 1517,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/menopause-heat-sleep-guide.md",
+      "title": "갱년기인데 열감과 잠 문제가 같이 생기면 어떻게 봐야 하나요?",
+      "chars": 1496,
+      "hits": [
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/period-pain-worsening-guide.md",
+      "title": "생리통이 예전보다 점점 심해지는 이유는 무엇인가요?",
+      "chars": 1465,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/pms-headache-swelling-guide.md",
+      "title": "생리 전에 두통과 붓기가 심해지는 이유는 무엇인가요?",
+      "chars": 1697,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/post-period-fatigue-guide.md",
+      "title": "생리 끝나고 너무 피곤한 이유는 무엇인가요?",
+      "chars": 1738,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/postmeal-sleepiness-guide.md",
+      "title": "밥을 먹고 나면 너무 졸리고 처지는데 왜 그런가요?",
+      "chars": 1377,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/answer-guides/postpartum-recovery-slow-guide.md",
+      "title": "출산 후 몇 달이 지나도 몸이 회복되지 않는 느낌이 들면 어떻게 봐야 하나요?",
+      "chars": 1591,
+      "hits": [
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/standing-dizziness-guide.md",
+      "title": "앉았다 일어날 때 어지러운 이유는 무엇인가요?",
+      "chars": 1097,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/answer-guides/women-lifecycle-guide.md",
+      "title": "임신준비·산후·갱년기 한약은 어떻게 다르게 보나요?",
+      "chars": 1344,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후",
+        "부인과"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/authority/conditions/acupuncture-positive-evidence-map.md",
+      "title": "침 치료 — 긍정적 현대근거 지도",
+      "chars": 924,
+      "hits": [
+        "난임"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/carpal-tunnel.md",
+      "title": "손목터널증후군 — 현대 임상근거 카드",
+      "chars": 2115,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/conditions/chronic-pelvic-inflammatory-disease.md",
+      "title": "만성 골반염증성질환 — 현대 임상근거 카드",
+      "chars": 539,
+      "hits": [
+        "임신",
+        "월경",
+        "난관"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/cinv-acupoint-patterns.md",
+      "title": "항암치료 유발 오심·구토 — 핵심 경혈 현대근거 카드",
+      "chars": 607,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/conditions/endometriosis-related-pain.md",
+      "title": "자궁내막증 관련 통증 — 현대 임상근거 카드",
+      "chars": 785,
+      "hits": [
+        "월경",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "여성질환"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/authority/conditions/female-infertility-art.md",
+      "title": "여성 난임·보조생식(ART) — 현대 임상근거 카드",
+      "chars": 1097,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "IVF"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/authority/conditions/gynecologic-pelvic-pain-evidence-map.md",
+      "title": "여성 골반통 — 침구 긍정적 현대근거 지도",
+      "chars": 554,
+      "hits": [
+        "난임",
+        "월경",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "여성질환"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/index.md",
+      "title": "질환별 현대 임상근거 카드",
+      "chars": 5758,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "생리",
+        "다낭성난소증후군",
+        "PCOS",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "산후",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/nausea-vomiting-acupoint-map.md",
+      "title": "오심·구토 — 경혈 기반 현대근거 지도",
+      "chars": 506,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/conditions/nausea-vomiting-pregnancy.md",
+      "title": "임신오조·임신 중 오심구토 — 현대 임상근거 카드",
+      "chars": 920,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/obese-pcos.md",
+      "title": "비만 동반 다낭성난소증후군 — 현대 임상근거 카드",
+      "chars": 656,
+      "hits": [
+        "난임",
+        "배란",
+        "월경",
+        "다낭성난소증후군",
+        "PCOS",
+        "난소"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/pcos-ovulation-dose-response.md",
+      "title": "PCOS 배란장애 — 침 치료량 현대근거 카드",
+      "chars": 586,
+      "hits": [
+        "난임",
+        "배란",
+        "월경",
+        "PCOS"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/authority/conditions/peripheral-facial-palsy.md",
+      "title": "\"구안와사·안면마비 — 초기 치료와 회복·후유증 관리\"",
+      "chars": 9764,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/conditions/polycystic-ovary-syndrome.md",
+      "title": "다낭성난소증후군(PCOS) — 현대 임상근거 카드",
+      "chars": 991,
+      "hits": [
+        "난임",
+        "배란",
+        "월경",
+        "월경불순",
+        "다낭성난소증후군",
+        "PCOS",
+        "난소",
+        "여성질환"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/authority/conditions/postoperative-urinary-retention-cervical-cancer.md",
+      "title": "자궁경부암 수술 후 요폐 — 현대 임상근거 카드",
+      "chars": 531,
+      "hits": [
+        "자궁",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/postoperative-urinary-retention.md",
+      "title": "수술 후 요폐 — 현대 임상근거 카드",
+      "chars": 504,
+      "hits": [
+        "자궁"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/conditions/postpartum-breastfeeding-insufficiency.md",
+      "title": "산후 모유부족·수유저하 — 현대 임상근거 카드",
+      "chars": 490,
+      "hits": [
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/postpartum-depression.md",
+      "title": "산후우울 — 현대 임상근거 카드",
+      "chars": 617,
+      "hits": [
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/postpartum-lactation.md",
+      "title": "산후 수유저하 — 현대 임상근거 카드",
+      "chars": 406,
+      "hits": [
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/pregnancy-symptoms-acupuncture-map.md",
+      "title": "임신기 증상 — 침구 긍정적 현대근거 지도",
+      "chars": 490,
+      "hits": [
+        "난임",
+        "임신",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/primary-dysmenorrhea.md",
+      "title": "원발성 월경통 — 현대 임상근거 카드",
+      "chars": 1088,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/conditions/women-endocrine-reproductive-evidence-map.md",
+      "title": "여성 내분비·생식 — 침구 긍정적 현대근거 지도",
+      "chars": 636,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "PCOS",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "산후",
+        "여성질환"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/formulas/danggui-shaoyao-san.md",
+      "title": "당귀작약산 현대 임상근거",
+      "chars": 887,
+      "hits": [
+        "월경",
+        "생리",
+        "자궁",
+        "자궁내막",
+        "자궁내막증"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/formulas/herbal-formula-evidence-hub.md",
+      "title": "한약·처방 현대 임상근거 허브",
+      "chars": 19031,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "생리",
+        "월경불순",
+        "정자",
+        "산후",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/formulas/menopause-herbal-formula-map.md",
+      "title": "갱년기 — 한약 처방 현대근거 지도",
+      "chars": 523,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/formulas/migraine-herbal-evidence.md",
+      "title": "편두통 — 한약 처방 현대근거 카드",
+      "chars": 2053,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/formulas/shakuyaku-kanzo-tang-update.md",
+      "title": "작약감초탕 — 최신 임상근거 확장 카드",
+      "chars": 1277,
+      "hits": [
+        "여성질환"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/formulas/wenjing-tang.md",
+      "title": "온경탕 — 임상근거 카드",
+      "chars": 580,
+      "hits": [
+        "월경",
+        "자궁",
+        "자궁내막",
+        "자궁내막증"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/formulas/wuzi-yanzong-wan.md",
+      "title": "오자연종환 현대 임상근거",
+      "chars": 1556,
+      "hits": [
+        "난임",
+        "임신",
+        "남성난임",
+        "정자",
+        "정액검사"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/herbs/angelica.md",
+      "title": "당귀 — 출처·현대 연구 카드",
+      "chars": 1555,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/herbs/chuanxiong.md",
+      "title": "천궁 — 출처·현대 연구 카드",
+      "chars": 1337,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/herbs/cornus-fructus.md",
+      "title": "산수유 — 출처·현대 연구 카드",
+      "chars": 1457,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/herbs/dioscorea.md",
+      "title": "산약 — 출처·현대 연구 카드",
+      "chars": 1224,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/herbs/ginseng.md",
+      "title": "인삼 — 출처·현대 연구 카드",
+      "chars": 2620,
+      "hits": [
+        "임신",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/herbs/index.md",
+      "title": "본초 출처·현대 연구 허브",
+      "chars": 9869,
+      "hits": [
+        "임신",
+        "월경",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/authority/herbs/velvet-antler.md",
+      "title": "녹용 — 출처·현대 연구 카드",
+      "chars": 1616,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/herbs/white-peony.md",
+      "title": "백작약 — 출처·현대 연구 카드",
+      "chars": 1364,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/authority/herbs/ziziphus-seed.md",
+      "title": "산조인 — 출처·현대 연구 카드",
+      "chars": 1487,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/autonomic/acupoint-map.md",
+      "title": "자율조절과 내관·신문·족삼리",
+      "chars": 1570,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/autonomic/index.md",
+      "title": "\"자율신경실조증·자율신경 기능 이상 — 두근거림·어지럼·소화·수면\"",
+      "chars": 8191,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/beiji-qianjin-yaofang.md",
+      "title": "비급천금요방(備急千金要方)",
+      "chars": 2282,
+      "hits": [
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/cheonggang-uigam.md",
+      "title": "청강의감(晴崗醫鑑)",
+      "chars": 2611,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/donguibogam-acupuncture.md",
+      "title": "동의보감 침구편 임상 지도",
+      "chars": 2602,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/donguibogam-tangaek.md",
+      "title": "동의보감 탕액편 임상 지도",
+      "chars": 3699,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/donguisusebowon.md",
+      "title": "동의수세보원(東醫壽世保元)",
+      "chars": 5724,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/huangdi-neijing.md",
+      "title": "황제내경",
+      "chars": 3504,
+      "hits": [
+        "생리"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/classics/jingyue-quanshu.md",
+      "title": "경악전서(景岳全書)",
+      "chars": 7301,
+      "hits": [
+        "생리",
+        "산후",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/abdominal-cold-food.md",
+      "title": "\"금궤요략 제10편 · 복만·한산·숙식 — 원문·독해\"",
+      "chars": 10261,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/bleeding-stasis.md",
+      "title": "\"금궤요략 제16편 · 경계·출혈·어혈 — 원문·독해\"",
+      "chars": 5680,
+      "hits": [
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/blood-bi-deficiency.md",
+      "title": "\"금궤요략 제6편 · 혈비·허로 — 원문·독해\"",
+      "chars": 7695,
+      "hits": [
+        "불임",
+        "유산"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/gynecology.md",
+      "title": "\"금궤요략 제22편 · 부인 잡병 — 원문·독해\"",
+      "chars": 8765,
+      "hits": [
+        "임신",
+        "월경",
+        "정자",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/limbs-hernia-worms.md",
+      "title": "\"금궤요략 제19편 · 부궐·전근·산증·회충 — 원문·독해\"",
+      "chars": 3381,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/organs-accumulations.md",
+      "title": "\"금궤요략 제11편 · 오장풍한·적취 — 원문·독해\"",
+      "chars": 6727,
+      "hits": [
+        "정자"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/postpartum.md",
+      "title": "\"금궤요략 제21편 · 부인 산후병 — 원문·독해\"",
+      "chars": 5460,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/preface.md",
+      "title": "\"금궤요략 서문 · 서문·판본과 읽는 기준 — 원문·판본 안내\"",
+      "chars": 2371,
+      "hits": [
+        "정자"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/pregnancy.md",
+      "title": "\"금궤요략 제20편 · 부인 임신병 — 원문·독해\"",
+      "chars": 4836,
+      "hits": [
+        "임신",
+        "월경",
+        "유산",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue/chapters/water-qi.md",
+      "title": "\"금궤요략 제14편 · 수기병 — 원문·독해\"",
+      "chars": 11654,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/jinkui-yaolue.md",
+      "title": "금궤요략(金匱要略)",
+      "chars": 3419,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/nanjing.md",
+      "title": "난경(難經)",
+      "chars": 1591,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/piwei-lun.md",
+      "title": "비위론(脾胃論)",
+      "chars": 6840,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/shanghanlun/clauses/prefaces-pulse.md",
+      "title": "\"상한론 서문·맥법·상한례·치습갈 — 원문과 편별 해설\"",
+      "chars": 17751,
+      "hits": [
+        "정자"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/shanghanlun/clauses/taiyang-lower.md",
+      "title": "\"상한론 태양병 하편 — 128–178조 원문·독해\"",
+      "chars": 19934,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/classics/uihak-ipmun.md",
+      "title": "의학입문(醫學入門)",
+      "chars": 2674,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/zhenjiu-dacheng.md",
+      "title": "침구대성 — 명대 침구학의 종합과 배혈",
+      "chars": 2190,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics/zhenjiu-jiayi-jing.md",
+      "title": "침구갑을경 — 경혈·주치의 초기 체계",
+      "chars": 2074,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/classics-network/comparison.md",
+      "title": "한의학 주요 고전 9종 비교",
+      "chars": 1574,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/clinical-reasoning/index.md",
+      "title": "한의학 통합 임상추론",
+      "chars": 4331,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/clinical-safety/index.md",
+      "title": "한의 임상 안전성 허브",
+      "chars": 3881,
+      "hits": [
+        "임신",
+        "자궁",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/clinical-safety/treatment-checklist.md",
+      "title": "한약·침구 치료 전 확인사항",
+      "chars": 2518,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/compare/gongjin-vs-gyeongok.md",
+      "title": "공진단 vs 경옥고",
+      "chars": 3199,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/concepts/index.md",
+      "title": "한의학 핵심 병리·변증 개념",
+      "chars": 4065,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/concepts/pathological-products.md",
+      "title": "어혈·담음·기체",
+      "chars": 1415,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/abdominal-pain.md",
+      "title": "복통·배가 아파요 — 위치별 원인과 위험신호",
+      "chars": 14883,
+      "hits": [
+        "임신",
+        "배란",
+        "월경",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/acne.md",
+      "title": "\"여드름·성인여드름 — 턱·볼·이마의 반복 염증과 한의치료\"",
+      "chars": 5460,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "월경불순",
+        "다낭성난소증후군",
+        "난소",
+        "자궁"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/acupuncture-frequency.md",
+      "title": "침치료 얼마나 자주 받나요",
+      "chars": 1278,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/acupuncture-herbal-combination.md",
+      "title": "침치료와 한약을 같이 하나요",
+      "chars": 1297,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/acupuncture-pain-question.md",
+      "title": "침치료 많이 아픈가요",
+      "chars": 1222,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/amenorrhea.md",
+      "title": "무월경·생리가 안 나와요",
+      "chars": 987,
+      "hits": [
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "무월경",
+        "다낭성난소증후군",
+        "난소",
+        "산후"
+      ],
+      "classification": "3 통합",
+      "decision": "중복 또는 얇은 독립 안내를 핵심 문서에 흡수; 기존 URL 리디렉션"
+    },
+    {
+      "path": "docs/conditions/anemia-fatigue.md",
+      "title": "\"빈혈·철결핍성빈혈 — 어지럼·피로와 원인별 치료\"",
+      "chars": 2757,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/anemia-lab.md",
+      "title": "\"빈혈 검사 — 헤모글로빈·페리틴·철분 수치 해석\"",
+      "chars": 2102,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/ankle-pain.md",
+      "title": "발목통증·발목을 삐었어요",
+      "chars": 5265,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/anxiety.md",
+      "title": "불안·과도한 걱정·두근거림",
+      "chars": 6684,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/assisted-reproduction-support.md",
+      "title": "시험관·인공수정·착상 준비 한의진료",
+      "chars": 1928,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "월경불순",
+        "난소",
+        "난소예비력",
+        "AMH",
+        "자궁",
+        "자궁내막",
+        "난관",
+        "착상",
+        "반복착상실패",
+        "유산",
+        "반복유산",
+        "시험관",
+        "IVF",
+        "인공수정",
+        "IUI",
+        "정액검사",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/bloating.md",
+      "title": "\"복부팽만·가스 — 배가 빵빵하고 더부룩해요\"",
+      "chars": 4417,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/carpal-tunnel.md",
+      "title": "손목터널증후군 — 야간 손저림과 정중신경 압박",
+      "chars": 4327,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/child-rhinitis.md",
+      "title": "소아 비염·아이 비염 — 콧물·코막힘·구강호흡과 수면",
+      "chars": 4438,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/chronic-fatigue.md",
+      "title": "만성피로·쉽게 지치고 회복이 안 돼요",
+      "chars": 8250,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/chronic-kidney-disease.md",
+      "title": "건강검진에서 크레아티닌·eGFR·단백뇨가 이상해요 — 만성콩팥병 초기관리",
+      "chars": 10636,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/cluster-headache.md",
+      "title": "군발두통·한쪽 눈 주위 극심한 통증",
+      "chars": 10197,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/cold-hands-feet.md",
+      "title": "수족냉증·손발이 차가워요",
+      "chars": 5918,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/cold-sensitivity.md",
+      "title": "냉증·아랫배냉증",
+      "chars": 839,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/common-cold.md",
+      "title": "\"감기·급성 상기도감염 — 몸살·콧물·인후통·기침\"",
+      "chars": 3973,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/constipation.md",
+      "title": "\"변비 — 딱딱한변·잔변감·배변곤란\"",
+      "chars": 3748,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/cough.md",
+      "title": "기침",
+      "chars": 7906,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/cupping-question.md",
+      "title": "부항치료란 무엇인가요·자국은 얼마나 가나요",
+      "chars": 972,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/custom-herbal-medicine.md",
+      "title": "맞춤한약·체질과 증상에 맞춘 처방",
+      "chars": 4204,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/cystitis.md",
+      "title": "\"방광염 — 배뇨통·빈뇨와 반복되는 요로감염\"",
+      "chars": 3967,
+      "hits": [
+        "임신",
+        "월경",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/deer-antler-tonic-guide.md",
+      "title": "녹용보약이 궁금해요",
+      "chars": 5018,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/dequervain.md",
+      "title": "드퀘르벵 건초염 — 엄지 쪽 손목통증",
+      "chars": 3833,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/diabetic-kidney-disease.md",
+      "title": "당뇨가 있는데 미세알부민뇨·단백뇨가 나왔어요 — 당뇨병성 콩팥병 초기관리",
+      "chars": 7206,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/diarrhea.md",
+      "title": "\"설사 — 급성·만성설사와 반복되는 묽은변\"",
+      "chars": 5023,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/dizziness.md",
+      "title": "어지럼·현훈",
+      "chars": 9219,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/dysmenorrhea.md",
+      "title": "생리통·월경통",
+      "chars": 6762,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "자궁선근증",
+        "자궁근종",
+        "유산",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/dyspepsia.md",
+      "title": "소화불량·더부룩함",
+      "chars": 8639,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/early-awakening.md",
+      "title": "새벽각성·새벽에 자꾸 깨요",
+      "chars": 1939,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/edema-swelling.md",
+      "title": "붓기·부종·몸이 자주 부어요",
+      "chars": 4352,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/edema-weight.md",
+      "title": "부종·붓기와 체중변화",
+      "chars": 2662,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/electroacupuncture-question.md",
+      "title": "전침치료란 무엇인가요",
+      "chars": 1268,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/energy-recovery.md",
+      "title": "피로보약·기력회복·허약",
+      "chars": 5599,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/facial-pain.md",
+      "title": "안면통증·얼굴통증",
+      "chars": 7991,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/facial-palsy.md",
+      "title": "\"안면신경마비·구안와사 — 눈이 안 감기고 입이 돌아가는 증상\"",
+      "chars": 5166,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/fatty-liver.md",
+      "title": "지방간·건강검진 지방간 — 간수치와 섬유화 위험 함께 보기",
+      "chars": 4648,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/fertility-fatigue.md",
+      "title": "임신준비 중 피로·냉증·소화저하",
+      "chars": 999,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "무월경",
+        "산후"
+      ],
+      "classification": "3 통합",
+      "decision": "중복 또는 얇은 독립 안내를 핵심 문서에 흡수; 기존 URL 리디렉션"
+    },
+    {
+      "path": "docs/conditions/flank-pain.md",
+      "title": "옆구리통증·갈비뼈 아래가 아파요",
+      "chars": 4816,
+      "hits": [
+        "임신",
+        "생리",
+        "난소",
+        "자궁"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/foot-numbness.md",
+      "title": "발·하지 저림",
+      "chars": 4716,
+      "hits": [
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/gastritis-symptoms.md",
+      "title": "\"위염·속쓰림·명치통증 — 내시경 소견과 증상을 함께 보기\"",
+      "chars": 6133,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/hair-loss.md",
+      "title": "탈모·머리카락이 많이 빠져요",
+      "chars": 3048,
+      "hits": [
+        "월경",
+        "월경불순",
+        "다낭성난소증후군",
+        "난소"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/headache.md",
+      "title": "두통",
+      "chars": 6962,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/healthy-weight-management.md",
+      "title": "\"다이어트: 건강한 체중관리와 유지\"",
+      "chars": 2909,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/heavy-menstruation.md",
+      "title": "\"과다월경·월경과다 — 생리양이 많고 오래가요·빈혈과의 연결\"",
+      "chars": 2382,
+      "hits": [
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "월경불순",
+        "자궁",
+        "자궁근종",
+        "산후",
+        "부인과"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/herbal-consultation-prep.md",
+      "title": "한약 상담 전 무엇을 준비하나요",
+      "chars": 7024,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/herbal-extract-products.md",
+      "title": "허브·식물추출물·농축액과 한약",
+      "chars": 1228,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/herbal-medicine-after-checkup.md",
+      "title": "건강검진 후 한약·보약 상담",
+      "chars": 2530,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/hip-pain.md",
+      "title": "고관절·엉덩관절 통증 — 사타구니·옆엉덩이·둔부 통증 감별",
+      "chars": 4446,
+      "hits": [
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/hwabyeong.md",
+      "title": "화병·울화·가슴이 답답하고 열이 치밀어요",
+      "chars": 5591,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/hyperthyroidism.md",
+      "title": "\"갑상선기능항진증 — 두근거림·땀·체중감소와 그레이브스병\"",
+      "chars": 2065,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/hypothyroidism.md",
+      "title": "\"갑상선기능저하증 — 피로·추위·부종과 갑상선 검사\"",
+      "chars": 4931,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/ibs.md",
+      "title": "\"과민성대장증후군·과민성장증후군 — 복통·설사·변비\"",
+      "chars": 6862,
+      "hits": [
+        "임신",
+        "월경",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "유산"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/index.md",
+      "title": "질환별 보기",
+      "chars": 17998,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "월경불순",
+        "무월경",
+        "다낭성난소증후군",
+        "PCOS",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "자궁근종",
+        "유산",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/infertility-preconception.md",
+      "title": "난임·임신준비",
+      "chars": 7939,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "무월경",
+        "다낭성난소증후군",
+        "난소",
+        "난소예비력",
+        "AMH",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "자궁근종",
+        "난관",
+        "착상",
+        "유산",
+        "반복유산",
+        "시험관",
+        "IVF",
+        "인공수정",
+        "남성난임",
+        "정자",
+        "정액검사",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/inflammation-markers.md",
+      "title": "만성염증·염증수치·CRP·ESR 상승",
+      "chars": 7016,
+      "hits": [
+        "임신",
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/insomnia.md",
+      "title": "불면증·수면장애",
+      "chars": 8380,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/irregular-menstruation.md",
+      "title": "월경불순·생리불순",
+      "chars": 6283,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "월경불순",
+        "무월경",
+        "다낭성난소증후군",
+        "PCOS",
+        "난소",
+        "난소예비력",
+        "AMH",
+        "자궁",
+        "자궁내막",
+        "난관",
+        "유산",
+        "정액검사",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/knee-pain.md",
+      "title": "\"무릎통증 — 무릎관절염·퇴행성 변화와 움직임\"",
+      "chars": 7417,
+      "hits": [
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/limb-numbness.md",
+      "title": "손발저림·팔다리가 저려요 — 원인 감별과 신경병증 안내",
+      "chars": 14916,
+      "hits": [
+        "임신",
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/liver-supplements-herbal.md",
+      "title": "밀크시슬·간 영양제와 한약",
+      "chars": 1837,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/low-back-pain.md",
+      "title": "요통",
+      "chars": 6254,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/lumbar-disc-herniation.md",
+      "title": "허리디스크 — 요추 추간판탈출증과 다리저림",
+      "chars": 8915,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/lumbar-spinal-stenosis.md",
+      "title": "척추관협착증 — 걸을 때 다리통증·저림과 보행 회복",
+      "chars": 5205,
+      "hits": [
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/male-menopause.md",
+      "title": "\"남성갱년기 — 피로·성욕·근력 변화와 호르몬 평가\"",
+      "chars": 2448,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/menieres-disease.md",
+      "title": "\"메니에르병 — 반복 어지럼·이명·귀먹먹함·청력변화\"",
+      "chars": 5201,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/menopause-herbal.md",
+      "title": "갱년기 한약·여성 갱년기",
+      "chars": 3558,
+      "hits": [
+        "월경",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/menopause-joint-pain.md",
+      "title": "\"갱년기 관절통·근육통 — 손가락 통증·골밀도와 감별\"",
+      "chars": 2588,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/menopause.md",
+      "title": "갱년기",
+      "chars": 5088,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "무월경",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/migraine.md",
+      "title": "\"편두통 — 지끈거림·메스꺼움의 감별과 한약·침치료\"",
+      "chars": 5977,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/miscarriage-recovery.md",
+      "title": "유산 후 회복·조리 한약",
+      "chars": 1459,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "생리",
+        "자궁",
+        "착상",
+        "유산",
+        "반복유산",
+        "시험관",
+        "인공수정",
+        "산후",
+        "부인과"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/multi-supplement-review.md",
+      "title": "영양제 여러 개 복용·복용목록 점검",
+      "chars": 1843,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/muscle-cramps.md",
+      "title": "다리에 쥐가 나요·근육경련",
+      "chars": 2689,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/natural-products-herbal.md",
+      "title": "천연제품·천연성분과 한약",
+      "chars": 1253,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/nausea.md",
+      "title": "\"메스꺼움·오심 — 속이 울렁거리고 토할 것 같아요\"",
+      "chars": 4323,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/neck-pain.md",
+      "title": "목통증·경항통",
+      "chars": 8854,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/normal-checkup-fatigue.md",
+      "title": "\"검사는 정상인데 피곤해요 — 지속 피로와 회복 평가\"",
+      "chars": 2662,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/obesity.md",
+      "title": "\"비만: 진단·변증·한약·체중관리\"",
+      "chars": 4588,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/omega3-herbal.md",
+      "title": "오메가3·혈행 건기식과 한약",
+      "chars": 1239,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/overactive-bladder.md",
+      "title": "\"과민성방광 — 절박뇨·빈뇨·소변 참기 어려움\"",
+      "chars": 4326,
+      "hits": [
+        "임신",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/ovulation-pain.md",
+      "title": "배란통·배란기 아랫배통증",
+      "chars": 962,
+      "hits": [
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "산후"
+      ],
+      "classification": "3 통합",
+      "decision": "중복 또는 얇은 독립 안내를 핵심 문서에 흡수; 기존 URL 리디렉션"
+    },
+    {
+      "path": "docs/conditions/palpitation.md",
+      "title": "\"두근거림·심계 — 가슴이 뛰고 맥이 건너뛰는 느낌\"",
+      "chars": 5368,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/panic-disorder.md",
+      "title": "공황발작·갑자기 심장이 뛰고 숨이 막혀요",
+      "chars": 3274,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/pcos.md",
+      "title": "\"다낭성난소증후군·PCOS — 생리불순·배란·대사 관리\"",
+      "chars": 4593,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "월경불순",
+        "무월경",
+        "다낭성난소증후군",
+        "PCOS",
+        "난소",
+        "난관"
+      ],
+      "classification": "3 통합",
+      "decision": "중복 또는 얇은 독립 안내를 핵심 문서에 흡수; 기존 URL 리디렉션"
+    },
+    {
+      "path": "docs/conditions/pelvic-pain.md",
+      "title": "골반·회음부 통증 — 원인 감별과 치료 길잡이",
+      "chars": 9454,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "자궁선근증",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/perimenopause.md",
+      "title": "폐경이행기·생리주기 변화",
+      "chars": 966,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "자궁",
+        "자궁근종",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/pharmacopuncture-frequency.md",
+      "title": "약침치료 몇 번 받나요",
+      "chars": 1265,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/pharmacopuncture-pain.md",
+      "title": "약침은 아픈가요·치료 후 뻐근함",
+      "chars": 1273,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/pharmacopuncture-what-is.md",
+      "title": "약침치료란 무엇인가요",
+      "chars": 1289,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/pms.md",
+      "title": "\"월경전증후군·생리전증후군 — PMS와 주기성 불편\"",
+      "chars": 2303,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "다낭성난소증후군",
+        "난소"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/polycystic-ovary-syndrome.md",
+      "title": "다낭성난소증후군(PCOS)",
+      "chars": 6569,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "월경불순",
+        "무월경",
+        "다낭성난소증후군",
+        "PCOS",
+        "난소",
+        "난소예비력",
+        "AMH",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "난관",
+        "유산"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/postoperative-recovery.md",
+      "title": "수술 후 회복·기력저하·수술 후 보약",
+      "chars": 12686,
+      "hits": [
+        "난소",
+        "자궁",
+        "자궁근종",
+        "산후",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/postpartum-herbal.md",
+      "title": "출산 후 한약·산후보약",
+      "chars": 8264,
+      "hits": [
+        "난임",
+        "임신",
+        "산후",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/postpartum-recovery.md",
+      "title": "산후회복",
+      "chars": 7910,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "생리",
+        "자궁",
+        "유산",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/postpartum-sweating.md",
+      "title": "산후 땀·식은땀·냉증",
+      "chars": 941,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/postpartum-wrist-pain.md",
+      "title": "산후 손목통증·육아 손목",
+      "chars": 986,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/preconception-herbal.md",
+      "title": "임신준비 한약·가임기 건강",
+      "chars": 935,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "무월경",
+        "다낭성난소증후군",
+        "난소",
+        "난소예비력",
+        "자궁",
+        "부인과"
+      ],
+      "classification": "3 통합",
+      "decision": "중복 또는 얇은 독립 안내를 핵심 문서에 흡수; 기존 URL 리디렉션"
+    },
+    {
+      "path": "docs/conditions/prediabetes.md",
+      "title": "\"당뇨전단계 — 공복혈당·당화혈색소 경계와 관리\"",
+      "chars": 2771,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/pregnancy-herbal-care.md",
+      "title": "임신 중 한약·한의진료",
+      "chars": 1934,
+      "hits": [
+        "난임",
+        "임신",
+        "생리",
+        "자궁",
+        "착상",
+        "유산",
+        "시험관",
+        "인공수정",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/probiotics-herbal.md",
+      "title": "유산균·프로바이오틱스와 한약",
+      "chars": 1244,
+      "hits": [
+        "임신",
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/pruritus.md",
+      "title": "가려움증·소양증 — 발진 없는 가려움과 원인별 치료",
+      "chars": 5779,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/psoriasis.md",
+      "title": "건선·붉은 판과 하얀 각질이 반복돼요",
+      "chars": 3113,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/red-ginseng-herbal.md",
+      "title": "홍삼·인삼과 한약",
+      "chars": 2551,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/restless-legs-syndrome.md",
+      "title": "하지불안증후군·밤에 다리가 불편해요",
+      "chars": 5587,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/rheumatoid-arthritis.md",
+      "title": "\"류마티스관절염 — 손가락 부종·조조강직·치료 연결\"",
+      "chars": 4956,
+      "hits": [
+        "임신",
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/rhinitis.md",
+      "title": "\"재채기·콧물·코막힘이 반복돼요 — 비염의 원인과 한의치료\"",
+      "chars": 10397,
+      "hits": [
+        "임신",
+        "생리",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/scanty-menstruation.md",
+      "title": "생리양이 적어요·과소월경",
+      "chars": 943,
+      "hits": [
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "무월경",
+        "산후"
+      ],
+      "classification": "3 통합",
+      "decision": "중복 또는 얇은 독립 안내를 핵심 문서에 흡수; 기존 URL 리디렉션"
+    },
+    {
+      "path": "docs/conditions/seborrheic-dermatitis.md",
+      "title": "지루성피부염·두피 가려움 — 비듬·홍반·재발 관리",
+      "chars": 3997,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/shingles.md",
+      "title": "대상포진·한쪽 띠 모양 통증과 수포",
+      "chars": 6026,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/sinusitis.md",
+      "title": "\"축농증·부비동염 — 코막힘·후비루·얼굴 압박감\"",
+      "chars": 5696,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/supplements-herbal-medicine.md",
+      "title": "영양제·건강기능식품과 한약",
+      "chars": 1309,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/temporomandibular-disorder.md",
+      "title": "턱관절통증·입 벌릴 때 턱이 아파요",
+      "chars": 13179,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/tension-headache.md",
+      "title": "\"긴장성두통·긴장형두통 — 머리 조임과 뒷목두통\"",
+      "chars": 4610,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/thoracic-back-pain.md",
+      "title": "등통증·등이 결리고 아파요",
+      "chars": 5103,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/thyroid-lab.md",
+      "title": "\"갑상선 수치·TSH — 유리 T4·T3와 함께 해석하기\"",
+      "chars": 2388,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/tonic-supplement-choice.md",
+      "title": "보약·영양제 무엇을 선택할까",
+      "chars": 1291,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/treatment-response-evaluation.md",
+      "title": "한의치료 효과는 무엇으로 확인하나요",
+      "chars": 974,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/type-2-diabetes.md",
+      "title": "\"당뇨병 — 제2형 당뇨병의 혈당·생활관리·한의진료\"",
+      "chars": 2974,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/urticaria.md",
+      "title": "\"두드러기 — 반복되는 팽진·가려움과 만성두드러기\"",
+      "chars": 4616,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/uterine-fibroids.md",
+      "title": "자궁근종·생리양이 많고 골반이 묵직해요",
+      "chars": 3297,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "자궁선근증",
+        "자궁근종",
+        "유산",
+        "반복유산"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/conditions/vitamins-herbal.md",
+      "title": "비타민·미네랄과 한약",
+      "chars": 1212,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/weight-management-herbal.md",
+      "title": "\"다이어트 한약·체중관리\"",
+      "chars": 3548,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/weight-plateau.md",
+      "title": "다이어트 정체기·체중이 안 빠져요",
+      "chars": 1546,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/conditions/womens-herbal.md",
+      "title": "여성한약·여성 건강",
+      "chars": 1052,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "월경불순",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/conditions/wrist-pain.md",
+      "title": "손목통증·엄지쪽 손목이 아파요",
+      "chars": 6444,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/diagnostics/blood-deficiency.md",
+      "title": "혈허(血虛)",
+      "chars": 1078,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/blood-stasis.md",
+      "title": "어혈(瘀血)",
+      "chars": 4097,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후",
+        "여성질환"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md",
+      "title": "어혈성 통증 vs 한습성 통증",
+      "chars": 850,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/differentials/qi-vs-blood-vs-qi-blood.md",
+      "title": "기허·혈허·기혈양허 감별 지도",
+      "chars": 2057,
+      "hits": [
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/four-examinations.md",
+      "title": "사진(四診)",
+      "chars": 2198,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/diagnostics/index.md",
+      "title": "진단·변증",
+      "chars": 1828,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/patterns/blood-deficiency.md",
+      "title": "혈허(血虛) 임상 연결 지도",
+      "chars": 1776,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/diagnostics/patterns/blood-stasis.md",
+      "title": "어혈(瘀血) 변증 지도",
+      "chars": 2566,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/patterns/index.md",
+      "title": "임상 핵심 변증 지도",
+      "chars": 1402,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/patterns/liver-qi-stagnation.md",
+      "title": "간울·간기울결(肝氣鬱結)",
+      "chars": 493,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/patterns/qi-blood-deficiency.md",
+      "title": "기혈양허(氣血兩虛) 임상 연결 지도",
+      "chars": 1710,
+      "hits": [
+        "생리",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/diagnostics/qi-blood-fluid-patterns.md",
+      "title": "기혈진액변증",
+      "chars": 2562,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/diagnostics/zangfu-patterns.md",
+      "title": "장부변증",
+      "chars": 2309,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/donguibogam-network/index.md",
+      "title": "동의보감 임상 탐색 네트워크",
+      "chars": 9127,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/donguisusebowon-network/index.md",
+      "title": "동의수세보원·사상의학 임상 네트워크",
+      "chars": 3264,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/evidence-clinical/guidelines.md",
+      "title": "임상진료지침 읽기",
+      "chars": 2687,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/evidence-clinical/km-specific.md",
+      "title": "한의학 연구의 해석 포인트",
+      "chars": 2189,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/evidence-guide/preclinical.md",
+      "title": "전임상·기전 연구는 무엇을 알려주는가?",
+      "chars": 1953,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/evidence-integrated/clinical-application.md",
+      "title": "근거를 임상에 적용하기",
+      "chars": 3676,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/evidence-integrated/sasang-evidence.md",
+      "title": "사상의학 연구 읽기",
+      "chars": 2333,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/faq/conditions-faq.md",
+      "title": "증상·치료 FAQ",
+      "chars": 2950,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formula-architecture/siwu-qi-blood-family.md",
+      "title": "사물탕·기혈 처방 계열",
+      "chars": 612,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/banxia-houpo-tang.md",
+      "title": "반하후박탕(半夏厚朴湯)",
+      "chars": 3161,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/baohe-wan.md",
+      "title": "보화환(保和丸)",
+      "chars": 2986,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/bawei-dihuang-wan.md",
+      "title": "팔미지황환(八味地黃丸)",
+      "chars": 2879,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/bazhen-tang.md",
+      "title": "팔물탕(八物湯)",
+      "chars": 3297,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/bazheng-san.md",
+      "title": "팔정산(八正散)",
+      "chars": 2479,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/bufei-tang.md",
+      "title": "보폐탕(補肺湯)",
+      "chars": 2130,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/buhuanjin-zhengqi-san.md",
+      "title": "불환금정기산(不換金正氣散)",
+      "chars": 2506,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/bulsu-san.md",
+      "title": "불수산(佛手散)",
+      "chars": 1892,
+      "hits": [
+        "임신",
+        "월경",
+        "착상",
+        "유산",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/cangerzi-san.md",
+      "title": "창이자산(蒼耳子散)",
+      "chars": 2341,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/chaihu-guizhi-tang.md",
+      "title": "시호계지탕(柴胡桂枝湯)",
+      "chars": 1846,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/chaihu-jia-longgu-muli-tang.md",
+      "title": "시호가용골모려탕(柴胡加龍骨牡蠣湯)",
+      "chars": 3189,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/chaihu-shugan-san.md",
+      "title": "시호소간산(柴胡疏肝散)",
+      "chars": 3112,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/chuanxiong-chatiao-san.md",
+      "title": "천궁다조산(川芎茶調散)",
+      "chars": 2787,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/dabo-wonjeon.md",
+      "title": "대보원전(大補元煎)",
+      "chars": 2656,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/dachaihu-tang.md",
+      "title": "대시호탕(大柴胡湯)",
+      "chars": 2409,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/dachengqi-tang.md",
+      "title": "대승기탕(大承氣湯)",
+      "chars": 1995,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/dajianzhong-tang.md",
+      "title": "대건중탕(大建中湯)",
+      "chars": 2633,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/dalsaeng-san.md",
+      "title": "달생산(達生散)",
+      "chars": 1324,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "자궁",
+        "착상",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/dan-nokyong-tang.md",
+      "title": "단녹용탕(單鹿茸湯)",
+      "chars": 997,
+      "hits": [
+        "난임",
+        "임신",
+        "착상",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/danggui-buxue-tang.md",
+      "title": "당귀보혈탕(當歸補血湯)",
+      "chars": 2183,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/danggui-shaoyao-san.md",
+      "title": "당귀작약산(當歸芍藥散)",
+      "chars": 2584,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/danggui-susan.md",
+      "title": "당귀수산(當歸鬚散)",
+      "chars": 3881,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/fangfeng-tongsheng-san.md",
+      "title": "방풍통성산(防風通聖散)",
+      "chars": 2623,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/fangji-huangqi-tang.md",
+      "title": "\"방기황기탕(防己黃芪湯)\"",
+      "chars": 3330,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/fenxin-qiyin.md",
+      "title": "분심기음(分心氣飮)",
+      "chars": 2946,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/gojin-eumja.md",
+      "title": "고진음자(固眞飮子)",
+      "chars": 1712,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/gongjin-dan.md",
+      "title": "공진단(拱辰丹) — 구성·활용·현대 임상근거",
+      "chars": 4679,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/guibi-tang.md",
+      "title": "귀비탕(歸脾湯)",
+      "chars": 5164,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/guizhi-fuling-wan.md",
+      "title": "계지복령환(桂枝茯苓丸)",
+      "chars": 2568,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "난소",
+        "자궁",
+        "자궁근종",
+        "산후",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/guizhi-tang.md",
+      "title": "계지탕(桂枝湯)",
+      "chars": 2520,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/gungha-tang.md",
+      "title": "궁하탕(芎夏湯)",
+      "chars": 3348,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/gyeongok-go.md",
+      "title": "경옥고(瓊玉膏) — 구성·양생·현대 임상근거",
+      "chars": 4414,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/huanglian-jiedu-tang.md",
+      "title": "황련해독탕(黃連解毒湯)",
+      "chars": 6723,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/huangqi-guizhi-wuwu-tang.md",
+      "title": "황기계지오물탕(黃耆桂枝五物湯)",
+      "chars": 2320,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/huishou-san.md",
+      "title": "회수산(回首散)",
+      "chars": 2932,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/huoxiang-zhengqi-san.md",
+      "title": "곽향정기산(藿香正氣散)",
+      "chars": 3817,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/ikgi-bohyeol-tang.md",
+      "title": "익기보혈탕(益氣補血湯)",
+      "chars": 3412,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/index.md",
+      "title": "방제학",
+      "chars": 6975,
+      "hits": [
+        "난임",
+        "임신",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/jiaoai-tang.md",
+      "title": "교애탕(膠艾湯)",
+      "chars": 1981,
+      "hits": [
+        "임신",
+        "월경",
+        "자궁",
+        "유산",
+        "산후",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/jiawei-wendan-tang.md",
+      "title": "가미온담탕(加味溫膽湯)",
+      "chars": 2333,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/jiawei-xiaoyao-san.md",
+      "title": "가미소요산(加味逍遙散)",
+      "chars": 4025,
+      "hits": [
+        "월경",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/jichuan-jian.md",
+      "title": "제천전(濟川煎)",
+      "chars": 3005,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/jinlida.md",
+      "title": "진리다 — 당뇨병 진행 예방과 혈당 관리 임상연구",
+      "chars": 3127,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/jiuwei-qianghuo-tang.md",
+      "title": "구미강활탕(九味羌活湯)",
+      "chars": 2824,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/kaiyu-zhongyu-tang.md",
+      "title": "개울종옥탕(開鬱種玉湯)",
+      "chars": 1417,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "난소",
+        "시험관",
+        "인공수정"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/lianqiao-baidu-san.md",
+      "title": "연교패독산(連翹敗毒散)",
+      "chars": 3052,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/longdan-xiegan-tang.md",
+      "title": "용담사간탕(龍膽瀉肝湯)",
+      "chars": 2686,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/mahuang-tang.md",
+      "title": "마황탕(麻黃湯)",
+      "chars": 2354,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/maidong-tang.md",
+      "title": "맥문동탕(麥門冬湯)",
+      "chars": 2838,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/mazi-ren-wan.md",
+      "title": "마자인환 — 건조한 변·기능성변비와 배변 회복 연구",
+      "chars": 3223,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/qingjing-siwu-tang.md",
+      "title": "청경사물탕(淸經四物湯)",
+      "chars": 1392,
+      "hits": [
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "월경불순",
+        "자궁",
+        "자궁근종"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/qingshang-juantong-tang.md",
+      "title": "청상견통탕(淸上蠲痛湯)",
+      "chars": 3529,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/qingxin-lianzi-yin.md",
+      "title": "청심연자음(淸心蓮子飮)",
+      "chars": 2211,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/renshen-yangrong-tang.md",
+      "title": "인삼양영탕(人蔘養榮湯)",
+      "chars": 5602,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/renshen-yangwei-tang.md",
+      "title": "인삼양위탕(人蔘養胃湯)",
+      "chars": 2697,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/saenghwa-tang.md",
+      "title": "생화탕(生化湯)",
+      "chars": 2421,
+      "hits": [
+        "임신",
+        "생리",
+        "자궁",
+        "착상",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/shaofu-zhuyu-tang.md",
+      "title": "소복축어탕(少腹逐瘀湯)",
+      "chars": 2161,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "자궁선근증"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/shengmai-san.md",
+      "title": "생맥산(生脈散)",
+      "chars": 3890,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/shoutai-wan.md",
+      "title": "수태환(壽胎丸)",
+      "chars": 2064,
+      "hits": [
+        "임신",
+        "자궁",
+        "유산",
+        "반복유산",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/shujing-huoxue-tang.md",
+      "title": "소경활혈탕(疏經活血湯)",
+      "chars": 3689,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/siwu-tang.md",
+      "title": "사물탕(四物湯)",
+      "chars": 2931,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/ssanghwa-tang.md",
+      "title": "쌍화탕(雙和湯)",
+      "chars": 3497,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/suanzaoren-tang.md",
+      "title": "산조인탕(酸棗仁湯)",
+      "chars": 3438,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/taishan-panshi-san.md",
+      "title": "태산반석산(泰山磐石散)",
+      "chars": 1352,
+      "hits": [
+        "임신",
+        "유산",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/taohe-chengqi-tang.md",
+      "title": "도핵승기탕(桃核承氣湯)",
+      "chars": 1163,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/tianwang-buxin-dan.md",
+      "title": "천왕보심단(天王補心丹)",
+      "chars": 3541,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/tiaojing-zhongyu-tang.md",
+      "title": "조경종옥탕(調經種玉湯)",
+      "chars": 2842,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "난소",
+        "난소예비력",
+        "자궁",
+        "자궁내막",
+        "난관",
+        "착상",
+        "시험관",
+        "인공수정",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/formulas/wandai-tang.md",
+      "title": "완대탕(完帶湯)",
+      "chars": 1988,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "자궁"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/weiling-tang.md",
+      "title": "위령탕(胃苓湯)",
+      "chars": 2753,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/wenjing-tang.md",
+      "title": "온경탕(溫經湯)",
+      "chars": 2473,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/formulas/xiangsha-liujunzi-tang.md",
+      "title": "향사육군자탕(香砂六君子湯)",
+      "chars": 4168,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/xiangsha-yangwei-tang.md",
+      "title": "향사양위탕(香砂養胃湯)",
+      "chars": 4899,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/xiaochaihu-tang.md",
+      "title": "소시호탕(小柴胡湯)",
+      "chars": 2290,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/xiaofeng-san.md",
+      "title": "소풍산(消風散)",
+      "chars": 2708,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/xiaoyao-san.md",
+      "title": "소요산(逍遙散)",
+      "chars": 2605,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/xingsu-san.md",
+      "title": "행소산(杏蘇散)",
+      "chars": 2720,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/xuefu-zhuyu-tang.md",
+      "title": "혈부축어탕(血府逐瘀湯)",
+      "chars": 2615,
+      "hits": [
+        "월경",
+        "여성질환"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/yigan-san.md",
+      "title": "억간산(抑肝散)",
+      "chars": 2512,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/yougui-wan.md",
+      "title": "우귀환(右歸丸)",
+      "chars": 2733,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/yueju-wan.md",
+      "title": "월국환(越鞠丸)",
+      "chars": 2048,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/yukwul-tang.md",
+      "title": "육울탕(六鬱湯)",
+      "chars": 1863,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/yulin-zhu.md",
+      "title": "육린주(毓麟珠)",
+      "chars": 1551,
+      "hits": [
+        "난임",
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/formulas/yupingfeng-san.md",
+      "title": "옥병풍산(玉屏風散)",
+      "chars": 2881,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/zhigancao-tang.md",
+      "title": "자감초탕(炙甘草湯)",
+      "chars": 2198,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/zhuling-tang.md",
+      "title": "저령탕(猪苓湯)",
+      "chars": 3206,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/ziyin-jianghuo-tang.md",
+      "title": "자음강화탕(滋陰降火湯)",
+      "chars": 2574,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/formulas/zuogui-wan.md",
+      "title": "좌귀환(左歸丸)",
+      "chars": 2719,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/foundations/liver.md",
+      "title": "간(肝)",
+      "chars": 570,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/foundations/pathogenesis.md",
+      "title": "병인·병기",
+      "chars": 1015,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/foundations/qi-blood-fluid.md",
+      "title": "기·혈·진액",
+      "chars": 1191,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/foundations/zangfu-overview.md",
+      "title": "장부 개요",
+      "chars": 607,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/foundations-clinical/index.md",
+      "title": "한의학 기초→임상 연결 지식망",
+      "chars": 3226,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/foundations-integrated/classics-modern.md",
+      "title": "고전→현대 연결",
+      "chars": 3154,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/foundations-integrated/clinical-reasoning.md",
+      "title": "한의학 임상 추론",
+      "chars": 3159,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/foundations-integrated/diagnosis.md",
+      "title": "한의 진단 통합 지도",
+      "chars": 2665,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/foundations-integrated/index.md",
+      "title": "한의학 기초 한눈에 보기",
+      "chars": 5811,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/foundations-integrated/pattern-treatment.md",
+      "title": "변증·치법",
+      "chars": 2850,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/foundations-integrated/zangfu-qi-blood-fluids.md",
+      "title": "장부·기혈진액",
+      "chars": 3129,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/glossary/blood-stasis.md",
+      "title": "어혈(瘀血) — 용어",
+      "chars": 862,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/blood.md",
+      "title": "혈(血)",
+      "chars": 510,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/body-fluids.md",
+      "title": "진액(津液)",
+      "chars": 572,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/essence.md",
+      "title": "정(精)",
+      "chars": 541,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/heart-spleen-deficiency.md",
+      "title": "심비양허(心脾兩虛) 용어 설명",
+      "chars": 582,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/index.md",
+      "title": "한의학 용어사전",
+      "chars": 894,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/kidney-yang.md",
+      "title": "신양(腎陽)",
+      "chars": 523,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/phlegm-fluid.md",
+      "title": "담음(痰飮) — 용어",
+      "chars": 926,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/qi.md",
+      "title": "기(氣)",
+      "chars": 554,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/glossary/sinking-middle-qi.md",
+      "title": "중기하함(中氣下陷)",
+      "chars": 580,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/guide/editorial-policy.md",
+      "title": "운영·편집 원칙",
+      "chars": 4427,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbal-formula-clinical/safety.md",
+      "title": "본초·방제 안전·금기·상호작용",
+      "chars": 760,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbal-integrated/efficacy-indication-standard.md",
+      "title": "본초 효능·주치 표준",
+      "chars": 21006,
+      "hits": [
+        "임신",
+        "월경",
+        "시험관",
+        "정자",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/evidence.md",
+      "title": "본초·방제 근거·출전",
+      "chars": 4485,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/formula-for-fatigue.md",
+      "title": "피로·기력저하에 쓰는 한약 처방 찾기",
+      "chars": 2242,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/formula-for-insomnia.md",
+      "title": "불면·두근거림 한약 처방 찾기",
+      "chars": 2009,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/formula-for-menopause.md",
+      "title": "갱년기·상열감 한약 처방 찾기",
+      "chars": 1356,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/formula-for-pain.md",
+      "title": "근골격 통증 한약 처방 찾기",
+      "chars": 8042,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/formula-for-women.md",
+      "title": "여성·월경·산후 한약 처방 찾기",
+      "chars": 2225,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/herbal-integrated/formulas.md",
+      "title": "방제 찾기",
+      "chars": 8143,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/general-formulary.md",
+      "title": "일반 방제 임상 지도",
+      "chars": 20758,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/heat-clearing-herbs.md",
+      "title": "청열약 5분류 비교",
+      "chars": 6326,
+      "hits": [
+        "월경",
+        "시험관"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/herb-comparisons.md",
+      "title": "주요 본초 비교·감별",
+      "chars": 12307,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/herbs-for-stress.md",
+      "title": "스트레스·기체와 본초 찾기",
+      "chars": 750,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/herbs-for-women.md",
+      "title": "여성·월경·산후와 본초 찾기",
+      "chars": 744,
+      "hits": [
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/herbal-integrated/index.md",
+      "title": "본초·방제 한눈에 보기",
+      "chars": 6520,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "난소",
+        "정자",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbal-integrated/safety.md",
+      "title": "본초·방제 안전·복용 주의",
+      "chars": 16937,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/herbal-integrated/tonic-recovery.md",
+      "title": "보익·회복 한약 핵심",
+      "chars": 3585,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "난소",
+        "자궁",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/acanthopanax-bark.md",
+      "title": "오가피(五加皮)",
+      "chars": 2834,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/achyranthes.md",
+      "title": "우슬(牛膝)",
+      "chars": 3279,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/aconite.md",
+      "title": "부자(附子)",
+      "chars": 1407,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/akebia-stem.md",
+      "title": "목통(木通)",
+      "chars": 1861,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/amomum.md",
+      "title": "사인(砂仁)",
+      "chars": 2174,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/anemarrhena.md",
+      "title": "지모(知母)",
+      "chars": 3674,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/angelica-pubescens.md",
+      "title": "독활(獨活)",
+      "chars": 3187,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/angelica.md",
+      "title": "당귀(當歸)",
+      "chars": 3030,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/herbs/arctium.md",
+      "title": "우방자(牛蒡子)",
+      "chars": 1750,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/areca-pericarp.md",
+      "title": "대복피(大腹皮)",
+      "chars": 1485,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/astragalus-tonic-guide.md",
+      "title": "황기(黃芪) — 보중익기탕·십전대보탕의 보기 핵심",
+      "chars": 1590,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/astragalus.md",
+      "title": "황기(黃芪)",
+      "chars": 2938,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/atractylodes-lancea.md",
+      "title": "창출(蒼朮)",
+      "chars": 2392,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/bamboo-shavings.md",
+      "title": "죽여(竹茹)",
+      "chars": 1194,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/barley-malt.md",
+      "title": "맥아(麥芽)",
+      "chars": 2324,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/bombyx-batryticatus.md",
+      "title": "백강잠(白殭蠶)",
+      "chars": 1487,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/bupleurum.md",
+      "title": "시호(柴胡)",
+      "chars": 3392,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/categories/blood.md",
+      "title": "보혈·활혈 본초 임상 지식망",
+      "chars": 4214,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/categories/harmonize.md",
+      "title": "화해·조화 본초 임상 지식망",
+      "chars": 2010,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/categories/nourish-yin.md",
+      "title": "자음·생진 본초 임상 지식망",
+      "chars": 1903,
+      "hits": [
+        "임신",
+        "정자"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/categories/tonics.md",
+      "title": "보익약 임상 지식망",
+      "chars": 4681,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/cervi-parvum-cornu.md",
+      "title": "녹용(鹿茸)",
+      "chars": 7444,
+      "hits": [
+        "임신",
+        "생리",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/chrysanthemum.md",
+      "title": "국화·감국(菊花·甘菊)",
+      "chars": 2505,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/chuanxiong.md",
+      "title": "천궁(川芎) — 활혈행기·거풍지통",
+      "chars": 2273,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순",
+        "자궁",
+        "시험관",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/cinnamon-bark.md",
+      "title": "육계(肉桂)",
+      "chars": 3482,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/cinnamon-twig.md",
+      "title": "계지(桂枝)",
+      "chars": 3406,
+      "hits": [
+        "임신",
+        "시험관"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/citrus-immature.md",
+      "title": "지실(枳實)",
+      "chars": 3537,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/citrus-peel.md",
+      "title": "진피(陳皮)",
+      "chars": 3148,
+      "hits": [
+        "정자"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/coix.md",
+      "title": "의이인(薏苡仁)",
+      "chars": 2338,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/coptis.md",
+      "title": "황련(黃連)",
+      "chars": 3939,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/cornus-fructus.md",
+      "title": "산수유(山茱萸) — 보익간신·수렴고삽",
+      "chars": 3600,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/corydalis.md",
+      "title": "현호색(玄胡索)",
+      "chars": 2476,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/cuscuta-seed.md",
+      "title": "토사자(菟絲子)",
+      "chars": 1254,
+      "hits": [
+        "임신",
+        "착상",
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/cynanchum-wilfordii.md",
+      "title": "백하수오(白何首烏)",
+      "chars": 3243,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/cyperus.md",
+      "title": "향부자(香附子)",
+      "chars": 2135,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/dandelion.md",
+      "title": "포공영(蒲公英)",
+      "chars": 4910,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/dioscorea.md",
+      "title": "산약(山藥) — 보비·익폐·보신과 고삽",
+      "chars": 3592,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/dipsacus.md",
+      "title": "속단(續斷)",
+      "chars": 1482,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/dried-chestnut.md",
+      "title": "건율(乾栗)",
+      "chars": 3053,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/elm-root-bark.md",
+      "title": "유근피(楡根皮)",
+      "chars": 1270,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/ephedra.md",
+      "title": "마황(麻黃)",
+      "chars": 2329,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/eucommia.md",
+      "title": "두충(杜仲)",
+      "chars": 2894,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/evodia-fruit.md",
+      "title": "오수유(吳茱萸)",
+      "chars": 1168,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/forsythia.md",
+      "title": "연교(連翹)",
+      "chars": 5491,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/fritillaria.md",
+      "title": "천패모(川貝母) — 청열윤폐·화담지해",
+      "chars": 1581,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/gastrodia.md",
+      "title": "천마(天麻)",
+      "chars": 1587,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/ginseng.md",
+      "title": "인삼(人蔘)",
+      "chars": 4212,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/green-citrus-peel.md",
+      "title": "청피(靑皮)",
+      "chars": 1564,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/hawthorn.md",
+      "title": "산사(山楂)",
+      "chars": 2303,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/honeysuckle.md",
+      "title": "금은화(金銀花)",
+      "chars": 4731,
+      "hits": [
+        "임신",
+        "시험관"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/index.md",
+      "title": "본초학",
+      "chars": 8371,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/jujube-fruit.md",
+      "title": "대추·대조(大棗)",
+      "chars": 1164,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/leonurus.md",
+      "title": "익모초(益母草)",
+      "chars": 1118,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/magnolia-bark.md",
+      "title": "후박(厚朴)",
+      "chars": 2949,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/mihudeung.md",
+      "title": "미후등(獼猴藤)·미후도(獼猴桃)",
+      "chars": 2848,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/mint.md",
+      "title": "박하(薄荷)",
+      "chars": 1765,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/moutan.md",
+      "title": "목단피(牡丹皮)",
+      "chars": 2533,
+      "hits": [
+        "임신",
+        "월경",
+        "무월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/musk.md",
+      "title": "사향(麝香)",
+      "chars": 1467,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/notopterygium.md",
+      "title": "강활(羌活)",
+      "chars": 2975,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/ophiopogon-extra.md",
+      "title": "천문동(天門冬)",
+      "chars": 3006,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/peach-kernel.md",
+      "title": "도인(桃仁)",
+      "chars": 2804,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/phellodendron.md",
+      "title": "황백(黃柏)",
+      "chars": 2694,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/pinellia.md",
+      "title": "반하(半夏)",
+      "chars": 3365,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/polyporus.md",
+      "title": "저령(猪苓)",
+      "chars": 1165,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/prepared-rehmannia.md",
+      "title": "숙지황(熟地黃)",
+      "chars": 2846,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/qinghao.md",
+      "title": "청호(靑蒿)",
+      "chars": 2534,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/raphanus-seed.md",
+      "title": "나복자(萊菔子·蘿蔔子)",
+      "chars": 1386,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/red-peony.md",
+      "title": "적작약(赤芍藥)",
+      "chars": 3495,
+      "hits": [
+        "임신",
+        "월경",
+        "시험관"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/rhubarb.md",
+      "title": "대황(大黃)",
+      "chars": 1654,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/safflower.md",
+      "title": "홍화(紅花)",
+      "chars": 2597,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/salvia.md",
+      "title": "단삼(丹蔘) — 활혈거어·청심제번",
+      "chars": 2392,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/saposhnikovia.md",
+      "title": "방풍(防風)",
+      "chars": 3003,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/sasang-formula-reverse-index.md",
+      "title": "사상체질별 본초→처방 역색인",
+      "chars": 27533,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/schisandra.md",
+      "title": "오미자(五味子) — 렴폐·생진·수삽",
+      "chars": 3814,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/schizonepeta.md",
+      "title": "형개(荊芥)",
+      "chars": 2242,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/scutellaria.md",
+      "title": "황금(黃芩)",
+      "chars": 3677,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/tsaoko-fruit.md",
+      "title": "초과(草果)",
+      "chars": 1376,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/uncaria.md",
+      "title": "조구등(釣鉤藤)",
+      "chars": 1428,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/herbs/vitex-fruit.md",
+      "title": "만형자(蔓荊子)",
+      "chars": 1153,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/white-peony.md",
+      "title": "백작약(白芍)",
+      "chars": 3723,
+      "hits": [
+        "임신",
+        "월경",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/zedoary-rhizome.md",
+      "title": "봉출(蓬朮)",
+      "chars": 1473,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/herbs/ziziphus-seed.md",
+      "title": "산조인(酸棗仁) — 양심안신·허번불면",
+      "chars": 3806,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/history/index.md",
+      "title": "한의학 역사",
+      "chars": 3692,
+      "hits": [
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/immune-allergy/inflammation-pain.md",
+      "title": "만성염증·면역·통증과 회복 지식망",
+      "chars": 8325,
+      "hits": [
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/index.md",
+      "title": "민성 한의학 아카이브",
+      "chars": 4773,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/jingui-network/index.md",
+      "title": "금궤요략 임상 원문·독해와 임상 지식망",
+      "chars": 15089,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "정자",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/meridian-network/chong-vessel.md",
+      "title": "충맥(衝脈) 임상 지식망",
+      "chars": 805,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/meridian-network/conception-vessel.md",
+      "title": "임맥(任脈) CV",
+      "chars": 3012,
+      "hits": [
+        "월경",
+        "자궁"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/meridian-network/liver-meridian.md",
+      "title": "족궐음간경 LR",
+      "chars": 3577,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/meridian-network/spleen-meridian.md",
+      "title": "족태음비경 SP",
+      "chars": 3972,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/musculoskeletal-ultrasound/safety.md",
+      "title": "초음파 유도 시술 안전성",
+      "chars": 2651,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/neijing-network/index.md",
+      "title": "황제내경 임상 지식망",
+      "chars": 3886,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/nerve-entrapment/index.md",
+      "title": "신경포착증후군",
+      "chars": 1480,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/network/acupoint-combinations.md",
+      "title": "임상 핵심 배혈 조합 지도",
+      "chars": 1176,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/network/acupuncture-clinical-map.md",
+      "title": "침구 임상 지식망",
+      "chars": 2349,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/network/classic-to-evidence-map.md",
+      "title": "고전→현대 연구 연결 지도",
+      "chars": 4718,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/network/condition-expansion-map.md",
+      "title": "질환·증상 확장 지도",
+      "chars": 816,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/network/condition-to-treatment-map.md",
+      "title": "질환·증상→치료 임상 지도",
+      "chars": 5742,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/network/formula-to-condition-map.md",
+      "title": "방제→질환·변증 지도",
+      "chars": 5633,
+      "hits": [
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/network/herb-to-formula-map.md",
+      "title": "본초→방제 역탐색",
+      "chars": 5704,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/pattern-treatment/blood-deficiency.md",
+      "title": "혈허·기혈양허 → 보혈·기혈쌍보",
+      "chars": 1218,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pattern-treatment/blood-stasis.md",
+      "title": "어혈 → 활혈·통락",
+      "chars": 2475,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pattern-treatment/index.md",
+      "title": "변증→치법 지식망",
+      "chars": 1825,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pattern-treatment/phlegm-fluid.md",
+      "title": "담음 → 화담·이기·건비",
+      "chars": 3320,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/physicians/lee-je-ma.md",
+      "title": "이제마(李濟馬)",
+      "chars": 1923,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/physicians/li-shizhen.md",
+      "title": "이시진(李時珍) — 본초강목과 약물의 구분",
+      "chars": 1590,
+      "hits": [
+        "유산"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/physicians/zhu-danxi.md",
+      "title": "주단계(朱丹溪) — 주진형과 자음·담울",
+      "chars": 1611,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/pillar/index.md",
+      "title": "한의학 핵심 주제 허브",
+      "chars": 3401,
+      "hits": [
+        "난임",
+        "임신",
+        "생리",
+        "다낭성난소증후군",
+        "난소",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pillar/metabolic-checkup.md",
+      "title": "대사·건강검진·만성질환 한의치료 허브",
+      "chars": 3211,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pillar/pediatrics.md",
+      "title": "소아·성장·면역 한의치료 허브",
+      "chars": 2834,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pillar/skin-hair.md",
+      "title": "피부·두피·모발 한의치료 허브",
+      "chars": 2664,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pillar/tonic-recovery.md",
+      "title": "보익·피로·회복 한의학 허브",
+      "chars": 7625,
+      "hits": [
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/pillar/urology-mens-health.md",
+      "title": "비뇨·배뇨·남성건강 한의치료 허브",
+      "chars": 2982,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/pillar/womens-health.md",
+      "title": "여성건강 한의학 허브",
+      "chars": 3377,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "월경불순",
+        "다낭성난소증후군",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "착상",
+        "유산",
+        "시험관",
+        "인공수정",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/portal/acupuncture.md",
+      "title": "침구·치료",
+      "chars": 12988,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/portal/herbs-formulas.md",
+      "title": "본초·방제",
+      "chars": 7674,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/portal/maps.md",
+      "title": "전체 지식지도·안내",
+      "chars": 6437,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/questions/choice/qi-vs-qi-blood-deficiency.md",
+      "title": "기허와 기혈양허는 어떻게 다른가?",
+      "chars": 2402,
+      "hits": [
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/research/evidence-levels.md",
+      "title": "근거 수준과 연구 읽기",
+      "chars": 1408,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/research/formulas/gyeongok-go.md",
+      "title": "경옥고 임상근거",
+      "chars": 1288,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/research/references/index.md",
+      "title": "참고문헌 데이터베이스",
+      "chars": 7124,
+      "hits": [
+        "임신",
+        "배란",
+        "월경",
+        "PCOS"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/sasang/diagnosis-research.md",
+      "title": "사상체질 진단과 현대 연구",
+      "chars": 1188,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang/donguisusebowon.md",
+      "title": "동의수세보원과 사상의학",
+      "chars": 563,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang/index.md",
+      "title": "사상의학 임상 지식망",
+      "chars": 7069,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang/sasang-intro-patient.md",
+      "title": "사상의학·사상체질은 무엇인가요",
+      "chars": 816,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang/sasang-vs-constitution.md",
+      "title": "사상체질과 일반적인 '체질' 표현의 차이",
+      "chars": 838,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-clinical-detail/treatment-modalities.md",
+      "title": "사상체질별 치료수단",
+      "chars": 784,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-food/index.md",
+      "title": "사상체질별 음식 가이드",
+      "chars": 7103,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-cards/cheongpyesagan-tang.md",
+      "title": "청폐사간탕(淸肺瀉肝湯) 임상 카드",
+      "chars": 1288,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-cards/gwangye-buja-ijung-tang.md",
+      "title": "관계부자이중탕(官桂附子理中湯) 임상 카드",
+      "chars": 1403,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-cards/index.md",
+      "title": "사상체질별 한약처방",
+      "chars": 8413,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-cards/jowiseungcheong-tang.md",
+      "title": "조위승청탕(調胃升淸湯) 임상 카드",
+      "chars": 5101,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-cards/selection-principles.md",
+      "title": "사상처방 선택 원칙",
+      "chars": 1335,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-combination-network/taeeumin-network.md",
+      "title": "태음인 처방 배합망",
+      "chars": 5109,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-library/galgeunhaegi-tang.md",
+      "title": "갈근해기탕(葛根解肌湯)",
+      "chars": 4410,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-library/haenginseungcheong-tang.md",
+      "title": "행인승청탕(杏仁升淸湯) 임상 카드",
+      "chars": 1927,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-library/osuyubujairijung-tang.md",
+      "title": "오수유부자이중탕(吳茱萸附子理中湯) 임상 카드",
+      "chars": 2002,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-library/soeumin-extended-formulas.md",
+      "title": "소음인 처방 상세 — 울광·망양·태음병",
+      "chars": 8003,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-formula-library/taeeumin-extended-formulas.md",
+      "title": "태음인 처방 상세 — 표한·승청·리열",
+      "chars": 4140,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-guideline/index.md",
+      "title": "사상체질 임상표준·진단 지식망",
+      "chars": 2154,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-history/index.md",
+      "title": "사상의학 역사·인물 지식망",
+      "chars": 2543,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-integrated/evidence.md",
+      "title": "사상의학 근거·출전",
+      "chars": 4001,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-integrated/index.md",
+      "title": "사상의학 한눈에 보기",
+      "chars": 5461,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-integrated/soyangin.md",
+      "title": "소양인 통합 허브",
+      "chars": 7514,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-integrated/taeeumin.md",
+      "title": "태음인 통합 허브",
+      "chars": 7096,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/sasang-original-symptoms/emotion.md",
+      "title": "성정·정서",
+      "chars": 500,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-original-symptoms/index.md",
+      "title": "사상체질 소증 9항목 심화",
+      "chars": 1635,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-pattern-differential/index.md",
+      "title": "사상체질 병증 감별 심화",
+      "chars": 6720,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-progression/healthy-signs.md",
+      "title": "완실무병과 체질별 건강신호",
+      "chars": 644,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-progression/index.md",
+      "title": "사상체질 건강 → 악화 → 중증 → 회복",
+      "chars": 683,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-progression/recovery-signs.md",
+      "title": "사상체질 회복 신호 체크포인트",
+      "chars": 723,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-questions/what-is-donguisusebowon.md",
+      "title": "동의수세보원은 어떤 책인가?",
+      "chars": 542,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-severity/taeyangin.md",
+      "title": "태양인 중증도·위험신호",
+      "chars": 606,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/sasang-treatment/emotion.md",
+      "title": "체질성정요법",
+      "chars": 593,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/symptom-clinical/headache.md",
+      "title": "두통 임상 심화",
+      "chars": 1800,
+      "hits": [
+        "임신",
+        "월경",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-clinical/rhinitis.md",
+      "title": "비염 임상 평가",
+      "chars": 1922,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/digestive/r10-abdominal-pelvic-pain.md",
+      "title": "\"배가 아파요 — 복부·골반 통증의 원인과 한의치료\"",
+      "chars": 6967,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/digestive/r14-bloating.md",
+      "title": "\"속이 더부룩하고 가스가 차요 — 복부팽만·조기포만감과 한의치료\"",
+      "chars": 7222,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/digestive/r63-appetite-intake.md",
+      "title": "\"입맛이 없고 잘 못 먹어요 — 식욕저하·섭취저하와 한의치료\"",
+      "chars": 8643,
+      "hits": [
+        "임신",
+        "산후"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/index.md",
+      "title": "\"증상 기반 한약 탐색\"",
+      "chars": 1605,
+      "hits": [
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/neuro-mental/r42-dizziness.md",
+      "title": "\"어지러워요 — 어지럼의 양상·원인 감별·한의치료\"",
+      "chars": 9133,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/neuro-mental/r45-emotional.md",
+      "title": "\"불안하고 감정조절이 어려워요 — 정서 증상과 한의치료\"",
+      "chars": 8968,
+      "hits": [
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/neuro-mental/r46-sleep.md",
+      "title": "\"잠이 안 오고 자주 깨요 — 수면 양상과 한의치료\"",
+      "chars": 8482,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/neuro-mental/r51-headache.md",
+      "title": "\"머리가 아파요 — 두통의 양상·동의보감 십종두통·한의치료\"",
+      "chars": 6827,
+      "hits": [
+        "임신",
+        "월경",
+        "생리",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/respiratory-ent/r05-cough.md",
+      "title": "\"기침이 오래가요 — 기침의 양상·원인 감별·한의치료\"",
+      "chars": 8441,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/respiratory-ent/r53-fatigue.md",
+      "title": "\"계속 피곤하고 기운이 없어요 — 피로의 원인·회복과 한의치료\"",
+      "chars": 7410,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/systemic-skin/r21-rash-itch.md",
+      "title": "\"피부가 갑자기 올라오고 가려워요 — 발진·두드러기의 원인과 한의치료\"",
+      "chars": 7758,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/systemic-skin/r52-generalized-pain.md",
+      "title": "\"온몸이 쑤시고 여기저기 아파요 — 전신통증의 원인과 한의치료\"",
+      "chars": 7510,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/urogenital/index.md",
+      "title": "\"비뇨·생식기계 — 증상 기반 한약 탐색\"",
+      "chars": 1140,
+      "hits": [
+        "임신",
+        "월경",
+        "생리"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/urogenital/r11-pelvic-perineal.md",
+      "title": "\"아랫배·골반·회음부가 아파요 — 원인과 한의치료\"",
+      "chars": 8226,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "난소",
+        "자궁",
+        "자궁내막",
+        "자궁내막증",
+        "자궁선근증",
+        "자궁근종",
+        "유산",
+        "부인과"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/symptom-herbal-guide/urogenital/r30-urinary.md",
+      "title": "\"소변이 자주 마렵고 시원하지 않아요 — 배뇨증상의 원인과 한의치료\"",
+      "chars": 7727,
+      "hits": [
+        "임신",
+        "부인과"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-integrated/cold-hands-hot-flush.md",
+      "title": "손발냉증 + 상열감",
+      "chars": 1055,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-integrated/index.md",
+      "title": "증상으로 찾기",
+      "chars": 6589,
+      "hits": [
+        "난임",
+        "임신",
+        "월경",
+        "생리",
+        "월경불순",
+        "다낭성난소증후군",
+        "난소",
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-integrated/postpartum-fatigue-pain.md",
+      "title": "산후피로 + 관절·허리통증",
+      "chars": 1109,
+      "hits": [
+        "산후"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/symptom-integrated/treatment-evidence.md",
+      "title": "치료·경과·근거",
+      "chars": 8173,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/taegeuk-acupuncture/constitutions.md",
+      "title": "사상체질별 태극침법 선혈·보사",
+      "chars": 4063,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/taegeuk-acupuncture/evidence.md",
+      "title": "태극침법의 임상 활용과 현대 연구",
+      "chars": 4675,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/taegeuk-acupuncture/index.md",
+      "title": "태극침법 핵심 지식망",
+      "chars": 2902,
+      "hits": [
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/taegeuk-acupuncture/points.md",
+      "title": "태극침법 주요 9경혈의 주치·효능",
+      "chars": 21630,
+      "hits": [
+        "난임",
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/treatments/electroacupuncture.md",
+      "title": "\"전침 — 전기침의 원리·강도·효과와 적용\"",
+      "chars": 3233,
+      "hits": [
+        "임신",
+        "생리"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/tung-acupuncture/foot.md",
+      "title": "동씨침법 발등 · 문금·화경·화주·목두·목류·수곡",
+      "chars": 5277,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/tung-acupuncture/index.md",
+      "title": "동씨침법·동씨기혈 부위별 아틀라스",
+      "chars": 6985,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/tung-acupuncture/lower-leg.md",
+      "title": "동씨침법 종아리 안쪽 · 하삼황",
+      "chars": 3555,
+      "hits": [
+        "임신",
+        "월경",
+        "월경불순"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/womens-health/fertility-pregnancy-postpartum.md",
+      "title": "임신 준비·난임·임신·산후 한의학 허브",
+      "chars": 4337,
+      "hits": [
+        "난임",
+        "임신",
+        "배란",
+        "월경",
+        "생리",
+        "난소",
+        "난소예비력",
+        "자궁",
+        "자궁내막",
+        "난관",
+        "착상",
+        "유산",
+        "시험관",
+        "인공수정",
+        "정액검사",
+        "산후"
+      ],
+      "classification": "2 보강",
+      "decision": "핵심 본문·연결 또는 근거·안전성 보강"
+    },
+    {
+      "path": "docs/zangfu-pattern-network/index.md",
+      "title": "장부변증 핵심 지식망",
+      "chars": 1220,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/zangfu-pattern-network/interrelationships.md",
+      "title": "장부 상호관계",
+      "chars": 1453,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/zangfu-pattern-network/kidney-bladder.md",
+      "title": "신·방광 병증",
+      "chars": 1432,
+      "hits": [
+        "임신"
+      ],
+      "classification": "1 보존",
+      "decision": "관련 언급·전통 주치·임신 주의 자료 유지; 난임 독립 문서 증설 대상 아님"
+    },
+    {
+      "path": "docs/zangfu-pattern-network/liver-gallbladder.md",
+      "title": "간·담 병증",
+      "chars": 1622,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/zangfu-pattern-network/spleen-stomach.md",
+      "title": "비·위 병증",
+      "chars": 1623,
+      "hits": [
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    },
+    {
+      "path": "docs/zangfu-pattern-network/treatment-map.md",
+      "title": "장부변증에서 치법으로",
+      "chars": 1378,
+      "hits": [
+        "임신",
+        "월경"
+      ],
+      "classification": "4 허브 편입",
+      "decision": "기존 전문 자료 재사용; 난임/여성 허브·방제·본초·침구 지도에서 접근"
+    }
+  ],
+  "new_core_documents": [
+    "docs/conditions/adenomyosis.md",
+    "docs/conditions/diminished-ovarian-reserve.md",
+    "docs/conditions/endometriosis.md",
+    "docs/conditions/male-infertility.md",
+    "docs/conditions/recurrent-implantation-failure.md",
+    "docs/conditions/recurrent-pregnancy-loss.md",
+    "docs/conditions/tubal-endometrial-infertility.md",
+    "docs/conditions/unexplained-infertility.md",
+    "docs/conditions/vaginitis.md",
+    "docs/formulas/cangfu-daotan-tang.md",
+    "docs/formulas/wuzi-yanzong-wan.md",
+    "docs/womens-health/fertility-intake.md",
+    "docs/womens-health/fertility-patterns.md",
+    "docs/womens-health/reproductive-physiology.md"
+  ],
+  "merges": {
+    "conditions/pcos.md": [
+      "conditions/polycystic-ovary-syndrome.md",
+      ""
+    ],
+    "conditions/preconception-herbal.md": [
+      "conditions/infertility-preconception.md",
+      "preconception-herbal"
+    ],
+    "conditions/fertility-fatigue.md": [
+      "conditions/infertility-preconception.md",
+      "whole-health"
+    ],
+    "conditions/amenorrhea.md": [
+      "conditions/irregular-menstruation.md",
+      "amenorrhea"
+    ],
+    "conditions/scanty-menstruation.md": [
+      "conditions/irregular-menstruation.md",
+      "scanty-menstruation"
+    ],
+    "conditions/ovulation-pain.md": [
+      "womens-health/reproductive-physiology.md",
+      "ovulation-pain"
+    ]
+  }
+}

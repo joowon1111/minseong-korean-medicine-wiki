@@ -63,6 +63,12 @@ last_reviewed: 2026-09-06
 
 같은 PMS라도 실제 처방은 주기·통증·출혈·냉열·소화·임신 가능성을 함께 봅니다. [여성 한약 처방 안내](../herbal-integrated/formula-for-women.md) · [여성건강 경혈](../acupuncture-integrated/points-for-womens-health.md)
 
+## 현대 치료·임신 준비와의 관계
+
+기능 손상이 큰 PMS/PMDD에는 SSRI·인지행동치료·생활관리·선택적 호르몬 치료 등을 논의합니다. 임신 시도 여부와 복용약을 공유하고 약을 임의 중단하지 않습니다. 월경 전 증후를 배란 장애나 난임 원인으로 바로 해석하지 않습니다. [정상 월경주기](../womens-health/reproductive-physiology.md)·[임신 준비](infertility-preconception.md)와 별도로 평가합니다.
+
+전통 간울 등의 설명이 모든 PMDD의 병태생리와 동일한 것은 아닙니다. 한약·침의 증상 연구도 난임·출산 효과로 일반화하지 않습니다. [ACOG 월경전 장애 지침 2023](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/12/management-of-premenstrual-disorders)을 함께 읽습니다.
+
 ## 경과를 비교하는 방법 {#followup}
 
 치료 전후를 같은 월경 시점끼리 비교하고 **증상이 시작되는 날·지속일·일상 중단·두통·붓기·기분 변화**를 나누어 기록합니다. 증상에 따라 생활 조정·심리치료·약물치료를 함께 검토하며, 생리가 시작돼도 계속되는 증상은 다른 원인도 확인합니다.

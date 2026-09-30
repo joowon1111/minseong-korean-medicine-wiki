@@ -41,6 +41,12 @@ last_reviewed: 2026-09-23
 | 폐경 전후인가 | 성장 추세, 새 출혈, 호르몬 사용 |
 | 이전 치료 뒤 어떤 변화가 있었는가 | 약물·한약·시술·수술의 시점과 반응 |
 
+## 임신 영향: 위치·자궁강과 치료 목표
+
+점막하 또는 자궁강을 변형하는 근종과, 자궁강을 변형하지 않는 근층내·장막하 근종을 구분합니다. 모든 근종절제술이 생아출산을 높인다고 보장할 근거는 부족하며 출혈·유착·회복기간·향후 임신 위험을 논의합니다. 자궁동맥색전술 등도 향후 임신 계획을 고려한 상담이 필요합니다.
+
+[난관·자궁강](tubal-endometrial-infertility.md), [IVF](assisted-reproduction-support.md), [선근증](adenomyosis.md)과 함께 봅니다. [ASRM 근종과 가임력 지침](https://www.asrm.org/practice-guidance/practice-committee-documents/removal-of-myomas-in-asymptomatic-patients-to-improve-fertility-andor-reduce-miscarriage-rate-a-guideline-2017/)의 대상·위치 구분을 확인합니다.
+
 ## 한의학적 변증
 
 | 변증 경향 | 함께 보이는 양상 | 치료 방향 |
@@ -67,6 +73,10 @@ last_reviewed: 2026-09-23
 | 소간이기·활혈 계열 | 월경 전 팽만·스트레스 연동 통증 | 팽만·통증, 수면과 정서 변화 |
 
 출혈기에는 지혈과 전신 상태를, 월경 사이에는 어혈·기혈허·한열과 회복을 구분해 처방을 조정합니다.
+
+## 연구에서 구분할 결과
+
+전통 혈어·징가(癥瘕)는 현대 종양의 조직 진단과 같지 않습니다. 통증·출혈·근종 크기 변화와 자연임신·생아출산은 별개입니다. [처방 네트워크](../herbal-integrated/formula-for-women.md), [본초](../herbal-integrated/herbs-for-women.md), [침구](../acupuncture-integrated/points-for-womens-health.md)를 변증 학습에 활용하며 임신 전후 활혈 제제는 [안전성](../herbal-integrated/safety.md#fertility-pregnancy-safety)을 검토합니다.
 
 ## 생활관리와 빈혈 회복
 

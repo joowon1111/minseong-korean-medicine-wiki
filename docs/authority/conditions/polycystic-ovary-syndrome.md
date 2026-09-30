@@ -8,6 +8,10 @@ PCOS는 배란장애·월경불순과 함께 인슐린저항성, 체중·복부�
 - 2025 systematic review/meta-analysis: **46개 논문, 51개 연구**. 침 단독 및 한약·metformin 등과의 병용치료에서 호르몬·대사·체중 관련 지표가 개선되었습니다. PMID `40091529`, DOI `10.1080/07853890.2025.2477295`.
 - 2025 배란율 dose-response meta-analysis: **43 RCT·4,827명**. 침 단독은 sham 및 약물치료보다 배란율을 높였고, **침+한약**은 network ranking에서 가장 높은 배란효과를 보였습니다. 치료 횟수·빈도·시간에 따른 dose-response도 분석했습니다. PMID `40951420`, DOI `10.3389/fendo.2025.1610338`.
 
+## 임신·출산의 확실성과 다른 결과
+
+2025 Cochrane [PMID 41147529](https://pubmed.ncbi.nlm.nih.gov/41147529/)은 sham 대비 생아출산 RR 0.97(95% CI 0.76–1.23), 1시험·1,000명, 낮은 확실성으로 뚜렷한 이득을 확인하지 못했습니다. 다른 분석의 배란·호르몬·대사 결과와 같은 결론으로 묶지 않습니다. [PCOS 핵심 페이지](../../conditions/polycystic-ovary-syndrome.md#pcos-evidence), [난임 근거카드](female-infertility-art.md)에서 대상·비교군·시험 질·출산 자료를 확인합니다. 순위는 개인의 성공확률이 아닙니다.
+
 ## 경혈 데이터
 2025 meta-analysis의 data mining에서 **족양명위경**이 가장 자주 사용됐고, 대표적인 경혈 조합으로 **관원 CV4·삼음교 SP6·족삼리 ST36**이 확인되었습니다.
 
