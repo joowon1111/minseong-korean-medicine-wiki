@@ -1132,7 +1132,7 @@
 
 
 <nav class="archive-breadcrumbs" aria-label="현재 문서 위치"><a href="https://wiki.minseong.co.kr/">홈</a> <span aria-hidden="true">›</span> <a href="https://wiki.minseong.co.kr/classics/">한의학 고전 임상 지식망</a> <span aria-hidden="true">›</span> <span aria-current="page">동의보감 원문 열람·검색</span></nav><div class="archive-reading-tools"><nav aria-label="본문 빠른 이동"><a href="#sources">근거·출처 확인</a></nav></div><h1 id="_1">동의보감 원문 열람·검색<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
-<p>한문 원문은 아래 <strong>원문 검색</strong>에서 찾고, 책의 모습을 그대로 확인하려면 <strong>전권 영인본</strong>을 엽니다. 일반 아카이브 검색은 기존 질환·본초·방제·경혈 문서를 중심으로 유지합니다.</p>
+<p>한문 원문은 아래 <strong>원문 검색</strong>에서 찾습니다. 검색어를 모르면 <strong>권별 원문 목록</strong>을 열고, 이미지로 읽으려면 <strong>편별 영인본 목차</strong>에서 원하는 권을 선택합니다. 일반 아카이브 검색은 기존 질환·본초·방제·경혈 문서를 중심으로 유지합니다.</p>
 <h2 id="coverage">수록 범위와 읽는 방법<a class="headerlink" href="#coverage" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -1171,11 +1171,15 @@
 <label for="dgb-group">검색할 범위</label>
 <select id="dgb-group"><option value="">수록 전사 전체</option><option value="tangaek-1">탕액편 권1</option><option value="tangaek-2">탕액편 권2</option><option value="tangaek-3">탕액편 권3</option><option value="naegyeong-fragments">내경편 권1 확보된 부분</option></select>
 <button type="submit">원문 검색</button>
+<button id="dgb-browse" type="button">권별 원문 목록</button>
 </form>
+<p>범위를 고른 뒤 목록을 열면 수록된 원문을 50항목씩 모두 둘러볼 수 있습니다. 한글명은 검색을 돕는 이름이며, 고전 약재와 현대 약재의 기원·부위·규격이 같다는 뜻은 아닙니다.</p>
 <div id="dgb-results" aria-live="polite"></div>
 <article id="dgb-passage" hidden></article>
 <h3 id="facsimile">전권 영인본</h3>
-<p>이미지는 Wikimedia Commons에서 선택한 한 페이지씩 불러옵니다. 아카이브 안에서 읽을 수 있으며, 이미지 제공처의 연결 상태에 따라 열람이 제한될 수 있습니다. 전사 파일은 아카이브 자체에 수록되어 있습니다.</p>
+<p>본문 23권과 목록 2권을 편·권 이름으로 찾습니다. 아래 목차에서 권을 누르면 본문 위치로 이동하며, 제1책은 앞부분의 총목·서문을 지나 신형 항목을 엽니다. 표시한 항목은 원전의 편목으로, 해당 권의 모든 글자가 검색되는 것은 아닙니다.</p>
+<div id="dgb-volume-guide" aria-label="편별 영인본 목차"></div>
+<p>이미지는 Wikimedia Commons에서 선택한 한 페이지씩 불러옵니다. 이미지 페이지 번호는 PDF의 순서이며 원전의 장차와 다릅니다. 전사에 대응하는 영인 페이지는 원문 항목의 출처 링크에서 확인합니다.</p>
 <form id="dgb-scan-form">
 <label for="dgb-volume">책</label><select id="dgb-volume"></select>
 <label for="dgb-page">이미지 페이지</label><input id="dgb-page" type="number" min="1" value="1">
@@ -1197,6 +1201,7 @@
 <li><strong>전사 출처:</strong> <a href="https://ko.wikisource.org/wiki/동의보감/탕액편">한국어 위키문헌 동의보감 탕액편</a>, <a href="https://zh.wikisource.org/wiki/東醫寶鑒/內景篇一">중국어 위키문헌 내경편 권1</a>. 저자 허준, 전사·편집 기여자 위키문헌 사용자들. 각 검색 결과에서 사용한 수정판의 고정 링크와 기여 이력을 제공합니다.</li>
 <li><strong>전사 이용조건:</strong> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko">CC BY-SA 4.0</a>. 이 화면의 가져온 전사와 이를 정리한 전사 데이터는 동일한 이용조건을 따릅니다. 원문 내용에 현대 번역을 덧붙이지 않았으며, 위키 문법·배치를 텍스트 항목으로 정리하고 검색용 한글명과 아카이브 연결을 추가했습니다. 정본·완역본이라는 의미가 아닙니다.</li>
 <li><strong>전권 영인본:</strong> <a href="https://commons.wikimedia.org/wiki/File:CNTS-00047980284_1_東醫寶鑑.pdf">Wikimedia Commons 공개 파일과 서지</a>. 국립중앙도서관 디지털 자료를 바탕으로 제공된 목판본 25책이며, 파일 설명의 <code>PD-scan / PD-South Korea</code> 표시를 확인했습니다. 이미지와 PDF는 제공처에서 불러옵니다.</li>
+<li><strong>영인본 목차:</strong> 각 책의 권두제 이미지를 대조해 편·권을 식별했습니다. 파일 제24책은 목록 권2, 제25책은 목록 권1입니다. 원전의 목차 순서와 파일 번호를 구분하며, 간행연도·정본 여부는 별도로 확인합니다.</li>
 <li><strong>자체 설명:</strong> 아카이브의 해설과 임상 문서는 <a href="../../../guide/content-use/">콘텐츠 이용 안내</a>를 따릅니다. 공개 전사·영인본의 이용조건과 자체 해설의 이용조건을 구분합니다.</li>
 </ul>
 <p>→ <a href="../">동의보감 개요</a> · <a href="../../../donguibogam-network/">동의보감 임상 탐색 네트워크</a> · <a href="../../donguibogam-tangaek/">탕액편 임상 지도</a> · <a href="../../../search-guide/">사이트 검색 안내</a></p>
