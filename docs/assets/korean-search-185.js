@@ -189,12 +189,15 @@
     document.documentElement.classList.add("ms-ksearch-active");
     panel.hidden = false;
 
+    const originalLink = `<a href="/classics/donguibogam/original/?q=${encodeURIComponent(raw.slice(0, 200))}#reader">동의보감 원문에서 별도로 찾기</a>`;
+
     if (!results.length) {
       panel.innerHTML = `
         <div class="ms-ksearch-head">민성 한국어 검색</div>
         <div class="ms-ksearch-empty">
           <strong>${escapeHtml(raw)}</strong>에 대한 자체 검색 결과가 없습니다.
           <span>아래 기본 검색 결과도 함께 확인할 수 있습니다.</span>
+          <span>${originalLink}</span>
         </div>`;
       return;
     }
@@ -211,7 +214,7 @@
         <small>${results.length}개 우선 표시</small>
       </div>
       <div class="ms-ksearch-list">${items}</div>
-      <div class="ms-ksearch-foot">증상 표현·제목·태그·본문에서 검색한 결과입니다.</div>`;
+      <div class="ms-ksearch-foot">증상 표현·제목·태그·본문에서 검색한 결과입니다.<br>${originalLink}</div>`;
   }
 
   function install() {

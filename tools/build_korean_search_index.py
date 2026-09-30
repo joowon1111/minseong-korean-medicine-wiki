@@ -100,6 +100,10 @@ def main():
 
         raw = p.read_text(encoding="utf-8-sig", errors="ignore")
         fm, body = strip_frontmatter(raw)
+        # Large classical corpora have their own lazy search index.
+        # Keep their reader page out of the ordinary clinical ranking.
+        if p.relative_to(DOCS).as_posix() == "classics/donguibogam/original.md":
+            continue
         title = title_from(fm, body, p)
         plain = clean_markdown(body)
         keys = keyword_set(title, plain, fm)
