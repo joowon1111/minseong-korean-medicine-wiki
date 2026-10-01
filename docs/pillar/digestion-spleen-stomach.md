@@ -6,11 +6,11 @@ status: 검토완료
 last_reviewed: 2026-09-06
 ---
 
-# 소화·비위 한의학 허브
+# 소화·비위 한의학 허브 {#_1}
 
 소화기 증상은 **식후 악화 여부, 식욕과 식사량, 조기포만, 트림·신물, 복통·팽만, 오심, 배변 변화, 스트레스와의 연동**을 함께 살펴야 합니다.
 
-## 증상으로 찾기
+## 증상으로 찾기 {#_2}
 
 | 불편함 | 대표 문서 |
 |---|---|
@@ -23,7 +23,7 @@ last_reviewed: 2026-09-06
 | 복통과 배변 변화가 반복됨 | [과민성장증후군](../conditions/ibs.md) |
 | 속쓰림·명치통증이 있음 | [위염·속쓰림](../conditions/gastritis-symptoms.md) |
 
-## 주요 변증
+## 주요 변증 {#_3}
 
 - **비위기허**: 식욕저하·식후 피로·무른 변
 - **담음·습체**: 더부룩함·오심·무거움·가스
@@ -33,7 +33,7 @@ last_reviewed: 2026-09-06
 
 식욕저하와 식후 처짐, 묽은 변과 활동력 저하가 함께 나타나는 맥락은 [《비위론》의 원문·해석](../classics/piwei-lun.md#intake-and-function)에서 이어 볼 수 있습니다. 비위기허에 담습·기체가 얼마나 겹치는지에 따라 보기와 소화기 조절의 비중을 달리 살핍니다.
 
-## 본초·방제·경혈
+## 본초·방제·경혈 {#_4}
 
 - 비위허: [인삼](../herbs/ginseng.md) · [백출](../herbs/atractylodes.md) · [복령](../herbs/poria.md) · [황기](../herbs/astragalus.md)
 - 담음·기체: 반하 · 진피 · 후박 · 사인
@@ -42,8 +42,10 @@ last_reviewed: 2026-09-06
 
 [보중익기탕](../formulas/buzhong-yiqi-tang.md#fatigue-with-digestion)은 식욕·기력이 약해지면서 승거 기능의 저하가 함께 있는지 살피는 경로입니다. 더부룩함·오심이 중심인 육군자탕 계열과의 차이는 [비위론의 식후 증상·처방 비교](../classics/piwei-lun.md#postmeal-patterns)에서 확인할 수 있습니다.
 
-## 치료와 근거 연결
+## 치료와 근거 연결 {#_5}
 
+- [곡물효소는 어떤 음식 성분의 분해를 돕나요?](../conditions/grain-fermented-enzymes.md#digestive-roles)
+- [소화·장 점막·면역의 관계는 어떻게 읽나요?](../immune-allergy/gut-recovery.md#gut-mucosal-immunity)
 - [소화불량 임상 지식망](../network/dyspepsia-map.md)
 - [소화불량 경혈 지식망](../network/dyspepsia-acupoints.md)
 - [소화기 증상에서 먼저 확인할 신호](../clinical-safety/digestive-red-flags.md)
