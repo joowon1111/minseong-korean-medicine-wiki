@@ -34,7 +34,7 @@ last_reviewed: 2026-09-06
 
 **피로해서 잠을 못 잔다는 표현도 나누어 봅니다.** 식욕저하·건망·심계가 겹치면 귀비탕의 기혈·심비를 돕는 구조를, 구건·야간 열감·허번이 두드러지면 천왕보심단의 음혈을 돕고 안정시키는 구조를 비교합니다. 오심·흉민·어지럼이 함께 나타나면 온담탕 계열의 담울 조절도 살핍니다. [산조인탕](../formulas/suanzaoren-tang.md)은 허로 뒤 피로한데도 가라앉지 않는 허번불면의 맥락에서 비교합니다.
 
-이런 처방 차이는 잠드는 데 걸리는 시간뿐 아니라 수면을 방해하는 동반 불편까지 치료 목표로 삼기 때문입니다. [맞춤 처방의 원리](formula-selection-guide.md#symptom-treatment-comparison)에서 다른 증상과 연결해 볼 수 있습니다.
+이런 처방 차이는 잠드는 데 걸리는 시간뿐 아니라 수면을 방해하는 동반 불편까지 치료 목표로 삼기 때문입니다. [귀비탕에는 왜 식욕·소화와 관련된 약재도 들어가나요?](../formulas/guibi-tang.md#sleep-and-digestion)에서 배합을 읽고, [다른 증상에서도 같은 원리를 어떻게 적용하나요?](formula-selection-guide.md#symptom-treatment-comparison)로 연결할 수 있습니다.
 
 ## 수면 한약 연구가 보여주는 변화 {#sleep-treatment-evidence}
 
@@ -44,17 +44,17 @@ last_reviewed: 2026-09-06
 
 ## 치료반응을 확인하는 방법 {#_4}
 
-처방 전후에는 ‘잘 잤다’는 느낌만 아니라 **PSQI·ISI, 입면시간, 야간각성 횟수, 총수면시간, 다음 날 기능**을 함께 봅니다. 1~2주 수면일지를 작성하면 생활리듬과 치료반응을 구분하는 데 도움이 됩니다.
+처방 전후에는 ‘잘 잤다’는 느낌만 아니라 **PSQI·ISI, 입면시간, 야간각성 횟수, 총수면시간, 다음 날 기능**을 함께 봅니다. 1~2주 수면일지를 작성하면 생활리듬과 치료반응을 구분하는 데 도움이 됩니다. [잠들기는 편해졌는데 낮 졸림이 늘었다면 무엇을 다시 확인하나요?](formula-selection-guide.md#sleep-palpitations-case)에서 가상 교육 사례의 판단 과정을 볼 수 있습니다.
 
 한약은 수면위생, 일정한 기상시간, 빛·운동 조절과 함께 계획합니다. 만성불면에서는 불면 인지행동치료를 포함한 비약물치료도 중요한 축입니다.
 
 ## 더 깊게 보기 {#_5}
 
-- [불면증](../conditions/insomnia.md)
-- [수면·정서 한약 현대 임상근거](../authority/formulas/sleep-emotion-herbal-evidence.md)
-- [불면 한약 처방 지도](../authority/formulas/insomnia-herbal-formula-map.md)
-- [처방 선택 원리](formula-selection-guide.md)
-- [맞춤한약](../conditions/custom-herbal-medicine.md)
+- [잠들기·유지·새벽각성은 어떻게 구분하나요?](../conditions/insomnia.md)
+- [수면 연구의 설문 점수와 실제 생활은 어떻게 연결하나요?](../authority/formulas/sleep-emotion-herbal-evidence.md#sleep-outcome-meaning)
+- [불면 처방 연구는 어떤 제형과 비교군을 사용했나요?](../authority/formulas/insomnia-herbal-formula-map.md)
+- [같은 불면에서도 처방 방향이 왜 달라지나요?](formula-selection-guide.md#symptom-treatment-comparison)
+- [복용 후 변화를 보고 처방은 어떻게 조정하나요?](../conditions/custom-herbal-medicine.md#care-process)
 
 ## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
 

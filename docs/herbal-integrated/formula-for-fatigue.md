@@ -54,7 +54,7 @@ last_reviewed: 2026-09-06
 
 피로 한약은 기운의 느낌뿐 아니라 **식사·수면·활동 후 회복과 일상 수행**을 목표로 계획합니다. 식욕이 줄어 회복이 느리면 소화와 섭취를, 잠이 깨서 피로가 쌓이면 수면을 함께 살피므로 같은 ‘보약’에도 치료 목적의 배합이 달라집니다.
 
-처음에는 가장 힘든 시간대, 할 수 있는 활동, 활동 뒤 쉬어야 하는 시간을 기록합니다. 복용 뒤 식사량은 늘었지만 수면이 그대로인지, 피로는 줄었지만 새 소화불편이 생겼는지를 나누어 보면 유지·조정의 이유를 설명하기 쉽습니다. [복용 후 비교표](../conditions/herbal-followup.md#symptom-measures)에서 기록할 항목을 확인할 수 있습니다.
+처음에는 가장 힘든 시간대, 할 수 있는 활동, 활동 뒤 쉬어야 하는 시간을 기록합니다. 복용 뒤 식사량은 늘었지만 수면이 그대로인지, 피로는 줄었지만 새 소화불편이 생겼는지를 나누어 보면 유지·조정의 이유를 설명하기 쉽습니다. [식사는 편해졌는데 피로가 남으면 무엇을 다시 확인하나요?](formula-selection-guide.md#fatigue-appetite-case)에서 가상 교육 사례를 읽고, [변화는 어떤 항목으로 기록하나요?](../conditions/herbal-followup.md#symptom-measures)로 연결합니다.
 
 ## 피로 연구는 일상 기능과 함께 읽습니다 {#fatigue-study-summary}
 
@@ -70,12 +70,12 @@ last_reviewed: 2026-09-06
 
 ## 지식망 연결 {#_6}
 
-- [증상·치료로 한약 찾기](by-symptom-treatment.md)
-- [본초 찾기](herbs.md)
-- [보익·회복 핵심](tonic-recovery.md)
-- [건강보험 한약제제](insurance-herbal.md)
-- [맞춤한약](../conditions/custom-herbal-medicine.md)
-- [한약 상담 질문](../conditions/herbal-consultation-prep.md)
+- [피로 외에 수면·소화 불편이 겹치면 어떤 처방군을 비교하나요?](by-symptom-treatment.md)
+- [인삼·황기와 보혈·보음 본초는 역할이 어떻게 다른가요?](herbs.md#_1)
+- [질환·회복 단계에 따라 보익 목표가 어떻게 달라지나요?](tonic-recovery.md)
+- [건강보험 한약제제에는 어떤 처방이 있나요?](insurance-herbal.md)
+- [같은 피로에서도 맞춤 처방의 상담 질문이 왜 다른가요?](../conditions/custom-herbal-medicine.md#same-symptom)
+- [피로 상담에 어떤 기록과 검사자료를 준비하나요?](../conditions/herbal-consultation-prep.md#visit-checklist)
 
 ## 검색 동의어 {#_7}
 
