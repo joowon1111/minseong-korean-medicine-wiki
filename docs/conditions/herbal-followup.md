@@ -6,7 +6,7 @@ status: 검토완료
 last_reviewed: 2026-08-21
 keywords: [한약 효과 언제, 보약 효과 언제 느끼나요, 한약 먹고 변화, 한약 효과 확인, 보약 먹고 피로 변화, 한약 재진]
 ---
-# 한약 먹고 언제 효과를 평가하나요
+# 한약 먹고 언제 효과를 평가하나요 {#_1}
 
 한약·보약의 효과를 확인하는 시점은 **치료 목표, 증상의 경과, 처방과 현재 건강 상태**에 따라 정합니다. 복용 전의 불편과 일상생활을 기준으로 비교하고, 처음 상담에서 다음 평가 시점을 함께 확인하세요.
 
@@ -43,6 +43,18 @@ keywords: [한약 효과 언제, 보약 효과 언제 느끼나요, 한약 먹�
 수면시간·식사·업무량, 다른 약이나 치료가 함께 바뀌었다면 옆에 적습니다. **기록에서 변화가 보인다는 것만으로 한약 단독 효과라고 단정하지 않고**, 함께 달라진 조건을 진료에서 살펴봅니다.
 
 → [복용을 잊었을 때](herbal-consultation-prep.md#missed-dose) · [식전·식후 복용 안내](herbal-consultation-prep.md#before-after-meals)
+
+### 일부만 달라졌다면 이렇게 나누어 설명합니다 {#partial-change-example}
+
+아래 문장은 **가상 교육 사례의 재진 메모 예시**이며 실제 치료 결과가 아닙니다. 약의 효과를 입증하는 기록이 아니라, 좋아진 점과 남은 불편을 함께 전달하는 방법입니다.
+
+| 막연한 표현 | 나누어 전달하는 예 |
+|---|---|
+| “좀 나아진 것 같아요.” | “식후 답답함은 줄었지만 퇴근 뒤 쉬어야 하는 정도는 비슷해요. 식사량과 업무량도 함께 적었어요.” |
+| “잠은 좋아졌어요.” | “잠드는 시간과 밤중에 깨는 횟수는 따로 적었어요. 낮 졸림은 오히려 늘었고 다른 약의 변경도 확인했어요.” |
+| “생리통은 덜해요.” | “통증이 이어지는 시간과 진통제 사용은 줄었지만 출혈량·월경 뒤 어지럼은 그대로인지 따로 적었어요.” |
+
+정확한 숫자가 기억나지 않으면 과장해 채우지 않고 같은 조건에서 비교한 변화부터 전달합니다. [이런 변화가 보고되면 처방 조정 전에 무엇을 다시 확인하나요?](../herbal-integrated/formula-selection-guide.md#learning-cases)
 
 <span id="_4"></span>
 
@@ -99,12 +111,12 @@ keywords: [한약 효과 언제, 보약 효과 언제 느끼나요, 한약 먹�
 
 ## 상담 준비와 복용관리 이어서 보기 {#related-guides}
 
-- [한약 상담 전 준비할 자료](herbal-consultation-prep.md)
-- [보약 복용기간](tonic-duration.md)
-- [영양제·건강기능식품과 한약](supplements-herbal-medicine.md)
-- [건강검진 후 한약·보약 상담](herbal-medicine-after-checkup.md)
-- [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
-- [건강보험 한약제제](../herbal-integrated/insurance-herbal.md)
+- [다음 상담에 어떤 증상·복용약 자료를 준비하나요?](herbal-consultation-prep.md#visit-checklist)
+- [좋아진 뒤 유지·조정·종료는 어떻게 정하나요?](tonic-duration.md#continue-adjust-finish)
+- [영양제도 함께 복용했다면 무엇을 알려야 하나요?](supplements-herbal-medicine.md)
+- [체감 변화와 건강검진 결과는 어떻게 함께 보나요?](herbal-medicine-after-checkup.md)
+- [남은 증상과 관련된 처방군은 어디서 비교하나요?](../herbal-integrated/by-symptom-treatment.md)
+- [건강보험 한약제제에는 어떤 처방이 있나요?](../herbal-integrated/insurance-herbal.md)
 
 ## 참고자료 {#references}
 

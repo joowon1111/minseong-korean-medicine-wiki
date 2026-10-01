@@ -49,7 +49,7 @@ last_reviewed: 2026-09-06
 | 스트레스와 함께 상복부 팽만·통증·트림이 변함 | 기체를 풀고 소화 증상을 함께 조절 | 시호소간산 |
 | 냉감·식욕저하에 팽만·기체가 겹침 | 비위허한을 돕고 습체·기체 조절 | 향사양위탕 |
 
-냉감이나 스트레스 한 가지로 처방을 정하지 않고 식욕·대변·갈증·복용약과 진찰을 함께 봅니다. [기본방과 가감](formula-selection-guide.md#formula-adjustment)에서 약재 배합이 달라지는 이유를 이어서 읽을 수 있습니다.
+냉감이나 스트레스 한 가지로 처방을 정하지 않고 식욕·대변·갈증·복용약과 진찰을 함께 봅니다. [향사육군자탕은 보하는 약과 팽만을 푸는 약을 왜 함께 쓰나요?](../formulas/xiangsha-liujunzi-tang.md#tonification-and-digestion)에서 배합을 읽고, [동반 불편에 따라 기본방은 어떻게 가감하나요?](formula-selection-guide.md#formula-adjustment)로 이어갈 수 있습니다.
 
 처방명은 검색을 위한 출발점이며 실제 처방은 개인의 현재 상태와 병증을 평가해 구성합니다.
 
@@ -61,12 +61,13 @@ last_reviewed: 2026-09-06
 
 ## 지식망 연결 {#_5}
 
-- [증상·치료로 한약 찾기](by-symptom-treatment.md)
-- [본초 찾기](herbs.md)
-- [보익·회복 핵심](tonic-recovery.md)
-- [건강보험 한약제제](insurance-herbal.md)
-- [맞춤한약](../conditions/custom-herbal-medicine.md)
-- [한약 상담 질문](../conditions/herbal-consultation-prep.md)
+- [소화불편과 함께 있는 증상에서는 어떤 처방군을 비교하나요?](by-symptom-treatment.md)
+- [소화 처방에 들어간 본초의 역할은 어디서 확인하나요?](herbs.md)
+- [식사와 회복을 함께 보는 보익 처방은 무엇인가요?](tonic-recovery.md)
+- [건강보험 한약제제에는 어떤 처방이 있나요?](insurance-herbal.md)
+- [같은 더부룩함에서도 맞춤 처방은 왜 달라지나요?](../conditions/custom-herbal-medicine.md)
+- [식사는 편해졌는데 피로가 남으면 무엇을 확인하나요?](formula-selection-guide.md#fatigue-appetite-case)
+- [상담 전에 식사·배변·복용약을 어떻게 정리하나요?](../conditions/herbal-consultation-prep.md#visit-checklist)
 
 ## 검색 동의어 {#_6}
 
