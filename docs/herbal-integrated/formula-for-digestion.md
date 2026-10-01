@@ -59,6 +59,12 @@ last_reviewed: 2026-09-06
 
 복용 전후에는 식후 불편의 강도, 적게 먹어도 배부른 정도, 오심·트림, 배변 상태를 같은 기준으로 비교합니다. 처방과 식사·생활관리를 함께 바꿨다면 그 변화도 기록합니다. 다른 소화 처방의 연구 대상과 결과는 [소화기 근거의 쉬운 해설](../authority/formulas/digestive-herbal-evidence.md#patient-study-summary)에서 볼 수 있습니다.
 
+### 곡물효소를 함께 활용할 때는 무엇을 확인하나요? {#grain-enzyme-combination}
+
+곡물효소의 아밀라아제·프로테아제는 전분·단백질 분해에 관여하며, 소화 한약은 식욕·오심·냉열·배변·피로 등 동반 양상에 맞춰 구성합니다. 함께 활용한다면 식후 팽만·트림과 섭취량을 먼저 기록하고, 식사·처방·효소 제품을 바꾼 시점도 남깁니다. 편안한 식사와 영양섭취의 회복을 평가하면서 장 면역 관련 결과는 따로 확인합니다.
+
+제품별 원료·효소 활성과 사람 연구의 차이는 [곡물효소의 작용과 연구](../conditions/grain-fermented-enzymes.md#research-summary), 장 점막·미생물·면역의 관계는 [장·비위와 전신 회복](../immune-allergy/gut-recovery.md#gut-mucosal-immunity)에서 이어 볼 수 있습니다.
+
 ## 지식망 연결 {#_5}
 
 - [소화불편과 함께 있는 증상에서는 어떤 처방군을 비교하나요?](by-symptom-treatment.md)
