@@ -2,8 +2,8 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261002-3';
-  const SUBJECTS = {acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학'};
+  const VERSION = '20261002-4';
+  const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
     try {
@@ -39,7 +39,7 @@
   }
   function matches(card, category, query) {
     if (category && card.category !== category) return false;
-    const haystack = [card.title, card.category, ...card.facts.map(f => f.label + ' ' + f.value)].join(' ').toLowerCase();
+    const haystack = [card.title, card.category, ...(card.aliases || []), ...card.facts.map(f => f.label + ' ' + f.value)].join(' ').toLowerCase();
     return query.toLowerCase().trim().split(/\s+/).every(word => haystack.includes(word));
   }
   function filteredCards(deck, progress, category, query, mode) {
@@ -70,7 +70,12 @@
   function safeURL(value) {
     return typeof value === 'string' && /^\/(?!\/)[^\s<>]*$/.test(value) ? value : '#';
   }
-  const api = {KEY, emptyProgress, readProgress, writeProgress, markCard, recordAnswer, matches,
+  function answerMatches(question, value) {
+    const normalize = text => String(text).normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
+    const entered = normalize(value);
+    return !!entered && (question.acceptedAnswers || []).some(alias => normalize(alias) === entered);
+  }
+  const api = {answerMatches, KEY, emptyProgress, readProgress, writeProgress, markCard, recordAnswer, matches,
     filteredCards, filteredQuestions, shuffle, dailySeed, dailyQuestions, safeURL};
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   if (!global.document) return;
@@ -93,7 +98,15 @@
     for (const [key, value] of Object.entries(attrs || {})) el.setAttribute(key, value);
     return el;
   }
+  function revealSource() {
+    if (!global.location.hash) return;
+    let target;
+    try { target = global.document.getElementById(decodeURIComponent(global.location.hash.slice(1))); } catch (_) { return; }
+    if (!target) return;
+    for (let parent = target.parentElement; parent; parent = parent.parentElement) if (parent.tagName === 'DETAILS') parent.open = true;
+  }
   function init() {
+    revealSource();
     const root = global.document.querySelector('[data-learning-room]');
     if (!root || root.dataset.ready) return;
     if (active) active.alive = false;
@@ -113,7 +126,7 @@
       tabs.append(button);
     }
     const filters = node('div', undefined, {class: 'learning-filters'});
-    const query = node('input', undefined, {type: 'search', placeholder: '혈명·코드·본초·처방·개념 검색', 'aria-label': '학습자료 검색'});
+    const query = node('input', undefined, {type: 'search', placeholder: '구조명·영문명·혈명·코드·본초·처방 검색', 'aria-label': '학습자료 검색'});
     const category = node('select', undefined, {'aria-label': '학습 단원'});
     const modeSelect = node('select', undefined, {'aria-label': '학습 방식'});
     for (const [value, title] of [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']]) {
@@ -129,7 +142,7 @@
     resetFilters.addEventListener('click', () => { query.value = ''; category.value = ''; restart(); });
     const clear = node('button', '학습기록 초기화', {type: 'button', class: 'learning-clear'});
     clear.addEventListener('click', () => {
-      if (!global.confirm('네 과목의 이해한 카드·북마크·오답 기록을 이 브라우저에서 지울까요?')) return;
+      if (!global.confirm('전체 과목의 이해한 카드·북마크·오답 기록을 이 브라우저에서 지울까요?')) return;
       progress = emptyProgress(); save(); restart();
     });
     toolbar.append(resetFilters, clear);
@@ -152,7 +165,7 @@
     function picture(source, description) {
       const object = node('object', undefined, {data: safeURL(source), type: 'image/svg+xml', class: 'learning-diagram', 'aria-label': description});
       object.append(node('a', '도해를 새 화면에서 보기', {href: safeURL(source), target: '_blank', rel: 'noopener'}));
-      const wrap = node('figure'); wrap.append(object, node('figcaption', '학습용 개략 도해입니다. 정확한 위치는 표준 위치 설명과 원문에서 함께 확인하세요.')); return wrap;
+      const wrap = node('figure'); wrap.append(object, node('figcaption', subject === 'anatomy' ? '자체 제작 교육용 개념도입니다. 실제 해부표본·현미경 사진과 함께 구조를 확인하세요.' : '학습용 개략 도해입니다. 정확한 위치는 표준 위치 설명과 원문에서 함께 확인하세요.')); return wrap;
     }
     function sourceLink(source, title) { return node('a', title || '원문에서 더 읽기 →', {href: safeURL(source), class: 'learning-source', target: '_blank', rel: 'noopener'}); }
     function restart() { index = 0; flipped = false; session = null; status.textContent = ''; render(); }
@@ -176,6 +189,8 @@
         stage.append(dl);
         if (c.diagram) stage.append(picture(c.diagram, c.title + ' 위치 도해'));
         stage.append(sourceLink(c.source));
+        if (c.aliases) stage.append(node('p', '다른 표기: ' + c.aliases.join(' · '), {class: 'learning-note'}));
+        if (c.relatedSource) stage.append(sourceLink(c.relatedSource, '부위별 임상해부학 →'));
         if (c.overviewSource) stage.append(sourceLink(c.overviewSource, '100선 구조표 확인 →'));
         const actions = node('div', undefined, {class: 'learning-actions'});
         function advance(removed) { index = (index + (removed ? 0 : 1)) % Math.max(cards.length, 1); flipped = false; render(); focusHeading(); }
@@ -200,6 +215,7 @@
           const kinds = node('select', undefined, {'aria-label': '문제 유형'});
           const types = subject === 'acupoints'
             ? [['', '전체 문제 유형'], ['name', '혈명·경맥'], ['location', '표준 위치 설명'], ['diagram', '그림으로 경혈 찾기']]
+            : subject === 'anatomy' ? [['', '전체 문제 유형'], ['fact', '부착·작용·연결·특징'], ['identify', '설명으로 구조 식별'], ['diagram', '도해로 구조 식별']]
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
@@ -225,7 +241,7 @@
       stage.append(node('p', q.category + ' · ' + (session.index + 1) + ' / ' + session.questions.length, {class: 'learning-eyebrow'}),
         node('h3', q.prompt, {tabindex: '-1'}));
       if (q.context) stage.append(node('p', q.context, {class: 'learning-prompt'}));
-      if (q.diagram) stage.append(picture(q.diagram, '붉은 점의 경혈을 맞히는 도해'));
+      if (q.diagram) stage.append(picture(q.diagram, subject === 'anatomy' ? '강조된 해부 구조를 식별하는 도해' : '붉은 점의 경혈을 맞히는 도해'));
       const options = node('div', undefined, {class: 'learning-options', role: 'group', 'aria-label': '정답 보기'});
       q.options.forEach((option, i) => {
         options.append(button((i + 1) + '. ' + option.text, () => {
@@ -253,11 +269,49 @@
       }
       stage.append(button('퀴즈 선택으로 돌아가기', () => { session = null; render(); focusHeading(); }));
     }
+    function renderIdentify() {
+      const items = filteredQuestions(deck, progress, category.value, query.value, false).filter(q => q.acceptedAnswers);
+      if (!session) {
+        if (!items.length) { empty('조건에 맞는 구조 식별 문제가 없습니다.'); return; }
+        stage.append(node('h3', '구조 이름을 직접 떠올려 보세요', {tabindex: '-1'}),
+          node('p', '설명이나 이름을 가린 도해를 보고 구조 이름을 입력합니다. 한글의 다른 표기와 영문명도 정답으로 인정합니다.'));
+        stage.append(button(Math.min(10, items.length) + '문제 시작', () => begin(items, 10, false), {class: 'learning-primary'})); return;
+      }
+      if (session.index >= session.questions.length) {
+        stage.append(node('h3', '구조 식별을 마쳤어요', {tabindex: '-1'}), node('p', session.questions.length + '문제 중 ' + session.correct + '문제 정답', {class: 'learning-result'}));
+        stage.append(button('다시 시작', restart, {class: 'learning-primary'})); return;
+      }
+      const q = session.questions[session.index];
+      stage.append(node('p', q.category + ' · ' + (session.index + 1) + ' / ' + session.questions.length, {class: 'learning-eyebrow'}), node('h3', q.prompt, {tabindex: '-1'}));
+      if (q.context) stage.append(node('p', q.context, {class: 'learning-prompt'}));
+      if (q.diagram) stage.append(picture(q.diagram, '강조된 해부 구조를 식별하는 도해'));
+      function submit(value) {
+        if (session.answered) return;
+        session.answered = true;
+        session.selected = answerMatches(q, value) ? q.answer : -1;
+        if (recordAnswer(progress, q, session.selected)) session.correct += 1;
+        save(); render();
+        const feedback = stage.querySelector('.learning-feedback'); if (feedback) feedback.focus({preventScroll: true});
+      }
+      if (!session.answered) {
+        const form = node('form', undefined, {class: 'learning-answer-form'});
+        const label = node('label', '구조 이름', {for: 'learning-structure-answer'});
+        const input = node('input', undefined, {id: 'learning-structure-answer', type: 'text', autocomplete: 'off', placeholder: '한글 또는 영문명'});
+        form.append(label, input, node('button', '답 확인', {type: 'submit', class: 'learning-primary'}));
+        form.addEventListener('submit', event => { event.preventDefault(); submit(input.value); });
+        stage.append(form, button('모르겠어요 · 정답 보기', () => submit('')));
+      } else {
+        const feedback = node('div', undefined, {class: 'learning-feedback', tabindex: '-1'});
+        feedback.append(node('strong', session.selected === q.answer ? '정답이에요.' : '구조 이름을 다시 확인해 보세요.'), node('p', q.explanation), node('p', '인정하는 표기: ' + q.acceptedAnswers.join(' · ')), sourceLink(q.source));
+        stage.append(feedback, button(session.index + 1 === session.questions.length ? '결과 보기' : '다음 문제 →', () => { session.index += 1; session.answered = false; render(); focusHeading(); }, {class: 'learning-primary'}));
+      }
+      stage.append(button('구조 식별 선택으로 돌아가기', restart));
+    }
     function render() {
       stage.replaceChildren();
       if (!deck) return;
       updateStats();
-      if (mode === 'quiz' || mode === 'wrong') renderQuiz(); else renderCards();
+      if (mode === 'identify') renderIdentify(); else if (mode === 'quiz' || mode === 'wrong') renderQuiz(); else renderCards();
     }
     async function load() {
       const seq = ++view.seq;
@@ -269,6 +323,12 @@
         const loaded = await deckFor(subject);
         if (!view.alive || seq !== view.seq || !root.isConnected) return;
         deck = loaded;
+        modeSelect.replaceChildren();
+        const modes = [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']];
+        if (subject === 'anatomy') modes.splice(2, 0, ['identify', '구조 이름 직접 입력']);
+        if (subject !== 'anatomy' && mode === 'identify') mode = 'cards';
+        for (const [value, title] of modes) modeSelect.append(node('option', title, {value}));
+        modeSelect.value = mode;
         category.replaceChildren(node('option', '전체 단원', {value: ''}));
         for (const c of new Set(deck.cards.map(c => c.category))) category.append(node('option', c, {value: c}));
         filters.removeAttribute('inert'); status.textContent = ''; render();
@@ -283,6 +343,7 @@
     modeSelect.addEventListener('change', () => { mode = modeSelect.value; restart(); });
     load();
   }
+  global.addEventListener?.('hashchange', revealSource);
   if (global.document$ && global.document$.subscribe) global.document$.subscribe(init);
   else if (global.document.readyState === 'loading') global.document.addEventListener('DOMContentLoaded', init);
   else init();

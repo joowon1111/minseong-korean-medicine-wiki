@@ -8,11 +8,11 @@ extra_javascript:
   - assets/korean-search-185.js?v=20261002
   - assets/donguibogam/bootstrap.js
   - assets/acupoint-atlas/explorer.js
-  - assets/learning/learning.js?v=20261002-3
+  - assets/learning/learning.js?v=20261002-4
 extra_css:
 - assets/extra.css
 - assets/acupoint-atlas/explorer.css
-- assets/learning/learning.css?v=20261002-3
+- assets/learning/learning.css?v=20261002-4
 - stylesheets/portal.css
 - assets/korean-search-185.css
 - assets/donguibogam/reader.css
@@ -1044,6 +1044,7 @@ nav:
   - portal/maps.md
   - "기초 한의학 퀴즈 & 학습실":
     - learning/index.md
+    - 기초 해부학 카드·구조 식별: learning/anatomy.md
     - 경혈학 카드·위치 퀴즈: learning/acupoints.md
     - 침구학 개념·해설 퀴즈: learning/acupuncture.md
     - 본초학 효능·생약명 복습: learning/herbs.md

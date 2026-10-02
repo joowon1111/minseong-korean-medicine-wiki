@@ -16,7 +16,7 @@ from atomic_output import write_bytes
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'docs'
 OUT = DOCS / 'assets/learning'
-SUBJECTS = {'acupoints': '경혈학', 'acupuncture': '침구학', 'herbs': '본초학', 'formulas': '방제학'}
+SUBJECTS = {'anatomy': '기초 해부학', 'acupoints': '경혈학', 'acupuncture': '침구학', 'herbs': '본초학', 'formulas': '방제학'}
 
 
 def clean(value):
@@ -305,6 +305,129 @@ def shuffled(items, seed):
     return sorted(items, key=lambda x: hashlib.sha256((seed + str(x)).encode()).hexdigest())
 
 
+def anatomy_cards():
+    data = json.loads((ROOT / 'data/anatomy_learning.json').read_text())
+    atlas = json.loads((ROOT / 'data/mps_atlas.json').read_text())
+    result = []
+    aliases = {'sternocleidomastoid': ['목빗근', 'SCM'], 'masseter': ['깨물근'], 'temporalis': ['관자근'],
+               'lateral-pterygoid': ['가쪽날개근'], 'supraspinatus': ['가시위근'], 'infraspinatus': ['가시아래근'],
+               'rhomboids': ['마름근군', '능형근'], 'pectoralis-minor': ['작은가슴근'], 'serratus-anterior': ['앞톱니근'],
+               'ecrb': ['짧은노쪽손목폄근', 'ECRB'], 'pronator-teres': ['원엎침근'],
+               'flexor-carpi-radialis': ['노쪽손목굽힘근', 'FCR'], 'quadratus-lumborum': ['허리네모근'],
+               'multifidus': ['허리뭇갈래근', '요부 뭇갈래근'], 'erector-spinae': ['척주세움근군', '척추기립근'],
+               'gluteus-medius': ['중간볼기근'], 'gluteus-minimus': ['작은볼기근'], 'piriformis': ['궁둥구멍근'],
+               'gluteus-maximus': ['큰볼기근'], 'rectus-femoris': ['넙다리곧은근'], 'vastus-medialis': ['안쪽넓은근'],
+               'hamstrings': ['햄스트링', 'Hamstring muscle group'], 'adductor-longus': ['긴모음근'],
+               'gastrocnemius': ['장딴지근'], 'soleus': ['넙치근'], 'tibialis-anterior': ['앞정강근'],
+               'tibialis-posterior': ['뒤정강근']}
+    for region in atlas['regions']:
+        for muscle in region['muscles']:
+            identifier = 'anatomy-muscle-' + muscle['id']
+            c = card(identifier, muscle['name'], '근육 · ' + region['title'],
+                     [('영문명', muscle['en']), ('주요 부착', muscle['attachments']), ('주요 작용', muscle['function']), ('신경지배', muscle['nerve'])],
+                     'learning/anatomy.md', f"{muscle['name']}의 부착·작용·신경지배를 떠올려 보세요.")
+            c.update(source=c['source'] + '#' + identifier, anatomyKind='muscle',
+                     aliases=list(dict.fromkeys([muscle['name']] + muscle['en'].split(' · ') + aliases.get(muscle['id'], []))),
+                     identify=muscle['attachments'] + ' / 작용: ' + muscle['function'],
+                     references=[{'title': title, 'url': link} for title, link in region['sources']],
+                     relatedSource=f"/clinical-anatomy/mps-{region['id']}/#{muscle['id']}",
+                     diagram=f"/assets/mps-atlas/{region['id']}.svg#{muscle['id']}",
+                     quizDiagram=f"/assets/learning/anatomy-diagrams/{region['id']}.svg#{muscle['id']}")
+            result.append(c)
+    tissue_diagrams = {'skin', 'subcutaneous', 'deep-fascia', 'epimysium', 'perimysium', 'endomysium', 'skeletal-muscle'}
+    for record in data['structures']:
+        identifier = 'anatomy-' + record['id']
+        c = card(identifier, record['name'], record['category'],
+                 [('영문명', record['en'])] + [(f['label'], f['value']) for f in record['facts']],
+                 'learning/anatomy.md', f"{record['name']}의 위치·연결·식별 기준은?")
+        c.update(source=c['source'] + '#' + identifier, anatomyKind=record['kind'],
+                 aliases=list(dict.fromkeys(record['aliases'])), identify=record['identify'],
+                 references=[data['sources'][key] for key in record['references']])
+        short_id = record['id'].removeprefix('tissue-')
+        if short_id in tissue_diagrams:
+            c.update(quizDiagram=f"/assets/learning/anatomy-diagrams/tissue-layers.svg#{short_id}",
+                     diagram='/assets/mps-atlas/tissue-layers.svg#title')
+        result.append(c)
+    return result
+
+
+def anatomy_questions(cards):
+    questions = []
+    for c in cards:
+        pool = [other for other in cards if other['anatomyKind'] == c['anatomyKind']]
+        for f in c['facts']:
+            q = make_question(c, f['label'], pool)
+            if q:
+                questions.append(q)
+        choices = shuffled([c] + shuffled([p for p in pool if p['id'] != c['id']], c['id'])[:3], c['id'] + 'identify')
+        assert len(choices) == 4
+        base = {'cardId': c['id'], 'category': c['category'], 'answer': choices.index(c), 'source': c['source'],
+                'options': [{'text': p['title'], 'owner': p['title'], 'ownerId': p['id'], 'source': p['source']} for p in choices],
+                'acceptedAnswers': c['aliases'], 'explanation': c['title'] + ' — ' + c['identify']}
+        # Self-referencing prose remains useful on a card but is excluded from name recall.
+        if not any(normalized(a) in normalized(c['identify']) for a in c['aliases']):
+            questions.append(dict(base, id=c['id'] + '-identify', kind='identify',
+                                  prompt='다음 해부학적 설명에 해당하는 구조는?', context=c['identify']))
+        if c.get('quizDiagram'):
+            questions.append(dict(base, id=c['id'] + '-diagram', kind='diagram',
+                                  prompt='도해에서 주황색으로 강조된 구조는?', diagram=c['quizDiagram'],
+                                  context='이름 표시를 가린 교육용 개념 도해입니다. 구조의 기본 관계를 보고 답하세요.'))
+    return questions
+
+
+def blank_anatomy_diagrams():
+    ns = '{http://www.w3.org/2000/svg}'
+    ET.register_namespace('', 'http://www.w3.org/2000/svg')
+    atlas = json.loads((ROOT / 'data/mps_atlas.json').read_text())
+    for region in atlas['regions']:
+        tree = ET.fromstring((DOCS / 'assets/mps-atlas' / (region['id'] + '.svg')).read_text())
+        for parent in list(tree.iter()):
+            for child in list(parent):
+                if child.tag in (ns + 'text', ns + 'title', ns + 'desc'):
+                    parent.remove(child)
+        for link in tree.iter(ns + 'a'):
+            link.tag = ns + 'g'
+            for key in ('href', 'target', 'aria-label'):
+                link.attrib.pop(key, None)
+            for child in list(link):
+                if child.attrib.get('class') == 'button':
+                    link.remove(child)
+        title = ET.Element(ns + 'title', {'id': 'title'}); title.text = '기초 해부학 · 구조 식별'
+        desc = ET.Element(ns + 'desc', {'id': 'desc'}); desc.text = '주황색으로 강조된 구조의 이름을 말하세요. 해부 관계를 단순화한 자체 제작 개념도입니다.'
+        tree.insert(0, title); tree.insert(1, desc)
+        for y, text in [(43, region['title'] + ' · 구조 식별'), (74, '주황색으로 강조된 구조를 확인하세요.'),
+                        (613, '패널별로 층·관점을 나눈 개념도 · 실제 해부사진·현미경 사진과 다릅니다.')]:
+            node = ET.SubElement(tree, ns + 'text', {'x': '28', 'y': str(y), 'font-size': '22' if y == 43 else '15'})
+            node.text = text
+        write_bytes(OUT / 'anatomy-diagrams' / (region['id'] + '.svg'), ET.tostring(tree, encoding='utf-8', xml_declaration=True))
+    # Existing layer diagram: only the relevant layer or membrane is highlighted.
+    tree = ET.fromstring((DOCS / 'assets/mps-atlas/tissue-layers.svg').read_text())
+    for parent in list(tree.iter()):
+        for child in list(parent):
+            if child.tag in (ns + 'text', ns + 'title', ns + 'desc'):
+                parent.remove(child)
+    layers = {'166': 'skin', '194': 'subcutaneous', '268': 'deep-fascia', '293': 'epimysium', '314': 'skeletal-muscle'}
+    for node in list(tree):
+        identifier = None
+        if node.tag == ns + 'rect' and node.attrib.get('x') == '49':
+            identifier = layers.get(node.attrib.get('y'))
+        elif node.tag == ns + 'circle' and node.attrib.get('cx') == '634' and node.attrib.get('cy') == '261':
+            identifier = 'perimysium'
+        elif node.tag == ns + 'circle' and node.attrib.get('cx') == '620' and node.attrib.get('cy') == '248':
+            identifier = 'endomysium'
+        if identifier:
+            wrapper = ET.Element(ns + 'g', {'id': identifier, 'class': 'study-target'})
+            position = list(tree).index(node); tree.remove(node); wrapper.append(node); tree.insert(position, wrapper)
+    style = ET.SubElement(tree, ns + 'style'); style.text = '.study-target:target>rect{fill:#e2a17b;stroke:#a54b28;stroke-width:4}.study-target:target>circle{stroke:#a54b28;stroke-width:8}'
+    title = ET.SubElement(tree, ns + 'title', {'id': 'title'}); title.text = '조직층·근육 내부 결합조직 식별'
+    desc = ET.SubElement(tree, ns + 'desc', {'id': 'desc'}); desc.text = '주황색으로 강조된 층이나 테두리의 이름을 말하세요.'
+    for y, label in [(43, '조직층 · 구조 식별'), (74, '주황색 층 또는 주황색 테두리가 감싸는 범위를 확인하세요.'),
+                     (142, '왼쪽: 체표에서 근육까지 / 오른쪽: 근육·다발·근섬유 관계'),
+                     (632, '실제 조직표본 사진이 아닌 자체 제작 개념도입니다.')]:
+        node = ET.SubElement(tree, ns + 'text', {'x': '28', 'y': str(y), 'font-size': '20' if y == 43 else '15'}); node.text = label
+    write_bytes(OUT / 'anatomy-diagrams/tissue-layers.svg', ET.tostring(tree, encoding='utf-8', xml_declaration=True))
+
+
 def make_question(c, label, pool, kind='fact', prompt=None):
     fact = next(f for f in c['facts'] if f['label'] == label)
     value = fact['value']
@@ -439,13 +562,13 @@ def validate(decks):
 
 
 def build():
-    builders = {'acupoints': acupoints, 'acupuncture': acupuncture_cards, 'herbs': herb_cards, 'formulas': formula_cards}
+    builders = {'anatomy': anatomy_cards, 'acupoints': acupoints, 'acupuncture': acupuncture_cards, 'herbs': herb_cards, 'formulas': formula_cards}
     decks = {}
     for subject, builder in builders.items():
         cards = builder()
         if subject == 'herbs':
             cards.extend(herb_comparison_cards())
-        decks[subject] = {'schema': 1, 'subject': subject, 'title': SUBJECTS[subject], 'cards': cards, 'questions': quizzes(subject, cards)}
+        decks[subject] = {'schema': 1, 'subject': subject, 'title': SUBJECTS[subject], 'cards': cards, 'questions': anatomy_questions(cards) if subject == 'anatomy' else quizzes(subject, cards)}
     validate(decks)
     return decks
 
@@ -454,11 +577,12 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-3', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261002-4', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
     blank_diagrams()
+    blank_anatomy_diagrams()
     for subject, deck in decks.items():
         path = DOCS / 'learning' / (subject + '.md')
         if not path.exists():
@@ -473,10 +597,20 @@ def main():
         for category, cards in groups.items():
             lines.extend(['<details markdown="1">', f'<summary>{category} · {len(cards)}개 카드</summary>', ''])
             for c in cards:
+                if subject == 'anatomy':
+                    lines.extend([f'<span id="{c["id"]}"></span>', ''])
                 lines.extend([f"**{c['title']}**", ''])
                 for fact in c['facts']:
                     lines.append(f"- **{fact['label']}:** {fact['value']}")
-                lines.extend(['', f"[원문에서 확인]({c['source']})", ''])
+                if subject == 'anatomy':
+                    lines.extend(['', '- **다른 표기:** ' + ' · '.join(c['aliases']), '',
+                                  f"[이 구조의 학습 요약]({c['source']})"])
+                    if c.get('relatedSource'):
+                        lines.append(f"[부위별 임상해부학]({c['relatedSource']})")
+                    lines.append('참고: ' + ' · '.join(f"[{ref['title']}]({ref['url']})" for ref in c['references']))
+                    lines.append('')
+                else:
+                    lines.extend(['', f"[원문에서 확인]({c['source']})", ''])
             lines.extend(['</details>', ''])
         lines.append('<!-- STUDY_DIRECTORY_END -->\n')
         write_bytes(path, (text + '\n'.join(lines)).encode())

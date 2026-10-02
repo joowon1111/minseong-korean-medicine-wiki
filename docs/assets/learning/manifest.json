@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "version": "20261002-3",
+  "version": "20261002-4",
   "subjects": [
+    {
+      "id": "anatomy",
+      "title": "기초 해부학",
+      "cards": 157,
+      "questions": 750,
+      "file": "anatomy.json"
+    },
     {
       "id": "acupoints",
       "title": "경혈학",

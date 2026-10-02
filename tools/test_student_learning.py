@@ -14,7 +14,7 @@ class StudentLearning(unittest.TestCase):
         cls.decks = study.build()
 
     def test_complete_decks_and_committed_build_agree(self):
-        expected = {'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
+        expected = {'anatomy': 157, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
         manifest = json.loads((study.OUT / 'manifest.json').read_text())
         for subject, deck in self.decks.items():
             self.assertEqual(len(deck['cards']), expected[subject])
@@ -64,6 +64,37 @@ class StudentLearning(unittest.TestCase):
             self.assertEqual(tree.find(ns + 'desc').text, '경혈 위치 연습 — 붉은 점의 위치를 확인하세요.')
             self.assertFalse(any(re.search(r'\b[A-Z]{2}\d+\b', n.text or '') for n in tree.iter(ns + 'text')))
         self.assertEqual(sum(q['kind'] == 'diagram' for q in self.decks['acupoints']['questions']), 361)
+
+    def test_anatomy_identification_and_layer_targets_are_unambiguous(self):
+        deck = self.decks['anatomy']
+        by_id = {c['id']: c for c in deck['cards']}
+        self.assertEqual(sum(c['anatomyKind'] == 'muscle' for c in deck['cards']), 50)
+        self.assertEqual(sum(q['kind'] == 'diagram' for q in deck['questions']), 37)
+        text = (study.DOCS / 'learning/anatomy.md').read_text()
+        ns = '{http://www.w3.org/2000/svg}'
+        for c in deck['cards']:
+            self.assertIn(f'id="{c["id"]}"', text)
+            self.assertTrue(c['references'])
+        for q in deck['questions']:
+            if q['kind'] == 'fact':
+                continue
+            self.assertEqual(q['acceptedAnswers'], by_id[q['cardId']]['aliases'])
+            self.assertEqual(q['options'][q['answer']]['ownerId'], q['cardId'])
+            if q['kind'] == 'identify':
+                self.assertFalse(any(study.normalized(a) in study.normalized(q['context']) for a in q['acceptedAnswers']))
+        for path in (study.OUT / 'anatomy-diagrams').glob('*.svg'):
+            tree = ET.fromstring(path.read_text())
+            self.assertFalse(list(tree.iter(ns + 'a')))
+            labels = ' '.join(n.text or '' for n in tree.iter(ns + 'text'))
+            for c in deck['cards']:
+                if c.get('quizDiagram', '').split('#')[0].endswith(path.name):
+                    self.assertNotIn(c['title'], labels)
+            self.assertFalse(any(n.attrib.get('aria-label') for n in tree.iter()))
+        tissue = ET.fromstring((study.OUT / 'anatomy-diagrams/tissue-layers.svg').read_text())
+        layers = {n.attrib['id']: n for n in tissue.iter() if n.attrib.get('class') == 'study-target'}
+        self.assertEqual(set(layers), {'skin', 'subcutaneous', 'deep-fascia', 'epimysium', 'perimysium', 'endomysium', 'skeletal-muscle'})
+        self.assertEqual(layers['perimysium'][0].attrib['r'], '45')
+        self.assertEqual(layers['endomysium'][0].attrib['r'], '12')
 
     def test_source_parser_does_not_mix_comparator_and_study_tables(self):
         cards = self.decks['acupuncture']['cards']
