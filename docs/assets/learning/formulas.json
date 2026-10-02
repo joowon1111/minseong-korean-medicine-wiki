@@ -18309,36 +18309,38 @@
       "context": "사군자탕 → 육군자탕 → 향사육군자탕을 해당 수록본의 배합 관계로 읽는다.",
       "options": [
         {
-          "text": "보기건비 → 반하·진피의 화담강역 → 목향·사인의 이기화습",
-          "detail": "기본 보기축에 담·기체·습의 축을 단계별로 더해 읽었다.",
+          "text": "보기건비 → 반하·진피 → 목향·사인의 이기화습",
+          "detail": "사군자 골격에 화담강역축을 더한 육군자, 다시 방향성 이기화습을 더한 향사육군자의 관계를 읽었다.",
           "owner": "정답 근거",
           "ownerId": "formula-liujunzi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-01"
         },
         {
-          "text": "보기건비 → 대황·망초의 공하 → 목향·사인의 청열",
-          "detail": "육군자탕의 화담과 향사의 역할을 다른 효능으로 바꾸었다.",
+          "text": "보기건비 → 목향·사인 → 반하·진피의 화담강역",
+          "detail": "추가 약재의 역할은 가깝지만 육군자 단계와 향사육군자 단계의 순서가 바뀌었다.",
           "owner": "오답 감별",
           "ownerId": "formula-liujunzi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-01"
         },
         {
-          "text": "보혈 → 반하·진피의 보혈 → 목향·사인의 자음",
-          "detail": "사군자 계통의 출발과 추가 축이 모두 다르다.",
+          "text": "보기건비 → 반하·복령 → 목향·사인의 이기화습",
+          "detail": "복령은 이미 사군자탕 골격에 있어 육군자탕에 새로 더하는 두 약은 반하·진피이다.",
           "owner": "오답 감별",
           "ownerId": "formula-liujunzi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-01"
         },
         {
-          "text": "보기건비 → 목향·사인 → 반하·진피",
-          "detail": "육군자와 향사육군자의 추가 배합 순서를 바꾸었다.",
+          "text": "보기건비 → 반하·진피 → 향부자·사인의 이기화습",
+          "detail": "앞 단계는 맞지만 이 수록본 향사육군자의 향은 향부자가 아니라 목향이다.",
           "owner": "오답 감별",
           "ownerId": "formula-liujunzi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-01"
         }
       ],
       "answer": 0,
-      "explanation": "육군자탕 — 기본 보기축에 담·기체·습의 축을 단계별로 더해 읽었다.",
+      "explanation": "육군자탕 — 사군자 골격에 화담강역축을 더한 육군자, 다시 방향성 이기화습을 더한 향사육군자의 관계를 읽었다.",
+      "discriminator": "이미 기본방에 있던 약과 새로 추가되는 약을 구별한다.",
+      "nearestWrong": 2,
       "kind": "advanced",
       "category": "비위·소화·온중·변비",
       "source": "/learning/formulas/#advanced-formulas-high-01",
@@ -18352,36 +18354,38 @@
       "context": "각각 인삼·백출·자감초를 공유한다. 사군자에는 복령, 이중에는 건강이 있다.",
       "options": [
         {
-          "text": "이중탕의 건강은 단지 맛을 바꾸는 부재료",
-          "detail": "건강의 온중산한을 치료축에서 제외했다.",
+          "text": "복령·건강의 차이로 기체창만의 비중을 더 평가",
+          "detail": "기허 공통축에 한 약 차이를 더하지만 핵심은 기체보다 복령의 삼습과 건강의 온중산한이다.",
           "owner": "오답 감별",
           "ownerId": "formula-lizhong-tang",
           "source": "/learning/formulas/#advanced-formulas-high-02"
         },
         {
-          "text": "복령의 건비삼습과 건강의 온중산한 차이로 중초허한 여부를 더 봄",
-          "detail": "보기의 공통점에 조습·온중의 다른 배합축을 붙였다.",
+          "text": "복령·건강의 차이로 중초허한의 비중을 더 평가",
+          "detail": "사군자·이중의 공유 보기축에 수습 조절과 온중산한의 차이를 더해 읽는다.",
           "owner": "정답 근거",
           "ownerId": "formula-lizhong-tang",
           "source": "/learning/formulas/#advanced-formulas-high-02"
         },
         {
-          "text": "복령은 공하, 건강은 청열이므로 리실의 두 강도를 비교",
-          "detail": "두 약의 중심 효능과 처방 병기가 다르다.",
+          "text": "복령·건강의 차이로 혈허윤조의 비중을 더 평가",
+          "detail": "공통 보기 골격의 한 약 차이는 혈허윤조를 주축으로 한 비교가 아니다.",
           "owner": "오답 감별",
           "ownerId": "formula-lizhong-tang",
           "source": "/learning/formulas/#advanced-formulas-high-02"
         },
         {
-          "text": "약재 수가 같으므로 같은 처방·같은 병기",
-          "detail": "약미 수가 같아도 구성·방의는 달라진다.",
+          "text": "복령·건강의 차이로 식적리실의 비중을 더 평가",
+          "detail": "두 방의 공통 인삼·백출·자감초는 허약축이며 한 약 차이를 실적 공하의 차이로 바꿀 수 없다.",
           "owner": "오답 감별",
           "ownerId": "formula-lizhong-tang",
           "source": "/learning/formulas/#advanced-formulas-high-02"
         }
       ],
       "answer": 1,
-      "explanation": "이중탕 — 보기의 공통점에 조습·온중의 다른 배합축을 붙였다.",
+      "explanation": "이중탕 — 사군자·이중의 공유 보기축에 수습 조절과 온중산한의 차이를 더해 읽는다.",
+      "discriminator": "보기 공통축에서 복령의 삼습과 건강의 온중산한이 감별점이다.",
+      "nearestWrong": 0,
       "kind": "advanced",
       "category": "비위·소화·온중·변비",
       "source": "/learning/formulas/#advanced-formulas-high-02",
@@ -18395,36 +18399,38 @@
       "context": "황련·황금, 건강, 반하, 인삼·대조·감초를 각각의 축으로 읽는다.",
       "options": [
         {
-          "text": "반하가 있으므로 이진탕과 동일한 조성",
-          "detail": "공통 약 한 개로 전체 조성·병기를 같게 만들었다.",
+          "text": "고한 청열·신온 온중·강역산비·하기공하",
+          "detail": "앞의 세 역할은 맞지만 인삼·대조·감초의 주된 배합 역할은 중초 지지이지 공하가 아니다.",
           "owner": "오답 감별",
           "ownerId": "formula-banxia-xiexin-tang",
           "source": "/learning/formulas/#advanced-formulas-high-03"
         },
         {
-          "text": "건강이 있으므로 고한약의 역할은 없어짐",
-          "detail": "서로 다른 약의 배합 역할을 상쇄 계산으로 삭제했다.",
+          "text": "고한 청열·신온 온중·보혈윤조·중초 지지",
+          "detail": "다른 묶음은 가깝지만 반하의 강역산비를 보혈윤조로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-banxia-xiexin-tang",
           "source": "/learning/formulas/#advanced-formulas-high-03"
         },
         {
-          "text": "고한 청열·신온 온중·강역산비·중초 지지의 결합",
-          "detail": "찬 약과 더운 약은 역할을 분담하며 단순 평균 온도로 방의를 정하지 않는다.",
+          "text": "고한 청열·신온 온중·강역산비·중초 지지",
+          "detail": "각 약군의 다른 역할이 한열착잡·비증이라는 전체 방의에 함께 참여한다.",
           "owner": "정답 근거",
           "ownerId": "formula-banxia-xiexin-tang",
           "source": "/learning/formulas/#advanced-formulas-high-03"
         },
         {
-          "text": "모든 약이 동일한 공하 역할을 수행",
-          "detail": "심하비의 화위·강역·중초 지지와 맞지 않는다.",
+          "text": "고한 강역·신온 청열·강역산비·중초 지지",
+          "detail": "반하·보익축은 맞지만 황련·황금과 건강의 한열 역할을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-banxia-xiexin-tang",
           "source": "/learning/formulas/#advanced-formulas-high-03"
         }
       ],
       "answer": 2,
-      "explanation": "반하사심탕 — 찬 약과 더운 약은 역할을 분담하며 단순 평균 온도로 방의를 정하지 않는다.",
+      "explanation": "반하사심탕 — 각 약군의 다른 역할이 한열착잡·비증이라는 전체 방의에 함께 참여한다.",
+      "discriminator": "반하가 공통인 다른 방과 구별하려면 청열·온중·중초 지지의 전체 골격을 본다.",
+      "nearestWrong": 0,
       "kind": "advanced",
       "category": "비위·소화·온중·변비",
       "source": "/learning/formulas/#advanced-formulas-high-03",
@@ -18438,36 +18444,38 @@
       "context": "오령산·저령탕·진무탕을 순서대로 배합축에 연결한다.",
       "options": [
         {
-          "text": "부자의 온양 / 계지의 통양 / 활석·아교의 청열",
-          "detail": "세 처방의 차이 약재를 순환해 바꾸었다.",
+          "text": "계지의 통양기화 / 부자의 온양 / 활석·아교의 음분 고려",
+          "detail": "오령산은 맞지만 저령탕과 진무탕의 추가 한열·음분 배합을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhuling-tang",
           "source": "/learning/formulas/#advanced-formulas-high-04"
         },
         {
-          "text": "아교의 양음 / 부자의 온양 / 계지의 기화",
-          "detail": "저령탕·진무탕·오령산의 배합을 제시 순서와 다르게 연결했다.",
+          "text": "활석·아교의 음분 고려 / 계지의 통양기화 / 부자의 온양",
+          "detail": "진무탕은 맞지만 오령산과 저령탕의 계지·활석·아교 배정이 반대이다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhuling-tang",
           "source": "/learning/formulas/#advanced-formulas-high-04"
         },
         {
-          "text": "세 방 모두 부자 온양이 중심",
-          "detail": "오령산·저령탕에 진무탕의 핵심 약을 일반화했다.",
+          "text": "계지의 통양기화 / 활석·아교의 음분 고려 / 계지의 통양화음",
+          "detail": "앞의 두 방은 맞지만 진무탕의 결정적 온양약은 부자이며 계지가 없다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhuling-tang",
           "source": "/learning/formulas/#advanced-formulas-high-04"
         },
         {
-          "text": "계지의 통양기화 / 활석·아교의 청열·음분 고려 / 부자의 온양",
-          "detail": "같은 수습·배뇨 맥락에서도 기화불리·수열음손·양허의 차이가 있다.",
+          "text": "계지의 통양기화 / 활석·아교의 음분 고려 / 부자의 온양",
+          "detail": "이수 공통점에 오령산의 기화, 저령탕의 청열·음분, 진무탕의 온양을 더했다.",
           "owner": "정답 근거",
           "ownerId": "formula-zhuling-tang",
           "source": "/learning/formulas/#advanced-formulas-high-04"
         }
       ],
       "answer": 3,
-      "explanation": "저령탕 — 같은 수습·배뇨 맥락에서도 기화불리·수열음손·양허의 차이가 있다.",
+      "explanation": "저령탕 — 이수 공통점에 오령산의 기화, 저령탕의 청열·음분, 진무탕의 온양을 더했다.",
+      "discriminator": "이수라는 공통 효능보다 계지·아교·부자의 차이 약재를 비교한다.",
+      "nearestWrong": 2,
       "kind": "advanced",
       "category": "수습·부종·배뇨",
       "source": "/learning/formulas/#advanced-formulas-high-04",
@@ -18478,39 +18486,41 @@
       "cardId": "formula-zhuye-shigao-tang",
       "difficulty": "high",
       "prompt": "병후 시점에 현재 병기를 더해 감별한 것은?",
-      "context": "열병 뒤 여열·기음손상·기역이 남았다. 단순 기음양허의 생맥산과 비교한다.",
+      "context": "열병 뒤 여열·기음손상·기역이 남았다. 단순 기음양허의 생맥산과 비교한다. 문헌의 허리소기·기역욕토가 남은 회복기이며 대열·대갈이 중심인 단계는 아니다.",
       "options": [
         {
-          "text": "죽엽석고탕의 청여열·익기생진·위기 조절축",
-          "detail": "병후라는 시점뿐 아니라 남은 열과 구역·섭취 상태를 함께 설명한다.",
+          "text": "죽엽석고탕: 청여열·익기생진·강역화위",
+          "detail": "병후 여열·기음손상·기역이 함께 남은 문맥을 해당 배합축에 연결했다.",
           "owner": "정답 근거",
           "ownerId": "formula-zhuye-shigao-tang",
           "source": "/learning/formulas/#advanced-formulas-high-05"
         },
         {
-          "text": "생맥산에 석고·죽엽이 본래 포함되어 완전히 동일",
-          "detail": "생맥산의 인삼·맥문동·오미자 골격과 다르다.",
+          "text": "백호가인삼탕: 청기열·익기생진·대갈 조절",
+          "detail": "청열·익기는 가깝지만 심한 기열·대갈이 중심인 경우와 병후 허리소기·기역욕토의 회복기 문맥을 구별한다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhuye-shigao-tang",
           "source": "/learning/formulas/#advanced-formulas-high-05"
         },
         {
-          "text": "황련해독탕의 삼초실열만으로 회복축까지 동일",
-          "detail": "여열과 기음손상·위기불화의 복합 축을 놓쳤다.",
+          "text": "생맥산: 익기양음·렴음지한·생진 회복",
+          "detail": "기음 보완은 공유하지만 여열 청해와 반하 등을 이용한 기역 조절축이 다르다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhuye-shigao-tang",
           "source": "/learning/formulas/#advanced-formulas-high-05"
         },
         {
-          "text": "병후 피로가 있으면 모든 청열약을 무조건 제외",
-          "detail": "남은 열과 회복을 동시에 고려한 배합을 지워 버렸다.",
+          "text": "맥문동탕: 양음윤조·강역하기·인후 조절",
+          "detail": "윤음·강역은 가까우나 죽엽·석고의 병후 여열 청해축과 제시한 문헌 단계가 다르다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhuye-shigao-tang",
           "source": "/learning/formulas/#advanced-formulas-high-05"
         }
       ],
       "answer": 0,
-      "explanation": "죽엽석고탕 — 병후라는 시점뿐 아니라 남은 열과 구역·섭취 상태를 함께 설명한다.",
+      "explanation": "죽엽석고탕 — 병후 여열·기음손상·기역이 함께 남은 문맥을 해당 배합축에 연결했다.",
+      "discriminator": "병후 기음손상만 아니라 여열 청해와 기역 조절이 함께 필요한지를 비교한다.",
+      "nearestWrong": 1,
       "kind": "advanced",
       "category": "청열·습열·온병·피부",
       "source": "/learning/formulas/#advanced-formulas-high-05",
@@ -18524,36 +18534,38 @@
       "context": "이진탕과 온담탕을 비교한다. 단순 강도 서열이 아닌 추가 약재와 방의를 묻는다.",
       "options": [
         {
-          "text": "같은 반하가 있으므로 두 방은 모든 수록본에서 동일",
-          "detail": "약 한 개의 공통점은 전체 조성의 동일성 근거가 아니다.",
+          "text": "죽여·지실 추가: 화담축에 온양산한을 더함",
+          "detail": "추가 약미는 맞지만 죽여·지실의 청담·강역·산비 비중을 부자의 온양축처럼 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-erchen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-06"
         },
         {
-          "text": "온담탕의 죽여·지실 등을 통한 청담·강역·산비의 비중",
-          "detail": "공통 화담이기 골격에 담울·심번을 읽는 배합 차이를 붙였다.",
+          "text": "죽여·지실 추가: 화담축에 청담·강역·산비를 더함",
+          "detail": "이진 골격에 담울·심번을 읽는 추가 배합을 더한 것으로 단순 강도 서열이 아니다.",
           "owner": "정답 근거",
           "ownerId": "formula-erchen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-06"
         },
         {
-          "text": "온담탕은 이진탕에 부자만 추가해 온양",
-          "detail": "다른 온양방의 배합을 온담탕의 차이로 제시했다.",
+          "text": "황련·지실 추가: 화담축에 청열·강역·산비를 더함",
+          "detail": "역할은 가깝지만 황련온담탕 등 가감의 성분을 기본 온담탕 구성에 넣었다.",
           "owner": "오답 감별",
           "ownerId": "formula-erchen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-06"
         },
         {
-          "text": "온담탕은 이진탕에서 모든 이기약을 제거",
-          "detail": "온담탕에도 이기·강역의 구조가 남는다.",
+          "text": "죽여·산조인 추가: 화담축에 양혈·청담을 더함",
+          "detail": "수면이라는 주증에 가려 산조인을 기본 온담탕의 차이 약재로 잘못 넣었다.",
           "owner": "오답 감별",
           "ownerId": "formula-erchen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-06"
         }
       ],
       "answer": 1,
-      "explanation": "이진탕 — 공통 화담이기 골격에 담울·심번을 읽는 배합 차이를 붙였다.",
+      "explanation": "이진탕 — 이진 골격에 담울·심번을 읽는 추가 배합을 더한 것으로 단순 강도 서열이 아니다.",
+      "discriminator": "기본 온담탕과 후대 가감방의 추가 약미를 구별한다.",
+      "nearestWrong": 2,
       "kind": "advanced",
       "category": "담음·기체·안신",
       "source": "/learning/formulas/#advanced-formulas-high-06",
@@ -18567,36 +18579,38 @@
       "context": "시호·황금 화해축과 리실 조절축을 비교한다. 대황을 포함하는 수록본을 전제로 한다.",
       "options": [
         {
-          "text": "시호·황금은 대시호탕에서 모두 제거",
-          "detail": "두 방의 공통 화해축을 삭제했다.",
+          "text": "작약·지실·대황 추가 / 인삼 유지·감초 제거",
+          "detail": "리실축은 맞지만 이 비교의 대시호탕은 인삼·감초가 모두 빠지는 구성이다.",
           "owner": "오답 감별",
           "ownerId": "formula-dachaihu-tang",
           "source": "/learning/formulas/#advanced-formulas-high-07"
         },
         {
-          "text": "대황이 있어도 리실·복부 소견은 고려 불필요",
-          "detail": "추가 공하축을 병증 감별과 연결해야 한다.",
+          "text": "작약·지실·대황 추가 / 인삼 제거·감초 유지",
+          "detail": "추가 약미는 맞지만 소시호탕의 감초를 그대로 남겼다.",
           "owner": "오답 감별",
           "ownerId": "formula-dachaihu-tang",
           "source": "/learning/formulas/#advanced-formulas-high-07"
         },
         {
-          "text": "작약·지실·대황의 리실축과 인삼·감초 유무까지 전체 구성 비교",
-          "detail": "대시호탕은 소시호탕에 대황만 더한 방으로 설명되지 않는다.",
+          "text": "작약·지실·대황 추가 / 인삼·감초 제거",
+          "detail": "대황 포함 수록본에서 추가 리실축과 빠지는 보익약을 함께 비교했다.",
           "owner": "정답 근거",
           "ownerId": "formula-dachaihu-tang",
           "source": "/learning/formulas/#advanced-formulas-high-07"
         },
         {
-          "text": "인삼·감초는 반드시 그대로이고 대황만 추가",
-          "detail": "주요 구성 차이를 놓친 단순 가산 설명이다.",
+          "text": "작약·지실·망초 추가 / 인삼·감초 제거",
+          "detail": "빠지는 약미는 맞지만 대황을 망초로 바꿔 대시호탕의 해당 구성을 달리 만들었다.",
           "owner": "오답 감별",
           "ownerId": "formula-dachaihu-tang",
           "source": "/learning/formulas/#advanced-formulas-high-07"
         }
       ],
       "answer": 2,
-      "explanation": "대시호탕 — 대시호탕은 소시호탕에 대황만 더한 방으로 설명되지 않는다.",
+      "explanation": "대시호탕 — 대황 포함 수록본에서 추가 리실축과 빠지는 보익약을 함께 비교했다.",
+      "discriminator": "추가 약재 세 개뿐 아니라 소시호탕에서 빠지는 인삼·감초를 확인한다.",
+      "nearestWrong": 1,
       "kind": "advanced",
       "category": "화해·공하",
       "source": "/learning/formulas/#advanced-formulas-high-07",
@@ -18610,36 +18624,38 @@
       "context": "독활기생탕에서 독활·방풍, 상기생·두충, 우슬, 인삼·당귀 등의 역할을 나눈다.",
       "options": [
         {
-          "text": "모든 약은 강한 공하만 수행",
-          "detail": "풍습·간신·기혈의 서로 다른 배합축을 지웠다.",
+          "text": "거풍습 + 간신근골 + 활혈하행 + 청열사화",
+          "detail": "앞의 세 축은 가깝지만 인삼·당귀 등의 기혈 회복축을 청열사화로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-duhuo-jisheng-tang",
           "source": "/learning/formulas/#advanced-formulas-high-08"
         },
         {
-          "text": "두충·우슬은 독활과 동일한 해표 역할만 수행",
-          "detail": "근골 보완·혈과 하행의 역할을 풍습 배합과 구별하지 않았다.",
+          "text": "거풍습 + 통양화음 + 활혈하행 + 기혈 회복",
+          "detail": "대부분의 역할은 맞지만 상기생·두충의 간신근골 보완을 영계출감 계열의 통양화음으로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-duhuo-jisheng-tang",
           "source": "/learning/formulas/#advanced-formulas-high-08"
         },
         {
-          "text": "인삼·당귀가 있어 풍습을 푸는 약은 존재하지 않음",
-          "detail": "보익축과 거풍습축은 같은 처방 안에 함께 있다.",
+          "text": "해표산한 + 간신근골 + 수렴고삽 + 기혈 회복",
+          "detail": "일부 온산·보익은 공유하지만 독활·방풍의 풍습비 문맥과 우슬의 활혈하행이 바뀌었다.",
           "owner": "오답 감별",
           "ownerId": "formula-duhuo-jisheng-tang",
           "source": "/learning/formulas/#advanced-formulas-high-08"
         },
         {
-          "text": "거풍습 + 간신근골 보완 + 활혈하행 + 기혈 회복",
-          "detail": "사기를 풀면서 오래된 병정의 허손을 받치는 복합 구조이다.",
+          "text": "거풍습 + 간신근골 + 활혈하행 + 기혈 회복",
+          "detail": "풍한습비와 허손이 겹치는 방에서 약군의 분담을 함께 읽었다.",
           "owner": "정답 근거",
           "ownerId": "formula-duhuo-jisheng-tang",
           "source": "/learning/formulas/#advanced-formulas-high-08"
         }
       ],
       "answer": 3,
-      "explanation": "독활기생탕 — 사기를 풀면서 오래된 병정의 허손을 받치는 복합 구조이다.",
+      "explanation": "독활기생탕 — 풍한습비와 허손이 겹치는 방에서 약군의 분담을 함께 읽었다.",
+      "discriminator": "공통 온산약 이름보다 풍습·근골·활혈·기혈이라는 네 역할 묶음을 확인한다.",
+      "nearestWrong": 0,
       "kind": "advanced",
       "category": "통증·풍습·활혈",
       "source": "/learning/formulas/#advanced-formulas-high-08",
@@ -18653,36 +18669,38 @@
       "context": "사물탕, 팔물탕, 십전대보탕의 대표 배합 관계를 비교한다.",
       "options": [
         {
-          "text": "사물 보혈화혈 / 팔물에 사군자 보기축 / 십전에 황기·육계",
-          "detail": "기혈양허 골격과 추가 보기·온양 방향을 순서대로 연결했다.",
+          "text": "사물 보혈 / 팔물에 사군자 / 십전에 황기·육계",
+          "detail": "보혈에서 기혈쌍보로, 다시 보기·온양 비중을 더하는 대표 배합 관계이다.",
           "owner": "정답 근거",
           "ownerId": "formula-bazhen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-09"
         },
         {
-          "text": "사물 보기 / 팔물에 대승기 공하 / 십전에 황기·육계",
-          "detail": "출발 골격과 팔물의 구성 관계가 다르다.",
+          "text": "사물 보혈 / 팔물에 사군자 / 십전에 황기·계지",
+          "detail": "앞의 두 관계는 맞지만 이 비교 수록본의 십전대보탕은 육계를 사용하며 계지로 바꿔 적지 않는다.",
           "owner": "오답 감별",
           "ownerId": "formula-bazhen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-09"
         },
         {
           "text": "사물 보혈 / 팔물에 황기·육계 / 십전에 사군자",
-          "detail": "팔물과 십전의 배합 단계 순서를 바꾸었다.",
+          "detail": "추가 약재·약군은 가깝지만 팔물과 십전 단계의 순서가 바뀌었다.",
           "owner": "오답 감별",
           "ownerId": "formula-bazhen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-09"
         },
         {
-          "text": "사물·팔물·십전은 약재 수만 다르고 방의는 동일",
-          "detail": "보기·보혈·온통의 추가 축을 구분하지 않았다.",
+          "text": "사물 보혈 / 팔물에 육군자 / 십전에 황기·육계",
+          "detail": "십전의 추가축은 맞지만 팔물의 보기 골격은 반하·진피 없는 사군자탕이다.",
           "owner": "오답 감별",
           "ownerId": "formula-bazhen-tang",
           "source": "/learning/formulas/#advanced-formulas-high-09"
         }
       ],
       "answer": 0,
-      "explanation": "팔물탕 — 기혈양허 골격과 추가 보기·온양 방향을 순서대로 연결했다.",
+      "explanation": "팔물탕 — 보혈에서 기혈쌍보로, 다시 보기·온양 비중을 더하는 대표 배합 관계이다.",
+      "discriminator": "비슷한 이름의 보기 기본방과 계지·육계의 차이를 확인한다.",
+      "nearestWrong": 1,
       "kind": "advanced",
       "category": "보기·기혈·회복",
       "source": "/learning/formulas/#advanced-formulas-high-09",
@@ -18696,36 +18714,38 @@
       "context": "소청룡탕과 마행감석탕을 비교한다. 전자는 표한·수음, 후자는 폐열·천의 배합 문맥이다.",
       "options": [
         {
-          "text": "기침이 있으므로 두 방은 진액·객담 평가 없이 교환",
-          "detail": "한음·폐열 및 음액 상태가 감별 조건이다.",
+          "text": "소청룡: 건강·세신의 한음축 / 마행감석: 황금의 폐열축",
+          "detail": "소청룡은 맞지만 마행감석탕의 청폐열 차이 약재는 석고이며 황금이 아니다.",
           "owner": "오답 감별",
           "ownerId": "formula-maxing-ganshi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-10"
         },
         {
-          "text": "소청룡은 건강·세신·오미자 등 한음축 / 마행감석은 석고의 청폐열축",
-          "detail": "마황의 공통점보다 차이를 만드는 배합과 한열·수음 맥락을 읽는다.",
+          "text": "소청룡: 건강·세신의 한음축 / 마행감석: 석고의 폐열축",
+          "detail": "마황 공통점에 한음과 폐열이라는 다른 전체 배합축을 더했다.",
           "owner": "정답 근거",
           "ownerId": "formula-maxing-ganshi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-10"
         },
         {
-          "text": "마황이 있으므로 두 방 모두 순수 표한만 다룸",
-          "detail": "마황의 존재만으로 석고 배합의 폐열 방향을 지웠다.",
+          "text": "소청룡: 석고의 폐열축 / 마행감석: 건강·세신의 한음축",
+          "detail": "두 방의 차이 약미와 한열 방향을 서로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-maxing-ganshi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-10"
         },
         {
-          "text": "소청룡의 석고 / 마행감석의 건강·세신",
-          "detail": "두 방의 차이 약재를 반대로 붙였다.",
+          "text": "소청룡: 생강·세신의 한음축 / 마행감석: 석고의 폐열축",
+          "detail": "마행감석은 맞지만 소청룡의 해당 기본 구성은 건강이며 생강과 포제 상태가 다르다.",
           "owner": "오답 감별",
           "ownerId": "formula-maxing-ganshi-tang",
           "source": "/learning/formulas/#advanced-formulas-high-10"
         }
       ],
       "answer": 1,
-      "explanation": "마행감석탕 — 마황의 공통점보다 차이를 만드는 배합과 한열·수음 맥락을 읽는다.",
+      "explanation": "마행감석탕 — 마황 공통점에 한음과 폐열이라는 다른 전체 배합축을 더했다.",
+      "discriminator": "같은 마황이 있어도 석고 유무와 생강·건강·세신의 배합을 비교한다.",
+      "nearestWrong": 0,
       "kind": "advanced",
       "category": "외감·호흡·이비인후",
       "source": "/learning/formulas/#advanced-formulas-high-10",
@@ -18739,36 +18759,38 @@
       "context": "송본 계열 구성: 대승기 대황·후박·지실·망초, 소승기 대황·후박·지실, 조위승기 대황·망초·감초를 비교한다.",
       "options": [
         {
-          "text": "대승기는 연견·제만 결합 / 소승기는 망초 없이 하기 / 조위는 후박·지실 없이 조위",
-          "detail": "각 구성의 포함·제외가 다른 축을 만들며 임상 선택은 조문 조건까지 읽는다.",
+          "text": "대승기: 망초·제만 / 소승기: 무망초·제만 / 조위: 망초·무제만약",
+          "detail": "망초의 연견과 후박·지실의 하기제만 두 축을 세 방에 정확히 배정했다.",
           "owner": "정답 근거",
           "ownerId": "formula-dachengqi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-01"
         },
         {
-          "text": "소승기는 망초 포함 / 조위는 망초 제외",
-          "detail": "두 처방의 망초 유무를 바꾸었다.",
+          "text": "대승기: 망초·제만 / 소승기: 망초·제만 / 조위: 무망초·무제만약",
+          "detail": "대승기는 맞지만 소승기·조위승기의 망초 유무를 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-dachengqi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-01"
         },
         {
-          "text": "대승기는 감초 포함 / 조위는 후박·지실 포함",
-          "detail": "조위의 감초와 대승기의 제만축을 서로 옮겼다.",
+          "text": "대승기: 망초·무제만약 / 소승기: 무망초·제만 / 조위: 망초·제만",
+          "detail": "소승기는 맞지만 대승기·조위승기의 후박·지실 유무가 반대이다.",
           "owner": "오답 감별",
           "ownerId": "formula-dachengqi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-01"
         },
         {
-          "text": "약미가 많을수록 어떤 변비에도 반드시 더 적합",
-          "detail": "약미 수는 원문의 하법 조건·허실 평가를 대신하지 않는다.",
+          "text": "대승기: 망초·제만 / 소승기: 무망초·무제만약 / 조위: 망초·제만",
+          "detail": "대승기는 맞지만 소승기·조위승기의 하기제만 약군을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-dachengqi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-01"
         }
       ],
       "answer": 0,
-      "explanation": "대승기탕 — 각 구성의 포함·제외가 다른 축을 만들며 임상 선택은 조문 조건까지 읽는다.",
+      "explanation": "대승기탕 — 망초의 연견과 후박·지실의 하기제만 두 축을 세 방에 정확히 배정했다.",
+      "discriminator": "대황 공통점보다 망초와 후박·지실의 유무를 두 축으로 비교한다.",
+      "nearestWrong": 2,
       "kind": "advanced",
       "category": "화해·공하",
       "source": "/learning/formulas/#advanced-formulas-expert-01",
@@ -18782,36 +18804,38 @@
       "context": "소건중탕을 계지탕의 작약 증량·교이 배합으로 읽고, 황기건중탕 및 이중탕과 비교한다.",
       "options": [
         {
-          "text": "교이가 들어가면 계지·작약의 역할은 없어짐",
-          "detail": "추가 배합이 기존 완급·영위 조절 역할을 자동 소거하지 않는다.",
+          "text": "소건중: 계지탕·교이 / 황기건중: 황기 / 이중: 건강·인삼",
+          "detail": "큰 골격은 가깝지만 소건중에서 작약의 증량까지 함께 확인해야 계지탕과 차이가 드러난다.",
           "owner": "오답 감별",
           "ownerId": "formula-xiaojianzhong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-02"
         },
         {
-          "text": "작약·교이의 완급건중, 황기는 보기 추가; 이중은 건강 중심 온중 골격",
-          "detail": "이름의 건중·이중 공통점보다 실제 계지탕 계통과 온중 기본방을 구별했다.",
+          "text": "소건중: 작약 증량·교이 / 황기건중: 황기 / 이중: 건강·인삼",
+          "detail": "계지탕 계통의 완급건중과 황기의 보기 추가, 이중의 온중보기 골격을 나눴다.",
           "owner": "정답 근거",
           "ownerId": "formula-xiaojianzhong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-02"
         },
         {
-          "text": "소건중은 이중탕에 황기만 추가 / 황기건중은 계지 제거",
-          "detail": "기본 계통과 파생방의 구성 관계가 다르다.",
+          "text": "소건중: 작약 증량·교이 / 황기건중: 인삼 / 이중: 건강·황기",
+          "detail": "소건중은 맞지만 황기건중의 추가약과 이중의 보기약을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-xiaojianzhong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-02"
         },
         {
-          "text": "소건중은 계지탕에 대황·망초 추가 / 이중은 공하",
-          "detail": "완급·온중을 승기탕의 공하축으로 바꾸었다.",
+          "text": "소건중: 작약 증량·감초 / 황기건중: 황기 / 이중: 건강·인삼",
+          "detail": "다른 방의 추가축은 맞지만 감초는 계지탕에도 있어 소건중의 새 교이 배합을 대신하지 못한다.",
           "owner": "오답 감별",
           "ownerId": "formula-xiaojianzhong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-02"
         }
       ],
       "answer": 1,
-      "explanation": "소건중탕 — 이름의 건중·이중 공통점보다 실제 계지탕 계통과 온중 기본방을 구별했다.",
+      "explanation": "소건중탕 — 계지탕 계통의 완급건중과 황기의 보기 추가, 이중의 온중보기 골격을 나눴다.",
+      "discriminator": "기존 약미가 있는지, 그 양을 바꾸는지, 새 약미를 추가하는지를 구별한다.",
+      "nearestWrong": 0,
       "kind": "advanced",
       "category": "비위·소화·온중·변비",
       "source": "/learning/formulas/#advanced-formulas-expert-02",
@@ -18822,39 +18846,41 @@
       "cardId": "formula-liu-wei-dihuang-wan",
       "difficulty": "expert",
       "prompt": "보익과 수습·열 조절의 두 묶음을 맞춘 것은?",
-      "context": "육미지황환의 지황·산수유·산약과 택사·복령·목단피를 비교하고 팔미지황환으로 이어 읽는다.",
+      "context": "육미지황환의 지황·산수유·산약과 택사·복령·목단피를 비교하고 팔미지황환으로 이어 읽는다. 팔미의 추가 약미는 송본 계열 금궤요략 수록본을 기준으로 한다.",
       "options": [
         {
-          "text": "육미는 순수 보익만 있어 택사·복령·목단피를 생략해도 동일",
-          "detail": "조절축을 삭제하면 실제 조성이 바뀐다.",
+          "text": "지황·산수유·산약: 보익 / 택사·복령·목단피: 보익 / 팔미: 계지·부자",
+          "detail": "팔미 추가약은 맞지만 뒤 묶음의 수습·열 조절이라는 보중유사의 역할을 지웠다.",
           "owner": "오답 감별",
           "ownerId": "formula-liu-wei-dihuang-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-03"
         },
         {
-          "text": "팔미는 모든 판본에서 육계이며 계지 표기는 오류",
-          "detail": "계지·육계의 수록본·원료 차이를 확인해야 하며 일괄 오류로 단정하지 않는다.",
+          "text": "지황·산수유·산약: 보익 / 택사·복령·목단피: 수습·열 / 팔미: 육계·부자",
+          "detail": "육미의 역할은 맞지만 이 문제의 송본 계열 팔미 구성은 계지를 명시하므로 육계로 자동 바꾸지 않는다.",
           "owner": "오답 감별",
           "ownerId": "formula-liu-wei-dihuang-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-03"
         },
         {
-          "text": "앞 묶음은 보익, 뒤 묶음은 수습·열 조절; 팔미의 계지·부자는 온양축",
-          "detail": "육미의 보익·조절 병행과 팔미의 온양 추가를 모두 구별했다.",
+          "text": "지황·산수유·산약: 보익 / 택사·복령·목단피: 수습·열 / 팔미: 계지·부자",
+          "detail": "육미의 두 역할 묶음과 해당 팔미 수록본의 온양 추가축을 함께 맞췄다.",
           "owner": "정답 근거",
           "ownerId": "formula-liu-wei-dihuang-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-03"
         },
         {
-          "text": "앞 묶음은 공하, 뒤 묶음은 보기; 팔미의 대황·망초는 온양",
-          "detail": "약재 역할과 팔미 추가약이 모두 다르다.",
+          "text": "지황·산수유·산약: 수습·열 / 택사·복령·목단피: 보익 / 팔미: 계지·부자",
+          "detail": "팔미 추가약은 맞지만 육미의 보익·수습·열 조절 역할 묶음이 반대이다.",
           "owner": "오답 감별",
           "ownerId": "formula-liu-wei-dihuang-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-03"
         }
       ],
       "answer": 2,
-      "explanation": "육미지황환 — 육미의 보익·조절 병행과 팔미의 온양 추가를 모두 구별했다.",
+      "explanation": "육미지황환 — 육미의 두 역할 묶음과 해당 팔미 수록본의 온양 추가축을 함께 맞췄다.",
+      "discriminator": "육미의 보중유사와 송본 계열 팔미의 계지 표기를 함께 확인한다.",
+      "nearestWrong": 1,
       "kind": "advanced",
       "category": "보음·보양·신허",
       "source": "/learning/formulas/#advanced-formulas-expert-03",
@@ -18868,36 +18894,38 @@
       "context": "영계출감탕의 복령·계지·백출·감초와 진무탕의 복령·작약·백출·생강·부자를 대조한다.",
       "options": [
         {
-          "text": "진무는 영계출감에 부자만 더하므로 나머지는 같음",
-          "detail": "작약·생강과 계지·감초의 실제 포함·제외를 놓쳤다.",
+          "text": "영계출감: 계지·감초 / 진무: 작약·생강·부자 / 두 방 통양화음",
+          "detail": "성분 차이는 맞지만 진무의 부자 온양·수기내정이라는 무게를 영계출감과 같은 축으로만 읽었다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhenwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-04"
         },
         {
-          "text": "복령·백출을 공유하므로 한열·양허 감별은 불필요",
-          "detail": "공통 이수건비 약미가 온양 강도·병증 조건을 대체하지 않는다.",
+          "text": "영계출감: 작약·감초 / 진무: 계지·생강·부자 / 통양·온양 분리",
+          "detail": "방의 차이는 가깝지만 실제 두 방의 작약·계지 소속이 반대이다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhenwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-04"
         },
         {
-          "text": "영계출감의 작약·부자와 진무의 계지·감초가 차이",
-          "detail": "두 방의 차이 약재를 반대로 붙였다.",
+          "text": "영계출감: 계지·감초 / 진무: 작약·건강·부자 / 통양·온양 분리",
+          "detail": "영계출감과 방의는 맞지만 진무의 해당 기본 구성은 생강이며 건강과 다르다.",
           "owner": "오답 감별",
           "ownerId": "formula-zhenwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-04"
         },
         {
-          "text": "영계출감은 통양화음, 진무는 부자 온양·수기내정과 신체 변화의 축",
-          "detail": "진무는 영계출감에 부자만 더한 조성이 아니며 감초·계지 유무 등도 다르다.",
+          "text": "영계출감: 계지·감초 / 진무: 작약·생강·부자 / 통양·온양 분리",
+          "detail": "복령·백출 공통점에 남은 약미의 차이와 두 방의 통양화음·부자 온양축을 연결했다.",
           "owner": "정답 근거",
           "ownerId": "formula-zhenwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-04"
         }
       ],
       "answer": 3,
-      "explanation": "진무탕 — 진무는 영계출감에 부자만 더한 조성이 아니며 감초·계지 유무 등도 다르다.",
+      "explanation": "진무탕 — 복령·백출 공통점에 남은 약미의 차이와 두 방의 통양화음·부자 온양축을 연결했다.",
+      "discriminator": "복령·백출 외의 교체 약미와 생강·건강을 함께 확인한다.",
+      "nearestWrong": 2,
       "kind": "advanced",
       "category": "수습·부종·배뇨",
       "source": "/learning/formulas/#advanced-formulas-expert-04",
@@ -18911,36 +18939,38 @@
       "context": "맥문동탕에는 맥문동의 윤음축과 반하의 강역축이 함께 있다. 생맥산과도 비교한다.",
       "options": [
         {
-          "text": "윤음과 강역의 역할 분담이며 생맥산의 오미자 수렴축과 구별",
-          "detail": "한 약의 조습 성질로 배합 전체를 삭제하지 않고 비율·병증·구성을 함께 읽는다.",
+          "text": "맥문동탕: 윤음·반하 강역 / 생맥산: 오미자 수렴",
+          "detail": "윤음과 강역의 역할 분담을 유지하고 생맥산의 익기양음·수렴 골격과 구별했다.",
           "owner": "정답 근거",
           "ownerId": "formula-maidong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-05"
         },
         {
-          "text": "반하가 있으면 맥문동의 윤음 작용은 전혀 없음",
-          "detail": "서로 다른 역할의 배합을 완전 상쇄로 계산했다.",
+          "text": "맥문동탕: 윤음·오미자 수렴 / 생맥산: 반하 강역",
+          "detail": "같은 기음·폐위 맥락 안에서 반하와 오미자의 소속을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-maidong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-05"
         },
         {
-          "text": "생맥산에도 반하가 본래 있으므로 같은 처방",
-          "detail": "생맥산의 인삼·맥문동·오미자 골격과 맥문동탕의 조성은 다르다.",
+          "text": "맥문동탕: 윤음·반하 강역 / 생맥산: 오미자 청열",
+          "detail": "맥문동탕과 성분 소속은 맞지만 생맥산의 오미자는 청열보다 수렴축으로 읽는다.",
           "owner": "오답 감별",
           "ownerId": "formula-maidong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-05"
         },
         {
-          "text": "맥문동이 있으면 반하의 강역 역할도 양음으로 바뀜",
-          "detail": "같은 처방 안에서 각 약재의 역할을 같게 만들었다.",
+          "text": "맥문동탕: 윤음·반하 온양 / 생맥산: 오미자 수렴",
+          "detail": "생맥산은 맞지만 반하의 강역을 부자 계열의 온양축으로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-maidong-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-05"
         }
       ],
       "answer": 0,
-      "explanation": "맥문동탕 — 한 약의 조습 성질로 배합 전체를 삭제하지 않고 비율·병증·구성을 함께 읽는다.",
+      "explanation": "맥문동탕 — 윤음과 강역의 역할 분담을 유지하고 생맥산의 익기양음·수렴 골격과 구별했다.",
+      "discriminator": "음분 보완 공통점에 반하의 강역과 오미자의 수렴을 더한다.",
+      "nearestWrong": 2,
       "kind": "advanced",
       "category": "외감·호흡·이비인후",
       "source": "/learning/formulas/#advanced-formulas-expert-05",
@@ -18954,36 +18984,38 @@
       "context": "귀비탕·온담탕·천왕보심단을 심비기혈양허, 담울·심번, 음혈부족·허번의 세 문맥에 연결한다.",
       "options": [
         {
-          "text": "수면 증상이 같으면 식욕·기력·흉민·건조는 감별에 불필요",
-          "detail": "기혈·담·음손을 나누는 추가 단서가 바로 이런 소증·겸증이다.",
+          "text": "귀비: 보기양혈 / 온담: 양음안신 / 천왕: 화담이기",
+          "detail": "귀비는 맞지만 담울·심번과 음혈부족·허번의 두 축을 서로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-guibi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-06"
         },
         {
-          "text": "귀비 보기양혈 / 온담 화담이기 / 천왕 양음혈·안신",
-          "detail": "같은 수면 문제에서도 처방 전체의 출발 병기와 배합축이 다르다.",
+          "text": "귀비: 보기양혈 / 온담: 화담이기 / 천왕: 양음안신",
+          "detail": "불면이라는 주증에 비위·기혈, 담·기역, 음혈·허번의 다른 병기를 연결했다.",
           "owner": "정답 근거",
           "ownerId": "formula-guibi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-06"
         },
         {
-          "text": "귀비 화담 / 온담 양음혈 / 천왕 보기양혈",
-          "detail": "세 처방의 상대적 배합 중심을 순환해 바꾸었다.",
+          "text": "귀비: 양음안신 / 온담: 화담이기 / 천왕: 보기양혈",
+          "detail": "온담은 맞지만 귀비·천왕의 기혈 보완과 음혈 보완 비중이 반대이다.",
           "owner": "오답 감별",
           "ownerId": "formula-guibi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-06"
         },
         {
-          "text": "원지가 있으면 모두 같은 기혈양허 처방",
-          "detail": "공통 안신약 하나로 다른 병기·조성을 동일화했다.",
+          "text": "귀비: 화담이기 / 온담: 보기양혈 / 천왕: 양음안신",
+          "detail": "천왕은 맞지만 귀비·온담의 대표 역할 묶음을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-guibi-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-06"
         }
       ],
       "answer": 1,
-      "explanation": "귀비탕 — 같은 수면 문제에서도 처방 전체의 출발 병기와 배합축이 다르다.",
+      "explanation": "귀비탕 — 불면이라는 주증에 비위·기혈, 담·기역, 음혈·허번의 다른 병기를 연결했다.",
+      "discriminator": "같은 안신약을 공유해도 비위기혈·담울·음혈이라는 기본 골격을 구별한다.",
+      "nearestWrong": 2,
       "kind": "advanced",
       "category": "보기·기혈·회복",
       "source": "/learning/formulas/#advanced-formulas-expert-06",
@@ -18997,36 +19029,38 @@
       "context": "A는 황기·당귀의 원방 상대비를 기록한 당귀보혈탕, B는 두 약이 포함된 복합 엑스제이다. B의 나머지 성분·비율은 미확인이다.",
       "options": [
         {
-          "text": "A의 문헌 비율은 B의 임상 효과 크기도 결정",
-          "detail": "배합비의 기록과 사람의 효과 추정은 별도 자료가 필요하다.",
+          "text": "원방 상대비 확인 / 복합제는 두 약의 함량으로 원방 효과 추정",
+          "detail": "두 약 함량만으로 미확인 추가 성분·제형·대상의 영향을 제거할 수 없다.",
           "owner": "오답 감별",
           "ownerId": "formula-danggui-buxue-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-07"
         },
         {
-          "text": "B가 엑스제이면 A와의 구성 비교 자체가 불가능",
-          "detail": "동일성은 보류하되 원료·비율·추출 노출을 구분해 비교할 수 있다.",
+          "text": "원방 상대비 확인 / 복합제는 총량 일치로 원방 조성 추정",
+          "detail": "총량이 같아도 두 약의 상대비와 나머지 성분의 존재는 별도이다.",
           "owner": "오답 감별",
           "ownerId": "formula-danggui-buxue-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-07"
         },
         {
-          "text": "A의 상대비·원료·제형을 확인하며 B는 별도 복합방으로 기록",
-          "detail": "공통 두 약으로 전체 조성·노출·현대 효과를 동일하게 만들지 않는다.",
+          "text": "원방 상대비·원료·제형 확인 / 복합제는 별도 구성으로 기록",
+          "detail": "원방 비율이라는 사실과 두 약이 들어간 복합제의 동일성·임상효과를 구분한다.",
           "owner": "정답 근거",
           "ownerId": "formula-danggui-buxue-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-07"
         },
         {
-          "text": "두 약만 공통이면 B도 원방 당귀보혈탕",
-          "detail": "다른 성분·비율·추출 규격을 확인하지 않았다.",
+          "text": "원방 상대비·원료 확인 / 복합제는 같은 약명으로 동일방 분류",
+          "detail": "기원 확인만으로 미확인 비율·추가 약미·추출 규격을 같은 원방으로 묶을 수 없다.",
           "owner": "오답 감별",
           "ownerId": "formula-danggui-buxue-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-07"
         }
       ],
       "answer": 2,
-      "explanation": "당귀보혈탕 — 공통 두 약으로 전체 조성·노출·현대 효과를 동일하게 만들지 않는다.",
+      "explanation": "당귀보혈탕 — 원방 비율이라는 사실과 두 약이 들어간 복합제의 동일성·임상효과를 구분한다.",
+      "discriminator": "두 공통 약미·총량·비율 일치와 전체 제제 동일성은 다르다.",
+      "nearestWrong": 0,
       "kind": "advanced",
       "category": "보기·기혈·회복",
       "source": "/learning/formulas/#advanced-formulas-expert-07",
@@ -19040,36 +19074,38 @@
       "context": "아카이브의 향사양위탕은 소음인 맥락이다. 다른 문헌의 동명 일반방 연구를 연결하려 한다.",
       "options": [
         {
-          "text": "향사라는 이름이 같으면 두 연구 대상·조성이 동일",
-          "detail": "이름만으로 체질·구성·시험물 차이를 지웠다.",
+          "text": "체질 병론·약미 확인 / 동명방 연구의 동일 적응증으로 연결",
+          "detail": "체계·성분 확인만으로 연구 대상·포제·제형까지 같다고 정할 수 없다.",
           "owner": "오답 감별",
           "ownerId": "formula-xiangsha-yangwei-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-08"
         },
         {
-          "text": "소음인방이면 현대 연구의 제형·대상 확인은 불필요",
-          "detail": "사상 병론 역시 실제 연구 대상·중재를 대신하지 않는다.",
+          "text": "수록본·제형 확인 / 동명방 연구의 같은 약미로 연결",
+          "detail": "동명 자료라도 실제 약미를 확인하지 않은 채 구성 같음을 가정할 수 없다.",
           "owner": "오답 감별",
           "ownerId": "formula-xiangsha-yangwei-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-08"
         },
         {
-          "text": "일반방 자료가 있으면 소음인 병론을 그대로 대체",
-          "detail": "체계가 다른 문맥을 확인 없이 서로 바꾸었다.",
+          "text": "약미·포제·제형 확인 / 일반방 병론을 소음인 분류에 적용",
+          "detail": "시험물 비교는 필요하지만 서로 다른 병론 체계를 그대로 치환하는 단계가 남는다.",
           "owner": "오답 감별",
           "ownerId": "formula-xiangsha-yangwei-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-08"
         },
         {
-          "text": "체질 병론·수록본·약미·포제·제형을 먼저 대조",
-          "detail": "이름이 같아도 사상방과 동명 일반방의 구성·대상 동일성을 확인해야 한다.",
+          "text": "체질 병론·수록본·약미·포제·제형을 대조해 별도로 연결",
+          "detail": "동명 약방을 실제 구성·체계·연구 대상과 함께 확인한 범위에서 연결한다.",
           "owner": "정답 근거",
           "ownerId": "formula-xiangsha-yangwei-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-08"
         }
       ],
       "answer": 3,
-      "explanation": "향사양위탕 — 이름이 같아도 사상방과 동명 일반방의 구성·대상 동일성을 확인해야 한다.",
+      "explanation": "향사양위탕 — 동명 약방을 실제 구성·체계·연구 대상과 함께 확인한 범위에서 연결한다.",
+      "discriminator": "조성 비교가 맞아도 사상 병론과 일반방 병론의 동일성을 자동 가정하지 않는다.",
+      "nearestWrong": 0,
       "kind": "advanced",
       "category": "비위·소화·온중·변비",
       "source": "/learning/formulas/#advanced-formulas-expert-08",
@@ -19084,35 +19120,37 @@
       "options": [
         {
           "text": "보화환 → 평위산 → 육군자탕 → 이중탕",
-          "detail": "소식·조습·보기화담·온중이라는 네 출발 병기와 배합축을 맞췄다.",
+          "detail": "식적·습체·비기허담·중초허한이라는 네 방의 중심을 순서대로 연결했다.",
           "owner": "정답 근거",
           "ownerId": "formula-baohe-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-09"
         },
         {
           "text": "평위산 → 보화환 → 육군자탕 → 이중탕",
-          "detail": "뒤 둘은 맞지만 식적과 습체의 중심을 바꾸었다.",
+          "detail": "뒤 두 방은 맞지만 앞의 식적·습체에서 보화·평위의 상대적 중심을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-baohe-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-09"
         },
         {
           "text": "보화환 → 평위산 → 이중탕 → 육군자탕",
-          "detail": "앞 둘은 맞지만 비기허담과 중초허한의 추가축을 바꾸었다.",
+          "detail": "앞 두 방은 맞지만 비기허담과 중초허한의 보기화담·온중 방향이 반대이다.",
           "owner": "오답 감별",
           "ownerId": "formula-baohe-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-09"
         },
         {
           "text": "보화환 → 육군자탕 → 평위산 → 이중탕",
-          "detail": "식적·허한은 맞지만 허약을 받치는 방과 습체 중심방을 바꾸었다.",
+          "detail": "식적·허한은 맞지만 실성 습체와 비기허담의 허실축을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-baohe-wan",
           "source": "/learning/formulas/#advanced-formulas-expert-09"
         }
       ],
       "answer": 0,
-      "explanation": "보화환 — 소식·조습·보기화담·온중이라는 네 출발 병기와 배합축을 맞췄다.",
+      "explanation": "보화환 — 식적·습체·비기허담·중초허한이라는 네 방의 중심을 순서대로 연결했다.",
+      "discriminator": "소화불편이라는 공통 주증을 식적·습체·허담·허한의 네 조건으로 좁힌다.",
+      "nearestWrong": 1,
       "kind": "advanced",
       "category": "비위·소화·온중·변비",
       "source": "/learning/formulas/#advanced-formulas-expert-09",
@@ -19126,40 +19164,132 @@
       "context": "보양환오탕과 혈부축어탕에서 도인·홍화·천궁 등 공통축을 읽는다. 처방 전체를 비교한다.",
       "options": [
         {
-          "text": "보기약이 많으면 활혈 역할은 없어짐",
-          "detail": "보기와 활혈의 병행은 이 처방 방의의 핵심이다.",
+          "text": "보양환오: 황기 보기활혈 / 혈부축어: 활혈하행을 요슬허손에 연결",
+          "detail": "첫 방은 맞지만 혈부축어의 우슬 하행을 독활기생 계열의 요슬허손 문맥으로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-buyang-huanwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-10"
         },
         {
-          "text": "보양환오는 황기 중심 보기활혈, 혈부축어는 흉격·기체어혈의 이기활혈축",
-          "detail": "공통 활혈약만으로 같은 방이라고 하지 않고 보기 비중과 상하·병위 배합을 읽는다.",
+          "text": "보양환오: 황기 보기활혈 / 혈부축어: 흉격 기체어혈 이기활혈",
+          "detail": "공통 활혈약에 각 방의 황기 중심 보기와 흉격·기체·상하 조절이라는 다른 전체 골격을 더했다.",
           "owner": "정답 근거",
           "ownerId": "formula-buyang-huanwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-10"
         },
         {
-          "text": "두 방은 도인·홍화가 있어 순수 공하방",
-          "detail": "활혈축을 승기탕의 공하축과 같게 만들었다.",
+          "text": "보양환오: 흉격 이기활혈 / 혈부축어: 황기 보기활혈",
+          "detail": "공통 활혈축은 유지했지만 두 방의 결정적 보기·병위 배정을 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-buyang-huanwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-10"
         },
         {
-          "text": "혈부축어는 황기 중심, 보양환오는 흉격 이기 중심",
-          "detail": "각 처방의 추가축을 서로 바꾸었다.",
+          "text": "보양환오: 인삼 보기활혈 / 혈부축어: 흉격 기체어혈 이기활혈",
+          "detail": "혈부축어는 맞지만 보양환오의 대표 보기 중심을 황기에서 인삼으로 바꿨다.",
           "owner": "오답 감별",
           "ownerId": "formula-buyang-huanwu-tang",
           "source": "/learning/formulas/#advanced-formulas-expert-10"
         }
       ],
       "answer": 1,
-      "explanation": "보양환오탕 — 공통 활혈약만으로 같은 방이라고 하지 않고 보기 비중과 상하·병위 배합을 읽는다.",
+      "explanation": "보양환오탕 — 공통 활혈약에 각 방의 황기 중심 보기와 흉격·기체·상하 조절이라는 다른 전체 골격을 더했다.",
+      "discriminator": "공통 도인·홍화·천궁보다 보기 중심 약재와 병위·기체축을 비교한다.",
+      "nearestWrong": 3,
       "kind": "advanced",
       "category": "통증·풍습·활혈",
       "source": "/learning/formulas/#advanced-formulas-expert-10",
       "relatedSource": "/formulas/buyang-huanwu-tang/"
+    },
+    {
+      "id": "advanced-formulas-high-11",
+      "difficulty": "high",
+      "cardId": "formula-xiaojianzhong-tang",
+      "prompt": "가장 가까운 처방과 비교해 소건중탕의 구조를 맞춘 것은?",
+      "context": "송본 계열 계지탕·계지가작약탕·소건중탕을 비교한다. 소건중탕은 계지탕 골격에서 작약의 상대 비중과 교이 포함 여부를 함께 확인한다.",
+      "options": [
+        {
+          "text": "계지탕 골격 / 작약 증량 / 교이 추가",
+          "detail": "작약의 상대 증량과 교이의 추가를 함께 읽어 계지가작약탕과도 구분한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-11"
+        },
+        {
+          "text": "계지탕 골격 / 작약 증량 / 교이 없음",
+          "detail": "계지가작약탕과 가까운 구조이나 소건중탕의 교이를 빠뜨렸다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-11"
+        },
+        {
+          "text": "계지탕 골격 / 작약 유지 / 교이 추가",
+          "detail": "교이는 맞지만 계지탕에 비해 커진 작약의 상대 비중이 빠졌다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-11"
+        },
+        {
+          "text": "계지탕 골격 / 작약 증량 / 대황 추가",
+          "detail": "계지가대황탕에 가까운 추가약으로 교이를 대신했다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-11"
+        }
+      ],
+      "answer": 0,
+      "explanation": "소건중탕 — 작약의 상대 증량과 교이의 추가를 함께 읽어 계지가작약탕과도 구분한다.",
+      "discriminator": "작약을 늘린 사실 하나로 소건중탕과 계지가작약탕을 같게 읽지 않는다.",
+      "nearestWrong": 1,
+      "kind": "advanced",
+      "category": "비위·소화·온중·변비",
+      "source": "/learning/formulas/#advanced-formulas-high-11",
+      "relatedSource": "/formulas/xiaojianzhong-tang/"
+    },
+    {
+      "id": "advanced-formulas-expert-11",
+      "difficulty": "expert",
+      "cardId": "formula-maidong-tang",
+      "prompt": "다른 법제의 제제로 바뀔 때 문헌과 연구를 연결한 것은?",
+      "context": "맥문동탕 문헌 구조는 폐위음손·기역이며 반하를 포함한다. 새 연구제품은 기존 제품과 반하 법제·추출비·실제 함량이 다르고 방명은 같다.",
+      "options": [
+        {
+          "text": "양음강역 구조 유지 / 같은 방명으로 기존 효과량 적용",
+          "detail": "문헌 구조는 유지했지만 달라진 제제 조건을 검토하지 않고 연구 효과량을 옮겼다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-maidong-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-11"
+        },
+        {
+          "text": "양음강역 구조 유지 / 법제·함량·제제별 결과 구분",
+          "detail": "배합의 음손·기역축과 실제 제품의 법제·노출 조건을 함께 보존한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-maidong-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-11"
+        },
+        {
+          "text": "조습화담 구조로 변경 / 법제·함량·제제별 결과 구분",
+          "detail": "시험물 구분은 맞지만 반하가 있다는 이유로 맥문동탕 전체를 이진탕의 중심 구조로 바꿨다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-maidong-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-11"
+        },
+        {
+          "text": "양음강역 구조 유지 / 반하 함량 일치 시 제제 동등",
+          "detail": "법제·전체 조성·추출 조건 차이를 한 약미 함량의 일치만으로 없앨 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-maidong-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-11"
+        }
+      ],
+      "answer": 1,
+      "explanation": "맥문동탕 — 배합의 음손·기역축과 실제 제품의 법제·노출 조건을 함께 보존한다.",
+      "discriminator": "개별 약미의 효능, 처방의 배합 역할, 시험 제제의 동등성을 나누어 본다.",
+      "nearestWrong": 3,
+      "kind": "advanced",
+      "category": "외감·호흡·이비인후",
+      "source": "/learning/formulas/#advanced-formulas-expert-11",
+      "relatedSource": "/formulas/maidong-tang/"
     }
   ]
 }

@@ -116,13 +116,16 @@ test('all seven subjects select advanced levels, explain answers and recover whe
     h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
     for (const level of ['high', 'expert']) {
       const levels = h.select('문제 난이도'); levels.value = level; levels.events.change();
-      assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 10문제')));
+      assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 11문제')));
     }
     h.button('10문제 풀기').events.click();
     const clue = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;
     const q = d.questions.find(q => q.context === clue && q.difficulty === 'expert');
     assert.ok(q, subject);
+    assert.ok(!all(h.root).some(e => e.textContent.includes(q.discriminator)));
     all(h.root).find(e => e.attrs['data-option'] === String((q.answer + 1) % 4)).events.click();
+    assert.ok(all(h.root).some(e => e.textContent === '결정적 감별 단서: ' + q.discriminator));
+    assert.ok(all(h.root).some(e => e.textContent === '가장 가까운 오답: ' + (q.nearestWrong + 1) + '번 — ' + q.options[q.nearestWrong].detail));
     assert.ok(all(h.root).some(e => e.textContent === '정답 근거와 오답 감별'));
     assert.ok(all(h.root).some(e => e.tagName === 'a' && e.attrs.href === q.relatedSource));
     h.select('학습 방식').value = 'wrong'; h.select('학습 방식').events.change();

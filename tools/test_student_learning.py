@@ -62,7 +62,7 @@ class StudentLearning(unittest.TestCase):
         for subject, count, cases in (('shanghanlun', 70, 36), ('sasang', 48, 24)):
             deck = self.decks[subject]
             self.assertEqual(len(deck['cards']), count)
-            self.assertEqual(len(deck['questions']), count * 3 + cases + 20)
+            self.assertEqual(len(deck['questions']), count * 3 + cases + 22)
             for c in deck['cards']:
                 facts = {f['label']: f['value'] for f in c['facts']}
                 self.assertTrue({'우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
@@ -81,7 +81,7 @@ class StudentLearning(unittest.TestCase):
             body = re.search(r'^## .*?\{#' + fragment + r'\}\n(.*?)(?=^## |\Z)', text, re.M | re.S)[1]
             self.assertEqual(row['original'], ' '.join(re.findall(r'^> (.*)', body, re.M)))
         sasang = self.decks['sasang']
-        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 20})
+        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 22})
         for key in ('soeum', 'soyang', 'taeeum', 'taeyang'):
             self.assertTrue(any(c['id'] == 'sasang-health-' + key for c in sasang['cards']))
         headings = [c for c in sasang['cards'] if c['id'].startswith('sasang-pattern-')]
@@ -251,10 +251,10 @@ class StudentLearning(unittest.TestCase):
     def test_advanced_banks_have_balanced_levels_and_complete_offline_explanations(self):
         from collections import Counter
         rows = json.loads((study.ROOT / 'data/advanced_learning.json').read_text())['questions']
-        self.assertEqual(len(rows), 140)
+        self.assertEqual(len(rows), 154)
         for subject, deck in self.decks.items():
             questions = [q for q in deck['questions'] if q['kind'] == 'advanced']
-            self.assertEqual(Counter(q['difficulty'] for q in questions), {'high': 10, 'expert': 10})
+            self.assertEqual(Counter(q['difficulty'] for q in questions), {'high': 11, 'expert': 11})
             self.assertEqual({q['answer'] for q in questions}, {0, 1, 2, 3})
             text = (study.DOCS / 'learning' / (subject + '.md')).read_text()
             self.assertEqual(text.count('<!-- ADVANCED_QUESTIONS_START -->'), 1)
@@ -262,6 +262,8 @@ class StudentLearning(unittest.TestCase):
                 self.assertIn('id="' + q['id'] + '"', text)
                 self.assertIn(q['context'], text)
                 self.assertIn(f'**정답: {q["answer"] + 1}번**', text)
+                self.assertIn(q['discriminator'], text)
+                self.assertNotEqual(q['nearestWrong'], q['answer'])
                 for o in q['options']:
                     self.assertIn(o['text'], text)
                     self.assertIn(o['detail'], text)
