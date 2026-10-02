@@ -42,10 +42,10 @@ const AXIS_ORDER={
 };
 
 const LINKS={
-"소양인":[["통합 허브","/sasang-integrated/soyangin/"],["병증 진행","/sasang-progression/soyangin/"],["처방 배합망","/sasang-formula-combination-network/soyangin-network/"]],
-"태음인":[["통합 허브","/sasang-integrated/taeeumin/"],["표리 감별","/sasang-pattern-differential/taeeumin-exterior-vs-interior/"],["처방 배합망","/sasang-formula-combination-network/taeeumin-network/"]],
-"소음인":[["통합 허브","/sasang-integrated/soeumin/"],["병증 진행","/sasang-progression/soeumin/"],["처방 배합망","/sasang-formula-combination-network/soeumin-network/"]],
-"태양인":[["통합 허브","/sasang-integrated/taeyangin/"],["해역·열격 감별","/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/"],["처방 배합망","/sasang-formula-combination-network/taeyangin-network/"]]
+"소양인":[["통합 허브","/sasang-integrated/soyangin/"],["병증 진행","/sasang-progression/soyangin/"],["처방 배합망","/sasang-formula-combination-network/soyangin-network/"],["원전·CPG 근거","/sasang-clinical-detail/pattern-source-map/"]],
+"태음인":[["통합 허브","/sasang-integrated/taeeumin/"],["표리 감별","/sasang-pattern-differential/taeeumin-exterior-vs-interior/"],["처방 배합망","/sasang-formula-combination-network/taeeumin-network/"],["원전·CPG 근거","/sasang-clinical-detail/pattern-source-map/"]],
+"소음인":[["통합 허브","/sasang-integrated/soeumin/"],["병증 진행","/sasang-progression/soeumin/"],["처방 배합망","/sasang-formula-combination-network/soeumin-network/"],["원전·CPG 근거","/sasang-clinical-detail/pattern-source-map/"]],
+"태양인":[["통합 허브","/sasang-integrated/taeyangin/"],["해역·열격 감별","/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/"],["처방 배합망","/sasang-formula-combination-network/taeyangin-network/"],["원전·CPG 근거","/sasang-clinical-detail/pattern-source-map/"]]
 };
 
 const $=id=>document.getElementById(id), c=$("sx-constitution"),a=$("sx-axis"),s=$("sx-stage"),r=$("sx-results"),m=$("sx-summary"),reset=$("sx-reset");
