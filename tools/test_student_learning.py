@@ -14,7 +14,7 @@ class StudentLearning(unittest.TestCase):
         cls.decks = study.build()
 
     def test_complete_decks_and_committed_build_agree(self):
-        expected = {'anatomy': 302, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
+        expected = {'anatomy': 457, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
         manifest = json.loads((study.OUT / 'manifest.json').read_text())
         for subject, deck in self.decks.items():
             self.assertEqual(len(deck['cards']), expected[subject])
@@ -68,7 +68,7 @@ class StudentLearning(unittest.TestCase):
     def test_anatomy_identification_and_layer_targets_are_unambiguous(self):
         deck = self.decks['anatomy']
         by_id = {c['id']: c for c in deck['cards']}
-        self.assertEqual(sum(c['anatomyKind'] == 'muscle' for c in deck['cards']), 90)
+        self.assertEqual(sum(c['anatomyKind'] == 'muscle' for c in deck['cards']), 245)
         self.assertEqual(sum(q['kind'] == 'diagram' for q in deck['questions']), 37)
         text = (study.DOCS / 'learning/anatomy.md').read_text()
         ns = '{http://www.w3.org/2000/svg}'
@@ -100,7 +100,7 @@ class StudentLearning(unittest.TestCase):
         from collections import Counter
         cards = {c['id']: c for c in self.decks['anatomy']['cards']}
         self.assertEqual(Counter(c['anatomyKind'] for c in cards.values()),
-                         {'muscle': 90, 'nerve': 62, 'bone': 70, 'vessel': 45, 'tissue': 25, 'term': 10})
+                         {'muscle': 245, 'nerve': 62, 'bone': 70, 'vessel': 45, 'tissue': 25, 'term': 10})
         for c in cards.values():
             if c['anatomyKind'] in ('muscle', 'nerve', 'bone', 'vessel'):
                 self.assertGreaterEqual(len(c['facts']), 4, c['id'])
@@ -123,6 +123,37 @@ class StudentLearning(unittest.TestCase):
         self.assertEqual(len(comparisons), 5)
         self.assertFalse(any('Hando' in c['title'] or 'Navarro' in c['title'] for c in cards))
         self.assertEqual(study.first_table('| A | B |\n|---|---|\n| x | y |\n\n### Other\n| bad | row |\n'), [['A', 'B'], ['x', 'y']])
+
+    def test_all_uams_muscle_rows_resolve_to_learnable_cards(self):
+        coverage = json.loads((study.ROOT / 'data/anatomy_muscle_coverage.json').read_text())
+        cards = {c['id']: c for c in self.decks['anatomy']['cards']}
+        self.assertEqual(len(coverage['regions']), 7)
+        self.assertEqual(len(coverage['rows']), 294)
+        self.assertEqual(len(coverage['concepts']), 240)
+        self.assertEqual(len({c['cardId'] for c in coverage['concepts'].values()}), 240)
+        for row in coverage['rows']:
+            self.assertTrue(row['cards'], row['name'])
+            for identifier in row['cards']:
+                c = cards[identifier]
+                self.assertEqual(c['anatomyKind'], 'muscle')
+                self.assertTrue(any(r['url'] == coverage['regions'][row['region']]['url'] for r in c['references']))
+                # An old collective cross-reference resolves to three distinct muscles.
+                if not row['name'].startswith('peroneus mm.'):
+                    self.assertIn(row['name'], c['aliases'])
+                self.assertTrue(any(q['cardId'] == identifier for q in self.decks['anatomy']['questions']))
+        added = [cards[c['cardId']] for c in coverage['concepts'].values() if c['status'] == 'added']
+        self.assertEqual(len(added), 155)
+        for c in added:
+            labels = {f['label'] for f in c['facts']}
+            self.assertTrue({'주요 작용', '신경지배', '대표 혈관', '식별·비교', '근육 유형'} <= labels)
+            self.assertTrue({'기시', '정지'} <= labels or {'배치·기원', '연결·층'} <= labels)
+        self.assertIn('평활근', str(cards['anatomy-internal-anal-sphincter']['facts']))
+        self.assertIn('이완', str(cards['anatomy-internal-anal-sphincter']['facts']))
+        self.assertIn('C1', str(cards['anatomy-thyrohyoid']['facts']))
+        self.assertIn('제1–2 정중신경', str(cards['anatomy-lumbricals-of-hand']['facts']))
+        self.assertIn('제1은 안쪽발바닥신경', str(cards['anatomy-lumbricals-of-foot']['facts']))
+        self.assertIn('활차신경 IV', str(cards['anatomy-superior-oblique']['facts']))
+        self.assertIn('외전신경 VI', str(cards['anatomy-lateral-rectus']['facts']))
 
     def test_selected_curriculum_facts_and_no_fabricated_uniform_fields(self):
         herbs = {c['id']: c for c in self.decks['herbs']['cards']}

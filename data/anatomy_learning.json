@@ -112,6 +112,30 @@
     "abdominal-arteries": {
       "title": "UAMS 복부 동맥 해부표",
       "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/"
+    },
+    "back-muscles": {
+      "title": "UAMS 등·뒤통수 근육 해부표",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/"
+    },
+    "pelvic-muscles": {
+      "title": "UAMS 골반·회음 근육 해부표",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/"
+    },
+    "anal-control": {
+      "title": "내항문괄약근 긴장·이완 조절 연구",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5547999/"
+    },
+    "urinary-control": {
+      "title": "하부요로 신경 조절 연구",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4480926/"
+    },
+    "lumbar-innervation": {
+      "title": "사람 허리 뒤가지 해부 연구",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7076562/"
+    },
+    "serratus-function": {
+      "title": "뒤톱니근 해부·기능 연구",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11424195/"
     }
   },
   "structures": [
@@ -154,7 +178,8 @@
       "aliases": [
         "삼각근",
         "Deltoid",
-        "어깨세모근"
+        "어깨세모근",
+        "deltoid"
       ]
     },
     {
@@ -196,7 +221,8 @@
       "aliases": [
         "상완이두근",
         "Biceps brachii",
-        "위팔두갈래근"
+        "위팔두갈래근",
+        "biceps brachii"
       ]
     },
     {
@@ -238,7 +264,8 @@
       "aliases": [
         "상완삼두근",
         "Triceps brachii",
-        "위팔세갈래근"
+        "위팔세갈래근",
+        "triceps brachii"
       ]
     },
     {
@@ -280,7 +307,8 @@
       "aliases": [
         "상완근",
         "Brachialis",
-        "위팔근"
+        "위팔근",
+        "brachialis"
       ]
     },
     {
@@ -322,7 +350,8 @@
       "aliases": [
         "상완요골근",
         "Brachioradialis",
-        "위팔노근"
+        "위팔노근",
+        "brachioradialis"
       ]
     },
     {
@@ -364,7 +393,8 @@
       "aliases": [
         "소원근",
         "Teres minor",
-        "작은원근"
+        "작은원근",
+        "teres minor"
       ]
     },
     {
@@ -406,7 +436,8 @@
       "aliases": [
         "견갑하근",
         "Subscapularis",
-        "어깨밑근"
+        "어깨밑근",
+        "subscapularis"
       ]
     },
     {
@@ -448,7 +479,8 @@
       "aliases": [
         "대원근",
         "Teres major",
-        "큰원근"
+        "큰원근",
+        "teres major"
       ]
     },
     {
@@ -485,12 +517,14 @@
         }
       ],
       "references": [
-        "upper-muscles"
+        "upper-muscles",
+        "thorax-muscles"
       ],
       "aliases": [
         "대흉근",
         "Pectoralis major",
-        "큰가슴근"
+        "큰가슴근",
+        "pectoralis major"
       ]
     },
     {
@@ -527,12 +561,14 @@
         }
       ],
       "references": [
-        "upper-muscles"
+        "upper-muscles",
+        "back-muscles"
       ],
       "aliases": [
         "광배근",
         "Latissimus dorsi",
-        "넓은등근"
+        "넓은등근",
+        "latissimus dorsi"
       ]
     },
     {
@@ -575,7 +611,8 @@
         "척측수근굴근",
         "Flexor carpi ulnaris",
         "자쪽손목굽힘근",
-        "FCU"
+        "FCU",
+        "flexor carpi ulnaris"
       ]
     },
     {
@@ -617,7 +654,8 @@
       "aliases": [
         "봉공근",
         "Sartorius",
-        "넙다리빗근"
+        "넙다리빗근",
+        "sartorius"
       ]
     },
     {
@@ -659,7 +697,8 @@
       "aliases": [
         "외측광근",
         "Vastus lateralis",
-        "가쪽넓은근"
+        "가쪽넓은근",
+        "vastus lateralis"
       ]
     },
     {
@@ -701,7 +740,8 @@
       "aliases": [
         "중간광근",
         "Vastus intermedius",
-        "중간넓은근"
+        "중간넓은근",
+        "vastus intermedius"
       ]
     },
     {
@@ -744,7 +784,9 @@
         "장비골근",
         "Fibularis longus",
         "긴종아리근",
-        "Peroneus longus"
+        "Peroneus longus",
+        "fibularis longus",
+        "fibularis (peroneus) longus"
       ]
     },
     {
@@ -781,12 +823,14 @@
         }
       ],
       "references": [
-        "lower-muscles"
+        "lower-muscles",
+        "abdominal-muscles"
       ],
       "aliases": [
         "대요근",
         "Psoas major",
-        "큰허리근"
+        "큰허리근",
+        "psoas major"
       ]
     },
     {
@@ -823,12 +867,14 @@
         }
       ],
       "references": [
-        "lower-muscles"
+        "lower-muscles",
+        "abdominal-muscles"
       ],
       "aliases": [
         "장골근",
         "Iliacus",
-        "엉덩근"
+        "엉덩근",
+        "iliacus"
       ]
     },
     {
@@ -870,7 +916,8 @@
       "aliases": [
         "반건양근",
         "Semitendinosus",
-        "반힘줄근"
+        "반힘줄근",
+        "semitendinosus"
       ]
     },
     {
@@ -912,7 +959,8 @@
       "aliases": [
         "반막양근",
         "Semimembranosus",
-        "반막근"
+        "반막근",
+        "semimembranosus"
       ]
     },
     {
@@ -954,7 +1002,8 @@
       "aliases": [
         "대퇴이두근",
         "Biceps femoris",
-        "넙다리두갈래근"
+        "넙다리두갈래근",
+        "biceps femoris"
       ]
     },
     {
@@ -4386,7 +4435,8 @@
       "aliases": [
         "오훼완근",
         "Coracobrachialis",
-        "부리위팔근"
+        "부리위팔근",
+        "coracobrachialis"
       ]
     },
     {
@@ -4424,7 +4474,8 @@
       "aliases": [
         "주근",
         "Anconeus",
-        "팔꿈치근"
+        "팔꿈치근",
+        "anconeus"
       ]
     },
     {
@@ -4462,7 +4513,8 @@
       "aliases": [
         "회외근",
         "Supinator",
-        "뒤침근"
+        "뒤침근",
+        "supinator"
       ]
     },
     {
@@ -4500,7 +4552,8 @@
       "aliases": [
         "장장근",
         "Palmaris longus",
-        "긴손바닥근"
+        "긴손바닥근",
+        "palmaris longus"
       ]
     },
     {
@@ -4539,7 +4592,8 @@
         "천지굴근",
         "Flexor digitorum superficialis",
         "얕은손가락굽힘근",
-        "FDS"
+        "FDS",
+        "flexor digitorum superficialis"
       ]
     },
     {
@@ -4578,7 +4632,8 @@
         "심지굴근",
         "Flexor digitorum profundus",
         "깊은손가락굽힘근",
-        "FDP"
+        "FDP",
+        "flexor digitorum profundus"
       ]
     },
     {
@@ -4617,7 +4672,8 @@
         "장무지굴근",
         "Flexor pollicis longus",
         "긴엄지굽힘근",
-        "FPL"
+        "FPL",
+        "flexor pollicis longus"
       ]
     },
     {
@@ -4655,7 +4711,8 @@
       "aliases": [
         "방형회내근",
         "Pronator quadratus",
-        "네모엎침근"
+        "네모엎침근",
+        "pronator quadratus"
       ]
     },
     {
@@ -4694,7 +4751,8 @@
         "장요측수근신근",
         "Extensor carpi radialis longus",
         "긴노쪽손목폄근",
-        "ECRL"
+        "ECRL",
+        "extensor carpi radialis longus"
       ]
     },
     {
@@ -4733,7 +4791,8 @@
         "척측수근신근",
         "Extensor carpi ulnaris",
         "자쪽손목폄근",
-        "ECU"
+        "ECU",
+        "extensor carpi ulnaris"
       ]
     },
     {
@@ -4771,7 +4830,8 @@
       "aliases": [
         "총지신근",
         "Extensor digitorum",
-        "손가락폄근"
+        "손가락폄근",
+        "extensor digitorum"
       ]
     },
     {
@@ -4810,7 +4870,8 @@
         "장무지신근",
         "Extensor pollicis longus",
         "긴엄지폄근",
-        "EPL"
+        "EPL",
+        "extensor pollicis longus"
       ]
     },
     {
@@ -4849,7 +4910,8 @@
         "단무지신근",
         "Extensor pollicis brevis",
         "짧은엄지폄근",
-        "EPB"
+        "EPB",
+        "extensor pollicis brevis"
       ]
     },
     {
@@ -4888,7 +4950,8 @@
         "장무지외전근",
         "Abductor pollicis longus",
         "긴엄지벌림근",
-        "APL"
+        "APL",
+        "abductor pollicis longus"
       ]
     },
     {
@@ -4926,7 +4989,8 @@
       "aliases": [
         "무지내전근",
         "Adductor pollicis",
-        "엄지모음근"
+        "엄지모음근",
+        "adductor pollicis"
       ]
     },
     {
@@ -4965,7 +5029,8 @@
         "단무지외전근",
         "Abductor pollicis brevis",
         "짧은엄지벌림근",
-        "APB"
+        "APB",
+        "abductor pollicis brevis"
       ]
     },
     {
@@ -5003,7 +5068,8 @@
       "aliases": [
         "무지대립근",
         "Opponens pollicis",
-        "엄지맞섬근"
+        "엄지맞섬근",
+        "opponens pollicis"
       ]
     },
     {
@@ -5042,7 +5108,10 @@
         "손의 배측골간근군",
         "Dorsal interossei of hand",
         "손등뼈사이근군",
-        "Dorsal interossei"
+        "Dorsal interossei",
+        "dorsal interossei of hand",
+        "dorsal interosseous (hand)",
+        "interosseous, dorsal (hand)"
       ]
     },
     {
@@ -5081,7 +5150,10 @@
         "손의 장측골간근군",
         "Palmar interossei of hand",
         "손바닥뼈사이근군",
-        "Palmar interossei"
+        "Palmar interossei",
+        "palmar interossei of hand",
+        "interosseous, palmar",
+        "palmar interosseous"
       ]
     },
     {
@@ -5120,7 +5192,8 @@
       "aliases": [
         "복직근",
         "Rectus abdominis",
-        "배곧은근"
+        "배곧은근",
+        "rectus abdominis"
       ]
     },
     {
@@ -5159,7 +5232,9 @@
       "aliases": [
         "외복사근",
         "External abdominal oblique",
-        "배바깥빗근"
+        "배바깥빗근",
+        "external abdominal oblique",
+        "oblique, external abdominal"
       ]
     },
     {
@@ -5198,7 +5273,9 @@
       "aliases": [
         "내복사근",
         "Internal abdominal oblique",
-        "배속빗근"
+        "배속빗근",
+        "internal abdominal oblique",
+        "oblique, internal abdominal"
       ]
     },
     {
@@ -5237,7 +5314,8 @@
       "aliases": [
         "복횡근",
         "Transversus abdominis",
-        "배가로근"
+        "배가로근",
+        "transversus abdominis"
       ]
     },
     {
@@ -5271,12 +5349,14 @@
       ],
       "references": [
         "abdominal-muscles",
-        "axial-muscles"
+        "axial-muscles",
+        "thorax-muscles"
       ],
       "aliases": [
         "횡격막",
         "Diaphragm",
-        "가로막"
+        "가로막",
+        "diaphragm"
       ]
     },
     {
@@ -5315,7 +5395,9 @@
       "aliases": [
         "외늑간근군",
         "External intercostals",
-        "바깥갈비사이근군"
+        "바깥갈비사이근군",
+        "external intercostals",
+        "external intercostal"
       ]
     },
     {
@@ -5353,7 +5435,8 @@
       "aliases": [
         "이복근",
         "Digastric",
-        "두힘살근"
+        "두힘살근",
+        "digastric"
       ]
     },
     {
@@ -5391,7 +5474,8 @@
       "aliases": [
         "악설골근",
         "Mylohyoid",
-        "턱목뿔근"
+        "턱목뿔근",
+        "mylohyoid"
       ]
     },
     {
@@ -5429,7 +5513,8 @@
       "aliases": [
         "경상설골근",
         "Stylohyoid",
-        "붓목뿔근"
+        "붓목뿔근",
+        "stylohyoid"
       ]
     },
     {
@@ -5467,7 +5552,8 @@
       "aliases": [
         "흉골설골근",
         "Sternohyoid",
-        "복장목뿔근"
+        "복장목뿔근",
+        "sternohyoid"
       ]
     },
     {
@@ -5505,7 +5591,9 @@
       "aliases": [
         "내측익돌근",
         "Medial pterygoid",
-        "안쪽날개근"
+        "안쪽날개근",
+        "medial pterygoid",
+        "pterygoid, medial"
       ]
     },
     {
@@ -5544,7 +5632,8 @@
         "대퇴근막장근",
         "Tensor fasciae latae",
         "넙다리근막긴장근",
-        "TFL"
+        "TFL",
+        "tensor fasciae latae"
       ]
     },
     {
@@ -5582,7 +5671,8 @@
       "aliases": [
         "박근",
         "Gracilis",
-        "두덩정강근"
+        "두덩정강근",
+        "gracilis"
       ]
     },
     {
@@ -5620,7 +5710,8 @@
       "aliases": [
         "단내전근",
         "Adductor brevis",
-        "짧은모음근"
+        "짧은모음근",
+        "adductor brevis"
       ]
     },
     {
@@ -5658,7 +5749,8 @@
       "aliases": [
         "대내전근",
         "Adductor magnus",
-        "큰모음근"
+        "큰모음근",
+        "adductor magnus"
       ]
     },
     {
@@ -5696,7 +5788,8 @@
       "aliases": [
         "슬와근",
         "Popliteus",
-        "오금근"
+        "오금근",
+        "popliteus"
       ]
     },
     {
@@ -5734,7 +5827,8 @@
       "aliases": [
         "족척근",
         "Plantaris",
-        "장딴지빗근"
+        "장딴지빗근",
+        "plantaris"
       ]
     },
     {
@@ -5773,7 +5867,9 @@
         "단비골근",
         "Fibularis brevis",
         "짧은종아리근",
-        "Peroneus brevis"
+        "Peroneus brevis",
+        "fibularis brevis",
+        "fibularis (peroneus) brevis"
       ]
     },
     {
@@ -5814,7 +5910,8 @@
         "Extensor hallucis longus",
         "긴엄지폄근(발)",
         "긴엄지발가락폄근",
-        "EHL"
+        "EHL",
+        "extensor hallucis longus"
       ]
     },
     {
@@ -5853,7 +5950,8 @@
         "장지신근",
         "Extensor digitorum longus",
         "긴발가락폄근",
-        "EDL"
+        "EDL",
+        "extensor digitorum longus"
       ]
     },
     {
@@ -5894,7 +5992,8 @@
         "Flexor hallucis longus",
         "긴엄지굽힘근(발)",
         "긴엄지발가락굽힘근",
-        "FHL"
+        "FHL",
+        "flexor hallucis longus"
       ]
     },
     {
@@ -9344,6 +9443,7337 @@
         "폐정맥",
         "Pulmonary vein"
       ]
+    },
+    {
+      "id": "cremaster",
+      "name": "고환거근",
+      "en": "Cremaster",
+      "kind": "muscle",
+      "category": "근육 · 복부",
+      "identify": "서혜인대·내복사근 하부와 연결에서 정삭·고환 주위 고리 계통으로 연결되며, 고환을 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "서혜인대·내복사근 하부와 연결"
+        },
+        {
+          "label": "정지",
+          "value": "정삭·고환 주위 고리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고환을 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부대퇴신경 생식가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "고환거근동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "골격근이다. 음낭 피부의 평활근과 구분하고 고환거근반사의 감각·운동 경로를 나누어 본다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "abdominal-muscles"
+      ],
+      "aliases": [
+        "고환거근",
+        "고환올림근",
+        "Cremaster",
+        "cremaster"
+      ]
+    },
+    {
+      "id": "dartos",
+      "name": "육양근",
+      "en": "Dartos",
+      "kind": "muscle",
+      "category": "근육 · 복부",
+      "identify": "음낭 피부 아래 평활근층에 놓여 피부를 주름지게 해 표면적 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "배치·기원",
+          "value": "음낭 피부 아래 평활근층"
+        },
+        {
+          "label": "연결·층",
+          "value": "음낭 피부 결합조직"
+        },
+        {
+          "label": "주요 작용",
+          "value": "피부를 주름지게 해 표면적 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "교감신경 절후섬유"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤음낭동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뼈에 붙는 골격근이 아니다. 고환올림근의 수의·반사성 운동지배와 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "평활근 · 자율신경 조절"
+        }
+      ],
+      "references": [
+        "abdominal-muscles"
+      ],
+      "aliases": [
+        "육양근",
+        "음낭주름근",
+        "Dartos",
+        "dartos"
+      ]
+    },
+    {
+      "id": "iliopsoas",
+      "name": "장요근",
+      "en": "Iliopsoas",
+      "kind": "muscle",
+      "category": "근육 · 복부",
+      "identify": "큰허리근의 허리척추 기시·엉덩근의 엉덩오목 기시에서 공통힘줄로 넙다리뼈 작은돌기 계통으로 연결되며, 고관절 굽힘; 몸통·골반 자세에 따라 작용 변화에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "큰허리근의 허리척추 기시·엉덩근의 엉덩오목 기시"
+        },
+        {
+          "label": "정지",
+          "value": "공통힘줄로 넙다리뼈 작은돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 굽힘; 몸통·골반 자세에 따라 작용 변화"
+        },
+        {
+          "label": "신경지배",
+          "value": "큰허리근은 허리신경 앞가지, 엉덩근은 대퇴신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "장요동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "단일 근육이 아닌 두 근육의 묶음이다. 같은 정지가 같은 신경지배를 뜻하지 않는다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "abdominal-muscles",
+        "lower-muscles"
+      ],
+      "aliases": [
+        "장요근",
+        "엉덩허리근",
+        "Iliopsoas",
+        "iliopsoas"
+      ]
+    },
+    {
+      "id": "interfoveolar",
+      "name": "오목사이근",
+      "en": "Interfoveolar",
+      "kind": "muscle",
+      "category": "근육 · 복부",
+      "identify": "하복벽의 배가로근 일부 섬유에서 대퇴혈관집 앞층 부근 계통으로 연결되며, 하복벽 압박 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "하복벽의 배가로근 일부 섬유"
+        },
+        {
+          "label": "정지",
+          "value": "대퇴혈관집 앞층 부근"
+        },
+        {
+          "label": "주요 작용",
+          "value": "하복벽 압박 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "엉덩아랫배신경·엉덩샅굴신경 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래배벽동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "변이성 근육으로 인대만 있는 경우도 있다. 모든 표본에 독립된 근육이 있다고 가정하지 않는다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "abdominal-muscles"
+      ],
+      "aliases": [
+        "오목사이근",
+        "interfoveolar muscle",
+        "Interfoveolar",
+        "interfoveolar"
+      ]
+    },
+    {
+      "id": "psoas-minor",
+      "name": "소요근",
+      "en": "Psoas minor",
+      "kind": "muscle",
+      "category": "근육 · 복부",
+      "identify": "T12–L1 척추체·사이원반에서 엉덩두덩융기·골반 가장자리 근막 계통으로 연결되며, 허리 굽힘과 근막 긴장 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "T12–L1 척추체·사이원반"
+        },
+        {
+          "label": "정지",
+          "value": "엉덩두덩융기·골반 가장자리 근막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "허리 굽힘과 근막 긴장 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "허리신경 앞가지 L1 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "허리동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "결여될 수 있으며 넙다리뼈 작은돌기까지 가는 큰허리근과 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "abdominal-muscles",
+        "lower-muscles"
+      ],
+      "aliases": [
+        "소요근",
+        "작은허리근",
+        "Psoas minor",
+        "psoas minor"
+      ]
+    },
+    {
+      "id": "pyramidalis",
+      "name": "추체근",
+      "en": "Pyramidalis",
+      "kind": "muscle",
+      "category": "근육 · 복부",
+      "identify": "두덩뼈 앞면에서 백선 하부 계통으로 연결되며, 백선 긴장에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "두덩뼈 앞면"
+        },
+        {
+          "label": "정지",
+          "value": "백선 하부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "백선 긴장"
+        },
+        {
+          "label": "신경지배",
+          "value": "갈비밑신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래배벽동맥·갈비밑동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "배곧은근 아래 앞쪽의 작은 세모근으로 존재·크기에 변이가 있다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "abdominal-muscles"
+      ],
+      "aliases": [
+        "추체근",
+        "피라미드근",
+        "Pyramidalis",
+        "pyramidalis"
+      ]
+    },
+    {
+      "id": "rhomboid-major",
+      "name": "대능형근",
+      "en": "Rhomboid major",
+      "kind": "muscle",
+      "category": "근육 · 어깨·견갑대",
+      "identify": "T2–T5 가시돌기에서 견갑극 아래 어깨뼈 안쪽모서리 계통으로 연결되며, 견갑골 뒤당김·하방회전·거상 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "T2–T5 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "견갑극 아래 어깨뼈 안쪽모서리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "견갑골 뒤당김·하방회전·거상 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "견갑배신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "견갑배동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "작은마름근보다 아래에 있고 견갑극 뿌리 아래 긴 모서리에 붙는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles",
+        "upper-muscles"
+      ],
+      "aliases": [
+        "대능형근",
+        "큰마름근",
+        "Rhomboid major",
+        "rhomboideus major"
+      ]
+    },
+    {
+      "id": "rhomboid-minor",
+      "name": "소능형근",
+      "en": "Rhomboid minor",
+      "kind": "muscle",
+      "category": "근육 · 어깨·견갑대",
+      "identify": "목덜미인대 하부·C7–T1 가시돌기에서 견갑극 뿌리의 어깨뼈 안쪽모서리 계통으로 연결되며, 견갑골 뒤당김·하방회전·거상 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "목덜미인대 하부·C7–T1 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "견갑극 뿌리의 어깨뼈 안쪽모서리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "견갑골 뒤당김·하방회전·거상 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "견갑배신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "견갑배동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "견갑극 뿌리를 기준으로 큰마름근의 아래쪽 정지와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles",
+        "upper-muscles"
+      ],
+      "aliases": [
+        "소능형근",
+        "작은마름근",
+        "Rhomboid minor",
+        "rhomboideus minor"
+      ]
+    },
+    {
+      "id": "trapezius",
+      "name": "승모근",
+      "en": "Trapezius",
+      "kind": "muscle",
+      "category": "근육 · 어깨·견갑대",
+      "identify": "뒤통수뼈·목덜미인대·C7–T12 가시돌기에서 빗장뼈 가쪽·견봉·견갑극 계통으로 연결되며, 상부 거상·중부 뒤당김·하부 하강; 상·하부 협동으로 상방회전에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "뒤통수뼈·목덜미인대·C7–T12 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "빗장뼈 가쪽·견봉·견갑극"
+        },
+        {
+          "label": "주요 작용",
+          "value": "상부 거상·중부 뒤당김·하부 하강; 상·하부 협동으로 상방회전"
+        },
+        {
+          "label": "신경지배",
+          "value": "부신경 운동가지; C3–C4 고유감각 기여"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "가로목동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "전체 근육 카드다. 기존 상부 승모근 카드와 범위를 구분하고 하부 섬유의 역할도 본다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles",
+        "upper-muscles"
+      ],
+      "aliases": [
+        "승모근",
+        "등세모근",
+        "Trapezius",
+        "trapezius"
+      ]
+    },
+    {
+      "id": "iliocostalis",
+      "name": "장늑근",
+      "en": "Iliocostalis",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "엉덩뼈능선·엉치뼈·아래 갈비뼈 계통에서 위쪽 갈비뼈각·목 가로돌기 계통 계통으로 연결되며, 척주 폄·같은쪽 가쪽굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "엉덩뼈능선·엉치뼈·아래 갈비뼈 계통"
+        },
+        {
+          "label": "정지",
+          "value": "위쪽 갈비뼈각·목 가로돌기 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "척주 폄·같은쪽 가쪽굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤갈비사이동맥·허리동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척주세움근의 가쪽 기둥이다. 허리·가슴·목 부분의 부착은 서로 다르다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "장늑근",
+        "엉덩갈비근",
+        "Iliocostalis",
+        "iliocostalis"
+      ]
+    },
+    {
+      "id": "interspinales",
+      "name": "극간근",
+      "en": "Interspinales",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "아래 척추 가시돌기에서 바로 위 가시돌기 계통으로 연결되며, 분절 폄·안정 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래 척추 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "바로 위 가시돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "분절 폄·안정 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "깊은목동맥·허리동맥 등 분절 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "인접 가시돌기 사이의 짧은 근육이며 가로돌기 사이 근육과 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "극간근",
+        "가시사이근",
+        "Interspinales",
+        "interspinales"
+      ]
+    },
+    {
+      "id": "intertransversarii",
+      "name": "횡돌간근",
+      "en": "Intertransversarii",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "아래 척추 가로돌기에서 위 척추 가로돌기 계통으로 연결되며, 분절 가쪽굽힘·안정 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래 척추 가로돌기"
+        },
+        {
+          "label": "정지",
+          "value": "위 척추 가로돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "분절 가쪽굽힘·안정 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "부위·갈래에 따라 척수신경 앞가지 또는 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "깊은목동맥·허리동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "목·허리의 앞뒤·안가쪽 갈래에 따라 지배가 다르므로 모두 뒤가지라고 단순화하지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles",
+        "lumbar-innervation"
+      ],
+      "aliases": [
+        "횡돌간근",
+        "가로돌기사이근",
+        "Intertransversarii",
+        "intertransversarii"
+      ]
+    },
+    {
+      "id": "longissimus",
+      "name": "최장근",
+      "en": "Longissimus",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "엉치뼈·허리 공통힘줄 및 아래 가로돌기 계통에서 위 가로돌기·갈비뼈·꼭지돌기 계통 계통으로 연결되며, 척주·목·머리 폄과 같은쪽 가쪽굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "엉치뼈·허리 공통힘줄 및 아래 가로돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "위 가로돌기·갈비뼈·꼭지돌기 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "척주·목·머리 폄과 같은쪽 가쪽굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "깊은목동맥·뒤갈비사이동맥·허리동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척주세움근의 가운데 기둥이다. 머리 부분의 꼭지돌기 정지를 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "최장근",
+        "가장긴근",
+        "Longissimus",
+        "longissimus"
+      ]
+    },
+    {
+      "id": "multifidus",
+      "name": "다열근",
+      "en": "Multifidus",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "엉치뼈·장골 뒤쪽·척추 가로돌기와 관절돌기 계통에서 2–4분절 위 가시돌기 계통으로 연결되며, 척추 분절 안정·폄·반대쪽 회전 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "엉치뼈·장골 뒤쪽·척추 가로돌기와 관절돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "2–4분절 위 가시돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "척추 분절 안정·폄·반대쪽 회전 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "척수신경 뒤가지 안쪽가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "분절성 뒤갈비사이동맥·허리동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척주 전체 계통 카드다. 기존 요부 다열근 도해 카드는 허리 부위로 범위가 좁다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "다열근",
+        "뭇갈래근",
+        "Multifidus",
+        "multifidus"
+      ]
+    },
+    {
+      "id": "obliquus-capitis-inferior",
+      "name": "하두사근",
+      "en": "Obliquus capitis inferior",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "축추 C2 가시돌기에서 환추 C1 가로돌기 계통으로 연결되며, 환추·머리의 같은쪽 회전에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "축추 C2 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "환추 C1 가로돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "환추·머리의 같은쪽 회전"
+        },
+        {
+          "label": "신경지배",
+          "value": "후두하신경 C1 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤통수동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "후두하근 중 두개골에 직접 붙지 않는다. C2–C1 연결을 큰뒤머리곧은근과 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "하두사근",
+        "아래머리빗근",
+        "Obliquus capitis inferior",
+        "obliquus capitis inferior"
+      ]
+    },
+    {
+      "id": "obliquus-capitis-superior",
+      "name": "상두사근",
+      "en": "Obliquus capitis superior",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "환추 C1 가로돌기에서 뒤통수뼈 아래목덜미선 위 계통으로 연결되며, 머리 폄·같은쪽 가쪽굽힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "환추 C1 가로돌기"
+        },
+        {
+          "label": "정지",
+          "value": "뒤통수뼈 아래목덜미선 위"
+        },
+        {
+          "label": "주요 작용",
+          "value": "머리 폄·같은쪽 가쪽굽힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "후두하신경 C1 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤통수동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "환추에서 두개골로 이어지며 후두하삼각의 위가쪽 경계를 이룬다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "상두사근",
+        "위머리빗근",
+        "Obliquus capitis superior",
+        "obliquus capitis superior"
+      ]
+    },
+    {
+      "id": "rectus-capitis-posterior-major",
+      "name": "대후두직근",
+      "en": "Rectus capitis posterior major",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "축추 C2 가시돌기에서 아래목덜미선 가쪽 계통으로 연결되며, 머리 폄·같은쪽 회전에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "축추 C2 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "아래목덜미선 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "머리 폄·같은쪽 회전"
+        },
+        {
+          "label": "신경지배",
+          "value": "후두하신경 C1 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤통수동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "작은뒤머리곧은근의 C1 기시·안쪽 정지와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "대후두직근",
+        "큰뒤머리곧은근",
+        "Rectus capitis posterior major",
+        "rectus capitis posterior major"
+      ]
+    },
+    {
+      "id": "rectus-capitis-posterior-minor",
+      "name": "소후두직근",
+      "en": "Rectus capitis posterior minor",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "환추 C1 뒤결절에서 아래목덜미선 안쪽 계통으로 연결되며, 머리 폄·자세 안정 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "환추 C1 뒤결절"
+        },
+        {
+          "label": "정지",
+          "value": "아래목덜미선 안쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "머리 폄·자세 안정 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "후두하신경 C1 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤통수동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "C1 뒤결절에서 시작하며 큰뒤머리곧은근보다 깊고 안쪽에 놓인다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "소후두직근",
+        "작은뒤머리곧은근",
+        "Rectus capitis posterior minor",
+        "rectus capitis posterior minor"
+      ]
+    },
+    {
+      "id": "rotatores",
+      "name": "회선근",
+      "en": "Rotatores",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "척추 가로돌기에서 짧은갈래 1분절·긴갈래 2분절 위 고리판·가시돌기 부근 계통으로 연결되며, 반대쪽 회전·분절 안정 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "척추 가로돌기"
+        },
+        {
+          "label": "정지",
+          "value": "짧은갈래 1분절·긴갈래 2분절 위 고리판·가시돌기 부근"
+        },
+        {
+          "label": "주요 작용",
+          "value": "반대쪽 회전·분절 안정 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤갈비사이동맥·허리동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가로돌기에서 위 안쪽으로 가는 짧은 근육이며 뭇갈래근보다 적은 분절을 잇는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "회선근",
+        "돌림근",
+        "Rotatores",
+        "rotatores"
+      ]
+    },
+    {
+      "id": "semispinalis",
+      "name": "반극근",
+      "en": "Semispinalis",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "가슴·목 가로돌기 계통에서 4–6분절 위 가시돌기 또는 뒤통수뼈 계통으로 연결되며, 목·머리·등 폄과 반대쪽 회전에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "가슴·목 가로돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "4–6분절 위 가시돌기 또는 뒤통수뼈"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목·머리·등 폄과 반대쪽 회전"
+        },
+        {
+          "label": "신경지배",
+          "value": "척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "깊은목동맥·뒤갈비사이동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "머리·목·가슴 부분을 나눈다. 머리 부분은 두개골 정지가 있으므로 가시돌기만 외우지 않는다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "반극근",
+        "반가시근",
+        "Semispinalis",
+        "semispinalis"
+      ]
+    },
+    {
+      "id": "serratus-posterior-inferior",
+      "name": "하후거근",
+      "en": "Serratus posterior inferior",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "흉요근막·T11–L2 가시돌기 계통에서 제9–12갈비뼈 각 가쪽 계통으로 연결되며, 아래 갈비뼈 하강 보조로 기술; 감각·고유감각 역할도 논의됨에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "흉요근막·T11–L2 가시돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "제9–12갈비뼈 각 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "아래 갈비뼈 하강 보조로 기술; 감각·고유감각 역할도 논의됨"
+        },
+        {
+          "label": "신경지배",
+          "value": "T9–T12 척수신경 앞가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래 뒤갈비사이동맥·갈비밑동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "깊은 등고유근과 달리 앞가지 계통이다. 호흡 작용만으로 전체 기능을 단정하지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles",
+        "upper-muscles",
+        "serratus-function"
+      ],
+      "aliases": [
+        "하후거근",
+        "아래뒤톱니근",
+        "Serratus posterior inferior",
+        "serratus posterior inferior"
+      ]
+    },
+    {
+      "id": "serratus-posterior-superior",
+      "name": "상후거근",
+      "en": "Serratus posterior superior",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "목덜미인대 하부·C7–T3 가시돌기 계통에서 주로 제2–5갈비뼈 각 가쪽; 표별 범위 차이 있음 계통으로 연결되며, 위 갈비뼈 거상 보조로 기술; 감각·고유감각 역할도 논의됨에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "목덜미인대 하부·C7–T3 가시돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "주로 제2–5갈비뼈 각 가쪽; 표별 범위 차이 있음"
+        },
+        {
+          "label": "주요 작용",
+          "value": "위 갈비뼈 거상 보조로 기술; 감각·고유감각 역할도 논의됨"
+        },
+        {
+          "label": "신경지배",
+          "value": "상부 갈비사이신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위 뒤갈비사이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞톱니근의 견갑골 정지·긴가슴신경 지배와 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles",
+        "upper-muscles",
+        "serratus-function"
+      ],
+      "aliases": [
+        "상후거근",
+        "위뒤톱니근",
+        "Serratus posterior superior",
+        "serratus posterior superior"
+      ]
+    },
+    {
+      "id": "spinalis",
+      "name": "극근",
+      "en": "Spinalis",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "아래 가시돌기 계통에서 위 가시돌기 계통; 머리 부분은 뒤통수 계통 계통으로 연결되며, 척주·목 폄에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래 가시돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "위 가시돌기 계통; 머리 부분은 뒤통수 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "척주·목 폄"
+        },
+        {
+          "label": "신경지배",
+          "value": "척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "분절성 뒤갈비사이동맥·허리동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척주세움근의 안쪽 기둥으로 형태·분리가 부위마다 다르다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "극근",
+        "가시근",
+        "Spinalis",
+        "spinalis"
+      ]
+    },
+    {
+      "id": "splenius",
+      "name": "판상근군",
+      "en": "Splenius",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "목덜미인대 하부·목 및 위가슴 가시돌기에서 머리 부분은 꼭지돌기·위목덜미선, 목 부분은 위목 가로돌기 계통으로 연결되며, 양측 폄; 한쪽 같은쪽 회전·가쪽굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "목덜미인대 하부·목 및 위가슴 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "머리 부분은 꼭지돌기·위목덜미선, 목 부분은 위목 가로돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "양측 폄; 한쪽 같은쪽 회전·가쪽굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "목 척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "깊은목동맥·뒤통수동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "머리·목 두 부분의 묶음이다. 반가시근의 반대쪽 돌림과 비교한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles",
+        "head-muscles"
+      ],
+      "aliases": [
+        "판상근군",
+        "널판근군",
+        "Splenius",
+        "splenius"
+      ]
+    },
+    {
+      "id": "splenius-capitis",
+      "name": "두판상근",
+      "en": "Splenius capitis",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "목덜미인대 하부·C7–상부 흉추 가시돌기에서 꼭지돌기·위목덜미선 가쪽 계통으로 연결되며, 머리 폄·같은쪽 회전·가쪽굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "목덜미인대 하부·C7–상부 흉추 가시돌기"
+        },
+        {
+          "label": "정지",
+          "value": "꼭지돌기·위목덜미선 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "머리 폄·같은쪽 회전·가쪽굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "목 척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤통수동맥·깊은목동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "두개골 정지를 목널판근의 가로돌기 정지와 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "두판상근",
+        "머리널판근",
+        "Splenius capitis",
+        "splenius capitis"
+      ]
+    },
+    {
+      "id": "splenius-cervicis",
+      "name": "경판상근",
+      "en": "Splenius cervicis",
+      "kind": "muscle",
+      "category": "근육 · 등·뒤통수",
+      "identify": "상부 흉추 가시돌기 계통에서 C1–C3·4 가로돌기 뒤결절 계통으로 연결되며, 목 폄·같은쪽 회전·가쪽굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "상부 흉추 가시돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "C1–C3·4 가로돌기 뒤결절"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목 폄·같은쪽 회전·가쪽굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "목 척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "깊은목동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "위목 척추에 정지하며 꼭지돌기에 붙는 머리널판근과 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "back-muscles"
+      ],
+      "aliases": [
+        "경판상근",
+        "목널판근",
+        "Splenius cervicis",
+        "splenius cervicis"
+      ]
+    },
+    {
+      "id": "anterior-scalene",
+      "name": "전사각근",
+      "en": "Anterior scalene",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "C3–C6 가로돌기 앞결절에서 제1갈비뼈 목갈비근결절 계통으로 연결되며, 목 굽힘·가쪽굽힘; 제1갈비뼈 거상에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "C3–C6 가로돌기 앞결절"
+        },
+        {
+          "label": "정지",
+          "value": "제1갈비뼈 목갈비근결절"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목 굽힘·가쪽굽힘; 제1갈비뼈 거상"
+        },
+        {
+          "label": "신경지배",
+          "value": "목 척수신경 앞가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름목동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "빗장밑정맥은 앞, 동맥·상완신경총은 뒤에 있다. 가로막신경은 앞면을 지난다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "전사각근",
+        "앞목갈비근",
+        "Anterior scalene",
+        "anterior scalene",
+        "scalene, anterior"
+      ]
+    },
+    {
+      "id": "aryepiglottic",
+      "name": "피열후두개근",
+      "en": "Aryepiglottic",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "모뿔연골 위쪽에서 후두덮개 가쪽 계통으로 연결되며, 후두 입구 좁힘·삼킴 보호 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "모뿔연골 위쪽"
+        },
+        {
+          "label": "정지",
+          "value": "후두덮개 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "후두 입구 좁힘·삼킴 보호 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "빗모뿔근 섬유와 이어지는 후두 입구 근육 부분이다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "피열후두개근",
+        "모뿔덮개근",
+        "Aryepiglottic",
+        "aryepiglottic"
+      ]
+    },
+    {
+      "id": "oblique-arytenoid",
+      "name": "사피열근",
+      "en": "Oblique arytenoid",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "모뿔연골 근육돌기에서 반대쪽 모뿔연골 꼭대기 계통으로 연결되며, 모뿔연골 접근·성문 뒤쪽 폐쇄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "모뿔연골 근육돌기"
+        },
+        {
+          "label": "정지",
+          "value": "반대쪽 모뿔연골 꼭대기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "모뿔연골 접근·성문 뒤쪽 폐쇄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "양쪽 섬유가 X자로 교차하며 가로모뿔근보다 뒤에 놓인다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "사피열근",
+        "빗모뿔근",
+        "Oblique arytenoid",
+        "arytenoid, oblique",
+        "oblique arytenoid"
+      ]
+    },
+    {
+      "id": "transverse-arytenoid",
+      "name": "횡피열근",
+      "en": "Transverse arytenoid",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "한쪽 모뿔연골 뒷면에서 반대쪽 모뿔연골 뒷면 계통으로 연결되며, 모뿔연골 접근·성문 뒤쪽 폐쇄에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "한쪽 모뿔연골 뒷면"
+        },
+        {
+          "label": "정지",
+          "value": "반대쪽 모뿔연골 뒷면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "모뿔연골 접근·성문 뒤쪽 폐쇄"
+        },
+        {
+          "label": "신경지배",
+          "value": "양쪽 되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "짝이 아닌 가로 근육으로 기술하며 원문의 반복 행은 같은 카드로 연결한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "횡피열근",
+        "가로모뿔근",
+        "Transverse arytenoid",
+        "arytenoid, transverse",
+        "transverse arytenoid"
+      ]
+    },
+    {
+      "id": "auricular",
+      "name": "이개근군",
+      "en": "Auricular",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "앞·위는 머리덮개널힘줄 계통, 뒤는 꼭지돌기에서 귓바퀴 앞·위·뒤 계통으로 연결되며, 귓바퀴의 작은 위치 변화에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "앞·위는 머리덮개널힘줄 계통, 뒤는 꼭지돌기"
+        },
+        {
+          "label": "정지",
+          "value": "귓바퀴 앞·위·뒤"
+        },
+        {
+          "label": "주요 작용",
+          "value": "귓바퀴의 작은 위치 변화"
+        },
+        {
+          "label": "신경지배",
+          "value": "앞·위 안면신경 관자가지, 뒤 안면신경 뒤귓바퀴가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얕은관자동맥·뒤귓바퀴동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "세 근육의 묶음으로 중이의 등자근·고막긴장근과 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "이개근군",
+        "귓바퀴근군",
+        "Auricular",
+        "auricular"
+      ]
+    },
+    {
+      "id": "buccinator",
+      "name": "협근",
+      "en": "Buccinator",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위·아래턱 어금니 부근·날개아래턱솔기에서 입꼬리·입둘레근 계통 계통으로 연결되며, 볼을 치아에 밀착·음식물 유지·불기 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위·아래턱 어금니 부근·날개아래턱솔기"
+        },
+        {
+          "label": "정지",
+          "value": "입꼬리·입둘레근 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "볼을 치아에 밀착·음식물 유지·불기 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얼굴동맥·볼동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "씹기를 돕지만 운동지배는 VII이다. V3의 볼신경은 주로 감각신경이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "협근",
+        "볼근",
+        "Buccinator",
+        "buccinator"
+      ]
+    },
+    {
+      "id": "chondroglossus",
+      "name": "연골설근",
+      "en": "Chondroglossus",
+      "kind": "muscle",
+      "category": "근육 · 혀",
+      "identify": "설골 작은뿔·인접 몸통에서 혀 속 근육 계통 계통으로 연결되며, 혀 가쪽 내림 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "설골 작은뿔·인접 몸통"
+        },
+        {
+          "label": "정지",
+          "value": "혀 속 근육 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀 가쪽 내림 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경 XII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "목뿔혀근의 일부로 분류하기도 하는 작은 외재근 부분이다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "연골설근",
+        "연골혀근",
+        "Chondroglossus",
+        "chondroglossus"
+      ]
+    },
+    {
+      "id": "ciliary",
+      "name": "모양체근",
+      "en": "Ciliary",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "모양체 내부; 경선섬유는 공막돌기 계통에 놓여 수축 시 섬모체소대 긴장이 줄어 수정체가 두꺼워짐에 참여하는 구조",
+      "facts": [
+        {
+          "label": "배치·기원",
+          "value": "모양체 내부; 경선섬유는 공막돌기 계통"
+        },
+        {
+          "label": "연결·층",
+          "value": "모양체 결합조직·맥락막 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "수축 시 섬모체소대 긴장이 줄어 수정체가 두꺼워짐"
+        },
+        {
+          "label": "신경지배",
+          "value": "동안신경 부교감섬유 → 모양체신경절 → 짧은섬모체신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "평활근으로 가까운 거리 조절에 참여한다. 동공 크기를 바꾸는 홍채근과 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "평활근 · 자율신경 조절"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "모양체근",
+        "섬모체근",
+        "Ciliary",
+        "ciliary"
+      ]
+    },
+    {
+      "id": "inferior-pharyngeal-constrictor",
+      "name": "하인두수축근",
+      "en": "Inferior pharyngeal constrictor",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "갑상연골 빗선·반지연골 가쪽에서 인두솔기 계통 계통으로 연결되며, 아래 인두 수축·식도 입구 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갑상연골 빗선·반지연골 가쪽"
+        },
+        {
+          "label": "정지",
+          "value": "인두솔기 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "아래 인두 수축·식도 입구 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X 계통; 인두신경총·후두신경 가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두·위아래갑상동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "방패인두 부분과 반지인두 부분을 구분하고 반지인두근을 하위 부분으로 읽는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "하인두수축근",
+        "아래인두수축근",
+        "Inferior pharyngeal constrictor",
+        "constrictor, inferior pharyngeal",
+        "inferior pharyngeal constrictor"
+      ]
+    },
+    {
+      "id": "middle-pharyngeal-constrictor",
+      "name": "중인두수축근",
+      "en": "Middle pharyngeal constrictor",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "설골 큰·작은뿔·붓목뿔인대에서 인두솔기 계통으로 연결되며, 중간 인두 수축에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "설골 큰·작은뿔·붓목뿔인대"
+        },
+        {
+          "label": "정지",
+          "value": "인두솔기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "중간 인두 수축"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두신경총"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "설골 기시를 위 근육의 턱·날개판 기시와 아래 근육의 후두연골 기시 사이에서 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "중인두수축근",
+        "중간인두수축근",
+        "Middle pharyngeal constrictor",
+        "constrictor, middle pharyngeal",
+        "middle pharyngeal constrictor"
+      ]
+    },
+    {
+      "id": "superior-pharyngeal-constrictor",
+      "name": "상인두수축근",
+      "en": "Superior pharyngeal constrictor",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "날개판·날개갈고리·날개아래턱솔기·아래턱 부근에서 인두솔기·인두결절 계통으로 연결되며, 위쪽 인두 수축에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "날개판·날개갈고리·날개아래턱솔기·아래턱 부근"
+        },
+        {
+          "label": "정지",
+          "value": "인두솔기·인두결절"
+        },
+        {
+          "label": "주요 작용",
+          "value": "위쪽 인두 수축"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두신경총"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "인두 벽의 위쪽 둘레근이며 중간·아래 근육과 층별 겹침을 본다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "상인두수축근",
+        "위인두수축근",
+        "Superior pharyngeal constrictor",
+        "constrictor, superior pharyngeal",
+        "superior pharyngeal constrictor"
+      ]
+    },
+    {
+      "id": "corrugator-supercilii",
+      "name": "추미근",
+      "en": "Corrugator supercilii",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "안쪽 눈썹활에서 눈썹 안쪽 피부 계통으로 연결되며, 눈썹을 안쪽·아래로 당김에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "안쪽 눈썹활"
+        },
+        {
+          "label": "정지",
+          "value": "눈썹 안쪽 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "눈썹을 안쪽·아래로 당김"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 관자가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "도르래위동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "미간의 세로 주름을 코근·눈둘레근의 작용과 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "추미근",
+        "눈썹주름근",
+        "Corrugator supercilii",
+        "corrugator"
+      ]
+    },
+    {
+      "id": "lateral-cricoarytenoid",
+      "name": "외측윤상피열근",
+      "en": "Lateral cricoarytenoid",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "반지연골 활 위가쪽에서 모뿔연골 근육돌기 계통으로 연결되며, 성대 모음에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "반지연골 활 위가쪽"
+        },
+        {
+          "label": "정지",
+          "value": "모뿔연골 근육돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "성대 모음"
+        },
+        {
+          "label": "신경지배",
+          "value": "되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위·아래후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뒤반지모뿔근의 벌림과 반대 작용이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "외측윤상피열근",
+        "가쪽반지모뿔근",
+        "Lateral cricoarytenoid",
+        "cricoarytenoid, lateral",
+        "lateral cricoarytenoid"
+      ]
+    },
+    {
+      "id": "posterior-cricoarytenoid",
+      "name": "후윤상피열근",
+      "en": "Posterior cricoarytenoid",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "반지연골판 뒷면에서 모뿔연골 근육돌기 계통으로 연결되며, 성대 벌림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "반지연골판 뒷면"
+        },
+        {
+          "label": "정지",
+          "value": "모뿔연골 근육돌기"
+        },
+        {
+          "label": "주요 작용",
+          "value": "성대 벌림"
+        },
+        {
+          "label": "신경지배",
+          "value": "되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위·아래후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "성대를 벌리는 유일한 후두 내재근이라는 점을 다른 모음근들과 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "후윤상피열근",
+        "뒤반지모뿔근",
+        "Posterior cricoarytenoid",
+        "cricoarytenoid, posterior",
+        "posterior cricoarytenoid"
+      ]
+    },
+    {
+      "id": "cricopharyngeus",
+      "name": "윤상인두근",
+      "en": "Cricopharyngeus",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "반지연골 가쪽에서 식도 입구 뒤쪽 둘레근 계통 계통으로 연결되며, 윗식도조임근의 긴장·삼킴 시 이완 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "반지연골 가쪽"
+        },
+        {
+          "label": "정지",
+          "value": "식도 입구 뒤쪽 둘레근 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "윗식도조임근의 긴장·삼킴 시 이완 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두·후두신경 가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래갑상·오름인두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "아래인두수축근의 하부이다. 평소 폐쇄와 삼킴 중 이완을 구분한다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "윤상인두근",
+        "반지인두근",
+        "Cricopharyngeus",
+        "cricopharyngeus"
+      ]
+    },
+    {
+      "id": "cricothyroid",
+      "name": "윤상갑상근",
+      "en": "Cricothyroid",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "반지연골 활 앞가쪽에서 갑상연골 아래모서리·아래뿔 계통으로 연결되며, 성대 길이·긴장 증가에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "반지연골 활 앞가쪽"
+        },
+        {
+          "label": "정지",
+          "value": "갑상연골 아래모서리·아래뿔"
+        },
+        {
+          "label": "주요 작용",
+          "value": "성대 길이·긴장 증가"
+        },
+        {
+          "label": "신경지배",
+          "value": "위후두신경 바깥가지 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위갑상동맥 반지방패가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "대부분의 후두 내재근과 달리 되돌이후두신경 계통이 아닌 위후두신경 바깥가지다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "윤상갑상근",
+        "반지방패근",
+        "Cricothyroid",
+        "cricothyroid"
+      ]
+    },
+    {
+      "id": "depressor-anguli-oris",
+      "name": "구각하제근",
+      "en": "Depressor anguli oris",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "아래턱뼈 빗선에서 입꼬리 근육결절 계통으로 연결되며, 입꼬리 내림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래턱뼈 빗선"
+        },
+        {
+          "label": "정지",
+          "value": "입꼬리 근육결절"
+        },
+        {
+          "label": "주요 작용",
+          "value": "입꼬리 내림"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 아래턱모서리가지 등"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래입술동맥·턱끝동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "아랫입술 자체보다 입꼬리 위치를 내리는 근육이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구각하제근",
+        "입꼬리내림근",
+        "Depressor anguli oris",
+        "depressor anguli oris"
+      ]
+    },
+    {
+      "id": "depressor-labii-inferioris",
+      "name": "하순하제근",
+      "en": "Depressor labii inferioris",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "아래턱뼈 앞면에서 아랫입술 피부 계통으로 연결되며, 아랫입술 내림·뒤집기에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래턱뼈 앞면"
+        },
+        {
+          "label": "정지",
+          "value": "아랫입술 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "아랫입술 내림·뒤집기"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 아래턱모서리가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래입술동맥·턱끝동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "입꼬리내림근과 정지점·입술 움직임을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "하순하제근",
+        "아래입술내림근",
+        "Depressor labii inferioris",
+        "depressor labii inferioris"
+      ]
+    },
+    {
+      "id": "depressor-septi-nasi",
+      "name": "비중격하제근",
+      "en": "Depressor septi nasi",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위턱뼈 앞 정중부에서 움직이는 코중격·코 날개 부근 계통으로 연결되며, 코중격 하강·코 입구 형태 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위턱뼈 앞 정중부"
+        },
+        {
+          "label": "정지",
+          "value": "움직이는 코중격·코 날개 부근"
+        },
+        {
+          "label": "주요 작용",
+          "value": "코중격 하강·코 입구 형태 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위입술동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "코근의 일부로 묶어 기술하기도 하며 코중격의 연골 자체와 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "비중격하제근",
+        "코중격내림근",
+        "Depressor septi nasi",
+        "depressor septi"
+      ]
+    },
+    {
+      "id": "dilator-pupillae",
+      "name": "동공산대근",
+      "en": "Dilator pupillae",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "홍채 뒤층의 방사상 평활근 섬유에 놓여 동공 확대에 참여하는 구조",
+      "facts": [
+        {
+          "label": "배치·기원",
+          "value": "홍채 뒤층의 방사상 평활근 섬유"
+        },
+        {
+          "label": "연결·층",
+          "value": "동공 가장자리 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "동공 확대"
+        },
+        {
+          "label": "신경지배",
+          "value": "위목신경절에서 나온 교감신경 절후섬유·섬모체신경 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥의 섬모체동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "방사상 섬유를 원형 동공조임근의 부교감 지배와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "평활근 · 자율신경 조절"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "동공산대근",
+        "동공확대근",
+        "Dilator pupillae",
+        "dilator pupillae",
+        "pupillae, dilator"
+      ]
+    },
+    {
+      "id": "occipitofrontalis",
+      "name": "후두전두근",
+      "en": "Occipitofrontalis",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "뒤힘살은 위목덜미선, 앞힘살은 머리덮개널힘줄에서 뒤힘살은 머리덮개널힘줄, 앞힘살은 눈썹 피부 계통으로 연결되며, 두피 이동·눈썹 거상·이마 주름에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "뒤힘살은 위목덜미선, 앞힘살은 머리덮개널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "뒤힘살은 머리덮개널힘줄, 앞힘살은 눈썹 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "두피 이동·눈썹 거상·이마 주름"
+        },
+        {
+          "label": "신경지배",
+          "value": "앞 안면신경 관자가지, 뒤 안면신경 뒤귓바퀴가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈확위·도르래위·뒤통수동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "epicranius는 같은 계통의 이름이다. 앞·뒤힘살은 널힘줄로 연결된다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "후두전두근",
+        "뒤통수이마근",
+        "Occipitofrontalis",
+        "epicranius",
+        "occipitofrontalis"
+      ]
+    },
+    {
+      "id": "frontalis",
+      "name": "전두근",
+      "en": "Frontalis",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "머리덮개널힘줄에서 눈썹·이마 피부 계통으로 연결되며, 눈썹 올림·가로 이마 주름에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "머리덮개널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "눈썹·이마 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "눈썹 올림·가로 이마 주름"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 관자가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈확위동맥·도르래위동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "후두전두근의 앞힘살이다. 눈꺼풀 자체를 올리는 상안검거근과 다르다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "전두근",
+        "이마근",
+        "Frontalis",
+        "frontalis"
+      ]
+    },
+    {
+      "id": "genioglossus",
+      "name": "이설근",
+      "en": "Genioglossus",
+      "kind": "muscle",
+      "category": "근육 · 혀",
+      "identify": "아래턱뼈 위턱끝가시에서 혀 속·설골 계통으로 부채꼴 분포 계통으로 연결되며, 혀 내밀기·중앙 내림; 섬유별 작용 차이에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래턱뼈 위턱끝가시"
+        },
+        {
+          "label": "정지",
+          "value": "혀 속·설골 계통으로 부채꼴 분포"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀 내밀기·중앙 내림; 섬유별 작용 차이"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경 XII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "혀의 외재근으로 전체를 단일 방향의 당김만으로 외우지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "이설근",
+        "턱끝혀근",
+        "Genioglossus",
+        "genioglossus"
+      ]
+    },
+    {
+      "id": "geniohyoid",
+      "name": "이설골근",
+      "en": "Geniohyoid",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "아래턱뼈 아래턱끝가시에서 설골 몸통 앞면 계통으로 연결되며, 설골 앞위 이동; 설골 고정 시 아래턱 내림 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래턱뼈 아래턱끝가시"
+        },
+        {
+          "label": "정지",
+          "value": "설골 몸통 앞면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "설골 앞위 이동; 설골 고정 시 아래턱 내림 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경과 동행하는 C1 앞가지 섬유"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥·턱밑동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "악설골근 위쪽의 짧은 쌍근육이다. C1 섬유와 XII 고유 지배를 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "이설골근",
+        "턱끝목뿔근",
+        "Geniohyoid",
+        "geniohyoid"
+      ]
+    },
+    {
+      "id": "hyoglossus",
+      "name": "설골설근",
+      "en": "Hyoglossus",
+      "kind": "muscle",
+      "category": "근육 · 혀",
+      "identify": "설골 몸통·큰뿔에서 혀 가쪽 계통으로 연결되며, 혀 가쪽 내림·뒤당김에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "설골 몸통·큰뿔"
+        },
+        {
+          "label": "정지",
+          "value": "혀 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀 가쪽 내림·뒤당김"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경 XII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "혀동맥은 이 근육의 깊은 쪽을 지난다. 혀 표면에만 붙는 내재근과 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "설골설근",
+        "목뿔혀근",
+        "Hyoglossus",
+        "hyoglossus"
+      ]
+    },
+    {
+      "id": "inferior-oblique",
+      "name": "하사근",
+      "en": "Inferior oblique",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "눈확바닥 앞안쪽 위턱뼈에서 안구 아래뒤쪽 공막 계통으로 연결되며, 바깥회선·거상·벌림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "눈확바닥 앞안쪽 위턱뼈"
+        },
+        {
+          "label": "정지",
+          "value": "안구 아래뒤쪽 공막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "바깥회선·거상·벌림"
+        },
+        {
+          "label": "신경지배",
+          "value": "동안신경 아래가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥 근육가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "외안근 중 눈확 앞쪽에서 시작한다. 모은 상태의 위 보기를 위곧은근과 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "하사근",
+        "아래빗근",
+        "Inferior oblique",
+        "inferior oblique",
+        "oblique, inferior"
+      ]
+    },
+    {
+      "id": "inferior-rectus",
+      "name": "하직근",
+      "en": "Inferior rectus",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "눈확꼭대기 온힘줄고리에서 안구 아래쪽 공막 계통으로 연결되며, 하강·모음·바깥회선에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "눈확꼭대기 온힘줄고리"
+        },
+        {
+          "label": "정지",
+          "value": "안구 아래쪽 공막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "하강·모음·바깥회선"
+        },
+        {
+          "label": "신경지배",
+          "value": "동안신경 아래가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥 근육가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "눈을 벌린 상태의 아래 보기와 위빗근의 모은 상태 아래 보기를 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "하직근",
+        "아래곧은근",
+        "Inferior rectus",
+        "inferior rectus",
+        "rectus, inferior"
+      ]
+    },
+    {
+      "id": "lateral-rectus",
+      "name": "외직근",
+      "en": "Lateral rectus",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "눈확꼭대기 온힘줄고리에서 안구 가쪽 공막 계통으로 연결되며, 안구 벌림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "눈확꼭대기 온힘줄고리"
+        },
+        {
+          "label": "정지",
+          "value": "안구 가쪽 공막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "안구 벌림"
+        },
+        {
+          "label": "신경지배",
+          "value": "외전신경 VI"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥 근육가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "여섯 외안근 가운데 VI 지배 근육이다. 나머지 근육의 III·IV 지배와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "외직근",
+        "가쪽곧은근",
+        "Lateral rectus",
+        "lateral rectus",
+        "rectus, lateral"
+      ]
+    },
+    {
+      "id": "levator-anguli-oris",
+      "name": "구각거근",
+      "en": "Levator anguli oris",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위턱뼈 송곳니오목에서 입꼬리 근육결절 계통으로 연결되며, 입꼬리 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위턱뼈 송곳니오목"
+        },
+        {
+          "label": "정지",
+          "value": "입꼬리 근육결절"
+        },
+        {
+          "label": "주요 작용",
+          "value": "입꼬리 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈확아래동맥·위입술동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "윗입술올림근의 깊은 곳에 있으며 입꼬리에 모인다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구각거근",
+        "입꼬리올림근",
+        "Levator anguli oris",
+        "levator anguli oris"
+      ]
+    },
+    {
+      "id": "levator-labii-superioris",
+      "name": "상순거근",
+      "en": "Levator labii superioris",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위턱뼈 눈확아래모서리에서 윗입술 피부 계통으로 연결되며, 윗입술 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위턱뼈 눈확아래모서리"
+        },
+        {
+          "label": "정지",
+          "value": "윗입술 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "윗입술 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈확아래동맥·위입술동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "코 날개와 함께 연결되는 근육과 정지 범위를 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "상순거근",
+        "위입술올림근",
+        "Levator labii superioris",
+        "levator labii superioris"
+      ]
+    },
+    {
+      "id": "levator-labii-superioris-alaque-nasi",
+      "name": "상순비익거근",
+      "en": "Levator labii superioris alaque nasi",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위턱뼈 이마돌기에서 윗입술·코 날개 계통으로 연결되며, 윗입술 거상·콧구멍 확장 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위턱뼈 이마돌기"
+        },
+        {
+          "label": "정지",
+          "value": "윗입술·코 날개"
+        },
+        {
+          "label": "주요 작용",
+          "value": "윗입술 거상·콧구멍 확장 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얼굴동맥 위입술가지 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "코 옆에서 입술과 코 날개에 함께 붙는 가는 근육이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "상순비익거근",
+        "위입술콧방울올림근",
+        "Levator labii superioris alaque nasi",
+        "levator labii superioris alaque nasi"
+      ]
+    },
+    {
+      "id": "levator-palpebrae-superioris",
+      "name": "상안검거근",
+      "en": "Levator palpebrae superioris",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "나비뼈 작은날개·시각신경관 위에서 윗눈꺼풀 널힘줄·눈꺼풀판·피부 계통으로 연결되며, 윗눈꺼풀 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "나비뼈 작은날개·시각신경관 위"
+        },
+        {
+          "label": "정지",
+          "value": "윗눈꺼풀 널힘줄·눈꺼풀판·피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "윗눈꺼풀 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "골격근은 동안신경 위가지; 위눈꺼풀판근은 교감신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "주된 골격근과 별도 평활근인 위눈꺼풀판근을 구분하며 눈둘레근의 닫힘과 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "상안검거근",
+        "위눈꺼풀올림근",
+        "Levator palpebrae superioris",
+        "levator palpebrae superioris"
+      ]
+    },
+    {
+      "id": "levator-veli-palatini",
+      "name": "구개범거근",
+      "en": "Levator veli palatini",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "관자뼈 바위부분·귀관 연골에서 입천장널힘줄·물렁입천장 계통으로 연결되며, 물렁입천장 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "관자뼈 바위부분·귀관 연골"
+        },
+        {
+          "label": "정지",
+          "value": "입천장널힘줄·물렁입천장"
+        },
+        {
+          "label": "주요 작용",
+          "value": "물렁입천장 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두신경총"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "삼킴에서 코인두 쪽 폐쇄에 참여하며 입천장긴장근의 V3 지배와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구개범거근",
+        "입천장올림근",
+        "Levator veli palatini",
+        "levator veli palatini"
+      ]
+    },
+    {
+      "id": "longitudinal-muscles-of-tongue",
+      "name": "혀의 종설근군",
+      "en": "Longitudinal muscles of tongue",
+      "kind": "muscle",
+      "category": "근육 · 혀",
+      "identify": "혀 내부의 위·아래 세로 섬유층에서 혀끝·혀 가장자리의 결합조직 계통으로 연결되며, 혀 길이 줄이기; 위층은 끝 말아올림·아래층은 말아내림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "혀 내부의 위·아래 세로 섬유층"
+        },
+        {
+          "label": "정지",
+          "value": "혀끝·혀 가장자리의 결합조직"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀 길이 줄이기; 위층은 끝 말아올림·아래층은 말아내림"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경 XII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "상·하 두 근육의 묶음이다. 뼈에서 출발하는 외재근과 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "혀의 종설근군",
+        "혀세로근군",
+        "상종설근",
+        "하종설근",
+        "위세로혀근",
+        "아래세로혀근",
+        "Longitudinal muscles of tongue",
+        "linguae, longitudinalis"
+      ]
+    },
+    {
+      "id": "transverse-muscle-of-tongue",
+      "name": "횡설근",
+      "en": "Transverse muscle of tongue",
+      "kind": "muscle",
+      "category": "근육 · 혀",
+      "identify": "혀 정중격에서 혀 가쪽 결합조직 계통으로 연결되며, 혀를 좁게 하고 길게 함에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "혀 정중격"
+        },
+        {
+          "label": "정지",
+          "value": "혀 가쪽 결합조직"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀를 좁게 하고 길게 함"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경 XII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가로 섬유의 수축으로 폭이 줄어드는 형태 변화를 세로·수직 섬유와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "횡설근",
+        "가로혀근",
+        "Transverse muscle of tongue",
+        "linguae, transversus"
+      ]
+    },
+    {
+      "id": "vertical-muscle-of-tongue",
+      "name": "수직설근",
+      "en": "Vertical muscle of tongue",
+      "kind": "muscle",
+      "category": "근육 · 혀",
+      "identify": "혀 위쪽 내부층에서 혀 아래쪽 내부층 계통으로 연결되며, 혀를 납작하고 넓게 함에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "혀 위쪽 내부층"
+        },
+        {
+          "label": "정지",
+          "value": "혀 아래쪽 내부층"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀를 납작하고 넓게 함"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경 XII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "세로근의 길이 단축과 달리 위아래 두께가 줄어드는 내재근이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "수직설근",
+        "수직혀근",
+        "Vertical muscle of tongue",
+        "linguae, verticalis"
+      ]
+    },
+    {
+      "id": "longus-capitis",
+      "name": "두장근",
+      "en": "Longus capitis",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "C3–C6 가로돌기 앞결절에서 뒤통수뼈 바닥부분 계통으로 연결되며, 머리·위목 굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "C3–C6 가로돌기 앞결절"
+        },
+        {
+          "label": "정지",
+          "value": "뒤통수뼈 바닥부분"
+        },
+        {
+          "label": "주요 작용",
+          "value": "머리·위목 굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "위목 척수신경 앞가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "목의 척추앞 동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "두개골에 붙는 깊은 앞목 근육으로 긴목근의 척추 정지와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "두장근",
+        "긴머리근",
+        "Longus capitis",
+        "longus capitis"
+      ]
+    },
+    {
+      "id": "longus-colli",
+      "name": "경장근",
+      "en": "Longus colli",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "C3–T3 척추체·목 가로돌기 계통에서 환추 앞결절·위목 척추체·가로돌기 계통 계통으로 연결되며, 목 굽힘·분절 안정; 가쪽굽힘·회전 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "C3–T3 척추체·목 가로돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "환추 앞결절·위목 척추체·가로돌기 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목 굽힘·분절 안정; 가쪽굽힘·회전 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "목 척수신경 앞가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "척추동맥·오름목동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "수직·위빗·아래빗 부분을 나누는 척추앞 근육이다. 단일 직선 근육으로 해석하지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "경장근",
+        "긴목근",
+        "Longus colli",
+        "longus colli"
+      ]
+    },
+    {
+      "id": "medial-rectus",
+      "name": "내직근",
+      "en": "Medial rectus",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "눈확꼭대기 온힘줄고리에서 안구 안쪽 공막 계통으로 연결되며, 안구 모음에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "눈확꼭대기 온힘줄고리"
+        },
+        {
+          "label": "정지",
+          "value": "안구 안쪽 공막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "안구 모음"
+        },
+        {
+          "label": "신경지배",
+          "value": "동안신경 아래가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥 근육가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가쪽곧은근과 길항하며 안쪽 이동과 안쪽회선을 같은 동작으로 보지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "내직근",
+        "안쪽곧은근",
+        "Medial rectus",
+        "medial rectus",
+        "rectus, medial"
+      ]
+    },
+    {
+      "id": "mentalis",
+      "name": "이근",
+      "en": "Mentalis",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "아래턱뼈 턱끝 정중 부근에서 턱끝 피부 계통으로 연결되며, 턱끝 피부 거상·아랫입술 내밀기 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래턱뼈 턱끝 정중 부근"
+        },
+        {
+          "label": "정지",
+          "value": "턱끝 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "턱끝 피부 거상·아랫입술 내밀기 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 아래턱모서리가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "턱끝동맥·아래입술동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뼈 사이를 연결하는 씹기근이 아닌 표정근이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "이근",
+        "턱끝근",
+        "Mentalis",
+        "mentalis"
+      ]
+    },
+    {
+      "id": "middle-scalene",
+      "name": "중사각근",
+      "en": "Middle scalene",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "C2–C7 가로돌기 뒤결절 계통에서 제1갈비뼈 윗면의 동맥고랑 뒤쪽 계통으로 연결되며, 목 가쪽굽힘·제1갈비뼈 거상에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "C2–C7 가로돌기 뒤결절 계통"
+        },
+        {
+          "label": "정지",
+          "value": "제1갈비뼈 윗면의 동맥고랑 뒤쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목 가쪽굽힘·제1갈비뼈 거상"
+        },
+        {
+          "label": "신경지배",
+          "value": "목 척수신경 앞가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름목동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞목갈비근과의 사이로 상완신경총·빗장밑동맥이 지나며 견갑배신경 등이 관통할 수 있다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "중사각근",
+        "중간목갈비근",
+        "Middle scalene",
+        "middle scalene",
+        "scalene, middle"
+      ]
+    },
+    {
+      "id": "uvulae",
+      "name": "구개수근",
+      "en": "Uvulae",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "뒤코가시·입천장널힘줄에서 목젖 결합조직 계통으로 연결되며, 목젖 길이 줄이기·물렁입천장 중앙 두께 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "뒤코가시·입천장널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "목젖 결합조직"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목젖 길이 줄이기·물렁입천장 중앙 두께 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두신경총"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "작은입천장동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "목젖 점막 자체와 그 안의 쌍근육을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구개수근",
+        "목젖근",
+        "Uvulae",
+        "musculus uvulae"
+      ]
+    },
+    {
+      "id": "nasalis",
+      "name": "비근",
+      "en": "Nasalis",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위턱뼈 앞면에서 코등 널힘줄·코 날개 계통으로 연결되며, 가로부분은 코 입구 압박, 날개부분은 확장 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위턱뼈 앞면"
+        },
+        {
+          "label": "정지",
+          "value": "코등 널힘줄·코 날개"
+        },
+        {
+          "label": "주요 작용",
+          "value": "가로부분은 코 입구 압박, 날개부분은 확장 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위입술동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가로부분과 날개부분의 묶음으로 두 부분을 같은 작용으로 외우지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "비근",
+        "코근",
+        "Nasalis",
+        "nasalis"
+      ]
+    },
+    {
+      "id": "nasalis-pars-alaris",
+      "name": "비근 날개부분",
+      "en": "Nasalis pars alaris",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위턱뼈 송곳니 위 부근에서 코 날개 계통으로 연결되며, 콧구멍 확장 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위턱뼈 송곳니 위 부근"
+        },
+        {
+          "label": "정지",
+          "value": "코 날개"
+        },
+        {
+          "label": "주요 작용",
+          "value": "콧구멍 확장 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위입술동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "코근의 하위 부분으로 가로부분의 압박과 비교한다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "비근 날개부분",
+        "코근 날개부분",
+        "Nasalis pars alaris",
+        "nasalis pars alaris"
+      ]
+    },
+    {
+      "id": "nasalis-pars-transversa",
+      "name": "비근 가로부분",
+      "en": "Nasalis pars transversa",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위턱뼈 앞니 위 부근에서 코등 정중 널힘줄 계통으로 연결되며, 코 입구 압박·코 형태 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위턱뼈 앞니 위 부근"
+        },
+        {
+          "label": "정지",
+          "value": "코등 정중 널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "코 입구 압박·코 형태 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위입술동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "반대쪽 섬유와 코등에서 만나며 날개부분과 구분한다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "비근 가로부분",
+        "코근 가로부분",
+        "Nasalis pars transversa",
+        "nasalis pars transversa"
+      ]
+    },
+    {
+      "id": "superior-oblique",
+      "name": "상사근",
+      "en": "Superior oblique",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "눈확꼭대기의 나비뼈에서 도르래를 지나 안구 위뒤쪽 공막 계통으로 연결되며, 안쪽회선·하강·벌림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "눈확꼭대기의 나비뼈"
+        },
+        {
+          "label": "정지",
+          "value": "도르래를 지나 안구 위뒤쪽 공막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "안쪽회선·하강·벌림"
+        },
+        {
+          "label": "신경지배",
+          "value": "활차신경 IV"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥 근육가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "눈을 모은 상태에서 아래 보는 작용을 살핀다. 도르래에서 힘줄 방향이 바뀐다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "상사근",
+        "위빗근",
+        "Superior oblique",
+        "oblique, superior",
+        "superior oblique"
+      ]
+    },
+    {
+      "id": "occipitalis",
+      "name": "후두근",
+      "en": "Occipitalis",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "위목덜미선 가쪽·꼭지돌기 계통에서 머리덮개널힘줄 계통으로 연결되며, 두피를 뒤로 당기고 널힘줄 고정에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위목덜미선 가쪽·꼭지돌기 계통"
+        },
+        {
+          "label": "정지",
+          "value": "머리덮개널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "두피를 뒤로 당기고 널힘줄 고정"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 뒤귓바퀴가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤통수동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "후두전두근의 뒤힘살로 깊은 후두하근의 C1 뒤가지 지배와 구분한다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "후두근",
+        "뒤통수근",
+        "Occipitalis",
+        "occipitalis"
+      ]
+    },
+    {
+      "id": "omohyoid",
+      "name": "견갑설골근",
+      "en": "Omohyoid",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "견갑골 위모서리에서 중간힘줄을 거쳐 설골 아래모서리 계통으로 연결되며, 설골 내림·고정에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "견갑골 위모서리"
+        },
+        {
+          "label": "정지",
+          "value": "중간힘줄을 거쳐 설골 아래모서리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "설골 내림·고정"
+        },
+        {
+          "label": "신경지배",
+          "value": "목신경고리"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "가로목동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "위·아래힘살과 근막에 고정된 중간힘줄을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "견갑설골근",
+        "어깨목뿔근",
+        "Omohyoid",
+        "omohyoid"
+      ]
+    },
+    {
+      "id": "orbicularis-oculi",
+      "name": "안륜근",
+      "en": "Orbicularis oculi",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "안쪽 눈확모서리·안쪽눈꺼풀인대 계통에서 눈꺼풀 솔기·눈 주변 피부 계통으로 연결되며, 눈꺼풀 닫기·깜박임에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "안쪽 눈확모서리·안쪽눈꺼풀인대 계통"
+        },
+        {
+          "label": "정지",
+          "value": "눈꺼풀 솔기·눈 주변 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "눈꺼풀 닫기·깜박임"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 관자·광대가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈확위·도르래위·눈확아래동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "눈꺼풀부분의 가벼운 닫힘과 눈확부분의 강한 닫힘을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "안륜근",
+        "눈둘레근",
+        "Orbicularis oculi",
+        "orbicularis oculi"
+      ]
+    },
+    {
+      "id": "orbicularis-oris",
+      "name": "구륜근",
+      "en": "Orbicularis oris",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "입 주위 여러 표정근·입술 결합조직에서 입술 피부·점막 계통 계통으로 연결되며, 입술 닫기·오므리기에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "입 주위 여러 표정근·입술 결합조직"
+        },
+        {
+          "label": "정지",
+          "value": "입술 피부·점막 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "입술 닫기·오므리기"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼·아래턱모서리가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위·아래입술동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "단순한 뼈 기시 하나가 아닌 복합 섬유계통으로 볼근·입꼬리 근육과 연결된다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구륜근",
+        "입둘레근",
+        "Orbicularis oris",
+        "orbicularis oris"
+      ]
+    },
+    {
+      "id": "palatoglossus",
+      "name": "구개설근",
+      "en": "Palatoglossus",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "입천장널힘줄에서 혀 가쪽 계통으로 연결되며, 혀 뒤부분 거상·입인두협부 좁힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "입천장널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "혀 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀 뒤부분 거상·입인두협부 좁힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두신경총"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "편도가지·오름인두동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "혀와 연결되지만 XII 지배가 아닌 X 계통이라는 예외를 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구개설근",
+        "입천장혀근",
+        "Palatoglossus",
+        "palatoglossus"
+      ]
+    },
+    {
+      "id": "palatopharyngeus",
+      "name": "구개인두근",
+      "en": "Palatopharyngeus",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "단단입천장 뒤쪽·입천장널힘줄에서 인두벽·갑상연골 뒤모서리 계통 계통으로 연결되며, 인두·후두 거상; 삼킴 때 인두 길이 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "단단입천장 뒤쪽·입천장널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "인두벽·갑상연골 뒤모서리 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "인두·후두 거상; 삼킴 때 인두 길이 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두신경총"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "수축근의 둘레 섬유와 달리 인두의 세로 근육 계통이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구개인두근",
+        "입천장인두근",
+        "Palatopharyngeus",
+        "palatopharyngeus"
+      ]
+    },
+    {
+      "id": "platysma",
+      "name": "광경근",
+      "en": "Platysma",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "대흉근·삼각근 위 얕은근막에서 아래턱뼈 아래모서리·아랫얼굴 피부 계통으로 연결되며, 목 피부 긴장·아랫입술과 입꼬리 내림 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "대흉근·삼각근 위 얕은근막"
+        },
+        {
+          "label": "정지",
+          "value": "아래턱뼈 아래모서리·아랫얼굴 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목 피부 긴장·아랫입술과 입꼬리 내림 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 목가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얼굴동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "얕은 피부근육이며 목신경고리가 지배하는 설골아래근과 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "광경근",
+        "넓은목근",
+        "Platysma",
+        "platysma"
+      ]
+    },
+    {
+      "id": "posterior-scalene",
+      "name": "후사각근",
+      "en": "Posterior scalene",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "C5–C7 가로돌기 뒤결절에서 제2갈비뼈 바깥면 계통으로 연결되며, 목 가쪽굽힘·제2갈비뼈 거상에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "C5–C7 가로돌기 뒤결절"
+        },
+        {
+          "label": "정지",
+          "value": "제2갈비뼈 바깥면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "목 가쪽굽힘·제2갈비뼈 거상"
+        },
+        {
+          "label": "신경지배",
+          "value": "목 척수신경 앞가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름목동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "제1갈비뼈에 붙는 앞·중간목갈비근과 달리 제2갈비뼈 정지다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "후사각근",
+        "뒤목갈비근",
+        "Posterior scalene",
+        "posterior scalene",
+        "scalene, posterior"
+      ]
+    },
+    {
+      "id": "procerus",
+      "name": "비근근",
+      "en": "Procerus",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "코뼈·윗코 연골 근막에서 미간 피부 계통으로 연결되며, 눈썹 안쪽 내림·코뿌리 가로주름에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "코뼈·윗코 연골 근막"
+        },
+        {
+          "label": "정지",
+          "value": "미간 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "눈썹 안쪽 내림·코뿌리 가로주름"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "도르래위동맥·얼굴동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "눈썹주름근의 세로주름과 눈살근의 코뿌리 가로주름을 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "비근근",
+        "눈살근",
+        "Procerus",
+        "procerus"
+      ]
+    },
+    {
+      "id": "sphincter-pupillae",
+      "name": "동공괄약근",
+      "en": "Sphincter pupillae",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "홍채의 동공 가장자리 원형 평활근에 놓여 동공 축소에 참여하는 구조",
+      "facts": [
+        {
+          "label": "배치·기원",
+          "value": "홍채의 동공 가장자리 원형 평활근"
+        },
+        {
+          "label": "연결·층",
+          "value": "동공을 둘러싸는 연속 고리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "동공 축소"
+        },
+        {
+          "label": "신경지배",
+          "value": "동안신경 부교감섬유 → 모양체신경절 → 짧은섬모체신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥의 섬모체동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "빛반사의 수축 근육이다. 감각 입력 II와 부교감 출력 III를 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "평활근 · 자율신경 조절"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "동공괄약근",
+        "동공조임근",
+        "Sphincter pupillae",
+        "pupillae, sphincter",
+        "sphincter pupillae"
+      ]
+    },
+    {
+      "id": "rectus-capitis-anterior",
+      "name": "전두직근",
+      "en": "Rectus capitis anterior",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "환추 가쪽덩이 앞면에서 뒤통수뼈 바닥부분 계통으로 연결되며, 머리 굽힘·환추뒤통수관절 안정에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "환추 가쪽덩이 앞면"
+        },
+        {
+          "label": "정지",
+          "value": "뒤통수뼈 바닥부분"
+        },
+        {
+          "label": "주요 작용",
+          "value": "머리 굽힘·환추뒤통수관절 안정"
+        },
+        {
+          "label": "신경지배",
+          "value": "C1–C2 앞가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위목의 깊은 동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "환추에서 앞 두개저로 이어지며 C1 뒤가지가 지배하는 후두하근과 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "전두직근",
+        "앞머리곧은근",
+        "Rectus capitis anterior",
+        "rectus capitis anterior"
+      ]
+    },
+    {
+      "id": "rectus-capitis-lateralis",
+      "name": "외측두직근",
+      "en": "Rectus capitis lateralis",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "환추 가로돌기에서 뒤통수뼈 목정맥돌기 계통 계통으로 연결되며, 머리 가쪽굽힘·환추뒤통수관절 안정에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "환추 가로돌기"
+        },
+        {
+          "label": "정지",
+          "value": "뒤통수뼈 목정맥돌기 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "머리 가쪽굽힘·환추뒤통수관절 안정"
+        },
+        {
+          "label": "신경지배",
+          "value": "C1–C2 앞가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위목의 깊은 동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "C1–두개골 가쪽 연결이며 뒤쪽 머리빗근들과 위치·신경 계통이 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "외측두직근",
+        "가쪽머리곧은근",
+        "Rectus capitis lateralis",
+        "rectus capitis lateralis"
+      ]
+    },
+    {
+      "id": "superior-rectus",
+      "name": "상직근",
+      "en": "Superior rectus",
+      "kind": "muscle",
+      "category": "근육 · 눈·눈꺼풀",
+      "identify": "눈확꼭대기 온힘줄고리에서 안구 위쪽 공막 계통으로 연결되며, 거상·모음·안쪽회선에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "눈확꼭대기 온힘줄고리"
+        },
+        {
+          "label": "정지",
+          "value": "안구 위쪽 공막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "거상·모음·안쪽회선"
+        },
+        {
+          "label": "신경지배",
+          "value": "동안신경 위가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "눈동맥 근육가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "눈을 벌린 상태의 위 보기로 수직 작용을 살핀다. 신경 이름만으로 눈꺼풀올림근과 혼동하지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "상직근",
+        "위곧은근",
+        "Superior rectus",
+        "rectus, superior",
+        "superior rectus"
+      ]
+    },
+    {
+      "id": "risorius",
+      "name": "소근",
+      "en": "Risorius",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "볼·귀밑샘 주변 얕은근막에서 입꼬리 계통으로 연결되며, 입꼬리를 가쪽으로 당김에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "볼·귀밑샘 주변 얕은근막"
+        },
+        {
+          "label": "정지",
+          "value": "입꼬리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "입꼬리를 가쪽으로 당김"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얼굴동맥·가로얼굴동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "큰광대근의 위가쪽 이동과 달리 주로 가로 방향의 뒤당김이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "소근",
+        "웃음근",
+        "Risorius",
+        "risorius"
+      ]
+    },
+    {
+      "id": "salpingopharyngeus",
+      "name": "이관인두근",
+      "en": "Salpingopharyngeus",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "귀관 연골 아래안쪽에서 입천장인두근·인두벽 계통 계통으로 연결되며, 인두·후두 거상 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "귀관 연골 아래안쪽"
+        },
+        {
+          "label": "정지",
+          "value": "입천장인두근·인두벽 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "인두·후두 거상 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 X의 인두신경총"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "귀관 아래에서 내려오는 가는 세로근으로 입천장인두근과 연결된다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "이관인두근",
+        "귀관인두근",
+        "Salpingopharyngeus",
+        "salpingopharyngeus"
+      ]
+    },
+    {
+      "id": "sphenomeniscus",
+      "name": "외측익돌근 상두",
+      "en": "Sphenomeniscus",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "나비뼈 큰날개에서 턱관절 원판·관절주머니 계통 계통으로 연결되며, 원판·관절주머니의 위치 조절과 턱 움직임 협동에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "나비뼈 큰날개"
+        },
+        {
+          "label": "정지",
+          "value": "턱관절 원판·관절주머니 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "원판·관절주머니의 위치 조절과 턱 움직임 협동"
+        },
+        {
+          "label": "신경지배",
+          "value": "삼차신경 아래턱가지 V3의 가쪽날개근 가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위턱동맥 날개근가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "별개 독립근의 일반 명칭이 아닌 외측익돌근 위갈래의 다른 이름이다. 아래갈래와 작용을 동일하게 외우지 않는다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "외측익돌근 상두",
+        "가쪽날개근 위갈래",
+        "Sphenomeniscus",
+        "sphenomeniscus"
+      ]
+    },
+    {
+      "id": "stapedius",
+      "name": "등골근",
+      "en": "Stapedius",
+      "kind": "muscle",
+      "category": "근육 · 중이",
+      "identify": "중이 피라미드융기 속에서 등자뼈 목 계통으로 연결되며, 등자뼈 운동·진동 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "중이 피라미드융기 속"
+        },
+        {
+          "label": "정지",
+          "value": "등자뼈 목"
+        },
+        {
+          "label": "주요 작용",
+          "value": "등자뼈 운동·진동 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 등자근가지 VII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "중이 동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "고막긴장근의 V3 지배와 구분하며 두 근육의 정지 뼈도 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "등골근",
+        "등자근",
+        "Stapedius",
+        "stapedius"
+      ]
+    },
+    {
+      "id": "sternothyroid",
+      "name": "흉골갑상근",
+      "en": "Sternothyroid",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "복장뼈자루 뒤면에서 갑상연골 빗선 계통으로 연결되며, 후두·갑상연골 내림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "복장뼈자루 뒤면"
+        },
+        {
+          "label": "정지",
+          "value": "갑상연골 빗선"
+        },
+        {
+          "label": "주요 작용",
+          "value": "후두·갑상연골 내림"
+        },
+        {
+          "label": "신경지배",
+          "value": "목신경고리"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위갑상동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "흉골설골근보다 깊으며 정지점은 설골이 아닌 갑상연골이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "흉골갑상근",
+        "복장방패근",
+        "Sternothyroid",
+        "sternothyroid"
+      ]
+    },
+    {
+      "id": "styloglossus",
+      "name": "경상설근",
+      "en": "Styloglossus",
+      "kind": "muscle",
+      "category": "근육 · 혀",
+      "identify": "관자뼈 붓돌기·인접 인대에서 혀 뒤가쪽 계통으로 연결되며, 혀 뒤당김·가쪽 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "관자뼈 붓돌기·인접 인대"
+        },
+        {
+          "label": "정지",
+          "value": "혀 뒤가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "혀 뒤당김·가쪽 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경 XII"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "혀동맥·오름입천장동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "붓목뿔근·붓인두근과 같은 붓돌기에서 출발하나 정지·지배 신경이 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "경상설근",
+        "붓혀근",
+        "Styloglossus",
+        "styloglossus"
+      ]
+    },
+    {
+      "id": "stylopharyngeus",
+      "name": "경상인두근",
+      "en": "Stylopharyngeus",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "관자뼈 붓돌기 안쪽에서 인두벽·갑상연골 계통 계통으로 연결되며, 인두·후두 거상에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "관자뼈 붓돌기 안쪽"
+        },
+        {
+          "label": "정지",
+          "value": "인두벽·갑상연골 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "인두·후두 거상"
+        },
+        {
+          "label": "신경지배",
+          "value": "설인신경 IX"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "인두근 가운데 IX 운동지배의 대표 예외다. 붓혀근의 XII 지배와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "경상인두근",
+        "붓인두근",
+        "Stylopharyngeus",
+        "stylopharyngeus"
+      ]
+    },
+    {
+      "id": "tensor-tympani",
+      "name": "고막긴장근",
+      "en": "Tensor tympani",
+      "kind": "muscle",
+      "category": "근육 · 중이",
+      "identify": "귀관 연골·나비뼈 및 고막긴장근관에서 망치뼈 자루 계통으로 연결되며, 고막·망치뼈 계통 긴장 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "귀관 연골·나비뼈 및 고막긴장근관"
+        },
+        {
+          "label": "정지",
+          "value": "망치뼈 자루"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고막·망치뼈 계통 긴장 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "삼차신경 아래턱가지 V3"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위고실동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "입천장긴장근과 같은 V3 계통이며 안면신경 지배 등자근과 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "고막긴장근",
+        "고막긴장근육",
+        "Tensor tympani",
+        "tensor tympani"
+      ]
+    },
+    {
+      "id": "tensor-veli-palatini",
+      "name": "구개범장근",
+      "en": "Tensor veli palatini",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "나비뼈·귀관 연골 가쪽에서 날개갈고리를 돌아 입천장널힘줄 계통으로 연결되며, 물렁입천장 긴장·귀관 열림 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "나비뼈·귀관 연골 가쪽"
+        },
+        {
+          "label": "정지",
+          "value": "날개갈고리를 돌아 입천장널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "물렁입천장 긴장·귀관 열림 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "삼차신경 아래턱가지 V3"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "오름인두동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "대부분의 입천장근과 달리 V3 지배이며 힘줄이 날개갈고리에서 방향을 바꾼다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "구개범장근",
+        "입천장긴장근",
+        "Tensor veli palatini",
+        "tensor veli palatini"
+      ]
+    },
+    {
+      "id": "thyroarytenoid",
+      "name": "갑상피열근",
+      "en": "Thyroarytenoid",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "갑상연골 안쪽 앞부분에서 모뿔연골 앞가쪽 계통으로 연결되며, 성대 단축·긴장 조절·모음 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갑상연골 안쪽 앞부분"
+        },
+        {
+          "label": "정지",
+          "value": "모뿔연골 앞가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "성대 단축·긴장 조절·모음 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위·아래후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "안쪽 섬유인 성대근과 위쪽의 방패덮개 부분을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "갑상피열근",
+        "방패모뿔근",
+        "Thyroarytenoid",
+        "thyroarytenoid"
+      ]
+    },
+    {
+      "id": "thyroepiglottic",
+      "name": "갑상후두개근",
+      "en": "Thyroepiglottic",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "갑상연골 안쪽에서 후두덮개 가쪽·주변 막 계통으로 연결되며, 후두덮개와 입구 형태 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갑상연골 안쪽"
+        },
+        {
+          "label": "정지",
+          "value": "후두덮개 가쪽·주변 막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "후두덮개와 입구 형태 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "방패모뿔근의 위쪽 연장으로 기술한다. 단일 작용보다 섬유·연골 연결을 먼저 확인한다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "갑상후두개근",
+        "방패덮개근",
+        "Thyroepiglottic",
+        "thyroepiglottic"
+      ]
+    },
+    {
+      "id": "thyrohyoid",
+      "name": "갑상설골근",
+      "en": "Thyrohyoid",
+      "kind": "muscle",
+      "category": "근육 · 목·설골",
+      "identify": "갑상연골 빗선에서 설골 몸통·큰뿔 아래 계통으로 연결되며, 설골 내림; 설골 고정 시 후두 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갑상연골 빗선"
+        },
+        {
+          "label": "정지",
+          "value": "설골 몸통·큰뿔 아래"
+        },
+        {
+          "label": "주요 작용",
+          "value": "설골 내림; 설골 고정 시 후두 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "설하신경과 동행하는 C1 앞가지 섬유"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위갑상동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "신경 섬유의 출발은 C1이며 XII 고유 운동섬유 또는 목신경고리로 단순화하지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "갑상설골근",
+        "방패목뿔근",
+        "Thyrohyoid",
+        "thyrohyoid"
+      ]
+    },
+    {
+      "id": "trachealis",
+      "name": "기관근",
+      "en": "Trachealis",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "기관 연골고리 뒤쪽 끝에 놓여 기관 지름 조절·기침 때 좁힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "배치·기원",
+          "value": "기관 연골고리 뒤쪽 끝"
+        },
+        {
+          "label": "연결·층",
+          "value": "반대쪽 연골 끝·기관 뒤 막벽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "기관 지름 조절·기침 때 좁힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "미주신경 부교감 계통 등 자율신경 조절"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래갑상동맥·기관지동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "기관 뒤벽의 평활근이다. 앞쪽의 C자 연골과 뒤쪽 식도 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "평활근 · 자율신경 조절"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "기관근",
+        "기관평활근",
+        "Trachealis",
+        "trachealis"
+      ]
+    },
+    {
+      "id": "vocalis",
+      "name": "성대근",
+      "en": "Vocalis",
+      "kind": "muscle",
+      "category": "근육 · 입천장·인두·후두",
+      "identify": "모뿔연골 성대돌기·갑상연골 계통에서 성대인대 옆·내부 섬유 계통으로 연결되며, 성대의 국소 긴장 미세 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "모뿔연골 성대돌기·갑상연골 계통"
+        },
+        {
+          "label": "정지",
+          "value": "성대인대 옆·내부 섬유"
+        },
+        {
+          "label": "주요 작용",
+          "value": "성대의 국소 긴장 미세 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "되돌이후두신경 계통 X"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위·아래후두동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "방패모뿔근의 안쪽 부분이다. 반지방패근의 전체 긴장 증가와 비교한다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "성대근",
+        "목소리근",
+        "Vocalis",
+        "vocalis"
+      ]
+    },
+    {
+      "id": "zygomaticus-major",
+      "name": "대관골근",
+      "en": "Zygomaticus major",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "광대뼈 가쪽면에서 입꼬리 계통으로 연결되며, 입꼬리 위가쪽 당김에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "광대뼈 가쪽면"
+        },
+        {
+          "label": "정지",
+          "value": "입꼬리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "입꼬리 위가쪽 당김"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 광대·볼가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얼굴동맥·가로얼굴동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "웃을 때 입꼬리 움직임을 윗입술에 붙는 작은광대근과 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "대관골근",
+        "큰광대근",
+        "Zygomaticus major",
+        "zygomaticus major"
+      ]
+    },
+    {
+      "id": "zygomaticus-minor",
+      "name": "소관골근",
+      "en": "Zygomaticus minor",
+      "kind": "muscle",
+      "category": "근육 · 얼굴·두피·귓바퀴",
+      "identify": "광대뼈 앞아래면에서 윗입술 계통으로 연결되며, 윗입술 올림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "광대뼈 앞아래면"
+        },
+        {
+          "label": "정지",
+          "value": "윗입술"
+        },
+        {
+          "label": "주요 작용",
+          "value": "윗입술 올림"
+        },
+        {
+          "label": "신경지배",
+          "value": "안면신경 볼가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얼굴동맥·가로얼굴동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "큰광대근보다 안쪽에 놓이고 입꼬리보다는 윗입술 정지가 핵심이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "head-muscles"
+      ],
+      "aliases": [
+        "소관골근",
+        "작은광대근",
+        "Zygomaticus minor",
+        "zygomaticus minor"
+      ]
+    },
+    {
+      "id": "abductor-digiti-minimi-foot",
+      "name": "발의 소지외전근",
+      "en": "Abductor digiti minimi (foot)",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "발꿈치뼈거친면·발바닥널힘줄에서 제5발가락 몸쪽마디뼈 바닥 가쪽 계통으로 연결되며, 제5발가락 벌림·발허리발가락관절 굽힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "발꿈치뼈거친면·발바닥널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "제5발가락 몸쪽마디뼈 바닥 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "제5발가락 벌림·발허리발가락관절 굽힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "가쪽발바닥신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "가쪽발바닥동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "발바닥 가쪽 가장자리 근육으로 손의 새끼손가락벌림근과 부위를 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 소지외전근",
+        "새끼발가락벌림근",
+        "Abductor digiti minimi (foot)",
+        "abductor digiti minimi (foot)"
+      ]
+    },
+    {
+      "id": "abductor-hallucis",
+      "name": "발의 무지외전근",
+      "en": "Abductor hallucis",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "발꿈치뼈거친면 안쪽·발바닥널힘줄에서 엄지발가락 몸쪽마디뼈 바닥 안쪽 계통으로 연결되며, 엄지발가락 벌림·굽힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "발꿈치뼈거친면 안쪽·발바닥널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "엄지발가락 몸쪽마디뼈 바닥 안쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "엄지발가락 벌림·굽힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "안쪽발바닥신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "안쪽발바닥동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "발바닥 안쪽 가장자리에 놓이며 pollicis인 손 엄지 근육과 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 무지외전근",
+        "엄지발가락벌림근",
+        "Abductor hallucis",
+        "abductor hallucis"
+      ]
+    },
+    {
+      "id": "adductor-hallucis",
+      "name": "발의 무지내전근",
+      "en": "Adductor hallucis",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "빗갈래 제2–4발허리뼈 바닥, 가로갈래 제3–5발허리발가락관절 계통에서 엄지발가락 몸쪽마디뼈 바닥 가쪽 계통으로 연결되며, 엄지발가락 모음·발 가로활 지지 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "빗갈래 제2–4발허리뼈 바닥, 가로갈래 제3–5발허리발가락관절 계통"
+        },
+        {
+          "label": "정지",
+          "value": "엄지발가락 몸쪽마디뼈 바닥 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "엄지발가락 모음·발 가로활 지지 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "가쪽발바닥신경 깊은가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "발바닥동맥활"
+        },
+        {
+          "label": "식별·비교",
+          "value": "발가락 벌림·모음 기준은 둘째발가락 축이다. 엄지 쪽이 항상 모음 방향은 아니다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 무지내전근",
+        "엄지발가락모음근",
+        "Adductor hallucis",
+        "adductor hallucis"
+      ]
+    },
+    {
+      "id": "adductor-minimus",
+      "name": "최소내전근",
+      "en": "Adductor minimus",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "두덩뼈 아래가지 계통에서 넙다리뼈 둔근능선·거친선 위부 계통으로 연결되며, 고관절 모음·바깥돌림 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "두덩뼈 아래가지 계통"
+        },
+        {
+          "label": "정지",
+          "value": "넙다리뼈 둔근능선·거친선 위부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 모음·바깥돌림 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "폐쇄신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "폐쇄동맥·안쪽넙다리휘돌이동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "대내전근 위쪽 일부를 별도로 부르는 이름으로 독립 분리 여부에 차이가 있다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "최소내전근",
+        "작은모음근",
+        "Adductor minimus",
+        "adductor minimus"
+      ]
+    },
+    {
+      "id": "articularis-genu",
+      "name": "슬관절근",
+      "en": "Articularis genu",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "넙다리뼈 먼쪽 앞면에서 무릎관절 주머니·무릎위주머니 계통으로 연결되며, 무릎 폄 때 관절주머니를 위로 당김에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "넙다리뼈 먼쪽 앞면"
+        },
+        {
+          "label": "정지",
+          "value": "무릎관절 주머니·무릎위주머니"
+        },
+        {
+          "label": "주요 작용",
+          "value": "무릎 폄 때 관절주머니를 위로 당김"
+        },
+        {
+          "label": "신경지배",
+          "value": "대퇴신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "내림무릎동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "중간광근 깊은 곳의 작은 근육으로 주된 무릎 폄근과 역할을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "슬관절근",
+        "무릎관절근",
+        "Articularis genu",
+        "articularis genu"
+      ]
+    },
+    {
+      "id": "dorsal-interossei-of-foot",
+      "name": "발의 배측골간근군",
+      "en": "Dorsal interossei of foot",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "서로 마주 보는 인접 발허리뼈 면에서 제2발가락 양쪽·제3–4발가락 가쪽 몸쪽마디 및 폄근널힘줄 계통으로 연결되며, 둘째발가락 축에서 벌림·발허리발가락관절 굽힘·마디관절 폄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "서로 마주 보는 인접 발허리뼈 면"
+        },
+        {
+          "label": "정지",
+          "value": "제2발가락 양쪽·제3–4발가락 가쪽 몸쪽마디 및 폄근널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "둘째발가락 축에서 벌림·발허리발가락관절 굽힘·마디관절 폄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "가쪽발바닥신경 깊은가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "발등·발바닥발허리동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "네 근육 묶음이다. 손의 가운데손가락 기준축과 발의 둘째발가락 축을 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 배측골간근군",
+        "발등뼈사이근군",
+        "Dorsal interossei of foot",
+        "dorsal interosseous (foot)",
+        "interosseous, dorsal (foot)"
+      ]
+    },
+    {
+      "id": "extensor-digitorum-brevis",
+      "name": "단지신근",
+      "en": "Extensor digitorum brevis",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "발꿈치뼈 위가쪽·폄근지지띠 계통에서 주로 제2–4발가락 긴폄근힘줄·폄근널힘줄 계통으로 연결되며, 제2–4발가락 폄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "발꿈치뼈 위가쪽·폄근지지띠 계통"
+        },
+        {
+          "label": "정지",
+          "value": "주로 제2–4발가락 긴폄근힘줄·폄근널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "제2–4발가락 폄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "깊은종아리신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "발등동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "발등 내재근이다. 엄지 쪽 부분을 짧은엄지발가락폄근으로 따로 기술한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "단지신근",
+        "짧은발가락폄근",
+        "Extensor digitorum brevis",
+        "extensor digitorum brevis"
+      ]
+    },
+    {
+      "id": "extensor-hallucis-brevis",
+      "name": "발의 단무지신근",
+      "en": "Extensor hallucis brevis",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "발꿈치뼈 위가쪽에서 엄지발가락 몸쪽마디뼈 바닥 등쪽 계통으로 연결되며, 엄지발가락 발허리발가락관절 폄에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "발꿈치뼈 위가쪽"
+        },
+        {
+          "label": "정지",
+          "value": "엄지발가락 몸쪽마디뼈 바닥 등쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "엄지발가락 발허리발가락관절 폄"
+        },
+        {
+          "label": "신경지배",
+          "value": "깊은종아리신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "발등동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "짧은발가락폄근의 안쪽 부분이며 긴 엄지 폄근의 끝마디 정지와 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 단무지신근",
+        "짧은엄지발가락폄근",
+        "Extensor hallucis brevis",
+        "extensor hallucis brevis"
+      ]
+    },
+    {
+      "id": "fibularis-tertius",
+      "name": "제3비골근",
+      "en": "Fibularis tertius",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "종아리뼈 먼쪽 앞면·뼈사이막에서 제5발허리뼈 바닥 등쪽 계통으로 연결되며, 발등굽힘·가쪽번짐 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "종아리뼈 먼쪽 앞면·뼈사이막"
+        },
+        {
+          "label": "정지",
+          "value": "제5발허리뼈 바닥 등쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "발등굽힘·가쪽번짐 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "깊은종아리신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "앞정강동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "이름은 종아리근이나 앞 구획이다. 가쪽 구획의 긴·짧은종아리근과 신경이 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "제3비골근",
+        "셋째종아리근",
+        "Peroneus tertius",
+        "Fibularis tertius",
+        "fibularis (peroneus) tertius"
+      ]
+    },
+    {
+      "id": "flexor-digiti-minimi-brevis-foot",
+      "name": "발의 단소지굴근",
+      "en": "Flexor digiti minimi brevis (foot)",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "제5발허리뼈 바닥·긴종아리근 힘줄집 계통에서 제5발가락 몸쪽마디뼈 바닥 계통으로 연결되며, 제5발허리발가락관절 굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "제5발허리뼈 바닥·긴종아리근 힘줄집 계통"
+        },
+        {
+          "label": "정지",
+          "value": "제5발가락 몸쪽마디뼈 바닥"
+        },
+        {
+          "label": "주요 작용",
+          "value": "제5발허리발가락관절 굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "가쪽발바닥신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "가쪽발바닥동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "발바닥 가쪽의 짧은 내재근으로 손의 같은 이름 근육과 부위를 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 단소지굴근",
+        "짧은새끼발가락굽힘근",
+        "Flexor digiti minimi brevis (foot)",
+        "flexor digiti minimi brevis (foot)"
+      ]
+    },
+    {
+      "id": "flexor-digitorum-brevis",
+      "name": "단지굴근",
+      "en": "Flexor digitorum brevis",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "발꿈치뼈거친면·발바닥널힘줄에서 제2–5발가락 중간마디뼈 계통으로 연결되며, 발가락 몸쪽마디관절·발허리발가락관절 굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "발꿈치뼈거친면·발바닥널힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "제2–5발가락 중간마디뼈"
+        },
+        {
+          "label": "주요 작용",
+          "value": "발가락 몸쪽마디관절·발허리발가락관절 굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "안쪽발바닥신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "안쪽·가쪽발바닥동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "힘줄이 갈라져 긴굽힘근힘줄이 지나간다. 끝마디까지 가는 긴굽힘근과 정지를 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "단지굴근",
+        "짧은발가락굽힘근",
+        "Flexor digitorum brevis",
+        "flexor digitorum brevis"
+      ]
+    },
+    {
+      "id": "flexor-digitorum-longus",
+      "name": "장지굴근",
+      "en": "Flexor digitorum longus",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "정강뼈 뒤면에서 제2–5발가락 끝마디뼈 바닥 계통으로 연결되며, 발가락 먼쪽마디관절 굽힘·발바닥굽힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "정강뼈 뒤면"
+        },
+        {
+          "label": "정지",
+          "value": "제2–5발가락 끝마디뼈 바닥"
+        },
+        {
+          "label": "주요 작용",
+          "value": "발가락 먼쪽마디관절 굽힘·발바닥굽힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "경골신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤정강동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "종아리 뒤 깊은 구획에서 안쪽복사 뒤를 지난다. 발바닥 내재근과 기시를 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "장지굴근",
+        "긴발가락굽힘근",
+        "Flexor digitorum longus",
+        "flexor digitorum longus"
+      ]
+    },
+    {
+      "id": "flexor-hallucis-brevis",
+      "name": "발의 단무지굴근",
+      "en": "Flexor hallucis brevis",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "입방뼈·가쪽쐐기뼈 및 주변 힘줄 계통에서 종자뼈를 거쳐 엄지발가락 몸쪽마디뼈 바닥 양쪽 계통으로 연결되며, 엄지발허리발가락관절 굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "입방뼈·가쪽쐐기뼈 및 주변 힘줄 계통"
+        },
+        {
+          "label": "정지",
+          "value": "종자뼈를 거쳐 엄지발가락 몸쪽마디뼈 바닥 양쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "엄지발허리발가락관절 굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "주로 안쪽발바닥신경; 가쪽힘살 지배 변이"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "안쪽발바닥동맥 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "두 정지힘줄의 종자뼈 사이로 긴엄지발가락굽힘근힘줄이 지난다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 단무지굴근",
+        "짧은엄지발가락굽힘근",
+        "Flexor hallucis brevis",
+        "flexor hallucis brevis"
+      ]
+    },
+    {
+      "id": "inferior-gemellus",
+      "name": "하쌍자근",
+      "en": "Inferior gemellus",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "궁둥뼈결절에서 속폐쇄근힘줄 계통 계통으로 연결되며, 고관절 바깥돌림·굽힌 고관절 벌림 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "궁둥뼈결절"
+        },
+        {
+          "label": "정지",
+          "value": "속폐쇄근힘줄 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 바깥돌림·굽힌 고관절 벌림 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "넙다리네모근신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래볼기동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "위쌍동근과 정지는 비슷하지만 기시·신경이 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "하쌍자근",
+        "아래쌍동근",
+        "Inferior gemellus",
+        "gemellus, inferior",
+        "inferior gemellus"
+      ]
+    },
+    {
+      "id": "superior-gemellus",
+      "name": "상쌍자근",
+      "en": "Superior gemellus",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "궁둥뼈가시에서 속폐쇄근힘줄 계통 계통으로 연결되며, 고관절 바깥돌림·굽힌 고관절 벌림 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "궁둥뼈가시"
+        },
+        {
+          "label": "정지",
+          "value": "속폐쇄근힘줄 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 바깥돌림·굽힌 고관절 벌림 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "속폐쇄근신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래볼기동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "궁둥뼈가시 기시·속폐쇄근신경을 아래쌍동근의 결절 기시와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "상쌍자근",
+        "위쌍동근",
+        "Superior gemellus",
+        "gemellus, superior",
+        "superior gemellus"
+      ]
+    },
+    {
+      "id": "plantar-interossei-of-foot",
+      "name": "발의 저측골간근군",
+      "en": "Plantar interossei of foot",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "제3–5발허리뼈 안쪽면에서 제3–5발가락 몸쪽마디뼈 안쪽·폄근널힘줄 계통으로 연결되며, 둘째발가락 축으로 모음·발허리발가락관절 굽힘·마디관절 폄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "제3–5발허리뼈 안쪽면"
+        },
+        {
+          "label": "정지",
+          "value": "제3–5발가락 몸쪽마디뼈 안쪽·폄근널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "둘째발가락 축으로 모음·발허리발가락관절 굽힘·마디관절 폄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "가쪽발바닥신경 깊은가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "발바닥발허리동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "세 근육 묶음이며 발등뼈사이근의 벌림과 반대 작용이다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 저측골간근군",
+        "발바닥뼈사이근군",
+        "Plantar interossei of foot",
+        "interosseous, plantar",
+        "plantar interosseous"
+      ]
+    },
+    {
+      "id": "lumbricals-of-foot",
+      "name": "발의 충양근군",
+      "en": "Lumbricals of foot",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "긴발가락굽힘근힘줄에서 제2–5발가락 폄근널힘줄 안쪽 계통으로 연결되며, 발허리발가락관절 굽힘·마디관절 폄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "긴발가락굽힘근힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "제2–5발가락 폄근널힘줄 안쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "발허리발가락관절 굽힘·마디관절 폄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "제1은 안쪽발바닥신경, 제2–4는 가쪽발바닥신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "발바닥동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "네 근육 묶음이며 손 벌레근의 가쪽 두 개 정중신경 지배와 숫자 기준이 다르다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "발의 충양근군",
+        "발의 벌레근군",
+        "Lumbricals of foot",
+        "lumbricals (foot)"
+      ]
+    },
+    {
+      "id": "obturator-externus",
+      "name": "외폐쇄근",
+      "en": "Obturator externus",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "폐쇄막 바깥면·주변 두덩뼈·궁둥뼈에서 넙다리뼈 돌기오목 계통으로 연결되며, 고관절 바깥돌림·넙다리뼈머리 안정에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "폐쇄막 바깥면·주변 두덩뼈·궁둥뼈"
+        },
+        {
+          "label": "정지",
+          "value": "넙다리뼈 돌기오목"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 바깥돌림·넙다리뼈머리 안정"
+        },
+        {
+          "label": "신경지배",
+          "value": "폐쇄신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "폐쇄동맥·안쪽넙다리휘돌이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "힘줄은 넙다리뼈 목 뒤로 이어지며 작은궁둥구멍을 지나는 속폐쇄근과 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "외폐쇄근",
+        "바깥폐쇄근",
+        "Obturator externus",
+        "obturator externus"
+      ]
+    },
+    {
+      "id": "obturator-internus",
+      "name": "내폐쇄근",
+      "en": "Obturator internus",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "폐쇄막 골반쪽 면·폐쇄구멍 주변에서 작은궁둥구멍을 돌아 넙다리뼈 큰돌기 안쪽 계통으로 연결되며, 고관절 바깥돌림·굽힌 고관절 벌림에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "폐쇄막 골반쪽 면·폐쇄구멍 주변"
+        },
+        {
+          "label": "정지",
+          "value": "작은궁둥구멍을 돌아 넙다리뼈 큰돌기 안쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 바깥돌림·굽힌 고관절 벌림"
+        },
+        {
+          "label": "신경지배",
+          "value": "속폐쇄근신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "폐쇄동맥·볼기동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "골반벽 기시지만 힘줄은 골반 밖으로 간다. 음부신경 주행과 근막 관계도 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles",
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "내폐쇄근",
+        "속폐쇄근",
+        "Obturator internus",
+        "obturator internus"
+      ]
+    },
+    {
+      "id": "pectineus",
+      "name": "치골근",
+      "en": "Pectineus",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "두덩뼈 위가지·두덩빗에서 넙다리뼈 두덩근선 계통으로 연결되며, 고관절 모음·굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "두덩뼈 위가지·두덩빗"
+        },
+        {
+          "label": "정지",
+          "value": "넙다리뼈 두덩근선"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 모음·굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "주로 대퇴신경; 폐쇄·덧폐쇄신경 기여 변이"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "안쪽넙다리휘돌이동맥·폐쇄동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "다른 내전근의 폐쇄신경 지배를 그대로 적용하지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "치골근",
+        "두덩근",
+        "Pectineus",
+        "pectineus"
+      ]
+    },
+    {
+      "id": "quadratus-femoris",
+      "name": "대퇴방형근",
+      "en": "Quadratus femoris",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "궁둥뼈결절 가쪽에서 넙다리뼈 돌기사이능선의 네모근결절 계통으로 연결되며, 고관절 바깥돌림·모음 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "궁둥뼈결절 가쪽"
+        },
+        {
+          "label": "정지",
+          "value": "넙다리뼈 돌기사이능선의 네모근결절"
+        },
+        {
+          "label": "주요 작용",
+          "value": "고관절 바깥돌림·모음 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "넙다리네모근신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래볼기동맥·안쪽넙다리휘돌이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "같은 신경이 아래쌍동근도 지배한다. 위쌍동근의 신경과 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "대퇴방형근",
+        "넙다리네모근",
+        "Quadratus femoris",
+        "quadratus femoris"
+      ]
+    },
+    {
+      "id": "quadratus-plantae",
+      "name": "족저방형근",
+      "en": "Quadratus plantae",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "발꿈치뼈 안쪽·가쪽 발바닥면에서 긴발가락굽힘근힘줄 계통으로 연결되며, 긴발가락굽힘근 당김 방향 보정·굽힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "발꿈치뼈 안쪽·가쪽 발바닥면"
+        },
+        {
+          "label": "정지",
+          "value": "긴발가락굽힘근힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "긴발가락굽힘근 당김 방향 보정·굽힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "가쪽발바닥신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "가쪽발바닥동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뼈가 아닌 힘줄에 붙어 협동하는 발바닥 두 번째 층 근육이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "족저방형근",
+        "발바닥네모근",
+        "Quadratus plantae",
+        "quadratus plantae"
+      ]
+    },
+    {
+      "id": "quadriceps-femoris",
+      "name": "대퇴사두근",
+      "en": "Quadriceps femoris",
+      "kind": "muscle",
+      "category": "근육 · 하지",
+      "identify": "대퇴직근은 골반, 광근 세 갈래는 넙다리뼈에서 무릎뼈·무릎인대를 거쳐 정강뼈거친면 계통으로 연결되며, 무릎 폄; 대퇴직근은 고관절 굽힘도 참여에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "대퇴직근은 골반, 광근 세 갈래는 넙다리뼈"
+        },
+        {
+          "label": "정지",
+          "value": "무릎뼈·무릎인대를 거쳐 정강뼈거친면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "무릎 폄; 대퇴직근은 고관절 굽힘도 참여"
+        },
+        {
+          "label": "신경지배",
+          "value": "대퇴신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "가쪽넙다리휘돌이동맥·깊은넙다리동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "대퇴직근·내측광근·외측광근·중간광근의 묶음이다. 고관절 통과 여부를 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "lower-muscles"
+      ],
+      "aliases": [
+        "대퇴사두근",
+        "넙다리네갈래근",
+        "Quadriceps femoris",
+        "quadriceps femoris"
+      ]
+    },
+    {
+      "id": "external-anal-sphincter",
+      "name": "외항문괄약근",
+      "en": "External anal sphincter",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "회음체·꼬리뼈와 주변 결합조직에서 항문관을 둘러싸는 골격근 고리 계통으로 연결되며, 수의적 항문 폐쇄·변 유지에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "회음체·꼬리뼈와 주변 결합조직"
+        },
+        {
+          "label": "정지",
+          "value": "항문관을 둘러싸는 골격근 고리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "수의적 항문 폐쇄·변 유지"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 아래곧창자가지; 엉치신경 기여"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래곧창자동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "피하·얕은·깊은 부분을 나눈다. 평활근인 내항문괄약근과 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "외항문괄약근",
+        "바깥항문조임근",
+        "External anal sphincter",
+        "anal sphincter, external",
+        "sphincter ani externus"
+      ]
+    },
+    {
+      "id": "internal-anal-sphincter",
+      "name": "내항문괄약근",
+      "en": "Internal anal sphincter",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "직장 원형 평활근층의 두꺼워진 부분에 놓여 기저 긴장으로 항문 폐쇄; 직장 팽창 반사에서 이완에 참여하는 구조",
+      "facts": [
+        {
+          "label": "배치·기원",
+          "value": "직장 원형 평활근층의 두꺼워진 부분"
+        },
+        {
+          "label": "연결·층",
+          "value": "위 항문관 주위 연속 고리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "기저 긴장으로 항문 폐쇄; 직장 팽창 반사에서 이완"
+        },
+        {
+          "label": "신경지배",
+          "value": "장신경계·골반 자율신경계 조절; 교감은 긴장 보조, 부교감·억제성 경로는 이완 관여"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위·중간곧창자동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "기저 긴장은 주로 근육 자체 성질에서 생긴다. 부교감이 단순히 수축시킨다고 외우지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "평활근 · 자율신경 조절"
+        }
+      ],
+      "references": [
+        "pelvic-muscles",
+        "anal-control"
+      ],
+      "aliases": [
+        "내항문괄약근",
+        "속항문조임근",
+        "Internal anal sphincter",
+        "anal sphincter, internal",
+        "sphincter ani internus"
+      ]
+    },
+    {
+      "id": "bulbospongiosus-female",
+      "name": "여성 구해면체근",
+      "en": "Bulbospongiosus (female)",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "회음체·질어귀망울 주변 근막에서 회음막·음핵 해면체 계통 계통으로 연결되며, 질어귀망울 압박·질 입구 좁힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "회음체·질어귀망울 주변 근막"
+        },
+        {
+          "label": "정지",
+          "value": "회음막·음핵 해면체 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "질어귀망울 압박·질 입구 좁힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 회음가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "회음동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "질어귀 양옆의 쌍근육으로 남성의 정중 솔기·음경망울 관계와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "여성 구해면체근",
+        "여성 망울해면체근",
+        "Bulbospongiosus (female)",
+        "bulbospongiosus, in female"
+      ]
+    },
+    {
+      "id": "bulbospongiosus-male",
+      "name": "남성 구해면체근",
+      "en": "Bulbospongiosus (male)",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "회음체·음경망울 위 정중솔기에서 음경해면체·회음막·주변 근막 계통으로 연결되며, 음경망울·해면요도 압박; 잔뇨·정액 배출 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "회음체·음경망울 위 정중솔기"
+        },
+        {
+          "label": "정지",
+          "value": "음경해면체·회음막·주변 근막"
+        },
+        {
+          "label": "주요 작용",
+          "value": "음경망울·해면요도 압박; 잔뇨·정액 배출 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 회음가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "회음동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "골격근이며 방광벽 배뇨근의 부교감 지배와 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "남성 구해면체근",
+        "남성 망울해면체근",
+        "Bulbospongiosus (male)",
+        "bulbospongiosus, in male"
+      ]
+    },
+    {
+      "id": "coccygeus",
+      "name": "미골근",
+      "en": "Coccygeus",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "궁둥뼈가시·엉치가시인대 계통에서 꼬리뼈·아래 엉치뼈 가쪽 계통으로 연결되며, 골반바닥 지지·꼬리뼈 움직임 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "궁둥뼈가시·엉치가시인대 계통"
+        },
+        {
+          "label": "정지",
+          "value": "꼬리뼈·아래 엉치뼈 가쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "골반바닥 지지·꼬리뼈 움직임 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "아래 엉치신경 앞가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "아래볼기동맥·가쪽엉치동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "항문올림근 뒤쪽에 위치해 골반가로막을 함께 이룬다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "미골근",
+        "꼬리근",
+        "Coccygeus",
+        "coccygeus"
+      ]
+    },
+    {
+      "id": "deep-transverse-perineus",
+      "name": "심회음횡근",
+      "en": "Deep transverse perineus",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "궁둥두덩가지 안쪽 계통에서 회음체·반대쪽 섬유 계통 계통으로 연결되며, 회음체·요도 주변 지지에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "궁둥두덩가지 안쪽 계통"
+        },
+        {
+          "label": "정지",
+          "value": "회음체·반대쪽 섬유 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "회음체·요도 주변 지지"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 회음가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속음부동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "구성·독립 분리와 성별 차이가 있다. 고전적 요생식가로막 개념과 현대 회음막·조임근 복합체를 함께 본다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "심회음횡근",
+        "깊은샅가로근",
+        "Deep transverse perineus",
+        "deep transverse perineus",
+        "transverse perineus, deep"
+      ]
+    },
+    {
+      "id": "detrusor",
+      "name": "배뇨근",
+      "en": "Detrusor",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "방광벽의 여러 방향 평활근 다발에 놓여 배뇨 시 수축해 방광 내용물 배출에 참여하는 구조",
+      "facts": [
+        {
+          "label": "배치·기원",
+          "value": "방광벽의 여러 방향 평활근 다발"
+        },
+        {
+          "label": "연결·층",
+          "value": "방광벽 전체의 연속 근육층"
+        },
+        {
+          "label": "주요 작용",
+          "value": "배뇨 시 수축해 방광 내용물 배출"
+        },
+        {
+          "label": "신경지배",
+          "value": "골반내장신경 S2–S4 부교감은 수축; 교감 β3 계통은 저장 시 이완"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "위방광동맥·아래방광 또는 질동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뼈 기시·정지가 없다. 요도조임근의 이완과 협동해야 배출이 가능하다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "평활근 · 자율신경 조절"
+        }
+      ],
+      "references": [
+        "pelvic-muscles",
+        "urinary-control"
+      ],
+      "aliases": [
+        "배뇨근",
+        "방광배뇨근",
+        "Detrusor",
+        "detruser of bladder"
+      ]
+    },
+    {
+      "id": "iliococcygeus",
+      "name": "장골미골근",
+      "en": "Iliococcygeus",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "항문올림근 힘줄활·궁둥뼈가시에서 항문꼬리솔기·꼬리뼈 계통으로 연결되며, 골반바닥 지지·거상 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "항문올림근 힘줄활·궁둥뼈가시"
+        },
+        {
+          "label": "정지",
+          "value": "항문꼬리솔기·꼬리뼈"
+        },
+        {
+          "label": "주요 작용",
+          "value": "골반바닥 지지·거상 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "항문올림근신경 S3–S4 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속장골동맥 골반 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "항문올림근의 뒤가쪽 부분이며 이름과 달리 엉덩뼈 몸통에서만 시작하지 않는다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "장골미골근",
+        "엉덩꼬리근",
+        "Iliococcygeus",
+        "iliococcygeus"
+      ]
+    },
+    {
+      "id": "ischiocavernosus",
+      "name": "좌골해면체근",
+      "en": "Ischiocavernosus",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "궁둥뼈결절·궁둥두덩가지에서 음경 또는 음핵 다리·해면체 계통 계통으로 연결되며, 해면체 압박·발기 유지 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "궁둥뼈결절·궁둥두덩가지"
+        },
+        {
+          "label": "정지",
+          "value": "음경 또는 음핵 다리·해면체 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "해면체 압박·발기 유지 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 회음가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "회음동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "외생식기 다리를 덮으며 망울해면체근의 더 안쪽 위치와 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "좌골해면체근",
+        "궁둥해면체근",
+        "Ischiocavernosus",
+        "ischiocavernosus"
+      ]
+    },
+    {
+      "id": "levator-ani",
+      "name": "항문거근군",
+      "en": "Levator ani",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "두덩뼈·항문올림근 힘줄활·궁둥뼈가시에서 회음체·항문관 주변·항문꼬리솔기·꼬리뼈 계통 계통으로 연결되며, 골반장기 지지·골반바닥 거상·배변 조절에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "두덩뼈·항문올림근 힘줄활·궁둥뼈가시"
+        },
+        {
+          "label": "정지",
+          "value": "회음체·항문관 주변·항문꼬리솔기·꼬리뼈 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "골반장기 지지·골반바닥 거상·배변 조절"
+        },
+        {
+          "label": "신경지배",
+          "value": "주로 항문올림근신경 S3–S4; 부위별 음부신경 기여"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속장골동맥 골반 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "치골직장근·치골미골근·장골미골근 등의 묶음이며 각 부분의 연결을 나누어 본다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "항문거근군",
+        "항문올림근군",
+        "Levator ani",
+        "levator ani"
+      ]
+    },
+    {
+      "id": "levator-prostatae",
+      "name": "전립선거근",
+      "en": "Levator prostatae",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "두덩뼈 뒤면에서 전립샘 주변 근막·회음 연결 계통 계통으로 연결되며, 전립샘·주변 골반바닥 지지에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "두덩뼈 뒤면"
+        },
+        {
+          "label": "정지",
+          "value": "전립샘 주변 근막·회음 연결 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "전립샘·주변 골반바닥 지지"
+        },
+        {
+          "label": "신경지배",
+          "value": "항문올림근신경 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속장골동맥 골반 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "항문올림근의 전립샘 쪽 섬유를 부르는 이름으로 분류법에 따라 하위 구성이 다르다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "전립선거근",
+        "전립샘올림근",
+        "Levator prostatae",
+        "levator prostatae"
+      ]
+    },
+    {
+      "id": "pubococcygeus",
+      "name": "치골미골근",
+      "en": "Pubococcygeus",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "두덩뼈 뒤면·항문올림근 힘줄활 앞부분에서 회음체·골반장기 주변·항문꼬리솔기·꼬리뼈 계통 계통으로 연결되며, 골반바닥 지지·거상에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "두덩뼈 뒤면·항문올림근 힘줄활 앞부분"
+        },
+        {
+          "label": "정지",
+          "value": "회음체·골반장기 주변·항문꼬리솔기·꼬리뼈 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "골반바닥 지지·거상"
+        },
+        {
+          "label": "신경지배",
+          "value": "항문올림근신경 S3–S4 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속장골동맥 골반 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "정지가 꼬리뼈 하나만은 아니다. 골반장기별 연결 섬유와 성별 구성을 함께 본다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "치골미골근",
+        "두덩꼬리근",
+        "Pubococcygeus",
+        "pubococcygeus"
+      ]
+    },
+    {
+      "id": "puborectalis",
+      "name": "치골직장근",
+      "en": "Puborectalis",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "양쪽 두덩뼈 뒤면에서 직장항문접합부 뒤에서 반대쪽과 U자 고리 형성 계통으로 연결되며, 직장항문각 유지·변 유지 보조; 배변 시 이완에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "양쪽 두덩뼈 뒤면"
+        },
+        {
+          "label": "정지",
+          "value": "직장항문접합부 뒤에서 반대쪽과 U자 고리 형성"
+        },
+        {
+          "label": "주요 작용",
+          "value": "직장항문각 유지·변 유지 보조; 배변 시 이완"
+        },
+        {
+          "label": "신경지배",
+          "value": "항문올림근신경·음부신경 기여 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "골반·곧창자동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "항문관을 원형으로 감싼 외조임근과 달리 직장 뒤의 U자 슬링이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "치골직장근",
+        "두덩곧창자근",
+        "Puborectalis",
+        "puborectalis"
+      ]
+    },
+    {
+      "id": "pubovaginalis",
+      "name": "치골질근",
+      "en": "Pubovaginalis",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "두덩뼈 뒤면에서 질벽 주변 근막·회음체 계통으로 연결되며, 질 주변·골반바닥 지지에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "두덩뼈 뒤면"
+        },
+        {
+          "label": "정지",
+          "value": "질벽 주변 근막·회음체"
+        },
+        {
+          "label": "주요 작용",
+          "value": "질 주변·골반바닥 지지"
+        },
+        {
+          "label": "신경지배",
+          "value": "항문올림근신경 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속장골동맥·질동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "항문올림근의 질 주변 부분을 뜻하며 별개 근육의 독립성은 분류법에 따라 다르다. 전체 근육과 하위 부분의 포함 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "치골질근",
+        "두덩질근",
+        "Pubovaginalis",
+        "pubovaginalis"
+      ]
+    },
+    {
+      "id": "external-urethral-sphincter-female",
+      "name": "여성 외요도괄약근 복합체",
+      "en": "External urethral sphincter (female)",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "요도 둘레·회음막 및 주변 골격근 섬유에서 요도·질 주변 조임근 복합체 계통으로 연결되며, 수의적 요도 폐쇄·요 자제 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "요도 둘레·회음막 및 주변 골격근 섬유"
+        },
+        {
+          "label": "정지",
+          "value": "요도·질 주변 조임근 복합체"
+        },
+        {
+          "label": "주요 작용",
+          "value": "수의적 요도 폐쇄·요 자제 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 회음가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속음부동맥·질동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "요도조임근·요도압박근·요도질조임근을 구분한다. 요도와 질을 하나의 단순 고리로만 외우지 않는다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "여성 외요도괄약근 복합체",
+        "여성 바깥요도조임근",
+        "External urethral sphincter (female)",
+        "sphincter urethrae, in female"
+      ]
+    },
+    {
+      "id": "external-urethral-sphincter-male",
+      "name": "남성 외요도괄약근",
+      "en": "External urethral sphincter (male)",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "막요도 주변·전립샘 아래의 골격근 섬유에서 요도 둘레의 조임근 계통 계통으로 연결되며, 수의적 요도 폐쇄·요 자제 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "막요도 주변·전립샘 아래의 골격근 섬유"
+        },
+        {
+          "label": "정지",
+          "value": "요도 둘레의 조임근 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "수의적 요도 폐쇄·요 자제 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 회음가지 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속음부동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "방광목의 평활근 조절과 막요도 주변 골격근을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "남성 외요도괄약근",
+        "남성 바깥요도조임근",
+        "External urethral sphincter (male)",
+        "sphincter urethrae, in male"
+      ]
+    },
+    {
+      "id": "superficial-transverse-perineus",
+      "name": "천회음횡근",
+      "en": "Superficial transverse perineus",
+      "kind": "muscle",
+      "category": "근육 · 골반·회음",
+      "identify": "궁둥두덩가지·궁둥뼈결절 안쪽 계통에서 회음체·반대쪽 근육 계통 계통으로 연결되며, 회음체 고정·지지에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "궁둥두덩가지·궁둥뼈결절 안쪽 계통"
+        },
+        {
+          "label": "정지",
+          "value": "회음체·반대쪽 근육 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "회음체 고정·지지"
+        },
+        {
+          "label": "신경지배",
+          "value": "음부신경 회음가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "회음동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "얕은회음공간의 가로근이며 깊은 부분과 회음막의 위치 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "pelvic-muscles"
+      ],
+      "aliases": [
+        "천회음횡근",
+        "얕은샅가로근",
+        "Superficial transverse perineus",
+        "superficial transverse perineus",
+        "transverse perineus, superficial"
+      ]
+    },
+    {
+      "id": "innermost-intercostals",
+      "name": "최내늑간근군",
+      "en": "Innermost intercostals",
+      "kind": "muscle",
+      "category": "근육 · 가슴",
+      "identify": "갈비뼈 안쪽면 계통에서 인접 갈비뼈 안쪽면 계통 계통으로 연결되며, 갈비사이 공간 안정·호흡 운동 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갈비뼈 안쪽면 계통"
+        },
+        {
+          "label": "정지",
+          "value": "인접 갈비뼈 안쪽면 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "갈비사이 공간 안정·호흡 운동 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "갈비사이신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "갈비사이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "속갈비사이근과의 사이로 주된 갈비사이 신경혈관다발이 지난다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "thorax-muscles"
+      ],
+      "aliases": [
+        "최내늑간근군",
+        "가장속갈비사이근군",
+        "Innermost intercostals",
+        "innermost intercostal"
+      ]
+    },
+    {
+      "id": "internal-intercostals",
+      "name": "내늑간근군",
+      "en": "Internal intercostals",
+      "kind": "muscle",
+      "category": "근육 · 가슴",
+      "identify": "갈비뼈 고랑·안쪽면에서 인접 아래 갈비뼈 위모서리 계통으로 연결되며, 뼈사이부분 날숨 보조·연골사이부분 들숨 보조; 공간 안정에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갈비뼈 고랑·안쪽면"
+        },
+        {
+          "label": "정지",
+          "value": "인접 아래 갈비뼈 위모서리"
+        },
+        {
+          "label": "주요 작용",
+          "value": "뼈사이부분 날숨 보조·연골사이부분 들숨 보조; 공간 안정"
+        },
+        {
+          "label": "신경지배",
+          "value": "갈비사이신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "갈비사이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "전체를 날숨근으로만 외우지 않고 뼈사이·연골사이 부분을 나눈다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "thorax-muscles"
+      ],
+      "aliases": [
+        "내늑간근군",
+        "속갈비사이근군",
+        "Internal intercostals",
+        "internal intercostal"
+      ]
+    },
+    {
+      "id": "levatores-costarum",
+      "name": "늑골거근군",
+      "en": "Levatores costarum",
+      "kind": "muscle",
+      "category": "근육 · 가슴",
+      "identify": "C7–T11 가로돌기에서 바로 아래 또는 두 수준 아래 갈비뼈 계통으로 연결되며, 갈비뼈 거상·척주 움직임 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "C7–T11 가로돌기"
+        },
+        {
+          "label": "정지",
+          "value": "바로 아래 또는 두 수준 아래 갈비뼈"
+        },
+        {
+          "label": "주요 작용",
+          "value": "갈비뼈 거상·척주 움직임 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "해당 척수신경 뒤가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "깊은목동맥·뒤갈비사이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "갈비사이신경인 앞가지 지배 근육과 달리 뒤가지 계통이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "thorax-muscles"
+      ],
+      "aliases": [
+        "늑골거근군",
+        "갈비올림근군",
+        "Levatores costarum",
+        "levatores costarum"
+      ]
+    },
+    {
+      "id": "subcostalis",
+      "name": "늑하근군",
+      "en": "Subcostalis",
+      "kind": "muscle",
+      "category": "근육 · 가슴",
+      "identify": "아래 갈비뼈의 안쪽 뒷면에서 1–2개 공간을 건너 위쪽 갈비뼈 안쪽면 계통으로 연결되며, 갈비뼈 하강·날숨 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "아래 갈비뼈의 안쪽 뒷면"
+        },
+        {
+          "label": "정지",
+          "value": "1–2개 공간을 건너 위쪽 갈비뼈 안쪽면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "갈비뼈 하강·날숨 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "갈비사이신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "갈비사이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "여러 갈비사이 공간을 가로지르는 깊은 근육이다. 바로 인접한 갈비사이근과 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "thorax-muscles"
+      ],
+      "aliases": [
+        "늑하근군",
+        "갈비밑근군",
+        "Subcostalis",
+        "subcostalis"
+      ]
+    },
+    {
+      "id": "transversus-thoracis",
+      "name": "흉횡근",
+      "en": "Transversus thoracis",
+      "kind": "muscle",
+      "category": "근육 · 가슴",
+      "identify": "복장뼈 뒤면·칼돌기에서 제2–6갈비연골 안쪽면 계통으로 연결되며, 갈비연골 하강·날숨 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "복장뼈 뒤면·칼돌기"
+        },
+        {
+          "label": "정지",
+          "value": "제2–6갈비연골 안쪽면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "갈비연골 하강·날숨 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "제2–6갈비사이신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "속가슴동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞가슴벽의 깊은 층이며 내흉혈관과 흉막의 관계를 확인한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "thorax-muscles"
+      ],
+      "aliases": [
+        "흉횡근",
+        "가슴가로근",
+        "Transversus thoracis",
+        "transversus thoracis"
+      ]
+    },
+    {
+      "id": "abductor-digiti-minimi-hand",
+      "name": "손의 소지외전근",
+      "en": "Abductor digiti minimi (hand)",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "콩알뼈·자쪽손목굽힘근힘줄 계통에서 제5손가락 몸쪽마디뼈 바닥 자쪽 계통으로 연결되며, 새끼손가락 벌림·손허리손가락관절 굽힘 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "콩알뼈·자쪽손목굽힘근힘줄 계통"
+        },
+        {
+          "label": "정지",
+          "value": "제5손가락 몸쪽마디뼈 바닥 자쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "새끼손가락 벌림·손허리손가락관절 굽힘 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "척골신경 깊은가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "척골동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "손의 소지구 근육이며 발바닥 가쪽 근육과 위치·신경을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "손의 소지외전근",
+        "새끼손가락벌림근",
+        "Abductor digiti minimi (hand)",
+        "abductor digiti minimi (hand)"
+      ]
+    },
+    {
+      "id": "extensor-digiti-minimi",
+      "name": "소지신근",
+      "en": "Extensor digiti minimi",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "위팔뼈 가쪽위관절융기 공통폄근힘줄에서 제5손가락 폄근널힘줄 계통으로 연결되며, 새끼손가락 폄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "위팔뼈 가쪽위관절융기 공통폄근힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "제5손가락 폄근널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "새끼손가락 폄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "뒤뼈사이신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤뼈사이동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "새끼손가락 독립 폄에 참여하며 같은 손가락으로 가는 총지신근힘줄과 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "소지신근",
+        "새끼손가락폄근",
+        "Extensor digiti minimi",
+        "extensor digiti minimi"
+      ]
+    },
+    {
+      "id": "extensor-indicis",
+      "name": "시지신근",
+      "en": "Extensor indicis",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "자뼈 먼쪽 뒤면·뼈사이막에서 제2손가락 폄근널힘줄 계통으로 연결되며, 집게손가락 독립 폄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "자뼈 먼쪽 뒤면·뼈사이막"
+        },
+        {
+          "label": "정지",
+          "value": "제2손가락 폄근널힘줄"
+        },
+        {
+          "label": "주요 작용",
+          "value": "집게손가락 독립 폄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "뒤뼈사이신경"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "뒤뼈사이동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "아래팔 깊은 폄근이며 공통폄근힘줄에서 시작하는 총지신근과 기시가 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "시지신근",
+        "집게폄근",
+        "Extensor indicis",
+        "extensor indicis"
+      ]
+    },
+    {
+      "id": "flexor-digiti-minimi-brevis-hand",
+      "name": "손의 단소지굴근",
+      "en": "Flexor digiti minimi brevis (hand)",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "갈고리뼈 갈고리·굽힘근지지띠에서 제5손가락 몸쪽마디뼈 바닥 계통으로 연결되며, 새끼손가락 손허리손가락관절 굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갈고리뼈 갈고리·굽힘근지지띠"
+        },
+        {
+          "label": "정지",
+          "value": "제5손가락 몸쪽마디뼈 바닥"
+        },
+        {
+          "label": "주요 작용",
+          "value": "새끼손가락 손허리손가락관절 굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "척골신경 깊은가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "척골동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "제5손허리뼈에 붙는 새끼맞섬근과 정지를 비교한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "손의 단소지굴근",
+        "짧은새끼손가락굽힘근",
+        "Flexor digiti minimi brevis (hand)",
+        "flexor digiti minimi brevis (hand)"
+      ]
+    },
+    {
+      "id": "flexor-pollicis-brevis",
+      "name": "단무지굴근",
+      "en": "Flexor pollicis brevis",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "굽힘근지지띠·큰마름뼈 및 깊은 갈래의 손목뼈 계통에서 엄지 몸쪽마디뼈 바닥 노쪽·종자뼈 계통 계통으로 연결되며, 엄지 손허리손가락관절 굽힘에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "굽힘근지지띠·큰마름뼈 및 깊은 갈래의 손목뼈 계통"
+        },
+        {
+          "label": "정지",
+          "value": "엄지 몸쪽마디뼈 바닥 노쪽·종자뼈 계통"
+        },
+        {
+          "label": "주요 작용",
+          "value": "엄지 손허리손가락관절 굽힘"
+        },
+        {
+          "label": "신경지배",
+          "value": "얕은갈래 주로 정중신경 되돌이가지; 깊은갈래 척골신경 기여 변이"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "요골동맥 손바닥가지·깊은손바닥동맥활"
+        },
+        {
+          "label": "식별·비교",
+          "value": "끝마디를 굽히는 긴엄지굽힘근과 달리 몸쪽마디 정지다. 갈래별 신경 차이도 본다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "단무지굴근",
+        "짧은엄지굽힘근",
+        "Flexor pollicis brevis",
+        "flexor pollicis brevis"
+      ]
+    },
+    {
+      "id": "lumbricals-of-hand",
+      "name": "손의 충양근군",
+      "en": "Lumbricals of hand",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "깊은손가락굽힘근힘줄에서 제2–5손가락 폄근널힘줄 노쪽 계통으로 연결되며, 손허리손가락관절 굽힘·마디관절 폄 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "깊은손가락굽힘근힘줄"
+        },
+        {
+          "label": "정지",
+          "value": "제2–5손가락 폄근널힘줄 노쪽"
+        },
+        {
+          "label": "주요 작용",
+          "value": "손허리손가락관절 굽힘·마디관절 폄 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "제1–2 정중신경, 제3–4 척골신경 깊은가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "얕은손바닥동맥활·손가락동맥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "네 근육 묶음으로 뼈 기시가 아닌 힘줄 기시다. 발 벌레근과 신경 분담 개수를 비교한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "손의 충양근군",
+        "손의 벌레근군",
+        "Lumbricals of hand",
+        "lumbrical (hand)"
+      ]
+    },
+    {
+      "id": "opponens-digiti-minimi",
+      "name": "소지대립근",
+      "en": "Opponens digiti minimi",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "갈고리뼈 갈고리·굽힘근지지띠에서 제5손허리뼈 자쪽면 계통으로 연결되며, 제5손허리뼈 앞 이동·돌림으로 맞섬 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "갈고리뼈 갈고리·굽힘근지지띠"
+        },
+        {
+          "label": "정지",
+          "value": "제5손허리뼈 자쪽면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "제5손허리뼈 앞 이동·돌림으로 맞섬 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "척골신경 깊은가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "척골동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "엄지맞섬근과 역할은 비슷하나 손허리뼈 번호·신경지배가 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "소지대립근",
+        "새끼맞섬근",
+        "Opponens digiti minimi",
+        "opponens digiti minimi"
+      ]
+    },
+    {
+      "id": "palmaris-brevis",
+      "name": "단장근",
+      "en": "Palmaris brevis",
+      "kind": "muscle",
+      "category": "근육 · 손·아래팔",
+      "identify": "손바닥널힘줄·굽힘근지지띠 계통에서 손바닥 자쪽 피부 계통으로 연결되며, 손바닥 자쪽 피부 주름·쥐기 보조에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "손바닥널힘줄·굽힘근지지띠 계통"
+        },
+        {
+          "label": "정지",
+          "value": "손바닥 자쪽 피부"
+        },
+        {
+          "label": "주요 작용",
+          "value": "손바닥 자쪽 피부 주름·쥐기 보조"
+        },
+        {
+          "label": "신경지배",
+          "value": "척골신경 얕은가지"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "척골동맥"
+        },
+        {
+          "label": "식별·비교",
+          "value": "다른 소지구 근육의 깊은가지 지배와 달리 얕은가지 지배를 받는 피부근육이다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "단장근",
+        "짧은손바닥근",
+        "Palmaris brevis",
+        "palmaris brevis"
+      ]
+    },
+    {
+      "id": "subclavius",
+      "name": "쇄골하근",
+      "en": "Subclavius",
+      "kind": "muscle",
+      "category": "근육 · 어깨·견갑대",
+      "identify": "제1갈비뼈·갈비연골 경계에서 빗장뼈 아래면 계통으로 연결되며, 빗장뼈 하강·복장빗장관절 안정에 참여하는 구조",
+      "facts": [
+        {
+          "label": "기시",
+          "value": "제1갈비뼈·갈비연골 경계"
+        },
+        {
+          "label": "정지",
+          "value": "빗장뼈 아래면"
+        },
+        {
+          "label": "주요 작용",
+          "value": "빗장뼈 하강·복장빗장관절 안정"
+        },
+        {
+          "label": "신경지배",
+          "value": "빗장밑근신경 C5–C6 계통"
+        },
+        {
+          "label": "대표 혈관",
+          "value": "가슴봉우리동맥 빗장가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "대흉근 깊은 곳의 작은 근육으로 견갑골 정지의 소흉근과 다르다."
+        },
+        {
+          "label": "근육 유형",
+          "value": "골격근 · 몸운동 신경지배"
+        }
+      ],
+      "references": [
+        "upper-muscles"
+      ],
+      "aliases": [
+        "쇄골하근",
+        "빗장밑근",
+        "Subclavius",
+        "subclavius"
+      ]
     }
   ],
   "atlas_additions": {
@@ -9750,6 +17180,166 @@
         "label": "식별·비교",
         "value": "뒤 깊은 구획에서 안쪽복사 뒤를 지나 발배뼈 중심으로 붙으며 발 안쪽번짐·활 지지에 참여한다."
       }
+    ]
+  },
+  "atlas_aliases": {
+    "quadratus-lumborum": [
+      "quadratus lumborum"
+    ],
+    "levator-scapulae": [
+      "levator scapulae"
+    ],
+    "serratus-anterior": [
+      "serratus anterior"
+    ],
+    "erector-spinae": [
+      "erector spinae"
+    ],
+    "lateral-pterygoid": [
+      "lateral pterygoid",
+      "pterygoid, lateral"
+    ],
+    "masseter": [
+      "masseter"
+    ],
+    "sternocleidomastoid": [
+      "sternocleidomastoid"
+    ],
+    "temporalis": [
+      "temporalis"
+    ],
+    "adductor-longus": [
+      "adductor longus"
+    ],
+    "gastrocnemius": [
+      "gastrocnemius"
+    ],
+    "gluteus-maximus": [
+      "gluteus maximus"
+    ],
+    "gluteus-medius": [
+      "gluteus medius"
+    ],
+    "gluteus-minimus": [
+      "gluteus minimus"
+    ],
+    "piriformis": [
+      "piriformis"
+    ],
+    "rectus-femoris": [
+      "rectus femoris"
+    ],
+    "soleus": [
+      "soleus"
+    ],
+    "tibialis-anterior": [
+      "tibialis anterior"
+    ],
+    "tibialis-posterior": [
+      "tibialis posterior"
+    ],
+    "vastus-medialis": [
+      "vastus medialis"
+    ],
+    "pectoralis-minor": [
+      "pectoralis minor"
+    ],
+    "ecrb": [
+      "extensor carpi radialis brevis"
+    ],
+    "flexor-carpi-radialis": [
+      "flexor carpi radialis"
+    ],
+    "infraspinatus": [
+      "infraspinatus"
+    ],
+    "pronator-teres": [
+      "pronator teres"
+    ],
+    "supraspinatus": [
+      "supraspinatus"
+    ]
+  },
+  "atlas_references": {
+    "quadratus-lumborum": [
+      "abdominal-muscles"
+    ],
+    "levator-scapulae": [
+      "back-muscles",
+      "head-muscles",
+      "upper-muscles"
+    ],
+    "serratus-anterior": [
+      "back-muscles",
+      "upper-muscles"
+    ],
+    "erector-spinae": [
+      "back-muscles"
+    ],
+    "lateral-pterygoid": [
+      "head-muscles"
+    ],
+    "masseter": [
+      "head-muscles"
+    ],
+    "sternocleidomastoid": [
+      "head-muscles"
+    ],
+    "temporalis": [
+      "head-muscles"
+    ],
+    "adductor-longus": [
+      "lower-muscles"
+    ],
+    "gastrocnemius": [
+      "lower-muscles"
+    ],
+    "gluteus-maximus": [
+      "lower-muscles"
+    ],
+    "gluteus-medius": [
+      "lower-muscles"
+    ],
+    "gluteus-minimus": [
+      "lower-muscles"
+    ],
+    "piriformis": [
+      "lower-muscles",
+      "pelvic-muscles"
+    ],
+    "rectus-femoris": [
+      "lower-muscles"
+    ],
+    "soleus": [
+      "lower-muscles"
+    ],
+    "tibialis-anterior": [
+      "lower-muscles"
+    ],
+    "tibialis-posterior": [
+      "lower-muscles"
+    ],
+    "vastus-medialis": [
+      "lower-muscles"
+    ],
+    "pectoralis-minor": [
+      "thorax-muscles",
+      "upper-muscles"
+    ],
+    "ecrb": [
+      "upper-muscles"
+    ],
+    "flexor-carpi-radialis": [
+      "upper-muscles"
+    ],
+    "infraspinatus": [
+      "upper-muscles"
+    ],
+    "pronator-teres": [
+      "upper-muscles"
+    ],
+    "supraspinatus": [
+      "upper-muscles"
     ]
   }
 }
