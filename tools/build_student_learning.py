@@ -16,7 +16,7 @@ from atomic_output import write_bytes
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'docs'
 OUT = DOCS / 'assets/learning'
-SUBJECTS = {'anatomy': '기초 해부학', 'acupoints': '경혈학', 'acupuncture': '침구학', 'herbs': '본초학', 'formulas': '방제학'}
+SUBJECTS = {'anatomy': '기초 해부학', 'acupoints': '경혈학', 'acupuncture': '침구학', 'herbs': '본초학', 'formulas': '방제학', 'shanghanlun': '상한론', 'sasang': '사상의학'}
 
 
 def clean(value):
@@ -574,6 +574,9 @@ def build():
         if subject == 'herbs':
             cards.extend(herb_comparison_cards())
         decks[subject] = {'schema': 1, 'subject': subject, 'title': SUBJECTS[subject], 'cards': cards, 'questions': anatomy_questions(cards) if subject == 'anatomy' else quizzes(subject, cards)}
+    from classical_learning import classical_deck
+    for subject in ('shanghanlun', 'sasang'):
+        decks[subject] = classical_deck(ROOT, subject, shuffled)
     validate(decks)
     return decks
 
@@ -582,7 +585,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-6', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261002-7', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -602,7 +605,7 @@ def main():
         for category, cards in groups.items():
             lines.extend(['<details markdown="1">', f'<summary>{category} · {len(cards)}개 카드</summary>', ''])
             for c in cards:
-                if subject == 'anatomy':
+                if subject in ('anatomy', 'shanghanlun', 'sasang'):
                     lines.extend([f'<span id="{c["id"]}"></span>', ''])
                 lines.extend([f"**{c['title']}**", ''])
                 for fact in c['facts']:
@@ -616,6 +619,8 @@ def main():
                     lines.append('')
                 else:
                     lines.extend(['', f"[원문에서 확인]({c['source']})", ''])
+                    if subject in ('shanghanlun', 'sasang'):
+                        lines.extend([f"[연결 해설·처방]({c['relatedSource']}) · [원전 판본]({c['reference']})", ''])
             lines.extend(['</details>', ''])
         lines.append('<!-- STUDY_DIRECTORY_END -->\n')
         write_bytes(path, (text + '\n'.join(lines)).encode())

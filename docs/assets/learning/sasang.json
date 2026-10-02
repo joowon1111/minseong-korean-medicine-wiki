@@ -1,0 +1,3921 @@
+{
+  "schema": 1,
+  "subject": "sasang",
+  "title": "사상의학",
+  "cards": [
+    {
+      "id": "sasang-health-soeum",
+      "title": "소음인 · 완실무병 구절",
+      "category": "완실무병·소증",
+      "prompt": "少陰人 飮食善化則 完實而無病\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사상인변증론 · 원문 구절"
+        },
+        {
+          "label": "원문",
+          "value": "少陰人 飮食善化則 完實而無病"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "음식의 소화가 원활하면 건강이 충실하다고 한다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-health-soeum",
+      "sourceTitle": "소음인 · 완실무병 구절 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/soeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-organ-soeum",
+      "title": "소음인 · 장부대소",
+      "category": "장부대소·보명지주",
+      "prompt": "腎大而脾小者 名曰少陰人\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사단론 · 원문 발췌"
+        },
+        {
+          "label": "원문",
+          "value": "腎大而脾小者 名曰少陰人"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "신대비소인 사람을 소음인이라 부른다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-organ-soeum",
+      "sourceTitle": "소음인 · 장부대소 원문·학습 해설",
+      "relatedSource": "/classics/donguisusebowon/#_3",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-health-soyang",
+      "title": "소양인 · 완실무병 구절",
+      "category": "완실무병·소증",
+      "prompt": "少陽人 大便善通則 完實而無病\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사상인변증론 · 원문 구절"
+        },
+        {
+          "label": "원문",
+          "value": "少陽人 大便善通則 完實而無病"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "대변이 원활히 소통하면 건강이 충실하다고 한다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-health-soyang",
+      "sourceTitle": "소양인 · 완실무병 구절 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/soyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-organ-soyang",
+      "title": "소양인 · 장부대소",
+      "category": "장부대소·보명지주",
+      "prompt": "脾大而腎小者 名曰少陽人\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사단론 · 원문 발췌"
+        },
+        {
+          "label": "원문",
+          "value": "脾大而腎小者 名曰少陽人"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "비대신소인 사람을 소양인이라 부른다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-organ-soyang",
+      "sourceTitle": "소양인 · 장부대소 원문·학습 해설",
+      "relatedSource": "/classics/donguisusebowon/#_3",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-health-taeeum",
+      "title": "태음인 · 완실무병 구절",
+      "category": "완실무병·소증",
+      "prompt": "太陰人 汗液通暢則 完實而無病\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사상인변증론 · 원문 구절"
+        },
+        {
+          "label": "원문",
+          "value": "太陰人 汗液通暢則 完實而無病"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "땀이 원활히 소통하면 건강이 충실하다고 한다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-health-taeeum",
+      "sourceTitle": "태음인 · 완실무병 구절 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/taeeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-organ-taeeum",
+      "title": "태음인 · 장부대소",
+      "category": "장부대소·보명지주",
+      "prompt": "肝大而肺小者 名曰太陰人\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사단론 · 원문 발췌"
+        },
+        {
+          "label": "원문",
+          "value": "肝大而肺小者 名曰太陰人"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "간대폐소인 사람을 태음인이라 부른다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-organ-taeeum",
+      "sourceTitle": "태음인 · 장부대소 원문·학습 해설",
+      "relatedSource": "/classics/donguisusebowon/#_3",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-health-taeyang",
+      "title": "태양인 · 완실무병 구절",
+      "category": "완실무병·소증",
+      "prompt": "太陽人 小便旺多則 完實而無病\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사상인변증론 · 원문 구절"
+        },
+        {
+          "label": "원문",
+          "value": "太陽人 小便旺多則 完實而無病"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-health-taeyang",
+      "sourceTitle": "태양인 · 완실무병 구절 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/taeyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-organ-taeyang",
+      "title": "태양인 · 장부대소",
+      "category": "장부대소·보명지주",
+      "prompt": "肺大而肝小者 名曰太陽人\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "사단론 · 원문 발췌"
+        },
+        {
+          "label": "원문",
+          "value": "肺大而肝小者 名曰太陽人"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "폐대간소인 사람을 태양인이라 부른다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-organ-taeyang",
+      "sourceTitle": "태양인 · 장부대소 원문·학습 해설",
+      "relatedSource": "/classics/donguisusebowon/#_3",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-soeum-exterior",
+      "title": "소음인 신수열표열병",
+      "category": "소음인 표리",
+      "prompt": "少陰人腎受熱表熱病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "少陰人腎受熱表熱病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "소음인의 신이 열을 받아 나타나는 표열병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-soeum-exterior",
+      "sourceTitle": "소음인 신수열표열병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/soeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-soeum-interior",
+      "title": "소음인 위수한리한병",
+      "category": "소음인 표리",
+      "prompt": "少陰人胃受寒裏寒病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "少陰人胃受寒裏寒病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "소음인의 위가 한을 받아 나타나는 리한병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-soeum-interior",
+      "sourceTitle": "소음인 위수한리한병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/soeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-soyang-exterior",
+      "title": "소양인 비수한표한병",
+      "category": "소양인 표리",
+      "prompt": "少陽人脾受寒表寒病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "少陽人脾受寒表寒病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "소양인의 비가 한을 받아 나타나는 표한병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소양인 표한: 소양상풍과 망음을 먼저 가른다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-soyang-exterior",
+      "sourceTitle": "소양인 비수한표한병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/soyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-soyang-interior",
+      "title": "소양인 위수열리열병",
+      "category": "소양인 표리",
+      "prompt": "少陽人胃受熱裏熱病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "少陽人胃受熱裏熱病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "소양인의 위가 열을 받아 나타나는 리열병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-soyang-interior",
+      "sourceTitle": "소양인 위수열리열병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/soyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-taeeum-exterior",
+      "title": "태음인 위완수한표한병",
+      "category": "태음인 표리",
+      "prompt": "太陰人胃脘受寒表寒病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "太陰人胃脘受寒表寒病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "태음인의 위완이 한을 받아 나타나는 표한병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-taeeum-exterior",
+      "sourceTitle": "태음인 위완수한표한병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/taeeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-taeeum-interior",
+      "title": "태음인 간수열리열병",
+      "category": "태음인 표리",
+      "prompt": "太陰人肝受熱裏熱病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "太陰人肝受熱裏熱病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "태음인의 간이 열을 받아 나타나는 리열병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-taeeum-interior",
+      "sourceTitle": "태음인 간수열리열병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/taeeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-taeyang-exterior",
+      "title": "태양인 외감요척병",
+      "category": "태양인 표리",
+      "prompt": "太陽人外感腰脊病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "太陽人外感腰脊病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "태양인의 외감요척병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-taeyang-exterior",
+      "sourceTitle": "태양인 외감요척병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/taeyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-pattern-taeyang-interior",
+      "title": "태양인 내촉소장병",
+      "category": "태양인 표리",
+      "prompt": "太陽人內觸小腸病論\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "신축본 병론 편명 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "太陽人內觸小腸病論"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "태양인의 내촉소장병을 논하는 편이다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다."
+        },
+        {
+          "label": "치법·처방",
+          "value": "열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-pattern-taeyang-interior",
+      "sourceTitle": "태양인 내촉소장병 원문·학습 해설",
+      "relatedSource": "/sasang-integrated/taeyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-hwanggi-gyeji",
+      "title": "황기계지탕 · 소음인",
+      "category": "주요 처방·감별",
+      "prompt": "黃芪桂枝湯\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "黃芪桂枝湯"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "黃芪桂枝湯는 황기계지탕으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모."
+        },
+        {
+          "label": "치법·처방",
+          "value": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+      "sourceTitle": "황기계지탕 · 소음인 원문·학습 해설",
+      "relatedSource": "/sasang-formula-library/#soeum-mangyang",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-hyangsa-yangwi",
+      "title": "향사양위탕 · 소음인",
+      "category": "주요 처방·감별",
+      "prompt": "香砂養胃湯\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "香砂養胃湯"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "香砂養胃湯는 향사양위탕으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만."
+        },
+        {
+          "label": "치법·처방",
+          "value": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+      "sourceTitle": "향사양위탕 · 소음인 원문·학습 해설",
+      "relatedSource": "/formulas/xiangsha-yangwei-tang/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-hyeongbangdojeok",
+      "title": "형방도적산 · 소양인",
+      "category": "주요 처방·감별",
+      "prompt": "荊防導赤散\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "荊防導赤散"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "荊防導赤散는 형방도적산으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편."
+        },
+        {
+          "label": "치법·처방",
+          "value": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+      "sourceTitle": "형방도적산 · 소양인 원문·학습 해설",
+      "relatedSource": "/sasang-formula-cards/hyeongbangdojeok-san/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-hyeongbangsabaek",
+      "title": "형방사백산 · 소양인",
+      "category": "주요 처방·감별",
+      "prompt": "荊防瀉白散\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "荊防瀉白散"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "荊防瀉白散는 형방사백산으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통."
+        },
+        {
+          "label": "치법·처방",
+          "value": "형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+      "sourceTitle": "형방사백산 · 소양인 원문·학습 해설",
+      "relatedSource": "/sasang-formula-cards/hyeongbangsabaek-san/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-taeeumjowi",
+      "title": "태음조위탕 · 태음인",
+      "category": "주요 처방·감별",
+      "prompt": "太陰調胃湯\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "太陰調胃湯"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "太陰調胃湯는 태음조위탕으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움."
+        },
+        {
+          "label": "치법·처방",
+          "value": "태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "열다한소탕의 열·갈증·건조가 중심인 리열 방향과 구분한다. 체중 하나로 고르지 않는다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-taeeumjowi",
+      "sourceTitle": "태음조위탕 · 태음인 원문·학습 해설",
+      "relatedSource": "/sasang-formula-cards/taeeumjowi-tang/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-yeoldahanso",
+      "title": "열다한소탕 · 태음인",
+      "category": "주요 처방·감별",
+      "prompt": "熱多寒少湯\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "熱多寒少湯"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "熱多寒少湯는 열다한소탕으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조."
+        },
+        {
+          "label": "치법·처방",
+          "value": "열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "표한 중심의 태음조위탕과 구별한다. 대황이 더해진 청폐사간탕은 별도 구성으로 확인한다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-yeoldahanso",
+      "sourceTitle": "열다한소탕 · 태음인 원문·학습 해설",
+      "relatedSource": "/sasang-formula-cards/yeoldahanso-tang/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-ogapi",
+      "title": "오가피장척탕 · 태양인",
+      "category": "주요 처방·감별",
+      "prompt": "五加皮壯脊湯\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "五加皮壯脊湯"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "五加皮壯脊湯는 오가피장척탕으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하."
+        },
+        {
+          "label": "치법·처방",
+          "value": "오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "미후등식장탕의 연하·섭취 중심 열격과 구별한다. 태양인은 확인 가능한 처방 자료 범위를 지킨다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-ogapi",
+      "sourceTitle": "오가피장척탕 · 태양인 원문·학습 해설",
+      "relatedSource": "/sasang-formula-cards/ogapi-jangcheok-tang/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "id": "sasang-formula-mihudeung",
+      "title": "미후등식장탕 · 태양인",
+      "category": "주요 처방·감별",
+      "prompt": "獼猴藤植腸湯\n우리말 뜻과 병증·치법의 연결을 설명해 보세요.",
+      "facts": [
+        {
+          "label": "원문 구분",
+          "value": "처방명 원문 표기 · 조문 본문 아님"
+        },
+        {
+          "label": "원문",
+          "value": "獼猴藤植腸湯"
+        },
+        {
+          "label": "판본·범위",
+          "value": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인"
+        },
+        {
+          "label": "우리말 풀이",
+          "value": "獼猴藤植腸湯는 미후등식장탕으로 읽는다."
+        },
+        {
+          "label": "판독 핵심",
+          "value": "미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토."
+        },
+        {
+          "label": "치법·처방",
+          "value": "미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다."
+        },
+        {
+          "label": "감별·해석",
+          "value": "처방명 미후등과 후대 수록본의 첫 약재 미후도 표기를 구별한다. 이름만으로 원료 부위를 추정하지 않는다."
+        }
+      ],
+      "source": "/learning/sasang/#sasang-formula-mihudeung",
+      "sourceTitle": "미후등식장탕 · 태양인 원문·학습 해설",
+      "relatedSource": "/sasang-formula-cards/mihudeung-sikjang-tang/",
+      "reference": "https://mediclassics.kr/books/182"
+    }
+  ],
+  "questions": [
+    {
+      "id": "sasang-health-soeum-original",
+      "cardId": "sasang-health-soeum",
+      "category": "완실무병·소증",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "少陰人 飮食善化則 完實而無病",
+      "options": [
+        {
+          "text": "소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "대변이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "땀이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "소음인 · 완실무병 구절 — 음식의 소화가 원활하면 건강이 충실하다고 한다. 소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-soeum"
+    },
+    {
+      "id": "sasang-health-soeum-interpretation",
+      "cardId": "sasang-health-soeum",
+      "category": "완실무병·소증",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "소음인의 건강 지표를 읽은 뒤 평소와 현재의 식욕·식후 편안함·대변·냉감을 비교한다.",
+      "options": [
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "소음인 · 완실무병 구절 — 음식의 소화가 원활하면 건강이 충실하다고 한다. 소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-soeum"
+    },
+    {
+      "id": "sasang-health-soeum-treatment",
+      "cardId": "sasang-health-soeum",
+      "category": "완실무병·소증",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "少陰人 飮食善化則 完實而無病\n소음인의 건강 지표를 읽은 뒤 평소와 현재의 식욕·식후 편안함·대변·냉감을 비교한다.",
+      "options": [
+        {
+          "text": "소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "소음인 · 완실무병 구절 — 음식의 소화가 원활하면 건강이 충실하다고 한다. 소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-soeum"
+    },
+    {
+      "id": "sasang-organ-soeum-original",
+      "cardId": "sasang-organ-soeum",
+      "category": "장부대소·보명지주",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "腎大而脾小者 名曰少陰人",
+      "options": [
+        {
+          "text": "비대신소인 사람을 소양인이라 부른다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "폐대간소인 사람을 태양인이라 부른다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "간대폐소인 사람을 태음인이라 부른다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "소음인 · 장부대소 — 신대비소인 사람을 소음인이라 부른다. 소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-soeum"
+    },
+    {
+      "id": "sasang-organ-soeum-interpretation",
+      "cardId": "sasang-organ-soeum",
+      "category": "장부대소·보명지주",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "신대비소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소음인 · 장부대소 — 신대비소인 사람을 소음인이라 부른다. 소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-soeum"
+    },
+    {
+      "id": "sasang-organ-soeum-treatment",
+      "cardId": "sasang-organ-soeum",
+      "category": "장부대소·보명지주",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "腎大而脾小者 名曰少陰人\n신대비소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소음인 · 장부대소 — 신대비소인 사람을 소음인이라 부른다. 소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-soeum"
+    },
+    {
+      "id": "sasang-health-soyang-original",
+      "cardId": "sasang-health-soyang",
+      "category": "완실무병·소증",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "少陽人 大便善通則 完實而無病",
+      "options": [
+        {
+          "text": "땀이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "대변이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "소양인 · 완실무병 구절 — 대변이 원활히 소통하면 건강이 충실하다고 한다. 소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-soyang"
+    },
+    {
+      "id": "sasang-health-soyang-interpretation",
+      "cardId": "sasang-health-soyang",
+      "category": "완실무병·소증",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "소양인의 건강 지표를 읽은 뒤 평소와 현재의 대변·갈증·상열·수면을 비교한다.",
+      "options": [
+        {
+          "text": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "소양인 · 완실무병 구절 — 대변이 원활히 소통하면 건강이 충실하다고 한다. 소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-soyang"
+    },
+    {
+      "id": "sasang-health-soyang-treatment",
+      "cardId": "sasang-health-soyang",
+      "category": "완실무병·소증",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "少陽人 大便善通則 完實而無病\n소양인의 건강 지표를 읽은 뒤 평소와 현재의 대변·갈증·상열·수면을 비교한다.",
+      "options": [
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소양인 · 완실무병 구절 — 대변이 원활히 소통하면 건강이 충실하다고 한다. 소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-soyang"
+    },
+    {
+      "id": "sasang-organ-soyang-original",
+      "cardId": "sasang-organ-soyang",
+      "category": "장부대소·보명지주",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "脾大而腎小者 名曰少陽人",
+      "options": [
+        {
+          "text": "간대폐소인 사람을 태음인이라 부른다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "폐대간소인 사람을 태양인이라 부른다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "비대신소인 사람을 소양인이라 부른다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "소양인 · 장부대소 — 비대신소인 사람을 소양인이라 부른다. 소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-soyang"
+    },
+    {
+      "id": "sasang-organ-soyang-interpretation",
+      "cardId": "sasang-organ-soyang",
+      "category": "장부대소·보명지주",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "비대신소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "소양인 · 장부대소 — 비대신소인 사람을 소양인이라 부른다. 소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-soyang"
+    },
+    {
+      "id": "sasang-organ-soyang-treatment",
+      "cardId": "sasang-organ-soyang",
+      "category": "장부대소·보명지주",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "脾大而腎小者 名曰少陽人\n비대신소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "소양인 · 장부대소 — 비대신소인 사람을 소양인이라 부른다. 소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-soyang"
+    },
+    {
+      "id": "sasang-health-taeeum-original",
+      "cardId": "sasang-health-taeeum",
+      "category": "완실무병·소증",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "太陰人 汗液通暢則 完實而無病",
+      "options": [
+        {
+          "text": "대변이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "땀이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "태음인 · 완실무병 구절 — 땀이 원활히 소통하면 건강이 충실하다고 한다. 태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-taeeum"
+    },
+    {
+      "id": "sasang-health-taeeum-interpretation",
+      "cardId": "sasang-health-taeeum",
+      "category": "완실무병·소증",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "태음인의 건강 지표를 읽은 뒤 평소와 현재의 발한의 상황과 땀 뒤 느낌·호흡·대변을 비교한다.",
+      "options": [
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "태음인 · 완실무병 구절 — 땀이 원활히 소통하면 건강이 충실하다고 한다. 태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-taeeum"
+    },
+    {
+      "id": "sasang-health-taeeum-treatment",
+      "cardId": "sasang-health-taeeum",
+      "category": "완실무병·소증",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "太陰人 汗液通暢則 完實而無病\n태음인의 건강 지표를 읽은 뒤 평소와 현재의 발한의 상황과 땀 뒤 느낌·호흡·대변을 비교한다.",
+      "options": [
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "태음인 · 완실무병 구절 — 땀이 원활히 소통하면 건강이 충실하다고 한다. 태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-taeeum"
+    },
+    {
+      "id": "sasang-organ-taeeum-original",
+      "cardId": "sasang-organ-taeeum",
+      "category": "장부대소·보명지주",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "肝大而肺小者 名曰太陰人",
+      "options": [
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "폐대간소인 사람을 태양인이라 부른다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "간대폐소인 사람을 태음인이라 부른다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "비대신소인 사람을 소양인이라 부른다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "태음인 · 장부대소 — 간대폐소인 사람을 태음인이라 부른다. 태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-taeeum"
+    },
+    {
+      "id": "sasang-organ-taeeum-interpretation",
+      "cardId": "sasang-organ-taeeum",
+      "category": "장부대소·보명지주",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "간대폐소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "태음인 · 장부대소 — 간대폐소인 사람을 태음인이라 부른다. 태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-taeeum"
+    },
+    {
+      "id": "sasang-organ-taeeum-treatment",
+      "cardId": "sasang-organ-taeeum",
+      "category": "장부대소·보명지주",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "肝大而肺小者 名曰太陰人\n간대폐소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "태음인 · 장부대소 — 간대폐소인 사람을 태음인이라 부른다. 태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-taeeum"
+    },
+    {
+      "id": "sasang-health-taeyang-original",
+      "cardId": "sasang-health-taeyang",
+      "category": "완실무병·소증",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "太陽人 小便旺多則 完實而無病",
+      "options": [
+        {
+          "text": "대변이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "땀이 원활히 소통하면 건강이 충실하다고 한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태양인 · 완실무병 구절 — 소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다. 태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-taeyang"
+    },
+    {
+      "id": "sasang-health-taeyang-interpretation",
+      "cardId": "sasang-health-taeyang",
+      "category": "완실무병·소증",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "태양인의 건강 지표를 읽은 뒤 평소와 현재의 소변·섭취·연하·요척과 하지 기능을 비교한다.",
+      "options": [
+        {
+          "text": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "태양인 · 완실무병 구절 — 소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다. 태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-taeyang"
+    },
+    {
+      "id": "sasang-health-taeyang-treatment",
+      "cardId": "sasang-health-taeyang",
+      "category": "완실무병·소증",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "太陽人 小便旺多則 完實而無病\n태양인의 건강 지표를 읽은 뒤 평소와 현재의 소변·섭취·연하·요척과 하지 기능을 비교한다.",
+      "options": [
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다.",
+          "owner": "태음인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#sasang-health-taeeum",
+          "detail": "태음인의 한액통창: 발한의 상황과 땀 뒤 느낌·호흡·대변을 기준선과 비교한다. 태음인에서는 호산지기를 보명지주로 읽으며 주증과 발한의 상황과 땀 뒤 느낌·호흡·대변의 회복을 함께 본다. 한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다.",
+          "owner": "태양인 · 완실무병 구절",
+          "ownerId": "sasang-health-taeyang",
+          "source": "/learning/sasang/#sasang-health-taeyang",
+          "detail": "태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다.",
+          "owner": "소양인 · 완실무병 구절",
+          "ownerId": "sasang-health-soyang",
+          "source": "/learning/sasang/#sasang-health-soyang",
+          "detail": "소양인의 대변선통: 대변·갈증·상열·수면을 기준선과 비교한다. 소양인에서는 음청지기를 보명지주로 읽으며 주증과 대변·갈증·상열·수면의 회복을 함께 본다. 대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "태양인 · 완실무병 구절 — 소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다. 태양인의 소변왕다: 소변·섭취·연하·요척과 하지 기능을 기준선과 비교한다. 태양인에서는 흡취지기를 보명지주로 읽으며 주증과 소변·섭취·연하·요척과 하지 기능의 회복을 함께 본다. 소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "source": "/learning/sasang/#sasang-health-taeyang"
+    },
+    {
+      "id": "sasang-organ-taeyang-original",
+      "cardId": "sasang-organ-taeyang",
+      "category": "장부대소·보명지주",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "肺大而肝小者 名曰太陽人",
+      "options": [
+        {
+          "text": "비대신소인 사람을 소양인이라 부른다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "간대폐소인 사람을 태음인이라 부른다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "폐대간소인 사람을 태양인이라 부른다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태양인 · 장부대소 — 폐대간소인 사람을 태양인이라 부른다. 태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-taeyang"
+    },
+    {
+      "id": "sasang-organ-taeyang-interpretation",
+      "cardId": "sasang-organ-taeyang",
+      "category": "장부대소·보명지주",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "폐대간소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "태양인 · 장부대소 — 폐대간소인 사람을 태양인이라 부른다. 태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-taeyang"
+    },
+    {
+      "id": "sasang-organ-taeyang-treatment",
+      "cardId": "sasang-organ-taeyang",
+      "category": "장부대소·보명지주",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "肺大而肝小者 名曰太陽人\n폐대간소를 실제 장기의 해부학적 크기와 구별해 읽고 있다.",
+      "options": [
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다.",
+          "owner": "태음인 · 장부대소",
+          "ownerId": "sasang-organ-taeeum",
+          "source": "/learning/sasang/#sasang-organ-taeeum",
+          "detail": "태음인의 간대폐소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태음인의 보명지주 호산지기를 중심으로 위완수한표한병과 간수열리열병의 병증축을 구분한다. 간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다.",
+          "owner": "태양인 · 장부대소",
+          "ownerId": "sasang-organ-taeyang",
+          "source": "/learning/sasang/#sasang-organ-taeyang",
+          "detail": "태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다.",
+          "owner": "소양인 · 장부대소",
+          "ownerId": "sasang-organ-soyang",
+          "source": "/learning/sasang/#sasang-organ-soyang",
+          "detail": "소양인의 비대신소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소양인의 보명지주 음청지기를 중심으로 비수한표한병과 위수열리열병의 병증축을 구분한다. 비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "태양인 · 장부대소 — 폐대간소인 사람을 태양인이라 부른다. 태양인의 폐대간소: 장국의 기능적 강약을 설명하는 전통 이론이다. 태양인의 보명지주 흡취지기를 중심으로 외감요척병과 내촉소장병의 병증축을 구분한다. 폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
+      "source": "/learning/sasang/#sasang-organ-taeyang"
+    },
+    {
+      "id": "sasang-pattern-soeum-exterior-original",
+      "cardId": "sasang-pattern-soeum-exterior",
+      "category": "소음인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "少陰人腎受熱表熱病論",
+      "options": [
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 위가 한을 받아 나타나는 리한병을 논하는 편이다.",
+          "owner": "소음인 위수한리한병",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-interior",
+          "detail": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다."
+        },
+        {
+          "text": "소음인의 신이 열을 받아 나타나는 표열병을 논하는 편이다.",
+          "owner": "소음인 신수열표열병",
+          "ownerId": "sasang-pattern-soeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-exterior",
+          "detail": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "소음인 신수열표열병 — 소음인의 신이 열을 받아 나타나는 표열병을 논하는 편이다. 소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다.",
+      "source": "/learning/sasang/#sasang-pattern-soeum-exterior"
+    },
+    {
+      "id": "sasang-pattern-soeum-exterior-interpretation",
+      "cardId": "sasang-pattern-soeum-exterior",
+      "category": "소음인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "발열 사례에서 자한 여부와 땀 뒤 기력 변화를 비교한다.",
+      "options": [
+        {
+          "text": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다.",
+          "owner": "소음인 위수한리한병",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-interior",
+          "detail": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다.",
+          "owner": "소음인 신수열표열병",
+          "ownerId": "sasang-pattern-soeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-exterior",
+          "detail": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "소음인 신수열표열병 — 소음인의 신이 열을 받아 나타나는 표열병을 논하는 편이다. 소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다.",
+      "source": "/learning/sasang/#sasang-pattern-soeum-exterior"
+    },
+    {
+      "id": "sasang-pattern-soeum-exterior-treatment",
+      "cardId": "sasang-pattern-soeum-exterior",
+      "category": "소음인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "少陰人腎受熱表熱病論\n발열 사례에서 자한 여부와 땀 뒤 기력 변화를 비교한다.",
+      "options": [
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다.",
+          "owner": "소음인 위수한리한병",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-interior",
+          "detail": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다."
+        },
+        {
+          "text": "울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다.",
+          "owner": "소음인 신수열표열병",
+          "ownerId": "sasang-pattern-soeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-exterior",
+          "detail": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소음인 신수열표열병 — 소음인의 신이 열을 받아 나타나는 표열병을 논하는 편이다. 소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다.",
+      "source": "/learning/sasang/#sasang-pattern-soeum-exterior"
+    },
+    {
+      "id": "sasang-pattern-soeum-interior-original",
+      "cardId": "sasang-pattern-soeum-interior",
+      "category": "소음인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "少陰人胃受寒裏寒病論",
+      "options": [
+        {
+          "text": "소음인의 신이 열을 받아 나타나는 표열병을 논하는 편이다.",
+          "owner": "소음인 신수열표열병",
+          "ownerId": "sasang-pattern-soeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-exterior",
+          "detail": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인의 위가 한을 받아 나타나는 리한병을 논하는 편이다.",
+          "owner": "소음인 위수한리한병",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-interior",
+          "detail": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소음인 위수한리한병 — 소음인의 위가 한을 받아 나타나는 리한병을 논하는 편이다. 소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다.",
+      "source": "/learning/sasang/#sasang-pattern-soeum-interior"
+    },
+    {
+      "id": "sasang-pattern-soeum-interior-interpretation",
+      "cardId": "sasang-pattern-soeum-interior",
+      "category": "소음인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "복통·설사에 구중화 여부·갈증·전신쇠약의 차이가 있다.",
+      "options": [
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다.",
+          "owner": "소음인 신수열표열병",
+          "ownerId": "sasang-pattern-soeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-exterior",
+          "detail": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다."
+        },
+        {
+          "text": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다.",
+          "owner": "소음인 위수한리한병",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-interior",
+          "detail": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소음인 위수한리한병 — 소음인의 위가 한을 받아 나타나는 리한병을 논하는 편이다. 소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다.",
+      "source": "/learning/sasang/#sasang-pattern-soeum-interior"
+    },
+    {
+      "id": "sasang-pattern-soeum-interior-treatment",
+      "cardId": "sasang-pattern-soeum-interior",
+      "category": "소음인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "少陰人胃受寒裏寒病論\n복통·설사에 구중화 여부·갈증·전신쇠약의 차이가 있다.",
+      "options": [
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다.",
+          "owner": "소음인 신수열표열병",
+          "ownerId": "sasang-pattern-soeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-exterior",
+          "detail": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다. 울광의 해울·승양 방향과 망양의 익기·승양 및 보명지주 보존을 구분한다. 울광·망양은 단순한 정신증상·탈수의 동의어가 아니다. 망양은 발병 초기부터 경중을 신중히 살핀다."
+        },
+        {
+          "text": "온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다.",
+          "owner": "소음인 위수한리한병",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-soeum-interior",
+          "detail": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다."
+        },
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소음인 위수한리한병 — 소음인의 위가 한을 받아 나타나는 리한병을 논하는 편이다. 소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다. 온중·건비의 방향에서 출발하되 소음병의 보명지주 손상과 중증도를 함께 본다. 여기의 태음병은 태음인이라는 체질명이 아니다. 상한론의 같은 이름을 그대로 이식하지 않는다.",
+      "source": "/learning/sasang/#sasang-pattern-soeum-interior"
+    },
+    {
+      "id": "sasang-pattern-soyang-exterior-original",
+      "cardId": "sasang-pattern-soyang-exterior",
+      "category": "소양인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "少陽人脾受寒表寒病論",
+      "options": [
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소양인의 위가 열을 받아 나타나는 리열병을 논하는 편이다.",
+          "owner": "소양인 위수열리열병",
+          "ownerId": "sasang-pattern-soyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-interior",
+          "detail": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 비가 한을 받아 나타나는 표한병을 논하는 편이다.",
+          "owner": "소양인 비수한표한병",
+          "ownerId": "sasang-pattern-soyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-exterior",
+          "detail": "소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "소양인 비수한표한병 — 소양인의 비가 한을 받아 나타나는 표한병을 논하는 편이다. 소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다.",
+      "source": "/learning/sasang/#sasang-pattern-soyang-exterior"
+    },
+    {
+      "id": "sasang-pattern-soyang-exterior-interpretation",
+      "cardId": "sasang-pattern-soyang-exterior",
+      "category": "소양인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "오한·신체통 사례와 복통·설사·기력 소모 사례를 비교한다.",
+      "options": [
+        {
+          "text": "소양인 표한: 소양상풍과 망음을 먼저 가른다.",
+          "owner": "소양인 비수한표한병",
+          "ownerId": "sasang-pattern-soyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-exterior",
+          "detail": "소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다.",
+          "owner": "소양인 위수열리열병",
+          "ownerId": "sasang-pattern-soyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-interior",
+          "detail": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "소양인 비수한표한병 — 소양인의 비가 한을 받아 나타나는 표한병을 논하는 편이다. 소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다.",
+      "source": "/learning/sasang/#sasang-pattern-soyang-exterior"
+    },
+    {
+      "id": "sasang-pattern-soyang-exterior-treatment",
+      "cardId": "sasang-pattern-soyang-exterior",
+      "category": "소양인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "少陽人脾受寒表寒病論\n오한·신체통 사례와 복통·설사·기력 소모 사례를 비교한다.",
+      "options": [
+        {
+          "text": "청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다.",
+          "owner": "소양인 위수열리열병",
+          "ownerId": "sasang-pattern-soyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-interior",
+          "detail": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다."
+        },
+        {
+          "text": "표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다.",
+          "owner": "소양인 비수한표한병",
+          "ownerId": "sasang-pattern-soyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-exterior",
+          "detail": "소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "소양인 비수한표한병 — 소양인의 비가 한을 받아 나타나는 표한병을 논하는 편이다. 소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다.",
+      "source": "/learning/sasang/#sasang-pattern-soyang-exterior"
+    },
+    {
+      "id": "sasang-pattern-soyang-interior-original",
+      "cardId": "sasang-pattern-soyang-interior",
+      "category": "소양인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "少陽人胃受熱裏熱病論",
+      "options": [
+        {
+          "text": "소양인의 비가 한을 받아 나타나는 표한병을 논하는 편이다.",
+          "owner": "소양인 비수한표한병",
+          "ownerId": "sasang-pattern-soyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-exterior",
+          "detail": "소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인의 위가 열을 받아 나타나는 리열병을 논하는 편이다.",
+          "owner": "소양인 위수열리열병",
+          "ownerId": "sasang-pattern-soyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-interior",
+          "detail": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소양인 위수열리열병 — 소양인의 위가 열을 받아 나타나는 리열병을 논하는 편이다. 소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다.",
+      "source": "/learning/sasang/#sasang-pattern-soyang-interior"
+    },
+    {
+      "id": "sasang-pattern-soyang-interior-interpretation",
+      "cardId": "sasang-pattern-soyang-interior",
+      "category": "소양인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "흉격 열감·갈증·대변 정체와 지속 소모·하지무력의 비중을 비교한다.",
+      "options": [
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "소양인 표한: 소양상풍과 망음을 먼저 가른다.",
+          "owner": "소양인 비수한표한병",
+          "ownerId": "sasang-pattern-soyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-exterior",
+          "detail": "소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다."
+        },
+        {
+          "text": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다.",
+          "owner": "소양인 위수열리열병",
+          "ownerId": "sasang-pattern-soyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-interior",
+          "detail": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "소양인 위수열리열병 — 소양인의 위가 열을 받아 나타나는 리열병을 논하는 편이다. 소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다.",
+      "source": "/learning/sasang/#sasang-pattern-soyang-interior"
+    },
+    {
+      "id": "sasang-pattern-soyang-interior-treatment",
+      "cardId": "sasang-pattern-soyang-interior",
+      "category": "소양인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "少陽人胃受熱裏熱病論\n흉격 열감·갈증·대변 정체와 지속 소모·하지무력의 비중을 비교한다.",
+      "options": [
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다.",
+          "owner": "소양인 위수열리열병",
+          "ownerId": "sasang-pattern-soyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-interior",
+          "detail": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다."
+        },
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다.",
+          "owner": "소양인 비수한표한병",
+          "ownerId": "sasang-pattern-soyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-soyang-exterior",
+          "detail": "소양인 표한: 소양상풍과 망음을 먼저 가른다. 표음의 소통·하강을 읽고 망음에서는 음청지기 보존과 병증 단계를 함께 본다. 소양인 표병 전체를 망음으로 부르지 않는다. 소양상풍병과 망음병은 다른 병증 분류다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "소양인 위수열리열병 — 소양인의 위가 열을 받아 나타나는 리열병을 논하는 편이다. 소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다. 청열의 비중과 음액 보존의 비중을 병증 단계에 맞춰 비교한다. 소양인이라는 체질명만으로 상한론 소양병·소시호탕증과 같게 보지 않는다.",
+      "source": "/learning/sasang/#sasang-pattern-soyang-interior"
+    },
+    {
+      "id": "sasang-pattern-taeeum-exterior-original",
+      "cardId": "sasang-pattern-taeeum-exterior",
+      "category": "태음인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "太陰人胃脘受寒表寒病論",
+      "options": [
+        {
+          "text": "태음인의 간이 열을 받아 나타나는 리열병을 논하는 편이다.",
+          "owner": "태음인 간수열리열병",
+          "ownerId": "sasang-pattern-taeeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-interior",
+          "detail": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인의 위완이 한을 받아 나타나는 표한병을 논하는 편이다.",
+          "owner": "태음인 위완수한표한병",
+          "ownerId": "sasang-pattern-taeeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-exterior",
+          "detail": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "태음인 위완수한표한병 — 태음인의 위완이 한을 받아 나타나는 표한병을 논하는 편이다. 태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다.",
+      "source": "/learning/sasang/#sasang-pattern-taeeum-exterior"
+    },
+    {
+      "id": "sasang-pattern-taeeum-exterior-interpretation",
+      "cardId": "sasang-pattern-taeeum-exterior",
+      "category": "태음인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "오한·무한·몸의 무거움·호흡 불편과 평소 발한을 함께 본다.",
+      "options": [
+        {
+          "text": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다.",
+          "owner": "태음인 위완수한표한병",
+          "ownerId": "sasang-pattern-taeeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-exterior",
+          "detail": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다.",
+          "owner": "태음인 간수열리열병",
+          "ownerId": "sasang-pattern-taeeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-interior",
+          "detail": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "태음인 위완수한표한병 — 태음인의 위완이 한을 받아 나타나는 표한병을 논하는 편이다. 태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다.",
+      "source": "/learning/sasang/#sasang-pattern-taeeum-exterior"
+    },
+    {
+      "id": "sasang-pattern-taeeum-exterior-treatment",
+      "cardId": "sasang-pattern-taeeum-exterior",
+      "category": "태음인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "太陰人胃脘受寒表寒病論\n오한·무한·몸의 무거움·호흡 불편과 평소 발한을 함께 본다.",
+      "options": [
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다.",
+          "owner": "태음인 간수열리열병",
+          "ownerId": "sasang-pattern-taeeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-interior",
+          "detail": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다.",
+          "owner": "태음인 위완수한표한병",
+          "ownerId": "sasang-pattern-taeeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-exterior",
+          "detail": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태음인 위완수한표한병 — 태음인의 위완이 한을 받아 나타나는 표한병을 논하는 편이다. 태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다.",
+      "source": "/learning/sasang/#sasang-pattern-taeeum-exterior"
+    },
+    {
+      "id": "sasang-pattern-taeeum-interior-original",
+      "cardId": "sasang-pattern-taeeum-interior",
+      "category": "태음인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "太陰人肝受熱裏熱病論",
+      "options": [
+        {
+          "text": "태음인의 위완이 한을 받아 나타나는 표한병을 논하는 편이다.",
+          "owner": "태음인 위완수한표한병",
+          "ownerId": "sasang-pattern-taeeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-exterior",
+          "detail": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인의 간이 열을 받아 나타나는 리열병을 논하는 편이다.",
+          "owner": "태음인 간수열리열병",
+          "ownerId": "sasang-pattern-taeeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-interior",
+          "detail": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태음인 간수열리열병 — 태음인의 간이 열을 받아 나타나는 리열병을 논하는 편이다. 태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다.",
+      "source": "/learning/sasang/#sasang-pattern-taeeum-interior"
+    },
+    {
+      "id": "sasang-pattern-taeeum-interior-interpretation",
+      "cardId": "sasang-pattern-taeeum-interior",
+      "category": "태음인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "열·갈증·피부와 대변 건조, 땀과 호흡의 변화를 묶는다.",
+      "options": [
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다.",
+          "owner": "태음인 간수열리열병",
+          "ownerId": "sasang-pattern-taeeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-interior",
+          "detail": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다.",
+          "owner": "태음인 위완수한표한병",
+          "ownerId": "sasang-pattern-taeeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-exterior",
+          "detail": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "태음인 간수열리열병 — 태음인의 간이 열을 받아 나타나는 리열병을 논하는 편이다. 태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다.",
+      "source": "/learning/sasang/#sasang-pattern-taeeum-interior"
+    },
+    {
+      "id": "sasang-pattern-taeeum-interior-treatment",
+      "cardId": "sasang-pattern-taeeum-interior",
+      "category": "태음인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "太陰人肝受熱裏熱病論\n열·갈증·피부와 대변 건조, 땀과 호흡의 변화를 묶는다.",
+      "options": [
+        {
+          "text": "청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다.",
+          "owner": "태음인 간수열리열병",
+          "ownerId": "sasang-pattern-taeeum-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-interior",
+          "detail": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다."
+        },
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다.",
+          "owner": "태음인 위완수한표한병",
+          "ownerId": "sasang-pattern-taeeum-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeeum-exterior",
+          "detail": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다. 표한을 풀고 위완·폐의 기능과 발한 뒤 회복을 함께 살핀다. 표한병을 단순한 피부 냉감으로 판정하지 않는다. 호흡·섭취·발한의 조합이 필요하다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "태음인 간수열리열병 — 태음인의 간이 열을 받아 나타나는 리열병을 논하는 편이다. 태음인 리열: 간열과 폐조의 비중을 함께 읽는다. 청열과 폐의 호산·진액 기능 보존을 병증 단계에 맞춰 연결한다. 간열은 간기능검사 수치와 일대일로 같지 않다. 소증·현증과 현대 질환 평가는 각각 확인한다.",
+      "source": "/learning/sasang/#sasang-pattern-taeeum-interior"
+    },
+    {
+      "id": "sasang-pattern-taeyang-exterior-original",
+      "cardId": "sasang-pattern-taeyang-exterior",
+      "category": "태양인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "太陽人外感腰脊病論",
+      "options": [
+        {
+          "text": "태양인의 외감요척병을 논하는 편이다.",
+          "owner": "태양인 외감요척병",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-exterior",
+          "detail": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인의 내촉소장병을 논하는 편이다.",
+          "owner": "태양인 내촉소장병",
+          "ownerId": "sasang-pattern-taeyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-interior",
+          "detail": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다."
+        },
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "태양인 외감요척병 — 태양인의 외감요척병을 논하는 편이다. 태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다.",
+      "source": "/learning/sasang/#sasang-pattern-taeyang-exterior"
+    },
+    {
+      "id": "sasang-pattern-taeyang-exterior-interpretation",
+      "cardId": "sasang-pattern-taeyang-exterior",
+      "category": "태양인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "요척과 하지의 지탱 기능, 서기·보행의 저하가 중심이다.",
+      "options": [
+        {
+          "text": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다.",
+          "owner": "태양인 내촉소장병",
+          "ownerId": "sasang-pattern-taeyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-interior",
+          "detail": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다."
+        },
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다.",
+          "owner": "태양인 외감요척병",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-exterior",
+          "detail": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "태양인 외감요척병 — 태양인의 외감요척병을 논하는 편이다. 태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다.",
+      "source": "/learning/sasang/#sasang-pattern-taeyang-exterior"
+    },
+    {
+      "id": "sasang-pattern-taeyang-exterior-treatment",
+      "cardId": "sasang-pattern-taeyang-exterior",
+      "category": "태양인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "太陽人外感腰脊病論\n요척과 하지의 지탱 기능, 서기·보행의 저하가 중심이다.",
+      "options": [
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다.",
+          "owner": "태양인 외감요척병",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-exterior",
+          "detail": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다."
+        },
+        {
+          "text": "열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다.",
+          "owner": "태양인 내촉소장병",
+          "ownerId": "sasang-pattern-taeyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-interior",
+          "detail": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "태양인 외감요척병 — 태양인의 외감요척병을 논하는 편이다. 태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다.",
+      "source": "/learning/sasang/#sasang-pattern-taeyang-exterior"
+    },
+    {
+      "id": "sasang-pattern-taeyang-interior-original",
+      "cardId": "sasang-pattern-taeyang-interior",
+      "category": "태양인 표리",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "太陽人內觸小腸病論",
+      "options": [
+        {
+          "text": "신대비소인 사람을 소음인이라 부른다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인의 외감요척병을 논하는 편이다.",
+          "owner": "태양인 외감요척병",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-exterior",
+          "detail": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다."
+        },
+        {
+          "text": "음식의 소화가 원활하면 건강이 충실하다고 한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인의 내촉소장병을 논하는 편이다.",
+          "owner": "태양인 내촉소장병",
+          "ownerId": "sasang-pattern-taeyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-interior",
+          "detail": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태양인 내촉소장병 — 태양인의 내촉소장병을 논하는 편이다. 태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다.",
+      "source": "/learning/sasang/#sasang-pattern-taeyang-interior"
+    },
+    {
+      "id": "sasang-pattern-taeyang-interior-interpretation",
+      "cardId": "sasang-pattern-taeyang-interior",
+      "category": "태양인 표리",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "음식이 내려가지 않고 연하·섭취·구토 문제가 중심이다.",
+      "options": [
+        {
+          "text": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다.",
+          "owner": "태양인 외감요척병",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-exterior",
+          "detail": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다."
+        },
+        {
+          "text": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다.",
+          "owner": "태양인 내촉소장병",
+          "ownerId": "sasang-pattern-taeyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-interior",
+          "detail": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태양인 내촉소장병 — 태양인의 내촉소장병을 논하는 편이다. 태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다.",
+      "source": "/learning/sasang/#sasang-pattern-taeyang-interior"
+    },
+    {
+      "id": "sasang-pattern-taeyang-interior-treatment",
+      "cardId": "sasang-pattern-taeyang-interior",
+      "category": "태양인 표리",
+      "kind": "treatment",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "太陽人內觸小腸病論\n음식이 내려가지 않고 연하·섭취·구토 문제가 중심이다.",
+      "options": [
+        {
+          "text": "해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다.",
+          "owner": "태양인 외감요척병",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-exterior",
+          "detail": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다. 해역의 병증 구조에서 오가피장척탕을 연결하고 기립·보행 회복을 관찰한다. 요통이나 하지무력 하나로 태양인을 정하지 않는다. 신경·근골격 질환 감별도 필요하다."
+        },
+        {
+          "text": "소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다.",
+          "owner": "소음인 · 완실무병 구절",
+          "ownerId": "sasang-health-soeum",
+          "source": "/learning/sasang/#sasang-health-soeum",
+          "detail": "소음인의 음식선화: 식욕·식후 편안함·대변·냉감을 기준선과 비교한다. 소음인에서는 양난지기를 보명지주로 읽으며 주증과 식욕·식후 편안함·대변·냉감의 회복을 함께 본다. 음식선화은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다."
+        },
+        {
+          "text": "소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다.",
+          "owner": "소음인 · 장부대소",
+          "ownerId": "sasang-organ-soeum",
+          "source": "/learning/sasang/#sasang-organ-soeum",
+          "detail": "소음인의 신대비소: 장국의 기능적 강약을 설명하는 전통 이론이다. 소음인의 보명지주 양난지기를 중심으로 신수열표열병과 위수한리한병의 병증축을 구분한다. 신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다."
+        },
+        {
+          "text": "열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다.",
+          "owner": "태양인 내촉소장병",
+          "ownerId": "sasang-pattern-taeyang-interior",
+          "source": "/learning/sasang/#sasang-pattern-taeyang-interior",
+          "detail": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태양인 내촉소장병 — 태양인의 내촉소장병을 논하는 편이다. 태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다. 열격의 병증 구조에서 미후등식장탕을 연결하고 섭취·구토·체중을 관찰한다. 열격을 식도암·역류질환 한 병명과 동일시하지 않는다. 판본·원료 자료도 함께 확인한다.",
+      "source": "/learning/sasang/#sasang-pattern-taeyang-interior"
+    },
+    {
+      "id": "sasang-formula-hwanggi-gyeji-original",
+      "cardId": "sasang-formula-hwanggi-gyeji",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "黃芪桂枝湯",
+      "options": [
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "荊防瀉白散는 형방사백산으로 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "황기계지탕 · 소음인 — 黃芪桂枝湯는 황기계지탕으로 읽는다. 황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다.",
+      "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji"
+    },
+    {
+      "id": "sasang-formula-hwanggi-gyeji-interpretation",
+      "cardId": "sasang-formula-hwanggi-gyeji",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "소음인의 표열·망양 초기의 자한과 기력 소모라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "황기계지탕 · 소음인 — 黃芪桂枝湯는 황기계지탕으로 읽는다. 황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다.",
+      "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji"
+    },
+    {
+      "id": "sasang-formula-hwanggi-gyeji-treatment",
+      "cardId": "sasang-formula-hwanggi-gyeji",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "黃芪桂枝湯\n소음인의 표열·망양 초기의 자한과 기력 소모라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "황기계지탕 · 소음인 — 黃芪桂枝湯는 황기계지탕으로 읽는다. 황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다.",
+      "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji"
+    },
+    {
+      "id": "sasang-formula-hyangsa-yangwi-original",
+      "cardId": "sasang-formula-hyangsa-yangwi",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "香砂養胃湯",
+      "options": [
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "荊防瀉白散는 형방사백산으로 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "향사양위탕 · 소음인 — 香砂養胃湯는 향사양위탕으로 읽는다. 향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다.",
+      "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi"
+    },
+    {
+      "id": "sasang-formula-hyangsa-yangwi-interpretation",
+      "cardId": "sasang-formula-hyangsa-yangwi",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "소음인의 리한·태음병의 소화저하·심하비만라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "향사양위탕 · 소음인 — 香砂養胃湯는 향사양위탕으로 읽는다. 향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다.",
+      "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi"
+    },
+    {
+      "id": "sasang-formula-hyangsa-yangwi-treatment",
+      "cardId": "sasang-formula-hyangsa-yangwi",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "香砂養胃湯\n소음인의 리한·태음병의 소화저하·심하비만라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "향사양위탕 · 소음인 — 香砂養胃湯는 향사양위탕으로 읽는다. 향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다.",
+      "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi"
+    },
+    {
+      "id": "sasang-formula-hyeongbangdojeok-original",
+      "cardId": "sasang-formula-hyeongbangdojeok",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "荊防導赤散",
+      "options": [
+        {
+          "text": "荊防瀉白散는 형방사백산으로 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "형방도적산 · 소양인 — 荊防導赤散는 형방도적산으로 읽는다. 형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다.",
+      "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok"
+    },
+    {
+      "id": "sasang-formula-hyeongbangdojeok-interpretation",
+      "cardId": "sasang-formula-hyeongbangdojeok",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "소양인의 표한·소양상풍의 결흉 방향과 흉격 불편라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "형방도적산 · 소양인 — 荊防導赤散는 형방도적산으로 읽는다. 형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다.",
+      "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok"
+    },
+    {
+      "id": "sasang-formula-hyeongbangdojeok-treatment",
+      "cardId": "sasang-formula-hyeongbangdojeok",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "荊防導赤散\n소양인의 표한·소양상풍의 결흉 방향과 흉격 불편라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "형방도적산 · 소양인 — 荊防導赤散는 형방도적산으로 읽는다. 형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다.",
+      "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok"
+    },
+    {
+      "id": "sasang-formula-hyeongbangsabaek-original",
+      "cardId": "sasang-formula-hyeongbangsabaek",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "荊防瀉白散",
+      "options": [
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "荊防瀉白散는 형방사백산으로 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "형방사백산 · 소양인 — 荊防瀉白散는 형방사백산으로 읽는다. 형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다.",
+      "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek"
+    },
+    {
+      "id": "sasang-formula-hyeongbangsabaek-interpretation",
+      "cardId": "sasang-formula-hyeongbangsabaek",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "소양인의 표한·신열두통망음의 설사와 신열·두통라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "형방사백산 · 소양인 — 荊防瀉白散는 형방사백산으로 읽는다. 형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다.",
+      "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek"
+    },
+    {
+      "id": "sasang-formula-hyeongbangsabaek-treatment",
+      "cardId": "sasang-formula-hyeongbangsabaek",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "荊防瀉白散\n소양인의 표한·신열두통망음의 설사와 신열·두통라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다.",
+          "owner": "형방사백산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangsabaek",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek",
+          "detail": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다."
+        },
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "형방사백산 · 소양인 — 荊防瀉白散는 형방사백산으로 읽는다. 형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통. 형방사백산: 망음의 표음·음청지기와 신열두통·설사를 함께 읽는다. 두통·설사만 떼어 보지 않고 망음 병증과 소증을 확인한다. 형방도적산의 결흉 방향과 구분한다.",
+      "source": "/learning/sasang/#sasang-formula-hyeongbangsabaek"
+    },
+    {
+      "id": "sasang-formula-taeeumjowi-original",
+      "cardId": "sasang-formula-taeeumjowi",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "太陰調胃湯",
+      "options": [
+        {
+          "text": "太陰調胃湯는 태음조위탕으로 읽는다.",
+          "owner": "태음조위탕 · 태음인",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#sasang-formula-taeeumjowi",
+          "detail": "태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움. 태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다. 열다한소탕의 열·갈증·건조가 중심인 리열 방향과 구분한다. 체중 하나로 고르지 않는다."
+        },
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "태음조위탕 · 태음인 — 太陰調胃湯는 태음조위탕으로 읽는다. 태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움. 태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다. 열다한소탕의 열·갈증·건조가 중심인 리열 방향과 구분한다. 체중 하나로 고르지 않는다.",
+      "source": "/learning/sasang/#sasang-formula-taeeumjowi"
+    },
+    {
+      "id": "sasang-formula-taeeumjowi-interpretation",
+      "cardId": "sasang-formula-taeeumjowi",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "태음인의 표한·위완한의 식후비만·담습·무거움라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움.",
+          "owner": "태음조위탕 · 태음인",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#sasang-formula-taeeumjowi",
+          "detail": "태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움. 태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다. 열다한소탕의 열·갈증·건조가 중심인 리열 방향과 구분한다. 체중 하나로 고르지 않는다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "태음조위탕 · 태음인 — 太陰調胃湯는 태음조위탕으로 읽는다. 태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움. 태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다. 열다한소탕의 열·갈증·건조가 중심인 리열 방향과 구분한다. 체중 하나로 고르지 않는다.",
+      "source": "/learning/sasang/#sasang-formula-taeeumjowi"
+    },
+    {
+      "id": "sasang-formula-taeeumjowi-treatment",
+      "cardId": "sasang-formula-taeeumjowi",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "太陰調胃湯\n태음인의 표한·위완한의 식후비만·담습·무거움라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다.",
+          "owner": "태음조위탕 · 태음인",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#sasang-formula-taeeumjowi",
+          "detail": "태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움. 태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다. 열다한소탕의 열·갈증·건조가 중심인 리열 방향과 구분한다. 체중 하나로 고르지 않는다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "태음조위탕 · 태음인 — 太陰調胃湯는 태음조위탕으로 읽는다. 태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움. 태음조위탕: 의이인·건율·나복자의 위완축과 폐·발한 기능의 배합을 읽는다. 열다한소탕의 열·갈증·건조가 중심인 리열 방향과 구분한다. 체중 하나로 고르지 않는다.",
+      "source": "/learning/sasang/#sasang-formula-taeeumjowi"
+    },
+    {
+      "id": "sasang-formula-yeoldahanso-original",
+      "cardId": "sasang-formula-yeoldahanso",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "熱多寒少湯",
+      "options": [
+        {
+          "text": "熱多寒少湯는 열다한소탕으로 읽는다.",
+          "owner": "열다한소탕 · 태음인",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#sasang-formula-yeoldahanso",
+          "detail": "열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조. 열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다. 표한 중심의 태음조위탕과 구별한다. 대황이 더해진 청폐사간탕은 별도 구성으로 확인한다."
+        },
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "열다한소탕 · 태음인 — 熱多寒少湯는 열다한소탕으로 읽는다. 열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조. 열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다. 표한 중심의 태음조위탕과 구별한다. 대황이 더해진 청폐사간탕은 별도 구성으로 확인한다.",
+      "source": "/learning/sasang/#sasang-formula-yeoldahanso"
+    },
+    {
+      "id": "sasang-formula-yeoldahanso-interpretation",
+      "cardId": "sasang-formula-yeoldahanso",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "태음인의 리열·간열폐조의 열·갈증·건조라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조.",
+          "owner": "열다한소탕 · 태음인",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#sasang-formula-yeoldahanso",
+          "detail": "열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조. 열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다. 표한 중심의 태음조위탕과 구별한다. 대황이 더해진 청폐사간탕은 별도 구성으로 확인한다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "열다한소탕 · 태음인 — 熱多寒少湯는 열다한소탕으로 읽는다. 열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조. 열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다. 표한 중심의 태음조위탕과 구별한다. 대황이 더해진 청폐사간탕은 별도 구성으로 확인한다.",
+      "source": "/learning/sasang/#sasang-formula-yeoldahanso"
+    },
+    {
+      "id": "sasang-formula-yeoldahanso-treatment",
+      "cardId": "sasang-formula-yeoldahanso",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "熱多寒少湯\n태음인의 리열·간열폐조의 열·갈증·건조라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다.",
+          "owner": "열다한소탕 · 태음인",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#sasang-formula-yeoldahanso",
+          "detail": "열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조. 열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다. 표한 중심의 태음조위탕과 구별한다. 대황이 더해진 청폐사간탕은 별도 구성으로 확인한다."
+        },
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "열다한소탕 · 태음인 — 熱多寒少湯는 열다한소탕으로 읽는다. 열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조. 열다한소탕: 갈근의 해기축과 황금의 청열축, 길경·나복자의 폐기축을 읽는다. 표한 중심의 태음조위탕과 구별한다. 대황이 더해진 청폐사간탕은 별도 구성으로 확인한다.",
+      "source": "/learning/sasang/#sasang-formula-yeoldahanso"
+    },
+    {
+      "id": "sasang-formula-ogapi-original",
+      "cardId": "sasang-formula-ogapi",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "五加皮壯脊湯",
+      "options": [
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "五加皮壯脊湯는 오가피장척탕으로 읽는다.",
+          "owner": "오가피장척탕 · 태양인",
+          "ownerId": "sasang-formula-ogapi",
+          "source": "/learning/sasang/#sasang-formula-ogapi",
+          "detail": "오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하. 오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다. 미후등식장탕의 연하·섭취 중심 열격과 구별한다. 태양인은 확인 가능한 처방 자료 범위를 지킨다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "오가피장척탕 · 태양인 — 五加皮壯脊湯는 오가피장척탕으로 읽는다. 오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하. 오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다. 미후등식장탕의 연하·섭취 중심 열격과 구별한다. 태양인은 확인 가능한 처방 자료 범위를 지킨다.",
+      "source": "/learning/sasang/#sasang-formula-ogapi"
+    },
+    {
+      "id": "sasang-formula-ogapi-interpretation",
+      "cardId": "sasang-formula-ogapi",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "태양인의 외감요척병·해역의 요척·하지 기능 저하라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하.",
+          "owner": "오가피장척탕 · 태양인",
+          "ownerId": "sasang-formula-ogapi",
+          "source": "/learning/sasang/#sasang-formula-ogapi",
+          "detail": "오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하. 오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다. 미후등식장탕의 연하·섭취 중심 열격과 구별한다. 태양인은 확인 가능한 처방 자료 범위를 지킨다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 0,
+      "explanation": "오가피장척탕 · 태양인 — 五加皮壯脊湯는 오가피장척탕으로 읽는다. 오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하. 오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다. 미후등식장탕의 연하·섭취 중심 열격과 구별한다. 태양인은 확인 가능한 처방 자료 범위를 지킨다.",
+      "source": "/learning/sasang/#sasang-formula-ogapi"
+    },
+    {
+      "id": "sasang-formula-ogapi-treatment",
+      "cardId": "sasang-formula-ogapi",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "五加皮壯脊湯\n태양인의 외감요척병·해역의 요척·하지 기능 저하라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다.",
+          "owner": "오가피장척탕 · 태양인",
+          "ownerId": "sasang-formula-ogapi",
+          "source": "/learning/sasang/#sasang-formula-ogapi",
+          "detail": "오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하. 오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다. 미후등식장탕의 연하·섭취 중심 열격과 구별한다. 태양인은 확인 가능한 처방 자료 범위를 지킨다."
+        },
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "오가피장척탕 · 태양인 — 五加皮壯脊湯는 오가피장척탕으로 읽는다. 오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하. 오가피장척탕: 요척·근골의 배합축과 기립·보행 회복을 연결한다. 미후등식장탕의 연하·섭취 중심 열격과 구별한다. 태양인은 확인 가능한 처방 자료 범위를 지킨다.",
+      "source": "/learning/sasang/#sasang-formula-ogapi"
+    },
+    {
+      "id": "sasang-formula-mihudeung-original",
+      "cardId": "sasang-formula-mihudeung",
+      "category": "주요 처방·감별",
+      "kind": "original",
+      "prompt": "다음 원문 구절·표지어의 우리말 풀이로 맞는 것은?",
+      "context": "獼猴藤植腸湯",
+      "options": [
+        {
+          "text": "荊防導赤散는 형방도적산으로 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "香砂養胃湯는 향사양위탕으로 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        },
+        {
+          "text": "黃芪桂枝湯는 황기계지탕으로 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "獼猴藤植腸湯는 미후등식장탕으로 읽는다.",
+          "owner": "미후등식장탕 · 태양인",
+          "ownerId": "sasang-formula-mihudeung",
+          "source": "/learning/sasang/#sasang-formula-mihudeung",
+          "detail": "미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토. 미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다. 처방명 미후등과 후대 수록본의 첫 약재 미후도 표기를 구별한다. 이름만으로 원료 부위를 추정하지 않는다."
+        }
+      ],
+      "answer": 3,
+      "explanation": "미후등식장탕 · 태양인 — 獼猴藤植腸湯는 미후등식장탕으로 읽는다. 미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토. 미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다. 처방명 미후등과 후대 수록본의 첫 약재 미후도 표기를 구별한다. 이름만으로 원료 부위를 추정하지 않는다.",
+      "source": "/learning/sasang/#sasang-formula-mihudeung"
+    },
+    {
+      "id": "sasang-formula-mihudeung-interpretation",
+      "cardId": "sasang-formula-mihudeung",
+      "category": "주요 처방·감별",
+      "kind": "interpretation",
+      "prompt": "다음 독해 사례의 판독 핵심으로 맞는 것은?",
+      "context": "태양인의 내촉소장병·열격의 연하·섭취·구토라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토.",
+          "owner": "미후등식장탕 · 태양인",
+          "ownerId": "sasang-formula-mihudeung",
+          "source": "/learning/sasang/#sasang-formula-mihudeung",
+          "detail": "미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토. 미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다. 처방명 미후등과 후대 수록본의 첫 약재 미후도 표기를 구별한다. 이름만으로 원료 부위를 추정하지 않는다."
+        },
+        {
+          "text": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 1,
+      "explanation": "미후등식장탕 · 태양인 — 獼猴藤植腸湯는 미후등식장탕으로 읽는다. 미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토. 미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다. 처방명 미후등과 후대 수록본의 첫 약재 미후도 표기를 구별한다. 이름만으로 원료 부위를 추정하지 않는다.",
+      "source": "/learning/sasang/#sasang-formula-mihudeung"
+    },
+    {
+      "id": "sasang-formula-mihudeung-treatment",
+      "cardId": "sasang-formula-mihudeung",
+      "category": "주요 처방·감별",
+      "kind": "formula",
+      "prompt": "다음 원문과 병증 문맥에 연결되는 치법·처방 설명은?",
+      "context": "獼猴藤植腸湯\n태양인의 내촉소장병·열격의 연하·섭취·구토라는 병증 위치를 확인했다. 이 위치와 연결한 처방 학습 항목은?",
+      "options": [
+        {
+          "text": "황기·계지 계열에서 익기·승양과 영위 조화를 읽는다.",
+          "owner": "황기계지탕 · 소음인",
+          "ownerId": "sasang-formula-hwanggi-gyeji",
+          "source": "/learning/sasang/#sasang-formula-hwanggi-gyeji",
+          "detail": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모. 황기·계지 계열에서 익기·승양과 영위 조화를 읽는다. 땀과 기력 소모의 망양 문맥을 울광의 무한과 구분한다."
+        },
+        {
+          "text": "형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다.",
+          "owner": "형방도적산 · 소양인",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#sasang-formula-hyeongbangdojeok",
+          "detail": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편. 형방도적산: 표음의 소통과 흉격의 울체 조절을 함께 읽는다. 형방사백산과 같은 형방계라는 이유로 교환하지 않는다. 소양상풍·망음의 구분이 먼저다."
+        },
+        {
+          "text": "미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다.",
+          "owner": "미후등식장탕 · 태양인",
+          "ownerId": "sasang-formula-mihudeung",
+          "source": "/learning/sasang/#sasang-formula-mihudeung",
+          "detail": "미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토. 미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다. 처방명 미후등과 후대 수록본의 첫 약재 미후도 표기를 구별한다. 이름만으로 원료 부위를 추정하지 않는다."
+        },
+        {
+          "text": "향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다.",
+          "owner": "향사양위탕 · 소음인",
+          "ownerId": "sasang-formula-hyangsa-yangwi",
+          "source": "/learning/sasang/#sasang-formula-hyangsa-yangwi",
+          "detail": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만. 향사양위탕: 온중·건비와 소화 기능 조절의 배합축을 읽는다. 동명 향사양위탕은 출전별 구성 차이가 있으므로 소음인 처방 수록본을 확인한다."
+        }
+      ],
+      "answer": 2,
+      "explanation": "미후등식장탕 · 태양인 — 獼猴藤植腸湯는 미후등식장탕으로 읽는다. 미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토. 미후등식장탕: 음식 수납·하강의 병증축과 섭취 회복을 연결한다. 처방명 미후등과 후대 수록본의 첫 약재 미후도 표기를 구별한다. 이름만으로 원료 부위를 추정하지 않는다.",
+      "source": "/learning/sasang/#sasang-formula-mihudeung"
+    }
+  ]
+}

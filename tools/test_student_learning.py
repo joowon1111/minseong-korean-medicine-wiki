@@ -14,7 +14,7 @@ class StudentLearning(unittest.TestCase):
         cls.decks = study.build()
 
     def test_complete_decks_and_committed_build_agree(self):
-        expected = {'anatomy': 457, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
+        expected = {'anatomy': 457, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110, 'shanghanlun': 34, 'sasang': 24}
         manifest = json.loads((study.OUT / 'manifest.json').read_text())
         for subject, deck in self.decks.items():
             self.assertEqual(len(deck['cards']), expected[subject])
@@ -51,6 +51,33 @@ class StudentLearning(unittest.TestCase):
                     self.assertEqual(option['source'], owner['source'])
                     self.assertTrue(option['text'] == owner['title'] or option['text'] in [f['value'] for f in owner['facts']])
             self.assertEqual(positions, {0, 1, 2, 3})
+
+    def test_classical_banks_keep_originals_editions_and_interpretive_context(self):
+        from collections import Counter
+        for subject, count in (('shanghanlun', 34), ('sasang', 24)):
+            deck = self.decks[subject]
+            self.assertEqual(len(deck['cards']), count)
+            self.assertEqual(len(deck['questions']), count * 3)
+            for c in deck['cards']:
+                facts = {f['label']: f['value'] for f in c['facts']}
+                self.assertTrue({'원문', '우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
+                self.assertIn(c['id'], c['source'])
+                self.assertTrue(c['relatedSource'].startswith('/'))
+            self.assertEqual(Counter(q['cardId'] for q in deck['questions']), {c['id']: 3 for c in deck['cards']})
+            self.assertTrue(all(q['context'] and all(o['detail'] for o in q['options']) for q in deck['questions']))
+        # The archive's selected Song clauses must agree verbatim with the bank.
+        for row in json.loads((study.ROOT / 'data/shanghan_learning.json').read_text())['items']:
+            source = urlsplit(row['relatedSource'])
+            text = (study.DOCS / (source.path.strip('/') + '.md')).read_text()
+            fragment = source.fragment
+            body = re.search(r'^## .*?\{#' + fragment + r'\}\n(.*?)(?=^## |\Z)', text, re.M | re.S)[1]
+            self.assertEqual(row['original'], ' '.join(re.findall(r'^> (.*)', body, re.M)))
+        sasang = self.decks['sasang']
+        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 24, 'interpretation': 24, 'treatment': 16, 'formula': 8})
+        for key in ('soeum', 'soyang', 'taeeum', 'taeyang'):
+            self.assertTrue(any(c['id'] == 'sasang-health-' + key for c in sasang['cards']))
+        headings = [c for c in sasang['cards'] if c['id'].startswith('sasang-pattern-')]
+        self.assertTrue(all('조문 본문 아님' in c['facts'][0]['value'] for c in headings))
 
     def test_question_diagrams_have_no_labels_or_answer_descriptions(self):
         ns = '{http://www.w3.org/2000/svg}'
