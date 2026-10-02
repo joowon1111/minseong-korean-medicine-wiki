@@ -58,6 +58,12 @@ description: 소음인 병증 중증도 지도 — 민성 한의학 아카이브
 
 → [소음인 태음병 vs 소음병](soeumin-taeeum-vs-soeum.md) · [소음인 상세](../sasang-clinical-detail/soeumin.md) · [소음인 처방 배합망](../sasang-formula-combination-network/soeumin-network.md)
 
+## 원전·CPG 바로가기
+
+이 문서는 《동의수세보원·신축본》 「소음인 신수열표열병론」·「소음인 위수한리한병론」과 울광·망양·태음병·소음병 CPG를 기준으로 읽습니다.
+
+→ [병증별 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md)
+
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
