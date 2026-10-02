@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "20261002-6",
+  "version": "20261002-7",
   "subjects": [
     {
       "id": "anatomy",
@@ -36,6 +36,20 @@
       "cards": 110,
       "questions": 440,
       "file": "formulas.json"
+    },
+    {
+      "id": "shanghanlun",
+      "title": "상한론",
+      "cards": 34,
+      "questions": 102,
+      "file": "shanghanlun.json"
+    },
+    {
+      "id": "sasang",
+      "title": "사상의학",
+      "cards": 24,
+      "questions": 72,
+      "file": "sasang.json"
     }
   ]
 }

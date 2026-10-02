@@ -189,3 +189,30 @@ test('hand and foot structures with similar Korean names remain distinct', () =>
   assert.ok(study.answerMatches(adductorToe, '발의 무지내전근'));
   assert.equal(study.answerMatches(adductorToe, '무지내전근'), false);
 });
+
+for (const [subject, title] of [['shanghanlun', '상한론'], ['sasang', '사상의학']]) {
+  test(title + ' subject loads, filters question types and reveals source comparisons', async () => {
+    const classic = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
+    const h = harness(); h.button(title).events.click();
+    h.loads[1].resolve({ok: true, json: async () => classic}); await h.settle();
+    assert.ok(h.button('카드 뒤집기 · 답 확인'));
+    h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+    const kinds = h.select('문제 유형');
+    assert.ok(kinds.children.some(e => e.value === 'original'));
+    assert.ok(kinds.children.some(e => e.value === 'interpretation'));
+    kinds.value = 'original'; kinds.events.change();
+    h.button('10문제 풀기').events.click();
+    const context = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;
+    assert.ok(classic.questions.some(q => q.kind === 'original' && q.context === context));
+    all(h.root).find(e => e.attrs['data-option'] === '0').events.click();
+    assert.ok(all(h.root).some(e => e.textContent === '보기별 설명과 원문'));
+    const sources = all(h.root).filter(e => e.tagName === 'a' && (e.attrs.href || '').startsWith('/learning/' + subject + '/#'));
+    assert.equal(sources.length, 5);
+    const p = study.emptyProgress();
+    assert.equal(study.filteredQuestions(classic, p, '', '', false, 'original').length, classic.cards.length);
+    const q = classic.questions[0]; study.recordAnswer(p, q, (q.answer + 1) % 4);
+    assert.equal(study.filteredQuestions(classic, p, '', '', true).length, 1);
+    study.recordAnswer(p, q, q.answer);
+    assert.equal(study.filteredQuestions(classic, p, '', '', true).length, 0);
+  });
+}
