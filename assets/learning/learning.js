@@ -43,12 +43,16 @@
     return query.toLowerCase().trim().split(/\s+/).every(word => haystack.includes(word));
   }
   function filteredCards(deck, progress, category, query, mode) {
-    return deck.cards.filter(c => matches(c, category, query) &&
+    const words = query.toLowerCase().trim().split(/\s+/);
+    const directCode = deck.cards.find(c => c.code && c.code.toLowerCase() === query.toLowerCase().trim());
+    const cards = deck.cards.filter(c => (!directCode || c.id === directCode.id) && matches(c, category, query) &&
       (mode !== 'saved' || progress.saved.includes(c.id)) &&
       (mode !== 'review' || progress.again.includes(c.id)));
+    const rank = c => words.every(w => c.title.toLowerCase().includes(w)) ? 0 : 1;
+    return cards.sort((a, b) => rank(a) - rank(b));
   }
   function filteredQuestions(deck, progress, category, query, wrongOnly, kind = '') {
-    const ids = new Set(deck.cards.filter(c => matches(c, category, query)).map(c => c.id));
+    const ids = new Set(filteredCards(deck, progress, category, query, 'cards').map(c => c.id));
     return deck.questions.filter(q => ids.has(q.cardId) && (!wrongOnly || progress.wrong.includes(q.id)) && (!kind || q.kind === kind));
   }
   function shuffle(items, random = Math.random) {
@@ -151,7 +155,7 @@
       const wrap = node('figure'); wrap.append(object, node('figcaption', '학습용 개략 도해입니다. 정확한 위치는 표준 위치 설명과 원문에서 함께 확인하세요.')); return wrap;
     }
     function sourceLink(source, title) { return node('a', title || '원문에서 더 읽기 →', {href: safeURL(source), class: 'learning-source', target: '_blank', rel: 'noopener'}); }
-    function restart() { index = 0; flipped = false; session = null; render(); }
+    function restart() { index = 0; flipped = false; session = null; status.textContent = ''; render(); }
     function empty(message) {
       stage.append(node('h3', message, {tabindex: '-1'}), node('p', '다른 단원이나 검색어를 선택해 보세요.'));
       if (mode === 'wrong') stage.append(button('전체 퀴즈로 가기', () => { mode = 'quiz'; modeSelect.value = mode; restart(); }));
