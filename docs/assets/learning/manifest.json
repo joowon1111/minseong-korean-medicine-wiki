@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "20261002-5",
+  "version": "20261002-6",
   "subjects": [
     {
       "id": "anatomy",
       "title": "기초 해부학",
-      "cards": 302,
-      "questions": 1852,
+      "cards": 457,
+      "questions": 3090,
       "file": "anatomy.json"
     },
     {

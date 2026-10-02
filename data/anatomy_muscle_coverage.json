@@ -1,0 +1,4571 @@
+{
+  "schema": 1,
+  "indexUrl": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/",
+  "checkedAt": "2026-10-02",
+  "notes": [
+    "골반·회음은 인덱스의 하지 오연결 대신 별도 골반·회음 표를 대조했다.",
+    "빈 구분행은 제외했다. 같은 구조의 역순 이름·부위 간 재등장·반복 행을 같은 카드로 연결했다.",
+    "peroneus 교차참조행은 fibularis 세 근육으로 연결했다.",
+    "근육군·갈래·변이성 근육과 평활근을 포함한다. 원문 전체 설명의 복제가 아닌 한국어 학습 요약이다."
+  ],
+  "regions": {
+    "Abdominal Region": {
+      "sourceKey": "abdominal-muscles",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/",
+      "rows": 16,
+      "concepts": 14
+    },
+    "Back Region": {
+      "sourceKey": "back-muscles",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/",
+      "rows": 24,
+      "concepts": 24
+    },
+    "Head and Neck": {
+      "sourceKey": "head-muscles",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/",
+      "rows": 108,
+      "concepts": 86
+    },
+    "Lower Limb": {
+      "sourceKey": "lower-muscles",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/",
+      "rows": 60,
+      "concepts": 55
+    },
+    "Pelvis and Perineum": {
+      "sourceKey": "pelvic-muscles",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/",
+      "rows": 23,
+      "concepts": 19
+    },
+    "Thorax": {
+      "sourceKey": "thorax-muscles",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/",
+      "rows": 9,
+      "concepts": 9
+    },
+    "Upper Limb": {
+      "sourceKey": "upper-muscles",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/",
+      "rows": 54,
+      "concepts": 52
+    }
+  },
+  "concepts": {
+    "cremaster": {
+      "cardId": "anatomy-cremaster",
+      "status": "added",
+      "names": [
+        "cremaster"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "dartos": {
+      "cardId": "anatomy-dartos",
+      "status": "added",
+      "names": [
+        "dartos"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "diaphragm": {
+      "cardId": "anatomy-diaphragm",
+      "status": "existing",
+      "names": [
+        "diaphragm"
+      ],
+      "regions": [
+        "Abdominal Region",
+        "Thorax"
+      ]
+    },
+    "external abdominal oblique": {
+      "cardId": "anatomy-external-oblique",
+      "status": "existing",
+      "names": [
+        "external abdominal oblique",
+        "oblique, external abdominal"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "iliacus": {
+      "cardId": "anatomy-iliacus",
+      "status": "existing",
+      "names": [
+        "iliacus"
+      ],
+      "regions": [
+        "Abdominal Region",
+        "Lower Limb"
+      ]
+    },
+    "iliopsoas": {
+      "cardId": "anatomy-iliopsoas",
+      "status": "added",
+      "names": [
+        "iliopsoas"
+      ],
+      "regions": [
+        "Abdominal Region",
+        "Lower Limb"
+      ]
+    },
+    "interfoveolar": {
+      "cardId": "anatomy-interfoveolar",
+      "status": "added",
+      "names": [
+        "interfoveolar"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "internal abdominal oblique": {
+      "cardId": "anatomy-internal-oblique",
+      "status": "existing",
+      "names": [
+        "internal abdominal oblique",
+        "oblique, internal abdominal"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "psoas major": {
+      "cardId": "anatomy-psoas-major",
+      "status": "existing",
+      "names": [
+        "psoas major"
+      ],
+      "regions": [
+        "Abdominal Region",
+        "Lower Limb"
+      ]
+    },
+    "psoas minor": {
+      "cardId": "anatomy-psoas-minor",
+      "status": "added",
+      "names": [
+        "psoas minor"
+      ],
+      "regions": [
+        "Abdominal Region",
+        "Lower Limb"
+      ]
+    },
+    "pyramidalis": {
+      "cardId": "anatomy-pyramidalis",
+      "status": "added",
+      "names": [
+        "pyramidalis"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "quadratus lumborum": {
+      "cardId": "anatomy-muscle-quadratus-lumborum",
+      "status": "existing",
+      "names": [
+        "quadratus lumborum"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "rectus abdominis": {
+      "cardId": "anatomy-rectus-abdominis",
+      "status": "existing",
+      "names": [
+        "rectus abdominis"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "transversus abdominis": {
+      "cardId": "anatomy-transversus-abdominis",
+      "status": "existing",
+      "names": [
+        "transversus abdominis"
+      ],
+      "regions": [
+        "Abdominal Region"
+      ]
+    },
+    "latissimus dorsi": {
+      "cardId": "anatomy-latissimus-dorsi",
+      "status": "existing",
+      "names": [
+        "latissimus dorsi"
+      ],
+      "regions": [
+        "Back Region",
+        "Upper Limb"
+      ]
+    },
+    "levator scapulae": {
+      "cardId": "anatomy-muscle-levator-scapulae",
+      "status": "existing",
+      "names": [
+        "levator scapulae"
+      ],
+      "regions": [
+        "Back Region",
+        "Head and Neck",
+        "Upper Limb"
+      ]
+    },
+    "rhomboid major": {
+      "cardId": "anatomy-rhomboid-major",
+      "status": "added",
+      "names": [
+        "rhomboideus major"
+      ],
+      "regions": [
+        "Back Region",
+        "Upper Limb"
+      ]
+    },
+    "rhomboid minor": {
+      "cardId": "anatomy-rhomboid-minor",
+      "status": "added",
+      "names": [
+        "rhomboideus minor"
+      ],
+      "regions": [
+        "Back Region",
+        "Upper Limb"
+      ]
+    },
+    "serratus anterior": {
+      "cardId": "anatomy-muscle-serratus-anterior",
+      "status": "existing",
+      "names": [
+        "serratus anterior"
+      ],
+      "regions": [
+        "Back Region",
+        "Upper Limb"
+      ]
+    },
+    "trapezius": {
+      "cardId": "anatomy-trapezius",
+      "status": "added",
+      "names": [
+        "trapezius"
+      ],
+      "regions": [
+        "Back Region",
+        "Upper Limb"
+      ]
+    },
+    "erector spinae": {
+      "cardId": "anatomy-muscle-erector-spinae",
+      "status": "existing",
+      "names": [
+        "erector spinae"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "iliocostalis": {
+      "cardId": "anatomy-iliocostalis",
+      "status": "added",
+      "names": [
+        "iliocostalis"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "interspinales": {
+      "cardId": "anatomy-interspinales",
+      "status": "added",
+      "names": [
+        "interspinales"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "intertransversarii": {
+      "cardId": "anatomy-intertransversarii",
+      "status": "added",
+      "names": [
+        "intertransversarii"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "longissimus": {
+      "cardId": "anatomy-longissimus",
+      "status": "added",
+      "names": [
+        "longissimus"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "multifidus": {
+      "cardId": "anatomy-multifidus",
+      "status": "added",
+      "names": [
+        "multifidus"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "obliquus capitis inferior": {
+      "cardId": "anatomy-obliquus-capitis-inferior",
+      "status": "added",
+      "names": [
+        "obliquus capitis inferior"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "obliquus capitis superior": {
+      "cardId": "anatomy-obliquus-capitis-superior",
+      "status": "added",
+      "names": [
+        "obliquus capitis superior"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "rectus capitis posterior major": {
+      "cardId": "anatomy-rectus-capitis-posterior-major",
+      "status": "added",
+      "names": [
+        "rectus capitis posterior major"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "rectus capitis posterior minor": {
+      "cardId": "anatomy-rectus-capitis-posterior-minor",
+      "status": "added",
+      "names": [
+        "rectus capitis posterior minor"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "rotatores": {
+      "cardId": "anatomy-rotatores",
+      "status": "added",
+      "names": [
+        "rotatores"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "semispinalis": {
+      "cardId": "anatomy-semispinalis",
+      "status": "added",
+      "names": [
+        "semispinalis"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "serratus posterior inferior": {
+      "cardId": "anatomy-serratus-posterior-inferior",
+      "status": "added",
+      "names": [
+        "serratus posterior inferior"
+      ],
+      "regions": [
+        "Back Region",
+        "Upper Limb"
+      ]
+    },
+    "serratus posterior superior": {
+      "cardId": "anatomy-serratus-posterior-superior",
+      "status": "added",
+      "names": [
+        "serratus posterior superior"
+      ],
+      "regions": [
+        "Back Region",
+        "Upper Limb"
+      ]
+    },
+    "spinalis": {
+      "cardId": "anatomy-spinalis",
+      "status": "added",
+      "names": [
+        "spinalis"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "splenius": {
+      "cardId": "anatomy-splenius",
+      "status": "added",
+      "names": [
+        "splenius"
+      ],
+      "regions": [
+        "Back Region",
+        "Head and Neck"
+      ]
+    },
+    "splenius capitis": {
+      "cardId": "anatomy-splenius-capitis",
+      "status": "added",
+      "names": [
+        "splenius capitis"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "splenius cervicis": {
+      "cardId": "anatomy-splenius-cervicis",
+      "status": "added",
+      "names": [
+        "splenius cervicis"
+      ],
+      "regions": [
+        "Back Region"
+      ]
+    },
+    "anterior scalene": {
+      "cardId": "anatomy-anterior-scalene",
+      "status": "added",
+      "names": [
+        "anterior scalene",
+        "scalene, anterior"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "aryepiglottic": {
+      "cardId": "anatomy-aryepiglottic",
+      "status": "added",
+      "names": [
+        "aryepiglottic"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "oblique arytenoid": {
+      "cardId": "anatomy-oblique-arytenoid",
+      "status": "added",
+      "names": [
+        "arytenoid, oblique",
+        "oblique arytenoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "transverse arytenoid": {
+      "cardId": "anatomy-transverse-arytenoid",
+      "status": "added",
+      "names": [
+        "arytenoid, transverse",
+        "transverse arytenoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "auricular": {
+      "cardId": "anatomy-auricular",
+      "status": "added",
+      "names": [
+        "auricular"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "buccinator": {
+      "cardId": "anatomy-buccinator",
+      "status": "added",
+      "names": [
+        "buccinator"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "chondroglossus": {
+      "cardId": "anatomy-chondroglossus",
+      "status": "added",
+      "names": [
+        "chondroglossus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "ciliary": {
+      "cardId": "anatomy-ciliary",
+      "status": "added",
+      "names": [
+        "ciliary"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "inferior pharyngeal constrictor": {
+      "cardId": "anatomy-inferior-pharyngeal-constrictor",
+      "status": "added",
+      "names": [
+        "constrictor, inferior pharyngeal",
+        "inferior pharyngeal constrictor"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "middle pharyngeal constrictor": {
+      "cardId": "anatomy-middle-pharyngeal-constrictor",
+      "status": "added",
+      "names": [
+        "constrictor, middle pharyngeal",
+        "middle pharyngeal constrictor"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "superior pharyngeal constrictor": {
+      "cardId": "anatomy-superior-pharyngeal-constrictor",
+      "status": "added",
+      "names": [
+        "constrictor, superior pharyngeal",
+        "superior pharyngeal constrictor"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "corrugator supercilii": {
+      "cardId": "anatomy-corrugator-supercilii",
+      "status": "added",
+      "names": [
+        "corrugator"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "lateral cricoarytenoid": {
+      "cardId": "anatomy-lateral-cricoarytenoid",
+      "status": "added",
+      "names": [
+        "cricoarytenoid, lateral",
+        "lateral cricoarytenoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "posterior cricoarytenoid": {
+      "cardId": "anatomy-posterior-cricoarytenoid",
+      "status": "added",
+      "names": [
+        "cricoarytenoid, posterior",
+        "posterior cricoarytenoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "cricopharyngeus": {
+      "cardId": "anatomy-cricopharyngeus",
+      "status": "added",
+      "names": [
+        "cricopharyngeus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "cricothyroid": {
+      "cardId": "anatomy-cricothyroid",
+      "status": "added",
+      "names": [
+        "cricothyroid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "depressor anguli oris": {
+      "cardId": "anatomy-depressor-anguli-oris",
+      "status": "added",
+      "names": [
+        "depressor anguli oris"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "depressor labii inferioris": {
+      "cardId": "anatomy-depressor-labii-inferioris",
+      "status": "added",
+      "names": [
+        "depressor labii inferioris"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "depressor septi nasi": {
+      "cardId": "anatomy-depressor-septi-nasi",
+      "status": "added",
+      "names": [
+        "depressor septi"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "digastric": {
+      "cardId": "anatomy-digastric",
+      "status": "existing",
+      "names": [
+        "digastric"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "dilator pupillae": {
+      "cardId": "anatomy-dilator-pupillae",
+      "status": "added",
+      "names": [
+        "dilator pupillae",
+        "pupillae, dilator"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "occipitofrontalis": {
+      "cardId": "anatomy-occipitofrontalis",
+      "status": "added",
+      "names": [
+        "epicranius",
+        "occipitofrontalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "frontalis": {
+      "cardId": "anatomy-frontalis",
+      "status": "added",
+      "names": [
+        "frontalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "genioglossus": {
+      "cardId": "anatomy-genioglossus",
+      "status": "added",
+      "names": [
+        "genioglossus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "geniohyoid": {
+      "cardId": "anatomy-geniohyoid",
+      "status": "added",
+      "names": [
+        "geniohyoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "hyoglossus": {
+      "cardId": "anatomy-hyoglossus",
+      "status": "added",
+      "names": [
+        "hyoglossus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "inferior oblique": {
+      "cardId": "anatomy-inferior-oblique",
+      "status": "added",
+      "names": [
+        "inferior oblique",
+        "oblique, inferior"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "inferior rectus": {
+      "cardId": "anatomy-inferior-rectus",
+      "status": "added",
+      "names": [
+        "inferior rectus",
+        "rectus, inferior"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "lateral pterygoid": {
+      "cardId": "anatomy-muscle-lateral-pterygoid",
+      "status": "existing",
+      "names": [
+        "lateral pterygoid",
+        "pterygoid, lateral"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "lateral rectus": {
+      "cardId": "anatomy-lateral-rectus",
+      "status": "added",
+      "names": [
+        "lateral rectus",
+        "rectus, lateral"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "levator anguli oris": {
+      "cardId": "anatomy-levator-anguli-oris",
+      "status": "added",
+      "names": [
+        "levator anguli oris"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "levator labii superioris": {
+      "cardId": "anatomy-levator-labii-superioris",
+      "status": "added",
+      "names": [
+        "levator labii superioris"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "levator labii superioris alaque nasi": {
+      "cardId": "anatomy-levator-labii-superioris-alaque-nasi",
+      "status": "added",
+      "names": [
+        "levator labii superioris alaque nasi"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "levator palpebrae superioris": {
+      "cardId": "anatomy-levator-palpebrae-superioris",
+      "status": "added",
+      "names": [
+        "levator palpebrae superioris"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "levator veli palatini": {
+      "cardId": "anatomy-levator-veli-palatini",
+      "status": "added",
+      "names": [
+        "levator veli palatini"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "longitudinal muscles of tongue": {
+      "cardId": "anatomy-longitudinal-muscles-of-tongue",
+      "status": "added",
+      "names": [
+        "linguae, longitudinalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "transverse muscle of tongue": {
+      "cardId": "anatomy-transverse-muscle-of-tongue",
+      "status": "added",
+      "names": [
+        "linguae, transversus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "vertical muscle of tongue": {
+      "cardId": "anatomy-vertical-muscle-of-tongue",
+      "status": "added",
+      "names": [
+        "linguae, verticalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "longus capitis": {
+      "cardId": "anatomy-longus-capitis",
+      "status": "added",
+      "names": [
+        "longus capitis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "longus colli": {
+      "cardId": "anatomy-longus-colli",
+      "status": "added",
+      "names": [
+        "longus colli"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "masseter": {
+      "cardId": "anatomy-muscle-masseter",
+      "status": "existing",
+      "names": [
+        "masseter"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "medial pterygoid": {
+      "cardId": "anatomy-medial-pterygoid",
+      "status": "existing",
+      "names": [
+        "medial pterygoid",
+        "pterygoid, medial"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "medial rectus": {
+      "cardId": "anatomy-medial-rectus",
+      "status": "added",
+      "names": [
+        "medial rectus",
+        "rectus, medial"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "mentalis": {
+      "cardId": "anatomy-mentalis",
+      "status": "added",
+      "names": [
+        "mentalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "middle scalene": {
+      "cardId": "anatomy-middle-scalene",
+      "status": "added",
+      "names": [
+        "middle scalene",
+        "scalene, middle"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "uvulae": {
+      "cardId": "anatomy-uvulae",
+      "status": "added",
+      "names": [
+        "musculus uvulae"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "mylohyoid": {
+      "cardId": "anatomy-mylohyoid",
+      "status": "existing",
+      "names": [
+        "mylohyoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "nasalis": {
+      "cardId": "anatomy-nasalis",
+      "status": "added",
+      "names": [
+        "nasalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "nasalis pars alaris": {
+      "cardId": "anatomy-nasalis-pars-alaris",
+      "status": "added",
+      "names": [
+        "nasalis pars alaris"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "nasalis pars transversa": {
+      "cardId": "anatomy-nasalis-pars-transversa",
+      "status": "added",
+      "names": [
+        "nasalis pars transversa"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "superior oblique": {
+      "cardId": "anatomy-superior-oblique",
+      "status": "added",
+      "names": [
+        "oblique, superior",
+        "superior oblique"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "occipitalis": {
+      "cardId": "anatomy-occipitalis",
+      "status": "added",
+      "names": [
+        "occipitalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "omohyoid": {
+      "cardId": "anatomy-omohyoid",
+      "status": "added",
+      "names": [
+        "omohyoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "orbicularis oculi": {
+      "cardId": "anatomy-orbicularis-oculi",
+      "status": "added",
+      "names": [
+        "orbicularis oculi"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "orbicularis oris": {
+      "cardId": "anatomy-orbicularis-oris",
+      "status": "added",
+      "names": [
+        "orbicularis oris"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "palatoglossus": {
+      "cardId": "anatomy-palatoglossus",
+      "status": "added",
+      "names": [
+        "palatoglossus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "palatopharyngeus": {
+      "cardId": "anatomy-palatopharyngeus",
+      "status": "added",
+      "names": [
+        "palatopharyngeus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "platysma": {
+      "cardId": "anatomy-platysma",
+      "status": "added",
+      "names": [
+        "platysma"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "posterior scalene": {
+      "cardId": "anatomy-posterior-scalene",
+      "status": "added",
+      "names": [
+        "posterior scalene",
+        "scalene, posterior"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "procerus": {
+      "cardId": "anatomy-procerus",
+      "status": "added",
+      "names": [
+        "procerus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "sphincter pupillae": {
+      "cardId": "anatomy-sphincter-pupillae",
+      "status": "added",
+      "names": [
+        "pupillae, sphincter",
+        "sphincter pupillae"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "rectus capitis anterior": {
+      "cardId": "anatomy-rectus-capitis-anterior",
+      "status": "added",
+      "names": [
+        "rectus capitis anterior"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "rectus capitis lateralis": {
+      "cardId": "anatomy-rectus-capitis-lateralis",
+      "status": "added",
+      "names": [
+        "rectus capitis lateralis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "superior rectus": {
+      "cardId": "anatomy-superior-rectus",
+      "status": "added",
+      "names": [
+        "rectus, superior",
+        "superior rectus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "risorius": {
+      "cardId": "anatomy-risorius",
+      "status": "added",
+      "names": [
+        "risorius"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "salpingopharyngeus": {
+      "cardId": "anatomy-salpingopharyngeus",
+      "status": "added",
+      "names": [
+        "salpingopharyngeus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "sphenomeniscus": {
+      "cardId": "anatomy-sphenomeniscus",
+      "status": "added",
+      "names": [
+        "sphenomeniscus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "stapedius": {
+      "cardId": "anatomy-stapedius",
+      "status": "added",
+      "names": [
+        "stapedius"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "sternocleidomastoid": {
+      "cardId": "anatomy-muscle-sternocleidomastoid",
+      "status": "existing",
+      "names": [
+        "sternocleidomastoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "sternohyoid": {
+      "cardId": "anatomy-sternohyoid",
+      "status": "existing",
+      "names": [
+        "sternohyoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "sternothyroid": {
+      "cardId": "anatomy-sternothyroid",
+      "status": "added",
+      "names": [
+        "sternothyroid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "styloglossus": {
+      "cardId": "anatomy-styloglossus",
+      "status": "added",
+      "names": [
+        "styloglossus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "stylohyoid": {
+      "cardId": "anatomy-stylohyoid",
+      "status": "existing",
+      "names": [
+        "stylohyoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "stylopharyngeus": {
+      "cardId": "anatomy-stylopharyngeus",
+      "status": "added",
+      "names": [
+        "stylopharyngeus"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "temporalis": {
+      "cardId": "anatomy-muscle-temporalis",
+      "status": "existing",
+      "names": [
+        "temporalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "tensor tympani": {
+      "cardId": "anatomy-tensor-tympani",
+      "status": "added",
+      "names": [
+        "tensor tympani"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "tensor veli palatini": {
+      "cardId": "anatomy-tensor-veli-palatini",
+      "status": "added",
+      "names": [
+        "tensor veli palatini"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "thyroarytenoid": {
+      "cardId": "anatomy-thyroarytenoid",
+      "status": "added",
+      "names": [
+        "thyroarytenoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "thyroepiglottic": {
+      "cardId": "anatomy-thyroepiglottic",
+      "status": "added",
+      "names": [
+        "thyroepiglottic"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "thyrohyoid": {
+      "cardId": "anatomy-thyrohyoid",
+      "status": "added",
+      "names": [
+        "thyrohyoid"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "trachealis": {
+      "cardId": "anatomy-trachealis",
+      "status": "added",
+      "names": [
+        "trachealis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "vocalis": {
+      "cardId": "anatomy-vocalis",
+      "status": "added",
+      "names": [
+        "vocalis"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "zygomaticus major": {
+      "cardId": "anatomy-zygomaticus-major",
+      "status": "added",
+      "names": [
+        "zygomaticus major"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "zygomaticus minor": {
+      "cardId": "anatomy-zygomaticus-minor",
+      "status": "added",
+      "names": [
+        "zygomaticus minor"
+      ],
+      "regions": [
+        "Head and Neck"
+      ]
+    },
+    "abductor digiti minimi (foot)": {
+      "cardId": "anatomy-abductor-digiti-minimi-foot",
+      "status": "added",
+      "names": [
+        "abductor digiti minimi (foot)"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "abductor hallucis": {
+      "cardId": "anatomy-abductor-hallucis",
+      "status": "added",
+      "names": [
+        "abductor hallucis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "adductor brevis": {
+      "cardId": "anatomy-adductor-brevis",
+      "status": "existing",
+      "names": [
+        "adductor brevis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "adductor hallucis": {
+      "cardId": "anatomy-adductor-hallucis",
+      "status": "added",
+      "names": [
+        "adductor hallucis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "adductor longus": {
+      "cardId": "anatomy-muscle-adductor-longus",
+      "status": "existing",
+      "names": [
+        "adductor longus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "adductor magnus": {
+      "cardId": "anatomy-adductor-magnus",
+      "status": "existing",
+      "names": [
+        "adductor magnus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "adductor minimus": {
+      "cardId": "anatomy-adductor-minimus",
+      "status": "added",
+      "names": [
+        "adductor minimus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "articularis genu": {
+      "cardId": "anatomy-articularis-genu",
+      "status": "added",
+      "names": [
+        "articularis genu"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "biceps femoris": {
+      "cardId": "anatomy-biceps-femoris",
+      "status": "existing",
+      "names": [
+        "biceps femoris"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "dorsal interossei of foot": {
+      "cardId": "anatomy-dorsal-interossei-of-foot",
+      "status": "added",
+      "names": [
+        "dorsal interosseous (foot)",
+        "interosseous, dorsal (foot)"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "extensor digitorum brevis": {
+      "cardId": "anatomy-extensor-digitorum-brevis",
+      "status": "added",
+      "names": [
+        "extensor digitorum brevis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "extensor digitorum longus": {
+      "cardId": "anatomy-extensor-digitorum-longus",
+      "status": "existing",
+      "names": [
+        "extensor digitorum longus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "extensor hallucis brevis": {
+      "cardId": "anatomy-extensor-hallucis-brevis",
+      "status": "added",
+      "names": [
+        "extensor hallucis brevis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "extensor hallucis longus": {
+      "cardId": "anatomy-extensor-hallucis-longus",
+      "status": "existing",
+      "names": [
+        "extensor hallucis longus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "fibularis brevis": {
+      "cardId": "anatomy-fibularis-brevis",
+      "status": "existing",
+      "names": [
+        "fibularis (peroneus) brevis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "fibularis longus": {
+      "cardId": "anatomy-fibularis-longus",
+      "status": "existing",
+      "names": [
+        "fibularis (peroneus) longus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "fibularis tertius": {
+      "cardId": "anatomy-fibularis-tertius",
+      "status": "added",
+      "names": [
+        "fibularis (peroneus) tertius"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "flexor digiti minimi brevis (foot)": {
+      "cardId": "anatomy-flexor-digiti-minimi-brevis-foot",
+      "status": "added",
+      "names": [
+        "flexor digiti minimi brevis (foot)"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "flexor digitorum brevis": {
+      "cardId": "anatomy-flexor-digitorum-brevis",
+      "status": "added",
+      "names": [
+        "flexor digitorum brevis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "flexor digitorum longus": {
+      "cardId": "anatomy-flexor-digitorum-longus",
+      "status": "added",
+      "names": [
+        "flexor digitorum longus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "flexor hallucis brevis": {
+      "cardId": "anatomy-flexor-hallucis-brevis",
+      "status": "added",
+      "names": [
+        "flexor hallucis brevis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "flexor hallucis longus": {
+      "cardId": "anatomy-flexor-hallucis-longus",
+      "status": "existing",
+      "names": [
+        "flexor hallucis longus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "gastrocnemius": {
+      "cardId": "anatomy-muscle-gastrocnemius",
+      "status": "existing",
+      "names": [
+        "gastrocnemius"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "inferior gemellus": {
+      "cardId": "anatomy-inferior-gemellus",
+      "status": "added",
+      "names": [
+        "gemellus, inferior",
+        "inferior gemellus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "superior gemellus": {
+      "cardId": "anatomy-superior-gemellus",
+      "status": "added",
+      "names": [
+        "gemellus, superior",
+        "superior gemellus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "gluteus maximus": {
+      "cardId": "anatomy-muscle-gluteus-maximus",
+      "status": "existing",
+      "names": [
+        "gluteus maximus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "gluteus medius": {
+      "cardId": "anatomy-muscle-gluteus-medius",
+      "status": "existing",
+      "names": [
+        "gluteus medius"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "gluteus minimus": {
+      "cardId": "anatomy-muscle-gluteus-minimus",
+      "status": "existing",
+      "names": [
+        "gluteus minimus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "gracilis": {
+      "cardId": "anatomy-gracilis",
+      "status": "existing",
+      "names": [
+        "gracilis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "plantar interossei of foot": {
+      "cardId": "anatomy-plantar-interossei-of-foot",
+      "status": "added",
+      "names": [
+        "interosseous, plantar",
+        "plantar interosseous"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "lumbricals of foot": {
+      "cardId": "anatomy-lumbricals-of-foot",
+      "status": "added",
+      "names": [
+        "lumbricals (foot)"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "obturator externus": {
+      "cardId": "anatomy-obturator-externus",
+      "status": "added",
+      "names": [
+        "obturator externus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "obturator internus": {
+      "cardId": "anatomy-obturator-internus",
+      "status": "added",
+      "names": [
+        "obturator internus"
+      ],
+      "regions": [
+        "Lower Limb",
+        "Pelvis and Perineum"
+      ]
+    },
+    "pectineus": {
+      "cardId": "anatomy-pectineus",
+      "status": "added",
+      "names": [
+        "pectineus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "piriformis": {
+      "cardId": "anatomy-muscle-piriformis",
+      "status": "existing",
+      "names": [
+        "piriformis"
+      ],
+      "regions": [
+        "Lower Limb",
+        "Pelvis and Perineum"
+      ]
+    },
+    "plantaris": {
+      "cardId": "anatomy-plantaris",
+      "status": "existing",
+      "names": [
+        "plantaris"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "popliteus": {
+      "cardId": "anatomy-popliteus",
+      "status": "existing",
+      "names": [
+        "popliteus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "quadratus femoris": {
+      "cardId": "anatomy-quadratus-femoris",
+      "status": "added",
+      "names": [
+        "quadratus femoris"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "quadratus plantae": {
+      "cardId": "anatomy-quadratus-plantae",
+      "status": "added",
+      "names": [
+        "quadratus plantae"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "quadriceps femoris": {
+      "cardId": "anatomy-quadriceps-femoris",
+      "status": "added",
+      "names": [
+        "quadriceps femoris"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "rectus femoris": {
+      "cardId": "anatomy-muscle-rectus-femoris",
+      "status": "existing",
+      "names": [
+        "rectus femoris"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "sartorius": {
+      "cardId": "anatomy-sartorius",
+      "status": "existing",
+      "names": [
+        "sartorius"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "semimembranosus": {
+      "cardId": "anatomy-semimembranosus",
+      "status": "existing",
+      "names": [
+        "semimembranosus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "semitendinosus": {
+      "cardId": "anatomy-semitendinosus",
+      "status": "existing",
+      "names": [
+        "semitendinosus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "soleus": {
+      "cardId": "anatomy-muscle-soleus",
+      "status": "existing",
+      "names": [
+        "soleus"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "tensor fasciae latae": {
+      "cardId": "anatomy-tensor-fasciae-latae",
+      "status": "existing",
+      "names": [
+        "tensor fasciae latae"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "tibialis anterior": {
+      "cardId": "anatomy-muscle-tibialis-anterior",
+      "status": "existing",
+      "names": [
+        "tibialis anterior"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "tibialis posterior": {
+      "cardId": "anatomy-muscle-tibialis-posterior",
+      "status": "existing",
+      "names": [
+        "tibialis posterior"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "vastus intermedius": {
+      "cardId": "anatomy-vastus-intermedius",
+      "status": "existing",
+      "names": [
+        "vastus intermedius"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "vastus lateralis": {
+      "cardId": "anatomy-vastus-lateralis",
+      "status": "existing",
+      "names": [
+        "vastus lateralis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "vastus medialis": {
+      "cardId": "anatomy-muscle-vastus-medialis",
+      "status": "existing",
+      "names": [
+        "vastus medialis"
+      ],
+      "regions": [
+        "Lower Limb"
+      ]
+    },
+    "external anal sphincter": {
+      "cardId": "anatomy-external-anal-sphincter",
+      "status": "added",
+      "names": [
+        "anal sphincter, external",
+        "sphincter ani externus"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "internal anal sphincter": {
+      "cardId": "anatomy-internal-anal-sphincter",
+      "status": "added",
+      "names": [
+        "anal sphincter, internal",
+        "sphincter ani internus"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "bulbospongiosus (female)": {
+      "cardId": "anatomy-bulbospongiosus-female",
+      "status": "added",
+      "names": [
+        "bulbospongiosus, in female"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "bulbospongiosus (male)": {
+      "cardId": "anatomy-bulbospongiosus-male",
+      "status": "added",
+      "names": [
+        "bulbospongiosus, in male"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "coccygeus": {
+      "cardId": "anatomy-coccygeus",
+      "status": "added",
+      "names": [
+        "coccygeus"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "deep transverse perineus": {
+      "cardId": "anatomy-deep-transverse-perineus",
+      "status": "added",
+      "names": [
+        "deep transverse perineus",
+        "transverse perineus, deep"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "detrusor": {
+      "cardId": "anatomy-detrusor",
+      "status": "added",
+      "names": [
+        "detruser of bladder"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "iliococcygeus": {
+      "cardId": "anatomy-iliococcygeus",
+      "status": "added",
+      "names": [
+        "iliococcygeus"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "ischiocavernosus": {
+      "cardId": "anatomy-ischiocavernosus",
+      "status": "added",
+      "names": [
+        "ischiocavernosus"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "levator ani": {
+      "cardId": "anatomy-levator-ani",
+      "status": "added",
+      "names": [
+        "levator ani"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "levator prostatae": {
+      "cardId": "anatomy-levator-prostatae",
+      "status": "added",
+      "names": [
+        "levator prostatae"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "pubococcygeus": {
+      "cardId": "anatomy-pubococcygeus",
+      "status": "added",
+      "names": [
+        "pubococcygeus"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "puborectalis": {
+      "cardId": "anatomy-puborectalis",
+      "status": "added",
+      "names": [
+        "puborectalis"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "pubovaginalis": {
+      "cardId": "anatomy-pubovaginalis",
+      "status": "added",
+      "names": [
+        "pubovaginalis"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "external urethral sphincter (female)": {
+      "cardId": "anatomy-external-urethral-sphincter-female",
+      "status": "added",
+      "names": [
+        "sphincter urethrae, in female"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "external urethral sphincter (male)": {
+      "cardId": "anatomy-external-urethral-sphincter-male",
+      "status": "added",
+      "names": [
+        "sphincter urethrae, in male"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "superficial transverse perineus": {
+      "cardId": "anatomy-superficial-transverse-perineus",
+      "status": "added",
+      "names": [
+        "superficial transverse perineus",
+        "transverse perineus, superficial"
+      ],
+      "regions": [
+        "Pelvis and Perineum"
+      ]
+    },
+    "pectoralis major": {
+      "cardId": "anatomy-pectoralis-major",
+      "status": "existing",
+      "names": [
+        "pectoralis major"
+      ],
+      "regions": [
+        "Thorax",
+        "Upper Limb"
+      ]
+    },
+    "pectoralis minor": {
+      "cardId": "anatomy-muscle-pectoralis-minor",
+      "status": "existing",
+      "names": [
+        "pectoralis minor"
+      ],
+      "regions": [
+        "Thorax",
+        "Upper Limb"
+      ]
+    },
+    "external intercostals": {
+      "cardId": "anatomy-external-intercostals",
+      "status": "existing",
+      "names": [
+        "external intercostal"
+      ],
+      "regions": [
+        "Thorax"
+      ]
+    },
+    "innermost intercostals": {
+      "cardId": "anatomy-innermost-intercostals",
+      "status": "added",
+      "names": [
+        "innermost intercostal"
+      ],
+      "regions": [
+        "Thorax"
+      ]
+    },
+    "internal intercostals": {
+      "cardId": "anatomy-internal-intercostals",
+      "status": "added",
+      "names": [
+        "internal intercostal"
+      ],
+      "regions": [
+        "Thorax"
+      ]
+    },
+    "levatores costarum": {
+      "cardId": "anatomy-levatores-costarum",
+      "status": "added",
+      "names": [
+        "levatores costarum"
+      ],
+      "regions": [
+        "Thorax"
+      ]
+    },
+    "subcostalis": {
+      "cardId": "anatomy-subcostalis",
+      "status": "added",
+      "names": [
+        "subcostalis"
+      ],
+      "regions": [
+        "Thorax"
+      ]
+    },
+    "transversus thoracis": {
+      "cardId": "anatomy-transversus-thoracis",
+      "status": "added",
+      "names": [
+        "transversus thoracis"
+      ],
+      "regions": [
+        "Thorax"
+      ]
+    },
+    "abductor digiti minimi (hand)": {
+      "cardId": "anatomy-abductor-digiti-minimi-hand",
+      "status": "added",
+      "names": [
+        "abductor digiti minimi (hand)"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "abductor pollicis brevis": {
+      "cardId": "anatomy-abductor-pollicis-brevis",
+      "status": "existing",
+      "names": [
+        "abductor pollicis brevis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "abductor pollicis longus": {
+      "cardId": "anatomy-abductor-pollicis-longus",
+      "status": "existing",
+      "names": [
+        "abductor pollicis longus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "adductor pollicis": {
+      "cardId": "anatomy-adductor-pollicis",
+      "status": "existing",
+      "names": [
+        "adductor pollicis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "anconeus": {
+      "cardId": "anatomy-anconeus",
+      "status": "existing",
+      "names": [
+        "anconeus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "biceps brachii": {
+      "cardId": "anatomy-biceps-brachii",
+      "status": "existing",
+      "names": [
+        "biceps brachii"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "brachialis": {
+      "cardId": "anatomy-brachialis",
+      "status": "existing",
+      "names": [
+        "brachialis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "brachioradialis": {
+      "cardId": "anatomy-brachioradialis",
+      "status": "existing",
+      "names": [
+        "brachioradialis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "coracobrachialis": {
+      "cardId": "anatomy-coracobrachialis",
+      "status": "existing",
+      "names": [
+        "coracobrachialis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "deltoid": {
+      "cardId": "anatomy-deltoid",
+      "status": "existing",
+      "names": [
+        "deltoid"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "dorsal interossei of hand": {
+      "cardId": "anatomy-dorsal-interossei-hand",
+      "status": "existing",
+      "names": [
+        "dorsal interosseous (hand)",
+        "interosseous, dorsal (hand)"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor carpi radialis brevis": {
+      "cardId": "anatomy-muscle-ecrb",
+      "status": "existing",
+      "names": [
+        "extensor carpi radialis brevis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor carpi radialis longus": {
+      "cardId": "anatomy-extensor-carpi-radialis-longus",
+      "status": "existing",
+      "names": [
+        "extensor carpi radialis longus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor carpi ulnaris": {
+      "cardId": "anatomy-extensor-carpi-ulnaris",
+      "status": "existing",
+      "names": [
+        "extensor carpi ulnaris"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor digiti minimi": {
+      "cardId": "anatomy-extensor-digiti-minimi",
+      "status": "added",
+      "names": [
+        "extensor digiti minimi"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor digitorum": {
+      "cardId": "anatomy-extensor-digitorum",
+      "status": "existing",
+      "names": [
+        "extensor digitorum"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor indicis": {
+      "cardId": "anatomy-extensor-indicis",
+      "status": "added",
+      "names": [
+        "extensor indicis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor pollicis brevis": {
+      "cardId": "anatomy-extensor-pollicis-brevis",
+      "status": "existing",
+      "names": [
+        "extensor pollicis brevis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "extensor pollicis longus": {
+      "cardId": "anatomy-extensor-pollicis-longus",
+      "status": "existing",
+      "names": [
+        "extensor pollicis longus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "flexor carpi radialis": {
+      "cardId": "anatomy-muscle-flexor-carpi-radialis",
+      "status": "existing",
+      "names": [
+        "flexor carpi radialis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "flexor carpi ulnaris": {
+      "cardId": "anatomy-flexor-carpi-ulnaris",
+      "status": "existing",
+      "names": [
+        "flexor carpi ulnaris"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "flexor digiti minimi brevis (hand)": {
+      "cardId": "anatomy-flexor-digiti-minimi-brevis-hand",
+      "status": "added",
+      "names": [
+        "flexor digiti minimi brevis (hand)"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "flexor digitorum profundus": {
+      "cardId": "anatomy-flexor-digitorum-profundus",
+      "status": "existing",
+      "names": [
+        "flexor digitorum profundus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "flexor digitorum superficialis": {
+      "cardId": "anatomy-flexor-digitorum-superficialis",
+      "status": "existing",
+      "names": [
+        "flexor digitorum superficialis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "flexor pollicis brevis": {
+      "cardId": "anatomy-flexor-pollicis-brevis",
+      "status": "added",
+      "names": [
+        "flexor pollicis brevis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "flexor pollicis longus": {
+      "cardId": "anatomy-flexor-pollicis-longus",
+      "status": "existing",
+      "names": [
+        "flexor pollicis longus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "infraspinatus": {
+      "cardId": "anatomy-muscle-infraspinatus",
+      "status": "existing",
+      "names": [
+        "infraspinatus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "palmar interossei of hand": {
+      "cardId": "anatomy-palmar-interossei-hand",
+      "status": "existing",
+      "names": [
+        "interosseous, palmar",
+        "palmar interosseous"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "lumbricals of hand": {
+      "cardId": "anatomy-lumbricals-of-hand",
+      "status": "added",
+      "names": [
+        "lumbrical (hand)"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "opponens digiti minimi": {
+      "cardId": "anatomy-opponens-digiti-minimi",
+      "status": "added",
+      "names": [
+        "opponens digiti minimi"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "opponens pollicis": {
+      "cardId": "anatomy-opponens-pollicis",
+      "status": "existing",
+      "names": [
+        "opponens pollicis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "palmaris brevis": {
+      "cardId": "anatomy-palmaris-brevis",
+      "status": "added",
+      "names": [
+        "palmaris brevis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "palmaris longus": {
+      "cardId": "anatomy-palmaris-longus",
+      "status": "existing",
+      "names": [
+        "palmaris longus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "pronator quadratus": {
+      "cardId": "anatomy-pronator-quadratus",
+      "status": "existing",
+      "names": [
+        "pronator quadratus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "pronator teres": {
+      "cardId": "anatomy-muscle-pronator-teres",
+      "status": "existing",
+      "names": [
+        "pronator teres"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "subclavius": {
+      "cardId": "anatomy-subclavius",
+      "status": "added",
+      "names": [
+        "subclavius"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "subscapularis": {
+      "cardId": "anatomy-subscapularis",
+      "status": "existing",
+      "names": [
+        "subscapularis"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "supinator": {
+      "cardId": "anatomy-supinator",
+      "status": "existing",
+      "names": [
+        "supinator"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "supraspinatus": {
+      "cardId": "anatomy-muscle-supraspinatus",
+      "status": "existing",
+      "names": [
+        "supraspinatus"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "teres major": {
+      "cardId": "anatomy-teres-major",
+      "status": "existing",
+      "names": [
+        "teres major"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "teres minor": {
+      "cardId": "anatomy-teres-minor",
+      "status": "existing",
+      "names": [
+        "teres minor"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    },
+    "triceps brachii": {
+      "cardId": "anatomy-triceps-brachii",
+      "status": "existing",
+      "names": [
+        "triceps brachii"
+      ],
+      "regions": [
+        "Upper Limb"
+      ]
+    }
+  },
+  "rows": [
+    {
+      "region": "Abdominal Region",
+      "name": "cremaster",
+      "cards": [
+        "anatomy-cremaster"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "dartos",
+      "cards": [
+        "anatomy-dartos"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "diaphragm",
+      "cards": [
+        "anatomy-diaphragm"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "external abdominal oblique",
+      "cards": [
+        "anatomy-external-oblique"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "iliacus",
+      "cards": [
+        "anatomy-iliacus"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "iliopsoas",
+      "cards": [
+        "anatomy-iliopsoas"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "interfoveolar",
+      "cards": [
+        "anatomy-interfoveolar"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "internal abdominal oblique",
+      "cards": [
+        "anatomy-internal-oblique"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "oblique, external abdominal",
+      "cards": [
+        "anatomy-external-oblique"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "oblique, internal abdominal",
+      "cards": [
+        "anatomy-internal-oblique"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "psoas major",
+      "cards": [
+        "anatomy-psoas-major"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "psoas minor",
+      "cards": [
+        "anatomy-psoas-minor"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "pyramidalis",
+      "cards": [
+        "anatomy-pyramidalis"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "quadratus lumborum",
+      "cards": [
+        "anatomy-muscle-quadratus-lumborum"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "rectus abdominis",
+      "cards": [
+        "anatomy-rectus-abdominis"
+      ]
+    },
+    {
+      "region": "Abdominal Region",
+      "name": "transversus abdominis",
+      "cards": [
+        "anatomy-transversus-abdominis"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "latissimus dorsi",
+      "cards": [
+        "anatomy-latissimus-dorsi"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "levator scapulae",
+      "cards": [
+        "anatomy-muscle-levator-scapulae"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "rhomboideus major",
+      "cards": [
+        "anatomy-rhomboid-major"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "rhomboideus minor",
+      "cards": [
+        "anatomy-rhomboid-minor"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "serratus anterior",
+      "cards": [
+        "anatomy-muscle-serratus-anterior"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "trapezius",
+      "cards": [
+        "anatomy-trapezius"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "erector spinae",
+      "cards": [
+        "anatomy-muscle-erector-spinae"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "iliocostalis",
+      "cards": [
+        "anatomy-iliocostalis"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "interspinales",
+      "cards": [
+        "anatomy-interspinales"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "intertransversarii",
+      "cards": [
+        "anatomy-intertransversarii"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "longissimus",
+      "cards": [
+        "anatomy-longissimus"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "multifidus",
+      "cards": [
+        "anatomy-multifidus"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "obliquus capitis inferior",
+      "cards": [
+        "anatomy-obliquus-capitis-inferior"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "obliquus capitis superior",
+      "cards": [
+        "anatomy-obliquus-capitis-superior"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "rectus capitis posterior major",
+      "cards": [
+        "anatomy-rectus-capitis-posterior-major"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "rectus capitis posterior minor",
+      "cards": [
+        "anatomy-rectus-capitis-posterior-minor"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "rotatores",
+      "cards": [
+        "anatomy-rotatores"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "semispinalis",
+      "cards": [
+        "anatomy-semispinalis"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "serratus posterior inferior",
+      "cards": [
+        "anatomy-serratus-posterior-inferior"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "serratus posterior superior",
+      "cards": [
+        "anatomy-serratus-posterior-superior"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "spinalis",
+      "cards": [
+        "anatomy-spinalis"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "splenius",
+      "cards": [
+        "anatomy-splenius"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "splenius capitis",
+      "cards": [
+        "anatomy-splenius-capitis"
+      ]
+    },
+    {
+      "region": "Back Region",
+      "name": "splenius cervicis",
+      "cards": [
+        "anatomy-splenius-cervicis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "anterior scalene",
+      "cards": [
+        "anatomy-anterior-scalene"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "aryepiglottic",
+      "cards": [
+        "anatomy-aryepiglottic"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "arytenoid, oblique",
+      "cards": [
+        "anatomy-oblique-arytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "arytenoid, transverse",
+      "cards": [
+        "anatomy-transverse-arytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "auricular",
+      "cards": [
+        "anatomy-auricular"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "buccinator",
+      "cards": [
+        "anatomy-buccinator"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "chondroglossus",
+      "cards": [
+        "anatomy-chondroglossus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "ciliary",
+      "cards": [
+        "anatomy-ciliary"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "constrictor, inferior pharyngeal",
+      "cards": [
+        "anatomy-inferior-pharyngeal-constrictor"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "constrictor, middle pharyngeal",
+      "cards": [
+        "anatomy-middle-pharyngeal-constrictor"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "constrictor, superior pharyngeal",
+      "cards": [
+        "anatomy-superior-pharyngeal-constrictor"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "corrugator",
+      "cards": [
+        "anatomy-corrugator-supercilii"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "cricoarytenoid, lateral",
+      "cards": [
+        "anatomy-lateral-cricoarytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "cricoarytenoid, posterior",
+      "cards": [
+        "anatomy-posterior-cricoarytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "cricopharyngeus",
+      "cards": [
+        "anatomy-cricopharyngeus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "cricothyroid",
+      "cards": [
+        "anatomy-cricothyroid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "depressor anguli oris",
+      "cards": [
+        "anatomy-depressor-anguli-oris"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "depressor labii inferioris",
+      "cards": [
+        "anatomy-depressor-labii-inferioris"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "depressor septi",
+      "cards": [
+        "anatomy-depressor-septi-nasi"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "digastric",
+      "cards": [
+        "anatomy-digastric"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "dilator pupillae",
+      "cards": [
+        "anatomy-dilator-pupillae"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "epicranius",
+      "cards": [
+        "anatomy-occipitofrontalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "frontalis",
+      "cards": [
+        "anatomy-frontalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "genioglossus",
+      "cards": [
+        "anatomy-genioglossus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "geniohyoid",
+      "cards": [
+        "anatomy-geniohyoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "hyoglossus",
+      "cards": [
+        "anatomy-hyoglossus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "inferior oblique",
+      "cards": [
+        "anatomy-inferior-oblique"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "inferior pharyngeal constrictor",
+      "cards": [
+        "anatomy-inferior-pharyngeal-constrictor"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "inferior rectus",
+      "cards": [
+        "anatomy-inferior-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "lateral cricoarytenoid",
+      "cards": [
+        "anatomy-lateral-cricoarytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "lateral pterygoid",
+      "cards": [
+        "anatomy-muscle-lateral-pterygoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "lateral rectus",
+      "cards": [
+        "anatomy-lateral-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "levator anguli oris",
+      "cards": [
+        "anatomy-levator-anguli-oris"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "levator labii superioris",
+      "cards": [
+        "anatomy-levator-labii-superioris"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "levator labii superioris alaque nasi",
+      "cards": [
+        "anatomy-levator-labii-superioris-alaque-nasi"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "levator palpebrae superioris",
+      "cards": [
+        "anatomy-levator-palpebrae-superioris"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "levator scapulae",
+      "cards": [
+        "anatomy-muscle-levator-scapulae"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "levator veli palatini",
+      "cards": [
+        "anatomy-levator-veli-palatini"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "linguae, longitudinalis",
+      "cards": [
+        "anatomy-longitudinal-muscles-of-tongue"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "linguae, transversus",
+      "cards": [
+        "anatomy-transverse-muscle-of-tongue"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "linguae, verticalis",
+      "cards": [
+        "anatomy-vertical-muscle-of-tongue"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "longus capitis",
+      "cards": [
+        "anatomy-longus-capitis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "longus colli",
+      "cards": [
+        "anatomy-longus-colli"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "masseter",
+      "cards": [
+        "anatomy-muscle-masseter"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "medial pterygoid",
+      "cards": [
+        "anatomy-medial-pterygoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "medial rectus",
+      "cards": [
+        "anatomy-medial-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "mentalis",
+      "cards": [
+        "anatomy-mentalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "middle pharyngeal constrictor",
+      "cards": [
+        "anatomy-middle-pharyngeal-constrictor"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "middle scalene",
+      "cards": [
+        "anatomy-middle-scalene"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "musculus uvulae",
+      "cards": [
+        "anatomy-uvulae"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "mylohyoid",
+      "cards": [
+        "anatomy-mylohyoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "nasalis",
+      "cards": [
+        "anatomy-nasalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "nasalis pars alaris",
+      "cards": [
+        "anatomy-nasalis-pars-alaris"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "nasalis pars transversa",
+      "cards": [
+        "anatomy-nasalis-pars-transversa"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "oblique arytenoid",
+      "cards": [
+        "anatomy-oblique-arytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "oblique, inferior",
+      "cards": [
+        "anatomy-inferior-oblique"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "oblique, superior",
+      "cards": [
+        "anatomy-superior-oblique"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "occipitalis",
+      "cards": [
+        "anatomy-occipitalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "occipitofrontalis",
+      "cards": [
+        "anatomy-occipitofrontalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "omohyoid",
+      "cards": [
+        "anatomy-omohyoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "orbicularis oculi",
+      "cards": [
+        "anatomy-orbicularis-oculi"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "orbicularis oris",
+      "cards": [
+        "anatomy-orbicularis-oris"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "palatoglossus",
+      "cards": [
+        "anatomy-palatoglossus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "palatopharyngeus",
+      "cards": [
+        "anatomy-palatopharyngeus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "platysma",
+      "cards": [
+        "anatomy-platysma"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "posterior cricoarytenoid",
+      "cards": [
+        "anatomy-posterior-cricoarytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "posterior scalene",
+      "cards": [
+        "anatomy-posterior-scalene"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "procerus",
+      "cards": [
+        "anatomy-procerus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "pterygoid, lateral",
+      "cards": [
+        "anatomy-muscle-lateral-pterygoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "pterygoid, medial",
+      "cards": [
+        "anatomy-medial-pterygoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "pupillae, dilator",
+      "cards": [
+        "anatomy-dilator-pupillae"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "pupillae, sphincter",
+      "cards": [
+        "anatomy-sphincter-pupillae"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "rectus capitis anterior",
+      "cards": [
+        "anatomy-rectus-capitis-anterior"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "rectus capitis lateralis",
+      "cards": [
+        "anatomy-rectus-capitis-lateralis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "rectus, inferior",
+      "cards": [
+        "anatomy-inferior-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "rectus, lateral",
+      "cards": [
+        "anatomy-lateral-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "rectus, medial",
+      "cards": [
+        "anatomy-medial-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "rectus, superior",
+      "cards": [
+        "anatomy-superior-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "risorius",
+      "cards": [
+        "anatomy-risorius"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "salpingopharyngeus",
+      "cards": [
+        "anatomy-salpingopharyngeus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "scalene, anterior",
+      "cards": [
+        "anatomy-anterior-scalene"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "scalene, middle",
+      "cards": [
+        "anatomy-middle-scalene"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "scalene, posterior",
+      "cards": [
+        "anatomy-posterior-scalene"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "sphenomeniscus",
+      "cards": [
+        "anatomy-sphenomeniscus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "sphincter pupillae",
+      "cards": [
+        "anatomy-sphincter-pupillae"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "splenius",
+      "cards": [
+        "anatomy-splenius"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "stapedius",
+      "cards": [
+        "anatomy-stapedius"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "sternocleidomastoid",
+      "cards": [
+        "anatomy-muscle-sternocleidomastoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "sternohyoid",
+      "cards": [
+        "anatomy-sternohyoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "sternothyroid",
+      "cards": [
+        "anatomy-sternothyroid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "styloglossus",
+      "cards": [
+        "anatomy-styloglossus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "stylohyoid",
+      "cards": [
+        "anatomy-stylohyoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "stylopharyngeus",
+      "cards": [
+        "anatomy-stylopharyngeus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "superior oblique",
+      "cards": [
+        "anatomy-superior-oblique"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "superior pharyngeal constrictor",
+      "cards": [
+        "anatomy-superior-pharyngeal-constrictor"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "superior rectus",
+      "cards": [
+        "anatomy-superior-rectus"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "temporalis",
+      "cards": [
+        "anatomy-muscle-temporalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "tensor tympani",
+      "cards": [
+        "anatomy-tensor-tympani"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "tensor veli palatini",
+      "cards": [
+        "anatomy-tensor-veli-palatini"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "thyroarytenoid",
+      "cards": [
+        "anatomy-thyroarytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "thyroepiglottic",
+      "cards": [
+        "anatomy-thyroepiglottic"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "thyrohyoid",
+      "cards": [
+        "anatomy-thyrohyoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "trachealis",
+      "cards": [
+        "anatomy-trachealis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "transverse arytenoid",
+      "cards": [
+        "anatomy-transverse-arytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "transverse arytenoid",
+      "cards": [
+        "anatomy-transverse-arytenoid"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "vocalis",
+      "cards": [
+        "anatomy-vocalis"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "zygomaticus major",
+      "cards": [
+        "anatomy-zygomaticus-major"
+      ]
+    },
+    {
+      "region": "Head and Neck",
+      "name": "zygomaticus minor",
+      "cards": [
+        "anatomy-zygomaticus-minor"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "abductor digiti minimi (foot)",
+      "cards": [
+        "anatomy-abductor-digiti-minimi-foot"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "abductor hallucis",
+      "cards": [
+        "anatomy-abductor-hallucis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "adductor brevis",
+      "cards": [
+        "anatomy-adductor-brevis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "adductor hallucis",
+      "cards": [
+        "anatomy-adductor-hallucis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "adductor longus",
+      "cards": [
+        "anatomy-muscle-adductor-longus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "adductor magnus",
+      "cards": [
+        "anatomy-adductor-magnus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "adductor minimus",
+      "cards": [
+        "anatomy-adductor-minimus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "articularis genu",
+      "cards": [
+        "anatomy-articularis-genu"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "biceps femoris",
+      "cards": [
+        "anatomy-biceps-femoris"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "dorsal interosseous (foot)",
+      "cards": [
+        "anatomy-dorsal-interossei-of-foot"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "extensor digitorum brevis",
+      "cards": [
+        "anatomy-extensor-digitorum-brevis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "extensor digitorum longus",
+      "cards": [
+        "anatomy-extensor-digitorum-longus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "extensor hallucis brevis",
+      "cards": [
+        "anatomy-extensor-hallucis-brevis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "extensor hallucis longus",
+      "cards": [
+        "anatomy-extensor-hallucis-longus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "fibularis (peroneus) brevis",
+      "cards": [
+        "anatomy-fibularis-brevis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "fibularis (peroneus) longus",
+      "cards": [
+        "anatomy-fibularis-longus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "fibularis (peroneus) tertius",
+      "cards": [
+        "anatomy-fibularis-tertius"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "flexor digiti minimi brevis (foot)",
+      "cards": [
+        "anatomy-flexor-digiti-minimi-brevis-foot"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "flexor digitorum brevis",
+      "cards": [
+        "anatomy-flexor-digitorum-brevis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "flexor digitorum longus",
+      "cards": [
+        "anatomy-flexor-digitorum-longus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "flexor hallucis brevis",
+      "cards": [
+        "anatomy-flexor-hallucis-brevis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "flexor hallucis longus",
+      "cards": [
+        "anatomy-flexor-hallucis-longus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "gastrocnemius",
+      "cards": [
+        "anatomy-muscle-gastrocnemius"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "gemellus, inferior",
+      "cards": [
+        "anatomy-inferior-gemellus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "gemellus, superior",
+      "cards": [
+        "anatomy-superior-gemellus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "gluteus maximus",
+      "cards": [
+        "anatomy-muscle-gluteus-maximus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "gluteus medius",
+      "cards": [
+        "anatomy-muscle-gluteus-medius"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "gluteus minimus",
+      "cards": [
+        "anatomy-muscle-gluteus-minimus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "gracilis",
+      "cards": [
+        "anatomy-gracilis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "iliacus",
+      "cards": [
+        "anatomy-iliacus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "iliopsoas",
+      "cards": [
+        "anatomy-iliopsoas"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "inferior gemellus",
+      "cards": [
+        "anatomy-inferior-gemellus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "interosseous, dorsal (foot)",
+      "cards": [
+        "anatomy-dorsal-interossei-of-foot"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "interosseous, plantar",
+      "cards": [
+        "anatomy-plantar-interossei-of-foot"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "lumbricals (foot)",
+      "cards": [
+        "anatomy-lumbricals-of-foot"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "obturator externus",
+      "cards": [
+        "anatomy-obturator-externus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "obturator internus",
+      "cards": [
+        "anatomy-obturator-internus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "pectineus",
+      "cards": [
+        "anatomy-pectineus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "peroneus mm. (SEE fibularis mm.)",
+      "cards": [
+        "anatomy-fibularis-longus",
+        "anatomy-fibularis-brevis",
+        "anatomy-fibularis-tertius"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "piriformis",
+      "cards": [
+        "anatomy-muscle-piriformis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "plantar interosseous",
+      "cards": [
+        "anatomy-plantar-interossei-of-foot"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "plantaris",
+      "cards": [
+        "anatomy-plantaris"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "popliteus",
+      "cards": [
+        "anatomy-popliteus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "psoas major",
+      "cards": [
+        "anatomy-psoas-major"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "psoas minor",
+      "cards": [
+        "anatomy-psoas-minor"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "quadratus femoris",
+      "cards": [
+        "anatomy-quadratus-femoris"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "quadratus plantae",
+      "cards": [
+        "anatomy-quadratus-plantae"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "quadriceps femoris",
+      "cards": [
+        "anatomy-quadriceps-femoris"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "rectus femoris",
+      "cards": [
+        "anatomy-muscle-rectus-femoris"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "sartorius",
+      "cards": [
+        "anatomy-sartorius"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "semimembranosus",
+      "cards": [
+        "anatomy-semimembranosus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "semitendinosus",
+      "cards": [
+        "anatomy-semitendinosus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "soleus",
+      "cards": [
+        "anatomy-muscle-soleus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "superior gemellus",
+      "cards": [
+        "anatomy-superior-gemellus"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "tensor fasciae latae",
+      "cards": [
+        "anatomy-tensor-fasciae-latae"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "tibialis anterior",
+      "cards": [
+        "anatomy-muscle-tibialis-anterior"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "tibialis posterior",
+      "cards": [
+        "anatomy-muscle-tibialis-posterior"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "vastus intermedius",
+      "cards": [
+        "anatomy-vastus-intermedius"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "vastus lateralis",
+      "cards": [
+        "anatomy-vastus-lateralis"
+      ]
+    },
+    {
+      "region": "Lower Limb",
+      "name": "vastus medialis",
+      "cards": [
+        "anatomy-muscle-vastus-medialis"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "anal sphincter, external",
+      "cards": [
+        "anatomy-external-anal-sphincter"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "anal sphincter, internal",
+      "cards": [
+        "anatomy-internal-anal-sphincter"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "bulbospongiosus, in female",
+      "cards": [
+        "anatomy-bulbospongiosus-female"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "bulbospongiosus, in male",
+      "cards": [
+        "anatomy-bulbospongiosus-male"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "coccygeus",
+      "cards": [
+        "anatomy-coccygeus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "deep transverse perineus",
+      "cards": [
+        "anatomy-deep-transverse-perineus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "detruser of bladder",
+      "cards": [
+        "anatomy-detrusor"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "iliococcygeus",
+      "cards": [
+        "anatomy-iliococcygeus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "ischiocavernosus",
+      "cards": [
+        "anatomy-ischiocavernosus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "levator ani",
+      "cards": [
+        "anatomy-levator-ani"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "levator prostatae",
+      "cards": [
+        "anatomy-levator-prostatae"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "obturator internus",
+      "cards": [
+        "anatomy-obturator-internus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "piriformis",
+      "cards": [
+        "anatomy-muscle-piriformis"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "pubococcygeus",
+      "cards": [
+        "anatomy-pubococcygeus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "puborectalis",
+      "cards": [
+        "anatomy-puborectalis"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "pubovaginalis",
+      "cards": [
+        "anatomy-pubovaginalis"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "sphincter ani externus",
+      "cards": [
+        "anatomy-external-anal-sphincter"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "sphincter ani internus",
+      "cards": [
+        "anatomy-internal-anal-sphincter"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "sphincter urethrae, in female",
+      "cards": [
+        "anatomy-external-urethral-sphincter-female"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "sphincter urethrae, in male",
+      "cards": [
+        "anatomy-external-urethral-sphincter-male"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "superficial transverse perineus",
+      "cards": [
+        "anatomy-superficial-transverse-perineus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "transverse perineus, deep",
+      "cards": [
+        "anatomy-deep-transverse-perineus"
+      ]
+    },
+    {
+      "region": "Pelvis and Perineum",
+      "name": "transverse perineus, superficial",
+      "cards": [
+        "anatomy-superficial-transverse-perineus"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "pectoralis major",
+      "cards": [
+        "anatomy-pectoralis-major"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "pectoralis minor",
+      "cards": [
+        "anatomy-muscle-pectoralis-minor"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "diaphragm",
+      "cards": [
+        "anatomy-diaphragm"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "external intercostal",
+      "cards": [
+        "anatomy-external-intercostals"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "innermost intercostal",
+      "cards": [
+        "anatomy-innermost-intercostals"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "internal intercostal",
+      "cards": [
+        "anatomy-internal-intercostals"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "levatores costarum",
+      "cards": [
+        "anatomy-levatores-costarum"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "subcostalis",
+      "cards": [
+        "anatomy-subcostalis"
+      ]
+    },
+    {
+      "region": "Thorax",
+      "name": "transversus thoracis",
+      "cards": [
+        "anatomy-transversus-thoracis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "abductor digiti minimi (hand)",
+      "cards": [
+        "anatomy-abductor-digiti-minimi-hand"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "abductor pollicis brevis",
+      "cards": [
+        "anatomy-abductor-pollicis-brevis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "abductor pollicis longus",
+      "cards": [
+        "anatomy-abductor-pollicis-longus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "adductor pollicis",
+      "cards": [
+        "anatomy-adductor-pollicis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "anconeus",
+      "cards": [
+        "anatomy-anconeus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "biceps brachii",
+      "cards": [
+        "anatomy-biceps-brachii"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "brachialis",
+      "cards": [
+        "anatomy-brachialis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "brachioradialis",
+      "cards": [
+        "anatomy-brachioradialis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "coracobrachialis",
+      "cards": [
+        "anatomy-coracobrachialis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "deltoid",
+      "cards": [
+        "anatomy-deltoid"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "dorsal interosseous (hand)",
+      "cards": [
+        "anatomy-dorsal-interossei-hand"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor carpi radialis brevis",
+      "cards": [
+        "anatomy-muscle-ecrb"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor carpi radialis longus",
+      "cards": [
+        "anatomy-extensor-carpi-radialis-longus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor carpi ulnaris",
+      "cards": [
+        "anatomy-extensor-carpi-ulnaris"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor digiti minimi",
+      "cards": [
+        "anatomy-extensor-digiti-minimi"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor digitorum",
+      "cards": [
+        "anatomy-extensor-digitorum"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor indicis",
+      "cards": [
+        "anatomy-extensor-indicis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor pollicis brevis",
+      "cards": [
+        "anatomy-extensor-pollicis-brevis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "extensor pollicis longus",
+      "cards": [
+        "anatomy-extensor-pollicis-longus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "flexor carpi radialis",
+      "cards": [
+        "anatomy-muscle-flexor-carpi-radialis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "flexor carpi ulnaris",
+      "cards": [
+        "anatomy-flexor-carpi-ulnaris"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "flexor digiti minimi brevis (hand)",
+      "cards": [
+        "anatomy-flexor-digiti-minimi-brevis-hand"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "flexor digitorum profundus",
+      "cards": [
+        "anatomy-flexor-digitorum-profundus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "flexor digitorum superficialis",
+      "cards": [
+        "anatomy-flexor-digitorum-superficialis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "flexor pollicis brevis",
+      "cards": [
+        "anatomy-flexor-pollicis-brevis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "flexor pollicis longus",
+      "cards": [
+        "anatomy-flexor-pollicis-longus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "infraspinatus",
+      "cards": [
+        "anatomy-muscle-infraspinatus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "interosseous, dorsal (hand)",
+      "cards": [
+        "anatomy-dorsal-interossei-hand"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "interosseous, palmar",
+      "cards": [
+        "anatomy-palmar-interossei-hand"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "latissimus dorsi",
+      "cards": [
+        "anatomy-latissimus-dorsi"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "levator scapulae",
+      "cards": [
+        "anatomy-muscle-levator-scapulae"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "lumbrical (hand)",
+      "cards": [
+        "anatomy-lumbricals-of-hand"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "opponens digiti minimi",
+      "cards": [
+        "anatomy-opponens-digiti-minimi"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "opponens pollicis",
+      "cards": [
+        "anatomy-opponens-pollicis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "palmar interosseous",
+      "cards": [
+        "anatomy-palmar-interossei-hand"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "palmaris brevis",
+      "cards": [
+        "anatomy-palmaris-brevis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "palmaris longus",
+      "cards": [
+        "anatomy-palmaris-longus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "pectoralis major",
+      "cards": [
+        "anatomy-pectoralis-major"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "pectoralis minor",
+      "cards": [
+        "anatomy-muscle-pectoralis-minor"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "pronator quadratus",
+      "cards": [
+        "anatomy-pronator-quadratus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "pronator teres",
+      "cards": [
+        "anatomy-muscle-pronator-teres"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "rhomboideus major",
+      "cards": [
+        "anatomy-rhomboid-major"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "rhomboideus minor",
+      "cards": [
+        "anatomy-rhomboid-minor"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "serratus anterior",
+      "cards": [
+        "anatomy-muscle-serratus-anterior"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "serratus posterior inferior",
+      "cards": [
+        "anatomy-serratus-posterior-inferior"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "serratus posterior superior",
+      "cards": [
+        "anatomy-serratus-posterior-superior"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "subclavius",
+      "cards": [
+        "anatomy-subclavius"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "subscapularis",
+      "cards": [
+        "anatomy-subscapularis"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "supinator",
+      "cards": [
+        "anatomy-supinator"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "supraspinatus",
+      "cards": [
+        "anatomy-muscle-supraspinatus"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "teres major",
+      "cards": [
+        "anatomy-teres-major"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "teres minor",
+      "cards": [
+        "anatomy-teres-minor"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "trapezius",
+      "cards": [
+        "anatomy-trapezius"
+      ]
+    },
+    {
+      "region": "Upper Limb",
+      "name": "triceps brachii",
+      "cards": [
+        "anatomy-triceps-brachii"
+      ]
+    }
+  ]
+}

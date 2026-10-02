@@ -31,6 +31,21 @@ test('search intersects category and card review filters', () => {
   assert.equal(study.filteredQuestions(deck, p, '', '', false, 'diagram').length, 361);
   assert.equal(study.filteredQuestions(deck, p, '', '', false, 'unknown').length, 0);
 });
+test('UAMS aliases, regional filters and direct recall work for the expanded muscles', () => {
+  const anatomy = JSON.parse(fs.readFileSync('docs/assets/learning/anatomy.json', 'utf8'));
+  const p = study.emptyProgress();
+  for (const [name, id] of [['sphenomeniscus', 'anatomy-sphenomeniscus'], ['Peroneus tertius', 'anatomy-fibularis-tertius'], ['pupillae, dilator', 'anatomy-dilator-pupillae'], ['detruser of bladder', 'anatomy-detrusor']]) {
+    const cards = study.filteredCards(anatomy, p, '', name, 'cards');
+    assert.ok(cards.some(c => c.id === id), name);
+    const qs = study.filteredQuestions(anatomy, p, '', name, false, 'identify').filter(q => q.cardId === id);
+    assert.ok(qs.length > 0, name);
+    assert.ok(study.answerMatches(qs[0], name), name);
+  }
+  const eye = study.filteredCards(anatomy, p, '근육 · 눈·눈꺼풀', '', 'cards');
+  assert.equal(eye.length, 10);
+  assert.ok(eye.every(c => c.anatomyKind === 'muscle'));
+  assert.equal(study.filteredCards(anatomy, p, '근육 · 골반·회음', '등자근', 'cards').length, 0);
+});
 test('incorrect questions are removed only when that question is answered correctly', () => {
   const p = study.emptyProgress(), q = deck.questions[0];
   assert.equal(study.recordAnswer(p, q, (q.answer + 1) % 4), false);
@@ -170,4 +185,7 @@ test('hand and foot structures with similar Korean names remain distinct', () =>
   assert.ok(study.answerMatches(toe, 'EHL'));
   assert.equal(study.answerMatches(toe, 'EPL'), false);
   assert.equal(study.answerMatches(toe, '긴엄지폄근'), false);
+  const adductorToe = anatomy.questions.find(q => q.cardId === 'anatomy-adductor-hallucis' && q.acceptedAnswers);
+  assert.ok(study.answerMatches(adductorToe, '발의 무지내전근'));
+  assert.equal(study.answerMatches(adductorToe, '무지내전근'), false);
 });

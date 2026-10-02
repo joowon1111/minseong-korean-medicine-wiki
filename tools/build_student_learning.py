@@ -328,12 +328,16 @@ def anatomy_cards():
                      'learning/anatomy.md', f"{muscle['name']}의 부착·작용·신경지배를 떠올려 보세요.")
             c['facts'].extend({'label': f['label'], 'value': clean(f['value'])} for f in data.get('atlas_additions', {}).get(muscle['id'], []))
             c.update(source=c['source'] + '#' + identifier, anatomyKind='muscle',
-                     aliases=list(dict.fromkeys([muscle['name']] + muscle['en'].split(' · ') + aliases.get(muscle['id'], []))),
+                     aliases=list(dict.fromkeys([muscle['name']] + muscle['en'].split(' · ') + aliases.get(muscle['id'], []) + data.get('atlas_aliases', {}).get(muscle['id'], []))),
                      identify=muscle['attachments'] + ' / 작용: ' + muscle['function'],
                      references=[{'title': title, 'url': link} for title, link in region['sources']],
                      relatedSource=f"/clinical-anatomy/mps-{region['id']}/#{muscle['id']}",
                      diagram=f"/assets/mps-atlas/{region['id']}.svg#{muscle['id']}",
                      quizDiagram=f"/assets/learning/anatomy-diagrams/{region['id']}.svg#{muscle['id']}")
+            for key in data.get('atlas_references', {}).get(muscle['id'], []):
+                ref = data['sources'][key]
+                if ref['url'] not in {r['url'] for r in c['references']}:
+                    c['references'].append(ref)
             result.append(c)
     tissue_diagrams = {'skin', 'subcutaneous', 'deep-fascia', 'epimysium', 'perimysium', 'endomysium', 'skeletal-muscle'}
     for record in data['structures']:
@@ -578,7 +582,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-5', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261002-6', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())

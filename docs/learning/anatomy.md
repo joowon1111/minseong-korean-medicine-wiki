@@ -7,20 +7,38 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 
 [기초 한의학 퀴즈 & 학습실](index.md) / **기초 해부학**
 
-**302개 카드 · 1,852문제.** 근육·신경·뼈·혈관·조직의 이름을 외우는 데서 출발해, **어디에 있고 무엇과 연결되며 어떤 기능을 하는지** 설명해 보세요. 의학·치의학·한의학의 기초 해부학을 공부할 때 강의와 실습 범위에 맞춰 사용할 수 있는 자체 학습 자료입니다.
+**457개 카드 · 3,090문제.** 근육·신경·뼈·혈관·조직의 이름을 외우는 데서 출발해, **어디에 있고 무엇과 연결되며 어떤 기능을 하는지** 설명해 보세요. 의학·치의학·한의학의 기초 해부학을 공부할 때 강의와 실습 범위에 맞춰 사용할 수 있는 자체 학습 자료입니다.
 
 ## 무엇을 공부하나요?
 
 | 단원 | 학습 범위 | 직접 확인할 질문 |
 |---|---|---|
-| 근육 | 주요 근육·근육군 90항목; 목·턱·설골·견갑대·팔·손·복벽·호흡·둔부·하지 | 기시·정지·작용·신경지배와 유사 근육의 차이를 연결할 수 있나요? |
+| 근육 | 근육·근육군·하위 부분 245항목; 눈·얼굴·혀·후두·목·등·상하지·가슴·복부·골반·회음 | 기시·정지·작용·신경지배·대표 혈관과 유사 근육의 차이를 연결할 수 있나요? |
 | 신경 | 말초신경·신경얼기·분지 50항목과 뇌신경 12쌍 | 기원·분지·운동·감각과 뇌신경의 머리뼈 통과 경로를 구분할 수 있나요? |
 | 뼈와 표지 | 뼈·뼈군·돌기·오목·관절 표지 70항목; 머리뼈·척추·가슴우리·사지 | 서로 비슷한 이름의 구조와 부착 표지를 구분할 수 있나요? |
 | 혈관 | 주요 동맥·정맥과 혈관 계통 45항목; 대동맥·사지·복부 장기·문맥·폐순환 | 기원·분지·공급 영역·정맥 합류와 동행 구조를 말할 수 있나요? |
 | 조직과 층 | 상피·결합·근육·신경 조직, 피부·근막·근육 내부층 25개 | 형태와 위치를 근거로 조직을 구분할 수 있나요? |
 | 방향과 면 | 기본 해부 용어 10개 | 해부학적 자세를 기준으로 방향·단면을 설명할 수 있나요? |
 
-‘구조 식별’은 설명이나 이름을 가린 도해에서 구조 이름을 찾는 연습입니다. 근육 도해는 기존 아카이브의 8개 부위 자료를 사용하고, 조직층 도해에서는 피부·피하조직·깊은근막·근외막·근주막·근내막·골격근을 구분합니다. 뼈·신경·혈관과 세포 형태는 현재 **설명과 학습카드**로 복습합니다.
+‘구조 식별’은 설명이나 이름을 가린 도해에서 구조 이름을 찾는 연습입니다. 근육 도해는 기존 아카이브의 8개 부위 자료에 포함된 구조만 사용하고, 조직층 도해에서는 피부·피하조직·깊은근막·근외막·근주막·근내막·골격근을 구분합니다. 추가된 작은 근육과 골반·회음근, 뼈·신경·혈관·세포 형태는 현재 **설명과 학습카드**로 복습합니다. 카드 수가 늘어도 모든 구조에 새 도해가 생기는 것은 아닙니다.
+
+## 근육 목록의 범위와 읽는 법 {#muscle-coverage}
+
+UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조했습니다. 부위 사이에 다시 나오는 근육, 이름 순서를 바꾼 항목과 반복 행은 같은 카드로 연결하고, `peroneus` 교차참조는 긴·짧은·셋째종아리근으로 연결했습니다. 이 과정에서 구분되는 **240개 근육·근육군·부분 항목**을 모두 담았습니다. 기존의 상부 승모근·요부 다열근 등 범위가 다른 5개 학습 항목도 유지하여 근육 카드는 **245개**입니다.
+
+| UAMS 부위 표 | 대조한 목록 행 | 이 부위에서 구분되는 항목 | 주요 보강 범위 |
+|---|---:|---:|---|
+| [복부](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) | 16 | 14 | 장요근 계통·소요근·추체근·고환거근·육양근·오목사이근 |
+| [등](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) | 24 | 24 | 승모근 전체·대소능형근·척주세움근 각 기둥·회선근·후두하근·판상근 |
+| [머리·목](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/) | 108 | 86 | 표정·안구·동공·혀·입천장·인두·후두·중이·척추앞근 |
+| [하지](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/) | 60 | 55 | 깊은 고관절 바깥돌림근·발등과 발바닥 내재근·제3비골근·슬관절근 |
+| [골반·회음](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/) | 23 | 19 | 항문올림근 각 부분·항문/요도조임근·배뇨근·남녀 회음근 |
+| [가슴](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/) | 9 | 9 | 속·가장속갈비사이근·갈비올림근·갈비밑근·가슴가로근 |
+| [상지](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) | 54 | 52 | 소지구·충양근·단무지굴근·집게/새끼폄근·쇄골하근 |
+
+같은 구조가 여러 부위 표에 있으므로 항목 열을 합한 값은 전체 고유 항목 수가 아닙니다. UAMS 인덱스의 ‘골반·회음’ 링크는 하지 표로 이어져, 위 표에서는 별도 골반·회음 표의 주소를 사용했습니다.
+
+**개별 근육·근육군·갈래·변이를 구분하세요.** 장요근·대퇴사두근은 묶음, 외측익돌근 상두와 성대근은 하위 부분입니다. 소요근·추체근·오목사이근 등은 존재·구성에 변이가 있습니다. 동공·모양체근·육양근·기관근·내항문괄약근·배뇨근은 **평활근**으로, 골격근의 운동신경·뼈 기시·정지 틀을 그대로 적용하지 않습니다. 대표 혈관은 학습을 위한 주요 공급 계통이며 모든 작은 분지와 변이를 나열한 목록은 아닙니다.
 
 ## 카드와 구조 식별 퀴즈 {#practice}
 
@@ -56,6 +74,16 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 | [비복근](/learning/anatomy/#anatomy-muscle-gastrocnemius) · [가자미근](/learning/anatomy/#anatomy-muscle-soleus) | 비복근은 무릎과 발목을 모두 지나고 가자미근은 무릎을 직접 지나지 않습니다. 무릎 자세에 따른 기능 차이를 설명해 보세요. |
 | [장무지신근](/learning/anatomy/#anatomy-extensor-pollicis-longus) · [발의 장무지신근](/learning/anatomy/#anatomy-extensor-hallucis-longus) | 한글에서 엄지 이름이 비슷해도 손의 pollicis와 발의 hallucis는 다른 구조입니다. 부위와 영문명을 함께 답하세요. |
 | [이복근](/learning/anatomy/#anatomy-digastric) · [악설골근](/learning/anatomy/#anatomy-mylohyoid) · [경상설골근](/learning/anatomy/#anatomy-stylohyoid) | 이복근 앞힘살·악설골근은 V3 계통, 이복근 뒤힘살·경상설골근은 VII 계통입니다. 설골 위 근육을 단일 신경으로 외우지 않습니다. |
+
+### 눈·혀·후두·손발·골반에서 구분할 예외
+
+| 비교할 구조 | 구분할 내용 |
+|---|---|
+| [외직근](/learning/anatomy/#anatomy-lateral-rectus) · [상사근](/learning/anatomy/#anatomy-superior-oblique) · [하사근](/learning/anatomy/#anatomy-inferior-oblique) | 외직근 VI, 상사근 IV, 하사근 III 지배를 구분합니다. 안구 모음·벌림과 안쪽·바깥회선은 서로 다른 운동입니다. |
+| [구개설근](/learning/anatomy/#anatomy-palatoglossus) · [경상인두근](/learning/anatomy/#anatomy-stylopharyngeus) · [구개범장근](/learning/anatomy/#anatomy-tensor-veli-palatini) | 혀와 연결된 구개설근은 X, 경상인두근은 IX, 구개범장근은 V3라는 예외를 각각 확인합니다. |
+| [윤상갑상근](/learning/anatomy/#anatomy-cricothyroid) · [후윤상피열근](/learning/anatomy/#anatomy-posterior-cricoarytenoid) · [성대근](/learning/anatomy/#anatomy-vocalis) | 전체 긴장 증가·성대 벌림·국소 긴장 조절을 비교합니다. 윤상갑상근만 위후두신경 바깥가지 계통이고 나머지는 되돌이후두신경 계통입니다. |
+| [손의 충양근군](/learning/anatomy/#anatomy-lumbricals-of-hand) · [발의 충양근군](/learning/anatomy/#anatomy-lumbricals-of-foot) | 손은 제1–2가 정중신경, 발은 제1만 안쪽발바닥신경입니다. 손·발 모두 몸쪽 관절 굽힘과 마디관절 폄을 협동합니다. |
+| [치골직장근](/learning/anatomy/#anatomy-puborectalis) · [외항문괄약근](/learning/anatomy/#anatomy-external-anal-sphincter) · [내항문괄약근](/learning/anatomy/#anatomy-internal-anal-sphincter) | 직장 뒤의 U자 슬링·항문관의 골격근 고리·평활근 고리를 구분합니다. 배변에서 이완과 직장항문각 변화도 연결하세요. |
 
 ### 신경: 출발·분지·운동·감각을 분리해서 보기
 
@@ -100,11 +128,11 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 
 근육의 기본 관계는 [UAMS 의과대학 해부학 표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/), 뼈·말초신경·조직·방향 용어는 [OpenStax Anatomy and Physiology 2e](https://openstax.org/details/books/anatomy-and-physiology-2e), 근막과 골격근의 층은 NCBI Bookshelf의 해당 자료를 참고해 **새로운 한국어 학습 요약과 자체 문제**로 작성했습니다. 구조별 참고 링크는 아래 요약에 있습니다. 외부 교재의 도판을 복제하지 않고 아카이브 자체 SVG 도해의 이름 표시를 가렸습니다.
 
-특정 학교의 실습시험이나 국가시험 기출문제가 아닙니다. 전체 해부학 과정 가운데 주요 근육과 구조 관계를 익히는 시작 범위이며, 학교별 용어와 실습 범위는 수업 자료에 맞춰 확인하세요.
+특정 학교의 실습시험이나 국가시험 기출문제가 아닙니다. 근육은 UAMS Muscle Tables의 부위별 목록을 모두 대조한 범위이며, 전신의 모든 해부 변이나 모든 근육 갈래를 별도 카드로 나눈 것은 아닙니다. 뼈·신경·혈관·조직은 주요 구조 관계를 익히는 범위이며, 학교별 용어와 실습 범위는 수업 자료에 맞춰 확인하세요.
 
 <!-- STUDY_DIRECTORY_START -->
 ## 전체 학습 요약과 원문 {#study-directory}
-302개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
+457개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
 
 <details markdown="1">
 <summary>근육 · 목·뒤통수 · 4개 카드</summary>
@@ -139,11 +167,11 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 견갑골 위각·안쪽 위모서리
 - **식별·비교:** 견갑골 위각·안쪽 위모서리 부착을 확인하고 승모근 상부와 견갑골 회전 방향을 비교한다.
 
-- **다른 표기:** 견갑거근 · Levator scapulae
+- **다른 표기:** 견갑거근 · Levator scapulae · levator scapulae
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-levator-scapulae)
 [부위별 임상해부학](/clinical-anatomy/mps-neck/#levator-scapulae)
-참고: [UAMS 등 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+참고: [UAMS 등 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/) · [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
 
 <span id="anatomy-muscle-suboccipitals"></span>
 
@@ -173,11 +201,11 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 꼭지돌기·위목덜미선 가쪽
 - **식별·비교:** 한쪽 수축의 같은쪽 기울임·반대쪽 돌림과 양쪽 수축의 목 굽힘을 구분한다.
 
-- **다른 표기:** 흉쇄유돌근 · Sternocleidomastoid · SCM · 목빗근
+- **다른 표기:** 흉쇄유돌근 · Sternocleidomastoid · SCM · 목빗근 · sternocleidomastoid
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-sternocleidomastoid)
 [부위별 임상해부학](/clinical-anatomy/mps-neck/#sternocleidomastoid)
-참고: [UAMS 등 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+참고: [UAMS 등 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
 
 </details>
 
@@ -196,7 +224,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 아래턱뼈 가지·턱각 가쪽
 - **식별·비교:** 턱각 바깥면 부착을 내측익돌근의 안쪽 부착과 비교한다.
 
-- **다른 표기:** 교근 · Masseter · 깨물근
+- **다른 표기:** 교근 · Masseter · 깨물근 · masseter
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-masseter)
 [부위별 임상해부학](/clinical-anatomy/mps-jaw/#masseter)
@@ -214,7 +242,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 아래턱뼈 근육돌기
 - **식별·비교:** 관자오목에서 아래턱뼈 근육돌기로 이어지며 뒤섬유의 아래턱 뒤당김을 구분한다.
 
-- **다른 표기:** 측두근 · Temporalis · 관자근
+- **다른 표기:** 측두근 · Temporalis · 관자근 · temporalis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-temporalis)
 [부위별 임상해부학](/clinical-anatomy/mps-jaw/#temporalis)
@@ -232,7 +260,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 아래턱뼈 목의 익돌근오목과 턱관절 관절원판·관절주머니
 - **식별·비교:** 아래턱뼈 목·관절원판 계통의 정지를 내측익돌근의 턱각 안쪽 정지와 비교한다.
 
-- **다른 표기:** 외측익돌근 · Lateral pterygoid · 가쪽날개근
+- **다른 표기:** 외측익돌근 · Lateral pterygoid · 가쪽날개근 · lateral pterygoid · pterygoid, lateral
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-lateral-pterygoid)
 [부위별 임상해부학](/clinical-anatomy/mps-jaw/#lateral-pterygoid)
@@ -249,7 +277,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 아래턱신경 V3의 운동가지
 - **식별·비교:** 가쪽날개근의 주행·정지와 비교하며 턱각 안쪽 부착을 확인한다.
 
-- **다른 표기:** 내측익돌근 · Medial pterygoid · 안쪽날개근
+- **다른 표기:** 내측익돌근 · Medial pterygoid · 안쪽날개근 · medial pterygoid · pterygoid, medial
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-medial-pterygoid)
 참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
@@ -257,7 +285,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 </details>
 
 <details markdown="1">
-<summary>근육 · 어깨·견갑대 · 11개 카드</summary>
+<summary>근육 · 어깨·견갑대 · 15개 카드</summary>
 
 <span id="anatomy-muscle-supraspinatus"></span>
 
@@ -271,7 +299,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 큰결절
 - **식별·비교:** 회전근개에 포함되며 큰결절의 위쪽 부착과 어깨 벌림 시작의 연결을 확인한다.
 
-- **다른 표기:** 극상근 · Supraspinatus · 가시위근
+- **다른 표기:** 극상근 · Supraspinatus · 가시위근 · supraspinatus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-supraspinatus)
 [부위별 임상해부학](/clinical-anatomy/mps-shoulder/#supraspinatus)
@@ -289,7 +317,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 큰결절
 - **식별·비교:** 회전근개에 포함되며 견갑골 뒤면의 가시아래오목에서 시작하는 바깥돌림근이다.
 
-- **다른 표기:** 극하근 · Infraspinatus · 가시아래근
+- **다른 표기:** 극하근 · Infraspinatus · 가시아래근 · infraspinatus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-infraspinatus)
 [부위별 임상해부학](/clinical-anatomy/mps-shoulder/#infraspinatus)
@@ -325,11 +353,11 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 견갑골 부리돌기
 - **식별·비교:** 견갑골 부리돌기에 붙어 견갑골을 움직이며 위팔뼈에 붙는 대흉근과 구분한다.
 
-- **다른 표기:** 소흉근 · Pectoralis minor · 작은가슴근
+- **다른 표기:** 소흉근 · Pectoralis minor · 작은가슴근 · pectoralis minor
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-pectoralis-minor)
 [부위별 임상해부학](/clinical-anatomy/mps-shoulder/#pectoralis-minor)
-참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) · [UAMS 등 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) · [UAMS 등 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
 
 <span id="anatomy-muscle-serratus-anterior"></span>
 
@@ -343,7 +371,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 견갑골 안쪽모서리의 앞면
 - **식별·비교:** 견갑골 안쪽모서리 앞면 부착과 흉곽 밀착을 능형근군의 뒤쪽 부착과 비교한다.
 
-- **다른 표기:** 전거근 · Serratus anterior · 앞톱니근
+- **다른 표기:** 전거근 · Serratus anterior · 앞톱니근 · serratus anterior
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-serratus-anterior)
 [부위별 임상해부학](/clinical-anatomy/mps-shoulder/#serratus-anterior)
@@ -361,7 +389,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 삼각근거친면
 - **식별·비교:** 회전근개 바깥을 덮는 근육이며 앞·중간·뒤 섬유의 작용을 모두 동일하게 외우지 않는다.
 
-- **다른 표기:** 삼각근 · Deltoid · 어깨세모근
+- **다른 표기:** 삼각근 · Deltoid · 어깨세모근 · deltoid
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-deltoid)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -378,7 +406,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 큰결절
 - **식별·비교:** 회전근개에 포함되는 액와신경 지배 근육이며 대원근과 구분한다.
 
-- **다른 표기:** 소원근 · Teres minor · 작은원근
+- **다른 표기:** 소원근 · Teres minor · 작은원근 · teres minor
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-teres-minor)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -395,7 +423,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 작은결절
 - **식별·비교:** 회전근개 중 작은결절 정지·안쪽돌림을 다른 세 근육의 큰결절 정지와 비교한다.
 
-- **다른 표기:** 견갑하근 · Subscapularis · 어깨밑근
+- **다른 표기:** 견갑하근 · Subscapularis · 어깨밑근 · subscapularis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-subscapularis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -412,7 +440,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 결절사이고랑 안쪽능선
 - **식별·비교:** 회전근개 네 근육에 포함되지 않으며 소원근과 신경지배·작용이 다르다.
 
-- **다른 표기:** 대원근 · Teres major · 큰원근
+- **다른 표기:** 대원근 · Teres major · 큰원근 · teres major
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-teres-major)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -429,10 +457,10 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 결절사이고랑 가쪽능선
 - **식별·비교:** 큰가슴근은 위팔뼈 정지, 작은가슴근은 부리돌기 정지라는 차이를 확인한다.
 
-- **다른 표기:** 대흉근 · Pectoralis major · 큰가슴근
+- **다른 표기:** 대흉근 · Pectoralis major · 큰가슴근 · pectoralis major
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-pectoralis-major)
-참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) · [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
 
 <span id="anatomy-latissimus-dorsi"></span>
 
@@ -446,9 +474,81 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 위팔뼈 결절사이고랑 바닥
 - **식별·비교:** 위팔뼈 결절사이고랑 바닥 정지를 대흉근의 가쪽능선·대원근의 안쪽능선과 비교한다.
 
-- **다른 표기:** 광배근 · Latissimus dorsi · 넓은등근
+- **다른 표기:** 광배근 · Latissimus dorsi · 넓은등근 · latissimus dorsi
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-latissimus-dorsi)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) · [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-rhomboid-major"></span>
+
+**대능형근**
+
+- **영문명:** Rhomboid major
+- **기시:** T2–T5 가시돌기
+- **정지:** 견갑극 아래 어깨뼈 안쪽모서리
+- **주요 작용:** 견갑골 뒤당김·하방회전·거상 보조
+- **신경지배:** 견갑배신경
+- **대표 혈관:** 견갑배동맥
+- **식별·비교:** 작은마름근보다 아래에 있고 견갑극 뿌리 아래 긴 모서리에 붙는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 대능형근 · 큰마름근 · Rhomboid major · rhomboideus major
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-rhomboid-major)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-rhomboid-minor"></span>
+
+**소능형근**
+
+- **영문명:** Rhomboid minor
+- **기시:** 목덜미인대 하부·C7–T1 가시돌기
+- **정지:** 견갑극 뿌리의 어깨뼈 안쪽모서리
+- **주요 작용:** 견갑골 뒤당김·하방회전·거상 보조
+- **신경지배:** 견갑배신경
+- **대표 혈관:** 견갑배동맥
+- **식별·비교:** 견갑극 뿌리를 기준으로 큰마름근의 아래쪽 정지와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 소능형근 · 작은마름근 · Rhomboid minor · rhomboideus minor
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-rhomboid-minor)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-trapezius"></span>
+
+**승모근**
+
+- **영문명:** Trapezius
+- **기시:** 뒤통수뼈·목덜미인대·C7–T12 가시돌기
+- **정지:** 빗장뼈 가쪽·견봉·견갑극
+- **주요 작용:** 상부 거상·중부 뒤당김·하부 하강; 상·하부 협동으로 상방회전
+- **신경지배:** 부신경 운동가지; C3–C4 고유감각 기여
+- **대표 혈관:** 가로목동맥 계통
+- **식별·비교:** 전체 근육 카드다. 기존 상부 승모근 카드와 범위를 구분하고 하부 섬유의 역할도 본다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 승모근 · 등세모근 · Trapezius · trapezius
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-trapezius)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-subclavius"></span>
+
+**쇄골하근**
+
+- **영문명:** Subclavius
+- **기시:** 제1갈비뼈·갈비연골 경계
+- **정지:** 빗장뼈 아래면
+- **주요 작용:** 빗장뼈 하강·복장빗장관절 안정
+- **신경지배:** 빗장밑근신경 C5–C6 계통
+- **대표 혈관:** 가슴봉우리동맥 빗장가지
+- **식별·비교:** 대흉근 깊은 곳의 작은 근육으로 견갑골 정지의 소흉근과 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 쇄골하근 · 빗장밑근 · Subclavius · subclavius
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-subclavius)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
 
 </details>
@@ -468,7 +568,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 제3손허리뼈 바닥
 - **식별·비교:** 제3손허리뼈 바닥 정지를 긴노쪽손목폄근의 제2손허리뼈 정지와 비교한다.
 
-- **다른 표기:** 단요측수근신근 · Extensor carpi radialis brevis · ECRB · 짧은노쪽손목폄근
+- **다른 표기:** 단요측수근신근 · Extensor carpi radialis brevis · ECRB · 짧은노쪽손목폄근 · extensor carpi radialis brevis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-ecrb)
 [부위별 임상해부학](/clinical-anatomy/mps-forearm/#ecrb)
@@ -486,7 +586,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 노뼈 중간 가쪽
 - **식별·비교:** 아래팔 가까운 쪽에서 노뼈 중간에 붙으며 먼쪽 네모엎침근과 위치가 다르다.
 
-- **다른 표기:** 원회내근 · Pronator teres · 원엎침근
+- **다른 표기:** 원회내근 · Pronator teres · 원엎침근 · pronator teres
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-pronator-teres)
 [부위별 임상해부학](/clinical-anatomy/mps-forearm/#pronator-teres)
@@ -504,7 +604,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 제2·3손허리뼈 바닥
 - **식별·비교:** 제2·3손허리뼈 정지와 정중신경 지배를 척측수근굴근의 콩알뼈 정지·척골신경 지배와 비교한다.
 
-- **다른 표기:** 요측수근굴근 · Flexor carpi radialis · FCR · 노쪽손목굽힘근
+- **다른 표기:** 요측수근굴근 · Flexor carpi radialis · FCR · 노쪽손목굽힘근 · flexor carpi radialis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-flexor-carpi-radialis)
 [부위별 임상해부학](/clinical-anatomy/mps-forearm/#flexor-carpi-radialis)
@@ -527,7 +627,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 제12갈비뼈·L1–L4 가로돌기
 - **식별·비교:** 제12갈비뼈 고정과 허리 가쪽굽힘을 연결하며 큰허리근의 고관절 굽힘과 구분한다.
 
-- **다른 표기:** 요방형근 · Quadratus lumborum · 허리네모근
+- **다른 표기:** 요방형근 · Quadratus lumborum · 허리네모근 · quadratus lumborum
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-quadratus-lumborum)
 [부위별 임상해부학](/clinical-anatomy/mps-lumbar/#quadratus-lumborum)
@@ -561,7 +661,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 갈비뼈·가로돌기·위쪽 척추와 꼭지돌기
 - **식별·비교:** 장늑근·최장근·극근 계통의 묶음이며 개별 근육 하나로 해석하지 않는다.
 
-- **다른 표기:** 척추기립근군 · Erector spinae group · 척주세움근군 · 척추기립근
+- **다른 표기:** 척추기립근군 · Erector spinae group · 척주세움근군 · 척추기립근 · erector spinae
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-erector-spinae)
 [부위별 임상해부학](/clinical-anatomy/mps-lumbar/#erector-spinae)
@@ -584,7 +684,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 대퇴골 큰돌기
 - **식별·비교:** 한발 지지의 골반 안정과 고관절 벌림을 대둔근의 주된 폄과 구분한다.
 
-- **다른 표기:** 중둔근 · Gluteus medius · 중간볼기근
+- **다른 표기:** 중둔근 · Gluteus medius · 중간볼기근 · gluteus medius
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-gluteus-medius)
 [부위별 임상해부학](/clinical-anatomy/mps-hip/#gluteus-medius)
@@ -602,7 +702,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 큰돌기
 - **식별·비교:** 중둔근의 깊은 곳에 놓이며 같은 상둔신경 계통의 벌림·안정 역할을 비교한다.
 
-- **다른 표기:** 소둔근 · Gluteus minimus · 작은볼기근
+- **다른 표기:** 소둔근 · Gluteus minimus · 작은볼기근 · gluteus minimus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-gluteus-minimus)
 [부위별 임상해부학](/clinical-anatomy/mps-hip/#gluteus-minimus)
@@ -620,11 +720,11 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 큰궁둥구멍을 지나 큰돌기
 - **식별·비교:** 큰궁둥구멍을 지나는 신경·혈관을 이 근육의 위·아래로 구분하며 실제 주행 변이가 있다.
 
-- **다른 표기:** 이상근 · Piriformis · 궁둥구멍근
+- **다른 표기:** 이상근 · Piriformis · 궁둥구멍근 · piriformis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-piriformis)
 [부위별 임상해부학](/clinical-anatomy/mps-hip/#piriformis)
-참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/) · [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
 
 <span id="anatomy-muscle-gluteus-maximus"></span>
 
@@ -638,7 +738,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 장경인대와 대퇴골 둔근거친면
 - **식별·비교:** 하둔신경 지배의 큰 폄근이며 장경인대 연결과 상둔신경 지배 근육들을 구분한다.
 
-- **다른 표기:** 대둔근 · Gluteus maximus · 큰볼기근
+- **다른 표기:** 대둔근 · Gluteus maximus · 큰볼기근 · gluteus maximus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-gluteus-maximus)
 [부위별 임상해부학](/clinical-anatomy/mps-hip/#gluteus-maximus)
@@ -656,10 +756,10 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 넙다리뼈 작은돌기
 - **식별·비교:** 대요근은 허리신경 앞가지, 장골근은 대퇴신경이 주된 지배이며 장요근을 단일 신경으로 외우지 않는다.
 
-- **다른 표기:** 대요근 · Psoas major · 큰허리근
+- **다른 표기:** 대요근 · Psoas major · 큰허리근 · psoas major
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-psoas-major)
-참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/) · [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/)
 
 <span id="anatomy-iliacus"></span>
 
@@ -673,10 +773,10 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 넙다리뼈 작은돌기 부위
 - **식별·비교:** 큰허리근과 함께 작은돌기 계통으로 이어지지만 기시와 주된 신경지배가 다르다.
 
-- **다른 표기:** 장골근 · Iliacus · 엉덩근
+- **다른 표기:** 장골근 · Iliacus · 엉덩근 · iliacus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-iliacus)
-참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/) · [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/)
 
 <span id="anatomy-tensor-fasciae-latae"></span>
 
@@ -689,7 +789,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 상둔신경
 - **식별·비교:** 장경인대는 근육 자체가 아닌 결합조직 띠이며 대둔근도 이 띠에 연결된다.
 
-- **다른 표기:** 대퇴근막장근 · Tensor fasciae latae · 넙다리근막긴장근 · TFL
+- **다른 표기:** 대퇴근막장근 · Tensor fasciae latae · 넙다리근막긴장근 · TFL · tensor fasciae latae
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-tensor-fasciae-latae)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -711,7 +811,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 슬개골·슬개인대를 거쳐 정강뼈
 - **식별·비교:** 대퇴사두근 중 고관절과 무릎을 모두 지나 고관절 굽힘과 무릎 폄에 참여한다.
 
-- **다른 표기:** 대퇴직근 · Rectus femoris · 넙다리곧은근
+- **다른 표기:** 대퇴직근 · Rectus femoris · 넙다리곧은근 · rectus femoris
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-rectus-femoris)
 [부위별 임상해부학](/clinical-anatomy/mps-thigh/#rectus-femoris)
@@ -729,7 +829,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 슬개골·안쪽 지지조직
 - **식별·비교:** 무릎 폄근으로 고관절을 직접 가로지르지 않으며 대퇴직근의 두 관절 작용과 구분한다.
 
-- **다른 표기:** 내측광근 · Vastus medialis · 안쪽넓은근
+- **다른 표기:** 내측광근 · Vastus medialis · 안쪽넓은근 · vastus medialis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-vastus-medialis)
 [부위별 임상해부학](/clinical-anatomy/mps-thigh/#vastus-medialis)
@@ -765,7 +865,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 대퇴골 거친선 중간부
 - **식별·비교:** 표층 모음근의 거친선 정지를 박근의 거위발 정지와 비교한다.
 
-- **다른 표기:** 장내전근 · Adductor longus · 긴모음근
+- **다른 표기:** 장내전근 · Adductor longus · 긴모음근 · adductor longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-adductor-longus)
 [부위별 임상해부학](/clinical-anatomy/mps-thigh/#adductor-longus)
@@ -783,7 +883,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 정강뼈 위쪽 안쪽의 거위발
 - **식별·비교:** 봉공근·박근·반건양근의 거위발은 같은 정지 영역이지만 기시와 신경지배가 다르다.
 
-- **다른 표기:** 봉공근 · Sartorius · 넙다리빗근
+- **다른 표기:** 봉공근 · Sartorius · 넙다리빗근 · sartorius
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-sartorius)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -800,7 +900,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 무릎뼈와 무릎인대를 거쳐 정강뼈거친면
 - **식별·비교:** 넙다리네갈래근의 가쪽 갈래이며 대퇴신경 지배의 무릎 폄을 다른 갈래와 비교한다.
 
-- **다른 표기:** 외측광근 · Vastus lateralis · 가쪽넓은근
+- **다른 표기:** 외측광근 · Vastus lateralis · 가쪽넓은근 · vastus lateralis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-vastus-lateralis)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -817,7 +917,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 무릎뼈와 무릎인대를 거쳐 정강뼈거친면
 - **식별·비교:** 대퇴직근의 깊은 곳에서 넙다리뼈에 기시하고 고관절을 직접 지나지 않는다.
 
-- **다른 표기:** 중간광근 · Vastus intermedius · 중간넓은근
+- **다른 표기:** 중간광근 · Vastus intermedius · 중간넓은근 · vastus intermedius
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-vastus-intermedius)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -834,7 +934,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 정강뼈 위쪽 안쪽의 거위발
 - **식별·비교:** 거위발에 붙는 긴 먼쪽 힘줄과 반막양근의 정강뼈 뒤안쪽 정지를 비교한다.
 
-- **다른 표기:** 반건양근 · Semitendinosus · 반힘줄근
+- **다른 표기:** 반건양근 · Semitendinosus · 반힘줄근 · semitendinosus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-semitendinosus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -851,7 +951,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 정강뼈 안쪽관절융기 뒤면
 - **식별·비교:** 넓은 가까운 쪽 힘줄과 정강뼈 안쪽관절융기 뒤 정지를 반건양근과 비교한다.
 
-- **다른 표기:** 반막양근 · Semimembranosus · 반막근
+- **다른 표기:** 반막양근 · Semimembranosus · 반막근 · semimembranosus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-semimembranosus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -868,7 +968,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 종아리뼈 머리
 - **식별·비교:** 긴갈래는 고관절을 지나 경골부분 지배, 짧은갈래는 고관절을 지나지 않고 총비골부분 지배이다.
 
-- **다른 표기:** 대퇴이두근 · Biceps femoris · 넙다리두갈래근
+- **다른 표기:** 대퇴이두근 · Biceps femoris · 넙다리두갈래근 · biceps femoris
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-biceps-femoris)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -884,7 +984,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 폐쇄신경
 - **식별·비교:** 모음근 중 무릎관절을 지나며 봉공근·반건양근과 거위발을 이룬다.
 
-- **다른 표기:** 박근 · Gracilis · 두덩정강근
+- **다른 표기:** 박근 · Gracilis · 두덩정강근 · gracilis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-gracilis)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -900,7 +1000,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 폐쇄신경
 - **식별·비교:** 폐쇄신경 앞·뒤가지의 위치 관계를 비교하는 깊은 층 표지이다.
 
-- **다른 표기:** 단내전근 · Adductor brevis · 짧은모음근
+- **다른 표기:** 단내전근 · Adductor brevis · 짧은모음근 · adductor brevis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-adductor-brevis)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -916,7 +1016,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 모음부분 폐쇄신경, 햄스트링부분 좌골신경 경골부분
 - **식별·비교:** 모음근구멍으로 대퇴혈관이 지나가며 두 부분의 신경지배·정지를 구분한다.
 
-- **다른 표기:** 대내전근 · Adductor magnus · 큰모음근
+- **다른 표기:** 대내전근 · Adductor magnus · 큰모음근 · adductor magnus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-adductor-magnus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -932,7 +1032,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 경골신경
 - **식별·비교:** 발이 고정된 상태에서는 넙다리뼈의 바깥돌림으로 같은 상대 운동을 만든다.
 
-- **다른 표기:** 슬와근 · Popliteus · 오금근
+- **다른 표기:** 슬와근 · Popliteus · 오금근 · popliteus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-popliteus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -954,7 +1054,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 아킬레스힘줄·발꿈치뼈
 - **식별·비교:** 무릎과 발목을 모두 지나며 무릎을 지나지 않는 가자미근과 작용을 비교한다.
 
-- **다른 표기:** 비복근 · Gastrocnemius · 장딴지근
+- **다른 표기:** 비복근 · Gastrocnemius · 장딴지근 · gastrocnemius
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-gastrocnemius)
 [부위별 임상해부학](/clinical-anatomy/mps-calf/#gastrocnemius)
@@ -972,7 +1072,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 아킬레스힘줄·발꿈치뼈
 - **식별·비교:** 무릎을 직접 지나지 않아 무릎 굽힘 자세에서도 발바닥굽힘에 참여한다.
 
-- **다른 표기:** 가자미근 · Soleus · 넙치근
+- **다른 표기:** 가자미근 · Soleus · 넙치근 · soleus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-soleus)
 [부위별 임상해부학](/clinical-anatomy/mps-calf/#soleus)
@@ -990,7 +1090,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 안쪽쐐기뼈·제1발허리뼈 바닥
 - **식별·비교:** 앞 구획·깊은종아리신경의 발등굽힘을 뒤정강근의 뒤 구획·경골신경과 비교한다.
 
-- **다른 표기:** 전경골근 · Tibialis anterior · 앞정강근
+- **다른 표기:** 전경골근 · Tibialis anterior · 앞정강근 · tibialis anterior
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-tibialis-anterior)
 [부위별 임상해부학](/clinical-anatomy/mps-calf/#tibialis-anterior)
@@ -1008,7 +1108,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 발배뼈를 중심으로 발목뼈·발허리뼈 바닥
 - **식별·비교:** 뒤 깊은 구획에서 안쪽복사 뒤를 지나 발배뼈 중심으로 붙으며 발 안쪽번짐·활 지지에 참여한다.
 
-- **다른 표기:** 후경골근 · Tibialis posterior · 뒤정강근
+- **다른 표기:** 후경골근 · Tibialis posterior · 뒤정강근 · tibialis posterior
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-muscle-tibialis-posterior)
 [부위별 임상해부학](/clinical-anatomy/mps-calf/#tibialis-posterior)
@@ -1031,7 +1131,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 노뼈거친면과 널힘줄
 - **식별·비교:** 노뼈 정지의 아래팔 뒤침을 자뼈 정지 상완근의 주된 팔꿈치 굽힘과 비교한다.
 
-- **다른 표기:** 상완이두근 · Biceps brachii · 위팔두갈래근
+- **다른 표기:** 상완이두근 · Biceps brachii · 위팔두갈래근 · biceps brachii
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-biceps-brachii)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1048,7 +1148,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 팔꿈치머리
 - **식별·비교:** 긴갈래는 어깨관절도 지나지만 가쪽·안쪽갈래는 위팔뼈에서 시작한다.
 
-- **다른 표기:** 상완삼두근 · Triceps brachii · 위팔세갈래근
+- **다른 표기:** 상완삼두근 · Triceps brachii · 위팔세갈래근 · triceps brachii
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-triceps-brachii)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1065,7 +1165,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 자뼈거친면·갈고리돌기 부위
 - **식별·비교:** 자뼈에 붙어 아래팔 회전 자세와 관계없이 팔꿈치 굽힘에 참여한다.
 
-- **다른 표기:** 상완근 · Brachialis · 위팔근
+- **다른 표기:** 상완근 · Brachialis · 위팔근 · brachialis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-brachialis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1082,7 +1182,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 노뼈붓돌기 부근
 - **식별·비교:** 요골신경 지배를 받지만 주 작용은 팔꿈치 굽힘이며 아래팔 폄근들과 구분한다.
 
-- **다른 표기:** 상완요골근 · Brachioradialis · 위팔노근
+- **다른 표기:** 상완요골근 · Brachioradialis · 위팔노근 · brachioradialis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-brachioradialis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1099,7 +1199,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 콩알뼈·갈고리뼈·제5손허리뼈 부위
 - **식별·비교:** 척골신경이 지배하는 아래팔 굽힘근이며 정중신경 지배 굽힘근들과 구분한다.
 
-- **다른 표기:** 척측수근굴근 · Flexor carpi ulnaris · 자쪽손목굽힘근 · FCU
+- **다른 표기:** 척측수근굴근 · Flexor carpi ulnaris · 자쪽손목굽힘근 · FCU · flexor carpi ulnaris
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-carpi-ulnaris)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1115,7 +1215,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 근피신경
 - **식별·비교:** 위팔두갈래근 짧은갈래와 기시가 가까우나 노뼈까지 내려가지 않는다.
 
-- **다른 표기:** 오훼완근 · Coracobrachialis · 부리위팔근
+- **다른 표기:** 오훼완근 · Coracobrachialis · 부리위팔근 · coracobrachialis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-coracobrachialis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1131,7 +1231,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 요골신경
 - **식별·비교:** 상완삼두근과 같은 폄 작용을 돕지만 팔꿈치 주변에 국한된다.
 
-- **다른 표기:** 주근 · Anconeus · 팔꿈치근
+- **다른 표기:** 주근 · Anconeus · 팔꿈치근 · anconeus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-anconeus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1147,7 +1247,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 요골신경 깊은가지
 - **식별·비교:** 이두근의 뒤침과 함께 보되 팔꿈치 굽힘근으로 분류하지 않는다.
 
-- **다른 표기:** 회외근 · Supinator · 뒤침근
+- **다른 표기:** 회외근 · Supinator · 뒤침근 · supinator
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-supinator)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1163,7 +1263,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 정중신경
 - **식별·비교:** 개인에 따라 결여될 수 있어 모든 표본에서 존재한다고 가정하지 않는다.
 
-- **다른 표기:** 장장근 · Palmaris longus · 긴손바닥근
+- **다른 표기:** 장장근 · Palmaris longus · 긴손바닥근 · palmaris longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-palmaris-longus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1179,7 +1279,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 정중신경
 - **식별·비교:** 중간마디 정지와 몸쪽관절 굽힘을 깊은손가락굽힘근의 끝마디 정지와 비교한다.
 
-- **다른 표기:** 천지굴근 · Flexor digitorum superficialis · 얕은손가락굽힘근 · FDS
+- **다른 표기:** 천지굴근 · Flexor digitorum superficialis · 얕은손가락굽힘근 · FDS · flexor digitorum superficialis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-digitorum-superficialis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1195,7 +1295,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 가쪽 부분 앞뼈사이신경, 안쪽 부분 척골신경
 - **식별·비교:** 검지·중지 쪽과 약지·새끼손가락 쪽의 이중 신경지배를 구분한다.
 
-- **다른 표기:** 심지굴근 · Flexor digitorum profundus · 깊은손가락굽힘근 · FDP
+- **다른 표기:** 심지굴근 · Flexor digitorum profundus · 깊은손가락굽힘근 · FDP · flexor digitorum profundus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-digitorum-profundus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1211,7 +1311,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 앞뼈사이신경
 - **식별·비교:** 엄지 몸쪽마디에 붙는 짧은 굽힘근과 정지 위치가 다르다.
 
-- **다른 표기:** 장무지굴근 · Flexor pollicis longus · 긴엄지굽힘근 · FPL
+- **다른 표기:** 장무지굴근 · Flexor pollicis longus · 긴엄지굽힘근 · FPL · flexor pollicis longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-pollicis-longus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1227,7 +1327,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 앞뼈사이신경
 - **식별·비교:** 팔꿈치 근처 원엎침근과 달리 아래팔 먼쪽에 놓인다.
 
-- **다른 표기:** 방형회내근 · Pronator quadratus · 네모엎침근
+- **다른 표기:** 방형회내근 · Pronator quadratus · 네모엎침근 · pronator quadratus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-pronator-quadratus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1243,7 +1343,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 요골신경
 - **식별·비교:** 제3손허리뼈 바닥에 붙는 짧은 노쪽 손목 폄근과 정지를 비교한다.
 
-- **다른 표기:** 장요측수근신근 · Extensor carpi radialis longus · 긴노쪽손목폄근 · ECRL
+- **다른 표기:** 장요측수근신근 · Extensor carpi radialis longus · 긴노쪽손목폄근 · ECRL · extensor carpi radialis longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-carpi-radialis-longus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1259,7 +1359,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 뒤뼈사이신경
 - **식별·비교:** 손목 굽힘을 하는 자쪽 근육과 폄·굽힘 작용을 대조한다.
 
-- **다른 표기:** 척측수근신근 · Extensor carpi ulnaris · 자쪽손목폄근 · ECU
+- **다른 표기:** 척측수근신근 · Extensor carpi ulnaris · 자쪽손목폄근 · ECU · extensor carpi ulnaris
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-carpi-ulnaris)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1275,7 +1375,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 뒤뼈사이신경
 - **식별·비교:** 손가락 폄은 뼈사이근·벌레근과 폄근널힘줄의 협동으로도 이루어진다.
 
-- **다른 표기:** 총지신근 · Extensor digitorum · 손가락폄근
+- **다른 표기:** 총지신근 · Extensor digitorum · 손가락폄근 · extensor digitorum
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-digitorum)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1291,7 +1391,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 뒤뼈사이신경
 - **식별·비교:** 해부학적 코담배갑의 자쪽 경계를 만들며 짧은엄지폄근과 정지가 다르다.
 
-- **다른 표기:** 장무지신근 · Extensor pollicis longus · 긴엄지폄근 · EPL
+- **다른 표기:** 장무지신근 · Extensor pollicis longus · 긴엄지폄근 · EPL · extensor pollicis longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-pollicis-longus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1307,7 +1407,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 뒤뼈사이신경
 - **식별·비교:** 해부학적 코담배갑 노쪽 경계를 긴엄지벌림근과 함께 이룬다.
 
-- **다른 표기:** 단무지신근 · Extensor pollicis brevis · 짧은엄지폄근 · EPB
+- **다른 표기:** 단무지신근 · Extensor pollicis brevis · 짧은엄지폄근 · EPB · extensor pollicis brevis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-pollicis-brevis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1323,7 +1423,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 뒤뼈사이신경
 - **식별·비교:** 엄지 마디뼈가 아닌 손허리뼈 정지를 확인한다.
 
-- **다른 표기:** 장무지외전근 · Abductor pollicis longus · 긴엄지벌림근 · APL
+- **다른 표기:** 장무지외전근 · Abductor pollicis longus · 긴엄지벌림근 · APL · abductor pollicis longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-abductor-pollicis-longus)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -1345,7 +1445,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **정지:** 발바닥을 지나 안쪽쐐기뼈·제1발허리뼈 바닥
 - **식별·비교:** 가쪽복사 뒤를 지나 발바닥을 횡단해 첫 발허리뼈로 가며 짧은종아리근의 제5 정지와 다르다.
 
-- **다른 표기:** 장비골근 · Fibularis longus · 긴종아리근 · Peroneus longus
+- **다른 표기:** 장비골근 · Fibularis longus · 긴종아리근 · Peroneus longus · fibularis longus · fibularis (peroneus) longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-fibularis-longus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -1361,7 +1461,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 경골신경
 - **식별·비교:** 개인에 따라 결여될 수 있으며 주된 강력한 발바닥굽힘근과 구분한다.
 
-- **다른 표기:** 족척근 · Plantaris · 장딴지빗근
+- **다른 표기:** 족척근 · Plantaris · 장딴지빗근 · plantaris
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-plantaris)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -1377,7 +1477,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 얕은종아리신경
 - **식별·비교:** 긴종아리근의 발바닥 횡단 주행·첫째 발허리뼈 정지와 비교한다.
 
-- **다른 표기:** 단비골근 · Fibularis brevis · 짧은종아리근 · Peroneus brevis
+- **다른 표기:** 단비골근 · Fibularis brevis · 짧은종아리근 · Peroneus brevis · fibularis brevis · fibularis (peroneus) brevis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-fibularis-brevis)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -1393,7 +1493,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 깊은종아리신경
 - **식별·비교:** 발등에서 힘줄 가쪽으로 족배동맥을 비교하며 손의 엄지 폄근과 부위를 구분한다.
 
-- **다른 표기:** 발의 장무지신근 · 장무지신근(발) · Extensor hallucis longus · 긴엄지폄근(발) · 긴엄지발가락폄근 · EHL
+- **다른 표기:** 발의 장무지신근 · 장무지신근(발) · Extensor hallucis longus · 긴엄지폄근(발) · 긴엄지발가락폄근 · EHL · extensor hallucis longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-hallucis-longus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -1409,7 +1509,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 깊은종아리신경
 - **식별·비교:** 발 속근육인 짧은발가락폄근과 기시·주행 길이를 구분한다.
 
-- **다른 표기:** 장지신근 · Extensor digitorum longus · 긴발가락폄근 · EDL
+- **다른 표기:** 장지신근 · Extensor digitorum longus · 긴발가락폄근 · EDL · extensor digitorum longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-digitorum-longus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -1425,7 +1525,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 경골신경
 - **식별·비교:** 발의 긴 엄지 굽힘근과 손의 긴 엄지 굽힘근을 영문명·부위로 구분한다.
 
-- **다른 표기:** 발의 장무지굴근 · 장무지굴근(발) · Flexor hallucis longus · 긴엄지굽힘근(발) · 긴엄지발가락굽힘근 · FHL
+- **다른 표기:** 발의 장무지굴근 · 장무지굴근(발) · Flexor hallucis longus · 긴엄지굽힘근(발) · 긴엄지발가락굽힘근 · FHL · flexor hallucis longus
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-hallucis-longus)
 참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
@@ -3473,7 +3573,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 척골신경 깊은가지
 - **식별·비교:** 엄지 맞섬근의 정중신경 지배와 달리 척골신경 지배를 받는다.
 
-- **다른 표기:** 무지내전근 · Adductor pollicis · 엄지모음근
+- **다른 표기:** 무지내전근 · Adductor pollicis · 엄지모음근 · adductor pollicis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-adductor-pollicis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -3489,7 +3589,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 정중신경 되돌이가지
 - **식별·비교:** 긴엄지벌림근의 아래팔 기시와 첫 손허리뼈 정지를 구분한다.
 
-- **다른 표기:** 단무지외전근 · Abductor pollicis brevis · 짧은엄지벌림근 · APB
+- **다른 표기:** 단무지외전근 · Abductor pollicis brevis · 짧은엄지벌림근 · APB · abductor pollicis brevis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-abductor-pollicis-brevis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -3505,7 +3605,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 정중신경 되돌이가지
 - **식별·비교:** 마디뼈 굽힘만으로 엄지 맞섬 전체를 설명하지 않는다.
 
-- **다른 표기:** 무지대립근 · Opponens pollicis · 엄지맞섬근
+- **다른 표기:** 무지대립근 · Opponens pollicis · 엄지맞섬근 · opponens pollicis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-opponens-pollicis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -3521,7 +3621,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 척골신경 깊은가지
 - **식별·비교:** 벌림 기준축은 손의 가운데손가락이며 손가락 전체의 가쪽 방향과 혼동하지 않는다.
 
-- **다른 표기:** 손의 배측골간근군 · Dorsal interossei of hand · 손등뼈사이근군 · Dorsal interossei
+- **다른 표기:** 손의 배측골간근군 · Dorsal interossei of hand · 손등뼈사이근군 · Dorsal interossei · dorsal interossei of hand · dorsal interosseous (hand) · interosseous, dorsal (hand)
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-dorsal-interossei-hand)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -3537,7 +3637,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 척골신경 깊은가지
 - **식별·비교:** 등쪽 뼈사이근의 벌림과 손바닥쪽 뼈사이근의 모음을 비교한다.
 
-- **다른 표기:** 손의 장측골간근군 · Palmar interossei of hand · 손바닥뼈사이근군 · Palmar interossei
+- **다른 표기:** 손의 장측골간근군 · Palmar interossei of hand · 손바닥뼈사이근군 · Palmar interossei · palmar interossei of hand · interosseous, palmar · palmar interosseous
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-palmar-interossei-hand)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
@@ -3558,7 +3658,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 하부 가슴배신경·갈비밑신경
 - **식별·비교:** 배곧은근집에 싸이며 배가로근의 가로 섬유 방향과 구분한다.
 
-- **다른 표기:** 복직근 · Rectus abdominis · 배곧은근
+- **다른 표기:** 복직근 · Rectus abdominis · 배곧은근 · rectus abdominis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-rectus-abdominis)
 참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [OpenStax 복벽·가슴 근육](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
@@ -3574,7 +3674,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 하부 가슴배신경·갈비밑신경
 - **식별·비교:** 한쪽 돌림 방향은 속빗근과 반대이며 아래 널힘줄이 서혜인대 형성과 연결된다.
 
-- **다른 표기:** 외복사근 · External abdominal oblique · 배바깥빗근
+- **다른 표기:** 외복사근 · External abdominal oblique · 배바깥빗근 · external abdominal oblique · oblique, external abdominal
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-external-oblique)
 참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [OpenStax 복벽·가슴 근육](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
@@ -3590,7 +3690,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 하부 가슴배신경·갈비밑신경·엉덩아랫배신경·엉덩샅굴신경
 - **식별·비교:** 돌림에서는 반대쪽 바깥빗근과 같은 방향으로 협동한다.
 
-- **다른 표기:** 내복사근 · Internal abdominal oblique · 배속빗근
+- **다른 표기:** 내복사근 · Internal abdominal oblique · 배속빗근 · internal abdominal oblique · oblique, internal abdominal
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-internal-oblique)
 참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [OpenStax 복벽·가슴 근육](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
@@ -3606,7 +3706,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 하부 가슴배신경·갈비밑신경·엉덩아랫배신경·엉덩샅굴신경
 - **식별·비교:** 주 작용을 큰 몸통 굽힘으로 외우기보다 복벽 압박과 안정에 연결한다.
 
-- **다른 표기:** 복횡근 · Transversus abdominis · 배가로근
+- **다른 표기:** 복횡근 · Transversus abdominis · 배가로근 · transversus abdominis
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-transversus-abdominis)
 참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [OpenStax 복벽·가슴 근육](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
@@ -3622,10 +3722,10 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 가로막신경 C3–C5의 운동가지
 - **식별·비교:** 운동신경과 주변부 감각신경을 구분하며 수축 시 중심널힘줄이 내려간다.
 
-- **다른 표기:** 횡격막 · Diaphragm · 가로막
+- **다른 표기:** 횡격막 · Diaphragm · 가로막 · diaphragm
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-diaphragm)
-참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [OpenStax 복벽·가슴 근육](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
+참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [OpenStax 복벽·가슴 근육](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax) · [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
 
 <span id="anatomy-external-intercostals"></span>
 
@@ -3638,7 +3738,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 갈비사이신경
 - **식별·비교:** 앞쪽에서는 근육이 막으로 바뀌며 모든 갈비사이근을 동일한 작용으로 묶지 않는다.
 
-- **다른 표기:** 외늑간근군 · External intercostals · 바깥갈비사이근군
+- **다른 표기:** 외늑간근군 · External intercostals · 바깥갈비사이근군 · external intercostals · external intercostal
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-external-intercostals)
 참고: [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/) · [OpenStax 복벽·가슴 근육](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax)
@@ -3646,7 +3746,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 </details>
 
 <details markdown="1">
-<summary>근육 · 목·설골 · 4개 카드</summary>
+<summary>근육 · 목·설골 · 16개 카드</summary>
 
 <span id="anatomy-digastric"></span>
 
@@ -3659,7 +3759,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 앞힘살 턱목뿔근신경 V3, 뒤힘살 안면신경 VII
 - **식별·비교:** 한 근육 안에서도 앞힘살과 뒤힘살의 발생·신경지배가 다르다.
 
-- **다른 표기:** 이복근 · Digastric · 두힘살근
+- **다른 표기:** 이복근 · Digastric · 두힘살근 · digastric
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-digastric)
 참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
@@ -3675,7 +3775,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 턱목뿔근신경, 아래이틀신경의 가지 V3
 - **식별·비교:** 혀 근육 자체와 구분하고 두힘살근 앞힘살과 신경 연결을 비교한다.
 
-- **다른 표기:** 악설골근 · Mylohyoid · 턱목뿔근
+- **다른 표기:** 악설골근 · Mylohyoid · 턱목뿔근 · mylohyoid
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-mylohyoid)
 참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
@@ -3691,7 +3791,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 안면신경 VII
 - **식별·비교:** 설골로 이어지는 붓돌기 근육과 혀·인두로 이어지는 다른 근육을 구분한다.
 
-- **다른 표기:** 경상설골근 · Stylohyoid · 붓목뿔근
+- **다른 표기:** 경상설골근 · Stylohyoid · 붓목뿔근 · stylohyoid
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-stylohyoid)
 참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
@@ -3707,9 +3807,225 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 - **신경지배:** 목신경고리 C1–C3 계통
 - **식별·비교:** 복장뼈에서 갑상연골로 이어지는 근육과 정지 구조가 다르다.
 
-- **다른 표기:** 흉골설골근 · Sternohyoid · 복장목뿔근
+- **다른 표기:** 흉골설골근 · Sternohyoid · 복장목뿔근 · sternohyoid
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-sternohyoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-anterior-scalene"></span>
+
+**전사각근**
+
+- **영문명:** Anterior scalene
+- **기시:** C3–C6 가로돌기 앞결절
+- **정지:** 제1갈비뼈 목갈비근결절
+- **주요 작용:** 목 굽힘·가쪽굽힘; 제1갈비뼈 거상
+- **신경지배:** 목 척수신경 앞가지
+- **대표 혈관:** 오름목동맥
+- **식별·비교:** 빗장밑정맥은 앞, 동맥·상완신경총은 뒤에 있다. 가로막신경은 앞면을 지난다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 전사각근 · 앞목갈비근 · Anterior scalene · anterior scalene · scalene, anterior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-anterior-scalene)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-geniohyoid"></span>
+
+**이설골근**
+
+- **영문명:** Geniohyoid
+- **기시:** 아래턱뼈 아래턱끝가시
+- **정지:** 설골 몸통 앞면
+- **주요 작용:** 설골 앞위 이동; 설골 고정 시 아래턱 내림 보조
+- **신경지배:** 설하신경과 동행하는 C1 앞가지 섬유
+- **대표 혈관:** 혀동맥·턱밑동맥
+- **식별·비교:** 악설골근 위쪽의 짧은 쌍근육이다. C1 섬유와 XII 고유 지배를 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 이설골근 · 턱끝목뿔근 · Geniohyoid · geniohyoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-geniohyoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-longus-capitis"></span>
+
+**두장근**
+
+- **영문명:** Longus capitis
+- **기시:** C3–C6 가로돌기 앞결절
+- **정지:** 뒤통수뼈 바닥부분
+- **주요 작용:** 머리·위목 굽힘
+- **신경지배:** 위목 척수신경 앞가지
+- **대표 혈관:** 목의 척추앞 동맥 가지
+- **식별·비교:** 두개골에 붙는 깊은 앞목 근육으로 긴목근의 척추 정지와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 두장근 · 긴머리근 · Longus capitis · longus capitis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-longus-capitis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-longus-colli"></span>
+
+**경장근**
+
+- **영문명:** Longus colli
+- **기시:** C3–T3 척추체·목 가로돌기 계통
+- **정지:** 환추 앞결절·위목 척추체·가로돌기 계통
+- **주요 작용:** 목 굽힘·분절 안정; 가쪽굽힘·회전 보조
+- **신경지배:** 목 척수신경 앞가지
+- **대표 혈관:** 척추동맥·오름목동맥 계통
+- **식별·비교:** 수직·위빗·아래빗 부분을 나누는 척추앞 근육이다. 단일 직선 근육으로 해석하지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 경장근 · 긴목근 · Longus colli · longus colli
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-longus-colli)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-middle-scalene"></span>
+
+**중사각근**
+
+- **영문명:** Middle scalene
+- **기시:** C2–C7 가로돌기 뒤결절 계통
+- **정지:** 제1갈비뼈 윗면의 동맥고랑 뒤쪽
+- **주요 작용:** 목 가쪽굽힘·제1갈비뼈 거상
+- **신경지배:** 목 척수신경 앞가지
+- **대표 혈관:** 오름목동맥
+- **식별·비교:** 앞목갈비근과의 사이로 상완신경총·빗장밑동맥이 지나며 견갑배신경 등이 관통할 수 있다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 중사각근 · 중간목갈비근 · Middle scalene · middle scalene · scalene, middle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-middle-scalene)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-omohyoid"></span>
+
+**견갑설골근**
+
+- **영문명:** Omohyoid
+- **기시:** 견갑골 위모서리
+- **정지:** 중간힘줄을 거쳐 설골 아래모서리
+- **주요 작용:** 설골 내림·고정
+- **신경지배:** 목신경고리
+- **대표 혈관:** 가로목동맥 계통
+- **식별·비교:** 위·아래힘살과 근막에 고정된 중간힘줄을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 견갑설골근 · 어깨목뿔근 · Omohyoid · omohyoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-omohyoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-platysma"></span>
+
+**광경근**
+
+- **영문명:** Platysma
+- **기시:** 대흉근·삼각근 위 얕은근막
+- **정지:** 아래턱뼈 아래모서리·아랫얼굴 피부
+- **주요 작용:** 목 피부 긴장·아랫입술과 입꼬리 내림 보조
+- **신경지배:** 안면신경 목가지
+- **대표 혈관:** 얼굴동맥 계통
+- **식별·비교:** 얕은 피부근육이며 목신경고리가 지배하는 설골아래근과 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 광경근 · 넓은목근 · Platysma · platysma
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-platysma)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-posterior-scalene"></span>
+
+**후사각근**
+
+- **영문명:** Posterior scalene
+- **기시:** C5–C7 가로돌기 뒤결절
+- **정지:** 제2갈비뼈 바깥면
+- **주요 작용:** 목 가쪽굽힘·제2갈비뼈 거상
+- **신경지배:** 목 척수신경 앞가지
+- **대표 혈관:** 오름목동맥
+- **식별·비교:** 제1갈비뼈에 붙는 앞·중간목갈비근과 달리 제2갈비뼈 정지다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 후사각근 · 뒤목갈비근 · Posterior scalene · posterior scalene · scalene, posterior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-posterior-scalene)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-rectus-capitis-anterior"></span>
+
+**전두직근**
+
+- **영문명:** Rectus capitis anterior
+- **기시:** 환추 가쪽덩이 앞면
+- **정지:** 뒤통수뼈 바닥부분
+- **주요 작용:** 머리 굽힘·환추뒤통수관절 안정
+- **신경지배:** C1–C2 앞가지 계통
+- **대표 혈관:** 위목의 깊은 동맥 가지
+- **식별·비교:** 환추에서 앞 두개저로 이어지며 C1 뒤가지가 지배하는 후두하근과 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 전두직근 · 앞머리곧은근 · Rectus capitis anterior · rectus capitis anterior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-rectus-capitis-anterior)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-rectus-capitis-lateralis"></span>
+
+**외측두직근**
+
+- **영문명:** Rectus capitis lateralis
+- **기시:** 환추 가로돌기
+- **정지:** 뒤통수뼈 목정맥돌기 계통
+- **주요 작용:** 머리 가쪽굽힘·환추뒤통수관절 안정
+- **신경지배:** C1–C2 앞가지 계통
+- **대표 혈관:** 위목의 깊은 동맥 가지
+- **식별·비교:** C1–두개골 가쪽 연결이며 뒤쪽 머리빗근들과 위치·신경 계통이 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 외측두직근 · 가쪽머리곧은근 · Rectus capitis lateralis · rectus capitis lateralis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-rectus-capitis-lateralis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-sternothyroid"></span>
+
+**흉골갑상근**
+
+- **영문명:** Sternothyroid
+- **기시:** 복장뼈자루 뒤면
+- **정지:** 갑상연골 빗선
+- **주요 작용:** 후두·갑상연골 내림
+- **신경지배:** 목신경고리
+- **대표 혈관:** 위갑상동맥
+- **식별·비교:** 흉골설골근보다 깊으며 정지점은 설골이 아닌 갑상연골이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 흉골갑상근 · 복장방패근 · Sternothyroid · sternothyroid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-sternothyroid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-thyrohyoid"></span>
+
+**갑상설골근**
+
+- **영문명:** Thyrohyoid
+- **기시:** 갑상연골 빗선
+- **정지:** 설골 몸통·큰뿔 아래
+- **주요 작용:** 설골 내림; 설골 고정 시 후두 올림
+- **신경지배:** 설하신경과 동행하는 C1 앞가지 섬유
+- **대표 혈관:** 위갑상동맥
+- **식별·비교:** 신경 섬유의 출발은 C1이며 XII 고유 운동섬유 또는 목신경고리로 단순화하지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 갑상설골근 · 방패목뿔근 · Thyrohyoid · thyrohyoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-thyrohyoid)
 참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
 
 </details>
@@ -4872,6 +5188,2563 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-vessel-pulmonary-veins)
 참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 복부 · 6개 카드</summary>
+
+<span id="anatomy-cremaster"></span>
+
+**고환거근**
+
+- **영문명:** Cremaster
+- **기시:** 서혜인대·내복사근 하부와 연결
+- **정지:** 정삭·고환 주위 고리
+- **주요 작용:** 고환을 올림
+- **신경지배:** 음부대퇴신경 생식가지
+- **대표 혈관:** 고환거근동맥
+- **식별·비교:** 골격근이다. 음낭 피부의 평활근과 구분하고 고환거근반사의 감각·운동 경로를 나누어 본다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 고환거근 · 고환올림근 · Cremaster · cremaster
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-cremaster)
+참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/)
+
+<span id="anatomy-dartos"></span>
+
+**육양근**
+
+- **영문명:** Dartos
+- **배치·기원:** 음낭 피부 아래 평활근층
+- **연결·층:** 음낭 피부 결합조직
+- **주요 작용:** 피부를 주름지게 해 표면적 조절
+- **신경지배:** 교감신경 절후섬유
+- **대표 혈관:** 뒤음낭동맥 등
+- **식별·비교:** 뼈에 붙는 골격근이 아니다. 고환올림근의 수의·반사성 운동지배와 구분한다.
+- **근육 유형:** 평활근 · 자율신경 조절
+
+- **다른 표기:** 육양근 · 음낭주름근 · Dartos · dartos
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-dartos)
+참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/)
+
+<span id="anatomy-iliopsoas"></span>
+
+**장요근**
+
+- **영문명:** Iliopsoas
+- **기시:** 큰허리근의 허리척추 기시·엉덩근의 엉덩오목 기시
+- **정지:** 공통힘줄로 넙다리뼈 작은돌기
+- **주요 작용:** 고관절 굽힘; 몸통·골반 자세에 따라 작용 변화
+- **신경지배:** 큰허리근은 허리신경 앞가지, 엉덩근은 대퇴신경
+- **대표 혈관:** 장요동맥 등
+- **식별·비교:** 단일 근육이 아닌 두 근육의 묶음이다. 같은 정지가 같은 신경지배를 뜻하지 않는다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 장요근 · 엉덩허리근 · Iliopsoas · iliopsoas
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-iliopsoas)
+참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-interfoveolar"></span>
+
+**오목사이근**
+
+- **영문명:** Interfoveolar
+- **기시:** 하복벽의 배가로근 일부 섬유
+- **정지:** 대퇴혈관집 앞층 부근
+- **주요 작용:** 하복벽 압박 보조
+- **신경지배:** 엉덩아랫배신경·엉덩샅굴신경 계통
+- **대표 혈관:** 아래배벽동맥
+- **식별·비교:** 변이성 근육으로 인대만 있는 경우도 있다. 모든 표본에 독립된 근육이 있다고 가정하지 않는다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 오목사이근 · interfoveolar muscle · Interfoveolar · interfoveolar
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-interfoveolar)
+참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/)
+
+<span id="anatomy-psoas-minor"></span>
+
+**소요근**
+
+- **영문명:** Psoas minor
+- **기시:** T12–L1 척추체·사이원반
+- **정지:** 엉덩두덩융기·골반 가장자리 근막
+- **주요 작용:** 허리 굽힘과 근막 긴장 보조
+- **신경지배:** 허리신경 앞가지 L1 계통
+- **대표 혈관:** 허리동맥
+- **식별·비교:** 결여될 수 있으며 넙다리뼈 작은돌기까지 가는 큰허리근과 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 소요근 · 작은허리근 · Psoas minor · psoas minor
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-psoas-minor)
+참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/) · [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-pyramidalis"></span>
+
+**추체근**
+
+- **영문명:** Pyramidalis
+- **기시:** 두덩뼈 앞면
+- **정지:** 백선 하부
+- **주요 작용:** 백선 긴장
+- **신경지배:** 갈비밑신경
+- **대표 혈관:** 아래배벽동맥·갈비밑동맥
+- **식별·비교:** 배곧은근 아래 앞쪽의 작은 세모근으로 존재·크기에 변이가 있다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 추체근 · 피라미드근 · Pyramidalis · pyramidalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-pyramidalis)
+참고: [UAMS 복부 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 등·뒤통수 · 17개 카드</summary>
+
+<span id="anatomy-iliocostalis"></span>
+
+**장늑근**
+
+- **영문명:** Iliocostalis
+- **기시:** 엉덩뼈능선·엉치뼈·아래 갈비뼈 계통
+- **정지:** 위쪽 갈비뼈각·목 가로돌기 계통
+- **주요 작용:** 척주 폄·같은쪽 가쪽굽힘
+- **신경지배:** 척수신경 뒤가지
+- **대표 혈관:** 뒤갈비사이동맥·허리동맥 등
+- **식별·비교:** 척주세움근의 가쪽 기둥이다. 허리·가슴·목 부분의 부착은 서로 다르다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 장늑근 · 엉덩갈비근 · Iliocostalis · iliocostalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-iliocostalis)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-interspinales"></span>
+
+**극간근**
+
+- **영문명:** Interspinales
+- **기시:** 아래 척추 가시돌기
+- **정지:** 바로 위 가시돌기
+- **주요 작용:** 분절 폄·안정 보조
+- **신경지배:** 척수신경 뒤가지
+- **대표 혈관:** 깊은목동맥·허리동맥 등 분절 가지
+- **식별·비교:** 인접 가시돌기 사이의 짧은 근육이며 가로돌기 사이 근육과 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 극간근 · 가시사이근 · Interspinales · interspinales
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-interspinales)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-intertransversarii"></span>
+
+**횡돌간근**
+
+- **영문명:** Intertransversarii
+- **기시:** 아래 척추 가로돌기
+- **정지:** 위 척추 가로돌기
+- **주요 작용:** 분절 가쪽굽힘·안정 보조
+- **신경지배:** 부위·갈래에 따라 척수신경 앞가지 또는 뒤가지
+- **대표 혈관:** 깊은목동맥·허리동맥 등
+- **식별·비교:** 목·허리의 앞뒤·안가쪽 갈래에 따라 지배가 다르므로 모두 뒤가지라고 단순화하지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 횡돌간근 · 가로돌기사이근 · Intertransversarii · intertransversarii
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-intertransversarii)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [사람 허리 뒤가지 해부 연구](https://pubmed.ncbi.nlm.nih.gov/7076562/)
+
+<span id="anatomy-longissimus"></span>
+
+**최장근**
+
+- **영문명:** Longissimus
+- **기시:** 엉치뼈·허리 공통힘줄 및 아래 가로돌기 계통
+- **정지:** 위 가로돌기·갈비뼈·꼭지돌기 계통
+- **주요 작용:** 척주·목·머리 폄과 같은쪽 가쪽굽힘
+- **신경지배:** 척수신경 뒤가지
+- **대표 혈관:** 깊은목동맥·뒤갈비사이동맥·허리동맥
+- **식별·비교:** 척주세움근의 가운데 기둥이다. 머리 부분의 꼭지돌기 정지를 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 최장근 · 가장긴근 · Longissimus · longissimus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-longissimus)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-multifidus"></span>
+
+**다열근**
+
+- **영문명:** Multifidus
+- **기시:** 엉치뼈·장골 뒤쪽·척추 가로돌기와 관절돌기 계통
+- **정지:** 2–4분절 위 가시돌기
+- **주요 작용:** 척추 분절 안정·폄·반대쪽 회전 보조
+- **신경지배:** 척수신경 뒤가지 안쪽가지
+- **대표 혈관:** 분절성 뒤갈비사이동맥·허리동맥 등
+- **식별·비교:** 척주 전체 계통 카드다. 기존 요부 다열근 도해 카드는 허리 부위로 범위가 좁다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 다열근 · 뭇갈래근 · Multifidus · multifidus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-multifidus)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-obliquus-capitis-inferior"></span>
+
+**하두사근**
+
+- **영문명:** Obliquus capitis inferior
+- **기시:** 축추 C2 가시돌기
+- **정지:** 환추 C1 가로돌기
+- **주요 작용:** 환추·머리의 같은쪽 회전
+- **신경지배:** 후두하신경 C1 뒤가지
+- **대표 혈관:** 뒤통수동맥 계통
+- **식별·비교:** 후두하근 중 두개골에 직접 붙지 않는다. C2–C1 연결을 큰뒤머리곧은근과 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 하두사근 · 아래머리빗근 · Obliquus capitis inferior · obliquus capitis inferior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-obliquus-capitis-inferior)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-obliquus-capitis-superior"></span>
+
+**상두사근**
+
+- **영문명:** Obliquus capitis superior
+- **기시:** 환추 C1 가로돌기
+- **정지:** 뒤통수뼈 아래목덜미선 위
+- **주요 작용:** 머리 폄·같은쪽 가쪽굽힘 보조
+- **신경지배:** 후두하신경 C1 뒤가지
+- **대표 혈관:** 뒤통수동맥 계통
+- **식별·비교:** 환추에서 두개골로 이어지며 후두하삼각의 위가쪽 경계를 이룬다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상두사근 · 위머리빗근 · Obliquus capitis superior · obliquus capitis superior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-obliquus-capitis-superior)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-rectus-capitis-posterior-major"></span>
+
+**대후두직근**
+
+- **영문명:** Rectus capitis posterior major
+- **기시:** 축추 C2 가시돌기
+- **정지:** 아래목덜미선 가쪽
+- **주요 작용:** 머리 폄·같은쪽 회전
+- **신경지배:** 후두하신경 C1 뒤가지
+- **대표 혈관:** 뒤통수동맥 계통
+- **식별·비교:** 작은뒤머리곧은근의 C1 기시·안쪽 정지와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 대후두직근 · 큰뒤머리곧은근 · Rectus capitis posterior major · rectus capitis posterior major
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-rectus-capitis-posterior-major)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-rectus-capitis-posterior-minor"></span>
+
+**소후두직근**
+
+- **영문명:** Rectus capitis posterior minor
+- **기시:** 환추 C1 뒤결절
+- **정지:** 아래목덜미선 안쪽
+- **주요 작용:** 머리 폄·자세 안정 보조
+- **신경지배:** 후두하신경 C1 뒤가지
+- **대표 혈관:** 뒤통수동맥 계통
+- **식별·비교:** C1 뒤결절에서 시작하며 큰뒤머리곧은근보다 깊고 안쪽에 놓인다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 소후두직근 · 작은뒤머리곧은근 · Rectus capitis posterior minor · rectus capitis posterior minor
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-rectus-capitis-posterior-minor)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-rotatores"></span>
+
+**회선근**
+
+- **영문명:** Rotatores
+- **기시:** 척추 가로돌기
+- **정지:** 짧은갈래 1분절·긴갈래 2분절 위 고리판·가시돌기 부근
+- **주요 작용:** 반대쪽 회전·분절 안정 보조
+- **신경지배:** 척수신경 뒤가지
+- **대표 혈관:** 뒤갈비사이동맥·허리동맥 등
+- **식별·비교:** 가로돌기에서 위 안쪽으로 가는 짧은 근육이며 뭇갈래근보다 적은 분절을 잇는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 회선근 · 돌림근 · Rotatores · rotatores
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-rotatores)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-semispinalis"></span>
+
+**반극근**
+
+- **영문명:** Semispinalis
+- **기시:** 가슴·목 가로돌기 계통
+- **정지:** 4–6분절 위 가시돌기 또는 뒤통수뼈
+- **주요 작용:** 목·머리·등 폄과 반대쪽 회전
+- **신경지배:** 척수신경 뒤가지
+- **대표 혈관:** 깊은목동맥·뒤갈비사이동맥 등
+- **식별·비교:** 머리·목·가슴 부분을 나눈다. 머리 부분은 두개골 정지가 있으므로 가시돌기만 외우지 않는다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 반극근 · 반가시근 · Semispinalis · semispinalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-semispinalis)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-serratus-posterior-inferior"></span>
+
+**하후거근**
+
+- **영문명:** Serratus posterior inferior
+- **기시:** 흉요근막·T11–L2 가시돌기 계통
+- **정지:** 제9–12갈비뼈 각 가쪽
+- **주요 작용:** 아래 갈비뼈 하강 보조로 기술; 감각·고유감각 역할도 논의됨
+- **신경지배:** T9–T12 척수신경 앞가지 계통
+- **대표 혈관:** 아래 뒤갈비사이동맥·갈비밑동맥
+- **식별·비교:** 깊은 등고유근과 달리 앞가지 계통이다. 호흡 작용만으로 전체 기능을 단정하지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 하후거근 · 아래뒤톱니근 · Serratus posterior inferior · serratus posterior inferior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-serratus-posterior-inferior)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) · [뒤톱니근 해부·기능 연구](https://pubmed.ncbi.nlm.nih.gov/11424195/)
+
+<span id="anatomy-serratus-posterior-superior"></span>
+
+**상후거근**
+
+- **영문명:** Serratus posterior superior
+- **기시:** 목덜미인대 하부·C7–T3 가시돌기 계통
+- **정지:** 주로 제2–5갈비뼈 각 가쪽; 표별 범위 차이 있음
+- **주요 작용:** 위 갈비뼈 거상 보조로 기술; 감각·고유감각 역할도 논의됨
+- **신경지배:** 상부 갈비사이신경
+- **대표 혈관:** 위 뒤갈비사이동맥
+- **식별·비교:** 앞톱니근의 견갑골 정지·긴가슴신경 지배와 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상후거근 · 위뒤톱니근 · Serratus posterior superior · serratus posterior superior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-serratus-posterior-superior)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) · [뒤톱니근 해부·기능 연구](https://pubmed.ncbi.nlm.nih.gov/11424195/)
+
+<span id="anatomy-spinalis"></span>
+
+**극근**
+
+- **영문명:** Spinalis
+- **기시:** 아래 가시돌기 계통
+- **정지:** 위 가시돌기 계통; 머리 부분은 뒤통수 계통
+- **주요 작용:** 척주·목 폄
+- **신경지배:** 척수신경 뒤가지
+- **대표 혈관:** 분절성 뒤갈비사이동맥·허리동맥 등
+- **식별·비교:** 척주세움근의 안쪽 기둥으로 형태·분리가 부위마다 다르다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 극근 · 가시근 · Spinalis · spinalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-spinalis)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-splenius"></span>
+
+**판상근군**
+
+- **영문명:** Splenius
+- **기시:** 목덜미인대 하부·목 및 위가슴 가시돌기
+- **정지:** 머리 부분은 꼭지돌기·위목덜미선, 목 부분은 위목 가로돌기
+- **주요 작용:** 양측 폄; 한쪽 같은쪽 회전·가쪽굽힘
+- **신경지배:** 목 척수신경 뒤가지
+- **대표 혈관:** 깊은목동맥·뒤통수동맥 계통
+- **식별·비교:** 머리·목 두 부분의 묶음이다. 반가시근의 반대쪽 돌림과 비교한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 판상근군 · 널판근군 · Splenius · splenius
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-splenius)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/) · [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-splenius-capitis"></span>
+
+**두판상근**
+
+- **영문명:** Splenius capitis
+- **기시:** 목덜미인대 하부·C7–상부 흉추 가시돌기
+- **정지:** 꼭지돌기·위목덜미선 가쪽
+- **주요 작용:** 머리 폄·같은쪽 회전·가쪽굽힘
+- **신경지배:** 목 척수신경 뒤가지
+- **대표 혈관:** 뒤통수동맥·깊은목동맥
+- **식별·비교:** 두개골 정지를 목널판근의 가로돌기 정지와 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 두판상근 · 머리널판근 · Splenius capitis · splenius capitis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-splenius-capitis)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+<span id="anatomy-splenius-cervicis"></span>
+
+**경판상근**
+
+- **영문명:** Splenius cervicis
+- **기시:** 상부 흉추 가시돌기 계통
+- **정지:** C1–C3·4 가로돌기 뒤결절
+- **주요 작용:** 목 폄·같은쪽 회전·가쪽굽힘
+- **신경지배:** 목 척수신경 뒤가지
+- **대표 혈관:** 깊은목동맥
+- **식별·비교:** 위목 척추에 정지하며 꼭지돌기에 붙는 머리널판근과 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 경판상근 · 목널판근 · Splenius cervicis · splenius cervicis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-splenius-cervicis)
+참고: [UAMS 등·뒤통수 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 입천장·인두·후두 · 22개 카드</summary>
+
+<span id="anatomy-aryepiglottic"></span>
+
+**피열후두개근**
+
+- **영문명:** Aryepiglottic
+- **기시:** 모뿔연골 위쪽
+- **정지:** 후두덮개 가쪽
+- **주요 작용:** 후두 입구 좁힘·삼킴 보호 보조
+- **신경지배:** 되돌이후두신경 계통 X
+- **대표 혈관:** 위후두동맥 계통
+- **식별·비교:** 빗모뿔근 섬유와 이어지는 후두 입구 근육 부분이다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 피열후두개근 · 모뿔덮개근 · Aryepiglottic · aryepiglottic
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-aryepiglottic)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-oblique-arytenoid"></span>
+
+**사피열근**
+
+- **영문명:** Oblique arytenoid
+- **기시:** 모뿔연골 근육돌기
+- **정지:** 반대쪽 모뿔연골 꼭대기
+- **주요 작용:** 모뿔연골 접근·성문 뒤쪽 폐쇄 보조
+- **신경지배:** 되돌이후두신경 계통 X
+- **대표 혈관:** 위후두동맥 계통
+- **식별·비교:** 양쪽 섬유가 X자로 교차하며 가로모뿔근보다 뒤에 놓인다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 사피열근 · 빗모뿔근 · Oblique arytenoid · arytenoid, oblique · oblique arytenoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-oblique-arytenoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-transverse-arytenoid"></span>
+
+**횡피열근**
+
+- **영문명:** Transverse arytenoid
+- **기시:** 한쪽 모뿔연골 뒷면
+- **정지:** 반대쪽 모뿔연골 뒷면
+- **주요 작용:** 모뿔연골 접근·성문 뒤쪽 폐쇄
+- **신경지배:** 양쪽 되돌이후두신경 계통 X
+- **대표 혈관:** 위후두동맥 계통
+- **식별·비교:** 짝이 아닌 가로 근육으로 기술하며 원문의 반복 행은 같은 카드로 연결한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 횡피열근 · 가로모뿔근 · Transverse arytenoid · arytenoid, transverse · transverse arytenoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-transverse-arytenoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-inferior-pharyngeal-constrictor"></span>
+
+**하인두수축근**
+
+- **영문명:** Inferior pharyngeal constrictor
+- **기시:** 갑상연골 빗선·반지연골 가쪽
+- **정지:** 인두솔기 계통
+- **주요 작용:** 아래 인두 수축·식도 입구 조절
+- **신경지배:** 미주신경 X 계통; 인두신경총·후두신경 가지
+- **대표 혈관:** 오름인두·위아래갑상동맥
+- **식별·비교:** 방패인두 부분과 반지인두 부분을 구분하고 반지인두근을 하위 부분으로 읽는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 하인두수축근 · 아래인두수축근 · Inferior pharyngeal constrictor · constrictor, inferior pharyngeal · inferior pharyngeal constrictor
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-inferior-pharyngeal-constrictor)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-middle-pharyngeal-constrictor"></span>
+
+**중인두수축근**
+
+- **영문명:** Middle pharyngeal constrictor
+- **기시:** 설골 큰·작은뿔·붓목뿔인대
+- **정지:** 인두솔기
+- **주요 작용:** 중간 인두 수축
+- **신경지배:** 미주신경 X의 인두신경총
+- **대표 혈관:** 오름인두동맥
+- **식별·비교:** 설골 기시를 위 근육의 턱·날개판 기시와 아래 근육의 후두연골 기시 사이에서 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 중인두수축근 · 중간인두수축근 · Middle pharyngeal constrictor · constrictor, middle pharyngeal · middle pharyngeal constrictor
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-middle-pharyngeal-constrictor)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-superior-pharyngeal-constrictor"></span>
+
+**상인두수축근**
+
+- **영문명:** Superior pharyngeal constrictor
+- **기시:** 날개판·날개갈고리·날개아래턱솔기·아래턱 부근
+- **정지:** 인두솔기·인두결절
+- **주요 작용:** 위쪽 인두 수축
+- **신경지배:** 미주신경 X의 인두신경총
+- **대표 혈관:** 오름인두동맥
+- **식별·비교:** 인두 벽의 위쪽 둘레근이며 중간·아래 근육과 층별 겹침을 본다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상인두수축근 · 위인두수축근 · Superior pharyngeal constrictor · constrictor, superior pharyngeal · superior pharyngeal constrictor
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-superior-pharyngeal-constrictor)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-lateral-cricoarytenoid"></span>
+
+**외측윤상피열근**
+
+- **영문명:** Lateral cricoarytenoid
+- **기시:** 반지연골 활 위가쪽
+- **정지:** 모뿔연골 근육돌기
+- **주요 작용:** 성대 모음
+- **신경지배:** 되돌이후두신경 계통 X
+- **대표 혈관:** 위·아래후두동맥 계통
+- **식별·비교:** 뒤반지모뿔근의 벌림과 반대 작용이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 외측윤상피열근 · 가쪽반지모뿔근 · Lateral cricoarytenoid · cricoarytenoid, lateral · lateral cricoarytenoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-lateral-cricoarytenoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-posterior-cricoarytenoid"></span>
+
+**후윤상피열근**
+
+- **영문명:** Posterior cricoarytenoid
+- **기시:** 반지연골판 뒷면
+- **정지:** 모뿔연골 근육돌기
+- **주요 작용:** 성대 벌림
+- **신경지배:** 되돌이후두신경 계통 X
+- **대표 혈관:** 위·아래후두동맥 계통
+- **식별·비교:** 성대를 벌리는 유일한 후두 내재근이라는 점을 다른 모음근들과 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 후윤상피열근 · 뒤반지모뿔근 · Posterior cricoarytenoid · cricoarytenoid, posterior · posterior cricoarytenoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-posterior-cricoarytenoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-cricopharyngeus"></span>
+
+**윤상인두근**
+
+- **영문명:** Cricopharyngeus
+- **기시:** 반지연골 가쪽
+- **정지:** 식도 입구 뒤쪽 둘레근 계통
+- **주요 작용:** 윗식도조임근의 긴장·삼킴 시 이완 조절
+- **신경지배:** 미주신경 X의 인두·후두신경 가지
+- **대표 혈관:** 아래갑상·오름인두동맥 계통
+- **식별·비교:** 아래인두수축근의 하부이다. 평소 폐쇄와 삼킴 중 이완을 구분한다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 윤상인두근 · 반지인두근 · Cricopharyngeus · cricopharyngeus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-cricopharyngeus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-cricothyroid"></span>
+
+**윤상갑상근**
+
+- **영문명:** Cricothyroid
+- **기시:** 반지연골 활 앞가쪽
+- **정지:** 갑상연골 아래모서리·아래뿔
+- **주요 작용:** 성대 길이·긴장 증가
+- **신경지배:** 위후두신경 바깥가지 X
+- **대표 혈관:** 위갑상동맥 반지방패가지
+- **식별·비교:** 대부분의 후두 내재근과 달리 되돌이후두신경 계통이 아닌 위후두신경 바깥가지다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 윤상갑상근 · 반지방패근 · Cricothyroid · cricothyroid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-cricothyroid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-levator-veli-palatini"></span>
+
+**구개범거근**
+
+- **영문명:** Levator veli palatini
+- **기시:** 관자뼈 바위부분·귀관 연골
+- **정지:** 입천장널힘줄·물렁입천장
+- **주요 작용:** 물렁입천장 올림
+- **신경지배:** 미주신경 X의 인두신경총
+- **대표 혈관:** 오름인두동맥 등
+- **식별·비교:** 삼킴에서 코인두 쪽 폐쇄에 참여하며 입천장긴장근의 V3 지배와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구개범거근 · 입천장올림근 · Levator veli palatini · levator veli palatini
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levator-veli-palatini)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-uvulae"></span>
+
+**구개수근**
+
+- **영문명:** Uvulae
+- **기시:** 뒤코가시·입천장널힘줄
+- **정지:** 목젖 결합조직
+- **주요 작용:** 목젖 길이 줄이기·물렁입천장 중앙 두께 조절
+- **신경지배:** 미주신경 X의 인두신경총
+- **대표 혈관:** 작은입천장동맥
+- **식별·비교:** 목젖 점막 자체와 그 안의 쌍근육을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구개수근 · 목젖근 · Uvulae · musculus uvulae
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-uvulae)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-palatoglossus"></span>
+
+**구개설근**
+
+- **영문명:** Palatoglossus
+- **기시:** 입천장널힘줄
+- **정지:** 혀 가쪽
+- **주요 작용:** 혀 뒤부분 거상·입인두협부 좁힘
+- **신경지배:** 미주신경 X의 인두신경총
+- **대표 혈관:** 편도가지·오름인두동맥
+- **식별·비교:** 혀와 연결되지만 XII 지배가 아닌 X 계통이라는 예외를 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구개설근 · 입천장혀근 · Palatoglossus · palatoglossus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-palatoglossus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-palatopharyngeus"></span>
+
+**구개인두근**
+
+- **영문명:** Palatopharyngeus
+- **기시:** 단단입천장 뒤쪽·입천장널힘줄
+- **정지:** 인두벽·갑상연골 뒤모서리 계통
+- **주요 작용:** 인두·후두 거상; 삼킴 때 인두 길이 조절
+- **신경지배:** 미주신경 X의 인두신경총
+- **대표 혈관:** 오름인두동맥
+- **식별·비교:** 수축근의 둘레 섬유와 달리 인두의 세로 근육 계통이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구개인두근 · 입천장인두근 · Palatopharyngeus · palatopharyngeus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-palatopharyngeus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-salpingopharyngeus"></span>
+
+**이관인두근**
+
+- **영문명:** Salpingopharyngeus
+- **기시:** 귀관 연골 아래안쪽
+- **정지:** 입천장인두근·인두벽 계통
+- **주요 작용:** 인두·후두 거상 보조
+- **신경지배:** 미주신경 X의 인두신경총
+- **대표 혈관:** 오름인두동맥
+- **식별·비교:** 귀관 아래에서 내려오는 가는 세로근으로 입천장인두근과 연결된다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 이관인두근 · 귀관인두근 · Salpingopharyngeus · salpingopharyngeus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-salpingopharyngeus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-sphenomeniscus"></span>
+
+**외측익돌근 상두**
+
+- **영문명:** Sphenomeniscus
+- **기시:** 나비뼈 큰날개
+- **정지:** 턱관절 원판·관절주머니 계통
+- **주요 작용:** 원판·관절주머니의 위치 조절과 턱 움직임 협동
+- **신경지배:** 삼차신경 아래턱가지 V3의 가쪽날개근 가지
+- **대표 혈관:** 위턱동맥 날개근가지
+- **식별·비교:** 별개 독립근의 일반 명칭이 아닌 외측익돌근 위갈래의 다른 이름이다. 아래갈래와 작용을 동일하게 외우지 않는다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 외측익돌근 상두 · 가쪽날개근 위갈래 · Sphenomeniscus · sphenomeniscus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-sphenomeniscus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-stylopharyngeus"></span>
+
+**경상인두근**
+
+- **영문명:** Stylopharyngeus
+- **기시:** 관자뼈 붓돌기 안쪽
+- **정지:** 인두벽·갑상연골 계통
+- **주요 작용:** 인두·후두 거상
+- **신경지배:** 설인신경 IX
+- **대표 혈관:** 오름인두동맥
+- **식별·비교:** 인두근 가운데 IX 운동지배의 대표 예외다. 붓혀근의 XII 지배와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 경상인두근 · 붓인두근 · Stylopharyngeus · stylopharyngeus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-stylopharyngeus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-tensor-veli-palatini"></span>
+
+**구개범장근**
+
+- **영문명:** Tensor veli palatini
+- **기시:** 나비뼈·귀관 연골 가쪽
+- **정지:** 날개갈고리를 돌아 입천장널힘줄
+- **주요 작용:** 물렁입천장 긴장·귀관 열림 보조
+- **신경지배:** 삼차신경 아래턱가지 V3
+- **대표 혈관:** 오름인두동맥 등
+- **식별·비교:** 대부분의 입천장근과 달리 V3 지배이며 힘줄이 날개갈고리에서 방향을 바꾼다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구개범장근 · 입천장긴장근 · Tensor veli palatini · tensor veli palatini
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-tensor-veli-palatini)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-thyroarytenoid"></span>
+
+**갑상피열근**
+
+- **영문명:** Thyroarytenoid
+- **기시:** 갑상연골 안쪽 앞부분
+- **정지:** 모뿔연골 앞가쪽
+- **주요 작용:** 성대 단축·긴장 조절·모음 보조
+- **신경지배:** 되돌이후두신경 계통 X
+- **대표 혈관:** 위·아래후두동맥 계통
+- **식별·비교:** 안쪽 섬유인 성대근과 위쪽의 방패덮개 부분을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 갑상피열근 · 방패모뿔근 · Thyroarytenoid · thyroarytenoid
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-thyroarytenoid)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-thyroepiglottic"></span>
+
+**갑상후두개근**
+
+- **영문명:** Thyroepiglottic
+- **기시:** 갑상연골 안쪽
+- **정지:** 후두덮개 가쪽·주변 막
+- **주요 작용:** 후두덮개와 입구 형태 조절
+- **신경지배:** 되돌이후두신경 계통 X
+- **대표 혈관:** 위후두동맥 계통
+- **식별·비교:** 방패모뿔근의 위쪽 연장으로 기술한다. 단일 작용보다 섬유·연골 연결을 먼저 확인한다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 갑상후두개근 · 방패덮개근 · Thyroepiglottic · thyroepiglottic
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-thyroepiglottic)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-trachealis"></span>
+
+**기관근**
+
+- **영문명:** Trachealis
+- **배치·기원:** 기관 연골고리 뒤쪽 끝
+- **연결·층:** 반대쪽 연골 끝·기관 뒤 막벽
+- **주요 작용:** 기관 지름 조절·기침 때 좁힘 보조
+- **신경지배:** 미주신경 부교감 계통 등 자율신경 조절
+- **대표 혈관:** 아래갑상동맥·기관지동맥 계통
+- **식별·비교:** 기관 뒤벽의 평활근이다. 앞쪽의 C자 연골과 뒤쪽 식도 관계를 확인한다.
+- **근육 유형:** 평활근 · 자율신경 조절
+
+- **다른 표기:** 기관근 · 기관평활근 · Trachealis · trachealis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-trachealis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-vocalis"></span>
+
+**성대근**
+
+- **영문명:** Vocalis
+- **기시:** 모뿔연골 성대돌기·갑상연골 계통
+- **정지:** 성대인대 옆·내부 섬유
+- **주요 작용:** 성대의 국소 긴장 미세 조절
+- **신경지배:** 되돌이후두신경 계통 X
+- **대표 혈관:** 위·아래후두동맥 계통
+- **식별·비교:** 방패모뿔근의 안쪽 부분이다. 반지방패근의 전체 긴장 증가와 비교한다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 성대근 · 목소리근 · Vocalis · vocalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vocalis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 얼굴·두피·귓바퀴 · 22개 카드</summary>
+
+<span id="anatomy-auricular"></span>
+
+**이개근군**
+
+- **영문명:** Auricular
+- **기시:** 앞·위는 머리덮개널힘줄 계통, 뒤는 꼭지돌기
+- **정지:** 귓바퀴 앞·위·뒤
+- **주요 작용:** 귓바퀴의 작은 위치 변화
+- **신경지배:** 앞·위 안면신경 관자가지, 뒤 안면신경 뒤귓바퀴가지
+- **대표 혈관:** 얕은관자동맥·뒤귓바퀴동맥
+- **식별·비교:** 세 근육의 묶음으로 중이의 등자근·고막긴장근과 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 이개근군 · 귓바퀴근군 · Auricular · auricular
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-auricular)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-buccinator"></span>
+
+**협근**
+
+- **영문명:** Buccinator
+- **기시:** 위·아래턱 어금니 부근·날개아래턱솔기
+- **정지:** 입꼬리·입둘레근 계통
+- **주요 작용:** 볼을 치아에 밀착·음식물 유지·불기 보조
+- **신경지배:** 안면신경 볼가지
+- **대표 혈관:** 얼굴동맥·볼동맥 계통
+- **식별·비교:** 씹기를 돕지만 운동지배는 VII이다. V3의 볼신경은 주로 감각신경이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 협근 · 볼근 · Buccinator · buccinator
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-buccinator)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-corrugator-supercilii"></span>
+
+**추미근**
+
+- **영문명:** Corrugator supercilii
+- **기시:** 안쪽 눈썹활
+- **정지:** 눈썹 안쪽 피부
+- **주요 작용:** 눈썹을 안쪽·아래로 당김
+- **신경지배:** 안면신경 관자가지 계통
+- **대표 혈관:** 도르래위동맥
+- **식별·비교:** 미간의 세로 주름을 코근·눈둘레근의 작용과 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 추미근 · 눈썹주름근 · Corrugator supercilii · corrugator
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-corrugator-supercilii)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-depressor-anguli-oris"></span>
+
+**구각하제근**
+
+- **영문명:** Depressor anguli oris
+- **기시:** 아래턱뼈 빗선
+- **정지:** 입꼬리 근육결절
+- **주요 작용:** 입꼬리 내림
+- **신경지배:** 안면신경 아래턱모서리가지 등
+- **대표 혈관:** 아래입술동맥·턱끝동맥
+- **식별·비교:** 아랫입술 자체보다 입꼬리 위치를 내리는 근육이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구각하제근 · 입꼬리내림근 · Depressor anguli oris · depressor anguli oris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-depressor-anguli-oris)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-depressor-labii-inferioris"></span>
+
+**하순하제근**
+
+- **영문명:** Depressor labii inferioris
+- **기시:** 아래턱뼈 앞면
+- **정지:** 아랫입술 피부
+- **주요 작용:** 아랫입술 내림·뒤집기
+- **신경지배:** 안면신경 아래턱모서리가지
+- **대표 혈관:** 아래입술동맥·턱끝동맥
+- **식별·비교:** 입꼬리내림근과 정지점·입술 움직임을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 하순하제근 · 아래입술내림근 · Depressor labii inferioris · depressor labii inferioris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-depressor-labii-inferioris)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-depressor-septi-nasi"></span>
+
+**비중격하제근**
+
+- **영문명:** Depressor septi nasi
+- **기시:** 위턱뼈 앞 정중부
+- **정지:** 움직이는 코중격·코 날개 부근
+- **주요 작용:** 코중격 하강·코 입구 형태 조절
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 위입술동맥
+- **식별·비교:** 코근의 일부로 묶어 기술하기도 하며 코중격의 연골 자체와 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 비중격하제근 · 코중격내림근 · Depressor septi nasi · depressor septi
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-depressor-septi-nasi)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-occipitofrontalis"></span>
+
+**후두전두근**
+
+- **영문명:** Occipitofrontalis
+- **기시:** 뒤힘살은 위목덜미선, 앞힘살은 머리덮개널힘줄
+- **정지:** 뒤힘살은 머리덮개널힘줄, 앞힘살은 눈썹 피부
+- **주요 작용:** 두피 이동·눈썹 거상·이마 주름
+- **신경지배:** 앞 안면신경 관자가지, 뒤 안면신경 뒤귓바퀴가지
+- **대표 혈관:** 눈확위·도르래위·뒤통수동맥
+- **식별·비교:** epicranius는 같은 계통의 이름이다. 앞·뒤힘살은 널힘줄로 연결된다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 후두전두근 · 뒤통수이마근 · Occipitofrontalis · epicranius · occipitofrontalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-occipitofrontalis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-frontalis"></span>
+
+**전두근**
+
+- **영문명:** Frontalis
+- **기시:** 머리덮개널힘줄
+- **정지:** 눈썹·이마 피부
+- **주요 작용:** 눈썹 올림·가로 이마 주름
+- **신경지배:** 안면신경 관자가지
+- **대표 혈관:** 눈확위동맥·도르래위동맥
+- **식별·비교:** 후두전두근의 앞힘살이다. 눈꺼풀 자체를 올리는 상안검거근과 다르다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 전두근 · 이마근 · Frontalis · frontalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-frontalis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-levator-anguli-oris"></span>
+
+**구각거근**
+
+- **영문명:** Levator anguli oris
+- **기시:** 위턱뼈 송곳니오목
+- **정지:** 입꼬리 근육결절
+- **주요 작용:** 입꼬리 올림
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 눈확아래동맥·위입술동맥
+- **식별·비교:** 윗입술올림근의 깊은 곳에 있으며 입꼬리에 모인다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구각거근 · 입꼬리올림근 · Levator anguli oris · levator anguli oris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levator-anguli-oris)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-levator-labii-superioris"></span>
+
+**상순거근**
+
+- **영문명:** Levator labii superioris
+- **기시:** 위턱뼈 눈확아래모서리
+- **정지:** 윗입술 피부
+- **주요 작용:** 윗입술 올림
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 눈확아래동맥·위입술동맥
+- **식별·비교:** 코 날개와 함께 연결되는 근육과 정지 범위를 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상순거근 · 위입술올림근 · Levator labii superioris · levator labii superioris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levator-labii-superioris)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-levator-labii-superioris-alaque-nasi"></span>
+
+**상순비익거근**
+
+- **영문명:** Levator labii superioris alaque nasi
+- **기시:** 위턱뼈 이마돌기
+- **정지:** 윗입술·코 날개
+- **주요 작용:** 윗입술 거상·콧구멍 확장 보조
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 얼굴동맥 위입술가지 계통
+- **식별·비교:** 코 옆에서 입술과 코 날개에 함께 붙는 가는 근육이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상순비익거근 · 위입술콧방울올림근 · Levator labii superioris alaque nasi · levator labii superioris alaque nasi
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levator-labii-superioris-alaque-nasi)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-mentalis"></span>
+
+**이근**
+
+- **영문명:** Mentalis
+- **기시:** 아래턱뼈 턱끝 정중 부근
+- **정지:** 턱끝 피부
+- **주요 작용:** 턱끝 피부 거상·아랫입술 내밀기 보조
+- **신경지배:** 안면신경 아래턱모서리가지
+- **대표 혈관:** 턱끝동맥·아래입술동맥
+- **식별·비교:** 뼈 사이를 연결하는 씹기근이 아닌 표정근이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 이근 · 턱끝근 · Mentalis · mentalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-mentalis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-nasalis"></span>
+
+**비근**
+
+- **영문명:** Nasalis
+- **기시:** 위턱뼈 앞면
+- **정지:** 코등 널힘줄·코 날개
+- **주요 작용:** 가로부분은 코 입구 압박, 날개부분은 확장 보조
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 위입술동맥 계통
+- **식별·비교:** 가로부분과 날개부분의 묶음으로 두 부분을 같은 작용으로 외우지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 비근 · 코근 · Nasalis · nasalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-nasalis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-nasalis-pars-alaris"></span>
+
+**비근 날개부분**
+
+- **영문명:** Nasalis pars alaris
+- **기시:** 위턱뼈 송곳니 위 부근
+- **정지:** 코 날개
+- **주요 작용:** 콧구멍 확장 보조
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 위입술동맥 계통
+- **식별·비교:** 코근의 하위 부분으로 가로부분의 압박과 비교한다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 비근 날개부분 · 코근 날개부분 · Nasalis pars alaris · nasalis pars alaris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-nasalis-pars-alaris)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-nasalis-pars-transversa"></span>
+
+**비근 가로부분**
+
+- **영문명:** Nasalis pars transversa
+- **기시:** 위턱뼈 앞니 위 부근
+- **정지:** 코등 정중 널힘줄
+- **주요 작용:** 코 입구 압박·코 형태 조절
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 위입술동맥 계통
+- **식별·비교:** 반대쪽 섬유와 코등에서 만나며 날개부분과 구분한다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 비근 가로부분 · 코근 가로부분 · Nasalis pars transversa · nasalis pars transversa
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-nasalis-pars-transversa)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-occipitalis"></span>
+
+**후두근**
+
+- **영문명:** Occipitalis
+- **기시:** 위목덜미선 가쪽·꼭지돌기 계통
+- **정지:** 머리덮개널힘줄
+- **주요 작용:** 두피를 뒤로 당기고 널힘줄 고정
+- **신경지배:** 안면신경 뒤귓바퀴가지
+- **대표 혈관:** 뒤통수동맥
+- **식별·비교:** 후두전두근의 뒤힘살로 깊은 후두하근의 C1 뒤가지 지배와 구분한다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 후두근 · 뒤통수근 · Occipitalis · occipitalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-occipitalis)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-orbicularis-oculi"></span>
+
+**안륜근**
+
+- **영문명:** Orbicularis oculi
+- **기시:** 안쪽 눈확모서리·안쪽눈꺼풀인대 계통
+- **정지:** 눈꺼풀 솔기·눈 주변 피부
+- **주요 작용:** 눈꺼풀 닫기·깜박임
+- **신경지배:** 안면신경 관자·광대가지
+- **대표 혈관:** 눈확위·도르래위·눈확아래동맥 등
+- **식별·비교:** 눈꺼풀부분의 가벼운 닫힘과 눈확부분의 강한 닫힘을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 안륜근 · 눈둘레근 · Orbicularis oculi · orbicularis oculi
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-orbicularis-oculi)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-orbicularis-oris"></span>
+
+**구륜근**
+
+- **영문명:** Orbicularis oris
+- **기시:** 입 주위 여러 표정근·입술 결합조직
+- **정지:** 입술 피부·점막 계통
+- **주요 작용:** 입술 닫기·오므리기
+- **신경지배:** 안면신경 볼·아래턱모서리가지 계통
+- **대표 혈관:** 위·아래입술동맥
+- **식별·비교:** 단순한 뼈 기시 하나가 아닌 복합 섬유계통으로 볼근·입꼬리 근육과 연결된다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 구륜근 · 입둘레근 · Orbicularis oris · orbicularis oris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-orbicularis-oris)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-procerus"></span>
+
+**비근근**
+
+- **영문명:** Procerus
+- **기시:** 코뼈·윗코 연골 근막
+- **정지:** 미간 피부
+- **주요 작용:** 눈썹 안쪽 내림·코뿌리 가로주름
+- **신경지배:** 안면신경 가지
+- **대표 혈관:** 도르래위동맥·얼굴동맥 가지
+- **식별·비교:** 눈썹주름근의 세로주름과 눈살근의 코뿌리 가로주름을 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 비근근 · 눈살근 · Procerus · procerus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-procerus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-risorius"></span>
+
+**소근**
+
+- **영문명:** Risorius
+- **기시:** 볼·귀밑샘 주변 얕은근막
+- **정지:** 입꼬리
+- **주요 작용:** 입꼬리를 가쪽으로 당김
+- **신경지배:** 안면신경 볼가지
+- **대표 혈관:** 얼굴동맥·가로얼굴동맥
+- **식별·비교:** 큰광대근의 위가쪽 이동과 달리 주로 가로 방향의 뒤당김이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 소근 · 웃음근 · Risorius · risorius
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-risorius)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-zygomaticus-major"></span>
+
+**대관골근**
+
+- **영문명:** Zygomaticus major
+- **기시:** 광대뼈 가쪽면
+- **정지:** 입꼬리
+- **주요 작용:** 입꼬리 위가쪽 당김
+- **신경지배:** 안면신경 광대·볼가지
+- **대표 혈관:** 얼굴동맥·가로얼굴동맥
+- **식별·비교:** 웃을 때 입꼬리 움직임을 윗입술에 붙는 작은광대근과 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 대관골근 · 큰광대근 · Zygomaticus major · zygomaticus major
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-zygomaticus-major)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-zygomaticus-minor"></span>
+
+**소관골근**
+
+- **영문명:** Zygomaticus minor
+- **기시:** 광대뼈 앞아래면
+- **정지:** 윗입술
+- **주요 작용:** 윗입술 올림
+- **신경지배:** 안면신경 볼가지 계통
+- **대표 혈관:** 얼굴동맥·가로얼굴동맥
+- **식별·비교:** 큰광대근보다 안쪽에 놓이고 입꼬리보다는 윗입술 정지가 핵심이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 소관골근 · 작은광대근 · Zygomaticus minor · zygomaticus minor
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-zygomaticus-minor)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 혀 · 7개 카드</summary>
+
+<span id="anatomy-chondroglossus"></span>
+
+**연골설근**
+
+- **영문명:** Chondroglossus
+- **기시:** 설골 작은뿔·인접 몸통
+- **정지:** 혀 속 근육 계통
+- **주요 작용:** 혀 가쪽 내림 보조
+- **신경지배:** 설하신경 XII
+- **대표 혈관:** 혀동맥
+- **식별·비교:** 목뿔혀근의 일부로 분류하기도 하는 작은 외재근 부분이다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 연골설근 · 연골혀근 · Chondroglossus · chondroglossus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-chondroglossus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-genioglossus"></span>
+
+**이설근**
+
+- **영문명:** Genioglossus
+- **기시:** 아래턱뼈 위턱끝가시
+- **정지:** 혀 속·설골 계통으로 부채꼴 분포
+- **주요 작용:** 혀 내밀기·중앙 내림; 섬유별 작용 차이
+- **신경지배:** 설하신경 XII
+- **대표 혈관:** 혀동맥
+- **식별·비교:** 혀의 외재근으로 전체를 단일 방향의 당김만으로 외우지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 이설근 · 턱끝혀근 · Genioglossus · genioglossus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-genioglossus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-hyoglossus"></span>
+
+**설골설근**
+
+- **영문명:** Hyoglossus
+- **기시:** 설골 몸통·큰뿔
+- **정지:** 혀 가쪽
+- **주요 작용:** 혀 가쪽 내림·뒤당김
+- **신경지배:** 설하신경 XII
+- **대표 혈관:** 혀동맥
+- **식별·비교:** 혀동맥은 이 근육의 깊은 쪽을 지난다. 혀 표면에만 붙는 내재근과 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 설골설근 · 목뿔혀근 · Hyoglossus · hyoglossus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-hyoglossus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-longitudinal-muscles-of-tongue"></span>
+
+**혀의 종설근군**
+
+- **영문명:** Longitudinal muscles of tongue
+- **기시:** 혀 내부의 위·아래 세로 섬유층
+- **정지:** 혀끝·혀 가장자리의 결합조직
+- **주요 작용:** 혀 길이 줄이기; 위층은 끝 말아올림·아래층은 말아내림
+- **신경지배:** 설하신경 XII
+- **대표 혈관:** 혀동맥
+- **식별·비교:** 상·하 두 근육의 묶음이다. 뼈에서 출발하는 외재근과 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 혀의 종설근군 · 혀세로근군 · 상종설근 · 하종설근 · 위세로혀근 · 아래세로혀근 · Longitudinal muscles of tongue · linguae, longitudinalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-longitudinal-muscles-of-tongue)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-transverse-muscle-of-tongue"></span>
+
+**횡설근**
+
+- **영문명:** Transverse muscle of tongue
+- **기시:** 혀 정중격
+- **정지:** 혀 가쪽 결합조직
+- **주요 작용:** 혀를 좁게 하고 길게 함
+- **신경지배:** 설하신경 XII
+- **대표 혈관:** 혀동맥
+- **식별·비교:** 가로 섬유의 수축으로 폭이 줄어드는 형태 변화를 세로·수직 섬유와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 횡설근 · 가로혀근 · Transverse muscle of tongue · linguae, transversus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-transverse-muscle-of-tongue)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-vertical-muscle-of-tongue"></span>
+
+**수직설근**
+
+- **영문명:** Vertical muscle of tongue
+- **기시:** 혀 위쪽 내부층
+- **정지:** 혀 아래쪽 내부층
+- **주요 작용:** 혀를 납작하고 넓게 함
+- **신경지배:** 설하신경 XII
+- **대표 혈관:** 혀동맥
+- **식별·비교:** 세로근의 길이 단축과 달리 위아래 두께가 줄어드는 내재근이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 수직설근 · 수직혀근 · Vertical muscle of tongue · linguae, verticalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vertical-muscle-of-tongue)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-styloglossus"></span>
+
+**경상설근**
+
+- **영문명:** Styloglossus
+- **기시:** 관자뼈 붓돌기·인접 인대
+- **정지:** 혀 뒤가쪽
+- **주요 작용:** 혀 뒤당김·가쪽 올림
+- **신경지배:** 설하신경 XII
+- **대표 혈관:** 혀동맥·오름입천장동맥 계통
+- **식별·비교:** 붓목뿔근·붓인두근과 같은 붓돌기에서 출발하나 정지·지배 신경이 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 경상설근 · 붓혀근 · Styloglossus · styloglossus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-styloglossus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 눈·눈꺼풀 · 10개 카드</summary>
+
+<span id="anatomy-ciliary"></span>
+
+**모양체근**
+
+- **영문명:** Ciliary
+- **배치·기원:** 모양체 내부; 경선섬유는 공막돌기 계통
+- **연결·층:** 모양체 결합조직·맥락막 계통
+- **주요 작용:** 수축 시 섬모체소대 긴장이 줄어 수정체가 두꺼워짐
+- **신경지배:** 동안신경 부교감섬유 → 모양체신경절 → 짧은섬모체신경
+- **대표 혈관:** 눈동맥 계통
+- **식별·비교:** 평활근으로 가까운 거리 조절에 참여한다. 동공 크기를 바꾸는 홍채근과 구분한다.
+- **근육 유형:** 평활근 · 자율신경 조절
+
+- **다른 표기:** 모양체근 · 섬모체근 · Ciliary · ciliary
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-ciliary)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-dilator-pupillae"></span>
+
+**동공산대근**
+
+- **영문명:** Dilator pupillae
+- **배치·기원:** 홍채 뒤층의 방사상 평활근 섬유
+- **연결·층:** 동공 가장자리 계통
+- **주요 작용:** 동공 확대
+- **신경지배:** 위목신경절에서 나온 교감신경 절후섬유·섬모체신경 계통
+- **대표 혈관:** 눈동맥의 섬모체동맥 가지
+- **식별·비교:** 방사상 섬유를 원형 동공조임근의 부교감 지배와 비교한다.
+- **근육 유형:** 평활근 · 자율신경 조절
+
+- **다른 표기:** 동공산대근 · 동공확대근 · Dilator pupillae · dilator pupillae · pupillae, dilator
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-dilator-pupillae)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-inferior-oblique"></span>
+
+**하사근**
+
+- **영문명:** Inferior oblique
+- **기시:** 눈확바닥 앞안쪽 위턱뼈
+- **정지:** 안구 아래뒤쪽 공막
+- **주요 작용:** 바깥회선·거상·벌림
+- **신경지배:** 동안신경 아래가지
+- **대표 혈관:** 눈동맥 근육가지
+- **식별·비교:** 외안근 중 눈확 앞쪽에서 시작한다. 모은 상태의 위 보기를 위곧은근과 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 하사근 · 아래빗근 · Inferior oblique · inferior oblique · oblique, inferior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-inferior-oblique)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-inferior-rectus"></span>
+
+**하직근**
+
+- **영문명:** Inferior rectus
+- **기시:** 눈확꼭대기 온힘줄고리
+- **정지:** 안구 아래쪽 공막
+- **주요 작용:** 하강·모음·바깥회선
+- **신경지배:** 동안신경 아래가지
+- **대표 혈관:** 눈동맥 근육가지
+- **식별·비교:** 눈을 벌린 상태의 아래 보기와 위빗근의 모은 상태 아래 보기를 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 하직근 · 아래곧은근 · Inferior rectus · inferior rectus · rectus, inferior
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-inferior-rectus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-lateral-rectus"></span>
+
+**외직근**
+
+- **영문명:** Lateral rectus
+- **기시:** 눈확꼭대기 온힘줄고리
+- **정지:** 안구 가쪽 공막
+- **주요 작용:** 안구 벌림
+- **신경지배:** 외전신경 VI
+- **대표 혈관:** 눈동맥 근육가지
+- **식별·비교:** 여섯 외안근 가운데 VI 지배 근육이다. 나머지 근육의 III·IV 지배와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 외직근 · 가쪽곧은근 · Lateral rectus · lateral rectus · rectus, lateral
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-lateral-rectus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-levator-palpebrae-superioris"></span>
+
+**상안검거근**
+
+- **영문명:** Levator palpebrae superioris
+- **기시:** 나비뼈 작은날개·시각신경관 위
+- **정지:** 윗눈꺼풀 널힘줄·눈꺼풀판·피부
+- **주요 작용:** 윗눈꺼풀 올림
+- **신경지배:** 골격근은 동안신경 위가지; 위눈꺼풀판근은 교감신경
+- **대표 혈관:** 눈동맥
+- **식별·비교:** 주된 골격근과 별도 평활근인 위눈꺼풀판근을 구분하며 눈둘레근의 닫힘과 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상안검거근 · 위눈꺼풀올림근 · Levator palpebrae superioris · levator palpebrae superioris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levator-palpebrae-superioris)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-medial-rectus"></span>
+
+**내직근**
+
+- **영문명:** Medial rectus
+- **기시:** 눈확꼭대기 온힘줄고리
+- **정지:** 안구 안쪽 공막
+- **주요 작용:** 안구 모음
+- **신경지배:** 동안신경 아래가지
+- **대표 혈관:** 눈동맥 근육가지
+- **식별·비교:** 가쪽곧은근과 길항하며 안쪽 이동과 안쪽회선을 같은 동작으로 보지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 내직근 · 안쪽곧은근 · Medial rectus · medial rectus · rectus, medial
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-medial-rectus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-superior-oblique"></span>
+
+**상사근**
+
+- **영문명:** Superior oblique
+- **기시:** 눈확꼭대기의 나비뼈
+- **정지:** 도르래를 지나 안구 위뒤쪽 공막
+- **주요 작용:** 안쪽회선·하강·벌림
+- **신경지배:** 활차신경 IV
+- **대표 혈관:** 눈동맥 근육가지
+- **식별·비교:** 눈을 모은 상태에서 아래 보는 작용을 살핀다. 도르래에서 힘줄 방향이 바뀐다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상사근 · 위빗근 · Superior oblique · oblique, superior · superior oblique
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-superior-oblique)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-sphincter-pupillae"></span>
+
+**동공괄약근**
+
+- **영문명:** Sphincter pupillae
+- **배치·기원:** 홍채의 동공 가장자리 원형 평활근
+- **연결·층:** 동공을 둘러싸는 연속 고리
+- **주요 작용:** 동공 축소
+- **신경지배:** 동안신경 부교감섬유 → 모양체신경절 → 짧은섬모체신경
+- **대표 혈관:** 눈동맥의 섬모체동맥 가지
+- **식별·비교:** 빛반사의 수축 근육이다. 감각 입력 II와 부교감 출력 III를 구분한다.
+- **근육 유형:** 평활근 · 자율신경 조절
+
+- **다른 표기:** 동공괄약근 · 동공조임근 · Sphincter pupillae · pupillae, sphincter · sphincter pupillae
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-sphincter-pupillae)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-superior-rectus"></span>
+
+**상직근**
+
+- **영문명:** Superior rectus
+- **기시:** 눈확꼭대기 온힘줄고리
+- **정지:** 안구 위쪽 공막
+- **주요 작용:** 거상·모음·안쪽회선
+- **신경지배:** 동안신경 위가지
+- **대표 혈관:** 눈동맥 근육가지
+- **식별·비교:** 눈을 벌린 상태의 위 보기로 수직 작용을 살핀다. 신경 이름만으로 눈꺼풀올림근과 혼동하지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상직근 · 위곧은근 · Superior rectus · rectus, superior · superior rectus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-superior-rectus)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 중이 · 2개 카드</summary>
+
+<span id="anatomy-stapedius"></span>
+
+**등골근**
+
+- **영문명:** Stapedius
+- **기시:** 중이 피라미드융기 속
+- **정지:** 등자뼈 목
+- **주요 작용:** 등자뼈 운동·진동 조절
+- **신경지배:** 안면신경 등자근가지 VII
+- **대표 혈관:** 중이 동맥 가지
+- **식별·비교:** 고막긴장근의 V3 지배와 구분하며 두 근육의 정지 뼈도 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 등골근 · 등자근 · Stapedius · stapedius
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-stapedius)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+<span id="anatomy-tensor-tympani"></span>
+
+**고막긴장근**
+
+- **영문명:** Tensor tympani
+- **기시:** 귀관 연골·나비뼈 및 고막긴장근관
+- **정지:** 망치뼈 자루
+- **주요 작용:** 고막·망치뼈 계통 긴장 조절
+- **신경지배:** 삼차신경 아래턱가지 V3
+- **대표 혈관:** 위고실동맥 계통
+- **식별·비교:** 입천장긴장근과 같은 V3 계통이며 안면신경 지배 등자근과 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 고막긴장근 · 고막긴장근육 · Tensor tympani · tensor tympani
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-tensor-tympani)
+참고: [UAMS 머리·목 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 하지 · 23개 카드</summary>
+
+<span id="anatomy-abductor-digiti-minimi-foot"></span>
+
+**발의 소지외전근**
+
+- **영문명:** Abductor digiti minimi (foot)
+- **기시:** 발꿈치뼈거친면·발바닥널힘줄
+- **정지:** 제5발가락 몸쪽마디뼈 바닥 가쪽
+- **주요 작용:** 제5발가락 벌림·발허리발가락관절 굽힘 보조
+- **신경지배:** 가쪽발바닥신경
+- **대표 혈관:** 가쪽발바닥동맥
+- **식별·비교:** 발바닥 가쪽 가장자리 근육으로 손의 새끼손가락벌림근과 부위를 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 소지외전근 · 새끼발가락벌림근 · Abductor digiti minimi (foot) · abductor digiti minimi (foot)
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-abductor-digiti-minimi-foot)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-abductor-hallucis"></span>
+
+**발의 무지외전근**
+
+- **영문명:** Abductor hallucis
+- **기시:** 발꿈치뼈거친면 안쪽·발바닥널힘줄
+- **정지:** 엄지발가락 몸쪽마디뼈 바닥 안쪽
+- **주요 작용:** 엄지발가락 벌림·굽힘 보조
+- **신경지배:** 안쪽발바닥신경
+- **대표 혈관:** 안쪽발바닥동맥
+- **식별·비교:** 발바닥 안쪽 가장자리에 놓이며 pollicis인 손 엄지 근육과 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 무지외전근 · 엄지발가락벌림근 · Abductor hallucis · abductor hallucis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-abductor-hallucis)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-adductor-hallucis"></span>
+
+**발의 무지내전근**
+
+- **영문명:** Adductor hallucis
+- **기시:** 빗갈래 제2–4발허리뼈 바닥, 가로갈래 제3–5발허리발가락관절 계통
+- **정지:** 엄지발가락 몸쪽마디뼈 바닥 가쪽
+- **주요 작용:** 엄지발가락 모음·발 가로활 지지 보조
+- **신경지배:** 가쪽발바닥신경 깊은가지
+- **대표 혈관:** 발바닥동맥활
+- **식별·비교:** 발가락 벌림·모음 기준은 둘째발가락 축이다. 엄지 쪽이 항상 모음 방향은 아니다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 무지내전근 · 엄지발가락모음근 · Adductor hallucis · adductor hallucis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-adductor-hallucis)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-adductor-minimus"></span>
+
+**최소내전근**
+
+- **영문명:** Adductor minimus
+- **기시:** 두덩뼈 아래가지 계통
+- **정지:** 넙다리뼈 둔근능선·거친선 위부
+- **주요 작용:** 고관절 모음·바깥돌림 보조
+- **신경지배:** 폐쇄신경 뒤가지
+- **대표 혈관:** 폐쇄동맥·안쪽넙다리휘돌이동맥 등
+- **식별·비교:** 대내전근 위쪽 일부를 별도로 부르는 이름으로 독립 분리 여부에 차이가 있다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 최소내전근 · 작은모음근 · Adductor minimus · adductor minimus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-adductor-minimus)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-articularis-genu"></span>
+
+**슬관절근**
+
+- **영문명:** Articularis genu
+- **기시:** 넙다리뼈 먼쪽 앞면
+- **정지:** 무릎관절 주머니·무릎위주머니
+- **주요 작용:** 무릎 폄 때 관절주머니를 위로 당김
+- **신경지배:** 대퇴신경
+- **대표 혈관:** 내림무릎동맥 계통
+- **식별·비교:** 중간광근 깊은 곳의 작은 근육으로 주된 무릎 폄근과 역할을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 슬관절근 · 무릎관절근 · Articularis genu · articularis genu
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-articularis-genu)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-dorsal-interossei-of-foot"></span>
+
+**발의 배측골간근군**
+
+- **영문명:** Dorsal interossei of foot
+- **기시:** 서로 마주 보는 인접 발허리뼈 면
+- **정지:** 제2발가락 양쪽·제3–4발가락 가쪽 몸쪽마디 및 폄근널힘줄
+- **주요 작용:** 둘째발가락 축에서 벌림·발허리발가락관절 굽힘·마디관절 폄 보조
+- **신경지배:** 가쪽발바닥신경 깊은가지 계통
+- **대표 혈관:** 발등·발바닥발허리동맥
+- **식별·비교:** 네 근육 묶음이다. 손의 가운데손가락 기준축과 발의 둘째발가락 축을 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 배측골간근군 · 발등뼈사이근군 · Dorsal interossei of foot · dorsal interosseous (foot) · interosseous, dorsal (foot)
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-dorsal-interossei-of-foot)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-extensor-digitorum-brevis"></span>
+
+**단지신근**
+
+- **영문명:** Extensor digitorum brevis
+- **기시:** 발꿈치뼈 위가쪽·폄근지지띠 계통
+- **정지:** 주로 제2–4발가락 긴폄근힘줄·폄근널힘줄
+- **주요 작용:** 제2–4발가락 폄 보조
+- **신경지배:** 깊은종아리신경
+- **대표 혈관:** 발등동맥
+- **식별·비교:** 발등 내재근이다. 엄지 쪽 부분을 짧은엄지발가락폄근으로 따로 기술한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 단지신근 · 짧은발가락폄근 · Extensor digitorum brevis · extensor digitorum brevis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-digitorum-brevis)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-extensor-hallucis-brevis"></span>
+
+**발의 단무지신근**
+
+- **영문명:** Extensor hallucis brevis
+- **기시:** 발꿈치뼈 위가쪽
+- **정지:** 엄지발가락 몸쪽마디뼈 바닥 등쪽
+- **주요 작용:** 엄지발가락 발허리발가락관절 폄
+- **신경지배:** 깊은종아리신경
+- **대표 혈관:** 발등동맥
+- **식별·비교:** 짧은발가락폄근의 안쪽 부분이며 긴 엄지 폄근의 끝마디 정지와 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 단무지신근 · 짧은엄지발가락폄근 · Extensor hallucis brevis · extensor hallucis brevis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-hallucis-brevis)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-fibularis-tertius"></span>
+
+**제3비골근**
+
+- **영문명:** Fibularis tertius
+- **기시:** 종아리뼈 먼쪽 앞면·뼈사이막
+- **정지:** 제5발허리뼈 바닥 등쪽
+- **주요 작용:** 발등굽힘·가쪽번짐 보조
+- **신경지배:** 깊은종아리신경
+- **대표 혈관:** 앞정강동맥
+- **식별·비교:** 이름은 종아리근이나 앞 구획이다. 가쪽 구획의 긴·짧은종아리근과 신경이 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 제3비골근 · 셋째종아리근 · Peroneus tertius · Fibularis tertius · fibularis (peroneus) tertius
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-fibularis-tertius)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-flexor-digiti-minimi-brevis-foot"></span>
+
+**발의 단소지굴근**
+
+- **영문명:** Flexor digiti minimi brevis (foot)
+- **기시:** 제5발허리뼈 바닥·긴종아리근 힘줄집 계통
+- **정지:** 제5발가락 몸쪽마디뼈 바닥
+- **주요 작용:** 제5발허리발가락관절 굽힘
+- **신경지배:** 가쪽발바닥신경
+- **대표 혈관:** 가쪽발바닥동맥
+- **식별·비교:** 발바닥 가쪽의 짧은 내재근으로 손의 같은 이름 근육과 부위를 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 단소지굴근 · 짧은새끼발가락굽힘근 · Flexor digiti minimi brevis (foot) · flexor digiti minimi brevis (foot)
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-digiti-minimi-brevis-foot)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-flexor-digitorum-brevis"></span>
+
+**단지굴근**
+
+- **영문명:** Flexor digitorum brevis
+- **기시:** 발꿈치뼈거친면·발바닥널힘줄
+- **정지:** 제2–5발가락 중간마디뼈
+- **주요 작용:** 발가락 몸쪽마디관절·발허리발가락관절 굽힘
+- **신경지배:** 안쪽발바닥신경
+- **대표 혈관:** 안쪽·가쪽발바닥동맥
+- **식별·비교:** 힘줄이 갈라져 긴굽힘근힘줄이 지나간다. 끝마디까지 가는 긴굽힘근과 정지를 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 단지굴근 · 짧은발가락굽힘근 · Flexor digitorum brevis · flexor digitorum brevis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-digitorum-brevis)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-flexor-digitorum-longus"></span>
+
+**장지굴근**
+
+- **영문명:** Flexor digitorum longus
+- **기시:** 정강뼈 뒤면
+- **정지:** 제2–5발가락 끝마디뼈 바닥
+- **주요 작용:** 발가락 먼쪽마디관절 굽힘·발바닥굽힘 보조
+- **신경지배:** 경골신경
+- **대표 혈관:** 뒤정강동맥
+- **식별·비교:** 종아리 뒤 깊은 구획에서 안쪽복사 뒤를 지난다. 발바닥 내재근과 기시를 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 장지굴근 · 긴발가락굽힘근 · Flexor digitorum longus · flexor digitorum longus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-digitorum-longus)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-flexor-hallucis-brevis"></span>
+
+**발의 단무지굴근**
+
+- **영문명:** Flexor hallucis brevis
+- **기시:** 입방뼈·가쪽쐐기뼈 및 주변 힘줄 계통
+- **정지:** 종자뼈를 거쳐 엄지발가락 몸쪽마디뼈 바닥 양쪽
+- **주요 작용:** 엄지발허리발가락관절 굽힘
+- **신경지배:** 주로 안쪽발바닥신경; 가쪽힘살 지배 변이
+- **대표 혈관:** 안쪽발바닥동맥 등
+- **식별·비교:** 두 정지힘줄의 종자뼈 사이로 긴엄지발가락굽힘근힘줄이 지난다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 단무지굴근 · 짧은엄지발가락굽힘근 · Flexor hallucis brevis · flexor hallucis brevis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-hallucis-brevis)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-inferior-gemellus"></span>
+
+**하쌍자근**
+
+- **영문명:** Inferior gemellus
+- **기시:** 궁둥뼈결절
+- **정지:** 속폐쇄근힘줄 계통
+- **주요 작용:** 고관절 바깥돌림·굽힌 고관절 벌림 보조
+- **신경지배:** 넙다리네모근신경
+- **대표 혈관:** 아래볼기동맥
+- **식별·비교:** 위쌍동근과 정지는 비슷하지만 기시·신경이 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 하쌍자근 · 아래쌍동근 · Inferior gemellus · gemellus, inferior · inferior gemellus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-inferior-gemellus)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-superior-gemellus"></span>
+
+**상쌍자근**
+
+- **영문명:** Superior gemellus
+- **기시:** 궁둥뼈가시
+- **정지:** 속폐쇄근힘줄 계통
+- **주요 작용:** 고관절 바깥돌림·굽힌 고관절 벌림 보조
+- **신경지배:** 속폐쇄근신경
+- **대표 혈관:** 아래볼기동맥
+- **식별·비교:** 궁둥뼈가시 기시·속폐쇄근신경을 아래쌍동근의 결절 기시와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 상쌍자근 · 위쌍동근 · Superior gemellus · gemellus, superior · superior gemellus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-superior-gemellus)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-plantar-interossei-of-foot"></span>
+
+**발의 저측골간근군**
+
+- **영문명:** Plantar interossei of foot
+- **기시:** 제3–5발허리뼈 안쪽면
+- **정지:** 제3–5발가락 몸쪽마디뼈 안쪽·폄근널힘줄
+- **주요 작용:** 둘째발가락 축으로 모음·발허리발가락관절 굽힘·마디관절 폄 보조
+- **신경지배:** 가쪽발바닥신경 깊은가지
+- **대표 혈관:** 발바닥발허리동맥
+- **식별·비교:** 세 근육 묶음이며 발등뼈사이근의 벌림과 반대 작용이다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 저측골간근군 · 발바닥뼈사이근군 · Plantar interossei of foot · interosseous, plantar · plantar interosseous
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-plantar-interossei-of-foot)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-lumbricals-of-foot"></span>
+
+**발의 충양근군**
+
+- **영문명:** Lumbricals of foot
+- **기시:** 긴발가락굽힘근힘줄
+- **정지:** 제2–5발가락 폄근널힘줄 안쪽
+- **주요 작용:** 발허리발가락관절 굽힘·마디관절 폄 보조
+- **신경지배:** 제1은 안쪽발바닥신경, 제2–4는 가쪽발바닥신경
+- **대표 혈관:** 발바닥동맥 가지
+- **식별·비교:** 네 근육 묶음이며 손 벌레근의 가쪽 두 개 정중신경 지배와 숫자 기준이 다르다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 발의 충양근군 · 발의 벌레근군 · Lumbricals of foot · lumbricals (foot)
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-lumbricals-of-foot)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-obturator-externus"></span>
+
+**외폐쇄근**
+
+- **영문명:** Obturator externus
+- **기시:** 폐쇄막 바깥면·주변 두덩뼈·궁둥뼈
+- **정지:** 넙다리뼈 돌기오목
+- **주요 작용:** 고관절 바깥돌림·넙다리뼈머리 안정
+- **신경지배:** 폐쇄신경 뒤가지
+- **대표 혈관:** 폐쇄동맥·안쪽넙다리휘돌이동맥
+- **식별·비교:** 힘줄은 넙다리뼈 목 뒤로 이어지며 작은궁둥구멍을 지나는 속폐쇄근과 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 외폐쇄근 · 바깥폐쇄근 · Obturator externus · obturator externus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-obturator-externus)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-obturator-internus"></span>
+
+**내폐쇄근**
+
+- **영문명:** Obturator internus
+- **기시:** 폐쇄막 골반쪽 면·폐쇄구멍 주변
+- **정지:** 작은궁둥구멍을 돌아 넙다리뼈 큰돌기 안쪽
+- **주요 작용:** 고관절 바깥돌림·굽힌 고관절 벌림
+- **신경지배:** 속폐쇄근신경
+- **대표 혈관:** 폐쇄동맥·볼기동맥 계통
+- **식별·비교:** 골반벽 기시지만 힘줄은 골반 밖으로 간다. 음부신경 주행과 근막 관계도 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 내폐쇄근 · 속폐쇄근 · Obturator internus · obturator internus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-obturator-internus)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/) · [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-pectineus"></span>
+
+**치골근**
+
+- **영문명:** Pectineus
+- **기시:** 두덩뼈 위가지·두덩빗
+- **정지:** 넙다리뼈 두덩근선
+- **주요 작용:** 고관절 모음·굽힘
+- **신경지배:** 주로 대퇴신경; 폐쇄·덧폐쇄신경 기여 변이
+- **대표 혈관:** 안쪽넙다리휘돌이동맥·폐쇄동맥
+- **식별·비교:** 다른 내전근의 폐쇄신경 지배를 그대로 적용하지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 치골근 · 두덩근 · Pectineus · pectineus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-pectineus)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-quadratus-femoris"></span>
+
+**대퇴방형근**
+
+- **영문명:** Quadratus femoris
+- **기시:** 궁둥뼈결절 가쪽
+- **정지:** 넙다리뼈 돌기사이능선의 네모근결절
+- **주요 작용:** 고관절 바깥돌림·모음 보조
+- **신경지배:** 넙다리네모근신경
+- **대표 혈관:** 아래볼기동맥·안쪽넙다리휘돌이동맥
+- **식별·비교:** 같은 신경이 아래쌍동근도 지배한다. 위쌍동근의 신경과 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 대퇴방형근 · 넙다리네모근 · Quadratus femoris · quadratus femoris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-quadratus-femoris)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-quadratus-plantae"></span>
+
+**족저방형근**
+
+- **영문명:** Quadratus plantae
+- **기시:** 발꿈치뼈 안쪽·가쪽 발바닥면
+- **정지:** 긴발가락굽힘근힘줄
+- **주요 작용:** 긴발가락굽힘근 당김 방향 보정·굽힘 보조
+- **신경지배:** 가쪽발바닥신경
+- **대표 혈관:** 가쪽발바닥동맥
+- **식별·비교:** 뼈가 아닌 힘줄에 붙어 협동하는 발바닥 두 번째 층 근육이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 족저방형근 · 발바닥네모근 · Quadratus plantae · quadratus plantae
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-quadratus-plantae)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+<span id="anatomy-quadriceps-femoris"></span>
+
+**대퇴사두근**
+
+- **영문명:** Quadriceps femoris
+- **기시:** 대퇴직근은 골반, 광근 세 갈래는 넙다리뼈
+- **정지:** 무릎뼈·무릎인대를 거쳐 정강뼈거친면
+- **주요 작용:** 무릎 폄; 대퇴직근은 고관절 굽힘도 참여
+- **신경지배:** 대퇴신경
+- **대표 혈관:** 가쪽넙다리휘돌이동맥·깊은넙다리동맥 계통
+- **식별·비교:** 대퇴직근·내측광근·외측광근·중간광근의 묶음이다. 고관절 통과 여부를 구분한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 대퇴사두근 · 넙다리네갈래근 · Quadriceps femoris · quadriceps femoris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-quadriceps-femoris)
+참고: [UAMS 하지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 골반·회음 · 17개 카드</summary>
+
+<span id="anatomy-external-anal-sphincter"></span>
+
+**외항문괄약근**
+
+- **영문명:** External anal sphincter
+- **기시:** 회음체·꼬리뼈와 주변 결합조직
+- **정지:** 항문관을 둘러싸는 골격근 고리
+- **주요 작용:** 수의적 항문 폐쇄·변 유지
+- **신경지배:** 음부신경 아래곧창자가지; 엉치신경 기여
+- **대표 혈관:** 아래곧창자동맥
+- **식별·비교:** 피하·얕은·깊은 부분을 나눈다. 평활근인 내항문괄약근과 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 외항문괄약근 · 바깥항문조임근 · External anal sphincter · anal sphincter, external · sphincter ani externus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-external-anal-sphincter)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-internal-anal-sphincter"></span>
+
+**내항문괄약근**
+
+- **영문명:** Internal anal sphincter
+- **배치·기원:** 직장 원형 평활근층의 두꺼워진 부분
+- **연결·층:** 위 항문관 주위 연속 고리
+- **주요 작용:** 기저 긴장으로 항문 폐쇄; 직장 팽창 반사에서 이완
+- **신경지배:** 장신경계·골반 자율신경계 조절; 교감은 긴장 보조, 부교감·억제성 경로는 이완 관여
+- **대표 혈관:** 위·중간곧창자동맥 계통
+- **식별·비교:** 기저 긴장은 주로 근육 자체 성질에서 생긴다. 부교감이 단순히 수축시킨다고 외우지 않는다.
+- **근육 유형:** 평활근 · 자율신경 조절
+
+- **다른 표기:** 내항문괄약근 · 속항문조임근 · Internal anal sphincter · anal sphincter, internal · sphincter ani internus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-internal-anal-sphincter)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/) · [내항문괄약근 긴장·이완 조절 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC5547999/)
+
+<span id="anatomy-bulbospongiosus-female"></span>
+
+**여성 구해면체근**
+
+- **영문명:** Bulbospongiosus (female)
+- **기시:** 회음체·질어귀망울 주변 근막
+- **정지:** 회음막·음핵 해면체 계통
+- **주요 작용:** 질어귀망울 압박·질 입구 좁힘 보조
+- **신경지배:** 음부신경 회음가지
+- **대표 혈관:** 회음동맥
+- **식별·비교:** 질어귀 양옆의 쌍근육으로 남성의 정중 솔기·음경망울 관계와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 여성 구해면체근 · 여성 망울해면체근 · Bulbospongiosus (female) · bulbospongiosus, in female
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-bulbospongiosus-female)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-bulbospongiosus-male"></span>
+
+**남성 구해면체근**
+
+- **영문명:** Bulbospongiosus (male)
+- **기시:** 회음체·음경망울 위 정중솔기
+- **정지:** 음경해면체·회음막·주변 근막
+- **주요 작용:** 음경망울·해면요도 압박; 잔뇨·정액 배출 보조
+- **신경지배:** 음부신경 회음가지
+- **대표 혈관:** 회음동맥
+- **식별·비교:** 골격근이며 방광벽 배뇨근의 부교감 지배와 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 남성 구해면체근 · 남성 망울해면체근 · Bulbospongiosus (male) · bulbospongiosus, in male
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-bulbospongiosus-male)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-coccygeus"></span>
+
+**미골근**
+
+- **영문명:** Coccygeus
+- **기시:** 궁둥뼈가시·엉치가시인대 계통
+- **정지:** 꼬리뼈·아래 엉치뼈 가쪽
+- **주요 작용:** 골반바닥 지지·꼬리뼈 움직임 보조
+- **신경지배:** 아래 엉치신경 앞가지 계통
+- **대표 혈관:** 아래볼기동맥·가쪽엉치동맥 계통
+- **식별·비교:** 항문올림근 뒤쪽에 위치해 골반가로막을 함께 이룬다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 미골근 · 꼬리근 · Coccygeus · coccygeus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-coccygeus)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-deep-transverse-perineus"></span>
+
+**심회음횡근**
+
+- **영문명:** Deep transverse perineus
+- **기시:** 궁둥두덩가지 안쪽 계통
+- **정지:** 회음체·반대쪽 섬유 계통
+- **주요 작용:** 회음체·요도 주변 지지
+- **신경지배:** 음부신경 회음가지 계통
+- **대표 혈관:** 속음부동맥 계통
+- **식별·비교:** 구성·독립 분리와 성별 차이가 있다. 고전적 요생식가로막 개념과 현대 회음막·조임근 복합체를 함께 본다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 심회음횡근 · 깊은샅가로근 · Deep transverse perineus · deep transverse perineus · transverse perineus, deep
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-deep-transverse-perineus)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-detrusor"></span>
+
+**배뇨근**
+
+- **영문명:** Detrusor
+- **배치·기원:** 방광벽의 여러 방향 평활근 다발
+- **연결·층:** 방광벽 전체의 연속 근육층
+- **주요 작용:** 배뇨 시 수축해 방광 내용물 배출
+- **신경지배:** 골반내장신경 S2–S4 부교감은 수축; 교감 β3 계통은 저장 시 이완
+- **대표 혈관:** 위방광동맥·아래방광 또는 질동맥 가지
+- **식별·비교:** 뼈 기시·정지가 없다. 요도조임근의 이완과 협동해야 배출이 가능하다.
+- **근육 유형:** 평활근 · 자율신경 조절
+
+- **다른 표기:** 배뇨근 · 방광배뇨근 · Detrusor · detruser of bladder
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-detrusor)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/) · [하부요로 신경 조절 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC4480926/)
+
+<span id="anatomy-iliococcygeus"></span>
+
+**장골미골근**
+
+- **영문명:** Iliococcygeus
+- **기시:** 항문올림근 힘줄활·궁둥뼈가시
+- **정지:** 항문꼬리솔기·꼬리뼈
+- **주요 작용:** 골반바닥 지지·거상 보조
+- **신경지배:** 항문올림근신경 S3–S4 계통
+- **대표 혈관:** 속장골동맥 골반 가지
+- **식별·비교:** 항문올림근의 뒤가쪽 부분이며 이름과 달리 엉덩뼈 몸통에서만 시작하지 않는다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 장골미골근 · 엉덩꼬리근 · Iliococcygeus · iliococcygeus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-iliococcygeus)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-ischiocavernosus"></span>
+
+**좌골해면체근**
+
+- **영문명:** Ischiocavernosus
+- **기시:** 궁둥뼈결절·궁둥두덩가지
+- **정지:** 음경 또는 음핵 다리·해면체 계통
+- **주요 작용:** 해면체 압박·발기 유지 보조
+- **신경지배:** 음부신경 회음가지
+- **대표 혈관:** 회음동맥
+- **식별·비교:** 외생식기 다리를 덮으며 망울해면체근의 더 안쪽 위치와 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 좌골해면체근 · 궁둥해면체근 · Ischiocavernosus · ischiocavernosus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-ischiocavernosus)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-levator-ani"></span>
+
+**항문거근군**
+
+- **영문명:** Levator ani
+- **기시:** 두덩뼈·항문올림근 힘줄활·궁둥뼈가시
+- **정지:** 회음체·항문관 주변·항문꼬리솔기·꼬리뼈 계통
+- **주요 작용:** 골반장기 지지·골반바닥 거상·배변 조절
+- **신경지배:** 주로 항문올림근신경 S3–S4; 부위별 음부신경 기여
+- **대표 혈관:** 속장골동맥 골반 가지
+- **식별·비교:** 치골직장근·치골미골근·장골미골근 등의 묶음이며 각 부분의 연결을 나누어 본다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 항문거근군 · 항문올림근군 · Levator ani · levator ani
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levator-ani)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-levator-prostatae"></span>
+
+**전립선거근**
+
+- **영문명:** Levator prostatae
+- **기시:** 두덩뼈 뒤면
+- **정지:** 전립샘 주변 근막·회음 연결 계통
+- **주요 작용:** 전립샘·주변 골반바닥 지지
+- **신경지배:** 항문올림근신경 계통
+- **대표 혈관:** 속장골동맥 골반 가지
+- **식별·비교:** 항문올림근의 전립샘 쪽 섬유를 부르는 이름으로 분류법에 따라 하위 구성이 다르다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 전립선거근 · 전립샘올림근 · Levator prostatae · levator prostatae
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levator-prostatae)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-pubococcygeus"></span>
+
+**치골미골근**
+
+- **영문명:** Pubococcygeus
+- **기시:** 두덩뼈 뒤면·항문올림근 힘줄활 앞부분
+- **정지:** 회음체·골반장기 주변·항문꼬리솔기·꼬리뼈 계통
+- **주요 작용:** 골반바닥 지지·거상
+- **신경지배:** 항문올림근신경 S3–S4 계통
+- **대표 혈관:** 속장골동맥 골반 가지
+- **식별·비교:** 정지가 꼬리뼈 하나만은 아니다. 골반장기별 연결 섬유와 성별 구성을 함께 본다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 치골미골근 · 두덩꼬리근 · Pubococcygeus · pubococcygeus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-pubococcygeus)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-puborectalis"></span>
+
+**치골직장근**
+
+- **영문명:** Puborectalis
+- **기시:** 양쪽 두덩뼈 뒤면
+- **정지:** 직장항문접합부 뒤에서 반대쪽과 U자 고리 형성
+- **주요 작용:** 직장항문각 유지·변 유지 보조; 배변 시 이완
+- **신경지배:** 항문올림근신경·음부신경 기여 계통
+- **대표 혈관:** 골반·곧창자동맥 가지
+- **식별·비교:** 항문관을 원형으로 감싼 외조임근과 달리 직장 뒤의 U자 슬링이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 치골직장근 · 두덩곧창자근 · Puborectalis · puborectalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-puborectalis)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-pubovaginalis"></span>
+
+**치골질근**
+
+- **영문명:** Pubovaginalis
+- **기시:** 두덩뼈 뒤면
+- **정지:** 질벽 주변 근막·회음체
+- **주요 작용:** 질 주변·골반바닥 지지
+- **신경지배:** 항문올림근신경 계통
+- **대표 혈관:** 속장골동맥·질동맥 가지
+- **식별·비교:** 항문올림근의 질 주변 부분을 뜻하며 별개 근육의 독립성은 분류법에 따라 다르다. 전체 근육과 하위 부분의 포함 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 치골질근 · 두덩질근 · Pubovaginalis · pubovaginalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-pubovaginalis)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-external-urethral-sphincter-female"></span>
+
+**여성 외요도괄약근 복합체**
+
+- **영문명:** External urethral sphincter (female)
+- **기시:** 요도 둘레·회음막 및 주변 골격근 섬유
+- **정지:** 요도·질 주변 조임근 복합체
+- **주요 작용:** 수의적 요도 폐쇄·요 자제 보조
+- **신경지배:** 음부신경 회음가지 계통
+- **대표 혈관:** 속음부동맥·질동맥 가지
+- **식별·비교:** 요도조임근·요도압박근·요도질조임근을 구분한다. 요도와 질을 하나의 단순 고리로만 외우지 않는다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 여성 외요도괄약근 복합체 · 여성 바깥요도조임근 · External urethral sphincter (female) · sphincter urethrae, in female
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-external-urethral-sphincter-female)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-external-urethral-sphincter-male"></span>
+
+**남성 외요도괄약근**
+
+- **영문명:** External urethral sphincter (male)
+- **기시:** 막요도 주변·전립샘 아래의 골격근 섬유
+- **정지:** 요도 둘레의 조임근 계통
+- **주요 작용:** 수의적 요도 폐쇄·요 자제 보조
+- **신경지배:** 음부신경 회음가지 계통
+- **대표 혈관:** 속음부동맥 계통
+- **식별·비교:** 방광목의 평활근 조절과 막요도 주변 골격근을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 남성 외요도괄약근 · 남성 바깥요도조임근 · External urethral sphincter (male) · sphincter urethrae, in male
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-external-urethral-sphincter-male)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+<span id="anatomy-superficial-transverse-perineus"></span>
+
+**천회음횡근**
+
+- **영문명:** Superficial transverse perineus
+- **기시:** 궁둥두덩가지·궁둥뼈결절 안쪽 계통
+- **정지:** 회음체·반대쪽 근육 계통
+- **주요 작용:** 회음체 고정·지지
+- **신경지배:** 음부신경 회음가지
+- **대표 혈관:** 회음동맥
+- **식별·비교:** 얕은회음공간의 가로근이며 깊은 부분과 회음막의 위치 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 천회음횡근 · 얕은샅가로근 · Superficial transverse perineus · superficial transverse perineus · transverse perineus, superficial
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-superficial-transverse-perineus)
+참고: [UAMS 골반·회음 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 가슴 · 5개 카드</summary>
+
+<span id="anatomy-innermost-intercostals"></span>
+
+**최내늑간근군**
+
+- **영문명:** Innermost intercostals
+- **기시:** 갈비뼈 안쪽면 계통
+- **정지:** 인접 갈비뼈 안쪽면 계통
+- **주요 작용:** 갈비사이 공간 안정·호흡 운동 보조
+- **신경지배:** 갈비사이신경
+- **대표 혈관:** 갈비사이동맥
+- **식별·비교:** 속갈비사이근과의 사이로 주된 갈비사이 신경혈관다발이 지난다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 최내늑간근군 · 가장속갈비사이근군 · Innermost intercostals · innermost intercostal
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-innermost-intercostals)
+참고: [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
+
+<span id="anatomy-internal-intercostals"></span>
+
+**내늑간근군**
+
+- **영문명:** Internal intercostals
+- **기시:** 갈비뼈 고랑·안쪽면
+- **정지:** 인접 아래 갈비뼈 위모서리
+- **주요 작용:** 뼈사이부분 날숨 보조·연골사이부분 들숨 보조; 공간 안정
+- **신경지배:** 갈비사이신경
+- **대표 혈관:** 갈비사이동맥
+- **식별·비교:** 전체를 날숨근으로만 외우지 않고 뼈사이·연골사이 부분을 나눈다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 내늑간근군 · 속갈비사이근군 · Internal intercostals · internal intercostal
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-internal-intercostals)
+참고: [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
+
+<span id="anatomy-levatores-costarum"></span>
+
+**늑골거근군**
+
+- **영문명:** Levatores costarum
+- **기시:** C7–T11 가로돌기
+- **정지:** 바로 아래 또는 두 수준 아래 갈비뼈
+- **주요 작용:** 갈비뼈 거상·척주 움직임 보조
+- **신경지배:** 해당 척수신경 뒤가지
+- **대표 혈관:** 깊은목동맥·뒤갈비사이동맥
+- **식별·비교:** 갈비사이신경인 앞가지 지배 근육과 달리 뒤가지 계통이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 늑골거근군 · 갈비올림근군 · Levatores costarum · levatores costarum
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-levatores-costarum)
+참고: [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
+
+<span id="anatomy-subcostalis"></span>
+
+**늑하근군**
+
+- **영문명:** Subcostalis
+- **기시:** 아래 갈비뼈의 안쪽 뒷면
+- **정지:** 1–2개 공간을 건너 위쪽 갈비뼈 안쪽면
+- **주요 작용:** 갈비뼈 하강·날숨 보조
+- **신경지배:** 갈비사이신경
+- **대표 혈관:** 갈비사이동맥
+- **식별·비교:** 여러 갈비사이 공간을 가로지르는 깊은 근육이다. 바로 인접한 갈비사이근과 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 늑하근군 · 갈비밑근군 · Subcostalis · subcostalis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-subcostalis)
+참고: [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
+
+<span id="anatomy-transversus-thoracis"></span>
+
+**흉횡근**
+
+- **영문명:** Transversus thoracis
+- **기시:** 복장뼈 뒤면·칼돌기
+- **정지:** 제2–6갈비연골 안쪽면
+- **주요 작용:** 갈비연골 하강·날숨 보조
+- **신경지배:** 제2–6갈비사이신경
+- **대표 혈관:** 속가슴동맥
+- **식별·비교:** 앞가슴벽의 깊은 층이며 내흉혈관과 흉막의 관계를 확인한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 흉횡근 · 가슴가로근 · Transversus thoracis · transversus thoracis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-transversus-thoracis)
+참고: [UAMS 가슴 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/)
+
+</details>
+
+<details markdown="1">
+<summary>근육 · 손·아래팔 · 8개 카드</summary>
+
+<span id="anatomy-abductor-digiti-minimi-hand"></span>
+
+**손의 소지외전근**
+
+- **영문명:** Abductor digiti minimi (hand)
+- **기시:** 콩알뼈·자쪽손목굽힘근힘줄 계통
+- **정지:** 제5손가락 몸쪽마디뼈 바닥 자쪽
+- **주요 작용:** 새끼손가락 벌림·손허리손가락관절 굽힘 보조
+- **신경지배:** 척골신경 깊은가지
+- **대표 혈관:** 척골동맥
+- **식별·비교:** 손의 소지구 근육이며 발바닥 가쪽 근육과 위치·신경을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 손의 소지외전근 · 새끼손가락벌림근 · Abductor digiti minimi (hand) · abductor digiti minimi (hand)
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-abductor-digiti-minimi-hand)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-extensor-digiti-minimi"></span>
+
+**소지신근**
+
+- **영문명:** Extensor digiti minimi
+- **기시:** 위팔뼈 가쪽위관절융기 공통폄근힘줄
+- **정지:** 제5손가락 폄근널힘줄
+- **주요 작용:** 새끼손가락 폄 보조
+- **신경지배:** 뒤뼈사이신경
+- **대표 혈관:** 뒤뼈사이동맥 계통
+- **식별·비교:** 새끼손가락 독립 폄에 참여하며 같은 손가락으로 가는 총지신근힘줄과 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 소지신근 · 새끼손가락폄근 · Extensor digiti minimi · extensor digiti minimi
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-digiti-minimi)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-extensor-indicis"></span>
+
+**시지신근**
+
+- **영문명:** Extensor indicis
+- **기시:** 자뼈 먼쪽 뒤면·뼈사이막
+- **정지:** 제2손가락 폄근널힘줄
+- **주요 작용:** 집게손가락 독립 폄 보조
+- **신경지배:** 뒤뼈사이신경
+- **대표 혈관:** 뒤뼈사이동맥
+- **식별·비교:** 아래팔 깊은 폄근이며 공통폄근힘줄에서 시작하는 총지신근과 기시가 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 시지신근 · 집게폄근 · Extensor indicis · extensor indicis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-extensor-indicis)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-flexor-digiti-minimi-brevis-hand"></span>
+
+**손의 단소지굴근**
+
+- **영문명:** Flexor digiti minimi brevis (hand)
+- **기시:** 갈고리뼈 갈고리·굽힘근지지띠
+- **정지:** 제5손가락 몸쪽마디뼈 바닥
+- **주요 작용:** 새끼손가락 손허리손가락관절 굽힘
+- **신경지배:** 척골신경 깊은가지
+- **대표 혈관:** 척골동맥
+- **식별·비교:** 제5손허리뼈에 붙는 새끼맞섬근과 정지를 비교한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 손의 단소지굴근 · 짧은새끼손가락굽힘근 · Flexor digiti minimi brevis (hand) · flexor digiti minimi brevis (hand)
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-digiti-minimi-brevis-hand)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-flexor-pollicis-brevis"></span>
+
+**단무지굴근**
+
+- **영문명:** Flexor pollicis brevis
+- **기시:** 굽힘근지지띠·큰마름뼈 및 깊은 갈래의 손목뼈 계통
+- **정지:** 엄지 몸쪽마디뼈 바닥 노쪽·종자뼈 계통
+- **주요 작용:** 엄지 손허리손가락관절 굽힘
+- **신경지배:** 얕은갈래 주로 정중신경 되돌이가지; 깊은갈래 척골신경 기여 변이
+- **대표 혈관:** 요골동맥 손바닥가지·깊은손바닥동맥활
+- **식별·비교:** 끝마디를 굽히는 긴엄지굽힘근과 달리 몸쪽마디 정지다. 갈래별 신경 차이도 본다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 단무지굴근 · 짧은엄지굽힘근 · Flexor pollicis brevis · flexor pollicis brevis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-flexor-pollicis-brevis)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-lumbricals-of-hand"></span>
+
+**손의 충양근군**
+
+- **영문명:** Lumbricals of hand
+- **기시:** 깊은손가락굽힘근힘줄
+- **정지:** 제2–5손가락 폄근널힘줄 노쪽
+- **주요 작용:** 손허리손가락관절 굽힘·마디관절 폄 보조
+- **신경지배:** 제1–2 정중신경, 제3–4 척골신경 깊은가지
+- **대표 혈관:** 얕은손바닥동맥활·손가락동맥 가지
+- **식별·비교:** 네 근육 묶음으로 뼈 기시가 아닌 힘줄 기시다. 발 벌레근과 신경 분담 개수를 비교한다. 근육군 또는 복합체 범위로 읽고 각 구성의 부착을 구분한다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 손의 충양근군 · 손의 벌레근군 · Lumbricals of hand · lumbrical (hand)
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-lumbricals-of-hand)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-opponens-digiti-minimi"></span>
+
+**소지대립근**
+
+- **영문명:** Opponens digiti minimi
+- **기시:** 갈고리뼈 갈고리·굽힘근지지띠
+- **정지:** 제5손허리뼈 자쪽면
+- **주요 작용:** 제5손허리뼈 앞 이동·돌림으로 맞섬 보조
+- **신경지배:** 척골신경 깊은가지
+- **대표 혈관:** 척골동맥
+- **식별·비교:** 엄지맞섬근과 역할은 비슷하나 손허리뼈 번호·신경지배가 다르다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 소지대립근 · 새끼맞섬근 · Opponens digiti minimi · opponens digiti minimi
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-opponens-digiti-minimi)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+<span id="anatomy-palmaris-brevis"></span>
+
+**단장근**
+
+- **영문명:** Palmaris brevis
+- **기시:** 손바닥널힘줄·굽힘근지지띠 계통
+- **정지:** 손바닥 자쪽 피부
+- **주요 작용:** 손바닥 자쪽 피부 주름·쥐기 보조
+- **신경지배:** 척골신경 얕은가지
+- **대표 혈관:** 척골동맥
+- **식별·비교:** 다른 소지구 근육의 깊은가지 지배와 달리 얕은가지 지배를 받는 피부근육이다.
+- **근육 유형:** 골격근 · 몸운동 신경지배
+
+- **다른 표기:** 단장근 · 짧은손바닥근 · Palmaris brevis · palmaris brevis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-palmaris-brevis)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
 
 </details>
 
