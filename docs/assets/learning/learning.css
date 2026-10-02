@@ -24,6 +24,7 @@
 .learning-feedback{padding:1rem;border-left:4px solid var(--learn-accent);background:var(--md-accent-fg-color--transparent);margin:1rem 0;font-size:.8rem;line-height:1.8}
 .learning-feedback details{margin-top:.5rem}.learning-feedback summary{cursor:pointer;font-weight:700}.learning-result{font-weight:700;font-size:1.2rem;color:var(--learn-accent)}
 .learning-stage>button{margin:.3rem .5rem .3rem 0}
+.learning-stage>select{min-height:44px;margin:0 .5rem .5rem 0}
 .learning-diagram{display:block;width:100%;height:480px;border:1px solid var(--learn-border);border-radius:.7rem;background:#fff;pointer-events:none}
 .learning-stage figure{margin:1rem 0}.learning-stage figcaption{font-size:.65rem;line-height:1.7;color:var(--md-default-fg-color--light);margin-top:.4rem}
 .learning-subject-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem}.learning-subject-grid>a{display:block;border:1px solid var(--md-default-fg-color--lightest);border-radius:.8rem;padding:1rem;line-height:1.7}.learning-subject-grid strong{display:block;font-size:1rem}.learning-subject-grid small{display:block;font-size:.7rem;color:var(--md-default-fg-color--light)}
