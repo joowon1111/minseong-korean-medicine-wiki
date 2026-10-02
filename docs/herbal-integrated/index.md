@@ -52,6 +52,7 @@ last_reviewed: 2026-09-16
 
 | 궁금한 내용 | 가장 빠른 길 |
 |---|---|
+| 한의대 본초학·방제학을 카드와 퀴즈로 복습하기 | [본초학 학습](../learning/herbs.md) · [핵심 처방 100선 학습](../learning/formulas.md) |
 | 개별 약재의 효능·성미·귀경 | [본초 찾기](herbs.md) |
 | 보기·청열·활혈 같은 효능의 정확한 뜻과 주치 | [본초 효능·주치 표준](efficacy-indication-standard.md) |
 | 청열사화·조습·해독·량혈·허열의 차이 | [청열약 5분류 비교](heat-clearing-herbs.md) |
