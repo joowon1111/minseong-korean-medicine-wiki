@@ -58,6 +58,12 @@ description: 태양인 해역증 vs 열격증 — 민성 한의학 아카이브�
 
 → [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md) · [태양인 중증도](../sasang-severity/taeyangin.md)
 
+## 원전·CPG 바로가기
+
+해역은 「태양인 외감요척병론」의 解㑊, 열격/반위는 「태양인 내촉소장병론」의 噎膈·反胃를 태양인 CPG와 함께 읽습니다. 태양인은 확인되는 두 축을 넘어 병증 수를 인위적으로 늘리지 않습니다.
+
+→ [병증별 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md)
+
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
