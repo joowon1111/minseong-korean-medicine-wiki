@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261002-1';
+  const VERSION = '20261002-3';
   const SUBJECTS = {acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
@@ -196,9 +196,12 @@
     function renderQuiz() {
       const items = filteredQuestions(deck, progress, category.value, query.value, mode === 'wrong', questionKind);
       if (!session) {
-        if (subject === 'acupoints') {
+        {
           const kinds = node('select', undefined, {'aria-label': '문제 유형'});
-          for (const [value, label] of [['', '전체 문제 유형'], ['name', '혈명·경맥'], ['location', '표준 위치 설명'], ['diagram', '그림으로 경혈 찾기']]) kinds.append(node('option', label, {value}));
+          const types = subject === 'acupoints'
+            ? [['', '전체 문제 유형'], ['name', '혈명·경맥'], ['location', '표준 위치 설명'], ['diagram', '그림으로 경혈 찾기']]
+            : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
+          for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
           kinds.addEventListener('change', () => { questionKind = kinds.value; render(); });
           stage.append(kinds);

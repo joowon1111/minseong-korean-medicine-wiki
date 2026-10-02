@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "20261002-1",
+  "version": "20261002-3",
   "subjects": [
     {
       "id": "acupoints",
@@ -12,22 +12,22 @@
     {
       "id": "acupuncture",
       "title": "침구학",
-      "cards": 105,
-      "questions": 202,
+      "cards": 169,
+      "questions": 528,
       "file": "acupuncture.json"
     },
     {
       "id": "herbs",
       "title": "본초학",
-      "cards": 120,
-      "questions": 211,
+      "cards": 184,
+      "questions": 791,
       "file": "herbs.json"
     },
     {
       "id": "formulas",
       "title": "방제학",
-      "cards": 100,
-      "questions": 200,
+      "cards": 110,
+      "questions": 440,
       "file": "formulas.json"
     }
   ]
