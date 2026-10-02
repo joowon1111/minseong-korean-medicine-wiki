@@ -91,3 +91,22 @@ test("progression and severity layers do not regress to stubs", () => {
     }
   }
 });
+
+
+test("Sasang disease cards link to source map", () => {
+  const pages = [
+    "docs/sasang-clinical-detail/soyangin.md",
+    "docs/sasang-clinical-detail/taeeumin.md",
+    "docs/sasang-clinical-detail/soeumin.md",
+    "docs/sasang-clinical-detail/taeyangin.md",
+  ];
+  for (const p of pages) {
+    const body = read(p);
+    assert.ok(body.includes("원전·CPG 직결:"), p);
+    assert.ok(body.includes("pattern-source-map.md"), p);
+  }
+  const sourceMap = read("docs/sasang-clinical-detail/pattern-source-map.md");
+  assert.ok(sourceMap.includes("근거 층위를 표시하는 규칙"));
+  assert.ok(sourceMap.includes("NCKM 2022"));
+  assert.ok(Buffer.byteLength(sourceMap, "utf8") >= 8000);
+});
