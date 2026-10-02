@@ -17,7 +17,7 @@ last_reviewed: '2026-10-02'
 
 <div id="sasang-explorer" class="sasang-explorer">
   <div class="sasang-explorer__steps" aria-label="탐색 순서">
-    <span class="is-active">1 체질</span><span>2 병증축</span><span>3 단계</span><span>4 문서</span>
+    <span class="is-active">1 체질</span><span>2 주요 병증군</span><span>3 세부 단계</span><span>4 문서</span>
   </div>
   <div class="sasang-explorer__controls">
     <label><span>1. 사상체질</span><select id="sx-constitution">
@@ -25,11 +25,11 @@ last_reviewed: '2026-10-02'
       <option value="소양인">소양인</option><option value="태음인">태음인</option>
       <option value="소음인">소음인</option><option value="태양인">태양인</option>
     </select></label>
-    <label><span>2. 주요 병증축</span><select id="sx-axis" disabled><option value="">먼저 체질을 선택하세요</option></select></label>
-    <label><span>3. 병증 단계</span><select id="sx-stage" disabled><option value="">전체 단계</option></select></label>
+    <label><span>2. 주요 병증군</span><select id="sx-axis" disabled><option value="">먼저 체질을 선택하세요</option></select></label>
+    <label><span>3. 세부 단계</span><select id="sx-stage" disabled><option value="">전체 단계</option></select></label>
     <button type="button" id="sx-reset" class="sasang-explorer__reset">초기화</button>
   </div>
-  <div id="sx-summary" class="sasang-explorer__summary" aria-live="polite">체질을 선택하면 해당 체질의 주요 병증축부터 단계적으로 살펴볼 수 있습니다.</div>
+  <div id="sx-summary" class="sasang-explorer__summary" aria-live="polite">체질을 선택하면 해당 체질의 주요 병증군과 세부 단계를 단계적으로 살펴볼 수 있습니다.</div>
   <div id="sx-results" class="sasang-explorer__results"></div>
 </div>
 
