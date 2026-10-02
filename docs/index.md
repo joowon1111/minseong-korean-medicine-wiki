@@ -18,19 +18,6 @@ hide:
 <a class="ms-card" href="portal/evidence/"><strong>🔬 연구·근거</strong><span>임상시험·메타분석·PMID·DOI</span></a>
 </div>
 
-## 사상의학 집중 탐색
-
-오늘 보강된 사상의학 영역은 **체질 이름만 보는 방식이 아니라, 평소 소증 → 현재 병증 → 병증 단계·감별 → 대표 처방 → 《동의수세보원》 원전·CPG 근거**까지 이어서 살펴볼 수 있게 구성되어 있습니다.
-
-<div class="ms-grid">
-<a class="ms-card" href="sasang-explorer/"><strong>☯ 대화형 병증·처방 탐색기</strong><span>체질과 주요 병증을 선택해 단계·감별·대표 처방을 따라가기</span></a>
-<a class="ms-card" href="sasang-clinical-detail/"><strong>🧭 체질별 병증 상세</strong><span>소양·태음·소음 각 8개 주요 병증군과 태양인 핵심 병증</span></a>
-<a class="ms-card" href="sasang-pattern-differential/"><strong>🔀 병증 감별 심화</strong><span>표리·순역·중증도와 가까운 병증을 비교하기</span></a>
-<a class="ms-card" href="sasang-clinical-detail/pattern-source-map/"><strong>📜 원전·CPG 병증 근거지도</strong><span>동의수세보원 원전 → 병증별 CPG → 처방 문서 연결</span></a>
-</div>
-
-→ 처음부터 차근차근 보려면 [사상의학 한눈에 보기](sasang-integrated/index.md)에서 시작하세요.
-
 ## 지금 궁금한 질문에서 시작하세요 {#patient-questions}
 
 | 궁금한 점 | 먼저 읽을 안내 |
