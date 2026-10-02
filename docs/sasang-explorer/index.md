@@ -42,6 +42,6 @@ last_reviewed: '2026-10-02'
 2. **병증축**에서 표리·주요 병증 방향을 좁힙니다.
 3. **병증 단계**를 선택하면 해당 단계에서 아카이브가 정리한 핵심 모습과 감별 포인트를 확인합니다.
 4. **대표 처방**은 추천 결과가 아니라 그 병증 단계와 연결해 읽을 처방 문서입니다.
-5. 처방 카드와 체질 통합 허브, 병증 감별 문서를 함께 열어 원문 맥락을 확인합니다.
+5. 처방 카드와 체질 통합 허브, 병증 감별 문서를 함께 열어 원문 맥락을 확인합니다. 각 결과의 **원전·CPG 근거** 링크에서는 《동의수세보원》 편명·짧은 원문 표지어와 병증별 CPG를 바로 대조할 수 있습니다.
 
-→ [사상의학 통합 허브](../sasang-integrated/) · [사상체질 대표처방](../sasang-integrated/formulas.md) · [체질별 병증 감별](../sasang-pattern-differential/) · [처방 배합망](../sasang-formula-combination-network/)
+→ [사상의학 통합 허브](../sasang-integrated/) · [사상체질 대표처방](../sasang-integrated/formulas.md) · [체질별 병증 감별](../sasang-pattern-differential/) · [원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md) · [처방 배합망](../sasang-formula-combination-network/)
