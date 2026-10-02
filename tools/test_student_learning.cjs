@@ -158,3 +158,16 @@ test('typed identification shares wrong answers, locks submissions and switches 
   assert.equal(h.select('학습 방식').children.some(e => e.value === 'identify'), false);
   assert.ok(h.button('카드 뒤집기 · 답 확인'));
 });
+
+test('hand and foot structures with similar Korean names remain distinct', () => {
+  const hand = anatomy.questions.find(q => q.cardId === 'anatomy-bone-scaphoid' && q.acceptedAnswers);
+  const foot = anatomy.questions.find(q => q.cardId === 'anatomy-bone-navicular-foot' && q.acceptedAnswers);
+  assert.ok(study.answerMatches(hand, 'scaphoid'));
+  assert.ok(study.answerMatches(foot, '발배뼈'));
+  assert.equal(study.answerMatches(foot, '주상골'), false);
+  assert.equal(study.answerMatches(hand, 'navicular'), false);
+  const toe = anatomy.questions.find(q => q.cardId === 'anatomy-extensor-hallucis-longus' && q.acceptedAnswers);
+  assert.ok(study.answerMatches(toe, 'EHL'));
+  assert.equal(study.answerMatches(toe, 'EPL'), false);
+  assert.equal(study.answerMatches(toe, '긴엄지폄근'), false);
+});

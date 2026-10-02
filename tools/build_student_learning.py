@@ -326,6 +326,7 @@ def anatomy_cards():
             c = card(identifier, muscle['name'], '근육 · ' + region['title'],
                      [('영문명', muscle['en']), ('주요 부착', muscle['attachments']), ('주요 작용', muscle['function']), ('신경지배', muscle['nerve'])],
                      'learning/anatomy.md', f"{muscle['name']}의 부착·작용·신경지배를 떠올려 보세요.")
+            c['facts'].extend({'label': f['label'], 'value': clean(f['value'])} for f in data.get('atlas_additions', {}).get(muscle['id'], []))
             c.update(source=c['source'] + '#' + identifier, anatomyKind='muscle',
                      aliases=list(dict.fromkeys([muscle['name']] + muscle['en'].split(' · ') + aliases.get(muscle['id'], []))),
                      identify=muscle['attachments'] + ' / 작용: ' + muscle['function'],
@@ -577,7 +578,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-4', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261002-5', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
