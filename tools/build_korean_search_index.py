@@ -50,6 +50,8 @@ def strip_frontmatter(text):
 def clean_markdown(body):
     body = re.sub(r"```.*?```", " ", body, flags=re.S)
     body = re.sub(r"`([^`]*)`", r"\1", body)
+    # Strip Markdown attribute lists before punctuation removal leaves their IDs.
+    body = re.sub(r"\{[ \t]*[.#][^{}\n]*\}", " ", body)
     body = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", body)
     body = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", body)
     body = re.sub(r"<[^>]+>", " ", body)

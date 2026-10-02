@@ -75,6 +75,21 @@ test('patient expressions, spacing and full-width Latin characters still match',
   }
 });
 
+test('primary names with Hanja rank ahead of derived names regardless of keyword boosts', async () => {
+  const b = browser(async () => ({ ok: true, json: async () => [
+    { title: '황련해독탕(黃連解毒湯)', url: '/formulas/huanglian-jiedu-tang/', keywords: ['황련'], text: '황련', boost: 20 },
+    { title: '황련(黃連)', url: '/herbs/coptis/', text: '황련', boost: 8 },
+    { title: '황련·황금 비교', url: '/compare/coptis-scutellaria/', keywords: ['황련'], text: '', boost: 20 },
+    { title: '형방도적산（荊防導赤散） 임상 카드', url: '/sasang-formula-cards/hyeongbangdojeok-san/', text: '형방도적산' },
+    { title: '형방도적산 활용 연구', url: '/research/hyeongbangdojeok-san/', keywords: ['형방도적산'], text: '형방도적산', boost: 20 },
+  ] }));
+  for (const [query, url] of [['황련', '/herbs/coptis/'], ['황련해독탕', '/formulas/huanglian-jiedu-tang/'],
+    ['형방 도적산', '/sasang-formula-cards/hyeongbangdojeok-san/']]) {
+    await b.enter(query);
+    assert.equal([...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)][0][1], url, query);
+  }
+});
+
 test('overlapping queries share the download and only the latest query renders', async () => {
   let finish;
   const b = browser(() => new Promise((resolve) => { finish = resolve; }));

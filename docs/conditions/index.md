@@ -11,7 +11,7 @@ status: 검토완료
 last_reviewed: 2026-09-21
 ---
 
-# 질환별 보기
+# 질환별 보기 {#_1}
 
 이 페이지는 진단명이나 의심 질환을 기준으로 검사·위험신호·감별과 한의학적 치료를 깊이 찾아보는 **질환별 심화 허브**입니다. 병명을 모르고 **“아파요·저려요·부어요·잠이 안 와요”**처럼 불편한 표현만 알고 있다면 [증상으로 찾기](../symptom-integrated/index.md)에서 시작하세요.
 
@@ -19,7 +19,7 @@ last_reviewed: 2026-09-21
 
 `환자 표현 → 증상군 → 관련 질환 → 위험신호·감별 → 한의학적 변증 → 본초·방제 → 경혈·침구치료 → 현대 임상근거`
 
-## 면역·만성염증·질병·노화
+## 면역·만성염증·질병·노화 {#_2}
 
 만성질환은 병명별 문서로 살펴보되, **면역조절·저등급 염증·대사·혈관·신경·통증·회복**이 서로 연결되는 공통 경로도 함께 볼 수 있습니다.
 
@@ -28,109 +28,225 @@ last_reviewed: 2026-09-21
 
 한의진료에서는 염증수치 하나를 치료목표로 삼기보다 원인질환의 표준관리와 함께 통증·수면·소화·피로·근력·활동능력과 회복 경과를 종합합니다.
 
-## 최신 질환 심화 문서 빠른 찾기
+## 분야별 질환 빠른 찾기 {#_3}
 
-현재 제공하는 주요 심화 문서를 환자가 많이 찾는 분야별로 먼저 모았습니다. 아래 목록은 핵심 질환 문서이며, 더 세부적인 생활 증상과 치료 질문은 페이지 아래의 전체 상세 문서에서 찾을 수 있습니다.
+자주 찾는 문서를 먼저 보여드립니다. **분야별 더 보기**를 펼치면 관련 질환을 비교할 수 있고, 구체적인 생활 증상은 아래 **세부 증상·질환 전체 목록**에서 찾을 수 있습니다.
 
-### 통증·근골격
+| 이런 내용을 찾고 있나요? | 바로 읽기 |
+| --- | --- |
+| 식후 더부룩함·조기포만 등 소화불량의 유형과 치료 | [기능성소화불량](functional-dyspepsia.md) |
+| 아이가 감기에 자주 걸리고 회복이 더뎌요 | [소아 반복감기](child-recurrent-colds.md) |
+| 가슴이 답답할 때 원인과 위험신호를 구분하고 싶어요 | [가슴답답함](chest-tightness.md) |
+
+<span id="_13"></span>
+
+### 통증·근골격 {#_4}
+
+<span id="joint-bone-care"></span>
+
+<span id="symptom-care-routes"></span>
 
 - [요통·허리가 아파요](low-back-pain.md)
+- [목통증·경항통](neck-pain.md)
+- [어깨통증](shoulder-pain.md)
+- [무릎통증](knee-pain.md)
+
+<details markdown="1">
+<summary>통증·근골격 더 보기</summary>
+
 - [등통증·흉추통증](thoracic-back-pain.md)
 - [늑간신경통·갈비뼈를 따라 띠처럼 아파요](intercostal-neuralgia.md)
 - [옆구리통증](flank-pain.md)
-- [목통증·경항통](neck-pain.md)
 - [턱관절통증·입 벌릴 때 턱이 아파요](temporomandibular-disorder.md)
-- [어깨통증](shoulder-pain.md)
 - [손목통증·엄지쪽 손목이 아파요](wrist-pain.md)
-- [무릎통증](knee-pain.md)
 - [발목통증](ankle-pain.md)
 - [두통](headache.md)
+- [허리디스크](lumbar-disc-herniation.md)
+- [척추관협착증](lumbar-spinal-stenosis.md)
+- [좌골신경통](sciatica.md)
+- [목디스크](cervical-disc-herniation.md)
+- [손목터널증후군](carpal-tunnel.md)
+- [편두통](migraine.md)
+- [긴장성두통](tension-headache.md)
+- [통풍·요산 관리](gout.md)
+- [류마티스관절염](rheumatoid-arthritis.md)
+- [골다공증·골절 예방](osteoporosis.md)
+- [아침강직·조조강직](morning-stiffness.md)
+- [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
 
-### 신경·감각·순환 증상
+</details>
+
+### 신경·감각·순환 증상 {#_5}
+
+<span id="digestive-sensory-care"></span>
 
 - [어지럼](dizziness.md)
 - [이명](tinnitus.md)
+- [가슴답답함·원인과 위험신호](chest-tightness.md)
 - [손발저림·팔다리가 저려요](limb-numbness.md)
+
+<details markdown="1">
+<summary>신경·감각·순환 증상 더 보기</summary>
+
 - [다리에 쥐가 나요·근육경련](muscle-cramps.md)
 - [하지불안증후군·밤에 다리가 불편해요](restless-legs-syndrome.md)
 - [수족냉증·손발이 차가워요](cold-hands-feet.md)
 - [붓기·부종·몸이 자주 부어요](edema-swelling.md)
 - [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md)
 
-### 수면·정서·피로·회복
+- [이석증](bppv.md)
+- [메니에르병](menieres-disease.md)
+- [돌발성난청](sudden-sensorineural-hearing-loss.md)
+
+</details>
+
+### 수면·정서·피로·회복 {#_6}
 
 - [불면증·수면장애](insomnia.md)
+- [만성피로](chronic-fatigue.md)
 - [불안·과도한 걱정](anxiety.md)
+- [수술 후 회복·기력저하](postoperative-recovery.md)
+
+<details markdown="1">
+<summary>수면·정서·피로·회복 더 보기</summary>
+
 - [두근거림·심계 — 가슴이 뛰고 맥이 건너뛰는 느낌](palpitation.md)
 - [화병·울화·가슴이 답답하고 열이 치밀어요](hwabyeong.md)
 - [공황발작·갑자기 심장이 뛰고 숨이 막혀요](panic-disorder.md)
 - [기억력저하·경도인지장애·건망증](cognitive-impairment.md)
-- [만성피로](chronic-fatigue.md)
-- [수술 후 회복·기력저하](postoperative-recovery.md)
 - [주요 5대암 수술 후 회복관리](gastric-cancer-gastrectomy-recovery.md)
 - [퇴원 후 회복·장기입원 후 기력저하](post-hospitalization-recovery.md)
+- [스트레스성 불면](../autonomic/stress-sleep.md)
+- [새벽각성](early-awakening.md)
+- [숙면·회복감](nonrestorative-sleep.md)
 
-### 소화·호흡·피부
+</details>
 
-- [소화불량](dyspepsia.md)
-- [위염·속쓰림·명치통증](gastritis-symptoms.md)
+### 소화·호흡·피부 {#_7}
+
+<span id="next-clinical-routes"></span>
+
+- [소화불량·증상 안내](dyspepsia.md)
+- [기능성소화불량·유형과 치료](functional-dyspepsia.md)
 - [과민성장증후군](ibs.md)
-- [복부팽만·가스](bloating.md)
 - [비염](rhinitis.md)
+- [기침](cough.md)
+- [가려움증·소양증 — 발진 없는 가려움과 원인별 치료](pruritus.md)
+
+<details markdown="1">
+<summary>소화·호흡·피부 더 보기</summary>
+
+- [위염·속쓰림·명치통증](gastritis-symptoms.md)
+- [복부팽만·가스](bloating.md)
 - [소아 비염·아이 비염](child-rhinitis.md)
 - [축농증·부비동염](sinusitis.md)
-- [기침](cough.md)
 - [감기·급성 상기도감염](common-cold.md)
 - [여드름·성인여드름](acne.md)
 - [지루성피부염·두피 가려움](seborrheic-dermatitis.md)
 - [건선·붉은 판과 하얀 각질이 반복돼요](psoriasis.md)
 - [탈모·머리카락이 많이 빠져요](hair-loss.md)
-- [가려움증·소양증 — 발진 없는 가려움과 원인별 치료](pruritus.md)
 - [항문가려움증·항문소양증](pruritus-ani.md)
 - [대상포진](shingles.md)
 - [대상포진 후 신경통](postherpetic-neuralgia.md)
+- [역류성식도염](gerd.md)
+- [매핵기](globus.md)
+- [스트레스성 소화불량](../autonomic/stress-digestion.md)
+- [천식](asthma.md)
+- [두드러기](urticaria.md)
+- [아토피피부염](atopic-dermatitis.md)
+- [습진·접촉피부염](eczema.md)
 
-### 여성·임신·산후
+</details>
+
+### 여성·임신·산후 {#_8}
 
 - [난임·임신준비](infertility-preconception.md)
 - [생리통·월경통](dysmenorrhea.md)
 - [월경불순·생리불순](irregular-menstruation.md)
-- [다낭성난소증후군](polycystic-ovary-syndrome.md)
 - [갱년기](menopause.md)
 - [산후회복 — 회복 단계·산후풍·생활관리](postpartum-recovery.md)
+
+<details markdown="1">
+<summary>여성·임신·산후 더 보기</summary>
+
+- [다낭성난소증후군](polycystic-ovary-syndrome.md)
 - [출산 후 한약·산후보약 — 복용 시점·처방·수유](postpartum-herbal.md)
 - [자궁근종·생리양이 많고 골반이 묵직해요](uterine-fibroids.md)
 
-### 소아·성장
+</details>
+
+### 소아·성장 {#_9}
 
 - [소아 성장·아이 키 성장](child-growth.md)
 - [소아 식욕부진](child-poor-appetite.md)
+- [소아 반복감기·자주 아픈 아이](child-recurrent-colds.md)
 - [소아 수면](child-sleep.md)
+
+<details markdown="1">
+<summary>소아·성장 더 보기</summary>
+
 - [소아 비염](child-rhinitis.md)
 - [소아 야뇨증](child-enuresis.md)
 
-### 검사·대사·신장
+</details>
+
+### 검사·대사·신장 {#_10}
+
+<span id="metabolic-fatigue-care"></span>
 
 - [만성염증·염증수치·CRP·ESR 상승](inflammation-markers.md)
 - [혈압이 높아요·건강검진 고혈압](high-blood-pressure-checkup.md)
 - [지방간·건강검진 지방간](fatty-liver.md)
 - [만성콩팥병·크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
+
+<details markdown="1">
+<summary>검사·대사·신장 더 보기</summary>
+
 - [당뇨병성 콩팥병·미세알부민뇨](diabetic-kidney-disease.md)
 
-### 비뇨·배뇨
+- [제2형 당뇨병](type-2-diabetes.md)
+- [당뇨전단계·혈당 검사](prediabetes.md)
+- [이상지질혈증](dyslipidemia.md)
+- [갑상선기능저하증](hypothyroidism.md)
+- [갑상선기능항진증](hyperthyroidism.md)
+- [빈혈·철결핍성빈혈](anemia-fatigue.md)
+
+</details>
+
+### 비뇨·배뇨 {#_11}
 
 - [방광염·반복되는 요로감염](cystitis.md)
 - [과민성방광·절박뇨](overactive-bladder.md)
 - [야간뇨·밤에 자주 소변을 봐요](nocturia.md)
 - [전립선비대증·소변줄기가 약해요](benign-prostatic-hyperplasia.md)
 
+### 눈·입의 불편 {#eye-oral-symptom-routes}
+
+- [안구건조증](dry-eye.md)
+- [눈피로](eye-fatigue.md)
+- [구강건조증·입마름](dry-mouth.md)
+- [구내염](mouth-ulcer.md)
+
+<details markdown="1">
+<summary>눈·입의 불편 더 보기</summary>
+
+- [눈꺼풀떨림·안면떨림](eye-twitching.md)
+- [쇼그렌증후군](sjogrens-syndrome.md)
+- [노인 입마름](elderly-dry-mouth.md)
+- [구강작열감·설통](tongue-burning.md)
+- [입냄새](bad-breath.md)
+- [미각장애](taste-change.md)
+- [입쓴맛](bitter-taste.md)
+
+</details>
+
 녹용보약·피로보약·노인보약·성장보약·수술 후 회복보약은 [보약·회복 상황별 안내](../pillar/tonic-recovery.md#tonic-keywords)에서 관련 증상과 처방 자료로 이어집니다.
 
 분야 전체를 비교해서 찾으려면 [피부·두피·모발](../pillar/skin-hair.md), [소아·성장·면역](../pillar/pediatrics.md), [비뇨·배뇨·남성건강](../pillar/urology-mens-health.md), [대사·건강검진](../pillar/metabolic-checkup.md) 허브를 이용하세요.
 
-## 어디서부터 찾을까요?
+## 어디서부터 찾을까요? {#_12}
 
-### 1. 증상으로 시작하기
+### 1. 증상으로 시작하기 {#1}
 
 병명을 모르고 **“입 벌릴 때 턱이 아파요”, “밤에 다리가 불편해요”, “손발이 저려요”, “몸이 자주 부어요”**처럼 불편한 표현만 알고 있다면 [증상으로 찾기](/symptom-integrated/)에서 시작합니다.
 
@@ -141,7 +257,7 @@ last_reviewed: 2026-09-21
 
 `환자 표현 → 위험신호·감별 → 관련 질환 → 한의학적 변증 → 한약·침구치료 → 현대 임상근거`
 
-### 2. 질환별 현대 임상근거 보기
+### 2. 질환별 현대 임상근거 보기 {#2}
 
 질환별 근거 카드는 RCT, systematic review, meta-analysis, network meta-analysis와 실제 임상 outcome을 연결합니다.
 
@@ -155,7 +271,7 @@ last_reviewed: 2026-09-21
 
 → [질환별 현대 근거 카드](/authority/conditions/)
 
-### 3. 한약 처방과 본초 근거로 연결하기
+### 3. 한약 처방과 본초 근거로 연결하기 {#3}
 
 증상이나 질환에서 바로 특정 처방을 단정하지 않고 **변증과 임상 맥락을 거쳐** 본초·방제 근거로 이동합니다.
 
@@ -175,25 +291,14 @@ last_reviewed: 2026-09-21
 → [본초·방제](/herbal-integrated/)  
 → [출처·근거 허브](/authority/)
 
-### 4. 침구·경혈 근거로 연결하기
+### 4. 침구·경혈 근거로 연결하기 {#4}
 
 질환별 침·전침·뜸·이침·두침 등의 현대근거와 함께 WHO 표준 361경혈을 탐색할 수 있습니다.
 
 → [침구·치료](/acupuncture-integrated/)  
 → [WHO 표준 361경혈 임상 아틀라스](/acupoint-network/standard-atlas/)
 
-## 많이 찾는 영역
-
-- **피로·회복** — 만성피로, 기력저하, 수술 후 회복, 병후 회복
-- **소화·장** — 더부룩함, 조기포만, 복통, IBS, 변비, 역류
-- **수면·정서·자율신경** — 불면, 새벽각성, 두근거림, 불안, 스트레스
-- **통증·근골격** — 목, 어깨, 허리, 무릎, 팔꿈치, 발목, 발뒤꿈치, 저림
-- **여성·생식** — 월경통, PCOS, 임신준비, 임신오조, 산후, 갱년기
-- **남성·비뇨** — 만성골반통, 과민성방광, 야간뇨, 배뇨불편, 발기기능
-- **호흡·알레르기** — 비염, 기침, 천식, COPD, 반복 감기
-- **대사·신장·순환** — 체중·대사, 당뇨 합병증, 신장기능, 혈압 관련 지식
-
-## 임상적으로 어떻게 읽나요?
+## 임상적으로 어떻게 읽나요? {#_14}
 
 각 문서는 가능한 범위에서 다음 순서를 유지합니다.
 
@@ -213,7 +318,7 @@ last_reviewed: 2026-09-21
 
 → [근거 가이드](/evidence-guide/)
 
-## AI·검색에서의 연결 구조
+## AI·검색에서의 연결 구조 {#ai}
 
 이 허브는 검색엔진과 AI가 증상·질환·치료·근거의 관계를 명확하게 읽도록 구성합니다.
 
@@ -221,7 +326,7 @@ last_reviewed: 2026-09-21
 
 → [AI 검색 구조](/ai-index/)
 
-## 관련 핵심 문서
+## 관련 핵심 문서 {#_15}
 
 - [환자 질문 검색 지도](../ai/patient-search-map.md)
 - [맞춤한약](custom-herbal-medicine.md)
@@ -229,7 +334,7 @@ last_reviewed: 2026-09-21
 - [근거 가이드](/evidence-guide/)
 - [AI 검색 구조](/ai-index/)
 
-## 관련 핵심 허브
+## 관련 핵심 허브 {#_16}
 
 - [아카이브 안내](../guide/index.md)
 - [본초·방제](../herbal-integrated/index.md)
@@ -239,14 +344,14 @@ last_reviewed: 2026-09-21
 
 <!-- ORPHAN_CONDITIONS_HUB_START -->
 
-<details>
+<details markdown="1">
 <summary><strong>세부 증상·질환 전체 목록 펼쳐보기</strong></summary>
 
-## 세부 증상·질환 전체 목록
+## 세부 증상·질환 전체 목록 {#condition-directory-1}
 
 주요 질환은 위의 분야별 허브에서 감별 흐름과 함께 찾을 수 있습니다. 아래 목록은 구체적인 생활 표현이나 세부 증상을 바로 찾을 때 펼쳐보세요.
 
-### 통증·근골격
+### 통증·근골격 {#condition-directory-2}
 
 - [아킬레스건 통증·뒤꿈치 위 통증](achilles-pain.md)
 - [침치료 많이 아픈가요](acupuncture-pain-question.md)
@@ -287,7 +392,7 @@ last_reviewed: 2026-09-21
 - [허벅지 통증·당김](thigh-pain.md)
 - [손목통증](wrist-pain.md)
 
-### 소화·장·식욕·체중
+### 소화·장·식욕·체중 {#condition-directory-3}
 
 - [장내가스·방귀가 많아요](abdominal-gas.md)
 - [복부비만·뱃살](abdominal-obesity.md)
@@ -314,7 +419,7 @@ last_reviewed: 2026-09-21
 - [다이어트 정체기·체중이 안 빠져요](weight-plateau.md)
 - [요요·다이어트 후 체중증가](weight-regain.md)
 
-### 수면·자율신경·피로
+### 수면·자율신경·피로 {#condition-directory-4}
 
 - [자율신경 기능 이상·여러 증상을 함께 보는 방법](../autonomic/index.md)
 - [긴장하면 몸이 불편해요·신체화 증상](anxiety-somatic.md)
@@ -341,7 +446,7 @@ last_reviewed: 2026-09-21
 - [긴장하면 소변이 자주 마려워요](urinary-frequency-stress.md)
 - [주말에 늘어지는 피로·회복부족](chronic-fatigue.md#time-patterns)
 
-### 호흡기·면역·피부
+### 호흡기·면역·피부 {#condition-directory-5}
 
 - [알레르기 피부반응·민감성 피부](allergic-skin.md)
 - [아이 손발냉증·추위를 많이 타요](child-cold-hands-feet.md)
@@ -362,20 +467,20 @@ last_reviewed: 2026-09-21
 - [재채기·맑은콧물](rhinitis.md#sneezing-runny-nose)
 - [인후통·목감기](sore-throat.md)
 
-### 소아·성장
+### 소아·성장 {#condition-directory-6}
 
 - [성장기·아이 키 성장](child-growth.md)
 - [소아 멀미·차만 타면 울렁거림](child-motion-sickness.md)
 - [아이 식은땀·잘 때 땀](child-night-sweats.md)
 - [성장보약·아이 보약·소아 한약](child-parent-tonic-guide.md)
 
-### 여성·산후·갱년기
+### 여성·산후·갱년기 {#condition-directory-7}
 
 - [폐경이행기·생리주기 변화](perimenopause.md)
 - [생리전증후군·PMS](pms.md)
 - [산후 땀·식은땀·냉증](postpartum-sweating.md)
 
-### 남성·배뇨·골반
+### 남성·배뇨·골반 {#condition-directory-8}
 
 - [골반·회음부 통증 — 원인 감별과 치료 길잡이](pelvic-pain.md)
 - [야간뇨·밤에 소변 때문에 깨요](nocturia.md)
@@ -384,14 +489,14 @@ last_reviewed: 2026-09-21
 - [잔뇨감·소변이 시원하지 않아요](residual-urine.md)
 - [소변줄기 약함·배뇨지연](weak-urine-stream.md)
 
-### 대사·신장·부종·순환
+### 대사·신장·부종·순환 {#condition-directory-9}
 
 - [건강검진 크레아티닌·eGFR·단백뇨 이상 — 만성콩팥병 초기관리](chronic-kidney-disease.md)
 - [당뇨가 있는데 미세알부민뇨·단백뇨가 나왔어요](diabetic-kidney-disease.md)
 - [저녁 다리부종·발목붓기](leg-swelling-evening.md)
 - [혈액순환이 안 되는 느낌](poor-circulation-sensation.md)
 
-### 기타
+### 기타 {#condition-directory-10}
 
 - [여드름·성인여드름](acne.md)
 - [침치료 얼마나 자주 받나요](acupuncture-frequency.md)
@@ -487,47 +592,3 @@ last_reviewed: 2026-09-21
 </details>
 
 <!-- ORPHAN_CONDITIONS_HUB_END -->
-
-## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
-
-통증의 원인과 증상 조합에 맞는 안내를 먼저 선택하고, 문서 안에서 변증·처방·치료 자료로 이어갈 수 있습니다.
-
-[허리디스크](lumbar-disc-herniation.md) · [척추관협착증](lumbar-spinal-stenosis.md) · [좌골신경통](sciatica.md) · [목디스크](cervical-disc-herniation.md) · [손목터널증후군](carpal-tunnel.md)
-
-소화·수면·두통은 동반 증상을 함께 비교하면 다음에 읽을 자료를 좁히기 좋습니다.
-
-[역류성식도염](gerd.md) · [매핵기](globus.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md) · [편두통](migraine.md) · [긴장성두통](tension-headache.md) · [스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](early-awakening.md) · [숙면·회복감](nonrestorative-sleep.md)
-
-## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
-
-호흡기·피부에서 면역과 알레르기를 함께 볼 때는 실제 증상의 모양과 원인, 질환별 조절 상태를 구분합니다.
-
-[천식](asthma.md) · [두드러기](urticaria.md) · [아토피피부염](atopic-dermatitis.md) · [습진·접촉피부염](eczema.md)
-
-배뇨의 불편은 감염·절박감·배출 지연·야간 각성으로 나누어 살펴볼 수 있습니다.
-
-[방광염](cystitis.md) · [과민성방광](overactive-bladder.md) · [전립선비대증](benign-prostatic-hyperplasia.md) · [야간뇨](nocturia.md)
-
-## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
-
-식사·배변, 아이의 성장, 어지럼과 청력은 동반 양상에 따라 아래 안내에서 자세히 볼 수 있습니다.
-
-[소아 식욕부진](child-poor-appetite.md) · [이석증](bppv.md) · [메니에르병](menieres-disease.md) · [돌발성난청](sudden-sensorineural-hearing-loss.md)
-
-## 검사·증상·치료를 이어서 보기 {#metabolic-fatigue-care}
-
-검진에서 발견된 수치 변화와 피로·체중·월경 증상을 원인별 평가와 치료로 연결합니다.
-
-[제2형 당뇨병](type-2-diabetes.md) · [당뇨전단계·혈당 검사](prediabetes.md) · [이상지질혈증](dyslipidemia.md) · [갑상선기능저하증](hypothyroidism.md) · [갑상선기능항진증](hyperthyroidism.md) · [빈혈·철결핍성빈혈](anemia-fatigue.md)
-
-## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
-
-관절의 급성 부종·아침강직, 골밀도 저하와 골절 회복, 전신통증·피로를 해당 안내에서 구분할 수 있습니다.
-
-[통풍·요산 관리](gout.md) · [류마티스관절염](rheumatoid-arthritis.md) · [골다공증·골절 예방](osteoporosis.md) · [아침강직·조조강직](morning-stiffness.md) · [섬유근육통·전신통증](../authority/conditions/fibromyalgia.md)
-
-## 눈·입의 불편을 이어서 보기 {#eye-oral-symptom-routes}
-
-건조·떨림·궤양·통증·맛의 변화를 나누어 원인 평가와 변증·처방·연구로 이어집니다.
-
-[안구건조증](dry-eye.md) · [눈피로](eye-fatigue.md) · [눈꺼풀떨림·안면떨림](eye-twitching.md) · [구강건조증·입마름](dry-mouth.md) · [쇼그렌증후군](sjogrens-syndrome.md) · [노인 입마름](elderly-dry-mouth.md) · [구내염](mouth-ulcer.md) · [구강작열감·설통](tongue-burning.md) · [입냄새](bad-breath.md) · [미각장애](taste-change.md) · [입쓴맛](bitter-taste.md)
