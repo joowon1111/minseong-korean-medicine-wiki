@@ -188,8 +188,8 @@ def formula_cards():
         body = path.read_text(encoding='utf-8-sig')
         # Preserve the source's preparation/version labels instead of guessing a universal composition.
         for heading, part in sections(body):
-            if any(w in heading for w in ['처방 구조', '삼보삼사', '네 가지 구성축', '여덟 약미', '수록 구성', '수록본의 구성']):
-                rows = table_rows(part)
+            if any(w in heading for w in ['처방 구조', '방제 구조', '삼보삼사', '네 가지 구성축', '네 약미의 역할', '여덟 약미', '수록 구성', '수록본의 구성', '배합과 복법']) or heading == '구성':
+                rows = first_table(part)
                 if rows:
                     facts.append(('원문 배합축', ' / '.join(' — '.join(row) for row in rows[1:5])))
                     break
@@ -198,6 +198,13 @@ def formula_cards():
         c['overviewSource'] = '/herbal-integrated/general-formulary/#core-formulas-100'
         result.append(c)
     assert len(result) == 100, len(result)
+    comparison = 'herbal-integrated/formula-structure.md'
+    text = (DOCS / comparison).read_text(encoding='utf-8-sig')
+    body = next(b for h, b in sections(text) if h == '계열별 빠른 비교')
+    for row in first_table(body)[1:]:
+        result.append(card('formula-family-' + row[0], row[0] + ' 처방 계열 비교', '처방 계열 비교',
+                           [('대표 처방', row[1]), ('분기 기준', row[2]), ('감별 질문', row[3])], comparison,
+                           f'{row[0]} 계열의 대표 처방과 갈림점을 설명해 보세요.'))
     return result
 
 
@@ -209,6 +216,10 @@ def acupuncture_cards():
     for row in table_rows(table)[1:]:
         result.append(card('shu-' + re.search(r'[A-Z]{2}', row[0])[0], row[0] + ' 오수혈', '오수혈',
                            list(zip(['정(井)', '형(滎)', '수(兪)', '경(經)', '합(合)'], row[1:])), five_path))
+        for classification, point in zip(['정(井)', '형(滎)', '수(兪)', '경(經)', '합(合)'], row[1:]):
+            result.append(card('shu-point-' + point.split()[0], point + ' 오수혈 분류', '오수혈 개별 60혈',
+                               [('소속 경맥', row[0]), ('오수혈 분류', classification)], five_path,
+                               f'{point}의 소속 경맥과 정·형·수·경·합 분류는?'))
     special_path = 'acupuncture-specific/special-points-atlas.md'
     for heading, body in sections((DOCS / special_path).read_text()):
         rows = table_rows(body)
@@ -237,6 +248,10 @@ def acupuncture_cards():
     section = next(b for h, b in sections(text) if h == '대표 배혈법')
     for title, definition in re.findall(r'- \*\*([^*]+)\*\*[:：]\s*(.+)', section):
         result.append(card('pair-' + title, title, '배혈 원리', [('구성 원리', definition)], pairing))
+    pairs = next(b for h, b in sections(text) if h == '팔맥교회혈 대표 짝')
+    for row in first_table(pairs)[1:]:
+        result.append(card('extra-pair-' + row[0].split()[0], row[0], '팔맥교회혈 짝 복습',
+                           [('연결 기경', row[1])], pairing, f'{row[0]} 조합에 연결된 두 기경은?'))
     for code, name, area in re.findall(r'^- ([A-Z]{2}\d+) (\S+) — (.+)', text, re.M):
         result.append(card('four-' + code, f'{code} {name} 사총혈', '사총혈', [('대표 부위', area)], pairing))
     modalities = 'acupuncture-integrated/modalities.md'
@@ -257,6 +272,32 @@ def acupuncture_cards():
     section = next(b for h, b in sections(text) if h == '연구설계별 해석')
     for title, definition in re.findall(r'- \*\*([^:*]+):\*\*\s*(.+)', section):
         result.append(card('design-' + title, title, '연구설계', [('해석 범위', definition)], evidence))
+    return result
+
+
+def herb_comparison_cards():
+    """Read each comparison's first table only; don't mix secondary examples."""
+    path = 'herbal-integrated/herb-comparisons.md'
+    text = (DOCS / path).read_text(encoding='utf-8-sig')
+    result = []
+    for heading, body in sections(text):
+        rows = first_table(body)
+        if not rows:
+            continue
+        title = re.sub(r'\s*\{#[^}]+\}', '', heading)
+        if rows[0][0] == '구분':
+            # Transposed 시호/향부자 table: preserve the two named columns.
+            for column in (1, 2):
+                name = rows[0][column]
+                facts = [('비교 묶음', title)] + [(r[0], r[column]) for r in rows[1:]]
+                result.append(card('herb-compare-' + name, name + ' 비교·감별', '본초 비교·감별', facts, path))
+        else:
+            name_column = 1 if rows[0][0] == '병증 방향' else 0
+            for row in rows[1:]:
+                name = row[name_column]
+                facts = [('비교 묶음', title)] + [(rows[0][i], v) for i, v in enumerate(row) if i != name_column]
+                result.append(card('herb-compare-' + title + '-' + name, name + ' 비교·감별', '본초 비교·감별',
+                                   facts, path, f'{title} 중 {name}의 상대적 차이는?'))
     return result
 
 
@@ -282,8 +323,10 @@ def make_question(c, label, pool, kind='fact', prompt=None):
         return None
     answer = {'text': value, 'owner': c['title'], 'ownerId': c['id'], 'source': c['source'], 'correct': True}
     options = shuffled([answer] + candidates, c['id'] + label + 'options')
+    comparison = next((f['value'] for f in c['facts'] if f['label'] == '비교 묶음'), '')
+    scope = f'「{comparison}」에서 ' if comparison else ''
     q = {'id': c['id'] + '-' + kind + '-' + label, 'cardId': c['id'], 'category': c['category'],
-         'kind': kind, 'prompt': prompt or f"{c['title']}의 {label}으로 정리된 것은?",
+         'kind': kind, 'prompt': prompt or f"{scope}{c['title']}의 {label}으로 정리된 것은?",
          'options': options, 'answer': next(i for i, o in enumerate(options) if o.get('correct')),
          'explanation': f"{c['title']} — {label}: {value}", 'source': c['source']}
     for option in options:
@@ -311,7 +354,10 @@ def quizzes(subject, cards):
                 questions.append(dict(base, id=c['id'] + '-location', kind='location', prompt='다음 표준 위치에 해당하는 경혈은?', context=location))
             questions.append(dict(base, id=c['id'] + '-diagram', kind='diagram', prompt='도해의 붉은 점에 해당하는 경혈은?', diagram=c['quizDiagram']))
         else:
-            labels = {'herbs': ['생약명', '전통 효능'], 'formulas': ['구조 읽기', '수치·법제 확인']}.get(subject)
+            labels = {'herbs': ['생약명', '전통 효능', '약용 부위', '기원·약용 부위', '성미', '귀경', '성미·귀경'],
+                      'formulas': ['구조 읽기', '수치·법제 확인', '원문 배합축', '대표 처방', '분기 기준', '감별 질문']}.get(subject)
+            if subject == 'herbs' and c['category'] == '본초 비교·감별':
+                labels = [f['label'] for f in c['facts'] if f['label'] not in ('비교 묶음', '처방에서 보기', '배합에서 보기', '상세 문서')]
             if labels is None:
                 labels = [f['label'] for f in c['facts'] if f['label'] != '연결']
             pool = [p for p in cards if p['category'] == c['category']] if subject == 'acupuncture' else cards
@@ -320,6 +366,27 @@ def quizzes(subject, cards):
                     q = make_question(c, label, pool)
                     if q:
                         questions.append(q)
+                    # Reverse recall only when this complete source description is unique.
+                    fact = next(f for f in c['facts'] if f['label'] == label)
+                    same = [p for p in cards if any(f['label'] == label and normalized(f['value']) == normalized(fact['value']) for f in p['facts'])]
+                    short_title = re.sub(r' 비교·감별| 오수혈 분류| 처방 계열 비교', '', c['title'])
+                    if len(same) == 1 and len(cards) >= 4 and normalized(short_title) not in normalized(fact['value']) and label not in ('수치·법제 확인', '약용 부위', '성미', '귀경', '성미·귀경', '오수혈 분류', '소속 경맥'):
+                        candidates = [p for p in cards if p['category'] == c['category']]
+                        selected, seen = [c], {normalized(c['title'])}
+                        for p in shuffled(candidates, c['id'] + label):
+                            if normalized(p['title']) not in seen:
+                                selected.append(p)
+                                seen.add(normalized(p['title']))
+                            if len(selected) == 4:
+                                break
+                        if len(selected) != 4:
+                            continue
+                        choices = shuffled(selected, c['id'] + label + 'recall')
+                        questions.append({'id': c['id'] + '-recall-' + label, 'cardId': c['id'], 'category': c['category'],
+                                          'kind': 'recall', 'prompt': '원문의 다음 설명과 연결된 학습 항목은?',
+                                          'context': label + ': ' + fact['value'],
+                                          'options': [{'text': p['title'], 'owner': p['title'], 'ownerId': p['id'], 'source': p['source']} for p in choices],
+                                          'answer': choices.index(c), 'explanation': c['title'] + ' — ' + label + ': ' + fact['value'], 'source': c['source']})
     return questions
 
 
@@ -376,6 +443,8 @@ def build():
     decks = {}
     for subject, builder in builders.items():
         cards = builder()
+        if subject == 'herbs':
+            cards.extend(herb_comparison_cards())
         decks[subject] = {'schema': 1, 'subject': subject, 'title': SUBJECTS[subject], 'cards': cards, 'questions': quizzes(subject, cards)}
     validate(decks)
     return decks
@@ -385,7 +454,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-1', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261002-3', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -426,6 +495,8 @@ def main():
         for subject, deck in decks.items():
             text = re.sub(r'(\| \[' + SUBJECTS[subject] + r'\]\(' + subject + r'\.md\) \| )\d+( \| )[\d,]+',
                           lambda m: m[1] + str(len(deck['cards'])) + m[2] + f"{len(deck['questions']):,}", text)
+            text = re.sub(r'(href="/learning/' + subject + r'/".*?<small>)\d+개 카드',
+                          lambda m: m[1] + str(len(deck['cards'])) + '개 카드', text)
         write_bytes(hub, text.encode())
     print(json.dumps(manifest, ensure_ascii=False))
 
