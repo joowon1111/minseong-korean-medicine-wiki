@@ -104,11 +104,15 @@
   function prepareDoc(doc) {
     const title = normalize(doc.title);
     const titleC = title.replace(/\s+/g, "");
+    // 한자 병기는 이름의 일부가 아니다. 부제와 비교 제목은 그대로 구분한다.
+    const primaryTitle = compact(String(doc.title).normalize("NFKC")
+      .replace(/\([^()]*\)/g, "")
+      .replace(/\s+임상 카드\s*$/, ""));
     const keys = (doc.keywords || []).map(normalize);
     const keysC = keys.map((key) => key.replace(/\s+/g, ""));
     const text = normalize(doc.text);
     const textC = text.replace(/\s+/g, "");
-    return { doc, title, titleC, keys, keysC, text, textC };
+    return { doc, title, titleC, primaryTitle, keys, keysC, text, textC };
   }
 
   function scoreDoc(prepared, query) {
@@ -153,9 +157,11 @@
     const query = { qn: normalize(raw), qc: compact(raw),
       terms: queryTerms(raw).map((term) => [term, term.replace(/\s+/g, '')]) };
     return data
-      .map((prepared) => ({ doc: prepared.doc, score: scoreDoc(prepared, query) }))
+      .map((prepared) => ({ doc: prepared.doc, score: scoreDoc(prepared, query),
+        exact: prepared.titleC === query.qc || prepared.primaryTitle === query.qc }))
       .filter((x) => x.score > 0)
-      .sort((a, b) => b.score - a.score || a.doc.title.localeCompare(b.doc.title, "ko"))
+      .sort((a, b) => Number(b.exact) - Number(a.exact) ||
+        b.score - a.score || a.doc.title.localeCompare(b.doc.title, "ko"))
       .slice(0, RESULT_LIMIT);
   }
 
