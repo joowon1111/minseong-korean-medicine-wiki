@@ -43,10 +43,10 @@ test("Sasang explorer filters constitution, axis and stage, then resets", () => 
   assert.equal(e["sx-axis"].disabled, false);
   assert.deepEqual(
     e["sx-axis"].children.map(x => x.value),
-    ["", "비수한표한병", "위수열리열병"]
+    ["", "소양상풍·표병", "표병·결흉/흉격 불편", "신열두통망음·배설 변화", "망음·설사/복통", "흉격열·리열", "장관 열·이질", "강한 리열·이열변폐", "음허오열·하소/허로"]
   );
 
-  e["sx-axis"].value = "위수열리열병";
+  e["sx-axis"].value = "흉격열·리열";
   e["sx-axis"].dispatch("change");
   assert.equal(e["sx-stage"].disabled, false);
   assert.ok(e["sx-stage"].children.some(x => x.value === "흉격열·리열"));
@@ -65,7 +65,7 @@ test("Sasang explorer filters constitution, axis and stage, then resets", () => 
   assert.equal(e["sx-constitution"].focused, true);
 });
 
-test("All four constitutions expose at least one axis", () => {
+test("Explorer exposes eight major disease groups for three constitutions and preserves Taeyangin evidence limits", () => {
   for (const constitution of ["소양인","태음인","소음인","태양인"]) {
     const e = boot();
     e["sx-constitution"].value = constitution;
