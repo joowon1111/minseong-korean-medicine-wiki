@@ -59,7 +59,7 @@ description: 사상체질 병증 감별 문진 순서 — 민성 한의학 아�
 
 의식 변화, 편측마비·언어장애, 흉통·호흡곤란·실신, 지속 고열, 혈변·토혈·흑변, 심한 탈수·소변 감소, 진행성 연하곤란·빠른 체중감소는 체질 문진보다 즉시 필요한 의학적 평가가 우선입니다.
 
-→ [네 체질 병증 감별 핵심표](four-constitution-map.md) · [사상체질별 한약처방](../sasang-formula-cards/index.md) · [경과관찰](../sasang-follow-up/index.md)
+→ [네 체질 병증 감별 핵심표](four-constitution-map.md) · [사상체질별 한약처방](../sasang-formula-cards/index.md) · [경과관찰](../sasang-followup/index.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
