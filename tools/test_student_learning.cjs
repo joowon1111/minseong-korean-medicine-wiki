@@ -126,3 +126,35 @@ test('a small selected range offers one quiz length without duplicate buttons', 
   h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
   assert.equal(all(h.root).filter(e => e.tagName === 'button' && e.textContent === '1문제 풀기').length, 1);
 });
+const anatomy = JSON.parse(fs.readFileSync('docs/assets/learning/anatomy.json', 'utf8'));
+test('anatomy accepts exact Korean aliases and English but rejects nearby structures', () => {
+  const q = anatomy.questions.find(q => q.cardId === 'anatomy-muscle-gluteus-medius' && q.acceptedAnswers);
+  assert.ok(study.answerMatches(q, '중간 볼기근'));
+  assert.ok(study.answerMatches(q, 'GLUTEUS MEDIUS'));
+  assert.ok(study.answerMatches(q, 'ｇｌｕｔｅｕｓ ｍｅｄｉｕｓ'));
+  for (const answer of ['', '둔근', '대둔근', 'gluteus', 'gluteus minimus', '모르겠습니다']) assert.equal(study.answerMatches(q, answer), false);
+  assert.ok(study.filteredCards(anatomy, study.emptyProgress(), '', '중간볼기근', 'cards').some(c => c.id === q.cardId));
+});
+test('typed identification shares wrong answers, locks submissions and switches subjects safely', async () => {
+  const h = harness(); h.button('기초 해부학').events.click();
+  h.loads[1].resolve({ok: true, json: async () => anatomy}); await h.settle();
+  assert.ok(h.select('학습 방식').children.some(e => e.value === 'identify'));
+  h.select('학습 방식').value = 'identify'; h.select('학습 방식').events.change();
+  h.button('10문제 시작').events.click();
+  assert.equal(all(h.root).filter(e => e.attrs['data-option'] !== undefined).length, 0);
+  const skip = h.button('모르겠어요 · 정답 보기'); skip.events.click(); skip.events.click();
+  assert.ok(all(h.root).some(e => e.textContent.includes('오답 1개')));
+  h.button('다음 문제 →').events.click();
+  const prompt = all(h.root).find(e => e.tagName === 'h3').textContent;
+  const object = all(h.root).find(e => e.tagName === 'object');
+  const clue = all(h.root).find(e => e.attrs.class === 'learning-prompt');
+  const q = anatomy.questions.find(q => q.acceptedAnswers && q.prompt === prompt && (object ? q.diagram === object.attrs.data : q.context === clue.textContent));
+  const form = all(h.root).find(e => e.tagName === 'form');
+  form.children.find(e => e.tagName === 'input').value = q.acceptedAnswers[0];
+  form.events.submit({preventDefault(){}});
+  assert.ok(all(h.root).some(e => e.textContent === '정답이에요.'));
+  h.button('경혈학').events.click(); h.loads[0].resolve({ok:true,json:async()=>deck}); await h.settle();
+  assert.equal(h.select('학습 방식').value, 'cards');
+  assert.equal(h.select('학습 방식').children.some(e => e.value === 'identify'), false);
+  assert.ok(h.button('카드 뒤집기 · 답 확인'));
+});
