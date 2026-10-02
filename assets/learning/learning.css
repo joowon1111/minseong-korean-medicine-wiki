@@ -1,0 +1,31 @@
+.learning-room{--learn-accent:#087d80;--learn-border:var(--md-default-fg-color--lightest);margin:1.2rem 0 2rem;scroll-margin-top:5rem}
+.learning-room button,.learning-room select,.learning-room input{font:inherit;border:1px solid var(--learn-border);border-radius:.55rem;padding:.55rem .8rem;background:var(--md-default-bg-color);color:var(--md-default-fg-color);max-width:100%}
+.learning-room button{cursor:pointer;line-height:1.5;min-height:44px;white-space:normal;text-align:left}
+.learning-room button:hover{border-color:var(--learn-accent);background:var(--md-accent-fg-color--transparent)}
+.learning-room button:focus-visible,.learning-room select:focus-visible,.learning-room input:focus-visible{outline:3px solid var(--learn-accent);outline-offset:3px}
+.learning-subjects{display:grid;grid-template-columns:repeat(4,1fr);gap:.5rem;margin-bottom:.8rem}
+.learning-subjects button{text-align:center;font-weight:700}
+.learning-subjects button[aria-pressed=true],.learning-room .learning-primary{background:var(--learn-accent);color:white;border-color:var(--learn-accent)}
+.learning-filters{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr) minmax(0,1fr);gap:.5rem}
+.learning-filters input,.learning-filters select{width:100%;min-width:0;min-height:44px}
+.learning-stats,.learning-note,.learning-status{font-size:.72rem;color:var(--md-default-fg-color--light)}
+.learning-stage{border:1px solid var(--learn-border);border-radius:1rem;padding:1.4rem;background:var(--md-default-bg-color);box-shadow:0 4px 18px #00000006;min-height:240px;overflow-wrap:anywhere}
+.learning-stage h3{margin:.2rem 0 1rem;font-size:1.12rem;line-height:1.6}
+.learning-eyebrow{font-size:.72rem;letter-spacing:.01em;color:var(--learn-accent);margin-top:0}
+.learning-prompt{font-size:.9rem;line-height:1.9}
+.learning-actions,.learning-toolbar{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1rem;align-items:center}
+.learning-toolbar{justify-content:space-between}
+.learning-toolbar button{font-size:.7rem}.learning-room .learning-clear{color:var(--md-default-fg-color--light);border-color:transparent}
+.learning-facts{display:grid;grid-template-columns:110px minmax(0,1fr);gap:.7rem 1rem}
+.learning-facts dt{font-weight:700;font-size:.76rem}.learning-facts dd{margin:0;line-height:1.8;font-size:.8rem}
+.learning-source{display:inline-block;font-size:.75rem;margin:.5rem .7rem .5rem 0}
+.learning-options{display:grid;gap:.55rem;margin:1rem 0}.learning-options button{width:100%;padding:.8rem;font-size:.8rem}
+.learning-options button:disabled{cursor:default;opacity:1}.learning-options .is-correct{border:2px solid #087d80;background:#087d8015}.learning-options .is-wrong{border:2px solid #ad4b31;background:#ad4b3112}
+.learning-feedback{padding:1rem;border-left:4px solid var(--learn-accent);background:var(--md-accent-fg-color--transparent);margin:1rem 0;font-size:.8rem;line-height:1.8}
+.learning-feedback details{margin-top:.5rem}.learning-feedback summary{cursor:pointer;font-weight:700}.learning-result{font-weight:700;font-size:1.2rem;color:var(--learn-accent)}
+.learning-stage>button{margin:.3rem .5rem .3rem 0}
+.learning-diagram{display:block;width:100%;height:480px;border:1px solid var(--learn-border);border-radius:.7rem;background:#fff}
+.learning-stage figure{margin:1rem 0}.learning-stage figcaption{font-size:.65rem;line-height:1.7;color:var(--md-default-fg-color--light);margin-top:.4rem}
+.learning-subject-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem}.learning-subject-grid>a{display:block;border:1px solid var(--md-default-fg-color--lightest);border-radius:.8rem;padding:1rem;line-height:1.7}.learning-subject-grid strong{display:block;font-size:1rem}.learning-subject-grid small{display:block;font-size:.7rem;color:var(--md-default-fg-color--light)}
+@media(max-width:700px){.learning-filters{grid-template-columns:1fr 1fr}.learning-filters input{grid-column:1/-1}.learning-stage{padding:1rem}.learning-facts{grid-template-columns:1fr;gap:.2rem}.learning-facts dd{margin-bottom:.8rem}.learning-diagram{height:380px}.learning-subject-grid{grid-template-columns:1fr}.learning-subjects{gap:.3rem}.learning-subjects button{padding:.6rem .3rem;font-size:.78rem}}
+@media(prefers-reduced-motion:reduce){.learning-room *{scroll-behavior:auto}}
