@@ -11,3 +11,66 @@
 .ms-quick { display:flex; flex-wrap:wrap; gap:.45rem; margin:.6rem 0 1.4rem; }
 .ms-quick a { border:1px solid var(--md-default-fg-color--lightest); border-radius:999px; padding:.35rem .7rem; text-decoration:none !important; }
 @media (max-width:760px){ .ms-grid{grid-template-columns:1fr;} .ms-hero{text-align:left;} }
+
+/* Home refinements: keep the existing grid, spacing and portal styles. */
+.md-typeset:has(.ms-home) {
+  --ms-home-link: #276344;
+  --ms-home-link-hover: #19472f;
+  --ms-home-description: #56625a;
+  --ms-home-border: #dfe7e1;
+  --ms-home-highlight: #f2f7f3;
+}
+[data-md-color-scheme="slate"] .md-typeset:has(.ms-home) {
+  --ms-home-link: #a0d9b7;
+  --ms-home-link-hover: #c4ecd2;
+  --ms-home-description: #b9c6bf;
+  --ms-home-border: #46574d;
+  --ms-home-highlight: #28392e;
+}
+.md-typeset:has(.ms-home) a { color: var(--ms-home-link); }
+.md-typeset:has(.ms-home) a:hover { color: var(--ms-home-link-hover); }
+.md-typeset:has(.ms-home) .ms-hero h1 { color: var(--md-default-fg-color); }
+.md-typeset:has(.ms-home) .ms-sub { opacity: 1; }
+.md-typeset:has(.ms-home) .ms-card {
+  border-color: var(--ms-home-border);
+  transition: transform .12s ease, box-shadow .12s ease, background-color .12s ease, border-color .12s ease;
+}
+.md-typeset:has(.ms-home) .ms-card strong {
+  display: flex;
+  align-items: center;
+  gap: .45rem;
+}
+.md-typeset:has(.ms-home) .ms-card-icon {
+  width: 1.15rem;
+  height: 1.15rem;
+  flex: none;
+}
+.md-typeset:has(.ms-home) .ms-card span { color: var(--ms-home-description); }
+.md-typeset:has(.ms-home) .ms-card:hover,
+.md-typeset:has(.ms-home) .ms-card:focus-visible {
+  background-color: var(--ms-home-highlight);
+  border-color: var(--ms-home-link);
+}
+.md-typeset:has(.ms-home) a:focus-visible {
+  outline: 2px solid var(--ms-home-link);
+  outline-offset: 3px;
+}
+.md-typeset:has(.ms-home) .ms-quick a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  border-color: var(--ms-home-border);
+}
+.md-typeset:has(.ms-home) .ms-quick a:hover,
+.md-typeset:has(.ms-home) .ms-quick a:focus-visible {
+  background-color: var(--ms-home-highlight);
+  border-color: var(--ms-home-link);
+}
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset:has(.ms-home) .ms-card { transition: none; }
+  .md-typeset:has(.ms-home) .ms-card:hover { transform: none; }
+}
+@media (forced-colors: active) {
+  .md-typeset:has(.ms-home) .ms-card, .md-typeset:has(.ms-home) .ms-quick a { border-color: ButtonText; }
+  .md-typeset:has(.ms-home) a:focus-visible { outline-color: Highlight; }
+}
