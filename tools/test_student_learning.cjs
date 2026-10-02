@@ -215,4 +215,24 @@ for (const [subject, title] of [['shanghanlun', '상한론'], ['sasang', '사상
     study.recordAnswer(p, q, q.answer);
     assert.equal(study.filteredQuestions(classic, p, '', '', true).length, 0);
   });
+  test(title + ' authored case mode selects only cases and keeps answer sources', async () => {
+    const classic = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
+    const h = harness(); h.button(title).events.click();
+    h.loads[1].resolve({ok: true, json: async () => classic}); await h.settle();
+    h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+    const kinds = h.select('문제 유형');
+    assert.ok(kinds.children.some(e => e.value === 'case'));
+    kinds.value = 'case'; kinds.events.change();
+    h.button('10문제 풀기').events.click();
+    const context = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;
+    const q = classic.questions.find(q => q.kind === 'case' && q.context === context);
+    assert.ok(q);
+    assert.deepEqual(all(h.root).filter(e => e.attrs['data-option'] !== undefined).map(e => e.textContent), q.options.map((o, i) => (i + 1) + '. ' + o.text));
+    all(h.root).find(e => e.attrs['data-option'] === String(q.answer)).events.click();
+    assert.ok(all(h.root).some(e => e.textContent.includes(q.explanation)));
+    const cases = study.filteredQuestions(classic, study.emptyProgress(), '', '', false, 'case');
+    assert.equal(cases.length, subject === 'shanghanlun' ? 36 : 24);
+    assert.ok(cases.every(q => q.kind === 'case'));
+    assert.ok(all(h.root).some(e => e.tagName === 'a' && e.attrs.href === q.source));
+  });
 }

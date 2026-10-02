@@ -14,7 +14,7 @@ class StudentLearning(unittest.TestCase):
         cls.decks = study.build()
 
     def test_complete_decks_and_committed_build_agree(self):
-        expected = {'anatomy': 457, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110, 'shanghanlun': 34, 'sasang': 24}
+        expected = {'anatomy': 457, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110, 'shanghanlun': 70, 'sasang': 48}
         manifest = json.loads((study.OUT / 'manifest.json').read_text())
         for subject, deck in self.decks.items():
             self.assertEqual(len(deck['cards']), expected[subject])
@@ -54,16 +54,19 @@ class StudentLearning(unittest.TestCase):
 
     def test_classical_banks_keep_originals_editions_and_interpretive_context(self):
         from collections import Counter
-        for subject, count in (('shanghanlun', 34), ('sasang', 24)):
+        for subject, count, cases in (('shanghanlun', 70, 36), ('sasang', 48, 24)):
             deck = self.decks[subject]
             self.assertEqual(len(deck['cards']), count)
-            self.assertEqual(len(deck['questions']), count * 3)
+            self.assertEqual(len(deck['questions']), count * 3 + cases)
             for c in deck['cards']:
                 facts = {f['label']: f['value'] for f in c['facts']}
-                self.assertTrue({'원문', '우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
+                self.assertTrue({'우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
+                self.assertTrue('원문' in facts or '분류 표지어' in facts)
                 self.assertIn(c['id'], c['source'])
                 self.assertTrue(c['relatedSource'].startswith('/'))
-            self.assertEqual(Counter(q['cardId'] for q in deck['questions']), {c['id']: 3 for c in deck['cards']})
+            self.assertEqual(Counter(q['cardId'] for q in deck['questions']),
+                             {c['id']: 4 if any(f['label'] == '증례 독해' for f in c['facts']) else 3 for c in deck['cards']})
+            self.assertEqual(sum(q['kind'] == 'case' for q in deck['questions']), cases)
             self.assertTrue(all(q['context'] and all(o['detail'] for o in q['options']) for q in deck['questions']))
         # The archive's selected Song clauses must agree verbatim with the bank.
         for row in json.loads((study.ROOT / 'data/shanghan_learning.json').read_text())['items']:
@@ -73,11 +76,44 @@ class StudentLearning(unittest.TestCase):
             body = re.search(r'^## .*?\{#' + fragment + r'\}\n(.*?)(?=^## |\Z)', text, re.M | re.S)[1]
             self.assertEqual(row['original'], ' '.join(re.findall(r'^> (.*)', body, re.M)))
         sasang = self.decks['sasang']
-        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 24, 'interpretation': 24, 'treatment': 16, 'formula': 8})
+        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24})
         for key in ('soeum', 'soyang', 'taeeum', 'taeyang'):
             self.assertTrue(any(c['id'] == 'sasang-health-' + key for c in sasang['cards']))
         headings = [c for c in sasang['cards'] if c['id'].startswith('sasang-pattern-')]
         self.assertTrue(all('조문 본문 아님' in c['facts'][0]['value'] for c in headings))
+
+    def test_classical_cases_use_close_peers_and_keep_source_layers_separate(self):
+        for subject, filename in (('shanghanlun', 'shanghan_learning.json'), ('sasang', 'sasang_learning.json')):
+            rows = json.loads((study.ROOT / 'data' / filename).read_text())['items']
+            bank = self.decks[subject]
+            by_id = {c['id']: c for c in bank['cards']}
+            questions = {q['id']: q for q in bank['questions']}
+            for r in rows:
+                peers = r['compareWith']
+                self.assertTrue(peers)
+                self.assertTrue(all(p in by_id and p != r['id'] for p in peers))
+                # Editorially chosen closest peer must survive category sorting.
+                q = questions[r['id'] + '-interpretation']
+                self.assertIn(peers[0], {o['ownerId'] for o in q['options']})
+                treatment = questions[r['id'] + '-treatment']
+                self.assertTrue(set(r.get('treatmentAvoid', [])).isdisjoint(o['ownerId'] for o in treatment['options']))
+                if r.get('quizCase'):
+                    q = questions[r['id'] + '-case']
+                    self.assertEqual(q['context'], r['quizCase'])
+                    self.assertEqual(q['options'][q['answer']]['ownerId'], r['id'])
+                    self.assertNotIn(r['title'], q['context'])
+                    if r['id'].startswith('sasang-detail-'):
+                        self.assertTrue(all(o['ownerId'].startswith('sasang-detail-') for o in q['options']))
+                if r.get('sourceKind') == 'cpg':
+                    facts = {f['label']: f['value'] for f in by_id[r['id']]['facts']}
+                    self.assertNotIn('원문', facts)
+                    self.assertIn('CPG', facts['판본·범위'])
+                    self.assertIn('원전 조문 본문 아님', facts['원문 구분'])
+                    self.assertEqual(by_id[r['id']]['referenceLabel'], '병증 CPG·인용 원문')
+        sasang = {c['id']: c for c in self.decks['sasang']['cards']}
+        self.assertIn('7-30', str(sasang['sasang-detail-taeeum']['facts']))
+        self.assertIn('7-30', str(sasang['sasang-detail-soeum']['facts']))
+        self.assertIn('동의사상신편(1929)', str(sasang['sasang-formula-dokhwaljihwang-tang']['facts']))
 
     def test_question_diagrams_have_no_labels_or_answer_descriptions(self):
         ns = '{http://www.w3.org/2000/svg}'

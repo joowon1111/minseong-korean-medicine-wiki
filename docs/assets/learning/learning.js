@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261002-7';
+  const VERSION = '20261002-8';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
@@ -216,7 +216,7 @@
           const types = subject === 'acupoints'
             ? [['', '전체 문제 유형'], ['name', '혈명·경맥'], ['location', '표준 위치 설명'], ['diagram', '그림으로 경혈 찾기']]
             : subject === 'anatomy' ? [['', '전체 문제 유형'], ['fact', '부착·작용·연결·특징'], ['identify', '설명으로 구조 식별'], ['diagram', '도해로 구조 식별']]
-            : (subject === 'shanghanlun' || subject === 'sasang') ? [['', '전체 문제 유형'], ['original', '원문·표지어 → 우리말 풀이'], ['interpretation', '조문·병증 해석'], ['treatment', '치법·처방 연결'], ...(subject === 'sasang' ? [['formula', '주요 처방 감별']] : [])]
+            : (subject === 'shanghanlun' || subject === 'sasang') ? [['', '전체 문제 유형'], ['original', '원문·표지어 → 우리말 풀이'], ['interpretation', '조문·병증 해석'], ['treatment', '치법·처방 연결'], ...(subject === 'sasang' ? [['formula', '주요 처방 감별']] : []), ['case', '증례·배합 → 조문·병증 찾기']]
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;

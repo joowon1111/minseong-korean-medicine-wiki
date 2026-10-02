@@ -15,7 +15,13 @@
       "treatment": "먼저 표증과 땀·맥·호흡을 살펴 해표 방법을 구분한다.",
       "note": "제강만으로 계지탕이나 마황탕을 바로 확정하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-001",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#1"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#1",
+      "compareWith": [
+        "shanghan-clause-002",
+        "shanghan-clause-003",
+        "shanghan-clause-012",
+        "shanghan-clause-035"
+      ]
     },
     {
       "id": "shanghan-clause-002",
@@ -30,7 +36,13 @@
       "treatment": "12조 계지탕증과 연결해 해기·영위 조화의 방향을 읽는다.",
       "note": "여기의 중풍은 뇌혈관질환의 현대 병명과 다른 고전 용어다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-002",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#2"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#2",
+      "compareWith": [
+        "shanghan-clause-001",
+        "shanghan-clause-003",
+        "shanghan-clause-012",
+        "shanghan-clause-035"
+      ]
     },
     {
       "id": "shanghan-clause-003",
@@ -45,7 +57,13 @@
       "treatment": "35조의 무한·천을 더 확인해 마황탕증과 연결한다.",
       "note": "발열이 반드시 먼저 있어야 상한이라는 해석은 조문과 다르다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-003",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#3"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#3",
+      "compareWith": [
+        "shanghan-clause-001",
+        "shanghan-clause-002",
+        "shanghan-clause-012",
+        "shanghan-clause-035"
+      ]
     },
     {
       "id": "shanghan-clause-012",
@@ -60,7 +78,16 @@
       "treatment": "계지탕: 해기하면서 영위의 조화를 도모한다.",
       "note": "35조 마황탕의 무한·천과 먼저 구분한다. 계지탕도 조문 문맥에 따른 처방이다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-012",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#12"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#12",
+      "compareWith": [
+        "shanghan-clause-001",
+        "shanghan-clause-002",
+        "shanghan-clause-003",
+        "shanghan-clause-035",
+        "shanghan-clause-025",
+        "shanghan-clause-038",
+        "shanghan-clause-039"
+      ]
     },
     {
       "id": "shanghan-clause-014",
@@ -75,7 +102,76 @@
       "treatment": "계지가갈근탕: 계지탕의 해기 방향에 항배강의 단서를 더한다.",
       "note": "31조 갈근탕의 무한과 구별한다. 처방 구성의 판본 차이는 연결 원문에서 확인한다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-014",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#14"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#14",
+      "compareWith": [
+        "shanghan-clause-031",
+        "shanghan-clause-012",
+        "shanghan-clause-035"
+      ]
+    },
+    {
+      "id": "shanghan-clause-016",
+      "title": "16조 · 괴병과 수증치지",
+      "category": "오치·변증",
+      "original": "太陽病三日，已發汗，若吐、若下、若溫針，仍不解者，此為壞病，桂枝不中與之也。觀其脈證，知犯何逆，隨證治之。桂枝本為解肌，若其人脈浮緊，發熱汗不出者，不可與之也。常須識此，勿令誤也。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "발한·토법·하법·온침 뒤에도 풀리지 않으면 이미 달라진 병증이다. 맥과 증후를 관찰하여 어떤 잘못이 있었는지 알고 현재 증에 따라 치료한다. 계지탕은 해기하는 처방이며 부긴맥·발열·무한에는 맞지 않는다.",
+      "case": "표병에 여러 치료를 시행한 뒤 증상이 남았다. 이전 진단을 반복하기보다 현재 맥증과 치료 뒤의 변화를 확인하라는 원칙을 찾는다.",
+      "quizCase": "표병에 여러 치료를 시행한 뒤 증상이 남았다. 이전 진단을 반복하기보다 현재 맥증과 치료 뒤의 변화를 확인하라는 원칙을 찾는다.",
+      "pattern": "괴병과 수증치지: 치료 이력과 현재 맥증을 다시 읽는다.",
+      "treatment": "이전 태양병이라는 이름만으로 계지탕을 반복하지 않고 현증에 맞춰 치법을 새로 정한다.",
+      "note": "壞病은 별도의 고정 처방명이 아니다. 원문은 ‘관기맥증·수증치지’라는 재평가 원칙을 제시한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-016",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#16",
+      "compareWith": [
+        "shanghan-clause-020",
+        "shanghan-clause-034",
+        "shanghan-clause-107"
+      ]
+    },
+    {
+      "id": "shanghan-clause-020",
+      "title": "20조 · 발한 뒤 누한",
+      "category": "오치·변증",
+      "original": "太陽病，發汗，遂漏不止，其人惡風，小便難，四肢微急，難以屈伸者，桂枝加附子湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "태양병에 발한시킨 뒤 땀이 새듯 멎지 않고 오풍·배뇨곤란·사지의 가벼운 긴장과 굴신곤란이 나타나면 계지가부자탕을 쓴다.",
+      "case": "발한 뒤에도 땀이 계속 새고 바람이 싫으며 소변이 어렵고 팔다리를 굽히기 힘들다. 발한 후 누한을 직접 다루는 조문을 고른다.",
+      "quizCase": "발한 뒤에도 땀이 계속 새고 바람이 싫으며 소변이 어렵고 팔다리를 굽히기 힘들다. 발한 후 누한을 직접 다루는 조문을 고른다.",
+      "pattern": "누한: 발한 뒤 지속 한출과 오풍·사지미급이 함께 있다.",
+      "treatment": "계지가부자탕의 영위 조화와 온양 방향을 발한 후의 변화에 붙여 읽는다.",
+      "note": "‘땀이 난다’만으로 12조 계지탕증과 동일시하지 않는다. 발한 전후와 누한·소변난·사지미급이 구별점이다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-020",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#20",
+      "compareWith": [
+        "shanghan-clause-016",
+        "shanghan-clause-034",
+        "shanghan-clause-107"
+      ]
+    },
+    {
+      "id": "shanghan-clause-025",
+      "title": "25조 · 계지이마황일탕",
+      "category": "태양·해표",
+      "original": "服桂枝湯，大汗出，脈洪大者，與桂枝湯，如前法。若形似瘧，一日再發者，汗出必解，宜桂枝二麻黃一湯。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "계지탕을 복용해 크게 땀난 뒤 홍대맥이면 앞의 방법처럼 계지탕을 준다. 학질 같은 양상이 하루 두 번 나타나는 경우 계지이마황일탕을 제시한다.",
+      "case": "계지탕 뒤의 경과를 서술하며 학질처럼 하루 두 번 발작하는 양상에 계지탕과 마황탕의 비중이 다른 합방을 연결한다.",
+      "quizCase": "계지탕 뒤의 경과를 서술하며 학질처럼 하루 두 번 발작하는 양상에 계지탕과 마황탕의 비중이 다른 합방을 연결한다.",
+      "pattern": "계지이마황일탕: 잔류 표증의 간헐 양상을 원문의 앞 분기와 구분한다.",
+      "treatment": "계지탕·마황탕 계열의 합방 비중을 읽되 앞 문장의 대량 발한을 치료 목표로 일반화하지 않는다.",
+      "note": "‘하루 두 번’은 이 조문의 기록이며 모든 간헐열의 처방 기준은 아니다. 23조 계지마황각반탕과 이름·비율을 구분한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-upper/#clause-025",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#25",
+      "compareWith": [
+        "shanghan-clause-012",
+        "shanghan-clause-035",
+        "shanghan-clause-038",
+        "shanghan-clause-039"
+      ]
     },
     {
       "id": "shanghan-clause-031",
@@ -90,7 +186,63 @@
       "treatment": "갈근탕: 해표하면서 항배의 긴장 양상을 함께 다룬다.",
       "note": "항배강만으로 14조와 같다고 보지 않는다. 한출 여부가 두 조문을 가른다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-031",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#31"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#31",
+      "compareWith": [
+        "shanghan-clause-014",
+        "shanghan-clause-032",
+        "shanghan-clause-034"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-032"
+      ]
+    },
+    {
+      "id": "shanghan-clause-032",
+      "title": "32조 · 합병과 하리",
+      "category": "태양·해표",
+      "original": "太陽與陽明合病者，必自下利，葛根湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "태양과 양명의 합병에서 저절로 설사하는 경우 갈근탕을 제시한다.",
+      "case": "태양과 양명의 합병에서 치료 전부터 저절로 설사한다. 오하의 이력이나 천·한출의 조건은 제시되지 않았다.",
+      "quizCase": "태양과 양명의 합병에서 치료 전부터 저절로 설사한다. 오하의 이력이나 천·한출의 조건은 제시되지 않았다.",
+      "pattern": "태양·양명 합병의 자하리: 설사와 해표가 연결되는 조문이다.",
+      "treatment": "갈근탕의 해표·승진 방향을 합병 맥락에 붙인다.",
+      "note": "설사는 항상 온리나 공하의 단서가 아니다. 34조의 오하 후 리수불지·천·한출과 구분한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-032",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#32",
+      "compareWith": [
+        "shanghan-clause-014",
+        "shanghan-clause-031",
+        "shanghan-clause-034"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-031"
+      ]
+    },
+    {
+      "id": "shanghan-clause-034",
+      "title": "34조 · 갈근황금황련탕",
+      "category": "오치·변증",
+      "original": "太陽病，桂枝證，醫反下之，利遂不止。脈促者，表未解也。喘而汗出者，葛根黃芩黃連湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "태양병의 계지증에 잘못 하법을 써 설사가 멎지 않는다. 촉맥은 표가 아직 풀리지 않았음을 나타내며 천·한출이 있으면 갈근황금황련탕을 쓴다.",
+      "case": "계지증에 하법을 쓴 뒤 설사가 계속되고 촉맥·천·한출이 남았다. 표가 미해인 상태와 하리를 함께 읽을 조문을 고른다.",
+      "quizCase": "계지증에 하법을 쓴 뒤 설사가 계속되고 촉맥·천·한출이 남았다. 표가 미해인 상태와 하리를 함께 읽을 조문을 고른다.",
+      "pattern": "오하 후 표미해와 리열성 하리: 리수불지·천·한출을 묶는다.",
+      "treatment": "갈근황금황련탕의 해표와 청열 지리 구조를 함께 읽는다.",
+      "note": "갈근탕과 갈근황금황련탕은 하리라는 공통점만으로 바꿔 쓰지 않는다. 후자는 오하 뒤의 변화와 황금·황련의 청열축을 확인한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-034",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#34",
+      "compareWith": [
+        "shanghan-clause-014",
+        "shanghan-clause-031",
+        "shanghan-clause-032",
+        "shanghan-clause-016",
+        "shanghan-clause-020",
+        "shanghan-clause-107"
+      ]
     },
     {
       "id": "shanghan-clause-035",
@@ -105,7 +257,16 @@
       "treatment": "마황탕: 발한해표·선폐평천의 방향이다.",
       "note": "자한·오풍 중심의 계지탕증과 구분한다. 천 하나만으로 처방을 정하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-035",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#35"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#35",
+      "compareWith": [
+        "shanghan-clause-001",
+        "shanghan-clause-002",
+        "shanghan-clause-003",
+        "shanghan-clause-012",
+        "shanghan-clause-025",
+        "shanghan-clause-038",
+        "shanghan-clause-039"
+      ]
     },
     {
       "id": "shanghan-clause-038",
@@ -120,7 +281,41 @@
       "treatment": "대청룡탕: 표실과 번조를 함께 읽되 조문의 금기 조건을 확인한다.",
       "note": "번조라는 한 단서보다 맥과 땀의 조건이 중요하다. 원문은 금기까지 한 조문에 적었다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-038",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#38"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#38",
+      "compareWith": [
+        "shanghan-clause-025",
+        "shanghan-clause-012",
+        "shanghan-clause-035",
+        "shanghan-clause-039"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-039"
+      ]
+    },
+    {
+      "id": "shanghan-clause-039",
+      "title": "39조 · 신중과 대청룡탕",
+      "category": "태양·해표",
+      "original": "傷寒脈浮緩，身不疼，但重，乍有輕時，無少陰證者，大青龍湯發之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "상한에 부완맥이면서 몸은 아프지 않고 무겁되 가벼울 때도 있으며 소음증이 없는 경우 대청룡탕으로 발산한다.",
+      "case": "몸의 통증보다 무거움이 있고 잠시 가벼워지기도 한다. 맥은 부완하며 원문은 소음증이 없는 것을 조건으로 붙인다.",
+      "quizCase": "몸의 통증보다 무거움이 있고 잠시 가벼워지기도 한다. 맥은 부완하며 원문은 소음증이 없는 것을 조건으로 붙인다.",
+      "pattern": "대청룡탕의 또 다른 조건: 신중·부완맥·무소음증이다.",
+      "treatment": "38조와 함께 대청룡탕의 표증·번조와 이 조문의 제외 조건을 비교한다.",
+      "note": "‘몸이 무겁다’만으로 대청룡탕을 정하지 않는다. 無少陰證이 본문에 명시된 조건이다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-039",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#39",
+      "compareWith": [
+        "shanghan-clause-025",
+        "shanghan-clause-012",
+        "shanghan-clause-035",
+        "shanghan-clause-038"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-038"
+      ]
     },
     {
       "id": "shanghan-clause-040",
@@ -135,7 +330,12 @@
       "treatment": "소청룡탕: 해표와 온화수음의 방향을 함께 연결한다.",
       "note": "35조의 무한·천이나 63조의 한출·천과 같은 기침·호흡 증상만으로 묶지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-040",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#40"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#40",
+      "compareWith": [
+        "shanghan-clause-063",
+        "shanghan-clause-038",
+        "shanghan-clause-071"
+      ]
     },
     {
       "id": "shanghan-clause-063",
@@ -150,7 +350,56 @@
       "treatment": "마행감석탕: 선폐와 청열의 배합축을 확인한다.",
       "note": "무대열은 열 관련 병기를 모두 배제한다는 뜻으로 읽지 않는다. 발한 전후 문맥이 핵심이다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-063",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#63"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#63",
+      "compareWith": [
+        "shanghan-clause-040",
+        "shanghan-clause-035",
+        "shanghan-clause-219"
+      ]
+    },
+    {
+      "id": "shanghan-clause-064",
+      "title": "64조 · 발한 뒤 심계",
+      "category": "심계·수음",
+      "original": "發汗過多，其人叉手自冒心，心下悸，欲得按者，桂枝甘草湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "너무 발한시킨 뒤 손을 포개 가슴을 감싸고 심하가 두근거리며 눌러 주기를 바라면 계지감초탕을 쓴다.",
+      "case": "너무 땀낸 뒤 두 손으로 가슴을 감싸고 명치가 두근거리며 눌러 주길 바란다. 배꼽 아래 두근거림은 없다.",
+      "quizCase": "너무 땀낸 뒤 두 손으로 가슴을 감싸고 명치가 두근거리며 눌러 주길 바란다. 배꼽 아래 두근거림은 없다.",
+      "pattern": "과한 발한 뒤 심하계와 욕득안: 심계의 위치와 압박 선호를 본다.",
+      "treatment": "계지·감초의 온통과 회복이라는 전통 방의로 읽는다.",
+      "note": "65조 제하계·분돈과 위치가 다르다. 눌렀을 때 아픈 결흉과 눌러 주길 바라는 심계도 구분한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-064",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#64",
+      "compareWith": [
+        "shanghan-clause-065",
+        "shanghan-clause-067",
+        "shanghan-clause-082",
+        "shanghan-clause-177"
+      ]
+    },
+    {
+      "id": "shanghan-clause-065",
+      "title": "65조 · 제하계와 분돈",
+      "category": "심계·수음",
+      "original": "發汗後，其人臍下悸者，欲作奔豚，茯苓桂枝甘草大棗湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "발한 뒤 배꼽 아래가 두근거리며 분돈이 일어나려 하면 복령계지감초대조탕을 쓴다.",
+      "case": "발한 뒤 배꼽 아래가 두근거리고 아래에서 위로 치솟는 발작이 생기려 한다. 복령·계지·감초·대조가 연결되는 조문을 찾는다.",
+      "quizCase": "발한 뒤 배꼽 아래가 두근거리고 아래에서 위로 치솟는 발작이 생기려 한다. 복령·계지·감초·대조가 연결되는 조문을 찾는다.",
+      "pattern": "제하계와 욕작분돈: 아래에서 위로 치미는 기세의 전조를 읽는다.",
+      "treatment": "복령계지감초대조탕의 수음·기상충 조절 방향을 제하계에 연결한다.",
+      "note": "64조 심하계, 67조 심하역만·기상충과 구분한다. 분돈을 현대의 단일 질환명으로 번역하지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-065",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#65",
+      "compareWith": [
+        "shanghan-clause-064",
+        "shanghan-clause-067",
+        "shanghan-clause-082",
+        "shanghan-clause-177"
+      ]
     },
     {
       "id": "shanghan-clause-067",
@@ -165,7 +414,13 @@
       "treatment": "영계출감탕: 온양화음과 기상충 조절의 배합을 읽는다.",
       "note": "진무탕의 복통·소변불리·사지침중·하리와 비교한다. 어지럼 하나로 같게 보지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-067",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#67"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#67",
+      "compareWith": [
+        "shanghan-clause-064",
+        "shanghan-clause-065",
+        "shanghan-clause-082",
+        "shanghan-clause-177"
+      ]
     },
     {
       "id": "shanghan-clause-071",
@@ -180,7 +435,15 @@
       "treatment": "오령산: 소변불리 등 수기불리의 조건을 확인해 이수 방향을 읽는다.",
       "note": "갈증은 공통이므로 갈증만으로 오령산을 고르지 않는다. 조문 앞뒤의 분기를 보아야 한다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-071",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#71"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#71",
+      "compareWith": [
+        "shanghan-clause-106",
+        "shanghan-clause-208",
+        "shanghan-clause-239",
+        "shanghan-clause-319",
+        "shanghan-clause-303",
+        "shanghan-clause-168"
+      ]
     },
     {
       "id": "shanghan-clause-076",
@@ -195,7 +458,37 @@
       "treatment": "치자시탕: 청열제번의 방향이며 소기·구토의 가감을 따로 확인한다.",
       "note": "허번의 허를 곧바로 기혈허약 일반과 동일시하지 않는다. 황련아교탕의 소음병 문맥과 비교한다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-076",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#76"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#76",
+      "compareWith": [
+        "shanghan-clause-303",
+        "shanghan-clause-397",
+        "shanghan-clause-168"
+      ]
+    },
+    {
+      "id": "shanghan-clause-082",
+      "title": "82조 · 진무탕의 수기와 진전",
+      "category": "심계·수음",
+      "original": "太陽病發汗，汗出不解，其人仍發熱，心下悸，頭眩，身瞤動，振振欲擗地者，真武湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "태양병에 발한했으나 풀리지 않고 발열·심하계·현훈·몸의 떨림과 쓰러질 듯 흔들리는 양상이 남으면 진무탕을 쓴다.",
+      "case": "발한 뒤 발열이 풀리지 않고 심하가 두근거리며 어지럽고 몸이 떨려 쓰러질 듯하다. 소음병의 수기 조문과 같은 처방이 나오는 태양편 조문을 고른다.",
+      "quizCase": "발한 뒤 발열이 풀리지 않고 심하가 두근거리며 어지럽고 몸이 떨려 쓰러질 듯하다. 소음병의 수기 조문과 같은 처방이 나오는 태양편 조문을 고른다.",
+      "pattern": "발한 뒤 양허·수기 방향: 계·현·진전과 불안정한 자세를 묶는다.",
+      "treatment": "진무탕을 316조 소음병의 복통·하리·소변불리·사지침중과 함께 읽는다.",
+      "note": "같은 진무탕도 82조의 치료 뒤 변화와 316조의 소음병 수기를 각각 설명해야 한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-082",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#82",
+      "compareWith": [
+        "shanghan-clause-064",
+        "shanghan-clause-065",
+        "shanghan-clause-067",
+        "shanghan-clause-177"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-316"
+      ]
     },
     {
       "id": "shanghan-clause-096",
@@ -210,7 +503,16 @@
       "treatment": "소시호탕: 화해소양의 방향으로 핵심 증후와 가감을 읽는다.",
       "note": "반하사심탕의 심하비와 달리 흉협·왕래한열이 판독축이다. 날짜만으로 정하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-096",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#96"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#96",
+      "compareWith": [
+        "shanghan-clause-101",
+        "shanghan-clause-103",
+        "shanghan-clause-229"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-101",
+        "shanghan-clause-229"
+      ]
     },
     {
       "id": "shanghan-clause-101",
@@ -225,7 +527,124 @@
       "treatment": "시호증이 남았다는 조건에서 시호탕을 다시 연결한다.",
       "note": "일증을 아무 증상 하나의 뜻으로 무제한 확대하지 않는다. 267조처럼 시호증이 사라진 경우와 구분한다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-101",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#101"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#101",
+      "compareWith": [
+        "shanghan-clause-096",
+        "shanghan-clause-103",
+        "shanghan-clause-229"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-096",
+        "shanghan-clause-229"
+      ]
+    },
+    {
+      "id": "shanghan-clause-103",
+      "title": "103조 · 소시호탕에서 대시호탕으로",
+      "category": "소양·화해",
+      "original": "太陽病，過經十餘日，反二三下之。後四五日，柴胡證仍在者，先與小柴胡湯；嘔不止，心下急，鬱鬱微煩者，為未解也，與大柴胡湯下之則愈。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "반복 하법 뒤에도 시호증이 있으면 먼저 소시호탕을 준다. 구토가 멎지 않고 심하가 급하며 답답하고 조금 번하면 대시호탕으로 하법을 쓴다.",
+      "case": "하법 뒤에도 시호증이 남아 먼저 소시호탕을 주었다. 이후 구토가 멎지 않고 심하가 급하며 울울미번이 있어 치법이 달라진다.",
+      "quizCase": "하법 뒤에도 시호증이 남아 먼저 소시호탕을 주었다. 이후 구토가 멎지 않고 심하가 급하며 울울미번이 있어 치법이 달라진다.",
+      "pattern": "시호증 존속에서 구불지·심하급으로 갈리는 분기다.",
+      "treatment": "소시호탕의 화해와 대시호탕의 화해·공리 연결을 비교한다.",
+      "note": "대시호탕을 ‘더 강한 소시호탕’으로만 외우지 않는다. 뒤 문장에 추가된 구토·심하급과 하법의 근거를 찾는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-103",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#103",
+      "compareWith": [
+        "shanghan-clause-096",
+        "shanghan-clause-101",
+        "shanghan-clause-229"
+      ]
+    },
+    {
+      "id": "shanghan-clause-106",
+      "title": "106조 · 도핵승기탕과 축혈",
+      "category": "축혈·변증",
+      "original": "太陽病不解，熱結膀胱，其人如狂，血自下，下者愈。其外不解者，尚未可攻，當先解其外。外解已，但少腹急結者，乃可攻之，宜桃核承氣湯。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "태양병이 풀리지 않아 열이 방광에 맺히고 미친 듯한 양상이 있다. 표가 미해이면 먼저 표를 풀고, 표가 풀린 뒤 소복급결만 남으면 도핵승기탕으로 공격할 수 있다.",
+      "case": "미친 듯한 행동과 아랫배의 급한 맺힘이 있다. 원문은 표가 아직 풀리지 않았을 때 공격하지 말고, 표해 뒤 남은 소복급결을 확인하라고 한다.",
+      "quizCase": "미친 듯한 행동과 아랫배의 급한 맺힘이 있다. 원문은 표가 아직 풀리지 않았을 때 공격하지 말고, 표해 뒤 남은 소복급결을 확인하라고 한다.",
+      "pattern": "축혈과 선표후리: 소복급결·여광·표해 여부를 함께 읽는다.",
+      "treatment": "도핵승기탕의 축어·공하를 표해 이후의 조건에 붙인다.",
+      "note": "오령산의 소변불리·수기와 축혈을 혼동하지 않는다. ‘여광’ 한 항목은 현대 정신질환 진단이 아니다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-106",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#106",
+      "compareWith": [
+        "shanghan-clause-071",
+        "shanghan-clause-208",
+        "shanghan-clause-239"
+      ]
+    },
+    {
+      "id": "shanghan-clause-107",
+      "title": "107조 · 시호가용골모려탕",
+      "category": "오치·변증",
+      "original": "傷寒八九日，下之，胸滿煩驚，小便不利，譫語，一身盡重，不可轉側者，柴胡加龍骨牡蠣湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "상한 팔구일에 하법 뒤 흉만·번경·소변불리·섬어와 온몸이 무거워 돌아눕기 어려우면 시호가용골모려탕을 쓴다.",
+      "case": "하법 뒤 가슴이 그득하고 번거로워 놀라며 소변이 불리하다. 섬어와 온몸의 무거움 때문에 돌아눕기 어렵다는 기록을 찾는다.",
+      "quizCase": "하법 뒤 가슴이 그득하고 번거로워 놀라며 소변이 불리하다. 섬어와 온몸의 무거움 때문에 돌아눕기 어렵다는 기록을 찾는다.",
+      "pattern": "하법 뒤 흉만·번경과 배뇨·전신 변화가 함께 나타난다.",
+      "treatment": "시호가용골모려탕의 화해·진정·통리 배합을 오치 뒤 복합 맥증에서 읽는다.",
+      "note": "불안·불면만으로 이 처방을 고르지 않는다. 96조의 왕래한열·흉협고만과 이 조문의 하후·번경을 비교한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-middle/#clause-107",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#107",
+      "compareWith": [
+        "shanghan-clause-016",
+        "shanghan-clause-020",
+        "shanghan-clause-034"
+      ]
+    },
+    {
+      "id": "shanghan-clause-134",
+      "title": "134조 · 하법 뒤 대함흉탕증",
+      "category": "결흉·비증",
+      "original": "太陽病，脈浮而動數，浮則為風，數則為熱，動則為痛，數則為虛。頭痛發熱，微盜汗出，而反惡寒者，表未解也，醫反下之，動數變遲，膈內拒痛，胃中空虛，客氣動膈，短氣躁煩，心中懊憹，陽氣內陷，心下因鞕，則為結胸，大陷胸湯主之。若不結胸，但頭汗出，餘處無汗，劑頸而還，小便不利，身必發黃。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "표가 풀리지 않은 태양병에 잘못 하법을 써 격내 통증·단기·조번·심중오뇌가 나타나고 심하가 단단해 결흉이 되면 대함흉탕을 제시한다. 결흉이 아니면서 머리에만 땀이 나고 소변이 불리한 갈래는 황달을 예고한다.",
+      "case": "표미해에 하법을 쓴 뒤 격내에서 통증을 거부하고 숨이 짧으며 조번·오뇌가 있다. 심하가 단단해져 결흉이라 명명하는 조문을 고른다.",
+      "quizCase": "표미해에 하법을 쓴 뒤 격내에서 통증을 거부하고 숨이 짧으며 조번·오뇌가 있다. 심하가 단단해져 결흉이라 명명하는 조문을 고른다.",
+      "pattern": "오하 후 통증·심하경의 결흉과 머리에만 땀나는 별도 분기를 나눈다.",
+      "treatment": "대함흉탕의 축수·사열을 결흉의 통증과 경결에 연결한다.",
+      "note": "138조 소결흉의 심하 국소 압통, 149조 비증의 만이불통과 구분한다. 본문의 두 갈래를 한 처방에 합치지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-134",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#134",
+      "compareWith": [
+        "shanghan-clause-138",
+        "shanghan-clause-149",
+        "shanghan-clause-154",
+        "shanghan-clause-157",
+        "shanghan-clause-158",
+        "shanghan-clause-161"
+      ]
+    },
+    {
+      "id": "shanghan-clause-138",
+      "title": "138조 · 소결흉",
+      "category": "결흉·비증",
+      "original": "小結胸病，正在心下，按之則痛，脈浮滑者，小陷胸湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "소결흉은 바로 심하에 있으며 누르면 아프고 맥이 부활한 경우로 소함흉탕을 쓴다.",
+      "case": "병변이 심하에 국한되고 눌러야 아프며 부활맥이다. 심하만 있으나 아프지 않은 비증과 구분한다.",
+      "quizCase": "병변이 심하에 국한되고 눌러야 아프며 부활맥이다. 심하만 있으나 아프지 않은 비증과 구분한다.",
+      "pattern": "소결흉: 심하 국소·안지즉통·부활맥이 핵심이다.",
+      "treatment": "황련·반하·과루실의 청열·화담·산결 구조와 연결한다.",
+      "note": "‘심하 답답함’이라는 공통점만으로 반하사심탕과 혼동하지 않는다. 149조 비증은 만이불통이다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-138",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#138",
+      "compareWith": [
+        "shanghan-clause-149",
+        "shanghan-clause-134",
+        "shanghan-clause-154"
+      ]
     },
     {
       "id": "shanghan-clause-149",
@@ -240,7 +659,81 @@
       "treatment": "반하사심탕: 비증의 한열·승강 조절이라는 배합 방향을 읽는다.",
       "note": "대함흉탕은 심하만·경통의 결흉 쪽이다. 심하가 답답하다는 말 하나로 두 처방을 바꾸지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-149",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#149"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#149",
+      "compareWith": [
+        "shanghan-clause-134",
+        "shanghan-clause-138",
+        "shanghan-clause-154",
+        "shanghan-clause-157",
+        "shanghan-clause-158",
+        "shanghan-clause-161"
+      ]
+    },
+    {
+      "id": "shanghan-clause-154",
+      "title": "154조 · 대황황련사심탕",
+      "category": "결흉·비증",
+      "original": "心下痞，按之濡，其脈關上浮者，大黃黃連瀉心湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "심하비가 있으나 누르면 부드럽고 관상맥이 부하면 대황황련사심탕을 쓴다.",
+      "case": "심하가 막힌 듯하나 누르면 부드럽고 관상맥이 부하다. 반하·건강·인삼을 포함한 사심탕류와 구성이 다른 조문을 찾는다.",
+      "quizCase": "심하가 막힌 듯하나 누르면 부드럽고 관상맥이 부하다. 반하·건강·인삼을 포함한 사심탕류와 구성이 다른 조문을 찾는다.",
+      "pattern": "안지유의 열비: 답답함과 촉진의 부드러움을 함께 본다.",
+      "treatment": "대황·황련의 사열 개비 구조를 이 조문의 심하비에 연결한다.",
+      "note": "대황이 있다는 이유로 조시·복부 실결의 승기탕증과 동일시하지 않는다. 단단한 결흉과도 촉진이 다르다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-154",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#154",
+      "compareWith": [
+        "shanghan-clause-134",
+        "shanghan-clause-138",
+        "shanghan-clause-149",
+        "shanghan-clause-157",
+        "shanghan-clause-158",
+        "shanghan-clause-161"
+      ]
+    },
+    {
+      "id": "shanghan-clause-157",
+      "title": "157조 · 생강사심탕",
+      "category": "결흉·비증",
+      "original": "傷寒汗出，解之後，胃中不和，心下痞鞕，乾噫食臭，脇下有水氣，腹中雷鳴，下利者，生薑瀉心湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "발한으로 풀린 뒤 위중불화·심하비경·음식 냄새의 마른 트림·협하수기·복중뇌명·하리가 있으면 생강사심탕을 쓴다.",
+      "case": "발한으로 표가 풀린 뒤 명치가 그득하고 음식 냄새 나는 마른 트림이 있다. 협하수기와 배에서 나는 큰 소리·설사가 함께 기록된다.",
+      "quizCase": "발한으로 표가 풀린 뒤 명치가 그득하고 음식 냄새 나는 마른 트림이 있다. 협하수기와 배에서 나는 큰 소리·설사가 함께 기록된다.",
+      "pattern": "생강사심탕의 비: 식취 나는 애기와 수기·뇌명·하리를 묶는다.",
+      "treatment": "사심탕의 한열 병용·위기 조화에 생강의 비중과 수기 조절을 함께 읽는다.",
+      "note": "149조 반하사심탕, 158조 감초사심탕과 이름만 바꾸지 말고 치료 이력·애기·하리의 양상을 비교한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-157",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#157",
+      "compareWith": [
+        "shanghan-clause-149",
+        "shanghan-clause-158",
+        "shanghan-clause-161"
+      ]
+    },
+    {
+      "id": "shanghan-clause-158",
+      "title": "158조 · 감초사심탕",
+      "category": "결흉·비증",
+      "original": "傷寒中風，醫反下之，其人下利，日數十行，穀不化，腹中雷鳴，心下痞鞕而滿，乾嘔，心煩不得安。醫見心下痞，謂病不盡，復下之，其痞益甚，此非結熱，但以胃中虛，客氣上逆，故使鞕也，甘草瀉心湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "잘못 하법을 쓴 뒤 심한 하리·곡불화·뇌명·심하비경·건구·심번이 생겼다. 이를 남은 실사로 보아 다시 하법을 쓰니 악화했다. 결열이 아니라 위중허와 상역이라 설명하며 감초사심탕을 제시한다.",
+      "case": "하법 뒤 소화되지 않은 음식이 섞인 심한 설사·뇌명·건구·심번이 나타났다. 남은 병이라며 다시 하법을 쓰자 심하비가 더 심해졌다.",
+      "quizCase": "하법 뒤 소화되지 않은 음식이 섞인 심한 설사·뇌명·건구·심번이 나타났다. 남은 병이라며 다시 하법을 쓰자 심하비가 더 심해졌다.",
+      "pattern": "반복 오하 뒤 위중허의 비: 하리·곡불화·건구·심번이 중심이다.",
+      "treatment": "위기 조화와 허를 받치는 감초사심탕의 방향을 재하 금기의 문맥에서 읽는다.",
+      "note": "본문은 ‘비이익심·비결열·위중허’라고 이유를 적는다. 심하비경을 모두 공하 대상으로 읽지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-158",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#158",
+      "compareWith": [
+        "shanghan-clause-157",
+        "shanghan-clause-149",
+        "shanghan-clause-154"
+      ]
     },
     {
       "id": "shanghan-clause-161",
@@ -255,7 +748,60 @@
       "treatment": "선복대자탕: 강역과 위기 보조의 배합축을 살핀다.",
       "note": "149조의 만이불통과 겹쳐도 애기불제라는 구별 단서를 놓치지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-161",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#161"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#161",
+      "compareWith": [
+        "shanghan-clause-134",
+        "shanghan-clause-138",
+        "shanghan-clause-149",
+        "shanghan-clause-154",
+        "shanghan-clause-157",
+        "shanghan-clause-158"
+      ]
+    },
+    {
+      "id": "shanghan-clause-168",
+      "title": "168조 · 토하 뒤 리열과 대갈",
+      "category": "양명·청열",
+      "original": "傷寒若吐若下後，七八日不解，熱結在裏，表裏俱熱，時時惡風，大渴，舌上乾燥而煩，欲飲水數升者，白虎加人參湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "토하거나 하법을 쓴 뒤 병이 풀리지 않고 리에 열이 맺혔다. 표리 모두 열하고 때때로 오풍하며 크게 갈증나고 혀가 마르며 많은 물을 원하면 백호가인삼탕을 쓴다.",
+      "case": "토하 뒤에도 열이 남고 혀가 마르며 매우 목마르다. 때때로 바람을 싫어하지만 많은 물을 원하며 인삼을 더한 백호계가 연결된다.",
+      "quizCase": "토하 뒤에도 열이 남고 혀가 마르며 매우 목마르다. 때때로 바람을 싫어하지만 많은 물을 원하며 인삼을 더한 백호계가 연결된다.",
+      "pattern": "대갈·설상건조와 토하 뒤 진액 손상의 리열이다.",
+      "treatment": "백호탕의 청열과 인삼의 기·진액 회복축을 함께 읽는다.",
+      "note": "오풍이 보인다는 이유만으로 계지탕증으로 되돌리지 않는다. 71조 오령산의 맥부·소변불리·미열과 구분한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-168",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#168",
+      "compareWith": [
+        "shanghan-clause-219",
+        "shanghan-clause-350",
+        "shanghan-clause-303",
+        "shanghan-clause-319",
+        "shanghan-clause-071"
+      ]
+    },
+    {
+      "id": "shanghan-clause-177",
+      "title": "177조 · 자감초탕",
+      "category": "심계·수음",
+      "original": "傷寒，脈結代，心動悸，炙甘草湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "상한에 결대맥과 심동계가 있으면 자감초탕을 쓴다.",
+      "case": "맥이 끊기는 결대와 심동계가 함께 기록된다. 과한 발한 뒤 눌러 주길 원하는 심하계와 다른 조문을 고른다.",
+      "quizCase": "맥이 끊기는 결대와 심동계가 함께 기록된다. 과한 발한 뒤 눌러 주길 원하는 심하계와 다른 조문을 고른다.",
+      "pattern": "결대맥과 심동계: 맥의 끊김과 심계의 조합을 읽는다.",
+      "treatment": "자감초탕의 기혈·음양을 받치는 배합을 맥결대·심동계에 붙인다.",
+      "note": "64조 과한 발한 뒤 계지감초탕증과 구분한다. 결대맥을 현대 심전도 진단명 하나로 환원하지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyang-lower/#clause-177",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#177",
+      "compareWith": [
+        "shanghan-clause-064",
+        "shanghan-clause-065",
+        "shanghan-clause-067",
+        "shanghan-clause-082"
+      ]
     },
     {
       "id": "shanghan-clause-180",
@@ -270,7 +816,41 @@
       "treatment": "공리 여부는 조열·대변·복만·표증의 존속 등을 더 확인한다.",
       "note": "위가실이라는 제강만으로 대승기탕을 모든 양명병에 고정하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-180",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#180"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#180",
+      "compareWith": [
+        "shanghan-clause-207",
+        "shanghan-clause-208",
+        "shanghan-clause-209",
+        "shanghan-clause-213",
+        "shanghan-clause-236",
+        "shanghan-clause-239",
+        "shanghan-clause-247"
+      ]
+    },
+    {
+      "id": "shanghan-clause-207",
+      "title": "207조 · 조위승기탕과 심번",
+      "category": "양명·공리",
+      "original": "陽明病，不吐不下，心煩者，可與調胃承氣湯。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "양명병에서 토하거나 하법을 쓰지 않았고 심번이 있으면 조위승기탕을 줄 수 있다.",
+      "case": "양명병에서 아직 토·하법을 쓰지 않았고 심번이 기록되어 있다. 지실·후박 없이 대황·망초·감초로 구성되는 승기계 조문을 찾는다.",
+      "quizCase": "양명병에서 아직 토·하법을 쓰지 않았고 심번이 기록되어 있다. 지실·후박 없이 대황·망초·감초로 구성되는 승기계 조문을 찾는다.",
+      "pattern": "양명 심번과 조위승기탕: 대승기탕의 복만·조시 조건과 분리한다.",
+      "treatment": "대황·망초·감초로 조위하는 구조를 지실·후박이 있는 승기탕류와 비교한다.",
+      "note": "‘심번’만으로 처방을 정하지 않는다. 앞의 양명병이라는 문맥과 208·209조의 공하 조건을 함께 읽는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-207",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#207",
+      "compareWith": [
+        "shanghan-clause-180",
+        "shanghan-clause-208",
+        "shanghan-clause-209",
+        "shanghan-clause-213",
+        "shanghan-clause-236",
+        "shanghan-clause-239",
+        "shanghan-clause-247"
+      ]
     },
     {
       "id": "shanghan-clause-208",
@@ -285,7 +865,117 @@
       "treatment": "대승기탕·소승기탕의 강도를 구분하고 과도한 설사를 피하는 문맥을 읽는다.",
       "note": "발한이나 복만 한 가지로 하법을 확정하지 않는다. 조문은 적용과 보류 조건을 함께 제시한다.",
       "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-208",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#208"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#208",
+      "compareWith": [
+        "shanghan-clause-106",
+        "shanghan-clause-071",
+        "shanghan-clause-239",
+        "shanghan-clause-180",
+        "shanghan-clause-207",
+        "shanghan-clause-209",
+        "shanghan-clause-213",
+        "shanghan-clause-236",
+        "shanghan-clause-247"
+      ]
+    },
+    {
+      "id": "shanghan-clause-209",
+      "title": "209조 · 조시의 확인과 중지",
+      "category": "양명·공리",
+      "original": "陽明病，潮熱，大便微鞕者，可與大承氣湯，不鞕者，不可與之。若不大便六七日，恐有燥屎，欲知之法，少與小承氣湯。湯入腹中，轉矢氣者，此有燥屎也，乃可攻之；若不轉矢氣者，此但初頭鞕，後必溏，不可攻之，攻之必脹滿不能食也。欲飲水者，與水則噦。其後發熱者，必大便復鞕而少也，以小承氣湯和之。不轉矢氣者，慎不可攻也。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "양명병에 조열·대변경이 있으면 공하를 검토하되 단단하지 않으면 쓰지 않는다. 오래 배변하지 않았어도 조시 여부를 확인하며, 소승기탕 뒤 방귀가 나오지 않으면 함부로 공격하지 말라고 한다.",
+      "case": "며칠 배변하지 않은 양명병이라도 조시를 확인하고, 전시기가 없으면 신중히 공격하지 말라고 반복한다. 무대변만으로 공하하지 않는 원칙을 찾는다.",
+      "quizCase": "며칠 배변하지 않은 양명병이라도 조시를 확인하고, 전시기가 없으면 신중히 공격하지 말라고 반복한다. 무대변만으로 공하하지 않는 원칙을 찾는다.",
+      "pattern": "조시의 확인과 신불가공: 무대변 일수만으로 공하하지 않는다.",
+      "treatment": "소승기탕·대승기탕의 구분과 관찰 뒤 중지하는 조건을 읽는다.",
+      "note": "원문의 ‘소여’는 고전적 관찰법이다. 학습용 독해이며 실제 시험 복용이나 용량 산출을 안내하지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-209",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#209",
+      "compareWith": [
+        "shanghan-clause-180",
+        "shanghan-clause-207",
+        "shanghan-clause-208",
+        "shanghan-clause-213",
+        "shanghan-clause-236",
+        "shanghan-clause-239",
+        "shanghan-clause-247"
+      ]
+    },
+    {
+      "id": "shanghan-clause-213",
+      "title": "213조 · 다한 뒤 대변경",
+      "category": "양명·공리",
+      "original": "陽明病，其人多汗，以津液外出，胃中燥，大便必鞕，鞕則譫語。小承氣湯主之。若一服譫語止者，更莫復服。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "양명병에 땀이 많아 진액이 밖으로 나가 위중이 마르고 변이 단단해 섬어가 생기면 소승기탕을 쓴다. 한 번 복용해 섬어가 멎으면 더 복용하지 않는다.",
+      "case": "다한 뒤 위중이 건조해 변이 단단해지고 섬어가 생겼다. 원문은 섬어가 멎으면 더 복용하지 말라고 덧붙인다.",
+      "quizCase": "다한 뒤 위중이 건조해 변이 단단해지고 섬어가 생겼다. 원문은 섬어가 멎으면 더 복용하지 말라고 덧붙인다.",
+      "pattern": "다한→진액외출→위중조→대변경·섬어라는 인과를 읽는다.",
+      "treatment": "소승기탕으로 조화하되 증이 멎은 뒤 반복하지 않는 관찰 원칙을 확인한다.",
+      "note": "강한 하법을 계속하는 문제가 아니다. 208조 대승기탕증과 배합 및 중지 조건을 구분한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-213",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#213",
+      "compareWith": [
+        "shanghan-clause-180",
+        "shanghan-clause-207",
+        "shanghan-clause-208",
+        "shanghan-clause-209",
+        "shanghan-clause-236",
+        "shanghan-clause-239",
+        "shanghan-clause-247"
+      ]
+    },
+    {
+      "id": "shanghan-clause-219",
+      "title": "219조 · 삼양합병과 백호탕",
+      "category": "양명·청열",
+      "original": "三陽合病，腹滿，身重，難以轉側，口不仁，面垢，譫語，遺尿。發汗則譫語，下之則額上生汗，手足厥冷。若自汗出者，白虎湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "삼양합병의 복만·신중·돌아눕기 어려움·섬어·유뇨 등에서 발한·하법의 뒤탈을 설명하고, 자한이 있으면 백호탕을 제시한다.",
+      "case": "삼양합병에서 복만·신중·섬어가 있고 자한이 기록된다. 발한·하법의 잘못을 경계하면서 백호탕을 제시하는 조문을 고른다.",
+      "quizCase": "삼양합병에서 복만·신중·섬어가 있고 자한이 기록된다. 발한·하법의 잘못을 경계하면서 백호탕을 제시하는 조문을 고른다.",
+      "pattern": "삼양합병의 자한과 청열: 합병 이름만으로 발한·공하하지 않는다.",
+      "treatment": "백호탕을 이 조문의 자한과 열증 문맥에서 읽는다.",
+      "note": "350조 궐·맥활·리유열과 같은 처방이지만 증후의 출발점은 다르다. 삼양합병을 일정한 진행 단계로 보지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-219",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#219",
+      "compareWith": [
+        "shanghan-clause-168",
+        "shanghan-clause-350",
+        "shanghan-clause-303"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-350"
+      ]
+    },
+    {
+      "id": "shanghan-clause-229",
+      "title": "229조 · 조열이 있어도 시호증",
+      "category": "소양·화해",
+      "original": "陽明病，發潮熱，大便溏，小便自可，胸脇滿不去者，與小柴胡湯。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "양명병에 조열이 나지만 변이 무르고 소변은 순조로우며 흉협만이 사라지지 않으면 소시호탕을 준다.",
+      "case": "조열이 있으나 대변은 무르고 소변은 정상적이며 흉협만이 남았다. 조열 하나보다 시호증의 존속을 중시하는 조문을 찾는다.",
+      "quizCase": "조열이 있으나 대변은 무르고 소변은 정상적이며 흉협만이 남았다. 조열 하나보다 시호증의 존속을 중시하는 조문을 찾는다.",
+      "pattern": "조열보다 대변당·흉협만의 조합으로 시호증을 확인한다.",
+      "treatment": "소시호탕의 화해 방향을 양명편에 남아 있는 시호증에 연결한다.",
+      "note": "‘조열=대승기탕’이라는 단순 대응을 깨는 조문이다. 조시·대변경과 대변당을 구분한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-229",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#229",
+      "compareWith": [
+        "shanghan-clause-208",
+        "shanghan-clause-103",
+        "shanghan-clause-096"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-096",
+        "shanghan-clause-101"
+      ]
     },
     {
       "id": "shanghan-clause-236",
@@ -300,7 +990,43 @@
       "treatment": "인진호탕: 습열발황의 청열·이습 방향을 연결한다.",
       "note": "황달이라는 병명만 외우지 않고 조문에 적힌 수분·발한 단서를 구분한다.",
       "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-236",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#236"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#236",
+      "compareWith": [
+        "shanghan-clause-180",
+        "shanghan-clause-207",
+        "shanghan-clause-208",
+        "shanghan-clause-209",
+        "shanghan-clause-213",
+        "shanghan-clause-239",
+        "shanghan-clause-247"
+      ]
+    },
+    {
+      "id": "shanghan-clause-239",
+      "title": "239조 · 제주통과 조시",
+      "category": "양명·공리",
+      "original": "病人不大便五六日，繞臍痛，煩躁，發作有時者，此有燥屎，故使不大便也。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "오륙일 대변을 보지 못하고 배꼽 주위가 아프며 번조가 때때로 발작하면 조시가 있어 배변하지 못하는 것이라고 설명한다.",
+      "case": "며칠 무대변과 배꼽 둘레 통증·간헐 번조가 있다. 조시가 원인이라고 설명하지만 해당 문장에는 처방명이 나오지 않는 조문을 찾는다.",
+      "quizCase": "며칠 무대변과 배꼽 둘레 통증·간헐 번조가 있다. 조시가 원인이라고 설명하지만 해당 문장에는 처방명이 나오지 않는 조문을 찾는다.",
+      "pattern": "무대변·요제통·간헐 번조의 조시 단서다.",
+      "treatment": "공리 방향의 근거를 읽되 이 조문 자체에는 처방명이 없음을 구분한다.",
+      "note": "조문에 없는 처방명을 원문 인용으로 넣지 않는다. 209조의 불가공 조건과 함께 공하의 근거·한계를 비교한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-239",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#239",
+      "compareWith": [
+        "shanghan-clause-106",
+        "shanghan-clause-071",
+        "shanghan-clause-208",
+        "shanghan-clause-180",
+        "shanghan-clause-207",
+        "shanghan-clause-209",
+        "shanghan-clause-213",
+        "shanghan-clause-236",
+        "shanghan-clause-247"
+      ]
     },
     {
       "id": "shanghan-clause-247",
@@ -315,7 +1041,16 @@
       "treatment": "마자인환: 윤장과 통변의 배합축을 읽는다.",
       "note": "대승기탕의 조열·복만·조실 조건과 구분한다. 변비만으로 같은 처방군이라 하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/yangming/#clause-247",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#247"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#247",
+      "compareWith": [
+        "shanghan-clause-180",
+        "shanghan-clause-207",
+        "shanghan-clause-208",
+        "shanghan-clause-209",
+        "shanghan-clause-213",
+        "shanghan-clause-236",
+        "shanghan-clause-239"
+      ]
     },
     {
       "id": "shanghan-clause-263",
@@ -330,7 +1065,12 @@
       "treatment": "96조의 시호증과 연결하되 실제 증후로 화해 방향을 판단한다.",
       "note": "제강은 소양병의 학습 출발점이며 구고 하나를 단독 진단으로 쓰는 문장이 아니다.",
       "relatedSource": "/classics/shanghanlun/clauses/shaoyang/#clause-263",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#263"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#263",
+      "compareWith": [
+        "shanghan-clause-096",
+        "shanghan-clause-101",
+        "shanghan-clause-273"
+      ]
     },
     {
       "id": "shanghan-clause-273",
@@ -345,7 +1085,13 @@
       "treatment": "온중 방향을 검토하고 공격적 하법을 먼저 적용하지 않는다.",
       "note": "복만이 있다고 양명실증과 같게 보지 않는다. 279조의 허실에 따른 가감도 함께 읽는다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyin/#clause-273",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#273"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#273",
+      "compareWith": [
+        "shanghan-clause-277",
+        "shanghan-clause-279",
+        "shanghan-clause-280",
+        "shanghan-clause-386"
+      ]
     },
     {
       "id": "shanghan-clause-277",
@@ -360,7 +1106,57 @@
       "treatment": "사역배: 사역탕류의 온법이라는 표현을 보존한다.",
       "note": "원문 사역배를 이중탕 한 처방만 지목한 문구로 바꾸지 않는다. 열리하중과 대비한다.",
       "relatedSource": "/classics/shanghanlun/clauses/taiyin/#clause-277",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#277"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#277",
+      "compareWith": [
+        "shanghan-clause-273",
+        "shanghan-clause-279",
+        "shanghan-clause-280",
+        "shanghan-clause-386"
+      ]
+    },
+    {
+      "id": "shanghan-clause-279",
+      "title": "279조 · 계지가작약탕과 가대황",
+      "category": "태음·온중",
+      "original": "本太陽病，醫反下之，因爾腹滿時痛者，屬太陰也，桂枝加芍藥湯主之；大實痛者，桂枝加大黃湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "태양병에 잘못 하법을 써 복만과 때때로 아픈 양상은 태음에 속하며 계지가작약탕을 쓴다. 크게 실한 통증에는 계지가대황탕을 쓴다.",
+      "case": "오하 뒤 복만과 간헐 복통에는 작약을, 크게 실한 통증에는 대황을 더한 계지계 처방을 나누는 조문이다.",
+      "quizCase": "오하 뒤 복만과 간헐 복통에는 작약을, 크게 실한 통증에는 대황을 더한 계지계 처방을 나누는 조문이다.",
+      "pattern": "복만시통과 대실통: 태음편 안에서도 허실의 차이를 읽는다.",
+      "treatment": "계지탕 골격에 작약 또는 대황을 더하는 분기를 복부 소견에 연결한다.",
+      "note": "태음병을 모두 한·허 하나로만 읽으면 뒤의 대실통을 놓친다. 280조 위기약의 감량 원칙도 함께 본다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyin/#clause-279",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#279",
+      "compareWith": [
+        "shanghan-clause-273",
+        "shanghan-clause-277",
+        "shanghan-clause-280",
+        "shanghan-clause-386"
+      ]
+    },
+    {
+      "id": "shanghan-clause-280",
+      "title": "280조 · 위기 약한 사람의 감량",
+      "category": "태음·온중",
+      "original": "太陰為病，脈弱，其人續自便利，設當行大黃、芍藥者，宜減之，以其人胃氣弱，易動故也。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "태음병에 약맥이고 자리가 이어지는 사람에게 대황·작약을 써야 하더라도 줄여야 한다. 위기가 약해 쉽게 흔들리기 때문이다.",
+      "case": "태음병에 약맥과 계속되는 자리가 있다. 대황·작약이 필요한 상황이라도 위기가 약하므로 치료 강도를 줄이라는 근거를 찾는다.",
+      "quizCase": "태음병에 약맥과 계속되는 자리가 있다. 대황·작약이 필요한 상황이라도 위기가 약하므로 치료 강도를 줄이라는 근거를 찾는다.",
+      "pattern": "위기약·맥약·자리를 고려하는 치료 강도의 원칙이다.",
+      "treatment": "279조의 약물 분기를 위기와 하리의 상태에 맞춰 다시 제한한다.",
+      "note": "이 조문은 정량 환산 문제가 아니다. 적응증과 별개로 사람의 위기·치료 반응이 치법의 강도를 바꾼다는 뜻이다.",
+      "relatedSource": "/classics/shanghanlun/clauses/taiyin/#clause-280",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#280",
+      "compareWith": [
+        "shanghan-clause-273",
+        "shanghan-clause-277",
+        "shanghan-clause-279",
+        "shanghan-clause-386"
+      ]
     },
     {
       "id": "shanghan-clause-281",
@@ -375,7 +1171,35 @@
       "treatment": "후속 조문에서 한화·열화와 수기 등을 구분해 치법을 정한다.",
       "note": "소음병을 모두 사역탕증으로 환원하지 않는다. 303조는 번·부득와에 다른 처방을 제시한다.",
       "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-281",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#281"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#281",
+      "compareWith": [
+        "shanghan-clause-301",
+        "shanghan-clause-304",
+        "shanghan-clause-305",
+        "shanghan-clause-316"
+      ]
+    },
+    {
+      "id": "shanghan-clause-301",
+      "title": "301조 · 마황세신부자탕",
+      "category": "소음·한열",
+      "original": "少陰病，始得之，反發熱，脈沈者，麻黃細辛附子湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "소음병이 막 시작했는데 오히려 발열하고 침맥이면 마황세신부자탕을 쓴다.",
+      "case": "소음병의 시작에 발열이 있지만 맥은 침하다. 해표 약재와 부자의 온양이 함께 제시되는 조문을 고른다.",
+      "quizCase": "소음병의 시작에 발열이 있지만 맥은 침하다. 해표 약재와 부자의 온양이 함께 제시되는 조문을 고른다.",
+      "pattern": "소음병 초득·반발열·침맥: 표증과 양허 방향을 함께 읽는다.",
+      "treatment": "마황·세신의 해표와 부자의 온양을 함께 보는 온경해표 구조다.",
+      "note": "발열만 보고 태양병의 마황탕으로 바꾸지 않는다. 소음병이라는 문맥과 침맥이 차이이다.",
+      "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-301",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#301",
+      "compareWith": [
+        "shanghan-clause-281",
+        "shanghan-clause-304",
+        "shanghan-clause-305",
+        "shanghan-clause-316"
+      ]
     },
     {
       "id": "shanghan-clause-303",
@@ -390,7 +1214,85 @@
       "treatment": "황련아교탕: 청열과 음액을 보조하는 배합축을 읽는다.",
       "note": "단욕매의 제강과 모순이라며 배제하지 않는다. 소음병 안에서도 병증에 따라 치법이 달라진다.",
       "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-303",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#303"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#303",
+      "compareWith": [
+        "shanghan-clause-168",
+        "shanghan-clause-219",
+        "shanghan-clause-350",
+        "shanghan-clause-319",
+        "shanghan-clause-071"
+      ]
+    },
+    {
+      "id": "shanghan-clause-304",
+      "title": "304조 · 배오한과 부자탕",
+      "category": "소음·한열",
+      "original": "少陰病，得之一二日，口中和，其背惡寒者，當灸之，附子湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "소음병 하루 이틀에 입안이 조화롭고 등이 오한하면 뜸을 해야 한다고 하고 부자탕을 제시한다.",
+      "case": "소음병 초기에 입안은 조화롭고 등이 춥다. 뜸과 부자탕을 함께 언급하는 조문을 찾는다.",
+      "quizCase": "소음병 초기에 입안은 조화롭고 등이 춥다. 뜸과 부자탕을 함께 언급하는 조문을 찾는다.",
+      "pattern": "구중화·배오한: 갈증·구건의 열화 단서와 구분한다.",
+      "treatment": "온양 방향과 부자탕을 배오한·구중화에 연결한다.",
+      "note": "303조 황련아교탕의 심중번·부득와와 반대 방향이다. 병일보다 현재 한열·구중 상태를 먼저 확인한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-304",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#304",
+      "compareWith": [
+        "shanghan-clause-281",
+        "shanghan-clause-301",
+        "shanghan-clause-305",
+        "shanghan-clause-316"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-305"
+      ]
+    },
+    {
+      "id": "shanghan-clause-305",
+      "title": "305조 · 신통·골절통과 침맥",
+      "category": "소음·한열",
+      "original": "少陰病，身體痛，手足寒，骨節痛，脈沈者，附子湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "소음병에 신체통·수족한·골절통·침맥이 있으면 부자탕을 쓴다.",
+      "case": "신체와 뼈마디가 아프고 손발이 차며 맥이 침하다. 소음병에서 인삼·백출·작약·복령·부자의 배합이 연결되는 조문이다.",
+      "quizCase": "신체와 뼈마디가 아프고 손발이 차며 맥이 침하다. 소음병에서 인삼·백출·작약·복령·부자의 배합이 연결되는 조문이다.",
+      "pattern": "소음병의 신통·수족한·침맥: 표병 체통과 한화의 문맥을 구분한다.",
+      "treatment": "부자탕의 온양·거한습 방향을 통증과 수족한에 연결한다.",
+      "note": "301조 반발열·침맥의 온경해표, 316조 진무탕의 수기·하리와 구별한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-305",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#305",
+      "compareWith": [
+        "shanghan-clause-281",
+        "shanghan-clause-301",
+        "shanghan-clause-304",
+        "shanghan-clause-316"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-304"
+      ]
+    },
+    {
+      "id": "shanghan-clause-307",
+      "title": "307조 · 지속 하리의 도화탕",
+      "category": "소음·한열",
+      "original": "少陰病，二三日至四五日，腹痛，小便不利，下利不止，便膿血者，桃花湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "소음병에 복통·소변불리와 멎지 않는 하리·농혈변이 나타나면 도화탕을 쓴다.",
+      "case": "소음병에서 복통·소변불리와 지속 하리·농혈변이 기록된다. 적석지·건강·갱미의 구조를 제시하는 조문을 찾는다.",
+      "quizCase": "소음병에서 복통·소변불리와 지속 하리·농혈변이 기록된다. 적석지·건강·갱미의 구조를 제시하는 조문을 찾는다.",
+      "pattern": "지속 하리·농혈변의 도화탕: 앞의 소음병 맥락을 읽는다.",
+      "treatment": "적석지·건강·갱미의 온중·수삽 방향을 전통 방의로 비교한다.",
+      "note": "371조 백두옹탕의 열리하중과 다르다. 농혈변 한 항목만으로 한열을 결정하거나 현대 원인 평가를 대체하지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-307",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#307",
+      "compareWith": [
+        "shanghan-clause-371",
+        "shanghan-clause-359",
+        "shanghan-clause-386"
+      ]
     },
     {
       "id": "shanghan-clause-316",
@@ -405,7 +1307,37 @@
       "treatment": "진무탕: 온양이수의 방향과 가감 조건을 읽는다.",
       "note": "영계출감탕의 기상충·기립현훈과 다른 판독축이다. 소변불리만으로 오령산과 동일시하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-316",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#316"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#316",
+      "compareWith": [
+        "shanghan-clause-281",
+        "shanghan-clause-301",
+        "shanghan-clause-304",
+        "shanghan-clause-305"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-082"
+      ]
+    },
+    {
+      "id": "shanghan-clause-317",
+      "title": "317조 · 통맥사역탕",
+      "category": "소음·한열",
+      "original": "少陰病，下利清穀，裏寒外熱，手足厥逆，脈微欲絕，身反不惡寒。其人面色赤，或腹痛，或乾嘔，或咽痛，或利止脈不出者，通脈四逆湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "소음병에 소화되지 않은 음식의 하리·리한외열·수족궐역·미세해 끊어질 듯한 맥이 있고 도리어 오한하지 않는 경우 통맥사역탕을 쓴다. 면적·복통·건구·인통 등의 가감 분기를 함께 제시한다.",
+      "case": "소화되지 않은 음식의 설사와 손발 궐냉·맥미욕절이 있으나 도리어 오한하지 않고 얼굴이 붉다. 리한외열을 설명하는 조문이다.",
+      "quizCase": "소화되지 않은 음식의 설사와 손발 궐냉·맥미욕절이 있으나 도리어 오한하지 않고 얼굴이 붉다. 리한외열을 설명하는 조문이다.",
+      "pattern": "리한외열: 겉의 열감과 깊은 한·궐냉·미맥을 함께 읽는다.",
+      "treatment": "통맥사역탕의 회양 방향을 하리청곡·수족궐역·맥미욕절에 연결한다.",
+      "note": "‘오한이 없다’나 얼굴의 붉음만으로 백호탕증으로 읽지 않는다. 350조 활맥·리유열과 감별한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-317",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#317",
+      "compareWith": [
+        "shanghan-clause-323",
+        "shanghan-clause-350",
+        "shanghan-clause-351"
+      ]
     },
     {
       "id": "shanghan-clause-318",
@@ -420,7 +1352,34 @@
       "treatment": "사역산: 시호·작약·지실·감초의 소통·조화 방향을 읽는다.",
       "note": "323조 사역탕의 부자·건강·감초와 구성·치법이 다르다. 사지냉만으로 두 처방을 바꾸지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-318",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#318"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#318",
+      "compareWith": [
+        "shanghan-clause-317",
+        "shanghan-clause-323",
+        "shanghan-clause-350",
+        "shanghan-clause-351"
+      ]
+    },
+    {
+      "id": "shanghan-clause-319",
+      "title": "319조 · 저령탕의 불면과 갈증",
+      "category": "소음·한열",
+      "original": "少陰病，下利，六七日，欬而嘔渴，心煩不得眠者，豬苓湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "소음병의 하리 육칠일에 기침·구토·갈증과 심번불면이 있으면 저령탕을 쓴다.",
+      "case": "하리가 이어지다 기침·구토·갈증과 심번불면이 함께 나타난다. 저령·복령·택사·활석·아교를 연결하는 소음편 조문을 찾는다.",
+      "quizCase": "하리가 이어지다 기침·구토·갈증과 심번불면이 함께 나타난다. 저령·복령·택사·활석·아교를 연결하는 소음편 조문을 찾는다.",
+      "pattern": "하리 중 갈·번·불면의 수열·음액 손상 방향이다.",
+      "treatment": "저령탕의 이수와 아교의 음액 보완을 함께 읽는다.",
+      "note": "303조 황련아교탕과 심번불면이 겹치지만 이 조문은 하리·해·구·갈의 묶음이 있다. 한화 소음병과 동일시하지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-319",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#319",
+      "compareWith": [
+        "shanghan-clause-303",
+        "shanghan-clause-071",
+        "shanghan-clause-168"
+      ]
     },
     {
       "id": "shanghan-clause-323",
@@ -435,7 +1394,13 @@
       "treatment": "사역탕: 부자·건강·감초를 중심으로 온양의 배합축을 읽는다.",
       "note": "사역산과 동명 계열처럼 섞지 않는다. 침맥 하나로 현대의 급성 상태를 진단하는 규칙은 아니다.",
       "relatedSource": "/classics/shanghanlun/clauses/shaoyin/#clause-323",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#323"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#323",
+      "compareWith": [
+        "shanghan-clause-317",
+        "shanghan-clause-318",
+        "shanghan-clause-350",
+        "shanghan-clause-351"
+      ]
     },
     {
       "id": "shanghan-clause-326",
@@ -450,7 +1415,33 @@
       "treatment": "상하·한열의 복합 양상과 하법의 조건을 살펴 처방을 구분한다.",
       "note": "궐음병 전체를 오매환 한 처방이나 단순 냉증으로 환원하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/jueyin/#clause-326",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#326"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#326",
+      "compareWith": [
+        "shanghan-clause-338",
+        "shanghan-clause-359",
+        "shanghan-clause-397"
+      ]
+    },
+    {
+      "id": "shanghan-clause-338",
+      "title": "338조 · 장궐·회궐과 오매환",
+      "category": "궐음·한열",
+      "original": "傷寒，脈微而厥，至七八日，膚冷，其人躁無暫安時者，此為藏厥，非蚘厥也。蚘厥者，其人當吐蚘，令病者靜而復時煩者，此為藏寒。蚘上入其膈故煩，須臾復止，得食而嘔，又煩者，蚘聞食臭出，其人常自吐蚘。蚘厥者，烏梅丸主之。又主久利。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "지속적으로 불안하고 차가운 장궐과, 잠잠하다 간헐적으로 번하며 식후 구토·회충 구토가 있는 회궐을 나눈다. 회궐에는 오매환을 쓰고 오래된 하리에도 주치한다고 한다.",
+      "case": "차가운 상태에서 잠잠하다 간헐적으로 번하고 먹으면 토하며 회충을 토하는 기록이 있다. 계속 조동하는 장궐과 구별하는 조문이다.",
+      "quizCase": "차가운 상태에서 잠잠하다 간헐적으로 번하고 먹으면 토하며 회충을 토하는 기록이 있다. 계속 조동하는 장궐과 구별하는 조문이다.",
+      "pattern": "장궐의 지속 조동과 회궐의 정이복시번·토회를 구별한다.",
+      "treatment": "오매환의 한열 병용·산수렴 구조를 회궐·구리의 문맥에서 읽는다.",
+      "note": "원문상 주치는 회궐·구리다. 한열착잡이라는 후대 방의와 원문 병명을 구분하며 오늘날 모든 복통·설사에 확장하지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/jueyin/#clause-338",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#338",
+      "compareWith": [
+        "shanghan-clause-326",
+        "shanghan-clause-359",
+        "shanghan-clause-397"
+      ]
     },
     {
       "id": "shanghan-clause-350",
@@ -465,7 +1456,64 @@
       "treatment": "백호탕: 청열의 배합 방향을 연결한다.",
       "note": "사지가 차면 항상 온법이라는 판단을 수정하는 조문이다. 323조와 맥·문맥을 함께 비교한다.",
       "relatedSource": "/classics/shanghanlun/clauses/jueyin/#clause-350",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#350"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#350",
+      "compareWith": [
+        "shanghan-clause-168",
+        "shanghan-clause-219",
+        "shanghan-clause-303",
+        "shanghan-clause-317",
+        "shanghan-clause-318",
+        "shanghan-clause-323",
+        "shanghan-clause-351"
+      ],
+      "treatmentAvoid": [
+        "shanghan-clause-219"
+      ]
+    },
+    {
+      "id": "shanghan-clause-351",
+      "title": "351조 · 당귀사역탕",
+      "category": "궐음·한열",
+      "original": "手足厥寒，脈細欲絕者，當歸四逆湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "손발이 차고 가는 맥이 끊어질 듯하면 당귀사역탕을 쓴다.",
+      "case": "수족궐한과 맥세욕절이 기록되며 당귀·작약·계지·세신·통초·감초·대조가 연결된다. 부자·건강 계열과 다른 조문을 고른다.",
+      "quizCase": "수족궐한과 맥세욕절이 기록되며 당귀·작약·계지·세신·통초·감초·대조가 연결된다. 부자·건강 계열과 다른 조문을 고른다.",
+      "pattern": "수족궐한·맥세욕절: 혈허한궐이라는 전통 해석의 근거다.",
+      "treatment": "당귀·작약과 계지·세신 등의 양혈·온경 구조를 읽는다.",
+      "note": "사역탕·통맥사역탕의 부자·건강 회양 구조와 다르다. ‘사역’이라는 이름과 수족냉만으로 합치지 않는다.",
+      "relatedSource": "/classics/shanghanlun/clauses/jueyin/#clause-351",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#351",
+      "compareWith": [
+        "shanghan-clause-323",
+        "shanghan-clause-317",
+        "shanghan-clause-318"
+      ]
+    },
+    {
+      "id": "shanghan-clause-359",
+      "title": "359조 · 건강황금황련인삼탕",
+      "category": "궐음·한열",
+      "original": "傷寒本自寒下，醫復吐下之，寒格，更逆吐下，若食入口即吐，乾薑黃芩黃連人參湯主之。",
+      "originalLabel": "조문 원문",
+      "edition": "송본 계열 · 중의급성 전사문 · 통행 398조 구분",
+      "translation": "원래 한성 하리가 있던 상한에 다시 토하법을 써 한격이 되고 역으로 토하가 심해졌다. 음식이 입에 들어가자마자 토하면 건강황금황련인삼탕을 쓴다.",
+      "case": "원래 한성 설사가 있는데 토하법을 다시 써 역토하가 심해졌다. 음식이 입에 닿으면 바로 토하는 증후에 네 약재의 한열 병용을 연결한다.",
+      "quizCase": "원래 한성 설사가 있는데 토하법을 다시 써 역토하가 심해졌다. 음식이 입에 닿으면 바로 토하는 증후에 네 약재의 한열 병용을 연결한다.",
+      "pattern": "오치 뒤 입구즉토: 본자한하와 치료 뒤 상역을 함께 읽는다.",
+      "treatment": "건강·황금·황련·인삼의 한열 병용·위기 조화를 연결한다.",
+      "note": "청열 약재와 온리 약재가 함께 있다는 이유만으로 모든 한열착잡 처방을 같게 보지 않는다. 사심탕류의 심하비·뇌명·하리와 비교한다.",
+      "relatedSource": "/classics/shanghanlun/clauses/jueyin/#clause-359",
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#359",
+      "compareWith": [
+        "shanghan-clause-307",
+        "shanghan-clause-371",
+        "shanghan-clause-386",
+        "shanghan-clause-326",
+        "shanghan-clause-338",
+        "shanghan-clause-397"
+      ]
     },
     {
       "id": "shanghan-clause-371",
@@ -480,7 +1528,12 @@
       "treatment": "백두옹탕: 청열과 열리 조절의 배합 방향을 읽는다.",
       "note": "277조의 장한·불갈하리와 대비한다. 설사라는 공통 증상만으로 온법이나 청열법을 정하지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/jueyin/#clause-371",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#371"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#371",
+      "compareWith": [
+        "shanghan-clause-307",
+        "shanghan-clause-359",
+        "shanghan-clause-386"
+      ]
     },
     {
       "id": "shanghan-clause-386",
@@ -495,7 +1548,16 @@
       "treatment": "이중환은 한다불용수의 온중 방향; 오령산의 수기 문맥과 대비한다.",
       "note": "원문은 이중환이다. 후대 이중탕 제형·용량을 원문과 섞지 않는다.",
       "relatedSource": "/classics/shanghanlun/clauses/huoluan/#clause-386",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#386"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#386",
+      "compareWith": [
+        "shanghan-clause-273",
+        "shanghan-clause-277",
+        "shanghan-clause-279",
+        "shanghan-clause-280",
+        "shanghan-clause-307",
+        "shanghan-clause-371",
+        "shanghan-clause-359"
+      ]
     },
     {
       "id": "shanghan-clause-397",
@@ -510,7 +1572,12 @@
       "treatment": "죽엽석고탕: 청열과 익기·생진 및 화위의 배합축을 읽는다.",
       "note": "병후라는 시점과 허리·소기를 확인한다. 급성 표증의 해표 처방을 그대로 반복하는 문제가 아니다.",
       "relatedSource": "/classics/shanghanlun/clauses/recovery/#clause-397",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#397"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#397",
+      "compareWith": [
+        "shanghan-clause-326",
+        "shanghan-clause-338",
+        "shanghan-clause-359"
+      ]
     }
   ]
 }
