@@ -52,13 +52,13 @@ const $=id=>document.getElementById(id), c=$("sx-constitution"),a=$("sx-axis"),s
 if(!c||!a||!s||!r||!m||!reset)return;
 const uniq=x=>[...new Set(x)];
 const opt=(v,t)=>{const o=document.createElement("option");o.value=v;o.textContent=t;return o};
-function axes(){a.innerHTML="";a.append(opt("","병증축을 선택하세요"));if(!c.value){a.disabled=true;return}(AXIS_ORDER[c.value]||uniq(D.filter(x=>x[0]===c.value).map(x=>x[1]))).forEach(x=>a.append(opt(x,x)));a.disabled=false}
+function axes(){a.innerHTML="";a.append(opt("","병증군을 선택하세요"));if(!c.value){a.disabled=true;return}(AXIS_ORDER[c.value]||uniq(D.filter(x=>x[0]===c.value).map(x=>x[1]))).forEach(x=>a.append(opt(x,x)));a.disabled=false}
 function stages(){s.innerHTML="";s.append(opt("","전체 단계"));if(!a.value){s.disabled=true;return}D.filter(x=>x[0]===c.value&&x[1]===a.value).forEach(x=>s.append(opt(x[2],x[2])));s.disabled=false}
 function esc(x){return String(x).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]))}
 function render(){
  const rows=D.filter(x=>(!c.value||x[0]===c.value)&&(!a.value||x[1]===a.value)&&(!s.value||x[2]===s.value));
- if(!c.value){m.textContent="체질을 선택하면 해당 체질의 주요 병증축부터 단계적으로 살펴볼 수 있습니다.";r.innerHTML="";return}
- m.textContent=a.value?c.value+" · "+a.value+(s.value?" · "+s.value:" · 전체 단계")+" — 대표 처방은 추천이 아니라 관련 문서로 이동하는 학습용 연결입니다.":c.value+"의 주요 병증축을 선택하세요.";
+ if(!c.value){m.textContent="체질을 선택하면 해당 체질의 주요 병증군부터 단계적으로 살펴볼 수 있습니다.";r.innerHTML="";return}
+ m.textContent=a.value?c.value+" · "+a.value+(s.value?" · "+s.value:" · 전체 단계")+" — 대표 처방은 추천이 아니라 관련 문서로 이동하는 학습용 연결입니다.":c.value+"의 주요 병증군을 선택하세요.";
  if(!a.value){r.innerHTML="";return}
  r.innerHTML=rows.map(x=>{const fs=x[5].map(f=>'<a class="sasang-explorer__formula" href="'+f[1]+'"><strong>'+esc(f[0])+'</strong><small>'+esc(f[2])+'</small></a>').join("");
  const ls=(LINKS[x[0]]||[]).map(z=>'<a href="'+z[1]+'">'+esc(z[0])+' →</a>').join("");
