@@ -65,6 +65,13 @@ description: 소양인 망음병 vs 흉격열병 — 민성 한의학 아카이�
 
 → [소양인 중증도 지도](soyangin-severity-map.md) · [소양인 상세](../sasang-clinical-detail/soyangin.md)
 
+
+## 원전·CPG 바로가기
+
+망음은 「소양인 비수한표한병론」의 **身熱頭痛泄瀉 / 身寒腹痛泄瀉** 대비와 2014 망음병 CPG를, 흉격열은 「소양인 위수열리열병론」과 2014 흉격열병 CPG를 함께 읽습니다.
+
+→ [병증별 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md)
+
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
