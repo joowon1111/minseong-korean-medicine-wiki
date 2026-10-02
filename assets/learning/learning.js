@@ -2,8 +2,8 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261002-6';
-  const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학'};
+  const VERSION = '20261002-7';
+  const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
     try {
@@ -126,7 +126,7 @@
       tabs.append(button);
     }
     const filters = node('div', undefined, {class: 'learning-filters'});
-    const query = node('input', undefined, {type: 'search', placeholder: '구조명·영문명·혈명·코드·본초·처방 검색', 'aria-label': '학습자료 검색'});
+    const query = node('input', undefined, {type: 'search', placeholder: '구조·혈명·본초·처방·조문·병증 검색', 'aria-label': '학습자료 검색'});
     const category = node('select', undefined, {'aria-label': '학습 단원'});
     const modeSelect = node('select', undefined, {'aria-label': '학습 방식'});
     for (const [value, title] of [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']]) {
@@ -216,6 +216,7 @@
           const types = subject === 'acupoints'
             ? [['', '전체 문제 유형'], ['name', '혈명·경맥'], ['location', '표준 위치 설명'], ['diagram', '그림으로 경혈 찾기']]
             : subject === 'anatomy' ? [['', '전체 문제 유형'], ['fact', '부착·작용·연결·특징'], ['identify', '설명으로 구조 식별'], ['diagram', '도해로 구조 식별']]
+            : (subject === 'shanghanlun' || subject === 'sasang') ? [['', '전체 문제 유형'], ['original', '원문·표지어 → 우리말 풀이'], ['interpretation', '조문·병증 해석'], ['treatment', '치법·처방 연결'], ...(subject === 'sasang' ? [['formula', '주요 처방 감별']] : [])]
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
