@@ -272,6 +272,8 @@ class StudentLearning(unittest.TestCase):
 
     def test_hard_classical_cases_keep_clause_numbers_and_source_claims_precise(self):
         sh = {q['id']: q for q in self.decks['shanghanlun']['questions'] if q['kind'] == 'advanced'}
+        self.assertIn('時時惡風', sh['advanced-shanghanlun-high-05']['context'])
+        self.assertIn('170조', sh['advanced-shanghanlun-high-05']['explanation'])
         self.assertIn('更莫復服', sh['advanced-shanghanlun-high-06']['explanation'])
         self.assertEqual(sh['advanced-shanghanlun-high-07']['cardId'], 'shanghan-clause-316')
         q = sh['advanced-shanghanlun-expert-03']
