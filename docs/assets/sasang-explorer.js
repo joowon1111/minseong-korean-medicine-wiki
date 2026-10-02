@@ -1,0 +1,50 @@
+(()=>{"use strict";
+const D=[
+["소양인","비수한표한병","소양상풍·표병","두통·한열왕래·신체통·흉협 불편 등 표병의 비교적 얕은 방향을 살핍니다.",["배설 변화와 기력 저하가 진행하는지","망음의 복통·설사·소모가 중심으로 이동하는지","감염·호흡기·근골격 원인을 함께 구분했는지"],[["형방패독산","/sasang-formula-library/hyeongbangpaedok-san/","표병의 비교적 얕은 단계"]]],
+["소양인","비수한표한병","신열두통망음","신열·두통·번조·구갈과 배설 변화를 함께 보며 망음 방향을 살핍니다.",["형방도적산 단계보다 열·번조가 뚜렷한지","복통·설사와 수분 소모가 중심인지","탈수·감염 등 다른 원인을 함께 확인했는지"],[["형방사백산","/sasang-formula-cards/hyeongbangsabaek-san/","신열·두통·번조·구갈의 망음 방향"],["형방지황탕","/sasang-formula-cards/hyeongbangjihwang-tang/","설사·소모가 더 뚜렷한 망음 방향"]]],
+["소양인","위수열리열병","흉격열·리열","상부 열감·번조·구갈과 대소변 변화를 보며 흉격열과 리열의 정도를 살핍니다.",["표병의 한열·두통이 중심인지","대변 정체와 구갈의 정도","음허오열처럼 소모·허열 방향이 깊어졌는지"],[["양격산화탕","/sasang-formula-cards/yanggyeoksanhwa-tang/","흉격열·리열 방향"],["지황백호탕","/sasang-formula-library/soyangin-extended-formulas/#soyang-jihwangbaekho","백호계 리열 방향 비교"]]],
+["소양인","위수열리열병","음허오열·하소","진액·음분의 소모와 허열, 하지 기능·소변·수면 등 전신 회복 저하를 함께 살핍니다.",["단순한 실열·구갈과 구분","체중·섭취·수분·내분비 문제 확인","하지 기능과 야간 증상·수면 변화"],[["독활지황탕","/sasang-formula-cards/dokhwaljihwang-tang/","음허오열 방향"]]],
+
+["태음인","위완수한표한병","표한·비위·담습","오한·발한불리, 몸의 무거움, 식후 더부룩함·부종·피로가 겹치는 표한 방향을 살핍니다.",["땀 뒤 편안함과 기력 변화","호흡기 불편·부종·대사 문제","간수열리열의 열감·구갈·건조와 구분"],[["태음조위탕","/sasang-formula-cards/taeeumjowi-tang/","표한과 비위·담습 방향"]]],
+["태음인","위완수한표한병","승청 기능 저하","식후 비만감, 하지 무력, 오래된 회복저하와 수면·심신 증상을 함께 살핍니다.",["태음조위탕 단계와의 공통점·차이","하지무력의 신경·근골격 원인","수면·심계·피로가 병증축과 일관되는지"],[["조위승청탕","/sasang-formula-cards/jowiseungcheong-tang/","승청 기능 저하와 회복축"]]],
+["태음인","간수열리열병","간열·리열","열감·구갈·발한과 대변·피부의 건조 등 리열 방향을 표한과 구분해 살핍니다.",["오한·무한·몸의 무거움이 중심인 표한과 구분","대변 정체·갈증·피부 건조의 정도","폐조·진액 소모가 심화되는지"],[["열다한소탕","/sasang-formula-cards/yeoldahanso-tang/","간열·리열 방향"],["갈근해기탕","/sasang-formula-library/galgeunhaegi-tang/","해기청열 방향 비교"]]],
+["태음인","간수열리열병","간열폐조·조열","열·건조와 함께 심번·현훈·심계·수면, 진액 보완의 비중이 커지는 방향을 살핍니다.",["단순 리열보다 폐조·진액 소모가 두드러지는지","심계·현훈의 다른 원인","수면과 대변·갈증이 함께 변하는지"],[["청심연자탕","/sasang-formula-cards/cheongsimyeonja-tang/","간열폐조·조열 방향"]]],
+
+["소음인","신수열표열병","태양증·울광","오한·발열, 두통·신체통과 땀의 변화를 보며 울광의 표병 방향을 살핍니다.",["감염·체온·호흡기 증상 확인","땀 뒤 기력이 급격히 떨어지는 망양과 구분","통증 부위와 근골격 원인 확인"],[["천궁계지탕","/sasang-integrated/soeumin/#soeum-cheongung-gyeji","태양증·울광 방향"],["궁귀향소산","/sasang-formula-library/soeumin-extended-formulas/#soeum-gunggwihyangso","울광 처방군 비교"]]],
+["소음인","신수열표열병","망양초증","땀 뒤 기력저하와 표증의 지속, 회복 지연을 보며 망양 방향을 살핍니다.",["탈수·저혈압·빈혈·약물 영향","울광의 표증과 탈진의 비중 비교","어지럼·실신·심혈관 위험 신호 확인"],[["승양익기탕","/sasang-integrated/soeumin/#soeum-seungyangikgi","망양초증 방향"],["승양팔물탕","/sasang-formula-cards/seungyangpalmul-tang/","망양 처방군 비교"]]],
+["소음인","위수한리한병","태음병·한습","복통·설사, 식욕저하, 오심·구토와 심하부 답답함이 겹치는 리한 방향을 살핍니다.",["장염·식중독·약물 등 원인 감별","구토·심하비만의 비중","사지냉·전신 쇠약이 더 깊은 소음병과 구분"],[["곽향정기산","/sasang-formula-cards/gwakhyangjeonggi-san/","태음병의 한습·구토 방향"],["백하오이중탕","/sasang-formula-cards/baekhao-ijung-tang/","태음병의 리한 방향"]]],
+["소음인","위수한리한병","소음병·리한 심화","사지냉·전신통·쇠약과 복통·설사가 깊어지는 리한 방향을 살핍니다.",["탈수·전해질·혈압·체온 확인","급성 복증과 감염 감별","부자 포함 처방의 포제·용량·병용약 안전성"],[["관계부자이중탕","/sasang-formula-cards/gwangye-buja-ijung-tang/","리한 심화 방향"],["향부자팔물탕","/sasang-formula-cards/hyangbujapalmul-tang/","기체·사려상비와 만성 허약 비교"]]],
+
+["태양인","외감요척병","해역","요척·하지의 지탱 기능 저하와 오래 서기·걷기 어려운 방향을 살핍니다.",["근력·감각·반사와 좌우 차이","뇌·척수·말초신경·근골격 질환 감별","보행·계단·낙상과 일상기능 변화"],[["오가피장척탕","/sasang-formula-cards/ogapi-jangcheok-tang/","외감요척병·해역 방향"]]],
+["태양인","내촉소장병","열격·반위","연하불편·구역·구토와 섭취 감소, 체중·수분 변화를 함께 살핍니다.",["고형식·물의 차이와 걸리는 위치","흡인 신호·진행성 연하곤란 확인","위·식도 질환과 영양·탈수 평가"],[["미후등식장탕","/sasang-formula-cards/mihudeung-sikjang-tang/","내촉소장병·열격 방향"]]]
+];
+
+const LINKS={
+"소양인":[["통합 허브","/sasang-integrated/soyangin/"],["병증 진행","/sasang-progression/soyangin/"],["처방 배합망","/sasang-formula-combination-network/soyangin-network/"]],
+"태음인":[["통합 허브","/sasang-integrated/taeeumin/"],["표리 감별","/sasang-pattern-differential/taeeumin-exterior-vs-interior/"],["처방 배합망","/sasang-formula-combination-network/taeeumin-network/"]],
+"소음인":[["통합 허브","/sasang-integrated/soeumin/"],["병증 진행","/sasang-progression/soeumin/"],["처방 배합망","/sasang-formula-combination-network/soeumin-network/"]],
+"태양인":[["통합 허브","/sasang-integrated/taeyangin/"],["해역·열격 감별","/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/"],["처방 배합망","/sasang-formula-combination-network/taeyangin-network/"]]
+};
+
+const $=id=>document.getElementById(id), c=$("sx-constitution"),a=$("sx-axis"),s=$("sx-stage"),r=$("sx-results"),m=$("sx-summary"),reset=$("sx-reset");
+if(!c||!a||!s||!r||!m||!reset)return;
+const uniq=x=>[...new Set(x)];
+const opt=(v,t)=>{const o=document.createElement("option");o.value=v;o.textContent=t;return o};
+function axes(){a.innerHTML="";a.append(opt("","병증축을 선택하세요"));if(!c.value){a.disabled=true;return}uniq(D.filter(x=>x[0]===c.value).map(x=>x[1])).forEach(x=>a.append(opt(x,x)));a.disabled=false}
+function stages(){s.innerHTML="";s.append(opt("","전체 단계"));if(!a.value){s.disabled=true;return}D.filter(x=>x[0]===c.value&&x[1]===a.value).forEach(x=>s.append(opt(x[2],x[2])));s.disabled=false}
+function esc(x){return String(x).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]))}
+function render(){
+ const rows=D.filter(x=>(!c.value||x[0]===c.value)&&(!a.value||x[1]===a.value)&&(!s.value||x[2]===s.value));
+ if(!c.value){m.textContent="체질을 선택하면 해당 체질의 주요 병증축부터 단계적으로 살펴볼 수 있습니다.";r.innerHTML="";return}
+ m.textContent=a.value?c.value+" · "+a.value+(s.value?" · "+s.value:" · 전체 단계")+" — 대표 처방은 추천이 아니라 관련 문서로 이동하는 학습용 연결입니다.":c.value+"의 주요 병증축을 선택하세요.";
+ if(!a.value){r.innerHTML="";return}
+ r.innerHTML=rows.map(x=>{const fs=x[5].map(f=>'<a class="sasang-explorer__formula" href="'+f[1]+'"><strong>'+esc(f[0])+'</strong><small>'+esc(f[2])+'</small></a>').join("");
+ const ls=(LINKS[x[0]]||[]).map(z=>'<a href="'+z[1]+'">'+esc(z[0])+' →</a>').join("");
+ return '<article class="sasang-explorer__card"><p class="sasang-explorer__eyebrow">'+esc(x[0])+' · '+esc(x[1])+'</p><h3>'+esc(x[2])+'</h3><p>'+esc(x[3])+'</p><h4>감별 포인트</h4><ul>'+x[4].map(d=>'<li>'+esc(d)+'</li>').join("")+'</ul><h4>연결해서 읽을 대표 처방</h4><div class="sasang-explorer__formula-grid">'+fs+'</div><h4>관련 문서</h4><div class="sasang-explorer__links">'+ls+'</div></article>'}).join("")||'<div class="sasang-explorer__empty">조건에 맞는 항목이 없습니다.</div>'
+}
+c.addEventListener("change",()=>{axes();s.innerHTML='<option value="">전체 단계</option>';s.disabled=true;render()});
+a.addEventListener("change",()=>{stages();render()});
+s.addEventListener("change",render);
+reset.addEventListener("click",()=>{c.value="";a.innerHTML='<option value="">먼저 체질을 선택하세요</option>';a.disabled=true;s.innerHTML='<option value="">전체 단계</option>';s.disabled=true;render();c.focus()});
+render();
+})();
