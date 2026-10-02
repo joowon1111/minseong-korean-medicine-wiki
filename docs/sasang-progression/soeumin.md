@@ -3,7 +3,7 @@ title: 소음인 건강→악화→회복
 description: 소음인 건강→악화→회복을 사상체질의 완실무병·소증·병증 진행과 회복 구조로 정리합니다.
 tags: [사상체질, 완실무병, 소증, 악화, 회복]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-10-02
 ---
 # 소음인 건강→악화→회복
 
@@ -23,6 +23,34 @@ last_reviewed: 2026-08-20
 급한 위장 증상 감소 → 냉감 완화 → 식욕 회복 → 식후 불편 감소 → **음식선화 회복**.
 
 → [증상·치료 상세](../sasang-clinical-detail/soeumin.md)
+
+
+## 표병과 리병의 두 진행축
+
+| 진행 방향 | 중심 변화 | 깊어질 때 | 대표 처방 문서 |
+|---|---|---|---|
+| 울광 초기 | 오한·발열·두통·신체통 | 발한 뒤 기력저하 | 천궁계지탕 |
+| 표병·기체 | 두통·흉복답답·식욕변화 | 망양 전환 여부 | 향소산·궁귀향소산 |
+| 망양초증 | 땀 뒤 탈진·오한 | 냉감·활동저하 | [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
+| 망양 심화 | 지속 자한·심한 쇠약 | 순환·기립·의식 | [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) |
+| 태음병 | 복통·설사·식욕저하 | 구토·비만·황달 분기 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) |
+| 태음병 한습 | 오심·구토·심하비만 | 탈수·전해질 | [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
+| 소음병 | 심한 설사·복통·수족냉 | 갈증·심번·전신통 | [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) |
+| 장궐·격양 | 구토·설사·사지궐냉 | 섭취·순환·의식 저하 | [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) |
+
+## 악화의 시작점을 구분하기
+
+발한·두통·오한이 먼저이고 이후 탈진이 심해지면 망양축을, 식욕저하·복통·설사·구토가 먼저이면 태음병·소음병축을 우선 비교합니다. 냉감과 피로는 양쪽에 모두 있을 수 있어 **시간순서**가 중요합니다.
+
+## 음식선화가 무너지는 방식
+
+먹기 싫고 식후 더부룩한지, 먹으면 바로 복통·설사가 생기는지, 구토로 음식과 물을 유지하기 어려운지, 설사는 줄었지만 식후 불편과 기력저하가 남는지를 묻습니다. 이 질문은 병증의 깊이와 회복을 모두 평가하는 데 사용합니다.
+
+## 회복 순서
+
+급성 구토·설사·발한이 안정된 뒤 식사량, 식후 편안함, 대변, 냉감, 기립·보행, 수면이 순차적으로 발병 전 수준으로 돌아오는지 봅니다. 단순히 설사가 멎은 것보다 **먹고 소화해 활동할 수 있는 상태**가 중요합니다.
+
+→ [소음인 중증도 지도](../sasang-pattern-differential/soeumin-severity-map.md) · [태음병 vs 소음병](../sasang-pattern-differential/soeumin-taeeum-vs-soeum.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

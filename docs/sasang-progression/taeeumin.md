@@ -3,7 +3,7 @@ title: 태음인 건강→악화→회복
 description: 태음인 건강→악화→회복을 사상체질의 완실무병·소증·병증 진행과 회복 구조로 정리합니다.
 tags: [사상체질, 완실무병, 소증, 악화, 회복]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-10-02
 ---
 # 태음인 건강→악화→회복
 
@@ -23,6 +23,35 @@ last_reviewed: 2026-08-20
 한열·호흡 안정 → 냉감/번조 감소 → 소화·대변·수면 회복 → **한액통창 회복**.
 
 → [증상·치료 상세](../sasang-clinical-detail/taeeumin.md)
+
+
+## 세부 진행 지도
+
+| 진행 방향 | 중심 변화 | 다음 단계에서 확인 | 대표 처방 문서 |
+|---|---|---|---|
+| 표한·한궐 | 오한·무한·흉복통·신체통 | 호흡·사지냉 | [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md) |
+| 비위 담습 | 식후 팽만·무거움·담 | 발한·부종·기력 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) |
+| 승청 저하 | 중소·하지무력·회복지연 | 기침·수면·활동 | [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) |
+| 승청·호흡 | 기침·담·호흡불편 | 병후 폐원 회복 | [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) |
+| 간열·폐조 | 열·갈증·다한·건조 | 조열·변폐 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) |
+| 조열·심신 | 현훈·심번·심계·수면 | 정체·전신소모 | [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) |
+| 강한 리열·정체 | 번갈·변비·복만 | 탈수·급성복증 | [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) |
+
+## 발한을 경과지표로 쓰는 방법
+
+태음인의 한액통창은 단순히 땀의 양을 뜻하지 않습니다. **언제 땀이 나는지, 땀 뒤 몸이 가벼운지, 갈증·호흡·부종·피로가 어떻게 변하는지**를 함께 기록합니다. 표한에서 발한이 막혀 답답한 상태와 리열에서 과도한 발한으로 진액이 소모되는 상태는 같은 땀 문제가 아닙니다.
+
+## 표한에서 리열로 단순 이동한다고 보지 않기
+
+표한과 리열은 하나의 직선적 진행단계가 아니라 서로 다른 큰 병증축입니다. 표한 안에서도 비위담습→승청저하→폐원 회복의 분기가 있고, 리열 안에서도 간열폐조→조열/양독→강한 정체의 분기가 있습니다.
+
+## 회복을 판단하는 순서
+
+표한은 오한·무거움 → 식후 불편·호흡 → 자연스러운 발한 → 활동 회복을, 리열은 번조·갈증 → 대변·건조 → 수면·심신 → 발한 뒤 편안함과 전신 회복을 봅니다.
+
+호흡곤란·흉통·실신·산소포화도 저하, 심한 복통·반복 구토는 체질병증 경과보다 우선 평가합니다.
+
+→ [태음인 표한 vs 리열](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md) · [처방 탐색기](../sasang-explorer/index.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
