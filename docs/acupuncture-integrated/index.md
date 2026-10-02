@@ -45,6 +45,7 @@ last_reviewed: 2026-09-06
 
 | 찾고 싶은 것 | 가장 빠른 길 |
 |---|---|
+| 한의대 경혈학·침구학을 카드와 퀴즈로 복습하기 | [361경혈 학습](../learning/acupoints.md) · [침구학 개념 학습](../learning/acupuncture.md) |
 | 경혈 위치를 그림·이름·코드로 찾기 | [WHO 표준 361경혈 아틀라스](../acupoint-network/standard-atlas.md) |
 | 경맥 유주와 특정혈·배혈 원리 | [경락·경맥 지식망](../meridian-network/index.md) |
 | 사암침법의 정격·승격과 임상 선택 | [사암침법 핵심 지식망](../acupuncture-specific/saam-acupuncture.md) |

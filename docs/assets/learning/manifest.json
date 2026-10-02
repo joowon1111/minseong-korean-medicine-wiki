@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "version": "20261002-1",
+  "subjects": [
+    {
+      "id": "acupoints",
+      "title": "경혈학",
+      "cards": 361,
+      "questions": 1075,
+      "file": "acupoints.json"
+    },
+    {
+      "id": "acupuncture",
+      "title": "침구학",
+      "cards": 105,
+      "questions": 202,
+      "file": "acupuncture.json"
+    },
+    {
+      "id": "herbs",
+      "title": "본초학",
+      "cards": 120,
+      "questions": 211,
+      "file": "herbs.json"
+    },
+    {
+      "id": "formulas",
+      "title": "방제학",
+      "cards": 100,
+      "questions": 200,
+      "file": "formulas.json"
+    }
+  ]
+}
