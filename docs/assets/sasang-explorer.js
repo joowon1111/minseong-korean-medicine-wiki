@@ -34,6 +34,13 @@ const D=[
 ["태양인","내촉소장병","열격·반위","연하불편·구역·구토와 섭취 감소, 체중·수분 변화를 함께 살핍니다.",["고형식·물의 차이와 걸리는 위치","흡인 신호·진행성 연하곤란 확인","위·식도 질환과 영양·탈수 평가"],[["미후등식장탕","/sasang-formula-cards/mihudeung-sikjang-tang/","내촉소장병·열격 방향"]]]
 ];
 
+const AXIS_ORDER={
+"소양인":["소양상풍·표병","표병·결흉/흉격 불편","신열두통망음·배설 변화","망음·설사/복통","흉격열·리열","장관 열·이질","강한 리열·이열변폐","음허오열·하소/허로"],
+"태음인":["표한·한궐·통증","표한·비위담습/조위","표한·승청 저하","표한·승청과 호흡","병후체허·폐원/회복","간열·폐조","리열·양독/조열·심신","강한 리열·승기·정체"],
+"소음인":["태양증·울광 초기","표병·기체/두통·소화","망양초증·승양","망양 심화·부자 배합","태음병·한습/리한","태음병·구토/급성 토사","소음병·깊은 리한/장궐","리한·기체/흉복통·황달/음독"],
+"태양인":["외감요척병","내촉소장병"]
+};
+
 const LINKS={
 "소양인":[["통합 허브","/sasang-integrated/soyangin/"],["병증 진행","/sasang-progression/soyangin/"],["처방 배합망","/sasang-formula-combination-network/soyangin-network/"]],
 "태음인":[["통합 허브","/sasang-integrated/taeeumin/"],["표리 감별","/sasang-pattern-differential/taeeumin-exterior-vs-interior/"],["처방 배합망","/sasang-formula-combination-network/taeeumin-network/"]],
@@ -45,7 +52,7 @@ const $=id=>document.getElementById(id), c=$("sx-constitution"),a=$("sx-axis"),s
 if(!c||!a||!s||!r||!m||!reset)return;
 const uniq=x=>[...new Set(x)];
 const opt=(v,t)=>{const o=document.createElement("option");o.value=v;o.textContent=t;return o};
-function axes(){a.innerHTML="";a.append(opt("","병증축을 선택하세요"));if(!c.value){a.disabled=true;return}uniq(D.filter(x=>x[0]===c.value).map(x=>x[1])).forEach(x=>a.append(opt(x,x)));a.disabled=false}
+function axes(){a.innerHTML="";a.append(opt("","병증축을 선택하세요"));if(!c.value){a.disabled=true;return}(AXIS_ORDER[c.value]||uniq(D.filter(x=>x[0]===c.value).map(x=>x[1]))).forEach(x=>a.append(opt(x,x)));a.disabled=false}
 function stages(){s.innerHTML="";s.append(opt("","전체 단계"));if(!a.value){s.disabled=true;return}D.filter(x=>x[0]===c.value&&x[1]===a.value).forEach(x=>s.append(opt(x[2],x[2])));s.disabled=false}
 function esc(x){return String(x).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]))}
 function render(){
