@@ -16,7 +16,7 @@ last_reviewed: 2026-09-23
 |---|---|---|
 | 키가 잘 크는지 궁금해요 | [소아 성장](../conditions/child-growth.md) | 키·체중 백분위와 성장속도 |
 | 밥을 너무 적게 먹어요 | [소아 식욕부진](../conditions/child-poor-appetite.md) | 식사시간·양, 변비, 구강·연하 |
-| 코막힘과 감기가 반복돼요 | [소아 비염](../conditions/child-rhinitis.md) · [면역력저하·잦은 감기](../conditions/low-immunity-recurrent-illness.md) | 입호흡·코골이, 결석일 |
+| 코막힘과 감기가 반복돼요 | [소아 비염](../conditions/child-rhinitis.md) · [소아 잦은 감기·허약](../conditions/child-recurrent-colds.md) | 입호흡·코골이, 결석일 |
 | 자주 배가 아프거나 변이 불편해요 | [소아 복통](../conditions/child-abdominal-pain.md) · [소아 변비](../conditions/child-constipation.md) · [소아 설사](../conditions/child-diarrhea.md) | 변 형태, 통증 위치, 성장 |
 | 잠들기 어렵고 자주 깨요 | [소아 수면](../conditions/child-sleep.md) | 취침·기상, 코골이, 낮 행동 |
 | 밤에 이불에 소변을 봐요 | [소아 야뇨증](../conditions/child-enuresis.md) | 젖은 밤, 낮 배뇨, 변비 |

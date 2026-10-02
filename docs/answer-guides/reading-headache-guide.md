@@ -20,7 +20,14 @@ tags: [독서두통, 눈피로, 화면두통, 긴장성두통, 경항통]
 ## 진료가 필요한 경우
 두통이 점점 심해지거나 시력저하·복시, 신경학적 이상, 갑작스러운 극심한 두통이 동반되면 원인 평가가 필요합니다.
 
+## 눈 증상과 두통 양상을 함께 전달합니다
+
+글씨가 흐려지거나 두 개로 보이는지, 눈 통증·충혈이 있는지, 빛과 소리에 예민하거나 오심이 생기는지 기록합니다. 쉬면 줄어드는 정도와 목 자세 변화도 진료에서 구분할 단서입니다.
+
 ## 더 깊게 보기
+- [눈피로](../conditions/eye-fatigue.md)
+- [편두통](../conditions/migraine.md)
+- [경추성두통](../conditions/cervicogenic-headache.md)
 - [두통](../conditions/headache.md)
 - [경항통](../conditions/neck-pain.md)
 - [침구·치료 허브](../pillar/acupuncture-treatment.md)

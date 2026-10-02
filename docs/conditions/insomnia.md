@@ -169,7 +169,7 @@ last_reviewed: 2026-09-15
 3. Sateia MJ, et al. Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults. *J Clin Sleep Med.* 2017;13:307-349. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5263087/)
 4. Chinese herbal medicine for insomnia: a systematic review and network meta-analysis. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40826721/)
 5. Acupuncture for chronic insomnia disorder: a systematic review, meta-analysis and trial sequential analysis. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40371085/)
-6. Acupuncture for insomnia: a Cochrane systematic review. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40626505/)
+6. Acupuncture for insomnia: a Cochrane Review protocol（연구계획서, 완료된 효과 결과와 구분）. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40626505/)
 7. Dose-effect relationship of acupuncture for primary insomnia: a systematic review and meta-analysis. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39995954/)
 8. Zhu F, et al. Comparative effectiveness of different acupuncture courses for chronic insomnia disorder: a randomized controlled trial. *J Affect Disord.* 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42697250/) · [DOI](https://doi.org/10.1016/j.jad.2026.122469)
 

@@ -200,7 +200,7 @@ HRV는 자율조절 상태를 참고하고 경과를 추적하는 도구입니�
 - [자율신경 연관 증상 통합 지도](integrated-map.md)
 - [기립성 어지럼](../conditions/orthostatic-dizziness.md)
 - [과호흡·손발저림](../conditions/hyperventilation.md)
-- [스트레스성 위장증상](../conditions/stress-gut.md)
+- [스트레스성 위장증상](stress-digestion.md)
 - [불면](../conditions/insomnia.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [한약 안전·복용 주의](../herbal-integrated/safety.md)

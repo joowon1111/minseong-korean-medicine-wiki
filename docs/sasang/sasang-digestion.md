@@ -17,11 +17,14 @@ last_reviewed: 2026-08-21
 
 ## 함께 보는 요소
 
-- 식욕
-- 식후불편
-- 대변
-- 냉열
-- 피로
+평소 잘 먹던 사람이 식사량이 줄었는지, 원래 식욕이 적은 상태에서 더 악화됐는지 구분합니다. 식후불편에 냉열·갈증·대변·땀·기력의 변화가 어떻게 겹치는지 기록합니다.
+
+| 읽는 순서 | 확인할 내용 | 다음 문서 |
+|---|---|---|
+| 평소 소증 | 건강할 때의 식욕·소화과 동반 생활 상태 | [식욕·소화 소증](../sasang-original-symptoms/digestion-appetite.md) |
+| 현재 변화 | 평소와 다른 냉열·대변·갈증·땀·기력 | [체질별 병증 감별](../sasang-pattern-differential/index.md) |
+| 단계와 우선순위 | 표리·순역·경중과 진행·회복 | [중증도·경과](../sasang-severity/index.md) |
+| 처방 학습 | 체질 안에서 병증·치법에 맞는 대표 처방 | [체질별 처방집](../sasang-integrated/formulas.md) |
 
 ## 사상의학적으로 이해하기
 
@@ -31,11 +34,7 @@ last_reviewed: 2026-08-21
 
 ## 기존 지식망과 연결
 
-- [사상의학](index.md)
-- [증상·질환 한눈에 보기](../conditions/index.md)
-- [맞춤한약](../conditions/custom-herbal-medicine.md)
-- [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
-- [본초 찾기](../herbal-integrated/herbs.md)
+체질별 설명은 [소양인](../sasang-integrated/soyangin.md) · [소음인](../sasang-integrated/soeumin.md) · [태음인](../sasang-integrated/taeeumin.md) · [태양인](../sasang-integrated/taeyangin.md)에서 읽습니다. [처방 탐색기](../sasang-explorer/index.md)는 병증·단계·처방·출전을 학습하는 문서 탐색 도구입니다. 실제 체질 판단·진단·개인별 처방은 진료 평가가 필요합니다.
 
 ## 검색 동의어
 

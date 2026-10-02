@@ -179,7 +179,7 @@ IBS는 장의 감각과 운동, 장–뇌축 조절 변화로 실제 통증과 �
 
 ## 함께 보면 좋은 문서
 
-- [스트레스성 위장증상](stress-gut.md)
+- [스트레스성 위장증상](../autonomic/stress-digestion.md)
 - [복통](abdominal-pain.md)
 - [복부팽만](bloating.md)
 - [설사](diarrhea.md)

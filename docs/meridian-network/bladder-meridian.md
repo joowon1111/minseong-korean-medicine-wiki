@@ -128,7 +128,7 @@ tags: [경락, 십이경맥, 경혈]
 
 ### 현대 임상에서 연결하기 {#modern-application}
 
-허리와 다리 뒤 통증은 앉기·걷기·허리 굽힘에 따른 변화, 저림 범위·근력·보행을 함께 확인합니다. [요통 연구](../authority/conditions/chronic-low-back-pain-update.md)와 [좌골신경통 연구](../authority/conditions/sciatica.md)는 대상과 결과를 구분합니다. 새로 생긴 배뇨장애·회음부 감각 저하·진행하는 다리 마비는 즉시 평가가 필요한 신호입니다.
+허리와 다리 뒤 통증은 앉기·걷기·허리 굽힘에 따른 변화, 저림 범위·근력·보행을 함께 확인합니다. [요통 연구](../authority/low-back-pain.md)와 [좌골신경통 연구](../authority/conditions/sciatica.md)는 대상과 결과를 구분합니다. 새로 생긴 배뇨장애·회음부 감각 저하·진행하는 다리 마비는 즉시 평가가 필요한 신호입니다.
 
 **대표 경혈을 읽는 방법**
 

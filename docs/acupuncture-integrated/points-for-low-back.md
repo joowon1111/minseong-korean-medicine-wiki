@@ -54,4 +54,4 @@ last_reviewed: 2026-09-06
 
 ## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
 
-경혈을 선택한 뒤 [일반침](../treatments/acupuncture.md)·[전침](../treatments/electroacupuncture.md)·[약침](../treatments/pharmacopuncture.md)의 역할을 구분합니다. [만성요통 근거](../authority/conditions/chronic-low-back-pain-update.md)와 연결하고 통증뿐 아니라 걷기·앉기를 재평가합니다.
+경혈을 선택한 뒤 [일반침](../treatments/acupuncture.md)·[전침](../treatments/electroacupuncture.md)·[약침](../treatments/pharmacopuncture.md)의 역할을 구분합니다. [만성요통 근거](../authority/low-back-pain.md)와 연결하고 통증뿐 아니라 걷기·앉기를 재평가합니다.

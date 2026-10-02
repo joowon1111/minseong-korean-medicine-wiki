@@ -176,4 +176,4 @@ WHO 2023 만성 일차성 요통 지침은 침을 포함해 교육·운동·일�
 
 ## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
 
-[일반침의 경혈 선택](../treatments/acupuncture.md)·[전침의 강도와 목표](../treatments/electroacupuncture.md)·[약침의 제제와 부위](../treatments/pharmacopuncture.md)를 비교하고, [만성요통 근거](../authority/conditions/chronic-low-back-pain-update.md)와 [치료 횟수·경과](../acupuncture-clinical/dose-followup.md)를 함께 확인합니다.
+[일반침의 경혈 선택](../treatments/acupuncture.md)·[전침의 강도와 목표](../treatments/electroacupuncture.md)·[약침의 제제와 부위](../treatments/pharmacopuncture.md)를 비교하고, [만성요통 근거](../authority/low-back-pain.md)와 [치료 횟수·경과](../acupuncture-clinical/dose-followup.md)를 함께 확인합니다.

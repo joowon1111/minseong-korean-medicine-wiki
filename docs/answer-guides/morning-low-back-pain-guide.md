@@ -17,7 +17,14 @@ tags: [아침허리통증, 요통, 허리통증, 다리저림]
 ## 빨리 평가해야 하는 경우
 진행하는 다리 근력저하, 대소변 기능 변화, 회음부 감각저하, 심한 외상, 발열과 심한 허리통증 등은 일반적인 요통과 별도로 평가해야 합니다.
 
+## 아침만 아픈지 밤에도 깨는지 확인합니다
+
+아침 뻣뻣함이 오래 지속되거나 밤에 통증으로 깨는지, 낮 활동과 휴식 중 어느 때 편해지는지 기록합니다. 다리로 퍼지는 통증·저림과 국소 허리통증을 구분해 진료에 전달합니다.
+
 ## 더 깊게 보기
+- [허리디스크](../conditions/lumbar-disc-herniation.md)
+- [협착증](../conditions/lumbar-spinal-stenosis.md)
+- [요통 치료 근거](../authority/low-back-pain.md)
 - [요통](../conditions/low-back-pain.md)
 - [오래 앉으면 허리통증](../conditions/low-back-pain-sitting.md)
 - [근골격 통증 핵심](../acupuncture-integrated/musculoskeletal.md)

@@ -23,7 +23,7 @@ last_reviewed: 2026-09-06
 |---|---|---|---|
 | 담음 | 진액의 운화·정체 | 오심·흉민·두중감·가래와 소화상태의 연동 | [담음](phlegm-fluid.md) |
 | 식적 | 음식의 정체 | 과식 뒤 악화, 트림·신물·복만·배변 변화 | [담음 vs 식적](differentials/phlegm-vs-food-stagnation.md) |
-| 기체 | 기의 소통이 원활하지 않음 | 스트레스에 따라 변하는 팽만·답답함·트림 | [스트레스와 소화](../conditions/stress-gut.md) |
+| 기체 | 기의 소통이 원활하지 않음 | 스트레스에 따라 변하는 팽만·답답함·트림 | [스트레스와 소화](../autonomic/stress-digestion.md) |
 | 비위기허 | 소화·운화 기능의 허약 | 식욕저하·피로·무른변, 적게 먹어도 불편 | [비위기허·담음 처방 계열](../formula-architecture/spleen-phlegm-family.md) |
 | 어혈 | 혈의 정체 | 고정된 찌르는 통증·국소 압통 등 | [어혈](blood-stasis.md) |
 | 담적 | 담의 축적이라는 표현, 현대 임상에서는 만성 위장 불편에 사용 | 위의 여러 병기가 얼마나 겹치는지 다시 평가 | 이 문서의 변증·치료 안내 |
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-06
 |---|---|---|
 | 식후 더부룩함·조기포만 | 몇 숟갈부터 불편한가, 얼마나 오래 가는가 | [기능성소화불량](../conditions/functional-dyspepsia.md) |
 | 명치 답답함·팽만 | 식전·식후 중 언제 심한가, 트림 후 달라지는가 | [복부팽만](../conditions/bloating.md) · [트림](../conditions/belching.md) |
-| 메스꺼움·속쓰림 | 구토·신물·야간 역류가 동반되는가 | [오심](../conditions/nausea.md) · [속쓰림](../conditions/heartburn.md) |
+| 메스꺼움·속쓰림 | 구토·신물·야간 역류가 동반되는가 | [오심](../conditions/nausea.md) · [속쓰림](../conditions/gastritis-symptoms.md#heartburn-route) |
 | 소화불편과 두통·어지럼 | 동시에 시작하는가, 자세·식사·약물과 관계가 있는가 | [소화불량과 두통](../conditions/indigestion-headache.md) · [어지럼](../conditions/dizziness.md) |
 | 목 이물감·긴장·불면 | 삼킴 자체가 어려운가, 스트레스와 함께 변하는가 | [목 이물감](../conditions/globus.md) · [스트레스·두근거림·소화](../conditions/stress-palpitations-digestion.md) |
 

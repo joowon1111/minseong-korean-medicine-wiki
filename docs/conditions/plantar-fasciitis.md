@@ -69,7 +69,7 @@ last_reviewed: 2026-09-19
 | 차고 무겁고 냉습에 악화 | 산한제습·통락 | [오적산](../formulas/wuji-san.md) 계열 |
 | 오래된 통증과 허리·무릎 무력, 피로 | 보익간신·강근골 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) 계열 |
 
-국소 통증 하나만으로 허증 처방을 정하지 않습니다. 현대 임상연구는 [족저근막염 근거 카드](../authority/conditions/plantar-fasciitis.md)와 [발뒤꿈치 통증 연구](../authority/conditions/plantar-heel-pain-update.md)에서 이어집니다.
+국소 통증 하나만으로 허증 처방을 정하지 않습니다. 현대 임상연구는 [족저근막염 근거 카드](../authority/conditions/plantar-fasciitis.md)와 [발뒤꿈치 통증 연구](../authority/conditions/plantar-fasciitis.md)에서 이어집니다.
 
 ## 치료 반응은 무엇으로 판단하나요?
 

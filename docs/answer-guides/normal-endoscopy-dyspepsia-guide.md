@@ -17,7 +17,13 @@ tags: [위내시경정상, 기능성소화불량, 더부룩함, 소화불량]
 ## 다시 평가해야 할 변화
 새로운 체중감소, 반복 구토, 출혈 의심 증상, 진행하는 연하곤란 등 이전에 없던 변화가 생기면 재평가가 필요합니다.
 
+## 조기포만과 명치통증을 나눕니다
+
+몇 숟갈 먹으면 배부른지, 식후 그득함이 얼마나 지속되는지, 명치통증·작열감이 공복에도 있는지 기록합니다. 내시경 결과를 설명할 증상 유형과 병증을 연결해 읽으면 치료 목표를 더 분명히 정할 수 있습니다.
+
 ## 더 깊게 보기
+- [기능성소화불량의 유형·처방](../conditions/functional-dyspepsia.md)
+- [위염·속쓰림 감별](../conditions/gastritis-symptoms.md)
 - [소화불량](../conditions/dyspepsia.md)
 - [소화불량 임상 심화](../symptom-clinical/dyspepsia.md)
 - [소화·비위 본초](../herbal-integrated/herbs-for-digestion.md)

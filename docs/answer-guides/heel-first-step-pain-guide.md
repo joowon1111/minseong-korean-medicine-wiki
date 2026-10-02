@@ -17,5 +17,13 @@ tags: [발뒤꿈치통증, 아침첫발통증, 족저통증, 보행]
 ## 먼저 평가할 신호
 큰 외상, 심한 붓기·열감, 체중부하가 어려운 통증, 감각저하가 동반되면 다른 원인을 확인해야 합니다.
 
+## 통증 위치로 다음 질문을 고릅니다
+
+발뒤꿈치 안쪽 바닥의 첫발 통증은 족저근막 양상을, 뒤쪽 힘줄 통증은 아킬레스건 양상을 비교합니다. 저림·화끈거림이 겹치면 신경 원인도 확인합니다. “몇 걸음 뒤 풀린다”는 특징 하나만으로 확정하지 않습니다.
+
 ## 더 깊게 보기
+- [족저근막염](../conditions/plantar-fasciitis.md)
+- [아킬레스건 통증](../conditions/achilles-pain.md)
+- [종아리·발뒤꿈치 MPS](../clinical-anatomy/mps-calf.md)
+- [족저근막염 치료 근거](../authority/conditions/plantar-fasciitis.md)
 - [근골격 통증 핵심](../acupuncture-integrated/musculoskeletal.md)

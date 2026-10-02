@@ -1,0 +1,1201 @@
+{
+  "method": "질문 안내 111개에서 핵심 답변(제목 또는 안내 상자)과 질환·자율신경 직접 링크를 전수 확인한 구조 분류. 임상 질문 108개와 검색·편집 참고 3개를 구분함. 15개 선택 후보는 본문을 읽고 감별 질문·목적지를 보강함. 구조 분류는 임상 적절성 점수를 뜻하지 않음.",
+  "counts": {
+    "핵심 답변·직접 심화 경로 있음": 108,
+    "비임상 검색·편집 참고 문서": 3
+  },
+  "guides": [
+    {
+      "path": "docs/answer-guides/acute-wry-neck-morning-guide.md",
+      "title": "자고 일어났는데 한쪽 목이 안 돌아가는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/headache.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/adult-acne-recurrent-guide.md",
+      "title": "성인인데 여드름이 계속 반복되는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/afternoon-energy-crash-guide.md",
+      "title": "오후만 되면 기운이 뚝 떨어지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/afternoon-eye-heavy-headache-guide.md",
+      "title": "오후만 되면 눈이 무겁고 머리가 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/dry-eye.md",
+        "conditions/eye-fatigue.md",
+        "conditions/headache.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/ankle-pain-swelling-after-walking-guide.md",
+      "title": "오래 걸으면 발목이 붓고 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/achilles-pain.md",
+        "conditions/ankle-pain.md",
+        "conditions/edema-swelling.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/arm-numbness-without-shoulder-pain-guide.md",
+      "title": "어깨는 안 아픈데 팔이나 손이 저리면 목 문제일 수 있나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/arm-numbness.md",
+        "conditions/carpal-tunnel.md",
+        "conditions/cervical-disc-herniation.md",
+        "conditions/cervicogenic-headache.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/back-stiff-after-sitting-guide.md",
+      "title": "오래 앉았다 일어나면 허리가 바로 안 펴지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/foot-numbness.md",
+        "conditions/low-back-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/bloating-gas-guide.md",
+      "title": "속이 더부룩하고 가스가 자주 차면 무엇을 보나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/abdominal-gas.md",
+        "conditions/bloating.md",
+        "conditions/constipation.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/brain-fog-focus-guide.md",
+      "title": "머리가 멍하고 집중이 잘 안 되는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/buttock-to-leg-pulling-guide.md",
+      "title": "엉덩이부터 다리까지 당기고 저리는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/foot-numbness.md",
+        "conditions/low-back-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/calf-cramp-guide.md",
+      "title": "종아리가 자주 당기고 쥐가 나는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/edema-swelling.md",
+        "conditions/foot-numbness.md",
+        "conditions/low-back-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/chest-tightness-normal-tests-guide.md",
+      "title": "검사는 괜찮다는데 가슴이 답답하고 숨이 막히는 느낌이 드는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chest-tightness.md",
+        "conditions/dyspepsia.md",
+        "conditions/globus.md",
+        "conditions/hyperventilation.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/cold-and-numb-hands-feet-guide.md",
+      "title": "손발이 차면서 저리기까지 하면 혈액순환 문제인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/arm-numbness.md",
+        "conditions/carpal-tunnel.md",
+        "conditions/cold-hands-feet.md",
+        "conditions/limb-numbness.md",
+        "conditions/low-back-pain.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/cold-hands-feet-guide.md",
+      "title": "손발이 항상 차가운 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/colloquial-symptom-synonyms.md",
+      "title": "환자 생활구어·증상 동의어 사전",
+      "category": "비임상 검색·편집 참고 문서",
+      "direct_destinations": []
+    },
+    {
+      "path": "docs/answer-guides/cross-legged-hip-pain-guide.md",
+      "title": "양반다리를 하면 고관절이나 사타구니가 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/hip-pain.md",
+        "conditions/low-back-pain.md",
+        "conditions/pelvic-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/deer-antler-guide.md",
+      "title": "녹용보약은 어떤 경우에 고려하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/deer-antler-tonic-guide.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/delayed-lowback-pain-after-accident-guide.md",
+      "title": "교통사고 후 허리통증이 며칠 뒤 더 심해질 수 있나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/foot-numbness.md",
+        "conditions/low-back-pain.md",
+        "conditions/traffic-accident-sequelae.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/dialect-content-policy.md",
+      "title": "사투리·생활구어 콘텐츠 운영 원칙",
+      "category": "비임상 검색·편집 참고 문서",
+      "direct_destinations": []
+    },
+    {
+      "path": "docs/answer-guides/dialect-symptom-search-map.md",
+      "title": "지역 사투리·생활구어로 찾는 증상 검색 지도",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/cough.md",
+        "conditions/dyspepsia.md",
+        "conditions/edema-swelling.md",
+        "conditions/foot-numbness.md",
+        "conditions/globus.md",
+        "conditions/low-back-pain.md",
+        "conditions/neck-pain.md",
+        "conditions/rhinitis.md",
+        "conditions/shoulder-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/dizzy-after-meal-guide.md",
+      "title": "밥을 먹고 나면 어지럽고 힘이 빠지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/bppv.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/dyspepsia.md",
+        "conditions/orthostatic-dizziness.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/dyspepsia-guide.md",
+      "title": "소화가 안 되고 자주 더부룩하면 한의학에서는 어떻게 보나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/ear-fullness-normal-ent-guide.md",
+      "title": "귀가 먹먹한데 이비인후과 검사에서 큰 이상이 없으면 무엇을 확인하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/bppv.md",
+        "conditions/hearing-loss.md",
+        "conditions/menieres-disease.md",
+        "conditions/neck-pain.md",
+        "conditions/orthostatic-dizziness.md",
+        "conditions/rhinitis.md",
+        "conditions/sudden-sensorineural-hearing-loss.md",
+        "conditions/tmj-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/ear-temple-pain-guide.md",
+      "title": "귀 주변과 관자놀이가 같이 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/facial-pain.md",
+        "conditions/headache.md",
+        "conditions/neck-pain.md",
+        "conditions/occipital-neuralgia.md",
+        "conditions/temporomandibular-disorder.md",
+        "conditions/tinnitus.md",
+        "conditions/tmj-pain.md",
+        "conditions/trigeminal-neuralgia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/early-satiety-guide.md",
+      "title": "조금만 먹어도 금방 배부른 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/eczema-recurs-guide.md",
+      "title": "습진이 좋아졌다가 자꾸 다시 생기는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/atopic-dermatitis.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/eczema.md",
+        "conditions/urticaria.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/elderly-tonic-guide.md",
+      "title": "부모님·어르신 보약은 무엇을 보고 선택하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/deer-antler-tonic-guide.md",
+        "conditions/elderly-tonic.md",
+        "conditions/energy-recovery.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/evening-leg-swelling-guide.md",
+      "title": "저녁만 되면 다리가 붓는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/edema-swelling.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/evening-lowback-pain-guide.md",
+      "title": "아침보다 저녁에 허리가 더 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/low-back-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/facial-twitch-guide.md",
+      "title": "얼굴 한쪽이 자꾸 떨리거나 씰룩거리는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/eye-twitching.md",
+        "conditions/headache.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/fatigue-after-diet-guide.md",
+      "title": "다이어트 후 기력이 너무 떨어졌으면 어떻게 회복해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md",
+        "conditions/healthy-weight-management.md",
+        "conditions/obesity.md",
+        "conditions/weight-management-herbal.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/fatigue-low-vitality-guide.md",
+      "title": "잠을 자도 피곤하고 활력이 떨어진 느낌이 들면 무엇을 확인해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/finger-color-change-cold-guide.md",
+      "title": "추우면 손가락 색이 하얗거나 파랗게 변하는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/arm-numbness.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/forgetful-low-focus-guide.md",
+      "title": "건망증이 늘고 집중력이 떨어진 것 같으면 무엇을 확인해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/frequent-colds-child-tonic-guide.md",
+      "title": "감기를 자주 하는 아이에게 소아보약이 필요한가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/child-parent-tonic-guide.md",
+        "conditions/child-recurrent-colds.md",
+        "conditions/child-rhinitis.md",
+        "conditions/cough.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/rhinitis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/front-neck-tightness-guide.md",
+      "title": "목 앞쪽이 답답하고 조이는 느낌이 드는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/dyspepsia.md",
+        "conditions/globus.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/gyeongsang-daegu-colloquial-guide.md",
+      "title": "대구·경상권 생활말로 찾는 통증·소화·피로 증상",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/cough.md",
+        "conditions/dyspepsia.md",
+        "conditions/low-back-pain.md",
+        "conditions/neck-pain.md",
+        "conditions/rhinitis.md",
+        "conditions/shoulder-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/hand-tremor-stress-guide.md",
+      "title": "긴장하거나 피곤할 때 손이 떨리는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/headache-dizziness-after-accident-guide.md",
+      "title": "교통사고 후 두통과 어지럼이 계속되면 무엇을 확인해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/frozen-shoulder.md",
+        "conditions/headache.md",
+        "conditions/neck-pain.md",
+        "conditions/rotator-cuff-pain.md",
+        "conditions/traffic-accident-sequelae.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/headache-neck-tension-guide.md",
+      "title": "뒷목이 뻐근하면서 두통이 생기면 어떻게 구분하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/headache.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/heel-first-step-pain-guide.md",
+      "title": "아침 첫발에 발뒤꿈치가 아프면 무엇을 확인하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/achilles-pain.md",
+        "conditions/plantar-fasciitis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/herbal-supplements-guide.md",
+      "title": "한약과 영양제·건강기능식품은 어떻게 함께 판단하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/supplements-herbal-medicine.md",
+        "conditions/tonic-vs-health-supplement.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/incomplete-bowel-movement-guide.md",
+      "title": "대변을 보고도 개운하지 않은 느낌은 왜 생기나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/incomplete-emptying-guide.md",
+      "title": "소변을 봐도 시원하지 않고 남아 있는 느낌이 드는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-prostatitis.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/pelvic-pain.md",
+        "conditions/prostate-urinary-symptoms.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/inner-shoulder-blade-pain-computer-guide.md",
+      "title": "컴퓨터를 오래 하면 날개뼈 안쪽이 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/neck-pain.md",
+        "conditions/shoulder-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/itch-without-rash-guide.md",
+      "title": "피부에 뭐가 없는데 계속 가려운 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md",
+        "conditions/pruritus-ani.md",
+        "conditions/pruritus.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/jaw-click-pain-guide.md",
+      "title": "입을 벌릴 때 턱에서 소리가 나고 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/headache.md",
+        "conditions/neck-pain.md",
+        "conditions/tmj-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/knee-clicking-guide.md",
+      "title": "무릎에서 소리가 나는데 아프지 않으면 괜찮은가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/foot-numbness.md",
+        "conditions/knee-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/knee-pain-standing-up-guide.md",
+      "title": "앉았다 일어날 때 무릎이 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/edema-swelling.md",
+        "conditions/knee-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/leg-numbness-without-back-pain-guide.md",
+      "title": "허리는 안 아픈데 다리만 저린 경우에도 허리 문제일 수 있나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/foot-numbness.md",
+        "conditions/low-back-pain.md",
+        "conditions/lumbar-disc-herniation.md",
+        "conditions/lumbar-spinal-stenosis.md",
+        "conditions/sciatica.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/lighter-period-guide.md",
+      "title": "생리양이 갑자기 줄었으면 무엇을 확인해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/irregular-menstruation.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/menopause-heat-sleep-guide.md",
+      "title": "갱년기인데 열감과 잠 문제가 같이 생기면 어떻게 봐야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md",
+        "conditions/menopause.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/midlife-stamina-drop-guide.md",
+      "title": "40~50대부터 갑자기 체력이 떨어진 느낌이 드는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/morning-hand-swelling-guide.md",
+      "title": "아침마다 손이 붓고 뻣뻣한 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/arm-numbness.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/edema-swelling.md",
+        "conditions/morning-stiffness.md",
+        "conditions/rheumatoid-arthritis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/morning-jaw-clenching-guide.md",
+      "title": "이를 악물고 자는 것 같고 아침에 턱이 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/headache.md",
+        "conditions/insomnia.md",
+        "conditions/neck-pain.md",
+        "conditions/tmj-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/morning-low-back-pain-guide.md",
+      "title": "아침에 일어날 때 허리가 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/low-back-pain-sitting.md",
+        "conditions/low-back-pain.md",
+        "conditions/lumbar-disc-herniation.md",
+        "conditions/lumbar-spinal-stenosis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/neck-turn-shoulder-pain-guide.md",
+      "title": "고개를 돌릴 때 목에서 어깨까지 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/neck-pain.md",
+        "conditions/shoulder-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/next-day-neck-pain-after-accident-guide.md",
+      "title": "교통사고 직후에는 괜찮았는데 다음날 목이 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/frozen-shoulder.md",
+        "conditions/headache.md",
+        "conditions/neck-pain.md",
+        "conditions/rotator-cuff-pain.md",
+        "conditions/traffic-accident-sequelae.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/night-appetite-guide.md",
+      "title": "밤만 되면 식욕이 폭발하고 자꾸 먹고 싶은 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/dyspepsia.md",
+        "conditions/insomnia.md",
+        "conditions/poor-appetite-adult.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/night-hand-numbness-guide.md",
+      "title": "자다가 손이 저리면 목 문제인가요, 손목 문제인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/arm-numbness.md",
+        "conditions/carpal-tunnel.md",
+        "conditions/cervical-disc-herniation.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/night-hives-guide.md",
+      "title": "밤만 되면 두드러기가 심해지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/atopic-dermatitis.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md",
+        "conditions/eczema.md",
+        "conditions/urticaria.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/night-shoulder-pain-guide.md",
+      "title": "밤에 어깨가 아파서 자꾸 깨는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/frozen-shoulder.md",
+        "conditions/insomnia.md",
+        "conditions/rotator-cuff-pain.md",
+        "conditions/shoulder-pain.md",
+        "conditions/tennis-elbow.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/no-appetite-in-morning-guide.md",
+      "title": "아침에는 입맛이 없고 아무것도 먹기 싫은 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/dyspepsia.md",
+        "conditions/globus.md",
+        "conditions/poor-appetite-adult.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/nocturia-guide.md",
+      "title": "밤에 소변 때문에 자꾸 깨는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md",
+        "conditions/prostate-urinary-symptoms.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/normal-endoscopy-dyspepsia-guide.md",
+      "title": "위내시경은 괜찮은데 계속 속이 불편하면 어떻게 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/dyspepsia.md",
+        "conditions/functional-dyspepsia.md",
+        "conditions/gastritis-symptoms.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/normal-tests-persistent-fatigue-guide.md",
+      "title": "검사에서는 정상이라는데 계속 피곤한 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/normal-checkup-fatigue.md",
+        "conditions/post-viral-fatigue.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/normal-xray-persistent-pain-after-accident-guide.md",
+      "title": "교통사고 후 엑스레이는 괜찮다는데 계속 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/low-back-pain.md",
+        "conditions/neck-pain.md",
+        "conditions/traffic-accident-sequelae.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/one-cold-foot-guide.md",
+      "title": "한쪽 발만 유독 차갑게 느껴지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/foot-numbness.md",
+        "conditions/low-back-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/overhead-shoulder-pain-guide.md",
+      "title": "팔을 올릴 때 어깨가 아프면 무엇을 확인하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/frozen-shoulder.md",
+        "conditions/rotator-cuff-pain.md",
+        "conditions/shoulder-pain.md",
+        "conditions/tennis-elbow.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/pain-time-pattern-guide.md",
+      "title": "통증이 아침·밤·움직일 때 다르면 무엇을 의미하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/low-back-pain.md",
+        "conditions/neck-pain.md",
+        "conditions/shoulder-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/palpitations-at-rest-guide.md",
+      "title": "가만히 있는데 심장이 두근거리는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/perineal-heaviness-guide.md",
+      "title": "아랫배나 회음부가 묵직하고 불편한 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/pelvic-pain.md",
+        "conditions/prostate-urinary-symptoms.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/period-pain-worsening-guide.md",
+      "title": "생리통이 예전보다 점점 심해지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dysmenorrhea.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/pms-headache-swelling-guide.md",
+      "title": "생리 전에 두통과 붓기가 심해지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/edema-swelling.md",
+        "conditions/headache.md",
+        "conditions/pms.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/poor-appetite-slow-growth-guide.md",
+      "title": "아이가 밥을 잘 안 먹고 키도 잘 안 크면 어떻게 봐야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/child-constipation.md",
+        "conditions/child-diarrhea.md",
+        "conditions/child-growth.md",
+        "conditions/child-parent-tonic-guide.md",
+        "conditions/child-poor-appetite.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/post-period-fatigue-guide.md",
+      "title": "생리 끝나고 너무 피곤한 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/anemia-fatigue.md",
+        "conditions/anemia-lab.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/heavy-menstruation.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/post-viral-fatigue-guide.md",
+      "title": "감기는 나았는데 한 달째 기운이 없는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/cough.md",
+        "conditions/normal-checkup-fatigue.md",
+        "conditions/post-viral-fatigue.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/postmeal-sleepiness-guide.md",
+      "title": "밥을 먹고 나면 너무 졸리고 처지는데 왜 그런가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/postpartum-recovery-slow-guide.md",
+      "title": "출산 후 몇 달이 지나도 몸이 회복되지 않는 느낌이 들면 어떻게 봐야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/postpartum-recovery.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/reading-headache-guide.md",
+      "title": "책이나 화면을 오래 보면 두통이 생기는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/cervicogenic-headache.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/eye-fatigue.md",
+        "conditions/headache.md",
+        "conditions/migraine.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/recovery-after-treatment-guide.md",
+      "title": "수술·큰 치료 후 기력회복은 무엇을 확인해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/deer-antler-tonic-guide.md",
+        "conditions/energy-recovery.md",
+        "conditions/post-hospitalization-recovery.md",
+        "conditions/postoperative-recovery.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/regional-dialect-query-variants.md",
+      "title": "지역별 말투를 반영한 환자 건강 질문 변형",
+      "category": "비임상 검색·편집 참고 문서",
+      "direct_destinations": []
+    },
+    {
+      "path": "docs/answer-guides/shorter-than-peers-growth-guide.md",
+      "title": "아이가 또래보다 키가 작으면 무엇을 먼저 확인해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/child-constipation.md",
+        "conditions/child-diarrhea.md",
+        "conditions/child-parent-tonic-guide.md",
+        "conditions/child-poor-appetite.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/rhinitis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/shoulder-pain-reaching-behind-guide.md",
+      "title": "팔을 뒤로 돌릴 때 어깨가 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/frozen-shoulder.md",
+        "conditions/neck-pain.md",
+        "conditions/rotator-cuff-pain.md",
+        "conditions/shoulder-pain.md",
+        "conditions/tennis-elbow.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/skin-and-digestion-guide.md",
+      "title": "속이 안 좋을 때 피부 트러블도 같이 심해질 수 있나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/sleep-and-child-growth-guide.md",
+      "title": "성장기 아이의 수면과 키 성장은 어떤 관계가 있나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/child-parent-tonic-guide.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/insomnia.md",
+        "conditions/rhinitis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/sleep-autonomic-guide.md",
+      "title": "잠을 자도 개운하지 않고 자주 깨면 어떻게 보나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/sleep-palpitations-after-accident-guide.md",
+      "title": "교통사고 후 잠이 안 오고 가슴이 두근거리는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/frozen-shoulder.md",
+        "conditions/insomnia.md",
+        "conditions/palpitation.md",
+        "conditions/rotator-cuff-pain.md",
+        "conditions/traffic-accident-sequelae.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/slow-recovery-after-drinking-guide.md",
+      "title": "술을 마신 다음날 회복이 예전보다 너무 느린 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/sole-pain-after-standing-guide.md",
+      "title": "아침 첫발뿐 아니라 오래 서 있어도 발바닥이 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/ankle-pain.md",
+        "conditions/plantar-fasciitis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/stairs-knee-pain-guide.md",
+      "title": "계단을 오르내릴 때 무릎이 아프면 무엇을 보나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/knee-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/standing-dizziness-guide.md",
+      "title": "앉았다 일어날 때 어지러운 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/bppv.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/orthostatic-dizziness.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/still-tired-after-weekend-sleep-guide.md",
+      "title": "주말에 오래 자도 계속 피곤한 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/stress-digestion-guide.md",
+      "title": "스트레스만 받으면 소화가 안 되는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/stress-digestion.md",
+        "conditions/dyspepsia.md",
+        "conditions/ibs.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/stress-pressure-head-guide.md",
+      "title": "스트레스 받으면 머리가 띵하고 압박되는 느낌이 드는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/headache.md",
+        "conditions/insomnia.md",
+        "conditions/neck-pain.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/stress-skin-flare-guide.md",
+      "title": "스트레스를 받으면 피부가 가렵고 뒤집어지는 이유가 있나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/atopic-dermatitis.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/eczema.md",
+        "conditions/insomnia.md",
+        "conditions/urticaria.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/stress-sugar-craving-guide.md",
+      "title": "스트레스 받으면 단 음식이 계속 당기는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/student-stamina-focus-guide.md",
+      "title": "수험생 체력·집중력 저하는 어떻게 함께 보나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/insomnia.md",
+        "conditions/student-stamina.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/sudden-anxiety-body-symptoms-guide.md",
+      "title": "갑자기 숨이 답답하고 심장이 뛰면서 불안해지는 경우 무엇을 확인해야 하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/globus.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/thin-low-stamina-child-guide.md",
+      "title": "잘 먹는데도 아이가 마르고 체력이 약하면 무엇을 확인하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/child-constipation.md",
+        "conditions/child-diarrhea.md",
+        "conditions/child-parent-tonic-guide.md",
+        "conditions/child-poor-appetite.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/dyspepsia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/tired-after-small-activity-guide.md",
+      "title": "조금만 움직여도 금방 지치고 회복이 느린 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "autonomic/index.md",
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/tired-from-morning-guide.md",
+      "title": "아침에 일어날 때부터 너무 피곤한 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/insomnia.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/tonic-fatigue-guide.md",
+      "title": "피곤할 때 보약·한약을 어떻게 판단하나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/deer-antler-tonic-guide.md",
+        "conditions/energy-recovery.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/top-of-foot-pain-no-injury-guide.md",
+      "title": "다친 적이 없는데 발등이 아픈 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/ankle-pain.md",
+        "conditions/edema-swelling.md",
+        "conditions/gout.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/unclear-head-after-sleep-guide.md",
+      "title": "자고 일어나도 머리가 맑지 않고 무거운 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/insomnia.md",
+        "conditions/rhinitis.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/walking-leg-pain-relief-rest-guide.md",
+      "title": "걸으면 다리가 당기고 쉬면 괜찮아지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/foot-numbness.md",
+        "conditions/low-back-pain.md",
+        "conditions/lumbar-disc-herniation.md",
+        "conditions/lumbar-spinal-stenosis.md",
+        "conditions/sciatica.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/weight-gain-despite-small-meals-guide.md",
+      "title": "많이 먹지 않는데도 살이 계속 찌는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md",
+        "conditions/edema-swelling.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/weight-loss-despite-eating-guide.md",
+      "title": "잘 먹는데도 살이 빠지는 이유는 무엇인가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/chronic-fatigue.md",
+        "conditions/custom-herbal-medicine.md",
+        "conditions/dyspepsia.md",
+        "conditions/hyperthyroidism.md",
+        "conditions/type-2-diabetes.md",
+        "conditions/unintentional-weight-loss.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/when-child-tonic-guide.md",
+      "title": "아이 보약은 언제 먹이는 게 좋은가요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/child-fatigue.md",
+        "conditions/child-growth.md",
+        "conditions/child-parent-tonic-guide.md",
+        "conditions/child-poor-appetite.md",
+        "conditions/custom-herbal-medicine.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/when-to-stop-treatment-after-accident-guide.md",
+      "title": "교통사고 치료는 통증이 줄면 바로 끝내도 되나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/frozen-shoulder.md",
+        "conditions/low-back-pain.md",
+        "conditions/neck-pain.md",
+        "conditions/rotator-cuff-pain.md",
+        "conditions/traffic-accident-sequelae.md"
+      ]
+    },
+    {
+      "path": "docs/answer-guides/women-lifecycle-guide.md",
+      "title": "임신준비·산후·갱년기 한약은 어떻게 다르게 보나요?",
+      "category": "핵심 답변·직접 심화 경로 있음",
+      "direct_destinations": [
+        "conditions/infertility-preconception.md",
+        "conditions/menopause-herbal.md",
+        "conditions/postpartum-herbal.md"
+      ]
+    }
+  ]
+}
