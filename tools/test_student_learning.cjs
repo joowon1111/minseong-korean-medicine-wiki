@@ -39,6 +39,18 @@ test('incorrect questions are removed only when that question is answered correc
   assert.equal(p.wrong.length, 0); assert.equal(p.attempts, 2); assert.equal(p.correct, 1);
   assert.deepEqual(p.known, []); // Quiz score is not card understanding.
 });
+test('an exact point code selects that point instead of other location cross references', () => {
+  const p = study.emptyProgress();
+  for (const code of ['LU9', 'BL1', 'BL10']) {
+    const result = study.filteredCards(deck, p, '', code.toLowerCase(), 'cards');
+    assert.deepEqual(result.map(c => c.code), [code]);
+    const questions = study.filteredQuestions(deck, p, '', code, false);
+    assert.ok(questions.length > 0 && questions.every(q => q.cardId === 'point-' + code));
+  }
+  const herbs = JSON.parse(fs.readFileSync('docs/assets/learning/herbs.json', 'utf8'));
+  assert.equal(study.filteredCards(herbs, p, '', '인삼', 'cards')[0].id, 'herb-ginseng');
+  assert.ok(study.filteredCards(herbs, p, '', '청열', 'cards').length > 10);
+});
 test('daily practice is deterministic, contains no repeated IDs and changes with the date', () => {
   const a = study.dailyQuestions(deck.questions, '2026-10-2');
   assert.deepEqual(a, study.dailyQuestions(deck.questions, '2026-10-2'));
