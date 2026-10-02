@@ -117,8 +117,9 @@ test("Sasang high-value routes are discoverable from homepage, portal and sideba
   const portal = read("docs/portal/sasang.md");
   const hub = read("docs/sasang-integrated/index.md");
   const nav = read("mkdocs.yml");
+  assert.ok(home.includes('href="portal/sasang/"'), "homepage should keep the single Sasang portal entry");
+  assert.ok(!home.includes("## 사상의학 집중 탐색"), "homepage should not duplicate the deep Sasang routes");
   for (const term of ["sasang-explorer","sasang-clinical-detail","sasang-pattern-differential","pattern-source-map"]) {
-    assert.ok(home.includes(term), "homepage missing " + term);
     assert.ok(portal.includes(term), "Sasang portal missing " + term);
     assert.ok(hub.includes(term), "Sasang hub missing " + term);
     assert.ok(nav.includes(term), "sidebar missing " + term);
