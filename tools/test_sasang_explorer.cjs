@@ -55,6 +55,8 @@ test("Sasang explorer filters constitution, axis and stage, then resets", () => 
   e["sx-stage"].dispatch("change");
   assert.match(e["sx-results"].innerHTML, /양격산화탕/);
   assert.match(e["sx-results"].innerHTML, /감별 포인트/);
+  assert.match(e["sx-results"].innerHTML, /원전·CPG 근거/);
+  assert.match(e["sx-results"].innerHTML, /pattern-source-map/);
   assert.match(e["sx-summary"].textContent, /학습용 연결/);
 
   e["sx-reset"].dispatch("click");
@@ -80,6 +82,7 @@ test("Explorer includes learning-only notice and responsive mobile CSS", () => {
   const css = fs.readFileSync(path.join(__dirname, "../docs/assets/sasang-explorer.css"), "utf8");
   assert.match(page, /학습·문서 탐색용 도구입니다/);
   assert.match(page, /진단하거나 개인별 처방을 추천하지 않습니다/);
+  assert.match(page, /원전·CPG 직결 지도/);
   assert.match(css, /grid-template-columns:repeat\(3,minmax\(0,1fr\)\) auto/);
   assert.match(css, /@media\(max-width:760px\)/);
   assert.match(css, /\.sasang-explorer__controls\{grid-template-columns:1fr\}/);

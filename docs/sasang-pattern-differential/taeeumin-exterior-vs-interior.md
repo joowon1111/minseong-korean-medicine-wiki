@@ -60,6 +60,12 @@ description: 태음인 표한병 vs 리열병 — 민성 한의학 아카이브�
 
 → [태음인 상세](../sasang-clinical-detail/taeeumin.md) · [태음인 처방 배합망](../sasang-formula-combination-network/taeeumin-network.md) · [태음인 중증도](../sasang-severity/taeeumin.md)
 
+## 원전·CPG 바로가기
+
+표한은 「태음인 위완수한표한병론」과 태음인 표병 CPG를, 리열은 「태음인 간수열리열병론」과 태음인 리병 CPG를 함께 읽습니다. 원전의 無汗·氣短·結咳 같은 표지어와 CPG의 세부 병증 구조를 연결합니다.
+
+→ [병증별 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md)
+
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 

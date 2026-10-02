@@ -3,7 +3,7 @@ title: 사상체질별 증상·치료 상세 - 근거와 참고문헌
 description: 본 지식망의 주요 근거인 국가한의임상정보포털 지침과 사상체질병증 임상진료지침 논문을 정리합니다.
 tags: [사상체질, 근거, 임상진료지침, 참고문헌]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-10-02
 ---
 # 근거·참고문헌
 
@@ -32,3 +32,23 @@ last_reviewed: 2026-08-20
 ## 소증의 임상적 의미
 
 12. Lee et al. **Diagnosis and treatment principle in Sasang medicine: original symptom**. Integr Med Res. 2016/2017. 소증이 체질진단·체질병증 진단·치료경과 평가에서 중요한 임상정보임을 정리한 리뷰.
+
+
+## 병증별 직접 링크
+
+| 체질 | 병증별 CPG |
+|---|---|
+| 소음인 | [진단·알고리즘](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865418) · [울광병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865448) · [망양병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865457) · [태음병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865469) · [소음병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865476) |
+| 소양인 | [진단·알고리즘](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917060) · [소양상풍병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) · [망음병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) · [흉격열병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917064) · [음허오열병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917067) |
+| 태음인 | [진단·알고리즘](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978955) · [위완수한표한병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957) · [간수열리열병](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978958) |
+| 태양인 | [태양인병증 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978960) |
+
+→ [병증별 원전·CPG 직결 지도](pattern-source-map.md)
+
+## 근거층 구분
+
+- **원전:** 《동의수세보원·신축본》의 편명·병증·처방과 짧은 표지어.
+- **2014–2015 CPG:** 병증의 분류·정의·표준증후·중증도 구조.
+- **2022 NCKM:** 사상체질병증의 진단·치료·예방·관리와 체질한약·침·뜸·식사·운동·성정요법의 현재 지침.
+- **후대:** 《동의사상신편》 등의 경험방·확장 처방. 원전 처방과 같은 근거층으로 표시하지 않습니다.
+- **현대 연구:** 진단도구·임상시험·관찰연구·증례. 병증 분류 근거와 치료효과 근거를 구분합니다.

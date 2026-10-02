@@ -61,6 +61,13 @@ description: 소양인 병증 중증도 지도 — 민성 한의학 아카이브
 
 → [소양인 망음 vs 흉격열](soyangin-mangeum-vs-chestheat.md) · [소양인 상세](../sasang-clinical-detail/soyangin.md) · [소양인 처방 배합망](../sasang-formula-combination-network/soyangin-network.md)
 
+
+## 원전·CPG 바로가기
+
+- **[원전]** 《동의수세보원·신축본》 「소양인 비수한표한병론」 / 「소양인 위수열리열병론」
+- **[CPG]** [소양인 진단·알고리즘](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917060) · [소양상풍](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) · [망음](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) · [흉격열](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917064) · [음허오열](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917067)
+- **[출전 지도]** [병증별 원전·CPG 직결](../sasang-clinical-detail/pattern-source-map.md)
+
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 

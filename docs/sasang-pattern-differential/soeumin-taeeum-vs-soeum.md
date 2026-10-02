@@ -74,6 +74,12 @@ description: 소음인 태음병 vs 소음병 — 민성 한의학 아카이브�
 
 → [소음인 중증도 지도](soeumin-severity-map.md) · [소음인 상세](../sasang-clinical-detail/soeumin.md) · [소음인 처방 배합망](../sasang-formula-combination-network/soeumin-network.md)
 
+## 원전·CPG 바로가기
+
+태음병과 소음병은 모두 「소음인 위수한리한병론」 안에 있지만 현대 CPG에서는 별도 중증도 구조로 표준화합니다. 갈증·심번·수족냉·전신통과 기본 기능 저하의 깊이를 나란히 비교합니다.
+
+→ [병증별 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md)
+
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
