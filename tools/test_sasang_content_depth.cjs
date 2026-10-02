@@ -110,3 +110,19 @@ test("Sasang disease cards link to source map", () => {
   assert.ok(sourceMap.includes("NCKM 2022"));
   assert.ok(Buffer.byteLength(sourceMap, "utf8") >= 8000);
 });
+
+
+test("Sasang high-value routes are discoverable from homepage, portal and sidebar", () => {
+  const home = read("docs/index.md");
+  const portal = read("docs/portal/sasang.md");
+  const hub = read("docs/sasang-integrated/index.md");
+  const nav = read("mkdocs.yml");
+  for (const term of ["sasang-explorer","sasang-clinical-detail","sasang-pattern-differential","pattern-source-map"]) {
+    assert.ok(home.includes(term), "homepage missing " + term);
+    assert.ok(portal.includes(term), "Sasang portal missing " + term);
+    assert.ok(hub.includes(term), "Sasang hub missing " + term);
+    assert.ok(nav.includes(term), "sidebar missing " + term);
+  }
+  assert.ok(nav.includes("핵심 탐색:"));
+  assert.ok(nav.indexOf("대화형 병증·처방 탐색기") < nav.indexOf("체질별 음식 가이드"));
+});

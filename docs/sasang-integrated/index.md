@@ -2,14 +2,21 @@
 title: 사상의학 한눈에 보기
 description: 사상의학과 사상인의 의미, 태양인·소양인·태음인·소음인의 기본 정의와 장부 기능의 상대적 균형, 소증·병증·대표 처방·원전·현대 연구를 연결합니다.
 tags: [사상의학, 사상체질, 태양인, 소양인, 태음인, 소음인, 동의수세보원]
-last_reviewed: '2026-09-22'
+last_reviewed: '2026-10-02'
 ---
 
 # 사상의학 한눈에 보기
 
 <div class="principle-box">
-<strong>대화형으로 찾아보기</strong><br>
-체질 → 주요 병증축 → 병증 단계 → 대표 처방·감별 문서 순서로 좁혀 보는 <a href="../sasang-explorer/">사상체질·병증 처방 탐색기</a>를 시험 운영합니다. 진단·개인별 처방 도구가 아니라 학습·문서 탐색용 색인입니다.
+<strong>사상의학 핵심 탐색</strong><br>
+체질 → 주요 병증축 → 병증 단계 → 대표 처방·감별 문서 순서로 좁혀 보는 <a href="../sasang-explorer/">대화형 병증·처방 탐색기</a>를 이용할 수 있습니다. 각 병증에서 <a href="../sasang-clinical-detail/pattern-source-map/">《동의수세보원》 원전·CPG 근거</a>까지 바로 이어집니다. 진단·개인별 처방 도구가 아니라 학습·문서 탐색용 지식망입니다.
+</div>
+
+<div class="ms-grid">
+<a class="ms-card" href="../sasang-explorer/"><strong>☯ 대화형 병증·처방 탐색기</strong><span>체질·병증·단계를 선택해 대표 처방까지 →</span></a>
+<a class="ms-card" href="../sasang-clinical-detail/"><strong>🧭 체질별 병증 상세</strong><span>주요 병증의 단계·감별·경과를 깊게 →</span></a>
+<a class="ms-card" href="../sasang-pattern-differential/"><strong>🔀 병증 감별 심화</strong><span>표리·순역·중증도와 비슷한 병증 비교 →</span></a>
+<a class="ms-card" href="../sasang-clinical-detail/pattern-source-map/"><strong>📜 원전·CPG 근거지도</strong><span>동의수세보원·병증별 CPG·처방 연결 →</span></a>
 </div>
 
 사상의학은 사람을 단순히 네 가지 성격이나 체형으로 나누는 분류법이 아니라, **사람마다 타고난 생리적 균형과 장부 기능의 상대적 강약이 다르며 같은 자극과 질환에도 반응하는 방식이 달라질 수 있다**는 관점에서 건강과 병증을 이해하는 한의학 체계입니다.
@@ -23,6 +30,9 @@ last_reviewed: '2026-09-22'
 
 | 궁금한 내용 | 먼저 볼 문서 |
 |---|---|
+| 체질과 병증을 골라 단계적으로 문서를 찾고 싶어요 | [대화형 병증·처방 탐색기](../sasang-explorer/index.md) |
+| 체질별 주요 병증을 자세히 공부하고 싶어요 | [체질별 병증 상세](../sasang-clinical-detail/index.md) |
+| 병증의 원전 편명·핵심 표지어와 CPG를 확인하고 싶어요 | [원전·CPG 병증 근거지도](../sasang-clinical-detail/pattern-source-map.md) |
 | 나는 어떤 체질인지, 무엇을 보고 판단하는지 | [사상체질 임상 감별](../sasang-pattern-differential/index.md) |
 | 소화·피로·열감·땀·수면 같은 평소 증상에서 찾기 | [사상의학 소증으로 찾기](../sasang-symptoms/index.md) |
 | 네 체질의 차이를 한눈에 비교하기 | [사상체질 병증 비교](patterns.md) |
