@@ -1,0 +1,23 @@
+.sasang-explorer-notice{margin:1rem 0 1.4rem;padding:1rem 1.1rem;border-left:4px solid var(--md-primary-fg-color);border-radius:.35rem;background:rgba(31,91,71,.07)}
+.sasang-explorer{margin:1.2rem 0 2rem}
+.sasang-explorer__steps{display:grid;grid-template-columns:repeat(4,1fr);gap:.45rem;margin-bottom:1rem}
+.sasang-explorer__steps span{padding:.55rem .35rem;border-radius:999px;text-align:center;font-size:.72rem;font-weight:700;background:var(--md-default-fg-color--lightest)}
+.sasang-explorer__steps span.is-active{background:var(--md-primary-fg-color);color:#fff}
+.sasang-explorer__controls{display:grid;grid-template-columns:repeat(3,minmax(0,1fr)) auto;gap:.75rem;align-items:end;padding:1rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:.7rem}
+.sasang-explorer__controls label{display:flex;flex-direction:column;gap:.35rem;font-weight:700;font-size:.78rem}
+.sasang-explorer__controls select,.sasang-explorer__reset{width:100%;min-height:2.65rem;padding:.55rem .65rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:.45rem;background:var(--md-default-bg-color);color:var(--md-default-fg-color);font:inherit}
+.sasang-explorer__reset{cursor:pointer;font-weight:700}
+.sasang-explorer__summary{margin:1rem 0;padding:.85rem 1rem;border-radius:.55rem;background:var(--md-code-bg-color);font-size:.86rem}
+.sasang-explorer__results{display:grid;gap:1rem}
+.sasang-explorer__card{padding:1.1rem 1.15rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:.7rem;background:var(--md-default-bg-color)}
+.sasang-explorer__eyebrow{margin:0 0 .35rem;color:var(--md-primary-fg-color);font-size:.72rem;font-weight:800}
+.sasang-explorer__card h3{margin:.2rem 0 .55rem}
+.sasang-explorer__card h4{margin:1rem 0 .35rem;font-size:.9rem}
+.sasang-explorer__card ul{margin:.35rem 0 .5rem}
+.sasang-explorer__formula-grid,.sasang-explorer__links{display:flex;flex-wrap:wrap;gap:.5rem}
+.sasang-explorer__formula{display:block;flex:1 1 13rem;padding:.75rem .8rem;border:1px solid rgba(31,91,71,.2);border-radius:.55rem;text-decoration:none!important}
+.sasang-explorer__formula strong{display:block;margin-bottom:.2rem}
+.sasang-explorer__formula small{color:var(--md-default-fg-color--light)}
+.sasang-explorer__links a{font-size:.78rem;font-weight:700}
+.sasang-explorer__empty{padding:1.4rem;text-align:center;border:1px dashed var(--md-default-fg-color--lightest);border-radius:.7rem;color:var(--md-default-fg-color--light)}
+@media(max-width:760px){.sasang-explorer__steps{grid-template-columns:repeat(2,1fr)}.sasang-explorer__controls{grid-template-columns:1fr}.sasang-explorer__controls label,.sasang-explorer__reset{width:100%}.sasang-explorer__card{padding:1rem}.sasang-explorer__formula{flex-basis:100%}}
