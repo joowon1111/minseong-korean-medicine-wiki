@@ -585,7 +585,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-7', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261002-8', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -620,7 +620,7 @@ def main():
                 else:
                     lines.extend(['', f"[원문에서 확인]({c['source']})", ''])
                     if subject in ('shanghanlun', 'sasang'):
-                        lines.extend([f"[연결 해설·처방]({c['relatedSource']}) · [원전 판본]({c['reference']})", ''])
+                        lines.extend([f"[연결 해설·처방]({c['relatedSource']}) · [{c['referenceLabel']}]({c['reference']})", ''])
             lines.extend(['</details>', ''])
         lines.append('<!-- STUDY_DIRECTORY_END -->\n')
         write_bytes(path, (text + '\n'.join(lines)).encode())
