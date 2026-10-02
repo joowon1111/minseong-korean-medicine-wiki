@@ -3,7 +3,7 @@ title: 소양인 건강→악화→회복
 description: 소양인 건강→악화→회복을 사상체질의 완실무병·소증·병증 진행과 회복 구조로 정리합니다.
 tags: [사상체질, 완실무병, 소증, 악화, 회복]
 status: 검토완료
-last_reviewed: 2026-08-20
+last_reviewed: 2026-10-02
 ---
 # 소양인 건강→악화→회복
 
@@ -26,6 +26,36 @@ last_reviewed: 2026-08-20
 열/갈증 또는 설사 감소 → 복통·구토·번열 안정 → 수면·피로 회복 → **대변선통 회복**.
 
 → [증상·치료 상세](../sasang-clinical-detail/soyangin.md)
+
+
+## 세부 진행 지도
+
+| 진행 방향 | 먼저 보이는 변화 | 다음 단계에서 확인 | 대표 처방 문서 |
+|---|---|---|---|
+| 소양상풍 | 두통·한열왕래·신체통 | 흉격·배설 변화 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) |
+| 결흉 | 흉격 답답함·담·기역 | 번조·구갈, 대소변 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
+| 신열두통망음 | 신열·두통·번조 | 설사·진액소모 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
+| 망음 | 복통·설사·기력저하 | 탈수·소변·체중 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
+| 흉격열 | 상열·번조·구갈 | 변폐·수면·건조 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) |
+| 강한 리열 | 심한 구갈·변폐 | 진액손상·전신상태 | [현삼백호탕](../sasang-formula-library/hyeonsambaekho-tang.md) |
+| 음허오열 | 야간열·하지무력·배뇨 변화 | 체중·허로·활동저하 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) |
+
+## 진행을 판단하는 핵심 지표
+
+**대변선통**이 무너지는 방식이 중요합니다. 설사·복통으로 무너지는지, 변폐·건조로 무너지는지에 따라 표병 망음과 리열의 방향이 갈립니다. 갈증도 단독으로 보지 않고 음수량·소변량·체중·기립 어지럼과 함께 기록합니다.
+
+악화는 두통·한열에서 흉격·배설 변화로, 다시 설사·소모 또는 상열·변폐로 깊어질 수 있습니다. 이는 모든 환자에게 동일한 고정 경로가 아니라 병증의 깊이를 비교하는 학습 지도입니다.
+
+## 회복을 판단하는 순서
+
+1. 급한 열·복통·설사·두통이 감소합니다.
+2. 갈증·음수·소변과 대변 형태가 안정됩니다.
+3. 수면·식욕·기립·활동이 회복됩니다.
+4. 발병 전의 **편안한 배변과 전신 회복감**으로 돌아오는지 확인합니다.
+
+혈변·지속 고열·의식 변화·심한 탈수·급격한 체중감소는 체질 경과보다 현대 의학적 평가가 우선입니다.
+
+→ [소양인 중증도 지도](../sasang-pattern-differential/soyangin-severity-map.md) · [처방 탐색기](../sasang-explorer/index.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
