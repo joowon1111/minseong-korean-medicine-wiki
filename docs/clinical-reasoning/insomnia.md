@@ -29,4 +29,4 @@ last_reviewed: 2026-08-19
 → [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md)
 → [백회 GV20](../acupuncture/points/gv20-baihui.md)
 
-→ [불면 근거 카드](../authority/insomnia.md)
+→ [불면 근거 카드](../authority/conditions/insomnia.md)

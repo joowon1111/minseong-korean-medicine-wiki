@@ -18,11 +18,14 @@ last_reviewed: 2026-08-21
 
 ## 함께 보는 요소
 
-- 기력
-- 수면
-- 식욕
-- 땀
-- 냉열
+평소 활동량과 회복속도에 비해 얼마나 달라졌는지, 식욕·배변·땀·냉열·수면 중 어느 축이 먼저 변했는지 기록합니다. 피로 하나를 체질의 약점으로 고정하지 않고 현증과 진행양상을 살핍니다.
+
+| 읽는 순서 | 확인할 내용 | 다음 문서 |
+|---|---|---|
+| 평소 소증 | 건강할 때의 피로·회복과 동반 생활 상태 | [피로·회복 소증](../sasang-original-symptoms/fatigue-recovery.md) |
+| 현재 변화 | 평소와 다른 냉열·대변·갈증·땀·기력 | [체질별 병증 감별](../sasang-pattern-differential/index.md) |
+| 단계와 우선순위 | 표리·순역·경중과 진행·회복 | [중증도·경과](../sasang-severity/index.md) |
+| 처방 학습 | 체질 안에서 병증·치법에 맞는 대표 처방 | [체질별 처방집](../sasang-integrated/formulas.md) |
 
 ## 사상의학적으로 이해하기
 
@@ -32,11 +35,7 @@ last_reviewed: 2026-08-21
 
 ## 기존 지식망과 연결
 
-- [사상의학](index.md)
-- [증상·질환 한눈에 보기](../conditions/index.md)
-- [맞춤한약](../conditions/custom-herbal-medicine.md)
-- [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
-- [본초 찾기](../herbal-integrated/herbs.md)
+체질별 설명은 [소양인](../sasang-integrated/soyangin.md) · [소음인](../sasang-integrated/soeumin.md) · [태음인](../sasang-integrated/taeeumin.md) · [태양인](../sasang-integrated/taeyangin.md)에서 읽습니다. [처방 탐색기](../sasang-explorer/index.md)는 병증·단계·처방·출전을 학습하는 문서 탐색 도구입니다. 실제 체질 판단·진단·개인별 처방은 진료 평가가 필요합니다.
 
 ## 검색 동의어
 

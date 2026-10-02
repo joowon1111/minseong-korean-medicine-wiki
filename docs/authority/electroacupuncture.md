@@ -13,7 +13,7 @@ last_reviewed: 2026-09-06
 
 2020년 *JAMA Network Open* 무작위시험은 전침과 가짜 전침을 비교했습니다. **일차 평가인 PROMIS 통증 변화의 군 간 차이는 유의하지 않았고, 이차 평가인 RMDQ 기능장애에서 개선이 보고됐습니다.** 통증 효과가 확정됐다고 요약하거나 기능 변화가 없었다고 반대로 요약하지 않습니다. [Kong 등, PMID 33107921](https://pubmed.ncbi.nlm.nih.gov/33107921/) · [DOI 원문](https://doi.org/10.1001/jamanetworkopen.2020.22787)
 
-통증 숫자와 함께 앉기·걷기·일상 수행을 기록하는 이유를 보여주는 연구입니다. → [요통 안내](../conditions/low-back-pain.md) · [침·약침을 포함한 만성요통 근거](conditions/chronic-low-back-pain-update.md)
+통증 숫자와 함께 앉기·걷기·일상 수행을 기록하는 이유를 보여주는 연구입니다. → [요통 안내](../conditions/low-back-pain.md) · [침·약침을 포함한 만성요통 근거](low-back-pain.md)
 
 ## 중증 기능성 변비 — 완전자발배변 {#ea-constipation-trial}
 

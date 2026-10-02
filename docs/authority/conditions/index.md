@@ -15,7 +15,7 @@ last_reviewed: 2026-08-30
 
 | 질환·증상 | 근거 카드 |
 |---|---|
-| 허리·좌골신경통 | [만성 요통 최신 근거](chronic-low-back-pain-update.md) · [좌골신경통](sciatica.md) |
+| 허리·좌골신경통 | [만성 요통 최신 근거](../low-back-pain.md) · [좌골신경통](sciatica.md) |
 | 목·신경근 통증 | [만성 목통증](chronic-neck-pain.md) · [최신 근거](chronic-neck-pain-update.md) · [경추 신경근병증](cervical-radiculopathy.md) |
 | 무릎·고관절 | [무릎 골관절염](knee-osteoarthritis.md) · [침·뜸 근거](knee-osteoarthritis-acupuncture-moxibustion.md) · [고관절 골관절염](hip-osteoarthritis.md) |
 | 어깨 | [어깨통증](shoulder-pain.md) · [오십견](frozen-shoulder.md) · [회전근개질환](rotator-cuff-disease.md) |

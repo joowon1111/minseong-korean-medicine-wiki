@@ -27,6 +27,11 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      conditions/heartburn.md: conditions/gastritis-symptoms.md
+      conditions/stress-gut.md: autonomic/stress-digestion.md
+      authority/conditions/plantar-heel-pain-update.md: authority/conditions/plantar-fasciitis.md
+      authority/conditions/chronic-low-back-pain-update.md: authority/low-back-pain.md
+      authority/insomnia.md: authority/conditions/insomnia.md
       conditions/pcos.md: conditions/polycystic-ovary-syndrome.md
       conditions/preconception-herbal.md: conditions/infertility-preconception.md#preconception-herbal
       conditions/fertility-fatigue.md: conditions/infertility-preconception.md#whole-health

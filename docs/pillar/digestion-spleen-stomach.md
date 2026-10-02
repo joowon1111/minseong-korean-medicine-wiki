@@ -17,21 +17,30 @@ last_reviewed: 2026-09-06
 | 먹고 나면 더부룩하고 명치가 답답함 | [소화불량](../conditions/dyspepsia.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) |
 | 배가 아프거나 반복적으로 불편함 | [복통](../conditions/abdominal-pain.md) |
 | 배에 가스가 차고 빵빵함 | [복부팽만](../conditions/bloating.md) · [장내가스](../conditions/abdominal-gas.md) |
-| 조금만 먹어도 배부름 | [조기포만 안내](../answer-guides/early-satiety-guide.md) |
+| 조금만 먹어도 배부름 | [조기포만 안내](../answer-guides/early-satiety-guide.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) |
 | 변비와 배변곤란 | [변비](../conditions/constipation.md) |
-| 묽은 변과 잦은 설사 | [설사](../conditions/diarrhea.md) |
+| 묽은 변과 잦은 설사 | [설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) |
 | 복통과 배변 변화가 반복됨 | [과민성장증후군](../conditions/ibs.md) |
 | 속쓰림·명치통증이 있음 | [위염·속쓰림](../conditions/gastritis-symptoms.md) |
+| 메스꺼움·먹기 불편함 | [오심](../conditions/nausea.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) |
+
+<span id="digestive-sensory-care"></span>
 
 ## 주요 변증 {#_3}
 
-- **비위기허**: 식욕저하·식후 피로·무른 변
-- **담음·습체**: 더부룩함·오심·무거움·가스
-- **식적**: 과식 뒤 복창·트림·변 냄새 변화
-- **간울기체**: 스트레스에 따라 복통·팽만·배변이 달라짐
-- **한열착잡**: 속쓰림과 냉감, 설사와 답답함 등 한열 증상이 섞임
+| 동반 양상 | 먼저 확인할 질문 | 병증·대표 처방군 | 심화 경로 |
+|---|---|---|---|
+| 식욕저하·식후피로·무른 변 | 평소 소화력이 약한가, 식사량·체중이 변했는가 | 비위기허; 육군자탕·향사육군자탕 | [기능성소화불량](../conditions/functional-dyspepsia.md) |
+| 오심·팽만·무거움 | 과식보다 담습·습체의 양상이 지속되는가 | 담음·습체; 평위산·육군자탕 계열 | [담음·식적 감별](../diagnostics/differentials/phlegm-vs-food-stagnation.md) |
+| 과식 뒤 신트림·복창 | 음식 정체의 시작과 회복이 뚜렷한가 | 식적; 보화환 | [소화불량](../conditions/dyspepsia.md) |
+| 긴장 뒤 복통·팽만·배변 변화 | 상복부 불편인가, 배변 관련 복통인가 | 간위불화·간비불화; 시호소간산 등 | [스트레스·소화](../autonomic/stress-digestion.md) · [IBS](../conditions/ibs.md) |
+| 명치 그득함·오심·장명·설사 | 냉열·허실이 어떻게 겹치는가 | 한열착잡; 반하사심탕 | [위염·속쓰림](../conditions/gastritis-symptoms.md#herbal-treatment) |
 
-식욕저하와 식후 처짐, 묽은 변과 활동력 저하가 함께 나타나는 맥락은 [《비위론》의 원문·해석](../classics/piwei-lun.md#intake-and-function)에서 이어 볼 수 있습니다. 비위기허에 담습·기체가 얼마나 겹치는지에 따라 보기와 소화기 조절의 비중을 달리 살핍니다.
+증상 유형과 변증은 일대일로 고정하지 않습니다. 식욕저하·식후 처짐의 고전 맥락은 [《비위론》](../classics/piwei-lun.md#intake-and-function)에서, 처방 선택은 실제 증후와 복용약을 확인해 연결합니다.
+
+<span id="pattern-care-network"></span>
+
+담적이라는 설명을 들었다면 [담적 전체 안내](../diagnostics/phlegm-accumulation.md)와 [담음의 처방 구조](../diagnostics/phlegm-fluid.md)에서 의미를 확인합니다. 지속 소화불편을 한 용어로 묶기보다 음식·오심·냉열·식사량·배변에 따라 위 비교표의 병증을 구분합니다.
 
 ## 본초·방제·경혈 {#_4}
 
@@ -49,17 +58,5 @@ last_reviewed: 2026-09-06
 - [소화불량 임상 지식망](../network/dyspepsia-map.md)
 - [소화불량 경혈 지식망](../network/dyspepsia-acupoints.md)
 - [소화기 증상에서 먼저 확인할 신호](../clinical-safety/digestive-red-flags.md)
-- [육군자탕 임상근거](../research/formulas/rikkunshito.md)
+- [기능성소화불량의 유형·처방·경과](../conditions/functional-dyspepsia.md) · [육군자탕 임상근거](../research/formulas/rikkunshito.md)
 - [현대 임상근거 허브](clinical-evidence.md)
-
-## 변증·처방·치료를 이어서 보기 {#pattern-care-network}
-
-오래된 더부룩함·명치 답답함을 담적이라고 설명받았을 때는 담음·식적·기체·비위허약의 차이부터 처방·치료까지 이어서 볼 수 있습니다.
-
-[담적 전체 안내](../diagnostics/phlegm-accumulation.md) · [담음의 변증과 대표 처방](../diagnostics/phlegm-fluid.md) · [담음과 식적의 차이](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
-
-## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
-
-배변의 형태·시간 양상과 식후 불편을 구분하고, 각 증상에서 변증별 처방과 치료 후 확인할 변화를 이어서 봅니다.
-
-[아침·식후설사](../conditions/morning-diarrhea.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) · [메스꺼움](../conditions/nausea.md)

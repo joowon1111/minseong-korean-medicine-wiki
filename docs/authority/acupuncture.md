@@ -35,4 +35,4 @@ last_reviewed: 2026-09-06
 
 ## 질환·치료 과정으로 이어가기 {#acupuncture-evidence-routes}
 
-[침 치료 안내](../treatments/acupuncture.md)에서 경혈 선택과 치료 과정을 보고, [만성요통 전체 근거](conditions/chronic-low-back-pain-update.md)에서 연구 대상과 비교군을 살펴봅니다. 전기 자극의 질문은 [전침 근거](electroacupuncture.md), 약침액을 사용하는 치료는 [약침 근거](pharmacopuncture.md)로 구분합니다. 경혈 배합은 [요통 경혈 안내](../acupuncture-integrated/points-for-low-back.md)와 연결합니다.
+[침 치료 안내](../treatments/acupuncture.md)에서 경혈 선택과 치료 과정을 보고, [만성요통 전체 근거](low-back-pain.md)에서 연구 대상과 비교군을 살펴봅니다. 전기 자극의 질문은 [전침 근거](electroacupuncture.md), 약침액을 사용하는 치료는 [약침 근거](pharmacopuncture.md)로 구분합니다. 경혈 배합은 [요통 경혈 안내](../acupuncture-integrated/points-for-low-back.md)와 연결합니다.

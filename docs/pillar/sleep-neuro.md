@@ -26,11 +26,15 @@ last_reviewed: 2026-09-19
 
 ## 한의학적 해석
 
-- **심비양허·기혈부족**: 피로·두근거림·건망·얕은 잠이 함께 나타나는 경우
-- **담음·담열**: 머리가 무겁고 어지럽거나 답답하며 잠이 불편한 경우
-- **간울·울화**: 긴장과 감정 변화에 따라 불면·두통·심계가 심해지는 경우
-- **음혈부족**: 오래된 불면과 열감·건조·초조가 동반되는 경우
-- **어혈·경락불통**: 고정된 통증이나 저림이 지속되는 경우
+| 주된 불편 | 함께 확인할 질문 | 변증·대표 처방군 | 심화 문서 |
+|---|---|---|---|
+| 얕은 잠·심계·피로 | 식욕·회복감·건망이 겹치는가 | 심비양허·기혈부족; 귀비탕 | [불면](../conditions/insomnia.md) |
+| 긴장·오심·답답함·입면 곤란 | 목이물감·담음·소화불편이 겹치는가 | 담음·담열·담기울결; 온담탕·반하후박탕 비교 | [스트레스성 불면](../autonomic/stress-sleep.md) |
+| 오래된 불면·열감·건조 | 야간 열감·입마름·전신 증후가 있는가 | 음혈부족; 천왕보심단·산조인탕 비교 | [새벽각성](../conditions/early-awakening.md) |
+| 목 긴장·두통과 잠의 불편 | 편두통·경추성두통·신경통 중 무엇이 중심인가 | 경근 긴장·기체·기혈허 등의 비중 | [두통 감별](../conditions/headache.md) |
+| 잔 뒤에도 피로 | 코골이·무호흡·하지불안·수면시간이 문제인가 | 원인 평가와 전신 변증을 병행 | [비회복성 수면](../conditions/nonrestorative-sleep.md) |
+
+처방을 선택하는 데에는 증상 조합과 현재 상태가 필요합니다. 불면 하나를 특정 체질이나 병증으로 단정하지 않고, [불면 근거 카드](../authority/conditions/insomnia.md)에서 치료별 연구 대상·지표도 함께 확인합니다.
 
 ## 본초·방제·경혈
 
@@ -48,18 +52,20 @@ last_reviewed: 2026-09-19
 - [침구·한의치료 허브](acupuncture-treatment.md)
 - [현대 임상근거 허브](clinical-evidence.md)
 
-## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
+## 치료 계획과 경과를 연결합니다 {#symptom-care-routes}
 
-수면과 신경 증상을 더 구체적으로 살펴볼 수 있습니다. 잠들기·각성·회복감의 차이와 두통의 유형을 나누고 관련 변증·처방으로 이어집니다.
+수면 증상에서는 잠드는 시간·각성 후 재입면·주간 기능을, 두통에서는 두통일수·진통제 사용·목 가동범위를 정해 비교합니다. 한약은 동반 증후에 맞추고 침·전침·약침은 부위·자극량·치료 빈도와 목표를 함께 기록합니다. 수면과 통증이 함께 개선되는지 살피되 모든 신경 증상을 수면 문제 하나로 설명하지 않습니다.
 
-[스트레스성 불면](../autonomic/stress-sleep.md) · [새벽각성](../conditions/early-awakening.md) · [숙면·회복감](../conditions/nonrestorative-sleep.md) · [편두통](../conditions/migraine.md) · [긴장성두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md)
+두근거림·호흡·기립 시 증상이 함께 있으면 [자율신경 안내](../autonomic/index.md)에서 원인을 구분합니다. 갑작스러운 얼굴마비는 [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md)에서 초기 평가와 눈 보호를 확인합니다.
 
-자율신경 관련 증상은 원인 감별을, 갑작스러운 안면마비는 초기 치료 시기와 눈 보호를 함께 확인합니다.
+## 어지럼·청력 변화에서 다음 문서를 고릅니다 {#digestive-sensory-care}
 
-[자율신경실조증 안내](../autonomic/index.md) · [구안와사·안면마비](../authority/conditions/peripheral-facial-palsy.md)
+| 관찰한 양상 | 구분할 질문 | 다음 문서 |
+|---|---|---|
+| 자세 변화 때 짧은 회전감 | 눕기·돌아눕기·고개 움직임에 반복되는가 | [이석증](../conditions/bppv.md) |
+| 반복 발작과 귀의 증상 | 청력·이명·귀먹먹함이 함께 변하는가 | [메니에르병](../conditions/menieres-disease.md) |
+| 갑자기 청력이 떨어짐 | 발생 시점과 한쪽·양쪽 여부가 무엇인가 | [돌발성난청](../conditions/sudden-sensorineural-hearing-loss.md) |
+| 일어설 때 어지러움 | 기립·복용약·수분 섭취와 관계가 있는가 | [기립성 어지럼](../conditions/orthostatic-dizziness.md) |
+| 오래된 청력 불편 | 일상 대화·듣기 기능과 검사 변화가 있는가 | [난청·청력재활](../conditions/hearing-loss.md) |
 
-## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
-
-짧은 자세 유발 회전감, 반복 발작과 청력 변동, 갑작스러운 청력저하는 검사와 치료 시점이 다릅니다.
-
-[이석증](../conditions/bppv.md) · [메니에르병](../conditions/menieres-disease.md) · [돌발성난청](../conditions/sudden-sensorineural-hearing-loss.md) · [난청·청력재활](../conditions/hearing-loss.md) · [기립성 어지럼](../conditions/orthostatic-dizziness.md)
+새로운 청력저하·신경학적 이상은 각 문서의 초기 평가 기준을 먼저 확인합니다. 이후 수면·통증·전신 상태와 함께 치료·재활의 목표를 구성합니다.
