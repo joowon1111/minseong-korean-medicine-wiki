@@ -14,7 +14,7 @@ class StudentLearning(unittest.TestCase):
         cls.decks = study.build()
 
     def test_complete_decks_and_committed_build_agree(self):
-        expected = {'acupoints': 361, 'acupuncture': 105, 'herbs': 120, 'formulas': 100}
+        expected = {'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
         manifest = json.loads((study.OUT / 'manifest.json').read_text())
         for subject, deck in self.decks.items():
             self.assertEqual(len(deck['cards']), expected[subject])
@@ -82,7 +82,7 @@ class StudentLearning(unittest.TestCase):
         formulas = {c['id']: c for c in self.decks['formulas']['cards']}
         self.assertIn('소음인', str(formulas['formula-xiangsha-yangwei-tang']['facts']))
         self.assertIn('계지', str(formulas['formula-bawei-dihuang-wan']['facts']))
-        self.assertEqual(len(set(c['title'] for c in herbs.values())), len(herbs))
+        self.assertEqual(len([c for c in herbs.values() if c['category'] != '본초 비교·감별']), 120)
 
     def test_public_counts_and_static_fallback_are_complete(self):
         hub = (study.DOCS / 'learning/index.md').read_text()
@@ -96,6 +96,35 @@ class StudentLearning(unittest.TestCase):
                 self.assertIn(c['source'], text)
                 for fact in c['facts']:
                     self.assertIn(fact['value'], text)
+
+    def test_expansion_keeps_comparison_context_and_reverse_recall_unambiguous(self):
+        points = [c for c in self.decks['acupuncture']['cards'] if c['id'].startswith('shu-point-')]
+        self.assertEqual(len(points), 60)
+        lu9 = next(c for c in points if c['id'] == 'shu-point-LU9')
+        self.assertEqual(lu9['facts'], [{'label': '소속 경맥', 'value': '폐경 LU'}, {'label': '오수혈 분류', 'value': '수(兪)'}])
+        herbs = self.decks['herbs']
+        comparisons = [c for c in herbs['cards'] if c['category'] == '본초 비교·감별']
+        self.assertEqual(len(comparisons), 64)
+        self.assertFalse(any(c['title'] == '풍한습을 풀고 통증 통로를 엶 비교·감별' for c in comparisons))
+        for q in herbs['questions']:
+            c = next(c for c in herbs['cards'] if c['id'] == q['cardId'])
+            if c['category'] == '본초 비교·감별' and q['kind'] == 'fact':
+                self.assertIn(c['facts'][0]['value'], q['prompt'])
+        for subject in ('acupuncture', 'herbs', 'formulas'):
+            deck = self.decks[subject]
+            by_id = {c['id']: c for c in deck['cards']}
+            reverse = [q for q in deck['questions'] if q['kind'] == 'recall']
+            self.assertTrue(reverse)
+            for q in reverse:
+                self.assertEqual(q['options'][q['answer']]['ownerId'], q['cardId'])
+                self.assertEqual(len({o['text'] for o in q['options']}), 4)
+                self.assertTrue(all(by_id[o['ownerId']]['category'] == q['category'] for o in q['options']))
+                label, value = q['context'].split(': ', 1)
+                self.assertEqual(sum(any(f['label'] == label and study.normalized(f['value']) == study.normalized(value) for f in c['facts']) for c in deck['cards']), 1)
+        formulas = {c['id']: c for c in self.decks['formulas']['cards']}
+        self.assertIn('인삼', str(formulas['formula-sijunzi-tang']['facts']))
+        self.assertIn('자감초', str(formulas['formula-sijunzi-tang']['facts']))
+        self.assertEqual(sum(c['category'] == '처방 계열 비교' for c in formulas.values()), 10)
 
 
 if __name__ == '__main__':

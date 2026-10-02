@@ -1,19 +1,19 @@
 ---
 title: 침구학 공부 — 특정혈·배혈·치료수단·해설 퀴즈
-description: 오수혈·원락극·수모·팔회·팔맥·하합혈과 배혈 원리, 침·전침·약침·뜸·부항, 연구 해석을 105개 카드와 202문제로 복습합니다.
+description: 오수혈 60혈 개별 분류, 원락극·수모·팔회·팔맥·하합과 배혈 원리, 치료수단·연구 해석을 양방향 퀴즈로 복습합니다.
 tags: [침구학, 특정혈, 오수혈, 배혈, 전침, 침구 퀴즈]
 ---
 # 침구학 공부 — 특정혈에서 연구 읽기까지
 
-[학생 학습실](index.md) / **침구학**
+[기초 한의학 학습실](index.md) / **침구학**
 
-**105개 카드 · 202문제.** 분류를 외우는 단계에서 배혈과 자극 방식의 의미를 설명하는 단계로 이어갑니다. 전통 분류와 현대 연구설계의 질문은 각각의 맥락에서 학습합니다.
+**169개 카드 · 528문제.** 기존 개념 카드 105개에 오수혈 개별 카드 60개와 팔맥교회혈 짝 카드 4개를 더했습니다. 분류를 외우는 단계에서 배혈과 자극 방식의 의미를 설명하는 단계로 이어갑니다. 전통 분류와 현대 연구설계의 질문은 각각의 맥락에서 학습합니다.
 
 ## 단원별 학습 목표
 
 | 단원 | 공부할 내용 | 원문 |
 |---|---|---|
-| 오수혈 | 12경맥의 정·형·수·경·합 60혈 | [오수혈 통합표](../acupuncture-specific/five-shu.md) |
+| 오수혈 | 경맥별 통합 카드와 60혈 개별 카드로 정·형·수·경·합을 양방향 회상 | [오수혈 통합표](../acupuncture-specific/five-shu.md) |
 | 원·낙·극 | 같은 경맥의 세 분류를 구분 | [특정혈 통합 아틀라스](../acupuncture-specific/special-points-atlas.md) |
 | 수모·팔회 | 장부와 앞·뒤, 장·부·기·혈·근·맥·골·수 | [특정혈 통합표](../acupuncture-specific/special-points-atlas.md) |
 | 팔맥·하합·사총 | 기경 연결, 배합 짝, 육부·대표 부위 | [배혈 원리](../acupuncture-specific/pairing-principles.md) |
@@ -38,7 +38,7 @@ tags: [침구학, 특정혈, 오수혈, 배혈, 전침, 침구 퀴즈]
 
 <!-- STUDY_DIRECTORY_START -->
 ## 전체 학습 요약과 원문 {#study-directory}
-105개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
+169개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
 
 <details markdown="1">
 <summary>오수혈 · 12개 카드</summary>
@@ -160,6 +160,431 @@ tags: [침구학, 특정혈, 오수혈, 배혈, 전침, 침구 퀴즈]
 - **수(兪):** LR3 태충
 - **경(經):** LR4 중봉
 - **합(合):** LR8 곡천
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+</details>
+
+<details markdown="1">
+<summary>오수혈 개별 60혈 · 60개 카드</summary>
+
+**LU11 소상 오수혈 분류**
+
+- **소속 경맥:** 폐경 LU
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LU10 어제 오수혈 분류**
+
+- **소속 경맥:** 폐경 LU
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LU9 태연 오수혈 분류**
+
+- **소속 경맥:** 폐경 LU
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LU8 경거 오수혈 분류**
+
+- **소속 경맥:** 폐경 LU
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LU5 척택 오수혈 분류**
+
+- **소속 경맥:** 폐경 LU
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LI1 상양 오수혈 분류**
+
+- **소속 경맥:** 대장경 LI
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LI2 이간 오수혈 분류**
+
+- **소속 경맥:** 대장경 LI
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LI3 삼간 오수혈 분류**
+
+- **소속 경맥:** 대장경 LI
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LI5 양계 오수혈 분류**
+
+- **소속 경맥:** 대장경 LI
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LI11 곡지 오수혈 분류**
+
+- **소속 경맥:** 대장경 LI
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**ST45 여태 오수혈 분류**
+
+- **소속 경맥:** 위경 ST
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**ST44 내정 오수혈 분류**
+
+- **소속 경맥:** 위경 ST
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**ST43 함곡 오수혈 분류**
+
+- **소속 경맥:** 위경 ST
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**ST41 해계 오수혈 분류**
+
+- **소속 경맥:** 위경 ST
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**ST36 족삼리 오수혈 분류**
+
+- **소속 경맥:** 위경 ST
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SP1 은백 오수혈 분류**
+
+- **소속 경맥:** 비경 SP
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SP2 대도 오수혈 분류**
+
+- **소속 경맥:** 비경 SP
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SP3 태백 오수혈 분류**
+
+- **소속 경맥:** 비경 SP
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SP5 상구 오수혈 분류**
+
+- **소속 경맥:** 비경 SP
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SP9 음릉천 오수혈 분류**
+
+- **소속 경맥:** 비경 SP
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**HT9 소충 오수혈 분류**
+
+- **소속 경맥:** 심경 HT
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**HT8 소부 오수혈 분류**
+
+- **소속 경맥:** 심경 HT
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**HT7 신문 오수혈 분류**
+
+- **소속 경맥:** 심경 HT
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**HT4 영도 오수혈 분류**
+
+- **소속 경맥:** 심경 HT
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**HT3 소해 오수혈 분류**
+
+- **소속 경맥:** 심경 HT
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SI1 소택 오수혈 분류**
+
+- **소속 경맥:** 소장경 SI
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SI2 전곡 오수혈 분류**
+
+- **소속 경맥:** 소장경 SI
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SI3 후계 오수혈 분류**
+
+- **소속 경맥:** 소장경 SI
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SI5 양곡 오수혈 분류**
+
+- **소속 경맥:** 소장경 SI
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**SI8 소해 오수혈 분류**
+
+- **소속 경맥:** 소장경 SI
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**BL67 지음 오수혈 분류**
+
+- **소속 경맥:** 방광경 BL
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**BL66 통곡 오수혈 분류**
+
+- **소속 경맥:** 방광경 BL
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**BL65 속골 오수혈 분류**
+
+- **소속 경맥:** 방광경 BL
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**BL60 곤륜 오수혈 분류**
+
+- **소속 경맥:** 방광경 BL
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**BL40 위중 오수혈 분류**
+
+- **소속 경맥:** 방광경 BL
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**KI1 용천 오수혈 분류**
+
+- **소속 경맥:** 신경 KI
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**KI2 연곡 오수혈 분류**
+
+- **소속 경맥:** 신경 KI
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**KI3 태계 오수혈 분류**
+
+- **소속 경맥:** 신경 KI
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**KI7 복류 오수혈 분류**
+
+- **소속 경맥:** 신경 KI
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**KI10 음곡 오수혈 분류**
+
+- **소속 경맥:** 신경 KI
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**PC9 중충 오수혈 분류**
+
+- **소속 경맥:** 심포경 PC
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**PC8 노궁 오수혈 분류**
+
+- **소속 경맥:** 심포경 PC
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**PC7 대릉 오수혈 분류**
+
+- **소속 경맥:** 심포경 PC
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**PC5 간사 오수혈 분류**
+
+- **소속 경맥:** 심포경 PC
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**PC3 곡택 오수혈 분류**
+
+- **소속 경맥:** 심포경 PC
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**TE1 관충 오수혈 분류**
+
+- **소속 경맥:** 삼초경 TE
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**TE2 액문 오수혈 분류**
+
+- **소속 경맥:** 삼초경 TE
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**TE3 중저 오수혈 분류**
+
+- **소속 경맥:** 삼초경 TE
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**TE6 지구 오수혈 분류**
+
+- **소속 경맥:** 삼초경 TE
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**TE10 천정 오수혈 분류**
+
+- **소속 경맥:** 삼초경 TE
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**GB44 족규음 오수혈 분류**
+
+- **소속 경맥:** 담경 GB
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**GB43 협계 오수혈 분류**
+
+- **소속 경맥:** 담경 GB
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**GB41 족임읍 오수혈 분류**
+
+- **소속 경맥:** 담경 GB
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**GB38 양보 오수혈 분류**
+
+- **소속 경맥:** 담경 GB
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**GB34 양릉천 오수혈 분류**
+
+- **소속 경맥:** 담경 GB
+- **오수혈 분류:** 합(合)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LR1 대돈 오수혈 분류**
+
+- **소속 경맥:** 간경 LR
+- **오수혈 분류:** 정(井)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LR2 행간 오수혈 분류**
+
+- **소속 경맥:** 간경 LR
+- **오수혈 분류:** 형(滎)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LR3 태충 오수혈 분류**
+
+- **소속 경맥:** 간경 LR
+- **오수혈 분류:** 수(兪)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LR4 중봉 오수혈 분류**
+
+- **소속 경맥:** 간경 LR
+- **오수혈 분류:** 경(經)
+
+[원문에서 확인](/acupuncture-specific/five-shu/)
+
+**LR8 곡천 오수혈 분류**
+
+- **소속 경맥:** 간경 LR
+- **오수혈 분류:** 합(合)
 
 [원문에서 확인](/acupuncture-specific/five-shu/)
 
@@ -608,6 +1033,35 @@ tags: [침구학, 특정혈, 오수혈, 배혈, 전침, 침구 퀴즈]
 **표리경 배혈**
 
 - **구성 원리:** 음양 표리관계 경맥을 함께 고려
+
+[원문에서 확인](/acupuncture-specific/pairing-principles/)
+
+</details>
+
+<details markdown="1">
+<summary>팔맥교회혈 짝 복습 · 4개 카드</summary>
+
+**SP4 공손 + PC6 내관**
+
+- **연결 기경:** 충맥 + 음유맥
+
+[원문에서 확인](/acupuncture-specific/pairing-principles/)
+
+**SI3 후계 + BL62 신맥**
+
+- **연결 기경:** 독맥 + 양교맥
+
+[원문에서 확인](/acupuncture-specific/pairing-principles/)
+
+**LU7 열결 + KI6 조해**
+
+- **연결 기경:** 임맥 + 음교맥
+
+[원문에서 확인](/acupuncture-specific/pairing-principles/)
+
+**GB41 족임읍 + TE5 외관**
+
+- **연결 기경:** 대맥 + 양유맥
 
 [원문에서 확인](/acupuncture-specific/pairing-principles/)
 
