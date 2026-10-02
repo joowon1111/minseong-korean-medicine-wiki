@@ -41,7 +41,7 @@ description: 회복·예후 추적 — 민성 한의학 아카이브의 관련 �
 
 처음 병이 나빠질 때 가장 먼저 흔들렸던 소증을 재발 조기 신호로 사용합니다. 예를 들어 소양인은 대변·수면, 태음인은 발한·호흡, 소음인은 식욕·대변, 태양인은 보행·섭취 변화가 개인별 경고신호가 될 수 있습니다.
 
-→ [회복 신호](../sasang-progression/recovery-signs.md) · [경과관찰](../sasang-follow-up/index.md)
+→ [회복 신호](../sasang-progression/recovery-signs.md) · [경과관찰](../sasang-followup/index.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
