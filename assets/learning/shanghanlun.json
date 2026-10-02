@@ -13104,6 +13104,866 @@
       "answer": 2,
       "explanation": "397조 · 죽엽석고탕의 회복기 — 상한이 풀린 뒤 마르고 기운이 적으며 기역으로 토하려 하면 죽엽석고탕이 주치한다. 죽엽석고탕증: 병후의 허약과 남은 열·기역을 함께 읽는다. 죽엽석고탕: 청열과 익기·생진 및 화위의 배합축을 읽는다. 병후라는 시점과 허리·소기를 확인한다. 급성 표증의 해표 처방을 그대로 반복하는 문제가 아니다.",
       "source": "/learning/shanghanlun/#shanghan-clause-397"
+    },
+    {
+      "id": "advanced-shanghanlun-high-01",
+      "cardId": "shanghan-clause-071",
+      "difficulty": "high",
+      "prompt": "갈증의 두 문장을 조건에 맞게 나눈 것은?",
+      "context": "71조: 발한 뒤 위중건·번조·불면·음수 욕구와, 이어지는 맥부·소변불리·미열·소갈을 비교한다.",
+      "options": [
+        {
+          "text": "앞은 소량 음수로 위기 조화, 뒤는 소변불리 등 조건의 오령산",
+          "detail": "갈증 하나로 묶지 않고 진액 소모와 수기불리를 분리한 원문 구조이다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-071",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-01"
+        },
+        {
+          "text": "두 문장 모두 갈증이므로 바로 오령산",
+          "detail": "앞 문장의 진액 소모·음수 관찰과 뒤의 추가 조건을 없앴다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-071",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-01"
+        },
+        {
+          "text": "앞은 대승기, 뒤는 계지탕",
+          "detail": "원문에 없는 공하·해기 분기로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-071",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-01"
+        },
+        {
+          "text": "소변불리가 없어도 뒤 문장의 조건은 완전히 동일",
+          "detail": "오령산을 가르는 제시된 조건을 삭제했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-071",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-01"
+        }
+      ],
+      "answer": 0,
+      "explanation": "71조 · 진액 부족과 수기불리 — 갈증 하나로 묶지 않고 진액 소모와 수기불리를 분리한 원문 구조이다.",
+      "kind": "advanced",
+      "category": "태양·수기",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-01",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-071"
+    },
+    {
+      "id": "advanced-shanghanlun-high-02",
+      "cardId": "shanghan-clause-106",
+      "difficulty": "high",
+      "prompt": "축혈 공격 전에 원문이 제시하는 순서는?",
+      "context": "106조의 如狂·少腹急結과 “其外不解者，尚未可攻”을 함께 읽는다.",
+      "options": [
+        {
+          "text": "표가 풀리면 소복급결 유무를 확인하지 않음",
+          "detail": "표해 이후에도 남아 있는 증후가 공격 분기의 조건이다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-106",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-02"
+        },
+        {
+          "text": "표가 미해이면 먼저 해표, 표해 뒤 소복급결이 남으면 공격 조건 검토",
+          "detail": "증상 인식에 치료 순서와 남은 증후라는 조건을 결합했다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-106",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-02"
+        },
+        {
+          "text": "소복급결이 보이면 표미해 여부와 무관하게 즉시 공격",
+          "detail": "尚未可攻·當先解其外라는 순서를 지웠다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-106",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-02"
+        },
+        {
+          "text": "如狂가 있으면 심하비로만 해석",
+          "detail": "소복·축혈의 원문 위치를 심하비와 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-106",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-02"
+        }
+      ],
+      "answer": 1,
+      "explanation": "106조 · 도핵승기탕과 축혈 — 증상 인식에 치료 순서와 남은 증후라는 조건을 결합했다.",
+      "kind": "advanced",
+      "category": "축혈·변증",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-02",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-106"
+    },
+    {
+      "id": "advanced-shanghanlun-high-03",
+      "cardId": "shanghan-clause-149",
+      "difficulty": "high",
+      "prompt": "149조의 결흉·비를 나누는 핵심 대조는?",
+      "context": "하법 뒤 심하를 읽는다. “心下滿而鞕痛”과 “但滿而不痛”을 구별한다.",
+      "options": [
+        {
+          "text": "둘 다 하법 뒤이므로 모두 반하사심탕증",
+          "detail": "치료 전력은 같아도 현증이 달라진다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-149",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-03"
+        },
+        {
+          "text": "아프지 않은 비는 모두 계지탕 표증",
+          "detail": "심하비의 한열착잡·화위 맥락을 표증으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-149",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-03"
+        },
+        {
+          "text": "단단하고 아픈 것은 결흉, 그득하되 아프지 않은 것은 비",
+          "detail": "만감만이 아니라 경도·통증의 조합으로 병증과 치법을 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-149",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-03"
+        },
+        {
+          "text": "둘 다 만감이므로 모두 대함흉탕증",
+          "detail": "통증·단단함이라는 감별 축을 지웠다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-149",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-03"
+        }
+      ],
+      "answer": 2,
+      "explanation": "149조 · 시호증·결흉·비 — 만감만이 아니라 경도·통증의 조합으로 병증과 치법을 나눈다.",
+      "kind": "advanced",
+      "category": "태양·비번",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-03",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-149"
+    },
+    {
+      "id": "advanced-shanghanlun-high-04",
+      "cardId": "shanghan-clause-154",
+      "difficulty": "high",
+      "prompt": "비증의 촉진·맥증으로 다른 사심탕과 구별한 조문은?",
+      "context": "심하비지만 누르면 부드럽고 맥은 관상부이다. 단순 “비”라는 이름만으로 반하사심탕을 고르지 않는다.",
+      "options": [
+        {
+          "text": "149조 반하사심탕 분기",
+          "detail": "비의 일반 대조에는 맞지만 154조의 부드러운 촉진·관상부 조건을 더 특정하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-154",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-04"
+        },
+        {
+          "text": "138조 소함흉탕 분기",
+          "detail": "按之則痛·脈浮滑의 소결흉 핵심이 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-154",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-04"
+        },
+        {
+          "text": "134조 대함흉탕 분기",
+          "detail": "단단하고 심한 통증이라는 대결흉 방향과 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-154",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-04"
+        },
+        {
+          "text": "154조 대황황련사심탕 분기",
+          "detail": "按之濡·關上浮를 함께 읽는 조건이 사열개비의 이 조문을 구별한다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-154",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-04"
+        }
+      ],
+      "answer": 3,
+      "explanation": "154조 · 대황황련사심탕 — 按之濡·關上浮를 함께 읽는 조건이 사열개비의 이 조문을 구별한다.",
+      "kind": "advanced",
+      "category": "결흉·비증",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-04",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-154"
+    },
+    {
+      "id": "advanced-shanghanlun-high-05",
+      "cardId": "shanghan-clause-168",
+      "difficulty": "high",
+      "prompt": "치료 전력보다 현재 기열·진액 조건을 반영한 것은?",
+      "context": "토·하 이후 대갈과 심한 음수 욕구가 있다. 168조의 “無表證”을 함께 읽는다.",
+      "options": [
+        {
+          "text": "표증 없음과 대갈을 확인하는 백호가인삼탕",
+          "detail": "토하 전력만으로 처방하지 않고 남은 기열·진액 손상 맥락을 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-168",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-05"
+        },
+        {
+          "text": "토하 뒤이면 항상 계지가부자탕",
+          "detail": "누한·오풍·소변난·사지미급 등 20조 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-168",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-05"
+        },
+        {
+          "text": "갈증이 있으므로 소변 소견 없이 항상 오령산",
+          "detail": "수기불리 조건을 확인하지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-168",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-05"
+        },
+        {
+          "text": "대갈이 있으면 항상 대승기탕",
+          "detail": "변비·복실 등 하법 조건을 갈증 하나로 대체했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-168",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-05"
+        }
+      ],
+      "answer": 0,
+      "explanation": "168조 · 토하 뒤 리열과 대갈 — 토하 전력만으로 처방하지 않고 남은 기열·진액 손상 맥락을 읽는다.",
+      "kind": "advanced",
+      "category": "양명·청열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-05",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-168"
+    },
+    {
+      "id": "advanced-shanghanlun-high-06",
+      "cardId": "shanghan-clause-213",
+      "difficulty": "high",
+      "prompt": "하법 반응 뒤 원문이 요구하는 판단은?",
+      "context": "양명병 다한으로 진액이 밖으로 나가 위중조·대변경·섬어가 생겼다. 소승기탕을 한 번 복용한 뒤 섬어가 멎었다.",
+      "options": [
+        {
+          "text": "소승기에 반응하면 반드시 대승기로 강화",
+          "detail": "호전 반응 뒤 강화하는 자동 서열은 해당 원문에 없다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-213",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-06"
+        },
+        {
+          "text": "213조의 반복 투여 중지 조건",
+          "detail": "若一服譫語止者，更莫復服을 읽어 반응 뒤 같은 처방을 기계적으로 반복하지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-213",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-06"
+        },
+        {
+          "text": "섬어가 멎어도 원래 병명 때문에 반복",
+          "detail": "현증 반응을 확인하는 원문의 제한과 반대다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-213",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-06"
+        },
+        {
+          "text": "섬어가 멎으면 진액 손상이 전혀 없었다고 확정",
+          "detail": "증상 반응이 앞의 다한·위중조 병기 기록을 지우지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-213",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-06"
+        }
+      ],
+      "answer": 1,
+      "explanation": "213조 · 다한 뒤 대변경 — 若一服譫語止者，更莫復服을 읽어 반응 뒤 같은 처방을 기계적으로 반복하지 않는다.",
+      "kind": "advanced",
+      "category": "양명·공리",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-06",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-213"
+    },
+    {
+      "id": "advanced-shanghanlun-high-07",
+      "cardId": "shanghan-clause-316",
+      "difficulty": "high",
+      "prompt": "소음병의 통증·하리를 한열과 함께 읽은 처방은?",
+      "context": "316조: 복통·소변불리·사지침중동통·자리와 수기이다. 단순 하리보다 전체 조합을 본다.",
+      "options": [
+        {
+          "text": "도화탕",
+          "detail": "하리·소변불리는 겹치지만 307조의 농혈 조건과 316조의 침중·수기를 나누어야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-316",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-07"
+        },
+        {
+          "text": "백호탕",
+          "detail": "양명 기열·대갈 중심으로 제시한 수기·침중의 소음 틀과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-316",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-07"
+        },
+        {
+          "text": "진무탕",
+          "detail": "소음의 양허·수기 맥락에서 소변·사지·하리를 함께 읽는 온양화수의 분기다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-316",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-07"
+        },
+        {
+          "text": "황련아교탕",
+          "detail": "심번·불면의 소음 열화 맥락이며 이 조합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-316",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-07"
+        }
+      ],
+      "answer": 2,
+      "explanation": "316조 · 진무탕의 소음 수기 — 소음의 양허·수기 맥락에서 소변·사지·하리를 함께 읽는 온양화수의 분기다.",
+      "kind": "advanced",
+      "category": "소음·한열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-07",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-316"
+    },
+    {
+      "id": "advanced-shanghanlun-high-08",
+      "cardId": "shanghan-clause-303",
+      "difficulty": "high",
+      "prompt": "같은 소음병 안에서 열화·한화를 구별한 것은?",
+      "context": "303조는 2–3일 이상, 심중번·부득와의 불면을 중심으로 한다. 281조 제강의 단욕매와 비교한다.",
+      "options": [
+        {
+          "text": "281조와 완전히 같은 단욕매이므로 증후 변화 없음",
+          "detail": "졸림과 번조불면이라는 현재 증후 차이를 지웠다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-303",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-08"
+        },
+        {
+          "text": "손발이 차다는 제시만으로 통맥사역탕 확정",
+          "detail": "문제에는 317조의 하리청곡·리한외열 등이 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-303",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-08"
+        },
+        {
+          "text": "소음이라는 이름이면 황련은 원문에 나올 수 없음",
+          "detail": "소음 열화 조문과 한열 분기를 부정한 해석이다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-303",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-08"
+        },
+        {
+          "text": "303조 황련아교탕: 번조불면을 제강의 졸림과 구별",
+          "detail": "소음이라는 이름만으로 모두 냉감·졸림·사역탕 방향으로 처리하지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-303",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-08"
+        }
+      ],
+      "answer": 3,
+      "explanation": "303조 · 황련아교탕 — 소음이라는 이름만으로 모두 냉감·졸림·사역탕 방향으로 처리하지 않는다.",
+      "kind": "advanced",
+      "category": "소음·한열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-08",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-303"
+    },
+    {
+      "id": "advanced-shanghanlun-high-09",
+      "cardId": "shanghan-clause-318",
+      "difficulty": "high",
+      "prompt": "사역이라는 이름만으로 동일방으로 읽지 않은 것은?",
+      "context": "318조 사역산의 시호·작약·지실·감초를 부자·건강·감초의 사역탕과 비교한다.",
+      "options": [
+        {
+          "text": "사역산 기기 소통과 사역탕 회양의 구성을 구별",
+          "detail": "비슷한 이름·사지냉감에 한열·허실·배합의 다른 출발점을 붙인다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-318",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-09"
+        },
+        {
+          "text": "사역산은 사역탕에 시호만 추가",
+          "detail": "공통 이름을 구성의 단순 파생 관계로 잘못 읽었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-318",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-09"
+        },
+        {
+          "text": "두 방 모두 부자가 필수 원방 성분",
+          "detail": "사역산의 구성과 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-318",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-09"
+        },
+        {
+          "text": "두 방 모두 황련·아교 중심",
+          "detail": "소음 열화 처방의 약재를 사역 계열에 옮겼다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-318",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-09"
+        }
+      ],
+      "answer": 0,
+      "explanation": "318조 · 사역산 — 비슷한 이름·사지냉감에 한열·허실·배합의 다른 출발점을 붙인다.",
+      "kind": "advanced",
+      "category": "소음·한열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-09",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-318"
+    },
+    {
+      "id": "advanced-shanghanlun-high-10",
+      "cardId": "shanghan-clause-386",
+      "difficulty": "high",
+      "prompt": "물이 들어간 뒤 경과를 통해 수기불리를 읽은 것은?",
+      "context": "386조에서 갈증이 있지만 물을 마시면 토한다. “水逆”을 진액 부족의 음수 욕구와 비교한다.",
+      "options": [
+        {
+          "text": "수역은 모든 소음병에서만 나오는 제강 이름",
+          "detail": "해당 조문 문맥과 육경 제강을 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-386",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-10"
+        },
+        {
+          "text": "수역의 오령산 조건",
+          "detail": "갈증과 음수 후 구토를 함께 읽어 수분 수납·기화의 병리 맥락을 구별한다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-386",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-10"
+        },
+        {
+          "text": "갈증이므로 음수 후 구토 여부는 무관",
+          "detail": "같은 갈증을 가르는 치료 후·섭취 후 반응을 삭제했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-386",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-10"
+        },
+        {
+          "text": "구토가 있으면 모두 소시호탕",
+          "detail": "소양 시호증의 다른 단서 없이 구토 하나로 확정했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-386",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-10"
+        }
+      ],
+      "answer": 1,
+      "explanation": "386조 · 오령산과 이중환 — 갈증과 음수 후 구토를 함께 읽어 수분 수납·기화의 병리 맥락을 구별한다.",
+      "kind": "advanced",
+      "category": "태음·온법",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-10",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-386"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-01",
+      "cardId": "shanghan-clause-016",
+      "difficulty": "expert",
+      "prompt": "치료 뒤 두 사례를 현증으로 다시 나누는 판단은?",
+      "context": "태양병에 치료를 여러 번 시행했다. A는 과다 발한 뒤 심하계·욕득안, B는 누한·오풍·소변난·사지미급이다. 16조 수증치지와 후속 조문을 적용한다.",
+      "options": [
+        {
+          "text": "A 64조 계지감초탕 / B 20조 계지가부자탕",
+          "detail": "과거 태양병을 반복하지 않고 현증의 심계와 누한·온양 조건을 나누었다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-016",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-01"
+        },
+        {
+          "text": "A·B 모두 12조 계지탕을 과거 이름만으로 반복",
+          "detail": "16조는 현재 맥증과 오치 뒤 변화를 보라고 한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-016",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-01"
+        },
+        {
+          "text": "A 20조 / B 64조",
+          "detail": "발한 뒤라는 공통점에 가려 심계·욕안과 누한·사지미급을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-016",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-01"
+        },
+        {
+          "text": "A·B 모두 71조 오령산, 발한 뒤면 수기불리 확정",
+          "detail": "소변·갈증·맥증의 조건을 각 사례에 별도로 대조해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-016",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-01"
+        }
+      ],
+      "answer": 0,
+      "explanation": "16조 · 괴병과 수증치지 — 과거 태양병을 반복하지 않고 현증의 심계와 누한·온양 조건을 나누었다.",
+      "kind": "advanced",
+      "category": "오치·변증",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-01",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-016"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-02",
+      "cardId": "shanghan-clause-219",
+      "difficulty": "expert",
+      "prompt": "자한이 있는 합병에서 발한과 청열을 가르는 판단은?",
+      "context": "219조: 삼양합병·복만·신중·몸을 돌리기 어려움이 있지만 자한이 나온다. 조문은 “發汗則譫語”와 “若自汗出者，白虎湯主之”를 함께 둔다.",
+      "options": [
+        {
+          "text": "삼양합병이면 어떤 처방도 원문에 제시되지 않음",
+          "detail": "조문의 조건부 백호탕 분기를 지웠다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-219",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-02"
+        },
+        {
+          "text": "발한을 추가하지 않고 자한 분기의 백호탕을 읽음",
+          "detail": "복만 하나로 승기탕을 확정하거나 자한을 발한 적응증으로 바꾸지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-219",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-02"
+        },
+        {
+          "text": "자한은 더 발한해야 한다는 뜻이므로 마황탕",
+          "detail": "원문의 불가발한과 반대이며 자한의 의미를 잘못 읽었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-219",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-02"
+        },
+        {
+          "text": "복만이 있어 제시 조건과 무관하게 대승기탕",
+          "detail": "복만 외의 맥증·자한·합병 문맥을 생략했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-219",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-02"
+        }
+      ],
+      "answer": 1,
+      "explanation": "219조 · 삼양합병과 백호탕 — 복만 하나로 승기탕을 확정하거나 자한을 발한 적응증으로 바꾸지 않는다.",
+      "kind": "advanced",
+      "category": "양명·청열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-02",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-219"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-03",
+      "cardId": "shanghan-clause-229",
+      "difficulty": "expert",
+      "prompt": "양명편의 열·대변·흉협을 함께 읽은 치법은?",
+      "context": "229조는 조열이 있으나 대변은 묽고 소변은 정상이며 흉협만이 가시지 않는다. 양명이라는 이름과 조열 하나만으로 공하를 정하지 않는다.",
+      "options": [
+        {
+          "text": "소변 정상인데 오령산으로 이수",
+          "detail": "이 문제에는 소변불리의 수기불리 조건이 없다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-03"
+        },
+        {
+          "text": "대변당만 근거로 사역탕 회양",
+          "detail": "하리청곡·맥미·수족궐역 등 한화 조건 없이 한 증상으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-03"
+        },
+        {
+          "text": "남은 시호증의 화해: 소시호탕",
+          "detail": "대변당·소변자가능·흉협만불거의 조합은 이 조문에서 소시호탕으로 이어진다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-03"
+        },
+        {
+          "text": "조열만 근거로 대승기탕",
+          "detail": "양명편 안에서도 대변·흉협의 추가 조건이 공하와 화해를 가른다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-03"
+        }
+      ],
+      "answer": 2,
+      "explanation": "229조 · 조열이 있어도 시호증 — 대변당·소변자가능·흉협만불거의 조합은 이 조문에서 소시호탕으로 이어진다.",
+      "kind": "advanced",
+      "category": "소양·화해",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-03",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-229"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-04",
+      "cardId": "shanghan-clause-239",
+      "difficulty": "expert",
+      "prompt": "조시 해석과 원문에 없는 처방명 추론을 구별한 것은?",
+      "context": "239조는 5–6일 불대변·요제통·번조·시간을 두고 발작하는 양상을 조시(燥屎)로 설명한다. 시험자는 “이 조문에 대승기탕 주지가 직접 쓰였다”고 적었다.",
+      "options": [
+        {
+          "text": "조시이면 조문에 대승기탕이 반드시 적혀 있음",
+          "detail": "후속 해석을 원문에 있는 문장으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-04"
+        },
+        {
+          "text": "처방명이 없으므로 원문은 조시를 설명하지 않음",
+          "detail": "방명 미기재와 病理의 燥屎 설명은 서로 다른 사실이다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-04"
+        },
+        {
+          "text": "요제통이 있으므로 239조는 태음 시통 조문과 동일",
+          "detail": "병론·불대변·번조·조시 조건이 279조의 하법 뒤 복만시통과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-04"
+        },
+        {
+          "text": "조시의 병리 해석은 가능하지만 239조 자체에는 방명이 없음",
+          "detail": "현대 해설의 공리 연결과 원문에 처방명이 명시됐다는 주장을 분리해야 한다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-04"
+        }
+      ],
+      "answer": 3,
+      "explanation": "239조 · 제주통과 조시 — 원문은 조시(燥屎)를 설명하지만 이 조문 자체에는 방명이 없음이 핵심이다. 현대 해설의 공리 연결과 원문에 처방명이 명시됐다는 주장을 구분한다.",
+      "kind": "advanced",
+      "category": "양명·공리",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-04",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-239"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-05",
+      "cardId": "shanghan-clause-157",
+      "difficulty": "expert",
+      "prompt": "세 사심탕의 공통 비증에 추가 단서를 맞춘 것은?",
+      "context": "① 땀 뒤 심하비경·건애식취·협하수기·복중뇌명하리 ② 하리 빈번·곡불화·건구·심번 ③ 단만불통의 비를 비교한다.",
+      "options": [
+        {
+          "text": "① 생강사심탕 ② 감초사심탕 ③ 반하사심탕",
+          "detail": "수기·식취와 심한 위기 손상·하리, 일반 비의 세 독해축을 구별했다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-157",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-05"
+        },
+        {
+          "text": "① 감초사심탕 ② 생강사심탕 ③ 반하사심탕",
+          "detail": "③은 맞지만 157·158조의 추가 단서를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-157",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-05"
+        },
+        {
+          "text": "① 반하사심탕 ② 소함흉탕 ③ 생강사심탕",
+          "detail": "소결흉의 압통 조건이 없고 사심탕 세 방의 추가축이 어긋난다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-157",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-05"
+        },
+        {
+          "text": "① 대함흉탕 ② 감초사심탕 ③ 소시호탕",
+          "detail": "①의 비·수기와 대결흉 경통을 혼동하고 ③의 시호 부적합 조건을 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-157",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-05"
+        }
+      ],
+      "answer": 0,
+      "explanation": "157조 · 생강사심탕 — 수기·식취와 심한 위기 손상·하리, 일반 비의 세 독해축을 구별했다.",
+      "kind": "advanced",
+      "category": "결흉·비증",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-05",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-157"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-06",
+      "cardId": "shanghan-clause-279",
+      "difficulty": "expert",
+      "prompt": "279·280조의 복통과 허약 제한을 함께 적용한 것은?",
+      "context": "하법 뒤 태음의 복만·시통, 또는 대실통을 읽는다. 이어 맥약·작약과 대황을 감하는 280조를 대조한다.",
+      "options": [
+        {
+          "text": "280조는 맥약이면 작약·대황을 더 늘리라는 뜻",
+          "detail": "원문의 허약 관련 조절 방향과 반대이다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-279",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-06"
+        },
+        {
+          "text": "시통은 계지가작약, 대실통은 계지가대황의 분기이며 맥약이면 조절 제한도 확인",
+          "detail": "통증 정도만의 강도 서열로 끝내지 않고 허약·조문상 감량 조건을 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-279",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-06"
+        },
+        {
+          "text": "모든 복통은 대황을 같은 조건으로 유지",
+          "detail": "시통·대실통 분기와 맥약의 약재 조절 조건을 없앴다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-279",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-06"
+        },
+        {
+          "text": "시통에 대황, 대실통에 작약을 모두 제거",
+          "detail": "279조 두 처방 분기를 반대로 적용했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-279",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-06"
+        }
+      ],
+      "answer": 1,
+      "explanation": "279조 · 계지가작약탕과 가대황 — 통증 정도만의 강도 서열로 끝내지 않고 허약·조문상 감량 조건을 읽는다.",
+      "kind": "advanced",
+      "category": "태음·온중",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-06",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-279"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-07",
+      "cardId": "shanghan-clause-301",
+      "difficulty": "expert",
+      "prompt": "소음 초득 두 조문의 시간·증후·처방을 맞춘 것은?",
+      "context": "301조의 반발열·맥침과 302조의 2–3일·무리증을 비교한다. 이 문제는 원문의 분기 독해이다.",
+      "options": [
+        {
+          "text": "301 마황탕 / 302 계지탕, 맥침은 배제",
+          "detail": "소음이라는 틀과 부자 배합·맥침 조건을 삭제했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-301",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-07"
+        },
+        {
+          "text": "301·302 모두 황련아교탕, 무리증은 열화 뜻",
+          "detail": "무리증과 심번불면의 소음 열화 조건은 같지 않다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-301",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-07"
+        },
+        {
+          "text": "301 마황세신부자탕 / 302 마황부자감초탕의 미발한",
+          "detail": "같은 소음 초득이라도 제시 맥증·시간·무리증과 구성 차이를 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-301",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-07"
+        },
+        {
+          "text": "301 마황부자감초 / 302 마황세신부자",
+          "detail": "두 조문의 방명을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-301",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-07"
+        }
+      ],
+      "answer": 2,
+      "explanation": "301조 · 마황세신부자탕 — 같은 소음 초득이라도 제시 맥증·시간·무리증과 구성 차이를 읽는다.",
+      "kind": "advanced",
+      "category": "소음·한열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-07",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-301"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-08",
+      "cardId": "shanghan-clause-317",
+      "difficulty": "expert",
+      "prompt": "표면의 열·냉과 속의 병기를 동시에 읽은 것은?",
+      "context": "317조: 하리청곡·리한외열·수족궐역·맥미욕절. 350조: 맥활이궐·리유열을 비교한다.",
+      "options": [
+        {
+          "text": "둘 다 사지냉이므로 통맥사역탕",
+          "detail": "350조의 맥활·리유열 조건을 삭제했다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-317",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-08"
+        },
+        {
+          "text": "둘 다 열 언급이 있어 백호탕",
+          "detail": "317조의 리한외열·청곡·맥미를 실열로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-317",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-08"
+        },
+        {
+          "text": "317 백호탕 / 350 통맥사역탕",
+          "detail": "두 조문의 겉과 속 병기 해석을 거꾸로 놓았다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-317",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-08"
+        },
+        {
+          "text": "317 통맥사역탕 한화 / 350 백호탕 리열궐",
+          "detail": "밖의 열이나 사지냉 하나로 정하지 않고 하리·맥·리한리열의 조합을 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-317",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-08"
+        }
+      ],
+      "answer": 3,
+      "explanation": "317조 · 통맥사역탕 — 밖의 열이나 사지냉 하나로 정하지 않고 하리·맥·리한리열의 조합을 나눈다.",
+      "kind": "advanced",
+      "category": "소음·한열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-08",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-317"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-09",
+      "cardId": "shanghan-clause-338",
+      "difficulty": "expert",
+      "prompt": "같은 궐에 번조 시간 양상·식후 반응을 더한 감별은?",
+      "context": "338조: A는 맥미·궐·부냉·잠시도 안정되지 않는 번조, B는 안정되었다가 간헐 번조·식후 구토·회충 토출이다. 원문의 장궐과 회궐을 구별한다.",
+      "options": [
+        {
+          "text": "A 장궐 / B 회궐·오매환 연결",
+          "detail": "躁無暫安과 靜而復時煩·得食而嘔·吐蚘를 분리해 궐 하나로 오매환을 고정하지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-338",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-09"
+        },
+        {
+          "text": "A 회궐 / B 장궐",
+          "detail": "지속 번조와 간헐·식후 반응 및 토충의 방향을 반대로 읽었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-338",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-09"
+        },
+        {
+          "text": "A·B 모두 궐이므로 오매환",
+          "detail": "원문은 藏厥·非蚘厥와 蚘厥의 오매환 분기를 따로 둔다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-338",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-09"
+        },
+        {
+          "text": "B는 안정되는 때가 있으므로 원문상 궐과 무관",
+          "detail": "원문은 회궐의 靜而復時煩을 바로 감별 단서로 제시한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-338",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-09"
+        }
+      ],
+      "answer": 0,
+      "explanation": "338조 · 장궐·회궐과 오매환 — 躁無暫安과 靜而復時煩·得食而嘔·吐蚘를 분리해 궐 하나로 오매환을 고정하지 않는다.",
+      "kind": "advanced",
+      "category": "궐음·한열",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-09",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-338"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-10",
+      "cardId": "shanghan-clause-397",
+      "difficulty": "expert",
+      "prompt": "병후 두 방의 회복축과 현재 증후를 동시에 맞춘 것은?",
+      "context": "397조는 해후 허리소기·기역욕토, 393조는 병후 대병차후 노복의 지실치자탕을 비교한다. 문헌 분기 독해이다.",
+      "options": [
+        {
+          "text": "병후이므로 남은 열·구역·식욕은 감별에 쓰지 않음",
+          "detail": "병후에도 현재 남은 증후가 회복축의 선택 근거이다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-397",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-10"
+        },
+        {
+          "text": "397 죽엽석고탕의 여열·기음·위기축 / 393 지실치자의 노복 분기",
+          "detail": "둘 다 병후지만 현재 기역·허약과 노복 조건 및 배합을 따로 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-397",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-10"
+        },
+        {
+          "text": "둘 다 병후이므로 지실치자탕과 죽엽석고탕은 동일",
+          "detail": "시간 정보만으로 서로 다른 현재 증후·조성을 같게 만들었다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-397",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-10"
+        },
+        {
+          "text": "397은 항상 대승기탕 공하 / 393은 사역탕 회양",
+          "detail": "두 조문의 제시된 병후 조건·방명과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-397",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-10"
+        }
+      ],
+      "answer": 1,
+      "explanation": "397조 · 죽엽석고탕의 회복기 — 둘 다 병후지만 현재 기역·허약과 노복 조건 및 배합을 따로 읽는다.",
+      "kind": "advanced",
+      "category": "태양·비번",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-10",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-397"
     }
   ]
 }

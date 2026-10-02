@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261002-8';
+  const VERSION = '20261002-9';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
@@ -51,9 +51,9 @@
     const rank = c => words.every(w => c.title.toLowerCase().includes(w)) ? 0 : 1;
     return cards.sort((a, b) => rank(a) - rank(b));
   }
-  function filteredQuestions(deck, progress, category, query, wrongOnly, kind = '') {
+  function filteredQuestions(deck, progress, category, query, wrongOnly, kind = '', difficulty = '') {
     const ids = new Set(filteredCards(deck, progress, category, query, 'cards').map(c => c.id));
-    return deck.questions.filter(q => ids.has(q.cardId) && (!wrongOnly || progress.wrong.includes(q.id)) && (!kind || q.kind === kind));
+    return deck.questions.filter(q => ids.has(q.cardId) && (!wrongOnly || progress.wrong.includes(q.id)) && (!kind || q.kind === kind) && (!difficulty || (q.difficulty || 'basic') === difficulty));
   }
   function shuffle(items, random = Math.random) {
     const copy = items.slice();
@@ -117,7 +117,7 @@
     let progress = readProgress(storage);
     let subject = root.dataset.subject || new URLSearchParams(global.location.search).get('subject') || 'acupoints';
     if (!SUBJECTS[subject]) subject = 'acupoints';
-    let deck = null, mode = 'cards', index = 0, flipped = false, session = null, questionKind = '';
+    let deck = null, mode = 'cards', index = 0, flipped = false, session = null, questionKind = '', difficulty = '';
     const controls = node('div', undefined, {class: 'learning-controls'});
     const tabs = node('div', undefined, {class: 'learning-subjects', 'aria-label': '학습 과목'});
     for (const [id, title] of Object.entries(SUBJECTS)) {
@@ -209,7 +209,7 @@
       session = {questions, index: 0, answered: false, correct: 0}; render(); focusHeading();
     }
     function renderQuiz() {
-      const items = filteredQuestions(deck, progress, category.value, query.value, mode === 'wrong', questionKind);
+      const items = filteredQuestions(deck, progress, category.value, query.value, mode === 'wrong', questionKind, difficulty);
       if (!session) {
         {
           const kinds = node('select', undefined, {'aria-label': '문제 유형'});
@@ -218,10 +218,26 @@
             : subject === 'anatomy' ? [['', '전체 문제 유형'], ['fact', '부착·작용·연결·특징'], ['identify', '설명으로 구조 식별'], ['diagram', '도해로 구조 식별']]
             : (subject === 'shanghanlun' || subject === 'sasang') ? [['', '전체 문제 유형'], ['original', '원문·표지어 → 우리말 풀이'], ['interpretation', '조문·병증 해석'], ['treatment', '치법·처방 연결'], ...(subject === 'sasang' ? [['formula', '주요 처방 감별']] : []), ['case', '증례·배합 → 조문·병증 찾기']]
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
+          types.push(['advanced', '통합·감별 (상·극상)']);
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
-          kinds.addEventListener('change', () => { questionKind = kinds.value; render(); });
+          kinds.addEventListener('change', () => {
+            questionKind = kinds.value;
+            if (questionKind && questionKind !== 'advanced' && (difficulty === 'high' || difficulty === 'expert')) difficulty = '';
+            if (questionKind === 'advanced' && difficulty === 'basic') difficulty = '';
+            restart();
+          });
           stage.append(kinds);
+          const levels = node('select', undefined, {'aria-label': '문제 난이도'});
+          for (const [value, label] of [['', '전체 난이도'], ['basic', '기본'], ['high', '상'], ['expert', '극상']]) levels.append(node('option', label, {value}));
+          levels.value = difficulty;
+          levels.addEventListener('change', () => {
+            difficulty = levels.value;
+            if (difficulty === 'high' || difficulty === 'expert') questionKind = 'advanced';
+            else if (difficulty === 'basic' && questionKind === 'advanced') questionKind = '';
+            restart();
+          });
+          stage.append(levels, node('p', '상: 여러 단서·근접 감별 · 극상: 예외·조건 변화·복수 분류·출전 판단. 출제 의도에 따른 난이도입니다.', {class: 'learning-note'}));
         }
         if (!items.length) { empty(mode === 'wrong' ? '남아 있는 오답이 없습니다.' : '조건에 맞는 문제가 없습니다.'); return; }
         stage.append(node('h3', mode === 'wrong' ? '오답을 다시 꺼내 보세요' : '배운 내용을 확인해 보세요', {tabindex: '-1'}),
@@ -239,7 +255,7 @@
         return;
       }
       const q = session.questions[session.index];
-      stage.append(node('p', q.category + ' · ' + (session.index + 1) + ' / ' + session.questions.length, {class: 'learning-eyebrow'}),
+      stage.append(node('p', ({high: '상', expert: '극상'}[q.difficulty] || '기본') + ' · ' + q.category + ' · ' + (session.index + 1) + ' / ' + session.questions.length, {class: 'learning-eyebrow'}),
         node('h3', q.prompt, {tabindex: '-1'}));
       if (q.context) stage.append(node('p', q.context, {class: 'learning-prompt'}));
       if (q.diagram) stage.append(picture(q.diagram, subject === 'anatomy' ? '강조된 해부 구조를 식별하는 도해' : '붉은 점의 경혈을 맞히는 도해'));
@@ -259,11 +275,12 @@
       stage.append(options);
       if (session.answered) {
         const feedback = node('div', undefined, {class: 'learning-feedback', tabindex: '-1'});
-        feedback.append(node('strong', session.selected === q.answer ? '정답이에요.' : '다시 확인해 보세요. 정답은 ' + (q.answer + 1) + '번입니다.'), node('p', q.explanation), sourceLink(q.source));
-        const details = node('details'), summary = node('summary', '보기별 설명과 원문'); details.append(summary);
+        feedback.append(node('strong', session.selected === q.answer ? '정답이에요.' : '다시 확인해 보세요. 정답은 ' + (q.answer + 1) + '번입니다.'), node('p', q.explanation), sourceLink(q.source, q.kind === 'advanced' ? '이 문항의 전체 해설 →' : undefined));
+        if (q.relatedSource) feedback.append(sourceLink(q.relatedSource, '연결 학습 원문 →'));
+        const details = node('details'), summary = node('summary', q.kind === 'advanced' ? '정답 근거와 오답 감별' : '보기별 설명과 원문'); details.append(summary);
         q.options.forEach((option, i) => {
           const p = node('p', (i + 1) + '번 · ' + option.owner + ' — ' + (option.detail || option.text) + ' ');
-          p.append(sourceLink(option.source, '해당 원문 →')); details.append(p);
+          p.append(sourceLink(option.source, q.kind === 'advanced' ? '문항 해설 →' : '해당 원문 →')); details.append(p);
         });
         feedback.append(details); stage.append(feedback);
         stage.append(button(session.index + 1 === session.questions.length ? '결과 보기' : '다음 문제 →', () => { session.index += 1; session.answered = false; session.selected = undefined; render(); focusHeading(); }, {class: 'learning-primary'}));
@@ -316,7 +333,7 @@
     }
     async function load() {
       const seq = ++view.seq;
-      deck = null; session = null; index = 0; flipped = false; questionKind = '';
+      deck = null; session = null; index = 0; flipped = false; questionKind = ''; difficulty = '';
       stage.replaceChildren(); status.textContent = SUBJECTS[subject] + ' 자료를 불러오고 있습니다…';
       filters.setAttribute('inert', ''); stats.textContent = '';
       for (const b of tabs.children) b.setAttribute('aria-pressed', String(b.dataset.subject === subject));

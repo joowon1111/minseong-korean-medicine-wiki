@@ -136888,6 +136888,866 @@
       "kind": "identify",
       "prompt": "다음 해부학적 설명에 해당하는 구조는?",
       "context": "제1갈비뼈·갈비연골 경계에서 빗장뼈 아래면 계통으로 연결되며, 빗장뼈 하강·복장빗장관절 안정에 참여하는 구조"
+    },
+    {
+      "id": "advanced-anatomy-high-01",
+      "cardId": "anatomy-nerve-anterior-interosseous",
+      "difficulty": "high",
+      "prompt": "운동과 감각 소견을 함께 설명하는 손상 위치는?",
+      "context": "힘줄 파열은 배제했다. 엄지 IP·집게 DIP 굽힘과 회내방형근의 회내가 약하지만 손바닥 피부감각과 무지 대립은 보존된다.",
+      "options": [
+        {
+          "text": "전골간신경",
+          "detail": "장무지굴근·가쪽 심지굴근·회내방형근을 지배하고 피부감각가지는 없어 이 조합을 설명한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-anterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-high-01"
+        },
+        {
+          "text": "수근관 안 정중신경",
+          "detail": "수근관보다 몸쪽에서 갈라지는 전골간신경 근육은 보존되는 쪽이며 대립·손 감각이 영향을 받는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-anterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-high-01"
+        },
+        {
+          "text": "손목 척골신경",
+          "detail": "안쪽 심지굴근은 손목보다 몸쪽에서 지배받으며 엄지 IP 굽힘의 주된 신경도 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-anterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-high-01"
+        },
+        {
+          "text": "후골간신경",
+          "detail": "주로 폄근 계통으로 DIP 굽힘·회내방형근 약화와 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-anterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-high-01"
+        }
+      ],
+      "answer": 0,
+      "explanation": "전골간신경 — 장무지굴근·가쪽 심지굴근·회내방형근을 지배하고 피부감각가지는 없어 이 조합을 설명한다.",
+      "kind": "advanced",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#advanced-anatomy-high-01",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-anterior-interosseous"
+    },
+    {
+      "id": "advanced-anatomy-high-02",
+      "cardId": "anatomy-nerve-suprascapular",
+      "difficulty": "high",
+      "prompt": "두 근육과 보존된 근육을 연결하면 가장 적합한 신경은?",
+      "context": "극상근의 벌림 시작과 극하근의 바깥돌림이 약하다. 삼각근·소원근 기능과 어깨 가쪽 피부감각은 보존된다.",
+      "options": [
+        {
+          "text": "견갑배신경",
+          "detail": "능형근·견갑거근 계통으로 제시된 회전근개 조합이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-suprascapular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-02"
+        },
+        {
+          "text": "견갑상신경",
+          "detail": "극상근·극하근을 함께 지배하며 액와신경 계통 보존과 일치한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-suprascapular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-02"
+        },
+        {
+          "text": "액와신경",
+          "detail": "삼각근·소원근과 어깨 가쪽 감각 변화가 더 적합하다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-suprascapular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-02"
+        },
+        {
+          "text": "장흉신경",
+          "detail": "전거근 약화와 견갑골 내측연 들림이 중심이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-suprascapular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-02"
+        }
+      ],
+      "answer": 1,
+      "explanation": "견갑상신경 — 극상근·극하근을 함께 지배하며 액와신경 계통 보존과 일치한다.",
+      "kind": "advanced",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#advanced-anatomy-high-02",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-suprascapular"
+    },
+    {
+      "id": "advanced-anatomy-high-03",
+      "cardId": "anatomy-nerve-common-fibular",
+      "difficulty": "high",
+      "prompt": "인접 신경과 비교할 때 가장 적합한 손상은?",
+      "context": "비골 경부 부근 손상 뒤 발등굽힘·가쪽번짐이 함께 약하다. 발바닥굽힘과 후경골근을 이용한 안쪽번짐은 보존된다.",
+      "options": [
+        {
+          "text": "천비골신경 단독",
+          "detail": "가쪽번짐은 설명하지만 발등굽힘의 주 지배를 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-common-fibular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-03"
+        },
+        {
+          "text": "경골신경",
+          "detail": "발바닥굽힘·후경골근의 안쪽번짐 보존과 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-common-fibular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-03"
+        },
+        {
+          "text": "총비골신경",
+          "detail": "깊은·얕은 비골 가지의 운동이 함께 저하되고 경골신경 계통은 보존되는 조합이다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-common-fibular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-03"
+        },
+        {
+          "text": "심비골신경 단독",
+          "detail": "앞 구획은 설명하지만 얕은 비골신경의 가쪽번짐 약화까지 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-common-fibular",
+          "source": "/learning/anatomy/#advanced-anatomy-high-03"
+        }
+      ],
+      "answer": 2,
+      "explanation": "총비골신경 — 깊은·얕은 비골 가지의 운동이 함께 저하되고 경골신경 계통은 보존되는 조합이다.",
+      "kind": "advanced",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#advanced-anatomy-high-03",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-common-fibular"
+    },
+    {
+      "id": "advanced-anatomy-high-04",
+      "cardId": "anatomy-biceps-femoris",
+      "difficulty": "high",
+      "prompt": "기시·관절·신경을 모두 만족하는 것은?",
+      "context": "대퇴이두근의 짧은갈래를 긴갈래와 비교한다. 짧은갈래에 대한 올바른 조합 하나를 고르라.",
+      "options": [
+        {
+          "text": "좌골결절 기시·고관절 폄·총비골부분",
+          "detail": "총비골부분만 맞고 기시·관절 작용은 긴갈래와 섞였다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-biceps-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-04"
+        },
+        {
+          "text": "대퇴골 기시·고관절 폄·경골부분",
+          "detail": "기시는 맞지만 고관절을 지나지 않으며 신경 부분도 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-biceps-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-04"
+        },
+        {
+          "text": "좌골결절 기시·무릎 굽힘·경골부분",
+          "detail": "이는 긴갈래 쪽 조합으로 짧은갈래와 구별해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-biceps-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-04"
+        },
+        {
+          "text": "대퇴골 기시·무릎 굽힘·좌골신경 총비골부분",
+          "detail": "짧은갈래는 고관절을 지나지 않으며 총비골부분 지배라는 예외가 있다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-biceps-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-04"
+        }
+      ],
+      "answer": 3,
+      "explanation": "대퇴이두근 — 짧은갈래는 고관절을 지나지 않으며 총비골부분 지배라는 예외가 있다.",
+      "kind": "advanced",
+      "category": "근육 · 허벅지·무릎",
+      "source": "/learning/anatomy/#advanced-anatomy-high-04",
+      "relatedSource": "/learning/anatomy/#anatomy-biceps-femoris"
+    },
+    {
+      "id": "advanced-anatomy-high-05",
+      "cardId": "anatomy-flexor-digitorum-profundus",
+      "difficulty": "high",
+      "prompt": "굽힘 관절과 신경을 함께 구별한 설명은?",
+      "context": "천지굴근과 심지굴근을 비교한다. 심지굴근의 손가락별 신경지배를 포함해야 한다.",
+      "options": [
+        {
+          "text": "끝마디 굽힘·가쪽 전골간신경·안쪽 척골신경",
+          "detail": "심지굴근은 끝마디에 정지하며 집게·가운데와 반지·새끼 쪽 지배가 갈린다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-flexor-digitorum-profundus",
+          "source": "/learning/anatomy/#advanced-anatomy-high-05"
+        },
+        {
+          "text": "중간마디 굽힘·모든 갈래 척골신경",
+          "detail": "중간마디는 천지굴근의 정지이며 신경도 단일 척골 계통이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-flexor-digitorum-profundus",
+          "source": "/learning/anatomy/#advanced-anatomy-high-05"
+        },
+        {
+          "text": "끝마디 굽힘·모든 갈래 정중신경",
+          "detail": "정지·작용은 맞지만 안쪽 부분의 척골신경 지배를 빠뜨렸다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-flexor-digitorum-profundus",
+          "source": "/learning/anatomy/#advanced-anatomy-high-05"
+        },
+        {
+          "text": "중간마디 굽힘·가쪽 요골신경·안쪽 척골신경",
+          "detail": "폄근 신경을 굽힘근 지배에 섞었으며 정지도 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-flexor-digitorum-profundus",
+          "source": "/learning/anatomy/#advanced-anatomy-high-05"
+        }
+      ],
+      "answer": 0,
+      "explanation": "심지굴근 — 심지굴근은 끝마디에 정지하며 집게·가운데와 반지·새끼 쪽 지배가 갈린다.",
+      "kind": "advanced",
+      "category": "근육 · 팔·아래팔",
+      "source": "/learning/anatomy/#advanced-anatomy-high-05",
+      "relatedSource": "/learning/anatomy/#anatomy-flexor-digitorum-profundus"
+    },
+    {
+      "id": "advanced-anatomy-high-06",
+      "cardId": "anatomy-cricothyroid",
+      "difficulty": "high",
+      "prompt": "성대 기능과 신경 가지를 정확히 연결한 것은?",
+      "context": "윤상갑상근과 후윤상피열근의 기능을 나누어 읽는다.",
+      "options": [
+        {
+          "text": "긴장 증가: 설인신경 / 벌림: 미주신경 인두가지",
+          "detail": "후두근의 운동가지와 인두 계통을 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-cricothyroid",
+          "source": "/learning/anatomy/#advanced-anatomy-high-06"
+        },
+        {
+          "text": "긴장 증가: 위후두신경 바깥가지 / 벌림: 되돌이후두신경",
+          "detail": "윤상갑상근은 긴장 증가의 예외적 신경지배, 후윤상피열근은 성대 벌림을 맡는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-cricothyroid",
+          "source": "/learning/anatomy/#advanced-anatomy-high-06"
+        },
+        {
+          "text": "긴장 증가: 위후두신경 안쪽가지 / 벌림: 되돌이후두신경",
+          "detail": "위후두신경 안쪽가지는 주로 성문 위 감각이며 윤상갑상근 운동가지가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-cricothyroid",
+          "source": "/learning/anatomy/#advanced-anatomy-high-06"
+        },
+        {
+          "text": "긴장 증가: 되돌이후두신경 / 벌림: 위후두신경 바깥가지",
+          "detail": "두 근육의 운동신경을 반대로 연결했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-cricothyroid",
+          "source": "/learning/anatomy/#advanced-anatomy-high-06"
+        }
+      ],
+      "answer": 1,
+      "explanation": "윤상갑상근 — 윤상갑상근은 긴장 증가의 예외적 신경지배, 후윤상피열근은 성대 벌림을 맡는다.",
+      "kind": "advanced",
+      "category": "근육 · 입천장·인두·후두",
+      "source": "/learning/anatomy/#advanced-anatomy-high-06",
+      "relatedSource": "/learning/anatomy/#anatomy-cricothyroid"
+    },
+    {
+      "id": "advanced-anatomy-high-07",
+      "cardId": "anatomy-tissue-endomysium",
+      "difficulty": "high",
+      "prompt": "조직 규모에 맞는 층을 연결한 것은?",
+      "context": "세 개의 표본이 각각 근섬유 하나, 근섬유 다발 하나, 근육 전체를 둘러싼다.",
+      "options": [
+        {
+          "text": "근내막 → 근외막 → 근주막",
+          "detail": "다발과 근육 전체의 결합조직층을 뒤바꿨다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-tissue-endomysium",
+          "source": "/learning/anatomy/#advanced-anatomy-high-07"
+        },
+        {
+          "text": "깊은근막 → 근내막 → 근외막",
+          "detail": "깊은근막은 개별 근섬유를 직접 싸는 층이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-tissue-endomysium",
+          "source": "/learning/anatomy/#advanced-anatomy-high-07"
+        },
+        {
+          "text": "근내막 → 근주막 → 근외막",
+          "detail": "섬유·다발·근육 전체라는 규모가 차례로 커진다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-tissue-endomysium",
+          "source": "/learning/anatomy/#advanced-anatomy-high-07"
+        },
+        {
+          "text": "근주막 → 근내막 → 근외막",
+          "detail": "섬유 하나와 다발을 싸는 층을 뒤바꿨다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-tissue-endomysium",
+          "source": "/learning/anatomy/#advanced-anatomy-high-07"
+        }
+      ],
+      "answer": 2,
+      "explanation": "근내막 — 섬유·다발·근육 전체라는 규모가 차례로 커진다.",
+      "kind": "advanced",
+      "category": "근육 결합조직층",
+      "source": "/learning/anatomy/#advanced-anatomy-high-07",
+      "relatedSource": "/learning/anatomy/#anatomy-tissue-endomysium"
+    },
+    {
+      "id": "advanced-anatomy-high-08",
+      "cardId": "anatomy-vessel-portal-vein",
+      "difficulty": "high",
+      "prompt": "장기 환류 순서와 정맥 합류를 모두 설명하는 것은?",
+      "context": "일반적인 간문맥 형성과 간을 지난 혈액의 전신 정맥 귀환을 묻는다.",
+      "options": [
+        {
+          "text": "상장간막정맥·비장정맥 → 간정맥 → 간 → 문맥 → 하대정맥",
+          "detail": "문맥과 간정맥의 유입·유출을 거꾸로 놓았다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-vessel-portal-vein",
+          "source": "/learning/anatomy/#advanced-anatomy-high-08"
+        },
+        {
+          "text": "상장간막동맥·비장동맥 → 문맥 → 간정맥",
+          "detail": "문맥 형성에 정맥 대신 동맥 합류를 넣었다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-vessel-portal-vein",
+          "source": "/learning/anatomy/#advanced-anatomy-high-08"
+        },
+        {
+          "text": "상장간막정맥 → 하대정맥 → 문맥 → 간",
+          "detail": "소화관 환류가 먼저 간을 지나는 문맥 경로를 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-vessel-portal-vein",
+          "source": "/learning/anatomy/#advanced-anatomy-high-08"
+        },
+        {
+          "text": "상장간막정맥·비장정맥 → 문맥 → 간 → 간정맥 → 하대정맥",
+          "detail": "문맥 유입과 간정맥 유출을 구별한 일반 경로이다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-vessel-portal-vein",
+          "source": "/learning/anatomy/#advanced-anatomy-high-08"
+        }
+      ],
+      "answer": 3,
+      "explanation": "간문맥 — 문맥 유입과 간정맥 유출을 구별한 일반 경로이다.",
+      "kind": "advanced",
+      "category": "큰 정맥·폐순환",
+      "source": "/learning/anatomy/#advanced-anatomy-high-08",
+      "relatedSource": "/learning/anatomy/#anatomy-vessel-portal-vein"
+    },
+    {
+      "id": "advanced-anatomy-high-09",
+      "cardId": "anatomy-muscle-rectus-femoris",
+      "difficulty": "high",
+      "prompt": "두 관절과 근육 갈래를 연결한 설명은?",
+      "context": "넙다리네갈래근 중 대퇴직근과 광근 세 갈래의 차이를 묻는다.",
+      "options": [
+        {
+          "text": "대퇴직근은 고관절 굽힘·무릎 폄, 광근은 주로 무릎 폄",
+          "detail": "대퇴직근만 고관절까지 직접 지나 두 관절 작용을 갖는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-muscle-rectus-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-09"
+        },
+        {
+          "text": "대퇴직근은 고관절 폄·무릎 굽힘, 광근은 무릎 폄",
+          "detail": "뒤넙다리 계통의 동작을 대퇴직근에 붙였다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-muscle-rectus-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-09"
+        },
+        {
+          "text": "네 갈래 모두 고관절 굽힘·무릎 폄",
+          "detail": "광근 세 갈래는 고관절을 직접 지나지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-muscle-rectus-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-09"
+        },
+        {
+          "text": "광근만 고관절 굽힘, 대퇴직근은 무릎 폄만 수행",
+          "detail": "두 관절 근육과 단관절 갈래의 관계를 반대로 놓았다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-muscle-rectus-femoris",
+          "source": "/learning/anatomy/#advanced-anatomy-high-09"
+        }
+      ],
+      "answer": 0,
+      "explanation": "대퇴직근 — 대퇴직근만 고관절까지 직접 지나 두 관절 작용을 갖는다.",
+      "kind": "advanced",
+      "category": "근육 · 허벅지·무릎",
+      "source": "/learning/anatomy/#advanced-anatomy-high-09",
+      "relatedSource": "/learning/anatomy/#anatomy-muscle-rectus-femoris"
+    },
+    {
+      "id": "advanced-anatomy-high-10",
+      "cardId": "anatomy-tensor-veli-palatini",
+      "difficulty": "high",
+      "prompt": "인두·구개·혀 계통의 예외를 모두 맞춘 것은?",
+      "context": "구개범장근, 경상인두근, 구개설근을 순서대로 연결한다.",
+      "options": [
+        {
+          "text": "V3 → X → IX",
+          "detail": "구개범장근은 맞지만 경상인두근·구개설근을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-tensor-veli-palatini",
+          "source": "/learning/anatomy/#advanced-anatomy-high-10"
+        },
+        {
+          "text": "V3 → IX → X",
+          "detail": "구개범장근은 하악신경, 경상인두근은 설인신경, 구개설근은 미주신경 계통의 예외이다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-tensor-veli-palatini",
+          "source": "/learning/anatomy/#advanced-anatomy-high-10"
+        },
+        {
+          "text": "X → X → XII",
+          "detail": "일반적인 구개·인두·혀 근육 규칙을 예외 근육에 그대로 적용했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-tensor-veli-palatini",
+          "source": "/learning/anatomy/#advanced-anatomy-high-10"
+        },
+        {
+          "text": "VII → IX → XII",
+          "detail": "경상인두근만 맞으며 구개범장근·구개설근은 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-tensor-veli-palatini",
+          "source": "/learning/anatomy/#advanced-anatomy-high-10"
+        }
+      ],
+      "answer": 1,
+      "explanation": "구개범장근 — 구개범장근은 하악신경, 경상인두근은 설인신경, 구개설근은 미주신경 계통의 예외이다.",
+      "kind": "advanced",
+      "category": "근육 · 입천장·인두·후두",
+      "source": "/learning/anatomy/#advanced-anatomy-high-10",
+      "relatedSource": "/learning/anatomy/#anatomy-tensor-veli-palatini"
+    },
+    {
+      "id": "advanced-anatomy-expert-01",
+      "cardId": "anatomy-nerve-posterior-interosseous",
+      "difficulty": "expert",
+      "prompt": "단독 분지 손상이라는 가정에 가장 맞는 해석은?",
+      "context": "손가락 MCP 폄과 엄지 폄은 약하다. 손목 폄은 가능하지만 노쪽으로 치우치며 손등 노쪽 피부감각은 정상이다. 힘줄 손상은 없다.",
+      "options": [
+        {
+          "text": "후골간신경 손상과 일부 노측수근폄근 보존",
+          "detail": "피부감각 없는 깊은 운동계통 저하와 남은 손목 폄의 불균형을 함께 설명한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-posterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-01"
+        },
+        {
+          "text": "요골신경 표재가지 손상",
+          "detail": "표재가지의 감각 저하가 중심이므로 폄근 약화·감각 보존을 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-posterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-01"
+        },
+        {
+          "text": "겨드랑 수준 요골신경 전체 손상",
+          "detail": "광범위한 근육·감각 변화가 예상되어 일부 기능과 피부감각 보존이라는 단독 분지 가정과 덜 맞는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-posterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-01"
+        },
+        {
+          "text": "전골간신경 손상",
+          "detail": "엄지·집게 굽힘과 회내 계통의 신경이며 MCP 폄 저하의 조합이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-posterior-interosseous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-01"
+        }
+      ],
+      "answer": 0,
+      "explanation": "후골간신경 — 피부감각 없는 깊은 운동계통 저하와 남은 손목 폄의 불균형을 함께 설명한다.",
+      "kind": "advanced",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-01",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-posterior-interosseous"
+    },
+    {
+      "id": "advanced-anatomy-expert-02",
+      "cardId": "anatomy-nerve-long-thoracic",
+      "difficulty": "expert",
+      "prompt": "약해진 동작과 보존된 동작을 함께 설명하는 조합은?",
+      "context": "벽 밀기에서 견갑골 안쪽연이 들린다. 어깨 으쓱과 견갑골 모음은 가능하지만 팔을 머리 위로 올리는 견갑골 상방회전이 어렵다.",
+      "options": [
+        {
+          "text": "삼각근·액와신경 / 견갑골 고정근은 모두 정상",
+          "detail": "상완 벌림과 견갑골 흉벽 고정을 같은 동작으로 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-long-thoracic",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-02"
+        },
+        {
+          "text": "전거근·장흉신경 / 승모근·능형근은 상대적 보존",
+          "detail": "전거근의 흉벽 고정·상방회전 저하와 보존된 으쓱·모음 기능을 함께 설명한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-long-thoracic",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-02"
+        },
+        {
+          "text": "능형근·견갑배신경 / 전거근은 보존",
+          "detail": "능형근 약화라면 모음 보존을 핵심 단서로 쓰기 어렵다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-long-thoracic",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-02"
+        },
+        {
+          "text": "승모근·부신경 / 전거근은 보존",
+          "detail": "으쓱 보존과 벽 밀기 안쪽연 들림의 전형적 조합과 덜 맞는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-long-thoracic",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-02"
+        }
+      ],
+      "answer": 1,
+      "explanation": "장흉신경 — 전거근의 흉벽 고정·상방회전 저하와 보존된 으쓱·모음 기능을 함께 설명한다.",
+      "kind": "advanced",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-02",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-long-thoracic"
+    },
+    {
+      "id": "advanced-anatomy-expert-03",
+      "cardId": "anatomy-nerve-saphenous",
+      "difficulty": "expert",
+      "prompt": "내전근관 이후 두 구조의 경로를 정확히 분리한 것은?",
+      "context": "관 안의 대퇴동맥과 복재신경을 추적한다. 두 구조가 끝까지 함께 모음근구멍을 통과한다는 주장을 검토한다.",
+      "options": [
+        {
+          "text": "동맥은 안쪽 피부로, 복재신경은 슬와동맥으로 바뀜",
+          "detail": "혈관 명칭 연속과 감각신경의 경로를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-03"
+        },
+        {
+          "text": "관 안에는 복재신경이 없고 대퇴동맥만 있음",
+          "detail": "내전근관의 구성 자체를 잘못 전제했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-03"
+        },
+        {
+          "text": "동맥은 모음근구멍 뒤 슬와동맥, 복재신경은 구멍을 지나지 않고 안쪽으로 이탈",
+          "detail": "같은 관 안의 동행과 관 이후의 경로를 구분한 설명이다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-03"
+        },
+        {
+          "text": "동맥·복재신경 모두 모음근구멍 뒤 무릎 뒤로 주행",
+          "detail": "복재신경이 구멍을 통과하지 않는다는 핵심 차이를 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-03"
+        }
+      ],
+      "answer": 2,
+      "explanation": "복재신경 — 같은 관 안의 동행과 관 이후의 경로를 구분한 설명이다.",
+      "kind": "advanced",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-03",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-saphenous"
+    },
+    {
+      "id": "advanced-anatomy-expert-04",
+      "cardId": "anatomy-nerve-median",
+      "difficulty": "expert",
+      "prompt": "손목 병변의 위치를 가르는 가장 유용한 보존 소견은?",
+      "context": "수근관 내부의 정중신경만 압박된다는 가정이다. 다른 근위 병변과 구별하고자 한다.",
+      "options": [
+        {
+          "text": "무지 대립과 집게 끝마디 피부감각 보존이 반드시 생김",
+          "detail": "수근관 압박이 영향 줄 수 있는 운동·감각을 필수 보존으로 잘못 지정했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-median",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-04"
+        },
+        {
+          "text": "반지·새끼 DIP 굽힘 소실이 필수임",
+          "detail": "이는 주로 척골 계통이고 손목보다 근위에서 지배받아 단독 수근관 병변의 필수 소견이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-median",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-04"
+        },
+        {
+          "text": "모든 정중신경 근육과 피부영역의 동시 소실",
+          "detail": "분지 위치를 무시해 근위 정중신경 손상과 같게 해석했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-median",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-04"
+        },
+        {
+          "text": "무지구 피부감각과 엄지 IP 굽힘 보존",
+          "detail": "손바닥피부가지는 수근관 밖, 전골간신경은 근위 분지라 두 기능이 보존될 수 있다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-median",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-04"
+        }
+      ],
+      "answer": 3,
+      "explanation": "정중신경 — 손바닥피부가지는 수근관 밖, 전골간신경은 근위 분지라 두 기능이 보존될 수 있다.",
+      "kind": "advanced",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-04",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-median"
+    },
+    {
+      "id": "advanced-anatomy-expert-05",
+      "cardId": "anatomy-lumbricals-of-hand",
+      "difficulty": "expert",
+      "prompt": "손과 발의 분절별 신경지배를 동시에 맞춘 것은?",
+      "context": "각 충양근군의 기능은 몸쪽 관절 굽힘·마디관절 폄이라는 공통 틀로 제시한다. 신경지배의 경계만 비교하라.",
+      "options": [
+        {
+          "text": "손 제1–2 정중·제3–4 척골 / 발 제1 안쪽·제2–4 가쪽발바닥",
+          "detail": "손은 둘, 발은 하나가 앞쪽 묶음 신경이라는 예외를 구별했다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-lumbricals-of-hand",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-05"
+        },
+        {
+          "text": "손·발 모두 제1–2와 제3–4로 동일하게 분리",
+          "detail": "손의 경계를 발에 그대로 옮겼다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-lumbricals-of-hand",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-05"
+        },
+        {
+          "text": "손 모두 정중 / 발 모두 경골신경의 같은 종말가지",
+          "detail": "근위 신경 이름으로 끝내면 실제 손발 갈래의 차이가 사라진다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-lumbricals-of-hand",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-05"
+        },
+        {
+          "text": "손 제1 척골·나머지 정중 / 발 제1 가쪽·나머지 안쪽발바닥",
+          "detail": "각 근육군의 경계를 반대로 놓았다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-lumbricals-of-hand",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-05"
+        }
+      ],
+      "answer": 0,
+      "explanation": "손의 충양근군 — 손은 둘, 발은 하나가 앞쪽 묶음 신경이라는 예외를 구별했다.",
+      "kind": "advanced",
+      "category": "근육 · 손·아래팔",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-05",
+      "relatedSource": "/learning/anatomy/#anatomy-lumbricals-of-hand"
+    },
+    {
+      "id": "advanced-anatomy-expert-06",
+      "cardId": "anatomy-superior-oblique",
+      "difficulty": "expert",
+      "prompt": "안구 위치와 신경 예외를 함께 적용한 설명은?",
+      "context": "오른눈을 모은 상태에서 아래로 보는 운동이 특히 어렵다. 내직근의 모음은 가능하고 눈꺼풀 처짐·동공 변화는 없다. 단독 외안근 신경 손상을 가정한다.",
+      "options": [
+        {
+          "text": "하사근·동안신경 III",
+          "detail": "모은 눈의 상전에 기여하므로 제시한 아래보기 장애와 방향이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-superior-oblique",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-06"
+        },
+        {
+          "text": "상사근·활차신경 IV",
+          "detail": "모은 눈의 하전에서 상사근 비중이 커지며 다른 III 기능 보존과 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-superior-oblique",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-06"
+        },
+        {
+          "text": "하직근·동안신경 III 전체",
+          "detail": "벌린 눈의 하전 역할과 III 전체 손상 소견을 제시 사례와 섞었다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-superior-oblique",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-06"
+        },
+        {
+          "text": "외직근·외전신경 VI",
+          "detail": "주된 기능은 벌림이며 모은 눈의 하전 제한을 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-superior-oblique",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-06"
+        }
+      ],
+      "answer": 1,
+      "explanation": "상사근 — 모은 눈의 하전에서 상사근 비중이 커지며 다른 III 기능 보존과 맞는다.",
+      "kind": "advanced",
+      "category": "근육 · 눈·눈꺼풀",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-06",
+      "relatedSource": "/learning/anatomy/#anatomy-superior-oblique"
+    },
+    {
+      "id": "advanced-anatomy-expert-07",
+      "cardId": "anatomy-thyrohyoid",
+      "difficulty": "expert",
+      "prompt": "같은 경로를 빌린 섬유와 뇌신경 자체를 구별한 것은?",
+      "context": "설골 아래 근육에서 갑상설골근의 운동섬유를 추적한다. 설하신경과 동행한다는 사실을 출발점으로 해석하라.",
+      "options": [
+        {
+          "text": "목신경고리의 C2–C3만이 갑상설골근을 지배함",
+          "detail": "일반적인 설골 아래 지배 규칙을 C1 동행 예외에 적용했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-thyrohyoid",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-07"
+        },
+        {
+          "text": "V3가 설하신경 안으로 들어가 지배함",
+          "detail": "악설골근 계통의 V3를 갑상설골근과 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-thyrohyoid",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-07"
+        },
+        {
+          "text": "C1 섬유가 설하신경과 동행해 분지하며 설하신경 고유 운동섬유와 구별됨",
+          "detail": "동행 경로와 신경섬유의 기원을 구분한 예외이다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-thyrohyoid",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-07"
+        },
+        {
+          "text": "설하신경 고유섬유이므로 모든 설골 아래 근육도 XII임",
+          "detail": "동행을 고유 뇌신경 지배로 바꾸고 전체 근육으로 확장했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-thyrohyoid",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-07"
+        }
+      ],
+      "answer": 2,
+      "explanation": "갑상설골근 — 동행 경로와 신경섬유의 기원을 구분한 예외이다.",
+      "kind": "advanced",
+      "category": "근육 · 목·설골",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-07",
+      "relatedSource": "/learning/anatomy/#anatomy-thyrohyoid"
+    },
+    {
+      "id": "advanced-anatomy-expert-08",
+      "cardId": "anatomy-muscle-tibialis-posterior",
+      "difficulty": "expert",
+      "prompt": "기능 조합이 단독 총비골신경 손상보다 더 근위 문제를 시사하는 이유는?",
+      "context": "발등굽힘·가쪽번짐뿐 아니라 후경골근의 안쪽번짐도 약하다. 검사는 후경골근과 전경골근의 안쪽번짐을 구별했고 힘줄 손상은 없다.",
+      "options": [
+        {
+          "text": "후경골근도 총비골신경이므로 단독 손상이 확정됨",
+          "detail": "후경골근의 경골신경 지배를 잘못 적용했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-muscle-tibialis-posterior",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-08"
+        },
+        {
+          "text": "안쪽번짐은 하나의 근육만 하므로 근육 구별이 불필요함",
+          "detail": "전경골근과 후경골근은 서로 다른 신경 계통으로 같은 동작에 참여한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-muscle-tibialis-posterior",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-08"
+        },
+        {
+          "text": "가쪽번짐이 약하면 경골신경 단독 손상임",
+          "detail": "가쪽 구획은 주로 천비골신경 지배라 단독 경골신경만으로 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-muscle-tibialis-posterior",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-08"
+        },
+        {
+          "text": "후경골근은 경골신경 계통이어서 총비골 단독으로 세 동작을 설명하기 어려움",
+          "detail": "두 말초신경 계통의 근육을 함께 비교해야 하며 이 소견만으로 특정 신경근을 확정하지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-muscle-tibialis-posterior",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-08"
+        }
+      ],
+      "answer": 3,
+      "explanation": "후경골근 — 두 말초신경 계통의 근육을 함께 비교해야 하며 이 소견만으로 특정 신경근을 확정하지 않는다.",
+      "kind": "advanced",
+      "category": "근육 · 종아리·발뒤꿈치",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-08",
+      "relatedSource": "/learning/anatomy/#anatomy-muscle-tibialis-posterior"
+    },
+    {
+      "id": "advanced-anatomy-expert-09",
+      "cardId": "anatomy-vessel-axillary-artery",
+      "difficulty": "expert",
+      "prompt": "세 혈관의 경계 표지와 차례를 모두 맞춘 것은?",
+      "context": "팔로 가는 하나의 동맥 주간을 목에서 상완까지 추적한다. 가지 동맥과 혼동하지 않는다.",
+      "options": [
+        {
+          "text": "쇄골하동맥 → 제1갈비뼈 가쪽 → 액와동맥 → 대원근 아래 → 상완동맥",
+          "detail": "뼈·근육 경계에서 주간 명칭이 바뀌는 순서를 연결했다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-vessel-axillary-artery",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-09"
+        },
+        {
+          "text": "쇄골하동맥 → 대원근 아래 → 액와동맥 → 제1갈비뼈 가쪽 → 상완동맥",
+          "detail": "두 경계 표지를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-vessel-axillary-artery",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-09"
+        },
+        {
+          "text": "쇄골하동맥 → 쇄골 중앙 → 상완동맥 → 액와동맥",
+          "detail": "쇄골 중앙은 표준 명칭 경계가 아니며 액와·상완 순서도 틀렸다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-vessel-axillary-artery",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-09"
+        },
+        {
+          "text": "액와동맥 → 회선상완동맥 → 상완동맥",
+          "detail": "분지인 회선상완동맥을 주간 연속에 끼워 넣었다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-vessel-axillary-artery",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-09"
+        }
+      ],
+      "answer": 0,
+      "explanation": "액와동맥 — 뼈·근육 경계에서 주간 명칭이 바뀌는 순서를 연결했다.",
+      "kind": "advanced",
+      "category": "머리·목·상지 동맥",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-09",
+      "relatedSource": "/learning/anatomy/#anatomy-vessel-axillary-artery"
+    },
+    {
+      "id": "advanced-anatomy-expert-10",
+      "cardId": "anatomy-internal-anal-sphincter",
+      "difficulty": "expert",
+      "prompt": "배변 때 조직 유형과 기능 변화를 정확히 연결한 것은?",
+      "context": "내항문괄약근, 외항문괄약근, 치골직장근을 각각 고리·슬링으로 비교한다.",
+      "options": [
+        {
+          "text": "치골직장근은 항문올림근과 무관한 항문관 평활근 고리",
+          "detail": "직장 뒤 U자 골격근 슬링이라는 구조를 내괄약근과 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-internal-anal-sphincter",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-10"
+        },
+        {
+          "text": "내괄약근 평활근 이완 / 외괄약근 골격근 이완 / 치골직장근 슬링 이완",
+          "detail": "자동 조절과 수의 조절을 구분하면서 항문관 개방·직장항문각 변화에 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-internal-anal-sphincter",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-10"
+        },
+        {
+          "text": "셋 모두 평활근이므로 수의적 조절 요소가 없음",
+          "detail": "외괄약근과 치골직장근은 골격근 계통이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-internal-anal-sphincter",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-10"
+        },
+        {
+          "text": "내괄약근 골격근 / 외괄약근 평활근 / 치골직장근 수축으로 각이 완전히 펴짐",
+          "detail": "조직 유형이 반대이며 슬링의 이완과 각 변화도 잘못 연결했다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-internal-anal-sphincter",
+          "source": "/learning/anatomy/#advanced-anatomy-expert-10"
+        }
+      ],
+      "answer": 1,
+      "explanation": "내항문괄약근 — 자동 조절과 수의 조절을 구분하면서 항문관 개방·직장항문각 변화에 연결한다.",
+      "kind": "advanced",
+      "category": "근육 · 골반·회음",
+      "source": "/learning/anatomy/#advanced-anatomy-expert-10",
+      "relatedSource": "/learning/anatomy/#anatomy-internal-anal-sphincter"
     }
   ]
 }

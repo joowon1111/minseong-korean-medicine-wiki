@@ -51660,6 +51660,866 @@
       "kind": "diagram",
       "prompt": "도해의 붉은 점에 해당하는 경혈은?",
       "diagram": "/assets/learning/diagrams/face-nose-mouth.svg#CV24"
+    },
+    {
+      "id": "advanced-acupoints-high-01",
+      "cardId": "point-PC6",
+      "difficulty": "high",
+      "prompt": "같은 앞면 힘줄 사이에서 높이가 다른 두 혈을 정확히 비교한 것은?",
+      "context": "손바닥쪽 손목주름과 아래팔 앞면의 장장근·요측수근굴근힘줄 사이를 기준으로 한다.",
+      "options": [
+        {
+          "text": "PC7 주름 위 / PC6 주름 몸쪽 2 B-cun",
+          "detail": "같은 힘줄 사이 표지에 높이 차이를 결합했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-01"
+        },
+        {
+          "text": "PC6 주름 위 / PC7 몸쪽 2 B-cun",
+          "detail": "내관과 대릉의 높이를 반대로 놓았다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-01"
+        },
+        {
+          "text": "TE4 주름 위 / PC6 뒷면 몸쪽 2 B-cun",
+          "detail": "앞면 PC6과 뒷면 삼초경 표지를 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-01"
+        },
+        {
+          "text": "HT7 힘줄 사이 / PC6 척측수근굴근힘줄 자쪽",
+          "detail": "신문과 내관의 힘줄 표지를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-01"
+        }
+      ],
+      "answer": 0,
+      "explanation": "내관 PC6 — 같은 힘줄 사이 표지에 높이 차이를 결합했다.",
+      "kind": "advanced",
+      "category": "수궐음심포경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-01",
+      "relatedSource": "/acupuncture/points/pc6-neiguan/"
+    },
+    {
+      "id": "advanced-acupoints-high-02",
+      "cardId": "point-KI3",
+      "difficulty": "high",
+      "prompt": "복사 뒤와 아래를 함께 구별한 조합은?",
+      "context": "안쪽복사 주변 KI3·KI6, 가쪽복사 주변 BL60·BL62를 위치로 분류한다.",
+      "options": [
+        {
+          "text": "안쪽 아래: BL62 / 가쪽 아래: KI6",
+          "detail": "바로 아래라는 관계는 맞지만 복사 쪽이 반대다.",
+          "owner": "오답 감별",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-02"
+        },
+        {
+          "text": "뒤: KI3·BL60 / 아래: KI6·BL62",
+          "detail": "안쪽·가쪽이라는 축과 복사 뒤·아래라는 축을 함께 구분했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-02"
+        },
+        {
+          "text": "뒤: KI6·BL62 / 아래: KI3·BL60",
+          "detail": "복사 뒤와 바로 아래를 반대로 묶었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-02"
+        },
+        {
+          "text": "안쪽 뒤: BL60 / 가쪽 뒤: KI3",
+          "detail": "경맥 코드와 안쪽·가쪽을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-02"
+        }
+      ],
+      "answer": 1,
+      "explanation": "태계 KI3 — 안쪽·가쪽이라는 축과 복사 뒤·아래라는 축을 함께 구분했다.",
+      "kind": "advanced",
+      "category": "족소음신경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-02",
+      "relatedSource": "/acupuncture/points/ki3-taixi/"
+    },
+    {
+      "id": "advanced-acupoints-high-03",
+      "cardId": "point-ST37",
+      "difficulty": "high",
+      "prompt": "같은 선에서 기준점·높이·혈명을 맞춘 것은?",
+      "context": "ST35 독비부터 아래로 3·6·9 B-cun의 세 위치를 순서대로 찾는다.",
+      "options": [
+        {
+          "text": "ST37 상거허 → ST36 족삼리 → ST39 하거허",
+          "detail": "3·6 B-cun의 혈을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST37",
+          "source": "/learning/acupoints/#advanced-acupoints-high-03"
+        },
+        {
+          "text": "ST36 족삼리 → ST38 조구 → ST40 풍륭",
+          "detail": "조구·풍륭을 제시된 6·9촌 연속으로 대체할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST37",
+          "source": "/learning/acupoints/#advanced-acupoints-high-03"
+        },
+        {
+          "text": "ST36 족삼리 → ST37 상거허 → ST39 하거허",
+          "detail": "위경의 세 높이를 독비라는 같은 기준점에 연결했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST37",
+          "source": "/learning/acupoints/#advanced-acupoints-high-03"
+        },
+        {
+          "text": "ST36 족삼리 → ST39 하거허 → ST37 상거허",
+          "detail": "6·9 B-cun의 혈을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST37",
+          "source": "/learning/acupoints/#advanced-acupoints-high-03"
+        }
+      ],
+      "answer": 2,
+      "explanation": "상거허 ST37 — 위경의 세 높이를 독비라는 같은 기준점에 연결했다.",
+      "kind": "advanced",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-03",
+      "relatedSource": "/acupuncture/points/st37-shangjuxu/"
+    },
+    {
+      "id": "advanced-acupoints-high-04",
+      "cardId": "point-SP9",
+      "difficulty": "high",
+      "prompt": "안·가쪽과 뼈 표지를 동시에 맞춘 것은?",
+      "context": "무릎 아래의 음릉천과 양릉천을 이름에 의존하지 않고 비교한다.",
+      "options": [
+        {
+          "text": "SP9 종아리뼈머리 뒤 / GB34 정강뼈 안쪽관절융기 아래",
+          "detail": "두 혈의 뼈·면을 섞었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#advanced-acupoints-high-04"
+        },
+        {
+          "text": "SP9 정강뼈조면 앞 / GB34 무릎뼈 위",
+          "detail": "두 혈 모두의 핵심 뼈 표지에서 벗어난다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#advanced-acupoints-high-04"
+        },
+        {
+          "text": "두 혈 모두 정강뼈 안쪽관절융기 아래",
+          "detail": "양릉천의 가쪽 비골머리 표지를 삭제했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#advanced-acupoints-high-04"
+        },
+        {
+          "text": "SP9 정강뼈 안쪽관절융기 아래 / GB34 종아리뼈머리 앞먼쪽",
+          "detail": "경골·비골과 안쪽·가쪽의 표지를 정확히 분리했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#advanced-acupoints-high-04"
+        }
+      ],
+      "answer": 3,
+      "explanation": "음릉천 SP9 — 경골·비골과 안쪽·가쪽의 표지를 정확히 분리했다.",
+      "kind": "advanced",
+      "category": "족태음비경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-04",
+      "relatedSource": "/acupuncture/points/sp9-yinlingquan/"
+    },
+    {
+      "id": "advanced-acupoints-high-05",
+      "cardId": "point-LI5",
+      "difficulty": "high",
+      "prompt": "손목 뒷면 세 혈의 상대적 위치를 맞춘 것은?",
+      "context": "노쪽에서 자쪽으로 LI5·TE4·SI5를 비교한다.",
+      "options": [
+        {
+          "text": "코담배갑 / 손가락폄근힘줄 자쪽 오목 / 자뼈붓돌기·세모뼈 사이",
+          "detail": "노쪽·뒤중앙·자쪽을 구별한 위치 조합이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LI5",
+          "source": "/learning/acupoints/#advanced-acupoints-high-05"
+        },
+        {
+          "text": "자뼈붓돌기·세모뼈 사이 / 뒤중앙 / 코담배갑",
+          "detail": "LI5와 SI5의 노쪽·자쪽을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI5",
+          "source": "/learning/acupoints/#advanced-acupoints-high-05"
+        },
+        {
+          "text": "손바닥쪽 두 힘줄 사이 / 코담배갑 / 아킬레스힘줄 안쪽",
+          "detail": "앞손목·뒷손목·발목의 표지를 혼합했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI5",
+          "source": "/learning/acupoints/#advanced-acupoints-high-05"
+        },
+        {
+          "text": "세 혈 모두 손목 앞면 노쪽 오목",
+          "detail": "세 혈의 뒷면과 안가쪽 차이를 없앴다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI5",
+          "source": "/learning/acupoints/#advanced-acupoints-high-05"
+        }
+      ],
+      "answer": 0,
+      "explanation": "양계 LI5 — 노쪽·뒤중앙·자쪽을 구별한 위치 조합이다.",
+      "kind": "advanced",
+      "category": "수양명대장경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-05",
+      "relatedSource": "/acupuncture/points/li5/"
+    },
+    {
+      "id": "advanced-acupoints-high-06",
+      "cardId": "point-CV4",
+      "difficulty": "high",
+      "prompt": "배꼽 아래의 기준 구간과 상대 높이를 맞춘 것은?",
+      "context": "배꼽에서 두덩결합 위모서리까지 5 B-cun으로 놓는다. CV4와 CV3를 비교한다.",
+      "options": [
+        {
+          "text": "CV4 아래 3 cm / CV3 아래 4 cm",
+          "detail": "비례 단위 B-cun을 고정 cm로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV4",
+          "source": "/learning/acupoints/#advanced-acupoints-high-06"
+        },
+        {
+          "text": "CV4 아래 3 / CV3 아래 4 B-cun",
+          "detail": "CV3가 CV4보다 1 B-cun 더 아래이며 같은 아래쪽 기준 구간이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-CV4",
+          "source": "/learning/acupoints/#advanced-acupoints-high-06"
+        },
+        {
+          "text": "CV4 아래 4 / CV3 아래 3 B-cun",
+          "detail": "두 혈의 높이를 반대로 놓았다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV4",
+          "source": "/learning/acupoints/#advanced-acupoints-high-06"
+        },
+        {
+          "text": "CV4 위 3 / CV3 위 4 B-cun",
+          "detail": "배꼽 아래라는 방향을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV4",
+          "source": "/learning/acupoints/#advanced-acupoints-high-06"
+        }
+      ],
+      "answer": 1,
+      "explanation": "관원 CV4 — CV3가 CV4보다 1 B-cun 더 아래이며 같은 아래쪽 기준 구간이다.",
+      "kind": "advanced",
+      "category": "임맥",
+      "source": "/learning/acupoints/#advanced-acupoints-high-06",
+      "relatedSource": "/acupuncture/points/cv4-guanyuan/"
+    },
+    {
+      "id": "advanced-acupoints-high-07",
+      "cardId": "point-CV12",
+      "difficulty": "high",
+      "prompt": "두 복부 위치의 촌수를 해석하는 원칙은?",
+      "context": "CV12는 배꼽 위 4 B-cun, ST25는 배꼽 가쪽 2 B-cun이다.",
+      "options": [
+        {
+          "text": "두 혈 사이 거리는 언제나 2 B-cun",
+          "detail": "직교 축의 좌표를 단순히 빼서 두 혈 간 거리로 계산했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-high-07"
+        },
+        {
+          "text": "두 혈의 촌은 시술자 손가락으로만 측정",
+          "detail": "대상자의 비례 구간과 표준 위치 표지를 무시했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-high-07"
+        },
+        {
+          "text": "CV12는 위쪽 세로 구간, ST25는 가로 위치를 각각 적용",
+          "detail": "같은 배꼽 기준이어도 축과 기준 구간이 달라 세로 8촌을 가로에 옮기지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-high-07"
+        },
+        {
+          "text": "두 혈 모두 배꼽·칼돌기 구간의 8촌을 가로세로 동일 적용",
+          "detail": "세로 골도분촌 구간을 가로 좌표에도 그대로 쓰는 오류다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-high-07"
+        }
+      ],
+      "answer": 2,
+      "explanation": "중완 CV12 — 같은 배꼽 기준이어도 축과 기준 구간이 달라 세로 8촌을 가로에 옮기지 않는다.",
+      "kind": "advanced",
+      "category": "임맥",
+      "source": "/learning/acupoints/#advanced-acupoints-high-07",
+      "relatedSource": "/acupuncture/points/cv12-zhongwan/"
+    },
+    {
+      "id": "advanced-acupoints-high-08",
+      "cardId": "point-HT7",
+      "difficulty": "high",
+      "prompt": "손목 앞면 두 혈의 힘줄·뼈 표지를 맞춘 것은?",
+      "context": "HT7과 LU9를 자쪽·노쪽 표지에 연결한다.",
+      "options": [
+        {
+          "text": "HT7 노뼈붓돌기 옆 / LU9 척측수근굴근힘줄 자쪽",
+          "detail": "두 혈의 안가쪽과 힘줄 기준을 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-HT7",
+          "source": "/learning/acupoints/#advanced-acupoints-high-08"
+        },
+        {
+          "text": "HT7·LU9 모두 장장근·요측수근굴근힘줄 사이",
+          "detail": "PC6·PC7 표지를 다른 경맥 두 혈에 옮겼다.",
+          "owner": "오답 감별",
+          "ownerId": "point-HT7",
+          "source": "/learning/acupoints/#advanced-acupoints-high-08"
+        },
+        {
+          "text": "HT7 뒷손목 코담배갑 / LU9 자뼈붓돌기 뒤",
+          "detail": "앞손목 혈을 LI5·SI5 계통의 뒤 표지로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-HT7",
+          "source": "/learning/acupoints/#advanced-acupoints-high-08"
+        },
+        {
+          "text": "HT7 척측수근굴근힘줄 노쪽 / LU9 노뼈붓돌기·손배뼈 사이",
+          "detail": "신문의 힘줄 기준과 태연의 노쪽 뼈 사이 오목을 구별했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-HT7",
+          "source": "/learning/acupoints/#advanced-acupoints-high-08"
+        }
+      ],
+      "answer": 3,
+      "explanation": "신문 HT7 — 신문의 힘줄 기준과 태연의 노쪽 뼈 사이 오목을 구별했다.",
+      "kind": "advanced",
+      "category": "수소음심경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-08",
+      "relatedSource": "/acupuncture/points/ht7-shenmen/"
+    },
+    {
+      "id": "advanced-acupoints-high-09",
+      "cardId": "point-SP6",
+      "difficulty": "high",
+      "prompt": "복사 기준과 경골 모서리를 함께 맞춘 것은?",
+      "context": "삼음교 SP6와 현종 GB39는 각각 복사 위 3 B-cun으로 학습한다. 같은 높이 표현 외에 필요한 표지를 고르라.",
+      "options": [
+        {
+          "text": "SP6 안쪽복사·경골 안쪽모서리 뒤 / GB39 가쪽복사·비골 앞모서리 앞",
+          "detail": "같은 3촌이어도 출발 복사와 뼈·면이 서로 다르다.",
+          "owner": "정답 근거",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-09"
+        },
+        {
+          "text": "SP6 가쪽복사·비골 / GB39 안쪽복사·경골",
+          "detail": "두 혈의 안가쪽 뼈 기준을 뒤바꿨다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-09"
+        },
+        {
+          "text": "두 혈 모두 안쪽복사·아킬레스힘줄 사이",
+          "detail": "KI3 계통의 표지를 높이가 다른 두 혈에 붙였다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-09"
+        },
+        {
+          "text": "3 B-cun이면 복사와 뼈 구별 없이 같은 점",
+          "detail": "높이 정보만으로 서로 다른 면의 좌표를 같게 만들었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#advanced-acupoints-high-09"
+        }
+      ],
+      "answer": 0,
+      "explanation": "삼음교 SP6 — 같은 3촌이어도 출발 복사와 뼈·면이 서로 다르다.",
+      "kind": "advanced",
+      "category": "족태음비경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-09",
+      "relatedSource": "/acupuncture/points/sp6-sanyinjiao/"
+    },
+    {
+      "id": "advanced-acupoints-high-10",
+      "cardId": "point-LR3",
+      "difficulty": "high",
+      "prompt": "손·발과 뼈 사이 위치를 구별한 조합은?",
+      "context": "태충 LR3와 합곡 LI4의 표면 위치를 비교한다.",
+      "options": [
+        {
+          "text": "LR3 발목 안쪽복사 뒤 / LI4 손목 앞면 힘줄 사이",
+          "detail": "발등·손등을 발목·손목 위치로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LR3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-10"
+        },
+        {
+          "text": "LR3 발등 제1–2 중족골 사이 / LI4 손등 제2중수골 노쪽 중간",
+          "detail": "발과 손, 중족골과 중수골 및 표지를 각각 구분했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LR3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-10"
+        },
+        {
+          "text": "LR3 손등 제1–2중수골 사이 / LI4 발등 제2중족골 옆",
+          "detail": "사지와 뼈 이름을 서로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LR3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-10"
+        },
+        {
+          "text": "두 혈 모두 제1 중수골 손바닥쪽 중앙",
+          "detail": "발등 LR3와 손등 LI4를 동일 좌표로 만들었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LR3",
+          "source": "/learning/acupoints/#advanced-acupoints-high-10"
+        }
+      ],
+      "answer": 1,
+      "explanation": "태충 LR3 — 발과 손, 중족골과 중수골 및 표지를 각각 구분했다.",
+      "kind": "advanced",
+      "category": "족궐음간경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-10",
+      "relatedSource": "/acupuncture/points/lr3-taichong/"
+    },
+    {
+      "id": "advanced-acupoints-expert-01",
+      "cardId": "point-PC6",
+      "difficulty": "expert",
+      "prompt": "개인별 비례 계산과 힘줄 표지를 동시에 유지한 것은?",
+      "context": "교육용 측정에서 A의 팔꿈치주름–손바닥쪽 손목주름은 24 cm, B는 30 cm이다. 구간은 12 B-cun이다. PC6의 손목 위 2 B-cun을 계산한다.",
+      "options": [
+        {
+          "text": "A 4 cm·B 5 cm, 각각 앞면 두 힘줄 사이를 확인",
+          "detail": "2/12를 개인별 길이에 적용한 뒤 표면 표지를 결합한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-01"
+        },
+        {
+          "text": "A·B 모두 4 cm, 힘줄 사이",
+          "detail": "A의 비율을 B에게 고정 적용했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-01"
+        },
+        {
+          "text": "A 4 cm·B 5 cm, 뒷면 손가락폄근힘줄 옆",
+          "detail": "비례 계산은 맞지만 PC6의 앞면 표지가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-01"
+        },
+        {
+          "text": "A 12 cm·B 15 cm, 앞면 힘줄 사이",
+          "detail": "2 B-cun을 구간의 절반으로 잘못 해석했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-01"
+        }
+      ],
+      "answer": 0,
+      "explanation": "내관 PC6 — 2/12를 개인별 길이에 적용한 뒤 표면 표지를 결합한다.",
+      "kind": "advanced",
+      "category": "수궐음심포경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-01",
+      "relatedSource": "/acupuncture/points/pc6-neiguan/"
+    },
+    {
+      "id": "advanced-acupoints-expert-02",
+      "cardId": "point-CV12",
+      "difficulty": "expert",
+      "prompt": "위·아래 서로 다른 기준 구간을 적용한 계산은?",
+      "context": "교육용 체형에서 배꼽–칼돌기몸통 접합부는 20 cm(8 B-cun), 배꼽–두덩결합 위모서리는 15 cm(5 B-cun)이다. CV12와 CV4의 세로 위치를 계산한다.",
+      "options": [
+        {
+          "text": "CV12 위 4 cm·CV4 아래 3 cm",
+          "detail": "B-cun 숫자를 고정 cm 숫자로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-02"
+        },
+        {
+          "text": "CV12 위 10 cm·CV4 아래 9 cm",
+          "detail": "각각 4/8와 3/5를 다른 개인별 구간에 적용했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-02"
+        },
+        {
+          "text": "CV12 위 10 cm·CV4 아래 7.5 cm",
+          "detail": "위쪽 구간의 촌 길이를 아래쪽에도 적용했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-02"
+        },
+        {
+          "text": "CV12 아래 10 cm·CV4 위 9 cm",
+          "detail": "비율은 맞지만 배꼽 기준 방향을 모두 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-02"
+        }
+      ],
+      "answer": 1,
+      "explanation": "중완 CV12 — 각각 4/8와 3/5를 다른 개인별 구간에 적용했다.",
+      "kind": "advanced",
+      "category": "임맥",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-02",
+      "relatedSource": "/acupuncture/points/cv12-zhongwan/"
+    },
+    {
+      "id": "advanced-acupoints-expert-03",
+      "cardId": "point-ST39",
+      "difficulty": "expert",
+      "prompt": "독비 기준과 해계 기준의 보완 관계를 맞춘 것은?",
+      "context": "ST35–ST41 세로 기준은 16 B-cun이다. 같은 세로 축에서 ST36·ST37·ST39는 ST35 아래 3·6·9 B-cun이다. ST41에서 위로 환산하라.",
+      "options": [
+        {
+          "text": "ST36 7·ST37 10·ST39 13 B-cun",
+          "detail": "혈 순서가 아래로 갈수록 해계에 가까워져야 하는 관계를 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST39",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-03"
+        },
+        {
+          "text": "ST36 12·ST37 9·ST39 6 B-cun",
+          "detail": "기준 구간을 15촌으로 잘못 사용했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST39",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-03"
+        },
+        {
+          "text": "ST36 13·ST37 10·ST39 7 B-cun",
+          "detail": "각각 16에서 3·6·9를 빼며 혈 사이 간격은 그대로 유지한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST39",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-03"
+        },
+        {
+          "text": "ST36 3·ST37 6·ST39 9 B-cun",
+          "detail": "기준점을 아래로 옮겼지만 거리를 보완하지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST39",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-03"
+        }
+      ],
+      "answer": 2,
+      "explanation": "하거허 ST39 — 각각 16에서 3·6·9를 빼며 혈 사이 간격은 그대로 유지한다.",
+      "kind": "advanced",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-03",
+      "relatedSource": "/acupuncture/points/st39/"
+    },
+    {
+      "id": "advanced-acupoints-expert-04",
+      "cardId": "point-PC7",
+      "difficulty": "expert",
+      "prompt": "장장근이 없는 경우에도 유지해야 하는 위치 해석은?",
+      "context": "대상자에서 장장근힘줄이 보이지 않는다. 표준 문장의 두 힘줄 사이를 기계적으로 적용하기 어려운 상황이다.",
+      "options": [
+        {
+          "text": "없는 장장근힘줄을 가정하고 시술자 2촌만 적용",
+          "detail": "해부 변이와 대상자 기준을 모두 무시한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-04"
+        },
+        {
+          "text": "PC7을 TE4의 뒷손목 표지로 자동 대체",
+          "detail": "앞면의 대릉과 뒷면의 양지는 다른 좌표이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-04"
+        },
+        {
+          "text": "PC7을 HT7의 척측수근굴근힘줄 위치로 자동 이동",
+          "detail": "한 표지가 없다고 다른 경혈 위치로 옮기는 것은 표준 위치 해석이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-04"
+        },
+        {
+          "text": "요측수근굴근힘줄·앞면 손목주름과 표준 좌표를 확인하며 해부 변이를 반영",
+          "detail": "힘줄의 존재를 필수 전제로 고정하지 않고 다른 표지와 좌표로 보완한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-04"
+        }
+      ],
+      "answer": 3,
+      "explanation": "대릉 PC7 — 힘줄의 존재를 필수 전제로 고정하지 않고 다른 표지와 좌표로 보완한다.",
+      "kind": "advanced",
+      "category": "수궐음심포경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-04",
+      "relatedSource": "/acupuncture/points/pc7-daling/"
+    },
+    {
+      "id": "advanced-acupoints-expert-05",
+      "cardId": "point-BL60",
+      "difficulty": "expert",
+      "prompt": "이름·복사·상대면을 모두 보존한 수정은?",
+      "context": "학생이 “KI3는 안쪽복사 아래, KI6는 뒤; BL60은 가쪽복사 아래, BL62는 뒤”라고 적었다. 네 좌표를 한 번에 바로잡는다.",
+      "options": [
+        {
+          "text": "KI3·BL60은 복사와 아킬레스힘줄 사이 뒤, KI6·BL62는 각 복사 아래",
+          "detail": "안·가쪽은 유지하고 뒤·아래 축의 두 쌍을 바로잡았다.",
+          "owner": "정답 근거",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-05"
+        },
+        {
+          "text": "KI3·KI6를 모두 가쪽, BL60·BL62를 모두 안쪽으로 이동",
+          "detail": "원래 맞았던 안·가쪽 축까지 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-05"
+        },
+        {
+          "text": "네 혈 모두 각 복사 아래로 통일",
+          "detail": "뒤의 오목과 아래의 오목을 구별하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-05"
+        },
+        {
+          "text": "KI3·BL62는 뒤, KI6·BL60은 아래",
+          "detail": "안쪽만 바로잡고 가쪽 두 혈은 여전히 뒤바뀌었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-05"
+        }
+      ],
+      "answer": 0,
+      "explanation": "곤륜 BL60 — 안·가쪽은 유지하고 뒤·아래 축의 두 쌍을 바로잡았다.",
+      "kind": "advanced",
+      "category": "족태양방광경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-05",
+      "relatedSource": "/acupuncture/points/bl60-kunlun/"
+    },
+    {
+      "id": "advanced-acupoints-expert-06",
+      "cardId": "point-ST25",
+      "difficulty": "expert",
+      "prompt": "복부 가로선과 두 방향 위치를 함께 만족하는 조합은?",
+      "context": "배꼽 수평선에서 앞정중선, 가쪽 0.5 B-cun, 가쪽 2 B-cun의 세 좌표를 순서대로 찾는다. 수치와 선은 표준 표면 좌표이다.",
+      "options": [
+        {
+          "text": "CV4 관원 → KI3 태계 → ST36 족삼리",
+          "detail": "복부 수평선과 전혀 다른 높이·부위의 혈을 섞었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST25",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-06"
+        },
+        {
+          "text": "CV8 신궐 → KI16 황수 → ST25 천추",
+          "detail": "같은 배꼽 높이에서 임맥·신경·위경의 가로 좌표를 구별했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST25",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-06"
+        },
+        {
+          "text": "CV12 중완 → KI16 황수 → ST25 천추",
+          "detail": "CV12는 배꼽 위 4촌이라 첫 좌표의 높이가 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST25",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-06"
+        },
+        {
+          "text": "CV8 신궐 → ST25 천추 → KI16 황수",
+          "detail": "0.5·2촌의 신경·위경 순서를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST25",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-06"
+        }
+      ],
+      "answer": 1,
+      "explanation": "천추 ST25 — 같은 배꼽 높이에서 임맥·신경·위경의 가로 좌표를 구별했다.",
+      "kind": "advanced",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-06",
+      "relatedSource": "/acupuncture/points/st25-tianshu/"
+    },
+    {
+      "id": "advanced-acupoints-expert-07",
+      "cardId": "point-GB34",
+      "difficulty": "expert",
+      "prompt": "표면 뼈 표지와 인접 신경의 관계를 정확히 읽은 것은?",
+      "context": "GB34 위치를 종아리뼈머리 앞먼쪽 오목으로 확인했다. 이 표면 좌표로 심부 구조를 설명할 때의 판단을 묻는다.",
+      "options": [
+        {
+          "text": "혈의 표준 위치가 맞으면 신경 경로도 개인마다 동일",
+          "detail": "표면 좌표 표준화와 심부 구조 변이를 혼동했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-07"
+        },
+        {
+          "text": "GB34가 하합혈이므로 반드시 경골 안쪽에 있음",
+          "detail": "연결되는 부와 실제 비골머리 표지를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-07"
+        },
+        {
+          "text": "표면 위치와 비골 경부 주위 총비골신경을 별도로 대조",
+          "detail": "혈의 좌표를 확인해도 신경의 경로·층·개인 변이 평가가 따로 필요하다.",
+          "owner": "정답 근거",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-07"
+        },
+        {
+          "text": "GB34가 근회이므로 바로 아래 조직은 모두 근육임",
+          "detail": "전통 분류 이름은 해부학적 조직층 판정이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-07"
+        }
+      ],
+      "answer": 2,
+      "explanation": "양릉천 GB34 — 혈의 좌표를 확인해도 신경의 경로·층·개인 변이 평가가 따로 필요하다.",
+      "kind": "advanced",
+      "category": "족소양담경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-07",
+      "relatedSource": "/acupuncture/points/gb34-yanglingquan/"
+    },
+    {
+      "id": "advanced-acupoints-expert-08",
+      "cardId": "point-LU7",
+      "difficulty": "expert",
+      "prompt": "표리경 방향과 팔맥 짝을 혼동하지 않은 것은?",
+      "context": "LU7은 폐경 낙혈이며 팔맥교회혈이다. LI4와의 조합, KI6와의 조합을 각각 해석하라.",
+      "options": [
+        {
+          "text": "LI4+LU7: 임맥·음교맥 / LU7+KI6: 원락",
+          "detail": "두 조합의 분류 근거를 반대로 붙였다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-08"
+        },
+        {
+          "text": "두 조합 모두 폐경·대장경의 원락",
+          "detail": "KI6는 신경이고 폐경의 표리 대장경 낙혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-08"
+        },
+        {
+          "text": "LU7+KI6: 폐경·신경의 12정경 표리관계",
+          "detail": "팔맥교회 짝을 정경 표리 짝으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-08"
+        },
+        {
+          "text": "LI4+LU7: 원락 / LU7+KI6: 임맥·음교맥 짝",
+          "detail": "대장 원혈·폐 낙혈의 표리 구조와 기경 연결이라는 서로 다른 원리를 구별했다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LU7",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-08"
+        }
+      ],
+      "answer": 3,
+      "explanation": "열결 LU7 — 대장 원혈·폐 낙혈의 표리 구조와 기경 연결이라는 서로 다른 원리를 구별했다.",
+      "kind": "advanced",
+      "category": "수태음폐경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-08",
+      "relatedSource": "/acupuncture/points/lu7-lieque/"
+    },
+    {
+      "id": "advanced-acupoints-expert-09",
+      "cardId": "point-LI11",
+      "difficulty": "expert",
+      "prompt": "같은 장부의 연결과 실제 소속 경맥을 구별한 것은?",
+      "context": "대장경 합혈과 대장 하합혈을 비교한다. 표준 위치를 공부한 후 분류 정보를 추가한다.",
+      "options": [
+        {
+          "text": "LI11은 대장경 합혈, ST37은 위경 소속 대장 하합혈",
+          "detail": "하합혈의 소속 경맥과 연결되는 육부가 다를 수 있다는 예외다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LI11",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-09"
+        },
+        {
+          "text": "LI11·ST37 모두 대장경 소속",
+          "detail": "장부 연결을 경맥 소속과 같게 만들었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI11",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-09"
+        },
+        {
+          "text": "ST37은 위경이므로 위 하합혈",
+          "detail": "소속 경맥을 연결 장부에 그대로 대입했다. 위 하합혈은 ST36이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI11",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-09"
+        },
+        {
+          "text": "LI11은 대장 하합혈이고 ST37은 대장경 합혈",
+          "detail": "두 분류·소속을 거꾸로 연결했다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI11",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-09"
+        }
+      ],
+      "answer": 0,
+      "explanation": "곡지 LI11 — 하합혈의 소속 경맥과 연결되는 육부가 다를 수 있다는 예외다.",
+      "kind": "advanced",
+      "category": "수양명대장경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-09",
+      "relatedSource": "/acupuncture/points/li11-quchi/"
+    },
+    {
+      "id": "advanced-acupoints-expert-10",
+      "cardId": "point-LU9",
+      "difficulty": "expert",
+      "prompt": "다중 분류와 표준 위치의 서로 다른 질문을 정확히 구별한 것은?",
+      "context": "LU9를 손목 앞가쪽 표지로 찾았다. 이후 “오수혈·원혈·팔회혈” 순서로 속성을 기록한다.",
+      "options": [
+        {
+          "text": "수혈·폐 원혈·맥회이므로 모든 개인에서 동일 깊이",
+          "detail": "분류는 맞지만 표면 좌표·개인 해부와 자침 깊이를 혼동한 결론이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-10"
+        },
+        {
+          "text": "수혈(兪)·폐 원혈·맥회, 위치는 별도 뼈·힘줄 표지로 확인",
+          "detail": "세 분류는 겹칠 수 있고 어떤 조직을 찌르는가를 대신 결정하지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-10"
+        },
+        {
+          "text": "배수혈·폐 원혈·근회",
+          "detail": "오수혈 수와 배수혈을 혼동했고 맥회를 근회로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-10"
+        },
+        {
+          "text": "합혈·폐 낙혈·맥회",
+          "detail": "맥회만 맞고 오수 단계와 원락 구분이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-10"
+        }
+      ],
+      "answer": 1,
+      "explanation": "태연 LU9 — 세 분류는 겹칠 수 있고 어떤 조직을 찌르는가를 대신 결정하지 않는다.",
+      "kind": "advanced",
+      "category": "수태음폐경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-10",
+      "relatedSource": "/acupuncture/points/lu9-taiyuan/"
     }
   ]
 }
