@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261002-9';
+  const VERSION = '20261002-10';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
@@ -277,6 +277,8 @@
         const feedback = node('div', undefined, {class: 'learning-feedback', tabindex: '-1'});
         feedback.append(node('strong', session.selected === q.answer ? '정답이에요.' : '다시 확인해 보세요. 정답은 ' + (q.answer + 1) + '번입니다.'), node('p', q.explanation), sourceLink(q.source, q.kind === 'advanced' ? '이 문항의 전체 해설 →' : undefined));
         if (q.relatedSource) feedback.append(sourceLink(q.relatedSource, '연결 학습 원문 →'));
+        if (q.discriminator) feedback.append(node('p', '결정적 감별 단서: ' + q.discriminator));
+        if (Number.isInteger(q.nearestWrong)) feedback.append(node('p', '가장 가까운 오답: ' + (q.nearestWrong + 1) + '번 — ' + q.options[q.nearestWrong].detail));
         const details = node('details'), summary = node('summary', q.kind === 'advanced' ? '정답 근거와 오답 감별' : '보기별 설명과 원문'); details.append(summary);
         q.options.forEach((option, i) => {
           const p = node('p', (i + 1) + '번 · ' + option.owner + ' — ' + (option.detail || option.text) + ' ');
