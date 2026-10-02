@@ -109,6 +109,11 @@ def main():
         title = title_from(fm, body, p)
         plain = clean_markdown(body)
         keys = keyword_set(title, plain, fm)
+        # Deep study summaries exceed the body excerpt; all structure aliases remain searchable.
+        if p.relative_to(DOCS).as_posix() == "learning/anatomy.md":
+            deck = json.loads((DOCS / "assets/learning/anatomy.json").read_text())
+            keys = sorted(set(keys) | {c["title"] for c in deck["cards"]} |
+                          {alias for c in deck["cards"] for alias in c.get("aliases", [])})
 
         # 검색 품질을 위해 너무 짧은 문서도 유지하되, 텍스트는 충분히 수록한다.
         rows.append({

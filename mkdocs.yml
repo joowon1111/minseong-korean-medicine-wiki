@@ -8,11 +8,11 @@ extra_javascript:
   - assets/korean-search-185.js?v=20261002
   - assets/donguibogam/bootstrap.js
   - assets/acupoint-atlas/explorer.js
-  - assets/learning/learning.js?v=20261002-4
+  - assets/learning/learning.js?v=20261002-5
 extra_css:
 - assets/extra.css
 - assets/acupoint-atlas/explorer.css
-- assets/learning/learning.css?v=20261002-4
+- assets/learning/learning.css?v=20261002-5
 - stylesheets/portal.css
 - assets/korean-search-185.css
 - assets/donguibogam/reader.css

@@ -14,7 +14,7 @@ class StudentLearning(unittest.TestCase):
         cls.decks = study.build()
 
     def test_complete_decks_and_committed_build_agree(self):
-        expected = {'anatomy': 157, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
+        expected = {'anatomy': 302, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110}
         manifest = json.loads((study.OUT / 'manifest.json').read_text())
         for subject, deck in self.decks.items():
             self.assertEqual(len(deck['cards']), expected[subject])
@@ -68,7 +68,7 @@ class StudentLearning(unittest.TestCase):
     def test_anatomy_identification_and_layer_targets_are_unambiguous(self):
         deck = self.decks['anatomy']
         by_id = {c['id']: c for c in deck['cards']}
-        self.assertEqual(sum(c['anatomyKind'] == 'muscle' for c in deck['cards']), 50)
+        self.assertEqual(sum(c['anatomyKind'] == 'muscle' for c in deck['cards']), 90)
         self.assertEqual(sum(q['kind'] == 'diagram' for q in deck['questions']), 37)
         text = (study.DOCS / 'learning/anatomy.md').read_text()
         ns = '{http://www.w3.org/2000/svg}'
@@ -95,6 +95,27 @@ class StudentLearning(unittest.TestCase):
         self.assertEqual(set(layers), {'skin', 'subcutaneous', 'deep-fascia', 'epimysium', 'perimysium', 'endomysium', 'skeletal-muscle'})
         self.assertEqual(layers['perimysium'][0].attrib['r'], '45')
         self.assertEqual(layers['endomysium'][0].attrib['r'], '12')
+
+    def test_expanded_anatomy_preserves_depth_and_important_exceptions(self):
+        from collections import Counter
+        cards = {c['id']: c for c in self.decks['anatomy']['cards']}
+        self.assertEqual(Counter(c['anatomyKind'] for c in cards.values()),
+                         {'muscle': 90, 'nerve': 62, 'bone': 70, 'vessel': 45, 'tissue': 25, 'term': 10})
+        for c in cards.values():
+            if c['anatomyKind'] in ('muscle', 'nerve', 'bone', 'vessel'):
+                self.assertGreaterEqual(len(c['facts']), 4, c['id'])
+        self.assertIn('기시', {f['label'] for f in cards['anatomy-muscle-supraspinatus']['facts']})
+        self.assertIn('총비골부분', str(cards['anatomy-biceps-femoris']['facts']))
+        self.assertIn('척골신경', str(cards['anatomy-flexor-digitorum-profundus']['facts']))
+        self.assertIn('작은결절', str(cards['anatomy-subscapularis']['facts']))
+        self.assertIn('C2 뒤가지', str(cards['anatomy-nerve-greater-occipital']['facts']))
+        self.assertIn('피부감각가지는 없', str(cards['anatomy-nerve-anterior-interosseous']['facts']))
+        self.assertIn('목정맥구멍', str(cards['anatomy-cranial-accessory']['facts']))
+        self.assertIn('산소가 적은', str(cards['anatomy-vessel-pulmonary-arteries']['facts']))
+        self.assertIn('산소가 풍부한', str(cards['anatomy-vessel-pulmonary-veins']['facts']))
+        self.assertIn('상장간막정맥', str(cards['anatomy-vessel-portal-vein']['facts']))
+        self.assertNotIn('주상골', cards['anatomy-bone-navicular-foot']['aliases'])
+        self.assertNotIn('긴엄지폄근', cards['anatomy-extensor-hallucis-longus']['aliases'])
 
     def test_source_parser_does_not_mix_comparator_and_study_tables(self):
         cards = self.decks['acupuncture']['cards']
