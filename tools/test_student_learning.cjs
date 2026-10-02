@@ -103,6 +103,36 @@ function harness() {
   const settle = async () => { for(let i=0;i<8;i++) await Promise.resolve(); };
   return {root, loads, context, button, select, settle};
 }
+test('all seven subjects select advanced levels, explain answers and recover when switching to basic kinds', async () => {
+  for (const [subject, title, basicKind] of [
+    ['anatomy', '기초 해부학', 'fact'], ['acupoints', '경혈학', 'name'],
+    ['acupuncture', '침구학', 'fact'], ['herbs', '본초학', 'fact'],
+    ['formulas', '방제학', 'fact'], ['shanghanlun', '상한론', 'original'],
+    ['sasang', '사상의학', 'original']
+  ]) {
+    const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
+    const h = harness(); h.button(title).events.click();
+    h.loads.at(-1).resolve({ok: true, json: async () => d}); await h.settle();
+    h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+    for (const level of ['high', 'expert']) {
+      const levels = h.select('문제 난이도'); levels.value = level; levels.events.change();
+      assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 10문제')));
+    }
+    h.button('10문제 풀기').events.click();
+    const clue = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;
+    const q = d.questions.find(q => q.context === clue && q.difficulty === 'expert');
+    assert.ok(q, subject);
+    all(h.root).find(e => e.attrs['data-option'] === String((q.answer + 1) % 4)).events.click();
+    assert.ok(all(h.root).some(e => e.textContent === '정답 근거와 오답 감별'));
+    assert.ok(all(h.root).some(e => e.tagName === 'a' && e.attrs.href === q.relatedSource));
+    h.select('학습 방식').value = 'wrong'; h.select('학습 방식').events.change();
+    assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 1문제')));
+    h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+    const kinds = h.select('문제 유형'); kinds.value = basicKind; kinds.events.change();
+    assert.equal(h.select('문제 난이도').value, '');
+    assert.ok(h.button('10문제 풀기'));
+  }
+});
 test('subject switches ignore stale responses and a failed fetch can be retried', async () => {
   const h = harness(); h.button('본초학').events.click();
   assert.equal(h.loads.length, 2);

@@ -46,6 +46,11 @@ class StudentLearning(unittest.TestCase):
             for q in deck['questions']:
                 positions.add(q['answer'])
                 self.assertIn(by_id[q['cardId']]['title'], q['explanation'])
+                if q['kind'] == 'advanced':
+                    self.assertEqual(q['source'], '/learning/' + deck['subject'] + '/#' + q['id'])
+                    self.assertEqual(q['relatedSource'], by_id[q['cardId']]['source'])
+                    self.assertTrue(all(o['source'] == q['source'] and o['detail'] for o in q['options']))
+                    continue
                 for option in q['options']:
                     owner = by_id[option['ownerId']]
                     self.assertEqual(option['source'], owner['source'])
@@ -57,14 +62,14 @@ class StudentLearning(unittest.TestCase):
         for subject, count, cases in (('shanghanlun', 70, 36), ('sasang', 48, 24)):
             deck = self.decks[subject]
             self.assertEqual(len(deck['cards']), count)
-            self.assertEqual(len(deck['questions']), count * 3 + cases)
+            self.assertEqual(len(deck['questions']), count * 3 + cases + 20)
             for c in deck['cards']:
                 facts = {f['label']: f['value'] for f in c['facts']}
                 self.assertTrue({'우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
                 self.assertTrue('원문' in facts or '분류 표지어' in facts)
                 self.assertIn(c['id'], c['source'])
                 self.assertTrue(c['relatedSource'].startswith('/'))
-            self.assertEqual(Counter(q['cardId'] for q in deck['questions']),
+            self.assertEqual(Counter(q['cardId'] for q in deck['questions'] if q['kind'] != 'advanced'),
                              {c['id']: 4 if any(f['label'] == '증례 독해' for f in c['facts']) else 3 for c in deck['cards']})
             self.assertEqual(sum(q['kind'] == 'case' for q in deck['questions']), cases)
             self.assertTrue(all(q['context'] and all(o['detail'] for o in q['options']) for q in deck['questions']))
@@ -76,7 +81,7 @@ class StudentLearning(unittest.TestCase):
             body = re.search(r'^## .*?\{#' + fragment + r'\}\n(.*?)(?=^## |\Z)', text, re.M | re.S)[1]
             self.assertEqual(row['original'], ' '.join(re.findall(r'^> (.*)', body, re.M)))
         sasang = self.decks['sasang']
-        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24})
+        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 20})
         for key in ('soeum', 'soyang', 'taeeum', 'taeyang'):
             self.assertTrue(any(c['id'] == 'sasang-health-' + key for c in sasang['cards']))
         headings = [c for c in sasang['cards'] if c['id'].startswith('sasang-pattern-')]
@@ -139,7 +144,7 @@ class StudentLearning(unittest.TestCase):
             self.assertIn(f'id="{c["id"]}"', text)
             self.assertTrue(c['references'])
         for q in deck['questions']:
-            if q['kind'] == 'fact':
+            if q['kind'] in ('fact', 'advanced'):
                 continue
             self.assertEqual(q['acceptedAnswers'], by_id[q['cardId']]['aliases'])
             self.assertEqual(q['options'][q['answer']]['ownerId'], q['cardId'])
@@ -242,6 +247,35 @@ class StudentLearning(unittest.TestCase):
                 self.assertIn(c['source'], text)
                 for fact in c['facts']:
                     self.assertIn(fact['value'], text)
+
+    def test_advanced_banks_have_balanced_levels_and_complete_offline_explanations(self):
+        from collections import Counter
+        rows = json.loads((study.ROOT / 'data/advanced_learning.json').read_text())['questions']
+        self.assertEqual(len(rows), 140)
+        for subject, deck in self.decks.items():
+            questions = [q for q in deck['questions'] if q['kind'] == 'advanced']
+            self.assertEqual(Counter(q['difficulty'] for q in questions), {'high': 10, 'expert': 10})
+            self.assertEqual({q['answer'] for q in questions}, {0, 1, 2, 3})
+            text = (study.DOCS / 'learning' / (subject + '.md')).read_text()
+            self.assertEqual(text.count('<!-- ADVANCED_QUESTIONS_START -->'), 1)
+            for q in questions:
+                self.assertIn('id="' + q['id'] + '"', text)
+                self.assertIn(q['context'], text)
+                self.assertIn(f'**정답: {q["answer"] + 1}번**', text)
+                for o in q['options']:
+                    self.assertIn(o['text'], text)
+                    self.assertIn(o['detail'], text)
+            old = {q['id'] for q in deck['questions'] if q['kind'] != 'advanced'}
+            self.assertTrue(old.isdisjoint(q['id'] for q in questions))
+
+    def test_hard_classical_cases_keep_clause_numbers_and_source_claims_precise(self):
+        sh = {q['id']: q for q in self.decks['shanghanlun']['questions'] if q['kind'] == 'advanced'}
+        self.assertIn('更莫復服', sh['advanced-shanghanlun-high-06']['explanation'])
+        self.assertEqual(sh['advanced-shanghanlun-high-07']['cardId'], 'shanghan-clause-316')
+        q = sh['advanced-shanghanlun-expert-03']
+        self.assertIn('소시호탕', q['options'][q['answer']]['text'])
+        self.assertIn('방명이 없음', sh['advanced-shanghanlun-expert-04']['explanation'])
+        self.assertEqual(sh['advanced-shanghanlun-expert-09']['cardId'], 'shanghan-clause-338')
 
     def test_expansion_keeps_comparison_context_and_reverse_recall_unambiguous(self):
         points = [c for c in self.decks['acupuncture']['cards'] if c['id'].startswith('shu-point-')]

@@ -558,6 +558,10 @@ def validate(decks):
         for q in deck['questions']:
             assert q['cardId'] in cards and 0 <= q['answer'] < 4 and len(q['options']) == 4
             assert len({normalized(o['text']) for o in q['options']}) == 4, q['id']
+            if q['kind'] == 'advanced':
+                from advanced_learning import validate_advanced
+                validate_advanced(q)
+                continue
             for option in q['options']:
                 owner = cards[option['ownerId']]
                 assert option['source'] == owner['source'], q['id']
@@ -577,6 +581,10 @@ def build():
     from classical_learning import classical_deck
     for subject in ('shanghanlun', 'sasang'):
         decks[subject] = classical_deck(ROOT, subject, shuffled)
+    from advanced_learning import advanced_questions
+    advanced = advanced_questions(ROOT, decks)
+    for subject, questions in advanced.items():
+        decks[subject]['questions'].extend(questions)
     validate(decks)
     return decks
 
@@ -585,7 +593,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-8', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261002-9', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -595,8 +603,11 @@ def main():
         path = DOCS / 'learning' / (subject + '.md')
         if not path.exists():
             continue
-        # Only the directory block is generated. The study plan stays editorial.
+        # The authored study plan stays editorial; both question/directory blocks regenerate.
         text = path.read_text().split('<!-- STUDY_DIRECTORY_START -->')[0].rstrip()
+        from advanced_learning import START, END, static_questions
+        text = re.sub(re.escape(START) + r'.*?' + re.escape(END), '', text, flags=re.S).rstrip()
+        text += '\n\n' + static_questions([q for q in deck['questions'] if q['kind'] == 'advanced'])
         lines = ['\n\n<!-- STUDY_DIRECTORY_START -->', '## 전체 학습 요약과 원문 {#study-directory}',
                  f"{len(deck['cards'])}개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.", '']
         groups = defaultdict(list)
