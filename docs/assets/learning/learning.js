@@ -203,7 +203,7 @@
         stage.append(node('h3', mode === 'wrong' ? '오답을 다시 꺼내 보세요' : '배운 내용을 확인해 보세요', {tabindex: '-1'}),
           node('p', '현재 선택 범위 ' + items.length + '문제. 한 문제씩 풀고 정답과 보기별 원문을 확인합니다.'));
         const actions = node('div', undefined, {class: 'learning-actions'});
-        for (const count of [10, 20, 50]) actions.append(button(Math.min(count, items.length) + '문제 풀기', () => begin(items, count, false), {class: count === 10 ? 'learning-primary' : ''}));
+        for (const count of new Set([10, 20, 50].map(n => Math.min(n, items.length)))) actions.append(button(count + '문제 풀기', () => begin(items, count, false), {class: count === Math.min(10, items.length) ? 'learning-primary' : ''}));
         if (items.length > 50) actions.append(button('선택 범위 전체 풀기', () => begin(items, items.length, false)));
         if (mode === 'quiz') actions.append(button('오늘의 10문제', () => begin(items, 10, true)));
         stage.append(actions); return;

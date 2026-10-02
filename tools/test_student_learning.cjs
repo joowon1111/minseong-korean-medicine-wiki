@@ -109,3 +109,8 @@ test('understood review card removal does not skip the following card', async ()
   h.button('카드 뒤집기 · 답 확인').events.click();
   assert.ok(all(h.root).some(e => e.textContent === deck.cards[1].title));
 });
+test('a small selected range offers one quiz length without duplicate buttons', async () => {
+  const h = harness(); h.loads[0].resolve({ok:true, json:async() => ({...deck, cards:deck.cards.slice(0,1), questions:deck.questions.slice(0,1)})}); await h.settle();
+  h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+  assert.equal(all(h.root).filter(e => e.tagName === 'button' && e.textContent === '1문제 풀기').length, 1);
+});
