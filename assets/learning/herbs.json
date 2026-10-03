@@ -34617,6 +34617,366 @@
       "category": "청열",
       "source": "/learning/herbs/#advanced-herbs-expert-13",
       "relatedSource": "/herbs/coptis/"
+    },
+    {
+      "id": "advanced-herbs-high-14",
+      "cardId": "herb-astragalus",
+      "difficulty": "high",
+      "prompt": "보기 본초의 공통점과 추가 역할을 맞춘 것은?",
+      "context": "황기와 인삼 모두 보기 배합에 쓰인다. A는 보기승양·익위고표·이수소종, B는 대보원기·보비익폐·생진의 전통 효능을 강조한다.",
+      "options": [
+        {
+          "text": "A 인삼 / B 황기",
+          "detail": "둘 다 보기라는 공통점은 맞지만 제시한 추가 효능을 서로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#advanced-herbs-high-14"
+        },
+        {
+          "text": "A 황기 / B 백출",
+          "detail": "A는 맞고 백출도 건비 보기이지만 B의 대보원기·보비익폐·생진 묶음은 인삼의 설명이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#advanced-herbs-high-14"
+        },
+        {
+          "text": "A 복령 / B 인삼",
+          "detail": "B는 맞고 복령도 이수·건비를 하지만 A의 보기승양·익위고표 묶음은 황기와 구분된다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#advanced-herbs-high-14"
+        },
+        {
+          "text": "A 황기 / B 인삼",
+          "detail": "황기의 승양·고표·이수와 인삼의 원기·비폐·생진이라는 상대적 강조를 유지한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#advanced-herbs-high-14"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "discriminator": "보기라는 공통군 안에서 승양·고표·이수와 원기·비폐·생진의 묶음을 비교한다.",
+      "explanation": "황기(黃芪) — 두 본초의 모든 작용을 독점 영역으로 나누는 것이 아니라 카드의 대표 전통 역할을 감별한다.",
+      "kind": "advanced",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#advanced-herbs-high-14",
+      "relatedSource": "/herbs/astragalus/"
+    },
+    {
+      "id": "advanced-herbs-high-15",
+      "cardId": "herb-white-peony",
+      "difficulty": "high",
+      "prompt": "작약 두 종류의 상대적 역할을 맞춘 것은?",
+      "context": "A는 양혈렴음·유간지통·완급, B는 청열량혈·산어지통으로 정리했다. 통증 관련 역할은 공통이지만 배합 방향을 비교한다.",
+      "options": [
+        {
+          "text": "A 백작약 / B 당귀",
+          "detail": "A는 맞고 당귀도 혈·통증에 연결되지만 B의 청열량혈·산어 묶음은 적작약과 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#advanced-herbs-high-15"
+        },
+        {
+          "text": "A 당귀 / B 적작약",
+          "detail": "B는 맞고 당귀도 보혈·지통하지만 A의 렴음·유간·완급은 백작약의 대표 묶음이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#advanced-herbs-high-15"
+        },
+        {
+          "text": "A 백작약 / B 적작약",
+          "detail": "백작약의 양혈·수렴·완급과 적작약의 량혈·산어를 상대적 중심으로 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#advanced-herbs-high-15"
+        },
+        {
+          "text": "A 적작약 / B 백작약",
+          "detail": "작약이라는 공통점은 맞지만 양혈렴음과 청열량혈·산어의 강조를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#advanced-herbs-high-15"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "discriminator": "공통 지통축 안에서 양혈렴음·완급 대 청열량혈·산어.",
+      "explanation": "백작약(白芍) — 본초 이름에 작약이 있다는 이유로 기원·가공과 대표 배합 역할을 합치지 않는다.",
+      "kind": "advanced",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#advanced-herbs-high-15",
+      "relatedSource": "/herbs/white-peony/"
+    },
+    {
+      "id": "advanced-herbs-high-16",
+      "cardId": "herb-poria",
+      "difficulty": "high",
+      "prompt": "이수 본초 중 건비·안신을 함께 읽은 것은?",
+      "context": "이수삼습이 공통인 복령·택사를 비교한다. A는 건비·영심안신을 함께, B는 설열을 함께 설명한다.",
+      "options": [
+        {
+          "text": "A 의이인 / B 택사",
+          "detail": "B는 맞고 의이인도 이수·건비하지만 A의 영심안신까지 포함한 묶음은 복령을 가리킨다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#advanced-herbs-high-16"
+        },
+        {
+          "text": "A 복령 / B 택사",
+          "detail": "복령은 이수·건비·영심안신, 택사는 이수삼습·설열의 상대적 강조이다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#advanced-herbs-high-16"
+        },
+        {
+          "text": "A 택사 / B 복령",
+          "detail": "이수라는 공통점은 맞지만 건비·안신과 설열의 추가 역할을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#advanced-herbs-high-16"
+        },
+        {
+          "text": "A 복령 / B 백출",
+          "detail": "A는 맞고 백출도 건비조습·이수를 하지만 B의 설열 묶음은 택사의 설명과 구분된다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#advanced-herbs-high-16"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "discriminator": "이수삼습에 붙는 건비·영심안신 대 설열이라는 추가 역할.",
+      "explanation": "복령(茯苓) — 효능군 하나가 같더라도 처방 안에서 받치는 축이 다를 수 있다.",
+      "kind": "advanced",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#advanced-herbs-high-16",
+      "relatedSource": "/herbs/poria/"
+    },
+    {
+      "id": "advanced-herbs-high-17",
+      "cardId": "herb-perilla-leaf",
+      "difficulty": "high",
+      "prompt": "비슷한 해표 본초를 한열·관중으로 구분한 것은?",
+      "context": "A는 신온·해표산한과 행기관중을, B는 신량·소산풍열과 청리두목·이인을 강조한다. 자소엽·박하·생강을 가까운 보기로 비교한다.",
+      "options": [
+        {
+          "text": "A 자소엽 / B 박하",
+          "detail": "자소엽의 온성 해표·관중과 박하의 량성 풍열·두목·인후 묶음이 일치한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-perilla-leaf",
+          "source": "/learning/herbs/#advanced-herbs-high-17"
+        },
+        {
+          "text": "A 박하 / B 자소엽",
+          "detail": "둘 다 해표·기 소통 역할은 있으나 제시한 한열과 대표 동반 효능을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-perilla-leaf",
+          "source": "/learning/herbs/#advanced-herbs-high-17"
+        },
+        {
+          "text": "A 생강 / B 박하",
+          "detail": "B는 맞고 생강도 온성 해표·위기 조절이 있지만 A는 자소엽 카드의 해표산한·행기관중 묶음이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-perilla-leaf",
+          "source": "/learning/herbs/#advanced-herbs-high-17"
+        },
+        {
+          "text": "A 자소엽 / B 건강",
+          "detail": "A는 맞지만 건강은 온중·온화한음 계통이며 신량 풍열·청리두목·이인의 B와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-perilla-leaf",
+          "source": "/learning/herbs/#advanced-herbs-high-17"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "discriminator": "신온·행기관중 대 신량·청리두목·이인을 함께 본다.",
+      "explanation": "자소엽(紫蘇葉) — 해표라는 공통 이름에서 멈추지 않고 성미와 동반 역할을 연결한다.",
+      "kind": "advanced",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#advanced-herbs-high-17",
+      "relatedSource": "/herbs/perilla-leaf/"
+    },
+    {
+      "id": "advanced-herbs-expert-14",
+      "cardId": "herb-schisandra",
+      "difficulty": "expert",
+      "prompt": "같은 수렴 본초가 두 처방에서 맡는 역할을 맞춘 것은?",
+      "context": "오미자가 생맥산과 소청룡탕에 모두 들어간다. 전자는 인삼·맥문동과 기음·진액축, 후자는 마황·계지·세신과 건강·반하의 외한·내음축을 가진다.",
+      "options": [
+        {
+          "text": "두 처방 모두 오미자를 근거로 기음양허 배합으로 분류",
+          "detail": "수렴 본초가 공통인 점은 맞지만 소청룡탕의 외한·내음과 발산·온화음 골격이 사라진다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-schisandra",
+          "source": "/learning/herbs/#advanced-herbs-expert-14"
+        },
+        {
+          "text": "생맥산은 발산 조절 / 소청룡탕은 기음·진액 수렴",
+          "detail": "두 역할 자체는 각 처방에서 읽을 수 있지만 처방 골격과의 연결을 반대로 했다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-schisandra",
+          "source": "/learning/herbs/#advanced-herbs-expert-14"
+        },
+        {
+          "text": "두 처방 모두 오미자를 근거로 청열 배합으로 분류",
+          "detail": "진액 관련 역할을 본 점은 일부 겹치지만 수렴을 청열과 동일시하고 두 처방의 다른 축을 누락했다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-schisandra",
+          "source": "/learning/herbs/#advanced-herbs-expert-14"
+        },
+        {
+          "text": "생맥산은 기음·진액 수렴 / 소청룡탕은 폐기 수렴으로 발산 조절",
+          "detail": "오미자의 수렴 역할을 각각의 보기·양음과 발산·온화음이라는 전체 구조에 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-schisandra",
+          "source": "/learning/herbs/#advanced-herbs-expert-14"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "discriminator": "동일 약재의 역할을 보기·양음 골격과 발산·온화음 골격에 각각 연결한다.",
+      "explanation": "오미자(五味子) — 한 약재의 이름으로 처방 전체의 한열·허실을 정하지 않는다.",
+      "kind": "advanced",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#advanced-herbs-expert-14",
+      "relatedSource": "/herbs/schisandra/"
+    },
+    {
+      "id": "advanced-herbs-expert-15",
+      "cardId": "herb-schizonepeta",
+      "difficulty": "expert",
+      "prompt": "동일 약명에 가공 상태가 다른 기록을 비교한 것은?",
+      "context": "자료 A는 형개의 발표산풍·투진·소창을 설명하고, 자료 B는 형개 초탄품의 지혈 방향을 설명한다. 원료 부위·가공 규격은 확인 중이다.",
+      "options": [
+        {
+          "text": "동일 약명이라 B의 지혈을 A의 주효능으로 옮김",
+          "detail": "약명은 같지만 가공 상태에 따른 전통 역할의 구분을 지운다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-schizonepeta",
+          "source": "/learning/herbs/#advanced-herbs-expert-15"
+        },
+        {
+          "text": "발표 역할이 있어 B의 가공 표기를 제외해 비교",
+          "detail": "기본 효능은 기록하지만 초탄품이라는 핵심 가공 정보와 지혈 문맥이 사라진다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-schizonepeta",
+          "source": "/learning/herbs/#advanced-herbs-expert-15"
+        },
+        {
+          "text": "약명 외에 부위·초탄 여부·규격을 나누어 역할 비교",
+          "detail": "형개 카드가 구분한 기본 발표 역할과 초탄 시 지혈 방향을 보존하고 실제 원료·가공 상태를 확인한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-schizonepeta",
+          "source": "/learning/herbs/#advanced-herbs-expert-15"
+        },
+        {
+          "text": "초탄 여부만 같으면 부위·규격을 합쳐 비교",
+          "detail": "가공 확인은 필요하지만 부위와 실제 가공 규격도 달라질 수 있어 한 조건만으로 동일 원료가 되지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-schizonepeta",
+          "source": "/learning/herbs/#advanced-herbs-expert-15"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "discriminator": "초탄이라는 가공 상태와 그에 연결된 지혈 방향을 별도로 보존한다.",
+      "explanation": "형개(荊芥) — 전통 효능 비교와 실제 제품의 원료·가공 규격 비교를 함께 하되 같은 것으로 단정하지 않는다.",
+      "kind": "advanced",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#advanced-herbs-expert-15",
+      "relatedSource": "/herbs/schizonepeta/"
+    },
+    {
+      "id": "advanced-herbs-expert-16",
+      "cardId": "herb-corydalis",
+      "difficulty": "expert",
+      "prompt": "현호색의 역할을 두 처방의 한열·기혈축에 연결한 것은?",
+      "context": "현호색은 활혈산어·행기지통으로 정리된다. A 소복축어탕에는 건강·육계의 온경축, B 조경종옥탕에는 향부자·진피 등의 이기축이 함께 제시되었다.",
+      "options": [
+        {
+          "text": "A의 현호색은 청열 / B의 현호색은 보혈로 기록",
+          "detail": "처방 안 역할을 나누려는 점은 맞지만 카드의 활혈산어·행기지통을 제시되지 않은 대표 효능으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-corydalis",
+          "source": "/learning/herbs/#advanced-herbs-expert-16"
+        },
+        {
+          "text": "A 온경·활혈지통 / B 이기·월경 관련 배합에서 역할 비교",
+          "detail": "현호색의 공통 기혈 지통과 A의 온경·B의 이기 골격을 각각 문헌 문맥으로 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-corydalis",
+          "source": "/learning/herbs/#advanced-herbs-expert-16"
+        },
+        {
+          "text": "현호색이 공통이므로 두 처방을 같은 온경방으로 분류",
+          "detail": "지통 본초는 공유하지만 B의 전체 골격·한열을 A의 온경 약재만으로 정할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-corydalis",
+          "source": "/learning/herbs/#advanced-herbs-expert-16"
+        },
+        {
+          "text": "현호색이 공통이므로 두 처방을 같은 보기방으로 분류",
+          "detail": "월경 문맥은 겹칠 수 있으나 현호색은 보기의 근거가 아니며 공통 기혈 지통축을 놓친다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-corydalis",
+          "source": "/learning/herbs/#advanced-herbs-expert-16"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "discriminator": "공통 활혈·행기지통을 온경과 이기라는 각 처방의 동반 축에 연결한다.",
+      "explanation": "현호색(玄胡索) — 같은 본초 포함 여부보다 전체 배합과 문헌이 제시한 병기를 먼저 확인한다.",
+      "kind": "advanced",
+      "category": "활혈·거풍습",
+      "source": "/learning/herbs/#advanced-herbs-expert-16",
+      "relatedSource": "/herbs/corydalis/"
+    },
+    {
+      "id": "advanced-herbs-expert-17",
+      "cardId": "herb-alisma",
+      "difficulty": "expert",
+      "prompt": "택사의 역할과 제형 비교를 동시에 지킨 기록은?",
+      "context": "오령산의 산제 문헌과 같은 방명 탕제 자료를 비교한다. 둘 다 택사가 있지만 약재 비율·실제 원료 규격·추출 조건은 다르며, 저령탕에는 아교·활석이 더해진다.",
+      "options": [
+        {
+          "text": "택사의 이수축은 비교하되 제형·규격과 저령탕 양음축을 구분",
+          "detail": "공통 택사 역할을 남기고 산제·탕제의 조성과 추출 차이, 저령탕의 아교·활석 동반축을 따로 확인한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-alisma",
+          "source": "/learning/herbs/#advanced-herbs-expert-17"
+        },
+        {
+          "text": "택사 함량만 맞춰 산제·탕제 전체를 동등하게 비교",
+          "detail": "택사 확인은 필요하지만 다른 약재 비율과 추출·제형 차이를 해결하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-alisma",
+          "source": "/learning/herbs/#advanced-herbs-expert-17"
+        },
+        {
+          "text": "택사 공통이므로 저령탕·오령산의 배합축을 동일하게 기록",
+          "detail": "공통 이수축은 있으나 저령탕의 아교·활석과 오령산의 건비·통양 연결을 합쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-alisma",
+          "source": "/learning/herbs/#advanced-herbs-expert-17"
+        },
+        {
+          "text": "산제·탕제를 나누되 저령탕의 아교·활석은 이수와 무관해 제외",
+          "detail": "제형 구분은 맞지만 카드가 설명한 양음·습열 균형의 구성 정보를 누락한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-alisma",
+          "source": "/learning/herbs/#advanced-herbs-expert-17"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "discriminator": "공통 이수약과 전체 처방축은 다르고 동일 방명도 제형·규격이 다를 수 있다.",
+      "explanation": "택사(澤瀉) — 원료·비율·제형·동반 약재를 확인한 범위에서 역할을 비교한다.",
+      "kind": "advanced",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#advanced-herbs-expert-17",
+      "relatedSource": "/herbs/alisma/"
     }
   ]
 }

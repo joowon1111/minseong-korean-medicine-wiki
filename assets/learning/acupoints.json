@@ -54605,6 +54605,366 @@
       "category": "족소음신경",
       "source": "/learning/acupoints/#advanced-acupoints-expert-13",
       "relatedSource": "/acupuncture/points/ki3-taixi/"
+    },
+    {
+      "id": "advanced-acupoints-high-14",
+      "cardId": "point-ST44",
+      "difficulty": "high",
+      "prompt": "같은 형혈인 두 발등 혈의 발샅을 맞춘 것은?",
+      "context": "내정과 행간 모두 발등의 발샅 몸쪽 적백육제 부근이며 형혈이다. 발가락 사이와 소속 경맥을 함께 비교한다.",
+      "options": [
+        {
+          "text": "내정 둘째–셋째·위경 / 행간 첫째–둘째·비경",
+          "detail": "내정과 행간의 발샅은 맞지만 행간은 간경이며 비경으로 바뀌지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST44",
+          "source": "/learning/acupoints/#advanced-acupoints-high-14"
+        },
+        {
+          "text": "내정 둘째–셋째·위경 / 행간 첫째–둘째·간경",
+          "detail": "내정은 둘째–셋째, 행간은 첫째–둘째 사이이며 위경·간경 소속을 각각 유지한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST44",
+          "source": "/learning/acupoints/#advanced-acupoints-high-14"
+        },
+        {
+          "text": "내정 첫째–둘째·위경 / 행간 둘째–셋째·간경",
+          "detail": "경맥은 맞지만 두 혈의 발가락 사이를 바꾸었다. 같은 형혈이라는 속성으로 위치가 같아지지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST44",
+          "source": "/learning/acupoints/#advanced-acupoints-high-14"
+        },
+        {
+          "text": "내정 둘째–셋째·간경 / 행간 첫째–둘째·위경",
+          "detail": "위치는 맞지만 소속 경맥을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST44",
+          "source": "/learning/acupoints/#advanced-acupoints-high-14"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "discriminator": "둘째–셋째 발가락 대 첫째–둘째 발가락, 위경 대 간경.",
+      "explanation": "내정 — 이름과 공통 분류 외에 실제 발샅·경맥을 같이 회상한다.",
+      "kind": "advanced",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-14",
+      "relatedSource": "/acupuncture/points/st44-neiting/"
+    },
+    {
+      "id": "advanced-acupoints-high-15",
+      "cardId": "point-ST34",
+      "difficulty": "high",
+      "prompt": "같은 슬개골 위 높이의 두 혈을 면·근육으로 구분한 것은?",
+      "context": "무릎뼈바닥 위 2촌 부근의 양구·혈해를 비교한다. A는 가쪽넓은근과 넙다리곧은근힘줄 가쪽모서리 사이, B는 안쪽넓은근이 도드라지는 앞안쪽이다.",
+      "options": [
+        {
+          "text": "A 양구 / B 혈해",
+          "detail": "공통 높이 외에 A의 앞가쪽 표지·B의 앞안쪽 근육을 각각 양구·혈해로 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-high-15"
+        },
+        {
+          "text": "A 혈해 / B 양구",
+          "detail": "두 혈의 높이는 겹치지만 안쪽넓은근과 가쪽 힘줄 경계를 뒤바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-high-15"
+        },
+        {
+          "text": "A 양구 / B 음릉천",
+          "detail": "A는 맞지만 음릉천은 무릎 아래 정강뼈 안쪽관절융기 부근으로 B의 슬개골 위 높이와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-high-15"
+        },
+        {
+          "text": "A 양릉천 / B 혈해",
+          "detail": "B는 맞지만 양릉천은 종아리뼈머리 앞먼쪽 오목으로 A의 앞가쪽 넙다리와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-high-15"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "discriminator": "슬개골 위 공통 높이에 안쪽넓은근 대 가쪽넓은근·힘줄 경계를 더한다.",
+      "explanation": "양구 — 높이만 외우면 다른 면의 혈이 섞이므로 뼈·근육 표지를 함께 말한다.",
+      "kind": "advanced",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-15",
+      "relatedSource": "/acupuncture/points/st34/"
+    },
+    {
+      "id": "advanced-acupoints-high-16",
+      "cardId": "point-BL23",
+      "difficulty": "high",
+      "prompt": "허리 두 혈의 공통 높이와 다른 선을 맞춘 것은?",
+      "context": "둘째 허리뼈 가시돌기 아래모서리 높이를 먼저 확인했다. 뒤정중선 가쪽 1.5촌과 3촌을 순서대로 신수·지실에 대응시킨다.",
+      "options": [
+        {
+          "text": "신수 3촌 / 지실 1.5촌",
+          "detail": "높이는 같게 유지했지만 안쪽·바깥쪽 줄을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#advanced-acupoints-high-16"
+        },
+        {
+          "text": "신수 1.5촌 / 지실 같은 선의 위쪽",
+          "detail": "신수의 가쪽 거리는 맞지만 지실은 같은 높이의 3촌 선이지 신수 위쪽 혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#advanced-acupoints-high-16"
+        },
+        {
+          "text": "신수 정중선 / 지실 3촌",
+          "detail": "지실의 거리는 맞지만 신수는 정중선 자체가 아니라 가쪽 1.5촌이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#advanced-acupoints-high-16"
+        },
+        {
+          "text": "신수 1.5촌 / 지실 3촌",
+          "detail": "두 혈은 같은 높이지만 신수는 안쪽 줄 1.5촌, 지실은 바깥 줄 3촌이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#advanced-acupoints-high-16"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "discriminator": "같은 가시돌기 높이에서 가쪽 거리 1.5촌과 3촌을 구분한다.",
+      "explanation": "신수 — 혈의 위아래 차이와 줄의 안팎 차이는 다른 좌표축이다.",
+      "kind": "advanced",
+      "category": "족태양방광경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-16",
+      "relatedSource": "/acupuncture/points/bl23-shenshu/"
+    },
+    {
+      "id": "advanced-acupoints-high-17",
+      "cardId": "point-GB20",
+      "difficulty": "high",
+      "prompt": "뒤통수 아래 두 혈의 정중·가쪽 표지를 맞춘 것은?",
+      "context": "A는 목빗근 뒤쪽 가장자리와 승모근 바깥쪽 가장자리 사이 오목, B는 바깥뒤통수융기 수직 아래 양쪽 승모근 사이 오목이다.",
+      "options": [
+        {
+          "text": "A 풍지 / B 천주",
+          "detail": "A는 맞지만 천주는 풍부의 정중 표지와 다르게 가쪽에 위치한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB20",
+          "source": "/learning/acupoints/#advanced-acupoints-high-17"
+        },
+        {
+          "text": "A 천주 / B 풍부",
+          "detail": "B는 맞지만 A는 목빗근·승모근 사이 풍지의 표지이며 천주의 위치 문장과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB20",
+          "source": "/learning/acupoints/#advanced-acupoints-high-17"
+        },
+        {
+          "text": "A 풍지 / B 풍부",
+          "detail": "풍지는 두 근육의 가쪽 경계 사이, 풍부는 바깥뒤통수융기 아래 정중 표지이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-GB20",
+          "source": "/learning/acupoints/#advanced-acupoints-high-17"
+        },
+        {
+          "text": "A 풍부 / B 풍지",
+          "detail": "뒤통수 아래라는 공통 부위는 같지만 가쪽 근육 경계와 정중 표지를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB20",
+          "source": "/learning/acupoints/#advanced-acupoints-high-17"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "discriminator": "목빗근–승모근 사이의 가쪽 오목 대 양쪽 승모근 사이의 정중 오목.",
+      "explanation": "풍지 — 둘 다 목 뒤에 있어도 기준 근육과 정중선 관계가 다르다.",
+      "kind": "advanced",
+      "category": "족소양담경",
+      "source": "/learning/acupoints/#advanced-acupoints-high-17",
+      "relatedSource": "/acupuncture/points/gb20-fengchi/"
+    },
+    {
+      "id": "advanced-acupoints-expert-14",
+      "cardId": "point-CV6",
+      "difficulty": "expert",
+      "prompt": "개인별 비례 길이와 측정 기준을 함께 지킨 것은?",
+      "context": "교육용 가정으로 배꼽–두덩결합 위모서리 5 B-cun 구간이 18cm이다. 기해와 관원을 배꼽에서 아래로 찾는다. 계산은 표면 위치 학습용이다.",
+      "options": [
+        {
+          "text": "기해 12.6cm / 관원 7.2cm 아래",
+          "detail": "이 수치는 두덩결합에서 위로 재는 보완 거리이다. 문제의 배꼽에서 아래라는 기준과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-14"
+        },
+        {
+          "text": "기해 5.4cm / 관원 10.8cm 아래",
+          "detail": "18÷5=3.6cm/B-cun이다. 기해 1.5촌과 관원 3촌을 배꼽 기준으로 각각 환산한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-CV6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-14"
+        },
+        {
+          "text": "기해 10.8cm / 관원 5.4cm 아래",
+          "detail": "같은 비례 단위는 사용했지만 두 혈의 1.5촌·3촌을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-14"
+        },
+        {
+          "text": "기해 2.7cm / 관원 5.4cm 아래",
+          "detail": "기해와 관원의 비율은 1:2로 맞지만 5촌 구간을 10촌처럼 계산해 절대 길이가 절반이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-14"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "discriminator": "5촌=18cm, 배꼽에서 아래 1.5촌·3촌이라는 두 조건.",
+      "explanation": "기해 — B-cun은 고정된 센티미터가 아니며 시작 기준점을 바꾸면 보완 거리를 써야 한다.",
+      "kind": "advanced",
+      "category": "임맥",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-14",
+      "relatedSource": "/acupuncture/points/cv6-qihai/"
+    },
+    {
+      "id": "advanced-acupoints-expert-15",
+      "cardId": "point-TE5",
+      "difficulty": "expert",
+      "prompt": "같은 높이의 앞뒤 혈을 분류까지 맞춘 것은?",
+      "context": "내관·외관은 각각 앞손목주름·손등쪽손목주름에서 몸쪽 2촌으로 학습한다. A는 장장근·요측수근굴근힘줄 사이, B는 자뼈·노뼈 사이 뒤쪽면이다. 팔맥 연결도 비교한다.",
+      "options": [
+        {
+          "text": "A 내관·음유맥 / B 외관·양유맥",
+          "detail": "내관은 앞아래팔·음유맥, 외관은 뒤아래팔·양유맥으로 면·표지·기경이 모두 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "point-TE5",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-15"
+        },
+        {
+          "text": "A 내관·양유맥 / B 외관·음유맥",
+          "detail": "혈명과 앞뒤 면은 맞지만 두 유맥 연결을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-TE5",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-15"
+        },
+        {
+          "text": "A 외관·양유맥 / B 내관·음유맥",
+          "detail": "각 혈의 기경은 맞지만 A·B의 실제 앞뒤 면과 표지를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-TE5",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-15"
+        },
+        {
+          "text": "A 내관·음교맥 / B 외관·양교맥",
+          "detail": "내관·외관 이름과 면은 맞지만 음교맥은 조해, 양교맥은 신맥에 연결된다.",
+          "owner": "오답 감별",
+          "ownerId": "point-TE5",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-15"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "discriminator": "공통 높이에 앞뒤 면·힘줄/뼈사이 표지·음유/양유를 결합한다.",
+      "explanation": "외관 — 같은 2촌과 비슷한 혈명만으로 분류를 합치지 않는다.",
+      "kind": "advanced",
+      "category": "수소양삼초경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-15",
+      "relatedSource": "/acupuncture/points/te5-waiguan/"
+    },
+    {
+      "id": "advanced-acupoints-expert-16",
+      "cardId": "point-SI6",
+      "difficulty": "expert",
+      "prompt": "손목 부근의 혈을 위치와 원·극 분류까지 나눈 것은?",
+      "context": "양로는 자뼈머리 노쪽의 오목으로 손등손목주름 위 1촌, 완골은 손의 자쪽 제5손허리뼈 바닥과 세모뼈 사이 오목이다. 소장경의 원혈·극혈을 기록한다.",
+      "options": [
+        {
+          "text": "양로: 자뼈머리·원혈 / 완골: 손 자쪽·극혈",
+          "detail": "위치 표지는 맞지만 원혈·극혈을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SI6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-16"
+        },
+        {
+          "text": "양로: 손 자쪽·극혈 / 완골: 자뼈머리·원혈",
+          "detail": "분류는 맞지만 손과 아래팔의 기준 뼈·높이를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SI6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-16"
+        },
+        {
+          "text": "양로: 자뼈머리·극혈 / 완골: 손 자쪽·낙혈",
+          "detail": "양로의 위치·분류와 완골 위치는 맞지만 소장경 낙혈은 지정이며 완골은 원혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SI6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-16"
+        },
+        {
+          "text": "양로: 자뼈머리·극혈 / 완골: 손 자쪽·원혈",
+          "detail": "양로의 아래팔 뼈 표지와 극혈, 완골의 손 자쪽 표지와 원혈을 각각 유지한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-SI6",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-16"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "discriminator": "자뼈머리 대 제5손허리뼈 바닥·세모뼈, 극혈 대 원혈.",
+      "explanation": "양로 — 뒤안쪽이라는 넓은 부위명에 머무르지 않고 뼈와 분류축을 함께 확인한다.",
+      "kind": "advanced",
+      "category": "수태양소장경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-16",
+      "relatedSource": "/acupuncture/points/si6-yanglao/"
+    },
+    {
+      "id": "advanced-acupoints-expert-17",
+      "cardId": "point-ST34",
+      "difficulty": "expert",
+      "prompt": "높이·안가쪽·분류 세 축을 모두 지킨 비교는?",
+      "context": "양구·혈해는 무릎뼈바닥 위 2촌 부근이다. 양릉천은 종아리뼈머리 앞먼쪽 오목이다. 세 혈을 양구 → 혈해 → 양릉천 순서로 면·분류에 연결한다.",
+      "options": [
+        {
+          "text": "앞안쪽·위경 극혈 / 앞가쪽·비경 / 무릎아래 가쪽·담경 합혈",
+          "detail": "분류와 양릉천은 맞지만 양구·혈해의 안가쪽 표지를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-17"
+        },
+        {
+          "text": "앞가쪽·위경 극혈 / 앞안쪽·비경 / 무릎아래 안쪽·담경 합혈",
+          "detail": "앞의 두 혈과 양릉천의 합혈은 맞지만 종아리뼈머리는 가쪽이며 안쪽 표지는 음릉천과 혼동한 것이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-17"
+        },
+        {
+          "text": "앞가쪽·위경 극혈 / 앞안쪽·비경 / 무릎아래 가쪽·담경 합혈",
+          "detail": "양구·혈해의 공통 높이와 다른 면, 양구의 극혈, 양릉천의 더 아래 가쪽 표지·합혈을 함께 맞춘다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-17"
+        },
+        {
+          "text": "앞가쪽·위경 합혈 / 앞안쪽·비경 / 무릎아래 가쪽·담경 합혈",
+          "detail": "혈해·양릉천과 양구의 면은 맞지만 위경 합혈은 족삼리이며 양구는 극혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST34",
+          "source": "/learning/acupoints/#advanced-acupoints-expert-17"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "discriminator": "같은 높이의 면 차이와 양구의 극혈·양릉천의 가쪽 합혈을 동시에 유지한다.",
+      "explanation": "양구 — 위치와 특정혈은 별도의 분류축이므로 하나가 맞아도 나머지를 따로 검토한다.",
+      "kind": "advanced",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#advanced-acupoints-expert-17",
+      "relatedSource": "/acupuncture/points/st34/"
     }
   ]
 }

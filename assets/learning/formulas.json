@@ -19561,6 +19561,366 @@
       "category": "보음·보양·신허",
       "source": "/learning/formulas/#advanced-formulas-expert-13",
       "relatedSource": "/formulas/bawei-dihuang-wan/"
+    },
+    {
+      "id": "advanced-formulas-high-14",
+      "cardId": "formula-xiaoyao-san",
+      "difficulty": "high",
+      "prompt": "간울 공통점에 혈허·비허를 더한 처방 비교는?",
+      "context": "A는 시호·박하의 소간, 당귀·백작약의 양혈유간, 백출·복령의 건비삼습을 함께 가진다. B는 간기울결·흉협통의 소통을 중심으로 설명한다.",
+      "options": [
+        {
+          "text": "A 소요산 / B 사물탕",
+          "detail": "A는 맞고 사물탕은 혈축을 공유하지만 B의 간기울결·흉협통 중심과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-14"
+        },
+        {
+          "text": "A 사군자탕 / B 시호소간산",
+          "detail": "B는 맞고 사군자탕도 건비를 받치지만 A의 시호·당귀·작약을 포함한 소간·양혈축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-14"
+        },
+        {
+          "text": "A 소요산 / B 시호소간산",
+          "detail": "A의 소간·양혈·건비 세 축은 소요산이며 B는 시호소간산의 간기울결·흉협통 구조이다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-14"
+        },
+        {
+          "text": "A 시호소간산 / B 소요산",
+          "detail": "두 처방 모두 간울을 다루지만 A의 혈허·비허를 받치는 실제 골격과 B의 기체 강조를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-14"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "discriminator": "소간만이 아니라 당귀·백작약과 백출·복령이 함께 있다.",
+      "explanation": "소요산 — 공통 시호나 간울이라는 말보다 세 배합축의 동시 존재를 본다.",
+      "kind": "advanced",
+      "category": "담음·기체·안신",
+      "source": "/learning/formulas/#advanced-formulas-high-14",
+      "relatedSource": "/formulas/xiaoyao-san/"
+    },
+    {
+      "id": "advanced-formulas-high-15",
+      "cardId": "formula-baihu-tang",
+      "difficulty": "high",
+      "prompt": "청열 공통점에 기분대열·화독의 차이를 더한 것은?",
+      "context": "A는 석고·지모와 갱미·자감초를 포함한 원방, B는 황련·황금·황백·치자의 골격이다. 각각 양명기분대열과 삼초 실열·화독 방향을 비교한다.",
+      "options": [
+        {
+          "text": "A 죽엽석고탕·회복기 / B 황련해독탕·삼초 화독",
+          "detail": "B는 맞고 A도 석고를 공유할 수 있지만 문제의 석고·지모·갱미·감초 원방은 백호탕이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-baihu-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-15"
+        },
+        {
+          "text": "A 백호탕·기분대열 / B 황련해독탕·삼초 화독",
+          "detail": "실제 약재 골격과 카드의 대표 열병 방향을 일치시킨다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-baihu-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-15"
+        },
+        {
+          "text": "A 백호탕·삼초 화독 / B 황련해독탕·기분대열",
+          "detail": "방명은 맞지만 대표 열병·배합축을 뒤바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-baihu-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-15"
+        },
+        {
+          "text": "A 황련해독탕·기분대열 / B 백호탕·삼초 화독",
+          "detail": "병기 순서는 유지하려 했지만 두 처방의 실제 약재 골격이 바뀌었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-baihu-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-15"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "discriminator": "석고·지모의 원방 골격 대 황련·황금·황백·치자 골격.",
+      "explanation": "백호탕 — 청열방을 같은 강도 서열로 외우지 않고 실제 구성과 병기를 나란히 비교한다.",
+      "kind": "advanced",
+      "category": "청열·습열·온병·피부",
+      "source": "/learning/formulas/#advanced-formulas-high-15",
+      "relatedSource": "/formulas/baihu-tang/"
+    },
+    {
+      "id": "advanced-formulas-high-16",
+      "cardId": "formula-danggui-shaoyao-san",
+      "difficulty": "high",
+      "prompt": "같은 부인과 문맥에서 혈허·수습과 어혈을 나눈 것은?",
+      "context": "A는 당귀작약산, B는 계지복령환을 비교한다. 혈허와 수습이 겹친 축, 하초 어혈·징가의 축을 순서대로 연결한다.",
+      "options": [
+        {
+          "text": "A 혈허+수습 / B 하초 어혈·징가",
+          "detail": "당귀작약산의 혈허·수습과 계지복령환의 하초 어혈·징가라는 서로 다른 배합축이다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-danggui-shaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-16"
+        },
+        {
+          "text": "A 하초 어혈·징가 / B 혈허+수습",
+          "detail": "두 처방 모두 혈과 부인과 문맥에 연결되지만 대표 구조를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-danggui-shaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-16"
+        },
+        {
+          "text": "A 혈허+수습 / B 기음양허·진액소모",
+          "detail": "A는 맞지만 B는 생맥산 계열 문맥에 가깝고 계지복령환의 어혈축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-danggui-shaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-16"
+        },
+        {
+          "text": "A 단순 기체 / B 하초 어혈·징가",
+          "detail": "B는 맞지만 A의 혈허와 수습을 빼면 당귀작약산을 구별하는 핵심 두 축이 사라진다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-danggui-shaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-high-16"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "discriminator": "혈 관련 공통점에도 혈허·수습과 어혈·징가의 축은 다르다.",
+      "explanation": "당귀작약산 — 환자의 실제 처방을 고르는 문제가 아니라 문헌의 대표 배합 구조를 비교한다.",
+      "kind": "advanced",
+      "category": "여성·임신·산후",
+      "source": "/learning/formulas/#advanced-formulas-high-16",
+      "relatedSource": "/formulas/danggui-shaoyao-san/"
+    },
+    {
+      "id": "advanced-formulas-high-17",
+      "cardId": "formula-sanren-tang",
+      "difficulty": "high",
+      "prompt": "습중열경과 풍습열 피부소양의 처방 구조를 맞춘 것은?",
+      "context": "A는 행인·백두구·의이인을 중심으로 습온초기·습중열경을 읽는다. B는 형개·방풍·고삼과 생지황·지모를 포함한 풍습열 피부소양의 배합을 읽는다.",
+      "options": [
+        {
+          "text": "A 삼인탕 / B 삼인탕",
+          "detail": "습열 관련 약재라는 공통점은 있지만 B의 소풍·피부소양 골격과 A의 세 인 골격은 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-17"
+        },
+        {
+          "text": "A 소풍산 / B 삼인탕",
+          "detail": "두 방의 습·열 요소는 공통이나 실제 핵심 약재와 병위·주증을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-17"
+        },
+        {
+          "text": "A 황련해독탕 / B 소풍산",
+          "detail": "B는 맞지만 A의 행인·백두구·의이인은 황련해독탕의 삼황·치자 골격이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-17"
+        },
+        {
+          "text": "A 삼인탕 / B 소풍산",
+          "detail": "A의 세 인과 습온 문맥은 삼인탕, B의 풍·습·열성 피부소양 구조는 소풍산이다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-high-17"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "discriminator": "세 인·습온초기 대 형개·방풍·고삼·피부소양.",
+      "explanation": "삼인탕 — 열이나 습 한 글자보다 병위·대표 약재·주증의 묶음을 비교한다.",
+      "kind": "advanced",
+      "category": "청열·습열·온병·피부",
+      "source": "/learning/formulas/#advanced-formulas-high-17",
+      "relatedSource": "/formulas/sanren-tang/"
+    },
+    {
+      "id": "advanced-formulas-expert-14",
+      "cardId": "formula-tianwang-buxin-dan",
+      "difficulty": "expert",
+      "prompt": "같은 불면 문맥에서 구성·수록본을 함께 지킨 것은?",
+      "context": "A는 생지황·천문동·맥문동·현삼과 양심안신약을 포함한 천왕보심단 자료이다. 역사적 주사 함유본과 현대 무주사 제제가 있다. B는 산조인탕의 허로허번불면 자료이다.",
+      "options": [
+        {
+          "text": "A 허로허번·산조인 가공 확인 / B 음혈축·주사 유무 구분",
+          "detail": "확인 항목들은 실제 의미가 있지만 A·B의 자료와 제형 확인점을 뒤바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-tianwang-buxin-dan",
+          "source": "/learning/formulas/#advanced-formulas-expert-14"
+        },
+        {
+          "text": "A 음혈축·주사 유무 구분 / B 동일한 자음약 골격으로 기록",
+          "detail": "A는 맞지만 불면 공통점만으로 B에 A의 생지황·천문동·맥문동·현삼 골격을 옮길 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-tianwang-buxin-dan",
+          "source": "/learning/formulas/#advanced-formulas-expert-14"
+        },
+        {
+          "text": "A 음혈축·주사 유무/규격 구분 / B 허로허번·산조인 가공 확인",
+          "detail": "두 방의 불면 문맥을 보존하면서 A의 자음·양혈 구성과 수록본 차이, B의 산조인 가공·제제 확인을 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-tianwang-buxin-dan",
+          "source": "/learning/formulas/#advanced-formulas-expert-14"
+        },
+        {
+          "text": "A 음혈축·동명 제제 통합 / B 허로허번·산조인 가공 확인",
+          "detail": "B와 A의 병기축은 맞지만 A의 주사 함유본과 무주사 제제 차이를 합친다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-tianwang-buxin-dan",
+          "source": "/learning/formulas/#advanced-formulas-expert-14"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "discriminator": "불면 공통점 외에 실제 자음약 골격과 역사적/현대 제제 차이를 유지한다.",
+      "explanation": "천왕보심단 — 방명·주증만 같아도 원료와 제제 차이는 비교표에 별도로 기록한다.",
+      "kind": "advanced",
+      "category": "담음·기체·안신",
+      "source": "/learning/formulas/#advanced-formulas-expert-14",
+      "relatedSource": "/formulas/tianwang-buxin-dan/"
+    },
+    {
+      "id": "advanced-formulas-expert-15",
+      "cardId": "formula-sanren-tang",
+      "difficulty": "expert",
+      "prompt": "처방 구성과 전탕 조건을 동시에 보존한 비교는?",
+      "context": "삼인탕 문헌에서 행인·백두구·의이인과 방향성 약재 후하를 확인했다. 연구 엑스제는 동일 방명이지만 투입 시점·추출 조건·원료 규격이 문헌과 다르게 보고됐다.",
+      "options": [
+        {
+          "text": "추출 조건이 달라 습온 문헌의 처방층도 다른 방명으로 바꿈",
+          "detail": "제품 차이는 실제 있지만 문헌의 삼인탕이라는 이름·방의를 바꿀 근거는 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-15"
+        },
+        {
+          "text": "세 인 골격은 비교하되 투입·추출·규격 차이를 기록",
+          "detail": "방명과 골격의 연결을 남기고 후하 등 문헌 조건과 실제 엑스제 제조 조건을 구분한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-15"
+        },
+        {
+          "text": "세 인 함유만 확인해 문헌 전탕과 엑스제를 동등하게 취급",
+          "detail": "공통 골격은 확인했지만 방향성 약재 투입과 추출·규격 차이가 남는다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-15"
+        },
+        {
+          "text": "투입 시점만 일치하면 전체 제제를 동등하게 취급",
+          "detail": "후하 확인은 중요하지만 비율·추출 조건·규격 등 다른 제품 정보를 해결하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-sanren-tang",
+          "source": "/learning/formulas/#advanced-formulas-expert-15"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "discriminator": "같은 골격의 문헌 비교와 실제 제품의 제조 조건 비교는 구분해서 기록한다.",
+      "explanation": "삼인탕 — 전통 방의와 제제의 동등성은 다른 질문이다. 확인된 범위만 연결한다.",
+      "kind": "advanced",
+      "category": "청열·습열·온병·피부",
+      "source": "/learning/formulas/#advanced-formulas-expert-15",
+      "relatedSource": "/formulas/sanren-tang/"
+    },
+    {
+      "id": "advanced-formulas-expert-16",
+      "cardId": "formula-guizhi-fuling-wan",
+      "difficulty": "expert",
+      "prompt": "계지복령환의 제형·약명 차이를 유지한 비교는?",
+      "context": "자료 A는 원방 환제와 계지, B는 동명 탕제와 육계 표기를 사용한다. 도인 가공과 실제 비율도 다르다. 두 자료의 공통 어혈·징가 배합축을 공부한다.",
+      "options": [
+        {
+          "text": "공통 병기축과 별도로 환/탕·계지/육계·도인 가공·비율 기록",
+          "detail": "같은 문헌상 방향을 비교하면서 제형과 실제 구성 차이를 모두 보존한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-guizhi-fuling-wan",
+          "source": "/learning/formulas/#advanced-formulas-expert-16"
+        },
+        {
+          "text": "환/탕만 나누고 계지·육계와 도인을 같은 규격으로 통합",
+          "detail": "제형 차이는 남기지만 계지·육계 표기와 도인 가공·비율의 확인되지 않은 동등성을 가정한다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-guizhi-fuling-wan",
+          "source": "/learning/formulas/#advanced-formulas-expert-16"
+        },
+        {
+          "text": "계지/육계만 나누고 환·탕의 실제 투여량을 동일시",
+          "detail": "약명 차이는 기록하지만 제형·추출과 비율 정보 없이 투여량을 곧바로 같게 둘 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-guizhi-fuling-wan",
+          "source": "/learning/formulas/#advanced-formulas-expert-16"
+        },
+        {
+          "text": "공통 어혈축을 근거로 원료·제형 차이를 생략",
+          "detail": "방의의 공통점은 맞지만 제품·문헌의 실제 차이를 숨겨 재현·비교 근거가 부족하다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-guizhi-fuling-wan",
+          "source": "/learning/formulas/#advanced-formulas-expert-16"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "discriminator": "공통 방의가 환/탕·계지/육계·도인 가공·비율의 차이를 없애지 않는다.",
+      "explanation": "계지복령환 — 수록본별 구성과 제형을 확인한 뒤 공통점과 차이를 나란히 남긴다.",
+      "kind": "advanced",
+      "category": "여성·임신·산후",
+      "source": "/learning/formulas/#advanced-formulas-expert-16",
+      "relatedSource": "/formulas/guizhi-fuling-wan/"
+    },
+    {
+      "id": "advanced-formulas-expert-17",
+      "cardId": "formula-xiaoyao-san",
+      "difficulty": "expert",
+      "prompt": "소요산을 구성축과 조건 변화로 읽은 것은?",
+      "context": "기본 자료는 시호·박하, 당귀·백작약, 백출·복령의 세 축이다. 기록자가 간울만 남기고 혈허·비허를 삭제했으며, 박하·생강의 투입·가공 조건도 생략했다.",
+      "options": [
+        {
+          "text": "소간·양혈은 복원하되 백출·복령은 이수만으로 기록",
+          "detail": "두 축은 되살리지만 백출·복령의 건비·운화와 비허를 받치는 역할을 과도하게 축소한다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-expert-17"
+        },
+        {
+          "text": "소간·건비는 복원하되 당귀·작약은 활혈만으로 기록",
+          "detail": "두 축은 살리지만 당귀·백작약의 양혈유간과 혈허를 받치는 축을 지운다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-expert-17"
+        },
+        {
+          "text": "세 축은 복원하되 같은 약명이라 투입·가공 조건은 제외",
+          "detail": "방의는 맞지만 문헌·제형을 비교하는 데 필요한 박하·생강의 실제 가공·투입 정보를 누락한다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-expert-17"
+        },
+        {
+          "text": "소간·양혈·건비를 복원하고 투입·가공 조건을 따로 확인",
+          "detail": "원문의 세 배합축과 카드의 박하·생강 가공·투입 확인점을 각각 복원한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xiaoyao-san",
+          "source": "/learning/formulas/#advanced-formulas-expert-17"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "discriminator": "소간·양혈·건비 세 축과 가공·투입 확인을 각각 유지한다.",
+      "explanation": "소요산 — 구성축을 하나의 효능으로 줄이면 가까운 처방과의 감별 근거가 사라진다.",
+      "kind": "advanced",
+      "category": "담음·기체·안신",
+      "source": "/learning/formulas/#advanced-formulas-expert-17",
+      "relatedSource": "/formulas/xiaoyao-san/"
     }
   ]
 }
