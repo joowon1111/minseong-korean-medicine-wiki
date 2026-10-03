@@ -9946,6 +9946,186 @@
       "category": "태음인 세부 병증",
       "source": "/learning/sasang/#advanced-sasang-expert-11",
       "relatedSource": "/learning/sasang/#sasang-detail-ganheat-dry"
+    },
+    {
+      "id": "advanced-sasang-high-12",
+      "cardId": "sasang-pattern-soeum-interior",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "소음인 리한병 문헌을 읽는다. 하리·복통에 無口渴 口中和와 有口渴 口中不和가 대조된다. 이 대조의 체계 내 의미는?",
+      "options": [
+        {
+          "text": "갈증이 생겼으므로 소양인 리열병으로 체질을 변경",
+          "detail": "구갈 한 증상으로 제시 체질과 병론을 바꿀 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#advanced-sasang-high-12"
+        },
+        {
+          "text": "태음병이라는 이름이므로 태음인 표병에 연결",
+          "detail": "소음인 태음병은 병증명으로 태음인 체질명과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#advanced-sasang-high-12"
+        },
+        {
+          "text": "소음인 리한 안에서 태음병·소음병의 깊이를 비교",
+          "detail": "체질과 리병 문맥을 유지한 채 갈증·입안 상태의 차이를 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#advanced-sasang-high-12"
+        },
+        {
+          "text": "갈증 유무만으로 상한론 백호탕·사역탕을 선택",
+          "detail": "다른 체계의 처방 규칙을 그대로 가져오면 소음인 리한의 문맥이 사라진다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-pattern-soeum-interior",
+          "source": "/learning/sasang/#advanced-sasang-high-12"
+        }
+      ],
+      "answer": 2,
+      "explanation": "소음인 위수한리한병 — 체질과 리병 문맥을 유지한 채 갈증·입안 상태의 차이를 읽는다.",
+      "discriminator": "제시 체질·병론을 유지한 채 갈증의 의미를 읽는다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "소음인 표리",
+      "source": "/learning/sasang/#advanced-sasang-high-12",
+      "relatedSource": "/learning/sasang/#sasang-pattern-soeum-interior"
+    },
+    {
+      "id": "advanced-sasang-high-13",
+      "cardId": "sasang-pattern-taeyang-exterior",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "태양인으로 제시된 학습 사례에서 상체 상태에 비해 하지 지탱·보행이 저하된다. 연하·섭취 장애는 주된 문제가 아니다. 문헌의 비교축은?",
+      "options": [
+        {
+          "text": "열격의 연하 장애를 해역의 하지 기능과 구별",
+          "detail": "두 병증의 주요 기능축을 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#advanced-sasang-high-13"
+        },
+        {
+          "text": "소양인 망음의 설사·신열 분기를 우선 적용",
+          "detail": "기능 저하는 겹칠 수 있어도 제시 체질·주증의 문맥과 다른 병론이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#advanced-sasang-high-13"
+        },
+        {
+          "text": "태음인 간열폐조의 갈증·건조를 우선 적용",
+          "detail": "기력 저하와 연관될 수 있으나 제시된 태양인 하지 지탱의 직접 비교축이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#advanced-sasang-high-13"
+        },
+        {
+          "text": "해역의 요척·하지 기능을 열격의 섭취 기능과 구별",
+          "detail": "하지 지탱의 해역과 섭취·연하의 열격을 각 병론에서 비교한다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-pattern-taeyang-exterior",
+          "source": "/learning/sasang/#advanced-sasang-high-13"
+        }
+      ],
+      "answer": 3,
+      "explanation": "태양인 외감요척병 — 하지 지탱의 해역과 섭취·연하의 열격을 각 병론에서 비교한다.",
+      "discriminator": "상체 대비 하지 기능과 연하·섭취 기능을 나눈다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "태양인 표리",
+      "source": "/learning/sasang/#advanced-sasang-high-13",
+      "relatedSource": "/learning/sasang/#sasang-pattern-taeyang-exterior"
+    },
+    {
+      "id": "advanced-sasang-expert-12",
+      "cardId": "sasang-health-taeeum",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "태음인의 완실무병 구절을 공부하며 발한을 관찰한다. 평소 발한 후 개운함과 최근 발한 후 무력·회복 지연을 기록했다. 적합한 독해는?",
+      "options": [
+        {
+          "text": "정상 기능의 발한과 현재 소모·경과를 나누어 평가",
+          "detail": "땀의 존재뿐 아니라 발한 후 상태·평소와의 차이를 보존한다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#advanced-sasang-expert-12"
+        },
+        {
+          "text": "평소 발한이 있었으므로 최근 무력도 정상 기능으로 기록",
+          "detail": "평소 소증은 참고가 되지만 새로운 무력·회복 변화는 별도 현증이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#advanced-sasang-expert-12"
+        },
+        {
+          "text": "최근 무력이 있으므로 완실무병 구절 자체를 발한 금기로 바꿈",
+          "detail": "원전의 정상 기능 서술을 새로운 증상 하나로 금기 문장으로 바꿀 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#advanced-sasang-expert-12"
+        },
+        {
+          "text": "발한 후 변화는 체질 판단에만 쓰고 현재 병증에는 기록하지 않음",
+          "detail": "평소 기능과 현재 경과는 병증 평가에서도 구분해 기록할 내용이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-health-taeeum",
+          "source": "/learning/sasang/#advanced-sasang-expert-12"
+        }
+      ],
+      "answer": 0,
+      "explanation": "태음인 · 완실무병 구절 — 땀의 존재뿐 아니라 발한 후 상태·평소와의 차이를 보존한다.",
+      "discriminator": "소증·현증·발한 뒤 회복을 각각 기록한다.",
+      "nearestWrong": 1,
+      "kind": "advanced",
+      "category": "완실무병·소증",
+      "source": "/learning/sasang/#advanced-sasang-expert-12",
+      "relatedSource": "/learning/sasang/#sasang-health-taeeum"
+    },
+    {
+      "id": "advanced-sasang-expert-13",
+      "cardId": "sasang-formula-ogapi",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "오가피장척탕의 문헌상 병증과 후대 수록본의 실제 배합을 비교한다. 현대 연구가 같은 처방명을 사용한다면 적합한 기록은?",
+      "options": [
+        {
+          "text": "같은 방명이라 원전·후대·시험 제제의 약미가 같다고 기록",
+          "detail": "방명만으로 실제 약미·비율·제형의 동일성을 보장할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-ogapi",
+          "source": "/learning/sasang/#advanced-sasang-expert-13"
+        },
+        {
+          "text": "병증·체질·수록본 구성·연구 제제와 결과를 각각 대조",
+          "detail": "원전의 연결, 후대 약재표, 현대 시험물·효과의 층을 보존한다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-ogapi",
+          "source": "/learning/sasang/#advanced-sasang-expert-13"
+        },
+        {
+          "text": "후대 배합표를 신축본의 직접 조문 인용으로 표시",
+          "detail": "후대 수록본 구성은 독립 출전이며 신축본 조문 자체와 구분해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-ogapi",
+          "source": "/learning/sasang/#advanced-sasang-expert-13"
+        },
+        {
+          "text": "문헌상 주치가 있으므로 연구의 대상·비교군을 생략",
+          "detail": "문헌 주치와 현대 효과 검증은 별도이며 연구 조건을 확인해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-ogapi",
+          "source": "/learning/sasang/#advanced-sasang-expert-13"
+        }
+      ],
+      "answer": 1,
+      "explanation": "오가피장척탕 · 태양인 — 원전의 연결, 후대 약재표, 현대 시험물·효과의 층을 보존한다.",
+      "discriminator": "방명보다 출전·실제 구성·시험물의 동일성을 검증한다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "태양인 주요 처방",
+      "source": "/learning/sasang/#advanced-sasang-expert-13",
+      "relatedSource": "/learning/sasang/#sasang-formula-ogapi"
     }
   ]
 }
