@@ -1,22 +1,23 @@
 ---
-title: 기초 해부학 — 근육·신경·뼈·혈관·조직 학습카드와 구조 식별 퀴즈
-description: 근육·신경·뼈·혈관·조직을 카드와 구조 식별 퀴즈로 복습합니다. 사지 구획·수근관·대퇴삼각 등의 통과 구조, 신경 기능과 조직 감별을 비교표·서술형 해설로 심화하고 한글·영문 구조 이름을 직접 입력합니다.
+title: 기초 해부학 — 근육·신경·뼈·혈관·초음파 학습카드와 구조 식별 퀴즈
+description: 한의학 기초 해부학의 근육·중추/말초신경·뼈 표지·혈관·조직과 초음파를 복습합니다. 신경 교차·공급과 환류·부착 및 통과 구조·초음파 조직 식별과 인공물을 비교표·카드·감별 문제로 연결합니다.
 tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, 해부학 퀴즈, 학습카드]
 ---
 # 기초 해부학
 
 [기초 한의학 퀴즈 & 학습실](index.md) / **기초 해부학**
 
-**457개 카드 · 3,112문제.** 근육·신경·뼈·혈관·조직의 이름을 외우는 데서 출발해, **어디에 있고 무엇과 연결되며 어떤 기능을 하는지** 설명해 보세요. 의학·치의학·한의학의 기초 해부학을 공부할 때 강의와 실습 범위에 맞춰 사용할 수 있는 자체 학습 자료입니다.
+**584개 카드 · 3,751문제.** 근육·신경·뼈·혈관·조직·초음파 해부학의 핵심을 외우는 데서 출발해, **어디에 있고 무엇과 연결되며 어떤 기능을 하는지** 설명해 보세요. 한의학의 기초 해부학을 공부할 때 강의와 실습 범위에 맞춰 사용할 수 있는 자체 학습 자료입니다.
 
 ## 무엇을 공부하나요?
 
 | 단원 | 학습 범위 | 직접 확인할 질문 |
 |---|---|---|
 | 근육 | 근육·근육군·하위 부분 245항목; 눈·얼굴·혀·후두·목·등·상하지·가슴·복부·골반·회음 | 기시·정지·작용·신경지배·대표 혈관과 유사 근육의 차이를 연결할 수 있나요? |
-| 신경 | 말초신경·신경얼기·분지 50항목과 뇌신경 12쌍 | 기원·분지·운동·감각과 뇌신경의 머리뼈 통과 경로를 구분할 수 있나요? |
-| 뼈와 표지 | 뼈·뼈군·돌기·오목·관절 표지 70항목; 머리뼈·척추·가슴우리·사지 | 서로 비슷한 이름의 구조와 부착 표지를 구분할 수 있나요? |
-| 혈관 | 주요 동맥·정맥과 혈관 계통 45항목; 대동맥·사지·복부 장기·문맥·폐순환 | 기원·분지·공급 영역·정맥 합류와 동행 구조를 말할 수 있나요? |
+| 신경 | 말초·뇌신경·중추 경로·자율신경 99항목 | 기원·분지·운동·감각과 뇌신경의 머리뼈 통과 경로를 구분할 수 있나요? |
+| 뼈와 표지 | 뼈·뼈군·돌기·오목·관절·통로 표지 98항목; 머리뼈·척추·가슴우리·사지 | 서로 비슷한 이름의 구조와 부착 표지를 구분할 수 있나요? |
+| 혈관 | 주요 동맥·정맥과 공급·환류 계통 77항목; 대동맥·사지·복부 장기·문맥·폐순환 | 기원·분지·공급 영역·정맥 합류와 동행 구조를 말할 수 있나요? |
+| 초음파 | 원리·설정·조직 식별·인공물·부위별 추적 30항목 | 장축·단축·동적 관찰에서 신경·힘줄·혈관을 구별할 수 있나요? |
 | 조직과 층 | 상피·결합·근육·신경 조직, 피부·근막·근육 내부층 25개 | 형태와 위치를 근거로 조직을 구분할 수 있나요? |
 | 방향과 면 | 기본 해부 용어 10개 | 해부학적 자세를 기준으로 방향·단면을 설명할 수 있나요? |
 
@@ -117,6 +118,98 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 | [폐동맥 계통](/learning/anatomy/#anatomy-vessel-pulmonary-arteries) · [폐정맥 계통](/learning/anatomy/#anatomy-vessel-pulmonary-veins) | 오른심실 → 폐동맥 → 폐의 가스교환 → 폐정맥 → 왼심방. 동맥·정맥은 혈류 방향으로 구분하며 산소량은 폐순환에서 전신순환과 다릅니다. |
 
 구조 이름을 찾았다면 카드의 **식별·비교**, **분지·예외**, **관절·부착 확인**까지 읽고, 같은 내용이 강의 도해·표본의 어느 위치인지 확인하세요.
+
+## 신경 경로와 교차로 손상 위치 설명하기 {#neural-pathways}
+
+말초신경의 이름을 찾은 다음에는 **감각 종류 → 중계 → 교차 → 병변 높이 → 보존 기능**을 연결합니다. 척수 분절과 척추뼈 높이는 다른 좌표입니다. 성인 척수원뿔은 보통 L1–L2 척추 높이 부근에 끝나며, 아래쪽에서는 말총의 신경뿌리가 내려갑니다. 분절 위치·말단 높이에는 개인차가 있습니다.
+
+| 경로 | 주된 정보 | 주요 교차 | 척수의 편측 손상에서 비교 |
+|---|---|---|---|
+| 가쪽피질척수로 | 사지의 정교한 수의운동 | 연수 피라미드교차 | 병변 아래 같은 쪽 운동 장애; 분절 자체의 앞뿔 손상과 구분 |
+| 뒤기둥–안쪽섬유띠 | 정교한 촉각·진동·의식적 위치감각 | 연수의 감각교차 | 병변 아래 같은 쪽 감각 저하; 통각·온도와 별도 확인 |
+| 척수시상로 | 통각·온도 등 | 척수 진입 분절 부근의 앞백색맞교차 | 병변 아래 반대쪽 감각 저하; 몇 분절 아래부터 나타날 수 있음 |
+
+예를 들어 한쪽 척수 병변 아래에서 **같은 쪽 운동·진동 저하와 반대쪽 통각·온도 저하**가 함께 제시되면, 경로마다 교차 위치를 설명합니다. 이 조합을 모든 실제 환자의 완전한 형태로 가정하지 않고 병변 범위·시기·불완전 손상을 함께 봅니다. 경로 요약은 [척수 형태와 전도로](https://www.ncbi.nlm.nih.gov/books/NBK545206/)와 각 카드의 참고 링크로 이어집니다.
+
+### 뿌리·가지·핵·다발을 구분하기
+
+| 비교 | 분류축 | 놓치기 쉬운 차이 |
+|---|---|---|
+| 앞뿌리 / 뒤뿌리 | 척수의 유출 / 유입 | 앞·뒤 **가지**는 혼합 척수신경 이후의 분지로 감각·운동이 함께 있음 |
+| 뒤뿌리신경절 / 뒤뿔 | 일차 감각세포 몸통 / 척수 감각 처리 | 신경절 위치와 척수 회색질 위치를 분리 |
+| 앞뿔 / 가쪽뿔 | 골격근 운동 / 자율신경 출력 | T1–L2 교감 출력과 S2–S4 골반 부교감 연결 비교 |
+| 속섬유막 / 뇌량 | 피질의 투사 연결 / 반구 사이 연결 | 둘 다 백색질이지만 섬유의 목적지·방향이 다름 |
+| 시상 / 시상하부 | 감각·운동 중계 / 항상성·내분비·자율 조절 | 이름이 비슷해도 핵·회로·기능이 다름 |
+| 척수원뿔 / 말총 | 척수의 말단 / 신경뿌리 묶음 | 같은 허리 높이의 증상이라도 중추 구조와 말초 뿌리 범위를 구분 |
+
+### 뇌신경 분지에서 기능의 기원을 확인하기
+
+V1·V2는 감각가지이고 V3는 감각과 씹기 운동이 함께 있습니다. 혀 앞 3분의 2의 **일반감각은 혀신경(V3)**, **미각은 고실끈신경(VII)**입니다. 두 섬유가 함께 주행해도 기원은 다릅니다. 되돌이후두신경은 오른쪽에서 빗장밑동맥, 왼쪽에서 대동맥궁을 돌아 올라가며, 윤상갑상근은 위후두신경 바깥가지의 지배입니다. [머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/)와 비교하세요.
+
+## 혈관을 공급 영역과 환류 경로로 확장하기 {#vascular-territories}
+
+혈관 이름은 **기원 → 통과 표지 → 분지 → 공급 또는 환류 → 연결·변이**로 설명합니다. 동맥의 장기 공급과 같은 이름 정맥의 환류는 서로 다른 경로이며, 곁순환 연결이 있다고 모든 폐색에서 충분한 관류가 보장되는 것은 아닙니다.
+
+| 계통 | 공급·연결의 학습 표지 | 함께 비교할 예외·경계 |
+|---|---|---|
+| 앞대뇌 / 중간대뇌 / 뒤대뇌 | 안쪽 대뇌면·다리 영역 / 가쪽면·얼굴·팔 영역 / 뒤통수 시각피질 중심 | 깊은 분지·경계 영역·개인차가 있어 증상 하나로 혈관을 확정하지 않음 |
+| 추골 → 뇌바닥 | 좌우 추골 합류, 다리뇌 앞의 뇌바닥동맥 | 뒤아래소뇌동맥은 주로 추골, 앞아래·위소뇌동맥은 뇌바닥 계통 |
+| 앞·뒤교통 | 좌우 앞대뇌 연결 / 내경–뒤대뇌 연결 | 대뇌동맥고리 구성·굵기에는 변이 |
+| 왼관상동맥 | 앞심실사이가지와 휘돌이가지 | 앞벽·중격·가쪽벽의 공급을 각각 연결 |
+| 오른관상동맥 | 오른심장·아래벽 등의 공급 | 뒤심실사이동맥의 기원에 따라 우세형 구분; 우세는 굵기 서열이 아님 |
+| 총간 → 고유간 / 위샘창자 | 간 동맥 공급 / 위·샘창자·이자머리 가지 | 간으로 들어가는 문맥과 간에서 나오는 간정맥 구분 |
+| 얕은 / 깊은손바닥동맥활 | 주로 척골 / 주로 요골 계통 | 깊이·위치·손가락 분지와 완전한 활의 변이 확인 |
+
+**문맥성 환류를 한 줄로 쓰기:** 장관·지라 → 상장간막정맥·지라정맥 등의 합류 → 간문맥 → 간의 미세순환 → 간정맥 → 하대정맥. 하장간막정맥은 흔히 지라정맥에 합류하지만 변이가 있습니다. 심근의 환류는 관상정맥굴→오른심방, 폐정맥의 환류는 왼심방으로 구분합니다. [머리·목 동맥표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)와 [복부 동맥표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/)에서 가지 관계를 확인합니다.
+
+## 뼈 표지를 관절·힘줄·통과 구조에 연결하기 {#bony-landmarks}
+
+뼈의 이름을 맞힌 다음에는 **어느 면인지, 관절면인지 부착부인지 통로인지, 연결 구조가 무엇인지**를 답합니다. 같은 이름의 ‘갈고리돌기’도 아래턱과 자뼈에서는 다른 구조입니다.
+
+| 부위 | 비교 표지 | 연결할 구조 |
+|---|---|---|
+| 어깨 | 큰결절 / 작은결절 / 결절사이고랑 | 회전근개 세 근육 / 견갑하근 / 상완이두근 긴갈래힘줄 통과 |
+| 위팔 뒤 | 노신경고랑 / 외과목 | 요골신경·상완심동맥 / 액와신경·뒤위팔휘돌이동맥 |
+| 팔꿈치·손목 | 노뼈거친면 / 자뼈갈고리돌기 / 양쪽 붓돌기 | 상완이두근 정지 / 상완근 계통 / 손목의 노쪽·자쪽 촉지 |
+| 골반 | 앞위·아래앞엉덩뼈가시 / 궁둥뼈가시 / 궁둥뼈결절 | 봉공근·대퇴직근 기원 / 음부신경혈관 회귀 / 햄스트링·체중지지 |
+| 넙다리 | 큰돌기 / 작은돌기 / 거친선 / 모음근결절 | 볼기근·바깥돌림근 / 장요근 / 내전근·광근 / 대내전근 일부 |
+| 정강·발 | 경골조면 / 융기사이융기 / 목말받침돌기 | 슬개인대 / 십자인대·연골 뿌리 주변 / 장무지굴근힘줄 아래 통과 |
+| 척추 | 몸통 / 척추뿌리 / 고리판 / 추간공 | 앞쪽 하중 / 뒤구조 연결 / 뒤벽 / 가쪽 신경 출구 |
+| 머리뼈바닥 | 시각신경관 / 위눈확틈새 / 원형·타원·가시구멍 | II·눈동맥 / III·IV·V1·VI / V2·V3·중간뇌막동맥 |
+
+촉지 가능한 표지와 깊은 통로를 구분하고, 개념 그림의 앞뒤·좌우를 확인한 뒤 실제 해부 도해에 대응시킵니다. 머리뼈바닥에서는 ‘구멍 이름→내용물’을 외운 뒤 ‘신경→통로’ 방향으로 역회상해 보세요.
+
+## 초음파로 해부학을 복습하기 {#ultrasound-anatomy}
+
+초음파는 **정상 구조의 층·부착·주행·움직임을 연결하는 학습**으로 구성했습니다. 먼저 뼈 표지를 찾고, 신경·힘줄·혈관을 장축과 단축에서 이어 추적합니다. 장비의 방향표지와 실제 신체 방향을 먼저 맞춥니다. 교육 내용의 근거는 [ESSR 부위별 기술 지침](https://www.essr.org/subcommittees/ultrasound/), [BMUS 학습 안내](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/), [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)로 연결합니다. 사진·도판을 복제하지 않은 자체 설명입니다.
+
+### 구조 식별의 근거
+
+| 구조 | 보통 확인하는 형태 | 추가 확인 |
+|---|---|---|
+| 힘줄 | 장축의 치밀한 평행 섬유, 단축의 작은 점상 에코 | 근육·뼈 부착까지 추적, 움직임·입사각 변화 |
+| 말초신경 | 단축의 다발·벌집 형태, 장축의 연속 다발 | 몸쪽·먼쪽 연결, 주변 힘줄·혈관과 비교 |
+| 근육 | 상대적 저에코 바탕에 결합조직 선·점 분포 | 수축에 따른 형태·섬유 방향·근막 경계 |
+| 뼈 피질 | 강한 표면 반사와 뒤쪽 음영 | 표면 윤곽·힘줄 부착; 내부 전체 관찰과 구분 |
+| 혈관 | 관 모양의 연속 구조 | 압박·도플러·해부 주행을 함께 확인; 무색 신호만으로 혈관을 배제하지 않음 |
+| 액체 공간 | 내부 저에코·무에코와 뒤쪽 증강 가능 | 압박·두 면·주변 층·관절/주머니 관계 |
+
+### 설정과 인공물의 감별
+
+| 변화 | 먼저 확인할 조건 | 잘못된 추론을 고치기 |
+|---|---|---|
+| 힘줄이 일부 어두움 | 탐촉자를 기울여 입사각 변화 | 밝기가 회복되면 이방성 고려; 한 장면을 파열로 확정하지 않음 |
+| 혈관 색이 없음 | 압력·이득·속도범위·각도 | 너무 세게 누르거나 설정이 맞지 않으면 흐름이 가려질 수 있음 |
+| 빨강·파랑 | 장비 색지도와 탐촉자에 대한 방향 | 색을 동맥·정맥의 고정 표시로 외우지 않음 |
+| 뼈 뒤가 어두움 | 강한 반사·음향음영 | 정상 음향 관계와 실제 조직 소실을 구분 |
+| 액체 뒤가 밝음 | 후방음향증강 | 이득 상승과 국소 증강을 비교; 한 소견으로 특정 질환을 확정하지 않음 |
+| 두 영상의 밝기가 다름 | 이득·깊이·초점·주파수·자세 | 설정 차이를 조직 변화로 곧바로 해석하지 않음 |
+
+### 부위별 추적 연습
+
+어깨는 **결절사이고랑→상완이두근 긴갈래힘줄→작은결절의 견갑하근→큰결절의 회전근개**를 구분합니다. 팔꿈치는 내측상과 뒤의 척골신경, 손목은 굽힘근지지띠와 수근관의 정중신경·굽힘힘줄을 비교합니다. 무릎 앞에서는 **슬개골 위의 대퇴사두근힘줄 / 아래의 슬개인대**, 발목에서는 **뒤쪽 아킬레스힘줄 / 안쪽복사 뒤의 뒤정강근힘줄 / 가쪽복사 뒤의 종아리근힘줄**을 따로 추적합니다. 각 구조의 기시·정지·주행을 설명하고 장축·단축·동적 관찰에서 같은 구조인지 확인하세요.
+
+기록에는 **부위·좌우·자세·면·방향표지·설정·관찰 구조**를 남깁니다. 이름을 맞히는 연습 다음에 정상과 인공물을 구분하는 문제로 넘어가면 표면 위치·해부 층·깊은 구조를 함께 복습할 수 있습니다.
 
 ## 구획·공간으로 근육과 통과 구조 연결하기 {#regional-relations}
 
@@ -235,15 +328,15 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 특정 학교의 실습시험이나 국가시험 기출문제가 아닙니다. 근육은 UAMS Muscle Tables의 부위별 목록을 모두 대조한 범위이며, 전신의 모든 해부 변이나 모든 근육 갈래를 별도 카드로 나눈 것은 아닙니다. 뼈·신경·혈관·조직은 주요 구조 관계를 익히는 범위이며, 학교별 용어와 실습 범위는 수업 자료에 맞춰 확인하세요.
 
 <!-- ADVANCED_QUESTIONS_START -->
-## 상·극상 문제와 보기별 해설 {#advanced-questions}
+## 중·상 문제와 보기별 해설 {#advanced-questions}
 
-각 난이도 11문제씩입니다. **상**은 여러 단서와 가까운 개념을 함께 구별하고, **극상**은 예외·조건 변화·복수 분류 또는 출전의 차이를 판단합니다. 난이도는 출제 의도에 따른 구분이며 실제 정답률로 보정한 등급은 아닙니다. 퀴즈의 **문제 난이도**에서 선택하거나 아래 문항을 읽어 보세요. 증례·수치는 교육용 가정이고, 제시된 체질·병론 안에서 문헌을 읽는 문제는 체질 판정 검사가 아닙니다.
+각 난이도 13문제씩입니다. **중**은 여러 단서와 가까운 개념을 함께 구별하고, **상**은 예외·조건 변화·복수 분류 또는 출전의 차이를 판단합니다. 난이도는 출제 의도에 따른 구분이며 실제 정답률로 보정한 등급은 아닙니다. 퀴즈의 **문제 난이도**에서 선택하거나 아래 문항을 읽어 보세요. 증례·수치는 교육용 가정이고, 제시된 체질·병론 안에서 문헌을 읽는 문제는 체질 판정 검사가 아닙니다.
 
-### 상 · 통합·감별 11문제
+### 중 · 통합·감별 13문제
 
 <span id="advanced-anatomy-high-01"></span>
 
-**상 1. 운동과 감각 소견을 함께 설명하는 손상 위치는?**
+**중 1. 운동과 감각 소견을 함께 설명하는 손상 위치는?**
 
 힘줄 파열은 배제했다. 엄지 IP·집게 DIP 굽힘과 회내방형근의 회내가 약하지만 손바닥 피부감각과 무지 대립은 보존된다.
 
@@ -272,7 +365,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-02"></span>
 
-**상 2. 두 근육과 보존된 근육을 연결하면 가장 적합한 신경은?**
+**중 2. 두 근육과 보존된 근육을 연결하면 가장 적합한 신경은?**
 
 극상근의 벌림 시작과 극하근의 바깥돌림이 약하다. 삼각근·소원근 기능과 어깨 가쪽 피부감각은 보존된다.
 
@@ -301,7 +394,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-03"></span>
 
-**상 3. 인접 신경과 비교할 때 가장 적합한 손상은?**
+**중 3. 인접 신경과 비교할 때 가장 적합한 손상은?**
 
 비골 경부 부근 손상 뒤 발등굽힘·가쪽번짐이 함께 약하다. 발바닥굽힘과 후경골근을 이용한 안쪽번짐은 보존된다.
 
@@ -330,7 +423,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-04"></span>
 
-**상 4. 기시·관절·신경을 모두 만족하는 것은?**
+**중 4. 기시·관절·신경을 모두 만족하는 것은?**
 
 대퇴이두근의 짧은갈래를 긴갈래와 비교한다. 짧은갈래에 대한 올바른 조합 하나를 고르라.
 
@@ -359,7 +452,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-05"></span>
 
-**상 5. 굽힘 관절과 신경을 함께 구별한 설명은?**
+**중 5. 굽힘 관절과 신경을 함께 구별한 설명은?**
 
 천지굴근과 심지굴근을 비교한다. 심지굴근의 손가락별 신경지배를 포함해야 한다.
 
@@ -388,7 +481,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-06"></span>
 
-**상 6. 성대 기능과 신경 가지를 정확히 연결한 것은?**
+**중 6. 성대 기능과 신경 가지를 정확히 연결한 것은?**
 
 윤상갑상근과 후윤상피열근의 기능을 나누어 읽는다.
 
@@ -417,7 +510,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-07"></span>
 
-**상 7. 조직 규모에 맞는 층을 연결한 것은?**
+**중 7. 조직 규모에 맞는 층을 연결한 것은?**
 
 세 개의 표본이 각각 근섬유 하나, 근섬유 다발 하나, 근육 전체를 둘러싼다.
 
@@ -446,7 +539,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-08"></span>
 
-**상 8. 장기 환류 순서와 정맥 합류를 모두 설명하는 것은?**
+**중 8. 장기 환류 순서와 정맥 합류를 모두 설명하는 것은?**
 
 일반적인 간문맥 형성과 간을 지난 혈액의 전신 정맥 귀환을 묻는다.
 
@@ -475,7 +568,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-09"></span>
 
-**상 9. 두 관절과 근육 갈래를 연결한 설명은?**
+**중 9. 두 관절과 근육 갈래를 연결한 설명은?**
 
 넙다리네갈래근 중 대퇴직근과 광근 세 갈래의 차이를 묻는다.
 
@@ -504,7 +597,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-10"></span>
 
-**상 10. 인두·구개·혀 계통의 예외를 모두 맞춘 것은?**
+**중 10. 인두·구개·혀 계통의 예외를 모두 맞춘 것은?**
 
 구개범장근, 경상인두근, 구개설근을 순서대로 연결한다.
 
@@ -533,7 +626,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-high-11"></span>
 
-**상 11. 두 손가락의 약화를 분지와 관절까지 연결한 것은?**
+**중 11. 두 손가락의 약화를 분지와 관절까지 연결한 것은?**
 
 전골간신경 단독 손상을 가정한다. 엄지 IP 굽힘과 검지 DIP 굽힘이 약하고 피부감각은 보존된다. 엄지 MCP 굽힘은 평가 대상에서 제외한다.
 
@@ -560,11 +653,69 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 </details>
 
-### 극상 · 통합·감별 11문제
+<span id="advanced-anatomy-high-12"></span>
+
+**중 12. 제시된 조건을 함께 고려한 가장 적합한 답은?**
+
+한쪽 척수 병변 아래에서 운동과 진동·위치감각은 같은 쪽, 통각·온도는 반대쪽에서 저하되었다. 경로의 교차를 가장 잘 설명하는 것은?
+
+1. 운동·뒤기둥은 연수에서, 통각·온도는 척수 분절 부근에서 교차
+2. 세 경로 모두 척수 진입 즉시 교차
+3. 세 경로 모두 시상 이후에 교차
+4. 운동은 척수, 감각 두 종류는 모두 연수에서 교차
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 1번** — 가쪽피질척수로 — 피라미드와 뒤기둥계의 연수 교차, 척수시상계의 분절 부근 교차로 좌우 소견을 설명한다.
+
+**결정적 감별 단서:** 감각 종류를 나누고 교차 전후에 병변이 어디인지 확인한다.
+
+**가장 가까운 오답:** 2번 — 통각·온도에는 가까운 설명이지만 가쪽피질척수로와 뒤기둥 경로의 교차 위치가 다르다.
+
+- **1번 (정답):** 피라미드와 뒤기둥계의 연수 교차, 척수시상계의 분절 부근 교차로 좌우 소견을 설명한다.
+- **2번 (오답):** 통각·온도에는 가까운 설명이지만 가쪽피질척수로와 뒤기둥 경로의 교차 위치가 다르다.
+- **3번 (오답):** 감각의 시상 중계는 설명하지만 주요 교차는 그보다 아래쪽이다.
+- **4번 (오답):** 뒤기둥 감각의 연수 교차는 맞지만 운동로·척수시상로의 교차가 바뀌었다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-neuro-lateral-corticospinal)
+
+</details>
+
+<span id="advanced-anatomy-high-13"></span>
+
+**중 13. 제시된 조건을 함께 고려한 가장 적합한 답은?**
+
+복부 장기 혈액이 먼저 간을 통과한 뒤 심장으로 돌아가는 경로를 쓰려 한다. 혈류 방향이 맞는 연결은?
+
+1. 장관 정맥→간정맥→간 미세순환→간문맥→하대정맥
+2. 장관 정맥→간문맥→간 미세순환→간정맥→하대정맥
+3. 장관 정맥→간문맥→간 미세순환→고유간동맥→하대정맥
+4. 장관 정맥→하대정맥→간문맥→간정맥→오른심방
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 2번** — 간정맥군 — 문맥성 유입과 간정맥성 유출을 구분한 연결이다.
+
+**결정적 감별 단서:** 혈관 이름보다 간으로 들어오는지 나오는지 구별한다.
+
+**가장 가까운 오답:** 1번 — 간으로 들어가는 문맥과 나오는 간정맥의 순서가 뒤집혔다.
+
+- **1번 (오답):** 간으로 들어가는 문맥과 나오는 간정맥의 순서가 뒤집혔다.
+- **2번 (정답):** 문맥성 유입과 간정맥성 유출을 구분한 연결이다.
+- **3번 (오답):** 간문맥 유입은 맞지만 고유간동맥도 유입 동맥으로 정맥 유출 경로가 아니다.
+- **4번 (오답):** 전신 정맥의 환류를 문맥 유입보다 앞에 둔 순서가 맞지 않는다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-vascular-hepatic-veins)
+
+</details>
+
+### 상 · 통합·감별 13문제
 
 <span id="advanced-anatomy-expert-01"></span>
 
-**극상 1. 단독 분지 손상이라는 가정에 가장 맞는 해석은?**
+**상 1. 단독 분지 손상이라는 가정에 가장 맞는 해석은?**
 
 손가락 MCP 폄과 엄지 폄은 약하다. 손목 폄은 가능하지만 노쪽으로 치우치며 손등 노쪽 피부감각은 정상이다. 힘줄 손상은 없다.
 
@@ -593,7 +744,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-02"></span>
 
-**극상 2. 약해진 동작과 보존된 동작을 함께 설명하는 조합은?**
+**상 2. 약해진 동작과 보존된 동작을 함께 설명하는 조합은?**
 
 벽 밀기에서 견갑골 안쪽연이 들린다. 어깨 으쓱과 견갑골 모음은 가능하지만 팔을 머리 위로 올리는 견갑골 상방회전이 어렵다.
 
@@ -622,7 +773,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-03"></span>
 
-**극상 3. 내전근관 이후 두 구조의 경로를 정확히 분리한 것은?**
+**상 3. 내전근관 이후 두 구조의 경로를 정확히 분리한 것은?**
 
 관 안의 대퇴동맥과 복재신경을 추적한다. 두 구조가 끝까지 함께 모음근구멍을 통과한다는 주장을 검토한다.
 
@@ -651,7 +802,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-04"></span>
 
-**극상 4. 손목 병변의 위치를 가르는 가장 유용한 보존 소견은?**
+**상 4. 손목 병변의 위치를 가르는 가장 유용한 보존 소견은?**
 
 수근관 내부의 정중신경만 압박된다는 가정이다. 다른 근위 병변과 구별하고자 한다.
 
@@ -680,7 +831,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-05"></span>
 
-**극상 5. 손과 발의 분절별 신경지배를 동시에 맞춘 것은?**
+**상 5. 손과 발의 분절별 신경지배를 동시에 맞춘 것은?**
 
 각 충양근군의 기능은 몸쪽 관절 굽힘·마디관절 폄이라는 공통 틀로 제시한다. 신경지배의 경계만 비교하라.
 
@@ -709,7 +860,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-06"></span>
 
-**극상 6. 안구 위치와 신경 예외를 함께 적용한 설명은?**
+**상 6. 안구 위치와 신경 예외를 함께 적용한 설명은?**
 
 오른눈을 모은 상태에서 아래로 보는 운동이 특히 어렵다. 내직근의 모음은 가능하고 눈꺼풀 처짐·동공 변화는 없다. 단독 외안근 신경 손상을 가정한다.
 
@@ -738,7 +889,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-07"></span>
 
-**극상 7. 같은 경로를 빌린 섬유와 뇌신경 자체를 구별한 것은?**
+**상 7. 같은 경로를 빌린 섬유와 뇌신경 자체를 구별한 것은?**
 
 설골 아래 근육에서 갑상설골근의 운동섬유를 추적한다. 설하신경과 동행한다는 사실을 출발점으로 해석하라.
 
@@ -767,7 +918,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-08"></span>
 
-**극상 8. 기능 조합이 단독 총비골신경 손상보다 더 근위 문제를 시사하는 이유는?**
+**상 8. 기능 조합이 단독 총비골신경 손상보다 더 근위 문제를 시사하는 이유는?**
 
 발등굽힘·가쪽번짐뿐 아니라 후경골근의 안쪽번짐도 약하다. 검사는 후경골근과 전경골근의 안쪽번짐을 구별했고 힘줄 손상은 없다.
 
@@ -796,7 +947,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-09"></span>
 
-**극상 9. 세 혈관의 경계 표지와 차례를 모두 맞춘 것은?**
+**상 9. 세 혈관의 경계 표지와 차례를 모두 맞춘 것은?**
 
 팔로 가는 하나의 동맥 주간을 목에서 상완까지 추적한다. 가지 동맥과 혼동하지 않는다.
 
@@ -825,7 +976,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-10"></span>
 
-**극상 10. 배변 때 조직 유형과 기능 변화를 정확히 연결한 것은?**
+**상 10. 배변 때 조직 유형과 기능 변화를 정확히 연결한 것은?**
 
 내항문괄약근, 외항문괄약근, 치골직장근을 각각 고리·슬링으로 비교한다.
 
@@ -854,7 +1005,7 @@ UAMS **Muscle Tables의 7개 부위 표에 있는 294개 목록 행**을 대조�
 
 <span id="advanced-anatomy-expert-11"></span>
 
-**극상 11. 검사 자세와 신경 경계를 모두 유지한 기록은?**
+**상 11. 검사 자세와 신경 경계를 모두 유지한 기록은?**
 
 MCP 굽힘과 IP 폄을 결합한 자세에서 손의 충양근을 평가한다. 엄지에서 가까운 순서로 제1·2 충양근과 제3·4 충양근을 나눈다. 전골간신경만 손상된 경우 충양근의 직접 탈신경 여부도 비교한다.
 
@@ -881,12 +1032,70 @@ MCP 굽힘과 IP 폄을 결합한 자세에서 손의 충양근을 평가한다.
 
 </details>
 
+<span id="advanced-anatomy-expert-12"></span>
+
+**상 12. 제시된 조건을 함께 고려한 가장 적합한 답은?**
+
+힘줄 장축에서 국소 저에코가 보였다. 탐촉자 각도를 조절하자 평행 섬유 에코가 회복되며, 두 면에서 연속성은 유지된다. 가장 먼저 고려할 설명은?
+
+1. 완전 파열에 의한 힘줄 단절
+2. 뼈 피질 뒤의 음향음영
+3. 입사각에 따른 이방성 인공물
+4. 액체 뒤의 후방음향증강
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 3번** — 이방성 인공물 — 각도 조절에 따라 에코가 회복되는 변화와 섬유 연속성 보존을 함께 설명한다.
+
+**결정적 감별 단서:** 각도를 바꿨을 때 회복되는 에코와 두 면의 연속성을 함께 본다.
+
+**가장 가까운 오답:** 1번 — 저에코는 공유하지만 두 면의 연속성 보존과 각도만으로 회복되는 소견을 설명하지 못한다.
+
+- **1번 (오답):** 저에코는 공유하지만 두 면의 연속성 보존과 각도만으로 회복되는 소견을 설명하지 못한다.
+- **2번 (오답):** 음영은 강한 반사 뒤쪽 관계로 읽어야 하며 힘줄 내부의 각도 반응과 다르다.
+- **3번 (정답):** 각도 조절에 따라 에코가 회복되는 변화와 섬유 연속성 보존을 함께 설명한다.
+- **4번 (오답):** 후방증강은 뒤쪽이 밝아지는 관계로, 힘줄 저에코의 각도 의존성과 다르다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-anisotropy)
+
+</details>
+
+<span id="advanced-anatomy-expert-13"></span>
+
+**상 13. 제시된 조건을 함께 고려한 가장 적합한 답은?**
+
+혈관 안에 파란색 신호가 보였고 탐촉자 압력을 줄이자 신호가 증가했다. 혈관 주행은 아직 끝까지 추적하지 않았다. 가장 타당한 판독은?
+
+1. 파랑이므로 정맥이며 압박 반응은 추가 확인이 필요 없다
+2. 압박을 줄여 신호가 늘었으므로 동맥이다
+3. 혈관 색이 보였으므로 속도·각도 설정은 종류 판별과 무관하다
+4. 색지도·방향·압박·주행을 확인한 뒤 혈관 종류를 판단
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 4번** — 색도플러 방향 — 파랑은 설정된 방향 정보이며 압박은 흐름에 영향을 줄 수 있으므로 해부·설정을 함께 확인한다.
+
+**결정적 감별 단서:** 색·압박 반응은 각각 단서이며 동맥/정맥의 단일 확정 표지가 아니다.
+
+**가장 가까운 오답:** 1번 — 정맥 가능성은 있지만 색은 탐촉자에 대한 방향이라 정맥의 고정 표지가 아니다.
+
+- **1번 (오답):** 정맥 가능성은 있지만 색은 탐촉자에 대한 방향이라 정맥의 고정 표지가 아니다.
+- **2번 (오답):** 압박 반응은 혈류 표시 변화의 단서이지만 그것만으로 동맥을 확정하지 못한다.
+- **3번 (오답):** 색 신호 자체는 흐름의 단서지만 설정·방향·주행을 생략할 수 없다.
+- **4번 (정답):** 파랑은 설정된 방향 정보이며 압박은 흐름에 영향을 줄 수 있으므로 해부·설정을 함께 확인한다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-doppler)
+
+</details>
+
 <!-- ADVANCED_QUESTIONS_END -->
 
 
 <!-- STUDY_DIRECTORY_START -->
 ## 전체 학습 요약과 원문 {#study-directory}
-457개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
+584개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
 
 <details markdown="1">
 <summary>근육 · 목·뒤통수 · 4개 카드</summary>
@@ -8499,6 +8708,1854 @@ MCP 굽힘과 IP 폄을 결합한 자세에서 손의 충양근을 평가한다.
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-palmaris-brevis)
 참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/)
+
+</details>
+
+<details markdown="1">
+<summary>중추신경·전도로 · 28개 카드</summary>
+
+<span id="anatomy-neuro-lateral-corticospinal"></span>
+
+**가쪽피질척수로**
+
+- **영문명:** Lateral corticospinal tract
+- **위치·연결:** 대뇌 운동피질→연수 피라미드교차→척수 앞뿔 운동 회로
+- **기능·분포:** 사지의 정교한 수의운동에 기여
+- **식별·비교:** 척수 편측 손상에서는 병변 아래 같은 쪽 운동 장애; 대뇌 병변의 반대쪽 장애와 교차 위치가 다름
+
+- **다른 표기:** 가쪽피질척수로 · Lateral corticospinal tract
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-lateral-corticospinal)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-spinothalamic"></span>
+
+**척수시상로**
+
+- **영문명:** Spinothalamic tract
+- **위치·연결:** 뒤뿌리 진입→뒤뿔 중계→분절 부근 교차→시상
+- **기능·분포:** 몸통·사지의 통각·온도 정보를 전달
+- **식별·비교:** 뒤기둥 경로와 감각 종류·교차 위치를 구분; 손상 아래 반대쪽 감각 저하는 몇 분절 아래부터 가능
+
+- **다른 표기:** 척수시상로 · Spinothalamic tract
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-spinothalamic)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-gracilis"></span>
+
+**얇은다발**
+
+- **영문명:** Fasciculus gracilis
+- **위치·연결:** 같은 쪽 뒤기둥으로 올라가 연수 얇은핵에 중계
+- **기능·분포:** 정교한 촉각·진동·의식적 위치감각
+- **식별·비교:** 쐐기다발보다 안쪽; 척수에서 교차하지 않고 연수에서 교차
+
+- **다른 표기:** 얇은다발 · Fasciculus gracilis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-gracilis)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-cuneatus"></span>
+
+**쐐기다발**
+
+- **영문명:** Fasciculus cuneatus
+- **위치·연결:** 대략 T6 위에서 나타나 연수 쐐기핵에 중계
+- **기능·분포:** 상지·위몸통의 정교한 촉각·진동·위치감각
+- **식별·비교:** 하부 척수에는 이 다발이 없고 얇은다발만 있음
+
+- **다른 표기:** 쐐기다발 · Fasciculus cuneatus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-cuneatus)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-medial-lemniscus"></span>
+
+**안쪽섬유띠**
+
+- **영문명:** Medial lemniscus
+- **위치·연결:** 속활꼴섬유 교차 뒤 반대편 VPL 시상핵으로 연결
+- **기능·분포:** 뒤기둥 계통의 체성감각을 시상에 전달
+- **식별·비교:** 척수의 뒤기둥과 뇌줄기의 이 경로는 교차 전후가 다름
+
+- **다른 표기:** 안쪽섬유띠 · Medial lemniscus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-medial-lemniscus)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-dorsal-root"></span>
+
+**뒤뿌리**
+
+- **영문명:** Dorsal root
+- **위치·연결:** 척수신경→뒤뿌리신경절→뒤뿔 또는 상행 경로
+- **기능·분포:** 몸감각·내장감각의 척수 진입
+- **식별·비교:** 앞뿌리의 운동 유출과 구별; 뒤가지와 뒤뿌리는 다른 구조
+
+- **다른 표기:** 뒤뿌리 · Dorsal root
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-dorsal-root)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-ventral-root"></span>
+
+**앞뿌리**
+
+- **영문명:** Ventral root
+- **위치·연결:** 운동신경 섬유가 나가 뒤뿌리와 합쳐 혼합 척수신경
+- **기능·분포:** 몸운동과 해당 분절의 자율신경 유출
+- **식별·비교:** 혼합신경 이후 앞가지·뒤가지에는 감각·운동이 함께 있음
+
+- **다른 표기:** 앞뿌리 · Ventral root
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-ventral-root)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-dorsal-root-ganglion"></span>
+
+**뒤뿌리신경절**
+
+- **영문명:** Dorsal root ganglion
+- **위치·연결:** 척수신경 뒤뿌리의 팽대부; 거짓홑극신경세포
+- **기능·분포:** 말초와 중추 가지를 잇는 감각신경세포 몸통
+- **식별·비교:** 자율신경절처럼 여기서 일반적인 시냅스 중계를 하는 것은 아님
+
+- **다른 표기:** 뒤뿌리신경절 · Dorsal root ganglion
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-dorsal-root-ganglion)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-anterior-horn"></span>
+
+**척수 앞뿔**
+
+- **영문명:** Anterior horn
+- **위치·연결:** 아래운동신경세포 축삭이 앞뿌리를 거쳐 근육으로 연결
+- **기능·분포:** 분절별 골격근 운동 출력
+- **식별·비교:** 손상 분절의 위축·반사저하와 상위 운동로 손상 아래의 징후를 구분
+
+- **다른 표기:** 척수 앞뿔 · Anterior horn
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-anterior-horn)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-posterior-horn"></span>
+
+**척수 뒤뿔**
+
+- **영문명:** Posterior horn
+- **위치·연결:** 뒤뿌리 감각 입력을 받아 중간신경·상행로에 연결
+- **기능·분포:** 통각·온도 등 감각의 중계·조절
+- **식별·비교:** 뒤뿌리신경절의 일차 감각세포 몸통과 위치가 다름
+
+- **다른 표기:** 척수 뒤뿔 · Posterior horn
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-posterior-horn)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-lateral-horn"></span>
+
+**척수 가쪽뿔**
+
+- **영문명:** Lateral horn
+- **위치·연결:** T1–L2 부근 중간가쪽세포기둥의 교감 절전세포
+- **기능·분포:** 교감신경 원심성 출력
+- **식별·비교:** S2–S4 부교감 출력과 분절·세포군 위치를 함께 구분
+
+- **다른 표기:** 척수 가쪽뿔 · Lateral horn
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-lateral-horn)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-conus"></span>
+
+**척수원뿔**
+
+- **영문명:** Conus medullaris
+- **위치·연결:** 보통 L1–L2 척추 높이 부근; 개인차 있음
+- **기능·분포:** 아래 척수 분절을 포함하는 척수 말단
+- **식별·비교:** 척추 높이와 척수 분절은 일치하지 않음; 아래쪽 말총은 신경뿌리 묶음
+
+- **다른 표기:** 척수원뿔 · Conus medullaris
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-conus)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-cauda"></span>
+
+**말총**
+
+- **영문명:** Cauda equina
+- **위치·연결:** 허리수조에서 각 신경뿌리가 해당 추간공 방향으로 하행
+- **기능·분포:** 하지·골반의 말초 감각·운동 연결
+- **식별·비교:** 척수 백색질 자체가 아니라 말초 신경뿌리; 원뿔 병변과 범위를 비교
+
+- **다른 표기:** 말총 · Cauda equina
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-cauda)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-internal-capsule"></span>
+
+**속섬유막**
+
+- **영문명:** Internal capsule
+- **위치·연결:** 뒤다리에는 운동·감각 투사 섬유; 무릎에는 피질핵로가 통과
+- **기능·분포:** 피질과 뇌줄기·척수·시상 연결
+- **식별·비교:** 작은 병변도 여러 경로를 함께 영향; 뇌량의 반구 간 연결과 구분
+
+- **다른 표기:** 속섬유막 · Internal capsule
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-internal-capsule)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-corpus-callosum"></span>
+
+**뇌량**
+
+- **영문명:** Corpus callosum
+- **위치·연결:** 부리·무릎·몸통·팽대의 부분으로 나눔
+- **기능·분포:** 좌우 대뇌반구 사이 정보 연결
+- **식별·비교:** 속섬유막의 위아래 투사섬유와 달리 맞교차섬유
+
+- **다른 표기:** 뇌량 · Corpus callosum
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-corpus-callosum)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-thalamus"></span>
+
+**시상**
+
+- **영문명:** Thalamus
+- **위치·연결:** 여러 핵을 통해 피질과 감각·운동 회로를 연결
+- **기능·분포:** 후각의 일차 피질 경로를 제외한 주요 감각 중계에 관여
+- **식별·비교:** 시상하부의 항상성·내분비 조절과 구분; 모든 핵이 같은 감각은 아님
+
+- **다른 표기:** 시상 · Thalamus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-thalamus)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-hypothalamus"></span>
+
+**시상하부**
+
+- **영문명:** Hypothalamus
+- **위치·연결:** 뇌하수체줄기·뇌줄기 자율 회로와 연결
+- **기능·분포:** 체온·섭식·수분·내분비·일주기 조절
+- **식별·비교:** 감각 중계 중심인 시상과 위치·역할을 구분
+
+- **다른 표기:** 시상하부 · Hypothalamus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-hypothalamus)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-precentral"></span>
+
+**중심앞이랑**
+
+- **영문명:** Precentral gyrus
+- **위치·연결:** 전두엽 일차운동피질; 운동 신체지도가 배열
+- **기능·분포:** 반대쪽 신체 수의운동 조절
+- **식별·비교:** 중심뒤이랑의 감각 입력과 고랑 앞뒤를 비교
+
+- **다른 표기:** 중심앞이랑 · Precentral gyrus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-precentral)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-postcentral"></span>
+
+**중심뒤이랑**
+
+- **영문명:** Postcentral gyrus
+- **위치·연결:** 두정엽 일차몸감각피질; 시상 감각 입력
+- **기능·분포:** 반대쪽 몸의 촉각·위치감각 등 처리
+- **식별·비교:** 중심앞이랑과 운동·감각, 전두엽·두정엽을 분리
+
+- **다른 표기:** 중심뒤이랑 · Postcentral gyrus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-postcentral)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-cerebellum"></span>
+
+**소뇌**
+
+- **영문명:** Cerebellum
+- **위치·연결:** 위·중간·아래 소뇌다리로 뇌줄기와 연결
+- **기능·분포:** 운동의 타이밍·정확도·평형과 학습에 기여
+- **식별·비교:** 주로 같은 쪽 팔다리 협응 장애를 생각; 근력 저하와 운동실조는 다른 소견
+
+- **다른 표기:** 소뇌 · Cerebellum
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-cerebellum)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-midbrain"></span>
+
+**중간뇌**
+
+- **영문명:** Midbrain
+- **위치·연결:** 앞 대뇌다리·뒤 위아래둔덕·수도 주변 영역
+- **기능·분포:** 안구운동·시청각 반사와 상하행 경로
+- **식별·비교:** 동안·활차신경 연결을 다리뇌의 외전·안면신경과 비교
+
+- **다른 표기:** 중간뇌 · Midbrain
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-midbrain)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-pons"></span>
+
+**다리뇌**
+
+- **영문명:** Pons
+- **위치·연결:** 중간소뇌다리와 연결; V–VIII 신경 관련 구조
+- **기능·분포:** 대뇌–소뇌 연결·호흡조절·뇌신경 기능
+- **식별·비교:** 가로 섬유가 많은 배쪽과 뒤쪽 피개를 구분
+
+- **다른 표기:** 다리뇌 · Pons
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-pons)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-medulla"></span>
+
+**연수**
+
+- **영문명:** Medulla oblongata
+- **위치·연결:** 배쪽 피라미드와 교차, 뒤기둥핵, 아래쪽 뇌신경 연결
+- **기능·분포:** 호흡·순환 조절 및 감각·운동 경로 중계
+- **식별·비교:** 피라미드교차와 감각교차는 서로 다른 섬유의 교차
+
+- **다른 표기:** 연수 · Medulla oblongata
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-medulla)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-optic-chiasm"></span>
+
+**시각교차**
+
+- **영문명:** Optic chiasm
+- **위치·연결:** 시신경 뒤에서 시각로로 연결; 뇌하수체 위쪽
+- **기능·분포:** 양안 시야 정보를 반대쪽 대뇌에 배열
+- **식별·비교:** 교차부 손상은 양관자쪽 시야 결손과 연결; 한쪽 시신경 손상과 다름
+
+- **다른 표기:** 시각교차 · Optic chiasm
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-optic-chiasm)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-lateral-ventricle"></span>
+
+**가쪽뇌실**
+
+- **영문명:** Lateral ventricle
+- **위치·연결:** 뇌실사이구멍을 통해 제3뇌실로 이어짐
+- **기능·분포:** 맥락얼기의 뇌척수액 생성·순환 통로
+- **식별·비교:** 앞·뒤·아래뿔과 몸통을 단면 위치로 구분
+
+- **다른 표기:** 가쪽뇌실 · Lateral ventricle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-lateral-ventricle)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-third-ventricle"></span>
+
+**제3뇌실**
+
+- **영문명:** Third ventricle
+- **위치·연결:** 가쪽뇌실→뇌실사이구멍→이 공간→대뇌수도
+- **기능·분포:** 사이뇌 수준의 뇌척수액 순환
+- **식별·비교:** 제4뇌실의 뇌줄기·소뇌 사이 위치와 비교
+
+- **다른 표기:** 제3뇌실 · Third ventricle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-third-ventricle)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-fourth-ventricle"></span>
+
+**제4뇌실**
+
+- **영문명:** Fourth ventricle
+- **위치·연결:** 대뇌수도에서 받아 정중·가쪽구멍으로 거미막밑공간에 연결
+- **기능·분포:** 뇌척수액의 뇌실 밖 순환 연결
+- **식별·비교:** 대뇌수도 폐색에서는 이 공간보다 상류 뇌실 확대를 비교
+
+- **다른 표기:** 제4뇌실 · Fourth ventricle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-fourth-ventricle)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+<span id="anatomy-neuro-subarachnoid"></span>
+
+**거미막밑공간**
+
+- **영문명:** Subarachnoid space
+- **위치·연결:** 뇌고랑·수조 및 척수 주변으로 이어짐
+- **기능·분포:** 중추신경 완충과 뇌척수액 순환
+- **식별·비교:** 경막밑공간과 층이 다름; 정상에서 실제 액체 공간
+
+- **다른 표기:** 거미막밑공간 · Subarachnoid space
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-subarachnoid)
+참고: [중추신경 경로·교차: NCBI 척수 형태학](https://www.ncbi.nlm.nih.gov/books/NBK545206/) · [중추신경 구조: OpenStax CNS](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)
+
+</details>
+
+<details markdown="1">
+<summary>자율신경·뇌신경 분지 · 9개 카드</summary>
+
+<span id="anatomy-neuro-ophthalmic"></span>
+
+**눈신경**
+
+- **영문명:** Ophthalmic nerve V1
+- **위치·연결:** 삼차신경절에서 갈라져 눈확 쪽으로 연결
+- **기능·분포:** 이마·위눈꺼풀·각막 등의 일반감각
+- **식별·비교:** 순수 감각가지; 각막반사의 들신경과 안면신경 날신경을 구분
+
+- **다른 표기:** 눈신경 · Ophthalmic nerve V1
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-ophthalmic)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-maxillary"></span>
+
+**위턱신경**
+
+- **영문명:** Maxillary nerve V2
+- **위치·연결:** 날개입천장오목·눈확아래신경 계통으로 연결
+- **기능·분포:** 위치아·위입술·중간 얼굴의 일반감각
+- **식별·비교:** V1의 이마, V3의 아래턱 및 씹기 운동과 비교
+
+- **다른 표기:** 위턱신경 · Maxillary nerve V2
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-maxillary)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-mandibular"></span>
+
+**아래턱신경**
+
+- **영문명:** Mandibular nerve V3
+- **위치·연결:** 감각뿌리와 운동뿌리가 합쳐 아래관자오목으로 연결
+- **기능·분포:** 저작근 운동·아래얼굴 및 혀 앞부분 일반감각
+- **식별·비교:** 삼차신경 가지 중 운동 섬유 포함; 혀 미각은 별도 신경
+
+- **다른 표기:** 아래턱신경 · Mandibular nerve V3
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-mandibular)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-lingual"></span>
+
+**혀신경**
+
+- **영문명:** Lingual nerve
+- **위치·연결:** 고실끈신경이 합류해 미각·부교감 섬유도 함께 주행
+- **기능·분포:** 혀 앞부분의 촉각·통각; 합류 섬유의 운반
+- **식별·비교:** V3 자체의 감각과 VII에서 온 미각을 기원별로 구분
+
+- **다른 표기:** 혀신경 · Lingual nerve
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-lingual)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-chorda"></span>
+
+**고실끈신경**
+
+- **영문명:** Chorda tympani
+- **위치·연결:** 안면신경→바위고실틈새→혀신경→턱밑신경절
+- **기능·분포:** 혀 앞 3분의 2 미각·턱밑/혀밑샘 부교감
+- **식별·비교:** 혀 일반감각의 V3와 달리 VII 기원; 이하선 분비는 IX 계통
+
+- **다른 표기:** 고실끈신경 · Chorda tympani
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-chorda)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-recurrent-laryngeal"></span>
+
+**되돌이후두신경**
+
+- **영문명:** Recurrent laryngeal nerve
+- **위치·연결:** 기관·식도 사이 고랑을 따라 후두로 연결
+- **기능·분포:** 윤상갑상근을 제외한 후두 내재근 운동·성대 아래 감각
+- **식별·비교:** 좌우 회귀 혈관과 주행 길이가 다름; 위후두신경 바깥가지와 비교
+
+- **다른 표기:** 되돌이후두신경 · Recurrent laryngeal nerve
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-recurrent-laryngeal)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-superior-laryngeal"></span>
+
+**위후두신경**
+
+- **영문명:** Superior laryngeal nerve
+- **위치·연결:** 안쪽은 방패목뿔막 통과; 바깥은 윤상갑상근 연결
+- **기능·분포:** 성대 위 감각과 윤상갑상근의 긴장 조절
+- **식별·비교:** 되돌이후두신경의 성대 아래 감각·대부분 내재근 지배와 비교
+
+- **다른 표기:** 위후두신경 · Superior laryngeal nerve
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-superior-laryngeal)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-pelvic-splanchnic"></span>
+
+**골반내장신경**
+
+- **영문명:** Pelvic splanchnic nerves
+- **위치·연결:** 아래아랫배신경얼기 등으로 이어짐
+- **기능·분포:** 배뇨·배변·발기 등의 부교감 작용에 관여
+- **식별·비교:** 음부신경의 몸운동·피부감각과 같은 분절이라도 기능이 다름
+
+- **다른 표기:** 골반내장신경 · Pelvic splanchnic nerves
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-pelvic-splanchnic)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+<span id="anatomy-neuro-sympathetic-trunk"></span>
+
+**교감신경줄기**
+
+- **영문명:** Sympathetic trunk
+- **위치·연결:** 흰교통가지로 절전섬유를 받고 회색교통가지로 절후섬유 연결
+- **기능·분포:** 교감 출력의 상하 분절 재분배
+- **식별·비교:** 흰교통가지는 주로 T1–L2, 회색교통가지는 모든 척수신경 수준
+
+- **다른 표기:** 교감신경줄기 · Sympathetic trunk
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-neuro-sympathetic-trunk)
+참고: [UAMS 머리·목 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/) · [UAMS 골반·회음 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum/) · [OpenStax 말초신경계](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)
+
+</details>
+
+<details markdown="1">
+<summary>혈관 · 뇌·머리 · 13개 카드</summary>
+
+<span id="anatomy-vascular-aca"></span>
+
+**앞대뇌동맥**
+
+- **영문명:** Anterior cerebral artery
+- **기원·합류:** 내경동맥
+- **공급·환류:** 대뇌반구 안쪽면·다리 영역 중심
+- **식별·비교:** 중간대뇌동맥의 가쪽면 공급과 비교; 앞교통동맥으로 좌우 연결
+
+- **다른 표기:** 앞대뇌동맥 · Anterior cerebral artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-aca)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-mca"></span>
+
+**중간대뇌동맥**
+
+- **영문명:** Middle cerebral artery
+- **기원·합류:** 내경동맥
+- **공급·환류:** 대뇌 가쪽면·얼굴/팔 영역과 깊은 분지
+- **식별·비교:** 가쪽고랑을 따라감; 속섬유막의 깊은 분지와 겉질 공급을 구분
+
+- **다른 표기:** 중간대뇌동맥 · Middle cerebral artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-mca)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-pca"></span>
+
+**뒤대뇌동맥**
+
+- **영문명:** Posterior cerebral artery
+- **기원·합류:** 뇌바닥동맥 종말 분지
+- **공급·환류:** 뒤통수엽 시각피질·관자엽 아래안쪽 등
+- **식별·비교:** 뒤교통동맥으로 내경동맥 계통과 연결; 변이 있음
+
+- **다른 표기:** 뒤대뇌동맥 · Posterior cerebral artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-pca)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-basilar"></span>
+
+**뇌바닥동맥**
+
+- **영문명:** Basilar artery
+- **기원·합류:** 좌우 추골동맥의 합류
+- **공급·환류:** 다리뇌·소뇌 가지와 뒤대뇌동맥 계통
+- **식별·비교:** 다리뇌 배쪽 정중선; 단일 주간과 좌우 추골동맥 구분
+
+- **다른 표기:** 뇌바닥동맥 · Basilar artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-basilar)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-acom"></span>
+
+**앞교통동맥**
+
+- **영문명:** Anterior communicating artery
+- **기원·합류:** 좌우 앞대뇌동맥 사이 연결
+- **공급·환류:** 앞쪽 대뇌동맥고리의 좌우 연결
+- **식별·비교:** 뒤교통동맥의 앞뒤 순환 연결과 다름
+
+- **다른 표기:** 앞교통동맥 · Anterior communicating artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-acom)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-pcom"></span>
+
+**뒤교통동맥**
+
+- **영문명:** Posterior communicating artery
+- **기원·합류:** 내경동맥–뒤대뇌동맥 연결
+- **공급·환류:** 앞순환과 뒤순환 사이 연결
+- **식별·비교:** 동맥고리 구성에 크기·기원 변이가 있어 곁순환을 일률 보장하지 않음
+
+- **다른 표기:** 뒤교통동맥 · Posterior communicating artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-pcom)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-pica"></span>
+
+**뒤아래소뇌동맥**
+
+- **영문명:** Posterior inferior cerebellar artery
+- **기원·합류:** 주로 추골동맥
+- **공급·환류:** 소뇌 아래뒤면·가쪽 연수 영역
+- **식별·비교:** 앞아래소뇌동맥의 뇌바닥동맥 기원·다리뇌 영역과 비교
+
+- **다른 표기:** 뒤아래소뇌동맥 · Posterior inferior cerebellar artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-pica)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-aica"></span>
+
+**앞아래소뇌동맥**
+
+- **영문명:** Anterior inferior cerebellar artery
+- **기원·합류:** 뇌바닥동맥
+- **공급·환류:** 소뇌 앞아래면·가쪽 다리뇌 영역
+- **식별·비교:** 미로동맥이 나올 수 있으나 기원 변이 있음
+
+- **다른 표기:** 앞아래소뇌동맥 · Anterior inferior cerebellar artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-aica)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-sca"></span>
+
+**위소뇌동맥**
+
+- **영문명:** Superior cerebellar artery
+- **기원·합류:** 뇌바닥동맥 위쪽
+- **공급·환류:** 소뇌 위면·상부 소뇌다리 등
+- **식별·비교:** 뒤대뇌동맥 바로 아래 기원과 소뇌 위아래 공급을 비교
+
+- **다른 표기:** 위소뇌동맥 · Superior cerebellar artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-sca)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-middle-meningeal"></span>
+
+**중간뇌막동맥**
+
+- **영문명:** Middle meningeal artery
+- **기원·합류:** 위턱동맥
+- **공급·환류:** 경막·머리뼈 안쪽면
+- **식별·비교:** 가시구멍 통과; 뇌 실질 공급 혈관과 경막 혈관을 구분
+
+- **다른 표기:** 중간뇌막동맥 · Middle meningeal artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-middle-meningeal)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-facial"></span>
+
+**얼굴동맥**
+
+- **영문명:** Facial artery
+- **기원·합류:** 외경동맥
+- **공급·환류:** 얼굴의 입술·코 등 표면 구조
+- **식별·비교:** 교근 앞에서 아래턱 아래모서리를 넘어감; 얼굴정맥과 주행은 같지 않음
+
+- **다른 표기:** 얼굴동맥 · Facial artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-facial)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-maxillary"></span>
+
+**위턱동맥**
+
+- **영문명:** Maxillary artery
+- **기원·합류:** 외경동맥 종말가지
+- **공급·환류:** 깊은 얼굴·저작부·코안·경막 가지
+- **식별·비교:** 얕은관자동맥과 외경동맥의 두 종말가지; 익돌근 관계에 변이
+
+- **다른 표기:** 위턱동맥 · Maxillary artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-maxillary)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+<span id="anatomy-vascular-superficial-temporal"></span>
+
+**얕은관자동맥**
+
+- **영문명:** Superficial temporal artery
+- **기원·합류:** 외경동맥 종말가지
+- **공급·환류:** 관자·머리덮개
+- **식별·비교:** 귀 앞에서 광대활을 넘어감; 깊은 얼굴의 위턱동맥과 비교
+
+- **다른 표기:** 얕은관자동맥 · Superficial temporal artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-superficial-temporal)
+참고: [UAMS 머리·목 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/)
+
+</details>
+
+<details markdown="1">
+<summary>혈관 · 심장·장기·환류 · 16개 카드</summary>
+
+<span id="anatomy-vascular-right-coronary"></span>
+
+**오른관상동맥**
+
+- **영문명:** Right coronary artery
+- **기원·합류:** 오른대동맥굴
+- **공급·환류:** 오른심장·아래벽 등; 우세형에 따라 범위 차이
+- **식별·비교:** 뒤심실사이동맥 기원에 따라 관상 우세형 판단
+
+- **다른 표기:** 오른관상동맥 · Right coronary artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-right-coronary)
+참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+<span id="anatomy-vascular-left-coronary"></span>
+
+**왼관상동맥**
+
+- **영문명:** Left coronary artery
+- **기원·합류:** 왼대동맥굴
+- **공급·환류:** 앞심실사이가지·휘돌이가지로 왼심장 주요 영역
+- **식별·비교:** 관상동맥의 공급은 심장방 안의 혈액에서 직접 오는 것이 아님
+
+- **다른 표기:** 왼관상동맥 · Left coronary artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-left-coronary)
+참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+<span id="anatomy-vascular-lad"></span>
+
+**앞심실사이동맥**
+
+- **영문명:** Anterior interventricular artery LAD
+- **기원·합류:** 왼관상동맥
+- **공급·환류:** 왼심실 앞벽·심실중격 앞쪽 중심
+- **식별·비교:** 앞심실사이고랑; 휘돌이가지의 관상고랑과 비교
+
+- **다른 표기:** 앞심실사이동맥 · Anterior interventricular artery LAD
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-lad)
+참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+<span id="anatomy-vascular-circumflex"></span>
+
+**휘돌이동맥**
+
+- **영문명:** Circumflex artery
+- **기원·합류:** 왼관상동맥
+- **공급·환류:** 왼심방·왼심실 가쪽 등
+- **식별·비교:** 왼관상고랑을 따라감; 왼우세형에서 뒤심실사이가지 공급 가능
+
+- **다른 표기:** 휘돌이동맥 · Circumflex artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-circumflex)
+참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+<span id="anatomy-vascular-coronary-sinus"></span>
+
+**관상정맥굴**
+
+- **영문명:** Coronary sinus
+- **기원·합류:** 심장정맥의 합류
+- **공급·환류:** 심근 정맥혈을 오른심방으로 환류
+- **식별·비교:** 폐정맥의 왼심방 환류와 구분
+
+- **다른 표기:** 관상정맥굴 · Coronary sinus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-coronary-sinus)
+참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+<span id="anatomy-vascular-proper-hepatic"></span>
+
+**고유간동맥**
+
+- **영문명:** Proper hepatic artery
+- **기원·합류:** 총간동맥에서 위샘창자동맥 분지 뒤
+- **공급·환류:** 간의 동맥성 공급
+- **식별·비교:** 간문맥·담관과 간십이지장인대 안 주행; 동맥 기원 변이 있음
+
+- **다른 표기:** 고유간동맥 · Proper hepatic artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-proper-hepatic)
+참고: [UAMS 복부 동맥 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/)
+
+<span id="anatomy-vascular-gastroduodenal"></span>
+
+**위샘창자동맥**
+
+- **영문명:** Gastroduodenal artery
+- **기원·합류:** 보통 총간동맥
+- **공급·환류:** 위·샘창자·이자머리의 가지
+- **식별·비교:** 위뒤/이자샘창자 계통으로 복강–상장간막 곁순환 연결
+
+- **다른 표기:** 위샘창자동맥 · Gastroduodenal artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-gastroduodenal)
+참고: [UAMS 복부 동맥 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/)
+
+<span id="anatomy-vascular-ileocolic"></span>
+
+**돌잘록창자동맥**
+
+- **영문명:** Ileocolic artery
+- **기원·합류:** 상장간막동맥
+- **공급·환류:** 끝회장·맹장·충수·상행결장 일부
+- **식별·비교:** 충수동맥 계통 연결; 하장간막동맥의 원위 결장 공급과 구분
+
+- **다른 표기:** 돌잘록창자동맥 · Ileocolic artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-ileocolic)
+참고: [UAMS 복부 동맥 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/)
+
+<span id="anatomy-vascular-left-colic"></span>
+
+**왼잘록창자동맥**
+
+- **영문명:** Left colic artery
+- **기원·합류:** 하장간막동맥
+- **공급·환류:** 내림결장·가로결장 원위부 등
+- **식별·비교:** 중간잘록창자동맥과 가장자리동맥 계통 연결
+
+- **다른 표기:** 왼잘록창자동맥 · Left colic artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-left-colic)
+참고: [UAMS 복부 동맥 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/)
+
+<span id="anatomy-vascular-superior-rectal"></span>
+
+**위곧창자동맥**
+
+- **영문명:** Superior rectal artery
+- **기원·합류:** 하장간막동맥의 연속
+- **공급·환류:** 상부 직장
+- **식별·비교:** 중간·아래직장동맥의 내장골/속음부 계통과 구분
+
+- **다른 표기:** 위곧창자동맥 · Superior rectal artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-superior-rectal)
+참고: [UAMS 복부 동맥 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/)
+
+<span id="anatomy-vascular-smv"></span>
+
+**상장간막정맥**
+
+- **영문명:** Superior mesenteric vein
+- **기원·합류:** 중간창자 계통 정맥 합류
+- **공급·환류:** 이자목 뒤에서 지라정맥과 문맥 형성
+- **식별·비교:** 같은 이름 동맥은 장기 공급, 이 정맥은 문맥성 환류
+
+- **다른 표기:** 상장간막정맥 · Superior mesenteric vein
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-smv)
+참고: [UAMS 복부 정맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/vein-tables/selected-veins-of-the-abdomen/)
+
+<span id="anatomy-vascular-splenic-vein"></span>
+
+**지라정맥**
+
+- **영문명:** Splenic vein
+- **기원·합류:** 지라·이자 등의 정맥 합류
+- **공급·환류:** 이자 뒤를 가로질러 상장간막정맥과 문맥 형성
+- **식별·비교:** 지라동맥의 구불구불한 이자 위모서리 주행과 비교
+
+- **다른 표기:** 지라정맥 · Splenic vein
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-splenic-vein)
+참고: [UAMS 복부 정맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/vein-tables/selected-veins-of-the-abdomen/)
+
+<span id="anatomy-vascular-imv"></span>
+
+**하장간막정맥**
+
+- **영문명:** Inferior mesenteric vein
+- **기원·합류:** 뒤창자 계통 정맥 합류
+- **공급·환류:** 흔히 지라정맥에 합류; 변이 있음
+- **식별·비교:** 하장간막동맥처럼 대동맥에서 출발하는 혈관이 아님
+
+- **다른 표기:** 하장간막정맥 · Inferior mesenteric vein
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-imv)
+참고: [UAMS 복부 정맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/vein-tables/selected-veins-of-the-abdomen/)
+
+<span id="anatomy-vascular-hepatic-veins"></span>
+
+**간정맥군**
+
+- **영문명:** Hepatic veins
+- **기원·합류:** 간 안의 정맥 수집 계통
+- **공급·환류:** 간에서 하대정맥으로 환류
+- **식별·비교:** 간문맥은 간에 들어오고 간정맥은 나감; 간문부 동행 다발과 위치가 다름
+
+- **다른 표기:** 간정맥군 · Hepatic veins
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-hepatic-veins)
+참고: [UAMS 복부 정맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/vein-tables/selected-veins-of-the-abdomen/)
+
+<span id="anatomy-vascular-azygos"></span>
+
+**홀정맥**
+
+- **영문명:** Azygos vein
+- **기원·합류:** 오른쪽 뒤가슴벽 정맥 합류
+- **공급·환류:** 오른폐뿌리 위를 돌아 상대정맥으로 연결
+- **식별·비교:** 하대정맥·상대정맥 사이 곁순환 연결과 가슴벽 환류
+
+- **다른 표기:** 홀정맥 · Azygos vein
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-azygos)
+참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+<span id="anatomy-vascular-brachiocephalic-vein"></span>
+
+**팔머리정맥**
+
+- **영문명:** Brachiocephalic veins
+- **기원·합류:** 내경정맥·쇄골하정맥 합류
+- **공급·환류:** 좌우가 합쳐 상대정맥 형성
+- **식별·비교:** 왼쪽은 더 길게 비스듬히 정중선을 가로지름; 팔머리동맥은 오른쪽 하나
+
+- **다른 표기:** 팔머리정맥 · Brachiocephalic veins
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-brachiocephalic-vein)
+참고: [OpenStax 순환 경로](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways)
+
+</details>
+
+<details markdown="1">
+<summary>혈관 · 사지·회음 · 3개 카드</summary>
+
+<span id="anatomy-vascular-palmar-superficial"></span>
+
+**얕은손바닥동맥활**
+
+- **영문명:** Superficial palmar arch
+- **기원·합류:** 주로 척골동맥, 요골동맥 가지의 기여
+- **공급·환류:** 손바닥·손가락의 온바닥쪽손가락가지
+- **식별·비교:** 깊은활은 요골동맥 중심; 완전한 활의 구성에는 변이
+
+- **다른 표기:** 얕은손바닥동맥활 · Superficial palmar arch
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-palmar-superficial)
+참고: [UAMS 상지 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-upper-limb/)
+
+<span id="anatomy-vascular-palmar-deep"></span>
+
+**깊은손바닥동맥활**
+
+- **영문명:** Deep palmar arch
+- **기원·합류:** 주로 요골동맥, 척골동맥 가지의 기여
+- **공급·환류:** 손허리뼈 바닥 부근의 깊은 손바닥 가지
+- **식별·비교:** 얕은활보다 몸쪽·깊게 놓임; 동맥성 연결을 해부 변이와 함께 확인
+
+- **다른 표기:** 깊은손바닥동맥활 · Deep palmar arch
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-palmar-deep)
+참고: [UAMS 상지 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-upper-limb/)
+
+<span id="anatomy-vascular-internal-pudendal"></span>
+
+**속음부동맥**
+
+- **영문명:** Internal pudendal artery
+- **기원·합류:** 내장골동맥
+- **공급·환류:** 회음·바깥생식기 등
+- **식별·비교:** 큰궁둥구멍을 나가 궁둥뼈가시 부근 돌아 작은궁둥구멍으로 진입
+
+- **다른 표기:** 속음부동맥 · Internal pudendal artery
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-vascular-internal-pudendal)
+참고: [UAMS 하지 동맥](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-lower-limb/)
+
+</details>
+
+<details markdown="1">
+<summary>뼈 표지 · 어깨·상지 · 9개 카드</summary>
+
+<span id="anatomy-landmark-glenoid"></span>
+
+**관절오목**
+
+- **영문명:** Glenoid cavity
+- **위치·형태:** 견갑골 가쪽의 상완골머리 관절면
+- **관절·부착·통과:** 위팔뼈머리·관절테두리와 어깨관절 형성
+- **식별·비교:** 얕은 관절면과 큰 운동범위; 견갑골의 근육 부착 오목과 구별
+
+- **다른 표기:** 관절오목 · Glenoid cavity
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-glenoid)
+참고: [OpenStax 어깨이음뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle)
+
+<span id="anatomy-landmark-lesser-tubercle"></span>
+
+**작은결절**
+
+- **영문명:** Lesser tubercle
+- **위치·형태:** 위팔뼈 몸쪽 앞면의 뼈 돌기
+- **관절·부착·통과:** 견갑하근 힘줄 정지
+- **식별·비교:** 큰결절에 붙는 다른 회전근개 세 근육과 구별
+
+- **다른 표기:** 작은결절 · Lesser tubercle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-lesser-tubercle)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+<span id="anatomy-landmark-bicipital-groove"></span>
+
+**결절사이고랑**
+
+- **영문명:** Intertubercular sulcus
+- **위치·형태:** 위팔뼈 큰·작은결절 사이의 세로 고랑
+- **관절·부착·통과:** 상완이두근 긴갈래 힘줄이 통과
+- **식별·비교:** 힘줄 통과 고랑과 상완이두근의 노뼈 정지를 구분
+
+- **다른 표기:** 결절사이고랑 · Intertubercular sulcus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-bicipital-groove)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+<span id="anatomy-landmark-radial-groove"></span>
+
+**노신경고랑**
+
+- **영문명:** Radial groove
+- **위치·형태:** 위팔뼈 몸통 뒤면의 비스듬한 고랑
+- **관절·부착·통과:** 요골신경·상완심동맥이 통과
+- **식별·비교:** 외과목의 액와신경 관계와 손상 수준을 비교
+
+- **다른 표기:** 노신경고랑 · Radial groove
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-radial-groove)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+<span id="anatomy-landmark-lateral-epicondyle"></span>
+
+**가쪽위관절융기**
+
+- **영문명:** Lateral epicondyle of humerus
+- **위치·형태:** 위팔뼈 먼쪽 가쪽의 관절 바깥 돌기
+- **관절·부착·통과:** 공통 폄근힘줄 등 부착
+- **식별·비교:** 안쪽위관절융기의 굽힘근 기원·척골신경 뒤쪽 관계와 비교
+
+- **다른 표기:** 가쪽위관절융기 · Lateral epicondyle of humerus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-lateral-epicondyle)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+<span id="anatomy-landmark-radial-tuberosity"></span>
+
+**노뼈거친면**
+
+- **영문명:** Radial tuberosity
+- **위치·형태:** 노뼈목 아래 안쪽의 거친 뼈 표지
+- **관절·부착·통과:** 상완이두근 힘줄 정지
+- **식별·비교:** 위팔뼈 결절사이고랑은 긴갈래 힘줄 통과, 이 표지는 정지
+
+- **다른 표기:** 노뼈거친면 · Radial tuberosity
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-radial-tuberosity)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+<span id="anatomy-landmark-ulnar-coronoid"></span>
+
+**자뼈갈고리돌기**
+
+- **영문명:** Coronoid process of ulna
+- **위치·형태:** 자뼈 몸쪽 앞면의 돌기
+- **관절·부착·통과:** 도르래패임 앞부분·상완근 부착 계통
+- **식별·비교:** 아래턱 근육돌기와 영문명이 비슷해 부위를 반드시 구분
+
+- **다른 표기:** 자뼈갈고리돌기 · Coronoid process of ulna
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-ulnar-coronoid)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+<span id="anatomy-landmark-radial-styloid"></span>
+
+**노뼈붓돌기**
+
+- **영문명:** Radial styloid process
+- **위치·형태:** 손목 노쪽의 먼쪽 뼈 돌기
+- **관절·부착·통과:** 손목 가쪽의 촉지 표지·인대 연결
+- **식별·비교:** 자뼈붓돌기보다 먼쪽까지 내려오는 정상 관계
+
+- **다른 표기:** 노뼈붓돌기 · Radial styloid process
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-radial-styloid)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+<span id="anatomy-landmark-ulnar-styloid"></span>
+
+**자뼈붓돌기**
+
+- **영문명:** Ulnar styloid process
+- **위치·형태:** 손목 자쪽의 먼쪽 뼈 돌기
+- **관절·부착·통과:** 삼각섬유연골복합체 등 연결 표지
+- **식별·비교:** 자뼈는 손목뼈와 직접 같은 방식으로 관절하지 않음
+
+- **다른 표기:** 자뼈붓돌기 · Ulnar styloid process
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-ulnar-styloid)
+참고: [OpenStax 상지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)
+
+</details>
+
+<details markdown="1">
+<summary>뼈 표지 · 골반 · 4개 카드</summary>
+
+<span id="anatomy-landmark-acetabulum"></span>
+
+**절구**
+
+- **영문명:** Acetabulum
+- **위치·형태:** 골반뼈 가쪽에서 넙다리뼈머리를 받는 오목
+- **관절·부착·통과:** 장골·좌골·치골이 함께 구성
+- **식별·비교:** 어깨 관절오목보다 깊은 볼관절 받침; 절구오목과 관절 달면 구분
+
+- **다른 표기:** 절구 · Acetabulum
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-acetabulum)
+참고: [OpenStax 골반이음뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-3-the-pelvic-girdle-and-pelvis)
+
+<span id="anatomy-landmark-ischial-spine"></span>
+
+**궁둥뼈가시**
+
+- **영문명:** Ischial spine
+- **위치·형태:** 큰·작은궁둥패임 사이 뒤쪽 돌기
+- **관절·부착·통과:** 천극인대 부착·음부신경혈관 회귀 표지
+- **식별·비교:** 좌골결절의 체중지지·햄스트링 부착과 구분
+
+- **다른 표기:** 궁둥뼈가시 · Ischial spine
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-ischial-spine)
+참고: [OpenStax 골반이음뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-3-the-pelvic-girdle-and-pelvis)
+
+<span id="anatomy-landmark-aiis"></span>
+
+**아래앞엉덩뼈가시**
+
+- **영문명:** Anterior inferior iliac spine
+- **위치·형태:** 앞위엉덩뼈가시 아래의 돌기
+- **관절·부착·통과:** 대퇴직근 곧은갈래 기원
+- **식별·비교:** 봉공근 기원의 앞위엉덩뼈가시와 비교
+
+- **다른 표기:** 아래앞엉덩뼈가시 · Anterior inferior iliac spine
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-aiis)
+참고: [OpenStax 골반이음뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-3-the-pelvic-girdle-and-pelvis)
+
+<span id="anatomy-landmark-pubic-symphysis"></span>
+
+**두덩결합**
+
+- **영문명:** Pubic symphysis
+- **위치·형태:** 골반 앞 정중선에서 두 두덩뼈가 만나는 연결
+- **관절·부착·통과:** 섬유연골 원반을 사이에 둔 결합
+- **식별·비교:** 활막관절인 엉치엉덩관절과 구조 유형을 구분
+
+- **다른 표기:** 두덩결합 · Pubic symphysis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-pubic-symphysis)
+참고: [OpenStax 골반이음뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-3-the-pelvic-girdle-and-pelvis)
+
+</details>
+
+<details markdown="1">
+<summary>뼈 표지 · 하지 · 6개 카드</summary>
+
+<span id="anatomy-landmark-lesser-trochanter"></span>
+
+**작은돌기**
+
+- **영문명:** Lesser trochanter
+- **위치·형태:** 넙다리뼈 몸쪽 뒤안쪽의 돌기
+- **관절·부착·통과:** 장요근 정지
+- **식별·비교:** 큰돌기의 볼기근·바깥돌림근 부착과 위치·기능 비교
+
+- **다른 표기:** 작은돌기 · Lesser trochanter
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-lesser-trochanter)
+참고: [OpenStax 하지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb)
+
+<span id="anatomy-landmark-linea-aspera"></span>
+
+**거친선**
+
+- **영문명:** Linea aspera
+- **위치·형태:** 넙다리뼈 몸통 뒤면의 세로 능선
+- **관절·부착·통과:** 내전근·광근 등의 부착 계통
+- **식별·비교:** 앞면의 매끈한 몸통과 구분; 내측·외측 입술로 나눔
+
+- **다른 표기:** 거친선 · Linea aspera
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-linea-aspera)
+참고: [OpenStax 하지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb)
+
+<span id="anatomy-landmark-adductor-tubercle"></span>
+
+**모음근결절**
+
+- **영문명:** Adductor tubercle
+- **위치·형태:** 넙다리뼈 먼쪽 안쪽의 작은 돌기
+- **관절·부착·통과:** 대내전근 햄스트링부분 힘줄 정지
+- **식별·비교:** 안쪽위관절융기 주변 표지이나 같은 전체 구조는 아님
+
+- **다른 표기:** 모음근결절 · Adductor tubercle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-adductor-tubercle)
+참고: [OpenStax 하지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb)
+
+<span id="anatomy-landmark-intercondylar-eminence"></span>
+
+**융기사이융기**
+
+- **영문명:** Intercondylar eminence
+- **위치·형태:** 정강뼈 위 관절면 가운데의 솟은 표지
+- **관절·부착·통과:** 십자인대·반달연골 뿌리 부착 주변
+- **식별·비교:** 앞쪽 경골조면의 슬개인대 부착과 구분
+
+- **다른 표기:** 융기사이융기 · Intercondylar eminence
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-intercondylar-eminence)
+참고: [OpenStax 하지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb)
+
+<span id="anatomy-landmark-sustentaculum"></span>
+
+**목말받침돌기**
+
+- **영문명:** Sustentaculum tali
+- **위치·형태:** 발꿈치뼈 안쪽에서 목말뼈를 받치는 돌기
+- **관절·부착·통과:** 긴엄지굽힘근힘줄이 아래쪽 고랑 통과
+- **식별·비교:** 가쪽 발꿈치뼈의 종아리근힘줄 관계와 비교
+
+- **다른 표기:** 목말받침돌기 · Sustentaculum tali
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-sustentaculum)
+참고: [OpenStax 하지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb)
+
+<span id="anatomy-landmark-fifth-metatarsal-base"></span>
+
+**제5발허리뼈 거친면**
+
+- **영문명:** Tuberosity of fifth metatarsal
+- **위치·형태:** 발 가쪽의 제5발허리뼈 바닥 돌출
+- **관절·부착·통과:** 짧은종아리근힘줄 정지
+- **식별·비교:** 견열 골절 부위와 더 먼쪽 근위 간부 골절 부위를 구분
+
+- **다른 표기:** 제5발허리뼈 거친면 · Tuberosity of fifth metatarsal
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-fifth-metatarsal-base)
+참고: [OpenStax 하지 뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb)
+
+</details>
+
+<details markdown="1">
+<summary>뼈 표지 · 척추 · 3개 카드</summary>
+
+<span id="anatomy-landmark-pedicle"></span>
+
+**척추뿌리**
+
+- **영문명:** Pedicle
+- **위치·형태:** 척추체 뒤에서 척추활로 이어지는 짧은 연결부
+- **관절·부착·통과:** 위아래 패임이 추간공 경계 형성
+- **식별·비교:** 척추고리판과 앞뒤 위치가 다름; 몸통–뒤구조 연결
+
+- **다른 표기:** 척추뿌리 · Pedicle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-pedicle)
+참고: [OpenStax 척주](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column)
+
+<span id="anatomy-landmark-lamina"></span>
+
+**척추고리판**
+
+- **영문명:** Lamina
+- **위치·형태:** 척추활 뒤에서 가시돌기로 이어지는 판
+- **관절·부착·통과:** 척추관 뒤벽·황색인대 연결
+- **식별·비교:** 척추뿌리는 더 앞쪽, 고리판은 뒤쪽
+
+- **다른 표기:** 척추고리판 · Lamina
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-lamina)
+참고: [OpenStax 척주](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column)
+
+<span id="anatomy-landmark-intervertebral-foramen"></span>
+
+**추간공**
+
+- **영문명:** Intervertebral foramen
+- **위치·형태:** 인접 척추 사이 가쪽에서 신경이 나가는 공간
+- **관절·부착·통과:** 척추뿌리 패임·디스크·후관절 등이 경계
+- **식별·비교:** 척추관의 중앙 통로와 신경뿌리 출구를 구분
+
+- **다른 표기:** 추간공 · Intervertebral foramen
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-intervertebral-foramen)
+참고: [OpenStax 척주](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column)
+
+</details>
+
+<details markdown="1">
+<summary>뼈 표지 · 머리뼈바닥 · 6개 카드</summary>
+
+<span id="anatomy-landmark-optic-canal"></span>
+
+**시각신경관**
+
+- **영문명:** Optic canal
+- **위치·형태:** 접형골 작은날개 부근의 눈확 통로
+- **관절·부착·통과:** 시신경·눈동맥 통과
+- **식별·비교:** 위눈확틈새의 III·IV·V1·VI와 구분
+
+- **다른 표기:** 시각신경관 · Optic canal
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-optic-canal)
+참고: [OpenStax 머리뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull)
+
+<span id="anatomy-landmark-superior-orbital-fissure"></span>
+
+**위눈확틈새**
+
+- **영문명:** Superior orbital fissure
+- **위치·형태:** 접형골 큰·작은날개 사이의 눈확 틈
+- **관절·부착·통과:** III·IV·V1·VI 및 위눈정맥 계통
+- **식별·비교:** 시신경은 이 틈새가 아니라 시각신경관 통과
+
+- **다른 표기:** 위눈확틈새 · Superior orbital fissure
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-superior-orbital-fissure)
+참고: [OpenStax 머리뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull)
+
+<span id="anatomy-landmark-jugular-foramen"></span>
+
+**목정맥구멍**
+
+- **영문명:** Jugular foramen
+- **위치·형태:** 관자뼈와 뒤통수뼈 사이의 머리뼈바닥 통로
+- **관절·부착·통과:** IX·X·XI와 내경정맥 계통
+- **식별·비교:** 설하신경은 별도 설하신경관 통과
+
+- **다른 표기:** 목정맥구멍 · Jugular foramen
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-jugular-foramen)
+참고: [OpenStax 머리뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull)
+
+<span id="anatomy-landmark-foramen-ovale"></span>
+
+**타원구멍**
+
+- **영문명:** Foramen ovale
+- **위치·형태:** 접형골 큰날개의 아래턱신경 통로
+- **관절·부착·통과:** V3 등 통과
+- **식별·비교:** 원형구멍의 V2, 가시구멍의 중간뇌막동맥과 비교
+
+- **다른 표기:** 타원구멍 · Foramen ovale
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-foramen-ovale)
+참고: [OpenStax 머리뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull)
+
+<span id="anatomy-landmark-foramen-rotundum"></span>
+
+**원형구멍**
+
+- **영문명:** Foramen rotundum
+- **위치·형태:** 접형골에서 날개입천장오목으로 이어지는 통로
+- **관절·부착·통과:** V2 통과
+- **식별·비교:** V1의 위눈확틈새, V3의 타원구멍과 비교
+
+- **다른 표기:** 원형구멍 · Foramen rotundum
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-foramen-rotundum)
+참고: [OpenStax 머리뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull)
+
+<span id="anatomy-landmark-foramen-spinosum"></span>
+
+**가시구멍**
+
+- **영문명:** Foramen spinosum
+- **위치·형태:** 타원구멍 뒤가쪽의 작은 머리뼈바닥 통로
+- **관절·부착·통과:** 중간뇌막동맥·정맥 등 통과
+- **식별·비교:** 뇌신경 주간의 통로와 경막 혈관 통로를 구분
+
+- **다른 표기:** 가시구멍 · Foramen spinosum
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-landmark-foramen-spinosum)
+참고: [OpenStax 머리뼈](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull)
+
+</details>
+
+<details markdown="1">
+<summary>영상 원리 · 1개 카드</summary>
+
+<span id="anatomy-imaging-ultrasound"></span>
+
+**초음파영상**
+
+- **영문명:** Ultrasonography
+- **원리·표지:** 고주파 음파의 반사를 실시간 영상화
+- **관찰·적용:** 얕은 연부조직·힘줄·혈관·동적 운동 관찰
+- **판독·감별:** 뼈·공기 뒤가 가려지고 탐촉자 각도·압력에 따라 모양 달라짐
+
+- **다른 표기:** 초음파영상 · Ultrasonography
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-ultrasound)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 판독 기초 · 7개 카드</summary>
+
+<span id="anatomy-imaging-us-long-short"></span>
+
+**초음파 장축·단축**
+
+- **영문명:** Ultrasound long and short axis
+- **원리·표지:** 구조 길이를 따라 보면 장축, 가로지르면 단축
+- **관찰·적용:** 힘줄·신경·혈관을 두 면에서 이어 추적
+- **판독·감별:** 한 단면의 점·원 모양만으로 구조 종류를 확정하지 않음
+
+- **다른 표기:** 초음파 장축·단축 · Ultrasound long and short axis
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-long-short)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-anisotropy"></span>
+
+**이방성 인공물**
+
+- **영문명:** Ultrasound anisotropy
+- **원리·표지:** 힘줄 등에서 음파 입사각이 달라져 신호가 약해짐
+- **관찰·적용:** 탐촉자 기울기를 바꾸어 저에코가 사라지는지 비교
+- **판독·감별:** 각도에 따른 저에코를 곧바로 힘줄 파열이라고 하지 않음
+
+- **다른 표기:** 이방성 인공물 · Ultrasound anisotropy
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-anisotropy)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-shadow"></span>
+
+**후방음향음영**
+
+- **영문명:** Posterior acoustic shadowing
+- **원리·표지:** 뼈·석회 등 뒤로 음파 전달이 줄어 어두워지는 현상
+- **관찰·적용:** 강한 표면반사와 뒤쪽 신호소실을 함께 확인
+- **판독·감별:** 액체 뒤의 후방증강과 반대 관계; 가스도 음영·인공물 유발
+
+- **다른 표기:** 후방음향음영 · Posterior acoustic shadowing
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-shadow)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-enhancement"></span>
+
+**후방음향증강**
+
+- **영문명:** Posterior acoustic enhancement
+- **원리·표지:** 액체를 지난 음파 감쇠가 적어 뒤쪽이 상대적으로 밝아짐
+- **관찰·적용:** 액체성 구조의 내부 저에코와 뒤쪽 증강 비교
+- **판독·감별:** 증강 하나만으로 특정 낭종·질환 확정하지 않음
+
+- **다른 표기:** 후방음향증강 · Posterior acoustic enhancement
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-enhancement)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-doppler"></span>
+
+**색도플러 방향**
+
+- **영문명:** Color Doppler direction
+- **원리·표지:** 색상은 설정한 색지도에서 탐촉자에 대한 흐름 방향 표시
+- **관찰·적용:** 색지도·속도범위·각도와 실제 혈관 해부를 확인
+- **판독·감별:** 빨강은 동맥·파랑은 정맥이라는 규칙이 아님
+
+- **다른 표기:** 색도플러 방향 · Color Doppler direction
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-doppler)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-nerve"></span>
+
+**초음파에서 신경**
+
+- **영문명:** Peripheral nerve ultrasound pattern
+- **원리·표지:** 말초신경은 단축에서 다발이 모인 벌집 모양으로 관찰 가능
+- **관찰·적용:** 장축의 연속 다발·주변 힘줄/혈관과 비교
+- **판독·감별:** 부위·깊이에 따라 모양 차이; 도플러·추적·압박 반응 함께 확인
+
+- **다른 표기:** 초음파에서 신경 · Peripheral nerve ultrasound pattern
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-nerve)
+참고: [UAMS 상지 신경 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-upper-limb/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-tendon"></span>
+
+**초음파에서 힘줄**
+
+- **영문명:** Tendon ultrasound pattern
+- **원리·표지:** 장축에서 평행한 섬유 에코가 이어지는 구조
+- **관찰·적용:** 근육·뼈 부착까지 추적하고 움직임과 함께 확인
+- **판독·감별:** 신경도 선 모양이 가능; 섬유 배열·부착·이방성 비교
+
+- **다른 표기:** 초음파에서 힘줄 · Tendon ultrasound pattern
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-tendon)
+참고: [UAMS 상지 근육 해부표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 설정·조직 식별 · 11개 카드</summary>
+
+<span id="anatomy-imaging-us-probe-marker"></span>
+
+**탐촉자 방향표지**
+
+- **영문명:** Probe orientation marker
+- **원리·표지:** 화면의 표지와 탐촉자 표지를 실제 환자의 방향에 연결
+- **관찰·적용:** 장축·단축에서 어느 끝이 몸쪽인지 기록
+- **판독·감별:** 장비·기관 표시 관행을 확인; 화면 왼쪽을 항상 환자 오른쪽이라고 외우지 않음
+
+- **다른 표기:** 탐촉자 방향표지 · Probe orientation marker
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-probe-marker)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-frequency"></span>
+
+**탐촉자 주파수**
+
+- **영문명:** Transducer frequency
+- **원리·표지:** 높은 주파수는 일반적으로 얕은 구조 해상도, 낮은 주파수는 깊은 도달에 유리
+- **관찰·적용:** 얕은 힘줄·신경과 깊은 근육에 맞춰 선택
+- **판독·감별:** 주파수·해상도·깊이의 절충; 높을수록 모든 구조가 잘 보이는 것은 아님
+
+- **다른 표기:** 탐촉자 주파수 · Transducer frequency
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-frequency)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-depth-focus"></span>
+
+**깊이·초점 설정**
+
+- **영문명:** Depth and focus
+- **원리·표지:** 관찰 구조가 들어오도록 깊이를 정하고 초점을 그 부근에 설정
+- **관찰·적용:** 피부·근막·근육·뼈 표면 관계가 함께 보이는 범위를 확보
+- **판독·감별:** 너무 깊은 화면·부적절한 초점은 작은 구조를 보기 어렵게 함
+
+- **다른 표기:** 깊이·초점 설정 · Depth and focus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-depth-focus)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-gain"></span>
+
+**이득 설정**
+
+- **영문명:** Ultrasound gain
+- **원리·표지:** 수신 신호 증폭에 따라 화면의 전체 밝기를 조절
+- **관찰·적용:** 같은 부위 비교에서 이득·깊이를 일관되게 기록
+- **판독·감별:** 이득을 올려 밝아진 것을 조직의 실제 고에코 변화로 해석하지 않음
+
+- **다른 표기:** 이득 설정 · Ultrasound gain
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-gain)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-pressure"></span>
+
+**탐촉자 압박**
+
+- **영문명:** Probe compression
+- **원리·표지:** 압력에 따라 정맥·액체·얕은 조직 모양이 변화
+- **관찰·적용:** 가벼운 압박·이완과 구조 추적을 함께 확인
+- **판독·감별:** 과도한 압력으로 작은 혈관 흐름·액체가 가려질 수 있음
+
+- **다른 표기:** 탐촉자 압박 · Probe compression
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-pressure)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-dynamic"></span>
+
+**동적 관찰**
+
+- **영문명:** Dynamic ultrasound
+- **원리·표지:** 움직임에 따른 힘줄·근육·신경 위치를 실시간 비교
+- **관찰·적용:** 안정 상태와 굽힘·폄·회전에서 같은 구조를 추적
+- **판독·감별:** 움직임 때 한 장면을 보고 병변을 확정하지 않고 재현성·증상 비교
+
+- **다른 표기:** 동적 관찰 · Dynamic ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-dynamic)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-muscle-pattern"></span>
+
+**근육의 초음파 형태**
+
+- **영문명:** Muscle ultrasound pattern
+- **원리·표지:** 상대적 저에코 근육 안에 근막·결합조직 선이 분포
+- **관찰·적용:** 장축·단축에서 다발 방향과 수축 변화를 관찰
+- **판독·감별:** 힘줄의 치밀한 평행 섬유와 구분; 운동·압박·부착까지 확인
+
+- **다른 표기:** 근육의 초음파 형태 · Muscle ultrasound pattern
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-muscle-pattern)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-fascia-pattern"></span>
+
+**근막의 초음파 층**
+
+- **영문명:** Fascial ultrasound layers
+- **원리·표지:** 피부·피하조직 아래의 선상 고에코 층을 연속 추적
+- **관찰·적용:** 근막·근육 사이 경계와 미끄러짐 관계를 확인
+- **판독·감별:** 한 밝은 선만으로 특정 근막을 확정하지 않고 인접 구조·연속성 비교
+
+- **다른 표기:** 근막의 초음파 층 · Fascial ultrasound layers
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-fascia-pattern)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-bone-cortex"></span>
+
+**뼈 피질의 초음파 표면**
+
+- **영문명:** Bone cortex ultrasound
+- **원리·표지:** 뼈 표면은 강한 반사선과 뒤쪽 음영을 보임
+- **관찰·적용:** 힘줄 부착·피질 윤곽을 두 면에서 비교
+- **판독·감별:** 뼈 속·골수 전체를 초음파로 직접 관찰하는 것은 아님
+
+- **다른 표기:** 뼈 피질의 초음파 표면 · Bone cortex ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-bone-cortex)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-bursa"></span>
+
+**윤활주머니의 초음파 관계**
+
+- **영문명:** Bursa ultrasound anatomy
+- **원리·표지:** 정상 주머니는 얇고 구조 사이 공간으로 구분
+- **관찰·적용:** 힘줄·근육·뼈 표면 사이의 위치·액체·압박 반응을 비교
+- **판독·감별:** 액체가 보여도 원인·중증도를 그 양만으로 단정하지 않음
+
+- **다른 표기:** 윤활주머니의 초음파 관계 · Bursa ultrasound anatomy
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-bursa)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-recording"></span>
+
+**초음파 해부학 기록**
+
+- **영문명:** Ultrasound anatomy documentation
+- **원리·표지:** 부위·좌우·면·방향표지·깊이와 관찰 구조 기록
+- **관찰·적용:** 같은 표지·자세·설정으로 이전 영상과 비교
+- **판독·감별:** 교육용 개념 그림·실제 환자 영상·진단 결과를 각각 구분
+
+- **다른 표기:** 초음파 해부학 기록 · Ultrasound anatomy documentation
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-recording)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 부위 해부 · 11개 카드</summary>
+
+<span id="anatomy-imaging-us-biceps"></span>
+
+**어깨 앞 긴갈래힘줄 추적**
+
+- **영문명:** Long head biceps ultrasound
+- **원리·표지:** 위팔뼈 큰·작은결절 사이 고랑에서 긴갈래힘줄 확인
+- **관찰·적용:** 단축으로 고랑을 찾고 장축으로 힘줄 연속성 추적
+- **판독·감별:** 옆의 견갑하근과 혼동하지 않음; 각도와 위치 변화를 함께 비교
+
+- **다른 표기:** 어깨 앞 긴갈래힘줄 추적 · Long head biceps ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-biceps)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-subscapularis"></span>
+
+**어깨 앞 회전근개 추적**
+
+- **영문명:** Subscapularis ultrasound
+- **원리·표지:** 앞쪽 작은결절로 이어지는 회전근개 힘줄
+- **관찰·적용:** 바깥돌림 때 힘줄과 긴갈래힘줄·결절 관계 관찰
+- **판독·감별:** 큰결절에 정지하는 극상근·극하근·소원근과 부착이 다름
+
+- **다른 표기:** 어깨 앞 회전근개 추적 · Subscapularis ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-subscapularis)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-supraspinatus"></span>
+
+**어깨 위 회전근개 추적**
+
+- **영문명:** Supraspinatus ultrasound
+- **원리·표지:** 큰결절 위쪽으로 이어지는 회전근개 힘줄
+- **관찰·적용:** 두 면에서 섬유·부착·위쪽 삼각근과 주머니 관계 확인
+- **판독·감별:** 탐촉자 각도에 따른 저에코와 지속되는 섬유 결손을 구분
+
+- **다른 표기:** 어깨 위 회전근개 추적 · Supraspinatus ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-supraspinatus)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-ulnar-elbow"></span>
+
+**팔꿈치 안쪽 신경 추적**
+
+- **영문명:** Ulnar nerve elbow ultrasound
+- **원리·표지:** 내측상과 뒤쪽 고랑에서 신경 확인
+- **관찰·적용:** 몸쪽·먼쪽 추적과 팔꿈치 굽힘에 따른 위치 비교
+- **판독·감별:** 정적인 한 단면만으로 운동 때 이동을 판단하지 않음
+
+- **다른 표기:** 팔꿈치 안쪽 신경 추적 · Ulnar nerve elbow ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-ulnar-elbow)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-median-wrist"></span>
+
+**손목 앞 신경 추적**
+
+- **영문명:** Median nerve wrist ultrasound
+- **원리·표지:** 수근관에서 굽힘힘줄 사이 신경과 지지띠 관계 확인
+- **관찰·적용:** 단축 다발 모양과 몸쪽·먼쪽 연속성 비교
+- **판독·감별:** 장장근힘줄은 관 바깥; 단면 크기 하나로 모든 신경병증 확정하지 않음
+
+- **다른 표기:** 손목 앞 신경 추적 · Median nerve wrist ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-median-wrist)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-radial-wrist"></span>
+
+**노쪽 손목 힘줄 추적**
+
+- **영문명:** Radial wrist tendons ultrasound
+- **원리·표지:** 손목 노쪽에서 장무지외전근·단무지신근 힘줄의 주행 확인
+- **관찰·적용:** 단축에서 구획을 찾고 장축·움직임으로 추적
+- **판독·감별:** 신경·혈관·뼈 표지를 함께 비교; 한 힘줄 이름만으로 구획 전체를 대신하지 않음
+
+- **다른 표기:** 노쪽 손목 힘줄 추적 · Radial wrist tendons ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-radial-wrist)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-patellar"></span>
+
+**무릎 앞 인대 추적**
+
+- **영문명:** Patellar ligament ultrasound
+- **원리·표지:** 슬개골 아래끝과 경골조면 사이 섬유 다발
+- **관찰·적용:** 장축·단축에서 부착과 연속성 확인
+- **판독·감별:** 슬개골 위쪽 대퇴사두근힘줄과 부착 경계가 다름
+
+- **다른 표기:** 무릎 앞 인대 추적 · Patellar ligament ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-patellar)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-quadriceps"></span>
+
+**무릎 위 힘줄 추적**
+
+- **영문명:** Quadriceps tendon ultrasound
+- **원리·표지:** 슬개골 위끝에 붙는 대퇴사두근힘줄 계통
+- **관찰·적용:** 근육부터 힘줄·슬개골 피질까지 추적
+- **판독·감별:** 슬개인대는 슬개골 아래쪽; 다층 힘줄과 각도 영향을 함께 확인
+
+- **다른 표기:** 무릎 위 힘줄 추적 · Quadriceps tendon ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-quadriceps)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-achilles"></span>
+
+**발목 뒤 힘줄 추적**
+
+- **영문명:** Achilles tendon ultrasound
+- **원리·표지:** 비복근·가자미근 계통에서 발꿈치뼈로 이어지는 힘줄
+- **관찰·적용:** 장축 섬유와 단축 형태, 종골 부착까지 비교
+- **판독·감별:** 뒤정강근힘줄은 안쪽복사 뒤를 통과하는 별도 구조
+
+- **다른 표기:** 발목 뒤 힘줄 추적 · Achilles tendon ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-achilles)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-posterior-tibial"></span>
+
+**발목 안쪽 힘줄 추적**
+
+- **영문명:** Tibialis posterior tendon ultrasound
+- **원리·표지:** 안쪽복사 뒤에서 발 안쪽 부착으로 이어지는 힘줄
+- **관찰·적용:** 인접 장지굴근·혈관·신경·장무지굴근과 순서를 비교
+- **판독·감별:** 같은 안쪽복사 뒤 통로에서도 힘줄·혈관·신경은 다른 조직
+
+- **다른 표기:** 발목 안쪽 힘줄 추적 · Tibialis posterior tendon ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-posterior-tibial)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-fibular-tendons"></span>
+
+**발목 가쪽 힘줄 추적**
+
+- **영문명:** Fibular tendons ultrasound
+- **원리·표지:** 가쪽복사 뒤에서 긴·짧은종아리근힘줄을 함께 관찰
+- **관찰·적용:** 단축 위치와 장축 연속성·발목 움직임을 비교
+- **판독·감별:** 짧은힘줄의 제5발허리뼈 정지와 긴힘줄의 발바닥 주행을 구분
+
+- **다른 표기:** 발목 가쪽 힘줄 추적 · Fibular tendons ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-fibular-tendons)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
 
 </details>
 

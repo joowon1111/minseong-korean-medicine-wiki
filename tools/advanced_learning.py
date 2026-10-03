@@ -4,7 +4,8 @@ from collections import Counter
 from copy import deepcopy
 from urllib.parse import urlsplit
 
-LEVELS = {'high': '상', 'expert': '극상'}
+# Legacy storage keys and question IDs preserve existing browser progress.
+LEVELS = {'high': '중', 'expert': '상'}
 START = '<!-- ADVANCED_QUESTIONS_START -->'
 END = '<!-- ADVANCED_QUESTIONS_END -->'
 
@@ -50,8 +51,8 @@ def advanced_questions(root, decks, named_points=lambda text: text):
 
 def static_questions(questions):
     counts = Counter(q['difficulty'] for q in questions)
-    lines = [START, '## 상·극상 문제와 보기별 해설 {#advanced-questions}', '',
-             f'각 난이도 {counts["high"]}문제씩입니다. **상**은 여러 단서와 가까운 개념을 함께 구별하고, **극상**은 '
+    lines = [START, '## 중·상 문제와 보기별 해설 {#advanced-questions}', '',
+             f'각 난이도 {counts["high"]}문제씩입니다. **중**은 여러 단서와 가까운 개념을 함께 구별하고, **상**은 '
              '예외·조건 변화·복수 분류 또는 출전의 차이를 판단합니다. 난이도는 출제 의도에 따른 구분이며 '
              '실제 정답률로 보정한 등급은 아닙니다. 퀴즈의 **문제 난이도**에서 선택하거나 아래 문항을 읽어 보세요. '
              '증례·수치는 교육용 가정이고, 제시된 체질·병론 안에서 문헌을 읽는 문제는 체질 판정 검사가 아닙니다.', '']

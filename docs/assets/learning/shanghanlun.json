@@ -14094,6 +14094,186 @@
       "category": "태음·온법",
       "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-11",
       "relatedSource": "/learning/shanghanlun/#shanghan-clause-386"
+    },
+    {
+      "id": "advanced-shanghanlun-high-12",
+      "cardId": "shanghan-clause-229",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "양명편 사례에 조열이 있으나 대변은 무르고 흉협만이 남아 있다. 229조의 직접 처방 연결은?",
+      "options": [
+        {
+          "text": "대승기탕",
+          "detail": "조열 공통점은 있지만 변경·조시 등 리실 조건을 따로 확인해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-12"
+        },
+        {
+          "text": "소시호탕",
+          "detail": "조열 한 항목보다 대변당·흉협만의 시호증 존속을 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-12"
+        },
+        {
+          "text": "소승기탕",
+          "detail": "복부 증후·조시 문맥은 가깝지만 해당 조문은 시호증 조건과 처방을 명시한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-12"
+        },
+        {
+          "text": "조위승기탕",
+          "detail": "양명 문맥은 공유하지만 조열만으로 조위·공하 방향을 정하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-229",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-12"
+        }
+      ],
+      "answer": 1,
+      "explanation": "229조 · 조열이 있어도 시호증 — 조열 한 항목보다 대변당·흉협만의 시호증 존속을 읽는다.",
+      "discriminator": "조열의 존재와 대변당·흉협만이 함께 제시된 조건을 읽는다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "소양·화해",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-12",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-229"
+    },
+    {
+      "id": "advanced-shanghanlun-high-13",
+      "cardId": "shanghan-clause-350",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "수족궐냉이라는 표현 뒤에 맥활·리유열이 제시된 350조를 읽는다. 문맥에 맞는 치법·처방 연결은?",
+      "options": [
+        {
+          "text": "급온 방향의 사역탕",
+          "detail": "궐냉은 공유하지만 침맥·리한의 사역탕 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-350",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-13"
+        },
+        {
+          "text": "리한외열의 통맥사역탕",
+          "detail": "겉과 속이 다른 현상은 가까우나 청곡하리·맥미욕절 등의 조건이 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-350",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-13"
+        },
+        {
+          "text": "청열 방향의 백호탕",
+          "detail": "말단 냉감과 리열·활맥을 분리해 해당 조문의 처방을 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-350",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-13"
+        },
+        {
+          "text": "혈허한응의 당귀사역탕",
+          "detail": "손발 냉증은 공유하나 세맥·혈허한응 계통과 활맥·리열을 구분해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-350",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-high-13"
+        }
+      ],
+      "answer": 2,
+      "explanation": "350조 · 열궐과 백호탕 — 말단 냉감과 리열·활맥을 분리해 해당 조문의 처방을 연결한다.",
+      "discriminator": "궐냉 이후의 맥활·리열이 온법 일괄 적용을 막는다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "궐음·한열착잡",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-high-13",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-350"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-12",
+      "cardId": "shanghan-clause-158",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "158조에서 반복 오하 뒤 하리·곡불화·뇌명·비가 생기고 재하 후 비가 더 심해졌다. 현재 병기 독해로 맞는 것은?",
+      "options": [
+        {
+          "text": "변경·조시의 리실을 읽고 공하의 반복에 연결",
+          "detail": "하리·곡불화와 위중허가 제시되어 변경·조시와 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-158",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-12"
+        },
+        {
+          "text": "국소 압통의 소결흉을 읽고 소함흉탕에 연결",
+          "detail": "심하 부위는 공유하지만 按之則痛의 압통 문맥과 오하 뒤 비의 조건은 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-158",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-12"
+        },
+        {
+          "text": "표증이 남은 소양증을 읽고 소시호탕에 연결",
+          "detail": "치료 이력은 관련되지만 현재 제시된 곡불화·뇌명·위중허의 중심이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-158",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-12"
+        },
+        {
+          "text": "위중허·상역을 읽고 감초사심탕의 중초 조화에 연결",
+          "detail": "此非結熱·胃中虛와 재하 악화를 함께 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-158",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-12"
+        }
+      ],
+      "answer": 3,
+      "explanation": "158조 · 감초사심탕 — 此非結熱·胃中虛와 재하 악화를 함께 읽는다.",
+      "discriminator": "재하 악화와 此非結熱·胃中虛를 함께 확인한다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "결흉·비증",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-12",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-158"
+    },
+    {
+      "id": "advanced-shanghanlun-expert-13",
+      "cardId": "shanghan-clause-239",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "239조를 근거로 무대변·요제통·간헐 번조와 조시를 설명하려 한다. 인용의 정확성을 지킨 답안은?",
+      "options": [
+        {
+          "text": "조시 판독을 설명하고 이 문장에는 방명이 없음을 구분",
+          "detail": "원문이 직접 말한 병태와 다른 조문을 통한 처방 해석을 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-13"
+        },
+        {
+          "text": "대승기탕이 직접 명시된 문장이라고 인용",
+          "detail": "승기탕 관련 해석은 가능해도 239조 문장에 그 방명이 직접 명시되지는 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-13"
+        },
+        {
+          "text": "소승기탕이 직접 명시된 문장이라고 인용",
+          "detail": "다른 조문의 소승기탕 조건과 비교할 수 있으나 직접 인용의 방명은 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-13"
+        },
+        {
+          "text": "방명이 없으므로 조시의 해석 근거도 없다고 설명",
+          "detail": "처방명 부재와 병태 표현의 부재는 다르며 조시는 원문에 설명된다.",
+          "owner": "오답 감별",
+          "ownerId": "shanghan-clause-239",
+          "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-13"
+        }
+      ],
+      "answer": 0,
+      "explanation": "239조 · 제주통과 조시 — 원문이 직접 말한 병태와 다른 조문을 통한 처방 해석을 나눈다.",
+      "discriminator": "병태 명시·처방 명시·후속 해석을 각각 구분한다.",
+      "nearestWrong": 1,
+      "kind": "advanced",
+      "category": "양명·공리",
+      "source": "/learning/shanghanlun/#advanced-shanghanlun-expert-13",
+      "relatedSource": "/learning/shanghanlun/#shanghan-clause-239"
     }
   ]
 }

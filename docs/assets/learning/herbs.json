@@ -34437,6 +34437,186 @@
       "category": "청열",
       "source": "/learning/herbs/#advanced-herbs-expert-11",
       "relatedSource": "/herbs/coptis/"
+    },
+    {
+      "id": "advanced-herbs-high-12",
+      "cardId": "herb-atractylodes",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "허약한 운화·식욕저하의 보기건비 바탕을 공부하면서 습체중초의 조습 중심 본초와 구별한다. 비교 설명으로 가장 알맞은 것은?",
+      "options": [
+        {
+          "text": "창출의 보기건비를 백출의 조습 중심과 비교",
+          "detail": "두 본초의 상대적 강조점을 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#advanced-herbs-high-12"
+        },
+        {
+          "text": "백출과 창출은 같은 식물의 포제 전후로 비교",
+          "detail": "명칭이 비슷해도 각각 기원·규격을 확인하는 다른 본초이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#advanced-herbs-high-12"
+        },
+        {
+          "text": "백출의 건비는 복령·택사와 같은 이수 단일축으로 비교",
+          "detail": "수습 관련성이 있지만 보기건비 역할을 이수 한 방향으로 줄였다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#advanced-herbs-high-12"
+        },
+        {
+          "text": "백출의 보기건비를 창출의 조습건비 비중과 비교",
+          "detail": "비·습 공통점 안에서 허약 지지와 습체 조절의 상대적 비중을 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#advanced-herbs-high-12"
+        }
+      ],
+      "answer": 3,
+      "explanation": "백출(白朮) — 비·습 공통점 안에서 허약 지지와 습체 조절의 상대적 비중을 나눈다.",
+      "discriminator": "같은 비·습 관련 본초 안에서 허약과 습체의 비중을 나눈다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#advanced-herbs-high-12",
+      "relatedSource": "/herbs/atractylodes/"
+    },
+    {
+      "id": "advanced-herbs-high-13",
+      "cardId": "herb-bamboo-shavings",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "담과 구역을 함께 읽되 담열·위열의 청열지구 방향을 강조한 본초를 찾는다. 한습의 조습강역, 윤폐화담과 구별하면?",
+      "options": [
+        {
+          "text": "죽여",
+          "detail": "청열화담·지구의 역할을 담열·구역 문맥에 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-bamboo-shavings",
+          "source": "/learning/herbs/#advanced-herbs-high-13"
+        },
+        {
+          "text": "법제 반하",
+          "detail": "강역·화담은 가까우나 한습·조습 방향의 상대적 비중이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-bamboo-shavings",
+          "source": "/learning/herbs/#advanced-herbs-high-13"
+        },
+        {
+          "text": "천패모",
+          "detail": "청열·화담은 공유하지만 윤폐 및 폐의 담·건조 맥락을 더 비교해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-bamboo-shavings",
+          "source": "/learning/herbs/#advanced-herbs-high-13"
+        },
+        {
+          "text": "길경",
+          "detail": "담과 폐의 관계는 공유하지만 선폐·이인 역할이 중심으로 구역의 강역축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-bamboo-shavings",
+          "source": "/learning/herbs/#advanced-herbs-high-13"
+        }
+      ],
+      "answer": 0,
+      "explanation": "죽여(竹茹) — 청열화담·지구의 역할을 담열·구역 문맥에 연결한다.",
+      "discriminator": "공통 화담 효능 다음에 한열·윤조·강역 방향을 비교한다.",
+      "nearestWrong": 1,
+      "kind": "advanced",
+      "category": "청열",
+      "source": "/learning/herbs/#advanced-herbs-high-13",
+      "relatedSource": "/herbs/bamboo-shavings/"
+    },
+    {
+      "id": "advanced-herbs-expert-12",
+      "cardId": "herb-licorice",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "감초 함유 처방 두 가지와 별도 감초 제품을 함께 기록했다. 조화제약이라는 전통 역할 외에 누적 노출을 평가하는 방식으로 적합한 것은?",
+      "options": [
+        {
+          "text": "주 처방의 감초만 기록하고 별도 제품은 기간만 확인",
+          "detail": "별도 제품도 감초 노출을 추가하므로 함량·기간 모두 필요하다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#advanced-herbs-expert-12"
+        },
+        {
+          "text": "각 제품의 함량·기간·중복과 혈압·부종·칼륨·병용약을 함께 확인",
+          "detail": "전통적 조화 역할과 실제 총 노출·이상반응 조건을 각각 평가한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#advanced-herbs-expert-12"
+        },
+        {
+          "text": "함량을 합하되 복용기간과 병용약은 처방명으로 대신",
+          "detail": "누적 노출과 위험 조건은 처방명만으로 대체할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#advanced-herbs-expert-12"
+        },
+        {
+          "text": "기간·병용약을 기록하되 감초 중복은 같은 원료라 한 제품으로 계산",
+          "detail": "같은 원료라도 각각의 투여가 노출을 더하므로 한 번으로 세지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#advanced-herbs-expert-12"
+        }
+      ],
+      "answer": 1,
+      "explanation": "감초(甘草) — 전통적 조화 역할과 실제 총 노출·이상반응 조건을 각각 평가한다.",
+      "discriminator": "중복 제품·총 노출·기간·환자 조건을 함께 보존한다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#advanced-herbs-expert-12",
+      "relatedSource": "/herbs/licorice/"
+    },
+    {
+      "id": "advanced-herbs-expert-13",
+      "cardId": "herb-coptis",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "황련에서 분리한 성분의 세포실험 결과와 황련 탕약의 사람 연구를 연결하려 한다. 가장 먼저 구분할 것은?",
+      "options": [
+        {
+          "text": "같은 황련 기원이므로 결과지표만 구분",
+          "detail": "기원 연관성은 있어도 시험물·대상·노출 조건이 달라 결과만으로 연결하기 어렵다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#advanced-herbs-expert-13"
+        },
+        {
+          "text": "세포실험의 유의확률을 사람 효과크기로 환산",
+          "detail": "유의확률은 사람에서의 치료효과 크기로 바꿀 수 있는 값이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#advanced-herbs-expert-13"
+        },
+        {
+          "text": "시험물·대상·농도/투여·비교군·결과",
+          "detail": "분리 성분과 탕약, 세포와 사람의 차이를 보존한 뒤 관련성을 설명한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#advanced-herbs-expert-13"
+        },
+        {
+          "text": "탕약에 그 성분이 포함되므로 세포 농도와 복용량을 같은 단위로 비교",
+          "detail": "성분 함유 여부와 사람 체내 노출은 다르며 단위·흡수·제형을 검토해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#advanced-herbs-expert-13"
+        }
+      ],
+      "answer": 2,
+      "explanation": "황련(黃連) — 분리 성분과 탕약, 세포와 사람의 차이를 보존한 뒤 관련성을 설명한다.",
+      "discriminator": "같은 기원 이름과 동일한 시험물·사람 효과는 다른 주장이다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "청열",
+      "source": "/learning/herbs/#advanced-herbs-expert-13",
+      "relatedSource": "/herbs/coptis/"
     }
   ]
 }

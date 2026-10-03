@@ -114,9 +114,11 @@ test('all seven subjects select advanced levels, explain answers and recover whe
     const h = harness(); h.button(title).events.click();
     h.loads.at(-1).resolve({ok: true, json: async () => d}); await h.settle();
     h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+    assert.deepEqual(all(h.select('문제 난이도')).filter(e => e.tagName === 'option').map(e => e.textContent),
+      ['전체 난이도', '하', '중', '상']);
     for (const level of ['high', 'expert']) {
       const levels = h.select('문제 난이도'); levels.value = level; levels.events.change();
-      assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 11문제')));
+      assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 13문제')));
     }
     h.button('10문제 풀기').events.click();
     const clue = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;

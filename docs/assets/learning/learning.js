@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261003-11';
+  const VERSION = '20261003-12';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
@@ -218,7 +218,7 @@
             : subject === 'anatomy' ? [['', '전체 문제 유형'], ['fact', '부착·작용·연결·특징'], ['identify', '설명으로 구조 식별'], ['diagram', '도해로 구조 식별']]
             : (subject === 'shanghanlun' || subject === 'sasang') ? [['', '전체 문제 유형'], ['original', '원문·표지어 → 우리말 풀이'], ['interpretation', '조문·병증 해석'], ['treatment', '치법·처방 연결'], ...(subject === 'sasang' ? [['formula', '주요 처방 감별']] : []), ['case', '증례·배합 → 조문·병증 찾기']]
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
-          types.push(['advanced', '통합·감별 (상·극상)']);
+          types.push(['advanced', '통합·감별 (중·상)']);
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
           kinds.addEventListener('change', () => {
@@ -229,7 +229,7 @@
           });
           stage.append(kinds);
           const levels = node('select', undefined, {'aria-label': '문제 난이도'});
-          for (const [value, label] of [['', '전체 난이도'], ['basic', '기본'], ['high', '상'], ['expert', '극상']]) levels.append(node('option', label, {value}));
+          for (const [value, label] of [['', '전체 난이도'], ['basic', '하'], ['high', '중'], ['expert', '상']]) levels.append(node('option', label, {value}));
           levels.value = difficulty;
           levels.addEventListener('change', () => {
             difficulty = levels.value;
@@ -237,7 +237,7 @@
             else if (difficulty === 'basic' && questionKind === 'advanced') questionKind = '';
             restart();
           });
-          stage.append(levels, node('p', '상: 여러 단서·근접 감별 · 극상: 예외·조건 변화·복수 분류·출전 판단. 출제 의도에 따른 난이도입니다.', {class: 'learning-note'}));
+          stage.append(levels, node('p', '하: 단일 개념 회상 · 중: 유사 구조·병증 감별 · 상: 예외·조건 변화·복수 단서 판단. 출제 의도에 따른 난이도입니다.', {class: 'learning-note'}));
         }
         if (!items.length) { empty(mode === 'wrong' ? '남아 있는 오답이 없습니다.' : '조건에 맞는 문제가 없습니다.'); return; }
         stage.append(node('h3', mode === 'wrong' ? '오답을 다시 꺼내 보세요' : '배운 내용을 확인해 보세요', {tabindex: '-1'}),
@@ -255,7 +255,7 @@
         return;
       }
       const q = session.questions[session.index];
-      stage.append(node('p', ({high: '상', expert: '극상'}[q.difficulty] || '기본') + ' · ' + q.category + ' · ' + (session.index + 1) + ' / ' + session.questions.length, {class: 'learning-eyebrow'}),
+      stage.append(node('p', ({high: '중', expert: '상'}[q.difficulty] || '하') + ' · ' + q.category + ' · ' + (session.index + 1) + ' / ' + session.questions.length, {class: 'learning-eyebrow'}),
         node('h3', q.prompt, {tabindex: '-1'}));
       if (q.context) stage.append(node('p', q.context, {class: 'learning-prompt'}));
       if (q.diagram) stage.append(picture(q.diagram, subject === 'anatomy' ? '강조된 해부 구조를 식별하는 도해' : '붉은 점의 경혈을 맞히는 도해'));

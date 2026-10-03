@@ -136,6 +136,42 @@
     "serratus-function": {
       "title": "뒤톱니근 해부·기능 연구",
       "url": "https://pubmed.ncbi.nlm.nih.gov/11424195/"
+    },
+    "central": {
+      "title": "중추신경 경로·교차: NCBI 척수 형태학",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK545206/"
+    },
+    "brain": {
+      "title": "중추신경 구조: OpenStax CNS",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
+    },
+    "head-arteries": {
+      "title": "UAMS 머리·목 동맥",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-head-and-neck/"
+    },
+    "upper-arteries": {
+      "title": "UAMS 상지 동맥",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-upper-limb/"
+    },
+    "lower-arteries": {
+      "title": "UAMS 하지 동맥",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-lower-limb/"
+    },
+    "abdominal-veins": {
+      "title": "UAMS 복부 정맥",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/vein-tables/selected-veins-of-the-abdomen/"
+    },
+    "us": {
+      "title": "ACR·RSNA 초음파 안내",
+      "url": "https://www.radiologyinfo.org/en/info/genus"
+    },
+    "us-msk": {
+      "title": "ESSR 근골격 초음파 기술 지침",
+      "url": "https://www.essr.org/subcommittees/ultrasound/"
+    },
+    "us-principles": {
+      "title": "BMUS 근골격 초음파 학습 원칙",
+      "url": "https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/"
     }
   },
   "structures": [
@@ -16773,6 +16809,3795 @@
         "빗장밑근",
         "Subclavius",
         "subclavius"
+      ]
+    },
+    {
+      "id": "neuro-lateral-corticospinal",
+      "name": "가쪽피질척수로",
+      "en": "Lateral corticospinal tract",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "가쪽피질척수로",
+        "Lateral corticospinal tract"
+      ],
+      "identify": "연수 피라미드에서 대부분 교차한 뒤 척수 가쪽백색질을 내려가는 운동로",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "대뇌 운동피질→연수 피라미드교차→척수 앞뿔 운동 회로"
+        },
+        {
+          "label": "기능·분포",
+          "value": "사지의 정교한 수의운동에 기여"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척수 편측 손상에서는 병변 아래 같은 쪽 운동 장애; 대뇌 병변의 반대쪽 장애와 교차 위치가 다름"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-spinothalamic",
+      "name": "척수시상로",
+      "en": "Spinothalamic tract",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "척수시상로",
+        "Spinothalamic tract"
+      ],
+      "identify": "척수 앞백색맞교차를 거쳐 반대편 앞가쪽백색질을 올라가는 통각·온도 경로",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "뒤뿌리 진입→뒤뿔 중계→분절 부근 교차→시상"
+        },
+        {
+          "label": "기능·분포",
+          "value": "몸통·사지의 통각·온도 정보를 전달"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뒤기둥 경로와 감각 종류·교차 위치를 구분; 손상 아래 반대쪽 감각 저하는 몇 분절 아래부터 가능"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-gracilis",
+      "name": "얇은다발",
+      "en": "Fasciculus gracilis",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "얇은다발",
+        "Fasciculus gracilis"
+      ],
+      "identify": "척수 뒤기둥 안쪽에서 다리와 아래몸통 정보를 위로 전하는 감각 다발",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "같은 쪽 뒤기둥으로 올라가 연수 얇은핵에 중계"
+        },
+        {
+          "label": "기능·분포",
+          "value": "정교한 촉각·진동·의식적 위치감각"
+        },
+        {
+          "label": "식별·비교",
+          "value": "쐐기다발보다 안쪽; 척수에서 교차하지 않고 연수에서 교차"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-cuneatus",
+      "name": "쐐기다발",
+      "en": "Fasciculus cuneatus",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "쐐기다발",
+        "Fasciculus cuneatus"
+      ],
+      "identify": "상부 척수 뒤기둥의 가쪽에서 팔·위몸통 정보를 올리는 다발",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "대략 T6 위에서 나타나 연수 쐐기핵에 중계"
+        },
+        {
+          "label": "기능·분포",
+          "value": "상지·위몸통의 정교한 촉각·진동·위치감각"
+        },
+        {
+          "label": "식별·비교",
+          "value": "하부 척수에는 이 다발이 없고 얇은다발만 있음"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-medial-lemniscus",
+      "name": "안쪽섬유띠",
+      "en": "Medial lemniscus",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "안쪽섬유띠",
+        "Medial lemniscus"
+      ],
+      "identify": "연수의 뒤기둥핵에서 중계·교차한 감각이 시상으로 올라가는 뇌줄기 경로",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "속활꼴섬유 교차 뒤 반대편 VPL 시상핵으로 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "뒤기둥 계통의 체성감각을 시상에 전달"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척수의 뒤기둥과 뇌줄기의 이 경로는 교차 전후가 다름"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-dorsal-root",
+      "name": "뒤뿌리",
+      "en": "Dorsal root",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "뒤뿌리",
+        "Dorsal root"
+      ],
+      "identify": "척수의 뒤쪽으로 감각 섬유가 들어오는 신경뿌리",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "척수신경→뒤뿌리신경절→뒤뿔 또는 상행 경로"
+        },
+        {
+          "label": "기능·분포",
+          "value": "몸감각·내장감각의 척수 진입"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞뿌리의 운동 유출과 구별; 뒤가지와 뒤뿌리는 다른 구조"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-ventral-root",
+      "name": "앞뿌리",
+      "en": "Ventral root",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "앞뿌리",
+        "Ventral root"
+      ],
+      "identify": "척수 앞뿔 등에서 나온 원심성 섬유가 나가는 신경뿌리",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "운동신경 섬유가 나가 뒤뿌리와 합쳐 혼합 척수신경"
+        },
+        {
+          "label": "기능·분포",
+          "value": "몸운동과 해당 분절의 자율신경 유출"
+        },
+        {
+          "label": "식별·비교",
+          "value": "혼합신경 이후 앞가지·뒤가지에는 감각·운동이 함께 있음"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-dorsal-root-ganglion",
+      "name": "뒤뿌리신경절",
+      "en": "Dorsal root ganglion",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "뒤뿌리신경절",
+        "Dorsal root ganglion"
+      ],
+      "identify": "척수로 들어가기 전 일차 감각신경세포 몸통이 모인 부위",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "척수신경 뒤뿌리의 팽대부; 거짓홑극신경세포"
+        },
+        {
+          "label": "기능·분포",
+          "value": "말초와 중추 가지를 잇는 감각신경세포 몸통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "자율신경절처럼 여기서 일반적인 시냅스 중계를 하는 것은 아님"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-anterior-horn",
+      "name": "척수 앞뿔",
+      "en": "Anterior horn",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "척수 앞뿔",
+        "Anterior horn"
+      ],
+      "identify": "척수 회색질 앞쪽의 골격근 운동신경세포 영역",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "아래운동신경세포 축삭이 앞뿌리를 거쳐 근육으로 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "분절별 골격근 운동 출력"
+        },
+        {
+          "label": "식별·비교",
+          "value": "손상 분절의 위축·반사저하와 상위 운동로 손상 아래의 징후를 구분"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-posterior-horn",
+      "name": "척수 뒤뿔",
+      "en": "Posterior horn",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "척수 뒤뿔",
+        "Posterior horn"
+      ],
+      "identify": "척수 회색질 뒤쪽에서 감각 입력을 처리하는 영역",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "뒤뿌리 감각 입력을 받아 중간신경·상행로에 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "통각·온도 등 감각의 중계·조절"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뒤뿌리신경절의 일차 감각세포 몸통과 위치가 다름"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-lateral-horn",
+      "name": "척수 가쪽뿔",
+      "en": "Lateral horn",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "척수 가쪽뿔",
+        "Lateral horn"
+      ],
+      "identify": "주로 흉부·상부 요부 척수에서 자율신경세포가 모이는 가쪽 회색질",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "T1–L2 부근 중간가쪽세포기둥의 교감 절전세포"
+        },
+        {
+          "label": "기능·분포",
+          "value": "교감신경 원심성 출력"
+        },
+        {
+          "label": "식별·비교",
+          "value": "S2–S4 부교감 출력과 분절·세포군 위치를 함께 구분"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-conus",
+      "name": "척수원뿔",
+      "en": "Conus medullaris",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "척수원뿔",
+        "Conus medullaris"
+      ],
+      "identify": "성인 척수의 아래 끝이 가늘어지는 구조",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "보통 L1–L2 척추 높이 부근; 개인차 있음"
+        },
+        {
+          "label": "기능·분포",
+          "value": "아래 척수 분절을 포함하는 척수 말단"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척추 높이와 척수 분절은 일치하지 않음; 아래쪽 말총은 신경뿌리 묶음"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-cauda",
+      "name": "말총",
+      "en": "Cauda equina",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "말총",
+        "Cauda equina"
+      ],
+      "identify": "척수 말단 아래에서 요·천추 신경뿌리가 모인 묶음",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "허리수조에서 각 신경뿌리가 해당 추간공 방향으로 하행"
+        },
+        {
+          "label": "기능·분포",
+          "value": "하지·골반의 말초 감각·운동 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척수 백색질 자체가 아니라 말초 신경뿌리; 원뿔 병변과 범위를 비교"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-internal-capsule",
+      "name": "속섬유막",
+      "en": "Internal capsule",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "속섬유막",
+        "Internal capsule"
+      ],
+      "identify": "시상·꼬리핵과 렌즈핵 사이를 지나는 대뇌 깊은 백색질",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "뒤다리에는 운동·감각 투사 섬유; 무릎에는 피질핵로가 통과"
+        },
+        {
+          "label": "기능·분포",
+          "value": "피질과 뇌줄기·척수·시상 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "작은 병변도 여러 경로를 함께 영향; 뇌량의 반구 간 연결과 구분"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-corpus-callosum",
+      "name": "뇌량",
+      "en": "Corpus callosum",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "뇌량",
+        "Corpus callosum"
+      ],
+      "identify": "정중시상면에서 양쪽 대뇌반구를 잇는 활 모양 백색질",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "부리·무릎·몸통·팽대의 부분으로 나눔"
+        },
+        {
+          "label": "기능·분포",
+          "value": "좌우 대뇌반구 사이 정보 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "속섬유막의 위아래 투사섬유와 달리 맞교차섬유"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-thalamus",
+      "name": "시상",
+      "en": "Thalamus",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "시상",
+        "Thalamus"
+      ],
+      "identify": "제3뇌실 양옆에 놓이는 사이뇌의 주요 감각 중계 구조",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "여러 핵을 통해 피질과 감각·운동 회로를 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "후각의 일차 피질 경로를 제외한 주요 감각 중계에 관여"
+        },
+        {
+          "label": "식별·비교",
+          "value": "시상하부의 항상성·내분비 조절과 구분; 모든 핵이 같은 감각은 아님"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-hypothalamus",
+      "name": "시상하부",
+      "en": "Hypothalamus",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "시상하부",
+        "Hypothalamus"
+      ],
+      "identify": "제3뇌실 아래쪽에서 뇌하수체·자율신경을 연결하는 사이뇌 영역",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "뇌하수체줄기·뇌줄기 자율 회로와 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "체온·섭식·수분·내분비·일주기 조절"
+        },
+        {
+          "label": "식별·비교",
+          "value": "감각 중계 중심인 시상과 위치·역할을 구분"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-precentral",
+      "name": "중심앞이랑",
+      "en": "Precentral gyrus",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "중심앞이랑",
+        "Precentral gyrus"
+      ],
+      "identify": "중심고랑 앞에서 수의운동 출력에 관여하는 피질 이랑",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "전두엽 일차운동피질; 운동 신체지도가 배열"
+        },
+        {
+          "label": "기능·분포",
+          "value": "반대쪽 신체 수의운동 조절"
+        },
+        {
+          "label": "식별·비교",
+          "value": "중심뒤이랑의 감각 입력과 고랑 앞뒤를 비교"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-postcentral",
+      "name": "중심뒤이랑",
+      "en": "Postcentral gyrus",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "중심뒤이랑",
+        "Postcentral gyrus"
+      ],
+      "identify": "중심고랑 뒤에서 몸감각을 받는 피질 이랑",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "두정엽 일차몸감각피질; 시상 감각 입력"
+        },
+        {
+          "label": "기능·분포",
+          "value": "반대쪽 몸의 촉각·위치감각 등 처리"
+        },
+        {
+          "label": "식별·비교",
+          "value": "중심앞이랑과 운동·감각, 전두엽·두정엽을 분리"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-cerebellum",
+      "name": "소뇌",
+      "en": "Cerebellum",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "소뇌",
+        "Cerebellum"
+      ],
+      "identify": "뒤머리뼈오목에서 뇌줄기 뒤에 놓인 운동 협응 구조",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "위·중간·아래 소뇌다리로 뇌줄기와 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "운동의 타이밍·정확도·평형과 학습에 기여"
+        },
+        {
+          "label": "식별·비교",
+          "value": "주로 같은 쪽 팔다리 협응 장애를 생각; 근력 저하와 운동실조는 다른 소견"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-midbrain",
+      "name": "중간뇌",
+      "en": "Midbrain",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "중간뇌",
+        "Midbrain"
+      ],
+      "identify": "사이뇌와 다리뇌 사이에서 대뇌수도를 둘러싼 뇌줄기 부분",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "앞 대뇌다리·뒤 위아래둔덕·수도 주변 영역"
+        },
+        {
+          "label": "기능·분포",
+          "value": "안구운동·시청각 반사와 상하행 경로"
+        },
+        {
+          "label": "식별·비교",
+          "value": "동안·활차신경 연결을 다리뇌의 외전·안면신경과 비교"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-pons",
+      "name": "다리뇌",
+      "en": "Pons",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "다리뇌",
+        "Pons"
+      ],
+      "identify": "중간뇌와 연수 사이에서 제4뇌실 앞쪽을 이루는 뇌줄기 부분",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "중간소뇌다리와 연결; V–VIII 신경 관련 구조"
+        },
+        {
+          "label": "기능·분포",
+          "value": "대뇌–소뇌 연결·호흡조절·뇌신경 기능"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가로 섬유가 많은 배쪽과 뒤쪽 피개를 구분"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-medulla",
+      "name": "연수",
+      "en": "Medulla oblongata",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "연수",
+        "Medulla oblongata"
+      ],
+      "identify": "다리뇌 아래에서 척수와 이어지는 뇌줄기 부분",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "배쪽 피라미드와 교차, 뒤기둥핵, 아래쪽 뇌신경 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "호흡·순환 조절 및 감각·운동 경로 중계"
+        },
+        {
+          "label": "식별·비교",
+          "value": "피라미드교차와 감각교차는 서로 다른 섬유의 교차"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-optic-chiasm",
+      "name": "시각교차",
+      "en": "Optic chiasm",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "시각교차",
+        "Optic chiasm"
+      ],
+      "identify": "양쪽 눈의 코쪽 망막 축삭이 반대편으로 건너가는 구조",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "시신경 뒤에서 시각로로 연결; 뇌하수체 위쪽"
+        },
+        {
+          "label": "기능·분포",
+          "value": "양안 시야 정보를 반대쪽 대뇌에 배열"
+        },
+        {
+          "label": "식별·비교",
+          "value": "교차부 손상은 양관자쪽 시야 결손과 연결; 한쪽 시신경 손상과 다름"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-lateral-ventricle",
+      "name": "가쪽뇌실",
+      "en": "Lateral ventricle",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "가쪽뇌실",
+        "Lateral ventricle"
+      ],
+      "identify": "각 대뇌반구 안에서 뇌척수액이 차 있는 C자 모양 공간",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "뇌실사이구멍을 통해 제3뇌실로 이어짐"
+        },
+        {
+          "label": "기능·분포",
+          "value": "맥락얼기의 뇌척수액 생성·순환 통로"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞·뒤·아래뿔과 몸통을 단면 위치로 구분"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-third-ventricle",
+      "name": "제3뇌실",
+      "en": "Third ventricle",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "제3뇌실",
+        "Third ventricle"
+      ],
+      "identify": "양쪽 시상 사이 정중선에 놓이는 좁은 뇌척수액 공간",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "가쪽뇌실→뇌실사이구멍→이 공간→대뇌수도"
+        },
+        {
+          "label": "기능·분포",
+          "value": "사이뇌 수준의 뇌척수액 순환"
+        },
+        {
+          "label": "식별·비교",
+          "value": "제4뇌실의 뇌줄기·소뇌 사이 위치와 비교"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-fourth-ventricle",
+      "name": "제4뇌실",
+      "en": "Fourth ventricle",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "제4뇌실",
+        "Fourth ventricle"
+      ],
+      "identify": "다리뇌·연수 뒤와 소뇌 앞 사이의 뇌척수액 공간",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "대뇌수도에서 받아 정중·가쪽구멍으로 거미막밑공간에 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "뇌척수액의 뇌실 밖 순환 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "대뇌수도 폐색에서는 이 공간보다 상류 뇌실 확대를 비교"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-subarachnoid",
+      "name": "거미막밑공간",
+      "en": "Subarachnoid space",
+      "kind": "nerve",
+      "category": "중추신경·전도로",
+      "aliases": [
+        "거미막밑공간",
+        "Subarachnoid space"
+      ],
+      "identify": "거미막과 연질막 사이의 뇌척수액·혈관 공간",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "뇌고랑·수조 및 척수 주변으로 이어짐"
+        },
+        {
+          "label": "기능·분포",
+          "value": "중추신경 완충과 뇌척수액 순환"
+        },
+        {
+          "label": "식별·비교",
+          "value": "경막밑공간과 층이 다름; 정상에서 실제 액체 공간"
+        }
+      ],
+      "references": [
+        "central",
+        "brain"
+      ]
+    },
+    {
+      "id": "neuro-ophthalmic",
+      "name": "눈신경",
+      "en": "Ophthalmic nerve V1",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "눈신경",
+        "Ophthalmic nerve V1"
+      ],
+      "identify": "위눈확틈새를 지나 이마·각막 감각을 연결하는 삼차신경 가지",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "삼차신경절에서 갈라져 눈확 쪽으로 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "이마·위눈꺼풀·각막 등의 일반감각"
+        },
+        {
+          "label": "식별·비교",
+          "value": "순수 감각가지; 각막반사의 들신경과 안면신경 날신경을 구분"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-maxillary",
+      "name": "위턱신경",
+      "en": "Maxillary nerve V2",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "위턱신경",
+        "Maxillary nerve V2"
+      ],
+      "identify": "원형구멍을 지나 위턱·중간 얼굴 감각을 연결하는 가지",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "날개입천장오목·눈확아래신경 계통으로 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "위치아·위입술·중간 얼굴의 일반감각"
+        },
+        {
+          "label": "식별·비교",
+          "value": "V1의 이마, V3의 아래턱 및 씹기 운동과 비교"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-mandibular",
+      "name": "아래턱신경",
+      "en": "Mandibular nerve V3",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "아래턱신경",
+        "Mandibular nerve V3"
+      ],
+      "identify": "타원구멍을 지나 아래턱 감각과 씹기 운동을 맡는 가지",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "감각뿌리와 운동뿌리가 합쳐 아래관자오목으로 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "저작근 운동·아래얼굴 및 혀 앞부분 일반감각"
+        },
+        {
+          "label": "식별·비교",
+          "value": "삼차신경 가지 중 운동 섬유 포함; 혀 미각은 별도 신경"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-lingual",
+      "name": "혀신경",
+      "en": "Lingual nerve",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "혀신경",
+        "Lingual nerve"
+      ],
+      "identify": "아래턱신경에서 갈라져 혀 앞 3분의 2 일반감각을 전하는 가지",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "고실끈신경이 합류해 미각·부교감 섬유도 함께 주행"
+        },
+        {
+          "label": "기능·분포",
+          "value": "혀 앞부분의 촉각·통각; 합류 섬유의 운반"
+        },
+        {
+          "label": "식별·비교",
+          "value": "V3 자체의 감각과 VII에서 온 미각을 기원별로 구분"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-chorda",
+      "name": "고실끈신경",
+      "en": "Chorda tympani",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "고실끈신경",
+        "Chorda tympani"
+      ],
+      "identify": "중이를 지나 혀신경에 합류하는 안면신경 가지",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "안면신경→바위고실틈새→혀신경→턱밑신경절"
+        },
+        {
+          "label": "기능·분포",
+          "value": "혀 앞 3분의 2 미각·턱밑/혀밑샘 부교감"
+        },
+        {
+          "label": "식별·비교",
+          "value": "혀 일반감각의 V3와 달리 VII 기원; 이하선 분비는 IX 계통"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-recurrent-laryngeal",
+      "name": "되돌이후두신경",
+      "en": "Recurrent laryngeal nerve",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "되돌이후두신경",
+        "Recurrent laryngeal nerve"
+      ],
+      "identify": "오른쪽 빗장밑동맥·왼쪽 대동맥궁 아래를 돌아 올라가는 미주신경 가지",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "기관·식도 사이 고랑을 따라 후두로 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "윤상갑상근을 제외한 후두 내재근 운동·성대 아래 감각"
+        },
+        {
+          "label": "식별·비교",
+          "value": "좌우 회귀 혈관과 주행 길이가 다름; 위후두신경 바깥가지와 비교"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-superior-laryngeal",
+      "name": "위후두신경",
+      "en": "Superior laryngeal nerve",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "위후두신경",
+        "Superior laryngeal nerve"
+      ],
+      "identify": "안쪽 감각가지와 바깥 운동가지로 나뉘는 미주신경 분지",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "안쪽은 방패목뿔막 통과; 바깥은 윤상갑상근 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "성대 위 감각과 윤상갑상근의 긴장 조절"
+        },
+        {
+          "label": "식별·비교",
+          "value": "되돌이후두신경의 성대 아래 감각·대부분 내재근 지배와 비교"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-pelvic-splanchnic",
+      "name": "골반내장신경",
+      "en": "Pelvic splanchnic nerves",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "골반내장신경",
+        "Pelvic splanchnic nerves"
+      ],
+      "identify": "천추 S2–S4 앞가지 계통에서 골반 장기로 향하는 부교감 신경",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "아래아랫배신경얼기 등으로 이어짐"
+        },
+        {
+          "label": "기능·분포",
+          "value": "배뇨·배변·발기 등의 부교감 작용에 관여"
+        },
+        {
+          "label": "식별·비교",
+          "value": "음부신경의 몸운동·피부감각과 같은 분절이라도 기능이 다름"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "neuro-sympathetic-trunk",
+      "name": "교감신경줄기",
+      "en": "Sympathetic trunk",
+      "kind": "nerve",
+      "category": "자율신경·뇌신경 분지",
+      "aliases": [
+        "교감신경줄기",
+        "Sympathetic trunk"
+      ],
+      "identify": "척추 양옆을 따라 이어진 척추옆신경절 사슬",
+      "facts": [
+        {
+          "label": "위치·연결",
+          "value": "흰교통가지로 절전섬유를 받고 회색교통가지로 절후섬유 연결"
+        },
+        {
+          "label": "기능·분포",
+          "value": "교감 출력의 상하 분절 재분배"
+        },
+        {
+          "label": "식별·비교",
+          "value": "흰교통가지는 주로 T1–L2, 회색교통가지는 모든 척수신경 수준"
+        }
+      ],
+      "references": [
+        "head-nerves",
+        "pelvic-nerves",
+        "nerves"
+      ]
+    },
+    {
+      "id": "vascular-aca",
+      "name": "앞대뇌동맥",
+      "en": "Anterior cerebral artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "앞대뇌동맥",
+        "Anterior cerebral artery"
+      ],
+      "identify": "내경동맥 계통에서 대뇌반구 안쪽면·다리 영역 중심에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "내경동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "대뇌반구 안쪽면·다리 영역 중심"
+        },
+        {
+          "label": "식별·비교",
+          "value": "중간대뇌동맥의 가쪽면 공급과 비교; 앞교통동맥으로 좌우 연결"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-mca",
+      "name": "중간대뇌동맥",
+      "en": "Middle cerebral artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "중간대뇌동맥",
+        "Middle cerebral artery"
+      ],
+      "identify": "내경동맥 계통에서 대뇌 가쪽면·얼굴/팔 영역과 깊은 분지에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "내경동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "대뇌 가쪽면·얼굴/팔 영역과 깊은 분지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가쪽고랑을 따라감; 속섬유막의 깊은 분지와 겉질 공급을 구분"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-pca",
+      "name": "뒤대뇌동맥",
+      "en": "Posterior cerebral artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "뒤대뇌동맥",
+        "Posterior cerebral artery"
+      ],
+      "identify": "뇌바닥동맥 종말 분지 계통에서 뒤통수엽 시각피질·관자엽 아래안쪽 등에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "뇌바닥동맥 종말 분지"
+        },
+        {
+          "label": "공급·환류",
+          "value": "뒤통수엽 시각피질·관자엽 아래안쪽 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뒤교통동맥으로 내경동맥 계통과 연결; 변이 있음"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-basilar",
+      "name": "뇌바닥동맥",
+      "en": "Basilar artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "뇌바닥동맥",
+        "Basilar artery"
+      ],
+      "identify": "좌우 추골동맥의 합류 계통에서 다리뇌·소뇌 가지와 뒤대뇌동맥 계통에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "좌우 추골동맥의 합류"
+        },
+        {
+          "label": "공급·환류",
+          "value": "다리뇌·소뇌 가지와 뒤대뇌동맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "다리뇌 배쪽 정중선; 단일 주간과 좌우 추골동맥 구분"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-acom",
+      "name": "앞교통동맥",
+      "en": "Anterior communicating artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "앞교통동맥",
+        "Anterior communicating artery"
+      ],
+      "identify": "좌우 앞대뇌동맥 사이 연결 계통에서 앞쪽 대뇌동맥고리의 좌우 연결에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "좌우 앞대뇌동맥 사이 연결"
+        },
+        {
+          "label": "공급·환류",
+          "value": "앞쪽 대뇌동맥고리의 좌우 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뒤교통동맥의 앞뒤 순환 연결과 다름"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-pcom",
+      "name": "뒤교통동맥",
+      "en": "Posterior communicating artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "뒤교통동맥",
+        "Posterior communicating artery"
+      ],
+      "identify": "내경동맥–뒤대뇌동맥 연결 계통에서 앞순환과 뒤순환 사이 연결에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "내경동맥–뒤대뇌동맥 연결"
+        },
+        {
+          "label": "공급·환류",
+          "value": "앞순환과 뒤순환 사이 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "동맥고리 구성에 크기·기원 변이가 있어 곁순환을 일률 보장하지 않음"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-pica",
+      "name": "뒤아래소뇌동맥",
+      "en": "Posterior inferior cerebellar artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "뒤아래소뇌동맥",
+        "Posterior inferior cerebellar artery"
+      ],
+      "identify": "주로 추골동맥 계통에서 소뇌 아래뒤면·가쪽 연수 영역에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "주로 추골동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "소뇌 아래뒤면·가쪽 연수 영역"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞아래소뇌동맥의 뇌바닥동맥 기원·다리뇌 영역과 비교"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-aica",
+      "name": "앞아래소뇌동맥",
+      "en": "Anterior inferior cerebellar artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "앞아래소뇌동맥",
+        "Anterior inferior cerebellar artery"
+      ],
+      "identify": "뇌바닥동맥 계통에서 소뇌 앞아래면·가쪽 다리뇌 영역에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "뇌바닥동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "소뇌 앞아래면·가쪽 다리뇌 영역"
+        },
+        {
+          "label": "식별·비교",
+          "value": "미로동맥이 나올 수 있으나 기원 변이 있음"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-sca",
+      "name": "위소뇌동맥",
+      "en": "Superior cerebellar artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "위소뇌동맥",
+        "Superior cerebellar artery"
+      ],
+      "identify": "뇌바닥동맥 위쪽 계통에서 소뇌 위면·상부 소뇌다리 등에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "뇌바닥동맥 위쪽"
+        },
+        {
+          "label": "공급·환류",
+          "value": "소뇌 위면·상부 소뇌다리 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뒤대뇌동맥 바로 아래 기원과 소뇌 위아래 공급을 비교"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-middle-meningeal",
+      "name": "중간뇌막동맥",
+      "en": "Middle meningeal artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "중간뇌막동맥",
+        "Middle meningeal artery"
+      ],
+      "identify": "위턱동맥 계통에서 경막·머리뼈 안쪽면에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "위턱동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "경막·머리뼈 안쪽면"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가시구멍 통과; 뇌 실질 공급 혈관과 경막 혈관을 구분"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-facial",
+      "name": "얼굴동맥",
+      "en": "Facial artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "얼굴동맥",
+        "Facial artery"
+      ],
+      "identify": "외경동맥 계통에서 얼굴의 입술·코 등 표면 구조에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "외경동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "얼굴의 입술·코 등 표면 구조"
+        },
+        {
+          "label": "식별·비교",
+          "value": "교근 앞에서 아래턱 아래모서리를 넘어감; 얼굴정맥과 주행은 같지 않음"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-maxillary",
+      "name": "위턱동맥",
+      "en": "Maxillary artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "위턱동맥",
+        "Maxillary artery"
+      ],
+      "identify": "외경동맥 종말가지 계통에서 깊은 얼굴·저작부·코안·경막 가지에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "외경동맥 종말가지"
+        },
+        {
+          "label": "공급·환류",
+          "value": "깊은 얼굴·저작부·코안·경막 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "얕은관자동맥과 외경동맥의 두 종말가지; 익돌근 관계에 변이"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-superficial-temporal",
+      "name": "얕은관자동맥",
+      "en": "Superficial temporal artery",
+      "kind": "vessel",
+      "category": "혈관 · 뇌·머리",
+      "aliases": [
+        "얕은관자동맥",
+        "Superficial temporal artery"
+      ],
+      "identify": "외경동맥 종말가지 계통에서 관자·머리덮개에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "외경동맥 종말가지"
+        },
+        {
+          "label": "공급·환류",
+          "value": "관자·머리덮개"
+        },
+        {
+          "label": "식별·비교",
+          "value": "귀 앞에서 광대활을 넘어감; 깊은 얼굴의 위턱동맥과 비교"
+        }
+      ],
+      "references": [
+        "head-arteries"
+      ]
+    },
+    {
+      "id": "vascular-right-coronary",
+      "name": "오른관상동맥",
+      "en": "Right coronary artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "오른관상동맥",
+        "Right coronary artery"
+      ],
+      "identify": "오른대동맥굴 계통에서 오른심장·아래벽 등; 우세형에 따라 범위 차이에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "오른대동맥굴"
+        },
+        {
+          "label": "공급·환류",
+          "value": "오른심장·아래벽 등; 우세형에 따라 범위 차이"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뒤심실사이동맥 기원에 따라 관상 우세형 판단"
+        }
+      ],
+      "references": [
+        "vessels"
+      ]
+    },
+    {
+      "id": "vascular-left-coronary",
+      "name": "왼관상동맥",
+      "en": "Left coronary artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "왼관상동맥",
+        "Left coronary artery"
+      ],
+      "identify": "왼대동맥굴 계통에서 앞심실사이가지·휘돌이가지로 왼심장 주요 영역에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "왼대동맥굴"
+        },
+        {
+          "label": "공급·환류",
+          "value": "앞심실사이가지·휘돌이가지로 왼심장 주요 영역"
+        },
+        {
+          "label": "식별·비교",
+          "value": "관상동맥의 공급은 심장방 안의 혈액에서 직접 오는 것이 아님"
+        }
+      ],
+      "references": [
+        "vessels"
+      ]
+    },
+    {
+      "id": "vascular-lad",
+      "name": "앞심실사이동맥",
+      "en": "Anterior interventricular artery LAD",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "앞심실사이동맥",
+        "Anterior interventricular artery LAD"
+      ],
+      "identify": "왼관상동맥 계통에서 왼심실 앞벽·심실중격 앞쪽 중심에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "왼관상동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "왼심실 앞벽·심실중격 앞쪽 중심"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞심실사이고랑; 휘돌이가지의 관상고랑과 비교"
+        }
+      ],
+      "references": [
+        "vessels"
+      ]
+    },
+    {
+      "id": "vascular-circumflex",
+      "name": "휘돌이동맥",
+      "en": "Circumflex artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "휘돌이동맥",
+        "Circumflex artery"
+      ],
+      "identify": "왼관상동맥 계통에서 왼심방·왼심실 가쪽 등에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "왼관상동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "왼심방·왼심실 가쪽 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "왼관상고랑을 따라감; 왼우세형에서 뒤심실사이가지 공급 가능"
+        }
+      ],
+      "references": [
+        "vessels"
+      ]
+    },
+    {
+      "id": "vascular-coronary-sinus",
+      "name": "관상정맥굴",
+      "en": "Coronary sinus",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "관상정맥굴",
+        "Coronary sinus"
+      ],
+      "identify": "심장정맥의 합류 계통에서 심근 정맥혈을 오른심방으로 환류에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "심장정맥의 합류"
+        },
+        {
+          "label": "공급·환류",
+          "value": "심근 정맥혈을 오른심방으로 환류"
+        },
+        {
+          "label": "식별·비교",
+          "value": "폐정맥의 왼심방 환류와 구분"
+        }
+      ],
+      "references": [
+        "vessels"
+      ]
+    },
+    {
+      "id": "vascular-proper-hepatic",
+      "name": "고유간동맥",
+      "en": "Proper hepatic artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "고유간동맥",
+        "Proper hepatic artery"
+      ],
+      "identify": "총간동맥에서 위샘창자동맥 분지 뒤 계통에서 간의 동맥성 공급에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "총간동맥에서 위샘창자동맥 분지 뒤"
+        },
+        {
+          "label": "공급·환류",
+          "value": "간의 동맥성 공급"
+        },
+        {
+          "label": "식별·비교",
+          "value": "간문맥·담관과 간십이지장인대 안 주행; 동맥 기원 변이 있음"
+        }
+      ],
+      "references": [
+        "abdominal-arteries"
+      ]
+    },
+    {
+      "id": "vascular-gastroduodenal",
+      "name": "위샘창자동맥",
+      "en": "Gastroduodenal artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "위샘창자동맥",
+        "Gastroduodenal artery"
+      ],
+      "identify": "보통 총간동맥 계통에서 위·샘창자·이자머리의 가지에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "보통 총간동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "위·샘창자·이자머리의 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "위뒤/이자샘창자 계통으로 복강–상장간막 곁순환 연결"
+        }
+      ],
+      "references": [
+        "abdominal-arteries"
+      ]
+    },
+    {
+      "id": "vascular-ileocolic",
+      "name": "돌잘록창자동맥",
+      "en": "Ileocolic artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "돌잘록창자동맥",
+        "Ileocolic artery"
+      ],
+      "identify": "상장간막동맥 계통에서 끝회장·맹장·충수·상행결장 일부에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "상장간막동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "끝회장·맹장·충수·상행결장 일부"
+        },
+        {
+          "label": "식별·비교",
+          "value": "충수동맥 계통 연결; 하장간막동맥의 원위 결장 공급과 구분"
+        }
+      ],
+      "references": [
+        "abdominal-arteries"
+      ]
+    },
+    {
+      "id": "vascular-left-colic",
+      "name": "왼잘록창자동맥",
+      "en": "Left colic artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "왼잘록창자동맥",
+        "Left colic artery"
+      ],
+      "identify": "하장간막동맥 계통에서 내림결장·가로결장 원위부 등에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "하장간막동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "내림결장·가로결장 원위부 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "중간잘록창자동맥과 가장자리동맥 계통 연결"
+        }
+      ],
+      "references": [
+        "abdominal-arteries"
+      ]
+    },
+    {
+      "id": "vascular-superior-rectal",
+      "name": "위곧창자동맥",
+      "en": "Superior rectal artery",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "위곧창자동맥",
+        "Superior rectal artery"
+      ],
+      "identify": "하장간막동맥의 연속 계통에서 상부 직장에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "하장간막동맥의 연속"
+        },
+        {
+          "label": "공급·환류",
+          "value": "상부 직장"
+        },
+        {
+          "label": "식별·비교",
+          "value": "중간·아래직장동맥의 내장골/속음부 계통과 구분"
+        }
+      ],
+      "references": [
+        "abdominal-arteries"
+      ]
+    },
+    {
+      "id": "vascular-smv",
+      "name": "상장간막정맥",
+      "en": "Superior mesenteric vein",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "상장간막정맥",
+        "Superior mesenteric vein"
+      ],
+      "identify": "중간창자 계통 정맥 합류 계통에서 이자목 뒤에서 지라정맥과 문맥 형성에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "중간창자 계통 정맥 합류"
+        },
+        {
+          "label": "공급·환류",
+          "value": "이자목 뒤에서 지라정맥과 문맥 형성"
+        },
+        {
+          "label": "식별·비교",
+          "value": "같은 이름 동맥은 장기 공급, 이 정맥은 문맥성 환류"
+        }
+      ],
+      "references": [
+        "abdominal-veins"
+      ]
+    },
+    {
+      "id": "vascular-splenic-vein",
+      "name": "지라정맥",
+      "en": "Splenic vein",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "지라정맥",
+        "Splenic vein"
+      ],
+      "identify": "지라·이자 등의 정맥 합류 계통에서 이자 뒤를 가로질러 상장간막정맥과 문맥 형성에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "지라·이자 등의 정맥 합류"
+        },
+        {
+          "label": "공급·환류",
+          "value": "이자 뒤를 가로질러 상장간막정맥과 문맥 형성"
+        },
+        {
+          "label": "식별·비교",
+          "value": "지라동맥의 구불구불한 이자 위모서리 주행과 비교"
+        }
+      ],
+      "references": [
+        "abdominal-veins"
+      ]
+    },
+    {
+      "id": "vascular-imv",
+      "name": "하장간막정맥",
+      "en": "Inferior mesenteric vein",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "하장간막정맥",
+        "Inferior mesenteric vein"
+      ],
+      "identify": "뒤창자 계통 정맥 합류 계통에서 흔히 지라정맥에 합류; 변이 있음에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "뒤창자 계통 정맥 합류"
+        },
+        {
+          "label": "공급·환류",
+          "value": "흔히 지라정맥에 합류; 변이 있음"
+        },
+        {
+          "label": "식별·비교",
+          "value": "하장간막동맥처럼 대동맥에서 출발하는 혈관이 아님"
+        }
+      ],
+      "references": [
+        "abdominal-veins"
+      ]
+    },
+    {
+      "id": "vascular-hepatic-veins",
+      "name": "간정맥군",
+      "en": "Hepatic veins",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "간정맥군",
+        "Hepatic veins"
+      ],
+      "identify": "간 안의 정맥 수집 계통 계통에서 간에서 하대정맥으로 환류에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "간 안의 정맥 수집 계통"
+        },
+        {
+          "label": "공급·환류",
+          "value": "간에서 하대정맥으로 환류"
+        },
+        {
+          "label": "식별·비교",
+          "value": "간문맥은 간에 들어오고 간정맥은 나감; 간문부 동행 다발과 위치가 다름"
+        }
+      ],
+      "references": [
+        "abdominal-veins"
+      ]
+    },
+    {
+      "id": "vascular-azygos",
+      "name": "홀정맥",
+      "en": "Azygos vein",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "홀정맥",
+        "Azygos vein"
+      ],
+      "identify": "오른쪽 뒤가슴벽 정맥 합류 계통에서 오른폐뿌리 위를 돌아 상대정맥으로 연결에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "오른쪽 뒤가슴벽 정맥 합류"
+        },
+        {
+          "label": "공급·환류",
+          "value": "오른폐뿌리 위를 돌아 상대정맥으로 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "하대정맥·상대정맥 사이 곁순환 연결과 가슴벽 환류"
+        }
+      ],
+      "references": [
+        "vessels"
+      ]
+    },
+    {
+      "id": "vascular-brachiocephalic-vein",
+      "name": "팔머리정맥",
+      "en": "Brachiocephalic veins",
+      "kind": "vessel",
+      "category": "혈관 · 심장·장기·환류",
+      "aliases": [
+        "팔머리정맥",
+        "Brachiocephalic veins"
+      ],
+      "identify": "내경정맥·쇄골하정맥 합류 계통에서 좌우가 합쳐 상대정맥 형성에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "내경정맥·쇄골하정맥 합류"
+        },
+        {
+          "label": "공급·환류",
+          "value": "좌우가 합쳐 상대정맥 형성"
+        },
+        {
+          "label": "식별·비교",
+          "value": "왼쪽은 더 길게 비스듬히 정중선을 가로지름; 팔머리동맥은 오른쪽 하나"
+        }
+      ],
+      "references": [
+        "vessels"
+      ]
+    },
+    {
+      "id": "vascular-palmar-superficial",
+      "name": "얕은손바닥동맥활",
+      "en": "Superficial palmar arch",
+      "kind": "vessel",
+      "category": "혈관 · 사지·회음",
+      "aliases": [
+        "얕은손바닥동맥활",
+        "Superficial palmar arch"
+      ],
+      "identify": "주로 척골동맥, 요골동맥 가지의 기여 계통에서 손바닥·손가락의 온바닥쪽손가락가지에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "주로 척골동맥, 요골동맥 가지의 기여"
+        },
+        {
+          "label": "공급·환류",
+          "value": "손바닥·손가락의 온바닥쪽손가락가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "깊은활은 요골동맥 중심; 완전한 활의 구성에는 변이"
+        }
+      ],
+      "references": [
+        "upper-arteries"
+      ]
+    },
+    {
+      "id": "vascular-palmar-deep",
+      "name": "깊은손바닥동맥활",
+      "en": "Deep palmar arch",
+      "kind": "vessel",
+      "category": "혈관 · 사지·회음",
+      "aliases": [
+        "깊은손바닥동맥활",
+        "Deep palmar arch"
+      ],
+      "identify": "주로 요골동맥, 척골동맥 가지의 기여 계통에서 손허리뼈 바닥 부근의 깊은 손바닥 가지에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "주로 요골동맥, 척골동맥 가지의 기여"
+        },
+        {
+          "label": "공급·환류",
+          "value": "손허리뼈 바닥 부근의 깊은 손바닥 가지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "얕은활보다 몸쪽·깊게 놓임; 동맥성 연결을 해부 변이와 함께 확인"
+        }
+      ],
+      "references": [
+        "upper-arteries"
+      ]
+    },
+    {
+      "id": "vascular-internal-pudendal",
+      "name": "속음부동맥",
+      "en": "Internal pudendal artery",
+      "kind": "vessel",
+      "category": "혈관 · 사지·회음",
+      "aliases": [
+        "속음부동맥",
+        "Internal pudendal artery"
+      ],
+      "identify": "내장골동맥 계통에서 회음·바깥생식기 등에 연결되는 혈관",
+      "facts": [
+        {
+          "label": "기원·합류",
+          "value": "내장골동맥"
+        },
+        {
+          "label": "공급·환류",
+          "value": "회음·바깥생식기 등"
+        },
+        {
+          "label": "식별·비교",
+          "value": "큰궁둥구멍을 나가 궁둥뼈가시 부근 돌아 작은궁둥구멍으로 진입"
+        }
+      ],
+      "references": [
+        "lower-arteries"
+      ]
+    },
+    {
+      "id": "landmark-glenoid",
+      "name": "관절오목",
+      "en": "Glenoid cavity",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "관절오목",
+        "Glenoid cavity"
+      ],
+      "identify": "견갑골 가쪽의 상완골머리 관절면; 위팔뼈머리·관절테두리와 어깨관절 형성",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "견갑골 가쪽의 상완골머리 관절면"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "위팔뼈머리·관절테두리와 어깨관절 형성"
+        },
+        {
+          "label": "식별·비교",
+          "value": "얕은 관절면과 큰 운동범위; 견갑골의 근육 부착 오목과 구별"
+        }
+      ],
+      "references": [
+        "girdle"
+      ]
+    },
+    {
+      "id": "landmark-lesser-tubercle",
+      "name": "작은결절",
+      "en": "Lesser tubercle",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "작은결절",
+        "Lesser tubercle"
+      ],
+      "identify": "위팔뼈 몸쪽 앞면의 뼈 돌기; 견갑하근 힘줄 정지",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "위팔뼈 몸쪽 앞면의 뼈 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "견갑하근 힘줄 정지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "큰결절에 붙는 다른 회전근개 세 근육과 구별"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-bicipital-groove",
+      "name": "결절사이고랑",
+      "en": "Intertubercular sulcus",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "결절사이고랑",
+        "Intertubercular sulcus"
+      ],
+      "identify": "위팔뼈 큰·작은결절 사이의 세로 고랑; 상완이두근 긴갈래 힘줄이 통과",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "위팔뼈 큰·작은결절 사이의 세로 고랑"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "상완이두근 긴갈래 힘줄이 통과"
+        },
+        {
+          "label": "식별·비교",
+          "value": "힘줄 통과 고랑과 상완이두근의 노뼈 정지를 구분"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-radial-groove",
+      "name": "노신경고랑",
+      "en": "Radial groove",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "노신경고랑",
+        "Radial groove"
+      ],
+      "identify": "위팔뼈 몸통 뒤면의 비스듬한 고랑; 요골신경·상완심동맥이 통과",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "위팔뼈 몸통 뒤면의 비스듬한 고랑"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "요골신경·상완심동맥이 통과"
+        },
+        {
+          "label": "식별·비교",
+          "value": "외과목의 액와신경 관계와 손상 수준을 비교"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-lateral-epicondyle",
+      "name": "가쪽위관절융기",
+      "en": "Lateral epicondyle of humerus",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "가쪽위관절융기",
+        "Lateral epicondyle of humerus"
+      ],
+      "identify": "위팔뼈 먼쪽 가쪽의 관절 바깥 돌기; 공통 폄근힘줄 등 부착",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "위팔뼈 먼쪽 가쪽의 관절 바깥 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "공통 폄근힘줄 등 부착"
+        },
+        {
+          "label": "식별·비교",
+          "value": "안쪽위관절융기의 굽힘근 기원·척골신경 뒤쪽 관계와 비교"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-radial-tuberosity",
+      "name": "노뼈거친면",
+      "en": "Radial tuberosity",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "노뼈거친면",
+        "Radial tuberosity"
+      ],
+      "identify": "노뼈목 아래 안쪽의 거친 뼈 표지; 상완이두근 힘줄 정지",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "노뼈목 아래 안쪽의 거친 뼈 표지"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "상완이두근 힘줄 정지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "위팔뼈 결절사이고랑은 긴갈래 힘줄 통과, 이 표지는 정지"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-ulnar-coronoid",
+      "name": "자뼈갈고리돌기",
+      "en": "Coronoid process of ulna",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "자뼈갈고리돌기",
+        "Coronoid process of ulna"
+      ],
+      "identify": "자뼈 몸쪽 앞면의 돌기; 도르래패임 앞부분·상완근 부착 계통",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "자뼈 몸쪽 앞면의 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "도르래패임 앞부분·상완근 부착 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "아래턱 근육돌기와 영문명이 비슷해 부위를 반드시 구분"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-radial-styloid",
+      "name": "노뼈붓돌기",
+      "en": "Radial styloid process",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "노뼈붓돌기",
+        "Radial styloid process"
+      ],
+      "identify": "손목 노쪽의 먼쪽 뼈 돌기; 손목 가쪽의 촉지 표지·인대 연결",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "손목 노쪽의 먼쪽 뼈 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "손목 가쪽의 촉지 표지·인대 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "자뼈붓돌기보다 먼쪽까지 내려오는 정상 관계"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-ulnar-styloid",
+      "name": "자뼈붓돌기",
+      "en": "Ulnar styloid process",
+      "kind": "bone",
+      "category": "뼈 표지 · 어깨·상지",
+      "aliases": [
+        "자뼈붓돌기",
+        "Ulnar styloid process"
+      ],
+      "identify": "손목 자쪽의 먼쪽 뼈 돌기; 삼각섬유연골복합체 등 연결 표지",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "손목 자쪽의 먼쪽 뼈 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "삼각섬유연골복합체 등 연결 표지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "자뼈는 손목뼈와 직접 같은 방식으로 관절하지 않음"
+        }
+      ],
+      "references": [
+        "upper-bones"
+      ]
+    },
+    {
+      "id": "landmark-acetabulum",
+      "name": "절구",
+      "en": "Acetabulum",
+      "kind": "bone",
+      "category": "뼈 표지 · 골반",
+      "aliases": [
+        "절구",
+        "Acetabulum"
+      ],
+      "identify": "골반뼈 가쪽에서 넙다리뼈머리를 받는 오목; 장골·좌골·치골이 함께 구성",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "골반뼈 가쪽에서 넙다리뼈머리를 받는 오목"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "장골·좌골·치골이 함께 구성"
+        },
+        {
+          "label": "식별·비교",
+          "value": "어깨 관절오목보다 깊은 볼관절 받침; 절구오목과 관절 달면 구분"
+        }
+      ],
+      "references": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "landmark-ischial-spine",
+      "name": "궁둥뼈가시",
+      "en": "Ischial spine",
+      "kind": "bone",
+      "category": "뼈 표지 · 골반",
+      "aliases": [
+        "궁둥뼈가시",
+        "Ischial spine"
+      ],
+      "identify": "큰·작은궁둥패임 사이 뒤쪽 돌기; 천극인대 부착·음부신경혈관 회귀 표지",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "큰·작은궁둥패임 사이 뒤쪽 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "천극인대 부착·음부신경혈관 회귀 표지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "좌골결절의 체중지지·햄스트링 부착과 구분"
+        }
+      ],
+      "references": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "landmark-aiis",
+      "name": "아래앞엉덩뼈가시",
+      "en": "Anterior inferior iliac spine",
+      "kind": "bone",
+      "category": "뼈 표지 · 골반",
+      "aliases": [
+        "아래앞엉덩뼈가시",
+        "Anterior inferior iliac spine"
+      ],
+      "identify": "앞위엉덩뼈가시 아래의 돌기; 대퇴직근 곧은갈래 기원",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "앞위엉덩뼈가시 아래의 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "대퇴직근 곧은갈래 기원"
+        },
+        {
+          "label": "식별·비교",
+          "value": "봉공근 기원의 앞위엉덩뼈가시와 비교"
+        }
+      ],
+      "references": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "landmark-pubic-symphysis",
+      "name": "두덩결합",
+      "en": "Pubic symphysis",
+      "kind": "bone",
+      "category": "뼈 표지 · 골반",
+      "aliases": [
+        "두덩결합",
+        "Pubic symphysis"
+      ],
+      "identify": "골반 앞 정중선에서 두 두덩뼈가 만나는 연결; 섬유연골 원반을 사이에 둔 결합",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "골반 앞 정중선에서 두 두덩뼈가 만나는 연결"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "섬유연골 원반을 사이에 둔 결합"
+        },
+        {
+          "label": "식별·비교",
+          "value": "활막관절인 엉치엉덩관절과 구조 유형을 구분"
+        }
+      ],
+      "references": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "landmark-lesser-trochanter",
+      "name": "작은돌기",
+      "en": "Lesser trochanter",
+      "kind": "bone",
+      "category": "뼈 표지 · 하지",
+      "aliases": [
+        "작은돌기",
+        "Lesser trochanter"
+      ],
+      "identify": "넙다리뼈 몸쪽 뒤안쪽의 돌기; 장요근 정지",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "넙다리뼈 몸쪽 뒤안쪽의 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "장요근 정지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "큰돌기의 볼기근·바깥돌림근 부착과 위치·기능 비교"
+        }
+      ],
+      "references": [
+        "lower-bones"
+      ]
+    },
+    {
+      "id": "landmark-linea-aspera",
+      "name": "거친선",
+      "en": "Linea aspera",
+      "kind": "bone",
+      "category": "뼈 표지 · 하지",
+      "aliases": [
+        "거친선",
+        "Linea aspera"
+      ],
+      "identify": "넙다리뼈 몸통 뒤면의 세로 능선; 내전근·광근 등의 부착 계통",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "넙다리뼈 몸통 뒤면의 세로 능선"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "내전근·광근 등의 부착 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞면의 매끈한 몸통과 구분; 내측·외측 입술로 나눔"
+        }
+      ],
+      "references": [
+        "lower-bones"
+      ]
+    },
+    {
+      "id": "landmark-adductor-tubercle",
+      "name": "모음근결절",
+      "en": "Adductor tubercle",
+      "kind": "bone",
+      "category": "뼈 표지 · 하지",
+      "aliases": [
+        "모음근결절",
+        "Adductor tubercle"
+      ],
+      "identify": "넙다리뼈 먼쪽 안쪽의 작은 돌기; 대내전근 햄스트링부분 힘줄 정지",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "넙다리뼈 먼쪽 안쪽의 작은 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "대내전근 햄스트링부분 힘줄 정지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "안쪽위관절융기 주변 표지이나 같은 전체 구조는 아님"
+        }
+      ],
+      "references": [
+        "lower-bones"
+      ]
+    },
+    {
+      "id": "landmark-intercondylar-eminence",
+      "name": "융기사이융기",
+      "en": "Intercondylar eminence",
+      "kind": "bone",
+      "category": "뼈 표지 · 하지",
+      "aliases": [
+        "융기사이융기",
+        "Intercondylar eminence"
+      ],
+      "identify": "정강뼈 위 관절면 가운데의 솟은 표지; 십자인대·반달연골 뿌리 부착 주변",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "정강뼈 위 관절면 가운데의 솟은 표지"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "십자인대·반달연골 뿌리 부착 주변"
+        },
+        {
+          "label": "식별·비교",
+          "value": "앞쪽 경골조면의 슬개인대 부착과 구분"
+        }
+      ],
+      "references": [
+        "lower-bones"
+      ]
+    },
+    {
+      "id": "landmark-sustentaculum",
+      "name": "목말받침돌기",
+      "en": "Sustentaculum tali",
+      "kind": "bone",
+      "category": "뼈 표지 · 하지",
+      "aliases": [
+        "목말받침돌기",
+        "Sustentaculum tali"
+      ],
+      "identify": "발꿈치뼈 안쪽에서 목말뼈를 받치는 돌기; 긴엄지굽힘근힘줄이 아래쪽 고랑 통과",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "발꿈치뼈 안쪽에서 목말뼈를 받치는 돌기"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "긴엄지굽힘근힘줄이 아래쪽 고랑 통과"
+        },
+        {
+          "label": "식별·비교",
+          "value": "가쪽 발꿈치뼈의 종아리근힘줄 관계와 비교"
+        }
+      ],
+      "references": [
+        "lower-bones"
+      ]
+    },
+    {
+      "id": "landmark-fifth-metatarsal-base",
+      "name": "제5발허리뼈 거친면",
+      "en": "Tuberosity of fifth metatarsal",
+      "kind": "bone",
+      "category": "뼈 표지 · 하지",
+      "aliases": [
+        "제5발허리뼈 거친면",
+        "Tuberosity of fifth metatarsal"
+      ],
+      "identify": "발 가쪽의 제5발허리뼈 바닥 돌출; 짧은종아리근힘줄 정지",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "발 가쪽의 제5발허리뼈 바닥 돌출"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "짧은종아리근힘줄 정지"
+        },
+        {
+          "label": "식별·비교",
+          "value": "견열 골절 부위와 더 먼쪽 근위 간부 골절 부위를 구분"
+        }
+      ],
+      "references": [
+        "lower-bones"
+      ]
+    },
+    {
+      "id": "landmark-pedicle",
+      "name": "척추뿌리",
+      "en": "Pedicle",
+      "kind": "bone",
+      "category": "뼈 표지 · 척추",
+      "aliases": [
+        "척추뿌리",
+        "Pedicle"
+      ],
+      "identify": "척추체 뒤에서 척추활로 이어지는 짧은 연결부; 위아래 패임이 추간공 경계 형성",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "척추체 뒤에서 척추활로 이어지는 짧은 연결부"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "위아래 패임이 추간공 경계 형성"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척추고리판과 앞뒤 위치가 다름; 몸통–뒤구조 연결"
+        }
+      ],
+      "references": [
+        "spine"
+      ]
+    },
+    {
+      "id": "landmark-lamina",
+      "name": "척추고리판",
+      "en": "Lamina",
+      "kind": "bone",
+      "category": "뼈 표지 · 척추",
+      "aliases": [
+        "척추고리판",
+        "Lamina"
+      ],
+      "identify": "척추활 뒤에서 가시돌기로 이어지는 판; 척추관 뒤벽·황색인대 연결",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "척추활 뒤에서 가시돌기로 이어지는 판"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "척추관 뒤벽·황색인대 연결"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척추뿌리는 더 앞쪽, 고리판은 뒤쪽"
+        }
+      ],
+      "references": [
+        "spine"
+      ]
+    },
+    {
+      "id": "landmark-intervertebral-foramen",
+      "name": "추간공",
+      "en": "Intervertebral foramen",
+      "kind": "bone",
+      "category": "뼈 표지 · 척추",
+      "aliases": [
+        "추간공",
+        "Intervertebral foramen"
+      ],
+      "identify": "인접 척추 사이 가쪽에서 신경이 나가는 공간; 척추뿌리 패임·디스크·후관절 등이 경계",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "인접 척추 사이 가쪽에서 신경이 나가는 공간"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "척추뿌리 패임·디스크·후관절 등이 경계"
+        },
+        {
+          "label": "식별·비교",
+          "value": "척추관의 중앙 통로와 신경뿌리 출구를 구분"
+        }
+      ],
+      "references": [
+        "spine"
+      ]
+    },
+    {
+      "id": "landmark-optic-canal",
+      "name": "시각신경관",
+      "en": "Optic canal",
+      "kind": "bone",
+      "category": "뼈 표지 · 머리뼈바닥",
+      "aliases": [
+        "시각신경관",
+        "Optic canal"
+      ],
+      "identify": "접형골 작은날개 부근의 눈확 통로; 시신경·눈동맥 통과",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "접형골 작은날개 부근의 눈확 통로"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "시신경·눈동맥 통과"
+        },
+        {
+          "label": "식별·비교",
+          "value": "위눈확틈새의 III·IV·V1·VI와 구분"
+        }
+      ],
+      "references": [
+        "skull"
+      ]
+    },
+    {
+      "id": "landmark-superior-orbital-fissure",
+      "name": "위눈확틈새",
+      "en": "Superior orbital fissure",
+      "kind": "bone",
+      "category": "뼈 표지 · 머리뼈바닥",
+      "aliases": [
+        "위눈확틈새",
+        "Superior orbital fissure"
+      ],
+      "identify": "접형골 큰·작은날개 사이의 눈확 틈; III·IV·V1·VI 및 위눈정맥 계통",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "접형골 큰·작은날개 사이의 눈확 틈"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "III·IV·V1·VI 및 위눈정맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "시신경은 이 틈새가 아니라 시각신경관 통과"
+        }
+      ],
+      "references": [
+        "skull"
+      ]
+    },
+    {
+      "id": "landmark-jugular-foramen",
+      "name": "목정맥구멍",
+      "en": "Jugular foramen",
+      "kind": "bone",
+      "category": "뼈 표지 · 머리뼈바닥",
+      "aliases": [
+        "목정맥구멍",
+        "Jugular foramen"
+      ],
+      "identify": "관자뼈와 뒤통수뼈 사이의 머리뼈바닥 통로; IX·X·XI와 내경정맥 계통",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "관자뼈와 뒤통수뼈 사이의 머리뼈바닥 통로"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "IX·X·XI와 내경정맥 계통"
+        },
+        {
+          "label": "식별·비교",
+          "value": "설하신경은 별도 설하신경관 통과"
+        }
+      ],
+      "references": [
+        "skull"
+      ]
+    },
+    {
+      "id": "landmark-foramen-ovale",
+      "name": "타원구멍",
+      "en": "Foramen ovale",
+      "kind": "bone",
+      "category": "뼈 표지 · 머리뼈바닥",
+      "aliases": [
+        "타원구멍",
+        "Foramen ovale"
+      ],
+      "identify": "접형골 큰날개의 아래턱신경 통로; V3 등 통과",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "접형골 큰날개의 아래턱신경 통로"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "V3 등 통과"
+        },
+        {
+          "label": "식별·비교",
+          "value": "원형구멍의 V2, 가시구멍의 중간뇌막동맥과 비교"
+        }
+      ],
+      "references": [
+        "skull"
+      ]
+    },
+    {
+      "id": "landmark-foramen-rotundum",
+      "name": "원형구멍",
+      "en": "Foramen rotundum",
+      "kind": "bone",
+      "category": "뼈 표지 · 머리뼈바닥",
+      "aliases": [
+        "원형구멍",
+        "Foramen rotundum"
+      ],
+      "identify": "접형골에서 날개입천장오목으로 이어지는 통로; V2 통과",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "접형골에서 날개입천장오목으로 이어지는 통로"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "V2 통과"
+        },
+        {
+          "label": "식별·비교",
+          "value": "V1의 위눈확틈새, V3의 타원구멍과 비교"
+        }
+      ],
+      "references": [
+        "skull"
+      ]
+    },
+    {
+      "id": "landmark-foramen-spinosum",
+      "name": "가시구멍",
+      "en": "Foramen spinosum",
+      "kind": "bone",
+      "category": "뼈 표지 · 머리뼈바닥",
+      "aliases": [
+        "가시구멍",
+        "Foramen spinosum"
+      ],
+      "identify": "타원구멍 뒤가쪽의 작은 머리뼈바닥 통로; 중간뇌막동맥·정맥 등 통과",
+      "facts": [
+        {
+          "label": "위치·형태",
+          "value": "타원구멍 뒤가쪽의 작은 머리뼈바닥 통로"
+        },
+        {
+          "label": "관절·부착·통과",
+          "value": "중간뇌막동맥·정맥 등 통과"
+        },
+        {
+          "label": "식별·비교",
+          "value": "뇌신경 주간의 통로와 경막 혈관 통로를 구분"
+        }
+      ],
+      "references": [
+        "skull"
+      ]
+    },
+    {
+      "id": "imaging-ultrasound",
+      "name": "초음파영상",
+      "en": "Ultrasonography",
+      "kind": "imaging",
+      "category": "영상 원리",
+      "aliases": [
+        "초음파영상",
+        "Ultrasonography"
+      ],
+      "identify": "고주파 음파의 반사를 실시간 영상화; 얕은 연부조직·힘줄·혈관·동적 운동 관찰",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "고주파 음파의 반사를 실시간 영상화"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "얕은 연부조직·힘줄·혈관·동적 운동 관찰"
+        },
+        {
+          "label": "판독·감별",
+          "value": "뼈·공기 뒤가 가려지고 탐촉자 각도·압력에 따라 모양 달라짐"
+        }
+      ],
+      "references": [
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-long-short",
+      "name": "초음파 장축·단축",
+      "en": "Ultrasound long and short axis",
+      "kind": "imaging",
+      "category": "초음파 판독 기초",
+      "aliases": [
+        "초음파 장축·단축",
+        "Ultrasound long and short axis"
+      ],
+      "identify": "구조 길이를 따라 보면 장축, 가로지르면 단축; 힘줄·신경·혈관을 두 면에서 이어 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "구조 길이를 따라 보면 장축, 가로지르면 단축"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "힘줄·신경·혈관을 두 면에서 이어 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "한 단면의 점·원 모양만으로 구조 종류를 확정하지 않음"
+        }
+      ],
+      "references": [
+        "us",
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-anisotropy",
+      "name": "이방성 인공물",
+      "en": "Ultrasound anisotropy",
+      "kind": "imaging",
+      "category": "초음파 판독 기초",
+      "aliases": [
+        "이방성 인공물",
+        "Ultrasound anisotropy"
+      ],
+      "identify": "힘줄 등에서 음파 입사각이 달라져 신호가 약해짐; 탐촉자 기울기를 바꾸어 저에코가 사라지는지 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "힘줄 등에서 음파 입사각이 달라져 신호가 약해짐"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "탐촉자 기울기를 바꾸어 저에코가 사라지는지 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "각도에 따른 저에코를 곧바로 힘줄 파열이라고 하지 않음"
+        }
+      ],
+      "references": [
+        "us",
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-shadow",
+      "name": "후방음향음영",
+      "en": "Posterior acoustic shadowing",
+      "kind": "imaging",
+      "category": "초음파 판독 기초",
+      "aliases": [
+        "후방음향음영",
+        "Posterior acoustic shadowing"
+      ],
+      "identify": "뼈·석회 등 뒤로 음파 전달이 줄어 어두워지는 현상; 강한 표면반사와 뒤쪽 신호소실을 함께 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "뼈·석회 등 뒤로 음파 전달이 줄어 어두워지는 현상"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "강한 표면반사와 뒤쪽 신호소실을 함께 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "액체 뒤의 후방증강과 반대 관계; 가스도 음영·인공물 유발"
+        }
+      ],
+      "references": [
+        "us",
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-enhancement",
+      "name": "후방음향증강",
+      "en": "Posterior acoustic enhancement",
+      "kind": "imaging",
+      "category": "초음파 판독 기초",
+      "aliases": [
+        "후방음향증강",
+        "Posterior acoustic enhancement"
+      ],
+      "identify": "액체를 지난 음파 감쇠가 적어 뒤쪽이 상대적으로 밝아짐; 액체성 구조의 내부 저에코와 뒤쪽 증강 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "액체를 지난 음파 감쇠가 적어 뒤쪽이 상대적으로 밝아짐"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "액체성 구조의 내부 저에코와 뒤쪽 증강 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "증강 하나만으로 특정 낭종·질환 확정하지 않음"
+        }
+      ],
+      "references": [
+        "us",
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-doppler",
+      "name": "색도플러 방향",
+      "en": "Color Doppler direction",
+      "kind": "imaging",
+      "category": "초음파 판독 기초",
+      "aliases": [
+        "색도플러 방향",
+        "Color Doppler direction"
+      ],
+      "identify": "색상은 설정한 색지도에서 탐촉자에 대한 흐름 방향 표시; 색지도·속도범위·각도와 실제 혈관 해부를 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "색상은 설정한 색지도에서 탐촉자에 대한 흐름 방향 표시"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "색지도·속도범위·각도와 실제 혈관 해부를 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "빨강은 동맥·파랑은 정맥이라는 규칙이 아님"
+        }
+      ],
+      "references": [
+        "us",
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-nerve",
+      "name": "초음파에서 신경",
+      "en": "Peripheral nerve ultrasound pattern",
+      "kind": "imaging",
+      "category": "초음파 판독 기초",
+      "aliases": [
+        "초음파에서 신경",
+        "Peripheral nerve ultrasound pattern"
+      ],
+      "identify": "말초신경은 단축에서 다발이 모인 벌집 모양으로 관찰 가능; 장축의 연속 다발·주변 힘줄/혈관과 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "말초신경은 단축에서 다발이 모인 벌집 모양으로 관찰 가능"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "장축의 연속 다발·주변 힘줄/혈관과 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "부위·깊이에 따라 모양 차이; 도플러·추적·압박 반응 함께 확인"
+        }
+      ],
+      "references": [
+        "upper-nerves",
+        "us",
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-tendon",
+      "name": "초음파에서 힘줄",
+      "en": "Tendon ultrasound pattern",
+      "kind": "imaging",
+      "category": "초음파 판독 기초",
+      "aliases": [
+        "초음파에서 힘줄",
+        "Tendon ultrasound pattern"
+      ],
+      "identify": "장축에서 평행한 섬유 에코가 이어지는 구조; 근육·뼈 부착까지 추적하고 움직임과 함께 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "장축에서 평행한 섬유 에코가 이어지는 구조"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "근육·뼈 부착까지 추적하고 움직임과 함께 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "신경도 선 모양이 가능; 섬유 배열·부착·이방성 비교"
+        }
+      ],
+      "references": [
+        "upper-muscles",
+        "us",
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-probe-marker",
+      "name": "탐촉자 방향표지",
+      "en": "Probe orientation marker",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "탐촉자 방향표지",
+        "Probe orientation marker"
+      ],
+      "identify": "화면의 표지와 탐촉자 표지를 실제 환자의 방향에 연결; 장축·단축에서 어느 끝이 몸쪽인지 기록",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "화면의 표지와 탐촉자 표지를 실제 환자의 방향에 연결"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "장축·단축에서 어느 끝이 몸쪽인지 기록"
+        },
+        {
+          "label": "판독·감별",
+          "value": "장비·기관 표시 관행을 확인; 화면 왼쪽을 항상 환자 오른쪽이라고 외우지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-frequency",
+      "name": "탐촉자 주파수",
+      "en": "Transducer frequency",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "탐촉자 주파수",
+        "Transducer frequency"
+      ],
+      "identify": "높은 주파수는 일반적으로 얕은 구조 해상도, 낮은 주파수는 깊은 도달에 유리; 얕은 힘줄·신경과 깊은 근육에 맞춰 선택",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "높은 주파수는 일반적으로 얕은 구조 해상도, 낮은 주파수는 깊은 도달에 유리"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "얕은 힘줄·신경과 깊은 근육에 맞춰 선택"
+        },
+        {
+          "label": "판독·감별",
+          "value": "주파수·해상도·깊이의 절충; 높을수록 모든 구조가 잘 보이는 것은 아님"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-depth-focus",
+      "name": "깊이·초점 설정",
+      "en": "Depth and focus",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "깊이·초점 설정",
+        "Depth and focus"
+      ],
+      "identify": "관찰 구조가 들어오도록 깊이를 정하고 초점을 그 부근에 설정; 피부·근막·근육·뼈 표면 관계가 함께 보이는 범위를 확보",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "관찰 구조가 들어오도록 깊이를 정하고 초점을 그 부근에 설정"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "피부·근막·근육·뼈 표면 관계가 함께 보이는 범위를 확보"
+        },
+        {
+          "label": "판독·감별",
+          "value": "너무 깊은 화면·부적절한 초점은 작은 구조를 보기 어렵게 함"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-gain",
+      "name": "이득 설정",
+      "en": "Ultrasound gain",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "이득 설정",
+        "Ultrasound gain"
+      ],
+      "identify": "수신 신호 증폭에 따라 화면의 전체 밝기를 조절; 같은 부위 비교에서 이득·깊이를 일관되게 기록",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "수신 신호 증폭에 따라 화면의 전체 밝기를 조절"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "같은 부위 비교에서 이득·깊이를 일관되게 기록"
+        },
+        {
+          "label": "판독·감별",
+          "value": "이득을 올려 밝아진 것을 조직의 실제 고에코 변화로 해석하지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-pressure",
+      "name": "탐촉자 압박",
+      "en": "Probe compression",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "탐촉자 압박",
+        "Probe compression"
+      ],
+      "identify": "압력에 따라 정맥·액체·얕은 조직 모양이 변화; 가벼운 압박·이완과 구조 추적을 함께 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "압력에 따라 정맥·액체·얕은 조직 모양이 변화"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "가벼운 압박·이완과 구조 추적을 함께 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "과도한 압력으로 작은 혈관 흐름·액체가 가려질 수 있음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-dynamic",
+      "name": "동적 관찰",
+      "en": "Dynamic ultrasound",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "동적 관찰",
+        "Dynamic ultrasound"
+      ],
+      "identify": "움직임에 따른 힘줄·근육·신경 위치를 실시간 비교; 안정 상태와 굽힘·폄·회전에서 같은 구조를 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "움직임에 따른 힘줄·근육·신경 위치를 실시간 비교"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "안정 상태와 굽힘·폄·회전에서 같은 구조를 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "움직임 때 한 장면을 보고 병변을 확정하지 않고 재현성·증상 비교"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-muscle-pattern",
+      "name": "근육의 초음파 형태",
+      "en": "Muscle ultrasound pattern",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "근육의 초음파 형태",
+        "Muscle ultrasound pattern"
+      ],
+      "identify": "상대적 저에코 근육 안에 근막·결합조직 선이 분포; 장축·단축에서 다발 방향과 수축 변화를 관찰",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "상대적 저에코 근육 안에 근막·결합조직 선이 분포"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "장축·단축에서 다발 방향과 수축 변화를 관찰"
+        },
+        {
+          "label": "판독·감별",
+          "value": "힘줄의 치밀한 평행 섬유와 구분; 운동·압박·부착까지 확인"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-fascia-pattern",
+      "name": "근막의 초음파 층",
+      "en": "Fascial ultrasound layers",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "근막의 초음파 층",
+        "Fascial ultrasound layers"
+      ],
+      "identify": "피부·피하조직 아래의 선상 고에코 층을 연속 추적; 근막·근육 사이 경계와 미끄러짐 관계를 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "피부·피하조직 아래의 선상 고에코 층을 연속 추적"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "근막·근육 사이 경계와 미끄러짐 관계를 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "한 밝은 선만으로 특정 근막을 확정하지 않고 인접 구조·연속성 비교"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-bone-cortex",
+      "name": "뼈 피질의 초음파 표면",
+      "en": "Bone cortex ultrasound",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "뼈 피질의 초음파 표면",
+        "Bone cortex ultrasound"
+      ],
+      "identify": "뼈 표면은 강한 반사선과 뒤쪽 음영을 보임; 힘줄 부착·피질 윤곽을 두 면에서 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "뼈 표면은 강한 반사선과 뒤쪽 음영을 보임"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "힘줄 부착·피질 윤곽을 두 면에서 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "뼈 속·골수 전체를 초음파로 직접 관찰하는 것은 아님"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-bursa",
+      "name": "윤활주머니의 초음파 관계",
+      "en": "Bursa ultrasound anatomy",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "윤활주머니의 초음파 관계",
+        "Bursa ultrasound anatomy"
+      ],
+      "identify": "정상 주머니는 얇고 구조 사이 공간으로 구분; 힘줄·근육·뼈 표면 사이의 위치·액체·압박 반응을 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "정상 주머니는 얇고 구조 사이 공간으로 구분"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "힘줄·근육·뼈 표면 사이의 위치·액체·압박 반응을 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "액체가 보여도 원인·중증도를 그 양만으로 단정하지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-biceps",
+      "name": "어깨 앞 긴갈래힘줄 추적",
+      "en": "Long head biceps ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "어깨 앞 긴갈래힘줄 추적",
+        "Long head biceps ultrasound"
+      ],
+      "identify": "위팔뼈 큰·작은결절 사이 고랑에서 긴갈래힘줄 확인; 단축으로 고랑을 찾고 장축으로 힘줄 연속성 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "위팔뼈 큰·작은결절 사이 고랑에서 긴갈래힘줄 확인"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "단축으로 고랑을 찾고 장축으로 힘줄 연속성 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "옆의 견갑하근과 혼동하지 않음; 각도와 위치 변화를 함께 비교"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-subscapularis",
+      "name": "어깨 앞 회전근개 추적",
+      "en": "Subscapularis ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "어깨 앞 회전근개 추적",
+        "Subscapularis ultrasound"
+      ],
+      "identify": "앞쪽 작은결절로 이어지는 회전근개 힘줄; 바깥돌림 때 힘줄과 긴갈래힘줄·결절 관계 관찰",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "앞쪽 작은결절로 이어지는 회전근개 힘줄"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "바깥돌림 때 힘줄과 긴갈래힘줄·결절 관계 관찰"
+        },
+        {
+          "label": "판독·감별",
+          "value": "큰결절에 정지하는 극상근·극하근·소원근과 부착이 다름"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-supraspinatus",
+      "name": "어깨 위 회전근개 추적",
+      "en": "Supraspinatus ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "어깨 위 회전근개 추적",
+        "Supraspinatus ultrasound"
+      ],
+      "identify": "큰결절 위쪽으로 이어지는 회전근개 힘줄; 두 면에서 섬유·부착·위쪽 삼각근과 주머니 관계 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "큰결절 위쪽으로 이어지는 회전근개 힘줄"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "두 면에서 섬유·부착·위쪽 삼각근과 주머니 관계 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "탐촉자 각도에 따른 저에코와 지속되는 섬유 결손을 구분"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-ulnar-elbow",
+      "name": "팔꿈치 안쪽 신경 추적",
+      "en": "Ulnar nerve elbow ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "팔꿈치 안쪽 신경 추적",
+        "Ulnar nerve elbow ultrasound"
+      ],
+      "identify": "내측상과 뒤쪽 고랑에서 신경 확인; 몸쪽·먼쪽 추적과 팔꿈치 굽힘에 따른 위치 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "내측상과 뒤쪽 고랑에서 신경 확인"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "몸쪽·먼쪽 추적과 팔꿈치 굽힘에 따른 위치 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "정적인 한 단면만으로 운동 때 이동을 판단하지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-median-wrist",
+      "name": "손목 앞 신경 추적",
+      "en": "Median nerve wrist ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "손목 앞 신경 추적",
+        "Median nerve wrist ultrasound"
+      ],
+      "identify": "수근관에서 굽힘힘줄 사이 신경과 지지띠 관계 확인; 단축 다발 모양과 몸쪽·먼쪽 연속성 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "수근관에서 굽힘힘줄 사이 신경과 지지띠 관계 확인"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "단축 다발 모양과 몸쪽·먼쪽 연속성 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "장장근힘줄은 관 바깥; 단면 크기 하나로 모든 신경병증 확정하지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-radial-wrist",
+      "name": "노쪽 손목 힘줄 추적",
+      "en": "Radial wrist tendons ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "노쪽 손목 힘줄 추적",
+        "Radial wrist tendons ultrasound"
+      ],
+      "identify": "손목 노쪽에서 장무지외전근·단무지신근 힘줄의 주행 확인; 단축에서 구획을 찾고 장축·움직임으로 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "손목 노쪽에서 장무지외전근·단무지신근 힘줄의 주행 확인"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "단축에서 구획을 찾고 장축·움직임으로 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "신경·혈관·뼈 표지를 함께 비교; 한 힘줄 이름만으로 구획 전체를 대신하지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-patellar",
+      "name": "무릎 앞 인대 추적",
+      "en": "Patellar ligament ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "무릎 앞 인대 추적",
+        "Patellar ligament ultrasound"
+      ],
+      "identify": "슬개골 아래끝과 경골조면 사이 섬유 다발; 장축·단축에서 부착과 연속성 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "슬개골 아래끝과 경골조면 사이 섬유 다발"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "장축·단축에서 부착과 연속성 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "슬개골 위쪽 대퇴사두근힘줄과 부착 경계가 다름"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-quadriceps",
+      "name": "무릎 위 힘줄 추적",
+      "en": "Quadriceps tendon ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "무릎 위 힘줄 추적",
+        "Quadriceps tendon ultrasound"
+      ],
+      "identify": "슬개골 위끝에 붙는 대퇴사두근힘줄 계통; 근육부터 힘줄·슬개골 피질까지 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "슬개골 위끝에 붙는 대퇴사두근힘줄 계통"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "근육부터 힘줄·슬개골 피질까지 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "슬개인대는 슬개골 아래쪽; 다층 힘줄과 각도 영향을 함께 확인"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-achilles",
+      "name": "발목 뒤 힘줄 추적",
+      "en": "Achilles tendon ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "발목 뒤 힘줄 추적",
+        "Achilles tendon ultrasound"
+      ],
+      "identify": "비복근·가자미근 계통에서 발꿈치뼈로 이어지는 힘줄; 장축 섬유와 단축 형태, 종골 부착까지 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "비복근·가자미근 계통에서 발꿈치뼈로 이어지는 힘줄"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "장축 섬유와 단축 형태, 종골 부착까지 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "뒤정강근힘줄은 안쪽복사 뒤를 통과하는 별도 구조"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-posterior-tibial",
+      "name": "발목 안쪽 힘줄 추적",
+      "en": "Tibialis posterior tendon ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "발목 안쪽 힘줄 추적",
+        "Tibialis posterior tendon ultrasound"
+      ],
+      "identify": "안쪽복사 뒤에서 발 안쪽 부착으로 이어지는 힘줄; 인접 장지굴근·혈관·신경·장무지굴근과 순서를 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "안쪽복사 뒤에서 발 안쪽 부착으로 이어지는 힘줄"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "인접 장지굴근·혈관·신경·장무지굴근과 순서를 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "같은 안쪽복사 뒤 통로에서도 힘줄·혈관·신경은 다른 조직"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-fibular-tendons",
+      "name": "발목 가쪽 힘줄 추적",
+      "en": "Fibular tendons ultrasound",
+      "kind": "imaging",
+      "category": "초음파 부위 해부",
+      "aliases": [
+        "발목 가쪽 힘줄 추적",
+        "Fibular tendons ultrasound"
+      ],
+      "identify": "가쪽복사 뒤에서 긴·짧은종아리근힘줄을 함께 관찰; 단축 위치와 장축 연속성·발목 움직임을 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "가쪽복사 뒤에서 긴·짧은종아리근힘줄을 함께 관찰"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "단축 위치와 장축 연속성·발목 움직임을 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "짧은힘줄의 제5발허리뼈 정지와 긴힘줄의 발바닥 주행을 구분"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-recording",
+      "name": "초음파 해부학 기록",
+      "en": "Ultrasound anatomy documentation",
+      "kind": "imaging",
+      "category": "초음파 설정·조직 식별",
+      "aliases": [
+        "초음파 해부학 기록",
+        "Ultrasound anatomy documentation"
+      ],
+      "identify": "부위·좌우·면·방향표지·깊이와 관찰 구조 기록; 같은 표지·자세·설정으로 이전 영상과 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "부위·좌우·면·방향표지·깊이와 관찰 구조 기록"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "같은 표지·자세·설정으로 이전 영상과 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "교육용 개념 그림·실제 환자 영상·진단 결과를 각각 구분"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us"
       ]
     }
   ],
