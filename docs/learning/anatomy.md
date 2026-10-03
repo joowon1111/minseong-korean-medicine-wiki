@@ -7,7 +7,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 
 [기초 한의학 퀴즈 & 학습실](index.md) / **기초 해부학**
 
-**584개 카드 · 3,751문제.** 근육·신경·뼈·혈관·조직·초음파 해부학의 핵심을 외우는 데서 출발해, **어디에 있고 무엇과 연결되며 어떤 기능을 하는지** 설명해 보세요. 한의학의 기초 해부학을 공부할 때 강의와 실습 범위에 맞춰 사용할 수 있는 자체 학습 자료입니다.
+**620개 카드 · 3,939문제.** 근육·신경·뼈·혈관·조직·초음파 해부학의 핵심을 외우는 데서 출발해, **어디에 있고 무엇과 연결되며 어떤 기능을 하는지** 설명해 보세요. 한의학의 기초 해부학을 공부할 때 강의와 실습 범위에 맞춰 사용할 수 있는 자체 학습 자료입니다.
 
 ## 무엇을 공부하나요?
 
@@ -17,7 +17,7 @@ tags: [기초 해부학, 해부학 공부, 근육학, 말초신경, 조직학, �
 | 신경 | 말초·뇌신경·중추 경로·자율신경 99항목 | 기원·분지·운동·감각과 뇌신경의 머리뼈 통과 경로를 구분할 수 있나요? |
 | 뼈와 표지 | 뼈·뼈군·돌기·오목·관절·통로 표지 98항목; 머리뼈·척추·가슴우리·사지 | 서로 비슷한 이름의 구조와 부착 표지를 구분할 수 있나요? |
 | 혈관 | 주요 동맥·정맥과 공급·환류 계통 77항목; 대동맥·사지·복부 장기·문맥·폐순환 | 기원·분지·공급 영역·정맥 합류와 동행 구조를 말할 수 있나요? |
-| 초음파 | 원리·설정·조직 식별·인공물·부위별 추적 30항목 | 장축·단축·동적 관찰에서 신경·힘줄·혈관을 구별할 수 있나요? |
+| 초음파 | 원리·설정·조직 식별·인공물·부위별 추적 66항목 | 장축·단축·동적 관찰에서 신경·힘줄·혈관을 구별할 수 있나요? |
 | 조직과 층 | 상피·결합·근육·신경 조직, 피부·근막·근육 내부층 25개 | 형태와 위치를 근거로 조직을 구분할 수 있나요? |
 | 방향과 면 | 기본 해부 용어 10개 | 해부학적 자세를 기준으로 방향·단면을 설명할 수 있나요? |
 
@@ -205,11 +205,56 @@ V1·V2는 감각가지이고 V3는 감각과 씹기 운동이 함께 있습니�
 | 액체 뒤가 밝음 | 후방음향증강 | 이득 상승과 국소 증강을 비교; 한 소견으로 특정 질환을 확정하지 않음 |
 | 두 영상의 밝기가 다름 | 이득·깊이·초점·주파수·자세 | 설정 차이를 조직 변화로 곧바로 해석하지 않음 |
 
-### 부위별 추적 연습
+### 탐촉자 조작을 구별하기 {#ultrasound-technique}
 
-어깨는 **결절사이고랑→상완이두근 긴갈래힘줄→작은결절의 견갑하근→큰결절의 회전근개**를 구분합니다. 팔꿈치는 내측상과 뒤의 척골신경, 손목은 굽힘근지지띠와 수근관의 정중신경·굽힘힘줄을 비교합니다. 무릎 앞에서는 **슬개골 위의 대퇴사두근힘줄 / 아래의 슬개인대**, 발목에서는 **뒤쪽 아킬레스힘줄 / 안쪽복사 뒤의 뒤정강근힘줄 / 가쪽복사 뒤의 종아리근힘줄**을 따로 추적합니다. 각 구조의 기시·정지·주행을 설명하고 장축·단축·동적 관찰에서 같은 구조인지 확인하세요.
+움직임마다 해결하는 문제가 다릅니다. **평행 이동**은 구조의 주행을 따라 위치를 옮기고, **회전**은 같은 위치에서 단축을 장축으로 바꿉니다. **기울임·힐토**는 입사각을 조절해 휘어진 힘줄의 이방성을 비교합니다. 먼저 실제 주행을 찾은 뒤 그 구조에 수직인 단축·평행한 장축을 확보하세요. 몸의 세로 방향과 구조의 장축이 항상 같지는 않습니다.
 
-기록에는 **부위·좌우·자세·면·방향표지·설정·관찰 구조**를 남깁니다. 이름을 맞히는 연습 다음에 정상과 인공물을 구분하는 문제로 넘어가면 표면 위치·해부 층·깊은 구조를 함께 복습할 수 있습니다.
+매우 얕은 손가락·주머니는 충분한 젤이나 접촉층을 사용해 압력을 줄입니다. 작은 액체가 눌려 이동하거나 정맥이 납작해지면 원래 모양을 놓칠 수 있습니다. 같은 곳을 반복할 때에는 압력뿐 아니라 관절 자세와 방향표지도 맞춥니다.
+
+### 부위별 뼈 표지에서 구조 추적하기 {#ultrasound-regions}
+
+| 부위·시작 표지 | 이어 찾을 구조 | 가까운 구조와의 감별 |
+|---|---|---|
+| 어깨 앞: 결절사이고랑·작은결절 | 상완이두근 긴갈래힘줄·견갑하근힘줄 | 고랑 안 힘줄과 작은결절 부착을 구별; 바깥돌림에 따른 노출 확인 |
+| 어깨 가쪽·뒤: 큰결절·견갑극 | 극상근·극하근힘줄, 견봉하·삼각근하 주머니 | 근육에서 뼈 부착까지 추적; 주머니는 삼각근과 회전근개 사이 층 |
+| 어깨 위: 견봉·빗장뼈 가쪽 끝 | 견봉쇄골관절 | 관절 간격·낭과 큰결절 부착·결절사이고랑은 다른 표지 |
+| 팔꿈치 앞·가쪽·뒤 | 먼쪽 이두근힘줄·공통폄근힘줄·삼두근힘줄 | 노뼈거친면·가쪽위관절융기·팔꿈치머리 정지를 구분 |
+| 팔꿈치 안쪽 | 안쪽위관절융기 뒤 척골신경 | 단축으로 몸쪽·먼쪽 추적; 굽힘·폄 때 신경과 삼두근의 이동을 각각 관찰 |
+| 손목 앞: 콩알뼈·굽힘근지지띠 | 수근관 정중신경·아홉 굽힘힘줄 / 기용관 척골신경·혈관 | 인접 통로를 구별; 장장근·요측수근굴근힘줄을 수근관 내부 목록에 더하지 않음 |
+| 손목 뒤: 리스터결절 | 제2·3 폄근힘줄구획과 장무지신근 | 결절을 돌아가는 장무지신근을 엄지까지 추적; 단무지신근은 제1구획 |
+| 고관절 앞: 넙다리뼈 머리·목 | 앞쪽 관절 오목·관절낭·장요근힘줄 | 관절 오목과 장요근 주머니의 층 차이; 깊이에 맞춘 주파수 선택 |
+| 서혜인대 아래 | 대퇴신경·동맥·정맥 | 일반적인 가쪽→안쪽 순서와 신경 다발·압박·도플러를 함께 확인 |
+| 고관절 가쪽: 큰돌기 | 중·소둔근힘줄, 표층 장경인대·주머니 | 뼈의 면과 근육 연결을 추적해 부착·층을 구분 |
+| 무릎 앞: 슬개골·경골조면 | 위의 대퇴사두근힘줄 / 아래의 슬개인대 | 슬개상 관절 오목과 슬개골 앞 피하 주머니를 별도 층으로 찾음 |
+| 무릎 안쪽 | 안쪽곁인대·거위발힘줄 | 인대의 두 뼈 연결과 봉공근·박근·반건양근의 근육 연결 비교 |
+| 무릎 가쪽: 종아리뼈머리·거디결절 | 가쪽곁인대·대퇴이두근힘줄 / 장경인대 | 종아리뼈머리와 정강뼈 앞가쪽 정지를 구별 |
+| 무릎 뒤 | 오금 혈관·신경, 반막양근–비복근 안쪽갈래 사이 주머니 | 액체성 구조의 목·해부 위치를 확인하고 혈관성 구조를 감별 |
+| 발목 안쪽: 안쪽복사 | 뒤정강·긴발가락굽힘힘줄, 뒤정강혈관·경골신경, 긴엄지굽힘힘줄 | 발가락 움직임·도플러·다발과 부착을 조합해 발목굴 내용물 추적 |
+| 발목 가쪽: 가쪽복사 | 종아리근힘줄·전거비인대·종비인대 | 제5발허리뼈로 가는 짧은종아리근과 뼈–뼈 인대 연결을 구분 |
+| 발꿈치 뒤·바닥 | 아킬레스힘줄 / 족저근막 | 뒤쪽 종아리근 연결과 발바닥 앞발 방향의 섬유 띠를 구분 |
+
+부위별 원문 지침: [어깨](https://essr.org/content-essr/uploads/2016/10/shoulder.pdf) · [팔꿈치](https://essr.org/content-essr/uploads/2016/10/elbow.pdf) · [손목](https://essr.org/content-essr/uploads/2016/10/wrist.pdf) · [고관절](https://essr.org/content-essr/uploads/2016/10/hip.pdf) · [무릎](https://essr.org/content-essr/uploads/2016/10/knee.pdf) · [발목](https://essr.org/content-essr/uploads/2016/10/ankle.pdf). 위 표는 학습용 자체 요약이며 원문의 사진·도판을 복제하지 않았습니다.
+
+### 도플러 무신호·색 변화의 판단 순서 {#ultrasound-doppler}
+
+| 확인 | 관찰 조건 | 해석할 정보 |
+|---|---|---|
+| 접촉·압력 | 작은 혈관을 누르고 있지 않은가? 움직임 잡음은 없는가? | 압박에 따른 신호 소실과 실제 혈류 정보를 구별 |
+| 속도범위·펄스 반복주파수 | 관찰하려는 흐름에 비해 범위가 너무 높은가? | 느린 흐름 검출을 조절; 지나치게 낮으면 빠른 흐름의 앨리어싱 가능 |
+| 벽필터·이득 | 느린 혈류까지 제거하거나 잡음이 내강 밖을 채우는가? | 필터·이득의 절충을 기록; 화면을 채우는 색의 양과 혈류량을 동일시하지 않음 |
+| 흐름과 입사각 | 음파가 흐름에 거의 수직인가? | 약한 신호를 단순 이득 문제로 보지 않고 방향을 조정 |
+| 색지도·나이퀴스트 한계 | 색 반전이 속도범위 경계에서 나타나는가? | 방향 변화와 앨리어싱을 구별; 빨강·파랑은 혈관 종류 표지가 아님 |
+| 관찰 방식 | 색·일반 파워·스펙트럴 중 무엇인가? | 방향 지도·신호 세기·시간에 따른 파형을 구분; 일반 파워 색으로 방향을 정하지 않음 |
+
+설정값은 장비·깊이·대상에 맞춰 기록합니다. 서로 다른 방식의 색 면적을 그대로 비교하거나 무신호만으로 혈관을 배제하지 않습니다. 원리 확인: [BMUS 도플러와 혈류 측정](https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/).
+
+### 측정과 비교를 재현하는 기록 {#ultrasound-measurement}
+
+**부위·좌우 → 뼈 표지와 측정 높이 → 자세 → 장축/단축·방향표지 → 주파수·깊이·초점·이득 → 압력 → 관찰·측정 방법** 순서로 남깁니다. 신경 단면적은 실제 주행에 수직인 면과 동일한 경계 추적 기준을 사용합니다. 비스듬한 면의 타원형 확대를 실제 비대로 읽기 전에 면을 바로잡고, 힘줄 두께도 같은 부착점 거리·자세에서 비교합니다.
+
+예를 들어 손목의 벌집 모양 구조가 비스듬한 단면에서 더 넓어 보였다면, ‘커졌다’고 기록하기 전에 몸쪽·먼쪽 연결로 구조를 확인하고 수직 단축에서 다시 측정합니다. 반대쪽 비교도 위치·자세·설정을 맞추며, 반대쪽을 언제나 정상이라고 가정하지 않습니다. 액체·저에코·도플러 증가 등 한 소견에서 특정 질환으로 바로 넘어가지 않고 층·두 면·동적 변화·관찰 조건을 함께 기술합니다. 측정의 해부 대응은 [말초신경 초음파 측정 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC10395381/)와 함께 확인합니다.
+
+사진 판독 문제와 구분되는 **텍스트 기반 해부·조건 판독 연습**입니다. 퀴즈에서 초음파 단원을 좁혀 설정·부착·주행 문제를 풀고, 중·상 문제에서는 인공물 보정·같은 위치의 측정·인접 통로 감별을 연습하세요.
 
 ## 구획·공간으로 근육과 통과 구조 연결하기 {#regional-relations}
 
@@ -323,16 +368,16 @@ V1·V2는 감각가지이고 V3는 감각과 씹기 운동이 함께 있습니�
 
 ## 자료와 문제의 출처
 
-근육의 기본 관계는 [UAMS 의과대학 해부학 표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/), 뼈·말초신경·조직·방향 용어는 [OpenStax Anatomy and Physiology 2e](https://openstax.org/details/books/anatomy-and-physiology-2e), 근막과 골격근의 층은 NCBI Bookshelf의 해당 자료를 참고해 **새로운 한국어 학습 요약과 자체 문제**로 작성했습니다. 구조별 참고 링크는 아래 요약에 있습니다. 외부 교재의 도판을 복제하지 않고 아카이브 자체 SVG 도해의 이름 표시를 가렸습니다.
+근육의 기본 관계는 [UAMS 해부학 표](https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/), 뼈·말초신경·조직·방향 용어는 [OpenStax Anatomy and Physiology 2e](https://openstax.org/details/books/anatomy-and-physiology-2e), 근막과 골격근의 층은 NCBI Bookshelf의 해당 자료를 참고해 **새로운 한국어 학습 요약과 자체 문제**로 작성했습니다. 구조별 참고 링크는 아래 요약에 있습니다. 외부 교재의 도판을 복제하지 않고 아카이브 자체 SVG 도해의 이름 표시를 가렸습니다.
 
-특정 학교의 실습시험이나 국가시험 기출문제가 아닙니다. 근육은 UAMS Muscle Tables의 부위별 목록을 모두 대조한 범위이며, 전신의 모든 해부 변이나 모든 근육 갈래를 별도 카드로 나눈 것은 아닙니다. 뼈·신경·혈관·조직은 주요 구조 관계를 익히는 범위이며, 학교별 용어와 실습 범위는 수업 자료에 맞춰 확인하세요.
+근육은 UAMS Muscle Tables의 부위별 목록을 모두 대조한 범위이며, 전신의 모든 해부 변이나 모든 근육 갈래를 별도 카드로 나눈 것은 아닙니다. 뼈·신경·혈관·조직은 주요 구조 관계를 익히는 범위이며, 학교별 용어와 실습 범위는 수업 자료에 맞춰 확인하세요.
 
 <!-- ADVANCED_QUESTIONS_START -->
 ## 중·상 문제와 보기별 해설 {#advanced-questions}
 
-각 난이도 13문제씩입니다. **중**은 여러 단서와 가까운 개념을 함께 구별하고, **상**은 예외·조건 변화·복수 분류 또는 출전의 차이를 판단합니다. 난이도는 출제 의도에 따른 구분이며 실제 정답률로 보정한 등급은 아닙니다. 퀴즈의 **문제 난이도**에서 선택하거나 아래 문항을 읽어 보세요. 증례·수치는 교육용 가정이고, 제시된 체질·병론 안에서 문헌을 읽는 문제는 체질 판정 검사가 아닙니다.
+각 난이도 17문제씩입니다. **중**은 여러 단서와 가까운 개념을 함께 구별하고, **상**은 예외·조건 변화·복수 분류 또는 출전의 차이를 판단합니다. 난이도는 출제 의도에 따른 구분이며 실제 정답률로 보정한 등급은 아닙니다. 퀴즈의 **문제 난이도**에서 선택하거나 아래 문항을 읽어 보세요. 증례·수치는 교육용 가정이고, 제시된 체질·병론 안에서 문헌을 읽는 문제는 체질 판정 검사가 아닙니다.
 
-### 중 · 통합·감별 13문제
+### 중 · 통합·감별 17문제
 
 <span id="advanced-anatomy-high-01"></span>
 
@@ -711,7 +756,123 @@ V1·V2는 감각가지이고 V3는 감각과 씹기 운동이 함께 있습니�
 
 </details>
 
-### 상 · 통합·감별 13문제
+<span id="advanced-anatomy-high-14"></span>
+
+**중 14. 등쪽 뼈 표지와 엄지 힘줄 경로를 모두 맞춘 것은?**
+
+손목 등쪽 단축에서 노뼈의 리스터결절을 찾았다. 그 자쪽 힘줄을 먼쪽으로 추적하니 결절을 돌아 엄지 쪽으로 간다. 엄지 끝마디 폄에서 움직인다.
+
+1. 제2구획 장요측수근신근
+2. 제4구획 검지신근
+3. 제3구획 장무지신근
+4. 제1구획 단무지신근
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 3번** — 리스터결절과 장무지신근 — 단면의 밝기보다 뼈에 대한 구획 위치·먼쪽 정지·동적 움직임을 함께 연결한다.
+
+**결정적 감별 단서:** 리스터결절 자쪽 → 엄지 끝마디 폄의 연속 경로.
+
+**가장 가까운 오답:** 4번 — 엄지 폄이라는 조건은 겹치지만 제1구획이고 주된 정지는 몸쪽마디이며 리스터결절을 도는 경로와 다르다.
+
+- **1번 (오답):** 결절 주변 힘줄이라는 조건은 겹치지만 노쪽 제2구획에서 제2손허리뼈로 이어지고 손목 폄에 참여한다.
+- **2번 (오답):** 등쪽 폄근이지만 제4구획에서 검지로 이어져 엄지 끝마디 운동·제3구획 조건을 충족하지 않는다.
+- **3번 (정답):** 결절 자쪽의 제3구획에서 엄지 끝마디 정지로 이어지는 장무지신근의 경로와 운동이 일치한다.
+- **4번 (오답):** 엄지 폄이라는 조건은 겹치지만 제1구획이고 주된 정지는 몸쪽마디이며 리스터결절을 도는 경로와 다르다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-lister)
+
+</details>
+
+<span id="advanced-anatomy-high-15"></span>
+
+**중 15. 같은 손목에서 두 통로의 내용물을 구분한 것은?**
+
+손바닥 손목에서 A는 굽힘근지지띠 깊은 쪽의 정중신경과 아홉 굽힘힘줄, B는 콩알뼈·갈고리뼈갈고리 주변의 척골신경과 혈관으로 추적되었다.
+
+1. A 요측수근굴근 통로 / B 기용관
+2. A 수근관 / B 기용관
+3. A 수근관 / B 요측수근굴근 통로
+4. A 기용관 / B 수근관
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 2번** — 기용관 초음파 해부 — 두 통로가 가깝더라도 같은 내용물 목록으로 합치지 않는다.
+
+**결정적 감별 단서:** 정중신경·아홉 굽힘힘줄 대 척골신경·혈관, 그리고 자쪽 뼈 표지.
+
+**가장 가까운 오답:** 3번 — A는 맞지만 B의 자쪽 뼈 표지와 척골신경·혈관은 노쪽 힘줄 통로와 다르다.
+
+- **1번 (오답):** B는 맞지만 A의 아홉 굽힘힘줄과 정중신경은 요측수근굴근 단독 통로의 내용물이 아니다.
+- **2번 (정답):** A의 정중신경·굽힘힘줄 묶음과 B의 척골신경·혈관 통로를 각각 연결한다.
+- **3번 (오답):** A는 맞지만 B의 자쪽 뼈 표지와 척골신경·혈관은 노쪽 힘줄 통로와 다르다.
+- **4번 (오답):** 같은 앞손목의 통로라는 점은 같지만 정중·척골신경과 뼈 표지를 서로 바꾸었다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-guyon)
+
+</details>
+
+<span id="advanced-anatomy-high-16"></span>
+
+**중 16. 무릎 가쪽의 세 구조를 정지 표지까지 연결한 것은?**
+
+초음파로 A는 넙다리뼈 가쪽위관절융기에서 종아리뼈머리, B는 뒤넙다리 근육에서 종아리뼈머리, C는 가쪽 넙다리의 넓은 띠에서 정강뼈 앞가쪽 거디결절로 추적했다.
+
+1. A 가쪽곁인대 / B 대퇴이두근힘줄 / C 장경인대
+2. A 가쪽곁인대 / B 장경인대 / C 대퇴이두근힘줄
+3. A 대퇴이두근힘줄 / B 가쪽곁인대 / C 장경인대
+4. A 가쪽곁인대 / B 반건양근힘줄 / C 장경인대
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 1번** — 무릎 가쪽 부착 구조 초음파 — 화면의 가쪽 위치만으로 이름을 정하지 않고 두 끝점을 추적한다.
+
+**결정적 감별 단서:** 같은 종아리뼈머리라도 뼈–뼈 연결과 근육–뼈 연결이 다르며, C는 정강뼈에 붙는다.
+
+**가장 가까운 오답:** 2번 — A는 맞고 B·C 모두 가쪽 구조지만 장경인대의 정강뼈 정지와 이두근의 종아리뼈 정지를 바꾸었다.
+
+- **1번 (정답):** A는 뼈–뼈 인대, B는 근육–뼈 힘줄, C는 거디결절 정지의 장경인대이다.
+- **2번 (오답):** A는 맞고 B·C 모두 가쪽 구조지만 장경인대의 정강뼈 정지와 이두근의 종아리뼈 정지를 바꾸었다.
+- **3번 (오답):** C의 정지는 맞지만 A의 두 뼈 연결과 B의 뒤넙다리 근육 연결을 바꾸었다.
+- **4번 (오답):** A·C는 맞지만 반건양근은 거위발 계통의 정강뼈 안쪽 정지라 B의 종아리뼈머리와 다르다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-lcl-biceps)
+
+</details>
+
+<span id="advanced-anatomy-high-17"></span>
+
+**중 17. 발목 안쪽 세 구조의 동적·혈류 정보를 맞춘 것은?**
+
+안쪽복사 뒤에서 A는 긴엄지굽힘근 쪽으로 이어지고 엄지 굽힘 때 움직인다. B는 내강과 도플러 흐름이 있고, C는 다발 형태로 몸쪽 경골신경과 이어진다.
+
+1. A 긴발가락굽힘힘줄 / B 뒤정강혈관 / C 경골신경
+2. A 긴엄지굽힘힘줄 / B 경골신경 / C 뒤정강혈관
+3. A 뒤정강근힘줄 / B 뒤정강혈관 / C 경골신경
+4. A 긴엄지굽힘힘줄 / B 뒤정강혈관 / C 경골신경
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 4번** — 발목굴 초음파 해부 — 단축에서 원 모양 구조를 모두 힘줄로 세지 않고 추적·동적 관찰·도플러를 조합한다.
+
+**결정적 감별 단서:** 엄지 동작만이 아니라 연결 근육을 확인했고, B·C는 내강 흐름과 다발 연속성이 다르다.
+
+**가장 가까운 오답:** 1번 — B·C는 맞지만 A는 긴엄지굽힘근과 엄지 운동까지 주어져 긴발가락굽힘힘줄과 구별된다.
+
+- **1번 (오답):** B·C는 맞지만 A는 긴엄지굽힘근과 엄지 운동까지 주어져 긴발가락굽힘힘줄과 구별된다.
+- **2번 (오답):** A는 맞지만 내강의 흐름과 신경의 다발·몸쪽 연결을 서로 바꾸었다.
+- **3번 (오답):** 같은 발목굴 부근 힘줄이지만 A의 엄지 운동·연결 근육은 뒤정강근의 발 안쪽번짐 계통과 다르다.
+- **4번 (정답):** 근육·동작 연결, 내강·혈류, 연속 다발을 각각 힘줄·혈관·신경의 근거로 쓴다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-tarsal-tunnel)
+
+</details>
+
+### 상 · 통합·감별 17문제
 
 <span id="advanced-anatomy-expert-01"></span>
 
@@ -1090,12 +1251,128 @@ MCP 굽힘과 IP 폄을 결합한 자세에서 손의 충양근을 평가한다.
 
 </details>
 
+<span id="advanced-anatomy-expert-14"></span>
+
+**상 14. 반복 측정 차이를 먼저 확인할 절차는?**
+
+손목 정중신경의 단면적이 지난 영상보다 커 보인다. 지난 기록은 콩알뼈 높이의 수직 단축, 오늘 영상은 더 몸쪽에서 비스듬한 단면이다. 이득·경계 추적 기준도 다르다.
+
+1. 높이만 맞춘 뒤 현재 두 값을 비교
+2. 이득만 맞춘 뒤 현재 두 값을 비교
+3. 높이·수직면·경계 기준을 맞춘 뒤 재측정
+4. 수직면만 맞춘 뒤 현재 두 값을 비교
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 3번** — 신경 단면적 측정 — 신경 다발을 연속 추적해 실제 축을 찾고 조건을 통일한다. 한 번의 큰 값은 포착병증의 확정 근거가 아니다.
+
+**결정적 감별 단서:** 단면적 비교에는 높이·수직면·경계 추적 기준을 함께 맞춰야 한다.
+
+**가장 가까운 오답:** 4번 — 비스듬한 면 오류를 줄이는 점은 맞지만 높이와 경계 추적 기준의 차이가 남는다.
+
+- **1번 (오답):** 위치 차이를 줄이는 점은 맞지만 비스듬한 절단과 경계 기준 차이가 남는다.
+- **2번 (오답):** 영상 밝기를 맞추는 점은 유용하지만 면적의 절단면·측정 위치·경계 오류를 해결하지 못한다.
+- **3번 (정답):** 측정 위치·절단면·경계 기준이 달라 비교 가능성이 부족하다. 동일 조건으로 다시 얻은 뒤 변화를 판단한다.
+- **4번 (오답):** 비스듬한 면 오류를 줄이는 점은 맞지만 높이와 경계 추적 기준의 차이가 남는다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-nerve-csa)
+
+</details>
+
+<span id="advanced-anatomy-expert-15"></span>
+
+**상 15. 느린 혈류가 보이지 않을 때 설정을 함께 고친 것은?**
+
+해부 주행과 내강으로 확인한 얕은 작은 혈관에서 색이 없다. 탐촉자 압박이 강하고 속도범위와 벽필터가 높다. 움직임 잡음은 적으며 느린 흐름을 관찰하려 한다.
+
+1. 압박 완화·속도범위 하향·벽필터 상향 후 확인
+2. 압박 완화·속도범위 하향·벽필터 하향 후 확인
+3. 압박 완화·속도범위 상향·벽필터 하향 후 확인
+4. 압박 강화·속도범위 하향·벽필터 하향 후 확인
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 2번** — 도플러 속도범위 — 세 조건을 관찰 대상에 맞추고 내강·각도·잡음을 재확인한다. 무색 신호와 혈관 부재는 같지 않다.
+
+**결정적 감별 단서:** 압박·높은 속도범위·높은 벽필터가 동시에 느린 흐름 관찰을 방해한다.
+
+**가장 가까운 오답:** 3번 — 압박·필터는 맞지만 느린 흐름에 이미 높은 속도범위를 더 높이면 검출이 더 어려울 수 있다.
+
+- **1번 (오답):** 압박·범위는 맞지만 높은 필터가 저속 혈류 성분을 지울 수 있어 원인이 남는다.
+- **2번 (정답):** 압박으로 줄어든 흐름과 높은 범위·필터가 가린 저속 신호를 함께 점검한다. 잡음·앨리어싱도 다시 살핀다.
+- **3번 (오답):** 압박·필터는 맞지만 느린 흐름에 이미 높은 속도범위를 더 높이면 검출이 더 어려울 수 있다.
+- **4번 (오답):** 범위·필터는 맞지만 강한 압박을 더해 작은 혈관 흐름을 계속 가릴 수 있다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-prf)
+
+</details>
+
+<span id="advanced-anatomy-expert-16"></span>
+
+**상 16. 색 반전의 설정 의존성을 설명하는 것은?**
+
+연속된 혈관에서 한 방향으로 흐르는 스펙트럴 파형을 확인했다. 낮은 속도범위에서만 일부 색이 갑자기 반전하고, 범위를 높이자 사라졌다. 색지도와 탐촉자 방향은 같았다.
+
+1. 나이퀴스트 한계 초과에 따른 앨리어싱
+2. 탐촉자 방향 변경에 따른 색 반전
+3. 색지도 반전 설정에 따른 색 교환
+4. 실제 역류에 따른 흐름 방향 반전
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 1번** — 도플러 앨리어싱 — 한 장면의 빨강·파랑으로 혈류 역전이나 동정맥 종류를 정하지 않고 설정·파형을 함께 읽는다.
+
+**결정적 감별 단서:** 방향·색지도는 유지되고 낮은 속도범위에서만 색이 접힌다.
+
+**가장 가까운 오답:** 2번 — 색도플러 방향은 탐촉자 기준인 점은 맞지만 이 사례에서는 탐촉자 방향이 유지되었다.
+
+- **1번 (정답):** 낮은 범위에서 생기고 범위 증가로 사라지는 표시 접힘이 주어진 방향 유지와 함께 앨리어싱을 지지한다.
+- **2번 (오답):** 색도플러 방향은 탐촉자 기준인 점은 맞지만 이 사례에서는 탐촉자 방향이 유지되었다.
+- **3번 (오답):** 색지도 변경도 색을 바꿀 수 있지만 이 사례에서는 지도는 같고 속도범위만 달라졌다.
+- **4번 (오답):** 실제 역류도 반대 색을 만들 수 있으나 방향을 보존한 파형과 범위에 의존한 소실을 설명하지 못한다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-aliasing)
+
+</details>
+
+<span id="advanced-anatomy-expert-17"></span>
+
+**상 17. 오금 액체성 구조를 이름 붙이기 전 가장 적합한 확인은?**
+
+무릎 뒤에서 내부 저에코·후방증강을 보이는 구조가 발견되었다. 현재 한 단면만 있으며 반막양근·비복근과의 관계, 연결부, 혈관 주행은 아직 확인하지 않았다.
+
+1. 두 면·후방증강을 확인하고 베이커낭종으로 기록
+2. 두 면·색 무신호를 확인하고 혈관성 구조를 제외
+3. 두 면·피부에서의 깊이를 확인하고 병명을 기록
+4. 두 면·반막양근–내측 비복근 연결부·혈관 주행 확인
+
+<details markdown="1">
+<summary>정답·보기별 해설 펼치기</summary>
+
+**정답: 4번** — 오금 주머니 연결부 초음파 — 오금의 액체성 구조를 모두 같은 낭종으로 분류하지 않는다. 현재 정보로는 구조 관찰을 기술하고 추적한다.
+
+**결정적 감별 단서:** 액체성 소견에 특징적 해부 위치·연결부와 혈관 감별이 더 필요하다.
+
+**가장 가까운 오답:** 1번 — 액체성 구조 확인은 보강되지만 특징적 해부 위치·연결부와 혈관 감별이 남는다.
+
+- **1번 (오답):** 액체성 구조 확인은 보강되지만 특징적 해부 위치·연결부와 혈관 감별이 남는다.
+- **2번 (오답):** 면을 늘리는 점은 맞지만 무신호는 압박·속도범위·각도 영향도 받아 혈관 배제의 단독 근거가 아니다.
+- **3번 (오답):** 깊이 기록은 유용하지만 반막양근–비복근 관계·목·혈관 연결을 대신하지 못한다.
+- **4번 (정답):** 액체 가능성 외에 주머니의 특징적 위치·목과 혈관성 구조의 감별을 확인해야 명명 근거가 생긴다.
+
+[연결 학습 원문](/learning/anatomy/#anatomy-imaging-us-baker-neck)
+
+</details>
+
 <!-- ADVANCED_QUESTIONS_END -->
 
 
 <!-- STUDY_DIRECTORY_START -->
 ## 전체 학습 요약과 원문 {#study-directory}
-584개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
+620개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.
 
 <details markdown="1">
 <summary>근육 · 목·뒤통수 · 4개 카드</summary>
@@ -10556,6 +10833,550 @@ MCP 굽힘과 IP 폄을 결합한 자세에서 손의 충양근을 평가한다.
 
 [이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-fibular-tendons)
 참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 탐촉자 조작·측정 · 6개 카드</summary>
+
+<span id="anatomy-imaging-us-slide"></span>
+
+**탐촉자 평행 이동**
+
+- **영문명:** Probe translation
+- **원리·표지:** 접촉면의 방향을 유지하며 피부 위 위치를 옮기는 조작
+- **관찰·적용:** 단축에서 신경·힘줄의 몸쪽과 먼쪽 주행을 끊김 없이 추적
+- **판독·감별:** 자리 이동과 제자리 회전을 구분; 매 장면의 뼈·근막 표지를 다시 확인
+
+- **다른 표기:** 탐촉자 평행 이동 · Probe translation
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-slide)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-rotation"></span>
+
+**탐촉자 회전**
+
+- **영문명:** Probe rotation
+- **원리·표지:** 관찰 위치를 중심으로 접촉면의 긴 축 방향을 돌리는 조작
+- **관찰·적용:** 단축으로 찾은 구조의 길이 방향에 맞춰 장축으로 전환
+- **판독·감별:** 몸의 세로축과 구조의 장축은 비스듬한 주행에서 다를 수 있음
+
+- **다른 표기:** 탐촉자 회전 · Probe rotation
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-rotation)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-tilt"></span>
+
+**탐촉자 기울임**
+
+- **영문명:** Probe tilt
+- **원리·표지:** 피부 접촉 위치를 크게 바꾸지 않고 음파의 입사 방향을 조절
+- **관찰·적용:** 휘어진 힘줄의 섬유 에코가 회복되는 각도를 찾아 이방성 비교
+- **판독·감별:** 이득을 올리는 것과 각도를 맞추는 것은 다른 조작
+
+- **다른 표기:** 탐촉자 기울임 · Probe tilt
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-tilt)
+참고: [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [ESSR 발목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/ankle.pdf)
+
+<span id="anatomy-imaging-us-heel-toe"></span>
+
+**탐촉자 힐토 조작**
+
+- **영문명:** Heel-toe manoeuvre
+- **원리·표지:** 탐촉자 긴 축의 한 끝을 내리고 다른 끝을 들어 입사각을 바꾸는 조작
+- **관찰·적용:** 뼈 부착부에서 굽는 힘줄을 장축으로 볼 때 섬유에 수직인 방향 확보
+- **판독·감별:** 압력 증가만으로 밝기를 보정하지 않고 접촉·각도를 함께 유지
+
+- **다른 표기:** 탐촉자 힐토 조작 · Heel-toe manoeuvre
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-heel-toe)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/)
+
+<span id="anatomy-imaging-us-standoff"></span>
+
+**얕은 구조의 접촉층**
+
+- **영문명:** Superficial stand-off technique
+- **원리·표지:** 충분한 젤이나 접촉 패드로 매우 얕은 구조를 탐촉자 바로 아래 영역에서 떨어뜨림
+- **관찰·적용:** 손가락·얕은 주머니를 적은 압력으로 관찰하고 접촉 불량을 줄임
+- **판독·감별:** 접촉층 확보는 조직 두께 증가가 아님; 과도한 압박으로 액체를 밀어내지 않음
+
+- **다른 표기:** 얕은 구조의 접촉층 · Superficial stand-off technique
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-standoff)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [ESSR 팔꿈치 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/elbow.pdf)
+
+<span id="anatomy-imaging-us-nerve-csa"></span>
+
+**신경 단면적 측정**
+
+- **영문명:** Nerve cross-sectional area
+- **원리·표지:** 신경 길이에 수직인 단축에서 경계를 정해 면적을 측정
+- **관찰·적용:** 측정 높이·자세·경계 추적 기준을 기록하고 동일 위치에서 비교
+- **판독·감별:** 비스듬한 절단은 면적을 크게 보이게 할 수 있어 단일 값만으로 포착병증을 확정하지 않음
+
+- **다른 표기:** 신경 단면적 측정 · Nerve cross-sectional area
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-nerve-csa)
+참고: [ESSR 손목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/wrist.pdf) · [ESSR 팔꿈치 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/elbow.pdf) · [말초신경 초음파의 표준 측정·해부 대응 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC10395381/)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 인공물·비교 판독 · 4개 카드</summary>
+
+<span id="anatomy-imaging-us-reverberation"></span>
+
+**다중반사 인공물**
+
+- **영문명:** Reverberation artifact
+- **원리·표지:** 강한 반사면 사이에서 왕복한 음파가 반복된 선으로 표시되는 현상
+- **관찰·적용:** 규칙적으로 반복되는 에코와 실제 해부 층의 연결을 비교
+- **판독·감별:** 반복된 밝은 선을 모두 별개의 조직 경계로 세지 않음
+
+- **다른 표기:** 다중반사 인공물 · Reverberation artifact
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-reverberation)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-edge-shadow"></span>
+
+**가장자리 음영**
+
+- **영문명:** Edge shadowing
+- **원리·표지:** 곡면의 가장자리에서 음파 굴절·방향 변화로 뒤쪽 신호가 줄어듦
+- **관찰·적용:** 둥근 힘줄·액체 구조 양옆 음영이 각도·위치 변화에 따라 달라지는지 확인
+- **판독·감별:** 중앙 뼈 피질의 강한 반사 뒤 음영과 발생 위치가 다름
+
+- **다른 표기:** 가장자리 음영 · Edge shadowing
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-edge-shadow)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus)
+
+<span id="anatomy-imaging-us-oblique-section"></span>
+
+**비스듬한 단면의 오류**
+
+- **영문명:** Oblique section pitfall
+- **원리·표지:** 길게 이어진 구조를 비스듬히 자르면 폭·면적·경계가 달라 보임
+- **관찰·적용:** 신경·힘줄의 실제 주행을 찾은 뒤 수직 단축과 평행 장축을 비교
+- **판독·감별:** 타원형 확대가 모두 실제 비대는 아니며 절단면·측정 높이를 맞춤
+
+- **다른 표기:** 비스듬한 단면의 오류 · Oblique section pitfall
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-oblique-section)
+참고: [ESSR 손목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/wrist.pdf) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [말초신경 초음파의 표준 측정·해부 대응 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC10395381/)
+
+<span id="anatomy-imaging-us-paired-comparison"></span>
+
+**양측 초음파 비교**
+
+- **영문명:** Contralateral ultrasound comparison
+- **원리·표지:** 같은 해부 위치와 자세·면·설정에서 좌우 구조를 비교
+- **관찰·적용:** 부착점·관절 각도·압박·이득·깊이를 맞춘 뒤 차이를 기술
+- **판독·감별:** 반대쪽에도 변이·변화가 있을 수 있어 정상 판정의 유일 기준으로 쓰지 않음
+
+- **다른 표기:** 양측 초음파 비교 · Contralateral ultrasound comparison
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-paired-comparison)
+참고: [ESSR 근골격 초음파 기술 지침](https://www.essr.org/subcommittees/ultrasound/) · [BMUS 근골격 초음파 학습 원칙](https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/) · [말초신경 초음파의 표준 측정·해부 대응 연구](https://pmc.ncbi.nlm.nih.gov/articles/PMC10395381/)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 도플러 설정·혈류 · 5개 카드</summary>
+
+<span id="anatomy-imaging-us-power-doppler"></span>
+
+**파워도플러의 정보**
+
+- **영문명:** Power Doppler information
+- **원리·표지:** 일반 파워도플러는 도플러 신호의 세기를 표시해 느린 흐름 관찰을 보조
+- **관찰·적용:** 색도플러의 방향 지도와 구별하고 작은 혈관에서 압력·움직임을 조절
+- **판독·감별:** 일반 파워 표시의 색으로 흐름 방향이나 혈류 속도를 정하지 않음
+
+- **다른 표기:** 파워도플러의 정보 · Power Doppler information
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-power-doppler)
+참고: [ACR·RSNA 초음파 안내](https://www.radiologyinfo.org/en/info/genus) · [BMUS 도플러와 혈류 측정](https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/)
+
+<span id="anatomy-imaging-us-prf"></span>
+
+**도플러 속도범위**
+
+- **영문명:** Doppler scale and PRF
+- **원리·표지:** 펄스 반복주파수와 표시 속도범위는 검출할 흐름에 맞춰 조절
+- **관찰·적용:** 느린 흐름이 안 보일 때 너무 높은 범위를 낮추되 잡음·겹침을 함께 확인
+- **판독·감별:** 높은 범위는 느린 신호를 가릴 수 있고 너무 낮으면 빠른 흐름에서 앨리어싱 발생
+
+- **다른 표기:** 도플러 속도범위 · Doppler scale and PRF
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-prf)
+참고: [BMUS 도플러와 혈류 측정](https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/)
+
+<span id="anatomy-imaging-us-wall-filter"></span>
+
+**도플러 벽필터**
+
+- **영문명:** Doppler wall filter
+- **원리·표지:** 저주파 도플러 성분을 제거해 조직 움직임 신호를 줄이는 설정
+- **관찰·적용:** 느린 혈류 관찰에서는 필터가 너무 높아 신호를 지우는지 확인
+- **판독·감별:** 잡음 제거와 저속 혈류 소실의 절충; 무신호를 무혈류와 같게 보지 않음
+
+- **다른 표기:** 도플러 벽필터 · Doppler wall filter
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-wall-filter)
+참고: [BMUS 도플러와 혈류 측정](https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/)
+
+<span id="anatomy-imaging-us-aliasing"></span>
+
+**도플러 앨리어싱**
+
+- **영문명:** Doppler aliasing
+- **원리·표지:** 펄스 도플러에서 주파수 이동이 나이퀴스트 한계를 넘으면 표시가 접혀 보임
+- **관찰·적용:** 색지도·속도범위·기준선을 확인해 진짜 방향 변화와 구별
+- **판독·감별:** 색의 갑작스러운 반전을 모두 혈류 역전으로 해석하지 않음
+
+- **다른 표기:** 도플러 앨리어싱 · Doppler aliasing
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-aliasing)
+참고: [BMUS 도플러와 혈류 측정](https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/)
+
+<span id="anatomy-imaging-us-doppler-angle"></span>
+
+**도플러 입사각**
+
+- **영문명:** Doppler insonation angle
+- **원리·표지:** 음파와 흐름의 각도에 따라 검출 주파수 이동이 달라짐
+- **관찰·적용:** 혈관 장축과 흐름 방향을 확인하고 속도 측정에서는 각도보정 조건 기록
+- **판독·감별:** 흐름에 거의 수직인 입사는 신호를 약하게 하며 이득 증가만으로 해결되지 않음
+
+- **다른 표기:** 도플러 입사각 · Doppler insonation angle
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-doppler-angle)
+참고: [BMUS 도플러와 혈류 측정](https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 어깨·팔꿈치 해부 · 5개 카드</summary>
+
+<span id="anatomy-imaging-us-infraspinatus"></span>
+
+**극하근힘줄 초음파**
+
+- **영문명:** Infraspinatus tendon ultrasound
+- **원리·표지:** 어깨 뒤쪽에서 극하근을 따라 큰결절 뒤쪽 부착으로 이어지는 힘줄
+- **관찰·적용:** 견갑극 아래 근육에서 시작해 장축·단축과 회전 동작으로 연결
+- **판독·감별:** 앞쪽 작은결절에 붙는 견갑하근과 위치·돌림 작용을 구분
+
+- **다른 표기:** 극하근힘줄 초음파 · Infraspinatus tendon ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-infraspinatus)
+참고: [ESSR 어깨 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/shoulder.pdf)
+
+<span id="anatomy-imaging-us-sasdbursa"></span>
+
+**견봉하·삼각근하 주머니 초음파**
+
+- **영문명:** Subacromial-subdeltoid bursa ultrasound
+- **원리·표지:** 삼각근 깊은 쪽과 회전근개 얕은 쪽 사이의 잠재 공간
+- **관찰·적용:** 층 위치를 확인하고 가벼운 압박·두 면에서 액체와 주위 조직을 비교
+- **판독·감별:** 정상에서는 두드러지지 않을 수 있으며 회전근개 힘줄 내부와 구별
+
+- **다른 표기:** 견봉하·삼각근하 주머니 초음파 · Subacromial-subdeltoid bursa ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-sasdbursa)
+참고: [ESSR 어깨 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/shoulder.pdf)
+
+<span id="anatomy-imaging-us-ac-joint"></span>
+
+**견봉쇄골관절 초음파**
+
+- **영문명:** Acromioclavicular joint ultrasound
+- **원리·표지:** 견봉과 빗장뼈 가쪽 끝이 만나는 어깨 위쪽 관절
+- **관찰·적용:** 두 뼈 피질과 사이 관절 간격·표층 관절낭의 위치를 연결
+- **판독·감별:** 큰결절의 회전근개 부착이나 결절사이고랑과 다른 뼈 표지
+
+- **다른 표기:** 견봉쇄골관절 초음파 · Acromioclavicular joint ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-ac-joint)
+참고: [ESSR 어깨 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/shoulder.pdf)
+
+<span id="anatomy-imaging-us-common-extensor"></span>
+
+**공통폄근힘줄 초음파**
+
+- **영문명:** Common extensor tendon ultrasound
+- **원리·표지:** 위팔뼈 가쪽위관절융기에서 시작하는 아래팔 공통 폄근 계통 힘줄
+- **관찰·적용:** 장축으로 기시를 확인하고 단축·입사각 변화로 섬유 배열 비교
+- **판독·감별:** 안쪽 공통굽힘근힘줄·뒤쪽 상완삼두근힘줄과 부착 표지가 다름
+
+- **다른 표기:** 공통폄근힘줄 초음파 · Common extensor tendon ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-common-extensor)
+참고: [ESSR 팔꿈치 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/elbow.pdf)
+
+<span id="anatomy-imaging-us-distal-biceps"></span>
+
+**먼쪽 상완이두근힘줄 초음파**
+
+- **영문명:** Distal biceps tendon ultrasound
+- **원리·표지:** 팔꿈치 앞의 상완이두근힘줄이 노뼈거친면으로 이어짐
+- **관찰·적용:** 깊고 비스듬한 경로를 추적하며 아래팔 뒤침·엎침에 따른 부착점 관계 확인
+- **판독·감별:** 위팔 상완근의 자뼈 부착과 구별하고 깊은 부분의 이방성을 보정
+
+- **다른 표기:** 먼쪽 상완이두근힘줄 초음파 · Distal biceps tendon ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-distal-biceps)
+참고: [ESSR 팔꿈치 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/elbow.pdf)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 손목·손 해부 · 4개 카드</summary>
+
+<span id="anatomy-imaging-us-dorsal-compartments"></span>
+
+**손목 등쪽 여섯 힘줄구획**
+
+- **영문명:** Six dorsal wrist tendon compartments
+- **원리·표지:** 등쪽 폄근지지띠 아래 힘줄을 노쪽부터 여섯 구획으로 나눔
+- **관찰·적용:** 제1 장무지외전·단무지폄, 제2 장·단요측수근폄, 제3 장무지폄; 제4 손가락·검지폄, 제5 새끼폄, 제6 척측수근폄
+- **판독·감별:** 힘줄 개수와 구획 개수는 다름; 분지·변이와 동적 손가락 운동을 함께 확인
+
+- **다른 표기:** 손목 등쪽 여섯 힘줄구획 · Six dorsal wrist tendon compartments
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-dorsal-compartments)
+참고: [ESSR 손목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/wrist.pdf)
+
+<span id="anatomy-imaging-us-lister"></span>
+
+**리스터결절과 장무지신근**
+
+- **영문명:** Lister tubercle and extensor pollicis longus
+- **원리·표지:** 노뼈 등쪽 결절을 기준으로 제2구획은 노쪽, 제3구획은 자쪽
+- **관찰·적용:** 장무지신근힘줄이 결절을 돌아 엄지 쪽으로 이어지는 경로를 단축으로 추적
+- **판독·감별:** 제1구획의 단무지신근과 이름이 비슷해도 구획·정지·경로가 다름
+
+- **다른 표기:** 리스터결절과 장무지신근 · Lister tubercle and extensor pollicis longus
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-lister)
+참고: [ESSR 손목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/wrist.pdf)
+
+<span id="anatomy-imaging-us-guyon"></span>
+
+**기용관 초음파 해부**
+
+- **영문명:** Guyon canal ultrasound anatomy
+- **원리·표지:** 콩알뼈와 갈고리뼈갈고리 주변의 손바닥 자쪽 통로에 척골신경·혈관이 위치
+- **관찰·적용:** 정중신경이 있는 수근관과 별도로 신경·혈관 주행을 추적
+- **판독·감별:** 서로 인접한 두 통로의 내용물을 섞지 않고 뼈 표지·지지띠와의 층 관계를 비교
+
+- **다른 표기:** 기용관 초음파 해부 · Guyon canal ultrasound anatomy
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-guyon)
+참고: [ESSR 손목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/wrist.pdf)
+
+<span id="anatomy-imaging-us-fcr"></span>
+
+**요측수근굴근힘줄의 손목 경로**
+
+- **영문명:** Flexor carpi radialis tendon at wrist
+- **원리·표지:** 요측수근굴근힘줄은 정중신경·아홉 굽힘힘줄과 같은 수근관 내부 묶음에 포함되지 않음
+- **관찰·적용:** 앞손목 노쪽에서 힘줄을 몸쪽·먼쪽으로 추적해 별도 통로 관계 확인
+- **판독·감별:** 인접한 요골동맥과 형태·도플러·연속 경로를 비교
+
+- **다른 표기:** 요측수근굴근힘줄의 손목 경로 · Flexor carpi radialis tendon at wrist
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-fcr)
+참고: [ESSR 손목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/wrist.pdf)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 고관절 해부 · 3개 카드</summary>
+
+<span id="anatomy-imaging-us-hip-anterior"></span>
+
+**고관절 앞쪽 오목 초음파**
+
+- **영문명:** Anterior hip recess ultrasound
+- **원리·표지:** 넙다리뼈 머리·목 앞면과 관절낭 사이에서 앞쪽 관절 오목 확인
+- **관찰·적용:** 넙다리뼈 목을 따르는 비스듬한 장축과 단축으로 뼈·낭·장요근층 비교
+- **판독·감별:** 장요근힘줄과 관절낭 사이 주머니를 관절 오목과 구별
+
+- **다른 표기:** 고관절 앞쪽 오목 초음파 · Anterior hip recess ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-hip-anterior)
+참고: [ESSR 고관절 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/hip.pdf)
+
+<span id="anatomy-imaging-us-femoral-bundle"></span>
+
+**서혜부 신경·혈관 초음파**
+
+- **영문명:** Femoral neurovascular bundle ultrasound
+- **원리·표지:** 서혜인대 바로 아래 대퇴신경·동맥·정맥은 일반적으로 가쪽에서 안쪽 순서
+- **관찰·적용:** 신경 다발·혈관 내강·가벼운 압박·도플러와 몸쪽/먼쪽 주행을 함께 관찰
+- **판독·감별:** 혈관 분지·중첩은 높이에 따라 달라져 한 장면을 전체 구간에 적용하지 않음
+
+- **다른 표기:** 서혜부 신경·혈관 초음파 · Femoral neurovascular bundle ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-femoral-bundle)
+참고: [ESSR 고관절 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/hip.pdf)
+
+<span id="anatomy-imaging-us-gluteal-tendons"></span>
+
+**큰돌기 볼기근힘줄 초음파**
+
+- **영문명:** Gluteal tendons at greater trochanter
+- **원리·표지:** 고관절 가쪽의 큰돌기 뼈 표면에 중·소둔근힘줄이 이어짐
+- **관찰·적용:** 큰돌기의 면과 위쪽 근육을 따라 힘줄을 추적하고 두 면·각도 변화로 비교
+- **판독·감별:** 표층 장경인대·주머니와 깊은 힘줄 부착을 서로 다른 층으로 설명
+
+- **다른 표기:** 큰돌기 볼기근힘줄 초음파 · Gluteal tendons at greater trochanter
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-gluteal-tendons)
+참고: [ESSR 고관절 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/hip.pdf)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 무릎 해부 · 5개 카드</summary>
+
+<span id="anatomy-imaging-us-suprapatellar"></span>
+
+**슬개상 관절 오목 초음파**
+
+- **영문명:** Suprapatellar recess ultrasound
+- **원리·표지:** 슬개골 위에서 대퇴사두근힘줄 깊은 쪽의 관절 오목 확인
+- **관찰·적용:** 슬개상 지방패드와 넙다리뼈앞 지방패드 사이 공간을 두 면에서 비교
+- **판독·감별:** 슬개골 앞 피하 주머니와 층·위치가 다르며 압박으로 작은 액체가 이동할 수 있음
+
+- **다른 표기:** 슬개상 관절 오목 초음파 · Suprapatellar recess ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-suprapatellar)
+참고: [ESSR 무릎 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/knee.pdf)
+
+<span id="anatomy-imaging-us-pes-anserinus"></span>
+
+**거위발힘줄 초음파**
+
+- **영문명:** Pes anserinus tendons ultrasound
+- **원리·표지:** 봉공근·박근·반건양근의 힘줄이 정강뼈 몸쪽 안쪽으로 이어짐
+- **관찰·적용:** 몸쪽 근육 연결과 먼쪽 부착을 추적해 안쪽곁인대·주머니와 비교
+- **판독·감별:** 가쪽 종아리뼈머리에 붙는 대퇴이두근힘줄과 정지 뼈·면이 다름
+
+- **다른 표기:** 거위발힘줄 초음파 · Pes anserinus tendons ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-pes-anserinus)
+참고: [ESSR 무릎 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/knee.pdf)
+
+<span id="anatomy-imaging-us-mcl"></span>
+
+**무릎 안쪽곁인대 초음파**
+
+- **영문명:** Medial collateral ligament ultrasound
+- **원리·표지:** 넙다리뼈 안쪽관절융기에서 정강뼈 안쪽으로 이어지는 인대
+- **관찰·적용:** 관절선·뼈 표지와 얕은/깊은 층을 따라 장축으로 위치 확인
+- **판독·감별:** 거위발힘줄과 인대는 부착·층이 다르며 인대의 한 단면 밝기만으로 상태를 정하지 않음
+
+- **다른 표기:** 무릎 안쪽곁인대 초음파 · Medial collateral ligament ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-mcl)
+참고: [ESSR 무릎 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/knee.pdf)
+
+<span id="anatomy-imaging-us-lcl-biceps"></span>
+
+**무릎 가쪽 부착 구조 초음파**
+
+- **영문명:** Lateral knee attachments ultrasound
+- **원리·표지:** 종아리뼈머리에 가쪽곁인대와 대퇴이두근힘줄 계통이 연결
+- **관찰·적용:** 가쪽곁인대는 넙다리뼈 가쪽위관절융기, 힘줄은 뒤넙다리 근육 쪽으로 추적
+- **판독·감별:** 정강뼈 앞가쪽의 거디결절에 붙는 장경인대와 정지 표지를 구별
+
+- **다른 표기:** 무릎 가쪽 부착 구조 초음파 · Lateral knee attachments ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-lcl-biceps)
+참고: [ESSR 무릎 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/knee.pdf)
+
+<span id="anatomy-imaging-us-baker-neck"></span>
+
+**오금 주머니 연결부 초음파**
+
+- **영문명:** Popliteal bursal neck ultrasound
+- **원리·표지:** 반막양근힘줄과 비복근 안쪽갈래 사이 주머니의 연결부를 확인
+- **관찰·적용:** 관절과 이어지는 목·위치·내부 에코를 두 면에서 보고 오금 혈관과 비교
+- **판독·감별:** 오금의 모든 액체성 구조를 베이커낭종으로 이름 붙이지 않음
+
+- **다른 표기:** 오금 주머니 연결부 초음파 · Popliteal bursal neck ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-baker-neck)
+참고: [ESSR 무릎 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/knee.pdf)
+
+</details>
+
+<details markdown="1">
+<summary>초음파 발목·발 해부 · 4개 카드</summary>
+
+<span id="anatomy-imaging-us-tarsal-tunnel"></span>
+
+**발목굴 초음파 해부**
+
+- **영문명:** Tarsal tunnel ultrasound anatomy
+- **원리·표지:** 안쪽복사 뒤에서 뒤정강·긴발가락굽힘힘줄, 뒤정강혈관·경골신경, 긴엄지굽힘힘줄을 구분
+- **관찰·적용:** 뼈 표지에 대한 상대 위치와 발가락 움직임·도플러·신경 다발을 함께 추적
+- **판독·감별:** 단축의 여러 원을 힘줄로만 세지 않고 관찰 높이에 따른 주행 변화를 확인
+
+- **다른 표기:** 발목굴 초음파 해부 · Tarsal tunnel ultrasound anatomy
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-tarsal-tunnel)
+참고: [ESSR 발목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/ankle.pdf)
+
+<span id="anatomy-imaging-us-atfl"></span>
+
+**전거비인대 초음파**
+
+- **영문명:** Anterior talofibular ligament ultrasound
+- **원리·표지:** 가쪽복사 앞면의 종아리뼈에서 목말뼈로 이어지는 인대
+- **관찰·적용:** 두 뼈 부착점을 연결하는 면에서 섬유 연속성을 비교
+- **판독·감별:** 더 몸쪽의 전경비인대·발꿈치뼈로 가는 종비인대와 끝점이 다름
+
+- **다른 표기:** 전거비인대 초음파 · Anterior talofibular ligament ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-atfl)
+참고: [ESSR 발목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/ankle.pdf)
+
+<span id="anatomy-imaging-us-cfl"></span>
+
+**종비인대 초음파**
+
+- **영문명:** Calcaneofibular ligament ultrasound
+- **원리·표지:** 가쪽복사 끝에서 발꿈치뼈로 이어지고 종아리근힘줄 깊은 쪽에 놓임
+- **관찰·적용:** 발등굽힘 자세에서 부착 방향·가쪽 힘줄과의 층 관계를 비교
+- **판독·감별:** 앞쪽 목말뼈에 붙는 전거비인대와 관찰 면·먼쪽 뼈 표지가 다름
+
+- **다른 표기:** 종비인대 초음파 · Calcaneofibular ligament ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-cfl)
+참고: [ESSR 발목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/ankle.pdf)
+
+<span id="anatomy-imaging-us-plantar-fascia"></span>
+
+**족저근막 초음파**
+
+- **영문명:** Plantar fascia ultrasound
+- **원리·표지:** 발꿈치뼈 발바닥쪽 결절에서 앞발 쪽으로 이어지는 섬유성 띠
+- **관찰·적용:** 발꿈치 기시 부근에서 장축·단축으로 섬유·두께를 보고 같은 위치·자세로 비교
+- **판독·감별:** 발꿈치 뒤에 붙는 아킬레스힘줄과 면·연결 근육이 다름; 단일 두께값으로 원인을 확정하지 않음
+
+- **다른 표기:** 족저근막 초음파 · Plantar fascia ultrasound
+
+[이 구조의 학습 요약](/learning/anatomy/#anatomy-imaging-us-plantar-fascia)
+참고: [ESSR 발목 초음파 기술 지침](https://essr.org/content-essr/uploads/2016/10/ankle.pdf)
 
 </details>
 

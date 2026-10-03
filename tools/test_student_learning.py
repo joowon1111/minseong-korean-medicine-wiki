@@ -14,7 +14,7 @@ class StudentLearning(unittest.TestCase):
         cls.decks = study.build()
 
     def test_complete_decks_and_committed_build_agree(self):
-        expected = {'anatomy': 584, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110, 'shanghanlun': 70, 'sasang': 48}
+        expected = {'anatomy': 620, 'acupoints': 361, 'acupuncture': 169, 'herbs': 184, 'formulas': 110, 'shanghanlun': 70, 'sasang': 48}
         manifest = json.loads((study.OUT / 'manifest.json').read_text())
         for subject, deck in self.decks.items():
             self.assertEqual(len(deck['cards']), expected[subject])
@@ -62,7 +62,7 @@ class StudentLearning(unittest.TestCase):
         for subject, count, cases in (('shanghanlun', 70, 36), ('sasang', 48, 24)):
             deck = self.decks[subject]
             self.assertEqual(len(deck['cards']), count)
-            self.assertEqual(len(deck['questions']), count * 3 + cases + 26)
+            self.assertEqual(len(deck['questions']), count * 3 + cases + 34)
             for c in deck['cards']:
                 facts = {f['label']: f['value'] for f in c['facts']}
                 self.assertTrue({'우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
@@ -81,7 +81,7 @@ class StudentLearning(unittest.TestCase):
             body = re.search(r'^## .*?\{#' + fragment + r'\}\n(.*?)(?=^## |\Z)', text, re.M | re.S)[1]
             self.assertEqual(row['original'], ' '.join(re.findall(r'^> (.*)', body, re.M)))
         sasang = self.decks['sasang']
-        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 26})
+        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 34})
         for key in ('soeum', 'soyang', 'taeeum', 'taeyang'):
             self.assertTrue(any(c['id'] == 'sasang-health-' + key for c in sasang['cards']))
         headings = [c for c in sasang['cards'] if c['id'].startswith('sasang-pattern-')]
@@ -200,7 +200,7 @@ class StudentLearning(unittest.TestCase):
         from collections import Counter
         cards = {c['id']: c for c in self.decks['anatomy']['cards']}
         self.assertEqual(Counter(c['anatomyKind'] for c in cards.values()),
-                         {'muscle': 245, 'nerve': 99, 'bone': 98, 'vessel': 77, 'imaging': 30, 'tissue': 25, 'term': 10})
+                         {'muscle': 245, 'nerve': 99, 'bone': 98, 'vessel': 77, 'imaging': 66, 'tissue': 25, 'term': 10})
         for c in cards.values():
             if c['anatomyKind'] in ('muscle', 'nerve', 'bone', 'vessel'):
                 self.assertGreaterEqual(len(c['facts']), 4, c['id'])
@@ -227,7 +227,7 @@ class StudentLearning(unittest.TestCase):
     def test_ultrasound_scope_and_neurovascular_landmarks_remain_connected(self):
         deck = self.decks['anatomy']
         imaging = [c for c in deck['cards'] if c['anatomyKind'] == 'imaging']
-        self.assertEqual(len(imaging), 30)
+        self.assertEqual(len(imaging), 66)
         self.assertFalse(re.search(r'\b(?:CT|MRI)\b|컴퓨터단층|자기공명', json.dumps(imaging, ensure_ascii=False)))
         by_id = {c['id']: c for c in deck['cards']}
         for suffix in ('neuro-lateral-corticospinal', 'vascular-hepatic-veins',
@@ -297,13 +297,49 @@ class StudentLearning(unittest.TestCase):
                 for fact in c['facts']:
                     self.assertIn(fact['value'], text)
 
+    def test_month_plan_and_learning_scope_match_the_current_bank(self):
+        hub = (study.DOCS / 'learning/index.md').read_text()
+        self.assertIn('30일 학습 계획 {#first-month}', hub)
+        self.assertIn('id="first-week"', hub)  # Existing bookmarks keep working.
+        self.assertEqual(re.findall(r'^\| (\d+)일 \|', hub, re.M),
+                         [str(day) for day in range(1, 31)])
+        for subject in self.decks:
+            self.assertIn(f']({subject}.md)', hub)
+            text = (study.DOCS / 'learning' / (subject + '.md')).read_text()
+            self.assertFalse(re.search(r'국시원|국가시험|국가고시|kuksiwon', text))
+        self.assertFalse(re.search(r'국시원|국가시험|국가고시|kuksiwon|7일 복습', hub))
+        per_level = json.loads((study.ROOT / 'data/advanced_learning.json').read_text())['questionsPerLevel']
+        self.assertIn(f'중 {per_level}문제·상 {per_level}문제', hub)
+        self.assertIn('118개 카드·482문제', hub)
+
+    def test_ultrasound_cases_cover_tracking_measurement_and_doppler_conditions(self):
+        deck = self.decks['anatomy']
+        new = [q for q in deck['questions'] if q['kind'] == 'advanced'
+               and int(q['id'].rsplit('-', 1)[1]) >= 14]
+        self.assertEqual(len(new), 8)
+        self.assertTrue(all(q['cardId'].startswith('anatomy-imaging-us-') for q in new))
+        self.assertEqual(len({q['cardId'] for q in new}), 8)
+        text = (study.DOCS / 'learning/anatomy.md').read_text()
+        for anchor in ('ultrasound-technique', 'ultrasound-regions',
+                       'ultrasound-doppler', 'ultrasound-measurement'):
+            self.assertIn('{#' + anchor + '}', text)
+        by_id = {c['id']: c for c in deck['cards']}
+        for suffix in ('lister', 'guyon', 'femoral-bundle', 'gluteal-tendons',
+                       'lcl-biceps', 'tarsal-tunnel', 'plantar-fascia'):
+            card = by_id['anatomy-imaging-us-' + suffix]
+            self.assertTrue(any(ref['url'].endswith('.pdf') for ref in card['references']))
+        measure = next(q for q in new if q['cardId'].endswith('nerve-csa'))
+        self.assertIn('경계 기준', measure['options'][measure['answer']]['text'])
+        self.assertTrue(any('PMC10395381' in ref['url']
+                            for ref in by_id[measure['cardId']]['references']))
+
     def test_advanced_banks_have_balanced_levels_and_complete_offline_explanations(self):
         from collections import Counter
         rows = json.loads((study.ROOT / 'data/advanced_learning.json').read_text())['questions']
-        self.assertEqual(len(rows), 182)
+        self.assertEqual(len(rows), 238)
         for subject, deck in self.decks.items():
             questions = [q for q in deck['questions'] if q['kind'] == 'advanced']
-            self.assertEqual(Counter(q['difficulty'] for q in questions), {'high': 13, 'expert': 13})
+            self.assertEqual(Counter(q['difficulty'] for q in questions), {'high': 17, 'expert': 17})
             self.assertEqual({q['answer'] for q in questions}, {0, 1, 2, 3})
             text = (study.DOCS / 'learning' / (subject + '.md')).read_text()
             self.assertEqual(text.count('<!-- ADVANCED_QUESTIONS_START -->'), 1)

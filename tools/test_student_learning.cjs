@@ -118,7 +118,7 @@ test('all seven subjects select advanced levels, explain answers and recover whe
       ['전체 난이도', '하', '중', '상']);
     for (const level of ['high', 'expert']) {
       const levels = h.select('문제 난이도'); levels.value = level; levels.events.change();
-      assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 13문제')));
+      assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 17문제')));
     }
     h.button('10문제 풀기').events.click();
     const clue = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;

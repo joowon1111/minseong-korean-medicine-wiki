@@ -680,7 +680,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261003-12', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261003-13', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -734,6 +734,16 @@ def main():
         text = hub.read_text()
         text = re.sub(r'학습카드 [\d,]+개 · 해설형 문제 [\d,]+개',
                       f"학습카드 {sum(len(d['cards']) for d in decks.values()):,}개 · 해설형 문제 {sum(len(d['questions']) for d in decks.values()):,}개", text)
+        advanced_counts = [sum(q['kind'] == 'advanced' and q['difficulty'] == 'high'
+                               for q in d['questions']) for d in decks.values()]
+        assert len(set(advanced_counts)) == 1
+        text = re.sub(r'중 \d+문제·상 \d+문제',
+                      f'중 {advanced_counts[0]}문제·상 {advanced_counts[0]}문제', text)
+        text = re.sub(r'총 \*\*\d+문제\*\*',
+                      f"총 **{sum(q['kind'] == 'advanced' for d in decks.values() for q in d['questions'])}문제**", text)
+        classics = [decks[s] for s in ('shanghanlun', 'sasang')]
+        text = re.sub(r'두 은행은 \d+개 카드·[\d,]+문제를',
+                      f"두 은행은 {sum(len(d['cards']) for d in classics)}개 카드·{sum(len(d['questions']) for d in classics):,}문제를", text)
         omitted = len(decks['acupoints']['cards']) - sum(q['kind'] == 'location' for q in decks['acupoints']['questions'])
         text = re.sub(r'경혈 위치 설명에 답이 직접 등장하는 \d+개 항목',
                       f'경혈 위치 설명에 혈명과 겹치는 표현이 있는 {omitted}개 항목', text)
