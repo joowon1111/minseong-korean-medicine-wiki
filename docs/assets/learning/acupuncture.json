@@ -23160,6 +23160,186 @@
       "category": "비교군 읽기",
       "source": "/learning/acupuncture/#advanced-acupuncture-expert-11",
       "relatedSource": "/acupuncture-integrated/evidence/"
+    },
+    {
+      "id": "advanced-acupuncture-high-12",
+      "cardId": "shu-point-LU9",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "태연을 음경의 수혈과 원혈이 겹치는 예로 설명했다. 양경인 대장경의 수혈·원혈을 같은 순서로 연결하면?",
+      "options": [
+        {
+          "text": "합곡·삼간",
+          "detail": "혈명 둘은 적합하지만 수혈·원혈 순서가 뒤집혔다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-LU9",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-12"
+        },
+        {
+          "text": "삼간·삼간",
+          "detail": "수혈은 맞지만 음경의 중첩 규칙을 양경 원혈에 그대로 적용했다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-LU9",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-12"
+        },
+        {
+          "text": "삼간·합곡",
+          "detail": "양경은 수혈과 원혈이 별도로 있으며 대장경 수혈 삼간, 원혈 합곡이다.",
+          "owner": "정답 근거",
+          "ownerId": "shu-point-LU9",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-12"
+        },
+        {
+          "text": "양계·합곡",
+          "detail": "원혈은 맞지만 양계는 경혈(經)로 수혈과 분류가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-LU9",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-12"
+        }
+      ],
+      "answer": 2,
+      "explanation": "태연 오수혈 분류 — 양경은 수혈과 원혈이 별도로 있으며 대장경 수혈 삼간, 원혈 합곡이다.",
+      "discriminator": "음경 중첩 규칙과 양경 별도 원혈을 구분한다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "오수혈 개별 60혈",
+      "source": "/learning/acupuncture/#advanced-acupuncture-high-12",
+      "relatedSource": "/acupuncture-specific/five-shu/"
+    },
+    {
+      "id": "advanced-acupuncture-high-13",
+      "cardId": "extra-PC6",
+      "difficulty": "high",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "공손·내관을 설명할 때 팔맥교회혈의 연결 기경과 각 혈의 낙혈 속성을 나누려 한다. 맞는 연결은?",
+      "options": [
+        {
+          "text": "공손–음유맥, 내관–충맥; 각각 비경·심포경 낙혈",
+          "detail": "낙혈 소속은 맞지만 연결 기경이 바뀌었다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-PC6",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-13"
+        },
+        {
+          "text": "공손–충맥, 내관–음유맥; 비경·심포경은 표리 짝",
+          "detail": "기경 연결은 맞지만 비경의 표리는 위경이고 심포경의 표리는 삼초경이다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-PC6",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-13"
+        },
+        {
+          "text": "공손–충맥, 내관–음교맥; 각각 비경·심포경 낙혈",
+          "detail": "낙혈 속성은 맞지만 내관의 기경은 음유맥이며 음교맥은 조해와 연결한다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-PC6",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-13"
+        },
+        {
+          "text": "공손–충맥, 내관–음유맥; 각각 비경·심포경 낙혈",
+          "detail": "팔맥 연결과 12정경 낙혈이라는 서로 다른 분류축을 정확히 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "extra-PC6",
+          "source": "/learning/acupuncture/#advanced-acupuncture-high-13"
+        }
+      ],
+      "answer": 3,
+      "explanation": "내관 — 팔맥 연결과 12정경 낙혈이라는 서로 다른 분류축을 정확히 나눈다.",
+      "discriminator": "교회혈의 기경과 낙혈의 소속 경맥을 각각 답한다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "팔맥교회혈",
+      "source": "/learning/acupuncture/#advanced-acupuncture-high-13",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "advanced-acupuncture-expert-12",
+      "cardId": "research-침 + 통상치료 vs 통상치료",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "교육용 가정: 두 군 모두 같은 운동·교육을 받았고 한 군만 침 치료를 추가했다. 같은 기간 후 통증과 기능을 측정했다. 이 설계가 직접 답하는 질문은?",
+      "options": [
+        {
+          "text": "해당 운동·교육에 침을 추가했을 때의 효과",
+          "detail": "두 군에 공통인 표준치료 위에서 추가된 중재의 차이를 비교한다.",
+          "owner": "정답 근거",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-12"
+        },
+        {
+          "text": "운동·교육 없이 침 단독의 효과",
+          "detail": "추가군도 운동·교육을 받았으므로 단독 중재 비교가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-12"
+        },
+        {
+          "text": "침과 운동 중 어느 단독치료가 더 좋은가",
+          "detail": "각 단독치료를 직접 비교한 두 군이 아니어서 대체효과 질문과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-12"
+        },
+        {
+          "text": "다른 질환·다른 운동 프로그램에 침을 더한 효과",
+          "detail": "직접 비교는 연구의 대상·운동·기간 조건으로 제한되며 외삽은 별도 검토한다.",
+          "owner": "오답 감별",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-12"
+        }
+      ],
+      "answer": 0,
+      "explanation": "침 + 통상치료 vs 통상치료 — 두 군에 공통인 표준치료 위에서 추가된 중재의 차이를 비교한다.",
+      "discriminator": "두 군에서 공통 조건과 추가 조건을 나눈다.",
+      "nearestWrong": 1,
+      "kind": "advanced",
+      "category": "비교군 읽기",
+      "source": "/learning/acupuncture/#advanced-acupuncture-expert-12",
+      "relatedSource": "/acupuncture-integrated/evidence/"
+    },
+    {
+      "id": "advanced-acupuncture-expert-13",
+      "cardId": "design-관찰연구·안전성 자료",
+      "difficulty": "expert",
+      "prompt": "제시된 조건을 함께 고려한 가장 적합한 답은?",
+      "context": "가상 안전성 기록에서 환자 100명, 시술 600회, 이상반응 경험 환자 8명, 이상반응 발생 회차 12회가 보고되었다. 분모를 보존한 표현은?",
+      "options": [
+        {
+          "text": "환자 기준 12%, 시술 회차 기준 약 1.33%",
+          "detail": "환자 수와 사건 회차를 뒤바꿔 12/100과 8/600을 계산했다.",
+          "owner": "오답 감별",
+          "ownerId": "design-관찰연구·안전성 자료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-13"
+        },
+        {
+          "text": "환자 기준 8%, 시술 회차 기준 2%",
+          "detail": "8/100과 12/600은 다른 분모의 값이며 한 사람의 반복 사건이 가능하다.",
+          "owner": "정답 근거",
+          "ownerId": "design-관찰연구·안전성 자료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-13"
+        },
+        {
+          "text": "환자 기준 8%, 시술 회차 기준 12%",
+          "detail": "환자 비율은 맞지만 발생 회차는 600회로 나누어야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "design-관찰연구·안전성 자료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-13"
+        },
+        {
+          "text": "환자 기준 2%, 시술 회차 기준 8%",
+          "detail": "수치가 뒤바뀌어 환자 경험과 시술당 발생 빈도가 모두 달라진다.",
+          "owner": "오답 감별",
+          "ownerId": "design-관찰연구·안전성 자료",
+          "source": "/learning/acupuncture/#advanced-acupuncture-expert-13"
+        }
+      ],
+      "answer": 1,
+      "explanation": "관찰연구·안전성 자료 — 8/100과 12/600은 다른 분모의 값이며 한 사람의 반복 사건이 가능하다.",
+      "discriminator": "사람 수·회차 수·경험 환자·발생 회차를 구분한다.",
+      "nearestWrong": 0,
+      "kind": "advanced",
+      "category": "연구설계",
+      "source": "/learning/acupuncture/#advanced-acupuncture-expert-13",
+      "relatedSource": "/acupuncture-integrated/evidence/"
     }
   ]
 }
