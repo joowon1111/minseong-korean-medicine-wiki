@@ -4,6 +4,7 @@ The generated datasets are committed so the learning room also works on ordinary
 MkDocs builds. IDs depend on source paths/codes, not the order of cards.
 """
 from collections import defaultdict
+from functools import lru_cache
 from pathlib import Path
 from urllib.parse import quote, unquote
 import hashlib
@@ -55,22 +56,93 @@ def card(identifier, title, category, facts, path, prompt=None):
             'source': url(path), 'sourceTitle': title + ' 원문'}
 
 
+@lru_cache(maxsize=1)
+def point_names():
+    return {code: p['name_ko'] for code, p in
+            json.loads((ROOT / 'data/acupoint_catalog.json').read_text())['points'].items()}
+
+
+@lru_cache(maxsize=12000)
+def named_points(text):
+    """Keep codes in IDs/URLs/search aliases, but teach with point names."""
+    names = point_names()
+    def replacement(m):
+        name = names.get(m[1])
+        if not name:
+            return m[0]
+        suffix = m[2] or ''
+        final = (ord(name[-1]) - 0xac00) % 28
+        for pair in ('은는', '이가', '을를', '과와'):
+            if suffix in pair and suffix:
+                suffix = pair[0] if final else pair[1]
+        return name + suffix
+    text = re.sub(r'(?<![A-Za-z0-9])((?:LU|LI|ST|SP|HT|SI|BL|KI|PC|TE|GB|LR|GV|CV)\d+)(?![0-9])(은|는|이|가|을|를|과|와)?',
+                  replacement, text)
+    text = re.sub(r'([가-힣]{2,})\s+\1',
+                  lambda m: m[1] if m[1] in names.values() else m[0], text)
+    text = re.sub(r'\s+\b(?:LU|LI|ST|SP|HT|SI|BL|KI|PC|TE|GB|LR|GV|CV)\b(?!\d)', '', text)
+    return text
+
+
+@lru_cache(maxsize=12000)
+def study_terms(text):
+    # Character pairs handle Korean inflections; no external language model or
+    # medical facts are needed to rank already sourced, eligible distractors.
+    words = re.findall(r'[가-힣]+|[a-z]+|\d+(?:\.\d+)?', text.lower())
+    return frozenset(term for w in words for term in
+                     ([w] if len(w) < 3 or w.isascii() else [w[i:i+2] for i in range(len(w)-1)]))
+
+
+def close_peers(c, pool, label=None):
+    def value(p):
+        if label:
+            return next((f['value'] for f in p['facts'] if f['label'] == label), '')
+        return ' '.join(f['value'] for f in p['facts'])
+    target = study_terms(value(c))
+    comparison = next((f['value'] for f in c['facts'] if f['label'] == '비교 묶음'), None)
+    def rank(p):
+        terms = study_terms(value(p))
+        overlap = len(target & terms) / max(1, len(target | terms))
+        same_comparison = comparison and any(f['label'] == '비교 묶음' and f['value'] == comparison for f in p['facts'])
+        same_region = c.get('region') and p.get('region') == c['region']
+        area = lambda point: next((f['value'].split(',')[0] for f in point['facts'] if f['label'] == '표준 위치'), '')
+        if c.get('region') in ('trunk-front', 'back', 'head-neck'):
+            same_region = area(c) == area(p)
+        distance = abs(int(re.search(r'\d+', c['code'])[0]) - int(re.search(r'\d+', p['code'])[0])) if c.get('code') and p['category'] == c['category'] else 999
+        return (p['id'] not in c.get('preferredPeers', []) if c.get('preferredPeers') else False,
+                not same_comparison if comparison else False,
+                not same_region if c.get('region') else False,
+                p['category'] != c['category'], distance, -overlap,
+                hashlib.sha256((c['id'] + (label or '') + p['id']).encode()).hexdigest())
+    return sorted((p for p in pool if p['id'] != c['id']), key=rank)
+
+
 def acupoints():
     catalog = json.loads((ROOT / 'data/acupoint_catalog.json').read_text())['points']
     atlas = json.loads((ROOT / 'data/acupoint_diagrams.json').read_text())['regions']
     region_by_code = {p['code']: r['id'] for r in atlas for p in r['points']}
     result = []
     for code, p in catalog.items():
+        location, _, note = p['location_ko'].partition('※')
         facts = [('혈명·경맥', f"{p['name_ko']}({p['name_zh']}) · {p['meridian']}"),
-                 ('표준 위치', p['location_ko'])]
+                 ('표준 위치', location.strip())]
         attr = p.get('specific_attributes', {}).get('existing_summary')
         if attr and attr not in ('없음', '—', '-'):
             facts.append(('특정혈 요약', attr))
-        c = card('point-' + code, f"{p['name_ko']} {code}", p['meridian'], facts, p['path'],
-                 f"{code}의 혈명·경맥·위치를 떠올려 보세요.")
-        c.update(code=code, name=p['name_ko'], diagram=f"/assets/acupoint-atlas/{region_by_code[code]}.svg#{code}",
+        if note:
+            facts.append(('위치 참고', note.removeprefix('주 :').strip()))
+        c = card('point-' + code, p['name_ko'], p['meridian'],
+                 [(label, named_points(value)) for label, value in facts], p['path'],
+                 f"{p['name_ko']}의 위치·해부학적 표지·특정혈 성격을 떠올려 보세요.")
+        c.update(code=code, aliases=[code], name=p['name_ko'], region=region_by_code[code], diagram=f"/assets/acupoint-atlas/{region_by_code[code]}.svg#{code}",
                  quizDiagram=f"/assets/learning/diagrams/{region_by_code[code]}.svg#{code}")
         result.append(c)
+    # Two different points can share a Korean name. Add the meridian only where
+    # necessary, so name-only choices remain unambiguous.
+    for c in result:
+        if sum(p['name'] == c['name'] for p in result) > 1:
+            c['title'] += ' · ' + c['category']
+            c['sourceTitle'] = c['title'] + ' 원문'
     return result
 
 
@@ -205,6 +277,14 @@ def formula_cards():
         result.append(card('formula-family-' + row[0], row[0] + ' 처방 계열 비교', '처방 계열 비교',
                            [('대표 처방', row[1]), ('분기 기준', row[2]), ('감별 질문', row[3])], comparison,
                            f'{row[0]} 계열의 대표 처방과 갈림점을 설명해 보세요.'))
+    # Source-authored formula families cross the general formulary's categories
+    # (e.g. 사군자탕 and 육군자탕). Preserve those comparisons in ordinary quizzes.
+    core_cards = [c for c in result if not c['id'].startswith('formula-family-')]
+    for family in result[len(core_cards):]:
+        names = family['facts'][0]['value']
+        members = [c for c in core_cards if re.search(r'(?<![가-힣])' + re.escape(c['title']) + r'(?![가-힣])', names)]
+        for c in members:
+            c['preferredPeers'] = list(dict.fromkeys(c.get('preferredPeers', []) + [p['id'] for p in members if p != c]))
     return result
 
 
@@ -272,6 +352,11 @@ def acupuncture_cards():
     section = next(b for h, b in sections(text) if h == '연구설계별 해석')
     for title, definition in re.findall(r'- \*\*([^:*]+):\*\*\s*(.+)', section):
         result.append(card('design-' + title, title, '연구설계', [('해석 범위', definition)], evidence))
+    for c in result:
+        for key in ('title', 'prompt', 'sourceTitle'):
+            c[key] = named_points(c[key])
+        for f in c['facts']:
+            f['value'] = named_points(f['value'])
     return result
 
 
@@ -364,7 +449,7 @@ def anatomy_questions(cards):
             q = make_question(c, f['label'], pool)
             if q:
                 questions.append(q)
-        choices = shuffled([c] + shuffled([p for p in pool if p['id'] != c['id']], c['id'])[:3], c['id'] + 'identify')
+        choices = shuffled([c] + close_peers(c, pool)[:3], c['id'] + 'identify')
         assert len(choices) == 4
         base = {'cardId': c['id'], 'category': c['category'], 'answer': choices.index(c), 'source': c['source'],
                 'options': [{'text': p['title'], 'owner': p['title'], 'ownerId': p['id'], 'source': p['source']} for p in choices],
@@ -439,9 +524,12 @@ def make_question(c, label, pool, kind='fact', prompt=None):
     # Deduplicate Hanja/typography variants; don't offer the same answer twice.
     seen = {normalized(value)}
     candidates = []
-    for other in shuffled(pool, c['id'] + label):
+    eligible = [p for p in pool if any(f['label'] == label for f in p['facts'])]
+    for other in close_peers(c, eligible, label):
         f = next((f for f in other['facts'] if f['label'] == label), None)
         if other['id'] == c['id'] or not f or normalized(f['value']) in seen:
+            continue
+        if c.get('name') and label == '표준 위치' and re.search(r'(?<![가-힣])' + re.escape(c['name']) + r'(?![가-힣])', f['value']):
             continue
         seen.add(normalized(f['value']))
         candidates.append({'text': f['value'], 'owner': other['title'], 'ownerId': other['id'], 'source': other['source']})
@@ -466,12 +554,11 @@ def quizzes(subject, cards):
     questions = []
     for c in cards:
         if subject == 'acupoints':
-            q = make_question(c, '혈명·경맥', cards, 'name', f"{c['code']}의 혈명과 소속 경맥은?")
+            q = make_question(c, '표준 위치', cards, 'name', f"{c['title']}의 해부학적 표지와 표준 위치를 정확히 설명한 것은?")
+            # Reuse the old code-recall ID to retain saved wrong-answer records.
+            q['id'] = c['id'] + '-name-혈명·경맥'
             questions.append(q)
-            others = [p for p in cards if p['category'] == c['category'] and p['id'] != c['id']]
-            if len(others) < 3:
-                others = [p for p in cards if p['id'] != c['id']]
-            choices = shuffled([c] + shuffled(others, c['id'])[:3], c['id'] + 'point-options')
+            choices = shuffled([c] + close_peers(c, cards, '표준 위치')[:3], c['id'] + 'point-options')
             options = [{'text': p['title'], 'owner': p['title'], 'ownerId': p['id'], 'source': p['source'],
                         'detail': next(f['value'] for f in p['facts'] if f['label'] == '표준 위치')} for p in choices]
             base = {'cardId': c['id'], 'category': c['category'], 'options': options,
@@ -499,9 +586,9 @@ def quizzes(subject, cards):
                     same = [p for p in cards if any(f['label'] == label and normalized(f['value']) == normalized(fact['value']) for f in p['facts'])]
                     short_title = re.sub(r' 비교·감별| 오수혈 분류| 처방 계열 비교', '', c['title'])
                     if len(same) == 1 and len(cards) >= 4 and normalized(short_title) not in normalized(fact['value']) and label not in ('수치·법제 확인', '약용 부위', '성미', '귀경', '성미·귀경', '오수혈 분류', '소속 경맥'):
-                        candidates = [p for p in cards if p['category'] == c['category']]
+                        candidates = [p for p in cards if p['category'] == c['category'] or p['id'] in c.get('preferredPeers', [])]
                         selected, seen = [c], {normalized(c['title'])}
-                        for p in shuffled(candidates, c['id'] + label):
+                        for p in close_peers(c, candidates, label):
                             if normalized(p['title']) not in seen:
                                 selected.append(p)
                                 seen.add(normalized(p['title']))
@@ -582,7 +669,7 @@ def build():
     for subject in ('shanghanlun', 'sasang'):
         decks[subject] = classical_deck(ROOT, subject, shuffled)
     from advanced_learning import advanced_questions
-    advanced = advanced_questions(ROOT, decks)
+    advanced = advanced_questions(ROOT, decks, named_points)
     for subject, questions in advanced.items():
         decks[subject]['questions'].extend(questions)
     validate(decks)
@@ -593,7 +680,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261002-10', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261003-11', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -647,6 +734,9 @@ def main():
         text = hub.read_text()
         text = re.sub(r'학습카드 [\d,]+개 · 해설형 문제 [\d,]+개',
                       f"학습카드 {sum(len(d['cards']) for d in decks.values()):,}개 · 해설형 문제 {sum(len(d['questions']) for d in decks.values()):,}개", text)
+        omitted = len(decks['acupoints']['cards']) - sum(q['kind'] == 'location' for q in decks['acupoints']['questions'])
+        text = re.sub(r'경혈 위치 설명에 답이 직접 등장하는 \d+개 항목',
+                      f'경혈 위치 설명에 혈명과 겹치는 표현이 있는 {omitted}개 항목', text)
         for subject, deck in decks.items():
             text = re.sub(r'(\| \[' + SUBJECTS[subject] + r'\]\(' + subject + r'\.md\) \| )\d+( \| )[\d,]+',
                           lambda m: m[1] + str(len(deck['cards'])) + m[2] + f"{len(deck['questions']):,}", text)

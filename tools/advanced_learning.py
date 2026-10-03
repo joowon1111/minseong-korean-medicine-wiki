@@ -9,7 +9,7 @@ START = '<!-- ADVANCED_QUESTIONS_START -->'
 END = '<!-- ADVANCED_QUESTIONS_END -->'
 
 
-def advanced_questions(root, decks):
+def advanced_questions(root, decks, named_points=lambda text: text):
     payload = json.loads((root / 'data/advanced_learning.json').read_text())
     assert payload['schema'] == 1
     rows = payload['questions']
@@ -20,6 +20,13 @@ def advanced_questions(root, decks):
     assert len({r['id'] for r in rows}) == len(rows)
     result = {s: [] for s in decks}
     for row in rows:
+        row = deepcopy(row)
+        if row['subject'] in ('acupoints', 'acupuncture'):
+            for key in ('prompt', 'context', 'explanation', 'discriminator'):
+                row[key] = named_points(row[key])
+            for option in row['options']:
+                for key in ('text', 'detail'):
+                    option[key] = named_points(option[key])
         subject = row['subject']
         card = next(c for c in decks[subject]['cards'] if c['id'] == row['cardId'])
         assert row['id'].startswith('advanced-' + subject + '-' + row['difficulty'] + '-')

@@ -133,6 +133,38 @@ class StudentLearning(unittest.TestCase):
             self.assertFalse(any(re.search(r'\b[A-Z]{2}\d+\b', n.text or '') for n in tree.iter(ns + 'text')))
         self.assertEqual(sum(q['kind'] == 'diagram' for q in self.decks['acupoints']['questions']), 361)
 
+    def test_point_names_replace_code_recall_without_losing_point_identity(self):
+        code = re.compile(r'\b(?:LU|LI|ST|SP|HT|SI|BL|KI|PC|TE|GB|LR|GV|CV)\d+\b')
+        for subject in ('acupoints', 'acupuncture'):
+            deck = self.decks[subject]
+            for c in deck['cards']:
+                self.assertFalse(code.search(c['title'] + c['prompt'] + str(c['facts'])), c['id'])
+            for q in deck['questions']:
+                prose = q['prompt'] + q.get('context', '') + q['explanation'] + ' '.join(o['text'] for o in q['options'])
+                self.assertFalse(code.search(prose), q['id'])
+        points = self.decks['acupoints']
+        by_id = {c['id']: c for c in points['cards']}
+        for c in points['cards']:
+            self.assertEqual(c['id'], 'point-' + c['code'])
+            self.assertIn(c['code'], c['aliases'])
+            q = next(q for q in points['questions'] if q['id'] == c['id'] + '-name-혈명·경맥')
+            self.assertIn(c['title'], q['prompt'])
+            self.assertEqual(q['options'][q['answer']]['text'], c['facts'][1]['value'])
+        for id in ('point-LI4-location', 'point-PC6-location', 'point-CV12-location'):
+            q = next(q for q in points['questions'] if q['id'] == id)
+            self.assertEqual(q['options'][q['answer']]['ownerId'], q['cardId'])
+        middle = next(q for q in points['questions'] if q['id'] == 'point-CV12-location')
+        owners = {o['ownerId'] for o in middle['options']}
+        self.assertTrue({'point-CV11', 'point-CV12', 'point-CV13'} <= owners)
+        self.assertTrue(owners <= {'point-CV10', 'point-CV11', 'point-CV12', 'point-CV13', 'point-CV14'})
+        self.assertTrue(all(by_id[o['ownerId']]['category'] == middle['category'] for o in middle['options']))
+
+    def test_formula_family_distractors_cross_general_formulary_categories(self):
+        formulas = self.decks['formulas']
+        for id in ('formula-sijunzi-tang-fact-구조 읽기', 'formula-sijunzi-tang-recall-구조 읽기'):
+            q = next(q for q in formulas['questions'] if q['id'] == id)
+            self.assertTrue({'formula-liujunzi-tang', 'formula-xiangsha-liujunzi-tang'} <= {o['ownerId'] for o in q['options']})
+
     def test_anatomy_identification_and_layer_targets_are_unambiguous(self):
         deck = self.decks['anatomy']
         by_id = {c['id']: c for c in deck['cards']}
@@ -285,7 +317,7 @@ class StudentLearning(unittest.TestCase):
         points = [c for c in self.decks['acupuncture']['cards'] if c['id'].startswith('shu-point-')]
         self.assertEqual(len(points), 60)
         lu9 = next(c for c in points if c['id'] == 'shu-point-LU9')
-        self.assertEqual(lu9['facts'], [{'label': '소속 경맥', 'value': '폐경 LU'}, {'label': '오수혈 분류', 'value': '수(兪)'}])
+        self.assertEqual(lu9['facts'], [{'label': '소속 경맥', 'value': '폐경'}, {'label': '오수혈 분류', 'value': '수(兪)'}])
         herbs = self.decks['herbs']
         comparisons = [c for c in herbs['cards'] if c['category'] == '본초 비교·감별']
         self.assertEqual(len(comparisons), 64)
@@ -302,7 +334,8 @@ class StudentLearning(unittest.TestCase):
             for q in reverse:
                 self.assertEqual(q['options'][q['answer']]['ownerId'], q['cardId'])
                 self.assertEqual(len({o['text'] for o in q['options']}), 4)
-                self.assertTrue(all(by_id[o['ownerId']]['category'] == q['category'] for o in q['options']))
+                self.assertTrue(all(by_id[o['ownerId']]['category'] == q['category'] or
+                                    o['ownerId'] in by_id[q['cardId']].get('preferredPeers', []) for o in q['options']))
                 label, value = q['context'].split(': ', 1)
                 self.assertEqual(sum(any(f['label'] == label and study.normalized(f['value']) == study.normalized(value) for f in c['facts']) for c in deck['cards']), 1)
         formulas = {c['id']: c for c in self.decks['formulas']['cards']}
