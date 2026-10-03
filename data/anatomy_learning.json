@@ -172,6 +172,38 @@
     "us-principles": {
       "title": "BMUS 근골격 초음파 학습 원칙",
       "url": "https://www.bmus.org/education-and-cpd/cpd-resources/top-tips/five-top-tips-for-beginning-musculoskeletal-ultrasound/"
+    },
+    "us-shoulder": {
+      "title": "ESSR 어깨 초음파 기술 지침",
+      "url": "https://essr.org/content-essr/uploads/2016/10/shoulder.pdf"
+    },
+    "us-elbow": {
+      "title": "ESSR 팔꿈치 초음파 기술 지침",
+      "url": "https://essr.org/content-essr/uploads/2016/10/elbow.pdf"
+    },
+    "us-wrist": {
+      "title": "ESSR 손목 초음파 기술 지침",
+      "url": "https://essr.org/content-essr/uploads/2016/10/wrist.pdf"
+    },
+    "us-hip": {
+      "title": "ESSR 고관절 초음파 기술 지침",
+      "url": "https://essr.org/content-essr/uploads/2016/10/hip.pdf"
+    },
+    "us-knee": {
+      "title": "ESSR 무릎 초음파 기술 지침",
+      "url": "https://essr.org/content-essr/uploads/2016/10/knee.pdf"
+    },
+    "us-ankle": {
+      "title": "ESSR 발목 초음파 기술 지침",
+      "url": "https://essr.org/content-essr/uploads/2016/10/ankle.pdf"
+    },
+    "us-doppler-physics": {
+      "title": "BMUS 도플러와 혈류 측정",
+      "url": "https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/"
+    },
+    "us-nerve-measurement": {
+      "title": "말초신경 초음파의 표준 측정·해부 대응 연구",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395381/"
     }
   },
   "structures": [
@@ -20598,6 +20630,1062 @@
         "us-msk",
         "us-principles",
         "us"
+      ]
+    },
+    {
+      "id": "imaging-us-slide",
+      "name": "탐촉자 평행 이동",
+      "en": "Probe translation",
+      "kind": "imaging",
+      "category": "초음파 탐촉자 조작·측정",
+      "aliases": [
+        "탐촉자 평행 이동",
+        "Probe translation"
+      ],
+      "identify": "접촉면의 방향을 유지하며 피부 위 위치를 옮기는 조작; 단축에서 신경·힘줄의 몸쪽과 먼쪽 주행을 끊김 없이 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "접촉면의 방향을 유지하며 피부 위 위치를 옮기는 조작"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "단축에서 신경·힘줄의 몸쪽과 먼쪽 주행을 끊김 없이 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "자리 이동과 제자리 회전을 구분; 매 장면의 뼈·근막 표지를 다시 확인"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-rotation",
+      "name": "탐촉자 회전",
+      "en": "Probe rotation",
+      "kind": "imaging",
+      "category": "초음파 탐촉자 조작·측정",
+      "aliases": [
+        "탐촉자 회전",
+        "Probe rotation"
+      ],
+      "identify": "관찰 위치를 중심으로 접촉면의 긴 축 방향을 돌리는 조작; 단축으로 찾은 구조의 길이 방향에 맞춰 장축으로 전환",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "관찰 위치를 중심으로 접촉면의 긴 축 방향을 돌리는 조작"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "단축으로 찾은 구조의 길이 방향에 맞춰 장축으로 전환"
+        },
+        {
+          "label": "판독·감별",
+          "value": "몸의 세로축과 구조의 장축은 비스듬한 주행에서 다를 수 있음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-tilt",
+      "name": "탐촉자 기울임",
+      "en": "Probe tilt",
+      "kind": "imaging",
+      "category": "초음파 탐촉자 조작·측정",
+      "aliases": [
+        "탐촉자 기울임",
+        "Probe tilt"
+      ],
+      "identify": "피부 접촉 위치를 크게 바꾸지 않고 음파의 입사 방향을 조절; 휘어진 힘줄의 섬유 에코가 회복되는 각도를 찾아 이방성 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "피부 접촉 위치를 크게 바꾸지 않고 음파의 입사 방향을 조절"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "휘어진 힘줄의 섬유 에코가 회복되는 각도를 찾아 이방성 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "이득을 올리는 것과 각도를 맞추는 것은 다른 조작"
+        }
+      ],
+      "references": [
+        "us-principles",
+        "us-ankle"
+      ]
+    },
+    {
+      "id": "imaging-us-heel-toe",
+      "name": "탐촉자 힐토 조작",
+      "en": "Heel-toe manoeuvre",
+      "kind": "imaging",
+      "category": "초음파 탐촉자 조작·측정",
+      "aliases": [
+        "탐촉자 힐토 조작",
+        "Heel-toe manoeuvre"
+      ],
+      "identify": "탐촉자 긴 축의 한 끝을 내리고 다른 끝을 들어 입사각을 바꾸는 조작; 뼈 부착부에서 굽는 힘줄을 장축으로 볼 때 섬유에 수직인 방향 확보",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "탐촉자 긴 축의 한 끝을 내리고 다른 끝을 들어 입사각을 바꾸는 조작"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "뼈 부착부에서 굽는 힘줄을 장축으로 볼 때 섬유에 수직인 방향 확보"
+        },
+        {
+          "label": "판독·감별",
+          "value": "압력 증가만으로 밝기를 보정하지 않고 접촉·각도를 함께 유지"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles"
+      ]
+    },
+    {
+      "id": "imaging-us-standoff",
+      "name": "얕은 구조의 접촉층",
+      "en": "Superficial stand-off technique",
+      "kind": "imaging",
+      "category": "초음파 탐촉자 조작·측정",
+      "aliases": [
+        "얕은 구조의 접촉층",
+        "Superficial stand-off technique"
+      ],
+      "identify": "충분한 젤이나 접촉 패드로 매우 얕은 구조를 탐촉자 바로 아래 영역에서 떨어뜨림; 손가락·얕은 주머니를 적은 압력으로 관찰하고 접촉 불량을 줄임",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "충분한 젤이나 접촉 패드로 매우 얕은 구조를 탐촉자 바로 아래 영역에서 떨어뜨림"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "손가락·얕은 주머니를 적은 압력으로 관찰하고 접촉 불량을 줄임"
+        },
+        {
+          "label": "판독·감별",
+          "value": "접촉층 확보는 조직 두께 증가가 아님; 과도한 압박으로 액체를 밀어내지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-elbow"
+      ]
+    },
+    {
+      "id": "imaging-us-nerve-csa",
+      "name": "신경 단면적 측정",
+      "en": "Nerve cross-sectional area",
+      "kind": "imaging",
+      "category": "초음파 탐촉자 조작·측정",
+      "aliases": [
+        "신경 단면적 측정",
+        "Nerve cross-sectional area"
+      ],
+      "identify": "신경 길이에 수직인 단축에서 경계를 정해 면적을 측정; 측정 높이·자세·경계 추적 기준을 기록하고 동일 위치에서 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "신경 길이에 수직인 단축에서 경계를 정해 면적을 측정"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "측정 높이·자세·경계 추적 기준을 기록하고 동일 위치에서 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "비스듬한 절단은 면적을 크게 보이게 할 수 있어 단일 값만으로 포착병증을 확정하지 않음"
+        }
+      ],
+      "references": [
+        "us-wrist",
+        "us-elbow",
+        "us-nerve-measurement"
+      ]
+    },
+    {
+      "id": "imaging-us-reverberation",
+      "name": "다중반사 인공물",
+      "en": "Reverberation artifact",
+      "kind": "imaging",
+      "category": "초음파 인공물·비교 판독",
+      "aliases": [
+        "다중반사 인공물",
+        "Reverberation artifact"
+      ],
+      "identify": "강한 반사면 사이에서 왕복한 음파가 반복된 선으로 표시되는 현상; 규칙적으로 반복되는 에코와 실제 해부 층의 연결을 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "강한 반사면 사이에서 왕복한 음파가 반복된 선으로 표시되는 현상"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "규칙적으로 반복되는 에코와 실제 해부 층의 연결을 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "반복된 밝은 선을 모두 별개의 조직 경계로 세지 않음"
+        }
+      ],
+      "references": [
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-edge-shadow",
+      "name": "가장자리 음영",
+      "en": "Edge shadowing",
+      "kind": "imaging",
+      "category": "초음파 인공물·비교 판독",
+      "aliases": [
+        "가장자리 음영",
+        "Edge shadowing"
+      ],
+      "identify": "곡면의 가장자리에서 음파 굴절·방향 변화로 뒤쪽 신호가 줄어듦; 둥근 힘줄·액체 구조 양옆 음영이 각도·위치 변화에 따라 달라지는지 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "곡면의 가장자리에서 음파 굴절·방향 변화로 뒤쪽 신호가 줄어듦"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "둥근 힘줄·액체 구조 양옆 음영이 각도·위치 변화에 따라 달라지는지 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "중앙 뼈 피질의 강한 반사 뒤 음영과 발생 위치가 다름"
+        }
+      ],
+      "references": [
+        "us"
+      ]
+    },
+    {
+      "id": "imaging-us-oblique-section",
+      "name": "비스듬한 단면의 오류",
+      "en": "Oblique section pitfall",
+      "kind": "imaging",
+      "category": "초음파 인공물·비교 판독",
+      "aliases": [
+        "비스듬한 단면의 오류",
+        "Oblique section pitfall"
+      ],
+      "identify": "길게 이어진 구조를 비스듬히 자르면 폭·면적·경계가 달라 보임; 신경·힘줄의 실제 주행을 찾은 뒤 수직 단축과 평행 장축을 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "길게 이어진 구조를 비스듬히 자르면 폭·면적·경계가 달라 보임"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "신경·힘줄의 실제 주행을 찾은 뒤 수직 단축과 평행 장축을 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "타원형 확대가 모두 실제 비대는 아니며 절단면·측정 높이를 맞춤"
+        }
+      ],
+      "references": [
+        "us-wrist",
+        "us-principles",
+        "us-nerve-measurement"
+      ]
+    },
+    {
+      "id": "imaging-us-paired-comparison",
+      "name": "양측 초음파 비교",
+      "en": "Contralateral ultrasound comparison",
+      "kind": "imaging",
+      "category": "초음파 인공물·비교 판독",
+      "aliases": [
+        "양측 초음파 비교",
+        "Contralateral ultrasound comparison"
+      ],
+      "identify": "같은 해부 위치와 자세·면·설정에서 좌우 구조를 비교; 부착점·관절 각도·압박·이득·깊이를 맞춘 뒤 차이를 기술",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "같은 해부 위치와 자세·면·설정에서 좌우 구조를 비교"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "부착점·관절 각도·압박·이득·깊이를 맞춘 뒤 차이를 기술"
+        },
+        {
+          "label": "판독·감별",
+          "value": "반대쪽에도 변이·변화가 있을 수 있어 정상 판정의 유일 기준으로 쓰지 않음"
+        }
+      ],
+      "references": [
+        "us-msk",
+        "us-principles",
+        "us-nerve-measurement"
+      ]
+    },
+    {
+      "id": "imaging-us-power-doppler",
+      "name": "파워도플러의 정보",
+      "en": "Power Doppler information",
+      "kind": "imaging",
+      "category": "초음파 도플러 설정·혈류",
+      "aliases": [
+        "파워도플러의 정보",
+        "Power Doppler information"
+      ],
+      "identify": "일반 파워도플러는 도플러 신호의 세기를 표시해 느린 흐름 관찰을 보조; 색도플러의 방향 지도와 구별하고 작은 혈관에서 압력·움직임을 조절",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "일반 파워도플러는 도플러 신호의 세기를 표시해 느린 흐름 관찰을 보조"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "색도플러의 방향 지도와 구별하고 작은 혈관에서 압력·움직임을 조절"
+        },
+        {
+          "label": "판독·감별",
+          "value": "일반 파워 표시의 색으로 흐름 방향이나 혈류 속도를 정하지 않음"
+        }
+      ],
+      "references": [
+        "us",
+        "us-doppler-physics"
+      ]
+    },
+    {
+      "id": "imaging-us-prf",
+      "name": "도플러 속도범위",
+      "en": "Doppler scale and PRF",
+      "kind": "imaging",
+      "category": "초음파 도플러 설정·혈류",
+      "aliases": [
+        "도플러 속도범위",
+        "Doppler scale and PRF"
+      ],
+      "identify": "펄스 반복주파수와 표시 속도범위는 검출할 흐름에 맞춰 조절; 느린 흐름이 안 보일 때 너무 높은 범위를 낮추되 잡음·겹침을 함께 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "펄스 반복주파수와 표시 속도범위는 검출할 흐름에 맞춰 조절"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "느린 흐름이 안 보일 때 너무 높은 범위를 낮추되 잡음·겹침을 함께 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "높은 범위는 느린 신호를 가릴 수 있고 너무 낮으면 빠른 흐름에서 앨리어싱 발생"
+        }
+      ],
+      "references": [
+        "us-doppler-physics"
+      ]
+    },
+    {
+      "id": "imaging-us-wall-filter",
+      "name": "도플러 벽필터",
+      "en": "Doppler wall filter",
+      "kind": "imaging",
+      "category": "초음파 도플러 설정·혈류",
+      "aliases": [
+        "도플러 벽필터",
+        "Doppler wall filter"
+      ],
+      "identify": "저주파 도플러 성분을 제거해 조직 움직임 신호를 줄이는 설정; 느린 혈류 관찰에서는 필터가 너무 높아 신호를 지우는지 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "저주파 도플러 성분을 제거해 조직 움직임 신호를 줄이는 설정"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "느린 혈류 관찰에서는 필터가 너무 높아 신호를 지우는지 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "잡음 제거와 저속 혈류 소실의 절충; 무신호를 무혈류와 같게 보지 않음"
+        }
+      ],
+      "references": [
+        "us-doppler-physics"
+      ]
+    },
+    {
+      "id": "imaging-us-aliasing",
+      "name": "도플러 앨리어싱",
+      "en": "Doppler aliasing",
+      "kind": "imaging",
+      "category": "초음파 도플러 설정·혈류",
+      "aliases": [
+        "도플러 앨리어싱",
+        "Doppler aliasing"
+      ],
+      "identify": "펄스 도플러에서 주파수 이동이 나이퀴스트 한계를 넘으면 표시가 접혀 보임; 색지도·속도범위·기준선을 확인해 진짜 방향 변화와 구별",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "펄스 도플러에서 주파수 이동이 나이퀴스트 한계를 넘으면 표시가 접혀 보임"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "색지도·속도범위·기준선을 확인해 진짜 방향 변화와 구별"
+        },
+        {
+          "label": "판독·감별",
+          "value": "색의 갑작스러운 반전을 모두 혈류 역전으로 해석하지 않음"
+        }
+      ],
+      "references": [
+        "us-doppler-physics"
+      ]
+    },
+    {
+      "id": "imaging-us-doppler-angle",
+      "name": "도플러 입사각",
+      "en": "Doppler insonation angle",
+      "kind": "imaging",
+      "category": "초음파 도플러 설정·혈류",
+      "aliases": [
+        "도플러 입사각",
+        "Doppler insonation angle"
+      ],
+      "identify": "음파와 흐름의 각도에 따라 검출 주파수 이동이 달라짐; 혈관 장축과 흐름 방향을 확인하고 속도 측정에서는 각도보정 조건 기록",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "음파와 흐름의 각도에 따라 검출 주파수 이동이 달라짐"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "혈관 장축과 흐름 방향을 확인하고 속도 측정에서는 각도보정 조건 기록"
+        },
+        {
+          "label": "판독·감별",
+          "value": "흐름에 거의 수직인 입사는 신호를 약하게 하며 이득 증가만으로 해결되지 않음"
+        }
+      ],
+      "references": [
+        "us-doppler-physics"
+      ]
+    },
+    {
+      "id": "imaging-us-infraspinatus",
+      "name": "극하근힘줄 초음파",
+      "en": "Infraspinatus tendon ultrasound",
+      "kind": "imaging",
+      "category": "초음파 어깨·팔꿈치 해부",
+      "aliases": [
+        "극하근힘줄 초음파",
+        "Infraspinatus tendon ultrasound"
+      ],
+      "identify": "어깨 뒤쪽에서 극하근을 따라 큰결절 뒤쪽 부착으로 이어지는 힘줄; 견갑극 아래 근육에서 시작해 장축·단축과 회전 동작으로 연결",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "어깨 뒤쪽에서 극하근을 따라 큰결절 뒤쪽 부착으로 이어지는 힘줄"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "견갑극 아래 근육에서 시작해 장축·단축과 회전 동작으로 연결"
+        },
+        {
+          "label": "판독·감별",
+          "value": "앞쪽 작은결절에 붙는 견갑하근과 위치·돌림 작용을 구분"
+        }
+      ],
+      "references": [
+        "us-shoulder"
+      ]
+    },
+    {
+      "id": "imaging-us-sasdbursa",
+      "name": "견봉하·삼각근하 주머니 초음파",
+      "en": "Subacromial-subdeltoid bursa ultrasound",
+      "kind": "imaging",
+      "category": "초음파 어깨·팔꿈치 해부",
+      "aliases": [
+        "견봉하·삼각근하 주머니 초음파",
+        "Subacromial-subdeltoid bursa ultrasound"
+      ],
+      "identify": "삼각근 깊은 쪽과 회전근개 얕은 쪽 사이의 잠재 공간; 층 위치를 확인하고 가벼운 압박·두 면에서 액체와 주위 조직을 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "삼각근 깊은 쪽과 회전근개 얕은 쪽 사이의 잠재 공간"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "층 위치를 확인하고 가벼운 압박·두 면에서 액체와 주위 조직을 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "정상에서는 두드러지지 않을 수 있으며 회전근개 힘줄 내부와 구별"
+        }
+      ],
+      "references": [
+        "us-shoulder"
+      ]
+    },
+    {
+      "id": "imaging-us-ac-joint",
+      "name": "견봉쇄골관절 초음파",
+      "en": "Acromioclavicular joint ultrasound",
+      "kind": "imaging",
+      "category": "초음파 어깨·팔꿈치 해부",
+      "aliases": [
+        "견봉쇄골관절 초음파",
+        "Acromioclavicular joint ultrasound"
+      ],
+      "identify": "견봉과 빗장뼈 가쪽 끝이 만나는 어깨 위쪽 관절; 두 뼈 피질과 사이 관절 간격·표층 관절낭의 위치를 연결",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "견봉과 빗장뼈 가쪽 끝이 만나는 어깨 위쪽 관절"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "두 뼈 피질과 사이 관절 간격·표층 관절낭의 위치를 연결"
+        },
+        {
+          "label": "판독·감별",
+          "value": "큰결절의 회전근개 부착이나 결절사이고랑과 다른 뼈 표지"
+        }
+      ],
+      "references": [
+        "us-shoulder"
+      ]
+    },
+    {
+      "id": "imaging-us-common-extensor",
+      "name": "공통폄근힘줄 초음파",
+      "en": "Common extensor tendon ultrasound",
+      "kind": "imaging",
+      "category": "초음파 어깨·팔꿈치 해부",
+      "aliases": [
+        "공통폄근힘줄 초음파",
+        "Common extensor tendon ultrasound"
+      ],
+      "identify": "위팔뼈 가쪽위관절융기에서 시작하는 아래팔 공통 폄근 계통 힘줄; 장축으로 기시를 확인하고 단축·입사각 변화로 섬유 배열 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "위팔뼈 가쪽위관절융기에서 시작하는 아래팔 공통 폄근 계통 힘줄"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "장축으로 기시를 확인하고 단축·입사각 변화로 섬유 배열 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "안쪽 공통굽힘근힘줄·뒤쪽 상완삼두근힘줄과 부착 표지가 다름"
+        }
+      ],
+      "references": [
+        "us-elbow"
+      ]
+    },
+    {
+      "id": "imaging-us-distal-biceps",
+      "name": "먼쪽 상완이두근힘줄 초음파",
+      "en": "Distal biceps tendon ultrasound",
+      "kind": "imaging",
+      "category": "초음파 어깨·팔꿈치 해부",
+      "aliases": [
+        "먼쪽 상완이두근힘줄 초음파",
+        "Distal biceps tendon ultrasound"
+      ],
+      "identify": "팔꿈치 앞의 상완이두근힘줄이 노뼈거친면으로 이어짐; 깊고 비스듬한 경로를 추적하며 아래팔 뒤침·엎침에 따른 부착점 관계 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "팔꿈치 앞의 상완이두근힘줄이 노뼈거친면으로 이어짐"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "깊고 비스듬한 경로를 추적하며 아래팔 뒤침·엎침에 따른 부착점 관계 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "위팔 상완근의 자뼈 부착과 구별하고 깊은 부분의 이방성을 보정"
+        }
+      ],
+      "references": [
+        "us-elbow"
+      ]
+    },
+    {
+      "id": "imaging-us-dorsal-compartments",
+      "name": "손목 등쪽 여섯 힘줄구획",
+      "en": "Six dorsal wrist tendon compartments",
+      "kind": "imaging",
+      "category": "초음파 손목·손 해부",
+      "aliases": [
+        "손목 등쪽 여섯 힘줄구획",
+        "Six dorsal wrist tendon compartments"
+      ],
+      "identify": "등쪽 폄근지지띠 아래 힘줄을 노쪽부터 여섯 구획으로 나눔; 제1 장무지외전·단무지폄, 제2 장·단요측수근폄, 제3 장무지폄; 제4 손가락·검지폄, 제5 새끼폄, 제6 척측수근폄",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "등쪽 폄근지지띠 아래 힘줄을 노쪽부터 여섯 구획으로 나눔"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "제1 장무지외전·단무지폄, 제2 장·단요측수근폄, 제3 장무지폄; 제4 손가락·검지폄, 제5 새끼폄, 제6 척측수근폄"
+        },
+        {
+          "label": "판독·감별",
+          "value": "힘줄 개수와 구획 개수는 다름; 분지·변이와 동적 손가락 운동을 함께 확인"
+        }
+      ],
+      "references": [
+        "us-wrist"
+      ]
+    },
+    {
+      "id": "imaging-us-lister",
+      "name": "리스터결절과 장무지신근",
+      "en": "Lister tubercle and extensor pollicis longus",
+      "kind": "imaging",
+      "category": "초음파 손목·손 해부",
+      "aliases": [
+        "리스터결절과 장무지신근",
+        "Lister tubercle and extensor pollicis longus"
+      ],
+      "identify": "노뼈 등쪽 결절을 기준으로 제2구획은 노쪽, 제3구획은 자쪽; 장무지신근힘줄이 결절을 돌아 엄지 쪽으로 이어지는 경로를 단축으로 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "노뼈 등쪽 결절을 기준으로 제2구획은 노쪽, 제3구획은 자쪽"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "장무지신근힘줄이 결절을 돌아 엄지 쪽으로 이어지는 경로를 단축으로 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "제1구획의 단무지신근과 이름이 비슷해도 구획·정지·경로가 다름"
+        }
+      ],
+      "references": [
+        "us-wrist"
+      ]
+    },
+    {
+      "id": "imaging-us-guyon",
+      "name": "기용관 초음파 해부",
+      "en": "Guyon canal ultrasound anatomy",
+      "kind": "imaging",
+      "category": "초음파 손목·손 해부",
+      "aliases": [
+        "기용관 초음파 해부",
+        "Guyon canal ultrasound anatomy"
+      ],
+      "identify": "콩알뼈와 갈고리뼈갈고리 주변의 손바닥 자쪽 통로에 척골신경·혈관이 위치; 정중신경이 있는 수근관과 별도로 신경·혈관 주행을 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "콩알뼈와 갈고리뼈갈고리 주변의 손바닥 자쪽 통로에 척골신경·혈관이 위치"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "정중신경이 있는 수근관과 별도로 신경·혈관 주행을 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "서로 인접한 두 통로의 내용물을 섞지 않고 뼈 표지·지지띠와의 층 관계를 비교"
+        }
+      ],
+      "references": [
+        "us-wrist"
+      ]
+    },
+    {
+      "id": "imaging-us-fcr",
+      "name": "요측수근굴근힘줄의 손목 경로",
+      "en": "Flexor carpi radialis tendon at wrist",
+      "kind": "imaging",
+      "category": "초음파 손목·손 해부",
+      "aliases": [
+        "요측수근굴근힘줄의 손목 경로",
+        "Flexor carpi radialis tendon at wrist"
+      ],
+      "identify": "요측수근굴근힘줄은 정중신경·아홉 굽힘힘줄과 같은 수근관 내부 묶음에 포함되지 않음; 앞손목 노쪽에서 힘줄을 몸쪽·먼쪽으로 추적해 별도 통로 관계 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "요측수근굴근힘줄은 정중신경·아홉 굽힘힘줄과 같은 수근관 내부 묶음에 포함되지 않음"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "앞손목 노쪽에서 힘줄을 몸쪽·먼쪽으로 추적해 별도 통로 관계 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "인접한 요골동맥과 형태·도플러·연속 경로를 비교"
+        }
+      ],
+      "references": [
+        "us-wrist"
+      ]
+    },
+    {
+      "id": "imaging-us-hip-anterior",
+      "name": "고관절 앞쪽 오목 초음파",
+      "en": "Anterior hip recess ultrasound",
+      "kind": "imaging",
+      "category": "초음파 고관절 해부",
+      "aliases": [
+        "고관절 앞쪽 오목 초음파",
+        "Anterior hip recess ultrasound"
+      ],
+      "identify": "넙다리뼈 머리·목 앞면과 관절낭 사이에서 앞쪽 관절 오목 확인; 넙다리뼈 목을 따르는 비스듬한 장축과 단축으로 뼈·낭·장요근층 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "넙다리뼈 머리·목 앞면과 관절낭 사이에서 앞쪽 관절 오목 확인"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "넙다리뼈 목을 따르는 비스듬한 장축과 단축으로 뼈·낭·장요근층 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "장요근힘줄과 관절낭 사이 주머니를 관절 오목과 구별"
+        }
+      ],
+      "references": [
+        "us-hip"
+      ]
+    },
+    {
+      "id": "imaging-us-femoral-bundle",
+      "name": "서혜부 신경·혈관 초음파",
+      "en": "Femoral neurovascular bundle ultrasound",
+      "kind": "imaging",
+      "category": "초음파 고관절 해부",
+      "aliases": [
+        "서혜부 신경·혈관 초음파",
+        "Femoral neurovascular bundle ultrasound"
+      ],
+      "identify": "서혜인대 바로 아래 대퇴신경·동맥·정맥은 일반적으로 가쪽에서 안쪽 순서; 신경 다발·혈관 내강·가벼운 압박·도플러와 몸쪽/먼쪽 주행을 함께 관찰",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "서혜인대 바로 아래 대퇴신경·동맥·정맥은 일반적으로 가쪽에서 안쪽 순서"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "신경 다발·혈관 내강·가벼운 압박·도플러와 몸쪽/먼쪽 주행을 함께 관찰"
+        },
+        {
+          "label": "판독·감별",
+          "value": "혈관 분지·중첩은 높이에 따라 달라져 한 장면을 전체 구간에 적용하지 않음"
+        }
+      ],
+      "references": [
+        "us-hip"
+      ]
+    },
+    {
+      "id": "imaging-us-gluteal-tendons",
+      "name": "큰돌기 볼기근힘줄 초음파",
+      "en": "Gluteal tendons at greater trochanter",
+      "kind": "imaging",
+      "category": "초음파 고관절 해부",
+      "aliases": [
+        "큰돌기 볼기근힘줄 초음파",
+        "Gluteal tendons at greater trochanter"
+      ],
+      "identify": "고관절 가쪽의 큰돌기 뼈 표면에 중·소둔근힘줄이 이어짐; 큰돌기의 면과 위쪽 근육을 따라 힘줄을 추적하고 두 면·각도 변화로 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "고관절 가쪽의 큰돌기 뼈 표면에 중·소둔근힘줄이 이어짐"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "큰돌기의 면과 위쪽 근육을 따라 힘줄을 추적하고 두 면·각도 변화로 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "표층 장경인대·주머니와 깊은 힘줄 부착을 서로 다른 층으로 설명"
+        }
+      ],
+      "references": [
+        "us-hip"
+      ]
+    },
+    {
+      "id": "imaging-us-suprapatellar",
+      "name": "슬개상 관절 오목 초음파",
+      "en": "Suprapatellar recess ultrasound",
+      "kind": "imaging",
+      "category": "초음파 무릎 해부",
+      "aliases": [
+        "슬개상 관절 오목 초음파",
+        "Suprapatellar recess ultrasound"
+      ],
+      "identify": "슬개골 위에서 대퇴사두근힘줄 깊은 쪽의 관절 오목 확인; 슬개상 지방패드와 넙다리뼈앞 지방패드 사이 공간을 두 면에서 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "슬개골 위에서 대퇴사두근힘줄 깊은 쪽의 관절 오목 확인"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "슬개상 지방패드와 넙다리뼈앞 지방패드 사이 공간을 두 면에서 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "슬개골 앞 피하 주머니와 층·위치가 다르며 압박으로 작은 액체가 이동할 수 있음"
+        }
+      ],
+      "references": [
+        "us-knee"
+      ]
+    },
+    {
+      "id": "imaging-us-pes-anserinus",
+      "name": "거위발힘줄 초음파",
+      "en": "Pes anserinus tendons ultrasound",
+      "kind": "imaging",
+      "category": "초음파 무릎 해부",
+      "aliases": [
+        "거위발힘줄 초음파",
+        "Pes anserinus tendons ultrasound"
+      ],
+      "identify": "봉공근·박근·반건양근의 힘줄이 정강뼈 몸쪽 안쪽으로 이어짐; 몸쪽 근육 연결과 먼쪽 부착을 추적해 안쪽곁인대·주머니와 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "봉공근·박근·반건양근의 힘줄이 정강뼈 몸쪽 안쪽으로 이어짐"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "몸쪽 근육 연결과 먼쪽 부착을 추적해 안쪽곁인대·주머니와 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "가쪽 종아리뼈머리에 붙는 대퇴이두근힘줄과 정지 뼈·면이 다름"
+        }
+      ],
+      "references": [
+        "us-knee"
+      ]
+    },
+    {
+      "id": "imaging-us-mcl",
+      "name": "무릎 안쪽곁인대 초음파",
+      "en": "Medial collateral ligament ultrasound",
+      "kind": "imaging",
+      "category": "초음파 무릎 해부",
+      "aliases": [
+        "무릎 안쪽곁인대 초음파",
+        "Medial collateral ligament ultrasound"
+      ],
+      "identify": "넙다리뼈 안쪽관절융기에서 정강뼈 안쪽으로 이어지는 인대; 관절선·뼈 표지와 얕은/깊은 층을 따라 장축으로 위치 확인",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "넙다리뼈 안쪽관절융기에서 정강뼈 안쪽으로 이어지는 인대"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "관절선·뼈 표지와 얕은/깊은 층을 따라 장축으로 위치 확인"
+        },
+        {
+          "label": "판독·감별",
+          "value": "거위발힘줄과 인대는 부착·층이 다르며 인대의 한 단면 밝기만으로 상태를 정하지 않음"
+        }
+      ],
+      "references": [
+        "us-knee"
+      ]
+    },
+    {
+      "id": "imaging-us-lcl-biceps",
+      "name": "무릎 가쪽 부착 구조 초음파",
+      "en": "Lateral knee attachments ultrasound",
+      "kind": "imaging",
+      "category": "초음파 무릎 해부",
+      "aliases": [
+        "무릎 가쪽 부착 구조 초음파",
+        "Lateral knee attachments ultrasound"
+      ],
+      "identify": "종아리뼈머리에 가쪽곁인대와 대퇴이두근힘줄 계통이 연결; 가쪽곁인대는 넙다리뼈 가쪽위관절융기, 힘줄은 뒤넙다리 근육 쪽으로 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "종아리뼈머리에 가쪽곁인대와 대퇴이두근힘줄 계통이 연결"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "가쪽곁인대는 넙다리뼈 가쪽위관절융기, 힘줄은 뒤넙다리 근육 쪽으로 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "정강뼈 앞가쪽의 거디결절에 붙는 장경인대와 정지 표지를 구별"
+        }
+      ],
+      "references": [
+        "us-knee"
+      ]
+    },
+    {
+      "id": "imaging-us-baker-neck",
+      "name": "오금 주머니 연결부 초음파",
+      "en": "Popliteal bursal neck ultrasound",
+      "kind": "imaging",
+      "category": "초음파 무릎 해부",
+      "aliases": [
+        "오금 주머니 연결부 초음파",
+        "Popliteal bursal neck ultrasound"
+      ],
+      "identify": "반막양근힘줄과 비복근 안쪽갈래 사이 주머니의 연결부를 확인; 관절과 이어지는 목·위치·내부 에코를 두 면에서 보고 오금 혈관과 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "반막양근힘줄과 비복근 안쪽갈래 사이 주머니의 연결부를 확인"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "관절과 이어지는 목·위치·내부 에코를 두 면에서 보고 오금 혈관과 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "오금의 모든 액체성 구조를 베이커낭종으로 이름 붙이지 않음"
+        }
+      ],
+      "references": [
+        "us-knee"
+      ]
+    },
+    {
+      "id": "imaging-us-tarsal-tunnel",
+      "name": "발목굴 초음파 해부",
+      "en": "Tarsal tunnel ultrasound anatomy",
+      "kind": "imaging",
+      "category": "초음파 발목·발 해부",
+      "aliases": [
+        "발목굴 초음파 해부",
+        "Tarsal tunnel ultrasound anatomy"
+      ],
+      "identify": "안쪽복사 뒤에서 뒤정강·긴발가락굽힘힘줄, 뒤정강혈관·경골신경, 긴엄지굽힘힘줄을 구분; 뼈 표지에 대한 상대 위치와 발가락 움직임·도플러·신경 다발을 함께 추적",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "안쪽복사 뒤에서 뒤정강·긴발가락굽힘힘줄, 뒤정강혈관·경골신경, 긴엄지굽힘힘줄을 구분"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "뼈 표지에 대한 상대 위치와 발가락 움직임·도플러·신경 다발을 함께 추적"
+        },
+        {
+          "label": "판독·감별",
+          "value": "단축의 여러 원을 힘줄로만 세지 않고 관찰 높이에 따른 주행 변화를 확인"
+        }
+      ],
+      "references": [
+        "us-ankle"
+      ]
+    },
+    {
+      "id": "imaging-us-atfl",
+      "name": "전거비인대 초음파",
+      "en": "Anterior talofibular ligament ultrasound",
+      "kind": "imaging",
+      "category": "초음파 발목·발 해부",
+      "aliases": [
+        "전거비인대 초음파",
+        "Anterior talofibular ligament ultrasound"
+      ],
+      "identify": "가쪽복사 앞면의 종아리뼈에서 목말뼈로 이어지는 인대; 두 뼈 부착점을 연결하는 면에서 섬유 연속성을 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "가쪽복사 앞면의 종아리뼈에서 목말뼈로 이어지는 인대"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "두 뼈 부착점을 연결하는 면에서 섬유 연속성을 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "더 몸쪽의 전경비인대·발꿈치뼈로 가는 종비인대와 끝점이 다름"
+        }
+      ],
+      "references": [
+        "us-ankle"
+      ]
+    },
+    {
+      "id": "imaging-us-cfl",
+      "name": "종비인대 초음파",
+      "en": "Calcaneofibular ligament ultrasound",
+      "kind": "imaging",
+      "category": "초음파 발목·발 해부",
+      "aliases": [
+        "종비인대 초음파",
+        "Calcaneofibular ligament ultrasound"
+      ],
+      "identify": "가쪽복사 끝에서 발꿈치뼈로 이어지고 종아리근힘줄 깊은 쪽에 놓임; 발등굽힘 자세에서 부착 방향·가쪽 힘줄과의 층 관계를 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "가쪽복사 끝에서 발꿈치뼈로 이어지고 종아리근힘줄 깊은 쪽에 놓임"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "발등굽힘 자세에서 부착 방향·가쪽 힘줄과의 층 관계를 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "앞쪽 목말뼈에 붙는 전거비인대와 관찰 면·먼쪽 뼈 표지가 다름"
+        }
+      ],
+      "references": [
+        "us-ankle"
+      ]
+    },
+    {
+      "id": "imaging-us-plantar-fascia",
+      "name": "족저근막 초음파",
+      "en": "Plantar fascia ultrasound",
+      "kind": "imaging",
+      "category": "초음파 발목·발 해부",
+      "aliases": [
+        "족저근막 초음파",
+        "Plantar fascia ultrasound"
+      ],
+      "identify": "발꿈치뼈 발바닥쪽 결절에서 앞발 쪽으로 이어지는 섬유성 띠; 발꿈치 기시 부근에서 장축·단축으로 섬유·두께를 보고 같은 위치·자세로 비교",
+      "facts": [
+        {
+          "label": "원리·표지",
+          "value": "발꿈치뼈 발바닥쪽 결절에서 앞발 쪽으로 이어지는 섬유성 띠"
+        },
+        {
+          "label": "관찰·적용",
+          "value": "발꿈치 기시 부근에서 장축·단축으로 섬유·두께를 보고 같은 위치·자세로 비교"
+        },
+        {
+          "label": "판독·감별",
+          "value": "발꿈치 뒤에 붙는 아킬레스힘줄과 면·연결 근육이 다름; 단일 두께값으로 원인을 확정하지 않음"
+        }
+      ],
+      "references": [
+        "us-ankle"
       ]
     }
   ],
