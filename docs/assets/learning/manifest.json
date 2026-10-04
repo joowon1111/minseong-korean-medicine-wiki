@@ -1,54 +1,54 @@
 {
   "schema": 1,
-  "version": "20261003-13",
+  "version": "20261004-01",
   "subjects": [
     {
       "id": "anatomy",
       "title": "기초 해부학",
       "cards": 620,
-      "questions": 3939,
+      "questions": 3947,
       "file": "anatomy.json"
     },
     {
       "id": "acupoints",
       "title": "경혈학",
       "cards": 361,
-      "questions": 1116,
+      "questions": 1124,
       "file": "acupoints.json"
     },
     {
       "id": "acupuncture",
       "title": "침구학",
       "cards": 169,
-      "questions": 560,
+      "questions": 568,
       "file": "acupuncture.json"
     },
     {
       "id": "herbs",
       "title": "본초학",
       "cards": 184,
-      "questions": 825,
+      "questions": 833,
       "file": "herbs.json"
     },
     {
       "id": "formulas",
       "title": "방제학",
       "cards": 110,
-      "questions": 474,
+      "questions": 482,
       "file": "formulas.json"
     },
     {
       "id": "shanghanlun",
       "title": "상한론",
       "cards": 70,
-      "questions": 280,
+      "questions": 288,
       "file": "shanghanlun.json"
     },
     {
       "id": "sasang",
       "title": "사상의학",
       "cards": 48,
-      "questions": 202,
+      "questions": 210,
       "file": "sasang.json"
     }
   ]

@@ -54965,6 +54965,430 @@
       "category": "족양명위경",
       "source": "/learning/acupoints/#advanced-acupoints-expert-17",
       "relatedSource": "/acupuncture/points/st34/"
+    },
+    {
+      "id": "clinical-acupoints-01",
+      "cardId": "point-PC6",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "제시한 표준 위치와 일치하는 혈은?",
+      "context": "아래팔 앞쪽에서 손목 손바닥쪽 주름을 기준으로 몸쪽 2촌 지점을 찾는다. 장장근힘줄과 요측수근굴근힘줄 사이이며, 손목 주름 자체에 있는 혈과 구별한다.",
+      "discriminator": "같은 두 힘줄 사이여도 손목 주름 위 2촌이라는 높이가 다르다.",
+      "options": [
+        {
+          "text": "간사",
+          "detail": "앞쪽 두 힘줄 사이이나 손목 주름 위 3촌이라는 높이가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#clinical-acupoints-01"
+        },
+        {
+          "text": "극문",
+          "detail": "앞쪽 힘줄 사이의 심포경 혈이지만 손목 주름 위 5촌으로 더 몸쪽이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#clinical-acupoints-01"
+        },
+        {
+          "text": "외관",
+          "detail": "손목 주름 위 2촌이라는 수치는 비슷하나 아래팔 뒤쪽 표지와 경맥이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#clinical-acupoints-01"
+        },
+        {
+          "text": "내관",
+          "detail": "앞쪽 두 힘줄 사이에서 손목 주름 위 2촌이라는 위치에 해당한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#clinical-acupoints-01"
+        },
+        {
+          "text": "대릉",
+          "detail": "동일한 두 힘줄 사이를 쓰지만 손목 주름 위라는 점에서 내관과 높이가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC6",
+          "source": "/learning/acupoints/#clinical-acupoints-01"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "내관 — 높이·면·힘줄 표지를 동시에 만족하는 혈명을 고른다.",
+      "kind": "clinical",
+      "category": "수궐음심포경",
+      "source": "/learning/acupoints/#clinical-acupoints-01",
+      "relatedSource": "/acupuncture/points/pc6-neiguan/"
+    },
+    {
+      "id": "clinical-acupoints-02",
+      "cardId": "point-LU9",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "높이는 비슷하지만 힘줄과 맥박 표지로 구별되는 혈은?",
+      "context": "손목 노쪽에서 요골 경상돌기와 주상골을 표지로 삼아 손바닥쪽 주름 부근의 오목한 곳을 확인한다. 요골동맥이 지나는 부위이며, 장무지외전근힘줄의 손바닥쪽이다.",
+      "discriminator": "노쪽 손목에서도 손바닥쪽·손등쪽과 장무지외전근힘줄의 어느 쪽인지가 다르다.",
+      "options": [
+        {
+          "text": "열결",
+          "detail": "폐경의 노쪽 아래팔 혈이지만 손목 주름 위 1.5촌과 경상돌기 몸쪽 관계를 확인한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#clinical-acupoints-02"
+        },
+        {
+          "text": "대릉",
+          "detail": "손바닥쪽 손목 주름에 있으나 장장근·요측수근굴근 사이이므로 노쪽 동맥 표지와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#clinical-acupoints-02"
+        },
+        {
+          "text": "태연",
+          "detail": "노쪽 손바닥 주름 부근에서 동맥과 장무지외전근힘줄의 관계를 사용하는 위치이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#clinical-acupoints-02"
+        },
+        {
+          "text": "양계",
+          "detail": "노쪽 손목이지만 손등쪽 해부학적 코담배갑의 힘줄 사이를 표지로 삼는다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#clinical-acupoints-02"
+        },
+        {
+          "text": "경거",
+          "detail": "폐경의 인접 혈이지만 손목 주름 위 1촌으로 높이를 달리 확인한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU9",
+          "source": "/learning/acupoints/#clinical-acupoints-02"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "태연 — 태연의 혈명에서 표준 위치를 복습하고, 인접 혈의 힘줄·동맥·면 차이를 구별한다. 위치 확인은 시술법을 대신하지 않는다.",
+      "kind": "clinical",
+      "category": "수태음폐경",
+      "source": "/learning/acupoints/#clinical-acupoints-02",
+      "relatedSource": "/acupuncture/points/lu9-taiyuan/"
+    },
+    {
+      "id": "clinical-acupoints-03",
+      "cardId": "point-KI3",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "두 힘줄·뼈 표지 사이의 위치에 해당하는 혈은?",
+      "context": "발목 안쪽에서 안쪽복사 끝과 아킬레스힘줄 사이 오목한 곳을 확인한다. 복사 끝과 같은 높이이며 아래쪽으로 이동한 위치는 아니다.",
+      "discriminator": "안쪽복사 끝 높이와 아킬레스힘줄 사이를 함께 사용한다.",
+      "options": [
+        {
+          "text": "부류",
+          "detail": "태계 위 2촌, 아킬레스힘줄 앞쪽 관계를 사용하므로 높이가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#clinical-acupoints-03"
+        },
+        {
+          "text": "태계",
+          "detail": "안쪽복사 끝과 같은 높이에서 아킬레스힘줄 사이의 오목한 곳에 해당한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#clinical-acupoints-03"
+        },
+        {
+          "text": "조해",
+          "detail": "안쪽복사 아래의 오목한 곳이므로 힘줄 사이 같은 높이인 위치와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#clinical-acupoints-03"
+        },
+        {
+          "text": "수천",
+          "detail": "태계 아래쪽에 위치하는 극혈로 제시된 높이에서 벗어난다.",
+          "owner": "오답 감별",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#clinical-acupoints-03"
+        },
+        {
+          "text": "곤륜",
+          "detail": "아킬레스힘줄과 복사 사이지만 가쪽복사 표지를 사용하는 점이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-KI3",
+          "source": "/learning/acupoints/#clinical-acupoints-03"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "태계 — 같은 발목 영역에서 안팎 복사·높이·힘줄 관계를 합쳐 구별한다.",
+      "kind": "clinical",
+      "category": "족소음신경",
+      "source": "/learning/acupoints/#clinical-acupoints-03",
+      "relatedSource": "/acupuncture/points/ki3-taixi/"
+    },
+    {
+      "id": "clinical-acupoints-04",
+      "cardId": "point-GB34",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "뼈의 종류와 오목한 곳의 방향이 일치하는 혈은?",
+      "context": "무릎 가쪽 아래에서 비골두를 먼저 촉지했다. 비골두 바로 앞아래의 오목한 곳을 찾는다. 경골 안쪽 관절융기 아래의 오목한 곳은 다른 혈로 구분한다.",
+      "discriminator": "경골이 아닌 비골두의 앞아래라는 뼈·방향 표지이다.",
+      "options": [
+        {
+          "text": "양릉천",
+          "detail": "비골두 앞아래의 오목한 곳이라는 표지와 일치한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#clinical-acupoints-04"
+        },
+        {
+          "text": "음릉천",
+          "detail": "무릎 아래의 오목한 곳이라는 점은 비슷하나 경골 안쪽 관절융기 아래이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#clinical-acupoints-04"
+        },
+        {
+          "text": "족삼리",
+          "detail": "무릎 아래 앞쪽에서 경골과 독비 아래의 기준을 쓰며 비골두 앞아래 표지와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#clinical-acupoints-04"
+        },
+        {
+          "text": "외구",
+          "detail": "담경의 가쪽 종아리 혈이지만 무릎 부근 비골두 바로 아래 위치가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#clinical-acupoints-04"
+        },
+        {
+          "text": "음곡",
+          "detail": "무릎 뒤안쪽 주름의 힘줄 사이를 사용하며 비골두 앞아래 오목한 곳과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB34",
+          "source": "/learning/acupoints/#clinical-acupoints-04"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "양릉천 — 같은 ‘무릎 아래’라는 말보다 뼈 이름과 방향이 결정적인 위치 단서이다.",
+      "kind": "clinical",
+      "category": "족소양담경",
+      "source": "/learning/acupoints/#clinical-acupoints-04",
+      "relatedSource": "/acupuncture/points/gb34-yanglingquan/"
+    },
+    {
+      "id": "clinical-acupoints-05",
+      "cardId": "point-SP6",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "같은 높이의 혈을 뼈의 면으로 구별하면?",
+      "context": "안쪽복사 가장 높은 곳에서 몸쪽 3촌을 잰다. 그 높이에서 경골 안쪽면의 뒤모서리 바로 뒤를 확인한다. 앞모서리나 가쪽 비골의 표지를 사용하지 않는다.",
+      "discriminator": "안쪽복사 위 3촌과 경골 안쪽면 뒤모서리를 함께 만족해야 한다.",
+      "options": [
+        {
+          "text": "현종",
+          "detail": "복사 위 3촌이라는 높이는 비슷하나 가쪽복사와 비골 앞쪽 표지를 사용한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#clinical-acupoints-05"
+        },
+        {
+          "text": "누곡",
+          "detail": "경골 안쪽면 뒤쪽 표지는 비슷하지만 안쪽복사 위 6촌으로 높이가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#clinical-acupoints-05"
+        },
+        {
+          "text": "지기",
+          "detail": "비경의 경골 안쪽면 뒤쪽에 있으나 음릉천 아래 3촌이라는 별도 기준이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#clinical-acupoints-05"
+        },
+        {
+          "text": "부류",
+          "detail": "안쪽 아래다리 혈이나 태계 위 2촌에서 아킬레스힘줄 앞쪽을 표지로 한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#clinical-acupoints-05"
+        },
+        {
+          "text": "삼음교",
+          "detail": "안쪽복사 위 3촌에서 경골 안쪽면 뒤모서리 뒤의 위치이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-SP6",
+          "source": "/learning/acupoints/#clinical-acupoints-05"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "삼음교 — 골도분촌의 기준점과 경골의 면을 함께 읽어 높이가 겹치는 혈을 구별한다.",
+      "kind": "clinical",
+      "category": "족태음비경",
+      "source": "/learning/acupoints/#clinical-acupoints-05",
+      "relatedSource": "/acupuncture/points/sp6-sanyinjiao/"
+    },
+    {
+      "id": "clinical-acupoints-06",
+      "cardId": "point-CV12",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "이 비례 위치에 해당하는 혈은?",
+      "context": "앞정중선에서 배꼽 중심과 흉골체 아래끝 사이를 표준 8촌 구간으로 삼는다. 배꼽에서 위쪽으로 구간의 절반을 이동한 지점을 찾는다.",
+      "discriminator": "8촌의 절반은 배꼽 위 4촌이다.",
+      "options": [
+        {
+          "text": "하완",
+          "detail": "배꼽 위 2촌으로 제시된 구간의 4분의 1에 해당한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#clinical-acupoints-06"
+        },
+        {
+          "text": "건리",
+          "detail": "배꼽 위 3촌으로 절반보다 아래에 위치한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#clinical-acupoints-06"
+        },
+        {
+          "text": "거궐",
+          "detail": "배꼽 위 6촌으로 절반보다 위에 위치하는 심 모혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#clinical-acupoints-06"
+        },
+        {
+          "text": "중완",
+          "detail": "배꼽 위 4촌이므로 제시된 8촌 구간의 절반에 해당한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#clinical-acupoints-06"
+        },
+        {
+          "text": "상완",
+          "detail": "배꼽 위 5촌으로 중완보다 몸쪽이므로 절반 위치가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-CV12",
+          "source": "/learning/acupoints/#clinical-acupoints-06"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "중완 — 비례 길이를 실제 위치와 연결하며 촌수를 고정된 센티미터로 바꾸지 않는다.",
+      "kind": "clinical",
+      "category": "임맥",
+      "source": "/learning/acupoints/#clinical-acupoints-06",
+      "relatedSource": "/acupuncture/points/cv12-zhongwan/"
+    },
+    {
+      "id": "clinical-acupoints-07",
+      "cardId": "point-BL23",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "높이·가쪽 거리·특정혈 속성을 모두 충족하는 혈은?",
+      "context": "제2요추 극돌기 아래끝 높이에서 뒤정중선 가쪽 1.5촌을 확인했다. 학습자는 같은 높이의 외측 방광경 혈과 구별하면서 신의 배수혈을 찾고 있다.",
+      "discriminator": "제2요추 높이에서는 1.5촌 선과 3촌 선을 구별한다.",
+      "options": [
+        {
+          "text": "대장수",
+          "detail": "내측선의 대장 배수혈로 제4요추 높이에 있어 높이와 장부가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#clinical-acupoints-07"
+        },
+        {
+          "text": "삼초수",
+          "detail": "내측선의 삼초 배수혈이며 제1요추 높이를 사용한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#clinical-acupoints-07"
+        },
+        {
+          "text": "신수",
+          "detail": "제2요추 극돌기 아래끝 높이, 가쪽 1.5촌이며 신의 배수혈이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#clinical-acupoints-07"
+        },
+        {
+          "text": "지실",
+          "detail": "제2요추 높이는 같지만 가쪽 3촌의 외측선이어서 제시된 거리와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#clinical-acupoints-07"
+        },
+        {
+          "text": "기해수",
+          "detail": "내측선은 같지만 제3요추 극돌기 아래끝 높이를 사용한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL23",
+          "source": "/learning/acupoints/#clinical-acupoints-07"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "신수 — 표준 위치에서 높이와 횡방향 거리, 배수혈의 장부 연결을 따로 확인한다.",
+      "kind": "clinical",
+      "category": "족태양방광경",
+      "source": "/learning/acupoints/#clinical-acupoints-07",
+      "relatedSource": "/acupuncture/points/bl23-shenshu/"
+    },
+    {
+      "id": "clinical-acupoints-08",
+      "cardId": "point-LI4",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "혈명과 표준 뼈 표지를 올바르게 연결한 것은?",
+      "context": "손등에서 첫째·둘째 중수골을 구별한 뒤 둘째 중수골 중점의 노쪽을 기준으로 위치를 확인한다. 손가락 사이 끝이나 손목의 힘줄 오목한 곳과 구별해야 한다.",
+      "discriminator": "첫째·둘째 중수골 사이에서도 둘째 중수골 중점 노쪽이라는 기준이 핵심이다.",
+      "options": [
+        {
+          "text": "후계 — 둘째 중수골 중점 노쪽",
+          "detail": "손의 가쪽 혈이지만 새끼손가락 쪽 다섯째 중수지관절 몸쪽 표지와 연결된다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI4",
+          "source": "/learning/acupoints/#clinical-acupoints-08"
+        },
+        {
+          "text": "합곡 — 둘째 중수골 중점 노쪽",
+          "detail": "표준 혈의 뼈 표지를 정확히 연결한 조합이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LI4",
+          "source": "/learning/acupoints/#clinical-acupoints-08"
+        },
+        {
+          "text": "삼간 — 둘째 중수골 중점 노쪽",
+          "detail": "둘째 중수골 관련 혈이지만 삼간은 둘째 중수지관절 몸쪽 오목한 곳을 사용한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI4",
+          "source": "/learning/acupoints/#clinical-acupoints-08"
+        },
+        {
+          "text": "이간 — 둘째 중수골 중점 노쪽",
+          "detail": "검지 노쪽 혈이지만 둘째 중수지관절 먼쪽 오목한 곳을 사용하는 위치이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI4",
+          "source": "/learning/acupoints/#clinical-acupoints-08"
+        },
+        {
+          "text": "양계 — 둘째 중수골 중점 노쪽",
+          "detail": "노쪽 손목 힘줄 사이의 오목한 곳을 사용하므로 중수골 중점 표지와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LI4",
+          "source": "/learning/acupoints/#clinical-acupoints-08"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "합곡 — 합곡은 코드 회상이 아니라 혈명과 뼈의 상대 위치를 정확히 연결하는 대상으로 평가한다.",
+      "kind": "clinical",
+      "category": "수양명대장경",
+      "source": "/learning/acupoints/#clinical-acupoints-08",
+      "relatedSource": "/acupuncture/points/li4-hegu/"
     }
   ]
 }

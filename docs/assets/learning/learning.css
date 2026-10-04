@@ -33,3 +33,9 @@
 
 .learning-answer-form{display:flex;gap:.6rem;align-items:center;flex-wrap:wrap;margin:1rem 0}.learning-answer-form input{flex:1;min-width:160px}.learning-subject-grid>a.learning-anatomy{grid-column:1/-1}
 @media(max-width:700px){.learning-subjects{grid-template-columns:repeat(3,minmax(0,1fr))}}
+/* Structured case observations stay readable in narrow quiz panels. */
+.learning-table-wrap { overflow-x: auto; margin: 1rem 0; }
+.learning-observations { width: 100%; border-collapse: collapse; font-size: .92rem; }
+.learning-observations caption { text-align: left; font-weight: 600; margin-bottom: .5rem; }
+.learning-observations th, .learning-observations td { padding: .6rem .75rem; border: 1px solid var(--md-default-fg-color--lightest); text-align: left; }
+.learning-observations thead { background: var(--md-code-bg-color); }

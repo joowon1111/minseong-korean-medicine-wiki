@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261003-13';
+  const VERSION = '20261004-01';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
@@ -219,12 +219,13 @@
             : (subject === 'shanghanlun' || subject === 'sasang') ? [['', '전체 문제 유형'], ['original', '원문·표지어 → 우리말 풀이'], ['interpretation', '조문·병증 해석'], ['treatment', '치법·처방 연결'], ...(subject === 'sasang' ? [['formula', '주요 처방 감별']] : []), ['case', '증례·배합 → 조문·병증 찾기']]
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
           types.push(['advanced', '통합·감별 (중·상)']);
+          types.push(['clinical', '증례·배혈·본초 추론 (5지선다)']);
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
           kinds.addEventListener('change', () => {
             questionKind = kinds.value;
-            if (questionKind && questionKind !== 'advanced' && (difficulty === 'high' || difficulty === 'expert')) difficulty = '';
-            if (questionKind === 'advanced' && difficulty === 'basic') difficulty = '';
+            if (questionKind && !['advanced', 'clinical'].includes(questionKind) && (difficulty === 'high' || difficulty === 'expert')) difficulty = '';
+            if (['advanced', 'clinical'].includes(questionKind) && difficulty === 'basic') difficulty = '';
             restart();
           });
           stage.append(kinds);
@@ -233,8 +234,8 @@
           levels.value = difficulty;
           levels.addEventListener('change', () => {
             difficulty = levels.value;
-            if (difficulty === 'high' || difficulty === 'expert') questionKind = 'advanced';
-            else if (difficulty === 'basic' && questionKind === 'advanced') questionKind = '';
+            if ((difficulty === 'high' || difficulty === 'expert') && questionKind !== 'clinical') questionKind = 'advanced';
+            else if (difficulty === 'basic' && ['advanced', 'clinical'].includes(questionKind)) questionKind = '';
             restart();
           });
           stage.append(levels, node('p', '하: 단일 개념 회상 · 중: 유사 구조·병증 감별 · 상: 예외·조건 변화·복수 단서 판단. 출제 의도에 따른 난이도입니다.', {class: 'learning-note'}));
@@ -258,6 +259,17 @@
       stage.append(node('p', ({high: '중', expert: '상'}[q.difficulty] || '하') + ' · ' + q.category + ' · ' + (session.index + 1) + ' / ' + session.questions.length, {class: 'learning-eyebrow'}),
         node('h3', q.prompt, {tabindex: '-1'}));
       if (q.context) stage.append(node('p', q.context, {class: 'learning-prompt'}));
+      if (q.table) {
+        const wrap = node('div', undefined, {class: 'learning-table-wrap', role: 'region', 'aria-label': q.table.caption, tabindex: '0'});
+        const table = node('table', undefined, {class: 'learning-observations'});
+        table.append(node('caption', q.table.caption));
+        const head = node('thead'), header = node('tr');
+        q.table.headers.forEach(label => header.append(node('th', label, {scope: 'col'})));
+        head.append(header); table.append(head);
+        const body = node('tbody');
+        q.table.rows.forEach(values => { const row = node('tr'); values.forEach((value, i) => row.append(node(i ? 'td' : 'th', value, i ? undefined : {scope: 'row'}))); body.append(row); });
+        table.append(body); wrap.append(table); stage.append(wrap);
+      }
       if (q.diagram) stage.append(picture(q.diagram, subject === 'anatomy' ? '강조된 해부 구조를 식별하는 도해' : '붉은 점의 경혈을 맞히는 도해'));
       const options = node('div', undefined, {class: 'learning-options', role: 'group', 'aria-label': '정답 보기'});
       q.options.forEach((option, i) => {
@@ -275,14 +287,14 @@
       stage.append(options);
       if (session.answered) {
         const feedback = node('div', undefined, {class: 'learning-feedback', tabindex: '-1'});
-        feedback.append(node('strong', session.selected === q.answer ? '정답이에요.' : '다시 확인해 보세요. 정답은 ' + (q.answer + 1) + '번입니다.'), node('p', q.explanation), sourceLink(q.source, q.kind === 'advanced' ? '이 문항의 전체 해설 →' : undefined));
+        feedback.append(node('strong', session.selected === q.answer ? '정답이에요.' : '다시 확인해 보세요. 정답은 ' + (q.answer + 1) + '번입니다.'), node('p', q.explanation), sourceLink(q.source, ['advanced', 'clinical'].includes(q.kind) ? '이 문항의 전체 해설 →' : undefined));
         if (q.relatedSource) feedback.append(sourceLink(q.relatedSource, '연결 학습 원문 →'));
         if (q.discriminator) feedback.append(node('p', '결정적 감별 단서: ' + q.discriminator));
         if (Number.isInteger(q.nearestWrong)) feedback.append(node('p', '가장 가까운 오답: ' + (q.nearestWrong + 1) + '번 — ' + q.options[q.nearestWrong].detail));
-        const details = node('details'), summary = node('summary', q.kind === 'advanced' ? '정답 근거와 오답 감별' : '보기별 설명과 원문'); details.append(summary);
+        const details = node('details'), summary = node('summary', ['advanced', 'clinical'].includes(q.kind) ? '정답 근거와 오답 감별' : '보기별 설명과 원문'); details.append(summary);
         q.options.forEach((option, i) => {
           const p = node('p', (i + 1) + '번 · ' + option.owner + ' — ' + (option.detail || option.text) + ' ');
-          p.append(sourceLink(option.source, q.kind === 'advanced' ? '문항 해설 →' : '해당 원문 →')); details.append(p);
+          p.append(sourceLink(option.source, ['advanced', 'clinical'].includes(q.kind) ? '문항 해설 →' : '해당 원문 →')); details.append(p);
         });
         feedback.append(details); stage.append(feedback);
         stage.append(button(session.index + 1 === session.questions.length ? '결과 보기' : '다음 문제 →', () => { session.index += 1; session.answered = false; session.selected = undefined; render(); focusHeading(); }, {class: 'learning-primary'}));
