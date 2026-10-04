@@ -115,9 +115,9 @@ class StudentLearning(unittest.TestCase):
                 if r.get('sourceKind') == 'cpg':
                     facts = {f['label']: f['value'] for f in by_id[r['id']]['facts']}
                     self.assertNotIn('원문', facts)
-                    self.assertIn('CPG', facts['판본·범위'])
+                    self.assertIn('임상진료지침', facts['판본·범위'])
                     self.assertIn('원전 조문 본문 아님', facts['원문 구분'])
-                    self.assertEqual(by_id[r['id']]['referenceLabel'], '병증 CPG·인용 원문')
+                    self.assertEqual(by_id[r['id']]['referenceLabel'], '병증 임상진료지침·인용 원문')
         sasang = {c['id']: c for c in self.decks['sasang']['cards']}
         self.assertIn('7-30', str(sasang['sasang-detail-taeeum']['facts']))
         self.assertIn('7-30', str(sasang['sasang-detail-soeum']['facts']))
@@ -375,12 +375,12 @@ class StudentLearning(unittest.TestCase):
         from collections import Counter
         payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
         self.assertEqual(payload['questionsPerLevel'], 18)
-        self.assertEqual(len(payload['questions']), 348)
-        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 348)
-        self.assertEqual(len({q['context'] for q in payload['questions']}), 348)
+        self.assertEqual(len(payload['questions']), 396)
+        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 396)
+        self.assertEqual(len({q['context'] for q in payload['questions']}), 396)
         for subject, deck in self.decks.items():
             cases = [q for q in deck['questions'] if q['kind'] == 'clinical']
-            per_level = 42 if subject in ('shanghanlun', 'sasang') else 18
+            per_level = 42 if subject in ('anatomy', 'shanghanlun', 'sasang') else 18
             self.assertEqual(Counter(q['difficulty'] for q in cases), {'high': per_level, 'expert': per_level})
             self.assertEqual({q['id'] for q in cases}, {f'clinical-{subject}-{n:02}' for n in range(1, per_level * 2 + 1)})
             self.assertEqual({q['answer'] for q in cases}, set(range(5)))
@@ -408,8 +408,8 @@ class StudentLearning(unittest.TestCase):
         self.assertEqual(manifest['version'], version)
         self.assertIn('assets/learning/learning.js?v=' + version, config)
         hub = (study.DOCS / 'learning/index.md').read_text()
-        self.assertIn('자체 작성한 **348문제(중 174·상 174)**', hub)
-        self.assertIn('상한론·사상의학은 각각 **84문제**', hub)
+        self.assertIn('자체 작성한 **396문제(중 198·상 198)**', hub)
+        self.assertIn('기초 해부학·상한론·사상의학은 각각 **84문제**', hub)
 
     def test_hard_classical_cases_keep_clause_numbers_and_source_claims_precise(self):
         sh = {q['id']: q for q in self.decks['shanghanlun']['questions'] if q['kind'] == 'advanced'}
