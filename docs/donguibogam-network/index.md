@@ -59,6 +59,12 @@ last_reviewed: 2026-08-22
 
 원문의 심·담·비는 전통적 기능 설명입니다. 불안장애·심장질환·담낭질환을 직접 지칭하지 않습니다. 재진에서는 수면일지와 식후 증상, 두근거림의 시간·활동 관계를 함께 비교합니다. [발췌 출처와 해석 기준](../classics/donguibogam.md#selected-clinical-passages)
 
+### 배변의 건조·허약과 윤장 처방 {#bowel-formula-pathway}
+
+내경편 권4 대변의 비약환은 건조한 변과 진액부족을 읽는 마자인환 계열입니다. 변비라는 이름보다 **변의 굳기·힘주기·팽만과 전신 허약**을 함께 확인합니다. [변비의 원문 해석](../conditions/constipation.md#classical-clinical-reading)에서 진액·윤조의 관점을 읽고, [마자인환의 동의보감 수록본](../formulas/mazi-ren-wan.md#donguibogam-version)에서 여섯 약재·적작약·환제 제조량을 대조합니다.
+
+변은 부드러운데 배출이 어렵거나 허약이 중심이면 같은 윤장 처방을 계속 늘리기보다 원인과 다른 치료축을 다시 봅니다. 기능성변비 연구에서는 완전자발배변·구제약 사용을, 현재 진료에서는 힘주기·잔변감·일상 불편까지 함께 확인합니다.
+
 ### 임상 적용 {#_3}
 내경편의 개념을 현대 장기 하나와 그대로 동일시하지 않고, 환자의 증상 패턴과 변증을 구조화하는 전통적 생리·병리 언어로 읽습니다.
 
@@ -97,6 +103,12 @@ last_reviewed: 2026-08-22
 
 고전의 신허는 신장검사 이상이나 디스크의 특정 영상 소견과 동의어가 아닙니다. 방제의 현대 연구도 대상 질환별로 구분해 읽습니다. [외형편 원문](https://ko.wikisource.org/wiki/동의보감/외형편)
 
+### 현훈·심계를 동반 증상과 연결하기 {#dizziness-palpitations-pathway}
+
+외형편 권1 두의 현훈과 권3 맥의 자감초탕을 함께 읽으면, **오심·소화저하·두중감**과 **허약·건조·숨참·불규칙한 맥**을 나누어 문진할 수 있습니다. 앞의 조합은 [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md#donguibogam-version), 뒤의 조합은 [자감초탕](../formulas/zhigancao-tang.md#donguibogam-version)의 배합과 대조합니다. 불면·놀람·흉민이 중심이면 내경편 몽의 온담탕 경로도 함께 봅니다.
+
+[어지럼](../conditions/dizziness.md#classical-clinical-reading)과 [두근거림](../conditions/palpitation.md#classical-clinical-reading)의 현대 감별을 진행한 뒤 처방을 비교합니다. 어지럼의 보행·일상 회복과 심계의 발생 빈도·실제 리듬 기록은 서로 다른 평가 항목입니다.
+
 ## 동의보감 잡병편 임상 탐색 {#japbyeong}
 
 잡병편은 외감·내상·허로·적취·부인·소아 등 다양한 병증을 폭넓게 다루는 임상 영역입니다.
@@ -134,6 +146,16 @@ last_reviewed: 2026-08-22
 잡병편 권3 서의 **하서의보기(夏暑宜補氣)**에 수록된 생맥산은 맥문동 2전, 인삼·오미자 각 1전의 구성입니다. 더위라는 계절 이름만으로 적용하기보다 현재의 **피로, 갈증·구건, 발한 뒤 회복저하**가 함께 있는지 살펴 기와 진액을 돕는 구조를 이해합니다. 인삼은 익기, 맥문동은 양음생진, 오미자는 수렴의 역할을 맡습니다.
 
 이는 만성피로 전체나 응급 탈수의 보편 처방을 뜻하지 않습니다. [생맥산의 제형·연구 구분](../formulas/shengmai-san.md#donguibogam-version)과 [피로 원인 감별](../conditions/chronic-fatigue.md#classical-clinical-reading)을 연결하고, 갈증·땀·활동량·회복시간의 변화로 경과를 봅니다. [잡병편 원문](https://ko.wikisource.org/wiki/동의보감/잡병편)
+
+### 내상·설사와 부인과 처방으로 내려가기 {#digestive-menstrual-pathway}
+
+| 읽을 임상 질문 | 동의보감 수록 위치·배합 | 기존 문서 |
+|---|---|---|
+| 묽은변에 식욕저하·피로가 오래 겹치는가? | 잡병편 권3 내상, 삼령백출산의 보기건비·삼습 산제 | [삼령백출산](../formulas/shenling-baizhu-san.md#donguibogam-version) · [설사](../conditions/diarrhea.md#classical-clinical-reading) |
+| 설사와 함께 명치 답답함·장명·오심이 교차하는가? | 잡병편 권3 한, 반하사심탕의 고한·신온·보익 배합 | [반하사심탕](../formulas/banxia-xiexin-tang.md#donguibogam-version) · [복통](../conditions/abdominal-pain.md#classical-clinical-reading) |
+| 월경통에 냉감·혈괴·건조·허약이 어떻게 겹치는가? | 잡병편 권10 부인, 온경탕의 온경·양혈·거어·양음 배합 | [온경탕](../formulas/wenjing-tang.md#donguibogam-version) · [월경통](../conditions/dysmenorrhea.md#classical-clinical-reading) |
+
+약재 구성·제형을 확인한 뒤 연구로 이어갑니다. 산제 제조량을 탕제의 1일량으로, 한 수록본을 모든 가감방·현대 제품과 동일하게 읽지 않습니다.
 
 ## 동의보감 탕액편 임상 탐색 {#tangaek}
 
