@@ -48,6 +48,17 @@ last_reviewed: 2026-08-22
 
 증상별로는 [어지럼](../conditions/dizziness.md)·[이명](../conditions/tinnitus.md)·[두통](../conditions/headache.md)의 감별과 평가를 먼저 확인합니다. 연구는 [소화기 한약 근거](../authority/formulas/digestive-herbal-evidence.md)와 [이명 근거](../authority/conditions/tinnitus.md)처럼 실제 연구 대상에 따라 나누어 읽습니다.
 
+### 수면·소화·담음의 처방 갈림점 {#sleep-digestion-formulas}
+
+| 원문에서 출발하는 임상 질문 | 병기·치법 연결 | 기존 문서에서 확인할 처방 |
+|---|---|---|
+| 귀비탕의 「治憂思勞傷心脾」: 걱정과 과로 뒤 식욕·집중·수면이 함께 떨어졌는가? | 심비양허를 살펴 익기건비·양혈안신의 비중을 정함 | [귀비탕 원문·구성](../formulas/guibi-tang.md#donguibogam-version) · [만성피로](../conditions/chronic-fatigue.md#classical-clinical-reading) |
+| 온담탕의 「觸事易驚」: 불면에 쉽게 놀람·흉민·오심·어지럼이 겹치는가? | 심담허겁과 담의 단서를 함께 살펴 이기화담·안신 구조 비교 | [온담탕 원문·구성](../formulas/wendan-tang.md#donguibogam-version) · [불면](../conditions/insomnia.md#classical-clinical-reading) |
+| 이진탕의 「或嘔吐惡心，或頭眩心悸」: 속이 메슥거릴 때 어지럼·심계도 같이 변하는가? | 담습·기역의 조합을 살펴 조습화담·이기화중 구조 비교 | [이진탕 원문·구성](../formulas/erchen-tang.md#donguibogam-version) · [두통](../conditions/headache.md#classical-clinical-reading) |
+| 평위산의 「不思飮食，心腹脹痛」: 식후 팽만과 습체가 식욕저하의 중심인가? | 조습운비·행기제만과 보익의 필요를 구분 | [평위산 원문·구성](../formulas/pingwei-san.md#donguibogam-version) · [소화불량](../conditions/dyspepsia.md#classical-clinical-reading) |
+
+원문의 심·담·비는 전통적 기능 설명입니다. 불안장애·심장질환·담낭질환을 직접 지칭하지 않습니다. 재진에서는 수면일지와 식후 증상, 두근거림의 시간·활동 관계를 함께 비교합니다. [발췌 출처와 해석 기준](../classics/donguibogam.md#selected-clinical-passages)
+
 ### 임상 적용 {#_3}
 내경편의 개념을 현대 장기 하나와 그대로 동일시하지 않고, 환자의 증상 패턴과 변증을 구조화하는 전통적 생리·병리 언어로 읽습니다.
 
@@ -77,6 +88,14 @@ last_reviewed: 2026-08-22
 → [WHO 표준 361경혈 아틀라스](../acupoint-network/standard-atlas.md)  
 → [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
+
+### 요통을 병기와 기능으로 구분하기 {#low-back-patterns}
+
+외형편 권3 요의 **요통유십(腰痛有十)**은 신허·담음·식적·좌섬·어혈·풍·한·습·습열·기의 열 가지 맥락을 제시합니다. 현재 진료에 유용한 부분은 같은 허리통증도 **외상 시점, 고정통, 냉기와의 관계, 만성 허약**에 따라 질문과 치료의 비중이 달라진다는 점입니다.
+
+급성 삐끗함은 손상과 신경학적 평가 뒤 통증·움직임 회복을, 오래된 통증은 근력·보행·수면·회복능력을 함께 봅니다. 외형편 권4 족의 독활기생탕은 「肝腎虛弱，筋攣骨痛」이라는 맥락에서 풍습을 다스리는 약재와 기혈·간신을 돕는 약재를 함께 배치합니다. [요통의 원문 해석과 감별](../conditions/low-back-pain.md#classical-clinical-reading) · [독활기생탕의 출전별 구성](../formulas/duhuo-jisheng-tang.md#donguibogam-version)
+
+고전의 신허는 신장검사 이상이나 디스크의 특정 영상 소견과 동의어가 아닙니다. 방제의 현대 연구도 대상 질환별로 구분해 읽습니다. [외형편 원문](https://ko.wikisource.org/wiki/동의보감/외형편)
 
 ## 동의보감 잡병편 임상 탐색 {#japbyeong}
 
@@ -109,6 +128,12 @@ last_reviewed: 2026-08-22
 | 보익 본초의 가미와 전체 처방의 관계 | [녹용 본초](../herbs/cervi-parvum-cornu.md) · [보익 처방 계열](../formula-architecture/tonic-family.md) | [녹용보약](../conditions/deer-antler-tonic-guide.md) · [수술 후 회복](../conditions/postoperative-recovery.md) |
 
 수술 후 회복·노쇠·산후 피로는 각각 평가할 원인과 목표가 다릅니다. 위 표는 상담과 문헌 탐색을 위한 연결이며 특정 보익 처방을 모든 회복기에 동일하게 적용하는 목록은 아닙니다.
+
+### 생맥산을 회복기 증상으로 읽기 {#shengmai-recovery}
+
+잡병편 권3 서의 **하서의보기(夏暑宜補氣)**에 수록된 생맥산은 맥문동 2전, 인삼·오미자 각 1전의 구성입니다. 더위라는 계절 이름만으로 적용하기보다 현재의 **피로, 갈증·구건, 발한 뒤 회복저하**가 함께 있는지 살펴 기와 진액을 돕는 구조를 이해합니다. 인삼은 익기, 맥문동은 양음생진, 오미자는 수렴의 역할을 맡습니다.
+
+이는 만성피로 전체나 응급 탈수의 보편 처방을 뜻하지 않습니다. [생맥산의 제형·연구 구분](../formulas/shengmai-san.md#donguibogam-version)과 [피로 원인 감별](../conditions/chronic-fatigue.md#classical-clinical-reading)을 연결하고, 갈증·땀·활동량·회복시간의 변화로 경과를 봅니다. [잡병편 원문](https://ko.wikisource.org/wiki/동의보감/잡병편)
 
 ## 동의보감 탕액편 임상 탐색 {#tangaek}
 
