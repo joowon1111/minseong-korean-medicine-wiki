@@ -109,6 +109,18 @@ last_reviewed: 2026-08-29
 
 《소문》 음양응상대론의 「治病必求於本」에서 ‘본’은 해당 문맥의 음양 원리를 가리킵니다. 현대 질환의 원인을 증명하는 구절로 사용하기보다, 증상에 가려진 **식사·수면·정서·활동·회복의 관계**까지 문진하는 방향으로 읽습니다. [음양응상대론 원문](https://zh.wikisource.org/wiki/黃帝內經/素問第二卷) · [지진요대론 원문](https://zh.wikisource.org/wiki/黃帝內經/素問第二十二卷)
 
+### 복통·배변에서 병기와 치법을 구체화하기 {#abdominal-bowel-patterns}
+
+거통론은 복통에 구토·설사·배설 정지가 어떻게 동반되는지 묻습니다. 이 문진을 현재 감별에 연결한 뒤 한열·허실·건조·정체를 나누고, 지진요대론의 온·청·윤·완 치법으로 이어갑니다.
+
+| 확인한 조합 | 치법을 비교하는 방향 | 기존 임상 문서 |
+|---|---|---|
+| 냉감·허약·복통·묽은변 | 온중과 건비의 비중 | [복통](../conditions/abdominal-pain.md#classical-clinical-reading) · [이중탕](../formulas/lizhong-tang.md#edition-and-clinical-choice) |
+| 오심·심하비·장명·설사 | 한열착잡과 위기 조화 | [설사](../conditions/diarrhea.md#classical-clinical-reading) · [반하사심탕](../formulas/banxia-xiexin-tang.md#donguibogam-version) |
+| 건조한 변·힘주기·창만 | 윤조·통변과 기체 조절 | [변비](../conditions/constipation.md#classical-clinical-reading) · [마자인환](../formulas/mazi-ren-wan.md#donguibogam-version) |
+
+위 처방은 후대 방제이며 《내경》에 이 처방명들이 제시돼 있다는 뜻은 아닙니다. 원문은 관찰·치법의 근거로, 방제의 실제 효과는 해당 질환·제제를 연구한 자료로 읽습니다. [선별 원문과 해석](../classics/huangdi-neijing.md#selected-clinical-passages)
+
 ### 핵심 관찰축
 정기와 사기의 관계 / 한열 / 허실 / 기의 승강출입 / 장부 기능 / 기혈진액 / 경락의 소통
 

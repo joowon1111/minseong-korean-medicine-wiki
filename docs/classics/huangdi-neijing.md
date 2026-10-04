@@ -69,8 +69,11 @@ last_reviewed: 2026-08-29
 | 「風寒濕三氣雜至，合而為痺也」 — 《소문》 비론 | 풍·한·습이 함께 비증을 만든다는 설명입니다. 이동성, 냉기에 따른 악화, 무겁고 고정된 통증을 구별하는 임상 언어로 활용합니다. [요통](../conditions/low-back-pain.md#classical-clinical-reading) |
 | 「飲食自倍，腸胃乃傷」 — 《소문》 비론 | 과도한 섭취가 장위에 부담을 준다는 뜻입니다. 식사량·속도·지방식·야식과 증상 사이의 관계를 확인하되, 체중감소·영양부족 환자에게 일률적인 절식을 권하지 않습니다. [소화불량](../conditions/dyspepsia.md#classical-clinical-reading) |
 | 「審察病機，無失氣宜」 — 《소문》 지진요대론 | 병의 변화와 상황에 맞는 치료를 살피라는 뜻입니다. 치료 뒤 주증과 기능이 개선되는지 확인하고 치법을 조정합니다. [병기에서 치법으로](../neijing-network/index.md#pathogenesis) |
+| 「或痛而嘔者，或腹痛而後泄者，或痛而閉不通者」 — 《소문》 거통론 | 복통에 구토·설사·배설 정지가 동반되는지를 구별합니다. 통증의 동반 증상과 시간관계를 문진한 뒤 현대 감별과 변증으로 이어갑니다. [복통](../conditions/abdominal-pain.md#classical-clinical-reading) |
+| 「堅乾不得出」 — 《소문》 거통론 | 열이 머무르는 복통의 한 양상에서 변이 단단하고 말라 나오지 않는 모습을 설명합니다. 변의 건조와 배출곤란을 구별하고 윤조의 필요를 살핍니다. [변비](../conditions/constipation.md#classical-clinical-reading) |
+| 「驚則氣亂，勞則氣耗，思則氣結」 — 《소문》 거통론 | 놀람·과로·지속되는 생각과 증상의 관계를 묻습니다. 심계의 유발요인을 구체화하되 실제 리듬과 빈혈·갑상선 등 원인은 별도로 평가합니다. [두근거림](../conditions/palpitation.md#classical-clinical-reading) |
 
-원문 위치: 위키문헌의 《소문》 [제8권](https://zh.wikisource.org/wiki/黃帝內經/素問第八卷), [제9권](https://zh.wikisource.org/wiki/黃帝內經/素問第九卷), [제10권](https://zh.wikisource.org/wiki/黃帝內經/素問第十卷), [제12권](https://zh.wikisource.org/wiki/黃帝內經/素問第十二卷), [제22권](https://zh.wikisource.org/wiki/黃帝內經/素問第二十二卷). 고대 원문 중 짧은 구절을 발췌하고 문장부호를 정리했습니다. 전자 전사 출처는 위키문헌 기여자이며, 전사 편집의 이용 조건은 해당 사이트의 CC BY-SA 4.0 안내를 따릅니다. 현대 해석은 자체 작성했습니다.
+원문 위치: 위키문헌의 《소문》 [제8권](https://zh.wikisource.org/wiki/黃帝內經/素問第八卷), [제9권](https://zh.wikisource.org/wiki/黃帝內經/素問第九卷), [제10권](https://zh.wikisource.org/wiki/黃帝內經/素問第十卷), [제11권](https://zh.wikisource.org/wiki/黃帝內經/素問第十一卷), [제12권](https://zh.wikisource.org/wiki/黃帝內經/素問第十二卷), [제22권](https://zh.wikisource.org/wiki/黃帝內經/素問第二十二卷). 고대 원문 중 짧은 구절을 발췌하고 문장부호를 정리했습니다. 전자 전사 출처는 위키문헌 기여자이며, 전사 편집의 이용 조건은 해당 사이트의 CC BY-SA 4.0 안내를 따릅니다. 현대 해석은 자체 작성했습니다.
 
 ## 임상에서 읽는 순서 {#_9}
 
