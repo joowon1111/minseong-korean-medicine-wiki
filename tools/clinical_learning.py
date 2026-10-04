@@ -54,9 +54,12 @@ def validate_clinical(q):
 
 
 def static_questions(questions):
+    observation_note = ('증례·검사 수치는 자체 작성한 교육용 가정이며, 처방 구성·용량은 각 문항이 지정한 출전의 표기를 따릅니다. '
+                        if any(q.get('topic') == 'formula-composition' for q in questions) else
+                        '수치와 증례는 자체 작성한 교육용 가정이며, ')
     lines = [START, '## 증례·배혈·본초 추론 5지선다 {#clinical-questions}', '',
              '증례의 경과·보존된 기능·설맥·배합 목적을 종합해 **가장 적절한 답 하나**를 고릅니다. '
-             '수치와 증례는 자체 작성한 교육용 가정이며, 전통 변증과 현대 검사 해석은 각각의 근거로 구분합니다. '
+             + observation_note + '전통 변증과 현대 검사 해석은 각각의 근거로 구분합니다. '
              '실제 환자의 확정 진단이나 개인별 처방을 대신하지 않습니다. 퀴즈의 **문제 유형 → 증례·배혈·본초 추론 (5지선다)**에서 같은 문항을 풀 수 있습니다.', '']
     for n, q in enumerate(questions, 1):
         lines += [f'<span id="{q["id"]}"></span>', '',

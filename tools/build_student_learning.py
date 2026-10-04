@@ -1,4 +1,4 @@
-"""Build traceable study decks from the archive, without clinical-dose questions.
+"""Build traceable study decks, distinguishing source quantities from personal dosing.
 
 The generated datasets are committed so the learning room also works on ordinary
 MkDocs builds. IDs depend on source paths/codes, not the order of cards.
@@ -688,7 +688,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261004-06', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261004-07', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -757,7 +757,7 @@ def main():
         groups = {}
         for subject, count in clinical_counts.items():
             groups.setdefault(count, []).append(SUBJECTS[subject])
-        distribution = ' '.join('·'.join(names) + f'은 각각 **{count}문제**입니다.'
+        distribution = ' '.join('·'.join(names) + '은 ' + ('각각 ' if len(names) > 1 else '') + f'**{count}문제**입니다.'
                                 for count, names in groups.items())
         text = re.sub(r'(\*\*증례·배혈·본초 추론 \(5지선다\)\*\*에서는 ).*?(증례 → 변증·처방,)',
                       lambda m: m[1] + f"자체 작성한 **{len(clinical)}문제"
