@@ -34977,6 +34977,460 @@
       "category": "이수·거습",
       "source": "/learning/herbs/#advanced-herbs-expert-17",
       "relatedSource": "/herbs/alisma/"
+    },
+    {
+      "id": "clinical-herbs-01",
+      "cardId": "herb-atractylodes",
+      "difficulty": "high",
+      "format": "identity",
+      "prompt": "이 배합에서 우선한 본초는?",
+      "context": "만성 식욕저하·무른 변·쉽게 피로함을 비기허의 문맥에서 읽는다. 배합 목표는 습을 말리는 역할만이 아니라 건비익기와 지한을 함께 고려하는 것이다. 기원은 Atractylodes 계열의 뿌리줄기이다.",
+      "discriminator": "창출과 공통인 조습보다 건비익기·지한이라는 추가 역할이 중요하다.",
+      "options": [
+        {
+          "text": "택사",
+          "detail": "이수삼습을 중심으로 읽으며 건비익기·지한과 해당 기원이라는 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-01"
+        },
+        {
+          "text": "백출",
+          "detail": "건비익기·조습이수·지한을 함께 연결하므로 허약한 비기라는 제시된 배합 문맥에 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-01"
+        },
+        {
+          "text": "창출",
+          "detail": "조습건비라는 공통점은 있으나 습체를 말리는 방향이 더 두드러지며 백출의 보기·지한 축과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-01"
+        },
+        {
+          "text": "복령",
+          "detail": "건비·삼습 역할은 공유하지만 제시된 Atractylodes 기원과 뿌리줄기 조건에 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-01"
+        },
+        {
+          "text": "의이인",
+          "detail": "건비·이습과 연결되지만 약용 부위가 씨이고 제시한 기원 및 지한 축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-01"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "백출(白朮) — 효능 하나만 찾지 않고 기원·약용 부위·비허와 습체의 배합 비중을 함께 비교한다.",
+      "kind": "clinical",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#clinical-herbs-01",
+      "relatedSource": "/herbs/atractylodes/"
+    },
+    {
+      "id": "clinical-herbs-02",
+      "cardId": "herb-cinnamon-twig",
+      "difficulty": "high",
+      "format": "identity",
+      "prompt": "약용 부위와 배합 목적을 모두 만족하는 본초는?",
+      "context": "온성 계열 본초를 비교한다. 재료는 어린 가지이며, 외감 문맥에서 해기발표와 영위 조화의 배합을 검토한다. 수피를 써서 온리 작용을 중심으로 읽는 항목과 구별한다.",
+      "discriminator": "어린 가지와 해기발표라는 두 조건이 수피의 육계와 다르다.",
+      "options": [
+        {
+          "text": "계지",
+          "detail": "어린 가지를 사용하고 해기발표·온통의 배합축을 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-02"
+        },
+        {
+          "text": "육계",
+          "detail": "같은 계통의 이름이라도 수피를 사용하며 온리·보화조양의 문맥과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-02"
+        },
+        {
+          "text": "생강",
+          "detail": "온성 해표 배합에 참여하지만 약용 부위는 신선한 뿌리줄기이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-02"
+        },
+        {
+          "text": "건강",
+          "detail": "온중 배합을 읽는 말린 뿌리줄기로 어린 가지와 해기발표라는 조합이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-02"
+        },
+        {
+          "text": "마황",
+          "detail": "발한해표와 연결되지만 계지와 기원·사용 부위·영위 배합의 역할이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-02"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "계지(桂枝) — 계지·육계는 이름이 비슷해도 약용 부위와 처방 내 역할을 같은 것으로 합치지 않는다.",
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-02",
+      "relatedSource": "/herbs/cinnamon-twig/"
+    },
+    {
+      "id": "clinical-herbs-03",
+      "cardId": "herb-fritillaria",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "조담 문맥에서 선택한 본초를 가장 잘 설명하는 것은?",
+      "context": "기침이 오래 이어지고 가래는 적으며 뱉기 어렵다. 입과 목이 건조하다는 전통 조담 문맥에서 청열윤폐·화담지해를 함께 고려한다. 이 문제는 현대 질환명을 확정하는 것이 아니라 배합 역할을 비교한다.",
+      "discriminator": "가래를 말리는 방향보다 건조한 폐를 윤하게 하면서 담을 다스리는 방향이다.",
+      "options": [
+        {
+          "text": "반하",
+          "detail": "화담·강역은 공유하지만 조습화담의 방향이므로 윤폐라는 조건과 비교해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fritillaria",
+          "source": "/learning/herbs/#clinical-herbs-03"
+        },
+        {
+          "text": "길경",
+          "detail": "선폐·거담·이인에 연결되지만 청열윤폐를 함께 우선한 배합축과 차이가 있다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fritillaria",
+          "source": "/learning/herbs/#clinical-herbs-03"
+        },
+        {
+          "text": "전호",
+          "detail": "강기·화담을 중심으로 읽으며 윤폐를 강조한 천패모와 배합 방향이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fritillaria",
+          "source": "/learning/herbs/#clinical-herbs-03"
+        },
+        {
+          "text": "상백피",
+          "detail": "사폐평천·이수소종의 역할을 읽으며 건조한 폐를 윤하게 하는 축과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fritillaria",
+          "source": "/learning/herbs/#clinical-herbs-03"
+        },
+        {
+          "text": "천패모",
+          "detail": "청열윤폐와 화담지해를 함께 연결하여 건조·적은 가래의 문맥에 맞춘다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-fritillaria",
+          "source": "/learning/herbs/#clinical-herbs-03"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "천패모(川貝母) — 담이라는 공통 표현을 넘어 조습과 윤폐, 강기와 선폐의 방향 차이를 읽는다.",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-03",
+      "relatedSource": "/herbs/fritillaria/"
+    },
+    {
+      "id": "clinical-herbs-04",
+      "cardId": "herb-fresh-ginger",
+      "difficulty": "high",
+      "format": "identity",
+      "prompt": "가공 상태와 역할이 일치하는 본초는?",
+      "context": "구역을 동반한 배합에서 온중지구를 보조하는 본초를 확인한다. 기록에는 신선한 뿌리줄기를 사용했다고 적혀 있으며, 말린 재료로 온리의 비중을 높인 배합과 구별하려 한다.",
+      "discriminator": "같은 식물이라도 신선한 뿌리줄기와 건조한 뿌리줄기의 명칭·역할을 나눈다.",
+      "options": [
+        {
+          "text": "반하",
+          "detail": "강역지구 역할은 공유하지만 해당 식물의 신선한 뿌리줄기라는 조건과 다르며 법제를 구분한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-04"
+        },
+        {
+          "text": "사인",
+          "detail": "온중·행기 역할을 공유하지만 열매를 사용하므로 약용 부위가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-04"
+        },
+        {
+          "text": "오수유",
+          "detail": "산한·강역 문맥에 참여하지만 약용 부위와 기원이 생강의 신선 뿌리줄기와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-04"
+        },
+        {
+          "text": "생강",
+          "detail": "신선한 뿌리줄기를 쓰며 온중지구의 배합 역할과 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-04"
+        },
+        {
+          "text": "건강",
+          "detail": "같은 식물의 말린 뿌리줄기로 온중산한의 비중이 달라 제시된 신선 재료 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-04"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "생강(生薑) — 생강·건강은 가공 상태를 누락하지 않고 배합 목적과 함께 확인한다.",
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-04",
+      "relatedSource": "/herbs/fresh-ginger/"
+    },
+    {
+      "id": "clinical-herbs-05",
+      "cardId": "herb-licorice",
+      "difficulty": "expert",
+      "format": "data",
+      "prompt": "노출 이력에서 가장 먼저 확인할 성분은?",
+      "context": "교육용 가정: 서로 다른 농축액·차·보충제를 함께 섭취한 뒤 혈압 상승과 발목 부종이 생겼다. 이뇨제 복용, 구토와 설사는 없다고 한다. 아래 혈액검사 소견을 단서로 제품에 중복 포함된 성분을 우선 확인하려 한다. 이상 수치의 실제 원인 평가는 별도로 필요하다.",
+      "discriminator": "혈압 상승·부종·저칼륨혈증과 중복 섭취 이력을 함께 본다.",
+      "options": [
+        {
+          "text": "부자의 아코니틴류",
+          "detail": "부정맥 관련 안전성을 비교하지만 해당 전해질·체액 소견과 중복 감초 노출의 맥락은 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-05"
+        },
+        {
+          "text": "오미자의 리그난류",
+          "detail": "제품별 상호작용을 확인할 수 있으나 제시된 체액·칼륨 변화의 대표 노출 단서와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-05"
+        },
+        {
+          "text": "감초의 글리시리진",
+          "detail": "누적 노출과 관련한 혈압·체액·칼륨 변화를 우선 검토하는 성분이다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-05"
+        },
+        {
+          "text": "마황의 에페드린류",
+          "detail": "심혈관 자극은 비교할 수 있으나 체액 저류와 저칼륨혈증의 조합에는 감초 노출이 더 직접적인 확인 대상이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-05"
+        },
+        {
+          "text": "행인의 아미그달린",
+          "detail": "과다 노출의 안전성은 중요하지만 제시한 혈압·부종·칼륨 조합과 독성 문맥이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-05"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "감초(甘草) — 감초의 전통 효능과 글리시리진 누적 노출의 현대 안전성 정보를 구분한다. 저칼륨혈증만으로 감초가 원인이라고 확정하지 않는다.",
+      "table": {
+        "caption": "교육용 혈액검사 — 참고범위는 이 문항의 가정",
+        "headers": [
+          "항목",
+          "결과",
+          "참고범위"
+        ],
+        "rows": [
+          [
+            "혈청 칼륨",
+            "3.1 mmol/L",
+            "3.5–5.0 mmol/L"
+          ],
+          [
+            "혈청 크레아티닌",
+            "0.9 mg/dL",
+            "0.6–1.2 mg/dL"
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "NIH NCCIH 감초 안전성",
+          "url": "https://www.nccih.nih.gov/health/licorice-root"
+        },
+        {
+          "title": "지속 감초 섭취·혈압·저칼륨혈증 연구 검토",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28660884/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-05",
+      "relatedSource": "/herbs/licorice/"
+    },
+    {
+      "id": "clinical-herbs-06",
+      "cardId": "herb-apricot-kernel",
+      "difficulty": "expert",
+      "format": "identity",
+      "prompt": "두 조건과 안전성 확인점이 일치하는 본초는?",
+      "context": "강기지해평천과 윤장통변이라는 두 전통 효능을 가진 종자 계열 본초를 비교한다. 추가로 기록에는 아미그달린과 시안화물 관련 노출 위험을 확인해야 한다고 적혀 있다.",
+      "discriminator": "효능의 중복만으로 선택하지 않고 아미그달린 관련 안전성 단서를 결합한다.",
+      "options": [
+        {
+          "text": "산조인",
+          "detail": "양심안신·렴한의 축이며 윤장과 강기지해평천의 조합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-06"
+        },
+        {
+          "text": "행인",
+          "detail": "강기지해평천·윤장통변과 아미그달린 관련 안전성 확인점을 함께 충족한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-06"
+        },
+        {
+          "text": "소자",
+          "detail": "강기·화담·윤장이라는 역할은 비슷하지만 행인과 동일한 아미그달린 기원·독성 문맥으로 취급하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-06"
+        },
+        {
+          "text": "도인",
+          "detail": "윤장·활혈 역할을 읽고 종자 안전성을 확인하지만 제시된 강기지해평천 효능축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-06"
+        },
+        {
+          "text": "백자인",
+          "detail": "윤장·양심안신의 축으로 비교하며 제시된 폐기 강하 효능축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-06"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "행인(杏仁) — 효능이 유사한 종자 본초에서도 행인의 안전성 정보와 법제·노출 조건을 독립적으로 확인한다.",
+      "kind": "clinical",
+      "category": "사하·윤장",
+      "source": "/learning/herbs/#clinical-herbs-06",
+      "relatedSource": "/herbs/apricot-kernel/"
+    },
+    {
+      "id": "clinical-herbs-07",
+      "cardId": "herb-poria",
+      "difficulty": "expert",
+      "format": "identity",
+      "prompt": "약용 부위와 세 효능축을 함께 충족하는 항목은?",
+      "context": "비허와 수습의 배합을 검토하면서 이수삼습·건비·안신의 세 역할을 함께 표시했다. 사용 부위는 식물의 뿌리나 씨가 아니라 균핵이다.",
+      "discriminator": "건비·삼습·안신과 균핵이라는 부위가 함께 제시되었다.",
+      "options": [
+        {
+          "text": "복령",
+          "detail": "균핵을 사용하며 이수삼습·건비·안신을 함께 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-07"
+        },
+        {
+          "text": "저령",
+          "detail": "균핵을 쓰고 이수와 연결되지만 복령의 건비·안신을 함께 묻는 조건과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-07"
+        },
+        {
+          "text": "택사",
+          "detail": "이수삼습이라는 공통점은 있지만 덩이줄기를 사용하고 건비·안신의 조합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-07"
+        },
+        {
+          "text": "의이인",
+          "detail": "건비·삼습 역할을 공유하지만 씨를 사용하므로 균핵 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-07"
+        },
+        {
+          "text": "산조인",
+          "detail": "안신 역할은 공유하지만 씨를 쓰며 이수삼습·건비의 조합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-07"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "복령(茯苓) — 약용 부위가 같다고 효능축이 모두 같은 것은 아니며, 효능 하나가 같다고 같은 약재가 되는 것도 아니다.",
+      "kind": "clinical",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#clinical-herbs-07",
+      "relatedSource": "/herbs/poria/"
+    },
+    {
+      "id": "clinical-herbs-08",
+      "cardId": "herb-plantago-seed",
+      "difficulty": "expert",
+      "format": "identity",
+      "prompt": "씨를 쓰는 이수 본초의 추가 역할로 구별하면?",
+      "context": "차전자·택사·복령·의이인·저령을 비교하는 표에서 빈칸을 채운다. 빈칸 항목은 씨를 사용하며, 이수통림에 더해 청간명목과 청폐화담을 전통 효능으로 연결한다.",
+      "discriminator": "씨라는 부위와 명목·청폐화담의 추가 역할을 모두 충족한다.",
+      "options": [
+        {
+          "text": "의이인",
+          "detail": "씨를 쓰고 건비삼습 역할은 비슷하지만 명목·청폐화담이라는 추가 축과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-08"
+        },
+        {
+          "text": "택사",
+          "detail": "이수 역할을 공유하지만 덩이줄기를 쓰며 제시한 종자·명목 조합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-08"
+        },
+        {
+          "text": "복령",
+          "detail": "건비·삼습의 축을 공유하지만 균핵을 쓰며 제시한 명목·청폐화담 축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-08"
+        },
+        {
+          "text": "저령",
+          "detail": "균핵을 사용하는 이수 본초로 씨와 추가 효능축의 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-08"
+        },
+        {
+          "text": "차전자",
+          "detail": "종자를 사용하며 이수통림·명목·청폐화담의 복수 효능축을 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-08"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "차전자(車前子) — 이수 본초를 효능 목록 하나로 합치지 않고 부위·겸효·배합 목적의 차이로 구분한다.",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-08",
+      "relatedSource": "/herbs/plantago-seed/"
     }
   ]
 }
