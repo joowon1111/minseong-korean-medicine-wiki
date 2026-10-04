@@ -276,15 +276,15 @@ test('five-option cases retain level filters, structured observations and wrong-
   for (const [subject, title] of Object.entries({anatomy:'기초 해부학',acupoints:'경혈학',acupuncture:'침구학',herbs:'본초학',formulas:'방제학',shanghanlun:'상한론',sasang:'사상의학'})) {
     const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
     const cases = d.questions.filter(q => q.kind === 'clinical');
-    assert.equal(cases.length, 8);
-    assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'clinical', 'expert').length, 4);
+    assert.equal(cases.length, 20);
+    assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'clinical', 'expert').length, 10);
     const h = harness(); h.button(title).events.click();
     h.loads.at(-1).resolve({ok:true,json:async()=>d}); await h.settle();
     h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
     h.select('문제 유형').value = 'clinical'; h.select('문제 유형').events.change();
     h.select('문제 난이도').value = 'expert'; h.select('문제 난이도').events.change();
     assert.equal(h.select('문제 유형').value, 'clinical');
-    assert.ok(h.button('4문제 풀기')); h.button('4문제 풀기').events.click();
+    assert.ok(h.button('10문제 풀기')); h.button('10문제 풀기').events.click();
     const clue = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;
     const q = cases.find(q => q.context === clue);
     assert.ok(q);

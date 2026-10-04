@@ -24124,6 +24124,650 @@
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-08",
       "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-09",
+      "cardId": "yuan-HT",
+      "difficulty": "high",
+      "prompt": "심경을 주경으로 한 표리 원락배혈은?",
+      "context": "배혈 분류 실습에서 심경을 주경으로 정하고 그 원혈에 표리인 소장경의 낙혈을 연결한다. 같은 경맥의 원혈·낙혈을 모으는 방법이나 소장경을 주경으로 하는 반대 방향과 구별한다.",
+      "options": [
+        {
+          "text": "신문·양로",
+          "detail": "심경 원혈은 맞지만 양로는 소장경 극혈로 낙혈 조건을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-HT",
+          "source": "/learning/acupuncture/#clinical-acupuncture-09"
+        },
+        {
+          "text": "신문·지정",
+          "detail": "신문은 심경 원혈, 지정은 소장경 낙혈이다. 주경의 원혈과 표리경 낙혈이라는 방향이 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "yuan-HT",
+          "source": "/learning/acupuncture/#clinical-acupuncture-09"
+        },
+        {
+          "text": "신문·통리",
+          "detail": "심경 원혈·심경 낙혈이므로 같은 경맥 조합이지 제시한 표리 원락배혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-HT",
+          "source": "/learning/acupuncture/#clinical-acupuncture-09"
+        },
+        {
+          "text": "완골·통리",
+          "detail": "표리 원락 조합 자체는 성립하지만 소장경 원혈을 주로 한 반대 방향이다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-HT",
+          "source": "/learning/acupuncture/#clinical-acupuncture-09"
+        },
+        {
+          "text": "완골·지정",
+          "detail": "소장경 원혈·소장경 낙혈이어서 주경과 표리 연결 모두 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-HT",
+          "source": "/learning/acupuncture/#clinical-acupuncture-09"
+        }
+      ],
+      "answer": 1,
+      "explanation": "신문은 심경 원혈, 지정은 소장경 낙혈이다. 주경의 원혈과 표리경 낙혈이라는 방향이 맞는다.",
+      "discriminator": "주경 심경의 원혈은 신문이며 표리 소장경의 낙혈은 지정이다.",
+      "nearestWrong": 3,
+      "kind": "clinical",
+      "category": "원혈·낙혈·극혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-09",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-10",
+      "cardId": "back-front-위",
+      "difficulty": "high",
+      "prompt": "위의 수모혈에 위 하합혈을 더한 조합은?",
+      "context": "위의 배수혈과 모혈을 먼저 짝짓고, 아래 다리에서 위의 하합혈을 하나 더한다. 복부의 모혈 이름과 해당 경맥의 소속이 항상 같다고 가정하지 않는다.",
+      "options": [
+        {
+          "text": "위수·천추·족삼리",
+          "detail": "위수와 족삼리는 맞지만 천추는 대장 모혈이며 위 모혈 중완과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-위",
+          "source": "/learning/acupuncture/#clinical-acupuncture-10"
+        },
+        {
+          "text": "위수·중완·양릉천",
+          "detail": "위의 수모혈은 맞지만 양릉천은 담 하합혈로 연결 장부가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-위",
+          "source": "/learning/acupuncture/#clinical-acupuncture-10"
+        },
+        {
+          "text": "위수·중완·족삼리",
+          "detail": "위수·중완은 위의 수모혈이고 족삼리는 위 하합혈이다. 장부 하나의 세 분류를 모두 맞춘 조합이다.",
+          "owner": "정답 근거",
+          "ownerId": "back-front-위",
+          "source": "/learning/acupuncture/#clinical-acupuncture-10"
+        },
+        {
+          "text": "비수·장문·족삼리",
+          "detail": "족삼리는 맞지만 비수·장문은 비의 수모혈로 위의 수모혈 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-위",
+          "source": "/learning/acupuncture/#clinical-acupuncture-10"
+        },
+        {
+          "text": "위수·중완·상거허",
+          "detail": "위의 수모혈은 맞지만 상거허는 대장 하합혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-위",
+          "source": "/learning/acupuncture/#clinical-acupuncture-10"
+        }
+      ],
+      "answer": 2,
+      "explanation": "위수·중완은 위의 수모혈이고 족삼리는 위 하합혈이다. 장부 하나의 세 분류를 모두 맞춘 조합이다.",
+      "discriminator": "배수·모·하합의 세 분류에서 각각 위를 연결한다.",
+      "nearestWrong": 4,
+      "kind": "clinical",
+      "category": "배수혈·모혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-10",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-11",
+      "cardId": "lower-소장",
+      "difficulty": "high",
+      "prompt": "소장경 합혈과 소장 하합혈을 나란히 적으면?",
+      "context": "경맥 오수혈의 합혈과 육부 하합혈을 두 칸에 따로 적는다. 이번 행은 소장이다. 위경의 다리 혈이 소장 하합혈일 수 있다는 점을 고려해 두 분류의 명칭을 합치지 않는다.",
+      "options": [
+        {
+          "text": "천정·하거허",
+          "detail": "하거허는 맞지만 천정은 삼초경 합혈이며 소장경 합혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-소장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-11"
+        },
+        {
+          "text": "심경의 소해·하거허",
+          "detail": "하거허는 맞지만 동명 소해 중 심경 혈을 선택하여 소장경이라는 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-소장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-11"
+        },
+        {
+          "text": "소장경의 소해·위양",
+          "detail": "소장경 합혈은 맞지만 위양은 삼초 하합혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-소장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-11"
+        },
+        {
+          "text": "소장경의 소해·하거허",
+          "detail": "소장경 합혈은 소해이고 소장 하합혈은 위경의 하거허이다. 경맥 합혈과 육부 하합혈의 서로 다른 배정을 유지한다.",
+          "owner": "정답 근거",
+          "ownerId": "lower-소장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-11"
+        },
+        {
+          "text": "소장경의 소해·상거허",
+          "detail": "소장경 합혈은 맞지만 상거허는 대장의 하합혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-소장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-11"
+        }
+      ],
+      "answer": 3,
+      "explanation": "소장경 합혈은 소해이고 소장 하합혈은 위경의 하거허이다. 경맥 합혈과 육부 하합혈의 서로 다른 배정을 유지한다.",
+      "discriminator": "동명 소해의 경맥을 붙여 쓰고 하거허의 소장 하합 역할을 별도로 확인한다.",
+      "nearestWrong": 4,
+      "kind": "clinical",
+      "category": "육부 하합혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-11",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-12",
+      "cardId": "extra-pair-SI3",
+      "difficulty": "high",
+      "prompt": "독맥·양교맥 짝에서 두 혈의 분류를 바르게 설명하면?",
+      "context": "후계·신맥을 짝지은 학습 기록을 검토한다. 이 조합의 팔맥 연결에 더하여, 후계가 소장경 오수혈에서 차지하는 위치와 신맥의 일반 오수혈 포함 여부를 구별한다.",
+      "options": [
+        {
+          "text": "독맥·음교맥 연결이며 후계는 소장경 수혈이다",
+          "detail": "후계의 독맥·수혈 속성은 맞지만 신맥을 음교맥에 배정했다. 음교맥은 조해이다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SI3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-12"
+        },
+        {
+          "text": "임맥·양교맥 연결이며 후계는 소장경 수혈이다",
+          "detail": "신맥의 양교맥은 맞지만 후계를 임맥에 배정했다. 임맥 연결은 열결이다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SI3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-12"
+        },
+        {
+          "text": "독맥·양교맥 연결이며 후계는 소장경 원혈이다",
+          "detail": "팔맥 짝은 맞지만 소장경 원혈은 완골이며 후계는 수혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SI3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-12"
+        },
+        {
+          "text": "독맥·양교맥 연결이며 신맥은 방광경 합혈이다",
+          "detail": "팔맥 짝은 맞지만 방광경 합혈은 위중이고 신맥은 오수혈의 합혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SI3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-12"
+        },
+        {
+          "text": "독맥·양교맥 연결이며 후계는 소장경 수혈이다",
+          "detail": "후계는 독맥의 팔맥교회혈이면서 소장경 수혈이고 신맥은 양교맥을 연결한다. 서로 다른 특정혈 분류가 한 혈에 겹칠 수 있다.",
+          "owner": "정답 근거",
+          "ownerId": "extra-pair-SI3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-12"
+        }
+      ],
+      "answer": 4,
+      "explanation": "후계는 독맥의 팔맥교회혈이면서 소장경 수혈이고 신맥은 양교맥을 연결한다. 서로 다른 특정혈 분류가 한 혈에 겹칠 수 있다.",
+      "discriminator": "팔맥의 짝과 경맥 오수혈·원혈 분류를 각각 확인한다.",
+      "nearestWrong": 2,
+      "kind": "clinical",
+      "category": "팔맥교회혈 짝 복습",
+      "source": "/learning/acupuncture/#clinical-acupuncture-12",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-13",
+      "cardId": "meeting-혈회",
+      "difficulty": "high",
+      "prompt": "혈회와 맥회를 그 순서대로 연결한 기록은?",
+      "context": "팔회혈 학습에서 혈의 회합과 맥의 회합을 두 칸으로 나누었다. 첫 칸에는 혈회, 둘째 칸에는 맥회를 넣는다. 같은 흉부·손목의 혈이나 골회·수회와 이름을 바꾸지 않는다.",
+      "options": [
+        {
+          "text": "격수·태연",
+          "detail": "격수는 혈회, 태연은 맥회이다. 두 회합의 분류와 제시한 순서가 모두 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "meeting-혈회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-13"
+        },
+        {
+          "text": "태연·격수",
+          "detail": "두 혈의 분류는 관련되지만 혈회·맥회 순서를 반대로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-혈회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-13"
+        },
+        {
+          "text": "격수·전중",
+          "detail": "혈회는 맞지만 전중은 기회여서 맥회가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-혈회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-13"
+        },
+        {
+          "text": "대저·태연",
+          "detail": "맥회는 맞지만 대저는 골회이며 혈회가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-혈회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-13"
+        },
+        {
+          "text": "현종·태연",
+          "detail": "맥회는 맞지만 현종은 수회이며 혈회가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-혈회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-13"
+        }
+      ],
+      "answer": 0,
+      "explanation": "격수는 혈회, 태연은 맥회이다. 두 회합의 분류와 제시한 순서가 모두 맞는다.",
+      "discriminator": "혈회와 맥회를 혼합하지 않고 격수 다음 태연의 순서를 지킨다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "팔회혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-13",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-14",
+      "cardId": "yuan-LU",
+      "difficulty": "high",
+      "prompt": "폐경의 극혈과 낙혈을 그 순서대로 고르면?",
+      "context": "급성 병증 관련 분류를 복습하기 위해 폐경 극혈을 첫 칸에, 표리 연결 관련 폐경 낙혈을 둘째 칸에 적는다. 배혈의 실제 효과를 확정하는 문항이 아니라 특정혈의 역할 구별을 평가한다.",
+      "options": [
+        {
+          "text": "공최·경거",
+          "detail": "극혈은 맞지만 경거는 폐경 경혈이며 낙혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-14"
+        },
+        {
+          "text": "공최·열결",
+          "detail": "공최는 폐경 극혈이고 열결은 폐경 낙혈이다. 지정한 경맥과 두 분류의 순서가 일치한다.",
+          "owner": "정답 근거",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-14"
+        },
+        {
+          "text": "열결·공최",
+          "detail": "두 혈은 맞지만 극혈·낙혈의 순서가 반대이다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-14"
+        },
+        {
+          "text": "공최·편력",
+          "detail": "극혈은 맞지만 편력은 대장경 낙혈이며 둘째 칸도 폐경이라는 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-14"
+        },
+        {
+          "text": "태연·열결",
+          "detail": "낙혈은 맞지만 태연은 폐경 원혈·수혈·맥회로 극혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-14"
+        }
+      ],
+      "answer": 1,
+      "explanation": "공최는 폐경 극혈이고 열결은 폐경 낙혈이다. 지정한 경맥과 두 분류의 순서가 일치한다.",
+      "discriminator": "각 칸의 역할뿐 아니라 둘 모두 폐경에 속해야 한다는 조건을 확인한다.",
+      "nearestWrong": 3,
+      "kind": "clinical",
+      "category": "원혈·낙혈·극혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-14",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-15",
+      "cardId": "shu-point-ST43",
+      "difficulty": "expert",
+      "prompt": "양경의 수혈과 원혈을 따로 적은 올바른 짝은?",
+      "context": "위경에서 오수혈의 수혈을 첫 칸, 원혈을 둘째 칸에 적는다. 음경에서 수혈과 원혈이 겹치는 사례를 위경에도 그대로 적용하지 않으며, 형혈·경혈과 비교한다.",
+      "options": [
+        {
+          "text": "함곡·해계",
+          "detail": "수혈은 맞지만 해계는 위경 경혈이고 원혈 충양과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-ST43",
+          "source": "/learning/acupuncture/#clinical-acupuncture-15"
+        },
+        {
+          "text": "족삼리·충양",
+          "detail": "원혈은 맞지만 족삼리는 합혈로 첫 칸의 수혈과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-ST43",
+          "source": "/learning/acupuncture/#clinical-acupuncture-15"
+        },
+        {
+          "text": "함곡·충양",
+          "detail": "위경 수혈은 함곡이고 원혈은 충양이다. 양경에서 두 분류가 별개 혈로 지정된다는 점을 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "shu-point-ST43",
+          "source": "/learning/acupuncture/#clinical-acupuncture-15"
+        },
+        {
+          "text": "충양·충양",
+          "detail": "원혈 충양은 맞지만 수혈까지 같은 혈로 옮겼다. 위경 수혈은 함곡이다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-ST43",
+          "source": "/learning/acupuncture/#clinical-acupuncture-15"
+        },
+        {
+          "text": "내정·충양",
+          "detail": "원혈은 맞지만 내정은 위경 형혈로 수혈 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-ST43",
+          "source": "/learning/acupuncture/#clinical-acupuncture-15"
+        }
+      ],
+      "answer": 2,
+      "explanation": "위경 수혈은 함곡이고 원혈은 충양이다. 양경에서 두 분류가 별개 혈로 지정된다는 점을 읽는다.",
+      "discriminator": "음경의 수원일치 규칙을 양경에 그대로 적용하지 않는다.",
+      "nearestWrong": 3,
+      "kind": "clinical",
+      "category": "오수혈 개별 60혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-15",
+      "relatedSource": "/acupuncture-specific/five-shu/"
+    },
+    {
+      "id": "clinical-acupuncture-16",
+      "cardId": "yuan-KI",
+      "difficulty": "expert",
+      "prompt": "신경 원혈·표리 낙혈·신경 극혈의 세 역할이 맞는 조합은?",
+      "context": "신경을 주로 한 원락배혈을 적고 신경 극혈을 하나 더한다. 첫 혈은 신경 원혈, 둘째 혈은 표리 방광경 낙혈, 셋째 혈은 신경 극혈이어야 한다. 각 보기는 한 역할씩 달라진다.",
+      "options": [
+        {
+          "text": "태계·비양·부류",
+          "detail": "원락 조합은 맞지만 부류는 신경 경혈이고 극혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-KI",
+          "source": "/learning/acupuncture/#clinical-acupuncture-16"
+        },
+        {
+          "text": "경골·대종·수천",
+          "detail": "방광경 원혈과 신경 낙혈의 반대 방향이며 첫 혈을 신경 원혈로 지정한 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-KI",
+          "source": "/learning/acupuncture/#clinical-acupuncture-16"
+        },
+        {
+          "text": "태계·비양·금문",
+          "detail": "원락 조합은 맞지만 금문은 방광경 극혈이고 신경 극혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-KI",
+          "source": "/learning/acupuncture/#clinical-acupuncture-16"
+        },
+        {
+          "text": "태계·비양·수천",
+          "detail": "태계는 신경 원혈, 비양은 방광경 낙혈, 수천은 신경 극혈이다. 주경·표리경과 세 역할이 모두 일치한다.",
+          "owner": "정답 근거",
+          "ownerId": "yuan-KI",
+          "source": "/learning/acupuncture/#clinical-acupuncture-16"
+        },
+        {
+          "text": "태계·대종·수천",
+          "detail": "원혈·극혈은 맞지만 대종은 신경 낙혈이어서 표리 방광경 낙혈 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-KI",
+          "source": "/learning/acupuncture/#clinical-acupuncture-16"
+        }
+      ],
+      "answer": 3,
+      "explanation": "태계는 신경 원혈, 비양은 방광경 낙혈, 수천은 신경 극혈이다. 주경·표리경과 세 역할이 모두 일치한다.",
+      "discriminator": "원혈과 극혈은 주경 신경, 낙혈만 표리 방광경에 속해야 한다.",
+      "nearestWrong": 2,
+      "kind": "clinical",
+      "category": "원혈·낙혈·극혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-16",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-17",
+      "cardId": "back-front-간",
+      "difficulty": "expert",
+      "prompt": "간의 수모혈·담의 하합혈·근회가 겹치는 세 혈은?",
+      "context": "첫 두 혈은 간의 수모배혈로 구성하고, 셋째 혈은 표리 장부인 담의 하합혈이면서 근회혈인 혈로 정한다. 세 분류를 이용한 학습 조합이며 특정 질환의 유일한 임상 배혈을 묻지는 않는다.",
+      "options": [
+        {
+          "text": "간수·장문·양릉천",
+          "detail": "배수와 셋째 혈은 맞지만 장문은 비 모혈이며 간 모혈은 기문이다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-17"
+        },
+        {
+          "text": "담수·일월·양릉천",
+          "detail": "담의 수모혈과 담 하합혈은 맞지만 첫 두 혈을 간의 수모혈로 지정한 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-17"
+        },
+        {
+          "text": "간수·기문·곡천",
+          "detail": "간의 수모혈은 맞지만 곡천은 간경 합혈이며 담 하합·근회가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-17"
+        },
+        {
+          "text": "간수·기문·현종",
+          "detail": "간의 수모혈은 맞지만 현종은 수회이며 담 하합·근회 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-17"
+        },
+        {
+          "text": "간수·기문·양릉천",
+          "detail": "간수·기문은 간의 수모혈이고 양릉천은 담 하합혈이자 근회이다. 간·담과 세 특정혈 조건을 모두 만족한다.",
+          "owner": "정답 근거",
+          "ownerId": "back-front-간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-17"
+        }
+      ],
+      "answer": 4,
+      "explanation": "간수·기문은 간의 수모혈이고 양릉천은 담 하합혈이자 근회이다. 간·담과 세 특정혈 조건을 모두 만족한다.",
+      "discriminator": "첫 두 칸의 장부 간과 마지막 칸의 장부 담을 의도적으로 나누어 읽는다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "배수혈·모혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-17",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-18",
+      "cardId": "four-ST36",
+      "difficulty": "expert",
+      "prompt": "사총혈의 복부·허리·두항·면구를 그 순서대로 적으면?",
+      "context": "전통 사총혈의 대표 부위 연결을 네 칸으로 정리한다. 순서는 복부, 허리·등, 머리·목덜미, 얼굴·입이다. 이 연결을 현대 질환별 효과의 우열이나 치료의 독점성으로 해석하지 않는다.",
+      "options": [
+        {
+          "text": "족삼리·위중·열결·합곡",
+          "detail": "사총혈의 대표 연결은 두복 삼리, 요배 위중, 두항 열결, 면구 합곡이다. 네 부위의 순서를 모두 유지한다.",
+          "owner": "정답 근거",
+          "ownerId": "four-ST36",
+          "source": "/learning/acupuncture/#clinical-acupuncture-18"
+        },
+        {
+          "text": "족삼리·위중·합곡·열결",
+          "detail": "첫 두 칸은 맞지만 두항의 열결과 면구의 합곡을 서로 바꿨다.",
+          "owner": "오답 감별",
+          "ownerId": "four-ST36",
+          "source": "/learning/acupuncture/#clinical-acupuncture-18"
+        },
+        {
+          "text": "족삼리·곤륜·열결·합곡",
+          "detail": "곤륜은 허리와 연결해 배혈할 수 있어도 전통 사총혈의 요배 대표는 위중이다.",
+          "owner": "오답 감별",
+          "ownerId": "four-ST36",
+          "source": "/learning/acupuncture/#clinical-acupuncture-18"
+        },
+        {
+          "text": "중완·위중·열결·합곡",
+          "detail": "중완은 복부의 주요 혈이나 제시한 사총혈 분류의 두복 대표는 족삼리이다.",
+          "owner": "오답 감별",
+          "ownerId": "four-ST36",
+          "source": "/learning/acupuncture/#clinical-acupuncture-18"
+        },
+        {
+          "text": "족삼리·위중·풍지·합곡",
+          "detail": "풍지는 두항과 연결할 수 있지만 사총혈이라는 제한에서 대표 혈은 열결이다.",
+          "owner": "오답 감별",
+          "ownerId": "four-ST36",
+          "source": "/learning/acupuncture/#clinical-acupuncture-18"
+        }
+      ],
+      "answer": 0,
+      "explanation": "사총혈의 대표 연결은 두복 삼리, 요배 위중, 두항 열결, 면구 합곡이다. 네 부위의 순서를 모두 유지한다.",
+      "discriminator": "임상에서 가능한 다른 혈과 전통 사총혈 분류에서 지정한 대표 혈을 구별한다.",
+      "nearestWrong": 4,
+      "kind": "clinical",
+      "category": "사총혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-18",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-19",
+      "cardId": "research-침 + 통상치료 vs 통상치료",
+      "difficulty": "expert",
+      "prompt": "병용 임상시험의 비교로 직접 평가한 것은?",
+      "context": "교육용 무작위시험에서 두 군 모두 같은 운동 교육과 진통제 기준을 받았다. A군에만 침 치료를 더했다. 아래 수치는 효과척도 학습용 가정이며 실제 연구의 결과가 아니다. 무작위 배정과 추적이 적절하다고 가정할 때 비교의 의미를 고른다.",
+      "options": [
+        {
+          "text": "침의 단일 생물학적 기전이 작동했다는 증거",
+          "detail": "임상 결과의 군 차이만으로 한 생물학적 기전을 입증하지 않으며 기전 연구가 별도로 필요하다.",
+          "owner": "오답 감별",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#clinical-acupuncture-19"
+        },
+        {
+          "text": "통상치료에 침을 추가했을 때의 평균적인 추가 효과",
+          "detail": "두 군의 공통 통상치료에 침 추가 여부가 달라졌으므로 침의 추가 효과를 평가한다. 침 단독 효과나 특정 혈의 특이 효과로 범위를 확대하지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#clinical-acupuncture-19"
+        },
+        {
+          "text": "침 단독과 통상치료 단독의 평균적인 효과 차이",
+          "detail": "통상치료가 A군에도 병용되어 침 단독군과 비교한 설계가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#clinical-acupuncture-19"
+        },
+        {
+          "text": "특정 혈 자침과 가짜침의 특이 효과 차이",
+          "detail": "가짜침 비교군이 없으므로 특정 혈 자침의 특이 효과를 분리해 평가한 것이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#clinical-acupuncture-19"
+        },
+        {
+          "text": "침과 운동 교육 중 어느 한쪽의 독립 효과",
+          "detail": "운동 교육은 양 군에 공통이므로 침과 운동의 독립 효과를 서로 직접 비교하지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "research-침 + 통상치료 vs 통상치료",
+          "source": "/learning/acupuncture/#clinical-acupuncture-19"
+        }
+      ],
+      "answer": 1,
+      "explanation": "두 군의 공통 통상치료에 침 추가 여부가 달라졌으므로 침의 추가 효과를 평가한다. 침 단독 효과나 특정 혈의 특이 효과로 범위를 확대하지 않는다.",
+      "discriminator": "A군도 통상치료를 받았다는 공통 조건과 침 추가 여부의 차이를 유지한다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "교육용 4주 결과 — 통증 0~10점, 낮을수록 덜 아픔",
+        "headers": [
+          "군",
+          "치료",
+          "평균 변화"
+        ],
+        "rows": [
+          [
+            "A",
+            "침 + 통상치료",
+            "−2.8점"
+          ],
+          [
+            "B",
+            "통상치료",
+            "−1.7점"
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "비교군 읽기",
+      "source": "/learning/acupuncture/#clinical-acupuncture-19",
+      "relatedSource": "/acupuncture-integrated/evidence/"
+    },
+    {
+      "id": "clinical-acupuncture-20",
+      "cardId": "electro-주파수·파형",
+      "difficulty": "expert",
+      "prompt": "전침 프로토콜에서 주파수 차이를 해석하기 전 필요한 대조는?",
+      "context": "전침 기록 두 개를 비교했더니 주파수뿐 아니라 자극 강도·치료시간·회수도 달랐다. 어떤 조건 때문에 결과가 달라졌는지 읽기 위한 가장 적절한 다음 비교를 고른다. 특정 주파수의 임상적 우월성은 주어지지 않았다.",
+      "options": [
+        {
+          "text": "시간만 맞추고 주파수·강도·회수를 함께 바꾼다",
+          "detail": "시간만 맞추면 강도와 회수가 남아 주파수 차이로 결과를 좁히기 어렵다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-20"
+        },
+        {
+          "text": "주파수만 맞추고 강도·시간·회수를 함께 바꾼다",
+          "detail": "주파수를 같게 만들면 오히려 다른 치료량 차이를 보는 비교가 되어 질문의 목적이 달라진다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-20"
+        },
+        {
+          "text": "강도·시간·회수를 맞추고 주파수 조건을 비교한다",
+          "detail": "주파수의 차이를 평가하려면 다른 주요 치료량 조건을 맞춰야 한다. 실제 설계에서는 대상·경혈·파형·병용치료 등도 명확히 기록한다.",
+          "owner": "정답 근거",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-20"
+        },
+        {
+          "text": "회수만 맞추고 주파수·강도·시간을 함께 바꾼다",
+          "detail": "회수만 맞추면 강도와 시간도 계속 달라져 주파수 차이와 분리하기 어렵다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-20"
+        },
+        {
+          "text": "강도만 맞추고 주파수·시간·회수를 함께 바꾼다",
+          "detail": "강도만 맞추면 시간과 회수가 남아 주파수의 독립 비교가 어렵다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-20"
+        }
+      ],
+      "answer": 2,
+      "explanation": "주파수의 차이를 평가하려면 다른 주요 치료량 조건을 맞춰야 한다. 실제 설계에서는 대상·경혈·파형·병용치료 등도 명확히 기록한다.",
+      "discriminator": "주파수를 제외한 주요 치료량 조건을 맞추고 나머지 설계 조건도 기록한다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "전침 설계",
+      "source": "/learning/acupuncture/#clinical-acupuncture-20",
+      "relatedSource": "/acupuncture-integrated/modalities/"
     }
   ]
 }

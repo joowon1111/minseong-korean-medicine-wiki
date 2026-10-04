@@ -35431,6 +35431,636 @@
       "category": "청열",
       "source": "/learning/herbs/#clinical-herbs-08",
       "relatedSource": "/herbs/plantago-seed/"
+    },
+    {
+      "id": "clinical-herbs-09",
+      "cardId": "herb-ginseng",
+      "difficulty": "high",
+      "prompt": "보기와 생진을 함께 맡긴 뿌리 약재는?",
+      "context": "기운이 없고 식욕이 적은 바탕에 소모 뒤 입마름과 짧은 호흡이 겹친 교육용 변증이다. 배합표에서 비·폐의 기를 보하면서 생진과 안신익지까지 연결하는 뿌리 약재를 찾는다. 고표승양을 중심으로 잡은 보기약과 비교한다.",
+      "options": [
+        {
+          "text": "감초",
+          "detail": "보기와 조화를 맡길 수 있지만 제시한 대보원기·보비익폐·안신익지 조합의 대표 약재와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-09"
+        },
+        {
+          "text": "산약",
+          "detail": "비·폐·신을 보하고 생진할 수 있으나 대보원기·안신익지로 특정한 인삼의 역할과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-09"
+        },
+        {
+          "text": "인삼",
+          "detail": "인삼은 대보원기·보비익폐와 생진·안신익지를 함께 읽는다. 여기서는 고표보다 기·진액을 함께 보완하는 역할이 지정되었다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-09"
+        },
+        {
+          "text": "황기",
+          "detail": "보기약이라는 점은 같지만 익위고표·승양·이수의 축이 더 직접적이며 제시한 안신익지·생진 묶음과 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-09"
+        },
+        {
+          "text": "백출",
+          "detail": "건비익기·조습 역할은 맞지만 생진과 안신익지를 함께 지정한 보기약은 인삼이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-09"
+        }
+      ],
+      "answer": 2,
+      "explanation": "인삼은 대보원기·보비익폐와 생진·안신익지를 함께 읽는다. 여기서는 고표보다 기·진액을 함께 보완하는 역할이 지정되었다.",
+      "discriminator": "같은 보기 범주에서도 대보원기·생진·안신익지의 역할 묶음을 확인한다.",
+      "nearestWrong": 3,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-09",
+      "relatedSource": "/herbs/ginseng/"
+    },
+    {
+      "id": "clinical-herbs-10",
+      "cardId": "herb-astragalus",
+      "difficulty": "high",
+      "prompt": "보기약 중 고표·승양·이수의 세 역할을 연결하면?",
+      "context": "피로와 자한이 있는 비기허·표허의 학습 증례에 가벼운 부종이 겹친다. 배합에서 기를 보하는 것에 더하여 표를 견고하게 하고 승양과 이수소종까지 맡길 뿌리 약재를 고른다. 검사값으로 변증을 자동 확정한 경우는 아니다.",
+      "options": [
+        {
+          "text": "백출",
+          "detail": "건비·조습·지한은 겹치지만 보기승양과 이수소종까지 묶은 주된 선택은 황기이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-10"
+        },
+        {
+          "text": "복령",
+          "detail": "이수·건비는 겹치지만 표허의 고표와 승양을 담당하는 보기 뿌리 약재는 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-10"
+        },
+        {
+          "text": "감초",
+          "detail": "보기·완급·조화는 관련되지만 지정된 고표승양·이수소종의 묶음과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-10"
+        },
+        {
+          "text": "황기",
+          "detail": "황기는 보기승양·익위고표·이수소종의 세 축을 함께 연결한다. 보기 자체가 아니라 추가로 지정된 역할을 대조한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-10"
+        },
+        {
+          "text": "인삼",
+          "detail": "보기·생진의 중심 약재지만 고표승양·이수소종의 묶음은 황기의 비교 기준이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-10"
+        }
+      ],
+      "answer": 3,
+      "explanation": "황기는 보기승양·익위고표·이수소종의 세 축을 함께 연결한다. 보기 자체가 아니라 추가로 지정된 역할을 대조한다.",
+      "discriminator": "자한이라는 한 증상보다 고표·승양·이수 세 역할이 모두 지정된 것을 읽는다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-10",
+      "relatedSource": "/herbs/astragalus/"
+    },
+    {
+      "id": "clinical-herbs-11",
+      "cardId": "herb-angelica",
+      "difficulty": "high",
+      "prompt": "보혈·조경에 윤장 역할을 함께 배정한 약재는?",
+      "context": "혈허를 바탕으로 월경량 감소와 건조한 대변을 함께 설명하는 배합을 학습한다. 혈을 보하고 월경을 조절하면서 윤장통변도 연결할 약재를 고른다. 단순히 활혈지통만 강하게 배정한 약재와 구별한다.",
+      "options": [
+        {
+          "text": "천궁",
+          "detail": "조경·지통과 겹치나 활혈행기·거풍지통을 중심으로 읽으며 보혈·윤장의 묶음과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-11"
+        },
+        {
+          "text": "백작약",
+          "detail": "양혈·렴음·유간·완급은 관련되지만 제시한 윤장통변까지 묶은 약재는 당귀이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-11"
+        },
+        {
+          "text": "숙지황",
+          "detail": "보혈자음은 맞지만 활혈조경·윤장통변을 함께 맡긴 약재와 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-11"
+        },
+        {
+          "text": "도인",
+          "detail": "활혈과 윤장은 겹치지만 보혈을 중심 역할로 지정한 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-11"
+        },
+        {
+          "text": "당귀",
+          "detail": "당귀는 보혈·활혈조경·지통에 윤장통변을 함께 연결한다. 보혈과 대변 건조를 동시에 맡기는 지정에 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-11"
+        }
+      ],
+      "answer": 4,
+      "explanation": "당귀는 보혈·활혈조경·지통에 윤장통변을 함께 연결한다. 보혈과 대변 건조를 동시에 맡기는 지정에 맞는다.",
+      "discriminator": "활혈이나 윤장 중 하나만 맞는 보기 대신 보혈까지 함께 충족해야 한다.",
+      "nearestWrong": 3,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-11",
+      "relatedSource": "/herbs/angelica/"
+    },
+    {
+      "id": "clinical-herbs-12",
+      "cardId": "herb-white-peony",
+      "difficulty": "high",
+      "prompt": "작약류에서 양혈·렴음·완급의 배합은?",
+      "context": "계지와 짝지어 영위 조화를 읽고, 감초와는 근육의 급박을 완화하는 배합을 비교한다. 이번 표에는 양혈렴음·유간지통·완급이 적혀 있다. 청열량혈·산어지통을 우선한 작약류와 구별한다.",
+      "options": [
+        {
+          "text": "백작약",
+          "detail": "백작약은 양혈렴음·유간지통·완급의 축으로 계지·감초의 배합을 읽는다. 적작약의 청열량혈·산어와 구별한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-12"
+        },
+        {
+          "text": "적작약",
+          "detail": "작약속 뿌리라는 조건은 가까우나 청열량혈·산어지통이 중심으로 제시한 수렴·양혈 축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-12"
+        },
+        {
+          "text": "목단피",
+          "detail": "량혈·산어와 관련되지만 작약류의 양혈렴음·완급 배합을 설명하는 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-12"
+        },
+        {
+          "text": "당귀",
+          "detail": "보혈·지통은 겹치지만 계지·작약의 발산·수렴과 작약·감초의 완급에서 지정한 역할과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-12"
+        },
+        {
+          "text": "천궁",
+          "detail": "혈분과 지통은 겹치나 활혈행기·거풍 축으로 수렴·양혈·완급 묶음과 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-12"
+        }
+      ],
+      "answer": 0,
+      "explanation": "백작약은 양혈렴음·유간지통·완급의 축으로 계지·감초의 배합을 읽는다. 적작약의 청열량혈·산어와 구별한다.",
+      "discriminator": "백·적작약은 이름뿐 아니라 양혈렴음과 량혈산어의 역할로 나눈다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-12",
+      "relatedSource": "/herbs/white-peony/"
+    },
+    {
+      "id": "clinical-herbs-13",
+      "cardId": "herb-rehmannia-root-fresh",
+      "difficulty": "high",
+      "prompt": "같은 지황 계통에서 청열량혈·양음생진을 우선하면?",
+      "context": "열감과 입마름이 두드러진 문헌 증례의 배합표에 청열량혈·양음생진이 적혔다. 지황 뿌리를 증숙하여 보혈자음을 우선하는 항목과 구별하려 한다. 생·선·건 표기의 세부 규격은 수록본과 공정서에서 확인한다.",
+      "options": [
+        {
+          "text": "산수유",
+          "detail": "보익·수렴과 관련되지만 지황 뿌리와 청열량혈·양음생진의 묶음이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-rehmannia-root-fresh",
+          "source": "/learning/herbs/#clinical-herbs-13"
+        },
+        {
+          "text": "생지황 계통",
+          "detail": "생지황 계통은 청열량혈·양음생진을 읽는다. 같은 지황 뿌리라도 숙지황의 보혈자음·익정전수 역할과 가공 상태를 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-rehmannia-root-fresh",
+          "source": "/learning/herbs/#clinical-herbs-13"
+        },
+        {
+          "text": "숙지황 계통",
+          "detail": "같은 기원 뿌리라는 점은 맞지만 증숙한 숙지황은 보혈자음·익정전수의 비중이 중심이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-rehmannia-root-fresh",
+          "source": "/learning/herbs/#clinical-herbs-13"
+        },
+        {
+          "text": "백작약",
+          "detail": "양혈과 수렴은 관련되지만 지황의 기원·가공 조건과 청열량혈·생진 묶음이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-rehmannia-root-fresh",
+          "source": "/learning/herbs/#clinical-herbs-13"
+        },
+        {
+          "text": "당귀",
+          "detail": "보혈·활혈·윤장을 연결하지만 같은 지황 계통이라는 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-rehmannia-root-fresh",
+          "source": "/learning/herbs/#clinical-herbs-13"
+        }
+      ],
+      "answer": 1,
+      "explanation": "생지황 계통은 청열량혈·양음생진을 읽는다. 같은 지황 뿌리라도 숙지황의 보혈자음·익정전수 역할과 가공 상태를 나눈다.",
+      "discriminator": "기원은 같아도 가공 상태와 이번 배합에서 우선한 청열·생진 역할을 구별한다.",
+      "nearestWrong": 2,
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-13",
+      "relatedSource": "/herbs/rehmannia-root-fresh/"
+    },
+    {
+      "id": "clinical-herbs-14",
+      "cardId": "herb-citrus-peel",
+      "difficulty": "high",
+      "prompt": "성숙 과피와 이기건비·조습화담이 일치하는 약재는?",
+      "context": "비기허의 바탕에 오심과 담습이 겹쳐 반하와 함께 이기·조습을 맡길 약재를 찾는다. 원료 표에는 성숙한 감귤류 열매의 말린 과피라고 적혔다. 미성숙 과피와 어린 열매를 쓰는 본초를 비교한다.",
+      "options": [
+        {
+          "text": "향부자",
+          "detail": "이기약이라는 점은 겹치지만 감귤의 성숙 과피가 아닌 향부자 뿌리줄기 계통이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-peel",
+          "source": "/learning/herbs/#clinical-herbs-14"
+        },
+        {
+          "text": "후박",
+          "detail": "조습·제만은 겹치지만 나무껍질 원료로 성숙 과피의 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-peel",
+          "source": "/learning/herbs/#clinical-herbs-14"
+        },
+        {
+          "text": "진피",
+          "detail": "진피는 성숙한 감귤류 과피를 쓰며 이기건비·조습화담을 반하 배합과 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-citrus-peel",
+          "source": "/learning/herbs/#clinical-herbs-14"
+        },
+        {
+          "text": "청피",
+          "detail": "감귤류 과피라는 점은 가까우나 미성숙 열매·과피와 소간파기·소적의 역할이 중심이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-peel",
+          "source": "/learning/herbs/#clinical-herbs-14"
+        },
+        {
+          "text": "지실",
+          "detail": "감귤류 약재이나 어린 미성숙 열매를 쓰며 파기소적·화담산비를 우선한다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-peel",
+          "source": "/learning/herbs/#clinical-herbs-14"
+        }
+      ],
+      "answer": 2,
+      "explanation": "진피는 성숙한 감귤류 과피를 쓰며 이기건비·조습화담을 반하 배합과 연결한다.",
+      "discriminator": "같은 이기 범주에서 성숙 과피·건비·반하와 화담 배합을 함께 확인한다.",
+      "nearestWrong": 3,
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-14",
+      "relatedSource": "/herbs/citrus-peel/"
+    },
+    {
+      "id": "clinical-herbs-15",
+      "cardId": "herb-magnolia-bud",
+      "difficulty": "expert",
+      "prompt": "같은 목련류 약재를 부위와 효능으로 나누면?",
+      "context": "원료 A는 피기 전 꽃봉오리, 원료 B는 껍질이다. A는 코의 막힘과 풍한을 푸는 전통 배합에, B는 중초 습체의 창만을 내리는 배합에 쓰도록 기록되었다. 두 원료의 명칭을 그 순서대로 고른다.",
+      "options": [
+        {
+          "text": "신이·백지",
+          "detail": "A는 맞지만 백지는 뿌리를 쓰며 B의 목련류 껍질 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bud",
+          "source": "/learning/herbs/#clinical-herbs-15"
+        },
+        {
+          "text": "백지·후박",
+          "detail": "B는 맞지만 백지는 꽃봉오리가 아닌 뿌리로 A의 부위 조건을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bud",
+          "source": "/learning/herbs/#clinical-herbs-15"
+        },
+        {
+          "text": "금은화·후박",
+          "detail": "B는 맞고 A도 꽃봉오리 약재라는 점은 가까우나 금은화는 목련류가 아니며 청열해독의 역할이 중심이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bud",
+          "source": "/learning/herbs/#clinical-herbs-15"
+        },
+        {
+          "text": "신이·후박",
+          "detail": "신이는 목련류의 꽃봉오리로 통비규, 후박은 껍질로 조습·하기제만을 연결한다. 부위와 배합 목적이 모두 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-magnolia-bud",
+          "source": "/learning/herbs/#clinical-herbs-15"
+        },
+        {
+          "text": "후박·신이",
+          "detail": "두 이름은 관련되나 꽃봉오리와 껍질의 부위·용도를 반대로 대응했다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bud",
+          "source": "/learning/herbs/#clinical-herbs-15"
+        }
+      ],
+      "answer": 3,
+      "explanation": "신이는 목련류의 꽃봉오리로 통비규, 후박은 껍질로 조습·하기제만을 연결한다. 부위와 배합 목적이 모두 맞는다.",
+      "discriminator": "같은 식물군이라는 공통점보다 꽃봉오리·껍질과 통비규·제만을 각각 대응한다.",
+      "nearestWrong": 4,
+      "kind": "clinical",
+      "category": "기원·문헌 본초",
+      "source": "/learning/herbs/#clinical-herbs-15",
+      "relatedSource": "/herbs/magnolia-bud/"
+    },
+    {
+      "id": "clinical-herbs-16",
+      "cardId": "herb-massa-medicata-fermentata",
+      "difficulty": "expert",
+      "prompt": "소식약 중 발효 가공과 식울 배합이 맞는 것은?",
+      "context": "소화 배합의 표본실에서 곡물 등을 배합·발효한 가공 약재를 확인했다. 보화환의 소식축과 월국환의 식울축에 연결하지만, 보리를 발아시킨 단일 원료와는 구분한다. 가공법·제조 규격은 제품 문서에서 따로 확인한다.",
+      "options": [
+        {
+          "text": "맥아",
+          "detail": "곡물계 소식약이라는 점은 가깝지만 보리를 발아시킨 원료로 배합·발효한 신곡과 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-massa-medicata-fermentata",
+          "source": "/learning/herbs/#clinical-herbs-16"
+        },
+        {
+          "text": "산사",
+          "detail": "보화환의 소식약이라는 점은 같으나 성숙한 열매이며 발효 가공 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-massa-medicata-fermentata",
+          "source": "/learning/herbs/#clinical-herbs-16"
+        },
+        {
+          "text": "나복자",
+          "detail": "소식·하기·화담이 연결되지만 무의 씨를 쓰며 배합·발효 원료가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-massa-medicata-fermentata",
+          "source": "/learning/herbs/#clinical-herbs-16"
+        },
+        {
+          "text": "백편두",
+          "detail": "곡물·종자계 비위 배합이라는 점은 비슷하지만 백편두의 건비·화습과 발효 신곡은 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-massa-medicata-fermentata",
+          "source": "/learning/herbs/#clinical-herbs-16"
+        },
+        {
+          "text": "신곡",
+          "detail": "신곡은 배합·발효한 가공 약재로 소식화중을 읽고 보화환·월국환의 식울축에 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-massa-medicata-fermentata",
+          "source": "/learning/herbs/#clinical-herbs-16"
+        }
+      ],
+      "answer": 4,
+      "explanation": "신곡은 배합·발효한 가공 약재로 소식화중을 읽고 보화환·월국환의 식울축에 연결한다.",
+      "discriminator": "곡물이라는 범주를 넘어서 발아와 배합·발효를 구별한다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-16",
+      "relatedSource": "/herbs/massa-medicata-fermentata/"
+    },
+    {
+      "id": "clinical-herbs-17",
+      "cardId": "herb-dioscorea",
+      "difficulty": "expert",
+      "prompt": "삼령백출산과 육미지황환에서 모두 보익축을 맡는 약재는?",
+      "context": "A 배합에서는 비기허의 식소·무른 변을 보비의 방향으로 받치고, B 배합에서는 숙지황·산수유와 보익축을 이룬다. 생진익폐·보신삽정도 함께 기록된 마과 약재를 찾는다. 두 처방에 등장한다는 사실과 역할을 함께 확인한다.",
+      "options": [
+        {
+          "text": "산약",
+          "detail": "산약은 보비양위·생진익폐·보신삽정을 읽는다. 삼령백출산의 비위 회복과 육미지황환의 삼보 중 한 축을 동시에 설명한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-dioscorea",
+          "source": "/learning/herbs/#clinical-herbs-17"
+        },
+        {
+          "text": "백출",
+          "detail": "A의 건비약은 맞지만 육미지황환의 보익축에 포함된 약재라는 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-dioscorea",
+          "source": "/learning/herbs/#clinical-herbs-17"
+        },
+        {
+          "text": "복령",
+          "detail": "두 처방에 들어갈 수 있다는 점은 가깝지만 육미지황환에서는 삼사 쪽이며 보신삽정의 보익축이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-dioscorea",
+          "source": "/learning/herbs/#clinical-herbs-17"
+        },
+        {
+          "text": "택사",
+          "detail": "B에 들어가도 수습을 다루는 삼사 쪽이고 A의 보비양위·삽정 역할과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-dioscorea",
+          "source": "/learning/herbs/#clinical-herbs-17"
+        },
+        {
+          "text": "산수유",
+          "detail": "B의 보익축은 맞지만 A의 삼령백출산 보비약과 마과 기원이라는 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-dioscorea",
+          "source": "/learning/herbs/#clinical-herbs-17"
+        }
+      ],
+      "answer": 0,
+      "explanation": "산약은 보비양위·생진익폐·보신삽정을 읽는다. 삼령백출산의 비위 회복과 육미지황환의 삼보 중 한 축을 동시에 설명한다.",
+      "discriminator": "공통 포함 여부뿐 아니라 육미지황환에서 삼보인지 삼사인지를 구별한다.",
+      "nearestWrong": 2,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-17",
+      "relatedSource": "/herbs/dioscorea/"
+    },
+    {
+      "id": "clinical-herbs-18",
+      "cardId": "herb-ophiopogon",
+      "difficulty": "expert",
+      "prompt": "기·진액·수렴 세 배합에서 진액 역할을 맡는 것은?",
+      "context": "인삼·오미자와 짝지어 소모 뒤 갈증과 짧은 호흡을 읽는 배합을 학습한다. 다른 배합에서는 반하와 함께 폐위의 음을 보완하고 기역을 다룬다. 두 배합에 공통으로 들어가 양음생진·윤폐지해·청심제번을 맡는 약재를 고른다.",
+      "options": [
+        {
+          "text": "현삼",
+          "detail": "양음·청열은 관련되지만 생맥산과 맥문동탕의 공통 중심 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-18"
+        },
+        {
+          "text": "맥문동",
+          "detail": "맥문동은 생맥산에서 인삼·오미자와, 맥문동탕에서 반하와 연결된다. 두 처방의 공통 약재와 양음·윤폐·청심 역할을 함께 맞춘다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-18"
+        },
+        {
+          "text": "천문동",
+          "detail": "양음윤조·청폐생진은 가까우나 제시한 두 원방의 공통 약재로 천문동을 맥문동 대신 적지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-18"
+        },
+        {
+          "text": "사삼",
+          "detail": "양음·폐의 배합이라는 점은 겹치지만 제시한 두 처방의 공통 약미는 맥문동이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-18"
+        },
+        {
+          "text": "백합",
+          "detail": "윤폐·청심은 겹치지만 식물 부위와 두 처방에 배정한 약미가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-18"
+        }
+      ],
+      "answer": 1,
+      "explanation": "맥문동은 생맥산에서 인삼·오미자와, 맥문동탕에서 반하와 연결된다. 두 처방의 공통 약재와 양음·윤폐·청심 역할을 함께 맞춘다.",
+      "discriminator": "비슷한 양음약 중 실제 두 배합의 공통 약미를 확인한다.",
+      "nearestWrong": 2,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-18",
+      "relatedSource": "/herbs/ophiopogon/"
+    },
+    {
+      "id": "clinical-herbs-19",
+      "cardId": "herb-citrus-immature",
+      "difficulty": "expert",
+      "prompt": "동일 감귤류 원료의 성숙도와 배합 역할을 연결하면?",
+      "context": "심하의 비만과 음식 정체를 파기·소적의 방향으로 읽는 문헌 배합이다. 시료는 성숙 과피가 아니라 어린 미성숙 열매이며, 대황·후박과 함께 승기계의 행기제만 축을 구성한다. 감귤류 이기약을 구별한다.",
+      "options": [
+        {
+          "text": "사인",
+          "detail": "비위의 행기·화습 약재이나 감귤류 어린 열매가 아닌 생강과 식물의 열매이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-19"
+        },
+        {
+          "text": "향부자",
+          "detail": "기체를 다루지만 감귤류 미성숙 열매가 아닌 사초과 뿌리줄기 계통이다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-19"
+        },
+        {
+          "text": "지실",
+          "detail": "지실은 어린 미성숙 열매를 쓰고 파기소적·화담산비를 승기계의 행기제만과 연결한다. 원료 성숙도와 실제 배합이 모두 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-19"
+        },
+        {
+          "text": "진피",
+          "detail": "감귤류 이기약이나 성숙 과피이며 이기건비·조습화담의 방향을 중심으로 읽는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-19"
+        },
+        {
+          "text": "청피",
+          "detail": "미성숙 감귤 원료라는 조건은 가까우나 소간파기·소적화체와 과피 규격을 읽으며 제시한 승기계의 지실 배합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-19"
+        }
+      ],
+      "answer": 2,
+      "explanation": "지실은 어린 미성숙 열매를 쓰고 파기소적·화담산비를 승기계의 행기제만과 연결한다. 원료 성숙도와 실제 배합이 모두 맞는다.",
+      "discriminator": "미성숙이라는 단어 하나보다 열매 전체의 규격과 승기계 배합 약미를 확인한다.",
+      "nearestWrong": 4,
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-19",
+      "relatedSource": "/herbs/citrus-immature/"
+    },
+    {
+      "id": "clinical-herbs-20",
+      "cardId": "herb-cynanchum-wilfordii",
+      "difficulty": "expert",
+      "prompt": "백하수오 원료 규격을 이름과 부위로 검토하면?",
+      "context": "소음인방의 원료 명세서에서 백하수오를 확인한다. 이름에 수오가 겹친다는 이유로 하수오나 이엽우피소와 동등 원료로 취급하지 않는다. 식약처 생약 규격에 근거한 백수오의 기원·약용부위 조합을 고른다.",
+      "options": [
+        {
+          "text": "Cynanchum auriculatum의 덩이뿌리",
+          "detail": "같은 속이고 덩이뿌리라는 점은 가까우나 이엽우피소의 기원으로 백수오 규격과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cynanchum-wilfordii",
+          "source": "/learning/herbs/#clinical-herbs-20"
+        },
+        {
+          "text": "Cynanchum wilfordii의 잎",
+          "detail": "기원종은 맞지만 약용부위를 잎으로 바꾸어 덩이뿌리 규격을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cynanchum-wilfordii",
+          "source": "/learning/herbs/#clinical-herbs-20"
+        },
+        {
+          "text": "Rehmannia glutinosa의 증숙한 뿌리",
+          "detail": "보익 배합의 뿌리 약재라는 점은 비슷하지만 증숙한 지황 뿌리는 숙지황이며 백수오 기원이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cynanchum-wilfordii",
+          "source": "/learning/herbs/#clinical-herbs-20"
+        },
+        {
+          "text": "Cynanchum wilfordii의 덩이뿌리",
+          "detail": "백수오·백하수오는 Cynanchum wilfordii의 덩이뿌리로 확인한다. 이름이 유사한 별도 기원과 약용부위를 대조한다.",
+          "owner": "정답 근거",
+          "ownerId": "herb-cynanchum-wilfordii",
+          "source": "/learning/herbs/#clinical-herbs-20"
+        },
+        {
+          "text": "Polygonum multiflorum의 덩이뿌리",
+          "detail": "덩이뿌리와 수오라는 이름은 가까우나 Polygonum multiflorum은 하수오의 기원으로 백하수오와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "herb-cynanchum-wilfordii",
+          "source": "/learning/herbs/#clinical-herbs-20"
+        }
+      ],
+      "answer": 3,
+      "explanation": "백수오·백하수오는 Cynanchum wilfordii의 덩이뿌리로 확인한다. 이름이 유사한 별도 기원과 약용부위를 대조한다.",
+      "discriminator": "한글 이름뿐 아니라 기원종과 덩이뿌리라는 두 규격을 모두 대조한다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "식약처 백수오 생약 규격",
+          "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP1352.pdf"
+        }
+      ],
+      "kind": "clinical",
+      "category": "기원·문헌 본초",
+      "source": "/learning/herbs/#clinical-herbs-20",
+      "relatedSource": "/herbs/cynanchum-wilfordii/"
     }
   ]
 }
