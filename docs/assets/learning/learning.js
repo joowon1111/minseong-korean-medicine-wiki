@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261004-02';
+  const VERSION = '20261004-03';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
   function readProgress(storage) {
@@ -134,7 +134,7 @@
     }
     filters.append(query, category, modeSelect);
     const stats = node('p', '', {class: 'learning-stats', 'aria-live': 'polite'});
-    const storageNote = node('p', '학습기록은 이 브라우저에 저장됩니다. 회원가입 없이 사용할 수 있습니다.', {class: 'learning-note'});
+    const storageNote = node('p', '학습기록은 이 브라우저에 저장됩니다.', {class: 'learning-note'});
     const status = node('p', '', {role: 'status', class: 'learning-status'});
     const stage = node('div', undefined, {class: 'learning-stage'});
     const toolbar = node('div', undefined, {class: 'learning-toolbar'});

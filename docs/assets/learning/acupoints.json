@@ -56013,6 +56013,450 @@
       "category": "임맥",
       "source": "/learning/acupoints/#clinical-acupoints-20",
       "relatedSource": "/acupuncture/points/cv4-guanyuan/"
+    },
+    {
+      "id": "clinical-acupoints-21",
+      "cardId": "point-SP9",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "뼈 표지와 경맥·오수혈 분류가 함께 맞는 혈은?",
+      "context": "무릎 안쪽에서 정강뼈 안쪽관절융기 아래 가장자리를 따라간다. 그 가장자리와 정강뼈 안쪽 모서리가 만나는 오목한 부위를 찾고, 비경의 합혈인지 함께 확인하려 한다.",
+      "options": [
+        {
+          "text": "음곡",
+          "detail": "신경의 합혈로 무릎 안쪽에 있지만 굽힘 주름의 힘줄 사이 표지이며 제시된 정강뼈 아래 오목한 부위와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#clinical-acupoints-21"
+        },
+        {
+          "text": "혈해",
+          "detail": "비경이지만 넙다리 안쪽, 무릎뼈 바닥 위 2촌의 안쪽넓은근 부위이다. 비경 합혈도 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#clinical-acupoints-21"
+        },
+        {
+          "text": "곡천",
+          "detail": "간경 합혈로 무릎 안쪽에 있으나 무릎 안쪽 굽힘 주름 부위이다. 소속 경맥과 뼈 표지가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#clinical-acupoints-21"
+        },
+        {
+          "text": "음릉천",
+          "detail": "정강뼈 안쪽관절융기 아래의 오목한 부위이며 비경의 합혈이다. 뼈·면·분류가 모두 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#clinical-acupoints-21"
+        },
+        {
+          "text": "양릉천",
+          "detail": "담경의 합혈이라는 분류는 비슷하지만 종아리뼈머리 앞아래의 가쪽 표지이므로 제시된 안쪽 정강뼈와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP9",
+          "source": "/learning/acupoints/#clinical-acupoints-21"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "음릉천 — 정강뼈 안쪽관절융기 아래의 오목한 부위이며 비경의 합혈이다. 뼈·면·분류가 모두 맞는다.",
+      "discriminator": "무릎이라는 부위보다 정강뼈 안쪽관절융기 아래라는 표지와 비경 합혈의 교집합을 찾는다.",
+      "kind": "clinical",
+      "category": "족태음비경",
+      "source": "/learning/acupoints/#clinical-acupoints-21",
+      "relatedSource": "/acupuncture/points/sp9-yinlingquan/"
+    },
+    {
+      "id": "clinical-acupoints-22",
+      "cardId": "point-ST40",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "같은 종아리 높이에서 위치와 낙혈 속성이 일치하는 혈은?",
+      "context": "가쪽복사 융기에서 위로 8촌인 높이를 찾았다. 앞정강근의 가쪽 가장자리 쪽에서 위경의 낙혈을 확인하려 한다. 같은 높이의 인접 위경 혈과 위치·분류를 구별한다.",
+      "options": [
+        {
+          "text": "상거허",
+          "detail": "위경에 속하고 대장 하합혈이나 독비 아래 6촌이며 위경 낙혈은 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST40",
+          "source": "/learning/acupoints/#clinical-acupoints-22"
+        },
+        {
+          "text": "현종",
+          "detail": "가쪽복사 위 3촌의 담경 혈로 수회라는 분류와 연결된다. 높이와 소속이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST40",
+          "source": "/learning/acupoints/#clinical-acupoints-22"
+        },
+        {
+          "text": "풍륭",
+          "detail": "가쪽복사 위 8촌, 앞정강근 가쪽 가장자리의 위경 낙혈이다. 높이와 가쪽 위치, 낙혈 속성이 함께 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST40",
+          "source": "/learning/acupoints/#clinical-acupoints-22"
+        },
+        {
+          "text": "조구",
+          "detail": "가쪽복사 위 8촌이라는 높이는 공유하지만 더 안쪽의 정강뼈 앞모서리 가쪽에 위치하며 위경 낙혈은 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST40",
+          "source": "/learning/acupoints/#clinical-acupoints-22"
+        },
+        {
+          "text": "족삼리",
+          "detail": "위경 합혈·위 하합혈이지만 독비 아래 3촌으로 제시된 높이와 낙혈 분류가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST40",
+          "source": "/learning/acupoints/#clinical-acupoints-22"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "풍륭 — 가쪽복사 위 8촌, 앞정강근 가쪽 가장자리의 위경 낙혈이다. 높이와 가쪽 위치, 낙혈 속성이 함께 맞는다.",
+      "discriminator": "조구와 풍륭은 높이만으로 나누기 어렵다. 앞정강근 가쪽 가장자리와 위경 낙혈을 함께 확인한다.",
+      "kind": "clinical",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#clinical-acupoints-22",
+      "relatedSource": "/acupuncture/points/st40-fenglong/"
+    },
+    {
+      "id": "clinical-acupoints-23",
+      "cardId": "point-BL60",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "복사뼈의 면과 힘줄 관계·오수혈 분류가 모두 맞는 혈은?",
+      "context": "발목 가쪽에서 가쪽복사 융기와 아킬레스힘줄 사이 오목한 부위를 확인했다. 방광경의 경혈(經穴)인지 점검한다. 여기서 經은 일반적인 경혈이라는 뜻이 아니라 오수혈의 한 분류이다.",
+      "options": [
+        {
+          "text": "해계",
+          "detail": "위경의 경혈(經穴)로 발목 앞쪽 힘줄 사이이다. 복사 뒤쪽 아킬레스힘줄 표지와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#clinical-acupoints-23"
+        },
+        {
+          "text": "곤륜",
+          "detail": "가쪽복사와 아킬레스힘줄 사이에 위치하며 방광경의 경혈(經穴)이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#clinical-acupoints-23"
+        },
+        {
+          "text": "태계",
+          "detail": "안쪽복사와 아킬레스힘줄 사이여서 힘줄 관계는 유사하지만 면이 다르다. 신경의 수혈·원혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#clinical-acupoints-23"
+        },
+        {
+          "text": "복류",
+          "detail": "신경의 경혈(經穴)이라는 분류는 같지만 안쪽복사 위 2촌, 아킬레스힘줄 앞쪽이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#clinical-acupoints-23"
+        },
+        {
+          "text": "신맥",
+          "detail": "방광경이며 가쪽복사 아래쪽에 있으나 힘줄 사이의 곤륜과 구별된다. 오수혈 경혈도 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-BL60",
+          "source": "/learning/acupoints/#clinical-acupoints-23"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "곤륜 — 가쪽복사와 아킬레스힘줄 사이에 위치하며 방광경의 경혈(經穴)이다.",
+      "discriminator": "가쪽·안쪽 면과 오수혈 經 분류를 각각 확인한다. 힘줄 하나를 공유한다고 같은 혈이 아니다.",
+      "kind": "clinical",
+      "category": "족태양방광경",
+      "source": "/learning/acupoints/#clinical-acupoints-23",
+      "relatedSource": "/acupuncture/points/bl60-kunlun/"
+    },
+    {
+      "id": "clinical-acupoints-24",
+      "cardId": "point-LU5",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "팔꿈치 앞쪽 힘줄의 어느 쪽인지와 합혈 분류를 함께 만족하는 혈은?",
+      "context": "팔꿈치를 굽혀 앞쪽 주름과 위팔두갈래근힘줄을 확인했다. 힘줄의 요측 오목한 부위를 찾고, 폐경의 합혈을 선택하려 한다.",
+      "options": [
+        {
+          "text": "척택",
+          "detail": "팔꿈치 앞주름에서 위팔두갈래근힘줄의 요측이며 폐경의 합혈이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-LU5",
+          "source": "/learning/acupoints/#clinical-acupoints-24"
+        },
+        {
+          "text": "곡택",
+          "detail": "같은 주름의 위팔두갈래근힘줄 척측에 있으며 심포경의 합혈이다. 힘줄을 기준으로 반대쪽이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU5",
+          "source": "/learning/acupoints/#clinical-acupoints-24"
+        },
+        {
+          "text": "곡지",
+          "detail": "대장경의 합혈로 팔꿈치 가쪽에 있으나 제시된 힘줄 요측의 폐경 위치와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU5",
+          "source": "/learning/acupoints/#clinical-acupoints-24"
+        },
+        {
+          "text": "심경의 소해",
+          "detail": "심경의 합혈로 팔꿈치 안쪽에 있으나 앞힘줄의 요측이라는 기준과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU5",
+          "source": "/learning/acupoints/#clinical-acupoints-24"
+        },
+        {
+          "text": "천정",
+          "detail": "삼초경 합혈이며 팔꿈치 뒤쪽 팔꿈치머리 위에 있다. 앞주름과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "point-LU5",
+          "source": "/learning/acupoints/#clinical-acupoints-24"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "척택 — 팔꿈치 앞주름에서 위팔두갈래근힘줄의 요측이며 폐경의 합혈이다.",
+      "discriminator": "척택과 곡택은 앞주름을 공유하지만 위팔두갈래근힘줄의 요측·척측과 소속 경맥이 다르다.",
+      "kind": "clinical",
+      "category": "수태음폐경",
+      "source": "/learning/acupoints/#clinical-acupoints-24",
+      "relatedSource": "/acupuncture/points/lu5-chize/"
+    },
+    {
+      "id": "clinical-acupoints-25",
+      "cardId": "point-SP10",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "같은 2촌 높이의 두 무릎 위 혈을 바르게 대응시킨 것은?",
+      "context": "두 혈의 높이는 모두 무릎뼈 바닥 위 2촌이다. A는 무릎뼈 안쪽 끝 위의 안쪽넓은근 융기, B는 앞가쪽 넙다리에서 가쪽넓은근과 넙다리곧은근 사이를 기준으로 삼는다. A는 비경, B는 위경 극혈 조건도 만족해야 한다.",
+      "options": [
+        {
+          "text": "A 양구 · B 혈해",
+          "detail": "두 혈의 높이는 맞지만 안쪽·앞가쪽 표지와 소속을 서로 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP10",
+          "source": "/learning/acupoints/#clinical-acupoints-25"
+        },
+        {
+          "text": "A 음릉천 · B 양구",
+          "detail": "B는 맞지만 음릉천은 정강뼈 안쪽관절융기 아래여서 무릎뼈 바닥 위 2촌의 A와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP10",
+          "source": "/learning/acupoints/#clinical-acupoints-25"
+        },
+        {
+          "text": "A 혈해 · B 족삼리",
+          "detail": "A는 맞지만 족삼리는 무릎 아래, 독비 아래 3촌의 합혈·하합혈이다. B의 극혈·높이와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP10",
+          "source": "/learning/acupoints/#clinical-acupoints-25"
+        },
+        {
+          "text": "A 곡천 · B 양릉천",
+          "detail": "둘 다 무릎 주변 합혈이지만 A의 넙다리 위쪽 근육 표지와 B의 위경 극혈 조건을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "point-SP10",
+          "source": "/learning/acupoints/#clinical-acupoints-25"
+        },
+        {
+          "text": "A 혈해 · B 양구",
+          "detail": "혈해는 안쪽넓은근 쪽 비경 혈이고 양구는 앞가쪽의 위경 극혈이다. 같은 높이에서 면·근육·분류를 함께 구별한다.",
+          "owner": "정답 근거",
+          "ownerId": "point-SP10",
+          "source": "/learning/acupoints/#clinical-acupoints-25"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "A 혈해 · B 양구 — 혈해는 안쪽넓은근 쪽 비경 혈이고 양구는 앞가쪽의 위경 극혈이다. 같은 높이에서 면·근육·분류를 함께 구별한다.",
+      "discriminator": "높이가 같아도 무릎뼈 안쪽·앞가쪽 면, 근육 표지와 위경 극혈 속성이 다르다.",
+      "kind": "clinical",
+      "category": "족태음비경",
+      "source": "/learning/acupoints/#clinical-acupoints-25",
+      "relatedSource": "/acupuncture/points/sp10-xuehai/"
+    },
+    {
+      "id": "clinical-acupoints-26",
+      "cardId": "point-ST36",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "개인별 골도분촌으로 족삼리의 세로 높이를 계산한 기록은?",
+      "context": "이 문항은 종아리 세로 높이 계산만 다룬다. 독비–해계 기준선은 각 사람에서 16촌으로 잡는다. 족삼리는 독비 아래 3촌이다. 두 사람의 실측 기준선 길이가 다를 때 독비에서 아래로 내려갈 거리를 구한다. 가로 위치와 촉진은 별도로 확인해야 한다.",
+      "options": [
+        {
+          "text": "A 3.0 cm · B 3.0 cm",
+          "detail": "3촌을 고정된 3 cm로 바꾸었다. 촌은 이 문항의 개인별 기준선 비율이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST36",
+          "source": "/learning/acupoints/#clinical-acupoints-26"
+        },
+        {
+          "text": "A 8.0 cm · B 10.0 cm",
+          "detail": "두 값은 기준선의 4/16이다. 족삼리의 독비 아래 3촌 조건을 4촌으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST36",
+          "source": "/learning/acupoints/#clinical-acupoints-26"
+        },
+        {
+          "text": "A 7.5 cm · B 6.0 cm",
+          "detail": "각 사람의 기준선 길이를 바꾸어 적용했다. 같은 비율에서는 긴 기준선의 환산 거리도 더 길다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST36",
+          "source": "/learning/acupoints/#clinical-acupoints-26"
+        },
+        {
+          "text": "A 6.0 cm · B 7.5 cm",
+          "detail": "각 기준선에 3/16을 곱한다. A는 32×3/16=6.0 cm, B는 40×3/16=7.5 cm이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-ST36",
+          "source": "/learning/acupoints/#clinical-acupoints-26"
+        },
+        {
+          "text": "A 6.0 cm · B 6.0 cm",
+          "detail": "A의 계산은 맞지만 A에서 환산한 길이를 B에게 그대로 적용했다. 골도분촌의 기준선은 개인별이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-ST36",
+          "source": "/learning/acupoints/#clinical-acupoints-26"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "A 6.0 cm · B 7.5 cm — 각 기준선에 3/16을 곱한다. A는 32×3/16=6.0 cm, B는 40×3/16=7.5 cm이다.",
+      "discriminator": "고정된 cm나 다른 사람의 환산값 대신 각자의 16촌 기준선에서 3/16을 적용한다.",
+      "table": {
+        "caption": "교육용 개인별 기준선",
+        "headers": [
+          "사람",
+          "독비–해계 실측 길이",
+          "골도분촌"
+        ],
+        "rows": [
+          [
+            "A",
+            "32 cm",
+            "16촌"
+          ],
+          [
+            "B",
+            "40 cm",
+            "16촌"
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "족양명위경",
+      "source": "/learning/acupoints/#clinical-acupoints-26",
+      "relatedSource": "/acupuncture/points/st36-zusanli/"
+    },
+    {
+      "id": "clinical-acupoints-27",
+      "cardId": "point-PC7",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "손목 표지와 원혈·수혈의 이중 분류가 함께 맞는 혈은?",
+      "context": "손바닥 쪽 손목주름에서 긴손바닥근힘줄과 노쪽손목굽힘근힘줄 사이를 찾았다. 두 힘줄을 확인할 수 있는 사람이라고 가정한다. 심포경의 원혈이면서 오수혈의 수혈(兪穴)인 혈을 고른다.",
+      "options": [
+        {
+          "text": "태연",
+          "detail": "폐경의 수혈·원혈이나 손목주름의 요측, 노동맥 부근으로 두 힘줄 사이와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#clinical-acupoints-27"
+        },
+        {
+          "text": "양계",
+          "detail": "손등 요측의 해부학적 코담배갑 부위이며 대장경의 경혈(經穴)이다. 면과 분류가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#clinical-acupoints-27"
+        },
+        {
+          "text": "대릉",
+          "detail": "손바닥 쪽 손목주름의 두 힘줄 사이에 위치하며 심포경의 수혈·원혈이다.",
+          "owner": "정답 근거",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#clinical-acupoints-27"
+        },
+        {
+          "text": "내관",
+          "detail": "같은 힘줄 사이에 있어 가장 가까운 위치 비교이지만 손목주름 위 2촌이다. 심포경의 낙혈이며 원혈·수혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#clinical-acupoints-27"
+        },
+        {
+          "text": "신문",
+          "detail": "심경의 수혈·원혈이라는 분류는 유사하나 자쪽손목굽힘근힘줄 요측의 손목주름이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-PC7",
+          "source": "/learning/acupoints/#clinical-acupoints-27"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "대릉 — 손바닥 쪽 손목주름의 두 힘줄 사이에 위치하며 심포경의 수혈·원혈이다.",
+      "discriminator": "내관은 힘줄 관계를 공유하지만 높이와 낙혈 분류가 다르다. 원혈·수혈의 이중 조건을 확인한다.",
+      "kind": "clinical",
+      "category": "수궐음심포경",
+      "source": "/learning/acupoints/#clinical-acupoints-27",
+      "relatedSource": "/acupuncture/points/pc7-daling/"
+    },
+    {
+      "id": "clinical-acupoints-28",
+      "cardId": "point-GB30",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "환도의 기준점을 바르게 정하고 분할한 기록은?",
+      "context": "환도의 표준 위치를 도식으로 배우는 상황이다. 큰돌기 융기에서 엉치뼈틈새까지의 가상 연결선 길이를 24 cm로 제시했다. 환도는 이 선의 가쪽 1/3과 안쪽 2/3가 만나는 위치이다. 도식의 길이는 실제 촉진이나 자침 깊이를 뜻하지 않는다.",
+      "options": [
+        {
+          "text": "큰돌기–엉치뼈틈새 선에서 엉치뼈틈새 쪽으로부터 8 cm",
+          "detail": "가쪽 끝에서 재는 8 cm를 안쪽 끝에서 적용해 위치를 반대로 잡았다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB30",
+          "source": "/learning/acupoints/#clinical-acupoints-28"
+        },
+        {
+          "text": "큰돌기–엉치뼈틈새 선에서 큰돌기 쪽으로부터 8 cm",
+          "detail": "가쪽 끝인 큰돌기에서 선 길이의 1/3만큼 간다. 엉치뼈틈새 쪽에서는 16 cm로 같은 지점을 나타낸다.",
+          "owner": "정답 근거",
+          "ownerId": "point-GB30",
+          "source": "/learning/acupoints/#clinical-acupoints-28"
+        },
+        {
+          "text": "큰돌기–엉치뼈틈새 선에서 큰돌기 쪽으로부터 16 cm",
+          "detail": "양 끝점은 맞지만 가쪽 1/3을 2/3로 바꾸었다. 16 cm는 안쪽 끝에서 잴 때의 거리이다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB30",
+          "source": "/learning/acupoints/#clinical-acupoints-28"
+        },
+        {
+          "text": "큰돌기–위뒤엉덩뼈가시 선에서 큰돌기 쪽으로부터 8 cm",
+          "detail": "비율은 비슷하게 보이지만 안쪽 기준점이 엉치뼈틈새가 아니다. 기준점을 바꾼 선은 같은 위치를 보장하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB30",
+          "source": "/learning/acupoints/#clinical-acupoints-28"
+        },
+        {
+          "text": "큰돌기–엉치뼈틈새 선에서 양 끝의 중점인 12 cm",
+          "detail": "양 끝점은 맞지만 중점은 1/3과 2/3가 만나는 표준 비율과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "point-GB30",
+          "source": "/learning/acupoints/#clinical-acupoints-28"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "큰돌기–엉치뼈틈새 선에서 큰돌기 쪽으로부터 8 cm — 가쪽 끝인 큰돌기에서 선 길이의 1/3만큼 간다. 엉치뼈틈새 쪽에서는 16 cm로 같은 지점을 나타낸다.",
+      "discriminator": "분할 비율을 외우기 전에 큰돌기와 엉치뼈틈새라는 양 끝점과 어느 쪽에서 재는지를 확정한다.",
+      "kind": "clinical",
+      "category": "족소양담경",
+      "source": "/learning/acupoints/#clinical-acupoints-28",
+      "relatedSource": "/acupuncture/points/gb30-huantiao/"
     }
   ]
 }

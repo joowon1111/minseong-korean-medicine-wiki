@@ -20969,6 +20969,430 @@
       "category": "통증·풍습·활혈",
       "source": "/learning/formulas/#clinical-formulas-20",
       "relatedSource": "/formulas/duhuo-jisheng-tang/"
+    },
+    {
+      "id": "clinical-formulas-21",
+      "cardId": "formula-banxia-xiexin-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "심하비와 한열 병용의 기본 배합을 함께 설명하는 처방은?",
+      "context": "학습 증례에서 명치가 막힌 듯 그득하고 구역과 장명·묽은 변이 함께 있다. 압통이 심한 실성 결흉을 설정한 증례는 아니다. 제시된 기본 골격은 반하·건강·황금·황련·인삼·감초·대조이며, 생강을 추가해 식취 나는 트림을 강조하는 변방과는 구별한다.",
+      "options": [
+        {
+          "text": "반하사심탕",
+          "detail": "반하·건강의 신개와 황금·황련의 고강, 인삼·감초·대조의 보중을 함께 읽는 기본 사심탕 구조이다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-banxia-xiexin-tang",
+          "source": "/learning/formulas/#clinical-formulas-21"
+        },
+        {
+          "text": "생강사심탕",
+          "detail": "사심탕 골격을 공유하지만 생강의 비중과 식취 나는 애기·수기 문맥을 추가로 확인한다. 제시된 기본 구성에는 그 변화를 넣지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-banxia-xiexin-tang",
+          "source": "/learning/formulas/#clinical-formulas-21"
+        },
+        {
+          "text": "감초사심탕",
+          "detail": "사심탕 계열이지만 감초의 비중과 위허·하리·건구 등의 조문 조건을 구별한다. 기본 골격의 이름을 그대로 바꾸지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-banxia-xiexin-tang",
+          "source": "/learning/formulas/#clinical-formulas-21"
+        },
+        {
+          "text": "황련해독탕",
+          "detail": "황련·황금이라는 청열약을 공유하나 반하·건강의 신개와 인삼 등의 보중을 포함하는 한열 병용 구조와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-banxia-xiexin-tang",
+          "source": "/learning/formulas/#clinical-formulas-21"
+        },
+        {
+          "text": "선복대자탕",
+          "detail": "심하비·애기와 연결될 수 있지만 선복화·대자석의 강역 배합이 핵심이다. 제시된 황금·황련의 사심탕 골격과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-banxia-xiexin-tang",
+          "source": "/learning/formulas/#clinical-formulas-21"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "반하사심탕 — 반하·건강의 신개와 황금·황련의 고강, 인삼·감초·대조의 보중을 함께 읽는 기본 사심탕 구조이다.",
+      "discriminator": "증상 하나가 아니라 명시된 기본 약미와 한열 병용·보중의 세 배합축을 맞춘다.",
+      "kind": "clinical",
+      "category": "비위·소화·온중·변비",
+      "source": "/learning/formulas/#clinical-formulas-21",
+      "relatedSource": "/formulas/banxia-xiexin-tang/"
+    },
+    {
+      "id": "clinical-formulas-22",
+      "cardId": "formula-xiaoqinglong-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "외한·내음과 수렴을 함께 읽는 배합은?",
+      "context": "전통 방제학의 교육용 증례이다. 오한·무한의 표한에 맑고 묽은 가래, 수양성 분비물과 기침이 겹친다. 배합에는 마황·계지와 함께 건강·세신·반하 및 오미자·작약이 제시되어 있다. 강한 열과 큰 갈증이 중심인 증례는 아니다.",
+      "options": [
+        {
+          "text": "마황탕",
+          "detail": "풍한표실·무한·천의 해표·선폐는 가까우나 건강·세신·반하·오미자를 포함하는 외한내음 구조와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoqinglong-tang",
+          "source": "/learning/formulas/#clinical-formulas-22"
+        },
+        {
+          "text": "마행감석탕",
+          "detail": "마황·행인과 석고의 선폐·청열 구조이다. 제시된 온폐화음·수렴 배합과 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoqinglong-tang",
+          "source": "/learning/formulas/#clinical-formulas-22"
+        },
+        {
+          "text": "이진탕",
+          "detail": "반하를 중심으로 담습을 조절하지만 마황·계지의 표한 처리와 건강·세신·오미자의 구조를 갖춘 처방은 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoqinglong-tang",
+          "source": "/learning/formulas/#clinical-formulas-22"
+        },
+        {
+          "text": "계지탕",
+          "detail": "계지·작약과 영위 조화라는 공통점이 있으나 제시된 무한·내음 및 여러 온화담음 약미의 골격과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaoqinglong-tang",
+          "source": "/learning/formulas/#clinical-formulas-22"
+        },
+        {
+          "text": "소청룡탕",
+          "detail": "마황·계지의 해표, 건강·세신·반하의 온화한 담음 조절과 오미자·작약의 수렴을 함께 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xiaoqinglong-tang",
+          "source": "/learning/formulas/#clinical-formulas-22"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "소청룡탕 — 마황·계지의 해표, 건강·세신·반하의 온화한 담음 조절과 오미자·작약의 수렴을 함께 읽는다.",
+      "discriminator": "해표약만으로 고르지 않고 건강·세신·반하와 오미자의 내음·수렴 배합까지 확인한다.",
+      "kind": "clinical",
+      "category": "외감·호흡·이비인후",
+      "source": "/learning/formulas/#clinical-formulas-22",
+      "relatedSource": "/formulas/xiaoqinglong-tang/"
+    },
+    {
+      "id": "clinical-formulas-23",
+      "cardId": "formula-pingwei-san",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "창출·후박·진피·감초의 기본 골격을 병기와 연결한 것은?",
+      "context": "식후 상복부가 그득하고 몸이 무겁고 입맛이 떨어지는 습체 중심의 학습 증례이다. 담백한 기허 소견을 주된 조건으로 설정하지 않았다. 창출·후박·진피·감초의 네 약미를 기본 골격으로 놓고 생강·대조 등 전탕 보조는 따로 기록한다.",
+      "options": [
+        {
+          "text": "이진탕",
+          "detail": "진피·감초와 습담 조절은 공유하지만 반하·복령의 화담 구조가 핵심이다. 제시된 창출·후박 골격과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-pingwei-san",
+          "source": "/learning/formulas/#clinical-formulas-23"
+        },
+        {
+          "text": "향사육군자탕",
+          "detail": "비기허·담습·기체를 함께 읽는 보익 포함 구조로, 이 문항의 네 약미 기본 골격보다 넓다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-pingwei-san",
+          "source": "/learning/formulas/#clinical-formulas-23"
+        },
+        {
+          "text": "곽향정기산",
+          "detail": "습체와 오심·복만에서 비교할 수 있으나 곽향·소엽 등의 해표화습을 포함한다. 명시된 평위산 기본 골격과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-pingwei-san",
+          "source": "/learning/formulas/#clinical-formulas-23"
+        },
+        {
+          "text": "평위산",
+          "detail": "창출의 조습과 후박·진피의 행기제만을 묶어 중초 습체의 구조를 읽는다. 기본 골격과 병기가 함께 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-pingwei-san",
+          "source": "/learning/formulas/#clinical-formulas-23"
+        },
+        {
+          "text": "사군자탕",
+          "detail": "비기허 보익 구조이며 인삼·백출·복령·감초가 기본이다. 창출·후박을 백출·복령과 같게 보지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-pingwei-san",
+          "source": "/learning/formulas/#clinical-formulas-23"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "평위산 — 창출의 조습과 후박·진피의 행기제만을 묶어 중초 습체의 구조를 읽는다. 기본 골격과 병기가 함께 맞는다.",
+      "discriminator": "습이라는 공통점보다 창출·후박의 조습제만과 보익약 포함 여부를 먼저 확인한다.",
+      "kind": "clinical",
+      "category": "비위·소화·온중·변비",
+      "source": "/learning/formulas/#clinical-formulas-23",
+      "relatedSource": "/formulas/pingwei-san/"
+    },
+    {
+      "id": "clinical-formulas-24",
+      "cardId": "formula-xuefu-zhuyu-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "흉부 어혈에 기의 소통을 함께 배합한 구조는?",
+      "context": "처방 이름을 가린 비교 자료에 도인·홍화와 당귀·생지황·천궁·작약, 시호·지각·길경·우슬·감초가 제시되어 있다. 흉부의 어혈축에 기의 소통과 승강을 함께 읽는 과제이며, 단순히 흉통이라는 증상만으로 처방하는 상황은 아니다.",
+      "options": [
+        {
+          "text": "도핵승기탕",
+          "detail": "도인의 어혈축을 공유하지만 계지·대황·망초의 하초 어혈·공하 구조가 중심이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xuefu-zhuyu-tang",
+          "source": "/learning/formulas/#clinical-formulas-24"
+        },
+        {
+          "text": "소복축어탕",
+          "detail": "어혈 처방이지만 소복의 한응·어혈과 온경산한 배합을 읽는다. 제시된 흉부·행기·승강 구조와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xuefu-zhuyu-tang",
+          "source": "/learning/formulas/#clinical-formulas-24"
+        },
+        {
+          "text": "혈부축어탕",
+          "detail": "도인·홍화 등의 활혈축에 시호·지각의 행기와 길경·우슬의 승강 배합을 함께 읽는 제시 구성이다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xuefu-zhuyu-tang",
+          "source": "/learning/formulas/#clinical-formulas-24"
+        },
+        {
+          "text": "도홍사물탕",
+          "detail": "사물탕에 도인·홍화를 더하는 구조는 가까우나 시호·지각·길경·우슬까지 포함한 이 배합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xuefu-zhuyu-tang",
+          "source": "/learning/formulas/#clinical-formulas-24"
+        },
+        {
+          "text": "보양환오탕",
+          "detail": "기허·어혈과 활혈축을 함께 읽지만 황기의 보기 비중이 핵심이다. 이 문항의 행기·승강 약미 골격과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xuefu-zhuyu-tang",
+          "source": "/learning/formulas/#clinical-formulas-24"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "혈부축어탕 — 도인·홍화 등의 활혈축에 시호·지각의 행기와 길경·우슬의 승강 배합을 함께 읽는 제시 구성이다.",
+      "discriminator": "가까운 도홍사물탕과 공유하는 활혈 골격 뒤에 시호·지각·길경·우슬이 더해진 이유를 설명한다.",
+      "kind": "clinical",
+      "category": "통증·풍습·활혈",
+      "source": "/learning/formulas/#clinical-formulas-24",
+      "relatedSource": "/formulas/xuefu-zhuyu-tang/"
+    },
+    {
+      "id": "clinical-formulas-25",
+      "cardId": "formula-liu-wei-dihuang-wan",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "육미지황환의 삼보삼사를 약미별로 바르게 묶은 것은?",
+      "context": "육미지황환의 여섯 약미를 보익축과 조절축으로 나누어 공부한다. 택사·복령·목단피가 있다는 이유로 전체를 이수 처방으로 바꾸지 않고, 숙지황 등의 보익을 어떻게 조절하는지 읽는다.",
+      "options": [
+        {
+          "text": "삼보 숙지황·복령·목단피 / 삼사 산수유·산약·택사",
+          "detail": "숙지황만 보익축에 맞고 산수유·산약을 조절축으로 옮겼다. 여섯 약미의 존재만으로 구조를 설명할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liu-wei-dihuang-wan",
+          "source": "/learning/formulas/#clinical-formulas-25"
+        },
+        {
+          "text": "삼보 숙지황·산수유·산약 / 삼사 택사·복령·목단피",
+          "detail": "숙지황·산수유·산약의 보익과 택사·복령·목단피의 조절을 짝지어 삼보삼사 구조를 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-liu-wei-dihuang-wan",
+          "source": "/learning/formulas/#clinical-formulas-25"
+        },
+        {
+          "text": "삼보 숙지황·산수유·복령 / 삼사 택사·산약·목단피",
+          "detail": "숙지황·산수유는 맞지만 복령과 산약의 배치가 바뀌었다. 산약은 삼보, 복령은 삼사에 넣는다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liu-wei-dihuang-wan",
+          "source": "/learning/formulas/#clinical-formulas-25"
+        },
+        {
+          "text": "삼보 숙지황·산약·목단피 / 삼사 택사·복령·산수유",
+          "detail": "숙지황·산약은 맞지만 목단피와 산수유를 뒤집었다. 산수유는 보익·수렴축이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liu-wei-dihuang-wan",
+          "source": "/learning/formulas/#clinical-formulas-25"
+        },
+        {
+          "text": "삼보 산수유·산약·택사 / 삼사 숙지황·복령·목단피",
+          "detail": "산수유·산약은 맞지만 중심 보익약 숙지황을 삼사로, 택사를 삼보로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liu-wei-dihuang-wan",
+          "source": "/learning/formulas/#clinical-formulas-25"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "삼보 숙지황·산수유·산약 / 삼사 택사·복령·목단피 — 숙지황·산수유·산약의 보익과 택사·복령·목단피의 조절을 짝지어 삼보삼사 구조를 읽는다.",
+      "discriminator": "약미 여섯 개를 맞히는 것과 삼보삼사의 역할을 맞히는 것은 다르다.",
+      "kind": "clinical",
+      "category": "보음·보양·신허",
+      "source": "/learning/formulas/#clinical-formulas-25",
+      "relatedSource": "/formulas/liu%20wei%20dihuang%20wan/"
+    },
+    {
+      "id": "clinical-formulas-26",
+      "cardId": "formula-siwu-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "보혈과 혈행을 함께 읽되 추가 보익·활혈약이 없는 기본방은?",
+      "context": "학습 자료에는 당귀·천궁·작약·숙지황만 기본 골격으로 적혀 있다. 황기·인삼·백출·복령이나 도인·홍화를 추가한 자료는 아니다. 보혈을 중심으로 천궁 등의 혈행 조절을 함께 설명할 처방을 고른다.",
+      "options": [
+        {
+          "text": "사물탕",
+          "detail": "당귀·천궁·작약·숙지황의 보혈·혈행 조절 기본 구조이다. 별도의 보기약이나 도인·홍화를 추가하지 않은 조건과 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-26"
+        },
+        {
+          "text": "도홍사물탕",
+          "detail": "사물탕 골격을 공유하지만 도인·홍화를 더한 활혈 구조이다. 제시 구성에는 그 추가 약미가 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-26"
+        },
+        {
+          "text": "팔진탕",
+          "detail": "사물탕에 사군자탕의 보기 골격을 합한 기혈쌍보방이다. 제시 자료에는 인삼·백출·복령 등의 추가가 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-26"
+        },
+        {
+          "text": "당귀보혈탕",
+          "detail": "당귀·황기의 보기생혈 구조이며 천궁·작약·숙지황의 제시된 네 약미 골격과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-26"
+        },
+        {
+          "text": "귀비탕",
+          "detail": "심비 기혈을 함께 보하는 보다 넓은 구조로 읽는다. 처방 이름에 보혈 의미가 있다고 사물탕의 네 약미와 동일하지 않다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-26"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "사물탕 — 당귀·천궁·작약·숙지황의 보혈·혈행 조절 기본 구조이다. 별도의 보기약이나 도인·홍화를 추가하지 않은 조건과 맞는다.",
+      "discriminator": "가장 가까운 파생방에서 어떤 약미가 추가되는지 확인하고 기본 골격의 범위를 지킨다.",
+      "kind": "clinical",
+      "category": "보기·기혈·회복",
+      "source": "/learning/formulas/#clinical-formulas-26",
+      "relatedSource": "/formulas/siwu-tang/"
+    },
+    {
+      "id": "clinical-formulas-27",
+      "cardId": "formula-xiangsha-liujunzi-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "보기·화담·행기화습의 세 층을 모두 포함하는 처방 구조는?",
+      "context": "일반 방제학의 기본 구성 비교이다. 식욕저하·쉽게 피곤함이라는 비기허축에 담습·식후 팽만을 함께 설정했다. 사군자탕 골격에 진피·반하를 더하고 다시 목향·사인을 배합하는 세 층을 구분한다. 다른 수록본의 가미 약재는 이번 비교에 합치지 않는다.",
+      "options": [
+        {
+          "text": "육군자탕",
+          "detail": "보기와 진피·반하의 화담까지는 맞지만 목향·사인을 추가한 마지막 층이 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-27"
+        },
+        {
+          "text": "사군자탕",
+          "detail": "보기의 출발 골격이나 진피·반하 및 목향·사인을 포함한 두 층이 빠진다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-27"
+        },
+        {
+          "text": "평위산",
+          "detail": "중초 습체·기체를 다루지만 창출·후박·진피·감초의 골격으로, 사군자탕 기반의 세 층과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-27"
+        },
+        {
+          "text": "이진탕",
+          "detail": "화담층과는 가깝지만 사군자탕의 보기 골격 및 목향·사인을 포함하는 제시 구조 전체와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-27"
+        },
+        {
+          "text": "향사육군자탕",
+          "detail": "사군자탕의 보기, 진피·반하의 화담, 목향·사인의 행기화습을 층별로 읽는 구조이다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-27"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "향사육군자탕 — 사군자탕의 보기, 진피·반하의 화담, 목향·사인의 행기화습을 층별로 읽는 구조이다.",
+      "discriminator": "증상 이름보다 사군자 → 육군자 → 향사육군자의 실제 추가 약미를 순서대로 확인한다.",
+      "kind": "clinical",
+      "category": "비위·소화·온중·변비",
+      "source": "/learning/formulas/#clinical-formulas-27",
+      "relatedSource": "/formulas/xiangsha-liujunzi-tang/"
+    },
+    {
+      "id": "clinical-formulas-28",
+      "cardId": "formula-mahuang-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "무한·표실의 해표선폐 구조와 온폐화음 변방을 구별한 것은?",
+      "context": "전통 교육용 증례에서 오한·발열·몸살과 무한·천을 제시한다. 기본 약미는 마황·계지·행인·감초이며, 건강·세신·반하·오미자의 내음 배합도, 석고의 청열 배합도 없다. 몸살이나 천 한 가지보다 실제 구성과 표실 조건을 함께 판단한다.",
+      "options": [
+        {
+          "text": "계지탕",
+          "detail": "계지·감초와 해기 역할을 공유하나 작약·생강·대조의 영위 조화 구조와 한출·오풍 조건을 비교해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-mahuang-tang",
+          "source": "/learning/formulas/#clinical-formulas-28"
+        },
+        {
+          "text": "마행감석탕",
+          "detail": "마황·행인·감초는 공유하지만 계지 대신 석고의 청열축이 들어간다. 구성 차이가 결정적이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-mahuang-tang",
+          "source": "/learning/formulas/#clinical-formulas-28"
+        },
+        {
+          "text": "갈근탕",
+          "detail": "마황·계지를 포함하는 비교방이지만 갈근·작약·생강·대조 등을 포함하며 항배강 등 추가 조건을 읽는다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-mahuang-tang",
+          "source": "/learning/formulas/#clinical-formulas-28"
+        },
+        {
+          "text": "마황탕",
+          "detail": "마황·계지의 해표와 행인의 폐기 조절, 감초의 조화를 읽는 풍한표실·무한의 기본 구조이다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-mahuang-tang",
+          "source": "/learning/formulas/#clinical-formulas-28"
+        },
+        {
+          "text": "소청룡탕",
+          "detail": "무한·천과 해표약은 가까우나 건강·세신·반하·오미자를 포함하는 외한내음 구조가 추가된다. 이번 구성과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-mahuang-tang",
+          "source": "/learning/formulas/#clinical-formulas-28"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "마황탕 — 마황·계지의 해표와 행인의 폐기 조절, 감초의 조화를 읽는 풍한표실·무한의 기본 구조이다.",
+      "discriminator": "천이라는 공통 증상 안에서 계지 포함, 석고 부재, 내음 추가 약미 부재를 확인한다.",
+      "kind": "clinical",
+      "category": "외감·호흡·이비인후",
+      "source": "/learning/formulas/#clinical-formulas-28",
+      "relatedSource": "/formulas/mahuang-tang/"
     }
   ]
 }
