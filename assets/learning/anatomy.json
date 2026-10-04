@@ -176353,6 +176353,503 @@
       "category": "초음파 고관절 해부",
       "source": "/learning/anatomy/#clinical-anatomy-20",
       "relatedSource": "/learning/anatomy/#anatomy-imaging-us-femoral-bundle"
+    },
+    {
+      "id": "clinical-anatomy-21",
+      "cardId": "anatomy-nerve-musculocutaneous",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "팔꿈치 굽힘 저하와 가쪽 아래팔 감각 변화를 함께 설명하는 신경은?",
+      "context": "근육·힘줄 자체의 손상은 없다고 가정한다. 위팔두갈래근과 위팔근의 기능이 약하고 아래팔 가쪽 피부감각이 둔하다. 위팔노근을 이용한 굽힘과 위팔세갈래근의 폄은 유지된다. 손바닥 감각과 손가락 굽힘도 정상이다.",
+      "options": [
+        {
+          "text": "요골신경",
+          "detail": "위팔노근과 위팔세갈래근의 기능 보존이 요골신경 전체의 문제와 어긋난다. 가쪽 아래팔 감각을 근피신경의 말단 가지와 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-musculocutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-21"
+        },
+        {
+          "text": "정중신경",
+          "detail": "회내와 여러 손가락 굽힘근을 지배하지만 위팔두갈래근과 가쪽 아래팔 피부감각의 조합을 담당하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-musculocutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-21"
+        },
+        {
+          "text": "척골신경",
+          "detail": "손 안의 근육과 척측 감각에 연결되며 제시된 위팔 앞구획·가쪽 아래팔 분포와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-musculocutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-21"
+        },
+        {
+          "text": "액와신경",
+          "detail": "삼각근·작은원근과 어깨 가쪽 피부감각에 연결된다. 아래팔까지 이어지는 제시된 감각 분포와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-musculocutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-21"
+        },
+        {
+          "text": "근피신경",
+          "detail": "위팔두갈래근·위팔근의 주된 운동지배와 가쪽아래팔피부신경으로 이어지는 감각 분포가 함께 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-musculocutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-21"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "근피신경 — 위팔두갈래근·위팔근의 주된 운동지배와 가쪽아래팔피부신경으로 이어지는 감각 분포가 함께 맞는다.",
+      "discriminator": "같은 팔꿈치 굽힘근이라도 근피신경 지배 근육은 약하고 요골신경 지배 위팔노근은 보존된다.",
+      "references": [
+        {
+          "title": "UAMS 의과대학 신경 해부학 표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-upper-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-21",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-musculocutaneous"
+    },
+    {
+      "id": "clinical-anatomy-22",
+      "cardId": "anatomy-nerve-obturator",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "넙다리 모음근의 선택적 약화에서 먼저 연결할 신경은?",
+      "context": "긴모음근·짧은모음근·두덩정강근의 모음 작용이 함께 약하다. 넙다리네갈래근의 무릎 폄과 무릎반사는 유지된다. 큰볼기근의 엉덩관절 폄과 발목 운동도 유지된다. 피부감각만으로 결론을 내리지 않고 운동 분포를 비교한다.",
+      "options": [
+        {
+          "text": "좌골신경",
+          "detail": "넙다리 뒤구획과 종아리·발의 넓은 기능에 연결된다. 세 모음근의 선택적 약화를 우선 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-obturator",
+          "source": "/learning/anatomy/#clinical-anatomy-22"
+        },
+        {
+          "text": "위볼기신경",
+          "detail": "중간볼기근·작은볼기근·넙다리근막긴장근의 벌림 축과 연결된다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-obturator",
+          "source": "/learning/anatomy/#clinical-anatomy-22"
+        },
+        {
+          "text": "아래볼기신경",
+          "detail": "큰볼기근의 폄 기능과 연결되며 제시된 모음근 분포와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-obturator",
+          "source": "/learning/anatomy/#clinical-anatomy-22"
+        },
+        {
+          "text": "폐쇄신경",
+          "detail": "제시된 모음근의 주된 지배신경이다. 넙다리신경 지배 무릎 폄의 보존과 함께 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-obturator",
+          "source": "/learning/anatomy/#clinical-anatomy-22"
+        },
+        {
+          "text": "넙다리신경",
+          "detail": "무릎 폄을 담당하는 넙다리네갈래근의 보존이 맞지 않는다. 모음 작용을 넙다리 앞구획 전체와 동일시하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-obturator",
+          "source": "/learning/anatomy/#clinical-anatomy-22"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "폐쇄신경 — 제시된 모음근의 주된 지배신경이다. 넙다리신경 지배 무릎 폄의 보존과 함께 읽는다.",
+      "discriminator": "모음근 약화와 넙다리네갈래근·무릎반사 보존을 함께 확인한다.",
+      "references": [
+        {
+          "title": "UAMS 의과대학 신경 해부학 표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-22",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-obturator"
+    },
+    {
+      "id": "clinical-anatomy-23",
+      "cardId": "anatomy-nerve-deep-fibular",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "발등굽힘과 첫째 발가락 사이 감각 저하에 가장 잘 맞는 가지는?",
+      "context": "발목 발등굽힘과 발가락 폄이 약하고, 첫째·둘째 발가락 사이의 좁은 발등 감각이 둔하다. 종아리 가쪽구획의 가쪽번짐, 뒤정강근을 이용한 안쪽번짐, 발바닥굽힘은 유지된다. 단일 말초신경 분포를 비교하는 교육용 가정이다.",
+      "options": [
+        {
+          "text": "경골신경",
+          "detail": "발바닥굽힘과 뒤정강근의 안쪽번짐 등이 보존되어 제시된 선택적 약화와 어긋난다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-deep-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-23"
+        },
+        {
+          "text": "비복신경",
+          "detail": "발 가쪽 피부감각에 연결되는 감각신경으로 앞구획 운동 저하를 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-deep-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-23"
+        },
+        {
+          "text": "심비골신경",
+          "detail": "앞구획의 발등굽힘·발가락 폄과 첫째 발가락 사이 감각을 연결한다. 얕은 가지의 가쪽번짐 기능은 보존된다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-deep-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-23"
+        },
+        {
+          "text": "총비골신경",
+          "detail": "심·천비골 두 가지를 함께 포함하므로 가쪽번짐까지 약해지는 분포를 예상한다. 이 증례의 보존 단서보다 범위가 넓다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-deep-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-23"
+        },
+        {
+          "text": "천비골신경",
+          "detail": "발등의 넓은 피부감각과 가쪽번짐에 연결되지만 첫째 발가락 사이와 앞구획 운동은 심비골신경 영역이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-deep-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-23"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "심비골신경 — 앞구획의 발등굽힘·발가락 폄과 첫째 발가락 사이 감각을 연결한다. 얕은 가지의 가쪽번짐 기능은 보존된다.",
+      "discriminator": "첫째 발가락 사이 감각 저하와 천비골신경 지배 가쪽번짐의 보존이 가지 수준을 좁힌다.",
+      "references": [
+        {
+          "title": "UAMS 의과대학 신경 해부학 표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-23",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-deep-fibular"
+    },
+    {
+      "id": "clinical-anatomy-24",
+      "cardId": "anatomy-nerve-thoracodorsal",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "같은 어깨 작용을 공유하는 근육 중 넓은등근만 약할 때의 신경은?",
+      "context": "넓은등근의 어깨 폄·모음·안쪽돌림이 약하다. 큰원근과 큰가슴근은 개별 근육 검사에서 기능을 유지한다. 어깨 벌림과 가쪽돌림도 보존된다. 작용 이름 하나보다 어느 근육이 약한지를 기준으로 판단한다.",
+      "options": [
+        {
+          "text": "견갑상신경",
+          "detail": "가시위근·가시아래근의 벌림·가쪽돌림 축을 지배한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-thoracodorsal",
+          "source": "/learning/anatomy/#clinical-anatomy-24"
+        },
+        {
+          "text": "흉배신경",
+          "detail": "넓은등근의 운동지배에 해당한다. 비슷한 작용을 하는 큰원근·큰가슴근과 신경지배를 구별한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-thoracodorsal",
+          "source": "/learning/anatomy/#clinical-anatomy-24"
+        },
+        {
+          "text": "아래견갑하신경",
+          "detail": "큰원근과 견갑하근 일부에 연결된다. 큰원근이 보존되고 넓은등근만 약한 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-thoracodorsal",
+          "source": "/learning/anatomy/#clinical-anatomy-24"
+        },
+        {
+          "text": "가쪽가슴신경",
+          "detail": "큰가슴근의 지배에 연결되므로 큰가슴근 보존이라는 단서와 맞지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-thoracodorsal",
+          "source": "/learning/anatomy/#clinical-anatomy-24"
+        },
+        {
+          "text": "액와신경",
+          "detail": "삼각근·작은원근에 연결되며 넓은등근의 선택적 약화를 담당하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-thoracodorsal",
+          "source": "/learning/anatomy/#clinical-anatomy-24"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "흉배신경 — 넓은등근의 운동지배에 해당한다. 비슷한 작용을 하는 큰원근·큰가슴근과 신경지배를 구별한다.",
+      "discriminator": "작용이 유사한 큰원근의 보존을 확인해야 넓은등근의 흉배신경 지배를 분리할 수 있다.",
+      "references": [
+        {
+          "title": "UAMS 의과대학 신경 해부학 표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-upper-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-24",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-thoracodorsal"
+    },
+    {
+      "id": "clinical-anatomy-25",
+      "cardId": "anatomy-nerve-dorsal-ulnar-cutaneous",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "손등의 제한된 감각 변화와 손바닥·운동 보존을 설명하는 가지는?",
+      "context": "척측 손등의 손허리뼈 부근에서만 피부감각이 둔하다. 새끼손가락 손바닥면과 손톱 주변 감각은 유지되고, 손가락 벌림·모음과 척측손목굽힘·새끼손가락 끝마디 굽힘도 정상이다. 손등의 검사 부위는 손끝이 아니라 근위부로 한정한다.",
+      "options": [
+        {
+          "text": "척골신경 배측피부가지",
+          "detail": "손목보다 근위에서 갈라져 척측 손등 감각을 담당한다. 제시한 근위 손등 감각과 손바닥·운동 보존을 함께 설명한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-dorsal-ulnar-cutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-25"
+        },
+        {
+          "text": "척골신경의 손바닥 얕은가지",
+          "detail": "척측 손바닥·손가락 감각에 연결되어 보존된 영역과 맞지 않는다. 배측피부가지와 갈라지는 위치가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-ulnar-cutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-25"
+        },
+        {
+          "text": "척골신경의 손바닥 깊은가지",
+          "detail": "손 안의 여러 근육을 지배하는 운동 가지이다. 벌림·모음이 유지된 제한적 손등 감각 변화와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-ulnar-cutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-25"
+        },
+        {
+          "text": "요골신경의 얕은가지",
+          "detail": "주로 요측 손등 감각에 연결된다. 손등이라는 공통점만으로 척측 검사 부위를 같은 분포로 보지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-ulnar-cutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-25"
+        },
+        {
+          "text": "안쪽아래팔피부신경",
+          "detail": "안쪽 아래팔 피부를 담당하며 척측 손허리뼈 부근의 손등 감각 영역과 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-ulnar-cutaneous",
+          "source": "/learning/anatomy/#clinical-anatomy-25"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "척골신경 배측피부가지 — 손목보다 근위에서 갈라져 척측 손등 감각을 담당한다. 제시한 근위 손등 감각과 손바닥·운동 보존을 함께 설명한다.",
+      "discriminator": "손끝의 감각 분포를 손등 전체에 적용하지 않는다. 근위 척측 손등만 검사했고 손바닥과 운동은 보존되었다.",
+      "references": [
+        {
+          "title": "UAMS 의과대학 신경 해부학 표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-upper-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-25",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-dorsal-ulnar-cutaneous"
+    },
+    {
+      "id": "clinical-anatomy-26",
+      "cardId": "anatomy-nerve-medial-plantar",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "발바닥 안쪽의 감각·근육 분포와 보존 기능을 함께 설명하는 가지는?",
+      "context": "전형적인 신경지배를 가정한다. 엄지벌림근·짧은발가락굽힘근·첫째 벌레근의 기능과 발바닥 안쪽 감각이 함께 저하된다. 엄지모음근·발의 뼈사이근, 발목 발바닥굽힘과 뒤정강근 기능은 유지된다.",
+      "options": [
+        {
+          "text": "분지 이전의 경골신경",
+          "detail": "두 족저신경 영역을 포함하므로 엄지모음근·뼈사이근까지 영향을 받는 더 넓은 분포이다. 제시된 선택적 보존을 설명하기 어렵다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-medial-plantar",
+          "source": "/learning/anatomy/#clinical-anatomy-26"
+        },
+        {
+          "text": "외측족저신경",
+          "detail": "엄지모음근·뼈사이근 등의 기능이 보존되어 제시된 약화와 반대이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-medial-plantar",
+          "source": "/learning/anatomy/#clinical-anatomy-26"
+        },
+        {
+          "text": "심비골신경",
+          "detail": "발등 쪽 짧은 폄근과 첫째 발가락 사이 감각에 연결된다. 발바닥 근육·감각과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-medial-plantar",
+          "source": "/learning/anatomy/#clinical-anatomy-26"
+        },
+        {
+          "text": "비복신경",
+          "detail": "발 가쪽 피부감각 신경으로 제시된 발바닥 안쪽 근육의 운동 분포를 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-medial-plantar",
+          "source": "/learning/anatomy/#clinical-anatomy-26"
+        },
+        {
+          "text": "내측족저신경",
+          "detail": "엄지벌림근·짧은발가락굽힘근·첫째 벌레근과 안쪽 발바닥 감각을 연결한다. 외측족저신경과 근위 경골신경 기능의 보존이 가지 수준을 좁힌다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-medial-plantar",
+          "source": "/learning/anatomy/#clinical-anatomy-26"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "내측족저신경 — 엄지벌림근·짧은발가락굽힘근·첫째 벌레근과 안쪽 발바닥 감각을 연결한다. 외측족저신경과 근위 경골신경 기능의 보존이 가지 수준을 좁힌다.",
+      "discriminator": "엄지벌림과 엄지모음을 구별하고, 외측족저신경 및 근위 경골신경 기능의 보존을 확인한다.",
+      "references": [
+        {
+          "title": "UAMS 의과대학 신경 해부학 표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-26",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-medial-plantar"
+    },
+    {
+      "id": "clinical-anatomy-27",
+      "cardId": "anatomy-nerve-sciatic",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "넙다리 뒤쪽 피부감각 보존이 좌골신경 문제를 배제하지 않는 이유는?",
+      "context": "힘줄 손상은 없으며 반힘줄근·반막근의 기능과 무릎 아래 경골·총비골신경 영역의 운동이 함께 저하된다. 그런데 넙다리 뒤쪽의 넓은 피부감각은 유지된다. 좌골신경과 뒤넙다리피부신경을 구별해 이 소견의 의미를 설명한다.",
+      "options": [
+        {
+          "text": "좌골신경의 피부가지는 넙다리 뒤쪽 감각만 담당한다",
+          "detail": "좌골신경의 경골·총비골 계통은 무릎 아래 운동·감각으로 이어진다. 넙다리 뒤쪽만의 감각신경으로 축소할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-sciatic",
+          "source": "/learning/anatomy/#clinical-anatomy-27"
+        },
+        {
+          "text": "넙다리신경이 뒤넙다리 피부와 두 근육을 함께 담당한다",
+          "detail": "넙다리신경의 앞넙다리·무릎 폄 분포와 뒤넙다리 근육의 좌골신경 지배를 혼동한 설명이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-sciatic",
+          "source": "/learning/anatomy/#clinical-anatomy-27"
+        },
+        {
+          "text": "폐쇄신경이 무릎 아래 경골·총비골 운동을 담당한다",
+          "detail": "폐쇄신경은 주로 모음근 구획에 연결되며 경골·총비골 두 계통의 근위 신경이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-sciatic",
+          "source": "/learning/anatomy/#clinical-anatomy-27"
+        },
+        {
+          "text": "넙다리 뒤쪽 피부는 주로 별도의 뒤넙다리피부신경이 담당한다",
+          "detail": "좌골신경은 뒤넙다리 근육과 경골·총비골 계통의 운동을 담당하지만 뒤넙다리 피부감각은 별도 신경이 주로 담당한다. 감각 보존만으로 좌골신경의 운동 분포를 배제할 수 없다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-sciatic",
+          "source": "/learning/anatomy/#clinical-anatomy-27"
+        },
+        {
+          "text": "뒤넙다리피부신경이 반힘줄근·반막근 운동까지 담당한다",
+          "detail": "이 신경은 이름과 달리 뒤넙다리 근육의 주된 운동지배를 담당하지 않는다. 피부감각 보존과 근육 약화는 다른 신경 분포일 수 있다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-sciatic",
+          "source": "/learning/anatomy/#clinical-anatomy-27"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "넙다리 뒤쪽 피부는 주로 별도의 뒤넙다리피부신경이 담당한다 — 좌골신경은 뒤넙다리 근육과 경골·총비골 계통의 운동을 담당하지만 뒤넙다리 피부감각은 별도 신경이 주로 담당한다. 감각 보존만으로 좌골신경의 운동 분포를 배제할 수 없다.",
+      "discriminator": "근육이 있는 부위와 그 위 피부의 신경지배는 반드시 같은 신경이 아니다.",
+      "references": [
+        {
+          "title": "UAMS 의과대학 신경 해부학 표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-27",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-sciatic"
+    },
+    {
+      "id": "clinical-anatomy-28",
+      "cardId": "anatomy-imaging-us-nerve-csa",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "같은 신경의 단면적이 달라졌을 때 먼저 비교할 조건은?",
+      "context": "같은 날 같은 해부학적 높이에서 신경을 측정했다. 관절 자세와 경계 추적 방식은 동일하지만 두 번째 영상만 신경 장축에 비스듬한 단면이다. 아래 값은 측정 원리를 배우기 위한 가정이며 질환의 진단 기준값은 제시되지 않았다.",
+      "options": [
+        {
+          "text": "두 번째 값의 증가율을 같은 날 발생한 구조 변화로 기록한다",
+          "detail": "수직 재측정값이 첫 값과 비슷하고 절단각만 달랐다. 관찰 조건의 변화가 먼저 설명되어야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-nerve-csa",
+          "source": "/learning/anatomy/#clinical-anatomy-28"
+        },
+        {
+          "text": "수직 단면 두 값의 유사성만으로 신경 질환이 없다고 판단한다",
+          "detail": "재현성은 측정 품질을 뜻한다. 정상 참고치·증상·신경 분포 등의 정보 없이 질환 유무를 확정할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-nerve-csa",
+          "source": "/learning/anatomy/#clinical-anatomy-28"
+        },
+        {
+          "text": "신경에 수직인 단면끼리 비교하고 비스듬한 측정을 제외한다",
+          "detail": "비스듬한 절단면은 면적을 크게 보이게 할 수 있다. 같은 높이·자세·경계 기준에서 진정한 단축면을 확보한 뒤 비교한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-imaging-us-nerve-csa",
+          "source": "/learning/anatomy/#clinical-anatomy-28"
+        },
+        {
+          "text": "같은 높이이므로 세 측정값의 평균으로 대표 면적을 구한다",
+          "detail": "높이만 같아도 절단각의 차이는 남는다. 비스듬한 단면을 포함한 평균은 재현 가능한 수직 단면 측정과 같은 의미가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-nerve-csa",
+          "source": "/learning/anatomy/#clinical-anatomy-28"
+        },
+        {
+          "text": "가장 큰 값이 신경의 실제 최대 단면적이므로 이를 채택한다",
+          "detail": "측정각에 따른 과대평가와 실제 팽대를 구별하지 못한다. 최대값 자체가 측정의 타당성을 보장하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-nerve-csa",
+          "source": "/learning/anatomy/#clinical-anatomy-28"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "신경에 수직인 단면끼리 비교하고 비스듬한 측정을 제외한다 — 비스듬한 절단면은 면적을 크게 보이게 할 수 있다. 같은 높이·자세·경계 기준에서 진정한 단축면을 확보한 뒤 비교한다.",
+      "discriminator": "동일한 해부학적 높이와 동일한 절단각은 별개의 조건이다. 수직 재측정의 재현성이 핵심이다.",
+      "table": {
+        "caption": "교육용 반복 측정 기록",
+        "headers": [
+          "측정",
+          "절단면",
+          "단면적"
+        ],
+        "rows": [
+          [
+            "1차",
+            "장축에 수직",
+            "9.2 mm²"
+          ],
+          [
+            "2차",
+            "장축에 비스듬함",
+            "12.6 mm²"
+          ],
+          [
+            "3차",
+            "장축에 수직",
+            "9.4 mm²"
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "ESSR 손목 초음파 검사 지침",
+          "url": "https://essr.org/content-essr/uploads/2016/10/wrist.pdf"
+        }
+      ],
+      "kind": "clinical",
+      "category": "초음파 탐촉자 조작·측정",
+      "source": "/learning/anatomy/#clinical-anatomy-28",
+      "relatedSource": "/learning/anatomy/#anatomy-imaging-us-nerve-csa"
     }
   ]
 }

@@ -24768,6 +24768,450 @@
       "category": "전침 설계",
       "source": "/learning/acupuncture/#clinical-acupuncture-20",
       "relatedSource": "/acupuncture-integrated/modalities/"
+    },
+    {
+      "id": "clinical-acupuncture-21",
+      "cardId": "yuan-BL",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "방광경을 주경으로 한 원락 배혈과 주경 극혈을 정확히 묶은 것은?",
+      "context": "임상에서 가능한 배혈을 자유롭게 고르는 문제가 아니다. 방광경의 원혈에 표리 경맥인 신경의 낙혈을 짝짓고, 방광경 자체의 극혈을 별도로 기록하는 분류 과제이다.",
+      "options": [
+        {
+          "text": "경골 + 대종 · 극혈 수천",
+          "detail": "원락 짝은 맞지만 수천은 신경 극혈이다. 주경인 방광경의 극혈은 금문이다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-BL",
+          "source": "/learning/acupuncture/#clinical-acupuncture-21"
+        },
+        {
+          "text": "속골 + 대종 · 극혈 금문",
+          "detail": "대종·금문은 맞지만 속골은 방광경 수혈(兪穴)이며 원혈은 경골이다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-BL",
+          "source": "/learning/acupuncture/#clinical-acupuncture-21"
+        },
+        {
+          "text": "경골 + 대종 · 극혈 금문",
+          "detail": "경골은 방광경 원혈, 대종은 표리 관계인 신경 낙혈, 금문은 방광경 극혈이다.",
+          "owner": "정답 근거",
+          "ownerId": "yuan-BL",
+          "source": "/learning/acupuncture/#clinical-acupuncture-21"
+        },
+        {
+          "text": "경골 + 비양 · 극혈 금문",
+          "detail": "경골과 금문은 맞지만 비양은 방광경 자체의 낙혈이다. 과제는 표리 경맥인 신경의 낙혈을 요구한다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-BL",
+          "source": "/learning/acupuncture/#clinical-acupuncture-21"
+        },
+        {
+          "text": "태계 + 비양 · 극혈 수천",
+          "detail": "신경을 주경으로 하면 원락 짝과 극혈이 맞지만 주경을 방광경으로 지정한 조건을 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-BL",
+          "source": "/learning/acupuncture/#clinical-acupuncture-21"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "경골 + 대종 · 극혈 금문 — 경골은 방광경 원혈, 대종은 표리 관계인 신경 낙혈, 금문은 방광경 극혈이다.",
+      "discriminator": "주경의 원혈·극혈과 표리 경맥의 낙혈을 각각 다른 칸에 넣는다.",
+      "kind": "clinical",
+      "category": "원혈·낙혈·극혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-21",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-22",
+      "cardId": "back-front-담",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "담의 수모혈과 담 하합혈을 모두 정확히 연결한 것은?",
+      "context": "담의 장부축을 복습하며 등쪽 배수혈, 앞쪽 모혈, 하합혈을 한 줄에 정리하려 한다. 위치가 가까운 간·위의 혈과 이름이 비슷한 담경 특정혈을 구별한다.",
+      "options": [
+        {
+          "text": "담수 · 일월 · 양보",
+          "detail": "수모혈은 맞지만 양보는 담경 오수혈의 경혈(經穴)이다. 담 하합혈은 양릉천이다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-담",
+          "source": "/learning/acupuncture/#clinical-acupuncture-22"
+        },
+        {
+          "text": "담수 · 일월 · 양릉천",
+          "detail": "담수는 담 배수혈, 일월은 담 모혈, 양릉천은 담 하합혈이다.",
+          "owner": "정답 근거",
+          "ownerId": "back-front-담",
+          "source": "/learning/acupuncture/#clinical-acupuncture-22"
+        },
+        {
+          "text": "간수 · 기문 · 양릉천",
+          "detail": "양릉천은 맞지만 간수·기문은 간의 수모혈이다. 간담이 가깝다고 같은 장부 분류가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-담",
+          "source": "/learning/acupuncture/#clinical-acupuncture-22"
+        },
+        {
+          "text": "담수 · 중완 · 양릉천",
+          "detail": "담수·양릉천은 맞지만 중완은 위 모혈이다. 담 모혈은 일월이다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-담",
+          "source": "/learning/acupuncture/#clinical-acupuncture-22"
+        },
+        {
+          "text": "담수 · 일월 · 족삼리",
+          "detail": "담 수모혈은 맞지만 족삼리는 위 하합혈이다. 담 하합혈과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-담",
+          "source": "/learning/acupuncture/#clinical-acupuncture-22"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "담수 · 일월 · 양릉천 — 담수는 담 배수혈, 일월은 담 모혈, 양릉천은 담 하합혈이다.",
+      "discriminator": "같은 장부의 수·모·하합을 연결한다. 소속 경맥과 하합혈 속성을 혼동하지 않는다.",
+      "kind": "clinical",
+      "category": "배수혈·모혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-22",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-23",
+      "cardId": "lower-대장",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "대장경 합혈과 대장 하합혈을 구별한 기록은?",
+      "context": "A칸에는 대장경 오수혈의 합혈을, B칸에는 육부 하합혈 분류에서 대장에 대응하는 혈을 넣는다. 두 분류가 같은 혈을 뜻한다고 가정하지 않는다.",
+      "options": [
+        {
+          "text": "A 곡지 · B 상거허",
+          "detail": "곡지는 대장경의 합혈이고 상거허는 위경에 속하지만 대장 하합혈이다. 경맥의 오수혈과 육부 하합혈은 다른 분류축이다.",
+          "owner": "정답 근거",
+          "ownerId": "lower-대장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-23"
+        },
+        {
+          "text": "A 곡지 · B 곡지",
+          "detail": "A는 맞지만 대장경 합혈을 대장 하합혈로 그대로 복사했다. 대장 하합혈은 상거허이다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-대장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-23"
+        },
+        {
+          "text": "A 상거허 · B 곡지",
+          "detail": "두 분류를 뒤집었다. 상거허가 대장과 연결된다고 대장경 오수혈에 속하는 것은 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-대장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-23"
+        },
+        {
+          "text": "A 곡지 · B 하거허",
+          "detail": "A는 맞지만 하거허는 소장 하합혈이다. 상·하거허의 장부 대응을 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-대장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-23"
+        },
+        {
+          "text": "A 양계 · B 상거허",
+          "detail": "B는 맞지만 양계는 대장경의 경혈(經穴)이지 합혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-대장",
+          "source": "/learning/acupuncture/#clinical-acupuncture-23"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "A 곡지 · B 상거허 — 곡지는 대장경의 합혈이고 상거허는 위경에 속하지만 대장 하합혈이다. 경맥의 오수혈과 육부 하합혈은 다른 분류축이다.",
+      "discriminator": "혈이 속한 경맥과 하합혈로 대응하는 육부는 일치하지 않을 수 있다.",
+      "kind": "clinical",
+      "category": "육부 하합혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-23",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-24",
+      "cardId": "extra-pair-SP4",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "팔맥교회혈과 낙혈 속성을 모두 충족하는 짝은?",
+      "context": "충맥과 음유맥을 연결하는 팔맥교회혈 짝을 찾고 있다. 추가로 첫 혈은 비경 낙혈, 둘째 혈은 심포경 낙혈이어야 한다. 분류를 겹쳐 확인하는 과제이다.",
+      "options": [
+        {
+          "text": "태백 + 내관",
+          "detail": "내관은 맞지만 태백은 비경 수혈·원혈이다. 공손의 낙혈·충맥 교회 속성을 대신하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-24"
+        },
+        {
+          "text": "공손 + 대릉",
+          "detail": "공손은 맞지만 대릉은 심포경 수혈·원혈이다. 내관의 낙혈·음유맥 교회 속성과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-24"
+        },
+        {
+          "text": "족임읍 + 외관",
+          "detail": "팔맥교회혈 짝이라는 형식은 같지만 대맥·양유맥을 연결한다. 지정된 충맥·음유맥과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-24"
+        },
+        {
+          "text": "후계 + 신맥",
+          "detail": "독맥·양교맥의 짝이다. 지정된 두 맥과 비경·심포경 낙혈 조건을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-24"
+        },
+        {
+          "text": "공손 + 내관",
+          "detail": "공손은 충맥·비경 낙혈, 내관은 음유맥·심포경 낙혈이라는 두 분류를 각각 충족한다.",
+          "owner": "정답 근거",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-24"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "공손 + 내관 — 공손은 충맥·비경 낙혈, 내관은 음유맥·심포경 낙혈이라는 두 분류를 각각 충족한다.",
+      "discriminator": "팔맥의 짝만 외우지 않고 두 혈의 소속 경맥과 낙혈 속성까지 확인한다.",
+      "kind": "clinical",
+      "category": "팔맥교회혈 짝 복습",
+      "source": "/learning/acupuncture/#clinical-acupuncture-24",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-25",
+      "cardId": "shu-point-LR4",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "간경의 경혈과 수혈·원혈을 구분한 표는?",
+      "context": "간경 오수혈의 경혈(經穴)을 A에 적고, 수혈(兪穴)이면서 원혈인 혈을 B에 적는다. 음경에서 수혈과 원혈이 겹친다는 규칙을 경혈(經穴)에 잘못 적용하지 않는다.",
+      "options": [
+        {
+          "text": "A 중봉 · B 중봉",
+          "detail": "A는 맞지만 음경의 원혈이 경혈(經穴)과 겹친다고 오해했다. 중첩되는 것은 수혈(兪穴)이다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-LR4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-25"
+        },
+        {
+          "text": "A 행간 · B 태충",
+          "detail": "B는 맞지만 행간은 간경 형혈(滎穴)이다. 중봉의 경혈 분류와 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-LR4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-25"
+        },
+        {
+          "text": "A 곡천 · B 태충",
+          "detail": "B는 맞지만 곡천은 간경 합혈이다. 경혈(經穴)은 중봉이다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-LR4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-25"
+        },
+        {
+          "text": "A 중봉 · B 태충",
+          "detail": "중봉은 간경 경혈(經穴), 태충은 간경 수혈(兪穴)·원혈이다. 음경의 수·원 중첩은 중봉이 아니라 태충에 해당한다.",
+          "owner": "정답 근거",
+          "ownerId": "shu-point-LR4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-25"
+        },
+        {
+          "text": "A 태충 · B 중봉",
+          "detail": "태충의 수·원과 중봉의 경 분류를 서로 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-LR4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-25"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "A 중봉 · B 태충 — 중봉은 간경 경혈(經穴), 태충은 간경 수혈(兪穴)·원혈이다. 음경의 수·원 중첩은 중봉이 아니라 태충에 해당한다.",
+      "discriminator": "兪와 經을 구별한다. 음경의 원혈 중첩 규칙은 수혈(兪穴)에 적용한다.",
+      "kind": "clinical",
+      "category": "오수혈 개별 60혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-25",
+      "relatedSource": "/acupuncture-specific/five-shu/"
+    },
+    {
+      "id": "clinical-acupuncture-26",
+      "cardId": "shu-point-TE3",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "삼초경 세 혈의 오수혈·원혈·낙혈·팔맥 속성을 교차 확인한 것은?",
+      "context": "세 기록을 교차 검토한다. A는 삼초경의 수혈(兪穴), B는 삼초경의 원혈, C는 삼초경 낙혈이면서 양유맥 교회혈이어야 한다. 세 칸을 독립해서 기록하고 음경의 수·원 중첩이나 다른 양경의 팔맥 짝을 끌어오지 않는다.",
+      "options": [
+        {
+          "text": "A 중저 · B 양지 · C 족임읍",
+          "detail": "A와 B는 맞고 족임읍은 외관의 팔맥 짝이지만 담경·대맥 교회혈이다. C의 삼초경 낙혈·양유맥 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-26"
+        },
+        {
+          "text": "A 지구 · B 양지 · C 외관",
+          "detail": "B와 C는 맞지만 지구는 삼초경 경혈(經穴)이다. 수혈 중저와 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-26"
+        },
+        {
+          "text": "A 중저 · B 외관 · C 양지",
+          "detail": "수혈은 맞지만 양지의 원혈과 외관의 낙혈·양유맥 속성을 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-26"
+        },
+        {
+          "text": "A 중저 · B 양지 · C 외관",
+          "detail": "중저는 삼초경 수혈, 양지는 원혈, 외관은 낙혈·양유맥 교회혈이다. 서로 다른 세 혈에 네 분류 속성을 배치한다.",
+          "owner": "정답 근거",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-26"
+        },
+        {
+          "text": "A 중저 · B 중저 · C 외관",
+          "detail": "A와 C는 맞지만 양경에서도 수혈이 원혈을 겸한다고 일반화했다. 삼초경의 별도 원혈은 양지이다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-26"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "A 중저 · B 양지 · C 외관 — 중저는 삼초경 수혈, 양지는 원혈, 외관은 낙혈·양유맥 교회혈이다. 서로 다른 세 혈에 네 분류 속성을 배치한다.",
+      "discriminator": "삼초경 안에서 수혈·원혈을 분리한 뒤 외관의 낙혈·양유맥 속성을 함께 확인한다.",
+      "kind": "clinical",
+      "category": "오수혈 개별 60혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-26",
+      "relatedSource": "/acupuncture-specific/five-shu/"
+    },
+    {
+      "id": "clinical-acupuncture-27",
+      "cardId": "research-결과",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "두 결과지표의 군 간 차이와 불확실성을 바르게 읽은 것은?",
+      "context": "아래는 실제 연구가 아닌 교육용 무작위 비교시험의 가상 결과이다. 차이는 침+통상치료군에서 통상치료군을 뺀 값이다. 통증은 낮을수록, 기능 점수는 높을수록 좋다. 같은 시점의 두 지표를 따로 판단하고 임상적으로 중요한 최소 차이는 제시되지 않았다.",
+      "options": [
+        {
+          "text": "기능 차이는 개선 방향이며 통증 차이는 악화 방향으로 추정된다",
+          "detail": "기능의 점추정 방향만은 맞지만 통증의 낮을수록 좋다는 척도 방향을 반대로 읽었다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-27"
+        },
+        {
+          "text": "통증 차이는 감소 방향으로 추정되며, 기능 차이는 양·음 방향을 모두 포함한다",
+          "detail": "통증의 95% 신뢰구간은 0보다 작지만 기능은 0을 포함한다. 두 결과의 방향·불확실성을 구별하며 임상적 중요성은 별도 기준이 필요하다.",
+          "owner": "정답 근거",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-27"
+        },
+        {
+          "text": "두 지표 모두 점추정치가 유리하므로 두 결과의 군 간 차이가 확인되었다",
+          "detail": "유리한 점추정치와 신뢰구간의 불확실성은 별개이다. 기능의 신뢰구간은 0과 음의 값도 포함한다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-27"
+        },
+        {
+          "text": "기능 신뢰구간이 0을 포함하므로 통증의 군 간 차이도 확인되지 않았다",
+          "detail": "한 결과의 불확실성을 다른 결과로 옮겼다. 통증의 신뢰구간은 기능과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-27"
+        },
+        {
+          "text": "통증 차이가 음수이므로 통증에서는 통상치료군이 더 유리하다",
+          "detail": "통증은 낮을수록 좋고 차이의 순서는 침+통상치료에서 통상치료를 뺀 값이다. 음수는 침 추가군의 낮은 통증 방향이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-27"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "통증 차이는 감소 방향으로 추정되며, 기능 차이는 양·음 방향을 모두 포함한다 — 통증의 95% 신뢰구간은 0보다 작지만 기능은 0을 포함한다. 두 결과의 방향·불확실성을 구별하며 임상적 중요성은 별도 기준이 필요하다.",
+      "discriminator": "차이의 계산 순서, 척도의 좋은 방향, 각 지표의 신뢰구간을 각각 확인한다.",
+      "table": {
+        "caption": "교육용 군 간 차이",
+        "headers": [
+          "결과지표",
+          "점추정치",
+          "95% 신뢰구간"
+        ],
+        "rows": [
+          [
+            "통증 0–10점",
+            "−1.5점",
+            "−2.1 ~ −0.9점"
+          ],
+          [
+            "기능 0–100점",
+            "+2점",
+            "−1 ~ +5점"
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "연구 기록",
+      "source": "/learning/acupuncture/#clinical-acupuncture-27",
+      "relatedSource": "/acupuncture-integrated/evidence/"
+    },
+    {
+      "id": "clinical-acupuncture-28",
+      "cardId": "research-안전성",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "사람 기준과 시술 횟수 기준의 분모를 바르게 나눈 것은?",
+      "context": "침 치료의 이상반응 기록을 읽는 교육용 가정이다. A군 100명에게 600회, B군 80명에게 480회 시술했다. 이상반응을 한 번 이상 경험한 사람은 각각 5명·4명이며, 시술마다 집계한 경미한 이상반응 발생 건수는 6건·5건이다. 심각한 이상반응은 두 군 모두 0건이었다.",
+      "options": [
+        {
+          "text": "사람 기준 A 5%·B 5%, 시술 기준 A 1.00%·B 약 1.04%",
+          "detail": "사람은 5/100·4/80, 시술은 6/600·5/480으로 계산한다. 두 분모가 다르며 심각한 이상반응 0건은 위험이 없다는 확정이 아니다.",
+          "owner": "정답 근거",
+          "ownerId": "research-안전성",
+          "source": "/learning/acupuncture/#clinical-acupuncture-28"
+        },
+        {
+          "text": "사람 기준 A 6%·B 6.25%, 시술 기준 A 1.00%·B 약 1.04%",
+          "detail": "시술 기준은 맞지만 사람 기준에 발생 건수를 넣었다. 반복 이상반응이 있으면 건수와 경험자 수가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "research-안전성",
+          "source": "/learning/acupuncture/#clinical-acupuncture-28"
+        },
+        {
+          "text": "사람 기준 A 5%·B 5%, 시술 기준 A 약 0.83%·B 약 0.83%",
+          "detail": "사람 기준은 맞지만 시술 기준에 경험자 수 5명·4명을 넣었다. 시술별 발생 건수는 6건·5건이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-안전성",
+          "source": "/learning/acupuncture/#clinical-acupuncture-28"
+        },
+        {
+          "text": "사람 기준 A 5%·B 4%, 시술 기준 A 1.00%·B 약 1.04%",
+          "detail": "시술 기준은 맞지만 B의 4명을 100명 기준처럼 읽었다. B의 분모는 80명이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-안전성",
+          "source": "/learning/acupuncture/#clinical-acupuncture-28"
+        },
+        {
+          "text": "사람 기준 A 6%·B 5%, 시술 기준 A 5%·B 5%",
+          "detail": "발생 건수와 사람 수, 각 분모를 섞었다. 계산 전에 분자가 사람인지 사건인지 명시해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "research-안전성",
+          "source": "/learning/acupuncture/#clinical-acupuncture-28"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "사람 기준 A 5%·B 5%, 시술 기준 A 1.00%·B 약 1.04% — 사람은 5/100·4/80, 시술은 6/600·5/480으로 계산한다. 두 분모가 다르며 심각한 이상반응 0건은 위험이 없다는 확정이 아니다.",
+      "discriminator": "한 번 이상 경험한 사람 수와 반복을 포함한 발생 건수는 다른 분자이다. 각각 사람 수·시술 횟수를 분모로 둔다.",
+      "kind": "clinical",
+      "category": "연구 기록",
+      "source": "/learning/acupuncture/#clinical-acupuncture-28",
+      "relatedSource": "/acupuncture-integrated/evidence/"
     }
   ]
 }
