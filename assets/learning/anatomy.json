@@ -176850,6 +176850,503 @@
       "category": "초음파 탐촉자 조작·측정",
       "source": "/learning/anatomy/#clinical-anatomy-28",
       "relatedSource": "/learning/anatomy/#anatomy-imaging-us-nerve-csa"
+    },
+    {
+      "id": "clinical-anatomy-29",
+      "cardId": "anatomy-nerve-dorsal-scapular",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "능형근의 약화와 앞톱니근·승모근 보존을 함께 설명하는 신경은?",
+      "context": "근육·힘줄의 손상 없이 큰능형근과 작은능형근의 어깨뼈 뒤당김이 함께 약하다. 앞톱니근의 내밈과 승모근의 기능은 유지된다. 피부감각 저하는 없다. 어깨올림근에는 목신경 가지도 기여하므로 그 기능 하나만으로 판단하지 않는다.",
+      "options": [
+        {
+          "text": "흉배신경",
+          "detail": "넓은등근을 지배한다. 능형근의 어깨뼈 뒤당김과 넓은등근의 위팔 운동을 구분한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-scapular",
+          "source": "/learning/anatomy/#clinical-anatomy-29"
+        },
+        {
+          "text": "견갑배신경",
+          "detail": "능형근군의 운동지배가 맞는다. 앞톱니근·승모근의 보존과 피부감각 변화가 없는 조건을 함께 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-dorsal-scapular",
+          "source": "/learning/anatomy/#clinical-anatomy-29"
+        },
+        {
+          "text": "장흉신경",
+          "detail": "어깨뼈 운동과 관련되지만 앞톱니근을 지배한다. 앞톱니근은 정상이고 능형근이 약하다는 조건이 갈림점이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-scapular",
+          "source": "/learning/anatomy/#clinical-anatomy-29"
+        },
+        {
+          "text": "부신경",
+          "detail": "승모근의 운동지배에 연결되며 피부감각 변화가 없다는 점은 공유한다. 그러나 승모근은 보존되어 있다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-scapular",
+          "source": "/learning/anatomy/#clinical-anatomy-29"
+        },
+        {
+          "text": "견갑상신경",
+          "detail": "가시위근·가시아래근에 연결된다. 어깨뼈에 붙는 근육이라는 공통점보다 실제 약해진 근육을 확인한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-dorsal-scapular",
+          "source": "/learning/anatomy/#clinical-anatomy-29"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "견갑배신경 — 능형근군의 운동지배가 맞는다. 앞톱니근·승모근의 보존과 피부감각 변화가 없는 조건을 함께 읽는다.",
+      "discriminator": "어깨뼈 주변 신경을 기능 이름만으로 묶지 않고 능형근 약화와 다른 두 근육의 보존을 대응시킨다.",
+      "references": [
+        {
+          "title": "UAMS 상지 신경 해부표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-upper-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-29",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-dorsal-scapular"
+    },
+    {
+      "id": "clinical-anatomy-30",
+      "cardId": "anatomy-nerve-inferior-gluteal",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "큰볼기근의 선택적 약화에서 가장 잘 맞는 운동신경은?",
+      "context": "큰볼기근 자체의 손상은 없다고 가정한다. 굽힌 엉덩관절을 힘 있게 펴는 동작이 약하고 낮은 의자에서 일어설 때 힘이 부족하다. 중간볼기근·작은볼기근의 벌림, 넙다리 뒤근육의 무릎 굽힘, 넙다리네갈래근의 무릎 폄은 유지된다.",
+      "options": [
+        {
+          "text": "아래볼기신경",
+          "detail": "큰볼기근의 운동지배와 맞는다. 다른 볼기근의 벌림과 뒤넙다리 근육 기능이 보존되어 분포가 좁혀진다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-inferior-gluteal",
+          "source": "/learning/anatomy/#clinical-anatomy-30"
+        },
+        {
+          "text": "위볼기신경",
+          "detail": "볼기부 운동신경이라는 조건은 맞지만 중간·작은볼기근과 넙다리근막긴장근을 지배한다. 제시된 벌림은 정상이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-inferior-gluteal",
+          "source": "/learning/anatomy/#clinical-anatomy-30"
+        },
+        {
+          "text": "좌골신경",
+          "detail": "뒤넙다리 근육도 엉덩관절 폄에 참여하지만 큰볼기근의 지배신경은 아니다. 무릎 굽힘 보존도 구별 단서이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-inferior-gluteal",
+          "source": "/learning/anatomy/#clinical-anatomy-30"
+        },
+        {
+          "text": "넙다리신경",
+          "detail": "의자에서 일어서기에 참여하는 무릎 폄을 담당한다. 그 기능이 보존되어 큰볼기근의 선택적 약화를 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-inferior-gluteal",
+          "source": "/learning/anatomy/#clinical-anatomy-30"
+        },
+        {
+          "text": "폐쇄신경",
+          "detail": "주로 넙다리 모음근 계통과 연결된다. 엉덩관절 운동이라는 범주만으로 큰볼기근 지배를 대신하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-inferior-gluteal",
+          "source": "/learning/anatomy/#clinical-anatomy-30"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "아래볼기신경 — 큰볼기근의 운동지배와 맞는다. 다른 볼기근의 벌림과 뒤넙다리 근육 기능이 보존되어 분포가 좁혀진다.",
+      "discriminator": "같은 일어서기 동작에 참여해도 큰볼기근의 폄과 넙다리네갈래근의 무릎 폄은 지배신경이 다르다.",
+      "references": [
+        {
+          "title": "UAMS 하지 신경 해부표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-30",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-inferior-gluteal"
+    },
+    {
+      "id": "clinical-anatomy-31",
+      "cardId": "anatomy-nerve-saphenous",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "종아리 안쪽 감각 저하와 정상 무릎 폄을 함께 설명하는 가지는?",
+      "context": "피부감각 변화는 종아리 안쪽에서 안쪽복사 부근까지 이어진다. 넙다리네갈래근의 근력과 무릎반사는 정상이며 발바닥 감각·발목 운동도 유지된다. 단일 말초신경 분포를 비교하는 교육용 상황이다.",
+      "options": [
+        {
+          "text": "분지 이전의 넙다리신경",
+          "detail": "복재신경 영역을 포함하지만 넙다리네갈래근 운동도 함께 포함한다. 제시된 감각만의 제한적 변화보다 범위가 넓다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#clinical-anatomy-31"
+        },
+        {
+          "text": "비복신경",
+          "detail": "감각신경이고 무릎 폄 보존은 설명할 수 있지만 주된 분포가 종아리 뒤가쪽·발 가쪽이어서 면이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#clinical-anatomy-31"
+        },
+        {
+          "text": "경골신경",
+          "detail": "발바닥 감각과 여러 발목·발 근육에 연결된다. 제시된 안쪽 종아리 감각과 발바닥·운동 보존을 함께 설명하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#clinical-anatomy-31"
+        },
+        {
+          "text": "가쪽넙다리피부신경",
+          "detail": "감각가지라는 점은 같지만 가쪽 넙다리 피부에 분포한다. 종아리 안쪽까지 내려가는 가지와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#clinical-anatomy-31"
+        },
+        {
+          "text": "복재신경",
+          "detail": "넙다리신경의 긴 감각가지로 종아리·발 안쪽 피부를 담당한다. 운동기능과 반사 보존이 가지 수준의 분포에 맞는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-saphenous",
+          "source": "/learning/anatomy/#clinical-anatomy-31"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "복재신경 — 넙다리신경의 긴 감각가지로 종아리·발 안쪽 피부를 담당한다. 운동기능과 반사 보존이 가지 수준의 분포에 맞는다.",
+      "discriminator": "감각 영역의 안쪽 면과 넙다리신경의 운동·반사 보존을 함께 확인한다.",
+      "references": [
+        {
+          "title": "UAMS 하지 신경 해부표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-31",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-saphenous"
+    },
+    {
+      "id": "clinical-anatomy-32",
+      "cardId": "anatomy-nerve-superficial-fibular",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "첫째 발가락 사이 감각이 보존된 발등 감각·가쪽번짐 저하의 가지는?",
+      "context": "긴종아리근·짧은종아리근의 가쪽번짐이 약하고 발등의 넓은 영역에서 감각이 둔하다. 첫째·둘째 발가락 사이의 좁은 감각, 발등굽힘과 발가락 폄은 유지된다. 발바닥 감각과 뒤정강근 기능도 정상이다.",
+      "options": [
+        {
+          "text": "심비골신경",
+          "detail": "발등의 감각 영역을 일부 공유하지만 첫째 사이공간과 발등굽힘이 오히려 보존되어 제시된 분포와 반대이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-superficial-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-32"
+        },
+        {
+          "text": "비복신경",
+          "detail": "발 가쪽 감각에 연결되는 감각신경이다. 긴·짧은종아리근의 운동과 발등 대부분의 감각을 함께 담당하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-superficial-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-32"
+        },
+        {
+          "text": "경골신경",
+          "detail": "뒤정강근·발바닥감각 등이 보존되어 제시된 가쪽구획·발등 분포와 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-superficial-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-32"
+        },
+        {
+          "text": "천비골신경",
+          "detail": "가쪽구획 운동과 발등의 넓은 피부감각을 연결한다. 심비골신경 영역인 첫째 사이공간·앞구획 운동은 보존된다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-superficial-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-32"
+        },
+        {
+          "text": "총비골신경",
+          "detail": "두 가지의 상위 신경이므로 발등굽힘·발가락 폄과 첫째 사이공간까지 포함한다. 보존 단서보다 범위가 넓다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-superficial-fibular",
+          "source": "/learning/anatomy/#clinical-anatomy-32"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "천비골신경 — 가쪽구획 운동과 발등의 넓은 피부감각을 연결한다. 심비골신경 영역인 첫째 사이공간·앞구획 운동은 보존된다.",
+      "discriminator": "넓은 발등 감각 변화보다 첫째 사이공간과 앞구획 운동이 정상이라는 예외가 분지를 결정한다.",
+      "references": [
+        {
+          "title": "UAMS 하지 신경 해부표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "하지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-32",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-superficial-fibular"
+    },
+    {
+      "id": "clinical-anatomy-33",
+      "cardId": "anatomy-nerve-lower-subscapular",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "뒤다발의 가지를 근육쌍으로 대조할 때 맞는 연결은?",
+      "context": "위팔신경얼기 뒤다발에서 나오는 세 가지의 해부학적 분포를 비교한다. A는 어깨밑근의 일부, B는 어깨밑근의 아래쪽 부분과 큰원근, C는 넓은등근으로 이어진다. 작은원근은 별도로 액와신경에 연결된다. B에 해당하는 가지를 고른다.",
+      "options": [
+        {
+          "text": "액와신경",
+          "detail": "같은 뒤다발 계통이나 작은원근·삼각근에 연결된다. 큰원근과 작은원근을 바꾸어 읽지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-lower-subscapular",
+          "source": "/learning/anatomy/#clinical-anatomy-33"
+        },
+        {
+          "text": "견갑상신경",
+          "detail": "어깨 근육 지배라는 공통점은 있으나 위줄기에서 나오며 가시위근·가시아래근으로 이어진다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-lower-subscapular",
+          "source": "/learning/anatomy/#clinical-anatomy-33"
+        },
+        {
+          "text": "아래견갑하신경",
+          "detail": "어깨밑근 일부와 큰원근을 함께 지배하는 가지이다. 위견갑하신경·흉배신경과 근육쌍으로 구분한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-lower-subscapular",
+          "source": "/learning/anatomy/#clinical-anatomy-33"
+        },
+        {
+          "text": "위견갑하신경",
+          "detail": "같은 뒤다발에서 어깨밑근으로 이어진다는 점은 맞지만 큰원근까지 함께 연결되는 B의 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-lower-subscapular",
+          "source": "/learning/anatomy/#clinical-anatomy-33"
+        },
+        {
+          "text": "흉배신경",
+          "detail": "같은 뒤다발 가지이며 안쪽돌림·모음에 참여하는 근육을 지배하지만 목표 근육은 넓은등근인 C이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-lower-subscapular",
+          "source": "/learning/anatomy/#clinical-anatomy-33"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "아래견갑하신경 — 어깨밑근 일부와 큰원근을 함께 지배하는 가지이다. 위견갑하신경·흉배신경과 근육쌍으로 구분한다.",
+      "discriminator": "공통 기원과 유사 작용만으로 답을 고르지 않는다. 어깨밑근 아래쪽과 큰원근의 동시 연결이 핵심이다.",
+      "references": [
+        {
+          "title": "UAMS 상지 신경 해부표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-upper-limb/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "상지 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-33",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-lower-subscapular"
+    },
+    {
+      "id": "clinical-anatomy-34",
+      "cardId": "anatomy-nerve-greater-occipital",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "뒤통수 감각신경의 기원과 영역을 모두 맞춘 것은?",
+      "context": "해부표의 A는 주로 둘째 목척수신경 뒤가지의 안쪽가지에서 출발해 뒤통수 두피로 올라간다. B는 목신경얼기의 앞가지 계통에서 나와 귀 뒤 피부에 분포한다. 기원과 분포를 함께 대조한다.",
+      "options": [
+        {
+          "text": "A 대후두신경 · B 이개측두신경",
+          "detail": "A는 맞지만 이개측두신경은 삼차신경 아래턱가지 계통으로 목신경얼기에서 출발하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-greater-occipital",
+          "source": "/learning/anatomy/#clinical-anatomy-34"
+        },
+        {
+          "text": "A 대후두신경 · B 소후두신경",
+          "detail": "대후두신경의 C2 뒤가지 계통과 소후두신경의 목신경얼기 앞가지 계통을 구별한 연결이다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-nerve-greater-occipital",
+          "source": "/learning/anatomy/#clinical-anatomy-34"
+        },
+        {
+          "text": "A 소후두신경 · B 대후두신경",
+          "detail": "뒤통수·귀 뒤라는 인접 감각 영역은 공유하지만 두 신경의 뒤가지·앞가지 기원을 뒤집었다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-greater-occipital",
+          "source": "/learning/anatomy/#clinical-anatomy-34"
+        },
+        {
+          "text": "A 제3후두신경 · B 소후두신경",
+          "detail": "B는 맞고 A도 뒤가지 계통이지만 제3후두신경은 C3와 연결되어 제시된 C2 기원과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-greater-occipital",
+          "source": "/learning/anatomy/#clinical-anatomy-34"
+        },
+        {
+          "text": "A 대후두신경 · B 대이개신경",
+          "detail": "A는 맞고 B도 목신경얼기 감각가지지만 대이개신경의 귓바퀴·귀밑샘 부위 분포와 소후두신경을 구분해야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-nerve-greater-occipital",
+          "source": "/learning/anatomy/#clinical-anatomy-34"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "A 대후두신경 · B 소후두신경 — 대후두신경의 C2 뒤가지 계통과 소후두신경의 목신경얼기 앞가지 계통을 구별한 연결이다.",
+      "discriminator": "비슷한 두피 영역보다 C2 뒤가지인지 목신경얼기 앞가지인지가 최종 구별 기준이다.",
+      "references": [
+        {
+          "title": "UAMS 머리·목 신경 해부표",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "목·몸통 신경",
+      "source": "/learning/anatomy/#clinical-anatomy-34",
+      "relatedSource": "/learning/anatomy/#anatomy-nerve-greater-occipital"
+    },
+    {
+      "id": "clinical-anatomy-35",
+      "cardId": "anatomy-imaging-us-fibular-tendons",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "가쪽복사 뒤의 두 힘줄을 원위부까지 추적했을 때 맞는 식별은?",
+      "context": "초음파로 가쪽복사 뒤의 두 힘줄을 연속 추적한다. A는 가쪽복사에 더 가까운 앞쪽에 있고 제5발허리뼈 바닥으로 이어진다. B는 뒤쪽에 있다가 더 원위에서 발바닥 쪽으로 돌아간다. 단면 위치 하나가 아니라 주행의 연속성까지 확인한 교육용 관찰이다.",
+      "options": [
+        {
+          "text": "A 짧은종아리근힘줄 · B 긴종아리근힘줄",
+          "detail": "짧은 힘줄의 제5발허리뼈 바닥 정지와 긴 힘줄의 발바닥 쪽 주행이 맞는다. 단축 위치와 원위 추적을 함께 사용한다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-imaging-us-fibular-tendons",
+          "source": "/learning/anatomy/#clinical-anatomy-35"
+        },
+        {
+          "text": "A 긴종아리근힘줄 · B 짧은종아리근힘줄",
+          "detail": "둘 다 가쪽복사 뒤에 있지만 원위 정지·주행을 서로 뒤집었다. 이름의 길이보다 이어지는 구조를 본다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-fibular-tendons",
+          "source": "/learning/anatomy/#clinical-anatomy-35"
+        },
+        {
+          "text": "A 짧은종아리근힘줄 · B 뒤정강근힘줄",
+          "detail": "A는 맞지만 뒤정강근힘줄은 안쪽복사 뒤에서 관찰하는 계통이다. B의 시작 면과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-fibular-tendons",
+          "source": "/learning/anatomy/#clinical-anatomy-35"
+        },
+        {
+          "text": "A 긴발가락폄근힘줄 · B 긴종아리근힘줄",
+          "detail": "B는 맞지만 긴발가락폄근힘줄은 앞발목을 지나 발가락으로 향해 A의 뒤가쪽 표지·정지와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-fibular-tendons",
+          "source": "/learning/anatomy/#clinical-anatomy-35"
+        },
+        {
+          "text": "A 아킬레스힘줄 · B 짧은종아리근힘줄",
+          "detail": "발목 뒤쪽이라는 공통점만 남긴 연결이다. 아킬레스힘줄은 발꿈치뼈에 붙으며 두 관찰 경로와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-fibular-tendons",
+          "source": "/learning/anatomy/#clinical-anatomy-35"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "A 짧은종아리근힘줄 · B 긴종아리근힘줄 — 짧은 힘줄의 제5발허리뼈 바닥 정지와 긴 힘줄의 발바닥 쪽 주행이 맞는다. 단축 위치와 원위 추적을 함께 사용한다.",
+      "discriminator": "제5발허리뼈 바닥으로 가는 A와 발바닥 쪽으로 돌아가는 B를 각각 연속 추적한 정보가 단면의 혼동을 해소한다.",
+      "references": [
+        {
+          "title": "ESSR 발목 초음파 기술 지침",
+          "url": "https://essr.org/content-essr/uploads/2016/10/ankle.pdf"
+        }
+      ],
+      "kind": "clinical",
+      "category": "초음파 부위 해부",
+      "source": "/learning/anatomy/#clinical-anatomy-35",
+      "relatedSource": "/learning/anatomy/#anatomy-imaging-us-fibular-tendons"
+    },
+    {
+      "id": "clinical-anatomy-36",
+      "cardId": "anatomy-imaging-us-aliasing",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "속도범위만 바꾸자 색 반전이 사라진 도플러 기록의 해석은?",
+      "context": "같은 혈관에서 탐촉자 방향·색지도·이득·압박을 유지한다. 낮은 펄스반복주파수 설정에서는 일부 색이 반대로 접혀 보였으나 속도범위를 높이자 사라졌다. 같은 구간의 스펙트럼은 주된 흐름 방향을 유지한다. 아래 표는 설정 원리 학습용 가정이다.",
+      "options": [
+        {
+          "text": "혈류 방향이 바뀌었다가 설정 변경 뒤 회복된 것으로 설명한다",
+          "detail": "색 반전은 관찰했지만 설정만 바뀌었고 주된 스펙트럼 방향은 유지된다. 표시 현상을 생리적 방향 변화로 바꾼 해석이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-aliasing",
+          "source": "/learning/anatomy/#clinical-anatomy-36"
+        },
+        {
+          "text": "색지도의 양·음 방향을 서로 바꾼 결과로 설명한다",
+          "detail": "색지도를 반전하면 색 배정이 바뀔 수 있지만 이 사례에서는 색지도를 고정했다. 변경 변수는 속도범위이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-aliasing",
+          "source": "/learning/anatomy/#clinical-anatomy-36"
+        },
+        {
+          "text": "과도한 이득으로 혈관 밖까지 색이 번진 결과로 설명한다",
+          "detail": "이득은 색 번짐에 관여하지만 고정되어 있으며 제시된 현상은 범위에 따라 접힘이 사라지는 변화이다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-aliasing",
+          "source": "/learning/anatomy/#clinical-anatomy-36"
+        },
+        {
+          "text": "접힘이 없어졌으므로 해당 혈관의 협착 여부까지 판단한다",
+          "detail": "표시 적정성을 확인한 것과 질환 판단은 별개이다. 구조·속도·비율 등 질환 판단 자료가 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "anatomy-imaging-us-aliasing",
+          "source": "/learning/anatomy/#clinical-anatomy-36"
+        },
+        {
+          "text": "표시 한계에 따른 앨리어싱을 먼저 설명한다",
+          "detail": "PRF에 따른 나이퀴스트 한계와 색 접힘의 관계가 맞는다. 이 변화만으로 실제 혈류 역전을 기록하지 않는다.",
+          "owner": "정답 근거",
+          "ownerId": "anatomy-imaging-us-aliasing",
+          "source": "/learning/anatomy/#clinical-anatomy-36"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "표시 한계에 따른 앨리어싱을 먼저 설명한다 — PRF에 따른 나이퀴스트 한계와 색 접힘의 관계가 맞는다. 이 변화만으로 실제 혈류 역전을 기록하지 않는다.",
+      "discriminator": "변경한 변수가 PRF·속도범위이고 주된 흐름 방향이 유지된다는 두 조건을 함께 읽는다.",
+      "table": {
+        "caption": "교육용 도플러 설정 비교",
+        "headers": [
+          "관찰",
+          "낮은 속도범위",
+          "높인 속도범위"
+        ],
+        "rows": [
+          [
+            "일부 색의 접힘",
+            "관찰됨",
+            "사라짐"
+          ],
+          [
+            "색지도·이득",
+            "동일",
+            "동일"
+          ],
+          [
+            "스펙트럼 주된 방향",
+            "탐촉자 쪽",
+            "탐촉자 쪽"
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "BMUS 도플러와 혈류 측정",
+          "url": "https://www.bmus.org/education-and-cpd/doppler-ultrasound-and-blood-flow-measurement/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "초음파 도플러 설정·혈류",
+      "source": "/learning/anatomy/#clinical-anatomy-36",
+      "relatedSource": "/learning/anatomy/#anatomy-imaging-us-aliasing"
     }
   ]
 }
