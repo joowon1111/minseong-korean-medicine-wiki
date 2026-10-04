@@ -52,6 +52,8 @@ last_reviewed: '2026-09-18'
 
 ## 현대 통증 연구를 읽는 기준
 
+현호색은 병의원 처방약 **모티리톤정**의 원료이기도 합니다. 모티리톤은 현호색·견우자(5:1)의 50% 에탄올 연조엑스를 사용하는 기능성소화불량 치료제입니다. 전통적인 활혈행기·지통의 배합과 현대 소화기 제품의 사용 목적을 함께 읽을 수 있는 사례입니다. [제품 성분표](../conditions/natural-products-herbal.md#digestive-products) · [DA-9701 사람 대상 비교시험](../conditions/functional-dyspepsia.md#da9701-clinical-trial)
+
 현호색 연구에서는 tetrahydropalmatine 등 알칼로이드, 통증행동, 신경전달·수용체와 염증 매개체 등의 지표가 다뤄집니다. 2021년 종설은 *Corydalis yanhusuo*의 진통 관련 성분·기전과 연구 자료를 정리했습니다. 사람에게 적용할 때에는 원약재·추출물·분리 성분, 급성·만성 통증 모델, 투여량과 안전성을 구분합니다.
 
 - [현호색 진통 연구 종설, PMID 34946576](https://pubmed.ncbi.nlm.nih.gov/34946576/)
