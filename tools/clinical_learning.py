@@ -12,8 +12,10 @@ def clinical_questions(root, decks):
     payload = json.loads((root / 'data/clinical_learning.json').read_text())
     assert payload['schema'] == 1
     rows = payload['questions']
+    per_level = payload['questionsPerLevel']
+    assert type(per_level) is int and per_level > 0
     assert Counter((r['subject'], r['difficulty']) for r in rows) == Counter(
-        {(s, level): 4 for s in decks for level in LEVELS})
+        {(s, level): per_level for s in decks for level in LEVELS})
     assert len({r['id'] for r in rows}) == len(rows)
     result = {s: [] for s in decks}
     for row in rows:

@@ -688,7 +688,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261004-01', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261004-02', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -752,6 +752,12 @@ def main():
                       f'중 {advanced_counts[0]}문제·상 {advanced_counts[0]}문제', text)
         text = re.sub(r'총 \*\*\d+문제\*\*',
                       f"총 **{sum(q['kind'] == 'advanced' for d in decks.values() for q in d['questions'])}문제**", text)
+        clinical = [q for d in decks.values() for q in d['questions'] if q['kind'] == 'clinical']
+        clinical_per_subject = [sum(q['kind'] == 'clinical' for q in d['questions']) for d in decks.values()]
+        assert len(set(clinical_per_subject)) == 1
+        text = re.sub(r'일곱 과목별 \d+문제씩, 자체 작성한 \*\*\d+문제\(중 \d+·상 \d+\)\*\*',
+                      f"일곱 과목별 {clinical_per_subject[0]}문제씩, 자체 작성한 **{len(clinical)}문제"
+                      f"(중 {sum(q['difficulty'] == 'high' for q in clinical)}·상 {sum(q['difficulty'] == 'expert' for q in clinical)})**", text)
         classics = [decks[s] for s in ('shanghanlun', 'sasang')]
         text = re.sub(r'두 은행은 \d+개 카드·[\d,]+문제를',
                       f"두 은행은 {sum(len(d['cards']) for d in classics)}개 카드·{sum(len(d['questions']) for d in classics):,}문제를", text)
