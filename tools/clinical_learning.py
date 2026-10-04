@@ -8,14 +8,22 @@ END = '<!-- CLINICAL_QUESTIONS_END -->'
 LEVELS = {'high': '중', 'expert': '상'}
 
 
+def expected_counts(payload, subjects):
+    """A default bank size with explicit overrides for focused subject growth."""
+    per_level = payload['questionsPerLevel']
+    assert type(per_level) is int and per_level > 0
+    overrides = payload.get('questionsPerLevelBySubject', {})
+    assert isinstance(overrides, dict) and set(overrides) <= set(subjects)
+    assert all(type(value) is int and value > 0 for value in overrides.values())
+    return Counter({(s, level): overrides.get(s, per_level)
+                    for s in subjects for level in LEVELS})
+
+
 def clinical_questions(root, decks):
     payload = json.loads((root / 'data/clinical_learning.json').read_text())
     assert payload['schema'] == 1
     rows = payload['questions']
-    per_level = payload['questionsPerLevel']
-    assert type(per_level) is int and per_level > 0
-    assert Counter((r['subject'], r['difficulty']) for r in rows) == Counter(
-        {(s, level): per_level for s in decks for level in LEVELS})
+    assert Counter((r['subject'], r['difficulty']) for r in rows) == expected_counts(payload, decks)
     assert len({r['id'] for r in rows}) == len(rows)
     result = {s: [] for s in decks}
     for row in rows:
