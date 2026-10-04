@@ -46,7 +46,7 @@ class StudentLearning(unittest.TestCase):
             for q in deck['questions']:
                 positions.add(q['answer'])
                 self.assertIn(by_id[q['cardId']]['title'], q['explanation'])
-                if q['kind'] == 'advanced':
+                if q['kind'] in ('advanced', 'clinical'):
                     self.assertEqual(q['source'], '/learning/' + deck['subject'] + '/#' + q['id'])
                     self.assertEqual(q['relatedSource'], by_id[q['cardId']]['source'])
                     self.assertTrue(all(o['source'] == q['source'] and o['detail'] for o in q['options']))
@@ -55,21 +55,21 @@ class StudentLearning(unittest.TestCase):
                     owner = by_id[option['ownerId']]
                     self.assertEqual(option['source'], owner['source'])
                     self.assertTrue(option['text'] == owner['title'] or option['text'] in [f['value'] for f in owner['facts']])
-            self.assertEqual(positions, {0, 1, 2, 3})
+            self.assertEqual(positions, {0, 1, 2, 3, 4})
 
     def test_classical_banks_keep_originals_editions_and_interpretive_context(self):
         from collections import Counter
         for subject, count, cases in (('shanghanlun', 70, 36), ('sasang', 48, 24)):
             deck = self.decks[subject]
             self.assertEqual(len(deck['cards']), count)
-            self.assertEqual(len(deck['questions']), count * 3 + cases + 34)
+            self.assertEqual(len(deck['questions']), count * 3 + cases + 34 + 8)
             for c in deck['cards']:
                 facts = {f['label']: f['value'] for f in c['facts']}
                 self.assertTrue({'우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
                 self.assertTrue('원문' in facts or '분류 표지어' in facts)
                 self.assertIn(c['id'], c['source'])
                 self.assertTrue(c['relatedSource'].startswith('/'))
-            self.assertEqual(Counter(q['cardId'] for q in deck['questions'] if q['kind'] != 'advanced'),
+            self.assertEqual(Counter(q['cardId'] for q in deck['questions'] if q['kind'] not in ('advanced', 'clinical')),
                              {c['id']: 4 if any(f['label'] == '증례 독해' for f in c['facts']) else 3 for c in deck['cards']})
             self.assertEqual(sum(q['kind'] == 'case' for q in deck['questions']), cases)
             self.assertTrue(all(q['context'] and all(o['detail'] for o in q['options']) for q in deck['questions']))
@@ -81,7 +81,7 @@ class StudentLearning(unittest.TestCase):
             body = re.search(r'^## .*?\{#' + fragment + r'\}\n(.*?)(?=^## |\Z)', text, re.M | re.S)[1]
             self.assertEqual(row['original'], ' '.join(re.findall(r'^> (.*)', body, re.M)))
         sasang = self.decks['sasang']
-        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 34})
+        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 34, 'clinical': 8})
         for key in ('soeum', 'soyang', 'taeeum', 'taeyang'):
             self.assertTrue(any(c['id'] == 'sasang-health-' + key for c in sasang['cards']))
         headings = [c for c in sasang['cards'] if c['id'].startswith('sasang-pattern-')]
@@ -176,7 +176,7 @@ class StudentLearning(unittest.TestCase):
             self.assertIn(f'id="{c["id"]}"', text)
             self.assertTrue(c['references'])
         for q in deck['questions']:
-            if q['kind'] in ('fact', 'advanced'):
+            if q['kind'] in ('fact', 'advanced', 'clinical'):
                 continue
             self.assertEqual(q['acceptedAnswers'], by_id[q['cardId']]['aliases'])
             self.assertEqual(q['options'][q['answer']]['ownerId'], q['cardId'])
@@ -310,7 +310,7 @@ class StudentLearning(unittest.TestCase):
         self.assertFalse(re.search(r'국시원|국가시험|국가고시|kuksiwon|7일 복습', hub))
         per_level = json.loads((study.ROOT / 'data/advanced_learning.json').read_text())['questionsPerLevel']
         self.assertIn(f'중 {per_level}문제·상 {per_level}문제', hub)
-        self.assertIn('118개 카드·482문제', hub)
+        self.assertIn('118개 카드·498문제', hub)
 
     def test_ultrasound_cases_cover_tracking_measurement_and_doppler_conditions(self):
         deck = self.decks['anatomy']
@@ -354,6 +354,30 @@ class StudentLearning(unittest.TestCase):
                     self.assertIn(o['detail'], text)
             old = {q['id'] for q in deck['questions'] if q['kind'] != 'advanced'}
             self.assertTrue(old.isdisjoint(q['id'] for q in questions))
+
+    def test_five_option_cases_keep_scope_tables_and_static_explanations(self):
+        from collections import Counter
+        payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
+        self.assertEqual(len(payload['questions']), 56)
+        for subject, deck in self.decks.items():
+            cases = [q for q in deck['questions'] if q['kind'] == 'clinical']
+            self.assertEqual(Counter(q['difficulty'] for q in cases), {'high': 4, 'expert': 4})
+            self.assertEqual({q['answer'] for q in cases}, set(range(5)))
+            text = (study.DOCS / 'learning' / (subject + '.md')).read_text()
+            self.assertEqual(text.count('<!-- CLINICAL_QUESTIONS_START -->'), 1)
+            for q in cases:
+                self.assertEqual(len(q['options']), 5)
+                self.assertIn('id="' + q['id'] + '"', text)
+                self.assertIn(q['context'], text)
+                self.assertIn(q['discriminator'], text)
+                visible = q['context'] + q['prompt'] + ' '.join(o['text'] for o in q['options'])
+                self.assertFalse(re.search(r'\b(?:MRI|CT)\b|엑스레이|X-ray|자기공명|컴퓨터단층', visible, re.I))
+                for o in q['options']:
+                    self.assertIn(o['detail'], text)
+                if 'table' in q:
+                    self.assertIn(q['table']['caption'], text)
+                    for row in q['table']['rows']:
+                        self.assertTrue(all(value in text for value in row))
 
     def test_hard_classical_cases_keep_clause_numbers_and_source_claims_precise(self):
         sh = {q['id']: q for q in self.decks['shanghanlun']['questions'] if q['kind'] == 'advanced'}

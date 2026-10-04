@@ -271,3 +271,49 @@ for (const [subject, title] of [['shanghanlun', '상한론'], ['sasang', '사상
     assert.ok(all(h.root).some(e => e.tagName === 'a' && e.attrs.href === q.source));
   });
 }
+
+test('five-option cases retain level filters, structured observations and wrong-answer progress', async () => {
+  for (const [subject, title] of Object.entries({anatomy:'기초 해부학',acupoints:'경혈학',acupuncture:'침구학',herbs:'본초학',formulas:'방제학',shanghanlun:'상한론',sasang:'사상의학'})) {
+    const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
+    const cases = d.questions.filter(q => q.kind === 'clinical');
+    assert.equal(cases.length, 8);
+    assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'clinical', 'expert').length, 4);
+    const h = harness(); h.button(title).events.click();
+    h.loads.at(-1).resolve({ok:true,json:async()=>d}); await h.settle();
+    h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+    h.select('문제 유형').value = 'clinical'; h.select('문제 유형').events.change();
+    h.select('문제 난이도').value = 'expert'; h.select('문제 난이도').events.change();
+    assert.equal(h.select('문제 유형').value, 'clinical');
+    assert.ok(h.button('4문제 풀기')); h.button('4문제 풀기').events.click();
+    const clue = all(h.root).find(e => e.attrs.class === 'learning-prompt').textContent;
+    const q = cases.find(q => q.context === clue);
+    assert.ok(q);
+    assert.equal(all(h.root).filter(e => e.attrs['data-option'] !== undefined).length, 5);
+    assert.ok(!all(h.root).some(e => e.textContent.includes(q.discriminator)));
+    if(q.table) {
+      assert.ok(all(h.root).some(e => e.tagName === 'caption' && e.textContent === q.table.caption));
+      assert.equal(all(h.root).filter(e => e.tagName === 'tr').length, q.table.rows.length + 1);
+    }
+    const wrong = (q.answer + 1) % 5;
+    all(h.root).find(e => e.attrs['data-option'] === String(wrong)).events.click();
+    assert.ok(all(h.root).some(e => e.textContent === '결정적 감별 단서: ' + q.discriminator));
+    assert.ok(all(h.root).filter(e => e.attrs['data-option'] !== undefined).every(e => e.attrs.disabled === ''));
+    h.select('학습 방식').value = 'wrong'; h.select('학습 방식').events.change();
+    assert.ok(h.button('1문제 풀기')); h.button('1문제 풀기').events.click();
+    all(h.root).find(e => e.attrs['data-option'] === String(q.answer)).events.click();
+    assert.ok(all(h.root).some(e => e.textContent.includes('오답 0개')));
+  }
+});
+
+test('case tables display every observation, including the fifth choice', async () => {
+  const herbs = JSON.parse(fs.readFileSync('docs/assets/learning/herbs.json', 'utf8'));
+  const q = herbs.questions.find(q => q.kind === 'clinical' && q.table);
+  const h = harness(); h.button('본초학').events.click();
+  h.loads.at(-1).resolve({ok:true,json:async()=>({...herbs,questions:[q]})}); await h.settle();
+  h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+  h.select('문제 유형').value = 'clinical'; h.select('문제 유형').events.change();
+  h.button('1문제 풀기').events.click();
+  assert.ok(all(h.root).some(e => e.attrs['data-option'] === '4'));
+  for(const row of q.table.rows) for(const value of row) assert.ok(all(h.root).some(e => e.textContent === value));
+  for(const label of q.table.headers) assert.ok(all(h.root).some(e => e.tagName === 'th' && e.attrs.scope === 'col' && e.textContent === label));
+});

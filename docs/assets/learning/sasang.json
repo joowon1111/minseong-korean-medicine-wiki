@@ -10486,6 +10486,460 @@
       "category": "장부대소·보명지주",
       "source": "/learning/sasang/#advanced-sasang-expert-17",
       "relatedSource": "/learning/sasang/#sasang-organ-soeum"
+    },
+    {
+      "id": "clinical-sasang-01",
+      "cardId": "sasang-detail-mangyang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "이 경과가 우선 가리키는 소음인 표병의 분기는?",
+      "context": "소음인이라는 체질 조건이 주어진 문헌 학습이다. 표병 경과에서 땀이 난 뒤 개운함보다 기력 소모가 커지고, 발열과 자한이 함께 이어진다. 발열·무한을 중심으로 읽는 울광과 비교한다.",
+      "discriminator": "자한 자체보다 땀과 함께 나타나는 소모·회복 저하를 본다.",
+      "options": [
+        {
+          "text": "태음병의 구중화 분기",
+          "detail": "소음인 리병 문맥이며 제시한 표병·자한의 감별축과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-mangyang",
+          "source": "/learning/sasang/#clinical-sasang-01"
+        },
+        {
+          "text": "소음병의 구중불화 분기",
+          "detail": "소음인 리병의 입맛·섭취·설사 분기와 제시된 표병·자한의 축이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-mangyang",
+          "source": "/learning/sasang/#clinical-sasang-01"
+        },
+        {
+          "text": "울광병으로 회복한 분기",
+          "detail": "땀 뒤 회복이 아니라 소모 증가가 제시되었으므로 호전으로 전제할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-mangyang",
+          "source": "/learning/sasang/#clinical-sasang-01"
+        },
+        {
+          "text": "망양병의 자한·소모 분기",
+          "detail": "소음인 표병에서 자한과 기력 소모의 경과를 함께 읽는 방향이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-detail-mangyang",
+          "source": "/learning/sasang/#clinical-sasang-01"
+        },
+        {
+          "text": "울광병의 발열·무한 분기",
+          "detail": "같은 표병이지만 무한을 중심으로 한 분기와 자한·소모의 조합이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-mangyang",
+          "source": "/learning/sasang/#clinical-sasang-01"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "소음인 · 망양의 자한 — 망양은 땀의 양만이 아니라 평소 상태와 현재의 기력·섭취·회복 변화까지 읽는 감별이다.",
+      "kind": "clinical",
+      "category": "소음인 세부 병증",
+      "source": "/learning/sasang/#clinical-sasang-01",
+      "relatedSource": "/learning/sasang/#sasang-detail-mangyang"
+    },
+    {
+      "id": "clinical-sasang-02",
+      "cardId": "sasang-detail-soeum",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "설사라는 공통 증상에서 가장 적절한 분기는?",
+      "context": "소음인의 위수한리한병 문맥이다. 설사·복부 냉감에 더해 입안이 조화롭지 않고 식욕과 섭취가 떨어진다. 입맛이 유지되는 구중화의 태음병 분기와 비교한다.",
+      "discriminator": "하리 자체보다 구중불화와 섭취·기력 저하가 추가된다.",
+      "options": [
+        {
+          "text": "망양병의 자한 분기",
+          "detail": "소음인 표병의 자한·소모 축이며 이번 리한의 입맛·섭취 감별과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-soeum",
+          "source": "/learning/sasang/#clinical-sasang-02"
+        },
+        {
+          "text": "태음병의 회복 분기",
+          "detail": "구중불화·섭취 저하가 제시되어 회복으로 전제하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-soeum",
+          "source": "/learning/sasang/#clinical-sasang-02"
+        },
+        {
+          "text": "소음병의 구중불화 분기",
+          "detail": "위수한리한병 안에서 입안의 불화와 섭취 저하를 함께 읽는 분기이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-detail-soeum",
+          "source": "/learning/sasang/#clinical-sasang-02"
+        },
+        {
+          "text": "태음병의 구중화 분기",
+          "detail": "설사는 겹치지만 입맛·섭취가 비교적 유지되는 구중화와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-soeum",
+          "source": "/learning/sasang/#clinical-sasang-02"
+        },
+        {
+          "text": "울광병의 무한 분기",
+          "detail": "소음인 표병의 발열·무한 감별로 리한의 설사·구중불화와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-soeum",
+          "source": "/learning/sasang/#clinical-sasang-02"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "소음인 · 소음병의 구중불화 — 소음인 태음병·소음병은 같은 체질의 리병 안에서 구중화·구중불화와 전신 상태를 함께 비교한다.",
+      "kind": "clinical",
+      "category": "소음인 세부 병증",
+      "source": "/learning/sasang/#clinical-sasang-02",
+      "relatedSource": "/learning/sasang/#sasang-detail-soeum"
+    },
+    {
+      "id": "clinical-sasang-03",
+      "cardId": "sasang-detail-heat-mangeum",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "설사와 신열·두통의 결합에 해당하는 분기는?",
+      "context": "소양인이라는 체질이 주어진다. 비수한표한병 문맥에서 평소 무른 변이 잦던 사람이 설사를 하며 몸에 열이 나고 머리가 아프다. 신한·복통을 중심으로 한 망음 분기와 대비해 읽는다.",
+      "discriminator": "같은 망음 안에서도 신열·두통·설사의 결합이 명시되었다.",
+      "options": [
+        {
+          "text": "망음 회복 뒤의 정상 대변 분기",
+          "detail": "설사가 현재 진행 중이므로 회복 뒤 기준선으로 전제할 수 없다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-heat-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-03"
+        },
+        {
+          "text": "신열두통망음 분기",
+          "detail": "소양인 표병의 망음에서 신열·두통·설사를 함께 읽는 분기이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-detail-heat-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-03"
+        },
+        {
+          "text": "신한복통망음 분기",
+          "detail": "설사는 공유하지만 몸의 냉감과 복통이 앞서는 분기이므로 제시한 핵심 조합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-heat-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-03"
+        },
+        {
+          "text": "흉격열병의 대변조 분기",
+          "detail": "열은 겹치지만 리열과 건조한 대변의 순증 문맥으로 표병의 설사와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-heat-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-03"
+        },
+        {
+          "text": "소양상풍의 일반 분기",
+          "detail": "표병이라는 범위는 같지만 평소 대변과 망음의 설사·전신 경과를 빠뜨린다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-heat-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-03"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "소양인 · 신열두통망음 — 소양인 표병을 차가운 증상만으로 고정하지 않고 망음의 신열두통과 신한복통을 구분한다.",
+      "kind": "clinical",
+      "category": "소양인 세부 병증",
+      "source": "/learning/sasang/#clinical-sasang-03",
+      "relatedSource": "/learning/sasang/#sasang-detail-heat-mangeum"
+    },
+    {
+      "id": "clinical-sasang-04",
+      "cardId": "sasang-detail-chestheat",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "열감이 비슷해도 대변·병위로 나누면?",
+      "context": "소양인 증례를 문헌 체계로 읽는다. 현재 신열·흉번·갈증이 있으며 대변은 건조하고 보기 어렵다. 지속 설사는 없다고 가정한다. 소양인 표병의 신열두통망음과 리열의 순증 병증군을 비교한다.",
+      "discriminator": "신열과 함께 대변조·갈증이 모이는 리열 방향이다.",
+      "options": [
+        {
+          "text": "흉격열병의 리열 순증 분기",
+          "detail": "신열·흉번·구갈·대변조를 위수열리열병의 문맥에서 함께 읽는다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-detail-chestheat",
+          "source": "/learning/sasang/#clinical-sasang-04"
+        },
+        {
+          "text": "신열두통망음의 표병 분기",
+          "detail": "열은 겹치지만 설사와 대변 소증 변화가 중심인 표병의 망음과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-chestheat",
+          "source": "/learning/sasang/#clinical-sasang-04"
+        },
+        {
+          "text": "신한복통망음의 표병 분기",
+          "detail": "소양인 체질은 같지만 신한·복통·설사의 조합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-chestheat",
+          "source": "/learning/sasang/#clinical-sasang-04"
+        },
+        {
+          "text": "소양상풍의 표병 분기",
+          "detail": "표병의 단서를 별도로 확인해야 하며 이번 리열·대변조의 결합과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-chestheat",
+          "source": "/learning/sasang/#clinical-sasang-04"
+        },
+        {
+          "text": "흉격열병에서 망음으로 확정 전환",
+          "detail": "대변조가 제시되었으므로 설사·소증 변화 없이 망음 전환으로 확정하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-chestheat",
+          "source": "/learning/sasang/#clinical-sasang-04"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "소양인 · 흉격열과 대변조 — 소양인 병증에서 열감 하나보다 표리와 대변의 양상이 감별에 중요한 축이다.",
+      "kind": "clinical",
+      "category": "소양인 세부 병증",
+      "source": "/learning/sasang/#clinical-sasang-04",
+      "relatedSource": "/learning/sasang/#sasang-detail-chestheat"
+    },
+    {
+      "id": "clinical-sasang-05",
+      "cardId": "sasang-detail-cold-mangeum",
+      "difficulty": "expert",
+      "format": "data",
+      "prompt": "설사 횟수 감소의 가장 적절한 해석은?",
+      "context": "소양인 신한복통망음의 경과를 기록한 교육용 자료이다. 설사 횟수만 줄었다는 이유로 회복 여부를 판단할 수 있는지 검토한다.",
+      "discriminator": "횟수 감소와 동시에 냉감·섭취·소변·기력이 악화되었다.",
+      "options": [
+        {
+          "text": "설사 횟수 감소만으로 회복 판단",
+          "detail": "하나의 지표는 좋아 보이지만 동시에 나타난 냉감·섭취·소변·기력 악화를 반영하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-cold-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-05"
+        },
+        {
+          "text": "대변 횟수만으로 흉격열병 전환 판단",
+          "detail": "리열의 신열·구갈·대변조라는 별도 조건이 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-cold-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-05"
+        },
+        {
+          "text": "냉감 감소 여부만으로 호전 판단",
+          "detail": "냉감은 중요한 단서이지만 섭취·소변·기력의 동시 악화를 함께 보지 않으면 회복 판단이 불충분하다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-cold-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-05"
+        },
+        {
+          "text": "설사 감소를 정상 대변 소증으로 간주",
+          "detail": "평소 대변의 기준선과 현재 섭취·배설·기력을 확인하지 않고 횟수 감소를 소증 회복과 동일시하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-cold-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-05"
+        },
+        {
+          "text": "냉감·섭취·배설·기력을 함께 재평가",
+          "detail": "신한복통망음에서 설사 감소를 회복으로 보기 전에 전신 상태와 소모의 경과를 함께 확인한다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-detail-cold-mangeum",
+          "source": "/learning/sasang/#clinical-sasang-05"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "소양인 · 신한복통망음 — 설사 횟수와 회복은 같은 지표가 아니다. 실제 섭취·소변·기력의 악화는 평가가 필요한 소견이며 이 표는 문헌 학습용 가정이다.",
+      "table": {
+        "caption": "교육용 경과 비교",
+        "headers": [
+          "관찰",
+          "이전",
+          "현재"
+        ],
+        "rows": [
+          [
+            "설사 횟수",
+            "하루 5회",
+            "하루 2회"
+          ],
+          [
+            "냉감",
+            "가벼움",
+            "심해짐"
+          ],
+          [
+            "섭취·소변",
+            "유지",
+            "줄어듦"
+          ],
+          [
+            "기력",
+            "일상 활동 가능",
+            "활동 후 크게 소모"
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "소양인 세부 병증",
+      "source": "/learning/sasang/#clinical-sasang-05",
+      "relatedSource": "/learning/sasang/#sasang-detail-cold-mangeum"
+    },
+    {
+      "id": "clinical-sasang-06",
+      "cardId": "sasang-detail-ganheat-dry",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "리열의 순역을 구별하는 추가 판단으로 가장 적절한 것은?",
+      "context": "태음인 간수열리열병 문맥의 가상 기록이다. 두 기록 모두 열감과 갈증이 있다. 두 번째 기록에서는 평소보다 건조·소모와 회복 저하가 두드러져 폐조 손상 여부를 따로 검토한다.",
+      "discriminator": "열의 높낮이와 폐조·회복 손상은 같은 축이 아니다.",
+      "options": [
+        {
+          "text": "건조만으로 위완한병으로 변경",
+          "detail": "표한의 신한·무한·경과를 제시하지 않아 리열 문맥을 바꿀 근거가 충분하지 않다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-ganheat-dry",
+          "source": "/learning/sasang/#clinical-sasang-06"
+        },
+        {
+          "text": "갈증만으로 태음조위탕에 고정",
+          "detail": "태음인이라는 체질만으로 처방을 고정하지 않고 표리·순역·현재 증후를 구분한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-ganheat-dry",
+          "source": "/learning/sasang/#clinical-sasang-06"
+        },
+        {
+          "text": "열감만으로 다른 체질의 리열로 변경",
+          "detail": "열감이 겹친다는 이유로 주어진 태음인 체계 밖의 병증으로 대체하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-ganheat-dry",
+          "source": "/learning/sasang/#clinical-sasang-06"
+        },
+        {
+          "text": "간열폐조병의 역증 여부를 추가 검토",
+          "detail": "리열에 폐조와 소모·회복 손상이 겹치는지를 별도 축으로 평가한다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-detail-ganheat-dry",
+          "source": "/learning/sasang/#clinical-sasang-06"
+        },
+        {
+          "text": "열감만으로 간열병 순증을 유지",
+          "detail": "공통 열 증상은 설명하지만 제시된 폐조·회복 저하의 추가 정보를 반영하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-ganheat-dry",
+          "source": "/learning/sasang/#clinical-sasang-06"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "태음인 · 간열폐조의 역증 — 태음인 간열병과 간열폐조병의 감별은 리열의 존재뿐 아니라 폐조와 회복 손상을 함께 읽는다.",
+      "kind": "clinical",
+      "category": "태음인 세부 병증",
+      "source": "/learning/sasang/#clinical-sasang-06",
+      "relatedSource": "/learning/sasang/#sasang-detail-ganheat-dry"
+    },
+    {
+      "id": "clinical-sasang-07",
+      "cardId": "sasang-formula-hyeongbangdojeok",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "같은 소양인 처방 사이에서 배합축이 맞는 것은?",
+      "context": "체질이 소양인으로 주어진 문헌 학습이다. 비수한표한병의 흉격 불편과 결흉 관련 문맥을 읽는다. 해당 처방의 생지황·목통·현삼·과루인에 형개·방풍·강활·독활·전호를 연결하며, 수습 배합을 강조한 형방사백산 등과 구성 차이를 비교한다.",
+      "discriminator": "표병·흉격 문맥과 목통·현삼·과루인의 실제 구성 조건이 중요하다.",
+      "options": [
+        {
+          "text": "독활지황탕",
+          "detail": "소양인 처방이며 지황탕계 배합을 읽으나 목통·현삼·과루인이라는 제시된 골격과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-07"
+        },
+        {
+          "text": "양격산화탕",
+          "detail": "소양인 리열의 청열 배합과 연결하며 표병 흉격·도적 배합의 문맥과 구별한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-07"
+        },
+        {
+          "text": "형방도적산",
+          "detail": "제시된 약미와 소양인 표병의 흉격·결흉 연결을 함께 충족한다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-07"
+        },
+        {
+          "text": "형방사백산",
+          "detail": "소양인 표병의 처방군이지만 복령·택사 등의 구성 차이를 따로 읽어야 한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-07"
+        },
+        {
+          "text": "형방지황탕",
+          "detail": "형방 계열 이름과 표병 문맥을 공유하지만 지황탕계의 실제 구성과 분기가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-07"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "형방도적산 · 소양인 — 형방도적산은 흉격 불편이라는 증상 하나보다 소양인 병론과 실제 약미 구성의 연결로 감별한다.",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-07",
+      "relatedSource": "/learning/sasang/#sasang-formula-hyeongbangdojeok"
+    },
+    {
+      "id": "clinical-sasang-08",
+      "cardId": "sasang-detail-yeolgeok",
+      "difficulty": "expert",
+      "format": "pairing",
+      "prompt": "태양인 원문을 현대 질환과 구분해 연결한 것은?",
+      "context": "태양인 병론의 학습 자료 두 개를 비교한다. A는 상체에 비해 하체가 풀린 듯하여 다리 힘으로 걸어 나아가기 어렵다는 서술이다. B는 음식이 들어가거나 안에서 받아들이는 단계의 막힘을 나눈 서술이다. 원문을 특정 현대 질환의 확정 진단으로 읽지 않는다.",
+      "discriminator": "A는 하지 지탱의 해역, B는 섭취 단계의 열격을 서술한다.",
+      "options": [
+        {
+          "text": "A 내촉소장병 / B 내촉소장병",
+          "detail": "B의 영역은 맞지만 A의 하지 지탱·보행 서술을 같은 병론으로 합쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-yeolgeok",
+          "source": "/learning/sasang/#clinical-sasang-08"
+        },
+        {
+          "text": "A 해역·외감요척병 / B 열격·내촉소장병",
+          "detail": "원문이 관찰하는 하지 기능과 음식 수용의 영역을 각각 올바르게 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-detail-yeolgeok",
+          "source": "/learning/sasang/#clinical-sasang-08"
+        },
+        {
+          "text": "A 열격·내촉소장병 / B 해역·외감요척병",
+          "detail": "두 원문의 관찰 영역과 병론 연결을 서로 바꾼 조합이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-yeolgeok",
+          "source": "/learning/sasang/#clinical-sasang-08"
+        },
+        {
+          "text": "A 해역·내촉소장병 / B 열격·외감요척병",
+          "detail": "원문 표지는 맞지만 외감요척·내촉소장의 병론 연결이 바뀌었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-yeolgeok",
+          "source": "/learning/sasang/#clinical-sasang-08"
+        },
+        {
+          "text": "A 외감요척병 / B 외감요척병",
+          "detail": "A의 영역은 맞지만 B의 섭취·연하 문맥을 같은 병론으로 합쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-detail-yeolgeok",
+          "source": "/learning/sasang/#clinical-sasang-08"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "태양인 · 열과 격의 구분 — 태양인 열과 격의 구분을 해역과 나란히 읽되, 원문 표지와 현대의 연하·신경질환 감별을 동일시하지 않는다.",
+      "kind": "clinical",
+      "category": "태양인 원문·감별",
+      "source": "/learning/sasang/#clinical-sasang-08",
+      "relatedSource": "/learning/sasang/#sasang-detail-yeolgeok"
     }
   ]
 }

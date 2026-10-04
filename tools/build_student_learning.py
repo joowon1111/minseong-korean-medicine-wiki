@@ -643,8 +643,13 @@ def validate(decks):
             if not record['source'].startswith('/'):
                 raise ValueError('Non-local source')
         for q in deck['questions']:
-            assert q['cardId'] in cards and 0 <= q['answer'] < 4 and len(q['options']) == 4
-            assert len({normalized(o['text']) for o in q['options']}) == 4, q['id']
+            size = 5 if q['kind'] == 'clinical' else 4
+            assert q['cardId'] in cards and 0 <= q['answer'] < size and len(q['options']) == size
+            assert len({normalized(o['text']) for o in q['options']}) == size, q['id']
+            if q['kind'] == 'clinical':
+                from clinical_learning import validate_clinical
+                validate_clinical(q)
+                continue
             if q['kind'] == 'advanced':
                 from advanced_learning import validate_advanced
                 validate_advanced(q)
@@ -672,6 +677,9 @@ def build():
     advanced = advanced_questions(ROOT, decks, named_points)
     for subject, questions in advanced.items():
         decks[subject]['questions'].extend(questions)
+    from clinical_learning import clinical_questions
+    for subject, questions in clinical_questions(ROOT, decks).items():
+        decks[subject]['questions'].extend(questions)
     validate(decks)
     return decks
 
@@ -680,7 +688,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261003-13', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261004-01', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -693,8 +701,11 @@ def main():
         # The authored study plan stays editorial; both question/directory blocks regenerate.
         text = path.read_text().split('<!-- STUDY_DIRECTORY_START -->')[0].rstrip()
         from advanced_learning import START, END, static_questions
+        from clinical_learning import START as CASE_START, END as CASE_END, static_questions as case_questions
+        text = re.sub(re.escape(CASE_START) + r'.*?' + re.escape(CASE_END), '', text, flags=re.S).rstrip()
         text = re.sub(re.escape(START) + r'.*?' + re.escape(END), '', text, flags=re.S).rstrip()
         text += '\n\n' + static_questions([q for q in deck['questions'] if q['kind'] == 'advanced'])
+        text += '\n\n' + case_questions([q for q in deck['questions'] if q['kind'] == 'clinical'])
         lines = ['\n\n<!-- STUDY_DIRECTORY_START -->', '## 전체 학습 요약과 원문 {#study-directory}',
                  f"{len(deck['cards'])}개 카드의 핵심 내용을 단원별로 확인하세요. 아래 요약은 JavaScript 없이도 읽을 수 있습니다.", '']
         groups = defaultdict(list)

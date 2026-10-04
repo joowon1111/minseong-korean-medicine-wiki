@@ -23700,6 +23700,430 @@
       "category": "팔회혈",
       "source": "/learning/acupuncture/#advanced-acupuncture-expert-17",
       "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-01",
+      "cardId": "extra-pair-SP4",
+      "difficulty": "high",
+      "format": "pairing",
+      "prompt": "이 배혈 목적을 충족하는 대표 조합은?",
+      "context": "명치 답답함과 오심을 서술한 교육용 증례에서, 출제자는 특정 증상의 단독 치료혈이 아니라 충맥과 음유맥을 연결하는 팔맥교회혈의 대표 짝을 묻는다.",
+      "discriminator": "충맥·음유맥이라는 명시된 두 기경이 정답 조건이다.",
+      "options": [
+        {
+          "text": "족임읍·외관",
+          "detail": "대맥·양유맥의 대표 짝으로 충맥·음유맥과 구별된다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-01"
+        },
+        {
+          "text": "태백·내관",
+          "detail": "비경·심포경 조합이지만 충맥 교회혈은 태백이 아닌 공손이다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-01"
+        },
+        {
+          "text": "공손·내관",
+          "detail": "공손은 충맥, 내관은 음유맥에 연결되어 제시된 기경 짝을 충족한다.",
+          "owner": "정답 근거",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-01"
+        },
+        {
+          "text": "열결·조해",
+          "detail": "정해진 팔맥 짝이지만 임맥·음교맥을 연결하므로 충맥·음유맥과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-01"
+        },
+        {
+          "text": "후계·신맥",
+          "detail": "독맥·양교맥의 대표 짝으로 제시된 기경 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-SP4",
+          "source": "/learning/acupuncture/#clinical-acupuncture-01"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "공손 + 내관 — 증상과 단일 혈의 효능을 막연히 연결하지 않고 명시된 배혈 체계를 평가한다.",
+      "kind": "clinical",
+      "category": "팔맥교회혈 짝 복습",
+      "source": "/learning/acupuncture/#clinical-acupuncture-01",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-02",
+      "cardId": "pair-원락배혈",
+      "difficulty": "high",
+      "format": "pairing",
+      "prompt": "폐경을 주로 하면서 표리경의 낙혈을 연결한 조합은?",
+      "context": "호흡기 증례를 읽고 폐경의 원혈을 주혈로, 표리관계인 대장경의 낙혈을 배혈하려 한다. 배혈 순서는 주경의 원혈 → 표리경의 낙혈로 정했다.",
+      "discriminator": "폐경 원혈은 태연이며 대장경 낙혈은 편력이다.",
+      "options": [
+        {
+          "text": "태연·공최",
+          "detail": "폐경 원혈과 극혈의 조합으로 대장경 낙혈 연결과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-02"
+        },
+        {
+          "text": "태연·편력",
+          "detail": "폐경 원혈과 대장경 낙혈을 순서대로 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-02"
+        },
+        {
+          "text": "합곡·열결",
+          "detail": "원락 조합이지만 대장경을 주경으로 하고 폐경 낙혈을 연결하므로 제시된 순서와 반대이다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-02"
+        },
+        {
+          "text": "태연·열결",
+          "detail": "같은 폐경의 원혈과 낙혈이므로 표리경 낙혈이라는 조건을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-02"
+        },
+        {
+          "text": "합곡·편력",
+          "detail": "같은 대장경의 원혈과 낙혈이며 폐경 원혈이 주혈이라는 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-02"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "원락배혈 — 원락배혈은 두 혈의 이름뿐 아니라 주경·표리경·원혈·낙혈의 역할을 구분한다.",
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-02",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-03",
+      "cardId": "back-front-비",
+      "difficulty": "expert",
+      "format": "pairing",
+      "prompt": "비의 수모배혈에 기회혈을 더한 조합은?",
+      "context": "식후 더부룩함을 설명한 증례에서 배혈의 논리를 검토한다. 비의 배수혈과 모혈을 짝지은 뒤 팔회혈 중 기회혈을 더한다는 세 조건을 모두 만족시켜야 한다.",
+      "discriminator": "비수·장문은 비의 수모혈이고 전중은 기회혈이다.",
+      "options": [
+        {
+          "text": "비수·장문·전중",
+          "detail": "비의 배수혈·모혈과 기회혈을 각각 충족한다.",
+          "owner": "정답 근거",
+          "ownerId": "back-front-비",
+          "source": "/learning/acupuncture/#clinical-acupuncture-03"
+        },
+        {
+          "text": "위수·중완·전중",
+          "detail": "기회혈은 맞지만 수모혈이 위의 조합이어서 비라는 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-비",
+          "source": "/learning/acupuncture/#clinical-acupuncture-03"
+        },
+        {
+          "text": "비수·중완·전중",
+          "detail": "배수혈과 기회혈은 맞지만 중완은 위의 모혈이므로 수모 장부가 일치하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-비",
+          "source": "/learning/acupuncture/#clinical-acupuncture-03"
+        },
+        {
+          "text": "비수·장문·격수",
+          "detail": "비의 수모혈은 맞지만 격수는 혈회혈이므로 기회혈 추가 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-비",
+          "source": "/learning/acupuncture/#clinical-acupuncture-03"
+        },
+        {
+          "text": "비수·장문·태연",
+          "detail": "비의 수모혈은 맞지만 태연은 맥회혈이어서 제시한 회혈 범주와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-비",
+          "source": "/learning/acupuncture/#clinical-acupuncture-03"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "비 수모혈 — 장문은 간경 소속이면서 비의 모혈·장회혈이다. 소속 경맥과 특정혈의 장부 연결은 구분한다.",
+      "kind": "clinical",
+      "category": "배수혈·모혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-03",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-04",
+      "cardId": "extra-pair-LU7",
+      "difficulty": "high",
+      "format": "pairing",
+      "prompt": "임맥·음교맥 연결에 해당하는 대표 짝은?",
+      "context": "목 부위 불편과 수면 문제를 서술한 증례를 읽은 뒤, 열결을 선택했다. 추가 혈은 특정 증상의 유일한 치료혈을 묻는 것이 아니라 팔맥교회혈의 정해진 짝으로 고른다.",
+      "discriminator": "열결의 대표 짝은 음교맥 교회혈인 조해이다.",
+      "options": [
+        {
+          "text": "열결·태계",
+          "detail": "신경 혈을 더하는 조합이나 태계는 열결의 팔맥교회혈 짝이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-LU7",
+          "source": "/learning/acupuncture/#clinical-acupuncture-04"
+        },
+        {
+          "text": "열결·부류",
+          "detail": "신경 경혈을 더하지만 음교맥 교회혈인 조해와 속성이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-LU7",
+          "source": "/learning/acupuncture/#clinical-acupuncture-04"
+        },
+        {
+          "text": "열결·신맥",
+          "detail": "신맥은 양교맥 교회혈이므로 음교맥이라는 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-LU7",
+          "source": "/learning/acupuncture/#clinical-acupuncture-04"
+        },
+        {
+          "text": "열결·공손",
+          "detail": "공손은 충맥 교회혈이며 열결의 정해진 대표 짝이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-LU7",
+          "source": "/learning/acupuncture/#clinical-acupuncture-04"
+        },
+        {
+          "text": "열결·조해",
+          "detail": "임맥과 음교맥에 연결되는 대표 팔맥 짝이다.",
+          "owner": "정답 근거",
+          "ownerId": "extra-pair-LU7",
+          "source": "/learning/acupuncture/#clinical-acupuncture-04"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "열결 + 조해 — 임맥·음교맥의 조합을 분류 체계 안에서 확인한다. 증상 하나만으로 배혈을 고정하는 문제는 아니다.",
+      "kind": "clinical",
+      "category": "팔맥교회혈 짝 복습",
+      "source": "/learning/acupuncture/#clinical-acupuncture-04",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-05",
+      "cardId": "yuan-PC",
+      "difficulty": "expert",
+      "format": "pairing",
+      "prompt": "표리 원락배혈과 급성 병증의 극혈 추가를 충족하는 조합은?",
+      "context": "학습자는 심포경을 주경으로 원락배혈을 구성한다. 심포경 원혈, 표리인 삼초경 낙혈, 심포경 극혈을 이 순서로 더하려 한다. 세 혈의 기능 분류를 동시에 검토한다.",
+      "discriminator": "대릉은 원혈, 외관은 표리경 낙혈, 극문은 심포경 극혈이다.",
+      "options": [
+        {
+          "text": "양지·내관·회종",
+          "detail": "삼초경을 주경으로 한 반대 방향의 원락·극혈 조합이다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-PC",
+          "source": "/learning/acupuncture/#clinical-acupuncture-05"
+        },
+        {
+          "text": "대릉·외관·회종",
+          "detail": "앞의 두 조건은 맞지만 회종은 삼초경 극혈이어서 주경 극혈이라는 조건이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-PC",
+          "source": "/learning/acupuncture/#clinical-acupuncture-05"
+        },
+        {
+          "text": "대릉·지구·극문",
+          "detail": "원혈과 극혈은 맞지만 지구는 삼초경 경혈로 낙혈인 외관과 분류가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-PC",
+          "source": "/learning/acupuncture/#clinical-acupuncture-05"
+        },
+        {
+          "text": "대릉·외관·극문",
+          "detail": "심포경 원혈·삼초경 낙혈·심포경 극혈의 세 조건을 모두 충족한다.",
+          "owner": "정답 근거",
+          "ownerId": "yuan-PC",
+          "source": "/learning/acupuncture/#clinical-acupuncture-05"
+        },
+        {
+          "text": "대릉·내관·극문",
+          "detail": "원혈과 극혈은 맞지만 내관은 같은 심포경의 낙혈이므로 표리경 낙혈 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-PC",
+          "source": "/learning/acupuncture/#clinical-acupuncture-05"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "심포 원·낙·극 — 분류를 교차할 때 각 혈의 소속 경맥과 역할을 한 항목씩 확인한다.",
+      "kind": "clinical",
+      "category": "원혈·낙혈·극혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-05",
+      "relatedSource": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "id": "clinical-acupuncture-06",
+      "cardId": "extra-pair-GB41",
+      "difficulty": "high",
+      "format": "pairing",
+      "prompt": "해당 기경 조합에 가장 적절한 혈 짝은?",
+      "context": "옆구리와 몸통 가쪽의 증상을 설명한 교육용 증례에서, 학습 목표는 대맥과 양유맥의 연결이다. 팔맥교회혈의 대표 짝을 선택한다.",
+      "discriminator": "대맥의 족임읍과 양유맥의 외관을 연결해야 한다.",
+      "options": [
+        {
+          "text": "후계·신맥",
+          "detail": "대표 팔맥 짝이지만 독맥·양교맥을 연결한다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-GB41",
+          "source": "/learning/acupuncture/#clinical-acupuncture-06"
+        },
+        {
+          "text": "공손·내관",
+          "detail": "대표 팔맥 짝이지만 충맥·음유맥을 연결한다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-GB41",
+          "source": "/learning/acupuncture/#clinical-acupuncture-06"
+        },
+        {
+          "text": "족임읍·외관",
+          "detail": "대맥·양유맥이라는 두 기경을 연결하는 대표 짝이다.",
+          "owner": "정답 근거",
+          "ownerId": "extra-pair-GB41",
+          "source": "/learning/acupuncture/#clinical-acupuncture-06"
+        },
+        {
+          "text": "양릉천·외관",
+          "detail": "담경·삼초경을 함께 쓰지만 양릉천은 대맥 교회혈인 족임읍과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-GB41",
+          "source": "/learning/acupuncture/#clinical-acupuncture-06"
+        },
+        {
+          "text": "족임읍·내관",
+          "detail": "족임읍은 맞지만 내관은 음유맥에 연결되므로 양유맥이라는 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "extra-pair-GB41",
+          "source": "/learning/acupuncture/#clinical-acupuncture-06"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "족임읍 + 외관 — 같은 표리경 조합인지와 기경팔맥의 대표 짝인지는 다른 분류 축이다.",
+      "kind": "clinical",
+      "category": "팔맥교회혈 짝 복습",
+      "source": "/learning/acupuncture/#clinical-acupuncture-06",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-07",
+      "cardId": "shu-point-GB34",
+      "difficulty": "expert",
+      "format": "pairing",
+      "prompt": "합혈·하합혈·팔회혈을 함께 만족하는 혈은?",
+      "context": "무릎 가쪽 증례의 학습 카드에서 담경의 오수혈 중 합혈, 담의 하합혈, 팔회혈 중 근회혈이라는 세 속성을 표시하려 한다. 한 혈에 모두 겹치는 경우를 고른다.",
+      "discriminator": "양릉천에는 합혈·담 하합혈·근회혈 속성이 겹친다.",
+      "options": [
+        {
+          "text": "위중",
+          "detail": "방광경 합혈·방광 하합혈이며 담의 하합혈과 근회혈이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-GB34",
+          "source": "/learning/acupuncture/#clinical-acupuncture-07"
+        },
+        {
+          "text": "양릉천",
+          "detail": "담경 합혈이면서 담의 하합혈이며 근회혈이다.",
+          "owner": "정답 근거",
+          "ownerId": "shu-point-GB34",
+          "source": "/learning/acupuncture/#clinical-acupuncture-07"
+        },
+        {
+          "text": "족삼리",
+          "detail": "위경 합혈·위 하합혈이지만 근회혈과 담이라는 조건은 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-GB34",
+          "source": "/learning/acupuncture/#clinical-acupuncture-07"
+        },
+        {
+          "text": "현종",
+          "detail": "수회혈이지만 담경 합혈·담 하합혈·근회혈의 조합이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-GB34",
+          "source": "/learning/acupuncture/#clinical-acupuncture-07"
+        },
+        {
+          "text": "곡천",
+          "detail": "간경 합혈이므로 담경 및 근회혈이라는 두 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-GB34",
+          "source": "/learning/acupuncture/#clinical-acupuncture-07"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "양릉천 오수혈 분류 — 오수혈·하합혈·팔회혈을 같은 명칭으로 합치지 않고 각각의 분류에서 확인한다.",
+      "kind": "clinical",
+      "category": "오수혈 개별 60혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-07",
+      "relatedSource": "/acupuncture-specific/five-shu/"
+    },
+    {
+      "id": "clinical-acupuncture-08",
+      "cardId": "pair-원근배혈",
+      "difficulty": "expert",
+      "format": "pairing",
+      "prompt": "표리관계가 없는 근위·원위 조합의 가장 직접적인 분류는?",
+      "context": "요부 증례에서 요부의 신수와 무릎 뒤의 위중을 함께 선택했다. 두 혈이 같은 방광경에 속한다는 점을 유지하면서, 이번 질문은 증상 부위에 가까운 혈과 떨어진 혈을 조합한 공간적 원리를 묻는다.",
+      "discriminator": "질문은 특정혈 속성보다 증상 부위와의 거리 관계를 평가한다.",
+      "options": [
+        {
+          "text": "원근배혈",
+          "detail": "요부 근위혈과 떨어진 무릎 부위 원위혈을 연결하는 공간적 원리이다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-08"
+        },
+        {
+          "text": "수모배혈",
+          "detail": "신수는 배수혈이지만 위중은 신의 모혈이 아니므로 해당 수모 짝은 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-08"
+        },
+        {
+          "text": "원락배혈",
+          "detail": "신수·위중은 주경 원혈과 표리경 낙혈이라는 구성 조건을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-08"
+        },
+        {
+          "text": "표리경 배혈",
+          "detail": "두 혈이 같은 방광경에 속하므로 서로 표리인 두 경맥을 연결한 조합이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-08"
+        },
+        {
+          "text": "팔맥교회 배혈",
+          "detail": "이 두 혈은 기경팔맥의 정해진 대표 교회혈 짝과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-08"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "원근배혈 — 한 조합은 여러 관점에서 설명될 수 있으므로 문제에서 묻는 축을 공간적 원리로 한정한다.",
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-08",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
     }
   ]
 }
