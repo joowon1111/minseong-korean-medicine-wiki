@@ -276,7 +276,7 @@ test('five-option cases retain level filters, structured observations and wrong-
   for (const [subject, title] of Object.entries({anatomy:'기초 해부학',acupoints:'경혈학',acupuncture:'침구학',herbs:'본초학',formulas:'방제학',shanghanlun:'상한론',sasang:'사상의학'})) {
     const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
     const cases = d.questions.filter(q => q.kind === 'clinical');
-    const perLevel = ['anatomy', 'shanghanlun', 'sasang'].includes(subject) ? 42 : 18;
+    const perLevel = { anatomy: 42, shanghanlun: 54, sasang: 54 }[subject] || 18;
     assert.equal(cases.length, perLevel * 2);
     assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'clinical', 'expert').length, perLevel);
     const h = harness(); h.button(title).events.click();

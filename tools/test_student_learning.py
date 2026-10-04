@@ -65,7 +65,7 @@ class StudentLearning(unittest.TestCase):
         for subject, count, cases in (('shanghanlun', 70, 36), ('sasang', 48, 24)):
             deck = self.decks[subject]
             self.assertEqual(len(deck['cards']), count)
-            self.assertEqual(len(deck['questions']), count * 3 + cases + 34 + 84)
+            self.assertEqual(len(deck['questions']), count * 3 + cases + 34 + 108)
             for c in deck['cards']:
                 facts = {f['label']: f['value'] for f in c['facts']}
                 self.assertTrue({'우리말 풀이', '판본·범위', '판독 핵심', '치법·처방', '감별·해석'} <= facts.keys())
@@ -84,7 +84,7 @@ class StudentLearning(unittest.TestCase):
             body = re.search(r'^## .*?\{#' + fragment + r'\}\n(.*?)(?=^## |\Z)', text, re.M | re.S)[1]
             self.assertEqual(row['original'], ' '.join(re.findall(r'^> (.*)', body, re.M)))
         sasang = self.decks['sasang']
-        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 34, 'clinical': 84})
+        self.assertEqual(Counter(q['kind'] for q in sasang['questions']), {'original': 48, 'interpretation': 48, 'treatment': 28, 'formula': 20, 'case': 24, 'advanced': 34, 'clinical': 108})
         for key in ('soeum', 'soyang', 'taeeum', 'taeyang'):
             self.assertTrue(any(c['id'] == 'sasang-health-' + key for c in sasang['cards']))
         headings = [c for c in sasang['cards'] if c['id'].startswith('sasang-pattern-')]
@@ -375,12 +375,12 @@ class StudentLearning(unittest.TestCase):
         from collections import Counter
         payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
         self.assertEqual(payload['questionsPerLevel'], 18)
-        self.assertEqual(len(payload['questions']), 396)
-        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 396)
-        self.assertEqual(len({q['context'] for q in payload['questions']}), 396)
+        self.assertEqual(len(payload['questions']), 444)
+        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 444)
+        self.assertEqual(len({q['context'] for q in payload['questions']}), 444)
         for subject, deck in self.decks.items():
             cases = [q for q in deck['questions'] if q['kind'] == 'clinical']
-            per_level = 42 if subject in ('anatomy', 'shanghanlun', 'sasang') else 18
+            per_level = {'anatomy': 42, 'shanghanlun': 54, 'sasang': 54}.get(subject, 18)
             self.assertEqual(Counter(q['difficulty'] for q in cases), {'high': per_level, 'expert': per_level})
             self.assertEqual({q['id'] for q in cases}, {f'clinical-{subject}-{n:02}' for n in range(1, per_level * 2 + 1)})
             self.assertEqual({q['answer'] for q in cases}, set(range(5)))
@@ -408,8 +408,9 @@ class StudentLearning(unittest.TestCase):
         self.assertEqual(manifest['version'], version)
         self.assertIn('assets/learning/learning.js?v=' + version, config)
         hub = (study.DOCS / 'learning/index.md').read_text()
-        self.assertIn('자체 작성한 **396문제(중 198·상 198)**', hub)
-        self.assertIn('기초 해부학·상한론·사상의학은 각각 **84문제**', hub)
+        self.assertIn('자체 작성한 **444문제(중 222·상 222)**', hub)
+        self.assertIn('기초 해부학은 **84문제**', hub)
+        self.assertIn('상한론·사상의학은 각각 **108문제**', hub)
 
     def test_hard_classical_cases_keep_clause_numbers_and_source_claims_precise(self):
         sh = {q['id']: q for q in self.decks['shanghanlun']['questions'] if q['kind'] == 'advanced'}

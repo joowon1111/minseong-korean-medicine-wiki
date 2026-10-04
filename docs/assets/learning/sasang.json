@@ -15601,6 +15601,1622 @@
       "category": "소음인 세부 병증",
       "source": "/learning/sasang/#clinical-sasang-84",
       "relatedSource": "/learning/sasang/#sasang-detail-mangyang"
+    },
+    {
+      "id": "clinical-sasang-85",
+      "cardId": "sasang-formula-taeeumjowi",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "태음인 표한·식후 팽만의 태음조위탕에서 세 중심 약재량은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018551의 표기 기준이다. 체질·표한 병증이 제시된 사례에 오한·발한불리, 식후 팽만과 몸의 무거움이 있다. 건율·의이인·나복자의 구성량을 읽어 비위·담습 축을 설명한다.",
+      "options": [
+        {
+          "text": "건율 11.25 g · 의이인 7.5 g · 나복자 7.5 g",
+          "detail": "건율·나복자는 맞지만 의이인의 동량 관계를 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-85"
+        },
+        {
+          "text": "건율 11.25 g · 의이인 11.25 g · 나복자 3.75 g",
+          "detail": "두 중심량은 맞지만 나복자를 다른 여섯 약재와 동량으로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-85"
+        },
+        {
+          "text": "건율 11.25 g · 의이인 11.25 g · 나복자 7.5 g",
+          "detail": "건율·의이인이 동량으로 가장 크고 나복자가 그다음이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-85"
+        },
+        {
+          "text": "건율 11.25 g · 의이인 11.25 g · 나복자 5.625 g",
+          "detail": "두 중심량은 맞지만 나복자는 조위승청탕의 표기와 섞였다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-85"
+        },
+        {
+          "text": "건율 7.5 g · 의이인 11.25 g · 나복자 7.5 g",
+          "detail": "의이인·나복자는 맞지만 건율이 의이인과 같은 11.25 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-85"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "태음조위탕의 건율·의이인·나복자는 3:3:2의 상대량이다. 이름 속 조위만 외우기보다 표한·담습 증상 묶음과 중심 약재의 비율을 연결한다.",
+      "discriminator": "동량인 건율·의이인 11.25 g 다음에 나복자 7.5 g이 놓인다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/taeeumjowi-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018551 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018551&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-85",
+      "relatedSource": "/learning/sasang/#sasang-formula-taeeumjowi"
+    },
+    {
+      "id": "clinical-sasang-86",
+      "cardId": "sasang-formula-jowiseungcheong-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "식후비만·하지무력의 조위승청탕에서 추가되는 세 약재량은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018562의 표기 기준이다. 태음인 표한·승청 저하라는 병증이 제시되어 있다. 식후 그득함과 다리의 힘 저하·회복 지연·수면 변화가 함께 있다. 태음조위탕과 공유하는 골격 외의 세 약재를 고른다.",
+      "options": [
+        {
+          "text": "산조인·용안육·원지 각 3.75 g",
+          "detail": "조위승청탕에 추가되는 세 약재와 동량 표기다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-86"
+        },
+        {
+          "text": "산조인·용안육·원지 각 7.5 g",
+          "detail": "세 약재는 맞지만 청심연자탕의 이 표기량을 가져왔다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-86"
+        },
+        {
+          "text": "산조인·용안육·백자인 각 3.75 g",
+          "detail": "두 약재·량은 맞지만 원지 대신 청심연자탕의 백자인이 섞였다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-86"
+        },
+        {
+          "text": "산조인·원지·나복자 각 3.75 g",
+          "detail": "산조인·원지는 맞지만 나복자는 공통 약재이며 5.625 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-86"
+        },
+        {
+          "text": "용안육·원지·석창포 각 3.75 g",
+          "detail": "용안육·원지는 추가 약재지만 석창포는 태음조위탕에도 들어 있다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-86"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "세 추가 약재는 각 3.75 g이다. 수면·회복 증상을 단독 적응증으로 보지 않고 식후비만·하지무력·표한이라는 제시된 병증 안에서 배합을 읽는다.",
+      "discriminator": "석창포는 공통 약재이며 새로 더해지는 것은 산조인·용안육·원지다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/jowiseungcheong-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018562 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018562&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018551 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018551&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018565 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018565&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-86",
+      "relatedSource": "/learning/sasang/#sasang-formula-jowiseungcheong-tang"
+    },
+    {
+      "id": "clinical-sasang-87",
+      "cardId": "sasang-formula-yeoldahanso",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "열·갈증·건조의 열다한소탕에서 갈근·고본·황금의 비율은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018568의 표기 기준이다. 태음인 간수열리열병이 제시된 사례에 열감·갈증·다한과 피부·대변 건조가 함께 있다. 세 중심 약재의 표기량과 상대량을 고른다.",
+      "options": [
+        {
+          "text": "갈근 15 g · 고본 3.75 g · 황금 7.5 g / 4:1:2",
+          "detail": "갈근·황금은 맞지만 고본은 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-87"
+        },
+        {
+          "text": "갈근 7.5 g · 고본 7.5 g · 황금 7.5 g / 1:1:1",
+          "detail": "두 보조축은 맞지만 갈근의 우위가 사라졌다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-87"
+        },
+        {
+          "text": "갈근 15 g · 고본 7.5 g · 황금 11.25 g / 4:2:3",
+          "detail": "갈근·고본은 맞고 황금만 잘못 기록했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-87"
+        },
+        {
+          "text": "갈근 15 g · 고본 7.5 g · 황금 7.5 g / 2:1:1",
+          "detail": "갈근은 고본·황금 각각의 2배이며 두 보조축은 동량이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-87"
+        },
+        {
+          "text": "갈근 15 g · 고본 7.5 g · 황금 3.75 g / 4:2:1",
+          "detail": "갈근·고본은 맞지만 황금은 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-87"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "열다한소탕은 갈근 15 g, 고본·황금 각 7.5 g의 2:1:1이다. 갈근의 해기 축과 황금의 청열 축을 함께 보는 학습용 구조이며 숫자만으로 효과 크기를 비교하지 않는다.",
+      "discriminator": "갈근은 두 약재 각각의 2배, 고본과 황금은 동량이다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/yeoldahanso-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018568 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018568&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-87",
+      "relatedSource": "/learning/sasang/#sasang-formula-yeoldahanso"
+    },
+    {
+      "id": "clinical-sasang-88",
+      "cardId": "sasang-formula-cheongpyesagan-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "번갈·변비·복만의 청폐사간탕에서 열다한소탕과의 차이 약재는?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018569의 표기 기준이다. 태음인 리열 병증이 제시되어 있고 번갈과 대변 정체·복만이 함께 나타난다. 열다한소탕의 갈근·고본·황금 골격을 공유한다. 차이 약재와 수록량을 고른다.",
+      "options": [
+        {
+          "text": "대황 3.75 g 추가 / 황금 제거·갈근 15 g 유지",
+          "detail": "대황·갈근량은 맞지만 황금 7.5 g도 유지된다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-88"
+        },
+        {
+          "text": "대황 3.75 g 추가 / 갈근 15 g 유지",
+          "detail": "두 구성표의 차이는 대황 3.75 g이고 갈근량은 유지된다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-88"
+        },
+        {
+          "text": "대황 7.5 g 추가 / 갈근 15 g 유지",
+          "detail": "차이 약재·갈근량은 맞지만 대황은 3.75 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-88"
+        },
+        {
+          "text": "대황 3.75 g 추가 / 갈근 7.5 g으로 변경",
+          "detail": "대황량은 맞지만 갈근은 15 g을 유지한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-88"
+        },
+        {
+          "text": "망초 3.75 g 추가 / 갈근 15 g 유지",
+          "detail": "갈근은 맞지만 승기탕류의 망초를 이 표에 넣었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-88"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "청폐사간탕은 지정 표에서 열다한소탕의 일곱 약재·용량에 대황 3.75 g을 더한 구성이다. 대변 정체가 차이 약재 해석에 중요하지만 변비 하나로 처방을 정하는 문항은 아니다.",
+      "discriminator": "대황 3.75 g의 추가와 기존 골격량의 유지가 모두 맞아야 한다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/cheongpyesagan-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018569 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018569&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018568 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018568&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-88",
+      "relatedSource": "/learning/sasang/#sasang-formula-cheongpyesagan-tang"
+    },
+    {
+      "id": "clinical-sasang-89",
+      "cardId": "sasang-formula-cheongsimyeonja-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "청심연자탕의 지정 포탈 표에서 감국과 나머지 약재량은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018565의 표기 기준이다. 태음인 조열·심번·수면 불편과 피로의 배합을 공부한다. 연육·산약·맥문동·천문동 등 11종과 감국이 수록된 표를 읽는다. 다른 판본의 차등량을 섞지 않고 이 표를 기록한다.",
+      "options": [
+        {
+          "text": "연육·산약 각 7.5 g·나머지 9종 각 3.75 g / 감국 1.125 g",
+          "detail": "감국·두 약재는 맞지만 다른 용량 구조를 지정 포탈 표에 섞었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-89"
+        },
+        {
+          "text": "연육·산약 포함 11종 각 7.5 g / 감국 3.75 g",
+          "detail": "11종의 동량은 맞고 감국만 일반적인 3.75 g으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-89"
+        },
+        {
+          "text": "연육·산약 포함 11종 각 3.75 g / 감국 1.125 g",
+          "detail": "감국은 맞지만 11종의 양을 모두 절반으로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-89"
+        },
+        {
+          "text": "연육·산약 포함 11종 각 7.5 g / 감국 7.5 g",
+          "detail": "11종은 맞지만 감국까지 동량이라고 판단했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-89"
+        },
+        {
+          "text": "연육·산약 포함 11종 각 7.5 g / 감국 1.125 g",
+          "detail": "P0018565의 11종 동량과 감국 별도량을 정확히 보존했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-89"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "이 문제는 P0018565의 구성표를 기준으로 한다. 같은 방명이라도 원전·후대 수록본에 따라 양이 달라질 수 있으므로 연육·산약만 고용량이라는 기억을 이 표에 대입하지 않는다.",
+      "discriminator": "특정 포탈 항목의 11종 각 7.5 g·감국 1.125 g이라는 기준을 지킨다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/cheongsimyeonja-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018565 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018565&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-89",
+      "relatedSource": "/learning/sasang/#sasang-formula-cheongsimyeonja-tang"
+    },
+    {
+      "id": "clinical-sasang-90",
+      "cardId": "sasang-formula-hyeongbangjihwang-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "표병의 복통·설사·소모를 읽는 형방지황탕에서 동량 중심군은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018333의 표기 기준이다. 소양인 비수한표한병·망음이라는 병증이 제시된 사례에 복통·설사·기력 저하가 함께 있다. 네 약재의 7.5 g 동량군을 골라 지황·수분대사 축을 설명한다.",
+      "options": [
+        {
+          "text": "숙지황·산수유·복령·차전자 각 7.5 g",
+          "detail": "세 약재·량은 맞지만 차전자는 3.75 g이고 택사가 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-90"
+        },
+        {
+          "text": "숙지황·산수유·독활·택사 각 7.5 g",
+          "detail": "세 약재·량은 맞지만 독활은 3.75 g이며 복령이 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-90"
+        },
+        {
+          "text": "숙지황·산수유·복령·택사 각 7.5 g",
+          "detail": "네 중심 약재가 동량이며 표병 약재군은 각 3.75 g이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-90"
+        },
+        {
+          "text": "숙지황 15 g·산수유 7.5 g·복령·택사 각 5.625 g",
+          "detail": "네 약재는 공통이지만 용량은 독활지황탕의 구조다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-90"
+        },
+        {
+          "text": "생지황·산수유·복령·택사 각 7.5 g",
+          "detail": "세 약재·량은 맞지만 숙지황을 생지황으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-90"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "숙지황이 있다고 곧바로 리열의 음허오열로 분류하지 않는다. 네 약재 동량군과 강활·독활·형개·방풍의 표병축을 제시된 설사·소모 맥락에서 함께 읽는다.",
+      "discriminator": "숙지황·산수유·복령·택사 동량과 표병 약재의 존재를 함께 확인한다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/hyeongbangjihwang-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018333 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018333&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018332 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018332&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-90",
+      "relatedSource": "/learning/sasang/#sasang-formula-hyeongbangjihwang-tang"
+    },
+    {
+      "id": "clinical-sasang-91",
+      "cardId": "sasang-formula-dokhwaljihwang-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "음허오열·하지무력의 독활지황탕에서 중심 네 약재량은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018332의 표기 기준이다. 소양인 위수열리열병·음허오열이라는 병증이 제시된다. 갈증·열감에 허리·하지 무력과 배뇨 변화가 동반된다. 숙지황 중심의 무게 관계를 고른다.",
+      "options": [
+        {
+          "text": "숙지황 15 g · 산수유 7.5 g · 복령·택사 각 5.625 g",
+          "detail": "숙지황이 가장 크고 복령·택사가 동량인 이 표의 구조다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-91"
+        },
+        {
+          "text": "숙지황 15 g · 산수유 7.5 g · 복령·택사 각 7.5 g",
+          "detail": "숙지황·산수유는 맞지만 복령·택사는 형방지황탕의 양이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-91"
+        },
+        {
+          "text": "숙지황 7.5 g · 산수유 7.5 g · 복령·택사 각 5.625 g",
+          "detail": "산수유·복령·택사는 맞지만 숙지황의 우위가 빠졌다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-91"
+        },
+        {
+          "text": "숙지황 15 g · 산수유 5.625 g · 복령·택사 각 5.625 g",
+          "detail": "숙지황·수분대사 쌍은 맞지만 산수유는 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-91"
+        },
+        {
+          "text": "숙지황 15 g · 산수유 7.5 g · 복령 5.625 g·택사 3.75 g",
+          "detail": "앞의 세 약재는 맞지만 택사는 복령과 같은 5.625 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-91"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "독활지황탕은 숙지황:산수유:복령:택사의 상대량이 8:4:3:3이다. 형방지황탕의 네 동량군과 달라지는 지점을 리열·소모·하지·배뇨 맥락에 연결한다.",
+      "discriminator": "숙지황 15 g의 우위와 복령·택사 5.625 g의 동량 관계다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/dokhwaljihwang-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018332 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018332&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018333 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018333&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-91",
+      "relatedSource": "/learning/sasang/#sasang-formula-dokhwaljihwang-tang"
+    },
+    {
+      "id": "clinical-sasang-92",
+      "cardId": "sasang-formula-yanggyeoksanhwa-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "흉격열·번조·구갈의 양격산화탕에서 고용량 세 약재는?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018344의 표기 기준이다. 소양인 위수열리열병·흉격열이 제시된 사례에 상열·번조·구갈·수면 불편이 함께 있다. 각 7.5 g인 세 약재와 석고·지모의 수록량을 고른다.",
+      "options": [
+        {
+          "text": "생지황·인동등·산치자 각 7.5 g / 석고·지모 각 3.75 g",
+          "detail": "두 중심 약재·청열 쌍은 맞지만 산치자는 3.75 g이고 연교가 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-92"
+        },
+        {
+          "text": "숙지황·인동등·연교 각 7.5 g / 석고·지모 각 3.75 g",
+          "detail": "다른 양은 맞지만 생지황을 숙지황으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-92"
+        },
+        {
+          "text": "생지황·인동등·연교 각 3.75 g / 석고·지모 각 3.75 g",
+          "detail": "석고·지모는 맞지만 세 중심 약재의 2배 비중을 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-92"
+        },
+        {
+          "text": "생지황·인동등·연교 각 7.5 g / 석고·지모 각 3.75 g",
+          "detail": "세 고용량 약재와 석고·지모의 동량 관계를 모두 보존했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-92"
+        },
+        {
+          "text": "생지황·인동등·연교 각 7.5 g / 석고·지모 각 7.5 g",
+          "detail": "세 약재는 맞지만 석고·지모를 같은 고용량군으로 묶었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-92"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "양격산화탕은 생지황·인동등·연교 각 7.5 g, 나머지 여섯 약재 각 3.75 g이다. 석고·지모 함유 여부만으로 백호탕과 같은 구성으로 보지 않는다.",
+      "discriminator": "생지황·인동등·연교의 양은 석고·지모 각각의 2배다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/yanggyeoksanhwa-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018344 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018344&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-92",
+      "relatedSource": "/learning/sasang/#sasang-formula-yanggyeoksanhwa-tang"
+    },
+    {
+      "id": "clinical-sasang-93",
+      "cardId": "sasang-formula-hyeongbangdojeok",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "표병·흉격 답답함의 형방도적산에서 생지황·목통·현삼·과루인량은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018326의 표기 기준이다. 소양인 표병·결흉 방향이 제시된 사례에 두통·한열과 흉격 답답함이 함께 있다. 표병 약재 네 종은 각 3.75 g이다. 열·진액·흉격을 연결하는 네 약재를 대조한다.",
+      "options": [
+        {
+          "text": "생지황 11.25 g · 목통 5.625 g · 현삼·과루인 각 5.625 g",
+          "detail": "생지황·두 약재는 맞지만 목통은 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-93"
+        },
+        {
+          "text": "생지황 11.25 g · 목통 7.5 g · 현삼·과루인 각 5.625 g",
+          "detail": "중심 네 약재의 6:4:3:3 상대량과 약재명이 모두 맞다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-93"
+        },
+        {
+          "text": "생지황 11.25 g · 목통 7.5 g · 현삼·과루인 각 3.75 g",
+          "detail": "앞의 두 양은 맞지만 현삼·과루인은 5.625 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-93"
+        },
+        {
+          "text": "생지황 7.5 g · 목통 7.5 g · 현삼·과루인 각 5.625 g",
+          "detail": "목통·두 보조 약재는 맞지만 생지황이 11.25 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-93"
+        },
+        {
+          "text": "생지황 11.25 g · 목통 7.5 g · 현삼·천화분 각 5.625 g",
+          "detail": "양은 같게 썼지만 씨앗 약재인 과루인을 뿌리 약재 천화분으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-93"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "생지황·목통·현삼·과루인의 층과 형개·방풍·강활·독활의 표병층을 함께 읽는다. 과루인은 천화분·과루근과 사용 부위가 달라 약재명까지 확인해야 한다.",
+      "discriminator": "생지황 11.25 g·목통 7.5 g 다음에 현삼·과루인 5.625 g이 놓인다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/hyeongbangdojeok-san/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018326 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018326&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-93",
+      "relatedSource": "/learning/sasang/#sasang-formula-hyeongbangdojeok"
+    },
+    {
+      "id": "clinical-sasang-94",
+      "cardId": "sasang-formula-baekhao-ijung-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "리한·복통·설사의 백하오이중탕에서 다섯 동량군과 소량군은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018169의 표기 기준이다. 소음인 위수한리한병·태음병이 제시된 사례에 복부 냉감·식욕저하·복통·묽은 변이 함께 있다. 지정 표에서 11.25 g인 다섯 약재와 3.75 g인 두 약재를 구별한다.",
+      "options": [
+        {
+          "text": "백하수오·백출·백작약·계지·건강 각 7.5 g / 진피·자감초 각 3.75 g",
+          "detail": "두 소량군은 맞지만 다섯 중심 약재량은 11.25 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-94"
+        },
+        {
+          "text": "백하수오·백출·백작약·계지·건강 각 11.25 g / 진피·자감초 각 7.5 g",
+          "detail": "다섯 중심군은 맞고 두 보조량을 2배로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-94"
+        },
+        {
+          "text": "백하수오·백출·백작약·계지·생강 각 11.25 g / 진피·자감초 각 3.75 g",
+          "detail": "다른 조건은 맞지만 건강을 생강으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-94"
+        },
+        {
+          "text": "인삼·백출·백작약·계지·건강 각 11.25 g / 진피·자감초 각 3.75 g",
+          "detail": "다른 조건은 맞지만 백하수오를 이중환의 인삼으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-94"
+        },
+        {
+          "text": "백하수오·백출·백작약·계지·건강 각 11.25 g / 진피·자감초 각 3.75 g",
+          "detail": "다섯 동량군과 두 소량군을 정확히 나눴다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-94"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "이 표의 백하오이중탕은 백하수오를 포함한 다섯 약재가 동량이다. 같은 이중 이름이라도 상한론 이중환의 인삼·건강·백출·감초 네 약재와 같지 않다.",
+      "discriminator": "백하수오·건강을 포함한 다섯 11.25 g과 진피·자감초 3.75 g을 구분한다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/baekhao-ijung-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018169 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018169&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-94",
+      "relatedSource": "/learning/sasang/#sasang-formula-baekhao-ijung-tang"
+    },
+    {
+      "id": "clinical-sasang-95",
+      "cardId": "sasang-formula-hyangbujapalmul-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "기체·소화저하의 향부자팔물탕에서 상대적으로 큰 세 약재는?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018144의 표기 기준이다. 소음인 비위 허약·기체라는 병증이 제시된다. 긴장 시 흉복 답답함과 식욕저하·두통·입마름·수면 변화가 함께 있다. 이기·영혈·비위의 배합 중 각 7.5 g인 세 약재를 고른다.",
+      "options": [
+        {
+          "text": "향부자·백작약·백출 각 7.5 g",
+          "detail": "두 약재는 맞지만 백출은 3.75 g이며 당귀가 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-95"
+        },
+        {
+          "text": "향부자·당귀·백작약 각 3.75 g",
+          "detail": "세 약재 선택은 맞지만 중심군의 표기량을 절반으로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-95"
+        },
+        {
+          "text": "향부자·당귀·백작약 각 7.5 g",
+          "detail": "이 세 약재가 7.5 g이고 나머지 다섯은 각 3.75 g이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-95"
+        },
+        {
+          "text": "향부자·당귀·백하수오 각 7.5 g",
+          "detail": "두 약재는 맞지만 백하수오는 3.75 g이고 백작약이 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-95"
+        },
+        {
+          "text": "향부자·당귀·천궁 각 7.5 g",
+          "detail": "두 약재는 맞지만 천궁은 3.75 g이며 백작약이 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-95"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "향부자·당귀·백작약이 상대적으로 크고 진피·천궁·백하수오·백출·자감초가 함께 있다. 정서적 긴장만으로 선택하는 것이 아니라 제시된 비위·기체·전신 증상 묶음에서 읽는다.",
+      "discriminator": "향부자·당귀·백작약이 나머지 다섯 약재 각각의 2배다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/hyangbujapalmul-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018144 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018144&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-95",
+      "relatedSource": "/learning/sasang/#sasang-formula-hyangbujapalmul-tang"
+    },
+    {
+      "id": "clinical-sasang-96",
+      "cardId": "sasang-formula-seungyangpalmul-tang",
+      "difficulty": "high",
+      "format": "case",
+      "prompt": "땀 뒤 기력 저하의 승양팔물탕에서 인삼·황기와 관계의 용량은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018143의 표기 기준이다. 소음인 신수열표열병·망양초증이라는 병증이 제시된다. 표병 뒤 발한과 회복 지연·식욕저하가 함께 있다. 보기·승양축과 온양축의 양을 대조한다.",
+      "options": [
+        {
+          "text": "인삼·황기 각 7.5 g / 관계 3.75 g / 부자 없음",
+          "detail": "두 보기 약재가 관계의 2배이며 지정 구성에 부자는 없다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-96"
+        },
+        {
+          "text": "인삼·황기 각 7.5 g / 관계 7.5 g / 부자 없음",
+          "detail": "보기 쌍·부재 약재는 맞지만 관계는 3.75 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-96"
+        },
+        {
+          "text": "인삼·황기 각 3.75 g / 관계 3.75 g / 부자 없음",
+          "detail": "관계·부재 약재는 맞지만 두 보기 약재의 양을 절반으로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-96"
+        },
+        {
+          "text": "인삼·황기 각 7.5 g / 관계 3.75 g / 부자 3.75 g 포함",
+          "detail": "세 양은 맞지만 인삼계지부자탕 계열과 섞어 부자를 넣었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-96"
+        },
+        {
+          "text": "인삼 7.5 g·황기 3.75 g / 관계 3.75 g / 부자 없음",
+          "detail": "인삼·관계·부재 약재는 맞지만 황기는 인삼과 동량이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-96"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "승양팔물탕은 인삼·황기 각 7.5 g, 관계 등 다섯 약재 각 3.75 g에 생강·대조의 개수 기록이 더해진다. 같은 발한 뒤 쇠약 문맥이라도 부자 포함방과 구성·병증 깊이를 구분한다.",
+      "discriminator": "인삼·황기는 동량이고 관계의 2배이며 부자가 포함되지 않는다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/seungyangpalmul-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018143 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018143&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-96",
+      "relatedSource": "/learning/sasang/#sasang-formula-seungyangpalmul-tang"
+    },
+    {
+      "id": "clinical-sasang-97",
+      "cardId": "sasang-formula-taeeumjowi",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "태음조위탕의 폐·진액 약재와 조위승청탕의 공통량을 구별하면?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018551의 표기 기준이다. 표한·식후비만이 공통인 두 태음인 처방을 비교한다. 건율·의이인·나복자만 맞춘 학습자에게 마황·길경과 맥문동·천문동·오미자·석창포의 유무·량을 추가로 묻는다.",
+      "options": [
+        {
+          "text": "두 방 모두 여섯 약재 각 7.5 g / 조위승청탕에서 나복자량은 별도로 달라짐",
+          "detail": "나복자 변화는 인정했지만 여섯 약재량을 2배로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-97"
+        },
+        {
+          "text": "태음조위탕에만 마황·길경 각 3.75 g / 나머지 네 약재는 두 방에 공통",
+          "detail": "네 약재 공통은 맞지만 조위승청탕에도 마황·길경이 들어 있다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-97"
+        },
+        {
+          "text": "두 방 모두 마황·길경 각 3.75 g / 조위승청탕에서 오미자는 제거",
+          "detail": "마황·길경은 맞지만 오미자도 두 방에서 3.75 g을 유지한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-97"
+        },
+        {
+          "text": "두 방 모두 여섯 약재 각 3.75 g / 조위승청탕에서 나복자량은 별도로 달라짐",
+          "detail": "여섯 공통량의 유지와 나복자량의 차이를 함께 보존했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-97"
+        },
+        {
+          "text": "두 방 모두 여섯 약재 각 3.75 g / 조위승청탕에서 나복자량도 그대로 유지",
+          "detail": "여섯 공통 약재는 맞지만 나복자 7.5→5.625 g의 변화가 빠졌다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-taeeumjowi",
+          "source": "/learning/sasang/#clinical-sasang-97"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "공통 골격의 모든 양이 같은 것은 아니다. 여섯 3.75 g 약재와 건율·의이인은 유지되지만 나복자가 달라지고 세 약재가 더해진다. 이를 표한·승청·수면 증상 묶음과 연결한다.",
+      "discriminator": "여섯 약재의 공통량과 나복자의 별도 변화를 분리한다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/taeeumjowi-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018551 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018551&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018562 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018562&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-97",
+      "relatedSource": "/learning/sasang/#sasang-formula-taeeumjowi"
+    },
+    {
+      "id": "clinical-sasang-98",
+      "cardId": "sasang-formula-jowiseungcheong-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "태음조위탕에 세 약재만 더하면 조위승청탕의 구성량도 같아질까?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018562의 표기 기준이다. 태음조위탕의 총량 52.5 g에 산조인·용안육·원지 각 3.75 g을 더한 노트가 있다. 두 포탈 표를 기준으로 나복자의 변경과 새 합계를 계산한다. 모든 약재가 g으로 수록된 이 두 표만 비교한다.",
+      "options": [
+        {
+          "text": "나복자 7.5→5.625 g / 새 합계 57.75 g",
+          "detail": "나복자 변경은 맞지만 세 추가 약재의 합 11.25 g을 7.125 g으로 잘못 합했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-98"
+        },
+        {
+          "text": "나복자 7.5→5.625 g / 새 합계 61.875 g",
+          "detail": "나복자 1.875 g 감소와 세 약재 11.25 g 추가를 모두 반영했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-98"
+        },
+        {
+          "text": "나복자 7.5 g 유지 / 새 합계 63.75 g",
+          "detail": "세 약재 추가분은 계산했지만 나복자의 감량을 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-98"
+        },
+        {
+          "text": "나복자 7.5→5.625 g / 새 합계 63.75 g",
+          "detail": "나복자 변경은 적었지만 계산에는 감량 1.875 g을 반영하지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-98"
+        },
+        {
+          "text": "나복자 7.5→3.75 g / 새 합계 60 g",
+          "detail": "추가분은 맞지만 나복자를 5.625 g 대신 3.75 g으로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-jowiseungcheong-tang",
+          "source": "/learning/sasang/#clinical-sasang-98"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "52.5−1.875+11.25=61.875 g이다. 이 합계는 지정 구성표의 기록을 검증하는 계산이며 하루 복용량·개인 조제량의 계산이 아니다.",
+      "discriminator": "추가되는 세 약재뿐 아니라 공통 약재인 나복자의 감량도 계산한다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/jowiseungcheong-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018562 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018562&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018551 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018551&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-98",
+      "relatedSource": "/learning/sasang/#sasang-formula-jowiseungcheong-tang"
+    },
+    {
+      "id": "clinical-sasang-99",
+      "cardId": "sasang-formula-yeoldahanso",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "열다한소탕의 갈근은 표 총량에서 어느 비중이며 감초는 있는가?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018568의 표기 기준이다. 태음인 간열폐조 사례를 공부하며 갈근 15 g·고본·황금 각 7.5 g·길경·나복자·백지·승마 각 3.75 g을 합했다. 상한론 갈근황금황련탕의 기억이 섞이지 않도록 합계·갈근 비중·감초 유무를 동시에 확인한다.",
+      "options": [
+        {
+          "text": "45 g / 갈근은 1/3 / 감초 3.75 g 포함",
+          "detail": "합계·비중은 맞지만 다른 갈근 함유방의 감초를 넣어 실제 구성과 불일치한다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-99"
+        },
+        {
+          "text": "45 g / 갈근은 1/2 / 감초 없음",
+          "detail": "합계·감초 유무는 맞지만 15/45를 1/2로 계산했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-99"
+        },
+        {
+          "text": "48.75 g / 갈근은 4/13 / 감초 없음",
+          "detail": "감초 부재는 맞지만 청폐사간탕 합계를 대입했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-99"
+        },
+        {
+          "text": "37.5 g / 갈근은 2/5 / 감초 없음",
+          "detail": "감초 부재는 맞지만 7.5 g 약재 하나가 합계에서 빠졌다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-99"
+        },
+        {
+          "text": "45 g / 갈근은 1/3 / 감초 없음",
+          "detail": "15+15+15=45 g이며 갈근 비중은 1/3이고 감초는 이 표에 없다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-yeoldahanso",
+          "source": "/learning/sasang/#clinical-sasang-99"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "열다한소탕의 일곱 약재 총량은 45 g이며 갈근이 1/3이다. 방명과 공통 약재가 겹쳐도 황련·감초를 포함하는 상한론 처방과 합치지 않는다.",
+      "discriminator": "일곱 약재 합계·갈근 비중·감초 부재가 모두 맞아야 한다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/yeoldahanso-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018568 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018568&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-99",
+      "relatedSource": "/learning/sasang/#sasang-formula-yeoldahanso"
+    },
+    {
+      "id": "clinical-sasang-100",
+      "cardId": "sasang-formula-cheongpyesagan-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "열다한소탕과 청폐사간탕의 총량·갈근 상대 비중을 비교하면?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018569의 표기 기준이다. 같은 태음인 리열 맥락에서 대변 정체가 더해지는 사례를 두 표와 연결한다. 열다한소탕은 45 g, 청폐사간탕은 대황 3.75 g을 더한다. 갈근은 두 방 모두 15 g이다. 순서는 열다한소탕→청폐사간탕이다.",
+      "options": [
+        {
+          "text": "총량 45→45 g / 갈근량 유지 / 갈근 비중 1/3→1/3",
+          "detail": "갈근 유지와 첫 비중은 맞지만 대황 추가분을 전체량에서 빠뜨렸다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-100"
+        },
+        {
+          "text": "총량 45→52.5 g / 갈근량 유지 / 갈근 비중 1/3→2/7",
+          "detail": "갈근 유지·첫 합계는 맞지만 대황을 7.5 g으로 더했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-100"
+        },
+        {
+          "text": "총량 45→48.75 g / 갈근량 유지 / 갈근 비중 1/3→4/13",
+          "detail": "대황 추가로 분모가 커져 갈근의 절대량은 같고 상대 비중은 작아진다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-100"
+        },
+        {
+          "text": "총량 45→48.75 g / 갈근량 유지 / 갈근 비중 1/3→1/3",
+          "detail": "총량·갈근량은 맞지만 전체량이 늘었는데 비중을 그대로 유지했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-100"
+        },
+        {
+          "text": "총량 45→48.75 g / 갈근 15→18.75 g / 갈근 비중 1/3→5/13",
+          "detail": "총량은 맞지만 대황의 추가량을 갈근 증량으로 잘못 기록했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongpyesagan-tang",
+          "source": "/learning/sasang/#clinical-sasang-100"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "15/48.75=4/13이다. 구성표의 절대량과 상대 비중을 구별하는 문제이며, 갈근 비중이 낮아졌다고 임상 효과가 약해졌다는 결론을 뜻하지 않는다.",
+      "discriminator": "갈근의 양은 같은데 대황 추가로 총량과 분모가 달라진다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/cheongpyesagan-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018569 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018569&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018568 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018568&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-100",
+      "relatedSource": "/learning/sasang/#sasang-formula-cheongpyesagan-tang"
+    },
+    {
+      "id": "clinical-sasang-101",
+      "cardId": "sasang-formula-cheongsimyeonja-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "조위승청탕과 청심연자탕에서 심신 약재가 겹치면 같은 병증일까?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018565의 표기 기준이다. A는 표한·식후비만·하지무력과 수면 변화, B는 리열·건조·심번·수면 불편이 제시된다. 두 방의 산조인·용안육·원지가 겹친다. 조위승청탕→청심연자탕 순서로 세 약재량과 차이 골격을 고른다.",
+      "options": [
+        {
+          "text": "세 약재 각 3.75→7.5 g / A에 건율·의이인·마황, B에 연육·산약·황금",
+          "detail": "세 공통 약재량의 변화와 서로 다른 표한·리열 골격을 모두 구별했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-101"
+        },
+        {
+          "text": "세 약재 각 3.75→3.75 g / A에 건율·의이인·마황, B에 연육·산약·황금",
+          "detail": "골격 구별은 맞지만 지정 청심연자탕 표의 7.5 g을 반영하지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-101"
+        },
+        {
+          "text": "세 약재 각 3.75→7.5 g / A에 연육·산약·황금, B에 건율·의이인·마황",
+          "detail": "용량 변화는 맞지만 두 방의 차이 골격을 서로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-101"
+        },
+        {
+          "text": "세 약재 각 7.5→7.5 g / A에 건율·의이인·마황, B에 연육·산약·황금",
+          "detail": "청심연자탕·차이 골격은 맞지만 조위승청탕의 세 약재량이 틀렸다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-101"
+        },
+        {
+          "text": "세 약재 각 3.75→7.5 g / 두 방 모두 건율·의이인·마황을 공유",
+          "detail": "용량 변화는 맞지만 심신 약재의 공통성을 전체 구성의 공통성으로 넓혔다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-cheongsimyeonja-tang",
+          "source": "/learning/sasang/#clinical-sasang-101"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "같은 수면·심신 약재가 있어도 조위승청탕의 표한·승청 골격과 청심연자탕의 조열·진액 골격은 다르다. 증상 묶음·차이 약재·지정 수록량을 함께 비교해야 한다.",
+      "discriminator": "세 공통 약재의 양은 달라지고 표한·리열의 기본 골격도 다르다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/cheongsimyeonja-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018565 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018565&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018562 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018562&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "태음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-101",
+      "relatedSource": "/learning/sasang/#sasang-formula-cheongsimyeonja-tang"
+    },
+    {
+      "id": "clinical-sasang-102",
+      "cardId": "sasang-formula-hyeongbangjihwang-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "형방지황탕과 독활지황탕의 공통 약재 밖에 있는 차이 약재군은?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018333의 표기 기준이다. 숙지황·산수유·복령·택사·독활·방풍은 두 방에 공통이다. A는 표병의 복통·설사·소모, B는 리열·음허오열·하지·배뇨 변화가 제시된다. 형방지황탕과 독활지황탕 각각의 나머지 약재를 대조한다.",
+      "options": [
+        {
+          "text": "형방지황탕: 강활·형개·목단피 각 3.75 g / 독활지황탕: 차전자 3.75 g",
+          "detail": "강활·형개는 맞지만 차전자·목단피를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-102"
+        },
+        {
+          "text": "형방지황탕: 강활·형개·차전자 각 7.5 g / 독활지황탕: 목단피 3.75 g",
+          "detail": "독활지황탕은 맞지만 형방지황탕의 고유 세 약재는 각 3.75 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-102"
+        },
+        {
+          "text": "형방지황탕: 강활·형개 각 3.75 g / 독활지황탕: 목단피·차전자 각 3.75 g",
+          "detail": "강활·형개·목단피는 맞지만 차전자를 잘못 배정했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-102"
+        },
+        {
+          "text": "형방지황탕: 강활·형개·차전자 각 3.75 g / 독활지황탕: 목단피 3.75 g",
+          "detail": "두 구성표의 고유 약재군과 수록량이 모두 맞다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-102"
+        },
+        {
+          "text": "형방지황탕: 강활·형개·차전자 각 3.75 g / 독활지황탕: 목단피 7.5 g",
+          "detail": "고유 약재 구별은 맞고 목단피량만 2배로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangjihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-102"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "형방지황탕에 남는 형방계 표병 골격과 차전자, 독활지황탕에 포함되는 목단피를 비교한다. 공통 숙지황이나 설사·열감 하나만으로 두 병증을 합치지 않는다.",
+      "discriminator": "공통 여섯 약재를 제외하면 3종 대 1종의 차이가 남는다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/hyeongbangjihwang-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018333 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018333&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018332 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018332&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-102",
+      "relatedSource": "/learning/sasang/#sasang-formula-hyeongbangjihwang-tang"
+    },
+    {
+      "id": "clinical-sasang-103",
+      "cardId": "sasang-formula-dokhwaljihwang-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "숙지황이 늘어난 독활지황탕은 형방지황탕보다 표 총량도 클까?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018332의 표기 기준이다. 두 포탈 구성표는 모든 약재가 g으로 기재되어 있다. 형방지황탕은 7.5 g 네 종·3.75 g 다섯 종이다. 독활지황탕은 15 g 한 종·7.5 g 한 종·5.625 g 두 종·3.75 g 세 종이다. 숙지황량과 합계를 함께 비교한다.",
+      "options": [
+        {
+          "text": "숙지황 7.5→15 g / 총량 45→48.75 g / 두 합계가 반대로 이동",
+          "detail": "숙지황 변화는 맞지만 두 방의 합계를 서로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-103"
+        },
+        {
+          "text": "숙지황 7.5→15 g / 총량 48.75→45 g / 증가한 약재와 전체량은 별개",
+          "detail": "숙지황은 2배지만 다른 용량 감소·약미 수 변화로 합계는 3.75 g 작다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-103"
+        },
+        {
+          "text": "숙지황 7.5→15 g / 총량 48.75→56.25 g / 숙지황 추가분만 전체에 더함",
+          "detail": "숙지황 변화는 맞지만 나머지 약재 변화·제외를 반영하지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-103"
+        },
+        {
+          "text": "숙지황 7.5→15 g / 총량 48.75→48.75 g / 총량은 그대로 유지",
+          "detail": "숙지황 변화는 맞지만 독활지황탕의 표 합계 45 g을 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-103"
+        },
+        {
+          "text": "숙지황 7.5→7.5 g / 총량 48.75→45 g / 증가한 약재는 없음",
+          "detail": "합계 비교는 맞지만 숙지황의 2배 변화를 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-dokhwaljihwang-tang",
+          "source": "/learning/sasang/#clinical-sasang-103"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "형방지황탕은 30+18.75=48.75 g, 독활지황탕은 15+7.5+11.25+11.25=45 g이다. 한 약재가 증가해도 전체량이 커지는 것은 아니며, 전체량만으로 병증 중증도나 효과를 정하지 않는다.",
+      "discriminator": "숙지황의 절대량 증가는 전체 구성표의 총량 증가와 다르다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/dokhwaljihwang-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018332 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018332&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018333 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018333&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-103",
+      "relatedSource": "/learning/sasang/#sasang-formula-dokhwaljihwang-tang"
+    },
+    {
+      "id": "clinical-sasang-104",
+      "cardId": "sasang-formula-yanggyeoksanhwa-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "양격산화탕의 아홉 약재 표에서 41.25 g 합계는 맞을까?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018344의 표기 기준이다. 아래 구성표에 총량 41.25 g이라는 메모가 붙었다. 약재를 삭제하거나 감량하지 않고 표 합계와 두 군의 비중을 검토한다.",
+      "options": [
+        {
+          "text": "총량 41.25 g / 세 중심군 22.5 g·여섯 보조군 18.75 g / 중심군이 더 큼",
+          "detail": "중심군은 맞지만 여섯 보조 약재 중 3.75 g 하나를 누락했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-104"
+        },
+        {
+          "text": "총량 45 g / 세 중심군 15 g·여섯 보조군 30 g / 보조군이 2배",
+          "detail": "총량만 맞고 두 군의 실제량을 서로 잘못 계산했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-104"
+        },
+        {
+          "text": "총량 48.75 g / 세 중심군 22.5 g·여섯 보조군 26.25 g / 보조군이 더 큼",
+          "detail": "중심군은 맞지만 보조군에 3.75 g 한 약재를 중복 계산했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-104"
+        },
+        {
+          "text": "총량 45 g / 세 중심군 30 g·여섯 보조군 15 g / 중심군이 2배",
+          "detail": "총량은 맞지만 각 약재의 2:1을 군 전체의 2:1로 오인했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-104"
+        },
+        {
+          "text": "총량 45 g / 세 중심군 22.5 g·여섯 보조군 22.5 g / 두 군은 동량",
+          "detail": "3×7.5와 6×3.75가 각각 22.5 g이므로 표 합계는 45 g이다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-yanggyeoksanhwa-tang",
+          "source": "/learning/sasang/#clinical-sasang-104"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "약재 한 종씩의 용량은 2:1이지만 약재 수가 3종과 6종이므로 군 전체량은 1:1이다. 표의 각 약재량을 유지하면 총량은 45 g이며 41.25 g은 합계 오류다.",
+      "discriminator": "개별량 비율과 약재군 전체량의 비율을 구별하고 아홉 약재를 모두 센다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/yanggyeoksanhwa-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018344 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018344&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "table": {
+        "caption": "양격산화탕 · 지정 포탈의 구성량을 두 군으로 정리",
+        "headers": [
+          "약재군",
+          "약재 수",
+          "각 약재량"
+        ],
+        "rows": [
+          [
+            "생지황·인동등·연교",
+            "3종",
+            "각 7.5 g"
+          ],
+          [
+            "산치자·박하·지모·석고·방풍·형개",
+            "6종",
+            "각 3.75 g"
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-104",
+      "relatedSource": "/learning/sasang/#sasang-formula-yanggyeoksanhwa-tang"
+    },
+    {
+      "id": "clinical-sasang-105",
+      "cardId": "sasang-formula-hyeongbangdojeok",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "형방도적산의 고유 약재를 숙지황계 두 방과 비교하면?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018326의 표기 기준이다. 소양인 표병 사례 A는 흉격 답답함·담·두통, B는 복통·설사와 소모가 중심이다. 형방도적산을 형방지황탕·독활지황탕과 비교하면서 생지황·목통·현삼·과루인·전호의 다섯 축을 검토한다.",
+      "options": [
+        {
+          "text": "형방도적산에 현삼 대신 산수유 포함 / 전호 3.75 g / 복령·택사 없음",
+          "detail": "전호·부재 약재는 맞지만 숙지황계의 산수유가 섞였다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-105"
+        },
+        {
+          "text": "형방도적산에 생지황 대신 숙지황 포함 / 전호 3.75 g / 복령·택사 없음",
+          "detail": "전호·부재 약재는 맞지만 표의 생지황을 숙지황으로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-105"
+        },
+        {
+          "text": "형방도적산에 다섯 약재 모두 포함 / 전호 3.75 g / 복령·택사 없음",
+          "detail": "지정 형방도적산 표의 다섯 약재·전호량과 두 부재 약재가 모두 맞다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-105"
+        },
+        {
+          "text": "형방도적산에 다섯 약재 모두 포함 / 전호 3.75 g / 복령·택사 기본 포함",
+          "detail": "다섯 축과 전호는 맞지만 지황계 수분대사 약재를 기본방에 넣었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-105"
+        },
+        {
+          "text": "형방도적산에 다섯 약재 모두 포함 / 전호 5.625 g / 복령·택사 없음",
+          "detail": "다섯 축·부재 약재는 맞지만 전호를 현삼·과루인과 동량으로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyeongbangdojeok",
+          "source": "/learning/sasang/#clinical-sasang-105"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "형방도적산의 흉격·진액 축은 생지황·목통·현삼·과루인·전호다. 형방지황탕과 표병을 공유해도 복령·택사 포함 여부와 지황의 종류·전호량은 별도로 확인한다.",
+      "discriminator": "전호는 3.75 g이며 두 숙지황계 방의 복령·택사를 기본 구성에 섞지 않는다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/hyeongbangdojeok-san/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018326 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018326&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018333 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018333&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018332 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018332&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소양인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-105",
+      "relatedSource": "/learning/sasang/#sasang-formula-hyeongbangdojeok"
+    },
+    {
+      "id": "clinical-sasang-106",
+      "cardId": "sasang-formula-baekhao-ijung-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "백하오이중탕과 향부자팔물탕의 공통 약재량은 얼마나 달라질까?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018169의 표기 기준이다. A는 소음인 리한·복통·설사·냉감, B는 비위 허약·기체·긴장과 소화불편이 제시된다. 순서는 백하오이중탕→향부자팔물탕이다. 공통 백하수오·백출·백작약·진피·자감초의 양을 비교한다.",
+      "options": [
+        {
+          "text": "백하수오·백출 11.25→3.75 g · 백작약 11.25→7.5 g · 진피·감초 3.75 g 유지",
+          "detail": "다섯 공통 약재의 서로 다른 감량·유지 관계를 모두 보존했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-106"
+        },
+        {
+          "text": "백하수오·백출 11.25→7.5 g · 백작약 11.25→7.5 g · 진피·감초 3.75 g 유지",
+          "detail": "백작약·진피·감초는 맞지만 백하수오·백출은 3.75 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-106"
+        },
+        {
+          "text": "백하수오·백출 11.25→3.75 g · 백작약 11.25→3.75 g · 진피·감초 3.75 g 유지",
+          "detail": "네 약재는 맞지만 백작약은 7.5 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-106"
+        },
+        {
+          "text": "백하수오·백출 11.25 g 유지 · 백작약 11.25→7.5 g · 진피·감초 3.75 g 유지",
+          "detail": "백작약·두 보조약은 맞지만 백하수오·백출의 변화를 놓쳤다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-106"
+        },
+        {
+          "text": "백하수오·백출 11.25→3.75 g · 백작약 11.25→7.5 g · 진피·감초 3.75→7.5 g",
+          "detail": "앞의 세 약재는 맞지만 진피·감초는 증량되지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-baekhao-ijung-tang",
+          "source": "/learning/sasang/#clinical-sasang-106"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "같은 소음인 처방이며 다섯 약재가 겹쳐도 역할의 무게중심은 다르다. 건강·계지의 리한축과 향부자·당귀·천궁의 기체·영혈축을 비교하면서 공통 약재량의 차이까지 읽는다.",
+      "discriminator": "백하수오·백출은 1/3, 백작약은 2/3로 달라지고 진피·감초는 유지된다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/baekhao-ijung-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018169 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018169&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018144 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018144&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-106",
+      "relatedSource": "/learning/sasang/#sasang-formula-baekhao-ijung-tang"
+    },
+    {
+      "id": "clinical-sasang-107",
+      "cardId": "sasang-formula-hyangbujapalmul-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "향부자팔물탕과 승양팔물탕은 “팔물”이라는 이름만으로 합칠 수 있을까?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018144의 표기 기준이다. A는 소음인 기체·비위허약의 식욕저하·흉복 답답함, B는 표병 뒤 발한·기력 소모가 제시된다. 순서는 향부자팔물탕→승양팔물탕이다. 공통 당귀·백작약량과 두 고유 약재군을 고른다.",
+      "options": [
+        {
+          "text": "당귀·백작약 각 7.5→3.75 g / A에 인삼·황기·관계 / B에 향부자·천궁·백하수오",
+          "detail": "공통량은 맞지만 고유 골격을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-107"
+        },
+        {
+          "text": "당귀·백작약 각 3.75→7.5 g / A에 향부자·천궁·백하수오 / B에 인삼·황기·관계",
+          "detail": "고유 약재군은 맞지만 공통량의 이동 방향이 반대다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-107"
+        },
+        {
+          "text": "당귀 7.5→3.75 g·백작약 7.5 g 유지 / A에 향부자·천궁·백하수오 / B에 인삼·황기·관계",
+          "detail": "당귀·고유 골격은 맞지만 백작약도 3.75 g으로 달라진다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-107"
+        },
+        {
+          "text": "당귀·백작약 각 7.5→3.75 g / A에 향부자·천궁·백하수오 / B에 인삼·황기·관계",
+          "detail": "공통 영혈 약재량의 감소와 각 방의 고유 골격을 모두 구별했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-107"
+        },
+        {
+          "text": "당귀·백작약 각 7.5 g 유지 / A에 향부자·천궁·백하수오 / B에 인삼·황기·관계",
+          "detail": "고유 골격은 맞지만 승양팔물탕의 두 약재는 3.75 g이다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-hyangbujapalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-107"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 4,
+      "explanation": "향부자팔물탕과 승양팔물탕은 공유 약재가 있어도 기체·비위허약과 망양초증의 배합축이 다르다. 이름 속 숫자나 공통 영혈 약재만으로 같은 구성을 유추하지 않는다.",
+      "discriminator": "두 공통 약재량은 모두 절반이며 이기·영혈 축과 보기·온양 축이 갈린다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/hyangbujapalmul-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018144 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018144&tempLang=ko"
+        },
+        {
+          "title": "한국전통지식포탈 P0018143 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018143&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-107",
+      "relatedSource": "/learning/sasang/#sasang-formula-hyangbujapalmul-tang"
+    },
+    {
+      "id": "clinical-sasang-108",
+      "cardId": "sasang-formula-seungyangpalmul-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "prompt": "승양팔물탕에서 생강·대조까지 포함한 전체 g 총량을 계산할 수 있을까?",
+      "context": "교육용 문헌 판독·가상 증례. 용량은 『동의사상신편』(1929)·한국전통지식포탈 P0018143의 표기 기준이다. 포탈 표는 인삼·황기 각 7.5 g, 관계·당귀·백작약·백출·자감초 각 3.75 g, 생강 3조각·대조 2매다. 조각·매의 무게는 제시되지 않았다. 표의 단위를 보존한 집계를 고른다.",
+      "options": [
+        {
+          "text": "g 표기 7종 합 37.5 g / 생강 3조각·대조 2매 별도 / 전체 g은 미정",
+          "detail": "단위 구별은 맞지만 3.75 g 약재 하나를 중복 계산했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-108"
+        },
+        {
+          "text": "g 표기 7종 합 33.75 g / 생강 3조각·대조 2매 별도 / 전체 g은 미정",
+          "detail": "같은 무게량만 합하고 개수 약재를 따로 기록했다.",
+          "owner": "정답 근거",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-108"
+        },
+        {
+          "text": "g 표기 7종 합 33.75 g / 생강·대조 합 5 g 추가 / 전체 38.75 g",
+          "detail": "일곱 약재 합은 맞지만 조각·매를 각각 1 g으로 간주할 근거가 없다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-108"
+        },
+        {
+          "text": "g 표기 7종 합 33.75 g / 생강·대조는 원방에서 제외 / 전체 33.75 g",
+          "detail": "무게 합은 맞지만 무게 미기재 약재를 기본방에서 삭제했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-108"
+        },
+        {
+          "text": "g 표기 7종 합 30 g / 생강 3조각·대조 2매 별도 / 전체 g은 미정",
+          "detail": "개수 약재 구별은 맞지만 3.75 g 약재 하나를 합에서 누락했다.",
+          "owner": "오답 감별",
+          "ownerId": "sasang-formula-seungyangpalmul-tang",
+          "source": "/learning/sasang/#clinical-sasang-108"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "15+18.75=33.75 g은 g으로 수록된 일곱 약재만의 부분 합계다. 생강·대조도 구성에 포함되지만 무게 정보가 없으므로 전체 g 총량이라고 부르지 않는다.",
+      "discriminator": "g 부분합과 개수 약재 포함 전체량을 구별하며 조각·매를 임의 환산하지 않는다.",
+      "references": [
+        {
+          "title": "배합·병증 연결 카드",
+          "url": "/sasang-formula-cards/seungyangpalmul-tang/"
+        },
+        {
+          "title": "한국전통지식포탈 P0018143 · 동의사상신편(1929) 구성표",
+          "url": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018143&tempLang=ko"
+        }
+      ],
+      "topic": "formula-composition",
+      "kind": "clinical",
+      "category": "소음인 주요 처방",
+      "source": "/learning/sasang/#clinical-sasang-108",
+      "relatedSource": "/learning/sasang/#sasang-formula-seungyangpalmul-tang"
     }
   ]
 }
