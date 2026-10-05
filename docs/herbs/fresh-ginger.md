@@ -39,6 +39,8 @@ description: 생강(生薑) — 본초의 성미·귀경·효능·병증·배합
 
 생강즙·말린 분말·추출물·탕약은 농도와 제형이 다릅니다. [건강](dried-ginger.md)과 [대조](jujube-fruit.md)를 함께 비교합니다. [홍콩침례대 본초 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00012)
 
+생강과 건강을 한 처방 안에 함께 적은 실제 구성은 [생강사심탕의 배합 이야기](../classical-stories/ginger-fresh-dried.md)에서 읽습니다. 반하사심탕과 비교하면 가공 상태뿐 아니라 처방 안의 비중이 어떻게 달라지는지 확인할 수 있습니다.
+
 ## 관련 핵심 문서
 
 - [본초 찾기](../herbal-integrated/herbs.md)
