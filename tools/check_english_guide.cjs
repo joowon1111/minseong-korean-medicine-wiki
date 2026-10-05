@@ -15,7 +15,7 @@ const base = process.env.GUIDE_BASE_URL || 'http://127.0.0.1:8766';
       assert(await entry.isVisible(), 'Home English entrance must be visible');
       await entry.click();
       await page.waitForURL('**/korean-medicine-guide/');
-      assert.equal(await page.locator('article h1').innerText(), 'Korean Medicine Guide');
+      assert.equal((await page.locator('article h1').innerText()).replace(/¶$/, ''), 'Korean Medicine Guide');
       assert.equal(await page.locator('html').getAttribute('lang'), 'en');
       assert.equal(await page.locator('article').getAttribute('lang'), 'en');
       assert.equal(await page.locator('.km-guide-nav a').count(), 8);
