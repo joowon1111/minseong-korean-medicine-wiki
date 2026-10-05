@@ -23,6 +23,11 @@ def plain(value):
     return re.sub(r"\s+", " ", value).strip()
 
 
+def page_language(page):
+    """Only the explicitly supported English override changes the Korean default."""
+    return "en" if page.meta.get("lang") == "en" else "ko-KR"
+
+
 def document_title(page):
     title = page.meta.get("title")
     return plain(title) if isinstance(title, str) and title.strip() else page.title
@@ -118,7 +123,7 @@ class Article(HTMLParser):
 
 def breadcrumb_items(page, files, config):
     root = config["site_url"]
-    items = [{"name": "홈", "url": root}]
+    items = [{"name": "Home" if page_language(page) == "en" else "홈", "url": root}]
     for parent in reversed(PurePosixPath(page.file.src_uri).parents):
         if str(parent) == ".":
             continue
@@ -158,21 +163,24 @@ def on_page_content(html, page, config, files):
     article.feed(html)
     breadcrumbs = breadcrumb_items(page, files, config)
     related = related_items(page, files, config)
+    english = page_language(page) == "en"
     prefix = ""
     if len(breadcrumbs) > 1:
         links = [f'<a href="{escape(item["url"], quote=True)}">{escape(item["name"])}</a>' for item in breadcrumbs[:-1]]
         links.append(f'<span aria-current="page">{escape(page.title)}</span>')
-        prefix += '<nav class="archive-breadcrumbs" aria-label="현재 문서 위치">' + ' <span aria-hidden="true">›</span> '.join(links) + '</nav>'
+        prefix += '<nav class="archive-breadcrumbs" aria-label="' + ("Breadcrumb" if english else "현재 문서 위치") + '">' + ' <span aria-hidden="true">›</span> '.join(links) + '</nav>'
     quick = []
-    for label, terms in (("주의사항 먼저 보기", ("위험신호", "안전", "주의", "먼저 확인", "금기")),
-                         ("근거·출처 확인", ("참고", "출처", "references", "reference"))):
+    labels = (("Safety", ("safety", "precautions")), ("Sources", ("sources", "references"))) if english else (
+        ("주의사항 먼저 보기", ("위험신호", "안전", "주의", "먼저 확인", "금기")),
+        ("근거·출처 확인", ("참고", "출처", "references", "reference")))
+    for label, terms in labels:
         match = next((heading for heading in article.headings
                       if any(term in heading["text"].lower() for term in terms)), None)
         if match:
             quick.append(f'<a href="#{escape(quote(match["id"]), quote=True)}">{label}</a>')
     if quick:
         prefix += '<div class="archive-reading-tools">'
-        prefix += '<nav aria-label="본문 빠른 이동">' + ' · '.join(quick) + '</nav>'
+        prefix += '<nav aria-label="' + ("Article shortcuts" if english else "본문 빠른 이동") + '">' + ' · '.join(quick) + '</nav>'
         prefix += '</div>'
     suffix = ""
     if related:
@@ -208,13 +216,14 @@ def on_post_page(output, page, config):
     root = config["site_url"]
     document_url = urljoin(root, quote(data["document_path"]))
     title = document_title(page)
+    language = page_language(page)
     description = page.meta.get("description")
     description = description.strip() if isinstance(description, str) else ""
     graph = []
     if not (article.types & PAGE_TYPES):
         node = {"@type": "MedicalWebPage" if page.file.src_uri.startswith(("conditions/", "symptoms/", "herbs/", "formulas/", "authority/")) else "WebPage",
                 "@id": url + "#webpage", "url": url, "name": title,
-                "inLanguage": "ko-KR", "isPartOf": {"@id": root + "#website"}}
+                "inLanguage": language, "isPartOf": {"@id": root + "#website"}}
         if description:
             node["description"] = description
         if data["related"]:
@@ -229,7 +238,8 @@ def on_post_page(output, page, config):
     if url == root and "WebSite" not in article.types:
         graph.append({"@type": "WebSite", "@id": root + "#website", "url": root,
                       "name": config["site_name"], "inLanguage": "ko-KR"})
-    head = '<link rel="alternate" type="application/json" title="문서 읽기 자료 (JSON)" href="' + escape(document_url, quote=True) + '">\n'
+    export_title = "Article text (JSON)" if language == "en" else "문서 읽기 자료 (JSON)"
+    head = '<link rel="alternate" type="application/json" title="' + export_title + '" href="' + escape(document_url, quote=True) + '">\n'
     if graph:
         head += '<script type="application/ld+json">' + json_text({"@context": "https://schema.org", "@graph": graph}) + '</script>\n'
     for name, value in {"og:title": title, "og:url": url, "og:type": "website", "og:site_name": config["site_name"], "og:description": description}.items():
@@ -237,7 +247,7 @@ def on_post_page(output, page, config):
             head += f'<meta property="{name}" content="{escape(value, quote=True)}">\n'
     links = sorted({target for link in article.links if (target := http_url(link, url))})
     payload = {"schema_version": "1.0", "url": url, "title": title,
-               "language": "ko-KR", "description": description,
+               "language": language, "description": description,
                "text": article.body_text(),
                "headings": [{"level": h["level"], "title": h["text"], "url": url + "#" + quote(h["id"])} for h in article.headings],
                "links": links, "related_reading": data["related"],
@@ -245,6 +255,12 @@ def on_post_page(output, page, config):
     write_document(config["site_dir"], data["document_path"], payload)
     _page_index[url] = {"url": url, "title": title, "document": document_url}
     del page.archive_discovery  # Do not retain every article's parsed text after rendering.
+    if language == "en":
+        # The article is English; the shared Korean menus remain Korean.
+        output = re.sub(r'(<html\b[^>]*\blang=")[^"]*(")', r'\g<1>en\2', output, count=1)
+        output = re.sub(r'<body\b', '<body lang="ko"', output, count=1)
+        output = re.sub(r'<article\b', '<article lang="en"', output, count=1)
+        output = output.replace('<nav class="md-nav md-nav--secondary"', '<nav lang="en" class="md-nav md-nav--secondary"', 1)
     return output.replace('</head>', head + '</head>', 1)
 
 

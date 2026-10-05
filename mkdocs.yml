@@ -14,6 +14,7 @@ extra_css:
 - assets/acupoint-atlas/explorer.css
 - assets/learning/learning.css?v=20261004-01
 - stylesheets/portal.css
+- stylesheets/korean-medicine-guide.css
 - assets/korean-search-185.css
 - assets/donguibogam/reader.css
 extra:
@@ -1053,6 +1054,7 @@ nav:
     - 사상의학·동의수세보원 문제은행: learning/sasang.md
   - 안내:
     - guide/index.md
+    - Korean Medicine Guide (English): korean-medicine-guide/index.md
     - 운영 원칙: guide/editorial-policy.md
     - 분류 체계: guide/taxonomy.md
     - 출처·인용 원칙: guide/citation-policy.md

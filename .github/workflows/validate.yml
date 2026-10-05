@@ -28,3 +28,17 @@ jobs:
       - run: mkdocs build
       - run: python tools/audit_internal_links.py --site
       - run: python tools/audit_page_discovery.py
+      - name: Check English guide on mobile and desktop
+        run: |
+          npm install --prefix "$RUNNER_TEMP/guide-browser" --no-save --package-lock=false --ignore-scripts playwright@1.56.1
+          "$RUNNER_TEMP/guide-browser/node_modules/.bin/playwright" install --with-deps chromium
+          python -m http.server 8766 --bind 127.0.0.1 --directory site > "$RUNNER_TEMP/guide-server.log" 2>&1 &
+          NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_english_guide.cjs
+      - name: Keep English guide browser screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: english-guide-browser
+          path: guide-browser-results/
+          if-no-files-found: ignore
+          retention-days: 7

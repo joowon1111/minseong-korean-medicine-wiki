@@ -39,6 +39,31 @@ class DiscoveryTests(unittest.TestCase):
         payload = json.loads((Path(self.temp.name) / 'assets/ai/pages/conditions/test/index.json').read_text())
         return content, output, payload
 
+    def test_english_article_and_exports_keep_korean_chrome(self):
+        self.page.meta["lang"] = "en"
+        body = '<h2 id="references">Sources and Further Reading</h2><p>English text</p>'
+        content = discovery.on_page_content(body, self.page, self.config, self.files)
+        output = discovery.on_post_page('<html lang="ko"><head></head><body class="theme"><article class="md-content__inner">' + content + '</article></body></html>', self.page, self.config)
+        payload = json.loads((Path(self.temp.name) / 'assets/ai/pages/conditions/test/index.json').read_text())
+        self.assertIn('<html lang="en">', output)
+        self.assertIn('<body lang="ko" class="theme">', output)
+        self.assertIn('<article lang="en" class="md-content__inner">', output)
+        self.assertIn('"inLanguage":"en"', output)
+        self.assertEqual(payload['language'], 'en')
+        self.assertIn('>Home</a>', content)
+        self.assertIn('>Sources</a>', content)
+        self.assertIn('aria-label="Article shortcuts"', content)
+        self.assertIn('title="Article text (JSON)"', output)
+
+    def test_default_and_unsupported_languages_keep_korean(self):
+        for value in (None, 'ko', 'ko-KR', 'fr', '<script>', {}):
+            self.page.meta['lang'] = value
+            content, output, payload = self.render('<h2 id="sources">출처</h2>')
+            self.assertEqual(payload['language'], 'ko-KR')
+            self.assertIn('"inLanguage":"ko-KR"', output)
+            self.assertIn('근거·출처 확인', content)
+            self.assertNotIn('<body lang=', output)
+
     def test_public_text_and_real_anchors_only(self):
         content, output, payload = self.render('<h1>시험</h1><h2 id="safety">주의사항<a class="headerlink" href="#safety">¶</a></h2><p>공개 <strong>본문</strong></p><script>private()</script><div hidden><p>숨김</p></div><p aria-hidden="true">장식</p><h2 id="sources">근거와 참고자료</h2><a href="../next/">다음</a>')
         self.assertIn('주의사항 먼저 보기', content)

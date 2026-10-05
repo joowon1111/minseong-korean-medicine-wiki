@@ -1,0 +1,13 @@
+/* One English entrance within the existing archive theme. */
+.km-guide-hero { text-align: left; padding: .5rem 0 0; }
+.km-guide-hero .ms-sub { margin-top: 0; }
+.km-guide-nav { border-block: 1px solid var(--md-default-fg-color--lightest); padding: .65rem 0; }
+.md-typeset .km-guide-nav ol { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .15rem 1.5rem; margin-block: .35rem; }
+.md-typeset .km-guide-nav a { display: inline-block; padding: .4rem 0; }
+.km-guide-sequence { border-left: .2rem solid var(--md-primary-fg-color); padding: .1rem 1rem; margin-block: 1.2rem; }
+.km-guide-entry { text-align: center; }
+.km-guide-entry a { display: inline-block; padding: .45rem .2rem; }
+@media (max-width: 760px) {
+  .md-typeset .km-guide-nav ol { grid-template-columns: 1fr; }
+  .km-guide-entry { text-align: left; }
+}
