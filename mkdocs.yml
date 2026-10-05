@@ -1188,6 +1188,9 @@ nav:
         - 장경악: physicians/zhang-jingyue.md
         - 엽천사: physicians/ye-tianshi.md
         - 오국통: physicians/wu-jutong.md
+    - 고전 속 한의학:
+      - 연재 모아보기: classical-stories/index.md
+      - 같은 기침인데 왜 약이 달라졌을까: classical-stories/cough-formulas.md
     - 한의학 고전:
       - classics/index.md
       - 황제내경: classics/huangdi-neijing.md
