@@ -35,6 +35,8 @@ last_reviewed: 2026-08-30
 
 → [《동의보감》 경옥고 원전 해설](../classics/donguibogam/gyeongok-go.md)
 
+왕실의 진어 기록과 고제의 제조 과정을 이야기로 읽으려면 [민성의담 — 사흘 밤낮, 경옥고 한 항아리에 담긴 시간](../classical-stories/gyeongokgo-slow-preparation.md)으로 이어갈 수 있습니다.
+
 ## 네 가지 구성축
 
 | 구성 | 처방 안에서 보는 핵심 | 전체 배합에서의 의미 |

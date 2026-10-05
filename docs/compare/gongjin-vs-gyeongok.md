@@ -25,6 +25,8 @@ last_reviewed: 2026-08-22
 
 [공진단의 네 가지 구성축](../formulas/gongjin-dan.md)과 [경옥고의 네 가지 구성축](../formulas/gyeongok-go.md)에서 약재별 역할을 이어서 볼 수 있습니다.
 
+고전의 기록을 이야기로 읽으려면 [공진단의 네 약재](../classical-stories/gongjindan-four-directions.md)와 [경옥고 한 항아리에 담긴 시간](../classical-stories/gyeongokgo-slow-preparation.md)을 함께 읽어보세요.
+
 ## 내 상황에서는 무엇부터 비교하나요? {#decision-questions}
 
 | 궁금한 상황 | 먼저 정리할 질문 | 이어서 볼 안내 |
