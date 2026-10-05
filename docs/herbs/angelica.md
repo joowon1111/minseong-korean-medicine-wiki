@@ -50,6 +50,7 @@ ligustilide·ferulic acid·다당류 등 성분을 중심으로 혈관·혈액, 
 임신 중이거나 출혈이 지속되는 경우, 수술 전후, 항응고제·항혈소판제를 복용하는 경우에는 당귀 한 약재보다 **전체 처방과 총 노출량**을 확인합니다. 과다출혈·흑변·원인불명 출혈은 본초 선택보다 의학적 평가가 우선입니다.
 
 ## 관련 문서
+- [당귀는 왜 ‘돌아온다’는 이름을 얻었을까 — 민성의담](../classical-stories/angelica-returning-name.md)
 - [《동의보감》의 당귀](../classics/donguibogam/tangyeok/angelica.md)
 - [혈허](../diagnostics/blood-deficiency.md)
 - [보혈·활혈 본초 비교](categories/blood.md)
