@@ -34,6 +34,8 @@ last_reviewed: 2026-09-06
 
 **피로해서 잠을 못 잔다는 표현도 나누어 봅니다.** 식욕저하·건망·심계가 겹치면 귀비탕의 기혈·심비를 돕는 구조를, 구건·야간 열감·허번이 두드러지면 천왕보심단의 음혈을 돕고 안정시키는 구조를 비교합니다. 오심·흉민·어지럼이 함께 나타나면 온담탕 계열의 담울 조절도 살핍니다. [산조인탕](../formulas/suanzaoren-tang.md)은 허로 뒤 피로한데도 가라앉지 않는 허번불면의 맥락에서 비교합니다.
 
+고전의 서로 다른 출발 조건은 [산조인탕의 허로·허번](../classical-stories/insomnia-fatigue.md)과 [황련아교탕의 심중번·불득와](../classical-stories/insomnia-egg-yolk.md)를 나란히 읽어 확인할 수 있습니다. 황련아교탕의 청열·자음 배합과 계자황 제법은 역사적 기록이며, 위의 증상 목록만으로 개인의 처방을 선택하는 기준이 아닙니다.
+
 이런 처방 차이는 잠드는 데 걸리는 시간뿐 아니라 수면을 방해하는 동반 불편까지 치료 목표로 삼기 때문입니다. [귀비탕에는 왜 식욕·소화와 관련된 약재도 들어가나요?](../formulas/guibi-tang.md#sleep-and-digestion)에서 배합을 읽고, [다른 증상에서도 같은 원리를 어떻게 적용하나요?](formula-selection-guide.md#symptom-treatment-comparison)로 연결할 수 있습니다.
 
 ## 수면 한약 연구가 보여주는 변화 {#sleep-treatment-evidence}
