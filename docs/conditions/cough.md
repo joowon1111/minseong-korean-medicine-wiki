@@ -129,7 +129,7 @@ last_reviewed: 2026-09-06
 
 원문은 원인 평가의 폭을 넓히는 자료이며 처방의 현대 효능 자료는 아래 임상근거에서 따로 읽습니다. 기침 빈도·야간각성·가래와 호흡기 기능을 함께 추적합니다. [《내경》 출전](../classics/huangdi-neijing.md#selected-clinical-passages) · [《동의보감》 출전](../classics/donguibogam.md#selected-clinical-passages)
 
-처방 배합의 판단 과정을 이야기로 읽으려면 [고전 속 한의학 — 같은 기침인데 왜 약이 달라졌을까](../classical-stories/cough-formulas.md)를 살펴보세요. 소청룡탕과 맥문동탕에 공통으로 들어가는 반하의 역할을 비교합니다.
+처방 배합의 판단 과정을 이야기로 읽으려면 [민성의담 — 같은 기침인데 왜 약이 달라졌을까](../classical-stories/cough-formulas.md)를 살펴보세요. 소청룡탕과 맥문동탕에 공통으로 들어가는 반하의 역할을 비교합니다.
 
 ## 한약치료는 어떻게 연결하나요?
 
