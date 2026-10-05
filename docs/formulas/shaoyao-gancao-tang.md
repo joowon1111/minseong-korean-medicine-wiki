@@ -9,6 +9,8 @@ last_reviewed: 2026-09-06
 
 작약감초탕은 **작약과 감초 두 약재로 급하게 당기고 뭉치는 통증을 다루는 완급지통(緩急止痛)의 대표방**입니다. 영문 연구명은 Shakuyakukanzoto, Shakuyaku-kanzo-to, Shaoyao-Gancao decoction입니다. 종아리에 쥐가 나는 근육경련과 관련해 사람 대상 연구가 이어져 왔습니다.
 
+이 처방이 기록된 치료 순서를 이야기로 읽으려면 [다리가 당기는데 왜 곧바로 경련약을 쓰지 않았을까](../classical-stories/cramps-treatment-order.md)를 참고하세요. 『상한론』 29·30조의 전신 상태와 다리의 당김을 함께 살핍니다.
+
 ## 두 약재의 구조
 
 | 약재 | 전통 방제학에서 보는 역할 |
