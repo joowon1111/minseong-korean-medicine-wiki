@@ -48,6 +48,8 @@ last_reviewed: 2026-08-30
 
 → [공진단 구성 본초 네트워크](../network/gongjin-composition.md)
 
+[민성의담 — 보약에도 흐름이 있다](../classical-stories/gongjindan-four-directions.md)에서는 『시재백일선방』의 짧은 구절과 옛 환제의 제법을 따라 네 약재의 배합을 읽습니다.
+
 ## 공진단을 선택할 때 보는 차이
 
 같은 ‘피로’라도 처방 방향은 달라질 수 있습니다.
