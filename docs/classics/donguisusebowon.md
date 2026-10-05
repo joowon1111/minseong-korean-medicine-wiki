@@ -75,6 +75,8 @@ last_reviewed: 2026-08-29
 
 처방은 체질명 하나에 자동으로 대응하지 않습니다. 같은 체질이라도 병증 단계가 다르면 처방이 달라질 수 있고, 소화·땀·대변·수면·기력과 주증의 변화를 보며 치료 방향을 재평가합니다.
 
+실제 의안을 이야기로 읽으려면 [오래된 복통에 왜 세 가지 처방이 등장할까](../classical-stories/sasang/soyangin-recurring-abdominal-pain.md)의 소양인 세 사례와 [온병이 나아지는데 왜 약재를 다시 뺐을까](../classical-stories/sasang/taeeumin-formula-adjustment.md)의 태음인 경과를 비교할 수 있습니다. 각각 신축본 9-30과 13-31에 기록된 처방 선택·전환·가감을 다루며, 원문에 생략된 진찰 정보는 별도로 구별합니다.
+
 ### 현대 진료지침과 연구로 이어 읽기 {#modern-evidence}
 
 [사상체질병증 한의표준임상진료지침(2022)](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14)은 체질병증의 진단·치료·예방·관리를 다루며, 체질 자체를 판정하는 진단은 범위에서 제외합니다. 원전의 분류를 확인한 뒤 현재 병증에 해당하는 권고와 근거수준을 따로 읽습니다.
