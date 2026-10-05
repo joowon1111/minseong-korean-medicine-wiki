@@ -30,6 +30,7 @@ tags: [사향, 공진단, 개규, 본초, 보약]
 사향 및 musk 관련 연구는 향기성 성분과 신경·순환·염증 관련 기전 등을 대상으로 탐색되어 왔습니다. 원료 종류와 연구 제형이 다양하므로 실제 처방과 동일한 조건인지 확인해야 합니다.
 
 ## 관련 문서
+- [사향을 바치던 고을에 내려온 뜻밖의 명령 — 민성의담](../classical-stories/musk-tribute-and-village.md)
 - [공진단](../formulas/gongjin-dan.md)
 - [산수유](cornus-fructus.md)
 - [녹용](cervi-parvum-cornu.md)

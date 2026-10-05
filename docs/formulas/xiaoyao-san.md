@@ -65,6 +65,8 @@ last_reviewed: 2026-09-16
 
 ## 관련 지식망
 
+- [소요산, 느긋한 이름 아래 모인 여덟 약재 — 민성의담](../classical-stories/xiaoyao-name-and-rest.md)
+
 - [만성피로](../conditions/chronic-fatigue.md)
 - [피로·기력저하 처방 찾기](../herbal-integrated/formula-for-fatigue.md)
 - [여성·월경·산후 처방 찾기](../herbal-integrated/formula-for-women.md)
