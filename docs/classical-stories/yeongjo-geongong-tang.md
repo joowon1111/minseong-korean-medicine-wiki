@@ -65,7 +65,7 @@ status: 검토완료
 
 ## 함께 읽기
 
-[이중탕의 구성과 문헌별 차이](../formulas/lizhong-tang.md) · [구토·설사와 갈증을 함께 살핀 옛 처방](vomiting-diarrhea-thirst.md) · [명종의 진어 기록에도 등장하는 경옥고](gyeongokgo-slow-preparation.md)
+[이중탕의 구성과 문헌별 차이](../formulas/lizhong-tang.md) · [구토·설사와 갈증을 함께 살핀 옛 처방](vomiting-diarrhea-thirst.md) · [명종의 진어 기록에도 등장하는 경옥고](gyeongokgo-slow-preparation.md) · [세종이 약초를 캔 사람까지 기록하게 한 사연](sejong-herb-collectors.md)
 
 ## 출전과 참고 자료
 
