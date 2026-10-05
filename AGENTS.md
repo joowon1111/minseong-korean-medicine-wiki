@@ -38,6 +38,14 @@ A failed or incomplete security check blocks publication; do not silently pass i
 - In parallel, maintain the existing evidence layer: CPG, SR/meta-analysis, RCT, observational/safety and relevant mechanistic research. These are different study roles, not an automatic chain proving an intervention. Link verified evidence cards instead of pasting papers under every classic page; match population, formulation, comparator, outcomes and safety.
 - Report the concrete completed tranche and remaining scope. Do not call a reading summary a complete translation or a connected index a completed critical edition.
 
+## Minseong Uidam editorial voice
+
+- Write `docs/classical-stories/` for general readers in natural Korean. Start from a documented person, event, familiar ingredient or concrete detail; vary each article's structure and ending.
+- Prefer verified royal treatment records, medical case histories, childhood care, and stories behind herbs, formula names and preparation. Check original dates and passages; never invent dialogue, expressions, weather, a cure or the author's clinical experience. Label hypothetical examples as such.
+- Explain unfamiliar medical terms where needed. Reduce repeated abstract phrases such as “배합의 방향을 읽는다”, “질문을 남긴다”, “한 걸음 더 들어간다” and obligatory moral or consultation endings. Do not make every title end in “-까”.
+- Preserve source citations, distinctions between historical observation and modern evidence, and clinically important safety information. Keep methodological caveats concise and near the relevant claim; do not repeat boilerplate in every paragraph.
+- Keep editorial planning, automation and verification notes out of reader-facing articles. Keep the season-neutral framing of the tonic columns and the requested emphasis on Gyeongokgo as the first standalone formula in Donguibogam's main text.
+
 ## Archive publication workflow
 
 - The repository owner explicitly authorized merging and deploying requested archive work on 2026-09-09, including future archive tasks. After applicable security, test, build and link checks pass, proceed through PR merge and production deployment verification without asking for routine publication confirmation again.
