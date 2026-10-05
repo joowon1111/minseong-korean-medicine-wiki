@@ -85,4 +85,6 @@ last_reviewed: 2026-10-02
 
 발한이 줄었다는 한 항목보다 **땀 뒤 기력, 냉감, 식사량, 기립·보행, 수면과 일상활동**이 함께 회복되는지 봅니다. 저혈압·실신·의식 변화·흉통·호흡곤란이 있으면 처방 반응을 기다리지 않습니다.
 
+역사적 경과는 [소음인 열한 살 아이의 발한과 회복](../classical-stories/sasang/soeumin-sweating-case.md)에서 읽습니다. 『동의수세보원』 6-32는 땀과 대소변, 죽을 먹는 양과 스스로 앉고 걷는 변화를 함께 기록했습니다. 그 의안의 가감·투여와 위 표의 『동의사상신편』 계통 구성을 같은 조제 기록으로 합치지 않습니다.
+
 → [소음인 망양 중증도](../sasang-pattern-differential/soeumin-severity-map.md) · [계지부자탕](../sasang-formula-library/gyejibujatang.md)
