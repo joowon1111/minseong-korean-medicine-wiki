@@ -195,29 +195,37 @@ The archive connects [Huangdi Neijing (Korean)](../classics/huangdi-neijing.md) 
 
 ## 8. Korean Medicine Through Stories {#stories}
 
-**Minseong Uidam (민성의담, 旻城醫談)** is this archive's story series. The short introductions below open a few of its existing columns. The full stories are in Korean, with links to their historical sources.
+**Minseong Uidam (민성의담, 旻城醫談)** is this archive's story series. These four introductions give English readers a scene from each column. The full stories are in Korean; each link leads to the column and its historical sources.
 
 ### Heo Jun thought about the reader's purse
 
-A medical book might explain a prescription perfectly and still be of little help to someone who could not afford its ingredients. In Donguibogam's introductory editorial notes, Heo Jun raised the difficulty faced by poor households. That practical concern makes the famous compilation feel less remote: its reader had to find and pay for medicine.[^heo]
+In the notes at the front of *Donguibogam*, Heo Jun stops to consider an awkward question: how could a poor household obtain all the ingredients required by an oversized prescription? Simply shrinking every recipe to the same weight would cause another problem. If a formula contained twenty or thirty ingredients, hardly any of each would remain. He therefore explained how he would present prescriptions as individual packets that people could more readily prepare.[^heo]
+
+The same notes promise Korean names for locally used medicinal materials, along with where and when to gather them. Heo Jun was arranging a major medical book, but the work also led him to imagine the hands that would find an ingredient and make up a packet. That is a side of the royal physician we might miss if we open *Donguibogam* only to look for a famous formula.[^heo]
 
 [Meet the readers imagined by Heo Jun (Korean)](../classical-stories/heo-jun-book-and-reader.md).
 
 ### A king gave a medicine a new name
 
-A short entry in the Annals of King Yeongjo records something unusual: a formula receiving a royal name. On the twenty-first day of the twelfth lunar month in 1758, the king attributed an improvement in his condition to Ijung-tang and named it Ijung-geongong-tang. The entry preserves what the king said; it is not a modern clinical trial.[^yeongjo]
+The *Annals of King Yeongjo* say that the king's condition had improved **a little**. Yeongjo credited a medicine called Ijung-tang and, on the twenty-first day of the twelfth lunar month in 1758, gave it a new name: Ijung-geongong-tang, roughly “Ijung-tang that earned merit.” The restrained record of “a little” improvement and the king's grand name sit side by side. The annal preserves his judgment on that day, without telling us exactly which symptoms changed.[^yeongjo]
+
+Nine years later, the medicine appears in a different kind of scene. Yeongjo's grandson, the future King Jeongjo, urged him to take it after the king had put it aside. His first appeal secured permission for a medicinal tea called samryeong, but not yet for the named medicine. He wrote again that same day, and Yeongjo finally agreed. A prescription book can tell us how an older formula was recorded; the annals also show a grandson worrying about whether the king would take it.[^grandson]
 
 [Read about the medicine named at court (Korean)](../classical-stories/yeongjo-geongong-tang.md).
 
 ### A child's meal—and a meal for the caregiver
 
-King Jeongjo's 1783 rules for the relief of vulnerable children addressed food, clothing and medical care. They also provided for women nursing the children. Amid the administrative detail, the caregiver's own meal comes into view. These were instructions for relief, not proof that every child received it.[^children]
+Rice, soybean paste and seaweed appear in King Jeongjo's 1783 rules for children who were begging or had been abandoned. The rules specified food and shelter and called for medical attention when a child was ill. They also allotted food to women who would nurse the youngest children. Someone had remembered that a caregiver needs to eat too.[^children]
+
+The regulations went beyond a first handover. Officials were told to check the children's condition and the care they received at the end of each month, lest the scheme exist only on paper. We cannot tell from the order how many children actually benefited. It does let us see what its authors thought care required: a place to stay, meals, clothing, a person to feed an infant, and a way to notice if that care failed.[^children]
 
 [Read the story of children and those who fed them (Korean)](../classical-stories/jeongjo-child-care.md).
 
 ### The name of an herb can carry several stories
 
-The characters in **danggui (當歸)** suggest “returning.” But a memorable explanation is not necessarily a proven origin. The column on this name follows interpretations recorded in the Chinese Bencao Gangmu and shows how a familiar medicinal name gathered meaning. This is part of a shared textual heritage, not a uniquely Korean naming legend.
+**Danggui (當歸)** sounds like a message: “ought to return.” Return from where? The Chinese *Bencao Gangmu* records an older custom of giving peonies and using another name for danggui when calling someone back. The peony's other name suggested parting. Its entry also offers a medical explanation, suggesting that the ingredient helped *qi* and Blood find their proper places in traditional theory. The two interpretations stand together on the page.[^danggui]
+
+Neither story proves how the name first arose. One concerns people calling to one another; the other comes from a physician's understanding of an herb. The Korean column follows both trails through a Chinese materia medica that Korean readers inherited and studied. Its two characters held room for both a call to someone far away and a physician's conjecture.
 
 [Follow the name of danggui through the texts (Korean)](../classical-stories/angelica-returning-name.md), or [browse all Minseong Uidam stories (Korean)](../classical-stories/index.md).
 
@@ -289,4 +297,6 @@ The sources below have different roles: terminology references explain vocabular
 [^donguibogam]: National Library of Korea, [Donguibogam](https://www.nl.go.kr/EN/contents/EN30701000000.do) (English), compilation, publication, organization and UNESCO inscription.
 [^heo]: Heo Jun, *Donguibogam*, [editorial notes, 集例](https://zh.wikisource.org/wiki/東醫寶鑒/集例) (Classical Chinese transcription). The English paragraph is a brief paraphrase, not a translation of the complete notes.
 [^yeongjo]: National Institute of Korean History, [*Annals of King Yeongjo*, volume 92, year 34, lunar month 12, day 21, second entry](https://sillok.history.go.kr/id/kua_13412021_002) (Korean translation and Classical Chinese original).
+[^grandson]: National Institute of Korean History, [*Annals of King Yeongjo*, volume 108, year 43, lunar month 3, day 17, second entry](https://sillok.history.go.kr/id/kua_14303017_002) and [third entry](https://sillok.history.go.kr/id/kua_14303017_003) (Korean translation and Classical Chinese original). The petitioner was Yeongjo's grandson, the future King Jeongjo.
 [^children]: National Institute of Korean History, [*Annals of King Jeongjo*, volume 16, year 7, lunar month 11, day 5, third entry](https://sillok.history.go.kr/id/kva_10711005_003) (Korean translation and Classical Chinese original), regulations for the relief of vulnerable children.
+[^danggui]: Li Shizhen, *Bencao Gangmu*, volume 14, “Danggui,” section on names. [Classical Chinese transcription of the Siku Quanshu edition](https://zh.wikisource.org/zh/本草綱目_(四庫全書本)/卷14). The older custom is reported there from *Gujin Zhu*; the medical explanation is presented as a conjecture, not an established etymology.
