@@ -1193,8 +1193,11 @@ nav:
       - 같은 기침인데 왜 약이 달라졌을까: classical-stories/cough-formulas.md
       - 다리가 당기는데 왜 곧바로 경련약을 쓰지 않았을까: classical-stories/cramps-treatment-order.md
       - 몸은 지쳤는데 왜 잠은 오지 않았을까: classical-stories/insomnia-fatigue.md
+      - 복통에 쓰는 탕약에 왜 엿이 들어갔을까: classical-stories/abdominal-pain-malt-syrup.md
+      - 속이 답답한데 왜 차고 따뜻한 약을 함께 썼을까: classical-stories/digestive-cold-warm-pairing.md
       - 사상의학 이야기:
         - 설사가 심한데 왜 평소 소화부터 살폈을까: classical-stories/sasang/soyangin-diarrhea-case.md
+        - 새 병이 나은 뒤에도 평소의 불편을 살피다: classical-stories/sasang/taeeumin-baseline-recovery.md
     - 한의학 고전:
       - classics/index.md
       - 황제내경: classics/huangdi-neijing.md
