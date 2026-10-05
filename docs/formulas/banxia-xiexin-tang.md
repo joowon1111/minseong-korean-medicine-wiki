@@ -23,7 +23,7 @@ description: 반하사심탕의 신개고강·한열평조 구조와 심하비·
 | 국제 연구명 | Banxia Xiexin Tang/Decoction, Banha-sasim-tang, Hange-shashin-to |
 | 현대 연구축 | 기능성소화불량, 위장관 운동·그렐린, 상부와 하부 위장관 증상 |
 
-심하비의 감별과 배합을 이야기로 읽으려면 [속이 답답한데 왜 차고 따뜻한 약을 함께 썼을까](../classical-stories/digestive-cold-warm-pairing.md)를 참고하세요. 원문이 구별한 그득함·통증과 후대의 한열 배합 해석을 연결합니다.
+심하비의 감별과 배합을 이야기로 읽으려면 [한 약첩에 담긴 차가움과 따뜻함](../classical-stories/digestive-cold-warm-pairing.md)를 참고하세요. 원문이 구별한 그득함·통증과 후대의 한열 배합 해석을 연결합니다.
 
 ## 일곱 약재가 만드는 처방 구조
 

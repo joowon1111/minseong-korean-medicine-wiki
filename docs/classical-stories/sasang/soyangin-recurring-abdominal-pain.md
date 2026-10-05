@@ -1,11 +1,11 @@
 ---
-title: 오래된 복통에 왜 세 가지 처방이 등장할까
+title: 세 사람의 복통, 서로 달랐던 회복의 시간
 description: 동의수세보원 신축본 9-30의 소양인 복통 치험례 세 건을 따라 통증의 지속과 재발, 동반 증후, 치료와 조리의 차이를 읽습니다.
 tags: [민성의담, 고전 속 한의학, 사상의학 이야기, 동의수세보원, 소양인, 복통, 활석고삼탕, 독활지황탕]
 status: 검토완료
 ---
 
-# 오래된 복통에 왜 세 가지 처방이 등장할까
+# 세 사람의 복통, 서로 달랐던 회복의 시간
 
 [민성의담](../index.md) · 사상의학 이야기 04
 
@@ -60,7 +60,7 @@ status: 검토완료
 
 ## 함께 읽기
 
-[소양인 병증 감별](../../sasang-pattern-differential/soyangin-severity-map.md) · [소양인 처방 배합망](../../sasang-formula-combination-network/soyangin-network.md) · [소증과 현재 상태의 기록](../../sasang-original-symptoms/index.md#baseline-current) · [설사가 심한데 왜 평소 소화부터 살폈을까](soyangin-diarrhea-case.md)
+[소양인 병증 감별](../../sasang-pattern-differential/soyangin-severity-map.md) · [소양인 처방 배합망](../../sasang-formula-combination-network/soyangin-network.md) · [소증과 현재 상태의 기록](../../sasang-original-symptoms/index.md#baseline-current) · [열일곱 소녀의 설사, 그보다 오래된 소화불량](soyangin-diarrhea-case.md)
 
 ## 출전과 참고 자료
 

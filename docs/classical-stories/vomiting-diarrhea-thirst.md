@@ -1,11 +1,11 @@
 ---
-title: 토하고 설사하는데 왜 갈증을 함께 살폈을까
+title: 구토와 설사 사이, 물을 찾는 사람
 description: 상한론 곽란편 382·386·390조에서 오령산과 이중환의 갈림점, 구토와 설사에 따른 가감, 증상이 멎은 뒤의 전신 상태를 읽습니다.
 tags: [민성의담, 고전 속 한의학, 상한론, 곽란, 구토, 설사, 오령산, 이중환, 생강, 백출]
 status: 검토완료
 ---
 
-# 토하고 설사하는데 왜 갈증을 함께 살폈을까
+# 구토와 설사 사이, 물을 찾는 사람
 
 [민성의담](index.md) · 여섯 번째 이야기
 
@@ -62,7 +62,7 @@ status: 검토완료
 
 ## 함께 읽기
 
-[곽란편 386조와 이중환 원방](../classics/shanghanlun/clauses/huoluan.md#clause-386)에서 가감의 전체 맥락을 확인하고, [오령산](../formulas/wuling-san.md)과 [이중탕의 원방·후대 수록본 구분](../formulas/lizhong-tang.md#edition-and-clinical-choice)을 비교한다. 생강을 별도로 더한 이유는 다음 글 [같은 생강인데 왜 생강과 건강을 함께 썼을까](ginger-fresh-dried.md)로 이어진다.
+[곽란편 386조와 이중환 원방](../classics/shanghanlun/clauses/huoluan.md#clause-386)에서 가감의 전체 맥락을 확인하고, [오령산](../formulas/wuling-san.md)과 [이중탕의 원방·후대 수록본 구분](../formulas/lizhong-tang.md#edition-and-clinical-choice)을 비교한다. 생강을 별도로 더한 이유는 다음 글 [생강과 말린 생강이 만난 약첩](ginger-fresh-dried.md)로 이어진다.
 
 이 글은 고전의 처방 판단을 읽는 학습 자료이며 개인의 진단·자가조제 지침이 아니다.
 

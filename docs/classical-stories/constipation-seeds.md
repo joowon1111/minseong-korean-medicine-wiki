@@ -1,11 +1,11 @@
 ---
-title: 변비 처방에 왜 씨앗 두 가지가 들어갔을까
+title: 변비 처방 속 씨앗 둘과 꿀 한 가지
 description: 상한론 247조 마자인환의 마자인·행인과 대황·지실·후박·작약, 꿀 환제의 배합에서 윤장과 통변의 방향을 읽습니다.
 tags: [민성의담, 고전 속 한의학, 상한론, 마자인환, 변비, 마자인, 행인, 처방 배합]
 status: 검토완료
 ---
 
-# 변비 처방에 왜 씨앗 두 가지가 들어갔을까
+# 변비 처방 속 씨앗 둘과 꿀 한 가지
 
 [민성의담](index.md) · 열한 번째 이야기
 
@@ -71,7 +71,7 @@ status: 검토완료
 
 ## 함께 읽기
 
-[마자인환의 구성과 현대 연구](../formulas/mazi-ren-wan.md) · [변비의 감별과 배변 평가](../conditions/constipation.md) · [『상한론』 247조 읽기](../classics/shanghanlun/clauses/yangming.md#clause-247) · [온병이 나아지는데 왜 약재를 다시 뺐을까](sasang/taeeumin-formula-adjustment.md)
+[마자인환의 구성과 현대 연구](../formulas/mazi-ren-wan.md) · [변비의 감별과 배변 평가](../conditions/constipation.md) · [『상한론』 247조 읽기](../classics/shanghanlun/clauses/yangming.md#clause-247) · [회복하는 동안 약첩에서 빠진 대황](sasang/taeeumin-formula-adjustment.md)
 
 ## 출전과 참고 자료
 
