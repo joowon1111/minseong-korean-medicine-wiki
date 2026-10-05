@@ -8,6 +8,7 @@ hide:
 <h1>민성 한의학 아카이브</h1>
 <p class="ms-sub">한의학의 기초부터 본초·방제·침구·사상의학·현대 임상근거까지 연결해서 찾아보세요.</p>
 </div>
+<p class="km-guide-entry" lang="en"><a href="korean-medicine-guide/">Korean Medicine Guide — Start here in English</a></p>
 <div class="ms-grid">
 <a class="ms-card" href="portal/basics/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14"/></svg> 한의학 기초</strong><span>장부·기혈진액·병인병기·변증·임상 추론</span></a>
 <a class="ms-card" href="portal/herbs-formulas/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 4c0 10-5 15-12 12C5 9 10 4 20 4Z"/><path d="m4 20 11-11m-7 7v-5m0 5h5"/></svg> 본초·방제</strong><span>본초학·방제학·보익·처방 구조</span></a>

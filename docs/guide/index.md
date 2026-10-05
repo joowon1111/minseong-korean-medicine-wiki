@@ -13,6 +13,8 @@ last_reviewed: "2026-08-30"
 
 `환자의 표현 → 증상 → 관련 질환과 감별 → 한의학적 변증 → 치료자료 → 현대 임상근거 → 출처`
 
+<p lang="en">Reading in English? <a href="../korean-medicine-guide/">Start with the Korean Medicine Guide.</a></p>
+
 ## 처음 방문했다면
 
 | 궁금한 내용 | 시작할 곳 |

@@ -13,6 +13,8 @@ status: 검토완료
 
 낯선 약 이름은 사연과 함께 풀고, 궁금해지는 대목에는 원문과 관련 문서를 연결했습니다. 왕실의 진료부터 어린이 돌봄, 본초와 처방의 유래, 이제마가 남긴 환자 기록까지 한 편씩 만나 보세요.
 
+<p lang="en">New to Korean Medicine? <a href="../korean-medicine-guide/#stories">Meet the people and stories in our English guide.</a></p>
+
 ## 칼럼 읽기
 
 ### [기침은 같아도 약첩은 달랐다](cough-formulas.md)
