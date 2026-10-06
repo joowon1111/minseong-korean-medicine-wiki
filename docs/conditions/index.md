@@ -103,13 +103,16 @@ last_reviewed: 2026-09-21
 ### 수면·정서·피로·회복 {#_6}
 
 - [불면증·수면장애](insomnia.md)
-- [만성피로](chronic-fatigue.md)
+- [만성피로·번아웃 감별](chronic-fatigue.md#burnout)
+- [우울감·우울증 — 직장인·갱년기·노년기](depression.md)
 - [불안·과도한 걱정](anxiety.md)
 - [수술 후 회복·기력저하](postoperative-recovery.md)
 
 <details markdown="1">
 <summary>수면·정서·피로·회복 더 보기</summary>
 
+- [수험생 집중력·학습피로·시험불안](student-concentration.md)
+- [ADHD·주의력결핍 과잉행동장애](adhd.md)
 - [두근거림·심계 — 가슴이 뛰고 맥이 건너뛰는 느낌](palpitation.md)
 - [화병·울화·가슴이 답답하고 열이 치밀어요](hwabyeong.md)
 - [공황발작·갑자기 심장이 뛰고 숨이 막혀요](panic-disorder.md)
