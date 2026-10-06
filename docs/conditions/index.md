@@ -111,7 +111,9 @@ last_reviewed: 2026-09-21
 <details markdown="1">
 <summary>수면·정서·피로·회복 더 보기</summary>
 
-- [수험생 집중력·학습피로·시험불안](student-concentration.md)\n- [ADHD·주의력결핍 과잉행동장애](adhd.md)\n- [두근거림·심계 — 가슴이 뛰고 맥이 건너뛰는 느낌](palpitation.md)
+- [수험생 집중력·학습피로·시험불안](student-concentration.md)
+- [ADHD·주의력결핍 과잉행동장애](adhd.md)
+- [두근거림·심계 — 가슴이 뛰고 맥이 건너뛰는 느낌](palpitation.md)
 - [화병·울화·가슴이 답답하고 열이 치밀어요](hwabyeong.md)
 - [공황발작·갑자기 심장이 뛰고 숨이 막혀요](panic-disorder.md)
 - [기억력저하·경도인지장애·건망증](cognitive-impairment.md)
