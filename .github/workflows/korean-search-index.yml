@@ -3,8 +3,12 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+
+# Protected main is updated through a pull request; this workflow never pushes to it.
 permissions:
   contents: write
+  pull-requests: write
+
 jobs:
   build-index:
     if: github.actor != 'github-actions[bot]'
@@ -17,12 +21,21 @@ jobs:
       - run: pip install pyyaml
       - name: Check for committed secrets
         run: python tools/check_secrets.py
-      - run: python tools/build_korean_search_index.py
-      - name: Commit search index if changed
+      - name: Build Korean search index
+        run: python tools/build_korean_search_index.py
+      - name: Check generated index for secrets
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/assets/korean-search-index.json
           python tools/check_secrets.py --staged
-          git diff --cached --quiet || git commit -m "Update Korean search fallback index"
-          git push
+      - name: Create or update search index pull request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: docs/assets/korean-search-index.json
+          branch: automation/update-korean-search-index
+          delete-branch: true
+          commit-message: Update Korean search fallback index
+          title: Update Korean search fallback index
+          body: |
+            Automatically refresh the committed Korean search fallback index.
+            The deployment workflow also rebuilds the index before publishing.
