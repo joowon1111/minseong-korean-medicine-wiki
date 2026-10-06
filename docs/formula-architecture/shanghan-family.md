@@ -28,7 +28,7 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 금궤요략의 병증 맥락 | 대표 처방과 다음 자료 |
 |---|---|
 | 담음·기침·호흡 | [영계출감탕](../formulas/linggui-zhugan-tang.md) · [맥문동탕](../formulas/maidong-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) · [정천탕](../formulas/dingchuan-tang.md) |
-| 수습·부종·소변 | [복령음](../formulas/fangji-huangqi-tang.md) 문서의 연관 처방 항목과 [오령산](../formulas/wuling-san.md)·[진무탕](../formulas/zhenwu-tang.md)을 비교 |
+| 수습·부종·소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) |
 | 부인과 혈증·월경 | [계지복령환](../formulas/guizhi-fuling-wan.md) · [당귀작약산](../formulas/danggui-shaoyao-san.md) · [온경탕](../formulas/wenjing-tang.md) |
 | 허로·심신 불안 | [산조인탕](../formulas/suanzaoren-tang.md)과 시호가용골모려탕의 출전·구성·원문을 구분 |
 
