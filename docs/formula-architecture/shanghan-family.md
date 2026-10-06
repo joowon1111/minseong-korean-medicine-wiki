@@ -15,7 +15,7 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 표증과 번조·내열 | [대청룡탕](../formulas/daqinglong-tang.md) | 표실의 단서와 번조가 함께 제시되는 문맥, 발한 뒤 변화 |
 | 표한과 수음 | [소청룡탕](../formulas/xiaoqinglong-tang.md) | 외감 표증과 수음·기침의 동반 관계, 오령산·영계출감탕과의 병위 차이 |
 | 소양병과 합병 | [소시호탕](../formulas/xiaochaihu-tang.md) · [시호계지탕](../formulas/chaihu-guizhi-tang.md) · [대시호탕](../formulas/dachaihu-tang.md) · [시호가용골모려탕](../formulas/chaihu-jia-longgu-muli-tang.md) | 소양의 왕래한열·흉협고만, 표증 또는 리실·번경이 함께 있는지 |
-| 양명 열과 갈증 | [백호탕](../formulas/baihu-tang.md) · 갈근황금황련탕(갈근금련탕) | 열·갈증·한출과 하리 등 원문 단서, 두 처방의 구성·치법 차이 |
+| 양명 열과 갈증 | [백호탕](../formulas/baihu-tang.md) · [갈근황금황련탕(갈근금련탕)](../formulas/gegen-qinlian-tang.md) | 열·갈증·한출과 하리 등 원문 단서, 두 처방의 구성·치법 차이 |
 | 중초 허한·복통 | [이중탕](../formulas/lizhong-tang.md) · [소건중탕](../formulas/xiaojianzhong-tang.md) | 복통·구토·설사·허로의 조합, 온중과 건중의 차이 |
 | 한열착잡과 심하비 | [반하사심탕](../formulas/banxia-xiexin-tang.md) | 심하비·구역·장명 등과 생강사심탕·감초사심탕 조문의 차이 |
 | 수기와 소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) | 갈증·소변·구토·어지럼 및 맥의 조합, 표리와 허실 차이 |
@@ -32,7 +32,7 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 부인과 혈증·월경 | [계지복령환](../formulas/guizhi-fuling-wan.md) · [당귀작약산](../formulas/danggui-shaoyao-san.md) · [온경탕](../formulas/wenjing-tang.md) |
 | 허로·심신 불안 | [산조인탕](../formulas/suanzaoren-tang.md)과 시호가용골모려탕의 출전·구성·원문을 구분 |
 
-※ 복령음은 《금궤요략》 처방이지만 현재 아카이브에 독립된 처방 문서가 없어, 유사한 이름의 방기황기탕 페이지를 복령음 설명처럼 링크하지 않습니다. 개별 처방의 독립 문서는 출전·구성·원전 확인을 거쳐 보강할 수 있습니다.
+※ 복령음·오매환 등 이미지에 등장하지만 아직 독립된 처방 문서가 없는 항목은, 이름이 비슷하거나 관련된 다른 처방 문서에 억지로 연결하지 않았습니다. 해당 처방은 원전 출전과 구성을 확인해 후속 보강할 수 있습니다.
 
 ## 참고 이미지의 질환별 나열을 읽는 기준
 
