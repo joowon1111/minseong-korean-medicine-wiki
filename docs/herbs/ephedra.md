@@ -36,6 +36,15 @@ description: 마황(麻黃) — 본초의 성미·귀경·효능·병증·배합
 
 → [풍한·풍열 해표 본초 비교](../herbal-integrated/herb-comparisons.md#exterior-releasing-herbs)
 
+## 고전의 발한 주의 조문 {#classical-sweating-cautions}
+
+《상한론》의 발한 관련 조문은 겉에 한증이 보여도 발한을 서두르지 말아야 할 조건을 함께 기록합니다. 제49조는 하법 뒤 몸이 무겁고 심계가 나타나며 척맥이 미약한 경우를, 제50조는 척맥이 지하고 영기가 부족한 경우를 발한을 경계할 맥락으로 설명합니다. 제38조는 대청룡탕 조문에서 미약맥·자한·오풍이 있으면 복용하지 말라고 합니다.
+
+- [태양병 49·50조: 발한과 이허·영혈부족](../classics/shanghanlun/clauses/taiyang-middle.md#clause-049)
+- [대청룡탕의 적응과 금기, 38조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-038)
+
+이 조문들은 고전의 변증과 치법 문맥을 보여줍니다. 현대 마황 제제의 적정량이나 안전성을 산정하는 자료가 아니므로, 고전 용량을 현대 제형에 환산하지 않습니다.
+
 ## 약용부위·포제·제형 {#processing}
 
 마황은 지상경을 쓰며 **마황근과 약용부위가 다릅니다.** 생마황, 밀자마황 등 포제품과 ephedrine계 분리성분·표준화 추출물도 구분합니다.
