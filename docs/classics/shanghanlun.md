@@ -17,12 +17,14 @@ description: 상한론의 육경병·맥증·치법·대표 고방을 방제 구
 
 태양·양명·소양·태음·소음·궐음은 책을 읽는 여섯 큰 축입니다. 독감·장염 같은 현대 질환 여섯 개를 뜻하지 않으며, 모든 사람이 태양에서 궐음까지 일정한 순서로 진행한다는 뜻도 아닙니다. 같은 시점에 여러 양상이 겹치거나 치료 뒤 증상이 달라지는 경우까지 원문 맥락에서 살핍니다.
 
-| 읽는 축 | 조문에서 먼저 확인할 내용 | 다음 자료 |
+| 읽는 축 | 조문에서 먼저 확인할 내용 | 원문·해설 자료 |
 |---|---|---|
-| 태양 | 오한·발열·두항강통·맥부와 땀의 유무 | [태양병의 기본 정의](shanghanlun/taiyang-definition.md) |
-| 양명 | 열과 갈증, 땀, 대변·복부 상태를 함께 기록하는 방식 | [육경병의 병위와 맥증](shanghan-six-channels.md) |
-| 소양 | 왕래한열·흉협고만·구역 등 증후의 조합 | [소시호탕 주치 조문](shanghanlun/xiaochaihu-indication.md) |
-| 태음·소음·궐음 | 소화·배설, 활력, 한열과 맥이 함께 달라지는 양상 | [상한론 상세 지식망](../shanghan-network/index.md) |
+| 태양 | 오한·발열·두항강통·맥부와 땀의 유무를 함께 살핍니다. | 원문: [태양 상 1–30조](shanghanlun/clauses/taiyang-upper.md) · [태양 중 31–127조](shanghanlun/clauses/taiyang-middle.md) · [태양 하 128–178조](shanghanlun/clauses/taiyang-lower.md)<br>해설: [태양병의 기본 정의](shanghanlun/taiyang-definition.md) · [계지탕](shanghanlun/guizhi-indication.md) · [마황탕](shanghanlun/mahuang-indication.md) · [계지가갈근탕](shanghanlun/guizhi-jia-gegen.md) · [갈근탕](shanghanlun/gegen-tang.md) · [대청룡탕](shanghanlun/daqinglong.md) · [소청룡탕](shanghanlun/xiaoqinglong.md) · [오령산](shanghanlun/wuling-san.md) · [마행감석탕](shanghanlun/maxing-ganshi.md) |
+| 양명 | 열·갈증·땀·대변·복부 상태를 함께 기록하고 조문의 병위와 치법을 살핍니다. | [양명편 179–262조 원문·독해](shanghanlun/clauses/yangming.md) · [육경병의 병위와 맥증](shanghan-six-channels.md) |
+| 소양 | 왕래한열·흉협고만·구역 등 증후가 함께 나타나는 양상을 살핍니다. | [소양편 263–272조 원문·독해](shanghanlun/clauses/shaoyang.md) · [소시호탕 주치 조문](shanghanlun/xiaochaihu-indication.md) |
+| 태음 | 복만·구토·설사 등 중초의 한증과 소화·배설 변화를 함께 살핍니다. | [태음편 273–280조 원문·독해](shanghanlun/clauses/taiyin.md) |
+| 소음 | 맥과 활력, 한열·수면·배설 양상의 조합 및 조문에 제시된 치료 뒤 변화를 살핍니다. | [소음편 281–325조 원문·독해](shanghanlun/clauses/shaoyin.md) |
+| 궐음 | 궐역과 한열착잡, 구토·하리 등 서로 다른 양상이 나타나는 조문 맥락을 살핍니다. | [궐음편 326–381조 원문·독해](shanghanlun/clauses/jueyin.md) |
 
 ## 대표 구조 {#_3}
 
