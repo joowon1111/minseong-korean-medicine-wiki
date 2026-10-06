@@ -25,6 +25,8 @@ last_reviewed: "2026-08-30"
 | 약재와 처방이 궁금해요 | [본초·방제](../herbal-integrated/index.md) |
 | 침·전침·약침과 경혈이 궁금해요 | [침구·치료](../acupuncture-integrated/index.md) |
 | 사상체질과 체질별 처방이 궁금해요 | [사상의학](../sasang-integrated/index.md) |
+| 기초 한의학을 퀴즈로 공부하거나 과목별로 복습하고 싶어요 | [기초 한의학 퀴즈 & 학습실](../learning/index.md) |
+| 고전 속 인물·사건·처방 이야기를 읽고 싶어요 | [민성의담](../classical-stories/index.md) |
 | 논문과 현대 임상근거를 보고 싶어요 | [연구·근거](../evidence-integrated/index.md) |
 
 증상·질환·회복관리와 모든 전문 자료를 한눈에 찾으려면 [AI 핵심 색인](../ai-index.md) 또는 [전체 둘러보기](../portal/maps.md)를 이용할 수 있습니다.
@@ -52,7 +54,7 @@ last_reviewed: "2026-08-30"
 
 ### 최신 탐색 지도는 별도로 유지
 
-아카이브에 새 증상과 질환이 추가될 때마다 이 안내 페이지에 긴 목록을 반복하지 않습니다. 최신 문서 목록과 세부 이동 경로는 [AI 핵심 색인](../ai-index.md), [증상으로 찾기](../symptom-integrated/index.md), [질환별 보기](../conditions/index.md)에서 관리합니다.
+아카이브에 새 증상과 질환이 추가될 때마다 이 안내 페이지에 긴 목록을 반복하지 않습니다. 최신 문서 목록과 세부 이동 경로는 [AI 핵심 색인](../ai-index.md), [증상으로 찾기](../symptom-integrated/index.md), [질환별 보기](../conditions/index.md)에서 관리합니다. 학습실은 퀴즈·학습카드로 기초 과목을 복습하는 곳이고, [민성의담](../classical-stories/index.md)은 고전 속 기록과 인물·처방 이야기를 읽는 연재입니다. 두 자료의 성격과 이동 경로도 [AI 핵심 색인](../ai-index.md)에서 함께 확인할 수 있습니다.
 
 이 안내 페이지는 **아카이브가 어떤 원칙으로 자료를 연결하고 운영하는지** 설명하는 역할에 집중합니다.
 

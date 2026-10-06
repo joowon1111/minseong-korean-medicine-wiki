@@ -22,6 +22,8 @@ last_reviewed: '2026-09-02'
 | 약재와 한약 처방을 알고 싶어요 | [본초·방제](herbal-integrated/index.md) |
 | 침·전침·약침과 경혈을 찾고 싶어요 | [침구·치료](acupuncture-integrated/index.md) |
 | 체질과 사상처방을 알고 싶어요 | [사상의학](sasang-integrated/index.md) |
+| 한의학 기초를 퀴즈와 학습카드로 복습하고 싶어요 | [기초 한의학 퀴즈 & 학습실](learning/index.md) |
+| 고전 속 인물·사건·처방 이야기를 읽고 싶어요 | [민성의담](classical-stories/index.md) |
 | 논문과 임상근거를 확인하고 싶어요 | [연구·근거](evidence-integrated/index.md) |
 | 전체 지식망을 한눈에 보고 싶어요 | [전체 둘러보기](portal/maps.md) |
 
@@ -246,6 +248,8 @@ AI 검색에서 중요한 관계는 다음과 같습니다.
 - [침구·치료](acupuncture-integrated/index.md)
 - [사상의학](sasang-integrated/index.md)
 - [연구·근거](evidence-integrated/index.md)
+- [기초 한의학 퀴즈 & 학습실](learning/index.md)
+- [민성의담 — 고전 속 인물과 처방 이야기](classical-stories/index.md)
 - [전체 둘러보기](portal/maps.md)
 
 민성 한의학 아카이브는 **환자가 실제로 사용하는 말에서 출발해 증상과 질환을 구분하고, 한의학적 해석과 치료자료를 현대 임상근거 및 출처까지 추적할 수 있도록 연결**합니다.
