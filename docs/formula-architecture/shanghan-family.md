@@ -21,13 +21,17 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 수기와 소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) | 갈증·소변·구토·어지럼 및 맥의 조합, 표리와 허실 차이 |
 | 궐음의 한열착잡 | 오매환 | 상열하한·궐역·구토·하리 등을 하나의 증상만으로 환원하지 않고 조문 전체에서 읽기 |
 
+## 후대 처방은 출전을 따로 확인하기
+
+참고 이미지에는 《상한론》·《금궤요략》 처방 외의 후대 처방도 함께 등장합니다. 예를 들어 **정천탕(定喘湯)**은 두 고전의 방제가 아닙니다. 문헌을 대조한 연구는 명대 《섭생중묘방(攝生衆妙方)》에서 정천탕을 확인하고, 《만병회춘(萬病回春)》에도 천명·천급을 다스리는 처방으로 실린 점을 설명합니다. 따라서 [정천탕 문서](../formulas/dingchuan-tang.md)는 후대 처방의 출전·구성 맥락에서 읽고, 장중경 고방과 같은 계통으로 묶지 않습니다. [국내 문헌 비교 연구](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART002878376)
+
 ## 금궤요략에서 함께 살필 처방
 
 상한론과 금궤요략은 장중경 의학의 전승을 공유하지만 문헌 구성과 다루는 병증이 다릅니다. 이미지나 현대 임상 요약에서 두 책의 처방을 한데 묶어 소개하더라도, 아카이브에서는 가능한 한 출전을 분리해 확인합니다.
 
 | 금궤요략의 병증 맥락 | 대표 처방과 다음 자료 |
 |---|---|
-| 담음·기침·호흡 | [영계출감탕](../formulas/linggui-zhugan-tang.md) · [맥문동탕](../formulas/maidong-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) · [정천탕](../formulas/dingchuan-tang.md) |
+| 담음·기침·호흡 | [영계출감탕](../formulas/linggui-zhugan-tang.md) · [맥문동탕](../formulas/maidong-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) |
 | 수습·부종·소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) |
 | 부인과 혈증·월경 | [계지복령환](../formulas/guizhi-fuling-wan.md) · [당귀작약산](../formulas/danggui-shaoyao-san.md) · [온경탕](../formulas/wenjing-tang.md) |
 | 허로·심신 불안 | [산조인탕](../formulas/suanzaoren-tang.md)과 시호가용골모려탕의 출전·구성·원문을 구분 |
