@@ -1,14 +1,16 @@
 ---
 title: 동의보감
-description: 허준의 동의보감을 내경·외형·잡병·탕액·침구의 구성과 양생·병증·본초·방제·경혈의 임상 탐색 흐름으로 정리합니다.
+description: 허준이 편찬한 《동의보감》의 역사와 다섯 편의 편제, 대표 원문을 소개하고 원문 열람·편별 임상 색인·탕액·침구 문서로 안내하는 대표 개요입니다.
 tags: [동의보감, 허준, 한의학고전, 탕액, 침구, 양생]
 status: 검토완료
-last_reviewed: 2026-08-29
+last_reviewed: 2026-10-07
 ---
 
 # 동의보감 {#_1}
 
 《동의보감》은 허준이 편찬하고 1613년에 간행된 조선 한의학의 대표 종합 의서입니다. 인체 내부의 기능에서 신체 부위, 병증, 본초와 침구로 이어지는 구조를 통해 **사람의 몸과 생활·질병·치료를 하나의 지식체계**로 정리했습니다.
+
+이 페이지는 동의보감 자체의 역사·편제·대표 원문을 안내하는 **대표 개요**입니다. 증상에서 편별 항목과 병증·처방을 찾아보려면 [동의보감 5편 임상 색인](../donguibogam-network/index.md)을, 전사 원문과 공개 영인본을 확인하려면 [원문 열람](donguibogam/original.md)을 이용하세요.
 
 ## 다섯 편의 구성 {#_2}
 
@@ -86,7 +88,7 @@ last_reviewed: 2026-08-29
 
 - [한의학고전DB 동의보감](https://mediclassics.kr/books/8)
 - [내손안에 동의보감](https://app.mediclassics.kr/)
-- [동의보감 임상 탐색 네트워크](../donguibogam-network/index.md)
+- [동의보감 5편 임상 색인](../donguibogam-network/index.md)
 - [내경편](../donguibogam-network/index.md#naegyeong)
 - [외형편](../donguibogam-network/index.md#oehyeong)
 - [잡병편](../donguibogam-network/index.md#japbyeong)
