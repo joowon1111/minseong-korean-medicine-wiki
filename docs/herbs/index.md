@@ -44,19 +44,6 @@ last_reviewed: '2026-10-07'
 
 같은 증상도 원인이 다를 수 있습니다. 예를 들어 불면은 혈허·음허·담열·간울 등으로 나뉠 수 있고, 피로도 기허·기혈양허·기음양허·정혈부족으로 구분될 수 있으므로 본초군 하나만으로 처방을 정하지 않습니다.
 
-## 주요 본초 확장 — 독립 주제 145종
-
-개별 본초 문서 149개에서 같은 약재를 다룬 확장·중복 페이지를 분리해 보면 **독립 본초 주제는 145종**입니다. 새로 연결한 약재는 각각 약용 부위와 전통 효능, 유사 본초 감별, 처방 맥락을 담았습니다. ‘하루 본초’도 이 145종을 중복 없이 순환합니다.
-
-| 분류 | 새로 추가한 본초 |
-|---|---|
-| 보기·자음 | [당삼](codonopsis.md) · [태자삼](pseudostellaria.md) · [황정](polygonatum-sibiricum.md) · [옥죽](polygonatum-odoratum.md) |
-| 안신·해울 | [복신](poria-spirit.md) · [합환피](albizia-bark.md) · [야교등](polygonum-multiflorum-vine.md) |
-| 승강·이기·온중 | [지각](citrus-aurantium-immature.md) · [승마](cimicifuga.md) · [향유](elsholtzia.md) · [정향](clove.md) · [고량강](lesser-galangal.md) · [오약](lindera-root.md) |
-| 청열·습열·피부 | [어성초](houttuynia.md) · [토복령](smilax-glabra.md) · [백선피](dictamnus-bark.md) |
-| 보간신·양혈·활혈 | [여정실](ligustrum-fruit.md) · [한련초](eclipta.md) · [계혈등](spatholobus-stem.md) |
-| 지혈·중진·근골·윤장 | [백모근](imperata-rhizome.md) · [백급](bletilla-tuber.md) · [용골](fossil-bone.md) · [모려](oyster-shell.md) · [모과](chaenomeles-fruit.md) · [마자인](cannabis-seed.md) |
-
 ## 대표 본초 바로가기
 
 ### 보기·회복
@@ -187,7 +174,14 @@ last_reviewed: '2026-10-07'
 | 보기·건비 | 인삼·황기·백출·복령 | [보익약 임상 지식망](categories/tonics.md) |
 | 보혈·정혈 | 당귀·숙지황·백작약·천궁 | [보혈·활혈 본초](categories/blood.md) |
 | 보신·강근골 | 녹용·산수유·두충·우슬 | [보익·피로·회복 허브](../pillar/tonic-recovery.md) |
+| 공진단 구성 | [녹용](cervi-parvum-cornu.md)·[당귀](angelica.md)·[산수유](cornus-fructus.md)·[사향](moschus.md) | [공진단 구성과 처방 맥락](../formulas/gongjin-dan.md#네-가지-구성축) |
 | 처방 비교와 선택 | 공진단·경옥고·보중익기탕·십전대보탕 등 | [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md) |
+
+### 공진단 구성 본초
+
+[녹용](cervi-parvum-cornu.md) · [당귀](angelica.md) · [산수유](cornus-fructus.md) · [사향](moschus.md)
+
+공진단의 네 본초가 보익·정혈·간신·기혈 소통의 배합에서 맡는 역할은 [공진단 구성과 처방 맥락](../formulas/gongjin-dan.md#네-가지-구성축)에서 확인합니다.
 
 ### 경옥고 구성 본초
 
