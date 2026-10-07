@@ -10652,6 +10652,36 @@
       "edition": "동의수세보원 신축본(1901) 13-31 · 원문 발췌",
       "href": "/classical-stories/sasang/taeeumin-formula-adjustment/",
       "reference": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002080161"
+    },
+    {
+      "title": "소음인 · 식사 때마다 얼굴에 흐른 땀",
+      "original": "每飯時，汗流滿面矣。",
+      "originalLabel": "신축본 6-32 · 의안 원문 발췌",
+      "translation": "식사 때마다 얼굴에 땀이 흘렀다고 기록한다.",
+      "note": "이 구절은 발병 전 소증이다. 같은 땀이라도 발병 뒤의 발열·다한과는 시간 맥락을 구분해 읽는다. 땀 하나로 체질이나 병증을 정하지 않는다.",
+      "edition": "동의수세보원 신축본(1901) 6-32 · 원문·번역은 연결한 의안 해설과 대조",
+      "href": "/classical-stories/sasang/soeumin-sweating-case/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태음인 · 발병 전의 네 가지 소증",
+      "original": "素有怔忡 無汗 氣短 結咳矣",
+      "originalLabel": "신축본 12-10 · 의안 원문 발췌",
+      "translation": "평소 정충·무한·기단·결해가 있었다고 기록한다.",
+      "note": "의안에서 새 설사·온병 이전의 상태를 먼저 적은 대목이다. 전통 증후어를 오늘날의 특정 심폐 진단과 동일시하지 않고, 연결 문서의 풀이와 병후 기록까지 함께 읽는다.",
+      "edition": "동의수세보원 신축본(1901) 12-10 · 의안 원문 발췌",
+      "href": "/classical-stories/sasang/taeeumin-baseline-recovery/",
+      "reference": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=21289"
+    },
+    {
+      "title": "태음인 · 설사 뒤 달라진 배변",
+      "original": "至六日 有大便一日不通之證",
+      "originalLabel": "신축본 13-31 · 의안 원문 발췌",
+      "translation": "엿새째에 하루 동안 대변을 보지 못하는 변화가 나타났다고 기록한다.",
+      "note": "앞선 무른 변·설사에서 배변 정지로 바뀐 의안의 경과다. 이후 처방을 전환한 역사 기록이며, 현대 변비의 자가 처방 기준은 아니다.",
+      "edition": "동의수세보원 신축본(1901) 13-31 · 의안 원문 발췌",
+      "href": "/classical-stories/sasang/taeeumin-formula-adjustment/",
+      "reference": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002080161"
     }
   ]
 }
