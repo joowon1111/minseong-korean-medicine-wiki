@@ -148,7 +148,17 @@ def acupoints():
 
 def herb_cards():
     excluded = {'index', 'sasang-formula-reverse-index', 'astragalus-tonic-guide',
-                'alisma-extra', 'musk', 'fresh-rehmannia', 'rehmannia-preparata'}
+                'alisma-extra', 'musk', 'fresh-rehmannia', 'rehmannia-preparata',
+                # These newly expanded references enter the 145-item daily rotation;
+                # keep the separately curated, committed quiz deck count stable.
+                'codonopsis', 'pseudostellaria', 'polygonatum-sibiricum',
+                'polygonatum-odoratum', 'poria-spirit', 'albizia-bark',
+                'polygonum-multiflorum-vine', 'citrus-aurantium-immature',
+                'cimicifuga', 'elsholtzia', 'houttuynia', 'smilax-glabra',
+                'imperata-rhizome', 'ligustrum-fruit', 'eclipta',
+                'spatholobus-stem', 'fossil-bone', 'oyster-shell', 'clove',
+                'lesser-galangal', 'lindera-root', 'chaenomeles-fruit',
+                'dictamnus-bark', 'bletilla-tuber', 'cannabis-seed'}
     result = []
     for p in sorted((DOCS / 'herbs').glob('*.md')):
         if p.stem in excluded:

@@ -58,7 +58,7 @@ hide:
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-herbs" data-daily-topic="herbs">
-  <div class="daily-km-topic-meta"><span>하루 본초</span><span data-topic-count>4 / 30</span></div>
+  <div class="daily-km-topic-meta"><span>하루 본초</span><span data-topic-count>4 / 145</span></div>
   <h3 data-topic-title>우방자(牛蒡子)</h3>
   <p class="daily-km-topic-summary" data-topic-summary>우방자의 기원·초법, 소산풍열·선폐이인·투진소종 효능, 은교산·소풍산 속 역할과 박하·길경 감별을 정리합니다.</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
