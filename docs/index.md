@@ -85,7 +85,7 @@ hide:
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-sasang" data-daily-topic="sasang">
-  <div class="daily-km-topic-meta"><span>하루 사상의학</span><span data-topic-count>원문·풀이 67개 순환</span></div>
+  <div class="daily-km-topic-meta"><span>하루 사상의학</span><span data-topic-count>원문·풀이 83개 순환</span></div>
   <h3 data-topic-title>태양인 · 열과 격의 구분</h3>
   <p class="daily-km-topic-summary" data-topic-summary>신축본 15-5 발췌 · 원문 발췌</p>
   <blockquote class="daily-km-topic-original" data-topic-original>食物 自外入 而有所妨碍 曰噎 自內受 而有所拒格 曰膈</blockquote>
