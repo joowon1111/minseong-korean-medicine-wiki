@@ -56,6 +56,22 @@ last_reviewed: '2026-10-07'
 
 - [연자육](lotus-seed.md) · [백편두](lablab-seed.md) — 보비·건비와 만성 묽은변의 배합
 
+### 수렴·지혈과 창양 회복
+
+- [백급](bletilla-tuber.md) — 수렴지혈·소종생기
+- [대계](cirsium-japonicum.md) · [소계](cirsium-setosum.md) — 량혈지혈·산어소종, 기원종 감별
+- [측백엽](biota-leaf.md) · [지유](sanguisorba-root.md) — 량혈지혈과 약용 부위·병증 문맥
+- [포황](cattail-pollen.md) · [삼칠](notoginseng.md) — 지혈과 혈행 관련 배합, 포제·기원 확인
+- [애엽](mugwort-leaf.md) — 온경지혈·산한지통, 뜸쑥 원료와 구분
+
+### 수렴·지혈과 창양 회복
+
+- [백급](bletilla-tuber.md) — 수렴지혈·소종생기
+- [대계](cirsium-japonicum.md) · [소계](cirsium-setosum.md) — 량혈지혈·산어소종, 기원종 감별
+- [측백엽](biota-leaf.md) · [지유](sanguisorba-root.md) — 량혈지혈과 약용 부위·병증 문맥
+- [포황](cattail-pollen.md) · [삼칠](notoginseng.md) — 지혈과 혈행 관련 배합, 포제·기원 확인
+- [애엽](mugwort-leaf.md) — 온경지혈·산한지통, 뜸쑥 원료와 구분
+
 ### 보혈·양혈·활혈
 
 - [당귀](angelica.md) — 보혈하면서 혈행을 돕는 대표 본초
@@ -106,6 +122,20 @@ last_reviewed: '2026-10-07'
 - [치자](gardenia.md) — 사화제번·청열이습과 처방별 배합
 - [용담·용담초](gentian-root.md) — 청열조습·사간담화
 - [인진·인진호](artemisia-capillaris.md) — 청리습열·퇴황과 기원 구분
+
+### 청열·생진·수렴
+
+- [노근](reed-rhizome.md) — 청열생진·제번지구, 뿌리줄기 약용
+- [마치현](purslane.md) · [백화사설초](oldenlandia.md) — 청열해독 전초 약재의 기원·역할 비교
+- [자초](purple-gromwell.md) — 량혈활혈·해독투진과 피부 배합
+- [오매](mume-fruit.md) — 염폐·생진·렴장과 오매환 처방 구조
+
+### 청열·생진·수렴
+
+- [노근](reed-rhizome.md) — 청열생진·제번지구
+- [마치현](purslane.md) · [백화사설초](oldenlandia.md) — 청열해독 전초 약재 비교
+- [자초](purple-gromwell.md) — 량혈활혈·해독투진과 피부 배합
+- [오매](mume-fruit.md) — 염폐·생진·렴장과 고전 처방
 
 ### 수분대사·이수
 

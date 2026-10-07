@@ -1,6 +1,6 @@
 {
   "schema": "minseong-daily-korean-medicine-v1",
-  "sourceNote": "본초 카드는 중복 주제를 합쳐 145종을 순환합니다. 각 카드의 출전·약용부위·전통 효능·처방 배합은 연결된 아카이브 본초 문서에서 확인합니다.",
+  "sourceNote": "본초 카드는 한 가지씩 날짜에 따라 순환합니다. 각 카드의 기원·약용부위·전통 효능·처방 배합은 연결된 아카이브 본초 문서에서 확인합니다.",
   "points": [
     {
       "code": "LU1",
@@ -6068,6 +6068,102 @@
       "summary": "마자인의 윤장통변 전통과 대마 씨앗의 식품·약재 구분, 마자인환의 배합 구조와 안전을 정리합니다.",
       "href": "/herbs/cannabis-seed/",
       "reference": "/herbs/cannabis-seed/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "애엽(艾葉)",
+      "summary": "애엽의 기원과 온경지혈·산한지통 전통, 궁귀교애탕 및 뜸쑥과의 구분을 정리합니다.",
+      "href": "/herbs/mugwort-leaf/",
+      "reference": "/herbs/mugwort-leaf/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "대계(大薊)",
+      "summary": "대계의 량혈지혈·산어소종 전통과 소계·백모근·백급 감별을 정리합니다.",
+      "href": "/herbs/cirsium-japonicum/",
+      "reference": "/herbs/cirsium-japonicum/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "소계(小薊)",
+      "summary": "소계의 기원·량혈지혈 효능과 대계·측백엽·포황의 구분을 살펴봅니다.",
+      "href": "/herbs/cirsium-setosum/",
+      "reference": "/herbs/cirsium-setosum/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "측백엽(側柏葉)",
+      "summary": "측백엽의 약용 부위, 량혈지혈·화담지해 효능 및 지혈 본초 감별을 정리합니다.",
+      "href": "/herbs/biota-leaf/",
+      "reference": "/herbs/biota-leaf/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "지유(地楡)",
+      "summary": "지유의 량혈지혈·해독렴창 전통과 하부 출혈·습열 배합 문맥을 살펴봅니다.",
+      "href": "/herbs/sanguisorba-root/",
+      "reference": "/herbs/sanguisorba-root/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "포황(蒲黃)",
+      "summary": "포황 꽃가루의 생용·초탄 차이와 지혈·활혈 배합을 정리합니다.",
+      "href": "/herbs/cattail-pollen/",
+      "reference": "/herbs/cattail-pollen/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "노근(蘆根)",
+      "summary": "노근의 뿌리줄기 약용, 청열생진·제번지구와 죽엽·죽여 감별을 정리합니다.",
+      "href": "/herbs/reed-rhizome/",
+      "reference": "/herbs/reed-rhizome/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "오매(烏梅)",
+      "summary": "오매의 염폐·생진·렴장 전통과 오매환 등 처방 맥락을 살펴봅니다.",
+      "href": "/herbs/mume-fruit/",
+      "reference": "/herbs/mume-fruit/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "삼칠(三七)",
+      "summary": "삼칠의 화어지혈·소종정통 전통과 인삼·단삼·포황 감별을 정리합니다.",
+      "href": "/herbs/notoginseng/",
+      "reference": "/herbs/notoginseng/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "자초(紫草)",
+      "summary": "자초의 량혈활혈·해독투진 전통과 피부 처방 배합을 정리합니다.",
+      "href": "/herbs/purple-gromwell/",
+      "reference": "/herbs/purple-gromwell/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "마치현(馬齒莧)",
+      "summary": "마치현의 청열해독·량혈지혈 전통과 전초 본초 감별을 살펴봅니다.",
+      "href": "/herbs/purslane/",
+      "reference": "/herbs/purslane/",
+      "referenceLabel": "본초 문서에서 출전·배합 확인 →",
+      "referenceKind": "archive"
+    },
+    {
+      "title": "백화사설초(白花蛇舌草)",
+      "summary": "백화사설초의 청열해독·이습통림 전통과 유사 전초 본초를 비교합니다.",
+      "href": "/herbs/oldenlandia/",
+      "reference": "/herbs/oldenlandia/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
       "referenceKind": "archive"
     }
