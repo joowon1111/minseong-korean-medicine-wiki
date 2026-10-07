@@ -3,7 +3,7 @@ title: 보익약 임상 지식망
 description: 보기·보혈·보음·보양·익정 본초를 허증 감별, 대표 처방, 회복·피로 임상과 연결합니다.
 tags: [본초학, 보익약, 기허, 혈허, 신허]
 status: 검토완료
-last_reviewed: 2026-09-18
+last_reviewed: '2026-10-07'
 ---
 # 보익약 임상 지식망
 
@@ -71,6 +71,10 @@ last_reviewed: 2026-09-18
 [육미지황환](../../authority/formulas/liuwei-dihuang-wan.md)은 숙지황·산약·산수유의 **삼보(三補)**와 택사·목단피·복령의 **삼사(三瀉)**를 함께 읽습니다. [팔미지황환](../../formulas/bawei-dihuang-wan.md)은 이 틀에 계지·부자의 온양을 더하므로, 산약·산수유의 역할은 유지되지만 처방 전체의 병기는 달라집니다.
 
 → [두충·속단·우슬·골쇄보의 근골 배합 비교](../../herbal-integrated/herb-comparisons.md#kidney-bone-herbs)
+
+## 더해진 보익·생진 본초
+
+[당삼](../codonopsis.md)·[태자삼](../pseudostellaria.md)은 보기와 생진의 결합, [황정](../polygonatum-sibiricum.md)은 비·폐·신 보익, [옥죽](../polygonatum-odoratum.md)은 양음윤조의 방향으로 읽습니다. 인삼·황기와 이름만으로 대체하지 않고 원방·기원·약용부위를 확인합니다.
 
 ## 대표 처방
 
