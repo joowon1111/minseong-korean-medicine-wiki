@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261007-07";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261007-08";
   let dataPromise;
   let dayOffset = 0;
 
