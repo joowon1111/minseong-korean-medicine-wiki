@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wiki.minseong.co.kr/</loc>
-    <lastmod>2026-10-07T10:38:39+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/ai-index/</loc>
@@ -5122,7 +5122,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/daily-korean-medicine/</loc>
-    <lastmod>2026-10-07T10:38:39+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/diagnostics/</loc>
@@ -6310,7 +6310,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/</loc>
-    <lastmod>2026-09-22T13:08:25+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/acanthopanax-bark/</loc>
@@ -6341,6 +6341,10 @@
     <lastmod>2026-09-21T16:53:57+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/albizia-bark/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/alisma-extra/</loc>
     <lastmod>2026-08-22T10:11:43+09:00</lastmod>
   </url>
@@ -6350,7 +6354,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/alpinia-oxyphylla/</loc>
-    <lastmod>2026-09-05T20:12:47+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/amomum/</loc>
@@ -6362,7 +6366,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/angelica-dahurica/</loc>
-    <lastmod>2026-09-05T19:08:07+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/angelica-pubescens/</loc>
@@ -6414,11 +6418,15 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/bamboo-shavings/</loc>
-    <lastmod>2026-09-05T20:12:47+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/barley-malt/</loc>
     <lastmod>2026-10-01T13:51:28+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/bletilla-tuber/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/bombyx-batryticatus/</loc>
@@ -6429,8 +6437,16 @@
     <lastmod>2026-09-18T12:26:09+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/cannabis-seed/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/cervi-parvum-cornu/</loc>
     <lastmod>2026-10-05T14:20:07+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/chaenomeles-fruit/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/chrysanthemum/</loc>
@@ -6439,6 +6455,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/chuanxiong/</loc>
     <lastmod>2026-09-16T17:42:19+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/cimicifuga/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/cinnamon-bark/</loc>
@@ -6450,7 +6470,11 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/cistanche/</loc>
-    <lastmod>2026-09-16T17:05:31+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/citrus-aurantium-immature/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/citrus-immature/</loc>
@@ -6459,6 +6483,14 @@
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/citrus-peel/</loc>
     <lastmod>2026-10-05T11:43:56+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/clove/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/codonopsis/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/coix/</loc>
@@ -6482,7 +6514,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/cuscuta-seed/</loc>
-    <lastmod>2026-09-05T19:23:54+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/cynanchum-wilfordii/</loc>
@@ -6495,6 +6527,10 @@
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/dandelion/</loc>
     <lastmod>2026-09-18T10:59:35+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/dictamnus-bark/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/digupi/</loc>
@@ -6521,8 +6557,16 @@
     <lastmod>2026-09-16T17:05:31+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/eclipta/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/elm-root-bark/</loc>
     <lastmod>2026-09-21T15:09:10+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/elsholtzia/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/ephedra/</loc>
@@ -6534,11 +6578,15 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/evodia-fruit/</loc>
-    <lastmod>2026-09-05T19:08:07+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/forsythia/</loc>
     <lastmod>2026-09-18T10:29:05+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/fossil-bone/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/fresh-ginger/</loc>
@@ -6546,7 +6594,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/fresh-rehmannia/</loc>
-    <lastmod>2026-08-19T13:57:26+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/fritillaria/</loc>
@@ -6582,11 +6630,19 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/honey/</loc>
-    <lastmod>2026-08-21T22:05:05+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/honeysuckle/</loc>
     <lastmod>2026-09-18T10:59:35+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/houttuynia/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/imperata-rhizome/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/isatis-leaf/</loc>
@@ -6598,19 +6654,31 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/lablab-seed/</loc>
-    <lastmod>2026-09-05T19:08:07+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/leonurus/</loc>
-    <lastmod>2026-09-05T19:23:54+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/lesser-galangal/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/licorice/</loc>
     <lastmod>2026-09-16T17:42:19+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/ligustrum-fruit/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/lily/</loc>
     <lastmod>2026-08-22T10:11:43+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/lindera-root/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/longan/</loc>
@@ -6618,7 +6686,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/lotus-seed/</loc>
-    <lastmod>2026-09-05T19:08:07+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/magnolia-bark/</loc>
@@ -6650,11 +6718,11 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/mulberry-leaf/</loc>
-    <lastmod>2026-09-05T20:01:40+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/mulberry-root-bark/</loc>
-    <lastmod>2026-09-05T20:01:40+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/musk/</loc>
@@ -6673,12 +6741,16 @@
     <lastmod>2026-09-18T11:22:15+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/oyster-shell/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/peach-kernel/</loc>
     <lastmod>2026-09-18T15:31:37+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/perilla-fruit/</loc>
-    <lastmod>2026-09-05T18:34:57+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/perilla-leaf/</loc>
@@ -6709,8 +6781,24 @@
     <lastmod>2026-08-22T10:11:43+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/polygonatum-odoratum/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/polygonatum-sibiricum/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/polygonum-multiflorum-vine/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/polyporus/</loc>
-    <lastmod>2026-08-19T13:57:26+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/poria-spirit/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/poria/</loc>
@@ -6721,8 +6809,12 @@
     <lastmod>2026-09-16T17:42:19+09:00</lastmod>
   </url>
   <url>
+    <loc>https://wiki.minseong.co.kr/herbs/pseudostellaria/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://wiki.minseong.co.kr/herbs/pueraria/</loc>
-    <lastmod>2026-09-05T17:54:40+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/qinghao/</loc>
@@ -6774,11 +6866,19 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/scrophularia/</loc>
-    <lastmod>2026-09-05T19:23:54+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/scutellaria/</loc>
     <lastmod>2026-09-18T10:04:14+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/smilax-glabra/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/herbs/spatholobus-stem/</loc>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/thuja-seed/</loc>
@@ -6798,11 +6898,11 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/vitex-fruit/</loc>
-    <lastmod>2026-09-05T19:23:54+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/white-cardamom/</loc>
-    <lastmod>2026-09-21T17:37:29+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/white-peony/</loc>
@@ -6818,15 +6918,15 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/blood/</loc>
-    <lastmod>2026-09-18T15:31:37+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/calm-spirit/</loc>
-    <lastmod>2026-09-18T11:57:01+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/drain-damp/</loc>
-    <lastmod>2026-09-18T14:05:04+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/harmonize/</loc>
@@ -6834,7 +6934,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/nourish-yin/</loc>
-    <lastmod>2026-09-16T14:39:42+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/open-orifices/</loc>
@@ -6842,15 +6942,15 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/phlegm-qi/</loc>
-    <lastmod>2026-09-18T14:05:04+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/tonics/</loc>
-    <lastmod>2026-09-18T11:57:01+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/herbs/categories/warm-interior/</loc>
-    <lastmod>2026-09-18T14:05:04+09:00</lastmod>
+    <lastmod>2026-10-07T12:00:47+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/history/</loc>
