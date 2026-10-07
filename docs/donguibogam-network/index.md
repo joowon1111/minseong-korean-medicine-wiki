@@ -197,10 +197,19 @@ last_reviewed: 2026-08-22
 ### 탐색 순서 {#_10}
 **환자의 말 → 위험신호 → 부위/장부/병증 분류 → 변증 → 치법 → 본초·방제·경혈 → 현대근거**
 
-### 예시 {#_11}
-- '목이 뻐근해요' → 외형편의 부위 탐색 → 경항부 위험신호 → 담경·방광경 → 경혈·통증 처방
-- '속이 더부룩해요' → 내경·잡병 → 비위·담음·식적·간울 감별 → 소화 처방·경혈
-- '기운이 없어요' → 내경·잡병의 허손 → 기허·혈허·신허 → 보익 본초·방제
+### 환자 표현에서 시작하는 탐색 예시 {#_11}
+아래 문장은 검색과 문헌 탐색을 돕는 출발점입니다. 환자의 표현을 고전 문목에 연결하되, **고전 병증과 현대 의학적 진단을 같은 것으로 단정하지 않습니다.** 증상이 갑자기 심해지거나 위험신호가 있으면 고전 탐색보다 현대적 평가와 필요한 진료를 먼저 확인합니다.
+
+| 환자가 찾는 말 | 동의보감에서 시작할 편·항목 | 현재 아카이브에서 함께 볼 자료 |
+|---|---|---|
+| 목이 뻐근하고 뒤통수가 당겨요 | [외형편](#oehyeong)의 머리·목·등 부위 | [두통](../conditions/headache.md) · [통증·근골격 지식망](../pillar/pain-musculoskeletal.md) |
+| 속이 쓰리고 신물이 올라와요 | [내경편](#naegyeong)의 비위·담음, [잡병편](#japbyeong)의 내상 | [위염·속쓰림·명치통증](../conditions/gastritis-symptoms.md) · [위식도역류](../conditions/gerd.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) |
+| 머리가 어지럽고 귀가 울려요 | [외형편](#oehyeong)의 머리·귀, [내경편](#naegyeong)의 담음 | [어지럼](../conditions/dizziness.md) · [이명](../conditions/tinnitus.md) |
+| 잠들기 어렵고 가슴이 두근거려요 | [내경편](#naegyeong)의 신·심계·몽 | [불면](../conditions/insomnia.md) · [두근거림](../conditions/palpitation.md) |
+| 식욕이 떨어지고 기운이 없어요 | [잡병편](#japbyeong)의 내상·허로, [내경편](#naegyeong)의 기·혈 | [성인 식욕저하](../conditions/poor-appetite-adult.md) · [만성피로](../conditions/chronic-fatigue.md) |
+| 허리가 아프거나 월경통이 있어요 | [외형편](#oehyeong)의 허리, [잡병편](#japbyeong)의 부인 | [요통](../conditions/low-back-pain.md) · [월경통](../conditions/dysmenorrhea.md) |
+
+고전의 항목은 문헌 안에서 질문을 더 구체화하는 역할을 합니다. 검사·치료·안전 정보는 각 현대 임상 문서에서 확인하고, 탕액편·침구편의 처방·경혈 연결은 해당 기준문서로 이동합니다.
 
 → [통합 임상추론](../clinical-reasoning/index.md)
 
