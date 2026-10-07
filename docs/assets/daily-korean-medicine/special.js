@@ -27,6 +27,10 @@
   "/herbs/honeysuckle/": "B00305",
   "/herbs/jujube-fruit/": "B00171",
   "/herbs/licorice/": "B00129",
+  "/herbs/aconite/": "B00058",
+  "/herbs/bupleurum/": "B00038",
+  "/herbs/ephedra/": "B00278",
+  "/herbs/ophiopogon/": "B00084",
   "/herbs/mint/": "B00261",
   "/herbs/pinellia/": "B00132",
   "/herbs/platycodon/": "B00076",
@@ -36,7 +40,6 @@
   "/herbs/scutellaria/": "B00072",
   "/herbs/white-peony/": "B00026",
   "/herbs/codonopsis/": "B00021",
-  "/herbs/sarsaparilla/": "B00015"
 };
 
   function loadData() {
