@@ -74,3 +74,55 @@
   .md-typeset:has(.ms-home) .ms-card, .md-typeset:has(.ms-home) .ms-quick a { border-color: ButtonText; }
   .md-typeset:has(.ms-home) a:focus-visible { outline-color: Highlight; }
 }
+
+
+/* Daily knowledge card: a small, recurring reading moment on the homepage. */
+.daily-km-card {
+  margin: 1.5rem 0 2rem;
+  padding: clamp(1.1rem, 3vw, 1.7rem);
+  border: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 22%, var(--md-default-fg-color--lightest));
+  border-radius: 1rem;
+  background: linear-gradient(135deg, color-mix(in srgb, var(--md-primary-fg-color) 8%, var(--md-default-bg-color)), var(--md-default-bg-color) 74%);
+  box-shadow: 0 .35rem 1.2rem rgba(0, 0, 0, .045);
+}
+.daily-km-home-card { max-width: 58rem; margin: 1.5rem auto 2.2rem; }
+.daily-km-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .45rem 1rem;
+  color: var(--md-default-fg-color--light);
+  font-size: .78rem;
+}
+.daily-km-kicker { font-weight: 700; letter-spacing: .035em; color: var(--md-primary-fg-color); }
+.daily-km-count { margin: 1rem 0 .25rem !important; font-size: .72rem; font-weight: 700; letter-spacing: .04em; opacity: .72; }
+.daily-km-card h2 { margin: .15rem 0 .65rem; font-size: clamp(1.25rem, 2.8vw, 1.75rem); line-height: 1.45; }
+.daily-km-card [data-km-note] { max-width: 48rem; margin: 0 0 1rem; }
+.daily-km-source, .daily-km-archive {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-right: .45rem;
+  font-weight: 700;
+}
+.daily-km-archive { padding: .25rem .8rem; border: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 30%, transparent); border-radius: 999px; text-decoration: none !important; }
+.daily-km-archive:hover, .daily-km-archive:focus-visible { background: color-mix(in srgb, var(--md-primary-fg-color) 9%, var(--md-default-bg-color)); }
+.daily-km-controls { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .6rem; margin-top: 1.2rem; padding-top: .9rem; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.daily-km-controls button {
+  min-height: 44px;
+  padding: .45rem .85rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .6rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  cursor: pointer;
+}
+.daily-km-controls button:hover, .daily-km-controls button:focus-visible { border-color: var(--md-primary-fg-color); }
+.daily-km-controls button:focus-visible, .daily-km-archive:focus-visible, .daily-km-source:focus-visible { outline: 2px solid var(--md-primary-fg-color); outline-offset: 3px; }
+.daily-km-intro { margin: 1rem 0; padding: .2rem 1rem; border-left: 3px solid var(--md-primary-fg-color); }
+.daily-km-intro p { margin: .45rem 0; }
+@media (prefers-reduced-motion: reduce) {
+  .daily-km-card { scroll-behavior: auto; }
+}

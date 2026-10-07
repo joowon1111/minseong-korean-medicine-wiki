@@ -21,6 +21,18 @@ hide:
 <a class="ms-card" href="classical-stories/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14M6 9h3m6 0h3M6 12h3m6 0h3"/></svg> 민성의담 旻城醫談</strong><span>고전의 기록, 오늘의 한의학 · 치험례와 처방 이야기</span></a>
 </div>
 
+<section class="daily-km-card daily-km-home-card" data-daily-km aria-label="오늘의 한의학 한 장">
+  <div class="daily-km-meta">
+    <span class="daily-km-kicker">하루 한 장 · 오늘의 한의학</span>
+    <time data-km-date datetime="2026-10-07">2026년 10월 7일</time>
+  </div>
+  <p class="daily-km-count" data-km-count>오늘의 카드</p>
+  <h2 data-km-line>평소의 나를 알면, 오늘의 변화를 더 잘 읽을 수 있어요.</h2>
+  <p data-km-note>사상의학의 소증은 평소 상태를 살피는 개념입니다. 현재 증상과 함께 식욕·소화·대변·수면 등 기준선을 비교합니다.</p>
+  <a class="daily-km-source" data-km-source href="/sasang-pattern-differential/">사상체질과 소증에서 이어 읽기 →</a>
+  <a class="daily-km-archive" href="daily-korean-medicine/">매일 한 장 더 보기 →</a>
+</section>
+
 ## 지금 궁금한 질문에서 시작하세요 {#patient-questions}
 
 | 궁금한 점 | 먼저 읽을 안내 |
