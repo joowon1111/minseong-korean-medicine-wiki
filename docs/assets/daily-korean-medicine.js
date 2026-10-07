@@ -198,6 +198,7 @@
         button.addEventListener("click", function () {
           offset += Number(button.getAttribute("data-km-shift"));
           render(widget, offset);
+          window.dispatchEvent(new CustomEvent("daily-km-offset", {detail: {offset: offset}}));
         });
       });
     });
