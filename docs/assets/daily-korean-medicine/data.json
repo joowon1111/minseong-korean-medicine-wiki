@@ -1,6 +1,6 @@
 {
   "schema": "minseong-daily-korean-medicine-v1",
-  "sourceNote": "경혈은 WHO 표준 목록, 본초는 연결 문서의 기원·전통 효능·배합을 확인합니다. 상한론은 통행 398조 전체를, 사상의학은 『동의수세보원』 원문·병론 편명·처방명 가운데 출전과 풀이가 확인되는 항목을 순환합니다.",
+  "sourceNote": "경혈은 WHO 표준 목록, 본초는 연결 문서의 기원·전통 효능·배합을 확인합니다. 상한론은 통행 398조 전체를 순환합니다. 사상의학 카드는 『동의수세보원』의 성정·장국·보명지주·소증·병증 원문을 편명과 판본을 구분해 풀이하며, 처방명만을 원문 조문처럼 표시하지 않습니다.",
   "points": [
     {
       "code": "LU1",
@@ -10241,6 +10241,256 @@
       "note": "조열·건조와 심번·현훈·심계·수면 불편을 전신 맥락에서 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/cheongsimyeonja-tang/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태양인 · 성질과 재간",
+      "original": "太陽人 性質長於疏通 而材幹能於交遇",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태양인은 성질이 소통에 뛰어나고, 재간은 사람을 만나고 관계하는 일에 능하다고 서술한다.",
+      "note": "疏通·交遇는 원전의 관계·인사 범주 안에서 읽는다. 현대의 성격검사나 대인관계 능력 판정으로 곧바로 바꾸지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/taeyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소양인 · 성질과 재간",
+      "original": "少陽人 性質長於剛武 而材幹能於事務",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소양인은 성질이 굳세고 결단하는 면에 뛰어나며, 재간은 일을 처리하는 데 능하다고 서술한다.",
+      "note": "剛武·事務는 원전의 시대적 어휘다. 이를 공격성이나 특정 직업 적성으로 단정하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/soyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태음인 · 성질과 재간",
+      "original": "太陰人 性質長於成就 而材幹能於居處",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태음인은 일을 이루고 성취하는 데 뛰어나며, 재간은 거처와 생활을 운영하는 데 능하다고 서술한다.",
+      "note": "成就·居處는 사상인론의 기능적 표현으로 읽는다. 체질만으로 성취도나 생활방식을 예측하는 문장이 아니다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/taeeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소음인 · 성질과 재간",
+      "original": "少陰人 性質長於端重 而材幹能於黨與",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소음인은 단정하고 신중한 면에 뛰어나며, 재간은 무리와 관계하고 함께하는 일에 능하다고 서술한다.",
+      "note": "端重·黨與는 당시의 사회적 관계 표현이다. 개인의 성격을 고정하거나 체질을 단독 판정하는 기준으로 삼지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/soeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태양인 · 성정과 장국의 연결",
+      "original": "太陽人 哀性遠散而怒情促急 哀性遠散則氣注肺而肺益盛 怒情促急則氣激肝而肝益削 太陽之臟局所以成形於肺大肝小也",
+      "originalLabel": "사단론 · 원문 발췌",
+      "translation": "태양인은 애성이 멀리 퍼지고 노정이 급박하다고 설명한다. 원전은 애성이 폐의 기운을 북돋고 노정의 급함이 간을 손상시키는 방향으로 작용해 폐대간소의 장국이 형성된다고 서술한다.",
+      "note": "이는 고전의 성정·기·장국을 잇는 이론이다. 슬픔이나 분노가 현대 해부학적 장기를 직접 키우거나 줄인다는 뜻으로 읽지 않는다.",
+      "edition": "동의수세보원 신축본 · 사단론",
+      "href": "/classics/donguisusebowon/#_5",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소양인 · 성정과 장국의 연결",
+      "original": "少陽人 怒性宏抱而哀情促急 怒性宏抱則氣注脾而脾益盛 哀情促急則氣激腎而腎益削 少陽之臟局所以成形於脾大腎小也",
+      "originalLabel": "사단론 · 원문 발췌",
+      "translation": "소양인은 노성이 넓게 품고 애정이 급박하다고 설명한다. 원전은 노성이 비의 기운을 북돋고 애정의 급함이 신을 손상시키는 방향으로 작용해 비대신소의 장국이 형성된다고 서술한다.",
+      "note": "성정과 장국을 연결하는 전통 이론의 문장이다. 감정 하나로 실제 장기 상태나 체질을 판정하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사단론",
+      "href": "/classics/donguisusebowon/#_5",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태음인 · 성정과 장국의 연결",
+      "original": "太陰人 喜性廣張而樂情促急 喜性廣張則氣注肝而肝益盛 樂情促急則氣激肺而肺益削 太陰之臟局所以成形於肝大肺小也",
+      "originalLabel": "사단론 · 원문 발췌",
+      "translation": "태음인은 희성이 넓게 퍼지고 낙정이 급박하다고 설명한다. 원전은 희성이 간의 기운을 북돋고 낙정의 급함이 폐를 손상시키는 방향으로 작용해 간대폐소의 장국이 형성된다고 서술한다.",
+      "note": "喜·樂의 원전적 구분은 일상어 감정 분류와 같지 않다. 현대 심리진단이나 장기 손상으로 등치하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사단론",
+      "href": "/classics/donguisusebowon/#_5",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소음인 · 성정과 장국의 연결",
+      "original": "少陰人 樂性深確而喜情促急 樂性深確則氣注腎而腎益盛 喜情促急則氣激脾而脾益削 少陰之臟局所以成形於腎大脾小也",
+      "originalLabel": "사단론 · 원문 발췌",
+      "translation": "소음인은 낙성이 깊고 확실하며 희정이 급박하다고 설명한다. 원전은 낙성이 신의 기운을 북돋고 희정의 급함이 비를 손상시키는 방향으로 작용해 신대비소의 장국이 형성된다고 서술한다.",
+      "note": "사단론의 전통적 장국 설명이다. 감정 표현이나 한 번의 소화 증상만으로 체질을 확정하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사단론",
+      "href": "/classics/donguisusebowon/#_5",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태음인 · 항심과 마음의 조절",
+      "original": "太陰人恒有怯心 怯心寧靜則居之安資之深而造於道也 怯心益多則放心桎梏而物化之也 若怯心至於怕心則大病作而怔忡也 怔忡者太陰人病之重證也",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태음인은 항심으로 겁심을 든다고 했다. 겁심이 고요하면 삶의 터전이 안정되고 깊어져 도에 이르지만, 지나치면 마음이 구속되고 외물에 끌려가며, 파심에 이르면 정충이 생기는 중증이 된다고 설명한다.",
+      "note": "怯心·怕心·怔忡은 원전의 수양·병증 맥락에서 읽는다. 불안장애나 부정맥의 현대 진단명과 일대일로 대응하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-original-symptoms/emotion/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소양인 · 항심과 마음의 조절",
+      "original": "少陽人恒有懼心 懼心寧靜則居之安資之深而造於道也 懼心益多則放心桎梏而物化之也 若懼心至於恐心則大病作而健忘也 健忘者少陽人病之險證也",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소양인은 항심으로 구심을 든다고 했다. 구심이 고요하면 삶이 안정되고 깊어지지만, 지나치면 마음이 구속되고, 공심에 이르면 건망이 나타나는 험증이 된다고 설명한다.",
+      "note": "懼心·恐心·健忘은 원전의 성정·병증 문맥이다. 현대의 불안장애나 기억장애 진단을 의미하지 않으며, 기억 변화는 현대 의학적 평가도 필요하다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-original-symptoms/emotion/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소음인 · 항심과 비기",
+      "original": "少陰人恒有不安定之心 不安定之心寧靜則脾氣卽活也",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소음인은 항심으로 불안정한 마음이 있으며, 이 마음이 고요해지면 비기가 곧 활발해진다고 서술한다.",
+      "note": "원전의 심신관계를 보여주는 구절이다. 불안정이라는 말을 성격 결함이나 현대 정신질환 진단으로 해석하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-original-symptoms/emotion/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태양인 · 항심과 간혈",
+      "original": "太陽人恒有急迫之心 急迫之心寧靜則肝血卽和也",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태양인은 항심으로 급박한 마음이 있으며, 급박한 마음이 고요해지면 간혈이 조화된다고 서술한다.",
+      "note": "성정과 생리의 관계를 다룬 고전적 설명이다. 초조함 하나로 체질이나 간의 현대 의학적 상태를 판정하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-original-symptoms/emotion/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태양인 · 체형기상 조문",
+      "original": "太陽人體形氣像 腦顀之起勢盛壯而腰圍之立勢孤弱",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태양인의 체형기상은 머리와 목덜미 쪽의 기세가 성하고 허리 둘레의 세움이 상대적으로 약한 모습으로 기술된다.",
+      "note": "전통적 체형 관찰 문장이다. 腦顀·腰圍를 현대 해부학의 단일 지표로 바꾸거나 한 항목만으로 체질을 판정하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-pattern-differential/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소양인 · 체형기상 조문",
+      "original": "少陽人體形氣像 胸襟之包勢盛壯而膀胱之坐勢孤弱",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소양인의 체형기상은 가슴과 흉곽의 포용하는 기세가 성하고, 하체의 앉은 자세와 안정감은 상대적으로 약한 모습으로 기술된다.",
+      "note": "膀胱之坐勢는 전통적 체형·기상 표현이지 방광의 해부학적 크기나 기능을 직접 뜻하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-pattern-differential/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태음인 · 체형기상 조문",
+      "original": "太陰人體形氣像 腰圍之立勢盛壯而腦顀之起勢孤弱",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태음인의 체형기상은 허리 둘레와 몸통을 세우는 기세가 성하고, 머리와 목덜미의 기세는 상대적으로 약한 모습으로 기술된다.",
+      "note": "체형기상은 여러 진찰 정보 가운데 하나다. 체중이나 허리둘레 한 항목으로 체질을 단정하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-pattern-differential/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소음인 · 체형기상 조문",
+      "original": "少陰人體形氣像 膀胱之坐勢盛壯而胸襟之包勢孤弱",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소음인의 체형기상은 하체의 앉은 자세와 안정감이 성하고, 가슴의 포용하는 기세는 상대적으로 약한 모습으로 기술된다.",
+      "note": "膀胱之坐勢는 전통적 체형 표현으로 읽는다. 방광의 해부학적 상태나 체질 진단 검사 결과로 환원하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-pattern-differential/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태양인 · 성기와 행동 방향",
+      "original": "太陽之性氣恒為雄而不欲為雌",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태양인의 성기는 웅의 방향을 지향하고 자의 방향을 지향하지 않는다고 서술한다.",
+      "note": "雄·雌는 원전의 성기 범주를 이루는 대조적 표현이다. 현대의 성별·성격 고정관념으로 바꾸어 읽지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/taeyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소양인 · 성기와 행동 방향",
+      "original": "少陽之性氣恒外勝而不欲內守",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소양인의 성기는 바깥으로 이기고자 하며 안에 머물러 지키려 하지 않는 방향으로 설명된다.",
+      "note": "外勝·內守는 원전의 관계·행동 방향 표현이다. 경쟁적 성격이나 개인의 사회성을 단정하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/soyangin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "태음인 · 성기와 행동 방향",
+      "original": "太陰之性氣恒內守而不欲外勝",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "태음인의 성기는 안에 머물러 지키고자 하며 바깥으로 이기려 하지 않는 방향으로 설명된다.",
+      "note": "內守·外勝은 원전의 성기 범주다. 소극성이나 활동능력으로 환원하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/taeeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소음인 · 성기와 행동 방향",
+      "original": "少陰之性氣恒為雌而不欲為雄",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "소음인의 성기는 자의 방향을 지향하고 웅의 방향을 지향하지 않는다고 서술한다.",
+      "note": "雄·雌는 전통적 범주 표현이며 성별이나 고정된 성격을 뜻하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-integrated/soeumin/",
+      "reference": "https://mediclassics.kr/books/182"
+    },
+    {
+      "title": "소음인 · 보명지주 원문",
+      "original": "少陰人 以陽煖之氣 爲保命之主 故膂胃爲本而膀胱大腸爲標也",
+      "originalLabel": "갑오구본 병론 · 원문 발췌",
+      "translation": "갑오구본은 소음인의 보명지주를 양난지기로 설명하고, 등과 위를 본으로, 방광·대장을 표로 서술한다.",
+      "note": "이 문장은 갑오구본의 체계다. 신축본의 표리병론과 혼합하지 말고 판본별 변화와 문맥을 확인한다.",
+      "edition": "동의수세보원 갑오구본 · 병론",
+      "href": "/classics/donguisusebowon/#life-principle",
+      "reference": "https://mediclassics.kr/books/183"
+    },
+    {
+      "title": "소양인 · 보명지주 원문",
+      "original": "少陽人 以陰淸之氣 爲保命之主 故膀胱大腸爲本而膂胃爲標也",
+      "originalLabel": "갑오구본 병론 · 원문 발췌",
+      "translation": "갑오구본은 소양인의 보명지주를 음청지기로 설명하고, 방광·대장을 본으로, 등과 위를 표로 서술한다.",
+      "note": "갑오구본의 본·표 구분을 신축본의 병증 구조와 같은 체계인 것처럼 합치지 않는다.",
+      "edition": "동의수세보원 갑오구본 · 병론",
+      "href": "/classics/donguisusebowon/#life-principle",
+      "reference": "https://mediclassics.kr/books/183"
+    },
+    {
+      "title": "태음인 · 보명지주 원문",
+      "original": "太陰人 以呼散之氣 爲保命之主 故腦顀胃脘爲本而腰脊小腸爲標",
+      "originalLabel": "갑오구본 병론 · 원문 발췌",
+      "translation": "갑오구본은 태음인의 보명지주를 호산지기로 설명하고, 뇌추·위완을 본으로, 요척·소장을 표로 서술한다.",
+      "note": "呼散은 전통적 생리 기능 개념이다. 현대 호흡생리나 특정 장기의 단일 기능과 등치하지 않는다. 신축본과 판본을 구별한다.",
+      "edition": "동의수세보원 갑오구본 · 병론",
+      "href": "/classics/donguisusebowon/#life-principle",
+      "reference": "https://mediclassics.kr/books/183"
+    },
+    {
+      "title": "태양인 · 보명지주 원문",
+      "original": "太陽人 以吸聚之氣 爲保命之主 故腰脊小腸爲本而腦顀胃脘爲標",
+      "originalLabel": "갑오구본 병론 · 원문 발췌",
+      "translation": "갑오구본은 태양인의 보명지주를 흡취지기로 설명하고, 요척·소장을 본으로, 뇌추·위완을 표로 서술한다.",
+      "note": "吸聚는 전통적 생리 개념이다. 호흡 행위 하나나 현대 장기 기능으로 환원하지 않고 갑오구본의 판본 문맥 안에서 읽는다.",
+      "edition": "동의수세보원 갑오구본 · 병론",
+      "href": "/classics/donguisusebowon/#life-principle",
+      "reference": "https://mediclassics.kr/books/183"
+    },
+    {
+      "title": "사상인 병증을 읽는 원칙",
+      "original": "明知其人而 又明知其證則 應用之藥 必無可疑",
+      "originalLabel": "사상인변증론 · 원문 발췌",
+      "translation": "그 사람을 분명히 알고, 그 증을 분명히 알면 적용할 약에 의심이 없다고 말한다.",
+      "note": "체질 이름만으로 처방하지 않고 그 사람과 현재 병증을 함께 살피라는 원전의 원칙으로 읽는다. 특정 처방의 효과를 입증하는 현대 임상근거를 대신하지 않는다.",
+      "edition": "동의수세보원 신축본 · 사상인변증론",
+      "href": "/sasang-pattern-differential/",
       "reference": "https://mediclassics.kr/books/182"
     }
   ]
