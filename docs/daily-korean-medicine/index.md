@@ -51,7 +51,7 @@ hide:
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/acupuncture/points/gb29/">관련 문서 더 읽기 →</a>
-    <a data-topic-reference href="" target="_blank" rel="noopener">원문 자료 확인 ↗</a>
+    <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-herbs" data-daily-topic="herbs">
@@ -64,7 +64,7 @@ hide:
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
-    <a data-topic-reference href="" target="_blank" rel="noopener">원문 자료 확인 ↗</a>
+    <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-shanghan" data-daily-topic="shanghan">
@@ -77,7 +77,7 @@ hide:
   <p class="daily-km-topic-edition" data-topic-edition>송본 계열 · 중의급성 전사문 · 통행 398조 구분</p>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/classics/shanghanlun/clauses/taiyang-middle/#clause-039">관련 문서 더 읽기 →</a>
-    <a data-topic-reference href="https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#39" target="_blank" rel="noopener">원문 자료 확인 ↗</a>
+    <a data-topic-reference href="https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#39" target="_blank" rel="noopener">출전·관련 자료 확인 ↗</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-sasang" data-daily-topic="sasang">
@@ -90,7 +90,7 @@ hide:
   <p class="daily-km-topic-edition" data-topic-edition>동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조</p>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/">관련 문서 더 읽기 →</a>
-    <a data-topic-reference href="https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960" target="_blank" rel="noopener">원문 자료 확인 ↗</a>
+    <a data-topic-reference href="https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960" target="_blank" rel="noopener">출전·관련 자료 확인 ↗</a>
   </div>
 </article>
   </div>
