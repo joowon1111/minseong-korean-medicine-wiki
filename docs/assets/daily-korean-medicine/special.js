@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261007-04";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261007-05";
   let dataPromise;
   let dayOffset = 0;
 
@@ -177,7 +177,7 @@
       const otherReference = providedCatalogUrl || item.reference === item.href ? "" : item.reference;
       setLink(root, "[data-topic-reference]", otherReference, item.referenceLabel || "본초 출전·자료 확인 ↗");
     } else {
-      const label = topic === "shanghan" ? "오늘의 상한론 조문 " : "오늘의 동의수세보원 구절 ";
+      const label = topic === "shanghan" ? "오늘의 상한론 조문 " : "오늘의 사상의학 원문·풀이 ";
       setText(root, "[data-topic-count]", label + (index + 1) + " / " + items.length);
       setText(root, "[data-topic-title]", item.title);
       setText(root, "[data-topic-summary]", item.originalLabel || "");

@@ -1,6 +1,6 @@
 ---
 title: 오늘의 한의학
-description: 매일 바뀌는 361경혈 한 장, 본초 한 가지, 상한론 조문과 동의수세보원 원문·풀이를 함께 읽는 한의학 지식 구독형 코너입니다.
+description: 361경혈과 본초, 상한론 통행 398조, 동의수세보원 원문·풀이를 매일 한 장씩 읽는 한의학 지식 구독형 코너입니다.
 tags: [오늘의 한의학, 한의학 상식, 매일 한 장, 경혈, 본초, 상한론, 사상의학]
 status: 검토완료
 last_reviewed: 2026-10-07
@@ -12,7 +12,7 @@ hide:
 
 <div class="daily-km-intro">
 <p><strong>하루 한 장, 네 갈래로 만나는 한의학.</strong> 오늘의 핵심 지식 카드는 물론, 경혈·본초·상한론·사상의학 자료를 하루에 하나씩 읽습니다.</p>
-<p>한국 시간 날짜에 맞춰 자동으로 카드가 바뀝니다. 경혈은 WHO 표준 361개를 순환하고, 본초 한 가지, 상한론 70개 조문, 동의수세보원 원문 발췌 14개를 차례로 읽습니다. 카드의 이전·다음 버튼으로 날짜를 옮기면 네 주제도 함께 이동합니다.</p>
+<p>한국 시간 날짜에 맞춰 카드가 바뀝니다. 경혈은 WHO 표준 361개를 순환하고, 본초는 한 가지씩 소개합니다. 상한론은 송본 계열 통행 398조 전체를 조문 순서대로 읽으며, 사상의학은 동의수세보원 원문·병론 편명·처방명을 출전 구분과 함께 풀이합니다. 이전·다음 날짜 버튼으로 네 주제를 함께 이동할 수 있습니다.</p>
 </div>
 
 <section class="daily-km-card" data-daily-km aria-label="오늘의 한의학 핵심 카드">
@@ -69,7 +69,7 @@ hide:
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-shanghan" data-daily-topic="shanghan">
-  <div class="daily-km-topic-meta"><span>하루 상한론</span><span data-topic-count>14 / 70</span></div>
+  <div class="daily-km-topic-meta"><span>하루 상한론</span><span data-topic-count>통행 398조 전체 순환</span></div>
   <h3 data-topic-title>39조 · 신중과 대청룡탕</h3>
   <p class="daily-km-topic-summary" data-topic-summary>조문 원문</p>
   <blockquote class="daily-km-topic-original" data-topic-original>傷寒脈浮緩，身不疼，但重，乍有輕時，無少陰證者，大青龍湯發之。</blockquote>
@@ -82,7 +82,7 @@ hide:
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-sasang" data-daily-topic="sasang">
-  <div class="daily-km-topic-meta"><span>하루 사상의학</span><span data-topic-count>14 / 14</span></div>
+  <div class="daily-km-topic-meta"><span>하루 사상의학</span><span data-topic-count>원문·풀이 42개 순환</span></div>
   <h3 data-topic-title>태양인 · 열과 격의 구분</h3>
   <p class="daily-km-topic-summary" data-topic-summary>신축본 15-5 발췌 · 원문 발췌</p>
   <blockquote class="daily-km-topic-original" data-topic-original>食物 自外入 而有所妨碍 曰噎 自內受 而有所拒格 曰膈</blockquote>
