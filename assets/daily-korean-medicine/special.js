@@ -115,7 +115,7 @@
       setOptional(root, "[data-topic-translation]", "");
       setOptional(root, "[data-topic-note]", "");
       setOptional(root, "[data-topic-edition]", "");
-      setLink(root, "[data-topic-reference]", "", "");
+      setLink(root, "[data-topic-reference]", item.reference, "표준 경혈 위치 자료 확인 ↗");
     } else if (topic === "herbs") {
       setText(root, "[data-topic-count]", "오늘의 본초 " + (index + 1) + " / " + items.length);
       setText(root, "[data-topic-title]", item.title);
@@ -125,7 +125,7 @@
       setOptional(root, "[data-topic-translation]", "");
       setOptional(root, "[data-topic-note]", "");
       setOptional(root, "[data-topic-edition]", "");
-      setLink(root, "[data-topic-reference]", "", "");
+      setLink(root, "[data-topic-reference]", item.reference, item.referenceLabel || "본초 출전·자료 확인 ↗");
     } else {
       const label = topic === "shanghan" ? "오늘의 상한론 조문 " : "오늘의 동의수세보원 구절 ";
       setText(root, "[data-topic-count]", label + (index + 1) + " / " + items.length);
