@@ -70,6 +70,8 @@ last_reviewed: '2026-09-21'
 
 ## 병증 구조: 표병과 리병
 
+'자리(自利)'는 저절로 설사하는 양상, '비만(痞滿)'은 명치·복부가 막히고 그득한 불편을 가리키는 전통 용어입니다. 여기서 비만(痞滿)은 현대어의 체중 증가·비만(肥滿)과 다릅니다. 『동의수세보원』의 태음병은 소음인의 위수한리한병 안에서 읽으며, 태음인 체질과 혼동하지 않습니다.
+
 ### 신수열표열병: 울광과 망양
 
 소음인의 표병은 신국의 양난지기가 올라와 겉을 따뜻하게 하는 흐름이 막히는 방향으로 설명합니다. 울광병에서는 오한·발열, 두통·신체통과 땀의 양상을 보고, 망양병에서는 **발한과 함께 기력·회복력이 크게 떨어지는지**를 중요하게 봅니다.
@@ -86,7 +88,7 @@ last_reviewed: '2026-09-21'
 
 | 병증 방향 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |
 |---|---|---|---|
-| 태음병 자리·비만 | 복통·설사, 식욕저하, 구토·심하부 답답함, 갈증이 뚜렷하지 않은 흐름 | 장염·식중독, 약물, 염증성 장질환 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md), [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md), [계지반하생강탕](#soeum-gyeji-banha) |
+| 태음병 자리(自利)·비만(痞滿) | 복통·설사, 식욕저하, 구토·심하부 답답함, 갈증이 뚜렷하지 않은 흐름 | 장염·식중독, 약물, 염증성 장질환 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md), [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md), [계지반하생강탕](#soeum-gyeji-banha) |
 | 태음병 황달·음독 방향 | 황색 변화·부종, 사지냉·신체통과 기력저하 | 간담도·혈액 질환, 심장·신장 상태 | [십이미관중탕](#soeum-sibimi-gwanjung), [관중탕](#soeum-gwanjung) |
 | 소음병 | 심한 설사·복통, 갈증·심번, 수족냉·전신통, 쇠약 | 중증 탈수, 패혈증, 급성 복증, 전해질 변화 | [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md), [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) |
 | 리한+기체·담습 | 흉복부 답답함, 더부룩함, 오심·구토 | 위·식도 질환, 담낭·췌장 질환 | [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md), [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso) |
