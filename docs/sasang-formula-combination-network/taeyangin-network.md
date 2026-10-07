@@ -4,7 +4,6 @@ description: 태양인의 오가피장척탕과 미후등식장탕을 해역·�
 tags: [사상의학, 태양인, 사상처방, 배합, 해역, 열격]
 status: 검토완료
 last_reviewed: 2026-10-07
-# last_reviewed: 2026-09-22
 ---
 # 태양인 처방 배합망
 
