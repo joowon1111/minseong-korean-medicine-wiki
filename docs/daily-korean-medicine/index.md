@@ -65,6 +65,7 @@ hide:
   <div class="daily-km-topic-links">
     <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
     <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
+    <a data-topic-hkbu-reference hidden>약재 사진·한자 주치 정보(HKBU) ↗</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-shanghan" data-daily-topic="shanghan">
