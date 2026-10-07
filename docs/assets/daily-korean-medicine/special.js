@@ -6,6 +6,39 @@
   let dataPromise;
   let dayOffset = 0;
 
+  const hkbuHerbReferences = {
+  "/herbs/amomum/": "B00254",
+  "/herbs/angelica/": "B00049",
+  "/herbs/angelica-pubescens/": "B00052",
+  "/herbs/arctium/": "B00251",
+  "/herbs/astragalus-tonic-guide/": "B00071",
+  "/herbs/atractylodes/": "B00032",
+  "/herbs/barley-malt/": "B00193",
+  "/herbs/chuanxiong/": "B00047",
+  "/herbs/cinnamon-twig/": "B00138",
+  "/herbs/citrus-peel/": "B00162",
+  "/herbs/coptis/": "B00070",
+  "/herbs/dioscorea/": "B00007",
+  "/herbs/forsythia/": "B00190",
+  "/herbs/fresh-ginger/": "B00012",
+  "/herbs/fritillaria/": "B00043",
+  "/herbs/gastrodia/": "B00003",
+  "/herbs/ginseng/": "B00002",
+  "/herbs/honeysuckle/": "B00305",
+  "/herbs/jujube-fruit/": "B00171",
+  "/herbs/licorice/": "B00129",
+  "/herbs/mint/": "B00261",
+  "/herbs/pinellia/": "B00132",
+  "/herbs/platycodon/": "B00076",
+  "/herbs/poria/": "B00356",
+  "/herbs/rehmannia-root-fresh/": "B00050",
+  "/herbs/schisandra/": "B00211",
+  "/herbs/scutellaria/": "B00072",
+  "/herbs/white-peony/": "B00026",
+  "/herbs/codonopsis/": "B00021",
+  "/herbs/sarsaparilla/": "B00015"
+};
+
   function loadData() {
     if (!dataPromise) {
       dataPromise = fetch(dataUrl, { credentials: "same-origin" }).then(function (response) {
@@ -125,7 +158,16 @@
       setOptional(root, "[data-topic-translation]", "");
       setOptional(root, "[data-topic-note]", "");
       setOptional(root, "[data-topic-edition]", "");
-      setLink(root, "[data-topic-reference]", item.reference, item.referenceLabel || "본초 출전·자료 확인 ↗");
+      const catalogRecord = typeof item.href === "string" ? hkbuHerbReferences[item.href] : "";
+      const providedCatalogUrl = typeof item.reference === "string" && item.reference.startsWith("https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=")
+        ? item.reference
+        : "";
+      const catalogUrl = providedCatalogUrl || (catalogRecord
+        ? "https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?lang=cht&pid=" + encodeURIComponent(catalogRecord)
+        : "");
+      setLink(root, "[data-topic-hkbu-reference]", catalogUrl, "약재 사진·한자 주치 정보(HKBU) ↗");
+      const otherReference = providedCatalogUrl ? "" : item.reference;
+      setLink(root, "[data-topic-reference]", otherReference, item.referenceLabel || "본초 출전·자료 확인 ↗");
     } else {
       const label = topic === "shanghan" ? "오늘의 상한론 조문 " : "오늘의 동의수세보원 구절 ";
       setText(root, "[data-topic-count]", label + (index + 1) + " / " + items.length);
