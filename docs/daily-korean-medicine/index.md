@@ -65,7 +65,7 @@ hide:
   <div class="daily-km-topic-links">
     <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
     <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
-    <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/advancesearch.php?lang=eng" target="_blank" rel="noopener noreferrer" aria-label="홍콩침례대학교 중약재 이미지 데이터베이스에서 약재 사진과 주치정보 검색">HKBU 중약재 이미지 DB에서 사진·주치정보 검색 ↗</a>
+    <a data-topic-hkbu-reference hidden>약재 사진·한자 주치 정보(HKBU) ↗</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-shanghan" data-daily-topic="shanghan">
