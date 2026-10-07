@@ -163,7 +163,7 @@ AI는 방대한 문헌을 대신 읽고 결론을 내려주는 권위자가 아�
 |---|---|---|
 | **상한론** | [상한론 전체 조문·판본 안내](../shanghan-network/index.md) | 육경병의 전개, 증후와 처방 운용의 구조 |
 | **금궤요략** | [금궤요략 임상편 원문·주제별 지도](../jingui-network/index.md) | 내과·잡병의 병증, 치법과 처방 연결 |
-| **동의보감** | [동의보감 핵심 지식망](../donguibogam-network/index.md) | 신형·내경·외형·잡병·탕액·침구를 잇는 임상 색인 |
+| **동의보감** | [동의보감 개요](../classics/donguibogam.md) · [5편 임상 색인](../donguibogam-network/index.md) | 원전의 역사·편제·대표 원문과 증상별 임상 탐색을 구분해 안내 |
 | **경악전서** | [경악전서](../classics/jingyue-quanshu.md) | 허손·보익과 병기·치법을 읽는 관점 |
 | **온병조변** | [온병조변](../classics/wenbing-tiaobian.md) · [온병학 핵심 지식망](../wenbing-network/index.md) | 위·기·영·혈의 병정과 온병학적 변증 틀 |
 | **동의수세보원** | [동의수세보원](../classics/donguisusebowon.md) · [핵심 지식망](../donguisusebowon-network/index.md) | 사상체질의 소증·병증·치료 체계 |

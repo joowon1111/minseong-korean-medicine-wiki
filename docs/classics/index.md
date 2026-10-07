@@ -36,7 +36,7 @@ WHO의 [Global Traditional Medicine Strategy 2025–2034](https://www.who.int/pu
 | 기초부터 진단·본초·각과 임상까지 학습 | [의학입문](uihak-ipmun.md) | [진단·변증](../diagnostics/index.md) |
 | 허손·보법과 치료 방향에 따른 방제 분류 | [경악전서](jingyue-quanshu.md) | [방제 구조](../formula-architecture/index.md) |
 | 온열성 병증과 진액·삼초의 변화 | [온병조변](wenbing-tiaobian.md) | [온병학 지식망](../wenbing-network/index.md) |
-| 몸의 기능·부위·병증에서 탕액·침구까지 | [동의보감](donguibogam.md) | [동의보감 편별 탐색](../donguibogam-network/index.md) |
+| 몸의 기능·부위·병증에서 탕액·침구까지 | [동의보감 개요](donguibogam.md) | [동의보감 5편 임상 색인](../donguibogam-network/index.md) |
 | 체질·평소 소증·현재 병증의 관계 | [동의수세보원](donguisusebowon.md) | [사상의학 임상 네트워크](../donguisusebowon-network/index.md) |
 
 ## 읽는 순서 {#_3}

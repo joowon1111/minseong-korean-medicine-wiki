@@ -150,7 +150,7 @@ hide:
 | [황제내경](../neijing-network/index.md) | 생리·병리·경락·치법 |
 | [상한론](../shanghan-network/index.md) | 육경병증·처방·현대 임상 |
 | [금궤요략](../jingui-network/index.md) | 내상잡병·부인병·처방 |
-| [동의보감](../donguibogam-network/index.md) | 병증·본초·방제·양생 |
+| [동의보감 개요](../classics/donguibogam.md) · [5편 임상 색인](../donguibogam-network/index.md) | 원전·편제 안내와 편별 임상 탐색 |
 | [동의수세보원](../donguisusebowon-network/index.md) | 사상체질·병증·처방 |
 | [온병학](../wenbing-network/index.md) | 위기영혈·삼초변증 |
 | [방약합편](../bangyakhappyeon-network/index.md) | 처방 분류와 임상 활용 |
