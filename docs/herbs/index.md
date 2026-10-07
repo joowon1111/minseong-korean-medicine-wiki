@@ -174,14 +174,14 @@ last_reviewed: '2026-10-07'
 | 보기·건비 | 인삼·황기·백출·복령 | [보익약 임상 지식망](categories/tonics.md) |
 | 보혈·정혈 | 당귀·숙지황·백작약·천궁 | [보혈·활혈 본초](categories/blood.md) |
 | 보신·강근골 | 녹용·산수유·두충·우슬 | [보익·피로·회복 허브](../pillar/tonic-recovery.md) |
-| 공진단 구성 | [녹용](cervi-parvum-cornu.md)·[당귀](angelica.md)·[산수유](cornus-fructus.md)·[사향](moschus.md) | [공진단 구성과 처방 맥락](../formulas/gongjin-dan.md#네-가지-구성축) |
+| 공진단 구성 | [녹용](cervi-parvum-cornu.md)·[당귀](angelica.md)·[산수유](cornus-fructus.md)·[사향](moschus.md) | [공진단 구성과 처방 맥락](../formulas/gongjin-dan.md) |
 | 처방 비교와 선택 | 공진단·경옥고·보중익기탕·십전대보탕 등 | [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md) |
 
 ### 공진단 구성 본초
 
 [녹용](cervi-parvum-cornu.md) · [당귀](angelica.md) · [산수유](cornus-fructus.md) · [사향](moschus.md)
 
-공진단의 네 본초가 보익·정혈·간신·기혈 소통의 배합에서 맡는 역할은 [공진단 구성과 처방 맥락](../formulas/gongjin-dan.md#네-가지-구성축)에서 확인합니다.
+공진단의 네 본초가 보익·정혈·간신·기혈 소통의 배합에서 맡는 역할은 [공진단 구성과 처방 맥락](../formulas/gongjin-dan.md)에서 확인합니다.
 
 ### 경옥고 구성 본초
 
