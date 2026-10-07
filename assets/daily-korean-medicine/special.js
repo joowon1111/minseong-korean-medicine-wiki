@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261007-03";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261007-04";
   let dataPromise;
   let dayOffset = 0;
 
@@ -153,7 +153,7 @@
       setOptional(root, "[data-topic-edition]", "");
       setLink(root, "[data-topic-reference]", item.reference, "표준 경혈 위치 자료 확인 ↗");
     } else if (topic === "herbs") {
-      setText(root, "[data-topic-count]", "오늘의 본초 " + (index + 1) + " / " + items.length);
+      setText(root, "[data-topic-count]", "오늘의 본초");
       setText(root, "[data-topic-title]", item.title);
       setText(root, "[data-topic-summary]", item.summary);
       setLink(root, "[data-topic-link]", item.href, "본초 문서에서 더 읽기 →");
@@ -165,11 +165,16 @@
       const providedCatalogUrl = typeof item.reference === "string" && item.reference.startsWith("https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=")
         ? item.reference
         : "";
+      const catalogSearch = typeof item.title === "string"
+        ? (item.title.match(/[\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]+/) || [])[0]
+        : "";
       const catalogUrl = providedCatalogUrl || (catalogRecord
         ? "https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?lang=cht&pid=" + encodeURIComponent(catalogRecord)
-        : "");
-      setLink(root, "[data-topic-hkbu-reference]", catalogUrl, "약재 사진·한자 주치 정보(HKBU) ↗");
-      const otherReference = providedCatalogUrl ? "" : item.reference;
+        : "https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_pinyin&lang=cht&qry=" + encodeURIComponent(catalogSearch || item.title || ""));
+      setLink(root, "[data-topic-hkbu-reference]", catalogUrl, providedCatalogUrl || catalogRecord
+        ? "약재 사진·한자 주치 정보(HKBU) ↗"
+        : "HKBU 약재 사진·한자 주치 정보 검색 ↗");
+      const otherReference = providedCatalogUrl || item.reference === item.href ? "" : item.reference;
       setLink(root, "[data-topic-reference]", otherReference, item.referenceLabel || "본초 출전·자료 확인 ↗");
     } else {
       const label = topic === "shanghan" ? "오늘의 상한론 조문 " : "오늘의 동의수세보원 구절 ";
