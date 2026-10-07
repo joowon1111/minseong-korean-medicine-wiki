@@ -126,3 +126,64 @@
 @media (prefers-reduced-motion: reduce) {
   .daily-km-card { scroll-behavior: auto; }
 }
+
+
+/* Four small daily study cards share one Korea Standard Time date. */
+.daily-km-topics {
+  margin: 1.4rem 0 2.2rem;
+}
+.daily-km-topics-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: space-between;
+  gap: .5rem 1.25rem;
+  margin-bottom: .85rem;
+}
+.daily-km-topics-header h2 { margin: .2rem 0 .35rem; }
+.daily-km-topics-header p { margin: 0; color: var(--md-default-fg-color--light); }
+.daily-km-topics-header time { color: var(--md-default-fg-color--light); font-size: .8rem; white-space: nowrap; }
+.daily-km-topic-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .9rem;
+}
+.daily-km-topic {
+  min-width: 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .85rem;
+  background: var(--md-default-bg-color);
+}
+.daily-km-topic-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: .5rem;
+  color: var(--md-primary-fg-color);
+  font-size: .72rem;
+  font-weight: 700;
+}
+.daily-km-topic h3 { margin: .45rem 0 .55rem; font-size: 1.15rem; }
+.daily-km-topic-summary, .daily-km-topic-translation, .daily-km-topic-note, .daily-km-topic-edition {
+  margin: .45rem 0;
+  font-size: .82rem;
+}
+.daily-km-topic-summary { white-space: pre-line; }
+.daily-km-topic-original {
+  margin: .65rem 0;
+  padding: .55rem .75rem;
+  border-left: 3px solid var(--md-primary-fg-color);
+  background: color-mix(in srgb, var(--md-primary-fg-color) 6%, var(--md-default-bg-color));
+  font-family: var(--md-code-font-family);
+  font-size: .88rem;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+.daily-km-topic-edition { color: var(--md-default-fg-color--light); font-size: .72rem; }
+.daily-km-topic-links { display: flex; flex-wrap: wrap; gap: .25rem 1rem; margin-top: .55rem; }
+.daily-km-topic-links a { display: inline-flex; align-items: center; min-height: 40px; font-size: .78rem; font-weight: 700; }
+.daily-km-data-error { padding: .7rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .5rem; }
+@media (max-width: 760px) {
+  .daily-km-topic-grid { grid-template-columns: 1fr; }
+  .daily-km-topic { padding: .9rem; }
+}
