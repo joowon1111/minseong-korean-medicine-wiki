@@ -182,6 +182,7 @@
 .daily-km-topic-edition { color: var(--md-default-fg-color--light); font-size: .72rem; }
 .daily-km-topic-links { display: flex; flex-wrap: wrap; gap: .25rem 1rem; margin-top: .55rem; }
 .daily-km-topic-links a { display: inline-flex; align-items: center; min-height: 40px; font-size: .78rem; font-weight: 700; }
+.daily-km-topic-links a[hidden] { display: none; }
 .daily-km-data-error { padding: .7rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .5rem; }
 @media (max-width: 760px) {
   .daily-km-topic-grid { grid-template-columns: 1fr; }
