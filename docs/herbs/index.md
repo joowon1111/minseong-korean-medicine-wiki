@@ -46,6 +46,8 @@ last_reviewed: '2026-10-07'
 
 ## 대표 본초 바로가기
 
+[세신](asarum.md) · [창이자](xanthium-fruit.md) · [갱미](oryza-rice.md) · [서각](rhinoceros-horn-history.md) · [망초](mirabilite.md) · [흑지마](sesame-seed.md) · [위령선](clematis-root.md) · [진교](gentiana-macrophylla.md) · [지룡](earthworm.md) · [담두시](prepared-soybean.md) · [촉초](zanthoxylum.md) — 해표·거풍습·온중·윤조 및 역사적 약미의 구분
+
 ### 보기·회복
 
 - [녹용](cervi-parvum-cornu.md) — 보신양·익정혈·강근골
@@ -58,6 +60,8 @@ last_reviewed: '2026-10-07'
 
 ### 수렴·지혈과 창양 회복
 
+[선퇴](cicada-slough.md) — 처방 속 약량과 원전 해석
+
 - [백급](bletilla-tuber.md) — 수렴지혈·소종생기
 - [대계](cirsium-japonicum.md) · [소계](cirsium-setosum.md) — 량혈지혈·산어소종, 기원종 감별
 - [측백엽](biota-leaf.md) · [지유](sanguisorba-root.md) — 량혈지혈과 약용 부위·병증 문맥
@@ -65,6 +69,8 @@ last_reviewed: '2026-10-07'
 - [애엽](mugwort-leaf.md) — 온경지혈·산한지통, 뜸쑥 원료와 구분
 
 ### 보혈·양혈·활혈
+
+[아교](donkey-hide-gelatin.md) · [몰약](myrrh.md) · [오령지](trogopterus-feces.md) · [소목](sappan-heartwood.md) — 처방 속 약량과 원전 해석
 
 - [당귀](angelica.md) — 보혈하면서 혈행을 돕는 대표 본초
 - [숙지황](prepared-rehmannia.md) — 보혈자음·익정
@@ -78,6 +84,8 @@ last_reviewed: '2026-10-07'
 - [익모초](leonurus.md) — 활혈조경과 수습의 배합
 
 ### 간신·정혈·수렴
+
+[녹각교](deer-antler-gelatin.md) · [귀판교](turtle-plastron-gelatin.md) · [상기생](taxillus.md) — 처방 속 약량과 원전 해석
 
 - [산수유](cornus-fructus.md) — 보익간신·수렴고삽
 - [산약](dioscorea.md) — 비·폐·신을 함께 보하는 평보 본초
@@ -108,6 +116,8 @@ last_reviewed: '2026-10-07'
 
 ### 청열·습열 {#heat-damp-herbs}
 
+[고삼](sophora-root.md) · [사간](belamcanda.md) — 처방 속 약량과 원전 해석
+
 - [금은화](honeysuckle.md)·[연교](forsythia.md)·[포공영](dandelion.md) — 청열해독의 공통점과 소산풍열·소종산결·이뇨통림의 차이
 - [대청엽](isatis-leaf.md) — 청열해독과 량혈소반, 판람근·청대와 약용 부위 구분
 - [죽엽](bamboo-leaf.md) — 심위의 열·번조·갈증, 죽여·담죽엽과 기원·부위 구분
@@ -124,6 +134,8 @@ last_reviewed: '2026-10-07'
 
 ### 수분대사·이수
 
+[방기](stephania-root.md) · [구맥](dianthus.md) · [편축](polygonum-aviculare.md) · [통초](tetrapanax-pith.md) · [활석](talc.md) — 처방 속 약량과 원전 해석
+
 - [택사](alisma.md) — 이수삼습·설열
 - [복령](poria.md) — 건비이수·안신
 - [저령](polyporus.md) · [의이인](coix.md) — 이수·삼습의 본초
@@ -136,6 +148,8 @@ last_reviewed: '2026-10-07'
 육미지황계 처방에서는 숙지황·산수유·산약의 보익축과 택사·목단피·복령의 조절축이 함께 구성됩니다. 어느 한 약재만 강조하기보다 **보하는 약과 순환·배출을 돕는 약의 균형**을 보는 것이 핵심입니다.
 
 ### 이기·소화
+
+[소회향](fennel-fruit.md) · [교이](maltose.md) — 처방 속 약량과 원전 해석
 
 - [창출](atractylodes-lancea.md) · [진피](citrus-peel.md) · [후박](magnolia-bark.md) — 조습·행기와 복부 팽만의 배합
 - [목향](aucklandia.md) · [사인](amomum.md) · [향부자](cyperus.md) — 이기·화습·소간의 역할 비교
@@ -150,6 +164,8 @@ last_reviewed: '2026-10-07'
 - [백두구](white-cardamom.md) · [익지인](alpinia-oxyphylla.md) — 화습·온중·온비의 역할 비교
 
 ### 화담·지해
+
+[자완](aster-root.md) · [관동화](tussilago-flower.md) · [백과](ginkgo-seed.md) · [천남성](arisaema.md) — 처방 속 약량과 원전 해석
 
 - [반하](pinellia.md) · [진피](citrus-peel.md) · [복령](poria.md) — 조습화담·건비의 배합
 - [길경](platycodon.md) · [천패모](fritillaria.md) — 선폐·거담과 청열윤폐의 역할 비교
