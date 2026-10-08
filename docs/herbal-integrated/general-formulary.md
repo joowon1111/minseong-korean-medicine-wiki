@@ -20,6 +20,19 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 
 각 상세 문서에서는 처방명만 보지 않고 `대표 출전 → 원방의 약미·상대비 → 수치(修治)·법제 → 제형·전탕 → 임상 감별 → 현대 연구`를 확인합니다. 같은 처방명도 출전·제형·구성비가 다르면 별도 기록으로 구분합니다. 원전의 량·전·분·승·합·개수량을 유지하며, 시대와 문헌에 따라 같은 단위명의 뜻이 다를 수 있어 현대 g로 일괄 환산하지 않습니다. 원문 미기재량·대체 약미·이본은 각 표 옆에서 구분합니다.
 
+### 원문·약량표에서 먼저 구분할 여섯 가지 {#source-reading-guide}
+
+| 확인할 점 | 대표 대조 문서 | 읽는 이유 |
+|---|---|---|
+| 제조 총량과 1회 취량 | [삼령백출산의 산제](../formulas/shenling-baizhu-san.md#original-pattern-course) · [불수산의 거친 가루](../formulas/bulsu-san.md#original-pattern-course) | 근·량 단위로 만든 전체 가루와 매회 2전을 구분 |
+| 약미 본문과 방가 | [생화탕의 도인 14립·방가 10립](../formulas/saenghwa-tang.md#original-text-comparison) | 같은 책 안에서도 차이가 있으면 기준 구절을 명시 |
+| 개수량과 중량 | [소복축어탕의 7립·2분](../formulas/shaofu-zhuyu-tang.md#original-pattern-course) | 숫자만 같게 g으로 옮기거나 후대 용량을 원방량으로 표시하지 않음 |
+| 포제품의 실제 역할 | [완대탕의 흑개수](../formulas/wandai-tang.md#original-pattern-course) · [감로소독단의 비활석](../formulas/ganlu-xiaodu-dan.md#original-pattern-course) | 생품·탄화품·정제품과 약용부위를 구별 |
+| 주치와 방후 가감 | [수태환의 예방 문맥·가감](../formulas/shoutai-wan.md#original-pattern-course) · [소시호탕의 가감](../formulas/xiaochaihu-tang.md#original-modifications) | 기본방과 조건별 변방을 하나의 고정 구성으로 합치지 않음 |
+| 전통 주치와 현대 연구 | [갈근금련탕 34조](../formulas/gegen-qinlian-tang.md#original-pattern-course) · [보양환오탕의 원전 증후](../formulas/buyang-huanwu-tang.md#original-pattern-course) | 원전의 증후 설명과 연구 대상·중재·결과를 따로 확인 |
+
+아래 목록의 **대조 출전**은 이 문서에서 약미·약량을 비교하는 수록본입니다. 반드시 최초 출전을 뜻하지 않으며, 후대 수록본·이본·현대 DB 환산표를 사용하는 경우 상세 문서에서 그 기준을 밝힙니다. 본초의 단미 효능은 배합 해석의 출발점이고, 처방 안의 역할은 **다른 약미·상대비·포제·제형·주치 문맥**과 함께 읽습니다.
+
 ### 보기·기혈·회복 16선
 
 | 처방 | 구조를 읽는 핵심 | 수치·법제 확인점 | 대조 출전·원문 |
@@ -50,7 +63,7 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 | [좌귀환](../formulas/zuogui-wan.md) | 진음·정혈을 보하는 환제 | 숙지황·구기자·녹각교의 규격과 용화·환제 확인 | [경악전서](../formulas/zuogui-wan.md#source-dose-original) |
 | [우귀환](../formulas/yougui-wan.md) | 신양·정혈을 함께 보함 | 법제 부자, 육계와 녹각교의 실제 구성 확인 | [경악전서](../formulas/yougui-wan.md#source-dose-original) |
 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) | 음허화왕·허열 | 생지황·숙지황과 지모·황백의 포제품 구분 | [만병회춘](../formulas/ziyin-jianghuo-tang.md#source-dose-original) |
-| [청심연자음](../formulas/qingxin-lianzi-yin.md) | 기음부족 + 심화·소변 불편 | 연자육·맥문동·황금의 규격과 출전별 구성 확인 | [태평혜민화제국방](../formulas/qingxin-lianzi-yin.md#source-dose-original) |
+| [청심연자음](../formulas/qingxin-lianzi-yin.md) | 기음부족 + 심화·소변 불편 | 연자육·맥문동·황금의 규격과 출전별 구성 확인 | [국방 주치·방약합편 약량](../formulas/qingxin-lianzi-yin.md#source-dose-original) |
 
 ### 비위·소화·온중·변비 14선
 
@@ -140,12 +153,12 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 | [계지복령환](../formulas/guizhi-fuling-wan.md) | 하초 어혈·징가 | 원방 환제와 탕제 차이, 계지·육계 및 도인 가공 | [금궤요략방론](../formulas/guizhi-fuling-wan.md#source-dose-original) |
 | [온경탕](../formulas/wenjing-tang.md) | 충임허한 + 어혈·건조 | 오수유·법제 반하와 아교의 용화법 | [금궤요략방론](../formulas/wenjing-tang.md#source-dose-original) |
 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) | 간울혈허 + 울열 | 치자·목단피가 더해진 변방과 소요산 원방 구분 | [내과적요](../formulas/jiawei-xiaoyao-san.md#source-dose-original) |
-| [소복축어탕](../formulas/shaofu-zhuyu-tang.md) | 하초 한응어혈 | 포강·육계·소회향 등 온경약의 실제 가공 확인 | [의림개착](../formulas/shaofu-zhuyu-tang.md#source-dose-original) |
+| [소복축어탕](../formulas/shaofu-zhuyu-tang.md) | 하초 한응어혈 | 초건강·육계·소회향의 단위와 생포황·초오령지 확인 | [의림개착](../formulas/shaofu-zhuyu-tang.md#source-dose-original) |
 | [교애탕](../formulas/jiaoai-tang.md) | 충임허손 + 혈허·허한성 출혈 | 아교 용화와 애엽·지황 포제, 출전별 구성 확인 | [의방집해](../formulas/jiaoai-tang.md#source-dose-original) |
 | [완대탕](../formulas/wandai-tang.md) | 비허·간울·습 + 대하 | 백출·산약·백작약과 흑형개 포제 여부 확인 | [부청주여과](../formulas/wandai-tang.md#source-dose-original) |
 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) | 혈허 + 기체·하초 한 | 숙지황·당귀·향부자·오수유의 가공 확인 | [만병회춘](../formulas/tiaojing-zhongyu-tang.md#source-dose-original) |
-| [수태환](../formulas/shoutai-wan.md) | 보신·고충 + 태루·태동불안 | 상기생·속단·토사자와 아교의 규격·용화 확인 | [의학충중참서록](../formulas/shoutai-wan.md#source-dose-original) |
-| [불수산](../formulas/bulsu-san.md) | 당귀·천궁 중심의 산후 혈분 구조 | 당귀 약용부위와 천궁 규격, 산·탕제 차이 확인 | [보제본사방](../formulas/bulsu-san.md#source-dose-original) |
+| [수태환](../formulas/shoutai-wan.md) | 보신·고충, 원전 활태의 예방 문맥 | 상기생·속단·토사자와 아교의 규격·용화 확인 | [의학충중참서록](../formulas/shoutai-wan.md#source-dose-original) |
+| [불수산](../formulas/bulsu-san.md) | 당귀·천궁의 산과 혈분 구조, 시점별 감별 | 당귀 약용부위와 천궁 규격, 산·탕제 차이 확인 | [보제본사방](../formulas/bulsu-san.md#source-dose-original) |
 | [생화탕](../formulas/saenghwa-tang.md) | 산후 혈허·어혈 | 포강과 생강·건강을 구분하고 도인·당귀 비율 확인 | [부청주여과가괄](../formulas/saenghwa-tang.md#source-dose-original) |
 
 ### 통증·풍습·활혈 9선
@@ -350,7 +363,7 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 | 혈허 + 기체·하초 한의 임신준비 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
 | 기혈양허 + 신허·충임부족의 임신준비 | [육린주](../formulas/yulin-zhu.md) |
 | 간울기체 + 월경·임신준비 | [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) |
-| 보신·고충 + 태루·태동불안 | [수태환](../formulas/shoutai-wan.md) |
+| 보신·고충, 원전 활태의 예방 문맥 | [수태환](../formulas/shoutai-wan.md) |
 | 기혈양허·비위허약 + 충임불고 | [태산반석산](../formulas/taishan-panshi-san.md) |
 
 **빠른 감별:** `당귀작약산 ↔ 계지복령환 ↔ 온경탕 ↔ 소복축어탕`은 **혈허·수습 / 어혈 / 충임허한 / 한응어혈성 통증** 가운데 무엇이 중심인지가 갈림점입니다. 출혈 양상은 청경사물탕·교애탕, 대하는 완대탕으로 별도 감별합니다.
@@ -398,14 +411,14 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 
 ## 임상에서 바로 비교하는 핵심 처방 매트릭스 {#임상에서-바로-비교하는-핵심-처방-매트릭스}
 
-처방 이름을 하나씩 외우기보다 **같은 주소에서 후보가 되는 처방을 한 표에서 비교**합니다.
+처방 이름을 하나씩 외우기보다 **같은 주소에서 후보가 되는 처방을 한 표에서 비교**합니다. 향사양위탕은 《동의수세보원》 신축본의 소음인 처방으로, 아래의 일반 병증 비교와 함께 소음인의 소증·현재 병증·표리와 경과를 별도로 확인합니다.
 
 ### 소화불량
 | 처방 | 중심 병증 | 구별 포인트 |
 |---|---|---|
 | 평위산 | 습체 | 더부룩·무거움·창만 |
 | 향사육군자탕 | 비기허 + 담습 + 기체 | 허약·식욕저하가 동반 |
-| 향사양위탕 | 비위허한 + 습체 | 냉감·허한의 색채 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 소음인 비위허약·허한·기체 | 소증·현재 병증을 신축본 소음인 체계에서 함께 판단 |
 | 보화환 | 식적 | 음식정체·식후 악화 |
 | 반하사심탕 | 한열착잡 | 심하비·구역·장명·설사 |
 
