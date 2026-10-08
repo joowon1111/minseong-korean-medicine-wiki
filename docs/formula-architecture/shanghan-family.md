@@ -18,7 +18,7 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 양명 열과 갈증 | [백호탕](../formulas/baihu-tang.md) · [갈근황금황련탕(갈근금련탕)](../formulas/gegen-qinlian-tang.md) | 열·갈증·한출과 하리 등 원문 단서, 두 처방의 구성·치법 차이 |
 | 중초 허한·복통 | [이중탕](../formulas/lizhong-tang.md) · [소건중탕](../formulas/xiaojianzhong-tang.md) | 복통·구토·설사·허로의 조합, 온중과 건중의 차이 |
 | 한열착잡과 심하비 | [반하사심탕](../formulas/banxia-xiexin-tang.md) | 심하비·구역·장명 등과 생강사심탕·감초사심탕 조문의 차이 |
-| 수기와 소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) | 갈증·소변·구토·어지럼 및 맥의 조합, 표리와 허실 차이 |
+| 수기와 소변 | [오령산](../formulas/wuling-san.md) · [저령탕](../formulas/zhuling-tang.md) · [영계출감탕](../formulas/linggui-zhugan-tang.md) · [진무탕](../formulas/zhenwu-tang.md) | 갈증·소변·구토·어지럼의 조합과 열·진액·상충·양허의 차이. [네 처방 감별](#water-formula-differential) |
 | 궐음의 한열착잡 | [오매환 — 338조](../classics/shanghanlun/clauses/jueyin.md#clause-338) | 장궐·회궐의 구별, 구토·하리와 원방 10미 배합을 조문에서 읽기 |
 
 ### 기본방과 파생방 — 바뀐 약재보다 먼저 바뀐 맥증 보기 {#base-and-derived}
@@ -62,11 +62,25 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 
 ### 축음·이수 처방과 축혈 처방 — 위치와 배설을 함께 보기 {#fluids-and-blood}
 
+#### 네 수기 처방 — 갈증·소변·어지럼과 배합 {#water-formula-differential}
+
+수기 처방을 비교할 때에는 **물을 원하는 정도와 마신 뒤 반응 → 땀·소변·대변 → 흉복부 불편·현훈 → 한열·활력 → 치료 이력**을 함께 봅니다. 다음은 원문 조문의 학습용 비교입니다. ‘기화불리·수열호결·담음상역·양허수범’은 맥증과 배합을 설명하는 후대 방제학의 용어입니다.
+
+| 처방·주요 조문 | 원문에서 비교할 조건 | 다른 처방과 갈리는 배합 |
+|---|---|---|
+| [오령산 · 71–74조](../classics/shanghanlun/wuling-san.md#clauses-71-74) | 다한·위중건과 부맥·소변불리·미열·갈증의 차이, 음수 뒤 구토 | 저령·복령·택사에 백출·계지. 원방은 산제 |
+| [저령탕 · 223·224·319조](../formulas/zhuling-tang.md#source-clauses) | 발열·갈증·소변불리 또는 하리 뒤 해수·구토·심번불면. 다한·위중건의 제외 조건 | 저령·복령·택사에 활석·아교. 탕제에서 아교를 나중에 녹임 |
+| [영계출감탕 · 67조](../formulas/linggui-zhugan-tang.md#shanghan-clause-67) | 토하 뒤 심하역만·기상충·기립 시 현훈·침긴맥, 재발한 뒤 동요 | 복령·계지·백출·자감초. 원방 상대비 4:3:2:2 |
+| [진무탕 · 82·316조](../formulas/zhenwu-tang.md#shanghan-source-patterns) | 발한 뒤 심하계·현훈·신순동, 또는 복통·사지침중·하리와 수기 | 복령·백출·생강·작약·포부자. 동반증에 따른 가감도 수록 |
+
+오령산과 저령탕은 세 약재가 공통이지만 백출·계지와 활석·아교의 차이, 각 조문의 열·진액 상태를 함께 확인합니다. 영계출감탕과 진무탕은 현훈·몸의 동요가 겹치지만 토하·발한 이력과 심하역만·기상충·심하계의 차이가 있습니다. 맥 하나나 어지럼의 강도만으로 네 처방을 나누지 않습니다.
+
+원문의 **71조 위중건**과 **224조 다한이갈**을 함께 읽으면 이수에 앞서 진액 상태를 확인하는 이유가 드러납니다. 현대의 갈증·소변량 감소에도 수분 부족, 약물과 원인 질환의 평가를 함께 진행합니다. [오령산 원방 산제](../formulas/wuling-san.md#original-composition) · [저령탕 전탕과 아교](../formulas/zhuling-tang.md#processing) · [영계출감탕 상대량](../formulas/linggui-zhugan-tang.md#_4) · [진무탕 원방·가감](../formulas/zhenwu-tang.md#original-composition)
+
+축혈 조문은 수기와 별도의 축으로 읽습니다.
+
 | 비교 축 | 원문 증후와 대표 처방 | 핵심 감별 |
 |---|---|---|
-| 해표 뒤 갈증·배뇨 | [71조 오령산](../classics/shanghanlun/clauses/taiyang-middle.md#clause-071) | 위중건으로 음수가 필요한 경우와 부맥·소변불리·미열의 수기불리를 나눔 |
-| 심하역만·기립 시 어지럼 | [67조 영계출감탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-067) | 토하 이력·기상충·침긴맥과 함께 읽음. 재발한의 적합성도 확인 |
-| 복통·사지침중·하리 | [316조 진무탕](../classics/shanghanlun/clauses/shaoyin.md#clause-316) | 소음 문맥의 수기. 부자·백출·복령·생강·작약의 온양·이수 배합 |
 | 소복급결·여광 | [106조 도핵승기탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-106) | 표증이 남으면 먼저 해표한다는 선후와 하초 축혈을 확인 |
 | 소복경만·발광·소변자리 | [124조 저당탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-124) | 소변이 잘 나온다는 조건을 하초 축혈 문맥과 비교. 배뇨 한 가지로 축혈을 확정하지 않음 |
 
@@ -126,7 +140,7 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 금궤요략의 병증 맥락 | 대표 처방과 다음 자료 |
 |---|---|
 | 담음·기침·호흡 | [영계출감탕](../formulas/linggui-zhugan-tang.md) · [외대복령음 — 금궤요략 부방](#waidai-fuling-yin) · [맥문동탕](../formulas/maidong-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) |
-| 수습·부종·소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) |
+| 소갈·소변불리 | [오령산 · 제13편 13.4](../classics/jinkui-yaolue/chapters/thirst-urination.md#clause-13-004) · [저령탕 · 13.13](../classics/jinkui-yaolue/chapters/thirst-urination.md#clause-13-013). 두 처방의 구성은 [오령산](../formulas/wuling-san.md)·[저령탕](../formulas/zhuling-tang.md)에서 비교 |
 | 부인과 혈증·월경 | [계지복령환](../formulas/guizhi-fuling-wan.md) · [당귀작약산](../formulas/danggui-shaoyao-san.md) · [온경탕](../formulas/wenjing-tang.md) |
 | 허로·심신 불안 | [산조인탕](../formulas/suanzaoren-tang.md). 비교 자료로는 **상한론** [107조 시호가용골모려탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-107)을 따로 읽어 허로의 불면과 번경·흉만의 차이를 확인 |
 

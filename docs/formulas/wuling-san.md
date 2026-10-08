@@ -23,6 +23,19 @@ last_reviewed: 2026-09-06
 | 국제 연구명 | Wuling San, Wu Ling San, Oryeong-san, Goreisan |
 | 현대 연구축 | 만성 경막하혈종 수술 후 재발·혈종 변화, 두통·부종, 수분 항상성 |
 
+## 상한론 71–74조 — 갈증과 음수 뒤 반응 {#shanghan-water-pattern}
+
+오령산의 조건은 [71조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-071)부터 이어 읽으면 분명해집니다. 이 조문은 먼저 다한 뒤 위중이 마르고 물을 원하는 경우를 설명한 다음, 부맥·소변불리·미열·소갈이 있는 경우에 오령산을 제시합니다. **진액이 부족해 물을 원하는 상황과 수기불리의 갈증을 나누는 것**이 출발점입니다.
+
+| 조문 | 원문이 더하는 조건 | 읽을 때의 초점 |
+|---|---|---|
+| 71조 | 발한 뒤 위중건 또는 부맥·소변불리·미열·소갈 | 갈증의 앞뒤에 발한량·배뇨·열·맥을 함께 놓음 |
+| [72조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-072) | 발한 뒤 부수맥·번갈 | 짧은 주치 문장을 71조의 수분 상태와 함께 읽음 |
+| [73조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-073) | 한출이갈과 불갈을 나눔 | 오령산과 복령감초탕의 구별을 확인. 불갈이라는 말 하나를 다른 모든 병증에 확대하지 않음 |
+| [74조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-074) | 표리증·갈증·물을 마시면 토하는 수역 | 구토 일반과 갈증·음수 뒤 구토의 연속을 구분 |
+
+‘태양축수·방광기화불리’는 이 조문들을 체계화한 후대 해석입니다. 원문에 직접 적힌 맥증과 구분해 읽고, 여기의 ‘방광’을 현대 방광의 특정 병변으로 확정하지 않습니다. [오령산 조문 독해](../classics/shanghanlun/wuling-san.md#clauses-71-74)에서는 제형·복법까지 이어 확인할 수 있습니다.
+
 ## 다섯 약재가 만드는 처방 구조
 
 | 구성 본초 | 처방 안에서 보는 역할 |
@@ -33,6 +46,16 @@ last_reviewed: 2026-09-06
 | 계지 | 양기를 통하게 해 기화와 수분의 이동을 도움 |
 
 택사·저령·복령의 이수축에 백출의 건비, 계지의 온양화기가 결합됩니다. 그래서 심한 양허를 강하게 덥히는 진무탕과도, 열과 음손이 겹친 저령탕과도 구분됩니다.
+
+### 송본 원방의 용량과 산제 {#original-composition}
+
+| 약재 | 71조에 붙은 원방 용량 |
+|---|---|
+| 택사 | 1냥 6수(銖) |
+| 저령·복령·백출 | 각각 18수(銖) |
+| 계지 | 반냥 |
+
+원방은 다섯 약재를 가루로 만든 **산제**이고, 백음(白飲)에 섞어 복용하는 방식을 적습니다. 오늘의 탕제·엑스제와 비교할 때는 약재 종류뿐 아니라 상대량·제형·추출 방식도 확인합니다. 위 수치는 고전의 구성 비교용이며 현대 g·과립제 함량으로 직접 환산하지 않습니다. 원문의 온수·한출 설명도 발한량을 늘리거나 물을 제한 없이 마시라는 현대 지침으로 옮기지 않습니다. [71조 원방·복법](../classics/shanghanlun/clauses/taiyang-middle.md#clause-071)
 
 ## 임상에서 먼저 보는 단서
 
@@ -74,6 +97,7 @@ last_reviewed: 2026-09-06
 |---|---|---|
 | [저령탕](zhuling-tang.md) | 수열호결·음손 | 소변불리와 함께 열감·자극감·음손이 더 선명 |
 | [진무탕](zhenwu-tang.md) | 비신양허·수기내정 | 냉감·무력·어지럼과 전신 양허가 더 깊음 |
+| [영계출감탕](linggui-zhugan-tang.md) | 중양부족·담음상역 | 심하역만·기상충·기립 시 어지럼의 연결이 중심 |
 | [위령탕](weiling-tang.md) | 비위 습체+수습 | 더부룩함·복창·식욕저하 등 중초 습체 비중이 큼 |
 | [평위산](pingwei-san.md) | 습체·창만 | 소화기 습체가 중심이고 구갈·소변불리 연결은 약함 |
 | 오령산 | 수습·기화불리 | 갈증과 소변불리, 부종·두통·위장 증상이 수분 변화와 함께 움직임 |
@@ -87,7 +111,7 @@ last_reviewed: 2026-09-06
 ## 관련 핵심 문서
 
 - [부종](../conditions/edema-swelling.md)
-- [부종·붓기](../conditions/edema-swelling.md)
+- [상한론 네 수기 처방의 감별](../formula-architecture/shanghan-family.md#water-formula-differential)
 - [두통](../conditions/headache.md)
 - [본초·방제 수분대사 지도](../herbal-integrated/herbs-for-edema.md)
 - [오령산 구성 본초 지식망](../network/wuling-composition.md)
