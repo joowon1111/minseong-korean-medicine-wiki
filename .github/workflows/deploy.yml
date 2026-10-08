@@ -46,6 +46,9 @@ jobs:
       - name: Test Korean search loading and results
         run: node --test tools/test_*.cjs
 
+      - name: Build archive comparison and passage search
+        run: python tools/build_archive_tools.py
+
       - name: Build MkDocs site
         run: mkdocs build
 
