@@ -38,6 +38,7 @@ description: 상한론의 육경병·맥증·치법·대표 고방을 방제 구
 | [소청룡탕](shanghanlun/xiaoqinglong.md) | 표한과 수음 관련 증후 | 기침이라는 공통 증상 속에서 수음이 어떤 근거로 제시되는지 확인 |
 | 소시호탕 | 왕래한열·흉협고만 등 소양병 맥증 | 증상이 시간에 따라 달라지는 방식과 흉협부 소견에 주목 |
 | 반하사심탕 | 심하비와 한열착잡 | 흉협의 불편과 심하의 막힌 느낌을 구분하고 병의 경과 확인 |
+| [오령산·저령탕·영계출감탕·진무탕](../formula-architecture/shanghan-family.md#water-formula-differential) | 갈증·소변·음수 뒤 구토·현훈·치료 이력 | 같은 수기 안에서 열·진액·상충·양허와 배합의 차이를 확인 |
 
 약재의 공통점과 차이는 [상한론 처방 계열](../formula-architecture/shanghan-family.md)에서 이어 볼 수 있습니다.
 

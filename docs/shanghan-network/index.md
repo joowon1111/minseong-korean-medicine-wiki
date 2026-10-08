@@ -143,11 +143,15 @@ last_reviewed: 2026-08-20
 | [208조 · 대승기탕](../classics/shanghanlun/clauses/yangming.md#clause-208) | 양명·조실 | 조열·대변·복부·진액의 공하 조건 | [대승기탕](../formulas/dachengqi-tang.md) · [대황](../herbs/rhubarb.md) · [후박](../herbs/magnolia-bark.md) |
 | [209조 · 소승기탕](../classics/shanghanlun/clauses/yangming.md#clause-209) | 양명·실과 기체 | 복부·대변과 복약 뒤 반응 | [소승기탕](../formulas/xiaochengqi-tang.md) · [지실](../herbs/citrus-immature.md) · [후박](../herbs/magnolia-bark.md) |
 | [149조 · 반하사심탕](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149) | 비증·한열병조 | 심하가 그득하지만 아프지 않은 비와 결흉의 구별 | [반하사심탕](../formulas/banxia-xiexin-tang.md) · [반하](../herbs/pinellia.md) · [황금](../herbs/scutellaria.md) · [황련](../herbs/coptis.md) |
-| [316조 · 진무탕](../classics/shanghanlun/clauses/shaoyin.md#clause-316) | 소음·양허수기 | 복통·소변불리·사지 무거움·하리 | [진무탕](../formulas/zhenwu-tang.md) · [복령](../herbs/poria.md) · [백출](../herbs/atractylodes.md) |
+| [82·316조 · 진무탕](../formulas/zhenwu-tang.md#shanghan-source-patterns) | 양허수기·온양이수 | 발한 뒤 심하계·현훈·신순동, 또는 복통·소변·사지·하리 | [진무탕](../formulas/zhenwu-tang.md) · [복령](../herbs/poria.md) · [백출](../herbs/atractylodes.md) |
 | [71조 · 오령산](../classics/shanghanlun/clauses/taiyang-middle.md#clause-071) | 수기·기화 | 갈증·소변불리·부맥·복약 이력 | [오령산](../formulas/wuling-san.md) · [택사](../herbs/alisma.md) · [저령](../herbs/polyporus.md) · [복령](../herbs/poria.md) |
+| [223·224·319조 · 저령탕](../formulas/zhuling-tang.md#source-clauses) | 수열호결·양음이수 | 갈증·열·배뇨와 다한·위중건의 제외 조건 | [저령탕](../formulas/zhuling-tang.md) · [저령](../herbs/polyporus.md) · [택사](../herbs/alisma.md) |
+| [67조 · 영계출감탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-067) | 담음상역·온양화음 | 토하 뒤 심하역만·기상충·기립 시 현훈·침긴맥 | [영계출감탕](../formulas/linggui-zhugan-tang.md) · [복령](../herbs/poria.md) · [계지](../herbs/cinnamon-twig.md) |
 | [386조 · 이중환·이중탕](../classics/shanghanlun/clauses/huoluan.md#clause-386) | 중초허한·온중 | 토리·갈증의 한열 구분과 제형 | [이중환·이중탕](../formulas/lizhong-tang.md) · [인삼](../herbs/ginseng.md) · [건강](../herbs/dried-ginger.md) · [백출](../herbs/atractylodes.md) |
 
 사심탕류는 149조에서 비와 결흉을 먼저 나누고 154·157·158조의 대황황련사심탕·생강사심탕·감초사심탕으로 이어 읽습니다. 승기탕류도 대변 상태와 복약 뒤 반응을 확인하여 구성을 비교합니다.
+
+[네 수기 처방의 감별](../formula-architecture/shanghan-family.md#water-formula-differential)에서는 오령산·저령탕의 갈증과 진액 상태, 영계출감탕·진무탕의 현훈과 치료 이력, 원방의 약재·상대량·제형을 비교할 수 있습니다. 수기라는 말에 모두 묶기보다 각 조문이 더하는 조건을 먼저 확인합니다.
 
 현대 연구는 [처방별 근거 허브](../authority/formulas/herbal-formula-evidence-hub.md)와 [고전→현대 연구 연결 지도](../network/classic-to-evidence-map.md#clinical-examples)로 이어집니다. 반하사심탕·소시호탕·진무탕·오령산의 기존 문서에서는 사람 대상 연구의 대상·가감·병용 조건을 확인할 수 있습니다. 다른 처방은 확인된 자료의 범위 안에서 원문·구성을 읽고 연구를 탐색합니다.
 
