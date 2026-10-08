@@ -62,6 +62,8 @@ last_reviewed: 2026-08-29
 | 상통 19 | [전씨이공산](../formulas/jeonssi-igong-san.md#bangyakhappyeon-version) | 인삼·백출·복령·귤피·목향·감초 각 1전, 식체·설사 등의 활투 | 사군자탕·육군자탕·삼출건비탕 |
 | 상통 공개기록 | [자음건비탕](../formulas/jaeum-geonbi-tang.md#source-comparison) | 기혈·음과 비위·담음·안신의 결합, 동의보감 전사와 DB 용량의 차이 | 반하백출천마탕·귀비탕 |
 | 중통 공개기록 | [가미온담탕](../formulas/jiawei-wendan-tang.md#formula-structure-reading) | 향부자 비중과 시호·인삼·맥문동·길경의 포함, 11미에 강·조 별기 | 온담탕·귀비탕·자음건비탕 |
+| 중통 공개기록 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) | 강활·방풍의 해표와 황금·생지황의 청열·진액축, 창출과 백출의 구별 | 갈근탕·삼소음·인삼양위탕 |
+| 중통 공개기록 | [정천탕](../formulas/dingchuan-tang.md) | 마황의 선폐·백과의 수렴과 황금·상백피의 청열, DB 약명 오기 대조 | 소자강기탕·마행감석탕 |
 | 하통 71 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md#original-units) | 산사육 중심의 소식, 이진탕의 화담, 백출·창출의 비위 배합 | 삼출건비탕·개울화담전·평위산 |
 
 상통의 전씨이공산에도 이기약이 있고, 하통의 정전가미이진탕에도 ‘보비’라는 치법 설명이 있습니다. **상통=모든 허증, 하통=모든 실증**으로 단순화하기보다 실제 구성과 주치 문장을 대조합니다. 정확한 번호를 확인한 두 처방은 약학정보원의 [상통 19](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=413)와 [하통 71](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417)을, 다른 처방의 수록형은 각 문서의 한국전통지식포탈 기록에서 확인합니다.

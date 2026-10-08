@@ -49,7 +49,9 @@ last_reviewed: 2026-08-29
 |---|---|---|
 | 개울화담전·비위계질환 | [구성·배합비·포제](../formulas/gaeul-hwadam-jeon.md#cheonggang-version) | 향부자를 크게 놓고 담습·식적·울열을 함께 읽음. 비만(痞滿)은 체중 비만과 구별 |
 | 가미대보원전·허손 | [대보원전과 9미 가미형](../formulas/dabo-wonjeon.md#cheonggang-version) | 경악전서의 8미 골격에 관계가 포함된 수록형과 용량을 구별 |
-| 가감생화탕·부인과질환 | [생화탕의 산후 문맥과 제법](../formulas/saenghwa-tang.md) | 당귀·천궁의 상대비, 흑초건강·천궁 거유와 오로·산후통의 맥락 |
+| 가감생화탕·부인과질환 | [양혈·거어와 산후 제법](../formulas/saenghwa-tang.md#postpartum-nourishing-and-stasis) | 당귀·천궁의 상대비, 흑초건강·천궁 거유와 오로·산후통의 맥락 |
+
+개울화담전의 [향부자·담습·울열 배합](../formulas/gaeul-hwadam-jeon.md#cheonggang-qi-phlegm-heat)과 대보원전의 [기·정혈 보익 감별](../formulas/dabo-wonjeon.md#yuanjian-tonification-differential)을 함께 보면, 같은 피로·소화불편이라도 병사를 풀어 주는 비중과 회복을 받치는 비중이 어떻게 달라지는지 비교할 수 있습니다.
 
 이 표는 한국전통지식포탈의 공개 처방기록 **P0020092·P0020256·P0020278**을 기존 방제 문서에 연결한 안내입니다. 가감 이유의 배합 해석은 구성에서 읽은 설명이며, 공개기록에 없는 실제 환자의 진찰·치료 경과를 재현한 의안은 아닙니다. 개울화담전은 [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md), 가미대보원전은 [경악전서 보법](jingyue-quanshu.md#tonification-principles)과 나란히 읽으면 식적·울열과 허손·온양의 차이가 선명해집니다.
 
