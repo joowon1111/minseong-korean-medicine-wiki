@@ -41,3 +41,15 @@ test('search ranks named formula, finds aliases and filters evidence without inv
   assert.equal(tools.safeURL('javascript:alert(1)'),'#');
   assert.equal(tools.safeURL('//external.com'),'#');
 });
+
+test('a comparative query prioritizes both named formulas over generic comparison vocabulary', () => {
+  const rows = [
+    {title:'본초 비교·감별',heading:'차이와 비교',kind:'herb',url:'/herbs/a/',text:'사군자탕 구성·비교·차이·감별을 참고합니다.'},
+    {title:'사군자탕 vs 육군자탕',heading:'두 처방 비교',kind:'formula',url:'/formulas/comparison/',text:'사군자탕과 육군자탕은 반하·진피의 배합이 다릅니다.'},
+  ];
+  assert.equal(tools.search(rows,'사군자탕과 육군자탕의 차이')[0].url,'/formulas/comparison/');
+  assert.deepEqual(tools.search(rows,'존재하지않는처방 약량'),[]);
+  const p=study.emptyProgress();
+  study.recordAnswer(p,{id:'formula-test-fact-구조 읽기→구성/차이',answer:0,category:'구조'},0,1000,'formulas');
+  assert.deepEqual(study.restore(study.backup(p)).schedule,p.schedule);
+});

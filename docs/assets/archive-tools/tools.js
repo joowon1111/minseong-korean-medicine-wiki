@@ -19,10 +19,12 @@
       let score = 0, matched = 0;
       for (const w of words) {
         if (title.includes(w) || heading.includes(w) || text.includes(w) || tags.includes(w)) matched++;
-        score += (title.includes(w) ? 12 : 0) + (heading.includes(w) ? 7 : 0) + (tags.includes(w) ? 4 : 0) + (text.includes(w) ? 2 : 0);
+        const important = !general.has(w);
+        score += (title.includes(w) ? (important ? 28 : 2) : 0) + (heading.includes(w) ? (important ? 14 : 1) : 0) + (tags.includes(w) ? (important ? 6 : 1) : 0) + (text.includes(w) ? (important ? 3 : 0.5) : 0);
       }
       if (title === norm(query)) score += 50;
-      score += matched * matched;
+      const covered = specific.filter(w => (title + ' ' + heading + ' ' + text + ' ' + tags).includes(w)).length;
+      score += covered * covered * 4;
       return {row: r, score, order};
     }).filter(r => r.score > 0).sort((a, b) => b.score - a.score || a.order - b.order);
     const seen = new Set(), result = [];
