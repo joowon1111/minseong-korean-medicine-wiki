@@ -48,7 +48,10 @@ last_reviewed: '2026-09-21'
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md) · [시호계지탕](chaihu-guizhi-tang.md)
 - [행소산](xingsu-san.md) · [상국음](sangju-yin.md) · [맥문동탕](maidong-tang.md) — 량조·풍온·폐위음손의 기침 감별
 
-- **한출·오풍과 항배강:** 계지가갈근탕
+- [삼소음](renshen-suyin.md#samsoeum-xingsu-comparison) · [소자강기탕](suzi-jiangqi-tang.md#donguibogam-banxiaqu) · [정천탕](dingchuan-tang.md#dispersing-and-astringing) — 기허 외감과 담천의 배합·수록형을 비교
+- [구미강활탕](jiuwei-qianghuo-tang.md#warming-and-clearing) · [옥병풍산](yupingfeng-san.md#astragalus-saposhnikovia-pair) — 현재 외감과 평소 기허·자한을 구분
+
+- **한출·오풍과 항배강:** [계지가갈근탕의 약량·복법](guizhi-jia-gegen-tang.md#gegen-ratio-preparation)
 - **무한·전신통과 번조:** 대청룡탕
 
 ### 건중·허로
@@ -75,7 +78,8 @@ last_reviewed: '2026-09-21'
 - [작약감초탕](shaoyao-gancao-tang.md) — 근육경련·쥐
 - [독활기생탕](duhuo-jisheng-tang.md) · [갈근탕](gegen-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md)
 - [여신탕](yeosin-tang.md) — 좌섬·염좌 뒤 국소 요통과 움직임 제한
-- [천궁다조산](chuanxiong-chatiao-san.md) — 외감성 두통과 두면부 풍사의 소풍지통
+- [천궁다조산](chuanxiong-chatiao-san.md) · [청상견통탕](qingshang-juantong-tang.md#headache-formula-layers) — 소풍지통과 청열·자윤의 비중 비교
+- [소경활혈탕](shujing-huoxue-tang.md#source-herbs-and-bi-pattern) · [당귀수산](danggui-susan.md) — 오래된 복합 비증과 타박 뒤 어혈 비교
 
 ### 눈피로·더위 뒤 기음소모
 
@@ -83,6 +87,8 @@ last_reviewed: '2026-09-21'
 - [청서익기탕](qingshu-yiqi-tang.md) — 더위·습 뒤 땀·갈증·권태·식욕저하의 청서익기·양음생진
 
 ### 과민·긴장과 수면
+
+- [산조인탕](suanzaoren-tang.md#jinkui-preparation) · [온담탕](wendan-tang.md#wendan-name-and-components) · [소요산](xiaoyao-san.md#xiaoyao-distinct-structure) — 허번·담위불화·간울혈허의 배합 비교
 
 - [억간산](yigan-san.md) — 처방 구조와 치매 행동심리증상 연구
 - [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) — 흉만·번경·심계·수면 불안정의 복합 증후와 불면·정서 임상연구
