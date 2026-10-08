@@ -1799,7 +1799,7 @@
         },
         {
           "label": "수치·법제 확인",
-          "value": "포강·육계·소회향 등 온경약의 실제 가공 확인"
+          "value": "초건강·육계·소회향의 단위와 생포황·초오령지 확인"
         }
       ],
       "source": "/formulas/shaofu-zhuyu-tang/",
@@ -1871,7 +1871,7 @@
       "facts": [
         {
           "label": "구조 읽기",
-          "value": "보신·고충 + 태루·태동불안"
+          "value": "보신·고충, 원전 활태의 예방 문맥"
         },
         {
           "label": "수치·법제 확인",
@@ -1890,7 +1890,7 @@
       "facts": [
         {
           "label": "구조 읽기",
-          "value": "당귀·천궁 중심의 산후 혈분 구조"
+          "value": "당귀·천궁의 산과 혈분 구조, 시점별 감별"
         },
         {
           "label": "수치·법제 확인",
@@ -13668,6 +13668,12 @@
       "context": "구조 읽기: 하초 어혈·징가",
       "options": [
         {
+          "text": "소복축어탕",
+          "owner": "소복축어탕",
+          "ownerId": "formula-shaofu-zhuyu-tang",
+          "source": "/formulas/shaofu-zhuyu-tang/"
+        },
+        {
           "text": "조경종옥탕",
           "owner": "조경종옥탕",
           "ownerId": "formula-tiaojing-zhongyu-tang",
@@ -13684,15 +13690,9 @@
           "owner": "계지복령환",
           "ownerId": "formula-guizhi-fuling-wan",
           "source": "/formulas/guizhi-fuling-wan/"
-        },
-        {
-          "text": "소복축어탕",
-          "owner": "소복축어탕",
-          "ownerId": "formula-shaofu-zhuyu-tang",
-          "source": "/formulas/shaofu-zhuyu-tang/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "계지복령환 — 구조 읽기: 하초 어혈·징가",
       "source": "/formulas/guizhi-fuling-wan/"
     },
@@ -13722,10 +13722,10 @@
           "source": "/formulas/danggui-shaoyao-san/"
         },
         {
-          "text": "포강·육계·소회향 등 온경약의 실제 가공 확인",
-          "owner": "소복축어탕",
-          "ownerId": "formula-shaofu-zhuyu-tang",
-          "source": "/formulas/shaofu-zhuyu-tang/"
+          "text": "숙지황·당귀·향부자·오수유의 가공 확인",
+          "owner": "조경종옥탕",
+          "ownerId": "formula-tiaojing-zhongyu-tang",
+          "source": "/formulas/tiaojing-zhongyu-tang/"
         }
       ],
       "answer": 0,
@@ -14147,12 +14147,6 @@
           "source": "/formulas/saenghwa-tang/"
         },
         {
-          "text": "소복축어탕",
-          "owner": "소복축어탕",
-          "ownerId": "formula-shaofu-zhuyu-tang",
-          "source": "/formulas/shaofu-zhuyu-tang/"
-        },
-        {
           "text": "계지복령환",
           "owner": "계지복령환",
           "ownerId": "formula-guizhi-fuling-wan",
@@ -14163,9 +14157,15 @@
           "owner": "조경종옥탕",
           "ownerId": "formula-tiaojing-zhongyu-tang",
           "source": "/formulas/tiaojing-zhongyu-tang/"
+        },
+        {
+          "text": "소복축어탕",
+          "owner": "소복축어탕",
+          "ownerId": "formula-shaofu-zhuyu-tang",
+          "source": "/formulas/shaofu-zhuyu-tang/"
         }
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "소복축어탕 — 구조 읽기: 하초 한응어혈",
       "source": "/formulas/shaofu-zhuyu-tang/"
     },
@@ -14177,6 +14177,18 @@
       "prompt": "소복축어탕의 수치·법제 확인으로 정리된 것은?",
       "options": [
         {
+          "text": "당귀 약용부위와 천궁 규격, 산·탕제 차이 확인",
+          "owner": "불수산",
+          "ownerId": "formula-bulsu-san",
+          "source": "/formulas/bulsu-san/"
+        },
+        {
+          "text": "초건강·육계·소회향의 단위와 생포황·초오령지 확인",
+          "owner": "소복축어탕",
+          "ownerId": "formula-shaofu-zhuyu-tang",
+          "source": "/formulas/shaofu-zhuyu-tang/"
+        },
+        {
           "text": "숙지황·당귀·향부자·오수유의 가공 확인",
           "owner": "조경종옥탕",
           "ownerId": "formula-tiaojing-zhongyu-tang",
@@ -14187,22 +14199,10 @@
           "owner": "생화탕",
           "ownerId": "formula-saenghwa-tang",
           "source": "/formulas/saenghwa-tang/"
-        },
-        {
-          "text": "원방 환제와 탕제 차이, 계지·육계 및 도인 가공",
-          "owner": "계지복령환",
-          "ownerId": "formula-guizhi-fuling-wan",
-          "source": "/formulas/guizhi-fuling-wan/"
-        },
-        {
-          "text": "포강·육계·소회향 등 온경약의 실제 가공 확인",
-          "owner": "소복축어탕",
-          "ownerId": "formula-shaofu-zhuyu-tang",
-          "source": "/formulas/shaofu-zhuyu-tang/"
         }
       ],
-      "answer": 3,
-      "explanation": "소복축어탕 — 수치·법제 확인: 포강·육계·소회향 등 온경약의 실제 가공 확인",
+      "answer": 1,
+      "explanation": "소복축어탕 — 수치·법제 확인: 초건강·육계·소회향의 단위와 생포황·초오령지 확인",
       "source": "/formulas/shaofu-zhuyu-tang/"
     },
     {
@@ -14328,6 +14328,12 @@
           "source": "/formulas/wenjing-tang/"
         },
         {
+          "text": "보신·고충, 원전 활태의 예방 문맥",
+          "owner": "수태환",
+          "ownerId": "formula-shoutai-wan",
+          "source": "/formulas/shoutai-wan/"
+        },
+        {
           "text": "간울혈허 + 울열",
           "owner": "가미소요산",
           "ownerId": "formula-jiawei-xiaoyao-san",
@@ -14338,15 +14344,9 @@
           "owner": "완대탕",
           "ownerId": "formula-wandai-tang",
           "source": "/formulas/wandai-tang/"
-        },
-        {
-          "text": "보신·고충 + 태루·태동불안",
-          "owner": "수태환",
-          "ownerId": "formula-shoutai-wan",
-          "source": "/formulas/shoutai-wan/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "완대탕 — 구조 읽기: 비허·간울·습 + 대하",
       "source": "/formulas/wandai-tang/"
     },
@@ -14552,7 +14552,7 @@
           "source": "/formulas/guizhi-fuling-wan/"
         },
         {
-          "text": "보신·고충 + 태루·태동불안",
+          "text": "보신·고충, 원전 활태의 예방 문맥",
           "owner": "수태환",
           "ownerId": "formula-shoutai-wan",
           "source": "/formulas/shoutai-wan/"
@@ -14565,7 +14565,7 @@
         }
       ],
       "answer": 2,
-      "explanation": "수태환 — 구조 읽기: 보신·고충 + 태루·태동불안",
+      "explanation": "수태환 — 구조 읽기: 보신·고충, 원전 활태의 예방 문맥",
       "source": "/formulas/shoutai-wan/"
     },
     {
@@ -14574,19 +14574,13 @@
       "category": "여성·임신·산후",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "구조 읽기: 보신·고충 + 태루·태동불안",
+      "context": "구조 읽기: 보신·고충, 원전 활태의 예방 문맥",
       "options": [
         {
           "text": "조경종옥탕",
           "owner": "조경종옥탕",
           "ownerId": "formula-tiaojing-zhongyu-tang",
           "source": "/formulas/tiaojing-zhongyu-tang/"
-        },
-        {
-          "text": "수태환",
-          "owner": "수태환",
-          "ownerId": "formula-shoutai-wan",
-          "source": "/formulas/shoutai-wan/"
         },
         {
           "text": "계지복령환",
@@ -14599,10 +14593,16 @@
           "owner": "당귀작약산",
           "ownerId": "formula-danggui-shaoyao-san",
           "source": "/formulas/danggui-shaoyao-san/"
+        },
+        {
+          "text": "수태환",
+          "owner": "수태환",
+          "ownerId": "formula-shoutai-wan",
+          "source": "/formulas/shoutai-wan/"
         }
       ],
-      "answer": 1,
-      "explanation": "수태환 — 구조 읽기: 보신·고충 + 태루·태동불안",
+      "answer": 3,
+      "explanation": "수태환 — 구조 읽기: 보신·고충, 원전 활태의 예방 문맥",
       "source": "/formulas/shoutai-wan/"
     },
     {
@@ -14649,10 +14649,10 @@
       "prompt": "불수산의 구조 읽기으로 정리된 것은?",
       "options": [
         {
-          "text": "산후 혈허·어혈",
-          "owner": "생화탕",
-          "ownerId": "formula-saenghwa-tang",
-          "source": "/formulas/saenghwa-tang/"
+          "text": "충임허한 + 어혈·건조",
+          "owner": "온경탕",
+          "ownerId": "formula-wenjing-tang",
+          "source": "/formulas/wenjing-tang/"
         },
         {
           "text": "하초 한응어혈",
@@ -14661,20 +14661,20 @@
           "source": "/formulas/shaofu-zhuyu-tang/"
         },
         {
+          "text": "당귀·천궁의 산과 혈분 구조, 시점별 감별",
+          "owner": "불수산",
+          "ownerId": "formula-bulsu-san",
+          "source": "/formulas/bulsu-san/"
+        },
+        {
           "text": "혈허 + 수습",
           "owner": "당귀작약산",
           "ownerId": "formula-danggui-shaoyao-san",
           "source": "/formulas/danggui-shaoyao-san/"
-        },
-        {
-          "text": "당귀·천궁 중심의 산후 혈분 구조",
-          "owner": "불수산",
-          "ownerId": "formula-bulsu-san",
-          "source": "/formulas/bulsu-san/"
         }
       ],
-      "answer": 3,
-      "explanation": "불수산 — 구조 읽기: 당귀·천궁 중심의 산후 혈분 구조",
+      "answer": 2,
+      "explanation": "불수산 — 구조 읽기: 당귀·천궁의 산과 혈분 구조, 시점별 감별",
       "source": "/formulas/bulsu-san/"
     },
     {
@@ -14683,13 +14683,19 @@
       "category": "여성·임신·산후",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "구조 읽기: 당귀·천궁 중심의 산후 혈분 구조",
+      "context": "구조 읽기: 당귀·천궁의 산과 혈분 구조, 시점별 감별",
       "options": [
         {
-          "text": "소복축어탕",
-          "owner": "소복축어탕",
-          "ownerId": "formula-shaofu-zhuyu-tang",
-          "source": "/formulas/shaofu-zhuyu-tang/"
+          "text": "불수산",
+          "owner": "불수산",
+          "ownerId": "formula-bulsu-san",
+          "source": "/formulas/bulsu-san/"
+        },
+        {
+          "text": "온경탕",
+          "owner": "온경탕",
+          "ownerId": "formula-wenjing-tang",
+          "source": "/formulas/wenjing-tang/"
         },
         {
           "text": "당귀작약산",
@@ -14698,20 +14704,14 @@
           "source": "/formulas/danggui-shaoyao-san/"
         },
         {
-          "text": "불수산",
-          "owner": "불수산",
-          "ownerId": "formula-bulsu-san",
-          "source": "/formulas/bulsu-san/"
-        },
-        {
-          "text": "생화탕",
-          "owner": "생화탕",
-          "ownerId": "formula-saenghwa-tang",
-          "source": "/formulas/saenghwa-tang/"
+          "text": "소복축어탕",
+          "owner": "소복축어탕",
+          "ownerId": "formula-shaofu-zhuyu-tang",
+          "source": "/formulas/shaofu-zhuyu-tang/"
         }
       ],
-      "answer": 2,
-      "explanation": "불수산 — 구조 읽기: 당귀·천궁 중심의 산후 혈분 구조",
+      "answer": 0,
+      "explanation": "불수산 — 구조 읽기: 당귀·천궁의 산과 혈분 구조, 시점별 감별",
       "source": "/formulas/bulsu-san/"
     },
     {
@@ -14837,16 +14837,16 @@
           "source": "/formulas/tiaojing-zhongyu-tang/"
         },
         {
+          "text": "초건강·육계·소회향의 단위와 생포황·초오령지 확인",
+          "owner": "소복축어탕",
+          "ownerId": "formula-shaofu-zhuyu-tang",
+          "source": "/formulas/shaofu-zhuyu-tang/"
+        },
+        {
           "text": "포강과 생강·건강을 구분하고 도인·당귀 비율 확인",
           "owner": "생화탕",
           "ownerId": "formula-saenghwa-tang",
           "source": "/formulas/saenghwa-tang/"
-        },
-        {
-          "text": "포강·육계·소회향 등 온경약의 실제 가공 확인",
-          "owner": "소복축어탕",
-          "ownerId": "formula-shaofu-zhuyu-tang",
-          "source": "/formulas/shaofu-zhuyu-tang/"
         },
         {
           "text": "당귀 약용부위와 천궁 규격, 산·탕제 차이 확인",
@@ -14855,7 +14855,7 @@
           "source": "/formulas/bulsu-san/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "생화탕 — 수치·법제 확인: 포강과 생강·건강을 구분하고 도인·당귀 비율 확인",
       "source": "/formulas/saenghwa-tang/"
     },
