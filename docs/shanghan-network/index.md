@@ -157,8 +157,31 @@ last_reviewed: 2026-08-20
 
 상한론의 임상적 강점은 **증상을 묶어 병증 구조를 만들고, 그 구조에 맞춰 치법과 처방을 연결하는 방식**에 있다.
 
+먼저 병력과 현재 증후를 기록하고, 표리·한열·허실을 잠정적으로 나눈 뒤 수기·혈분·진액 상태를 살핍니다. 그다음 비슷한 조문의 차이를 확인하고 치료 후 변화를 다시 기록합니다. 아래는 실제 환자 의안이 아니라 **원문 조문의 학습용 대조**입니다.
 
-이 사고방식은 오늘날 한의학의 변증논치와 임상 추론 구조를 이해하는 데도 중요한 기반이 된다.
+| 같은 출발 증상 | 갈림점을 만드는 추가 소견 | 조문에서 나뉘는 해석 |
+|---|---|---|
+| 발열·몸의 통증 | 자한·오풍과 무한·천·부긴맥의 차이 | [12·13조 계지탕](../classics/shanghanlun/guizhi-indication.md)과 [35조 마황탕](../classics/shanghanlun/mahuang-indication.md)의 영위·표실 구분 |
+| 발한 뒤 계속 아픔 | [62조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-062)의 신통·침지맥 | 남은 통증을 곧바로 강한 해표의 근거로 삼지 않고 신가탕의 허손 문맥과 비교 |
+| 발한 뒤 갈증 | [71조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-071)의 위중건과 부맥·소변불리·미열의 차이 | 수분을 조금씩 주는 경우와 오령산의 수기불리를 나눔 |
+| 땀·열·답답함 | [182조](../classics/shanghanlun/clauses/yangming.md#clause-182)의 불오한·오열, [208조](../classics/shanghanlun/clauses/yangming.md#clause-208)의 조열·복만·대변경 | 청열과 공하를 가르는 리열·조실 및 표증 잔존 여부를 확인 |
+| 명치가 그득함 | 흉협의 불편인지, 눌러 아픈 단단함인지, 그득하되 아프지 않은지 | [149조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149)의 시호증·결흉·비 구분 |
+| 손발 냉감 | 활맥·리열, 세맥욕절, 심하계, 소음의 침맥 | [350·351·356조](../classics/shanghanlun/clauses/jueyin.md#clause-350)와 [323조](../classics/shanghanlun/clauses/shaoyin.md#clause-323)의 열·혈분·수기·온리 문맥을 따로 읽음 |
+
+### 치료 전후에 같은 항목을 비교하기 {#reassessment}
+
+원문은 처방 이름 뒤에도 관찰 조건을 남깁니다. [12조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-012)는 미한과 호전 시 중지를, [208조](../classics/shanghanlun/clauses/yangming.md#clause-208)는 배변 뒤 남은 약의 중지를 설명합니다. 땀이나 설사가 많을수록 좋은 치료라는 뜻이 아닙니다.
+
+| 다시 기록할 항목 | 비교의 목적 |
+|---|---|
+| 오한·발열·땀·갈증 | 표증이 남았는지, 열과 진액 상태가 달라졌는지 |
+| 명치·흉협·복부의 그득함과 압통 | 처음의 병위와 통증 성격이 유지되는지 |
+| 식사량·구토·대변·소변 | 섭취·승강·배설이 함께 회복되는지 |
+| 맥·활력·수면·어지럼 | 허손이 드러나거나 새로운 증후가 생겼는지 |
+
+[16조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-016)는 여러 치료 뒤 병증이 달라졌을 때 현재 맥증에 따라 다시 치료하라고 합니다. [101조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-101)의 시호증이 남는 경우와 [149조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149)의 비·결흉으로 달라진 경우를 나란히 읽으면, 같은 처방을 유지할 이유와 전환할 이유가 구체적으로 드러납니다.
+
+원문 용어를 오늘의 진찰 기록에 활용할 때에는 활력징후·탈수·호흡 상태·복부 진찰을 함께 확인합니다. 의식 변화·호흡곤란·심한 지속 복통은 조문이나 복약 반응만으로 평가하지 않습니다. [맥과 증상의 교차 확인](../classics/shanghanlun.md#pulse-and-pattern) · [처방 계열별 감별](../formula-architecture/shanghan-family.md#base-and-derived)
 
 → [변증→치법 지식망](../pattern-treatment/index.md)
 → [임상 추론 경로](../clinical-reasoning/index.md)

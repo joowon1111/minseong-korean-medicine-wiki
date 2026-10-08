@@ -21,6 +21,84 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 수기와 소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) | 갈증·소변·구토·어지럼 및 맥의 조합, 표리와 허실 차이 |
 | 궐음의 한열착잡 | [오매환 — 338조](../classics/shanghanlun/clauses/jueyin.md#clause-338) | 장궐·회궐의 구별, 구토·하리와 원방 10미 배합을 조문에서 읽기 |
 
+### 기본방과 파생방 — 바뀐 약재보다 먼저 바뀐 맥증 보기 {#base-and-derived}
+
+가감방은 기본방에 증상별 약재를 기계적으로 붙인 목록이 아닙니다. 먼저 **원방의 증후가 남았는지**, 추가 증후 때문에 **치법의 중심이 달라졌는지**를 확인합니다. 아래 감별은 송본 조문에 따른 학습용 대조이며, 배합의 의미는 후대 방제학의 해석과 구분해 설명합니다. 고전 단위는 원문 비교용으로 보존하고 현대 복용량으로 환산하지 않습니다.
+
+| 계지탕 계열 | 원방에서 달라지는 구성 | 조문에서 먼저 확인할 변화 |
+|---|---|---|
+| [계지가후박행자탕 · 18·43조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-018) | 계지탕에 후박·행인 추가 | 계지탕 증후에 천증이 겹치거나, 하법 뒤 남은 표증에 미천이 있는 문맥 |
+| [계지가부자탕 · 20조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-020) | 계지탕 골격에 포부자 | 발한 뒤 누한·오풍·소변난·사지구급. 원문의 감초 용량은 편별 대조가 필요 |
+| [계지거작약탕 · 21조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-021) | 작약을 뺌 | 하법 뒤 촉맥·흉만. 작약의 유무를 흉부와 복부 증후의 차이와 비교 |
+| [계지신가탕 · 62조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-062) | 계지탕의 작약·생강을 각 1냥 증량하고 인삼 3냥 추가 | 발한 뒤 신통·침지맥. 남은 통증과 허손을 함께 읽음 |
+| [계지가작약탕 · 279조](../classics/shanghanlun/clauses/taiyin.md#clause-279) | 작약을 3냥에서 6냥으로 | 하법 뒤 복만·시간성 복통. 같은 계지탕 골격이 태음 문맥에서 운용됨 |
+
+계지마황각반탕(23조)과 계지이마황일탕(25조)은 합방의 비율을 달리한 예입니다. 앞 조문은 반복 한열 속 회복·허손·남은 표증을 먼저 나누고, 뒤 조문은 계지탕 복용 이후의 맥증과 반복 한열을 다룹니다. ‘각반’과 ‘이대일’은 같은 현대 용량의 두 완제품을 섞으라는 뜻이 아닙니다. [계지탕의 복법·합방 독해](../classics/shanghanlun/guizhi-indication.md#derived-formulas)
+
+### 마황탕·청룡탕·마행감석탕 — 무한·천·번조·수음의 조합 {#exterior-respiratory}
+
+| 처방 | 배합의 축 | 갈림점과 원문 |
+|---|---|---|
+| 마황탕 | 마황·계지·행인·자감초 | [35조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-035)의 무한·천·신통을 전체 표증과 연결 |
+| 대청룡탕 | 마황탕과 공통 약재에 생강·대조·석고, 원문 비율도 다름 | [38조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-038)의 부긴맥·무한·번조. 미약맥·한출·오풍의 제외 조건을 함께 확인 |
+| 소청룡탕 | 마황·계지에 건강·세신·반하·오미자·작약·감초 | [40조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-040)의 표불해·심하수기·건구·해수. 대청룡탕과 이름이 비슷해도 수음을 다루는 축이 다름 |
+| 마행감석탕 | 마황·행인·감초·석고, 계지 없음 | [63조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-063)의 발한 뒤 한출·천과 계지탕을 다시 쓰지 않는 문맥 |
+
+소청룡탕 40조의 가감에는 송교자가 의문을 제기한 부기가 붙어 있습니다. 현대 임상 요약에서 특정 가감만 떼기보다 본문과 부기를 함께 읽습니다. [마황탕의 발한 조건](../classics/shanghanlun/mahuang-indication.md#sweating-conditions) · [소청룡탕 조문 해설](../classics/shanghanlun/xiaoqinglong.md)
+
+### 백호탕류와 승기탕류 — 열·진액과 조실을 나누기 {#heat-and-dryness}
+
+백호탕의 석고·지모·감초·갱미는 청열과 진액·위기의 관계를 읽는 골격입니다. 백호가인삼탕은 이 골격에 인삼 3냥을 더합니다. [26조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-026)와 [168조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-168)는 치료 뒤 대번갈·설조·음수욕이 남는 상황을 구체적으로 제시합니다. ‘열이 높으면 백호탕’보다 오한·땀·갈증·섭취·맥의 조합과 진액 손상을 확인하는 것이 중요합니다. 176조의 표리한열 표현에는 교감 논의가 있어 [원문과 독해](../classics/shanghanlun/clauses/taiyang-lower.md#clause-176)를 함께 봅니다.
+
+승기탕류는 같은 대황을 쓰더라도 구성·비율·제법이 달라집니다. **아래 수치는 송본의 원전 용량**이며 제제나 개인 처방의 용량표가 아닙니다.
+
+| 처방 | 송본 구성 | 비교할 방의·관찰점 |
+|---|---|---|
+| [대승기탕](../formulas/dachengqi-tang.md) | 대황 4냥·후박 반근·지실 5매·망초 3합 | 조실·창만과 공하 조건을 함께 봄. 후박·지실을 먼저 달이고 대황, 이후 망초를 넣는 순서 |
+| [소승기탕](../formulas/xiaochengqi-tang.md) | 대황 4냥·후박 2냥·지실 3매 | 망초가 없고 후박·지실의 비중도 다름. 대승기탕에서 망초만 뺀 처방으로 단순화하지 않음 |
+| [조위승기탕 · 29조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-029) | 대황 4냥·자감초 2냥·망초 반승 | 후박·지실이 없는 대황·망초·감초의 배합. 위기불화·번증 등의 해당 조문을 확인 |
+
+[208조](../classics/shanghanlun/clauses/yangming.md#clause-208)는 남은 오한·표증, 조열·복만·대변경을 구별하고 지나친 설하를 경계합니다. [209조](../classics/shanghanlun/clauses/yangming.md#clause-209)는 변의 굳음과 복약 뒤 방귀·복부 반응을 확인합니다. 따라서 세 처방은 ‘강·중·약’만으로 외우기보다 **조·실·창만의 비중, 진액·표증 상태, 구성과 제법**을 같이 비교합니다.
+
+### 축음·이수 처방과 축혈 처방 — 위치와 배설을 함께 보기 {#fluids-and-blood}
+
+| 비교 축 | 원문 증후와 대표 처방 | 핵심 감별 |
+|---|---|---|
+| 해표 뒤 갈증·배뇨 | [71조 오령산](../classics/shanghanlun/clauses/taiyang-middle.md#clause-071) | 위중건으로 음수가 필요한 경우와 부맥·소변불리·미열의 수기불리를 나눔 |
+| 심하역만·기립 시 어지럼 | [67조 영계출감탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-067) | 토하 이력·기상충·침긴맥과 함께 읽음. 재발한의 적합성도 확인 |
+| 복통·사지침중·하리 | [316조 진무탕](../classics/shanghanlun/clauses/shaoyin.md#clause-316) | 소음 문맥의 수기. 부자·백출·복령·생강·작약의 온양·이수 배합 |
+| 소복급결·여광 | [106조 도핵승기탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-106) | 표증이 남으면 먼저 해표한다는 선후와 하초 축혈을 확인 |
+| 소복경만·발광·소변자리 | [124조 저당탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-124) | 소변이 잘 나온다는 조건을 하초 축혈 문맥과 비교. 배뇨 한 가지로 축혈을 확정하지 않음 |
+
+원문의 축혈을 현대 혈전, 수기를 특정 장기의 부종·수분저류와 일대일로 옮기지 않습니다. 현대의 배뇨 이상·급성 복통·정신 상태 변화는 원인 평가를 함께 진행합니다. [오령산](../formulas/wuling-san.md) · [영계출감탕](../formulas/linggui-zhugan-tang.md) · [진무탕](../formulas/zhenwu-tang.md) · [도핵승기탕](../formulas/taohe-chengqi-tang.md)
+
+### 치자시탕과 사심탕류 — 허번·비·결흉의 차이 {#vexation-and-pi}
+
+치자시탕은 [76조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-076)의 한토하 뒤 허번·불면·심중오뇌를 읽는 처방입니다. 여기의 ‘허번’을 모두 기허나 음허로 환원하지 않고, 소기가 있으면 감초를, 구토가 있으면 생강을 더하는 원문의 구분을 살핍니다. 명치가 단단하거나 그득한 비·결흉의 조문과는 질문이 다릅니다.
+
+| 사심탕류 | 구성에서 달라지는 축 | 원문 감별 |
+|---|---|---|
+| 반하사심탕 | 반하·건강의 신온, 황금·황련의 고한, 인삼·감초·대조 | [149조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149)의 시호증, 경통의 결흉, 만이불통의 비를 먼저 나눔 |
+| 생강사심탕 | 생강 4냥, 건강은 1냥; 반하사심탕의 건강 3냥과 대조 | [157조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-157)의 건애식취·협하수기·장명·하리 |
+| 감초사심탕 | 감초 4냥과 위허의 비중; 인삼 수록은 판본별 확인 | [158조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-158)의 반복 하법 뒤 미소화 하리·건구·심번 |
+| 대황황련사심탕 | 대황 2냥·황련 1냥을 끓는 물에 침출 | [154조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-154)의 심하비·안지유·관상부. 승기탕의 전탕·조실 문맥과 구분 |
+| 부자사심탕 | 대황·황련·황금의 침출액과 별도로 달인 부자액 | [155조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-155)의 비와 오한·한출이 겹치는 경우 |
+
+아카이브가 따르는 송본 158조 감초사심탕의 목록에는 인삼이 없습니다. 다른 수록본·교감 해석의 인삼 포함 구성을 같은 원문처럼 합치지 않습니다. 부자사심탕도 대황황련사심탕 두 약재에 부자만 덧붙인 구성으로 설명하면 황금을 놓치게 됩니다. [반하사심탕의 원문 계열 비교](../formulas/banxia-xiexin-tang.md#shanghan-xiexin-family)
+
+### 온양·온중·한열병용 — 차다는 말 하나로 묶지 않기 {#warming-and-mixed-patterns}
+
+| 처방 | 기본 구성·치법의 축 | 조문에서 구분할 조건 |
+|---|---|---|
+| 사역탕 | 부자·건강·자감초의 온리회양 | [323조](../classics/shanghanlun/clauses/shaoyin.md#clause-323)의 소음병·침맥을 전체 허한 맥증과 함께 읽음 |
+| 이중환·이중탕 | 인삼·건강·백출·자감초의 온중·건비 | [386조](../classics/shanghanlun/clauses/huoluan.md#clause-386)의 토리와 한다·불음수. 오령산과 나뉘는 조건 및 환·탕의 제형 |
+| 진무탕 | 포부자·복령·백출·생강·작약의 온양이수 | [316조](../classics/shanghanlun/clauses/shaoyin.md#clause-316)의 복통·배뇨·사지침중·하리 |
+| 마황세신부자탕 | 마황·세신·포부자의 표리 병행 | [301조](../classics/shanghanlun/clauses/shaoyin.md#clause-301)의 시작 단계·반발열·침맥 |
+| 사역산 | 시호·작약·지실·감초 | [318조](../classics/shanghanlun/clauses/shaoyin.md#clause-318)의 사역과 동반증. 사역탕과 이름이 비슷해도 부자·건강이 없는 다른 골격 |
+| 오매환 | 오매에 한·열·보익 약재가 함께 배치 | [338조](../classics/shanghanlun/clauses/jueyin.md#clause-338)의 장궐·회궐과 구토·하리. 자세한 구성은 아래 해설 |
+
+소음편에는 온양방뿐 아니라 [303조 황련아교탕](../classics/shanghanlun/clauses/shaoyin.md#clause-303)의 심중번·불면도 있습니다. 육경 이름을 치법 하나로 고정하지 않습니다. 부자·세신 등을 포함한 역사적 원방의 생용·포제와 고전 용량은 현대 제품의 규격·법제·용량과 구분하며 직접 조제 지침으로 사용하지 않습니다.
+
 ### 시호가용골모려탕 — 107조의 흉만·번경과 몸의 무거움
 
 《상한론》 태양병 중편 107조는 하법 뒤의 흉만·번경·소변불리·섬어·몸의 무거움이 한데 나타난 문맥에서 시호가용골모려탕을 제시합니다. 심계나 수면 불안정만 떼어 처방을 고르는 방식보다, 조문에서 함께 기록한 병력·흉복부 소견·배설·전신 상태를 이어 읽는 것이 핵심입니다.
@@ -50,7 +128,7 @@ tags: [방제구조, 상한론, 금궤요략, 고방]
 | 담음·기침·호흡 | [영계출감탕](../formulas/linggui-zhugan-tang.md) · [외대복령음 — 금궤요략 부방](#waidai-fuling-yin) · [맥문동탕](../formulas/maidong-tang.md) · [반하후박탕](../formulas/banxia-houpo-tang.md) |
 | 수습·부종·소변 | [오령산](../formulas/wuling-san.md) · [진무탕](../formulas/zhenwu-tang.md) |
 | 부인과 혈증·월경 | [계지복령환](../formulas/guizhi-fuling-wan.md) · [당귀작약산](../formulas/danggui-shaoyao-san.md) · [온경탕](../formulas/wenjing-tang.md) |
-| 허로·심신 불안 | [산조인탕](../formulas/suanzaoren-tang.md) · [시호가용골모려탕](../formulas/chaihu-jia-longgu-muli-tang.md) | 금궤요략의 허로와 상한론 107조의 번경·흉만을 구분 |
+| 허로·심신 불안 | [산조인탕](../formulas/suanzaoren-tang.md). 비교 자료로는 **상한론** [107조 시호가용골모려탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-107)을 따로 읽어 허로의 불면과 번경·흉만의 차이를 확인 |
 
 
 
