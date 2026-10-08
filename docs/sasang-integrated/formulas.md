@@ -96,7 +96,9 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 | 단계·병증 | 환자가 느끼기 쉬운 모습 | 대표 처방군 |
 |---|---|---|
 | 태양증·표병 초기 | 오한·발열, 두통·신체통, 땀의 변화 | [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) · [궁귀향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gunggwihyangso) |
-| 망양초증 | 땀 뒤 기력저하, 표병이 오래가며 회복이 더딤 | [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) · [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
+| 망양초증 | 신열·자한·번뇌·신체통과 오한 | 황기계지탕, [2014 망양병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719) |
+| 망양중증 | 자한·신열에 불오한·단오열, 복만·대변비조·번조 | 보중익기탕 · [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) |
+| 후대 태양양명 수록형 | 실제 약미와 판본·주치를 대조하는 별도 자료 | [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers) |
 | 망양의 심화 | 발한과 탈진, 냉감·쇠약이 더욱 뚜렷함 | [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) · [인삼관계부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-insam-gwangye-buja) · [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) |
 | 태음병·리한 | 식욕저하, 복통·설사, 구토, 냉감 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) · [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
 | 리한+기체·담습 | 흉복부 답답함, 더부룩함, 오심·구토 | [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) · [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso) · [계지반하생강탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gyeji-banha) |

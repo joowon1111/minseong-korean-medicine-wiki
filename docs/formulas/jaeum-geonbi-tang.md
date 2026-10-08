@@ -19,7 +19,24 @@ last_reviewed: 2026-09-21
 | 안신정지 | 복신·원지 | 심계·건망·불안·수면 변화를 함께 살핌 |
 | 조화중초 | 생강·대조 | 위기를 화하고 처방 전체를 조화 |
 
-《방약합편》에는 백출 1돈 5푼, 진피·반하·백복령 각 1돈, 당귀·백작약·건지황 각 7푼, 인삼·복신·맥문동·원지 각 5푼, 천궁·감초 각 3푼과 생강 3편·대조 2매가 수록됩니다. 수록본과 제형에 따라 약미·포제 표기가 달라질 수 있습니다.
+《동의보감》 외형편 두문의 공개 전사에서는 백출 1돈 5푼, 진피·반하·백복령 각 1돈, 당귀·백작약·생건지황 각 7푼, 인삼·백복신·맥문동·원지 각 5푼, 천궁·감초 각 3푼과 생강 3편·대조 2매를 확인할 수 있습니다. **진피의 염수세·거백과 반하·원지의 포제**도 함께 기록됩니다. [두문 공개 원문](https://ko.wikisource.org/wiki/동의보감/외형편#頭)의 전사 출처와 이용 조건은 [동의보감 원문 안내](../classics/donguibogam.md#selected-clinical-passages)에 정리했습니다.
+
+### 동의보감·방약합편 공개기록을 대조하기 {#source-comparison}
+
+《동의보감》에서는 **외형편 권1 두문**에 수록되며 ‘회춘’을 출전으로 기록합니다. 같은 이름의 《방약합편》 상통 기록과 비교하면 공개 DB의 일부 약재량이 서로 다릅니다.
+
+| 확인 약미 | 동의보감A, P0002699 | 방약합편B, P0003981 |
+|---|---|---|
+| 백출 | 5.625 g | 2.625 g |
+| 백작약 | 2.625 g | 5.625 g |
+| 인삼 | 1.875 g | 3.75 g |
+| 백복령 | 2.625 g | 1.875 g |
+| 백복신 | 용량 공란 | 2.625 g |
+| 생건지황 | 1.875 g | 1.875 g |
+
+표는 **DB 입력값의 차이**를 보여주며 판본 차이로 확정하는 표가 아닙니다. 앞의 동의보감 전사문과 DB의 지황·복령 등 값이 일치하지 않는 부분은 해당 영인본의 처방문과 제품 구성표로 다시 대조합니다. 공란을 다른 수록본 수치로 채우거나 평균 용량을 만들지 않습니다. 생건지황을 숙지황으로 바꾸는 경우도 별도 가감입니다. [동의보감A 공개기록](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0002699&tempLang=ko) · [방약합편B 공개기록](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0003981&tempLang=ko)
+
+처방의 공통 배합을 비교할 때는 건비·화담, 양혈·자음, 안신을 나누어 봅니다. 비위허약·식적이 중심인 [삼출건비탕](samchul-geonbi-tang.md#donguibogam-version)과 달리 원지·복신·맥문동·지황이 들어가는 차이가 중요합니다. 어지럼이라는 증상명보다 심계·수면·오심·식사량의 동반 양상을 확인합니다.
 
 ## 임상에서 먼저 보는 단서
 
@@ -50,5 +67,5 @@ last_reviewed: 2026-09-21
 ## 관련 문서
 
 - [어지럼·현훈](../conditions/dizziness.md) · [이명](../conditions/tinnitus.md)
-- [어지럼·현훈의 한약·침·전침·약침 치료](../conditions/dizziness.md) · [이명](../conditions/tinnitus.md)
+- [동의보감 두문](../classics/donguibogam.md#selected-clinical-passages) · [방약합편 주요 처방](../bangyakhappyeon-network/index.md#representative-formulas)
 - [익기보혈탕](ikgi-bohyeol-tang.md)

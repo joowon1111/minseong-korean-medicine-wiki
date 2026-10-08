@@ -62,6 +62,8 @@ last_reviewed: 2026-09-22
 
 오한·발열과 땀의 시점, 발한 뒤 기력·냉감, 식사·배설과 일상기능을 함께 봅니다. 부자 포함 처방은 병증 단계뿐 아니라 포제·용량·심혈관 상태를 별도로 확인합니다.
 
+이 색인의 승양팔물탕은 갑오본 계통·후대 태양양명 수록형을 비교하는 자료입니다. 신축본의 망양초증 처방으로 고정하지 않으며, [처방 카드의 판본·주치 구분](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)과 [망양병 지침의 단계별 처방](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719)을 따로 읽습니다.
+
 ### 소음인 태음병·소음병·리한 {#soeum-taeeum}
 
 [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) · [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) · [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) · [오수유부자이중탕](osuyubujairijung-tang.md) · [계지반하생강탕](soeumin-extended-formulas.md#soeum-gyeji-banha) · [궁귀총소이중탕](soeumin-extended-formulas.md#soeum-gunggwichongso) · [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) · [십이미관중탕](soeumin-extended-formulas.md#soeum-sibimi-gwanjung) · [관중탕](soeumin-extended-formulas.md#soeum-gwanjung)

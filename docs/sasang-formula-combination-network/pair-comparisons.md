@@ -33,7 +33,7 @@ last_reviewed: 2026-09-22
 | 비교 | 공통 골격 | 구성·병증의 갈림점 |
 |---|---|---|
 | [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) ↔ [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso) | 초기 표병, 두통·오한·발열 | 계지·백작약·천궁의 통증축 ↔ 향부자·소엽·창출의 기체·소화축 |
-| [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) ↔ [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) | 인삼·황기·백작약·당귀, 망양 | 망양초증·기혈 회복 ↔ 계지·부자와 깊은 냉감·쇠약 |
+| [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers) ↔ [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) | 인삼·황기·백작약·당귀 | 후대 태양양명 수록형 ↔ 부자를 포함한 망양 처방, 출전·병증을 별도로 확인 |
 | [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) ↔ [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) | 건강·백출·진피·감초, 태음병 리한 | 곽향·소엽·반하·창출의 한습·구토 ↔ 백하수오·백작약·계지의 자리증·복통·설사 |
 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) ↔ [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) | 건강·백출·백작약·진피·감초, 온중 | 태음병 자리증 ↔ 인삼·관계·포부자와 사지궐냉·전신 쇠약 |
 | [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) ↔ [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) | 인삼·건강·관계·백출·부자 | 깊은 허한·지속 설사 ↔ 오수유·소회향·보골지와 구토·장궐·격양 |

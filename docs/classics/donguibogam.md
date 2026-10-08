@@ -56,6 +56,16 @@ last_reviewed: 2026-10-07
 
 **동명 처방 확인:** 《동의보감》 몽문의 [산조인탕](../formulas/suanzaoren-tang.md#donguibogam-version)은 석고·인삼·계심 등을 포함한 7미 구성입니다. 현재 널리 설명되는 《금궤요략》의 5미 산조인탕과 구성·연구를 구분합니다.
 
+### 비위·현훈·허로에서 이어 읽을 처방 {#digestion-dizziness-deficiency}
+
+| 수록 위치 | 처방·구성 대조 | 병문에서 비교할 질문 |
+|---|---|---|
+| 잡병편 권3 내상 | [삼출건비탕](../formulas/samchul-geonbi-tang.md#donguibogam-version) | 비위허약에 식적·기체가 겹치는가? 동의보감A의 지실 포함형과 후대 11미 기록을 구별 |
+| 외형편 권1 두 | [자음건비탕](../formulas/jaeum-geonbi-tang.md#source-comparison) | 어지럼에 담음·기혈손상과 심계·소화·수면 문제가 함께 있는가? 전사문과 DB 약재량을 대조 |
+| 잡병편 권4 허로 | [고진음자](../formulas/gojin-eumja.md#donguibogam-version) | 보익에 수렴고삽·허열 조절을 함께 둔 이유는 무엇인가? 숙지황·황기·오미자와 진피·황백·택사의 배합을 읽음 |
+
+이 세 처방은 수록 위치가 다르지만 섭취·소화·회복과 연결됩니다. **삼출건비탕의 소식·이기, 자음건비탕의 양혈·안신, 고진음자의 익정·고삽**을 비교하고, 병문별 주치와 실제 약미·포제를 따로 확인합니다. 《방약합편》의 [전씨이공산·정전가미이진탕](../bangyakhappyeon-network/index.md#representative-formulas), 《청강의감》의 [개울화담전·가미대보원전](cheonggang-uigam.md#representative-formulas)을 함께 읽으면 같은 ‘소화불량’이나 ‘피로’ 안에서 처방 구조가 달라지는 이유를 볼 수 있습니다.
+
 배변·설사·월경통과 맥의 불규칙은 수록 위치와 실제 구성을 함께 확인합니다. **내경편 권4 대변의 [비약환·마자인환 계열](../formulas/mazi-ren-wan.md#donguibogam-version)**, **잡병편 권3 내상의 [삼령백출산](../formulas/shenling-baizhu-san.md#donguibogam-version)** 및 한(寒) 항목의 [반하사심탕](../formulas/banxia-xiexin-tang.md#donguibogam-version), **잡병편 권10 부인의 [온경탕](../formulas/wenjing-tang.md#donguibogam-version)**, **외형편 권3 맥의 [자감초탕](../formulas/zhigancao-tang.md#donguibogam-version)**을 기존 방제 문서에서 읽을 수 있습니다. 각 수록본의 약재·포제·제형은 해당 문서의 한국전통지식포탈 처방 기록과 대조했습니다.
 
 원문 대조: 위키문헌의 《동의보감》 [내경편](https://ko.wikisource.org/wiki/동의보감/내경편), [외형편](https://ko.wikisource.org/wiki/동의보감/외형편), [잡병편](https://ko.wikisource.org/wiki/동의보감/잡병편). 고대 원문의 짧은 구절을 발췌하고 문장부호를 정리했습니다. 전자 전사는 위키문헌 기여자에게 출처를 표시하며 전사 편집의 이용 조건은 해당 사이트의 CC BY-SA 4.0 안내를 따릅니다. 전사에는 이체자·오자가 있으므로 임상 조제에는 공인 원료·제제 정보와 처방 원전을 다시 확인합니다. 원문 단위인 전·분은 역사적 기록이며 개인의 복용량 안내가 아닙니다.

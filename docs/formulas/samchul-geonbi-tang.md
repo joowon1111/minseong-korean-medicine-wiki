@@ -12,7 +12,21 @@ last_reviewed: 2026-09-21
 
 ## 구성과 처방 구조
 
-대표 수록 구성은 인삼·백출·백복령·감초, 백작약, 진피·후박·사인, 산사육·신곡·맥아입니다.
+후대 해설서B의 11미 구성은 인삼·백출·백복령·감초, 백작약, 진피·후박·사인, 산사육·신곡·맥아입니다.
+
+### 동의보감 수록형과 후대 기록의 차이 {#donguibogam-version}
+
+《동의보감》 잡병편 권3 내상에 대응하는 **삼출건비탕A(P0001494)**는 다음 12미를 기록합니다. 기존에 연결된 **삼출건비탕B(P0016230)**는 《동의방제와 처방해설》(2002) 자료로, 지실이 없는 11미입니다.
+
+| 약미군 | 동의보감A의 DB 용량 | 2002년 해설서B와의 비교 |
+|---|---|---|
+| 인삼·백출·백복령·진피·후박·산사육 | 각 3.75 g | 공통 |
+| 백작약 | 3 g | 공통 |
+| 지실 | 3 g | A에 있고 B에는 없음 |
+| 신곡·맥아·축사·감초 | 각 1.875 g | 공통 |
+| 생강·대조 | 3편·2매 | 제법에 함께 기록 |
+
+약미별 g은 공개 DB 표기입니다. ‘삼출건비탕’이라는 이름만으로 두 구성을 합치지 않고 **지실의 유무와 출전**을 확인합니다. 지실은 다른 소식·이기약과 함께 복부 정체를 비교하는 약미이며, 명칭만 보고 임의로 추가하지 않습니다. [동의보감A 기록](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0001494&tempLang=ko) · [2002년 B 기록](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0016230&tempLang=ko)
 
 | 구성축 | 본초 | 역할 |
 |---|---|---|
@@ -20,6 +34,7 @@ last_reviewed: 2026-09-21
 | 양혈완급 | [백작약](../herbs/white-peony.md) | 복부 긴장과 통증을 부드럽게 조절 |
 | 소식화체 | [산사](../herbs/hawthorn.md)·신곡·[맥아](../herbs/barley-malt.md) | 음식 정체와 식후 더부룩함을 풀어 줌 |
 | 이기화습 | [진피](../herbs/citrus-peel.md)·[후박](../herbs/magnolia-bark.md)·[사인](../herbs/amomum.md) | 트림·가스·복부창만과 습체를 조절 |
+| 파기제만 | 동의보감A의 [지실](../herbs/citrus-immature.md) | 비위허약에 겹친 정체의 비중을 확인 |
 
 ## 임상 선택 단서
 
@@ -46,6 +61,6 @@ last_reviewed: 2026-09-21
 
 ## 출전과 관련 문서
 
-- [의방성도 삼출건비탕 공개기록](https://uibangseongdo.com/records/formula/P0016230)
+- [동의보감 내상문과 처방 연결](../classics/donguibogam.md#selected-clinical-passages)
 - [기능성소화불량](../conditions/functional-dyspepsia.md)
 - [소화불량·더부룩함 처방 찾기](../herbal-integrated/formula-for-digestion.md)

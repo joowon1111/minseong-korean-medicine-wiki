@@ -79,8 +79,11 @@ last_reviewed: '2026-09-21'
 | 병증 방향 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |
 |---|---|---|---|
 | 태양증·울광 | 오한·발열, 두통·신체통, 땀의 변화 | 감염, 체온, 통증 부위, 호흡기 증상 | [천궁계지탕](#soeum-cheongung-gyeji), [궁귀향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gunggwihyangso) |
-| 망양초증 | 땀 뒤 기력저하, 표증이 오래가며 회복 지연 | 탈수·저혈압, 빈혈, 약물, 심혈관 상태 | [승양익기탕](#soeum-seungyangikgi), [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
+| 망양초증 | 신열·자한·번뇌·신체통과 오한 | 탈수·저혈압, 빈혈, 약물, 심혈관 상태 | 황기계지탕, [2014 망양병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719) |
+| 망양중증 | 자한·신열에 복만·대변비조·번조, 오한 없이 열을 싫어함 | 복부 진찰, 배변·섭취·수분과 전신 상태 | 보중익기탕·[승양익기탕](#soeum-seungyangikgi) |
 | 망양 심화 | 발한과 탈진, 냉감·쇠약, 일상기능 저하 | 의식·혈압·맥박, 수분·전해질 | [승양익기부자탕](#soeum-seungyangikgi-buja), [인삼관계부자탕](#soeum-insam-gwangye-buja), [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) |
+
+[승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)은 갑오본 계통과 후대 태양양명증 기록을 구별해 읽는 자료입니다. 신축본의 망양초증에 자동으로 넣지 않으며, 구성과 병증 출전은 처방 카드에서 대조합니다.
 
 ### 위수한리한병: 태음병과 소음병
 

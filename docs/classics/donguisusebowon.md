@@ -128,6 +128,18 @@ last_reviewed: 2026-08-29
 
 본초는 해당 체질 처방 안에서의 배합으로 읽습니다. 형방도적산의 [전호](../herbs/peucedanum-root.md)·[현삼](../herbs/scrophularia.md), 형방계의 [형개](../herbs/schizonepeta.md)·[방풍](../herbs/saposhnikovia.md)을 따라가되, 개별 본초 효능을 체질 진단이나 처방 전체의 효과와 동일시하지 않습니다.
 
+### 원방·갑오본 처방·후대 명칭을 구분하기 {#formula-source-layers}
+
+| 대표 자료 | 출전을 구분할 내용 | 자세한 대조 |
+|---|---|---|
+| 소양인 양격산화탕 | 신축본의 위수열리열병 문맥과 후대 용량표를 따로 읽음 | [9미 배합과 상대비](../sasang-formula-cards/yanggyeoksanhwa-tang.md#source-layers) |
+| 태음인 열다한소탕·청폐사간탕 | 열다한소탕 가대황의 원전 가감과 후대 청폐사간탕이라는 명칭을 구별 | [공통 골격·대황·출전](../sasang-formula-cards/cheongpyesagan-tang.md#source-layers) |
+| 소음인 승양팔물탕 | 갑오본 계통과 후대 태양양명증 기록, 신축본의 실제 수록 처방을 구별 | [판본·구성·망양 처방 감별](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers) |
+
+처방 변천 연구는 승양팔물탕의 갑오본 계통과 청폐사간탕의 후대 명명 사례를 설명합니다. 후대 처방표를 신축본의 원방 목록으로 재구성하지 않고, 판본·주치·약미를 함께 남깁니다. [사상방 가감법·유형 연구, 2011](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001561516)
+
+소음인 표병에서는 **울광병과 망양병을 따로 비교**합니다. 2014년 망양병 지침의 초증은 황기계지탕, 중증은 보중익기탕·승양익기탕을 제시하므로, 승양팔물탕을 망양초증의 고정 처방으로 넣지 않습니다. [망양병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719) · [울광병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14711)
+
 처방은 체질명 하나에 자동으로 대응하지 않습니다. 같은 체질이라도 병증 단계가 다르면 처방이 달라질 수 있고, 소화·땀·대변·수면·기력과 주증의 변화를 보며 치료 방향을 재평가합니다.
 
 실제 의안을 이야기로 읽으려면 [세 사람의 복통, 서로 달랐던 회복의 시간](../classical-stories/sasang/soyangin-recurring-abdominal-pain.md)의 소양인 세 사례와 [회복하는 동안 약첩에서 빠진 대황](../classical-stories/sasang/taeeumin-formula-adjustment.md)의 태음인 경과를 비교할 수 있습니다. 각각 신축본 9-30과 13-31에 기록된 처방 선택·전환·가감을 다루며, 원문에 생략된 진찰 정보는 별도로 구별합니다.

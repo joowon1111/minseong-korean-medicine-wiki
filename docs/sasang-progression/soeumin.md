@@ -31,7 +31,8 @@ last_reviewed: 2026-10-02
 |---|---|---|---|
 | 울광 초기 | 오한·발열·두통·신체통 | 발한 뒤 기력저하 | 천궁계지탕 |
 | 표병·기체 | 두통·흉복답답·식욕변화 | 망양 전환 여부 | 향소산·궁귀향소산 |
-| 망양초증 | 땀 뒤 탈진·오한 | 냉감·활동저하 | [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
+| 망양초증 | 신열·자한·번뇌·신체통과 오한 | 복부·대변·전신상태 | 황기계지탕, [망양병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719) |
+| 망양중증 | 신열·자한에 복만·대변비조·번조 | 오한·오열과 섭취·배설 | 보중익기탕·승양익기탕 |
 | 망양 심화 | 지속 자한·심한 쇠약 | 순환·기립·의식 | [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) |
 | 태음병 | 복통·설사·식욕저하 | 구토·비만·황달 분기 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) |
 | 태음병 한습 | 오심·구토·심하비만 | 탈수·전해질 | [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
