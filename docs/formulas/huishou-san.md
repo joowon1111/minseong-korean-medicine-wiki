@@ -38,12 +38,12 @@ last_reviewed: 2026-09-06
 
 | 구성 본초·원문 약명 | 수록량 | 원문 포제의 뜻 | 배합에서의 본초 역할 |
 |---|---|---|---|
-| [마황](../herbs/ephedra.md) · 麻黃 | 2량 | 뿌리 제거 | 표를 열고 폐기를 펼치는 선폐축 |
-| [진피](../herbs/citrus-peel.md) · 陳皮 | 2량 | 과육 제거 | 이기·조습으로 팽만과 담습을 조절 |
+| [마황](../herbs/ephedra.md) · 麻黃 | 2량 | 뿌리와 마디 제거 | 표를 열고 폐기를 펼치는 선폐축 |
+| [진피](../herbs/citrus-peel.md) · 陳皮 | 2량 | 속살 제거 | 이기·조습으로 팽만과 담습을 조절 |
 | [오약](../herbs/lindera-root.md) · 烏藥 | 2량 | 목질부 제거 | 산한·행기로 기체성 통증을 조절 |
-| [백강잠](../herbs/bombyx-batryticatus.md) · 白殭蠶 | 1량 | 초(볶음) | 식풍·산결로 경락의 긴장과 풍담축을 조절 |
+| [백강잠](../herbs/bombyx-batryticatus.md) · 白殭蠶 | 1량 | 실과 입 부분 제거·초(볶음) | 식풍·산결로 경락의 긴장과 풍담축을 조절 |
 | [천궁](../herbs/chuanxiong.md) · 川芎 | 1량 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |
-| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 1량 | 과육 제거·부초 | 기체·팽만을 조절하는 행기축 |
+| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 1량 | 속살 제거·밀기울로 볶음 | 기체·팽만을 조절하는 행기축 |
 | [감초](../herbs/licorice.md) · 甘草 | 1량 | 초(볶음) | 중초를 돕고 완급·배합 조화를 맡음 |
 | [백지](../herbs/angelica-dahurica.md) · 白芷 | 1량 | 별도 포제 표기 없음 | 표·두면부의 풍과 통증을 조절 |
 | [길경](../herbs/platycodon.md) · 桔梗 | 1량 | 별도 포제 표기 없음 | 폐기를 펼치고 인후·담을 조절 |
@@ -56,12 +56,12 @@ last_reviewed: 2026-09-06
 
 | 구성축 | 주요 본초 | 처방 안에서 보는 역할 |
 |---|---|---|
-| 순기해울 | [오약](../herbs/aucklandia.md)·[진피](../herbs/citrus-peel.md)·[지각](../herbs/citrus-immature.md) | 막힌 기를 풀어 목·어깨의 긴장과 답답함을 조절 |
+| 순기해울 | [오약](../herbs/lindera-root.md)·[진피](../herbs/citrus-peel.md)·[지각](../herbs/citrus-aurantium-immature.md) | 막힌 기를 풀어 목·어깨의 긴장과 답답함을 조절 |
 | 소풍산한 | [마황](../herbs/ephedra.md)·백지·백강잠·[강활](../herbs/notopterygium.md)·[독활](../herbs/angelica-pubescens.md) | 풍한을 풀고 경항·견배와 지체의 통증을 완화하는 방향 |
 | 활혈서근 | [천궁](../herbs/chuanxiong.md)·모과 | 순환과 근육의 뻣뻣함·당김을 함께 다룸 |
 | 온중조화 | 건강·[감초](../herbs/licorice.md)·생강·대조 | 중초를 보호하고 산한약과 여러 약재를 조화 |
 
-『방약합편』 회수산은 [오약순기산](wuyao-shunqi-san.md)의 골격에 강활·독활·모과를 더한 구성으로 읽을 수 있습니다. 기존 문서에 적혀 있던 반하는 이 처방 골격의 중심 약재가 아니므로 바로잡았습니다.
+『방약합편』 회수산은 [오약순기산](wuyao-shunqi-san.md)의 골격에 강활·독활·모과를 더한 구성으로 읽을 수 있습니다.
 
 ## 임상에서 먼저 보는 단서
 
