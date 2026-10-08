@@ -9,6 +9,14 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 비슷한 본초를 비교한 뒤 **실제 어느 처방에서 그 차이가 드러나는지**까지 연결합니다.
 
+## 본초를 직접 비교하기 {#interactive-comparison}
+
+본초를 2~4개 선택하면 **약용 부위·성미·귀경·전통 효능·배합**을 나란히 확인할 수 있습니다. 원문에 기재된 내용만 표시하며, 요약에 없는 항목은 본문으로 연결합니다. 본문 연결은 관련 자료 탐색용이며 모든 링크가 처방의 실제 구성약을 뜻하지는 않습니다.
+
+<div data-archive-compare="herb"><p>비교 자료를 준비하고 있습니다. 아래 본초군별 비교표에서도 감별점을 확인할 수 있습니다.</p></div>
+
+[처방 구조 비교](formula-structure.md#interactive-comparison) · [본초학 문제 풀기](../learning/index.md?subject=herbs)
+
 ## 마황 · 계지 · 방풍 / 박하 · 우방자 · 상엽 {#exterior-releasing-herbs}
 
 | 병증 방향 | 본초 | 상대적으로 두드러지는 역할 | 처방에서 보기 |
@@ -213,3 +221,4 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 
 → [본초 찾기](herbs.md)  
 → [방제 찾기](formulas.md)
+

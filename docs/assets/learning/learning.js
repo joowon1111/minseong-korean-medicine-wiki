@@ -4,7 +4,7 @@
   const KEY = 'minseong-learning-v1';
   const VERSION = '20261004-07';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
-  const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0});
+  const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0, schedule: {}, days: {}, resume: null});
   function readProgress(storage) {
     try {
       const parsed = JSON.parse(storage.getItem(KEY) || '{}');
@@ -14,6 +14,9 @@
       }
       for (const key of ['attempts', 'correct']) if (Number.isSafeInteger(parsed[key]) && parsed[key] >= 0) result[key] = parsed[key];
       result.correct = Math.min(result.correct, result.attempts);
+      result.schedule = cleanSchedule(parsed.schedule);
+      result.days = cleanDays(parsed.days);
+      result.resume = cleanResume(parsed.resume);
       return result;
     } catch (_) { return emptyProgress(); }
   }
@@ -30,12 +33,60 @@
     progress.again = toggle(progress.again, id, !known);
     return progress;
   }
-  function recordAnswer(progress, question, answer) {
+  function cleanSchedule(value) {
+    const out = {};
+    if (!value || typeof value !== 'object' || Array.isArray(value)) return out;
+    for (const [id, row] of Object.entries(value).slice(0, 20000)) {
+      if (['__proto__', 'constructor', 'prototype'].includes(id) || !/^[^\u0000-\u001f<>]{1,180}$/u.test(id) || !row || typeof row !== 'object') continue;
+      if (!['attempts', 'correct', 'streak', 'due', 'last'].every(k => Number.isSafeInteger(row[k]) && row[k] >= 0)) continue;
+      if (row.correct > row.attempts || row.streak > 5 || row.due > 8640000000000000) continue;
+      out[id] = {attempts: row.attempts, correct: row.correct, streak: row.streak, due: row.due, last: row.last,
+        subject: typeof row.subject === 'string' && SUBJECTS[row.subject] ? row.subject : '', category: String(row.category || '').slice(0, 150)};
+    }
+    return out;
+  }
+  function cleanDays(value) {
+    const out = {};
+    if (value && typeof value === 'object') for (const [date, row] of Object.entries(value).sort().slice(-365)) {
+      if (/^\d{4}-\d{1,2}-\d{1,2}$/.test(date) && row && Number.isSafeInteger(row.attempts) && row.attempts >= 0 && Number.isSafeInteger(row.correct) && row.correct >= 0 && row.correct <= row.attempts) out[date] = {attempts: row.attempts, correct: row.correct};
+    }
+    return out;
+  }
+  function cleanResume(value) {
+    if (!value || !SUBJECTS[value.subject] || !Array.isArray(value.ids) || value.ids.length > 20000 || !value.ids.every(id => typeof id === 'string' && id.length <= 180) || !Number.isSafeInteger(value.index) || value.index < 0 || value.index > value.ids.length || !Number.isSafeInteger(value.correct) || value.correct < 0 || value.correct > value.ids.length) return null;
+    return {subject: value.subject, ids: value.ids, index: value.index, correct: value.correct, answered: value.answered === true,
+      selected: Number.isInteger(value.selected) && value.selected >= -1 && value.selected <= 10 ? value.selected : undefined,
+      mode: value.mode === 'identify' ? 'identify' : 'quiz'};
+  }
+  function recordAnswer(progress, question, answer, now = Date.now(), subject = '') {
     const correct = answer === question.answer;
     progress.attempts += 1;
     if (correct) progress.correct += 1;
     progress.wrong = toggle(progress.wrong, question.id, !correct);
+    progress.schedule ||= {}; progress.days ||= {};
+    const previous = progress.schedule[question.id] || {attempts: 0, correct: 0, streak: 0};
+    const streak = correct ? Math.min(5, previous.streak + 1) : 0;
+    const next = new Date(now); next.setDate(next.getDate() + [0, 1, 3, 7, 14, 30][streak]);
+    progress.schedule[question.id] = {attempts: previous.attempts + 1, correct: previous.correct + Number(correct), streak,
+      due: next.getTime(), last: now, subject, category: question.category || ''};
+    const day = dailySeed(new Date(now)); const row = progress.days[day] || {attempts: 0, correct: 0};
+    progress.days[day] = {attempts: row.attempts + 1, correct: row.correct + Number(correct)};
+    progress.days = cleanDays(progress.days);
     return correct;
+  }
+  function dueQuestions(items, progress, now = Date.now()) {
+    return items.filter(q => progress.schedule?.[q.id]?.due <= now).sort((a, b) => progress.schedule[a.id].due - progress.schedule[b.id].due);
+  }
+  function weakQuestions(items, progress) {
+    return items.filter(q => progress.schedule?.[q.id] && progress.schedule[q.id].correct < progress.schedule[q.id].attempts)
+      .sort((a, b) => progress.schedule[a.id].correct / progress.schedule[a.id].attempts - progress.schedule[b.id].correct / progress.schedule[b.id].attempts);
+  }
+  function backup(progress) { return JSON.stringify({format: 'minseong-learning', version: 1, exportedAt: new Date().toISOString(), progress}, null, 2); }
+  function restore(text) {
+    const data = JSON.parse(text);
+    if (data?.format !== 'minseong-learning' || data.version !== 1 || !data.progress || !['known', 'again', 'saved', 'wrong'].every(k => Array.isArray(data.progress[k]) && data.progress[k].length <= 20000 && data.progress[k].every(x => typeof x === 'string' && !['__proto__', 'constructor', 'prototype'].includes(x) && /^[^\u0000-\u001f<>]{1,180}$/u.test(x)))) throw Error('기록 파일 형식을 확인해 주세요.');
+    if (!['attempts', 'correct'].every(k => Number.isSafeInteger(data.progress[k]) && data.progress[k] >= 0) || data.progress.correct > data.progress.attempts) throw Error('학습 통계 형식을 확인해 주세요.');
+    return readProgress({getItem: () => JSON.stringify(data.progress)});
   }
   function matches(card, category, query) {
     if (category && card.category !== category) return false;
@@ -75,7 +126,7 @@
     const entered = normalize(value);
     return !!entered && (question.acceptedAnswers || []).some(alias => normalize(alias) === entered);
   }
-  const api = {answerMatches, KEY, emptyProgress, readProgress, writeProgress, markCard, recordAnswer, matches,
+  const api = {dueQuestions, weakQuestions, backup, restore, cleanSchedule, answerMatches, KEY, emptyProgress, readProgress, writeProgress, markCard, recordAnswer, matches,
     filteredCards, filteredQuestions, shuffle, dailySeed, dailyQuestions, safeURL};
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   if (!global.document) return;
@@ -127,9 +178,10 @@
     }
     const filters = node('div', undefined, {class: 'learning-filters'});
     const query = node('input', undefined, {type: 'search', placeholder: '구조·혈명·본초·처방·조문·병증 검색', 'aria-label': '학습자료 검색'});
+    query.value = new URLSearchParams(global.location.search).get('q') || '';
     const category = node('select', undefined, {'aria-label': '학습 단원'});
     const modeSelect = node('select', undefined, {'aria-label': '학습 방식'});
-    for (const [value, title] of [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']]) {
+    for (const [value, title] of [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['due', '오늘 복습할 문제'], ['weak', '반복 오답 문제'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']]) {
       modeSelect.append(node('option', title, {value}));
     }
     filters.append(query, category, modeSelect);
@@ -145,12 +197,37 @@
       if (!global.confirm('전체 과목의 이해한 카드·북마크·오답 기록을 이 브라우저에서 지울까요?')) return;
       progress = emptyProgress(); save(); restart();
     });
-    toolbar.append(resetFilters, clear);
+    const exportButton = node('button', '학습기록 내보내기', {type: 'button'});
+    exportButton.addEventListener('click', () => {
+      const url = global.URL.createObjectURL(new global.Blob([backup(progress)], {type: 'application/json'}));
+      const a = node('a', '', {href: url, download: 'minseong-learning-' + dailySeed(new Date()) + '.json'});
+      root.append(a); a.click(); a.remove(); global.setTimeout(() => global.URL.revokeObjectURL(url), 1000);
+      status.textContent = '학습기록 파일을 저장했습니다. 다른 기기에서 가져올 수 있습니다.';
+    });
+    const importLabel = node('label', '학습기록 가져오기 ');
+    const importInput = node('input', undefined, {type: 'file', accept: '.json,application/json', 'aria-label': '학습기록 파일 가져오기'});
+    importInput.addEventListener('change', async () => {
+      const file = importInput.files?.[0]; if (!file) return;
+      try {
+        if (file.size > 5000000) throw Error('5MB 이하 학습기록 파일을 선택하세요.');
+        const restored = restore(await file.text());
+        if (!root.isConnected) return;
+        if (!global.confirm('현재 브라우저의 학습기록을 선택한 파일의 기록으로 바꿀까요?')) return;
+        progress = restored; save(); restart(); status.textContent = '학습기록을 가져왔습니다.';
+      } catch (error) {status.textContent = error.message || '학습기록을 가져오지 못했습니다.';}
+      finally {importInput.value = '';}
+    });
+    importLabel.append(importInput);
+    toolbar.append(resetFilters, exportButton, importLabel, clear);
     controls.append(tabs, filters, stats);
     root.replaceChildren(controls, status, stage, toolbar, storageNote);
     function save() {
       if (!writeProgress(storage, progress)) storageNote.textContent = '현재 브라우저에서 기록을 저장할 수 없습니다. 이번 화면에서는 학습을 계속할 수 있습니다.';
       updateStats();
+    }
+    function saveSession() {
+      progress.resume = session && session.index < session.questions.length ? {subject, ids: session.questions.map(q => q.id), index: session.index, correct: session.correct, answered: session.answered, selected: session.selected, mode: mode === 'identify' ? 'identify' : 'quiz'} : null;
+      writeProgress(storage, progress);
     }
     function updateStats() {
       if (!deck) return;
@@ -205,11 +282,12 @@
       stage.append(nav);
     }
     function begin(items, count, daily) {
-      const questions = daily ? dailyQuestions(items, dailySeed(new Date()) + subject) : shuffle(items).slice(0, count);
-      session = {questions, index: 0, answered: false, correct: 0}; render(); focusHeading();
+      const questions = daily ? dailyQuestions(items, dailySeed(new Date()) + subject) : (['due', 'weak'].includes(mode) ? items.slice(0, count) : shuffle(items).slice(0, count));
+      session = {questions, index: 0, answered: false, correct: 0}; saveSession(); render(); focusHeading();
     }
     function renderQuiz() {
-      const items = filteredQuestions(deck, progress, category.value, query.value, mode === 'wrong', questionKind, difficulty);
+      const pool = filteredQuestions(deck, progress, category.value, query.value, mode === 'wrong', questionKind, difficulty);
+      const items = mode === 'due' ? dueQuestions(pool, progress) : mode === 'weak' ? weakQuestions(pool, progress) : pool;
       if (!session) {
         {
           const kinds = node('select', undefined, {'aria-label': '문제 유형'});
@@ -240,7 +318,7 @@
           });
           stage.append(levels, node('p', '하: 단일 개념 회상 · 중: 유사 구조·병증 감별 · 상: 예외·조건 변화·복수 단서 판단. 출제 의도에 따른 난이도입니다.', {class: 'learning-note'}));
         }
-        if (!items.length) { empty(mode === 'wrong' ? '남아 있는 오답이 없습니다.' : '조건에 맞는 문제가 없습니다.'); return; }
+        if (!items.length) { empty(mode === 'wrong' ? '남아 있는 오답이 없습니다.' : mode === 'due' ? '현재 범위에서 복습할 시점이 된 문제가 없습니다.' : mode === 'weak' ? '현재 범위에 기록된 반복 오답이 없습니다.' : '조건에 맞는 문제가 없습니다.'); return; }
         stage.append(node('h3', mode === 'wrong' ? '오답을 다시 꺼내 보세요' : '배운 내용을 확인해 보세요', {tabindex: '-1'}),
           node('p', '현재 선택 범위 ' + items.length + '문제. 한 문제씩 풀고 정답과 보기별 원문을 확인합니다.'));
         const actions = node('div', undefined, {class: 'learning-actions'});
@@ -276,9 +354,9 @@
         options.append(button((i + 1) + '. ' + option.text, () => {
           if (session.answered) return;
           session.answered = true; session.selected = i;
-          const correct = recordAnswer(progress, q, i);
+          const correct = recordAnswer(progress, q, i, Date.now(), subject);
           if (correct) session.correct += 1;
-          save(); render();
+          save(); saveSession(); render();
           const answer = stage.querySelector('.learning-feedback'); if (answer) answer.focus({preventScroll: true});
         }, {'data-option': String(i), 'aria-disabled': String(session.answered),
           class: session.answered && i === q.answer ? 'is-correct' : session.answered && i === session.selected ? 'is-wrong' : '',
@@ -297,7 +375,7 @@
           p.append(sourceLink(option.source, ['advanced', 'clinical'].includes(q.kind) ? '문항 해설 →' : '해당 원문 →')); details.append(p);
         });
         feedback.append(details); stage.append(feedback);
-        stage.append(button(session.index + 1 === session.questions.length ? '결과 보기' : '다음 문제 →', () => { session.index += 1; session.answered = false; session.selected = undefined; render(); focusHeading(); }, {class: 'learning-primary'}));
+        stage.append(button(session.index + 1 === session.questions.length ? '결과 보기' : '다음 문제 →', () => { session.index += 1; session.answered = false; session.selected = undefined; saveSession(); render(); focusHeading(); }, {class: 'learning-primary'}));
       }
       stage.append(button('퀴즈 선택으로 돌아가기', () => { session = null; render(); focusHeading(); }));
     }
@@ -321,8 +399,8 @@
         if (session.answered) return;
         session.answered = true;
         session.selected = answerMatches(q, value) ? q.answer : -1;
-        if (recordAnswer(progress, q, session.selected)) session.correct += 1;
-        save(); render();
+        if (recordAnswer(progress, q, session.selected, Date.now(), subject)) session.correct += 1;
+        save(); saveSession(); render();
         const feedback = stage.querySelector('.learning-feedback'); if (feedback) feedback.focus({preventScroll: true});
       }
       if (!session.answered) {
@@ -335,7 +413,7 @@
       } else {
         const feedback = node('div', undefined, {class: 'learning-feedback', tabindex: '-1'});
         feedback.append(node('strong', session.selected === q.answer ? '정답이에요.' : '구조 이름을 다시 확인해 보세요.'), node('p', q.explanation), node('p', '인정하는 표기: ' + q.acceptedAnswers.join(' · ')), sourceLink(q.source));
-        stage.append(feedback, button(session.index + 1 === session.questions.length ? '결과 보기' : '다음 문제 →', () => { session.index += 1; session.answered = false; render(); focusHeading(); }, {class: 'learning-primary'}));
+        stage.append(feedback, button(session.index + 1 === session.questions.length ? '결과 보기' : '다음 문제 →', () => { session.index += 1; session.answered = false; session.selected = undefined; saveSession(); render(); focusHeading(); }, {class: 'learning-primary'}));
       }
       stage.append(button('구조 식별 선택으로 돌아가기', restart));
     }
@@ -343,7 +421,27 @@
       stage.replaceChildren();
       if (!deck) return;
       updateStats();
-      if (mode === 'identify') renderIdentify(); else if (mode === 'quiz' || mode === 'wrong') renderQuiz(); else renderCards();
+      const personal = node('div', undefined, {class: 'learning-personal'});
+      const day = progress.days[dailySeed(new Date())] || {attempts: 0, correct: 0};
+      const due = dueQuestions(deck.questions, progress).length;
+      personal.append(node('p', '오늘 ' + day.attempts + '회 풀이 · ' + day.correct + '회 정답 · 이 과목 복습 예정 ' + due + '문제'));
+      const units = new Map();
+      for (const q of deck.questions) { const r = progress.schedule[q.id]; if (!r) continue; const unit = units.get(q.category) || {attempts: 0, correct: 0}; unit.attempts += r.attempts; unit.correct += r.correct; units.set(q.category, unit); }
+      const weak = [...units].filter(([, r]) => r.attempts >= 3).sort((a, b) => a[1].correct / a[1].attempts - b[1].correct / b[1].attempts).slice(0, 3);
+      if (weak.length) personal.append(node('p', '복습할 단원: ' + weak.map(([name, r]) => name + ' ' + Math.round(100 * r.correct / r.attempts) + '% (' + r.attempts + '회)').join(' · ')));
+      stage.append(personal);
+      const prior = progress.resume;
+      if (!session && prior && prior.subject === subject && prior.index < prior.ids.length) {
+        const byId = new Map(deck.questions.map(q => [q.id, q]));
+        if (prior.ids.every(id => byId.has(id))) {
+          const resumeButton = button('풀던 문제 이어하기 (' + (prior.index + 1) + '/' + prior.ids.length + ')', () => {
+            mode = prior.mode; modeSelect.value = mode; session = {questions: prior.ids.map(id => byId.get(id)), index: prior.index, correct: prior.correct, answered: prior.answered, selected: prior.selected};
+            render(); focusHeading();
+          }, {class: 'learning-primary'});
+          stage.append(resumeButton);
+        }
+      }
+      if (mode === 'identify') renderIdentify(); else if (['quiz', 'wrong', 'due', 'weak'].includes(mode)) renderQuiz(); else renderCards();
     }
     async function load() {
       const seq = ++view.seq;
@@ -356,7 +454,7 @@
         if (!view.alive || seq !== view.seq || !root.isConnected) return;
         deck = loaded;
         modeSelect.replaceChildren();
-        const modes = [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']];
+        const modes = [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['due', '오늘 복습할 문제'], ['weak', '반복 오답 문제'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']];
         if (subject === 'anatomy') modes.splice(2, 0, ['identify', '구조 이름 직접 입력']);
         if (subject !== 'anatomy' && mode === 'identify') mode = 'cards';
         for (const [value, title] of modes) modeSelect.append(node('option', title, {value}));
