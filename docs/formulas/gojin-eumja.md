@@ -14,6 +14,22 @@ last_reviewed: 2026-09-21
 
 공개 처방기록에는 감초·당귀·두충·백복령·백출·산수유·산약·숙지황·오미자·인삼·진피·택사·파고지·황기·황백이 수록됩니다.
 
+### 허로문 수록 위치와 상대 용량 {#donguibogam-version}
+
+한국전통지식포탈 P0000339는 **《동의보감》 잡병편 권4 허로**, 인용 출전 ‘입문’으로 기록합니다. 《동의보감》의 수록 위치와 앞선 의서의 출전을 구분해 적습니다.
+
+| 약미군 | 공개기록의 용량·포제 |
+|---|---|
+| 숙지황 | 5.625 g |
+| 인삼·당귀·산약 | 각 3.75 g |
+| 황기·황백 | 각 3.75 g, 각각 밀자·염주초 |
+| 백복령·진피 | 각 3 g |
+| 두충·자감초 | 각 2.625 g, 두충은 볶음 |
+| 백출·산수유·택사·파고지 | 각 1.875 g, 파고지는 볶음 |
+| 오미자 | 10알 |
+
+이 표의 g은 **공개 DB가 제시한 환산 표기**이며 원문의 중량 단위나 개인 복용량과 구별합니다. 오미자는 개수로 남겨 두므로 모든 약미를 더한 g 총량을 만들지 않습니다. 숙지황이 가장 크지만 인삼·황기와 진피·복령이 함께 있는 것은 정혈 보충과 비위 운용을 동시에 비교할 단서입니다. [공개 처방기록·포제](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0000339&tempLang=ko)
+
 | 구성축 | 주요 본초 | 처방 안에서 보는 역할 |
 |---|---|---|
 | 보기건비 | 인삼·황기·백출·복령·산약·감초·진피 | 기력·식욕과 수분대사의 바탕을 받침 |
@@ -49,6 +65,6 @@ last_reviewed: 2026-09-21
 
 ## 출전과 관련 문서
 
-- [의방성도 고진음자 공개기록](https://uibangseongdo.com/records/formula/P0000339)
+- [동의보감 허로문](../classics/donguibogam.md#selected-clinical-passages) · [한국전통지식포탈 고진음자A](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0000339&tempLang=ko)
 - [만성피로](../conditions/chronic-fatigue.md) · [야간뇨](../conditions/nocturia.md)
 - [보익·피로·회복](../pillar/tonic-recovery.md)

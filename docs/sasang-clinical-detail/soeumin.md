@@ -88,7 +88,8 @@ last_reviewed: 2026-10-02
 |---|---|---|---|
 | 태양증·울광 초기 | 오한·발열·두통·신체통 | 발한 뒤 기력저하 | 천궁계지탕 |
 | 표병·기체/소화 | 두통·흉복 답답함·식욕 변화 | 망양으로 전환하는지 | 향소산·궁귀향소산 |
-| 망양초증 | 땀 뒤 탈진·냉감·회복 지연 | 활동·식욕 저하 | [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
+| 망양초증 | 신열·자한·번뇌·신체통과 오한 | 발한·복부·대변·섭취의 변화 | 황기계지탕, [망양병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719) |
+| 망양중증 | 자한·신열에 복만·대변비조·번조 | 오한·오열과 전신상태 | 보중익기탕·승양익기탕 |
 | 망양 심화 | 지속 자한·냉감·전신 쇠약 | 순환·의식·기립 기능 | [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md)·계지부자탕 |
 | 태음병·리한 | 복통·설사·식욕저하 | 구토·비만·냉감 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) |
 | 태음병·한습/구토 | 오심·구토·심하비만 | 수분·전해질 소모 | [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
@@ -162,7 +163,7 @@ last_reviewed: 2026-10-02
 **위치:** 표병이 역증으로 기울며 발한 뒤 기력저하가 나타나는 방향.  
 **중심:** 땀 뒤 탈진, 오한·냉감, 식욕·활동 저하.  
 **감별:** 지속 자한·심한 냉감·순환저하가 있으면 망양 심화, 복통·설사가 중심이면 리병을 비교합니다.  
-**처방 연결:** [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md)·승양익기탕.  
+**처방 연결:** 초증은 황기계지탕, 중증은 보중익기탕·승양익기탕으로 지침의 단계를 나누어 읽습니다. [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)의 후대 태양양명 기록은 별도 출전입니다.
 **경과:** 발한량보다 발한 뒤 기립·보행·식사·수면 회복을 봅니다.
 
 ### 12-4. 망양 심화·부자 배합

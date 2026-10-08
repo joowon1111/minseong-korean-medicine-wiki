@@ -19,6 +19,7 @@ last_reviewed: 2026-08-29
 |---|
 | [방약합편이란](#what-is-bangyakhappyeon) |
 | [방약합편 상통·중통·하통](#sang-jung-ha) |
+| [대표 처방의 수록형·배합·활투](#representative-formulas) |
 | [방약합편 본초·약성가](#boncho-yakseongga) |
 | [칠방십제(七方十劑)](#seven-formulas-ten-agents) |
 | [방약합편 임상 탐색법](#clinical-navigation) |
@@ -53,6 +54,19 @@ last_reviewed: 2026-08-29
 상·중·하통을 현대의 효과 강도나 약의 등급으로 오해하지 않습니다. 실제 처방은 원문 병증·구성·환자의 허실을 함께 확인합니다.
 
 → [칠방십제](index.md#seven-formulas-ten-agents)
+
+### 대표 처방의 수록형·배합·활투 {#representative-formulas}
+
+| 수록 위치 | 처방 | 구성에서 비교할 핵심 | 연결할 감별 |
+|---|---|---|---|
+| 상통 19 | [전씨이공산](../formulas/jeonssi-igong-san.md#bangyakhappyeon-version) | 인삼·백출·복령·귤피·목향·감초 각 1전, 식체·설사 등의 활투 | 사군자탕·육군자탕·삼출건비탕 |
+| 상통 공개기록 | [자음건비탕](../formulas/jaeum-geonbi-tang.md#source-comparison) | 기혈·음과 비위·담음·안신의 결합, 동의보감 전사와 DB 용량의 차이 | 반하백출천마탕·귀비탕 |
+| 중통 공개기록 | [가미온담탕](../formulas/jiawei-wendan-tang.md#formula-structure-reading) | 향부자 비중과 시호·인삼·맥문동·길경의 포함, 11미에 강·조 별기 | 온담탕·귀비탕·자음건비탕 |
+| 하통 71 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md#original-units) | 산사육 중심의 소식, 이진탕의 화담, 백출·창출의 비위 배합 | 삼출건비탕·개울화담전·평위산 |
+
+상통의 전씨이공산에도 이기약이 있고, 하통의 정전가미이진탕에도 ‘보비’라는 치법 설명이 있습니다. **상통=모든 허증, 하통=모든 실증**으로 단순화하기보다 실제 구성과 주치 문장을 대조합니다. 정확한 번호를 확인한 두 처방은 약학정보원의 [상통 19](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=413)와 [하통 71](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417)을, 나머지는 각 문서의 한국전통지식포탈 수록형을 연결했습니다.
+
+활투는 가감·합방의 기록입니다. 기본방과 활투를 적용한 방, 현대 제제는 구성·포제·1일량을 각각 기록하고, 공개 DB의 g 환산은 원문 전·분과 나누어 읽습니다. [동의보감 삼출건비탕의 지실 유무](../formulas/samchul-geonbi-tang.md#donguibogam-version)처럼 같은 이름의 자료도 출전과 약미를 확인하면 유사 처방 감별로 이어집니다.
 
 
 ## 방약합편 본초·약성가 {#boncho-yakseongga}

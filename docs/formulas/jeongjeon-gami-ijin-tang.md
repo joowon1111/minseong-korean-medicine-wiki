@@ -25,6 +25,12 @@ last_reviewed: 2026-09-04
 | 자감초 | 1.125g | 중초 조화 |
 | 생강·대추 | 각 3편·2매 | 위기를 조화 |
 
+### 하통 71의 전·분과 포제 {#original-units}
+
+약학정보원의 《방약합편》 처방문은 **산사육 1전 반, 향부자·반하 각 1전, 천궁·백출·창출 각 8분, 귤홍·백복령·신곡 각 7분, 사인·맥아 각 5분, 자감초 3분**으로 기록합니다. 위 g 표는 1전=3.75 g의 환산 기준으로 읽으며, 생강·대조의 개수와 구분합니다. 신곡·맥아의 볶음과 감초의 자법도 처방문에 포함됩니다. [하통 71 원문 기록](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417)
+
+산사육이 가장 크게 배치되고 인삼은 들어 있지 않습니다. 원문의 ‘보비·소식·행기’라는 설명을 인삼 중심의 보기방과 같은 뜻으로 읽기보다, 비위를 막는 식적·담습을 풀면서 운화를 돕는 구조로 비교합니다. ‘정전’은 《의학정전》 계통을 가리키는 이름으로, 모든 이진탕 가감방을 한 처방으로 묶지 않습니다.
+
 ## 처방 구조
 
 - **이진탕 축:** 반하·귤홍·복령·감초
@@ -49,6 +55,8 @@ last_reviewed: 2026-09-04
 | [보화환](baohe-wan.md) | 비교적 실증성 식적과 산취·복만이 중심 |
 | [평위산](pingwei-san.md) | 습체·창만과 몸의 무거움이 중심 |
 | [향사육군자탕](xiangsha-liujunzi-tang.md) | 비위기허·피로·묽은변의 비중이 큼 |
+| [삼출건비탕](samchul-geonbi-tang.md) | 인삼을 포함한 비위기허의 바탕과 식적을 함께 비교 |
+| [개울화담전](gaeul-hwadam-jeon.md) | 향부자의 비중과 황금·황련·연교의 청울열축을 함께 확인 |
 | [육울탕](yukwul-tang.md) | 식울 하나보다 기·혈·담·화·습·식의 복합 울체를 폭넓게 조절 |
 
 ## 안전과 관찰
@@ -60,3 +68,4 @@ last_reviewed: 2026-09-04
 - 약학정보원. [정전가미이진탕 — 『방약합편』 하통 71](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417).
 - [소화불량](../conditions/dyspepsia.md)
 - [방제 찾기](../herbal-integrated/formulas.md)
+- [방약합편 대표 처방 비교](../bangyakhappyeon-network/index.md#representative-formulas)

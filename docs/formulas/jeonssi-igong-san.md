@@ -19,6 +19,17 @@ last_reviewed: 2026-09-21
 
 문헌과 제제에 따라 ‘이공산’과 ‘전씨이공산’을 같은 이름처럼 쓰거나 목향 유무로 구분합니다. 처방명을 확인할 때는 **진피만 더한 형인지, 목향까지 든 국내 수록형인지** 실제 구성표를 함께 봅니다.
 
+### 상통 19의 균등 배합과 활투 {#bangyakhappyeon-version}
+
+《방약합편》 상통 19의 여섯 약미는 각 1전으로 같은 중량입니다. 따라서 목향을 극소량의 부가약처럼 설명하지 않고, 인삼·백출·복령의 보기축과 귤피·목향의 이기축을 함께 봅니다. 1전의 현대 환산과 탕제·과립제의 1일량은 분리해 기록합니다. [상통 19 처방문·활투](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=413)
+
+| 수록 가감 | 원문에서 바뀌는 방향 | 비교할 기존 문서 |
+|---|---|---|
+| 협체 | 산사·신곡·사인 등의 추가 | [삼출건비탕](samchul-geonbi-tang.md)의 보기·소식 결합 |
+| 설사 | 오령산 합방 | [오령산](wuling-san.md)의 소변·갈증·수습 단서를 별도로 확인 |
+| 서열 | 향유·백편두 추가 | 더위·습과 섭취·수분 상태를 함께 봄 |
+
+활투(活套)는 동반 병증에 따라 운용하는 수록 지침입니다. 설사라는 증상 하나만으로 오령산을 늘 더한다는 뜻으로 읽지 않고, 탈수·소변·복부와 현재 한열을 대조합니다. 같은 가감을 적용한 연구라도 실제 약미가 달라졌다면 기본 전씨이공산 연구와 구별합니다.
 ## 임상에서 먼저 보는 단서
 
 | 영역 | 확인할 내용 |
@@ -48,3 +59,4 @@ last_reviewed: 2026-09-21
 - [약학정보원 방약합편 전씨이공산](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=413)
 - [한국학중앙연구원 실록위키 이공산](https://dh.aks.ac.kr/sillokwiki/index.php/%EC%9D%B4%EA%B3%B5%EC%82%B0%28%E7%95%B0%E5%8A%9F%E6%95%A3%29)
 - [사군자탕 계열](../formula-architecture/sijunzi-family.md) · [소화불량](../conditions/dyspepsia.md)
+- [방약합편 상통·중통·하통 비교](../bangyakhappyeon-network/index.md#representative-formulas)

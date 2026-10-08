@@ -76,8 +76,8 @@ last_reviewed: 2026-09-22
 | 태양증·울광 초기 | [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) | 오한·발열·두통·신체통과 땀 변화 | 발한 뒤 기력저하가 망양으로 진행하는지 관찰 |
 | 표병·기체·소화 변화 | [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso) | 오한·두통과 흉복 답답함·식욕 변화 | 천궁계지탕·궁귀향소산과 통증·기체를 비교 |
 | 표병·두통·기체 | [궁귀향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gunggwihyangso) | 두통·신체통·흉복 답답함·소화 변화 | 발한 뒤 회복과 승양계 전환 여부 확인 |
-| 망양초증·승양 | [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) | 표증 지속, 땀 뒤 탈진·냉감·식욕저하 | 부자 배합이 필요한 더 깊은 망양과 구분 |
-| 망양초증 | [승양팔물탕](seungyangpalmul-tang.md) | 발한 뒤 기력저하·오한·회복 지연 | 섭취·수면·활동이 함께 회복되는지 확인 |
+| 망양중증·승양 | [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) | 자한·신열, 불오한·단오열, 복만·대변비조·번조 | 부자 배합이 필요한 더 깊은 망양과 구분 |
+| 후대 태양양명 수록형 | [승양팔물탕](seungyangpalmul-tang.md#source-layers) | 인삼·황기의 보기와 관계·영혈·비위 배합 | 갑오본 계통·후대 기록과 신축본 망양 단계를 구별 |
 | 망양 심화·부자 배합 | [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) | 지속 발한·냉감·쇠약·활동 저하 | 부자 이상반응과 혈압·맥박을 면밀히 관찰 |
 | 망양 심화 | [인삼계지부자탕](insamgyejibujatang.md) | 발한·냉감·전신 쇠약·회복력 저하 | 승양계와 리한·설사 중심 처방을 구분 |
 | 망양 심화·관계 배합 | [인삼관계부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-insam-gwangye-buja) | 땀 뒤 심한 탈진·냉감·섭취 감소 | 쇼크·감염·출혈 등 현대 응급 원인을 먼저 배제 |

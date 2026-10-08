@@ -28,7 +28,8 @@ description: 소음인 병증 중증도 지도 — 민성 한의학 아카이브
 |---|---|---|---|
 | 태양증·울광 초기 | 오한·발열·두통·신체통 | 발한 뒤 기력저하 | 천궁계지탕 |
 | 표병·기체/소화 | 흉복 답답함·두통·식욕 변화 | 발한·회복 저하가 겹치는지 | 향소산·궁귀향소산 |
-| 망양초증 | 땀 뒤 탈진·오한·회복 지연 | 냉감·활동저하 심화 | [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md) |
+| 망양초증 | 신열·자한·번뇌·신체통과 오한 | 복만·대변·번조와 발한의 변화 | 황기계지탕, [망양병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719) |
+| 망양중증 | 신열·자한에 오한 없이 열을 싫어함 | 복만·대변비조·번조 | 보중익기탕·승양익기탕 |
 | 망양 심화 | 지속 자한·냉감·전신 쇠약 | 혈압·의식·순환 저하 | [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md)·계지부자탕 |
 | 태음병·리한 | 복통·설사·식욕저하·냉감 | 구토·비만·황달/부종 분기 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) |
 | 태음병·한습/구토 | 오심·구토·심하비만 | 수분·전해질 소모 | [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
@@ -61,6 +62,8 @@ description: 소음인 병증 중증도 지도 — 민성 한의학 아카이브
 ## 원전·CPG 바로가기
 
 이 문서는 《동의수세보원·신축본》 「소음인 신수열표열병론」·「소음인 위수한리한병론」과 울광·망양·태음병·소음병 CPG를 기준으로 읽습니다.
+
+[승양팔물탕의 후대 태양양명 기록](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)은 이 지도에서 망양초증의 대표 처방으로 고정하지 않습니다. 갑오본·신축본·후대 처방표의 출전을 나누어 확인합니다.
 
 → [병증별 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md)
 

@@ -54,8 +54,8 @@ last_reviewed: 2026-09-22
 | 태양증·울광 초기 | [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) | 오한·발열·두통·신체통과 땀 변화 |
 | 표병·기체 | [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso) | 표증과 흉복 답답함·식욕 변화 |
 | 표병·두통·기체 | [궁귀향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gunggwihyangso) | 두통·신체통·소화 변화 |
-| 망양초증·승양 | [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) | 땀 뒤 탈진·냉감·식욕과 활동 저하 |
-| 망양초증·승양 | [승양팔물탕](seungyangpalmul-tang.md) | 땀 뒤 탈진·오한·회복 지연 |
+| 망양중증·승양 | [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) | 자한·신열에 복만·대변비조·번조, 오한 없이 열을 싫어함 |
+| 후대 태양양명 수록형 | [승양팔물탕](seungyangpalmul-tang.md#source-layers) | 갑오본 계통·후대 주치와 신축본의 망양 단계를 구별 |
 | 망양 심화·부자 배합 | [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) | 지속 발한·냉감·쇠약과 혈압·맥박 |
 | 망양 심화 | [인삼계지부자탕](insamgyejibujatang.md) | 발한·냉감·전신 쇠약·양기 손상 |
 | 망양 심화·관계 배합 | [인삼관계부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-insam-gwangye-buja) | 심한 탈진·냉감·섭취 감소 |
