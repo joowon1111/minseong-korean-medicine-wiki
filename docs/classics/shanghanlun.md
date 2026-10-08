@@ -35,6 +35,13 @@ description: 상한론의 육경병·맥증·치법·대표 고방을 방제 구
 | [계지탕](shanghanlun/guizhi-indication.md) | 땀·오풍·맥증 | 땀이 난다는 한 가지 특징만 떼어 보지 않고 전체 표증과 연결 |
 | [마황탕](shanghanlun/mahuang-indication.md) | 무한·몸의 통증·표증 | 계지탕 조문과 발한 상태 및 맥증을 대조 |
 | [갈근탕](shanghanlun/gegen-tang.md) | 항배강수와 땀의 유무 | [계지가갈근탕](shanghanlun/guizhi-jia-gegen.md)과 공통·차이점 확인 |
+| [대청룡탕](../formulas/daqinglong-tang.md) | 무한·번조와 맥·활력 | 마황 6량·석고 포함, 한출·오풍·맥미약의 사용 경계 |
+| [마행감석탕](../formulas/maxing-ganshi-tang.md) | 발한·하법 뒤 한출·천 | 마황탕과 다른 계지 부재·마황과 석고의 배합 |
+| [백호탕](../formulas/baihu-tang.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) | 열·갈증과 진액·기역·회복 | 지모와 인삼·맥문동·반하·죽엽의 차이를 구별 |
+| [대승기탕](../formulas/dachengqi-tang.md) · [소승기탕](../formulas/xiaochengqi-tang.md) | 대변·복만·열과 치료 반응 | 대황량은 같아도 후박·지실 비중, 망초와 전탕 순서가 다름 |
+| [도핵승기탕](../formulas/taohe-chengqi-tang.md) | 외증 해소 뒤 소복급결·혈분 | 도인·계지와 통하약의 결합, 장의 결체만 다루는 승기법과 구별 |
+| [이중탕](../formulas/lizhong-tang.md) | 중초 허한·하리·구토 | 송본 이중환의 등량과 백출 제거·생강·계지 등의 가감 |
+| [작약감초탕](../formulas/shaoyao-gancao-tang.md) · [소건중탕](../formulas/xiaojianzhong-tang.md) | 각련급·복급과 현재 한열·허약 | 작약·감초 등량과 증량 작약·교이의 차이, 치료 순서를 함께 확인 |
 | [소청룡탕](shanghanlun/xiaoqinglong.md) | 표한과 수음 관련 증후 | 기침이라는 공통 증상 속에서 수음이 어떤 근거로 제시되는지 확인 |
 | [소시호탕](../formulas/xiaochaihu-tang.md) | 왕래한열·흉협고만 등 소양병 맥증 | 96조의 칠미·가감과 101조의 시호증 문맥을 함께 확인 |
 | [대시호탕](../formulas/dachaihu-tang.md) | 심하급·구토·리열과 왕래한열 | 인삼·감초 제거, 작약·지실과 대황 이본 주석을 대조 |

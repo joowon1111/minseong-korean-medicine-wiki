@@ -40,7 +40,7 @@ last_reviewed: 2026-10-07
 
 ## 임상 활용을 위해 먼저 읽을 원문·처방 {#selected-clinical-passages}
 
-진료에서 비교하기 좋은 소화·배변·수면·현훈·심계·월경통·만성 근골격통·회복기 처방을 기존 병증과 방제 문서에 연결했습니다. 아래 원문은 《동의보감》이 수록한 문구이며 **처방의 최초 출전과 《동의보감》 수록 위치는 구분**합니다. 해석은 자체 작성했고, 현대 임상효과는 각 문서의 연구 근거에서 따로 읽습니다.
+소화·배변·수면·현훈·심계·월경통·만성 근골격통·회복기 처방은 해당 병문과 방제 구성에서 함께 읽을 수 있습니다. 아래 원문은 《동의보감》 수록 구절이며 **처방의 최초 출전과 수록 위치는 구분**합니다. 우리말 독해와 현대 임상근거도 각기 다른 자료로 살핍니다.
 
 | 수록 위치·핵심 원문 | 해석·처방·현재 확인할 질문 |
 |---|---|
@@ -66,9 +66,25 @@ last_reviewed: 2026-10-07
 
 이 세 처방은 수록 위치가 다르지만 섭취·소화·회복과 연결됩니다. **삼출건비탕의 소식·이기, 자음건비탕의 양혈·안신, 고진음자의 익정·고삽**을 비교하고, 병문별 주치와 실제 약미·포제를 따로 확인합니다. 《방약합편》의 [전씨이공산·정전가미이진탕](../bangyakhappyeon-network/index.md#representative-formulas), 《청강의감》의 [개울화담전·가미대보원전](cheonggang-uigam.md#representative-formulas)을 함께 읽으면 같은 ‘소화불량’이나 ‘피로’ 안에서 처방 구조가 달라지는 이유를 볼 수 있습니다.
 
-배변·설사·월경통과 맥의 불규칙은 수록 위치와 실제 구성을 함께 확인합니다. **내경편 권4 대변의 [비약환·마자인환 계열](../formulas/mazi-ren-wan.md#donguibogam-version)**, **잡병편 권3 내상의 [삼령백출산](../formulas/shenling-baizhu-san.md#donguibogam-version)** 및 한(寒) 항목의 [반하사심탕](../formulas/banxia-xiexin-tang.md#donguibogam-version), **잡병편 권10 부인의 [온경탕](../formulas/wenjing-tang.md#donguibogam-version)**, **외형편 권3 맥의 [자감초탕](../formulas/zhigancao-tang.md#donguibogam-version)**을 기존 방제 문서에서 읽을 수 있습니다. 각 수록본의 약재·포제·제형은 해당 문서의 한국전통지식포탈 처방 기록과 대조했습니다.
+배변·설사·월경통과 맥의 불규칙은 수록 위치와 실제 구성을 함께 확인합니다. **내경편 권4 대변의 [비약환·마자인환 계열](../formulas/mazi-ren-wan.md#donguibogam-version)**, **잡병편 권3 내상의 [삼령백출산](../formulas/shenling-baizhu-san.md#donguibogam-version)** 및 한(寒) 항목의 [반하사심탕](../formulas/banxia-xiexin-tang.md#donguibogam-version), **잡병편 권10 부인의 [온경탕](../formulas/wenjing-tang.md#donguibogam-version)**, **외형편 권3 맥의 [자감초탕](../formulas/zhigancao-tang.md#donguibogam-version)**을 기존 방제 문서에서 읽을 수 있습니다. 각 수록본의 약재·포제·제형은 해당 문서의 한국전통지식포탈 처방 기록에서 대조할 수 있습니다.
 
-원문 대조: 위키문헌의 《동의보감》 [내경편](https://ko.wikisource.org/wiki/동의보감/내경편), [외형편](https://ko.wikisource.org/wiki/동의보감/외형편), [잡병편](https://ko.wikisource.org/wiki/동의보감/잡병편). 고대 원문의 짧은 구절을 발췌하고 문장부호를 정리했습니다. 전자 전사는 위키문헌 기여자에게 출처를 표시하며 전사 편집의 이용 조건은 해당 사이트의 CC BY-SA 4.0 안내를 따릅니다. 전사에는 이체자·오자가 있으므로 임상 조제에는 공인 원료·제제 정보와 처방 원전을 다시 확인합니다. 원문 단위인 전·분은 역사적 기록이며 개인의 복용량 안내가 아닙니다.
+원문 대조: 위키문헌의 《동의보감》 [내경편](https://ko.wikisource.org/wiki/동의보감/내경편), [외형편](https://ko.wikisource.org/wiki/동의보감/외형편), [잡병편](https://ko.wikisource.org/wiki/동의보감/잡병편). 짧은 고대 원문 발췌에는 읽기 위한 문장부호를 사용합니다. 전자 전사는 위키문헌 기여자에게 출처를 표시하며 전사 편집의 이용 조건은 해당 사이트의 CC BY-SA 4.0 안내를 따릅니다. 전사에는 이체자·오자가 있으므로 임상 조제에는 공인 원료·제제 정보와 처방 원전을 다시 확인합니다. 원문 단위인 전·분은 역사적 기록이며 개인의 복용량 안내가 아닙니다.
+
+### 기본방에서 기혈·담습·식적을 비교하기 {#basic-formula-comparison}
+
+《동의보감》의 기본방은 내경의 기·혈·담음과 잡병의 내상·허로 등을 오가며 읽습니다. 수록 처방의 원래 계통은 《국방》·《단계심법》 등으로 거슬러 올라가지만, 한국 문헌의 약미·포제·수록량은 별도로 확인합니다.
+
+| 비교할 처방 | 배합의 갈림점 | 병문에서 살필 상태 |
+|---|---|---|
+| [사군자탕](../formulas/sijunzi-tang.md) · [이중탕](../formulas/lizhong-tang.md) | 복령의 보기건비와 건강의 온중 | 식욕·활력·묽은 변과 냉감의 비중 |
+| [사물탕](../formulas/siwu-tang.md) · [팔물탕](../formulas/bazhen-tang.md) | 네 혈분 약과 사군자축의 결합 | 혈허에 기허·소화저하가 겹치는가 |
+| [십전대보탕](../formulas/shi-quan-da-bu-tang.md) · [쌍화탕](../formulas/ssanghwa-tang.md) | 인삼·백출·복령 유무, 작약·황기·계피의 비중 | 기혈허·냉감과 노권 뒤 근육 긴장·소모 |
+| [이진탕](../formulas/erchen-tang.md) · [도담탕](../formulas/daotan-tang.md) | 반하·진피·복령축에 남성·지실의 포함 | 기역·담음과 더 뚜렷한 담·기의 막힘 |
+| [평위산](../formulas/pingwei-san.md) · [보화환](../formulas/baohe-wan.md) | 창출·후박의 조습행기와 산사 중심 소식 | 습체·충만인가, 음식 정체가 중심인가 |
+| [월국환](../formulas/yueju-wan.md) | 향부·천궁·창출·치자·신곡 등분 | 기·혈·습·열·식의 정체가 어떻게 겹치는가 |
+| [자음강화탕](../formulas/ziyin-jianghuo-tang.md) | 혈분·쌍지황·이동에 지모·황백과 건비이기 | 건조·허열에 소화·회복 문제가 함께 있는가 |
+
+특히 [당귀보혈탕](../formulas/danggui-buxue-tang.md)의 황기·당귀 두 약 배합과 《동의보감》의 동명 혈허두통방은 구성이 다릅니다. 처방명을 찾은 뒤 약미를 대조하는 과정이 병문별 탐색의 일부입니다.
 
 ## 증상에서 탐색하는 방법 {#_7}
 

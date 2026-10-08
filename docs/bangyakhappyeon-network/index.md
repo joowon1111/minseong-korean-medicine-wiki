@@ -64,9 +64,20 @@ last_reviewed: 2026-08-29
 | 중통 공개기록 | [가미온담탕](../formulas/jiawei-wendan-tang.md#formula-structure-reading) | 향부자 비중과 시호·인삼·맥문동·길경의 포함, 11미에 강·조 별기 | 온담탕·귀비탕·자음건비탕 |
 | 하통 71 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md#original-units) | 산사육 중심의 소식, 이진탕의 화담, 백출·창출의 비위 배합 | 삼출건비탕·개울화담전·평위산 |
 
-상통의 전씨이공산에도 이기약이 있고, 하통의 정전가미이진탕에도 ‘보비’라는 치법 설명이 있습니다. **상통=모든 허증, 하통=모든 실증**으로 단순화하기보다 실제 구성과 주치 문장을 대조합니다. 정확한 번호를 확인한 두 처방은 약학정보원의 [상통 19](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=413)와 [하통 71](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417)을, 나머지는 각 문서의 한국전통지식포탈 수록형을 연결했습니다.
+상통의 전씨이공산에도 이기약이 있고, 하통의 정전가미이진탕에도 ‘보비’라는 치법 설명이 있습니다. **상통=모든 허증, 하통=모든 실증**으로 단순화하기보다 실제 구성과 주치 문장을 대조합니다. 정확한 번호를 확인한 두 처방은 약학정보원의 [상통 19](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=413)와 [하통 71](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417)을, 다른 처방의 수록형은 각 문서의 한국전통지식포탈 기록에서 확인합니다.
 
 활투는 가감·합방의 기록입니다. 기본방과 활투를 적용한 방, 현대 제제는 구성·포제·1일량을 각각 기록하고, 공개 DB의 g 환산은 원문 전·분과 나누어 읽습니다. [동의보감 삼출건비탕의 지실 유무](../formulas/samchul-geonbi-tang.md#donguibogam-version)처럼 같은 이름의 자료도 출전과 약미를 확인하면 유사 처방 감별로 이어집니다.
+
+| 기본방의 비교 | 약미에서 달라지는 중심 | 함께 확인할 상태 |
+|---|---|---|
+| [사군자탕](../formulas/sijunzi-tang.md) · [이중탕](../formulas/lizhong-tang.md) | 복령과 건강의 차이 | 기허·허한, 식욕·묽은 변·냉감 |
+| [사물탕](../formulas/siwu-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 혈분에 보기건비, 황기·육계가 결합 | 기혈 부족·소화·허한의 비중 |
+| [쌍화탕](../formulas/ssanghwa-tang.md) | 작약의 큰 비중과 황기·계피, 인삼·백출·복령 없음 | 과로 뒤 기혈 소모·근육 긴장 |
+| [평위산](../formulas/pingwei-san.md) · [이진탕](../formulas/erchen-tang.md) · [도담탕](../formulas/daotan-tang.md) | 창출·후박, 반하·복령, 남성·지실의 차이 | 습체·담·기역·막힘을 구별 |
+| [제천전](../formulas/jichuan-jian.md) | 육종용·당귀와 승마·지각의 배합 | 허비·정혈과 배변 힘, 원전과 DB의 지각량 차이 |
+| [방풍통성산](../formulas/fangfeng-tongsheng-san.md) | 해표·청열·통하·통리를 함께 구성 | 표리·한열·허실과 대소변 상태 |
+
+같은 기본방도 국방의 일괄 산제량, 동의보감의 1첩량, 방약합편의 수록량과 현대 엑스제의 함량은 서로 다른 기록입니다. 예를 들어 평위산·이진탕은 원전 간에 약미 비율도 달라 단순한 단위 환산으로 설명할 수 없습니다. 수록형을 확인한 뒤 기본방·가감방·합방과 유사 처방을 비교합니다.
 
 
 ## 방약합편 본초·약성가 {#boncho-yakseongga}

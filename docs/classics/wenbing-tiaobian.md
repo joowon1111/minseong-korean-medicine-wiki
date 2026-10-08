@@ -85,6 +85,15 @@ last_reviewed: 2026-08-29
 
 여섯 독해 경로의 대조 문헌은 아래 원문 자료입니다. 원전의 약량·제법을 현대 복용량으로 단순 환산하지 않으며, 현대 연구는 [호흡기 처방 근거](../authority/formulas/respiratory-herbal-formula-map.md#common-cold-trial)와 [고전→현대 연구](../network/classic-to-evidence-map.md)에서 대상과 제제를 확인합니다.
 
+| 처방 | 원전 구성·제법의 특징 | 비교에서 놓치지 않을 점 |
+|---|---|---|
+| [은교산](../formulas/yinqiao-san.md#original-pattern-course) | 아홉 약의 산제와 별도의 신선한 노근탕, 과전을 경계 | 인후·갈증·표의 열과 금은화·연교의 비중 |
+| [상국음](../formulas/sangju-yin.md#original-pattern-course) | 상엽·국화·행인·길경을 포함한 팔미 | 기침 중심·열과 갈증이 가벼운 신량경제 |
+| [삼인탕](../formulas/sanren-tang.md#original-pattern-course) | 삼인에 반하·후박·활석·통초·죽엽을 결합한 팔미 | 습·기체·열의 관계, 선폐·행기·삼습을 함께 읽음 |
+| [청영탕](../formulas/qingying-tang.md#original-pattern-course) | 양음약과 금은화·연교의 투열, 황련 가감 | 영분의 열과 습·진액을 구별하고 현대 대체 원료를 별도 확인 |
+
+이 비교는 열병의 처방을 체온의 높낮이 순서로 배열하지 않는 데 도움이 됩니다. 상초편 안에서도 위·기·영분의 서로 다른 조건이 나오므로 삼초와 위기영혈을 한 칸씩 고정 대응시키지 않습니다.
+
 ## 다른 고전과 함께 읽기 {#_5}
 
 - [상한론](shanghanlun.md) — 한사를 중심으로 한 육경병증과 비교
