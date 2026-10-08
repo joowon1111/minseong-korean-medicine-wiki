@@ -2,7 +2,7 @@
 title: 일반 방제 임상 지도
 tags: [방제학, 일반방제, 임상지도, 처방감별]
 status: 검토완료
-last_reviewed: '2026-09-21'
+last_reviewed: '2026-10-08'
 description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따라 비교하고, 구성 본초와 수치·법제·제형·근거로 연결합니다.
 ---
 # 일반 방제 임상 지도
@@ -19,19 +19,6 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 100개 처방의 출전·구성 원문, 한글 약량표와 포제 풀이, 주치·배합 해석, 각 구성 본초의 상세 문서를 연결합니다. 표의 **대조 출전·원문**에서 해당 처방의 원전 약량으로 바로 이동할 수 있습니다.
 
 각 상세 문서에서는 처방명만 보지 않고 `대표 출전 → 원방의 약미·상대비 → 수치(修治)·법제 → 제형·전탕 → 임상 감별 → 현대 연구`를 확인합니다. 같은 처방명도 출전·제형·구성비가 다르면 별도 기록으로 구분합니다. 원전의 량·전·분·승·합·개수량을 유지하며, 시대와 문헌에 따라 같은 단위명의 뜻이 다를 수 있어 현대 g로 일괄 환산하지 않습니다. 원문 미기재량·대체 약미·이본은 각 표 옆에서 구분합니다.
-
-### 원문·약량표에서 먼저 구분할 여섯 가지 {#source-reading-guide}
-
-| 확인할 점 | 대표 대조 문서 | 읽는 이유 |
-|---|---|---|
-| 제조 총량과 1회 취량 | [삼령백출산의 산제](../formulas/shenling-baizhu-san.md#original-pattern-course) · [불수산의 거친 가루](../formulas/bulsu-san.md#original-pattern-course) | 근·량 단위로 만든 전체 가루와 매회 2전을 구분 |
-| 약미 본문과 방가 | [생화탕의 도인 14립·방가 10립](../formulas/saenghwa-tang.md#original-text-comparison) | 같은 책 안에서도 차이가 있으면 기준 구절을 명시 |
-| 개수량과 중량 | [소복축어탕의 7립·2분](../formulas/shaofu-zhuyu-tang.md#original-pattern-course) | 숫자만 같게 g으로 옮기거나 후대 용량을 원방량으로 표시하지 않음 |
-| 포제품의 실제 역할 | [완대탕의 흑개수](../formulas/wandai-tang.md#original-pattern-course) · [감로소독단의 비활석](../formulas/ganlu-xiaodu-dan.md#original-pattern-course) | 생품·탄화품·정제품과 약용부위를 구별 |
-| 주치와 방후 가감 | [수태환의 예방 문맥·가감](../formulas/shoutai-wan.md#original-pattern-course) · [소시호탕의 가감](../formulas/xiaochaihu-tang.md#original-modifications) | 기본방과 조건별 변방을 하나의 고정 구성으로 합치지 않음 |
-| 전통 주치와 현대 연구 | [갈근금련탕 34조](../formulas/gegen-qinlian-tang.md#original-pattern-course) · [보양환오탕의 원전 증후](../formulas/buyang-huanwu-tang.md#original-pattern-course) | 원전의 증후 설명과 연구 대상·중재·결과를 따로 확인 |
-
-아래 목록의 **대조 출전**은 이 문서에서 약미·약량을 비교하는 수록본입니다. 반드시 최초 출전을 뜻하지 않으며, 후대 수록본·이본·현대 DB 환산표를 사용하는 경우 상세 문서에서 그 기준을 밝힙니다. 본초의 단미 효능은 배합 해석의 출발점이고, 처방 안의 역할은 **다른 약미·상대비·포제·제형·주치 문맥**과 함께 읽습니다.
 
 ### 보기·기혈·회복 16선
 
@@ -187,48 +174,48 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 
 ## 비위·소화
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 비위기허 + 수습 + 만성 묽은변 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
-| 습체·창만 | [평위산](../formulas/pingwei-san.md) |
-| 비기허 + 담습 + 기체 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
-| 비위허한 + 습체·기체 | [향사양위탕](../formulas/xiangsha-yangwei-tang.md) |
-| 외감 + 내상습체 | [불환금정기산](../formulas/buhuanjin-zhengqi-san.md) |
-| 비위허약 + 습담 + 음증성 외감 | [인삼양위탕](../formulas/renshen-yangwei-tang.md) |
-| 음식적체 | [보화환](../formulas/baohe-wan.md) |
-| 식적 + 담습 + 기체가 겹친 반복성 소화불편 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) |
-| 비위습체 + 수습·설사 | [위령탕](../formulas/weiling-tang.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 비위기허 + 수습 + 만성 묽은변 | [삼령백출산](../formulas/shenling-baizhu-san.md) | [태평혜민화제국방](../formulas/shenling-baizhu-san.md#source-dose-original) |
+| 습체·창만 | [평위산](../formulas/pingwei-san.md) | [태평혜민화제국방](../formulas/pingwei-san.md#source-dose-original) |
+| 비기허 + 담습 + 기체 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | [시방가괄](../formulas/xiangsha-liujunzi-tang.md#source-dose-original) |
+| 비위허한 + 습체·기체 | [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | [東醫壽世保元・辛丑本](../formulas/xiangsha-yangwei-tang.md#source-dose-original) |
+| 외감 + 내상습체 | [불환금정기산](../formulas/buhuanjin-zhengqi-san.md) | [태평혜민화제국방](../formulas/buhuanjin-zhengqi-san.md#source-dose-original) |
+| 비위허약 + 습담 + 음증성 외감 | [인삼양위탕](../formulas/renshen-yangwei-tang.md) | [태평혜민화제국방](../formulas/renshen-yangwei-tang.md#source-dose-original) |
+| 음식적체 | [보화환](../formulas/baohe-wan.md) | [단계심법](../formulas/baohe-wan.md#source-dose-original) |
+| 식적 + 담습 + 기체가 겹친 반복성 소화불편 | [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md) | [의학정전](../formulas/jeongjeon-gami-ijin-tang.md#source-dose-original) |
+| 비위습체 + 수습·설사 | [위령탕](../formulas/weiling-tang.md) | [고금의감](../formulas/weiling-tang.md#source-dose-original) |
 
 **빠른 감별:** `평위산 ↔ 향사육군자탕 ↔ 향사양위탕 ↔ 보화환`은 모두 소화불편에 쓰이지만, **습체 / 비허 / 기체 / 식적** 중 무엇이 중심인지가 갈림점입니다.
 
 ## 담음·현훈·불면
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 과민·흥분·긴장과 수면 불편 | [억간산](../formulas/yigan-san.md) |
-| 담습의 기본형 | [이진탕](../formulas/erchen-tang.md) |
-| 흉협부 담음 + 기체·통증 | [궁하탕](../formulas/gungha-tang.md) |
-| 비허담습 + 현훈·두통 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) |
-| 완고한 담습·담궐 | [도담탕](../formulas/daotan-tang.md) |
-| 담울 + 심번·불면·경계 | [가미온담탕](../formulas/jiawei-wendan-tang.md) |
-| 심신음혈부족 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
-| 허번불면 | [산조인탕](../formulas/suanzaoren-tang.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 과민·흥분·긴장과 수면 불편 | [억간산](../formulas/yigan-san.md) | [보영촬요](../formulas/yigan-san.md#source-dose-original) |
+| 담습의 기본형 | [이진탕](../formulas/erchen-tang.md) | [태평혜민화제국방](../formulas/erchen-tang.md#source-dose-original) |
+| 흉협부 담음 + 기체·통증 | [궁하탕](../formulas/gungha-tang.md) | [인재직지방론](../formulas/gungha-tang.md#source-dose-original) |
+| 비허담습 + 현훈·두통 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) | [비위론](../formulas/banxia-baizhu-tianma-tang.md#source-dose-original) |
+| 완고한 담습·담궐 | [도담탕](../formulas/daotan-tang.md) | [엄씨제생방](../formulas/daotan-tang.md#source-dose-original) |
+| 담울 + 심번·불면·경계 | [가미온담탕](../formulas/jiawei-wendan-tang.md) | [만병회춘](../formulas/jiawei-wendan-tang.md#source-dose-original) |
+| 심신음혈부족 | [천왕보심단](../formulas/tianwang-buxin-dan.md) | [의방집해](../formulas/tianwang-buxin-dan.md#source-dose-original) |
+| 허번불면 | [산조인탕](../formulas/suanzaoren-tang.md) | [금궤요략방론](../formulas/suanzaoren-tang.md#source-dose-original) |
 
 **빠른 감별:** 현훈이면 `반하백출천마탕 ↔ 천마구등음`, 불면이면 `귀비탕 ↔ 천왕보심단 ↔ 산조인탕 ↔ 가미온담탕`으로 병증축을 먼저 나눕니다.
 
 ## 간울·기체·활혈
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 간울 + 혈허·비허 | [소요산](../formulas/xiaoyao-san.md) |
-| 간울혈허 + 울열 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) |
-| 칠정기울 + 흉복비체·수습 | [분심기음](../formulas/fenxin-qiyin.md) |
-| 풍사 + 기체 + 지체통 | [오약순기산](../formulas/wuyao-shunqi-san.md) |
-| 흉중어혈 + 기체 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) |
-| 간기울결 + 흉협통 | [시호소간산](../formulas/chaihu-shugan-san.md) |
-| 담기울결·매핵기 | [반하후박탕](../formulas/banxia-houpo-tang.md) |
-| 기·혈·담·화·습·식이 겹친 복합 울체 | [육울탕](../formulas/yukwul-tang.md) |
-| 울체를 풀되 간결한 기본 구조가 필요할 때 | [월국환](../formulas/yueju-wan.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 간울 + 혈허·비허 | [소요산](../formulas/xiaoyao-san.md) | [태평혜민화제국방](../formulas/xiaoyao-san.md#source-dose-original) |
+| 간울혈허 + 울열 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) | [내과적요](../formulas/jiawei-xiaoyao-san.md#source-dose-original) |
+| 칠정기울 + 흉복비체·수습 | [분심기음](../formulas/fenxin-qiyin.md) | [동의보감·내경·기](../formulas/fenxin-qiyin.md#source-dose-original) |
+| 풍사 + 기체 + 지체통 | [오약순기산](../formulas/wuyao-shunqi-san.md) | [태평혜민화제국방](../formulas/wuyao-shunqi-san.md#source-dose-original) |
+| 흉중어혈 + 기체 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) | [의림개착](../formulas/xuefu-zhuyu-tang.md#source-dose-original) |
+| 간기울결 + 흉협통 | [시호소간산](../formulas/chaihu-shugan-san.md) | [경악전서](../formulas/chaihu-shugan-san.md#source-dose-original) |
+| 담기울결·매핵기 | [반하후박탕](../formulas/banxia-houpo-tang.md) | [금궤요략방론](../formulas/banxia-houpo-tang.md#source-dose-original) |
+| 기·혈·담·화·습·식이 겹친 복합 울체 | [육울탕](../formulas/yukwul-tang.md) | [의학입문](../formulas/yukwul-tang.md#source-dose-original) |
+| 울체를 풀되 간결한 기본 구조가 필요할 때 | [월국환](../formulas/yueju-wan.md) | [의방집해](../formulas/yueju-wan.md#source-dose-original) |
 
 ## 심혈관·대사 임상연구 제제 {#_5}
 
@@ -240,167 +227,167 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 
 ## 외감·호흡·청열
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 기허 + 외감풍한 + 담 | [삼소음](../formulas/renshen-suyin.md) |
-| 풍열·울열성 이비인후 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
-| 풍열독·창양·종통 | [연교패독산](../formulas/lianqiao-baidu-san.md) |
-| 음허·조열·기역성 해수 계열 | [맥문동탕](../formulas/maidong-tang.md) |
-| 온병초기 풍열표증 | [은교산](../formulas/yinqiao-san.md) |
-| 풍열 + 기침 중심 | [상국음](../formulas/sangju-yin.md) |
-| 폐열·천해 | [마행감석탕](../formulas/maxing-ganshi-tang.md) |
-| 담열옹폐·천급 | [정천탕](../formulas/dingchuan-tang.md) |
-| 상실하허·기역·담연 | [소자강기탕](../formulas/suzi-jiangqi-tang.md) |
-| 량조·해수담희 | [행소산](../formulas/xingsu-san.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 기허 + 외감풍한 + 담 | [삼소음](../formulas/renshen-suyin.md) | [태평혜민화제국방](../formulas/renshen-suyin.md#source-dose-original) |
+| 풍열·울열성 이비인후 | [형개연교탕](../formulas/jingjie-lianqiao-tang.md) | [만병회춘](../formulas/jingjie-lianqiao-tang.md#source-dose-original) |
+| 풍열독·창양·종통 | [연교패독산](../formulas/lianqiao-baidu-san.md) | [고금의감](../formulas/lianqiao-baidu-san.md#source-dose-original) |
+| 음허·조열·기역성 해수 계열 | [맥문동탕](../formulas/maidong-tang.md) | [금궤요략방론](../formulas/maidong-tang.md#source-dose-original) |
+| 온병초기 풍열표증 | [은교산](../formulas/yinqiao-san.md) | [온병조변](../formulas/yinqiao-san.md#source-dose-original) |
+| 풍열 + 기침 중심 | [상국음](../formulas/sangju-yin.md) | [온병조변](../formulas/sangju-yin.md#source-dose-original) |
+| 폐열·천해 | [마행감석탕](../formulas/maxing-ganshi-tang.md) | [상한론(송본)](../formulas/maxing-ganshi-tang.md#source-dose-original) |
+| 담열옹폐·천급 | [정천탕](../formulas/dingchuan-tang.md) | [의방집해](../formulas/dingchuan-tang.md#source-dose-original) |
+| 상실하허·기역·담연 | [소자강기탕](../formulas/suzi-jiangqi-tang.md) | [태평혜민화제국방](../formulas/suzi-jiangqi-tang.md#source-dose-original) |
+| 량조·해수담희 | [행소산](../formulas/xingsu-san.md) | [온병조변](../formulas/xingsu-san.md#source-dose-original) |
 
 **빠른 감별:** `은교산 ↔ 상국음`은 풍열표증에서 **청열해독 vs 기침 중심**, `마행감석탕 ↔ 정천탕 ↔ 소자강기탕`은 **폐열 / 담열 / 상실하허**가 갈림점입니다.
 
 ## 한열·비위조화
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 복부 냉감·통증·팽만 | [대건중탕](../formulas/dajianzhong-tang.md) |
-| 심하비 + 구역·장명·설사 + 한열착잡 | [반하사심탕](../formulas/banxia-xiexin-tang.md) |
-| 태음 중초허한 + 복통·설사·구토 | [이중탕](../formulas/lizhong-tang.md) |
-| 중초허한 + 허로성 복통·복부 긴장 | [소건중탕](../formulas/xiaojianzhong-tang.md) |
-| 중초허한 + 기허·자한·회복저하 | [황기건중탕](../formulas/huangqi-jianzhong-tang.md) |
-| 한습 + 기혈담식 복합 | [오적산](../formulas/wujisan.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 복부 냉감·통증·팽만 | [대건중탕](../formulas/dajianzhong-tang.md) | [금궤요략방론](../formulas/dajianzhong-tang.md#source-dose-original) |
+| 심하비 + 구역·장명·설사 + 한열착잡 | [반하사심탕](../formulas/banxia-xiexin-tang.md) | [상한론(송본)](../formulas/banxia-xiexin-tang.md#source-dose-original) |
+| 태음 중초허한 + 복통·설사·구토 | [이중탕](../formulas/lizhong-tang.md) | [상한론(송본)](../formulas/lizhong-tang.md#source-dose-original) |
+| 중초허한 + 허로성 복통·복부 긴장 | [소건중탕](../formulas/xiaojianzhong-tang.md) | [상한론(송본)](../formulas/xiaojianzhong-tang.md#source-dose-original) |
+| 중초허한 + 기허·자한·회복저하 | [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | [금궤요략방론](../formulas/huangqi-jianzhong-tang.md#source-dose-original) |
+| 한습 + 기혈담식 복합 | [오적산](../formulas/wujisan.md) | [태평혜민화제국방](../formulas/wujisan.md#source-dose-original) |
 
 ## 보익·음양
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 음허화왕·허열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
-| 기음부족 + 심화·소변 문제 | [청심연자음](../formulas/qingxin-lianzi-yin.md) |
-| 신음허 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
-| 신양허 | [팔미지황환](../formulas/bawei-dihuang-wan.md) |
-| 신음·정혈부족 | [좌귀환](../formulas/zuogui-wan.md) |
-| 신양허 + 정혈부족 | [우귀환](../formulas/yougui-wan.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 음허화왕·허열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) | [만병회춘](../formulas/ziyin-jianghuo-tang.md#source-dose-original) |
+| 기음부족 + 심화·소변 문제 | [청심연자음](../formulas/qingxin-lianzi-yin.md) | [국방 주치·방약합편 약량](../formulas/qingxin-lianzi-yin.md#source-dose-original) |
+| 신음허 | [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) | [소아약증직결](../formulas/liu%20wei%20dihuang%20wan.md#source-dose-original) |
+| 신양허 | [팔미지황환](../formulas/bawei-dihuang-wan.md) | [금궤요략방론](../formulas/bawei-dihuang-wan.md#source-dose-original) |
+| 신음·정혈부족 | [좌귀환](../formulas/zuogui-wan.md) | [경악전서](../formulas/zuogui-wan.md#source-dose-original) |
+| 신양허 + 정혈부족 | [우귀환](../formulas/yougui-wan.md) | [경악전서](../formulas/yougui-wan.md#source-dose-original) |
 
 ## 윤장·변비
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 신허·정혈부족 + 고령·허손성 변비 | [제천전](../formulas/jichuan-jian.md) |
-| 장조·열결형 기능성변비의 연구 근거 확인 | [마자인환](../formulas/mazi-ren-wan.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 신허·정혈부족 + 고령·허손성 변비 | [제천전](../formulas/jichuan-jian.md) | [경악전서](../formulas/jichuan-jian.md#source-dose-original) |
+| 장조·열결형 기능성변비의 연구 근거 확인 | [마자인환](../formulas/mazi-ren-wan.md) | [상한론(송본)](../formulas/mazi-ren-wan.md#source-dose-original) |
 
 **빠른 감별:** 제천전은 단순 공하제가 아니라 **신허·정혈부족을 보하면서 윤장·하행**하는 허비의 구조입니다. 복통·구토·혈변 등 위험신호가 있으면 처방 감별보다 의학적 평가가 우선입니다.
 
 ## 습·수분대사
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 외감 + 내상습체 | [곽향정기산](../formulas/huoxiang-zhengqi-san.md) |
-| 수습정체·기화불리 | [오령산](../formulas/wuling-san.md) |
-| 수열호결 + 음손 | [저령탕](../formulas/zhuling-tang.md) |
-| 양허 + 수기내정 | [진무탕](../formulas/zhenwu-tang.md) |
-| 중양부족 + 담음 | [영계출감탕](../formulas/linggui-zhugan-tang.md) |
-| 비양허 수종 + 행기조습 | [실비음](../formulas/shipi-yin.md) |
-| 습열하주·열림 | [팔정산](../formulas/bazheng-san.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 외감 + 내상습체 | [곽향정기산](../formulas/huoxiang-zhengqi-san.md) | [태평혜민화제국방](../formulas/huoxiang-zhengqi-san.md#source-dose-original) |
+| 수습정체·기화불리 | [오령산](../formulas/wuling-san.md) | [상한론(송본)](../formulas/wuling-san.md#source-dose-original) |
+| 수열호결 + 음손 | [저령탕](../formulas/zhuling-tang.md) | [상한론(송본)](../formulas/zhuling-tang.md#source-dose-original) |
+| 양허 + 수기내정 | [진무탕](../formulas/zhenwu-tang.md) | [상한론(송본)](../formulas/zhenwu-tang.md#source-dose-original) |
+| 중양부족 + 담음 | [영계출감탕](../formulas/linggui-zhugan-tang.md) | [상한론(송본)](../formulas/linggui-zhugan-tang.md#source-dose-original) |
+| 비양허 수종 + 행기조습 | [실비음](../formulas/shipi-yin.md) | [엄씨제생방](../formulas/shipi-yin.md#source-dose-original) |
+| 습열하주·열림 | [팔정산](../formulas/bazheng-san.md) | [태평혜민화제국방](../formulas/bazheng-san.md#source-dose-original) |
 
 **빠른 감별:** `오령산 ↔ 저령탕 ↔ 진무탕 ↔ 팔정산`은 모두 수분대사 문제를 다루지만 **수습 / 수열 / 양허 / 습열**의 차이를 먼저 봅니다.
 
 ## 두통·통증·비증
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 근육의 급박·경련·쥐 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) |
-| 복합 두통 | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
-| 경항·견배의 풍한담 | [회수산](../formulas/huishou-san.md) |
-| 만성 풍한습비 + 간신기혈허 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) |
-| 외감풍사 두통 | [천궁다조산](../formulas/chuanxiong-chatiao-san.md) |
-| 비연·비색 + 두통 | [창이자산](../formulas/cangerzi-san.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 근육의 급박·경련·쥐 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) | [상한론(송본)](../formulas/shaoyao-gancao-tang.md#source-dose-original) |
+| 복합 두통 | [청상견통탕](../formulas/qingshang-juantong-tang.md) | [수세보원](../formulas/qingshang-juantong-tang.md#source-dose-original) |
+| 경항·견배의 풍한담 | [회수산](../formulas/huishou-san.md) | [만병회춘](../formulas/huishou-san.md#source-dose-original) |
+| 만성 풍한습비 + 간신기혈허 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) | [비급천금요방](../formulas/duhuo-jisheng-tang.md#source-dose-original) |
+| 외감풍사 두통 | [천궁다조산](../formulas/chuanxiong-chatiao-san.md) | [태평혜민화제국방](../formulas/chuanxiong-chatiao-san.md#source-dose-original) |
+| 비연·비색 + 두통 | [창이자산](../formulas/cangerzi-san.md) | [엄씨제생방](../formulas/cangerzi-san.md#source-dose-original) |
 
 ## 피부·풍열
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 표리구실·풍열옹성 | [방풍통성산](../formulas/fangfeng-tongsheng-san.md) |
-| 풍습열 피부소양 | [소풍산](../formulas/xiaofeng-san.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 표리구실·풍열옹성 | [방풍통성산](../formulas/fangfeng-tongsheng-san.md) | [황제소문선명론방](../formulas/fangfeng-tongsheng-san.md#source-dose-original) |
+| 풍습열 피부소양 | [소풍산](../formulas/xiaofeng-san.md) | [외과정종](../formulas/xiaofeng-san.md#source-dose-original) |
 
 ## 폐·기음·표허
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 폐기허·기침 | [보폐탕](../formulas/bufei-tang.md) |
-| 기음양허·진액손상 | [생맥산](../formulas/shengmai-san.md) |
-| 표허·위외불고 | [옥병풍산](../formulas/yupingfeng-san.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 폐기허·기침 | [보폐탕](../formulas/bufei-tang.md) | [의방고](../formulas/bufei-tang.md#source-dose-original) |
+| 기음양허·진액손상 | [생맥산](../formulas/shengmai-san.md) | [의학심오](../formulas/shengmai-san.md#source-dose-original) |
+| 표허·위외불고 | [옥병풍산](../formulas/yupingfeng-san.md) | [단계심법](../formulas/yupingfeng-san.md#source-dose-original) |
 
 ## 보익·기혈
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 비위기허·보기 기본방 | [사군자탕](../formulas/sijunzi-tang.md) |
-| 비위기허 + 담음 | [육군자탕](../formulas/liujunzi-tang.md) |
-| 혈허·보혈 기본방 | [사물탕](../formulas/siwu-tang.md) |
-| 황기 중심의 보기생혈 | [당귀보혈탕](../formulas/danggui-buxue-tang.md) |
-| 기허와 혈허가 고르게 동반 | [팔물탕](../formulas/bazhen-tang.md) |
-| 기혈양허 + 온보 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
-| 기혈양허 + 허손·심신 소모 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) |
-| 기혈부족 + 비위허약·담습·기체 | [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) |
-| 기음양허 + 발한·구갈·숨참 | [생맥산](../formulas/shengmai-san.md) |
-| 기혈음 허손 + 심계·맥결대 | [자감초탕](../formulas/zhigancao-tang.md) |
-| 기혈·영위허 + 혈비·저림·냉감 | [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) |
-| 심비양허·불면·심계 | [귀비탕](../formulas/guibi-tang.md) |
-| 기혈·정수의 큰 허손 + 요슬무력 | [대보원전](../formulas/dabo-wonjeon.md) |
-| 비위기허 + 자한·회복저하 | [인삼황기탕](../formulas/renshen-huangqi-tang.md) |
-| 노권·기혈구상 | [쌍화탕](../formulas/ssanghwa-tang.md) |
-| 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 비위기허·보기 기본방 | [사군자탕](../formulas/sijunzi-tang.md) | [태평혜민화제국방](../formulas/sijunzi-tang.md#source-dose-original) |
+| 비위기허 + 담음 | [육군자탕](../formulas/liujunzi-tang.md) | [의학심오](../formulas/liujunzi-tang.md#source-dose-original) |
+| 혈허·보혈 기본방 | [사물탕](../formulas/siwu-tang.md) | [태평혜민화제국방](../formulas/siwu-tang.md#source-dose-original) |
+| 황기 중심의 보기생혈 | [당귀보혈탕](../formulas/danggui-buxue-tang.md) | [내외상변혹론](../formulas/danggui-buxue-tang.md#source-dose-original) |
+| 기허와 혈허가 고르게 동반 | [팔물탕](../formulas/bazhen-tang.md) | [만병회춘](../formulas/bazhen-tang.md#source-dose-original) |
+| 기혈양허 + 온보 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | [태평혜민화제국방](../formulas/shi-quan-da-bu-tang.md#source-dose-original) |
+| 기혈양허 + 허손·심신 소모 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) | [태평혜민화제국방](../formulas/renshen-yangrong-tang.md#source-dose-original) |
+| 기혈부족 + 비위허약·담습·기체 | [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) | [우수경험방집·수록자료](../formulas/ikgi-bohyeol-tang.md#source-dose-original) |
+| 기음양허 + 발한·구갈·숨참 | [생맥산](../formulas/shengmai-san.md) | [의학심오](../formulas/shengmai-san.md#source-dose-original) |
+| 기혈음 허손 + 심계·맥결대 | [자감초탕](../formulas/zhigancao-tang.md) | [상한론(송본)](../formulas/zhigancao-tang.md#source-dose-original) |
+| 기혈·영위허 + 혈비·저림·냉감 | [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) | [금궤요략방론](../formulas/huangqi-guizhi-wuwu-tang.md#source-dose-original) |
+| 심비양허·불면·심계 | [귀비탕](../formulas/guibi-tang.md) | [엄씨제생방](../formulas/guibi-tang.md#source-dose-original) |
+| 기혈·정수의 큰 허손 + 요슬무력 | [대보원전](../formulas/dabo-wonjeon.md) | [경악전서](../formulas/dabo-wonjeon.md#source-dose-original) |
+| 비위기허 + 자한·회복저하 | [인삼황기탕](../formulas/renshen-huangqi-tang.md) | [동의보감·내경·기](../formulas/renshen-huangqi-tang.md#source-dose-original) |
+| 노권·기혈구상 | [쌍화탕](../formulas/ssanghwa-tang.md) | [태평혜민화제국방](../formulas/ssanghwa-tang.md#source-dose-original) |
+| 비위기허·중기하함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | [비위론](../formulas/buzhong-yiqi-tang.md#source-dose-original) |
 
 **빠른 계보:** 사군자탕과 사물탕이 합쳐져 팔물탕이 되고, 여기에 황기·육계가 더해지면 십전대보탕으로 확장됩니다. 당귀보혈탕은 보기생혈, 생맥산은 기음·진액, 자감초탕은 심계·복맥, 황기계지오물탕은 혈비·영위허가 갈림점입니다.
 
 ## 부인·조경
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 혈허 + 수습 | [당귀작약산](../formulas/danggui-shaoyao-san.md) |
-| 하초 어혈 + 고정성 통증·혈괴 | [계지복령환](../formulas/guizhi-fuling-wan.md) |
-| 충임허한 + 어혈 | [온경탕](../formulas/wenjing-tang.md) |
-| 한응어혈 + 월경통·하복부 고정통 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) |
-| 혈허유열 + 월경선기·출혈량 증가 | [청경사물탕](../formulas/qingjing-siwu-tang.md) |
-| 비허·간울·습 + 만성 백대하 | [완대탕](../formulas/wandai-tang.md) |
-| 충임허손 + 혈허·허한성 출혈 | [교애탕](../formulas/jiaoai-tang.md) |
-| 혈허 + 기체·하초 한의 임신준비 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) |
-| 기혈양허 + 신허·충임부족의 임신준비 | [육린주](../formulas/yulin-zhu.md) |
-| 간울기체 + 월경·임신준비 | [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) |
-| 보신·고충, 원전 활태의 예방 문맥 | [수태환](../formulas/shoutai-wan.md) |
-| 기혈양허·비위허약 + 충임불고 | [태산반석산](../formulas/taishan-panshi-san.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 혈허 + 수습 | [당귀작약산](../formulas/danggui-shaoyao-san.md) | [금궤요략방론](../formulas/danggui-shaoyao-san.md#source-dose-original) |
+| 하초 어혈 + 고정성 통증·혈괴 | [계지복령환](../formulas/guizhi-fuling-wan.md) | [금궤요략방론](../formulas/guizhi-fuling-wan.md#source-dose-original) |
+| 충임허한 + 어혈 | [온경탕](../formulas/wenjing-tang.md) | [금궤요략방론](../formulas/wenjing-tang.md#source-dose-original) |
+| 한응어혈 + 월경통·하복부 고정통 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) | [의림개착](../formulas/shaofu-zhuyu-tang.md#source-dose-original) |
+| 혈허유열 + 월경선기·출혈량 증가 | [청경사물탕](../formulas/qingjing-siwu-tang.md) | [고금의감](../formulas/qingjing-siwu-tang.md#source-dose-original) |
+| 비허·간울·습 + 만성 백대하 | [완대탕](../formulas/wandai-tang.md) | [부청주여과](../formulas/wandai-tang.md#source-dose-original) |
+| 충임허손 + 혈허·허한성 출혈 | [교애탕](../formulas/jiaoai-tang.md) | [의방집해](../formulas/jiaoai-tang.md#source-dose-original) |
+| 혈허 + 기체·하초 한의 임신준비 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) | [만병회춘](../formulas/tiaojing-zhongyu-tang.md#source-dose-original) |
+| 기혈양허 + 신허·충임부족의 임신준비 | [육린주](../formulas/yulin-zhu.md) | [경악전서](../formulas/yulin-zhu.md#source-dose-original) |
+| 간울기체 + 월경·임신준비 | [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) | [부청주여과](../formulas/kaiyu-zhongyu-tang.md#source-dose-original) |
+| 보신·고충, 원전 활태의 예방 문맥 | [수태환](../formulas/shoutai-wan.md) | [의학충중참서록](../formulas/shoutai-wan.md#source-dose-original) |
+| 기혈양허·비위허약 + 충임불고 | [태산반석산](../formulas/taishan-panshi-san.md) | [경악전서](../formulas/taishan-panshi-san.md#source-dose-original) |
 
 **빠른 감별:** `당귀작약산 ↔ 계지복령환 ↔ 온경탕 ↔ 소복축어탕`은 **혈허·수습 / 어혈 / 충임허한 / 한응어혈성 통증** 가운데 무엇이 중심인지가 갈림점입니다. 출혈 양상은 청경사물탕·교애탕, 대하는 완대탕으로 별도 감별합니다.
 
 ## 청열·화독
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 삼초 실열·화독 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) |
-| 장위 열·설사, 혈당·장내미생물 연구 연결 | [갈근금련탕](../formulas/gegen-qinlian-tang.md) |
-| 간담실화·간경습열 | [용담사간탕](../formulas/longdan-xiegan-tang.md) |
-| 양명기분대열 | [백호탕](../formulas/baihu-tang.md) |
-| 열병 후 기음양상 | [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
-| 서열 + 기진양상 | [청서익기탕](../formulas/qingshu-yiqi-tang.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 삼초 실열·화독 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) | [의방집해](../formulas/huanglian-jiedu-tang.md#source-dose-original) |
+| 장위 열·설사, 혈당·장내미생물 연구 연결 | [갈근금련탕](../formulas/gegen-qinlian-tang.md) | [상한론(송본)](../formulas/gegen-qinlian-tang.md#source-dose-original) |
+| 간담실화·간경습열 | [용담사간탕](../formulas/longdan-xiegan-tang.md) | [난실비장](../formulas/longdan-xiegan-tang.md#source-dose-original) |
+| 양명기분대열 | [백호탕](../formulas/baihu-tang.md) | [상한론(송본)](../formulas/baihu-tang.md#source-dose-original) |
+| 열병 후 기음양상 | [죽엽석고탕](../formulas/zhuye-shigao-tang.md) | [상한론(송본)](../formulas/zhuye-shigao-tang.md#source-dose-original) |
+| 서열 + 기진양상 | [청서익기탕](../formulas/qingshu-yiqi-tang.md) | [내외상변혹론](../formulas/qingshu-yiqi-tang.md#source-dose-original) |
 
 ## 풍·현훈
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 간양상항·간풍 | [천마구등음](../formulas/tianma-gouteng-yin.md) |
-| 비허담습·풍담 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 간양상항·간풍 | [천마구등음](../formulas/tianma-gouteng-yin.md) | [현대 제제 허가문](../formulas/tianma-gouteng-yin.md#source-dose-original) |
+| 비허담습·풍담 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) | [비위론](../formulas/banxia-baizhu-tianma-tang.md#source-dose-original) |
 
 ## 활혈·통락
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 기허혈어·통락장애 | [보양환오탕](../formulas/buyang-huanwu-tang.md) |
-| 하초축혈·공하 | [도핵승기탕](../formulas/taohe-chengqi-tang.md) |
-| 흉중어혈·기체 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 기허혈어·통락장애 | [보양환오탕](../formulas/buyang-huanwu-tang.md) | [의림개착](../formulas/buyang-huanwu-tang.md#source-dose-original) |
+| 하초축혈·공하 | [도핵승기탕](../formulas/taohe-chengqi-tang.md) | [상한론(송본)](../formulas/taohe-chengqi-tang.md#source-dose-original) |
+| 흉중어혈·기체 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) | [의림개착](../formulas/xuefu-zhuyu-tang.md#source-dose-original) |
 
 ## 화해·공하
 
-| 핵심 갈림점 | 처방 |
-|---|---|
-| 소양양명합병 + 열결 | [대시호탕](../formulas/dachaihu-tang.md) |
-| 비교적 경한 양명부실 | [소승기탕](../formulas/xiaochengqi-tang.md) |
-| 양명부실·비만조실이 강함 | [대승기탕](../formulas/dachengqi-tang.md) |
+| 핵심 갈림점 | 처방 | 출전·원문 |
+|---|---|---|
+| 소양양명합병 + 열결 | [대시호탕](../formulas/dachaihu-tang.md) | [상한론(송본)](../formulas/dachaihu-tang.md#source-dose-original) |
+| 비교적 경한 양명부실 | [소승기탕](../formulas/xiaochengqi-tang.md) | [상한론(송본)](../formulas/xiaochengqi-tang.md#source-dose-original) |
+| 양명부실·비만조실이 강함 | [대승기탕](../formulas/dachengqi-tang.md) | [상한론(송본)](../formulas/dachengqi-tang.md#source-dose-original) |
 
 ## 이 페이지를 읽는 법
 
@@ -414,96 +401,96 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 처방 이름을 하나씩 외우기보다 **같은 주소에서 후보가 되는 처방을 한 표에서 비교**합니다. 향사양위탕은 《동의수세보원》 신축본의 소음인 처방으로, 아래의 일반 병증 비교와 함께 소음인의 소증·현재 병증·표리와 경과를 별도로 확인합니다.
 
 ### 소화불량
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 평위산 | 습체 | 더부룩·무거움·창만 |
-| 향사육군자탕 | 비기허 + 담습 + 기체 | 허약·식욕저하가 동반 |
-| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 소음인 비위허약·허한·기체 | 소증·현재 병증을 신축본 소음인 체계에서 함께 판단 |
-| 보화환 | 식적 | 음식정체·식후 악화 |
-| 반하사심탕 | 한열착잡 | 심하비·구역·장명·설사 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [평위산](../formulas/pingwei-san.md) | 습체 | 더부룩·무거움·창만 | [태평혜민화제국방](../formulas/pingwei-san.md#source-dose-original) |
+| [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 비기허 + 담습 + 기체 | 허약·식욕저하가 동반 | [시방가괄](../formulas/xiangsha-liujunzi-tang.md#source-dose-original) |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 소음인 비위허약·허한·기체 | 소증·현재 병증을 신축본 소음인 체계에서 함께 판단 | [東醫壽世保元・辛丑本](../formulas/xiangsha-yangwei-tang.md#source-dose-original) |
+| [보화환](../formulas/baohe-wan.md) | 식적 | 음식정체·식후 악화 | [단계심법](../formulas/baohe-wan.md#source-dose-original) |
+| [반하사심탕](../formulas/banxia-xiexin-tang.md) | 한열착잡 | 심하비·구역·장명·설사 | [상한론(송본)](../formulas/banxia-xiexin-tang.md#source-dose-original) |
 
 ### 불면
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 귀비탕 | 심비양허 | 피로·심계·건망·기혈허 |
-| 천왕보심단 | 심신음혈부족 | 음혈허·심신불안 |
-| 산조인탕 | 허번 | 허로성 불면·번조 |
-| 가미온담탕 | 담울 | 심번·경계·담증 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [귀비탕](../formulas/guibi-tang.md) | 심비양허 | 피로·심계·건망·기혈허 | [엄씨제생방](../formulas/guibi-tang.md#source-dose-original) |
+| [천왕보심단](../formulas/tianwang-buxin-dan.md) | 심신음혈부족 | 음혈허·심신불안 | [의방집해](../formulas/tianwang-buxin-dan.md#source-dose-original) |
+| [산조인탕](../formulas/suanzaoren-tang.md) | 허번 | 허로성 불면·번조 | [금궤요략방론](../formulas/suanzaoren-tang.md#source-dose-original) |
+| [가미온담탕](../formulas/jiawei-wendan-tang.md) | 담울 | 심번·경계·담증 | [만병회춘](../formulas/jiawei-wendan-tang.md#source-dose-original) |
 
 ### 현훈
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 반하백출천마탕 | 비허담습·풍담 | 오심·담습·두중 |
-| 천마구등음 | 간양상항·간풍 | 상충·간양·풍동 |
-| 이진탕 | 담습 | 담습 자체가 중심 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) | 비허담습·풍담 | 오심·담습·두중 | [비위론](../formulas/banxia-baizhu-tianma-tang.md#source-dose-original) |
+| [천마구등음](../formulas/tianma-gouteng-yin.md) | 간양상항·간풍 | 상충·간양·풍동 | [현대 제제 허가문](../formulas/tianma-gouteng-yin.md#source-dose-original) |
+| [이진탕](../formulas/erchen-tang.md) | 담습 | 담습 자체가 중심 | [태평혜민화제국방](../formulas/erchen-tang.md#source-dose-original) |
 
 ### 요통·근골격 통증
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 회수산 | 풍한·기체의 경항통 | 갑작스러운 목결림·회전 제한·견배부 긴장 |
-| 당귀수산 | 외상성 어혈 | 타박·염좌 뒤 멍·종창·고정통 |
-| 오적산 | 한습 + 기혈담식 | 냉감·습중·복합 실증 |
-| 소경활혈탕 | 혈허·어혈 + 풍습 | 오래된 다부위 통증·저림·뻣뻣함 |
-| 작약감초탕 | 근육 급박 | 쥐·경련·당김이 중심 |
-| 혈부축어탕 | 어혈 + 기체 | 고정통·자통·어혈 |
-| 보양환오탕 | 기허혈어 | 허약 + 통락장애 |
-| 독활기생탕 | 풍한습비 + 간신기혈허 | 오래된 비증에 냉감·하지 무력·허약이 동반 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [회수산](../formulas/huishou-san.md) | 풍한·기체의 경항통 | 갑작스러운 목결림·회전 제한·견배부 긴장 | [만병회춘](../formulas/huishou-san.md#source-dose-original) |
+| [당귀수산](../formulas/danggui-susan.md) | 외상성 어혈 | 타박·염좌 뒤 멍·종창·고정통 | [의학입문](../formulas/danggui-susan.md#source-dose-original) |
+| [오적산](../formulas/wujisan.md) | 한습 + 기혈담식 | 냉감·습중·복합 실증 | [태평혜민화제국방](../formulas/wujisan.md#source-dose-original) |
+| [소경활혈탕](../formulas/shujing-huoxue-tang.md) | 혈허·어혈 + 풍습 | 오래된 다부위 통증·저림·뻣뻣함 | [만병회춘](../formulas/shujing-huoxue-tang.md#source-dose-original) |
+| [작약감초탕](../formulas/shaoyao-gancao-tang.md) | 근육 급박 | 쥐·경련·당김이 중심 | [상한론(송본)](../formulas/shaoyao-gancao-tang.md#source-dose-original) |
+| [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) | 어혈 + 기체 | 고정통·자통·어혈 | [의림개착](../formulas/xuefu-zhuyu-tang.md#source-dose-original) |
+| [보양환오탕](../formulas/buyang-huanwu-tang.md) | 기허혈어 | 허약 + 통락장애 | [의림개착](../formulas/buyang-huanwu-tang.md#source-dose-original) |
+| [독활기생탕](../formulas/duhuo-jisheng-tang.md) | 풍한습비 + 간신기혈허 | 오래된 비증에 냉감·하지 무력·허약이 동반 | [비급천금요방](../formulas/duhuo-jisheng-tang.md#source-dose-original) |
 
 ### 기침·천식
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 삼소음 | 기허 + 외감 + 담 | 허약한 외감 |
-| 상국음 | 풍열 + 기침 | 풍열표증 중 기침 중심 |
-| 마행감석탕 | 폐열 | 열성 천해 |
-| 정천탕 | 담열옹폐 | 가래·천급·담열 |
-| 소자강기탕 | 상실하허 | 기역·담연 + 하허 |
-| 보폐탕 | 폐기허 | 만성 허성 기침 |
-| 생맥산 | 기음양허 | 진액손상·구갈·피로 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [삼소음](../formulas/renshen-suyin.md) | 기허 + 외감 + 담 | 허약한 외감 | [태평혜민화제국방](../formulas/renshen-suyin.md#source-dose-original) |
+| [상국음](../formulas/sangju-yin.md) | 풍열 + 기침 | 풍열표증 중 기침 중심 | [온병조변](../formulas/sangju-yin.md#source-dose-original) |
+| [마행감석탕](../formulas/maxing-ganshi-tang.md) | 폐열 | 열성 천해 | [상한론(송본)](../formulas/maxing-ganshi-tang.md#source-dose-original) |
+| [정천탕](../formulas/dingchuan-tang.md) | 담열옹폐 | 가래·천급·담열 | [의방집해](../formulas/dingchuan-tang.md#source-dose-original) |
+| [소자강기탕](../formulas/suzi-jiangqi-tang.md) | 상실하허 | 기역·담연 + 하허 | [태평혜민화제국방](../formulas/suzi-jiangqi-tang.md#source-dose-original) |
+| [보폐탕](../formulas/bufei-tang.md) | 폐기허 | 만성 허성 기침 | [의방고](../formulas/bufei-tang.md#source-dose-original) |
+| [생맥산](../formulas/shengmai-san.md) | 기음양허 | 진액손상·구갈·피로 | [의학심오](../formulas/shengmai-san.md#source-dose-original) |
 
 ### 피로·허손
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 보중익기탕 | 비위기허·중기하함 | 무력·승양 필요 |
-| 귀비탕 | 심비양허 | 불면·심계 동반 |
-| 쌍화탕 | 노권·기혈구상 | 과로 후 허손 |
-| 십전대보탕 | 기혈양허 | 전반적 허손 |
-| 생맥산 | 기음양허 | 진액손상·자한 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 비위기허·중기하함 | 무력·승양 필요 | [비위론](../formulas/buzhong-yiqi-tang.md#source-dose-original) |
+| [귀비탕](../formulas/guibi-tang.md) | 심비양허 | 불면·심계 동반 | [엄씨제생방](../formulas/guibi-tang.md#source-dose-original) |
+| [쌍화탕](../formulas/ssanghwa-tang.md) | 노권·기혈구상 | 과로 후 허손 | [태평혜민화제국방](../formulas/ssanghwa-tang.md#source-dose-original) |
+| [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 기혈양허 | 전반적 허손 | [태평혜민화제국방](../formulas/shi-quan-da-bu-tang.md#source-dose-original) |
+| [생맥산](../formulas/shengmai-san.md) | 기음양허 | 진액손상·자한 | [의학심오](../formulas/shengmai-san.md#source-dose-original) |
 
 ### 수습·부종
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 오령산 | 수습·기화불리 | 수습정체 |
-| 저령탕 | 수열호결 | 열 + 음손 |
-| 진무탕 | 양허수기 | 냉감·양허 |
-| 영계출감탕 | 중양부족·담음 | 담음상역 |
-| 실비음 | 비양허 수종 | 부종 + 비양허 |
-| 팔정산 | 습열하주 | 열림·습열 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [오령산](../formulas/wuling-san.md) | 수습·기화불리 | 수습정체 | [상한론(송본)](../formulas/wuling-san.md#source-dose-original) |
+| [저령탕](../formulas/zhuling-tang.md) | 수열호결 | 열 + 음손 | [상한론(송본)](../formulas/zhuling-tang.md#source-dose-original) |
+| [진무탕](../formulas/zhenwu-tang.md) | 양허수기 | 냉감·양허 | [상한론(송본)](../formulas/zhenwu-tang.md#source-dose-original) |
+| [영계출감탕](../formulas/linggui-zhugan-tang.md) | 중양부족·담음 | 담음상역 | [상한론(송본)](../formulas/linggui-zhugan-tang.md#source-dose-original) |
+| [실비음](../formulas/shipi-yin.md) | 비양허 수종 | 부종 + 비양허 | [엄씨제생방](../formulas/shipi-yin.md#source-dose-original) |
+| [팔정산](../formulas/bazheng-san.md) | 습열하주 | 열림·습열 | [태평혜민화제국방](../formulas/bazheng-san.md#source-dose-original) |
 
 ### 간울·스트레스
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 소요산 | 간울 + 혈허·비허 | 허증을 동반한 간울 |
-| 가미소요산 | 간울 + 울열 | 열감·울열 |
-| 시호소간산 | 간기울결 | 흉협통·기체 |
-| 분심기음 | 칠정기울 | 흉복비체·수습 |
-| 반하후박탕 | 담기울결 | 매핵기·인후이물감 |
-| 가미온담탕 | 담울 | 심번·불면·경계 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [소요산](../formulas/xiaoyao-san.md) | 간울 + 혈허·비허 | 허증을 동반한 간울 | [태평혜민화제국방](../formulas/xiaoyao-san.md#source-dose-original) |
+| [가미소요산](../formulas/jiawei-xiaoyao-san.md) | 간울 + 울열 | 열감·울열 | [내과적요](../formulas/jiawei-xiaoyao-san.md#source-dose-original) |
+| [시호소간산](../formulas/chaihu-shugan-san.md) | 간기울결 | 흉협통·기체 | [경악전서](../formulas/chaihu-shugan-san.md#source-dose-original) |
+| [분심기음](../formulas/fenxin-qiyin.md) | 칠정기울 | 흉복비체·수습 | [동의보감·내경·기](../formulas/fenxin-qiyin.md#source-dose-original) |
+| [반하후박탕](../formulas/banxia-houpo-tang.md) | 담기울결 | 매핵기·인후이물감 | [금궤요략방론](../formulas/banxia-houpo-tang.md#source-dose-original) |
+| [가미온담탕](../formulas/jiawei-wendan-tang.md) | 담울 | 심번·불면·경계 | [만병회춘](../formulas/jiawei-wendan-tang.md#source-dose-original) |
 
 ### 어혈
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 혈부축어탕 | 흉중어혈 + 기체 | 고정통·흉부·두통 |
-| 보양환오탕 | 기허혈어 | 허약 + 통락장애 |
-| 도핵승기탕 | 하초축혈 | 소복급결 + 공하 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) | 흉중어혈 + 기체 | 고정통·흉부·두통 | [의림개착](../formulas/xuefu-zhuyu-tang.md#source-dose-original) |
+| [보양환오탕](../formulas/buyang-huanwu-tang.md) | 기허혈어 | 허약 + 통락장애 | [의림개착](../formulas/buyang-huanwu-tang.md#source-dose-original) |
+| [도핵승기탕](../formulas/taohe-chengqi-tang.md) | 하초축혈 | 소복급결 + 공하 | [상한론(송본)](../formulas/taohe-chengqi-tang.md#source-dose-original) |
 
 ### 청열
-| 처방 | 중심 병증 | 구별 포인트 |
-|---|---|---|
-| 황련해독탕 | 삼초 실열·화독 | 강한 실열·화독 |
-| 용담사간탕 | 간담실화·습열 | 간담·하초습열 |
-| 백호탕 | 양명기분대열 | 대열·대갈 |
-| 죽엽석고탕 | 열병 후 여열 | 기음손상 동반 |
-| 청서익기탕 | 서열 + 기진양상 | 더위·기허·진액손상 |
+| 처방 | 중심 병증 | 구별 포인트 | 출전·원문 |
+|---|---|---|---|
+| [황련해독탕](../formulas/huanglian-jiedu-tang.md) | 삼초 실열·화독 | 강한 실열·화독 | [의방집해](../formulas/huanglian-jiedu-tang.md#source-dose-original) |
+| [용담사간탕](../formulas/longdan-xiegan-tang.md) | 간담실화·습열 | 간담·하초습열 | [난실비장](../formulas/longdan-xiegan-tang.md#source-dose-original) |
+| [백호탕](../formulas/baihu-tang.md) | 양명기분대열 | 대열·대갈 | [상한론(송본)](../formulas/baihu-tang.md#source-dose-original) |
+| [죽엽석고탕](../formulas/zhuye-shigao-tang.md) | 열병 후 여열 | 기음손상 동반 | [상한론(송본)](../formulas/zhuye-shigao-tang.md#source-dose-original) |
+| [청서익기탕](../formulas/qingshu-yiqi-tang.md) | 서열 + 기진양상 | 더위·기허·진액손상 | [내외상변혹론](../formulas/qingshu-yiqi-tang.md#source-dose-original) |
 
 ## 매트릭스를 쓰는 순서
 `주소 → 위험신호 → 병증 후보 2~4개 → 같은 표에서 처방 비교 → 상세 구성·용량·출전 → 침구·근거·안전성`
