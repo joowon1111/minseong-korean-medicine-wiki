@@ -162,7 +162,20 @@ def herb_cards():
                 'mugwort-leaf', 'cirsium-japonicum', 'cirsium-setosum',
                 'biota-leaf', 'sanguisorba-root', 'cattail-pollen',
                 'reed-rhizome', 'mume-fruit', 'notoginseng', 'purple-gromwell',
-                'purslane', 'oldenlandia'}
+                'purslane', 'oldenlandia',
+                # Source-linked ingredients of the clinical 100 remain reference
+                # pages until separately curated into the quiz curriculum.
+                'asarum', 'ginkgo-seed', 'tussilago-flower',
+                'xanthium-fruit', 'oryza-rice', 'rhinoceros-horn-history',
+                'tetrapanax-pith', 'talc', 'belamcanda',
+                'mirabilite', 'cicada-slough', 'sophora-root',
+                'sesame-seed', 'stephania-root', 'dianthus',
+                'polygonum-aviculare', 'fennel-fruit', 'myrrh',
+                'trogopterus-feces', 'sappan-heartwood', 'clematis-root',
+                'taxillus', 'gentiana-macrophylla', 'earthworm',
+                'donkey-hide-gelatin', 'deer-antler-gelatin', 'turtle-plastron-gelatin',
+                'maltose', 'arisaema', 'prepared-soybean',
+                'aster-root', 'zanthoxylum'}
     result = []
     for p in sorted((DOCS / 'herbs').glob('*.md')):
         if p.stem in excluded:
