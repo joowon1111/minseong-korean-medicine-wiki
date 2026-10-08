@@ -29,7 +29,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       const herb = page.locator('[data-archive-compare]');
       await herb.getByRole('searchbox').fill('인삼');
       await herb.getByRole('button',{name:/^인삼/}).first().click();
-      assert.ok((await herb.locator('table').innerText()).includes('성미'));
+      assert.ok((await herb.locator('table').innerText()).includes('전통 효능'));
       await page.goto(base + '/search-guide/');
       const finder = page.locator('[data-archive-finder]');
       await finder.getByRole('searchbox').fill('사군자탕');
