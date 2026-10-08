@@ -50,7 +50,7 @@
     for (const [v, t] of [['formula', '처방'], ['herb', '본초']]) kind.append(el('option', t, {value: v}));
     kind.value = root.dataset.archiveCompare || 'formula';
     const category = el('select', undefined, {'aria-label': '비교 자료 분류'});
-    const status = el('p', '자료를 불러오고 있습니다.', {role: 'status'}), choices = el('div', undefined, {class: 'archive-choices'}), results = el('div'), selected = new Set();
+    const status = el('p', '자료를 불러오고 있습니다.', {role: 'status'}), choices = el('div', undefined, {class: 'archive-choices archive-choice-list', tabindex: '0', role: 'region', 'aria-label': '비교 자료 선택'}), results = el('div'), selected = new Set();
     let cards = [], all = [], seq = 0;
     const controls = el('div', undefined, {class: 'archive-controls'}); controls.append(kind, category, query);
     root.replaceChildren(controls, status, choices, results);
