@@ -41,15 +41,15 @@ last_reviewed: 2026-09-04
 |---|---|---|---|
 | [목향](../herbs/aucklandia.md) · 木香 | 반량 | 별도 포제 표기 없음 | 중초의 기체·팽만을 조절 |
 | [자소엽](../herbs/perilla-leaf.md) · 紫蘇葉 | 3분 | 별도 포제 표기 없음 | 산한·행기로 표와 중초의 기체를 함께 다룸 |
-| [갈근](../herbs/pueraria.md) · 乾葛 | 3분 | 별도 포제 표기 없음 | 해기·생진으로 항배 긴장과 진액축을 함께 다룸 |
-| [반하](../herbs/pinellia.md) · 半夏 | 3분 | 초(볶음) | 화담·강역으로 담습과 오심을 함께 다룸 |
-| [전호](../herbs/peucedanum-root.md) · 前胡 | 3분 | 별도 포제 표기 없음 | 폐기의 상역과 담을 내리는 축 |
+| [갈근](../herbs/pueraria.md) · 乾葛 | 3분 | 씻음 | 해기·생진으로 항배 긴장과 진액축을 함께 다룸 |
+| [반하](../herbs/pinellia.md) · 半夏 | 3분 | 뜨거운 물로 7회 씻음·생강즙으로 법제·초(볶음) | 화담·강역으로 담습과 오심을 함께 다룸 |
+| [전호](../herbs/peucedanum-root.md) · 前胡 | 3분 | 지상부 제거 | 폐기의 상역과 담을 내리는 축 |
 | [인삼](../herbs/ginseng.md) · 人參 | 3분 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |
 | [복령](../herbs/poria.md) · 茯苓 | 3분 | 껍질 제거 | 건비·삼습으로 수습의 정체를 조절 |
-| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 반량 | 과육 제거·부초 | 기체·팽만을 조절하는 행기축 |
+| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 반량 | 속살 제거·밀기울로 볶음 | 기체·팽만을 조절하는 행기축 |
 | [길경](../herbs/platycodon.md) · 桔梗 | 반량 | 노두 제거 | 폐기를 펼치고 인후·담을 조절 |
 | [감초](../herbs/licorice.md) · 甘草 | 반량 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |
-| [진피](../herbs/citrus-peel.md) · 陳皮 | 반량 | 별도 포제 표기 없음 | 이기·조습으로 팽만과 담습을 조절 |
+| [진피](../herbs/citrus-peel.md) · 陳皮 | 반량 | 흰 속껍질 제거 | 이기·조습으로 팽만과 담습을 조절 |
 
 ## 처방 구조
 
@@ -58,7 +58,7 @@ last_reviewed: 2026-09-04
 | 익기부정 | [인삼](../herbs/ginseng.md) | 외감을 푸는 동안 기허와 피로, 식욕저하를 받침 |
 | 해표선폐 | [자소엽](../herbs/perilla-leaf.md)·[갈근](../herbs/pueraria.md)·[전호](../herbs/peucedanum-root.md) | 표를 풀고 폐기의 선강을 회복해 기침을 다룸 |
 | 화담강역 | [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md) | 가래·오심·흉민과 중초의 담습을 정리 |
-| 이기이인 | [길경](../herbs/platycodon.md)·[지각](../herbs/citrus-immature.md)·목향 | 위아래의 기기를 소통해 목·가슴과 복부 답답함을 풀어줌 |
+| 이기이인 | [길경](../herbs/platycodon.md)·[지각](../herbs/citrus-aurantium-immature.md)·목향 | 위아래의 기기를 소통해 목·가슴과 복부 답답함을 풀어줌 |
 | 조화 | [감초](../herbs/licorice.md)·[생강](../herbs/fresh-ginger.md)·대조 | 비위를 보호하고 해표·화담·보기의 방향을 조화 |
 
 해표약만 강하게 쓰지 않고 인삼과 복령으로 정기를 받치면서, 기침과 담을 동시에 다루는 것이 핵심입니다. ‘허약자의 감기’라는 표현도 체질 고정이 아니라 **평소 체력·식사량·발병 뒤 회복력**을 현재 상태에서 평가한다는 뜻입니다.

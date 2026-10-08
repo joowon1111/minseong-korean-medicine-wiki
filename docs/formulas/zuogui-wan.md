@@ -40,10 +40,10 @@ last_reviewed: 2026-09-06
 | [산약](../herbs/dioscorea.md) · 山藥 | 4량 | 초(볶음) | 비신을 보하고 보익약의 소화 기반을 받침 |
 | [구기자](../herbs/cornus-extra.md) · 枸杞 | 4량 | 별도 포제 표기 없음 | 간신의 음혈과 정을 받침 |
 | [산수유](../herbs/cornus-fructus.md) · 山茱萸肉 | 4량 | 별도 포제 표기 없음 | 간신의 정혈을 돕고 수렴 |
-| [우슬](../herbs/achyranthes.md) · 川牛膝 | 3량 | 주세(술로 씻음) | 혈행과 요슬을 돕고 아래로 향하는 배합축 |
-| [토사자](../herbs/cuscuta-seed.md) · 菟絲子 | 4량 | 별도 포제 표기 없음 | 간신·정기를 보하고 고삽축을 맡음 |
-| [녹각교](../herbs/deer-antler-gelatin.md) · 鹿膠 | 4량 | 초(볶음) | 정혈·근골을 받치는 온보축 |
-| [귀판교](../herbs/turtle-plastron-gelatin.md) · 龜膠 | 4량 | 초·절편 | 음·정혈을 기르는 자음축 |
+| [우슬](../herbs/achyranthes.md) · 川牛膝 | 3량 | 술로 씻음·쪄서 익힘 | 혈행과 요슬을 돕고 아래로 향하는 배합축 |
+| [토사자](../herbs/cuscuta-seed.md) · 菟絲子 | 4량 | 법제 | 간신·정기를 보하고 고삽축을 맡음 |
+| [녹각교](../herbs/deer-antler-gelatin.md) · 鹿膠 | 4량 | 두드려 부숨·초주(炒珠: 교질 약재를 구슬 모양으로 볶음) | 정혈·근골을 받치는 온보축 |
+| [귀판교](../herbs/turtle-plastron-gelatin.md) · 龜膠 | 4량 | 잘게 썰기·초주(炒珠: 교질 약재를 구슬 모양으로 볶음) | 음·정혈을 기르는 자음축 |
 
 ## 원문과 8미 배합 {#jingyue-source}
 

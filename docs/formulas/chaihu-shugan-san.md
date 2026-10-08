@@ -33,10 +33,10 @@ description: 시호소간산의 소간이기·활혈지통 구조, 소요산·�
 
 | 구성 본초·원문 약명 | 수록량 | 원문 포제의 뜻 | 배합에서의 본초 역할 |
 |---|---|---|---|
-| [진피](../herbs/citrus-peel.md) · 陳皮 | 2전 | 초초(식초로 볶음) | 이기·조습으로 팽만과 담습을 조절 |
+| [진피](../herbs/citrus-peel.md) · 陳皮 | 2전 | 식초로 볶음 | 이기·조습으로 팽만과 담습을 조절 |
 | [시호](../herbs/bupleurum.md) · 柴胡 | 2전 | 별도 포제 표기 없음 | 소양·간울의 기기 조절을 맡음 |
 | [천궁](../herbs/chuanxiong.md) · 川芎 | 1전반 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |
-| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 1전반 | 부초(밀기울로 볶음) | 기체·팽만을 조절하는 행기축 |
+| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 1전반 | 밀기울로 볶음 | 기체·팽만을 조절하는 행기축 |
 | [작약](../herbs/white-peony.md) · 芍藥 | 1전반 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |
 | [감초](../herbs/licorice.md) · 甘草 | 5분 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |
 | [향부자](../herbs/cyperus.md) · 香附 | 1전반 | 별도 포제 표기 없음 | 기울을 풀어 흉복부와 월경의 기체를 조절 |
@@ -46,7 +46,7 @@ description: 시호소간산의 소간이기·활혈지통 구조, 소요산·�
 | 역할 | 구성 | 임상적으로 읽는 방향 |
 |---|---|---|
 | 소간해울 | [시호](../herbs/bupleurum.md) | 울체된 기의 흐름을 여는 중심축 |
-| 이기제창 | [진피](../herbs/citrus-peel.md)·[향부자](../herbs/cyperus.md)·[지각](../herbs/citrus-immature.md) | 흉복부의 그득함·트림·기체를 조절 |
+| 이기제창 | [진피](../herbs/citrus-peel.md)·[향부자](../herbs/cyperus.md)·[지각](../herbs/citrus-aurantium-immature.md) | 흉복부의 그득함·트림·기체를 조절 |
 | 양혈유간·완급 | [백작약](../herbs/white-peony.md) | 긴장성 통증과 소모를 함께 고려 |
 | 활혈지통 | [천궁](../herbs/chuanxiong.md) | 기체가 오래되어 통증이 뚜렷한 축을 보강 |
 | 조화 | [감초](../herbs/licorice.md) | 약력을 조화하고 완급을 도움 |
