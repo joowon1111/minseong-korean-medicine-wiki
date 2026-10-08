@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261009-01';
+  const VERSION = '20261004-07';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0, schedule: {}, days: {}, resume: null});
   function readProgress(storage) {

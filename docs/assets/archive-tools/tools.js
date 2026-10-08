@@ -11,8 +11,11 @@
   }
   function search(rows, query, kind = '') {
     const words = terms(query); if (!words.length) return [];
-    return rows.filter(r => !kind || r.kind === kind).map((r, order) => {
+    const general = new Set(['차이','감별','비교','구성','배합','약미','약량','용량','연구','논문','근거','처방','본초','치법']);
+    const specific = words.filter(w => !general.has(w));
+    const ranked = rows.filter(r => !kind || r.kind === kind).map((r, order) => {
       const title = norm(r.title), heading = norm(r.heading), text = norm(r.text), tags = norm((r.tags || []).join(' '));
+      if (specific.length && !specific.some(w => (title + ' ' + heading + ' ' + text + ' ' + tags).includes(w))) return {row:r,score:0,order};
       let score = 0, matched = 0;
       for (const w of words) {
         if (title.includes(w) || heading.includes(w) || text.includes(w) || tags.includes(w)) matched++;
@@ -21,7 +24,10 @@
       if (title === norm(query)) score += 50;
       score += matched * matched;
       return {row: r, score, order};
-    }).filter(r => r.score > 0).sort((a, b) => b.score - a.score || a.order - b.order).filter((r, i, all) => all.findIndex(x => x.row.url === r.row.url && x.row.heading === r.row.heading) === i).slice(0, 20).map(r => r.row);
+    }).filter(r => r.score > 0).sort((a, b) => b.score - a.score || a.order - b.order);
+    const seen = new Set(), result = [];
+    for (const item of ranked) {const key = item.row.url + '\n' + item.row.heading; if (seen.has(key)) continue; seen.add(key); result.push(item.row); if (result.length === 20) break;}
+    return result;
   }
   function safeURL(url) { return typeof url === 'string' && /^\/(?!\/)[^\s<>]*$/.test(url) ? url : '#'; }
   function prompt(query, rows) {

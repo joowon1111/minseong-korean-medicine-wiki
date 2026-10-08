@@ -53,7 +53,7 @@ def build():
         by_url[url] = (body, parts)
         kind = ('formula' if '/formulas/' in url or url.startswith('/sasang-formula') else
                 'herb' if url.startswith('/herbs/') else
-                'classic' if url.startswith(('/classics/', '/donguibogam-', '/shanghan-', '/jingui-', '/donguisusebowon-')) else
+                'classic' if url.startswith(('/classics/', '/classics-network/', '/donguibogam-', '/shanghan-', '/jingui-', '/neijing-', '/wenbing-', '/bangyakhappyeon-', '/donguisusebowon-')) else
                 'evidence' if url.startswith(('/research/', '/authority/', '/evidence-')) else 'clinical')
         for heading, anchor, content in parts:
             text = plain(content)
@@ -82,6 +82,30 @@ def build():
             row['links'] = sorted(set('/herbs/' + m + '/' for m in re.findall(r'\]\((?:\.\./)?herbs/([a-z0-9-]+)\.md(?:#[^)]*)?\)', body)))
             row['links'] += sorted(set('/formulas/' + m + '/' for m in re.findall(r'\]\((?:\.\./)?formulas/([a-z0-9-]+)\.md(?:#[^)]*)?\)', body)))
             cards.append(row)
+    known_sources = {row['source'].split('#')[0] for row in cards}
+    candidates = list((DOCS / 'formulas').glob('*.md')) + list((DOCS / 'herbs').glob('*.md')) + list((DOCS / 'sasang-formula-library').glob('*.md'))
+    for path in sorted(candidates):
+        source = url_for(path)
+        if path.stem == 'index' or source in known_sources:
+            continue
+        meta, body = parse(path.read_text(encoding='utf-8-sig'))
+        h1 = re.search(r'^#\s+(.+)$', body, re.M)
+        title = plain(re.sub(r'\{#[^}]+\}', '', h1.group(1))) if h1 else str(meta.get('title', path.stem))
+        parts = list(sections(body))
+        kind = 'herb' if path.parent.name == 'herbs' else 'formula'
+        facts = []
+        for label, pattern in [('출전·기원', r'출전|기원'), ('구성·약용 부위', r'구성|약용 부위|용량|약량'), ('효능·주치', r'효능|주치'), ('성미·귀경', r'성미|귀경')]:
+            text = next((plain(c) for h, a, c in parts if re.search(pattern, h)), '')
+            if text:
+                facts.append({'label': label, 'value': text[:1200]})
+        if not facts:
+            facts = [{'label': '문서 개요', 'value': plain(body)[:600]}]
+        cards.append({'id': 'document-' + path.parent.name + '-' + path.stem, 'title': title,
+                      'category': '사상의학 처방' if path.parent.name == 'sasang-formula-library' else '그 밖의 본문 자료',
+                      'kind': kind, 'aliases': [], 'peers': [], 'source': source, 'facts': facts,
+                      'sections': [{'title': h, 'text': plain(c)[:1800], 'url': source + ('#' + a if a else '')}
+                                   for h, a, c in parts if re.search(r'출전|구성|약량|용량|주치|효능|병기|안전|금기|성미|귀경|기원|부위', h)][:8],
+                      'links': []})
     return {'schema': 1, 'cards': cards}, {'schema': 1, 'passages': passages}
 
 def main():
