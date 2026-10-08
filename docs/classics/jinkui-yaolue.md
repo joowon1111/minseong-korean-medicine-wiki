@@ -15,7 +15,7 @@ last_reviewed: 2026-08-19
 
 ## 임상 원문으로 들어가기 {#complete-text}
 
-[임상편 원문 지도](../jingui-network/index.md#complete-chapters)에서 서문·각 편의 원문과 독해를 순서대로 읽을 수 있습니다. 제1–22편의 대조 자료 번호 398개 항목에는 개별 한국어 독해 요지를 붙여 병증·치법·구성을 함께 읽을 수 있게 했습니다. 원방 구성·제법·부방도 포함합니다.
+[임상편 원문 지도](../jingui-network/index.md#complete-chapters)에서 서문·각 편의 원문과 독해를 순서대로 읽을 수 있습니다. 제1–22편의 대조 자료 번호 398개 항목에는 개별 한국어 독해 요지가 있어 병증·치법·구성을 함께 읽을 수 있습니다. 원방 구성·제법·부방도 포함합니다.
 
 허로·보익에 관심이 있다면 [혈비·허로편](jinkui-yaolue/chapters/blood-bi-deficiency.md), 기침·어지럼·수분대사라면 [담음·해수편](jinkui-yaolue/chapters/fluid-cough.md), 여성 진료의 고방이라면 [임신편](jinkui-yaolue/chapters/pregnancy.md)·[산후편](jinkui-yaolue/chapters/postpartum.md)·[잡병편](jinkui-yaolue/chapters/gynecology.md)에서 시작하면 좋습니다.
 
@@ -46,10 +46,24 @@ last_reviewed: 2026-08-19
 
 ## 아카이브 연결 {#_5}
 
+| 문목·처방 | 약미·제법에서 드러나는 차이 | 비교할 병증 |
+|---|---|---|
+| 혈비허로의 [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) | 황기·계지·작약 각 3량, 생강 6량·대조, 감초 없음 | 몸의 불인·감각 불편과 혈비 |
+| 혈비허로의 [소건중탕](../formulas/xiaojianzhong-tang.md) · [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | 작약의 큰 비중과 교이, 황기의 포함 여부 | 복부 리급·허로·부족과 중초의 상태 |
+| 복만한산숙식의 [대건중탕](../formulas/dajianzhong-tang.md) | 촉초·건강·인삼·교이, 계지·작약 없음 | 심한 중초 한통·구토·섭취 불가의 문맥 |
+| 폐위폐옹해수상기의 [맥문동탕](../formulas/maidong-tang.md) | 맥문동·반하의 부피비 7:1, 인삼·감초·갱미·대조 | 상기·인후 불편과 폐위 진액 |
+| 부인잡병의 [반하후박탕](../formulas/banxia-houpo-tang.md) | 반하·후박·복령·생강·소엽, 생강의 큰 비중 | 인후 이물감과 담·기역·흉복부 충만 |
+| 부인임신의 [교애탕](../formulas/jiaoai-tang.md) | 혈분약과 아교·애엽·감초, 지황 수록형 확인 | 누하·출혈·복통과 충임의 손상 |
+| 부인임신·잡병의 [당귀작약산](../formulas/danggui-shaoyao-san.md) | 혈분약·복령·백출·택사, 작약·천궁 이본량과 산제 | 복통에서 혈·수분의 관계 |
+| 부인임신의 [계지복령환](../formulas/guizhi-fuling-wan.md) | 다섯 약 등분·밀환, 대황·망초 없음 | 숙징·누하와 혈분 정체 |
+| 경습갈·수기의 [방기황기탕](../formulas/fangji-huangqi-tang.md) | 방기·황기·백출·감초, 전탕 생강·대조 | 한출·오풍·신중의 풍습·수기 |
+
+건중탕의 대·소는 같은 약을 증량한 관계가 아닙니다. 부인병 세 방도 지황·아교·애엽, 도인·목단피, 백출·택사의 유무로 병기와 제형이 달라집니다. 원방의 산·환·탕과 현대 엑스제를 분리하면 약미가 같아도 투여 조건이 다른 지점까지 비교할 수 있습니다.
+
 처음에는 관심 문목 하나와 대표 처방 하나를 정해 [고전 처방 읽기](classical-formula-reading.md)의 순서로 출전·구성·제법을 확인합니다. 이후 [금궤요략 상세 지식망](../jingui-network/index.md)에서 인접 병증으로 범위를 넓히면 문목 전체를 처방명 목록으로 외우는 부담을 줄일 수 있습니다.
 
 현대 연구와 비교할 때에는 질환명뿐 아니라 연구에 포함된 환자, 실제 약물 구성과 치료 기간, 측정한 결과를 별도로 기록합니다. 문헌의 역사적 중요성과 현재 특정 질환에 대한 치료 효과는 서로 다른 질문입니다.
 
 ## 원문 자료 {#_6}
 
-[한국한의학연구원 한의학고서목록](https://info.mediclassics.kr/bookshelf/books/distBook/km_books_list/book.pdf)에서 금궤요략방론·논주·심전 등 전승 문헌과 소장 정보를 찾을 수 있습니다. 이 목록은 원문 번역서가 아니라 판본을 찾는 서지자료입니다. 인용할 때에는 실제 읽은 판본·편명과 원문 구절을 함께 확인합니다. 이 아카이브의 원문은 [중의급성 금궤요략방론 전사 자료](https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html)를 대조하며, 복수 저본·편별 번호·독해의 범위는 [판본·인용 기준](jinkui-yaolue/chapters/preface.md#edition)에 정리했습니다.
+[한국한의학연구원 한의학고서목록](https://info.mediclassics.kr/bookshelf/books/distBook/km_books_list/book.pdf)에서 금궤요략방론·논주·심전 등 전승 문헌과 소장 정보를 찾을 수 있습니다. 이 목록은 원문 번역서가 아니라 판본을 찾는 서지자료입니다. 인용할 때에는 실제 읽은 판본·편명과 원문 구절을 함께 확인합니다. 이 아카이브의 원문은 [중의급성 금궤요략방론 전사 자료](https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html)를 대조하며, 복수 저본·편별 번호·독해의 범위는 [판본·인용 기준](jinkui-yaolue/chapters/preface.md#edition)에서 확인할 수 있습니다.
