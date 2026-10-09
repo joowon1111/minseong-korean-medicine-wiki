@@ -9,7 +9,7 @@ last_reviewed: '2026-09-15'
 
 침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**을 먼저 읽고, 경혈·자극·횟수·비교군을 따라 실제 치료 조건을 확인하는 자료입니다.
 
-→ [한약·침·추나·약침 핵심 성과 28편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
+→ [한약·침·추나·약침 핵심 성과 30편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
 
 ## 만성통증 효과와 지속성을 확인한 개인자료 메타분석 {#chronic-pain-ipd}
 
@@ -198,6 +198,8 @@ Zhao 등의 2019년 *JAMA Internal Medicine* 다기관 RCT는 **404명을 배정
 - **평가 지표:** 오심 빈도·구토·감각증상·통증·수면·기능·삶의 질
 
 → [항암치료 유발 오심·구토](../authority/conditions/chemotherapy-nausea-vomiting.md) · [항암치료 유발 말초신경병증](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
+
+암 치료 이후의 만성통증은 [PEACE·JAMA Oncology 360명 시험](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial), 오래 지속된 방사선 구강건조는 [JAMA Network Open 미국 33개 기관 시험](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial)에서 치료·비교군·증상과 삶의 질을 확인합니다. [암 치료 후 회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading)와 함께 읽습니다.
 
 #### 유방암 호르몬치료 관련 관절통: 본시험과 1년 추적 {#ai-arthralgia-landmark}
 
