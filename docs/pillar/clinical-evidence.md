@@ -11,7 +11,7 @@ last_reviewed: 2026-08-22
 
 ## 실제 치료 성과를 먼저 확인하기 {#core-treatment-results}
 
-**통증과 기능의 개선, 소화·배변·배뇨 기능 회복, 특정 한약제제의 장기 임상 결과**를 [핵심 연구 18편](../portal/evidence.md#landmark-clinical-results)에서 비교할 수 있습니다. 학술지와 논문 수에 더해 환자군·실제 치료·비교군·효과 크기·지속성을 함께 읽습니다.
+**통증과 기능의 개선, 소화·배변·배뇨 기능 회복, 특정 한약제제의 장기 임상 결과**를 [핵심 연구 21편](../portal/evidence.md#landmark-clinical-results)에서 비교할 수 있습니다. 학술지와 논문 수에 더해 환자군·실제 치료·비교군·효과 크기·지속성을 함께 읽습니다.
 
 - [침·전침 대표 임상 결과](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading): 좌골신경통·고령자 요통·편두통·식후불편감·골반통·배변·요실금
 - [한약 대표 임상 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-landmark-results): 국내 처방 비교시험, 고전 복합방제 위약대조시험, 특정 표준화 제제의 장기 결과

@@ -9,7 +9,7 @@ last_reviewed: '2026-09-15'
 
 침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**을 먼저 읽고, 경혈·자극·횟수·비교군을 따라 실제 치료 조건을 확인하는 자료입니다.
 
-→ [한약·침·추나·약침 핵심 성과 18편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
+→ [한약·침·추나·약침 핵심 성과 21편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
 
 ## 만성통증 효과와 지속성을 확인한 개인자료 메타분석 {#chronic-pain-ipd}
 
@@ -28,6 +28,8 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 | 편두통이 생기는 날을 줄일 수 있는가 | [예방치료의 두통일수](#migraine-prevention-trial) |
 | 식후 더부룩함과 조기포만이 개선되는가 | [소화불량 반응과 증상 소실](#pds-landmark) |
 | 골반통·배뇨 증상의 의미 있는 개선이 이어지는가 | [8주 치료와 32주 결과](#cpps-landmark) |
+| 유방암 호르몬치료 중 생기는 관절통도 완화되는가 | [미국 다기관 시험·52주 추적](#ai-arthralgia-landmark) |
+| 안정형 협심증의 반복 발작을 줄이는 병행근거가 있는가 | [표준 약물치료에 침을 더한 시험](#stable-angina-landmark) |
 | 배변·요실금에서 객관적·기능적 결과가 있는가 | [완전자발배변·패드검사](#pelvic-function-landmarks) |
 
 침의 효과를 긍정적으로 설명할 때에는 통증의 강도와 함께 걷기·식사·배변·수면·업무 같은 기능을 구체적으로 제시합니다. 아래 시험의 치료 횟수는 연구 조건이며 개인별 처방과 시술량은 진찰과 반응에 맞춰 정합니다.
@@ -161,6 +163,12 @@ Yang 등의 2020년 *Annals of Internal Medicine* RCT는 Rome IV 식후불편감
 - **프로토콜:** 영향·합곡·열결 등 국소·원위 경혈, 계절과 치료기간
 - **근거 연결:** [알레르기비염](../conditions/rhinitis.md#evidence) · [천식](../authority/conditions/asthma.md)
 
+### 만성 안정형 협심증: 표준치료에 더한 발작 빈도 개선 {#stable-angina-landmark}
+
+Zhao 등의 2019년 *JAMA Internal Medicine* 다기관 RCT는 **404명을 배정하고 398명을 분석**했습니다. 모든 군이 지침에 따른 협심증 약물치료를 받았고, 4주 12회 내관·통리 중심 전침, 태연·공최 중심 전침, 가짜침, 침 없는 대기군을 비교했습니다. 침 시술군은 회당 30분·2Hz 전기자극을 받았고, 가짜침군은 득기 없이 비경혈에 자침했습니다.
+
+주평가인 **13–16주의 4주당 협심증 발작 빈도 감소**는 내관·통리 중심 전침군에서 가짜침보다 **5.18회(95% CI 3.54–6.81)**, 대기군보다 **5.63회(3.99–7.27)** 더 컸습니다. 반복 발작의 증상 부담을 줄이는 병행치료 근거이며, 심근경색·사망 감소나 약물 중단을 입증한 결과는 아닙니다. 안정형으로 진단·관리되는 환자를 연구했으므로 새로 생긴 흉통이나 휴식 중 지속되는 흉통은 먼저 신속한 평가를 받습니다. [PMID 31355870](https://pubmed.ncbi.nlm.nih.gov/31355870/) · [DOI 10.1001/jamainternmed.2019.2407](https://doi.org/10.1001/jamainternmed.2019.2407)
+
 ### 뇌졸중 후 재활
 
 - **대상 증상:** 운동기능, 경직, 감각장애·통증, 연하장애, 우울, 견수증후군
@@ -176,6 +184,14 @@ Yang 등의 2020년 *Annals of Internal Medicine* RCT는 Rome IV 식후불편감
 - **평가 지표:** 오심 빈도·구토·감각증상·통증·수면·기능·삶의 질
 
 → [항암치료 유발 오심·구토](../authority/conditions/chemotherapy-nausea-vomiting.md) · [항암치료 유발 말초신경병증](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
+
+#### 유방암 호르몬치료 관련 관절통: 본시험과 1년 추적 {#ai-arthralgia-landmark}
+
+Hershman 등의 2018년 *JAMA* RCT는 미국 **11개 기관·226명**의 폐경 후 초기 유방암 환자를 침·가짜침·대기군으로 배정했습니다. 아로마타제 억제제를 복용하며 관절통이 있는 환자에게 6주 주 2회, 다음 6주 주 1회 침을 시행했습니다. 6주 최악 통증 BPI-WP(0–10점)는 침군에서 기저치보다 **2.05점**, 가짜침에서 1.07점, 대기군에서 0.99점 줄었습니다. 조정한 군 간 차이는 **0.92점·0.96점**으로 통계적으로 유의했고, 사전에 정한 2점의 군 간 임상적 차이 기준에는 못 미쳤습니다. 침군의 경도 멍은 47%, 가짜침군은 25%였습니다. [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [DOI 10.1001/jama.2018.8907](https://doi.org/10.1001/jama.2018.8907)
+
+같은 시험의 **2022년 JAMA Network Open 장기추적**에서는 191명(84.5%)이 평가를 완료했고, 52주 통증점수는 가짜침보다 **1.08점(95% CI 0.24–1.91)**, 대기군보다 **0.99점(0.12–1.86)** 낮았습니다. 통증 개선이 1년 시점에도 관찰된 결과입니다. 24–52주에는 모든 군에 추가 침 10회를 제공받을 기회가 있었고 실제 일부가 이용했으므로, 모두가 치료 종료 뒤 전혀 추가 시술을 받지 않았다고 설명하지 않습니다. [PMID 36367721](https://pubmed.ncbi.nlm.nih.gov/36367721/) · [DOI 10.1001/jamanetworkopen.2022.41720](https://doi.org/10.1001/jamanetworkopen.2022.41720)
+
+**암 치료 과정의 관절통 관리**에 대한 사람 대상 근거로, [2022년 SIO–ASCO 권고](../portal/evidence.md#guideline-mechanism-results)와 함께 읽습니다. 유방암 자체의 치료효과나 호르몬치료 중단 근거로 바꾸지 않고 [암 치료 후 회복 자료](../conditions/cancer-treatment-recovery.md)로 이어갑니다.
 
 2026년 유방암 생존자 35명의 이중눈가림 예비 RCT는 증상 맞춤 전침을 10주간 시행해 주의력과 심리적 고통의 변화를 평가했습니다. 소규모 예비시험이므로 후속 다기관 검증이 필요한 신호로 봅니다. [암 치료 후 회복 연구 상세](../conditions/cancer-treatment-recovery.md) · [PMID 41926740](https://pubmed.ncbi.nlm.nih.gov/41926740/)
 
