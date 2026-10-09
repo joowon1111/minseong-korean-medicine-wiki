@@ -2,6 +2,7 @@
 title: 연구·근거 안내
 description: 한약·침·전침·추나·약침의 주요 임상 성과 26편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
+keywords: [논문, 연구근거, 학술논문, 임상연구, 임상시험, 연구논문, 연구자료, 논문검색, 연구성과, 치료효과, 치료근거, 주요논문, 핵심논문, research, evidence, papers, PubMed, RCT, 메타분석, 코호트연구, Kampo]
 status: 검토완료
 last_reviewed: '2026-09-05'
 ---
