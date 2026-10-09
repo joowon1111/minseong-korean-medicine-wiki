@@ -17,6 +17,17 @@
 
   const compact = (s) => normalize(s).replace(/\s+/g, "");
 
+  // Broad research searches start at the evidence hub. Match the whole query:
+  // a named condition/formula or a paper identifier keeps its ordinary ranking.
+  const evidenceQueries = new Set([
+    "연구", "논문", "근거", "임상근거", "연구근거", "학술논문", "임상연구",
+    "임상시험", "연구논문", "연구자료", "논문검색", "연구검색", "연구성과",
+    "치료효과", "치료근거", "연구근거안내", "주요논문", "핵심논문",
+    "research", "evidence", "papers", "pubmed", "rct", "메타분석", "코호트연구",
+    ...["한의학", "한의", "한방", "한약", "본초", "침", "침치료", "전침", "약침", "추나", "캄포", "kampo", "일본한약", "일본한방"]
+      .flatMap((topic) => ["연구", "논문", "근거", "임상근거", "임상연구", "치료효과"].map((intent) => topic + intent)),
+  ]);
+
   const patientAliases = new Map([
     ["잠이안와요", ["불면", "불면증", "수면", "잠"]],
     ["자주깨요", ["불면", "수면", "잠"]],
@@ -156,11 +167,13 @@
   function search(data, raw) {
     const query = { qn: normalize(raw), qc: compact(raw),
       terms: queryTerms(raw).map((term) => [term, term.replace(/\s+/g, '')]) };
+    const evidenceFirst = evidenceQueries.has(query.qc);
     return data
       .map((prepared) => ({ doc: prepared.doc, score: scoreDoc(prepared, query),
+        preferred: evidenceFirst && prepared.doc.url === '/portal/evidence/',
         exact: prepared.titleC === query.qc || prepared.primaryTitle === query.qc }))
-      .filter((x) => x.score > 0)
-      .sort((a, b) => Number(b.exact) - Number(a.exact) ||
+      .filter((x) => x.preferred || x.score > 0)
+      .sort((a, b) => Number(b.preferred) - Number(a.preferred) || Number(b.exact) - Number(a.exact) ||
         b.score - a.score || a.doc.title.localeCompare(b.doc.title, "ko"))
       .slice(0, RESULT_LIMIT);
   }
