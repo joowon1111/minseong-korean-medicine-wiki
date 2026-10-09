@@ -1,6 +1,6 @@
 ---
 title: 연구·근거 안내
-description: 한약·침·전침·추나·약침의 주요 임상 성과 26편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
+description: 한약·침·전침·추나·약침의 주요 임상 성과 27편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 keywords: [논문, 연구근거, 학술논문, 임상연구, 임상시험, 연구논문, 연구자료, 논문검색, 연구성과, 치료효과, 치료근거, 주요논문, 핵심논문, research, evidence, papers, PubMed, RCT, 메타분석, 코호트연구, Kampo]
 status: 검토완료
@@ -14,13 +14,13 @@ last_reviewed: '2026-09-05'
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
-**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 26편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
+**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 27편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
 
 학술지 이름에 더해 **얼마나 좋아졌는지, 무엇과 비교했는지, 효과가 얼마나 이어졌는지**를 확인합니다. 국내 한의 임상시험, 해외 침 연구, 중국의 특정 표준화 한약제제 시험은 실제 연구된 치료를 명시해 소개합니다. 해외 제제의 수치를 국내 모든 탕약의 효과로 바꾸지 않습니다.
 
 ### 인용 영향력이 높은 주요 저널에서 먼저 읽기 {#high-impact-journal-studies}
 
-**26편 중 20편은 The Lancet·JAMA·JAMA Neurology·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통은 JAMA 본시험과 JAMA Network Open의 52주 추적을 함께 연결하며, 같은 환자를 다시 분석한 추적 논문은 독립 시험으로 중복 집계하지 않습니다.
+**27편 중 21편은 The Lancet·JAMA·JAMA Neurology·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open·Gastroenterology에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통은 JAMA 본시험과 JAMA Network Open의 52주 추적을 함께 연결하며, 같은 환자를 다시 분석한 추적 논문은 독립 시험으로 중복 집계하지 않습니다.
 
 | 저널 | 공식 안내의 IF·표기 기준 | 이 페이지에서 읽는 핵심 연구 |
 |---|---|---|
@@ -29,6 +29,7 @@ last_reviewed: '2026-09-05'
 | **Nature Medicine** | **52.5** — Nature Portfolio 공식 저널 지표. [공식 지표](https://www.nature.com/nature-portfolio/about-journals/journal-metrics) | [QUEST 기력강심 심부전](#landmark-herbal) |
 | **The BMJ** | **55.1** — 공식 페이지의 JCR 2025 표기. [공식 안내](https://www.bmj.com/about-bmj/publishing-model?change_country=1) | [침의 편두통 예방](#landmark-acupuncture) |
 | **JAMA Internal Medicine** | **26.3** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors) | [침의 편두통·좌골신경통·안정형 협심증](#landmark-acupuncture) · [FOCUS 진리다](#landmark-herbal) |
+| **Gastroenterology** | **25.9** — AGA의 2026년 편집장 공모 안내에 명시된 **2024 Journal Impact Factor**. [AGA 공식 안내](https://aga-fileuploader-bucket.s3.us-east-2.amazonaws.com/RFA_Gastro_2026_Abbreviated.pdf) | [설사형 IBS ACTION 다기관 시험](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | **Annals of Internal Medicine** | **17.3** — ACP 공식 페이지의 2025 IF 표기. [공식 안내](https://www.acponline.org/clinical-information/journals-publications/annals-of-internal-medicine) | [침의 무릎 골관절염·식후불편감·골반통·전침 변비](#landmark-acupuncture) · [복합탕제 독감 연구](#landmark-herbal) |
 | **JAMA Neurology** | **23.6** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaneurology/pages/for-authors) | [대상포진후신경통 전침](#landmark-acupuncture) |
 | **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) |
@@ -49,6 +50,7 @@ last_reviewed: '2026-09-05'
 | Zhao 등, *JAMA Internal Medicine*, 2019 · 만성 안정형 협심증 404명 배정, 398명 분석 | 표준 약물치료에 전침을 추가: 13–16주의 4주당 발작 감소가 가짜침보다 5.18회 더 큼 | [병행치료·발작 빈도 평가](../evidence-integrated/acupuncture-evidence.md#stable-angina-landmark) · [PMID 31355870](https://pubmed.ncbi.nlm.nih.gov/31355870/) |
 | Xu 등, *BMJ*, 2020 · 편두통 150명 | 17–20주, 4주당 편두통 일수 감소가 가짜침보다 조정 평균 2.1일 더 큼 | [예방치료 시험](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) · [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) |
 | Yang 등, *Annals of Internal Medicine*, 2020 · 식후불편감증후군 278명 | 4주 전체 치료 반응률 추정치 83.0% 대 가짜침 51.6%; 치료 뒤 12주 추적 | [소화기 기능 시험](../evidence-integrated/acupuncture-evidence.md#pds-landmark) · [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) |
+| Yang 등, *Gastroenterology*, 2025 · ACTION 설사형 IBS 280명, 6개 병원 | 6주 복통·설사 복합 반응률 57.9% 대 가짜침 41.4%, RR 1.40 | [반응 기준·치료와 추적](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [PMID 40441496](https://pubmed.ncbi.nlm.nih.gov/40441496/) |
 | Sun 등, *Annals of Internal Medicine*, 2021 · 만성골반통 440명 | 8주 임상적으로 의미 있는 증상 개선 60.6% 대 가짜침 36.8%; 32주에도 차이 유지 | [골반통 시험](../evidence-integrated/acupuncture-evidence.md#cpps-landmark) · [PMID 34399062](https://pubmed.ncbi.nlm.nih.gov/34399062/) |
 | Liu 등, *Annals of Internal Medicine*, 2016 · 중증 기능성변비 1,075명 | 주당 완전자발배변 증가가 가짜침보다 0.90회 더 큼; 배변 기능을 직접 평가 | [변비 시험](../authority/electroacupuncture.md#ea-constipation-trial) · [PMID 27618593](https://pubmed.ncbi.nlm.nih.gov/27618593/) |
 | DeBar 등, *JAMA Network Open*, 2025 · 미국 고령자 요통 800명 | 6개월 기능장애가 30% 이상 개선된 조정 비율: 침 39.1%·유지치료 추가 침 43.8%, 통상진료 29.4% | [고령자 요통 시험](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) · [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) |
@@ -83,7 +85,7 @@ last_reviewed: '2026-09-05'
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 26편과 별도의 일본 연구 묶음으로 안내합니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 27편과 별도의 일본 연구 묶음으로 안내합니다.
 
 ### 규모·설계·저널을 함께 읽는 방법 {#study-design-reading}
 
@@ -113,7 +115,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 ### 국제 진료지침에서 확인하는 치료의 역할 {#international-clinical-guidelines}
 
-**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 위 26편의 임상 성과 집계에 더하지 않습니다.
+**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 위 27편의 임상 성과 집계에 더하지 않습니다.
 
 | 발행기관·지침 | 확인할 치료 역할 | 원문·임상 연결 |
 |---|---|---|
@@ -144,6 +146,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 | 찾는 내용 | 대표 자료실 |
 |---|---|
+| 식후불편감·복통과 설사·배변곤란의 직접 비교시험 | [소화불량: 침·국내 한약·일본 육군자탕](../authority/conditions/functional-dyspepsia.md) · [IBS ACTION](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [변비: 전침·마자인환](../authority/conditions/functional-constipation.md) |
 | 질환·증상별 핵심 연구와 진료 시 확인점 | [질환별 임상근거](../authority/conditions/index.md) |
 | 한약의 간·신장 기능과 양약 병용 안전성 | [한약 안전성 연구 한눈에 보기](../herbal-integrated/safety.md#safety-evidence-guide) |
 | 처방별·진료 분야별 한약 임상연구 | [한약·처방 임상근거](../authority/formulas/herbal-formula-evidence-hub.md) |
@@ -168,6 +171,8 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | 피로에 공진단을 연구한 자료가 있나요? | [피로·기력회복](../conditions/energy-recovery.md) → [공진단의 구성과 전통 맥락](../formulas/gongjin-dan.md) | [공진단 사람 대상 연구와 원문](../research/formulas/gongjin-dan.md) |
 | 잠들기 어렵고 자주 깨는 증상을 어떻게 살피나요? | [불면·수면장애 안내](../conditions/insomnia.md) | [불면 임상근거와 평가 지표](../authority/conditions/insomnia.md) |
 | 먹고 나면 더부룩한 증상의 치료 근거가 궁금해요 | [소화불량 안내](../conditions/dyspepsia.md) | [기능성소화불량 임상근거](../authority/conditions/functional-dyspepsia.md) |
+| 복통과 설사가 반복될 때 침치료 근거가 있나요? | [과민성장증후군 안내](../conditions/ibs.md) | [ACTION의 복통·설사 복합 반응](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
+| 변비 치료는 배변 횟수만 좋아지면 되나요? | [변비의 원인·치료 안내](../conditions/constipation.md) | [완전자발배변·반응률·추적 읽기](../authority/conditions/functional-constipation.md#csbm-reading) |
 
 논문이 낯설다면 [RCT의 비교군과 결과 숫자 읽기](../evidence-guide/rct.md#reading-results)를 먼저 보세요. 연구를 읽고 실제 상담에서 물어볼 내용은 [연구와 내 상황 비교](../evidence-integrated/clinical-application.md)로 정리할 수 있습니다.
 

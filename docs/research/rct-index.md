@@ -11,7 +11,7 @@ last_reviewed: 2026-08-19
 
 ## 주요 치료 성과의 원문 색인 {#landmark-rcts}
 
-[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 26편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 25편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
+[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 27편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 26편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
 
 | 연도 | 연구·대상 | 원문 식별자 | 결과와 적용 범위 |
 |---|---|---|---|
@@ -27,6 +27,7 @@ last_reviewed: 2026-08-19
 | 2025 | DeBar · JAMA Network Open · 고령자 요통 800명 | [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2025.31348) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) |
 | 2020 | Xu · BMJ · 편두통 150명 | [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) · [DOI](https://doi.org/10.1136/bmj.m697) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) |
 | 2020 | Yang · Annals of Internal Medicine · 식후불편감 278명 | [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) · [DOI](https://doi.org/10.7326/m19-2880) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#pds-landmark) |
+| 2025 | Yang · Gastroenterology · ACTION 설사형 IBS 280명 | [PMID 40441496](https://pubmed.ncbi.nlm.nih.gov/40441496/) · [DOI](https://doi.org/10.1053/j.gastro.2025.05.016) | [복통·설사 반응과 추적](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | 2021 | Sun · Annals of Internal Medicine · 만성골반통 440명 | [PMID 34399062](https://pubmed.ncbi.nlm.nih.gov/34399062/) · [DOI](https://doi.org/10.7326/m21-1814) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#cpps-landmark) |
 | 2017 | Liu · JAMA · 복압성 요실금 여성 504명 | [PMID 28655016](https://pubmed.ncbi.nlm.nih.gov/28655016/) · [DOI](https://doi.org/10.1001/jama.2017.7220) | [상세 결과](../authority/electroacupuncture.md#ea-incontinence-trial) |
 | 2016 | Liu · Annals of Internal Medicine · 중증 기능성변비 1,075명 | [PMID 27618593](https://pubmed.ncbi.nlm.nih.gov/27618593/) · [DOI](https://doi.org/10.7326/m15-3118) | [상세 결과](../authority/electroacupuncture.md#ea-constipation-trial) |
@@ -44,7 +45,7 @@ last_reviewed: 2026-08-19
 
 ## 일본 Kampo 주요 무작위시험 {#japan-kampo-rcts}
 
-[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 26편 묶음과 별도로 연결한 6개 독립 시험(Best RCTs 5편과 간절제 3상 시험)입니다.
+[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 27편 묶음과 별도로 연결한 6개 독립 시험(Best RCTs 5편과 간절제 3상 시험)입니다.
 
 | 연도·저널 | 처방·연구 | PMID·DOI | 상세 결과 |
 |---|---|---|---|
