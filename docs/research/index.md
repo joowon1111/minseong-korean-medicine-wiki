@@ -22,6 +22,7 @@ last_reviewed: '2026-09-01'
 | 찾는 자료 | 데이터베이스 |
 |---|---|
 | 무작위 임상시험 | [RCT 목록](rct-index.md) |
+| 비무작위 임상시험·실제 진료 코호트 | [일본 전향적 시험·전국자료의 설계 구분](by-study-type.md#nonrandomized-human-studies) |
 | 체계적 문헌고찰·메타분석 | [메타분석 목록](meta-analysis-index.md) |
 | 실제 진료 권고와 적용 조건 | [국제 진료지침 사례](../evidence-clinical/guidelines.md#international-recommendations) |
 | 기전·전임상 연구 | [기전·전임상 목록](mechanism-preclinical-index.md) |

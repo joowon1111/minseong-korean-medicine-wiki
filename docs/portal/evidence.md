@@ -34,7 +34,7 @@ last_reviewed: '2026-09-05'
 | **JAMA Oncology** | **23.9** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaoncology/pages/for-authors) | [PEACE 암 생존자 만성통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) |
 | **The Lancet Gastroenterology & Hepatology** | **39.1** — 공식 안내의 2025 Journal Citation Reports, Clarivate 2026 표기. [공식 안내](https://info.thelancet.com/langas/request-access) | [베르베린 선종 재발](#herb-derived-component-studies): 복합 한약과 구분한 성분 연구 |
 | **JAMA Neurology** | **23.6** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaneurology/pages/for-authors) | [대상포진후신경통 전침](#landmark-acupuncture) |
-| **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·불면 전침·방사선 구강건조·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) |
+| **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·불면 전침·방사선 구강건조·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) · [일본 월비가출탕 비무작위시험](../authority/formulas/herbal-formula-evidence-hub.md#japanese-eppikajutsuto-trial) |
 
 위 수치는 **2026년 10월 확인한 저널 공식 안내**이며 논문 발표 당시의 IF나 논문 자체의 인용 횟수가 아닙니다. IF는 학술지의 인용 지표, PubMed는 논문 검색 데이터베이스입니다. JAMA 본지와 자매지는 서로 다른 저널이므로 수치를 섞지 않고, 실제 치료효과는 각 연구의 결과로 설명합니다.
 
@@ -92,11 +92,12 @@ last_reviewed: '2026-09-05'
 | **일본소화기학회 지침**, 2021판·2022년 영문 논문 | 기능성소화불량의 1차 치료 선택지에 **육군자탕** 포함 | [Journal of Gastroenterology·PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/) · [RCT와 권고의 연결](../research/formulas/rikkunshito.md#japanese-fd-trials) |
 | **International Journal of Clinical Oncology**, Shimada, 2015 · 일본 26개 기관 3상 RCT | 대건중탕 간절제 시험, 231명 등록·209명 분석; 발관 뒤 첫 배변 중앙값 88.2시간 대 위약 93.1시간 | [PMID 24595550](https://pubmed.ncbi.nlm.nih.gov/24595550/) · [설계·평가항목](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial) |
 | **일본 전국 입원자료 코호트**, Yasunaga, 2015 · 36,020명 | 오령산과 경막하혈종 재수술: 성향점수 매칭 3,879쌍에서 4.8% 대 6.2%; 도구변수 분석도 같은 방향의 연관 | [PMID 26495025](https://pubmed.ncbi.nlm.nih.gov/26495025/) · [관찰연구 해석](../formulas/wuling-san.md#japanese-goreisan-cohort) |
+| **JAMA Network Open**, Ogawa-Ochiai, 2025 · 일본 다기관 비무작위시험 | 소아 림프관기형 19명 분석; 6개월 병변 부피 20% 이상 감소 10명(52.6%). 비교군 없는 전향적 시험 | [PMID 41182768](https://pubmed.ncbi.nlm.nih.gov/41182768/) · [반응 기준·설계·안전성](../authority/formulas/herbal-formula-evidence-hub.md#japanese-eppikajutsuto-trial) |
 | **Kampo Best RCTs**, 2024년 선별·2025년 권호 보고 | 이중맹검·위약대조, 저널 IF·인용과 임상적 의미를 고려한 **5개 시험** | [선별 방법](https://doi.org/10.1002/tkm2.1438) · [5편의 실제 결과](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence) |
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 30편과 별도의 일본 연구 묶음으로 안내합니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 30편과 별도의 일본 연구 묶음으로 안내하며, 월비가출탕의 비무작위시험도 RCT와 구분해 연결합니다.
 
 ### 규모·설계·저널을 함께 읽는 방법 {#study-design-reading}
 

@@ -82,9 +82,26 @@ Motoo 등의 *Traditional & Kampo Medicine* **2025;12:63–73** 보고는 2024�
 
 **오령산의 일본 전국자료 36,020명 연구**는 성향점수 매칭과 도구변수 분석으로 수술 후 재수술과의 연관을 살폈습니다. [관찰연구의 결과와 적용 범위](../../formulas/wuling-san.md#japanese-goreisan-cohort)를 읽으면 RCT와 실제 진료 코호트가 어떻게 보완되는지 볼 수 있습니다. 두 자료는 Best RCTs 선별 5편에 포함된 논문과 구분합니다.
 
+### JAMA Network Open: 월비가출탕과 소아 림프관기형 {#japanese-eppikajutsuto-trial}
+
+Ogawa-Ochiai 등의 **2025년 JAMA Network Open** 연구는 히로시마대·가나자와대 등의 일본 의료진이 여러 기관에서 수행한 **공개·단일군 전향적 비무작위 임상시험**입니다. 선천성 림프관기형이 있는 소아 20명 중 투여량 오류로 제외한 1명을 뺀 **19명**을 분석했습니다. 월비가출탕(越婢加朮湯, Eppikajutsuto) 과립제를 6개월 투여하고 병변 부피를 치료 전후로 평가했습니다.
+
+| 6개월 평가 | 실제 결과 |
+|---|---|
+| 주평가: 병변 부피 20% 이상 감소 | **10/19명, 52.6%**; **90% CI 32.0–73.0%** |
+| 부평가: 병변 부피 50% 이상 감소 | **4/19명, 21.1%**; 90% CI 7.5–41.9% |
+
+단순 증상 설문에 더해 **영상의 병변 부피를 중앙 눈가림 판독**으로 평가한 점이 중요합니다. 비교군이 없어 자연 경과와 치료효과를 분리할 수 없으며, 반응률을 완치율이나 다른 치료보다 우수한 비율로 읽지 않습니다. 림프관기형은 일반 부종·림프부종과 다른 질환입니다. 이 연구는 위 Best RCTs 5편이나 [핵심 성과 30편](../../portal/evidence.md#landmark-clinical-results)에 합산하지 않고 후속 비교시험을 위한 사람 대상 성과로 소개합니다.
+
+안전성 본문에는 **4등급 호중구감소**, 경도 감염·간기능 이상 등이 보고됐습니다. 초록의 ‘중대한 이상반응 없음’이라는 분류를 이상반응이 전혀 없었다는 뜻으로 바꾸지 않습니다. 소아 전문진료에서 혈액검사와 병변 경과를 확인해야 하며, 수술·경화치료·기존 약물과 직접 비교한 시험이 아닙니다.
+
+[PMID 41182768](https://pubmed.ncbi.nlm.nih.gov/41182768/) · [JAMA Network Open 원문·DOI 10.1001/jamanetworkopen.2025.40897](https://doi.org/10.1001/jamanetworkopen.2025.40897) · [비무작위시험 읽기](../../research/by-study-type.md#nonrandomized-human-studies)
+
 ### 일본 학회지와 국제 저널을 구분해 읽기 {#japanese-journals-context}
 
 **일본내과학회지(日本内科学会雑誌)**의 [2021년 내과 진료 해설](https://doi.org/10.2169/naika.110.817)과 [2019년 만성변비 해설](https://doi.org/10.2169/naika.108.55)은 처방 활용과 치료 목표를 설명하는 학회 자료입니다. **Journal of Gastroenterology**는 [일본소화기학회의 공식 저널](https://link.springer.com/journal/535)이며, 학회는 영문 홈페이지에 **2025 Impact Factor 5.7**을 표기합니다([공식 안내](https://www.jsge.or.jp/en/), 2026년 10월 확인). 이 지표는 논문의 개별 인용 횟수나 치료효과의 크기가 아닙니다.
+
+**JAMA Network Open**의 공식 저자 안내는 **IF 11.7**을 표기합니다([공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors), 2026년 10월 확인). 이는 현재 저널 지표이며 월비가출탕 논문 자체의 인용 횟수가 아닙니다. 저널의 영향력과 연구 설계를 따로 확인해 소규모 비무작위시험도 정확한 위치에서 읽습니다.
 
 *Neurogastroenterology & Motility*, *Nutrition*, *Cancer Chemotherapy and Pharmacology*의 위 논문은 **일본 의료기관 연구를 국제 전문 저널에 발표한 사례**입니다. 이들 저널을 일본 학회지로 표기하지 않습니다. 일본소화기학회의 **2021년 기능성소화불량 지침**은 육군자탕을 강한 권고·근거수준 A로 제시하고 1차 치료 선택지에 포함합니다. [학회 지침 원문](https://www.jsge.or.jp/committees/guideline/guideline/pdf/fd2021r_.pdf) · [2022년 영문 지침](https://doi.org/10.1007/s00535-021-01843-7)
 
