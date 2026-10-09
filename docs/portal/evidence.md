@@ -10,21 +10,7 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [질문별 핵심 논문](#quick-evidence-answers) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
-
-## 궁금한 질문, 핵심 논문부터 {#quick-evidence-answers}
-
-**질문 → 실제 연구 결과 → 저널·IF → 논문 원문** 순서로 바로 확인하세요.
-
-| 궁금한 질문 | 핵심 결과 한 줄 | 저널·논문 원문 |
-|---|---|---|
-| **침치료, 효과 있어요?** | 디스크로 인한 만성 좌골신경통 216명 분석: 4주 통증 개선이 가짜침보다 **16mm 더 큼**, 52주에도 차이 유지 | **JAMA Internal Medicine · IF 26.3**, 2024 · [논문](https://pubmed.ncbi.nlm.nih.gov/39401008/) · [치료·결과](../evidence-integrated/acupuncture-evidence.md#sciatica-landmark) |
-| **한약도 중요한 치료 결과를 바꾸나요?** | 중국 표준화 복합제 기력강심의 심부전 3,110명 분석: 표준치료에 추가 시 입원·심혈관 사망 복합결과 **25.02% 대 위약 30.03%** | **Nature Medicine · IF 52.5**, 2024 · [논문](https://pubmed.ncbi.nlm.nih.gov/39095596/) · [제제·적용 범위](../authority/formulas/herbal-formula-evidence-hub.md#herbal-major-outcomes) |
-| **국내 한의치료도 좋은 저널에 실렸나요?** | 국내 5개 병원 만성 목통증 108명: 추나의 5주 통증 개선이 통상진료보다 **16.8mm 더 큼** | **JAMA Network Open · IF 11.7**, 2021 · [논문](https://pubmed.ncbi.nlm.nih.gov/34259850/) · [비교효과](#korean-treatment-results) |
-| **한약의 간 안전성, 검사한 연구가 있나요?** | 국내 10개 한방병원 1,001명 전향적 추적: 연구 기준상 간손상 **6명(0.60%)** 관찰 | **Archives of Toxicology · IF 10.9**, 2017 · [논문](https://pubmed.ncbi.nlm.nih.gov/28634823/) · [안전성·추적검사](../herbal-integrated/safety.md#liver-safety-prospective) |
-| **간이 나빠도 한약을 먹어도 되나요?** | 간질환의 원인·검사수치·처방·병용약을 확인해 **한의사가 개별 판단**합니다. 일반 안전성 연구를 간질환자의 복용 보장으로 바꾸지 않습니다 | **Hepatology · IF 18.0**, 2023 · [AASLD 안전성 진료지침](https://pubmed.ncbi.nlm.nih.gov/35899384/) · [간질환·복용력 평가](../herbal-integrated/safety.md#liver-safety-international) |
-
-IF는 **2026년 10월 확인한 현재 저널 지표**이며, 옆의 연도는 **논문 발표연도**입니다. [치료 연구 저널의 공식 지표](#high-impact-journal-studies) · [Archives of Toxicology: 2025 IF 10.9](https://link.springer.com/journal/204) · [Hepatology: 2025 IF 18.0](https://www.wolterskluwer.com/en/solutions/ovid/hepatology-9984). 각 논문은 표에 적힌 질환·치료의 근거이며, 안전성 지침은 치료효과를 입증한 시험과 구분합니다.
+**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
