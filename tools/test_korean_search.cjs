@@ -13,6 +13,56 @@ const rows = [
   { title: '불면 관련 연구', url: '/research/sleep/', keywords: [], text: '수면 불면', boost: 10 },
 ];
 
+const resultUrls = (b) => [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
+
+test('broad research queries put the evidence hub before even an exact-title match', async () => {
+  for (const query of ['연구', '논문', '임상 근거', '연구·근거', '논 문 검색', '한약 논문', '침치료 연구',
+    '한의학 치료효과', '일본 한약 연구', 'KAMPO 논문', 'ＲＥＳＥＡＲＣＨ', 'evidence', 'PubMed', 'RCT']) {
+    const b = browser(async () => ({ ok: true, json: async () => [
+      { title: query, url: '/research/exact/', text: query, boost: 20 },
+      { title: '연구·근거 안내', url: '/portal/evidence/', text: '연구 근거' },
+      { title: '무관한 자료', url: '/unrelated/', text: '일정 위치' },
+    ] }));
+    await b.enter(query);
+    assert.deepEqual(resultUrls(b), ['/portal/evidence/', '/research/exact/'], query);
+  }
+});
+
+test('specific paper, condition and formula queries retain their own first result', async () => {
+  for (const query of ['공진단 논문', '편두통 연구', '육군자탕 임상근거', '연구윤리', '연구계획', 'PMID 39095596', '10.1002/tkm2.1438', '족삼리']) {
+    const b = browser(async () => ({ ok: true, json: async () => [
+      { title: '연구·근거 안내', url: '/portal/evidence/', keywords: [query], text: query },
+      { title: query, url: '/research/specific/', text: query, boost: 10 },
+    ] }));
+    await b.enter(query);
+    assert.equal(resultUrls(b)[0], '/research/specific/', query);
+    assert.ok(resultUrls(b).includes('/portal/evidence/'), query);
+  }
+});
+
+test('research priority does not create a dead link when the hub is absent', async () => {
+  const b = browser(async () => ({ ok: true, json: async () => [
+    { title: '논문', url: '/research/', text: '논문' },
+  ] }));
+  await b.enter('논문');
+  assert.deepEqual(resultUrls(b), ['/research/']);
+});
+
+test('generated archive index surfaces the hub and keeps detailed research accessible', async () => {
+  const archive = JSON.parse(fs.readFileSync(path.join(__dirname, '../docs/assets/korean-search-index.json'), 'utf8'));
+  const b = browser(async () => ({ ok: true, json: async () => archive }));
+  for (const query of ['연구', '논문', '임상근거', '한약 논문', '침치료 연구', '일본 한약 연구', 'PubMed']) {
+    await b.enter(query);
+    const urls = resultUrls(b);
+    assert.equal(urls[0], '/portal/evidence/', query);
+    assert.equal(new Set(urls).size, urls.length, query);
+    assert.ok(urls.length > 1, query);
+  }
+  await b.enter('공진단');
+  assert.equal(resultUrls(b)[0], '/conditions/gongjin-dan-guide/');
+  assert.ok(resultUrls(b).includes('/formulas/gongjin-dan/'));
+});
+
 function browser(fetchImpl = async () => ({ ok: true, json: async () => rows })) {
   const listeners = {};
   const classes = new Set();
