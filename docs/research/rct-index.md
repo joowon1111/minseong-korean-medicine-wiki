@@ -37,6 +37,18 @@ last_reviewed: 2026-08-19
 | 2023 | Park · Journal of Pain Research · 약침·요통 100명 | [PMID 37554434](https://pubmed.ncbi.nlm.nih.gov/37554434/) · [DOI](https://doi.org/10.2147/jpr.s413512) | [상세 결과](../authority/pharmacopuncture.md#pharmaco-back-trial) |
 | 2026 | Lee · Integrative Medicine Research · 약침·협착증 96명 | [PMID 42099446](https://pubmed.ncbi.nlm.nih.gov/42099446/) · [DOI](https://doi.org/10.1016/j.imr.2026.101323) | [상세 결과](../authority/pharmacopuncture.md#lumbar-spinal-stenosis-trial) |
 
+## 일본 Kampo 주요 무작위시험 {#japan-kampo-rcts}
+
+[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 21편 묶음과 별도로 연결한 5개 독립 시험입니다.
+
+| 연도·저널 | 처방·연구 | PMID·DOI | 상세 결과 |
+|---|---|---|---|
+| 2018 · Neurogastroenterology & Motility | 육군자탕·DREAM·기능성소화불량 | [29498457](https://pubmed.ncbi.nlm.nih.gov/29498457/) · [10.1111/nmo.13319](https://doi.org/10.1111/nmo.13319) | [전체 치료효과·모집 조건](formulas/rikkunshito.md#japanese-fd-trials) |
+| 2014 · Neurogastroenterology & Motility | Suzuki·육군자탕·기능성소화불량 | [24766295](https://pubmed.ncbi.nlm.nih.gov/24766295/) · [10.1111/nmo.12348](https://doi.org/10.1111/nmo.12348) | [주평가와 명치 통증](formulas/rikkunshito.md#japanese-fd-trials) |
+| 2014 · Journal of Gastroenterology | 육군자탕·G-PRIDE·비미란성 역류질환 | [24535455](https://pubmed.ncbi.nlm.nih.gov/24535455/) · [10.1007/s00535-013-0896-9](https://doi.org/10.1007/s00535-013-0896-9) | [PPI 병용·삶의 질](formulas/rikkunshito.md#japanese-nerd-trial) |
+| 2018 · Nutrition | Kaido·대건중탕·간이식 후 회복 | [29747091](https://pubmed.ncbi.nlm.nih.gov/29747091/) · [10.1016/j.nut.2018.02.022](https://doi.org/10.1016/j.nut.2018.02.022) | [섭취 회복 경과](../formulas/dajianzhong-tang.md#japanese-transplant-trial) |
+| 2015 · Cancer Chemotherapy and Pharmacology | Matsuda·반하사심탕·항암치료 구내염 | [25983022](https://pubmed.ncbi.nlm.nih.gov/25983022/) · [10.1007/s00280-015-2767-y](https://doi.org/10.1007/s00280-015-2767-y) | [지속기간과 발생률](../formulas/banxia-xiexin-tang.md#japanese-mucositis-trial) |
+
 ## 다른 치료별 임상시험 {#other-clinical-trials}
 
 | 연도 | 주제 | 처방·치료 | PMID | DOI | 연결 |
