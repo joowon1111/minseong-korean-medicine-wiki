@@ -198,6 +198,17 @@ Kim JW et al. *Korean red ginseng for cancer-related fatigue in colorectal cance
 
 항암치료 유발 말초신경병증에서도 침치료 연구가 축적되고 있으며, 통증뿐 아니라 감각·운동·삶의 질과 낙상위험을 함께 봅니다. [관련 근거 카드](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
 
+### 주요 저널에서 평가한 치료 후 통증·구강건조 {#oncology-landmark-reading}
+
+암 치료 이후의 증상 관리는 **통증 감소와 식사·수면·활동·삶의 질 회복**을 목표로 합니다. 아래 직접 비교시험은 해당 증상에 침을 더한 역할을 평가했습니다.
+
+| 연구 대상 | 확인할 성과와 적용 범위 |
+|---|---|
+| 암 생존자의 만성 근골격통 · PEACE, JAMA Oncology, 360명 | [통상진료와 전침·이침의 12주 비교](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial). 현재 암의 증거가 없는 생존자 대상이며 종양 자체의 치료시험과 구분합니다. |
+| 두경부 방사선치료 후 12개월 이상 구강건조 · JAMA Network Open, 258명 | [표준 구강관리·가짜침 비교와 삶의 질](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial). 구강관리 대비 개선과 가짜침 비교의 보정 결과를 함께 읽습니다. |
+
+증상에 맞는 근거를 확인하고 치료 일정·혈액검사·병용약을 담당 의료진과 조율합니다.
+
 ## 침·전침·약침의 안전 기준
 
 - 절대호중구수가 낮거나 발열·감염이 있으면 침습치료를 미루고 병원 평가를 우선합니다.

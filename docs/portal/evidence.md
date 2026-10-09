@@ -1,6 +1,6 @@
 ---
 title: 연구·근거 안내
-description: 한약·침·전침·추나·약침의 주요 임상 성과 28편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
+description: 한약·침·전침·추나·약침의 주요 임상 성과 30편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 keywords: [논문, 연구근거, 학술논문, 임상연구, 임상시험, 연구논문, 연구자료, 논문검색, 연구성과, 치료효과, 치료근거, 주요논문, 핵심논문, research, evidence, papers, PubMed, RCT, 메타분석, 코호트연구, Kampo]
 status: 검토완료
@@ -14,13 +14,13 @@ last_reviewed: '2026-09-05'
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
-**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 28편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
+**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 30편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
 
 학술지 이름에 더해 **얼마나 좋아졌는지, 무엇과 비교했는지, 효과가 얼마나 이어졌는지**를 확인합니다. 국내 한의 임상시험, 해외 침 연구, 중국의 특정 표준화 한약제제 시험은 실제 연구된 치료를 명시해 소개합니다. 해외 제제의 수치를 국내 모든 탕약의 효과로 바꾸지 않습니다.
 
 ### 인용 영향력이 높은 주요 저널에서 먼저 읽기 {#high-impact-journal-studies}
 
-**28편 중 22편은 The Lancet·JAMA·JAMA Neurology·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open·Gastroenterology에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통은 JAMA 본시험과 JAMA Network Open의 52주 추적을 함께 연결하며, 같은 환자를 다시 분석한 추적 논문은 독립 시험으로 중복 집계하지 않습니다.
+**30편 중 24편은 The Lancet·JAMA·JAMA Neurology·JAMA Oncology·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open·Gastroenterology에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통은 JAMA 본시험과 JAMA Network Open의 52주 추적을 함께 연결하며, 같은 환자를 다시 분석한 추적 논문은 독립 시험으로 중복 집계하지 않습니다.
 
 | 저널 | 공식 안내의 IF·표기 기준 | 이 페이지에서 읽는 핵심 연구 |
 |---|---|---|
@@ -31,8 +31,10 @@ last_reviewed: '2026-09-05'
 | **JAMA Internal Medicine** | **26.3** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors) | [침의 편두통·좌골신경통·안정형 협심증](#landmark-acupuncture) · [FOCUS 진리다](#landmark-herbal) |
 | **Gastroenterology** | **25.9** — AGA의 2026년 편집장 공모 안내에 명시된 **2024 Journal Impact Factor**. [AGA 공식 안내](https://aga-fileuploader-bucket.s3.us-east-2.amazonaws.com/RFA_Gastro_2026_Abbreviated.pdf) | [설사형 IBS ACTION 다기관 시험](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | **Annals of Internal Medicine** | **17.3** — ACP 공식 페이지의 2025 IF 표기. [공식 안내](https://www.acponline.org/clinical-information/journals-publications/annals-of-internal-medicine) | [침의 무릎 골관절염·식후불편감·골반통·전침 변비](#landmark-acupuncture) · [복합탕제 독감 연구](#landmark-herbal) |
+| **JAMA Oncology** | **23.9** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaoncology/pages/for-authors) | [PEACE 암 생존자 만성통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) |
+| **The Lancet Gastroenterology & Hepatology** | **39.1** — 공식 안내의 2025 Journal Citation Reports, Clarivate 2026 표기. [공식 안내](https://info.thelancet.com/langas/request-access) | [베르베린 선종 재발](#herb-derived-component-studies): 복합 한약과 구분한 성분 연구 |
 | **JAMA Neurology** | **23.6** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaneurology/pages/for-authors) | [대상포진후신경통 전침](#landmark-acupuncture) |
-| **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·불면 전침·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) |
+| **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·불면 전침·방사선 구강건조·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) |
 
 위 수치는 **2026년 10월 확인한 저널 공식 안내**이며 논문 발표 당시의 IF나 논문 자체의 인용 횟수가 아닙니다. IF는 학술지의 인용 지표, PubMed는 논문 검색 데이터베이스입니다. JAMA 본지와 자매지는 서로 다른 저널이므로 수치를 섞지 않고, 실제 치료효과는 각 연구의 결과로 설명합니다.
 
@@ -55,6 +57,8 @@ last_reviewed: '2026-09-05'
 | Liu 등, *Annals of Internal Medicine*, 2016 · 중증 기능성변비 1,075명 | 주당 완전자발배변 증가가 가짜침보다 0.90회 더 큼; 배변 기능을 직접 평가 | [변비 시험](../authority/electroacupuncture.md#ea-constipation-trial) · [PMID 27618593](https://pubmed.ncbi.nlm.nih.gov/27618593/) |
 | Yin 등, *JAMA Network Open*, 2022 · 우울증 동반 불면 270명, 3개 병원 | 표준관리에 전침 추가: 8주 PSQI 군 간 차이 가짜침 대비 -3.6점, 표준관리 단독 대비 -5.1점; 32주 추적 | [수면척도·비교군·추적 결과](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) · [PMID 35797047](https://pubmed.ncbi.nlm.nih.gov/35797047/) |
 | DeBar 등, *JAMA Network Open*, 2025 · 미국 고령자 요통 800명 | 6개월 기능장애가 30% 이상 개선된 조정 비율: 침 39.1%·유지치료 추가 침 43.8%, 통상진료 29.4% | [고령자 요통 시험](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) · [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) |
+| Mao 등, *JAMA Oncology*, 2021 · PEACE 암 생존자 만성 근골격통 360명 | 12주 BPI 통증강도 감소가 통상진료보다 전침 1.9점·이침 1.6점 더 큼 | [치료·비교군·추적 조건](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [PMID 33734288](https://pubmed.ncbi.nlm.nih.gov/33734288/) |
+| Cohen 등, *JAMA Network Open*, 2024 · 만성 방사선 구강건조 258명, 미국 33개 기관 | 4주 환자보고 구강건조 XQ가 표준 구강관리보다 6.67점 낮음; 가짜침 비교는 다중비교 보정 후 유의하지 않음 | [증상·삶의 질·평가 시점](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [PMID 38739392](https://pubmed.ncbi.nlm.nih.gov/38739392/) |
 | Vickers 등, *Journal of Pain*, 2018 · 39개 RCT, 20,827명 개인자료 메타분석 | 만성통증에서 무침 대조군과 가짜침 모두보다 통증·기능 개선; 1년에도 효과 대부분 유지 | [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) |
 
 ### 한약: 증상 개선과 장기 임상 결과 {#landmark-herbal}
@@ -71,6 +75,12 @@ last_reviewed: '2026-09-05'
 | Kim 등, *Complementary Therapies in Medicine*, 2019 · 국내 소청룡탕 다기관 시험 | 4주 위약대조에서 통년성 비염의 코 증상과 삶의 질 개선 | [국내 처방 단위 연구](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/) |
 | Lee 등, *Journal of Ethnopharmacology*, 2026 · 국내 육군자탕·평위산 140명 | 6주 소화불량 증상점수 변화가 통상관리보다 각각 평균 1.63점·1.55점 더 유리 | [국내 비교효과 시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) |
 
+### 본초 유래 분리 성분의 주요 임상연구 {#herb-derived-component-studies}
+
+**베르베린의 대장선종 재발 감소**는 본초 유래 성분을 사람에게 직접 비교한 성과입니다. Chen 등의 *The Lancet Gastroenterology & Hepatology* 2020년 다기관 이중눈가림 시험은 1,108명을 배정하고 유효성 자료가 있는 891명을 분석했습니다. 선종 재발은 **36% 대 위약 47%, RR 0.77**이었습니다. [황련·베르베린의 구분과 상세 결과](../herbs/coptis.md#berberine-adenoma-trial) · [PMID 31926918](https://pubmed.ncbi.nlm.nih.gov/31926918/)
+
+이 시험은 분리 성분 정제의 연구로 위의 **핵심 30편이나 복합 한약 9편에 포함하지 않습니다**. 한약 복합처방의 효과, 대장암 예방이나 생존 향상과 구분해 읽습니다.
+
 ### 일본 Kampo: 내과·소화기 진료와 처방 연구 {#japan-kampo-studies}
 
 **일본의 한약 연구는 내과·소화기 전문 진료, 다기관 위약대조시험, 학회 진료지침으로 이어집니다.** 일본내과학회지의 2021년 「내과 진료에서 한방의 역할: 최신 정보」는 내과의를 포함한 임상의의 의료용 한방제제 활용과 육군자탕·억간산 연구를 설명합니다. 학회의 임상 해설과 실제 효과를 비교한 RCT를 함께 읽으면 일본 의료계에서 한약을 어떻게 연구하고 사용하는지 구체적으로 확인할 수 있습니다.
@@ -86,7 +96,7 @@ last_reviewed: '2026-09-05'
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 28편과 별도의 일본 연구 묶음으로 안내합니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 30편과 별도의 일본 연구 묶음으로 안내합니다.
 
 ### 규모·설계·저널을 함께 읽는 방법 {#study-design-reading}
 
@@ -116,7 +126,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 ### 국제 진료지침에서 확인하는 치료의 역할 {#international-clinical-guidelines}
 
-**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 위 28편의 임상 성과 집계에 더하지 않습니다.
+**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 위 30편의 임상 성과 집계에 더하지 않습니다.
 
 | 발행기관·지침 | 확인할 치료 역할 | 원문·임상 연결 |
 |---|---|---|
@@ -149,6 +159,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 |---|---|
 | 식후불편감·복통과 설사·배변곤란의 직접 비교시험 | [소화불량: 침·국내 한약·일본 육군자탕](../authority/conditions/functional-dyspepsia.md) · [IBS ACTION](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [변비: 전침·마자인환](../authority/conditions/functional-constipation.md) |
 | 불면의 침·한약 연구와 수면 결과 | [전침 다기관 시험](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) · [산조인탕 단독·병용](../authority/formulas/suanzaoren-tang.md#szrd-results) · [수면 한약 비교](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary) |
+| 암 치료 후 통증·방사선 구강건조의 비교시험 | [PEACE 통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [만성 구강건조](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading) |
 | 질환·증상별 핵심 연구와 진료 시 확인점 | [질환별 임상근거](../authority/conditions/index.md) |
 | 한약의 간·신장 기능과 양약 병용 안전성 | [한약 안전성 연구 한눈에 보기](../herbal-integrated/safety.md#safety-evidence-guide) |
 | 처방별·진료 분야별 한약 임상연구 | [한약·처방 임상근거](../authority/formulas/herbal-formula-evidence-hub.md) |
