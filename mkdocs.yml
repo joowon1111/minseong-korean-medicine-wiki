@@ -7,11 +7,11 @@ use_directory_urls: true
 extra_javascript:
   - assets/archive-tools/search-core.js?v=20261009-03
   - assets/archive-tools/ai-client.js?v=20261009-03
-  - assets/archive-tools/tools.js?v=20261009-03
+  - assets/archive-tools/tools.js?v=20261009-04
   - assets/korean-search-185.js?v=20261002
   - assets/donguibogam/bootstrap.js
   - assets/acupoint-atlas/explorer.js
-  - assets/learning/learning.js?v=20261004-07&ui=20261009-01
+  - assets/learning/learning.js?v=20261004-07&ui=20261009-02
   - assets/daily-korean-medicine.js?v=20261007-01
   - assets/daily-korean-medicine/special.js?v=20261007-09
 extra_css:

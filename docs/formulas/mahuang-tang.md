@@ -67,6 +67,8 @@ last_reviewed: 2026-09-16
 
 이 표는 ‘땀이 나면 계지탕, 안 나면 마황탕’이라는 단일 규칙이 아닙니다. 증상 발생 시점, 맥증, 호흡 상태, 수분 섭취와 기존 감염·호흡기 진단을 함께 봅니다.
 
+[마황탕·계지탕을 나란히 비교](../herbal-integrated/formula-structure.md?compare=formula-mahuang-tang,formula-guizhi-tang#interactive-comparison)하면 각 처방의 본문과 구성 본초로 이동할 수 있습니다. [마황탕 관련 방제학 학습](../learning/formulas.md?topic=마황탕)에서는 배합 차이를, [상한론 마황탕 조문 학습](../learning/shanghanlun.md?topic=마황탕)에서는 주치 조건을 확인하고 퀴즈로 복습해 보세요.
+
 ## 35조의 맥증과 원방 비율 {#original-pattern-course}
 
 송본 「태양병 중편」 35조의 중심은 두통·발열·몸과 허리·관절의 통증에 **오풍·무한·천**이 함께 있는 표증입니다. 원방의 발한해표와 선폐평천은 이 증후 묶음에서 읽습니다. 코가 막히거나 열이 나는 모든 경우를 마황탕증으로 부르는 것은 조문의 조건을 지나치게 넓히는 해석입니다. [35조와 방후문](../classics/shanghanlun/clauses/taiyang-middle.md#clause-035)

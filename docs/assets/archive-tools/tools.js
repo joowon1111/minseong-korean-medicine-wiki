@@ -44,7 +44,7 @@
         const connections = all.filter(x => c.links.includes(x.source.split('#')[0]));
         if (connections.length) { section.append(el('h4', '본문에서 연결한 처방·본초')); const links = el('div', undefined, {class: 'archive-choices'}); for (const x of connections) links.append(link(x.title, x.source)); section.append(links); }
         const peers = all.filter(x => c.peers.includes(x.id)); if (peers.length) { section.append(el('h4', '함께 비교하기')); for (const p of peers) section.append(button(p.title, () => {if (selected.size < 4) selected.add(p.id); render();})); }
-        section.append(link('관련 문제 풀기', '/learning/?subject=' + (c.kind === 'herb' ? 'herbs' : 'formulas') + '&q=' + encodeURIComponent(c.title.replace(/\([^)]*\)/g, '')))); detail.append(section);
+        section.append(link('관련 문제 풀기', '/learning/?subject=' + (c.kind === 'herb' ? 'herbs' : 'formulas') + '&topic=' + encodeURIComponent(c.title.replace(/\([^)]*\)/g, '')))); detail.append(section);
       }
       results.append(detail);
 

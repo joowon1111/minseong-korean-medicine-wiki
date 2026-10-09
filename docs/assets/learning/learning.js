@@ -178,7 +178,8 @@
     }
     const filters = node('div', undefined, {class: 'learning-filters'});
     const query = node('input', undefined, {type: 'search', placeholder: '구조·혈명·본초·처방·조문·병증 검색', 'aria-label': '학습자료 검색'});
-    query.value = new URLSearchParams(global.location.search).get('q') || '';
+    const learningParams = new URLSearchParams(global.location.search);
+    query.value = learningParams.get('topic') || learningParams.get('q') || '';
     const category = node('select', undefined, {'aria-label': '학습 단원'});
     const modeSelect = node('select', undefined, {'aria-label': '학습 방식'});
     for (const [value, title] of [['cards', '학습카드'], ['quiz', '퀴즈'], ['wrong', '오답 다시 풀기'], ['due', '오늘 복습할 문제'], ['weak', '반복 오답 문제'], ['review', '다시 볼 카드'], ['saved', '북마크 카드']]) {

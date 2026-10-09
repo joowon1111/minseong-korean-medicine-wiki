@@ -17,6 +17,11 @@ description: 사군자탕·육군자탕, 사물탕·팔물탕·십전대보탕 �
 
 **비교 예시:** [사군자탕과 육군자탕 나란히 보기](formula-structure.md?compare=formula-sijunzi-tang,formula-liujunzi-tang#interactive-comparison). 처방 이름을 눌러 개별 문서의 출전·구성·주치를 읽고, [방제학 학습 자료](../learning/formulas.md)에서 배합 차이를 복습할 수 있습니다.
 
+| 읽고 있는 주제 | 바로 열어 볼 비교 | 함께 확인할 자료 |
+|---|---|---|
+| 상한론 해표 처방 | [계지탕·마황탕](formula-structure.md?compare=formula-guizhi-tang,formula-mahuang-tang#interactive-comparison) | [12·35조와 대표 처방 지도](../shanghan-network/index.md#formula-map) · [상한론 학습](../learning/shanghanlun.md) |
+| 수기 처방의 차이 | [오령산·저령탕·진무탕·영계출감탕](formula-structure.md?compare=formula-wuling-san,formula-zhuling-tang,formula-zhenwu-tang,formula-linggui-zhugan-tang#interactive-comparison) | [원문·배합·감별표](../formula-architecture/shanghan-family.md#water-formula-differential) · [금궤요략 담음·수기](../jingui-network/index.md#phlegm-fluid) |
+
 [본초도 나란히 비교하기](herb-comparisons.md#interactive-comparison) · [질문으로 근거 자료 찾기](../search-guide.md#question-search)
 
 ## 1. 보기·기혈 보익 계열

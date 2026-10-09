@@ -197,6 +197,8 @@ last_reviewed: 2026-08-22
 
 한 처방이 여러 편에 등장하는 지점을 찾으면 병명보다 증후 구조가 보입니다. 신기환은 허로·담음·소갈·전포, 당귀작약산은 임신병·부인잡병, 당귀생강양육탕은 한산·산후에서 만납니다. 각각의 앞뒤 조건과 생략된 원방의 교차 참조를 함께 읽습니다.
 
+원방을 읽은 뒤 [소건중탕·대건중탕 비교](../herbal-integrated/formula-structure.md?compare=formula-xiaojianzhong-tang,formula-dajianzhong-tang#interactive-comparison)에서 각 문서의 구성과 출전을 나란히 확인할 수 있습니다. [소건중탕](../learning/formulas.md?topic=소건중탕)과 [대건중탕](../learning/formulas.md?topic=대건중탕)의 방제학 학습은 해당 처방을 검색한 상태로 열리며, 방식 선택에서 관련 퀴즈로 전환할 수 있습니다. 금궤요략 원문은 위 편별 조문에서 계속 확인합니다.
+
 익숙한 처방도 이름을 구별해야 합니다. **소건중탕과 대건중탕, 저령산과 저령탕, 사심탕과 반하사심탕**은 이름 일부가 같아도 구성과 문맥이 다릅니다.
 
 ### 원방 확인 {#_17}
