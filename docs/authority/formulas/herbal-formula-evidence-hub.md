@@ -76,6 +76,22 @@ Motoo 등의 *Traditional & Kampo Medicine* **2025;12:63–73** 보고는 2024�
 
 주평가는 시험에서 미리 정한 핵심 질문이고 부평가는 추가 질문입니다. 긍정적인 부평가 결과도 가치가 있으나, 주평가에서 확인한 효과와 같은 강도로 설명하지 않습니다. 원문은 [일본 RCT 색인](../../research/rct-index.md#japan-kampo-rcts)에서 PMID·DOI로 이어집니다.
 
+### 호흡기·순환기·노인의학의 일본 비교시험 {#japan-nongastro-trials}
+
+일본 Kampo 연구는 소화기에만 한정되지 않습니다. 다음은 **기존 치료에 더했을 때의 호흡기 증상, 폐렴 발생, 심부전 환자의 체감 증상**을 비교한 사람 대상 연구입니다. 위 학회 선별 5편 및 핵심 성과 30편과 별도로 읽습니다.
+
+| 분야·논문 | 대상·설계·평가 | 확인된 성과와 적용 범위 |
+|---|---|---|
+| **호흡기: 보중익기탕(Hochuekkito)**, Shinozuka 2007·Tatsumi 2009, *Journal of the American Geriatrics Society* | 일본 25개 병원의 안정기 COPD 71명; 봉투법 무작위배정, 기존 치료＋TJ-41 34명 대 기존 치료 37명, 6개월 | 일본동양의학회 구조화 보고는 **SGRQ 증상점수 개선, 감기·COPD 악화 빈도 감소**를 보고합니다. 위약대조가 아닌 소규모 시험이며, 학회 보고와 원 논문을 함께 확인합니다. [공식 EKAT 보고](https://www.jsom.or.jp/ebm/ere/file/070009e.pdf) · [2007 PMID 17302677](https://pubmed.ncbi.nlm.nih.gov/17302677/) · [2009 PMID 19170793](https://pubmed.ncbi.nlm.nih.gov/19170793/) |
+| **호흡기·노인의학: 반하후박탕(Hangekobokuto)**, Iwasaki 2007, *Journal of the American Geriatrics Society* | 일본 2개 장기요양병원, 치매·신경질환이 있는 고령자 95명 무작위배정(47 대 48), 92명 완결자료; 12개월 위약대조·평가자 눈가림 | **폐렴 발생 4명 대 14명**, 원문 Cox 분석 상대위험 0.51(95% CI 0.27–0.84, P=0.008). 폐렴 사망의 상대위험은 0.41(95% CI 0.10–1.03)로 불확실해 사망 감소를 확정하지 않습니다. [PMID 17944889](https://pubmed.ncbi.nlm.nih.gov/17944889/) · [DOI 10.1111/j.1532-5415.2007.01448.x](https://doi.org/10.1111/j.1532-5415.2007.01448.x) |
+| **순환기: 목방기탕(Mokuboito)**, Ezaki 2019, *Journal of Cardiology* | 도코로자와 심장센터의 급성 비대상성 심부전 입원환자 40명; 단일기관 공개 무작위 예비시험, 표준치료＋목방기탕 대 표준치료; 10일째 또는 조기퇴원 시 평가 | 주평가인 **환자 평가 전반적 임상상태 VAS의 감소가 병용군에 더 큼**: −62.2±25.4mm 대 −33.0±30.6mm, P=0.001. 체중·부종·BNP·심초음파 지표의 군 간 변화 차이는 유의하지 않았습니다. 증상 개선 시험이며 입원·사망 감소를 입증한 시험과 구분합니다. [PMID 31272834](https://pubmed.ncbi.nlm.nih.gov/31272834/) · [DOI 10.1016/j.jjcc.2019.05.003](https://doi.org/10.1016/j.jjcc.2019.05.003) |
+
+보중익기탕의 2007·2009년 보고와 같은 연구사업의 학회 초록을 서로 독립된 임상시험으로 합산하지 않습니다. *American Journal of Respiratory and Critical Care Medicine*의 A638 보고는 **학회 초록**이므로 높은 IF의 정규 원저로 소개하지 않습니다. [보중익기탕의 COPD 종합근거](../../research/formulas/buzhong-yiqi-tang.md#copd)로 이어 읽을 수 있습니다.
+
+반하후박탕 시험에서는 치료 관련 이상반응이 관찰되지 않았다고 보고했지만, 95명 시험만으로 드문 이상반응까지 배제할 수는 없습니다. 폐렴 예방 결과를 이미 발생한 폐렴의 항균치료 효과로 확대하지 않으며, 삼킴·영양·구강관리와 함께 해석합니다. [반하후박탕 처방 해설](../../formulas/banxia-houpo-tang.md)에서 처방의 용도와 감별을 확인합니다. 급성 심부전 시험 역시 전문 입원진료와 표준치료에 **병용**한 결과입니다.
+
+저널 공식 안내의 현재 IF는 **Journal of the American Geriatrics Society 4.6**, **Journal of Cardiology 3.5**입니다([JAGS 공식 지표](https://agsjournals.onlinelibrary.wiley.com/journal/15325415) · [Journal of Cardiology 공식 지표](https://www.journal-of-cardiology.com/), 2026년 10월 확인). 전문 분야의 임상근거로 가치가 있지만, 아래 JAMA Network Open과 같은 IF 수준으로 표시하지 않습니다. IF는 저널 지표이며 개별 논문의 인용 횟수가 아닙니다.
+
 ### 일본 다기관 3상과 전국 코호트로 넓혀 읽기 {#japan-design-studies}
 
 위 Best RCTs 5편에 더해, 일본 26개 기관의 **대건중탕 간절제 3상 시험**은 발관 뒤 첫 배변을 평가했습니다. [일본임상종양학회 연계 저널의 209명 분석·평가항목](../../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial)에서 확인합니다.

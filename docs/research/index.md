@@ -35,6 +35,7 @@ last_reviewed: '2026-09-01'
 - [한약 처방 임상근거](formulas/index.md)
 - [질환별 현대 임상근거 카드](../authority/conditions/index.md)
 - [한약·처방 현대 임상근거](../authority/formulas/herbal-formula-evidence-hub.md)
+- [일본 호흡기·순환기·노인의학 Kampo 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)
 - [침·전침·약침 현대 임상근거](../evidence-integrated/acupuncture-evidence.md)
 
 ## 한약 처방별 연구
