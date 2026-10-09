@@ -1,15 +1,86 @@
 ---
 title: 연구·근거 안내
-description: 질환별 임상근거, 한약·처방, 대표 본초, 침·전침·약침, PMID·DOI와 전통지식·현대근거 통합 지도를 한곳에서 안내합니다.
+description: 한약·침·전침·추나·약침의 주요 임상 성과 18편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 status: 검토완료
 last_reviewed: '2026-09-05'
-hide:
-  - toc
 ---
 # 연구·근거 안내
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
+
+## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
+
+**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 18편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
+
+학술지 이름에 더해 **얼마나 좋아졌는지, 무엇과 비교했는지, 효과가 얼마나 이어졌는지**를 확인합니다. 국내 한의 임상시험, 해외 침 연구, 중국의 특정 표준화 한약제제 시험은 실제 연구된 치료를 명시해 소개합니다. 해외 제제의 수치를 국내 모든 탕약의 효과로 바꾸지 않습니다.
+
+### 인용 영향력이 높은 주요 저널에서 먼저 읽기 {#high-impact-journal-studies}
+
+**18편 중 12편은 JAMA·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다.
+
+| 저널 | 공식 안내의 IF·표기 기준 | 이 페이지에서 읽는 핵심 연구 |
+|---|---|---|
+| **JAMA** | **65.4** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jama/pages/for-authors) | [통심락 심근경색](#landmark-herbal) · [IBS 복합 한약](#landmark-herbal) · [전침 요실금](#landmark-acupuncture) |
+| **Nature Medicine** | **52.5** — Nature Portfolio 공식 저널 지표. [공식 지표](https://www.nature.com/nature-portfolio/about-journals/journal-metrics) | [QUEST 기력강심 심부전](#landmark-herbal) |
+| **The BMJ** | **55.1** — 공식 페이지의 JCR 2025 표기. [공식 안내](https://www.bmj.com/about-bmj/publishing-model?change_country=1) | [침의 편두통 예방](#landmark-acupuncture) |
+| **JAMA Internal Medicine** | **26.3** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors) | [침의 좌골신경통](#landmark-acupuncture) · [FOCUS 진리다](#landmark-herbal) |
+| **Annals of Internal Medicine** | **17.3** — ACP 공식 페이지의 2025 IF 표기. [공식 안내](https://www.acponline.org/clinical-information/journals-publications/annals-of-internal-medicine) | [침의 식후불편감·골반통·전침 변비](#landmark-acupuncture) |
+| **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) |
+
+위 수치는 **2026년 10월 확인한 저널 공식 안내**이며 논문 발표 당시의 IF나 논문 자체의 인용 횟수가 아닙니다. IF는 학술지의 인용 지표, PubMed는 논문 검색 데이터베이스입니다. JAMA 본지와 자매지는 서로 다른 저널이므로 수치를 섞지 않고, 실제 치료효과는 각 연구의 결과로 설명합니다.
+
+### 침·전침: 통증에서 소화·배뇨 기능까지 {#landmark-acupuncture}
+
+| 핵심 논문·규모 | 확인된 주요 성과 | 상세 결과·원문 |
+|---|---|---|
+| Liu 등, *JAMA*, 2017 · 복압성 요실금 여성 504명 | 6주 1시간 패드검사 누출량 감소의 군 간 차이 7.4g | [객관적 누출량 평가](../authority/electroacupuncture.md#ea-incontinence-trial) · [PMID 28655016](https://pubmed.ncbi.nlm.nih.gov/28655016/) |
+| Tu 등, *JAMA Internal Medicine*, 2024 · 좌골신경통 220명 배정, 216명 분석 | 4주 다리 통증 VAS 군 간 차이 약 16mm, 기능 차이 8.1점; 52주에도 이점 | [좌골신경통 시험](../evidence-integrated/acupuncture-evidence.md#sciatica-landmark) · [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) |
+| Xu 등, *BMJ*, 2020 · 편두통 150명 | 17–20주, 4주당 편두통 일수 감소가 가짜침보다 조정 평균 2.1일 더 큼 | [예방치료 시험](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) · [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) |
+| Yang 등, *Annals of Internal Medicine*, 2020 · 식후불편감증후군 278명 | 4주 전체 치료 반응률 추정치 83.0% 대 가짜침 51.6%; 치료 뒤 12주 추적 | [소화기 기능 시험](../evidence-integrated/acupuncture-evidence.md#pds-landmark) · [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) |
+| Sun 등, *Annals of Internal Medicine*, 2021 · 만성골반통 440명 | 8주 임상적으로 의미 있는 증상 개선 60.6% 대 가짜침 36.8%; 32주에도 차이 유지 | [골반통 시험](../evidence-integrated/acupuncture-evidence.md#cpps-landmark) · [PMID 34399062](https://pubmed.ncbi.nlm.nih.gov/34399062/) |
+| Liu 등, *Annals of Internal Medicine*, 2016 · 중증 기능성변비 1,075명 | 주당 완전자발배변 증가가 가짜침보다 0.90회 더 큼; 배변 기능을 직접 평가 | [변비 시험](../authority/electroacupuncture.md#ea-constipation-trial) · [PMID 27618593](https://pubmed.ncbi.nlm.nih.gov/27618593/) |
+| DeBar 등, *JAMA Network Open*, 2025 · 미국 고령자 요통 800명 | 6개월 기능장애가 30% 이상 개선된 조정 비율: 침 39.1%·유지치료 추가 침 43.8%, 통상진료 29.4% | [고령자 요통 시험](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) · [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) |
+| Vickers 등, *Journal of Pain*, 2018 · 39개 RCT, 20,827명 개인자료 메타분석 | 만성통증에서 무침 대조군과 가짜침 모두보다 통증·기능 개선; 1년에도 효과 대부분 유지 | [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) |
+
+### 한약: 증상 개선과 장기 임상 결과 {#landmark-herbal}
+
+| 핵심 논문·치료 | 확인된 주요 성과 | 상세 결과·원문 |
+|---|---|---|
+| Cheang 등, *Nature Medicine*, 2024 · QUEST 기력강심, 3,110명 주분석 | 심부전 표준치료에 추가: 입원·심혈관 사망 복합결과 25.02% 대 30.03%, HR 0.78 | [연구의 의미·사용 조건](../authority/formulas/herbal-formula-evidence-hub.md#herbal-major-outcomes) · [PMID 39095596](https://pubmed.ncbi.nlm.nih.gov/39095596/) |
+| Yang 등, *JAMA*, 2023 · CTS-AMI 통심락, 3,777명 주분석 | 심근경색 표준치료에 추가: 30일 주요 심장·뇌혈관 사건 3.4% 대 5.2%, RR 0.64 | [심혈관 사건 평가](../authority/formulas/herbal-formula-evidence-hub.md#herbal-major-outcomes) · [PMID 37874574](https://pubmed.ncbi.nlm.nih.gov/37874574/) |
+| Ji 등, *JAMA Internal Medicine*, 2024 · FOCUS 진리다, 885명 분석 | 내당능장애·대사 이상군: 당뇨병 진행 27.83% 대 42.66%, 정정 반영 HR 0.59 | [진행 예방 연구](../authority/formulas/herbal-formula-evidence-hub.md#herbal-major-outcomes) · [PMID 38829648](https://pubmed.ncbi.nlm.nih.gov/38829648/) |
+| Bensoussan 등, *JAMA*, 1998 · IBS 복합 한약 116명 | 16주 위약대조에서 장 증상과 일상생활 방해 개선; 맞춤방과 고정방을 함께 비교한 초기 핵심 시험 | [IBS 연구의 의의](../authority/formulas/herbal-formula-evidence-hub.md#herbal-digestive-trials) · [PMID 9820260](https://pubmed.ncbi.nlm.nih.gov/9820260/) |
+| Zhong 등, *Clinical Gastroenterology and Hepatology*, 2019 권호 · 마자인환 291명 | 8주 완전자발배변 반응률 68.0% 대 위약 33.0%; 센나와 8주 차이는 유의하지 않음 | [배변과 추적 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-digestive-trials) · [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) |
+| Kim 등, *Complementary Therapies in Medicine*, 2019 · 국내 소청룡탕 다기관 시험 | 4주 위약대조에서 통년성 비염의 코 증상과 삶의 질 개선 | [국내 처방 단위 연구](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/) |
+| Lee 등, *Journal of Ethnopharmacology*, 2026 · 국내 육군자탕·평위산 140명 | 6주 소화불량 증상점수 변화가 통상관리보다 각각 평균 1.63점·1.55점 더 유리 | [국내 비교효과 시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) |
+
+### 국내 한의치료: 추나·약침의 비교효과 {#korean-treatment-results}
+
+국내 의료기관에서 수행한 다음 시험은 실제 한의 진료에서 사용하는 치료의 **통증과 기능 회복**을 비교했습니다. 치료자·환자의 눈가림이 어려운 실용적 시험에서는 평가자 눈가림, 무작위배정, 추적관찰을 함께 살핍니다.
+
+| 핵심 논문·규모 | 치료·비교와 주요 성과 | 원문·기존 임상 자료 |
+|---|---|---|
+| Lee 등, *JAMA Network Open*, 2021 · 만성 목통증 108명, 국내 5개 병원 | 추나 또는 전기치료·경구약 통상진료, 5주 10회. 5주 통증 VAS 차이 16.8mm(95% CI 10.1–23.5), NDI 기능 차이 8.6%p. 1년 누적 통증·기능도 추나군에 유리 | [PMID 34259850](https://pubmed.ncbi.nlm.nih.gov/34259850/) · [DOI 10.1001/jamanetworkopen.2021.13757](https://doi.org/10.1001/jamanetworkopen.2021.13757) · [목통증 안내](../conditions/neck-pain.md) |
+| Park 등, *Journal of Pain Research*, 2023 · 만성요통 100명, 국내 4개 한방병원 | 약침 또는 물리치료, 5주 10회. 6주 NRS 차이 1.54점(95% CI 0.94–2.13), ODI 차이 4.52%p. 25주 추적에서도 유리한 경과 | [PMID 37554434](https://pubmed.ncbi.nlm.nih.gov/37554434/) · [약침 상세 결과](../authority/pharmacopuncture.md#pharmaco-back-trial) |
+| Lee 등, *Integrative Medicine Research*, 2026 · 척추관협착증 96명 | 약침과 통상치료를 12주 비교. 13주 주된 통증 NRS 개선 차이 2.7점, 기능·삶의 질 평가와 53주 추적 | [PMID 42099446](https://pubmed.ncbi.nlm.nih.gov/42099446/) · [협착증 시험의 대상·치료 조건](../authority/pharmacopuncture.md#lumbar-spinal-stenosis-trial) |
+
+이 연구들은 해당 치료 구성의 비교효과를 보여줍니다. 여러 치료를 함께 시행한 결과를 한약·침·약침 각각의 단독 효과로 분해하거나, 한 시험으로 모든 한의치료의 우열을 정하지 않습니다.
+
+### 임상 권고와 작용기전으로 이어진 성과 {#guideline-mechanism-results}
+
+**2022년 SIO–ASCO 암 통증 관리 지침**은 성인의 아로마타제 억제제 관련 관절통에 침을 권고합니다. 근거 수준은 중간, 권고 강도는 중등도입니다. 암 치료 중 증상 관리에 실제 권고로 연결된 사례이며, 암 자체를 치료한다는 의미와 구분합니다. [PMID 36122322](https://pubmed.ncbi.nlm.nih.gov/36122322/) · [Journal of Clinical Oncology 원문](https://doi.org/10.1200/JCO.22.01357)
+
+2021년 *Nature* 전침 연구는 생쥐에서 특정 감각신경 경로와 미주신경–부신 축을 규명했습니다. **자극 위치·강도가 생리 반응과 연결되는 신경해부학적 근거**로 읽습니다. 사람의 질환 치료효과는 위 임상시험처럼 별도로 평가합니다. [기전 연구 상세](../research/mechanism-preclinical-index.md#electroacupuncture-neural-circuit)
+
+### 결과의 크기를 쉽게 읽기 {#clinical-result-numbers}
+
+- **%p:** 두 집단의 비율 차이입니다. 25.02%와 30.03%의 차이는 5.01%p입니다.
+- **HR·RR:** 비교군 대비 상대적 위험을 표현합니다. HR 0.78은 추적 중 사건 위험이 상대적으로 낮았다는 뜻이며 ‘환자의 22%가 완치됐다’는 뜻이 아닙니다.
+- **VAS·NRS·기능점수:** 점수의 범위와 개선 방향을 확인합니다. 통증 VAS 100mm 척도와 NRS 0–10점은 그대로 같은 숫자로 비교하지 않습니다.
+- **반응률:** 연구가 정한 개선 기준에 도달한 비율입니다. 소화불량의 전체 반응과 모든 증상 소실, 골반통의 6점 이상 개선은 서로 다른 기준입니다.
+
+선별된 성과와 함께 [질환별 근거카드](../authority/conditions/index.md)의 후속 시험·메타분석을 읽으면 연구가 어떻게 축적되는지 확인할 수 있습니다. 치료의 전문성은 논문에서 확인된 성과를 환자의 진단·병증·복용약·생활과 연결해 적용하고 경과를 재평가하는 데 있습니다.
 
 ## 원하는 자료 바로 찾기
 

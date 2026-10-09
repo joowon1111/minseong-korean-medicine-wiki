@@ -19,6 +19,12 @@ description: 침구치료 근거·연구 — 경혈·경락·해부학·침·전
 침 + 통상치료 vs 통상치료
 ```
 
+## 치료 효과를 보여주는 대표 연구 {#acupuncture-core-results}
+
+[침·전침 핵심 임상 결과](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading)에서는 가짜침과 비교한 좌골신경통·편두통·소화불량·골반통 시험, 미국 고령자 요통 시험, 배변·요실금 기능 결과를 확인합니다. [39개 RCT·20,827명 개인자료 분석](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd)은 만성통증의 효과와 지속성을 함께 보여줍니다.
+
+[국내 추나·약침의 비교효과](../portal/evidence.md#korean-treatment-results)와 [암 치료 관련 관절통의 침 권고](../portal/evidence.md#guideline-mechanism-results)도 이어 읽을 수 있습니다. 아래의 프로토콜·비교군 설명은 이 성과를 실제 진료 조건과 연결하기 위한 안내입니다.
+
 ## 논문을 볼 때
 - 대상 질환·환자군
 - 경혈과 자침방법

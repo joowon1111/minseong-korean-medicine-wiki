@@ -9,6 +9,18 @@ last_reviewed: 2026-08-19
 
 여러 임상시험을 종합하는 연구는 개별 RCT보다 **전체 연구의 방향성과 일관성**을 파악하는 데 도움이 된다.
 
+## 핵심 종합 근거 {#landmark-synthesis}
+
+| 연구 | 설계·규모와 확인된 성과 | 원문·결과 해석 |
+|---|---|---|
+| Vickers 등, 2018 · 만성통증 | 무작위배정 은폐가 적절한 39개 RCT·20,827명의 개인자료 분석. 통증·기능과 효과 지속성을 평가 | [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) · [DOI 10.1016/j.jpain.2017.11.005](https://doi.org/10.1016/j.jpain.2017.11.005) · [대조군별 효과 크기](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) |
+| Li 등, 2026 · 기능성소화불량 | 23개 RCT·2,454명, GRADE 평가. 가짜침 대비 증상·삶의 질 개선을 중간~높은 확실성으로 평가 | [PMID 41737400](https://pubmed.ncbi.nlm.nih.gov/41737400/) · [DOI 10.3389/fmed.2026.1718632](https://doi.org/10.3389/fmed.2026.1718632) · [척도와 비교별 결과](../evidence-integrated/acupuncture-evidence.md#pds-landmark) |
+
+개인자료 메타분석은 연구별 요약값을 합치는 것에 더해 환자 수준 자료를 분석합니다. GRADE는 **결과·비교별 확실성 평가**이며 연구 수가 많거나 학술지 이름이 유명하다는 사실만으로 모든 결과의 확실성이 높아지는 것은 아닙니다.
+
+## 질환·처방별 종합 연구 {#topic-synthesis}
+
+
 | 연도 | 주제 | 처방·치료 | PMID | DOI | 연결 |
 |---|---|---|---|---|---|
 | 2023 | 요통 | 침 | `36585839` | `10.1142/S0192415X23500131` | [문서](../conditions/low-back-pain.md) |
