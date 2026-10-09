@@ -25,6 +25,18 @@ last_reviewed: 2026-09-15
 
 ## 침치료 근거
 
+### Gastroenterology ACTION: 복통과 설사를 함께 평가 {#action-ibs-trial}
+
+Yang 등의 2025년 **ACTION 다기관 무작위시험**은 중국 6개 병원에서 Rome IV 기준의 설사형 IBS 환자 **280명**을 침과 가짜침으로 배정했습니다. 18–75세 환자에게 **6주 15회** 시행하고 치료 뒤 12주 더 추적했습니다. 가짜침은 비경혈에 끝이 뭉툭한 침을 사용한 비교였습니다.
+
+6주 주평가는 **평균 최악 복통이 30% 이상 감소하면서 설사 일수가 50% 이상 감소**한 복합 반응입니다. 논문이 보고한 반응률은 **침 57.9% 대 가짜침 41.4%**, RR 1.40(P=0.008)이었습니다. 복통이나 설사 중 하나만 좋아진 비율이나 완치율과 구분합니다.
+
+군 간 차이는 3주부터 관찰됐고 추적기간에도 대체로 이어졌으나 **16주 시점에는 유의한 차이가 없었습니다**. 중대한 이상반응은 보고되지 않았습니다. 설사형 IBS에서 증상 두 축을 함께 평가한 주요 저널의 직접 비교 근거이며, 변비형·혼합형의 결과는 각각의 연구로 확인합니다.
+
+*Efficacy of ACupuncTure in Irritable bOwel syNdrome (ACTION): A Multicenter Randomized Controlled Trial.* [PMID 40441496](https://pubmed.ncbi.nlm.nih.gov/40441496/) · [DOI 10.1053/j.gastro.2025.05.016](https://doi.org/10.1053/j.gastro.2025.05.016)
+
+→ [주요 저널 연구 안내](../../portal/evidence.md#landmark-acupuncture) · [침치료 연구의 비교군 읽기](../../evidence-integrated/acupuncture-evidence.md#ibs-action-landmark)
+
 ### 2026년 sham 비경혈 침 비교 메타분석
 
 12개 무작위시험·1,105명을 포함한 2026년 *Gastroenterology* systematic review/meta-analysis에서는 침치료가 sham 비경혈 침보다 IBS 반응률과 치료 종료 시 전체 증상중증도에서 유리했고, 삶의 질에서도 개선이 보고됐습니다.

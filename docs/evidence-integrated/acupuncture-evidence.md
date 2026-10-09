@@ -9,7 +9,7 @@ last_reviewed: '2026-09-15'
 
 침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**을 먼저 읽고, 경혈·자극·횟수·비교군을 따라 실제 치료 조건을 확인하는 자료입니다.
 
-→ [한약·침·추나·약침 핵심 성과 26편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
+→ [한약·침·추나·약침 핵심 성과 27편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
 
 ## 만성통증 효과와 지속성을 확인한 개인자료 메타분석 {#chronic-pain-ipd}
 
@@ -29,6 +29,7 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 | 무릎 골관절염의 통증·관절기능도 개선되는가 | [Annals 570명·Lancet 294명 시험](../authority/conditions/knee-osteoarthritis.md#knee-landmark-trials) |
 | 편두통의 발작 횟수·두통일수를 줄일 수 있는가 | [JAMA Internal Medicine 발작 횟수](../authority/conditions/migraine.md#jama-migraine-prevention) · [BMJ 두통일수](#migraine-prevention-trial) |
 | 식후 더부룩함과 조기포만이 개선되는가 | [소화불량 반응과 증상 소실](#pds-landmark) |
+| 설사형 IBS의 복통과 설사가 함께 줄어드는가 | [Gastroenterology ACTION 다기관 시험](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | 골반통·배뇨 증상의 의미 있는 개선이 이어지는가 | [8주 치료와 32주 결과](#cpps-landmark) |
 | 유방암 호르몬치료 중 생기는 관절통도 완화되는가 | [미국 다기관 시험·52주 추적](#ai-arthralgia-landmark) |
 | 안정형 협심증의 반복 발작을 줄이는 병행근거가 있는가 | [표준 약물치료에 침을 더한 시험](#stable-angina-landmark) |
@@ -160,6 +161,12 @@ Yang 등의 2020년 *Annals of Internal Medicine* RCT는 Rome IV 식후불편감
 **전체 호전과 완전한 증상 소실을 따로 평가**하고 치료 뒤 12주까지 효과를 추적한 점이 의미 있습니다. 16주 평가 완료자는 228명(82%)으로, 탈락과 환자 보고 지표의 성격도 함께 살핍니다. [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) · [DOI 10.7326/M19-2880](https://doi.org/10.7326/M19-2880)
 
 2026년 업데이트 메타분석은 **23개 RCT·2,454명**을 종합했습니다. 가짜침 대비 소화불량 증상과 삶의 질 개선은 GRADE 평가에서 중간~높은 확실성으로 보고됐습니다. 예를 들어 195점 NDSI 증상척도의 평균 차이는 -14.46점, 100점 NDLQI 삶의 질 척도는 10.39점이었습니다. 확실성은 각 결과·비교별 평가이며 모든 침 적응증에 적용되는 등급은 아닙니다. [PMID 41737400](https://pubmed.ncbi.nlm.nih.gov/41737400/) · [DOI 10.3389/fmed.2026.1718632](https://doi.org/10.3389/fmed.2026.1718632)
+
+#### 설사형 IBS: 복통·설사의 복합 반응 {#ibs-action-landmark}
+
+2025년 *Gastroenterology* **ACTION 시험**은 280명에서 6주 침과 가짜침을 비교했습니다. 복통과 설사가 함께 개선된 반응률은 **57.9% 대 41.4%**였습니다. [질환별 상세 결과](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial)에서 복합 반응의 기준, 치료 횟수와 추적 시점별 차이를 확인합니다. [PMID 40441496](https://pubmed.ncbi.nlm.nih.gov/40441496/)
+
+배변빈도가 목표인 변비는 [1,075명 전침 시험과 291명 마자인환 시험](../authority/conditions/functional-constipation.md#csbm-reading)에서 완전자발배변의 정의와 치료 후 지속성을 함께 비교합니다.
 
 ### 비염·호흡기
 
