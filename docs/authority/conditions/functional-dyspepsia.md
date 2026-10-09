@@ -1,6 +1,10 @@
 # 기능성 소화불량 — 현대 임상근거 카드
 ## 임상 맥락
 식후 더부룩함·조기포만·명치통증·작열감과 '소화가 안 돼요', '먹으면 더부룩해요' 같은 환자 검색표현을 연결합니다.
+## 사람 대상 직접 비교시험 {#pds-direct-trial}
+
+식후포만·조기포만이 중심인 Rome IV 식후불편감증후군에서 시행한 **278명 가짜침 대조 RCT**는 전체 치료 반응과 세 주증상 소실을 따로 평가했습니다. [4주 결과와 치료 후 추적](../../evidence-integrated/acupuncture-evidence.md#pds-landmark)에서 개선 크기를 확인할 수 있습니다. 국내 한약의 비교효과는 [육군자탕·평위산 140명 시험](../formulas/herbal-formula-evidence-hub.md#korean-herbal-trials)으로 연결됩니다.
+
 ## 현대 임상연구
 - 2026 updated meta-analysis: **23 RCT·2,454명**. sham과 비교해 증상과 삶의 질이 개선됐고 usual care 및 위장운동촉진제 비교에서도 긍정적인 임상결과가 보고됐습니다. PMID `41737400`.
 - 2025 FGID meta-analysis: **29 RCT·5,100명**. sham 및 약물치료와 비교한 반응률에서 긍정적 결과. PMID `40850525`.

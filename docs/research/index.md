@@ -11,6 +11,12 @@ last_reviewed: '2026-09-01'
 
 연구유형의 의미는 [한의학 근거 읽는 법](../evidence-guide/index.md), 완성된 질환·치료 요약은 [출처·근거 카드](../authority/index.md)에서 확인합니다.
 
+## 주요 치료 성과부터 보기 {#clinical-landmark-index}
+
+[한의학 치료 핵심 성과 18편](../portal/evidence.md#landmark-clinical-results)에서는 침·전침 8편, 한약 7편, 국내 추나·약침 3편의 대상·비교군·결과를 먼저 읽을 수 있습니다. 이후 [무작위시험 원문 색인](rct-index.md#landmark-rcts), [개인자료 메타분석과 후속 종합 근거](meta-analysis-index.md#landmark-synthesis)로 이동하면 논문을 연구유형별로 확인할 수 있습니다.
+
+핵심 자료는 만성통증·좌골신경통·편두통·소화·배변·골반통·요실금의 기능 개선과, 특정 한약제제의 질병 진행·입원·심혈관 사건을 포함합니다. 기전과 지침은 임상시험과 별도로 [작용경로 연구](mechanism-preclinical-index.md#electroacupuncture-neural-circuit), [SIO–ASCO 권고](../portal/evidence.md#guideline-mechanism-results)에서 연결됩니다.
+
 ## 연구유형별 찾기
 
 | 찾는 자료 | 데이터베이스 |
