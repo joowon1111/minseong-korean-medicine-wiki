@@ -74,6 +74,8 @@ Chinese Text Project 전승문에는 다음과 같이 수록되어 있다.
 
 이는 '땀이 나면 계지탕, 안 나면 마황탕'이라는 기계적 규칙만을 뜻하지 않으며 맥증과 전체 병태를 함께 본다.
 
+[계지탕·마황탕을 나란히 비교](../herbal-integrated/formula-structure.md?compare=formula-guizhi-tang,formula-mahuang-tang#interactive-comparison)하면서 위의 증후 차이와 각 문서의 구성·복법을 대조해 보세요. 읽은 뒤에는 [계지탕 관련 학습카드·문제](../learning/formulas.md?topic=계지탕)에서 배합을, [상한론 계지탕 조문 학습](../learning/shanghanlun.md?topic=계지탕)에서 원문 조건을 복습할 수 있습니다. 학습 화면의 방식 선택에서 퀴즈로 바꿀 수 있습니다.
+
 | 비교 처방 | 구분하는 질문 |
 |---|---|
 | [마황탕](mahuang-tang.md) | 무한·전신통·천이 뚜렷한 풍한표실인가 |

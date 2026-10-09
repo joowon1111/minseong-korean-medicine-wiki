@@ -124,6 +124,8 @@ last_reviewed: 2026-09-06
 | [평위산](pingwei-san.md) | 습체·창만 | 소화기 습체가 중심이고 구갈·소변불리 연결은 약함 |
 | 오령산 | 수습·기화불리 | 갈증과 소변불리, 부종·두통·위장 증상이 수분 변화와 함께 움직임 |
 
+[오령산·저령탕·진무탕·영계출감탕을 함께 비교](../herbal-integrated/formula-structure.md?compare=formula-wuling-san,formula-zhuling-tang,formula-zhenwu-tang,formula-linggui-zhugan-tang#interactive-comparison)해 각 처방의 구성·출전과 위 감별표를 대조할 수 있습니다. 먼저 [오령산 관련 방제학 학습](../learning/formulas.md?topic=오령산)에서 배합을 확인한 뒤, [상한론 오령산 조문 학습](../learning/shanghanlun.md?topic=오령산)에서 갈증·음수·배뇨 조건을 복습해 보세요.
+
 ## 복용과 경과 관찰
 
 치료 전후에는 **아침·저녁 체중, 부종 부위, 갈증, 소변 횟수와 양, 두통·어지럼, 구토·대변, 혈압**을 함께 봅니다. 부종이 빠르게 심해지거나 호흡곤란·흉통·한쪽 다리 붓기, 소변량의 급격한 감소가 있으면 원인 질환 평가가 우선입니다.

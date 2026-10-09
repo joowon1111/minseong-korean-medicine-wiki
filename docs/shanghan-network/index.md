@@ -149,6 +149,8 @@ last_reviewed: 2026-08-20
 | [67조 · 영계출감탕](../classics/shanghanlun/clauses/taiyang-middle.md#clause-067) | 담음상역·온양화음 | 토하 뒤 심하역만·기상충·기립 시 현훈·침긴맥 | [영계출감탕](../formulas/linggui-zhugan-tang.md) · [복령](../herbs/poria.md) · [계지](../herbs/cinnamon-twig.md) |
 | [386조 · 이중환·이중탕](../classics/shanghanlun/clauses/huoluan.md#clause-386) | 중초허한·온중 | 토리·갈증의 한열 구분과 제형 | [이중환·이중탕](../formulas/lizhong-tang.md) · [인삼](../herbs/ginseng.md) · [건강](../herbs/dried-ginger.md) · [백출](../herbs/atractylodes.md) |
 
+조문을 읽은 뒤 [계지탕·마황탕의 구성 비교](../herbal-integrated/formula-structure.md?compare=formula-guizhi-tang,formula-mahuang-tang#interactive-comparison)로 이동하면 두 처방의 본문과 본초를 나란히 확인할 수 있습니다. [상한론 학습 화면](../learning/shanghanlun.md)에서는 관심 처방명·조문을 검색해 카드로 읽고 퀴즈로 복습합니다.
+
 사심탕류는 149조에서 비와 결흉을 먼저 나누고 154·157·158조의 대황황련사심탕·생강사심탕·감초사심탕으로 이어 읽습니다. 승기탕류도 대변 상태와 복약 뒤 반응을 확인하여 구성을 비교합니다.
 
 [네 수기 처방의 감별](../formula-architecture/shanghan-family.md#water-formula-differential)에서는 오령산·저령탕의 갈증과 진액 상태, 영계출감탕·진무탕의 현훈과 치료 이력, 원방의 약재·상대량·제형을 비교할 수 있습니다. 수기라는 말에 모두 묶기보다 각 조문이 더하는 조건을 먼저 확인합니다.

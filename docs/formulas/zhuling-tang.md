@@ -97,6 +97,8 @@ description: 저령·복령·택사·활석·아교로 수열호결과 음액 �
 
 오령산과는 저령·복령·택사가 공통입니다. 오령산의 **백출·계지**와 저령탕의 **활석·아교**를 비교하면 건비·화기와 청열·양음의 차이가 드러납니다. 약재 두 가지의 단순 치환으로 읽기보다 각 조문의 맥증·진액 상태를 먼저 봅니다. [네 수기 처방의 배합·감별](../formula-architecture/shanghan-family.md#water-formula-differential)
 
+[저령탕·오령산을 나란히 비교](../herbal-integrated/formula-structure.md?compare=formula-zhuling-tang,formula-wuling-san#interactive-comparison)하면서 공통 약재와 다른 약재를 각 문서에서 확인할 수 있습니다. [저령탕 관련 방제학 학습](../learning/formulas.md?topic=저령탕)과 [상한론 저령탕 조문 학습](../learning/shanghanlun.md?topic=저령탕)에서는 구성과 주치 조건을 나누어 복습할 수 있습니다.
+
 ## 검사·증상·경혈로 연결하기 {#urinary-care}
 
 [방광염](../conditions/cystitis.md)에서는 실제 감염과 필요한 항생제 치료를, [과민성방광](../conditions/overactive-bladder.md)에서는 절박뇨와 다른 원인을, [전립선비대증](../conditions/benign-prostatic-hyperplasia.md)에서는 폐색·잔뇨를 확인합니다. 이수라는 치법을 단순한 이뇨·해독·체중감량과 같은 의미로 설명하지 않습니다.
