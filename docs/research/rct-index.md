@@ -11,10 +11,11 @@ last_reviewed: 2026-08-19
 
 ## 주요 치료 성과의 원문 색인 {#landmark-rcts}
 
-[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 21편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 20편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
+[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 23편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 22편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
 
 | 연도 | 연구·대상 | 원문 식별자 | 결과와 적용 범위 |
 |---|---|---|---|
+| 2026 | Chen · JAMA Neurology · 대상포진후신경통 448명 | [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) · [DOI](https://doi.org/10.1001/jamaneurol.2026.1443) | [전침 통증·반응률](../authority/electroacupuncture.md#ea-postherpetic-trial) |
 | 2018 | Hershman · JAMA · 유방암 호르몬치료 관련 관절통 226명 | [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [DOI](https://doi.org/10.1001/jama.2018.8907) | [본시험 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
 | 2022 후속 추적 | Hershman · JAMA Network Open · 위 226명의 52주 평가, 191명 완료 | [PMID 36367721](https://pubmed.ncbi.nlm.nih.gov/36367721/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2022.41720) | [같은 시험의 장기추적](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
 | 2019 | Zhao · JAMA Internal Medicine · 안정형 협심증 404명 배정·398명 분석 | [PMID 31355870](https://pubmed.ncbi.nlm.nih.gov/31355870/) · [DOI](https://doi.org/10.1001/jamainternmed.2019.2407) | [발작 빈도와 병행치료](../evidence-integrated/acupuncture-evidence.md#stable-angina-landmark) |
@@ -28,6 +29,7 @@ last_reviewed: 2026-08-19
 | 2016 | Liu · Annals of Internal Medicine · 중증 기능성변비 1,075명 | [PMID 27618593](https://pubmed.ncbi.nlm.nih.gov/27618593/) · [DOI](https://doi.org/10.7326/m15-3118) | [상세 결과](../authority/electroacupuncture.md#ea-constipation-trial) |
 | 2024 | Cheang · Nature Medicine · QUEST 기력강심 3,110명 주분석 | [PMID 39095596](https://pubmed.ncbi.nlm.nih.gov/39095596/) · [DOI](https://doi.org/10.1038/s41591-024-03169-2) | [상세 결과](../formulas/qiliqiangxin.md) |
 | 2023 | Yang · JAMA · CTS-AMI 통심락 3,777명 주분석 | [PMID 37874574](https://pubmed.ncbi.nlm.nih.gov/37874574/) · [DOI](https://doi.org/10.1001/jama.2023.19524) | [상세 결과](../formulas/tongxinluo.md) |
+| 2024 | Dong · JAMA Network Open · TISS 통심락·뇌졸중 1,946명 분석 | [PMID 39325453](https://pubmed.ncbi.nlm.nih.gov/39325453/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2024.33463) | [90일 기능 회복](../formulas/tongxinluo.md) |
 | 2024 | Ji · JAMA Internal Medicine · FOCUS 진리다 885명 분석 | [PMID 38829648](https://pubmed.ncbi.nlm.nih.gov/38829648/) · [DOI](https://doi.org/10.1001/jamainternmed.2024.1190) | [상세 결과](../formulas/jinlida.md) |
 | 2019 권호 / 2018 온라인 | Zhong · Clinical Gastroenterology and Hepatology · 마자인환 291명 | [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) · [DOI](https://doi.org/10.1016/j.cgh.2018.04.005) | [상세 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-digestive-trials) |
 | 1998 | Bensoussan · JAMA · IBS 복합 한약 116명 | [PMID 9820260](https://pubmed.ncbi.nlm.nih.gov/9820260/) · [DOI](https://doi.org/10.1001/jama.280.18.1585) | [상세 결과](../authority/conditions/irritable-bowel-syndrome.md#jama-herbal-trial) |
@@ -39,13 +41,14 @@ last_reviewed: 2026-08-19
 
 ## 일본 Kampo 주요 무작위시험 {#japan-kampo-rcts}
 
-[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 21편 묶음과 별도로 연결한 5개 독립 시험입니다.
+[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 23편 묶음과 별도로 연결한 6개 독립 시험(Best RCTs 5편과 간절제 3상 시험)입니다.
 
 | 연도·저널 | 처방·연구 | PMID·DOI | 상세 결과 |
 |---|---|---|---|
 | 2018 · Neurogastroenterology & Motility | 육군자탕·DREAM·기능성소화불량 | [29498457](https://pubmed.ncbi.nlm.nih.gov/29498457/) · [10.1111/nmo.13319](https://doi.org/10.1111/nmo.13319) | [전체 치료효과·모집 조건](formulas/rikkunshito.md#japanese-fd-trials) |
 | 2014 · Neurogastroenterology & Motility | Suzuki·육군자탕·기능성소화불량 | [24766295](https://pubmed.ncbi.nlm.nih.gov/24766295/) · [10.1111/nmo.12348](https://doi.org/10.1111/nmo.12348) | [주평가와 명치 통증](formulas/rikkunshito.md#japanese-fd-trials) |
 | 2014 · Journal of Gastroenterology | 육군자탕·G-PRIDE·비미란성 역류질환 | [24535455](https://pubmed.ncbi.nlm.nih.gov/24535455/) · [10.1007/s00535-013-0896-9](https://doi.org/10.1007/s00535-013-0896-9) | [PPI 병용·삶의 질](formulas/rikkunshito.md#japanese-nerd-trial) |
+| 2015 권호 / 2014 온라인 · International Journal of Clinical Oncology | Shimada·대건중탕·간절제 후 장기능 | [24595550](https://pubmed.ncbi.nlm.nih.gov/24595550/) · [10.1007/s10147-014-0678-2](https://doi.org/10.1007/s10147-014-0678-2) | [26개 기관 3상 시험](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial) |
 | 2018 · Nutrition | Kaido·대건중탕·간이식 후 회복 | [29747091](https://pubmed.ncbi.nlm.nih.gov/29747091/) · [10.1016/j.nut.2018.02.022](https://doi.org/10.1016/j.nut.2018.02.022) | [섭취 회복 경과](../formulas/dajianzhong-tang.md#japanese-transplant-trial) |
 | 2015 · Cancer Chemotherapy and Pharmacology | Matsuda·반하사심탕·항암치료 구내염 | [25983022](https://pubmed.ncbi.nlm.nih.gov/25983022/) · [10.1007/s00280-015-2767-y](https://doi.org/10.1007/s00280-015-2767-y) | [지속기간과 발생률](../formulas/banxia-xiexin-tang.md#japanese-mucositis-trial) |
 

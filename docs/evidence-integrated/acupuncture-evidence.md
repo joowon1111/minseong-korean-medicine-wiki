@@ -9,7 +9,7 @@ last_reviewed: '2026-09-15'
 
 침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**을 먼저 읽고, 경혈·자극·횟수·비교군을 따라 실제 치료 조건을 확인하는 자료입니다.
 
-→ [한약·침·추나·약침 핵심 성과 21편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
+→ [한약·침·추나·약침 핵심 성과 23편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
 
 ## 만성통증 효과와 지속성을 확인한 개인자료 메타분석 {#chronic-pain-ipd}
 
@@ -23,6 +23,7 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 
 | 임상 질문 | 직접 비교한 핵심 결과 |
 |---|---|
+| 대상포진 뒤 지속되는 신경통도 완화되는가 | [JAMA Neurology 448명 다기관 전침 시험](../authority/electroacupuncture.md#ea-postherpetic-trial) |
 | 디스크성 좌골신경통의 통증·기능도 좋아지는가 | [4주 치료와 52주 추적](#sciatica-landmark) |
 | 고령자 요통에서 일상 기능이 회복되는가 | [미국 800명 실용적 시험](#older-adult-back-trial) |
 | 편두통이 생기는 날을 줄일 수 있는가 | [예방치료의 두통일수](#migraine-prevention-trial) |
