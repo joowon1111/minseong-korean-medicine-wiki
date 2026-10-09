@@ -58,6 +58,21 @@ last_reviewed: '2026-09-05'
 | Kim 등, *Complementary Therapies in Medicine*, 2019 · 국내 소청룡탕 다기관 시험 | 4주 위약대조에서 통년성 비염의 코 증상과 삶의 질 개선 | [국내 처방 단위 연구](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/) |
 | Lee 등, *Journal of Ethnopharmacology*, 2026 · 국내 육군자탕·평위산 140명 | 6주 소화불량 증상점수 변화가 통상관리보다 각각 평균 1.63점·1.55점 더 유리 | [국내 비교효과 시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) |
 
+### 일본 Kampo: 내과·소화기 진료와 처방 연구 {#japan-kampo-studies}
+
+**일본의 한약 연구는 내과·소화기 전문 진료, 다기관 위약대조시험, 학회 진료지침으로 이어집니다.** 일본내과학회지의 2021년 「내과 진료에서 한방의 역할: 최신 정보」는 내과의를 포함한 임상의의 의료용 한방제제 활용과 육군자탕·억간산 연구를 설명합니다. 학회의 임상 해설과 실제 효과를 비교한 RCT를 함께 읽으면 일본 의료계에서 한약을 어떻게 연구하고 사용하는지 구체적으로 확인할 수 있습니다.
+
+| 공신력 있는 일본 자료 | 먼저 읽을 내용 | 원문·상세 연결 |
+|---|---|---|
+| **일본내과학회지**, Shimada, 2021;110:817–823 | 내과 진료에서 Kampo의 역할과 연구·안전성 개요; 임상 해설 | [日本内科学会雑誌 원문](https://www.jstage.jst.go.jp/article/naika/110/4/110_817/_article/-char/ja) |
+| **일본내과학회지**, Manabe·Haruma, 2019;108:55–62 | 만성변비에서 배변뿐 아니라 복부팽만·복통을 함께 다루는 처방 활용; 임상 해설 | [만성변비 한방치료 원문](https://www.jstage.jst.go.jp/article/naika/108/1/108_55/_article/-char/ja/) |
+| **일본소화기학회 지침**, 2021판·2022년 영문 논문 | 기능성소화불량의 1차 치료 선택지에 **육군자탕** 포함 | [Journal of Gastroenterology·PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/) · [RCT와 권고의 연결](../research/formulas/rikkunshito.md#japanese-fd-trials) |
+| **Kampo Best RCTs**, 2024년 선별·2025년 권호 보고 | 이중맹검·위약대조, 저널 IF·인용과 임상적 의미를 고려한 **5개 시험** | [선별 방법](https://doi.org/10.1002/tkm2.1438) · [5편의 실제 결과](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence) |
+
+**Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
+
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 21편과 별도의 일본 연구 묶음으로 안내합니다.
+
 ### 국내 한의치료: 추나·약침의 비교효과 {#korean-treatment-results}
 
 국내 의료기관에서 수행한 다음 시험은 실제 한의 진료에서 사용하는 치료의 **통증과 기능 회복**을 비교했습니다. 치료자·환자의 눈가림이 어려운 실용적 시험에서는 평가자 눈가림, 무작위배정, 추적관찰을 함께 살핍니다.

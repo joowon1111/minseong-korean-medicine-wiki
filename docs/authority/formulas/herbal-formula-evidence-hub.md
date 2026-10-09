@@ -57,6 +57,32 @@ Wang 등의 2011년 *Annals of Internal Medicine* RCT는 중국 **11개 병원·
 
 국내 연구와 해외 연구를 연결할 때에는 처방명뿐 아니라 **실제 제형·구성·가감·병용치료**를 확인합니다. 이 성과들은 전문적인 진단·처방 아래 증상과 기능, 복용 안전성을 함께 관리하는 근거로 활용합니다.
 
+## 일본 Kampo의 주요 저널·처방별 임상근거 {#japan-kampo-evidence}
+
+일본동양의학회 EBM 위원회의 **EKAT(漢方治療エビデンスレポート)**는 한방제제 RCT의 연구 조건·결과·안전성을 구조화해 제공합니다. [공식 근거 자료실](https://www.jsom.or.jp/ebm/ekat/)에서 원 논문을 찾아 읽을 수 있습니다. 등재 자체가 모든 시험의 질이나 효과를 보증하는 것은 아닙니다.
+
+Motoo 등의 *Traditional & Kampo Medicine* **2025;12:63–73** 보고는 2024년 학회에서 선별한 **Kampo Best RCTs 5편**을 소개합니다. EKAT2022의 540편에서 이중맹검·위약대조시험을 추리고, 저널 IF·Google Scholar 인용과 임상적 의미를 평가한 선별입니다. 당시의 선별 기준을 충족한 대표 연구이며 현재 모든 논문의 인용 순위는 아닙니다. [DOI 10.1002/tkm2.1438](https://doi.org/10.1002/tkm2.1438)
+
+### 선별된 5개 위약대조시험 {#kampo-best-rcts}
+
+| 일본 연구·저널 | 대상·비교 | 확인된 결과와 읽을 지점 |
+|---|---|---|
+| **육군자탕·DREAM**, Tominaga, *Neurogastroenterology & Motility*, 2018 | 기능성소화불량 128명 배정, 56개 병원; 8주 위약대조 | **전체 치료효과(OTE) 분포 개선, P=0.019**; 조기포만·식후포만도 개선. [PMID 29498457](https://pubmed.ncbi.nlm.nih.gov/29498457/) · [상세](../../research/formulas/rikkunshito.md#japanese-fd-trials) |
+| **육군자탕**, Suzuki, *Neurogastroenterology & Motility*, 2014 | 기능성소화불량 247명 배정; 8주 위약대조 | 부평가인 **명치 통증 개선, P=0.04**. 주평가 전체 반응률 33.6% 대 23.8%는 유의하지 않음(P=0.09). [PMID 24766295](https://pubmed.ncbi.nlm.nih.gov/24766295/) · [상세](../../research/formulas/rikkunshito.md#japanese-fd-trials) |
+| **육군자탕·G-PRIDE**, Tominaga, *Journal of Gastroenterology*, 2014 | PPI 치료에도 증상이 남는 비미란성 역류질환 242명 배정; 라베프라졸에 병용 | **4주 정신적 삶의 질(SF-8 MCS)**에서 차이. 전체 역류·소화기 증상점수의 군 간 차이는 유의하지 않아 소화불량 시험과 구분. [PMID 24535455](https://pubmed.ncbi.nlm.nih.gov/24535455/) · [상세](../../research/formulas/rikkunshito.md#japanese-nerd-trial) |
+| **대건중탕**, Kaido, *Nutrition*, 2018 | 간이식 뒤 112명 등록·104명 분석, 일본 14개 기관; 위약대조 | 부평가인 **수술 후 경구·경장 섭취 열량의 회복 경과 개선, P=0.023**. 주평가인 7일째 열량·복부팽만·복통은 차이 없음. [PMID 29747091](https://pubmed.ncbi.nlm.nih.gov/29747091/) · [상세](../../formulas/dajianzhong-tang.md#japanese-transplant-trial) |
+| **반하사심탕**, Matsuda, *Cancer Chemotherapy and Pharmacology*, 2015 | 대장암 항암치료 관련 구내염; 93명 배정·90명 분석, 2주 위약대조 | 부평가인 **2등급 이상 구내염 지속기간 중앙값 5.5일 대 10.5일**(P=0.018). 발생률 주평가는 차이 없음. [PMID 25983022](https://pubmed.ncbi.nlm.nih.gov/25983022/) · [상세](../../formulas/banxia-xiexin-tang.md#japanese-mucositis-trial) |
+
+주평가는 시험에서 미리 정한 핵심 질문이고 부평가는 추가 질문입니다. 긍정적인 부평가 결과도 가치가 있으나, 주평가에서 확인한 효과와 같은 강도로 설명하지 않습니다. 원문은 [일본 RCT 색인](../../research/rct-index.md#japan-kampo-rcts)에서 PMID·DOI로 이어집니다.
+
+### 일본 학회지와 국제 저널을 구분해 읽기 {#japanese-journals-context}
+
+**일본내과학회지(日本内科学会雑誌)**의 [2021년 내과 진료 해설](https://doi.org/10.2169/naika.110.817)과 [2019년 만성변비 해설](https://doi.org/10.2169/naika.108.55)은 처방 활용과 치료 목표를 설명하는 학회 자료입니다. **Journal of Gastroenterology**는 [일본소화기학회의 공식 저널](https://link.springer.com/journal/535)이며, 학회는 영문 홈페이지에 **2025 Impact Factor 5.7**을 표기합니다([공식 안내](https://www.jsge.or.jp/en/), 2026년 10월 확인). 이 지표는 논문의 개별 인용 횟수나 치료효과의 크기가 아닙니다.
+
+*Neurogastroenterology & Motility*, *Nutrition*, *Cancer Chemotherapy and Pharmacology*의 위 논문은 **일본 의료기관 연구를 국제 전문 저널에 발표한 사례**입니다. 이들 저널을 일본 학회지로 표기하지 않습니다. 일본소화기학회의 **2021년 기능성소화불량 지침**은 육군자탕을 강한 권고·근거수준 A로 제시하고 1차 치료 선택지에 포함합니다. [학회 지침 원문](https://www.jsge.or.jp/committees/guideline/guideline/pdf/fd2021r_.pdf) · [2022년 영문 지침](https://doi.org/10.1007/s00535-021-01843-7)
+
+대건중탕·반하사심탕은 고방, 육군자탕은 후세방 계열입니다. 일본의 시험용 엑스제와 국내 원방·가감 탕약은 구성·규격·제형을 대조해 적용하며, 제제 g을 원약재 g으로 환산하지 않습니다. 실제 복용은 한의사의 진찰·처방과 병용약 확인에 따릅니다.
+
 ## 증상과 진료 분야로 찾기 {#_2}
 
 | 분야 | 환자가 자주 찾는 표현 | 대표 처방·근거 |
