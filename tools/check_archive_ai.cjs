@@ -41,8 +41,9 @@ const answer={schema:1,sufficient:true,paragraphs:[{text:'사군자탕은 인삼
     const offline=await browser.newContext({viewport}), offlinePage=await offline.newPage();
     await offlinePage.route('**/assets/archive-tools/ai-config.json',r=>r.fulfill({json:{schema:1,endpoint:null}}));
     await offlinePage.goto(base+'/search-guide/?q=사군자탕'); const unavailable=offlinePage.locator('.archive-ai');
-    await unavailable.getByText(/AI 서버 연결을 준비 중입니다/).waitFor({timeout:60000});
-    assert.equal(await unavailable.getByRole('button',{name:'출처 기반 AI 답변 생성'}).isDisabled(),true); await offline.close();
+    await offlinePage.locator('[data-archive-finder] article').first().waitFor({timeout:60000});
+    assert.equal(await unavailable.count(),0);
+    assert.equal((await offlinePage.locator('[data-archive-finder]').innerText()).includes('AI 서버 연결을 준비'),false); await offline.close();
   }} finally {await browser.close();}
   console.log('Archive AI browser checks passed: source rendering, escaped text, no automatic submission, failures, retry, cancellation and unavailable server; mobile and desktop.');
 })().catch(error=>{console.error(error);process.exitCode=1;});

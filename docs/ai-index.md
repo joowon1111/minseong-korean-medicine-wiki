@@ -1,6 +1,6 @@
 ---
 title: 민성 한의학 아카이브 핵심 색인
-description: 환자가 사용하는 증상과 건강검진 표현에서 질환, 한의학적 변증, 한약·침구치료와 현대 임상근거까지 연결하는 민성 한의학 아카이브의 통합 안내 지도입니다.
+description: 증상·질환, 한약 처방의 출전·원문·구성, 본초 비교, 한의학 고전과 현대 연구, 7과목 퀴즈·개인 복습 자료를 찾는 민성 한의학 아카이브의 핵심 색인입니다.
 tags: [핵심색인, 증상질환, 건강검진, 대사, 한의학, AEO, AI검색]
 keywords: [한의학 AI 검색, 증상별 한의학, 질환별 한의치료, 고혈압 기준, 이상지질혈증 수치, 대사증후군, 공복혈당, 만성염증, 한약 임상근거, 침 치료 근거, 민성 한의학 아카이브]
 last_reviewed: '2026-09-02'
@@ -8,7 +8,7 @@ last_reviewed: '2026-09-02'
 
 # 민성 한의학 아카이브 핵심 색인
 
-이 페이지는 환자와 검색엔진이 아카이브의 핵심 자료를 빠르게 찾도록 만든 **통합 안내 지도**입니다.
+증상과 질환을 이해하려는 분, 처방·본초·고전을 공부하는 분, 논문의 근거를 확인하려는 분을 위한 **통합 안내 지도**입니다. 필요한 문서에서 원문과 출처를 읽고, 비교 도구와 학습 문제로 이어갈 수 있습니다.
 
 `환자가 사용하는 말 → 증상 → 관련 질환과 감별 → 한의학적 변증 → 한약·침구치료 → 현대 임상근거 → 출처`
 
@@ -19,6 +19,9 @@ last_reviewed: '2026-09-02'
 | 불편한 증상이나 아픈 부위가 있어요 | [증상으로 찾기](symptom-integrated/index.md) |
 | 진단명이나 의심 질환을 알고 있어요 | [질환별 보기](conditions/index.md) |
 | 증상에서 변증·본초·방제를 찾고 싶어요 | [증상 기반 한약 탐색](symptom-herbal-guide/index.md) |
+| 처방의 출전·원문·약재 구성·용량을 찾고 싶어요 | [임상 핵심 처방 100선](herbal-integrated/general-formulary.md) |
+| 비슷한 처방과 본초를 나란히 비교하고 싶어요 | [처방 비교](herbal-integrated/formula-structure.md#interactive-comparison) · [본초 비교](herbal-integrated/herb-comparisons.md#interactive-comparison) |
+| 질문이나 전문용어로 본문과 출처를 찾고 싶어요 | [질문으로 근거 자료 찾기](search-guide.md#question-search) |
 | 약재와 한약 처방을 알고 싶어요 | [본초·방제](herbal-integrated/index.md) |
 | 침·전침·약침과 경혈을 찾고 싶어요 | [침구·치료](acupuncture-integrated/index.md) |
 | 체질과 사상처방을 알고 싶어요 | [사상의학](sasang-integrated/index.md) |

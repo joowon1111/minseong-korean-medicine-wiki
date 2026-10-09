@@ -1,9 +1,9 @@
 ---
-title: 주요 본초 비교·감별
+title: 본초 비교·감별 — 성미·귀경·효능·처방 배합의 차이
 tags: [본초, 비교, 감별, 임상본초]
 status: 검토완료
 last_reviewed: '2026-09-18'
-description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
+description: 계지·육계, 시호·향부자, 맥문동·천문동 등 유사 본초의 약용 부위·성미·귀경·전통 효능과 처방 배합을 비교합니다. 본초 2~4개를 선택해 원문 문서와 관련 처방을 함께 읽을 수 있습니다.
 ---
 # 주요 본초 비교·감별
 
@@ -14,6 +14,8 @@ description: 주요 본초 비교·감별 — 민성 한의학 아카이브의 �
 본초를 2~4개 선택하면 **약용 부위·성미·귀경·전통 효능·배합**을 나란히 확인할 수 있습니다. 원문에 기재된 내용만 표시하며, 요약에 없는 항목은 본문으로 연결합니다. 본문 연결은 관련 자료 탐색용이며 모든 링크가 처방의 실제 구성약을 뜻하지는 않습니다.
 
 <div data-archive-compare="herb"><p>비교 자료를 준비하고 있습니다. 아래 본초군별 비교표에서도 감별점을 확인할 수 있습니다.</p></div>
+
+**비교 예시:** [계지와 육계 나란히 보기](herb-comparisons.md?compare=herb-cinnamon-twig,herb-cinnamon-bark#interactive-comparison). 차이가 드러나는 약용 부위와 처방 문맥을 읽고, [본초학 학습 자료](../learning/herbs.md)에서 감별 문제를 풀어 보세요.
 
 [처방 구조 비교](formula-structure.md#interactive-comparison) · [본초학 문제 풀기](../learning/index.md?subject=herbs)
 
