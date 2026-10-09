@@ -11,10 +11,14 @@ last_reviewed: 2026-08-19
 
 ## 주요 치료 성과의 원문 색인 {#landmark-rcts}
 
-[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 18편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 17편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다.
+[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 21편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 20편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
 
 | 연도 | 연구·대상 | 원문 식별자 | 결과와 적용 범위 |
 |---|---|---|---|
+| 2018 | Hershman · JAMA · 유방암 호르몬치료 관련 관절통 226명 | [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [DOI](https://doi.org/10.1001/jama.2018.8907) | [본시험 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
+| 2022 후속 추적 | Hershman · JAMA Network Open · 위 226명의 52주 평가, 191명 완료 | [PMID 36367721](https://pubmed.ncbi.nlm.nih.gov/36367721/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2022.41720) | [같은 시험의 장기추적](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
+| 2019 | Zhao · JAMA Internal Medicine · 안정형 협심증 404명 배정·398명 분석 | [PMID 31355870](https://pubmed.ncbi.nlm.nih.gov/31355870/) · [DOI](https://doi.org/10.1001/jamainternmed.2019.2407) | [발작 빈도와 병행치료](../evidence-integrated/acupuncture-evidence.md#stable-angina-landmark) |
+| 2011 | Wang · Annals of Internal Medicine · H1N1 독감 복합탕제 410명 | [PMID 21844547](https://pubmed.ncbi.nlm.nih.gov/21844547/) · [DOI](https://doi.org/10.7326/0003-4819-155-4-201108160-00005) | [해열시간과 적용 범위](../authority/formulas/herbal-formula-evidence-hub.md#herbal-influenza-trial) |
 | 2024 | Tu · JAMA Internal Medicine · 디스크성 좌골신경통 216명 분석 | [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) · [DOI](https://doi.org/10.1001/jamainternmed.2024.5463) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#sciatica-landmark) |
 | 2025 | DeBar · JAMA Network Open · 고령자 요통 800명 | [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2025.31348) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) |
 | 2020 | Xu · BMJ · 편두통 150명 | [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) · [DOI](https://doi.org/10.1136/bmj.m697) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) |
