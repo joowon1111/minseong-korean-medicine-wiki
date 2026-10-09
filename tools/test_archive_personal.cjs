@@ -40,6 +40,7 @@ test('search ranks named formula, finds aliases and filters evidence without inv
   assert.ok(prompt.includes('확인되지 않는 출전·구성·용량은 추정하지'));
   assert.equal(tools.safeURL('javascript:alert(1)'),'#');
   assert.equal(tools.safeURL('//external.com'),'#');
+  assert.equal(tools.safeURL('/\\external.com'),'#');
 });
 
 test('a comparative query prioritizes both named formulas over generic comparison vocabulary', () => {

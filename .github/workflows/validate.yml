@@ -27,6 +27,10 @@ jobs:
       - run: python tools/build_ai_knowledge_layer.py
       - name: Build archive comparison and passage search
         run: python tools/build_archive_tools.py
+      - name: Validate AI server bundle
+        run: npx --yes wrangler@4.149.0 deploy --dry-run --config services/archive-ai/wrangler.jsonc --outdir "$RUNNER_TEMP/archive-ai-bundle"
+      - name: Build public AI connection configuration
+        run: python tools/build_archive_ai_config.py
 
       - run: mkdocs build
       - run: python tools/audit_internal_links.py --site
@@ -39,6 +43,7 @@ jobs:
           python -m http.server 8766 --bind 127.0.0.1 --directory site > "$RUNNER_TEMP/guide-server.log" 2>&1 &
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_english_guide.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_archive_tools.cjs
+          NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_archive_ai.cjs
       - name: Keep archive browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
