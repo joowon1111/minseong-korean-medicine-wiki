@@ -28,13 +28,13 @@
   api.mount=function(root,question,kind) {
     const section=make('section',undefined,{class:'archive-ai','aria-label':'아카이브 AI 답변'}), title=make('h3','아카이브 AI 답변'), status=make('p','AI 서버 연결을 확인하고 있습니다.',{role:'status'}), output=make('div'), generate=make('button','출처 기반 AI 답변 생성',{type:'button',disabled:''}), cancel=make('button','생성 취소',{type:'button',hidden:''}), controls=make('div',undefined,{class:'archive-controls'});
     const disclosure=make('p','생성을 누르면 질문과 아카이브 발췌가 AI 서버와 OpenAI에 전송됩니다. 이름·연락처·환자 개인정보는 입력하지 마세요. 답변의 근거 문단을 함께 확인할 수 있습니다.');
-    controls.append(generate,cancel); section.append(title,status,disclosure,controls,output); root.append(section);
+    controls.append(generate,cancel); section.append(title,status,disclosure,controls,output); section.hidden=true;
     let server=null, controller=null, sequence=0;
     config().then(async value=>{
       if (!value) return;
       const response=await global.fetch(value+'/health',{signal:AbortSignal.timeout(8000)}); const health=await response.json();
       if (response.ok && health.schema===1 && health.ready===true && health.provider==='OpenAI' && health.archive==='https://wiki.minseong.co.kr') server=value;
-    }).catch(()=>{}).finally(()=>{if (!section.isConnected) return; generate.disabled=!server; status.textContent=server ? '검색한 질문을 바탕으로 아카이브 자료를 다시 찾아 답변을 생성합니다.' : messages.not_configured; disclosure.hidden=!server;});
+    }).catch(()=>{}).finally(()=>{if (sequence!==0 || !root.isConnected || !server) return; root.prepend(section); section.hidden=false; generate.disabled=false; status.textContent=server ? '검색한 질문을 바탕으로 아카이브 자료를 다시 찾아 답변을 생성합니다.' : messages.not_configured; disclosure.hidden=!server;});
     cancel.addEventListener('click',()=>{sequence++; controller?.abort(); controller=null; generate.disabled=!server; cancel.hidden=true; status.textContent='답변 생성을 취소했습니다.'; section.removeAttribute('aria-busy');});
     generate.addEventListener('click',async()=>{
       if (!server || controller) return;

@@ -38,6 +38,30 @@ For a single topic, use the page index to retrieve its page-sized JSON document 
 - 고전·역사 허브: https://wiki.minseong.co.kr/pillar/classics-history/
 - 현대 임상근거 허브: https://wiki.minseong.co.kr/pillar/clinical-evidence/
 
+## Formula comparison, classics and learning
+
+- 처방 출전·원문·구성·용량: https://wiki.minseong.co.kr/herbal-integrated/general-formulary/
+- 처방 구조·비교: https://wiki.minseong.co.kr/herbal-integrated/formula-structure/
+- 본초 비교·감별: https://wiki.minseong.co.kr/herbal-integrated/herb-comparisons/
+- 질문으로 본문과 출처 찾기: https://wiki.minseong.co.kr/search-guide/
+- 상한론 지식망: https://wiki.minseong.co.kr/shanghan-network/
+- 동의보감 지식망: https://wiki.minseong.co.kr/donguibogam-network/
+- 동의수세보원 지식망: https://wiki.minseong.co.kr/donguisusebowon-network/
+- 기초 한의학 퀴즈 & 학습실: https://wiki.minseong.co.kr/learning/
+- 기초 해부학: https://wiki.minseong.co.kr/learning/anatomy/
+- 경혈학: https://wiki.minseong.co.kr/learning/acupoints/
+- 침구학: https://wiki.minseong.co.kr/learning/acupuncture/
+- 본초학: https://wiki.minseong.co.kr/learning/herbs/
+- 방제학: https://wiki.minseong.co.kr/learning/formulas/
+- 상한론 학습: https://wiki.minseong.co.kr/learning/shanghanlun/
+- 사상의학·동의수세보원 학습: https://wiki.minseong.co.kr/learning/sasang/
+
+These HTML pages include readable summaries, comparison tables, source links and
+study explanations without running JavaScript. Interactive tools supplement that
+text. Prefer canonical HTML links when citing and distinguish original texts,
+later interpretations and modern research. Quiz answers and local study records
+are learning aids, not clinical instructions or an assessment of a person's health.
+
 ## Symptom and clinical navigation
 
 - 통증·근골격 허브: https://wiki.minseong.co.kr/pillar/pain-musculoskeletal/
