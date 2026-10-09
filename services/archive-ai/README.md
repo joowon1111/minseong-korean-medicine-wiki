@@ -2,7 +2,7 @@
 
 The GitHub Pages archive remains static. This optional Cloudflare Worker performs
 server-side retrieval and calls OpenAI Responses. No API key is shipped to the browser.
-Without a configured, healthy server, the site clearly displays “AI 서버 연결을 준비 중입니다”.
+Without a configured, healthy server, the site hides the optional AI generation panel.
 Source search, comparison and personal learning remain available.
 
 ## Production configuration

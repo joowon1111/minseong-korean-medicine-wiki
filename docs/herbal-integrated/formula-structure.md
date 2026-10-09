@@ -1,9 +1,9 @@
-﻿---
-title: 처방 구조·비교
+---
+title: 한약 처방 구조·비교 — 구성·배합·유사 처방 감별
 tags: [방제학, 처방구조, 비교감별, 임상추론]
 status: 검토완료
 last_reviewed: 2026-08-20
-description: 처방 구조·비교 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
+description: 사군자탕·육군자탕, 사물탕·팔물탕·십전대보탕 등 유사 한약 처방의 구성과 배합 차이를 비교합니다. 처방 2~4개를 선택해 출전·구성·본초 문서를 나란히 확인하고 방제학 문제로 복습할 수 있습니다.
 ---
 # 처방 구조·비교
 
@@ -14,6 +14,8 @@ description: 처방 구조·비교 — 민성 한의학 아카이브의 관련 �
 처방을 2~4개 선택하면 **구조·법제·배합축**을 나란히 볼 수 있습니다. 출전·구성·용량은 각 처방에서 확인한 본문 발췌와 연결합니다. 본문에서 연결된 본초를 눌러 약재의 역할을 읽고, 관련 문제로 이어서 복습해 보세요. 출전·판본·제형이 다른 약량을 하나의 기준으로 합치지 않습니다.
 
 <div data-archive-compare="formula"><p>비교 자료를 준비하고 있습니다. 아래 계열별 비교표에서도 처방을 살펴볼 수 있습니다.</p></div>
+
+**비교 예시:** [사군자탕과 육군자탕 나란히 보기](formula-structure.md?compare=formula-sijunzi-tang,formula-liujunzi-tang#interactive-comparison). 처방 이름을 눌러 개별 문서의 출전·구성·주치를 읽고, [방제학 학습 자료](../learning/formulas.md)에서 배합 차이를 복습할 수 있습니다.
 
 [본초도 나란히 비교하기](herb-comparisons.md#interactive-comparison) · [질문으로 근거 자료 찾기](../search-guide.md#question-search)
 

@@ -1,5 +1,5 @@
 ---
-title: 사이트 검색 안내
+title: 한의학 자료 검색 — 처방·본초·고전·현대 연구
 description: 민성 한의학 아카이브에서 환자 표현과 전문용어로 증상·질환·본초·방제·경혈·고전·현대 연구를 찾는 방법을 안내합니다.
 tags: [검색, 안내, 태그]
 status: 검토완료
@@ -18,9 +18,18 @@ search:
 
 <div data-archive-finder><p>질문 검색을 준비하고 있습니다. 상단 검색창도 함께 이용할 수 있습니다.</p></div>
 
-근거 검색은 브라우저에서 처리합니다. AI 서버가 연결되면 **출처 기반 AI 답변 생성**을 눌러 사이트 안에서 설명을 읽을 수 있습니다. 서버가 아카이브에서 자료를 다시 찾고, 답변의 문단마다 출처와 실제 발췌를 함께 표시합니다. 자료가 부족하거나 인용을 확인할 수 없으면 그 상태를 알려 줍니다. 생성 버튼을 누를 때 질문과 발췌가 AI 서버 및 OpenAI에 전송됩니다. 개인정보는 입력하지 마세요.
+검색한 자료는 **문서 제목·해당 문단·본문 링크**로 확인할 수 있습니다. 고전의 원문과 해석, 처방의 출전·구성·용량, 본초의 성미·귀경·배합, 현대 연구의 대상·결과·한계를 문서 안에서 함께 읽어 보세요. 근거 자료 검색은 브라우저에서 처리하며 별도의 가입이나 유료 API 설정이 필요하지 않습니다.
 
-서버가 연결되지 않았거나 답변을 기다리는 동안에도 본문 발췌를 읽을 수 있습니다. **질문·출처 복사**로 발췌와 링크를 묶어 ChatGPT에서 질문할 수도 있습니다. AI가 제시한 출전·해석·구성·용량은 연결된 원문에서 확인하세요.
+ChatGPT에서 자료를 함께 읽고 싶다면 **질문·출처 복사**를 눌러 발췌와 링크를 붙여 넣을 수 있습니다. 복사만으로 질문이 외부 AI에 자동 전송되지는 않습니다. 답변에 제시된 출전·해석·구성·용량은 연결된 원문에서 확인하세요.
+
+| 찾으려는 자료 | 바로 읽을 자료 | 이어서 활용하기 |
+|---|---|---|
+| 한약 처방의 출전·원문·구성·용량 | [임상 핵심 처방 100선](herbal-integrated/general-formulary.md) | [처방을 선택해 비교](herbal-integrated/formula-structure.md#interactive-comparison) |
+| 비슷한 본초의 성미·귀경·효능과 차이 | [본초 비교·감별](herbal-integrated/herb-comparisons.md) | [본초학 카드와 해설 문제](learning/herbs.md) |
+| 상한론의 조문·치법·처방 | [상한론 지식망](shanghan-network/index.md) | [상한론 학습·퀴즈](learning/shanghanlun.md) |
+| 동의보감의 원문과 분야별 자료 | [동의보감 지식망](donguibogam-network/index.md) | [원문 열람·검색](classics/donguibogam/original.md) |
+| 동의수세보원의 체질별 병증·처방 | [동의수세보원 지식망](donguisusebowon-network/index.md) | [사상의학 학습·퀴즈](learning/sasang.md) |
+| 논문의 연구 설계·결과·출처 | [연구·근거](evidence-integrated/index.md) | [참고문헌 데이터베이스](research/references/index.md) |
 
 [처방 비교](herbal-integrated/formula-structure.md#interactive-comparison) · [본초 비교](herbal-integrated/herb-comparisons.md#interactive-comparison) · [개인 학습](learning/index.md#practice)
 

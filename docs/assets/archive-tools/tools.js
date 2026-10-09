@@ -66,7 +66,7 @@
         const d = await data('passages'); if (ticket !== seq || !root.isConnected) return;
         const question = query.value.trim(), scope = kind.value;
         cancelAI = global.MinseongArchiveAI?.mount(ai, question, scope);
-        const rows = search(d.passages, question, scope); status.textContent = rows.length ? rows.length + '개 관련 발췌 · 검색 결과는 AI 생성 답변이 아닙니다.' : '자료를 찾지 못했습니다. 처방명·본초명·핵심 증상으로 좁혀 보세요.';
+        const rows = search(d.passages, question, scope); status.textContent = rows.length ? rows.length + '개 관련 본문 발췌 · 각 문서에서 출처를 확인하세요.' : '자료를 찾지 못했습니다. 처방명·본초명·핵심 증상으로 좁혀 보세요.';
         for (const r of rows) { const article = el('article'); article.append(el('h3', undefined)); article.firstChild.append(link(r.title, r.url)); article.append(el('p', r.heading), el('p', r.text), link('본문과 출처 확인', r.url)); results.append(article); }
         if (rows.length) {
           const text = prompt(query.value, rows); const details = el('details'); details.append(el('summary', 'AI에 보낼 질문과 발췌 확인'), el('pre', text));

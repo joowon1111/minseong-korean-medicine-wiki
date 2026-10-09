@@ -36,7 +36,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       await finder.getByRole('button',{name:'근거 자료 찾기'}).click();
       await finder.locator('article').first().waitFor({timeout:60000});
       assert.ok((await finder.locator('article').first().innerText()).includes('사군자탕'));
-      assert.ok((await finder.innerText()).includes('AI 생성 답변이 아닙니다'));
+      assert.ok((await finder.innerText()).includes('관련 본문 발췌'));
       await finder.getByText('AI에 보낼 질문과 발췌 확인').click();
       assert.ok((await finder.locator('pre').innerText()).includes('https://wiki.minseong.co.kr'));
       await page.screenshot({path:`archive-browser-results/${name}-search.png`,fullPage:false});
