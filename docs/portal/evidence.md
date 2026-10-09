@@ -97,7 +97,7 @@ last_reviewed: '2026-09-05'
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 30편과 별도의 일본 연구 묶음으로 안내하며, 월비가출탕의 비무작위시험도 RCT와 구분해 연결합니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)에서 대상·결과·저널 지표를 함께 확인하세요. 위의 국제·국내 핵심 30편과 별도의 일본 연구 묶음으로 안내하며, 월비가출탕의 비무작위시험도 RCT와 구분해 연결합니다.
 
 ### 규모·설계·저널을 함께 읽는 방법 {#study-design-reading}
 
