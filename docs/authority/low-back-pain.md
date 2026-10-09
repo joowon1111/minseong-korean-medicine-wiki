@@ -25,6 +25,14 @@ last_reviewed: 2026-08-19
 | 개인자료 메타분석, 39 RCT·20,827명 | 요통을 포함한 만성통증 연구 | 만성통증 전반의 효과·지속성을 살피는 자료입니다. 전체 표본이 모두 요통 환자인 것은 아닙니다. [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) |
 | 독일 다기관 RCT, 1,162명 | 만성요통의 침·가짜침·통상치료 비교 | 비교군별 결과와 임상적으로 의미 있는 반응 기준을 원문에서 확인하는 대표 시험입니다. [PMID 17893311](https://pubmed.ncbi.nlm.nih.gov/17893311/) |
 
+## 국제 지침과 요통 연구 {#international-back-guidelines}
+
+**미국내과학회 ACP의 2017년 Annals 지침**은 만성요통의 초기 비약물치료에 침을 포함합니다. 권고 2는 강한 권고이며 침 관련 근거는 중간 수준입니다. **WHO의 2023년 지침**은 성인·고령자의 만성 일차성 요통에서 침 등 자침치료를 치료계획 일부로 제공할 수 있다고 조건부 권고합니다. 각 지침의 대상 정의와 근거 등급을 따로 읽습니다.
+
+[ACP 원문·PMID 28192789](https://pubmed.ncbi.nlm.nih.gov/28192789/) · [WHO 권고표 B.2](https://www.ncbi.nlm.nih.gov/books/NBK599210/table/fm-ch2.tab1/) · [권고 강도와 적용 조건](../evidence-clinical/guidelines.md#international-recommendations)
+
+위 고령자 RCT는 2025년 발표됐으므로 2017·2023년 지침 작성에 포함된 연구가 아니라 이후 축적된 임상근거입니다.
+
 ## 약침 {#pharmacopuncture-trials}
 
 | 설계·대상 | 중재·비교·기간 | 결과·적용 범위 |

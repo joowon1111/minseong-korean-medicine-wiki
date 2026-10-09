@@ -21,7 +21,7 @@ last_reviewed: 2026-09-06
 | 고전 복합방제도 사람 대상 비교시험이 있나요? | [마자인환과 IBS 복합 한약](#herbal-digestive-trials) |
 | 호흡기 감염에서 발열 경과를 직접 비교한 연구가 있나요? | [Annals의 H1N1 복합탕제 시험](#herbal-influenza-trial) |
 | 국내 한의학 연구는 어떤 효과를 확인했나요? | [소청룡탕·육군자탕·평위산](#korean-herbal-trials) |
-| 침·추나·약침 연구까지 함께 보고 싶어요 | [한의학 치료 핵심 성과 23편](../../portal/evidence.md#landmark-clinical-results) |
+| 침·추나·약침 연구까지 함께 보고 싶어요 | [한의학 치료 핵심 성과 26편](../../portal/evidence.md#landmark-clinical-results) |
 
 ### 질병 진행과 주요 사건: 대규모 이중맹검 연구 {#herbal-major-outcomes}
 

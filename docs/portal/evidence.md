@@ -1,6 +1,6 @@
 ---
 title: 연구·근거 안내
-description: 한약·침·전침·추나·약침의 주요 임상 성과 23편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
+description: 한약·침·전침·추나·약침의 주요 임상 성과 26편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 status: 검토완료
 last_reviewed: '2026-09-05'
@@ -9,25 +9,26 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [코호트와 연구설계](#study-design-reading)
+**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
-**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 23편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
+**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 26편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
 
 학술지 이름에 더해 **얼마나 좋아졌는지, 무엇과 비교했는지, 효과가 얼마나 이어졌는지**를 확인합니다. 국내 한의 임상시험, 해외 침 연구, 중국의 특정 표준화 한약제제 시험은 실제 연구된 치료를 명시해 소개합니다. 해외 제제의 수치를 국내 모든 탕약의 효과로 바꾸지 않습니다.
 
 ### 인용 영향력이 높은 주요 저널에서 먼저 읽기 {#high-impact-journal-studies}
 
-**23편 중 17편은 JAMA·JAMA Neurology·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통은 JAMA 본시험과 JAMA Network Open의 52주 추적을 함께 연결하며, 같은 환자를 다시 분석한 추적 논문은 독립 시험으로 중복 집계하지 않습니다.
+**26편 중 20편은 The Lancet·JAMA·JAMA Neurology·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통은 JAMA 본시험과 JAMA Network Open의 52주 추적을 함께 연결하며, 같은 환자를 다시 분석한 추적 논문은 독립 시험으로 중복 집계하지 않습니다.
 
 | 저널 | 공식 안내의 IF·표기 기준 | 이 페이지에서 읽는 핵심 연구 |
 |---|---|---|
+| **The Lancet** | **109.0** — 저널 그룹의 공식 발표: 2025 Journal Citation Reports, Clarivate 2026 표기. [공식 발표](https://www.linkedin.com/posts/the-lancet_rcts-clinicaltrials-clinicalresearch-activity-7477986859466428416-hAY3) | [독일 다기관 무릎 골관절염](#landmark-acupuncture) |
 | **JAMA** | **65.4** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jama/pages/for-authors) | [통심락 심근경색](#landmark-herbal) · [IBS 복합 한약](#landmark-herbal) · [전침 요실금·호르몬치료 관절통](#landmark-acupuncture) |
 | **Nature Medicine** | **52.5** — Nature Portfolio 공식 저널 지표. [공식 지표](https://www.nature.com/nature-portfolio/about-journals/journal-metrics) | [QUEST 기력강심 심부전](#landmark-herbal) |
 | **The BMJ** | **55.1** — 공식 페이지의 JCR 2025 표기. [공식 안내](https://www.bmj.com/about-bmj/publishing-model?change_country=1) | [침의 편두통 예방](#landmark-acupuncture) |
-| **JAMA Internal Medicine** | **26.3** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors) | [침의 좌골신경통·안정형 협심증](#landmark-acupuncture) · [FOCUS 진리다](#landmark-herbal) |
-| **Annals of Internal Medicine** | **17.3** — ACP 공식 페이지의 2025 IF 표기. [공식 안내](https://www.acponline.org/clinical-information/journals-publications/annals-of-internal-medicine) | [침의 식후불편감·골반통·전침 변비](#landmark-acupuncture) · [복합탕제 독감 연구](#landmark-herbal) |
+| **JAMA Internal Medicine** | **26.3** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors) | [침의 편두통·좌골신경통·안정형 협심증](#landmark-acupuncture) · [FOCUS 진리다](#landmark-herbal) |
+| **Annals of Internal Medicine** | **17.3** — ACP 공식 페이지의 2025 IF 표기. [공식 안내](https://www.acponline.org/clinical-information/journals-publications/annals-of-internal-medicine) | [침의 무릎 골관절염·식후불편감·골반통·전침 변비](#landmark-acupuncture) · [복합탕제 독감 연구](#landmark-herbal) |
 | **JAMA Neurology** | **23.6** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaneurology/pages/for-authors) | [대상포진후신경통 전침](#landmark-acupuncture) |
 | **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) |
 
@@ -37,6 +38,9 @@ last_reviewed: '2026-09-05'
 
 | 핵심 논문·규모 | 확인된 주요 성과 | 상세 결과·원문 |
 |---|---|---|
+| Berman 등, *Annals of Internal Medicine*, 2004 · 무릎 골관절염 570명 | 26주 WOMAC 개선이 가짜침보다 기능 2.5점·통증 0.87점 더 큼 | [평가 시점·척도·탈락률](../authority/conditions/knee-osteoarthritis.md#berman-knee-trial) · [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) |
+| Witt 등, *The Lancet*, 2005 · 무릎 골관절염 294명, 28개 기관 | 8주 WOMAC 지수가 최소침보다 8.8점·대기군보다 22.7점 유리 | [비교군과 장기 결과](../authority/conditions/knee-osteoarthritis.md#witt-knee-trial) · [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) |
+| Zhao 등, *JAMA Internal Medicine*, 2017 · 편두통 249명 배정·245명 분석 | 13–16주의 4주당 발작 횟수 감소가 가짜침보다 1.1회 더 큼 | [발작 횟수와 두통일수 구분](../authority/conditions/migraine.md#jama-migraine-prevention) · [PMID 28241154](https://pubmed.ncbi.nlm.nih.gov/28241154/) |
 | Chen 등, *JAMA Neurology*, 2026 · 대상포진후신경통 448명, 7개 병원 | 4주 통증점수 감소의 조정 군 간 차이 0.53점; 30% 이상 통증 감소 반응률 46.68% 대 24.28% | [평균 차이와 반응률을 함께 읽기](../authority/electroacupuncture.md#ea-postherpetic-trial) · [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) |
 | Liu 등, *JAMA*, 2017 · 복압성 요실금 여성 504명 | 6주 1시간 패드검사 누출량 감소의 군 간 차이 7.4g | [객관적 누출량 평가](../authority/electroacupuncture.md#ea-incontinence-trial) · [PMID 28655016](https://pubmed.ncbi.nlm.nih.gov/28655016/) |
 | Hershman 등, *JAMA*, 2018 · 유방암 호르몬치료 관련 관절통 226명 | 6주 최악 통증(0–10점)의 조정 차이: 가짜침보다 0.92점, 대기군보다 0.96점; 같은 시험의 52주 추적도 연결 | [본시험·장기추적·진료지침](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) · [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) |
@@ -78,7 +82,7 @@ last_reviewed: '2026-09-05'
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 23편과 별도의 일본 연구 묶음으로 안내합니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. 위의 국제·국내 핵심 26편과 별도의 일본 연구 묶음으로 안내합니다.
 
 ### 규모·설계·저널을 함께 읽는 방법 {#study-design-reading}
 
@@ -106,6 +110,20 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 이 연구들은 해당 치료 구성의 비교효과를 보여줍니다. 여러 치료를 함께 시행한 결과를 한약·침·약침 각각의 단독 효과로 분해하거나, 한 시험으로 모든 한의치료의 우열을 정하지 않습니다.
 
+### 국제 진료지침에서 확인하는 치료의 역할 {#international-clinical-guidelines}
+
+**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 위 26편의 임상 성과 집계에 더하지 않습니다.
+
+| 발행기관·지침 | 확인할 치료 역할 | 원문·임상 연결 |
+|---|---|---|
+| **미국내과학회 ACP, 2017** · Annals of Internal Medicine | 성인 만성요통의 초기 비약물치료 선택지에 침 포함; 권고 2는 강한 권고, 침 관련 근거는 중간 수준 | [PMID 28192789](https://pubmed.ncbi.nlm.nih.gov/28192789/) · [요통 연구·권고 연결](../authority/low-back-pain.md#international-back-guidelines) |
+| **WHO, 2023** · 만성 일차성 요통 | 고령자를 포함한 성인의 치료계획 일부로 침 등 자침치료 제공 가능; 사용에 찬성하는 조건부 권고·낮은 근거확실성 | [WHO 원문](https://www.who.int/publications/i/item/9789240081789) · [권고표 B.2](https://www.ncbi.nlm.nih.gov/books/NBK599210/table/fm-ch2.tab1/) |
+| **영국 NICE NG193, 2021** · 만성 일차성 통증 | 16세 이상에서 침 또는 드라이니들링 한 과정 고려; 의료진 시간·훈련·제공비용 조건 확인 | [권고 1.2.5](https://www.nice.org.uk/guidance/ng193/chapter/recommendations#managing-chronic-primary-pain) · [대상·제공 조건](../evidence-clinical/guidelines.md#international-recommendations) |
+| **SIO–ASCO, 2022** · Journal of Clinical Oncology | 성인 유방암 호르몬치료 관련 관절통에 침 권고; 중간 근거·중등도 권고 | [PMID 36122322](https://pubmed.ncbi.nlm.nih.gov/36122322/) · [다기관 시험·52주 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
+| **일본소화기학회, 2021판·2022 영문** · Journal of Gastroenterology | 기능성소화불량의 1차 선택지에 육군자탕 포함; 강한 권고·근거수준 A | [PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/) · [일본 RCT와 권고](../research/formulas/rikkunshito.md#japanese-fd-trials) |
+
+**일차성 통증**은 다른 질환으로 충분히 설명되지 않는 통증 범주입니다. NICE의 일차성 통증 권고를 무릎 골관절염이나 모든 요통의 권고로 바꾸지 않습니다. [지침의 대상·강도·실행 조건 읽기](../evidence-clinical/guidelines.md#international-recommendations)에서 원 연구와 실제 권고를 함께 확인하세요.
+
 ### 임상 권고와 작용기전으로 이어진 성과 {#guideline-mechanism-results}
 
 **2022년 SIO–ASCO 암 통증 관리 지침**은 성인의 아로마타제 억제제 관련 관절통에 침을 권고합니다. 근거 수준은 중간, 권고 강도는 중등도입니다. 암 치료 중 증상 관리에 실제 권고로 연결된 사례이며, 암 자체를 치료한다는 의미와 구분합니다. [JAMA 다기관 시험과 52주 추적](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark)에서 권고와 이어지는 직접 임상결과를 확인할 수 있습니다. [PMID 36122322](https://pubmed.ncbi.nlm.nih.gov/36122322/) · [Journal of Clinical Oncology 원문](https://doi.org/10.1200/JCO.22.01357)
@@ -131,6 +149,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | 개별 본초의 기원·성분·사람 연구와 처방 속 역할 | [본초 출처·현대 연구](../authority/herbs/index.md) |
 | 국내 대학병원 연구진의 한약재·추출물 임상시험 | [연구진·제제별 연구 모아 보기](../authority/herbs/index.md#university-clinical-studies) — 홍삼·갱년기·소화기·관절통·기관지염·배뇨 증상 |
 | 침·전침·약침의 치료 조건과 결과지표 | [침·전침·약침 임상근거](../evidence-integrated/acupuncture-evidence.md) |
+| 해외 전문 학회·공공기관의 침·한약 권고 | [국제 진료지침 사례와 원문](#international-clinical-guidelines) |
 | RCT·메타분석·관찰연구·전임상 연구의 차이 | [연구 유형 한눈에 보기](../evidence-guide/index.md) |
 | 전통 병증·치법과 현대 연구의 연결 | [전통→현대 통합 지도](../evidence-integrated/index.md) |
 | PMID·DOI와 논문 원문을 찾는 방법 | [논문 검색 안내](../evidence-integrated/find-research.md) |

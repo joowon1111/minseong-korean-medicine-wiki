@@ -1,6 +1,6 @@
 ---
 title: 편두통 — 현대 임상근거 카드
-description: 편두통에서 침 관련 치료의 systematic review·network meta-analysis와 두면부·경혈 지식망을 연결합니다.
+description: 편두통의 JAMA Internal Medicine 예방시험, 급성기 시험과 후속 종합근거를 발작 횟수·두통일수로 구분해 연결합니다.
 tags: [편두통, 침, 임상근거, network-meta-analysis]
 status: 검토완료
 last_reviewed: 2026-09-15
@@ -19,6 +19,14 @@ last_reviewed: 2026-09-15
 
 [PMID 42265857](https://pubmed.ncbi.nlm.nih.gov/42265857/) · [DOI 10.1111/head.70144](https://doi.org/10.1111/head.70144)
 
+### JAMA Internal Medicine: 24주 예방 연구 {#jama-migraine-prevention}
+
+**Zhao 등의 2017년 시험**은 중국 3개 진료기관에서 전조 없는 편두통 **249명을 배정하고 245명을 분석**했습니다. 실제 침·가짜침·대기군을 비교하고, 침 시술군은 4주 20회 치료 뒤 20주를 더 추적했습니다.
+
+주평가인 **13–16주의 4주당 발작 횟수 감소**는 침 3.2회·가짜침 2.1회·대기군 1.4회였습니다. 침의 감소 폭은 가짜침보다 **1.1회(95% CI 0.4–1.9)**, 대기군보다 **1.8회(1.1–2.5)** 더 컸습니다. 24주까지의 추적에서도 유리한 결과가 관찰됐습니다.
+
+이는 발작이 생기는 횟수를 줄이는 예방 연구로, 급성 통증을 몇 분 안에 완화하는 결과와 구분합니다. **발작 횟수와 두통일수는 다른 지표**이므로 [2020년 BMJ의 150명 시험](../../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial)과 수치를 합치지 않고 함께 읽습니다. [PMID 28241154](https://pubmed.ncbi.nlm.nih.gov/28241154/) · [원문 DOI](https://doi.org/10.1001/jamainternmed.2016.9378)
+
 ### 예방치료와 체계적 문헌고찰
 
 편두통은 침 연구가 비교적 많이 축적된 두통 영역입니다.
@@ -29,7 +37,7 @@ last_reviewed: 2026-09-15
 - 2024 *Journal of Pain Research* systematic review/network meta-analysis는 여러 침 관련 치료법을 비교했습니다. PMID `38505499`, PMCID `PMC10950004`, DOI `10.2147/JPR.S452971`.
 - 급성 편두통 발작 systematic review/meta-analysis는 21 RCT·1,926명을 포함해 2시간 통증소실·통증완화·통증강도 등의 급성 결과를 평가했습니다. PMID `37419658`.
 
-이 근거는 2017 *JAMA Internal Medicine* 예방 RCT(PMID `28241154`)와 함께 **예방치료와 급성기 치료를 구분**해서 읽습니다.
+이 근거는 [2017년 예방 RCT의 직접 결과](#jama-migraine-prevention)와 함께 **예방치료와 급성기 치료를 구분**해서 읽습니다.
 
 ## 연구를 읽는 기준
 
