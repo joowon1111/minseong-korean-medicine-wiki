@@ -13,9 +13,9 @@ last_reviewed: '2026-09-01'
 
 ## 주요 치료 성과부터 보기 {#clinical-landmark-index}
 
-[한의학 치료 핵심 성과 23편](../portal/evidence.md#landmark-clinical-results)에서는 침·전침 11편, 한약 9편, 국내 추나·약침 3편의 대상·비교군·결과를 먼저 읽을 수 있습니다. 이후 [무작위시험 원문 색인](rct-index.md#landmark-rcts), [개인자료 메타분석과 후속 종합 근거](meta-analysis-index.md#landmark-synthesis)로 이동하면 논문을 연구유형별로 확인할 수 있습니다.
+[한의학 치료 핵심 성과 26편](../portal/evidence.md#landmark-clinical-results)에서는 침·전침 14편, 한약 9편, 국내 추나·약침 3편의 대상·비교군·결과를 먼저 읽을 수 있습니다. 이후 [무작위시험 원문 색인](rct-index.md#landmark-rcts), [개인자료 메타분석과 후속 종합 근거](meta-analysis-index.md#landmark-synthesis)로 이동하면 논문을 연구유형별로 확인할 수 있습니다.
 
-핵심 자료는 만성통증·좌골신경통·편두통·소화·배변·골반통·요실금의 기능 개선과, 특정 한약제제의 질병 진행·입원·심혈관 사건을 포함합니다. 기전과 지침은 임상시험과 별도로 [작용경로 연구](mechanism-preclinical-index.md#electroacupuncture-neural-circuit), [SIO–ASCO 권고](../portal/evidence.md#guideline-mechanism-results)에서 연결됩니다.
+핵심 자료는 만성통증·좌골신경통·편두통·소화·배변·골반통·요실금의 기능 개선과, 특정 한약제제의 질병 진행·입원·심혈관 사건을 포함합니다. 기전과 지침은 임상시험과 별도로 [작용경로 연구](mechanism-preclinical-index.md#electroacupuncture-neural-circuit), [ACP·WHO·NICE·SIO–ASCO·일본 지침](../portal/evidence.md#international-clinical-guidelines)에서 연결됩니다.
 
 ## 연구유형별 찾기
 
@@ -23,6 +23,7 @@ last_reviewed: '2026-09-01'
 |---|---|
 | 무작위 임상시험 | [RCT 목록](rct-index.md) |
 | 체계적 문헌고찰·메타분석 | [메타분석 목록](meta-analysis-index.md) |
+| 실제 진료 권고와 적용 조건 | [국제 진료지침 사례](../evidence-clinical/guidelines.md#international-recommendations) |
 | 기전·전임상 연구 | [기전·전임상 목록](mechanism-preclinical-index.md) |
 | 연구유형 전체 보기 | [연구유형별 색인](by-study-type.md) |
 | PMID·DOI와 전체 출처 | [참고문헌 데이터베이스](references/index.md) |

@@ -11,10 +11,13 @@ last_reviewed: 2026-08-19
 
 ## 주요 치료 성과의 원문 색인 {#landmark-rcts}
 
-[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 23편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 22편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
+[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 26편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 25편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
 
 | 연도 | 연구·대상 | 원문 식별자 | 결과와 적용 범위 |
 |---|---|---|---|
+| 2004 | Berman · Annals of Internal Medicine · 무릎 골관절염 570명 | [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) · [DOI](https://doi.org/10.7326/0003-4819-141-12-200412210-00006) | [26주 통증·기능 평가](../authority/conditions/knee-osteoarthritis.md#berman-knee-trial) |
+| 2005 | Witt · The Lancet · 무릎 골관절염 294명 | [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) · [DOI](https://doi.org/10.1016/S0140-6736(05)66871-7) | [8주 비교·52주 추적](../authority/conditions/knee-osteoarthritis.md#witt-knee-trial) |
+| 2017 | Zhao · JAMA Internal Medicine · 편두통 249명 배정·245명 분석 | [PMID 28241154](https://pubmed.ncbi.nlm.nih.gov/28241154/) · [DOI](https://doi.org/10.1001/jamainternmed.2016.9378) | [발작 횟수·24주 추적](../authority/conditions/migraine.md#jama-migraine-prevention) |
 | 2026 | Chen · JAMA Neurology · 대상포진후신경통 448명 | [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) · [DOI](https://doi.org/10.1001/jamaneurol.2026.1443) | [전침 통증·반응률](../authority/electroacupuncture.md#ea-postherpetic-trial) |
 | 2018 | Hershman · JAMA · 유방암 호르몬치료 관련 관절통 226명 | [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [DOI](https://doi.org/10.1001/jama.2018.8907) | [본시험 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
 | 2022 후속 추적 | Hershman · JAMA Network Open · 위 226명의 52주 평가, 191명 완료 | [PMID 36367721](https://pubmed.ncbi.nlm.nih.gov/36367721/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2022.41720) | [같은 시험의 장기추적](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
@@ -41,7 +44,7 @@ last_reviewed: 2026-08-19
 
 ## 일본 Kampo 주요 무작위시험 {#japan-kampo-rcts}
 
-[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 23편 묶음과 별도로 연결한 6개 독립 시험(Best RCTs 5편과 간절제 3상 시험)입니다.
+[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 26편 묶음과 별도로 연결한 6개 독립 시험(Best RCTs 5편과 간절제 3상 시험)입니다.
 
 | 연도·저널 | 처방·연구 | PMID·DOI | 상세 결과 |
 |---|---|---|---|

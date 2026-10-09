@@ -27,7 +27,7 @@ last_reviewed: '2026-08-29'
 
 ## 임상 효과를 보여주는 대표 성과 {#clinical-effect-landmarks}
 
-**효과가 확인된 대상과 결과에서 출발**하려면 [한의학 치료 핵심 성과 23편](../portal/evidence.md#landmark-clinical-results)을 먼저 읽습니다. 침·전침은 통증과 일상 기능, 소화·배변·배뇨 기능을 평가한 시험으로, 한약은 국내 처방의 비교효과·위약대조시험과 특정 복합제제의 장기 임상 결과로 연결됩니다.
+**효과가 확인된 대상과 결과에서 출발**하려면 [한의학 치료 핵심 성과 26편](../portal/evidence.md#landmark-clinical-results)을 먼저 읽습니다. 침·전침은 통증과 일상 기능, 소화·배변·배뇨 기능을 평가한 시험으로, 한약은 국내 처방의 비교효과·위약대조시험과 특정 복합제제의 장기 임상 결과로 연결됩니다.
 
 [침의 대표 연구](acupuncture-evidence.md#acupuncture-landmark-reading) · [한약의 대표 연구](../authority/formulas/herbal-formula-evidence-hub.md#herbal-landmark-results) · [국내 추나·약침 연구](../portal/evidence.md#korean-treatment-results)에서 성과와 적용 조건을 확인한 뒤 아래 통합 임상 흐름으로 이어갑니다.
 
