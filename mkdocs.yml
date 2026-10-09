@@ -25,6 +25,7 @@ extra_css:
 - assets/donguibogam/reader.css
 extra:
   generator: false
+  homepage_title: 민성 한의학 아카이브 | 하루 한 번, 한의학을 만나다
 hooks:
 - tools/acupoint_diagrams.py
 - tools/sitemap_lastmod.py
@@ -347,6 +348,7 @@ plugins:
       network/treatment-methods-map.md: treatments/index.md
 theme:
   name: material
+  custom_dir: overrides
   language: ko
   icon:
     logo: material/book-open-page-variant
