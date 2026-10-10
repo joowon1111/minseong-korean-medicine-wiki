@@ -72,6 +72,12 @@ last_reviewed: 2026-08-29
 
 따라서 이 책은 중국 명대 의학의 종합서이면서 동시에 **조선 한의학의 교육·진단·임상 체계를 이해하는 연결 고리**로 볼 수 있습니다.
 
+### 조선 후기 의서의 재편에서 확인되는 영향 {#joseon-reorganization}
+
+오준호의 2021년 연구는 《제중신편》과 《인제지》가 《동의보감》의 치료 자료를 가져오면서도 《의학입문》 계열의 분류로 다시 배열한 양상을 설명합니다. 어느 책에서 처방을 인용했는가와 어느 책의 목차·지식 체계를 따랐는가는 서로 다른 질문입니다. 《의학입문》의 영향을 살필 때는 인용문뿐 아니라 진단·병증·각과의 배열과 학습 목적도 비교할 수 있습니다.
+
+[논문 서지·초록](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002714043) · [한의학 역사: 교육과 의서 재편](../history/index.md#medical-education) · [의사학 연구논문 지도](../history/index.md#history-research)
+
 ## 원문과 자료 {#_7}
 
 - [한의학고전DB 의학입문 식치문](https://mediclassics.kr/books/202)
