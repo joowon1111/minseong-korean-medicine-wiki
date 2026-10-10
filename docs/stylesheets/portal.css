@@ -31,6 +31,10 @@
 .md-typeset:has(.ms-home) a:hover { color: var(--ms-home-link-hover); }
 .md-typeset:has(.ms-home) .ms-hero h1 { color: var(--md-default-fg-color); }
 .md-typeset:has(.ms-home) .ms-sub { opacity: 1; }
+.ms-home .ms-home-tagline { margin: .35rem 0 1rem; font-weight: 600; }
+.ms-home-intro { max-width: 48rem; margin: 0 auto; text-align: left; }
+.ms-home-intro p { margin: .65rem 0; font-size: .9rem; line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; }
+.ms-home-intro p + p { color: var(--ms-home-description); font-size: .82rem; }
 .md-typeset:has(.ms-home) .ms-card {
   border-color: var(--ms-home-border);
   transition: transform .12s ease, box-shadow .12s ease, background-color .12s ease, border-color .12s ease;

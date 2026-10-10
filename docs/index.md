@@ -1,12 +1,16 @@
 ---
-title: 민성 한의학 아카이브
-description: 본초·방제·침구·질환·사상의학·고전·현대 임상근거를 연결한 한의학 지식 아카이브입니다.
+title: 민성 한의학 아카이브 | 오늘의 한의학, 매일의 루틴
+description: 경혈·경락·침구치료, 본초·한약·방제학, 사상의학, 상한론·동의보감과 현대 임상연구를 연결한 한의학 전문 지식 아카이브. 경혈·한약 처방 검색, 질환별 정보, 학습실·퀴즈, 하루 한의학과 민성의담을 제공하는 비상업적 교육·연구·정보 공유 플랫폼입니다.
 hide:
   - toc
 ---
 <div class="ms-hero ms-home">
 <h1>민성 한의학 아카이브</h1>
-<p class="ms-sub">한의학의 기초부터 본초·방제·침구·사상의학·현대 임상근거까지 연결해서 찾아보세요.</p>
+<p class="ms-sub ms-home-tagline">오늘의 한의학, 매일의 루틴</p>
+<div class="ms-home-intro">
+<p>한의학의 기초이론부터 경혈·경락·침구치료, 본초학·한약·방제학, 사상의학, 상한론·동의보감 등 주요 한의학 고전과 현대 임상연구까지 체계적으로 연결한 한의학 전문 지식 아카이브입니다.</p>
+<p>경혈·한약 처방 검색, 질환별 한의학 정보, 침치료·한약의 임상근거, 한의학 학습실과 퀴즈, 하루 한의학, 민성의담(旻城醫談)을 통해 전통 한의학의 지식과 현대 의학 연구를 함께 탐구하는 비상업적 교육·연구·정보 공유 플랫폼입니다.</p>
+</div>
 </div>
 <p class="km-guide-entry" lang="en"><a href="korean-medicine-guide/">Korean Medicine Guide — Start here in English</a></p>
 <div class="ms-grid">
@@ -183,6 +187,7 @@ hide:
       "@id": "https://wiki.minseong.co.kr/#website",
       "url": "https://wiki.minseong.co.kr/",
       "name": "민성 한의학 아카이브",
+      "description": "경혈·경락·침구치료, 본초·한약·방제학, 사상의학, 상한론·동의보감과 현대 임상연구를 연결한 한의학 전문 지식 아카이브. 경혈·한약 처방 검색, 질환별 정보, 학습실·퀴즈, 하루 한의학과 민성의담을 제공하는 비상업적 교육·연구·정보 공유 플랫폼입니다.",
       "inLanguage": "ko-KR",
       "publisher": {
         "@id": "https://wiki.minseong.co.kr/#publisher"
