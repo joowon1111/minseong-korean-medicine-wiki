@@ -106,14 +106,32 @@ test('seasonal almanac follows Korean month boundaries and stays continuous acro
   assert.equal(first.index, (last.index+1)%last.count);
   assert.equal(reader.seasonalCard(new Date(NaN),almanac),null);
   assert.equal(reader.seasonalCard(reader.parseDate('2026-03-01'),{cards:[]}),null);
-  assert.equal(almanac.cards.length,48);
-  assert.equal(new Set(almanac.cards.map(c=>c.line)).size,48);
+  assert.equal(almanac.cards.length,96);
+  assert.equal(new Set(almanac.cards.map(c=>c.practice)).size,96);
+  assert.equal(new Set(almanac.cards.map(c=>c.line)).size,96);
   for (const season of ['spring','summer','autumn','winter']) {
     const cards=almanac.cards.filter(c=>c.season===season);
-    assert.equal(cards.length,12);
+    assert.equal(cards.length,24);
     for (const card of cards) {
-      assert(card.line && card.theme && almanac.sources[card.source]);
+      assert(card.line && card.theme && card.practice && almanac.sources[card.source]);
       if(card.modern) assert(almanac.modern[card.modern]);
     }
+  }
+});
+
+
+test('almanac source links reach both classical archive hubs and each season includes Donguibogam', () => {
+  const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  for(const source of Object.values(almanac.sources)) {
+    assert(source.original && source.translation && source.context && source.label);
+    assert(source.href.startsWith('https://'));
+    const url=new URL(source.archiveHref,'https://wiki.minseong.co.kr');
+    const path='docs'+url.pathname.replace(/\/$/,'');
+    assert(fs.existsSync(path+'.md') || fs.existsSync(path+'/index.md'),source.archiveHref);
+  }
+  for(const season of ['spring','summer','autumn','winter']) {
+    const books=almanac.cards.filter(c=>c.season===season).map(c=>almanac.sources[c.source].label);
+    assert(books.some(label=>label.startsWith('동의보감')));
+    assert(books.some(label=>label.startsWith('황제내경')));
   }
 });

@@ -313,3 +313,6 @@
 .daily-km-saved-filter span { color: var(--md-default-fg-color--light); }
 .daily-km-browser [data-daily-save-card][aria-pressed="true"] { border-color: var(--md-primary-fg-color); background: color-mix(in srgb, var(--md-primary-fg-color) 8%, var(--md-default-bg-color)); }
 .daily-km-almanac summary:focus-visible, .daily-km-almanac a:focus-visible { outline: 2px solid var(--md-primary-fg-color); outline-offset: 3px; }
+
+.daily-km-almanac-definition { max-width: 42rem; margin: .5rem 0 1rem; font-size: .78rem; line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; color: var(--md-default-fg-color--light); }
+.daily-km-almanac-practice { max-width: 42rem; margin: .8rem 0; padding: .6rem .75rem; border-left: 2px solid var(--md-primary-fg-color); font-size: .8rem; line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; }
