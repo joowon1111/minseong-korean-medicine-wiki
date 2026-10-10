@@ -3,7 +3,7 @@ title: 오늘의 한의학
 description: 경혈·본초·상한론·사상의학을 날짜별로 읽고, 카드 검색과 원문·해설·학습 퀴즈로 이어가는 한의학 코너입니다.
 tags: [오늘의 한의학, 한의학 상식, 매일 한 장, 경혈, 본초, 상한론, 사상의학]
 status: 검토완료
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-10
 hide:
   - toc
 ---
@@ -45,7 +45,13 @@ hide:
       <label>주제 <select data-daily-filter disabled><option value="all">전체 주제</option><option value="points">경혈</option><option value="herbs">본초</option><option value="shanghan">상한론</option><option value="sasang">사상의학</option></select></label>
       <label>카드 검색 <input type="search" data-daily-query placeholder="예: 합곡, 황기, 계지탕, 소음인" disabled autocomplete="off"></label>
       <label data-daily-meridian-label hidden>경락 <select data-daily-meridian disabled><option value="all">전체 경락</option></select></label>
+      <label data-daily-chapter-label hidden>상한론 편 <select data-daily-chapter disabled><option value="all">전체 편 · 1–398조</option></select></label>
     </div>
+    <form class="daily-km-clause-jump" data-daily-clause-jump hidden>
+      <label>조문 번호 <input type="number" data-daily-clause-number min="1" max="398" step="1" inputmode="numeric" placeholder="1–398" required disabled></label>
+      <button type="submit" disabled>조문 열기 →</button>
+      <p class="daily-km-tool-status" data-daily-clause-status role="status"></p>
+    </form>
     <article class="daily-km-topic" data-daily-preview aria-label="찾아본 카드" hidden>
       <div class="daily-km-topic-meta"><span data-preview-topic></span><span data-topic-count></span></div>
       <h3 data-topic-title tabindex="-1"></h3>

@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-card-depth";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-chapter-reading";
   let dataPromise;
   const reader = window.MinseongDailyReader;
   let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
@@ -257,6 +257,11 @@
       const preview = root.querySelector("[data-daily-preview]");
       const meridian = root.querySelector("[data-daily-meridian]");
       const meridianLabel = root.querySelector("[data-daily-meridian-label]");
+      const chapter = root.querySelector("[data-daily-chapter]");
+      const chapterLabel = root.querySelector("[data-daily-chapter-label]");
+      const clauseJump = root.querySelector("[data-daily-clause-jump]");
+      const clauseNumber = root.querySelector("[data-daily-clause-number]");
+      const clauseStatus = root.querySelector("[data-daily-clause-status]");
       const previous = root.querySelector("[data-daily-previous-card]");
       const next = root.querySelector("[data-daily-next-card]");
       let selected, limit = 24;
@@ -268,7 +273,18 @@
           meridian.append(option);
         });
         meridian.disabled = false;
-        function matchingCards() { return reader.search(data, topic.value, query.value, meridian.value); }
+        Object.keys(reader.chapters).forEach(function (key) {
+          const items = data.shanghan.filter(function (item) { return reader.chapterFor(item) === key; });
+          if (!items.length) return;
+          const option = document.createElement("option");
+          option.value = key;
+          option.textContent = reader.chapters[key] + " · " + items[0].title.split("조")[0] + "–" + items[items.length - 1].title.split("조")[0] + "조";
+          chapter.append(option);
+        });
+        chapter.disabled = false;
+        clauseNumber.disabled = false;
+        clauseJump.querySelector("button").disabled = false;
+        function matchingCards() { return reader.search(data, topic.value, query.value, meridian.value, chapter.value); }
         function neighbors() {
           const hits = matchingCards().filter(function (hit) { return selected && hit.topic === selected.topic; });
           const position = hits.findIndex(function (hit) { return hit.index === selected.index; });
@@ -321,6 +337,7 @@
         query.disabled = false;
         topic.disabled = false;
         function updateSearch() {
+          clauseStatus.textContent = "";
           preview.hidden = true;
           selected = null;
           const url = new URL(window.location.href);
@@ -329,12 +346,29 @@
           renderResults(true);
         }
         query.addEventListener("input", updateSearch);
-        function updateMeridianVisibility() {
+        function updateFilterVisibility() {
           meridianLabel.hidden = topic.value !== "points";
           if (topic.value !== "points") meridian.value = "all";
+          chapterLabel.hidden = topic.value !== "shanghan";
+          clauseJump.hidden = topic.value !== "shanghan";
+          if (topic.value !== "shanghan") chapter.value = "all";
         }
-        topic.addEventListener("change", function () { updateMeridianVisibility(); updateSearch(); });
+        topic.addEventListener("change", function () { updateFilterVisibility(); updateSearch(); });
         meridian.addEventListener("change", updateSearch);
+        chapter.addEventListener("change", updateSearch);
+        clauseJump.addEventListener("submit", function (event) {
+          event.preventDefault();
+          const card = reader.clauseFrom(clauseNumber.value, data);
+          if (!card) {
+            clauseStatus.textContent = "1부터 398까지의 조문 번호를 입력하세요.";
+            return;
+          }
+          query.value = "";
+          chapter.value = reader.chapterFor(data.shanghan[card.index]) || "all";
+          renderResults(true);
+          clauseStatus.textContent = reader.chapters[chapter.value] + "의 " + clauseNumber.value + "조를 열었습니다.";
+          showCard(card.topic, card.index, true);
+        });
         function moveCard(direction) {
           if (!selected) return;
           const list = neighbors();
@@ -356,7 +390,7 @@
           topic.value = card.topic;
           showCard(card.topic, card.index, false);
         }
-        updateMeridianVisibility();
+        updateFilterVisibility();
         renderResults(true);
       }).catch(function () {
         status.textContent = "카드 자료를 불러오지 못했습니다. 아래 주제별 문서에서 읽을 수 있습니다.";
