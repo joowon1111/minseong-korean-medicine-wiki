@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-saved-almanac";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-yangsheng-classics";
   let dataPromise, yangshengPromise;
   const reader = window.MinseongDailyReader;
   let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
@@ -224,7 +224,7 @@
   function renderYangsheng(date) {
     const roots = document.querySelectorAll("[data-daily-yangsheng]");
     if (!roots.length) return;
-    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261010-saved-almanac", {credentials: "same-origin"})
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261010-yangsheng-classics", {credentials: "same-origin"})
       .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); });
     yangshengPromise.then(function (data) {
       // Ignore an older date's pending render when the reader moves quickly.
@@ -237,10 +237,12 @@
         setText(root, "[data-yangsheng-season]", seasons[selected.season]);
         setText(root, "[data-yangsheng-theme]", item.theme);
         setText(root, "[data-yangsheng-line]", item.line);
+        setOptional(root, "[data-yangsheng-practice]", item.practice ? "오늘의 작은 실천 — " + item.practice : "");
         setText(root, "[data-yangsheng-original]", source.original);
         setText(root, "[data-yangsheng-translation]", "원문 풀이 — " + source.translation);
         setText(root, "[data-yangsheng-context]", source.context);
         setLink(root, "[data-yangsheng-source]", source.href, source.label + " ↗");
+        setLink(root, "[data-yangsheng-archive]", source.archiveHref, source.archiveLabel + " →");
         const guide = item.modern && data.modern[item.modern];
         setLink(root, "[data-yangsheng-modern]", guide ? guide.href : "", guide ? "오늘의 생활 자료 · " + guide.label + " ↗" : "");
         const node = root.querySelector("[data-yangsheng-date]");
