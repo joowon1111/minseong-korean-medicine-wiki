@@ -66,6 +66,23 @@
     const index = Number(match[2]) - 1;
     return data[match[1]] && data[match[1]][index] ? { topic: match[1], index: index } : null;
   }
+  function savedCards(raw, data) {
+    let values;
+    try { values = JSON.parse(raw); } catch (_) { return []; }
+    if (!Array.isArray(values)) return [];
+    return Array.from(new Set(values.filter(function (value) { return cardFrom(value, data); }))).slice(0, 200);
+  }
+  function seasonalCard(date, data) {
+    if (!(date instanceof Date) || !Number.isFinite(date.getTime())) return null;
+    const month = date.getUTCMonth(), year = date.getUTCFullYear();
+    const season = month >= 2 && month <= 4 ? "spring" : month >= 5 && month <= 7 ? "summer" : month >= 8 && month <= 10 ? "autumn" : "winter";
+    const startMonth = {spring: 2, summer: 5, autumn: 8, winter: 11}[season];
+    const start = Date.UTC(season === "winter" && month < 2 ? year - 1 : year, startMonth, 1);
+    const items = (data.cards || []).filter(function (item) { return item.season === season; });
+    if (!items.length) return null;
+    const index = Math.floor((date.getTime() - start) / 86400000) % items.length;
+    return { item: items[index], season: season, index: index, count: items.length };
+  }
   async function copyLink(href, fallback, status) {
     try {
       await navigator.clipboard.writeText(href);
@@ -81,5 +98,6 @@
   }
   return { labels: labels, chapters: chapters, chapterFor: chapterFor, clauseFrom: clauseFrom,
     parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor,
-    titleFor: titleFor, search: search, cardFrom: cardFrom, copyLink: copyLink };
+    titleFor: titleFor, search: search, cardFrom: cardFrom, savedCards: savedCards,
+    seasonalCard: seasonalCard, copyLink: copyLink };
 });

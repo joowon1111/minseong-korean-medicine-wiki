@@ -2,8 +2,8 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-chapter-reading";
-  let dataPromise;
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-saved-almanac";
+  let dataPromise, yangshengPromise;
   const reader = window.MinseongDailyReader;
   let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
 
@@ -221,10 +221,43 @@
     }
   }
 
+  function renderYangsheng(date) {
+    const roots = document.querySelectorAll("[data-daily-yangsheng]");
+    if (!roots.length) return;
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261010-saved-almanac", {credentials: "same-origin"})
+      .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); });
+    yangshengPromise.then(function (data) {
+      // Ignore an older date's pending render when the reader moves quickly.
+      if (date.getTime() !== kstDate(dayOffset).getTime()) return;
+      const selected = reader.seasonalCard(date, data);
+      if (!selected || !data.sources[selected.item.source]) throw new Error("Almanac incomplete");
+      const item = selected.item, source = data.sources[item.source];
+      roots.forEach(function (root) {
+        const seasons = {spring: "봄", summer: "여름", autumn: "가을", winter: "겨울"};
+        setText(root, "[data-yangsheng-season]", seasons[selected.season]);
+        setText(root, "[data-yangsheng-theme]", item.theme);
+        setText(root, "[data-yangsheng-line]", item.line);
+        setText(root, "[data-yangsheng-original]", source.original);
+        setText(root, "[data-yangsheng-translation]", "원문 풀이 — " + source.translation);
+        setText(root, "[data-yangsheng-context]", source.context);
+        setLink(root, "[data-yangsheng-source]", source.href, source.label + " ↗");
+        const guide = item.modern && data.modern[item.modern];
+        setLink(root, "[data-yangsheng-modern]", guide ? guide.href : "", guide ? "오늘의 생활 자료 · " + guide.label + " ↗" : "");
+        const node = root.querySelector("[data-yangsheng-date]");
+        node.textContent = formatDate(date);
+        node.setAttribute("datetime", date.toISOString().slice(0, 10));
+        root.querySelector("[data-yangsheng-error]").hidden = true;
+      });
+    }).catch(function () {
+      roots.forEach(function (root) { root.querySelector("[data-yangsheng-error]").hidden = false; });
+    });
+  }
+
   function renderAll() {
     const widgets = document.querySelectorAll("[data-daily-km-topics]");
     if (!widgets.length) return;
     const date = kstDate(dayOffset);
+    renderYangsheng(date);
     loadData().then(function (data) {
       widgets.forEach(function (widget) {
         widget.querySelectorAll("[data-daily-topic]").forEach(function (root) {
@@ -264,8 +297,25 @@
       const clauseStatus = root.querySelector("[data-daily-clause-status]");
       const previous = root.querySelector("[data-daily-previous-card]");
       const next = root.querySelector("[data-daily-next-card]");
+      const savedOnly = root.querySelector("[data-daily-saved-only]");
+      const saveButton = root.querySelector("[data-daily-save-card]");
+      const saveStatus = root.querySelector("[data-daily-save-status]");
+      const savedKey = "minseong-daily-saved-v1";
+      let saved = [], persistent = true;
       let selected, limit = 24;
       loadData().then(function (data) {
+        try { saved = reader.savedCards(window.localStorage.getItem(savedKey), data); }
+        catch (_) { persistent = false; }
+        savedOnly.disabled = false;
+        function selectedId() { return selected && selected.topic + "-" + (selected.index + 1); }
+        function updateSaved() {
+          setText(root, "[data-daily-saved-count]", "보관한 카드 " + saved.length + "개");
+          if (!persistent) saveStatus.textContent = "이 환경에서는 새로고침 전까지만 보관됩니다.";
+          const active = saved.includes(selectedId());
+          saveButton.textContent = active ? "보관 해제" : "이 카드 보관";
+          saveButton.setAttribute("aria-pressed", String(active));
+        }
+        updateSaved();
         Array.from(new Set(data.points.map(function (item) { return item.meridian; }))).forEach(function (name) {
           const option = document.createElement("option");
           option.value = name;
@@ -284,7 +334,11 @@
         chapter.disabled = false;
         clauseNumber.disabled = false;
         clauseJump.querySelector("button").disabled = false;
-        function matchingCards() { return reader.search(data, topic.value, query.value, meridian.value, chapter.value); }
+        function matchingCards() {
+          return reader.search(data, topic.value, query.value, meridian.value, chapter.value).filter(function (hit) {
+            return !savedOnly.checked || saved.includes(hit.topic + "-" + (hit.index + 1));
+          });
+        }
         function neighbors() {
           const hits = matchingCards().filter(function (hit) { return selected && hit.topic === selected.topic; });
           const position = hits.findIndex(function (hit) { return hit.index === selected.index; });
@@ -306,6 +360,7 @@
           root.querySelector("[data-daily-copy-fallback]").hidden = true;
           root.querySelector("[data-daily-share-status]").textContent = "";
           updateNavigation();
+          updateSaved();
           const url = new URL(window.location.href);
           url.searchParams.set("card", key + "-" + (index + 1));
           window.history.replaceState(null, "", url);
@@ -318,6 +373,9 @@
           if (reset) limit = 24;
           const hits = matchingCards();
           status.textContent = hits.length ? hits.length + "개 중 " + Math.min(limit, hits.length) + "개 표시" : "일치하는 카드가 없습니다. 다른 이름이나 용어로 찾아보세요.";
+          if (!hits.length && savedOnly.checked) status.textContent = saved.length
+            ? "보관한 카드 중 조건에 맞는 카드가 없습니다. 주제나 검색어를 바꿔 보세요."
+            : "아직 보관한 카드가 없습니다. 카드에서 ‘이 카드 보관’을 눌러 모아 보세요.";
           results.replaceChildren();
           hits.slice(0, limit).forEach(function (hit) {
             const li = document.createElement("li");
@@ -346,6 +404,22 @@
           renderResults(true);
         }
         query.addEventListener("input", updateSearch);
+        savedOnly.addEventListener("change", updateSearch);
+        saveButton.addEventListener("click", function () {
+          if (!selected) return;
+          const id = selectedId(), active = saved.includes(id);
+          if (!active && saved.length >= 200) {
+            saveStatus.textContent = "200개까지 보관할 수 있습니다. 기존 카드의 보관을 해제한 뒤 추가하세요.";
+            return;
+          }
+          saved = active ? saved.filter(function (value) { return value !== id; }) : saved.concat(id);
+          try { window.localStorage.setItem(savedKey, JSON.stringify(saved)); }
+          catch (_) { persistent = false; }
+          saveStatus.textContent = active ? "카드 보관을 해제했습니다." : "카드를 보관했습니다. ‘보관한 카드만’에서 다시 읽을 수 있습니다.";
+          updateSaved();
+          if (active && savedOnly.checked) { updateSearch(); savedOnly.focus(); }
+          else { renderResults(false); updateNavigation(); }
+        });
         function updateFilterVisibility() {
           meridianLabel.hidden = topic.value !== "points";
           if (topic.value !== "points") meridian.value = "all";
@@ -364,6 +438,7 @@
             return;
           }
           query.value = "";
+          savedOnly.checked = false;
           chapter.value = reader.chapterFor(data.shanghan[card.index]) || "all";
           renderResults(true);
           clauseStatus.textContent = reader.chapters[chapter.value] + "의 " + clauseNumber.value + "조를 열었습니다.";

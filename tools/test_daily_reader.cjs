@@ -60,7 +60,7 @@ test('daily clause prose has no imported document markup and related links resol
         if (url.pathname === '/daily-korean-medicine/') {
           assert(reader.cardFrom(url.searchParams.get('card'), data), link.href);
         } else {
-          const path = 'docs' + url.pathname.replace(/\/$/, '');
+          const path = 'docs' + decodeURIComponent(url.pathname).replace(/\/$/, '');
           assert(fs.existsSync(path + '.md') || fs.existsSync(path + '/index.md'), link.href);
         }
       }
@@ -88,4 +88,32 @@ test('exact clause numbers reject misleading prefixes and retain original 398-ca
   }
   for (const value of ['0','399','01','1.0','1e2','+1','12조','-1','',null]) assert.equal(reader.clauseFrom(value, data), null);
   assert.deepEqual(reader.clauseFrom(' 163 ', data), {topic:'shanghan',index:162});
+});
+
+test('saved cards accept only existing canonical identifiers, deduplicate and bound stored lists', () => {
+  for (const raw of ['broken', '{}', 'null', '42', '"points-1"', null]) assert.deepEqual(reader.savedCards(raw, data), []);
+  assert.deepEqual(reader.savedCards(JSON.stringify(['points-1','points-01','points-1','herbs-999',null,{},'sasang-120','shanghan-398']), data), ['points-1','sasang-120','shanghan-398']);
+  const many = data.points.map((_,i) => 'points-' + (i+1));
+  assert.equal(reader.savedCards(JSON.stringify(many), data).length, 200);
+});
+
+test('seasonal almanac follows Korean month boundaries and stays continuous across winter New Year', () => {
+  const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  const examples = {'2026-02-28':'winter','2026-03-01':'spring','2026-05-31':'spring','2026-06-01':'summer','2026-08-31':'summer','2026-09-01':'autumn','2026-11-30':'autumn','2026-12-01':'winter','2024-02-29':'winter'};
+  for (const [date,season] of Object.entries(examples)) assert.equal(reader.seasonalCard(reader.parseDate(date),almanac).season, season);
+  const last = reader.seasonalCard(reader.parseDate('2026-12-31'),almanac);
+  const first = reader.seasonalCard(reader.parseDate('2027-01-01'),almanac);
+  assert.equal(first.index, (last.index+1)%last.count);
+  assert.equal(reader.seasonalCard(new Date(NaN),almanac),null);
+  assert.equal(reader.seasonalCard(reader.parseDate('2026-03-01'),{cards:[]}),null);
+  assert.equal(almanac.cards.length,48);
+  assert.equal(new Set(almanac.cards.map(c=>c.line)).size,48);
+  for (const season of ['spring','summer','autumn','winter']) {
+    const cards=almanac.cards.filter(c=>c.season===season);
+    assert.equal(cards.length,12);
+    for (const card of cards) {
+      assert(card.line && card.theme && almanac.sources[card.source]);
+      if(card.modern) assert(almanac.modern[card.modern]);
+    }
+  }
 });

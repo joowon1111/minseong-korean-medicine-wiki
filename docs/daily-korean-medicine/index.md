@@ -1,6 +1,6 @@
 ---
 title: 오늘의 한의학
-description: 경혈·본초·상한론·사상의학을 날짜별로 읽고, 카드 검색과 원문·해설·학습 퀴즈로 이어가는 한의학 코너입니다.
+description: 경혈·본초·상한론·사상의학을 날짜별로 읽고, 계절별 양생 한 문장·카드 보관함과 원문·해설·학습 퀴즈로 이어가는 한의학 코너입니다.
 tags: [오늘의 한의학, 한의학 상식, 매일 한 장, 경혈, 본초, 상한론, 사상의학]
 status: 검토완료
 last_reviewed: 2026-10-10
@@ -37,6 +37,23 @@ hide:
   <input class="daily-km-copy-url" type="text" readonly data-km-copy-fallback aria-label="날짜 공유 주소" hidden>
 </section>
 
+<section class="daily-km-almanac" data-daily-yangsheng aria-labelledby="daily-yangsheng-title">
+  <div class="daily-km-meta"><span class="daily-km-kicker">계절의 일력 · <span data-yangsheng-season>가을</span></span><time data-yangsheng-date datetime="2026-10-10">2026년 10월 10일</time></div>
+  <h2 id="daily-yangsheng-title">오늘의 양생 한 문장</h2>
+  <p class="daily-km-almanac-label">아카이브의 생활 제안 · <span data-yangsheng-theme>식사</span></p>
+  <p class="daily-km-almanac-line" data-yangsheng-line aria-live="polite">풍성한 식탁에서도 내게 편안한 양을 살펴보세요. 더 먹을 수 있는지보다 지금 어떤 느낌인지 돌아봅니다.</p>
+  <details class="daily-km-almanac-source">
+    <summary>고전에서 읽은 말 · 출처와 풀이</summary>
+    <blockquote data-yangsheng-original>食飲有節。</blockquote>
+    <p data-yangsheng-translation>원문 풀이 — 먹고 마시는 데 절도가 있다.</p>
+    <p data-yangsheng-context>특정 음식을 치료제로 권한 말이 아니라 식생활의 절도를 이야기하는 대목입니다.</p>
+    <a data-yangsheng-source href="https://jicheng.tw/tcm/book/黃帝內經素問/index.html" target="_blank" rel="noopener">황제내경 소문 · 상고천진론 제1편 ↗</a>
+    <a data-yangsheng-modern hidden></a>
+  </details>
+  <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 12문장을 순환합니다. 생활 제안은 고전의 직접 번역과 구분해 읽습니다.</p>
+  <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden>날짜별 문구를 불러오지 못해 기본 문구를 표시합니다.</p>
+</section>
+
 <details class="daily-km-browser" data-daily-browser id="daily-card-library">
   <summary>카드 찾아보기 <span>이름·한자·원문·해설로 검색</span></summary>
   <div class="daily-km-browser-body">
@@ -47,6 +64,11 @@ hide:
       <label data-daily-meridian-label hidden>경락 <select data-daily-meridian disabled><option value="all">전체 경락</option></select></label>
       <label data-daily-chapter-label hidden>상한론 편 <select data-daily-chapter disabled><option value="all">전체 편 · 1–398조</option></select></label>
     </div>
+    <div class="daily-km-saved-filter">
+      <label><input type="checkbox" data-daily-saved-only disabled> 보관한 카드만</label>
+      <span data-daily-saved-count>보관한 카드 0개</span>
+    </div>
+    <p class="daily-km-tool-status" data-daily-save-status role="status">이 브라우저에만 보관됩니다. 최대 200개까지 모아 볼 수 있습니다.</p>
     <form class="daily-km-clause-jump" data-daily-clause-jump hidden>
       <label>조문 번호 <input type="number" data-daily-clause-number min="1" max="398" step="1" inputmode="numeric" placeholder="1–398" required disabled></label>
       <button type="submit" disabled>조문 열기 →</button>
@@ -72,6 +94,7 @@ hide:
       <div class="daily-km-preview-controls">
         <button type="button" data-daily-previous-card disabled>← 이전 카드</button>
         <button type="button" data-daily-next-card disabled>다음 카드 →</button>
+        <button type="button" data-daily-save-card aria-pressed="false">이 카드 보관</button>
         <button type="button" data-daily-share-card>이 카드 링크 복사</button>
       </div>
       <p class="daily-km-tool-status" data-daily-preview-position></p>

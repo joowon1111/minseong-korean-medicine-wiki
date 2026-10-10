@@ -297,3 +297,19 @@
 .daily-km-clause-jump label { display: flex; flex-direction: column; gap: .3rem; font-size: .78rem; }
 .daily-km-clause-jump input { width: 8rem; min-height: 44px; padding: .45rem .6rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .45rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit; }
 .daily-km-clause-jump p { flex-basis: 100%; margin: 0; }
+
+/* A quiet seasonal almanac and explicitly saved reading cards. */
+.daily-km-almanac { margin: 1.3rem 0; padding: clamp(1rem, 3vw, 1.7rem); border: 1px solid var(--md-default-fg-color--lightest); border-radius: .85rem; background: color-mix(in srgb, var(--md-primary-fg-color) 4%, var(--md-default-bg-color)); }
+.daily-km-almanac h2 { margin: .65rem 0 .5rem; font-size: 1rem; }
+.daily-km-almanac-label { color: var(--md-default-fg-color--light); font-size: .72rem; }
+.daily-km-almanac-line { max-width: 40rem; font-size: clamp(1rem, 2.1vw, 1.2rem); line-height: 1.85; letter-spacing: -.015em; word-break: keep-all; overflow-wrap: anywhere; text-wrap: pretty; }
+.daily-km-almanac-source { font-size: .78rem; line-height: 1.8; }
+.daily-km-almanac-source summary { min-height: 44px; padding: .55rem 0; cursor: pointer; }
+.daily-km-almanac-source a:not([hidden]) { display: flex; align-items: center; min-height: 44px; overflow-wrap: anywhere; }
+.daily-km-almanac-footnote { margin: .6rem 0 0; color: var(--md-default-fg-color--light); font-size: .68rem; line-height: 1.7; word-break: keep-all; }
+.daily-km-saved-filter { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1rem; font-size: .76rem; }
+.daily-km-saved-filter label { display: flex; align-items: center; gap: .4rem; min-height: 44px; cursor: pointer; }
+.daily-km-saved-filter input { width: 1rem; height: 1rem; accent-color: var(--md-primary-fg-color); }
+.daily-km-saved-filter span { color: var(--md-default-fg-color--light); }
+.daily-km-browser [data-daily-save-card][aria-pressed="true"] { border-color: var(--md-primary-fg-color); background: color-mix(in srgb, var(--md-primary-fg-color) 8%, var(--md-default-bg-color)); }
+.daily-km-almanac summary:focus-visible, .daily-km-almanac a:focus-visible { outline: 2px solid var(--md-primary-fg-color); outline-offset: 3px; }

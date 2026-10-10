@@ -1,0 +1,386 @@
+{
+  "sources": {
+    "regularity": {
+      "original": "起居有常，不妄作勞。",
+      "translation": "생활에 일정함이 있고, 함부로 무리하여 일하지 않는다.",
+      "label": "황제내경 소문 · 상고천진론 제1편",
+      "href": "https://jicheng.tw/tcm/book/黃帝內經素問/index.html",
+      "context": "생활의 일정함과 과로를 경계하는 대목의 발췌입니다."
+    },
+    "food": {
+      "original": "食飲有節。",
+      "translation": "먹고 마시는 데 절도가 있다.",
+      "label": "황제내경 소문 · 상고천진론 제1편",
+      "href": "https://jicheng.tw/tcm/book/黃帝內經素問/index.html",
+      "context": "특정 음식을 치료제로 권한 말이 아니라 식생활의 절도를 이야기하는 대목입니다."
+    },
+    "spring": {
+      "original": "廣步於庭，被髮緩形。",
+      "translation": "뜰을 널리 걷고, 머리카락을 풀고 몸을 느슨하게 한다.",
+      "label": "황제내경 소문 · 사기조신대론 제2편, 봄",
+      "href": "https://jicheng.tw/tcm/book/黃帝內經素問/index.html",
+      "context": "봄의 생활을 말하는 대목입니다. 오늘의 제안은 현대 일상에 맞게 아카이브가 따로 썼습니다."
+    },
+    "summer": {
+      "original": "使志無怒。",
+      "translation": "마음에 성냄이 없게 한다.",
+      "label": "황제내경 소문 · 사기조신대론 제2편, 여름",
+      "href": "https://jicheng.tw/tcm/book/黃帝內經素問/index.html",
+      "context": "여름의 마음가짐을 말하는 대목입니다. 감정을 특정 장기나 질환과 일대일로 연결하는 뜻으로 사용하지 않습니다."
+    },
+    "autumn": {
+      "original": "使志安寧。",
+      "translation": "마음이 편안하고 고요하게 한다.",
+      "label": "황제내경 소문 · 사기조신대론 제2편, 가을",
+      "href": "https://jicheng.tw/tcm/book/黃帝內經素問/index.html",
+      "context": "가을의 마음가짐을 말하는 대목입니다. 생활 제안은 직접 번역문과 구분해 읽습니다."
+    },
+    "winter": {
+      "original": "去寒就溫。",
+      "translation": "추위를 피하고 따뜻한 곳으로 간다.",
+      "label": "황제내경 소문 · 사기조신대론 제2편, 겨울",
+      "href": "https://jicheng.tw/tcm/book/黃帝內經素問/index.html",
+      "context": "겨울의 생활을 말하는 대목입니다. 계절이 질환이나 치료를 결정한다는 의미로 사용하지 않습니다."
+    }
+  },
+  "modern": {
+    "activity": {
+      "label": "WHO · 신체활동 안내",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+    },
+    "sleep": {
+      "label": "CDC · 건강한 수면 습관",
+      "href": "https://www.cdc.gov/sleep/about/index.html"
+    },
+    "food": {
+      "label": "WHO · 건강한 식생활",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+    },
+    "heat": {
+      "label": "CDC · 더위와 건강",
+      "href": "https://www.cdc.gov/heat-health/about/index.html"
+    }
+  },
+  "cards": [
+    {
+      "season": "spring",
+      "theme": "산책",
+      "line": "몸을 깨우는 일은 큰 결심보다 작은 산책에서 시작할 수 있습니다. 오늘은 편한 속도로, 걸을 수 있는 만큼 걸어 보세요.",
+      "source": "spring",
+      "modern": "activity"
+    },
+    {
+      "season": "spring",
+      "theme": "시작",
+      "line": "봄에 새로 시작할 습관은 하나면 충분합니다. 내일도 이어갈 수 있을 만큼 작게 정해 보세요.",
+      "source": "regularity"
+    },
+    {
+      "season": "spring",
+      "theme": "식사",
+      "line": "봄나물은 특별한 약보다 식탁의 다양함으로 즐겨 보세요. 익숙한 채소에 한 가지를 더하는 것도 좋은 시작입니다.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "spring",
+      "theme": "기상",
+      "line": "바쁜 봄날에도 잠에서 깨어나는 시간을 비슷하게 지켜 보세요. 하루의 리듬을 만드는 일은 아침부터 시작됩니다.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "spring",
+      "theme": "휴식",
+      "line": "기지개를 켜는 마음으로 오늘의 일정을 펼쳐 보세요. 해야 할 일 사이에 쉴 자리도 하나 남겨 두면 좋겠습니다.",
+      "source": "spring"
+    },
+    {
+      "season": "spring",
+      "theme": "움직임",
+      "line": "오래 앉아 있었다면 다음 일을 시작하기 전에 몸을 움직여 보세요. 먼 곳까지 가지 않아도 일상 속 움직임은 쌓입니다.",
+      "source": "spring",
+      "modern": "activity"
+    },
+    {
+      "season": "spring",
+      "theme": "식탁",
+      "line": "제철이라는 이름보다 식탁의 균형을 먼저 봅니다. 채소·통곡물·단백질 식품을 두루 만나는 한 끼를 골라 보세요.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "spring",
+      "theme": "잠자리",
+      "line": "새로운 일을 시작하느라 밤이 길어졌다면 잠자리부터 되돌아보세요. 내일 할 일을 메모해 두고 오늘은 마무리해도 좋습니다.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "spring",
+      "theme": "여유",
+      "line": "봄의 속도를 남의 속도에 맞출 필요는 없습니다. 오늘 내 몸이 편하게 감당할 만큼 움직이고 쉬어 보세요.",
+      "source": "spring"
+    },
+    {
+      "season": "spring",
+      "theme": "반복",
+      "line": "운동을 오래 하지 못한 날에도 짧은 움직임은 의미가 있습니다. 걷기와 집안일처럼 가능한 활동부터 이어 보세요.",
+      "source": "spring",
+      "modern": "activity"
+    },
+    {
+      "season": "spring",
+      "theme": "한 끼",
+      "line": "바쁜 하루에는 식사를 급히 끝내기 쉽습니다. 오늘 한 끼만큼은 음식의 맛과 먹는 속도를 살펴보세요.",
+      "source": "food"
+    },
+    {
+      "season": "spring",
+      "theme": "돌아보기",
+      "line": "양생은 평소의 생활을 돌아보는 일이기도 합니다. 오늘 편안했던 순간 하나를 떠올리고 내일에도 남겨 보세요.",
+      "source": "regularity"
+    },
+    {
+      "season": "summer",
+      "theme": "더위",
+      "line": "한여름에는 운동 시간보다 날씨를 먼저 살펴보세요. 더운 시간대를 피해 시원한 곳에서 움직여도 충분히 일상을 이어갈 수 있습니다.",
+      "source": "regularity",
+      "modern": "heat"
+    },
+    {
+      "season": "summer",
+      "theme": "물",
+      "line": "더운 날에는 물을 마실 기회를 가까이 두세요. 땀과 활동량에 맞춰 살피되, 수분 제한을 안내받았다면 그 기준을 따릅니다.",
+      "source": "regularity",
+      "modern": "heat"
+    },
+    {
+      "season": "summer",
+      "theme": "마음",
+      "line": "성내지 말라는 옛 문장을 오늘은 잠시 멈추는 여유로 읽어 봅니다. 답을 서두르기 전에 지금 내 마음을 한 번 살펴보세요.",
+      "source": "summer"
+    },
+    {
+      "season": "summer",
+      "theme": "식사",
+      "line": "여름의 한 끼도 특별한 보양식만으로 채울 필요는 없습니다. 다양한 음식으로 평소 식사의 균형을 지켜 보세요.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "summer",
+      "theme": "잠자리",
+      "line": "밤이 더워도 잠드는 준비는 차분하게 이어가 보세요. 침실을 쾌적하게 하고 화면을 잠시 내려놓을 시간도 마련합니다.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "summer",
+      "theme": "휴식",
+      "line": "일을 잘 이어가려면 쉬는 시간도 일정에 들어가야 합니다. 더위 속에서는 시원한 곳에서 쉬어 갈 여유를 먼저 챙기세요.",
+      "source": "regularity",
+      "modern": "heat"
+    },
+    {
+      "season": "summer",
+      "theme": "움직임",
+      "line": "밖이 너무 덥다면 오늘의 움직임을 실내에서 찾아보세요. 몸을 움직이는 장소가 달라도 습관은 이어갈 수 있습니다.",
+      "source": "regularity",
+      "modern": "activity"
+    },
+    {
+      "season": "summer",
+      "theme": "음료",
+      "line": "갈증을 달래는 음료를 고를 때 단맛도 함께 살펴보세요. 물을 기본으로 두고 달게 마시는 횟수를 돌아봅니다.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "summer",
+      "theme": "저녁",
+      "line": "긴 여름 저녁에는 할 일이 더 많아 보일 수 있습니다. 잠들 시간을 남겨 두고 하루를 마무리해 보세요.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "summer",
+      "theme": "선택",
+      "line": "몸이 지치는 날에는 계획을 가볍게 줄여도 좋습니다. 더위를 견디는 것보다 편안하게 쉴 환경을 찾는 일이 먼저입니다.",
+      "source": "regularity",
+      "modern": "heat"
+    },
+    {
+      "season": "summer",
+      "theme": "식탁",
+      "line": "여름 과일도 식사의 한 부분으로 즐겨 보세요. 한 가지 음식에 기대기보다 여러 식품을 골고루 만나는 것이 좋겠습니다.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "summer",
+      "theme": "속도",
+      "line": "마음이 달아오른 날에는 말과 일을 조금 천천히 이어 보세요. 잠깐 쉬었다 다시 시작해도 오늘의 할 일은 이어집니다.",
+      "source": "summer"
+    },
+    {
+      "season": "autumn",
+      "theme": "마음",
+      "line": "고전은 가을의 마음을 편안하고 고요하게 하라고 말합니다. 오늘은 나를 조급하게 만드는 일 하나를 잠시 내려놓아 보세요.",
+      "source": "autumn"
+    },
+    {
+      "season": "autumn",
+      "theme": "산책",
+      "line": "걷기 좋은 날에는 먼 목표보다 편한 길을 골라 보세요. 짧은 산책도 일상의 움직임이 됩니다.",
+      "source": "regularity",
+      "modern": "activity"
+    },
+    {
+      "season": "autumn",
+      "theme": "식사",
+      "line": "풍성한 식탁에서도 내게 편안한 양을 살펴보세요. 더 먹을 수 있는지보다 지금 어떤 느낌인지 돌아봅니다.",
+      "source": "food"
+    },
+    {
+      "season": "autumn",
+      "theme": "잠",
+      "line": "하루를 줄이는 듯한 잠자리 준비가 내일을 위한 시간이 됩니다. 밤마다 비슷한 순서로 불을 낮추고 잠을 준비해 보세요.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "autumn",
+      "theme": "기록",
+      "line": "평소의 식사·잠·활동을 알아 두면 변화를 살피기 쉽습니다. 오늘은 잘 잤는지, 잘 먹었는지 한 줄만 적어 보세요.",
+      "source": "regularity"
+    },
+    {
+      "season": "autumn",
+      "theme": "균형",
+      "line": "제철 음식은 식탁의 한 부분이지 모든 영양을 대신하지 않습니다. 채소와 통곡물, 단백질 식품을 함께 살펴보세요.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "autumn",
+      "theme": "자리",
+      "line": "오래 머문 자리에서 잠시 일어나 보세요. 가을 산책을 따로 계획하지 못해도 움직일 기회는 일상에 있습니다.",
+      "source": "regularity",
+      "modern": "activity"
+    },
+    {
+      "season": "autumn",
+      "theme": "저녁",
+      "line": "저녁마다 내일을 미리 걱정하고 있지는 않나요. 준비할 일은 메모에 맡기고 오늘을 마무리할 시간을 남겨 보세요.",
+      "source": "autumn"
+    },
+    {
+      "season": "autumn",
+      "theme": "기상",
+      "line": "해가 짧아져도 평소 잠의 리듬을 돌아볼 수 있습니다. 주말에도 잠들고 일어나는 시간을 크게 흔들지 않도록 살펴보세요.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "autumn",
+      "theme": "식탁",
+      "line": "좋은 음식 하나를 찾는 마음으로 식사의 전체 모습을 봅니다. 오늘은 식탁에 채소가 얼마나 함께했는지 살펴보세요.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "autumn",
+      "theme": "동행",
+      "line": "편한 사람과 함께 걷는 것도 가을을 보내는 방법입니다. 이야기를 나눌 수 있는 속도로 가볍게 움직여 보세요.",
+      "source": "regularity",
+      "modern": "activity"
+    },
+    {
+      "season": "autumn",
+      "theme": "여백",
+      "line": "마음의 고요함은 아무 일도 없는 날에만 찾는 것이 아닙니다. 바쁜 일정 사이에도 조용히 쉴 자리를 하나 남겨 두세요.",
+      "source": "autumn"
+    },
+    {
+      "season": "winter",
+      "theme": "보온",
+      "line": "겨울에는 몸을 따뜻하게 지낼 환경부터 살펴보세요. 밖의 추위와 실내 온도에 맞춰 옷을 편안하게 조절합니다.",
+      "source": "winter"
+    },
+    {
+      "season": "winter",
+      "theme": "움직임",
+      "line": "추운 날에도 움직임의 자리를 조금 남겨 보세요. 안전한 실내에서 걷거나 익숙한 활동을 이어갈 수 있습니다.",
+      "source": "regularity",
+      "modern": "activity"
+    },
+    {
+      "season": "winter",
+      "theme": "잠",
+      "line": "겨울의 휴식은 하루 종일 누워 있기보다 잠의 리듬을 지키는 일로 시작해 봅니다. 내 생활에 맞는 잠들고 일어나는 시간을 살펴보세요.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "winter",
+      "theme": "식사",
+      "line": "따뜻한 식탁에도 음식의 종류와 균형을 함께 봅니다. 든든함을 한 가지 음식에 맡기기보다 여러 식품으로 채워 보세요.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "winter",
+      "theme": "과로",
+      "line": "일을 끝내는 시간도 하루의 일정입니다. 지친 몸을 더 밀어붙이기 전에 오늘 마무리할 지점을 정해 보세요.",
+      "source": "regularity"
+    },
+    {
+      "season": "winter",
+      "theme": "활동",
+      "line": "겨울 운동은 남과 같은 양보다 내게 가능한 활동에서 시작합니다. 익숙한 움직임을 조금씩 이어 보세요.",
+      "source": "regularity",
+      "modern": "activity"
+    },
+    {
+      "season": "winter",
+      "theme": "저녁",
+      "line": "긴 겨울밤에는 화면을 보는 시간도 길어지기 쉽습니다. 잠들기 전 잠깐 내려놓고 조용히 마무리할 시간을 마련해 보세요.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "winter",
+      "theme": "식탁",
+      "line": "보양이라는 말이 많이 먹어야 한다는 뜻은 아닙니다. 지금의 식욕과 식사량을 살피며 균형 있는 한 끼를 골라 보세요.",
+      "source": "food",
+      "modern": "food"
+    },
+    {
+      "season": "winter",
+      "theme": "여유",
+      "line": "추운 날의 계획에는 이동하고 쉬는 여유도 넣어 보세요. 몸이 편하게 따라갈 수 있는 속도로 하루를 이어갑니다.",
+      "source": "winter"
+    },
+    {
+      "season": "winter",
+      "theme": "자리",
+      "line": "따뜻한 자리에서도 오래 앉아 있었다면 몸을 조금 움직여 보세요. 작은 활동을 나누어 하는 것도 일상을 움직이게 합니다.",
+      "source": "regularity",
+      "modern": "activity"
+    },
+    {
+      "season": "winter",
+      "theme": "규칙",
+      "line": "연말의 약속이 많을수록 평소 잠을 돌아봅니다. 다음 날을 무리 없이 시작할 수 있도록 밤의 마무리를 챙겨 보세요.",
+      "source": "regularity",
+      "modern": "sleep"
+    },
+    {
+      "season": "winter",
+      "theme": "돌봄",
+      "line": "양생은 큰 변화만을 뜻하지 않습니다. 따뜻하게 지내고, 잘 먹고, 무리한 일을 줄이는 평범한 하루도 소중합니다.",
+      "source": "winter"
+    }
+  ]
+}
