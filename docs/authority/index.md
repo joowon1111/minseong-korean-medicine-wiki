@@ -9,6 +9,24 @@ last_reviewed: '2026-08-29'
 
 이 영역은 긴 논문목록이 아니라 **질환의 임상 맥락 → 한의학적 탐색 → 치료 구성 → 사람 대상 연구 → PMID·DOI → 재평가**를 한 문서에 정리하는 근거카드 도서관입니다.
 
+## 핵심 임상연구 한눈에 보기
+
+여러 자료실에 흩어진 연구를 찾기 전에 **연구 대상·비교군·효과 크기·추적기간**을 먼저 확인하세요. 전체 상세 원표는 [국제 주요 임상연구 30편](../portal/evidence.md#landmark-clinical-results)에 통합되어 있습니다.
+
+| 치료·대상 | 연구 규모·설계 | 주요 결과 | 논문 |
+|---|---|---|---|
+| 침 · 만성통증 | Vickers 등 2018, 39 RCT·20,827명 개별 환자자료 메타분석 | 거짓침 대비 약 0.2 SD, 무침 대조 대비 약 0.5 SD 유리 | [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) |
+| 전침 · 복압성 요실금 | Liu 등, JAMA 2017, 504명 RCT | 거짓전침 대비 6주 누출량 감소 차이 7.4g | [PMID 28655016](https://pubmed.ncbi.nlm.nih.gov/28655016/) |
+| 침 · 디스크성 좌골신경통 | Tu 등, JAMA Internal Medicine 2024, 220명 RCT | 거짓침 대비 4주 하지통증 VAS 약 16mm, ODI 약 8.1점 차이 | [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) |
+| 침 · 편두통 예방 | Xu 등, BMJ 2020, 150명 RCT | 거짓침 대비 4주당 편두통 발생일 약 1.4~2.1일 추가 감소 | [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) |
+| 침 · 미국 고령자 만성 요통 | DeBar 등, JAMA Network Open 2025, 800명 RCT | 통상진료 대비 6·12개월 기능장애 개선. 거짓침 대조는 아님 | [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) |
+
+### 한약과 일본 Kampo 근거
+
+[주요 한약 임상연구](../portal/evidence.md#landmark-herbal) · [일본 Kampo 임상연구](../portal/evidence.md#japan-kampo-studies) · [처방별 근거카드](formulas/herbal-formula-evidence-hub.md)에서 확인합니다. 복합 한약 처방의 RCT, 단일 본초 추출물, 본초 유래 의약품의 연구 결과는 서로 구분합니다.
+
+**연구를 읽는 기준:** 통계적 유의성과 임상적 의미는 다릅니다. 거짓침·위약 대비 효과와 통상진료 대비 효과를 구분하고, 대상자·치료조건·추적기간·안전성을 함께 확인합니다.
+
 ## 무엇을 찾고 있나요?
 
 | 찾는 내용 | 근거카드 |
