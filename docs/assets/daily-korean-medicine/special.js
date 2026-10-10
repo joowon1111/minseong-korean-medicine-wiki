@@ -4,7 +4,8 @@
 
   const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-sasang-depth";
   let dataPromise;
-  let dayOffset = 0;
+  const reader = window.MinseongDailyReader;
+  let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
 
   const hkbuHerbReferences = {
   "/herbs/amomum/": "B00254",
@@ -127,13 +128,14 @@
     node.hidden = !value;
   }
 
-  function renderTopic(root, topic, data, date) {
+  function renderTopic(root, topic, data, date, chosenIndex) {
     const epoch = absoluteDay(date);
     const items = data[topic];
-    const index = topic === "points"
+    const index = Number.isInteger(chosenIndex) ? chosenIndex : topic === "points"
       ? dayOfYear(date) % items.length
       : ((epoch % items.length) + items.length) % items.length;
     const item = items[index];
+    setLink(root, "[data-topic-hkbu-reference]", "", "");
     setOptional(root, "[data-topic-explanation]", topic === "sasang" && item.explanation ? "해설 — " + item.explanation : "");
 
     if (topic === "points") {
@@ -190,6 +192,16 @@
       setLink(root, "[data-topic-reference]", item.reference, item.referenceLabel || "원문 자료 확인 ↗");
     }
 
+    const reviews = {
+      points: "경락과 위치를 자신의 말로 설명해 보세요.",
+      herbs: "약용 부위와 처방 안에서 맡는 역할을 함께 떠올려 보세요.",
+      shanghan: "조문에서 빠뜨리면 안 되는 증후와 조건을 짚어 보세요.",
+      sasang: "평소 소증과 현재 병증, 비슷한 처방의 갈림점을 구분해 보세요."
+    };
+    setText(root, "[data-topic-review]", "복습 포인트 — " + reviews[topic]);
+    const quiz = { points: "acupoints", herbs: "herbs", shanghan: "shanghanlun", sasang: "sasang" };
+    setLink(root, "[data-topic-quiz]", "/learning/" + quiz[topic] + "/", reader.labels[topic] + " 학습·퀴즈 →");
+
     const dateNode = root.querySelector("[data-topic-date]");
     if (dateNode) {
       dateNode.textContent = formatDate(date);
@@ -220,14 +232,97 @@
     });
   }
 
+  const browserReady = new WeakSet();
+  function initBrowser() {
+    document.querySelectorAll("[data-daily-browser]").forEach(function (root) {
+      if (browserReady.has(root)) return;
+      browserReady.add(root);
+      const query = root.querySelector("[data-daily-query]");
+      const topic = root.querySelector("[data-daily-filter]");
+      const results = root.querySelector("[data-daily-results]");
+      const status = root.querySelector("[data-daily-results-status]");
+      const more = root.querySelector("[data-daily-more]");
+      const preview = root.querySelector("[data-daily-preview]");
+      let selected, limit = 24;
+      loadData().then(function (data) {
+        function showCard(key, index, focus) {
+          selected = { topic: key, index: index };
+          preview.className = "daily-km-topic daily-km-topic-" + key;
+          preview.hidden = false;
+          renderTopic(preview, key, data, kstDate(0), index);
+          setText(preview, "[data-preview-topic]", reader.labels[key] + " · 찾아본 카드");
+          setText(preview, "[data-topic-count]", (index + 1) + " / " + data[key].length);
+          root.querySelector("[data-daily-copy-fallback]").hidden = true;
+          root.querySelector("[data-daily-share-status]").textContent = "";
+          const url = new URL(window.location.href);
+          url.searchParams.set("card", key + "-" + (index + 1));
+          window.history.replaceState(null, "", url);
+          if (focus) {
+            preview.querySelector("[data-topic-title]").focus({preventScroll: true});
+            preview.scrollIntoView({block: "nearest", behavior: "auto"});
+          }
+        }
+        function renderResults(reset) {
+          if (reset) limit = 24;
+          const hits = reader.search(data, topic.value, query.value);
+          status.textContent = hits.length ? hits.length + "개 중 " + Math.min(limit, hits.length) + "개 표시" : "일치하는 카드가 없습니다. 다른 이름이나 용어로 찾아보세요.";
+          results.replaceChildren();
+          hits.slice(0, limit).forEach(function (hit) {
+            const li = document.createElement("li");
+            const button = document.createElement("button");
+            button.type = "button";
+            const tag = document.createElement("span");
+            tag.textContent = reader.labels[hit.topic];
+            const title = document.createElement("strong");
+            title.textContent = hit.title;
+            button.append(tag, title);
+            button.addEventListener("click", function () { showCard(hit.topic, hit.index, true); });
+            li.append(button);
+            results.append(li);
+          });
+          more.hidden = hits.length <= limit;
+        }
+        query.disabled = false;
+        topic.disabled = false;
+        function updateSearch() {
+          preview.hidden = true;
+          selected = null;
+          const url = new URL(window.location.href);
+          url.searchParams.delete("card");
+          window.history.replaceState(null, "", url);
+          renderResults(true);
+        }
+        query.addEventListener("input", updateSearch);
+        topic.addEventListener("change", updateSearch);
+        more.addEventListener("click", function () { limit += 24; renderResults(false); });
+        root.querySelector("[data-daily-share-card]").addEventListener("click", function () {
+          if (!selected) return;
+          const url = new URL("/daily-korean-medicine/", window.location.origin);
+          url.searchParams.set("card", selected.topic + "-" + (selected.index + 1));
+          reader.copyLink(url.href, root.querySelector("[data-daily-copy-fallback]"), root.querySelector("[data-daily-share-status]"));
+        });
+        const card = reader.cardFrom(new URL(window.location.href).searchParams.get("card"), data);
+        if (card) {
+          root.open = true;
+          topic.value = card.topic;
+          showCard(card.topic, card.index, false);
+        }
+        renderResults(true);
+      }).catch(function () {
+        status.textContent = "카드 자료를 불러오지 못했습니다. 아래 주제별 문서에서 읽을 수 있습니다.";
+      });
+    });
+  }
+
   function init() {
     if (!document.querySelector("[data-daily-km-topics]")) return;
     renderAll();
+    initBrowser();
   }
 
   window.addEventListener("daily-km-offset", function (event) {
     const value = event.detail && Number(event.detail.offset);
-    if (Number.isFinite(value)) {
+    if (Number.isInteger(value)) {
       dayOffset = value;
       renderAll();
     }
