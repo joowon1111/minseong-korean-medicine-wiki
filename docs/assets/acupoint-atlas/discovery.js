@@ -53,6 +53,33 @@
       if (safe) node.href = safe;
       return node;
     }
+    function syncURL() {
+      const win = doc.defaultView;
+      if (!win || !win.history) return;
+      const url = new URL(win.location.href);
+      for (const [key, value] of Object.entries({point: selected, type: kind, q: query.value,
+        meridian: meridian.value, region: region.value})) {
+        if (value) url.searchParams.set(key, value); else url.searchParams.delete(key);
+      }
+      url.hash = 'clinical-explorer';
+      win.history.replaceState(null, '', url);
+    }
+    function navigate(entry) {
+      // A diagram or prescription may lead beyond the current search scope.
+      query.value = entry.code || entry.name; setKind(entry.kind); selected = entry.id;
+      choose(entry); update();
+      const heading = panel.querySelector('h3');
+      heading.tabIndex = -1; heading.focus({preventScroll: true});
+      panel.scrollIntoView({block: 'start', behavior: 'smooth'});
+    }
+    function recordLink(label, entry, parent) {
+      const node = link(label, entry.href, parent);
+      node.addEventListener('click', event => {
+        if (event.button || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+        event.preventDefault(); navigate(entry);
+      });
+      return node;
+    }
     function section(title, text) {
       if (!text) return;
       el('h4', title, panel); el('p', text, panel);
@@ -67,6 +94,24 @@
       link('상세 문서', entry.href, actions);
       if (entry.route) link(entry.meridian_name + ' 유주', entry.route, actions);
       if (entry.standard_reference) link('표준경혈 DB', entry.standard_reference, actions);
+      const share = el('button', '선택·검색 링크 복사', actions); share.type = 'button';
+      const shareStatus = el('p', '', panel, 'discovery-source');
+      shareStatus.setAttribute('role', 'status');
+      share.addEventListener('click', async () => {
+        syncURL();
+        const url = doc.defaultView.location.href;
+        try {
+          await doc.defaultView.navigator.clipboard.writeText(url);
+          shareStatus.textContent = '현재 선택과 검색 조건의 링크를 복사했습니다.';
+        } catch (_) {
+          shareStatus.replaceChildren();
+          el('span', '아래 주소를 선택해 복사해 주세요. ', shareStatus);
+          const field = el('input', undefined, shareStatus);
+          field.type = 'text'; field.readOnly = true; field.value = url;
+          field.setAttribute('aria-label', '선택과 검색 조건 공유 주소');
+          field.focus(); field.select();
+        }
+      });
       if (entry.points) {
         const group = el('div', undefined, panel, 'discovery-points');
         for (const role of ['보', '사']) {
@@ -74,7 +119,9 @@
           el('strong', role + '혈: ', row);
           entry.points.filter(p => p.role === role).forEach((p, i) => {
             if (i) row.appendChild(doc.createTextNode(' · '));
-            link(p.name + ' ' + p.code, p.href, row);
+            const point = entries.find(e => e.id === p.code && e.kind === 'standard');
+            if (point) recordLink(p.name + ' ' + p.code, point, row);
+            else link(p.name + ' ' + p.code, p.href, row);
           });
         }
       }
@@ -82,11 +129,64 @@
       if (entry.diagrams.length) {
         const views = el('div', undefined, panel, 'discovery-views');
         const figure = el('figure', undefined, panel, 'discovery-figure');
-        const object = el('object', undefined, figure);
+        const controls = el('div', undefined, figure, 'discovery-zoom');
+        const viewport = el('div', undefined, figure, 'discovery-viewport');
+        viewport.tabIndex = 0;
+        viewport.setAttribute('aria-label', '경혈 도해 · 확대 후 가로·세로로 스크롤할 수 있습니다');
+        const object = el('object', undefined, viewport);
+        let zoom = 1;
+        const zoomStatus = el('span', '100%', controls);
+        zoomStatus.setAttribute('aria-live', 'polite');
+        function resize() {
+          const old = object.clientWidth || viewport.clientWidth;
+          const centerX = (viewport.scrollLeft + viewport.clientWidth / 2) / old;
+          const centerY = (viewport.scrollTop + viewport.clientHeight / 2) / (object.clientHeight || viewport.clientHeight);
+          object.style.width = (zoom * 100) + '%';
+          object.style.height = (viewport.clientHeight * zoom) + 'px';
+          viewport.scrollLeft = centerX * object.clientWidth - viewport.clientWidth / 2;
+          viewport.scrollTop = centerY * object.clientHeight - viewport.clientHeight / 2;
+          zoomStatus.textContent = Math.round(zoom * 100) + '%';
+          minus.disabled = zoom <= 1; plus.disabled = zoom >= 3;
+        }
+        function control(label, action) {
+          const button = el('button', label, controls); button.type = 'button';
+          button.addEventListener('click', action); return button;
+        }
+        const minus = control('축소', () => {zoom = Math.max(1, zoom - .5); resize();});
+        const plus = control('확대', () => {zoom = Math.min(3, zoom + .5); resize();});
+        control('원래 크기', () => {zoom = 1; resize();});
+        const fullscreen = control('크게 보기', async () => {
+          try {
+            if (doc.fullscreenElement === figure) await doc.exitFullscreen();
+            else if (figure.requestFullscreen) await figure.requestFullscreen();
+            else figure.classList.toggle('discovery-expanded');
+          } catch (_) {figure.classList.toggle('discovery-expanded');}
+          fullscreen.textContent = doc.fullscreenElement === figure || figure.classList.contains('discovery-expanded') ? '크게 보기 닫기' : '크게 보기';
+          resize();
+        });
+        figure.addEventListener('fullscreenchange', () => {
+          fullscreen.textContent = doc.fullscreenElement === figure ? '크게 보기 닫기' : '크게 보기'; resize();
+        });
+        const wired = new WeakSet();
+        object.addEventListener('load', () => {
+          const svg = object.contentDocument;
+          if (!svg || wired.has(svg)) return;
+          wired.add(svg);
+          svg.querySelectorAll('a[href]').forEach(anchor => {
+            const href = anchor.getAttribute('href');
+            const target = entries.find(e => e.href === href);
+            if (!target) return;
+            anchor.addEventListener('click', event => {
+              if (event.button || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+              event.preventDefault(); navigate(target);
+            });
+          });
+        });
         object.type = 'image/svg+xml';
         const fallback = link('도해를 새 화면에서 보기', entry.diagrams[0].src, object);
         const caption = el('figcaption', undefined, figure);
         function show(src, title, button) {
+          zoom = 1; resize();
           object.data = safeURL(src);
           object.setAttribute('aria-label', title);
           fallback.href = safeURL(src);
@@ -118,7 +218,9 @@
           const roles = el('p', undefined, panel);
           entry.roles.forEach((r, i) => {
             if (i) roles.appendChild(doc.createTextNode(' · '));
-            link(r.label, '/acupuncture-specific/saam-12-meridians/#' + r.meridian, roles);
+            const prescription = entries.find(e => e.kind === 'saam' && e.name === r.label.replace(/ [보사]혈$/, ''));
+            if (prescription) recordLink(r.label, prescription, roles);
+            else link(r.label, '/acupuncture-specific/saam-12-meridians/#' + r.meridian, roles);
           });
         }
       }
@@ -141,15 +243,7 @@
         link('CC BY 4.0', 'https://github.com/wonyung-lee/km-agent/blob/main/LICENSE', attribution);
       }
       result.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.entry === entry.id)));
-      // Deep links identify records, not symptom-based treatment recommendations.
-      const win = doc.defaultView;
-      if (win && win.history) {
-        const location = new URL(win.location.href);
-        location.searchParams.set('point', entry.id);
-        location.searchParams.set('type', kind);
-        if (query.value) location.searchParams.set('q', query.value); else location.searchParams.delete('q');
-        win.history.replaceState(null, '', location);
-      }
+      syncURL();
     }
     function options(select, values, empty) {
       select.replaceChildren();
@@ -177,11 +271,13 @@
       status.textContent = visible.length + '개 항목 · ' + Math.min(limit, visible.length) + '개 표시';
       more.hidden = visible.length <= limit;
       if (!visible.length) {
+        selected = '';
         el('p', '일치하는 항목이 없습니다. 검색어를 줄이거나 전체 보기를 눌러 주세요.', result);
         panel.hidden = true;
       } else if (!visible.some(e => e.id === selected)) {
         choose(visible[0]);
       } else panel.hidden = false;
+      syncURL();
     }
     function setKind(value) {
       kind = value; limit = 24; fillFilters();
@@ -206,8 +302,17 @@
       const params = new URL(win.location.href).searchParams;
       setKind(Object.hasOwn(kinds, params.get('type')) ? params.get('type') : '');
       if (!lastQuery) query.value = (params.get('q') || '').slice(0, 100);
+      for (const [select, name] of [[meridian, 'meridian'], [region, 'region']]) {
+        const value = params.get(name);
+        if ([...select.options].some(option => option.value === value)) select.value = value;
+      }
       const target = entries.find(e => e.id === params.get('point'));
-      if (target) choose(target);
+      if (target && matches(target, {kind, query: query.value, meridian: meridian.value, region: region.value})) {
+        const sorted = entries.filter(e => matches(e, {kind, query: query.value, meridian: meridian.value, region: region.value}))
+          .sort((a, b) => rank(b, query.value) - rank(a, query.value));
+        limit = Math.max(24, Math.ceil((sorted.indexOf(target) + 1) / 24) * 24);
+        choose(target);
+      } else if (target) {query.value = ''; setKind(target.kind); choose(target);}
       update();
     }).catch(() => {status.textContent = '탐색 자료를 불러오지 못했습니다. 아래 경락별 목록·부위별 도해는 계속 사용할 수 있습니다.';});
   }
