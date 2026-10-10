@@ -1134,6 +1134,7 @@ nav:
       - 의가·고전·처방 계보: network/physician-classic-formula-lineage.md
       - 상한론 전체 조문 지도: network/shanghan-taiyang-map.md
       - 고전→현대 연구 연결: network/classic-to-evidence-map.md
+      - 예방·기능 회복 연구 지도: research/prevention-function.md
     - 통합 지식 그래프:
       - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
   - 진단·변증:
@@ -1318,6 +1319,7 @@ nav:
     - 고전 비교·읽는 방법:
       - 고전 9종 비교: classics-network/comparison.md
       - 고전 읽는 순서: classics-network/reading-path.md
+      - 양생·치미병 원문과 해석: yangsaeng/index.md
     - 황제내경 핵심 지식망: neijing-network/index.md
     - 상한론 핵심 지식망: shanghan-network/index.md
     - 금궤요략 임상 원문·지식망: jingui-network/index.md
