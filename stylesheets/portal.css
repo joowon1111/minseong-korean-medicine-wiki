@@ -219,11 +219,17 @@
   font-weight: 700;
 }
 .daily-km-topic h3 { margin: .45rem 0 .55rem; font-size: 1.15rem; }
-.daily-km-topic-summary, .daily-km-topic-translation, .daily-km-topic-note, .daily-km-topic-edition {
+.daily-km-topic-summary, .daily-km-topic-translation, .daily-km-topic-explanation, .daily-km-topic-note, .daily-km-topic-edition {
   margin: .45rem 0;
   font-size: .82rem;
 }
 .daily-km-topic-summary { white-space: pre-line; }
+.daily-km-topic-sasang .daily-km-topic-translation,
+.daily-km-topic-sasang .daily-km-topic-explanation,
+.daily-km-topic-sasang .daily-km-topic-note { line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; }
+.daily-km-topic-explanation { margin: .7rem 0; }
+.daily-km-topic-sasang .daily-km-topic-meta span { white-space: nowrap; }
+.daily-km-topic-meta [data-topic-count] { text-align: right; }
 .daily-km-topic-original {
   margin: .65rem 0;
   padding: .55rem .75rem;
