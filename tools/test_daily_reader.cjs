@@ -40,3 +40,32 @@ test('card permalinks respect topic boundaries and one-based indexes', () => {
     assert.equal(reader.cardFrom(value, data), null);
   }
 });
+
+test('meridian filters compose with point codes and never leak into other topics', () => {
+  assert.equal(reader.search(data, 'points', '', '수양명대장경').length, 20);
+  assert.equal(reader.search(data, 'points', 'li4', '수양명대장경').length, 1);
+  assert.equal(reader.search(data, 'points', 'li4', '수태음폐경').length, 0);
+  assert.equal(reader.search(data, 'points', '', '임맥').length, 24);
+  assert.equal(reader.search(data, 'herbs', '', '수양명대장경').length, data.herbs.length);
+});
+
+test('daily clause prose has no imported document markup and related links resolve', () => {
+  for (const [topic, items] of Object.entries(data)) {
+    if (!Array.isArray(items)) continue;
+    for (const item of items) {
+      if (topic === 'shanghan') assert.doesNotMatch(item.translation, /\?\?\?|\]\(|\*\*/);
+      for (const link of item.related || []) {
+        assert(link.label && link.href.startsWith('/') && !link.href.startsWith('//'));
+        const url = new URL(link.href, 'https://wiki.minseong.co.kr');
+        if (url.pathname === '/daily-korean-medicine/') {
+          assert(reader.cardFrom(url.searchParams.get('card'), data), link.href);
+        } else {
+          const path = 'docs' + url.pathname.replace(/\/$/, '');
+          assert(fs.existsSync(path + '.md') || fs.existsSync(path + '/index.md'), link.href);
+        }
+      }
+    }
+  }
+  assert(reader.search(data, 'herbs', '사역산').length === 0);
+  assert(reader.search(data, 'herbs', '삼령백출산').some(hit => /길경/.test(hit.title)));
+});

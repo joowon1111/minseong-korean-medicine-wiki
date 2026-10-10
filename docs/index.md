@@ -65,6 +65,7 @@ hide:
   <p class="daily-km-topic-summary" data-topic-summary>우방자의 기원·초법, 소산풍열·선폐이인·투진소종 효능, 은교산·소풍산 속 역할과 박하·길경 감별을 정리합니다.</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
   <p class="daily-km-topic-translation" data-topic-translation hidden><strong>아카이브 풀이</strong> — </p>
+  <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
   <p class="daily-km-topic-note" data-topic-note hidden></p>
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <div class="daily-km-topic-links">
@@ -79,6 +80,7 @@ hide:
   <p class="daily-km-topic-summary" data-topic-summary>조문 원문</p>
   <blockquote class="daily-km-topic-original" data-topic-original>傷寒脈浮緩，身不疼，但重，乍有輕時，無少陰證者，大青龍湯發之。</blockquote>
   <p class="daily-km-topic-translation" data-topic-translation><strong>아카이브 풀이</strong> — 상한에 부완맥이면서 몸은 아프지 않고 무겁되 가벼울 때도 있으며 소음증이 없는 경우 대청룡탕으로 발산한다.</p>
+  <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
   <p class="daily-km-topic-note" data-topic-note><strong>읽는 포인트</strong> — ‘몸이 무겁다’만으로 대청룡탕을 정하지 않는다. 無少陰證이 본문에 명시된 조건이다.</p>
   <p class="daily-km-topic-edition" data-topic-edition>송본 계열 · 중의급성 전사문 · 통행 398조 구분</p>
   <div class="daily-km-topic-links">

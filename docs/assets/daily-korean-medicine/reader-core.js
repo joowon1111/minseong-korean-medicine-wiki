@@ -31,15 +31,17 @@
     return topic === "points" ? item.name + " " + item.code + " · " + item.hanja : item.title;
   }
   function normalize(value) { return String(value || "").normalize("NFKC").toLowerCase().replace(/\s+/g, ""); }
-  function search(data, topic, query) {
+  function search(data, topic, query, meridian) {
     const terms = String(query || "").trim().split(/\s+/).filter(Boolean).map(normalize);
     const hits = [];
     Object.keys(labels).forEach(function (key) {
       if (topic !== "all" && topic !== key) return;
       (data[key] || []).forEach(function (item, index) {
+        if (key === "points" && meridian && meridian !== "all" && item.meridian !== meridian) return;
         const title = titleFor(key, item);
         const text = normalize([title, item.meridian, item.location, (item.traditional || []).join(" "), item.summary,
-          item.original, item.translation, item.explanation, item.note].filter(Boolean).join(" "));
+          item.original, item.translation, item.explanation, item.note, item.review,
+          (item.related || []).map(function (link) { return link.label; }).join(" ")].filter(Boolean).join(" "));
         if (terms.every(function (term) { return text.includes(term); })) hits.push({ topic: key, index: index, title: title });
       });
     });
