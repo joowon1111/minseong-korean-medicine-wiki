@@ -83,6 +83,28 @@
     const index = Math.floor((date.getTime() - start) / 86400000) % items.length;
     return { item: items[index], season: season, index: index, count: items.length };
   }
+  const seasons = { spring: "봄", summer: "여름", autumn: "가을", winter: "겨울" };
+  function almanacFrom(value, data) {
+    if (typeof value !== "string" || !/^(spring|summer|autumn|winter)-[0-9]{2,3}$/.test(value)) return null;
+    return (data.cards || []).find(function (item) { return item.id === value; }) || null;
+  }
+  function searchAlmanac(data, season, query) {
+    const terms = String(query || "").trim().split(/\s+/).filter(Boolean).map(normalize);
+    return (data.cards || []).filter(function (item) {
+      if (season !== "all" && item.season !== season) return false;
+      const source = (data.sources || {})[item.source] || {};
+      const text = normalize([seasons[item.season], item.theme, item.line, item.practice,
+        source.original, source.translation, source.words, source.label, source.context].filter(Boolean).join(" "));
+      return terms.every(function (term) { return text.includes(term); });
+    });
+  }
+  function almanacText(item, data) {
+    const source = data.sources[item.source];
+    return ["양생(養生) · " + seasons[item.season] + " · " + item.theme,
+      "생활 제안 — " + item.line, "오늘의 작은 실천 — " + item.practice,
+      "고전 원문 — " + source.original, "원문 풀이 — " + source.translation,
+      "출처 — " + source.label, source.href].join("\n\n");
+  }
   async function copyLink(href, fallback, status) {
     try {
       await navigator.clipboard.writeText(href);
@@ -99,5 +121,6 @@
   return { labels: labels, chapters: chapters, chapterFor: chapterFor, clauseFrom: clauseFrom,
     parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor,
     titleFor: titleFor, search: search, cardFrom: cardFrom, savedCards: savedCards,
-    seasonalCard: seasonalCard, copyLink: copyLink };
+    seasonalCard: seasonalCard, seasons: seasons, almanacFrom: almanacFrom,
+    searchAlmanac: searchAlmanac, almanacText: almanacText, copyLink: copyLink };
 });

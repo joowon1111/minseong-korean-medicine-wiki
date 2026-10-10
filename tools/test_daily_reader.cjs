@@ -135,3 +135,44 @@ test('almanac source links reach both classical archive hubs and each season inc
     assert(books.some(label=>label.startsWith('황제내경')));
   }
 });
+
+test('almanac identifiers remain tied to content when order changes and invalid links fail closed', () => {
+  const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  assert.equal(new Set(almanac.cards.map(item => item.id)).size,96);
+  const reversed = {...almanac,cards:[...almanac.cards].reverse()};
+  for(const item of almanac.cards) {
+    assert.equal(reader.almanacFrom(item.id,reversed),item);
+    assert.equal(reader.almanacFrom(item.id,almanac),item);
+  }
+  for(const id of ['spring-00','spring-25','spring-1','autumn-01x','spring-01/','unknown-01','__proto__',null]) {
+    assert.equal(reader.almanacFrom(id,almanac),null);
+  }
+});
+
+test('almanac search combines season with original, gloss, practical action and book terms', () => {
+  const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  assert.equal(reader.searchAlmanac(almanac,'all','').length,96);
+  assert.equal(reader.searchAlmanac(almanac,'winter','').length,24);
+  const hits=reader.searchAlmanac(almanac,'autumn','동의보감 少勞');
+  assert.equal(hits.length,1);
+  assert.equal(hits[0].source,'gentle');
+  assert(reader.searchAlmanac(almanac,'all','넓적다리').every(item=>item.source==='leg-movement'));
+  assert.equal(reader.searchAlmanac(almanac,'all','넓적다리').length,4);
+  assert.equal(reader.searchAlmanac(almanac,'all','식사 건너뛰거나')[0].season,'summer');
+  assert.equal(reader.searchAlmanac(almanac,'autumn','동의보감 missing-word').length,0);
+  assert.equal(reader.searchAlmanac(almanac,'all','<script>missing</script>').length,0);
+  for(const source of Object.values(almanac.sources)) assert(source.words);
+});
+
+test('copied almanac prose distinguishes lifestyle suggestions from attributed original text', () => {
+  const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  for(const item of almanac.cards) {
+    const text=reader.almanacText(item,almanac),source=almanac.sources[item.source];
+    assert(text.includes('생활 제안 — '+item.line));
+    assert(text.includes('오늘의 작은 실천 — '+item.practice));
+    assert(text.includes('고전 원문 — '+source.original));
+    assert(text.includes('원문 풀이 — '+source.translation));
+    assert(text.includes('출처 — '+source.label));
+    assert(text.endsWith(source.href));
+  }
+});
