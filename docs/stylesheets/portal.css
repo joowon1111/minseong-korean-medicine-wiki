@@ -224,9 +224,9 @@
   font-size: .82rem;
 }
 .daily-km-topic-summary { white-space: pre-line; }
-.daily-km-topic-sasang .daily-km-topic-translation,
-.daily-km-topic-sasang .daily-km-topic-explanation,
-.daily-km-topic-sasang .daily-km-topic-note { line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; }
+.daily-km-topic-translation,
+.daily-km-topic-explanation,
+.daily-km-topic-note { line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; }
 .daily-km-topic-explanation { margin: .7rem 0; }
 .daily-km-topic-sasang .daily-km-topic-meta span { white-space: nowrap; }
 .daily-km-topic-meta [data-topic-count] { text-align: right; }
@@ -284,3 +284,11 @@
   .daily-km-browser-search, .md-typeset .daily-km-browser-results { grid-template-columns: 1fr; }
   .daily-km-browser summary span { display: block; margin: .25rem 0 0; }
 }
+
+.daily-km-topic-related:not([hidden]) { display: flex; flex-wrap: wrap; gap: .3rem .85rem; margin: .7rem 0; padding: .65rem 0; border-block: 1px solid var(--md-default-fg-color--lightest); }
+.daily-km-topic-related a { display: inline-flex; align-items: center; min-height: 44px; font-size: .76rem; line-height: 1.6; word-break: keep-all; overflow-wrap: anywhere; }
+.daily-km-preview-controls { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .85rem; }
+.daily-km-preview-controls [data-daily-share-card] { margin-top: 0; }
+.daily-km-browser button:disabled { opacity: .5; cursor: default; }
+.daily-km-browser-search [data-daily-meridian-label]:not([hidden]) { grid-column: 1 / -1; }
+.daily-km-browser-search [hidden] { display: none; }

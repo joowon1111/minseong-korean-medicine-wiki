@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-sasang-depth";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-card-depth";
   let dataPromise;
   const reader = window.MinseongDailyReader;
   let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
@@ -136,7 +136,19 @@
       : ((epoch % items.length) + items.length) % items.length;
     const item = items[index];
     setLink(root, "[data-topic-hkbu-reference]", "", "");
-    setOptional(root, "[data-topic-explanation]", topic === "sasang" && item.explanation ? "해설 — " + item.explanation : "");
+    setOptional(root, "[data-topic-explanation]", item.explanation ? "해설 — " + item.explanation : "");
+    const related = root.querySelector("[data-topic-related]");
+    if (related) {
+      related.replaceChildren();
+      (item.related || []).forEach(function (link) {
+        if (typeof link.href !== "string" || !link.href.startsWith("/") || link.href.startsWith("//")) return;
+        const anchor = document.createElement("a");
+        anchor.href = link.href;
+        anchor.textContent = link.label + " →";
+        related.append(anchor);
+      });
+      related.hidden = !related.childElementCount;
+    }
 
     if (topic === "points") {
       setText(root, "[data-topic-count]", "올해의 경혈 " + (index + 1) + " / " + items.length);
@@ -152,7 +164,7 @@
       setLink(root, "[data-topic-link]", item.href, "경혈 위치·설명 보기 →");
       setOptional(root, "[data-topic-original]", "");
       setOptional(root, "[data-topic-translation]", "");
-      setOptional(root, "[data-topic-note]", "");
+      setOptional(root, "[data-topic-note]", item.note ? "확인할 점 — " + item.note : "");
       setOptional(root, "[data-topic-edition]", "");
       setLink(root, "[data-topic-reference]", item.reference, "표준 경혈 위치 자료 확인 ↗");
     } else if (topic === "herbs") {
@@ -162,7 +174,7 @@
       setLink(root, "[data-topic-link]", item.href, "본초 문서에서 더 읽기 →");
       setOptional(root, "[data-topic-original]", "");
       setOptional(root, "[data-topic-translation]", "");
-      setOptional(root, "[data-topic-note]", "");
+      setOptional(root, "[data-topic-note]", item.note ? "확인할 점 — " + item.note : "");
       setOptional(root, "[data-topic-edition]", "");
       const catalogRecord = typeof item.href === "string" ? hkbuHerbReferences[item.href] : "";
       const providedCatalogUrl = typeof item.reference === "string" && item.reference.startsWith("https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=")
@@ -198,7 +210,7 @@
       shanghan: "조문에서 빠뜨리면 안 되는 증후와 조건을 짚어 보세요.",
       sasang: "평소 소증과 현재 병증, 비슷한 처방의 갈림점을 구분해 보세요."
     };
-    setText(root, "[data-topic-review]", "복습 포인트 — " + reviews[topic]);
+    setText(root, "[data-topic-review]", "복습 포인트 — " + (item.review || reviews[topic]));
     const quiz = { points: "acupoints", herbs: "herbs", shanghan: "shanghanlun", sasang: "sasang" };
     setLink(root, "[data-topic-quiz]", "/learning/" + quiz[topic] + "/", reader.labels[topic] + " 학습·퀴즈 →");
 
@@ -243,8 +255,31 @@
       const status = root.querySelector("[data-daily-results-status]");
       const more = root.querySelector("[data-daily-more]");
       const preview = root.querySelector("[data-daily-preview]");
+      const meridian = root.querySelector("[data-daily-meridian]");
+      const meridianLabel = root.querySelector("[data-daily-meridian-label]");
+      const previous = root.querySelector("[data-daily-previous-card]");
+      const next = root.querySelector("[data-daily-next-card]");
       let selected, limit = 24;
       loadData().then(function (data) {
+        Array.from(new Set(data.points.map(function (item) { return item.meridian; }))).forEach(function (name) {
+          const option = document.createElement("option");
+          option.value = name;
+          option.textContent = name;
+          meridian.append(option);
+        });
+        meridian.disabled = false;
+        function matchingCards() { return reader.search(data, topic.value, query.value, meridian.value); }
+        function neighbors() {
+          const hits = matchingCards().filter(function (hit) { return selected && hit.topic === selected.topic; });
+          const position = hits.findIndex(function (hit) { return hit.index === selected.index; });
+          return { hits: hits, position: position };
+        }
+        function updateNavigation() {
+          const list = neighbors();
+          previous.disabled = list.position <= 0;
+          next.disabled = list.position < 0 || list.position >= list.hits.length - 1;
+          setText(preview, "[data-daily-preview-position]", "현재 조건의 " + reader.labels[selected.topic] + " " + (list.position + 1) + " / " + list.hits.length);
+        }
         function showCard(key, index, focus) {
           selected = { topic: key, index: index };
           preview.className = "daily-km-topic daily-km-topic-" + key;
@@ -254,6 +289,7 @@
           setText(preview, "[data-topic-count]", (index + 1) + " / " + data[key].length);
           root.querySelector("[data-daily-copy-fallback]").hidden = true;
           root.querySelector("[data-daily-share-status]").textContent = "";
+          updateNavigation();
           const url = new URL(window.location.href);
           url.searchParams.set("card", key + "-" + (index + 1));
           window.history.replaceState(null, "", url);
@@ -264,7 +300,7 @@
         }
         function renderResults(reset) {
           if (reset) limit = 24;
-          const hits = reader.search(data, topic.value, query.value);
+          const hits = matchingCards();
           status.textContent = hits.length ? hits.length + "개 중 " + Math.min(limit, hits.length) + "개 표시" : "일치하는 카드가 없습니다. 다른 이름이나 용어로 찾아보세요.";
           results.replaceChildren();
           hits.slice(0, limit).forEach(function (hit) {
@@ -293,7 +329,20 @@
           renderResults(true);
         }
         query.addEventListener("input", updateSearch);
-        topic.addEventListener("change", updateSearch);
+        function updateMeridianVisibility() {
+          meridianLabel.hidden = topic.value !== "points";
+          if (topic.value !== "points") meridian.value = "all";
+        }
+        topic.addEventListener("change", function () { updateMeridianVisibility(); updateSearch(); });
+        meridian.addEventListener("change", updateSearch);
+        function moveCard(direction) {
+          if (!selected) return;
+          const list = neighbors();
+          const hit = list.hits[list.position + direction];
+          if (list.position >= 0 && hit) showCard(hit.topic, hit.index, true);
+        }
+        previous.addEventListener("click", function () { moveCard(-1); });
+        next.addEventListener("click", function () { moveCard(1); });
         more.addEventListener("click", function () { limit += 24; renderResults(false); });
         root.querySelector("[data-daily-share-card]").addEventListener("click", function () {
           if (!selected) return;
@@ -307,6 +356,7 @@
           topic.value = card.topic;
           showCard(card.topic, card.index, false);
         }
+        updateMeridianVisibility();
         renderResults(true);
       }).catch(function () {
         status.textContent = "카드 자료를 불러오지 못했습니다. 아래 주제별 문서에서 읽을 수 있습니다.";
