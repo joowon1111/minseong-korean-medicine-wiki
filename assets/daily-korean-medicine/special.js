@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-yangsheng-classics";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-yangsheng-library";
   let dataPromise, yangshengPromise;
   const reader = window.MinseongDailyReader;
   let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
@@ -128,6 +128,36 @@
     node.hidden = !value;
   }
 
+  function loadAlmanac() {
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261010-yangsheng-library", {credentials: "same-origin"})
+      .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); })
+      .then(function (data) {
+        if (!Array.isArray(data.cards) || !data.cards.length || !data.sources || !data.modern ||
+            data.cards.some(function (item) { return !item.id || !item.line || !item.practice || !data.sources[item.source]; }) ||
+            new Set(data.cards.map(function (item) { return item.id; })).size !== data.cards.length) {
+          throw new Error("Almanac incomplete");
+        }
+        return data;
+      });
+    return yangshengPromise;
+  }
+
+  function renderAlmanacContent(root, item, data) {
+    const source = data.sources[item.source];
+    setText(root, "[data-yangsheng-season]", reader.seasons[item.season]);
+    setText(root, "[data-yangsheng-theme]", item.theme);
+    setText(root, "[data-yangsheng-line]", item.line);
+    setOptional(root, "[data-yangsheng-practice]", "오늘의 작은 실천 — " + item.practice);
+    setText(root, "[data-yangsheng-original]", source.original);
+    setText(root, "[data-yangsheng-translation]", "원문 풀이 — " + source.translation);
+    setOptional(root, "[data-yangsheng-words]", source.words ? "말뜻 — " + source.words : "");
+    setText(root, "[data-yangsheng-context]", source.context);
+    setLink(root, "[data-yangsheng-source]", source.href, source.label + " ↗");
+    setLink(root, "[data-yangsheng-archive]", source.archiveHref, source.archiveLabel + " →");
+    const guide = item.modern && data.modern[item.modern];
+    setLink(root, "[data-yangsheng-modern]", guide ? guide.href : "", guide ? "오늘의 생활 자료 · " + guide.label + " ↗" : "");
+  }
+
   function renderTopic(root, topic, data, date, chosenIndex) {
     const epoch = absoluteDay(date);
     const items = data[topic];
@@ -224,27 +254,13 @@
   function renderYangsheng(date) {
     const roots = document.querySelectorAll("[data-daily-yangsheng]");
     if (!roots.length) return;
-    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261010-yangsheng-classics", {credentials: "same-origin"})
-      .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); });
-    yangshengPromise.then(function (data) {
+    loadAlmanac().then(function (data) {
       // Ignore an older date's pending render when the reader moves quickly.
       if (date.getTime() !== kstDate(dayOffset).getTime()) return;
       const selected = reader.seasonalCard(date, data);
       if (!selected || !data.sources[selected.item.source]) throw new Error("Almanac incomplete");
-      const item = selected.item, source = data.sources[item.source];
       roots.forEach(function (root) {
-        const seasons = {spring: "봄", summer: "여름", autumn: "가을", winter: "겨울"};
-        setText(root, "[data-yangsheng-season]", seasons[selected.season]);
-        setText(root, "[data-yangsheng-theme]", item.theme);
-        setText(root, "[data-yangsheng-line]", item.line);
-        setOptional(root, "[data-yangsheng-practice]", item.practice ? "오늘의 작은 실천 — " + item.practice : "");
-        setText(root, "[data-yangsheng-original]", source.original);
-        setText(root, "[data-yangsheng-translation]", "원문 풀이 — " + source.translation);
-        setText(root, "[data-yangsheng-context]", source.context);
-        setLink(root, "[data-yangsheng-source]", source.href, source.label + " ↗");
-        setLink(root, "[data-yangsheng-archive]", source.archiveHref, source.archiveLabel + " →");
-        const guide = item.modern && data.modern[item.modern];
-        setLink(root, "[data-yangsheng-modern]", guide ? guide.href : "", guide ? "오늘의 생활 자료 · " + guide.label + " ↗" : "");
+        renderAlmanacContent(root, selected.item, data);
         const node = root.querySelector("[data-yangsheng-date]");
         node.textContent = formatDate(date);
         node.setAttribute("datetime", date.toISOString().slice(0, 10));
@@ -252,6 +268,122 @@
       });
     }).catch(function () {
       roots.forEach(function (root) { root.querySelector("[data-yangsheng-error]").hidden = false; });
+    });
+  }
+
+  const almanacReady = new WeakSet();
+  function initAlmanacBrowser() {
+    document.querySelectorAll("[data-almanac-library]").forEach(function (root) {
+      if (almanacReady.has(root)) return;
+      almanacReady.add(root);
+      const query = root.querySelector("[data-almanac-query]"), season = root.querySelector("[data-almanac-season]");
+      const results = root.querySelector("[data-almanac-results]"), status = root.querySelector("[data-almanac-status]");
+      const more = root.querySelector("[data-almanac-more]"), preview = root.querySelector("[data-almanac-preview]");
+      const previous = root.querySelector("[data-almanac-previous]"), next = root.querySelector("[data-almanac-next]");
+      const copyStatus = root.querySelector("[data-almanac-copy-status]");
+      const linkFallback = root.querySelector("[data-almanac-link-fallback]"), textFallback = root.querySelector("[data-almanac-text-fallback]");
+      const todayButton = document.querySelector("[data-yangsheng-find]");
+      let selected = null, limit = 12, copyVersion = 0;
+      loadAlmanac().then(function (data) {
+        if (!root.isConnected) return;
+        function hits() { return reader.searchAlmanac(data, season.value, query.value); }
+        function clearCopy() { copyVersion += 1; copyStatus.textContent = ""; linkFallback.hidden = true; textFallback.hidden = true; }
+        function renderResults(reset) {
+          if (reset) limit = 12;
+          const items = hits();
+          status.textContent = items.length ? items.length + "개 중 " + Math.min(limit, items.length) + "개 표시"
+            : "일치하는 문구가 없습니다. 계절이나 검색어를 바꿔 보세요.";
+          results.replaceChildren();
+          items.slice(0, limit).forEach(function (item) {
+            const li = document.createElement("li"), button = document.createElement("button");
+            const tag = document.createElement("span"), line = document.createElement("strong");
+            button.type = "button";
+            button.setAttribute("aria-pressed", String(selected && selected.id === item.id || false));
+            tag.textContent = reader.seasons[item.season] + " · " + item.theme;
+            line.textContent = item.line;
+            button.append(tag, line);
+            button.addEventListener("click", function () { showItem(item, true); });
+            li.append(button); results.append(li);
+          });
+          more.hidden = items.length <= limit;
+        }
+        function showItem(item, focus) {
+          selected = item;
+          preview.hidden = false;
+          renderAlmanacContent(preview, item, data);
+          setText(preview, "[data-almanac-title]", reader.seasons[item.season] + " · " + item.theme);
+          const items = hits(), position = items.findIndex(function (hit) { return hit.id === item.id; });
+          previous.disabled = position <= 0; next.disabled = position < 0 || position >= items.length - 1;
+          setText(preview, "[data-almanac-position]", "현재 조건의 문구 " + (position + 1) + " / " + items.length);
+          clearCopy(); renderResults(false);
+          const url = new URL(window.location.href);
+          url.searchParams.set("almanac", item.id);
+          window.history.replaceState(null, "", url);
+          if (focus) {
+            preview.querySelector("[data-almanac-title]").focus({preventScroll: true});
+            preview.scrollIntoView({block: "nearest", behavior: "auto"});
+          }
+        }
+        function updateSearch() {
+          selected = null; preview.hidden = true; clearCopy();
+          const url = new URL(window.location.href);
+          url.searchParams.delete("almanac");
+          window.history.replaceState(null, "", url);
+          renderResults(true);
+        }
+        function move(direction) {
+          if (!selected) return;
+          const items = hits(), position = items.findIndex(function (item) { return item.id === selected.id; });
+          if (position >= 0 && items[position + direction]) showItem(items[position + direction], true);
+        }
+        query.disabled = false; season.disabled = false;
+        query.addEventListener("input", updateSearch); season.addEventListener("change", updateSearch);
+        more.addEventListener("click", function () {
+          const firstNew = limit;
+          limit += 12; renderResults(false);
+          if (more.hidden) {
+            const button = results.querySelectorAll("button")[firstNew];
+            if (button) button.focus();
+          }
+        });
+        previous.addEventListener("click", function () { move(-1); }); next.addEventListener("click", function () { move(1); });
+        async function copySelection(asText) {
+          if (!selected) return;
+          clearCopy();
+          const version = copyVersion;
+          const url = new URL("/daily-korean-medicine/", window.location.origin);
+          url.searchParams.set("almanac", selected.id);
+          const value = asText ? reader.almanacText(selected, data) : url.href;
+          try {
+            await navigator.clipboard.writeText(value);
+            if (version !== copyVersion) return;
+            copyStatus.textContent = asText ? "생활 제안·실천·고전 원문과 출처를 복사했습니다." : "문구 링크를 복사했습니다.";
+          } catch (_) {
+            if (version !== copyVersion) return;
+            const fallback = asText ? textFallback : linkFallback;
+            fallback.value = value; fallback.hidden = false; fallback.focus(); fallback.select();
+            copyStatus.textContent = asText ? "아래 내용을 선택해 복사하세요." : "아래 주소를 선택해 복사하세요.";
+          }
+        }
+        root.querySelector("[data-almanac-share]").addEventListener("click", function () { copySelection(false); });
+        root.querySelector("[data-almanac-copy]").addEventListener("click", function () { copySelection(true); });
+        if (todayButton) {
+          todayButton.disabled = false;
+          todayButton.addEventListener("click", function () {
+            const current = reader.seasonalCard(kstDate(dayOffset), data);
+            if (!current) return;
+            root.open = true; query.value = ""; season.value = "all"; limit = 12;
+            showItem(current.item, true);
+          });
+        }
+        const requested = new URL(window.location.href).searchParams.get("almanac");
+        const item = reader.almanacFrom(requested, data);
+        if (item) { root.open = true; season.value = item.season; showItem(item, false); }
+        renderResults(true);
+        if (requested && !item) { root.open = true; status.textContent = "이 문구 링크를 찾을 수 없습니다. 아래 목록에서 골라 읽어 보세요."; }
+      }).catch(function () {
+        status.textContent = "문구 자료를 불러오지 못했습니다. 위 기본 문구나 고전 해설에서 읽을 수 있습니다.";
+      });
     });
   }
 
@@ -479,6 +611,7 @@
     if (!document.querySelector("[data-daily-km-topics]")) return;
     renderAll();
     initBrowser();
+    initAlmanacBrowser();
   }
 
   window.addEventListener("daily-km-offset", function (event) {
