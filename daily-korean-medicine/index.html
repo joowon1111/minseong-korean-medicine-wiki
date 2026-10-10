@@ -63,7 +63,7 @@
     
       <link rel="stylesheet" href="../assets/learning/learning.css?v=20261004-01">
     
-      <link rel="stylesheet" href="../stylesheets/portal.css?v=20261010-card-depth">
+      <link rel="stylesheet" href="../stylesheets/portal.css?v=20261010-chapter-reading">
     
       <link rel="stylesheet" href="../stylesheets/korean-medicine-guide.css">
     
@@ -1215,7 +1215,13 @@
       <label>주제 <select data-daily-filter disabled><option value="all">전체 주제</option><option value="points">경혈</option><option value="herbs">본초</option><option value="shanghan">상한론</option><option value="sasang">사상의학</option></select></label>
       <label>카드 검색 <input type="search" data-daily-query placeholder="예: 합곡, 황기, 계지탕, 소음인" disabled autocomplete="off"></label>
       <label data-daily-meridian-label hidden>경락 <select data-daily-meridian disabled><option value="all">전체 경락</option></select></label>
+      <label data-daily-chapter-label hidden>상한론 편 <select data-daily-chapter disabled><option value="all">전체 편 · 1–398조</option></select></label>
     </div>
+    <form class="daily-km-clause-jump" data-daily-clause-jump hidden>
+      <label>조문 번호 <input type="number" data-daily-clause-number min="1" max="398" step="1" inputmode="numeric" placeholder="1–398" required disabled></label>
+      <button type="submit" disabled>조문 열기 →</button>
+      <p class="daily-km-tool-status" data-daily-clause-status role="status"></p>
+    </form>
     <article class="daily-km-topic" data-daily-preview aria-label="찾아본 카드" hidden>
       <div class="daily-km-topic-meta"><span data-preview-topic></span><span data-topic-count></span></div>
       <h3 data-topic-title tabindex="-1"></h3>
@@ -1422,11 +1428,11 @@
       
         <script src="../assets/learning/learning.js?v=20261004-07&amp;ui=20261009-02"></script>
       
-        <script src="../assets/daily-korean-medicine/reader-core.js?v=20261010-card-depth"></script>
+        <script src="../assets/daily-korean-medicine/reader-core.js?v=20261010-chapter-reading"></script>
       
-        <script src="../assets/daily-korean-medicine.js?v=20261010-card-depth"></script>
+        <script src="../assets/daily-korean-medicine.js?v=20261010-chapter-reading"></script>
       
-        <script src="../assets/daily-korean-medicine/special.js?v=20261010-card-depth"></script>
+        <script src="../assets/daily-korean-medicine/special.js?v=20261010-chapter-reading"></script>
       
     
   </body>

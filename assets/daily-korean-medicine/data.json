@@ -4945,19 +4945,43 @@
     },
     {
       "title": "사삼(沙參·남사삼)",
-      "summary": "사삼·남사삼의 기원과 양음청폐·익위생진 효능, 사삼맥동탕 속 역할 및 북사삼·맥문동과의 감별을 정리합니다.",
+      "summary": "사삼·남사삼은 잔대류의 뿌리로 양음청폐·익위생진의 역할을 읽습니다.",
       "href": "/herbs/adenophora-root/",
       "reference": "/herbs/adenophora-root/",
       "referenceLabel": "아카이브 본초 문서·자료 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "사삼맥동탕에서는 맥문동·옥죽·상엽 등과 온조로 손상된 폐위의 음·진액을 다룹니다. 마른기침뿐 아니라 적고 끈적한 가래, 인후건조, 갈증·식사량을 함께 보는 이유입니다. 남사삼과 북사삼은 각각 잔대속과 갯방풍이라는 기원이 달라 처방 기록을 구체적으로 남깁니다. 맥문동의 양음생진·청심, 백합의 윤폐·청심안신과 비교하면 사삼의 폐위·거담 방향이 드러납니다.",
+      "review": "남사삼과 북사삼은 기원에서 어떻게 구분되나요?",
+      "related": [
+        {
+          "label": "사삼맥동탕 원문·독해",
+          "href": "/classics/wenbing-tiaobian/#upper-056"
+        },
+        {
+          "label": "맥문동 비교",
+          "href": "/herbs/ophiopogon/"
+        }
+      ]
     },
     {
       "title": "곽향·광곽향(藿香·廣藿香)",
-      "summary": "곽향과 광곽향의 기원 차이, 방향화습·화중지구·해표 효능, 후하와 저장법, 곽향정기산·불환금정기산 속 역할을 정리합니다.",
+      "summary": "곽향은 방향화습·화중지구로 오심·습체와 외감의 동반을 함께 살핍니다.",
       "href": "/herbs/agastache/",
       "reference": "/herbs/agastache/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "곽향정기산에서는 자소엽·백지의 외감축과 반하·진피·후박·백출 등의 중초 배합을 연결합니다. 불환금정기산에서는 평위산 계열의 창출·후박·진피에 곽향·반하가 더해지는 구조를 읽습니다. 배초향의 곽향과 패출리의 광곽향은 식물종·정유 조성이 달라 연구 원료를 구분합니다. ‘곽향’이라는 번역명만으로 원료를 합치지 않고, 향·약용 부위·제형과 구토·식사량·대변의 변화를 함께 확인합니다.",
+      "review": "곽향과 광곽향의 기원 구분이 연구 해석에 필요한 이유는 무엇인가요?",
+      "related": [
+        {
+          "label": "곽향정기산(藿香正氣散)",
+          "href": "/formulas/huoxiang-zhengqi-san/"
+        },
+        {
+          "label": "불환금정기산(不換金正氣散)",
+          "href": "/formulas/buhuanjin-zhengqi-san/"
+        }
+      ]
     },
     {
       "title": "목통(木通)",
@@ -4985,11 +5009,23 @@
     },
     {
       "title": "사인(砂仁)",
-      "summary": "사인(砂仁) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.",
+      "summary": "사인은 향기로운 열매·종자 원료로 화습개위·온비지사·이기를 함께 봅니다.",
       "href": "/herbs/amomum/",
       "reference": "https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00254",
       "referenceLabel": "본초 출전·참고자료 확인 ↗",
-      "referenceKind": "external"
+      "referenceKind": "external",
+      "explanation": "향사육군자탕에서는 인삼·백출의 보기건비에 목향·진피 등의 이기화습을 연결합니다. 삼령백출산에서는 산약·백편두·연자육의 보비축 사이에 행기화습을 더합니다. 보익과 기체 조절이 함께 놓이는 배합을 읽으면 소화불편을 모두 식적으로 단정하지 않게 됩니다. 목향의 행기지통, 후박의 하기제만과 비교하며, 전통적 이기안태라는 표현도 모든 임신부에게 적합하다는 뜻으로 확대하지 않습니다.",
+      "review": "보비약이 많은 삼령백출산에서 사인은 어떤 역할을 더하나요?",
+      "related": [
+        {
+          "label": "향사육군자탕(香砂六君子湯)",
+          "href": "/formulas/xiangsha-liujunzi-tang/"
+        },
+        {
+          "label": "삼령백출산(參苓白朮散)",
+          "href": "/formulas/shenling-baizhu-san/"
+        }
+      ]
     },
     {
       "title": "지모(知母)",
@@ -5037,19 +5073,44 @@
     },
     {
       "title": "행인(杏仁)",
-      "summary": "행인(杏仁)의 강기지해·윤장 전통, 마황탕·마행감석탕에서의 배합과 종자 독성·법제를 설명합니다.",
+      "summary": "행인은 종자를 쓰며 폐기를 내려 지해평천하고 장조에는 윤장통변을 겸합니다.",
       "href": "/herbs/apricot-kernel/",
       "reference": "/herbs/apricot-kernel/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "마황탕에서는 마황의 선폐와 행인의 강기가 풍한표실을 다루고, 마행감석탕에서는 석고가 더해져 폐열을 살피는 구조가 됩니다. 행인 하나의 성미로 처방의 한열을 정하지 않습니다. 마자인환에서는 마자인과 윤장하면서 후박·지실의 행기를 받칩니다. 생 살구씨 식품과 규격·가공을 거친 처방용 행인은 구분하며, amygdalin 관련 중독 위험 때문에 임의로 다량 섭취하지 않습니다.",
+      "review": "마황탕과 마행감석탕에서 행인의 공통 역할과 달라진 배합은 무엇인가요?",
+      "related": [
+        {
+          "label": "마황탕(麻黃湯)",
+          "href": "/formulas/mahuang-tang/"
+        },
+        {
+          "label": "마행감석탕(麻杏甘石湯)",
+          "href": "/formulas/maxing-ganshi-tang/"
+        }
+      ],
+      "note": "행인의 amygdalin 관련 중독 위험은 원료·가공·용량 관리가 필요한 이유입니다. 생 살구씨나 농축 제품을 임의로 섭취하는 안내로 읽지 않습니다."
     },
     {
       "title": "우방자(牛蒡子)",
-      "summary": "우방자의 기원·초법, 소산풍열·선폐이인·투진소종 효능, 은교산·소풍산 속 역할과 박하·길경 감별을 정리합니다.",
+      "summary": "우방자는 우엉의 성숙한 열매를 쓰며 소산풍열·선폐이인·투진산종을 봅니다.",
       "href": "/herbs/arctium/",
       "reference": "https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00251",
       "referenceLabel": "본초 출전·참고자료 확인 ↗",
-      "referenceKind": "external"
+      "referenceKind": "external",
+      "explanation": "은교산에서는 금은화·연교의 청열해독에 박하·길경과 함께 인후와 폐의 소통을 더합니다. 소풍산에서는 형개·방풍·고삼 등의 배합 속에서 피부의 풍열·습열을 살핍니다. 같은 우방자라도 인후와 피부의 병증 문맥이 다릅니다. 식품인 우엉 뿌리와 약용 열매는 부위부터 구분합니다. 박하의 가벼운 소산, 길경의 선폐거담과 비교하면 우방자의 이인·투진·산종이 선명해집니다.",
+      "review": "우엉 뿌리와 우방자는 약용 부위가 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "은교산(銀翹散)",
+          "href": "/formulas/yinqiao-san/"
+        },
+        {
+          "label": "소풍산(消風散)",
+          "href": "/formulas/xiaofeng-san/"
+        }
+      ]
     },
     {
       "title": "대복피(大腹皮)",
@@ -5089,11 +5150,23 @@
     },
     {
       "title": "창출(蒼朮)",
-      "summary": "창출의 기원·약용 부위와 조습건비·거풍산한·명목 효능, 평위산·오적산·구미강활탕 속 역할, 백출·곽향·후박 감별과 포제·품질을 정리합니다.",
+      "summary": "창출은 뿌리줄기를 쓰며 조습건비와 거풍산한의 비중이 큰 본초입니다.",
       "href": "/herbs/atractylodes-lancea/",
       "reference": "/herbs/atractylodes-lancea/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "평위산에서는 후박·진피와 습체·기체·창만을 조절하고, 구미강활탕에서는 강활·방풍 등과 풍한습표의 몸살·무거운 통증을 다룹니다. 같은 창출이 중초와 표증에서 역할을 달리합니다. 백출과 조습건비를 공유하지만 백출은 보기건비·지한의 비중을 함께 봅니다. 식후팽만·무른 변·몸의 무거움뿐 아니라 구갈·건조·변비를 확인하고, 기원·포제·제형을 구분해 처방의 조습 강도를 읽습니다.",
+      "review": "평위산과 구미강활탕에서 창출의 관찰 영역을 비교해 보세요.",
+      "related": [
+        {
+          "label": "평위산(平胃散)",
+          "href": "/formulas/pingwei-san/"
+        },
+        {
+          "label": "구미강활탕(九味羌活湯)",
+          "href": "/formulas/jiuwei-qianghuo-tang/"
+        }
+      ]
     },
     {
       "title": "백출(白朮) — 건비익기·조습이수",
@@ -5117,11 +5190,23 @@
     },
     {
       "title": "목향(木香)",
-      "summary": "목향(木香) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.",
+      "summary": "목향은 뿌리를 쓰며 행기지통·건비소식의 방향으로 기체와 통증을 봅니다.",
       "href": "/herbs/aucklandia/",
       "reference": "/herbs/aucklandia/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "향사육군자탕에서는 사인·진피 등의 이기와 인삼·백출의 보익 사이를 연결합니다. 귀비탕에서는 보기양혈·양심안신의 구성 안에서 중초의 기기를 움직이는 역할을 읽습니다. 이기약이 있다고 모두 실증을 공격하는 처방은 아니라는 비교점입니다. 사인의 화습온비, 후박의 조습제만, 향부자의 소간이기와 구분하며, 천목향 등 이름이 비슷한 약재와 실제 뿌리의 기원을 확인합니다.",
+      "review": "보기양혈 처방인 귀비탕에서 목향이 맡는 역할은 무엇인가요?",
+      "related": [
+        {
+          "label": "향사육군자탕(香砂六君子湯)",
+          "href": "/formulas/xiangsha-liujunzi-tang/"
+        },
+        {
+          "label": "귀비탕(歸脾湯)",
+          "href": "/formulas/guibi-tang/"
+        }
+      ]
     },
     {
       "title": "죽엽(竹葉)",
@@ -5141,11 +5226,23 @@
     },
     {
       "title": "맥아(麥芽)",
-      "summary": "맥아의 기원·발아 제조와 소식건비·행기개위·회유 효능, 삼출건비탕·정전가미이진탕 속 역할, 산사·신곡·나복자 감별과 초법을 정리합니다.",
+      "summary": "맥아는 보리를 발아·건조한 약재로 소식건비·행기개위의 역할을 읽습니다.",
       "href": "/herbs/barley-malt/",
       "reference": "/herbs/barley-malt/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "삼출건비탕에서는 산사·신곡의 소식축과 인삼·백출의 건비축을 연결하고, 정전가미이진탕에서는 음식 적체와 담습을 함께 다룹니다. 맥아는 발아한 원료, 신곡은 여러 재료를 발효한 원료라는 제조 차이가 중요합니다. 전분성 적체를 강조하는 전통 용도를 제품의 효소활성 수치와 같게 보지 않습니다. 수유 관련 회유소창의 기록은 생품·초품과 수유 유지 여부까지 확인해야 하는 별도 맥락입니다.",
+      "review": "맥아의 발아와 신곡의 발효는 제조 과정에서 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "삼출건비탕(參朮健脾湯)",
+          "href": "/formulas/samchul-geonbi-tang/"
+        },
+        {
+          "label": "정전가미이진탕(正傳加味二陳湯)",
+          "href": "/formulas/jeongjeon-gami-ijin-tang/"
+        }
+      ]
     },
     {
       "title": "백강잠(白殭蠶)",
@@ -5185,11 +5282,23 @@
     },
     {
       "title": "국화·감국(菊花·甘菊)",
-      "summary": "국화·감국의 기원과 약용 부위, 소산풍열·평간명목·청열해독 효능, 기국지황환·상국음·청상견통탕 속 역할과 구기자·상엽 감별을 정리합니다.",
+      "summary": "국화·감국은 꽃을 쓰며 소산풍열과 평간명목의 전통적 역할을 가집니다.",
       "href": "/herbs/chrysanthemum/",
       "reference": "/herbs/chrysanthemum/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "상국음에서는 상엽과 풍열 초기의 기침·두면부 불편을, 기국지황환에서는 구기자와 간신음허의 눈 증상을 연결합니다. 같은 명목이라도 소산과 보익이라는 배합 방향이 다릅니다. 국내 감국과 중국 문헌의 국화는 기원종을 구체적으로 확인합니다. 관상용 꽃·국화차·규격 생약을 같은 원료로 합치지 않고, 눈피로라는 말보다 충혈·건조·시력 변화와 병증을 함께 읽습니다.",
+      "review": "상국음과 기국지황환에서 국화의 배합 방향은 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "상국음(桑菊飮)",
+          "href": "/formulas/sangju-yin/"
+        },
+        {
+          "label": "기국지황환·기국지황탕",
+          "href": "/formulas/qiju-dihuang-wan/"
+        }
+      ]
     },
     {
       "title": "천궁(川芎) — 활혈행기·거풍지통",
@@ -5249,11 +5358,23 @@
     },
     {
       "title": "지실(枳實)",
-      "summary": "지실의 파기소적·화담산비 효능과 주치, 지각·후박과의 차이, 대승기탕·대시호탕·온담탕·도담탕에서의 역할, 기원·수치와 현대 연구를 정리합니다.",
+      "summary": "지실은 어린 열매를 쓰며 파기소적·화담산비로 단단한 실증성 창만을 봅니다.",
       "href": "/herbs/citrus-immature/",
       "reference": "/herbs/citrus-immature/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "대승기탕에서는 후박의 제만과 대황·망초의 공하·연견을 연결하고, 온담탕에서는 반하·진피·죽여와 담·위기의 불화를 다룹니다. 같은 지실이라도 열결과 담기의 비중이 다릅니다. 비교적 완만한 지각과는 성숙도·규격을 구분하며, 기허성 식욕저하와 실증성 적체도 나누어 읽습니다. 국가별 지실 원료의 기원 차이와 추출법을 확인하고 bitter orange 보충제 연구를 지실 탕제와 합치지 않습니다.",
+      "review": "대승기탕과 온담탕에서 지실이 풀려는 적체는 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "대승기탕(大承氣湯)",
+          "href": "/formulas/dachengqi-tang/"
+        },
+        {
+          "label": "온담탕(溫膽湯)",
+          "href": "/formulas/wendan-tang/"
+        }
+      ]
     },
     {
       "title": "진피(陳皮)",
@@ -5277,11 +5398,23 @@
     },
     {
       "title": "의이인(薏苡仁)",
-      "summary": "의이인의 건비삼습·제비, 삼령백출산·태음조위탕에서의 역할과 복령·택사·백출과의 차이를 정리합니다.",
+      "summary": "의이인은 성숙한 씨의 종인을 쓰며 건비·이수삼습·제비를 연결합니다.",
       "href": "/herbs/coix/",
       "reference": "/herbs/coix/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "삼령백출산에서는 인삼·백출·복령의 보기건비에 삼습을 더해 식욕저하·오래된 무른 변을 살핍니다. 태음조위탕에서는 건율·나복자 등과 태음인의 위완수한표한 병증을 먼저 확인합니다. 일반 방제의 건비삼습과 사상처방의 체질 병리는 설명 체계가 다릅니다. 식품 율무와 치료용 규격 원료·가공을 구분하며, 부종이나 체중의 변화를 의이인 한 약재의 감량효과로 환산하지 않습니다.",
+      "review": "삼령백출산과 태음조위탕을 읽는 진단 체계는 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "삼령백출산(參苓白朮散)",
+          "href": "/formulas/shenling-baizhu-san/"
+        },
+        {
+          "label": "태음조위탕",
+          "href": "/sasang-formula-cards/taeeumjowi-tang/"
+        }
+      ]
     },
     {
       "title": "황련(黃連)",
@@ -5369,11 +5502,23 @@
     },
     {
       "title": "산약(山藥) — 보비·익폐·보신과 고삽",
-      "summary": "산약의 보비양위·생진익폐·보신삽정 효능을 삼령백출산·육미지황환·완대탕의 역할, 생품·초제품과 현대 연구로 연결합니다.",
+      "summary": "산약은 뿌리줄기를 쓰며 보비양위·생진익폐·보신삽정의 평보 역할을 봅니다.",
       "href": "/herbs/dioscorea/",
       "reference": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10563677/",
       "referenceLabel": "본초 출전·참고자료 확인 ↗",
-      "referenceKind": "external"
+      "referenceKind": "external",
+      "explanation": "삼령백출산에서는 인삼·백출·복령의 건비와 삼습 사이에서 비허의 무른 변을 살피고, 육미지황환에서는 숙지황·산수유와 보익축을 이룹니다. 비·폐·신을 함께 평보하지만 황기의 승양고표, 오미자의 렴폐수렴과 중심이 다릅니다. 식품인 마와 규격 생약·포제품을 구분하며, 전분·다당류의 동물 연구를 산약 전체나 복합처방의 임상효과로 합치지 않습니다. 설사의 식적·습열과 허증성 누출도 나누어 읽습니다.",
+      "review": "삼령백출산과 육미지황환에서 산약의 배합 위치를 비교해 보세요.",
+      "related": [
+        {
+          "label": "삼령백출산(參苓白朮散)",
+          "href": "/formulas/shenling-baizhu-san/"
+        },
+        {
+          "label": "육미지황환",
+          "href": "/authority/formulas/liuwei-dihuang-wan/"
+        }
+      ]
     },
     {
       "title": "속단(續斷)",
@@ -5466,11 +5611,23 @@
     },
     {
       "title": "연교(連翹)",
-      "summary": "연교의 청열해독·소종산결·소산풍열 효능과 주치, 금은화와의 차이, 청교·노교의 원료 구분, 주요 처방과 현대 연구의 해석 범위를 정리합니다.",
+      "summary": "연교는 열매를 쓰는 청열해독약으로, 소종산결과 소산풍열을 겸합니다.",
       "href": "/herbs/forsythia/",
       "reference": "https://www.dbpia.co.kr/journal/detail?nodeId=T15537232",
       "referenceLabel": "본초 출전·참고자료 확인 ↗",
-      "referenceKind": "external"
+      "referenceKind": "external",
+      "explanation": "은교산에서는 금은화와 풍열 초기의 소산·해독을, 보화환에서는 식적이 오래되어 열로 변한 양상을 보완합니다. 같은 연교가 들어가도 처방의 중심은 외감과 식적으로 다릅니다. 금은화보다 결취·종창을 흩는 산결의 비중을 함께 읽습니다. 청교·노교는 수확 성숙도와 가공 기록을 확인하며, 분리 성분이나 동물 실험의 결과를 연교 단독의 임상효과로 환산하지 않습니다.",
+      "review": "은교산과 보화환에서 연교가 맡는 역할을 구분해 보세요.",
+      "related": [
+        {
+          "label": "은교산(銀翹散)",
+          "href": "/formulas/yinqiao-san/"
+        },
+        {
+          "label": "보화환(保和丸)",
+          "href": "/formulas/baohe-wan/"
+        }
+      ]
     },
     {
       "title": "생강(生薑)",
@@ -5494,11 +5651,19 @@
     },
     {
       "title": "천패모(川貝母) — 청열윤폐·화담지해",
-      "summary": "천패모의 청열윤폐·화담지해·산결 효능을 반하·죽여·길경과 비교하고 처방 배합과 안전성을 정리합니다.",
+      "summary": "천패모는 청열윤폐·화담지해·산결을 중심으로 열담·조담의 성상을 함께 봅니다.",
       "href": "/herbs/fritillaria/",
       "reference": "/herbs/fritillaria/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "가래가 있다는 공통점보다 열감·건조·폐허와 담의 양·끈기를 나누어 읽습니다. 반하는 온조한 조습화담·강역지구, 길경은 선폐이인·거담, 행인은 강기지해의 비중이 큽니다. 감로소독단에서는 습열을 다루는 화습·청열 배합 안에서 패모의 위치를 확인합니다. 천패모와 절패모는 기원과 활용의 강조점이 달라 ‘패모’라는 이름만으로 합치지 않고 실제 원료 규격을 확인합니다.",
+      "review": "천패모와 반하를 열·조·습 및 구역의 비중으로 비교해 보세요.",
+      "related": [
+        {
+          "label": "감로소독단(甘露消毒丹)",
+          "href": "/formulas/ganlu-xiaodu-dan/"
+        }
+      ]
     },
     {
       "title": "치자(梔子)",
@@ -5574,11 +5739,23 @@
     },
     {
       "title": "산사(山楂)",
-      "summary": "산사의 기원·약용 부위와 소식화적·행기산어 효능, 보화환·삼출건비탕 속 역할, 신곡·맥아·나복자 감별과 초법·품질을 정리합니다.",
+      "summary": "산사는 성숙한 열매를 쓰며 소식화적과 행기산어의 전통적 역할을 가집니다.",
       "href": "/herbs/hawthorn/",
       "reference": "/herbs/hawthorn/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "보화환에서는 신곡·나복자와 소식하고 반하·진피·복령과 담습·기체를 조절합니다. 삼출건비탕에서는 맥아·신곡의 소식과 인삼·백출의 건비가 함께 놓입니다. 육류·유지류 적체를 강조하는 산사, 곡식 적체의 맥아, 발효 약재 신곡을 비교하되 음식 종류만으로 처방을 정하지 않습니다. 동아시아 산사 열매와 서양 연구의 잎·꽃 추출물은 부위·표준화 성분이 달라 근거를 구분합니다.",
+      "review": "산사 열매와 산사 잎·꽃 추출물 연구를 구분해야 하는 이유는 무엇인가요?",
+      "related": [
+        {
+          "label": "보화환(保和丸)",
+          "href": "/formulas/baohe-wan/"
+        },
+        {
+          "label": "삼출건비탕(參朮健脾湯)",
+          "href": "/formulas/samchul-geonbi-tang/"
+        }
+      ]
     },
     {
       "title": "봉밀(蜂蜜) — 경옥고의 조화·윤조와 고제(膏劑)의 바탕",
@@ -5590,11 +5767,23 @@
     },
     {
       "title": "금은화(金銀花)",
-      "summary": "금은화의 청열해독·소산풍열 효능과 주치, 연교와의 차이, 인동등·산은화와의 원료 감별, 주요 방제와 현대 연구의 해석 범위를 정리합니다.",
+      "summary": "금은화는 인동의 꽃봉오리·꽃을 쓰며 청열해독과 소산풍열을 함께 봅니다.",
       "href": "/herbs/honeysuckle/",
       "reference": "https://pubmed.ncbi.nlm.nih.gov/32206048/",
       "referenceLabel": "본초 출전·참고자료 확인 ↗",
-      "referenceKind": "external"
+      "referenceKind": "external",
+      "explanation": "은교산에서는 연교·박하·우방자와 풍열 초기를, 청영탕에서는 생지황·현삼·맥문동과 영분열·음상이라는 다른 병기를 다룹니다. 연교와 공통 효능이 있어도 금은화의 꽃과 연교의 열매는 원료와 배합 역할이 다릅니다. 인동등은 줄기·덩굴을 쓰는 별도 약재입니다. 전통적 해독을 현대 독성물질 제거로 바꾸거나, 추출물의 항균시험을 사람의 감염 치료효과로 옮기지 않습니다.",
+      "review": "은교산과 청영탕에서 금은화의 짝약과 병기가 어떻게 달라지나요?",
+      "related": [
+        {
+          "label": "은교산(銀翹散)",
+          "href": "/formulas/yinqiao-san/"
+        },
+        {
+          "label": "청영탕(清營湯)",
+          "href": "/formulas/qingying-tang/"
+        }
+      ]
     },
     {
       "title": "대청엽(大靑葉)",
@@ -5663,11 +5852,23 @@
     },
     {
       "title": "백합(百合)",
-      "summary": "백합의 양음윤폐·청심안신 전통과 백합지모탕·백합지황탕의 배합을 살펴봅니다.",
+      "summary": "백합은 양음윤폐와 청심안신을 함께 살피는 본초입니다.",
       "href": "/herbs/lily/",
       "reference": "/herbs/lily/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "폐음이 부족한 마른기침과 심번·불안의 전통 병증을 연결하지만, 기침이나 불면이라는 증상명만으로 선택하지 않습니다. 사삼은 폐위의 양음·생진과 거담, 맥문동은 폐위의 음과 진액·심번을 함께 다루므로 서로의 공통점과 중심을 비교합니다. 윤폐하는 배합에서는 담의 양·건조·열감을, 청심하는 배합에서는 허번과 수면의 경과를 읽으며, 특정 추출물 연구를 백합 단미의 임상효과로 옮기지 않습니다.",
+      "review": "사삼·맥문동·백합에서 공통 양음과 서로 다른 중심을 구분해 보세요.",
+      "related": [
+        {
+          "label": "사삼 비교",
+          "href": "/herbs/adenophora-root/"
+        },
+        {
+          "label": "맥문동 비교",
+          "href": "/herbs/ophiopogon/"
+        }
+      ]
     },
     {
       "title": "용안육(龍眼肉)",
@@ -5715,11 +5916,23 @@
     },
     {
       "title": "신곡·신국(神麴)",
-      "summary": "발효한약재 신곡·신국의 제조 특성, 소식화중·건비개위 효능, 산사·맥아·나복자와의 차이 및 보화환·월국환·청서익기탕 속 역할을 정리합니다.",
+      "summary": "신곡·신국은 곡물과 식물성 재료를 배합·발효한 소식화중 약재입니다.",
       "href": "/herbs/massa-medicata-fermentata/",
       "reference": "/herbs/massa-medicata-fermentata/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "보화환에서는 산사·나복자의 소식과 반하·진피·복령의 담습 조절을 받치고, 월국환에서는 기·혈·습·화·식의 울체 중 식울을 담당합니다. 단일 식물의 건조 약재와 달리 원료 배합·발효·건조·볶음의 제조 기록을 함께 봅니다. 맥아의 발아와 신곡의 발효를 구분하면 이름이 비슷한 효소식품과도 차이가 드러납니다. 발효 방식별 성분·생쥐 소화 기능 연구는 사람 대상 임상효과와 따로 읽습니다.",
+      "review": "보화환과 월국환에서 신곡은 어떤 다른 배합축을 받치나요?",
+      "related": [
+        {
+          "label": "보화환(保和丸)",
+          "href": "/formulas/baohe-wan/"
+        },
+        {
+          "label": "월국환(越鞠丸)",
+          "href": "/formulas/yueju-wan/"
+        }
+      ]
     },
     {
       "title": "미후등(獼猴藤)·미후도(獼猴桃)",
@@ -5731,11 +5944,23 @@
     },
     {
       "title": "박하(薄荷)",
-      "summary": "박하의 기원·후하법, 소산풍열·청리두목·이인투진·소간 효능, 은교산·가미소요산 속 역할과 유사 본초 감별을 정리합니다.",
+      "summary": "박하는 향기로운 지상부를 쓰는 신량해표약으로 두목·인후와 간기의 소통을 봅니다.",
       "href": "/herbs/mint/",
       "reference": "/herbs/mint/",
       "referenceLabel": "아카이브 본초 문서·자료 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "은교산에서는 금은화·연교를 받쳐 풍열을 가볍게 소산하고, 가미소요산에서는 시호 등의 해울 구조 안에서 상부의 울열을 소통합니다. 정유를 고려한 후하라는 조제 개념도 처방·제형과 함께 읽습니다. 장용성 페퍼민트오일 제제, 외용 정유, 탕제 속 박하는 농도와 투여 방식이 다릅니다. 특정 민트 제품의 소화기 연구를 박하가 포함된 모든 처방의 효과로 옮기지 않습니다.",
+      "review": "은교산의 소산과 가미소요산의 해울에서 박하 역할을 비교해 보세요.",
+      "related": [
+        {
+          "label": "은교산(銀翹散)",
+          "href": "/formulas/yinqiao-san/"
+        },
+        {
+          "label": "가미소요산(加味逍遙散)",
+          "href": "/formulas/jiawei-xiaoyao-san/"
+        }
+      ]
     },
     {
       "title": "목단피(牡丹皮)",
@@ -5747,11 +5972,19 @@
     },
     {
       "title": "상엽(桑葉)",
-      "summary": "상엽(桑葉)의 약용 부위·전통 효능·대표 처방 배합과 비슷한 본초의 차이를 정리합니다.",
+      "summary": "상엽은 뽕나무의 잎을 쓰며 소산풍열·청폐윤조·청간명목을 함께 봅니다.",
       "href": "/herbs/mulberry-leaf/",
       "reference": "/herbs/mulberry-leaf/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "상국음에서는 국화와 풍열을 흩고 행인·길경의 폐기 조절과 연결됩니다. 발열·두통·인후 불편이 중심인 초기 풍열과 마른기침·목 건조가 중심인 폐조는 관찰 초점이 다릅니다. 같은 뽕나무라도 상백피는 뿌리껍질이며 사폐평천·이수의 비중이 큽니다. 상엽의 잎, 상백피의 껍질, 상심자의 열매를 구분하고, 뽕잎 식품의 성분 연구와 완성 처방의 근거를 따로 읽습니다.",
+      "review": "상엽과 상백피의 약용 부위와 기침 배합의 차이는 무엇인가요?",
+      "related": [
+        {
+          "label": "상국음(桑菊飮)",
+          "href": "/formulas/sangju-yin/"
+        }
+      ]
     },
     {
       "title": "상백피(桑白皮)",
@@ -5779,11 +6012,23 @@
     },
     {
       "title": "천문동(天門冬)",
-      "summary": "천문동의 기원·약용 부위와 맥문동 감별, 태음조위탕·조위승청탕·청심연자탕 등 사상처방에서의 역할, 품질·안전을 정리합니다.",
+      "summary": "천문동은 천문동의 덩이뿌리를 쓰며 양음윤조·청폐생진을 중심으로 봅니다.",
       "href": "/herbs/ophiopogon-extra/",
       "reference": "/herbs/ophiopogon-extra/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "맥문동과 이름이 비슷하지만 식물 기원이 다르고 청폐·윤조와 신음축을 함께 설명합니다. 태음조위탕에서는 마황·길경의 호산에 맥문동·오미자와 진액·수렴을 보완하고, 청심연자탕에서는 간열폐조·조열의 진액축을 받칩니다. 표한과 리열이라는 사상 병증의 차이를 먼저 읽어야 합니다. 천문동이 포함됐다는 사실만으로 체질을 정하거나 두 처방을 같은 적용 범위로 보지 않습니다.",
+      "review": "태음조위탕과 청심연자탕의 병증 위치와 천문동 역할을 비교해 보세요.",
+      "related": [
+        {
+          "label": "태음조위탕",
+          "href": "/sasang-formula-cards/taeeumjowi-tang/"
+        },
+        {
+          "label": "청심연자탕",
+          "href": "/sasang-formula-cards/cheongsimyeonja-tang/"
+        }
+      ]
     },
     {
       "title": "맥문동(麥門冬)",
@@ -5823,19 +6068,43 @@
     },
     {
       "title": "자소엽(紫蘇葉)",
-      "summary": "자소엽의 해표산한·행기화위 전통과 자소자·곽향의 구분, 반하후박탕 등에서의 배합을 설명합니다.",
+      "summary": "자소엽은 잎을 쓰며 해표산한과 행기관중을 통해 외감과 비위기체를 함께 봅니다.",
       "href": "/herbs/perilla-leaf/",
       "reference": "/herbs/perilla-leaf/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "행소산에서는 행인·전호·길경과 외감 기침을, 곽향정기산에서는 곽향·반하·진피·후박 등과 외감에 겹친 습체·기체를 다룹니다. 두 처방은 기침과 오심·팽만이라는 관찰 초점이 다릅니다. 식품의 깻잎과 처방용 자소엽은 규격·기원·목적을 확인합니다. 해어해독이라는 전통 표현을 현대 식중독이나 알레르기의 치료로 바꾸지 않고, 약재 한 가지보다 표증과 소화 상태의 배합을 읽습니다.",
+      "review": "행소산과 곽향정기산에서 자소엽과 함께 쓰는 약재를 비교해 보세요.",
+      "related": [
+        {
+          "label": "행소산(杏蘇散)",
+          "href": "/formulas/xingsu-san/"
+        },
+        {
+          "label": "곽향정기산(藿香正氣散)",
+          "href": "/formulas/huoxiang-zhengqi-san/"
+        }
+      ]
     },
     {
       "title": "전호(前胡)",
-      "summary": "전호(前胡)의 약용 부위·전통 효능·대표 처방 배합과 비슷한 본초의 차이를 정리합니다.",
+      "summary": "전호는 뿌리를 쓰며 소산풍열과 강기화담을 연결하는 본초입니다.",
       "href": "/herbs/peucedanum-root/",
       "reference": "/herbs/peucedanum-root/",
       "referenceLabel": "본초 문서에서 출전·배합 확인 →",
-      "referenceKind": "archive"
+      "referenceKind": "archive",
+      "explanation": "삼소음에서는 자소엽·갈근의 외감축과 인삼·반하·진피의 허약·담음축 사이에서 읽습니다. 소자강기탕에서는 자소자·반하·후박과 폐기의 상역·담을 다룹니다. 형방도적산에서는 소양인 표병의 소증·병증 체계를 먼저 확인하므로 일반 방제의 효능 설명과 구분합니다. 길경의 선폐·이인, 반하의 조습·강역과 비교하고, 이름의 ‘호’가 같은 시호와 기원·역할을 합치지 않습니다.",
+      "review": "삼소음과 소자강기탕에서 전호의 배합 문맥은 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "삼소음(蔘蘇飮)",
+          "href": "/formulas/renshen-suyin/"
+        },
+        {
+          "label": "소자강기탕(蘇子降氣湯)",
+          "href": "/formulas/suzi-jiangqi-tang/"
+        }
+      ]
     },
     {
       "title": "황백(黃柏)",
@@ -6036,11 +6305,23 @@
     },
     {
       "title": "오미자(五味子) — 렴폐·생진·수삽",
-      "summary": "오미자의 렴폐지해·생진렴한·삽정지사·영심안신 효능을 생맥산·소청룡탕·사신환의 배합과 현대 연구로 연결합니다.",
+      "summary": "오미자는 성숙한 열매를 쓰며 렴폐지해·생진렴한·삽정지사·영심안신을 봅니다.",
       "href": "/herbs/schisandra/",
       "reference": "https://pubmed.ncbi.nlm.nih.gov/18515024/",
       "referenceLabel": "본초 출전·참고자료 확인 ↗",
-      "referenceKind": "external"
+      "referenceKind": "external",
+      "explanation": "생맥산에서는 인삼의 보기와 맥문동의 양음으로 기른 기·진액을 수렴해 지키는 축입니다. 소청룡탕에서는 마황·계지·세신의 발산과 건강·반하의 온화음 사이에 수렴을 배치합니다. 수렴약이 들어간다고 모두 오래된 허증만 다루는 처방은 아닙니다. 단미의 효능과 처방 전체의 병기를 구분하고, 오래된 기침·설사에서도 남은 외감·담열·식적과 허증성 누출의 비중을 함께 읽습니다.",
+      "review": "소청룡탕에서 발산약과 오미자가 함께 있는 이유를 설명해 보세요.",
+      "related": [
+        {
+          "label": "생맥산(生脈散)",
+          "href": "/formulas/shengmai-san/"
+        },
+        {
+          "label": "소청룡탕(小青龍湯)",
+          "href": "/formulas/xiaoqinglong-tang/"
+        }
+      ]
     },
     {
       "title": "형개(荊芥)",
@@ -6821,8 +7102,14 @@
         {
           "label": "작약감초탕",
           "href": "/formulas/shaoyao-gancao-tang/"
+        },
+        {
+          "label": "64조 · 과도한 발한 뒤 심계",
+          "href": "/daily-korean-medicine/?card=shanghan-64"
         }
-      ]
+      ],
+      "explanation": "이 조문은 각련이라는 한 증상보다 잘못된 발한 뒤 생긴 궐역·구건·번조와 회복의 순서를 읽게 합니다. 감초건강탕으로 양을 회복한 뒤 발이 따뜻해지는 조건에서 작약감초탕을 제시하고, 위기불화·섬어와 거듭된 발한·소침은 다른 갈림점으로 둡니다. 처방들을 한꺼번에 쓰는 목록이 아닙니다. 현대의 근육 경련이나 손발냉과 일대일로 대응시키기보다 치료 이력·전신 변화·재평가라는 구조를 이해합니다.",
+      "review": "작약감초탕 앞에 제시된 회복 조건은 무엇인가요?"
     },
     {
       "title": "30조 · 유사 증후의 재판단",
@@ -7289,10 +7576,20 @@
       "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#63",
       "related": [
         {
+          "label": "마행감석탕",
+          "href": "/formulas/maxing-ganshi-tang/"
+        },
+        {
           "label": "계지탕",
           "href": "/formulas/guizhi-tang/"
+        },
+        {
+          "label": "35조 · 마황탕의 무한이천",
+          "href": "/daily-korean-medicine/?card=shanghan-35"
         }
-      ]
+      ],
+      "explanation": "발한을 했는데 한출·천이 남았다는 시간 순서가 중요합니다. 무대열을 모든 열 병기의 부재로 읽거나 계지탕을 기계적으로 반복하지 않습니다. 처방 구성은 마황·행인의 선강과 석고·감초의 배합을 함께 보며, 계지가 들어가는 마황탕과 비교합니다. 원문의 천은 고전적 증후 표현으로 현대 천식 진단과 같지 않습니다. 병명보다 땀·호흡·표증의 변화와 처방 전체의 한열 구조를 읽는 연습입니다.",
+      "review": "마황탕과 비교해 마행감석탕에 더해지고 빠진 약미는 무엇인가요?"
     },
     {
       "title": "64조 · 발한 뒤 심계",
@@ -7302,7 +7599,19 @@
       "note": "65조 제하계·분돈과 위치가 다르다. 눌렀을 때 아픈 결흉과 눌러 주길 바라는 심계도 구분한다.",
       "edition": "송본 계열 · 통행 398조 구분 · 태양 중편",
       "href": "/classics/shanghanlun/clauses/taiyang-middle/#clause-064",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#64"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#64",
+      "explanation": "발한과다 뒤 심하계와 눌러 주기를 바라는 욕득안을 묶어 읽습니다. 손을 포개 가슴을 감싸는 행동은 환자가 느끼는 불편의 양상을 보여주는 관찰 단서입니다. 계지·자감초 두 약미의 배합이며, 계지탕의 작약·생강·대조까지 있는 구조와 구분합니다. 65조의 제하계는 위치가 다르고, 소결흉의 안지즉통은 압박 반응이 반대입니다. 고전의 심계만으로 현대 부정맥의 원인이나 치료를 확정하지 않습니다.",
+      "review": "욕득안과 소결흉의 안지즉통은 압박 반응이 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "65조 · 제하계·분돈",
+          "href": "/daily-korean-medicine/?card=shanghan-65"
+        },
+        {
+          "label": "138조 · 누르면 아픈 소결흉",
+          "href": "/daily-korean-medicine/?card=shanghan-138"
+        }
+      ]
     },
     {
       "title": "65조 · 제하계와 분돈",
@@ -7321,7 +7630,15 @@
       "translation": "허손 뒤 배가 팽만해진 상태에서 후박·생강·반하와 인삼·감초의 배합을 제시한다.",
       "edition": "송본 계열 · 통행 398조 구분 · 태양 중편",
       "href": "/classics/shanghanlun/clauses/taiyang-middle/#clause-066",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#66"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#66",
+      "explanation": "발한 뒤라는 허손의 배경과 복창만을 함께 읽으면 배가 그득하다는 이유로 모두 승기탕류의 실증에 넣지 않게 됩니다. 후박·생강·반하로 기체·상역을 살피면서 인삼·자감초로 중초를 받치는 구조입니다. 행기·강역과 보익이 함께 놓인다는 점이 핵심입니다. 원문이 짧을수록 이전 치료와 복부·식사·대변 상태를 문맥에서 확인하고, 후박이 포함된 다른 처방과 전체 배합을 비교합니다.",
+      "review": "이 처방에 인삼·감초와 후박·생강·반하가 함께 배치된 이유는 무엇인가요?",
+      "related": [
+        {
+          "label": "208조 · 양명리실의 복만과 비교",
+          "href": "/daily-korean-medicine/?card=shanghan-208"
+        }
+      ]
     },
     {
       "title": "67조 · 영계출감탕의 현훈",
@@ -8123,7 +8440,15 @@
       "note": "‘심하 답답함’이라는 공통점만으로 반하사심탕과 혼동하지 않는다. 149조 비증은 만이불통이다.",
       "edition": "송본 계열 · 통행 398조 구분 · 태양 하편",
       "href": "/classics/shanghanlun/clauses/taiyang-lower/#clause-138",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#138"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#138",
+      "explanation": "심하라는 위치, 누르면 아픈 압통, 부활맥이 소결흉의 조건입니다. 황련·반하·과루실의 구성에서 청열·담결을 함께 다루는 구조를 읽습니다. 149조의 비증은 만이불통이어서 심하 답답함이라는 공통점만으로 반하사심탕과 합치지 않습니다. 소결흉의 소는 조문상의 범위 구분이며 현대 질환이 가볍다는 판정이 아닙니다. 같은 심하 증상에서도 압박 반응·통증·치료 이력을 나누어 보는 비교가 중요합니다.",
+      "review": "소결흉과 149조 비증의 핵심 통증 조건은 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "149조 · 만이불통의 비증",
+          "href": "/daily-korean-medicine/?card=shanghan-149"
+        }
+      ]
     },
     {
       "title": "139조 · 본래 한분과 오하",
@@ -8212,8 +8537,18 @@
         {
           "label": "계지탕",
           "href": "/formulas/guizhi-tang/"
+        },
+        {
+          "label": "12조 · 계지탕의 영위 조화",
+          "href": "/daily-korean-medicine/?card=shanghan-12"
+        },
+        {
+          "label": "96조 · 소시호탕의 맥증",
+          "href": "/daily-korean-medicine/?card=shanghan-96"
         }
-      ]
+      ],
+      "explanation": "발열·미오한·관절통으로 외증이 남은 가운데 미구·심하지결이 겹칩니다. 시호·황금·반하·인삼과 계지·작약·생강·대조·감초가 만나 소시호탕과 계지탕의 구조를 함께 읽게 합니다. 원문은 외증미거를 명시하므로 소시호탕 이름과 구역 하나만 보고 설명을 끝내지 않습니다. 날짜가 육칠일이라는 정보보다 현재 남은 표증과 흉협·심하·식사 양상의 조합이 처방 비교의 중심입니다.",
+      "review": "시호계지탕 조문에서 외증이 남았음을 보여 주는 표현을 찾아보세요."
     },
     {
       "title": "147조 · 시호계지건강탕",
@@ -8342,7 +8677,19 @@
       "note": "149조 반하사심탕, 158조 감초사심탕과 이름만 바꾸지 말고 치료 이력·애기·하리의 양상을 비교한다.",
       "edition": "송본 계열 · 통행 398조 구분 · 태양 하편",
       "href": "/classics/shanghanlun/clauses/taiyang-lower/#clause-157",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#157"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#157",
+      "explanation": "해표 뒤 위중불화에 심하비경·음식 냄새의 트림·협하수기·장명·하리가 함께 있습니다. 생강이 더해지고 건강의 비중이 줄어드는 구성은 반하사심탕과 비교해 읽습니다. 생강과 건강은 같은 이름의 중복 약미가 아닙니다. 158조 감초사심탕에서는 반복 하법 뒤 위허와 하리의 경과가 강조됩니다. 세 사심탕을 단순히 약미 한 가지로 고르기보다 치료 이력과 트림·수기·하리의 조합을 나누어 봅니다.",
+      "review": "반하사심탕·생강사심탕·감초사심탕을 치료 이력과 애기로 비교해 보세요.",
+      "related": [
+        {
+          "label": "149조 · 반하사심탕",
+          "href": "/daily-korean-medicine/?card=shanghan-149"
+        },
+        {
+          "label": "158조 · 감초사심탕",
+          "href": "/daily-korean-medicine/?card=shanghan-158"
+        }
+      ]
     },
     {
       "title": "158조 · 감초사심탕",
@@ -8411,7 +8758,15 @@
       "translation": "표증이 남은 상태의 반복 하법 뒤 하리·심하비경이 겹친다. 표리 양쪽을 함께 다루는 배합을 제시한다.",
       "edition": "송본 계열 · 통행 398조 구분 · 태양 하편",
       "href": "/classics/shanghanlun/clauses/taiyang-lower/#clause-163",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#163"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#163",
+      "explanation": "외증이 남은 상태에서 거듭 하법을 쓴 뒤 하리와 심하비경이 생긴 표리불해입니다. 계지와 인삼·백출·건강·자감초가 함께 놓여 남은 표와 손상된 중초를 아우르는 구조입니다. 협열이리라는 표현을 모든 하리가 실열성이라는 뜻으로 단순화하지 않습니다. 34조 갈근황금황련탕과도 하법 뒤 하리를 공유하지만 맥증과 처방의 한열·보익 구성이 다릅니다. 공통 증상보다 치료 뒤 생긴 전체 상태를 비교합니다.",
+      "review": "34조와 163조는 하법 뒤 하리를 공유해도 처방 구조가 어떻게 다른가요?",
+      "related": [
+        {
+          "label": "34조 · 갈근황금황련탕과 비교",
+          "href": "/daily-korean-medicine/?card=shanghan-34"
+        }
+      ]
     },
     {
       "title": "164조 · 해표와 공비의 선후",
@@ -8878,8 +9233,14 @@
         {
           "label": "소승기탕",
           "href": "/formulas/xiaochengqi-tang/"
+        },
+        {
+          "label": "209조 · 조시 확인과 중지",
+          "href": "/daily-korean-medicine/?card=shanghan-209"
         }
-      ]
+      ],
+      "explanation": "조열·대변경·복만과 오한이 남았는지를 함께 판단하는 조문입니다. 리실을 다룰 수 있는 조건과 미열·오한으로 외미해인 보류 조건을 한 문장 안에 제시합니다. 대승기탕의 대황·후박·지실·망초와 소승기탕의 망초 없는 구성을 비교하되 이름만으로 강도를 정하지 않습니다. 끝의 미화위기·물령치대설하는 지나친 공하를 경계하는 표현입니다. 증상 하나보다 적용·보류·관찰의 순서를 읽습니다.",
+      "review": "208조에서 승기탕을 보류하는 표증 조건과 과도한 하리를 경계한 말을 찾아보세요."
     },
     {
       "title": "209조 · 조시의 확인과 중지",
@@ -8898,8 +9259,14 @@
         {
           "label": "소승기탕",
           "href": "/formulas/xiaochengqi-tang/"
+        },
+        {
+          "label": "208조 · 승기탕 적용·보류 조건",
+          "href": "/daily-korean-medicine/?card=shanghan-208"
         }
-      ]
+      ],
+      "explanation": "오래 배변하지 않았다는 사실과 실제 조시가 있다는 판단을 구분합니다. 원문은 소승기탕 뒤 전시기라는 반응을 관찰하고, 반응이 없으면 공격하지 말라는 경고를 반복합니다. 208조의 적용·보류 조건에 이어 치료 후 다시 확인하는 구조입니다. 소여는 고전의 관찰법이므로 현대의 시험 복용 방법으로 제시하지 않습니다. 초두경·후필당, 복만·불능식 같은 결과를 읽으며 변비라는 병명만으로 공하를 정하지 않습니다.",
+      "review": "209조는 왜 배변하지 않은 기간만으로 공하를 확정하지 않나요?"
     },
     {
       "title": "210조 · 섬어와 정성",
@@ -9368,7 +9735,19 @@
       "translation": "해표 뒤에도 증증발열이 남는 경우 위의 병증으로 보아 조위승기탕을 제시한다.",
       "edition": "송본 계열 · 통행 398조 구분 · 양명",
       "href": "/classics/shanghanlun/clauses/yangming/#clause-248",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#248"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#248",
+      "explanation": "발한을 했는데도 증증발열이 남아 속위로 판단하는 전환이 핵심입니다. 같은 발열이라도 태양 표증과 양명의 위증을 나누어 읽습니다. 조위승기탕의 대황·망초·자감초는 후박·지실이 있는 대·소승기탕과 구성축이 다릅니다. 짧은 조문에 적혀 있지 않은 변비·복통을 임의로 원문에 보태지 않고 관련 조문과 함께 확인합니다. 열이 남았다는 사실만으로 처방을 반복하지 않는 현재 병위의 재평가를 배웁니다.",
+      "review": "조위승기탕과 대승기탕의 구성에서 후박·지실의 유무를 비교해 보세요.",
+      "related": [
+        {
+          "label": "207조 · 조위승기탕과 심번",
+          "href": "/daily-korean-medicine/?card=shanghan-207"
+        },
+        {
+          "label": "208조 · 대·소승기탕과 비교",
+          "href": "/daily-korean-medicine/?card=shanghan-208"
+        }
+      ]
     },
     {
       "title": "249조 · 토법 뒤 복창만",
@@ -10490,7 +10869,19 @@
       "note": "사역탕·통맥사역탕의 부자·건강 회양 구조와 다르다. ‘사역’이라는 이름과 수족냉만으로 합치지 않는다.",
       "edition": "송본 계열 · 통행 398조 구분 · 궐음",
       "href": "/classics/shanghanlun/clauses/jueyin/#clause-351",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#351"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#351",
+      "explanation": "수족궐한과 세맥욕절을 함께 읽고 당귀·작약의 혈분 배합, 계지·세신의 온통, 감초·대조·통초의 구성을 확인합니다. 사역탕은 부자·건강·감초의 구조여서 이름의 사역과 손발냉이라는 공통점만으로 합치지 않습니다. 다음 352조는 내유구한이라는 추가 조건을 제시합니다. 고전 맥증과 후대의 혈허한응 설명을 구분하면서, 현대 손발냉의 원인을 이 조문 하나로 확정하지 않는 비교 독해가 중요합니다.",
+      "review": "당귀사역탕과 사역탕의 온통·회양 배합은 무엇이 다른가요?",
+      "related": [
+        {
+          "label": "323조 · 사역탕의 회양 구조",
+          "href": "/daily-korean-medicine/?card=shanghan-323"
+        },
+        {
+          "label": "352조 · 내유구한의 추가 조건",
+          "href": "/daily-korean-medicine/?card=shanghan-352"
+        }
+      ]
     },
     {
       "title": "352조 · 오래된 내한의 가감",
@@ -10672,7 +11063,15 @@
       "note": "277조의 장한·불갈하리와 대비한다. 설사라는 공통 증상만으로 온법이나 청열법을 정하지 않는다.",
       "edition": "송본 계열 · 통행 398조 구분 · 궐음",
       "href": "/classics/shanghanlun/clauses/jueyin/#clause-371",
-      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#371"
+      "reference": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#371",
+      "explanation": "열리와 하중을 묶어 청열 방향을 제시하는 짧은 조문입니다. 하중은 뒤가 무겁고 시원하지 않은 전통적 증후 표현이며 단순한 묽은 변과 구분합니다. 백두옹·황백·황련·진피의 네 약미 중 진피는 秦皮로, 귤껍질 陳皮와 다른 약재입니다. 277조의 불갈하리·장한과 대비하면 설사라는 공통 증상에서 한열의 갈림점이 보입니다. 이를 현대 감염 원인이나 항감염제 선택과 곧바로 대응시키지 않습니다.",
+      "review": "백두옹탕의 秦皮와 이진탕의 陳皮는 같은 약재인가요?",
+      "related": [
+        {
+          "label": "277조 · 불갈하리·장한과 비교",
+          "href": "/daily-korean-medicine/?card=shanghan-277"
+        }
+      ]
     },
     {
       "title": "372조 · 선온리 후해표",
@@ -10838,8 +11237,18 @@
         {
           "label": "오령산",
           "href": "/formulas/wuling-san/"
+        },
+        {
+          "label": "71조 · 오령산의 갈증·소변",
+          "href": "/daily-korean-medicine/?card=shanghan-71"
+        },
+        {
+          "label": "385조 · 곽란의 정의와 경과",
+          "href": "/daily-korean-medicine/?card=shanghan-385"
         }
-      ]
+      ],
+      "explanation": "곽란의 구토·하리 문맥에서 열다·욕음수와 한다·불용수를 나누어 오령산과 이중환을 제시합니다. 이중환의 인삼·건강·백출·자감초는 온중·보익, 오령산의 복령·저령·택사·백출·계지는 수기 조절의 구조입니다. 원문의 환제와 후대 이중탕이라는 명칭·제형을 구분합니다. 음수욕 하나로 처방을 고르기보다 두통·발열·몸통과 소화·수분 유지의 전체 경과를 읽고, 고전 곽란을 현대 콜레라 진단과 합치지 않습니다.",
+      "review": "오령산과 이중환의 공통 백출 외에 배합축은 어떻게 다른가요?"
     },
     {
       "title": "387조 · 토리 뒤 남은 신통",
@@ -10956,8 +11365,14 @@
         {
           "label": "죽엽석고탕",
           "href": "/formulas/zhuye-shigao-tang/"
+        },
+        {
+          "label": "26조 · 백호가인삼탕과 비교",
+          "href": "/daily-korean-medicine/?card=shanghan-26"
         }
-      ]
+      ],
+      "explanation": "상한해후라는 회복기 시점에 허리·소기와 기역욕토가 남은 상태입니다. 죽엽·석고로 여열을 살피고 인삼·맥문동·감초·갱미로 기와 진액·위를 받치며 반하로 상역을 다루는 구성을 읽습니다. 청열약과 보익·강역약이 함께 있다는 점이 핵심입니다. 급성 표증의 해표 처방을 반복하는 조문과 구분하고, 피로라는 단어만으로 회복기 모든 병증에 적용하지 않습니다. 식사량·구토감·갈증과 회복의 경과를 함께 봅니다.",
+      "review": "죽엽석고탕에서 청열·보기양음·강역의 약미를 나누어 보세요."
     },
     {
       "title": "398조 · 병후의 과식과 미번",

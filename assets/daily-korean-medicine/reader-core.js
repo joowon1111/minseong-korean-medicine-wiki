@@ -6,6 +6,18 @@
 })(typeof window !== "undefined" ? window : globalThis, function () {
   "use strict";
   const labels = { points: "경혈", herbs: "본초", shanghan: "상한론", sasang: "사상의학" };
+  const chapters = { "taiyang-upper": "태양 상편", "taiyang-middle": "태양 중편", "taiyang-lower": "태양 하편",
+    yangming: "양명", shaoyang: "소양", taiyin: "태음", shaoyin: "소음", jueyin: "궐음", huoluan: "곽란", recovery: "차후노복" };
+  function chapterFor(item) {
+    const match = String(item.href || "").match(/\/classics\/shanghanlun\/clauses\/([^/]+)\//);
+    return match && chapters[match[1]] ? match[1] : null;
+  }
+  function clauseFrom(value, data) {
+    if (typeof value !== "string" || !/^[1-9]\d{0,2}$/.test(value.trim())) return null;
+    const number = Number(value.trim());
+    const index = (data.shanghan || []).findIndex(function (item) { return item.title.startsWith(number + "조 ·"); });
+    return index < 0 ? null : { topic: "shanghan", index: index };
+  }
   function parseDate(value) {
     if (typeof value !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(value)) return null;
     const parts = value.split("-").map(Number);
@@ -31,13 +43,14 @@
     return topic === "points" ? item.name + " " + item.code + " · " + item.hanja : item.title;
   }
   function normalize(value) { return String(value || "").normalize("NFKC").toLowerCase().replace(/\s+/g, ""); }
-  function search(data, topic, query, meridian) {
+  function search(data, topic, query, meridian, chapter) {
     const terms = String(query || "").trim().split(/\s+/).filter(Boolean).map(normalize);
     const hits = [];
     Object.keys(labels).forEach(function (key) {
       if (topic !== "all" && topic !== key) return;
       (data[key] || []).forEach(function (item, index) {
         if (key === "points" && meridian && meridian !== "all" && item.meridian !== meridian) return;
+        if (key === "shanghan" && chapter && chapter !== "all" && chapterFor(item) !== chapter) return;
         const title = titleFor(key, item);
         const text = normalize([title, item.meridian, item.location, (item.traditional || []).join(" "), item.summary,
           item.original, item.translation, item.explanation, item.note, item.review,
@@ -66,6 +79,7 @@
       status.textContent = "아래 주소를 선택해 복사하세요.";
     }
   }
-  return { labels: labels, parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor,
+  return { labels: labels, chapters: chapters, chapterFor: chapterFor, clauseFrom: clauseFrom,
+    parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor,
     titleFor: titleFor, search: search, cardFrom: cardFrom, copyLink: copyLink };
 });
