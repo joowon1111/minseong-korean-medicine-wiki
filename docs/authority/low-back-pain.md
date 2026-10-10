@@ -60,7 +60,7 @@ last_reviewed: 2026-08-19
 
 ## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
 
-일반침은 [고령자 요통 RCT](acupuncture.md), 전침은 [통증·기능을 나눈 비교](electroacupuncture.md#ea-low-back-trial), 약침은 [물리치료 비교 RCT](pharmacopuncture.md#pharmaco-back-trial)에서 상세히 봅니다. [요통 경혈](../acupuncture-integrated/points-for-low-back.md)과 [치료량·재평가](../acupuncture-clinical/dose-followup.md)를 연결하고, 통증점수·앉을 수 있는 시간·보행거리·수면·진통제 사용을 함께 기록합니다.
+일반침은 [고령자 요통 RCT의 치료량·효과 크기](acupuncture.md#acupuncture-older-adult-results), 전침은 [통증·기능을 나눈 비교](electroacupuncture.md#ea-low-back-trial), 약침은 [물리치료 비교 RCT](pharmacopuncture.md#pharmaco-back-trial)에서 상세히 봅니다. [요통 경혈](../acupuncture-integrated/points-for-low-back.md)과 [치료량·재평가](../acupuncture-clinical/dose-followup.md)를 연결하고, 통증점수·앉을 수 있는 시간·보행거리·수면·진통제 사용을 함께 기록합니다.
 
 ## 통합 연결
 
