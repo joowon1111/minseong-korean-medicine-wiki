@@ -1,6 +1,6 @@
 ---
 title: 오늘의 한의학
-description: 경혈·본초·상한론·사상의학을 날짜별로 읽고, 계절별 양생 한 문장·카드 보관함과 원문·해설·학습 퀴즈로 이어가는 한의학 코너입니다.
+description: 경혈·본초·상한론·사상의학을 날짜별로 읽고, 내경·동의보감 양생 문구 검색·쉬운 원문 풀이·카드 보관함과 학습 퀴즈로 이어가는 한의학 코너입니다.
 tags: [오늘의 한의학, 한의학 상식, 매일 한 장, 경혈, 본초, 상한론, 사상의학]
 status: 검토완료
 last_reviewed: 2026-10-10
@@ -48,14 +48,57 @@ hide:
     <summary>고전에서 읽은 말 · 출처와 풀이</summary>
     <blockquote data-yangsheng-original>食飲有節。</blockquote>
     <p data-yangsheng-translation>원문 풀이 — 먹고 마시는 데 절도가 있다.</p>
+    <p data-yangsheng-words>말뜻 — 食飲(식음)은 먹고 마시는 일, 節(절)은 절도와 알맞은 정도를 뜻합니다.</p>
     <p data-yangsheng-context>특정 음식을 치료제로 권한 말이 아니라 식생활의 절도를 이야기하는 대목입니다.</p>
     <a data-yangsheng-source href="https://jicheng.tw/tcm/book/黃帝內經素問/index.html" target="_blank" rel="noopener">황제내경 소문 · 상고천진론 제1편 ↗</a>
     <a data-yangsheng-archive href="/classics/huangdi-neijing/">황제내경의 주요 내용 더 읽기 →</a>
     <a data-yangsheng-modern hidden></a>
   </details>
+  <div class="daily-km-date-tools"><button type="button" data-yangsheng-find disabled>이 문구 다시 읽기·공유</button></div>
   <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 24개 문구를 순환합니다. 『황제내경』·『동의보감』 원문과 아카이브의 생활 제안을 구분해 읽습니다.</p>
   <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden>날짜별 문구를 불러오지 못해 기본 문구를 표시합니다.</p>
 </section>
+
+<details class="daily-km-browser daily-km-almanac-library" data-almanac-library id="daily-yangsheng-library">
+  <summary>양생 문구 찾아보기 <span>계절·생활 주제·고전 원문으로 검색</span></summary>
+  <div class="daily-km-browser-body">
+    <p>날짜와 별도로 96개 생활 제안을 골라 읽어 보세요. ‘동의보감’, ‘잠’, ‘식사’나 원문의 한자로도 찾을 수 있습니다.</p>
+    <div class="daily-km-browser-search">
+      <label>계절 <select data-almanac-season disabled><option value="all">모든 계절</option><option value="spring">봄</option><option value="summer">여름</option><option value="autumn">가을</option><option value="winter">겨울</option></select></label>
+      <label>문구 검색 <input type="search" data-almanac-query placeholder="예: 동의보감, 잠, 식사, 起居" autocomplete="off" disabled></label>
+    </div>
+    <article class="daily-km-topic" data-almanac-preview hidden aria-label="찾아본 양생 문구">
+      <div class="daily-km-topic-meta"><span>양생(養生) · 찾아본 문구</span></div>
+      <h3 data-almanac-title tabindex="-1"></h3>
+      <p class="daily-km-almanac-label">아카이브의 생활 제안</p>
+      <p class="daily-km-almanac-line" data-yangsheng-line></p>
+      <p class="daily-km-almanac-practice" data-yangsheng-practice></p>
+      <details class="daily-km-almanac-source">
+        <summary>고전에서 읽은 말 · 출처와 풀이</summary>
+        <blockquote data-yangsheng-original></blockquote>
+        <p data-yangsheng-translation></p>
+        <p data-yangsheng-words></p>
+        <p data-yangsheng-context></p>
+        <a data-yangsheng-source hidden></a>
+        <a data-yangsheng-archive hidden></a>
+        <a data-yangsheng-modern hidden></a>
+      </details>
+      <div class="daily-km-preview-controls">
+        <button type="button" data-almanac-previous disabled>← 이전 문구</button>
+        <button type="button" data-almanac-next disabled>다음 문구 →</button>
+        <button type="button" data-almanac-share>문구 링크 복사</button>
+        <button type="button" data-almanac-copy>문구·출처 복사</button>
+      </div>
+      <p class="daily-km-tool-status" data-almanac-position></p>
+      <p class="daily-km-tool-status" data-almanac-copy-status role="status"></p>
+      <input class="daily-km-copy-url" type="text" readonly data-almanac-link-fallback aria-label="양생 문구 공유 주소" hidden>
+      <textarea class="daily-km-copy-url" rows="8" readonly data-almanac-text-fallback aria-label="복사할 생활 제안·실천·고전 원문과 출처" hidden></textarea>
+    </article>
+    <p class="daily-km-tool-status" data-almanac-status role="status">문구를 불러오는 중입니다.</p>
+    <ul class="daily-km-browser-results" data-almanac-results></ul>
+    <button type="button" data-almanac-more hidden>문구 더 보기</button>
+  </div>
+</details>
 
 <details class="daily-km-browser" data-daily-browser id="daily-card-library">
   <summary>카드 찾아보기 <span>이름·한자·원문·해설로 검색</span></summary>

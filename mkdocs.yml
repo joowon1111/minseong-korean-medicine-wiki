@@ -13,15 +13,15 @@ extra_javascript:
   - assets/acupoint-atlas/explorer.js
   - assets/acupoint-atlas/discovery.js
   - assets/learning/learning.js?v=20261004-07&ui=20261009-02
-  - assets/daily-korean-medicine/reader-core.js?v=20261010-yangsheng-classics
-  - assets/daily-korean-medicine.js?v=20261010-yangsheng-classics
-  - assets/daily-korean-medicine/special.js?v=20261010-yangsheng-classics
+  - assets/daily-korean-medicine/reader-core.js?v=20261010-yangsheng-library
+  - assets/daily-korean-medicine.js?v=20261010-yangsheng-library
+  - assets/daily-korean-medicine/special.js?v=20261010-yangsheng-library
 extra_css:
 - assets/archive-tools/tools.css?v=20261009-03
 - assets/extra.css
 - assets/acupoint-atlas/explorer.css
 - assets/learning/learning.css?v=20261004-01
-- stylesheets/portal.css?v=20261010-yangsheng-classics
+- stylesheets/portal.css?v=20261010-yangsheng-library
 - stylesheets/korean-medicine-guide.css
 - assets/korean-search-185.css
 - assets/donguibogam/reader.css
