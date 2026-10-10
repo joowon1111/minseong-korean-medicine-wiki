@@ -15,9 +15,9 @@ last_reviewed: 2026-09-21
 
 이 페이지는 진단명이나 의심 질환을 기준으로 검사·위험신호·감별과 한의학적 치료를 깊이 찾아보는 **질환별 심화 허브**입니다. 병명을 모르고 **“아파요·저려요·부어요·잠이 안 와요”**처럼 불편한 표현만 알고 있다면 [증상으로 찾기](../symptom-integrated/index.md)에서 시작하세요.
 
-민성 한의학 아카이브는 현재 다음 흐름으로 증상과 질환을 연결합니다.
+진단명이 있으면 분야별 목록에서 해당 문서를 열고, **진단을 확인한 검사 → 현재 증상과 감별 → 치료 목표 → 한약·침구 자료 → 임상근거와 경과** 순서로 읽어보세요. 검사에서 의심 소견만 나왔거나 여러 병명이 비슷해 보이면 아래 비교 안내에서 시작할 수 있습니다.
 
-`환자 표현 → 증상군 → 관련 질환 → 위험신호·감별 → 한의학적 변증 → 본초·방제 → 경혈·침구치료 → 현대 임상근거`
+[통증·근골격](#_4) · [신경·감각·순환](#_5) · [수면·정서·회복](#_6) · [소화·호흡·피부](#_7) · [여성·산후](#_8) · [소아·성장](#_9) · [검사·대사·신장](#_10) · [비뇨·배뇨](#_11) · [눈·입](#eye-oral-symptom-routes)
 
 ## 면역·만성염증·질병·노화 {#_2}
 
@@ -41,6 +41,8 @@ last_reviewed: 2026-09-21
 <span id="_13"></span>
 
 ### 통증·근골격 {#_4}
+
+통증 부위에서 시작한 뒤 저림·근력저하, 관절 운동범위, 외상 여부에 따라 신경·관절·힘줄 문서를 비교합니다. 영상검사 소견과 실제 불편이 어떻게 연결되는지는 각 질환의 감별 안내에서 확인하세요.
 
 <span id="joint-bone-care"></span>
 
@@ -78,6 +80,8 @@ last_reviewed: 2026-09-21
 
 ### 신경·감각·순환 증상 {#_5}
 
+어지럼의 발생 상황, 청력 변화, 저림의 범위와 부종의 분포를 구분해서 읽습니다. 가슴답답함·두근거림·숨참은 하나의 원인으로 묶지 않고 각각의 평가 경로를 확인합니다.
+
 <span id="digestive-sensory-care"></span>
 
 - [어지럼](dizziness.md)
@@ -97,10 +101,17 @@ last_reviewed: 2026-09-21
 - [이석증](bppv.md)
 - [메니에르병](menieres-disease.md)
 - [돌발성난청](sudden-sensorineural-hearing-loss.md)
+- [귀먹먹함·청력 변화](ear-fullness.md)
+- [청력저하·난청](hearing-loss.md)
+- [기립성 어지럼](orthostatic-dizziness.md)
+- [숨참·호흡곤란](shortness-of-breath.md)
+- [두근거림·심계](palpitation.md)
 
 </details>
 
 ### 수면·정서·피로·회복 {#_6}
+
+잠드는 시간·야간 각성·낮의 활동능력을 나누어 확인합니다. 피로는 지속기간과 감염·수술·입원 이후의 시간관계, 이미 받은 검사와 복용약을 함께 보는 문서로 연결합니다.
 
 - [불면증·수면장애](insomnia.md)
 - [만성피로·번아웃 감별](chronic-fatigue.md#burnout)
@@ -129,39 +140,76 @@ last_reviewed: 2026-09-21
 
 <span id="next-clinical-routes"></span>
 
+#### 소화·식욕·배변 {#digestive-conditions}
+
+식후 불편, 신물·쓰림, 배변 양상의 변화 가운데 무엇이 중심인지에 따라 문서를 고릅니다. 내시경 소견과 증상 이름을 구분하는 안내도 함께 볼 수 있습니다.
+
 - [소화불량·증상 안내](dyspepsia.md)
 - [기능성소화불량·유형과 치료](functional-dyspepsia.md)
+- [역류성식도염·신물·가슴쓰림](gerd.md)
 - [과민성장증후군](ibs.md)
-- [비염](rhinitis.md)
-- [기침](cough.md)
-- [가려움증·소양증 — 발진 없는 가려움과 원인별 치료](pruritus.md)
 
 <details markdown="1">
-<summary>소화·호흡·피부 더 보기</summary>
+<summary>소화·식욕·배변 더 보기</summary>
 
 - [위염·속쓰림·명치통증](gastritis-symptoms.md)
+- [건강검진 위염·내시경 소견](checkup-gastritis.md)
 - [복부팽만·가스](bloating.md)
+- [메스꺼움·오심](nausea.md)
+- [변비](constipation.md)
+- [설사](diarrhea.md)
+- [목이물감·매핵기](globus.md)
+- [스트레스성 소화불량](../autonomic/stress-digestion.md)
+- [의도하지 않은 체중감소](unintentional-weight-loss.md)
+
+</details>
+
+#### 코·목·호흡기 {#respiratory-conditions}
+
+코 증상과 기침이 함께 있는지, 기침이 감염 이후 이어지는지, 숨참이 동반되는지를 기록해 해당 문서의 감별 과정과 비교합니다.
+
+- [비염](rhinitis.md)
+- [부비동염·축농증](sinusitis.md)
+- [기침](cough.md)
+- [천식](asthma.md)
+
+<details markdown="1">
+<summary>코·목·호흡기 더 보기</summary>
+
 - [소아 비염·아이 비염](child-rhinitis.md)
-- [축농증·부비동염](sinusitis.md)
 - [감기·급성 상기도감염](common-cold.md)
+- [인후통·목감기](sore-throat.md)
+- [만성기침](chronic-cough.md)
+- [가래](phlegm.md)
+- [쉰목소리](hoarseness.md)
+
+</details>
+
+#### 피부·두피·모발 {#skin-conditions}
+
+가려움만 있는지, 발진·수포·각질이 동반되는지부터 구분합니다. 피부가 나은 뒤에도 통증이 이어지면 피부 병변과 신경통의 경과를 따로 읽습니다.
+
+- [가려움증·소양증](pruritus.md)
+- [아토피피부염](atopic-dermatitis.md)
+- [두드러기](urticaria.md)
+- [습진·접촉피부염](eczema.md)
+
+<details markdown="1">
+<summary>피부·두피·모발 더 보기</summary>
+
 - [여드름·성인여드름](acne.md)
 - [지루성피부염·두피 가려움](seborrheic-dermatitis.md)
-- [건선·붉은 판과 하얀 각질이 반복돼요](psoriasis.md)
-- [탈모·머리카락이 많이 빠져요](hair-loss.md)
+- [건선](psoriasis.md)
+- [탈모](hair-loss.md)
 - [항문가려움증·항문소양증](pruritus-ani.md)
 - [대상포진](shingles.md)
 - [대상포진 후 신경통](postherpetic-neuralgia.md)
-- [역류성식도염](gerd.md)
-- [매핵기](globus.md)
-- [스트레스성 소화불량](../autonomic/stress-digestion.md)
-- [천식](asthma.md)
-- [두드러기](urticaria.md)
-- [아토피피부염](atopic-dermatitis.md)
-- [습진·접촉피부염](eczema.md)
 
 </details>
 
 ### 여성·임신·산후 {#_8}
+
+월경주기·양·통증, 임신 가능성, 출산 이후 시기와 수유 여부를 함께 확인합니다. 임신준비·월경질환·산후회복은 각각의 검사와 치료 맥락에 맞춰 읽습니다.
 
 - [난임·임신준비](infertility-preconception.md)
 - [생리통·월경통](dysmenorrhea.md)
@@ -180,6 +228,8 @@ last_reviewed: 2026-09-21
 
 ### 소아·성장 {#_9}
 
+키·체중은 한 번의 측정치보다 성장곡선과 변화 추이를, 식욕·감기·수면은 나이와 일상 활동을 함께 살펴보세요. 보호자가 기록할 내용은 각 소아 문서에서 확인할 수 있습니다.
+
 - [소아 성장·아이 키 성장](child-growth.md)
 - [소아 식욕부진](child-poor-appetite.md)
 - [소아 반복감기·자주 아픈 아이](child-recurrent-colds.md)
@@ -190,10 +240,17 @@ last_reviewed: 2026-09-21
 
 - [소아 비염](child-rhinitis.md)
 - [소아 야뇨증](child-enuresis.md)
+- [소아 복통](child-abdominal-pain.md)
+- [소아 변비](child-constipation.md)
+- [소아 설사](child-diarrhea.md)
+- [소아 두통](child-headache.md)
+- [성장통·아이 다리통증](growing-pains.md)
 
 </details>
 
 ### 검사·대사·신장 {#_10}
+
+검사명·수치·단위·기준 범위와 이전 결과를 함께 확인합니다. 검진 이상 소견의 의미, 진단을 위한 추가 평가, 생활관리와 치료 경과를 구분해서 읽으세요.
 
 <span id="metabolic-fatigue-care"></span>
 
@@ -213,15 +270,32 @@ last_reviewed: 2026-09-21
 - [갑상선기능저하증](hypothyroidism.md)
 - [갑상선기능항진증](hyperthyroidism.md)
 - [빈혈·철결핍성빈혈](anemia-fatigue.md)
+- [간수치 상승](elevated-liver-enzymes.md)
+- [갑상선 수치 이상·TSH](thyroid-lab.md)
+- [건강검진 빈혈·헤모글로빈 저하](anemia-lab.md)
+- [대사증후군](metabolic-syndrome.md)
 
 </details>
 
 ### 비뇨·배뇨 {#_11}
 
+소변 횟수·양·절박감·통증·줄기와 야간 각성을 나누어 봅니다. 같은 빈뇨라도 원인이 다를 수 있어 감염·방광·전립선 문서의 평가 항목을 비교합니다.
+
 - [방광염·반복되는 요로감염](cystitis.md)
 - [과민성방광·절박뇨](overactive-bladder.md)
 - [야간뇨·밤에 자주 소변을 봐요](nocturia.md)
 - [전립선비대증·소변줄기가 약해요](benign-prostatic-hyperplasia.md)
+
+<details markdown="1">
+<summary>비뇨·배뇨·골반 더 보기</summary>
+
+- [골반·회음부 통증](pelvic-pain.md)
+- [만성전립선염·만성골반통](chronic-prostatitis.md)
+- [잔뇨감](residual-urine.md)
+- [소변줄기 약함·배뇨지연](weak-urine-stream.md)
+- [소변 후 찔끔](post-void-dribble.md)
+
+</details>
 
 ### 눈·입의 불편 {#eye-oral-symptom-routes}
 
@@ -249,11 +323,22 @@ last_reviewed: 2026-09-21
 
 ## 어디서부터 찾을까요? {#_12}
 
+### 비슷한 이름·증상을 비교하기 {#compare-condition-routes}
+
+- **소화불량과 기능성소화불량** — [소화불량](dyspepsia.md)에서 증상·감별을 먼저 보고, [기능성소화불량](functional-dyspepsia.md)에서 질환의 판단 기준과 유형·치료를 읽습니다.
+- **어깨통증과 오십견·회전근개 질환** — [어깨통증](shoulder-pain.md)에서 움직임과 통증을 확인한 뒤 [오십견](frozen-shoulder.md)·[회전근개 통증](rotator-cuff-pain.md)을 비교합니다.
+- **손발저림과 손목터널·척추 신경 증상** — [저림](limb-numbness.md)에서 부위와 범위를 보고 [손목터널](carpal-tunnel.md)·[목디스크](cervical-disc-herniation.md)·[좌골신경통](sciatica.md)으로 이어갑니다.
+- **밤의 다리 불편과 쥐** — [하지불안](restless-legs-syndrome.md)의 움직임 충동과 [근육경련](muscle-cramps.md)의 실제 수축을 구분합니다.
+- **귀먹먹함과 이명·청력저하** — [귀먹먹함](ear-fullness.md)에서 청력 변화부터 확인하고 [이명](tinnitus.md)·[난청](hearing-loss.md)을 함께 읽습니다.
+- **자주 깨는 잠과 야간뇨** — [새벽각성](early-awakening.md), [수면회복감 저하](nonrestorative-sleep.md), [야간뇨](nocturia.md) 중 실제로 잠을 깨우는 불편과 가까운 안내를 고릅니다.
+
+
+
 ### 1. 증상으로 시작하기 {#1}
 
 병명을 모르고 **“입 벌릴 때 턱이 아파요”, “밤에 다리가 불편해요”, “손발이 저려요”, “몸이 자주 부어요”**처럼 불편한 표현만 알고 있다면 [증상으로 찾기](/symptom-integrated/)에서 시작합니다.
 
-증상 허브에서는 생활 표현을 통증·저림·경련·부종·수면·피로·소화·호흡·여성·배뇨 영역으로 나누고, 다음 단계에서 관련 질환 심화 문서로 연결합니다.
+증상 허브에서는 생활 표현을 통증·저림·부종·수면·피로·가슴·호흡·소화·피부·눈·입·여성·배뇨·소아·검사 영역으로 나누고, 다음 단계에서 관련 질환 심화 문서로 연결합니다.
 
 - **환자 표현에서 찾기** → [증상으로 찾기](/symptom-integrated/)
 - **R-code 증상군과 변증·한약을 함께 찾기** → [증상 기반 한약 탐색](/symptom-herbal-guide/)
@@ -280,7 +365,8 @@ last_reviewed: 2026-09-21
 
 현재 대표 방제 근거는 보익·피로, 수면·정서, 소화기, 여성·갱년기, 호흡기·비염, 근골격·통증, 대사·신장·심혈관, 신경·뇌졸중, 비뇨생식 영역으로 확장되어 있습니다.
 
-예:
+아래는 관련 처방 자료를 읽는 예입니다. **병명별 고정 처방이나 자가복용 목록을 뜻하지 않습니다.** 연구에서 사용한 제형·대상자와 실제 처방의 차이는 해당 근거 문서에서 확인합니다.
+
 - 기능성소화불량 → 육군자탕·반하사심탕
 - 불면 → 귀비탕·산조인탕·천왕보심단·시호가용골모려탕
 - IBS-D → 통사요방·사신환
@@ -307,27 +393,19 @@ last_reviewed: 2026-09-21
 
 `내가 찾는 증상이 맞는지 → 위험신호·감별 → 관련 질환 → 한의학적 해석·변증 → 한약치료 → 침·전침·약침 등 침구치료 → 관련 본초·방제·경혈 → 현대 연구·임상근거 → 관련 증상·질환`
 
-현대근거에서는 논문 수만 보는 것이 아니라 실제로 무엇이 좋아졌는지를 함께 봅니다.
+현대근거에서는 논문 수보다 **누구에게, 어떤 치료를, 무엇과 비교했으며, 어느 정도 기간 동안 무엇이 달라졌는지**를 봅니다. 한약은 구성·제형·용량, 침치료는 시술 방식·빈도·기간을 확인하고 이상반응과 추적 결과도 함께 읽습니다.
 
-- 통증 → VAS·NRS + 기능
-- 무릎 골관절염 → WOMAC·보행
-- 불면 → PSQI·ISI
-- IBS → 증상중증도·복통·삶의 질
-- 비염 → TNSS·RQLQ
-- 뇌졸중 → FMA·VFSS·NIHSS·ADL·MoCA
-- PCOS → 배란·월경·HOMA-IR·BMI
-- CP/CPPS → NIH-CPSI
-- 발기부전 → IIEF-5·EHS
+- **통증·관절** — 통증점수(NRS·VAS)와 보행·관절 기능, 일상 활동을 함께 비교합니다. 무릎 연구의 WOMAC은 통증·강직·기능을 평가합니다.
+- **수면** — 불면 심각도(ISI)·수면의 질(PSQI)과 야간 각성·낮의 기능을 함께 봅니다.
+- **소화·비염** — 복통·배변·식후 불편, 코 증상·삶의 질 가운데 실제 측정한 결과를 구분합니다.
+- **여성·비뇨** — 월경·배란, 골반통·배뇨, 생활 불편을 각각 봅니다. 검사수치 변화와 환자가 느끼는 호전을 같은 결과로 취급하지 않습니다.
+- **재활·회복** — 근력·보행·일상생활·인지·연하 등 연구가 다룬 기능과 회복 시점을 확인합니다.
 
-→ [근거 가이드](/evidence-guide/)
+진료 경과를 정리할 때는 치료 전 불편, 생활에서 어려웠던 활동, 치료 기간, 복용약·생활 변화와 이후 상태를 함께 기록하면 비교에 도움이 됩니다. [치료 반응 평가](treatment-response-evaluation.md) · [근거 가이드](/evidence-guide/)
 
-## AI·검색에서의 연결 구조 {#ai}
+## 검색 표현으로 다시 찾기 {#ai}
 
-이 허브는 검색엔진과 AI가 증상·질환·치료·근거의 관계를 명확하게 읽도록 구성합니다.
-
-**자연어 질문 → 증상 → 질환 → 감별 → 변증 → 본초·방제·경혈 → 현대 임상근거 → 출처**
-
-→ [AI 검색 구조](/ai-index/)
+진단명이 기억나지 않으면 증상과 상황을 함께 검색해 보세요. **“아침 첫발 뒤꿈치”, “새벽에 깨고 소변”, “식후 더부룩 조기포만”, “귀먹먹 청력저하”**처럼 구체적인 단서를 넣으면 관련 문서를 비교하기 쉽습니다. 같은 질환의 일상 표현·의학 용어는 [환자 질문 검색 지도](../ai/patient-search-map.md)에서 연결해 볼 수 있습니다.
 
 ## 관련 핵심 문서 {#_15}
 
