@@ -17,6 +17,9 @@ tags: [양생, 치미병, 예방의학, 만성질환 관리, 기능 회복, 일�
 | 적게 먹어도 배부르고 식후 불편이 반복됨 | [기능성소화불량](../conditions/functional-dyspepsia.md#classical-function) | [육군자탕 일본 시험·지침](formulas/rikkunshito.md#japanese-fd-trials) |
 | 만성질환과 함께 식욕·기력·근력이 떨어짐 | [근감소증·노쇠](../conditions/frailty-sarcopenia.md#sarcopenia-formulas) | [인삼양영탕의 COPD 연구](../formulas/renshen-yangrong-tang.md#frailty-trials) |
 | 수술 뒤 식사·가스·배변 회복이 더딤 | [수술 후 회복](../conditions/postoperative-recovery.md#classical-gut-recovery) | [대건중탕의 간절제 시험](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial) |
+| 잠들기 어렵고 피로·번조가 겹침 | [불면의 원문·임상 해석](../conditions/insomnia.md#classical-clinical-reading) | [불면 처방 지식망](../network/insomnia-map.md) |
+| 두통 발작이 반복되어 생활이 어려움 | [편두통 예방 관리](../conditions/migraine.md#prevention-classical-context) | [침 예방시험](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) |
+| 넓은 통증·피로와 활동 곤란이 겹침 | [섬유근육통의 통증·수면·활동 관리](../authority/conditions/fibromyalgia.md#fibromyalgia-care) | [태극권·유산소운동 직접 비교](../authority/conditions/fibromyalgia.md#tai-chi-aerobic-comparison) |
 | 반복 통증으로 일상 동작이 어려움 | [고령자 요통의 기능 결과](../conditions/low-back-pain.md#older-adult-functional-trial) | [침 대표 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading) |
 
 [현대 임상근거 허브](../pillar/clinical-evidence.md#strengths-and-comparators)는 예방·통증·소화·수면·노년기 회복을 한눈에 연결합니다. [보익·양생 허브](../network/tonic-wellness-hub.md#prevention-functional-care)에서는 현재 회복 목표에 따라 처방·본초로 이동할 수 있습니다.
@@ -43,7 +46,7 @@ tags: [양생, 치미병, 예방의학, 만성질환 관리, 기능 회복, 일�
 | 낙상을 줄이는가 — Li 등, *JAMA Internal Medicine* 2018 | 낙상 위험이 있는 70세 이상 670명, 낙상예방용 태극권·복합운동·스트레칭, 24주 | 태극권 프로그램의 낙상 발생률이 스트레칭보다 58%, 복합운동보다 31% 낮음. 특정 균형훈련 프로그램의 결과. [상세](../conditions/elderly-tonic.md#falls-prevention-trial) · [논문](https://doi.org/10.1001/jamainternmed.2018.3915) |
 | 수면이 개선되는가 — Siu 등, *JAMA Network Open* 2021 | 60세 이상 만성불면 320명, 태극권·일반운동·비중재, 12주 | 수면효율은 비중재 대비 각각 3.4·3.5%p 개선. 두 활동군의 객관적 결과 차이는 뚜렷하지 않음. [상세](../conditions/insomnia.md#movement-sleep-trial) · [논문](https://doi.org/10.1001/jamanetworkopen.2020.37199) |
 | 혈압 관리에서 운동 방식이 다른가 — *JAMA Network Open* 2024 | 혈압 경계 범위 성인 342명, 태극권과 유산소운동, 12개월 | 진료실 수축기혈압 변화의 군 간 차이 −2.4 mmHg. 심혈관 사건 감소를 직접 입증한 시험은 아님. [상세](../conditions/high-blood-pressure-checkup.md#tai-chi-blood-pressure) · [논문](https://doi.org/10.1001/jamanetworkopen.2023.54937) |
-| 섬유근육통의 종합 생활기능을 개선하는가 — Wang 등, *NEJM* 2010 | 66명, 태극권과 교육·스트레칭, 12주 | FIQ 종합척도 차이 −18.4점. 소규모 시험이며 통증 하나만의 점수가 아님. [상세](../authority/conditions/fibromyalgia.md#tai-chi-functional-trial) · [논문](https://doi.org/10.1056/NEJMoa0912611) |
+| 섬유근육통에서 다른 운동보다 나은가 — Wang 등, *BMJ* 2018 | 226명, 기간·횟수가 다른 태극권 네 군과 유산소운동군 | 24주 FIQR 개선 폭은 태극권 네 군을 합친 분석에서 5.5점 더 큼. 통증·생활기능 종합척도이며 프로그램 조건을 확인. [직접 비교 상세](../authority/conditions/fibromyalgia.md#tai-chi-aerobic-comparison) · [앞선 NEJM 2010 시험](../authority/conditions/fibromyalgia.md#tai-chi-functional-trial) · [논문](https://doi.org/10.1136/bmj.k851) |
 
 전통 운동 연구는 양생과 연결되는 중재의 사례이며 한의진료 전체의 효과 수치가 아닙니다. 통상관리 추가시험은 실제 진료에서의 추가 가치를, 적극적 비교시험은 다른 선택지와의 차이를 설명합니다. 숫자만 나열한 순위보다 대상·시행 방식·추적기간을 먼저 맞춥니다.
 

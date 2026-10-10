@@ -17,7 +17,7 @@ last_reviewed: 2026-09-19
 | 잠들기 어렵거나 자주 깸 | [불면증·수면장애](../conditions/insomnia.md) |
 | 걱정과 긴장이 지속됨 | [불안·과도한 걱정](../conditions/anxiety.md) |
 | 억울함·분노와 가슴 답답함·상열감이 반복됨 | [화병·울화·가슴답답함](../conditions/hwabyeong.md) |
-| 머리가 아프고 뒷목이 당기거나 찌릿함 | [두통](../conditions/headache.md) · [긴장형두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md) |
+| 머리가 아프고 뒷목이 당기거나 찌릿함 | [두통](../conditions/headache.md) · [편두통](../conditions/migraine.md) · [긴장형두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md) |
 | 빙빙 돌거나 휘청거림 | [어지럼](../conditions/dizziness.md) |
 | 귀에서 소리가 남 | [이명](../conditions/tinnitus.md) |
 | 손발·팔다리가 저림 | [손발저림](../conditions/limb-numbness.md) |
@@ -35,6 +35,18 @@ last_reviewed: 2026-09-19
 | 잔 뒤에도 피로 | 코골이·무호흡·하지불안·수면시간이 문제인가 | 원인 평가와 전신 변증을 병행 | [비회복성 수면](../conditions/nonrestorative-sleep.md) |
 
 처방을 선택하는 데에는 증상 조합과 현재 상태가 필요합니다. 불면 하나를 특정 체질이나 병증으로 단정하지 않고, [불면 근거 카드](../authority/conditions/insomnia.md)에서 치료별 연구 대상·지표도 함께 확인합니다.
+
+## 원문과 연구를 치료 목표로 연결하기 {#prevention-recovery-paths}
+
+수면·통증·낮 기능을 함께 살피는 진료에서는 개선할 목표를 먼저 정하면 고전과 연구를 더 구체적으로 읽을 수 있습니다. 자세한 원문·수치·시험 조건은 각 기존 문서에 모았습니다.
+
+| 치료 목표 | 원문·임상 해석 | 확인할 연구와 경과 |
+|---|---|---|
+| 반복 편두통의 부담 줄이기 | [치미병과 발작 사이 관리](../conditions/migraine.md#prevention-classical-context) | [침 예방시험](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial); 두통일수·약 사용·생활 지장 |
+| 피로·번조와 불면 함께 살피기 | [금궤요략·동의보감의 갈림점](../conditions/insomnia.md#classical-clinical-reading) | [산조인탕 처방별 연구](../authority/formulas/suanzaoren-tang.md#szrd-results); 입면·각성·낮 기능 |
+| 수면 리듬과 활동 회복 | [기거유상·활동과 회복](../yangsaeng/index.md#daily-rhythm) | [고령자 불면 운동시험](../conditions/insomnia.md#movement-sleep-trial); 수면효율·활동 지속 가능성 |
+
+[불면 지식망](../network/insomnia-map.md)은 변증·본초·처방의 연결을, [예방·기능 회복 연구 지도](../research/prevention-function.md)는 다른 분야의 비교시험을 찾는 데 사용합니다.
 
 ## 본초·방제·경혈
 
