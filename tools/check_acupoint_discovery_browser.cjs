@@ -1,0 +1,77 @@
+// Optional UI regression check after MkDocs build: node tools/check_acupoint_discovery_browser.cjs
+// Requires Playwright Chromium; supports the workspace runtime when available.
+const {chromium}=require(process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES ? process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES+'/playwright' : 'playwright');
+const {spawn}=require('child_process');
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const bundled='/root/.cache/ms-playwright/chromium_headless_shell-1194/chrome-linux/headless_shell';
+const executable=process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE || (fs.existsSync(bundled) ? bundled : undefined);
+(async()=>{const server=spawn('python',['-m','http.server','8780','--bind','127.0.0.1','--directory','site']);const errors=[];let browser;
+try{await new Promise(resolve=>setTimeout(resolve,1000));browser=await chromium.launch({headless:true,executablePath:executable,args:['--no-sandbox']});
+for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844]]){
+ const page=await browser.newPage({viewport:{width,height}});page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://127.0.0.1:8780/acupoint-network/standard-atlas/',{waitUntil:'networkidle'});
+ const root=page.locator('#acupoint-discovery');await root.locator('[data-results] button').first().waitFor();
+ assert.equal(await page.evaluate(()=>document.body.scrollWidth),width);
+ const q=root.locator('[data-query]');
+ await q.fill('정중신경');await root.locator('[data-entry="PC6"]').click();await root.locator('[data-detail] h3').filter({hasText:'내관'}).waitFor();
+ assert.ok((await root.locator('[data-detail]').innerText()).includes('정중신경'));
+ await root.getByRole('button',{name:'경맥 전체',exact:true}).click();assert.ok((await root.locator('[data-detail] object').getAttribute('data')).endsWith('/pc.svg'));
+ await root.getByRole('button',{name:'부위 근육',exact:true}).click();assert.ok((await root.locator('[data-detail] object').getAttribute('data')).endsWith('/forearm.svg'));
+ await q.fill('소해');assert.equal(await root.locator('[data-results] button strong').filter({hasText:/^소해 /}).count(),2);
+ await q.fill('');await root.locator('[data-kind="standard"]').click();await root.locator('[data-meridian-filter]').selectOption('LI');await root.locator('[data-region-filter]').selectOption('손·손가락');
+ const labels=await root.locator('[data-results] button strong').allTextContents();assert.ok(labels.length>0);assert.ok(labels.every(s=>s.includes('LI')));
+ await root.locator('[data-reset]').click();await root.locator('[data-kind="saam"]').click();await q.fill('폐정격');await root.locator('[data-results] button').first().click();
+ assert.ok((await root.locator('.discovery-points').innerText()).includes('태연 LU9'));assert.equal(await root.locator('.discovery-views button').count(),4);
+ await root.locator('[data-reset]').click();await root.locator('[data-kind="tung"]').click();await q.fill('영골');await root.locator('[data-results] button').first().click();
+ assert.ok((await root.locator('[data-detail] h3').innerText()).includes('영골'));assert.equal(await root.locator('[data-meridian-filter]').isDisabled(),true);
+ await root.locator('[data-reset]').click();await q.fill('zzzz-no-result');assert.equal(await root.locator('[data-detail]').isVisible(),false);assert.ok((await root.locator('[data-results]').innerText()).includes('일치하는 항목'));
+ await root.locator('[data-reset]').click();await q.fill('합곡');await root.locator('[data-results] button').first().click();
+ await root.locator('[data-detail]').scrollIntoViewIfNeeded();
+ await page.screenshot({path:'/tmp/discovery-'+name+'.png',fullPage:false});
+ assert.equal(await page.evaluate(()=>document.body.scrollWidth),width);
+
+ await root.locator('[data-kind="standard"]').click(); await q.fill('LI4');
+ await root.locator('[data-meridian-filter]').selectOption('LI');
+ await root.locator('[data-region-filter]').selectOption('손·손가락');
+ const filteredURL=page.url();
+ assert.equal(new URL(filteredURL).searchParams.get('meridian'),'LI');
+ assert.equal(new URL(filteredURL).searchParams.get('region'),'손·손가락');
+ await page.reload({waitUntil:'networkidle'});
+ assert.equal(await root.locator('[data-meridian-filter]').inputValue(),'LI');
+ assert.equal(await root.locator('[data-region-filter]').inputValue(),'손·손가락');
+ await root.locator('[data-detail] h3').filter({hasText:'합곡'}).waitFor();
+ const object=root.locator('[data-detail] object');
+ await page.waitForFunction(()=>document.querySelector('[data-detail] object')?.contentDocument?.getElementById('LI3'));
+ await object.evaluate(o=>o.contentDocument.getElementById('LI3').dispatchEvent(new MouseEvent('click',{bubbles:true,cancelable:true})));
+ await root.locator('[data-detail] h3').filter({hasText:'삼간'}).waitFor();
+ assert.equal(new URL(page.url()).pathname,'/acupoint-network/standard-atlas/');
+ assert.equal(new URL(page.url()).searchParams.get('point'),'LI3');
+ await root.getByRole('button',{name:'확대',exact:true}).click();
+ assert.equal(await root.locator('.discovery-zoom span').innerText(),'150%');
+ assert.ok(await root.locator('.discovery-viewport').evaluate(v=>v.scrollWidth>v.clientWidth&&v.scrollHeight>v.clientHeight));
+ await root.getByRole('button',{name:'원래 크기',exact:true}).click();
+ assert.equal(await root.locator('.discovery-zoom span').innerText(),'100%');
+ await root.getByRole('button',{name:'크게 보기',exact:true}).click();
+ assert.ok(await page.evaluate(()=>!!document.fullscreenElement||!!document.querySelector('.discovery-expanded')));
+ await root.getByRole('button',{name:'크게 보기 닫기',exact:true}).click();
+ await page.evaluate(()=>Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async()=>{throw new Error('clipboard denied')}}}));
+ await root.getByRole('button',{name:'선택·검색 링크 복사',exact:true}).click();
+ assert.equal(await root.getByRole('textbox',{name:'선택과 검색 조건 공유 주소'}).inputValue(),page.url());
+ await page.evaluate(()=>Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async value=>{window.copiedLink=value}}}));
+ await root.getByRole('button',{name:'선택·검색 링크 복사',exact:true}).click();
+ assert.equal(await page.evaluate(()=>window.copiedLink),page.url());
+ await q.fill('폐정격'); await root.locator('[data-kind="saam"]').click();
+ await root.locator('.discovery-points a').filter({hasText:'태연 LU9'}).click();
+ await root.locator('[data-detail] h3').filter({hasText:'태연'}).waitFor();
+ await root.locator('[data-detail] a').filter({hasText:'폐정격 보혈'}).click();
+ await root.locator('[data-detail] h3').filter({hasText:'폐정격'}).waitFor();
+ assert.equal(await root.locator('.discovery-views button').count(),4);
+ await root.locator('[data-reset]').click(); await q.fill('합곡');
+ console.log(name,'SVG selection, zoom/fullscreen, filter reload, clipboard success/fallback and Saam round trip: PASS');
+ const reloadURL=page.url();await page.reload({waitUntil:'networkidle'});await root.locator('[data-detail] h3').filter({hasText:'합곡'}).waitFor();assert.ok(reloadURL.includes('point=LI4'));
+ console.log(name, 'search, combined filters, anatomy views, 24 prescriptions, Tung separation, empty/reset, deep link reload and no horizontal overflow: PASS');await page.close();
+}
+const off=await browser.newContext({javaScriptEnabled:false});const p=await off.newPage();await p.goto('http://127.0.0.1:8780/acupoint-network/standard-atlas/');assert.equal(await p.locator('.acupoint-links a').count(),361);console.log('No-JavaScript fallback: 361 point links retained');
+assert.deepEqual(errors,[]);console.log('Runtime errors: 0');await off.close();}
+finally{if(browser)await browser.close();server.kill();}})().catch(e=>{console.error(e);process.exit(1)});

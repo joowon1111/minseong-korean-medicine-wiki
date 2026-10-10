@@ -56,3 +56,14 @@
 .acupoint-discovery :focus-visible{outline:3px solid var(--md-accent-fg-color);outline-offset:2px}
 @media(max-width:850px){.discovery-layout{grid-template-columns:1fr}.discovery-list{border-right:0;border-bottom:1px solid var(--md-default-fg-color--lightest)}.discovery-list [data-results]{max-height:260px}.discovery-filters{grid-template-columns:1fr 1fr}.discovery-filters>button{grid-column:1/-1}.discovery-figure object{height:370px}}
 @media print{.acupoint-discovery{display:none}}
+
+.discovery-zoom{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem;padding:.5rem;background:var(--md-code-bg-color)}
+.discovery-zoom button{font-size:.7rem}.discovery-zoom button:disabled{opacity:.4;cursor:default}
+.discovery-zoom span{font-size:.7rem;min-width:3em}
+.discovery-viewport{height:440px;overflow:auto;background:white;overscroll-behavior:contain}
+.discovery-figure object{max-width:none;height:100%}
+.discovery-figure:fullscreen{display:flex;flex-direction:column;background:var(--md-default-bg-color);width:100%;height:100%;border-radius:0}
+.discovery-figure:fullscreen .discovery-viewport{flex:1;min-height:0}
+.discovery-figure.discovery-expanded .discovery-viewport{height:75vh}
+.discovery-source input{display:block;width:100%;padding:.5rem;color:var(--md-default-fg-color);background:var(--md-default-bg-color);border:1px solid var(--md-default-fg-color--light)}
+@media(max-width:850px){.discovery-viewport{height:370px}.discovery-figure object{height:100%}}
