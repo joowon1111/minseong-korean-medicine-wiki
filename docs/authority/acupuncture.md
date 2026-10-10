@@ -22,6 +22,8 @@ last_reviewed: 2026-09-06
 | 무릎의 통증과 움직임이 좋아지는가 | 미국 *Annals of Internal Medicine*, 2004 · 570명; 가짜침·교육 비교 | [26주 WOMAC 기능·통증 개선](#acupuncture-knee) |
 | 식후 더부룩함·조기포만이 좋아지는가 | *Annals of Internal Medicine*, 2020 · 278명; 가짜침 비교 | [4주 전체 반응률 추정치 83.0% 대 51.6%](#acupuncture-dyspepsia) |
 | 만성골반통과 배뇨 불편이 함께 줄어드는가 | *Annals of Internal Medicine*, 2021 · 440명; 가짜침 비교 | [8주 의미 있는 증상 개선 60.6% 대 36.8%, 32주에도 이점](#acupuncture-cpps) |
+| 일본 COPD 환자의 활동 시 숨참이 줄어드는가 | *Archives of Internal Medicine*, 2012 · 68명; 기존 약물치료+침 대 위약침 | [보행 직후 호흡곤란과 운동능력](#japanese-copd-trial) |
+| 방사선치료 후 오래 지속된 입마름은? | 미국 *JAMA Network Open*, 2024 · 258명; 표준 구강관리·가짜침 비교 | [환자보고 증상과 삶의 질](#us-xerostomia-trial) |
 | 유방암 호르몬치료 중 관절통이 줄어드는가 | 미국 *JAMA*, 2018·*JAMA Network Open*, 2022 · 같은 226명 시험 | [6주 본시험과 52주 통증 개선](#acupuncture-oncology) |
 
 이 표의 결과는 서로 다른 척도·질환의 연구입니다. 반응률은 연구에서 정한 개선 기준이며 완치율이 아닙니다. 각 연구의 원문과 치료 조건은 아래에서 함께 읽을 수 있습니다.
@@ -104,7 +106,23 @@ Mao 등의 미국 *JAMA Oncology* 2021년 시험은 현재 암의 증거가 없�
 
 가짜침 비교가 없는 실용적 시험이며 이침의 전침 대비 비열등성은 입증되지 않았습니다. 이상반응으로 인한 중단은 이침 10.5%·전침 0.7%였습니다. 암 치료 후 지속 통증에 대한 결과로 암 자체의 치료효과와 구분합니다. [PMID 33734288](https://pubmed.ncbi.nlm.nih.gov/33734288/) · [DOI 10.1001/jamaoncol.2021.0310](https://doi.org/10.1001/jamaoncol.2021.0310) · [PEACE 치료·추적 조건](conditions/cancer-related-pain.md#peace-cancer-pain-trial)
 
-→ [미국 33개 기관 방사선 구강건조 시험](conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [항암치료 관련 증상 전체](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading)
+### 만성 방사선 구강건조 — 미국 33개 기관 {#us-xerostomia-trial}
+
+Cohen 등의 2024년 *JAMA Network Open* 시험은 **미국 13개 주·33개 기관·258명**에서 두경부 방사선치료 종료 12개월 이상 뒤에도 구강건조가 지속된 환자를 침·가짜침·표준 구강관리로 배정했습니다. 침은 주 2회, 4주 시행했고 일부 환자는 추가 4주 치료했습니다.
+
+4주 환자보고 구강건조 XQ(0–100점)는 표준 구강관리보다 **6.67점 낮았고**, 삶의 질 FACT-G는 3.91점 높았습니다. 구강건조 차이는 8·12주에도 관찰됐으나 26주에는 유의하지 않았습니다. 가짜침 비교는 다중비교 보정 기준에서 유의하지 않았고 평균 XQ 차이는 사전 기준 10점보다 작았습니다.
+
+오래 지속된 입마름의 **증상과 삶의 질을 평가한 미국 다기관 근거**입니다. 실제 타액분비량 회복은 별도 결과이며 방사선치료와 관련 없는 입마름은 원인별로 판단합니다. [PMID 38739392](https://pubmed.ncbi.nlm.nih.gov/38739392/) · [DOI 10.1001/jamanetworkopen.2024.10421](https://doi.org/10.1001/jamanetworkopen.2024.10421) · [비교군·추적 결과](conditions/radiation-xerostomia.md#chronic-xerostomia-trial)
+
+→ [항암치료 관련 증상 전체](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading)
+
+## 일본 COPD 연구 — 운동 후 호흡곤란 {#japanese-copd-trial}
+
+Suzuki 등의 2012년 *Archives of Internal Medicine* 연구는 일본 간사이 지역의 **COPD 환자 68명**에서 표준 약물치료를 유지하며 침과 위약침을 주 1회, 12주간 비교했습니다. 환자·평가자·통계분석자가 배정을 모르게 설계했습니다. 이 저널의 현재 명칭은 *JAMA Internal Medicine*이며, 논문은 발표 당시 명칭으로 표시합니다.
+
+주평가는 6분간 걸은 직후의 수정 Borg 호흡곤란 점수였습니다. 조정 군 간 차이는 **−3.58점(95% CI −4.27~−2.90)**으로 침군에 유리했고, 6분보행거리도 개선됐습니다. 안정적으로 기존 약물치료를 받는 환자의 **활동할 때 숨찬 증상과 운동능력**을 평가한 일본 연구입니다. 표본이 작고 치료 후 장기 경과는 별도 검증이 필요하며 급성악화·입원·사망 감소를 평가한 시험과 구분합니다.
+
+[PMID 22905352](https://pubmed.ncbi.nlm.nih.gov/22905352/) · [DOI 10.1001/archinternmed.2012.1233](https://doi.org/10.1001/archinternmed.2012.1233) · [COPD 원시험과 후속 종합근거](conditions/copd.md#japanese-cat-trial)
 
 ## 전침의 배변·요실금 연구로 이어가기 {#acupuncture-electroacupuncture-results}
 

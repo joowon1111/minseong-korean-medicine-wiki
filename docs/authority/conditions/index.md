@@ -9,6 +9,27 @@ last_reviewed: 2026-08-30
 
 질환별 근거 카드는 **질환의 임상 맥락 → 치료방법과 연구조건 → 현대 임상연구 → PMID·DOI → 기존 지식망** 순서로 정리합니다. 정확한 병명을 알고 있다면 아래 질환군에서 시작하고, 병명이 불확실하면 [증상으로 찾기](../../symptom-integrated/index.md)를 이용하세요.
 
+## 대표 연구와 평가한 증상부터 찾기 {#condition-study-entry}
+
+같은 진료 분야 안에서도 연구 대상과 치료목표가 다릅니다. 아래에서 자신의 질문과 가까운 원시험을 찾고, 각 질환군의 종합근거로 이어갈 수 있습니다.
+
+| 환자가 찾는 문제 | 대표 연구에서 실제로 평가한 것 | 바로 읽기 |
+|---|---|---|
+| 허리가 아파 일상생활이 불편함 | 미국 800명 고령자 시험: 통상진료에 침 추가, 요통 관련 기능장애 | [대상·치료량·6개월 결과](../acupuncture.md#acupuncture-older-adult-results) |
+| 디스크와 관련된 오래된 다리 방사통 | 216명 분석, 가짜침 비교: 다리 통증과 ODI | [4주 치료·52주 추적](../acupuncture.md#acupuncture-sciatica) |
+| 편두통이 반복됨 | 150명 BMJ 시험: 4주당 두통일수·발작 횟수 | [즉각적 진통과 구분되는 예방효과](../acupuncture.md#acupuncture-migraine) |
+| 식후 더부룩하고 조금만 먹어도 배부름 | 278명 침 시험과 일본 육군자탕 DREAM: 각각의 대상·치료·비교군 | [침 반응률](../../evidence-integrated/acupuncture-evidence.md#pds-landmark) · [일본 한약 시험](../formulas/rikkunshito-evidence.md) |
+| 복통과 설사가 반복됨 | ACTION 280명 가짜침 비교: 복통·설사의 복합 반응 | [설사형 IBS 원시험](irritable-bowel-syndrome.md#action-ibs-trial) |
+| 변비로 배변이 어려움 | 전침 1,075명·마자인환 291명 시험: 완전자발배변 | [치료별 배변 지표와 추적](functional-constipation.md#csbm-reading) |
+| 우울증과 함께 수면이 나빠짐 | 270명 전침 병행시험: 수면의 질 PSQI와 추적 | [대상·표준관리·수면 결과](insomnia.md#jama-depression-insomnia-trial) |
+| 기존 COPD 치료 중 활동할 때 숨참 | 일본 68명 위약침 비교: 보행 직후 숨참과 보행거리 | [일본 CAT와 후속 종합근거](copd.md#japanese-cat-trial) |
+| 여성의 기침·웃음·활동 시 소변 누출 | 504명 JAMA 전침 시험: 패드검사 누출량 | [누출량과 배뇨일지](../electroacupuncture.md#ea-incontinence-trial) |
+| 남성의 만성 골반통·배뇨 불편 | 440명 시험: NIH-CPSI 6점 이상 개선과 지속성 | [임상적으로 의미 있는 반응](../../evidence-integrated/acupuncture-evidence.md#cpps-landmark) |
+| 암 치료 후 지속된 근골격통 | 미국 PEACE 360명: 전침·이침 대 통상진료 | [평균 통증과 치료별 내약성](cancer-related-pain.md#peace-cancer-pain-trial) |
+| 두경부 방사선치료 후 오래된 입마름 | 미국 258명: 구강건조 환자보고 점수·삶의 질 | [증상과 타액분비를 구분](radiation-xerostomia.md#chronic-xerostomia-trial) |
+
+이 표는 연구를 찾기 위한 안내입니다. 진단·중증도·병용치료가 다르면 적용 범위도 달라집니다. 한약·침·약침의 치료별 대표 성과는 [출처·근거 전체 안내](../index.md#authority-clinical-results)에서 비교할 수 있습니다.
+
 ## 질환군으로 찾기
 
 ### 통증·근골격
@@ -120,13 +141,7 @@ last_reviewed: 2026-08-30
 
 ## 근거 카드에서 진료로 연결하기
 
-```text
-질환과 위험신호 확인
- → 연구 대상과 비교
- → 치료방법·치료량 확인
- → 개인의 변증·체질과 병용치료 조정
- → 증상·기능·삶의 질 재평가
-```
+질환과 위험신호를 확인한 뒤 연구 대상과 비교합니다. 치료방법·치료량·병용치료를 살펴보고 개인의 병증·변증과 기능 목표에 맞춰 계획을 세웁니다. 경과에서는 증상·기능·삶의 질과 이상반응을 함께 재평가합니다.
 
 ## 함께 보는 자료
 
