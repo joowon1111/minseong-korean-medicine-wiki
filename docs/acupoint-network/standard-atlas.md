@@ -1,6 +1,6 @@
 ---
 title: WHO 표준 361경혈 임상 아틀라스
-description: 361경혈을 이름·국제 코드·경락으로 찾고, 361경혈 전체의 부위별 위치 도해에서 기존 경혈 상세 설명으로 이어지는 한글 임상 아틀라스.
+description: 경혈명·증상·근육·신경으로 361경혈과 사암침·동씨기혈을 함께 찾고, 선택한 혈의 위치 도해·해부학·주치 출처를 확인합니다.
 status: reviewed
 last_reviewed: 2026-08-23
 ---
@@ -13,6 +13,38 @@ last_reviewed: 2026-08-23
 WHO 표준 361경혈 체계에 따라 각 경혈의 상세 페이지를 경락별로 정리한 임상 경혈 아틀라스입니다. 경혈의 한글명과 국제 표준 코드를 함께 표시해 임상 탐색과 논문·AI 검색에서 모두 활용할 수 있도록 구성했습니다.
 
 각 경혈 상세 문서는 **전통적 효능·주치 → 진료지침의 임상 활용 → 현대 연구에서 다룬 분야**를 구분합니다. 확인된 자료가 있는 항목을 표시하며, [출처별 범위와 이용조건](../portal/acupuncture.md#sources)은 침구치료 포털에서 확인할 수 있습니다. 참고문헌은 접어서 열 수 있고, 361경혈 모두에 KMCRIC 표준경혈 DB 링크를 제공합니다. 주치 자료는 위치 표준과 구별해 읽고, 사암침법에 참여하는 혈은 [정격·승격에서의 보사 역할](../acupuncture-specific/saam-12-meridians.md)도 확인할 수 있습니다.
+
+## 경혈·침법 통합 탐색 {#clinical-explorer}
+
+**경혈 이름, 증상, 근육·신경을 검색**하고 경락·부위로 좁혀 보세요. 표준경혈 361혈, 사암침 정격·승격 24조합, 동씨기혈 50개 위치점을 기존 상세 문서와 함께 찾습니다. 결과를 선택하면 위치 그림·주치 출처·해부학 설명을 한 화면에서 읽을 수 있습니다. 한격·열격은 출처별 구성을 읽는 개념 안내로 연결합니다.
+
+<div id="acupoint-discovery" class="acupoint-discovery">
+<div class="discovery-toolbar">
+<div class="discovery-kinds" role="group" aria-label="자료 범위">
+<button type="button" data-kind="" aria-pressed="true">전체</button>
+<button type="button" data-kind="standard" aria-pressed="false">표준경혈</button>
+<button type="button" data-kind="saam" aria-pressed="false">사암침</button>
+<button type="button" data-kind="tung" aria-pressed="false">동씨기혈</button>
+</div>
+<label>이름·증상·해부학 검색<input type="search" data-query maxlength="100" placeholder="예: 합곡, 소화불량, 정중신경, 폐정격" autocomplete="off"></label>
+<div class="discovery-filters">
+<label>경락<select data-meridian-filter><option value="">전체 경락</option></select></label>
+<label>부위<select data-region-filter><option value="">전체 부위</option></select></label>
+<button type="button" data-reset>전체 보기</button>
+</div>
+<div class="discovery-examples" role="group" aria-label="검색 예시"><span>바로 찾기</span><button type="button" data-example="족삼리">족삼리</button><button type="button" data-example="정중신경">정중신경</button><button type="button" data-example="폐정격">폐정격</button><button type="button" data-example="영골">영골</button></div>
+<p data-status role="status" aria-live="polite" aria-atomic="true">탐색 자료를 불러오는 중입니다. 아래 경락별 목록에서도 찾을 수 있습니다.</p>
+</div>
+<div class="discovery-layout">
+<div class="discovery-list"><div data-results aria-label="검색 결과"></div><button type="button" data-more hidden>결과 더 보기</button></div>
+<div data-detail class="discovery-detail" aria-label="선택한 경혈·침법 상세" hidden></div>
+</div>
+<noscript><p>아래 경락별 목록과 부위별 도해를 이용하거나 <a href="/acupuncture-specific/saam-12-meridians/">사암침 구성표</a>, <a href="/tung-acupuncture/">동씨기혈 도해</a>에서 찾으세요.</p></noscript>
+</div>
+
+**경혈 위치 · 경맥 전체 · 부위 근육** 버튼으로 그림을 바꿀 수 있습니다. 근육 그림은 해당 부위의 해부학을 이해하는 자료이며 특정 경혈의 조직층을 정밀하게 표시한 그림은 아닙니다. 해부학 검색은 현재 상세 문서에 기술된 주변 구조를 대상으로 합니다. 내부 장기의 근접 관계도 해당 경혈 본문에서 확인된 설명을 읽고, 전통적인 장부명과 현대 해부학적 장기를 구분합니다.
+
+[근육·말초신경 지도](../clinical-anatomy/index.md) · [근육·근막 도해](../clinical-anatomy/mps-atlas.md) · [경혈·근육·신경 초음파 지도](../musculoskeletal-ultrasound/acupoint-ultrasound-map.md)에서 함께 확인하세요. 증상 검색은 자료를 찾는 기능이며 치료 처방을 자동으로 결정하지 않습니다.
 
 ## 부위별 경혈 위치 도해 {#five-shu-diagrams}
 
