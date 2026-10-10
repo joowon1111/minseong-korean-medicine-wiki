@@ -52,6 +52,21 @@ description: 장중경 의학·동의보감의 원문과 병증을 기존 본초
 
 [사상의학 통합 허브](../sasang-integrated/index.md)에서 소증·체질병증·표리·순역을 먼저 읽고 [사상의학 연구](../sasang-research/index.md)로 이동합니다. 연구의 체질 진단 방법, 병증 기준, 처방 구성과 결과지표를 확인하여 사상의학의 체계를 보존합니다.
 
+## 養生에서 예방·만성 증상·기능 회복으로 {#prevention-and-function}
+
+한의학의 특징을 보여주는 질문은 **평소의 몸 상태를 어떻게 보존하는가, 반복되는 불편을 어떻게 줄이는가, 치료 뒤 어떤 생활을 되찾는가**입니다. 《내경》의 생활·활동·회복 관점, 《금궤요략》의 초기 대응, 《동의보감》의 신형·내상·허로를 현대 결과지표로 이어 읽을 수 있습니다.
+
+| 고전의 출발점 | 현재 확인할 결과 | 검증된 연구·자료로 이어가기 |
+|---|---|---|
+| 《소문》 「食飲有節，起居有常，不妄作勞」 | 혈당 위험과 실제 당뇨병 발병 | [NEJM DPP 생활중재 시험](../conditions/prediabetes.md#diabetes-prevention-trial), [진리다 FOCUS 특정 복합제제 시험](../formulas/jinlida.md): 생활중재와 제제의 추가효과 구분 |
+| 《소문》 「不治已病治未病」 | 반복 발작과 생활 중단 감소 | [편두통의 예방 관리와 BMJ 시험](../conditions/migraine.md#prevention-classical-context) |
+| 《금궤요략》 「四肢才覺重滯，即導引、吐納、鍼灸、膏摩」 | 움직임·균형과 낙상 발생 | [JAMA Internal Medicine 낙상예방 시험](../conditions/elderly-tonic.md#falls-prevention-trial): 낙상예방용 태극권 프로그램 |
+| 《소문》 「起居有常」「形勞而不倦」 | 수면효율·야간 각성·낮 기능 | [JAMA Network Open 고령자 수면시험](../conditions/insomnia.md#movement-sleep-trial): 태극권·일반 운동 비교 |
+| 《동의보감》의 만성 요통·허약 구별 | 통증과 일상 동작의 기능장애 | [JAMA Network Open 고령자 요통시험](../conditions/low-back-pain.md#older-adult-functional-trial): 통상관리에 침 추가 |
+| 《소문》 「生病起於過用」와 활동·회복의 관찰 | 전신 통증에 따른 종합 생활기능 | [NEJM 섬유근육통 태극권 시험](../authority/conditions/fibromyalgia.md#tai-chi-functional-trial) |
+
+고전은 관찰과 치료 방향을 설명하고, 임상시험은 실제 시행한 중재의 결과를 설명합니다. 태극권은 전통 운동 연구의 사례이며 한의진료 전체의 효과를 대변하지 않습니다. 생활중재·침·한약·운동을 병행한 실제 진료의 총효과를 단독 중재 시험의 수치만으로 계산하지 않습니다. 원문 출전과 자체 해석은 [치미병·도인](../neijing-network/index.md#prevention), [동의보감 양생·만성 관리](../donguibogam-network/index.md#yangsaeng-chronic-care)에서 확인할 수 있습니다.
+
 ## 연구 유형에 맞춰 읽기 {#evidence-reading}
 
 [Evidence Hub](../portal/evidence.md#classical-evidence-paths)에서 진료지침·SR·메타분석·RCT·안전성 자료를 목적에 맞게 고를 수 있습니다. 진료지침은 권고 대상과 조건, SR은 전체 연구의 일관성, RCT는 구체적 중재와 비교군, 안전성 연구는 이상반응과 사용 조건을 살피는 자료입니다.

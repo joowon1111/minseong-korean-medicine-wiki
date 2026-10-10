@@ -17,6 +17,21 @@ last_reviewed: 2026-08-22
 - [한약 대표 임상 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-landmark-results): 국내 처방 비교시험, 고전 복합방제 위약대조시험, 특정 표준화 제제의 장기 결과
 - [국내 추나·약침 비교효과](../portal/evidence.md#korean-treatment-results): 통증과 기능, 일상 회복과 추적관찰
 
+## 한의학의 강점을 어떤 결과로 설명할까요? {#strengths-and-comparators}
+
+**반복되는 증상의 부담을 줄이고, 식사·수면·활동을 함께 살피며, 일상 기능의 회복을 이어가는 진료**는 한의학의 특징을 설명하기 좋은 축입니다. 어떤 치료가 더 유리한지는 질환·대상·비교치료별로 확인합니다. ‘만성질환에 좋다’는 포괄적인 표현보다 실제 목표와 연구를 짝지으면 장점이 구체적으로 드러납니다.
+
+| 중심 분야 | 환자가 중요하게 여기는 결과 | 근거를 확인할 경로 |
+|---|---|---|
+| 양생·위험 관리 | 질환 발생과 위험인자 변화, 실행 가능한 생활 | [고전의 치미병과 현대 연구](../network/classic-to-evidence-map.md#prevention-and-function) · [혈압 운동 비교시험](../conditions/high-blood-pressure-checkup.md#tai-chi-blood-pressure) |
+| 만성 근골격 통증 | 걷기·앉기·업무·수면의 회복 | [침 대표 임상 결과](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading) · [고령자 요통의 장기 기능](../conditions/low-back-pain.md#older-adult-functional-trial) |
+| 반복 두통 | 발작·편두통일수와 생활 중단 감소 | [편두통 예방시험](../authority/conditions/migraine.md#jama-migraine-prevention) |
+| 소화·배변의 만성 불편 | 식후불편감·배변·삶의 질 | [소화기 한약 연구](../authority/formulas/digestive-herbal-evidence.md) · [침의 소화·배변 결과](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading) |
+| 수면과 동반 신체 증상 | 입면·야간 각성·낮 기능 | [불면 전침·수면 결과](../authority/conditions/insomnia.md) · [낮 활동과 수면 연구](../conditions/insomnia.md#movement-sleep-trial) |
+| 노년기·회복기 | 식욕·피로·이동·외출·낙상 | [어르신 회복과 낙상예방](../conditions/elderly-tonic.md) · [수술 후 회복](../conditions/postoperative-recovery.md) |
+
+**직접 비교한 임상시험**에서 차이가 확인된 경우에 그 대상·조건 안의 상대적 이점을 설명합니다. 위약·sham·무치료·통상관리·다른 적극적 치료는 서로 다른 비교군입니다. 예를 들어 운동 간 혈압 차이, 침을 더한 뒤 기능 차이, 특정 한약제제의 발병 차이는 각기 다른 질문에 답합니다. 저널의 명성이나 임팩트팩터만으로 전체 의학체계의 우위를 정하지 않고, 효과 크기·지속성·치료 부담·안전성과 환자의 선호까지 함께 봅니다.
+
 ## 연구의 층위
 
 1. 무작위대조시험(RCT)
