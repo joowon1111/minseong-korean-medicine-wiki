@@ -218,7 +218,7 @@
   font-size: .72rem;
   font-weight: 700;
 }
-.daily-km-topic h3 { margin: .45rem 0 .55rem; font-size: 1.15rem; }
+.daily-km-topic h3 { margin: .45rem 0 .55rem; font-size: 1.15rem; line-height: 1.5; word-break: keep-all; overflow-wrap: anywhere; }
 .daily-km-topic-summary, .daily-km-topic-translation, .daily-km-topic-explanation, .daily-km-topic-note, .daily-km-topic-edition {
   margin: .45rem 0;
   font-size: .82rem;
@@ -248,4 +248,39 @@
 @media (max-width: 760px) {
   .daily-km-topic-grid { grid-template-columns: 1fr; }
   .daily-km-topic { padding: .9rem; }
+}
+
+/* Date navigation and an optional card library on the daily reading page. */
+.daily-km-date-tools { display: flex; flex-wrap: wrap; align-items: end; gap: .6rem; margin-top: .8rem; }
+.daily-km-date-tools label, .daily-km-browser-search label { display: flex; flex-direction: column; gap: .3rem; font-size: .78rem; }
+.daily-km-date-tools input, .daily-km-browser-search input, .daily-km-browser-search select, .daily-km-copy-url {
+  min-width: 0; max-width: 100%; min-height: 44px; padding: .45rem .6rem;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .45rem;
+  background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit;
+}
+.daily-km-date-tools button, .daily-km-browser button { min-height: 44px; padding: .45rem .8rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .45rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit; cursor: pointer; }
+.daily-km-controls button { font-size: .78rem; }
+.daily-km-controls button:disabled { opacity: .5; cursor: default; }
+.daily-km-tool-status { font-size: .74rem; color: var(--md-default-fg-color--light); }
+.daily-km-tool-status:empty { display: none; }
+.daily-km-copy-url { width: 100%; font-size: .74rem; }
+.daily-km-topic-review { margin: .8rem 0 .3rem; padding-top: .65rem; border-top: 1px solid var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light); font-size: .75rem; line-height: 1.7; word-break: keep-all; }
+.daily-km-browser { margin: 1.4rem 0; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .75rem; }
+.daily-km-browser summary { padding: .9rem 1rem; cursor: pointer; font-weight: 650; }
+.daily-km-browser summary span { display: inline-block; margin-left: .5rem; color: var(--md-default-fg-color--light); font-size: .74rem; font-weight: 400; }
+.daily-km-browser-body { padding: 0 1rem 1rem; }
+.daily-km-browser-body > p { font-size: .8rem; }
+.daily-km-browser-search { display: grid; grid-template-columns: minmax(7rem, 1fr) minmax(0, 3fr); gap: .7rem; margin-bottom: 1rem; }
+.daily-km-browser [data-daily-preview] { margin: 1rem 0; scroll-margin-top: 6rem; }
+.daily-km-browser [data-daily-share-card] { margin-top: .7rem; font-size: .78rem; }
+.md-typeset .daily-km-browser-results { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .45rem; margin: .7rem 0; padding: 0; list-style: none; }
+.md-typeset .daily-km-browser-results li { margin: 0; }
+.daily-km-browser-results button { width: 100%; height: 100%; text-align: left; }
+.daily-km-browser-results button span { display: block; font-size: .65rem; color: var(--md-primary-fg-color); }
+.daily-km-browser-results button strong { display: block; font-size: .8rem; font-weight: 500; line-height: 1.6; word-break: keep-all; overflow-wrap: anywhere; }
+.daily-km-browser button:hover, .daily-km-date-tools button:hover { border-color: var(--md-primary-fg-color); }
+.daily-km-browser :is(input, select, button, summary):focus-visible, .daily-km-date-tools :is(input, button):focus-visible { outline: 2px solid var(--md-primary-fg-color); outline-offset: 3px; }
+@media (max-width: 480px) {
+  .daily-km-browser-search, .md-typeset .daily-km-browser-results { grid-template-columns: 1fr; }
+  .daily-km-browser summary span { display: block; margin: .25rem 0 0; }
 }
