@@ -63,7 +63,7 @@
     
       <link rel="stylesheet" href="../assets/learning/learning.css?v=20261004-01">
     
-      <link rel="stylesheet" href="../stylesheets/portal.css?v=20261010-reader">
+      <link rel="stylesheet" href="../stylesheets/portal.css?v=20261010-card-depth">
     
       <link rel="stylesheet" href="../stylesheets/korean-medicine-guide.css">
     
@@ -1214,6 +1214,7 @@
     <div class="daily-km-browser-search">
       <label>주제 <select data-daily-filter disabled><option value="all">전체 주제</option><option value="points">경혈</option><option value="herbs">본초</option><option value="shanghan">상한론</option><option value="sasang">사상의학</option></select></label>
       <label>카드 검색 <input type="search" data-daily-query placeholder="예: 합곡, 황기, 계지탕, 소음인" disabled autocomplete="off"></label>
+      <label data-daily-meridian-label hidden>경락 <select data-daily-meridian disabled><option value="all">전체 경락</option></select></label>
     </div>
     <article class="daily-km-topic" data-daily-preview aria-label="찾아본 카드" hidden>
       <div class="daily-km-topic-meta"><span data-preview-topic></span><span data-topic-count></span></div>
@@ -1224,6 +1225,7 @@
       <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
       <p class="daily-km-topic-note" data-topic-note hidden></p>
       <p class="daily-km-topic-edition" data-topic-edition hidden></p>
+      <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 처방·비교 조문" hidden></nav>
       <p class="daily-km-topic-review" data-topic-review></p>
       <div class="daily-km-topic-links">
         <a data-topic-link hidden></a>
@@ -1231,7 +1233,12 @@
         <a data-topic-hkbu-reference hidden></a>
         <a data-topic-quiz hidden></a>
       </div>
-      <button type="button" data-daily-share-card>이 카드 링크 복사</button>
+      <div class="daily-km-preview-controls">
+        <button type="button" data-daily-previous-card disabled>← 이전 카드</button>
+        <button type="button" data-daily-next-card disabled>다음 카드 →</button>
+        <button type="button" data-daily-share-card>이 카드 링크 복사</button>
+      </div>
+      <p class="daily-km-tool-status" data-daily-preview-position></p>
       <p class="daily-km-tool-status" data-daily-share-status role="status"></p>
       <input class="daily-km-copy-url" type="text" readonly data-daily-copy-fallback aria-label="카드 공유 주소" hidden>
     </article>
@@ -1273,8 +1280,10 @@
   <p class="daily-km-topic-summary" data-topic-summary>우방자의 기원·초법, 소산풍열·선폐이인·투진소종 효능, 은교산·소풍산 속 역할과 박하·길경 감별을 정리합니다.</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
   <p class="daily-km-topic-translation" data-topic-translation hidden><strong>아카이브 풀이</strong> — </p>
+  <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
   <p class="daily-km-topic-note" data-topic-note hidden></p>
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
+  <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 처방·비교 조문" hidden></nav>
   <p class="daily-km-topic-review" data-topic-review>복습 포인트 — 약용 부위와 처방 안에서 맡는 역할을 함께 떠올려 보세요.</p>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
@@ -1289,8 +1298,10 @@
   <p class="daily-km-topic-summary" data-topic-summary>조문 원문</p>
   <blockquote class="daily-km-topic-original" data-topic-original>傷寒脈浮緩，身不疼，但重，乍有輕時，無少陰證者，大青龍湯發之。</blockquote>
   <p class="daily-km-topic-translation" data-topic-translation><strong>아카이브 풀이</strong> — 상한에 부완맥이면서 몸은 아프지 않고 무겁되 가벼울 때도 있으며 소음증이 없는 경우 대청룡탕으로 발산한다.</p>
+  <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
   <p class="daily-km-topic-note" data-topic-note><strong>읽는 포인트</strong> — ‘몸이 무겁다’만으로 대청룡탕을 정하지 않는다. 無少陰證이 본문에 명시된 조건이다.</p>
   <p class="daily-km-topic-edition" data-topic-edition>송본 계열 · 중의급성 전사문 · 통행 398조 구분</p>
+  <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 처방·비교 조문" hidden></nav>
   <p class="daily-km-topic-review" data-topic-review>복습 포인트 — 조문에서 빠뜨리면 안 되는 증후와 조건을 짚어 보세요.</p>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/classics/shanghanlun/clauses/taiyang-middle/#clause-039">관련 문서 더 읽기 →</a>
@@ -1318,7 +1329,7 @@
 </section>
 
 <div class="daily-km-intro">
-<p>원문과 번역은 해당 원전·판본 안내를 함께 표시합니다. 사상의학 카드는 원문 발췌·처방명 표기·병증 비교 해설을 구분하고, 용어의 뜻과 병증의 갈림점·배합·경과 관찰을 설명합니다.</p>
+<p>본초 카드는 약용 부위·배합 역할·비슷한 약재의 차이를, 고전 카드는 원문·풀이와 아카이브 해설을 구분해 읽습니다. 상한론의 처방 구성·제법은 관련 조문 문서에서 판본과 함께 확인하고, 비교 조문으로 이어 읽을 수 있습니다. 사상의학은 소증·현증·병증의 갈림점·배합·경과 관찰을 함께 살핍니다.</p>
 <p>카드는 한의학 개념을 알아가는 학습 자료입니다. 개인 증상을 스스로 진단하거나 치료를 선택하는 용도로 사용하지 말고, 상세 문서에서 출전·맥락·안전 안내를 함께 확인하세요.</p>
 </div>
 
@@ -1411,11 +1422,11 @@
       
         <script src="../assets/learning/learning.js?v=20261004-07&amp;ui=20261009-02"></script>
       
-        <script src="../assets/daily-korean-medicine/reader-core.js?v=20261010-reader"></script>
+        <script src="../assets/daily-korean-medicine/reader-core.js?v=20261010-card-depth"></script>
       
-        <script src="../assets/daily-korean-medicine.js?v=20261010-reader"></script>
+        <script src="../assets/daily-korean-medicine.js?v=20261010-card-depth"></script>
       
-        <script src="../assets/daily-korean-medicine/special.js?v=20261010-reader"></script>
+        <script src="../assets/daily-korean-medicine/special.js?v=20261010-card-depth"></script>
       
     
   </body>
