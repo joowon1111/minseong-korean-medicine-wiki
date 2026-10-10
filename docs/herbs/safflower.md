@@ -40,7 +40,6 @@ description: 홍화(紅花) — 본초의 성미·귀경·효능·병증·배합
 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) | 도인·천궁·적작약과 활혈하고 시호·지각과 기체를 함께 조절 |
 | [보양환오탕](../formulas/buyang-huanwu-tang.md) | 황기의 보기와 당귀미·도인·적작약의 활혈을 연결하는 기허혈어 구조 |
 | [당귀수산](../formulas/danggui-susan.md) | 당귀·적작약·향부자 등과 외상 후 어혈·통증을 다룸 |
-| [도핵승기탕](../formulas/taohe-chengqi-tang.md) | 도인·대황·망초·계지와 하초 축혈·열결을 공하·활혈로 다룸 |
 
 ## 도인·단삼과 구분
 
