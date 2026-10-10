@@ -73,6 +73,14 @@ last_reviewed: 2026-09-21
 
 한약은 기침 기간과 원인, 가래·건조, 냉열, 비염·역류·소화 상태를 함께 반영합니다. 마황 함유 처방은 심박수·혈압·수면과 기관지확장제 등 병용약을 확인해 복용량과 시간을 조정합니다.
 
+### 원문에서 기침과 동반 양상을 함께 읽기 {#classical-formula-context}
+
+《상한론》 40조는 「心下有水氣，乾嘔，發熱而欬」, 곧 **심하 수기와 헛구역질·발열·기침이 겹친 상태**를 소청룡탕 문맥에 기록합니다. 《금궤요략》 7.10은 「大逆上氣，咽喉不利」, **심한 상역과 인후 불편**에 맥문동탕을 제시합니다. 기침이라는 공통 증상 안에서 처방 전체의 배합과 동반 양상을 살핀다는 점을 보여줍니다. [상한론 40조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-040) · [금궤요략 7.10](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-010)
+
+두 처방에 모두 [반하](../herbs/pinellia.md)가 있지만 소청룡탕은 마황·계지·건강·세신과 함께 수음을 온화하고, 맥문동탕은 맥문동·인삼·갱미·대조와 함께 윤양·강역을 구성합니다. **한 본초의 효능만으로 처방의 방향을 정하지 않고 전체 배합을 읽습니다.** [소청룡탕 구성](../formulas/xiaoqinglong-tang.md#source-dose-original) · [맥문동탕 구성](../formulas/maidong-tang.md#source-dose-original)
+
+고전의 표증·상역과 현대의 기침 원인은 서로 다른 설명 체계입니다. 감염 후 기침·후비루·천식·역류를 먼저 구분하고 위 표의 동반 증상, 실제 시험 제제와 경과로 연결합니다.
+
 ## 침·전침·약침 치료 구성 {#cough-modalities}
 
 - **침치료:** 열결(LU7)·척택(LU5)·폐수(BL13)·전중(CV17)·족삼리(ST36) 등을 기침·가래·흉민과 변증에 맞춰 조합합니다. 비염에는 영향(LI20)·인당, 역류에는 내관(PC6)·중완(CV12)을 함께 고려합니다.
@@ -82,7 +90,7 @@ last_reviewed: 2026-09-21
 
 ## 현대 임상근거 {#cough-evidence}
 
-- 한국 연구진의 systematic review/meta-analysis는 만성기침의 **80개 RCT·7,573명**을 종합했습니다. 한약 단독과 기존 치료 병행 연구에서 기침 중증도·기침 관련 삶의 질·재발률 등을 평가했습니다. [PMID 37920213](https://pubmed.ncbi.nlm.nih.gov/37920213/) · [호흡기 한약 근거 지도](../authority/formulas/respiratory-herbal-formula-map.md)
+- 한국 연구진의 2023년 체계적 문헌고찰·메타분석은 만성기침의 **80개 RCT·7,573명**을 종합했습니다. 기존 치료에 한약을 더한 분석에서 기침 중증도·기침 관련 삶의 질·재발률의 개선을 보고했습니다. 기존 약을 대신한 분석에서는 기침 중증도 결과가 일관되지 않았으므로 병용 결과와 나누어 읽습니다. 근거 확실성은 대체로 중간~낮음이었으며 처방·원인·비교치료가 다양합니다. [PMID 37920213](https://pubmed.ncbi.nlm.nih.gov/37920213/) · [호흡기 한약 근거 지도](../authority/formulas/respiratory-herbal-formula-map.md)
 - 위식도역류 관련 만성기침의 2026년 systematic review/meta-analysis는 **5개 RCT·390명**을 포함해 주간·야간 기침점수와 LCQ를 분석했습니다. 이는 역류 관련 기침 집단의 침치료 자료이므로 다른 원인의 만성기침과 구분해 적용합니다. [PMID 41859159](https://pubmed.ncbi.nlm.nih.gov/41859159/) · [역류성 만성기침 근거 카드](../authority/conditions/gerd-related-chronic-cough.md)
 
 ## 치료 후 무엇을 비교하나요? {#followup}
