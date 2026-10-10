@@ -14,7 +14,7 @@ extra_javascript:
   - assets/acupoint-atlas/discovery.js
   - assets/learning/learning.js?v=20261004-07&ui=20261009-02
   - assets/daily-korean-medicine.js?v=20261007-01
-  - assets/daily-korean-medicine/special.js?v=20261007-09
+  - assets/daily-korean-medicine/special.js?v=20261010-sasang-depth
 extra_css:
 - assets/archive-tools/tools.css?v=20261009-03
 - assets/extra.css

@@ -38,7 +38,7 @@ hide:
 <section class="daily-km-topics" data-daily-km-topics aria-label="오늘의 경혈·본초·상한론·사상의학">
   <header class="daily-km-topics-header">
     <div><span class="daily-km-kicker">매일 만나는 한의학</span><h2>하루 경혈 · 하루 본초 · 하루 상한론 · 하루 사상의학</h2>
-    <p>경혈은 361개 전체를 순환하고, 매일 본초 한 가지와 상한론·동의수세보원 원문 한 구절씩 읽습니다.</p></div>
+    <p>경혈은 361개 전체를 순환하고, 매일 본초 한 가지와 상한론 조문, 사상의학 원문·병증·처방 해설을 읽습니다.</p></div>
     <time data-topic-date datetime="2026-10-07">2026년 10월 7일</time>
   </header>
   <p class="daily-km-data-error" data-daily-data-error hidden>오늘의 카드 자료를 불러오지 못했습니다. 아래 아카이브 문서에서 전체 내용을 볼 수 있습니다.</p>
@@ -87,11 +87,12 @@ hide:
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-sasang" data-daily-topic="sasang">
-  <div class="daily-km-topic-meta"><span>하루 사상의학</span><span data-topic-count>원문·풀이 86개 순환</span></div>
+  <div class="daily-km-topic-meta"><span>하루 사상의학</span><span data-topic-count>원문·풀이 120개 순환</span></div>
   <h3 data-topic-title>태양인 · 열과 격의 구분</h3>
   <p class="daily-km-topic-summary" data-topic-summary>신축본 15-5 발췌 · 원문 발췌</p>
   <blockquote class="daily-km-topic-original" data-topic-original>食物 自外入 而有所妨碍 曰噎 自內受 而有所拒格 曰膈</blockquote>
   <p class="daily-km-topic-translation" data-topic-translation><strong>아카이브 풀이</strong> — 음식이 밖에서 들어갈 때 방해받는 것을 열, 안에서 받아들이는 데 거부되어 막히는 것을 격이라 한다.</p>
+  <p class="daily-km-topic-explanation" data-topic-explanation><strong>해설</strong> — 열(噎)은 음식이 들어오는 과정의 방해, 격(膈)은 받아들인 음식이 거부되는 양상으로 구분합니다. 막힘이 삼키는 순간인지 섭취 뒤인지 시간 순서로 묻고, 식사량·체중·수분 유지까지 살핍니다. 해역의 하지 기능과 관찰 영역은 다르지만 두 양상이 동반되는지도 중요합니다.</p>
   <p class="daily-km-topic-note" data-topic-note><strong>읽는 포인트</strong> — 섭취·연하의 문제와 하지 지탱의 해역은 관찰 영역이 다르다. 동반되면 원전과 임상진료지침 모두 중한 맥락을 제시한다.</p>
   <p class="daily-km-topic-edition" data-topic-edition>동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조</p>
   <div class="daily-km-topic-links">

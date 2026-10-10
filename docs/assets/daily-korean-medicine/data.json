@@ -1,6 +1,6 @@
 {
   "schema": "minseong-daily-korean-medicine-v1",
-  "sourceNote": "경혈은 WHO 표준 목록, 본초는 연결 문서의 기원·전통 효능·배합을 확인합니다. 상한론은 통행 398조 전체를 순환합니다. 사상의학 카드는 『동의수세보원』의 성정·장국·보명지주·소증·병증 원문을 편명과 판본을 구분해 풀이하며, 처방명만을 원문 조문처럼 표시하지 않습니다.",
+  "sourceNote": "경혈은 WHO 표준 목록, 본초는 연결 문서의 기원·전통 효능·배합을 확인합니다. 상한론은 통행 398조 전체를 순환합니다. 사상의학은 원문·풀이·병증 비교·처방 배합 120개를 순환하며, 각 카드에서 해설과 관찰 포인트를 함께 읽습니다. 원문 조문·병론 편명·처방명·아카이브 비교 해설을 구분하고, 신축본·갑오구본·후대 처방집과 임상진료지침의 출처를 표시합니다.",
   "points": [
     {
       "code": "LU1",
@@ -9831,7 +9831,8 @@
       "note": "음식선화는 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/soeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "음식선화(飮食善化)는 식욕이 왕성하다는 뜻에 그치지 않습니다. 평소 양의 음식을 편하게 먹고, 식후 더부룩함·복통·설사 없이 소화하며 기력이 유지되는지를 함께 읽습니다. 병이 들기 전의 식사량과 식후 상태를 알아두면 현재의 소화저하가 새 변화인지 오래된 소증인지 구별할 수 있습니다."
     },
     {
       "title": "소음인 · 장부대소",
@@ -9841,7 +9842,8 @@
       "note": "신대비소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/classics/donguisusebowon/#_3",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "신대비소(腎大脾小)는 소음인의 장국을 설명하는 전통 이론의 상대적 표현입니다. 신장의 실제 크기가 크고 비장이 작다는 해부학적 진술로 읽지 않습니다. 임상에서는 이 문장을 체질의 배경으로 두고, 평소 소화·추위·땀 뒤 기력과 현재 표병·리한병의 증후를 따로 확인합니다."
     },
     {
       "title": "소양인 · 완실무병 구절",
@@ -9851,7 +9853,8 @@
       "note": "대변선통은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "대변선통(大便善通)의 핵심은 횟수가 많다는 것이 아니라 편안하게 배변하는 상태입니다. 변의 형태, 힘주기·잔변감, 복통과 배변 뒤 느낌을 함께 봅니다. 설사가 잦아진 것을 ‘잘 통한다’고 해석하지 않으며, 평소의 배변과 현재 변비·설사의 변화를 비교해야 병증의 방향이 드러납니다."
     },
     {
       "title": "소양인 · 장부대소",
@@ -9861,7 +9864,8 @@
       "note": "비대신소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/classics/donguisusebowon/#_3",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "비대신소(脾大腎小)는 소양인의 장국을 상대적으로 설명한 말입니다. 현대 장기의 크기나 신장검사 수치로 체질을 판별한다는 뜻은 아닙니다. 소양인 병론을 읽을 때에는 이 이론과 별도로 평소 대변·갈증·수면, 현재 신열두통·복통·설사와 리열의 단서를 연결합니다."
     },
     {
       "title": "태음인 · 완실무병 구절",
@@ -9871,7 +9875,8 @@
       "note": "한액통창은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/taeeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "한액통창(汗液通暢)은 땀을 많이 흘릴수록 건강하다는 뜻이 아닙니다. 적절한 활동에서 땀이 원활하고 땀 뒤 몸이 편안한지, 반대로 탈진·어지럼이 생기는지를 비교합니다. 같은 발한도 평소의 건강 지표인지 병중에 새로 생긴 변화인지에 따라 의미가 달라집니다."
     },
     {
       "title": "태음인 · 장부대소",
@@ -9881,17 +9886,19 @@
       "note": "간대폐소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/classics/donguisusebowon/#_3",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "간대폐소(肝大肺小)는 태음인의 흡취·호산과 장국을 설명하는 전통 개념입니다. 간이 비대하거나 폐용량이 작다는 현대 검사 소견과 직접 대응하지 않습니다. 병증 판단에서는 평소 땀·호흡·식후 상태를 기준으로 삼고, 현재 위완수한표한과 간수열리열의 증후를 구분합니다."
     },
     {
       "title": "태양인 · 완실무병 구절",
       "original": "太陽人 小便旺多則 完實而無病",
       "originalLabel": "사상인변증론 · 원문 구절",
       "translation": "소변 배출이 왕성하고 원활하면 건강이 충실하다고 한다.",
-      "note": "소변왕다은 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
+      "note": "소변왕다는 전통적 건강 지표다. 한 항목으로 체질이나 무병을 확정하지 않고 소증·현증을 종합한다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/taeyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소변왕다(小便旺多)는 배뇨가 충실하고 원활한 상태를 건강 지표로 제시한 말입니다. 음수량에 비해 소변이 잘 나오는지, 불편·잔뇨감 없이 배출되는지를 함께 살핍니다. 배뇨량을 무조건 늘리는 목표로 읽지 않으며, 새 빈뇨·다뇨·배뇨통은 별도의 원인 평가가 필요합니다."
     },
     {
       "title": "태양인 · 장부대소",
@@ -9901,7 +9908,8 @@
       "note": "폐대간소를 영상검사상의 크기로 환산하지 않는다. 보명지주는 생리·병리를 설명하는 개념이며 단독 체질검사가 아니다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/classics/donguisusebowon/#_3",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "폐대간소(肺大肝小)는 태양인 장국의 전통적 상대 관계를 나타냅니다. 흉부 영상이나 간기능 검사로 이 관계를 확인하는 것은 아닙니다. 태양인 병론에서는 평소 배뇨·섭취·활동을 현재의 하지 지탱 문제인 해역, 섭취·연하 문제인 열격과 비교해 읽습니다."
     },
     {
       "title": "소음인 신수열표열병",
@@ -9911,7 +9919,8 @@
       "note": "소음인 표열: 울광·망양을 자한·기력·배설과 함께 구분한다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/soeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "편명에 ‘신수열’이 들어가지만 신장에 열이 생겼다는 현대 질환명은 아닙니다. 소음인 표병 안에서 울광과 망양을 나누는 체계로 읽습니다. 특히 발열·오한·통증과 함께 땀의 유무, 땀 뒤 탈진, 대변·식욕의 변화를 살피면 두 병증의 갈림점을 이해하기 쉽습니다."
     },
     {
       "title": "소음인 위수한리한병",
@@ -9921,7 +9930,8 @@
       "note": "소음인 리한: 태음병·소음병을 소화·대변·갈증·전신 상태로 구분한다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/soeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소음인의 리한병은 태음병과 소음병으로 나누어 읽습니다. 여기서 태음병은 태음인이라는 체질명이 아닙니다. 구토·설사·복만의 공통 증상에 갈증과 입안의 느낌, 신체통·사지냉감이 어떻게 더해지는지를 살펴 리한의 깊이와 회복력 차이를 이해합니다."
     },
     {
       "title": "소양인 비수한표한병",
@@ -9931,7 +9941,8 @@
       "note": "소양인 표한: 소양상풍과 망음을 먼저 가른다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "‘표한’이라는 이름만으로 몸에 열이 없어야 한다고 생각하면 신열두통을 놓치기 쉽습니다. 소양인 표병은 소양상풍병과 망음병을 구분하며, 후자는 평소의 한열·배변과 현재 설사·두통·복통을 함께 봅니다. 신열과 설사가 같은 시기에 나타나는지 기록하는 것이 중요합니다."
     },
     {
       "title": "소양인 위수열리열병",
@@ -9941,7 +9952,8 @@
       "note": "소양인 리열: 흉격열과 음허오열 등의 병증 방향을 구분한다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소양인 리열병에서는 흉격열과 음허오열의 갈림점을 봅니다. 구갈·변의 건조·번조가 중심인지, 오랜 소모와 배뇨·하지 기능 변화가 겹치는지 비교합니다. 음허오열의 오열(惡熱)은 ‘열을 싫어함’으로, 다섯 부위의 열이나 야간 열감만을 뜻하지 않습니다."
     },
     {
       "title": "태음인 위완수한표한병",
@@ -9951,7 +9963,8 @@
       "note": "태음인 표한: 위완한·표한과 폐의 호산 기능을 함께 읽는다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/taeeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "위완수한표한은 태음인 표병의 이름으로, 현대의 위염이나 저체온증과 같은 진단명은 아닙니다. 오한·발열의 교대, 땀의 원활함, 식후 불편·호흡 변화를 함께 읽습니다. 위완한과 위완한폐조를 비교할 때에는 증상의 수보다 지속 경과와 소모·건조의 단서가 중요합니다."
     },
     {
       "title": "태음인 간수열리열병",
@@ -9961,7 +9974,8 @@
       "note": "태음인 리열: 간열과 폐조의 비중을 함께 읽는다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/taeeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "간수열리열의 ‘간열’은 간효소 상승을 뜻하지 않습니다. 태음인 리병의 한열·조열 구조를 설명하는 말입니다. 열감·갈증·대변 건조와 함께 피부·소변·활동의 변화를 살피고, 간열병인지 간열폐조병의 소모가 더해졌는지 구분해 처방군을 이해합니다."
     },
     {
       "title": "태양인 외감요척병",
@@ -9971,7 +9985,8 @@
       "note": "태양인 해역: 요척·하지 기능을 섭취·배뇨와 함께 본다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/taeyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "외감요척병은 태양인 병론에서 허리·하지의 지탱과 활동 기능을 중심으로 읽습니다. 해역은 허리가 아프다는 증상 하나보다 상체와 하체 기능의 대비, 서기·걷기의 어려움이 중요합니다. 급성 마비나 진행성 근력저하는 이 병명으로 설명하기 전에 신경계 원인을 평가합니다."
     },
     {
       "title": "태양인 내촉소장병",
@@ -9981,7 +9996,8 @@
       "note": "태양인 열격: 음식 수납과 하강·연하·섭취를 중심으로 읽는다.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-integrated/taeyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "내촉소장병은 태양인 병론에서 음식의 섭취·연하·수용과 관련된 열격을 이해하는 틀입니다. 현대 소장질환과 일대일로 대응하지 않습니다. 음식이 들어갈 때 막히는지, 받아들인 뒤 거부되는지, 섭취량·체중·수분이 유지되는지를 시간 순서로 살핍니다."
     },
     {
       "title": "황기계지탕 · 소음인",
@@ -9991,7 +10007,8 @@
       "note": "황기계지탕: 소음인 표열·망양 초기의 자한과 기력 소모.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-formula-library/#soeum-mangyang",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "황기계지탕은 소음인 망양초증에서 발열·오한과 자한이 겹치는 맥락으로 읽습니다. 계지탕 계열의 영위 조화에 황기의 보기 역할이 더해진 배합을 살피되, 목적을 ‘땀을 더 내는 것’으로 단순화하지 않습니다. 땀 뒤 기력·식사·활동이 회복되는지가 함께 중요합니다."
     },
     {
       "title": "향사양위탕 · 소음인",
@@ -10001,7 +10018,8 @@
       "note": "향사양위탕: 소음인 리한·태음병의 소화저하·심하비만.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/formulas/xiangsha-yangwei-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소음인 향사양위탕은 허한성 비위 상태에 기체·습체가 겹치는지를 공부하는 처방입니다. 향부자·사인·목향 등 이기 약재와 비위를 받치는 약재의 관계를 봅니다. 같은 이름의 다른 계통 처방은 구성과 출전이 다를 수 있어 사상방의 수록본을 먼저 확인합니다."
     },
     {
       "title": "형방도적산 · 소양인",
@@ -10011,7 +10029,8 @@
       "note": "형방도적산: 소양인 표한·소양상풍의 결흉 방향과 흉격 불편.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-formula-cards/hyeongbangdojeok-san/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "형방도적산은 형개·방풍·강활·독활의 표병 골격에 생지황·목통·현삼·과루인·전호가 더해진 구성을 읽습니다. 표증과 흉격의 답답함·열·담의 단서가 함께 있는지가 비교점입니다. 복령·택사가 중심인 형방사백산과 달리 목통·현삼·과루인 배합이 두드러집니다."
     },
     {
       "title": "형방사백산 · 소양인",
@@ -10021,7 +10040,8 @@
       "note": "형방사백산: 소양인 표한·신열두통망음의 설사와 신열·두통.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-formula-cards/hyeongbangsabaek-san/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "형방사백산은 형방·강독에 생지황·복령·택사와 석고·지모를 결합한 처방입니다. 표병의 두통·열감과 갈증·배설 변화를 함께 볼 수 있으며, 지침에서는 흉격열 초기의 맥락도 구분해 다룹니다. 석고가 있다는 이유만으로 모든 적용을 리열병으로 묶지 않습니다."
     },
     {
       "title": "태음조위탕 · 태음인",
@@ -10031,7 +10051,8 @@
       "note": "태음조위탕: 태음인 표한·위완한의 식후비만·담습·무거움.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-formula-cards/taeeumjowi-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "태음조위탕은 건율·의이인·나복자의 비위·담습축과 마황·길경의 호산, 맥문동·오미자의 호흡·회복축을 함께 봅니다. 식후비만·몸의 무거움·발한불리의 조합이 중요합니다. 기본 8미 설명과 천문동을 포함한 후대 9미 기록은 출전 차이로 구분합니다."
     },
     {
       "title": "열다한소탕 · 태음인",
@@ -10041,7 +10062,8 @@
       "note": "열다한소탕: 태음인 리열·간열폐조의 열·갈증·건조.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-formula-cards/yeoldahanso-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "열다한소탕은 갈근·황금의 열 조절과 길경·나복자의 폐기·기체 조절을 중심으로 비교합니다. 태음인 리열에서 열감·갈증·건조·배변이 어떻게 함께 변했는지 봅니다. 처방명은 열과 한의 수치를 계산한다는 뜻이 아니며, 대황을 더한 후대 청폐사간탕과 구분합니다."
     },
     {
       "title": "오가피장척탕 · 태양인",
@@ -10051,7 +10073,8 @@
       "note": "오가피장척탕: 태양인 외감요척병·해역의 요척·하지 기능 저하.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-formula-cards/ogapi-jangcheok-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "오가피장척탕은 태양인 외감요척병·해역에서 허리와 하지의 지탱 기능을 살피는 처방입니다. 통증 점수만으로 판단하기보다 스스로 서기·걷기, 하지 피로와 일상 활동의 변화를 봅니다. 이름의 ‘장척’을 모든 요통이나 척추질환에 적용하는 뜻으로 넓히지 않습니다."
     },
     {
       "title": "미후등식장탕 · 태양인",
@@ -10061,7 +10084,8 @@
       "note": "미후등식장탕: 태양인 내촉소장병·열격의 연하·섭취·구토.",
       "edition": "동의수세보원 신축본(1901) 병론 기준 · 처방 구성은 연결 문서의 수록본 별도 확인",
       "href": "/sasang-formula-cards/mihudeung-sikjang-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "미후등식장탕은 태양인 내촉소장병·열격에서 섭취와 수용의 문제를 살피는 처방입니다. 음식이 막히는 시점, 먹은 것을 유지하는지, 식사량·체중·수분의 변화를 봅니다. 하지 지탱이 중심인 오가피장척탕과 관찰 영역을 나누되, 두 문제가 동반되는지도 확인합니다."
     },
     {
       "title": "소음인 · 태음병의 구중화",
@@ -10071,7 +10095,8 @@
       "note": "체질은 소음인이고 병증명은 태음병이다. 태음인 체질이나 상한론 태음병과 이름만으로 합치지 않는다.",
       "edition": "동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조",
       "href": "/sasang-pattern-differential/soeumin-taeeum-vs-soeum/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865469"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865469",
+      "explanation": "구중화(口中和)는 입안의 느낌이 조화롭다는 뜻으로, 태음병에서는 갈증이 없다는 조건과 함께 나옵니다. 복만·구토·설사는 있어도 입안과 갈증의 변화가 두드러지지 않는지를 읽습니다. 이 단서를 신체통·사지냉감·섭취 유지와 함께 비교해야 소음병과의 차이가 선명해집니다."
     },
     {
       "title": "소음인 · 소음병의 구중불화",
@@ -10081,7 +10106,8 @@
       "note": "구갈 하나를 리열의 충분조건으로 삼지 않는다. 구중 상태·수족냉·심번·신체통과 소음인 병론을 함께 본다.",
       "edition": "동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조",
       "href": "/sasang-pattern-differential/soeumin-taeeum-vs-soeum/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865476"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865476",
+      "explanation": "구중불화(口中不和)는 단순한 쓴맛 하나가 아니라 입안이 편안하지 않은 상태를 가리킵니다. 리한병 안에서도 갈증이 나타날 수 있다는 점이 중요합니다. 갈증만 보고 열증으로 바꾸어 읽지 않고, 복통·설사·몸의 통증·사지냉감과 전신 상태를 함께 비교합니다."
     },
     {
       "title": "소양인 · 신열두통망음",
@@ -10091,17 +10117,19 @@
       "note": "같은 망음이라도 신한복통 분기와 다르다. 형방사백산의 원전 치험과 임상진료지침의 단계별 배치를 함께 읽는다.",
       "edition": "동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조",
       "href": "/sasang-pattern-differential/soyangin-severity-map/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062",
+      "explanation": "신열·두통·설사는 서로 떨어진 세 증상보다 한 경과 안에서 함께 나타나는지 봅니다. 평소의 배변과 다르게 설사가 생기고 두통·열감이 지속하는지, 소변·수면·섭취가 유지되는지가 중요합니다. 지침의 단계별 저령차전자탕·형방사백산 비교도 이 증후의 깊이에 따라 읽습니다."
     },
     {
       "title": "소양인 · 신한복통망음",
       "original": "身寒腹痛泄瀉",
       "originalLabel": "신축본 9-22 발췌 · 원문 발췌",
       "translation": "몸이 차고 배가 아프며 설사한다는 표지어이다.",
-      "note": "임상진료지침는 신열두통과 신한복통의 중증도를 달리 구조화한다. 설사가 줄어도 냉감·섭취·소변이 악화하면 회복으로 단정하지 않는다.",
+      "note": "임상진료지침은 신열두통과 신한복통의 중증도를 달리 구조화한다. 설사가 줄어도 냉감·섭취·소변이 악화하면 회복으로 단정하지 않는다.",
       "edition": "동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조",
       "href": "/sasang-pattern-differential/soyangin-severity-map/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062",
+      "explanation": "신한복통망음에서는 몸의 냉감과 복통·설사가 한 흐름으로 나타나는지 확인합니다. 설사 횟수만 줄었다고 호전으로 판단하기보다 복통·냉감·섭취·배뇨·기력이 같은 방향으로 회복되는지 봅니다. 평소부터 차고 하리가 잦았는지와 이번 발병 뒤의 변화를 나누어 기록합니다."
     },
     {
       "title": "태양인 · 해역의 하지 기능",
@@ -10111,7 +10139,8 @@
       "note": "이 발췌 뒤에는 마비·종통과 다른 양상을 설명하는 문맥이 이어진다. 현대 신경질환을 배제했다는 진단 문장으로 읽지 않는다.",
       "edition": "동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조",
       "href": "/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960",
+      "explanation": "원문은 상체는 비교적 온전한데 하체가 풀리고 약하여 서고 걷기 어려운 대비를 제시합니다. 해역을 읽을 때에는 요통의 유무보다 기립·보행·하지 지탱과 섭취·배뇨의 변화를 연결합니다. 현대의 신경·근육·척추 질환 진단을 이 전통 병증명으로 대신하지 않습니다."
     },
     {
       "title": "태양인 · 열과 격의 구분",
@@ -10121,7 +10150,8 @@
       "note": "섭취·연하의 문제와 하지 지탱의 해역은 관찰 영역이 다르다. 동반되면 원전과 임상진료지침 모두 중한 맥락을 제시한다.",
       "edition": "동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조",
       "href": "/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960",
+      "explanation": "열(噎)은 음식이 들어오는 과정의 방해, 격(膈)은 받아들인 음식이 거부되는 양상으로 구분합니다. 막힘이 삼키는 순간인지 섭취 뒤인지 시간 순서로 묻고, 식사량·체중·수분 유지까지 살핍니다. 해역의 하지 기능과 관찰 영역은 다르지만 두 양상이 동반되는지도 중요합니다."
     },
     {
       "title": "승양팔물탕",
@@ -10131,7 +10161,8 @@
       "note": "갑오본 계통과 후대 태양양명 주치, 신축본 망양 단계를 구별한다.",
       "edition": "갑오본 계통 · 후대 구성·주치: 동의사상신편(1929), P0018143",
       "href": "/sasang-formula-cards/seungyangpalmul-tang/",
-      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018143&tempLang=ko"
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018143&tempLang=ko",
+      "explanation": "승양팔물탕은 인삼·황기와 계지·백작약·당귀·천궁·진피·자감초의 배합을 살핍니다. 갑오계·후대 처방집의 태양양명 기록과 신축본 지침의 망양 단계표를 나누어 읽어야 합니다. 이름이 비슷한 승양익기탕과 동일한 망양초증 처방으로 묶지 않습니다."
     },
     {
       "title": "향부자팔물탕",
@@ -10141,7 +10172,8 @@
       "note": "흉복부 답답함·식욕저하와 두통·긴장·수면 변화를 함께 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/hyangbujapalmul-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "향부자팔물탕은 일반 팔물탕에 향부자 한 가지를 더한 처방이 아닙니다. 향부자·진피와 당귀·작약·천궁·백출·백하수오·감초의 여덟 약재 구성을 먼저 봅니다. 사려·기체와 소화허약이 어떻게 함께 있는지 읽으며 인삼·복령·숙지황이 있는 일반 팔물탕과 구분합니다."
     },
     {
       "title": "곽향정기산 · 소음인방",
@@ -10151,7 +10183,8 @@
       "note": "리한·한습의 태음병에서 오심·구토·심하비만과 설사를 묶는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/gwakhyangjeonggi-san/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소음인 곽향정기산은 이름이 같은 일반 고방과 구성·체질 맥락이 다릅니다. 곽향·소엽의 외감·습체, 진피·반하 등의 담습·비위, 보기 약재의 역할을 함께 읽습니다. 구토·설사·복만이 발병 전의 소화허약과 어떻게 연결되는지 살펴 이중탕 계열과 비교합니다."
     },
     {
       "title": "백하오이중탕",
@@ -10161,7 +10194,8 @@
       "note": "복통·자리·식욕저하·냉감을 태음병의 불갈·구중화와 연결한다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/baekhao-ijung-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "백하오이중탕은 허한성 소화저하·복통·설사와 회복을 연결해 읽습니다. 백하수오·백출과 계지·건강 등의 온중축, 작약·진피·감초의 조화를 살피면 관계부자이중탕과 차이가 드러납니다. 백하수오와 적하수오는 다른 기원 약재이므로 명칭을 서로 바꾸어 읽지 않습니다."
     },
     {
       "title": "관계부자이중탕",
@@ -10171,7 +10205,8 @@
       "note": "지속 설사·복통·사지냉·전신 쇠약이 모이는 리병의 깊이를 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/gwangye-buja-ijung-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "관계부자이중탕은 관계·부자가 포함되는 리한 처방으로, 복통·설사·사지냉감과 쇠약의 깊이를 함께 봅니다. 표병의 발한·망양을 중심으로 한 인삼계지부자탕과 관찰점이 다릅니다. 부자 배합은 단순히 ‘더 센 보약’이라는 의미가 아니며 포제·전신 상태·안전 확인이 필요합니다."
     },
     {
       "title": "인삼계지부자탕",
@@ -10181,7 +10216,8 @@
       "note": "발한 뒤 심한 탈진·오한·사지냉과 회복 저하를 망양의 구조로 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/insamgyejibujatang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "인삼계지부자탕은 계지탕 계열에 인삼·황기·당귀·포제 부자의 회복·온양축을 더한 맥락으로 읽습니다. 발한 뒤 자한·탈진이 중심인지, 복통·설사의 리한이 중심인지가 이중탕 계열과의 갈림점입니다. 일부 DB의 부자 누락과 수록본 차이는 연결 문서에서 확인합니다."
     },
     {
       "title": "형방지황탕",
@@ -10191,17 +10227,19 @@
       "note": "신한복통·설사와 진액·기력 저하를 비수한표한병의 망음으로 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/hyeongbangjihwang-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "형방지황탕은 숙지황·산수유에 복령·택사·차전자와 형개·방풍·강활·독활이 함께 들어갑니다. ‘지황’이라는 이름만 보고 리병 처방으로 분류하면 망음의 표병 맥락을 놓칩니다. 평소 배변·한열과 현재 설사·복통·기력·배뇨의 변화를 함께 비교합니다."
     },
     {
       "title": "독활지황탕",
       "original": "獨活地黃湯",
       "originalLabel": "처방명 원문 표기 · 조문 본문 아님",
       "translation": "소양인 리병의 음허오열·하소 처방층에서 읽는 독활지황탕이다.",
-      "note": "지속 소모·오열과 식체비만·구토 또는 하지·배뇨 변화를 세부 병증별로 읽는다.",
+      "note": "오열(惡熱)은 열을 싫어한다는 뜻이다. 소모·소화·하지·배뇨의 변화는 세부 병증별로 비교한다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/dokhwaljihwang-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "독활지황탕은 숙지황·산수유·복령·택사·목단피에 독활·방풍을 배합하며 산약은 없습니다. 육미지황탕과 이름·구성을 구분하고, 리병의 소모·하지 기능·소화·배뇨를 함께 봅니다. 음허오열의 오열(惡熱)은 열을 싫어한다는 뜻으로 야간 열감만을 의미하지 않습니다."
     },
     {
       "title": "양격산화탕",
@@ -10211,7 +10249,8 @@
       "note": "흉격·두면 열감과 번조·구갈·대변조·수면 변화를 묶는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/yanggyeoksanhwa-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "양격산화탕은 생지황·인동등·연교와 치자·박하·지모·석고, 형개·방풍의 배합을 읽습니다. 소양인 흉격열의 답답함·갈증·번조와 대변 변화를 함께 비교합니다. 이름이 비슷한 양격산의 대황·망초 구성과 구별해야 하며, 변비 하나로 두 처방을 같은 방으로 취급하지 않습니다."
     },
     {
       "title": "조위승청탕",
@@ -10221,7 +10260,8 @@
       "note": "식후비만·하지무력과 소화·호흡·발한·수면 변화의 연결을 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/jowiseungcheong-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "조위승청탕은 태음조위 계열의 비위·호흡축에 산조인·용안육·원지·석창포 등 심신·회복 관련 약재가 더해집니다. 오래된 소화·기력 저하에 수면·활동과 하지 기능이 어떻게 겹치는지 봅니다. 승청이라는 이름을 현대의 특정 신경·혈류 작용이 입증되었다는 뜻으로 읽지 않습니다."
     },
     {
       "title": "청폐사간탕",
@@ -10231,7 +10271,8 @@
       "note": "번갈·변비·복만과 두면·피부의 열성 변화를 간수열리열 문맥에서 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/cheongpyesagan-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "청폐사간탕은 후대 처방명으로 열다한소탕에 대황을 더한 배합을 확인합니다. 신축본의 처방 가감 기록과 1929년 처방집의 이름을 구분하는 것이 중요합니다. 리열·건조와 대변 정체를 함께 보되, 설사·복통·수분 상태가 달라지면 같은 배합을 계속 유지할지 재평가합니다."
     },
     {
       "title": "청심연자탕",
@@ -10241,7 +10282,8 @@
       "note": "조열·건조와 심번·현훈·심계·수면 불편을 전신 맥락에서 읽는다.",
       "edition": "병증: 신축본 병론·임상진료지침 · 배합: 동의사상신편(1929) 계통, 연결 문서의 수록본 차이 확인",
       "href": "/sasang-formula-cards/cheongsimyeonja-tang/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "청심연자탕은 연자육·산약을 중심으로 천문동·맥문동과 원지·석창포·산조인·용안육·백자인 등 여러 약재가 결합합니다. 태음인의 소화·진액·심신 상태를 함께 읽는 처방입니다. 청심이라는 이름이나 불면 하나로 선택하기보다 한열·갈증·대변과 평소 소증을 비교합니다."
     },
     {
       "title": "태양인 · 성질과 재간",
@@ -10251,7 +10293,8 @@
       "note": "疏通·交遇는 원전의 관계·인사 범주 안에서 읽는다. 현대의 성격검사나 대인관계 능력 판정으로 곧바로 바꾸지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/taeyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소통(疏通)은 성질, 교우(交遇)는 재간을 설명하는 서로 다른 항목입니다. 원문의 인간관계·처신에 관한 서술로 읽으면 체형·소증·병증과 구분이 됩니다. 사람을 잘 사귄다는 인상 하나로 태양인을 확정하지 않으며, 실제 진단에서는 평소 신체 기능과 병증 자료를 함께 확인합니다."
     },
     {
       "title": "소양인 · 성질과 재간",
@@ -10261,7 +10304,8 @@
       "note": "剛武·事務는 원전의 시대적 어휘다. 이를 공격성이나 특정 직업 적성으로 단정하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "강무(剛武)는 성질의 서술이고 사무(事務)는 일의 처리와 관련된 재간의 서술입니다. 두 항목을 나누면 성향과 능력을 하나로 묶는 해석을 줄일 수 있습니다. 적극적이거나 바쁘다는 이유만으로 소양인이라 단정하지 않고, 소증과 현재 병증을 별도로 살핍니다."
     },
     {
       "title": "태음인 · 성질과 재간",
@@ -10271,7 +10315,8 @@
       "note": "成就·居處는 사상인론의 기능적 표현으로 읽는다. 체질만으로 성취도나 생활방식을 예측하는 문장이 아니다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/taeeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "성취(成就)와 거처(居處)는 원전이 태음인의 성질과 재간을 설명할 때 사용하는 다른 항목입니다. 전자는 일을 이루는 성향, 후자는 생활의 자리를 마련하고 유지하는 능력의 맥락으로 읽습니다. 직업·성과를 예측하는 분류가 아니라 원전의 표현을 이해하는 자료입니다."
     },
     {
       "title": "소음인 · 성질과 재간",
@@ -10281,7 +10326,8 @@
       "note": "端重·黨與는 당시의 사회적 관계 표현이다. 개인의 성격을 고정하거나 체질을 단독 판정하는 기준으로 삼지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/soeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "단중(端重)은 단정하고 신중한 성질, 당여(黨與)는 관계를 맺고 함께하는 재간의 맥락에서 읽습니다. 이를 ‘소음인은 언제나 내성적이다’라는 고정된 성격표로 바꾸지 않습니다. 성향의 서술과 식욕·소화·땀·수면 같은 임상 관찰 자료를 구분하는 것이 중요합니다."
     },
     {
       "title": "태양인 · 성정과 장국의 연결",
@@ -10291,7 +10337,8 @@
       "note": "이는 고전의 성정·기·장국을 잇는 이론이다. 슬픔이나 분노가 현대 해부학적 장기를 직접 키우거나 줄인다는 뜻으로 읽지 않는다.",
       "edition": "동의수세보원 신축본 · 사단론",
       "href": "/classics/donguisusebowon/#_5",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "이 문장은 성(性)과 정(情)을 다른 항목으로 놓고, 각각의 기세를 장국의 상대 관계와 연결하는 원전의 이론 서술입니다. 앞뒤의 병렬 구조를 함께 읽어야 뜻을 줄이지 않습니다. 임상에서는 감정 하나가 특정 장기를 손상시킨다는 인과 규칙 대신 수면·섭취·기능 변화의 실제 경과를 확인합니다."
     },
     {
       "title": "소양인 · 성정과 장국의 연결",
@@ -10301,7 +10348,8 @@
       "note": "성정과 장국을 연결하는 전통 이론의 문장이다. 감정 하나로 실제 장기 상태나 체질을 판정하지 않는다.",
       "edition": "동의수세보원 신축본 · 사단론",
       "href": "/classics/donguisusebowon/#_5",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소양인의 성정 문장은 ‘항상 그러한 성’과 상황에 따라 드러나는 ‘정’의 기세를 나누어 설명합니다. 같은 감정 단어가 나오더라도 성격 분류나 장기질환의 진단문으로 읽지 않습니다. 원전의 개념 관계를 이해한 뒤 현재의 정서·수면·배변 변화는 관찰 자료로 따로 기록합니다."
     },
     {
       "title": "태음인 · 성정과 장국의 연결",
@@ -10311,7 +10359,8 @@
       "note": "喜·樂의 원전적 구분은 일상어 감정 분류와 같지 않다. 현대 심리진단이나 장기 손상으로 등치하지 않는다.",
       "edition": "동의수세보원 신축본 · 사단론",
       "href": "/classics/donguisusebowon/#_5",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "태음인의 성정과 장국을 연결한 대목은 전통 체질론의 설명 구조를 보여줍니다. 성과 정을 각각 서술한 뒤 장국의 상대적 관계로 이어지는 문장 순서를 살핍니다. 감정의 강도만으로 간·폐의 상태를 판단하지 않고, 실제 호흡·발한·소화·수면의 변화를 확인합니다."
     },
     {
       "title": "소음인 · 성정과 장국의 연결",
@@ -10321,7 +10370,8 @@
       "note": "사단론의 전통적 장국 설명이다. 감정 표현이나 한 번의 소화 증상만으로 체질을 확정하지 않는다.",
       "edition": "동의수세보원 신축본 · 사단론",
       "href": "/classics/donguisusebowon/#_5",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소음인 성정 문장은 성과 정의 서로 다른 기세를 장국과 연결한 이론적 설명입니다. 슬픔이나 즐거움 한 가지를 특정 장기 이상과 직접 대응시키는 진단문은 아닙니다. 문장의 대칭 구조를 읽고, 임상에서는 평소 불안·수면·식사와 현재의 변화가 일상기능에 미치는 영향을 살핍니다."
     },
     {
       "title": "태음인 · 항심과 마음의 조절",
@@ -10331,7 +10381,8 @@
       "note": "怯心·怕心·怔忡은 원전의 수양·병증 맥락에서 읽는다. 불안장애나 부정맥의 현대 진단명과 일대일로 대응하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-original-symptoms/emotion/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "항심은 평소의 정서적 경향을, 정충은 두근거림을 동반하는 불편의 맥락을 읽게 합니다. 원문은 일상적 경향과 병중의 심화를 같은 것으로 취급하지 않습니다. 평소보다 심해진 두근거림·불면·활동 저하를 나누어 기록하며, ‘겁이 많다’는 인상으로 체질을 판별하지 않습니다."
     },
     {
       "title": "소양인 · 항심과 마음의 조절",
@@ -10341,7 +10392,8 @@
       "note": "懼心·恐心·健忘은 원전의 성정·병증 문맥이다. 현대의 불안장애나 기억장애 진단을 의미하지 않으며, 기억 변화는 현대 의학적 평가도 필요하다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-original-symptoms/emotion/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "구심(懼心)과 건망(健忘)을 이어 쓴 문장은 평소 경향과 악화 뒤의 문제를 구분해 읽습니다. 순간적인 걱정이나 한 번의 깜빡함만으로 병세를 판단하지 않습니다. 수면 부족·약물·스트레스와 기억 문제의 시작 시점, 업무·생활에 미치는 변화를 함께 확인합니다."
     },
     {
       "title": "소음인 · 항심과 비기",
@@ -10351,7 +10403,8 @@
       "note": "원전의 심신관계를 보여주는 구절이다. 불안정이라는 말을 성격 결함이나 현대 정신질환 진단으로 해석하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-original-symptoms/emotion/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "불안정심이 편안해지는 것과 비기의 활동을 연결한 원전 문장입니다. 이를 환자의 마음가짐 탓으로 돌리거나 현대 비장의 기능이 직접 좋아진다는 뜻으로 옮기지 않습니다. 임상적으로는 긴장과 식사·소화·수면이 함께 달라지는지, 일상기능이 회복되는지를 관찰하는 연결점으로 읽습니다."
     },
     {
       "title": "태양인 · 항심과 간혈",
@@ -10361,7 +10414,8 @@
       "note": "성정과 생리의 관계를 다룬 고전적 설명이다. 초조함 하나로 체질이나 간의 현대 의학적 상태를 판정하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-original-symptoms/emotion/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "급박심은 마음이 급하고 서두르는 경향을 뜻하는 문맥으로, 빠른 맥박을 가리키는 말은 아닙니다. 간혈의 조화는 원전의 전통 개념입니다. 편안한 휴식·수면과 섭취·활동이 함께 회복되는지 살피되, 성향만으로 간질환이나 태양인 병증을 확정하지 않습니다."
     },
     {
       "title": "태양인 · 체형기상 조문",
@@ -10371,7 +10425,8 @@
       "note": "전통적 체형 관찰 문장이다. 腦顀·腰圍를 현대 해부학의 단일 지표로 바꾸거나 한 항목만으로 체질을 판정하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-pattern-differential/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "체형기상의 뇌추(腦顀)는 머리·목덜미 쪽, 요위(腰圍)는 허리·몸통 쪽의 기세를 비교하는 표현입니다. 단순 둘레 측정값이나 영상 소견의 기준표가 아닙니다. 외형은 체질 판단의 일부로만 보고, 배뇨·섭취·활동 같은 평소 기능과 현재 해역·열격 자료를 함께 읽습니다."
     },
     {
       "title": "소양인 · 체형기상 조문",
@@ -10381,7 +10436,8 @@
       "note": "膀胱之坐勢는 전통적 체형·기상 표현이지 방광의 해부학적 크기나 기능을 직접 뜻하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-pattern-differential/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "흉금(胸襟)과 방광지좌세(膀胱之坐勢)는 상부와 하부의 체형·기세를 대비하는 원전 표현입니다. 방광의 해부학적 크기를 뜻하지 않습니다. 외형의 인상만으로 체질을 정하지 않고, 대변·갈증·수면·한열의 소증과 현재 표병·리열병을 종합합니다."
     },
     {
       "title": "태음인 · 체형기상 조문",
@@ -10391,7 +10447,8 @@
       "note": "체형기상은 여러 진찰 정보 가운데 하나다. 체중이나 허리둘레 한 항목으로 체질을 단정하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-pattern-differential/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "요위와 뇌추의 대비는 몸통·허리와 머리·목덜미의 체형기상을 설명합니다. 비만도나 특정 체형 한 가지만으로 태음인을 확정하는 문장은 아닙니다. 실제 판단에서는 평소 땀 뒤 느낌·식사·호흡과 발병 뒤의 한열·건조·배변 변화를 함께 확인합니다."
     },
     {
       "title": "소음인 · 체형기상 조문",
@@ -10401,7 +10458,8 @@
       "note": "膀胱之坐勢는 전통적 체형 표현으로 읽는다. 방광의 해부학적 상태나 체질 진단 검사 결과로 환원하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-pattern-differential/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소음인의 체형기상은 하부와 흉부의 기세를 상대적으로 대비합니다. ‘방광지좌세’를 현대 방광 기능검사로 읽지 않으며, 몸의 인상만으로 장국을 확정하지 않습니다. 소화·추위·땀 뒤 기력·수면과 같은 소증이 현재 표병 또는 리한병과 어떻게 연결되는지 살핍니다."
     },
     {
       "title": "태양인 · 성기와 행동 방향",
@@ -10411,7 +10469,8 @@
       "note": "雄·雌는 원전의 성기 범주를 이루는 대조적 표현이다. 현대의 성별·성격 고정관념으로 바꾸어 읽지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/taeyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "웅(雄)과 외승(外勝)은 원전이 행동의 방향을 상대적으로 대비한 표현입니다. 성별을 가리키거나 현대 성격검사의 유형과 동일한 것은 아닙니다. 태양인의 성기 서술을 병증 진단과 구분하고, 현재의 섭취·배뇨·하지 기능 자료를 별도로 확인합니다."
     },
     {
       "title": "소양인 · 성기와 행동 방향",
@@ -10421,7 +10480,8 @@
       "note": "外勝·內守는 원전의 관계·행동 방향 표현이다. 경쟁적 성격이나 개인의 사회성을 단정하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소양인의 웅·외승은 밖으로 향하고 일을 벌이는 경향을 대비하는 전통 서술입니다. 외향적이라는 인상으로 소양인 병증을 판단할 수는 없습니다. 성향을 이해하는 자료와 평소 대변·수면, 현재 한열·설사·복통 등 임상 자료의 역할을 나누어 읽습니다."
     },
     {
       "title": "태음인 · 성기와 행동 방향",
@@ -10431,7 +10491,8 @@
       "note": "內守·外勝은 원전의 성기 범주다. 소극성이나 활동능력으로 환원하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/taeeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "자(雌)와 내수(內守)는 안을 지키고 유지하는 방향을 상대적으로 설명한 표현입니다. 여성이라는 뜻이나 소극적 성격의 낙인이 아닙니다. 태음인의 생활 성향을 읽는 자료로 두고, 땀·호흡·소화와 현재의 표한·리열 증후는 독립적으로 평가합니다."
     },
     {
       "title": "소음인 · 성기와 행동 방향",
@@ -10441,7 +10502,8 @@
       "note": "雄·雌는 전통적 범주 표현이며 성별이나 고정된 성격을 뜻하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-integrated/soeumin/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "소음인의 자·내수는 원전의 행동 방향에 대한 대비로 읽습니다. 사람마다 상황에 따라 달라지는 행동을 고정된 성격표로 만들지 않습니다. 신중함 같은 성향과 음식선화·발한 뒤 기력·수면 같은 소증을 나누면 체질과 현재 병증의 판단이 섞이는 것을 줄일 수 있습니다."
     },
     {
       "title": "소음인 · 보명지주 원문",
@@ -10451,7 +10513,8 @@
       "note": "이 문장은 갑오구본의 체계다. 신축본의 표리병론과 혼합하지 말고 판본별 변화와 문맥을 확인한다.",
       "edition": "동의수세보원 갑오구본 · 병론",
       "href": "/classics/donguisusebowon/#life-principle",
-      "reference": "https://mediclassics.kr/books/183"
+      "reference": "https://mediclassics.kr/books/183",
+      "explanation": "갑오구본의 양난지기는 소음인의 생명 유지와 회복을 설명하는 전통 개념입니다. 체온을 높이거나 모든 증상을 온열로 치료하라는 뜻은 아닙니다. 이 판본의 본·표 표현과 신축본 표리병의 이름을 구분하고, 소화·냉감·땀 뒤 회복이라는 실제 관찰 자료에 연결해 읽습니다."
     },
     {
       "title": "소양인 · 보명지주 원문",
@@ -10461,7 +10524,8 @@
       "note": "갑오구본의 본·표 구분을 신축본의 병증 구조와 같은 체계인 것처럼 합치지 않는다.",
       "edition": "동의수세보원 갑오구본 · 병론",
       "href": "/classics/donguisusebowon/#life-principle",
-      "reference": "https://mediclassics.kr/books/183"
+      "reference": "https://mediclassics.kr/books/183",
+      "explanation": "음청지기는 갑오구본에서 소양인의 보명지주를 설명하는 말입니다. 단순히 몸을 차게 만들거나 수분 섭취를 늘린다는 처치 지시가 아닙니다. 신축본의 표병·리병 분류와 같은 용어로 합치지 않고, 대변·갈증·소모·수면의 변화와 연결해 개념을 이해합니다."
     },
     {
       "title": "태음인 · 보명지주 원문",
@@ -10471,7 +10535,8 @@
       "note": "呼散은 전통적 생리 기능 개념이다. 현대 호흡생리나 특정 장기의 단일 기능과 등치하지 않는다. 신축본과 판본을 구별한다.",
       "edition": "동의수세보원 갑오구본 · 병론",
       "href": "/classics/donguisusebowon/#life-principle",
-      "reference": "https://mediclassics.kr/books/183"
+      "reference": "https://mediclassics.kr/books/183",
+      "explanation": "호산지기는 갑오구본에서 태음인의 보명지주로 제시한 전통 개념입니다. 호흡수나 폐기능 검사값과 직접 대응하지 않습니다. 호산과 흡취의 상대 관계를 읽고, 임상에서는 발한의 원활함·땀 뒤 느낌·호흡·활동이 평소 상태로 회복되는지를 따로 관찰합니다."
     },
     {
       "title": "태양인 · 보명지주 원문",
@@ -10481,7 +10546,8 @@
       "note": "吸聚는 전통적 생리 개념이다. 호흡 행위 하나나 현대 장기 기능으로 환원하지 않고 갑오구본의 판본 문맥 안에서 읽는다.",
       "edition": "동의수세보원 갑오구본 · 병론",
       "href": "/classics/donguisusebowon/#life-principle",
-      "reference": "https://mediclassics.kr/books/183"
+      "reference": "https://mediclassics.kr/books/183",
+      "explanation": "흡취지기는 갑오구본에서 태양인의 보명지주로 서술한 전통 개념입니다. 들숨을 강화하는 호흡법이나 영양 흡수율의 측정값을 뜻하지 않습니다. 갑오와 신축의 용어 체계를 구분하면서 섭취 유지·배뇨·하지 기능과 같은 현재 병증의 관찰점에 연결해 읽습니다."
     },
     {
       "title": "사상인 병증을 읽는 원칙",
@@ -10491,7 +10557,8 @@
       "note": "체질 이름만으로 처방하지 않고 그 사람과 현재 병증을 함께 살피라는 원전의 원칙으로 읽는다. 특정 처방의 효과를 입증하는 현대 임상근거를 대신하지 않는다.",
       "edition": "동의수세보원 신축본 · 사상인변증론",
       "href": "/sasang-pattern-differential/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "명지기인(明知其人)은 체질과 평소 소증을, 명지기증(明知其證)은 현재 병증을 이해하는 두 단계로 읽을 수 있습니다. 같은 체질이라도 표리·순역·중증도가 다르면 처방 비교가 달라집니다. 체질을 정한 뒤에도 매번 현재 증후와 경과를 다시 확인해야 한다는 점이 핵심입니다."
     },
     {
       "title": "소양인 · 반복된 복통의 경과",
@@ -10501,7 +10568,8 @@
       "note": "이어지는 의안은 치료와 병세 경과를 서술한다. 한 사례를 모든 복통이나 소양인에게 일반화하지 않는다.",
       "edition": "동의수세보원 신축본(1901) 9-30 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-recurring-abdominal-pain/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "반복 복통 의안은 통증이 있을 때만이 아니라 발작 사이의 평소 상태를 보게 합니다. 첫 발생·재발 간격·유발 상황과 식사·배변·수면이 어떻게 달랐는지 시간 순서로 읽습니다. 한 번의 복통만으로 처방을 정하는 기록이 아니라 장기간 경과를 비교한 역사적 의안입니다."
     },
     {
       "title": "소양인 · 복통 회복 기록",
@@ -10511,7 +10579,8 @@
       "note": "‘六十貼’은 원문 의안의 역사적 기록이다. 현대의 복용량이나 처방 지침으로 옮기지 않는다.",
       "edition": "동의수세보원 신축본(1901) 9-30 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-recurring-abdominal-pain/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "육미지황탕을 쓴 회복 기록에서는 처방명과 당시 병증·경과를 함께 확인합니다. 기록의 첩수는 역사적 치료 과정의 일부로, 현재의 복용량·기간 지시가 아닙니다. 이후 독활지황탕과의 구성 관계도 판본별로 구분하고, 재발·생활기능·소증이 어떻게 달라졌는지 읽습니다."
     },
     {
       "title": "소양인 · 발작 시와 평상시의 기록",
@@ -10521,7 +10590,8 @@
       "note": "같은 의안에서 지속적인 복통과 발작 시 대응이 구분된다. 처방명·투약 기록은 의안 맥락에서 읽는다.",
       "edition": "동의수세보원 신축본(1901) 9-30 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-recurring-abdominal-pain/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "복통이 일어날 때의 처치와 평소의 조절을 나누어 적은 점이 중요합니다. 원문의 활석·고삼 사용 기록을 오늘의 자가복용법으로 바꾸지 않고, 급성 악화 대응과 재발 사이 관리의 역할 차이를 이해합니다. 발작 간격·강도와 식사·배변·활동이 달라지는지 함께 봅니다."
     },
     {
       "title": "소양인 · 통증이 없을 때의 섭생 기록",
@@ -10531,7 +10601,8 @@
       "note": "원전의 심리·생활 지도에 관한 서술이다. 복통의 원인을 감정 하나로 단정하거나 환자에게 책임을 돌리는 뜻으로 읽지 않는다.",
       "edition": "동의수세보원 신축본(1901) 9-30 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-recurring-abdominal-pain/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "평심정려와 애노를 경계한다는 문장은 통증이 없는 시기의 생활 관리까지 기록한 대목입니다. 복통을 감정 탓으로 돌리는 대신 긴장·수면·식사·활동과 재발의 관계를 관찰하는 자료로 읽습니다. 증상이 잠잠한 기간에도 일상기능과 다음 발작까지의 간격을 확인할 수 있습니다."
     },
     {
       "title": "소양인 · 복통의 한열 해석",
@@ -10541,7 +10612,8 @@
       "note": "이는 사상의학의 전통적 병리 언어다. 현대적 복통 원인 감별이나 영상·검사 평가를 대신하지 않는다.",
       "edition": "동의수세보원 신축본(1901) 9-31 · 원문 발췌",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "원래 열이 우세한 소양인의 복통을 냉통·열통으로 나누어 해석한 대목입니다. 아픈 순간의 차거나 뜨거운 느낌만으로 분류하기보다 평소 한열·배변과 현재 통증·갈증·섭취를 연결합니다. 이 전통 병리 설명만으로 감염·폐색 등 현대 복통 원인을 배제할 수는 없습니다."
     },
     {
       "title": "소양인 · 양성격음의 병리 문장",
@@ -10551,17 +10623,19 @@
       "note": "전통 병리 설명으로, 현대 해부학·신장·방광의 기전을 그대로 뜻하지 않는다.",
       "edition": "동의수세보원 신축본(1901) 9-32 · 원문 발췌",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "양성격음과 하강 불리를 설명한 문장은 소양인 병리 안에서 읽습니다. ‘방광’이라는 말이 나왔다고 현대 방광질환의 원인과 직접 대응하지 않습니다. 임상에서는 복통·배변·배뇨·갈증과 회복력을 함께 기록하며 전통 개념 설명과 검사로 확인할 질환을 구분합니다."
     },
     {
-      "title": "소음인·소양인 · 평소 소증과 병세 판단",
+      "title": "소음인 · 평소 소증과 망양의 판단",
       "original": "少陰人 平居 裡煩汗多者 得病 則必成亡陽也",
       "originalLabel": "신축본 9-34 · 원문 발췌",
       "translation": "소음인은 평소 속의 번조와 많은 땀이 있으면 병이 들었을 때 망양으로 진행할 수 있다고 설명한다.",
       "note": "원전의 병세 판단 문장이다. 평소 땀만으로 망양을 확정하거나 현재 경과를 예언하는 규칙으로 적용하지 않는다.",
       "edition": "동의수세보원 신축본(1901) 9-34 · 원문 발췌",
       "href": "/sasang-integrated/soeumin/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "평거(平居)는 병이 들기 전의 평소 상태를 가리킵니다. 리번·한다가 있었다는 소증과 발병 뒤 망양의 경과를 연결하므로, 평소의 땀과 현재 발열·자한·기력저하를 나누어 읽습니다. 원전의 ‘필성’이라는 강한 표현을 개인의 미래 경과를 확정하는 예측 규칙으로 쓰지 않습니다."
     },
     {
       "title": "소양인 · 표한·하리 소증의 원전 문장",
@@ -10571,7 +10645,8 @@
       "note": "원전의 전통 병증 틀로 읽는다. 설사만으로 망음을 진단하지 않으며 감염·약물·염증 등 원인과 탈수를 평가한다.",
       "edition": "동의수세보원 신축본(1901) 9-34 · 원문 발췌",
       "href": "/sasang-integrated/soyangin/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "표한·하리의 평소 소증을 발병 뒤 망음의 판단과 연결한 문장입니다. 병이 들기 전부터 추위를 타고 묽은 변이 잦았는지, 이번에 새 두통·열감·복통·설사가 생겼는지를 구분합니다. 현재 증상만 묻는 것보다 발병 전의 상태를 함께 기록할 때 변화를 해석하기 쉽습니다."
     },
     {
       "title": "소양인 · 의안의 발병 전 소증",
@@ -10581,7 +10656,8 @@
       "note": "‘素證’은 발병 전 상태를 현재 증상과 구분해 적은 부분이다. 이후 급성 증상과 경과를 함께 읽는다.",
       "edition": "동의수세보원 신축본(1901) 9-44 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-diarrhea-case/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "패기·식체·복통의 소증은 새 설사가 생기기 전부터 있었던 불편을 보여줍니다. 의안에서 ‘원래’와 ‘이번’의 증상을 나누어 보면 오래된 소화 문제 위에 급성 병세가 겹친 순서가 드러납니다. 새 주증만 사라졌는지, 평소 식사·복통도 좋아졌는지를 따로 추적합니다."
     },
     {
       "title": "소양인 · 설사 의안의 급성 증상",
@@ -10591,7 +10667,8 @@
       "note": "의안 속 증상 시간표를 보여주는 일부 발췌다. 현재 급성 설사·발열은 감염, 탈수 등 원인을 별도로 평가한다.",
       "edition": "동의수세보원 신축본(1901) 9-44 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-diarrhea-case/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "두통·한열·식체 뒤에 설사가 이어진 발병 순서를 읽는 카드입니다. 증상을 한꺼번에 나열하기보다 무엇이 먼저 시작됐고 어떤 변화가 뒤따랐는지 확인합니다. 음식과 관련된 불편이 있었다는 이유만으로 단순 체기라고 확정하지 않고 수분 유지·소변·전신 상태도 함께 봅니다."
     },
     {
       "title": "소양인 · 수면·배뇨 변화의 관찰",
@@ -10601,7 +10678,8 @@
       "note": "의안은 복통·설사 외에도 수면과 배뇨의 변화를 경과 지표로 적는다. 한 지표만으로 회복을 단정하지 않는다.",
       "edition": "동의수세보원 신축본(1901) 9-44 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-diarrhea-case/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "안수(安睡)와 통소변은 의안이 수면과 배뇨의 회복을 함께 기록한 대목입니다. 설사 횟수 감소만으로 회복을 판단하지 않고 잠을 편하게 자는지, 수분 섭취와 소변이 유지되는지를 봅니다. 주증·소증·생활기능이 같은 방향으로 좋아지는지 확인하는 경과표의 예로 읽습니다."
     },
     {
       "title": "소양인 · 악화 신호가 기록된 의안",
@@ -10611,7 +10689,8 @@
       "note": "역사적 의안의 중증 경과를 기록한 구절이다. 현재 의식변화·무뇨·심한 탈수·지속 고열은 체질 해석보다 신속한 진료가 우선이다.",
       "edition": "동의수세보원 신축본(1901) 9-44 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-diarrhea-case/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "땀이 나지 않고 소변이 막힌 악화 기록은 의안 전체의 전신 상태 속에서 읽습니다. 이 문장을 땀을 내야 한다는 처치 지시로 옮기지 않습니다. 섭취·배뇨·수면·의식·활동의 동반 변화가 중요한 관찰점이며, 급격한 배뇨 감소나 전신 악화는 신속한 원인 평가가 필요합니다."
     },
     {
       "title": "소양인 · 일상 기능 회복을 기록한 의안",
@@ -10621,7 +10700,8 @@
       "note": "주관적 증상 외에 보행과 일상 기능이 회복되는 장면을 적었다. 현대 보행거리나 회복 예측 기준으로 환산할 수는 없다.",
       "edition": "동의수세보원 신축본(1901) 9-44 · 원문 발췌",
       "href": "/classical-stories/sasang/soyangin-diarrhea-case/",
-      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460"
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001538460",
+      "explanation": "기립·행보의 기록은 환자가 다시 서고 걸을 수 있게 된 생활기능 회복을 보여줍니다. ‘일리’라는 역사적 거리 단위를 임의로 현대 운동 목표로 환산하지 않습니다. 증상 감소와 함께 스스로 이동하기·식사하기·잠자기 같은 기능이 돌아왔는지를 읽는 자료입니다."
     },
     {
       "title": "소음인 · 땀을 흘린 뒤 기능 회복",
@@ -10631,7 +10711,8 @@
       "note": "회복 경과에서 일상 기능의 변화를 기록한 짧은 표현이다. 전체 사례와 원전 문맥은 연결 문서에서 확인한다.",
       "edition": "동의수세보원 신축본(1901) 6-32 · 원문 발췌",
       "href": "/classical-stories/sasang/soeumin-sweating-case/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "자기좌(自起坐)는 스스로 일어나 앉는 기능을 기록한 말입니다. 발한량이나 체온 변화만이 아니라 환자가 일상 동작을 다시 수행했는지가 회복의 일부였음을 보여줍니다. 원전에 적힌 행동 범위 안에서 읽고, 기록되지 않은 치료 효과나 완치 후 생활을 덧붙이지 않습니다."
     },
     {
       "title": "태음인 · 평소 병과 새 병의 회복",
@@ -10641,7 +10722,8 @@
       "note": "급성으로 겪은 병과 평소 소증의 회복을 함께 언급한 사례다. 감염병의 현대적 치료 효과를 뜻하지 않는다.",
       "edition": "동의수세보원 신축본(1901) 12-10 · 원문 발췌",
       "href": "/classical-stories/sasang/taeeumin-baseline-recovery/",
-      "reference": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=21289"
+      "reference": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=21289",
+      "explanation": "역기가 줄고 소병도 회복되었다는 대목은 새 병과 오래된 불편을 따로 평가하게 합니다. 급성 발열·감염성 양상만 가라앉았는지, 발병 전의 두근거림·무한·기단·기침도 좋아졌는지를 나누어 읽습니다. 현대 경과기록에서도 주증과 평소 기능의 회복을 별도 항목으로 둘 수 있습니다."
     },
     {
       "title": "태음인 · 변의 변화에 따른 처방 조정 기록",
@@ -10651,7 +10733,8 @@
       "note": "증후 변화에 따라 약물을 조정한 역사적 처방 기록이다. 자가 가감이나 현대 용량 지시로 읽지 않는다.",
       "edition": "동의수세보원 신축본(1901) 13-31 · 원문 발췌",
       "href": "/classical-stories/sasang/taeeumin-formula-adjustment/",
-      "reference": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002080161"
+      "reference": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002080161",
+      "explanation": "활설이 많아 대황을 뺀 기록은 치료 도중 배변 상태가 달라졌음을 보여줍니다. 처음의 병증 판단이 이후에도 그대로 유지되는 것은 아니므로 대변·복통·수분·기력을 다시 확인합니다. 역사적 가감의 이유를 이해하는 자료이며, 설사 한 번만으로 개인이 약재를 빼라는 지시는 아닙니다."
     },
     {
       "title": "소음인 · 식사 때마다 얼굴에 흐른 땀",
@@ -10661,7 +10744,8 @@
       "note": "이 구절은 발병 전 소증이다. 같은 땀이라도 발병 뒤의 발열·다한과는 시간 맥락을 구분해 읽는다. 땀 하나로 체질이나 병증을 정하지 않는다.",
       "edition": "동의수세보원 신축본(1901) 6-32 · 원문·번역은 연결한 의안 해설과 대조",
       "href": "/classical-stories/sasang/soeumin-sweating-case/",
-      "reference": "https://mediclassics.kr/books/182"
+      "reference": "https://mediclassics.kr/books/182",
+      "explanation": "식사 때 얼굴에 흐르는 땀은 발병 전부터 있었던 소증으로, 병중의 발한과 구분합니다. 언제 땀이 나며 땀 뒤 기력·어지럼·식욕이 어떤지를 묻는 것이 중요합니다. 태음인의 한액통창 구절과 달리 소음인 병세의 맥락이므로 같은 ‘땀’이라는 단어만으로 의미를 같게 읽지 않습니다."
     },
     {
       "title": "태음인 · 발병 전의 네 가지 소증",
@@ -10671,7 +10755,8 @@
       "note": "의안에서 새 설사·온병 이전의 상태를 먼저 적은 대목이다. 전통 증후어를 오늘날의 특정 심폐 진단과 동일시하지 않고, 연결 문서의 풀이와 병후 기록까지 함께 읽는다.",
       "edition": "동의수세보원 신축본(1901) 12-10 · 의안 원문 발췌",
       "href": "/classical-stories/sasang/taeeumin-baseline-recovery/",
-      "reference": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=21289"
+      "reference": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=21289",
+      "explanation": "정충은 두근거림, 무한은 땀이 원활하지 않음, 기단은 숨이 짧음, 결해는 기침과 관련된 전통 증후어로 읽습니다. 네 소증이 새 병 이전부터 있었다는 시간이 중요합니다. 현대 진단명으로 바로 치환하지 않고 발병 뒤 호흡·발한·심계가 어떻게 달라졌는지 비교합니다."
     },
     {
       "title": "태음인 · 설사 뒤 달라진 배변",
@@ -10681,7 +10766,416 @@
       "note": "앞선 무른 변·설사에서 배변 정지로 바뀐 의안의 경과다. 이후 처방을 전환한 역사 기록이며, 현대 변비의 자가 처방 기준은 아니다.",
       "edition": "동의수세보원 신축본(1901) 13-31 · 의안 원문 발췌",
       "href": "/classical-stories/sasang/taeeumin-formula-adjustment/",
-      "reference": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002080161"
+      "reference": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002080161",
+      "explanation": "처음에는 설사가 많았지만 뒤에는 대변이 통하지 않았다는 변화에 주목합니다. 같은 의안 안에서도 경과에 따라 관찰과 처방 판단이 달라졌습니다. 하루 배변이 없다는 기록 하나를 자동 가감 기준으로 삼지 않고, 변의 형태·복만·섭취·수분·전신 회복과 앞선 설사 경과를 함께 읽습니다."
+    },
+    {
+      "title": "소음인 · 발열·오한과 자한을 함께 읽기",
+      "original": "發熱惡寒而有汗者 此亡陽初證也",
+      "originalLabel": "신축본 6-5 · 원문 발췌",
+      "translation": "열이 나고 추위를 싫어하면서 땀이 나는 경우를 망양의 초기 증후로 설명한다.",
+      "explanation": "핵심은 발열·오한·자한의 결합입니다. 땀만 많다는 소증과 달리 발병 뒤의 열·추위·기력 변화가 함께 있는지 봅니다. 지침의 황기계지탕 비교도 이 병증 맥락에 놓이며, 땀의 양보다 땀 뒤 쇠약·식사·활동이 중요한 경과 지표입니다.",
+      "note": "평소 발한과 병중 자한을 구분한다. 발한을 유도하라는 문장으로 읽지 않는다.",
+      "edition": "동의수세보원 신축본(1901) 6-5 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-formula-library/#soeum-mangyang",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865457",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소음인 · 두 증후가 함께 있을 때의 우선순위",
+      "original": "二證俱見 當先其急",
+      "originalLabel": "신축본 6-11 · 원문 발췌",
+      "translation": "두 증후가 함께 드러나면 더 급한 것을 먼저 다룬다고 한다.",
+      "explanation": "앞뒤 문맥의 여광(如狂)과 소복경만(小腹硬滿)을 함께 읽어야 ‘두 증후’의 대상이 드러납니다. 병증이 겹친다고 모든 처방을 한꺼번에 합치기보다 현재 위험도와 전신 상태를 먼저 가르는 원칙을 보여줍니다. 현대의 응급평가는 별도의 기준으로 시행합니다.",
+      "note": "짧은 원칙 문장만 떼어내기보다 해당 조문의 대상 증후를 함께 확인한다.",
+      "edition": "동의수세보원 신축본(1901) 6-11 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-clinical-detail/soeumin/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865457",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소음인 · 굳은 변과 진액 소모의 구분",
+      "original": "大便雖硬 不可攻之",
+      "originalLabel": "신축본 6-29 · 원문 발췌 · 장중경 인용 대목",
+      "translation": "대변이 비록 굳어도 공격적으로 하법을 쓰지 말라고 한다.",
+      "explanation": "장중경을 인용한 앞 문장에는 자한·소변자리에 따른 진액내갈의 조건이 나옵니다. 변이 굳었다는 결과만 보고 강한 공하를 선택하지 말고 그에 이른 수분·전신 상태를 살피라는 뜻으로 읽습니다. 원문에 이어지는 밀도법은 역사적 처치 기록으로 구분합니다.",
+      "note": "이 구절의 조건을 모든 변비에 일반화하거나 고전 처치를 자가 시행하지 않는다.",
+      "edition": "동의수세보원 신축본(1901) 6-29 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-clinical-detail/soeumin/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865457",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소음인 · 태음병의 소화기 증후 묶음",
+      "original": "腹滿而吐 食不下 自利益甚 時腹自痛",
+      "originalLabel": "신축본 7-1 · 원문 발췌 · 장중경 인용 대목",
+      "translation": "배가 그득하고 토하며 음식을 먹기 어렵고, 설사가 심해지며 때때로 배가 아픈 양상을 적었다.",
+      "explanation": "장중경의 태음병 문장을 소음인 리한병 안에서 인용한 대목입니다. 복만·구토·섭취 저하·설사·복통의 묶음을 읽고, 입안의 느낌과 갈증·신체통·사지냉감으로 소음병과 비교합니다. 여기서 태음병은 태음인 체질을 가리키지 않습니다.",
+      "note": "구토·설사에서는 물을 유지하는지와 소변·전신 상태를 함께 확인한다.",
+      "edition": "동의수세보원 신축본(1901) 7-1 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-pattern-differential/soeumin-taeeum-vs-soeum/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865469",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소음인 · 리병에 신체통이 겹치는 경우",
+      "original": "少陰病 有身體痛骨節痛表證 此則表裏俱病",
+      "originalLabel": "신축본 7-30 · 원문 발췌",
+      "translation": "소음병에 몸과 관절이 아픈 표증이 있으면 표와 리가 함께 병든 것으로 설명한다.",
+      "explanation": "앞 문장에서는 태음병에 이러한 표증이 없는 경우를 대비합니다. 같은 소음인 리한병이라도 소화기 증상만인지 몸·관절의 통증까지 겹치는지, 구중화·구중불화와 갈증이 어떤지를 함께 읽습니다. 여기서 표리구병은 현대의 특정 염증질환명이 아닙니다.",
+      "note": "신체통 하나가 아니라 소화·갈증·한열·기력의 조합을 비교한다.",
+      "edition": "동의수세보원 신축본(1901) 7-30 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-pattern-differential/soeumin-taeeum-vs-soeum/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865469",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 새 구토가 나타났을 때",
+      "original": "少陽人 忽然有吐者 必生奇證也",
+      "originalLabel": "신축본 9-25 · 원문 발췌",
+      "translation": "소양인에게 갑자기 구토가 나타나는 상황의 변화를 경계한 문장이다.",
+      "explanation": "홀연(忽然)은 기존 상태와 달리 갑자기 생긴 변화를 강조합니다. 원문은 이어 형방패독산을 쓰고 동정을 살핀다는 역사적 판단을 적습니다. 현재는 구토의 시작·횟수, 수분 유지와 두통·한열·복통·배변을 함께 확인하며 새 변화의 경과를 관찰합니다.",
+      "note": "기증이라는 말을 미래의 중병이 반드시 생긴다는 개인 예측으로 쓰지 않는다.",
+      "edition": "동의수세보원 신축본(1901) 9-25 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-formula-library/hyeongbangpaedok-san/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 신열두통에 설사가 더해질 때",
+      "original": "凡少陽人 有身熱頭痛 則已非輕證 而兼有泄瀉 則危險證也",
+      "originalLabel": "신축본 9-28 · 원문 발췌",
+      "translation": "소양인에게 신열·두통이 있고 설사까지 겹치는 병세를 가볍게 보지 말라고 한다.",
+      "explanation": "겸유(兼有)는 두통·열감에 설사가 더해지는 증후의 결합을 강조합니다. 설사만의 횟수보다 소변·섭취·수면·활동과 전체 경과가 중요합니다. 이 문장은 망음의 병세를 읽는 원전 자료로, 모든 현대 발열·두통을 같은 중증도에 놓는 규칙은 아닙니다.",
+      "note": "평소 배변과 발병 뒤 새 설사를 구분하고 전신 상태를 함께 본다.",
+      "edition": "동의수세보원 신축본(1901) 9-28 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-pattern-differential/soyangin-severity-map/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 대변이 통하는지를 관찰하는 이유",
+      "original": "必觀於大便之通不通也",
+      "originalLabel": "신축본 10-8 · 원문 발췌",
+      "translation": "반드시 대변이 통하는지 통하지 않는지를 관찰해야 한다고 한다.",
+      "explanation": "지황백호탕을 논한 앞뒤 문맥에서 대변의 변화는 리열의 경과를 보는 단서입니다. 배변 횟수와 함께 굳기·복만·통증·갈증·수분 유지도 읽습니다. 원문에 있는 시간 수치를 오늘의 자동 처방·용량 기준으로 옮기지 않고 병세의 변화에 주목합니다.",
+      "note": "평소 배변과 비교한다. 배변 여부 하나로 치료 반응을 확정하지 않는다.",
+      "edition": "동의수세보원 신축본(1901) 10-8 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-formula-library/soyangin-extended-formulas/#soyang-jihwangbaekho",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917064",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 위수열과 대변의 건조",
+      "original": "少陽人 胃受熱 則大便燥也",
+      "originalLabel": "신축본 10-9 · 원문 발췌",
+      "translation": "소양인이 위수열의 병세를 보이면 대변이 마르는 것으로 설명한다.",
+      "explanation": "조(燥)는 단순히 며칠 변을 보지 않았다는 것보다 마르고 굳은 변의 성상을 읽게 합니다. 평소 변의 형태·배변의 편안함과 현재 갈증·번조·복만을 비교합니다. 위수열은 전통 병증의 이름으로, 이 한 문장이 현대 변비의 모든 원인을 설명하지는 않습니다.",
+      "note": "새 변비에는 섭취·수분·활동과 병용약 변화도 함께 확인한다.",
+      "edition": "동의수세보원 신축본(1901) 10-9 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-pattern-differential/soyangin-mangeum-vs-chestheat/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917064",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 처음에는 뚜렷하지 않은 흉격열",
+      "original": "受病之初 雖有胸煩悶燥之機驗 而其機 不甚顯",
+      "originalLabel": "신축본 10-12 · 원문 발췌",
+      "translation": "발병 초기에는 가슴의 번민·답답함·조급함 같은 단서가 있어도 뚜렷하게 드러나지 않을 수 있다고 한다.",
+      "explanation": "흉격열 문맥에서 초기 증후가 은근할 수 있음을 말한 대목입니다. 평소와 달라진 수면·갈증·배변과 가슴의 불편이 같은 시기에 나타나는지 시간 순서로 읽습니다. 불안이나 답답함 하나를 열증으로 확정하지 않고 실제 신체 증후와 경과를 확인합니다.",
+      "note": "흉통·호흡곤란은 체질 병증과 별도로 원인과 위험도를 평가한다.",
+      "edition": "동의수세보원 신축본(1901) 10-12 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-pattern-differential/soyangin-mangeum-vs-chestheat/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917064",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "태음인 · 한궐의 궐은 어떤 뜻인가",
+      "original": "此謂之厥者 但惡寒不發熱之謂也 非手足厥逆之謂也",
+      "originalLabel": "신축본 12-4 · 원문 발췌",
+      "translation": "여기서 궐은 오한이 있으면서 발열이 없는 뜻이며, 손발이 차게 역하는 뜻은 아니라고 구분한다.",
+      "explanation": "같은 한자라도 편과 조문의 문맥에 따라 뜻이 달라짐을 직접 설명한 대목입니다. 태음인 위완수한표한병의 한궐을 읽을 때 손발의 냉감만으로 정의하지 않습니다. 발열·오한의 경과, 발한·소화·호흡과 평소 상태를 함께 비교해야 합니다.",
+      "note": "이 정의를 다른 고전과 모든 궐증에 그대로 적용하지 않는다.",
+      "edition": "동의수세보원 신축본(1901) 12-4 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-pattern-differential/taeeumin-exterior-vs-interior/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978957",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "태음인 · 변의 건조·많은 소변·갈증을 함께 읽기",
+      "original": "凡太陰人 大便秘燥 小便覺多 而引飮者 不可不早治豫防",
+      "originalLabel": "신축본 13-24 · 원문 발췌",
+      "translation": "태음인의 대변이 막히고 마르며 소변이 많아지고 물을 찾는 양상을 일찍 살피라고 한다.",
+      "explanation": "변비·다뇨·갈증을 따로 떼지 않고 함께 나타나는 변화로 읽습니다. 간열폐조의 맥락과 평소 한액통창·섭취·체중을 비교하되, 이 구절을 당뇨병 진단문으로 치환하지 않습니다. 새 다뇨·심한 갈증·체중감소에서는 혈당·신장기능과 약물 영향도 확인합니다.",
+      "note": "소변 횟수와 실제 배뇨량·음수량을 구분해 기록한다.",
+      "edition": "동의수세보원 신축본(1901) 13-24 · 병증별 사상체질 임상진료지침의 인용 원문과 대조",
+      "href": "/sasang-pattern-differential/taeeumin-exterior-vs-interior/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978958",
+      "referenceLabel": "조문을 인용한 진료지침 확인 ↗"
+    },
+    {
+      "title": "승양익기탕 · 망양 단계의 비교",
+      "original": "升陽益氣湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "소음인 망양중증에서 지침이 제시하는 승양익기탕을 비교한다.",
+      "explanation": "계지·백작약과 인삼·황기의 축에 관계·당귀·감초·백하수오가 함께 배합됩니다. 신열·자한에 오한 없이 열을 싫어함, 복만·변의 건조·번조가 더해지는 맥락을 봅니다. 황기계지탕의 망양초증과 승양팔물탕의 후대 기록은 서로 구분합니다.",
+      "note": "땀 뒤 기력·식사·배변·활동을 함께 관찰한다. 이름이 비슷한 처방을 서로 대체하지 않는다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018132 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/soeumin-extended-formulas/#soeum-seungyangikgi",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018132&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "계지부자탕 · 소음인방의 구성",
+      "original": "桂枝附子湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "소음인 계지부자탕은 후대 수록본의 발한 뒤 자한·냉감·사지 증상 맥락으로 읽는다.",
+      "explanation": "계지·포제 부자·백작약·자감초의 네 약재 구성을 먼저 확인합니다. 같은 이름의 다른 고방과 약재·출전을 구분하고, 인삼계지부자탕과는 인삼·황기·당귀의 회복축 유무를 비교합니다. 냉감 하나보다 발한 뒤의 기력·사지 기능·전신 경과가 중요합니다.",
+      "note": "부자는 포제·용량·심혈관 상태 확인이 필요하며 자가 조제하지 않는다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018183 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/gyejibujatang/",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018183&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "계지반하생강탕 · 구토와 리한의 배합",
+      "original": "桂枝半夏生薑湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "소음인 태음병의 구토·심하 불편과 냉감을 함께 읽는 처방이다.",
+      "explanation": "생강·반하의 구토·정체 조절에 계지·백작약·백출·감초·진피가 결합합니다. 구토·심하 답답함이 전면인지, 곽향정기산처럼 한습·담습이 중심인지, 이중탕처럼 복통·설사의 리한이 중심인지 비교합니다. 수결흉은 현대 흉수와 동일한 진단명이 아닙니다.",
+      "note": "구토 횟수뿐 아니라 물·식사 유지와 소변을 확인한다. 반하의 법제를 구분한다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018146 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/soeumin-extended-formulas/#soeum-gyeji-banha",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018146&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "십이미관중탕 · 복만과 황색 변화",
+      "original": "十二味寬中湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "소음인 태음병의 복만·황달·음독에 관한 후대 수록 맥락을 읽는다.",
+      "explanation": "대복피·목향·지실·후박의 흉복 정체축과 건강·양강·익지인, 진피·청피·향부자 등의 배합을 봅니다. 식사·복만·대변에 황색 변화·부종이 어떻게 겹치는지 확인합니다. 고전의 황달·음독은 현대의 한 질환명이나 치료효과로 바로 바꿀 수 없습니다.",
+      "note": "새 황달·진한 소변·회색변은 간담도 평가가 우선이다. 하수오의 기원과 수록본을 확인한다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018150 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/soeumin-extended-formulas/#soeum-sibimi-gwanjung",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018150&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "형방패독산 · 표병 처방의 갈림점",
+      "original": "荊防敗毒散",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "소양인의 오한·발열·두통·신체통을 표병의 맥락에서 비교하는 처방이다.",
+      "explanation": "강활·독활·형개·방풍에 생지황·시호·전호·적복령·차전자가 배합됩니다. 형방도적산의 흉격 불편, 형방사백산의 열·갈증, 형방지황탕의 설사·소모와 관찰점이 다릅니다. ‘패독’이라는 이름을 모든 감염병에 쓰는 뜻으로 넓히지 않습니다.",
+      "note": "표증·배변·섭취·기력을 함께 본다. 일반 패독산과 사상방의 구성을 구별한다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018325 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/hyeongbangpaedok-san/",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018325&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "지황백호탕 · 석고·생지황의 배합",
+      "original": "地黃白虎湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "소양인 흉격열에서 강한 구갈·번조·변폐를 함께 읽는 처방이다.",
+      "explanation": "석고·지모의 청열축과 생지황, 방풍·독활을 함께 봅니다. 양격산화탕과 비교할 때 열·갈증의 깊이와 대변의 상태가 중요하고, 독활지황탕의 만성 소모·하지·배뇨 변화와는 병증 위치를 구분합니다. 약재명만으로 현대 해열제의 효과와 동일하게 취급하지 않습니다.",
+      "note": "문헌의 석고량을 자가복용량으로 사용하지 않는다. 갈증·배변·수분·전신 상태를 함께 확인한다.",
+      "edition": "동의수세보원 신축본(1901) 계통 · 흉격열병 임상진료지침과 연결 문서의 구성 대조",
+      "href": "/sasang-formula-library/soyangin-extended-formulas/#soyang-jihwangbaekho",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917064",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "활석고삼탕 · 복통과 배설의 비교",
+      "original": "滑石苦蔘湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "소양인 복통을 공부할 때 설사·한열·소변과 함께 비교하는 처방이다.",
+      "explanation": "후대 수록본은 강활·고삼·복령·택사·활석·황련·황백을 제시합니다. 고삼·황련·황백과 복령·택사·활석의 배합을 함께 읽으면 복통을 한증 하나로만 해석하지 않게 됩니다. 설사·소모가 앞서는 형방지황탕과 병증 맥락을 비교합니다.",
+      "note": "원전의 활석·고삼 사용 기록과 후대 처방 구성을 구분한다. 복통의 급성 원인은 별도로 평가한다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018331 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/soyangin-extended-formulas/#soyang-hwalseokgosam",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018331&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "갈근해기탕 · 두면·인후·리열의 연결",
+      "original": "葛根解肌湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "태음인의 양독·간수열리열병에서 두면·인후·피부의 열성 양상을 비교한다.",
+      "explanation": "갈근·승마의 해기축, 행인·길경의 폐기축, 황금·대황의 청열·통부축에 백지·산조인이 배합됩니다. 얼굴·피부·인후의 변화와 갈증·대변·수면을 함께 보며, 열다한소탕보다 두면·인후·통부의 비중이 어떤지 비교합니다.",
+      "note": "양독을 특정 감염병으로 단정하지 않는다. 대황 포함 여부와 원방·가감방을 구분한다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018561 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/galgeunhaegi-tang/",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018561&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "마황정통탕 · 흉복통과 표한",
+      "original": "麻黃定痛湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "태음인의 흉복통을 오한·발한불리·호흡·담습과 함께 읽는 처방이다.",
+      "explanation": "건율·의이인·나복자의 비위축과 마황·길경·행인의 선폐축에 맥문동·오미자 및 심신 관련 약재가 배합됩니다. 정통(定痛)을 모든 통증에 쓰는 뜻으로 읽지 않고, 식사·호흡·운동과 통증의 관계, 땀·섭취·수면의 동반 변화를 확인합니다.",
+      "note": "새 흉통·식은땀·호흡곤란은 즉시 평가한다. 마황 관련 심계·불면·혈압을 확인한다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018567 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/mahwangjeongtong-tang/",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018567&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "조리폐원탕 · 병후 회복의 관찰점",
+      "original": "調理肺元湯",
+      "originalLabel": "처방명 표기 · 조문 본문 아님",
+      "translation": "태음인의 병후체허와 폐원 회복이라는 후대 수록 맥락을 읽는다.",
+      "explanation": "길경·맥문동·의이인에 나복자·마황·황금의 여섯 약재가 배합됩니다. 회복기에도 호흡·기침, 식사·체중, 발한 뒤 느낌과 활동이 어떻게 남아 있는지를 나눠 봅니다. ‘병후체허’라는 말만으로 모든 감염 후 피로에 같은 처방을 적용하지 않습니다.",
+      "note": "새 발열·객혈·호흡곤란은 원질환을 재평가한다. 마황과 병용약의 안전성을 확인한다.",
+      "edition": "배합: 동의사상신편(1929) · 한국전통지식포탈 P0018577 · 병증은 연결 문서의 원전·지침과 구분",
+      "href": "/sasang-formula-library/joripyewon-tang/",
+      "reference": "https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018577&tempLang=ko",
+      "referenceLabel": "처방 수록·관련 자료 확인 ↗"
+    },
+    {
+      "title": "소증과 현증 · 발병 전과 지금을 나누기",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "소증은 평소 상태, 현증은 현재 병중의 변화로 나누어 기록한다.",
+      "explanation": "식욕·소화·대변·수면·땀·소변의 평소 기준선이 있어야 새 변화를 판단하기 쉽습니다. 평소에도 설사가 있었는지, 이번 발열 뒤 처음 생겼는지는 다른 정보입니다. 회복도 주증이 줄었는지와 평소 기능이 돌아왔는지를 나누어 살펴봅니다.",
+      "note": "평소와 현재를 같은 질문 항목으로 기록하면 경과 비교가 쉬워진다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-original-symptoms/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소음인 · 울광과 망양에서 땀을 읽기",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "소음인 표병에서는 발한의 상태와 땀 뒤 회복을 함께 비교한다.",
+      "explanation": "발열·오한·신체통이라는 공통 증상에 자한·탈진이 어떻게 더해지는지 봅니다. 울광과 망양은 땀의 유무 한 가지로 끝나는 분류가 아니며 복만·배변·번조·기력의 경과도 중요합니다. 황기계지탕과 승양익기탕의 비교는 지침의 병증 단계 안에서 읽습니다.",
+      "note": "발한량을 늘리는 것이 회복 목표가 아니다. 현재의 전신 상태를 먼저 확인한다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-clinical-detail/soeumin/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865457",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소음인 · 표병의 부자방과 리한의 부자방",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "부자가 함께 들어가도 표병·망양과 리한·복통의 맥락은 다르다.",
+      "explanation": "인삼계지부자탕은 발한 뒤 자한·기력 저하의 표병 맥락을, 관계부자이중탕은 복통·설사·냉감의 리한 맥락을 비교합니다. 공통 약재보다 전체 구성과 어떤 증후가 중심인지가 중요합니다. 부자 유무를 병세의 단순 점수표나 자동 증량 기준으로 쓰지 않습니다.",
+      "note": "부자 처방은 기원·포제·용량·심혈관 상태를 전문적으로 확인한다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-formula-cards/comparison-map/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865457",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소음인 · 구토 중심과 설사 중심의 비교",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "같은 리한의 소화기 불편도 구토·정체와 복통·설사의 비중을 나누어 본다.",
+      "explanation": "계지반하생강탕은 구토·심하 불편, 곽향정기산은 한습·담습, 이중탕 계열은 허한성 복통·설사의 배합을 비교하는 자료입니다. 현재 주증과 평소 식사·냉감·배변을 연결하되, 수분을 유지하지 못하는 구토나 심한 복통은 먼저 원인과 위험도를 평가합니다.",
+      "note": "증상 이름만으로 처방을 연결하지 않고 섭취·배뇨·기력을 함께 본다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-pattern-differential/soeumin-taeeum-vs-soeum/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001865469",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 설사와 열이 함께 있을 때",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "설사가 있다고 모두 한증이거나 리병인 것은 아니다.",
+      "explanation": "소양인 망음에서는 신열두통과 신한복통의 증후를 나누며, 리열의 흉격열과도 구분합니다. 설사의 횟수·형태에 두통·한열·복통·갈증·소변을 함께 붙여 읽어야 합니다. 약재에 석고가 있거나 처방명에 지황이 있다는 사실만으로 표리 분류를 확정하지 않습니다.",
+      "note": "설사 감소와 섭취·소변·활동의 회복이 같은 방향인지 확인한다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-pattern-differential/soyangin-mangeum-vs-chestheat/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 형방도적산과 형방사백산",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "형방계 표병 골격을 공유하지만 흉격·담과 열·배설의 배합이 다르다.",
+      "explanation": "형방도적산은 목통·현삼·과루인·전호가, 형방사백산은 복령·택사·석고·지모가 비교점입니다. 흉격 불편과 신체통, 신열·갈증·배설의 비중을 함께 살핍니다. 약재 한 가지의 효능을 조합해 선택하기보다 병증 위치와 전체 구성의 관계를 읽습니다.",
+      "note": "같은 형방계라도 원방·가감방과 적용 병증의 출처를 구분한다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-formula-combination-network/soyangin-network/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917062",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 생지황과 숙지황이 있는 처방",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "지황을 공유하는 처방도 구성과 병증 위치를 따로 읽어야 한다.",
+      "explanation": "형방도적산·형방사백산·양격산화탕에는 생지황이, 형방지황탕·독활지황탕에는 숙지황이 나타납니다. 그러나 숙지황을 쓴 형방지황탕은 표병 망음 맥락도 있으므로 약재만으로 표리나 한열을 정할 수 없습니다. 형방·복택·청열 약재의 전체 배합을 비교합니다.",
+      "note": "본초 하나를 병증 분류표처럼 쓰지 않는다. 수록본별 구성도 확인한다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-formula-combination-network/soyangin-network/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917064",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "소양인 · 흉격열과 음허오열",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "리열 안에서도 급한 열·변의 건조와 오래된 소모의 맥락을 나누어 읽는다.",
+      "explanation": "흉격열은 구갈·번조·대변의 건조와 정체를 중심으로 비교하고, 음허오열은 지속 소모·소화·하지·배뇨 변화까지 연결합니다. 오열(惡熱)은 열을 싫어한다는 뜻입니다. 야간 열감 하나나 처방명만으로 두 병증을 나누지 않고 소증과 전신 경과를 함께 봅니다.",
+      "note": "형방사백산·양격산화탕·지황백호탕·독활지황탕의 적용 맥락을 구분한다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-pattern-differential/soyangin-severity-map/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917064",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "태음인 · 땀 뒤 개운함과 탈진의 차이",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "한액통창은 발한량보다 원활함과 발한 뒤의 상태를 함께 읽는 건강 지표다.",
+      "explanation": "평소 활동에서 땀 뒤 개운했는지, 병이 든 뒤 새 다한·냉감·어지럼·탈진이 생겼는지 비교합니다. 표한병과 리열병의 구분에는 오한·갈증·배변·호흡·소화도 필요합니다. 태음인이라는 이유로 과도하게 땀을 내는 것을 치료 목표로 삼지 않습니다.",
+      "note": "체질의 건강 구절과 현재의 탈수·전신 악화를 구분한다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-pattern-differential/taeeumin-exterior-vs-interior/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978957",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "태음인 · 열다한소탕과 청폐사간탕",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "후대 청폐사간탕의 이름과 열다한소탕에 대황을 더한 가감 기록을 구분한다.",
+      "explanation": "갈근·황금·길경·나복자 등의 공통 골격에 대황이 더해지는지를 비교합니다. 리열·건조에 대변 정체가 어떻게 겹치는지, 치료 중 설사·복통·수분 상태가 달라지는지가 중요합니다. 원전 가감과 후대 명명은 서지 정보가 다르므로 같은 시기의 동일 문장으로 인용하지 않습니다.",
+      "note": "역사적 가감 사례는 개인의 약재 변경 지시가 아니다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-formula-cards/cheongpyesagan-tang/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978958",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "태음인 · 새 병이 줄어도 소증을 다시 보기",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "급성 주증의 호전과 평소 기능의 회복은 별도로 확인한다.",
+      "explanation": "열·기침이 줄었어도 식사량·체중·땀 뒤 느낌·호흡·활동이 발병 전 상태에 도달했는지 살핍니다. 원전의 소병과 새 병을 함께 기록한 의안이 이런 비교에 도움이 됩니다. 회복기 처방의 수록은 특정 감염 후 질환의 효과가 입증되었다는 뜻과 구분합니다.",
+      "note": "섭취·수면·활동 등 같은 항목을 반복 기록하면 회복의 방향을 보기 쉽다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/classical-stories/sasang/taeeumin-baseline-recovery/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978958",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
+    },
+    {
+      "title": "태양인 · 해역과 열격이 겹칠 때",
+      "original": "",
+      "originalLabel": "병증·임상 해설 · 조문 직접 인용 아님",
+      "translation": "하지 지탱과 섭취·연하라는 두 관찰 영역을 함께 확인한다.",
+      "explanation": "해역에서는 서기·걷기·하지 기능을, 열격에서는 막힘의 시점·음식 유지·체중·수분을 봅니다. 둘이 동반되는 병세를 원전과 지침은 중하게 읽지만, 현대의 마비·연하장애를 체질병증만으로 설명하지 않습니다. 태양인 관련 임상자료는 제한적이므로 관찰과 근거의 범위를 구분합니다.",
+      "note": "새 마비·보행 불능·심한 연하장애는 신속한 원인 평가가 필요하다.",
+      "edition": "아카이브 비교 해설 · 동의수세보원 병론과 병증별 사상체질 임상진료지침을 함께 읽는 학습 자료",
+      "href": "/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/",
+      "reference": "https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960",
+      "referenceLabel": "병증을 정리한 진료지침 확인 ↗"
     }
   ]
 }
