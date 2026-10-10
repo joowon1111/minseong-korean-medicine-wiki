@@ -46,6 +46,7 @@
 }
 .md-typeset:has(.ms-home) .ms-sub { opacity: 1; }
 .ms-home-intro { max-width: 42rem; margin: 0; }
+.ms-home-intro .ms-intro-phrase { white-space: nowrap; }
 .md-typeset .ms-home-intro p {
   margin: 0;
   color: var(--ms-home-description);
