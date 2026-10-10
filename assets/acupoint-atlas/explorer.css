@@ -22,3 +22,37 @@
 .acupoint-location object{display:block;width:100%;aspect-ratio:640/660;background:white;border-radius:8px}
 .acupoint-location p{font-size:.8rem;margin:.5rem 0}
 .acupoint-location .acupoint-note{font-size:.7rem;color:var(--md-default-fg-color--light)}
+/* Local discovery workspace, independently designed for archive reading. */
+.acupoint-discovery{margin:1rem 0 1.5rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:14px;overflow:hidden;font-size:.8rem}
+.discovery-toolbar{padding:1rem;background:var(--md-code-bg-color)}
+.discovery-toolbar label{display:block;font-weight:600;font-size:.75rem}
+.discovery-toolbar input,.discovery-toolbar select{display:block;width:100%;min-width:0;min-height:44px;margin:.3rem 0 .6rem;padding:.6rem;border:1px solid var(--md-default-fg-color--light);border-radius:7px;background:var(--md-default-bg-color);color:var(--md-default-fg-color);font:inherit}
+.acupoint-discovery button{min-height:44px;padding:.5rem .7rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:7px;background:var(--md-default-bg-color);color:var(--md-default-fg-color);font:inherit;cursor:pointer}
+.acupoint-discovery button[aria-pressed=true]{border-color:var(--md-primary-fg-color);box-shadow:inset 0 0 0 1px var(--md-primary-fg-color);background:var(--md-primary-fg-color);color:var(--md-primary-bg-color)}
+.discovery-kinds,.discovery-examples,.discovery-views,.discovery-actions{display:flex;flex-wrap:wrap;gap:.4rem;margin:0 0 .8rem}
+.discovery-examples{align-items:center;font-size:.7rem;margin-bottom:0}
+.discovery-examples button{font-size:.7rem;min-height:38px}
+.discovery-filters{display:grid;grid-template-columns:1fr 1fr auto;align-items:end;gap:.6rem}
+.discovery-filters>button{margin-bottom:.6rem}
+.discovery-toolbar [data-status]{font-size:.7rem;margin:.5rem 0 0}
+.discovery-layout{display:grid;grid-template-columns:minmax(180px,.7fr) minmax(0,1.6fr)}
+.discovery-list{padding:.8rem;border-right:1px solid var(--md-default-fg-color--lightest)}
+.discovery-list [data-results]{max-height:600px;overflow-y:auto;overscroll-behavior:contain}
+.discovery-result{display:block;width:100%;text-align:left;margin-bottom:.4rem;overflow-wrap:anywhere}
+.discovery-result strong,.discovery-result span{display:block}
+.discovery-result span{font-size:.65rem;opacity:.8;margin-top:.25rem}
+.discovery-list [data-more]{width:100%;margin-top:.5rem}
+.discovery-detail{padding:1rem;min-width:0;scroll-margin-top:5rem;overflow-wrap:anywhere}
+.discovery-detail h3{margin-top:0!important}.discovery-detail h4{margin-bottom:.3rem!important}
+.discovery-eyebrow{font-size:.65rem;color:var(--md-default-fg-color--light);margin:0 0 .2rem!important}
+.discovery-source{font-size:.65rem;color:var(--md-default-fg-color--light)}
+.discovery-actions a{padding:.4rem .6rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:6px;min-height:38px}
+.discovery-figure{margin:.6rem 0!important;border:1px solid var(--md-default-fg-color--lightest);border-radius:10px;overflow:hidden}
+.discovery-figure object{display:block;width:100%;height:440px;background:#fff}
+.discovery-figure figcaption{font-size:.65rem!important;text-align:left!important;padding:.5rem;margin:0!important}
+.discovery-views button{font-size:.7rem}
+.discovery-points{border-left:3px solid var(--md-primary-fg-color);padding-left:.7rem}
+.acupoint-discovery [hidden]{display:none!important}
+.acupoint-discovery :focus-visible{outline:3px solid var(--md-accent-fg-color);outline-offset:2px}
+@media(max-width:850px){.discovery-layout{grid-template-columns:1fr}.discovery-list{border-right:0;border-bottom:1px solid var(--md-default-fg-color--lightest)}.discovery-list [data-results]{max-height:260px}.discovery-filters{grid-template-columns:1fr 1fr}.discovery-filters>button{grid-column:1/-1}.discovery-figure object{height:370px}}
+@media print{.acupoint-discovery{display:none}}
