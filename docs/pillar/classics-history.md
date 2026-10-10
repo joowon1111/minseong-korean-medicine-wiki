@@ -24,6 +24,8 @@ last_reviewed: 2026-08-29
 
 고전이 한국의 처방 정리와 근현대 임상으로 이어진 흐름은 [한국 한의학 임상서·처방서](../modern-korean-medicine/index.md)에서 살펴봅니다.
 
+양생과 치미병을 주제로 읽으려면 [원문·현대 해석](../yangsaeng/index.md)에서 시작하고, [예방·기능 회복 연구 지도](../research/prevention-function.md)에서 임상시험과 일본 캄포 연구를 확인합니다.
+
 함께 보면 좋은 고전으로 [비급천금요방](../classics/beiji-qianjin-yaofang.md)과 [비위론](../classics/piwei-lun.md)이 있습니다.
 
 → [한의학 주요 고전 9종 비교](../classics-network/comparison.md)  
