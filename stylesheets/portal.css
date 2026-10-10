@@ -12,7 +12,7 @@
 .ms-quick a { border:1px solid var(--md-default-fg-color--lightest); border-radius:999px; padding:.35rem .7rem; text-decoration:none !important; }
 @media (max-width:760px){ .ms-grid{grid-template-columns:1fr;} .ms-hero{text-align:left;} }
 
-/* Home refinements: keep the existing grid, spacing and portal styles. */
+/* Home reading rhythm; other portals retain their existing styles. */
 .md-typeset:has(.ms-home) {
   --ms-home-link: #276344;
   --ms-home-link-hover: #19472f;
@@ -29,29 +29,81 @@
 }
 .md-typeset:has(.ms-home) a { color: var(--ms-home-link); }
 .md-typeset:has(.ms-home) a:hover { color: var(--ms-home-link-hover); }
-.md-typeset:has(.ms-home) .ms-hero h1 { color: var(--md-default-fg-color); }
+.md-typeset .ms-home {
+  text-align: left;
+  margin: .25rem 0 1.25rem;
+  padding: 1.25rem 0 1.15rem;
+  border-bottom: 1px solid var(--ms-home-border);
+}
+.md-typeset .ms-home h1 {
+  margin: 0 0 .85rem;
+  color: var(--md-default-fg-color);
+  font-size: clamp(1.55rem, 2.6vw, 2rem);
+  font-weight: 650;
+  line-height: 1.35;
+  letter-spacing: -.035em;
+  word-break: keep-all;
+}
 .md-typeset:has(.ms-home) .ms-sub { opacity: 1; }
-.ms-home-intro { max-width: 48rem; margin: 0 auto; text-align: left; }
-.ms-home-intro p { margin: .65rem 0; font-size: .9rem; line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; }
+.ms-home-intro { max-width: 42rem; margin: 0; }
+.md-typeset .ms-home-intro p {
+  margin: 0;
+  color: var(--ms-home-description);
+  font-size: .86rem;
+  line-height: 1.8;
+  letter-spacing: -.012em;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+.md-typeset:has(.ms-home) .ms-grid { gap: .8rem; margin: 0 0 1.8rem; }
+.md-typeset .ms-home .km-guide-entry { margin: .8rem 0 0; text-align: left; }
+.md-typeset .ms-home .km-guide-entry a {
+  display: inline-flex;
+  align-items: center;
+  gap: .65rem;
+  min-height: 44px;
+  padding: .2rem 0;
+  font-size: .74rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+.ms-home .km-guide-label { display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem .65rem; }
+.ms-home .km-guide-hint { color: var(--ms-home-description); font-size: .68rem; font-weight: 400; }
+.ms-home .km-guide-entry svg { flex: none; }
+@media (max-width: 480px) {
+  .md-typeset .ms-home { padding-top: .75rem; margin-bottom: 1rem; }
+  .ms-home .km-guide-label { flex-direction: column; align-items: flex-start; gap: .1rem; }
+}
 .md-typeset:has(.ms-home) .ms-card {
   border-color: var(--ms-home-border);
+  border-radius: .6rem;
+  padding: 1rem 1.05rem;
   transition: transform .12s ease, box-shadow .12s ease, background-color .12s ease, border-color .12s ease;
 }
 .md-typeset:has(.ms-home) .ms-card strong {
   display: flex;
   align-items: center;
   gap: .45rem;
+  margin-bottom: .4rem;
+  font-size: .95rem;
+  font-weight: 600;
+  line-height: 1.45;
+  letter-spacing: -.015em;
 }
 .md-typeset:has(.ms-home) .ms-card-icon {
   width: 1.15rem;
   height: 1.15rem;
   flex: none;
 }
-.md-typeset:has(.ms-home) .ms-card span { color: var(--ms-home-description); }
+.md-typeset:has(.ms-home) .ms-card span { display: block; color: var(--ms-home-description); font-size: .78rem; line-height: 1.65; letter-spacing: -.01em; }
 .md-typeset:has(.ms-home) .ms-card:hover,
 .md-typeset:has(.ms-home) .ms-card:focus-visible {
   background-color: var(--ms-home-highlight);
   border-color: var(--ms-home-link);
+  transform: none;
+  box-shadow: 0 .15rem .4rem rgba(0,0,0,.035);
 }
 .md-typeset:has(.ms-home) a:focus-visible {
   outline: 2px solid var(--ms-home-link);
