@@ -106,12 +106,12 @@ test('seasonal almanac follows Korean month boundaries and stays continuous acro
   assert.equal(first.index, (last.index+1)%last.count);
   assert.equal(reader.seasonalCard(new Date(NaN),almanac),null);
   assert.equal(reader.seasonalCard(reader.parseDate('2026-03-01'),{cards:[]}),null);
-  assert.equal(almanac.cards.length,96);
-  assert.equal(new Set(almanac.cards.map(c=>c.practice)).size,96);
-  assert.equal(new Set(almanac.cards.map(c=>c.line)).size,96);
+  assert.equal(almanac.cards.length,144);
+  assert.equal(new Set(almanac.cards.map(c=>c.practice)).size,144);
+  assert.equal(new Set(almanac.cards.map(c=>c.line)).size,144);
   for (const season of ['spring','summer','autumn','winter']) {
     const cards=almanac.cards.filter(c=>c.season===season);
-    assert.equal(cards.length,24);
+    assert.equal(cards.length,36);
     for (const card of cards) {
       assert(card.line && card.theme && card.practice && almanac.sources[card.source]);
       if(card.modern) assert(almanac.modern[card.modern]);
@@ -138,21 +138,21 @@ test('almanac source links reach both classical archive hubs and each season inc
 
 test('almanac identifiers remain tied to content when order changes and invalid links fail closed', () => {
   const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
-  assert.equal(new Set(almanac.cards.map(item => item.id)).size,96);
+  assert.equal(new Set(almanac.cards.map(item => item.id)).size,144);
   const reversed = {...almanac,cards:[...almanac.cards].reverse()};
   for(const item of almanac.cards) {
     assert.equal(reader.almanacFrom(item.id,reversed),item);
     assert.equal(reader.almanacFrom(item.id,almanac),item);
   }
-  for(const id of ['spring-00','spring-25','spring-1','autumn-01x','spring-01/','unknown-01','__proto__',null]) {
+  for(const id of ['spring-00','spring-37','spring-1','autumn-01x','spring-01/','unknown-01','__proto__',null]) {
     assert.equal(reader.almanacFrom(id,almanac),null);
   }
 });
 
 test('almanac search combines season with original, gloss, practical action and book terms', () => {
   const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
-  assert.equal(reader.searchAlmanac(almanac,'all','').length,96);
-  assert.equal(reader.searchAlmanac(almanac,'winter','').length,24);
+  assert.equal(reader.searchAlmanac(almanac,'all','').length,144);
+  assert.equal(reader.searchAlmanac(almanac,'winter','').length,36);
   const hits=reader.searchAlmanac(almanac,'autumn','동의보감 少勞');
   assert.equal(hits.length,1);
   assert.equal(hits[0].source,'gentle');
