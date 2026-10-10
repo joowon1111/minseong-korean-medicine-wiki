@@ -10,6 +10,8 @@ description: 사군자탕·육군자탕·향사육군자탕, 사물탕·팔물�
 같은 피로·소화불편·불면이라도 처방의 출발점과 배합은 다릅니다. **공통 약재 → 달라지는 약재와 비율 → 원문의 주치 → 현재 함께 살필 증상 → 연구한 제제**를 나란히 읽으면 처방 이름을 외우는 데서 더 나아갈 수 있습니다. 이 비교는 방제학 학습용이며 개인의 처방을 정하는 표가 아닙니다.
 
 [임상 핵심 처방 100선](../herbal-integrated/general-formulary.md#core-formulas-100)에서 전체 목록을, [처방 구조 비교 도구](../herbal-integrated/formula-structure.md#interactive-comparison)에서 선택한 처방의 구성 차이를 확인합니다.
+약량표의 돈·푼·냥은 무게 단위이며, 첩·제는 약재를 묶어 세는 단위입니다. [한 첩·한 제와 탕전 팩·복용 일수의 차이](../clinical-guides/tonic-formula-dose-source-quality.md#cheop-je-pack)를 먼저 확인하면 원문 약량과 현대 복용 안내를 구분하기 쉽습니다.
+
 ## 비슷한 증상, 다른 방제
 | 주증 | 가능한 병증 예 | 방제 방향 예 |
 |---|---|---|
