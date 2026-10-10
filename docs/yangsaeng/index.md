@@ -98,6 +98,21 @@ tags: [양생, 養生, 치미병, 治未病, 예방의학, 고전 원문, 만성
 
 검사로 확인할 위험과 생활의 불편은 함께 기록합니다. 양생을 검진·예방접종·필요한 약물치료와 연결하되, 고전 구절만으로 그 필요성을 대체하지 않습니다. [예방·만성질환·기능 회복 연구 지도](../research/prevention-function.md)에서 각 질문에 맞는 임상시험과 일본 캄포 연구로 이어집니다.
 
+## 만성 관리에서 급한 변화와 평소 회복을 구분하기 {#chronic-care-priority}
+
+> 夫病痼疾加以卒病，當先治其卒病，後乃治其痼疾也。
+
+**출전:** 《금궤요략》 1.15. **풀이:** 오래된 병에 갑자기 생긴 병이 겹치면 먼저 갑작스러운 병을 다스리고, 그 뒤 오래된 병을 다스린다. [전체 조문과 대조 원문](../classics/jinkui-yaolue/chapters/organs-meridians.md#clause-01-015)
+
+만성질환 관리의 연속성 안에서도 우선순위가 달라진다는 기록입니다. 평소 소화불량과 새로 생긴 반복 구토, 익숙한 피로와 갑작스러운 한쪽 근력저하를 같은 경과로 취급하지 않습니다. 급한 변화의 원인을 평가한 뒤 평소 식사·활동·수면과 남은 증상으로 돌아옵니다. 이는 고전의 치료 순서를 현재의 관찰에 연결한 해석이며, 현대 응급 진단의 기준은 각 질환 문서에서 확인합니다.
+
+| 원문을 실제 증상과 함께 읽으려면 | 기존 임상 문서 |
+|---|---|
+| 먹는 양과 식후 불편을 함께 살피기 | [기능성소화불량의 원문·처방·일본 연구](../conditions/functional-dyspepsia.md#classical-function) |
+| 초기 움직임 변화와 일상기능 보존 | [근감소증·노쇠의 기능 관리](../conditions/frailty-sarcopenia.md#classical-functional-care) |
+| 병후 소화 적응과 회복 단계 | [수술 후 식사·장기능 연구](../conditions/postoperative-recovery.md#classical-gut-recovery) |
+| 양생과 보익의 역할 구분 | [보익·양생 허브](../network/tonic-wellness-hub.md#prevention-functional-care) |
+
 ## 출전과 인용 범위 {#sources}
 
 - 《황제내경 소문》 권1·권7: 위키문헌 전사본 대조. [권1](https://zh.wikisource.org/wiki/黃帝內經/素問第一卷) · [권7](https://zh.wikisource.org/wiki/黃帝內經/素問第七卷). 위키문헌 기여자, CC BY-SA 4.0; 발췌 구절과 자체 풀이를 구분했습니다.

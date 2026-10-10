@@ -49,6 +49,14 @@ PDS·EPS는 임상 증상 유형이며 비위기허·기체 등 한의학 변증
 | 간위불화·기체: 긴장에 따라 트림·명치 답답함 변화 | [시호소간산](../formulas/chaihu-shugan-san.md) | [스트레스성 소화불편](../autonomic/stress-digestion.md)과 수면·긴장의 변화 |
 | 한열착잡·심하비: 명치 그득함에 오심·장명·설사 | [반하사심탕](../formulas/banxia-xiexin-tang.md) | 냉열·오심·배변의 조합; 불편 지속시간 |
 
+### 원문에서 식사 기능과 증상 조합을 읽기 {#classical-function}
+
+> 以病新差，人強與穀，脾胃氣尚弱，不能消穀。
+
+《상한론》 398조는 **병이 막 나았는데 억지로 음식을 먹이고, 비위가 아직 약해 소화하지 못한다**는 상황을 기록합니다. 이는 병후 회복의 문맥이며 기능성소화불량의 진단 조문은 아닙니다. 현재 진료에서는 필요한 영양량과 실제 먹을 수 있는 양, 식후 불편을 함께 살피는 질문으로 이어 읽습니다. 음식량을 일률적으로 줄이기보다 소화 적응과 체중을 확인합니다. [전체 원문·자체 해석](../classics/shanghanlun/clauses/recovery.md#clause-398) · [양생의 식사 원칙](../yangsaeng/index.md#recovery-food)
+
+한의학적 처방 선택은 식후팽만만 보지 않고 오심·장명·배변·기력 같은 동반 양상을 함께 구분합니다. 예를 들어 [상한론 149조의 심하비](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149)와 [금궤요략 17.10의 구토·장명](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-010)은 [반하사심탕의 구성과 치법](../formulas/banxia-xiexin-tang.md)을 이해하는 문맥입니다. 현대 연구는 실제 기능성소화불량 환자를 대상으로 치료 결과를 따로 확인합니다.
+
 이 표는 병증과 처방 구조를 배우는 비교표입니다. 실제 구성은 복용약·간신장기능·임신 여부와 현재 증후를 확인해 정합니다. [담음·식적 감별](../diagnostics/differentials/phlegm-vs-food-stagnation.md)과 [담적 안내](../diagnostics/phlegm-accumulation.md)에서 용어를 구분합니다.
 
 ### 침·전침·약침과 병행치료 {#acupuncture-care}
@@ -58,6 +66,8 @@ PDS·EPS는 임상 증상 유형이며 비위기허·기체 등 한의학 변증
 식사 리듬·충분한 섭취·수면·스트레스 관리, 필요한 위산억제제·위장운동 관련 치료와 한의치료의 목표를 조율합니다. 호전 여부는 치료명을 기준으로 판단하지 않고 먹을 수 있는 양·불편시간·활동 회복으로 비교합니다.
 
 ### 한약·식물성 제제 연구를 구분해 읽기 {#herbal-research}
+
+**일본 DREAM 시험(Tominaga 등, 2018)**은 위약 준비기간 뒤 증상이 남은 기능성소화불량 환자 128명을 배정해 육군자탕과 위약을 8주 비교했습니다. 전체 치료효과 평가가 개선됐고(P=0.019), 조기포만·식후포만·팽만에서도 차이가 있었습니다. 소화가 불편한 환자의 식사 기능을 치료 목표로 평가한 사례입니다. [원 논문](https://doi.org/10.1111/nmo.13319) · [육군자탕의 시험 조건·일본소화기학회 권고](../research/formulas/rikkunshito.md#japanese-fd-trials). 해당 모집 조건과 일본 시험제제에 대한 결과로 읽고, 국내 탕약·가감방의 구성은 별도로 확인합니다.
 
 - **Yukgunja-tang and Pyeongwi-san improve functional dyspepsia and modulate ghrelin dynamics: A multicenter randomized controlled trial.** — 140명을 6주간 비교한 다기관 무작위시험에서 육군자탕과 평위산은 통상관리보다 총 소화불량 증상점수를 더 낮췄습니다. 두 처방 사이의 전체 효과 차이는 뚜렷하지 않았고, 치료 관련 중대한 이상반응은 보고되지 않았습니다. 위약 대조가 아닌 통상관리 비교 연구라는 점을 함께 봅니다. PMID `42637062` · DOI `10.1016/j.jep.2026.122335`
 
