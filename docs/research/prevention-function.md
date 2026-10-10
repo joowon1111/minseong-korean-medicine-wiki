@@ -8,6 +8,19 @@ tags: [양생, 치미병, 예방의학, 만성질환 관리, 기능 회복, 일�
 
 **한의학의 예방·만성 관리·회복 분야는 실제로 무엇이 개선됐는지를 기준으로 읽을 때 강점이 선명해집니다.** 발병 위험, 반복 발작, 식사와 수면, 움직임과 생활기능은 서로 다른 목표입니다. [양생·치미병 원문과 현대 해석](../yangsaeng/index.md)이 고전의 질문을 다룬다면, 이 지도는 그 질문과 연결되는 사람 대상 연구를 찾는 출발점입니다.
 
+## 현재 증상에서 연구를 찾기 {#clinical-entry}
+
+증상의 감별과 치료 목표를 먼저 알고 싶다면 아래 임상 문서에서 시작합니다. 각 문서 안에서 원문·처방·대표 연구를 함께 읽고, 이 지도에서는 다른 분야와 비교할 수 있습니다.
+
+| 현재 궁금한 문제 | 원문·치료 목표·대표 결과를 읽을 문서 | 상세 연구 자료 |
+|---|---|---|
+| 적게 먹어도 배부르고 식후 불편이 반복됨 | [기능성소화불량](../conditions/functional-dyspepsia.md#classical-function) | [육군자탕 일본 시험·지침](formulas/rikkunshito.md#japanese-fd-trials) |
+| 만성질환과 함께 식욕·기력·근력이 떨어짐 | [근감소증·노쇠](../conditions/frailty-sarcopenia.md#sarcopenia-formulas) | [인삼양영탕의 COPD 연구](../formulas/renshen-yangrong-tang.md#frailty-trials) |
+| 수술 뒤 식사·가스·배변 회복이 더딤 | [수술 후 회복](../conditions/postoperative-recovery.md#classical-gut-recovery) | [대건중탕의 간절제 시험](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial) |
+| 반복 통증으로 일상 동작이 어려움 | [고령자 요통의 기능 결과](../conditions/low-back-pain.md#older-adult-functional-trial) | [침 대표 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading) |
+
+[현대 임상근거 허브](../pillar/clinical-evidence.md#strengths-and-comparators)는 예방·통증·소화·수면·노년기 회복을 한눈에 연결합니다. [보익·양생 허브](../network/tonic-wellness-hub.md#prevention-functional-care)에서는 현재 회복 목표에 따라 처방·본초로 이동할 수 있습니다.
+
 ## 어떤 의미의 예방과 회복인가 {#outcomes}
 
 | 목표 | 연구에서 확인할 결과 | 다른 결과와 구분할 점 |

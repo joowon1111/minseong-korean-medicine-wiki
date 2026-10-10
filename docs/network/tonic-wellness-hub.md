@@ -11,6 +11,19 @@ last_reviewed: 2026-08-19
 한의학의 보익은 단순히 '기운을 올리는 것' 하나로 설명되지 않는다.  
 **기(氣), 혈(血), 정(精), 진액(津液), 비위의 기능과 회복력**을 어떻게 돕는지에 따라 본초와 처방의 방향이 달라진다.
 
+## 양생·만성 관리·회복을 함께 보는 이유 {#prevention-functional-care}
+
+《내경》의 「食飲有節，起居有常，不妄作勞」는 **식사에 절도가 있고 생활이 일정하며 무리하게 소모하지 않는다**는 뜻이다. 《금궤요략》 치미병 조문은 「即勿補之」라는 보하지 않는 조건도 함께 제시한다. 양생은 생활의 리듬과 몸 상태를 돌보는 관점이며, 보익은 현재 부족한 기능과 증후에 맞춰 선택하는 치료 방향이다. [원문·출전과 자체 풀이](../yangsaeng/index.md#conditional-care)
+
+| 현재의 목표 | 한의학에서 함께 살피는 것 | 임상 설명·대표 연구 |
+|---|---|---|
+| 평소 건강 위험 관리 | 식사·수면·활동과 검사 결과 | [당뇨전단계 생활관리](../conditions/prediabetes.md#diabetes-prevention-trial): 생활중재 시험과 한약 연구 구분 |
+| 식사와 소화 기능 회복 | 조기포만·오심·담습·기체·허약 | [기능성소화불량](../conditions/functional-dyspepsia.md#classical-function): 육군자탕 등 처방과 일본 위약대조시험 |
+| 만성질환에 동반된 허약 | 식욕·피로·수면과 실제 근력·보행 | [근감소증·노쇠](../conditions/frailty-sarcopenia.md#sarcopenia-formulas): 인삼양영탕의 COPD 환자 연구 |
+| 수술·큰 치료 뒤 생활 복귀 | 섭취·배변·통증·활동과 회복 단계 | [수술 후 회복](../conditions/postoperative-recovery.md#classical-gut-recovery): 대건중탕의 장기능 결과 |
+
+한의학의 보익·회복 관점은 ‘기운’ 하나에 머물지 않고 먹고 움직이고 잠드는 생활을 함께 살핀다는 데 특징이 있다. 어떤 치료의 이점이 직접 확인됐는지는 대상과 비교군에 맞춰 읽는다. 여러 분야를 비교하려면 [예방·기능 회복 연구 지도](../research/prevention-function.md)를 이용한다.
+
 <div class="hub-grid">
 
 <a class="hub-card" href="/herbs/cervi-parvum-cornu/">
