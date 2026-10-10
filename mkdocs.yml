@@ -26,7 +26,7 @@ extra_css:
 - assets/donguibogam/reader.css
 extra:
   generator: false
-  homepage_title: 민성 한의학 아카이브 | 오늘의 한의학, 매일의 루틴
+  homepage_title: 민성 한의학 아카이브
 hooks:
 - tools/acupoint_diagrams.py
 - tools/sitemap_lastmod.py
