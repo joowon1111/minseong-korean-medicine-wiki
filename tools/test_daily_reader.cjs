@@ -69,3 +69,23 @@ test('daily clause prose has no imported document markup and related links resol
   assert(reader.search(data, 'herbs', '사역산').length === 0);
   assert(reader.search(data, 'herbs', '삼령백출산').some(hit => /길경/.test(hit.title)));
 });
+
+
+test('chapter filters follow source documents and compose with text and topic', () => {
+  const counts = {"taiyang-upper":30,"taiyang-middle":97,"taiyang-lower":51,yangming:84,shaoyang:10,taiyin:8,shaoyin:45,jueyin:56,huoluan:10,recovery:7};
+  for (const [key, count] of Object.entries(counts)) {
+    assert.equal(reader.search(data, 'shanghan', '', 'all', key).length, count, key);
+  }
+  assert(reader.search(data, 'shanghan', '五苓散', 'all', 'huoluan').some(hit => hit.index === 385));
+  assert.equal(reader.search(data, 'shanghan', '竹葉石膏湯', 'all', 'taiyang-upper').length, 0);
+  assert.equal(reader.search(data, 'herbs', '', 'all', 'huoluan').length, data.herbs.length);
+  assert.equal(reader.chapterFor({href:'/other/yangming/'}), null);
+});
+
+test('exact clause numbers reject misleading prefixes and retain original 398-card order', () => {
+  for (let number = 1; number <= 398; number++) {
+    assert.deepEqual(reader.clauseFrom(String(number), data), {topic:'shanghan',index:number-1});
+  }
+  for (const value of ['0','399','01','1.0','1e2','+1','12조','-1','',null]) assert.equal(reader.clauseFrom(value, data), null);
+  assert.deepEqual(reader.clauseFrom(' 163 ', data), {topic:'shanghan',index:162});
+});

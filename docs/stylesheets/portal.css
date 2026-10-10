@@ -292,3 +292,8 @@
 .daily-km-browser button:disabled { opacity: .5; cursor: default; }
 .daily-km-browser-search [data-daily-meridian-label]:not([hidden]) { grid-column: 1 / -1; }
 .daily-km-browser-search [hidden] { display: none; }
+.daily-km-browser-search [data-daily-chapter-label]:not([hidden]) { grid-column: 1 / -1; }
+.daily-km-clause-jump:not([hidden]) { display: flex; flex-wrap: wrap; align-items: end; gap: .6rem; margin: -.3rem 0 1rem; }
+.daily-km-clause-jump label { display: flex; flex-direction: column; gap: .3rem; font-size: .78rem; }
+.daily-km-clause-jump input { width: 8rem; min-height: 44px; padding: .45rem .6rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .45rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit; }
+.daily-km-clause-jump p { flex-basis: 100%; margin: 0; }
