@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261007-09";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-sasang-depth";
   let dataPromise;
   let dayOffset = 0;
 
@@ -134,6 +134,7 @@
       ? dayOfYear(date) % items.length
       : ((epoch % items.length) + items.length) % items.length;
     const item = items[index];
+    setOptional(root, "[data-topic-explanation]", topic === "sasang" && item.explanation ? "해설 — " + item.explanation : "");
 
     if (topic === "points") {
       setText(root, "[data-topic-count]", "올해의 경혈 " + (index + 1) + " / " + items.length);
@@ -177,7 +178,7 @@
       const otherReference = providedCatalogUrl || item.reference === item.href ? "" : item.reference;
       setLink(root, "[data-topic-reference]", otherReference, item.referenceLabel || "본초 출전·자료 확인 ↗");
     } else {
-      const label = topic === "shanghan" ? "오늘의 상한론 조문 " : "오늘의 사상의학 원문·풀이 ";
+      const label = topic === "shanghan" ? "오늘의 상한론 조문 " : "원문·풀이 ";
       setText(root, "[data-topic-count]", label + (index + 1) + " / " + items.length);
       setText(root, "[data-topic-title]", item.title);
       setText(root, "[data-topic-summary]", item.originalLabel || "");
@@ -186,7 +187,7 @@
       setOptional(root, "[data-topic-note]", item.note ? "읽는 포인트 — " + item.note : "");
       setOptional(root, "[data-topic-edition]", item.edition ? "출전·판본 — " + item.edition : "");
       setLink(root, "[data-topic-link]", item.href, "관련 원문·해설 보기 →");
-      setLink(root, "[data-topic-reference]", item.reference, "원문 자료 확인 ↗");
+      setLink(root, "[data-topic-reference]", item.reference, item.referenceLabel || "원문 자료 확인 ↗");
     }
 
     const dateNode = root.querySelector("[data-topic-date]");
