@@ -1,4 +1,4 @@
-/* Daily Korean medicine learning cards. No network, storage, or third-party dependencies. */
+/* Daily Korean medicine learning cards. No network or storage. */
 (function () {
   "use strict";
 
@@ -190,23 +190,68 @@
     if (countNode) countNode.textContent = "오늘의 카드 " + (dayIndex + 1) + " / " + cards.length;
   };
 
+  const reader = window.MinseongDailyReader;
+  const initialized = new WeakSet();
+  let offset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
+
+  const update = function (widget) {
+    render(widget, offset);
+    const date = kstDate(offset).toISOString().slice(0, 10);
+    const picker = widget.querySelector("[data-km-day-picker]");
+    if (picker) picker.value = date;
+    const todayButton = widget.querySelector("[data-km-today]");
+    if (todayButton) todayButton.disabled = offset === 0;
+    const fallback = widget.querySelector("[data-km-copy-fallback]");
+    if (fallback) fallback.hidden = true;
+  };
+
+  const changeDay = function (next) {
+    const date = reader.dateFor(next);
+    if (!date || !reader.parseDate(date.toISOString().slice(0, 10))) return;
+    offset = next;
+    const url = new URL(window.location.href);
+    if (offset === 0) url.searchParams.delete("date");
+    else url.searchParams.set("date", date.toISOString().slice(0, 10));
+    window.history.replaceState(null, "", url);
+    window.dispatchEvent(new CustomEvent("daily-km-offset", {detail: {offset: offset}}));
+  };
+
+  window.addEventListener("daily-km-offset", function (event) {
+    const next = event.detail && Number(event.detail.offset);
+    if (!Number.isInteger(next) || !reader.dateFor(next)) return;
+    offset = next;
+    document.querySelectorAll("[data-daily-km]").forEach(update);
+  });
+
   const init = function () {
     document.querySelectorAll("[data-daily-km]").forEach(function (widget) {
-      let offset = 0;
-      render(widget, offset);
+      update(widget);
+      if (initialized.has(widget)) return;
+      initialized.add(widget);
       widget.querySelectorAll("[data-km-shift]").forEach(function (button) {
-        button.addEventListener("click", function () {
-          offset += Number(button.getAttribute("data-km-shift"));
-          render(widget, offset);
-          window.dispatchEvent(new CustomEvent("daily-km-offset", {detail: {offset: offset}}));
-        });
+        button.addEventListener("click", function () { changeDay(offset + Number(button.getAttribute("data-km-shift"))); });
+      });
+      const picker = widget.querySelector("[data-km-day-picker]");
+      if (picker) picker.addEventListener("change", function () {
+        const next = reader.offsetFor(picker.value);
+        if (next !== null) changeDay(next);
+        else update(widget);
+      });
+      const todayButton = widget.querySelector("[data-km-today]");
+      if (todayButton) todayButton.addEventListener("click", function () { changeDay(0); });
+      const share = widget.querySelector("[data-km-share-date]");
+      if (share) share.addEventListener("click", function () {
+        const url = new URL("/daily-korean-medicine/", window.location.origin);
+        url.searchParams.set("date", kstDate(offset).toISOString().slice(0, 10));
+        reader.copyLink(url.href, widget.querySelector("[data-km-copy-fallback]"), widget.querySelector("[data-km-share-status]"));
       });
     });
   };
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", init);
+    document.addEventListener("DOMContentLoaded", init, { once: true });
   } else {
     init();
   }
+  if (typeof document$ !== "undefined") document$.subscribe(init);
 })();
