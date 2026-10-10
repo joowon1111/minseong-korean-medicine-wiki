@@ -9,7 +9,7 @@ last_reviewed: '2026-09-15'
 
 침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**을 먼저 읽고, 경혈·자극·횟수·비교군을 따라 실제 치료 조건을 확인하는 자료입니다.
 
-→ [한약·침·추나·약침 핵심 성과 30편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
+→ [침 대표 연구·효과 크기·국제 지침](../authority/acupuncture.md#acupuncture-key-results) · [한약·침·추나·약침 핵심 성과 30편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
 
 ## 만성통증 효과와 지속성을 확인한 개인자료 메타분석 {#chronic-pain-ipd}
 
