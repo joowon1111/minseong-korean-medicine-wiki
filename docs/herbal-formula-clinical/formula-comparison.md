@@ -22,13 +22,13 @@ description: 사군자탕·육군자탕·향사육군자탕, 사물탕·팔물�
 
 ## 사군자탕·육군자탕·향사육군자탕 {#digestive-family}
 
-《시방가괄》 권상 「보가부약」은 육군자탕에 「加木香砂仁各八分。以行氣消脹」이라 기록합니다. **목향·사인을 각 8분 더하여 기를 움직이고 팽만을 해소한다**는 뜻입니다. 약미가 많아질수록 무조건 더 좋은 처방이 된다는 순서가 아니라, 비위기허에 담습·기체가 얼마나 겹치는가를 설명합니다. [대조 수록본·앞선 사군자와 육군자의 약량](../formulas/xiangsha-liujunzi-tang.md#source-dose-original)
+《시방가괄》 권상 「보가부약」은 육군자탕에 「加木香砂仁各八分。以行氣消脹」이라 기록합니다. **목향·사인을 각 8푼 더하여 기를 움직이고 팽만을 해소한다**는 뜻입니다. 약미가 많아질수록 무조건 더 좋은 처방이 된다는 순서가 아니라, 비위기허에 담습·기체가 얼마나 겹치는가를 설명합니다. [대조 수록본·앞선 사군자와 육군자의 약량](../formulas/xiangsha-liujunzi-tang.md#source-dose-original)
 
 | 처방·대조 출전 | 공통 골격과 달라지는 배합 | 원문을 현재 증상과 함께 읽기 |
 |---|---|---|
 | [사군자탕·국방](../formulas/sijunzi-tang.md#source-dose-original) | 인삼·백출·복령·자감초의 보기건비 | 식욕·식사량·피로·대변 등 비위허약의 바탕 |
 | [육군자탕·의학심오](../formulas/liujunzi-tang.md#source-dose-original) | 사군자의 골격에 반하·진피; 해당 수록본은 생강·대조도 사용 | 허약과 함께 오심·그득함·담습·상역이 있는가 |
-| [향사육군자탕·시방가괄](../formulas/xiangsha-liujunzi-tang.md#source-dose-original) | 육군자의 골격에 목향·사인; 두 약은 각 8분 | 식후 팽만·트림·기체를 함께 다룰 필요가 있는가 |
+| [향사육군자탕·시방가괄](../formulas/xiangsha-liujunzi-tang.md#source-dose-original) | 육군자의 골격에 목향·사인; 두 약은 각 8푼 | 식후 팽만·트림·기체를 함께 다룰 필요가 있는가 |
 
 **주된 차이:** 반하는 화담·강역, 진피는 이기·조습, 목향·사인은 행기와 중초의 습체 조절을 더합니다. 같은 반하·진피를 쓰는 [이진탕](../formulas/erchen-tang.md)은 담습을 다루는 출발점이고, 육군자탕은 인삼·백출을 포함한 보기건비가 바탕입니다. [사군자와 육군자의 상세 비교](../compare/sijunzi-vs-liujunzi.md#pinellia-citrus)로 이어집니다.
 
@@ -41,9 +41,9 @@ description: 사군자탕·육군자탕·향사육군자탕, 사물탕·팔물�
 | 처방·대조 출전 | 기본 배합과 상대비 | 구분하는 임상 문맥 |
 |---|---|---|
 | [사물탕·국방](../formulas/siwu-tang.md#source-dose-original) | 숙지황·백작약·당귀·천궁 각 등분 | 혈허의 바탕에 혈행 조절을 함께 둠 |
-| [팔물탕·만병회춘의 팔진탕](../formulas/bazhen-tang.md#source-dose-original) | 사군자·사물의 여덟 약; 7미 각 1전·자감초 5분인 수록형 | 혈허와 함께 식사·기력 저하 등 기허가 겹침 |
+| [팔물탕·만병회춘의 팔진탕](../formulas/bazhen-tang.md#source-dose-original) | 사군자·사물의 여덟 약; 7미 각 1돈·자감초 5푼인 수록형 | 혈허와 함께 식사·기력 저하 등 기허가 겹침 |
 | [십전대보탕·국방](../formulas/shi-quan-da-bu-tang.md#source-dose-original) | 팔물 계열에 황기·육계, 해당 원문은 10미 등분 | 기혈양허에 허한·소모의 문맥을 함께 살핌 |
-| [인삼양영탕·국방](../formulas/renshen-yangrong-tang.md#source-dose-original) | 십전과 비교하면 천궁이 없고 진피·오미자·원지가 있음; 백작약 3량, 인삼·황기·당귀 등 각 1량 | 오래된 허손에 식욕저하·심계·건조·숨참 등이 함께 기록됨 |
+| [인삼양영탕·국방](../formulas/renshen-yangrong-tang.md#source-dose-original) | 십전과 비교하면 천궁이 없고 진피·오미자·원지가 있음; 백작약 3냥, 인삼·황기·당귀 등 각 1냥 | 오래된 허손에 식욕저하·심계·건조·숨참 등이 함께 기록됨 |
 
 인삼양영탕 원문은 「心虛驚悸，咽乾唇燥，飲食無味」, 곧 **심계와 놀람, 목·입술의 건조, 음식 맛이 없는 상태**를 허손의 문맥에 놓습니다. 진피의 이기, 오미자의 수렴, 원지의 안신과 백작약의 높은 비중을 함께 보면 십전대보탕에 약재 세 개를 단순히 더한 처방으로 설명하기 어려운 이유가 드러납니다. [주치·약량·제법 상세](../formulas/renshen-yangrong-tang.md#fatigue-original-ratio)
 
