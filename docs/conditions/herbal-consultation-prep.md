@@ -76,6 +76,8 @@ keywords: [한약 상담 준비, 보약 상담 준비, 한의원 갈 때 검사�
 
 추가 검사 항목·시기는 모든 사람에게 똑같이 정하지 않고 현재 질환과 처방·복용기간·위험도에 맞춰 상담합니다. 결과의 큰 흐름은 [건강검진 후 안내](herbal-medicine-after-checkup.md#checkup-map)에서 볼 수 있습니다.
 
+대사·간·콩팥 검사 이상을 상담한다면 [검진 허브의 검사 차이](../pillar/metabolic-checkup.md#test-meaning), [변증·치료](../pillar/metabolic-checkup.md#_6), [병용 계획](../pillar/metabolic-checkup.md#medicine-plan)도 함께 준비할 수 있습니다.
+
 → [검사는 정상인데 피로가 계속될 때](normal-checkup-fatigue.md)
 
 ## 상황에 따라 먼저 알려주세요 {#safety-before-visit}
