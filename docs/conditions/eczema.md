@@ -69,6 +69,7 @@ last_reviewed: 2026-09-06
 
 ## 기존 지식망과 연결
 
+- [피부·두피·모발 허브 — 발진 감별과 피부관리](../pillar/skin-hair.md#rash-differences)
 - [증상·질환 한눈에 보기](index.md)
 - [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 - [침구·치료 찾기](../acupuncture-integrated/by-symptom.md)

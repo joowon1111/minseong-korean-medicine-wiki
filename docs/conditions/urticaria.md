@@ -109,6 +109,7 @@ last_reviewed: 2026-09-21
 
 ## 기존 지식망과 연결
 
+- [피부·두피·모발 허브 — 발진의 모양과 시간 경과](../pillar/skin-hair.md#rash-differences)
 - [비염](rhinitis.md)
 - [면역·알레르기 안내](../immune-allergy/index.md)
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)

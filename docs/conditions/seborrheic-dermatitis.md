@@ -98,6 +98,7 @@ last_reviewed: 2026-09-21
 
 ## 기존 지식망과 연결
 
+- [피부·두피·모발 허브 — 두피 염증과 모발 감소의 구분](../pillar/skin-hair.md#scalp-hair)
 - [가려움증·소양증](pruritus.md) · [아토피피부염](atopic-dermatitis.md) · [여드름·성인여드름](acne.md)
 - [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [형개연교탕](../formulas/jingjie-lianqiao-tang.md) · [소풍산](../formulas/xiaofeng-san.md)
 - [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
