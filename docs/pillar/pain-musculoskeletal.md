@@ -10,7 +10,7 @@ last_reviewed: 2026-09-20
 
 통증은 부위만 보는 것이 아니라 **발병 계기, 움직임과 자세, 시간대, 냉온 반응, 방사통, 부종, 근력과 감각 변화**를 함께 확인합니다. 한의학적으로는 비증·어혈·한습·기혈허·간신부족 등의 비중을 살펴 치료 방향을 정합니다.
 
-만성통증에서는 국소 조직뿐 아니라 수면·활동·대사와 신경-면역 상호작용도 함께 살펴볼 수 있습니다. → [면역·만성염증·통증과 회복 지식망](../immune-allergy/inflammation-pain.md)
+만성통증에서는 국소 조직뿐 아니라 수면·활동·대사와 신경-면역 상호작용도 함께 살펴볼 수 있습니다. [조직·신경·통각 처리의 구분](../immune-allergy/inflammation-pain.md#pain-mechanisms), [중추 감작과 통각가소성 통증](../immune-allergy/inflammation-pain.md#3), [통증·기능 경과표](../immune-allergy/inflammation-pain.md#pain-followup)를 연결해 원인과 회복 목표를 살핍니다.
 
 ## 아픈 부위로 찾기
 

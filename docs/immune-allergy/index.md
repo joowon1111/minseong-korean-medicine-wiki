@@ -63,6 +63,8 @@ last_reviewed: 2026-09-06
 
 CRP·ESR, 백혈구, IgE, NK세포 활성도 등 한 가지 수치로 면역 전체를 평가하지 않습니다. 검사 목적은 현재 증상과 진료 판단에 따라 정합니다. [염증수치 해석](../conditions/inflammation-markers.md)
 
+통증이 주된 불편이면 [염증수치와 실제 통증](inflammation-pain.md#markers-and-pain)을 구분하고, [통증·기능·수면의 경과 기록](inflammation-pain.md#pain-followup)을 함께 봅니다.
+
 ## 생활 관리와 진료 연결 {#care}
 
 규칙적인 수면, 충분한 식사와 단백질, 꾸준한 활동과 근력 유지, 예방접종, 금연·절주, 구강·비강 관리를 기본으로 합니다. 면역억제제·항암치료 중이거나 자가면역질환이 있다면 기존 치료 계획과 한약·건강기능식품을 함께 확인합니다.

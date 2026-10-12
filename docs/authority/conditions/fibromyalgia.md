@@ -23,6 +23,8 @@ last_reviewed: 2026-09-06
 
 새로 생긴 근력저하·발열·뚜렷한 관절 부종·원인불명 체중감소는 별도로 평가합니다. 이전에 섬유근육통 진단을 받았어도 새로운 증상을 모두 같은 원인으로 넘기지 않습니다.
 
+[중추 감작·통각가소성 통증의 구분](../../immune-allergy/inflammation-pain.md#3)에서 통증 처리의 개념을 확인하고, [통증·수면·활동 경과표](../../immune-allergy/inflammation-pain.md#pain-followup)로 생활기능을 함께 기록할 수 있습니다.
+
 ## 통증·수면·활동을 함께 회복하기 {#fibromyalgia-care}
 
 교육, 몸 상태에 맞는 운동, 수면 관리, 필요한 약물과 통증 대처 전략을 함께 구성합니다. 낮은 강도의 활동부터 시작해 반응을 살피고, 좋은 날 한꺼번에 무리한 뒤 오래 쉬는 패턴을 줄입니다. 인지행동치료는 통증을 부정하는 것이 아니라 통증을 다루는 기술과 생활 회복을 돕는 방법입니다. [NIAMS 치료·생활관리](https://www.niams.nih.gov/health-topics/fibromyalgia/diagnosis-treatment-and-steps-to-take)
