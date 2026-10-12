@@ -7,6 +7,8 @@ last_reviewed: 2026-09-06
 ---
 # 과다월경·월경과다 — 생리양이 많고 오래가요·빈혈과의 연결
 
+출혈·통증·주기 변화를 함께 살피려면 [여성건강 허브](../pillar/womens-health.md#_5), 진료 전 기록은 [증상 일지와 경과관찰](../pillar/womens-health.md#symptom-follow-up)을 참고하세요.
+
 ## 환자가 이렇게 검색할 수 있습니다
 
 - 생리양이 너무 많아요
