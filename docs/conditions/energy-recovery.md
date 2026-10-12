@@ -77,7 +77,7 @@ related_reading:
 | 수면 | 야간 각성, 기상 뒤 회복감 |
 | 생활기능 | 걷기·가사·업무 등 실제 가능한 활동 |
 
-복용 기간과 재평가 시점은 개인의 상태에 맞춰 정합니다. 새로운 불편이나 기존 증상의 악화도 함께 기록하고, [만성피로의 경과 평가](chronic-fatigue.md#follow-up)와 연결해 봅니다.
+회복 목표와 유지·조정·종료의 판단은 [보익 허브의 치료 반응 안내](../pillar/tonic-recovery.md#_8)에서 함께 비교할 수 있습니다. 복용 기간과 재평가 시점은 개인의 상태에 맞춰 정합니다. 새로운 불편이나 기존 증상의 악화도 함께 기록하고, [만성피로의 경과 평가](chronic-fatigue.md#follow-up)와 연결해 봅니다.
 
 피로의 변화는 [하루 한 줄 복용·활동 기록표](herbal-followup.md#daily-record)에 적고, 진료 전에는 [증상·복용약 준비표](herbal-consultation-prep.md#visit-checklist)를 함께 확인하세요.
 
