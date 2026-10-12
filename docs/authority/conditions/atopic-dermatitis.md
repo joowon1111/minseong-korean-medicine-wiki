@@ -35,3 +35,5 @@ Cheng 등의 2011년 이중눈가림 무작위시험은 난치성 아토피 환�
 가려움은 팽진의 시간 경과, 건조·각질·진물, 접촉 자극을 구분해 평가합니다. 청열·제습·양혈의 전통적 맥락과 피부장벽·수면·기본 치료를 함께 연결합니다.
 
 [가려움증·소양증](../../conditions/pruritus.md) · [두드러기](../../conditions/urticaria.md) · [아토피피부염](../../conditions/atopic-dermatitis.md) · [습진·접촉피부염](../../conditions/eczema.md)
+
+피부질환 전반의 감별·병행 치료·경과 기록은 [피부·두피·모발 허브](../../pillar/skin-hair.md#clinical-evidence)에서 함께 읽을 수 있습니다.

@@ -87,6 +87,7 @@ last_reviewed: 2026-09-06
 
 ## 기존 지식망과 연결
 
+- [피부·두피·모발 허브 — 보습·외용제와 병행 치료](../pillar/skin-hair.md#daily-care)
 - [비염](rhinitis.md)
 - [만성피로](chronic-fatigue.md)
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
