@@ -108,4 +108,6 @@ last_reviewed: 2026-09-21
 
 저녁 카페인·음주·수분 집중 섭취와 감기약 등 복용약을 검토합니다. 무조건 수분을 크게 줄이기보다 시간과 양을 조절하고, 복용약 뒤 어지럼이나 배뇨 변화가 생기면 처방 의료진과 조율합니다.
 
+[배뇨·성기능·골반통을 함께 살피는 허브](../pillar/urology-mens-health.md#urinary-patterns)에서 초기 평가와 목표별 경과관찰을 이어볼 수 있습니다.
+
 → [전립선·배뇨불편](prostate-urinary-symptoms.md) · [남성갱년기·기력저하](male-menopause.md) · [남성 비뇨기 임상근거](../authority/conditions/male-urologic-evidence-map.md)

@@ -64,6 +64,8 @@ last_reviewed: 2026-09-06
 
 [배뇨 경혈](../acupuncture-integrated/points-for-urinary.md)과 원인별 치료를 연결해 **야간 횟수뿐 아니라 첫 연속 수면시간·재입면·낮 피로**를 비교합니다. 혈뇨·요폐·발열·심한 숨참이 생기면 일지 관찰만 이어가지 말고 진료를 받습니다.
 
+[비뇨·배뇨 허브의 3일 일지](../pillar/urology-mens-health.md#bladder-diary)에서 기록 항목을 확인하고, 야간 소변량·배출·수면의 평가를 함께 준비할 수 있습니다.
+
 ## 기존 지식망과 연결
 
 - [전립선·배뇨불편](prostate-urinary-symptoms.md)
