@@ -1,0 +1,36 @@
+3D 경혈 지도 — 데이터·코드 출처
+
+BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International.
+License: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+Dataset: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html
+https://creativecommons.org/licenses/by/4.0/
+BodyParts3D는 성인 남성 참고 해부 모형이며 개인별 해부학을 재현하지 않습니다.
+
+Geometry adaptation: human-atlas (ashemag/human-atlas) based geometry, as identified in the user-provided HTML.
+https://github.com/ashemag/human-atlas/blob/main/public/ATTRIBUTION.md
+The supplied HTML packs simplified, quantized geometry into layer buckets. This integration separates the buckets into model.json, retains the supplied geometry and approximate surface coordinates, and connects point descriptions to the archive. It does not certify coordinates or add needle paths.
+
+Original HTML credit: 바밤바와누가바
+User-provided reference: 3D경혈동인ver261009_2.html
+The original credit is preserved; no additional authorship or rights claim is made.
+
+Point descriptions and source links: existing Minseong archive acupoint discovery data. Follow each point's source links for provenance. Approximate display coordinates come from the supplied HTML, not from a verified 3D coordinate standard.
+Location data attribution: KM-Agent (Won-Yung Lee and coauthors), CC BY 4.0, https://github.com/wonyung-lee/km-agent/blob/main/LICENSE
+
+Three.js embedded distribution: Copyright 2010-2021 Three.js Authors, MIT.
+https://github.com/mrdoob/three.js/blob/r128/LICENSE
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to
+do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
