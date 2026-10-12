@@ -97,6 +97,8 @@ ICSI는 정자를 난자 안에 주입해 특정 수정 문제를 보완하지�
 ### 정액검사 개선은 곧 임신 확률 개선인가요?
 같지 않습니다. 여성·난관·배아·시도 기간과 함께 보아야 하며 생아출산 자료를 별도로 확인합니다.
 
+[비뇨·남성건강 허브](../pillar/urology-mens-health.md#male-fertility)에서 성기능·호르몬·배뇨 문제와 임신 준비를 함께 살피고 검사 결과를 진료에 준비할 수 있습니다.
+
 ## 안전·관련 자료
 
 급성 고환통·부종·발열은 전문 진료가 우선입니다. 한약은 기저 간·신장질환·혈압·항응고제·호르몬 치료와 전체 구성을 확인합니다. [부부 초진표](../womens-health/fertility-intake.md) · [난임 허브](infertility-preconception.md) · [IUI·IVF](assisted-reproduction-support.md)
