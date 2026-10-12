@@ -184,7 +184,7 @@ test('short review requires a complete pair and is searchable without changing c
   assert.deepEqual(reader.reviewFor({reviewQuestion:' 질문 ',reviewAnswer:' 풀이 '}), {question:'질문',answer:'풀이'});
   for (const topic of ['points','herbs','shanghan','sasang']) {
     const enriched = data[topic].filter(item => reader.reviewFor(item));
-    assert.equal(enriched.length, 24, topic);
+    assert.equal(enriched.length, topic === "points" ? 24 : 36, topic);
     assert(enriched.every(item => item.related && item.related.length));
   }
   const hegu = reader.search(data,'points','합곡 사관혈');
