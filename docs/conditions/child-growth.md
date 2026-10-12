@@ -46,6 +46,7 @@ last_reviewed: 2026-09-06
 
 ## 함께 읽는 소아 자료
 
+- [소아·성장·면역 허브 — 성장과 생활의 연결](../pillar/pediatrics.md#growth-curve)
 - [성장보약·아이 보약](child-parent-tonic-guide.md)
 - [소아 식욕부진](child-poor-appetite.md)
 - [아이 피로·기력저하](child-fatigue.md)

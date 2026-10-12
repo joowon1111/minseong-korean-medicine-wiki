@@ -71,6 +71,7 @@ last_reviewed: 2026-09-06
 
 ## 기존 지식망과 연결
 
+- [소아·성장·면역 허브 — 식사·배변과 경과 기록](../pillar/pediatrics.md#appetite-bowel)
 - [증상·질환 한눈에 보기](index.md)
 - [한약·방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 - [침구·치료 찾기](../acupuncture-integrated/by-symptom.md)
