@@ -59,6 +59,8 @@ status: 검토완료
 
 ## 함께 읽기
 
+계지탕을 먹은 뒤의 돌봄과 반응 관찰은 [계지탕 한 사발 뒤에 이어진 따뜻한 죽](guizhi-warm-rice-gruel.md)에서 읽을 수 있다. 같은 『상한론』에서도 약을 쓰기 전후의 몸 상태에 따라 다음 단계가 달라진다.
+
 [상한론 29조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-029)에서 처방 구성을, [30조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-030)에서 치료 뒤의 재판단을 이어 읽을 수 있다. 현대 연구의 대상과 한계는 [작약감초탕 임상근거 카드](../authority/formulas/shakuyaku-kanzo-tang-update.md)에서 확인한다.
 
 ## 출전과 참고 자료

@@ -49,6 +49,8 @@ last_reviewed: 2026-08-19
 
 [12조의 복법 전체](clauses/taiyang-upper.md#clause-012)와 [마황탕의 미한·불수철죽](mahuang-indication.md#administration-comparison)을 대조하면, 복법이 모든 해표방에 동일하지 않음을 알 수 있습니다.
 
+일반 독자를 위한 [계지탕과 따뜻한 죽 이야기](../../classical-stories/guizhi-warm-rice-gruel.md)에서는 방후문의 음식·온복·관찰·중지 조건을 순서대로 따라 읽습니다.
+
 ### 가감·합방이 필요한 조문 조건 {#derived-formulas}
 
 | 조문·처방 | 계지탕에서 달라진 점 | 판단의 중심 |
