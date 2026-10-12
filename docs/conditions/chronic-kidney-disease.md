@@ -292,6 +292,8 @@ CKD 단계와 영양상태에 맞춰 양을 조절합니다. 과도한 고단백
 
 짧은 기간의 크레아티닌 변동 하나보다 eGFR 감소 속도가 완만해지는지, uACR·단백뇨와 혈압이 낮아지는지, 전해질과 영양상태가 안정적인지를 함께 봅니다.
 
+[대사·검진 허브](../pillar/metabolic-checkup.md#test-meaning)에서 혈압·혈당·지질과 콩팥 검사를 묶어 보고, [병용약·한약 계획](../pillar/metabolic-checkup.md#medicine-plan)과 기록을 준비할 수 있습니다.
+
 ## 함께 보면 좋은 문서
 
 - [건강검진 고혈압](high-blood-pressure-checkup.md)
