@@ -41,6 +41,8 @@ description: 생강(生薑) — 본초의 성미·귀경·효능·병증·배합
 
 생강과 건강을 한 처방 안에 함께 적은 실제 구성은 [생강사심탕의 배합 이야기](../classical-stories/ginger-fresh-dried.md)에서 읽습니다. 반하사심탕과 비교하면 가공 상태뿐 아니라 처방 안의 비중이 어떻게 달라지는지 확인할 수 있습니다.
 
+계지탕에서 생강·대조를 함께 풀이한 성무기의 방론과 복약 뒤 돌봄은 [계지탕과 따뜻한 죽 이야기](../classical-stories/guizhi-warm-rice-gruel.md)에서 이어 읽을 수 있습니다.
+
 ## 관련 핵심 문서
 
 - [본초 찾기](../herbal-integrated/herbs.md)
