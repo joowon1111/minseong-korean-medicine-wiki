@@ -395,3 +395,10 @@
   .md-typeset:has(.ms-home) .ms-card span { font-size: .7rem; }
   .md-typeset:has(.ms-home) .ms-card-icon { width: .95rem; height: .95rem; }
 }
+
+/* Optional short-answer review, collapsed until the reader chooses to reveal it. */
+.daily-km-answer { margin: .55rem 0; padding: .6rem .75rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .55rem; font-size: .8rem; line-height: 1.8; }
+.daily-km-answer[hidden] { display: none; }
+.daily-km-answer summary { cursor: pointer; font-weight: 700; }
+.daily-km-answer summary:focus-visible { outline: 2px solid var(--md-primary-fg-color); outline-offset: 3px; }
+.daily-km-answer p { margin: .55rem 0 0; overflow-wrap: anywhere; }

@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261010-yangsheng-more";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261012-daily-growth";
   let dataPromise, yangshengPromise;
   const reader = window.MinseongDailyReader;
   let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
@@ -129,7 +129,7 @@
   }
 
   function loadAlmanac() {
-    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261010-yangsheng-more", {credentials: "same-origin"})
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261012-daily-growth", {credentials: "same-origin"})
       .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); })
       .then(function (data) {
         if (!Array.isArray(data.cards) || !data.cards.length || !data.sources || !data.modern ||
@@ -240,7 +240,14 @@
       shanghan: "조문에서 빠뜨리면 안 되는 증후와 조건을 짚어 보세요.",
       sasang: "평소 소증과 현재 병증, 비슷한 처방의 갈림점을 구분해 보세요."
     };
-    setText(root, "[data-topic-review]", "복습 포인트 — " + (item.review || reviews[topic]));
+    const review = reader.reviewFor(item);
+    setText(root, "[data-topic-review]", review ? "짧은 복습 — " + review.question : "복습 포인트 — " + (item.review || reviews[topic]));
+    const answerBox = root.querySelector("[data-topic-answer-box]");
+    if (answerBox) {
+      answerBox.open = false;
+      answerBox.hidden = !review;
+      setText(answerBox, "[data-topic-answer]", review ? review.answer : "");
+    }
     const quiz = { points: "acupoints", herbs: "herbs", shanghan: "shanghanlun", sasang: "sasang" };
     setLink(root, "[data-topic-quiz]", "/learning/" + quiz[topic] + "/", reader.labels[topic] + " 학습·퀴즈 →");
 
@@ -277,6 +284,7 @@
       if (almanacReady.has(root)) return;
       almanacReady.add(root);
       const query = root.querySelector("[data-almanac-query]"), season = root.querySelector("[data-almanac-season]");
+      const topic = root.querySelector("[data-almanac-topic]");
       const results = root.querySelector("[data-almanac-results]"), status = root.querySelector("[data-almanac-status]");
       const more = root.querySelector("[data-almanac-more]"), preview = root.querySelector("[data-almanac-preview]");
       const previous = root.querySelector("[data-almanac-previous]"), next = root.querySelector("[data-almanac-next]");
@@ -286,13 +294,21 @@
       let selected = null, limit = 12, copyVersion = 0;
       loadAlmanac().then(function (data) {
         if (!root.isConnected) return;
-        function hits() { return reader.searchAlmanac(data, season.value, query.value); }
+        if (topic) {
+          Object.entries(data.topics || {}).forEach(function (entry) {
+            const option = document.createElement("option");
+            option.value = entry[0]; option.textContent = entry[1]; topic.append(option);
+          });
+          topic.disabled = false;
+          topic.addEventListener("change", updateSearch);
+        }
+        function hits() { return reader.searchAlmanac(data, season.value, query.value, topic ? topic.value : "all"); }
         function clearCopy() { copyVersion += 1; copyStatus.textContent = ""; linkFallback.hidden = true; textFallback.hidden = true; }
         function renderResults(reset) {
           if (reset) limit = 12;
           const items = hits();
           status.textContent = items.length ? items.length + "개 중 " + Math.min(limit, items.length) + "개 표시"
-            : "일치하는 문구가 없습니다. 계절이나 검색어를 바꿔 보세요.";
+            : "일치하는 문구가 없습니다. 계절·생활 주제·검색어를 바꿔 보세요.";
           results.replaceChildren();
           items.slice(0, limit).forEach(function (item) {
             const li = document.createElement("li"), button = document.createElement("button");
@@ -373,6 +389,7 @@
             const current = reader.seasonalCard(kstDate(dayOffset), data);
             if (!current) return;
             root.open = true; query.value = ""; season.value = "all"; limit = 12;
+            if (topic) topic.value = "all";
             showItem(current.item, true);
           });
         }
