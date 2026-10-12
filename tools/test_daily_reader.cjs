@@ -106,12 +106,12 @@ test('seasonal almanac follows Korean month boundaries and stays continuous acro
   assert.equal(first.index, (last.index+1)%last.count);
   assert.equal(reader.seasonalCard(new Date(NaN),almanac),null);
   assert.equal(reader.seasonalCard(reader.parseDate('2026-03-01'),{cards:[]}),null);
-  assert.equal(almanac.cards.length,144);
-  assert.equal(new Set(almanac.cards.map(c=>c.practice)).size,144);
-  assert.equal(new Set(almanac.cards.map(c=>c.line)).size,144);
+  assert.equal(almanac.cards.length,192);
+  assert.equal(new Set(almanac.cards.map(c=>c.practice)).size,192);
+  assert.equal(new Set(almanac.cards.map(c=>c.line)).size,192);
   for (const season of ['spring','summer','autumn','winter']) {
     const cards=almanac.cards.filter(c=>c.season===season);
-    assert.equal(cards.length,36);
+    assert.equal(cards.length,48);
     for (const card of cards) {
       assert(card.line && card.theme && card.practice && almanac.sources[card.source]);
       if(card.modern) assert(almanac.modern[card.modern]);
@@ -138,26 +138,26 @@ test('almanac source links reach both classical archive hubs and each season inc
 
 test('almanac identifiers remain tied to content when order changes and invalid links fail closed', () => {
   const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
-  assert.equal(new Set(almanac.cards.map(item => item.id)).size,144);
+  assert.equal(new Set(almanac.cards.map(item => item.id)).size,192);
   const reversed = {...almanac,cards:[...almanac.cards].reverse()};
   for(const item of almanac.cards) {
     assert.equal(reader.almanacFrom(item.id,reversed),item);
     assert.equal(reader.almanacFrom(item.id,almanac),item);
   }
-  for(const id of ['spring-00','spring-37','spring-1','autumn-01x','spring-01/','unknown-01','__proto__',null]) {
+  for(const id of ['spring-00','spring-49','spring-1','autumn-01x','spring-01/','unknown-01','__proto__',null]) {
     assert.equal(reader.almanacFrom(id,almanac),null);
   }
 });
 
 test('almanac search combines season with original, gloss, practical action and book terms', () => {
   const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
-  assert.equal(reader.searchAlmanac(almanac,'all','').length,144);
-  assert.equal(reader.searchAlmanac(almanac,'winter','').length,36);
+  assert.equal(reader.searchAlmanac(almanac,'all','').length,192);
+  assert.equal(reader.searchAlmanac(almanac,'winter','').length,48);
   const hits=reader.searchAlmanac(almanac,'autumn','동의보감 少勞');
-  assert.equal(hits.length,1);
-  assert.equal(hits[0].source,'gentle');
+  assert(hits.length >= 1);
+  assert(hits.every(item => item.source === 'gentle' && item.season === 'autumn'));
   assert(reader.searchAlmanac(almanac,'all','넓적다리').every(item=>item.source==='leg-movement'));
-  assert.equal(reader.searchAlmanac(almanac,'all','넓적다리').length,4);
+  assert.equal(reader.searchAlmanac(almanac,'all','넓적다리').length,5);
   assert.equal(reader.searchAlmanac(almanac,'all','식사 건너뛰거나')[0].season,'summer');
   assert.equal(reader.searchAlmanac(almanac,'autumn','동의보감 missing-word').length,0);
   assert.equal(reader.searchAlmanac(almanac,'all','<script>missing</script>').length,0);
@@ -175,4 +175,48 @@ test('copied almanac prose distinguishes lifestyle suggestions from attributed o
     assert(text.includes('출처 — '+source.label));
     assert(text.endsWith(source.href));
   }
+});
+
+test('short review requires a complete pair and is searchable without changing card identifiers', () => {
+  assert.equal(reader.reviewFor(null), null);
+  assert.equal(reader.reviewFor({reviewQuestion:'질문만'}), null);
+  assert.equal(reader.reviewFor({reviewQuestion:' ',reviewAnswer:'풀이'}), null);
+  assert.deepEqual(reader.reviewFor({reviewQuestion:' 질문 ',reviewAnswer:' 풀이 '}), {question:'질문',answer:'풀이'});
+  for (const topic of ['points','herbs','shanghan','sasang']) {
+    const enriched = data[topic].filter(item => reader.reviewFor(item));
+    assert.equal(enriched.length, 24, topic);
+    assert(enriched.every(item => item.related && item.related.length));
+  }
+  const hegu = reader.search(data,'points','합곡 사관혈');
+  assert(hegu.some(hit => data.points[hit.index].code === 'LI4'));
+  assert(reader.search(data,'shanghan','수증치지 현재').some(hit => hit.index === 15));
+  assert.deepEqual(reader.cardFrom('herbs-157',data),{topic:'herbs',index:156});
+});
+
+test('life topic, season and free text compose without losing original almanac links', () => {
+  const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  assert.equal(Object.keys(almanac.topics).length,6);
+  for (const item of almanac.cards) assert(almanac.topics[item.topic],item.id);
+  const allEyes = reader.searchAlmanac(almanac,'all','', 'senses');
+  assert(allEyes.length >= 4);
+  assert(allEyes.every(item => ['ear-eye','long-looking'].includes(item.source)));
+  const winterEyes = reader.searchAlmanac(almanac,'winter','', 'senses');
+  assert(winterEyes.length && winterEyes.every(item => item.season === 'winter'));
+  assert.equal(reader.searchAlmanac(almanac,'winter','', 'unknown').length,0);
+  assert(reader.searchAlmanac(almanac,'spring','산책의 출발점','movement').some(item => item.id === 'spring-37'));
+  assert.equal(reader.almanacFrom('spring-01',almanac).theme,'산책');
+  assert.equal(reader.almanacFrom('winter-48',almanac).season,'winter');
+});
+
+test('expansion keeps previously shared seasonal dates on their original reading cycle', () => {
+  const almanac = JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  const legacy = {...almanac,cards:almanac.cards.filter(item => !item.introducedOn)};
+  for (const date of ['2024-02-29','2026-03-01','2026-07-15','2026-10-11']) {
+    const old = reader.seasonalCard(reader.parseDate(date),legacy);
+    const current = reader.seasonalCard(reader.parseDate(date),almanac);
+    assert.equal(current.item.id,old.item.id,date);
+    assert.equal(current.count,36,date);
+  }
+  assert.equal(reader.seasonalCard(reader.parseDate('2026-10-12'),almanac).count,48);
+  for (const item of almanac.cards.filter(item => item.introducedOn)) assert(reader.parseDate(item.introducedOn));
 });

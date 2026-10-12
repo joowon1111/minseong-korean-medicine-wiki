@@ -128,6 +128,90 @@
       note: "갑작스러운 마비·언어장애, 심한 호흡곤란, 지속되는 심한 복통처럼 급격하거나 중대한 변화는 신속한 의료 평가를 먼저 연결합니다.",
       source: "질환별 건강정보와 위험신호",
       href: "/conditions/"
+    },
+    {
+      "line": "눈피로를 말할 때는 흐림과 건조를 나누어 보세요.",
+      "note": "작은 글씨가 흐린지, 따갑고 뻑뻑한지, 목·이마가 당기는지 구분하면 시력·눈물막·근육의 평가가 더 구체적입니다.",
+      "introducedOn": "2026-10-12",
+      "source": "눈피로·안구피로",
+      "href": "/conditions/eye-fatigue/"
+    },
+    {
+      "line": "눈과 입이 함께 마르면 두 곳의 기능을 함께 살펴요.",
+      "note": "눈물막과 눈꺼풀, 침샘과 구강 상태를 각각 확인하고 복용약·전신 증상과 연결해 원인을 평가합니다.",
+      "introducedOn": "2026-10-12",
+      "source": "안구건조와 전신 상태",
+      "href": "/conditions/dry-eye/"
+    },
+    {
+      "line": "침은 입안의 편안함과 치아를 함께 지킵니다.",
+      "note": "입마름이 지속되면 말하기·식사뿐 아니라 충치·점막 상태를 함께 살펴 구강 보호와 원인 평가를 이어갑니다.",
+      "introducedOn": "2026-10-12",
+      "source": "구강건조증·입마름",
+      "href": "/conditions/dry-mouth/"
+    },
+    {
+      "line": "두통이 잦다면 아픈 날과 약을 먹은 날을 따로 세어 보세요.",
+      "note": "월 두통일수·지속시간·급성기 약 복용일수와 업무 중단 정도를 나누면 치료 전후의 변화를 이해하기 쉽습니다.",
+      "introducedOn": "2026-10-12",
+      "source": "긴장형두통의 경과 평가",
+      "href": "/conditions/tension-headache/"
+    },
+    {
+      "line": "경혈의 여러 분류는 한 자리에서 함께 만날 수 있어요.",
+      "note": "원혈·오수혈·팔맥교회혈은 다른 분류 체계입니다. 한 경혈에 여러 속성이 있어도 소속·위치·배혈 역할을 나누어 읽습니다.",
+      "introducedOn": "2026-10-12",
+      "source": "특정혈 통합 아틀라스",
+      "href": "/acupuncture-specific/special-points-atlas/"
+    },
+    {
+      "line": "경혈의 이름과 실제 위치를 함께 기억해 보세요.",
+      "note": "같은 팔이나 발에 있는 경혈도 근육·힘줄·뼈의 표지가 다릅니다. 표준 위치와 주변 해부를 연결하면 이름만 외울 때보다 잘 구분됩니다.",
+      "introducedOn": "2026-10-12",
+      "source": "표준 경혈 아틀라스",
+      "href": "/acupoint-network/standard-atlas/"
+    },
+    {
+      "line": "본초의 첫 질문은 무엇을 쓰는가입니다.",
+      "note": "뿌리·뿌리줄기·껍질·꽃봉오리·열매처럼 약용 부위를 먼저 확인하고, 같은 식물 계열의 다른 본초와 구분합니다.",
+      "introducedOn": "2026-10-12",
+      "source": "본초의 약용 부위와 배합",
+      "href": "/herbal-integrated/herbs/"
+    },
+    {
+      "line": "계지와 육계는 이름의 한 글자보다 약용 부위로 구분합니다.",
+      "note": "계지의 가지와 육계의 줄기껍질, 전통 배합의 역할을 나누어 봅니다. 원전 약명과 실제 원료가 무엇인지 함께 확인합니다.",
+      "introducedOn": "2026-10-12",
+      "source": "계지와 온성 배합",
+      "href": "/herbs/cinnamon-twig/"
+    },
+    {
+      "line": "고전 조문은 결론 앞의 조건까지 함께 읽습니다.",
+      "note": "若·但·反·不得 같은 표현은 적용·분기·예외를 보여줍니다. 처방명만 기억하기보다 조건과 경과를 자신의 말로 풀어 보세요.",
+      "introducedOn": "2026-10-12",
+      "source": "상한론 조문 독해",
+      "href": "/shanghan-network/"
+    },
+    {
+      "line": "치료 뒤 달라진 몸은 다시 살펴야 합니다.",
+      "note": "상한론의 수증치지는 처음의 진단명보다 현재 맥증을 다시 보라는 독해 원칙입니다. 처방을 반복하기 전에 경과를 읽는 중요성을 보여줍니다.",
+      "introducedOn": "2026-10-12",
+      "source": "상한론 16조 · 수증치지",
+      "href": "/classics/shanghanlun/clauses/taiyang-upper/#clause-016"
+    },
+    {
+      "line": "태음병이라는 말은 문헌에 따라 체계가 달라집니다.",
+      "note": "상한론의 태음병과 사상의학의 소음인 리한병 안의 태음병을 구분합니다. 같은 글자를 보더라도 책과 병론을 먼저 확인합니다.",
+      "introducedOn": "2026-10-12",
+      "source": "소음인 태음병·소음병 비교",
+      "href": "/sasang-pattern-differential/soeumin-taeeum-vs-soeum/"
+    },
+    {
+      "line": "판본을 적으면 처방의 차이가 더 잘 보입니다.",
+      "note": "원방과 후대 가감방, 약미 수와 제형의 차이를 기록합니다. 같은 처방명이라도 모든 원료·용량·연구제품이 같다고 가정하지 않습니다.",
+      "introducedOn": "2026-10-12",
+      "source": "처방 출전·약미·배합",
+      "href": "/herbal-integrated/general-formulary/"
     }
   ];
 
@@ -169,8 +253,10 @@
 
   const render = function (widget, offset) {
     const date = kstDate(offset);
-    const dayIndex = ((dayNumber(date) % cards.length) + cards.length) % cards.length;
-    const card = cards[dayIndex];
+    const dateKey = date.toISOString().slice(0, 10);
+    const available = cards.filter(function (card) { return !card.introducedOn || card.introducedOn <= dateKey; });
+    const dayIndex = ((dayNumber(date) % available.length) + available.length) % available.length;
+    const card = available[dayIndex];
     const dateNode = widget.querySelector("[data-km-date]");
     const lineNode = widget.querySelector("[data-km-line]");
     const noteNode = widget.querySelector("[data-km-note]");
@@ -187,7 +273,7 @@
       sourceNode.textContent = card.source + "에서 이어 읽기 →";
       sourceNode.setAttribute("href", card.href);
     }
-    if (countNode) countNode.textContent = "오늘의 카드 " + (dayIndex + 1) + " / " + cards.length;
+    if (countNode) countNode.textContent = "오늘의 카드 " + (dayIndex + 1) + " / " + available.length;
   };
 
   const reader = window.MinseongDailyReader;
