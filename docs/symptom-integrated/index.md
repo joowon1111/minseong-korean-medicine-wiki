@@ -1,6 +1,6 @@
 ---
 title: 증상으로 찾기
-description: 아파요, 저려요, 부어요, 잠이 안 와요처럼 환자가 실제로 사용하는 표현에서 관련 증상 안내와 질환별 심화 문서로 이동하는 민성 한의학 아카이브의 증상 탐색 허브입니다.
+description: 아파요·저려요·잠이 안 와요·목소리가 쉬어요·숨이 차요 등 생활 표현에서 감별 안내, 질환별 문서와 수면·소화·호흡·순환·비뇨·회복의 최신 주제 허브로 이어가는 증상 탐색 입구입니다.
 tags:
 - 증상
 - 환자검색
@@ -11,7 +11,7 @@ tags:
 status: 검토완료
 last_reviewed: '2026-08-29'
 ---
-# 증상으로 찾기
+# 증상으로 찾기 {#_1}
 
 병명을 정확히 몰라도 괜찮습니다. **“입 벌릴 때 턱이 아파요”, “밤에 다리가 불편해요”, “손발이 저려요”, “몸이 자주 부어요”**처럼 지금 느끼는 불편에서 시작할 수 있습니다.
 
@@ -21,7 +21,8 @@ last_reviewed: '2026-08-29'
 |---|---|
 | 불편한 증상만 알고 있어요 | 이 페이지의 환자 표현에서 찾기 |
 | 진단명이나 의심 질환을 알고 있어요 | [질환별 보기](../conditions/index.md) |
-| R-code 증상군에서 한약·변증을 찾고 싶어요 | [증상 기반 한약 탐색](../symptom-herbal-guide/index.md) |
+| 증상군에서 한약·변증을 찾고 싶어요 | [증상 기반 한약 탐색](../symptom-herbal-guide/index.md) |
+| 여러 증상과 검사·치료를 함께 보고 싶어요 | [핵심 주제 허브](../pillar/index.md) |
 | 논문과 현대 임상근거를 보고 싶어요 | [질환별 현대 근거 카드](../authority/conditions/index.md) |
 
 ## 불편한 부위·상황으로 바로 찾기 {#symptom-routes}
@@ -45,7 +46,7 @@ last_reviewed: '2026-08-29'
 | 발목이 아파요 · 자주 접질려요 | [통증 증상 지도](pain.md) | [발목통증](../conditions/ankle-pain.md) |
 | 머리가 지끈거려요 · 뒷머리가 아파요 | [두통](pain.md#두통) | [두통](../conditions/headache.md) |
 
-통증의 위치뿐 아니라 움직임·자세·외상과의 관계를 함께 봅니다. 어깨가 잘 올라가지 않으면 [오십견](../conditions/frozen-shoulder.md)과 [회전근개 통증](../conditions/rotator-cuff-pain.md), 아침 첫발이 아프면 [뒤꿈치 통증](../conditions/heel-pain.md)을 비교하세요. 손이나 다리로 저림이 내려가면 아래 저림 안내도 함께 읽습니다.
+통증의 위치뿐 아니라 움직임·자세·외상과의 관계를 함께 봅니다. 어깨가 잘 올라가지 않으면 [오십견](../conditions/frozen-shoulder.md)과 [회전근개 통증](../conditions/rotator-cuff-pain.md), 아침 첫발이 아프면 [뒤꿈치 통증](../conditions/heel-pain.md)을 비교하세요. 손이나 다리로 저림이 내려가면 아래 저림 안내도 함께 읽습니다. [통증·근골격 허브](../pillar/pain-musculoskeletal.md#pattern-care-network)에서는 변증 감별과 한약·침·약침·재활의 역할, 기능 회복을 함께 확인합니다.
 
 ## 저림·경련·냉감·부종 {#_3}
 
@@ -68,9 +69,13 @@ last_reviewed: '2026-08-29'
 | 충분히 잤는데도 개운하지 않아요 | [수면·피로 증상 지도](sleep-fatigue.md) | [수면회복감 저하](../conditions/nonrestorative-sleep.md) |
 | 늘 피곤해요 · 기운이 없어요 | [만성피로](sleep-fatigue.md#만성피로기운이-없어요) | [만성피로](../conditions/chronic-fatigue.md) |
 | 걱정이 많고 긴장하면 몸이 굳어요 | [수면·긴장 증상 지도](sleep-fatigue.md) | [불안](../conditions/anxiety.md) · [긴장과 신체 증상](../conditions/anxiety-somatic.md) |
+| 머리가 멍하고 집중이 어려워요 | [졸림·피로·집중 저하 구분](../answer-guides/brain-fog-focus-guide.md#_4) | [브레인포그·평가와 회복](../answer-guides/brain-fog-focus-guide.md) |
+| 의욕·즐거움이 줄고 잠·식욕도 달라졌어요 | [기분·수면을 함께 보기](../pillar/sleep-neuro.md#mood-sleep-assessment) | [우울감·우울증](../conditions/depression.md) |
 | 수술이나 입원 뒤 기력이 회복되지 않아요 | [피로·회복 증상 지도](sleep-fatigue.md) | [수술 후 회복](../conditions/postoperative-recovery.md) · [퇴원 후 회복](../conditions/post-hospitalization-recovery.md) |
 
 잠이 드는 어려움, 중간에 깨는 문제, 자고 난 뒤 회복감은 나누어 기록합니다. 소변 때문에 깨면 [야간뇨](../conditions/nocturia.md), 감염 뒤 피로가 이어지면 [감염 후 피로](../conditions/post-viral-fatigue.md), 검사 결과는 정상인데 피곤하면 [정상 검사 이후 피로 평가](../conditions/normal-checkup-fatigue.md)로 이어갑니다.
+
+[수면·정서·신경 허브](../pillar/sleep-neuro.md#sleep-assessment)는 수면 기회·리듬·호흡·하지불안과 낮 기능을 나누어 보는 자료입니다. 수면 외 피로·섭취·활동 회복이 중심이면 [보익·피로·회복](../pillar/tonic-recovery.md)에서 원인 평가와 회복 계획을 확인합니다.
 
 ## 가슴답답함·두근거림·숨참 {#chest-breathing}
 
@@ -80,6 +85,9 @@ last_reviewed: '2026-08-29'
 | 심장이 세게 뛰거나 맥이 건너뛰는 느낌이에요 | [두근거림·심계](../conditions/palpitation.md) |
 | 계단을 오르거나 가만히 있을 때 숨이 차요 | [숨참·호흡곤란](../conditions/shortness-of-breath.md) |
 | 숨을 빠르게 쉬면서 손발이 저리고 어지러워요 | [과호흡](../conditions/hyperventilation.md) |
+| 일어설 때 아찔하고 쓰러질 듯해요 | [기립성 어지럼](../conditions/orthostatic-dizziness.md) |
+
+기침·가래·천명이 중심이면 [호흡기 허브](../pillar/respiratory-rhinitis-immune.md#cough-sputum-assessment), 심계·흉민·부종·혈압이 함께 걱정되면 [순환기·심혈관 허브](../pillar/circulation-cardiovascular.md#circulation-assessment)에서 필요한 평가를 비교합니다. 두 영역은 별도 입구이며 숨참의 원인이 겹칠 때 연결해 읽습니다.
 
 긴장할 때 나타난다는 이유만으로 불안·공황으로 단정하지 않습니다. **말하기 어려울 정도로 숨이 차거나, 가슴 통증·압박감에 식은땀·실신이 동반되면 119 또는 응급진료를 우선합니다.** [NHS 흉통 안내](https://www.nhs.uk/symptoms/chest-pain/) · [호흡곤란 안내](https://www.nhs.uk/symptoms/shortness-of-breath/)
 
@@ -97,6 +105,8 @@ last_reviewed: '2026-08-29'
 
 소화불량은 증상 이름이고, [기능성소화불량](../conditions/functional-dyspepsia.md)은 평가 후 판단하는 질환입니다. 신물·가슴쓰림이 중심이면 [역류 증상](../conditions/gerd.md), 식욕저하와 체중감소가 함께 있으면 [의도하지 않은 체중감소](../conditions/unintentional-weight-loss.md)를 읽습니다. 설사가 반복된다는 사실만으로 과민성장증후군을 확정하지 않습니다.
 
+간·담낭·췌장·위·소장·대장의 역할과 검사·본초·방제를 연결해 보려면 [소화·비위 허브](../pillar/digestion-spleen-stomach.md)를 이용합니다.
+
 ## 코·목·기침·귀 {#_6}
 
 | 이렇게 느껴요 | 먼저 볼 안내 | 관련 질환 심화 |
@@ -105,12 +115,16 @@ last_reviewed: '2026-08-29'
 | 코가 막히고 머리가 답답해요 | [코막힘](respiratory-rhinitis.md#코막힘축농증-느낌) | [비염](../conditions/rhinitis.md) · [부비동염](../conditions/sinusitis.md) |
 | 기침이 몇 주째 안 나아요 · 가래가 많아요 | [기침·가래](respiratory-rhinitis.md#기침이-오래가요) | [기침](../conditions/cough.md) |
 | 목이 아프고 삼키기 불편해요 | [인후통](respiratory-rhinitis.md#목이-자주-붓고-아파요) | [인후통](../conditions/sore-throat.md) · [감기](../conditions/common-cold.md) |
+| 목이 자주 붓고 아파요 | [반복 인후통의 원인](../conditions/recurrent-sore-throat.md) | [반복 인후통](../conditions/recurrent-sore-throat.md) |
+| 목소리가 쉬고 말하면 금방 피곤해요 | [후두·성대 평가](../conditions/hoarseness.md#laryngeal-assessment) | [쉰목소리·음성 관리](../conditions/hoarseness.md) |
 | 귀에서 소리가 나요 · 삐 소리가 계속돼요 | [자율신경·감각 증상 지도](autonomic-stress.md) | [이명](../conditions/tinnitus.md) |
 | 귀가 먹먹하고 막힌 느낌이에요 | [청력 변화부터 확인](../conditions/ear-fullness.md#fullness-hearing-change) | [귀먹먹함](../conditions/ear-fullness.md) |
 | 소리가 잘 안 들리거나 자꾸 되물어요 | [청력저하](../conditions/hearing-loss.md) | [갑작스러운 난청](../conditions/sudden-sensorineural-hearing-loss.md) |
 | 씹거나 입을 벌릴 때 턱·귀 앞이 아파요 | [통증 증상 지도](pain.md) | [턱관절통증](../conditions/temporomandibular-disorder.md) |
 
 귀먹먹함에 **갑작스러운 청력저하**가 겹치면 감기·귀지 때문이라고 기다리지 말고 신속히 이비인후과 진료를 받습니다. [미국 NIDCD 돌발성난청 안내](https://www.nidcd.nih.gov/health/sudden-deafness)
+
+코·부비동·인후·성대·기관지·폐의 역할과 치료자료는 [호흡기 허브](../pillar/respiratory-rhinitis-immune.md#airway-organ-map), 귀의 감각·청력과 어지럼은 [수면·신경 허브의 청력 안내](../pillar/sleep-neuro.md#digestive-sensory-care)로 이어집니다.
 
 ## 어지럼·신경·피부 {#_7}
 
@@ -145,9 +159,12 @@ last_reviewed: '2026-08-29'
 | 임신을 준비하고 있어요 · 난임검사를 시작했어요 | [난임·임신준비](../conditions/infertility-preconception.md) |
 | 생리통이 심해요 · 진통제를 자주 먹어요 | [생리통·월경통](../conditions/dysmenorrhea.md) |
 | 생리주기가 들쭉날쭉해요 | [월경불순](../conditions/irregular-menstruation.md) |
+| 생리양이 많아지고 어지럽고 피곤해요 | [과다월경](../conditions/heavy-menstruation.md) · [빈혈 검사](../conditions/anemia-lab.md) |
 | 생리가 불규칙하고 여드름·체중증가가 있어요 | [다낭성난소증후군](../conditions/polycystic-ovary-syndrome.md) |
 | 얼굴이 화끈거리고 잠을 설쳐요 | [갱년기](../conditions/menopause.md) |
 | 출산 뒤 기력·통증·수면이 회복되지 않아요 | [산후회복](../conditions/postpartum-recovery.md) |
+
+[여성건강 허브](../pillar/womens-health.md)에서 월경·폐경이행기·임신 준비·시술·임신·산후의 단계별 평가와 치료 목표를 확인합니다.
 
 ## 배뇨·골반 {#_9}
 
@@ -159,6 +176,9 @@ last_reviewed: '2026-08-29'
 | 골반·회음부가 묵직하고 아파요 | [골반통 원인 구분](../conditions/pelvic-pain.md) · [골반·회음부 통증군](../symptom-herbal-guide/urogenital/r11-pelvic-perineal.md) |
 | 밤에 소변 때문에 자주 깨요 | [야간뇨](../conditions/nocturia.md) |
 | 남성 골반통이 오래가요 | [만성전립선염·만성골반통](../conditions/chronic-prostatitis.md) |
+| 발기력·성욕·남성 활력이 달라졌어요 | [발기력저하](../conditions/erectile-difficulty.md) · [남성갱년기](../conditions/male-menopause.md) |
+
+[비뇨·배뇨·남성건강 허브](../pillar/urology-mens-health.md)에서 배뇨·골반통·성기능·남성 난임을 나누고, 배뇨일지와 경과 기록을 확인합니다.
 
 ## 아이에게 나타나는 증상 {#child-symptoms}
 
@@ -183,8 +203,9 @@ last_reviewed: '2026-08-29'
 | 간수치나 지방간 소견이 나왔어요 | [간수치 상승](../conditions/elevated-liver-enzymes.md) · [지방간](../conditions/fatty-liver.md) |
 | 빈혈·갑상선 수치 이상이래요 | [빈혈 검사](../conditions/anemia-lab.md) · [갑상선 검사](../conditions/thyroid-lab.md) |
 | 단백뇨·크레아티닌·eGFR 이상이 나왔어요 | [콩팥 기능과 검사](../conditions/chronic-kidney-disease.md) |
+| CRP·ESR 같은 염증수치가 높아요 | [염증수치 해석](../conditions/inflammation-markers.md) · [염증·통증 지식망](../immune-allergy/inflammation-pain.md) |
 
-검진 결과는 검사명·수치·단위·기준 범위·이전 결과를 함께 봅니다. 수치 하나에서 바로 처방을 선택하기보다 해당 문서의 원인 평가와 추적검사 안내를 먼저 읽으세요.
+검진 결과는 검사명·수치·단위·기준 범위·이전 결과를 함께 봅니다. 수치 하나에서 바로 처방을 선택하기보다 해당 문서의 원인 평가와 추적검사 안내를 먼저 읽으세요. [대사·건강검진 허브](../pillar/metabolic-checkup.md)에서 검사·생활 기록·병용약·변증과 재검을 연결합니다.
 
 ## 증상에서 치료자료까지 {#_10}
 
@@ -195,7 +216,10 @@ last_reviewed: '2026-08-29'
 - [증상·치법으로 방제 찾기](../herbal-integrated/by-symptom-treatment.md)
 - [침구·치료 증상으로 찾기](../acupuncture-integrated/by-symptom.md)
 - [치료·경과·근거](treatment-evidence.md)
+- [연구·근거 통합 안내](../portal/evidence.md) · [출처·근거 카드](../authority/index.md)
 
 ## 증상을 찾지 못했다면 {#_11}
 
 오른쪽 위 검색창에 일상 표현을 그대로 입력해 보세요. 예를 들어 **“입 벌릴 때 아파요”**, **“밤에 다리가 불편해요”**, **“다리에 쥐가 나요”**, **“얼굴이 부어요”**처럼 검색할 수 있습니다. 같은 표현도 원인이 다를 수 있으므로 상세 문서의 위험신호와 감별 항목을 먼저 확인합니다.
+
+[질문으로 본문과 출처 찾기](../search-guide.md#question-search)에서 상황·부위·증상을 함께 검색하고, 여러 분야를 비교하려면 [AI 핵심 색인의 임상 허브 지도](../ai-index.md#clinical-hubs)를 이용하세요.

@@ -1,6 +1,6 @@
 ---
 title: 질환별 보기
-description: 진단명과 의심 질환을 기준으로 위험신호·감별, 한의학적 변증, 한약·침구치료와 현대 임상근거를 깊이 탐색하는 민성 한의학 아카이브의 질환별 심화 허브입니다.
+description: 진단명·의심 질환에서 통증·수면신경·소화간담·호흡성대·순환기·여성·비뇨·대사·회복의 평가, 변증·한약·침구·연구와 경과를 찾는 질환별 심화 허브입니다.
 tags:
 - 질환
 - 증상
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-21
 
 진단명이 있으면 분야별 목록에서 해당 문서를 열고, **진단을 확인한 검사 → 현재 증상과 감별 → 치료 목표 → 한약·침구 자료 → 임상근거와 경과** 순서로 읽어보세요. 검사에서 의심 소견만 나왔거나 여러 병명이 비슷해 보이면 아래 비교 안내에서 시작할 수 있습니다.
 
-[통증·근골격](#_4) · [신경·감각·순환](#_5) · [수면·정서·회복](#_6) · [소화·호흡·피부](#_7) · [여성·산후](#_8) · [소아·성장](#_9) · [검사·대사·신장](#_10) · [비뇨·배뇨](#_11) · [눈·입](#eye-oral-symptom-routes)
+[통증·근골격](#_4) · [신경·감각](#_5) · [순환기·심혈관](#cardiovascular-conditions) · [수면·정서·회복](#_6) · [소화·호흡·피부](#_7) · [여성·산후](#_8) · [소아·성장](#_9) · [검사·대사·신장](#_10) · [비뇨·배뇨](#_11) · [눈·입](#eye-oral-symptom-routes)
 
 ## 면역·만성염증·질병·노화 {#_2}
 
@@ -37,12 +37,13 @@ last_reviewed: 2026-09-21
 | 식후 더부룩함·조기포만 등 소화불량의 유형과 치료 | [기능성소화불량](functional-dyspepsia.md) |
 | 아이가 감기에 자주 걸리고 회복이 더뎌요 | [소아 반복감기](child-recurrent-colds.md) |
 | 가슴이 답답할 때 원인과 위험신호를 구분하고 싶어요 | [가슴답답함](chest-tightness.md) |
+| 같은 분야의 검사·변증·본초·방제·치료를 이어 보고 싶어요 | [핵심 주제 허브](../pillar/index.md) |
 
 <span id="_13"></span>
 
 ### 통증·근골격 {#_4}
 
-통증 부위에서 시작한 뒤 저림·근력저하, 관절 운동범위, 외상 여부에 따라 신경·관절·힘줄 문서를 비교합니다. 영상검사 소견과 실제 불편이 어떻게 연결되는지는 각 질환의 감별 안내에서 확인하세요.
+통증 부위에서 시작한 뒤 저림·근력저하, 관절 운동범위, 외상 여부에 따라 신경·관절·힘줄 문서를 비교합니다. 영상검사 소견과 실제 불편이 어떻게 연결되는지는 각 질환의 감별 안내에서 확인하세요. [통증·근골격 허브](../pillar/pain-musculoskeletal.md#pattern-care-network)에서 변증·침·약침·한약·재활과 기능 회복을 함께 읽습니다.
 
 <span id="joint-bone-care"></span>
 
@@ -80,13 +81,12 @@ last_reviewed: 2026-09-21
 
 ### 신경·감각·순환 증상 {#_5}
 
-어지럼의 발생 상황, 청력 변화, 저림의 범위와 부종의 분포를 구분해서 읽습니다. 가슴답답함·두근거림·숨참은 하나의 원인으로 묶지 않고 각각의 평가 경로를 확인합니다.
+어지럼의 발생 상황, 청력 변화, 저림의 범위와 기능을 구분해서 읽습니다. [수면·정서·신경 허브](../pillar/sleep-neuro.md#neuro-assessment)에서 두통·저림·하지불안·집중 저하를 연결합니다. 가슴답답함·두근거림·부종은 아래 [순환기·심혈관](#cardiovascular-conditions)에서 별도 평가를 확인합니다.
 
 <span id="digestive-sensory-care"></span>
 
 - [어지럼](dizziness.md)
 - [이명](tinnitus.md)
-- [가슴답답함·원인과 위험신호](chest-tightness.md)
 - [손발저림·팔다리가 저려요](limb-numbness.md)
 
 <details markdown="1">
@@ -94,8 +94,6 @@ last_reviewed: 2026-09-21
 
 - [다리에 쥐가 나요·근육경련](muscle-cramps.md)
 - [하지불안증후군·밤에 다리가 불편해요](restless-legs-syndrome.md)
-- [수족냉증·손발이 차가워요](cold-hands-feet.md)
-- [붓기·부종·몸이 자주 부어요](edema-swelling.md)
 - [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md)
 
 - [이석증](bppv.md)
@@ -104,14 +102,26 @@ last_reviewed: 2026-09-21
 - [귀먹먹함·청력 변화](ear-fullness.md)
 - [청력저하·난청](hearing-loss.md)
 - [기립성 어지럼](orthostatic-dizziness.md)
-- [숨참·호흡곤란](shortness-of-breath.md)
-- [두근거림·심계](palpitation.md)
 
 </details>
 
+### 순환기·심혈관 {#cardiovascular-conditions}
+
+혈압·심장 리듬·심장 기능·동맥·정맥·체액은 확인하는 자료가 다릅니다. [순환기·심혈관 허브](../pillar/circulation-cardiovascular.md)에서 가정혈압·심전도·보행·부종의 평가와 변증·본초·방제·침구·임상근거를 연결합니다.
+
+| 찾는 문제 | 대표 안내 |
+|---|---|
+| 혈압·고혈압과 측정 조건 | [고혈압·가정혈압](high-blood-pressure-checkup.md) |
+| 두근거림·리듬과 흉부 불편 | [심계](palpitation.md) · [가슴답답함](chest-tightness.md) |
+| 부종·체중 변화·숨참 | [부종](edema-swelling.md) · [호흡곤란](shortness-of-breath.md) |
+| 냉감·저림·보행 때 불편 | [혈액순환감각](poor-circulation-sensation.md) · [손발냉증](cold-hands-feet.md) |
+| 기립·저혈압 느낌 | [기립성 어지럼](orthostatic-dizziness.md) · [저혈압 증상](low-blood-pressure-symptoms.md) |
+
+기침·천명·가래가 중심인 숨참은 [호흡기 허브](../pillar/respiratory-rhinitis-immune.md)에서도 원인을 비교합니다. 심혈관 질환의 위험 관리와 동반 수면·피로·통증의 치료 목표를 각각 확인합니다.
+
 ### 수면·정서·피로·회복 {#_6}
 
-잠드는 시간·야간 각성·낮의 활동능력을 나누어 확인합니다. 피로는 지속기간과 감염·수술·입원 이후의 시간관계, 이미 받은 검사와 복용약을 함께 보는 문서로 연결합니다.
+잠드는 시간·야간 각성·낮의 활동능력을 나누어 확인합니다. 피로는 지속기간과 감염·수술·입원 이후의 시간관계, 이미 받은 검사와 복용약을 함께 보는 문서로 연결합니다. [수면·정서·신경](../pillar/sleep-neuro.md#sleep-assessment)에서 수면 평가와 치료별 역할을, [보익·피로·회복](../pillar/tonic-recovery.md)에서 섭취·활동·회복 계획을 확인합니다.
 
 - [불면증·수면장애](insomnia.md)
 - [만성피로·번아웃 감별](chronic-fatigue.md#burnout)
@@ -128,11 +138,13 @@ last_reviewed: 2026-09-21
 - [화병·울화·가슴이 답답하고 열이 치밀어요](hwabyeong.md)
 - [공황발작·갑자기 심장이 뛰고 숨이 막혀요](panic-disorder.md)
 - [기억력저하·경도인지장애·건망증](cognitive-impairment.md)
-- [주요 5대암 수술 후 회복관리](gastric-cancer-gastrectomy-recovery.md)
+- [암 수술·치료 후 회복관리](cancer-treatment-recovery.md)
+- [위암·위절제 후 식사·체중·기력 회복](gastric-cancer-gastrectomy-recovery.md)
 - [퇴원 후 회복·장기입원 후 기력저하](post-hospitalization-recovery.md)
 - [스트레스성 불면](../autonomic/stress-sleep.md)
 - [새벽각성](early-awakening.md)
 - [숙면·회복감](nonrestorative-sleep.md)
+- [브레인포그·집중 저하](../answer-guides/brain-fog-focus-guide.md)
 
 </details>
 
@@ -142,7 +154,7 @@ last_reviewed: 2026-09-21
 
 #### 소화·식욕·배변 {#digestive-conditions}
 
-식후 불편, 신물·쓰림, 배변 양상의 변화 가운데 무엇이 중심인지에 따라 문서를 고릅니다. 내시경 소견과 증상 이름을 구분하는 안내도 함께 볼 수 있습니다.
+식후 불편, 신물·쓰림, 배변 양상의 변화 가운데 무엇이 중심인지에 따라 문서를 고릅니다. 내시경 소견과 증상 이름을 구분하는 안내도 함께 볼 수 있습니다. [소화·비위 허브](../pillar/digestion-spleen-stomach.md)에서 간·담낭·췌장·위·소장·대장의 역할과 검사·본초·방제·경과를 연결합니다.
 
 - [소화불량·증상 안내](dyspepsia.md)
 - [기능성소화불량·유형과 치료](functional-dyspepsia.md)
@@ -166,7 +178,7 @@ last_reviewed: 2026-09-21
 
 #### 코·목·호흡기 {#respiratory-conditions}
 
-코 증상과 기침이 함께 있는지, 기침이 감염 이후 이어지는지, 숨참이 동반되는지를 기록해 해당 문서의 감별 과정과 비교합니다.
+코 증상과 기침이 함께 있는지, 기침이 감염 이후 이어지는지, 숨참이 동반되는지를 기록해 해당 문서의 감별 과정과 비교합니다. [호흡기 허브](../pillar/respiratory-rhinitis-immune.md#airway-organ-map)에서는 코·부비동·인후·성대·기관지·폐를 나누고 치료 근거와 회복 기록을 연결합니다.
 
 - [비염](rhinitis.md)
 - [부비동염·축농증](sinusitis.md)
@@ -182,12 +194,14 @@ last_reviewed: 2026-09-21
 - [만성기침](chronic-cough.md)
 - [가래](phlegm.md)
 - [쉰목소리](hoarseness.md)
+- [반복 인후통](recurrent-sore-throat.md)
+- [폐렴 후 회복](pneumonia-recovery.md) · [기관지염 후 회복](bronchitis-recovery.md)
 
 </details>
 
 #### 피부·두피·모발 {#skin-conditions}
 
-가려움만 있는지, 발진·수포·각질이 동반되는지부터 구분합니다. 피부가 나은 뒤에도 통증이 이어지면 피부 병변과 신경통의 경과를 따로 읽습니다.
+가려움만 있는지, 발진·수포·각질이 동반되는지부터 구분합니다. 피부가 나은 뒤에도 통증이 이어지면 피부 병변과 신경통의 경과를 따로 읽습니다. [피부·두피·모발 허브](../pillar/skin-hair.md)에서 분야 전체의 변증·치료 자료를 비교할 수 있습니다.
 
 - [가려움증·소양증](pruritus.md)
 - [아토피피부염](atopic-dermatitis.md)
@@ -209,7 +223,7 @@ last_reviewed: 2026-09-21
 
 ### 여성·임신·산후 {#_8}
 
-월경주기·양·통증, 임신 가능성, 출산 이후 시기와 수유 여부를 함께 확인합니다. 임신준비·월경질환·산후회복은 각각의 검사와 치료 맥락에 맞춰 읽습니다.
+월경주기·양·통증, 임신 가능성, 출산 이후 시기와 수유 여부를 함께 확인합니다. 임신준비·월경질환·산후회복은 각각의 검사와 치료 맥락에 맞춰 읽습니다. [여성건강 허브](../pillar/womens-health.md)는 월경·출혈·폐경이행기와 임신 단계별 목표를 연결합니다.
 
 - [난임·임신준비](infertility-preconception.md)
 - [생리통·월경통](dysmenorrhea.md)
@@ -223,12 +237,13 @@ last_reviewed: 2026-09-21
 - [다낭성난소증후군](polycystic-ovary-syndrome.md)
 - [출산 후 한약·산후보약 — 복용 시점·처방·수유](postpartum-herbal.md)
 - [자궁근종·생리양이 많고 골반이 묵직해요](uterine-fibroids.md)
+- [과다월경](heavy-menstruation.md) · [생리전증후군](pms.md) · [폐경이행기](perimenopause.md)
 
 </details>
 
 ### 소아·성장 {#_9}
 
-키·체중은 한 번의 측정치보다 성장곡선과 변화 추이를, 식욕·감기·수면은 나이와 일상 활동을 함께 살펴보세요. 보호자가 기록할 내용은 각 소아 문서에서 확인할 수 있습니다.
+키·체중은 한 번의 측정치보다 성장곡선과 변화 추이를, 식욕·감기·수면은 나이와 일상 활동을 함께 살펴보세요. 보호자가 기록할 내용은 각 소아 문서와 [소아·성장·면역 허브](../pillar/pediatrics.md)에서 확인할 수 있습니다.
 
 - [소아 성장·아이 키 성장](child-growth.md)
 - [소아 식욕부진](child-poor-appetite.md)
@@ -250,7 +265,7 @@ last_reviewed: 2026-09-21
 
 ### 검사·대사·신장 {#_10}
 
-검사명·수치·단위·기준 범위와 이전 결과를 함께 확인합니다. 검진 이상 소견의 의미, 진단을 위한 추가 평가, 생활관리와 치료 경과를 구분해서 읽으세요.
+검사명·수치·단위·기준 범위와 이전 결과를 함께 확인합니다. 검진 이상 소견의 의미, 진단을 위한 추가 평가, 생활관리와 치료 경과를 구분해서 읽으세요. [대사·건강검진 허브](../pillar/metabolic-checkup.md)에서 혈당·지질·간·콩팥·혈압, 병용약과 생활 기록·재검을 연결합니다.
 
 <span id="metabolic-fatigue-care"></span>
 
@@ -279,7 +294,7 @@ last_reviewed: 2026-09-21
 
 ### 비뇨·배뇨 {#_11}
 
-소변 횟수·양·절박감·통증·줄기와 야간 각성을 나누어 봅니다. 같은 빈뇨라도 원인이 다를 수 있어 감염·방광·전립선 문서의 평가 항목을 비교합니다.
+소변 횟수·양·절박감·통증·줄기와 야간 각성을 나누어 봅니다. 같은 빈뇨라도 원인이 다를 수 있어 감염·방광·전립선 문서의 평가 항목을 비교합니다. [비뇨·배뇨·남성건강 허브](../pillar/urology-mens-health.md)에서 골반저·성기능·남성 난임, 배뇨일지·변증·치료 경과까지 이어갑니다.
 
 - [방광염·반복되는 요로감염](cystitis.md)
 - [과민성방광·절박뇨](overactive-bladder.md)
@@ -294,6 +309,7 @@ last_reviewed: 2026-09-21
 - [잔뇨감](residual-urine.md)
 - [소변줄기 약함·배뇨지연](weak-urine-stream.md)
 - [소변 후 찔끔](post-void-dribble.md)
+- [발기력저하](erectile-difficulty.md) · [남성갱년기](male-menopause.md)
 
 </details>
 
@@ -319,7 +335,7 @@ last_reviewed: 2026-09-21
 
 녹용보약·피로보약·노인보약·성장보약·수술 후 회복보약은 [보약·회복 상황별 안내](../pillar/tonic-recovery.md#tonic-keywords)에서 관련 증상과 처방 자료로 이어집니다.
 
-분야 전체를 비교해서 찾으려면 [피부·두피·모발](../pillar/skin-hair.md), [소아·성장·면역](../pillar/pediatrics.md), [비뇨·배뇨·남성건강](../pillar/urology-mens-health.md), [대사·건강검진](../pillar/metabolic-checkup.md) 허브를 이용하세요.
+분야 전체를 비교해서 찾으려면 [핵심 주제 허브](../pillar/index.md) 또는 [AI 핵심 색인의 임상 지도](../ai-index.md#clinical-hubs)를 이용하세요.
 
 ## 어디서부터 찾을까요? {#_12}
 
@@ -341,21 +357,21 @@ last_reviewed: 2026-09-21
 증상 허브에서는 생활 표현을 통증·저림·부종·수면·피로·가슴·호흡·소화·피부·눈·입·여성·배뇨·소아·검사 영역으로 나누고, 다음 단계에서 관련 질환 심화 문서로 연결합니다.
 
 - **환자 표현에서 찾기** → [증상으로 찾기](/symptom-integrated/)
-- **R-code 증상군과 변증·한약을 함께 찾기** → [증상 기반 한약 탐색](/symptom-herbal-guide/)
+- **증상군과 변증·한약을 함께 찾기** → [증상 기반 한약 탐색](/symptom-herbal-guide/)
 
 `환자 표현 → 위험신호·감별 → 관련 질환 → 한의학적 변증 → 한약·침구치료 → 현대 임상근거`
 
 ### 2. 질환별 현대 임상근거 보기 {#2}
 
-질환별 근거 카드는 RCT, systematic review, meta-analysis, network meta-analysis와 실제 임상 outcome을 연결합니다.
+질환별 근거 카드는 무작위 임상시험, 체계적 문헌고찰·메타분석과 실제 환자 결과를 연결합니다. [연구·근거 통합 안내](../portal/evidence.md)에서 주요 연구·국제 지침·미국·일본 자료를 찾고, [출처·근거 카드](../authority/index.md)에서 대상·치료·비교군·기간·결과와 원 논문을 확인합니다.
 
 - **통증·근골격** — 만성 요통, 만성 목통증, 무릎 골관절염, 경추 신경근병증, 회전근개질환, 턱관절장애, 외측상과염, 족저근막염
 - **신경·재활** — 뇌졸중 후 연하장애·인지장애·우울·피로·경직, 안면마비
 - **소화기·장-뇌축** — 기능성소화불량, IBS, 기능성변비, GERD, 오심·구토
-- **여성·생식** — 월경통, 자궁내막증, PCOS, 난임·ART, 임신오조, 산후우울, 갱년기
-- **비뇨생식** — CP/CPPS, 과민성방광, 발기부전, 배뇨 관련 증상
+- **여성·생식** — 월경통, 자궁내막증, 다낭성난소증후군, 난임·보조생식술, 임신오조, 산후우울, 갱년기
+- **비뇨생식** — 만성전립선염·만성골반통, 과민성방광, 발기부전, 배뇨 관련 증상
 - **호흡·알레르기** — 알레르기비염, 천식, COPD
-- **암 치료 보조영역** — CINV, CIPN, 암 관련 피로·통증·불면, 방사선치료 후 구강건조
+- **암 치료 보조영역** — 항암치료 관련 오심·구토·말초신경병증, 암 관련 피로·통증·불면, 방사선치료 후 구강건조
 
 → [질환별 현대 근거 카드](/authority/conditions/)
 
@@ -365,17 +381,17 @@ last_reviewed: 2026-09-21
 
 현재 대표 방제 근거는 보익·피로, 수면·정서, 소화기, 여성·갱년기, 호흡기·비염, 근골격·통증, 대사·신장·심혈관, 신경·뇌졸중, 비뇨생식 영역으로 확장되어 있습니다.
 
-아래는 관련 처방 자료를 읽는 예입니다. **병명별 고정 처방이나 자가복용 목록을 뜻하지 않습니다.** 연구에서 사용한 제형·대상자와 실제 처방의 차이는 해당 근거 문서에서 확인합니다.
+처방명보다 동반 증후와 배합을 먼저 확인합니다. 연구에서 사용한 제형·대상자와 실제 처방의 차이는 해당 근거 문서에서 확인합니다.
 
-- 기능성소화불량 → 육군자탕·반하사심탕
-- 불면 → 귀비탕·산조인탕·천왕보심단·시호가용골모려탕
-- IBS-D → 통사요방·사신환
-- 월경통 → 온경탕·당귀작약산
-- 알레르기비염 → 소청룡탕
-- 근골격계 통증 → 외상·어혈·한습·경련·허손 등 병증에 따른 다양한 처방군
-- 만성피로 → 사군자탕·보중익기탕 등 보익 처방
-- 뇌졸중 후 회복 → 보양환오탕
-- 대사·신장 영역 → 육미지황환 등 관련 처방
+| 읽는 분야 | 비교할 맥락 | 상세 자료 |
+|---|---|---|
+| 소화·배변 | 허약·담음·식적·한열과 식후·배변 양상 | [소화·비위](../pillar/digestion-spleen-stomach.md) · [소화기 한약 연구](../authority/formulas/digestive-herbal-evidence.md) |
+| 수면·정서 | 심계·식욕·피로·건조·오심과 처방의 차이 | [불면 처방 비교](../herbal-integrated/formula-for-insomnia.md) · [수면·정서 근거](../authority/formulas/sleep-emotion-herbal-evidence.md) |
+| 통증·회복 | 외상·어혈·한습·경련·허약과 기능 목표 | [통증 변증·치료](../pillar/pain-musculoskeletal.md#pattern-care-network) · [보익·피로·회복](../pillar/tonic-recovery.md) |
+| 여성·비뇨 | 생애 단계·월경·임신 계획·배뇨·골반통의 맥락 | [여성건강](../pillar/womens-health.md) · [비뇨·남성건강](../pillar/urology-mens-health.md) |
+| 호흡·순환·대사 | 기침·가래·건조·심계와 확인된 원인질환·복용약 | [호흡기](../pillar/respiratory-rhinitis-immune.md) · [순환기](../pillar/circulation-cardiovascular.md) · [대사·검진](../pillar/metabolic-checkup.md) |
+
+개별 처방의 출전·원문·구성·약량은 [임상 핵심 처방 100선](../herbal-integrated/general-formulary.md), 원방·가감방·시험 제제의 근거는 [한약·처방 근거 허브](../authority/formulas/herbal-formula-evidence-hub.md)에서 확인합니다.
 
 → [본초·방제](/herbal-integrated/)  
 → [출처·근거 허브](/authority/)
