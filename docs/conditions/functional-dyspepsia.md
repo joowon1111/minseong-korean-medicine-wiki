@@ -27,7 +27,7 @@ last_reviewed: 2026-09-06
 | 두 유형이 함께 있음 | 더부룩함과 통증 중 무엇이 식사·활동을 더 방해하는가 | 겹치는 증상을 따로 기록하고 치료 목표를 정함 |
 | 복통과 변비·설사가 중심 | 배변 뒤 통증이 달라지는가, 변 형태·횟수가 변하는가 | [IBS](ibs.md) 등 배변 관련 질환 |
 
-PDS·EPS는 임상 증상 유형이며 비위기허·기체 등 한의학 변증과 일대일 대응하지 않습니다. 진료에서 두 체계의 정보를 함께 활용합니다. [NIDDK 정의·검사](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/diagnosis)
+간담·췌장·소장과 위의 역할 차이는 [소화기관별 지도](../pillar/digestion-spleen-stomach.md#digestive-organ-map)에서 확인할 수 있습니다. PDS·EPS는 임상 증상 유형이며 비위기허·기체 등 한의학 변증과 일대일 대응하지 않습니다. 진료에서 두 체계의 정보를 함께 활용합니다. [NIDDK 정의·검사](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/diagnosis)
 
 ## 먼저 확인해야 할 신호
 

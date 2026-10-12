@@ -66,6 +66,8 @@ last_reviewed: 2026-09-21
 | 피로·식욕저하·회복 지연 | [육군자탕](../formulas/liujunzi-tang.md), [보중익기탕](../formulas/buzhong-yiqi-tang.md) 등 보기건비 방향 | 체중·혈당·소화상태와 처방 목표를 함께 정함 |
 | 오래된 순환저하 양상 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md) 등 활혈 방향 | 출혈위험과 항응고·항혈소판 약 복용 여부 확인 |
 
+간담의 본초·방제는 [소화 허브의 간담 비교표](../pillar/digestion-spleen-stomach.md#hepatobiliary-care)에서 소간·청열이습·화담의 역할을 나누어 볼 수 있습니다.
+
 한약의 목표는 ‘간의 지방을 씻어낸다’는 식으로 설명하기보다, 개인의 담습·습열·기허·간울 같은 병증과 **피로·소화·수면·체중·허리둘레·검사 추세**를 함께 개선하는 것으로 세웁니다. 처방 전후에는 복용 중인 의약품·건강기능식품과 기존 간질환을 확인하고, 필요한 시점에 간기능 검사를 비교합니다. [한약과 간 안전성](../herbal-integrated/safety.md#liver-safety-evidence)
 
 ## 침·전침·약침은 어떻게 구성하나요? {#acupuncture}

@@ -51,7 +51,7 @@ last_reviewed: 2026-09-06
 
 냉감이나 스트레스 한 가지로 처방을 정하지 않고 식욕·대변·갈증·복용약과 진찰을 함께 봅니다. [향사육군자탕은 보하는 약과 팽만을 푸는 약을 왜 함께 쓰나요?](../formulas/xiangsha-liujunzi-tang.md#tonification-and-digestion)에서 배합을 읽고, [동반 불편에 따라 기본방은 어떻게 가감하나요?](formula-selection-guide.md#formula-adjustment)로 이어갈 수 있습니다.
 
-처방명은 검색을 위한 출발점이며 실제 처방은 개인의 현재 상태와 병증을 평가해 구성합니다.
+처방명은 검색을 위한 출발점이며 실제 처방은 개인의 현재 상태와 병증을 평가해 구성합니다. [소화기관별 역할·증상](../pillar/digestion-spleen-stomach.md#digestive-organ-map)과 [간담 본초·방제 비교](../pillar/digestion-spleen-stomach.md#hepatobiliary-care)를 함께 보면 위의 식후불편, 간담 질환, 배변 문제를 나누어 연결할 수 있습니다.
 
 ## 소화 연구를 실제 불편과 연결합니다 {#digestive-treatment-evidence}
 
