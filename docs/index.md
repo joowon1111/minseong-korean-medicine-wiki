@@ -23,6 +23,7 @@ hide:
 <a class="ms-card" href="classical-stories/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14M6 9h3m6 0h3M6 12h3m6 0h3"/></svg> 민성의담 旻城醫談</strong><span>왕실 진료·치험례·본초·처방 유래·한의학 칼럼</span></a>
 </div>
 
+<div class="daily-km-home-reading">
 <section class="daily-km-card daily-km-home-card" data-daily-km aria-label="오늘의 한의학 한 장">
   <div class="daily-km-meta">
     <span class="daily-km-kicker">하루 한 장 · 오늘의 한의학</span>
@@ -31,14 +32,41 @@ hide:
   <p class="daily-km-count" data-km-count>오늘의 카드</p>
   <h2 data-km-line>평소의 나를 알면, 오늘의 변화를 더 잘 읽을 수 있어요.</h2>
   <p data-km-note>사상의학의 소증은 평소 상태를 살피는 개념입니다. 현재 증상과 함께 식욕·소화·대변·수면 등 기준선을 비교합니다.</p>
-  <a class="daily-km-source" data-km-source href="/sasang-pattern-differential/">사상체질과 소증에서 이어 읽기 →</a>
+  <details class="daily-km-home-details">
+    <summary>관련 문서에서 이어 읽기</summary>
+    <a class="daily-km-source" data-km-source href="/sasang-pattern-differential/">사상체질과 소증에서 이어 읽기 →</a>
+  </details>
   <a class="daily-km-archive" href="daily-korean-medicine/">매일 한 장 더 보기 →</a>
 </section>
 
-<section class="daily-km-topics" data-daily-km-topics aria-label="오늘의 경혈·본초·상한론·사상의학">
+<section class="daily-km-almanac daily-km-home-almanac" data-daily-yangsheng aria-labelledby="home-yangsheng-title">
+  <div class="daily-km-meta"><span class="daily-km-kicker">계절의 일력 · <span data-yangsheng-season>가을</span></span><time data-yangsheng-date datetime="2026-10-12">2026년 10월 12일</time></div>
+  <h2 id="home-yangsheng-title">양생(養生) 한 문장</h2>
+  <p class="daily-km-almanac-definition">양생은 몸과 마음을 돌보는 생활 습관을 뜻합니다.</p>
+  <p class="daily-km-almanac-label">아카이브의 생활 제안 · <span data-yangsheng-theme>식사</span></p>
+  <p class="daily-km-almanac-line" data-yangsheng-line>풍성한 식탁에서도 내게 편안한 양을 살펴보세요. 더 먹을 수 있는지보다 지금 어떤 느낌인지 돌아봅니다.</p>
+  <blockquote class="daily-km-topic-original" data-yangsheng-original>食飲有節。</blockquote>
+  <p class="daily-km-topic-translation" data-yangsheng-translation>원문 풀이 — 먹고 마시는 데 절도가 있다.</p>
+  <details class="daily-km-home-details">
+    <summary>작은 실천·말뜻·출처</summary>
+    <p class="daily-km-almanac-practice" data-yangsheng-practice>오늘의 작은 실천 — 처음부터 접시를 가득 채우기보다 내 식욕과 활동에 맞는 양을 덜어 보세요.</p>
+    <p data-yangsheng-words>말뜻 — 食飲(식음)은 먹고 마시는 일, 節(절)은 알맞은 정도를 뜻합니다.</p>
+    <p data-yangsheng-context>식생활의 절도를 이야기하는 대목입니다.</p>
+    <div class="daily-km-topic-links">
+      <a data-yangsheng-source href="https://jicheng.tw/tcm/book/黃帝內經素問/index.html" target="_blank" rel="noopener">황제내경 소문 · 상고천진론 제1편 ↗</a>
+      <a data-yangsheng-archive href="/classics/huangdi-neijing/">황제내경 더 읽기 →</a>
+      <a data-yangsheng-modern hidden></a>
+    </div>
+  </details>
+  <a class="daily-km-archive" href="daily-korean-medicine/#daily-yangsheng-title">양생 문구 더 보기 →</a>
+  <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden>오늘의 문구를 불러오지 못해 기본 문구를 표시합니다.</p>
+</section>
+</div>
+
+<section class="daily-km-topics daily-km-home-topics" data-daily-km-topics aria-label="오늘의 경혈·본초·상한론·사상의학">
   <header class="daily-km-topics-header">
-    <div><span class="daily-km-kicker">매일 만나는 한의학</span><h2>하루 경혈 · 하루 본초 · 하루 상한론 · 하루 사상의학</h2>
-    <p>경혈은 361개 전체를 순환하고, 매일 본초 한 가지와 상한론 조문, 사상의학 원문·병증·처방 해설을 읽습니다.</p></div>
+    <div><h2>매일 만나는 한의학</h2>
+    <p>경혈·본초·상한론·사상의학, 오늘의 원문과 핵심 풀이를 읽어보세요.</p></div>
     <time data-topic-date datetime="2026-10-07">2026년 10월 7일</time>
   </header>
   <p class="daily-km-data-error" data-daily-data-error hidden>오늘의 카드 자료를 불러오지 못했습니다. 아래 아카이브 문서에서 전체 내용을 볼 수 있습니다.</p>
@@ -52,11 +80,16 @@ hide:
 전통 자료의 주치 예: 고관절 부위 통증 · 하지 통증</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
   <p class="daily-km-topic-translation" data-topic-translation hidden><strong>아카이브 풀이</strong> — </p>
+  <details class="daily-km-home-details">
+    <summary>해설·출전 펼치기</summary>
   <p class="daily-km-topic-note" data-topic-note hidden></p>
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <div class="daily-km-topic-links">
-    <a data-topic-link href="/acupuncture/points/gb29/">관련 문서 더 읽기 →</a>
     <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
+  </div>
+  </details>
+  <div class="daily-km-topic-links">
+    <a data-topic-link href="/acupuncture/points/gb29/">관련 문서 더 읽기 →</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-herbs" data-daily-topic="herbs">
@@ -65,13 +98,18 @@ hide:
   <p class="daily-km-topic-summary" data-topic-summary>우방자의 기원·초법, 소산풍열·선폐이인·투진소종 효능, 은교산·소풍산 속 역할과 박하·길경 감별을 정리합니다.</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
   <p class="daily-km-topic-translation" data-topic-translation hidden><strong>아카이브 풀이</strong> — </p>
+  <details class="daily-km-home-details">
+    <summary>해설·출전 펼치기</summary>
   <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
   <p class="daily-km-topic-note" data-topic-note hidden></p>
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <div class="daily-km-topic-links">
-    <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
     <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
     <a data-topic-hkbu-reference hidden>약재 사진·한자 주치 정보(HKBU) ↗</a>
+  </div>
+  </details>
+  <div class="daily-km-topic-links">
+    <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-shanghan" data-daily-topic="shanghan">
@@ -80,12 +118,17 @@ hide:
   <p class="daily-km-topic-summary" data-topic-summary>조문 원문</p>
   <blockquote class="daily-km-topic-original" data-topic-original>傷寒脈浮緩，身不疼，但重，乍有輕時，無少陰證者，大青龍湯發之。</blockquote>
   <p class="daily-km-topic-translation" data-topic-translation><strong>아카이브 풀이</strong> — 상한에 부완맥이면서 몸은 아프지 않고 무겁되 가벼울 때도 있으며 소음증이 없는 경우 대청룡탕으로 발산한다.</p>
+  <details class="daily-km-home-details">
+    <summary>해설·출전 펼치기</summary>
   <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
   <p class="daily-km-topic-note" data-topic-note><strong>읽는 포인트</strong> — ‘몸이 무겁다’만으로 대청룡탕을 정하지 않는다. 無少陰證이 본문에 명시된 조건이다.</p>
   <p class="daily-km-topic-edition" data-topic-edition>송본 계열 · 중의급성 전사문 · 통행 398조 구분</p>
   <div class="daily-km-topic-links">
-    <a data-topic-link href="/classics/shanghanlun/clauses/taiyang-middle/#clause-039">관련 문서 더 읽기 →</a>
     <a data-topic-reference href="https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#39" target="_blank" rel="noopener">출전·관련 자료 확인 ↗</a>
+  </div>
+  </details>
+  <div class="daily-km-topic-links">
+    <a data-topic-link href="/classics/shanghanlun/clauses/taiyang-middle/#clause-039">관련 문서 더 읽기 →</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-sasang" data-daily-topic="sasang">
@@ -94,12 +137,17 @@ hide:
   <p class="daily-km-topic-summary" data-topic-summary>신축본 15-5 발췌 · 원문 발췌</p>
   <blockquote class="daily-km-topic-original" data-topic-original>食物 自外入 而有所妨碍 曰噎 自內受 而有所拒格 曰膈</blockquote>
   <p class="daily-km-topic-translation" data-topic-translation><strong>아카이브 풀이</strong> — 음식이 밖에서 들어갈 때 방해받는 것을 열, 안에서 받아들이는 데 거부되어 막히는 것을 격이라 한다.</p>
+  <details class="daily-km-home-details">
+    <summary>해설·출전 펼치기</summary>
   <p class="daily-km-topic-explanation" data-topic-explanation><strong>해설</strong> — 열(噎)은 음식이 들어오는 과정의 방해, 격(膈)은 받아들인 음식이 거부되는 양상으로 구분합니다. 막힘이 삼키는 순간인지 섭취 뒤인지 시간 순서로 묻고, 식사량·체중·수분 유지까지 살핍니다. 해역의 하지 기능과 관찰 영역은 다르지만 두 양상이 동반되는지도 중요합니다.</p>
   <p class="daily-km-topic-note" data-topic-note><strong>읽는 포인트</strong> — 섭취·연하의 문제와 하지 지탱의 해역은 관찰 영역이 다르다. 동반되면 원전과 임상진료지침 모두 중한 맥락을 제시한다.</p>
   <p class="daily-km-topic-edition" data-topic-edition>동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조</p>
   <div class="daily-km-topic-links">
-    <a data-topic-link href="/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/">관련 문서 더 읽기 →</a>
     <a data-topic-reference href="https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960" target="_blank" rel="noopener">출전·관련 자료 확인 ↗</a>
+  </div>
+  </details>
+  <div class="daily-km-topic-links">
+    <a data-topic-link href="/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/">관련 문서 더 읽기 →</a>
   </div>
 </article>
   </div>
