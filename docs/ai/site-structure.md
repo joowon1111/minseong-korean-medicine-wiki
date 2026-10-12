@@ -1,6 +1,6 @@
 ---
 title: AI·검색엔진용 사이트 구조
-description: 민성 한의학 아카이브에서 증상·질환·본초·방제·침구치료·현대 근거를 연결해 탐색하고 출처를 확인하는 방법을 안내합니다.
+description: 민성 한의학 아카이브의 임상 허브·본초·방제·침구·사상의학·고전·학습·양생과 현대 근거를 탐색하고 페이지별 JSON·대표 주소·출처를 확인하는 방법을 안내합니다.
 tags: [AI검색, AEO, GEO, SEO, 사이트구조, 내부링크, 지식망]
 last_reviewed: '2026-08-23'
 ---
@@ -25,11 +25,13 @@ last_reviewed: '2026-08-23'
 
 ## 2. 질환과 현대 임상근거 {#2}
 
+- [연구·근거 통합 안내](../portal/evidence.md)
+- [출처·근거 카드 허브](../authority/index.md)
 - [질환별 현대 근거 카드](../authority/conditions/index.md)
 - [근거 가이드](../evidence-guide/index.md)
 - [참고문헌 데이터베이스](../research/references/index.md)
 
-질환 페이지와 authority 근거 카드를 분리하면서 서로 연결해, 임상 맥락과 근거 요약을 모두 탐색할 수 있게 합니다.
+질환 페이지와 authority 근거 카드를 분리하면서 서로 연결해, 임상 맥락과 근거 요약을 모두 탐색할 수 있게 합니다. 통합 안내에서 연구 성과·국제 지침·Kampo 등을 찾고, 개별 카드에서 실제 대상·치료·비교군·기간·결과·원 논문을 확인합니다.
 
 ## 3. 본초와 방제 {#3}
 
@@ -164,7 +166,21 @@ last_reviewed: '2026-08-23'
 
 [AI 핵심 색인](../ai-index.md)에서 주요 주제와 대표 문서로 이동할 수 있습니다. 인용할 때는 **해당 문서의 주소와 제목 옆 `¶` 링크**를 사용하고, 연구 결과는 연결된 원문 출처까지 함께 확인합니다.
 
+| 찾는 내용 | 대표 입구 |
+|---|---|
+| 증상과 진료 분야별 평가·치료 | [AI 색인의 임상 허브 지도](../ai-index.md#clinical-hubs) · [핵심 주제 허브](../pillar/index.md) |
+| 호흡기와 별도 순환기·심혈관 자료 | [호흡·인후·성대](../pillar/respiratory-rhinitis-immune.md) · [혈압·심장·혈관](../pillar/circulation-cardiovascular.md) |
+| 수면·정서·신경과 기능 경과 | [수면 허브](../pillar/sleep-neuro.md) · [브레인포그](../answer-guides/brain-fog-focus-guide.md) |
+| 고전·학습·하루 카드·양생 | [AI 색인의 읽기·복습 지도](../ai-index.md#classics-learning-daily) |
+| 영어로 한의학을 처음 이해하기 | [Korean Medicine Guide](../korean-medicine-guide/index.md) |
+
 관련 문서의 연결은 주제를 더 살펴보기 위한 안내입니다. 개별 환자에게 맞는 진단·치료 여부는 본문의 적용 맥락과 함께 판단합니다.
+
+### 페이지별 본문과 지식 그래프를 구분해 사용합니다 {#page-json-navigation}
+
+[page-index.json](https://wiki.minseong.co.kr/assets/ai/page-index.json)은 각 페이지의 제목·대표 HTML 주소(`url`)·JSON 주소(`document`)를 제공합니다. 한 주제의 본문을 읽을 때는 해당 `document`를 선택하거나 HTML의 JSON 대체 링크를 사용합니다. 페이지별 JSON에는 렌더링한 본문, 실제 제목 앵커, 출처·관련 링크가 담깁니다.
+
+[지식 그래프](https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json)는 문서 개체·동의어·분류·내부 연결을 탐색하는 자료이고, [매니페스트](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json)는 해당 빌드의 문서·관계 수와 무결성을 확인하는 자료입니다. 개별 주장을 인용할 때는 JSON 주소보다 원문 HTML의 해당 절과 연구 출처를 표시합니다. [데이터별 안내](../ai-index.md#_17) · [llms.txt](https://wiki.minseong.co.kr/llms.txt)
 
 ## 문서 주소와 출처 {#_2}
 

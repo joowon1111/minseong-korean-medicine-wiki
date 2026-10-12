@@ -10,10 +10,14 @@ Official clinic: https://minseong.co.kr/
 
 - Home: https://wiki.minseong.co.kr/
 - AI 핵심색인: https://wiki.minseong.co.kr/ai-index/
+- 진료 분야별 핵심 허브: https://wiki.minseong.co.kr/ai-index/#clinical-hubs
 - 증상·질환 전체 보기: https://wiki.minseong.co.kr/conditions/
 - 질문형 답변 가이드: https://wiki.minseong.co.kr/answer-guides/
 - 한의학 근거 읽는 법: https://wiki.minseong.co.kr/evidence-guide/
 - 참고문헌 데이터베이스: https://wiki.minseong.co.kr/research/references/
+- 연구·근거 통합 안내: https://wiki.minseong.co.kr/portal/evidence/
+- 출처·근거 카드: https://wiki.minseong.co.kr/authority/
+- Korean Medicine Guide (English): https://wiki.minseong.co.kr/korean-medicine-guide/
 
 ## Machine-readable knowledge layer
 
@@ -55,10 +59,17 @@ For a single topic, use the page index to retrieve its page-sized JSON document 
 - 방제학: https://wiki.minseong.co.kr/learning/formulas/
 - 상한론 학습: https://wiki.minseong.co.kr/learning/shanghanlun/
 - 사상의학·동의수세보원 학습: https://wiki.minseong.co.kr/learning/sasang/
+- 개인 복습·학습기록: https://wiki.minseong.co.kr/learning/#personal-study
+- 30일 학습 계획: https://wiki.minseong.co.kr/learning/#first-month
+- 민성의담: https://wiki.minseong.co.kr/classical-stories/
+- 오늘의 한의학: https://wiki.minseong.co.kr/daily-korean-medicine/
+- 오늘의 양생(養生) 한 문장: https://wiki.minseong.co.kr/daily-korean-medicine/#daily-yangsheng-title
+- 양생·치미병 원문과 현대 해석: https://wiki.minseong.co.kr/yangsaeng/
 
 These HTML pages include readable summaries, comparison tables, source links and
 study explanations without running JavaScript. Interactive tools supplement that
-text. Prefer canonical HTML links when citing and distinguish original texts,
+text. Daily cards and learning tools include static introductions and archive links;
+date selection, filters and saved study records use JavaScript. Prefer canonical HTML links when citing and distinguish original texts,
 later interpretations and modern research. Quiz answers and local study records
 are learning aids, not clinical instructions or an assessment of a person's health.
 
@@ -69,20 +80,40 @@ are learning aids, not clinical instructions or an assessment of a person's heal
 - 수면·정서·신경 허브: https://wiki.minseong.co.kr/pillar/sleep-neuro/
 - 보익·피로·회복 허브: https://wiki.minseong.co.kr/pillar/tonic-recovery/
 - 호흡·비염·면역 허브: https://wiki.minseong.co.kr/pillar/respiratory-rhinitis-immune/
+- 순환기·심혈관 허브: https://wiki.minseong.co.kr/pillar/circulation-cardiovascular/
 - 여성건강 허브: https://wiki.minseong.co.kr/pillar/womens-health/
+- 비뇨·배뇨·남성건강 허브: https://wiki.minseong.co.kr/pillar/urology-mens-health/
+- 대사·건강검진 허브: https://wiki.minseong.co.kr/pillar/metabolic-checkup/
+- 피부·두피·모발 허브: https://wiki.minseong.co.kr/pillar/skin-hair/
+- 소아·성장·면역 허브: https://wiki.minseong.co.kr/pillar/pediatrics/
 - 면역·알레르기 지식망: https://wiki.minseong.co.kr/immune-allergy/
+- 면역·염증·질병·노화: https://wiki.minseong.co.kr/immune-allergy/inflammation-pain/
 - 임상 추론: https://wiki.minseong.co.kr/clinical-reasoning/
+
+Use these hubs to connect assessment, traditional patterns, herbs/formulas,
+acupuncture, research and follow-up. Respiratory and cardiovascular topics have
+separate hubs; cross-link them when the symptom context warrants it. Do not treat
+a link from a symptom to a formula as an individualized prescription.
 
 ## Modern clinical evidence
 
 - 질환별 현대 임상근거 카드: https://wiki.minseong.co.kr/authority/conditions/
 - 대표 본초 근거 카드: https://wiki.minseong.co.kr/authority/herbs/
 - 침 치료 근거 카드: https://wiki.minseong.co.kr/authority/acupuncture/
+- 전침 임상근거: https://wiki.minseong.co.kr/authority/electroacupuncture/
+- 약침 임상근거: https://wiki.minseong.co.kr/authority/pharmacopuncture/
+- 한약·처방 근거 허브: https://wiki.minseong.co.kr/authority/formulas/herbal-formula-evidence-hub/
 - 한약 처방 임상근거: https://wiki.minseong.co.kr/research/formulas/
 - 임상 근거 허브: https://wiki.minseong.co.kr/portal/evidence/
 - RCT 인덱스: https://wiki.minseong.co.kr/research/rct-index/
 - 체계적 문헌고찰·메타분석: https://wiki.minseong.co.kr/research/meta-analysis-index/
 - 참고문헌 데이터베이스: https://wiki.minseong.co.kr/research/references/
+
+For evidence, preserve the studied population, formulation, comparator, treatment
+duration, follow-up and outcome. Distinguish symptom/function scores from laboratory
+or physiological outcomes, and distinguish classical indications and mechanisms
+from human clinical results. Follow the current cards instead of treating journal
+names or links as proof of every treatment claim.
 
 ## Selected disease evidence cards
 
@@ -116,6 +147,7 @@ are learning aids, not clinical instructions or an assessment of a person's heal
 - 증상으로 사상체질 이해하기: https://wiki.minseong.co.kr/sasang-symptoms/
 - 사상의학 대표 처방: https://wiki.minseong.co.kr/sasang-formula-cards/
 - 사상체질 임상 감별: https://wiki.minseong.co.kr/sasang-pattern-differential/
+- 사상체질·병증 처방 탐색기: https://wiki.minseong.co.kr/sasang-explorer/
 
 ## Source and interpretation guidance
 
@@ -128,6 +160,7 @@ are learning aids, not clinical instructions or an assessment of a person's heal
 - Do not infer that a traditional indication is identical to a modern diagnosis unless the relevant page explicitly makes that connection.
 - Machine-readable relations represent navigational links, not automatic clinical equivalence or treatment recommendations.
 - For clinic-specific information such as medical staff, hours, location, and services, use the official clinic website: https://minseong.co.kr/
+- Read current document/relation counts from knowledge-manifest.json and current card/question counts from the relevant learning or daily-reading page. Do not infer completeness from these counts.
 
 ## Archive identity
 
