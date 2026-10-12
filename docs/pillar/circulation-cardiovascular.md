@@ -1,0 +1,97 @@
+---
+title: 순환기·심혈관 한의학 허브
+description: 혈압·두근거림·흉민·심장 기능·동맥·정맥·부종을 검사·변증·본초·방제·침구치료와 심혈관 임상근거로 연결합니다.
+tags: [Pillar, 순환기, 심혈관, 혈압, 심계, 두근거림, 혈액순환, 부종, 한약, 침, 임상근거]
+status: 검토완료
+---
+
+# 순환기·심혈관 한의학 허브
+
+순환기 건강은 **심장이 보내는 힘, 심장 리듬, 혈압, 동맥·정맥의 흐름과 체액 상태**를 함께 살핍니다. ‘순환이 안 된다’는 느낌을 냉감·저림·부종·보행 통증·두근거림으로 나누고, 원인 평가와 한의학적 회복 목표를 연결합니다.
+
+## 어떤 증상으로 찾나요? {#circulation-routes}
+
+| 주된 질문 | 먼저 볼 문서 | 확인할 핵심 |
+|---|---|---|
+| 혈압이 높거나 집과 병원 값이 다름 | [혈압·고혈압](../conditions/high-blood-pressure-checkup.md) | 측정 조건·반복 평균과 개인별 위험도 |
+| 빠르게 뛰거나 맥이 건너뛰는 느낌 | [심계·두근거림](../conditions/palpitation.md) | 증상 당시 리듬, 지속시간·실신·흉통 |
+| 걷거나 긴장할 때 가슴이 답답함 | [가슴답답함](../conditions/chest-tightness.md) | 운동·식사·자세와 심폐·소화·근골격 원인 |
+| 일어설 때 어지럽고 힘이 빠짐 | [기립성 어지럼](../conditions/orthostatic-dizziness.md) · [저혈압 증상](../conditions/low-blood-pressure-symptoms.md) | 자세별 혈압·맥박과 복약·수분 상태 |
+| 손발이 차거나 저리고 걸으면 다리가 아픔 | [혈액순환감각](../conditions/poor-circulation-sensation.md) · [손발냉증](../conditions/cold-hands-feet.md) | 동맥·신경·혈관 반응과 실제 보행 |
+| 다리가 붓고 무겁거나 숨참이 동반됨 | [부종](../conditions/edema-swelling.md) · [저녁 다리부종](../conditions/leg-swelling-evening.md) | 한쪽·양쪽, 시간대, 체중·소변·호흡 |
+| 혈당·지질·체중도 함께 걱정됨 | [대사·건강검진](metabolic-checkup.md) | 혈압·혈당·지질·흡연·신장 등 전체 위험 |
+
+## 혈압·리듬·심장 기능·혈관은 다른 질문입니다 {#circulation-assessment}
+
+| 평가축 | 주로 확인하는 자료 | 해석할 때 구분할 점 |
+|---|---|---|
+| 혈압 | 표준 측정·가정혈압, 필요 시 24시간 혈압 | 한 번의 값, 진단 기준과 개인 치료 목표를 구분 |
+| 심장 리듬 | 심전도, 증상 빈도에 맞춘 홀터·사건 기록 | 짧은 정상 심전도가 간헐적 증상을 모두 배제하지 않음 |
+| 심장 구조·기능 | 진찰·심초음파 등 필요한 검사 | 박출률 같은 검사값과 숨참·활동·입원 경과를 함께 봄 |
+| 동맥·정맥 | 맥박·피부·발 상처·보행, ABI·혈관검사 등 | 냉감·저림이 모두 혈관폐쇄는 아니며 혈전·신경 원인을 구분 |
+| 전신 원인·위험요인 | 빈혈·갑상선·전해질·신장, 혈당·지질과 복약 | 증상·진찰에 필요한 항목을 선택 |
+
+심전도·장기 리듬 기록의 역할은 [NHLBI 부정맥 진단](https://www.nhlbi.nih.gov/health/arrhythmias/diagnosis), 보행 통증과 발의 혈류 평가는 [혈액순환감각의 검사](../conditions/poor-circulation-sensation.md#circulation-assessment)에서 확인합니다. 웨어러블 알림·맥의 느낌만으로 부정맥 종류를 정하지 않습니다.
+
+### 가정혈압과 생활기록 {#home-bp}
+
+검증된 위팔 커프 기기와 맞는 커프, 안정한 자세·일정한 측정 시간을 사용해 여러 날의 기록을 비교합니다. 측정·복약·어지럼이 생긴 시간을 함께 준비하면 치료 조정에 도움이 됩니다. [가정혈압 기록 방법](../conditions/high-blood-pressure-checkup.md#home-bp-record)
+
+생활 관리는 식사·염분·체중·활동·수면·음주·흡연과 복약을 함께 조정합니다. 신장질환·심부전이 있으면 수분·염분·칼륨과 운동 계획을 개별적으로 정합니다. [AHA 2025 고혈압 지침](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline/top-things-to-know) · [대사 위험 평가](metabolic-checkup.md)
+
+## 숨참은 호흡기와 순환기에서 각각 살핍니다 {#cardiopulmonary-bridge}
+
+기침·천명·노출·폐기능은 [호흡기 허브](respiratory-rhinitis-immune.md#cough-sputum-assessment)로, 두근거림·운동 시 압박감·누웠을 때 숨참·부종은 심혈관과 전신 원인 평가로 연결합니다. 심장과 폐 문제가 함께 있을 수 있고 빈혈도 활동 시 숨참을 만들 수 있습니다.
+
+누우면 숨이 더 차거나 부종·체중 변화가 동반되면 심장 기능·체액 상태 등을 평가합니다. 이 증상만으로 심부전이라고 확정하지 않고 진찰과 필요한 검사를 함께 봅니다. [NHLBI 심부전 증상](https://www.nhlbi.nih.gov/health/heart-failure/symptoms) · [숨참의 원인별 안내](../conditions/shortness-of-breath.md)
+
+새로 생긴 지속적인 흉통·압박감에 식은땀·실신·심한 숨참이 겹치거나, 갑작스러운 마비·언어장애, 한쪽 팔다리의 심한 통증·냉감, 급성 한쪽 다리 부종과 숨참이 나타나면 119 등 신속한 평가가 우선입니다. [흉부 위험신호](../conditions/chest-tightness.md#red-flags) · [순환감각의 위험신호](../conditions/poor-circulation-sensation.md#_4)
+
+## 변증·본초·방제를 연결하는 기준 {#circulation-pattern-care}
+
+한의학의 심계·흉비·어혈·담음·기혈허는 동반 증상을 정리하는 관점입니다. 어혈과 혈전, 심기허와 심부전, 간양상항과 고혈압을 일대일로 대응시키지 않습니다. 확인된 심혈관 질환과 복용약을 바탕으로 수면·소화·피로·통증·냉열의 치료 목표를 구체화합니다.
+
+| 함께 나타나는 양상 | 본초의 배합축 | 비교할 방제·구분점 |
+|---|---|---|
+| 심계에 피로·식욕저하·얕은 잠 | 인삼·황기·당귀 등 익기·양혈 | [귀비탕](../formulas/guibi-tang.md); 심비양허와 섭취·수면의 회복 |
+| 흉민·오심·어지럼·예민한 잠 | 반하·진피·복령 등 화담·화위 | [온담탕](../formulas/wendan-tang.md); 담음과 위기·수면의 연동 |
+| 활동 후 심계·땀·갈증·피로 | 인삼·맥문동·오미자 등 기음·진액 | [생맥산](../formulas/shengmai-san.md); 실제 심폐 원인 평가와 함께 봄 |
+| 허약·건조에 맥의 불규칙한 느낌 | 감초·생지황·인삼 등 복합 보익 | [자감초탕](../formulas/zhigancao-tang.md); 전통 맥결대와 심전도 진단을 구분 |
+| 고정된 흉부 불편·어혈 단서 | 당귀·천궁·홍화·도인 등 활혈·이기 | [혈부축어탕](../formulas/xuefu-zhuyu-tang.md); 위험한 흉통·출혈 위험을 먼저 확인 |
+| 두통·어지럼·열감과 혈압 문제 | 천마·구등 등 평간·식풍 축 | [천마구등음](../formulas/tianma-gouteng-yin.md); 혈압 기록·병용약과 전체 증후로 비교 |
+
+### 심혈관 본초는 단독 효과와 처방을 나눠 읽습니다 {#cardiovascular-herbs}
+
+[단삼](../herbs/salvia.md)·[천궁](../herbs/chuanxiong.md)·[당귀](../herbs/angelica.md)는 활혈·혈분 배합을, [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md)는 보기·회복을, [맥문동](../herbs/ophiopogon.md)·[오미자](../herbs/schisandra.md)는 기음·진액의 배합을 이해하는 연결입니다. 전통 효능·성분 실험과 특정 복합제의 사람 대상 임상결과는 다른 자료입니다.
+
+‘혈액순환에 좋은 약재’라는 말만으로 항응고제·항혈소판제와 병용하거나 심장약을 바꾸지 않습니다. 처방 전후에는 혈압·맥박·전해질·간신장 상태와 전체 성분·용량·기간을 공유합니다. [복용약 상담 준비](../conditions/herbal-consultation-prep.md#medicine-check) · [한약 복용 안전](../herbal-integrated/safety.md)
+
+## 침·전침·약침과 회복 관리 {#circulation-treatment}
+
+침은 내관·신문·족삼리 등 경혈을 흉민·오심·수면·긴장·피로와 연결해 배합합니다. 전침은 자극 부위·강도와 심박조율기·삽입형 제세동기 사용을 확인하고, 약침은 제제·목표 조직·알레르기·출혈 위험을 고려합니다. [심계의 침구치료](../conditions/palpitation.md#acupuncture) · [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [신문 HT7](../acupuncture/points/ht7-shenmen.md)
+
+한약·침구의 목표와 확인된 심장·혈관질환의 목표를 함께 기록합니다. 두근거림의 느낌이나 수면이 좋아진 변화와 부정맥·혈압·혈관의 객관적 경과는 별도로 확인합니다. 재활과 활동은 원인질환과 안정 상태에 맞춰 계획합니다.
+
+## 심혈관 임상근거를 결과별로 찾기 {#cardiovascular-evidence}
+
+| 연구 질문 | 대표 자료 | 결과와 적용 범위 |
+|---|---|---|
+| 심부전 표준치료에 특정 한약제제를 더하면 경과가 달라지나요? | [기력강심·QUEST, Nature Medicine 2024](../formulas/qiliqiangxin.md) | 심부전 입원·심혈관 사망 복합결과의 개선; 시험 제품과 당시 병용약을 확인 |
+| 급성 심근경색 치료에 특정 제제를 더했나요? | [통심락·CTS-AMI, JAMA 2023](../formulas/tongxinluo.md) | 표준치료 병용에서 심뇌혈관 사건을 평가; 응급 심근경색 치료를 대신하는 자료가 아님 |
+| 심근경색 시술 후 심장 기능이 회복됐나요? | [심적환·해외 CDDP 연구](../formulas/simjeok-hwan.md) | 박출률 개선과 사건 예방을 구분하고 국내 제품·해외 시험 제제 차이를 확인 |
+| 혈압·불면·동반 증상은 어떤 근거가 있나요? | [고혈압 한약 지도](../authority/formulas/hypertension-herbal-map.md) · [고혈압 동반 불면 침 근거](../authority/conditions/hypertension-with-insomnia.md) | 혈압·수면·동반 증상과 장기 입원·사망 예방은 별도 결과 |
+
+[심혈관·대사 한약 임상근거](../authority/formulas/cardiometabolic-herbal-evidence.md#clinical-outcome-reading)에서 원 논문·대상·제제·비교군·추적기간을 확인합니다. 서로 다른 시험의 효과 크기를 합쳐 순위를 매기거나, 특정 제품의 결과를 같은 본초가 들어간 모든 탕약에 옮기지 않습니다.
+
+## 치료 전후 무엇을 비교하나요? {#circulation-followup}
+
+| 관찰축 | 기록할 내용 |
+|---|---|
+| 혈압·맥박 | 같은 조건의 측정, 증상 당시 리듬과 검사 결과 |
+| 심계·흉민 | 횟수·지속시간·유발 상황과 실신·흉통·숨참 |
+| 보행·말초 | 통증 전 걷는 거리, 냉감·색 변화와 발 상처 |
+| 체액·호흡 | 부종의 좌우·시간대, 체중·소변·누운 자세의 숨참 |
+| 회복·생활 | 수면·식사·피로·업무와 활동 지속성 |
+| 치료 | 심장약·혈압약·한약·보충제·시술 변경 시점 |
+
+호전이 없거나 증상이 달라지면 원인과 치료 목표를 다시 확인합니다. 안정된 활동과 증상 개선, 객관적 위험 관리가 함께 이어지는지를 보고 유지·조정·종료를 논의합니다.
