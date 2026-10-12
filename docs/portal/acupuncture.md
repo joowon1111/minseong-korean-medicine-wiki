@@ -9,6 +9,7 @@ last_reviewed: '2026-09-09'
 
 **증상에 맞는 침구치료, 혈자리의 위치·주치, 침법별 배혈과 현대 연구를 한곳에서 찾습니다.** 361경혈 아틀라스와 사암침·동씨침·태극침 지식망을 근육·근막·말초신경 해부학에 연결해 살펴볼 수 있습니다.
 
+[**3D 경혈 지도 · 돌려보는 동인**](../acupoint-network/3d-map.md){ .md-button .md-button--primary }
 [**사암침법 핵심 지식망**](../acupuncture-specific/saam-acupuncture.md){ .md-button .md-button--primary }
 [**동씨침법·50혈 아틀라스**](../tung-acupuncture/index.md){ .md-button }
 [**태극침법 핵심 지식망**](../taegeuk-acupuncture/index.md){ .md-button }
@@ -32,6 +33,7 @@ last_reviewed: '2026-09-09'
 
 경혈명·국제표준 코드나 부위별 도해로 **위치 → 주치·활용과 출처 → 임상 평가 → 배혈에서의 역할**을 확인합니다. 361경혈 각각에 연결된 출처를 읽고, 관련 혈에서는 사암침·태극침 구성으로 이어갈 수 있습니다. 각 페이지는 [전통 문헌·진료지침·현대 연구](#sources)를 나누어 표시하고, 출처의 저자·기관·해당 쪽을 접어서 확인할 수 있습니다. 경맥의 유주와 오수혈·원혈 등 특정혈도 함께 찾습니다.
 
+- [3D 경혈 지도 — 회전·확대하며 경혈과 경락 보기](../acupoint-network/3d-map.md)
 - [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)
 - [경혈·경락 찾기](../acupuncture-integrated/acupoints-meridians.md)
 - [경락·경맥 지식망](../meridian-network/index.md)

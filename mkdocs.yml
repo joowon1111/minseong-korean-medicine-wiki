@@ -5,6 +5,7 @@ site_author: 민성 한의학 아카이브
 copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
 use_directory_urls: true
 extra_javascript:
+  - assets/acupoint-3d/launch.js?v=20261012-01
   - assets/archive-tools/search-core.js?v=20261009-03
   - assets/archive-tools/ai-client.js?v=20261009-03
   - assets/archive-tools/tools.js?v=20261009-04
@@ -15,8 +16,9 @@ extra_javascript:
   - assets/learning/learning.js?v=20261004-07&ui=20261009-02
   - assets/daily-korean-medicine/reader-core.js?v=20261012-daily-comparison
   - assets/daily-korean-medicine.js?v=20261012-daily-comparison
-  - assets/daily-korean-medicine/special.js?v=20261012-daily-comparison
+  - assets/daily-korean-medicine/special.js?v=20261012-point-map
 extra_css:
+- assets/acupoint-3d/map.css?v=20261012-01
 - assets/archive-tools/tools.css?v=20261009-03
 - assets/extra.css
 - assets/acupoint-atlas/explorer.css
@@ -578,6 +580,7 @@ nav:
 - 침구·치료:
   - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
   - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
+  - 3D 경혈 지도: acupoint-network/3d-map.md
   - 경락·경맥 한눈에 보기: meridian-network/index.md
   - 십이경맥 · 몸에서 지나가는 길:
     - 폐경 LU · 가슴 → 엄지: meridian-network/lung-meridian.md

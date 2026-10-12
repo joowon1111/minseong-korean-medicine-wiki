@@ -135,6 +135,7 @@ hide:
       <details class="daily-km-answer" data-topic-answer-box hidden><summary>풀이 확인</summary><p data-topic-answer></p></details>
       <div class="daily-km-topic-links">
         <a data-topic-link hidden></a>
+        <a data-topic-3d hidden></a>
         <a data-topic-reference hidden></a>
         <a data-topic-hkbu-reference hidden></a>
         <a data-topic-quiz hidden></a>
@@ -180,6 +181,7 @@ hide:
       <details class="daily-km-answer" data-topic-answer-box hidden><summary>풀이 확인</summary><p data-topic-answer></p></details>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/acupuncture/points/gb29/">관련 문서 더 읽기 →</a>
+    <a data-topic-3d hidden></a>
     <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
     <a data-topic-quiz href="/learning/acupoints/">경혈 학습·퀴즈 →</a>
   </div>

@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261012-daily-comparison";
+  const dataUrl = "/assets/daily-korean-medicine/data.json?v=20261012-point-map";
   let dataPromise, yangshengPromise;
   const reader = window.MinseongDailyReader;
   let dayOffset = reader.offsetFor(new URL(window.location.href).searchParams.get("date")) || 0;
@@ -129,7 +129,7 @@
   }
 
   function loadAlmanac() {
-    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261012-daily-comparison", {credentials: "same-origin"})
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261012-point-map", {credentials: "same-origin"})
       .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); })
       .then(function (data) {
         if (!Array.isArray(data.cards) || !data.cards.length || !data.sources || !data.modern ||
@@ -248,6 +248,7 @@
       answerBox.hidden = !review;
       setText(answerBox, "[data-topic-answer]", review ? review.answer : "");
     }
+    setLink(root, "[data-topic-3d]", topic === "points" ? "/acupoint-network/3d-map/?point=" + encodeURIComponent(item.code) : "", "3D 경혈 지도에서 보기 →");
     const quiz = { points: "acupoints", herbs: "herbs", shanghan: "shanghanlun", sasang: "sasang" };
     setLink(root, "[data-topic-quiz]", "/learning/" + quiz[topic] + "/", reader.labels[topic] + " 학습·퀴즈 →");
 
