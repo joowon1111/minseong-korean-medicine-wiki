@@ -92,6 +92,8 @@
   font-weight: 600;
   line-height: 1.45;
   letter-spacing: -.015em;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 .md-typeset:has(.ms-home) .ms-card-icon {
   width: 1.15rem;
@@ -319,3 +321,77 @@
 .daily-km-almanac-library [data-almanac-preview] { margin: 1rem 0; scroll-margin-top: 6rem; }
 .daily-km-almanac-library .daily-km-browser-results button[aria-pressed="true"] { border-color: var(--md-primary-fg-color); background: color-mix(in srgb, var(--md-primary-fg-color) 8%, var(--md-default-bg-color)); }
 .daily-km-almanac-library textarea { line-height: 1.7; resize: vertical; }
+
+/* Homepage previews keep the complete texts available through native disclosures. */
+.daily-km-home-reading {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: .9rem;
+  margin: 1.3rem 0 1.5rem;
+}
+.daily-km-home-reading > section {
+  min-width: 0;
+  max-width: none;
+  margin: 0;
+  padding: 1rem 1.1rem;
+  border-radius: .75rem;
+  box-shadow: none;
+}
+.daily-km-home-reading .daily-km-meta { font-size: .7rem; gap: .35rem .6rem; }
+.daily-km-home-reading .daily-km-kicker { letter-spacing: 0; font-weight: 600; }
+.md-typeset .daily-km-home-card h2 {
+  margin: .45rem 0 .7rem;
+  font-size: clamp(1rem, 1.5vw, 1.1rem);
+  line-height: 1.65;
+  font-weight: 600;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+.daily-km-home-reading .daily-km-count { margin-top: .65rem !important; font-size: .65rem; }
+.md-typeset .daily-km-home-almanac h2 { margin: .65rem 0 .25rem; font-size: .95rem; font-weight: 600; }
+.daily-km-home-almanac .daily-km-almanac-definition { margin: .25rem 0 .6rem; font-size: .73rem; }
+.daily-km-home-almanac .daily-km-almanac-line { margin: .45rem 0 .65rem; font-size: .9rem; line-height: 1.8; }
+.daily-km-home-almanac .daily-km-almanac-label { margin: .5rem 0 .2rem; font-size: .65rem; }
+.daily-km-home-reading .daily-km-archive { padding: .15rem 0; margin-top: .4rem; border: 0; border-radius: 0; font-size: .75rem; }
+.daily-km-home-reading .daily-km-source { font-size: .75rem; }
+.daily-km-home-reading [data-km-note] { font-size: .8rem; line-height: 1.8; word-break: keep-all; overflow-wrap: anywhere; }
+.md-typeset .daily-km-home-topics { margin-top: 1.4rem; }
+.md-typeset .daily-km-home-topics .daily-km-topics-header h2 { font-size: 1.05rem; font-weight: 600; }
+.daily-km-home-topics .daily-km-topics-header p { font-size: .76rem; line-height: 1.7; }
+.daily-km-home-topics .daily-km-topics-header time { font-size: .7rem; }
+.daily-km-home-topics .daily-km-topic-grid { align-items: start; }
+.md-typeset .daily-km-home-topics .daily-km-topic h3 { font-size: 1rem; font-weight: 600; }
+.md-typeset .daily-km-home-details {
+  margin: .7rem 0 0;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .4rem;
+  background: var(--md-default-bg-color);
+  box-shadow: none;
+  font-size: .78rem;
+}
+.md-typeset .daily-km-home-details > summary {
+  min-height: 44px;
+  padding: .55rem .65rem .55rem 1.85rem;
+  background: transparent;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+}
+.md-typeset .daily-km-home-details > summary::before { display: none; }
+.md-typeset .daily-km-home-details > summary::after { inset-inline-start: .6rem; }
+.md-typeset .daily-km-home-details > :not(summary) { margin-inline: .65rem; }
+.md-typeset .daily-km-home-details > summary:focus-visible { outline: 2px solid var(--ms-home-link); outline-offset: 2px; }
+@media (min-width: 1100px) {
+  .md-typeset:has(.ms-home) .ms-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 760px) {
+  .daily-km-home-reading { grid-template-columns: 1fr; }
+}
+@media (min-width: 360px) and (max-width: 760px) {
+  .md-typeset:has(.ms-home) .ms-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; }
+  .md-typeset:has(.ms-home) .ms-card { padding: .75rem .7rem; }
+  .md-typeset:has(.ms-home) .ms-card strong { font-size: .8rem; gap: .3rem; }
+  .md-typeset:has(.ms-home) .ms-card span { font-size: .7rem; }
+  .md-typeset:has(.ms-home) .ms-card-icon { width: .95rem; height: .95rem; }
+}
