@@ -1,10 +1,10 @@
-.acupoint-3d-shell{margin:1rem 0;padding:1rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:.7rem;background:var(--md-default-bg-color)}
+.acupoint-3d-shell{margin:1rem 0;padding:1rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:3px;background:var(--md-default-bg-color)}
 body:has([data-acupoint-3d]) .md-top{display:none}
 .acupoint-3d-controls{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
 .acupoint-3d-controls .md-button{margin:0;font-size:.75rem;padding:.45em .85em}
 .acupoint-3d-shell [hidden]{display:none!important}
 .acupoint-3d-shell [data-map-status]{font-size:.75rem;color:var(--md-default-fg-color--light);margin:.7rem 0}
-.acupoint-3d-shell iframe{display:block;width:100%;height:800px;height:clamp(680px,85vh,950px);border:0;border-radius:.5rem;background:#e4ebe8}
+.acupoint-3d-shell iframe{display:block;width:100%;height:800px;height:clamp(680px,85vh,950px);border:0;border-radius:3px;background:#e8eaed}
 .acupoint-3d-shell:fullscreen{padding:.5rem;display:flex;flex-direction:column;overflow:auto}
 .acupoint-3d-shell:fullscreen iframe{height:0;flex:1;min-height:600px}
 @media(max-width:860px){.acupoint-3d-shell{padding:.5rem}.acupoint-3d-shell iframe{height:860px}.acupoint-3d-controls .md-button{font-size:.7rem}}

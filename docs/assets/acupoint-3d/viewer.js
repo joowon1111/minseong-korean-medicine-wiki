@@ -25,12 +25,12 @@ const V3 = THREE.Vector3, D2R = Math.PI / 180, R2D = 180 / Math.PI, wrapD = d =>
   renderer.setClearColor(0x000000, 0);
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera(30, 1, 1, 3000);
-  scene.add(new THREE.HemisphereLight(0xffffff, 0xa89c94, 0.72));
-  const key = new THREE.DirectionalLight(0xffffff, 0.46); key.position.set(120, 260, 260); scene.add(key);
-  const fill = new THREE.DirectionalLight(0xe8f0ff, 0.22); fill.position.set(-240, 60, 120); scene.add(fill);
+  scene.add(new THREE.HemisphereLight(0xffffff, 0x8e939c, 0.8));
+  const key = new THREE.DirectionalLight(0xffffff, 0.55); key.position.set(120, 260, 260); scene.add(key);
+  const fill = new THREE.DirectionalLight(0xffffff, 0.3); fill.position.set(-240, 60, 120); scene.add(fill);
   const rim = new THREE.DirectionalLight(0xffffff, 0.26); rim.position.set(0, 160, -300); scene.add(rim);
 
-  const bodyMat = new THREE.MeshStandardMaterial({ color: 0xd0a891, roughness: 0.6, metalness: 0, side: THREE.DoubleSide });
+  const bodyMat = new THREE.MeshStandardMaterial({ color: 0xd8d5cb, roughness: 0.92, metalness: 0, side: THREE.DoubleSide });
   const vcMat = (r) => new THREE.MeshStandardMaterial({ vertexColors: true, roughness: r, metalness: 0, side: THREE.DoubleSide });
   const partMat = (hex, rough) => new THREE.MeshStandardMaterial({ color: hex, roughness: rough, metalness: 0 });
   const B64 = d => { const bin = atob(d), u = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) u[i] = bin.charCodeAt(i); return u; };
@@ -58,7 +58,7 @@ const V3 = THREE.Vector3, D2R = Math.PI / 180, R2D = 180 / Math.PI, wrapD = d =>
   }
   const bodyMeshes = [];
   const skinL = buildLayer(MODEL.skin, bodyMat); skinL.meshes.forEach(m => bodyMeshes.push(m));
-  const L = { face: buildLayer(MODEL.face, vcMat(0.5)) };
+  const L = { face: buildLayer(MODEL.face, bodyMat) };
   const LR = { bones: 0.55, muscle: 0.62, organs: 0.45, hair: 0.85 };
   function ensure(k) { if (!L[k]) { const mt = vcMat(LR[k]); if (k === 'hair') { mt.transparent = true; mt.opacity = 0.62; mt.depthWrite = false; } L[k] = buildLayer(MODEL[k], mt); } return L[k]; }
   L.face.meshes.forEach(m => { m.renderOrder = 0; });
@@ -388,7 +388,7 @@ const V3 = THREE.Vector3, D2R = Math.PI / 180, R2D = 180 / Math.PI, wrapD = d =>
   function setFilter(c) { state.filter = c; renderChips(); paintPoints(); renderList(); }
 
   const detailEl = $('#detail');
-  function emptyHtml(msg) { return `<div class="empty-card"><b>${msg}</b><p>모형의 혈 점을 누르거나, 위 검색창과 경락 버튼으로 고르세요.</p></div>`; }
+  function emptyHtml(msg) { return `<div class="empty-card"><b>${msg}</b><p>경혈 점을 선택하거나 이름·코드로 검색합니다.</p></div>`; }
   function resetView() {
     setHighlight([]); state.sel = null; ringA.fill(0); ringGeo.attributes.aalpha.needsUpdate = true;
     setFilter(null); renderDetail();
@@ -405,12 +405,12 @@ const V3 = THREE.Vector3, D2R = Math.PI / 180, R2D = 180 / Math.PI, wrapD = d =>
       <div class="d-name"><span class="hz">${p.hz}</span><span class="ko">${p.ko}</span></div>
       ${p.tags.length ? `<div class="tags">${p.tags.map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>` : ''}
       <dl><dt>위치</dt><dd>${esc(p.loc)}</dd><dt>주치</dt><dd>${esc(p.ind)}</dd>${p.note ? `<dt>주의</dt><dd class="warn">${esc(p.note)}</dd>` : ''}</dl>
-      <p class="approx">모형의 점은 근사 위치입니다. 위의 표준 위치 설명과 해부학적 표지를 함께 확인하세요.</p>
-      <div class="archive-links"><a data-archive-link href="${esc(p.href)}" target="_top">위치·주치·배혈 상세 문서 →</a><a href="${esc(p.route)}" target="_top">경락 경로 읽기 →</a><a href="${esc(p.dailyHref)}" target="_top">하루 경혈 카드 →</a></div>
-      <details class="source-info"><summary>주치·활용의 자료 출처</summary>${p.rows.map(row => `<p><b>${esc(row.layer)}</b> · ${esc(row.label)}<br>${esc(row.text)}<br>${row.source ? `<a href="${esc(row.source)}" target="_blank" rel="noopener noreferrer">원자료 확인 ↗</a>` : ''}</p>`).join('')}<a href="${esc(p.standardReference)}" target="_blank" rel="noopener noreferrer">KMCRIC 표준경혈 DB ↗</a></details>
+      <p class="approx">근사 표시 · 실제 위치는 표준 위치 설명과 해부학적 표지를 기준으로 합니다.</p>
+      <div class="archive-links"><a data-archive-link href="${esc(p.href)}" target="_top">경혈 상세</a><a href="${esc(p.route)}" target="_top">경락 경로</a><a href="${esc(p.dailyHref)}" target="_top">하루 경혈</a></div>
+      <details class="source-info"><summary>자료 출처</summary>${p.rows.map(row => `<p><b>${esc(row.layer)}</b> · ${esc(row.label)}<br>${esc(row.text)}<br>${row.source ? `<a href="${esc(row.source)}" target="_blank" rel="noopener noreferrer">원자료 확인 ↗</a>` : ''}</p>`).join('')}<a href="${esc(p.standardReference)}" target="_blank" rel="noopener noreferrer">KMCRIC 표준경혈 DB ↗</a></details>
       <div class="d-nav">
         <button data-go="${prev ? prev.i : ''}" ${prev ? '' : 'disabled'}>← ${prev ? prev.code + ' ' + prev.ko : '처음'}</button>
-        <button class="go" data-focus="1">모형에서 보기</button>
+        <button class="go" data-focus="1">위치 확대</button>
         <button data-go="${next ? next.i : ''}" ${next ? '' : 'disabled'}>${next ? next.code + ' ' + next.ko : '마지막'} →</button>
       </div>`;
   }
@@ -483,7 +483,7 @@ const V3 = THREE.Vector3, D2R = Math.PI / 180, R2D = 180 / Math.PI, wrapD = d =>
     resEl.innerHTML = hits.length ? hits.map((h, k) => {
       const p = POINTS[h.i], m = MER[p.mer];
       return `<li><button data-i="${p.i}" class="${k === kb ? 'kb' : ''}" style="--mc:${m.col}"><span class="rc">${p.code}</span><span class="rn">${p.ko} <span style="font-family:var(--font-display)">${p.hz}</span></span><span class="rm">${esc(h.why || m.ko)}</span></button></li>`;
-    }).join('') : `<li class="empty">‘${esc(v)}’에 맞는 혈이 없습니다. 혈명, 한자, 코드(ST36), 증상, 근육·신경·혈관·뼈 이름으로 찾아보세요.</li>`;
+    }).join('') : `<li class="empty">‘${esc(v)}’에 맞는 혈이 없습니다. 이름·한자·코드 또는 주치로 검색합니다.</li>`;
     resEl.hidden = false;
   }
   qEl.addEventListener('input', renderResults);
