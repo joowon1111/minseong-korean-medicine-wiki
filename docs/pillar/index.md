@@ -1,6 +1,6 @@
 ---
 title: 한의학 핵심 주제 허브
-description: 증상·질환에서 시작해 보익·회복, 통증, 수면·신경, 소화, 호흡, 피부, 소아, 여성, 비뇨, 대사와 한의치료 근거로 이동하는 핵심 탐색 허브입니다.
+description: 증상·질환에서 시작해 보익·회복, 통증, 수면·신경, 소화, 호흡, 순환기·심혈관, 피부, 소아, 여성, 비뇨, 대사와 한의치료 근거로 이동하는 핵심 탐색 허브입니다.
 tags: [Pillar, 한의학지식망, AEO]
 status: 검토완료
 last_reviewed: 2026-08-29
@@ -21,6 +21,7 @@ last_reviewed: 2026-08-29
 | 잠·긴장·신경 증상이 불편함 | 불면·두통·어지럼·저림·하지불안·이명·브레인포그 | [수면·정서·신경](sleep-neuro.md) |
 | 속과 장이 불편함 | 소화불량·복통·팽만·식욕저하·변비·설사·과민성장증후군 | [소화·비위](digestion-spleen-stomach.md) |
 | 코·목·기침·알레르기가 반복됨 | 비염·알레르기비염·기침·만성기침·감기·인후불편 | [호흡·비염·면역](respiratory-rhinitis-immune.md) |
+| 혈압·심장 리듬·혈관 증상이 걱정됨 | 고혈압·두근거림·흉민·부종·말초혈관·보행 통증 | [순환기·심혈관](circulation-cardiovascular.md) |
 | 피부·두피·모발이 불편함 | 여드름·습진·두드러기·건선·두피염·탈모 | [피부·두피·모발](skin-hair.md) |
 | 아이의 성장과 반복 증상이 걱정됨 | 성장·식욕·수면·복통·변비·비염·야뇨 | [소아·성장·면역](pediatrics.md) |
 | 여성 생애주기와 임신을 준비함 | 난임·임신준비·생리통·생리불순·다낭성난소증후군·갱년기·산후회복 | [여성건강](womens-health.md) |
@@ -35,6 +36,7 @@ last_reviewed: 2026-08-29
 - **통증**: [요통](../conditions/low-back-pain.md) · [등통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) · [턱관절통증](../conditions/temporomandibular-disorder.md)
 - **신경·순환**: [두통](../conditions/headache.md) · [어지럼](../conditions/dizziness.md) · [손발저림](../conditions/limb-numbness.md) · [하지불안증후군](../conditions/restless-legs-syndrome.md)
 - **소화**: [기능성소화불량](../conditions/functional-dyspepsia.md) · [복부팽만](../conditions/bloating.md) · [과민성장증후군](../conditions/ibs.md)
+- **순환기·심혈관**: [혈압](../conditions/high-blood-pressure-checkup.md) · [두근거림](../conditions/palpitation.md) · [혈액순환감각](../conditions/poor-circulation-sensation.md)
 - **호흡·면역**: [비염](../conditions/rhinitis.md) · [기침](../conditions/cough.md) · [감기](../conditions/common-cold.md)
 - **피부·모발**: [건선](../conditions/psoriasis.md) · [탈모](../conditions/hair-loss.md) · [아토피피부염](../conditions/atopic-dermatitis.md)
 - **소아**: [소아 성장](../conditions/child-growth.md) · [소아 수면](../conditions/child-sleep.md) · [소아 야뇨증](../conditions/child-enuresis.md)
