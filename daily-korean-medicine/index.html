@@ -63,7 +63,7 @@
     
       <link rel="stylesheet" href="../assets/learning/learning.css?v=20261004-01">
     
-      <link rel="stylesheet" href="../stylesheets/portal.css?v=20261012-home-reading">
+      <link rel="stylesheet" href="../stylesheets/portal.css?v=20261012-daily-growth">
     
       <link rel="stylesheet" href="../stylesheets/korean-medicine-guide.css">
     
@@ -1182,7 +1182,7 @@
 <nav class="archive-breadcrumbs" aria-label="현재 문서 위치"><a href="https://wiki.minseong.co.kr/">홈</a> <span aria-hidden="true">›</span> <span aria-current="page">오늘의 한의학</span></nav><h1 id="_1">오늘의 한의학<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
 <div class="daily-km-intro">
 <p><strong>하루 한 장, 네 갈래로 만나는 한의학.</strong> 오늘의 핵심 지식 카드는 물론, 경혈·본초·상한론·사상의학 자료를 하루에 하나씩 읽습니다.</p>
-<p>한국 시간 날짜에 맞춰 카드가 바뀝니다. 경혈은 WHO 표준 361개를 순환하고, 본초는 한 가지씩 소개합니다. 상한론은 송본 계열 통행 398조 전체를 조문 순서대로 읽으며, 사상의학은 원문·병론·처방 배합·임상 관찰을 담은 120개 카드에서 풀이와 해설을 함께 읽습니다. 원문 인용과 아카이브 비교 해설, 판본·출전을 구분해 표시합니다. 날짜 선택과 이전·다음 버튼으로 네 주제를 함께 이동하고, 날짜 링크로 같은 내용을 다시 열 수 있습니다.</p>
+<p>한국 시간 날짜에 맞춰 카드가 바뀝니다. 경혈은 WHO 표준 361개를 순환하고, 본초는 한 가지씩 소개합니다. 상한론은 송본 계열 통행 398조 전체를 조문 순서대로 읽으며, 사상의학은 원문·병론·처방 배합·임상 관찰을 담은 120개 카드에서 풀이와 해설을 함께 읽습니다. 원문 인용과 아카이브 비교 해설, 판본·출전을 구분해 표시합니다. 핵심 카드에는 짧은 복습 문답과 비교 경혈·본초·조문·사상병증으로 이어지는 링크가 있습니다. 날짜 선택과 이전·다음 버튼으로 네 주제를 함께 이동하고, 날짜 링크로 같은 내용을 다시 열 수 있습니다.</p>
 </div>
 
 <section class="daily-km-card" data-daily-km aria-label="오늘의 한의학 핵심 카드">
@@ -1225,16 +1225,17 @@
     <a data-yangsheng-modern hidden></a>
   </details>
   <div class="daily-km-date-tools"><button type="button" data-yangsheng-find disabled>이 문구 다시 읽기·공유</button></div>
-  <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 36개 문구를 순환합니다. 『황제내경』·『동의보감』 원문과 아카이브의 생활 제안을 구분해 읽습니다.</p>
+  <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 48개 문구를 순환합니다. 『황제내경』·『동의보감』 원문과 아카이브의 생활 제안을 구분해 읽습니다.</p>
   <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden>날짜별 문구를 불러오지 못해 기본 문구를 표시합니다.</p>
 </section>
 
 <details class="daily-km-browser daily-km-almanac-library" data-almanac-library id="daily-yangsheng-library">
   <summary>양생 문구 찾아보기 <span>계절·생활 주제·고전 원문으로 검색</span></summary>
   <div class="daily-km-browser-body">
-    <p>날짜와 별도로 144개 생활 제안을 골라 읽어 보세요. ‘동의보감’, ‘잠’, ‘식사’나 원문의 한자로도 찾을 수 있습니다.</p>
+    <p>날짜와 별도로 192개 생활 제안을 골라 읽어 보세요. ‘동의보감’, ‘잠’, ‘식사’나 원문의 한자로도 찾을 수 있습니다.</p>
     <div class="daily-km-browser-search">
       <label>계절 <select data-almanac-season disabled><option value="all">모든 계절</option><option value="spring">봄</option><option value="summer">여름</option><option value="autumn">가을</option><option value="winter">겨울</option></select></label>
+      <label>생활 주제 <select data-almanac-topic disabled><option value="all">모든 생활 주제</option></select></label>
       <label>문구 검색 <input type="search" data-almanac-query placeholder="예: 동의보감, 잠, 식사, 起居" autocomplete="off" disabled></label>
     </div>
     <article class="daily-km-topic" data-almanac-preview hidden aria-label="찾아본 양생 문구">
@@ -1273,7 +1274,7 @@
 <details class="daily-km-browser" data-daily-browser id="daily-card-library">
   <summary>카드 찾아보기 <span>이름·한자·원문·해설로 검색</span></summary>
   <div class="daily-km-browser-body">
-    <p>날짜를 넘기지 않고 원하는 카드를 골라 읽어 보세요. 찾아본 카드는 날짜별 카드와 별도로 표시됩니다.</p>
+    <p>날짜를 넘기지 않고 원하는 카드를 골라 읽어 보세요. 찾아본 카드는 날짜별 카드와 별도로 표시됩니다. 짧은 복습 질문이 있는 카드는 먼저 생각해 보고 ‘풀이 확인’을 열어 보세요.</p>
     <div class="daily-km-browser-search">
       <label>주제 <select data-daily-filter disabled><option value="all">전체 주제</option><option value="points">경혈</option><option value="herbs">본초</option><option value="shanghan">상한론</option><option value="sasang">사상의학</option></select></label>
       <label>카드 검색 <input type="search" data-daily-query placeholder="예: 합곡, 황기, 계지탕, 소음인" disabled autocomplete="off"></label>
@@ -1301,6 +1302,7 @@
       <p class="daily-km-topic-edition" data-topic-edition hidden></p>
       <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 처방·비교 조문" hidden></nav>
       <p class="daily-km-topic-review" data-topic-review></p>
+      <details class="daily-km-answer" data-topic-answer-box hidden><summary>풀이 확인</summary><p data-topic-answer></p></details>
       <div class="daily-km-topic-links">
         <a data-topic-link hidden></a>
         <a data-topic-reference hidden></a>
@@ -1340,9 +1342,12 @@
 전통 자료의 주치 예: 고관절 부위 통증 · 하지 통증</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
   <p class="daily-km-topic-translation" data-topic-translation hidden><strong>아카이브 풀이</strong> — </p>
+  <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
   <p class="daily-km-topic-note" data-topic-note hidden></p>
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
+  <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 경혈·배합 자료" hidden></nav>
   <p class="daily-km-topic-review" data-topic-review>복습 포인트 — 경락과 위치를 자신의 말로 설명해 보세요.</p>
+      <details class="daily-km-answer" data-topic-answer-box hidden><summary>풀이 확인</summary><p data-topic-answer></p></details>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/acupuncture/points/gb29/">관련 문서 더 읽기 →</a>
     <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
@@ -1360,6 +1365,7 @@
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 처방·비교 조문" hidden></nav>
   <p class="daily-km-topic-review" data-topic-review>복습 포인트 — 약용 부위와 처방 안에서 맡는 역할을 함께 떠올려 보세요.</p>
+      <details class="daily-km-answer" data-topic-answer-box hidden><summary>풀이 확인</summary><p data-topic-answer></p></details>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
     <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
@@ -1378,6 +1384,7 @@
   <p class="daily-km-topic-edition" data-topic-edition>송본 계열 · 중의급성 전사문 · 통행 398조 구분</p>
   <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 처방·비교 조문" hidden></nav>
   <p class="daily-km-topic-review" data-topic-review>복습 포인트 — 조문에서 빠뜨리면 안 되는 증후와 조건을 짚어 보세요.</p>
+      <details class="daily-km-answer" data-topic-answer-box hidden><summary>풀이 확인</summary><p data-topic-answer></p></details>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/classics/shanghanlun/clauses/taiyang-middle/#clause-039">관련 문서 더 읽기 →</a>
     <a data-topic-reference href="https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#39" target="_blank" rel="noopener">출전·관련 자료 확인 ↗</a>
@@ -1393,7 +1400,9 @@
   <p class="daily-km-topic-explanation" data-topic-explanation><strong>해설</strong> — 열(噎)은 음식이 들어오는 과정의 방해, 격(膈)은 받아들인 음식이 거부되는 양상으로 구분합니다. 막힘이 삼키는 순간인지 섭취 뒤인지 시간 순서로 묻고, 식사량·체중·수분 유지까지 살핍니다. 해역의 하지 기능과 관찰 영역은 다르지만 두 양상이 동반되는지도 중요합니다.</p>
   <p class="daily-km-topic-note" data-topic-note><strong>읽는 포인트</strong> — 섭취·연하의 문제와 하지 지탱의 해역은 관찰 영역이 다르다. 동반되면 원전과 임상진료지침 모두 중한 맥락을 제시한다.</p>
   <p class="daily-km-topic-edition" data-topic-edition>동의수세보원 신축본(1901) · 병증별 임상진료지침에 인용된 조문과 대조</p>
+  <nav class="daily-km-topic-related" data-topic-related aria-label="함께 읽을 사상의학 비교 카드" hidden></nav>
   <p class="daily-km-topic-review" data-topic-review>복습 포인트 — 평소 소증과 현재 병증, 비슷한 처방의 갈림점을 구분해 보세요.</p>
+      <details class="daily-km-answer" data-topic-answer-box hidden><summary>풀이 확인</summary><p data-topic-answer></p></details>
   <div class="daily-km-topic-links">
     <a data-topic-link href="/sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok/">관련 문서 더 읽기 →</a>
     <a data-topic-reference href="https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001978960" target="_blank" rel="noopener">출전·관련 자료 확인 ↗</a>
@@ -1497,11 +1506,11 @@
       
         <script src="../assets/learning/learning.js?v=20261004-07&amp;ui=20261009-02"></script>
       
-        <script src="../assets/daily-korean-medicine/reader-core.js?v=20261010-yangsheng-more"></script>
+        <script src="../assets/daily-korean-medicine/reader-core.js?v=20261012-daily-growth"></script>
       
-        <script src="../assets/daily-korean-medicine.js?v=20261010-yangsheng-more"></script>
+        <script src="../assets/daily-korean-medicine.js?v=20261012-daily-growth"></script>
       
-        <script src="../assets/daily-korean-medicine/special.js?v=20261010-yangsheng-more"></script>
+        <script src="../assets/daily-korean-medicine/special.js?v=20261012-daily-growth"></script>
       
     
   </body>

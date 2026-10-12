@@ -43,6 +43,11 @@
     return topic === "points" ? item.name + " " + item.code + " · " + item.hanja : item.title;
   }
   function normalize(value) { return String(value || "").normalize("NFKC").toLowerCase().replace(/\s+/g, ""); }
+  function reviewFor(item) {
+    if (!item || typeof item.reviewQuestion !== "string" || typeof item.reviewAnswer !== "string") return null;
+    const question = item.reviewQuestion.trim(), answer = item.reviewAnswer.trim();
+    return question && answer ? { question: question, answer: answer } : null;
+  }
   function search(data, topic, query, meridian, chapter) {
     const terms = String(query || "").trim().split(/\s+/).filter(Boolean).map(normalize);
     const hits = [];
@@ -53,7 +58,7 @@
         if (key === "shanghan" && chapter && chapter !== "all" && chapterFor(item) !== chapter) return;
         const title = titleFor(key, item);
         const text = normalize([title, item.meridian, item.location, (item.traditional || []).join(" "), item.summary,
-          item.original, item.translation, item.explanation, item.note, item.review,
+          item.original, item.translation, item.explanation, item.note, item.review, item.reviewQuestion, item.reviewAnswer,
           (item.related || []).map(function (link) { return link.label; }).join(" ")].filter(Boolean).join(" "));
         if (terms.every(function (term) { return text.includes(term); })) hits.push({ topic: key, index: index, title: title });
       });
@@ -78,7 +83,10 @@
     const season = month >= 2 && month <= 4 ? "spring" : month >= 5 && month <= 7 ? "summer" : month >= 8 && month <= 10 ? "autumn" : "winter";
     const startMonth = {spring: 2, summer: 5, autumn: 8, winter: 11}[season];
     const start = Date.UTC(season === "winter" && month < 2 ? year - 1 : year, startMonth, 1);
-    const items = (data.cards || []).filter(function (item) { return item.season === season; });
+    const dateKey = date.toISOString().slice(0, 10);
+    const items = (data.cards || []).filter(function (item) {
+      return item.season === season && (!item.introducedOn || item.introducedOn <= dateKey);
+    });
     if (!items.length) return null;
     const index = Math.floor((date.getTime() - start) / 86400000) % items.length;
     return { item: items[index], season: season, index: index, count: items.length };
@@ -88,12 +96,13 @@
     if (typeof value !== "string" || !/^(spring|summer|autumn|winter)-[0-9]{2,3}$/.test(value)) return null;
     return (data.cards || []).find(function (item) { return item.id === value; }) || null;
   }
-  function searchAlmanac(data, season, query) {
+  function searchAlmanac(data, season, query, topic) {
     const terms = String(query || "").trim().split(/\s+/).filter(Boolean).map(normalize);
     return (data.cards || []).filter(function (item) {
       if (season !== "all" && item.season !== season) return false;
+      if (topic && topic !== "all" && item.topic !== topic) return false;
       const source = (data.sources || {})[item.source] || {};
-      const text = normalize([seasons[item.season], item.theme, item.line, item.practice,
+      const text = normalize([seasons[item.season], (data.topics || {})[item.topic], item.theme, item.line, item.practice,
         source.original, source.translation, source.words, source.label, source.context].filter(Boolean).join(" "));
       return terms.every(function (term) { return text.includes(term); });
     });
@@ -120,7 +129,7 @@
   }
   return { labels: labels, chapters: chapters, chapterFor: chapterFor, clauseFrom: clauseFrom,
     parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor,
-    titleFor: titleFor, search: search, cardFrom: cardFrom, savedCards: savedCards,
+    titleFor: titleFor, reviewFor: reviewFor, search: search, cardFrom: cardFrom, savedCards: savedCards,
     seasonalCard: seasonalCard, seasons: seasons, almanacFrom: almanacFrom,
     searchAlmanac: searchAlmanac, almanacText: almanacText, copyLink: copyLink };
 });
