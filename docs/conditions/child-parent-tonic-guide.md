@@ -143,6 +143,7 @@ related_reading:
 
 ## 함께 읽는 소아·성장 자료 {#_7}
 
+- [소아·성장·면역 허브 — 치료 목표와 초진 기록](../pillar/pediatrics.md#_6)
 - [성장기·아이 키 성장](child-growth.md)
 - [소아 식욕부진](child-poor-appetite.md)
 - [아이 피로·기력저하](child-fatigue.md)
