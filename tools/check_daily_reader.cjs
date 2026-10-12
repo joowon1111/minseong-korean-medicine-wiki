@@ -18,7 +18,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       const answer = preview.locator('[data-topic-answer-box]');
       assert.equal(await answer.isVisible(),true);
       assert.equal(await answer.locator('[data-topic-answer]').isVisible(),false);
-      assert.match(await preview.locator('[data-topic-review]').innerText(),/사관/);
+      assert.match(await preview.locator('[data-topic-review]').innerText(),/합곡.*태충/);
       await answer.locator('summary').focus();
       await page.keyboard.press('Enter');
       assert.equal(await answer.locator('[data-topic-answer]').isVisible(),true);
