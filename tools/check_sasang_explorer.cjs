@@ -106,6 +106,8 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
     assert(await frame.locator('#content .formula').count()>0);
     for(const tab of ['constitution','patterns','formulas','food','living','clinic']){
      await frame.locator('[data-tab="'+tab+'"]').click();
+     await frame.locator('[data-tab="'+tab+'"][aria-pressed="true"]').waitFor();
+     await page.waitForFunction(t=>new URLSearchParams(location.hash.slice(1)).get('t')===t,tab);
      assert(await frame.locator('.profile-body').isVisible());
      assert(await frame.locator('body').evaluate(e=>e.scrollWidth<=window.innerWidth+1));
      if(tab==='constitution'){
