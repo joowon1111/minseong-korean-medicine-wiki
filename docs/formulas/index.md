@@ -36,6 +36,12 @@ last_reviewed: '2026-09-21'
 - [대보원전](dabo-wonjeon.md) · [좌귀환](zuogui-wan.md) · [우귀환](yougui-wan.md)
 - [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md)
 
+### 발한·기허·진액 소모 {#sweating-formulas}
+
+[옥병풍산](yupingfeng-san.md)은 익기고표, [생맥산](shengmai-san.md)은 익기생진·수렴, [당귀육황탕](danggui-liuhuang-tang.md)은 음혈·청열·황기 고표의 배합으로 비교합니다. 땀의 시간대 하나보다 갈증·열감·식욕·기력과 원인 평가를 함께 봅니다.
+
+[아이 밤땀](../conditions/child-night-sweats.md) · [산후 발한](../conditions/postpartum-sweating.md) · [찬 손발의 땀](../conditions/cold-sweaty-hands.md)은 같은 발한이라도 평가와 치료 목표가 다릅니다.
+
 ### 여성·임신준비·산후 {#_5}
 - [조경종옥탕](tiaojing-zhongyu-tang.md) · [육린주](yulin-zhu.md) · [개울종옥탕](kaiyu-zhongyu-tang.md)
 - [수태환](shoutai-wan.md) · [태산반석산](taishan-panshi-san.md) · [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [계지복령환](guizhi-fuling-wan.md)
