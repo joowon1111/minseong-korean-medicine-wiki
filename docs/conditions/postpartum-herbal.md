@@ -12,7 +12,7 @@ related_reading:
 - document: conditions/energy-recovery.md
   reason: 피로·식욕·수면을 함께 살피는 기준을 비교해요.
 ---
-# 출산 후 한약·산후보약
+# 출산 후 한약·산후보약 {#_1}
 
 산후보약은 출산 뒤 **기력·식욕·수면·통증과 기혈 회복**을 돕기 위해 산모의 상태에 맞춰 구성하는 한약을 말합니다. 출산 방식, 출혈·오로, 소화력, 수유와 복용약을 함께 살펴 처방 목적과 시작 시점을 정합니다.
 
@@ -25,7 +25,7 @@ related_reading:
 | 수유 중에도 복용할 수 있나요? | [수유 중 확인사항](#breastfeeding) |
 | 관절이 시리고 아프거나 제왕절개 회복이 더뎌요 | [산후풍·관절통](postpartum-recovery.md#postpartum-pain) · [제왕절개 회복](postpartum-recovery.md#cesarean-recovery) |
 
-## 산후보약에서 살피는 회복 목표
+## 산후보약에서 살피는 회복 목표 {#_2}
 
 한의진료에서는 기혈허·어혈·양허 등 병증을 살피면서 산모가 일상에서 체감하는 회복 변화를 함께 확인합니다.
 
@@ -33,12 +33,14 @@ related_reading:
 |---|---|---|
 | 쉽게 지치고 어지러움 | 출혈량·빈혈, 식사량·수면, 기혈허 | [산후 증상별 감별](postpartum-recovery.md#symptoms) |
 | 오로·하복부 불편 | 오로의 양·색·냄새, 통증, 어혈 양상 | [오로와 출혈](postpartum-recovery.md#_5) |
+| 소변이 새거나 비우기 어려움 | 누출 상황·첫 배뇨·잔뇨와 분만 경과 | [산후 배뇨 평가](postpartum-recovery.md#postpartum-urinary) |
+| 붓기·무거움이 남음 | 부위·좌우 차이·혈압·호흡 등 동반 증상 | [산후 부종의 구분](postpartum-recovery.md#postpartum-edema) |
 | 몸이 시리고 손목·허리가 아픔 | 냉감·기력, 수유 자세·반복 부하, 관절·신경 상태 | [산후 관절통과 산후풍](postpartum-recovery.md#postpartum-pain) |
 | 잠을 못 자고 두근거리거나 불안함 | 수면분절, 식욕·기혈, 정서와 돌봄 환경 | [수면과 정서 회복](postpartum-recovery.md#sleep-mood) |
 
 <span id="starting-time"></span>
 
-## 언제 시작하고 얼마나 복용하나요?
+## 언제 시작하고 얼마나 복용하나요? {#_3}
 
 출산 후 며칠째라는 날짜만으로 결정하지 않습니다. 출혈·오로와 감염 여부, 식사·배변, 분만 방식과 수술약, 수유 상태를 확인한 뒤 시작 시점을 정합니다. 오로·하복부 불편과 어혈을 살필 때, 소화·기혈을 회복할 때, 냉감·통증·수면을 조절할 때의 처방 목적은 달라질 수 있습니다.
 
@@ -59,13 +61,13 @@ related_reading:
 
 보약 상담과 함께 가족이 식사 준비·집안일·아기 돌봄을 나누면 회복 계획을 실천하기 쉽습니다. WHO의 산후 돌봄 안내도 산모와 아기의 상태, 수유와 정서, 가족의 참여를 함께 다룹니다. [WHO 산후 돌봄 안내](https://www.who.int/news/item/30-03-2022-who-urges-quality-care-for-women-and-newborns-in-critical-first-weeks-after-childbirth).
 
-## 먼저 확인해야 할 신호
+## 먼저 확인해야 할 신호 {#_4}
 
 심한 출혈, 발열·악취 나는 오로, 흉통·호흡곤란, 한쪽 다리의 부종·통증, 심한 두통·시야장애, 자신이나 아기를 해칠 생각이 있으면 즉시 진료를 받아야 합니다. 자세한 기준은 [산후 위험신호](postpartum-recovery.md#warning-signs)에 정리했습니다. [CDC 산후 경고증상 안내](https://www.cdc.gov/hearher/maternal-warning-signs/index.html).
 
 <span id="formula-selection"></span>
 
-## 현재 상태에 따른 처방 선택
+## 현재 상태에 따른 처방 선택 {#_5}
 
 아래는 기존 처방의 **전통적 역할과 감별 방향**입니다. 실제 구성은 산모의 병증과 소화력·수유 상태에 맞춰 조정하며, 처방 이름만으로 복용 여부를 정하지 않습니다.
 
@@ -79,6 +81,8 @@ related_reading:
 | [귀비탕](../formulas/guibi-tang.md) 계열 | 심비양허형 불면·두근거림·불안 | 수면분절과 정서 문제, 돌봄 환경도 함께 평가 |
 | [당귀작약산](../formulas/danggui-shaoyao-san.md) 계열 | 혈허에 부종·냉감·하복부 불편이 겹침 | 체액 변화와 소화 상태, 통증 양상을 구분 |
 | [녹용](../herbs/cervi-parvum-cornu.md)을 배합한 보익 처방 | 허약·냉감·근골격 회복 지연을 함께 살피는 경우 | 산모의 체력·소화력·수유 상태에 맞춰 배합 판단 |
+
+[오로의 양·추세·냄새](postpartum-recovery.md#_5), [배뇨의 저장·배출](postpartum-recovery.md#postpartum-urinary), [부종의 위치·동반 증상](postpartum-recovery.md#postpartum-edema)을 먼저 나누어 평가합니다. 당귀작약산의 혈허·수습 배합을 모든 산후 부종에 적용하거나 소변 누출을 일반 보약의 대상으로만 보지 않습니다.
 
 생화탕 등 오로·어혈을 살피는 처방과 기혈을 보하는 처방은 목적이 다릅니다. 모든 산모가 같은 처방을 같은 순서로 복용하는 것은 아니며, [산후 변증](postpartum-recovery.md#_10)과 현재 증상을 함께 살핍니다.
 
@@ -97,15 +101,15 @@ related_reading:
 
 <span id="follow-up"></span>
 
-## 복용 중 무엇을 살피나요?
+## 복용 중 무엇을 살피나요? {#_6}
 
 | 확인 항목 | 비교할 변화 |
 |---|---|
 | 식사·소화 | 식사량, 더부룩함, 배변 상태 |
 | 기력·생활 | 걷기와 일상 활동 뒤 피로, 쉬었을 때 회복 정도 |
-| 통증·냉감 | 손목·허리·골반 통증, 움직임과 수유 자세에 따른 변화 |
+| 통증·냉감 | 손목·허리·골반 통증, 움직임과 수유 자세에 따른 변화; [돌봄 동작 기록](postpartum-wrist-pain.md#wrist-follow-up) |
 | 수면·정서 | 실제 수면시간, 잠들기 어려움, 두근거림·불안 |
-| 산후 상태 | 오로·상처·부종, 수유와 유방 불편 |
+| 산후 상태 | 오로·상처·부종의 추세, 배뇨 누출·배출 불편, 수유와 유방 불편 |
 
 빈혈 등 검사로 확인된 문제는 해당 치료와 추적평가를 함께 이어갑니다. [회복 평가 항목](postpartum-recovery.md#recovery-check)과 [식사·수면 지원·회복 운동](postpartum-recovery.md#daily-care)을 병행해 살펴보세요.
 
@@ -138,7 +142,7 @@ related_reading:
 
 목표를 구분합니다. 기력·섭취·수면 회복이 우선인 상황과 체중관리를 상담하는 상황은 현재 영양·수유·활동 상태가 다를 수 있습니다. 붓기와 체중 변화도 함께 보되, 복용 후 체중 감소만으로 회복이 잘 된다고 판단하지 않습니다.
 
-## 함께 읽는 산후회복 자료
+## 함께 읽는 산후회복 자료 {#_7}
 
 - [산후회복 전체 보기 — 회복 단계·증상·생활관리](postpartum-recovery.md)
 - [임신 준비·난임·임신·산후 허브](../womens-health/fertility-pregnancy-postpartum.md)
@@ -148,11 +152,11 @@ related_reading:
 - [증상·질환 한눈에 보기](index.md)
 - [침구치료 안전·위험신호](../acupuncture-integrated/safety.md)
 
-## 산후보약·출산 후 한약은 같은 뜻인가요?
+## 산후보약·출산 후 한약은 같은 뜻인가요? {#_8}
 
 산후보약·산후 보약·출산후한약·출산 후 한약은 출산 뒤 회복을 위한 한약을 찾을 때 흔히 쓰는 표현입니다. 산후 기력회복, 산후풍, 수유 중 한약처럼 무엇이 가장 궁금한지에 따라 [회복 상태 살피기](postpartum-recovery.md#symptoms)와 [처방 선택](#formula-selection)을 함께 확인하면 좋습니다.
 
-## 수유저하 연구와 침 치료 연결
+## 수유저하 연구와 침 치료 연결 {#_9}
 
 2024년 *PLOS One* 체계적 문헌고찰·메타분석은 산후 수유저하에 대한 **19개 무작위시험·2,400명**을 종합했습니다. 침 치료군에서 유즙 분비량·프로락틴 등 일부 지표의 개선이 보고됐고, 침과 한약 또는 일반치료를 병용한 하위분석도 포함됐습니다. 연구설계와 치료 구성이 다양하므로, 이는 수유저하의 침 치료를 검토하는 자료이며 산후보약 전체의 효과나 수유 중 안전성을 직접 입증하는 자료는 아닙니다. [PMID 38843204](https://pubmed.ncbi.nlm.nih.gov/38843204/) · [원문](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303948).
 
