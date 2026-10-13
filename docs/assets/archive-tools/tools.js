@@ -18,19 +18,28 @@
     for (const [v, t] of [['formula', '처방'], ['herb', '본초']]) kind.append(el('option', t, {value: v}));
     kind.value = root.dataset.archiveCompare || 'formula';
     const category = el('select', undefined, {'aria-label': '비교 자료 분류'});
+    const system = el('select', undefined, {'aria-label': '처방 체계·체질'});
+    for (const [v,t] of [['','전체 처방 체계'],['일반 방제','일반 방제'],['소음인','사상 · 소음인'],['소양인','사상 · 소양인'],['태음인','사상 · 태음인'],['태양인','사상 · 태양인']]) system.append(el('option',t,{value:v}));
+    const group = el('select', undefined, {'aria-label': '유사 처방 묶음'});
+    const groupNote = el('p', '', {class:'archive-group-note'});
+    const more = button('더 보기', () => {limit += 60; render();});
+    const presets = el('div',undefined,{class:'archive-controls archive-group-controls'});
+    presets.append(group, button('이 묶음 비교하기', () => {const g=groups.find(g=>g.id===group.value); if(!g) return; selected.clear(); for(const id of g.ids) selected.add(id); kind.value='formula'; category.value=''; system.value=''; query.value=''; limit=60; groupNote.textContent=g.focus; categories(); render(); results.scrollIntoView({block:'nearest'});}));
     const status = el('p', '자료를 불러오고 있습니다.', {role: 'status'}), choices = el('div', undefined, {class: 'archive-choices archive-choice-list', tabindex: '0', role: 'region', 'aria-label': '비교 자료 선택'}), results = el('div'), selected = new Set();
-    let cards = [], all = [], seq = 0;
-    const controls = el('div', undefined, {class: 'archive-controls'}); controls.append(kind, category, query);
-    root.replaceChildren(controls, status, choices, results);
-    function categories() { category.replaceChildren(el('option', '전체 분류', {value: ''})); for (const c of new Set(all.filter(c => c.kind === kind.value).map(c => c.category))) category.append(el('option', c, {value: c})); }
+    let cards = [], all = [], groups = [], limit = 60, seq = 0;
+    const controls = el('div', undefined, {class: 'archive-controls'}); controls.append(kind, system, category, query);
+    root.replaceChildren(controls, presets, groupNote, status, choices, more, results);
+    function categories() { system.hidden = kind.value !== 'formula'; presets.hidden = kind.value !== 'formula'; groupNote.hidden=kind.value !== 'formula' || !groupNote.textContent; category.replaceChildren(el('option', '전체 분류', {value: ''})); for (const c of new Set(all.filter(c => c.kind === kind.value).map(c => c.category))) category.append(el('option', c, {value: c})); }
     function render() {
-      cards = all.filter(c => c.kind === kind.value && (!category.value || c.category === category.value) && norm([c.title, c.category, ...c.aliases, ...c.facts.map(f => f.value)].join(' ')).includes(norm(query.value)));
-      status.textContent = cards.length + '개 자료 · ' + selected.size + '개 선택 (최대 4개)'; choices.replaceChildren();
-      for (const c of cards.slice(0, 60)) { const b = button(c.title, () => { if (selected.has(c.id)) selected.delete(c.id); else if (selected.size < 4) selected.add(c.id); else {status.textContent = '최대 4개까지 비교할 수 있습니다. 선택한 항목을 먼저 해제하세요.'; return;} render(); }); b.setAttribute('aria-pressed', String(selected.has(c.id))); choices.append(b); }
-      if (cards.length > 60) choices.append(el('p', '검색어나 분류로 범위를 좁히면 나머지 자료를 선택할 수 있습니다.'));
+      cards = all.filter(c => c.kind === kind.value && (!category.value || c.category === category.value) && (kind.value !== 'formula' || !system.value || c.system === system.value) && norm([c.title, c.category, ...c.aliases, ...c.facts.map(f => f.value)].join(' ')).includes(norm(query.value))).sort((a,b)=>query.value.trim() ? Number(norm([b.title,...b.aliases].join(' ')).includes(norm(query.value)))-Number(norm([a.title,...a.aliases].join(' ')).includes(norm(query.value))) || a.title.localeCompare(b.title,'ko') : 0);
+      const total = all.filter(c=>c.kind===kind.value).length;
+      status.textContent = '전체 ' + total + '개 ' + (kind.value==='formula'?'처방 자료':'본초 자료') + ' · 검색 결과 ' + cards.length + '개 · ' + Math.min(limit,cards.length) + '개 표시 · ' + selected.size + '개 선택 (최대 4개)'; choices.replaceChildren();
+      more.hidden = cards.length <= limit; more.textContent = '다음 ' + Math.min(60,cards.length-limit) + '개 보기';
+      for (const c of cards.slice(0, limit)) { const b = button(c.title, () => { if (selected.has(c.id)) selected.delete(c.id); else if (selected.size < 4) selected.add(c.id); else {status.textContent = '최대 4개까지 비교할 수 있습니다. 선택한 항목을 먼저 해제하세요.'; return;} render(); }); b.setAttribute('aria-pressed', String(selected.has(c.id))); choices.append(b); }
+      if (!cards.length) choices.append(el('p','일치하는 자료가 없습니다. 처방명이나 체계·분류를 바꿔 보세요.'));
       results.replaceChildren();
-      const u = new URL(global.location.href); if (selected.size) u.searchParams.set('compare', [...selected].join(',')); else u.searchParams.delete('compare'); global.history.replaceState(null, '', u);
-      const picked = all.filter(c => selected.has(c.id)); if (!picked.length) { results.append(el('p', '비교할 항목을 2~4개 선택하세요.')); return; }
+      const u = new URL(global.location.href); if (selected.size) u.searchParams.set('compare', [...selected].join(',')); else u.searchParams.delete('compare'); u.searchParams.delete('group'); global.history.replaceState(null, '', u);
+      const picked = [...selected].map(id=>all.find(c=>c.id===id)).filter(Boolean); if (!picked.length) { results.append(el('p', '비교할 항목을 2~4개 선택하세요.')); return; }
       results.append(button('선택 초기화', () => { selected.clear(); render(); }));
       const chips = el('div', undefined, {class: 'archive-choices'}); for (const c of picked) chips.append(button(c.title + ' 해제', () => {selected.delete(c.id); render();})); results.append(chips);
       const wrap = el('div', undefined, {class: 'archive-table-wrap', tabindex: '0', role: 'region', 'aria-label': '선택 항목 비교표'}), table = el('table'), head = el('thead'), tr = el('tr'); tr.append(el('th', '비교 항목', {scope: 'col'}));
@@ -41,16 +50,20 @@
       for (const c of picked) {
         const section = el('section'); section.append(el('h3', c.title), link('출전·구성·용량 본문 보기', c.source));
         for (const s of c.sections) { const d = el('details'); d.append(el('summary', s.title), el('p', s.text), link('이 내용의 원문', s.url)); section.append(d); }
-        const connections = all.filter(x => c.links.includes(x.source.split('#')[0]));
+        const connections = all.filter(x => c.links.includes(x.source) || c.links.includes(x.source.split('#')[0]));
         if (connections.length) { section.append(el('h4', '본문에서 연결한 처방·본초')); const links = el('div', undefined, {class: 'archive-choices'}); for (const x of connections) links.append(link(x.title, x.source)); section.append(links); }
         const peers = all.filter(x => c.peers.includes(x.id)); if (peers.length) { section.append(el('h4', '함께 비교하기')); for (const p of peers) section.append(button(p.title, () => {if (selected.size < 4) selected.add(p.id); render();})); }
-        section.append(link('관련 문제 풀기', '/learning/?subject=' + (c.kind === 'herb' ? 'herbs' : 'formulas') + '&topic=' + encodeURIComponent(c.title.replace(/\([^)]*\)/g, '')))); detail.append(section);
+        section.append(link('관련 문제 풀기', '/learning/?subject=' + (c.kind === 'herb' ? 'herbs' : c.source.startsWith('/sasang-') ? 'sasang' : 'formulas') + '&topic=' + encodeURIComponent((c.aliases[0] || c.title).replace(/\([^)]*\)| · .*/g, '')))); detail.append(section);
       }
       results.append(detail);
 
     }
-    query.addEventListener('input', render); category.addEventListener('change', render); kind.addEventListener('change', () => {categories(); render();});
-    try { const ticket = ++seq; const d = await data('comparison'); if (ticket !== seq || !root.isConnected) return; all = d.cards; const ids = new URLSearchParams(global.location.search).get('compare')?.split(',') || []; for (const id of ids.slice(0, 4)) if (all.some(c => c.id === id)) selected.add(id); categories(); render(); }
+    const filter=()=>{limit=60; render();};
+    query.addEventListener('input', filter); category.addEventListener('change', filter); system.addEventListener('change',()=>{category.value=''; filter();}); kind.addEventListener('change', () => {system.value=''; limit=60; categories(); render();});
+    try { const ticket = ++seq; const d = await data('comparison'); if (ticket !== seq || !root.isConnected) return; all = d.cards; groups=d.groups||[]; group.append(el('option','유사 처방 묶음 선택',{value:''})); for(const g of groups) group.append(el('option',g.title+' · '+g.ids.length+'개',{value:g.id}));
+      const params=new URLSearchParams(global.location.search), initial=groups.find(g=>g.id===params.get('group'));
+      if(initial){group.value=initial.id; groupNote.textContent=initial.focus;}
+      const ids = params.get('compare')?.split(',') || initial?.ids || []; for (const id of ids.slice(0, 4)) if (all.some(c => c.id === id)) selected.add(id); categories(); render(); }
     catch (_) { status.textContent = '比較資料를 불러오지 못했습니다. 연결을 확인하고 다시 시도하세요.'.replace('比較資料', '비교 자료'); root.append(button('다시 불러오기', () => comparison(root))); }
   }
   async function finder(root) {

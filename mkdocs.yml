@@ -8,7 +8,7 @@ extra_javascript:
   - assets/acupoint-3d/launch.js?v=20261012-style
   - assets/archive-tools/search-core.js?v=20261009-03
   - assets/archive-tools/ai-client.js?v=20261009-03
-  - assets/archive-tools/tools.js?v=20261009-04
+  - assets/archive-tools/tools.js?v=20261013-full-formulas
   - assets/korean-search-185.js?v=20261009
   - assets/donguibogam/bootstrap.js
   - assets/acupoint-atlas/explorer.js
@@ -19,7 +19,7 @@ extra_javascript:
   - assets/daily-korean-medicine/special.js?v=20261012-point-map
 extra_css:
 - assets/acupoint-3d/map.css?v=20261012-style
-- assets/archive-tools/tools.css?v=20261009-03
+- assets/archive-tools/tools.css?v=20261013-full-formulas
 - assets/extra.css
 - assets/acupoint-atlas/explorer.css
 - assets/learning/learning.css?v=20261013-import-fit
