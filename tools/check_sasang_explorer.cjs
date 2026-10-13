@@ -10,6 +10,36 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
   for(const [name,viewport] of [['mobile',{width:390,height:844}],['desktop',{width:1440,height:1000}]]){
    const page=await browser.newPage({viewport}),errors=[];
    page.on('pageerror',e=>errors.push(e.message));
+   // Check every source route in the standalone app, including reload and
+   // comparisons; the iframe checks below exercise the same content embedded.
+   await page.goto(base+'/assets/sasang-explorer/');
+   const paths=await page.evaluate(()=>Object.entries(AXIS_ORDER).flatMap(([c,axes])=>axes.map(a=>({c,a}))));
+   for(const {c,a} of paths){
+    const hash=new URLSearchParams({c,a,s:'2'}).toString();
+    await page.goto(base+'/assets/sasang-explorer/#'+hash);
+    await page.locator('#source-title').waitFor();
+    assert.match(await page.locator('#trail').innerText(),new RegExp(c));
+    assert.equal(await page.locator('.pattern-source blockquote').first().isVisible(),true);
+    assert.match(await page.locator('.passage-translation').first().innerText(),/우리말 풀이/);
+    assert.match(await page.locator('.source-link').first().getAttribute('href'),/articlePdf\?artiId=ART\d+#page=\d+/);
+    await page.locator('.source-details summary').click();
+    assert.equal(await page.locator('.source-details').getAttribute('open'),'');
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),c+' '+a+' overflow');
+    if(a===paths.find(x=>x.c===c).a) await page.screenshot({path:`archive-browser-results/${name}-${c}-source.png`,fullPage:true});
+    const compare=page.locator('.comparison-buttons button').first();
+    const target=await compare.getAttribute('data-axis');
+    await compare.click();
+    assert.equal(new URLSearchParams(new URL(page.url()).hash.slice(1)).get('a'),target);
+    await page.reload();
+    await page.locator('#source-title').waitFor();
+    assert.equal(new URLSearchParams(new URL(page.url()).hash.slice(1)).get('a'),target);
+   }
+   await page.goto(base+'/assets/sasang-explorer/');
+   await page.locator('[data-c="소음인"]').click();
+   await page.locator('#search').fill('亡陽 6-35');
+   assert.equal(await page.locator('#axes [data-axis]').count(),1);
+   await page.locator('#search').fill('7-30');
+   assert.equal(await page.locator('#axes [data-axis]').count(),2);
    // The archive hubs must remain usable alongside the embedded explorer.
    for(const [path,anchor] of [
     ['sasang','start'],
@@ -69,6 +99,9 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
     await frame.locator('#search').fill('');
     await frame.locator('[data-axis]').first().click();
     assert.match(await frame.locator('#content').innerText(),/감별 포인트/);
+    await frame.locator('.source-details summary').click();
+    await page.waitForFunction(()=>{const f=document.getElementById('sasang-explorer-frame');return f.getBoundingClientRect().height>=f.contentDocument.body.getBoundingClientRect().height-5});
+    assert(await frame.locator('.passage-translation').first().isVisible());
     await frame.locator('[data-next]').click();
     assert(await frame.locator('#content .formula').count()>0);
     for(const tab of ['constitution','patterns','formulas','food','living','clinic']){
