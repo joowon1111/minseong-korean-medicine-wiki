@@ -33,10 +33,10 @@ description: 소화의 습체와 수분의 정체를 함께 보기, 유사 처�
 | 본초·제법 항목 | 이 수록본의 기재량 |
 |---|---|
 | [창출](../herbs/atractylodes-lancea.md)·[후박](../herbs/magnolia-bark.md)·[진피](../herbs/citrus-peel.md)·[저령](../herbs/polyporus.md)·[택사](../herbs/alisma.md)·[백출](../herbs/atractylodes.md)·[백복령](../herbs/poria.md)·[백작약](../herbs/white-peony.md) | 각 1전 |
-| [육계](../herbs/cinnamon-bark.md)·[자감초](../herbs/licorice.md) | 각 3분 |
+| [육계](../herbs/cinnamon-bark.md)·[자감초](../herbs/licorice.md) | 각 3푼 |
 | [생강](../herbs/fresh-ginger.md)·[대조](../herbs/jujube-fruit.md) | 전탕에 사용, 개수 미기재 |
 
-이 원문은 백복령과 육계·자감초 각 3분이다. 위 방약합편 표는 적복령·관계 및 감초 각 0.5전의 수록형이므로 약미 명칭과 비율을 구분한다.
+이 원문은 백복령과 육계·자감초 각 3푼이다. 위 방약합편 표는 적복령·관계 및 감초 각 0.5전의 수록형이므로 약미 명칭과 비율을 구분한다.
 
 ## 『방약합편』 수록 구성·용량 {#_3}
 | 본초 | 용량 |

@@ -27,9 +27,9 @@ last_reviewed: 2026-10-08
 | 본초·제법 항목 | 이 수록본의 기재량 |
 |---|---|
 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md)·[당귀](../herbs/angelica.md)·[속단](../herbs/dipsacus.md)·[황금](../herbs/scutellaria.md) | 각 1전 |
-| [천궁](../herbs/chuanxiong.md)·[백작약](../herbs/white-peony.md)·[숙지황](../herbs/prepared-rehmannia.md) | 각 8분 |
+| [천궁](../herbs/chuanxiong.md)·[백작약](../herbs/white-peony.md)·[숙지황](../herbs/prepared-rehmannia.md) | 각 8푼 |
 | [백출](../herbs/atractylodes.md) | 2전 |
-| [자감초](../herbs/licorice.md)·[사인](../herbs/amomum.md) | 각 5분 |
+| [자감초](../herbs/licorice.md)·[사인](../herbs/amomum.md) | 각 5푼 |
 | 나미 | 1촬(한 줌) |
 
 공개 원문 방명은 「泰山盤石散」이며 나미를 한 줌(一撮)으로 기록한다. 위 한국 수록자료의 나미 3.75 g을 원문 고정 중량으로 소급하지 않는다. 당시의 안태 운용은 현재 임신 주수·초음파·출혈 평가와 함께 읽는다.

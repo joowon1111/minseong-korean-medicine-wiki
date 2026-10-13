@@ -23,9 +23,9 @@ last_reviewed: 2026-10-08
 | 본초·제법 항목 | 이 수록본의 기재량 |
 |---|---|
 | [진피](../herbs/citrus-peel.md)·[반하](../herbs/pinellia.md)·[천궁](../herbs/chuanxiong.md)·[창출](../herbs/atractylodes-lancea.md) | 각 1전 |
-| [적복령](../herbs/poria.md)·[치자](../herbs/gardenia.md) | 각 7분 |
+| [적복령](../herbs/poria.md)·[치자](../herbs/gardenia.md) | 각 7푼 |
 | [향부자](../herbs/cyperus.md) | 2전 |
-| [사인](../herbs/amomum.md)·[감초](../herbs/licorice.md) | 각 5분 |
+| [사인](../herbs/amomum.md)·[감초](../herbs/licorice.md) | 각 5푼 |
 | [생강](../herbs/fresh-ginger.md) | 3편 |
 
 이 9미는 위 방약합편·한국전통지식포탈의 연교·패모·지각·소엽·신곡을 포함한 12미 수록형과 다르다. 《단계심법》의 육울 이론과 월국환을 처방 계통으로 연결하되 서로 다른 구성표를 한 원방으로 합치지 않는다.

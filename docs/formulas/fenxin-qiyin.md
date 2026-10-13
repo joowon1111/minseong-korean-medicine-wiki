@@ -28,10 +28,10 @@ description: 이기·화담·수습 조절의 배합, 유사 처방과의 차이
 
 | 본초·제법 항목 | 이 수록본의 기재량 |
 |---|---|
-| 소엽 | 1전 2분 |
-| [자감초](../herbs/licorice.md) | 7분 |
-| [법제반하](../herbs/pinellia.md)·[지각](../herbs/citrus-aurantium-immature.md) | 각 6분 |
-| 청피·[진피](../herbs/citrus-peel.md)·[목통](../herbs/akebia-stem.md)·[대복피](../herbs/areca-pericarp.md)·[상백피](../herbs/mulberry-root-bark.md)·[목향](../herbs/aucklandia.md)·[적복령](../herbs/poria.md)·빈랑·봉출·[맥문동](../herbs/ophiopogon.md)·[길경](../herbs/platycodon.md)·[계지](../herbs/cinnamon-twig.md)·[향부자](../herbs/cyperus.md)·[곽향](../herbs/agastache.md) | 각 5분 |
+| 소엽 | 1전 2푼 |
+| [자감초](../herbs/licorice.md) | 7푼 |
+| [법제반하](../herbs/pinellia.md)·[지각](../herbs/citrus-aurantium-immature.md) | 각 6푼 |
+| 청피·[진피](../herbs/citrus-peel.md)·[목통](../herbs/akebia-stem.md)·[대복피](../herbs/areca-pericarp.md)·[상백피](../herbs/mulberry-root-bark.md)·[목향](../herbs/aucklandia.md)·[적복령](../herbs/poria.md)·빈랑·봉출·[맥문동](../herbs/ophiopogon.md)·[길경](../herbs/platycodon.md)·[계지](../herbs/cinnamon-twig.md)·[향부자](../herbs/cyperus.md)·[곽향](../herbs/agastache.md) | 각 5푼 |
 | [생강](../herbs/fresh-ginger.md)·[대조](../herbs/jujube-fruit.md)·등심 | 3편·2매·10경 |
 
 《동의보감》은 《직지》를 인용한다. 공개 전사의 이체자·구두점은 정리했으며 원자료에서 대조할 수 있다. 이 수록문은 계지(桂枝), 위 방약합편 용량표는 계피로 표기하므로 실제 조제에서 해당 수록형을 확인한다.

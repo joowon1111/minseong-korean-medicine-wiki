@@ -38,7 +38,7 @@ last_reviewed: 2026-10-08
 |---|---|
 | [인삼](../herbs/ginseng.md) | 2전 |
 | [황기](../herbs/astragalus.md)·[백출](../herbs/atractylodes.md)·[진피](../herbs/citrus-peel.md) | 각 1전 |
-| [당귀](../herbs/angelica.md)·[백복령](../herbs/poria.md)·[자감초](../herbs/licorice.md) | 각 5분 |
+| [당귀](../herbs/angelica.md)·[백복령](../herbs/poria.md)·[자감초](../herbs/licorice.md) | 각 5푼 |
 | [생강](../herbs/fresh-ginger.md)·[대조](../herbs/jujube-fruit.md) | 3편·2매 |
 
 《동의보감》은 《역로》 계통을 인용한다. 공개 전사의 황기·복령 이체자는 정리했다. 본약 7미에 생강·대조를 더하며, 사군자탕에 황기·당귀만 더한 6미 설명에는 진피가 빠져 있었다.
