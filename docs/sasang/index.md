@@ -29,11 +29,23 @@ last_reviewed: '2026-09-22'
 | 사상의학과 네 체질의 기본 개념 | [사상의학 한눈에 보기](../sasang-integrated/index.md) |
 | 내 체질을 무엇으로 판단하는지 | [사상체질 임상 감별](../sasang-pattern-differential/index.md) |
 | 소화·땀·대변·수면 같은 평소 반응 | [소증으로 찾기](../sasang-symptoms/index.md) |
-| 지금 나타난 병증의 표리·순역 | [체질병증 비교](../sasang-integrated/patterns.md) |
+| 지금 나타난 병증의 표리·순역과 감별 | [체질별 증상 변화·치료 상세](../sasang-clinical-detail/index.md) |
 | 체질별 대표 처방과 차이 | [대표처방 찾기](../sasang-integrated/formulas.md) |
 | 한약·침·뜸·음식·운동의 구성 | [사상체질 치료·관리](../sasang-treatment/index.md) |
-| 원전·진료지침·현대 연구 | [근거·출전](../sasang-integrated/evidence.md) |
+| 병증의 원전 위치와 진료지침 | [병증 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md) |
+| 치료효과를 다룬 현대 연구 | [근거·출전](../sasang-integrated/evidence.md) |
 | 치료 뒤 무엇을 기록하는지 | [경과관찰·재평가](../sasang-followup/index.md) |
+
+### 목적에 맞게 이어 읽기 {#reading-routes}
+
+**처음 배우는 분**은 [탐색기](../sasang-explorer/index.md)에서 한 체질을 골라 소증과 큰 병증축을 살펴본 뒤, 아래 네 체질 비교로 돌아오면 용어를 정리하기 쉽습니다. 탐색기의 선택은 학습 경로이며 자신의 체질을 확정한 결과가 아닙니다.
+
+**증상의 변화를 이해하려는 분**은 [상세 허브의 감별 질문](../sasang-clinical-detail/index.md#differential-questions)에서 평소와 달라진 점을 확인하고, 해당 체질의 병증 카드에서 유사 병증·대표 처방·회복 지표를 함께 읽습니다. 체질을 모르는 상태에서 증상 하나를 골라 체질명을 역산하지 않습니다.
+
+**처방과 출전을 공부하는 분**은 병증 카드 → [원전·CPG 지도](../sasang-clinical-detail/pattern-source-map.md) → [처방 구성·출전 비교](../sasang-formula-cards/comparison-map.md) 순서로 읽습니다. 같은 이름의 처방도 판본·가감·제형이 다를 수 있으므로 실제 구성까지 확인합니다.
+
+!!! note "체질의 최종 판단은 진료에서"
+    체형·성격·음식 반응·설문 점수 하나로 스스로 체질을 확정하지 마세요. 한의원에서 병력과 소증을 문진하고 진찰·필요한 검사를 받은 뒤 종합적으로 판단합니다. 치료가 필요한 경우에는 한의사가 처방한 체질한약을 포함한 치료 경과도 참고해 판단을 정교화합니다. 체질 확인만을 위해 반드시 한약을 복용해야 하거나, 한 번의 복용 반응만으로 확정되는 것은 아닙니다.
 
 ## 네 체질을 임상적으로 비교하기 {#four-constitutions}
 
@@ -46,7 +58,7 @@ last_reviewed: '2026-09-22'
 | [소음인](../sasang-integrated/soeumin.md) | 신대비소 | 음식선화 | 신수열표열 ↔ 위수한리한 | 식욕·소화·대변·냉감과 기력 |
 | [태양인](../sasang-integrated/taeyangin.md) | 폐대간소 | 소변왕다 | 외감요척 ↔ 내촉소장 | 연하·섭취·보행·하지 힘과 배뇨 |
 
-### 체질과 현재 병증은 다릅니다
+### 체질과 현재 병증은 다릅니다 {#_2}
 
 - 소양인에게 냉감·설사가 중심인 망음병이 나타날 수 있습니다.
 - 태음인의 표한병과 리열병은 한열·발한·호흡·대변 흐름이 다릅니다.
@@ -114,20 +126,22 @@ last_reviewed: '2026-09-22'
 
 ## 체질별 핵심 병증과 대표 처방 {#formula-map}
 
-| 체질 | 병증 방향 | 대표 처방 예 |
+같은 체질에서도 표리와 순역에 따라 처방의 목적이 달라집니다. 아래 링크는 **병증을 비교하고 처방의 배합 이유를 읽기 위한 출발점**입니다.
+
+| 병증 비교 | 처방을 읽을 때의 초점 | 대표 문서 |
 |---|---|---|
-| 소양인 | 소양상풍·망음 | 형방도적산·형방사백산·형방지황탕 |
-| 소양인 | 흉격열·음허오열 | 양격산화탕·지황백호탕·독활지황탕 |
-| 태음인 | 위완수한표한 | 태음조위탕·조위승청탕 |
-| 태음인 | 간수열리열 | 열다한소탕·갈근해기탕·청폐사간탕·청심연자탕 |
-| 소음인 | 울광·망양 | 천궁계지탕·승양익기탕·승양팔물탕·인삼계지부자탕 |
-| 소음인 | 태음병·소음병 | 백하오이중탕·곽향정기산·관계부자이중탕·향부자팔물탕 |
-| 태양인 | 해역 | 오가피장척탕 |
-| 태양인 | 열격·반위 | 미후등식장탕 |
+| 소양인 결흉 ↔ 망음 | 흉격·담·기역이 중심인지, 설사·복통과 소모가 중심인지 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
+| 소양인 신열두통망음 ↔ 흉격열 | 열감이 같아도 평소 설사와 현재 배설·표병 단서를 구분 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) |
+| 소양인 흉격열 ↔ 음허오열 | 상부 번열·변폐와 만성적인 진액·기능 소모를 구분 | [흉격열 상세](../sasang-clinical-detail/soyangin.md#11-5) · [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) |
+| 태음인 표한 처방군 | 소화·무한뿐 아니라 호흡·피로·회복 기능을 함께 확인 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) |
+| 태음인 리열 처방군 | 열·갈증·대변과 폐조·기능저하의 정도, 실제 가감 차이 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) |
+| 소음인 울광 ↔ 망양 | 발한 유무 하나보다 땀 뒤 기력과 평소 소증, 현재 단계를 비교 | [울광 초기](../sasang-clinical-detail/soeumin.md#12-1) · [망양·승양 처방군](../sasang-clinical-detail/soeumin.md#12-3) |
+| 소음인 태음병 ↔ 소음병 | 소화·복통·설사에 냉감·갈증·쇠약·기능저하가 어떻게 겹치는지 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) · [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) |
+| 태양인 해역 ↔ 열격·반위 | 요척·하지·보행과 연하·섭취·구토 중 어느 기능이 문제인지 | [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) · [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md) |
 
-이 표는 처방 자동선택표가 아닙니다. 체질·소증·표리·순역·중증도와 처방 구성을 확인한 뒤 임상적으로 연결하는 색인입니다.
+망양 처방은 초기·진행 단계에 따라 읽어야 합니다. [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)은 갑오본 계통과 후대 수록형을 구별하며, 신축본 망양초증 처방으로 고정하지 않습니다. 부자 배합 처방도 추위를 탄다는 이유로 고르는 약이 아니며, 정확한 병증과 약재·용량·안전성 평가가 필요합니다.
 
-상세 임상카드는 태음인 9종·소양인 8종·소음인 8종·태양인 2종으로 확장되어 있습니다. 태양인은 원전의 병증·처방 자료가 상대적으로 제한적이므로 처방 수를 억지로 늘리지 않고 해역·열격의 기능평가와 현대 질환 감별을 더 자세히 연결합니다.
+태양인은 원전의 병증·처방 자료가 상대적으로 제한적입니다. [체질별 상세 허브](../sasang-clinical-detail/index.md)에서 기능평가와 현대 질환 감별을 함께 확인하고, [원전·CPG 지도](../sasang-clinical-detail/pattern-source-map.md)에서 각 분류의 출전을 대조합니다.
 
 → [대표 사상처방 상세](../sasang-formula-cards/index.md) · [사상처방 전체 색인](../sasang-formula-library/index.md) · [본초→사상처방 역색인](../herbs/sasang-formula-reverse-index.md)
 
@@ -160,15 +174,15 @@ last_reviewed: '2026-09-22'
 
 ## 환자가 자주 오해하는 지점 {#misunderstandings}
 
-### 체질은 평생 같은가요?
+### 체질은 평생 같은가요? {#_3}
 
 사상의학에서 체질은 타고난 기본 방향으로 보지만, 현재 병증과 생활·질환·연령에 따른 반응은 달라집니다. 그래서 과거 체질명만으로 오늘의 처방을 결정하지 않습니다. → [자세히 보기](../sasang-questions/is-constitution-fixed.md)
 
-### 음식만으로 체질을 알 수 있나요?
+### 음식만으로 체질을 알 수 있나요? {#_4}
 
 특정 음식의 한 번 반응보다 섭취량·조리법·현재 병증과 반복 반응을 봅니다. 알레르기, 당뇨·신장질환·항암치료 등에서는 해당 질환의 영양 기준을 우선해 조정합니다. → [체질과 음식](../sasang-questions/diet-and-constitution.md)
 
-### 체질검사 하나면 충분한가요?
+### 체질검사 하나면 충분한가요? {#_5}
 
 설문·체형·안면·음성 도구는 진료 정보를 표준화하는 데 활용할 수 있습니다. 최종 판단은 평소 소증, 병증, 전문가의 종합평가와 시간에 따른 일관성을 함께 봅니다.
 
@@ -193,7 +207,7 @@ last_reviewed: '2026-09-22'
 
 이 경우 필요한 검사와 급성기 치료를 먼저 연결하고 사상체질 치료를 전체 진료계획 안에 통합합니다.
 
-## 핵심 원전·표준자료
+## 핵심 원전·표준자료 {#_6}
 
 - [사상체질병증 한의표준임상진료지침, 2022](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14)
 - [《동의수세보원》](../classics/donguisusebowon.md)
