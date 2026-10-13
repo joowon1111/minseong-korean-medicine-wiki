@@ -68,7 +68,7 @@ last_reviewed: 2026-10-07
 
 배변·설사·월경통과 맥의 불규칙은 수록 위치와 실제 구성을 함께 확인합니다. **내경편 권4 대변의 [비약환·마자인환 계열](../formulas/mazi-ren-wan.md#donguibogam-version)**, **잡병편 권3 내상의 [삼령백출산](../formulas/shenling-baizhu-san.md#donguibogam-version)** 및 한(寒) 항목의 [반하사심탕](../formulas/banxia-xiexin-tang.md#donguibogam-version), **잡병편 권10 부인의 [온경탕](../formulas/wenjing-tang.md#donguibogam-version)**, **외형편 권3 맥의 [자감초탕](../formulas/zhigancao-tang.md#donguibogam-version)**을 기존 방제 문서에서 읽을 수 있습니다. 각 수록본의 약재·포제·제형은 해당 문서의 한국전통지식포탈 처방 기록에서 대조할 수 있습니다.
 
-원문 대조: 위키문헌의 《동의보감》 [내경편](https://ko.wikisource.org/wiki/동의보감/내경편), [외형편](https://ko.wikisource.org/wiki/동의보감/외형편), [잡병편](https://ko.wikisource.org/wiki/동의보감/잡병편). 짧은 고대 원문 발췌에는 읽기 위한 문장부호를 사용합니다. 전자 전사는 위키문헌 기여자에게 출처를 표시하며 전사 편집의 이용 조건은 해당 사이트의 CC BY-SA 4.0 안내를 따릅니다. 전사에는 이체자·오자가 있으므로 임상 조제에는 공인 원료·제제 정보와 처방 원전을 다시 확인합니다. 원문 단위인 전·분은 역사적 기록이며 개인의 복용량 안내가 아닙니다.
+원문 대조: 위키문헌의 《동의보감》 [내경편](https://ko.wikisource.org/wiki/동의보감/내경편), [외형편](https://ko.wikisource.org/wiki/동의보감/외형편), [잡병편](https://ko.wikisource.org/wiki/동의보감/잡병편). 짧은 고대 원문 발췌에는 읽기 위한 문장부호를 사용합니다. 전자 전사는 위키문헌 기여자에게 출처를 표시하며 전사 편집의 이용 조건은 해당 사이트의 CC BY-SA 4.0 안내를 따릅니다. 전사에는 이체자·오자가 있으므로 임상 조제에는 공인 원료·제제 정보와 처방 원전을 다시 확인합니다. 원문 단위인 전·푼은 역사적 기록이며 개인의 복용량 안내가 아닙니다.
 
 ### 기본방에서 기혈·담습·식적을 비교하기 {#basic-formula-comparison}
 
