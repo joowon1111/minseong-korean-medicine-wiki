@@ -6,7 +6,7 @@
   if (!global.document) return;
   const cache = new Map();
   function data(name) {
-    if (!cache.has(name)) { const p = global.fetch('/assets/archive-tools/' + name + '.json').then(r => {if (!r.ok) throw Error('자료 연결 실패'); return r.json();}).then(d => { if (d.schema !== 1) throw Error('자료 형식 오류'); return d; }); cache.set(name, p); p.catch(() => cache.delete(name)); }
+    if (!cache.has(name)) { const p = global.fetch('/assets/archive-tools/' + name + '.json', {cache:'no-cache'}).then(r => {if (!r.ok) throw Error('자료 연결 실패'); return r.json();}).then(d => { if (d.schema !== 1) throw Error('자료 형식 오류'); return d; }); cache.set(name, p); p.catch(() => cache.delete(name)); }
     return cache.get(name);
   }
   function el(tag, text, attrs = {}) { const n = global.document.createElement(tag); if (text !== undefined) n.textContent = text; for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v); return n; }
