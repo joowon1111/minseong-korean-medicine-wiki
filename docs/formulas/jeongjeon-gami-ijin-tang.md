@@ -29,12 +29,12 @@ last_reviewed: 2026-10-08
 
 | 본초·제법 항목 | 이 수록본의 기재량 |
 |---|---|
-| [귤홍](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)·[초신곡](../herbs/massa-medicata-fermentata.md) | 각 7분 |
+| [귤홍](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)·[초신곡](../herbs/massa-medicata-fermentata.md) | 각 7푼 |
 | [반하](../herbs/pinellia.md)·[향부자](../herbs/cyperus.md) | 각 1전 |
-| [자감초](../herbs/licorice.md) | 3분 |
-| [천궁](../herbs/chuanxiong.md)·[창출](../herbs/atractylodes-lancea.md)·[백출](../herbs/atractylodes.md) | 각 8분 |
-| 산사육 | 1전 5분 |
-| [사인](../herbs/amomum.md)·[초맥아면](../herbs/barley-malt.md) | 각 5분 |
+| [자감초](../herbs/licorice.md) | 3푼 |
+| [천궁](../herbs/chuanxiong.md)·[창출](../herbs/atractylodes-lancea.md)·[백출](../herbs/atractylodes.md) | 각 8푼 |
+| 산사육 | 1전 5푼 |
+| [사인](../herbs/amomum.md)·[초맥아면](../herbs/barley-malt.md) | 각 5푼 |
 | [생강](../herbs/fresh-ginger.md)·[대조](../herbs/jujube-fruit.md) | 3편·1매 |
 
 《의학정전》의 이름은 가미이진탕이며 동일 책의 다른 가미이진탕과 구별하는 주치는 「導痰補脾，消食行氣」이다. 대조는 이 수록문 1매, 위 방약합편 표 2매로 다르다.
@@ -51,9 +51,9 @@ last_reviewed: 2026-10-08
 | 자감초 | 1.125g | 중초 조화 |
 | 생강·대추 | 각 3편·2매 | 위기를 조화 |
 
-### 하통 71의 전·분과 포제 {#original-units}
+### 하통 71의 전·푼과 포제 {#original-units}
 
-약학정보원의 《방약합편》 처방문은 **산사육 1전 반, 향부자·반하 각 1전, 천궁·백출·창출 각 8분, 귤홍·백복령·신곡 각 7분, 사인·맥아 각 5분, 자감초 3분**으로 기록합니다. 위 g 표는 1전=3.75 g의 환산 기준으로 읽으며, 생강·대조의 개수와 구분합니다. 신곡·맥아의 볶음과 감초의 자법도 처방문에 포함됩니다. [하통 71 원문 기록](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417)
+약학정보원의 《방약합편》 처방문은 **산사육 1전 반, 향부자·반하 각 1전, 천궁·백출·창출 각 8푼, 귤홍·백복령·신곡 각 7푼, 사인·맥아 각 5푼, 자감초 3푼**으로 기록합니다. 위 g 표는 1전=3.75 g의 환산 기준으로 읽으며, 생강·대조의 개수와 구분합니다. 신곡·맥아의 볶음과 감초의 자법도 처방문에 포함됩니다. [하통 71 원문 기록](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=417)
 
 산사육이 가장 크게 배치되고 인삼은 들어 있지 않습니다. 원문의 ‘보비·소식·행기’라는 설명을 인삼 중심의 보기방과 같은 뜻으로 읽기보다, 비위를 막는 식적·담습을 풀면서 운화를 돕는 구조로 비교합니다. ‘정전’은 《의학정전》 계통을 가리키는 이름으로, 모든 이진탕 가감방을 한 처방으로 묶지 않습니다.
 

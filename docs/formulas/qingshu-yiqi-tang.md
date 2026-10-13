@@ -62,13 +62,13 @@ description: 이고의 청서익기탕 15미 구성과 청서익기·양음생�
 
 | 본초·제법 항목 | 이 수록본의 기재량 |
 |---|---|
-| [황기](../herbs/astragalus.md)·[창출](../herbs/atractylodes-lancea.md) | 각 1전 5분 |
+| [황기](../herbs/astragalus.md)·[창출](../herbs/atractylodes-lancea.md) | 각 1전 5푼 |
 | [승마](../herbs/cimicifuga.md) | 1전 |
-| [인삼](../herbs/ginseng.md)·[백출](../herbs/atractylodes.md)·[귤피](../herbs/citrus-peel.md)·[초신곡](../herbs/massa-medicata-fermentata.md)·[택사](../herbs/alisma.md) | 각 5분 |
-| [자감초](../herbs/licorice.md)·주침황백·당귀신·[맥문동](../herbs/ophiopogon.md)·청피·[갈근](../herbs/pueraria.md) | 각 3분 |
+| [인삼](../herbs/ginseng.md)·[백출](../herbs/atractylodes.md)·[귤피](../herbs/citrus-peel.md)·[초신곡](../herbs/massa-medicata-fermentata.md)·[택사](../herbs/alisma.md) | 각 5푼 |
+| [자감초](../herbs/licorice.md)·주침황백·당귀신·[맥문동](../herbs/ophiopogon.md)·청피·[갈근](../herbs/pueraria.md) | 각 3푼 |
 | [오미자](../herbs/schisandra.md) | 9개 |
 
-이 《내외상변혹론》 수록문은 황기·창출을 각 1전 5분으로 적는다. 위 동의보감 환산표는 창출 5.625 g, 황기 3.75 g이므로 같은 표로 합치지 않는다. 원문의 더위 노출 맥락을 모든 여름철 피로에 적용하는 규칙으로 바꾸지 않는다.
+이 《내외상변혹론》 수록문은 황기·창출을 각 1전 5푼으로 적는다. 위 동의보감 환산표는 창출 5.625 g, 황기 3.75 g이므로 같은 표로 합치지 않는다. 원문의 더위 노출 맥락을 모든 여름철 피로에 적용하는 규칙으로 바꾸지 않는다.
 
 ## 출전·구성 원칙 {#_4}
 한국전통지식포탈의 《동의보감》 수록형은 창출 5.625g, 황기·승마 각 3.75g, 인삼·백출·신곡·진피·택사 각 1.875g, 감초·갈근·당귀·맥문동·황백·청피 각 1.125g, 오미자 9알을 기록합니다. 고전 단위를 현대 조제에 적용할 때에는 의료기관의 조제 기준과 환자 상태에 맞춰 판단합니다.

@@ -26,11 +26,11 @@ last_reviewed: 2026-10-08
 
 | 본초·제법 항목 | 이 수록본의 기재량 |
 |---|---|
-| [당귀](../herbs/angelica.md) | 1전 5분 |
-| [천궁](../herbs/chuanxiong.md)·[초아교](../herbs/donkey-hide-gelatin.md)·[황백](../herbs/phellodendron.md)·[지모](../herbs/anemarrhena.md) | 각 5분 |
-| [백작약](../herbs/white-peony.md)·[강초황련](../herbs/coptis.md) | 각 8분 |
+| [당귀](../herbs/angelica.md) | 1전 5푼 |
+| [천궁](../herbs/chuanxiong.md)·[초아교](../herbs/donkey-hide-gelatin.md)·[황백](../herbs/phellodendron.md)·[지모](../herbs/anemarrhena.md) | 각 5푼 |
+| [백작약](../herbs/white-peony.md)·[강초황련](../herbs/coptis.md) | 각 8푼 |
 | [생지황](../herbs/fresh-rehmannia.md)·[조금](../herbs/scutellaria.md)·[향부자](../herbs/cyperus.md) | 각 1전 |
-| [애엽](../herbs/mugwort-leaf.md)·[감초](../herbs/licorice.md) | 각 3분 |
+| [애엽](../herbs/mugwort-leaf.md)·[감초](../herbs/licorice.md) | 각 3푼 |
 
 원문은 생지황·조금·강초황련·초아교를 적는다. 위 동의보감 수록표의 생건지황·아교주와 수치 표기를 구분해 비교한다. 조금은 황금의 해당 수록 명칭이다.
 

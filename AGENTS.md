@@ -23,6 +23,7 @@ A failed or incomplete security check blocks publication; do not silently pass i
 - Do not accumulate unrelated update blocks, repeated warnings, link lists, or duplicate summaries at the end of a page. Add a section only when it serves a distinct question in the document's reading order.
 - Place related links where readers need the next explanation. Keep the established taxonomy and URLs; verify existing heading anchors when restructuring.
 - Prefer strengthening existing documents to creating overlapping pages. Preserve the policy against blanket public review dates and do not invent clinical experience, authorship, or credentials.
+- In Korean herbal weight notation, write `푼` for the traditional unit `分` (for example, `7푼`, `1전 5푼`), never `분`. Keep the Chinese original unchanged. Distinguish weights from minutes, fractions, proportional length and decoction volume; do not convert every occurrence of `분` mechanically or infer a modern gram value from an ambiguous historical unit.
 
 ## Classical and modern clinical knowledge expansion
 

@@ -38,7 +38,8 @@ last_reviewed: 2026-09-06
 | 기침이 계속되거나 감기 뒤 남음 | [기침](../conditions/cough.md) · [만성기침](../conditions/chronic-cough.md) |
 | 감기에 자주 걸리거나 회복이 더딤 | [감기·급성 상기도감염](../conditions/common-cold.md) |
 | 목이 아프거나 가슴·목이 불편함 | [목·가슴 불편 증상군](../symptom-herbal-guide/respiratory-ent/r07-throat-chest.md) |
-| 목에 뭔가 걸린 듯함 | [목 이물감](../conditions/globus.md) |
+| 목에 뭔가 걸린 듯함 | [목 이물감·삼킴 감별](../conditions/globus.md#globus-dysphagia) |
+| 목이 마르고 말하면 불편함 | [목건조의 원인·관리](../conditions/dry-throat.md) · [구강건조](../conditions/dry-mouth.md) |
 | 천명·야간기침·운동 때 숨참 | [천식](../conditions/asthma.md) · [천식 근거 카드](../authority/conditions/asthma.md) |
 | 가래가 늘고 잘 뱉어지지 않음 | [기침·가래 관찰](#cough-sputum-assessment) · [만성기침](../conditions/chronic-cough.md) |
 | 누런 분비물·후각저하·얼굴 압박 | [축농증·부비동염](../conditions/sinusitis.md) · [후비루](../conditions/postnasal-drip.md) |
