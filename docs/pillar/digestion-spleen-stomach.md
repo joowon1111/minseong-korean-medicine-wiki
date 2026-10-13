@@ -34,6 +34,8 @@ last_reviewed: 2026-09-06
 | 배에 가스가 차고 빵빵함 | [복부팽만](../conditions/bloating.md) · [장내가스](../conditions/abdominal-gas.md) |
 | 조금만 먹어도 배부름 | [조기포만 안내](../answer-guides/early-satiety-guide.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) |
 | 변비와 배변곤란 | [변비](../conditions/constipation.md) |
+| 배변 때 피가 보이거나 검은 변 | [혈변·항문출혈](../conditions/rectal-bleeding.md) |
+| 항문 통증·덩이·돌출 | [치질·치핵](../conditions/hemorrhoids.md) · [탈항·직장탈출](../conditions/rectal-prolapse.md) |
 | 묽은 변과 잦은 설사 | [설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) |
 | 복통과 배변 변화가 반복됨 | [과민성장증후군](../conditions/ibs.md) |
 | 속쓰림·명치통증이 있음 | [위염·속쓰림](../conditions/gastritis-symptoms.md) |
@@ -54,6 +56,12 @@ last_reviewed: 2026-09-06
 식후 그득함·조기포만, 명치통증·작열감은 기능성소화불량의 증상 유형으로 구분합니다. 신물·가슴쓰림은 역류를, 복통과 변 형태·횟수 변화는 배변 관련 질환을 함께 봅니다. 서로 겹칠 수 있으므로 가장 식사와 생활을 방해하는 증상을 따로 기록합니다.
 
 내시경이 정상이어도 병력·복용약·헬리코박터 검사 여부와 필요한 감별을 함께 확인합니다. 검사는 모든 사람에게 같은 묶음으로 시행하지 않고 증상·위험요인·기존 결과에 맞춰 정합니다. 헬리코박터 검사 때는 위산억제제 등 복용약이 결과에 영향을 줄 수 있어 검사팀의 안내를 확인합니다. [NIDDK 소화불량 진단](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/diagnosis) · [NICE 소화불량·헬리코박터 평가](https://www.nice.org.uk/guidance/cg184/chapter/Recommendations)
+
+### 배변 뒤 출혈·통증·돌출은 별도로 구분합니다 {#anorectal-care}
+
+혈변은 [출혈의 양상·전신 상태·검사 선택](../conditions/rectal-bleeding.md#assessment)을 확인하고, 치핵은 [내치핵·외치핵·치열 등 감별](../conditions/hemorrhoids.md#differential)에서 시작합니다. 조직이 밖으로 나오면 치핵 탈출과 직장탈출을 구분하고 배출·점액·누출을 함께 평가합니다.
+
+[괴화산](../formulas/huaihua-san.md)의 청장·량혈·소풍·행기, [지유](../herbs/sanguisorba-root.md)의 량혈지혈·렴창, [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 보기승양은 서로 다른 전통 치료 방향입니다. 출혈·탈출이라는 이름만으로 처방을 고정하지 않고 원인 평가와 [배변·구조적 치료](../conditions/rectal-prolapse.md#treatment)의 목표를 맞춥니다.
 
 ## 주요 변증 {#_3}
 
