@@ -31,6 +31,8 @@ last_reviewed: 2026-09-06
 - [반하후박탕](../formulas/banxia-houpo-tang.md) — 목 이물감과 담기울결·오심
 - [이진탕](../formulas/erchen-tang.md) — 담습·오심·가래
 - [보화환](../formulas/baohe-wan.md) — 식적
+- [좌금환](../formulas/zuojin-wan.md) — 탄산·토산과 열의 전통 증후; 황련·오수유 6:1 수록형
+- [선복대자탕](../formulas/xuanfu-daizhe-tang.md) — 중허·담·기역과 지속 애기; 강역·보중 배합
 - [육군자탕](../formulas/liujunzi-tang.md) — 비위기허·식욕저하·조기포만; [사군자탕과 배합 비교](../compare/sijunzi-vs-liujunzi.md#pinellia-citrus) · [임상근거](../research/formulas/rikkunshito.md)
 - [삼령백출산](../formulas/shenling-baizhu-san.md) — 비위기허와 수습이 함께 있는 만성 묽은변·식욕저하·피로
 
@@ -47,6 +49,8 @@ last_reviewed: 2026-09-06
 | 과식 뒤 체기·신물·음식 냄새의 트림이 생김 | 식적을 풀고 소화를 돕는 방향 | 보화환 |
 | 명치가 막힌 느낌에 오심·장명·묽은변 등 상하부 증상이 겹침 | 한열착잡·비위불화의 조절 | 반하사심탕 |
 | 스트레스와 함께 상복부 팽만·통증·트림이 변함 | 기체를 풀고 소화 증상을 함께 조절 | 시호소간산 |
+| 신물과 열감·흉협 불편 등 전통 증후가 겹침 | 황련을 주축으로 오수유를 소량 배합한 청열·강역 | [좌금환](../formulas/zuojin-wan.md#acid-pattern); 속쓰림 하나로 선택하지 않음 |
+| 명치가 막히고 트림이 지속되며 회복·섭취가 약함 | 중허를 보완하면서 담·기역을 함께 조절 | [선복대자탕](../formulas/xuanfu-daizhe-tang.md#descending-tonification) |
 | 냉감·식욕저하에 팽만·기체가 겹침 | 비위허한을 돕고 습체·기체 조절 | 향사양위탕 |
 
 냉감이나 스트레스 한 가지로 처방을 정하지 않고 식욕·대변·갈증·복용약과 진찰을 함께 봅니다. [향사육군자탕은 보하는 약과 팽만을 푸는 약을 왜 함께 쓰나요?](../formulas/xiangsha-liujunzi-tang.md#tonification-and-digestion)에서 배합을 읽고, [동반 불편에 따라 기본방은 어떻게 가감하나요?](formula-selection-guide.md#formula-adjustment)로 이어갈 수 있습니다.
