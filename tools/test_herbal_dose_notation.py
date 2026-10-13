@@ -13,6 +13,7 @@ class HerbalDoseNotationTests(unittest.TestCase):
             with self.subTest(path=str(path.relative_to(ROOT))):
                 text = path.read_text(encoding="utf-8")
                 self.assertNotRegex(text, r"(?:량|냥)·전·분|전·분(?:은|을|과| 관계)")
+                self.assertNotRegex(text, r"\d+\s*푼의\s*\d+", "Keep fractions such as 10분의 1 distinct from weight units")
 
     def test_formula_amount_cells_do_not_use_minute_spelling(self):
         # Check only columns explicitly labelled as herbal amounts. Time,
