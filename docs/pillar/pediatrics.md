@@ -6,7 +6,7 @@ status: 검토완료
 last_reviewed: 2026-10-12
 ---
 
-# 소아·성장·면역 한의치료 허브
+# 소아·성장·면역 한의치료 허브 {#_1}
 
 밥을 적게 먹는 아이, 감기가 끝나도 쉽게 지치는 아이, 잠을 자면서 코가 막히는 아이. 보호자가 걱정하는 문제와 아이가 가장 불편해하는 문제는 조금 다를 수 있습니다. 키나 체중만 확인하기보다 먹을 때 아픈지, 밤에 편하게 숨 쉬는지, 친구들과 놀고 난 뒤 얼마나 지치는지도 함께 듣습니다.
 
@@ -25,6 +25,7 @@ last_reviewed: 2026-10-12
 | 코막힘과 감기가 반복돼요 | [소아 비염](../conditions/child-rhinitis.md) · [소아 잦은 감기·허약](../conditions/child-recurrent-colds.md) | 입호흡·코골이, 결석일 |
 | 자주 배가 아프거나 변이 불편해요 | [소아 복통](../conditions/child-abdominal-pain.md) · [소아 변비](../conditions/child-constipation.md) · [소아 설사](../conditions/child-diarrhea.md) | 변 형태, 통증 위치, 성장 |
 | 잠들기 어렵고 자주 깨요 | [소아 수면](../conditions/child-sleep.md) | 취침·기상, 코골이, 낮 행동 |
+| 잘 때 옷이나 베개가 젖어요 | [아이 식은땀·잘 때 땀](../conditions/child-night-sweats.md) | 환경·체온, 코골이, 낮 활동·성장 |
 | 밤에 이불에 소변을 봐요 | [소아 야뇨증](../conditions/child-enuresis.md) | 젖은 밤, 낮 배뇨, 변비 |
 | 다리가 아프다고 해요 | [성장통](../conditions/growing-pains.md) | 한쪽·낮 통증, 붓기·절뚝거림 |
 | 피곤하고 집중이 오래 가지 않아요 | [소아 피로](../conditions/child-fatigue.md) · [ADHD 안내](../conditions/adhd.md) | 수면·코호흡, 학교와 가정의 변화 |
@@ -104,6 +105,8 @@ last_reviewed: 2026-10-12
 이 범위는 생활 계획을 위한 권고이며 특정 시간에 반드시 잠들어야 한다는 규칙이나 키 성장량을 예측하는 기준은 아닙니다. 생후 4개월 미만에는 이 표를 적용하지 않습니다. 시간과 함께 수면의 규칙성·질·낮 기능을 봅니다. [AASM 합의문, 2016](https://aasm.org/resources/pdf/pediatricsleepdurationconsensus.pdf)
 
 코골이 중 숨을 멈추거나 힘들게 숨 쉬는 모습이 반복되면 비염·편도·아데노이드와 수면 호흡 문제를 평가합니다. [소아 수면](../conditions/child-sleep.md) · [소아 비염](../conditions/child-rhinitis.md)
+
+밤땀이 반복되면 방과 이불의 더운 정도를 먼저 확인하고 코골이·입호흡·야간 각성, 낮 활동과 성장의 변화를 함께 기록합니다. 땀이 많다는 이유만으로 허약을 정하거나 보약을 고정하지 않습니다. [아이의 밤땀 감별과 처방 비교](../conditions/child-night-sweats.md)
 
 ## 잦은 감기는 횟수와 회복 양상을 나누어 봅니다 {#infection-recovery}
 
@@ -215,7 +218,7 @@ last_reviewed: 2026-10-12
 
 [성장보약·아이 보약 상담](../conditions/child-parent-tonic-guide.md) · [소아 피로](../conditions/child-fatigue.md) · [소아 두통](../conditions/child-headache.md) · [한약 상담 준비](../conditions/herbal-consultation-prep.md)
 
-### 참고자료
+### 참고자료 {#_9}
 
 - Pediatric Endocrine Society. [Child with Suspected Short Stature](https://pedsendo.org/clinical-resource/child-with-suspected-short-stature/) — 성장 저하와 진료 연결 기준.
 - Paruthi S 등. 2016. [Recommended Amount of Sleep for Pediatric Populations](https://aasm.org/resources/pdf/pediatricsleepdurationconsensus.pdf). *J Clin Sleep Med* 12(6):785–786. DOI: 10.5664/jcsm.5866 — 연령별 수면시간 합의문.
