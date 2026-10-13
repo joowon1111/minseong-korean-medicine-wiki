@@ -42,7 +42,7 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
    }
    // The consolidated sidebar must reach the pattern index from a network page.
    await page.goto(base+'/sasang-formula-combination-network/');
-   if(name==='mobile') await page.locator('label[for="__drawer"]').first().click();
+   if(name==='mobile') await page.locator('header label[for="__drawer"]').click();
    const sidebar=page.locator('.md-sidebar--primary');
    assert.equal(await sidebar.getByRole('link',{name:'사상처방·병증·배합',exact:true}).count(),1);
    if(name==='mobile') {
