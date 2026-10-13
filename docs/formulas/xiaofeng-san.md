@@ -101,6 +101,8 @@ description: 풍습열성 소양에 소풍·청열·제습·양혈을 함께 쓰
 
 [두드러기](../conditions/urticaria.md)에서는 팽진의 시간 경과와 알레르기 위험신호를, [아토피피부염](../conditions/atopic-dermatitis.md)에서는 피부장벽·수면·감염을, [습진](../conditions/eczema.md)에서는 접촉 자극과 진물·건조를 구분합니다. 소풍산을 ‘피부 독소 제거’라는 하나의 설명으로 적용하지 않습니다.
 
+손에 집중되는 증상은 [손습진의 작업·장갑 노출](../conditions/eczema-hands.md#hand-exposure), 반복 수포는 [한포진의 병변 단계](../conditions/dyshidrotic-eczema.md#vesicle-course), 제품 뒤 피부 반응은 [접촉알레르기 평가](../conditions/allergic-skin.md#allergy-testing)를 함께 확인합니다. 노출 원인과 현재 진물·열감·건조를 나누어 보아야 소풍·제습·양혈의 비중을 비교할 수 있습니다. 이 처방의 아토피 시험을 손습진·한포진의 직접 시험으로 소개하지 않습니다.
+
 치료 후 가려움·병변 범위·수면·기존 외용약 사용을 함께 기록합니다. 여러 처방이나 외용·건강제품을 병용하면 성분과 피부 반응을 확인하고, 급성 알레르기나 피부 감염의 치료를 미루지 않습니다.
 
 발진이 뚜렷하지 않으면 [소양증의 원인 평가](../conditions/pruritus.md#assessment)를, 항문 주변에 집중되면 [항문소양증의 배변·세정·피부 평가](../conditions/pruritus-ani.md#causes)를 먼저 확인합니다. 이 연결은 소풍산을 모든 가려움의 공통 처방으로 지정하는 의미가 아닙니다.
