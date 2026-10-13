@@ -11,6 +11,13 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
     for (const [name, viewport] of [['mobile',{width:390,height:844}],['desktop',{width:1440,height:1000}]]) {
       const context = await browser.newContext({viewport}); const page = await context.newPage(); const errors=[];
       page.on('pageerror', e => errors.push(e.message));
+      await page.goto(base + '/herbal-integrated/formula-structure/?compare=formula-sijunzi-tang,formula-liujunzi-tang,formula-xiangsha-liujunzi-tang#interactive-comparison');
+      const trio=page.locator('[data-archive-compare]');
+      await trio.getByRole('table').waitFor();
+      assert.equal(await trio.locator('thead th').count(),4);
+      assert.match(await trio.locator('table').innerText(),/목향|사인/);
+      for (const name of ['사군자탕','육군자탕','향사육군자탕']) assert((await trio.locator('thead').innerText()).includes(name));
+      await trio.getByRole('button',{name:'선택 초기화',exact:true}).click();
       await page.goto(base + '/herbal-integrated/formula-structure/');
       const compare = page.locator('[data-archive-compare]');
       await compare.locator('.archive-choice-list').getByRole('button',{name:'사군자탕',exact:true}).click();

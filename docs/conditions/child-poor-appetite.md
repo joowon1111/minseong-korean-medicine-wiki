@@ -7,6 +7,8 @@ last_reviewed: 2026-09-06
 ---
 # 소아 식욕부진 — 아이가 밥을 안 먹고 입이 짧아요
 
+아이의 식욕부진은 먹고 싶은 마음이 없는지, 조금만 먹어도 배부른지, 씹거나 삼킬 때 힘든지부터 구분합니다. 성장 흐름과 하루 전체 섭취를 확인한 뒤 소화·배변·수면의 불편을 함께 관리합니다.
+
 ## 환자가 이렇게 검색할 수 있습니다
 
 - 아이 밥을 안 먹어요
@@ -54,12 +56,15 @@ last_reviewed: 2026-09-06
 
 ## 비위기허와 식적에 따라 처방을 비교합니다 {#pediatric-patterns}
 
-| 동반 양상 | 전통적인 비교 처방 |
-|---|---|
-| 식사량이 적고 쉽게 지치며 더부룩함·오심 | [육군자탕](../formulas/liujunzi-tang.md): 비위기허·담습 |
-| 허약에 팽만·트림 등 기체가 더 뚜렷 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
-| 오래된 묽은변과 식욕저하·피로 | [삼령백출산](../formulas/shenling-baizhu-san.md): 비허·수습 |
-| 과식 뒤 그득함·트림·음식 정체 | [보화환](../formulas/baohe-wan.md): 식적 |
+| 동반 양상 | 치법·비교 처방 | 달라지는 배합의 이유 |
+|---|---|---|
+| 적은 식사·피로·무른 변, 오심·팽만은 덜 뚜렷 | 보기건비 · [사군자탕](../formulas/sijunzi-tang.md#original-pattern-course) | 인삼·백출·복령·감초로 비위허약의 바탕을 설명 |
+| 위 양상에 더부룩함·오심이 겹침 | 건비화담 · [육군자탕](../formulas/liujunzi-tang.md#sijunzi-branching) | 반하의 화담·강역, 진피의 이기·조습을 더함 |
+| 허약에 팽만·트림 등 기체가 더 뚜렷 | 건비행기 · [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md#tonification-and-digestion) | 목향·사인 등의 행기로 보익과 정체 해소를 함께 고려 |
+| 오래된 묽은 변과 식욕저하·피로 | 건비삼습 · [삼령백출산](../formulas/shenling-baizhu-san.md#source-dose-original) | 산약·백편두·연자육 등의 건비와 의이인 등의 삼습을 함께 둠 |
+| 과식 뒤 그득함·트림·음식 정체 | 소식화적 · [보화환](../formulas/baohe-wan.md#original-pattern-course) | 산사·신곡·나복자 등의 소식으로 식적을 다룸 |
+
+같은 식욕저하라도 **허약을 받치는 것, 오심·담습을 다루는 것, 정체된 음식을 풀어 주는 것**은 치료의 출발점이 다릅니다. [사군자·육군자·향사육군자의 배합과 원문 비교](../compare/sijunzi-vs-liujunzi.md#xiangsha-comparison)를 함께 읽으면 약재를 더하는 이유가 명확해집니다.
 
 이 표는 처방 구조를 이해하기 위한 자료입니다. **아이의 연령·체중·병력·복용약·알레르기와 현재 병증**에 따라 구성과 용량을 정하며, 성인 연구를 그대로 소아 효과로 설명하지 않습니다. 식욕 개선과 최종 키 증가는 별도로 평가합니다. [성장보약·소아 한약](child-parent-tonic-guide.md) · [성장기 평가](child-growth.md)
 

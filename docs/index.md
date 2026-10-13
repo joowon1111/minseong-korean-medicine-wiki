@@ -27,7 +27,7 @@ hide:
 <section class="daily-km-card daily-km-home-card" data-daily-km aria-label="오늘의 한의학 한 장">
   <div class="daily-km-meta">
     <span class="daily-km-kicker">하루 한 장 · 오늘의 한의학</span>
-    <time data-km-date datetime="2026-10-07">2026년 10월 7일</time>
+    <time data-km-date>기본 카드</time>
   </div>
   <p class="daily-km-count" data-km-count>오늘의 카드</p>
   <h2 data-km-line>평소의 나를 알면, 오늘의 변화를 더 잘 읽을 수 있어요.</h2>
@@ -40,7 +40,7 @@ hide:
 </section>
 
 <section class="daily-km-almanac daily-km-home-almanac" data-daily-yangsheng aria-labelledby="home-yangsheng-title">
-  <div class="daily-km-meta"><span class="daily-km-kicker">계절의 일력 · <span data-yangsheng-season>가을</span></span><time data-yangsheng-date datetime="2026-10-12">2026년 10월 12일</time></div>
+  <div class="daily-km-meta"><span class="daily-km-kicker">계절의 일력 · <span data-yangsheng-season>가을</span></span><time data-yangsheng-date>기본 카드</time></div>
   <h2 id="home-yangsheng-title">양생(養生) 한 문장</h2>
   <p class="daily-km-almanac-definition">양생은 몸과 마음을 돌보는 생활 습관을 뜻합니다.</p>
   <p class="daily-km-almanac-label">아카이브의 생활 제안 · <span data-yangsheng-theme>식사</span></p>
@@ -67,7 +67,7 @@ hide:
   <header class="daily-km-topics-header">
     <div><h2>매일 만나는 한의학</h2>
     <p>경혈·본초·상한론·사상의학, 오늘의 원문과 핵심 풀이를 읽어보세요.</p></div>
-    <time data-topic-date datetime="2026-10-07">2026년 10월 7일</time>
+    <time data-topic-date>기본 카드</time>
   </header>
   <p class="daily-km-data-error" data-daily-data-error hidden>오늘의 카드 자료를 불러오지 못했습니다. 아래 아카이브 문서에서 전체 내용을 볼 수 있습니다.</p>
   <div class="daily-km-topic-grid">

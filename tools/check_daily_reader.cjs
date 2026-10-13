@@ -11,6 +11,32 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
     for (const [name,viewport] of [['mobile',{width:390,height:844}],['desktop',{width:1440,height:1000}]]) {
       const context = await browser.newContext({viewport});
       const page = await context.newPage(), errors = [];
+      // The home fallback is static; successful hydration must use the KST date.
+      await page.clock.install({time:new Date('2026-10-13T14:59:00Z')});
+      await page.goto(base+'/');
+      await page.locator('[data-topic-date][datetime="2026-10-13"]').waitFor();
+      await page.locator('[data-yangsheng-date][datetime="2026-10-13"]').waitFor();
+      assert.equal(await page.locator('[data-km-date]').getAttribute('datetime'),'2026-10-13');
+      assert.equal(await page.locator('[data-daily-data-error]').isVisible(),false);
+      assert.equal(await page.locator('[data-yangsheng-error]').isVisible(),false);
+      assert.equal(await page.locator('[data-topic-translation]').filter({visible:true}).filter({hasText:/^\s*아카이브 풀이\s*—\s*$/}).count(),0);
+      await page.clock.setFixedTime(new Date('2026-10-13T15:01:00Z'));
+      await page.reload();
+      await page.locator('[data-topic-date][datetime="2026-10-14"]').waitFor();
+      await page.locator('[data-yangsheng-date][datetime="2026-10-14"]').waitFor();
+      assert.equal(await page.locator('[data-km-date]').getAttribute('datetime'),'2026-10-14');
+      const failed = await context.newPage();
+      await failed.route('**/assets/daily-korean-medicine/*.json*', route => route.abort());
+      await failed.goto(base+'/');
+      await failed.locator('[data-daily-data-error]').waitFor();
+      await failed.locator('[data-yangsheng-error]').waitFor();
+      assert.equal(await failed.locator('[data-topic-date]').innerText(),'기본 카드');
+      assert.equal(await failed.locator('[data-yangsheng-date]').innerText(),'기본 카드');
+      assert.equal(await failed.locator('[data-topic-link]').count(),4);
+      for (const link of await failed.locator('[data-topic-link]').all()) assert(await link.getAttribute('href'));
+      assert.equal(await failed.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth),true);
+      await failed.close();
+
       page.on('pageerror',error => errors.push(error.message));
       await page.goto(base+'/daily-korean-medicine/?card=points-15');
       const preview = page.locator('[data-daily-preview]');

@@ -19,6 +19,9 @@ description: 사군자탕·육군자탕, 사물탕·팔물탕·십전대보탕 �
 
 | 읽고 있는 주제 | 바로 열어 볼 비교 | 함께 확인할 자료 |
 |---|---|---|
+| 비위허약·담습·기체 | [사군자탕·육군자탕·향사육군자탕](formula-structure.md?compare=formula-sijunzi-tang,formula-liujunzi-tang,formula-xiangsha-liujunzi-tang#interactive-comparison) | [같은 수록본의 원문·약량 비교](../compare/sijunzi-vs-liujunzi.md#xiangsha-comparison) · [소아 식욕부진](../conditions/child-poor-appetite.md#pediatric-patterns) |
+| 식욕저하와 묽은 변·식적 | [육군자탕·삼령백출산·보화환](formula-structure.md?compare=formula-liujunzi-tang,formula-shenling-baizhu-san,formula-baohe-wan#interactive-comparison) | [소식·삼습의 갈림점](../formula-architecture/sijunzi-family.md#food-dampness-comparison) |
+| 수면과 소화·기력 | [귀비탕·산조인탕·온담탕](formula-structure.md?compare=formula-guibi-tang,formula-suanzaoren-tang,formula-wendan-tang#interactive-comparison) | [출전·동명방·배합 비교](../herbal-formula-clinical/formula-comparison.md#sleep-family) · [소아 수면](../conditions/child-sleep.md#pediatric-patterns) |
 | 상한론 해표 처방 | [계지탕·마황탕](formula-structure.md?compare=formula-guizhi-tang,formula-mahuang-tang#interactive-comparison) | [12·35조와 대표 처방 지도](../shanghan-network/index.md#formula-map) · [상한론 학습](../learning/shanghanlun.md) |
 | 수기 처방의 차이 | [오령산·저령탕·진무탕·영계출감탕](formula-structure.md?compare=formula-wuling-san,formula-zhuling-tang,formula-zhenwu-tang,formula-linggui-zhugan-tang#interactive-comparison) | [원문·배합·감별표](../formula-architecture/shanghan-family.md#water-formula-differential) · [금궤요략 담음·수기](../jingui-network/index.md#phlegm-fluid) |
 
