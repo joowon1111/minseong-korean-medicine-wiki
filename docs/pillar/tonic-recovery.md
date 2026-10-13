@@ -134,6 +134,19 @@ last_reviewed: 2026-09-06
 
 **활동 후 악화가 뚜렷하면 회복 계획을 따로 잡습니다.** ME/CFS가 의심되거나 진단된 경우에는 신체 활동뿐 아니라 집중·대화 등도 고려해 감당할 수 있는 범위에서 활동과 휴식을 조정합니다. 운동시간을 정해진 비율로 계속 늘리는 방식은 적용하지 않습니다. [NICE NG206 에너지 관리·활동 권고](https://www.nice.org.uk/guidance/NG206/chapter/recommendations#managing-mecfs) · [감염 후 피로](../conditions/post-viral-fatigue.md)
 
+### 일어서기·보행과 골절 뒤 회복을 연결합니다 {#muscle-bone-recovery}
+
+식사가 늘고 피로가 줄어든 변화에 **도움 없이 일어나기·이동하기·씻기·외출하기**를 더해 회복 목표를 잡습니다. 어르신의 쇠약과 골절 후 회복에서는 근력·영양·통증·활동 제한을 함께 살피되 각각 필요한 평가로 이어갑니다.
+
+| 중심 변화 | 다음에 읽을 자료 | 따로 확인할 결과 |
+|---|---|---|
+| 체중은 비슷해도 힘과 활동이 줄어듦 | [근감소증 평가와 검사 역할](../conditions/frailty-sarcopenia.md#muscle-function) | 근육량·근력과 보행·생활기능 |
+| 식사·수면은 나아져도 외출이 계속 어려움 | [동반 원인과 통합치료](../conditions/frailty-sarcopenia.md#cause-assessment) | 통증·어지럼·질환·돌봄과 필요한 도움 |
+| 골절 뒤 통증은 줄었지만 고정·활동 제한이 남음 | [골유합과 기능 회복](../conditions/fracture-recovery.md#union-and-function) | 유합·부하 허용과 재활 |
+| 작은 충격의 골절·낙상이 반복됨 | [다음 골절 예방](../conditions/fracture-recovery.md#refracture-prevention) | 골절 위험·낙상·골다공증 치료 일정 |
+
+근감소증의 진단과 보행 기능의 평가는 [AWGS 2025를 반영한 안내](../conditions/frailty-sarcopenia.md#assessment-tools)에서 구분합니다. 보익·침구치료의 식사·수면·통증 목표와 근력 훈련·골절 예방의 목표를 함께 세우고 경과를 비교합니다.
+
 ## 치료 반응은 이렇게 확인합니다 {#_8}
 
 | 관찰축 | 실제로 기록할 항목 |
@@ -181,3 +194,4 @@ last_reviewed: 2026-09-06
 피로의 느낌과 검사 결과를 함께 살피고, 원인 치료와 식사·수면·일상 기능의 회복을 연결합니다.
 
 [빈혈·철결핍성빈혈](../conditions/anemia-fatigue.md) · [갑상선기능저하증](../conditions/hypothyroidism.md) · [갑상선기능항진증](../conditions/hyperthyroidism.md) · [갑상선 검사](../conditions/thyroid-lab.md) · [정상 검사 뒤 지속 피로](../conditions/normal-checkup-fatigue.md) · [감염 후 피로·활동 후 악화](../conditions/post-viral-fatigue.md) · [의도하지 않은 체중감소](../conditions/unintentional-weight-loss.md)
+
