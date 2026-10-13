@@ -76,6 +76,8 @@ last_reviewed: 2026-09-21
 | 수열호결·진액 변화 | 갈증·배뇨불편과 수분대사 변화 | 이수청열, [저령탕](../formulas/zhuling-tang.md) 계열 비교 |
 | 간울기체·골반 긴장 | 스트레스에 따른 절박감, 회음부 긴장, 수면 변화 | 소간이기와 골반저 이완을 함께 구성 |
 
+[축천환](../formulas/suoquan-wan.md#urinary-comparison)은 《의방고》의 허한·빈뇨·유뇨 배합으로 비교할 수 있습니다. 원전 주치와 과민성방광 진단은 동일하지 않으며, [잔뇨감](residual-urine.md#postvoid-residual)·[약한 줄기](weak-urine-stream.md#flow-interpretation)가 동반되면 배출 상태도 확인합니다.
+
 한약은 절박뇨만 보지 않고 냉열, 갈증, 1회 소변량, 배뇨통, 부종, 소화·수면, 전립선·부인과 상태를 함께 반영합니다. 초기 처방 뒤 배뇨일지와 OABSS 변화에 맞춰 가감합니다.
 
 ## 침·전침·약침 치료 구성 {#oab-modalities}
