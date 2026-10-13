@@ -108,6 +108,24 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
      await frame.locator('[data-tab="'+tab+'"]').click();
      assert(await frame.locator('.profile-body').isVisible());
      assert(await frame.locator('body').evaluate(e=>e.scrollWidth<=window.innerWidth+1));
+     if(tab==='constitution'){
+      await frame.locator('.profile-terms summary').click();
+      assert.equal(await frame.locator('.profile-terms .detail-card').count(),6);
+      assert(await frame.locator('.profile-terms .detail-card').last().isVisible());
+     }
+     if(tab==='patterns'){
+      assert.equal(await frame.locator('.structure-card').count(),4);
+      const jump=frame.locator('.structure-card [data-axis]').first();
+      const target=await jump.getAttribute('data-axis');
+      await jump.click();
+      await frame.locator('#source-title').waitFor();
+      await page.waitForFunction(a=>new URLSearchParams(location.hash.slice(1)).get('a')===a,target);
+      assert.equal(await frame.locator('[data-tab="patterns"]').getAttribute('aria-pressed'),'true');
+      assert(await frame.locator('body').evaluate(e=>e.scrollWidth<=window.innerWidth+1));
+      await page.waitForFunction(()=>{const f=document.getElementById('sasang-explorer-frame');return f.getBoundingClientRect().height>=f.contentDocument.body.getBoundingClientRect().height-5});
+      await frame.locator('.structure-card').first().screenshot({path:`archive-browser-results/${name}-${c}-structure.png`});
+     }
+
     }
     assert.match(await frame.locator('.profile-body').innerText(),/한약을 복용해야 하는 것은 아닙니다/);
     await frame.locator('[data-tab="food"]').click();
