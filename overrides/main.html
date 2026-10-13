@@ -12,3 +12,18 @@
   {{ super() }}
   <meta name="google-site-verification" content="lQGiH8kyade_mMZ43jkTjY_zlgYdIhI-aNUg0w5pvfc" />
 {% endblock %}
+
+{% block scripts %}
+  {% if page and page.file.src_uri == "sasang-explorer/index.md" %}
+    {# The explorer owns its selection hash; heading tracking would erase it on scroll. #}
+    <script>
+      (() => {
+        const node = document.getElementById("__config");
+        const config = JSON.parse(node.textContent);
+        config.features = config.features.filter(feature => feature !== "navigation.tracking");
+        node.textContent = JSON.stringify(config);
+      })();
+    </script>
+  {% endif %}
+  {{ super() }}
+{% endblock %}

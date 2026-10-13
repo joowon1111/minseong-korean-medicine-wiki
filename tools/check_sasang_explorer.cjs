@@ -72,6 +72,7 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
    }
    // The consolidated sidebar must reach the pattern index from a network page.
    await page.goto(base+'/sasang-formula-combination-network/');
+   assert.equal(await page.locator('#__config').evaluate(e=>JSON.parse(e.textContent).features.includes('navigation.tracking')),true);
    if(name==='mobile') await page.locator('header label[for="__drawer"]').click();
    const sidebar=page.locator('.md-sidebar--primary');
    assert.equal(await sidebar.getByRole('link',{name:'사상처방·병증·배합',exact:true}).count(),1);
@@ -86,6 +87,7 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
    await page.locator('article #soyang-jeoryeongchajeonja').waitFor();
    assert.equal(new URL(page.url()).hash,'#soyang-jeoryeongchajeonja');
    await page.goto(base+'/sasang-explorer/');
+   assert.equal(await page.locator('#__config').evaluate(e=>JSON.parse(e.textContent).features.includes('navigation.tracking')),false);
    const frame=page.frameLocator('#sasang-explorer-frame');
    await frame.locator('[data-c="소양인"]').waitFor();
    assert(!(await frame.locator('body').innerText()).includes('民成'));
@@ -132,6 +134,11 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
     assert.match(await frame.locator('.profile-body').innerText(),/한약을 복용해야 하는 것은 아닙니다/);
     await frame.locator('[data-tab="food"]').click();
     await page.waitForFunction(()=>location.hash.includes('t=food'));
+    const selectionHash=new URL(page.url()).hash;
+    await page.evaluate(()=>scrollTo(0,document.body.scrollHeight));
+    await page.waitForTimeout(300); // Heading tracking used to erase the selection after scrolling.
+    assert.equal(new URL(page.url()).hash,selectionHash);
+    await frame.locator('[data-tab="food"]').scrollIntoViewIfNeeded();
     assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
     await page.screenshot({path:`archive-browser-results/${name}-sasang-${c}-food.png`});
     await page.reload();
