@@ -15,6 +15,8 @@
 .learning-prompt{font-size:.9rem;line-height:1.9}
 .learning-actions,.learning-toolbar{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1rem;align-items:center}
 .learning-toolbar{justify-content:space-between}
+.learning-toolbar label{min-width:0;max-width:100%}
+.learning-toolbar input[type=file]{width:100%;min-width:0;box-sizing:border-box}
 .learning-toolbar button{font-size:.7rem}.learning-room .learning-clear{color:var(--md-default-fg-color--light);border-color:transparent}
 .learning-facts{display:grid;grid-template-columns:110px minmax(0,1fr);gap:.7rem 1rem}
 .learning-facts dt{font-weight:700;font-size:.76rem}.learning-facts dd{margin:0;line-height:1.8;font-size:.8rem}
