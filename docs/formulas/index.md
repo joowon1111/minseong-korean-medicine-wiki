@@ -7,12 +7,12 @@ tags:
 status: 검토완료
 last_reviewed: '2026-09-21'
 ---
-# 방제학
+# 방제학 {#_1}
 
 처방의 출전, 구성, 방의, 전통적 주치, 관련 변증, 유사 처방, 현대 연구를 정리합니다.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
-## 관련 핵심 문서
+## 관련 핵심 문서 {#_2}
 
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
@@ -24,11 +24,11 @@ last_reviewed: '2026-09-21'
 
 <!-- EXPANDED_FORMULA_MAP_START -->
 
-## 대표 처방 한눈에 보기
+## 대표 처방 한눈에 보기 {#_3}
 
 처방은 단순한 효능 목록보다 **어떤 병증과 증상 조합에서 활용되어 왔는지, 어떤 약재 구조를 가지는지** 함께 살펴보면 이해하기 쉽습니다.
 
-### 보익·기력·회복
+### 보익·기력·회복 {#_4}
 - [사군자탕](sijunzi-tang.md) · [육군자탕](liujunzi-tang.md) · [사물탕](siwu-tang.md) · [당귀보혈탕](danggui-buxue-tang.md) · [팔물탕](bazhen-tang.md)
 - [십전대보탕](shi-quan-da-bu-tang.md) · [보중익기탕](buzhong-yiqi-tang.md) · [귀비탕](guibi-tang.md) · [생맥산](shengmai-san.md)
 - [자감초탕](zhigancao-tang.md) · [황기계지오물탕](huangqi-guizhi-wuwu-tang.md)
@@ -36,17 +36,18 @@ last_reviewed: '2026-09-21'
 - [대보원전](dabo-wonjeon.md) · [좌귀환](zuogui-wan.md) · [우귀환](yougui-wan.md)
 - [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md)
 
-### 여성·임신준비·산후
+### 여성·임신준비·산후 {#_5}
 - [조경종옥탕](tiaojing-zhongyu-tang.md) · [육린주](yulin-zhu.md) · [개울종옥탕](kaiyu-zhongyu-tang.md)
 - [수태환](shoutai-wan.md) · [태산반석산](taishan-panshi-san.md) · [온경탕](wenjing-tang.md) · [당귀작약산](danggui-shaoyao-san.md) · [계지복령환](guizhi-fuling-wan.md)
 - [소복축어탕](shaofu-zhuyu-tang.md) · [청경사물탕](qingjing-siwu-tang.md) · [완대탕](wandai-tang.md) · [교애탕](jiaoai-tang.md)
 - [달생산](dalsaeng-san.md) · [불수산](bulsu-san.md) · [단녹용탕](dan-nokyong-tang.md) · [생화탕](saenghwa-tang.md)
 - [임신 준비·난임·임신·산후 통합 허브](../womens-health/fertility-pregnancy-postpartum.md)
 
-### 감기·호흡기·표증
+### 감기·호흡기·표증 {#_6}
 - [계지탕](guizhi-tang.md) · [마황탕](mahuang-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md) · [갈근탕](gegen-tang.md)
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md) · [시호계지탕](chaihu-guizhi-tang.md)
 - [행소산](xingsu-san.md) · [상국음](sangju-yin.md) · [맥문동탕](maidong-tang.md) — 량조·풍온·폐위음손의 기침 감별
+- [금수육군전](jinshui-liujun-jian.md) — 당귀·숙지황과 이진탕 계열을 결합한 허약·담음·기침의 배합; 육군자탕과 구성 구분
 
 - [삼소음](renshen-suyin.md#samsoeum-xingsu-comparison) · [소자강기탕](suzi-jiangqi-tang.md#donguibogam-banxiaqu) · [정천탕](dingchuan-tang.md#dispersing-and-astringing) — 기허 외감과 담천의 배합·수록형을 비교
 - [구미강활탕](jiuwei-qianghuo-tang.md#warming-and-clearing) · [옥병풍산](yupingfeng-san.md#astragalus-saposhnikovia-pair) — 현재 외감과 평소 기허·자한을 구분
@@ -54,26 +55,26 @@ last_reviewed: '2026-09-21'
 - **한출·오풍과 항배강:** [계지가갈근탕의 약량·복법](guizhi-jia-gegen-tang.md#gegen-ratio-preparation)
 - **무한·전신통과 번조:** 대청룡탕
 
-### 건중·허로
+### 건중·허로 {#_7}
 
 - [대건중탕](dajianzhong-tang.md) — 복부 냉감·팽만과 장기능 회복
 - [이중탕](lizhong-tang.md) · [소건중탕](xiaojianzhong-tang.md) · [황기건중탕](huangqi-jianzhong-tang.md)
 
-### 소화·담음·수습
+### 소화·담음·수습 {#_8}
 - [이진탕](erchen-tang.md) · [정전가미이진탕](jeongjeon-gami-ijin-tang.md) · [궁하탕](gungha-tang.md) · [온담탕](wendan-tang.md) · [육군자탕](liujunzi-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [오령산](wuling-san.md)
 - [전씨이공산·이공산](jeonssi-igong-san.md) · [삼출건비탕](samchul-geonbi-tang.md) · [자음건비탕](jaeum-geonbi-tang.md)
 - [개울화담전](gaeul-hwadam-jeon.md) · [소식청울탕](sosik-cheongul-tang.md) · [향사양위탕](xiangsha-yangwei-tang.md)
 - [불환금정기산](buhuanjin-zhengqi-san.md) · [곽향정기산](huoxiang-zhengqi-san.md) — 외감과 중초 습체가 겹친 오심·복부팽만·설사
 - [인삼양위탕](renshen-yangwei-tang.md) · [위령탕](weiling-tang.md) — 비위허약·한습과 중초 습체·수습 정체를 구분
 
-### 이기·해울
+### 이기·해울 {#_9}
 - [육울탕](yukwul-tang.md) · [월국환](yueju-wan.md) · [시호소간산](chaihu-shugan-san.md) · [반하후박탕](banxia-houpo-tang.md)
 - [분심기음](fenxin-qiyin.md) · [오약순기산](wuyao-shunqi-san.md) — 흉복 비체·수습과 풍사·지체통의 차이를 비교
 
-### 윤장·변비
+### 윤장·변비 {#_10}
 - [제천전](jichuan-jian.md) · [마자인환](mazi-ren-wan.md) · [변비 임상 안내](../conditions/constipation.md)
 
-### 통증·근골격
+### 통증·근골격 {#_11}
 
 - [작약감초탕](shaoyao-gancao-tang.md) — 근육경련·쥐
 - [독활기생탕](duhuo-jisheng-tang.md) · [갈근탕](gegen-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md)
@@ -81,19 +82,24 @@ last_reviewed: '2026-09-21'
 - [천궁다조산](chuanxiong-chatiao-san.md) · [청상견통탕](qingshang-juantong-tang.md#headache-formula-layers) — 소풍지통과 청열·자윤의 비중 비교
 - [소경활혈탕](shujing-huoxue-tang.md#source-herbs-and-bi-pattern) · [당귀수산](danggui-susan.md) — 오래된 복합 비증과 타박 뒤 어혈 비교
 
-### 눈피로·더위 뒤 기음소모
+### 눈피로·더위 뒤 기음소모 {#_12}
 
 - [기국지황환·기국지황탕](qiju-dihuang-wan.md) — 육미지황환 계열 + 구기자·국화의 명목 배합
 - [청서익기탕](qingshu-yiqi-tang.md) — 더위·습 뒤 땀·갈증·권태·식욕저하의 청서익기·양음생진
 
-### 과민·긴장과 수면
+### 구강·치아의 열·건조 {#oral-formulas}
+
+- [옥녀전](yunu-jian.md) — 경악전서의 석고·지모 청열과 숙지황·맥문동 자윤, 우슬의 하행 배합
+- [구내염](../conditions/mouth-ulcer.md#ulcer-formulas) · [입마름](../conditions/dry-mouth.md) · [치아 동요](../conditions/loose-teeth.md#classical-clinical-reading) — 국소 원인과 전통적 처방 비교를 함께 읽기
+
+### 과민·긴장과 수면 {#_14}
 
 - [산조인탕](suanzaoren-tang.md#jinkui-preparation) · [온담탕](wendan-tang.md#wendan-name-and-components) · [소요산](xiaoyao-san.md#xiaoyao-distinct-structure) — 허번·담위불화·간울혈허의 배합 비교
 
 - [억간산](yigan-san.md) — 처방 구조와 치매 행동심리증상 연구
 - [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) — 흉만·번경·심계·수면 불안정의 복합 증후와 불면·정서 임상연구
 
-### 허로·회복과 소화가 함께 있을 때
+### 허로·회복과 소화가 함께 있을 때 {#_15}
 
 - [쌍금탕](ssanggeum-tang.md) — 쌍화탕의 기혈회복 + 불환금정기산의 화습이기
 - [고진음자](gojin-eumja.md) — 기혈·비신허와 자한·유정·빈뇨의 불고
@@ -107,7 +113,7 @@ last_reviewed: '2026-09-21'
 - [진리다](jinlida.md) — 내당능장애의 당뇨병 진행·메트포르민 병용 연구
 - [갈근금련탕](gegen-qinlian-tang.md) — 장위 습열의 처방 구조와 혈당·장내미생물 연구
 
-### 처방 구조로 더 깊게 보기
+### 처방 구조로 더 깊게 보기 {#_16}
 - [사군자탕 계열](../formula-architecture/sijunzi-family.md) · [사물탕·기혈쌍보 계열](../formula-architecture/siwu-qi-blood-family.md)
 - [비위·담음 계열](../formula-architecture/spleen-phlegm-family.md) · [안신·불면 계열](../formula-architecture/insomnia-family.md)
 - [보익·회복 계열](../formula-architecture/tonic-family.md) · [근골격·비증 계열](../formula-architecture/bi-syndrome-family.md)
@@ -117,7 +123,7 @@ last_reviewed: '2026-09-21'
 
 <!-- TONIC_FORMULA_DEEP_LINK_START -->
 
-## 보익 처방을 더 깊게 비교하기
+## 보익 처방을 더 깊게 비교하기 {#_17}
 
 - [보약 처방의 용량·출전·품질](../clinical-guides/tonic-formula-dose-source-quality.md)
 - [보익·보약 처방 현대 연구 심화 지도](../clinical-guides/tonic-research-deep-guide.md)
@@ -127,7 +133,7 @@ last_reviewed: '2026-09-21'
 
 <!-- FORMULA_IMPACT_START -->
 
-## 보약 처방 비교·선택
+## 보약 처방 비교·선택 {#_18}
 
 - [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md)
 - [어떤 보약을 선택해야 하나요?](../clinical-guides/tonic-decision-map.md)
@@ -137,7 +143,7 @@ last_reviewed: '2026-09-21'
 <!-- FORMULA_IMPACT_END -->
 
 <!-- TONIC_ATLAS_LINK_START -->
-## 보익 처방 설계·용량 아틀라스
+## 보익 처방 설계·용량 아틀라스 {#_19}
 사군자탕·사물탕·팔물탕·십전대보탕·보중익기탕·귀비탕·육군자탕·생맥산을 **출전 → 원방 구조 → 상대 구성비 → 현대적 가감 → 녹용 가미** 순으로 비교합니다.
 
 [보익 처방 설계·용량 아틀라스 보기 →](../clinical-guides/tonic-formula-design-dose-atlas.md)
@@ -145,19 +151,19 @@ last_reviewed: '2026-09-21'
 
 
 
-## 임상 핵심 확장
+## 임상 핵심 확장 {#_20}
 → [임상 핵심 본초·방제·경혈](../clinical-core/index.md)
 
 <!-- COMBO_FORMULA_14_START -->
-## 방제와 경혈을 함께 보기
+## 방제와 경혈을 함께 보기 {#_21}
 - [방제·경혈 임상 조합 지도](../network/formula-acupoint-combinations.md)
 <!-- COMBO_FORMULA_14_END -->
 
 <!-- THREE_CORE_FORMULA_HUB_18_START -->
-## 임상 방제 지식망
+## 임상 방제 지식망 {#_22}
 방제는 **병증·치법 → 처방 구조 → 구성 본초 → 환자 증상 → 침구치료**로 연결합니다.
 
-### 영역별 대표 방제
+### 영역별 대표 방제 {#_23}
 - **보기·회복**: 사군자탕 · 육군자탕 · 팔물탕 · 십전대보탕 · 보중익기탕 · 귀비탕
 - **소화·담음**: 평위산 · 이진탕 · 반하사심탕 · 향사육군자탕 · 삼령백출산 · 보화환 · 온담탕
 - **수면·심계**: 귀비탕 · 산조인탕 · 천왕보심단 · 시호가용골모려탕
@@ -167,7 +173,7 @@ last_reviewed: '2026-09-21'
 - **신허**: 육미지황환 · 팔미지황환
 - **대표 보익**: 공진단 · 경옥고
 
-### 변증·경혈·연구로 더 깊게
+### 변증·경혈·연구로 더 깊게 {#_24}
 - [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 - [방제·경혈 임상 조합 지도](../network/formula-acupoint-combinations.md)
 - [처방 구조 비교](../formula-architecture/index.md)

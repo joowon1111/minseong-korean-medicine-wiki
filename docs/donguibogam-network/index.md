@@ -86,9 +86,13 @@ last_reviewed: 2026-10-07
 | 頭 · 머리 | 두통의 발생 양상·동반 증상·위험신호 | [두통](../conditions/headache.md) · [두통·어지럼 안전성](../clinical-safety/headache-dizziness.md) |
 | 耳 · 귀 | 청력 변화·이명·현훈의 동반 여부 | [이명](../conditions/tinnitus.md) · [어지럼](../conditions/dizziness.md) |
 | 眼 · 눈 | 시력 변화와 반복 사용에 따른 피로 | [눈 피로](../conditions/eye-fatigue.md) |
+| 口舌·牙齒 · 입·혀·치아 | 궤양·맛·건조와 잇몸·치아 지지조직을 구분 | [구내염](../conditions/mouth-ulcer.md) · [미각 변화](../conditions/taste-change.md) · [치아 흔들림](../conditions/loose-teeth.md) |
+| 皮 · 피부 | 건조·각질과 붉음·진물·균열의 구분 | [건조피부](../conditions/dry-skin.md) · [습진](../conditions/eczema.md) |
 | 背·腰·手足 · 등·허리·사지 | 통증 위치, 운동·감각, 국소 조직과 경맥 | [통증·근골격](../pillar/pain-musculoskeletal.md) · [경락 지식망](../meridian-network/index.md) |
 
 부위 색인에서 찾은 경혈은 표준 위치·자침 안전성을 확인한 뒤, 해당 질환을 대상으로 한 현대 침 연구와 연결합니다.
+
+입·치아의 원문 관찰은 [의학입문의 구설순·아치](../classics/uihak-ipmun.md#oral-dental-reading)와 대조할 수 있습니다. 후대 《경악전서》의 [옥녀전](../formulas/yunu-jian.md)은 청열·자음의 처방 비교로 이어 읽되, 동의보감 자체의 수록 처방과 구분합니다. [13개 진료 분야의 고전·처방 탐색](../classics/index.md#clinical-specialties)에서 다른 분야로 이동할 수 있습니다.
 
 → [경락·경맥 지식망](../meridian-network/index.md)  
 → [WHO 표준 361경혈 아틀라스](../acupoint-network/standard-atlas.md)  
