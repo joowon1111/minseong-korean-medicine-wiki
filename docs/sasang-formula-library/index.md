@@ -22,7 +22,7 @@ last_reviewed: 2026-09-22
 | 소양인 | [음허오열·하소](#soyang-yin-deficiency) | 독활지황탕·숙지황고삼탕·화석지황탕 | 야간 열감, 배뇨·갈증, 하지 기능과 만성 소모 |
 | 태음인 | [위완수한표한·승청](#taeeum-exterior) | 태음조위탕·조위승청탕·행인승청탕·승지조위탕·경험승청탕 등 | 땀 뒤 반응, 식후 복만, 호흡·하지 기능 |
 | 태음인 | [간수열리열](#taeeum-interior) | 열다한소탕·청폐사간탕·청심연자탕·갈근계·승기계 | 열·갈증·대변 정체, 식체와 급성 복증 구분 |
-| 소음인 | [울광·망양](#soeum-mangyang) | 천궁계지탕·승양팔물탕·승양익기탕·부자 배합 처방 | 발한 뒤 기력, 냉감·탈진과 표병의 중증도 |
+| 소음인 | [울광·망양](#soeum-mangyang) | 천궁계지탕·팔물군자탕 / 황기계지탕·보중익기탕·승양익기탕 | 발한 뒤 기력, 냉감·탈진과 표병의 중증도 |
 | 소음인 | [태음병·소음병·리한](#soeum-taeeum) | 곽향정기산·이중계·계지반하생강탕·관중계 | 구토·설사·복통, 수분·배뇨, 사지냉과 전신상태 |
 | 태양인 | [해역·열격](#taeyang-limited) | 오가피장척탕·미후등식장탕 | 보행·하지 기능 / 연하·섭취·구토와 위험신호 |
 
@@ -75,6 +75,14 @@ last_reviewed: 2026-09-22
 [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) · [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md)
 
 태양인은 현존 원전의 병증·처방 자료가 다른 체질보다 제한적입니다. 숫자를 맞추기 위해 후대 효능이나 다른 체질 처방을 끌어오지 않으며, 진행성 하지근력 저하·보행장애와 연하곤란·반복 구토·체중감소는 신경계·척추·위식도 평가를 우선합니다.
+
+## 지침 처방과 동명방 비교 {#guideline-formula-links}
+
+**소양인:** [저령차전자탕](soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) · [인동등지골피탕](soyangin-extended-formulas.md#soyang-indongdeungjigolpi) · [십이미지황탕](soyangin-extended-formulas.md#soyang-sibimijihwang)
+
+**태음인:** [마황발표탕](taeeumin-extended-formulas.md#taeeum-mahwangbalpyo) · [마황정천탕](taeeumin-extended-formulas.md#taeeum-mahwangjeongcheon) · [한다열소탕](taeeumin-extended-formulas.md#taeeum-handayeolso) · [보폐원탕](taeeumin-extended-formulas.md#taeeum-bopyewon)
+
+**소음인:** [황기계지탕](soeumin-extended-formulas.md#soeum-hwanggigyeji) · [팔물군자탕](soeumin-extended-formulas.md#soeum-palmulgunja) · [독삼팔물군자탕](soeumin-extended-formulas.md#soeum-doksampalmulgunja) · [보중익기탕](soeumin-extended-formulas.md#soeum-bojungikgi) · [향사양위탕](soeumin-extended-formulas.md#soeum-hyangsayangwi) · [강출관중탕](soeumin-extended-formulas.md#soeum-gangchulgwanjung) · [인삼오수유탕](soeumin-extended-formulas.md#soeum-insamosuyu)
 
 ## 처방을 읽는 항목
 

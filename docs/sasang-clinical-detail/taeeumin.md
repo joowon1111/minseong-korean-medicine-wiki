@@ -149,6 +149,9 @@ last_reviewed: 2026-10-02
 
 ## 13. 병증별 상세 카드
 
+**처방군 비교:** [마황발표탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-mahwangbalpyo) · [마황정천탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-mahwangjeongcheon) · [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-handayeolso) · [보폐원탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-bopyewon).
+병증별 위치와 유사 처방 차이는 [체질별 한약처방](../sasang-formula-cards/index.md#taeeumin-formulas)에서 확인합니다.
+
 ### 13-1. 표한·한궐/통증
 
 **원전·CPG 직결:** [원전] 《동의수세보원·신축본》 「태음인 위완수한표한병론」의 表寒·寒厥 축 · [CPG] [태음인 표병 2015](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957) · [전체 출전 지도](pattern-source-map.md)

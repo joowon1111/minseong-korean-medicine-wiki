@@ -151,6 +151,9 @@ last_reviewed: 2026-10-02
 
 ### 11-2. 표병·결흉/흉격 불편
 
+**처방군 비교:** [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) · [인동등지골피탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-indongdeungjigolpi) · [십이미지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sibimijihwang).
+병증별 위치와 유사 처방 차이는 [체질별 한약처방](../sasang-formula-cards/index.md#soyangin-formulas)에서 확인합니다.
+
 **원전·CPG 직결:** [원전] 「소양인 비수한표한병론」의 結胸 분기 · [CPG] [소양상풍병 2014](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) — 중등증의 결흉/진행 분기 · [전체 출전 지도](pattern-source-map.md)
 **위치:** 표병 골격이 남아 있으면서 흉격·담·기역과 배설 변화가 커진 단계.  
 **중심:** 흉격 답답함, 두통·한열, 담·기역, 갈증과 대소변 변화를 묶어 봅니다.  

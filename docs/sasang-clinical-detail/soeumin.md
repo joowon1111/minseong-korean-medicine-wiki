@@ -139,6 +139,9 @@ last_reviewed: 2026-10-02
 
 ## 12. 병증별 상세 카드
 
+**처방군 비교:** [황기계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hwanggigyeji) · [팔물군자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-palmulgunja) · [독삼팔물군자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-doksampalmulgunja) · [보중익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-bojungikgi) · [향사양위탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangsayangwi) · [강출관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gangchulgwanjung) · [인삼오수유탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-insamosuyu).
+병증별 위치와 유사 처방 차이는 [체질별 한약처방](../sasang-formula-cards/index.md#soeumin-formulas)에서 확인합니다.
+
 ### 12-1. 태양증·울광 초기
 
 **원전·CPG 직결:** [원전] 《동의수세보원·신축본》 「소음인 신수열표열병론」의 鬱狂 축 · [CPG] [울광병 2014](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865448) · [전체 출전 지도](pattern-source-map.md)

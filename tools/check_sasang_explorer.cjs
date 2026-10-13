@@ -10,6 +10,30 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
   for(const [name,viewport] of [['mobile',{width:390,height:844}],['desktop',{width:1440,height:1000}]]){
    const page=await browser.newPage({viewport}),errors=[];
    page.on('pageerror',e=>errors.push(e.message));
+   // The archive hubs must remain usable alongside the embedded explorer.
+   for(const [path,anchor] of [
+    ['sasang','start'],
+    ['sasang-clinical-detail','differential-questions'],
+    ['sasang-clinical-detail/pattern-source-map','source-questions'],
+    ['sasang-formula-cards','formula-coverage']
+   ]){
+    await page.goto(`${base}/${path}/#${anchor}`);
+    assert.equal(await page.locator(`article #${anchor}`).count(),1);
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'hub must not overflow viewport');
+    await page.screenshot({path:`archive-browser-results/${name}-${path.replaceAll('/','-')}.png`});
+   }
+   for(const [label,anchor] of [
+    ['저령차전자탕','soyang-jeoryeongchajeonja'],
+    ['마황발표탕','taeeum-mahwangbalpyo'],
+    ['황기계지탕','soeum-hwanggigyeji']
+   ]){
+    await page.goto(base+'/sasang-formula-cards/');
+    await page.locator('article').getByRole('link',{name:label,exact:true}).click();
+    await page.locator(`article #${anchor}`).waitFor();
+    assert.equal(new URL(page.url()).hash,'#'+anchor);
+    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'formula detail must not overflow viewport');
+    await page.screenshot({path:`archive-browser-results/${name}-${anchor}.png`});
+   }
    await page.goto(base+'/sasang-explorer/');
    const frame=page.frameLocator('#sasang-explorer-frame');
    await frame.locator('[data-c="소양인"]').waitFor();
