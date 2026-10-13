@@ -1,47 +1,29 @@
 ---
 title: 사상체질·병증 처방 탐색기
-description: 사상체질과 주요 병증을 선택해 병증 단계, 감별 포인트, 대표 처방과 민성 한의학 아카이브 관련 문서를 단계적으로 탐색하는 학습용 도구입니다.
+description: 네 체질의 소증·26개 병증군·감별·대표 처방과 체질식이·양생·운동을 단계적으로 살펴보고 한의원 진찰과 경과 평가로 연결하는 사상의학 탐색기입니다.
 tags: [사상의학, 사상체질, 병증, 처방, 학습도구]
 status: 시험운영
 last_reviewed: '2026-10-02'
+hide:
+  - toc
 ---
 
 # 사상체질·병증 처방 탐색기
 
-<div class="sasang-explorer-notice" role="note">
-<strong>학습·문서 탐색용 도구입니다.</strong>
-이 탐색기는 사상체질이나 질병을 진단하거나 개인별 처방을 추천하지 않습니다.
-이미 학습하려는 체질·병증을 선택하면 아카이브 안의 병증 단계, 감별 포인트, 대표 처방 문서로 이어주는 색인입니다.
-실제 진료·처방은 병력, 진찰, 검사, 안전성, 전문가의 종합 판단이 필요합니다.
-</div>
+체질 → 병증 → 감별 → 대표 처방을 선택해 살펴보고, 체질별 **소증·음식·체질식이·양생·운동과 한의원 진료 과정**을 함께 읽을 수 있습니다.
 
-<div id="sasang-explorer" class="sasang-explorer">
-  <div class="sasang-explorer__steps" aria-label="탐색 순서">
-    <span class="is-active">1 체질</span><span>2 주요 병증군</span><span>3 세부 단계</span><span>4 문서</span>
-  </div>
-  <div class="sasang-explorer__controls">
-    <label><span>1. 사상체질</span><select id="sx-constitution">
-      <option value="">체질을 선택하세요</option>
-      <option value="소양인">소양인</option><option value="태음인">태음인</option>
-      <option value="소음인">소음인</option><option value="태양인">태양인</option>
-    </select></label>
-    <label><span>2. 주요 병증군</span><select id="sx-axis" disabled><option value="">먼저 체질을 선택하세요</option></select></label>
-    <label><span>3. 세부 단계</span><select id="sx-stage" disabled><option value="">전체 단계</option></select></label>
-    <button type="button" id="sx-reset" class="sasang-explorer__reset">초기화</button>
-  </div>
-  <div id="sx-summary" class="sasang-explorer__summary" aria-live="polite">체질을 선택하면 해당 체질의 주요 병증군과 세부 단계를 단계적으로 살펴볼 수 있습니다.</div>
-  <div id="sx-results" class="sasang-explorer__results"></div>
-</div>
+<iframe id="sasang-explorer-frame" src="../assets/sasang-explorer/index.html" title="사상의학 체질·병증·처방·생활관리 탐색기" style="width:100%;height:1400px;border:0;display:block;border-radius:8px;background:#f7f6f0" loading="eager"></iframe>
+<script src="../assets/sasang-explorer/embed-parent.js" defer></script>
 
-<link rel="stylesheet" href="/assets/sasang-explorer.css">
-<script src="/assets/sasang-explorer.js" defer></script>
+[탐색기를 넓은 화면으로 열기](../assets/sasang-explorer/index.html){ .md-button }
 
 ## 탐색기를 읽는 순서
 
-1. **체질**은 이 도구가 판정하지 않습니다. 공부하려는 체질을 직접 선택합니다.
-2. **병증축**에서 표리·주요 병증 방향을 좁힙니다.
-3. **병증 단계**를 선택하면 해당 단계에서 아카이브가 정리한 핵심 모습과 감별 포인트를 확인합니다.
-4. **대표 처방**은 추천 결과가 아니라 그 병증 단계와 연결해 읽을 처방 문서입니다.
-5. 처방 카드와 체질 통합 허브, 병증 감별 문서를 함께 열어 원문 맥락을 확인합니다. 각 결과의 **원전·CPG 근거** 링크에서는 《동의수세보원》 편명·짧은 원문 표지어와 병증별 CPG를 바로 대조할 수 있습니다.
+**학습·문서 탐색용 도구입니다.** 이 탐색기는 사상체질이나 질병을 진단하거나 개인별 처방을 추천하지 않습니다.
+
+1. 학습할 **체질**을 선택한 뒤 주요 **병증군**을 살펴봅니다.
+2. **감별 포인트**와 연결된 **대표 처방**을 읽고 원전·CPG 및 처방 출전을 대조합니다.
+3. 체질별 상세 탭에서 평소와 현재를 비교하는 **소증 8영역**, 병증 구조, 처방 비교, 음식·체질식이, 양생·운동을 확인합니다.
+4. 체질을 임의로 확정하지 않고 **한의원 진찰과 필요한 검사, 치료가 필요한 경우 처방받은 체질한약의 경과까지 종합해 판단**합니다. 한약 반응 하나만으로 확정하거나 체질 확인 목적으로 자가 복용하지 않습니다.
 
 → [사상의학 통합 허브](../sasang-integrated/) · [사상체질 대표처방](../sasang-integrated/formulas.md) · [체질별 병증 감별](../sasang-pattern-differential/) · [원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md) · [처방 배합망](../sasang-formula-combination-network/)
