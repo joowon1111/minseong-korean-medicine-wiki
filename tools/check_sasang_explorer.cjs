@@ -15,7 +15,13 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
     ['sasang','start'],
     ['sasang-clinical-detail','differential-questions'],
     ['sasang-clinical-detail/pattern-source-map','source-questions'],
-    ['sasang-formula-cards','formula-coverage']
+    ['sasang-formula-cards','formula-coverage'],
+    ['sasang-formula-library','guideline-formula-links'],
+    ['sasang-formula-combination-network','pattern-to-composition'],
+    ['sasang-formula-combination-network/soyangin-network','soyang-new-branches'],
+    ['sasang-formula-combination-network/taeeumin-network','taeeum-new-branches'],
+    ['sasang-formula-combination-network/soeumin-network','soeum-new-branches'],
+    ['sasang-formula-combination-network/ingredient-frequency','frequency-cohort']
    ]){
     await page.goto(`${base}/${path}/#${anchor}`);
     assert.equal(await page.locator(`article #${anchor}`).count(),1);
@@ -34,6 +40,21 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
     assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'formula detail must not overflow viewport');
     await page.screenshot({path:`archive-browser-results/${name}-${anchor}.png`});
    }
+   // The consolidated sidebar must reach the pattern index from a network page.
+   await page.goto(base+'/sasang-formula-combination-network/');
+   if(name==='mobile') await page.locator('header label[for="__drawer"]').click();
+   const sidebar=page.locator('.md-sidebar--primary');
+   assert.equal(await sidebar.getByRole('link',{name:'사상처방·병증·배합',exact:true}).count(),1);
+   if(name==='mobile') {
+    const back=sidebar.locator('label.md-nav__title').filter({hasText:'배합·구성 비교'});
+    if(await back.isVisible()) await back.click();
+   }
+   await page.screenshot({path:`archive-browser-results/${name}-sasang-formula-sidebar.png`});
+   await sidebar.getByRole('link',{name:'병증별 처방 색인',exact:true}).click();
+   await page.waitForURL('**/sasang-formula-library/');
+   await page.locator('article').getByRole('link',{name:'저령차전자탕',exact:true}).click();
+   await page.locator('article #soyang-jeoryeongchajeonja').waitFor();
+   assert.equal(new URL(page.url()).hash,'#soyang-jeoryeongchajeonja');
    await page.goto(base+'/sasang-explorer/');
    const frame=page.frameLocator('#sasang-explorer-frame');
    await frame.locator('[data-c="소양인"]').waitFor();
