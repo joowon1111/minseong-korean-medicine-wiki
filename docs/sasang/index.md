@@ -25,6 +25,7 @@ last_reviewed: '2026-09-22'
 
 | 지금 궁금한 것 | 먼저 볼 문서 |
 |---|---|
+| 체질별 병증·처방과 소증·음식·양생·운동을 직접 탐색 | [대화형 사상의학 탐색기](../sasang-explorer/index.md) |
 | 사상의학과 네 체질의 기본 개념 | [사상의학 한눈에 보기](../sasang-integrated/index.md) |
 | 내 체질을 무엇으로 판단하는지 | [사상체질 임상 감별](../sasang-pattern-differential/index.md) |
 | 소화·땀·대변·수면 같은 평소 반응 | [소증으로 찾기](../sasang-symptoms/index.md) |
