@@ -73,6 +73,9 @@ last_reviewed: '2026-09-21'
 - [불환금정기산](buhuanjin-zhengqi-san.md) · [곽향정기산](huoxiang-zhengqi-san.md) — 외감과 중초 습체가 겹친 오심·복부팽만·설사
 - [인삼양위탕](renshen-yangwei-tang.md) · [위령탕](weiling-tang.md) — 비위허약·한습과 중초 습체·수습 정체를 구분
 
+- [좌금환](zuojin-wan.md) — 《의방집해》 황련·오수유 6:1과 포제; 탄산·토산의 전통 증후
+- [선복대자탕](xuanfu-daizhe-tang.md) — 《상한론》 161조의 비경·애기와 강역·보중, 7미의 약량·거재재전법
+
 ### 이기·해울 {#_9}
 - [육울탕](yukwul-tang.md) · [월국환](yueju-wan.md) · [시호소간산](chaihu-shugan-san.md) · [반하후박탕](banxia-houpo-tang.md)
 - [분심기음](fenxin-qiyin.md) · [오약순기산](wuyao-shunqi-san.md) — 흉복 비체·수습과 풍사·지체통의 차이를 비교

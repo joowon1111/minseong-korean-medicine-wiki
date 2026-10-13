@@ -39,7 +39,8 @@ last_reviewed: 2026-09-06
 | 묽은 변과 잦은 설사 | [설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) |
 | 복통과 배변 변화가 반복됨 | [과민성장증후군](../conditions/ibs.md) |
 | 속쓰림·명치통증이 있음 | [위염·속쓰림](../conditions/gastritis-symptoms.md) |
-| 신물·가슴쓰림과 식후·누운 자세에서 악화 | [역류성식도염](../conditions/gerd.md) |
+| 신물·가슴쓰림과 식후·누운 자세에서 악화 | [역류성식도염](../conditions/gerd.md) · [치료 뒤 지속 증상 평가](../conditions/gerd.md#reflux-testing) |
+| 트림이 반복되거나 음식물이 되올라옴 | [위내·위상부 트림 감별](../conditions/belching.md#belching-baseline) |
 | 검진에서 지방간·간수치 이상을 들음 | [지방간의 네 평가축](../conditions/fatty-liver.md#three-axes) · [간수치 추세](../conditions/elevated-liver-enzymes.md) |
 | 메스꺼움·먹기 불편함 | [오심](../conditions/nausea.md) · [소아 식욕부진](../conditions/child-poor-appetite.md) |
 
@@ -56,6 +57,12 @@ last_reviewed: 2026-09-06
 식후 그득함·조기포만, 명치통증·작열감은 기능성소화불량의 증상 유형으로 구분합니다. 신물·가슴쓰림은 역류를, 복통과 변 형태·횟수 변화는 배변 관련 질환을 함께 봅니다. 서로 겹칠 수 있으므로 가장 식사와 생활을 방해하는 증상을 따로 기록합니다.
 
 내시경이 정상이어도 병력·복용약·헬리코박터 검사 여부와 필요한 감별을 함께 확인합니다. 검사는 모든 사람에게 같은 묶음으로 시행하지 않고 증상·위험요인·기존 결과에 맞춰 정합니다. 헬리코박터 검사 때는 위산억제제 등 복용약이 결과에 영향을 줄 수 있어 검사팀의 안내를 확인합니다. [NIDDK 소화불량 진단](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/diagnosis) · [NICE 소화불량·헬리코박터 평가](https://www.nice.org.uk/guidance/cg184/chapter/Recommendations)
+
+### 탄산·조잡·애기는 불편의 내용을 나누는 말입니다 {#acid-belching-care}
+
+[《의학입문》의 소화기 문목](../classics/uihak-ipmun.md#digestive-terms)은 신물이 넘어오는 탄산·토산, 허기·통증과 비슷한 속의 불편인 조잡, 트림인 애기를 나눕니다. 오늘은 신물·공기·음식물 되올라옴, 공복·식후 불편과 실제 섭취량을 각각 확인합니다. 이 용어를 하나의 역류 진단으로 합치지 않습니다.
+
+[좌금환](../formulas/zuojin-wan.md)은 황련·오수유의 청열·강역을, [선복대자탕](../formulas/xuanfu-daizhe-tang.md)은 선복화·대자와 인삼·생강 등의 강역·보중을 비교합니다. 식적의 보화환, 한열착잡·심하비의 반하사심탕과 같은 목적의 처방으로 묶지 않고 [소화 처방 비교표](../herbal-integrated/formula-for-digestion.md#digestive-pattern-comparison)에서 냉열·허실·담·식적의 차이를 이어 봅니다.
 
 ### 배변 뒤 출혈·통증·돌출은 별도로 구분합니다 {#anorectal-care}
 
