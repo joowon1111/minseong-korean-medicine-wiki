@@ -25,6 +25,7 @@ last_reviewed: 2026-10-07
 | 갑자기 참기 어렵고 자주 감 | [과민성방광](../conditions/overactive-bladder.md) | 절박감·누수, 1회 소변량, 유발 음료 |
 | 밤에 소변 때문에 깸 | [야간뇨](../conditions/nocturia.md) | 야간 소변량, 깬 이유, 코골이·부종 |
 | 줄기가 약하고 오래 걸림 | [전립선비대증](../conditions/benign-prostatic-hyperplasia.md) · [약한 소변줄기](../conditions/weak-urine-stream.md) | 시작 지연·끊김, 잔뇨·복용약 |
+| 긴장할 때 화장실을 자주 감 | [스트레스성 빈뇨](../conditions/urinary-frequency-stress.md#stress-bladder-diary) | 1회 양·절박감·상황을 함께 기록 |
 | 소변을 봐도 남은 느낌 | [잔뇨감](../conditions/residual-urine.md) | 실제 잔뇨량과 감각, 방광·요도·골반저 |
 | 회음부·골반 통증 | [만성전립선염·골반통](../conditions/chronic-prostatitis.md) · [골반저 긴장](../conditions/pelvic-floor-tension-men.md) | 감염, 앉는 자세, 배변·사정 후 변화 |
 | 발기를 유지하기 어렵거나 성욕이 줄어듦 | [발기력저하](../conditions/erectile-difficulty.md) · [남성갱년기](../conditions/male-menopause.md) | 혈관·대사, 약물, 수면·정서와 필요한 호르몬 평가 |
@@ -71,6 +72,8 @@ last_reviewed: 2026-10-07
 | 진찰·전립선 크기 평가 | 전립선·외부 생식기·하복부 등의 상태 | 크기와 불편 정도는 항상 비례하지 않음 |
 | PSA 등 선택 검사 | 전립선 질환 평가와 치료계획에 필요한 정보 | 검사 목적·염증·복용약·후속 평가를 함께 상담 |
 | 신장기능·초음파 등 | 반복 요폐·감염이나 합병증 단서 | 증상·병력·기존 검사에 맞춰 선택 |
+
+[잔뇨감의 측정·경과](../conditions/residual-urine.md#postvoid-residual)와 [약한 소변줄기의 요속 해석](../conditions/weak-urine-stream.md#flow-interpretation)은 느낌과 검사 결과를 구분해 기록하는 방법을 다룹니다.
 
 [전립선비대증 검사·치료](../conditions/benign-prostatic-hyperplasia.md#assessment-treatment)에서 상세한 평가와 약물·시술 선택으로 이어집니다. 검사에서 확인하는 질환과 아래의 전통 변증은 서로 다른 정보를 제공합니다.
 
@@ -158,6 +161,7 @@ last_reviewed: 2026-10-07
 | 비교할 처방 | 배합·증후의 중심 | 함께 읽기 |
 |---|---|---|
 | 팔정산·저령탕 | 팔정산의 청열통림과 저령탕의 수열·진액 손상 맥락을 구분 | [팔정산](../formulas/bazheng-san.md) · [저령탕](../formulas/zhuling-tang.md) |
+| 축천환 | 《의방고》의 허한·빈뇨·유뇨; 오약·익지인 등분과 산약호 제환 | [축천환의 수록형·처방 비교](../formulas/suoquan-wan.md#source-components) |
 | 육미·팔미지황환 | 육미의 자음과 팔미의 온양·기화 조절을 냉열·갈증과 비교 | [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) · [팔미지황환](../formulas/bawei-dihuang-wan.md) |
 | 보중익기탕 | 기력·식욕·활동 뒤 변화와 보기승양의 맥락 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
 | 소간이기·활혈 처방군 | 긴장·팽만과 고정통 등 서로 다른 단서를 종합 | [골반통 변증·치료](../conditions/chronic-prostatitis.md) |

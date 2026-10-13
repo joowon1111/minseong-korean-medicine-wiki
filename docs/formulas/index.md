@@ -104,6 +104,12 @@ last_reviewed: '2026-09-21'
 - [옥녀전](yunu-jian.md) — 경악전서의 석고·지모 청열과 숙지황·맥문동 자윤, 우슬의 하행 배합
 - [구내염](../conditions/mouth-ulcer.md#ulcer-formulas) · [입마름](../conditions/dry-mouth.md) · [치아 동요](../conditions/loose-teeth.md#classical-clinical-reading) — 국소 원인과 전통적 처방 비교를 함께 읽기
 
+### 빈뇨·유뇨와 배뇨 불편 {#urinary-formulas}
+
+[축천환](suoquan-wan.md)은 《의방고》의 오약·익지인 등분과 산약호 제환 기록으로 허한·빈뇨·유뇨를 설명합니다. [팔정산](bazheng-san.md)의 청열통림, [저령탕](zhuling-tang.md)의 수열·진액, [팔미지황환](bawei-dihuang-wan.md)의 온양·기화와 배합·증후를 비교합니다.
+
+[잔뇨감](../conditions/residual-urine.md) · [약한 소변줄기](../conditions/weak-urine-stream.md) · [스트레스성 빈뇨](../conditions/urinary-frequency-stress.md)에서 실제 배출과 저장 증상을 나누고 [비뇨기 안내](../pillar/urology-mens-health.md#_6)로 이어갑니다.
+
 ### 과민·긴장과 수면 {#_14}
 
 - [산조인탕](suanzaoren-tang.md#jinkui-preparation) · [온담탕](wendan-tang.md#wendan-name-and-components) · [소요산](xiaoyao-san.md#xiaoyao-distinct-structure) — 허번·담위불화·간울혈허의 배합 비교

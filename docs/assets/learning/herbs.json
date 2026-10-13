@@ -223,7 +223,7 @@
         },
         {
           "label": "배합 예",
-          "value": "향사육군자탕 — 국내 방약합편 계통에서 백두구 등과 온중 배합을 이루며 보기·이기 구조를 받침"
+          "value": "축천환 — 《의방고》 수록형에서 오약과 등분; 온신·축뇨와 산한의 배합을 허한·빈뇨·유뇨 맥락에서 비교 / 향사육군자탕 — 국내 방약합편 계통에서 백두구 등과 온중 배합을 이루며 보기·이기 구조를 받침"
         }
       ],
       "source": "/herbs/alpinia-oxyphylla/",
@@ -6095,6 +6095,12 @@
       "context": "생약명: Alpiniae Oxyphyllae Fructus",
       "options": [
         {
+          "text": "익지인(益智仁)",
+          "owner": "익지인(益智仁)",
+          "ownerId": "herb-alpinia-oxyphylla",
+          "source": "/herbs/alpinia-oxyphylla/"
+        },
+        {
           "text": "구기자(枸杞子)",
           "owner": "구기자(枸杞子)",
           "ownerId": "herb-cornus-extra",
@@ -6111,15 +6117,9 @@
           "owner": "대추·대조(大棗)",
           "ownerId": "herb-jujube-fruit",
           "source": "/herbs/jujube-fruit/"
-        },
-        {
-          "text": "익지인(益智仁)",
-          "owner": "익지인(益智仁)",
-          "ownerId": "herb-alpinia-oxyphylla",
-          "source": "/herbs/alpinia-oxyphylla/"
         }
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "익지인(益智仁) — 생약명: Alpiniae Oxyphyllae Fructus",
       "source": "/herbs/alpinia-oxyphylla/"
     },
@@ -6174,16 +6174,16 @@
           "source": "/herbs/schisandra/"
         },
         {
-          "text": "대추·대조(大棗)",
-          "owner": "대추·대조(大棗)",
-          "ownerId": "herb-jujube-fruit",
-          "source": "/herbs/jujube-fruit/"
-        },
-        {
           "text": "익지인(益智仁)",
           "owner": "익지인(益智仁)",
           "ownerId": "herb-alpinia-oxyphylla",
           "source": "/herbs/alpinia-oxyphylla/"
+        },
+        {
+          "text": "대추·대조(大棗)",
+          "owner": "대추·대조(大棗)",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/herbs/jujube-fruit/"
         },
         {
           "text": "연자육·연자(蓮子肉)",
@@ -6192,7 +6192,7 @@
           "source": "/herbs/lotus-seed/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "익지인(益智仁) — 전통 효능: 온비지사·온신고정·축뇨",
       "source": "/herbs/alpinia-oxyphylla/"
     },
