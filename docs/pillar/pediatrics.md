@@ -12,7 +12,7 @@ last_reviewed: 2026-10-12
 
 아이의 증상은 **연령·발달 단계와 성장 흐름 → 먹고 자고 배변하는 일상 → 진찰과 필요한 검사 → 한의학적 변증과 치료 → 경과 재평가**로 이어 봅니다. 아래 증상표는 진료에서 확인할 문제와 관련 문서를 찾는 안내입니다. 보호자가 체질이나 처방을 스스로 결정하는 표는 아닙니다.
 
-**바로 읽기:** [성장곡선](#growth-curve) · [식욕과 배변](#appetite-bowel) · [수면과 코호흡](#sleep-breathing) · [잦은 감기와 회복](#infection-recovery) · [소아 한약·침구](#_5) · [초진 문진·경과관찰](#_6) · [한 주 기록 예시](#home-diary)
+**바로 읽기:** [성장곡선](#growth-curve) · [식욕과 배변](#appetite-bowel) · [수면과 코호흡](#sleep-breathing) · [잦은 감기와 회복](#infection-recovery) · [감기 뒤 청력](#middle-ear-hearing) · [소아 한약·침구](#_5) · [초진 문진·경과관찰](#_6) · [한 주 기록 예시](#home-diary)
 
 아이를 돌보는 마음에서 이야기를 시작하고 싶다면 민성의담 [「돌봄을 받은 아이가, 아이들을 위한 의서를 남기다」](../classical-stories/childhood-care-book.md)를 읽어 보세요. 『소아약증직결』 서문에 남은 어린 시절의 기억에서 오늘의 아이와 보호자를 함께 바라봅니다.
 
@@ -23,6 +23,7 @@ last_reviewed: 2026-10-12
 | 키가 잘 크는지 궁금해요 | [소아 성장](../conditions/child-growth.md) | 키·체중 백분위와 성장속도 |
 | 밥을 너무 적게 먹어요 | [소아 식욕부진](../conditions/child-poor-appetite.md) | 식사시간·양, 변비, 구강·연하 |
 | 코막힘과 감기가 반복돼요 | [소아 비염](../conditions/child-rhinitis.md) · [소아 잦은 감기·허약](../conditions/child-recurrent-colds.md) | 입호흡·코골이, 결석일 |
+| 감기 뒤 잘 못 듣거나 자꾸 되물어요 | [중이염·중이삼출](../conditions/otitis-media.md) | 반응하는 소리, 대화·TV·교실에서의 변화 |
 | 자주 배가 아프거나 변이 불편해요 | [소아 복통](../conditions/child-abdominal-pain.md) · [소아 변비](../conditions/child-constipation.md) · [소아 설사](../conditions/child-diarrhea.md) | 변 형태, 통증 위치, 성장 |
 | 잠들기 어렵고 자주 깨요 | [소아 수면](../conditions/child-sleep.md) | 취침·기상, 코골이, 낮 행동 |
 | 잘 때 옷이나 베개가 젖어요 | [아이 식은땀·잘 때 땀](../conditions/child-night-sweats.md) | 환경·체온, 코골이, 낮 활동·성장 |
@@ -48,7 +49,7 @@ last_reviewed: 2026-10-12
 | 시기 | 우선 확인할 축 | 치료·관찰의 중심 |
 |---|---|---|
 | 영유아 | 수유·이유식, 체중 증가, 수면, 대변, 반복 발열 | 성장곡선 유지와 먹고 자는 리듬 |
-| 유치원기 | 편식·식욕, 비염·중이염, 변비, 야뇨, 분리불안 | 어린이집 생활과 결석일, 배변·수면 습관 |
+| 유치원기 | 편식·식욕, 비염·[중이염](../conditions/otitis-media.md), 변비, 야뇨, 분리불안 | 어린이집 생활과 결석일, 배변·수면 습관 |
 | 초등기 | 성장속도, 복통·두통, 알레르기, 집중·피로 | 학교 기능, 운동량, 수면시간과 회복 |
 | 사춘기 | 성장 급등, 월경, 체중 변화, 여드름, 정서·수면 | 신체 변화와 자율성, 학업·운동 균형 |
 
@@ -115,6 +116,18 @@ last_reviewed: 2026-10-12
 회복 관리를 계획할 때는 발열일·증상 지속기간·입원이나 중증 감염·결석일, 식사와 활동이 돌아오는 데 걸린 시간을 정리합니다. 반복 폐렴·평소와 다른 심한 감염·성장 저하가 있다면 원인 평가를 연결합니다. [잦은 감기와 허약의 감별](../conditions/child-recurrent-colds.md#differential)
 
 한약 상담에서도 ‘면역력을 높인다’는 넓은 표현을 **감기 뒤 식사 회복, 밤의 코호흡, 놀이와 등교 복귀**처럼 확인할 수 있는 목표로 구체화합니다. 감염에 필요한 치료와 예방접종 계획은 함께 이어갑니다.
+
+### 감기 뒤에는 듣기와 대화도 확인합니다 {#middle-ear-hearing}
+
+귀 통증·발열이 가라앉은 뒤에도 중이에 액체가 남을 수 있습니다. 아이가 작은 소리에 반응하지 않거나 같은 말을 자꾸 되묻는다면 집중이나 태도의 문제로만 보지 않습니다. 귀 진찰과 연령에 맞는 청력검사가 필요한지 상담합니다. [NIDCD 소아 귀 감염 안내](https://www.nidcd.nih.gov/health/ear-infections-children)
+
+| 집·학교에서 본 변화 | 진료에 가져갈 내용 |
+|---|---|
+| TV 소리를 키우고 자꾸 되물음 | 언제부터인지, 조용한 대화에서도 그런지 |
+| 교실 지시를 놓치거나 대화가 어려움 | 교사 관찰, 아이가 어려워하는 상황 |
+| 감기 뒤 귀 통증·먹먹함이 반복됨 | 좌우·발열·분비물, 진찰·청력검사 날짜 |
+
+가까이에서 얼굴을 보며 말하고 배경 소음을 줄이는 지원을 해 봅니다. 필요한 추적 간격은 중이삼출과 청력저하, 생활 영향에 따라 정합니다. 새로 갑자기 잘 안 들리면 예정된 재진을 기다리지 않습니다. [중이염·소아 청력 추적](../conditions/otitis-media.md#child-follow-up) · [가족의 대화 지원](../conditions/hearing-loss.md#communication-support)
 
 ## 소아 한의진료의 핵심 {#_5}
 
@@ -226,3 +239,4 @@ last_reviewed: 2026-10-12
 - Royal Children's Hospital Melbourne. [Viral illnesses](https://www.rch.org.au/kidsinfo/fact_sheets/Viral_illnesses/) — 반복 바이러스 감염과 회복 관찰.
 - NHS. [Bedwetting in children](https://www.nhs.uk/symptoms/bedwetting/) · [High temperature in children](https://www.nhs.uk/symptoms/fever-in-children/) — 야뇨 돌봄과 발열 평가.
 - NCCIH. [Children and the Use of Complementary Health Approaches](https://www.nccih.nih.gov/health/children-and-the-use-of-complementary-health-approaches) — 진단·병용 정보·복용량·보관 확인.
+
