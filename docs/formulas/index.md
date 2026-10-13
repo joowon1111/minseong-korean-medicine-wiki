@@ -80,6 +80,12 @@ last_reviewed: '2026-09-21'
 ### 윤장·변비 {#_10}
 - [제천전](jichuan-jian.md) · [마자인환](mazi-ren-wan.md) · [변비 임상 안내](../conditions/constipation.md)
 
+### 장관 출혈·치핵과 배변 {#anorectal-formulas}
+
+[괴화산](huaihua-san.md)은 《보제본사방》의 4미 등분으로 청장·량혈지혈에 소풍·행기를 함께 배합합니다. [보중익기탕](buzhong-yiqi-tang.md#rectal-prolapse-context)의 보기승양, [마자인환](mazi-ren-wan.md)·[제천전](jichuan-jian.md)의 윤장·허비와는 비교할 증후가 다릅니다.
+
+[혈변 평가](../conditions/rectal-bleeding.md) · [치핵의 감별·치료](../conditions/hemorrhoids.md) · [탈항·직장탈출](../conditions/rectal-prolapse.md)에서 실제 원인·배변·구조를 확인한 뒤 처방 문서로 이어갑니다.
+
 ### 통증·근골격 {#_11}
 
 - [작약감초탕](shaoyao-gancao-tang.md) — 근육경련·쥐
