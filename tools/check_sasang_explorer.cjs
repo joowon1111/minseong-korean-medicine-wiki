@@ -72,6 +72,7 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
    }
    // The consolidated sidebar must reach the pattern index from a network page.
    await page.goto(base+'/sasang-formula-combination-network/');
+   assert.equal(await page.locator('#__config').evaluate(e=>JSON.parse(e.textContent).features.includes('navigation.tracking')),true);
    if(name==='mobile') await page.locator('header label[for="__drawer"]').click();
    const sidebar=page.locator('.md-sidebar--primary');
    assert.equal(await sidebar.getByRole('link',{name:'사상처방·병증·배합',exact:true}).count(),1);
@@ -86,6 +87,7 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
    await page.locator('article #soyang-jeoryeongchajeonja').waitFor();
    assert.equal(new URL(page.url()).hash,'#soyang-jeoryeongchajeonja');
    await page.goto(base+'/sasang-explorer/');
+   assert.equal(await page.locator('#__config').evaluate(e=>JSON.parse(e.textContent).features.includes('navigation.tracking')),false);
    const frame=page.frameLocator('#sasang-explorer-frame');
    await frame.locator('[data-c="소양인"]').waitFor();
    assert(!(await frame.locator('body').innerText()).includes('民成'));
@@ -106,12 +108,37 @@ const base=process.env.ARCHIVE_TEST_BASE||'http://127.0.0.1:8766';
     assert(await frame.locator('#content .formula').count()>0);
     for(const tab of ['constitution','patterns','formulas','food','living','clinic']){
      await frame.locator('[data-tab="'+tab+'"]').click();
+     await frame.locator('[data-tab="'+tab+'"][aria-pressed="true"]').waitFor();
+     await page.waitForFunction(t=>new URLSearchParams(location.hash.slice(1)).get('t')===t,tab);
      assert(await frame.locator('.profile-body').isVisible());
      assert(await frame.locator('body').evaluate(e=>e.scrollWidth<=window.innerWidth+1));
+     if(tab==='constitution'){
+      await frame.locator('.profile-terms summary').click();
+      assert.equal(await frame.locator('.profile-terms .detail-card').count(),6);
+      assert(await frame.locator('.profile-terms .detail-card').last().isVisible());
+     }
+     if(tab==='patterns'){
+      assert.equal(await frame.locator('.structure-card').count(),4);
+      const jump=frame.locator('.structure-card [data-axis]').first();
+      const target=await jump.getAttribute('data-axis');
+      await jump.click();
+      await frame.locator('#source-title').waitFor();
+      await page.waitForFunction(a=>new URLSearchParams(location.hash.slice(1)).get('a')===a,target);
+      assert.equal(await frame.locator('[data-tab="patterns"]').getAttribute('aria-pressed'),'true');
+      assert(await frame.locator('body').evaluate(e=>e.scrollWidth<=window.innerWidth+1));
+      await page.waitForFunction(()=>{const f=document.getElementById('sasang-explorer-frame');return f.getBoundingClientRect().height>=f.contentDocument.body.getBoundingClientRect().height-5});
+      await frame.locator('.structure-card').first().screenshot({path:`archive-browser-results/${name}-${c}-structure.png`});
+     }
+
     }
     assert.match(await frame.locator('.profile-body').innerText(),/한약을 복용해야 하는 것은 아닙니다/);
     await frame.locator('[data-tab="food"]').click();
     await page.waitForFunction(()=>location.hash.includes('t=food'));
+    const selectionHash=new URL(page.url()).hash;
+    await page.evaluate(()=>scrollTo(0,document.body.scrollHeight));
+    await page.waitForTimeout(300); // Heading tracking used to erase the selection after scrolling.
+    assert.equal(new URL(page.url()).hash,selectionHash);
+    await frame.locator('[data-tab="food"]').scrollIntoViewIfNeeded();
     assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
     await page.screenshot({path:`archive-browser-results/${name}-sasang-${c}-food.png`});
     await page.reload();

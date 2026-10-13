@@ -6,8 +6,8 @@ const path=require('node:path');
 const dir=path.join(__dirname,'../docs/assets/sasang-explorer');
 function load(){
  const ctx=vm.createContext({});
- for(const file of ['data.js','sources.js','source-ui.js']) vm.runInContext(fs.readFileSync(path.join(dir,file),'utf8'),ctx);
- return vm.runInContext('({D,AXIS_ORDER,PATTERN_SOURCES,SOURCE_PASSAGES,SOURCE_DOCUMENTS,SOURCE_CHAPTERS,sourceSearchText})',ctx);
+ for(const file of ['data.js','sources.js','source-ui.js','profiles.js']) vm.runInContext(fs.readFileSync(path.join(dir,file),'utf8'),ctx);
+ return vm.runInContext('({D,PROFILES,AXIS_ORDER,PATTERN_SOURCES,SOURCE_PASSAGES,SOURCE_DOCUMENTS,SOURCE_CHAPTERS,sourceSearchText})',ctx);
 }
 test('every selectable pattern has verified-source metadata and valid same-constitution comparisons',()=>{
  const d=load(),used=new Set();
@@ -47,5 +47,18 @@ test('all explorer prescription targets and explicit anchors exist in the archiv
   const file=candidates.find(p=>fs.existsSync(p));
   assert.ok(file,`${name}: ${url}`);
   if(anchor) assert.ok(fs.readFileSync(file,'utf8').includes('{#'+anchor+'}'),`${name}: missing ${anchor}`);
+ }
+});
+
+test('profile classification links cover all learning axes and resolve cited CPGs',()=>{
+ const {PROFILES,AXIS_ORDER,SOURCE_DOCUMENTS}=load();
+ for(const [c,p] of Object.entries(PROFILES)){
+  const covered=new Set();
+  for(const branch of p.patterns){
+   assert.ok(branch.refs.length&&branch.axes.length);
+   for(const ref of branch.refs) assert.ok(SOURCE_DOCUMENTS[ref],`${c}: unknown CPG ${ref}`);
+   for(const axis of branch.axes){assert.ok(AXIS_ORDER[c].includes(axis),`${c}: cross-constitution or missing route ${axis}`);covered.add(axis)}
+  }
+  assert.deepEqual([...covered].sort(),Array.from(AXIS_ORDER[c]).sort(),`${c}: unconnected learning axis`);
  }
 });
