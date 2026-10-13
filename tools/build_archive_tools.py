@@ -310,7 +310,9 @@ def build():
                                    for h, a, c in parts if re.search(r'출전|구성|약량|용량|주치|효능|병기|안전|금기|성미|귀경|기원|부위', h)][:8],
                       'links': []})
     groups = expand_catalog(cards, by_url)
-    return {'schema': 1, 'cards': cards, 'groups': groups}, {'schema': 1, 'passages': passages}
+    from urllib.parse import unquote
+    id_aliases = {'document-formulas-'+unquote(c['source'].strip('/').split('/')[-1]): c['id'] for c in cards if c['kind']=='formula' and c['source'].startswith('/formulas/') and '%' in c['source']}
+    return {'schema': 1, 'cards': cards, 'groups': groups, 'idAliases': id_aliases}, {'schema': 1, 'passages': passages}
 
 def main():
     comparison, search = build()

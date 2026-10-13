@@ -63,7 +63,7 @@
     try { const ticket = ++seq; const d = await data('comparison'); if (ticket !== seq || !root.isConnected) return; all = d.cards; groups=d.groups||[]; group.append(el('option','유사 처방 묶음 선택',{value:''})); for(const g of groups) group.append(el('option',g.title+' · '+g.ids.length+'개',{value:g.id}));
       const params=new URLSearchParams(global.location.search), initial=groups.find(g=>g.id===params.get('group'));
       if(initial){group.value=initial.id; groupNote.textContent=initial.focus;}
-      const ids = params.get('compare')?.split(',') || initial?.ids || []; for (const id of ids.slice(0, 4)) if (all.some(c => c.id === id)) selected.add(id); categories(); render(); }
+      const ids = params.get('compare')?.split(',') || initial?.ids || []; for (const raw of ids.slice(0, 4)) {const id=d.idAliases?.[raw] || raw; if (all.some(c => c.id === id)) selected.add(id);} categories(); render(); }
     catch (_) { status.textContent = '比較資料를 불러오지 못했습니다. 연결을 확인하고 다시 시도하세요.'.replace('比較資料', '비교 자료'); root.append(button('다시 불러오기', () => comparison(root))); }
   }
   async function finder(root) {
