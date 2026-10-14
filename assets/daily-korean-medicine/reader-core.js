@@ -102,18 +102,24 @@
       if (season !== "all" && item.season !== season) return false;
       if (topic && topic !== "all" && item.topic !== topic) return false;
       const source = (data.sources || {})[item.source] || {};
-      const text = normalize([seasons[item.season], (data.topics || {})[item.topic], item.theme, item.line, item.practice,
+      const text = normalize([seasons[item.season], (data.topics || {})[item.topic], item.theme, item.line, item.practice, item.story, item.solarTerm,
         source.original, source.translation, source.words, source.label, source.context].filter(Boolean).join(" "));
       return terms.every(function (term) { return text.includes(term); });
     });
   }
   function almanacText(item, data) {
-    const source = data.sources[item.source];
-    return ["양생(養生) · " + seasons[item.season] + " · " + item.theme,
-      "생활 제안 — " + item.line, "오늘의 작은 실천 — " + item.practice,
-      "고전 원문 — " + source.original, "원문 풀이 — " + source.translation,
-      "출처 — " + source.label, source.href].join("\n\n");
+    const source = data.sources[item.source], modern = data.modern && data.modern[item.modern];
+    const lines = ["양생(養生) · " + seasons[item.season] + " · " + item.theme,
+      "생활 제안 — " + item.line];
+    if (item.story) lines.push("오늘의 한의학 이야기 — " + item.story);
+    lines.push("오늘의 작은 실천 — " + item.practice);
+    if (source) lines.push("고전 원문 — " + source.original, "원문 풀이 — " + source.translation,
+      "출처 — " + source.label, source.href);
+    if (modern) lines.push("현대 생활 자료 — " + modern.label, modern.href);
+    if (item.relatedHref) lines.push("아카이브에서 이어 읽기 — https://wiki.minseong.co.kr" + item.relatedHref);
+    return lines.join("\n\n");
   }
+
   async function copyLink(href, fallback, status) {
     try {
       await navigator.clipboard.writeText(href);

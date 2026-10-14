@@ -306,6 +306,7 @@
 .daily-km-almanac-label { color: var(--md-default-fg-color--light); font-size: .72rem; }
 .daily-km-almanac-line { max-width: 40rem; font-size: clamp(1rem, 2.1vw, 1.2rem); line-height: 1.85; letter-spacing: -.015em; word-break: keep-all; overflow-wrap: anywhere; text-wrap: pretty; }
 .daily-km-almanac-source { font-size: .78rem; line-height: 1.8; }
+.md-typeset .daily-km-almanac-source[hidden] { display: none; }
 .daily-km-almanac-source summary { min-height: 44px; padding: .55rem 0; cursor: pointer; }
 .daily-km-almanac-source a:not([hidden]) { display: flex; align-items: center; min-height: 44px; overflow-wrap: anywhere; }
 .daily-km-almanac-footnote { margin: .6rem 0 0; color: var(--md-default-fg-color--light); font-size: .68rem; line-height: 1.7; word-break: keep-all; }
