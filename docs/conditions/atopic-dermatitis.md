@@ -1,11 +1,13 @@
 ---
 title: "아토피피부염 — 건조·가려움·수면과 피부장벽 관리"
-description: "아토피의 피부장벽·가려움·수면·감염을 함께 보고 피부 양상에 따른 한약과 외용치료 병행·경과를 안내합니다."
+description: "아토피의 피부장벽·가려움·수면·감염을 함께 보고 피부 양상별 한약의 배합·임상연구·경과를 안내합니다."
 tags: ["아토피", "아토피피부염", "성인아토피", "아토피 한약", "아이 아토피"]
 status: 검토완료
 last_reviewed: 2026-09-06
 ---
 # 아토피피부염 — 건조·가려움·수면과 피부장벽 관리
+
+아토피의 한약치료는 **반복되는 피부 염증과 가려움, 밤에 긁어서 깨는 불편**을 줄이는 것을 목표로 합니다. 같은 아토피라도 붉음·진물·건조의 비중과 수면·소화 상태가 달라 처방을 비교하는 이유가 있습니다. 피부가 잠시 깨끗해 보이는 것과 편안한 상태가 지속되는 것을 구분해 평가합니다.
 
 ## 환자가 이렇게 검색할 수 있습니다
 
@@ -75,11 +77,31 @@ last_reviewed: 2026-09-06
 
 청열과 혈분의 보완을 함께 읽는 처방 예로 **온청음**이 있습니다. 사물탕과 황련해독탕을 결합한 양혈청열의 구조를 살피되, 청열자음이라는 치료 방향 전체를 한 처방과 동일하게 보지는 않습니다. 2017년 온청음의 피부질환 연구 동향에서는 가려움·건선 등 여러 대상의 연구를 다뤘으므로 이를 아토피 전체의 확정된 효과로 확대하지 않습니다. [온청음 피부질환 연구 동향](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002196927)
 
-진료에서는 열감·진물이 줄었는지와 함께 피부의 당김, 밤에 긁는 횟수, 소화와 기력의 변화를 확인합니다. 오래된 [혈허](../diagnostics/blood-deficiency.md)·[비위기허](../diagnostics/qi-deficiency.md)가 동반되면 그에 맞는 보완도 필요합니다. 특정 한약제제의 연구 결과와 개별 탕약의 효과는 구분하며, [아토피 임상근거](../authority/conditions/atopic-dermatitis.md)에서 대상·제형·병행 치료를 확인할 수 있습니다.
+진료에서는 열감·진물이 줄었는지와 함께 피부의 당김, 밤에 긁는 횟수, 소화와 기력의 변화를 확인합니다. 오래된 [혈허](../diagnostics/blood-deficiency.md)·[비위기허](../diagnostics/qi-deficiency.md)가 동반되면 그에 맞는 보완도 필요합니다. 특정 한약제제의 연구 결과와 개별 탕약의 효과는 구분하며, [아토피 임상근거](../authority/conditions/atopic-dermatitis.md)에서 대상·제형·시험 조건을 확인할 수 있습니다.
 
-## 기본 피부치료와 병행 계획 {#care-followup}
+## 한약으로 무엇이 달라졌는지 연구했습니다 {#herbal-evidence}
 
-보습·자극 회피와 필요한 국소 항염증 치료 등을 함께 관리합니다. 처방받은 외용약을 한약 복용 때문에 임의로 중단하지 않고, 넓은 부위·심한 증상은 전문치료 필요성을 검토합니다. [NIAMS 치료·생활관리](https://www.niams.nih.gov/health-topics/atopic-dermatitis/diagnosis-treatment-and-steps-to-take)
+아토피 한약연구에는 **피부병변과 가려움·수면의 개선을 확인한 위약대조시험**이 있습니다. 연구한 제제와 대상이 다르므로 결과를 구분해 읽습니다.
+
+- **소풍산 제제:** 난치성 아토피 71명을 배정한 8주 시험에서 병변·가려움·수면 점수가 위약보다 개선됐습니다. 비삼출성 병변의 연구이며, 자세한 대상과 탈락·추적 조건은 [소풍산 임상시험](../authority/conditions/atopic-dermatitis.md#xiaofeng-san-trial)에서 확인합니다.
+- **곽향정기 경구액:** 경증 아토피·습진 성인 218명을 대상으로 한 CHARM에서 4주 EASI 변화에 차이가 있었습니다. 특정 경구액의 결과이며, 차이의 크기와 적용 범위는 [CHARM 시험](../authority/conditions/atopic-dermatitis.md#charm-trial)에서 읽을 수 있습니다.
+
+### 한약 최신 임상근거
+
+처방별 시험과 여러 연구를 합친 문헌고찰은 역할이 다릅니다. [2023년 갱신 체계적 문헌고찰, PMID 37955143](https://pubmed.ncbi.nlm.nih.gov/37955143/)도 함께 참고하되, 실제 선택에는 대상의 나이·중증도·처방 구성·평가 지표를 대조합니다. [피부 점수·가려움·수면 결과를 구분하는 법](../authority/conditions/atopic-dermatitis.md#herbal-outcomes)
+
+## 가려움·피부 상태·생활 회복을 함께 확인합니다 {#care-followup}
+
+진료에서는 처음의 사진·가려움·수면을 기준으로 다음을 비교합니다.
+
+| 변화 | 처방과 관리에서 다시 볼 점 |
+|---|---|
+| 진물·붉음은 줄고 당김·균열이 남음 | 청열조습을 계속 강조할지, 양혈·윤조의 비중을 바꿀지 |
+| 피부 범위는 줄었지만 밤에 계속 긁음 | 남아 있는 가려움·건조·수면 방해의 정도 |
+| 잠은 편해졌지만 새 병변이 계속 생김 | 피부 염증 자체의 조절, 접촉 자극·감염 여부 |
+| 피부는 편해졌지만 새 설사·복통·발진이 생김 | 복용 시작일·성분과 시간 관계, 처방 조정 필요성 |
+
+보습과 자극 관리는 건조와 긁는 자극을 줄이는 일상 관리입니다. 새 통증성 수포·발열·급격한 악화는 처방을 계속 먹으며 기다릴 상황과 구별합니다. [NIAMS 치료·생활관리](https://www.niams.nih.gov/health-topics/atopic-dermatitis/diagnosis-treatment-and-steps-to-take)
 
 **가려움·병변 범위·수면·재발 빈도·외용약 사용**을 함께 비교합니다. 소아는 피부뿐 아니라 성장·영양도 확인하며 확인되지 않은 음식 알레르기를 이유로 식사를 과도하게 제한하지 않습니다.
 
@@ -87,7 +109,7 @@ last_reviewed: 2026-09-06
 
 ## 기존 지식망과 연결
 
-- [피부·두피·모발 허브 — 보습·외용제와 병행 치료](../pillar/skin-hair.md#daily-care)
+- [피부·두피·모발 허브 — 피부질환별 한약과 경과](../pillar/skin-hair.md#daily-care)
 - [비염](rhinitis.md)
 - [만성피로](chronic-fatigue.md)
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
@@ -97,9 +119,3 @@ last_reviewed: 2026-09-06
 ## 검색 동의어
 
 아토피 · 아토피피부염 · 피부가 건조하고 가려워요 · 밤에 너무 가려워요 · 아토피 한약 · 아토피 한의원 · 아이 아토피
-
-### 한약 최신 임상근거
-
-- **An updated systematic review and meta-analysis of efficacy and safety of Chinese herbal medicine for treating atopic dermatitis.** — 아토피피부염에서 한약 치료의 유효성과 안전성을 평가한 임상근거입니다. PMID `37955143` · DOI `10.1080/09546634.2023.2268766`
-
-- **Chinese herbal formula Huoxiang Zhengqi Qral liquid for atopic dermatitis: The CHARM randomized controlled trial.** — 아토피피부염에서 한약 치료의 유효성과 안전성을 평가한 임상근거입니다. PMID `40839987` · DOI `10.1016/j.phymed.2025.157141`
