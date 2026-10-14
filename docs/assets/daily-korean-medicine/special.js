@@ -129,11 +129,11 @@
   }
 
   function loadAlmanac() {
-    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261012-point-map", {credentials: "same-origin"})
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261014-life-cards", {credentials: "same-origin"})
       .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); })
       .then(function (data) {
         if (!Array.isArray(data.cards) || !data.cards.length || !data.sources || !data.modern ||
-            data.cards.some(function (item) { return !item.id || !item.line || !item.practice || !data.sources[item.source]; }) ||
+            data.cards.some(function (item) { return !item.id || !item.line || !item.practice || !(data.sources[item.source] || item.kind === "life" && item.story && item.relatedHref); }) ||
             new Set(data.cards.map(function (item) { return item.id; })).size !== data.cards.length) {
           throw new Error("Almanac incomplete");
         }
@@ -143,15 +143,38 @@
   }
 
   function renderAlmanacContent(root, item, data) {
-    const source = data.sources[item.source];
+    const source = data.sources[item.source] || {};
     setText(root, "[data-yangsheng-season]", reader.seasons[item.season]);
     setText(root, "[data-yangsheng-theme]", item.theme);
     setText(root, "[data-yangsheng-line]", item.line);
+    // Both the home widget and the reader share this renderer.
+    let story = root.querySelector("[data-yangsheng-story]");
+    if (!story) {
+      story = document.createElement("p");
+      story.setAttribute("data-yangsheng-story", "");
+      root.querySelector("[data-yangsheng-line]").after(story);
+    }
+    setOptional(root, "[data-yangsheng-story]", item.story ? "오늘의 한의학 이야기 — " + item.story : "");
+    const sourceBox = root.querySelector(".daily-km-almanac-source");
+    if (sourceBox) {
+      sourceBox.hidden = !source.original;
+      sourceBox.open = item.kind === "classic";
+    }
+    let related = root.querySelector("[data-yangsheng-related]");
+    if (!related) {
+      related = document.createElement("p"); related.setAttribute("data-yangsheng-related", "");
+      related.innerHTML = '<a data-yangsheng-related-link hidden></a> <a data-yangsheng-life-guide hidden></a>';
+      root.querySelector("[data-yangsheng-practice]").after(related);
+    }
+    setLink(root, "[data-yangsheng-related-link]", item.relatedHref, (item.relatedLabel || "관련 문서") + " →");
+    const lifeGuide = item.kind === "life" && data.modern[item.modern];
+    setLink(root, "[data-yangsheng-life-guide]", lifeGuide ? lifeGuide.href : "", lifeGuide ? lifeGuide.label + " ↗" : "");
+    related.hidden = !item.relatedHref && !lifeGuide;
     setOptional(root, "[data-yangsheng-practice]", "오늘의 작은 실천 — " + item.practice);
-    setText(root, "[data-yangsheng-original]", source.original);
-    setText(root, "[data-yangsheng-translation]", "원문 풀이 — " + source.translation);
+    setOptional(root, "[data-yangsheng-original]", source.original);
+    setOptional(root, "[data-yangsheng-translation]", source.translation ? "원문 풀이 — " + source.translation : "");
     setOptional(root, "[data-yangsheng-words]", source.words ? "말뜻 — " + source.words : "");
-    setText(root, "[data-yangsheng-context]", source.context);
+    setOptional(root, "[data-yangsheng-context]", source.context);
     setLink(root, "[data-yangsheng-source]", source.href, source.label + " ↗");
     setLink(root, "[data-yangsheng-archive]", source.archiveHref, source.archiveLabel + " →");
     const guide = item.modern && data.modern[item.modern];
@@ -266,7 +289,7 @@
       // Ignore an older date's pending render when the reader moves quickly.
       if (date.getTime() !== kstDate(dayOffset).getTime()) return;
       const selected = reader.seasonalCard(date, data);
-      if (!selected || !data.sources[selected.item.source]) throw new Error("Almanac incomplete");
+      if (!selected) throw new Error("Almanac incomplete");
       roots.forEach(function (root) {
         renderAlmanacContent(root, selected.item, data);
         const node = root.querySelector("[data-yangsheng-date]");

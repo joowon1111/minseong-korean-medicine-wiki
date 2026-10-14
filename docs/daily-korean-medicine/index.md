@@ -1,6 +1,6 @@
 ---
 title: 오늘의 한의학
-description: 경혈·본초·상한론·사상의학을 날짜별로 읽고, 내경·동의보감 양생 문구 검색·쉬운 원문 풀이·카드 보관함과 학습 퀴즈로 이어가는 한의학 코너입니다.
+description: 경혈·본초·상한론·사상의학과 240개 양생카드를 날짜별로 읽습니다. 고전 원문·쉬운 풀이·오늘의 실천, 24절기 생활 이야기와 검색·공유를 제공합니다.
 tags: [오늘의 한의학, 한의학 상식, 매일 한 장, 경혈, 본초, 상한론, 사상의학]
 status: 검토완료
 last_reviewed: 2026-10-10
@@ -55,18 +55,18 @@ hide:
     <a data-yangsheng-modern hidden></a>
   </details>
   <div class="daily-km-date-tools"><button type="button" data-yangsheng-find disabled>이 문구 다시 읽기·공유</button></div>
-  <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 48개 문구를 순환합니다. 『황제내경』·『동의보감』 원문과 아카이브의 생활 제안을 구분해 읽습니다.</p>
+  <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 60개 카드를 순환합니다. 고전 카드에는 원문·자체 풀이·생활 이야기가, 생활 카드에는 현대 자료나 관련 문서가 연결됩니다.</p>
   <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden>날짜별 문구를 불러오지 못해 기본 문구를 표시합니다.</p>
 </section>
 
 <details class="daily-km-browser daily-km-almanac-library" data-almanac-library id="daily-yangsheng-library">
   <summary>양생 문구 찾아보기 <span>계절·생활 주제·고전 원문으로 검색</span></summary>
   <div class="daily-km-browser-body">
-    <p>날짜와 별도로 192개 생활 제안을 골라 읽어 보세요. ‘동의보감’, ‘잠’, ‘식사’나 원문의 한자로도 찾을 수 있습니다.</p>
+    <p>날짜와 별도로 240개 카드를 골라 읽어 보세요. ‘천금요방’, ‘돌봄’, ‘입추’처럼 문헌·생활 주제·절기 이름이나 원문의 한자로도 찾을 수 있습니다.</p>
     <div class="daily-km-browser-search">
       <label>계절 <select data-almanac-season disabled><option value="all">모든 계절</option><option value="spring">봄</option><option value="summer">여름</option><option value="autumn">가을</option><option value="winter">겨울</option></select></label>
       <label>생활 주제 <select data-almanac-topic disabled><option value="all">모든 생활 주제</option></select></label>
-      <label>문구 검색 <input type="search" data-almanac-query placeholder="예: 동의보감, 잠, 식사, 起居" autocomplete="off" disabled></label>
+      <label>문구 검색 <input type="search" data-almanac-query placeholder="예: 천금요방, 돌봄, 입추, 起居" autocomplete="off" disabled></label>
     </div>
     <article class="daily-km-topic" data-almanac-preview hidden aria-label="찾아본 양생 문구">
       <div class="daily-km-topic-meta"><span>양생(養生) · 찾아본 문구</span></div>
@@ -88,17 +88,55 @@ hide:
         <button type="button" data-almanac-previous disabled>← 이전 문구</button>
         <button type="button" data-almanac-next disabled>다음 문구 →</button>
         <button type="button" data-almanac-share>문구 링크 복사</button>
-        <button type="button" data-almanac-copy>문구·출처 복사</button>
+        <button type="button" data-almanac-copy>카드·출처 복사</button>
       </div>
       <p class="daily-km-tool-status" data-almanac-position></p>
       <p class="daily-km-tool-status" data-almanac-copy-status role="status"></p>
       <input class="daily-km-copy-url" type="text" readonly data-almanac-link-fallback aria-label="양생 문구 공유 주소" hidden>
-      <textarea class="daily-km-copy-url" rows="8" readonly data-almanac-text-fallback aria-label="복사할 생활 제안·실천·고전 원문과 출처" hidden></textarea>
+      <textarea class="daily-km-copy-url" rows="8" readonly data-almanac-text-fallback aria-label="복사할 생활 이야기·실천과 출처" hidden></textarea>
     </article>
     <p class="daily-km-tool-status" data-almanac-status role="status">문구를 불러오는 중입니다.</p>
     <ul class="daily-km-browser-results" data-almanac-results></ul>
     <button type="button" data-almanac-more hidden>문구 더 보기</button>
   </div>
+</details>
+
+
+<details class="daily-km-browser" id="daily-solar-terms" markdown="1">
+<summary>24절기 생활 일력 <span>절기 이름으로 골라 읽기</span></summary>
+<div class="daily-km-browser-body" markdown="1">
+
+절기는 계절을 살피는 전통의 시간표입니다. 아래 카드는 **절기 이름을 계기로 읽는 생활 이야기**이며 해당 날짜의 날씨·질환을 예측하지 않습니다. 절입 날짜는 해마다 달라 고정 날짜로 자동 판정하지 않습니다. 계절 필터는 기존과 같이 한국의 달력상 월 구분을 사용하므로, 2월의 입춘·우수는 겨울 목록에서 찾을 수 있습니다.
+
+| 무렵 | 생활 카드 |
+|---|---|
+| 3월 | [경칩](?almanac=spring-55#daily-yangsheng-library) · [춘분](?almanac=spring-56#daily-yangsheng-library) |
+| 4월 | [청명](?almanac=spring-57#daily-yangsheng-library) · [곡우](?almanac=spring-58#daily-yangsheng-library) |
+| 5월 | [입하](?almanac=spring-59#daily-yangsheng-library) · [소만](?almanac=spring-60#daily-yangsheng-library) |
+| 6월 | [망종](?almanac=summer-55#daily-yangsheng-library) · [하지](?almanac=summer-56#daily-yangsheng-library) |
+| 7월 | [소서](?almanac=summer-57#daily-yangsheng-library) · [대서](?almanac=summer-58#daily-yangsheng-library) |
+| 8월 | [입추](?almanac=summer-59#daily-yangsheng-library) · [처서](?almanac=summer-60#daily-yangsheng-library) |
+| 9월 | [백로](?almanac=autumn-55#daily-yangsheng-library) · [추분](?almanac=autumn-56#daily-yangsheng-library) |
+| 10월 | [한로](?almanac=autumn-57#daily-yangsheng-library) · [상강](?almanac=autumn-58#daily-yangsheng-library) |
+| 11월 | [입동](?almanac=autumn-59#daily-yangsheng-library) · [소설](?almanac=autumn-60#daily-yangsheng-library) |
+| 12월 | [대설](?almanac=winter-55#daily-yangsheng-library) · [동지](?almanac=winter-56#daily-yangsheng-library) |
+| 1월 | [소한](?almanac=winter-57#daily-yangsheng-library) · [대한](?almanac=winter-58#daily-yangsheng-library) |
+| 2월 | [입춘](?almanac=winter-59#daily-yangsheng-library) · [우수](?almanac=winter-60#daily-yangsheng-library) |
+
+</div>
+</details>
+
+<details class="daily-km-browser" id="daily-classic-reading" markdown="1">
+<summary>양생카드의 고전 읽기 <span>문헌과 오늘의 생활을 연결하는 법</span></summary>
+<div class="daily-km-browser-body" markdown="1">
+
+《양성연명록》의 몸과 정신의 휴식, 《천금요방》의 식치, 《준생팔전》의 옷차림·독서·활동, 《양로봉친서》의 노년 취향, 《의학입문》의 돌보는 사람의 자기 관리를 함께 읽습니다. 《양로봉친서》는 《수친양로신서》 권1에 수록된 판본으로 연결합니다.
+
+원문의 한국어 풀이는 아카이브가 직접 썼습니다. 원문의 뜻과 현대 생활에 적용한 이야기를 구분하고, 현대 건강 안내는 별도 자료로 연결합니다. 계절이나 체질만으로 특정 음식·한약·치료를 정하지 않습니다. 《동의수세보원》의 원문과 체질별 소증·병증은 아래 **하루 사상의학**에서 이어 읽을 수 있습니다.
+
+[양생 원문과 현대 해석](../yangsaeng/index.md) · [사상의학 탐색기](../sasang-explorer/index.md)
+
+</div>
 </details>
 
 <details class="daily-km-browser" data-daily-browser id="daily-card-library">
