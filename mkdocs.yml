@@ -17,7 +17,7 @@ extra_javascript:
   - assets/learning/learning.js?v=20261004-07&ui=20261009-02
   - assets/daily-korean-medicine/reader-core.js?v=20261014-life-cards
   - assets/daily-korean-medicine.js?v=20261012-daily-comparison
-  - assets/daily-korean-medicine/special.js?v=20261014-life-cards
+  - assets/daily-korean-medicine/special.js?v=20261014-reading
 extra_css:
 - assets/acupoint-3d/map.css?v=20261012-style
 - assets/archive-tools/tools.css?v=20261013-full-formulas

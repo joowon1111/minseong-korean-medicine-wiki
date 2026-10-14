@@ -307,7 +307,7 @@
       "href": "https://zh.wikisource.org/zh-hant/養性延命錄#養性延命錄序",
       "words": "神은 정신 활동, 形은 몸, 竭은 다함을 뜻합니다. 斃는 여기서 심한 소모를 경계하는 강한 표현입니다.",
       "context": "도홍경의 이름으로 전하는 양생 문헌 서문의 발췌입니다. 몸과 정신의 소모를 함께 보는 관점으로 읽으며, 피로가 특정 질병이나 수명을 결정한다는 뜻으로 옮기지 않습니다.",
-      "archiveHref": "/yangsaeng/",
+      "archiveHref": "/yangsaeng/#mental-rest",
       "archiveLabel": "양생 원문과 현대 해석"
     },
     "yangxing-after-meal": {
@@ -317,7 +317,7 @@
       "href": "https://zh.wikisource.org/zh-hant/養性延命錄#食戒篇第二",
       "words": "食畢는 식사를 마침, 行步는 걷기, 躊躇는 이 문맥에서 서성이는 움직임으로 풀었습니다.",
       "context": "식후 곧바로 눕거나 하루 종일 앉는 생활을 살피는 대목입니다. 원문의 장수 설명이나 고정된 걸음 수를 오늘날의 운동 처방으로 옮기지는 않습니다.",
-      "archiveHref": "/yangsaeng/",
+      "archiveHref": "/yangsaeng/#after-meal",
       "archiveLabel": "양생 원문과 현대 해석"
     },
     "qianjin-food": {
@@ -326,8 +326,8 @@
       "label": "천금요방 · 사고전서본 권79 식치 서론 제1",
       "href": "https://zh.wikisource.org/zh-hant/千金要方_(四庫全書本)/卷79",
       "words": "安身은 몸을 편안히 함, 資는 의지하거나 도움을 얻음, 食은 음식입니다. 夲은 本의 이체자입니다.",
-      "context": "식사와 약의 역할을 설명하는 식치 서론의 발췌입니다. 사고전서본 권79와 통행 30권본의 식치 권26은 권차가 다릅니다. 음식이 필요한 진료를 대신한다는 뜻은 아닙니다.",
-      "archiveHref": "/yangsaeng/",
+      "context": "식치 서론에서 위범(衛汎)의 기록을 통해 편작의 말로 인용한 대목입니다. 사고전서본 권79와 통행 30권본의 식치 권26은 권차가 다릅니다. 식사와 약의 역할을 함께 설명하는 문맥이며, 음식이 필요한 진료를 대신한다는 뜻은 아닙니다.",
+      "archiveHref": "/yangsaeng/#food-foundation",
       "archiveLabel": "양생 원문과 현대 해석"
     },
     "zunsheng-clothes": {
@@ -337,7 +337,7 @@
       "href": "https://zh.wikisource.org/zh-hant/遵生八牋/卷08#晨昏怡養條",
       "words": "四時는 사계절, 寒溫은 추위와 따뜻함, 酌量은 상황에 맞춰 헤아림입니다.",
       "context": "하루의 일과를 설명하는 고렴의 글에서 옷차림을 조절하는 부분만 발췌했습니다. 같은 절에 실린 옛 복약·금기는 생활 권고로 옮기지 않습니다.",
-      "archiveHref": "/yangsaeng/",
+      "archiveHref": "/yangsaeng/#seasonal-clothes",
       "archiveLabel": "양생 원문과 현대 해석"
     },
     "zunsheng-pacing": {
@@ -347,7 +347,7 @@
       "href": "https://zh.wikisource.org/zh-hant/遵生八牋/卷08#晨昏怡養條",
       "words": "覺勞는 피로를 느낌, 止는 멈춤, 復為는 다시 한다는 뜻입니다.",
       "context": "감당하기 어려운 일을 억지로 하지 말라는 문맥에 이어지는 발췌입니다. 휴식 뒤에도 통증이나 피로가 지속되면 활동 강도와 원인을 따로 살핍니다.",
-      "archiveHref": "/yangsaeng/",
+      "archiveHref": "/yangsaeng/#work-rest",
       "archiveLabel": "양생 원문과 현대 해석"
     },
     "zunsheng-reading": {
@@ -357,7 +357,7 @@
       "href": "https://zh.wikisource.org/zh-hant/遵生八牋/卷08#晨昏怡養條",
       "words": "心不甚定은 마음이 아직 안정되지 않음, 雜短故事는 여러 짧은 이야기입니다.",
       "context": "마음과 손의 여유에 따라 읽기·쓰기·휴식을 달리 제안하는 대목입니다. 독서를 정신질환의 치료로 단정하지 않고 개인의 취향에 맞는 휴식 소재로 읽습니다.",
-      "archiveHref": "/yangsaeng/",
+      "archiveHref": "/yangsaeng/#quiet-reading",
       "archiveLabel": "양생 원문과 현대 해석"
     },
     "elder-preference": {
@@ -367,7 +367,7 @@
       "href": "https://zh.wikisource.org/zh-hant/夀親養老新書_(四庫全書本)/卷1",
       "words": "好嗜는 좋아하는 것과 취향, 平生은 평소의 삶을 뜻합니다.",
       "context": "진직의 양로봉친서는 추현이 증보한 수친양로신서의 첫 권에 수록됩니다. 노년의 돌봄에서 오래 즐기던 취향을 살핀 대목이며, 두 책을 서로 독립된 같은 인용의 근거로 중복 계산하지 않습니다.",
-      "archiveHref": "/yangsaeng/",
+      "archiveHref": "/yangsaeng/#elder-preference",
       "archiveLabel": "양생 원문과 현대 해석"
     },
     "yixue-carer": {
@@ -377,7 +377,7 @@
       "href": "https://zh.wikisource.org/zh-hant/醫學入門/卷首#保養",
       "words": "愛惜은 아끼고 소중히 함, 自己는 자기 자신, 精神은 이 문맥에서 정신과 기력입니다.",
       "context": "의료인이 다른 사람을 돌보는 데에도 자신의 정신과 기력을 보살펴야 한다는 문맥입니다. 오늘의 카드에서는 돌봄을 맡은 사람의 일과와 휴식으로 확장해 읽습니다.",
-      "archiveHref": "/yangsaeng/",
+      "archiveHref": "/yangsaeng/#carer-rest",
       "archiveLabel": "양생 원문과 현대 해석"
     }
   },
@@ -432,7 +432,10 @@
       "modern": "activity",
       "practice": "집 근처의 평탄하고 익숙한 길을 골라 짧게 걸어 보세요.",
       "id": "spring-01",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "산책을 거창한 운동 일정으로 만들면 시작하기가 어려울 수 있습니다. 집 앞을 한 바퀴 돌거나 가까운 볼일을 걸어서 보는 장면으로 바꾸어 보세요. 고전의 뜰 걷기는 오늘의 걸음 수 목표가 아니라, 생활 속에 움직일 자리를 마련하는 단서로 읽습니다.",
+      "relatedHref": "/yangsaeng/#mind-and-movement",
+      "relatedLabel": "활동과 마음의 여유"
     },
     {
       "season": "spring",
@@ -442,7 +445,10 @@
       "practice": "익숙한 활동을 짧게 해 보고 끝난 뒤의 피로와 다음 날 느낌을 함께 살펴보세요.",
       "modern": "activity",
       "id": "spring-02",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "새 운동을 시작한 날에는 한 번에 해낸 양이 먼저 눈에 들어옵니다. 하지만 다음 날 평소 일을 이어갈 여유가 있는지도 살펴볼 만합니다. 가벼운 활동과 큰 피로를 구분한 옛 문장은, 남의 기록보다 자신의 회복을 기준으로 삼는 질문이 됩니다.",
+      "relatedHref": "/yangsaeng/#load-recovery",
+      "relatedLabel": "활동량과 회복 살피기"
     },
     {
       "season": "spring",
@@ -451,7 +457,10 @@
       "source": "regularity",
       "practice": "계속하고 싶은 습관 하나를 메모하고, 내일 할 작은 행동까지 적어 두세요.",
       "id": "spring-03",
-      "topic": "living"
+      "topic": "living",
+      "story": "좋은 습관을 여러 개 정해도 바쁜 날에는 무엇부터 할지 막막해집니다. “건강하게 지내기”를 “점심을 마친 뒤 잠깐 바깥 공기 쐬기”처럼 구체적인 장면으로 적어 보세요. 하루를 놓쳤을 때 다시 시작할 수 있는 작은 행동이면 충분합니다.",
+      "relatedHref": "/yangsaeng/#daily-rhythm",
+      "relatedLabel": "생활 리듬 돌아보기"
     },
     {
       "season": "spring",
@@ -461,7 +470,10 @@
       "practice": "책상 일을 한 단락 마쳤다면 잠깐 서거나 걸으며 한 자세에서 벗어나 보세요.",
       "modern": "activity",
       "id": "spring-04",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "회의가 끝나자마자 다시 화면을 보는 날에는 자세를 바꿀 틈도 놓치기 쉽습니다. 물을 가지러 가거나 자료를 정리하는 짧은 전환을 이용해 보세요. 편한 의자와 작업 환경을 살피는 일에, 한 자세를 끊는 움직임을 함께 더하는 제안입니다.",
+      "relatedHref": "/conditions/neck-pain/",
+      "relatedLabel": "목 통증과 일상 관리"
     },
     {
       "season": "spring",
@@ -471,7 +483,10 @@
       "modern": "food",
       "practice": "평소 먹던 반찬에 먹을 수 있는 제철 채소 한 가지를 더해 보세요.",
       "id": "spring-05",
-      "topic": "food"
+      "topic": "food",
+      "story": "제철 식재료의 즐거움은 매일 같던 식탁에 다른 향과 식감을 더하는 데 있습니다. 낯선 나물을 약처럼 많이 먹기보다, 먹을 수 있는 익숙한 재료로 반찬 하나를 바꾸어 보세요. 특정 계절의 음식 하나에 건강 전체를 맡기지 않는 식탁 이야기입니다.",
+      "relatedHref": "/yangsaeng/#food-foundation",
+      "relatedLabel": "음식을 건강의 바탕으로 읽기"
     },
     {
       "season": "spring",
@@ -480,7 +495,10 @@
       "source": "meal-amount",
       "practice": "바빠질 시간을 미리 보고, 자신에게 맞는 식사를 언제 준비할지 정해 보세요.",
       "id": "spring-06",
-      "topic": "food"
+      "topic": "food",
+      "story": "끼니를 자꾸 놓치는 날에는 의지보다 일정이 문제일 수 있습니다. 점심을 먹을 자리가 있는지, 이동 전에 준비할 음식이 있는지부터 살펴보세요. “너무 배고프기 전에 먹는다”는 옛 조언을 오늘의 식사 준비에 연결할 수 있습니다.",
+      "relatedHref": "/conditions/functional-dyspepsia/",
+      "relatedLabel": "식사와 소화 불편 살피기"
     },
     {
       "season": "spring",
@@ -772,7 +790,10 @@
       "modern": "heat",
       "practice": "외출 전 기온과 폭염 정보를 보고, 더운 시간대에는 실내 활동을 골라 보세요.",
       "id": "summer-01",
-      "topic": "living"
+      "topic": "living",
+      "story": "같은 거리라도 한낮의 햇볕과 저녁의 그늘은 활동 조건이 다릅니다. 더운 날에는 정해 둔 운동량을 채우는 것보다 시간과 장소를 바꿀 수 있는지 먼저 살펴보세요. 생활의 일정함은 상황에 맞춰 계획을 조절할 여유와 함께 갑니다.",
+      "relatedHref": "/yangsaeng/#seasonal-clothes",
+      "relatedLabel": "날씨에 맞춰 생활 조절하기"
     },
     {
       "season": "summer",
@@ -782,7 +803,10 @@
       "practice": "더위와 몸 상태를 살펴 활동을 줄일 때와 시원한 곳에서 쉴 때를 정해 보세요.",
       "modern": "heat",
       "id": "summer-02",
-      "topic": "living"
+      "topic": "living",
+      "story": "땀에 젖은 옷이 운동의 성적표가 될 필요는 없습니다. 더위 속에서 얼마나 애썼는지보다, 활동을 멈추고 식힐 장소가 준비돼 있는지 돌아보세요. 큰 피로를 경계하는 고전의 말은 여름 일정에 휴식과 시원한 환경을 함께 넣는 계기가 됩니다.",
+      "relatedHref": "/yangsaeng/#work-rest",
+      "relatedLabel": "일과 휴식을 나누는 원문"
     },
     {
       "season": "summer",
@@ -792,7 +816,10 @@
       "modern": "heat",
       "practice": "활동하는 장소에 마실 물을 준비하되, 자신의 수분 관리 지침을 먼저 확인하세요.",
       "id": "summer-03",
-      "topic": "living"
+      "topic": "living",
+      "story": "물병을 챙겨도 가방 깊숙이 넣어 두면 바쁜 동안 잊기 쉽습니다. 이동 경로에서 물을 구할 곳과 잠시 쉴 장소를 함께 정해 보세요. 필요한 수분 관리는 사람마다 다르므로, 이미 받은 진료 지침이 있다면 그 안에서 준비합니다.",
+      "relatedHref": "/yangsaeng/#care-record",
+      "relatedLabel": "생활 변화 기록하기"
     },
     {
       "season": "summer",
@@ -802,7 +829,10 @@
       "practice": "실내에서 하던 일을 바꿀 때 잠깐 몸을 움직일 기회도 함께 마련하세요.",
       "modern": "activity",
       "id": "summer-04",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "실내에 있는 날도 식탁, 책상, 소파를 오가며 대부분 앉아서 보낼 수 있습니다. 장소를 바꾼 것과 몸을 움직인 것은 다를 수 있다는 점을 떠올려 보세요. 집안에서 짧은 일을 나누어 하는 것도 생활 속 활동을 찾아보는 방법입니다.",
+      "relatedHref": "/yangsaeng/#mind-and-movement",
+      "relatedLabel": "일상 속 활동 살피기"
     },
     {
       "season": "summer",
@@ -811,7 +841,10 @@
       "source": "summer",
       "practice": "마음이 급해졌다면 하던 일을 잠깐 멈추고 답을 조금 뒤에 해 보세요.",
       "id": "summer-05",
-      "topic": "living"
+      "topic": "living",
+      "story": "기다리는 일이 길어지거나 일정이 엇갈리면 말이 급해지는 순간이 있습니다. 이때 감정을 없애려 애쓰기보다, 지금 답할지 잠시 뒤에 이야기할지 선택할 여유를 두어 보세요. 고전의 마음가짐을 오늘의 대화에 적용한 생활 제안입니다.",
+      "relatedHref": "/yangsaeng/#quiet-reading",
+      "relatedLabel": "마음이 분주할 때의 휴식"
     },
     {
       "season": "summer",
@@ -821,7 +854,10 @@
       "practice": "간식이 많았던 날의 한 끼에는 빠진 식품 종류를 함께 챙겨 보세요.",
       "modern": "food",
       "id": "summer-06",
-      "topic": "food"
+      "topic": "food",
+      "story": "음료와 간식을 여러 번 먹었는데 정작 식사다운 한 끼는 놓친 날이 있습니다. 한 가지를 더 사 먹기 전에, 오늘 무엇을 먹었는지 식탁 전체를 떠올려 보세요. 곡식과 채소, 단백질 식품을 어떻게 함께 준비할지 생각하는 출발점이 됩니다.",
+      "relatedHref": "/yangsaeng/#food-foundation",
+      "relatedLabel": "식탁의 전체 구성 살피기"
     },
     {
       "season": "summer",
@@ -1117,7 +1153,10 @@
       "source": "autumn",
       "practice": "오늘 꼭 해야 할 일과 내일 해도 되는 일을 나누어 적어 보세요.",
       "id": "autumn-01",
-      "topic": "rest"
+      "topic": "rest",
+      "story": "쉬는 시간에도 미뤄 둔 일이 떠오르면 마음이 바쁠 수 있습니다. 당장 끝내야 할 일과 내일 이어갈 일을 종이에 나누어 적어 보세요. 고전이 말한 편안함을 기분의 강요로 읽기보다, 오늘의 부담을 정리할 자리로 바꾸는 방법입니다.",
+      "relatedHref": "/yangsaeng/#mental-rest",
+      "relatedLabel": "몸과 정신의 휴식"
     },
     {
       "season": "autumn",
@@ -1127,7 +1166,10 @@
       "practice": "산책을 마친 뒤의 피로를 떠올리고 다음 산책의 길이와 속도를 정해 보세요.",
       "modern": "activity",
       "id": "autumn-02",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "날씨가 좋으면 평소보다 먼 길을 걷고 싶어집니다. 출발할 때의 의욕뿐 아니라 돌아올 거리와 중간에 쉴 자리도 생각해 보세요. 산책을 마친 뒤 일상에 어떤 여유가 남았는지 살피면 다음 길을 정하는 데 도움이 됩니다.",
+      "relatedHref": "/yangsaeng/#work-rest",
+      "relatedLabel": "활동 사이에 쉬는 자리"
     },
     {
       "season": "autumn",
@@ -1137,7 +1179,10 @@
       "modern": "activity",
       "practice": "산책할 수 있는 시간과 익숙한 길을 정하되 몸 상태에 맞춰 길이를 조절하세요.",
       "id": "autumn-03",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "산책을 약속할 때 거리만 정하면 동행하는 사람의 속도나 쉬고 싶은 때를 놓칠 수 있습니다. 함께 걷는 날에는 돌아올 길과 쉬어 갈 장소도 이야기해 보세요. 멀리 가는 성취 외에도 대화와 풍경이 산책의 즐거움이 될 수 있습니다.",
+      "relatedHref": "/yangsaeng/#elder-preference",
+      "relatedLabel": "오래 즐기던 취향 존중하기"
     },
     {
       "season": "autumn",
@@ -1146,7 +1191,10 @@
       "source": "change-position",
       "practice": "읽던 글의 한 단락을 마쳤다면 자세를 바꾸고 시선을 잠시 책이나 화면에서 떼어 보세요.",
       "id": "autumn-04",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "재미있는 글을 읽다 보면 목을 숙인 채 시간이 훌쩍 지나갑니다. 다음 장으로 넘어갈 때 책이나 화면의 위치를 살피고, 기대어 앉는 자세도 바꾸어 보세요. 읽기를 멈출 때를 스스로 정할 수 있도록 짧은 단락을 골라 보는 방법도 있습니다.",
+      "relatedHref": "/conditions/eye-fatigue/",
+      "relatedLabel": "눈 피로와 읽는 환경"
     },
     {
       "season": "autumn",
@@ -1155,7 +1203,10 @@
       "source": "food",
       "practice": "처음부터 접시를 가득 채우기보다 내 식욕과 활동에 맞는 양을 덜어 보세요.",
       "id": "autumn-05",
-      "topic": "food"
+      "topic": "food",
+      "story": "함께 먹는 자리에서는 다른 사람의 속도에 맞추다 자신의 식욕을 놓칠 수 있습니다. 먹기 전 배고픔과 먹은 뒤 편안함을 따로 살펴보세요. 식사의 절도는 무조건 적게 먹는 규칙이 아니라, 자신의 필요와 불편을 알아차리는 질문으로 읽습니다.",
+      "relatedHref": "/conditions/functional-dyspepsia/",
+      "relatedLabel": "식후 불편과 조기포만"
     },
     {
       "season": "autumn",
@@ -1165,7 +1216,10 @@
       "practice": "가을 재료를 넣은 한 끼에 다른 식품 종류도 함께 있는지 확인해 보세요.",
       "modern": "food",
       "id": "autumn-06",
-      "topic": "food"
+      "topic": "food",
+      "story": "새 곡식이나 과일이 반가운 계절에는 좋아하는 재료에 식탁이 치우칠 수도 있습니다. 그 재료를 즐기면서 곁들일 채소와 단백질 식품도 떠올려 보세요. 고전의 식품 분류를 그대로 식단표로 쓰기보다, 다양하게 먹는 식사의 이야깃거리로 삼습니다.",
+      "relatedHref": "/yangsaeng/#food-foundation",
+      "relatedLabel": "식치 원문과 오늘의 식사"
     },
     {
       "season": "autumn",
@@ -1455,7 +1509,10 @@
       "source": "winter",
       "practice": "외출 전 날씨와 실내외 온도 차를 살펴 필요하면 덧입을 옷을 챙겨 보세요.",
       "id": "winter-01",
-      "topic": "living"
+      "topic": "living",
+      "story": "두꺼운 옷 한 벌을 입고 나가면 따뜻한 실내에서 조절하기 어려울 때가 있습니다. 오늘 머무를 장소와 이동 시간을 생각하며 벗고 덧입기 쉬운 옷을 준비해 보세요. 겨울이라는 이름보다 실제로 느끼는 추위와 환경을 살피는 생활 제안입니다.",
+      "relatedHref": "/yangsaeng/#seasonal-clothes",
+      "relatedLabel": "기후와 옷차림의 원문"
     },
     {
       "season": "winter",
@@ -1465,7 +1522,10 @@
       "practice": "무리하지 않는 익숙한 활동 하나를 정하고 끝난 뒤 편안한지 살펴보세요.",
       "modern": "activity",
       "id": "winter-02",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "겨울 운동 계획에는 밖에 나갈 수 없는 날의 선택도 있으면 좋습니다. 집 안에서 익숙한 활동을 짧게 나누거나 실내 공간을 이용할 수 있는지 살펴보세요. 거창한 새 계획보다 지금의 몸 상태로 이어갈 수 있는 활동을 찾는 데 초점을 둡니다.",
+      "relatedHref": "/yangsaeng/#work-rest",
+      "relatedLabel": "활동과 휴식의 간격"
     },
     {
       "season": "winter",
@@ -1475,7 +1535,10 @@
       "modern": "activity",
       "practice": "밖에서 걷기 어려운 날에 할 실내 활동을 한 가지 정해 두세요.",
       "id": "winter-03",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "외출이 줄면 장보기나 이동처럼 평소 의식하지 않았던 움직임도 함께 줄어듭니다. 운동 시간만 따로 기다리지 말고 집안에서 하던 일의 동선을 떠올려 보세요. 자신에게 안전하고 익숙한 활동을 하루 어디에 배치할지 정하는 제안입니다.",
+      "relatedHref": "/yangsaeng/#early-function",
+      "relatedLabel": "생활 기능과 움직임"
     },
     {
       "season": "winter",
@@ -1485,7 +1548,10 @@
       "practice": "따뜻한 실내에서 일을 바꾸는 순간에 잠깐 일어나거나 몸을 움직여 보세요.",
       "modern": "activity",
       "id": "winter-04",
-      "topic": "movement"
+      "topic": "movement",
+      "story": "따뜻한 자리에서 읽기와 영상 보기를 이어 가다 보면 쉬는 시간이 한 자세로 채워지기도 합니다. 한 편을 마쳤을 때 다음 콘텐츠를 바로 켜기 전에 몸의 위치를 바꾸어 보세요. 쉬는 즐거움과 가벼운 움직임을 한 일과 안에 놓을 수 있습니다.",
+      "relatedHref": "/conditions/neck-pain/",
+      "relatedLabel": "목과 어깨의 생활 관리"
     },
     {
       "season": "winter",
@@ -1495,7 +1561,10 @@
       "modern": "sleep",
       "practice": "지난밤의 수면과 오늘 낮 활동을 함께 살펴 내게 편한 리듬을 찾아보세요.",
       "id": "winter-05",
-      "topic": "sleep"
+      "topic": "sleep",
+      "story": "잠을 오래 잔 날에도 낮에 개운하지 않을 수 있습니다. 누워 있던 시간만 세기보다 언제 잠들고 깼는지, 낮에는 얼마나 졸렸는지 함께 기록해 보세요. 이런 기록은 생활 리듬을 돌아보거나 수면 문제를 상담할 때 설명할 재료가 됩니다.",
+      "relatedHref": "/conditions/insomnia/",
+      "relatedLabel": "수면과 낮 생활 함께 살피기"
     },
     {
       "season": "winter",
@@ -1505,7 +1574,10 @@
       "practice": "따뜻한 음식과 함께 먹을 채소나 다른 식품 종류를 한 가지 골라 보세요.",
       "modern": "food",
       "id": "winter-06",
-      "topic": "food"
+      "topic": "food",
+      "story": "따뜻한 국 한 그릇이 편한 날에도 그 안에 어떤 재료가 들어갔는지 살펴볼 수 있습니다. 국물만으로 끼니를 끝냈는지, 먹을 수 있는 건더기와 다른 반찬도 있었는지 돌아보세요. 든든하다는 느낌과 식사의 구성을 함께 생각하는 겨울 식탁 이야기입니다.",
+      "relatedHref": "/yangsaeng/#food-foundation",
+      "relatedLabel": "음식과 생활의 바탕"
     },
     {
       "season": "winter",
