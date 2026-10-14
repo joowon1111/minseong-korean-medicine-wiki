@@ -129,7 +129,7 @@
   }
 
   function loadAlmanac() {
-    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261014-life-cards", {credentials: "same-origin"})
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261014-reading", {credentials: "same-origin"})
       .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); })
       .then(function (data) {
         if (!Array.isArray(data.cards) || !data.cards.length || !data.sources || !data.modern ||
