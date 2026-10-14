@@ -1,5 +1,7 @@
 ---
 title: 질환별 보기
+search_title: 질환별 보기 — 검사·한의치료·회복 경과 안내
+reader_tools: true
 description: 진단명·의심 질환에서 통증·수면신경·소화간담·호흡성대·순환기·여성·비뇨·대사·회복의 평가, 변증·한약·침구·연구와 경과를 찾는 질환별 심화 허브입니다.
 tags:
 - 질환
@@ -53,6 +55,7 @@ last_reviewed: 2026-09-21
 - [목통증·경항통](neck-pain.md)
 - [어깨통증](shoulder-pain.md)
 - [무릎통증](knee-pain.md)
+- [교통사고 후유증 — 통증·회복·일상 복귀](traffic-accident-sequelae.md)
 
 <details markdown="1">
 <summary>통증·근골격 더 보기</summary>
@@ -88,13 +91,15 @@ last_reviewed: 2026-09-21
 - [어지럼](dizziness.md)
 - [이명](tinnitus.md)
 - [손발저림·팔다리가 저려요](limb-numbness.md)
+- [안면마비 — 초기 평가·눈 보호·회복 경과](facial-palsy.md)
+- [중풍·뇌졸중 — 급성기 치료 이후 재활과 한의치료 근거](../authority/conditions/stroke-rehabilitation.md)
 
 <details markdown="1">
 <summary>신경·감각·순환 증상 더 보기</summary>
 
 - [다리에 쥐가 나요·근육경련](muscle-cramps.md)
 - [하지불안증후군·밤에 다리가 불편해요](restless-legs-syndrome.md)
-- [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md)
+- [말초성 안면마비의 연구 근거](../authority/conditions/peripheral-facial-palsy.md)
 
 - [이석증](bppv.md)
 - [메니에르병](menieres-disease.md)
@@ -123,7 +128,7 @@ last_reviewed: 2026-09-21
 
 잠드는 시간·야간 각성·낮의 활동능력을 나누어 확인합니다. 피로는 지속기간과 감염·수술·입원 이후의 시간관계, 이미 받은 검사와 복용약을 함께 보는 문서로 연결합니다. [수면·정서·신경](../pillar/sleep-neuro.md#sleep-assessment)에서 수면 평가와 치료별 역할을, [보익·피로·회복](../pillar/tonic-recovery.md)에서 섭취·활동·회복 계획을 확인합니다.
 
-- [불면증·수면장애](insomnia.md)
+- [불면증·수면장애](insomnia.md) · [충분히 자도 개운하지 않을 때](../answer-guides/unclear-head-after-sleep-guide.md)
 - [만성피로·번아웃 감별](chronic-fatigue.md#burnout)
 - [우울감·우울증 — 직장인·갱년기·노년기](depression.md)
 - [불안·과도한 걱정](anxiety.md)
@@ -159,7 +164,9 @@ last_reviewed: 2026-09-21
 - [소화불량·증상 안내](dyspepsia.md)
 - [기능성소화불량·유형과 치료](functional-dyspepsia.md)
 - [역류성식도염·신물·가슴쓰림](gerd.md)
-- [과민성장증후군](ibs.md)
+- [과민성장증후군](ibs.md) · [스트레스와 소화 증상](../answer-guides/stress-digestion-guide.md)
+- [변비](constipation.md) · [배변 후 잔변감](../answer-guides/incomplete-bowel-movement-guide.md)
+- [설사](diarrhea.md)
 
 <details markdown="1">
 <summary>소화·식욕·배변 더 보기</summary>
@@ -168,8 +175,6 @@ last_reviewed: 2026-09-21
 - [건강검진 위염·내시경 소견](checkup-gastritis.md)
 - [복부팽만·가스](bloating.md)
 - [메스꺼움·오심](nausea.md)
-- [변비](constipation.md)
-- [설사](diarrhea.md)
 - [치질·치핵 — 출혈·통증·탈출](hemorrhoids.md)
 - [탈항·직장탈출](rectal-prolapse.md)
 - [혈변·항문출혈·흑변](rectal-bleeding.md)
@@ -229,10 +234,10 @@ last_reviewed: 2026-09-21
 월경주기·양·통증, 임신 가능성, 출산 이후 시기와 수유 여부를 함께 확인합니다. 임신준비·월경질환·산후회복은 각각의 검사와 치료 맥락에 맞춰 읽습니다. [여성건강 허브](../pillar/womens-health.md)는 월경·출혈·폐경이행기와 임신 단계별 목표를 연결합니다.
 
 - [난임·임신준비](infertility-preconception.md)
-- [생리통·월경통](dysmenorrhea.md)
+- [생리통·월경통](dysmenorrhea.md) · [통증이 예전보다 심해질 때](../answer-guides/period-pain-worsening-guide.md)
 - [월경불순·생리불순](irregular-menstruation.md)
-- [갱년기](menopause.md)
-- [산후회복 — 회복 단계·산후풍·생활관리](postpartum-recovery.md)
+- [갱년기](menopause.md) · [열감·수면 변화](../answer-guides/menopause-heat-sleep-guide.md)
+- [산후회복 — 회복 단계·산후풍·생활관리](postpartum-recovery.md) · [회복이 더딜 때](../answer-guides/postpartum-recovery-slow-guide.md)
 
 <details markdown="1">
 <summary>여성·임신·산후 더 보기</summary>
@@ -252,6 +257,7 @@ last_reviewed: 2026-09-21
 - [소아 식욕부진](child-poor-appetite.md)
 - [소아 반복감기·자주 아픈 아이](child-recurrent-colds.md)
 - [소아 수면](child-sleep.md)
+- [아이 보약을 상담하는 시점 — 식욕·수면·성장](../answer-guides/when-child-tonic-guide.md)
 
 <details markdown="1">
 <summary>소아·성장 더 보기</summary>
@@ -276,6 +282,8 @@ last_reviewed: 2026-09-21
 - [혈압이 높아요·건강검진 고혈압](high-blood-pressure-checkup.md)
 - [지방간·건강검진 지방간](fatty-liver.md)
 - [만성콩팥병·크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
+- [비만·체중관리](obesity.md) · [다이어트 한약 상담](weight-management-herbal.md)
+- [적게 먹어도 체중이 늘 때 확인할 기록](../answer-guides/weight-gain-despite-small-meals-guide.md)
 
 <details markdown="1">
 <summary>검사·대사·신장 더 보기</summary>
@@ -299,6 +307,7 @@ last_reviewed: 2026-09-21
 
 소변 횟수·양·절박감·통증·줄기와 야간 각성을 나누어 봅니다. 같은 빈뇨라도 원인이 다를 수 있어 감염·방광·전립선 문서의 평가 항목을 비교합니다. [비뇨·배뇨·남성건강 허브](../pillar/urology-mens-health.md)에서 골반저·성기능·남성 난임, 배뇨일지·변증·치료 경과까지 이어갑니다.
 
+- [빈뇨 — 소변 횟수·양·배뇨일지](frequent-urination.md)
 - [방광염·반복되는 요로감염](cystitis.md)
 - [과민성방광·절박뇨](overactive-bladder.md)
 - [야간뇨·밤에 자주 소변을 봐요](nocturia.md)
