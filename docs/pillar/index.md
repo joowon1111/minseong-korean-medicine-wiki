@@ -1,5 +1,7 @@
 ---
 title: 한의학 핵심 주제 허브
+search_title: 한의학 주제별 안내 — 증상·질환에서 치료 근거까지
+reader_tools: true
 description: 증상·질환에서 시작해 보익·회복, 통증, 수면·신경, 소화, 호흡, 순환기·심혈관, 피부, 소아, 여성, 비뇨, 대사와 한의치료 근거로 이동하는 핵심 탐색 허브입니다.
 tags: [Pillar, 한의학지식망, AEO]
 status: 검토완료
@@ -33,15 +35,15 @@ last_reviewed: 2026-08-29
 
 ## 증상·질환에서 바로 찾기
 
-- **통증**: [요통](../conditions/low-back-pain.md) · [등통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) · [턱관절통증](../conditions/temporomandibular-disorder.md)
-- **신경·순환**: [두통](../conditions/headache.md) · [어지럼](../conditions/dizziness.md) · [손발저림](../conditions/limb-numbness.md) · [하지불안증후군](../conditions/restless-legs-syndrome.md)
-- **소화**: [기능성소화불량](../conditions/functional-dyspepsia.md) · [복부팽만](../conditions/bloating.md) · [과민성장증후군](../conditions/ibs.md)
+- **통증**: [요통](../conditions/low-back-pain.md) · [등통증](../conditions/thoracic-back-pain.md) · [옆구리통증](../conditions/flank-pain.md) · [턱관절통증](../conditions/temporomandibular-disorder.md) · [교통사고 후유증](../conditions/traffic-accident-sequelae.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md)
+- **신경·순환**: [두통](../conditions/headache.md) · [어지럼](../conditions/dizziness.md) · [손발저림](../conditions/limb-numbness.md) · [하지불안증후군](../conditions/restless-legs-syndrome.md) · [안면마비](../conditions/facial-palsy.md) · [중풍·뇌졸중 재활](../authority/conditions/stroke-rehabilitation.md)
+- **소화**: [기능성소화불량](../conditions/functional-dyspepsia.md) · [복부팽만](../conditions/bloating.md) · [과민성장증후군](../conditions/ibs.md) · [변비](../conditions/constipation.md) · [설사](../conditions/diarrhea.md)
 - **순환기·심혈관**: [혈압](../conditions/high-blood-pressure-checkup.md) · [두근거림](../conditions/palpitation.md) · [혈액순환감각](../conditions/poor-circulation-sensation.md)
 - **호흡·면역**: [비염](../conditions/rhinitis.md) · [기침](../conditions/cough.md) · [감기](../conditions/common-cold.md)
 - **피부·모발**: [건선](../conditions/psoriasis.md) · [탈모](../conditions/hair-loss.md) · [아토피피부염](../conditions/atopic-dermatitis.md)
 - **소아**: [소아 성장](../conditions/child-growth.md) · [소아 수면](../conditions/child-sleep.md) · [소아 야뇨증](../conditions/child-enuresis.md)
-- **여성건강**: [난임·임신준비](../conditions/infertility-preconception.md) · [갱년기](../conditions/menopause.md) · [산후회복](../conditions/postpartum-recovery.md)
-- **비뇨·대사**: [과민성방광](../conditions/overactive-bladder.md) · [전립선비대증](../conditions/benign-prostatic-hyperplasia.md) · [대사증후군](../conditions/metabolic-syndrome.md)
+- **여성건강**: [생리통](../conditions/dysmenorrhea.md) · [난임·임신준비](../conditions/infertility-preconception.md) · [갱년기](../conditions/menopause.md) · [산후회복](../conditions/postpartum-recovery.md)
+- **비뇨·대사**: [빈뇨](../conditions/frequent-urination.md) · [체중관리](../conditions/weight-management-herbal.md) · [과민성방광](../conditions/overactive-bladder.md) · [전립선비대증](../conditions/benign-prostatic-hyperplasia.md) · [대사증후군](../conditions/metabolic-syndrome.md)
 - **회복관리**: [수술 후 회복](../conditions/postoperative-recovery.md) · [암 치료·수술 후 회복](../conditions/cancer-treatment-recovery.md) · [골절 후 회복](../conditions/fracture-recovery.md)
 
 ## 치료와 지식으로 더 깊게 보기
@@ -52,6 +54,7 @@ last_reviewed: 2026-08-29
 | 처방과 구성 원리 | [방제학 임상 지식망](../formulas/index.md) |
 | 경락·경혈과 배혈 | [경혈 임상 지식망](../acupoint-network/index.md) |
 | 변증과 치료 방향 | [변증 지도](../diagnostics/patterns/index.md) |
+| 사상체질과 회복 경과 | [체질개선의 목표](../sasang-followup/constitution-recovery.md#care-goals) · [초진부터 재평가까지](../sasang-followup/index.md) |
 | 환자 질문형 안내 | [환자 질문으로 찾기](../answer-guides/index.md) |
 | 질환에서 치료로 연결 | [질환→치료 통합 지도](../network/condition-to-treatment-map.md) |
 | 전체 지식 관계 | [통합 한의학 지식 그래프](../network/integrated-knowledge-graph.md) |

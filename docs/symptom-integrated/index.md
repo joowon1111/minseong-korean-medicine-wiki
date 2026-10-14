@@ -1,5 +1,7 @@
 ---
 title: 증상으로 찾기
+search_title: 증상으로 찾기 — 통증·수면·소화·여성·소아·배뇨 안내
+reader_tools: true
 description: 아파요·저려요·잠이 안 와요·목소리가 쉬어요·숨이 차요 등 생활 표현에서 감별 안내, 질환별 문서와 수면·소화·호흡·순환·비뇨·회복의 최신 주제 허브로 이어가는 증상 탐색 입구입니다.
 tags:
 - 증상
@@ -35,10 +37,12 @@ last_reviewed: '2026-08-29'
 
 | 이렇게 느껴요 | 먼저 볼 안내 | 관련 질환 심화 |
 |---|---|---|
-| 허리가 아파요 · 허리에서 다리까지 당겨요 | [허리통증·요통](pain.md#허리통증요통) | [요통](../conditions/low-back-pain.md) |
+| 허리가 아파요 · 허리에서 다리까지 당겨요 | [허리통증·요통](pain.md#허리통증요통) | [요통](../conditions/low-back-pain.md) · [허리디스크](../conditions/lumbar-disc-herniation.md) |
 | 등이 뻐근해요 · 날개뼈 사이가 아파요 | [통증 증상 지도](pain.md) | [등통증·흉추통증](../conditions/thoracic-back-pain.md) |
 | 옆구리가 아파요 · 갈비뼈 아래가 결려요 | [통증 증상 지도](pain.md) | [옆구리통증](../conditions/flank-pain.md) |
 | 목이 뻐근해요 · 뒷목이 당겨요 | [목통증](pain.md#목통증뒷목-뻐근함) | [목통증·경항통](../conditions/neck-pain.md) |
+| 목을 돌릴 때 어깨까지 아파요 | [목과 어깨 통증 구분](../answer-guides/neck-turn-shoulder-pain-guide.md) | [목디스크](../conditions/cervical-disc-herniation.md) |
+| 교통사고 뒤 목·허리 통증이 남아요 | [사고 후 증상과 경과](../conditions/traffic-accident-sequelae.md#delayed-symptoms) | [교통사고 후유증·일상 복귀](../conditions/traffic-accident-sequelae.md#return-to-work) |
 | 입 벌릴 때 턱이 아파요 · 턱에서 소리가 나요 | [통증 증상 지도](pain.md) | [턱관절통증](../conditions/temporomandibular-disorder.md) |
 | 팔을 올리기 힘들어요 · 어깨가 밤에 아파요 | [어깨통증](pain.md#어깨통증오십견) | [어깨통증](../conditions/shoulder-pain.md) |
 | 손목이 아파요 · 엄지쪽 손목이 아파요 | [통증 증상 지도](pain.md) | [손목통증](../conditions/wrist-pain.md) |
@@ -66,7 +70,7 @@ last_reviewed: '2026-08-29'
 |---|---|---|
 | 잠이 안 와요 · 누워도 생각이 많아요 | [불면](sleep-fatigue.md#불면증잠이-안-와요) | [불면증·수면장애](../conditions/insomnia.md) |
 | 자꾸 깨요 · 새벽에 깨면 다시 못 자요 | [얕은 잠](sleep-fatigue.md#자꾸-깨요얕은-잠) | [새벽각성](../conditions/early-awakening.md) · [불면증](../conditions/insomnia.md) |
-| 충분히 잤는데도 개운하지 않아요 | [수면·피로 증상 지도](sleep-fatigue.md) | [수면회복감 저하](../conditions/nonrestorative-sleep.md) |
+| 충분히 잤는데도 개운하지 않아요 | [자고 나도 머리가 맑지 않을 때](../answer-guides/unclear-head-after-sleep-guide.md) | [수면회복감 저하](../conditions/nonrestorative-sleep.md) |
 | 늘 피곤해요 · 기운이 없어요 | [만성피로](sleep-fatigue.md#만성피로기운이-없어요) | [만성피로](../conditions/chronic-fatigue.md) |
 | 걱정이 많고 긴장하면 몸이 굳어요 | [수면·긴장 증상 지도](sleep-fatigue.md) | [불안](../conditions/anxiety.md) · [긴장과 신체 증상](../conditions/anxiety-somatic.md) |
 | 머리가 멍하고 집중이 어려워요 | [졸림·피로·집중 저하 구분](../answer-guides/brain-fog-focus-guide.md#_4) | [브레인포그·평가와 회복](../answer-guides/brain-fog-focus-guide.md) |
@@ -103,6 +107,8 @@ last_reviewed: '2026-08-29'
 | 변비가 심하고 배변이 힘들어요 | [변비](digestive.md#변비) | [변비](../conditions/constipation.md) |
 | 배변 뒤 항문이 가려워요 · 자꾸 닦게 돼요 | [배변·세정 자극 점검](../conditions/pruritus-ani.md#causes) | [항문가려움증·항문소양증](../conditions/pruritus-ani.md) |
 
+긴장할 때 속과 장이 함께 불편하면 [스트레스와 소화 증상](../answer-guides/stress-digestion-guide.md)을, 배변 후에도 남은 느낌이 들면 [잔변감과 배변 양상](../answer-guides/incomplete-bowel-movement-guide.md)을 비교하세요.
+
 소화불량은 증상 이름이고, [기능성소화불량](../conditions/functional-dyspepsia.md)은 평가 후 판단하는 질환입니다. 신물·가슴쓰림이 중심이면 [역류 증상](../conditions/gerd.md), 식욕저하와 체중감소가 함께 있으면 [의도하지 않은 체중감소](../conditions/unintentional-weight-loss.md)를 읽습니다. 설사가 반복된다는 사실만으로 과민성장증후군을 확정하지 않습니다.
 
 간·담낭·췌장·위·소장·대장의 역할과 검사·본초·방제를 연결해 보려면 [소화·비위 허브](../pillar/digestion-spleen-stomach.md)를 이용합니다.
@@ -131,7 +137,8 @@ last_reviewed: '2026-08-29'
 | 이렇게 느껴요 | 먼저 볼 안내 | 관련 질환 심화 |
 |---|---|---|
 | 머리가 띵해요 · 빙빙 돌아요 | [어지럼](autonomic-stress.md#어지럼증머리가-띵해요) | [어지럼](../conditions/dizziness.md) |
-| 한쪽 얼굴이 갑자기 움직이지 않아요 | [신경 증상은 신속히 감별](../clinical-safety/headache-dizziness.md) | [말초성 안면마비](../authority/conditions/peripheral-facial-palsy.md) |
+| 한쪽 얼굴이 갑자기 움직이지 않아요 | [신경 증상은 신속히 감별](../clinical-safety/headache-dizziness.md) | [안면마비·회복 경과](../conditions/facial-palsy.md) |
+| 뇌졸중 진단·급성기 치료 뒤 재활을 알아보고 있어요 | [중풍·뇌졸중 재활 목표](../authority/conditions/stroke-rehabilitation.md#rehabilitation-goals) | [뇌졸중 재활과 한의치료 근거](../authority/conditions/stroke-rehabilitation.md) |
 | 온몸이 가려워요 · 발진 없이 밤에 가려워요 | [발진 없는 가려움](../answer-guides/itch-without-rash-guide.md) | [가려움증·소양증](../conditions/pruritus.md) |
 | 항문 주변이 가렵고 따가워요 | [항문 주변 원인 구분](../conditions/pruritus-ani.md#causes) | [항문가려움증·항문소양증](../conditions/pruritus-ani.md) |
 | 띠 모양 물집과 통증이 생겼어요 | [피부·통증 감별](../symptom-herbal-guide/systemic-skin/r21-rash-itch.md) | [대상포진](../conditions/shingles.md) |
@@ -157,12 +164,12 @@ last_reviewed: '2026-08-29'
 | 이렇게 느껴요 | 관련 질환 심화 |
 |---|---|
 | 임신을 준비하고 있어요 · 난임검사를 시작했어요 | [난임·임신준비](../conditions/infertility-preconception.md) |
-| 생리통이 심해요 · 진통제를 자주 먹어요 | [생리통·월경통](../conditions/dysmenorrhea.md) |
+| 생리통이 심해요 · 진통제를 자주 먹어요 | [생리통·월경통](../conditions/dysmenorrhea.md) · [예전보다 심해진 생리통](../answer-guides/period-pain-worsening-guide.md) |
 | 생리주기가 들쭉날쭉해요 | [월경불순](../conditions/irregular-menstruation.md) |
 | 생리양이 많아지고 어지럽고 피곤해요 | [과다월경](../conditions/heavy-menstruation.md) · [빈혈 검사](../conditions/anemia-lab.md) |
 | 생리가 불규칙하고 여드름·체중증가가 있어요 | [다낭성난소증후군](../conditions/polycystic-ovary-syndrome.md) |
-| 얼굴이 화끈거리고 잠을 설쳐요 | [갱년기](../conditions/menopause.md) |
-| 출산 뒤 기력·통증·수면이 회복되지 않아요 | [산후회복](../conditions/postpartum-recovery.md) |
+| 얼굴이 화끈거리고 잠을 설쳐요 | [갱년기](../conditions/menopause.md) · [열감과 수면 변화](../answer-guides/menopause-heat-sleep-guide.md) |
+| 출산 뒤 기력·통증·수면이 회복되지 않아요 | [산후회복](../conditions/postpartum-recovery.md) · [출산 뒤 회복이 더딜 때](../answer-guides/postpartum-recovery-slow-guide.md) |
 
 [여성건강 허브](../pillar/womens-health.md)에서 월경·폐경이행기·임신 준비·시술·임신·산후의 단계별 평가와 치료 목표를 확인합니다.
 
@@ -170,7 +177,7 @@ last_reviewed: '2026-08-29'
 
 | 이렇게 느껴요 | 관련 안내 |
 |---|---|
-| 소변이 자주 마렵거나 참기 어려워요 | [과민성방광](../conditions/overactive-bladder.md) · [배뇨 증상군](../symptom-herbal-guide/urogenital/r30-urinary.md) |
+| 소변이 자주 마렵거나 참기 어려워요 | [빈뇨·횟수와 양 구분](../conditions/frequent-urination.md#frequency-volume) · [과민성방광](../conditions/overactive-bladder.md) |
 | 소변볼 때 아프거나 따가워요 | [방광염·요로감염](../conditions/cystitis.md) |
 | 소변줄기가 약하고 본 뒤에도 남은 느낌이에요 | [약한 소변줄기](../conditions/weak-urine-stream.md) · [잔뇨감](../conditions/residual-urine.md) |
 | 골반·회음부가 묵직하고 아파요 | [골반통 원인 구분](../conditions/pelvic-pain.md) · [골반·회음부 통증군](../symptom-herbal-guide/urogenital/r11-pelvic-perineal.md) |
@@ -190,13 +197,15 @@ last_reviewed: '2026-08-29'
 | 배가 자주 아프거나 변이 딱딱해요 | [소아 복통](../conditions/child-abdominal-pain.md) · [소아 변비](../conditions/child-constipation.md) |
 | 감기에 자주 걸리고 오래가요 | [소아 반복감기](../conditions/child-recurrent-colds.md) |
 | 코가 막혀서 잠을 잘 못 자요 | [소아 비염](../conditions/child-rhinitis.md) · [소아 수면](../conditions/child-sleep.md) |
-| 또래보다 키가 작은 것 같아요 | [소아 성장·성장곡선](../conditions/child-growth.md) |
+| 또래보다 키가 작은 것 같아요 | [소아 성장·성장곡선](../conditions/child-growth.md) · [진료 전 성장 기록](../conditions/child-growth.md#growth-record) |
+| 아이 보약을 언제 상담할지 궁금해요 | [식욕·수면·성장별 소아 보약 상담](../answer-guides/when-child-tonic-guide.md) |
 | 밤에 이불에 소변을 봐요 | [소아 야뇨증](../conditions/child-enuresis.md) |
 
 ## 체중 변화·건강검진 이상 {#weight-checkup}
 
 | 이런 변화나 검사 결과가 있어요 | 관련 안내 |
 |---|---|
+| 적게 먹는 것 같은데 체중이 늘어요 | [식사·활동·수면과 체중 기록](../answer-guides/weight-gain-despite-small-meals-guide.md) · [체중관리 한약](../conditions/weight-management-herbal.md) |
 | 식사를 줄이지 않았는데 살이 빠져요 | [의도하지 않은 체중감소](../conditions/unintentional-weight-loss.md) |
 | 몸이 붓고 체중도 갑자기 달라져요 | [부종과 체중변화](../conditions/edema-weight.md) |
 | 검진에서 혈압·혈당·지질이 높다고 해요 | [고혈압 검사](../conditions/high-blood-pressure-checkup.md) · [당뇨전단계](../conditions/prediabetes.md) · [이상지질혈증](../conditions/dyslipidemia.md) |
@@ -217,6 +226,8 @@ last_reviewed: '2026-08-29'
 - [침구·치료 증상으로 찾기](../acupuncture-integrated/by-symptom.md)
 - [치료·경과·근거](treatment-evidence.md)
 - [연구·근거 통합 안내](../portal/evidence.md) · [출처·근거 카드](../authority/index.md)
+
+체질개선이 궁금하다면 [체질별 회복 목표](../sasang-followup/constitution-recovery.md#care-goals)에서 소화·수면·배변·피로 중 무엇을 기록할지 살펴보고, [치료 경과관찰](../sasang-followup/index.md)로 이어가세요.
 
 ## 증상을 찾지 못했다면 {#_11}
 
