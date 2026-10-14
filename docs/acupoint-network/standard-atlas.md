@@ -1,4 +1,6 @@
 ---
+search_title: "361경혈 위치 찾기: 경락·해부·주치와 경혈 아틀라스"
+reader_tools: true
 title: WHO 표준 361경혈 임상 아틀라스
 description: 경혈명·증상·근육·신경으로 361경혈과 사암침·동씨기혈을 함께 찾고, 선택한 혈의 위치 도해·해부학·주치 출처를 확인합니다.
 status: reviewed

@@ -59,7 +59,7 @@ hide:
     </div>
   </details>
   <a class="daily-km-archive" href="daily-korean-medicine/#daily-yangsheng-title">양생 문구 더 보기 →</a>
-  <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden>오늘의 문구를 불러오지 못해 기본 문구를 표시합니다.</p>
+  <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden></p>
 </section>
 </div>
 
@@ -69,7 +69,7 @@ hide:
     <p>경혈·본초·상한론·사상의학, 오늘의 원문과 핵심 풀이를 읽어보세요.</p></div>
     <time data-topic-date>기본 카드</time>
   </header>
-  <p class="daily-km-data-error" data-daily-data-error hidden>오늘의 카드 자료를 불러오지 못했습니다. 아래 아카이브 문서에서 전체 내용을 볼 수 있습니다.</p>
+  <p class="daily-km-data-error" data-daily-data-error hidden></p>
   <div class="daily-km-topic-grid">
 <article class="daily-km-topic daily-km-topic-points" data-daily-topic="points">
   <div class="daily-km-topic-meta"><span>하루 경혈</span><span data-topic-count>280 / 361</span></div>
@@ -79,17 +79,17 @@ hide:
 를 연결하는 선의 중점.
 전통 자료의 주치 예: 고관절 부위 통증 · 하지 통증</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
-  <p class="daily-km-topic-translation" data-topic-translation hidden><strong>아카이브 풀이</strong> — </p>
+  <p class="daily-km-topic-translation" data-topic-translation hidden></p>
   <details class="daily-km-home-details">
     <summary>해설·출전 펼치기</summary>
   <p class="daily-km-topic-note" data-topic-note hidden></p>
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <div class="daily-km-topic-links">
-    <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
+    <a data-topic-reference href="https://m.kmcric.com/knowledge/acupoint/GB/GB29" target="_blank" rel="noopener">KMCRIC 표준경혈 DB · 거료 ↗</a>
   </div>
   </details>
   <div class="daily-km-topic-links">
-    <a data-topic-link href="/acupuncture/points/gb29/">관련 문서 더 읽기 →</a>
+    <a data-topic-link href="/acupuncture/points/gb29/">거료 GB29 위치·해설 →</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-herbs" data-daily-topic="herbs">
@@ -97,19 +97,19 @@ hide:
   <h3 data-topic-title>우방자(牛蒡子)</h3>
   <p class="daily-km-topic-summary" data-topic-summary>우방자의 기원·초법, 소산풍열·선폐이인·투진소종 효능, 은교산·소풍산 속 역할과 박하·길경 감별을 정리합니다.</p>
   <blockquote class="daily-km-topic-original" data-topic-original hidden></blockquote>
-  <p class="daily-km-topic-translation" data-topic-translation hidden><strong>아카이브 풀이</strong> — </p>
+  <p class="daily-km-topic-translation" data-topic-translation hidden></p>
   <details class="daily-km-home-details">
     <summary>해설·출전 펼치기</summary>
-  <p class="daily-km-topic-explanation" data-topic-explanation hidden></p>
+  <p class="daily-km-topic-explanation" data-topic-explanation>식품으로 먹는 우엉은 주로 뿌리, 약용 우방자는 성숙한 열매입니다. 은교산의 인후 배합과 소풍산의 피부 배합은 주변 약재와 병증 문맥을 함께 살핍니다.</p>
   <p class="daily-km-topic-note" data-topic-note hidden></p>
   <p class="daily-km-topic-edition" data-topic-edition hidden></p>
   <div class="daily-km-topic-links">
-    <a data-topic-reference hidden>출전·관련 자료 확인 ↗</a>
-    <a data-topic-hkbu-reference hidden>약재 사진·한자 주치 정보(HKBU) ↗</a>
+    <a data-topic-reference href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00251" target="_blank" rel="noopener">HKBU 우방자 약재 자료 ↗</a>
+    <a data-topic-hkbu-reference hidden></a>
   </div>
   </details>
   <div class="daily-km-topic-links">
-    <a data-topic-link href="/herbs/arctium/">관련 문서 더 읽기 →</a>
+    <a data-topic-link href="/herbs/arctium/">우방자 기원·효능·배합 →</a>
   </div>
 </article>
 <article class="daily-km-topic daily-km-topic-shanghan" data-daily-topic="shanghan">

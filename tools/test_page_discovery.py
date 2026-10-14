@@ -121,6 +121,30 @@ class DiscoveryTests(unittest.TestCase):
             self.assertIsNone(discovery.http_url(value, self.page.canonical_url))
         self.assertEqual(discovery.http_url('#참고', self.page.canonical_url), self.page.canonical_url + '#참고')
 
+    def test_search_title_and_citation_preserve_editorial_title_and_privacy(self):
+        self.page.meta['search_title'] = '검색 질문: "조건" <비교>'
+        self.page.meta['reader_tools'] = True
+        original_title = self.page.title
+        content, output, payload = self.render('<p>본문</p>')
+        self.assertEqual(payload['title'], self.page.meta['search_title'])
+        self.assertEqual(self.page.title, original_title)
+        self.assertIn('data-citation-title="검색 질문: &quot;조건&quot; &lt;비교&gt;"', content)
+        self.assertIn('data-citation-url="' + self.page.canonical_url + '"', content)
+        self.assertIn('https://example.org/wiki/guide/#publisher', content)
+        self.assertIn('data-copy-citation="citation" hidden', content)
+        self.assertIn('출처·인용 원칙', content)
+        for field in ('lastReviewed', 'dateModified', 'reviewedBy', '"author"'):
+            self.assertNotIn(field, output)
+        self.assertEqual(payload['text'], '본문')
+
+    def test_citation_is_opt_in_and_title_falls_back(self):
+        for value in (None, False, 'true'):
+            self.page.meta['reader_tools'] = value
+            self.assertEqual(discovery.reader_tools(self.page, self.config), '')
+        for value in ('', '  ', {}, None):
+            self.page.meta['search_title'] = value
+            self.assertEqual(discovery.document_title(self.page), self.page.title)
+
     def test_curated_related_documents(self):
         self.page.meta['related_reading'] = [{'document': 'conditions/next.md', 'reason': '다음 단계 <확인>'}]
         content, output, payload = self.render('<p>본문</p>')

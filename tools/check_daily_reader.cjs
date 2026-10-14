@@ -32,10 +32,44 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       await failed.locator('[data-yangsheng-error]').waitFor();
       assert.equal(await failed.locator('[data-topic-date]').innerText(),'기본 카드');
       assert.equal(await failed.locator('[data-yangsheng-date]').innerText(),'기본 카드');
+      assert.match(await failed.locator('[data-daily-data-error]').innerText(),/불러오지 못했습니다/);
+      assert.match(await failed.locator('[data-yangsheng-error]').innerText(),/기본 문구/);
       assert.equal(await failed.locator('[data-topic-link]').count(),4);
       for (const link of await failed.locator('[data-topic-link]').all()) assert(await link.getAttribute('href'));
       assert.equal(await failed.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth),true);
       await failed.close();
+
+      const staticContext = await browser.newContext({viewport, javaScriptEnabled:false});
+      const staticPage = await staticContext.newPage();
+      await staticPage.goto(base+'/');
+      const homeSource = await (await staticPage.request.get(base+'/')).text();
+      assert(!homeSource.includes('불러오지 못했습니다'));
+      assert(!homeSource.includes('불러오지 못해'));
+      assert.equal(await staticPage.locator('[data-topic-link][href]').count(),4);
+      await staticPage.goto(base+'/conditions/insomnia/');
+      assert.equal(await staticPage.locator('[data-copy-citation]:visible').count(),0);
+      assert.equal(await staticPage.locator('[data-archive-citation] a').filter({hasText:'문서 고정 주소'}).isVisible(),true);
+      await staticContext.close();
+
+      const shared = await context.newPage();
+      await shared.addInitScript(() => {
+        Object.defineProperty(navigator, 'clipboard', {configurable:true, value:{
+          writeText:async text => { window.copiedArticle = text; }
+        }});
+      });
+      await shared.goto(base+'/conditions/insomnia/?utm_source=test#_1');
+      assert.match(await shared.title(),/^불면증·수면장애: 원인/);
+      await shared.locator('[data-copy-citation="citation"]').click();
+      await shared.locator('[data-citation-status]').filter({hasText:'복사했습니다.'}).waitFor();
+      assert.equal(await shared.evaluate(() => window.copiedArticle),
+        '불면증·수면장애: 원인, 한약·침 치료와 생활관리 — 민성 한의학 아카이브\nhttps://wiki.minseong.co.kr/conditions/insomnia/');
+      await shared.evaluate(() => { navigator.clipboard.writeText = async () => { throw new Error('denied'); }; });
+      await shared.locator('[data-copy-citation="url"]').click();
+      await shared.locator('[data-citation-fallback]').waitFor();
+      assert.equal(await shared.locator('[data-citation-fallback]').inputValue(),'https://wiki.minseong.co.kr/conditions/insomnia/');
+      assert.equal(await shared.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth),true);
+      await shared.screenshot({path:`archive-browser-results/${name}-article-sharing.png`,fullPage:false});
+      await shared.close();
 
       page.on('pageerror',error => errors.push(error.message));
       await page.goto(base+'/daily-korean-medicine/?card=points-15');

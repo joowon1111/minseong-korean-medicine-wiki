@@ -3,6 +3,8 @@
 {% block htmltitle %}
   {% if page.is_homepage %}
     <title>{{ config.extra.homepage_title | default(config.site_name, true) }}</title>
+  {% elif page and page.meta.search_title %}
+    <title>{{ page.meta.search_title | e }} - {{ config.site_name | e }}</title>
   {% else %}
     {{ super() }}
   {% endif %}

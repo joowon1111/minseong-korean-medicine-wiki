@@ -1,4 +1,6 @@
 ---
+search_title: "한약 처방 비교: 구성·약량·출전과 유사 처방 감별"
+reader_tools: true
 title: 한약 처방 구조·비교 — 구성·배합·유사 처방 감별
 tags: [방제학, 처방구조, 비교감별, 임상추론]
 status: 검토완료

@@ -6,6 +6,31 @@
 }
 
 /* Static reading aids: usable without JavaScript, including on mobile. */
+.archive-citation {
+  margin: 2rem 0 1rem;
+  padding-top: .8rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  font-size: .7rem;
+  color: var(--md-default-fg-color--light);
+  overflow-wrap: anywhere;
+}
+.archive-citation-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; }
+.archive-citation button {
+  min-height: 44px;
+  padding: .4rem .7rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .3rem;
+  color: var(--md-typeset-a-color);
+  cursor: pointer;
+}
+.archive-citation button:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px; }
+.archive-citation textarea {
+  width: 100%; min-height: 5rem; margin-top: .5rem; padding: .5rem;
+  background: var(--md-default-bg-color); color: var(--md-default-fg-color);
+  border: 1px solid var(--md-default-fg-color--lightest); font: inherit;
+}
+.archive-citation [hidden] { display: none; }
+@media print { .archive-citation button, .archive-citation textarea, [data-citation-status] { display: none; } }
 .archive-breadcrumbs, .archive-reading-tools {
   font-size: .7rem;
   color: var(--md-default-fg-color--light);
