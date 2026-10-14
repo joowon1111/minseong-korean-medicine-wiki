@@ -1,4 +1,6 @@
 ---
+search_title: "상한론: 육경병, 398조 원문·해석과 주요 처방"
+reader_tools: true
 title: 상한론
 description: 상한론의 육경병·맥증·치법·대표 고방을 방제 구조와 현대 임상으로 연결합니다.
 ---

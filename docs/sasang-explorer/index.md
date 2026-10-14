@@ -1,4 +1,6 @@
 ---
+search_title: "사상의학 탐색기: 체질별 병증·원문·처방 비교"
+reader_tools: true
 title: 사상체질·병증 처방 탐색기
 description: 네 체질의 소증·26개 병증군·원문 풀이·감별·대표 처방과 체질식이·양생·운동을 단계적으로 살펴보고 한의원 진찰과 경과 평가로 연결하는 사상의학 탐색기입니다.
 tags: [사상의학, 사상체질, 병증, 처방, 학습도구]
@@ -10,12 +12,21 @@ hide:
 
 # 사상체질·병증 처방 탐색기
 
-체질 → 병증 → 원문·감별 → 대표 처방을 선택해 살펴보고, 체질별 **소증·음식·체질식이·양생·운동과 한의원 진료 과정**을 함께 읽을 수 있습니다.
+**사상의학 탐색기는 소양인·소음인·태음인·태양인의 병증과 대표 처방을 원문·해석·감별점으로 비교하는 학습 도구**입니다. 체질 → 병증 → 원문·감별 → 대표 처방 순서로 살펴보고, 체질별 소증·음식·양생·운동을 함께 읽습니다. 단일 증상이나 체형으로 체질을 확정하지 않습니다.
 
 <iframe id="sasang-explorer-frame" src="../assets/sasang-explorer/index.html" title="사상의학 체질·병증·처방·생활관리 탐색기" style="width:100%;height:1400px;border:0;display:block;border-radius:8px;background:#f7f6f0" loading="eager"></iframe>
 <script src="../assets/sasang-explorer/embed-parent.js" defer></script>
 
 [탐색기를 넓은 화면으로 열기](../assets/sasang-explorer/index.html){ .md-button }
+
+## 체질별 자료에서 바로 읽기 {#constitution-reading}
+
+| 체질 | 소증·병증과 처방을 읽는 출발점 |
+|---|---|
+| 소양인 | [소양인의 평소 상태와 병증](../sasang-integrated/soyangin.md) |
+| 소음인 | [소음인의 평소 상태와 병증](../sasang-integrated/soeumin.md) |
+| 태음인 | [태음인의 평소 상태와 병증](../sasang-integrated/taeeumin.md) |
+| 태양인 | [태양인의 평소 상태와 병증](../sasang-integrated/taeyangin.md) |
 
 ## 탐색기를 읽는 순서
 

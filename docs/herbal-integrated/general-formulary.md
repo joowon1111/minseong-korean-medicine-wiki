@@ -1,4 +1,6 @@
 ---
+search_title: "임상 핵심 한약 처방 100선: 구성·용량·원문과 해석"
+reader_tools: true
 title: 일반 방제 임상 지도
 tags: [방제학, 일반방제, 임상지도, 처방감별]
 status: 검토완료

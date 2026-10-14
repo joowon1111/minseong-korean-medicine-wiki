@@ -5,6 +5,7 @@ site_author: 민성 한의학 아카이브
 copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
 use_directory_urls: true
 extra_javascript:
+  - assets/article-sharing.js?v=20261014
   - assets/acupoint-3d/launch.js?v=20261012-style
   - assets/archive-tools/search-core.js?v=20261009-03
   - assets/archive-tools/ai-client.js?v=20261009-03
@@ -16,11 +17,11 @@ extra_javascript:
   - assets/learning/learning.js?v=20261004-07&ui=20261009-02
   - assets/daily-korean-medicine/reader-core.js?v=20261012-daily-comparison
   - assets/daily-korean-medicine.js?v=20261012-daily-comparison
-  - assets/daily-korean-medicine/special.js?v=20261012-point-map
+  - assets/daily-korean-medicine/special.js?v=20261014-fallback
 extra_css:
 - assets/acupoint-3d/map.css?v=20261012-style
 - assets/archive-tools/tools.css?v=20261013-full-formulas
-- assets/extra.css
+- assets/extra.css?v=20261014
 - assets/acupoint-atlas/explorer.css
 - assets/learning/learning.css?v=20261013-import-fit
 - stylesheets/portal.css?v=20261012-daily-comparison

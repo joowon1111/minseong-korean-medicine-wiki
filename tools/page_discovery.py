@@ -29,8 +29,34 @@ def page_language(page):
 
 
 def document_title(page):
-    title = page.meta.get("title")
-    return plain(title) if isinstance(title, str) and title.strip() else page.title
+    for field in ("search_title", "title"):
+        title = page.meta.get(field)
+        if isinstance(title, str) and title.strip():
+            return plain(title)
+    return page.title
+
+
+def reader_tools(page, config):
+    """Opt-in provenance and citation controls; never infer an author/reviewer."""
+    if page.meta.get("reader_tools") is not True:
+        return ""
+    root = config["site_url"]
+    url = escape(page.canonical_url, quote=True)
+    title = escape(document_title(page), quote=True)
+    guide = escape(urljoin(root, "guide/"), quote=True)
+    return (
+        f'<aside class="archive-citation" aria-label="문서 출처와 공유" '
+        f'data-archive-citation data-citation-title="{title}" data-citation-url="{url}">'
+        f'<p>운영: <a href="{guide}#publisher">민성한의원</a> · '
+        f'<a href="{guide}citation-policy/">출처·인용 원칙</a> · '
+        f'<a href="{guide}editorial-policy/">편집 원칙</a></p>'
+        f'<div class="archive-citation-actions"><a href="{url}">문서 고정 주소</a>'
+        '<button type="button" data-copy-citation="url" hidden>주소 복사</button>'
+        '<button type="button" data-copy-citation="citation" hidden>제목·출처 복사</button></div>'
+        '<p data-citation-status role="status" aria-live="polite" hidden></p>'
+        '<textarea data-citation-fallback aria-label="복사할 제목·출처 또는 주소" readonly hidden></textarea>'
+        '</aside>'
+    )
 
 
 def http_url(value, base):
@@ -191,7 +217,7 @@ def on_page_content(html, page, config, files):
         "article": article, "breadcrumbs": breadcrumbs, "related": related,
         "document_path": document_path,
     }
-    return prefix + html + suffix
+    return prefix + html + suffix + reader_tools(page, config)
 
 
 def json_text(value):

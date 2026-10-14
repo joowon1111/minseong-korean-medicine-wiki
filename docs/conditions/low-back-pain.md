@@ -1,4 +1,6 @@
 ---
+search_title: "허리통증·요통: 원인 감별, 침·약침·한약과 운동"
+reader_tools: true
 title: 요통
 description: 급성 허리통증·만성요통·좌골신경통을 구분하고 위험신호, 한약·침·전침·약침·운동 치료를 연결합니다.
 tags:
