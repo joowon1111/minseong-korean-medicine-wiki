@@ -12,7 +12,7 @@ last_reviewed: 2026-10-12
 
 이 허브는 **피부 모양과 시간 경과 → 진단과 필요한 검사 → 한의학적 변증 → 한약·침구·외용·생활관리 → 경과 재평가**를 함께 설명합니다. 우선 자신의 불편에 가까운 문서를 찾고, 아래에서 진료와 치료를 어떻게 연결하는지 읽을 수 있습니다. 증상표는 진료에서 확인할 단서를 정리한 것이며 진단이나 처방을 확정하는 표는 아닙니다.
 
-**바로 읽기:** [비슷한 발진의 차이](#rash-differences) · [두피염과 탈모](#scalp-hair) · [한약·침·약침](#treatment-options) · [생활관리](#daily-care) · [치료 경과](#follow-up-record) · [임상근거](#clinical-evidence)
+**바로 읽기:** [피부질환별 한약](#herbal-skin-diseases) · [비슷한 발진의 차이](#rash-differences) · [두피염과 탈모](#scalp-hair) · [한약·침·약침](#treatment-options) · [생활관리](#daily-care) · [치료 경과](#follow-up-record) · [임상근거](#clinical-evidence)
 
 ## 증상에서 시작하기 {#_2}
 
@@ -26,6 +26,19 @@ last_reviewed: 2026-10-12
 | 팽진이 생겼다 사라짐 | [두드러기](../conditions/urticaria.md) | 혈관부종·호흡곤란 |
 | 머리카락이 가늘거나 많이 빠짐 | [탈모](../conditions/hair-loss.md) | 흉터성·원형·휴지기·유전형 |
 | 발진 없이 가려움 | [가려움증](../conditions/pruritus.md) | 간·신장·혈액·약물 원인 |
+
+## 습진·아토피·여드름의 한약치료를 읽는 길 {#herbal-skin-diseases}
+
+피부질환의 한약치료는 **반복되는 가려움·염증·진물·건조와 새 병변의 발생**을 줄이는 것을 목표로 살펴볼 수 있습니다. 병명만으로 같은 처방을 쓰기보다 현재 병변과 전신 증후를 함께 확인하고, 실제 호전은 피부와 생활 지표로 평가합니다.
+
+| 관심 분야 | 한약 설명에서 집중할 내용 | 자세히 읽기 |
+|---|---|---|
+| 습진·접촉피부염 | 진물·수포에서 건조·균열로 달라질 때 청열·제습·양혈의 비중, 접촉 원인 | [소풍산 배합과 피부염의 경과](../conditions/eczema.md#formula-balance) |
+| 아토피피부염 | 붉음·가려움·야간 각성과 피부 범위, 소풍산·곽향정기 제제의 실제 연구 | [아토피의 한약 연구와 평가](../conditions/atopic-dermatitis.md#herbal-evidence) |
+| 염증성 여드름 | 새 구진·농포·통증, 월경·열감·건조, 청상방풍탕 국내 시험 | [여드름의 한약 임상시험](../conditions/acne.md#herbal-evidence) |
+| 만성 두드러기 | 팽진·가려움의 주간 활동도, 처방과 장기 경과 | [두드러기의 한약 치료 목표](../conditions/urticaria.md#herbal-goals) |
+
+한약 임상시험에서 피부병변이나 염증성 여드름의 개선을 확인한 결과가 있으며, 접촉피부염은 증례 중심 자료가 많습니다. 질환마다 근거의 양과 연구 조건이 다르므로 하나의 성공률로 묶지 않습니다. 위 경로에서 **처방을 달리하는 이유와 실제로 확인된 결과**를 함께 읽을 수 있습니다.
 
 ## 붉고 가려운 피부, 모양보다 시간도 중요합니다 {#rash-differences}
 
@@ -181,7 +194,9 @@ last_reviewed: 2026-10-12
 | 읽을 자료 | 연구에서 확인할 내용 | 기존 아카이브의 근거 |
 |---|---|---|
 | 아토피 침치료 | 경증~중등도 성인 대상 국내 무작위시험에서 SCORAD 개선이 실제 침군에 유리했음. 가려움·불면 등 개별 지표의 군 간 차이는 따로 확인 | [시험과 지표별 결과](../authority/conditions/atopic-dermatitis.md#acupuncture-evidence) |
-| 아토피 한약치료 | 소풍산 경구 제제의 위약 비교시험 등에서 사용한 구성·제형·대상·추적기간을 확인 | [소풍산 제제 연구](../authority/conditions/atopic-dermatitis.md#xiaofeng-san-trial) |
+| 아토피 한약치료 | 소풍산의 병변·가려움·수면 평가와 경증 대상 CHARM의 EASI 결과를 구분 | [처방별 결과 해석](../authority/conditions/atopic-dermatitis.md#herbal-outcomes) |
+| 염증성 여드름 한약치료 | 청상방풍탕 추출제의 국내 56명 위약대조시험, 염증성 병변 수의 변화 | [국내 시험과 적용 범위](../conditions/acne.md#herbal-evidence) |
+| 만성 두드러기 한약치료 | 소풍산·청상방풍탕 복합 제제의 8주 활동도, 공통 투약과 완료자 분석 조건 | [한약 시험 결과](../authority/conditions/chronic-spontaneous-urticaria.md#herbal-trial) |
 | 만성 자발성 두드러기 침치료 | 팽진·가려움과 삶의 질 결과를 치료 방법·대조군·연구의 차이와 함께 검토 | [두드러기 임상근거](../authority/conditions/chronic-spontaneous-urticaria.md) |
 
 2021년 국내 아토피 침시험은 36명을 배정해 4주 치료와 4주 추적을 진행했습니다. 이런 사람 대상 연구는 치료 가능성과 평가 방법을 살피는 자료이며, 결과를 모든 피부질환·모든 중증도·모든 시술에 확대하지 않습니다. 동물·세포 연구는 작용을 탐색하는 자료로 사람의 치료 결과와 구분합니다. [Park 등, 2021 원문](https://doi.org/10.1186/s12906-021-03306-1)
