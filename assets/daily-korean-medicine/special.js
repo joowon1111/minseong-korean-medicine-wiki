@@ -272,10 +272,17 @@
         const node = root.querySelector("[data-yangsheng-date]");
         node.textContent = formatDate(date);
         node.setAttribute("datetime", date.toISOString().slice(0, 10));
-        root.querySelector("[data-yangsheng-error]").hidden = true;
+        const notice = root.querySelector("[data-yangsheng-error]");
+        if (notice) { notice.hidden = true; notice.textContent = ""; }
       });
     }).catch(function () {
-      roots.forEach(function (root) { root.querySelector("[data-yangsheng-error]").hidden = false; });
+      roots.forEach(function (root) {
+        const notice = root.querySelector("[data-yangsheng-error]");
+        if (notice) {
+          notice.textContent = "오늘의 문구를 불러오지 못해 기본 문구를 표시합니다.";
+          notice.hidden = false;
+        }
+      });
     });
   }
 
@@ -412,6 +419,8 @@
     renderYangsheng(date);
     loadData().then(function (data) {
       widgets.forEach(function (widget) {
+        const notice = widget.querySelector("[data-daily-data-error]");
+        if (notice) { notice.hidden = true; notice.textContent = ""; }
         widget.querySelectorAll("[data-daily-topic]").forEach(function (root) {
           const topic = root.getAttribute("data-daily-topic");
           if (data[topic]) renderTopic(root, topic, data, date);
@@ -424,7 +433,10 @@
     }).catch(function () {
       widgets.forEach(function (widget) {
         const note = widget.querySelector("[data-daily-data-error]");
-        if (note) note.hidden = false;
+        if (note) {
+          note.textContent = "오늘의 카드 자료를 불러오지 못했습니다. 아래 아카이브 문서에서 전체 내용을 볼 수 있습니다.";
+          note.hidden = false;
+        }
       });
     });
   }
