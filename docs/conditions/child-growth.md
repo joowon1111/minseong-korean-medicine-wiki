@@ -1,4 +1,6 @@
 ---
+search_title: "아이 키 성장: 성장곡선·성장속도와 식욕·수면 관리"
+reader_tools: true
 title: 성장기·아이 키 성장
 description: 아이의 성장곡선·성장속도·사춘기·식사·수면을 살피고 성장보약·소아 한약, 식욕저하·피로 자료로 연결합니다.
 tags: [소아, 성장, 성장곡선, 성장보약, 소아한약]
@@ -40,6 +42,17 @@ last_reviewed: 2026-09-06
 키를 잰 날짜와 방법이 달라 생기는 오차를 먼저 살핍니다. 성장속도는 일정 기간의 키 차이를 기간으로 나누어 읽되, 짧은 기간의 몇 mm 차이를 연간 수치로 과장하지 않습니다. 골연령은 성장 단계에 관한 자료이며 최종 키를 보장하는 값은 아닙니다. [Pediatric Endocrine Society 성장 저하 평가](https://pedsendo.org/clinical-resource/child-with-suspected-short-stature/)
 
 성장 문제와 함께 식사 불편은 [소아 식욕부진의 처방 비교](child-poor-appetite.md#pediatric-patterns), 잠의 질은 [소아 수면](child-sleep.md#sleep-diary), 반복 복통은 [소아 복통](child-abdominal-pain.md#pediatric-patterns)으로 이어 살핍니다.
+
+### 성장 상담에 가져갈 기록 {#growth-record}
+
+| 기록 | 준비할 내용 |
+|---|---|
+| 키·체중 | 측정 날짜와 수치, 영유아·학교 검진 자료 |
+| 가족의 성장 | 부모 키, 가족의 사춘기가 빨랐는지 늦었는지 |
+| 아이의 변화 | 식사량·수면·활동·복통·변 상태, 사춘기 변화 시점 |
+| 건강 정보 | 출생력, 기존 질환·복용약, 이미 받은 검사 |
+
+측정값을 매일 비교하기보다 진료에서 정한 간격으로 같은 조건의 자료를 모읍니다. 또래보다 작은지와 성장속도가 떨어졌는지는 다른 질문이므로, 이전 기록이 특히 중요합니다. [소아내분비학회 작은 키 안내](https://pedsendo.org/patient-resource/short-stature/). 검사나 성장보약의 반응도 식욕·수면 개선과 실제 성장 추이를 나누어 확인합니다.
 
 ## 먼저 확인해야 할 신호 {#_4}
 
