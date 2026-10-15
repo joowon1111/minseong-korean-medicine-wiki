@@ -151,7 +151,7 @@ last_reviewed: 2026-08-20
 
 조문을 읽은 뒤 [계지탕·마황탕의 구성 비교](../herbal-integrated/formula-structure.md?compare=formula-guizhi-tang,formula-mahuang-tang#interactive-comparison)로 이동하면 두 처방의 본문과 본초를 나란히 확인할 수 있습니다. [상한론 학습 화면](../learning/shanghanlun.md)에서는 관심 처방명·조문을 검색해 카드로 읽고 퀴즈로 복습합니다.
 
-사심탕류는 149조에서 비와 결흉을 먼저 나누고 154·157·158조의 대황황련사심탕·생강사심탕·감초사심탕으로 이어 읽습니다. 승기탕류도 대변 상태와 복약 뒤 반응을 확인하여 구성을 비교합니다.
+사심탕류는 [149조의 결흉·비](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149)를 먼저 나누고, [154–155조의 부드러운 비와 오한·한출](../classics/shanghanlun/clauses/taiyang-lower.md#clause-154), [157–158조의 트림·장명·하리](../classics/shanghanlun/clauses/taiyang-lower.md#clause-157)를 비교합니다. 감초사심탕의 인삼 유무, 대황황련사심탕의 약미와 침출법 등 전사본의 구성 차이도 각 조문에서 확인합니다. [복통의 촉진·구토 해설](../conditions/abdominal-pain.md#classical-clinical-reading)·[오심의 원문 비교](../conditions/nausea.md#classical-clinical-reading)·[설사의 갈증·한열 해설](../conditions/diarrhea.md#classical-clinical-reading)에서는 이 차이가 동의보감의 설명으로 어떻게 이어지는지 읽습니다. 승기탕류도 대변 상태와 복약 뒤 반응을 확인하여 구성을 비교합니다.
 
 [네 수기 처방의 감별](../formula-architecture/shanghan-family.md#water-formula-differential)에서는 오령산·저령탕의 갈증과 진액 상태, 영계출감탕·진무탕의 현훈과 치료 이력, 원방의 약재·상대량·제형을 비교할 수 있습니다. 수기라는 말에 모두 묶기보다 각 조문이 더하는 조건을 먼저 확인합니다.
 
