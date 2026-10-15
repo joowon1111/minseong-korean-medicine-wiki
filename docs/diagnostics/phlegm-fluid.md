@@ -15,7 +15,7 @@ last_reviewed: 2026-09-06
 
 담음(痰飮)은 정상적인 진액의 분포·운화가 원활하지 않은 병리 상태와 그 산물을 설명합니다. 전통적으로 담(痰)은 상대적으로 탁하고 점조한 성격, 음(飮)은 묽은 수액의 정체를 강조하지만 실제 변증에서는 부위·한열·허실을 함께 봅니다.
 
-가래가 눈에 보이지 않아도 담음의 증상 조합을 검토할 수 있습니다. 반대로 실제 가래나 부종이 있다고 모두 담음 변증 하나로 설명하지 않습니다. 고전의 담음·현음·일음·지음은 [금궤요략 담음·수기](../jingui-network/index.md#phlegm-fluid)에서 이어서 볼 수 있습니다.
+가래가 눈에 보이지 않아도 담음의 증상 조합을 검토할 수 있습니다. 반대로 실제 가래나 부종이 있다고 모두 담음 변증 하나로 설명하지 않습니다. 《금궤요략》에서 담음은 **수음 병증을 넓게 묶는 말**과 사음 가운데 **장 사이 물소리·체형 변화를 설명하는 좁은 이름**으로 쓰이는 문맥을 구별해야 합니다. [담음·현음·일음·지음의 비교](../jingui-network/index.md#phlegm-fluid)에서 위치·기침과 통증·사지 무거움·눕기 어려움이 각각 어떻게 기록되는지 확인할 수 있습니다.
 
 ## 원전에서 보는 담·음·열의 관계 {#classical-reading}
 
@@ -49,7 +49,9 @@ last_reviewed: 2026-09-06
 | 담습과 현훈 | 건비화담·식풍 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md): 어지럼·두중에 위장 허약이 동반 |
 | 담위불화·심담불녕 | 이기화담·화위 | [온담탕](../formulas/wendan-tang.md): 오심·흉민에 심계·불면·번조가 겹침 |
 | 담기울결 | 행기산결·강역화담 | [반하후박탕](../formulas/banxia-houpo-tang.md): 인후 이물감과 긴장·기체가 중심 |
-| 중양부족·수음 | 온양화음·건비이수 | [영계출감탕](../formulas/linggui-zhugan-tang.md): 수음·심계·현훈에 한증과 양기 부족을 함께 봄 |
+| 중양부족·수음 | 온양화음·건비이수 | [영계출감탕](../formulas/linggui-zhugan-tang.md): 심하·흉협의 그득함과 상충·현훈, 치료 이력을 함께 봄. 원문 맥증과 후대의 중양부족 해석을 구별 |
+
+어지럼에 구토·심하비가 두드러지는 [소반하가복령탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-030), 심하지음·모현을 다루는 [택사탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-025)은 영계출감탕과 다른 배합입니다. 담음이라는 말만으로 같은 처방군의 강약 순서를 만들지 않고 동반 증상과 구성을 비교합니다.
 
 온담탕의 ‘온’이라는 이름만으로 모든 한담에 쓰는 온열방으로 이해하지 않습니다. 반하사심탕도 반하가 들어간다는 이유만으로 일반 담음 처방이 되는 것은 아니며, **심하비와 한열착잡**을 별도로 확인합니다. [비위기허·담음 처방 계열](../formula-architecture/spleen-phlegm-family.md)과 [담음 변증 지도](patterns/phlegm-fluid.md)에서 처방 간 차이를 비교할 수 있습니다.
 
@@ -67,7 +69,7 @@ last_reviewed: 2026-09-06
 
 침구에서는 [풍륭 ST40](../acupuncture/points/st40-fenglong.md)을 화담의 전통적 맥락과 연결하고, 위장 증상에는 [중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)을 증상과 진찰에 맞춰 활용합니다. 경혈 자극만으로 담음이라는 물질이 제거되는 것으로 해석하지 않습니다.
 
-치료 목표와 재평가 기준은 [담음 → 화담·이기·건비](../pattern-treatment/phlegm-fluid.md)에서 확인할 수 있습니다.
+치료 뒤에는 어지럼·기침·구토·흉만 중 무엇이 줄고 무엇이 남았는지 나누어 봅니다. [금궤의 순차 가감](../jingui-network/index.md#pattern-care-network)은 같은 담음 문맥에서도 상충·구토·부종의 변화에 따라 배합을 다시 판단한 예입니다. 실제 치료 목표와 재평가 기준은 [담음 → 화담·이기·건비](../pattern-treatment/phlegm-fluid.md)에서 확인할 수 있습니다.
 
 ## 해석 주의
 
