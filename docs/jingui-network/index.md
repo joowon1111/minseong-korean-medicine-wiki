@@ -113,18 +113,45 @@ last_reviewed: 2026-08-22
 
 ### 임상 연결 {#_7}
 
-제12편 [12.1–12.2](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-001)는 장 사이 물소리의 담음, 협하 통증의 현음, 사지의 무거움과 무한의 일음, 기대어 숨쉬고 눕기 어려운 지음을 나눕니다. 제14편 [수기병의 제강](../classics/jinkui-yaolue/chapters/water-qi.md#clause-14-001)은 부종을 땀·오풍·맥·호흡과 함께 분류합니다. 두 편은 수음이라는 공통점이 있지만 관찰의 출발점이 다릅니다.
+제12편의 사음(四飮)은 수음의 **위치·이동과 그때 함께 나타나는 증후**를 비교하는 구분입니다. 네 단계로 순서대로 진행한다는 뜻이 아니며, 오늘의 흉수·복수·전신부종에 하나씩 대응시키지 않습니다.
+
+| 원문의 구분 | 관찰된 증후를 풀어 읽기 | 원문에서 더 확인할 점 |
+|---|---|---|
+| 담음 · 痰飮 | 이전보다 여위고 장 사이에서 물소리가 남 | [12.2](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-002)의 좁은 의미. 담음 전체를 부르는 넓은 용례와 구분 |
+| 현음 · 懸飮 | 협하의 불편에 기침·침 뱉기가 통증을 당김 | [12.9](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-009)는 기침 뒤 통증의 이문도 표시 |
+| 일음 · 溢飮 | 사지로 퍼진 수음, 땀이 나지 않음과 몸의 통증·무거움 | [12.23](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-023)의 대·소청룡탕 병기와 각 방의 차이 |
+| 지음 · 支飮 | 기대어 숨쉬고 눕기 어려우며 숨이 짧고 부은 듯함 | [12.14](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-014)는 맥이 평상처럼 보이는 경우도 기록 |
+
+제14편 [수기병의 제강](../classics/jinkui-yaolue/chapters/water-qi.md#clause-14-001)은 부종을 땀·오풍·맥·호흡과 함께 분류합니다. 사음과 수기병을 같은 네 칸에 맞추기보다 관찰의 출발점을 구별합니다.
 
 ### 현대 위키와 연결 {#_8}
 
-원전에서는 [영계출감탕의 흉협 지만·목현](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-016), [택사탕의 모현](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-025), [소반하가복령탕의 구토·현계](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-030)를 먼저 비교합니다. 이후 이진탕·육군자탕·온담탕으로 넓히면 후대 담음론과의 연결을 볼 수 있습니다. 이 후대 처방들을 금궤요략 본문 처방으로 표시하지 않습니다.
+어지럼이 겹쳐도 원문은 흉협의 그득함, 구토·심하비, 심하의 지음 등 동반 소견을 달리 적습니다. 아래 세 조문은 증상 하나에서 처방으로 뛰지 않고 **증후와 전체 배합을 함께 비교하는 예**입니다.
+
+| 원문·처방 | 함께 기록한 조건 | 배합의 갈림점 |
+|---|---|---|
+| [12.16 영계출감탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-016) | 심하담음·흉협지만·목현 | 복령·계지·백출·감초. 이 금궤 전사본의 백출은 3량으로 상한론 67조의 2량과 구분 |
+| [12.25 택사탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-025) | 심하지음·모현 | 택사 5량·백출 2량. 위 방에서 단순히 약재를 줄인 처방이 아님 |
+| [12.30 소반하가복령탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-030) | 갑작스러운 구토·심하비·격간유수·현계 | 반하 1승·생강 반근·복령 3량(일법 4량). 부피·중량과 이본량을 구별 |
+
+[영계출감탕의 두 출전 비교](../formulas/linggui-zhugan-tang.md#formula-structure-reading)에서 상한론의 토하·기상충·기립 시 현훈과 금궤의 주치를 나란히 볼 수 있습니다. 이후 [이진탕](../formulas/erchen-tang.md)·[육군자탕](../formulas/liujunzi-tang.md)·[온담탕](../formulas/wendan-tang.md)으로 넓히면 조습화담·건비·담위불화라는 후대의 설명과 연결됩니다. 이 후대 방들을 금궤 본문 처방으로 표시하지 않습니다.
 
 → [담음](../diagnostics/patterns/phlegm-fluid.md)  
 → [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
 
 ### 변증·처방·치료를 이어서 보기 {#pattern-care-network}
 
-제12편 [12.36–12.40의 순차 가감](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-036)은 상충이 줄었는지, 기침·구토·부종·얼굴 열감이 새로 남았는지에 따라 구성을 다시 고릅니다. 오늘의 변증·경과 확인으로 연결할 때도 한 번 정한 처방명보다 반응에 따라 무엇을 다시 판단했는지에 주목합니다.
+[12.36–12.40](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-036)은 청룡탕 복용 뒤 변화를 따라 원래 처방을 그대로 유지할지 다시 판단하는 연속 조문입니다.
+
+| 경과에서 바뀐 점 | 원문의 가감 판단 |
+|---|---|
+| 상충·사지 역냉·얼굴 열감 등이 새로 드러남 | 12.36은 복령·계지·오미자·감초로 충기를 먼저 다룸 |
+| 충기는 줄고 기침·흉만이 남음 | 12.37은 계지를 빼고 건강·세신을 더함 |
+| 이후 구토·모현 등 지음이 남음 | 12.38은 갈증의 예상과 실제 경과를 비교하며 반하를 다시 포함 |
+| 구토가 멎은 뒤 부종이 남음 | 12.39는 행인을 더하고 혈허·비의 조건 때문에 마황을 넣지 않는 이유를 설명 |
+| 술 취한 듯한 얼굴 열감을 위열 상충으로 판단 | 12.40은 대황 가미를 기록 |
+
+같은 온약화음 안에서도 상충·구토·부종·열의 비중이 바뀌면 구성과 양을 재확인합니다. 이 연속 조문을 ‘그 증상이 있으면 그 약을 추가’하는 현대 자가 가감표로 옮기지 않고, **호전된 항목과 새로 남은 항목을 나누어 기록하는 예**로 읽습니다.
 
 [담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [담음 치료와 경과 확인](../pattern-treatment/phlegm-fluid.md)
 
