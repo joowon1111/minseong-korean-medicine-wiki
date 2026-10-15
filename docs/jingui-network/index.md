@@ -170,15 +170,17 @@ last_reviewed: 2026-08-22
 
 ### 본초·방제 {#_11}
 
-| 원문의 갈림점 | 원문·처방 연결 |
-|---|---|
-| 이급·복통에 심계·구건·손발 번열이 겹침 | [6.13 소건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-013) · [소건중탕](../formulas/xiaojianzhong-tang.md) |
-| 이급과 여러 부족, 증상별 가감 | [6.14 황기건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-014) · [황기건중탕](../formulas/huangqi-jianzhong-tang.md) |
-| 요통·하복부 구급·소변불리 | [6.15 팔미신기환](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-015) |
-| 허번하여 잠들지 못함 | [6.17 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) · [산조인탕](../formulas/suanzaoren-tang.md) |
-| 극도의 쇠약과 건혈이 함께 있음 | [6.18 대황자충환](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-018) |
+| 원문의 갈림점 | 원문·처방 연결 | 함께 읽을 배합·조건 |
+|---|---|---|
+| 이급·복통에 심계·구건·손발 번열이 겹침 | [6.13 소건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-013) · [소건중탕](../formulas/xiaojianzhong-tang.md) | 계지·증량 작약·교이의 건중·완급. 금궤형 감초·대조량과 구토 경계 확인 |
+| 이급과 여러 부족, 흉복부 동반증의 가감 | [6.14 황기건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-014) · [황기건중탕](../formulas/huangqi-jianzhong-tang.md) | 황기 추가 외에도 생강 증량·대조 제거·복령·반하 추가를 나누어 읽음 |
+| 요통·하복부 구급·소변불리 | [6.15 팔미신기환](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-015) | 건지황·산약·산수유와 택사·복령·목단피·계지·포부자의 환제 |
+| 허번하여 잠들지 못함 | [6.17 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) · [산조인탕](../formulas/suanzaoren-tang.md) | 산조인·지모·복령·천궁·감초의 다섯 약과 산조인 선전 |
+| 극도의 쇠약과 건혈이 함께 있음 | [6.18 대황자충환](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-018) | 보익뿐 아니라 건혈·정체를 함께 다루는 허로편의 문맥 |
 
-팔물탕·십전대보탕·보중익기탕·녹용 중심 보약은 이후의 보익 체계와 비교할 자료입니다. 금궤요략의 허로 원방과 같은 출전의 목록처럼 섞지 않습니다.
+이급은 복부가 안에서 당기고 급박한 듯한 표현입니다. 소건중탕·황기건중탕의 배합을 살피는 단서이며, 모든 복통이나 피로가 건중의 대상이라는 뜻은 아닙니다. 같은 편에서 배뇨·불면·건혈에 따라 다른 처방이 제시되는 이유를 함께 읽습니다.
+
+팔물탕·십전대보탕·보중익기탕·녹용 중심 보약은 후대의 보익 체계입니다. [보익·회복 처방 계열](../formula-architecture/tonic-family.md)에서 기혈·건중·신허의 배합을 비교하되 금궤 원방과 같은 출전의 목록으로 섞지 않습니다. [만성피로 한약 근거](../authority/formulas/chronic-fatigue-herbal-map.md)는 현대 진단·제형·연구 대상을 따로 확인하는 경로입니다.
 
 → [피로·회복](../conditions/chronic-fatigue.md)  
 → [보익 처방 계열](../formula-architecture/tonic-family.md)
