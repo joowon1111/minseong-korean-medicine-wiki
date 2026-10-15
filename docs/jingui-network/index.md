@@ -17,6 +17,7 @@ last_reviewed: 2026-08-22
 | 관심 질문 | 먼저 읽을 원문 | 이 페이지의 해설 |
 |---|---|---|
 | 허로인데 왜 처방이 보약 하나로 정해지지 않나 | [혈비·허로](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md) | [혈비·허로](#consumptive-deficiency) |
+| 기침·인후 불편에서 온화·청열·자윤을 어떻게 비교하나 | [폐위·폐옹·해수상기](../classics/jinkui-yaolue/chapters/lung-cough.md) | [기침·상기](#cough-counterflow) |
 | 어지럼·기침·부종을 수음으로 어떻게 나누나 | [담음·해수](../classics/jinkui-yaolue/chapters/fluid-cough.md) | [담음·수기](#phlegm-fluid) |
 | 흉비에서 허와 막힘은 어떻게 함께 읽나 | [흉비·심통·단기](../classics/jinkui-yaolue/chapters/chest-pain.md) | [흉비·심통](#chest-bi-heart-pain) |
 | 복만에 온법과 하법이 어떻게 갈리나 | [복만·한산·숙식](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md) | [복만·한산·숙식](#abdominal-cold-food-retention) |
@@ -89,6 +90,22 @@ last_reviewed: 2026-08-22
 → [두근거림·심계](../conditions/palpitation.md)  
 → [임상 안전성](../clinical-safety/index.md)
 
+
+## 금궤요략 기침·상기 — 진액·수음·열의 관계 {#cough-counterflow}
+
+제7편의 **폐위(肺痿)·폐옹(肺癰)·폐창(肺脹)**은 각각 진액 손상과 허약, 농혈·흉통, 기침·상기·숨참 등의 묶음으로 읽는 고전 병증입니다. 현대 폐섬유화·폐농양·COPD와 같은 진단명에 하나씩 대응시키지 않습니다. ‘상기’도 모두 위식도역류를 뜻하는 말이 아니라 위로 치미는 기운·호흡 불편을 기술한 문맥부터 살핍니다.
+
+| 원문에서 먼저 묻는 질문 | 비교할 조문 | 처방·배합을 읽을 지점 |
+|---|---|---|
+| 거품 침이 많을 때 갈증과 기침도 있는가 | [7.1](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-001)과 [7.5](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-005) | 진액 손상만으로 묶지 않고 폐중랭·불갈·불해와 감초건강탕의 온법을 구별 |
+| 기침과 상기에 어떤 소리·흉부 불편이 겹치는가 | [7.6 사간마황탕](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-006) · [7.8 후박마황탕](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-008) | 사간·자완·관동화와 후박·석고·행인·소맥의 서로 다른 배합 |
+| 인후 불편과 상역을 진액을 도우며 다루는가 | [7.10 맥문동탕](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-010) | 맥문동·반하에 인삼·감초·갱미·대조를 둔 자윤·강역 구조 |
+| 수음에 번조·숨참이 겹치는가 | [7.13 월비가반하탕](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-013) · [7.14 소청룡가석고탕](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-014) | 마황·석고·반하가 공통이어도 건강·세신·오미자·계지·작약의 유무가 다름 |
+| 눕기 어려운 기침·숨참을 어느 편에서 설명하는가 | [7.11](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-011)과 [12.27·12.35](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-027) | 같은 자세·호흡 표현이 폐옹과 지음에 걸쳐 등장하므로 조문 전체를 확인 |
+
+제7편은 기침·가래·인후·호흡을 중심으로, 제12편은 **수음의 위치와 흉복부·구토·어지럼·배설의 관계**를 중심으로 비교하면 읽기 쉽습니다. [12.36–12.40](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-036)은 복약 뒤 상충·기침·구토·부종이 어떻게 달라졌는지를 따라 가감하는 예입니다. 담음에 온약을 쓴다는 원칙만으로 석고나 대황의 가감을 지우지 않습니다.
+
+[호흡기 고방의 구성 비교](../formula-architecture/shanghan-family.md#jingui-cough-formulas) · [맥문동탕의 원방·제법](../formulas/maidong-tang.md#jinkui-preparation)에서 약미와 조제 기록을 확인할 수 있습니다. 사람 대상 연구는 [맥문동탕 근거](../authority/formulas/maidong-tang.md), 현대 증상의 평가·치료 경로는 [만성기침](../conditions/chronic-cough.md)과 [호흡기 한약 처방 지도](../authority/formulas/respiratory-herbal-formula-map.md)로 이어집니다. 고전의 수음·열·진액 해석과 임상시험의 효과 결과는 구별해 읽습니다.
 
 ## 금궤요략 담음·수기 {#phlegm-fluid}
 
