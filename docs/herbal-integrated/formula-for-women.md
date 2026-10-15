@@ -47,10 +47,10 @@ flowchart TD
 | 병기와 증후 묶음 | 전통 치법 | 기존 대표 방제와 감별 |
 |---|---|---|
 | 혈허: 과소·담색, 어지럼·창백, 담설·세맥 | 양혈조경 | [사물탕](../formulas/siwu-tang.md); 피로·기허도 뚜렷하면 [팔물탕](../formulas/bazhen-tang.md), 수면·심계·식욕저하가 겹치면 [귀비탕](../formulas/guibi-tang.md) |
-| 혈허·수습: 하복부 불편, 어지럼·부종·소변 양상 | 양혈·건비이수 | [당귀작약산](../formulas/danggui-shaoyao-san.md); 고정 실통·혈괴가 주된 어혈과 구분 |
-| 한허·혈허·어혈이 함께: 냉감·주기 이상·하복부통·건조 등 | 온경산한·양혈거어 | [온경탕](../formulas/wenjing-tang.md); 단순 온열 처방이 아니며 열실증·감염과 구분 |
+| 혈허·수습: 하복부 불편, 어지럼·부종·소변 양상 | 양혈·건비이수 | [당귀작약산](../formulas/danggui-shaoyao-san.md#original-pattern-course): 당귀·작약·천궁의 혈분과 복령·백출·택사의 수습 배합. 원방은 **산제**, 작약·천궁 이본량을 구별 |
+| 한허·혈허·어혈이 함께: 냉감·주기 이상·하복부통·건조 등 | 온경산한·양혈거어 | [온경탕](../formulas/wenjing-tang.md#original-pattern-course): 오수유·계지의 온경과 맥문동·아교 등 혈·진액의 보완을 결합한 **탕제**. 냉감 하나로 선택하지 않음 |
 | 한응어혈: 온열에 완화되는 고정통·암자혈·혈괴 | 온경축어 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md); 출혈·임신 가능성 먼저 확인 |
-| 혈어: 고정 압통·암자혈·혈괴, 자설 등 | 활혈화어 | [계지복령환](../formulas/guizhi-fuling-wan.md); 병변의 영상 진단·임신 시기와 별도로 변증 |
+| 혈어: 고정 압통·암자혈·혈괴, 자설 등 | 활혈화어 | [계지복령환](../formulas/guizhi-fuling-wan.md#original-pattern-course): 계지·복령·목단피·작약·도인의 **등분 밀환**. 영상 병변의 이름과 변증·임신 시기를 따로 확인 |
 | 간울·혈허·비허: 주기성 팽만·유방창통·피로·식욕저하 | 소간양혈·건비 | [소요산](../formulas/xiaoyao-san.md); 열감·번조가 더하면 [가미소요산](../formulas/jiawei-xiaoyao-san.md), 종자문의 간울 맥락은 [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) |
 | 혈허·기체·하초 한이 복합된 조경 맥락 | 조경양혈·이기 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md); 난임의 보편 고정 처방 아님 |
 | 기혈양허·신허·충임부족의 복합 | 익기양혈·보신조경 | [육린주](../formulas/yulin-zhu.md); 조경종옥탕과 본초·병기 차이를 비교 |
@@ -63,6 +63,8 @@ flowchart TD
 | 충임허손·혈허 겸 한·출혈 | 양혈·온경·지혈 | [교애탕](../formulas/jiaoai-tang.md); 절박유산·잔류조직 평가를 대신하지 않음 |
 | 남성의 신정 부족 증후 | 보신익정·고섭 | [오자연종환](../formulas/wuzi-yanzong-wan.md); 정액 지표 하나로 선택하지 않음 |
 
+같은 하복부 통증에서도 세 처방은 혈허·수습, 허한·건조, 어혈·정체의 비중과 제형이 다릅니다. 공통 약재가 있다는 이유로 같은 약량의 대체재로 보거나 ‘약·중·강’ 순서로 배열하지 않습니다. 통증과 함께 출혈량·주기·부종·식사·냉열·건조가 어떻게 움직이는지 기록하고 각 처방의 전체 구성을 대조합니다.
+
 ## 월경주기와 처방 시기
 
 [월경기·난포기·배란기·황체기](../womens-health/reproductive-physiology.md#cycle-phases)의 현대 생리는 먼저 이해합니다. 현대 한의 임상에서 월경기 출혈·통증, 난포기 허증, 배란 전후 기혈 소통, 황체기 온양·고섭 등을 논의하지만 모든 주기를 같은 네 처방으로 고정할 근거는 부족합니다. 월경량·기저질환·배란 확인·임신 가능성·호르몬 투약에 따라 계획을 바꿉니다. 활혈 = 월경기 전원, 온양 = 황체기 전원이라는 구조도 피합니다.
@@ -71,7 +73,9 @@ flowchart TD
 
 [《傅青主女科》 종자문](https://jicheng.tw/tcm/book/傅青主女科/index.html)의 양정종옥탕(養精種玉湯), 온포음(溫胞飲), 온토육린탕(溫土毓麟湯), 청골자신탕(清骨滋腎湯), 화수종자탕(化水種子湯)은 각각 허증·한·비신·허열·수습 등의 설명을 비교할 자료입니다. 전통 분류를 현대 PCOS·DOR·난관 폐쇄에 직접 대응시키지 않습니다. [《景岳全書》](../classics/jingyue-quanshu.md)의 보익·종자와 육린주, [《東醫寶鑑》](../classics/donguibogam.md)의 구사·부인, [《方藥合編》](../bangyakhappyeon-network/index.md)의 방제 구조를 함께 읽습니다.
 
-대표 방제의 출전·구성은 개별 문서로 연결하며 이름이 비슷한 처방·탕환 제형·가감방을 같은 제제로 간주하지 않습니다.
+금궤의 세 처방도 수록 문맥이 다릅니다. [20.2 계지복령환](../classics/jinkui-yaolue/chapters/pregnancy.md#clause-20-002)은 숙징·월경 중단·누하, [20.5 당귀작약산](../classics/jinkui-yaolue/chapters/pregnancy.md#clause-20-005)은 임신 중 복통과 연결됩니다. 온경탕은 [22.9 부인잡병](../classics/jinkui-yaolue/chapters/gynecology.md#clause-22-009)에 있고 당귀작약산은 [22.17](../classics/jinkui-yaolue/chapters/gynecology.md#clause-22-017)에서도 여성 복통에 다시 언급됩니다. 이 문헌 분류를 현대의 난임 원인·임신 중 투약 가능 여부로 직접 바꾸지 않습니다.
+
+대표 방제의 출전·구성은 개별 문서에서 확인하며 이름이 비슷한 처방·탕환 제형·가감방을 같은 제제로 간주하지 않습니다.
 
 ## 임신 성립 뒤와 산후
 
@@ -79,6 +83,6 @@ flowchart TD
 
 ## 현대 연구와 안전성
 
-전통 방제의 사용 이력, 특정 제제의 RCT, 여러 가감방을 묶은 메타분석은 서로 다른 근거입니다. ‘보신’이라는 치법이 AMH·난자 질·출산율 상승의 임상 증명이 되지 않습니다. [ART·남성·DOR·유산 근거카드](../authority/conditions/female-infertility-art.md)에서 대상·대조군·생아출산·안전성을 확인합니다. [배란 이후·채취·이식·임신 확인 시 안전성](safety.md#fertility-pregnancy-safety)을 통과해야 실제 치료 계획으로 이어집니다.
+전통 방제의 사용 이력, 특정 제제의 RCT, 여러 가감방을 묶은 메타분석은 서로 다른 근거입니다. [당귀작약산](../authority/formulas/danggui-shaoyao-san.md)·[온경탕](../authority/formulas/wenjing-tang.md)·[계지복령환](../formulas/guizhi-fuling-wan.md)의 월경통 연구는 통증·관련 증상과 실제 시험 제제를 확인하는 자료입니다. 이를 난임 환자의 임신·생아출산 효과로 대신하지 않습니다. ‘보신’이라는 치법이 AMH·난자 질·출산율 상승의 임상 증명이 되지 않습니다. [ART·남성·DOR·유산 근거카드](../authority/conditions/female-infertility-art.md)에서 대상·대조군·생아출산·안전성을 확인합니다. [배란 이후·채취·이식·임신 확인 시 안전성](safety.md#fertility-pregnancy-safety)을 통과해야 실제 치료 계획으로 이어집니다.
 
 [본초 역인덱스](herbs-for-women.md) · [침구 배합](../acupuncture-integrated/points-for-womens-health.md) · [변증](../womens-health/fertility-patterns.md) · [난임 허브](../conditions/infertility-preconception.md)
