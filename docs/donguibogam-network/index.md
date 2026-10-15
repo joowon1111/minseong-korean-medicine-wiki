@@ -32,11 +32,13 @@ last_reviewed: 2026-10-07
 | 내경의 항목 | 읽을 증상·병기 | 기존 문서로 이어가기 |
 |---|---|---|
 | 氣 · 기 | 활동 후 피로, 말과 호흡, 식욕을 함께 살피는 기허 | [기허](../diagnostics/patterns/qi-deficiency.md) · [원기회복](../conditions/energy-recovery.md) |
-| 神 · 신 | 수면·두근거림·긴장과 낮 기능 | [불면](../conditions/insomnia.md) · [두근거림](../conditions/palpitation.md) · [수면·정서 한약 근거](../authority/formulas/sleep-emotion-herbal-evidence.md) |
+| 神 · 신 | 수면·두근거림·긴장과 낮 기능 | [불면 원문·풀이](../conditions/insomnia.md#classical-clinical-reading) · [두근거림](../conditions/palpitation.md) · [수면·정서 한약 근거](../authority/formulas/sleep-emotion-herbal-evidence.md) |
 | 血 · 혈 | 혈허·어혈을 나누어 읽는 혈의 병증 | [당귀](../herbs/angelica.md) · [사물탕·기혈쌍보](../formula-architecture/siwu-qi-blood-family.md) |
 | 津液 · 진액 | 땀·구갈·건조와 체액 손실·정체의 구별 | [부종](../conditions/edema-swelling.md) · [한약 안전성](../herbal-integrated/safety.md) |
-| 痰飮 · 담음 | 물소리·오심·흉민·머리 무거움과 현훈의 조합 | [담음 변증](../diagnostics/patterns/phlegm-fluid.md) · [어지럼](../conditions/dizziness.md) · [소화불량](../conditions/dyspepsia.md) |
+| 痰飮 · 담음 | 물소리·오심·흉민·머리 무거움과 현훈의 조합 | [담음 변증](../diagnostics/patterns/phlegm-fluid.md) · [현훈 원문·풀이](../conditions/dizziness.md#classical-clinical-reading) · [위의 허실 원문·풀이](../conditions/dyspepsia.md#classical-clinical-reading) |
 | 精 · 정, 장부 | 성장·노화·허약을 전신 상태와 함께 읽기 | [신허](../diagnostics/patterns/kidney-deficiency.md) · [노인보약](../conditions/elderly-tonic.md) |
+| 胃 · 위 | 위실·위허와 식욕·복창·설사의 관계 | [위병허실과 이공산 풀이](../conditions/dyspepsia.md#classical-clinical-reading) |
+| 肺 · 폐 | 기침·상기·숨참에서 폐의 허실을 나누는 기준 | [폐병증·폐병치법 풀이](../conditions/chronic-cough.md#classical-formula-context) |
 
 ### 담음에서 본초·방제·증상으로 {#phlegm-pathway}
 
@@ -126,7 +128,7 @@ last_reviewed: 2026-10-07
 |---|---|---|
 | 內傷 · 내상 | 식사·과로 이후 식욕과 소화·활동량이 어떻게 달라졌나 | [성인 식욕저하](../conditions/poor-appetite-adult.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) · [비위론](../classics/piwei-lun.md) |
 | 虛勞 · 허로 | 허약에 식욕저하·불면·건조·냉감이 어떻게 겹치나 | [피로](../conditions/chronic-fatigue.md) · [보익 처방 계열](../formula-architecture/tonic-family.md) |
-| 咳嗽 · 해수 | 기침에 담·건조·허약이 어떤 양상으로 동반되나 | [질환→치료 지도](../network/condition-to-treatment-map.md) · [담음](../diagnostics/patterns/phlegm-fluid.md) |
+| 咳嗽 · 해수 | 기침에 담·건조·허약이 어떤 양상으로 동반되나 | [내경 폐병증과 비교](../conditions/chronic-cough.md#classical-formula-context) · [질환→치료 지도](../network/condition-to-treatment-map.md) · [담음](../diagnostics/patterns/phlegm-fluid.md) |
 | 消渴 · 소갈 | 갈증·음수·배뇨·체중 변화의 조합은 무엇인가 | [제2형 당뇨병](../conditions/type-2-diabetes.md) · [심혈관·대사 한약 근거](../authority/formulas/cardiometabolic-herbal-evidence.md) |
 | 浮腫 · 부종 | 붓는 부위·시간과 호흡·소변의 변화는 무엇인가 | [부종](../conditions/edema-swelling.md) · [금궤요략 수기병](../classics/jinkui-yaolue/chapters/water-qi.md) |
 | 婦人 · 부인 | 월경·임신·산후 중 어느 시기의 문제인가 | [여성·임신·산후 허브](../womens-health/fertility-pregnancy-postpartum.md) · [산후 회복](../conditions/postpartum-recovery.md) |
