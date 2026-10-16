@@ -40,6 +40,8 @@ last_reviewed: 2026-08-19
 
 [계지복령환](../formulas/guizhi-fuling-wan.md)과 [당귀작약산](../formulas/danggui-shaoyao-san.md)은 모두 부인병 자료를 읽다가 만나지만, 두 처방을 같은 목적의 대체재로 보지는 않습니다. 전자는 어혈과 정체를, 후자는 혈과 수분대사의 관계를 읽는 연결점으로 삼아 원문 주치와 구성의 차이를 확인합니다. 임신·산후 조문이 있다는 사실 자체가 현재의 임산부에게 그 처방이 안전하다는 증거는 아닙니다.
 
+[임신병의 출혈·복통 비교](jinkui-yaolue/chapters/pregnancy.md#pregnancy-comparison)는 기존 징과 누하, 포조, 복부 당김을 구분합니다. [산후병의 경과 비교](jinkui-yaolue/chapters/postpartum.md#postpartum-comparison)는 출혈·땀 뒤 굳은 변과 회복 뒤 다시 나타난 위실, 허한성 복통과 남은 정체를 나란히 읽습니다. [부인잡병 비교](jinkui-yaolue/chapters/gynecology.md#gynecology-comparison)에서는 온경탕의 냉감·건조·번열, 당귀작약산과 소건중탕의 차이뿐 아니라 반하후박탕·감맥대조탕의 실제 관찰 표현까지 이어집니다. 병증 이름을 외우기보다 같은 증상의 앞뒤 조건이 왜 달라지는지 살피는 경로입니다.
+
 ### 허로와 허손을 비교하는 예 {#deficiency-comparison}
 
 금궤요략의 허로 문목을 읽은 뒤 [경악전서](jingyue-quanshu.md)의 허손·보법을 보면, 병증과 처방 중심 설명이 후대에 음양·장부·치법의 분류와 어떻게 연결되는지 비교할 수 있습니다. 서로 다른 시대의 용어를 완전히 같은 범주로 간주하지 않고 공통 관찰점과 다른 해석을 나눕니다.
