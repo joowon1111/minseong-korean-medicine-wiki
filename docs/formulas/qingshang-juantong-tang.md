@@ -25,7 +25,7 @@ last_reviewed: 2026-10-08
 
 ## 출전 원문·약량·본초 해석 {#source-dose-original}
 
-**대조 수록본:** 《수세보원(壽世保元)》 「卷六・頭痛」. [해당 문헌 확인](https://jicheng.tw/tcm/book/壽世保元/index.html)
+**대조 수록본:** 《수세보원(壽世保元)》 「卷六・頭痛」. 이 책의 저자와 편제는 [공정현의 수세보원](../classics/susebowon.md), 기본방과 가감의 관계는 [청상견통탕 원문 독해](../classics/susebowon.md#qingshang)에서 함께 살펴봅니다. [해당 문헌 확인](https://jicheng.tw/tcm/book/壽世保元/index.html)
 
 **원문 발췌**
 

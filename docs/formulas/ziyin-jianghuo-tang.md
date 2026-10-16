@@ -20,7 +20,7 @@ description: 자음강화탕의 자음양혈·강허화 구조, 음허성 마른
 
 ## 출전 원문·약량·본초 해석 {#source-dose-original}
 
-**대조 수록본:** 《만병회춘(萬病回春)》 「虛勞」. [해당 문헌 확인](https://jicheng.tw/tcm/book/萬病回春/index.html)
+**대조 수록본:** 《만병회춘(萬病回春)》 「虛勞」. [만병회춘 개요](../classics/manbyeong-hoechun.md)에서 판본·권4의 위치와 공정현의 저술 흐름을 확인할 수 있습니다. [해당 문헌 확인](https://jicheng.tw/tcm/book/萬病回春/index.html)
 
 **원문 발췌**
 

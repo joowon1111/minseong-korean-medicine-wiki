@@ -36,7 +36,7 @@ last_reviewed: 2026-10-08
 
 ## 출전·원문·약량 대조 {#source-dose-original}
 
-**대조 출전:** [古今醫鑑](https://jicheng.tw/tcm/book/古今醫鑑/index.html)
+**대조 출전:** [古今醫鑑](https://jicheng.tw/tcm/book/古今醫鑑/index.html) · [고금의감 개요](../classics/gogeum-uigam.md). 권3 인삼패독산의 가감 문장과 이 옹저문 수록형의 차이는 [형방·연교 계열 독해](../classics/gogeum-uigam.md#baidu-branches)에서 비교합니다.
 
 **원문 발췌**
 
