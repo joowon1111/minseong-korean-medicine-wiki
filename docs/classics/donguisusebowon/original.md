@@ -1,0 +1,327 @@
+---
+title: 동의수세보원 원문·한국어 풀이
+description: 1941년 석판본 이미지에서 직접 옮긴 사상인변증론 12개 발췌 원문과 자체 한국어 풀이. 외형 감별, 완실무병, 소증, 치료 판단을 검색하고 관련 문서로 이어 읽습니다.
+tags: [동의수세보원, 사상인변증론, 원문, 소증, 완실무병, 사상의학]
+reader_tools: true
+---
+# 동의수세보원 원문·한국어 풀이
+
+**외부 사이트로 이동하지 않고 한문 원문과 한국어 풀이를 함께 읽을 수 있습니다.** 처음에는 [소음인의 음식 소화](#wellbeing-digestion)나 [사람과 병증을 함께 보는 문장](#person-and-pattern)부터 읽어 보세요.
+
+현재 수록 범위는 **권4 「사상인변증론(四象人辨證論)」의 12개 발췌 대목**입니다. 1941년 석판본의 책 이미지를 직접 대조해 옮겼으며, 아래 풀이는 아카이브에서 새로 작성했습니다. 책 전체의 전사·완역이나 이 편 전체를 연속으로 옮긴 자료는 아닙니다. [판본·출처·전사 원칙](#source)을 확인할 수 있습니다.
+
+<div class="ms-quick" aria-label="동의수세보원 읽기 안내">
+<a href="#passages">원문·풀이 읽기</a><a href="#facsimile">대조한 책 이미지</a><a href="#next-reading">소증·병증·연구로</a><a href="#source">판본·이용 범위</a>
+</div>
+
+## 관심 있는 대목으로 {#passages}
+
+<div id="dsb-reader" markdown="1">
+<div class="dsb-controls" hidden>
+<label for="dsb-query">수록 원문·풀이에서 찾기</label>
+<input id="dsb-query" type="search" placeholder="소화, 땀, 체형, 明知其人…" autocomplete="off">
+<label for="dsb-category">읽을 주제</label>
+<select id="dsb-category"><option value="">모든 주제</option><option>감별</option><option>소증</option><option>치료 판단</option><option>양생·독서</option></select>
+<button id="dsb-reset" type="button">전체 보기</button>
+<p id="dsb-count" role="status" aria-live="polite"></p>
+</div>
+<div class="dsb-passages" markdown="1">
+
+<section class="dsb-passage" data-category="감별" markdown="1">
+
+### 외형이 소음인처럼 보여도 병증을 살핀다 {#appearance-soyang}
+
+**감별 · 권4 사상인변증론 · PDF 188쪽 / 화면 하단 187쪽** · [이 대목 주소](#appearance-soyang) · [책 이미지 대조](#scan-188)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 少陽人或有短小靜雅外形恰似少陰人者，觀其病勢寒熱仔細執證，不可誤作少陰人治。
+
+</div>
+
+**한국어 풀이** — 소양인 가운데 몸집이 작고 조용하며 단아하여 겉모습이 소음인과 흡사한 사람이 있다. 병세와 한열을 살펴 자세히 증을 파악해야 하며, 소음인으로 잘못 여겨 치료해서는 안 된다.
+
+**恰似(흡사)**는 겉모습이 매우 닮았다는 뜻이고, **執證(집증)**은 증을 정확히 짚는다는 뜻입니다. 이 문장은 체형·인상이 비슷해도 병세와 한열을 함께 보도록 독해의 방향을 잡아 줍니다. 외형 관찰 뒤에 평소 소증과 현재의 변화를 묻는 이유를 여기서 읽을 수 있습니다.
+
+**이어 읽기:** [사상체질 임상 감별](../../sasang-pattern-differential/index.md) · [한열 원문·해석](../../sasang-original-symptoms/cold-heat.md)
+
+</section>
+
+<section class="dsb-passage" data-category="감별" markdown="1">
+
+### 태음인·소음인의 비슷한 외형과 병증 {#similar-appearance}
+
+**감별 · 권4 사상인변증론 · PDF 189쪽 / 화면 하단 188쪽** · [이 대목 주소](#similar-appearance) · [책 이미지 대조](#scan-189)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陰少陰人體形或略相彷彿難辨疑似，而觀其病證則必無不辨。
+
+</div>
+
+**한국어 풀이** — 태음인과 소음인은 체형이 다소 비슷하여 구별하기 어렵고 의심스러울 수 있으나, 그 병증을 살피면 반드시 구별할 수 있다고 하였다.
+
+**相彷彿(상방불)**은 서로 비슷하다는 뜻입니다. 원문은 뒤이어 땀, 대소변과 여러 증상을 대조합니다. 여기의 단정적인 표현은 저자가 병증 관찰의 중요성을 강조한 말로 읽으며, 실제 감별의 정확도나 단일 증상의 진단 성능을 제시한 수치로 바꾸지 않습니다.
+
+**이어 읽기:** [태음인·소음인 비교를 포함한 감별](../../sasang-pattern-differential/index.md) · [소증 비교](../../sasang-original-symptoms/comparison.md)
+
+</section>
+
+<section class="dsb-passage" data-category="소증" markdown="1">
+
+### 같은 땀도 체질·병증 맥락에서 읽는다 {#sweat-context}
+
+**소증 · 권4 사상인변증론 · PDF 189쪽 / 화면 하단 188쪽** · [이 대목 주소](#sweat-context) · [책 이미지 대조](#scan-189)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陰人虛汗則完實也，少陰人虛汗則大病也。
+
+</div>
+
+**한국어 풀이** — 태음인에게 허한이 나면 완실한 것으로 보고, 소음인에게 허한이 나면 큰 병으로 본다고 하였다.
+
+**虛汗(허한)**을 오늘날의 모든 식은땀·다한증과 동일시하지 않습니다. 원문은 같은 땀 현상을 두 체질에서 다르게 해석한다는 대비를 제시합니다. 발한 전후의 기력·갈증·식사·회복과 평소 양상을 함께 확인해야 하며, “태음인은 땀이 많이 날수록 좋다”는 생활 지침으로 옮기지 않습니다.
+
+**이어 읽기:** [땀의 원문·문맥](../../sasang-original-symptoms/sweating.md) · [소음인 병증](../../sasang-integrated/soeumin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="감별" markdown="1">
+
+### 키가 크고 작은 것에도 예외가 있다 {#height-exceptions}
+
+**감별 · 권4 사상인변증론 · PDF 189쪽 / 화면 하단 188쪽** · [이 대목 주소](#height-exceptions) · [책 이미지 대조](#scan-189)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 少陰人體形矮短而亦多有長大者，或有八九尺長大者。太陰人體形長大而亦或有六尺矮短者。
+
+</div>
+
+**한국어 풀이** — 소음인의 체형은 작고 짧다고 하지만 키가 큰 사람도 많으며, 팔구 척이나 되는 사람도 있다. 태음인의 체형은 크다고 하지만 육 척 정도로 작은 사람도 있다.
+
+**亦(역, 또한)**과 **或(혹, 어떤 경우에는)**이 전형에서 벗어나는 사례를 드러냅니다. 尺(척)은 원문의 길이 표현으로 남깁니다. 특정 현대 센티미터로 바꾸어 체질의 키 기준을 만드는 문장이 아닙니다. 앞의 외형 감별 대목과 함께 읽으면 단일 체형표로 사람을 분류하기 어려운 이유가 선명해집니다.
+
+**이어 읽기:** [체질 감별](../../sasang-pattern-differential/index.md)
+
+</section>
+
+<section class="dsb-passage" data-category="소증" markdown="1">
+
+### 태양인: 소변과 완실무병 {#wellbeing-urination}
+
+**소증 · 권4 사상인변증론 · PDF 190쪽 / 화면 하단 189쪽** · [이 대목 주소](#wellbeing-urination) · [책 이미지 대조](#scan-190)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陽人小便旺多則完實而無病。
+
+</div>
+
+**한국어 풀이** — 태양인은 소변이 왕성하고 충분히 나오면 충실하고 병이 없는 상태라고 하였다.
+
+**旺多(왕다)**는 원문의 배뇨 상태 표현입니다. 소변을 무조건 늘리는 목표나 현대의 다뇨 진단 기준이 아닙니다. 평소 배뇨와 달라진 양상, 섭취량·갈증·야간뇨 등을 구분하여 기록하는 출발점으로 읽습니다. **完實而無病(완실이무병)**은 이 책의 건강상태 설명어이며 모든 질병을 배제하는 검사 결과가 아닙니다.
+
+**이어 읽기:** [소변 원문·해석](../../sasang-original-symptoms/urination.md) · [태양인 통합](../../sasang-integrated/taeyangin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="소증" markdown="1">
+
+### 태음인: 땀의 통창과 완실무병 {#wellbeing-sweating}
+
+**소증 · 권4 사상인변증론 · PDF 190쪽 / 화면 하단 189쪽** · [이 대목 주소](#wellbeing-sweating) · [책 이미지 대조](#scan-190)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陰人汗液通暢則完實而無病。
+
+</div>
+
+**한국어 풀이** — 태음인은 땀이 막힘없이 원활하게 나면 충실하고 병이 없는 상태라고 하였다.
+
+**通暢(통창)**은 원활하게 통한다는 뜻입니다. 땀의 절대량보다 원문이 어떤 기능의 원활함을 중시하는지 읽는 대목입니다. 앞의 허한 대비와 함께 보고, 활동·기온·발한 뒤 회복 및 평소와 다른 식은땀을 구분합니다.
+
+**이어 읽기:** [땀과 회복의 원문](../../sasang-original-symptoms/sweating.md) · [태음인 통합](../../sasang-integrated/taeeumin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="소증" markdown="1">
+
+### 소양인: 편안한 배변과 완실무병 {#wellbeing-stool}
+
+**소증 · 권4 사상인변증론 · PDF 191쪽 / 화면 하단 190쪽** · [이 대목 주소](#wellbeing-stool) · [책 이미지 대조](#scan-191)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 少陽人大便善通則完實而無病。
+
+</div>
+
+**한국어 풀이** — 소양인은 대변이 잘 통하면 충실하고 병이 없는 상태라고 하였다.
+
+**善通(선통)**은 잘 통한다는 뜻입니다. 매일 횟수만 세기보다 변의 굳기·배변의 어려움·잔변감과 평소와의 차이를 함께 묻는 자료로 이어 읽습니다. 이 구절만으로 변비를 특정 체질로 진단하거나 사하제를 선택할 수는 없습니다.
+
+**이어 읽기:** [대변 원문·해석](../../sasang-original-symptoms/stool.md) · [소양인 통합](../../sasang-integrated/soyangin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="소증" markdown="1">
+
+### 소음인: 음식 소화와 완실무병 {#wellbeing-digestion}
+
+**소증 · 권4 사상인변증론 · PDF 191쪽 / 화면 하단 190쪽** · [이 대목 주소](#wellbeing-digestion) · [책 이미지 대조](#scan-191)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 少陰人飮食善化則完實而無病。
+
+</div>
+
+**한국어 풀이** — 소음인은 음식이 잘 소화되면 충실하고 병이 없는 상태라고 하였다.
+
+**善化(선화)**는 먹은 음식이 잘 소화된다는 뜻입니다. 잘 먹는 양만이 아니라 식후의 편안함, 쉽게 체하는지, 복통·대변·기력의 변화를 함께 봅니다. 평소 잘 유지되던 소화가 병이 생긴 뒤 어떻게 달라졌는지 기록하면 소증과 현증을 구분하기 쉽습니다.
+
+**이어 읽기:** [소화·식욕 원문](../../sasang-original-symptoms/digestion-appetite.md) · [소음인 통합](../../sasang-integrated/soeumin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="치료 판단" markdown="1">
+
+### 사람을 알고, 그 증도 알아야 한다 {#person-and-pattern}
+
+**치료 판단 · 권4 사상인변증론 · PDF 191쪽 / 화면 하단 190쪽** · [이 대목 주소](#person-and-pattern) · [책 이미지 대조](#scan-191)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 明知其人而又明知其證則應用之藥必無可疑。
+
+</div>
+
+**한국어 풀이** — 그 사람을 분명히 알고 또한 그 증을 분명히 알면, 적용할 약을 의심할 일이 없다고 하였다.
+
+이 대목은 앞에서 체질별 병증을 열거한 문단의 **마지막 문장 발췌**입니다. **其人(기인)**과 **其證(기증)**이 나란히 놓인 점을 읽습니다. 체질명만 알거나 현재 증상 하나만 알아서는 처방 선택의 문맥이 충분하지 않습니다. 원문의 확신 표현과 실제 진료의 불확실성은 구별하며, 처방 후 경과 재평가까지 이어갑니다.
+
+**이어 읽기:** [병증별 원문·CPG 연결표](../../sasang-clinical-detail/pattern-source-map.md) · [치료 경과관찰](../../sasang-followup/index.md)
+
+</section>
+
+<section class="dsb-passage" data-category="치료 판단" markdown="1">
+
+### 반복해서 살피고 병증을 분명히 한 뒤 약을 쓴다 {#careful-prescribing}
+
+**치료 판단 · 권4 사상인변증론 · PDF 191쪽 / 화면 하단 190쪽** · [이 대목 주소](#careful-prescribing) · [책 이미지 대조](#scan-191)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 人物形容仔細商量，再三推移，如有迷惑則參互病證，明見無疑然後可以用藥。最不可輕忽而一貼藥誤投，重病險證一貼藥必殺人。
+
+</div>
+
+**한국어 풀이** — 사람의 형용을 자세히 헤아리고 여러 번 추론하되, 의혹이 있으면 병증을 서로 참조한다. 분명히 파악하여 의심이 없어진 뒤에야 약을 쓸 수 있다. 무엇보다 가볍게 여겨 한 첩의 약을 잘못 투여해서는 안 된다. 중하고 위태로운 병증에서는 잘못 쓴 한 첩이 사람을 죽일 수 있다고 경계하였다.
+
+**商量(상량)**은 헤아려 검토함, **參互(참호)**는 서로 대조하여 살핌입니다. 마지막 문장은 중증에서 오투약의 위험을 강조합니다. 바로 앞의 “약에 의심이 없다”는 문장과 함께 읽으면, 확신에 앞서 반복 관찰과 감별이 필요하다는 흐름이 드러납니다. 이 항목의 “한 첩”은 복용 권고가 아닙니다.
+
+**이어 읽기:** [임상 추론](../../clinical-reasoning/index.md) · [임상 안전성](../../clinical-safety/index.md) · [사상의학 근거·출전](../../sasang-integrated/evidence.md)
+
+</section>
+
+<section class="dsb-passage" data-category="양생·독서" markdown="1">
+
+### 조금 움직이되 크게 지치지 않는다 {#moderate-activity}
+
+**양생·독서 · 권4 사상인변증론 · PDF 191쪽 / 화면 하단 190쪽** · [이 대목 주소](#moderate-activity) · [책 이미지 대조](#scan-191)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 華佗曰：養生之術，每欲小勞，但莫大疲。
+
+</div>
+
+**한국어 풀이** — 화타가 말하기를, “양생하는 방법은 늘 조금씩 몸을 쓰려 하되, 크게 지치게 하지는 않는 것이다”라고 하였다.
+
+이 문장은 **《동의수세보원》이 화타의 말로 인용한 문장**입니다. 화타의 독립 저술에서 원출전까지 대조한 인용으로 표시하지 않습니다. **小勞(소로)**와 **大疲(대피)**의 대비를 통해 활동과 과로를 구분하는 뜻을 읽습니다. 개인별 운동 강도·시간을 정하는 현대 운동 처방과는 구별합니다.
+
+**이어 읽기:** [양생·치미병](../../yangsaeng/index.md) · [피로·회복 원문](../../sasang-original-symptoms/fatigue-recovery.md)
+
+</section>
+
+<section class="dsb-passage" data-category="양생·독서" markdown="1">
+
+### 의술과 질병을 아는 사람이 넓어지기를 바란다 {#shared-medical-knowledge}
+
+**양생·독서 · 권4 사상인변증론 · PDF 193쪽 / 화면 하단 192쪽** · [이 대목 주소](#shared-medical-knowledge) · [책 이미지 대조](#scan-193)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 萬室之邑一人陶則器不足也，百家之村一人醫則活人不足也。必廣明醫學，家家知醫，人人知病，然後可以壽世保元。
+
+</div>
+
+**한국어 풀이** — 만 호가 사는 고을에서 한 사람만 그릇을 만들면 그릇이 부족하고, 백 가구가 사는 마을에서 한 사람만 의술을 행하면 사람을 살리기에 부족하다. 반드시 의학을 널리 밝히고 집집마다 의술을 알며 사람마다 병을 알아야, 비로소 세상의 수명을 늘리고 근원을 보전할 수 있다.
+
+**陶(도)**는 그릇을 만드는 일이고, **壽世保元(수세보원)**은 책 제목과 이어지는 말입니다. 그릇과 의술의 비유는 의학 지식이 널리 전해져야 한다는 저자의 뜻을 보여 줍니다. 질병을 이해하는 배움의 취지로 읽으며, 누구나 스스로 체질을 확정하고 처방할 수 있다는 뜻으로 확대하지 않습니다.
+
+**이어 읽기:** [책 소개·판본](../donguisusebowon.md) · [사상의학 학습실](../../learning/sasang.md)
+
+</section>
+
+</div>
+</div>
+
+## 대조한 책 이미지 {#facsimile}
+
+오른쪽 세로줄부터 왼쪽으로 읽습니다. **PDF 쪽수는 표지를 포함한 파일 순서**, 화면 하단 숫자는 이미지에 표시된 쪽수입니다. 책의 원래 장차와도 구별합니다. 이미지는 Wikimedia Commons에서 불러오며, 위의 원문·풀이는 아카이브 본문에 수록되어 이미지가 열리지 않아도 읽을 수 있습니다.
+
+<details id="scan-188" class="dsb-scan">
+<summary>PDF 188쪽 / 화면 하단 187쪽 — 외형이 소음인과 비슷한 소양인</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page188-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page188-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="동의수세보원 1941년 석판본 PDF 188쪽. 외형이 소음인과 비슷한 소양인." width="960">
+</details>
+
+<details id="scan-189" class="dsb-scan">
+<summary>PDF 189쪽 / 화면 하단 188쪽 — 태음인·소음인 감별, 땀과 키의 예외</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page189-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page189-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="동의수세보원 1941년 석판본 PDF 189쪽. 태음인·소음인 감별, 땀과 키의 예외." width="960">
+</details>
+
+<details id="scan-190" class="dsb-scan">
+<summary>PDF 190쪽 / 화면 하단 189쪽 — 태양인 배뇨·태음인 발한</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page190-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page190-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="동의수세보원 1941년 석판본 PDF 190쪽. 태양인 배뇨·태음인 발한." width="960">
+</details>
+
+<details id="scan-191" class="dsb-scan">
+<summary>PDF 191쪽 / 화면 하단 190쪽 — 소양인 배변·소음인 소화, 치료 판단·양생</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page191-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page191-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="동의수세보원 1941년 석판본 PDF 191쪽. 소양인 배변·소음인 소화, 치료 판단·양생." width="960">
+</details>
+
+<details id="scan-193" class="dsb-scan">
+<summary>PDF 193쪽 / 화면 하단 192쪽 — 의학 지식의 보급과 책의 끝부분</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page193-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page193-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="동의수세보원 1941년 석판본 PDF 193쪽. 의학 지식의 보급과 책의 끝부분." width="960">
+</details>
+
+## 원문에서 기존 자료로 이어 읽기 {#next-reading}
+
+| 알고 싶은 것 | 다음에 읽을 자료 | 읽을 때 구분할 것 |
+|---|---|---|
+| 체질·소증의 뜻부터 알고 싶어요 | [핵심 개념 해석](../../sasang/donguisusebowon.md) | 체질의 기본 구조와 현재 생긴 병증 |
+| 평소 소화·땀·대변을 더 자세히 보고 싶어요 | [소증별 원문](../../sasang-original-symptoms/index.md) | 평소 상태와 현재 달라진 상태 |
+| 표병·리병과 처방을 찾고 싶어요 | [병증별 원문·CPG 연결표](../../sasang-clinical-detail/pattern-source-map.md) | 원전의 편명과 현대 진료지침의 분류·권고 |
+| 처방의 실제 구성과 변천이 궁금해요 | [원방·갑오본·후대 명칭](../donguisusebowon.md#formula-source-layers) | 같은 처방명이라도 판본·구성·제형 확인 |
+| 현대 임상연구도 함께 보고 싶어요 | [사상의학 근거·출전](../../sasang-integrated/evidence.md) | 고전 해석과 치료 효과를 평가한 연구의 역할 |
+| 다른 편과 갑오구본을 찾고 싶어요 | [책·판본 안내](../donguisusebowon.md) | 이번 발췌의 범위와 별도 판본 |
+
+## 판본·출처와 전사 원칙 {#source}
+
+- **대조 자료:** 《東醫壽世保元》, 1941년, 金重瑞方, 석판본, 4권 1책. 공개 파일의 서지에는 이제마·한두정이 함께 표시되어 있습니다. 마지막 발행면에서 한두정의 편집·발행 표기를 확인할 수 있습니다. 자료 식별자는 **CNTS-00047980362**입니다.
+- **공개 파일:** [Wikimedia Commons 자료 설명·권리 표기](https://commons.wikimedia.org/wiki/File:CNTS-00047980362_東醫壽世保元.pdf). 제공처는 이 스캔을 **PD-scan / PD-South Korea**로 표시합니다. [확인한 설명판](https://commons.wikimedia.org/w/index.php?title=File:CNTS-00047980362_東醫壽世保元.pdf&oldid=1108506680)과 [원본 PDF](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf)를 함께 남깁니다.
+- **1901년본과 구별:** 이 페이지의 대조본은 1941년 석판본입니다. [장서각 소장 1901년 목활자본 K3-328](https://jsg.aks.ac.kr/dir/view?dataId=JSG_K3-328)은 별도 자료이며, 그 이미지나 해제를 이 페이지에 복제한 것은 아닙니다. 이번 작업은 판본 전체의 이문을 대조한 교감본이 아닙니다.
+- **옮긴 범위:** 위에 표시한 PDF 188–191·193쪽 중 이제마 본문의 12개 대목을 직접 전사했습니다. 후대 구결, 작은 글씨의 협주와 발행면은 전사에서 제외했습니다. 12라는 수와 각 제목은 찾기 쉽도록 붙인 이 페이지의 편집 단위이며, 원전의 조문 번호가 아닙니다.
+- **표기:** 원문의 한자를 옮기되 읽기 위한 현대 구두점과 문장 구분을 더했습니다. 形容·貼 등은 대조 이미지의 글자를 따릅니다. 완실무병의 네 체질 문장은 읽기 편하게 각각 나누었고, 「사람을 알고, 그 증도 알아야 한다」는 문단 마지막 문장만 발췌했습니다.
+- **풀이·권리:** 한국어 풀이와 설명은 아카이브의 자체 작성물입니다. 현대 번역서나 한국의학고전DB의 번역·정리 데이터를 복제한 자료가 아닙니다. 고전 원문 자체에 아카이브의 독점 권리를 주장하지 않으며, 자체 해설은 [콘텐츠 이용 안내](../../guide/content-use.md)를 따릅니다.
+
+[고전 원문·해석으로 돌아가기](../../classics-reader/index.md) · [동의수세보원 임상 지식망](../../donguisusebowon-network/index.md)
