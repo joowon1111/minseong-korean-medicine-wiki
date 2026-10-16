@@ -9,7 +9,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 <div class="ms-grid">
 <a class="ms-card" href="/shanghan-network/#complete-clauses"><strong>상한론 傷寒論</strong><span>통행 398조 원문·한국어 독해<br>육경병·조문 번호로 찾기 →</span></a>
 <a class="ms-card" href="/jingui-network/#complete-chapters"><strong>금궤요략 金匱要略</strong><span>제1–22편 임상 원문·한국어 독해<br>편명·병증으로 찾기 →</span></a>
-<a class="ms-card" href="/sasang/donguisusebowon/"><strong>동의수세보원 東醫壽世保元</strong><span>선별 원문·개념 해석<br>체질·평소 증상·병증으로 읽기 →</span></a>
+<a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
 <a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>수록 원문 검색·전권 영인본<br>약재명·한자 구절·편목으로 찾기 →</span></a>
 </div>
 
@@ -44,9 +44,10 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 
 ## 동의수세보원 — 개념·소증·병증을 함께 읽기 {#donguisusebowon}
 
-**수록:** 주요 개념과 체질·소증·병증에 관한 **선별 원문과 해석**. 책 전체의 연속 원문이나 완역본은 아닙니다. ‘소증’은 평소의 소화·땀·대변·수면 등 상태를 가리키며, 현재 병증을 읽는 자료와 연결됩니다.
+**수록:** 1941년 석판본 이미지에서 직접 옮긴 **「사상인변증론」 12개 발췌 원문·자체 한국어 풀이**와 기존 개념·소증·병증별 해석. 책 전체의 연속 원문이나 완역본은 아닙니다. ‘소증’은 평소의 소화·땀·대변·수면 등 상태를 가리키며, 현재 병증을 읽는 자료와 연결됩니다.
 
-- **처음 읽기:** [핵심 원문·개념 해석](../sasang/donguisusebowon.md).
+- **원문을 바로 읽기:** [아카이브 내부 원문·풀이](../classics/donguisusebowon/original.md). `소화`, `땀`, `明知其人` 등으로 찾고 대조한 책 이미지도 열어 볼 수 있습니다.
+- **처음 읽기:** [소음인의 음식 소화](../classics/donguisusebowon/original.md#wellbeing-digestion) → [핵심 원문·개념 해석](../sasang/donguisusebowon.md).
 - **평소 증상에서 찾기:** [소증별 원문 안내](../sasang-original-symptoms/index.md).
 - **병증에서 찾기:** [병증별 원문·진료지침 연결표](../sasang-clinical-detail/pattern-source-map.md).
 - **체질·처방까지 이어 읽기:** [동의수세보원 임상 지식망](../donguisusebowon-network/index.md).

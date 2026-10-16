@@ -1,0 +1,15 @@
+#dsb-reader .dsb-controls { display: flex; flex-wrap: wrap; align-items: center; gap: .55rem; padding: 1rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem; background: var(--md-code-bg-color); }
+#dsb-reader [hidden] { display: none !important; }
+#dsb-reader input, #dsb-reader select, #dsb-reader button { font: inherit; color: var(--md-default-fg-color); background: var(--md-default-bg-color); border: 1px solid var(--md-default-fg-color--light); border-radius: .3rem; padding: .5rem; min-height: 44px; max-width: 100%; }
+#dsb-reader input { flex: 1 1 15rem; min-width: 0; }
+#dsb-reader button { cursor: pointer; }
+#dsb-reader :is(input, select, button):focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 3px; }
+#dsb-count { flex-basis: 100%; margin: 0; font-size: .8rem; }
+.dsb-passage { padding: .3rem 0 1rem; border-bottom: 1px solid var(--md-default-fg-color--lightest); }
+.dsb-original { font-size: 1.1rem; line-height: 1.9; overflow-wrap: anywhere; }
+.dsb-original blockquote { color: var(--md-default-fg-color); }
+.dsb-scan { max-width: 100%; }
+.dsb-scan summary { cursor: pointer; }
+.dsb-scan img { display: block; max-width: 100%; height: auto; margin: .5rem auto; }
+@media (max-width: 600px) { #dsb-reader .dsb-controls { align-items: stretch; } #dsb-reader label, #dsb-reader input { flex-basis: 100%; } }
+@media print { #dsb-reader .dsb-controls { display: none; } #dsb-reader .dsb-passage[hidden] { display: block !important; } }

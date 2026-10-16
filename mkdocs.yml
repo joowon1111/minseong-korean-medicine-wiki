@@ -11,6 +11,7 @@ extra_javascript:
   - assets/archive-tools/ai-client.js?v=20261009-03
   - assets/archive-tools/tools.js?v=20261013-full-formulas
   - assets/korean-search-185.js?v=20261009
+  - assets/donguisusebowon/reader.js
   - assets/donguibogam/bootstrap.js
   - assets/acupoint-atlas/explorer.js
   - assets/acupoint-atlas/discovery.js
@@ -28,6 +29,7 @@ extra_css:
 - stylesheets/korean-medicine-guide.css
 - assets/korean-search-185.css
 - assets/donguibogam/reader.css
+- assets/donguisusebowon/reader.css
 extra:
   generator: false
   homepage_title: 민성 한의학 아카이브
@@ -470,6 +472,7 @@ nav:
       - 21편 · 부인 산후병: classics/jinkui-yaolue/chapters/postpartum.md
       - 22편 · 부인 잡병: classics/jinkui-yaolue/chapters/gynecology.md
   - 동의수세보원:
+    - 원문·한국어 풀이: classics/donguisusebowon/original.md
     - 핵심 원문·개념 해석: sasang/donguisusebowon.md
     - 책 소개·판본 안내: classics/donguisusebowon.md
     - 병증별 원문 찾기: sasang-clinical-detail/pattern-source-map.md
