@@ -1,6 +1,6 @@
 ---
 title: 한의학 고전 임상 지식망
-description: 황제내경·난경·침구갑을경·침구대성·상한론·금궤요략·의학입문·경악전서·온병조변·동의보감·동의수세보원을 병증·치법·방제·경혈·현대 연구로 연결합니다.
+description: 황제내경·난경·침구갑을경·침구대성·상한론·금궤요략·의학입문·고금의감·만병회춘·수세보원·경악전서·온병조변·동의보감·동의수세보원을 병증·치법·방제·경혈·현대 연구로 연결합니다.
 status: 검토완료
 last_reviewed: 2026-09-22
 ---
@@ -31,10 +31,15 @@ WHO의 [Global Traditional Medicine Strategy 2025–2034](https://www.who.int/pu
 | 부인·소아·식치·양생을 아우르는 돌봄 | [비급천금요방](beiji-qianjin-yaofang.md) | [손사막과 저술](../physicians/sun-simiao.md) |
 | 음식·과로·비위·원기의 관계 | [비위론](piwei-lun.md) | [이동원의 의학](../physicians/li-dongyuan.md) |
 | 기초부터 진단·본초·각과 임상까지 학습 | [의학입문](uihak-ipmun.md) | [진단·변증](../diagnostics/index.md) |
+| 허실·한열 판단과 명대 처방의 가감 | [고금의감](gogeum-uigam.md) | [연교패독산의 원문](../formulas/lianqiao-baidu-san.md) |
+| 병증별 처방·진찰·약성과 조선 유입 | [만병회춘](manbyeong-hoechun.md) | [자음강화탕 구성 대조](../formulas/ziyin-jianghuo-tang.md) |
+| 공정현의 후기 의론·각과·두통·소아 처방 | [수세보원](susebowon.md) | [청상견통탕](../formulas/qingshang-juantong-tang.md) |
 | 허손·보법과 치료 방향에 따른 방제 분류 | [경악전서](jingyue-quanshu.md) | [방제 구조](../formula-architecture/index.md) |
 | 온열성 병증과 진액·삼초의 변화 | [온병조변](wenbing-tiaobian.md) | [온병학 지식망](../wenbing-network/index.md) |
 | 몸의 기능·부위·병증에서 탕액·침구까지 | [동의보감 개요](donguibogam.md) | [동의보감 5편 임상 색인](../donguibogam-network/index.md) |
 | 체질·평소 소증·현재 병증의 관계 | [동의수세보원](donguisusebowon.md) | [사상의학 임상 네트워크](../donguisusebowon-network/index.md) |
+
+**공씨 부자의 저술 흐름**은 [고금의감 → 만병회춘 → 수세보원](../classics-network/gong-medical-lineage.md)에서 연대·판본·편제와 정천탕의 실제 구성을 비교합니다. 여기의 《수세보원》은 공정현의 책이며, 이제마의 《동의수세보원》과 구분합니다.
 
 ## 진료 분야에서 찾는 고전·한약처방 {#clinical-specialties}
 

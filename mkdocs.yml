@@ -1294,6 +1294,9 @@ nav:
       - 비급천금요방: classics/beiji-qianjin-yaofang.md
       - 비위론: classics/piwei-lun.md
       - 의학입문: classics/uihak-ipmun.md
+      - 고금의감: classics/gogeum-uigam.md
+      - 만병회춘: classics/manbyeong-hoechun.md
+      - 수세보원 · 공정현: classics/susebowon.md
       - 경악전서: classics/jingyue-quanshu.md
       - 온병조변: classics/wenbing-tiaobian.md
       - 동의보감:
@@ -1327,6 +1330,7 @@ nav:
     - 고전 비교·읽는 방법:
       - 고전 9종 비교: classics-network/comparison.md
       - 고전 읽는 순서: classics-network/reading-path.md
+      - 고금의감 → 만병회춘 → 수세보원: classics-network/gong-medical-lineage.md
       - 양생·치미병 원문과 해석: yangsaeng/index.md
     - 황제내경 핵심 지식망: neijing-network/index.md
     - 상한론 핵심 지식망: shanghan-network/index.md
