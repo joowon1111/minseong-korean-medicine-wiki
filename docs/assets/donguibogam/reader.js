@@ -9,10 +9,9 @@
     const query = norm(raw).replace(/^동의보감\s*(?:원문\s*)?/, '').trim(); const terms = query.split(' '); if (!query) return [];
     return rows.filter(row => !group || row.group === group).map(row => {
       const title = norm(row.title), aliases = row.aliases.map(norm), text = norm(row.text);
-      const explanation = norm(row.reading ? JSON.stringify(row.reading) : '');
-      const blob = [title,...aliases,text,explanation].join(' ');
+      const blob = [title,...aliases,text].join(' ');
       if (!terms.every(term => blob.includes(term))) return {row,score:0};
-      const score = (title === query || aliases.includes(query) ? 1000 : 0) + (title.includes(query) ? 100 : 0) + (aliases.some(a=>a.includes(query)) ? 60 : 0) + (text.includes(query) ? 10 : 0) + (explanation.includes(query) ? 20 : 0) + (terms.every(term=>blob.includes(term)) ? 1 : 0);
+      const score = (title === query || aliases.includes(query) ? 1000 : 0) + (title.includes(query) ? 100 : 0) + (aliases.some(a=>a.includes(query)) ? 60 : 0) + (text.includes(query) ? 10 : 0);
       return {row,score};
     }).filter(x=>x.score).sort((a,b)=>b.score-a.score || a.row.id.localeCompare(b.row.id));
   }
@@ -39,7 +38,7 @@
     let manifest=null, corpus=null, loading=null, generation=0, selectedScan=null,selectedPage=1;
     const make=(tag,text,parent)=>{const node=document.createElement(tag);if(text != null)node.textContent=text;if(parent)parent.appendChild(node);return node;};
     const link=(label,url,parent,isExternal=false)=>{const safe=isExternal ? external(url,['ko.wikisource.org','zh.wikisource.org','commons.wikimedia.org','upload.wikimedia.org','creativecommons.org']) : internal(url) ? url : null;if(!safe)return;const a=make('a',label,parent);a.href=safe;if(isExternal){a.target='_blank';a.rel='noopener';}return a;};
-    async function fetchJSON(file) { const response=await fetch(BASE+file+'?v=3');if(!response.ok)throw new Error('download');return response.json(); }
+    async function fetchJSON(file) { const response=await fetch(BASE+file+'?v=2');if(!response.ok)throw new Error('download');return response.json(); }
     const manifestPromise=fetchJSON('manifest.json').then(data=>{
       if(data.schema!==1 || !Array.isArray(data.sources) || !Array.isArray(data.scans) || !data.groups)throw new Error('manifest');
       manifest=data;
@@ -70,13 +69,7 @@
           if(!Object.hasOwn(GROUPS,group) || entry.file!==group+'.json')throw new Error('group');
           const list=await fetchJSON(entry.file);
           if(!Array.isArray(list) || list.length!==entry.count || !list.every(validRow))throw new Error('corpus');return list;
-        }));const loaded=lists.flat();
-        try {
-          const readings=await fetchJSON('readings.json');
-          if(readings.schema!==1 || !Array.isArray(readings.records))throw new Error('readings');
-          for(const reading of readings.records){const row=loaded.find(r=>r.id===reading.record);if(row && row.source===reading.source && Array.isArray(reading.excerpts) && reading.excerpts.length>0 && reading.excerpts.every(e=>typeof e.quote==='string'&&typeof e.reading==='string') && Array.isArray(reading.terms) && Array.isArray(reading.links))row.reading=reading;}
-        }catch{get('dgb-reading-note').textContent='한국어 풀이를 불러오지 못했습니다. 원문은 계속 읽을 수 있습니다. 풀이를 보려면 새로고침해 주세요.';}
-        corpus=loaded;return corpus;
+        }));corpus=lists.flat();return corpus;
       }).catch(error=>{loading=null;throw error;});
       return loading;
     }
@@ -87,18 +80,7 @@
       make('p',GROUPS[row.group],passage);
       const source=manifest.sources.find(s=>s.id===row.source);
       if(source){make('p',source.title+' · '+source.quality,passage);const p=make('p',null,passage);link('사용한 수정판',source.url,p,true);make('span',' · ',p);link('전사 기여 이력',source.history,p,true);make('span',' · ',p);link('CC BY-SA 4.0',manifest.license,p,true);}
-      let originalParent=passage;
-      if(row.reading){
-        const r=row.reading,section=make('section',null,passage);section.className='dgb-reading';
-        make('h4',r.name+' · '+r.topic,section);
-        make('p','선별 구절 풀이 · 민성 한의학 아카이브 자체 해석 · CC BY-SA 4.0',section);
-        for(const excerpt of r.excerpts){make('blockquote',excerpt.quote,section);make('p',excerpt.reading,section);}
-        make('h4','용어를 짚어 읽기',section);const terms=make('ul',null,section);for(const term of r.terms)make('li',term,terms);
-        make('h4','문맥과 해석',section);make('p',r.context,section);
-        const links=make('p','관련 자료: ',section);for(const item of r.links){link(item.title,item.url,links);make('span',' · ',links);}
-        originalParent=make('details',null,passage);originalParent.className='dgb-full-original';make('summary','이 항목의 수록 원문 전체 펼치기',originalParent);
-      }
-      const body=make('div',null,originalParent);body.className='dgb-original-text';
+      const body=make('div',null,passage);body.className='dgb-original-text';
       // Preserve literal wording; paragraph breaks at the source's circular markers only.
       for(const text of row.text.split(/(?=○)/))if(text.trim())make('p',text.trim(),body);
       if(row.scan_page){const p=make('p',null,passage);link('전사에 대응하는 영인 페이지', 'https://ko.wikisource.org/wiki/'+encodeURIComponent(row.scan_page),p,true);}
@@ -110,15 +92,14 @@
       status.textContent=query?'원문 전사에서 찾고 있습니다.':'수록된 원문 목록을 불러옵니다.';
       try{
         const rows=await loadCorpus();if(current!==generation || !root.isConnected)return;
-        const selected=get('dgb-reading-only').checked?rows.filter(row=>row.reading):rows;
-        const hits=query?search(selected,query,group):browse(selected,group);
+        const hits=query?search(rows,query,group):browse(rows,group);
         function render(index){
           if(current!==generation||!root.isConnected)return;
           const page=pageResults(hits,index);results.replaceChildren();passage.hidden=true;
           status.textContent=(query?'검색 결과 ':'원문 목록 ')+page.total+'개 항목'+(page.total?' · '+(page.index*50+1)+'–'+Math.min((page.index+1)*50,page.total)+'번째':'');
           for(const {row} of page.items){
             const item=make('div',null,results);item.className='dgb-result';const button=make('button',[row.aliases.join(' · '),row.title].filter(Boolean).join(' — '),item);button.type='button';button.addEventListener('click',()=>showPassage(row));
-            make('small',(row.reading?'한국어 풀이 · '+row.reading.topic+' · ':'')+GROUPS[row.group]+(row.context_title?' · '+row.context_title+'의 부위 항목':''),item);const preview=row.reading?row.reading.excerpts[0].reading:row.text;make('p',preview.slice(0,180)+(preview.length>180?'…':''),item);
+            make('small',GROUPS[row.group]+(row.context_title?' · '+row.context_title+'의 부위 항목':''),item);make('p',row.text.slice(0,180)+(row.text.length>180?'…':''),item);
           }
           if(!hits.length)make('p','이 검색 결과는 현재 수록한 전사 범위에 한정됩니다. 영인본 전권의 모든 글자가 검색되는 상태는 아닙니다.',results);
           if(page.pages>1){
@@ -129,7 +110,7 @@
             prev.addEventListener('click',()=>{render(page.index-1);results.scrollIntoView({behavior:'smooth',block:'start'});});
             next.addEventListener('click',()=>{render(page.index+1);results.scrollIntoView({behavior:'smooth',block:'start'});});
           }
-          remember({...(query?{q:query}:{list:1}),...(group?{group}:{}),...(get('dgb-reading-only').checked?{reading:1}:{}),...(page.index?{offset:page.index*50}:{})});
+          remember({...(query?{q:query}:{list:1}),...(group?{group}:{}),...(page.index?{offset:page.index*50}:{})});
         }
         render(requested);
       }catch{if(current===generation)status.textContent='전사를 불러오지 못했습니다. 다시 검색하거나 아래 출처를 이용해 주세요.';}
@@ -144,17 +125,14 @@
       get('dgb-prev').disabled=page<=1;get('dgb-next').disabled=page>=scan.pages;remember({volume:scan.number,page});
     }
     get('dgb-search-form').addEventListener('submit',runSearch);
-    get('dgb-browse').addEventListener('click',()=>{get('dgb-query').value='';get('dgb-reading-only').checked=false;runSearch();});
-    get('dgb-readings').addEventListener('click',()=>{get('dgb-query').value='';get('dgb-group').value='';get('dgb-reading-only').checked=true;runSearch();});
-    get('dgb-reading-only').addEventListener('change',()=>runSearch());
+    get('dgb-browse').addEventListener('click',()=>{get('dgb-query').value='';runSearch();});
     get('dgb-scan-form').addEventListener('submit',async e=>{e.preventDefault();await manifestPromise;showScan(Number(get('dgb-page').value));});
     get('dgb-volume').addEventListener('change',()=>{selectedScan=null;get('dgb-scan').hidden=true;get('dgb-page').value=1;const scan=manifest?.scans.find(s=>s.number===Number(get('dgb-volume').value));if(scan)get('dgb-page').max=scan.pages;});
     get('dgb-prev').addEventListener('click',()=>selectedScan&&showScan(selectedPage-1));
     get('dgb-next').addEventListener('click',()=>selectedScan&&showScan(selectedPage+1));
     get('dgb-scan-image').addEventListener('error',()=>{get('dgb-scan-status').textContent='이미지 제공처에서 페이지를 불러오지 못했습니다. 아래 책 전체 PDF 또는 출처에서 확인할 수 있습니다.';});
     const params=new URLSearchParams(location.search);
-    get('dgb-reading-only').checked=params.get('reading')==='1';
-    if(params.get('q')||params.get('list')||params.get('reading')){get('dgb-query').value=(params.get('q')||'').slice(0,200);get('dgb-group').value=Object.hasOwn(GROUPS,params.get('group'))?params.get('group'):'';runSearch(null,Number(params.get('offset')||0)/50);}
+    if(params.get('q')||params.get('list')){get('dgb-query').value=(params.get('q')||'').slice(0,200);get('dgb-group').value=Object.hasOwn(GROUPS,params.get('group'))?params.get('group'):'';runSearch(null,Number(params.get('offset')||0)/50);}
     else if(params.get('record'))loadCorpus().then(rows=>{const row=rows.find(r=>r.id===params.get('record'));if(row&&root.isConnected)showPassage(row);else status.textContent='해당 원문 항목을 찾지 못했습니다. 검색어로 찾아 주세요.';}).catch(()=>{status.textContent='원문을 불러오지 못했습니다. 다시 검색해 주세요.';});
     else if(params.get('volume'))manifestPromise.then(()=>{get('dgb-volume').value=params.get('volume');showScan(Number(params.get('page')||1));});
   }
