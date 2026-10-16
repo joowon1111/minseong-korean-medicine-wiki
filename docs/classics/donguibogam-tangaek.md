@@ -36,6 +36,8 @@ last_reviewed: '2026-09-05'
 | 청열·해독·조습 | [황련](../herbs/coptis.md)·[황금](../herbs/scutellaria.md)·[황백](../herbs/phellodendron.md)·[치자](../herbs/gardenia.md) | [황련해독탕](../formulas/huanglian-jiedu-tang.md) | [피부의 열·습](../conditions/eczema.md#pattern-treatment) |
 | 양음·생진 | [생지황](../herbs/fresh-rehmannia.md)·[맥문동](../herbs/ophiopogon.md)·[현삼](../herbs/scrophularia.md) | [온병조변 증액·양음 독해](wenbing-tiaobian.md#middle-011)는 후대 연결로 구별 | [구강건조](../conditions/dry-mouth.md)·[열감과 피부 건조](../conditions/atopic-dermatitis.md#skin-clear-heat-nourish-yin) |
 
+원문을 짧게 풀어 읽으려면 [인삼의 五藏氣不足](donguibogam/tangyeok/ginseng.md#passage-reading), [황기의 氣虛盜汗自汗](donguibogam/tangyeok/astragalus.md#passage-reading), [백출의 健脾强胃·去濕止渴](donguibogam/tangyeok/atractylodes.md#passage-reading), [복령의 開胃·止嘔逆·安心神](donguibogam/tangyeok/poria.md#passage-reading)을 비교합니다. 같은 보기·이수 분류에 놓여도 원문에서 강조한 조건과 실제 처방 속 역할은 다릅니다.
+
 약재를 찾은 뒤에는 **생지황과 숙지황의 가공 차이, 반하의 포제, 복합 처방 안에서의 역할**을 확인합니다. 한 성분의 약리 설명만으로 그 성분을 포함한 모든 처방의 효능을 같게 보지는 않습니다.
 
 → [본초학 임상 지식망](../herbs/index.md)  
