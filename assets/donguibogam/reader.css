@@ -18,10 +18,3 @@
 #dgb-volume-guide li {margin:.6rem 0;line-height:1.8}
 #dgb-volume-guide li span {font-size:.8rem}
 #dgb-reader [hidden] {display:none!important}
-
-.dgb-reading {margin:1rem 0;padding:1rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:.4rem;line-height:1.85;overflow-wrap:anywhere}
-.dgb-reading blockquote {margin:1rem 0 .5rem;padding:.6rem 1rem;background:var(--md-code-bg-color);font-size:1em}
-.dgb-reading h4 {margin-top:1.2rem}
-.dgb-full-original summary {cursor:pointer;font-weight:700;padding:.8rem 0}
-#dgb-reading-only {width:auto;min-width:0}
-@media(max-width:600px){.dgb-reading{padding:.7rem}#dgb-reader form{padding:.7rem}#dgb-query{min-width:0;flex-basis:100%}}
