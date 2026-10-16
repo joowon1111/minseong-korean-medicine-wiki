@@ -33,6 +33,12 @@ description: 저령·복령·택사·활석·아교로 수열호결과 음액 �
 
 ‘수열호결·음손’은 이 맥증과 활석·아교 배합을 설명하는 후대 방제학의 언어입니다. 319조에는 소변불리가 직접 적혀 있지 않으므로, 223조의 모든 증상을 각 조문에 덧붙이지 않습니다. [진무탕 316조](zhenwu-tang.md#shanghan-source-patterns)와 나란히 읽으면 같은 소음편의 하리라도 동반 맥증과 배합이 달라짐을 확인할 수 있습니다.
 
+### 금궤요략에서 오령산과 나란히 읽기 {#jingui-comparison}
+
+[금궤 13.4 오령산](../classics/jinkui-yaolue/chapters/thirst-urination.md#clause-13-004)과 [13.13 저령탕](../classics/jinkui-yaolue/chapters/thirst-urination.md#clause-13-013)은 부맥·열·갈증·소변불리라는 닮은 표현을 갖습니다. 차이를 설명할 때에는 오령산의 백출·계지와 저령탕의 활석·아교, 산제와 탕제를 실제로 대조합니다. ‘수열호결’이라는 후대 병기 이름만 반복하기보다 원문 조건과 전체 배합을 연결해야 합니다.
+
+금궤의 저령탕 방후문도 네 약을 먼저 달이고 거른 뒤 아교를 녹이는 순서를 명시합니다. 반면 주치에는 혈뇨가 직접 적혀 있지 않아 아교의 역할을 혈뇨에만 한정할 수 없습니다. 같은 편의 [갈증 처방 비교](../classics/jinkui-yaolue/chapters/thirst-urination.md#thirst-formula-comparison)에서는 많은 소변의 신기환, 음수 뒤 구토의 오령산, 구설건조의 백호가인삼탕을 함께 구별합니다.
+
 ## 출전 원문·약량·본초 해석 {#source-dose-original}
 
 **대조 수록본:** 《상한론(송본)(傷寒論（宋本）)》 「辨陽明病脈證並治第八」. [해당 문헌 확인](https://jicheng.tw/tcm/book/傷寒論（宋本）/index.html)
