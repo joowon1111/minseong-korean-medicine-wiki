@@ -5,6 +5,42 @@
   --md-primary-fg-color--dark: #174536;
 }
 
+/* Keep long archive menus easy to scroll and their final link clear of the edge.
+   Desktop height remains owned by Material's header/viewport calculation.
+   Drawer lists, not the outer wrapper, own scrolling below 76.25em. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    overscroll-behavior-y: contain;
+    scrollbar-width: auto;
+    scrollbar-gutter: stable;
+    scrollbar-color: var(--md-default-fg-color--light) var(--md-default-fg-color--lightest);
+    scroll-padding-block: .6rem 1rem;
+  }
+  .md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar { width: 12px; }
+  .md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+    background-color: var(--md-default-fg-color--light);
+    border: 3px solid var(--md-default-bg-color);
+    border-radius: 8px;
+  }
+  .md-sidebar--primary .md-sidebar__inner { padding-bottom: 1rem; }
+}
+@media screen and (max-width: 76.234375em) {
+  .md-sidebar--primary {
+    /* Dynamic viewport follows browser chrome and orientation changes. */
+    height: 100vh;
+    height: 100dvh;
+  }
+  .md-nav--primary .md-nav__title ~ .md-nav__list {
+    min-height: 0;
+    padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+    scroll-padding-block: .6rem 1rem;
+    scroll-snap-type: none;
+    overscroll-behavior-y: contain;
+    scrollbar-width: auto;
+    scrollbar-color: var(--md-default-fg-color--light) var(--md-default-fg-color--lightest);
+  }
+}
+
 /* Static reading aids: usable without JavaScript, including on mobile. */
 .archive-citation {
   margin: 2rem 0 1rem;
