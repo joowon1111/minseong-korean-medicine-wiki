@@ -61,7 +61,7 @@ test('the live reader browses past 50 entries and facsimile navigation stays ind
   addEventListener(name,fn){this.listeners[name]=fn;}
   setAttribute(){} scrollIntoView(){}
  }
- const ids=['dgb-status','dgb-results','dgb-passage','dgb-volume-guide','dgb-volume','dgb-page','dgb-query','dgb-group','dgb-search-form','dgb-browse','dgb-scan-form','dgb-scan','dgb-scan-status','dgb-scan-image','dgb-scan-image-link','dgb-scan-source','dgb-scan-pdf','dgb-prev','dgb-next'];
+ const ids=['dgb-reading-only','dgb-readings','dgb-reading-note','dgb-status','dgb-results','dgb-passage','dgb-volume-guide','dgb-volume','dgb-page','dgb-query','dgb-group','dgb-search-form','dgb-browse','dgb-scan-form','dgb-scan','dgb-scan-status','dgb-scan-image','dgb-scan-image-link','dgb-scan-source','dgb-scan-pdf','dgb-prev','dgb-next'];
  const elements=Object.fromEntries(ids.map(id=>[id,new Element()]));
  elements['dgb-volume'].value='1';elements['dgb-page'].value='1';
  const root=new Element();root.querySelector=selector=>elements[selector.slice(1)];
@@ -83,4 +83,27 @@ test('the live reader browses past 50 entries and facsimile navigation stays ind
  elements['dgb-volume'].value='23';elements['dgb-volume'].listeners.change();assert.equal(elements['dgb-scan'].hidden,true);
  elements['dgb-page'].value='3';await elements['dgb-scan-form'].listeners.submit({preventDefault(){}});
  assert.match(elements['dgb-scan-status'].textContent,/침구편 권1/);
+ elements['dgb-readings'].listeners.click();await new Promise(resolve=>setImmediate(resolve));
+ assert.equal(elements['dgb-results'].children.filter(el=>el.className==='dgb-result').length,48);assert.match(address,/reading=1/);
+ const first=elements['dgb-results'].children[0].children.find(el=>el.tag==='button');first.listeners.click();
+ assert.equal(elements['dgb-passage'].hidden,false);assert.match(address,/record=/);
+ assert.equal(descend(elements['dgb-passage']).filter(el=>el.className==='dgb-reading').length,1);
+ assert.ok(descend(elements['dgb-passage']).some(el=>el.tag==='summary'&&el.textContent.includes('원문 전체')));
+});
+
+test('48 readings preserve exact excerpts, provenance and interpretation search',()=>{
+ const data=JSON.parse(fs.readFileSync(path.join(base,'readings.json'),'utf8'));
+ assert.equal(data.license,'CC-BY-SA-4.0');assert.equal(data.records.length,48);
+ assert.equal(new Set(data.records.map(r=>r.record)).size,48);
+ let count=0;
+ const enriched=rows.map(row=>({...row,reading:data.records.find(r=>r.record===row.id)}));
+ for(const r of data.records){
+  const row=rows.find(row=>row.id===r.record);assert.ok(row);assert.equal(row.source,r.source);
+  for(const e of r.excerpts){assert.ok(row.text.replace(/\s/g,'').includes(e.quote.replace(/\s/g,'')));assert.ok(e.reading.length>15);count++;}
+  assert.ok(r.terms.length>=2);assert.ok(r.context.length>30);
+  for(const l of r.links){assert.match(l.url,/^\/(?!\/)/);const stem=path.join(__dirname,'../docs',l.url.split('#')[0]);assert.ok(fs.existsSync(stem+'.md')||fs.existsSync(path.join(stem,'index.md'))||fs.existsSync(stem.replace(/\/$/,'')+'.md'),l.url);}
+ }
+ assert.equal(count,57);
+ for(const term of ['소화','노인','맥아'])assert.ok(reader.search(enriched,term).some(x=>x.row.reading),term);
+ assert.equal(reader.browse(enriched.filter(r=>r.reading)).length,48);
 });

@@ -8,13 +8,14 @@ search:
 
 [고전 원문·해석](../../classics-reader/index.md) › 동의보감 원문 열람
 
-한문 원문은 아래 **원문 검색**에서 찾습니다. 검색어를 모르면 **권별 원문 목록**을 열고, 이미지로 읽으려면 **편별 영인본 목차**에서 원하는 권을 선택합니다. 일반 아카이브 검색은 기존 질환·본초·방제·경혈 문서를 중심으로 유지합니다.
+**처음 읽는다면 ‘한국어 풀이 48항목’부터 시작하세요.** 주요 본초 42항목과 내경편의 처방·양생 6항목에서 원문 57구절을 골라 한국어 풀이, 용어 설명, 문맥 해설을 붙였습니다. 한문 원문과 한국어 풀이는 아래 **원문·풀이 검색**에서 찾습니다. 검색어를 모르면 **권별 원문 목록**을 열고, 이미지로 읽으려면 **편별 영인본 목차**에서 원하는 권을 선택합니다. 일반 아카이브 검색은 기존 질환·본초·방제·경혈 문서를 중심으로 유지합니다.
 
 ## 수록 범위와 읽는 방법 {#coverage}
 
 | 자료 | 이 화면에서 할 수 있는 일 | 현재 범위 |
 |---|---|---|
 | 원문 전사 | 한글 약재명·한자명·원문 구절로 검색하고 본문 읽기 | 탕액편 3권의 전사와 내경편 권1 신형·정의 확보된 부분 |
+| 한국어 풀이 | 선별 원문과 대응하는 풀이·용어·관련 문서 읽기 | 본초 42항목 + 내경편 6항목, 총 57구절. 전권 완역이 아닌 선별 해석 |
 | 전권 영인본 | 책과 페이지를 선택하여 원전 이미지 열람 | 국립중앙도서관 자료 `CNTS-00047980284`의 목판본 23권 25책 |
 | 임상 해설 | 원문에서 기존 본초·방제 문서로 이동 | 연결이 확인된 본초·방제부터 안내 |
 
@@ -27,14 +28,17 @@ search:
 <div id="dgb-reader">
 <p id="dgb-status" role="status">원문 열람기를 준비합니다.</p>
 <form id="dgb-search-form" role="search">
-<label for="dgb-query">한글·한자 약재명 또는 원문 구절</label>
-<input id="dgb-query" type="search" maxlength="200" placeholder="당귀 · 當歸 · 경옥고 · 黃連" autocomplete="off">
+<label for="dgb-query">한글·한자 약재명, 원문 구절 또는 풀이 속 단어</label>
+<input id="dgb-query" type="search" maxlength="200" placeholder="당귀 · 경옥고 · 노인 · 소화" autocomplete="off">
 <label for="dgb-group">검색할 범위</label>
 <select id="dgb-group"><option value="">수록 전사 전체</option><option value="tangaek-1">탕액편 권1</option><option value="tangaek-2">탕액편 권2</option><option value="tangaek-3">탕액편 권3</option><option value="naegyeong-fragments">내경편 권1 확보된 부분</option></select>
-<button type="submit">원문 검색</button>
+<button type="submit">원문·풀이 검색</button>
+<label><input id="dgb-reading-only" type="checkbox"> 한국어 풀이가 있는 항목만</label>
+<button id="dgb-readings" type="button">한국어 풀이 48항목</button>
 <button id="dgb-browse" type="button">권별 원문 목록</button>
 </form>
 <p>범위를 고른 뒤 목록을 열면 수록된 원문을 50항목씩 모두 둘러볼 수 있습니다. 한글명은 검색을 돕는 이름이며, 고전 약재와 현대 약재의 기원·부위·규격이 같다는 뜻은 아닙니다.</p>
+<p id="dgb-reading-note">풀이에서는 기력·회복, 소화·담음, 호흡·건조, 혈·월경, 근골·통증, 양생·노년 등을 다룹니다. 항목을 열면 선별 구절의 해석을 먼저 읽고, 수록 원문 전체를 펼쳐 앞뒤 문맥을 확인할 수 있습니다.</p>
 <div id="dgb-results" aria-live="polite"></div>
 <article id="dgb-passage" hidden></article>
 <h3 id="facsimile">전권 영인본</h3>
@@ -61,9 +65,10 @@ search:
 한의학고전DB의 본문·번역·교감 자료를 가져오지 않았습니다. 해당 DB는 [이용조건](https://info.mediclassics.kr/document/guide/license)에 따라 외부 참고 링크로만 안내합니다.
 
 - **전사 출처:** [한국어 위키문헌 동의보감 탕액편](https://ko.wikisource.org/wiki/동의보감/탕액편), [중국어 위키문헌 내경편 권1](https://zh.wikisource.org/wiki/東醫寶鑒/內景篇一). 저자 허준, 전사·편집 기여자 위키문헌 사용자들. 각 검색 결과에서 사용한 수정판의 고정 링크와 기여 이력을 제공합니다.
-- **전사 이용조건:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko). 이 화면의 가져온 전사와 이를 정리한 전사 데이터는 동일한 이용조건을 따릅니다. 텍스트 항목에는 위키 전사와 검색용 한글명·관련 문서 연결이 포함되며, 현대 번역은 포함되지 않습니다. 정본·완역본이라는 의미가 아닙니다.
+- **전사 이용조건:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko). 이 화면의 가져온 전사와 이를 정리한 전사 데이터는 동일한 이용조건을 따릅니다. 텍스트 항목에는 위키 전사와 검색용 한글명·관련 문서 연결이 포함되며, 한국어 풀이는 별도 데이터로 제공합니다. 정본·완역본이라는 의미가 아닙니다.
 - **전권 영인본:** [Wikimedia Commons 공개 파일과 서지](https://commons.wikimedia.org/wiki/File:CNTS-00047980284_1_東醫寶鑑.pdf). 국립중앙도서관 디지털 자료를 바탕으로 제공된 목판본 25책이며, 파일 설명의 `PD-scan / PD-South Korea` 표시를 확인했습니다. 이미지와 PDF는 제공처에서 불러옵니다.
 - **영인본 목차:** 각 책의 권두제 이미지를 대조해 편·권을 식별했습니다. 파일 제24책은 목록 권2, 제25책은 목록 권1입니다. 원전의 목차 순서와 파일 번호를 구분하며, 간행연도·정본 여부는 별도로 확인합니다.
-- **자체 설명:** 아카이브의 해설과 임상 문서는 [콘텐츠 이용 안내](../../guide/content-use.md)를 따릅니다. 공개 전사·영인본의 이용조건과 자체 해설의 이용조건을 구분합니다.
+- **선별 한국어 풀이:** 이 열람기에 추가한 48항목의 한국어 해석·용어 설명·문맥 해설은 민성 한의학 아카이브가 작성했으며, 재사용한 전사와 동일한 **CC BY-SA 4.0**으로 제공합니다. 출처의 글자를 임의로 보충하지 않으며, 누락·기원 혼동·과장된 효능 표현은 문맥에서 설명합니다. 전권 완역이나 현대 임상 효능의 검증을 뜻하지 않습니다.
+- **그 밖의 자체 설명:** 아카이브의 해설과 임상 문서는 [콘텐츠 이용 안내](../../guide/content-use.md)를 따릅니다. 공개 전사·영인본의 이용조건과 자체 해설의 이용조건을 구분합니다.
 
 → [동의보감 개요](../donguibogam.md) · [동의보감 임상 탐색 네트워크](../../donguibogam-network/index.md) · [탕액편 임상 지도](../donguibogam-tangaek.md) · [사이트 검색 안내](../../search-guide.md)

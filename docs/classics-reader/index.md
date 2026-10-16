@@ -10,7 +10,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 <a class="ms-card" href="/shanghan-network/#complete-clauses"><strong>상한론 傷寒論</strong><span>통행 398조 원문·한국어 독해<br>육경병·조문 번호로 찾기 →</span></a>
 <a class="ms-card" href="/jingui-network/#complete-chapters"><strong>금궤요략 金匱要略</strong><span>제1–22편 임상 원문·한국어 독해<br>편명·병증으로 찾기 →</span></a>
 <a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
-<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>수록 원문 검색·전권 영인본<br>약재명·한자 구절·편목으로 찾기 →</span></a>
+<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>48항목 선별 한국어 풀이·전권 영인본<br>원문·풀이 속 단어로 찾기 →</span></a>
 </div>
 
 ## 어디부터 읽으면 좋을까요? {#start}
@@ -57,6 +57,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 
 **수록:** 검색 가능한 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
 
+- **한국어 풀이:** [48항목 모아 보기](../classics/donguibogam/original.md?reading=1#reader). 본초 42항목과 내경편 6항목의 선별 원문 57구절에 풀이·용어·문맥 설명을 붙였습니다.
 - **원문 검색:** [원문 열람기](../classics/donguibogam/original.md#reader)에서 `당귀`, `當歸`, `경옥고` 같은 이름이나 한자 구절을 입력하세요. 검색어가 없으면 ‘권별 원문 목록’을 엽니다.
 - **책 이미지로 읽기:** [전권 영인본 목차](../classics/donguibogam/original.md#facsimile)에서 편·권을 선택하세요.
 - **처음 읽기:** [선별 원문과 임상 해석](../classics/donguibogam.md#selected-clinical-passages).
