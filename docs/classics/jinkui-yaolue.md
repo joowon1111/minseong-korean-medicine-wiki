@@ -42,6 +42,12 @@ last_reviewed: 2026-08-19
 
 [임신병의 출혈·복통 비교](jinkui-yaolue/chapters/pregnancy.md#pregnancy-comparison)는 기존 징과 누하, 포조, 복부 당김을 구분합니다. [산후병의 경과 비교](jinkui-yaolue/chapters/postpartum.md#postpartum-comparison)는 출혈·땀 뒤 굳은 변과 회복 뒤 다시 나타난 위실, 허한성 복통과 남은 정체를 나란히 읽습니다. [부인잡병 비교](jinkui-yaolue/chapters/gynecology.md#gynecology-comparison)에서는 온경탕의 냉감·건조·번열, 당귀작약산과 소건중탕의 차이뿐 아니라 반하후박탕·감맥대조탕의 실제 관찰 표현까지 이어집니다. 병증 이름을 외우기보다 같은 증상의 앞뒤 조건이 왜 달라지는지 살피는 경로입니다.
 
+### 갈증·배뇨·부종을 함께 비교하는 예 {#fluid-comparison}
+
+[소갈·소변편의 비교표](jinkui-yaolue/chapters/thirst-urination.md#thirst-formula-comparison)는 신기환의 많은 소변, 오령산의 소변불리·수역, 저령탕의 열·갈증·배뇨 불편을 구분합니다. [수기병 비교](jinkui-yaolue/chapters/water-qi.md#water-pattern-comparison)는 부종의 위치와 땀·호흡·경과를, [황달편 비교](jinkui-yaolue/chapters/jaundice.md#jaundice-comparison)는 발황에 겹친 식사·배설·복부 증상과 여러 치법을 살핍니다.
+
+세 편에 반복되는 갈증·소변불리라는 말만으로 같은 처방을 고르지 않습니다. 실제 원방의 약미·제형·가감과 진액 소모에 대한 제한을 함께 읽으면 ‘수기에는 모두 이수한다’는 단순한 도식에서 벗어나 문헌이 구별한 조건을 확인할 수 있습니다.
+
 ### 허로와 허손을 비교하는 예 {#deficiency-comparison}
 
 금궤요략의 허로 문목을 읽은 뒤 [경악전서](jingyue-quanshu.md)의 허손·보법을 보면, 병증과 처방 중심 설명이 후대에 음양·장부·치법의 분류와 어떻게 연결되는지 비교할 수 있습니다. 서로 다른 시대의 용어를 완전히 같은 범주로 간주하지 않고 공통 관찰점과 다른 해석을 나눕니다.

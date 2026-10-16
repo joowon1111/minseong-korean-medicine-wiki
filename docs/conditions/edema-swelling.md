@@ -54,6 +54,8 @@ last_reviewed: '2026-08-29'
 | **어혈수정** | 한쪽이나 특정 부위가 단단하고 통증 | 활혈통락 |
 | **습열** | 붉음·열감·소변 불편 | 감염 감별 후 청열이습 |
 
+《금궤요략》의 [수기병 비교](../classics/jinkui-yaolue/chapters/water-qi.md#water-pattern-comparison)는 붓는 위치뿐 아니라 바람을 싫어하는지, 땀·갈증·소변·호흡이 어떻게 동반되는지 기록합니다. [14.7](../classics/jinkui-yaolue/chapters/water-qi.md#clause-14-007)은 평소 배뇨와 최근 변화를, [14.20](../classics/jinkui-yaolue/chapters/water-qi.md#clause-14-020)은 월경 중단과 붓기의 발생 순서를 비교합니다. 이는 변증을 이해하는 역사적 자료이며, 위의 원인별 검사·진료와 구별합니다.
+
 ## 한약·침·뜸 치료 {#_6}
 
 부종 관련 본초는 복령·의이인·택사·저령·백출처럼 이수·거습·건비의 방향을 함께 살펴봅니다. 각각을 같은 ‘물 빼는 약’으로 묶기보다 소화·기력·갈증·냉열과 배합 목적을 구분합니다. [부종 관련 본초](../herbal-integrated/herbs-for-edema.md)에서 성미와 처방 연결을 이어 볼 수 있습니다.
