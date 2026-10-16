@@ -57,6 +57,8 @@ last_reviewed: 2026-09-21
 
 맥아의 소식·건비 역할은 처방의 배합 안에서 살피고, 제품의 소화효소 활성은 효소 종류·시험조건·1회 섭취량으로 비교합니다. [신곡·맥아·곡물효소 비교표](../conditions/grain-fermented-enzymes.md#grain-herb-comparison) · [소화 한약과 곡물효소의 역할](../herbal-integrated/formula-for-digestion.md#grain-enzyme-combination)
 
+발아한 보리는 씨앗 자체의 생리 변화가 중심이고, 유산균 발효는 접종한 미생물의 대사에 의한 변화가 중심입니다. 두 과정 모두 효소와 관계가 있다는 사실이 제조법의 동일함을 뜻하지는 않습니다. 약재를 볶거나 달인 뒤의 상태와 식품용 효소 분말의 활성을 비교할 때도 제형·시험조건을 맞춥니다. [발효한약·효소·생균 구분](../herbal-integrated/fermented-herbal-medicine.md#terms) · [효소역가의 단위 비교](../conditions/grain-fermented-enzymes.md#activity-units)
+
 ## 생맥아·초맥아·초맥아탄 {#_6}
 
 - **생맥아:** 소식건비와 발아 약재의 특성을 중심으로 활용합니다.

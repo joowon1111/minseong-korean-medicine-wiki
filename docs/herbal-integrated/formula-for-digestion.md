@@ -79,6 +79,12 @@ last_reviewed: 2026-09-06
 
 제품별 원료·효소 활성과 사람 연구의 차이는 [곡물효소의 작용과 연구](../conditions/grain-fermented-enzymes.md#research-summary), 장 점막·미생물·면역의 관계는 [장·비위와 전신 회복](../immune-allergy/gut-recovery.md#gut-mucosal-immunity)에서 이어 볼 수 있습니다.
 
+### 발효한약으로 바꿀 때도 병증과 제형을 함께 봅니다 {#fermented-formula-choice}
+
+발효는 제조 과정이고, 비위기허·식적·담습·한열착잡은 처방 선택에 사용하는 병증의 구분입니다. 발효 여부를 검토하더라도 식후팽만·오심·섭취량·배변·피로를 묶어 처방의 목적을 먼저 정합니다. 일반 탕약과 발효 제제의 맛·복용 편의가 다르다면 그 차이도 기록하되, 특정 성분의 혈중 노출 증가와 소화 증상 개선은 별도로 확인합니다.
+
+같은 이름의 처방을 바꾸는 경우에는 약미·원료 환산량·추출과 발효 공정·부원료가 같은지 비교합니다. [발효한약의 원리·품질·사람 연구](fermented-herbal-medicine.md)와 [효소식품·의약품의 구분](../conditions/grain-fermented-enzymes.md#product-types)에서 제형 선택에 필요한 정보를 이어 봅니다.
+
 ## 지식망 연결 {#_5}
 
 - [소화불편과 함께 있는 증상에서는 어떤 처방군을 비교하나요?](by-symptom-treatment.md)
