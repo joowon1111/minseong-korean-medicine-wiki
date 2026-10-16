@@ -69,6 +69,8 @@ last_reviewed: 2026-09-16
 | 면역력·피로·회복의 처방 | [면역·회복 안내](../immune-allergy/index.md) |
 | 청열해독·습열과 해독의 의미 | [해독·청열해독](detoxification.md) |
 | 다이어트 한약의 변증과 처방 | [체중관리 한약](../conditions/weight-management-herbal.md) |
+| 발효한약의 원리·흡수·품질과 사람 연구 | [발효한약 안내](fermented-herbal-medicine.md) |
+| 효소식품·소화효소·유산균의 차이 | [곡물효소·발효효소](../conditions/grain-fermented-enzymes.md#product-types) |
 | 원전·논문·임상근거 | [근거·출전](evidence.md) |
 
 ## 환자 증상에서 시작하기
