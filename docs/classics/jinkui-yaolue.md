@@ -48,6 +48,12 @@ last_reviewed: 2026-08-19
 
 세 편에 반복되는 갈증·소변불리라는 말만으로 같은 처방을 고르지 않습니다. 실제 원방의 약미·제형·가감과 진액 소모에 대한 제한을 함께 읽으면 ‘수기에는 모두 이수한다’는 단순한 도식에서 벗어나 문헌이 구별한 조건을 확인할 수 있습니다.
 
+### 구토·복만·하리를 함께 비교하는 예 {#digestive-comparison}
+
+[구토·하리편](jinkui-yaolue/chapters/vomiting-diarrhea.md#reading-patterns)은 구토에 흉만·갈증·미열·궐이 겹칠 때 어떤 조문과 방이 달라지는지 보여 줍니다. 문합탕과 문합산, 귤피탕과 귤피죽여탕처럼 가까운 이름도 실제 약미·제형·단위를 대조합니다. [복만·한산·숙식편](jinkui-yaolue/chapters/abdominal-cold-food.md#reading-patterns)에서는 복만의 완화 여부, 배변 곤란과 허한, 하리 중 남은 숙식을 구분합니다.
+
+두 편의 연결점인 [대승기탕 비교표](../formulas/dachengqi-tang.md#jingui-retention-comparison)를 읽으면 하리를 모두 같은 병기로 묶을 수 없는 이유가 드러납니다. 현대 연구는 [기능성 변비 한약 근거 지도](../authority/formulas/functional-constipation-herbal-map.md)로 이어지며, 고전의 숙식과 임상시험의 기능성 변비 선정 조건을 별개로 확인합니다.
+
 ### 허로와 허손을 비교하는 예 {#deficiency-comparison}
 
 금궤요략의 허로 문목을 읽은 뒤 [경악전서](jingyue-quanshu.md)의 허손·보법을 보면, 병증과 처방 중심 설명이 후대에 음양·장부·치법의 분류와 어떻게 연결되는지 비교할 수 있습니다. 서로 다른 시대의 용어를 완전히 같은 범주로 간주하지 않고 공통 관찰점과 다른 해석을 나눕니다.

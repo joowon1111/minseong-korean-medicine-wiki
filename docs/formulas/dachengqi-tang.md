@@ -80,6 +80,20 @@ description: 공하·행기·연견의 구성, 유사 처방과의 차이, 진�
 
 209조는 대변이 굳었는지 불확실한 상황에서 소승기탕을 조금 주어 방귀가 도는지 등을 관찰하는 논의를 포함합니다. 이 원문은 하법을 시행하기 전에 조건과 반응을 구별하는 예이지, 현대의 자가 복용·진단 절차가 아닙니다. 방후문에는 하리가 이루어지면 뒤의 복용을 멈추는 기준도 있습니다. 통하 뒤 대변·복부·갈증·활력이 어떻게 달라졌는지를 보아야 하며, 배변 횟수만으로 공하를 계속하지 않습니다. [209조](../classics/shanghanlun/clauses/yangming.md#clause-209)
 
+## 금궤요략의 복만·숙식·하리 비교 {#jingui-retention-comparison}
+
+《금궤요략》의 대승기탕 주치는 대변이 나오지 않는 상황만 다루지 않습니다. 복만이 줄어드는 정도, 음식 정체의 단서, 하리 속에 남은 실한 상태를 서로 다른 조문으로 제시합니다.
+
+| 원문 위치 | 직접 적힌 조건 | 비교할 점 |
+|---|---|---|
+| [10.13](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md#clause-10-013) | 복만이 줄지 않거나 줄어도 미미함 | 때때로 줄었다 돌아오는 10.3의 한성 복만과 대비 |
+| [10.21–22](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md#clause-10-021) | 숙식과 서로 다른 맥의 조합 | 부대·삽과 삭활을 하나의 맥으로 합치지 않기 |
+| [10.23](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md#clause-10-023) | 하리하며 먹으려 하지 않음 | 배출 중이라는 사실과 정체가 해소되었다는 판단의 구별 |
+| [17.37–39](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-037) | 심하견, 지활맥, 제거할 것이 남은 상태 | 각 조문의 복부·맥 조건을 따로 읽기 |
+| [17.41](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-041) | 하리·섬어·조시에는 소승기탕 | 같은 승기법에서도 실제로 지정한 방을 보존 |
+
+이 비교는 고전의 하법 조건을 이해하기 위한 것입니다. ‘설사에도 대승기탕’이라는 단독 문구로 요약하면 허한성 하리에 먼저 온리를 논하는 조건이 빠집니다. 현대의 만성 기능성 변비 연구는 [한약 근거 지도](../authority/formulas/functional-constipation-herbal-map.md)에서 연구 대상·가감방·대조군을 따로 확인합니다. 여러 변비 처방을 묶은 메타분석 결과가 곧 대승기탕 원방의 모든 고전 주치를 입증하는 것은 아닙니다.
+
 ## 감별 포인트 {#_3}
 소승기탕보다 열결·조실이 강하고 망초를 포함해 준하열결의 힘이 강하다.
 
