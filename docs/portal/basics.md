@@ -17,6 +17,7 @@ hide:
 <a class="ms-card" href="/evidence-integrated/"><strong>근거·임상연구</strong><span>연구를 진료에 연결하기 →</span></a>
 <a class="ms-card" href="/clinical-reasoning/"><strong>임상 추론</strong><span>증상에서 판단까지 →</span></a>
 <a class="ms-card" href="/clinical-safety/"><strong>안전·감별</strong><span>먼저 확인할 신호 →</span></a>
+<a class="ms-card" href="/classics-reader/"><strong>고전 원문·해석</strong><span>상한론·금궤요략·동의수세보원·동의보감 →</span></a>
 <a class="ms-card" href="/history/"><strong>의사학·한의학사</strong><span>시대별 흐름과 학파 →</span></a>
 </div>
 
@@ -157,6 +158,8 @@ AI는 방대한 문헌을 대신 읽고 결론을 내려주는 권위자가 아�
 문집·의안·경험방에서 AI가 찾아낸 본초 조합이나 동시 출현 양상은 후속 조사를 위한 단서입니다. OCR 오류, 누락된 문헌, 수집 자료의 편향이 있을 수 있고, 반복 기록이나 역사적 명성이 현대의 효과·안전성을 입증하지는 않습니다. 중요한 주장은 판본과 원문 위치를 확인하고, 임상적 판단은 별도의 현대 연구와 안전성 자료로 검토해야 합니다. AI의 답변은 출전 확인 전까지 검증이 필요한 가설로 다룹니다.
 
 ## 전통 문헌의 출전을 확인할 때
+
+**네 책의 원문을 바로 읽으려면 [고전 원문·해석](../classics-reader/index.md)에서 책을 선택하세요.** 책별 수록 범위와 처음 읽을 위치를 함께 안내합니다.
 
 이 아카이브의 고전 원문·독해 자료는 전통 이론의 출전과 문맥을 확인하고 현대 임상과 구분해 읽도록 구성했습니다. 각 문서는 고전 원문을 단순 나열하지 않고, **원문·편명과 문맥 → 현대어 해설 → 병증·치법 → 관련 본초·방제·침구 → 현대 임상·근거**의 순서로 연결합니다.
 
