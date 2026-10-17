@@ -1,13 +1,13 @@
 ---
 title: 민성 한의학 아카이브
-description: 경혈·본초·한약 처방·사상의학과 상한론·동의보감 원문 해설, 질환별 한의치료와 현대 임상연구를 연결하는 비상업적 한의학 지식 아카이브입니다.
+description: 민성 한의학 아카이브는 상한론, 금궤요략, 동의보감, 동의수세보원 원문 해설과 한약 처방, 본초, 경혈 및 현대 한의학 자료를 체계적으로 연결한 공개 지식 아카이브입니다.
 hide:
   - toc
 ---
 <div class="ms-hero ms-home">
 <h1>민성 한의학 아카이브</h1>
 <div class="ms-home-intro">
-<p>한의학의 기초이론부터 경혈·경락·침구치료, 본초학·한약·방제학, 사상의학, 상한론·동의보감 등 주요 한의학 고전과 <span class="ms-intro-phrase">현대 임상연구까지</span> 체계적으로 연결한 한의학 전문 지식 아카이브입니다.</p>
+<p>한의학의 기초이론부터 경혈·경락·침구치료, 본초학·한약·방제학, 사상의학, 상한론·동의보감 등 주요 한의학 고전과 <span class="ms-intro-phrase">현대 임상연구까지</span> 체계적으로 연결한 교육·학술 목적의 공개 지식 아카이브입니다.</p>
 </div>
 <p class="km-guide-entry" lang="en"><a href="korean-medicine-guide/"><span class="km-guide-label"><span>Korean Medicine Guide</span> <span class="km-guide-hint">Start here in English</span></span><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a></p>
 </div>
@@ -215,7 +215,7 @@ hide:
 
 ## 누가 운영하나요? {#publisher}
 
-**민성 한의학 아카이브는 민성한의원이 구축하고 운영하는 공개 지식 아카이브**입니다. 증상 안내와 전통 한의학 자료, 현대 연구를 연결해 제공합니다.
+**민성 한의학 아카이브는 민성한의원이 구축하고 운영하는 비상업적 교육·학술 자료 사이트**입니다. 고전 원문 해설, 본초·방제·경혈, 사상의학과 현대 연구를 함께 공부할 수 있도록 연결합니다. 진료 안내를 제공하는 민성한의원 공식 홈페이지와 구분하여 운영합니다.
 
 [아카이브의 목적과 운영 주체](guide/index.md#publisher) · [출처·인용 원칙](guide/citation-policy.md) · [민성한의원 공식 홈페이지](https://minseong.co.kr/)
 
@@ -228,19 +228,27 @@ hide:
     {
       "@type": "Organization",
       "@id": "https://wiki.minseong.co.kr/#publisher",
-      "name": "민성한의원",
-      "url": "https://minseong.co.kr/"
+      "name": "민성 한의학 아카이브",
+      "url": "https://wiki.minseong.co.kr/",
+      "alternateName": "민성한의학아카이브",
+      "parentOrganization": {
+        "@type": "Organization",
+        "@id": "https://www.minseong.co.kr/#organization",
+        "name": "민성한의원",
+        "url": "https://www.minseong.co.kr/"
+      }
     },
     {
       "@type": "WebSite",
       "@id": "https://wiki.minseong.co.kr/#website",
       "url": "https://wiki.minseong.co.kr/",
       "name": "민성 한의학 아카이브",
-      "description": "경혈·경락·침구치료, 본초·한약·방제학, 사상의학, 상한론·동의보감과 현대 임상연구를 연결한 한의학 전문 지식 아카이브. 경혈·한약 처방 검색, 질환별 정보, 학습실·퀴즈, 하루 한의학과 민성의담을 제공하는 비상업적 교육·연구·정보 공유 플랫폼입니다.",
+      "description": "민성 한의학 아카이브는 상한론, 금궤요략, 동의보감, 동의수세보원 원문 해설과 한약 처방, 본초, 경혈 및 현대 한의학 자료를 체계적으로 연결한 공개 지식 아카이브입니다.",
       "inLanguage": "ko-KR",
       "publisher": {
         "@id": "https://wiki.minseong.co.kr/#publisher"
-      }
+      },
+      "alternateName": "민성한의학아카이브"
     }
   ]
 }
