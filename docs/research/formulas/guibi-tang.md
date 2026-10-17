@@ -15,7 +15,7 @@ last_reviewed: 2026-08-19
 
 제목이 ‘Guipi decoction for insomnia: Systematic review and meta-analysis’인 2020년 논문은 **이미 연구를 완료해 결과를 합산한 문헌이 아니라, 앞으로 검토할 검색·분석 방법을 적은 프로토콜**입니다. 본문에 검색·평가를 ‘할 것’이라고 쓰고 결과 수치를 제시하지 않습니다. 이를 실제 효과가 확인된 메타분석으로 인용하지 않습니다. [연구계획 PMID 32629727](https://pubmed.ncbi.nlm.nih.gov/32629727/)
 
-기존에 이 문서에 인용된 **PMID 22440393**은 귀비탕 연구가 아니라 **산조인탕(Suanzaoren decoction)**의 불면 체계적 고찰을 가리킵니다. 처방명이 다른 논문을 귀비탕 근거로 연결하지 않도록 바로잡았습니다. [해당 논문 PMID 22440393](https://pubmed.ncbi.nlm.nih.gov/22440393/)
+기존에 이 문서에 인용된 **PMID 22440393**은 귀비탕 연구가 아니라 산조인탕(Suanzaoren decoction)의 불면 체계적 고찰을 가리킵니다. 처방명이 다른 논문을 귀비탕 근거로 연결하지 않도록 바로잡았습니다. [해당 논문 PMID 22440393](https://pubmed.ncbi.nlm.nih.gov/22440393/)
 
 ## 정서 증상: 병용 연구의 범위 {#mood-evidence}
 
