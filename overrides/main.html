@@ -2,7 +2,7 @@
 
 {% block htmltitle %}
   {% if page.is_homepage %}
-    <title>{{ config.extra.homepage_title | default(config.site_name, true) }}</title>
+    <title>{{ config.extra.homepage_title | default(config.site_name, true) | e }}</title>
   {% elif page and page.meta.search_title %}
     <title>{{ page.meta.search_title | e }} - {{ config.site_name | e }}</title>
   {% else %}
@@ -12,6 +12,9 @@
 
 {% block extrahead %}
   {{ super() }}
+  {% if page and page.is_homepage %}
+    <meta property="og:title" content="{{ config.extra.homepage_title | default(config.site_name, true) | e }}" />
+  {% endif %}
   <meta name="google-site-verification" content="lQGiH8kyade_mMZ43jkTjY_zlgYdIhI-aNUg0w5pvfc" />
 {% endblock %}
 

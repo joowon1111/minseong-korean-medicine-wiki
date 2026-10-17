@@ -1,5 +1,5 @@
 site_name: 민성 한의학 아카이브
-site_description: 경혈·본초·한약 처방·사상의학과 상한론·동의보감 원문 해설, 질환별 한의치료와 현대 임상연구를 연결하는 비상업적 한의학 지식 아카이브입니다.
+site_description: 민성 한의학 아카이브는 상한론, 금궤요략, 동의보감, 동의수세보원 원문 해설과 한약 처방, 본초, 경혈 및 현대 한의학 자료를 체계적으로 연결한 공개 지식 아카이브입니다.
 site_url: https://wiki.minseong.co.kr/
 site_author: 민성 한의학 아카이브
 copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
@@ -32,7 +32,7 @@ extra_css:
 - assets/donguisusebowon/reader.css
 extra:
   generator: false
-  homepage_title: 민성 한의학 아카이브
+  homepage_title: 민성 한의학 아카이브 | 한의학 고전·본초·방제·경혈·사상의학
 hooks:
 - tools/acupoint_diagrams.py
 - tools/sitemap_lastmod.py
