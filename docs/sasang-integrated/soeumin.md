@@ -74,6 +74,8 @@ last_reviewed: '2026-09-21'
 
 ### 신수열표열병: 울광과 망양
 
+원문으로는 [망양의 정의](../classics/donguisusebowon/original.md#soeum-mangyang-definition), [식사 중 발한과 평소 설사를 기록한 병례](../classics/donguisusebowon/original.md#soeum-usual-sweat-case), [화해와 사하의 순서](../classics/donguisusebowon/original.md#soeum-treatment-sequence)를 나란히 읽습니다.
+
 소음인의 표병은 신국의 양난지기가 올라와 겉을 따뜻하게 하는 흐름이 막히는 방향으로 설명합니다. 울광병에서는 오한·발열, 두통·신체통과 땀의 양상을 보고, 망양병에서는 **발한과 함께 기력·회복력이 크게 떨어지는지**를 중요하게 봅니다.
 
 | 병증 방향 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |

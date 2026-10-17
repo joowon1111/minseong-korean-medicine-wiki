@@ -44,6 +44,8 @@ last_reviewed: '2026-09-21'
 
 ### 외감요척병·해역
 
+[상체·하체 기능을 대비한 해역 구절](../classics/donguisusebowon/original.md#taeyang-haeyeok-function), [열격이 겹칠 때의 경중](../classics/donguisusebowon/original.md#taeyang-combined-pattern)을 원문·한국어 풀이로 읽습니다.
+
 해역은 요척과 하지의 지탱 기능이 약해져 오래 서거나 걷기 어렵고 다리가 풀리는 듯한 방향을 설명하는 태양인의 대표 병증입니다. 실제 진료에서는 단순 피로와 구분하기 위해 근력·감각·반사, 보행과 균형, 통증·관절가동범위를 함께 확인합니다.
 
 | 확인 영역 | 구체적으로 볼 내용 |

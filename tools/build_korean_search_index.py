@@ -102,10 +102,6 @@ def main():
 
         raw = p.read_text(encoding="utf-8-sig", errors="ignore")
         fm, body = strip_frontmatter(raw)
-        # Large classical corpora have their own lazy search index.
-        # Keep their reader page out of the ordinary clinical ranking.
-        if p.relative_to(DOCS).as_posix() == "classics/donguibogam/original.md":
-            continue
         title = title_from(fm, body, p)
         plain = clean_markdown(body)
         keys = keyword_set(title, plain, fm)
@@ -115,12 +111,19 @@ def main():
             keys = sorted(set(keys) | {c["title"] for c in deck["cards"]} |
                           {alias for c in deck["cards"] for alias in c.get("aliases", [])})
 
+        # Curated classical explanations are searchable through their final section.
+        # The 1,580-record Donguibogam corpus remains in separate lazy-loaded JSON.
+        selected_classics = p.relative_to(DOCS).as_posix() in {
+            "classics/donguibogam/original.md", "classics/donguisusebowon/original.md"
+        }
+        excerpt = plain if selected_classics else plain[:5000]
+
         # 검색 품질을 위해 너무 짧은 문서도 유지하되, 텍스트는 충분히 수록한다.
         rows.append({
             "title": title,
             "url": url_from(p),
             "keywords": keys,
-            "text": plain[:5000],
+            "text": excerpt,
             "snippet": plain[:260],
             "boost": path_boost(p),
         })
