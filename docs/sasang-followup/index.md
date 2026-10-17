@@ -22,4 +22,6 @@ description: 체질개선의 목표에서 초진 기록, 소증·현증 변화, 
 | 회복 목표를 정할 때 | 체질별로 살피는 회복 항목과 생활 기능 | [체질별 회복 추적](constitution-recovery.md) |
 | 증상이 안정된 뒤 | 생활관리와 개인별 재발 조기신호 기록 | [재발예방·생활관리](relapse-prevention.md) |
 
+설사·발한·열감은 줄었는데 식사나 활동이 더 나빠졌다면 [증상 감소와 회복이 엇갈리는 경우](../sasang-symptoms/index.md#discordant-recovery)를 함께 확인합니다.
+
 초진부터 회복기까지 한 흐름으로 기록하려면 [진료 경과기록 템플릿](clinical-template.md)을 참고하세요. 평가 방법의 출처는 [사상의학 추적관찰 근거·참고문헌](references.md)에서 확인할 수 있습니다.
