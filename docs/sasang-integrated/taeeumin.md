@@ -72,6 +72,8 @@ last_reviewed: '2026-09-21'
 
 ### 위완수한표한병
 
+[장감병의 경과](../classics/donguisusebowon/original.md#taeeum-long-cold)와 [쾌한의 모양·지속시간](../classics/donguisusebowon/original.md#taeeum-sweat-quality)을 원문으로 읽으면 발한량만으로 회복을 판단하지 않는 이유를 이해할 수 있습니다.
+
 위완수한표한병은 위완의 상승·호산 기능이 충분히 펴지지 못해 표부에 한증이 나타나는 방향입니다. ‘위가 차다’는 소화기 증상 하나보다 오한, 몸살·무거움, 발한불리, 두통·신체통, 호흡기 불편과 식후 반응을 함께 봅니다.
 
 | 단계·방향 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |

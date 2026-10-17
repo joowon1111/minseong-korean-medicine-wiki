@@ -1,4 +1,4 @@
-"""Protect source provenance, reader URLs and isolation from normal search."""
+"""Protect source provenance and keep bulk text separate from curated explanations."""
 import hashlib,json
 from pathlib import Path
 import unittest
@@ -17,7 +17,11 @@ class CorpusTests(unittest.TestCase):
   self.assertEqual(len(ids),1580)
   for source in sources.values():self.assertEqual(source['license'],'CC-BY-SA-4.0');self.assertIn('oldid='+str(source['revision']),source['url']);self.assertNotIn('mediclassics',source['url'])
  def test_text_is_not_embedded_in_main_search_or_markdown_pages(self):
-  page=(ROOT/'docs/classics/donguibogam/original.md').read_text();self.assertIn('exclude: true',page)
+  page=(ROOT/'docs/classics/donguibogam/original.md').read_text();self.assertNotIn('exclude: true',page)
+  # Selected excerpts may be indexed; complete bulk records must stay external.
+  for group in json.loads((BASE/'manifest.json').read_text())['groups'].values():
+   for row in json.loads((BASE/group['file']).read_text()):
+    if len(row['text']) > 200: self.assertNotIn(row['text'],page)
   script=(ROOT/'docs/assets/korean-search-185.js').read_text();self.assertNotIn('tangaek-1.json',script);self.assertNotIn('manifest.json',script)
   bootstrap=(BASE/'bootstrap.js').read_text();self.assertIn('if(!root || root.dataset.dgbReady)return',bootstrap)
  def test_source_alias_location_and_published_deep_links(self):

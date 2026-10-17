@@ -157,8 +157,8 @@ hide:
 |---|---|---|
 | 상한론 | [통행 398조 목차](../shanghan-network/index.md#complete-clauses) | [태양병 첫 조문·한국어 독해](../classics/shanghanlun/clauses/taiyang-upper.md#clause-001) · [처방 계열](../formula-architecture/shanghan-family.md) |
 | 금궤요략 | [제1–22편 임상 원문·독해](../jingui-network/index.md#complete-chapters) | [소화·복만](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md) · [기침·상기](../classics/jinkui-yaolue/chapters/lung-cough.md) · [백합병](../classics/jinkui-yaolue/chapters/lily-fox-yinyang.md) · [부인 잡병](../classics/jinkui-yaolue/chapters/gynecology.md) |
-| 동의수세보원 | [직접 전사한 12개 원문·한국어 풀이](../classics/donguisusebowon/original.md) | [평소 증상별 원문](../sasang-original-symptoms/index.md) · [체질·병증·처방](../donguisusebowon-network/index.md) |
-| 동의보감 | [수록 원문 검색·전권 영인본](../classics/donguibogam/original.md) | [선별 원문 해석](../classics/donguibogam.md#selected-clinical-passages) · [5편 임상 색인](../donguibogam-network/index.md) |
+| 동의수세보원 | [체질별 병론을 포함한 40개 원문·한국어 풀이](../classics/donguisusebowon/original.md) | [평소 증상별 원문](../sasang-original-symptoms/index.md) · [체질·병증·처방](../donguisusebowon-network/index.md) |
+| 동의보감 | [다섯 편 36개 원문·풀이와 전사 검색](../classics/donguibogam/original.md) | [선별 원문 해석](../classics/donguibogam.md#selected-clinical-passages) · [5편 임상 색인](../donguibogam-network/index.md) |
 
 상한론·금궤요략의 조문별 독해, 동의수세보원의 검색 가능한 선별 원문·자체 풀이, 동의보감의 검색 전사와 영인본은 수록 방식이 다릅니다. 네 책 모두의 전문·완역을 제공한다는 의미는 아니며 자세한 범위는 각 입구에서 안내합니다.
 

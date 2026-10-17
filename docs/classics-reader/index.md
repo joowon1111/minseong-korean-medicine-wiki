@@ -10,7 +10,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 <a class="ms-card" href="/shanghan-network/#complete-clauses"><strong>상한론 傷寒論</strong><span>통행 398조 원문·한국어 독해<br>육경병·조문 번호로 찾기 →</span></a>
 <a class="ms-card" href="/jingui-network/#complete-chapters"><strong>금궤요략 金匱要略</strong><span>제1–22편 임상 원문·한국어 독해<br>편명·병증으로 찾기 →</span></a>
 <a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
-<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>수록 원문 검색·전권 영인본<br>약재명·한자 구절·편목으로 찾기 →</span></a>
+<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 36개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
 </div>
 
 ## 어디부터 읽으면 좋을까요? {#start}
@@ -44,7 +44,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 
 ## 동의수세보원 — 개념·소증·병증을 함께 읽기 {#donguisusebowon}
 
-**수록:** 1941년 석판본 이미지에서 직접 옮긴 **「사상인변증론」 12개 발췌 원문·자체 한국어 풀이**와 기존 개념·소증·병증별 해석. 책 전체의 연속 원문이나 완역본은 아닙니다. ‘소증’은 평소의 소화·땀·대변·수면 등 상태를 가리키며, 현재 병증을 읽는 자료와 연결됩니다.
+**수록:** 1941년 석판본 이미지에서 직접 옮긴 **사단론·네 체질의 병론·처방 논평·사상인변증론 40개 핵심 원문·자체 한국어 풀이**와 기존 개념·소증·병증별 해석. 책 전체의 연속 원문이나 완역본은 아닙니다. ‘소증’은 평소의 소화·땀·대변·수면 등 상태를 가리키며, 현재 병증을 읽는 자료와 연결됩니다.
 
 - **원문을 바로 읽기:** [아카이브 내부 원문·풀이](../classics/donguisusebowon/original.md). `소화`, `땀`, `明知其人` 등으로 찾고 대조한 책 이미지도 열어 볼 수 있습니다.
 - **처음 읽기:** [소음인의 음식 소화](../classics/donguisusebowon/original.md#wellbeing-digestion) → [핵심 원문·개념 해석](../sasang/donguisusebowon.md).
@@ -55,11 +55,11 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 
 ## 동의보감 — 원문 검색·책 이미지·해석을 골라 읽기 {#donguibogam}
 
-**수록:** 검색 가능한 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
+**수록:** 내경·외형·잡병·탕액·침구 **다섯 편의 핵심 36대목 원문·자체 한국어 풀이**와 기존 대표 처방 해설을 제공합니다. 전용 열람기로 검색 가능한 대량 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
 
 - **원문 검색:** [원문 열람기](../classics/donguibogam/original.md#reader)에서 `당귀`, `當歸`, `경옥고` 같은 이름이나 한자 구절을 입력하세요. 검색어가 없으면 ‘권별 원문 목록’을 엽니다.
 - **책 이미지로 읽기:** [전권 영인본 목차](../classics/donguibogam/original.md#facsimile)에서 편·권을 선택하세요.
-- **처음 읽기:** [선별 원문과 임상 해석](../classics/donguibogam.md#selected-clinical-passages).
+- **처음 읽기:** [다섯 편 핵심 구문 지도](../classics/donguibogam/original.md#selected-passages) → [대표 처방의 긴 해설](../classics/donguibogam.md#selected-clinical-passages).
 - **주제별로 찾기:** [내경·외형·잡병·탕액·침구 5편 색인](../donguibogam-network/index.md) · [탕액편 본초 해설](../classics/donguibogam/tangyeok/index.md).
 
 ## 원문을 찾은 다음에는 {#reading}
