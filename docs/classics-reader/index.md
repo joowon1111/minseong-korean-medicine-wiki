@@ -53,6 +53,21 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 - **체질·처방까지 이어 읽기:** [동의수세보원 임상 지식망](../donguisusebowon-network/index.md).
 - **책·판본 확인:** [동의수세보원 소개](../classics/donguisusebowon.md). 이제마의 《동의수세보원》과 공정현의 [《수세보원》](../classics/susebowon.md)은 서로 다른 책입니다.
 
+### 소증에서 병론으로 이어 읽는 여덟 경로 {#sasang-reading-paths}
+
+한 문장을 읽은 뒤 **평소 상태 → 병중 변화 → 감별·치료 판단**으로 이어가면, 체질별 건강 기준과 실제 병론의 관계가 보입니다. 아래 순서는 학습 경로이며 독자가 자신의 체질이나 처방을 확정하는 절차는 아닙니다.
+
+| 읽을 주제 | 원문을 읽는 순서 | 비교할 핵심 |
+|---|---|---|
+| 소음인의 소화와 반복 설사 | [음식선화](../classics/donguisusebowon/original.md#wellbeing-digestion) → [평소 설사·식사 중 땀](../classics/donguisusebowon/original.md#soeum-usual-sweat-case) → [반복 복통 병례](../classics/donguisusebowon/original.md#soeum-recurrent-abdominal-case) | 건강 기준, 기존 소증, 이번 병의 경과를 나누기 |
+| 소음인 발한과 병세 | [망양의 정의](../classics/donguisusebowon/original.md#soeum-mangyang-definition) → [위가실·비약](../classics/donguisusebowon/original.md#soeum-stomach-vs-spleen) | 땀의 유무만이 아니라 시작 시점·오한·배변 비교 |
+| 소양인의 발한과 반복 병세 | [손발바닥 발한](../classics/donguisusebowon/original.md#soyang-palm-sweat) → [다시 앓는 경과](../classics/donguisusebowon/original.md#soyang-repeated-course) | 전신 발한과 병해, 일시 호전과 전체 경과 구별 |
+| 소양인의 두통·설사·변비 | [발열·두통에 설사 동반](../classics/donguisusebowon/original.md#soyang-fever-diarrhea) → [신한복통과 배변](../classics/donguisusebowon/original.md#soyang-cold-abdominal-stool) → [표병 두통·리병 변비](../classics/donguisusebowon/original.md#soyang-headache-constipation) | 공통 증상과 갈리는 조건, 표한병 편의 열 증상 |
+| 태음인의 땀과 회복 | [한액통창](../classics/donguisusebowon/original.md#wellbeing-sweating) → [장감병](../classics/donguisusebowon/original.md#taeeum-long-cold) → [쾌한](../classics/donguisusebowon/original.md#taeeum-sweat-quality) → [병해 뒤 조리](../classics/donguisusebowon/original.md#taeeum-recovery-course) | 땀의 양·모양·지속과 회복 단계 |
+| 태음인의 한열과 조열 | [한열에 따라 갈리는 표리](../classics/donguisusebowon/original.md#taeeum-heat-cold-diarrhea) → [조열·소갈 감별](../classics/donguisusebowon/original.md#taeeum-dryness-vs-wasting) → [대변·소변·갈증](../classics/donguisusebowon/original.md#taeeum-dry-stool-thirst) | 체온 하나와 병증 전체를 구별하고 체질 간 병론 비교 |
+| 태양인의 섭취·보행 기능 | [열격·반위](../classics/donguisusebowon/original.md#taeyang-swallow-vomit) → [해역](../classics/donguisusebowon/original.md#taeyang-haeyeok-function) → [두 증의 경중](../classics/donguisusebowon/original.md#taeyang-combined-pattern) | 증상의 시점·기능, 단독과 병존, 자료의 범위 |
+| 같은 체질에서도 달라지는 처방 | [곽향정기산의 수정](../classics/donguisusebowon/original.md#soeum-huoxiang-revision) → [육미탕 병례의 재평가](../classics/donguisusebowon/original.md#soyang-six-flavor-reassessment) → [기인·기증](../classics/donguisusebowon/original.md#person-and-pattern) | 선행 처방·저자 수정, 대표방·개별 병증·치료 반응 |
+
 ## 동의보감 — 원문 검색·책 이미지·해석을 골라 읽기 {#donguibogam}
 
 **수록:** 내경·외형·잡병·탕액·침구 **다섯 편의 핵심 36대목 원문·자체 한국어 풀이**와 기존 대표 처방 해설을 제공합니다. 전용 열람기로 검색 가능한 대량 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
@@ -61,6 +76,32 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 - **책 이미지로 읽기:** [전권 영인본 목차](../classics/donguibogam/original.md#facsimile)에서 편·권을 선택하세요.
 - **처음 읽기:** [다섯 편 핵심 구문 지도](../classics/donguibogam/original.md#selected-passages) → [대표 처방의 긴 해설](../classics/donguibogam.md#selected-clinical-passages).
 - **주제별로 찾기:** [내경·외형·잡병·탕액·침구 5편 색인](../donguibogam-network/index.md) · [탕액편 본초 해설](../classics/donguibogam/tangyeok/index.md).
+
+### 증상과 치료 원칙으로 읽는 여덟 경로 {#donguibogam-reading-paths}
+
+《동의보감》은 앞선 여러 의서의 말을 문목별로 모은 책입니다. 같은 증상을 다룬 구절도 **누구의 설명인지, 어떤 조건을 붙였는지** 확인하고 비교합니다.
+
+| 읽을 주제 | 원문을 읽는 순서 | 비교할 핵심 |
+|---|---|---|
+| 자한과 도한 | [자한의 여러 병기](../classics/donguibogam/original.md#spontaneous-sweat) → [도한의 시간 구분](../classics/donguibogam/original.md#night-sweat) → [당귀육황탕 방해](../classics/donguibogam/original.md#six-yellow-balance) | 증상의 정의·병기·처방 배합이라는 서로 다른 층위 |
+| 땀·배뇨와 진액 | [과도한 발한 뒤 변화](../classics/donguibogam/original.md#sweat-fluid-loss) → [기행·수행](../classics/donguibogam/original.md#qi-water-movement) → [삼초·수도](../classics/donguibogam/original.md#fluid-waterways) | 증상의 선후, 수액의 흐름과 기능적 비유 |
+| 월경과 허실 | [월경 전 통증](../classics/donguibogam/original.md#monthly-pain-timing) → [비위허약·혈고와 혈폐](../classics/donguibogam/original.md#monthly-deficiency) | 시점·증상·병기를 나누고 기본방과 가미 약미 읽기 |
+| 요통과 어혈·한·손상 | [요통 열 분류](../classics/donguibogam/original.md#ten-low-back-patterns) → [좌섬](../classics/donguibogam/original.md#back-injury-onset) → [어혈](../classics/donguibogam/original.md#back-stasis-pain) → [한요통](../classics/donguibogam/original.md#back-cold-response) | 손상 계기·통증 성질·냉온 반응은 다른 관찰 축 |
+| 냉감·무거움과 보존된 기능 | [신착의 갈증·식사·배뇨](../classics/donguibogam/original.md#kidney-attachment) → [금궤요략 담음·수기·요통 연결](../jingui-network/index.md) | 있는 증상뿐 아니라 없거나 유지된 소견도 읽기 |
+| 치료의 우선순위 | [선후로 읽는 표본](../classics/donguibogam/original.md#root-branch-sequence) → [구토·섭취 곤란의 우선 처리](../classics/donguibogam/original.md#urgent-treatment-order) | 병이 생긴 순서와 당장 치료할 순서는 다를 수 있음 |
+| 본초의 배합·가공 | [백출·창출](../classics/donguibogam/original.md#white-atractylodes) → [작약의 배합](../classics/donguibogam/original.md#peony-pairing) → [생강·건강](../classics/donguibogam/original.md#fresh-dried-ginger) → [황련의 포제](../classics/donguibogam/original.md#coptis-processing) | 같은 이름·같은 계통이라도 조건과 처방 속 역할 구별 |
+| 혈위와 반응 부위 | [표시한 자세](../classics/donguibogam/original.md#point-position-posture) → [체격 차이](../classics/donguibogam/original.md#point-body-variation) → [동신촌](../classics/donguibogam/original.md#proportional-cun) → [아시혈](../classics/donguibogam/original.md#ashi-local-response) | 자세·비례·개인차·반응을 구별하며 취혈 원칙 읽기 |
+
+### 두 책에서 같은 말을 만났을 때 {#compare-reading}
+
+| 공통 주제 | 동의보감에서 읽을 것 | 동의수세보원에서 읽을 것 |
+|---|---|---|
+| 땀 | 진액문의 증상 정의와 여러 의가의 병기 설명 | 체질별 소증·병세·회복 기준의 차이 |
+| 소화·배변 | 비위·담습·진액 등의 문목과 처방 배합 | 평소 소증, 표리병의 경과와 체질별 처방 판단 |
+| 허약과 회복 | 허실·보사의 조건과 표본에 따른 치료 순서 | 완실무병의 기준, 병해 뒤 조리와 재평가 |
+| 같은 처방명 | 출전·약미·포제·가미의 조건 | 선행 처방의 인용과 이제마의 수정·논평 |
+
+예를 들어 《동의보감》의 **자한·도한**은 증상과 병기를 읽는 분류이고, 《동의수세보원》의 **태음인 쾌한·소양인 손발바닥 발한**은 각 체질 병론의 경과 판단입니다. 모두 땀에 관한 문장이어도 같은 진단표로 합치지 않습니다. 원문 옆의 문장 구조와 비교 해설에서 그 차이를 확인할 수 있습니다.
 
 ## 원문을 찾은 다음에는 {#reading}
 
