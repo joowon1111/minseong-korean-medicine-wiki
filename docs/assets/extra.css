@@ -199,3 +199,23 @@
   .hero-box { padding: 1.5rem 1.25rem; }
   .hero-box h2 { font-size: 1.5rem; }
 }
+
+/* Keep long Korean terms, classical passages and tables inside the reading area. */
+.md-content, .md-typeset__table { min-width: 0; }
+.md-typeset :is(p, li, td, th, h1, h2, h3, h4) { overflow-wrap: anywhere; }
+.md-typeset__scrollwrap {
+  overscroll-behavior-x: contain;
+  scroll-padding-inline: .6rem;
+}
+.md-typeset__scrollwrap[tabindex]:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: -2px;
+}
+@media (max-width: 600px) {
+  .md-typeset table:not([class]) :is(th, td) { padding: .65em .8em; }
+  .hero-box.compact { padding: 1.25rem 1rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hub-card, .path-card, .ms-card { transition: none; }
+  .hub-card:hover, .path-card:hover, .ms-card:hover { transform: none; }
+}

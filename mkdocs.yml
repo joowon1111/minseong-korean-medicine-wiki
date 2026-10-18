@@ -5,6 +5,7 @@ site_author: 민성 한의학 아카이브
 copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
 use_directory_urls: true
 extra_javascript:
+  - assets/reading-layout.js?v=20261018
   - assets/article-sharing.js?v=20261014
   - assets/acupoint-3d/launch.js?v=20261012-style
   - assets/archive-tools/search-core.js?v=20261009-03
@@ -22,18 +23,19 @@ extra_javascript:
 extra_css:
 - assets/acupoint-3d/map.css?v=20261012-style
 - assets/archive-tools/tools.css?v=20261013-full-formulas
-- assets/extra.css?v=20261016-sidebar
+- assets/extra.css?v=20261018-responsive
 - assets/acupoint-atlas/explorer.css
 - assets/learning/learning.css?v=20261013-import-fit
 - stylesheets/portal.css?v=20261014-life-cards
 - stylesheets/korean-medicine-guide.css
-- assets/korean-search-185.css
+- assets/korean-search-185.css?v=20261018-viewport
 - assets/donguibogam/reader.css
 - assets/donguisusebowon/reader.css
 extra:
   generator: false
   homepage_title: 민성 한의학 아카이브 | 한의학 고전·본초·방제·경혈·사상의학
 hooks:
+- tools/page_assets.py
 - tools/acupoint_diagrams.py
 - tools/sitemap_lastmod.py
 - tools/page_discovery.py
