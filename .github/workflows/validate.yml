@@ -54,6 +54,7 @@ jobs:
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_acupoint_3d.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_sasang_explorer.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_sidebar_scroll.cjs
+          NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_responsive_reading.cjs
       - name: Keep archive browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
