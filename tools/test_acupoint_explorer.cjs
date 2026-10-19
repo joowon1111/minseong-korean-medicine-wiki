@@ -17,12 +17,21 @@ test('unrelated pages and incomplete controls remain usable', () => {
 });
 test('all 361 unique point links are preserved in 14 searchable groups', () => {
   const doc = fs.readFileSync(path.join(__dirname, '../docs/acupoint-network/standard-atlas.md'), 'utf8');
-  const groups = [...doc.matchAll(/data-meridian="([A-Z]+)"/g)];
+  // Compare the searchable catalogue, not repeated links in learning examples.
+  const groups = [...doc.matchAll(/<div class="acupoint-group" data-meridian="([A-Z]+)"[^>]*>([\s\S]*?)<\/div>/g)];
+  const counts = {LU:11, LI:20, ST:45, SP:21, HT:9, SI:19, BL:67, KI:27, PC:9, TE:23, GB:44, LR:14, GV:28, CV:24};
   assert.equal(groups.length, 14);
-  const links = [...doc.matchAll(/\]\((\.\.\/acupuncture\/points\/[^)]+\.md)\)/g)];
+  assert.equal(new Set(groups.map(group=>group[1])).size, 14);
+  const links = groups.flatMap(([, meridian, content]) => {
+    const found = [...content.matchAll(/\]\((\.\.\/acupuncture\/points\/[^)]+\.md)\)/g)];
+    assert.equal(found.length, counts[meridian], meridian);
+    return found;
+  });
   assert.equal(links.length, 361);
   assert.equal(new Set(links.map(x=>x[1])).size, 361);
-  for (const [, link] of links) assert.ok(fs.existsSync(path.resolve(__dirname, '../docs/acupoint-network', link)), link);
+  // Both catalogue and additional learning links must resolve to real documents.
+  const allLinks = [...doc.matchAll(/\]\((\.\.\/acupuncture\/points\/[^)]+\.md)\)/g)];
+  for (const [, link] of allLinks) assert.ok(fs.existsSync(path.resolve(__dirname, '../docs/acupoint-network', link)), link);
 });
 test('diagram destinations are existing point pages without scripts or remote assets', () => {
   for (const file of ['hand-dorsal.svg','wrist-palmar.svg']) {

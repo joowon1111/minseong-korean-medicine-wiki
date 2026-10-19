@@ -157,5 +157,27 @@ Dermatome 지도는 문헌과 개인에 따라 경계가 다를 수 있어 **증
 
 조직층의 자극이 구심성 감각 입력으로 전달되는 과정은 [말초신경과 침 자극](../acupuncture-science/peripheral-afferent.md), 척수분절과 원위부 자극의 관계는 [침과 통증조절](../acupuncture-science/pain-modulation.md)에서 이어집니다.
 
+### 경혈을 공간으로 읽는 기록표 {#acupoint-spatial-record}
+
+계통해부학에서는 뼈·근육·신경 등 계통별 기능과 연결을 익히고, 국소해부학에서는 한 부위 안에서 이 구조들이 어떻게 이웃하는지 확인합니다. 경혈 학습은 두 관점을 오가며 표면 위치를 주변 조직 관계와 연결할 수 있습니다.
+
+| 기록 항목 | 학습할 때 적을 내용 | 확인 자료 |
+|---|---|---|
+| 경혈 식별 | 한글명·국제 코드·좌우·관찰 자세 | [361경혈 아틀라스](../acupoint-network/standard-atlas.md) |
+| 표면 위치 | 기준 뼈·힘줄·주름, 방향과 신체 비례 | 각 경혈의 WHO 표준 기반 위치 |
+| 조직 관계 | 피부·피하·근막·근육과 주변 신경·혈관 | 해부학 문헌·해부 관찰·해당 부위 영상 |
+| 기능 연결 | 관련 근육의 동작과 신경 분포 | 이 문서의 상지·하지 지도 |
+| 확인 상태 | 문헌 설명인지, 모형 표시인지, 실제 영상에서 확인했는지 | 자료명·촬영 자세·단면·출처 |
+| 임상 선택 | 질환·변증·목표·국소/원위 역할 | [배혈 판단 과정](../acupuncture-integrated/how-acupoints-combine.md#pattern-selection) |
+
+**내관 PC6 학습 예:** [표준 위치 문장](../acupuncture/points/pc6-neiguan.md)에서 아래팔 앞면·손목 기준·힘줄 사이를 확인하고, [3D 지도](../acupoint-network/3d-map.md?point=PC6)에서 앞뒤 면을 비교한 다음 [정중신경 초음파 자료](../musculoskeletal-ultrasound/nerve-entrapment-integration.md#median-nerve-carpal-tunnel)로 실제 조직 관계를 읽습니다. 화면에 보이는 점을 신경 자체나 시술 목표 깊이로 기록하지 않습니다.
+
+위 표는 학습용 기록 틀이며 361혈의 모든 조직층을 검증한 데이터베이스는 아닙니다. 근거가 없는 칸은 추정해 채우지 않고 ‘미확인’으로 남겨 출처가 확인된 정보와 구별합니다. [Chapple의 361경혈·34기혈 해부 목록 연구](https://pubmed.ncbi.nlm.nih.gov/24139465/)도 층별 해부·신경지배를 체계화하면서 개인차와 영상 검증의 필요성을 제시했습니다.
+
+### 3D 경혈 교육의 참고 사례
+
+동국대 경혈학교실의 [AcupointDG 개발자 안내](https://play.google.com/store/apps/details?hl=ko&id=com.DGUMeriAcup.AcupointProject)는 경혈 위치와 근육·혈관·신경, 논문 탐색을 연결하는 교육 구성을 소개합니다. 이 아카이브에서는 기존 [3D 경혈 지도](../acupoint-network/3d-map.md#spatial-learning)와 [부위·표리경 학습 순서](../acupoint-network/standard-atlas.md#regional-study-course)를 연결해 같은 교육 질문을 독자적으로 다룹니다. 외부 플랫폼의 모형·영상·데이터를 가져오거나 연동한 것은 아닙니다.
+
+
 → [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)  
 → [신경포착증후군](../nerve-entrapment/index.md)

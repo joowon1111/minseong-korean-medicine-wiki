@@ -10,7 +10,7 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
+**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
@@ -180,6 +180,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | 처방별·진료 분야별 한약 임상연구 | [한약·처방 임상근거](../authority/formulas/herbal-formula-evidence-hub.md) |
 | 개별 본초의 기원·성분·사람 연구와 처방 속 역할 | [본초 출처·현대 연구](../authority/herbs/index.md) |
 | 국내 대학병원 연구진의 한약재·추출물 임상시험 | [연구진·제제별 연구 모아 보기](../authority/herbs/index.md#university-clinical-studies) — 홍삼·갱년기·소화기·관절통·기관지염·배뇨 증상 |
+| 변증과 실제 경혈 선택의 관계 | [7개 한의원·423명 관찰연구: 30혈의 평균 점수와 5개 탐색 군집](../acupuncture-integrated/evidence.md#pattern-profiles-2026) |
 | 침·전침·약침의 치료 조건과 결과지표 | [침·전침·약침 임상근거](../evidence-integrated/acupuncture-evidence.md) |
 | 해외 전문 학회·공공기관의 침·한약 권고 | [국제 진료지침 사례와 원문](#international-clinical-guidelines) |
 | RCT·메타분석·관찰연구·전임상 연구의 차이 | [연구 유형 한눈에 보기](../evidence-guide/index.md) |

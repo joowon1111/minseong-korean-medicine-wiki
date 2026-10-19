@@ -27,6 +27,22 @@ last_reviewed: 2026-08-25
 - **원근배혈**: 증상 부위 주변 근위혈과 원위혈을 조합
 - **표리경 배혈**: 음양 표리관계 경맥을 함께 고려
 
+## 표리경 6쌍을 부위별로 비교하기 {#paired-meridian-study}
+
+아래는 **위치·분류를 비교하는 학습 짝**입니다. 같은 줄에 놓인 두 혈을 모두 사용하는 처방을 뜻하지 않습니다. 먼저 같은 부위의 앞뒤·안팎을 구별한 뒤, 원혈·낙혈 등의 분류는 각 혈의 상세 문서에서 확인합니다.
+
+| 표리경 | 비교 예 | 학습 질문 |
+|---|---|---|
+| 폐–대장 | [태연 LU9](../acupuncture/points/lu9-taiyuan.md) / [양계 LI5](../acupuncture/points/li5.md) | 손목의 노쪽에서 손바닥쪽과 손등쪽을 어떻게 구별하는가 |
+| 심–소장 | [신문 HT7](../acupuncture/points/ht7-shenmen.md) / [양곡 SI5](../acupuncture/points/si5.md) | 손목 자쪽의 두 혈은 어떤 힘줄·뼈 표지를 쓰는가 |
+| 심포–삼초 | [내관 PC6](../acupuncture/points/pc6-neiguan.md) / [외관 TE5](../acupuncture/points/te5-waiguan.md) | 아래팔 앞뒤의 기준점과 위치 문장이 어떻게 다른가 |
+| 비–위 | [음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md) / [족삼리 ST36](../acupuncture/points/st36-zusanli.md) | 무릎 아래 안쪽과 앞가쪽을 어떤 표지로 구별하는가 |
+| 신–방광 | [태계 KI3](../acupuncture/points/ki3-taixi.md) / [곤륜 BL60](../acupuncture/points/bl60-kunlun.md) | 발목 안팎의 복사와 아킬레스힘줄 관계를 어떻게 설명하는가 |
+| 간–담 | [태충 LR3](../acupuncture/points/lr3-taichong.md) / [족임읍 GB41](../acupuncture/points/gb41.md) | 발등에서 기준이 되는 발허리뼈가 어떻게 다른가 |
+
+표리경 학습은 경맥 사이의 전통적 관계를 이해하는 데, [부위별 비교](../acupoint-network/standard-atlas.md#regional-learning)는 실제 표면 위치를 구별하는 데 쓰입니다. 둘을 연결하되 경맥을 하나의 말초신경·혈관과 동일시하지 않습니다. 실제 선택의 전신적 맥락은 [변증과 경혈 선택](../acupuncture-integrated/how-acupoints-combine.md#pattern-selection)에서 이어집니다.
+
+
 ## 팔맥교회혈 대표 짝
 | 혈 조합 | 연결되는 기경 |
 |---|---|

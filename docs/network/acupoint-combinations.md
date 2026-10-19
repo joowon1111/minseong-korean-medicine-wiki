@@ -36,3 +36,5 @@ tags: [경혈, 배혈, 침구, 임상한의학]
 
 ## 현대 연구
 침 임상연구에서는 복합 배혈 프로토콜이 널리 사용됩니다. 혈위 조합, 자침·전침 방법, 치료 횟수와 평가변수를 함께 확인합니다.
+
+[423명 진료자료의 경혈 네트워크·변증 분석](../acupuncture-integrated/evidence.md#pattern-profiles-2026)은 ‘함께 사용된 조합’과 ‘유사한 환자 변증 분포’를 구분해 보여줍니다. 함께 자주 쓰였다는 사실은 그 조합의 우월한 치료효과를 뜻하지 않습니다. 위 증상별 예시를 읽을 때도 [질환·조직·변증·재평가의 선택 과정](../acupuncture-integrated/how-acupoints-combine.md#pattern-selection)을 함께 확인하세요.
