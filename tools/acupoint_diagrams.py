@@ -24,7 +24,12 @@ def diagram_index():
 
 def on_pre_build(config):
     diagram_index.cache_clear()
+    meridian_index.cache_clear()
     for path, (region, point) in diagram_index().items():
+        prefix = re.fullmatch(r'([A-Z]+)(\d+)', point['code'])[1]
+        route = meridian_index()[prefix]
+        if not (ROOT / 'docs' / route['path']).is_file():
+            raise ValueError('Missing meridian document: ' + route['path'])
         asset = ROOT / 'docs/assets/acupoint-atlas' / (region['id'] + '.svg')
         if not asset.is_file() or not (ROOT / 'docs' / path).is_file():
             raise ValueError('Missing acupoint diagram or document: ' + path)
@@ -69,3 +74,35 @@ def on_page_markdown(markdown, page, config, files):
 </div>
 '''
     return markdown[:match.end()] + block + markdown[match.end():]
+
+
+@lru_cache(maxsize=1)
+def meridian_index():
+    """Use the same canonical names and destinations as the meridian diagrams."""
+    routes = json.loads((ROOT / 'data/meridian_routes.json').read_text(encoding='utf-8'))['routes']
+    return {route['code']: route for route in routes}
+
+
+def on_page_content(html, page, config, files):
+    """Keep heading text/anchors intact while placing its parent beside it."""
+    entry = diagram_index().get(page.file.src_uri)
+    if entry is None or 'class="acupoint-title-row"' in html:
+        return html
+    point = entry[1]
+    prefix = re.fullmatch(r'([A-Z]+)(\d+)', point['code'])[1]
+    route = meridian_index()[prefix]
+    url = '/' + route['path'].removesuffix('.md') + '/'
+    overview = '_5' if prefix in {'CV', 'GV'} else '_2'
+    heading = re.search(r'<h1\b[^>]*>.*?</h1>', html, re.S)
+    if heading is None:
+        raise ValueError('Missing acupoint heading: ' + page.file.src_uri)
+    block = (
+        '<div class="acupoint-title-row">' + heading[0]
+        + '<nav class="acupoint-meridian" aria-label="소속 경맥과 전체 경맥 탐색">'
+        + f'<a class="acupoint-meridian-parent" href="{escape(url)}"><span>소속 경맥</span>'
+        + f'<strong>{escape(route["title"])} {escape(prefix)} →</strong></a>'
+        + '</nav></div>'
+        + '<nav class="acupoint-meridian-overview" aria-label="경락·경맥 한눈에 보기">'
+        + f'<a href="/meridian-network/#{overview}">경락·경맥 한눈에 보기 →</a></nav>'
+    )
+    return html[:heading.start()] + block + html[heading.end():]

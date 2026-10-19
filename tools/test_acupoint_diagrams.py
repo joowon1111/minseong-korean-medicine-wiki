@@ -95,6 +95,32 @@ class DiagramTests(unittest.TestCase):
                     expected['next'] = '/' + ordered[i + 1]['path'].removesuffix('.md') + '/'
                 self.assertEqual(parser.links, expected, point['code'])
 
+    def test_all_points_link_to_their_parent_and_keep_heading_anchors(self):
+        from collections import Counter
+        counts = Counter()
+        for path, (_, point) in diagrams.diagram_index().items():
+            prefix = re.fullmatch(r'([A-Z]+)(\d+)', point['code'])[1]
+            counts[prefix] += 1
+            route = diagrams.meridian_index()[prefix]
+            parent = (ROOT / 'docs' / route['path']).read_text()
+            # The parent also links back to this exact canonical point document.
+            self.assertIn('../' + path, parent, point['code'])
+            heading = '<h1 id="existing-anchor">' + point['name'] + ' ' + point['code'] + '</h1>'
+            original = heading + '<p>Original content</p>'
+            page = SimpleNamespace(file=SimpleNamespace(src_uri=path))
+            rendered = diagrams.on_page_content(original, page, {}, None)
+            self.assertEqual(rendered.count(heading), 1)
+            self.assertTrue(rendered.endswith('<p>Original content</p>'))
+            self.assertIn('href="/' + route['path'].removesuffix('.md') + '/"', rendered)
+            self.assertIn(route['title'] + ' ' + prefix, rendered)
+            anchor = '_5' if prefix in {'CV', 'GV'} else '_2'
+            self.assertIn('href="/meridian-network/#' + anchor + '"', rendered)
+            self.assertEqual(diagrams.on_page_content(rendered, page, {}, None), rendered)
+        self.assertEqual(dict(counts), dict(LU=11, LI=20, ST=45, SP=21, HT=9, SI=19,
+                                          BL=67, KI=27, PC=9, TE=23, GB=44, LR=14, GV=28, CV=24))
+        page = SimpleNamespace(file=SimpleNamespace(src_uri='index.md'))
+        self.assertEqual(diagrams.on_page_content('<h1>Home</h1>', page, {}, None), '<h1>Home</h1>')
+
     def test_atlas_is_at_top_of_treatment_navigation(self):
         config = (ROOT / 'mkdocs.yml').read_text()
         section = config.split('- 침구·치료:\n', 1)[1]
