@@ -206,7 +206,7 @@ def on_page_content(html, page, config, files):
             quick.append(f'<a href="#{escape(quote(match["id"]), quote=True)}">{label}</a>')
     if quick:
         prefix += '<div class="archive-reading-tools">'
-        prefix += '<nav aria-label="' + ("Article shortcuts" if english else "본문 빠른 이동") + '">' + ' · '.join(quick) + '</nav>'
+        prefix += '<nav aria-label="' + ("Article shortcuts" if english else "본문 빠른 이동") + '">' + '\n'.join(quick) + '</nav>'
         prefix += '</div>'
     suffix = ""
     if related:

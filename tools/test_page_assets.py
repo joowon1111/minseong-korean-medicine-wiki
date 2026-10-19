@@ -40,6 +40,14 @@ class PageAssets(unittest.TestCase):
         self.assertTrue(needed["assets/donguisusebowon/reader.js"])
         self.assertFalse(page_assets.needed_assets("<!-- <div data-learning-room> -->", "index.md")["assets/learning/learning.js"])
 
+    def test_point_detail_keeps_diagram_styles_without_explorer_scripts(self):
+        needed = page_assets.needed_assets(
+            '<div class="acupoint-location"><nav class="acupoint-sequence"></nav></div>',
+            'acupuncture/points/lu2.md')
+        self.assertTrue(needed["assets/acupoint-atlas/explorer.css"])
+        self.assertFalse(needed["assets/acupoint-atlas/explorer.js"])
+        self.assertFalse(needed["assets/acupoint-atlas/discovery.js"])
+
     def test_instant_navigation_keeps_shared_subscribers(self):
         config = {"theme": {"features": ["navigation.instant"]}, "extra_css": [], "extra_javascript": ["assets/learning/learning.js"]}
         self.assertEqual(self.render("", config), ["assets/learning/learning.js"])
