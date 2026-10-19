@@ -174,10 +174,5 @@ Dermatome 지도는 문헌과 개인에 따라 경계가 다를 수 있어 **증
 
 위 표는 학습용 기록 틀이며 361혈의 모든 조직층을 검증한 데이터베이스는 아닙니다. 근거가 없는 칸은 추정해 채우지 않고 ‘미확인’으로 남겨 출처가 확인된 정보와 구별합니다. [Chapple의 361경혈·34기혈 해부 목록 연구](https://pubmed.ncbi.nlm.nih.gov/24139465/)도 층별 해부·신경지배를 체계화하면서 개인차와 영상 검증의 필요성을 제시했습니다.
 
-### 3D 경혈 교육의 참고 사례
-
-동국대 경혈학교실의 [AcupointDG 개발자 안내](https://play.google.com/store/apps/details?hl=ko&id=com.DGUMeriAcup.AcupointProject)는 경혈 위치와 근육·혈관·신경, 논문 탐색을 연결하는 교육 구성을 소개합니다. 이 아카이브에서는 기존 [3D 경혈 지도](../acupoint-network/3d-map.md#spatial-learning)와 [부위·표리경 학습 순서](../acupoint-network/standard-atlas.md#regional-study-course)를 연결해 같은 교육 질문을 독자적으로 다룹니다. 외부 플랫폼의 모형·영상·데이터를 가져오거나 연동한 것은 아닙니다.
-
-
 → [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)  
 → [신경포착증후군](../nerve-entrapment/index.md)

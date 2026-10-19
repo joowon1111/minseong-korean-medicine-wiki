@@ -41,7 +41,7 @@ hide:
 | [족삼리 ST36](3d-map.md?point=ST36) | 무릎 아래의 앞·안쪽·가쪽을 어떤 뼈 표지로 구별하는가 | [족삼리 상세](../acupuncture/points/st36-zusanli.md) · [하지 해부학](../clinical-anatomy/index.md#lower-limb) |
 | [태계 KI3](3d-map.md?point=KI3) / [곤륜 BL60](3d-map.md?point=BL60) | 안쪽 복사와 가쪽 복사를 기준으로 두 혈을 구별할 수 있는가 | [표리경 비교](../acupuncture-specific/pairing-principles.md#paired-meridian-study) |
 
-[8회 부위별 학습 순서](standard-atlas.md#regional-study-course)와 [해부학 기록표](../clinical-anatomy/index.md#acupoint-spatial-record)를 함께 사용하면 회전·확대 후 관찰한 내용을 정리할 수 있습니다.
+[해부학 기록표](../clinical-anatomy/index.md#acupoint-spatial-record)를 사용하면 회전·확대 후 관찰한 내용을 정리할 수 있습니다.
 
 
 ## 모형과 실제 위치를 구분합니다
