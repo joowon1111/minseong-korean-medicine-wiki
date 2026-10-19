@@ -22,6 +22,9 @@
 .acupoint-location object{display:block;width:100%;aspect-ratio:640/660;background:white;border-radius:8px}
 .acupoint-location p{font-size:.8rem;margin:.5rem 0}
 .acupoint-location .acupoint-note{font-size:.7rem;color:var(--md-default-fg-color--light)}
+.acupoint-sequence{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0}
+.acupoint-sequence a{display:flex;align-items:center;flex:1 1 220px;min-height:44px;padding:.5rem .6rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:6px;font-size:.75rem;overflow-wrap:anywhere}
+.acupoint-sequence a:focus-visible{outline:3px solid var(--md-accent-fg-color);outline-offset:2px}
 /* Local discovery workspace, independently designed for archive reading. */
 .acupoint-discovery{margin:1rem 0 1.5rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:14px;overflow:hidden;font-size:.8rem}
 .discovery-toolbar{padding:1rem;background:var(--md-code-bg-color)}
