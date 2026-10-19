@@ -17,7 +17,7 @@
       const fullscreen=root.querySelector('[data-map-fullscreen]'), direct=root.querySelector('[data-map-direct]');
       const status=root.querySelector('[data-map-status]');
       let code=validCode(new URL(location.href).searchParams.get('point'));
-      function target() { const url=new URL('/assets/acupoint-3d/index.html?v=20261012-style',location.origin); if(code) url.searchParams.set('point',code); return url; }
+      function target() { const url=new URL('/assets/acupoint-3d/index.html?v=20261019-links',location.origin); if(code) url.searchParams.set('point',code); return url; }
       function open() {
         if (frame.hasAttribute('src')) return;
         frame.src=target().href; frame.hidden=false; start.hidden=true; fullscreen.hidden=false;
