@@ -10,7 +10,7 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
+**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
@@ -74,6 +74,20 @@ last_reviewed: '2026-09-05'
 | Zhong 등, *Clinical Gastroenterology and Hepatology*, 2019 권호 · 마자인환 291명 | 8주 완전자발배변 반응률 68.0% 대 위약 33.0%; 센나와 8주 차이는 유의하지 않음 | [배변과 추적 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-digestive-trials) · [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) |
 | Kim 등, *Complementary Therapies in Medicine*, 2019 · 국내 소청룡탕 다기관 시험 | 4주 위약대조에서 통년성 비염의 코 증상과 삶의 질 개선 | [국내 처방 단위 연구](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/) |
 | Lee 등, *Journal of Ethnopharmacology*, 2026 · 국내 육군자탕·평위산 140명 | 6주 소화불량 증상점수 변화가 통상관리보다 각각 평균 1.63점·1.55점 더 유리 | [국내 비교효과 시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) |
+
+### 간·신장질환: 치료 결과와 안전성 연구 {#liver-kidney-research}
+
+간효소·알부민뇨·여과기능과 장기 생존은 서로 다른 결과입니다. 아래는 앞의 핵심 30편과 별도로 연결한 분야별 연구이며, 임상시험·관찰연구·증례·종설을 구분해 읽습니다.
+
+| 찾는 연구 | 기존 문서에서 확인할 내용 |
+|---|---|
+| 자생한방병원 6,894명 간검사 | [입·퇴원 간손상 분류와 회복 결과](../herbal-integrated/safety.md#liver-safety-jaseng) |
+| 만성간질환 2,000명·ALT 정상화 | [Compound 861을 소개한 종설의 대상·결과](../herbal-integrated/safety.md#liver-compound861) |
+| 대만 B형간염 사망위험 연구 | [라미부딘 치료 환자 코호트와 추적기간](../herbal-integrated/safety.md#hbv-herbal-cohort) |
+| 2016년 Scientific Reports 간암 연구 | [생존 결과와 후향적 연구의 적용 범위](../herbal-integrated/safety.md#hcc-herbal-survival) |
+| 일본 소시호탕·알코올성 간질환 시험 | [간효소·바이러스 지표와 비교군](../herbal-integrated/safety.md#kampo-liver-trials) |
+| 황기: 국내 증례·일본 사례군·2024년 RCT | [연구설계별 eGFR 결과](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies) |
+| 중국·프랑스 공동 당뇨병성 신장질환 시험 | [황촉규 제제의 알부민뇨 결과](../authority/formulas/kidney-disease-herbal-map.md#huangkui-france-china) |
 
 ### 본초 유래 분리 성분의 주요 임상연구 {#herb-derived-component-studies}
 
