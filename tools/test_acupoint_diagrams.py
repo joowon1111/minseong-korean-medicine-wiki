@@ -65,6 +65,36 @@ class DiagramTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Missing location'):
             diagrams.on_page_markdown('# no location section', page, {}, None)
 
+    def test_sequence_stays_within_each_meridian_and_links_real_documents(self):
+        from html.parser import HTMLParser
+
+        class Links(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.links = {}
+
+            def handle_starttag(self, tag, attrs):
+                attrs = dict(attrs)
+                if tag == 'a':
+                    self.links[attrs['rel']] = attrs['href']
+
+        groups = {}
+        for _, point in diagrams.diagram_index().values():
+            meridian, number = re.fullmatch(r'([A-Z]+)(\d+)', point['code']).groups()
+            groups.setdefault(meridian, []).append((int(number), point))
+        self.assertEqual(len(groups), 14)
+        for group in groups.values():
+            ordered = [p for _, p in sorted(group)]
+            for i, point in enumerate(ordered):
+                parser = Links()
+                parser.feed(diagrams.sequence_navigation(point))
+                expected = {}
+                if i > 0:
+                    expected['prev'] = '/' + ordered[i - 1]['path'].removesuffix('.md') + '/'
+                if i < len(ordered) - 1:
+                    expected['next'] = '/' + ordered[i + 1]['path'].removesuffix('.md') + '/'
+                self.assertEqual(parser.links, expected, point['code'])
+
     def test_atlas_is_at_top_of_treatment_navigation(self):
         config = (ROOT / 'mkdocs.yml').read_text()
         section = config.split('- 침구·치료:\n', 1)[1]

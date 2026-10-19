@@ -32,13 +32,13 @@ last_reviewed: 2026-09-22
 
 | 임상 주제 | 자주 연결되는 혈위 예 | 함께 볼 판단 |
 |---|---|---|
-| 불면·심계 | 신문 HT7 · 내관 PC6 · 조해 KI6 · 백회 GV20 | 흉통·실신·호흡곤란, 약물·카페인, 수면 양상 |
-| 소화 | 족삼리 ST36 · 중완 CV12 · 내관 PC6 · 공손 SP4 | 체중감소·출혈·지속 구토, 식사와의 관계 |
-| 요통 | 신수 BL23 · 대장수 BL25 · 위중 BL40 · 곤륜 BL60 | 근력저하·배뇨배변 변화, 신경학적 징후 |
-| 목·어깨 | 풍지 GB20 · 천주 BL10 · 견정 GB21 · 천종 SI11 | 외상, 팔의 근력·감각, 두통·어지럼 동반 |
-| 무릎·하지 | 독비 ST35 · 양릉천 GB34 · 음릉천 SP9 · 위중 BL40 | 급성 부종·열감, 체중부하 기능, 불안정성 |
-| 호흡·비염 | 열결 LU7 · 합곡 LI4 · 영향 LI20 · 중부 LU1 · 폐수 BL13 | 호흡곤란·고열, 알레르기 유발요인, 비강 상태 |
-| 여성·하복부 | 삼음교 SP6 · 태충 LR3 · 관원 CV4 · 기해 CV6 | 임신 가능성, 비정상 출혈, 급성 복통 |
+| 불면·심계 | [신문 HT7](../acupuncture/points/ht7-shenmen.md) · [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [조해 KI6](../acupuncture/points/ki6-zhaohai.md) · [백회 GV20](../acupuncture/points/gv20-baihui.md) | 흉통·실신·호흡곤란, 약물·카페인, 수면 양상 |
+| 소화 | [족삼리 ST36](../acupuncture/points/st36-zusanli.md) · [중완 CV12](../acupuncture/points/cv12-zhongwan.md) · [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [공손 SP4](../acupuncture/points/sp4-gongsun.md) | 체중감소·출혈·지속 구토, 식사와의 관계 |
+| 요통 | [신수 BL23](../acupuncture/points/bl23-shenshu.md) · [대장수 BL25](../acupuncture/points/bl25-dachangshu.md) · [위중 BL40](../acupuncture/points/bl40-weizhong.md) · [곤륜 BL60](../acupuncture/points/bl60-kunlun.md) | 근력저하·배뇨배변 변화, 신경학적 징후 |
+| 목·어깨 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md) · [천주 BL10](../acupuncture/points/bl10-tianzhu.md) · [견정 GB21](../acupuncture/points/gb21-jianjing.md) · [천종 SI11](../acupuncture/points/si11-tianzong.md) | 외상, 팔의 근력·감각, 두통·어지럼 동반 |
+| 무릎·하지 | [독비 ST35](../acupuncture/points/st35-dubi.md) · [양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md) · [음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md) · [위중 BL40](../acupuncture/points/bl40-weizhong.md) | 급성 부종·열감, 체중부하 기능, 불안정성 |
+| 호흡·비염 | [열결 LU7](../acupuncture/points/lu7-lieque.md) · [합곡 LI4](../acupuncture/points/li4-hegu.md) · [영향 LI20](../acupuncture/points/li20-yingxiang.md) · [중부 LU1](../acupuncture/points/lu1-zhongfu.md) · [폐수 BL13](../acupuncture/points/bl13-feishu.md) | 호흡곤란·고열, 알레르기 유발요인, 비강 상태 |
+| 여성·하복부 | [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md) · [태충 LR3](../acupuncture/points/lr3-taichong.md) · [관원 CV4](../acupuncture/points/cv4-guanyuan.md) · [기해 CV6](../acupuncture/points/cv6-qihai.md) | 임신 가능성, 비정상 출혈, 급성 복통 |
 
 ## 특정혈과 배혈
 
