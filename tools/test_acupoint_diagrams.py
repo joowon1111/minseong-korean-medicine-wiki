@@ -42,12 +42,15 @@ class DiagramTests(unittest.TestCase):
 
     def test_each_document_gets_one_diagram_in_its_existing_location_section(self):
         diagrams.on_pre_build({})
+        map_points = {p['code']: p for p in json.loads((ROOT / 'docs/assets/acupoint-3d/points.json').read_text())['points']}
         for path, (_, point) in diagrams.diagram_index().items():
             original = (ROOT / 'docs' / path).read_text()
             page = SimpleNamespace(file=SimpleNamespace(src_uri=path))
             rendered = diagrams.on_page_markdown(original, page, {}, None)
             self.assertEqual(rendered.count(diagrams.MARKER), 1, path)
             self.assertIn('.svg#' + point['code'], rendered)
+            self.assertEqual(rendered.count('href="/acupoint-network/3d-map/?point=' + point['code'] + '"'), 1, path)
+            self.assertEqual(map_points[point['code']]['href'], '/' + path.removesuffix('.md') + '/', path)
             # All original headings, text and their order survive the insertion.
             insertion = re.search(r'\n\n<!-- acupoint-location-diagram -->.*?</div>\n', rendered, re.S)
             self.assertIsNotNone(insertion, path)
