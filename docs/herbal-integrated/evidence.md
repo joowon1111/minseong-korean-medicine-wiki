@@ -126,6 +126,8 @@ last_reviewed: '2026-08-29'
 - 여성건강: 월경·갱년기·난임·산후
 - 통증: 요통·무릎·관절·근육통
 - 회복: 만성피로·수술 후·암 치료 후 회복
+- 간질환: [간염·간섬유화·간암 임상연구](safety.md#liver-treatment-evidence)
+- 신장질환: [황기·황촉규의 직접 임상연구](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies)
 
 → [질환별 현대 근거 카드](../authority/conditions/index.md)
 

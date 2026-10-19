@@ -14,7 +14,9 @@ last_reviewed: '2026-09-21'
 | 궁금한 내용 | 바로 보기 |
 |---|---|
 | 국내 대학병원에서 평가한 홍삼 안전성 | [1,000명 무작위 배정·24주 연구](#red-ginseng-safety) |
-| 한약 복용과 간수치 변화 | [국내 사람 대상 간 안전성 연구 3편](#liver-safety-evidence) |
+| 한약 복용과 간수치 변화 | [국내 사람 대상 간 안전성 연구 4편](#liver-safety-evidence) |
+| 간염·간섬유화·간암에서 평가한 치료 결과 | [간질환 치료 연구와 안전성의 구분](#liver-treatment-evidence) |
+| 황기·황촉규의 신장질환 치료 연구 | [증례부터 무작위시험까지](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies) |
 | 간수치 이상을 판단하는 국제 기준 | [AASLD·EASL·DILIN 판정틀](#liver-safety-international) |
 | 크레아티닌·eGFR과 신장기능 | [6개 무작위시험 자료 분석](#renal-safety-evidence) |
 | 신장기능 저하에서 검사·추적·품질관리 | [KDIGO와 고영향력 신장학 근거](#renal-safety-international) |
@@ -180,6 +182,7 @@ Song SW et al. *Safety and tolerability of Korean Red Ginseng in healthy adults:
 |---|---|---|
 | *Journal of Integrative Medicine*, 2026 | 국내 238개 한의원, 복용 전후 검사 2,791건의 후향적 분석 | AST·ALT와 이상 수치 비율이 감소. 연구가 정한 간손상 기준에 해당한 사례는 2건(0.07%), 한약과의 인과관계는 미확정 |
 | *Frontiers in Pharmacology*, 2025 | 약인성 간손상 진단자료 672,411명의 자기대조 연구 | 보험 한약 처방 관련 상대위험 추정치 0.99로, 분석 범위에서 뚜렷한 위험 증가가 관찰되지 않음 |
+| *Journal of Ethnopharmacology*, 2015 | 국내 7개 한방병원, 입·퇴원 검사 6,894명 후향적 분석 | 입원 시 간손상 354명 중 225명이 정상화 또는 유의한 회복; 입원 시 정상 4,769명 중 퇴원 시 간손상 27명(0.6%) |
 | *Archives of Toxicology*, 2017 | 국내 10개 한방병원 입원환자 1,001명 전향적 관찰 | 연구 기준상 한약 관련 간손상 6명(0.60%); 해당 6명에서 간손상 관련 임상증상은 보고되지 않음 |
 
 각 수치는 아래 원문을 기준으로 합니다. **간수치의 평균 변화, 검사 기준을 넘은 사례, 인과관계를 평가한 간손상은 서로 다른 지표**이므로 연구별 비율을 직접 비교해 순위를 매기지 않습니다.
@@ -236,6 +239,16 @@ AST·ALT는 전체적으로 유의하게 감소했고, 두 검사에서 이상 �
 
 [PMID 28634823](https://pubmed.ncbi.nlm.nih.gov/28634823/) · [DOI 10.1007/s00204-017-2007-9](https://doi.org/10.1007/s00204-017-2007-9)
 
+### 자생한방병원 6,894명의 입·퇴원 간검사 {#liver-safety-jaseng}
+
+2015년 *Journal of Ethnopharmacology* 논문은 2005~2013년 근골격계 질환으로 7개 한방병원에 입원해 한약을 복용한 환자 중 **입·퇴원 간검사가 모두 있는 6,894명**을 분석했습니다. 전체 입원환자 32,675명 가운데 검사자료가 갖춰진 집단이며, 한약을 복용하지 않은 대조군과 비교한 시험은 아닙니다.
+
+공개 초록의 판정 기준에 따르면 간손상 환자는 입원 시 354명에서 퇴원 시 217명으로 줄었고, 처음 간손상이 있던 354명 중 **225명은 정상 범위로 돌아오거나 유의한 회복**을 보였습니다. 반면 처음 정상인 4,769명 중 27명(0.6%)은 퇴원 시 간손상 기준에 해당했습니다. 이 결과는 해당 진료환경에서 대부분의 기존 간손상이 악화하지 않았다는 근거이며, 모든 검사 변화의 원인이 한약으로 확정됐다는 뜻은 아닙니다.
+
+한약의 간 안전성을 평가하는 실제 진료 자료로 읽되, 입원 중 다른 치료·음주 변화·회복 과정도 함께 고려합니다. 간질환 치료를 목적으로 설계한 시험과는 구별합니다.
+
+*Liver enzyme abnormalities in taking traditional herbal medicine in Korea: A retrospective large sample cohort study of musculoskeletal disorder patients.* [PMID 25956676](https://pubmed.ncbi.nlm.nih.gov/25956676/) · [DOI 10.1016/j.jep.2015.04.048](https://doi.org/10.1016/j.jep.2015.04.048)
+
 ### 안전성 연구를 실제 복용과 연결하기 {#liver-safety-in-practice}
 
 이 연구들이 뒷받침하는 설명은 **“의료기관에서 처방·관찰한 국내 연구에서는 전반적으로 양호한 간 안전성 결과가 보고됐으며, 검사 추적을 통해 개인별 경과를 구체적으로 확인할 수 있다”**입니다. 약재·제형·용량·복용기간이 달라지면 각각의 조건에 맞춰 판단합니다.
@@ -243,6 +256,50 @@ AST·ALT는 전체적으로 유의하게 감소했고, 두 검사에서 이상 �
 진료 시 최근 검사 결과와 전체 복용목록을 공유하고, 장기 복용이나 간질환 등 개인 상황에 맞춰 추적하면 안전성을 더 구체적으로 확인할 수 있습니다. 한의사가 처방한 한약, 성분이 다른 해외 보충제, 자가 조제한 민간요법은 각각의 제품·성분과 사용 조건으로 평가합니다.
 
 → [간수치가 높을 때 확인할 내용](../conditions/elevated-liver-enzymes.md) · [간 영양제와 한약의 병용](../conditions/liver-supplements-herbal.md)
+
+## 간질환 치료 연구: 간효소·섬유화·생존을 나누어 읽기 {#liver-treatment-evidence}
+
+**한약·본초 유래 제제를 사용한 간질환 연구에서는 간효소 개선, 섬유화 변화, 생존과의 긍정적인 연관이 보고돼 왔습니다.** 안전성 연구는 복용 중 손상이 얼마나 발생했는지, 치료 연구는 특정 간질환의 어떤 지표가 개선됐는지에 답합니다. ALT·AST 감소, HBV DNA 억제, 조직학적 섬유화 개선과 사망위험 감소는 각각 다른 결과입니다.
+
+### 2,000명·ALT 정상화 82%의 출처 {#liver-compound861}
+
+Wang의 2000년 종설 *Treatment of chronic liver diseases with traditional Chinese medicine*은 단삼을 중심으로 한 10종 약재의 **Compound 861** 연구를 소개합니다. 2,000명 공개시험에서 증상 호전 83%, ALT 정상화 82%를 보고했고, HBV 관련 질환 107명의 대조연구에서는 6개월 전후 조직검사로 섬유화 변화를 평가했습니다. 종설은 별도로 Phyllanthus류·oxymatrine의 HBV 관련 지표와 감초 유래 glycyrrhizin 제제 SNMC의 간효소 결과도 다룹니다.
+
+따라서 82%는 모든 한약의 효능이나 B형간염 바이러스 제거율이 아니라 **특정 제제의 공개시험에서 보고한 ALT 정상화 비율**입니다. 종설에 요약된 과거 연구이므로 현대 무작위시험과 같은 확정도로 해석하지 않습니다. NCBI는 해당 논문을 검색하는 경로이며 연구를 수행하거나 효능을 인증한 기관이 아닙니다.
+
+Wang BE. *J Gastroenterol Hepatol.* 2000;15 Suppl:E67–E70. [PMID 10921385](https://pubmed.ncbi.nlm.nih.gov/10921385/) · [출판사 초록·DOI](https://doi.org/10.1046/j.1440-1746.2000.02100.x)
+
+### 대만 B형간염 코호트: 사망위험과의 연관 {#hbv-herbal-cohort}
+
+Tsai 등의 2015년 연구는 대만 보험자료 표본에서 **라미부딘 치료를 받은 만성 B형간염 환자 1,037명**을 분석했습니다. 연구기간은 2004~2011년, 추적 중앙값은 **5.3년**이며 사망은 88건이었습니다. 한약 사용자의 전체 사망에 대한 조정 위험비는 비사용자 대비 **0.45(95% 신뢰구간 0.27–0.76)**였습니다.
+
+이는 추적 중 사망위험이 상대적으로 55% 낮게 관찰된 결과입니다. 전국 보험자료를 이용했지만 **전 국민을 10년씩 추적한 시험은 아니며**, 무작위배정 없이 확인한 연관입니다. 질환의 중증도·생활습관·진료 이용 차이 등 잔여 교란을 고려해야 합니다. 라미부딘 치료를 받은 집단의 결과이므로 항바이러스제를 대신하는 한약 단독치료의 효과로 옮기지 않습니다.
+
+Tsai DS et al. *The use of Chinese herbal medicines associated with reduced mortality in chronic hepatitis B patients receiving lamivudine treatment.* *J Ethnopharmacol.* 2015;174:161–167. [PMID 26277491](https://pubmed.ncbi.nlm.nih.gov/26277491/) · [DOI 10.1016/j.jep.2015.08.002](https://doi.org/10.1016/j.jep.2015.08.002)
+
+### 간암 생존 연구: 2016년 Scientific Reports {#hcc-herbal-survival}
+
+Gao 등의 후향적 연구는 진행성 간세포암 288명 중 한약과 기존 치료를 함께 받은 115명과 기존 치료를 받은 나머지 환자를 비교했습니다. **생존기간 중앙값은 13개월 대 6개월**, 5년 전체 생존율은 2.61% 대 0%로 보고됐습니다. 생존과 연관된 본초를 고른 뒤 네트워크 약리학으로 가능한 표적을 탐색했습니다.
+
+임상 생존자료와 기전 가설을 연결한 연구이지만 무작위시험은 아닙니다. 한약군에 최소 2개월 복용 조건이 있었고, 치료 선택·생존기간에 따른 편향 가능성을 고려해야 합니다. 결과는 해당 환자군의 긍정적인 연관으로 설명하며, 개인의 생존기간 연장 보장이나 표준 항암치료 중단의 근거로 사용하지 않습니다.
+
+Gao L et al. *Molecular targets of Chinese herbs: a clinical study of hepatoma based on network pharmacology.* *Scientific Reports.* 2016;6:24944. [PMID 27143508](https://pubmed.ncbi.nlm.nih.gov/27143508/) · [원문·DOI 10.1038/srep24944](https://www.nature.com/articles/srep24944)
+
+### 일본 소시호탕과 알코올성 간질환 연구 {#kampo-liver-trials}
+
+일본동양의학회의 Evidence Reports는 개별 시험의 대상과 비교군을 확인할 수 있는 자료입니다. 목록에 수록됐다는 사실과 현재 진료지침의 권고는 구별합니다.
+
+| 연구 | 비교와 주요 결과 | 적용 범위 |
+|---|---|---|
+| Hirayama 등, 1989 · 만성 활동성 간염 222명 다기관 이중맹검시험 | 소시호탕군 116명과 대조군 106명. 12주 AST·ALT 개선; HBe항원 음전·항체 양전은 군 간 유의차 없음 | 간효소 개선을 직접 평가한 연구. 바이러스 제거·간경변 진행 억제까지 입증한 시험으로 확대하지 않음 |
+| 高橋久雄·丸山勝也, 1993 · 입원 알코올의존 환자 49명 무작위시험 | 소시호탕 24명과 소시호탕·인진오령산 합방 25명을 3개월 비교. 두 군의 증상·간검사 개선, 합방군의 ALP 감소 | 무한약 대조군이 없고 입원 중 금주 효과가 함께 작용. 한약 자체의 효과 크기와 분리하기 어려움 |
+
+소시호탕 시험에서는 이상약물반응이 치료군 10명·대조군 3명, 치료군 중단이 4명 보고됐고, 알코올성 간질환 시험의 안전성 평가는 기재되지 않았습니다. 치료 결과와 안전성 보고를 함께 확인합니다.
+
+- Hirayama C et al. *A multicenter randomized controlled clinical trial of Shosaiko-to in chronic active hepatitis.* [PMID 2691317](https://pubmed.ncbi.nlm.nih.gov/2691317/) · [일본동양의학회 구조화 초록](https://www.jsom.or.jp/medical/ebm/ere/pdf/890002e.pdf)
+- 高橋久雄, 丸山勝也. *アルコール性肝障害に対する漢方薬の臨床.* 医学のあゆみ. 1993;167:811–814. [일본동양의학회 구조화 초록](https://www.jsom.or.jp/ebm/er/file/930013.pdf)
+
+→ [소시호탕의 구성·임상 연결](../formulas/xiaochaihu-tang.md) · [신장질환 치료 연구](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies) · [연구·근거 안내](../portal/evidence.md#liver-kidney-research)
 
 ## 간기능은 어떻게 확인하나요?
 
@@ -354,6 +411,8 @@ KDIGO는 만성콩팥병에서 eGFR과 알부민뇨를 적어도 매년 평가�
 이 연구의 **eGFR 20% 이상 감소** 지표는 KDIGO가 후속 검사에서 원인평가가 필요하다고 보는 변화 폭과 연결해 이해할 수 있습니다. 한약군에서 이 변화가 위약군보다 늘지 않았다는 결과는 해당 제제·기간의 단기 신장 안전성을 뒷받침합니다. 동시에 개별 환자에게 20%를 넘는 변화가 확인되면 군 평균과 별개로 재검사와 원인평가를 시행합니다.
 
 [PMID 38794115](https://pubmed.ncbi.nlm.nih.gov/38794115/) · [DOI 10.3390/ph17050544](https://doi.org/10.3390/ph17050544)
+
+**질환 치료효과를 평가한 연구**는 [황기·황촉규 임상연구](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies)에서 볼 수 있습니다. 신장기능 저하 속도·알부민뇨의 개선과 복용 안전성은 같은 시험에서도 별개의 평가항목입니다.
 
 → [크레아티닌·eGFR·단백뇨 이해하기](../conditions/chronic-kidney-disease.md) · [반하사심탕](../formulas/banxia-xiexin-tang.md)
 
