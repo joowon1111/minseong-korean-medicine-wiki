@@ -72,7 +72,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 목 통증·뻣뻣함 · 발열의 전통 주치 · 기침 [전통 주치·교육자료](https://www.americandragon.com/Points/DU-14.html)
+- **대표 주치·용도:** 목 통증·뻣뻣함 · 발열의 전통 주치 · 기침
 - **효능·활용 방향:** 서근 — 근육·힘줄의 긴장을 조절; 안신 — 긴장·수면 불편을 조절
 
 <details markdown="1">

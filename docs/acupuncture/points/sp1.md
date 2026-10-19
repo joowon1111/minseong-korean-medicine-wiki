@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 월경 과다 등 출혈의 전통 주치 · 식욕 저하 [전통 주치·교육자료](https://www.americandragon.com/Points/SP-1.html)
+- **대표 주치·용도:** 월경 과다 등 출혈의 전통 주치 · 식욕 저하
 - **효능·활용 방향:** 통혈·건비 — 출혈과 비위 허약을 다루는 전통적 방향
 
 <details markdown="1">

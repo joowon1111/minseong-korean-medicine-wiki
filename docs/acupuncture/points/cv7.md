@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 월경불순 · 대하 · 부종 [전통 주치·교육자료](https://www.americandragon.com/Points/REN-7.html)
+- **대표 주치·용도:** 월경불순 · 대하 · 부종
 - **효능·활용 방향:** 조경 — 월경 관련 증상을 조절; 청열 — 열 양상의 증상을 조절
 
 <details markdown="1">

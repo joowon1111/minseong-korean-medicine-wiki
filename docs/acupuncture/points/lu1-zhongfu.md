@@ -72,7 +72,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 기침 · 숨참 · 흉부 통증·답답함 · 어깨 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/LU-1.html)
+- **대표 주치·용도:** 기침 · 숨참 · 흉부 통증·답답함 · 어깨 통증
 - **효능·활용 방향:** 선폐·지해 — 기침·호흡 불편을 조절; 화담 — 담 관련 증상을 조절
 
 <details markdown="1">

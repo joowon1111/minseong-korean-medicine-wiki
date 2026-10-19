@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 안면마비·입 비뚤어짐 · 치통 · 턱 통증·개구 불편 [전통 주치·교육자료](https://www.americandragon.com/Points/ST-4.html)
+- **대표 주치·용도:** 안면마비·입 비뚤어짐 · 치통 · 턱 통증·개구 불편
 - **효능·활용 방향:** 치료 목표 — 안면마비·입 비뚤어짐의 완화와 치통의 조절
 
 <details markdown="1">

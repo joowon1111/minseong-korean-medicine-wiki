@@ -39,6 +39,21 @@ class SourceRoleTests(unittest.TestCase):
         ki3 = self.catalog['points']['KI3']['clinical']
         self.assertTrue(any(r.get('pattern') == '음허화왕' for r in ki3))
 
+    def test_removed_education_links_do_not_survive_in_public_point_data(self):
+        for filename in ['data/acupoint_clinical.json', 'data/acupoint_catalog.json',
+                         'docs/assets/acupoint-atlas/discovery.json',
+                         'docs/assets/acupoint-3d/points.json']:
+            text = (sources.ROOT / filename).read_text()
+            self.assertNotIn('www.americandragon.com', text, filename)
+            self.assertNotIn('www.acupuncture.com', text, filename)
+        point = self.clinical['points']['LI2']
+        rendered = sources.render_profile('LI2', point, self.clinical['references'], self.data)
+        self.assertIn('치통 · 인후 통증 · 눈 통증', rendered)
+        self.assertNotIn(']()', rendered)
+        # The location DB remains a location citation, never a substitute indication source.
+        indication = next(line for line in rendered.splitlines() if '대표 주치·용도' in line)
+        self.assertNotIn('https://', indication)
+
     def test_classic_groups_and_pairs_are_not_trial_results(self):
         command = {c for c, attrs in self.data['specific_attributes'].items()
                    if any(a['label'] == '사총혈' for a in attrs)}

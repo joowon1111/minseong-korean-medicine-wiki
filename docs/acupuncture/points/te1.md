@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 두통 · 인후 통증 · 오심 [전통 주치·교육자료](https://www.americandragon.com/Points/SJ-1.html)
+- **대표 주치·용도:** 두통 · 인후 통증 · 오심
 - **효능·활용 방향:** 이규 — 귀 관련 증상을 다루는 방향; 활혈 — 전통적 혈행 정체를 조절
 
 <details markdown="1">

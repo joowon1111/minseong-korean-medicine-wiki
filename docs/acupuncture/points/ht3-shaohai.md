@@ -32,7 +32,7 @@ tags: [경혈, 침구, 임상한의학]
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 팔꿈치 통증 · 팔 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/HT-3.html)
+- **대표 주치·용도:** 팔꿈치 통증 · 팔 통증
 - **효능·활용 방향:** 통경 — 경맥의 통증·불편을 조절; 안신 — 긴장·수면 불편을 조절
 
 <details markdown="1">

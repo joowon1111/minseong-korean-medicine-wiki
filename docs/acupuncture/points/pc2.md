@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 팔 통증 · 기침 · 두근거림 [전통 주치·교육자료](https://www.americandragon.com/Points/PC-2.html)
+- **대표 주치·용도:** 팔 통증 · 기침 · 두근거림
 - **효능·활용 방향:** 지통 — 통증을 완화하는 방향; 활혈 — 전통적 혈행 정체를 조절
 
 <details markdown="1">

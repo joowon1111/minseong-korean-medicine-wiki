@@ -33,7 +33,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 입안 염증·불편 · 손바닥 발한 · 손 저림 [전통 주치·교육자료](https://www.americandragon.com/Points/PC-8.html)
+- **대표 주치·용도:** 입안 염증·불편 · 손바닥 발한 · 손 저림
 - **효능·활용 방향:** 청열·안신 — 열 양상과 긴장·불편을 다루는 방향
 
 <details markdown="1">

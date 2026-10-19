@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 발목 통증 · 복부팽만 · 설사 [전통 주치·교육자료](https://www.americandragon.com/Points/SP-5.html)
+- **대표 주치·용도:** 발목 통증 · 복부팽만 · 설사
 - **효능·활용 방향:** 서근 — 근육·힘줄의 긴장을 조절; 건비 — 비위의 소화·운화 기능을 보완
 
 <details markdown="1">

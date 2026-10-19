@@ -67,8 +67,10 @@ def render_profile(code, point, references, sources=None):
                 number = citations.index(citation) + 1
                 ref = refs[item['source_id']]
                 source_link = f' [출처 {number}]({ref["url"]})'
-            else:
+            elif item.get("source_url"):
                 source_link = f' [{item["source_label"]}]({item["source_url"]})'
+            else:
+                source_link = ""
             text = item.get('text', ' · '.join(item.get('items', [])))
             lines.append(f'- **{item["label"]}:** {text}{source_link}')
             if item.get('explanation'):
@@ -161,10 +163,10 @@ def portal_sources(data, sources):
         f'| 현대 연구의 활용·결과 | **{roles["research"]}경혈** | 사용 빈도 분석과 치료 결과를 구분합니다. 배혈 비교시험도 단일혈의 효과를 확정하지 않습니다. |', '',
         f'기존 국내 자료 **27경혈은 보존**했습니다. 족삼리의 기본 주치를 국내 문헌으로 교체하고, '
         f'문헌·지침을 보완하여 현재 **{counts["any_domestic_content"]}경혈**에 국내 주치·활용 자료가 연결되어 있습니다. '
-        f'**{counts["legacy_content_only"]}경혈**의 주치·효능은 기존 교육자료 출처를 유지합니다. '
+        f'**{counts["legacy_content_only"]}경혈**에는 별도로 검증한 국내 주치·활용 출처가 연결되어 있지 않습니다. '
         '층별 경혈 수는 서로 중복됩니다.', '',
         '**361경혈 전체의 기본 전통 주치·효능을 포괄하고 이용 범위까지 확인한 국내 공통 원문은 아직 확보하지 못했습니다.** '
-        '국내 자료가 일부만 확인된 혈은 기존 교육자료와 함께 표시합니다. 표준 DB 링크가 있다는 이유로 주치까지 국내 자료로 검증했다고 표시하지 않습니다.', '',
+        '기존 전통 주치 요약은 유지하되, 적합한 개별 출처가 확인되지 않으면 외부 링크를 붙이지 않습니다. 위치·취혈 DB를 주치 출처로 대신 연결하지 않습니다.', '',
         '<details markdown="1">', '<summary>국내 문헌·진료지침과 확인한 범위</summary>', '']
     for key, ref in data['references'].items():
         lines += [f'- **{ref["authors"]}**. [{ref["title"]}]({ref["url"]}). '

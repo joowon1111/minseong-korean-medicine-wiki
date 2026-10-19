@@ -74,7 +74,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 딸꾹질 · 복부팽만 · 등 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/UB-17.html)
+- **대표 주치·용도:** 딸꾹질 · 복부팽만 · 등 통증
 - **효능·활용 방향:** 보기 — 기허 양상의 회복을 보완; 안신 — 긴장·수면 불편을 조절
 
 <details markdown="1">

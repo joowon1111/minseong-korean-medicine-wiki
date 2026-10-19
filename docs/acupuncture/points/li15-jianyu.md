@@ -32,7 +32,7 @@ tags: [경혈, 침구, 임상한의학]
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 어깨 통증 · 팔 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/LI-15.html)
+- **대표 주치·용도:** 어깨 통증 · 팔 통증
 - **효능·활용 방향:** 서근 — 근육·힘줄의 긴장을 조절; 지통 — 통증을 완화하는 방향
 
 <details markdown="1">

@@ -32,7 +32,7 @@ tags: [경혈, 임상한의학]
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 위완부 통증 · 복통 · 설사 [전통 주치·교육자료](https://www.americandragon.com/Points/SP-4.html)
+- **대표 주치·용도:** 위완부 통증 · 복통 · 설사
 - **효능·활용 방향:** 치료 목표 — 위완부 통증의 완화와 복통의 조절
 - **팔맥교회혈의 배혈:** PC6와 함께 가슴·위장 부위를 다루는 전통적인 배혈로 설명됩니다. [출처 1](https://koreascience.kr/article/JAKO202432472148656.pdf)
 

@@ -15,7 +15,7 @@ class ClinicalCoverageTests(unittest.TestCase):
         cls.atlas = json.loads((ROOT / 'data/acupoint_diagrams.json').read_text())
         cls.formulas = json.loads((ROOT / 'data/saam_formulas.json').read_text())['formulas']
 
-    def test_every_standard_point_has_cited_indications_and_assessment(self):
+    def test_every_standard_point_keeps_indications_and_optional_sources(self):
         atlas_points = {p['code']: p for r in self.atlas['regions'] for p in r['points']}
         self.assertEqual(len(atlas_points), 361)
         self.assertEqual(set(self.points), set(atlas_points))
@@ -23,7 +23,10 @@ class ClinicalCoverageTests(unittest.TestCase):
             with self.subTest(code=code):
                 self.assertEqual(point['path'], atlas_points[code]['path'])
                 self.assertTrue(point['indications'] and point['actions'] and point['clinical'])
-                self.assertTrue(point['source'].startswith('https://'))
+                if point['source']:
+                    self.assertTrue(point['source'].startswith('https://'))
+                else:
+                    self.assertEqual(point['basis'], '전통 주치 요약')
                 self.assertTrue((ROOT / 'docs' / point['clinical_path']).is_file())
                 text = (ROOT / 'docs' / point['path']).read_text()
                 self.assertEqual(text.count(clinical.START), 1)
@@ -78,7 +81,7 @@ class ClinicalCoverageTests(unittest.TestCase):
         reviewed = {code: p for code, p in self.points.items()
                     if p.get('profile_kind') == 'domestic_review'}
         self.assertEqual(len(reviewed), 27)
-        self.assertEqual(sum('americandragon.com' in p['source'] for p in self.points.values()), 324)
+        self.assertEqual(sum(not p['source'] for p in self.points.values()), 333)
         for code, point in reviewed.items():
             with self.subTest(code=code):
                 refs = {r['id']: data['references'][r['id']] for r in point['references']}

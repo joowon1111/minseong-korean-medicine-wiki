@@ -70,7 +70,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 두통 · 어지럼 · 인후 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/KI-1.html)
+- **대표 주치·용도:** 두통 · 어지럼 · 인후 통증
 - **효능·활용 방향:** 안신 — 긴장·수면 불편을 조절; 화담 — 담 관련 증상을 조절
 - **오수혈 문헌의 배혈:** 곤륜과의 배합을 포함하여 허리·어깨·등·목의 통증에 활용한 기록을 분석했습니다. [출처 1](https://koreascience.kr/article/JAKO202007650436656.pdf)
 

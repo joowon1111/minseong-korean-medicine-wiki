@@ -72,7 +72,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 두근거림 · 어지럼 [전통 주치·교육자료](https://www.americandragon.com/Points/HT-5.html)
+- **대표 주치·용도:** 두근거림 · 어지럼
 - **효능·활용 방향:** 안신 — 긴장·수면 불편을 조절; 통경 — 경맥의 통증·불편을 조절
 - **천성십이혈의 관련 부위:** 가슴를 중심으로 활용한 고전 경혈군의 해석입니다. [출처 1](https://koreascience.kr/article/JAKO202432472148656.pdf)
 

@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 월경불순 · 외음부 가려움 · 발등 통증 [전통 주치·교육자료](https://www.acupuncture.com/education/points/kidney/kid2.htm)
+- **대표 주치·용도:** 월경불순 · 외음부 가려움 · 발등 통증
 - **효능·활용 방향:** 청허열·조하초 — 허열 및 하초 증상을 조절
 
 <details markdown="1">

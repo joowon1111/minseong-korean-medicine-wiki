@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 눈 통증 · 시야 흐림 · 두통 [전통 주치·교육자료](https://www.americandragon.com/Points/GB-1.html)
+- **대표 주치·용도:** 눈 통증 · 시야 흐림 · 두통
 - **효능·활용 방향:** 치료 목표 — 눈 통증의 완화와 시야 흐림의 조절
 
 <details markdown="1">

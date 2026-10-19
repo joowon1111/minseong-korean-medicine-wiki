@@ -74,7 +74,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 소화불량 · 식욕 저하 · 설사 [전통 주치·교육자료](https://www.americandragon.com/Points/UB-20.html)
+- **대표 주치·용도:** 소화불량 · 식욕 저하 · 설사
 - **효능·활용 방향:** 치료 목표 — 소화불량의 완화와 식욕 저하의 조절
 
 **현대 임상 활용**

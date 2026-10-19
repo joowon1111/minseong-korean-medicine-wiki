@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 요통 · 발 통증 · 월경불순 [전통 주치·교육자료](https://www.americandragon.com/Points/DU-2.html)
+- **대표 주치·용도:** 요통 · 발 통증 · 월경불순
 - **효능·활용 방향:** 이요 — 허리의 통증·기능을 다루는 방향
 
 <details markdown="1">

@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 청력 저하 · 귀 통증 · 팔 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/SJ-7.html)
+- **대표 주치·용도:** 청력 저하 · 귀 통증 · 팔 통증
 - **효능·활용 방향:** 명목 — 눈 관련 증상을 다루는 방향; 지통 — 통증을 완화하는 방향
 
 <details markdown="1">

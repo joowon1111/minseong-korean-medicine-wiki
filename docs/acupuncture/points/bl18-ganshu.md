@@ -74,7 +74,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 위완부 통증 · 복통 · 옆구리 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/UB-18.html)
+- **대표 주치·용도:** 위완부 통증 · 복통 · 옆구리 통증
 - **효능·활용 방향:** 명목 — 눈 관련 증상을 다루는 방향; 양혈 — 혈허 양상을 보완
 
 **현대 임상 활용**

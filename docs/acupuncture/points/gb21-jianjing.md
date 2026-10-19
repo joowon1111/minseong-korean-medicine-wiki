@@ -32,7 +32,7 @@ tags: [경혈, 침구, 임상한의학]
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 목 통증·뻣뻣함 · 어깨 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/GB-21.html)
+- **대표 주치·용도:** 목 통증·뻣뻣함 · 어깨 통증
 - **효능·활용 방향:** 치료 목표 — 목 통증·뻣뻣함의 완화와 어깨 통증의 조절
 
 <details markdown="1">

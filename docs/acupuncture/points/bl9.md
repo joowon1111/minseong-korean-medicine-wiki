@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 목 통증·뻣뻣함 · 두통 · 어지럼 [전통 주치·교육자료](https://www.americandragon.com/Points/UB-9.html)
+- **대표 주치·용도:** 목 통증·뻣뻣함 · 두통 · 어지럼
 - **효능·활용 방향:** 지통 — 통증을 완화하는 방향; 통비규 — 코의 막힘을 조절
 
 <details markdown="1">

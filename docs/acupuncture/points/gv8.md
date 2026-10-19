@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 등의 뻣뻣함·근육경련 [전통 주치·교육자료](https://www.americandragon.com/Points/DU-8.html)
+- **대표 주치·용도:** 등의 뻣뻣함·근육경련
 - **효능·활용 방향:** 치료 목표 — 등의 뻣뻣함·근육경련의 완화
 
 <details markdown="1">
