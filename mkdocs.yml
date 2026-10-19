@@ -7,7 +7,7 @@ use_directory_urls: true
 extra_javascript:
   - assets/reading-layout.js?v=20261018
   - assets/article-sharing.js?v=20261014
-  - assets/acupoint-3d/launch.js?v=20261012-style
+  - assets/acupoint-3d/launch.js?v=20261019-links
   - assets/archive-tools/search-core.js?v=20261009-03
   - assets/archive-tools/ai-client.js?v=20261009-03
   - assets/archive-tools/tools.js?v=20261013-full-formulas
