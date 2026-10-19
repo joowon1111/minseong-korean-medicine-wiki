@@ -72,7 +72,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 배뇨 불편 · 설사 · 복통 [전통 주치·교육자료](https://www.americandragon.com/Points/UB-28.html)
+- **대표 주치·용도:** 배뇨 불편 · 설사 · 복통
 - **효능·활용 방향:** 이요 — 허리의 통증·기능을 다루는 방향; 청열 — 열 양상의 증상을 조절
 
 <details markdown="1">

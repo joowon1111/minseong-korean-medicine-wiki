@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 치통 · 볼 부종 · 턱 통증·개구 불편 [전통 주치·교육자료](https://www.acupuncture.com/education/points/stomach/st5.htm)
+- **대표 주치·용도:** 치통 · 볼 부종 · 턱 통증·개구 불편
 - **효능·활용 방향:** 거풍·소종 — 안면의 붓기·턱 불편을 조절
 
 <details markdown="1">

@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 유즙 분비 부족 · 인후 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/SI-1.html)
+- **대표 주치·용도:** 유즙 분비 부족 · 인후 통증
 - **효능·활용 방향:** 청열 — 열 양상의 증상을 조절; 통경 — 경맥의 통증·불편을 조절
 
 <details markdown="1">

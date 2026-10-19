@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 두통 · 눈 충혈 · 월경불순 [전통 주치·교육자료](https://www.americandragon.com/Points/LIV-2.html)
+- **대표 주치·용도:** 두통 · 눈 충혈 · 월경불순
 - **효능·활용 방향:** 청열 — 열 양상의 증상을 조절
 - **오수혈 문헌의 관련 증상:** 『영추』 「오사」의 옆구리 통증 관련 기록에서 행간의 활용을 분석했습니다. [출처 1](https://koreascience.kr/article/JAKO202007650436656.pdf)
 

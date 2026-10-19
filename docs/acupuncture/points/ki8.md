@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 월경불순 · 월경 과다 등 출혈의 전통 주치 · 복통 [전통 주치·교육자료](https://www.americandragon.com/Points/KI-8.html)
+- **대표 주치·용도:** 월경불순 · 월경 과다 등 출혈의 전통 주치 · 복통
 - **효능·활용 방향:** 조경 — 월경 관련 증상을 조절; 청열 — 열 양상의 증상을 조절
 
 <details markdown="1">

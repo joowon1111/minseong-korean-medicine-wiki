@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 두통 · 코막힘 · 시야 흐림 [전통 주치·교육자료](https://www.acupuncture.com/education/points/urinarybladder/ub4.htm)
+- **대표 주치·용도:** 두통 · 코막힘 · 시야 흐림
 - **효능·활용 방향:** 두부·비부 증상 조절 — 두통·코막힘을 다루는 방향
 
 <details markdown="1">

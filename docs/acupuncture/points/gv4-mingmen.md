@@ -72,7 +72,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 요통 · 하지 무력감 · 월경불순 [전통 주치·교육자료](https://www.americandragon.com/Points/DU-4.html)
+- **대표 주치·용도:** 요통 · 하지 무력감 · 월경불순
 - **효능·활용 방향:** 이요 — 허리의 통증·기능을 다루는 방향; 안신 — 긴장·수면 불편을 조절
 
 **현대 임상 활용**

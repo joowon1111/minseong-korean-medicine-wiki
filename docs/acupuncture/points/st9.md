@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 천명·천식 증상 · 숨참 · 구토·헛구역 [전통 주치·교육자료](https://www.americandragon.com/Points/ST-9.html)
+- **대표 주치·용도:** 천명·천식 증상 · 숨참 · 구토·헛구역
 - **효능·활용 방향:** 치료 목표 — 천명·천식 증상의 완화와 숨참의 조절
 
 <details markdown="1">

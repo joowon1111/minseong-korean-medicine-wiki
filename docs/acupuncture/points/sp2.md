@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 복부팽만 · 설사 · 위완부 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/SP-2.html)
+- **대표 주치·용도:** 복부팽만 · 설사 · 위완부 통증
 - **효능·활용 방향:** 치료 목표 — 복부팽만의 완화와 설사의 조절
 - **오수혈 문헌의 배혈:** 대도·태백을 복부와 가슴의 팽만에 함께 활용한 『영추』 「궐병」의 기록을 정리했습니다. [출처 1](https://koreascience.kr/article/JAKO202007650436656.pdf)
 

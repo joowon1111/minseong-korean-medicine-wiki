@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 좌골신경통 양상의 하지 통증 · 설사 · 치핵 관련 불편 [전통 주치·교육자료](https://www.americandragon.com/Points/DU-5.html)
+- **대표 주치·용도:** 좌골신경통 양상의 하지 통증 · 설사 · 치핵 관련 불편
 - **효능·활용 방향:** 이요 — 허리의 통증·기능을 다루는 방향
 
 <details markdown="1">

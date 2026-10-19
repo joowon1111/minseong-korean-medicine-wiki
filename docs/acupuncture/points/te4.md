@@ -33,7 +33,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 손목 통증·기능 저하 · 팔 통증 [전통 주치·교육자료](https://www.americandragon.com/Points/SJ-4.html)
+- **대표 주치·용도:** 손목 통증·기능 저하 · 팔 통증
 - **효능·활용 방향:** 치료 목표 — 손목 통증·기능 저하의 완화와 팔 통증의 조절
 
 <details markdown="1">

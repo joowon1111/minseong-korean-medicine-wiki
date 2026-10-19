@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 청력 저하 · 두통 · 어지럼 [전통 주치·교육자료](https://www.americandragon.com/Points/SJ-9.html)
+- **대표 주치·용도:** 청력 저하 · 두통 · 어지럼
 - **효능·활용 방향:** 이인 — 인후 불편을 조절
 
 <details markdown="1">

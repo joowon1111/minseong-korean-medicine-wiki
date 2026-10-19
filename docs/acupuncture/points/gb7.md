@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 두통 · 목 통증·뻣뻣함 · 구토·헛구역 [전통 주치·교육자료](https://www.americandragon.com/Points/GB-7.html)
+- **대표 주치·용도:** 두통 · 목 통증·뻣뻣함 · 구토·헛구역
 - **효능·활용 방향:** 치료 목표 — 두통의 완화와 목 통증·뻣뻣함의 조절
 
 <details markdown="1">

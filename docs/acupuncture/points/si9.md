@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 어깨 통증 · 목 통증·뻣뻣함 · 과도한 발한 [전통 주치·교육자료](https://www.americandragon.com/Points/SI-9.html)
+- **대표 주치·용도:** 어깨 통증 · 목 통증·뻣뻣함 · 과도한 발한
 - **효능·활용 방향:** 통경 — 경맥의 통증·불편을 조절; 지통 — 통증을 완화하는 방향
 
 <details markdown="1">

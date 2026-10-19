@@ -32,7 +32,7 @@ last_reviewed: 2026-08-22
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
 
-- **대표 주치·용도:** 두통 · 어지럼 · 코막힘 [전통 주치·교육자료](https://www.americandragon.com/Points/UB-3.html)
+- **대표 주치·용도:** 두통 · 어지럼 · 코막힘
 - **효능·활용 방향:** 치료 목표 — 두통의 완화와 어지럼의 조절
 
 <details markdown="1">
