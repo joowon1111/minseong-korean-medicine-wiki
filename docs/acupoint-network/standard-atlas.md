@@ -18,6 +18,9 @@ WHO 표준 361경혈 체계에 따라 각 경혈의 상세 페이지를 경락�
 
 [**3D 경혈 지도에서 돌려보기 →**](3d-map.md){ .md-button }
 
+[부위별 비교 학습](#regional-learning){ .md-button }
+[변증과 경혈 선택 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026){ .md-button }
+
 ## 경혈·침법 통합 탐색 {#clinical-explorer}
 
 **경혈 이름, 증상, 근육·신경을 검색**하고 경락·부위로 좁혀 보세요. 표준경혈 361혈, 사암침 정격·승격 24조합, 동씨기혈 50개 위치점을 기존 상세 문서와 함께 찾습니다. 결과를 선택하면 위치 그림·주치 출처·해부학 설명을 한 화면에서 읽을 수 있습니다. 한격·열격은 출처별 구성을 읽는 개념 안내로 연결합니다. 도해 속 경혈을 누르면 같은 화면에서 설명이 바뀝니다. 사암침의 보혈·사혈과 각 경혈의 조합 역할도 서로 이동할 수 있습니다. 그림은 300%까지 확대하고 스크롤하거나 크게 볼 수 있으며, **선택·검색 링크 복사**로 현재 경혈과 경락·부위·검색어를 함께 공유합니다.
@@ -49,6 +52,37 @@ WHO 표준 361경혈 체계에 따라 각 경혈의 상세 페이지를 경락�
 **경혈 위치 · 경맥 전체 · 부위 근육** 버튼으로 그림을 바꿀 수 있습니다. 근육 그림은 해당 부위의 해부학을 이해하는 자료이며 특정 경혈의 조직층을 정밀하게 표시한 그림은 아닙니다. 해부학 검색은 현재 상세 문서에 기술된 주변 구조를 대상으로 합니다. 내부 장기의 근접 관계도 해당 경혈 본문에서 확인된 설명을 읽고, 전통적인 장부명과 현대 해부학적 장기를 구분합니다.
 
 [근육·말초신경 지도](../clinical-anatomy/index.md) · [근육·근막 도해](../clinical-anatomy/mps-atlas.md) · [경혈·근육·신경 초음파 지도](../musculoskeletal-ultrasound/acupoint-ultrasound-map.md)에서 함께 확인하세요. 증상 검색은 자료를 찾는 기능이며 치료 처방을 자동으로 결정하지 않습니다.
+
+## 부위·표리경으로 비교하며 배우기 {#regional-learning}
+
+경맥 순서로 익힌 혈을 **같은 부위에서 다시 비교**하면 앞뒤 면과 뼈·힘줄 표지의 차이를 설명하기 쉽습니다. 아래는 아카이브 자료를 연결한 자체 학습안입니다. 표의 혈명은 표준 위치 문서로, 부위명은 도해로 연결되며 각 상세 문서의 3D 버튼으로 입체 위치를 이어 볼 수 있습니다.
+
+| 비교할 부위 | 먼저 비교할 경혈 | 관찰 과제 |
+|---|---|---|
+| [손·손목](#visual-region-2) | [태연 LU9](../acupuncture/points/lu9-taiyuan.md) · [양계 LI5](../acupuncture/points/li5.md) · [신문 HT7](../acupuncture/points/ht7-shenmen.md) · [양곡 SI5](../acupuncture/points/si5.md) · [대릉 PC7](../acupuncture/points/pc7-daling.md) · [양지 TE4](../acupuncture/points/te4.md) | 손바닥쪽·손등쪽, 노쪽·자쪽을 먼저 나누고 주름과 힘줄 표지를 비교 |
+| [아래팔](#visual-region-2) | [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [외관 TE5](../acupuncture/points/te5-waiguan.md) · [열결 LU7](../acupuncture/points/lu7-lieque.md) · [편력 LI6](../acupuncture/points/li6.md) | 같은 아래팔에서 앞뒤 면과 기준점을 바꾸어 위치 문장을 읽기 |
+| [팔꿈치](#visual-region-3) | [척택 LU5](../acupuncture/points/lu5-chize.md) · [곡지 LI11](../acupuncture/points/li11-quchi.md) · [소해 HT3](../acupuncture/points/ht3-shaohai.md) · [소해 SI8](../acupuncture/points/si8.md) | 팔꿈치주름과 뼈의 표지를 확인하고 같은 이름의 소해 두 혈을 구별 |
+| [무릎·종아리](#visual-region-5) | [족삼리 ST36](../acupuncture/points/st36-zusanli.md) · [음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md) · [양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md) · [위중 BL40](../acupuncture/points/bl40-weizhong.md) | 앞·안쪽·가쪽·뒤쪽을 나누어 정강뼈·종아리뼈·오금의 관계 비교 |
+| [발·발목](#visual-region-4) | [태계 KI3](../acupuncture/points/ki3-taixi.md) · [곤륜 BL60](../acupuncture/points/bl60-kunlun.md) · [태충 LR3](../acupuncture/points/lr3-taichong.md) · [족임읍 GB41](../acupuncture/points/gb41.md) | 안쪽·가쪽 복사와 발등의 뼈 사이를 구별 |
+| [목·어깨](#visual-region-6) | [풍지(風池) GB20](../acupuncture/points/gb20-fengchi.md) · [천주 BL10](../acupuncture/points/bl10-tianzhu.md) · [견우 LI15](../acupuncture/points/li15-jianyu.md) · [천종 SI11](../acupuncture/points/si11-tianzong.md) | 목 뒤와 어깨·견갑부를 구분하고 뼈 표지와 자세 확인 |
+| [가슴·배](#visual-chest) | [중부 LU1](../acupuncture/points/lu1-zhongfu.md) · [중완(中脘) CV12](../acupuncture/points/cv12-zhongwan.md) · [천추 ST25](../acupuncture/points/st25-tianshu.md) · [관원(關元) CV4](../acupuncture/points/cv4-guanyuan.md) | 정중선·배꼽 등 기준점과 세로·가로의 상대 위치를 구별 |
+| [등·허리](#visual-back) | [신수 BL23](../acupuncture/points/bl23-shenshu.md) · [기해수 BL24](../acupuncture/points/bl24.md) · [대장수 BL25](../acupuncture/points/bl25-dachangshu.md) · [요양관 GV3](../acupuncture/points/gv3.md) | 같은 높이와 다른 높이를 구분하고 정중선에서의 관계 비교 |
+
+**표리경별 복습:** [폐–대장·심–소장·심포–삼초·비–위·신–방광·간–담의 6쌍](../acupuncture-specific/pairing-principles.md#paired-meridian-study)을 비교합니다. 표리관계는 전통적 분류이고, 실제로 이웃한 조직 관계는 해부학으로 별도 확인합니다.
+
+### 8회 학습 순서 예시 {#regional-study-course}
+
+1. **손·손목:** 노쪽·자쪽, 손바닥쪽·손등쪽을 말하고 인접 혈을 구별합니다.
+2. **아래팔·팔꿈치:** 기준 구간과 관절 자세를 확인하고 표리경을 비교합니다.
+3. **발·발목:** 복사와 힘줄·발등 표지를 찾고 신경–방광경, 간경–담경을 비교합니다.
+4. **무릎·종아리:** 앞·안쪽·가쪽·뒤의 경혈을 한 부위 안에서 재배열합니다.
+5. **목·어깨·견갑부:** 경혈 위치, 근육 기능, 통증·저림 분포를 구분해 설명합니다.
+6. **가슴·배·등·허리:** 정중선·척추 높이·신체 비례를 확인하고 전후면을 비교합니다.
+7. **조직층:** [경혈–해부학 기록표](../clinical-anatomy/index.md#acupoint-spatial-record)로 표면 위치와 주변 조직을 연결합니다.
+8. **임상 자료:** [423명 변증·경혈 선택 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026)를 읽고 위치 정보와 처방 경향이 서로 다른 자료임을 설명합니다.
+
+각 회차의 확인 질문은 ‘위치를 무엇으로 구별했는가’, ‘3D 그림만으로 알 수 없는 것은 무엇인가’, ‘선택 이유를 뒷받침하는 출처는 무엇인가’입니다. 자침 실습은 전문 교육에서 지도하에 진행하며, 이 과정은 위치·자료 해석 학습을 위한 안내입니다.
+
 
 ## 부위별 경혈 위치 도해 {#five-shu-diagrams}
 

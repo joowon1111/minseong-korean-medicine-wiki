@@ -31,6 +31,19 @@ hide:
 
 컴퓨터에서는 드래그로 회전, 휠로 확대, 오른쪽 버튼이나 Shift를 누른 드래그로 이동합니다. 휴대전화에서는 한 손가락으로 회전하고 두 손가락으로 확대·이동합니다.
 
+## 점의 위치에서 주변 공간으로 {#spatial-learning}
+
+한 혈을 선택한 뒤 **표면 위치 → 주변 뼈·근육 → 다른 면에서의 관계 → 실제 위치 설명** 순서로 살펴보세요. 같은 화면에서 조직을 겹쳐 보더라도, 표면의 점과 깊은 조직의 관계를 개별 환자에서 확인한 것으로 해석하지 않습니다.
+
+| 시작할 경혈 | 모형에서 비교할 질문 | 이어 읽기 |
+|---|---|---|
+| [내관 PC6](3d-map.md?point=PC6) | 아래팔 앞뒤 면을 바꾸면 위치 관계가 어떻게 보이는가 | [내관의 표준 위치](../acupuncture/points/pc6-neiguan.md) · [조직층 확인](../musculoskeletal-ultrasound/acupoint-ultrasound-map.md#layer-observation) |
+| [족삼리 ST36](3d-map.md?point=ST36) | 무릎 아래의 앞·안쪽·가쪽을 어떤 뼈 표지로 구별하는가 | [족삼리 상세](../acupuncture/points/st36-zusanli.md) · [하지 해부학](../clinical-anatomy/index.md#lower-limb) |
+| [태계 KI3](3d-map.md?point=KI3) / [곤륜 BL60](3d-map.md?point=BL60) | 안쪽 복사와 가쪽 복사를 기준으로 두 혈을 구별할 수 있는가 | [표리경 비교](../acupuncture-specific/pairing-principles.md#paired-meridian-study) |
+
+[8회 부위별 학습 순서](standard-atlas.md#regional-study-course)와 [해부학 기록표](../clinical-anatomy/index.md#acupoint-spatial-record)를 함께 사용하면 회전·확대 후 관찰한 내용을 정리할 수 있습니다.
+
+
 ## 모형과 실제 위치를 구분합니다
 
 경혈 점과 경락선은 **성인 남성 참고 모형에 맞춘 근사 표시**입니다. 경락선은 경혈의 위치 관계를 연결한 교육용 선이며 실제 혈관·신경을 나타내지 않습니다. 실제 위치는 체형·자세와 해부학적 표지, 신체 비례에 따라 달라집니다. 피부 아래 조직을 켜더라도 특정 경혈의 자침 경로·방향·깊이를 확인한 영상이 되지는 않습니다.
