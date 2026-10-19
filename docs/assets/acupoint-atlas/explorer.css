@@ -76,3 +76,14 @@
 .discovery-figure.discovery-expanded .discovery-viewport{height:75vh}
 .discovery-source input{display:block;width:100%;padding:.5rem;color:var(--md-default-fg-color);background:var(--md-default-bg-color);border:1px solid var(--md-default-fg-color--light)}
 @media(max-width:850px){.discovery-viewport{height:370px}.discovery-figure object{height:100%}}
+
+/* Connect every point heading to its canonical parent without changing anchors. */
+.acupoint-title-row{display:flex;flex-wrap:wrap;align-items:center;gap:.7rem 1rem;margin:0 0 .35rem}
+.md-typeset .acupoint-title-row h1{margin:0}
+.acupoint-meridian-parent{display:inline-flex;flex-wrap:wrap;align-items:center;gap:.25rem .5rem;min-height:44px;padding:.5rem .75rem;border:1px solid var(--md-primary-fg-color);border-radius:10px;background:var(--md-code-bg-color);line-height:1.5;text-decoration:none}
+.acupoint-meridian-parent span{font-size:.65rem;color:var(--md-default-fg-color--light)}
+.acupoint-meridian-parent strong{font-size:.85rem}
+.acupoint-meridian-overview{margin:0 0 1.25rem;font-size:.75rem}
+.acupoint-meridian-overview a{display:inline-flex;align-items:center;min-height:44px;padding:.3rem 0;text-decoration:underline;text-underline-offset:.2em}
+.acupoint-meridian a:hover{border-color:var(--md-accent-fg-color)}
+.acupoint-meridian a:focus-visible,.acupoint-meridian-overview a:focus-visible{outline:3px solid var(--md-accent-fg-color);outline-offset:3px}

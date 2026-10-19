@@ -21,6 +21,20 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       await page.screenshot({path:`archive-browser-results/home-responsive-${width}.png`});
       await page.goto(base + '/acupuncture/points/lu2/', {waitUntil:'networkidle'});
       assert.equal(await page.locator('link[href*="acupoint-atlas/explorer.css"]').count(), 1, 'Point detail must load its navigation styles');
+      const parent = page.locator('.acupoint-meridian-parent');
+      assert.match(await parent.textContent(), /소속 경맥\s*수태음폐경 LU →/);
+      assert.equal(await parent.getAttribute('href'), '/meridian-network/lung-meridian/');
+      const parentBox = await parent.boundingBox();
+      assert(parentBox.height >= 44 && parentBox.x >= 0 && parentBox.x + parentBox.width <= width, 'Parent link must fit and be easy to tap');
+      if (width >= 768) {
+        const title = await page.locator('.acupoint-title-row h1').boundingBox();
+        assert(parentBox.x >= title.x + title.width, 'Meridian appears beside the point title on wider screens');
+      }
+      await page.screenshot({path:`archive-browser-results/point-meridian-${width}.png`});
+      await parent.click();
+      assert(new URL(page.url()).pathname.endsWith('/lung-meridian/'));
+      await page.locator('a[href="../../acupuncture/points/lu2/"]').first().click();
+      assert(new URL(page.url()).pathname.endsWith('/lu2/'), 'Meridian links back to the point');
       const sequence = page.locator('.acupoint-sequence');
       const previous = await sequence.locator('a[rel="prev"]').boundingBox();
       const next = await sequence.locator('a[rel="next"]').boundingBox();
