@@ -42,8 +42,8 @@ def sequence_navigation(point):
         if neighbor:
             url = '/' + neighbor['path'].removesuffix('.md') + '/'
             title = neighbor['name'] + ' ' + neighbor['code']
-            links.append(f'<a rel="{rel}" href="{escape(url)}">{label} · {escape(title)}</a>')
-    return '<nav class="acupoint-sequence" aria-label="같은 경맥의 이전·다음 경혈">' + ''.join(links) + '</nav>'
+            links.append(f'<a rel="{rel}" href="{escape(url)}"><span class="acupoint-sequence-label">{label}</span><strong>{escape(title)}</strong></a>')
+    return '<nav class="acupoint-sequence" aria-label="같은 경맥의 이전·다음 경혈">' + '\n'.join(links) + '</nav>'
 
 
 def on_page_markdown(markdown, page, config, files):

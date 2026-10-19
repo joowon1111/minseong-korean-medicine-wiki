@@ -83,6 +83,23 @@
   display: inline-block;
   padding: .3rem 0;
 }
+/* Article shortcuts are separate controls, not a run of inline text. */
+.archive-reading-tools nav { display:flex; flex-wrap:wrap; gap:.5rem; }
+.archive-reading-tools nav a {
+  display:inline-flex; align-items:center; min-height:44px;
+  padding:.45rem .75rem; line-height:1.5;
+  border:1px solid var(--md-default-fg-color--lightest);
+  border-radius:.4rem; background:var(--md-code-bg-color);
+}
+.archive-reading-tools nav a:hover { border-color:var(--md-accent-fg-color); }
+.archive-reading-tools nav a:focus-visible {
+  outline:3px solid var(--md-accent-fg-color); outline-offset:2px;
+}
+/* Existing adjacent call-to-action buttons also need a wrapping gap. */
+.md-typeset p:has(> .md-button + .md-button) {
+  display:flex; flex-wrap:wrap; align-items:center; gap:.6rem;
+}
+.md-typeset .md-button { white-space:normal; overflow-wrap:anywhere; }
 .archive-related {
   margin: 2rem 0 1rem;
   padding-top: 1rem;

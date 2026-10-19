@@ -39,7 +39,7 @@ def needed_assets(html, source):
         "assets/donguibogam/reader.css": "dgb-reader" in ids,
         "assets/acupoint-atlas/explorer.js": atlas,
         "assets/acupoint-atlas/discovery.js": "acupoint-discovery" in ids,
-        "assets/acupoint-atlas/explorer.css": atlas,
+        "assets/acupoint-atlas/explorer.css": atlas or bool(classes & {"acupoint-location", "acupoint-sequence"}),
         "assets/learning/learning.js": "data-learning-room" in attributes,
         "assets/learning/learning.css": "data-learning-room" in attributes,
         "assets/daily-korean-medicine/reader-core.js": daily,
