@@ -19,7 +19,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 흉부 통증·답답함 · 어깨 통증",
-          "source": "https://www.americandragon.com/Points/LU-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -46,7 +46,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 어깨 통증",
-          "source": "https://www.americandragon.com/Points/LU-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -73,7 +73,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 코피 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/LU-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -100,7 +100,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 흉부 통증·답답함 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/LU-4.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -127,7 +127,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 팔꿈치 통증",
-          "source": "https://www.americandragon.com/Points/LU-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -154,7 +154,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 인후 통증 · 팔꿈치 통증",
-          "source": "https://www.americandragon.com/Points/LU-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -222,7 +222,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 손목 통증·기능 저하",
-          "source": "https://www.americandragon.com/Points/LU-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -283,7 +283,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "인후 통증 · 기침",
-          "source": "https://www.americandragon.com/Points/LU-10.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -317,7 +317,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "인후 통증 · 기침 · 손·손가락 통증",
-          "source": "https://www.americandragon.com/Points/LU-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -344,7 +344,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "치통 · 인후 통증 · 손·손가락 통증",
-          "source": "https://www.americandragon.com/Points/LI-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -371,7 +371,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "치통 · 인후 통증 · 눈 통증",
-          "source": "https://www.americandragon.com/Points/LI-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -398,7 +398,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "치통 · 인후 통증 · 손·손가락 통증",
-          "source": "https://www.americandragon.com/Points/LI-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -487,7 +487,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "손목 통증·기능 저하 · 두통 · 치통",
-          "source": "https://www.americandragon.com/Points/LI-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -514,7 +514,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "부종 · 목 건조감 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/LI-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -541,7 +541,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "트림 · 인후 통증 · 복통",
-          "source": "https://www.americandragon.com/Points/LI-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -568,7 +568,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 복부팽만 · 옆구리 통증",
-          "source": "https://www.americandragon.com/Points/LI-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -595,7 +595,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔 통증 · 복통",
-          "source": "https://www.americandragon.com/Points/LI-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -683,7 +683,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔꿈치 통증 · 팔 통증 · 손·팔 저림",
-          "source": "https://www.americandragon.com/Points/LI-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -710,7 +710,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔꿈치 통증 · 팔 통증 · 기침",
-          "source": "https://www.americandragon.com/Points/LI-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -737,7 +737,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 팔 통증 · 눈 통증",
-          "source": "https://www.americandragon.com/Points/LI-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -764,7 +764,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/LI-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -791,7 +791,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/LI-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -818,7 +818,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "쉰 목소리 · 인후 통증 · 숨참",
-          "source": "https://www.americandragon.com/Points/LI-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -845,7 +845,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "쉰 목소리 · 목 건조감 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/LI-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -872,7 +872,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "비염 증상 · 코피 · 코막힘",
-          "source": "https://www.americandragon.com/Points/LI-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -899,7 +899,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "코막힘 · 콧물 · 비염 증상",
-          "source": "https://www.americandragon.com/Points/LI-20.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -926,7 +926,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "눈 충혈 · 눈물흘림 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/ST-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -953,7 +953,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "눈 통증 · 눈 충혈 · 안면마비·입 비뚤어짐",
-          "source": "https://www.americandragon.com/Points/ST-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -980,7 +980,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "눈물흘림 · 안면마비·입 비뚤어짐 · 코피",
-          "source": "https://www.americandragon.com/Points/ST-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1007,7 +1007,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "안면마비·입 비뚤어짐 · 치통 · 턱 통증·개구 불편",
-          "source": "https://www.americandragon.com/Points/ST-4.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1034,7 +1034,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "치통 · 볼 부종 · 턱 통증·개구 불편",
-          "source": "https://www.acupuncture.com/education/points/stomach/st5.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1061,7 +1061,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "턱 통증·개구 불편 · 치통 · 안면마비·입 비뚤어짐",
-          "source": "https://www.americandragon.com/Points/ST-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1088,7 +1088,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "턱 통증·개구 불편 · 치통 · 이명",
-          "source": "https://www.americandragon.com/Points/ST-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1115,7 +1115,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어지럼 · 두통 · 눈 통증",
-          "source": "https://www.americandragon.com/Points/ST-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1142,7 +1142,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "천명·천식 증상 · 숨참 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/ST-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1169,7 +1169,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "인후 통증 · 천명·천식 증상 · 숨참",
-          "source": "https://www.americandragon.com/Points/ST-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1196,7 +1196,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 인후 통증 · 숨참",
-          "source": "https://www.americandragon.com/Points/ST-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1223,7 +1223,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 천명·천식 증상 · 딸꾹질",
-          "source": "https://www.americandragon.com/Points/ST-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1250,7 +1250,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/ST-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1277,7 +1277,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/ST-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1304,7 +1304,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 숨참",
-          "source": "https://www.americandragon.com/Points/ST-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1331,7 +1331,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/ST-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1358,7 +1358,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "유두 중심의 해부학적 위치 기준점; 자침·뜸 치료 대상 아님",
-          "source": "https://www.americandragon.com/Points/ST-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1385,7 +1385,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 숨참",
-          "source": "https://www.americandragon.com/Points/ST-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1412,7 +1412,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "구토·헛구역 · 위완부 통증 · 식욕 저하",
-          "source": "https://www.americandragon.com/Points/ST-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1439,7 +1439,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 복부팽만 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/ST-20.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1466,7 +1466,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 구토·헛구역 · 설사",
-          "source": "https://www.americandragon.com/Points/ST-21.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1493,7 +1493,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복부팽만 · 식욕 저하 · 복통",
-          "source": "https://www.americandragon.com/Points/ST-22.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1520,7 +1520,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "소화불량 · 위완부 통증 · 복통",
-          "source": "https://www.americandragon.com/Points/ST-23.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1547,7 +1547,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/ST-24.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1608,7 +1608,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 월경통",
-          "source": "https://www.acupuncture.com/education/points/stomach/st26.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1635,7 +1635,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복부팽만 · 복통 · 월경불순",
-          "source": "https://www.americandragon.com/Points/ST-27.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1662,7 +1662,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "배뇨 불편 · 부종 · 복통",
-          "source": "https://www.americandragon.com/Points/ST-28.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1716,7 +1716,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 월경불순 · 배뇨 불편",
-          "source": "https://www.americandragon.com/Points/ST-30.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1743,7 +1743,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "고관절 부위 통증 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/ST-31.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1770,7 +1770,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "하지 통증 · 무릎 통증·불편",
-          "source": "https://www.americandragon.com/Points/ST-32.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1797,7 +1797,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "하지 통증 · 무릎 통증·불편",
-          "source": "https://www.americandragon.com/Points/ST-33.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1824,7 +1824,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 무릎 통증·불편",
-          "source": "https://www.americandragon.com/Points/ST-34.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1851,7 +1851,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "무릎 통증·불편",
-          "source": "https://www.americandragon.com/Points/ST-35.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1933,7 +1933,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 설사 · 변비",
-          "source": "https://www.americandragon.com/Points/ST-37.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1960,7 +1960,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/ST-38.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -1987,7 +1987,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 설사 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/ST-39.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2041,7 +2041,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "발목 통증 · 두통",
-          "source": "https://www.americandragon.com/Points/ST-41.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2068,7 +2068,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "안면마비·입 비뚤어짐 · 식욕 저하 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/ST-42.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2095,7 +2095,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "부종 · 복통 · 발 통증",
-          "source": "https://www.americandragon.com/Points/ST-43.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2122,7 +2122,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "치통 · 위완부 통증 · 안면마비·입 비뚤어짐",
-          "source": "https://www.americandragon.com/Points/ST-44.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -2156,7 +2156,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "코피 · 콧물 · 비염 증상",
-          "source": "https://www.americandragon.com/Points/ST-45.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2183,7 +2183,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경 과다 등 출혈의 전통 주치 · 식욕 저하",
-          "source": "https://www.americandragon.com/Points/SP-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2210,7 +2210,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복부팽만 · 설사 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/SP-2.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -2271,7 +2271,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 복통 · 설사",
-          "source": "https://www.americandragon.com/Points/SP-4.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -2319,7 +2319,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "발목 통증 · 복부팽만 · 설사",
-          "source": "https://www.americandragon.com/Points/SP-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2346,7 +2346,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 월경통 · 배뇨 불편 · 소화불량",
-          "source": "https://www.americandragon.com/Points/SP-6.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -2394,7 +2394,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복부팽만 · 트림 · 부종",
-          "source": "https://www.americandragon.com/Points/SP-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2482,7 +2482,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 두드러기 · 습진",
-          "source": "https://www.acupuncture.com/education/points/spleen/sp10.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2509,7 +2509,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "하지 통증 · 배뇨 불편 · 습진",
-          "source": "https://www.americandragon.com/Points/SP-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2536,7 +2536,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "고관절 부위 통증 · 복통 · 치핵 관련 불편",
-          "source": "https://www.americandragon.com/Points/SP-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2563,7 +2563,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 변비 · 옆구리 통증",
-          "source": "https://www.americandragon.com/Points/SP-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2590,7 +2590,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복부팽만 · 설사 · 변비",
-          "source": "https://www.americandragon.com/Points/SP-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2617,7 +2617,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 변비 · 설사",
-          "source": "https://www.americandragon.com/Points/SP-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2644,7 +2644,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "소화불량 · 변비",
-          "source": "https://www.americandragon.com/Points/SP-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2671,7 +2671,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "흉부 통증·답답함 · 옆구리 통증 · 복부팽만",
-          "source": "https://www.americandragon.com/Points/SP-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2698,7 +2698,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/SP-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2725,7 +2725,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/SP-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2752,7 +2752,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "숨참 · 기침 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/SP-20.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2779,7 +2779,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "천명·천식 증상 · 흉부 통증·답답함 · 옆구리 통증",
-          "source": "https://www.americandragon.com/Points/SP-21.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2806,7 +2806,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔 통증 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/HT-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2833,7 +2833,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔 통증 · 어깨 통증",
-          "source": "https://www.americandragon.com/Points/HT-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2860,7 +2860,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔꿈치 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/HT-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2887,7 +2887,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "흉부 통증·답답함 · 팔꿈치 통증",
-          "source": "https://www.americandragon.com/Points/HT-4.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -2914,7 +2914,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두근거림 · 어지럼",
-          "source": "https://www.americandragon.com/Points/HT-5.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -2948,7 +2948,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "야간 발한 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/HT-6.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -3023,7 +3023,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두근거림 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/HT-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3050,7 +3050,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두근거림 · 흉부 통증·답답함 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/HT-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3077,7 +3077,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "유즙 분비 부족 · 인후 통증",
-          "source": "https://www.americandragon.com/Points/SI-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3104,7 +3104,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 손·손가락 통증 · 눈 충혈",
-          "source": "https://www.americandragon.com/Points/SI-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3131,7 +3131,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 등 통증 · 손·손가락 통증",
-          "source": "https://www.americandragon.com/Points/SI-3.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -3199,7 +3199,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "손목 통증·기능 저하 · 청력 저하 · 이명",
-          "source": "https://www.americandragon.com/Points/SI-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3226,7 +3226,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 팔 통증 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/SI-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3253,7 +3253,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SI-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3280,7 +3280,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔꿈치 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SI-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3307,7 +3307,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 목 통증·뻣뻣함 · 과도한 발한",
-          "source": "https://www.americandragon.com/Points/SI-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3334,7 +3334,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 견갑부 통증 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/SI-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3361,7 +3361,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "견갑부 통증 · 어깨 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SI-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3388,7 +3388,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 견갑부 통증 · 손·팔 저림",
-          "source": "https://www.americandragon.com/Points/SI-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3415,7 +3415,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 견갑부 통증",
-          "source": "https://www.americandragon.com/Points/SI-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3442,7 +3442,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 견갑부 통증 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/SI-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3469,7 +3469,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 등 통증 · 기침",
-          "source": "https://www.acupuncture.com/education/points/smallintestine/si15.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3496,7 +3496,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 인후 통증 · 청력 저하",
-          "source": "https://www.americandragon.com/Points/SI-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3523,7 +3523,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "인후 통증 · 이명 · 청력 저하",
-          "source": "https://www.americandragon.com/Points/SI-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3550,7 +3550,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "안면마비·입 비뚤어짐 · 치통",
-          "source": "https://www.americandragon.com/Points/SI-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3577,7 +3577,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "청력 저하 · 이명 · 귀 통증",
-          "source": "https://www.americandragon.com/Points/SI-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3604,7 +3604,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "눈 통증 · 눈물흘림 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/UB-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3631,7 +3631,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "눈 통증 · 두통 · 눈물흘림",
-          "source": "https://www.americandragon.com/Points/UB-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3658,7 +3658,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 코막힘",
-          "source": "https://www.americandragon.com/Points/UB-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3685,7 +3685,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 코막힘 · 시야 흐림",
-          "source": "https://www.acupuncture.com/education/points/urinarybladder/ub4.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3712,7 +3712,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/UB-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3739,7 +3739,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 시야 흐림 · 코막힘",
-          "source": "https://www.americandragon.com/Points/UB-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3766,7 +3766,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 비염 증상",
-          "source": "https://www.americandragon.com/Points/UB-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3793,7 +3793,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어지럼 · 시야 흐림 · 코막힘",
-          "source": "https://www.americandragon.com/Points/UB-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3820,7 +3820,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 두통 · 어지럼",
-          "source": "https://www.americandragon.com/Points/UB-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3847,7 +3847,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 두통 · 등 통증",
-          "source": "https://www.americandragon.com/Points/UB-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3874,7 +3874,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 견갑부 통증 · 기침",
-          "source": "https://www.americandragon.com/Points/UB-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3901,7 +3901,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 기침 · 숨참",
-          "source": "https://www.americandragon.com/Points/UB-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3928,7 +3928,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 등 통증",
-          "source": "https://www.americandragon.com/Points/UB-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3955,7 +3955,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/UB-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -3982,7 +3982,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두근거림 · 불면 · 등 통증",
-          "source": "https://www.americandragon.com/Points/UB-15.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -4023,7 +4023,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 복부팽만 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/UB-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4050,7 +4050,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "딸꾹질 · 복부팽만 · 등 통증",
-          "source": "https://www.americandragon.com/Points/UB-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4077,7 +4077,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 복통 · 옆구리 통증",
-          "source": "https://www.americandragon.com/Points/UB-18.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -4118,7 +4118,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "좌골신경통 양상의 하지 통증 · 구토·헛구역 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/UB-19.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -4152,7 +4152,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "소화불량 · 식욕 저하 · 설사",
-          "source": "https://www.americandragon.com/Points/UB-20.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -4193,7 +4193,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 복부팽만 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/UB-21.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -4227,7 +4227,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 설사 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/UB-22.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4295,7 +4295,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 월경불순",
-          "source": "https://www.americandragon.com/Points/UB-24.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4356,7 +4356,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 배뇨 불편 · 빈뇨·요실금",
-          "source": "https://www.americandragon.com/Points/UB-26.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4383,7 +4383,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 좌골신경통 양상의 하지 통증 · 변비",
-          "source": "https://www.americandragon.com/Points/UB-27.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4410,7 +4410,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "배뇨 불편 · 설사 · 복통",
-          "source": "https://www.americandragon.com/Points/UB-28.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4437,7 +4437,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복부팽만 · 좌골신경통 양상의 하지 통증 · 등 통증",
-          "source": "https://www.americandragon.com/Points/UB-29.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4464,7 +4464,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 고관절 부위 통증 · 배뇨 불편",
-          "source": "https://www.americandragon.com/Points/UB-30.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4491,7 +4491,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 배뇨 불편 · 월경불순",
-          "source": "https://www.americandragon.com/Points/UB-31.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -4525,7 +4525,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 배뇨 불편 · 월경통",
-          "source": "https://www.americandragon.com/Points/UB-32.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -4559,7 +4559,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "배뇨 불편 · 변비 · 설사",
-          "source": "https://www.americandragon.com/Points/UB-33.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4586,7 +4586,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 복통",
-          "source": "https://www.americandragon.com/Points/UB-34.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4613,7 +4613,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "설사 · 치핵 관련 불편 · 탈항",
-          "source": "https://www.americandragon.com/Points/UB-35.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4640,7 +4640,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 좌골신경통 양상의 하지 통증 · 치핵 관련 불편",
-          "source": "https://www.americandragon.com/Points/UB-36.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4667,7 +4667,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 좌골신경통 양상의 하지 통증",
-          "source": "https://www.americandragon.com/Points/UB-37.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4694,7 +4694,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "무릎 뒤쪽 통증·긴장 · 근육경련",
-          "source": "https://www.americandragon.com/Points/UB-38.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4721,7 +4721,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 부종 · 배뇨 불편",
-          "source": "https://www.americandragon.com/Points/UB-39.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4789,7 +4789,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 어깨 통증 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/UB-41.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4816,7 +4816,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 견갑부 통증 · 기침",
-          "source": "https://www.americandragon.com/Points/UB-42.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4843,7 +4843,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 기침 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/UB-43.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4870,7 +4870,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 식욕 저하 · 두근거림",
-          "source": "https://www.americandragon.com/Points/UB-44.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4897,7 +4897,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 기침 · 숨참",
-          "source": "https://www.americandragon.com/Points/UB-45.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4924,7 +4924,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 딸꾹질 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/UB-46.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4951,7 +4951,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 구토·헛구역 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/UB-47.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -4978,7 +4978,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 복부팽만 · 설사",
-          "source": "https://www.americandragon.com/Points/UB-48.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5005,7 +5005,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 구토·헛구역 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/UB-49.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5032,7 +5032,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 복부팽만 · 소화불량",
-          "source": "https://www.americandragon.com/Points/UB-50.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5059,7 +5059,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 변비 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/UB-51.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5086,7 +5086,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 배뇨 불편 · 부종",
-          "source": "https://www.americandragon.com/Points/UB-52.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5113,7 +5113,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 좌골신경통 양상의 하지 통증 · 복부팽만",
-          "source": "https://www.americandragon.com/Points/UB-53.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5140,7 +5140,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 좌골신경통 양상의 하지 통증 · 배뇨 불편",
-          "source": "https://www.americandragon.com/Points/UB-54.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5167,7 +5167,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/UB-55.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5194,7 +5194,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "종아리 통증·경련 · 발뒤꿈치 통증",
-          "source": "https://www.americandragon.com/Points/UB-56.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5221,7 +5221,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "종아리 통증·경련 · 치핵 관련 불편",
-          "source": "https://www.americandragon.com/Points/UB-57.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -5255,7 +5255,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 좌골신경통 양상의 하지 통증",
-          "source": "https://www.americandragon.com/Points/UB-58.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5282,7 +5282,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 요통 · 등 통증",
-          "source": "https://www.americandragon.com/Points/UB-59.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5350,7 +5350,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 하지 통증 · 발 통증",
-          "source": "https://www.americandragon.com/Points/UB-61.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5377,7 +5377,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 과도한 발한 · 눈 충혈",
-          "source": "https://www.americandragon.com/Points/UB-62.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -5418,7 +5418,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "치통 · 요통 · 등 통증",
-          "source": "https://www.americandragon.com/Points/UB-63.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5445,7 +5445,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "발 통증 · 두통 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/UB-64.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5472,7 +5472,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 목 통증·뻣뻣함 · 청력 저하",
-          "source": "https://www.americandragon.com/Points/UB-65.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5499,7 +5499,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 시야 흐림 · 어지럼",
-          "source": "https://www.americandragon.com/Points/UB-66.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5526,7 +5526,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 눈 통증 · 태위 이상에 대한 전통 뜸 활용",
-          "source": "https://www.americandragon.com/Points/UB-67.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5553,7 +5553,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 인후 통증",
-          "source": "https://www.americandragon.com/Points/KI-1.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -5587,7 +5587,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 외음부 가려움 · 발등 통증",
-          "source": "https://www.acupuncture.com/education/points/kidney/kid2.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5655,7 +5655,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "천명·천식 증상 · 등 통증 · 변비",
-          "source": "https://www.americandragon.com/Points/KI-4.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5682,7 +5682,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 월경통 · 복통",
-          "source": "https://www.americandragon.com/Points/KI-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5709,7 +5709,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 건조감 · 인후 통증 · 불면",
-          "source": "https://www.americandragon.com/Points/KI-6.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -5750,7 +5750,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "부종 · 과도한 발한 · 배뇨 불편",
-          "source": "https://www.americandragon.com/Points/KI-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5777,7 +5777,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 월경 과다 등 출혈의 전통 주치 · 복통",
-          "source": "https://www.americandragon.com/Points/KI-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5804,7 +5804,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "구토·헛구역 · 무릎 통증·불편 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/KI-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5831,7 +5831,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "배뇨 불편 · 무릎 통증·불편",
-          "source": "https://www.americandragon.com/Points/KI-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5858,7 +5858,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 탈항 · 빈뇨·요실금",
-          "source": "https://www.americandragon.com/Points/KI-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5885,7 +5885,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "대하 · 월경불순",
-          "source": "https://www.americandragon.com/Points/KI-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5912,7 +5912,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 월경통 · 배뇨 불편",
-          "source": "https://www.americandragon.com/Points/KI-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5939,7 +5939,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 설사 · 월경불순",
-          "source": "https://www.americandragon.com/Points/KI-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5966,7 +5966,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 변비 · 설사",
-          "source": "https://www.americandragon.com/Points/KI-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -5993,7 +5993,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "딸꾹질 · 위완부 통증 · 복통",
-          "source": "https://www.americandragon.com/Points/KI-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6020,7 +6020,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "식욕 저하 · 복통 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/KI-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6047,7 +6047,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "구토·헛구역 · 복통 · 변비",
-          "source": "https://www.acupuncture.com/education/points/kidney/kid18.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6074,7 +6074,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 복부팽만 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/KI-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6101,7 +6101,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "구토·헛구역 · 복통 · 복부팽만",
-          "source": "https://www.americandragon.com/Points/KI-20.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6128,7 +6128,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 구토·헛구역 · 오심",
-          "source": "https://www.americandragon.com/Points/KI-21.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6155,7 +6155,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/KI-22.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6182,7 +6182,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 숨참",
-          "source": "https://www.americandragon.com/Points/KI-23.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6209,7 +6209,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 숨참",
-          "source": "https://www.americandragon.com/Points/KI-24.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6236,7 +6236,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "천명·천식 증상 · 숨참 · 기침",
-          "source": "https://www.americandragon.com/Points/KI-25.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6263,7 +6263,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 숨참",
-          "source": "https://www.americandragon.com/Points/KI-26.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6290,7 +6290,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 흉부 통증·답답함",
-          "source": "https://www.acupuncture.com/education/points/kidney/kid27.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6317,7 +6317,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 두통",
-          "source": "https://www.americandragon.com/Points/PC-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6344,7 +6344,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔 통증 · 기침 · 두근거림",
-          "source": "https://www.americandragon.com/Points/PC-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6371,7 +6371,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔꿈치 통증 · 두근거림 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/PC-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6398,7 +6398,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "흉부 통증·답답함 · 두근거림",
-          "source": "https://www.americandragon.com/Points/PC-4.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6425,7 +6425,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두근거림 · 흉부 통증·답답함 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/PC-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6452,7 +6452,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "오심 · 구토·헛구역 · 위완부 통증 · 두근거림",
-          "source": "https://www.americandragon.com/Points/PC-6.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -6541,7 +6541,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "입안 염증·불편 · 손바닥 발한 · 손 저림",
-          "source": "https://www.americandragon.com/Points/PC-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6568,7 +6568,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "혀·입안 불편 · 두통",
-          "source": "https://www.americandragon.com/Points/PC-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6595,7 +6595,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 인후 통증 · 오심",
-          "source": "https://www.americandragon.com/Points/SJ-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6622,7 +6622,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "청력 저하 · 이명 · 귀 통증",
-          "source": "https://www.americandragon.com/Points/SJ-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6649,7 +6649,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "이명 · 두통 · 손·손가락 통증",
-          "source": "https://www.americandragon.com/Points/SJ-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6676,7 +6676,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "손목 통증·기능 저하 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SJ-4.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6703,7 +6703,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 이명 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SJ-5.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -6737,7 +6737,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "변비 · 옆구리 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SJ-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6764,7 +6764,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "청력 저하 · 귀 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SJ-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6791,7 +6791,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어지럼 · 팔 통증 · 손·손가락 통증",
-          "source": "https://www.americandragon.com/Points/SJ-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6818,7 +6818,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "청력 저하 · 두통 · 어지럼",
-          "source": "https://www.americandragon.com/Points/SJ-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6845,7 +6845,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔꿈치 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SJ-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6872,7 +6872,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔꿈치·팔의 운동 불편 · 두통",
-          "source": "https://www.americandragon.com/Points/SJ-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6899,7 +6899,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "팔 통증 · 목 통증·뻣뻣함 · 두통",
-          "source": "https://www.americandragon.com/Points/SJ-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6926,7 +6926,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 팔 통증 · 견갑부 통증",
-          "source": "https://www.americandragon.com/Points/SJ-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6953,7 +6953,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어깨 통증 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SJ-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -6980,7 +6980,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "견갑부 통증 · 목 통증·뻣뻣함 · 팔 통증",
-          "source": "https://www.americandragon.com/Points/SJ-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7007,7 +7007,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 두통 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/SJ-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7034,7 +7034,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "이명 · 청력 저하 · 안면마비·입 비뚤어짐",
-          "source": "https://www.americandragon.com/Points/SJ-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7061,7 +7061,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 이명 · 청력 저하",
-          "source": "https://www.americandragon.com/Points/SJ-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7088,7 +7088,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 이명",
-          "source": "https://www.americandragon.com/Points/SJ-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7115,7 +7115,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "이명 · 청력 저하 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/SJ-20.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7142,7 +7142,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "이명 · 청력 저하 · 귀 통증",
-          "source": "https://www.americandragon.com/Points/SJ-21.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7169,7 +7169,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "이명 · 두통 · 안면마비·입 비뚤어짐",
-          "source": "https://www.americandragon.com/Points/SJ-22.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7196,7 +7196,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "시야 흐림 · 눈 통증 · 눈 충혈",
-          "source": "https://www.americandragon.com/Points/SJ-23.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7223,7 +7223,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "눈 통증 · 시야 흐림 · 두통",
-          "source": "https://www.americandragon.com/Points/GB-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7250,7 +7250,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "이명 · 청력 저하 · 두통",
-          "source": "https://www.americandragon.com/Points/GB-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7277,7 +7277,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "이명 · 청력 저하 · 안면마비·입 비뚤어짐",
-          "source": "https://www.americandragon.com/Points/GB-3.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7304,7 +7304,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 이명 · 귀 통증",
-          "source": "https://www.americandragon.com/Points/GB-4.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7331,7 +7331,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 비염 증상 · 코피",
-          "source": "https://www.americandragon.com/Points/GB-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7358,7 +7358,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 이명 · 치통",
-          "source": "https://www.americandragon.com/Points/GB-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7385,7 +7385,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 목 통증·뻣뻣함 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/GB-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7412,7 +7412,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 눈 통증",
-          "source": "https://www.americandragon.com/Points/GB-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7439,7 +7439,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 이명 · 가려움",
-          "source": "https://www.americandragon.com/Points/GB-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7466,7 +7466,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 청력 저하 · 이명",
-          "source": "https://www.americandragon.com/Points/GB-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7493,7 +7493,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 귀 통증 · 이명",
-          "source": "https://www.americandragon.com/Points/GB-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7520,7 +7520,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 귀 통증 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/GB-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7547,7 +7547,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/GB-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7574,7 +7574,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "시야 흐림 · 두통 · 어지럼",
-          "source": "https://www.americandragon.com/Points/GB-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7601,7 +7601,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/GB-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7628,7 +7628,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어지럼 · 두통 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/GB-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7655,7 +7655,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/GB-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7682,7 +7682,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 눈 통증",
-          "source": "https://www.americandragon.com/Points/GB-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7709,7 +7709,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 두통 · 어지럼",
-          "source": "https://www.americandragon.com/Points/GB-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7763,7 +7763,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 어깨 통증",
-          "source": "https://www.americandragon.com/Points/GB-21.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7790,7 +7790,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "흉부 통증·답답함 · 팔 통증 · 어깨 통증",
-          "source": "https://www.americandragon.com/Points/GB-22.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7817,7 +7817,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "흉부 통증·답답함 · 천명·천식 증상 · 트림",
-          "source": "https://www.americandragon.com/Points/GB-23.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7844,7 +7844,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "옆구리 통증 · 오심 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/GB-24.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7871,7 +7871,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "설사 · 복부팽만 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/GB-25.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7898,7 +7898,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "대하 · 월경불순 · 복통",
-          "source": "https://www.americandragon.com/Points/GB-26.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7925,7 +7925,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 변비 · 대하",
-          "source": "https://www.americandragon.com/Points/GB-27.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7952,7 +7952,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 월경불순 · 대하",
-          "source": "https://www.americandragon.com/Points/GB-28.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -7979,7 +7979,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "고관절 부위 통증 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/GB-29.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8040,7 +8040,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "하지 통증 · 가려움",
-          "source": "https://www.americandragon.com/Points/GB-31.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8067,7 +8067,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "하지 통증 · 하지 저림·무력감",
-          "source": "https://www.acupuncture.com/education/points/gallbladder/gb32.htm",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8094,7 +8094,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "하지 통증 · 무릎 통증·불편",
-          "source": "https://www.americandragon.com/Points/GB-33.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8162,7 +8162,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "무릎 통증·불편 · 좌골신경통 양상의 하지 통증 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/GB-35.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8189,7 +8189,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 복통 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/GB-36.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8216,7 +8216,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "시야 흐림 · 눈 통증 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/GB-37.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8243,7 +8243,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "부종 · 흉부 통증·답답함 · 고관절 부위 통증",
-          "source": "https://www.americandragon.com/Points/GB-38.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8270,7 +8270,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 하지 통증",
-          "source": "https://www.americandragon.com/Points/GB-39.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8324,7 +8324,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 옆구리 통증 · 발 통증 · 월경불순",
-          "source": "https://www.americandragon.com/Points/GB-41.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -8358,7 +8358,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 눈 통증 · 눈 충혈",
-          "source": "https://www.americandragon.com/Points/GB-42.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8385,7 +8385,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 이명 · 눈 통증",
-          "source": "https://www.americandragon.com/Points/GB-43.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8412,7 +8412,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 천명·천식 증상 · 어지럼",
-          "source": "https://www.americandragon.com/Points/GB-44.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8439,7 +8439,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "빈뇨·요실금 · 월경불순 · 복통",
-          "source": "https://www.americandragon.com/Points/LIV-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8466,7 +8466,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 눈 충혈 · 월경불순",
-          "source": "https://www.americandragon.com/Points/LIV-2.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -8562,7 +8562,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "배뇨 불편 · 무릎 통증·불편 · 발목 통증",
-          "source": "https://www.americandragon.com/Points/LIV-4.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -8596,7 +8596,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 복통 · 가려움",
-          "source": "https://www.americandragon.com/Points/LIV-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8623,7 +8623,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 대하 · 설사",
-          "source": "https://www.americandragon.com/Points/LIV-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8650,7 +8650,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "무릎 통증·불편 · 복통 · 인후 통증",
-          "source": "https://www.americandragon.com/Points/LIV-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8677,7 +8677,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "무릎 통증·불편 · 월경불순 · 외음부 가려움",
-          "source": "https://www.americandragon.com/Points/LIV-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8704,7 +8704,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 월경불순",
-          "source": "https://www.americandragon.com/Points/LIV-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8731,7 +8731,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "배뇨 불편 · 빈뇨·요실금 · 허벅지 안쪽 통증",
-          "source": "https://www.americandragon.com/Points/LIV-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8758,7 +8758,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "하지 통증 · 무릎 통증·불편 · 월경불순",
-          "source": "https://www.americandragon.com/Points/LIV-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8785,7 +8785,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통",
-          "source": "https://www.americandragon.com/Points/LIV-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8812,7 +8812,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복부팽만 · 소화불량 · 설사",
-          "source": "https://www.americandragon.com/Points/LIV-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8839,7 +8839,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "옆구리 통증 · 흉부 통증·답답함 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/LIV-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8866,7 +8866,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "치핵 관련 불편 · 탈항",
-          "source": "https://www.americandragon.com/Points/DU-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8893,7 +8893,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 발 통증 · 월경불순",
-          "source": "https://www.americandragon.com/Points/DU-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -8920,7 +8920,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 좌골신경통 양상의 하지 통증 · 무릎 통증·불편",
-          "source": "https://www.americandragon.com/Points/DU-3.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -8954,7 +8954,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 하지 무력감 · 월경불순",
-          "source": "https://www.americandragon.com/Points/DU-4.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -8988,7 +8988,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "좌골신경통 양상의 하지 통증 · 설사 · 치핵 관련 불편",
-          "source": "https://www.americandragon.com/Points/DU-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9015,7 +9015,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 식욕 저하 · 설사",
-          "source": "https://www.americandragon.com/Points/DU-6.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9042,7 +9042,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 식욕 저하",
-          "source": "https://www.americandragon.com/Points/DU-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9069,7 +9069,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등의 뻣뻣함·근육경련",
-          "source": "https://www.americandragon.com/Points/DU-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9096,7 +9096,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 기침 · 식욕 저하",
-          "source": "https://www.americandragon.com/Points/DU-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9123,7 +9123,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 천명·천식 증상 · 기침",
-          "source": "https://www.americandragon.com/Points/DU-10.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9150,7 +9150,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 천명·천식 증상 · 기침",
-          "source": "https://www.americandragon.com/Points/DU-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9177,7 +9177,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "요통 · 등 통증 · 숨참",
-          "source": "https://www.americandragon.com/Points/DU-12.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9204,7 +9204,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "등 통증 · 어깨 통증 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/DU-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9231,7 +9231,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 발열의 전통 주치 · 기침",
-          "source": "https://www.americandragon.com/Points/DU-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9258,7 +9258,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "쉰 목소리 · 두통 · 이명",
-          "source": "https://www.americandragon.com/Points/DU-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9285,7 +9285,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 두통 · 어지럼",
-          "source": "https://www.americandragon.com/Points/DU-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9312,7 +9312,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "목 통증·뻣뻣함 · 어지럼 · 불면",
-          "source": "https://www.americandragon.com/Points/DU-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9339,7 +9339,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/DU-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9366,7 +9366,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 목 통증·뻣뻣함",
-          "source": "https://www.americandragon.com/Points/DU-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9393,7 +9393,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 탈항 · 불면",
-          "source": "https://www.americandragon.com/Points/DU-20.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -9427,7 +9427,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "어지럼 · 두통 · 시야 흐림",
-          "source": "https://www.americandragon.com/Points/DU-21.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9454,7 +9454,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 코피 · 코막힘",
-          "source": "https://www.americandragon.com/Points/DU-22.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9481,7 +9481,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 어지럼 · 비염 증상",
-          "source": "https://www.americandragon.com/Points/DU-23.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9508,7 +9508,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "두통 · 콧물 · 두근거림",
-          "source": "https://www.americandragon.com/Points/DU-24.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -9542,7 +9542,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "콧물 · 비염 증상 · 코막힘",
-          "source": "https://www.americandragon.com/Points/DU-25.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9569,7 +9569,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "급성 요부 통증·경련 · 안면마비·입 비뚤어짐",
-          "source": "https://www.americandragon.com/Points/DU-26.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9596,7 +9596,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "코피 · 코막힘 · 턱 통증·개구 불편",
-          "source": "https://www.americandragon.com/Points/DU-27.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9623,7 +9623,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "잇몸 통증 · 콧물",
-          "source": "https://www.americandragon.com/Points/DU-28.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9650,7 +9650,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "배뇨 불편 · 탈항 · 치핵 관련 불편",
-          "source": "https://www.americandragon.com/Points/REN-1.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9677,7 +9677,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 대하 · 월경불순",
-          "source": "https://www.americandragon.com/Points/REN-2.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9758,7 +9758,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 복부팽만 · 소화불량",
-          "source": "https://www.americandragon.com/Points/REN-5.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9785,7 +9785,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 설사 · 피로",
-          "source": "https://www.americandragon.com/Points/REN-6.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -9819,7 +9819,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "월경불순 · 대하 · 부종",
-          "source": "https://www.americandragon.com/Points/REN-7.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9846,7 +9846,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "설사 · 복통 · 탈항",
-          "source": "https://www.americandragon.com/Points/REN-8.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9873,7 +9873,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "식욕 저하 · 복통 · 오심",
-          "source": "https://www.americandragon.com/Points/REN-9.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9900,7 +9900,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 복부팽만 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/REN-10.html",
+          "source": "",
           "locator": ""
         },
         {
@@ -9934,7 +9934,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "복통 · 구토·헛구역 · 위완부 통증",
-          "source": "https://www.americandragon.com/Points/REN-11.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -9995,7 +9995,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "위완부 통증 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/REN-13.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10022,7 +10022,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "오심 · 구토·헛구역 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/REN-14.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10049,7 +10049,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "딸꾹질 · 구토·헛구역 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/REN-15.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10076,7 +10076,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "천명·천식 증상 · 흉부 통증·답답함 · 구토·헛구역",
-          "source": "https://www.americandragon.com/Points/REN-16.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10103,7 +10103,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "흉부 통증·답답함 · 기침 · 숨참",
-          "source": "https://www.americandragon.com/Points/REN-17.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10130,7 +10130,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 숨참 · 천명·천식 증상",
-          "source": "https://www.americandragon.com/Points/REN-18.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10157,7 +10157,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 천명·천식 증상 · 흉부 통증·답답함",
-          "source": "https://www.americandragon.com/Points/REN-19.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10184,7 +10184,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "숨참 · 천명·천식 증상 · 기침",
-          "source": "https://www.americandragon.com/Points/REN-20.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10211,7 +10211,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "천명·천식 증상 · 기침 · 숨참",
-          "source": "https://www.americandragon.com/Points/REN-21.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10238,7 +10238,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "기침 · 쉰 목소리 · 인후 통증",
-          "source": "https://www.americandragon.com/Points/REN-22.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10265,7 +10265,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "연하·발음 불편 · 혀의 운동 불편",
-          "source": "https://www.americandragon.com/Points/REN-23.html",
+          "source": "",
           "locator": ""
         }
       ],
@@ -10292,7 +10292,7 @@
           "layer": "전통 주치·활용",
           "label": "대표 주치·용도",
           "text": "코피 · 안면마비·입 비뚤어짐 · 치통",
-          "source": "https://www.americandragon.com/Points/REN-24.html",
+          "source": "",
           "locator": ""
         }
       ],
