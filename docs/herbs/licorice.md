@@ -26,7 +26,7 @@ glycyrrhizin과 flavonoids를 중심으로 염증·산화스트레스·점막 �
 - 소청룡탕
 
 ## 동의보감 연결
-→ [《동의보감》 탕액편의 감초](../classics/donguibogam/tangyeok/licorice.md)
+《동의보감》의 **調和諸藥**는 여러 약이 제 역할을 하도록 조화시킨다는 뜻입니다. 감초가 없는 원방도 있으므로 모든 처방에 필수로 넣는 원칙으로 읽지는 않습니다. [조화제약의 원문 풀이](../classics/donguibogam/tangyeok/licorice.md#formula-harmony)에서는 감초의 배합 역할을, [가공과 복용 조건](../classics/donguibogam/tangyeok/licorice.md#processing-reading)에서는 생품·포제품과 다음 쪽까지 이어지는 문맥을 확인합니다.
 
 ## 연구 메모
 장기·고용량 복용 시 glycyrrhizin 관련 저칼륨혈증·혈압 상승 가능성을 고려

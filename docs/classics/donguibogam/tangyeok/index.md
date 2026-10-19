@@ -16,11 +16,30 @@ last_reviewed: 2026-08-19
 
 [아카이브 원문 열람·별도 검색](../original.md)에서는 공개 위키문헌 전사를 자체 수록하고, 약재의 원문 항목에서 현대 본초 문서로 이어 읽을 수 있다. 전사의 개별 페이지는 교감이 완료되지 않았으므로 출처의 영인 페이지와 대조한다.
 
-## 1차 연결 본초
-- [녹용(鹿茸)](deer-antler.md)
-- [인삼(人蔘)](ginseng.md)
-- [황기(黃芪)](astragalus.md)
-- [당귀(當歸)](angelica.md)
+## 본초별 원문·해설 {#1}
+
+아래 16종은 기존 본초 해설 전체입니다. 분류는 학습을 돕기 위한 현대 임상 색인이며 원전의 부별 편목을 바꾼 것이 아닙니다. 각 문서에서 원문 항목과 출처 쪽을 열고, 발췌·우리말 풀이·처방 속 역할을 이어 읽을 수 있습니다.
+
+| 읽는 관점 | 본초 원문·해설 | 먼저 살필 질문 |
+|---|---|---|
+| 보기·건비 | [인삼](ginseng.md#passage-reading) | 오장 기 부족과 보익의 범위 |
+| 보기·건비 | [황기](astragalus.md#passage-reading) | 기허·자한·도한과 고표 |
+| 보기·건비 | [백출](atractylodes.md#passage-reading) | 건비강위와 습·갈증의 관계 |
+| 혈·보익 | [당귀](angelica.md#original-reading) | 혈을 기르면서 막힘을 푸는 배합 |
+| 혈·보익 | [숙지황](prepared-rehmannia.md#original-reading) | 혈쇠·허손과 복용 조건 |
+| 혈·배합 | [백작약](white-peony.md#original-reading) | 완급·지통을 처방 안에서 읽기 |
+| 혈·배합 | [천궁](chuanxiong.md#original-reading) | 숙혈·신혈과 두통·냉통의 문맥 |
+| 보익·근골 | [녹용](deer-antler.md#original-reading) | 허로·여윔·냉감과 약재 품질 |
+| 보익·근골 | [두충](eucommia.md#original-reading) | 요척 통증·근골과 수피의 감별·가공 |
+| 근골·활혈 | [우슬](achyranthes.md#original-reading) | 무릎의 굴신·활혈·하행을 구분 |
+| 이기·화담 | [진피](citrus-peel.md#original-reading) | 흉격·소화·기침을 잇는 귤피 기록 |
+| 이기·화담 | [반하](pinellia.md#original-reading) | 담·만결·구토와 포제의 문맥 |
+| 수습·안신 | [복령](poria.md#passage-reading) | 위·구토·심신을 함께 읽기 |
+| 양음·생진 | [맥문동](ophiopogon.md#original-reading) | 허로의 열·건조·갈증을 함께 살피기 |
+| 양심·안신 | [산조인](ziziphus-seed.md#original-reading) | 번심·혈·수면과 생품·가공품 |
+| 조화·배합 | [감초](licorice.md#original-reading) | 조화제약·포제와 복용 조건 |
+
+**비교해서 읽기:** [두충](eucommia.md#lumbar-pattern)과 [우슬](achyranthes.md#downward-direction)은 모두 허리·무릎에 연결되지만 활혈·하행의 비중이 다릅니다. [감초의 가공 기록](licorice.md#processing-reading)과 [산조인의 생용·초용 기록](ziziphus-seed.md#processing-reading)은 포제명을 현대의 동일한 공정이나 임상효과로 곧바로 옮기지 않고 문맥부터 확인합니다.
 
 ## 편집 원칙
 1. 1613년 간본 계열 또는 신뢰할 수 있는 고전 데이터베이스에서 원문 위치를 확인한다.
@@ -30,6 +49,9 @@ last_reviewed: 2026-08-19
 5. 재사용이 허용된 전사는 출처·수정판·이용조건을 표시해 수록하고, 임상 해설과 원문 전사를 구분한다. 한의학고전DB 자료는 외부 참고 링크로만 안내한다.
 
 ## 자료원
-- 한국한의학연구원 한의고전명저총서: 《동의보감》
-- 한국어 역사 자료 말뭉치(KOHICO)의 1613년 《동의보감》 탕액편 전사
-- 위키문헌 1613년 《동의보감》 영인·전사 자료
+
+- [아카이브 원문 자료 안내](../original.md#sources): 실제 수록한 공개 전사·고정 수정판·기여 이력·이용조건.
+- 각 본초 문서의 위키문헌 영인 페이지와 수정판 링크: 발췌의 앞뒤와 원문의 인용 출전을 대조.
+- [한국한의학연구원 한의학고전DB](https://mediclassics.kr/): 별도 외부 참고. 이 아카이브의 전사 데이터 출처와 구별합니다.
+
+전권 영인본과 탕액편 전사의 대응 영인은 동일 판본으로 합치지 않습니다. 전사·영인본의 수록 범위와 서지는 [원문 열람 안내](../original.md)에서 확인합니다.

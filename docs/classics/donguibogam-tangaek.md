@@ -38,6 +38,17 @@ last_reviewed: '2026-09-05'
 
 원문을 짧게 풀어 읽으려면 [인삼의 五藏氣不足](donguibogam/tangyeok/ginseng.md#passage-reading), [황기의 氣虛盜汗自汗](donguibogam/tangyeok/astragalus.md#passage-reading), [백출의 健脾强胃·去濕止渴](donguibogam/tangyeok/atractylodes.md#passage-reading), [복령의 開胃·止嘔逆·安心神](donguibogam/tangyeok/poria.md#passage-reading)을 비교합니다. 같은 보기·이수 분류에 놓여도 원문에서 강조한 조건과 실제 처방 속 역할은 다릅니다.
 
+허손·근골·수면·배합을 더 살펴보려면 다음 원문을 비교합니다. 원문의 전통 개념과 현대 질환·검사 지표를 바로 일치시키지 않고, 어떤 상태와 조건을 묘사하는지부터 읽습니다.
+
+| 원문에서 비교할 축 | 본초별 읽는 지점 | 처방으로 이어갈 질문 |
+|---|---|---|
+| 허로와 요슬의 허약 | [녹용의 虛勞羸瘦·腎虛冷](donguibogam/tangyeok/deer-antler.md#original-reading) · [두충의 腎勞·腰脊攣痛](donguibogam/tangyeok/eucommia.md#lumbar-pattern) | 보익과 근골을 받치는 약의 비중은 어떻게 다른가? |
+| 근골과 혈의 방향 | [우슬의 活血生血·下行](donguibogam/tangyeok/achyranthes.md#downward-direction) | 두충과 함께 쓰는 이유, 활혈방에서 하행하는 역할은 무엇인가? |
+| 번심·혈·수면 | [산조인의 不得眠·血不歸脾](donguibogam/tangyeok/ziziphus-seed.md#original-reading) | 산조인탕·귀비탕·천왕보심단의 배합은 어떤 병기를 달리 보는가? |
+| 조화와 포제·복용 조건 | [감초의 調和諸藥·和中·瀉火](donguibogam/tangyeok/licorice.md#original-reading) | 모든 처방에 감초가 필요한가? 생품과 포제품은 어떻게 기록되는가? |
+
+[탕액편 16종 본초 목차](donguibogam/tangyeok/index.md#1)에서 나머지 원문 해설도 찾을 수 있습니다.
+
 약재를 찾은 뒤에는 **생지황과 숙지황의 가공 차이, 반하의 포제, 복합 처방 안에서의 역할**을 확인합니다. 한 성분의 약리 설명만으로 그 성분을 포함한 모든 처방의 효능을 같게 보지는 않습니다.
 
 → [본초학 임상 지식망](../herbs/index.md)  
