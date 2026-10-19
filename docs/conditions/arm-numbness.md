@@ -34,6 +34,17 @@ last_reviewed: 2026-09-19
 
 분포는 중요한 단서지만 경추 신경근과 말초신경 압박이 함께 나타나는 경우도 있습니다. 손가락 지도 하나만으로 확정하지 않고 근력·반사·신경긴장검사와 일상 기능을 함께 봅니다.
 
+### 같은 손저림 안에서 말초신경 위치 나누기 {#peripheral-localization}
+
+| 더 구체적인 질문 | 상세 비교 |
+|---|---|
+| 새끼손가락이 저리고 손가락 벌리기가 약한가? | [척골신경의 팔꿈치·손목 차이](../nerve-entrapment/ulnar-entrapment.md#elbow-versus-wrist) |
+| 손가락 폄은 약한데 피부 감각은 유지되는가? | [요골신경·후골간신경과 감각가지](../nerve-entrapment/radial-entrapment.md#symptoms) |
+| 아래팔 통증과 손바닥 감각 변화가 함께 있는가? | [원회내근 주변 근위 정중신경](../nerve-entrapment/pronator-syndrome.md#symptoms) |
+| 저림 없이 엄지·검지 끝 집기가 어려운가? | [전골간신경과 힘줄 기능 비교](../nerve-entrapment/pronator-syndrome.md#anterior-interosseous) |
+
+통증 때문에 힘을 덜 쓰는 상태와 실제 운동 약화는 나누어 봅니다. 감각이 괜찮다는 이유로 운동가지 병변을 제외하지 않으며, 검사 선택은 [포착 위치와 검사 역할](../nerve-entrapment/index.md#diagnostic-roles)을 함께 확인합니다.
+
 ## 목디스크와 손목·팔꿈치 신경압박의 차이
 
 | 항목 | 목디스크·경추 신경근병증 | 말초신경 압박 |

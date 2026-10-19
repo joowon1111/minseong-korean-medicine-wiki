@@ -34,6 +34,17 @@ last_reviewed: 2026-09-19
 
 ‘다리가 저리다’는 말 안에는 감각저하, 찌릿함, 통증, 무거움, 근력저하가 섞여 있습니다. 각각을 나누어 기록하면 신경과 혈관, 관절·근육 원인을 구분하는 데 도움이 됩니다.
 
+### 발처짐·허벅지 감각·발바닥 저림을 따로 보기 {#peripheral-localization}
+
+| 추가로 나눌 양상 | 이어 볼 문서 |
+|---|---|
+| 발목·엄지 들기가 약하고 발끝이 걸림 | [총비골신경과 L5 신경근 비교](../nerve-entrapment/common-peroneal-entrapment.md#foot-drop-localization) |
+| 허벅지 앞가쪽의 감각만 달라짐 | [외측대퇴피신경](../nerve-entrapment/meralgia-paresthetica.md) — 운동 약화가 있으면 평가 범위를 넓힘 |
+| 발바닥 화끈거림과 발목 안쪽 증상 | [족근관·경골신경](../nerve-entrapment/tarsal-tunnel.md#assessment) — 족저근막·신경근·전신 원인 비교 |
+| 앉을 때 엉덩이 깊은 통증과 다리 방사통 | [심부둔부·좌골신경](../nerve-entrapment/deep-gluteal-sciatic.md#assessment) — 허리·고관절·햄스트링 평가 |
+
+발끝 서기와 종아리 근력은 S1 신경근·근위 경골신경을 비교하는 질문이며, 족근관의 발 내재근 기능과 같은 의미가 아닙니다. [하지 해부학의 위치별 운동 비교](../clinical-anatomy/index.md#motor-localization)
+
 ## 디스크·협착증·말초신경병증은 어떻게 다른가요?
 
 | 항목 | 허리디스크·신경근병증 | 척추관협착증 | 말초신경병증 |
