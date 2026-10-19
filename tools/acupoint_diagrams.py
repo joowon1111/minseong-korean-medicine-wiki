@@ -46,6 +46,7 @@ def on_page_markdown(markdown, page, config, files):
     note = escape(region['notes'])
     block = f'''\n\n{MARKER}
 <div class="acupoint-location">
+<p><a class="md-button" href="/acupoint-network/3d-map/?point={code}">3D 지도에서 {title} 보기 →</a></p>
 <object data="{asset}" type="image/svg+xml" aria-label="{title} 위치 도해"><img src="{asset}" alt="{title}이 강조된 {escape(region['title'])} 도해" width="640" height="660" loading="lazy"></object>
 <p><strong>{title}</strong> · 붉은 표시가 이 문서의 경혈입니다. <a href="{asset}">그림 확대</a> · <a href="/acupoint-network/standard-atlas/#five-shu-diagrams">다른 부위·경혈 찾기</a></p>
 <p>{note}</p>
