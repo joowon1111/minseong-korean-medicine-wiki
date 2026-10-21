@@ -19,6 +19,25 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       const scripts = await page.locator('script[src]').evaluateAll(nodes => nodes.map(n => n.src));
       assert(!scripts.some(src => /learning\/learning|acupoint-atlas\/(explorer|discovery)|archive-tools\/tools/.test(src)), 'Home must not request unrelated widget code');
       await page.screenshot({path:`archive-browser-results/home-responsive-${width}.png`});
+      const publisher = page.locator('.archive-publisher');
+      assert.match(await publisher.textContent(), /목정일 · 김문정/);
+      assert.equal(await publisher.locator('a[href="https://minseong.co.kr/"]').count(), 1);
+      assert.equal(await publisher.locator('a[href="https://minseong.co.kr/oshineun-gil/"]').count(), 1);
+      await publisher.scrollIntoViewIfNeeded();
+      const columns = await publisher.locator('.archive-publisher__grid > div').all();
+      const left = await columns[0].boundingBox(), right = await columns[1].boundingBox();
+      assert(width <= 760 ? right.y >= left.y + left.height : right.x >= left.x + left.width, 'Publisher columns must adapt to viewport');
+      assert(!(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1)), `Publisher overflow at ${width}`);
+      for (const link of await publisher.locator('nav a').all()) {
+        const box = await link.boundingBox();
+        assert(box.height >= 44 && box.x >= 0 && box.x + box.width <= width, 'Footer links must fit and be easy to tap');
+      }
+      await publisher.locator('a').first().focus();
+      assert(await publisher.locator('a').first().evaluate(el => el === document.activeElement), 'Footer links must accept keyboard focus');
+      await publisher.screenshot({path:`archive-browser-results/publisher-${width}.png`});
+      await page.evaluate(() => document.body.setAttribute('data-md-color-scheme', 'slate'));
+      await publisher.screenshot({path:`archive-browser-results/publisher-dark-${width}.png`});
+      await page.evaluate(() => document.body.setAttribute('data-md-color-scheme', 'default'));
       await page.goto(base + '/acupuncture/points/lu2/', {waitUntil:'networkidle'});
       assert.equal(await page.locator('link[href*="acupoint-atlas/explorer.css"]').count(), 1, 'Point detail must load its navigation styles');
       const parent = page.locator('.acupoint-meridian-parent');
