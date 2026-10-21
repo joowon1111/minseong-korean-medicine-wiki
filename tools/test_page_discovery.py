@@ -182,6 +182,47 @@ class DiscoveryTests(unittest.TestCase):
         self.assertNotIn('BreadcrumbList', output)
         self.assertIn('"@type":"WebSite"', output)
 
+    def test_sections_preserve_context_and_exclude_hidden_content(self):
+        _, _, payload = self.render(
+            '<p>도입부</p><h2 id="한글">출전 <em>비교</em></h2>'
+            '<p>구성 차이 <a href="https://example.net/source">원전</a></p>'
+            '<div hidden><h3 id="hidden">숨긴 제목</h3><p>PRIVATE</p></div>'
+            '<h3 id="trial">현대 연구</h3><p>대상과 기간 <a href="../next/">관련 문서</a></p>'
+            '<script>SECRET</script><h2 id="empty">다음 절</h2>')
+        sections = payload['sections']
+        self.assertEqual([s['title'] for s in sections], ['출전 비교', '현대 연구', '다음 절'])
+        self.assertEqual(sections[0]['text'], '구성 차이 원전')
+        self.assertEqual(sections[0]['url'], self.page.canonical_url + '#%ED%95%9C%EA%B8%80')
+        self.assertEqual(sections[0]['links'], ['https://example.net/source'])
+        self.assertEqual(sections[1]['links'], ['https://example.org/wiki/conditions/next/'])
+        self.assertEqual(sections[2]['text'], '')
+        self.assertNotIn('도입부', str(sections))
+        self.assertNotIn('PRIVATE', str(sections))
+        self.assertNotIn('SECRET', str(sections))
+        self.assertIn('도입부', payload['text'])
+
+    def test_home_editor_identity_extends_existing_publisher_graph(self):
+        source = (Path(__file__).resolve().parents[1] / 'docs/index.md').read_text()
+        parser = discovery.Article()
+        parser.feed(source)
+        self.assertIn('WebSite', parser.types)
+        start = source.index('<script type="application/ld+json">') + len('<script type="application/ld+json">')
+        graph = json.loads(source[start:source.index('</script>', start)])['@graph']
+        website, = [node for node in graph if node['@type'] == 'WebSite']
+        editors = {node['@id']: node for node in graph if node['@type'] == 'Person'}
+        self.assertEqual({editors[ref['@id']]['name'] for ref in website['editor']}, {'목정일', '김문정'})
+        self.assertEqual(website['publisher']['@id'], 'https://wiki.minseong.co.kr/#publisher')
+        for person in editors.values():
+            self.assertEqual(person['worksFor']['@id'], 'https://www.minseong.co.kr/#organization')
+            self.assertNotIn('reviewedBy', person)
+
+    def test_unanchored_html_heading_ends_previous_passage_without_inventing_url(self):
+        _, _, payload = self.render('<h2 id="source">출전</h2><p>원문 문맥</p>'
+                                    '<h2>도구 화면</h2><p>별도 안내</p>'
+                                    '<h3 id="result">결과</h3><p>연구 결과</p>')
+        self.assertEqual([s['text'] for s in payload['sections']], ['원문 문맥', '연구 결과'])
+        self.assertIn('별도 안내', payload['text'])
+
     def test_encoded_document_url_and_editorial_title(self):
         self.page.meta['title'] = '정확한 문서 제목'
         self.page.file.dest_uri = 'conditions/한글 이름/index.html'
@@ -217,3 +258,4 @@ class DiscoveryTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+

@@ -248,8 +248,29 @@ hide:
       "publisher": {
         "@id": "https://wiki.minseong.co.kr/#publisher"
       },
-      "alternateName": "민성한의학아카이브"
+      "alternateName": "민성한의학아카이브",
+      "editor": [
+        {"@id": "https://wiki.minseong.co.kr/guide/#editor-mok"},
+        {"@id": "https://wiki.minseong.co.kr/guide/#editor-kim"}
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://wiki.minseong.co.kr/guide/#editor-mok",
+      "name": "목정일",
+      "jobTitle": "대표원장",
+      "url": "https://minseong.co.kr/uiryojin/",
+      "worksFor": {"@id": "https://www.minseong.co.kr/#organization"}
+    },
+    {
+      "@type": "Person",
+      "@id": "https://wiki.minseong.co.kr/guide/#editor-kim",
+      "name": "김문정",
+      "jobTitle": "대표원장",
+      "url": "https://minseong.co.kr/uiryojin/",
+      "worksFor": {"@id": "https://www.minseong.co.kr/#organization"}
     }
   ]
 }
 </script>
+
