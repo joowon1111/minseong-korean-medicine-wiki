@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block footer %}
+  {% include "partials/archive-publisher.html" %}
+  {{ super() }}
+{% endblock %}
+
 {% block htmltitle %}
   {% if page.is_homepage %}
     <title>{{ config.extra.homepage_title | default(config.site_name, true) | e }}</title>
@@ -32,3 +37,4 @@
   {% endif %}
   {{ super() }}
 {% endblock %}
+

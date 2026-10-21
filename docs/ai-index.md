@@ -294,7 +294,7 @@ AI 검색에서 중요한 관계는 다음과 같습니다.
 | 스키마 | 각 필드와 데이터 형식 확인 | [knowledge-schema.json](https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json) |
 | AI용 텍스트 안내 | 핵심 주제·대표 문서·출처 해석 안내 | [llms.txt](https://wiki.minseong.co.kr/llms.txt) |
 
-한 주제를 읽을 때는 페이지 색인의 `url`·`title`·`document`에서 해당 문서를 고르고, `document`가 가리키는 페이지별 JSON을 사용합니다. 각 HTML의 `link rel="alternate" type="application/json"`에도 같은 주소가 표시됩니다. JSON은 빌드한 본문·대표 주소·제목 앵커·연결 자료를 담으며, 인용할 때는 그 문서의 HTML 주소로 돌아갑니다. 전체 관계를 탐색할 때는 지식 그래프를 사용합니다.
+한 주제를 읽을 때는 페이지 색인의 `url`·`title`·`document`에서 해당 문서를 고르고, `document`가 가리키는 페이지별 JSON을 사용합니다. 각 HTML의 `link rel="alternate" type="application/json"`에도 같은 주소가 표시됩니다. JSON은 빌드한 본문·대표 주소·제목 앵커·연결 자료를 담습니다. `sections`에서는 소제목별 본문과 그 위치의 링크를 함께 확인할 수 있습니다. [절별 읽기와 출전 확인](ai/site-structure.md#section-retrieval)에 따라 앞뒤 문맥과 실제 원출처를 확인하고, 인용할 때는 그 문서의 HTML 주소로 돌아갑니다. 전체 관계를 탐색할 때는 지식 그래프를 사용합니다.
 
 문서·관계 수는 빌드된 매니페스트에서 확인합니다. 날짜별 카드나 학습문제 수는 해당 페이지의 현재 안내를 기준으로 읽습니다. [AI·검색엔진용 사이트 구조](ai/site-structure.md)에서 자료별 역할과 탐색 방법을 확인할 수 있습니다.
 
@@ -326,3 +326,4 @@ AI 검색에서 중요한 관계는 다음과 같습니다.
 - [전체 둘러보기](portal/maps.md)
 
 민성 한의학 아카이브는 **환자가 실제로 사용하는 말에서 출발해 증상과 질환을 구분하고, 한의학적 해석과 치료자료를 현대 임상근거 및 출처까지 추적할 수 있도록 연결**합니다.
+

@@ -84,6 +84,7 @@ class Article(HTMLParser):
         self._stack = []
         self._heading = None
         self._script = None
+        self.section_marks = []
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
@@ -99,6 +100,7 @@ class Article(HTMLParser):
         if tag in BLOCKS or tag in {"br", "td", "th"}:
             self.text.append("\n" if tag in BLOCKS or tag == "br" else "\t")
         if tag in {"h2", "h3"} and attrs.get("id"):
+            self.section_marks.append({"start": len(self.text), "links": len(self.links)})
             self._heading = {"level": int(tag[1]), "id": attrs["id"], "text": []}
         if tag == "a" and attrs.get("href"):
             self.links.append(attrs["href"])
@@ -127,6 +129,8 @@ class Article(HTMLParser):
         if tag in {"h2", "h3"} and self._heading is not None:
             self._heading["text"] = plain("".join(self._heading["text"]))
             self.headings.append(self._heading)
+            self.section_marks[-1]["heading"] = self._heading
+            self.section_marks[-1]["body"] = len(self.text)
             self._heading = None
         if self._stack:
             self._stack.pop()
@@ -145,6 +149,22 @@ class Article(HTMLParser):
 
     def body_text(self):
         return "\n".join(line for part in "".join(self.text).splitlines() if (line := plain(part)))
+
+    def passages(self, url):
+        """Export contiguous visible sections, without inferring citation support."""
+        result = []
+        for i, mark in enumerate(self.section_marks):
+            heading = mark.get("heading")
+            if not heading:
+                continue
+            following = self.section_marks[i + 1] if i + 1 < len(self.section_marks) else {}
+            text = "".join(self.text[mark["body"]:following.get("start", len(self.text))])
+            links = self.links[mark["links"]:following.get("links", len(self.links))]
+            result.append({"title": heading["text"], "level": heading["level"],
+                           "url": url + "#" + quote(heading["id"]),
+                           "text": "\n".join(line for part in text.splitlines() if (line := plain(part))),
+                           "links": sorted({target for link in links if (target := http_url(link, url))})})
+        return result
 
 
 def breadcrumb_items(page, files, config):
@@ -263,7 +283,15 @@ def on_post_page(output, page, config):
             for i, item in enumerate(data["breadcrumbs"], 1)]})
     if url == root and "WebSite" not in article.types:
         graph.append({"@type": "WebSite", "@id": root + "#website", "url": root,
-                      "name": config["site_name"], "inLanguage": "ko-KR"})
+                      "name": config["site_name"], "inLanguage": "ko-KR",
+                      "publisher": {"@id": root + "guide/#publisher"},
+                      "editor": [{"@id": root + "guide/#editor-mok"}, {"@id": root + "guide/#editor-kim"}]})
+        graph.append({"@type": "Organization", "@id": root + "guide/#publisher",
+                      "name": "민성한의원", "url": "https://minseong.co.kr/"})
+        for key, name in (("mok", "목정일"), ("kim", "김문정")):
+            graph.append({"@type": "Person", "@id": root + "guide/#editor-" + key,
+                          "name": name, "jobTitle": "대표원장", "url": "https://minseong.co.kr/uiryojin/",
+                          "worksFor": {"@id": root + "guide/#publisher"}})
     export_title = "Article text (JSON)" if language == "en" else "문서 읽기 자료 (JSON)"
     head = '<link rel="alternate" type="application/json" title="' + export_title + '" href="' + escape(document_url, quote=True) + '">\n'
     if graph:
@@ -275,6 +303,7 @@ def on_post_page(output, page, config):
     payload = {"schema_version": "1.0", "url": url, "title": title,
                "language": language, "description": description,
                "text": article.body_text(),
+               "sections": article.passages(url),
                "headings": [{"level": h["level"], "title": h["text"], "url": url + "#" + quote(h["id"])} for h in article.headings],
                "links": links, "related_reading": data["related"],
                "interpretation": "Public article text and navigation only; links do not establish clinical equivalence or treatment recommendations."}
@@ -294,3 +323,4 @@ def on_post_build(config):
     write_document(config["site_dir"], "assets/ai/page-index.json", {
         "schema_version": "1.0", "base_url": config["site_url"],
         "pages": [_page_index[url] for url in sorted(_page_index)]})
+

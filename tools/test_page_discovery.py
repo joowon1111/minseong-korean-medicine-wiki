@@ -182,6 +182,35 @@ class DiscoveryTests(unittest.TestCase):
         self.assertNotIn('BreadcrumbList', output)
         self.assertIn('"@type":"WebSite"', output)
 
+    def test_sections_preserve_context_and_exclude_hidden_content(self):
+        _, _, payload = self.render(
+            '<p>도입부</p><h2 id="한글">출전 <em>비교</em></h2>'
+            '<p>구성 차이 <a href="https://example.net/source">원전</a></p>'
+            '<div hidden><h3 id="hidden">숨긴 제목</h3><p>PRIVATE</p></div>'
+            '<h3 id="trial">현대 연구</h3><p>대상과 기간 <a href="../next/">관련 문서</a></p>'
+            '<script>SECRET</script><h2 id="empty">다음 절</h2>')
+        sections = payload['sections']
+        self.assertEqual([s['title'] for s in sections], ['출전 비교', '현대 연구', '다음 절'])
+        self.assertEqual(sections[0]['text'], '구성 차이 원전')
+        self.assertEqual(sections[0]['url'], self.page.canonical_url + '#%ED%95%9C%EA%B8%80')
+        self.assertEqual(sections[0]['links'], ['https://example.net/source'])
+        self.assertEqual(sections[1]['links'], ['https://example.org/wiki/conditions/next/'])
+        self.assertEqual(sections[2]['text'], '')
+        self.assertNotIn('도입부', str(sections))
+        self.assertNotIn('PRIVATE', str(sections))
+        self.assertNotIn('SECRET', str(sections))
+        self.assertIn('도입부', payload['text'])
+
+    def test_publisher_schema_matches_visible_responsibility_without_reviewer_claims(self):
+        self.page.canonical_url = self.config['site_url']
+        self.page.file.src_uri = 'index.md'
+        _, output, _ = self.render('<h1>홈</h1>')
+        self.assertIn('"publisher":{"@id":"https://example.org/wiki/guide/#publisher"}', output)
+        self.assertIn('"name":"목정일"', output)
+        self.assertIn('"name":"김문정"', output)
+        for claim in ('reviewedBy', 'lastReviewed', '"author"', '"founder"'):
+            self.assertNotIn(claim, output)
+
     def test_encoded_document_url_and_editorial_title(self):
         self.page.meta['title'] = '정확한 문서 제목'
         self.page.file.dest_uri = 'conditions/한글 이름/index.html'
@@ -217,3 +246,4 @@ class DiscoveryTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+

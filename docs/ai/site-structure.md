@@ -180,6 +180,20 @@ last_reviewed: '2026-08-23'
 
 [page-index.json](https://wiki.minseong.co.kr/assets/ai/page-index.json)은 각 페이지의 제목·대표 HTML 주소(`url`)·JSON 주소(`document`)를 제공합니다. 한 주제의 본문을 읽을 때는 해당 `document`를 선택하거나 HTML의 JSON 대체 링크를 사용합니다. 페이지별 JSON에는 렌더링한 본문, 실제 제목 앵커, 출처·관련 링크가 담깁니다.
 
+#### 본문 절에서 근거까지 확인하기 {#section-retrieval}
+
+페이지별 JSON의 `sections`는 H2·H3 제목 단위의 **제목·앵커 주소·해당 절의 본문·링크**를 제공합니다. 다음 H2·H3가 나오기 전까지의 연속된 본문이 한 절에 담기며, H3 하위 절을 H2 본문에 다시 복사하지 않습니다. 첫 소제목 앞의 도입부는 전체 `text`에서 읽습니다. 이는 같은 공개 HTML을 다른 형식으로 제공하는 기능이며, 검색 노출을 위한 별도 요약문이나 새 의학적 판단을 생성하지 않습니다.
+
+| 단계 | 확인할 내용 |
+|---|---|
+| 대표 문서 선택 | 색인의 제목과 `url`이 질문에 해당하는지 확인 |
+| 해당 절 읽기 | `sections`의 제목·본문에서 답과 적용 조건을 함께 확인 |
+| 앞뒤 문맥 비교 | 전체 `text`와 HTML에서 정의·감별·안전 정보 확인 |
+| 출전 확인 | 절 안의 링크를 열어 원전 위치 또는 실제 연구 대상·중재·결과 확인 |
+| 인용 | 해당 절의 HTML 앵커 주소와 필요한 원출처를 함께 제시 |
+
+절의 `links`는 그 위치에 나타나는 링크 목록입니다. 참고문헌·내부 탐색 링크가 함께 들어갈 수 있으므로, 링크의 존재를 그 절의 모든 주장이 검증되었다는 뜻으로 해석하지 않습니다. 본문의 문헌명·판본·조문, 원방·가감방, 연구 제제와 적용 범위는 인용 과정에서도 유지합니다. [자료 차이의 처리](../guide/editorial-policy.md#source-differences) · [문서 상태 해석](../guide/status-policy.md#reading-status)
+
 [지식 그래프](https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json)는 문서 개체·동의어·분류·내부 연결을 탐색하는 자료이고, [매니페스트](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json)는 해당 빌드의 문서·관계 수와 무결성을 확인하는 자료입니다. 개별 주장을 인용할 때는 JSON 주소보다 원문 HTML의 해당 절과 연구 출처를 표시합니다. [데이터별 안내](../ai-index.md#_17) · [llms.txt](https://wiki.minseong.co.kr/llms.txt)
 
 ## 문서 주소와 출처 {#_2}
@@ -195,3 +209,4 @@ last_reviewed: '2026-08-23'
 ## 최종 구조 {#_3}
 
 **사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브**를 목표로 합니다.
+

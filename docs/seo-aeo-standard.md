@@ -148,6 +148,8 @@ FAQ의 수를 늘리기 위해 내부 분류법이나 문서 제작 과정을 �
 
 ## AI·GEO 친화적 구조 {#aigeo}
 
+검색과 AI 답변에서의 발견을 돕는 바탕은 유용한 본문, 접근 가능한 HTML, 안정적인 대표 주소와 출처입니다. Google은 AI 검색을 위한 별도의 전용 스키마나 `llms.txt`가 필요하지 않으며, 이런 파일을 Google 검색의 순위 신호로 사용하지 않는다고 설명합니다. 아카이브의 JSON·텍스트 안내는 이를 활용하는 외부 도구의 자료 탐색을 돕는 용도로 유지합니다. [Google Search Central 공식 안내](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
+
 AI가 문서를 정확하게 이해하고 인용하려면 다음 요소가 중요합니다.
 
 - 의미가 분명한 H1·H2·H3
@@ -168,6 +170,7 @@ AI가 문서를 정확하게 이해하고 인용하려면 다음 요소가 중�
 | 자료 | 담고 있는 정보 | 직접 살펴보기 |
 |---|---|---|
 | 문서별 JSON | 한 문서의 제목·본문·소제목 주소·출처 및 관련 링크 | [이 문서의 JSON](https://wiki.minseong.co.kr/assets/ai/pages/seo-aeo-standard/index.json) · [전체 문서 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json) |
+| 본문 절별 자료 | 문서 JSON의 `sections`에 담긴 절별 본문·실제 앵커·해당 위치의 링크 | [절별 읽기·출전 확인 안내](ai/site-structure.md#section-retrieval) |
 | 지식그래프 JSON | 증상·질환·본초·방제 등 공개 문서의 분류와 문서 사이의 연결 | [지식그래프](https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json) |
 | JSON Schema | 지식그래프의 필드와 자료형을 정의한 데이터 규격 | [데이터 스키마](https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json) |
 | 데이터 매니페스트 | 지식그래프의 문서·관계 수, 분류별 구성과 제공 파일 목록 | [데이터 구성 정보](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json) |
@@ -210,3 +213,4 @@ JSON-LD는 **웹페이지가 무엇을 설명하는지**를 표현하고, 위의
 - [AI 핵심 색인](ai-index.md)
 - [운영 원칙](guide/editorial-policy.md)
 - [출처·인용 원칙](guide/citation-policy.md)
+

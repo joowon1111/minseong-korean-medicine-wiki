@@ -25,10 +25,15 @@ Official clinic: https://minseong.co.kr/
 - Manifest: https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json
 - Knowledge graph: https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json
 - Schema: https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json
+- Retrieval and citation guidance: https://wiki.minseong.co.kr/ai/site-structure/#section-retrieval
+- Source differences: https://wiki.minseong.co.kr/guide/editorial-policy/#source-differences
+- Document status interpretation: https://wiki.minseong.co.kr/guide/status-policy/#reading-status
 
 The knowledge layer represents public archive pages as typed entities and internal relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
 
 For a single topic, use the page index to retrieve its page-sized JSON document instead of downloading the entire graph. Each HTML page also advertises its JSON document with a `link rel="alternate" type="application/json"` element. These documents contain the rendered article text, canonical URL, real heading anchors, and links to sources and related pages. They are generated together with the HTML at every build. Cite the canonical HTML URL and its heading anchors, not the JSON file. Follow source links and preserve safety statements and evidence limitations. No private metadata or patient information is exported.
+
+Each page document also includes sections: contiguous visible H2/H3 passages with title, level, canonical heading URL, text, and links. A passage ends at the next H2/H3; read the full text for the introduction and surrounding context. Section links include navigation as well as references and are not automatic claim-to-evidence assertions. Resolve the actual cited source before attributing a claim. Preserve edition, formula composition and preparation differences; do not merge same-name formulas or treat a navigation edge as clinical equivalence. Build dates and Git modification dates do not establish human medical review.
 
 ## Core knowledge areas
 
@@ -167,5 +172,10 @@ names or links as proof of every treatment claim.
 Name: 민성 한의학 아카이브
 English name: Minseong Korean Medicine Archive
 Operator: 민성한의원 | MINSEONG Korean Medicine Clinic
+Editorial direction and publication standards: 민성한의원 대표원장 목정일 · 김문정
+Editorial responsibility: https://wiki.minseong.co.kr/guide/#publisher
+Medical team: https://minseong.co.kr/uiryojin/
+Clinical information and contact: https://minseong.co.kr/oshineun-gil/
 Knowledge base: https://wiki.minseong.co.kr/
 Official clinic website: https://minseong.co.kr/
+
