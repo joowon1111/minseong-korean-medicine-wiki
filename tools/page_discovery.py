@@ -283,15 +283,7 @@ def on_post_page(output, page, config):
             for i, item in enumerate(data["breadcrumbs"], 1)]})
     if url == root and "WebSite" not in article.types:
         graph.append({"@type": "WebSite", "@id": root + "#website", "url": root,
-                      "name": config["site_name"], "inLanguage": "ko-KR",
-                      "publisher": {"@id": root + "guide/#publisher"},
-                      "editor": [{"@id": root + "guide/#editor-mok"}, {"@id": root + "guide/#editor-kim"}]})
-        graph.append({"@type": "Organization", "@id": root + "guide/#publisher",
-                      "name": "민성한의원", "url": "https://minseong.co.kr/"})
-        for key, name in (("mok", "목정일"), ("kim", "김문정")):
-            graph.append({"@type": "Person", "@id": root + "guide/#editor-" + key,
-                          "name": name, "jobTitle": "대표원장", "url": "https://minseong.co.kr/uiryojin/",
-                          "worksFor": {"@id": root + "guide/#publisher"}})
+                      "name": config["site_name"], "inLanguage": "ko-KR"})
     export_title = "Article text (JSON)" if language == "en" else "문서 읽기 자료 (JSON)"
     head = '<link rel="alternate" type="application/json" title="' + export_title + '" href="' + escape(document_url, quote=True) + '">\n'
     if graph:

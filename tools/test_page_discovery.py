@@ -201,15 +201,20 @@ class DiscoveryTests(unittest.TestCase):
         self.assertNotIn('SECRET', str(sections))
         self.assertIn('도입부', payload['text'])
 
-    def test_publisher_schema_matches_visible_responsibility_without_reviewer_claims(self):
-        self.page.canonical_url = self.config['site_url']
-        self.page.file.src_uri = 'index.md'
-        _, output, _ = self.render('<h1>홈</h1>')
-        self.assertIn('"publisher":{"@id":"https://example.org/wiki/guide/#publisher"}', output)
-        self.assertIn('"name":"목정일"', output)
-        self.assertIn('"name":"김문정"', output)
-        for claim in ('reviewedBy', 'lastReviewed', '"author"', '"founder"'):
-            self.assertNotIn(claim, output)
+    def test_home_editor_identity_extends_existing_publisher_graph(self):
+        source = (Path(__file__).resolve().parents[1] / 'docs/index.md').read_text()
+        parser = discovery.Article()
+        parser.feed(source)
+        self.assertIn('WebSite', parser.types)
+        start = source.index('<script type="application/ld+json">') + len('<script type="application/ld+json">')
+        graph = json.loads(source[start:source.index('</script>', start)])['@graph']
+        website, = [node for node in graph if node['@type'] == 'WebSite']
+        editors = {node['@id']: node for node in graph if node['@type'] == 'Person'}
+        self.assertEqual({editors[ref['@id']]['name'] for ref in website['editor']}, {'목정일', '김문정'})
+        self.assertEqual(website['publisher']['@id'], 'https://wiki.minseong.co.kr/#publisher')
+        for person in editors.values():
+            self.assertEqual(person['worksFor']['@id'], 'https://www.minseong.co.kr/#organization')
+            self.assertNotIn('reviewedBy', person)
 
     def test_encoded_document_url_and_editorial_title(self):
         self.page.meta['title'] = '정확한 문서 제목'
