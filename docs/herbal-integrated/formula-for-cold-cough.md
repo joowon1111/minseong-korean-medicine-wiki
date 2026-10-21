@@ -35,6 +35,10 @@ last_reviewed: '2026-09-05'
 
 처방명은 검색을 위한 출발점이며 실제 처방은 개인의 현재 상태와 병증을 평가해 구성합니다.
 
+## 감기·독감 연구를 처방과 연결하기
+
+[성인 은교산·삼소음 시험](../authority/formulas/respiratory-herbal-formula-map.md#common-cold-trial), [소아 감기 66개 시험 메타분석](../authority/formulas/respiratory-herbal-formula-map.md#pediatric-cold-peach), [H1N1의 마행감석탕·은교산 계열 복합방 시험](../authority/formulas/respiratory-herbal-formula-map.md#h1n1-combination-trial)을 구분해 봅니다. 감기 설문점수·총유효율·해열 시간은 서로 다른 결과이며, 연구용 제제를 이름이 비슷한 가감방·병용 조합과 동일시하지 않습니다. [감기·독감의 감별과 치료 시기](../conditions/common-cold.md#flu-testing-timing)에서 현재 증상에 필요한 평가를 먼저 확인합니다.
+
 ## 본초 유래 제제의 호흡기 임상연구
 
 국내 대학병원 연구에서는 **황련·아이비엽 복합추출물**과 **7종 생약 복합추출물 HL-301**이 급성 기관지염 증상 개선을 위해 비교 평가됐습니다. 처방의 전통적 활용과 함께, 실제 시험한 제제·환자군·기간을 확인할 수 있습니다.

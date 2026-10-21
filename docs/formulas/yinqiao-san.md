@@ -84,6 +84,10 @@ description: 표의 풍열과 인후 증상을 읽기, 유사 처방과의 차�
 
 국내 2023년 다기관 위약대조시험에서는 급성 감기 성인 128명을 은교산·삼소음·위약군으로 나누었습니다. 은교산군의 감기 증상·일상 기능 개선이 보고되었으며, 계획한 표본수에 미달해 후속 확인이 필요합니다. 자세한 대상·결과는 [호흡기 근거 지도](../authority/formulas/respiratory-herbal-formula-map.md#common-cold-trial)에서 봅니다. 이 결과는 연구한 감기 제제의 근거이며 피부질환·폐렴 등으로 범위를 넓혀 해석하지 않습니다.
 
+### H1N1 연구의 복합방과 원방 구분 {#h1n1-research-formulation}
+
+2011년 H1N1 환자 410명의 무작위시험에서 사용한 maxingshigan-yinqiaosan은 마행감석탕·은교산 계열의 **12약미 복합 탕약**입니다. 해열 시간 단축이 보고됐으나 증상점수의 군 간 차이는 유의하지 않았습니다. 원방 단독이나 국내 제제 전체의 독감 효과로 해석하지 않고, [연구 대상·대조군·안전성과 원 논문](../authority/formulas/respiratory-herbal-formula-map.md#h1n1-combination-trial)을 함께 확인합니다.
+
 ## 임상 탐색 {#_5}
 
 | 진료에서 확인할 항목 |
