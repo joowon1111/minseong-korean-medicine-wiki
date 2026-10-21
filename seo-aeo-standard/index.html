@@ -59,7 +59,7 @@
       
     
     
-      <link rel="stylesheet" href="../assets/extra.css?v=20261019-readable">
+      <link rel="stylesheet" href="../assets/extra.css?v=20261021-publisher">
     
       <link rel="stylesheet" href="../stylesheets/portal.css?v=20261014-life-cards">
     
@@ -5827,6 +5827,7 @@
 <li>한약·침·전침·약침을 고정된 우열이나 순서로 제시하지 않고 치료 목적과 환자 상태에 따른 선택·조합으로 설명합니다.</li>
 </ul>
 <h2 id="aigeo">AI·GEO 친화적 구조<a class="headerlink" href="#aigeo" title="Permanent link">&para;</a></h2>
+<p>검색과 AI 답변에서의 발견을 돕는 바탕은 유용한 본문, 접근 가능한 HTML, 안정적인 대표 주소와 출처입니다. Google은 AI 검색을 위한 별도의 전용 스키마나 <code>llms.txt</code>가 필요하지 않으며, 이런 파일을 Google 검색의 순위 신호로 사용하지 않는다고 설명합니다. 아카이브의 JSON·텍스트 안내는 이를 활용하는 외부 도구의 자료 탐색을 돕는 용도로 유지합니다. <a href="https://developers.google.com/search/docs/fundamentals/ai-optimization-guide">Google Search Central 공식 안내</a></p>
 <p>AI가 문서를 정확하게 이해하고 인용하려면 다음 요소가 중요합니다.</p>
 <ul>
 <li>의미가 분명한 H1·H2·H3</li>
@@ -5854,6 +5855,11 @@
 <td>문서별 JSON</td>
 <td>한 문서의 제목·본문·소제목 주소·출처 및 관련 링크</td>
 <td><a href="https://wiki.minseong.co.kr/assets/ai/pages/seo-aeo-standard/index.json">이 문서의 JSON</a> · <a href="https://wiki.minseong.co.kr/assets/ai/page-index.json">전체 문서 색인</a></td>
+</tr>
+<tr>
+<td>본문 절별 자료</td>
+<td>문서 JSON의 <code>sections</code>에 담긴 절별 본문·실제 앵커·해당 위치의 링크</td>
+<td><a href="../ai/site-structure/#section-retrieval">절별 읽기·출전 확인 안내</a></td>
 </tr>
 <tr>
 <td>지식그래프 JSON</td>
@@ -5939,6 +5945,31 @@
         
       </main>
       
+  <section class="archive-publisher" aria-label="아카이브 운영과 편집 책임">
+  <div class="md-grid archive-publisher__grid">
+    <div>
+      <p class="archive-publisher__eyebrow">MINSEONG KOREAN MEDICINE ARCHIVE</p>
+      <p class="archive-publisher__title">한의학 지식을 잇는, 민성의 기록</p>
+      <p>고전의 원문과 해석, 본초·방제·침구와 현대 연구를<br class="archive-publisher__break"> 함께 찾아 읽는 교육·학술 아카이브입니다.</p>
+      <nav class="archive-publisher__links" aria-label="아카이브 자료 확인">
+        <a href="../guide/editorial-policy/">자료 선정·편집 원칙</a>
+        <a href="../guide/citation-policy/">출처·인용 안내</a>
+        <a href="../ai/site-structure/">AI 자료 이용 안내</a>
+      </nav>
+    </div>
+    <div class="archive-publisher__responsibility">
+      <p class="archive-publisher__eyebrow">운영·편집 책임</p>
+      <p class="archive-publisher__clinic">민성한의원 대표원장</p>
+      <p class="archive-publisher__editors"><a href="https://minseong.co.kr/uiryojin/">목정일 · 김문정</a></p>
+      <p>아카이브의 편집 방향을 정하고,<br>자료 선정과 공개 기준을 책임집니다.</p>
+      <nav class="archive-publisher__links archive-publisher__clinic-links" aria-label="민성한의원 공식 안내">
+        <a href="https://minseong.co.kr/">민성한의원 소개 <span aria-hidden="true">↗</span></a>
+        <a href="https://minseong.co.kr/oshineun-gil/">진료 안내·문의 <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </div>
+</section>
+  
         <footer class="md-footer">
   
   <div class="md-footer-meta md-typeset">
@@ -5956,6 +5987,7 @@
   </div>
 </footer>
       
+
     </div>
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>

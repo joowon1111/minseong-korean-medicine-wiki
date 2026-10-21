@@ -59,7 +59,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/extra.css?v=20261019-readable">
+      <link rel="stylesheet" href="../../assets/extra.css?v=20261021-publisher">
     
       <link rel="stylesheet" href="../../stylesheets/portal.css?v=20261014-life-cards">
     
@@ -2149,6 +2149,23 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="페이지별 본문과 지식 그래프를 구분해 사용합니다">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#section-retrieval" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        본문 절에서 근거까지 확인하기
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -5695,6 +5712,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="페이지별 본문과 지식 그래프를 구분해 사용합니다">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#section-retrieval" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        본문 절에서 근거까지 확인하기
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -6084,6 +6118,39 @@
 <p>관련 문서의 연결은 주제를 더 살펴보기 위한 안내입니다. 개별 환자에게 맞는 진단·치료 여부는 본문의 적용 맥락과 함께 판단합니다.</p>
 <h3 id="page-json-navigation">페이지별 본문과 지식 그래프를 구분해 사용합니다<a class="headerlink" href="#page-json-navigation" title="Permanent link">&para;</a></h3>
 <p><a href="https://wiki.minseong.co.kr/assets/ai/page-index.json">page-index.json</a>은 각 페이지의 제목·대표 HTML 주소(<code>url</code>)·JSON 주소(<code>document</code>)를 제공합니다. 한 주제의 본문을 읽을 때는 해당 <code>document</code>를 선택하거나 HTML의 JSON 대체 링크를 사용합니다. 페이지별 JSON에는 렌더링한 본문, 실제 제목 앵커, 출처·관련 링크가 담깁니다.</p>
+<h4 id="section-retrieval">본문 절에서 근거까지 확인하기<a class="headerlink" href="#section-retrieval" title="Permanent link">&para;</a></h4>
+<p>페이지별 JSON의 <code>sections</code>는 실제 앵커가 있는 H2·H3 제목 단위의 <strong>제목·앵커 주소·해당 절의 본문·링크</strong>를 제공합니다. 다음 H2·H3가 나오기 전까지의 연속된 본문이 한 절에 담기며, H3 하위 절을 H2 본문에 다시 복사하지 않습니다. 첫 소제목 앞의 도입부나 앵커가 없는 HTML 제목의 내용은 전체 <code>text</code>에서 읽습니다. 이는 같은 공개 HTML을 다른 형식으로 제공하는 기능이며, 검색 노출을 위한 별도 요약문이나 새 의학적 판단을 생성하지 않습니다.</p>
+<table>
+<thead>
+<tr>
+<th>단계</th>
+<th>확인할 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>대표 문서 선택</td>
+<td>색인의 제목과 <code>url</code>이 질문에 해당하는지 확인</td>
+</tr>
+<tr>
+<td>해당 절 읽기</td>
+<td><code>sections</code>의 제목·본문에서 답과 적용 조건을 함께 확인</td>
+</tr>
+<tr>
+<td>앞뒤 문맥 비교</td>
+<td>전체 <code>text</code>와 HTML에서 정의·감별·안전 정보 확인</td>
+</tr>
+<tr>
+<td>출전 확인</td>
+<td>절 안의 링크를 열어 원전 위치 또는 실제 연구 대상·중재·결과 확인</td>
+</tr>
+<tr>
+<td>인용</td>
+<td>해당 절의 HTML 앵커 주소와 필요한 원출처를 함께 제시</td>
+</tr>
+</tbody>
+</table>
+<p>절의 <code>links</code>는 그 위치에 나타나는 링크 목록입니다. 참고문헌·내부 탐색 링크가 함께 들어갈 수 있으므로, 링크의 존재를 그 절의 모든 주장이 검증되었다는 뜻으로 해석하지 않습니다. 본문의 문헌명·판본·조문, 원방·가감방, 연구 제제와 적용 범위는 인용 과정에서도 유지합니다. <a href="../../guide/editorial-policy/#source-differences">자료 차이의 처리</a> · <a href="../../guide/status-policy/#reading-status">문서 상태 해석</a></p>
 <p><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json">지식 그래프</a>는 문서 개체·동의어·분류·내부 연결을 탐색하는 자료이고, <a href="https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json">매니페스트</a>는 해당 빌드의 문서·관계 수와 무결성을 확인하는 자료입니다. 개별 주장을 인용할 때는 JSON 주소보다 원문 HTML의 해당 절과 연구 출처를 표시합니다. <a href="../../ai-index/#_17">데이터별 안내</a> · <a href="https://wiki.minseong.co.kr/llms.txt">llms.txt</a></p>
 <h2 id="_2">문서 주소와 출처<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <ul>
@@ -6127,6 +6194,31 @@
         
       </main>
       
+  <section class="archive-publisher" aria-label="아카이브 운영과 편집 책임">
+  <div class="md-grid archive-publisher__grid">
+    <div>
+      <p class="archive-publisher__eyebrow">MINSEONG KOREAN MEDICINE ARCHIVE</p>
+      <p class="archive-publisher__title">한의학 지식을 잇는, 민성의 기록</p>
+      <p>고전의 원문과 해석, 본초·방제·침구와 현대 연구를<br class="archive-publisher__break"> 함께 찾아 읽는 교육·학술 아카이브입니다.</p>
+      <nav class="archive-publisher__links" aria-label="아카이브 자료 확인">
+        <a href="../../guide/editorial-policy/">자료 선정·편집 원칙</a>
+        <a href="../../guide/citation-policy/">출처·인용 안내</a>
+        <a href="./">AI 자료 이용 안내</a>
+      </nav>
+    </div>
+    <div class="archive-publisher__responsibility">
+      <p class="archive-publisher__eyebrow">운영·편집 책임</p>
+      <p class="archive-publisher__clinic">민성한의원 대표원장</p>
+      <p class="archive-publisher__editors"><a href="https://minseong.co.kr/uiryojin/">목정일 · 김문정</a></p>
+      <p>아카이브의 편집 방향을 정하고,<br>자료 선정과 공개 기준을 책임집니다.</p>
+      <nav class="archive-publisher__links archive-publisher__clinic-links" aria-label="민성한의원 공식 안내">
+        <a href="https://minseong.co.kr/">민성한의원 소개 <span aria-hidden="true">↗</span></a>
+        <a href="https://minseong.co.kr/oshineun-gil/">진료 안내·문의 <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </div>
+</section>
+  
         <footer class="md-footer">
   
   <div class="md-footer-meta md-typeset">
@@ -6144,6 +6236,7 @@
   </div>
 </footer>
       
+
     </div>
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
