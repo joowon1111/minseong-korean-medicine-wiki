@@ -216,6 +216,13 @@ class DiscoveryTests(unittest.TestCase):
             self.assertEqual(person['worksFor']['@id'], 'https://www.minseong.co.kr/#organization')
             self.assertNotIn('reviewedBy', person)
 
+    def test_unanchored_html_heading_ends_previous_passage_without_inventing_url(self):
+        _, _, payload = self.render('<h2 id="source">출전</h2><p>원문 문맥</p>'
+                                    '<h2>도구 화면</h2><p>별도 안내</p>'
+                                    '<h3 id="result">결과</h3><p>연구 결과</p>')
+        self.assertEqual([s['text'] for s in payload['sections']], ['원문 문맥', '연구 결과'])
+        self.assertIn('별도 안내', payload['text'])
+
     def test_encoded_document_url_and_editorial_title(self):
         self.page.meta['title'] = '정확한 문서 제목'
         self.page.file.dest_uri = 'conditions/한글 이름/index.html'

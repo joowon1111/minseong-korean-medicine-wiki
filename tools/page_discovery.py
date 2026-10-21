@@ -99,9 +99,10 @@ class Article(HTMLParser):
             return
         if tag in BLOCKS or tag in {"br", "td", "th"}:
             self.text.append("\n" if tag in BLOCKS or tag == "br" else "\t")
-        if tag in {"h2", "h3"} and attrs.get("id"):
+        if tag in {"h2", "h3"}:
             self.section_marks.append({"start": len(self.text), "links": len(self.links)})
-            self._heading = {"level": int(tag[1]), "id": attrs["id"], "text": []}
+            if attrs.get("id"):
+                self._heading = {"level": int(tag[1]), "id": attrs["id"], "text": []}
         if tag == "a" and attrs.get("href"):
             self.links.append(attrs["href"])
 
