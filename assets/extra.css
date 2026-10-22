@@ -251,7 +251,7 @@
 .archive-publisher__eyebrow { font-size: .58rem; letter-spacing: .08em; color: var(--md-default-fg-color--light); }
 .archive-publisher__title { font-size: .94rem; font-weight: 700; }
 .archive-publisher__clinic { font-weight: 600; }
-.archive-publisher__editors { font-size: .75rem; font-weight: 600; }
+.archive-publisher__editors { font-size: .65rem; font-weight: 500; }
 .archive-publisher__links { display: flex; flex-wrap: wrap; gap: .25rem 1rem; margin-top: .7rem; }
 .archive-publisher a { color: var(--md-typeset-a-color); text-decoration: underline; text-underline-offset: .2em; }
 .archive-publisher__links a { display: inline-flex; align-items: center; min-height: 2.2rem; gap: .2rem; }
