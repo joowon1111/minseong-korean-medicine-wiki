@@ -26,7 +26,18 @@ description: 동의수세보원 원전의 성정·장국·보명지주·소증·
 - 기존 처방서·후대 임상서에 수록된 처방 구성은 해당 수록본과 원전의 처방명을 구분해 확인합니다.
 - 이 페이지에서 갑오구본 보명지주 문장을 인용할 때에는 판본을 명시합니다. 이를 신축본의 표리병증 문장과 섞지 않습니다.
 
-아카이브 안에서 읽으려면 [사단론·체질별 병론·사상인변증론 40개 원문·한국어 풀이](../classics/donguisusebowon/original.md)를 엽니다. 1941년 석판본을 대조한 발췌이며 각 대목의 책 이미지와 출처를 함께 제공합니다. 별도 판본을 대조하려면 [동의수세보원 신축본](https://mediclassics.kr/books/182)과 [갑오구본](https://mediclassics.kr/books/183)을 함께 엽니다. 조문 발췌와 학습용 번역은 전편 번역이 아니라는 점도 염두에 둡니다.
+아카이브 안에서 읽으려면 [권1 이론·체질별 병론·사상인변증론 64개 원문·한국어 풀이](../classics/donguisusebowon/original.md)를 엽니다. 1941년 석판본을 대조한 발췌이며 각 대목의 책 이미지와 출처를 함께 제공합니다. 별도 판본을 대조하려면 [동의수세보원 신축본](https://mediclassics.kr/books/182)과 [갑오구본](https://mediclassics.kr/books/183)을 함께 엽니다. 조문 발췌와 학습용 번역은 전편 번역이 아니라는 점도 염두에 둡니다.
+
+## 권1의 네 편을 연결하는 독해 {#volume-one}
+
+| 편 | 직접 읽을 원문 | 다음 단계에서 확인할 것 |
+|---|---|---|
+| 성명론 | [인식과 활동](../classics/donguisusebowon/original.md#seongmyeong-perception) · [성·명](../classics/donguisusebowon/original.md#seongmyeong-seong-myeong) · [지행](../classics/donguisusebowon/original.md#seongmyeong-knowing-doing) | 공통된 앎과 실천의 가능성을 장국 차이와 구별 |
+| 사단론 | [장국대소](../classics/donguisusebowon/original.md#four-organ-configurations) | 원전의 상대적 구조와 실제 소증·현증을 구분 |
+| 확충론 | [성정의 관계 맥락](../classics/donguisusebowon/original.md#hwakchung-taeyang) · [강점·한계](../classics/donguisusebowon/original.md#hwakchung-action-limits) · [자반](../classics/donguisusebowon/original.md#hwakchung-reflect) | 性과 情, 인식과 행동, 상황과 반응을 나누어 읽기 |
+| 장부론 | [수곡 경로](../classics/donguisusebowon/original.md#jangbu-food-route) · [진·고·유·액의 분포](../classics/donguisusebowon/original.md#jangbu-fluid-lung) · [네 근본과 심](../classics/donguisusebowon/original.md#jangbu-four-roots) | 장부를 고립된 기관이 아닌 전신 관계로 설명하는 원전의 틀 |
+
+위 원문은 1941년 석판본 대조이며, 장부론과 확충론 일부는 구결면의 한문 바탕을 전사했습니다. [판본·면수·전사 원칙](../classics/donguisusebowon/original.md#source)을 함께 제공합니다. 아래 보명지주의 갑오구본 표현과 한 판본의 연속 조문으로 합치지 않습니다.
 
 ## 네 체질의 장국과 소증 핵심
 
@@ -59,6 +70,8 @@ description: 동의수세보원 원전의 성정·장국·보명지주·소증·
 保命之主는 사상인의 생명 유지에 중요한 기능적 축을 설명하는 원전 개념입니다. 갑오구본은 소음인의 양난지기, 소양인의 음청지기, 태음인의 호산지기, 태양인의 흡취지기를 각각 보명지주로 들고, 각 체질의 본·표를 배열합니다.
 
 이 서술과 신축본의 병증 체계는 구분해야 합니다. 신축본은 표리·한열·세부 병증 및 임상 경과를 더 구체적으로 구성하므로, 갑오구본의 본·표 배열만으로 신축본 병증을 판정하지 않습니다. 각 용어는 사상의학의 전통적 생리 설명이며 현대 생리 수치나 단일 장기 기능과 같은 지표는 아닙니다. 원전·판본 비교와 조문은 [고전 해설의 보명지주 절](../classics/donguisusebowon.md#life-principle)에서 볼 수 있습니다. 갑오구본과 신축본의 병증론을 비교한 [학술 연구](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART002510399)도 함께 연결합니다.
+
+[권1에서 보명지주·소증·병론으로 이어 읽는 표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)는 네 체질의 명칭과 건강 관찰, 병증의 분기를 나란히 보여 줍니다. 원문의 呼散·吸聚를 호흡량으로, 陽煖·陰淸을 체온으로 환산하지 않고 병론의 증후 조합으로 이어 읽습니다.
 
 ## 素證에서 現證과 병증으로
 

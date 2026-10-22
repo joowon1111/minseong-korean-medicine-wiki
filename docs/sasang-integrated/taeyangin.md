@@ -11,6 +11,12 @@ last_reviewed: '2026-09-21'
 
 원전의 병증·처방 자료가 다른 체질보다 적고 임상에서 상대적으로 드물게 다뤄지므로 외형·성격 하나보다 **평소 소증, 현재 해역·열격의 병증 구조, 다른 체질과의 감별, 치료 반응의 일관성**을 함께 봅니다.
 
+## 권1의 생리에서 태양인 병론으로 {#volume-one-physiology}
+
+[확충론의 애성·노정](../classics/donguisusebowon/original.md#hwakchung-taeyang)은 넓게 듣는 작용과 교우에서의 반응을 구분합니다. [장부론의 간·육 계열](../classics/donguisusebowon/original.md#jangbu-fluid-liver)과 [네 장부의 근본](../classics/donguisusebowon/original.md#jangbu-four-roots)은 몸의 여러 부위를 잇는 전통적 관계이며, 현대 간질환이나 근육질환의 직접 기전은 아닙니다.
+
+갑오구본의 흡취지기라는 보명지주 명칭은 안으로 받아 모으는 기능축으로 읽습니다. 신축본 계열에서는 소변왕다라는 평소 건강 서술에 더해 요척·하지·보행의 해역과 연하·섭취·구토의 열격·반위를 나누어 봅니다. 두 병증의 병존 여부와 기능 저하를 함께 확인하며 배뇨 하나로 체질·병증을 확정하지 않습니다. 판본별 명칭과 신축본 계열 병론을 연결하는 해설이며, [보명지주·소증·병론 표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)에서 다른 체질과 비교하고 [판본·본표 차이](../classics/donguisusebowon.md#life-principle)를 확인할 수 있습니다.
+
 ## 한눈에 보기
 
 | 구분 | 핵심 내용 |

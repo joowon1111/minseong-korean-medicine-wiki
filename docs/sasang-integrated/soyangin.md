@@ -11,6 +11,12 @@ last_reviewed: '2026-09-21'
 
 진료의 핵심은 ‘열이 많은 사람’이라는 인상에 맞추는 것이 아닙니다. **발병 전 소증, 현재의 표리병증, 순증·역증과 중증도, 치료 뒤 회복 방향**을 한 흐름으로 읽습니다. 같은 소양인이라도 복통·설사가 중심인 망음과 상열·구갈·변비가 중심인 흉격열, 소모와 하지·배뇨 변화가 깊어진 음허오열은 서로 다른 처방군을 살핍니다.
 
+## 권1의 생리에서 소양인 병론으로 {#volume-one-physiology}
+
+[확충론의 노성·애정](../classics/donguisusebowon/original.md#hwakchung-soyang)은 세회를 살피는 작용과 사무에서의 반응을 구분합니다. [장부론의 비 계열](../classics/donguisusebowon/original.md#jangbu-fluid-spleen)과 [신 계열](../classics/donguisusebowon/original.md#jangbu-fluid-kidney)은 장국을 이해하는 공통 생리의 바탕이며, 그 자체가 망음·음허오열의 진단표는 아닙니다.
+
+갑오구본의 음청지기라는 보명지주 명칭은 뒤 병론의 배설·수분·기력 관찰을 읽는 배경으로 비교합니다. 신축본 계열에서는 대변선통이라는 평소 건강 서술과 함께 표병의 설사·망음, 리병의 구갈·변폐 및 음허오열을 각각의 증후 묶음으로 살핍니다. 판본별 명칭과 신축본 계열 병론을 연결하는 해설이며, [보명지주·소증·병론 표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)에서 다른 체질과 비교하고 [판본·본표 차이](../classics/donguisusebowon.md#life-principle)를 확인할 수 있습니다.
+
 ## 한눈에 보기 {#_2}
 
 | 구분 | 핵심 내용 |

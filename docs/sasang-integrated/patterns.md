@@ -34,6 +34,12 @@ last_reviewed: '2026-09-22'
 
 이 표는 자가진단표가 아닙니다. 한두 증상이 겹친다는 이유만으로 체질이나 병증을 정하지 않습니다.
 
+## 권1의 장국에서 병증 구조로 {#volume-one-pathology}
+
+[성명론의 지행](../classics/donguisusebowon/original.md#seongmyeong-knowing-doing), [확충론의 인식·반응과 조절](../classics/donguisusebowon/original.md#hwakchung-regulation), [장부론의 수곡·진액](../classics/donguisusebowon/original.md#jangbu-food-route)은 사상인의 관계와 공통 생리를 읽는 바탕입니다. 이론에서 임상으로 내려올 때에는 장국 이름 뒤에 반드시 **평소 소증과 현재 변화**가 놓여야 합니다. 장국은 체질의 상대적 구조, 소증은 비교의 기준선, 현증은 현재의 변화, 표리·순역은 그 변화를 체질 병리 안에서 분류하는 단계입니다.
+
+[보명지주·체질별 병론 연결표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)는 갑오구본의 흡취·호산·음청·양난과 신축본 계열 병론을 판본별로 구분합니다. 보명지주를 지킨다는 일반론만으로 망음·망양·폐조 등을 판정하지 않고, 아래 체질별 증후와 [원전·CPG 지도](../sasang-clinical-detail/pattern-source-map.md)의 분류를 확인합니다. 순역은 시간에 따른 호전·악화와 같지 않으며, 원전의 이론은 실제 임상평가와 치료효과 연구를 대신하지 않습니다.
+
 ## 표리·순역·중증도를 한 번에 읽는 법 {#severity-flow}
 
 표리, 순역, 중증도는 서로 대체하는 말이 아닙니다. **표리**는 체질 고유 병리의 큰 방향, **순역**은 보명지주의 손상 여부를 포함한 병리 구조, **중증도**는 지금의 섭취·배설·활력징후·기능 저하와 위험도를 함께 나타냅니다.
