@@ -95,6 +95,8 @@ last_reviewed: '2026-09-22'
 
 → [체질은 어떻게 진단하나?](../sasang-questions/how-to-diagnose.md) · [체질진단과 현대 연구](diagnosis-research.md)
 
+권1의 이론을 직접 대조하려면 [성명론·확충론·장부론 24대목](../sasang/donguisusebowon.md#volume-one)에서 원문과 한국어 풀이를 고릅니다. 인식·실천과 성정, 수곡·진액의 전신 관계를 읽은 뒤 [보명지주에서 병론으로 이어 읽는 표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)로 이동할 수 있습니다.
+
 ## 소증: 평소 몸의 언어를 읽는 법 {#ordinary-symptoms}
 
 오늘 아픈 증상만 물으면 체질과 병증을 혼동하기 쉽습니다. 각 항목을 `발병 전 평소 → 아픈 뒤 변화 → 치료 뒤 회복`의 세 시점으로 기록합니다.

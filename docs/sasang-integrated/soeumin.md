@@ -11,6 +11,12 @@ last_reviewed: '2026-09-21'
 
 소음인은 ‘손발이 찬 사람’만을 뜻하지 않습니다. 진료에서는 **발병 전 식욕·소화·대변·냉열·땀 뒤 회복을 기준선으로 잡고, 현재 신수열표열병인지 위수한리한병인지, 망양·태음병·소음병 중 어느 흐름인지**를 살핍니다.
 
+## 권1의 생리에서 소음인 병론으로 {#volume-one-physiology}
+
+[확충론의 낙성·희정](../classics/donguisusebowon/original.md#hwakchung-soeum)은 삶의 터전을 살피는 작용과 무리 안에서의 반응을 구분합니다. [장부론의 수곡 경로](../classics/donguisusebowon/original.md#jangbu-food-route)는 음식을 받고 소화·이동시키는 과정을 나누어 설명하지만, 이 구절만으로 소음인이나 리한병을 판정하지 않습니다.
+
+갑오구본의 양난지기라는 보명지주 명칭은 따뜻한 기의 유지라는 전통적 기능축입니다. 신축본 계열에서는 음식선화라는 평소 기준과 현재 발한·기력·냉감·갈증·복통·설사의 변화를 비교하고, 표열의 울광·망양과 리한의 태음병·소음병을 나눕니다. 체온이나 소화 한 항목으로 이 구조를 대신하지 않습니다. 판본별 명칭과 신축본 계열 병론을 연결하는 해설이며, [보명지주·소증·병론 표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)에서 다른 체질과 비교하고 [판본·본표 차이](../classics/donguisusebowon.md#life-principle)를 확인할 수 있습니다.
+
 ## 한눈에 보기
 
 | 구분 | 핵심 내용 |

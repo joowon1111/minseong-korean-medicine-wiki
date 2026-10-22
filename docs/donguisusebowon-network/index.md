@@ -10,7 +10,7 @@ last_reviewed: 2026-08-22
 
 사상인의 큰 구조와 성명·사단·장부의 논의를 먼저 읽고, 평소 소증과 현재 표리병증이 치료 판단에 어떻게 연결되는지 살펴봅니다. 체질명은 처방이나 식품을 일괄 지정하는 표지가 아니며, 같은 체질 안에서도 현재 병증에 따라 판단이 달라집니다.
 
-[핵심 원문·한국어 풀이 40대목](../classics/donguisusebowon/original.md#coverage)에서 사단론과 네 체질의 병론, 소증·처방 판단을 먼저 읽을 수 있습니다. 각 대목은 1941년 석판본의 PDF 쪽수와 연결되어 있습니다.
+[핵심 원문·한국어 풀이 64대목](../classics/donguisusebowon/original.md#coverage)에서 성명론·확충론·장부론 24대목과 기존 사단론·네 체질의 병론, 소증·처방 판단을 함께 읽을 수 있습니다. 각 대목은 1941년 석판본의 PDF 쪽수와 연결되어 있습니다.
 
 ## 읽을 내용 {#reading-guide}
 
@@ -47,7 +47,7 @@ last_reviewed: 2026-08-22
 
 ## 성명론·사단론 임상 이해 {#seongmyeong-sadan}
 
-성명론·사단론은 사상의학의 인간관과 체질론을 이해하는 철학적 토대입니다.
+성명론은 [성·명과 지행](../classics/donguisusebowon/original.md#seongmyeong-seong-myeong)을 통해 앎과 실천을 논하고, 사단론은 [네 장국](../classics/donguisusebowon/original.md#four-organ-configurations)의 차이를 제시합니다. 확충론은 [성정이 작용하는 관계](../classics/donguisusebowon/original.md#hwakchung-taeyang), [강점·한계](../classics/donguisusebowon/original.md#hwakchung-perception-limits), [스스로 돌아봄](../classics/donguisusebowon/original.md#hwakchung-reflect)을 이어 설명합니다. 세 편을 함께 읽으면 장국 차이가 사람의 도덕성·능력의 서열을 뜻하지 않고, 성정도 상황을 떠난 고정 성격표가 아니라는 독해가 가능합니다.
 
 ### 임상에서의 주의
 성격 몇 가지로 체질을 확정하거나 사람을 고정된 유형으로 단정하는 방식은 피합니다. 정서적 경향은 **소증·생활습관·현재 병증과 함께 참고하는 한 요소**로 봅니다.
@@ -62,6 +62,8 @@ last_reviewed: 2026-08-22
 ## 사상의학 장부생리 {#zangbu-physiology}
 
 사상의학의 장부론은 현대 해부학적 장기 크기를 그대로 뜻하는 개념이 아닙니다. 체질별 생리적 기능의 강약과 병리 방향을 설명하는 전통적 이론체계로 읽습니다.
+
+장부론의 [수곡 경로](../classics/donguisusebowon/original.md#jangbu-food-route) → [진·고·유·액의 네 계열](../classics/donguisusebowon/original.md#jangbu-fluid-lung) → [장부의 근본과 심](../classics/donguisusebowon/original.md#jangbu-four-roots)은 음식물의 변화·저장·분포와 몸의 여러 부위를 연결합니다. 현대 소화·순환·신경계와 기관별로 일대일 대응시키지 않고 원전 내부의 전신 관계로 읽습니다. [판본을 나눈 보명지주·병론 연결표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)에서 실제 소증·병증으로 이동합니다.
 
 ### 임상에서의 활용
 장부 대소 개념을 단독 진단기준으로 사용하지 않고 **소증·체질병증·대소변·발한·소화·호흡·냉열**과 함께 봅니다.

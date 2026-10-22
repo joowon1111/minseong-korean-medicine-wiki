@@ -1,14 +1,14 @@
 ---
 title: 동의수세보원 원문·한국어 풀이
-description: 1941년 석판본을 대조한 40개 핵심 원문과 한국어 풀이. 사단론, 네 체질의 병론·소증·처방 판단, 사상인변증론을 주제별로 읽습니다.
-tags: [동의수세보원, 사상인변증론, 원문, 소증, 완실무병, 사상의학]
+description: 1941년 석판본을 대조한 64대목 원문·자체 한국어 풀이. 권1 성명론·확충론·장부론의 24대목과 장국·성정·보명지주·체질별 병론을 이어 읽습니다.
+tags: [동의수세보원, 성명론, 확충론, 장부론, 사상인변증론, 원문, 소증, 사상의학]
 reader_tools: true
 ---
 # 동의수세보원 원문·한국어 풀이
 
 **외부 사이트로 이동하지 않고 한문 원문과 한국어 풀이를 함께 읽을 수 있습니다.** 먼저 [전체 목차·편명 풀이](#book-contents)에서 책의 큰 흐름을 살펴보고, 소증·병증의 각론으로 내려가 보세요.
 
-현재 수록 범위는 **사단론, 소음인·소양인·태음인·태양인 병론과 처방 논평, 사상인변증론의 40개 핵심 대목**입니다. 1941년 석판본의 책 이미지를 직접 대조해 옮겼으며, 아래 풀이는 아카이브에서 새로 작성했습니다. 책 전체의 전사·완역이나 각 편 전체를 연속으로 옮긴 자료는 아닙니다. [판본·출처·전사 원칙](#source)을 확인할 수 있습니다.
+현재 수록 범위는 **권1 성명론 6대목·확충론 9대목·장부론 9대목과 기존 사단론·체질별 병론·처방 논평·사상인변증론 40대목, 총 64개 핵심 대목**입니다. 1941년 석판본의 책 이미지를 직접 대조해 옮겼으며, 아래 풀이는 아카이브에서 새로 작성했습니다. 책 전체의 전사·완역이나 각 편 전체를 연속으로 옮긴 자료는 아닙니다. [판본·출처·전사 원칙](#source)을 확인할 수 있습니다.
 
 장국·소증·발한·한열·회복·처방 판단을 다룬 주요 20대목에는 **문장 구조와 함께 읽는 맥락**을 덧붙였습니다. [소증에서 병론으로 이어 읽는 여덟 경로](../../classics-reader/index.md#sasang-reading-paths)에서 비교할 대목을 고를 수 있습니다.
 
@@ -20,7 +20,7 @@ reader_tools: true
 
 《동의수세보원》은 **사람과 장국을 설명하는 이론 → 의학의 연원 → 체질별 표리병론과 처방 → 의학의 보급과 감별의 종합**으로 이어집니다. 체질별 증상을 흩어 놓은 목록이 아니라, 사람을 이해하는 관점에서 병세·치료 판단으로 내려가는 구성입니다.
 
-신축본 계열의 구성은 **4권, 두 곳의 범론을 포함한 17개 논·설과 체질별 처방 수록부**로 안내할 수 있습니다. 범론을 별도로 세는지에 따라 편수 안내가 달라질 수 있으므로 아래에서는 이름과 위치를 직접 표시합니다. 이 페이지의 **40개 선별 대목**은 원전 목차의 40개 편이 아니라, 여러 편에서 고른 아카이브의 독해 단위입니다. 대조에 쓰는 1941년 석판본과 갑오구본은 구별합니다.
+신축본 계열의 구성은 **4권, 두 곳의 범론을 포함한 17개 논·설과 체질별 처방 수록부**로 안내할 수 있습니다. 범론을 별도로 세는지에 따라 편수 안내가 달라질 수 있으므로 아래에서는 이름과 위치를 직접 표시합니다. 이 페이지의 **64개 선별 대목**은 원전 목차의 64개 편이 아니라, 여러 편에서 고른 아카이브의 독해 단위입니다. 대조에 쓰는 1941년 석판본과 갑오구본은 구별합니다.
 
 ### 4권의 큰 흐름
 
@@ -35,10 +35,10 @@ reader_tools: true
 
 | 권 | 편명 | 제목의 뜻과 책 안의 역할 | 이어 읽기 |
 |---|---|---|---|
-| 1 | 성명론 性命論 | 사람의 성품과 삶의 원리를 논하는 첫 편입니다. 뒤의 성정·인간관을 읽는 바탕이며, 性을 성별이라는 뜻으로 읽지 않습니다. | [성명론·사단론 안내](../../donguisusebowon-network/index.md#seongmyeong-sadan) |
+| 1 | 성명론 性命論 | 사람의 성품과 삶의 원리를 논하는 첫 편입니다. 뒤의 성정·인간관을 읽는 바탕이며, 性을 성별이라는 뜻으로 읽지 않습니다. | [인식·성명·지행 원문](#seongmyeong-perception) |
 | 1 | 사단론 四端論 | 사상인의 차이를 드러내는 기본 틀과 장국을 논합니다. 장국의 차이와 성정의 작용을 뒤 병론의 토대로 읽습니다. | [네 체질의 장국 원문](#four-organ-configurations) |
-| 1 | 확충론 擴充論 | ‘넓히고 채운다’는 이름의 편입니다. 성정·행동의 작용과 치우침을 대조하며 앞의 인간관을 펼칩니다. 성격 유형 검사표로 축약하지 않습니다. | [성기·항심 해설](../donguisusebowon.md#_5) |
-| 1 | 장부론 臟腑論 | 장부의 배치·기능 관계를 사상의학의 틀에서 설명합니다. 뒤의 체질별 표리병론이 어떤 장국을 전제하는지 읽는 연결부입니다. | [장국·보명지주](../../sasang/donguisusebowon.md) |
+| 1 | 확충론 擴充論 | ‘넓히고 채운다’는 이름의 편입니다. 성정·행동의 작용과 치우침을 대조하며 앞의 인간관을 펼칩니다. 성격 유형 검사표로 축약하지 않습니다. | [성정의 맥락·반성 원문](#hwakchung-taeyang) |
+| 1 | 장부론 臟腑論 | 장부의 배치·기능 관계를 사상의학의 틀에서 설명합니다. 뒤의 체질별 표리병론이 어떤 장국을 전제하는지 읽는 연결부입니다. | [수곡·진액·전신 관계 원문](#jangbu-food-route) |
 | 2 | 의원론 醫源論 | ‘의학의 근원·연원’을 논합니다. 앞선 의가의 병론과 처방을 계승하면서 자기 체계에서 다시 읽는 위치를 보여 줍니다. 병원 醫院이라는 뜻이 아닙니다. | [책 소개·판본](../donguisusebowon.md) |
 | 2 | 소음인 신수열표열병론 少陰人腎受熱表熱病論 | 소음인의 신수열표열병을 논하는 편입니다. 표열병의 발한·오한·병세 변화와 치료 순서를 읽습니다. | [표병의 치료 순서](#soeum-treatment-sequence) · [망양·소증](#soeum-usual-sweat-case) |
 | 2 | 소음인 위수한리한병론 少陰人胃受寒裏寒病論 | 소음인의 위수한리한병을 논합니다. 소화·복통·설사와 한증의 경과를 읽는 리병의 축입니다. | [반복 복통·설사 병례](#soeum-recurrent-abdominal-case) |
@@ -70,12 +70,15 @@ reader_tools: true
 
 ### 처음 읽을 때의 순서
 
-먼저 권1에서 **장국·성정이라는 책의 설명 틀**을 파악하고, 권2의 의원론에서 선행 의학과의 관계를 살핍니다. 그다음 관심 체질의 **표리병론 → 병례의 경과 → 선행방과 신정방**을 연결하고, 마지막 사상인변증론에서 외형·소증·현증을 종합하는 판단으로 돌아옵니다. 아래 읽기 지도는 이 전체 구성 안에서 현재 수록된 40대목의 위치를 찾는 표입니다.
+먼저 권1에서 **장국·성정이라는 책의 설명 틀**을 파악하고, 권2의 의원론에서 선행 의학과의 관계를 살핍니다. 그다음 관심 체질의 **표리병론 → 병례의 경과 → 선행방과 신정방**을 연결하고, 마지막 사상인변증론에서 외형·소증·현증을 종합하는 판단으로 돌아옵니다. 아래 읽기 지도는 이 전체 구성 안에서 현재 수록된 64대목의 위치를 찾는 표입니다.
 
 ## 읽기 지도 {#coverage}
 
 | 범위 | 대목 수 | 먼저 읽을 구문 |
 |---|---:|---|
+| 성명론 | 6 | [인식과 활동](#seongmyeong-perception) · [성·명](#seongmyeong-seong-myeong) · [지행](#seongmyeong-knowing-doing) |
+| 확충론 | 9 | [네 체질 성정의 맥락](#hwakchung-taeyang) · [능·불능](#hwakchung-perception-limits) · [자반](#hwakchung-reflect) |
+| 장부론 | 9 | [수곡 경로](#jangbu-food-route) · [진·고·유·액](#jangbu-fluid-lung) · [네 근본](#jangbu-four-roots) · [심](#jangbu-heart-center) |
 | 사단론 | 1 | [네 체질의 장국](#four-organ-configurations) |
 | 소음인 병론·범론·처방 | 7 | [망양과 소증](#soeum-usual-sweat-case) · [약의 강도](#medicine-proportionality) · [곽향정기산 변경](#soeum-huoxiang-revision) |
 | 소양인 표한·리열병론 | 9 | [손발바닥의 땀](#soyang-palm-sweat) · [설사 동반](#soyang-fever-diarrhea) · [소갈 구분](#soyang-three-wastings) |
@@ -85,6 +88,29 @@ reader_tools: true
 
 선행 의서를 인용한 문장과 **論曰(논하여 말한다)**로 시작하는 이제마의 논평을 구별합니다. 아래 처방명·치료 순서는 고전 문맥의 해설이며 자가 복용 지시가 아닙니다. 갑오구본과의 전면적인 이문 대조, 각 편의 모든 병례와 처방 구성은 이 선별 독해에 포함되지 않습니다.
 
+## 권1에서 보명지주·소증·병론으로 이어 읽기 {#volume-one-clinical-bridge}
+
+권1은 같은 말을 네 번 되풀이하는 구성이 아닙니다. **성명론**은 사람이 주변을 알고 몸소 실천하는 틀을, **사단론**은 사상인의 장국 차이를, **확충론**은 성정이 작용하는 관계와 강점·한계 및 성찰을, **장부론**은 수곡에서 생성·저장·분포로 이어지는 전신 관계를 논합니다. 이 네 층이 뒤의 체질별 병론에서 소증과 병중 변화의 차이를 읽는 배경이 됩니다.
+
+### 성정·장국과 실제 관찰의 층위
+
+[확충론의 네 체질 문장](#hwakchung-taeyang)은 듣고 보고 살피는 性과 구체적 관계에서 반응하는 情을 구분합니다. [사단론의 장국](#four-organ-configurations)은 폐대간소·간대폐소·비대신소·신대비소라는 상대적 배열을 제시합니다. [장부론의 네 계열](#jangbu-fluid-lung)은 음식물의 변화와 저장·분포를 몸의 여러 부위에 걸쳐 설명합니다. 이 서술을 합치면 장국은 고립된 장기 하나의 성능보다 **인식·행동·수곡 처리·전신 분포를 엮은 원전의 관계 구조**에 가깝게 읽힙니다. 이는 아카이브의 독해 요지이며, 현대 생리학의 검증된 기전으로 제시하는 설명은 아닙니다.
+
+현대적인 읽기는 원문의 장부를 자율신경·호르몬·대사형으로 치환하는 데 있지 않습니다. 이론이 전제하는 상대적 차이와 실제 관찰을 나누고, 개인의 평소 식사·배설·발한·회복이 지금 어떻게 달라졌는지 여러 시점에서 확인하는 방식으로 연결할 수 있습니다. 성정도 감정 이름 하나로 장기 손상을 예측하지 않고, 상황과 반응·지속시간·동반 증상을 나누어 살핍니다.
+
+### 保命之主: 판본을 건너뛰지 않기
+
+**보명지주(保命之主)**는 생명을 보존하는 핵심 기능축을 이르는 개념입니다. 아래 네 명칭은 **갑오구본의 표현을 기존 판본 해설에서 가져온 요약**입니다. 여기서 직접 전사한 1941년 석판본 권1의 조문인 것처럼 인용하지 않습니다. 갑오구본의 본·표 배열과 신축본 계열의 표리병론은 구성이 달라 같은 분류표로 합칠 수 없습니다. [갑오구본 원문 위치·본표 배열과 연구](../donguisusebowon.md#life-principle)에서 별도로 대조합니다.
+
+| 체질·장국 | 갑오구본 보명지주 명칭의 풀이 | 신축본 계열에서 이어 읽을 생리·병리 관찰 | 본문에서 병론·임상으로 |
+|---|---|---|---|
+| 태양인·폐대간소 | 吸聚之氣: 안으로 받아 모으는 기 | 소변왕다라는 건강 서술과 섭취·연하·요척·하지 기능의 변화. 배뇨 하나로 해역·열격을 판정하지 않음 | [완실무병](#wellbeing-urination) → [열격·해역의 병존](#taeyang-combined-pattern) → [태양인 통합](../../sasang-integrated/taeyangin.md#volume-one-physiology) |
+| 태음인·간대폐소 | 呼散之氣: 밖으로 펴고 흩는 기 | 한액통창, 쾌한의 모양·지속, 호흡과 회복. 표한·리열 양쪽에서 폐조가 어떤 증후로 구체화되는지 비교 | [한액통창](#wellbeing-sweating) → [쾌한의 조건](#taeeum-sweat-quality) → [태음인 통합](../../sasang-integrated/taeeumin.md#volume-one-physiology) |
+| 소양인·비대신소 | 陰淸之氣: 음의 맑은 기를 보존하는 축 | 대변선통과 병중 배설·갈증·기력의 변화. 표병의 망음과 리병의 음허오열을 같은 증상 목록으로 합치지 않음 | [대변선통](#wellbeing-stool) → [열·두통·설사의 조합](#soyang-fever-diarrhea) → [소양인 통합](../../sasang-integrated/soyangin.md#volume-one-physiology) |
+| 소음인·신대비소 | 陽煖之氣: 양의 따뜻한 기를 유지하는 축 | 음식선화, 발한 뒤 회복, 복통·설사·냉감·갈증의 조합. 표열의 망양과 리한의 태음·소음병을 나눔 | [음식선화](#wellbeing-digestion) → [평소 설사·발한 병례](#soeum-usual-sweat-case) → [소음인 통합](../../sasang-integrated/soeumin.md#volume-one-physiology) |
+
+표는 원전 이론과 기존 병론 문서 사이의 **학습 연결표**입니다. 흡취·호산은 들숨·날숨의 부피, 음청·양난은 체온이나 단일 혈액검사 수치가 아닙니다. 보명지주가 중요하다는 이론과 오늘의 순역·중증도 분류는 [병증 비교](../../sasang-integrated/patterns.md#volume-one-pathology) 및 [원전·CPG 지도](../../sasang-clinical-detail/pattern-source-map.md)에서 증후·분류 출전을 확인하며 이어갑니다.
+
 ## 관심 있는 대목으로 {#passages}
 
 <div id="dsb-reader" markdown="1">
@@ -92,11 +118,145 @@ reader_tools: true
 <label for="dsb-query">수록 원문·풀이에서 찾기</label>
 <input id="dsb-query" type="search" placeholder="소화, 땀, 체형, 明知其人…" autocomplete="off">
 <label for="dsb-category">읽을 주제</label>
-<select id="dsb-category"><option value="">모든 주제</option><option>기본 이론</option><option>소음인 병론</option><option>소양인 병론</option><option>태음인 병론</option><option>태양인 병론</option><option>감별</option><option>소증</option><option>치료 판단</option><option>양생·독서</option></select>
+<select id="dsb-category"><option value="">모든 주제</option><option>권1 성명론</option><option>권1 확충론</option><option>권1 장부론</option><option>기본 이론</option><option>소음인 병론</option><option>소양인 병론</option><option>태음인 병론</option><option>태양인 병론</option><option>감별</option><option>소증</option><option>치료 판단</option><option>양생·독서</option></select>
 <button id="dsb-reset" type="button">전체 보기</button>
 <p id="dsb-count" role="status" aria-live="polite"></p>
 </div>
 <div class="dsb-passages" markdown="1">
+
+<section class="dsb-passage" data-category="권1 성명론" markdown="1">
+
+### 성명론: 듣고 보고 관계하고 생활하기 {#seongmyeong-perception}
+
+**권1 성명론 · 1941년 석판본 · PDF 2쪽 / 화면 하단 1쪽 · 한문 본문** · [이 대목 주소](#seongmyeong-perception) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=2) · [책 이미지](#scan-2)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 耳聽天時，目視世會，鼻嗅人倫，口味地方。肺達事務，脾合交遇，肝立黨與，腎定居處。
+
+</div>
+
+**한국어 풀이** — 귀는 천시를 듣고, 눈은 세회를 보며, 코는 인륜을 살피고, 입은 지방을 맛본다. 폐는 사무에 통달하고, 비는 교우에 합하며, 간은 당여를 세우고, 신은 거처를 정한다고 하였다.
+
+**주요 용어·문장 구조** — **天時·世會·人倫·地方**은 시세·사회적 모임·사람 사이의 관계·삶의 터전을 읽는 이 편의 네 범주입니다. **嗅·味**는 냄새·맛의 글자를 빌려 살피고 음미하는 작용까지 표현합니다. **黨與**는 함께하는 무리, **交遇**는 사람과 만나는 관계입니다.
+
+**문장 맥락** — 편의 첫머리는 감각기관 이름과 사회적 활동, 장부 이름을 병렬로 배치합니다. 뒤의 체질별 성정론을 개인의 내면 성격만으로 읽기 전에, 사람이 주변을 이해하고 일하며 살아가는 관계를 보게 합니다. 코가 인간관계를 감지한다는 신경생리 명제나 장기별 직업 적성표로 옮기지 않습니다. 여기의 天時도 날짜에 따라 치료를 결정하는 규칙으로 사용하지 않습니다.
+
+**이어 읽기:** [사상의학의 성정·장국](../../sasang/donguisusebowon.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 성명론" markdown="1">
+
+### 성명론: 성(性)과 명(命): 넓은 이해와 몸소 실천 {#seongmyeong-seong-myeong}
+
+**권1 성명론 · 1941년 석판본 · PDF 3쪽 / 화면 하단 2쪽 · 한문 본문** · [이 대목 주소](#seongmyeong-seong-myeong) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=3) · [책 이미지](#scan-3)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 大同者天也，各立者人也。博通者性也，獨行者命也。
+
+</div>
+
+**한국어 풀이** — 크게 함께 통하는 것은 하늘이고, 각각 자리를 세우는 것은 사람이다. 널리 통하는 것은 성이며, 스스로 행하는 것은 명이라고 하였다.
+
+**주요 용어·문장 구조** — **博通**은 널리 두루 이해함, **獨行**은 남이 대신할 수 없이 몸소 행함으로 풀이합니다. **各立**은 각자의 자리를 세움입니다. 性·命을 오늘날의 성격·운명이라는 두 단어로만 치환하면 앞 문장과의 관계가 사라집니다.
+
+**문장 맥락** — 앞 문단은 籌策·識見·行檢·度量을 널리 통하거나 몸소 행하는 일로 나누고, 이 문장이 그것을 압축합니다. 타고난 조건만 열거하는 책이 아니라 배움과 실천의 문제도 함께 놓는다는 뜻입니다. 명을 정해진 수명이나 피할 수 없는 질병으로 번역하지 않습니다.
+
+**이어 읽기:** [책의 전체 구성](#book-contents) · [성명·사단론 연결](../../donguisusebowon-network/index.md#seongmyeong-sadan)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 성명론" markdown="1">
+
+### 성명론: 누구에게나 열려 있는 배움과 실천 {#seongmyeong-shared-capacity}
+
+**권1 성명론 · 1941년 석판본 · PDF 5쪽 / 화면 하단 4쪽 · 한문 본문** · [이 대목 주소](#seongmyeong-shared-capacity) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=5) · [책 이미지](#scan-5)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 耳目鼻口人皆可以爲堯舜，頷臆臍腹人皆自不爲堯舜。肺脾肝腎人皆可以爲堯舜，頭肩腰臀人皆自不爲堯舜。
+
+</div>
+
+**한국어 풀이** — 귀·눈·코·입으로는 누구나 요순과 같이 될 수 있으나, 턱·가슴·배꼽·배에서는 스스로 그렇게 하지 않는다. 폐·비·간·신으로는 누구나 요순과 같이 될 수 있으나, 머리·어깨·허리·볼기에서는 스스로 그렇게 하지 않는다고 하였다.
+
+**주요 용어·문장 구조** — **可以爲**는 그렇게 될 수 있다는 가능성, **自不爲**는 스스로 행하지 않는다는 대비입니다. **堯舜**은 이 문맥에서 모범적인 인간의 표상입니다. **頷臆臍腹·頭肩腰臀**은 이 편의 신체·실천 범주로 남겨 읽습니다.
+
+**문장 맥락** — 이 대목 뒤에는 인식과 행동의 바탕은 누구나 지녔어도 마음과 몸을 살피고 닦는 일이 필요하다는 설명이 이어집니다. 장국의 차이를 사람의 도덕적 가치나 배울 능력의 서열로 바꾸어서는 안 되는 이유를 함께 보여 줍니다. 병이 있다는 사실을 수양 부족의 증거로 판단하는 문장으로 사용하지 않습니다.
+
+**이어 읽기:** [성정과 정서의 독해](../../sasang-original-symptoms/emotion.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 성명론" markdown="1">
+
+### 성명론: 마음을 보존하고 몸을 닦는 두 문장 {#seongmyeong-cultivation}
+
+**권1 성명론 · 1941년 석판본 · PDF 5쪽 / 화면 하단 4쪽 · 한문 본문** · [이 대목 주소](#seongmyeong-cultivation) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=5) · [책 이미지](#scan-5)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 存其心養其性，然後人皆可以爲堯舜之知也。人之頭肩腰臀之下，罔民之心種種暗藏也。修其身立其命，然後人皆可以爲堯舜之行也。
+
+</div>
+
+**한국어 풀이** — 그 마음을 보존하고 그 성을 기른 뒤에야 누구나 요순과 같은 앎에 이를 수 있다고 하였다. 사람의 머리·어깨·허리·볼기 아래에는 사람을 속이려는 마음이 여러 모습으로 숨어 있다고 하고, 몸을 닦고 명을 세운 뒤에야 누구나 요순과 같은 행실에 이를 수 있다고 하였다.
+
+**주요 용어·문장 구조** — **存·養**은 보존하고 기름, **修·立**은 닦고 세움입니다. **罔民**은 사람들을 속임으로 풀이합니다. 知와 行이 각각 앞의 수양 구문을 받으므로 지식과 행동을 한 항목으로 합치지 않습니다.
+
+**문장 맥락** — 바로 앞 문장의 가능성과 실제 행동의 차이를 풀어 주는 대목입니다. 이 책의 心은 정서만이 아니라 판단과 성찰을 포함하는 윤리적 주체이기도 합니다. 현대 건강관리와 비교하면 자기 관찰과 실천을 돌아보는 질문으로 읽을 수 있지만, 이 비교는 독해를 위한 제안이며 질병의 원인을 도덕성에 돌리는 해석은 아닙니다.
+
+**이어 읽기:** [생활·정서 관리](../../donguisusebowon-network/index.md#lifestyle-emotion)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 성명론" markdown="1">
+
+### 성명론: 자기 성찰의 자리를 남기기 {#seongmyeong-self-reflection}
+
+**권1 성명론 · 1941년 석판본 · PDF 6쪽 / 화면 하단 5쪽 · 한문 본문** · [이 대목 주소](#seongmyeong-self-reflection) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=6) · [책 이미지](#scan-6)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 人之耳目鼻口天也，天知也。人之肺脾肝腎人也，人賢也。我之頷臆臍腹我自爲心而未免愚也，我之免愚在我也。我之頭肩腰臀我自爲身而未免不肖也，我之免不肖在我也。
+
+</div>
+
+**한국어 풀이** — 사람의 귀·눈·코·입은 하늘의 측면이며 하늘의 앎이고, 폐·비·간·신은 사람의 측면이며 사람의 어짊이라고 하였다. 나의 턱·가슴·배꼽·배에서 스스로 마음을 쓰면서도 어리석음을 벗어나지 못하지만, 그것을 벗어날 일은 나에게 있다. 나의 머리·어깨·허리·볼기에서 스스로 몸을 움직이면서도 불초함을 벗어나지 못하지만, 그것을 벗어날 일도 나에게 있다고 하였다.
+
+**주요 용어·문장 구조** — **未免**은 아직 벗어나지 못함, **在我**는 나에게 달려 있음입니다. **不肖**는 본받을 만하지 못함이라는 고전 윤리어입니다. 天·人·我가 번갈아 나오는 구조를 보존해 풀이했습니다.
+
+**문장 맥락** — 타고받은 공통 능력과 실제로 마음·몸을 쓰는 나를 구분한 문장입니다. 앞의 性·命과 뒤의 확충론을 연결할 때, 고정된 체질 이름과 자신이 실제 상황에서 보인 반응을 분리해 생각하게 합니다. 고전의 윤리적 언어를 환자의 책임이나 질환 예후를 평가하는 말로 옮기지 않습니다.
+
+**이어 읽기:** [확충론의 반성과 강점 확장](#hwakchung-reflect)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 성명론" markdown="1">
+
+### 성명론: 지행이 쌓여 이룬다는 뜻 {#seongmyeong-knowing-doing}
+
+**권1 성명론 · 1941년 석판본 · PDF 7쪽 / 화면 하단 6쪽 · 한문 본문** · [이 대목 주소](#seongmyeong-knowing-doing) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=7) · [책 이미지](#scan-7)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 好人之善而我亦知善者，至性之德也。惡人之惡而我必不行惡者，正命之道也。知行積則道德也，道德成則仁聖也。道德非他，知行也。性命非他，知行也。
+
+</div>
+
+**한국어 풀이** — 남의 선함을 좋아하면서 나도 선을 아는 것은 지극한 성의 덕이고, 남의 악함을 미워하면서 나는 반드시 악을 행하지 않는 것은 명을 바르게 하는 길이라고 하였다. 앎과 실천이 쌓이면 도덕이 되고, 도덕이 이루어지면 어질고 성스러운 경지에 이른다. 도덕도 다른 것이 아니라 앎과 실천이며, 성명도 다른 것이 아니라 앎과 실천이라고 하였다.
+
+**주요 용어·문장 구조** — **知行積**은 앎과 행함이 쌓임, **正命**은 명을 바르게 함입니다. **仁聖**은 어질고 성스러운 경지를 뜻하는 윤리적 표현이며 체질명이나 치료 목표가 아닙니다.
+
+**문장 맥락** — 성명론 후반은 타인을 평가하는 데서 끝나지 않고 자신의 앎·행동으로 돌아옵니다. 확충론의 擴充도 이러한 인간관 위에서 읽어야 감정 억제 지침이나 단순한 성격 분류로 축소되지 않습니다. 앞의 存心·養性과 修身·立命이 이 문장의 知·行으로 모입니다.
+
+**이어 읽기:** [확충론: 관계를 읽는 네 대목](#hwakchung-taeyang)
+
+</section>
+
+
 
 <section class="dsb-passage" data-category="기본 이론" markdown="1">
 
@@ -119,6 +279,402 @@ reader_tools: true
 **함께 읽는 맥락** — 사단론의 네 이름은 병론을 읽는 출발점입니다. 실제 독해는 각 체질의 평소 소화·발한·배설과 병중 변화를 살피는 구절까지 이어져야 합니다. 장국의 정의와 완실무병의 관찰을 연결하되 한쪽을 다른 쪽의 단일 진단검사처럼 쓰지 않습니다.
 
 **이어 읽기:** [장국·보명지주](../../sasang/donguisusebowon.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 태양인: 멀리 살핌과 가까운 갈등의 차이 {#hwakchung-taeyang}
+
+**권1 확충론 · 1941년 석판본 · PDF 16쪽 / 화면 하단 15쪽 · 한문 본문** · [이 대목 주소](#hwakchung-taeyang) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=16) · [책 이미지](#scan-16)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 哀性遠散者，太陽之耳察於天時而哀衆人之相欺也。哀性非他，聽也。怒情促急者，太陽之脾行於交遇而怒別人之侮己也。怒情非他，怒也。
+
+</div>
+
+**한국어 풀이** — 애성이 멀리 퍼진다는 것은 태양인의 귀가 천시를 살펴 사람들이 서로 속이는 일을 슬퍼한다는 뜻이다. 애성은 다름 아닌 듣는 작용이라고 하였다. 노정이 급박하다는 것은 태양인의 비가 교우에서 작용하면서 다른 사람이 자신을 업신여기는 데 성낸다는 뜻이며, 노정은 성내는 작용이라고 하였다.
+
+**주요 용어·문장 구조** — **察於·行於**는 살피는 영역과 실제로 작용하는 영역을 구별합니다. **相欺**는 서로 속임, **侮己**는 자신을 업신여김입니다. 性을 설명할 때 聽, 情을 설명할 때 怒가 놓이는 차이가 핵심입니다.
+
+**문장 맥락** — 사단론의 哀性遠散·怒情促急을 되풀이 정의하는 데 그치지 않고 무엇을 보고 듣고 누구와 관계할 때를 말하는지 풀어 줍니다. 넓게 받아들이는 작용과 나를 둘러싼 반응의 간격으로 읽으면 장국 이론 앞에 놓인 사회적 맥락이 보입니다. 태양인이 실제로 모두 같은 감정을 보인다는 조사 결과는 아닙니다.
+
+**이어 읽기:** [태양인 병론](../../sasang-integrated/taeyangin.md) · [장국 원문](#four-organ-configurations)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 소양인: 세회를 살핌과 자신을 둘러싼 슬픔 {#hwakchung-soyang}
+
+**권1 확충론 · 1941년 석판본 · PDF 16쪽 / 화면 하단 15쪽 · 한문 본문** · [이 대목 주소](#hwakchung-soyang) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=16) · [책 이미지](#scan-16)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 怒性宏抱者，少陽之目察於世會而怒衆人之相侮也。怒性非他，視也。哀情促急者，少陽之肺行於事務而哀別人之欺己也。哀情非他，哀也。
+
+</div>
+
+**한국어 풀이** — 노성이 넓게 품는다는 것은 소양인의 눈이 세회를 살피면서 사람들이 서로 업신여기는 일에 성낸다는 뜻이다. 노성은 다름 아닌 보는 작용이라고 하였다. 애정이 급박하다는 것은 소양인의 폐가 사무에서 작용하면서 다른 사람이 자신을 속이는 일을 슬퍼한다는 뜻이며, 애정은 슬퍼하는 작용이라고 하였다.
+
+**주요 용어·문장 구조** — **宏抱**는 넓게 품음, **相侮**는 서로 업신여김, **欺己**는 자신을 속임입니다. 같은 怒라도 怒性의 설명에는 視가 놓입니다. 性과 情을 감정 강도의 차이만으로 번역하지 않습니다.
+
+**문장 맥락** — 바로 앞 태양인 문장과 대칭을 이루지만, 관찰 영역은 世會, 실천 영역은 事務입니다. 성명론의 사회적 인식과 실천 범주가 확충론에서 성정의 설명으로 다시 쓰입니다. 이후 소양인 병론의 망음·리열 분류는 이 문장만으로 나오지 않으며 소증과 현증을 별도로 대조해야 합니다.
+
+**이어 읽기:** [소양인 표리병증](../../sasang-integrated/soyangin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 태음인: 관계의 도움과 자신을 지키는 반응 {#hwakchung-taeeum}
+
+**권1 확충론 · 1941년 석판본 · PDF 16쪽 / 화면 하단 15쪽 · 한문 본문** · [이 대목 주소](#hwakchung-taeeum) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=16) · [책 이미지](#scan-16)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 喜性廣張者，太陰之鼻察於人倫而喜衆人之相助也。喜性非他，嗅也。樂情促急者，太陰之腎行於居處而樂別人之保己也。樂情非他，樂也。
+
+</div>
+
+**한국어 풀이** — 희성이 넓게 펼쳐진다는 것은 태음인의 코가 인륜을 살펴 사람들이 서로 돕는 일을 기뻐한다는 뜻이다. 희성은 다름 아닌 살피는 작용이라고 하였다. 낙정이 급박하다는 것은 태음인의 신이 거처에서 작용하면서 다른 사람이 자신을 보호하는 것을 즐긴다는 뜻이며, 낙정은 즐기는 작용이라고 하였다.
+
+**주요 용어·문장 구조** — **相助·保己**는 서로 돕는 관계와 나를 보호하는 관계의 차이입니다. **廣張**은 넓게 펼침, **居處**는 거처하며 생활함입니다. 嗅의 글자 뜻은 냄새 맡기이지만 여기서는 人倫을 살피는 비유를 포함합니다.
+
+**문장 맥락** — 희·락을 모두 기쁨으로만 옮기면 앞 문장의 인륜과 뒷문장의 거처, 상호 도움과 나를 보호함의 차이가 지워집니다. 태음인의 생리 설명과 연결할 때도 이 문장의 관계·방향을 보존하며, 긍정적 감정이 폐를 손상시킨다는 현대적 인과로 바꾸지 않습니다.
+
+**이어 읽기:** [태음인의 생리·병증](../../sasang-integrated/taeeumin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 소음인: 함께함과 나를 돕는 반응 {#hwakchung-soeum}
+
+**권1 확충론 · 1941년 석판본 · PDF 16쪽 / 화면 하단 15쪽 · 한문 본문** · [이 대목 주소](#hwakchung-soeum) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=16) · [책 이미지](#scan-16)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 樂性深確者，少陰之口察於地方而樂衆人之相保也。樂性非他，味也。喜情促急者，少陰之肝行於黨與而喜別人之助己也。喜情非他，喜也。
+
+</div>
+
+**한국어 풀이** — 낙성이 깊고 확실하다는 것은 소음인의 입이 지방을 살펴 사람들이 서로 보호하는 일을 즐긴다는 뜻이다. 낙성은 다름 아닌 음미하는 작용이라고 하였다. 희정이 급박하다는 것은 소음인의 간이 당여에서 작용하면서 다른 사람이 자신을 돕는 일을 기뻐한다는 뜻이며, 희정은 기뻐하는 작용이라고 하였다.
+
+**주요 용어·문장 구조** — **深確**은 깊고 확실함, **相保**는 서로 보호함, **助己**는 자신을 도움입니다. **地方**은 앞 성명론에서부터 이어진 삶의 터전 범주이며, 음식의 산지나 체질식 분류를 뜻하지 않습니다.
+
+**문장 맥락** — 네 문장을 함께 놓으면 聽·視·嗅·味로 설명하는 性과 구체적 관계에서 반응하는 情이 나란히 보입니다. 이런 분별은 소음인을 소심한 성격이라는 말로 축약하지 않게 합니다. 뒤의 음식선화와 리한병은 먹고 소화하는 소증·병중 변화를 다루는 다른 관찰 층위입니다.
+
+**이어 읽기:** [소음인의 소화·발한과 병증](../../sasang-integrated/soeumin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 잘 보는 영역과 덜 미치는 영역을 함께 읽기 {#hwakchung-perception-limits}
+
+**권1 확충론 · 1941년 석판본 · PDF 18쪽 / 화면 하단 16쪽 · 구결면의 한문 바탕** · [이 대목 주소](#hwakchung-perception-limits) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=18) · [책 이미지](#scan-18)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陽之耳能廣博於天時，而太陽之鼻不能廣博於人倫。太陰之鼻能廣博於人倫，而太陰之耳不能廣博於天時。少陽之目能廣博於世會，而少陽之口不能廣博於地方。少陰之口能廣博於地方，而少陰之目不能廣博於世會。
+
+</div>
+
+**한국어 풀이** — 태양인의 귀는 천시를 넓게 살필 수 있으나 코는 인륜을 넓게 살피지 못하고, 태음인의 코는 인륜을 넓게 살필 수 있으나 귀는 천시를 넓게 살피지 못한다고 하였다. 소양인의 눈은 세회를 넓게 살필 수 있으나 입은 지방을 넓게 살피지 못하고, 소음인의 입은 지방을 넓게 살필 수 있으나 눈은 세회를 넓게 살피지 못한다고 하였다.
+
+**주요 용어·문장 구조** — **能…而不能…**은 같은 사람 안의 상대적 차이를, 태양·태음과 소양·소음의 역전 배열은 두 쌍의 대칭을 나타냅니다. **廣博**은 넓고 두루 미침입니다.
+
+**문장 맥락** — 이 앞에서는 성정의 방향을 설명하고, 뒤에서는 교우·당여·사무·거처의 실천 역량을 비교합니다. 특정 감각검사의 성능이 낮다는 뜻이 아니라 이 책의 인식 영역에서 강점과 덜 미치는 영역을 함께 논한 것입니다. 현대적으로는 익숙한 방식 밖의 정보를 보완해 읽는 학습 질문으로 활용할 수 있습니다.
+
+**이어 읽기:** [성명론의 인식·활동 범주](#seongmyeong-perception)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 관계와 일상에서의 강점·한계 {#hwakchung-action-limits}
+
+**권1 확충론 · 1941년 석판본 · PDF 18쪽 / 화면 하단 16쪽 · 구결면의 한문 바탕** · [이 대목 주소](#hwakchung-action-limits) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=18) · [책 이미지](#scan-18)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陽之脾能勇統於交遇，而太陽之肝不能雅立於黨與。少陰之肝能雅立於黨與，而少陰之脾不能勇統於交遇。少陽之肺能敏達於事務，而少陽之腎不能恒定於居處。太陰之腎能恒定於居處，而太陰之肺不能敏達於事務。
+
+</div>
+
+**한국어 풀이** — 태양인의 비는 교우에서 용감하게 통솔할 수 있으나 간은 당여에서 단정히 서지 못하고, 소음인의 간은 당여에서 단정히 설 수 있으나 비는 교우에서 용감하게 통솔하지 못한다고 하였다. 소양인의 폐는 사무에 민첩하게 통달할 수 있으나 신은 거처에서 한결같이 안정되지 못하고, 태음인의 신은 거처에서 한결같이 안정될 수 있으나 폐는 사무에 민첩하게 통달하지 못한다고 하였다.
+
+**주요 용어·문장 구조** — **勇統·雅立·敏達·恒定**은 각각 힘 있게 통솔함·단정히 섬·민첩하게 통함·일정하게 안정됨을 표현합니다. 이 문장의 肺脾肝腎은 활동 범주와 연결된 전통 이론의 용어입니다.
+
+**문장 맥락** — 앞의 인식 범주와 달리 실제 관계를 맺고 일상을 운영하는 작용을 비교합니다. 이 책의 대칭적 설명을 읽되 개인의 직업·인격·능력을 체질로 평가하지 않습니다. 뒤의 자기 반성 구절까지 읽어야 이 편이 강점과 한계를 영구 고정한 목록으로 끝나지 않는다는 점이 드러납니다.
+
+**이어 읽기:** [확충론의 반성과 확장](#hwakchung-reflect)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 평소의 강점과 급한 반응이 나타나는 곳 {#hwakchung-true-context}
+
+**권1 확충론 · 1941년 석판본 · PDF 19쪽 / 화면 하단 17쪽 · 구결면의 한문 바탕** · [이 대목 주소](#hwakchung-true-context) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=19) · [책 이미지](#scan-19)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 是故太陽之暴怒不在於交遇而必在於黨與也，少陰之浪喜不在於黨與而必在於交遇也，少陽之暴哀不在於事務而必在於居處也，太陰之浪樂不在於居處而必在於事務也。
+
+</div>
+
+**한국어 풀이** — 그러므로 태양인의 갑작스럽고 격한 노여움은 교우보다 당여에서, 소음인의 넘치는 기쁨은 당여보다 교우에서, 소양인의 격한 슬픔은 사무보다 거처에서, 태음인의 넘치는 즐거움은 거처보다 사무에서 나타난다고 하였다.
+
+**주요 용어·문장 구조** — **是故**는 앞의 능·불능 대비를 받는 결론입니다. **暴**는 갑작스럽고 격함, **浪**은 넘치거나 절도 없이 흐름으로 풀이합니다. **不在…而必在…**는 저자가 강조한 영역 대비입니다.
+
+**문장 맥락** — 앞 문장의 상대적으로 익숙한 영역과 덜 미치는 영역을 받아 성정이 급해질 수 있는 상황을 서술합니다. 이 문장을 현대인에게 적용할 때에는 어떤 관계·일·생활 상황에서 반응이 달라지는지 실제 기록을 확인하는 질문으로 바꿉니다. 원문의 必을 현대 연구로 입증된 보편 법칙이나 체질진단 기준으로 사용하지 않습니다.
+
+**이어 읽기:** [성정·정서와 항심](../../sasang-original-symptoms/emotion.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 한 방향으로만 반응하지 않기 {#hwakchung-regulation}
+
+**권1 확충론 · 1941년 석판본 · PDF 20쪽 / 화면 하단 18쪽 · 구결면의 한문 바탕** · [이 대목 주소](#hwakchung-regulation) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=20) · [책 이미지](#scan-20)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陽之交遇可以怒治之，而黨與不可以怒治之也。少陰之黨與可以喜治之，而交遇不可以喜治之也。少陽之事務可以哀治之，而居處不可以哀治之也。太陰之居處可以樂治之，而事務不可以樂治之也。
+
+</div>
+
+**한국어 풀이** — 태양인의 교우는 노여움으로 다스릴 수 있어도 당여는 그렇게 다스려서는 안 되고, 소음인의 당여는 기쁨으로 다스릴 수 있어도 교우는 그렇게 다스려서는 안 된다고 하였다. 소양인의 사무는 슬픔으로 다스릴 수 있어도 거처는 그렇게 다스려서는 안 되고, 태음인의 거처는 즐거움으로 다스릴 수 있어도 사무는 그렇게 다스려서는 안 된다고 하였다.
+
+**주요 용어·문장 구조** — **治之**는 이 문맥에서 관계·일·생활을 다스리고 처리함입니다. **可以·不可以**는 같은 반응을 다른 영역에 그대로 적용하지 말라는 대조입니다. 여기의 治를 곧 약물치료로 읽지 않습니다.
+
+**문장 맥락** — 앞의 暴怒·浪喜·暴哀·浪樂 설명을 이어받아 상황에 맞게 반응을 조절하는 문제로 나아갑니다. 특정 감정을 일부러 일으켜 병을 고치라는 현대 치료 지침은 아닙니다. 실제 생활에서는 상황, 반응의 강도·지속, 수면·소화 등 동반 변화를 구분하는 해석으로 연결할 수 있습니다.
+
+**이어 읽기:** [사상의학 생활·정서 관리](../../donguisusebowon-network/index.md#lifestyle-emotion)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 확충론" markdown="1">
+
+### 확충론: 反其力·反其材·反其知·反其謀 {#hwakchung-reflect}
+
+**권1 확충론 · 1941년 석판본 · PDF 20쪽 / 화면 하단 18쪽 · 구결면의 한문 바탕** · [이 대목 주소](#hwakchung-reflect) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=20) · [책 이미지](#scan-20)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 自反其力而不固，則不能擧也。自反其材而不莊，則不能進也。自反其知而不周，則不能處也。自反其謀而不弘，則不能歸也。
+
+</div>
+
+**한국어 풀이** — 자신의 힘을 돌아보아도 굳건하지 못하면 들어 올릴 수 없고, 자신의 재능을 돌아보아도 장중하지 못하면 나아갈 수 없다고 하였다. 자신의 앎을 돌아보아도 두루 미치지 못하면 처할 수 없고, 자신의 계획을 돌아보아도 넓지 못하면 돌아가 자리 잡을 수 없다고 하였다.
+
+**주요 용어·문장 구조** — **自反**은 스스로 돌이켜 살핌, **固·莊·周·弘**은 굳건함·장중함·두루 미침·넓음입니다. **擧·進·處·歸**는 앞에 각각 제시된 사상인의 행동 방향을 받습니다.
+
+**문장 맥락** — 앞 문장은 태양의 나아감, 소양의 거행, 태음의 머무름, 소음의 처함을 말하고, 이 네 문장이 각자의 힘·재능·앎·계획을 돌아보는 조건을 붙입니다. 확충은 한 가지 익숙한 경향을 더 강하게 밀어붙이는 뜻으로만 읽을 수 없습니다. 강점을 활용하면서 부족한 판단과 행동을 보완하는 독해가 성명론의 知行과 연결됩니다.
+
+**이어 읽기:** [성명론의 지행](#seongmyeong-knowing-doing) · [핵심 개념 허브](../../sasang/donguisusebowon.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 수곡의 경로와 배출 {#jangbu-food-route}
+
+**권1 장부론 · 1941년 석판본 · PDF 24쪽 / 화면 하단 22쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-food-route) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=24) · [책 이미지](#scan-24)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 水穀自胃脘而入于胃，自胃而入于小腸，自小腸而入于大腸，自大腸而出于肛門者，水穀之都數停畜於胃而薰蒸爲熱氣，消導於小腸而平淡爲凉氣。
+
+</div>
+
+**한국어 풀이** — 수곡은 위완에서 위로, 위에서 소장으로, 소장에서 대장으로 들어가 대장에서 항문으로 나온다. 수곡 전체는 위에 머물러 쌓이면서 훈증되어 열기가 되고, 소장에서 소화·인도되면서 평담해져 서늘한 기가 된다고 하였다.
+
+**주요 용어·문장 구조** — **水穀**은 마시는 것과 곡식, 곧 음식물의 총칭입니다. **停畜·薰蒸·消導·平淡**은 머무름·훈증·소화와 이동·온화해짐을 표현합니다. **都數**는 전체를 아울러 이르는 말로 풀이했습니다.
+
+**문장 맥락** — 장부론 앞부분은 음식이 지나가는 경로와 수곡지기가 형성되는 전통적 과정을 제시합니다. 위·소장·대장이라는 이름이 익숙해도 훈증으로 熱氣가 되고 平淡으로 凉氣가 된다는 설명은 오늘의 소화효소·열량·장내 온도를 기술한 문장이 아닙니다. 원문의 경로와 작용을 구별해 읽은 뒤 소증의 식사·배변 관찰로 넘어갑니다.
+
+**이어 읽기:** [소음인의 음식선화](#wellbeing-digestion) · [소화·식욕 소증](../../sasang-original-symptoms/digestion-appetite.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 가벼운 기와 무거운 바탕, 상승과 하강 {#jangbu-warm-cool}
+
+**권1 장부론 · 1941년 석판본 · PDF 24쪽 / 화면 하단 22쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-warm-cool) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=24) · [책 이미지](#scan-24)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 熱氣之輕淸者，上升於胃脘而爲溫氣；凉氣之質重者，下降於大腸而爲寒氣。
+
+</div>
+
+**한국어 풀이** — 열기 가운데 가볍고 맑은 것은 위완으로 올라가 온기가 되고, 서늘한 기 가운데 바탕이 무거운 것은 대장으로 내려가 한기가 된다고 하였다.
+
+**주요 용어·문장 구조** — **輕淸·質重**은 가벼움과 맑음, 바탕의 무거움이라는 대비입니다. **熱·溫·凉·寒**을 각각 남겨 원문이 네 작용을 나눈 점을 보존했습니다.
+
+**문장 맥락** — 앞 수곡 경로에 이어 위완·위·소장·대장을 온·열·량·한의 기능적 관계로 배열합니다. 이 관계는 소양인의 리열, 소음인의 리한 등 병론을 읽을 배경이지만, 특정 장관의 온도를 측정해 표리병을 판정하는 기준은 아닙니다. 장부론의 공통 생리와 체질별 병론의 감별 조건은 다른 단계입니다.
+
+**이어 읽기:** [병론으로 이어 읽는 지도](#volume-one-clinical-bridge) · [한열 원문](../../sasang-original-symptoms/cold-heat.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 위완과 소장의 저장·소모 대비 {#jangbu-stomach-intestine}
+
+**권1 장부론 · 1941년 석판본 · PDF 24쪽 / 화면 하단 22쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-stomach-intestine) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=24) · [책 이미지](#scan-24)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 胃之體廣大而包容，故水穀之氣停畜也。小腸之體狹窄而屈曲，故水穀之氣消導也。
+
+</div>
+
+**한국어 풀이** — 위의 몸체는 넓고 커서 담아 받아들이므로 수곡의 기가 머물러 쌓이고, 소장의 몸체는 좁고 굽어 있으므로 수곡의 기가 소화되어 인도된다고 하였다.
+
+**주요 용어·문장 구조** — **廣大而包容·狹窄而屈曲**은 형태 서술, **停畜·消導**는 거기서 설명하는 작용입니다. 두 층을 분리해 읽습니다.
+
+**문장 맥락** — 형태를 들어 저장과 이동의 차이를 설명하는 고전의 논리입니다. 현대 해부학에서 같은 기관명을 쓰더라도 이 문장의 형태·기능 설명 전체가 오늘의 생리학으로 검증되었다는 뜻은 아닙니다. 독해의 초점은 저장하는 과정과 소화·이동하는 과정이 구분되어 있다는 점이며, 식후 불편과 배변을 별개로 묻는 소증 문서로 연결할 수 있습니다.
+
+**이어 읽기:** [소화·대변과 병증 비교](../../sasang-integrated/patterns.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 온기에서 진·진해, 폐와 피모로 {#jangbu-fluid-lung}
+
+**권1 장부론 · 1941년 석판본 · PDF 24쪽 / 화면 하단 22쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-fluid-lung) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=24) · [책 이미지](#scan-24)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 水穀溫氣自胃脘而化津，入于舌下爲津海。津海者津之所舍也。津海之淸氣出于耳而爲神，入于頭腦而爲膩海。膩海者神之所舍也。膩海之膩汁淸者，內歸于肺而濁滓外歸于皮毛。
+
+</div>
+
+**한국어 풀이** — 수곡의 온기가 위완에서 진으로 변하여 혀 아래로 들어가 진해가 된다. 진해는 진이 머무는 곳이다. 진해의 맑은 기가 귀로 나가 신이 되고, 머리로 들어가 이해가 된다. 이해는 신이 머무는 곳이다. 이해의 기름진 즙 가운데 맑은 것은 안으로 폐에 돌아가고 탁한 찌꺼기는 밖으로 피모에 돌아간다고 하였다.
+
+**주요 용어·문장 구조** — **津海·膩海**는 진과 기름진 즙의 바다라는 전통적 저장·분포 개념입니다. **舍**는 머무는 곳, **淸氣·濁滓**는 맑은 기와 탁한 찌꺼기입니다. **神**은 이 체계의 정신·기능 용어이며 뇌신경 전달물질로 번역하지 않습니다.
+
+**문장 맥락** — 수곡의 변화 → 머무는 곳 → 감각·정신 범주 → 안쪽 장부와 바깥 조직이라는 연속 구조를 읽습니다. 津海를 침샘, 膩海를 뇌척수액, 肺를 폐포 기능으로 일대일 치환하면 원문과 현대 개념 모두의 범위가 달라집니다. 뒤의 태음인 호산·발한 관찰은 별도의 병론·소증에서 확인합니다.
+
+**이어 읽기:** [태음인 땀과 회복](../../sasang-integrated/taeeumin.md) · [한액통창](#wellbeing-sweating)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 열기에서 고·고해, 비와 근으로 {#jangbu-fluid-spleen}
+
+**권1 장부론 · 1941년 석판본 · PDF 24쪽 / 화면 하단 22쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-fluid-spleen) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=24) · [책 이미지](#scan-24)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 水穀熱氣自胃而化膏，入于兩乳爲膏海。膏海者膏之所舍也。膏海之淸氣出于目而爲氣，入于背膂而爲膜海。膜海者氣之所舍也。膜海之膜汁淸者，內歸于脾而濁滓外歸于筋。
+
+</div>
+
+**한국어 풀이** — 수곡의 열기가 위에서 고로 변하여 양쪽 젖 부위로 들어가 고해가 된다. 고해는 고가 머무는 곳이다. 고해의 맑은 기가 눈으로 나가 기가 되고, 등으로 들어가 막해가 된다. 막해는 기가 머무는 곳이다. 막해의 막즙 가운데 맑은 것은 안으로 비에 돌아가고 탁한 찌꺼기는 밖으로 근에 돌아간다고 하였다.
+
+**주요 용어·문장 구조** — **膏·膜·背膂**는 각각 기름지고 걸쭉한 것·막·등과 척추 주변을 가리키는 글자입니다. **筋**은 고전의 근 조직 범주로 남깁니다. 膏海·膜海는 현대의 지방조직·근막과 같은 구조로 확정하지 않습니다.
+
+**문장 맥락** — 앞의 津·膩·肺·皮毛 계열과 같은 문장 틀에서 서로 다른 분포 관계를 설명합니다. 양쪽 젖 부위라는 공간 표현과 脾의 기능 설명을 현대 비장의 위치나 내분비 경로로 재구성하지 않습니다. 체질별 임상에서는 이 공통 생리 틀을 전제한 뒤에도 평소 소화와 현재 병증을 다시 살펴야 합니다.
+
+**이어 읽기:** [소양인 병증](../../sasang-integrated/soyangin.md) · [소음인 병증](../../sasang-integrated/soeumin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 량기에서 유·유해, 간과 육으로 {#jangbu-fluid-liver}
+
+**권1 장부론 · 1941년 석판본 · PDF 25쪽 / 화면 하단 23쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-fluid-liver) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=25) · [책 이미지](#scan-25)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 水穀凉氣自小腸而化油，入于臍爲油海。油海者油之所舍也。油海之淸氣出于鼻而爲血，入于腰脊而爲血海。血海者血之所舍也。血海之血汁淸者，內歸于肝而濁滓外歸于肉。
+
+</div>
+
+**한국어 풀이** — 수곡의 서늘한 기가 소장에서 유로 변하여 배꼽으로 들어가 유해가 된다. 유해는 유가 머무는 곳이다. 유해의 맑은 기가 코로 나가 혈이 되고, 허리·척추로 들어가 혈해가 된다. 혈해는 혈이 머무는 곳이다. 혈해의 혈즙 가운데 맑은 것은 안으로 간에 돌아가고 탁한 찌꺼기는 밖으로 육에 돌아간다고 하였다.
+
+**주요 용어·문장 구조** — **油海·血海**는 이 편의 유와 혈이 머무는 관계를 이르는 말입니다. **肉**은 살 조직의 범주입니다. 여기의 血海는 경혈 SP10의 이름이나 다른 의서의 혈해 설명과 문맥 없이 합치지 않습니다.
+
+**문장 맥락** — 津·膏 계열 다음에 油 계열을 놓아 肝·肉의 안팎 관계를 설명합니다. 血이라는 글자가 나온다는 이유로 조혈·혈액순환의 실제 경로나 간의 현대 대사 기능을 그대로 기술했다고 볼 수는 없습니다. 태양·태음의 간폐 장국을 이해하는 원전 내부의 배경으로 읽고, 임상 소견은 관련 병론에서 별도로 대조합니다.
+
+**이어 읽기:** [태양인 통합](../../sasang-integrated/taeyangin.md) · [태음인 통합](../../sasang-integrated/taeeumin.md)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 한기에서 액·액해, 신과 골로 {#jangbu-fluid-kidney}
+
+**권1 장부론 · 1941년 석판본 · PDF 25쪽 / 화면 하단 23쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-fluid-kidney) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=25) · [책 이미지](#scan-25)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 水穀寒氣自大腸而化液，入于前陰毛際之內爲液海。液海者液之所舍也。液海之淸氣出于口而爲精，入于膀胱而爲精海。精海者精之所舍也。精海之精汁淸者，內歸于腎而濁滓外歸于骨。
+
+</div>
+
+**한국어 풀이** — 수곡의 한기가 대장에서 액으로 변하여 전음의 털이 난 경계 안쪽으로 들어가 액해가 된다. 액해는 액이 머무는 곳이다. 액해의 맑은 기가 입으로 나가 정이 되고, 방광으로 들어가 정해가 된다. 정해는 정이 머무는 곳이다. 정해의 정즙 가운데 맑은 것은 안으로 신에 돌아가고 탁한 찌꺼기는 밖으로 골에 돌아간다고 하였다.
+
+**주요 용어·문장 구조** — **前陰毛際·膀胱**은 이 판본의 위치 표현을 그대로 남겼습니다. **精·精海**는 원전의 생명·저장 기능 범주로, 생식세포나 특정 호르몬으로 한정하지 않습니다. **液**과 津도 이 문장에서는 서로 다른 계열입니다.
+
+**문장 맥락** — 네 수곡 계열 가운데 마지막으로 腎·骨의 관계를 설명합니다. 입→방광→신이라는 글자 순서를 현대 요로 해부로 읽으면 문장의 성격이 바뀝니다. 소양인의 음청지기, 소음인의 양난지기와 연결할 때에도 이 구절에서 곧장 처방을 도출하지 않고 소증·표리·순역의 설명 단계를 거칩니다.
+
+**이어 읽기:** [보명지주와 병론의 연결](#volume-one-clinical-bridge) · [소양인 대변선통](#wellbeing-stool)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 장부의 근본을 앞뒤·상하 관계로 설명하기 {#jangbu-four-roots}
+
+**권1 장부론 · 1941년 석판본 · PDF 27쪽 / 화면 하단 25쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-four-roots) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=27) · [책 이미지](#scan-27)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 頭腦之膩海肺之根本也，背膂之膜海脾之根本也，腰脊之血海肝之根本也，膀胱之精海腎之根本也。
+
+</div>
+
+**한국어 풀이** — 머리의 이해는 폐의 근본이고, 등의 막해는 비의 근본이며, 허리·척추의 혈해는 간의 근본이고, 방광의 정해는 신의 근본이라고 하였다.
+
+**주요 용어·문장 구조** — **根本**은 앞서 설명한 생성·저장·분포 관계에서의 바탕입니다. 원전이 서로 떨어진 부위를 하나의 기능적 계열로 묶는 방식이며, 현대 장기의 발생학적 기원이나 조직학적 뿌리가 아닙니다.
+
+**문장 맥락** — 앞 문단은 장부·귀눈코입·머리와 사지의 역할을 이어 설명한 뒤 이 네 근본을 정리합니다. 장국을 폐·비·간·신이라는 네 기관만으로 읽으면 이처럼 넓은 신체·기능 관계를 놓칩니다. 따라서 권1의 공통 관계를 읽고 사단론의 상대적 장국, 이후 체질별 병론의 증후 조합으로 내려가는 순서를 지킵니다.
+
+**이어 읽기:** [장국 원문](#four-organ-configurations) · [장부생리 허브](../../donguisusebowon-network/index.md#zangbu-physiology)
+
+</section>
+
+<section class="dsb-passage" data-category="권1 장부론" markdown="1">
+
+### 장부론: 심(心)의 위치와 전체 조절의 서술 {#jangbu-heart-center}
+
+**권1 장부론 · 1941년 석판본 · PDF 27쪽 / 화면 하단 25쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-heart-center) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=27) · [책 이미지](#scan-27)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 心爲一身之主宰，負隅背心，正向膻中，光明瑩澈，耳目鼻口無所不察。
+
+</div>
+
+**한국어 풀이** — 심은 온몸을 주재하며 등 쪽을 등지고 전중을 바르게 향하고, 밝고 맑아서 귀·눈·코·입이 살피지 못하는 것이 없다고 하였다.
+
+**주요 용어·문장 구조** — **主宰**는 전체를 주관함, **負隅背心·正向膻中**은 등 쪽을 배경으로 전중을 향한다는 고전적 위치·방향 표현입니다. **光明瑩澈**은 밝고 맑음입니다. 이 문장은 구결면의 한문 바탕을 발췌했습니다.
+
+**문장 맥락** — 네 장부의 근본을 정리한 뒤 心을 전체의 주재로 놓습니다. 心을 심장 펌프 기능만으로 한정하면 인식·판단과 전신 관계를 논하는 이 문맥이 사라집니다. 반대로 이를 뇌·자율신경계의 다른 이름이라고 확정해도 안 됩니다. 성명론의 마음·지행과 장부론의 전신 관계를 이어 읽는 끝머리로 삼습니다.
+
+**이어 읽기:** [성명론의 마음과 실천](#seongmyeong-cultivation) · [원전·현대 근거 구분](../../sasang-integrated/evidence.md)
 
 </section>
 
@@ -986,6 +1542,84 @@ reader_tools: true
 
 오른쪽 세로줄부터 왼쪽으로 읽습니다. **PDF 쪽수는 표지를 포함한 파일 순서**, 화면 하단 숫자는 이미지에 표시된 쪽수입니다. 책의 원래 장차와도 구별합니다. 이미지는 Wikimedia Commons에서 불러오며, 위의 원문·풀이는 아카이브 본문에 수록되어 이미지가 열리지 않아도 읽을 수 있습니다.
 
+### 권1의 대조면 {#volume-one-scans}
+
+성명론·확충론·장부론의 발췌에 사용한 면입니다. PDF 17쪽의 화면 하단은 15쪽으로 앞 면과 번호가 겹치며, PDF 18쪽부터 아래 대조 범위에서는 파일 순서와 하단 숫자의 차이가 2입니다. 한문 바탕과 구결을 구별해 보세요.
+
+<details id="scan-2" class="dsb-scan">
+<summary>PDF 2쪽 / 화면 하단 1쪽 — 성명론 첫머리</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page2-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page2-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 2쪽, 성명론 첫머리" width="960">
+</details>
+
+<details id="scan-3" class="dsb-scan">
+<summary>PDF 3쪽 / 화면 하단 2쪽 — 성·명의 정의</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page3-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page3-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 3쪽, 성·명의 정의" width="960">
+</details>
+
+<details id="scan-5" class="dsb-scan">
+<summary>PDF 5쪽 / 화면 하단 4쪽 — 공통 가능성과 수양</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page5-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page5-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 5쪽, 공통 가능성과 수양" width="960">
+</details>
+
+<details id="scan-6" class="dsb-scan">
+<summary>PDF 6쪽 / 화면 하단 5쪽 — 자기 성찰</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page6-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page6-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 6쪽, 자기 성찰" width="960">
+</details>
+
+<details id="scan-7" class="dsb-scan">
+<summary>PDF 7쪽 / 화면 하단 6쪽 — 지행</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page7-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page7-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 7쪽, 지행" width="960">
+</details>
+
+<details id="scan-16" class="dsb-scan">
+<summary>PDF 16쪽 / 화면 하단 15쪽 — 확충론 첫머리</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page16-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page16-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 16쪽, 확충론 첫머리" width="960">
+</details>
+
+<details id="scan-18" class="dsb-scan">
+<summary>PDF 18쪽 / 화면 하단 16쪽 — 확충론 능·불능</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page18-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page18-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 18쪽, 확충론 능·불능" width="960">
+</details>
+
+<details id="scan-19" class="dsb-scan">
+<summary>PDF 19쪽 / 화면 하단 17쪽 — 반응의 영역</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page19-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page19-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 19쪽, 반응의 영역" width="960">
+</details>
+
+<details id="scan-20" class="dsb-scan">
+<summary>PDF 20쪽 / 화면 하단 18쪽 — 조절·자반</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page20-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page20-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 20쪽, 조절·자반" width="960">
+</details>
+
+<details id="scan-24" class="dsb-scan">
+<summary>PDF 24쪽 / 화면 하단 22쪽 — 장부론 수곡·진·고</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page24-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page24-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 24쪽, 장부론 수곡·진·고" width="960">
+</details>
+
+<details id="scan-25" class="dsb-scan">
+<summary>PDF 25쪽 / 화면 하단 23쪽 — 장부론 유·액</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page25-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page25-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 25쪽, 장부론 유·액" width="960">
+</details>
+
+<details id="scan-27" class="dsb-scan">
+<summary>PDF 27쪽 / 화면 하단 25쪽 — 네 근본·심</summary>
+<p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page27-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
+<img loading="lazy" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page27-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" alt="1941년 동의수세보원 PDF 27쪽, 네 근본·심" width="960">
+</details>
+
+### 권4의 대조면
+
 <details id="scan-188" class="dsb-scan">
 <summary>PDF 188쪽 / 화면 하단 187쪽 — 외형이 소음인과 비슷한 소양인</summary>
 <p><a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CNTS-00047980362_東醫壽世保元.pdf/page188-960px-CNTS-00047980362_東醫壽世保元.pdf.jpg" target="_blank" rel="noopener">이미지 크게 열기 ↗</a></p>
@@ -1030,9 +1664,10 @@ reader_tools: true
 ## 판본·출처와 전사 원칙 {#source}
 
 - **대조 자료:** 《東醫壽世保元》, 1941년, 金重瑞方, 석판본, 4권 1책. 공개 파일의 서지에는 이제마·한두정이 함께 표시되어 있습니다. 마지막 발행면에서 한두정의 편집·발행 표기를 확인할 수 있습니다. 자료 식별자는 **CNTS-00047980362**입니다.
-- **공개 파일:** [Wikimedia Commons 자료 설명·권리 표기](https://commons.wikimedia.org/wiki/File:CNTS-00047980362_東醫壽世保元.pdf). 제공처는 이 스캔을 **PD-scan / PD-South Korea**로 표시합니다. [확인한 설명판](https://commons.wikimedia.org/w/index.php?title=File:CNTS-00047980362_東醫壽世保元.pdf&oldid=1108506680)과 [원본 PDF](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf)를 함께 남깁니다.
+- **공개 파일:** [Wikimedia Commons 자료 설명·권리 표기](https://commons.wikimedia.org/wiki/File:CNTS-00047980362_東醫壽世保元.pdf). 2026년 10월 22일 공개 설명·권리 표기를 재확인했으며, 제공처는 이 스캔을 **PD-scan / PD-South Korea**로 표시합니다. 이는 이 스캔과 원자료에 대한 제공처의 표기이고 현대 번역서·다른 DB의 해설까지 자유 이용이라는 뜻은 아닙니다. [확인한 설명판](https://commons.wikimedia.org/w/index.php?title=File:CNTS-00047980362_東醫壽世保元.pdf&oldid=1108506680)과 [원본 PDF](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf)를 함께 남깁니다.
 - **1901년본과 구별:** 이 페이지의 대조본은 1941년 석판본입니다. [장서각 소장 1901년 목활자본 K3-328](https://jsg.aks.ac.kr/dir/view?dataId=JSG_K3-328)은 별도 자료이며, 그 이미지나 해제를 이 페이지에 복제한 것은 아닙니다. 이번 작업은 판본 전체의 이문을 대조한 교감본이 아닙니다.
-- **옮긴 범위:** 각 항목에 표시한 PDF 쪽의 본문에서 40개 대목을 직접 전사했습니다. 사단론·체질별 병론·처방 논평 28대목과 사상인변증론 12대목입니다. 후대 구결, 작은 글씨의 협주와 발행면은 전사에서 제외했습니다. 40이라는 수와 각 제목은 찾기 쉽도록 붙인 이 페이지의 편집 단위이며, 원전의 조문 번호가 아닙니다.
+- **옮긴 범위:** 총 64대목입니다. 성명론 6·확충론 9·장부론 9대목과 기존 사단론·체질별 병론·처방 논평 28대목, 사상인변증론 12대목을 합한 수입니다. 편의 제목과 대목 수는 아카이브의 독해 단위이며 원전 조문 번호가 아닙니다.
+- **권1의 대조면:** 성명론은 PDF 2·3·5·6·7쪽, 확충론은 PDF 16·18·19·20쪽, 장부론은 PDF 24·25·27쪽을 직접 확인했습니다. 이 파일은 PDF 18쪽부터 화면 하단 숫자가 파일 순서보다 2 작아지는 구간이 있어 일괄적으로 1을 빼지 않습니다. 확충론 PDF 18–20쪽과 장부론은 구결을 붙인 면에서 **한문 바탕만** 옮겼습니다. 구결·작은 글씨 협주·발행면의 문장은 본문 전사에 넣지 않았으며, 당시 구결을 현대어 번역문으로 재사용하지 않았습니다. 원책의 판심 장차는 PDF 순서·화면 하단 숫자와 구별하고, 확인하지 않은 장차를 추정해 붙이지 않습니다.
 - **표기:** 원문의 한자를 옮기되 읽기 위한 현대 구두점과 문장 구분을 더했습니다. 形容·貼 등은 대조 이미지의 글자를 따릅니다. 완실무병의 네 체질 문장은 읽기 편하게 각각 나누었고, 「사람을 알고, 그 증도 알아야 한다」는 문단 마지막 문장만 발췌했습니다.
 - **풀이·권리:** 한국어 풀이와 설명은 아카이브의 자체 작성물입니다. 현대 번역서나 한국의학고전DB의 번역·정리 데이터를 복제한 자료가 아닙니다. 고전 원문 자체에 아카이브의 독점 권리를 주장하지 않으며, 자체 해설은 [콘텐츠 이용 안내](../../guide/content-use.md)를 따릅니다.
 

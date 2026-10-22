@@ -11,6 +11,8 @@ description: 동의수세보원 사단론·확충론·사상인변증론의 성�
 
 성정과 장국의 관계, 사상인별 성질·재간 및 항심과 병증의 연결은 [동의수세보원과 사상의학](../sasang/donguisusebowon.md)과 [사상의학 한눈에 보기](../sasang-integrated/index.md)에서 개요를 읽을 수 있습니다. 여기서는 해당 조문의 원문과 세부 풀이를 살펴봅니다.
 
+권1의 문장 맥락을 더 읽으려면 [성명론의 성·명과 지행](../classics/donguisusebowon/original.md#seongmyeong-seong-myeong), 확충론의 [태양](../classics/donguisusebowon/original.md#hwakchung-taeyang)·[소양](../classics/donguisusebowon/original.md#hwakchung-soyang)·[태음](../classics/donguisusebowon/original.md#hwakchung-taeeum)·[소음](../classics/donguisusebowon/original.md#hwakchung-soeum), [자반과 확장](../classics/donguisusebowon/original.md#hwakchung-reflect)으로 이어갑니다. 기존의 짧은 성기·장국 표와 달리 인식하는 영역, 실제 관계에서의 반응, 강점·한계를 문장 단위로 읽을 수 있습니다. 대조 판본은 1941년 석판본이며 아래 DB 기준의 인용 표기와 구분합니다.
+
 ## 성질과 재간
 
 〈사상인변증론〉은 각 사상인의 性質과 材幹을 다음처럼 서술합니다.

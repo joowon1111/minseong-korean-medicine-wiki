@@ -11,6 +11,12 @@ last_reviewed: '2026-09-21'
 
 진료에서는 체격이나 체중만 보지 않습니다. **발병 전 땀·호흡·소화·배변·피로회복을 기준선으로 잡고, 현재 위완수한표한병인지 간수열리열병인지, 폐조와 음혈 소모가 어느 정도인지**를 함께 평가합니다.
 
+## 권1의 생리에서 태음인 병론으로 {#volume-one-physiology}
+
+[확충론의 희성·낙정](../classics/donguisusebowon/original.md#hwakchung-taeeum)은 인륜을 살피는 작용과 거처에서의 반응을 구분합니다. [장부론의 폐·피모 계열](../classics/donguisusebowon/original.md#jangbu-fluid-lung)과 [간·육 계열](../classics/donguisusebowon/original.md#jangbu-fluid-liver)은 전신 관계를 이해하는 바탕입니다. 이를 폐활량·간 대사·체지방 수치와 같은 지표로 바꾸지 않습니다.
+
+갑오구본의 호산지기라는 보명지주 명칭은 밖으로 펴는 기능축으로 읽습니다. 신축본 계열에서는 한액통창·쾌한과 병중 호흡·섭취·회복을 관찰하고, 표한의 위완한과 리열의 간열 양쪽에서 폐조가 동반되는 정도를 비교합니다. 호산은 숨을 많이 내쉬거나 땀을 강제로 내야 한다는 지시가 아닙니다. 판본별 명칭과 신축본 계열 병론을 연결하는 해설이며, [보명지주·소증·병론 표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)에서 다른 체질과 비교하고 [판본·본표 차이](../classics/donguisusebowon.md#life-principle)를 확인할 수 있습니다.
+
 ## 한눈에 보기 {#_2}
 
 | 구분 | 핵심 내용 |
