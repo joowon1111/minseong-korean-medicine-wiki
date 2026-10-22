@@ -526,7 +526,7 @@ reader_tools: true
 
 <section class="dsb-passage" data-category="권1 장부론" markdown="1">
 
-### 장부론: 위완과 소장의 저장·소모 대비 {#jangbu-stomach-intestine}
+### 장부론: 위와 소장의 저장·이동 대비 {#jangbu-stomach-intestine}
 
 **권1 장부론 · 1941년 석판본 · PDF 24쪽 / 화면 하단 22쪽 · 구결면의 한문 바탕** · [이 대목 주소](#jangbu-stomach-intestine) · [대조본 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=24) · [책 이미지](#scan-24)
 
