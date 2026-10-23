@@ -52,6 +52,7 @@ last_reviewed: 2026-10-23
 | 보기·생진의 약재 감별 | [당삼](../herbs/codonopsis.md#qi-fluid-identity)·[태자삼](../herbs/pseudostellaria.md#identity-peptides) | 인삼과 다른 기원종·성분; 후대 대체·가감과 원방을 구분 |
 | 양음·윤조의 근경과 괴근 | [옥죽](../herbs/polygonatum-odoratum.md#rhizome-fructans)·[천문동](../herbs/ophiopogon-extra.md#saponin-fractions) | 황정·맥문동과 식물·부위·성분을 나누고 처방 전체의 병기를 확인 |
 | 건비·화습·고삽 배합 | [연자육](../herbs/lotus-seed.md#seed-embryo-chemistry)·[백편두](../herbs/lablab-seed.md#seed-processing) | 종자와 배아·포제 차이; 삼령백출산과 사상 처방의 해석 틀 구분 |
+| 교질 보익과 원료·제형 | [아교](../herbs/donkey-hide-gelatin.md#peptides-authentication)·[녹각교](../herbs/deer-antler-gelatin.md#tissue-peptides)·[귀판교](../herbs/turtle-plastron-gelatin.md#shell-gelatin) | 가죽·뿔·갑과 교질을 구분; 양혈·양음·보정과 초주·용화 차이 |
 | 생맥산·기음 보완 계열 | [인삼](../herbs/ginseng.md)·[맥문동](../herbs/ophiopogon.md#species-and-fractions)·[오미자](../herbs/schisandra.md#lignans-interactions) | 보기·양음·수렴; 기원종·추출 분획과 병용약 |
 
 각 본초 문서는 고전의 짧은 원문을 원문 뷰어와 연결하고, 성분·포제·배합 및 사람 연구의 범위를 나누어 설명합니다. **원약재 → 추출·분획 → 분리성분 → 복합처방 완제품**을 구분하면 실험 결과를 실제 처방에 어디까지 연결할 수 있는지 판단하기 쉽습니다.
@@ -81,6 +82,22 @@ last_reviewed: 2026-10-23
 | [제천전](../formulas/jichuan-jian.md#original-pattern-course) | 당귀·육종용의 보허윤장과 승마·지각의 승강 | 원전·후대 용량 및 허약이 심할 때 지각 생략 조건 |
 
 [토사자](../herbs/cuscuta-seed.md#formula-context)의 익정·고삽과 육종용의 익정·윤장은 배출을 다루는 방향이 다릅니다. 식사·수분·변 형태·힘주기·복용약을 함께 살피며, [변비의 원인 평가](../conditions/constipation.md)와 각 처방의 구성을 연결합니다.
+
+## 아교·녹각교·귀판교와 처방의 차이 {#gelatin-herbs}
+
+교질이라는 제형이 같아도 **동물종·약용 부위·제조·포제와 전체 배합**이 다릅니다. 콜라겐·아미노산 함유를 공통점으로 제시하는 것과 같은 효능·임상효과를 가진다고 결론내리는 것은 별개입니다.
+
+| 본초 | 원료와 가공에서의 중심 | 처방에서 읽을 구체적 역할 |
+|---|---|---|
+| [아교](../herbs/donkey-hide-gelatin.md#preparation-context) | 당나귀 가죽 교질; 아교주와 약액에 녹이는 용화를 구분 | [자감초탕](../formulas/zhigancao-tang.md#gelatin-context)의 음혈·허손, [저령탕](../formulas/zhuling-tang.md#gelatin-context)의 이수청열·양음, [교애탕](../formulas/jiaoai-tang.md#source-preparation)의 출혈·충임 배합 |
+| [녹각교](../herbs/deer-antler-gelatin.md#yin-yang-formulas) | 골질화된 사슴뿔의 추출 교질; 녹용·녹각상·가죽 교질과 구별 | [좌귀환](../formulas/zuogui-wan.md#jingyue-source)에서는 귀판교와 정혈을 받치고, [우귀환](../formulas/yougui-wan.md#jingyue-source)에서는 온양·보정 배합에 참여 |
+| [귀판교](../herbs/turtle-plastron-gelatin.md#zuogui-context) | 귀갑에서 얻은 교질; 별갑·자라 교질과 구분 | 좌귀환의 자음·정혈축이며 원전에 화의 단서에 따른 포함·생략 조건이 있음 |
+
+### 원료 감별 연구와 사람의 치료 결과
+
+질량분석 펩타이드 연구는 아교의 동물종, 녹각교의 종·부위와 혼입 여부를 묻습니다. 원료 DNA 동정은 또 다른 시험이며 완성 교질에 그대로 적용된다고 단정하지 않습니다. **종 감별 → 함량·가공 확인 → 복합처방 임상시험**은 서로 다른 질문입니다.
+
+[교애탕의 디에노게스트 병용 관찰](../formulas/jiaoai-tang.md#dienogest-study)은 특정 일본 제제를 쓴 후향 비교이고, [자감초탕의 심부전 시험 계획](../formulas/zhigancao-tang.md#trial-protocol)은 결과 보고가 아닌 계획서입니다. 어느 자료도 아교 단미나 모든 교질 보약의 효과를 대신 입증하지 않습니다. 출전·조제와 임상 연구의 제제가 일치하는지 먼저 확인합니다.
 
 ## 보기·생진과 건비 배합을 구분하기 {#tonic-qi-digestion}
 

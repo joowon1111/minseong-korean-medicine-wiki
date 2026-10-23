@@ -5,7 +5,7 @@ tags: [본초학, 아교, 처방구성, 원문해석]
 ---
 # 아교(阿膠)
 
-아교는 가죽을 달여 제조하는 교질 약재로, 현대에는 원료와 공정서 규격을 확인하는 것이 중요합니다.
+아교는 **당나귀 가죽을 가공해 얻는 교질 약재**입니다. 전통적으로 보혈·자음·윤조·지혈을 함께 논하지만, 어느 역할이 중심인지는 배합에 따라 다릅니다. 식품 젤라틴이나 다른 동물의 가죽·뼈에서 얻은 교질과 이름만으로 대체하지 않습니다.
 
 ## 본초비요 원문과 해석 {#classic-interpretation}
 
@@ -19,13 +19,33 @@ tags: [본초학, 아교, 처방구성, 원문해석]
 
 | 처방·대조 원전 | 처방 안의 약량 | 배합에서의 위치 |
 |---|---|---|
-| [자감초탕](../formulas/zhigancao-tang.md#source-dose-original) · 《傷寒論（宋本）》 | 二兩 | 음혈을 보하고 건조·허손성 출혈축을 받침 |
-| [저령탕](../formulas/zhuling-tang.md#source-dose-original) · 《傷寒論（宋本）》 | 一兩 | 음혈을 보하고 건조·허손성 출혈축을 받침 |
-| [온경탕](../formulas/wenjing-tang.md#source-dose-original) · 《金匱要略方論》 | 二兩 | 음혈을 보하고 건조·허손성 출혈축을 받침 |
-| [교애탕](../formulas/jiaoai-tang.md#source-dose-original) · 《醫方集解》 | 二兩 | 음혈을 보하고 건조·허손성 출혈축을 받침 |
-| [수태환](../formulas/shoutai-wan.md#source-dose-original) · 《醫學衷中參西錄》 | 二兩 | 음혈을 보하고 건조·허손성 출혈축을 받침 |
+| [자감초탕](../formulas/zhigancao-tang.md#source-dose-original) · 《傷寒論（宋本）》 | 二兩 | 음혈·진액을 받쳐 심계·맥결대의 허손 배합을 보완 |
+| [저령탕](../formulas/zhuling-tang.md#source-dose-original) · 《傷寒論（宋本）》 | 一兩 | 이수·청열에 양음을 결합; 혈뇨만을 위한 약재로 한정하지 않음 |
+| [온경탕](../formulas/wenjing-tang.md#source-dose-original) · 《金匱要略方論》 | 二兩 | 온경·거어 배합 안에서 음혈·건조를 보완 |
+| [교애탕](../formulas/jiaoai-tang.md#source-dose-original) · 《醫方集解》 | 二兩 | 애엽·혈분 약재와 양혈·지혈의 축을 이룸 |
+| [수태환](../formulas/shoutai-wan.md#source-dose-original) · 《醫學衷中參西錄》 | 二兩 | 토사자·속단·상기생과 신·충임을 받치는 고전 안태 배합 |
 
 이 약량은 각 처방의 수록본 안에서 확인한 배합 기록입니다. 같은 본초가 여러 처방에 있어도 역할·포제·제형은 전체 배합과 함께 읽습니다.
+
+## 콜라겐·젤라틴과 원료 감별 {#peptides-authentication}
+
+아교의 성분을 설명할 때는 원피의 콜라겐, 가공 중 얻는 젤라틴, 분석을 위해 효소로 잘라 만든 펩타이드를 나눕니다. 분석용 펩타이드가 발견되었다고 그 물질이 복용 뒤 같은 형태로 작용하거나 보혈 효과를 낸다고 단정하지 않습니다.
+
+| 확인 단계 | 무엇을 구분하는가 | 해석할 범위 |
+|---|---|---|
+| 동물종·부위 | 당나귀 가죽과 말·소·돼지 등 다른 원료 | 같은 총단백질량이라도 원료의 정체가 같지는 않음 |
+| 제조·완제품 | 원피와 완성 아교, 초제품·배합 엑스제 | 원료 시험의 결과를 완제품 함량으로 바로 바꾸지 않음 |
+| 펩타이드 지문 | 효소 분해 후 LC-MS/MS로 검출하는 표지 | 종의 감별·혼입 확인과 임상효과 평가는 다른 질문 |
+
+2022년 원저는 여러 동물 교질의 펩타이드 지문을 비교하고 질량분석 표지로 정성·정량하는 방법을 검토했습니다. 일부 기존 표지가 말 가죽 교질에서도 나타날 수 있다는 문제를 다루므로, ‘표지 하나 검출=아교의 순도·효능 보증’으로 읽지 않습니다. [PMID 35889516](https://pubmed.ncbi.nlm.nih.gov/35889516/)
+
+[녹각교](deer-antler-gelatin.md#tissue-peptides)·[귀판교](turtle-plastron-gelatin.md#shell-gelatin)도 동물 유래 교질이지만 원료 부위와 처방의 자리가 다릅니다. [세 교질 본초와 처방 비교](../network/tonic-formula-compare.md#gelatin-herbs)에서 함께 볼 수 있습니다.
+
+## 아교주·용화는 같은 조제 지시가 아닙니다 {#preparation-context}
+
+《본초비요》는 초주·합분초·포황초와 술·물에 녹이는 방법을 나열합니다. **초주(炒珠)는 볶아 구슬처럼 부풀리는 가공**, 용화·양화(烊化)는 달인 약액 등에 교질을 녹이는 투입 방법입니다. 포제와 전탕 순서를 하나로 합치지 않습니다. [「阿膠」 원문](https://jicheng.tw/tcm/book/本草備要/index.html)
+
+[자감초탕 송본](../formulas/zhigancao-tang.md#song-dose-preparation)은 아교를 제외한 여덟 약을 먼저 달이고, [동의보감 수록형](../formulas/zhigancao-tang.md#donguibogam-version)은 아교주를 넣는 기록입니다. [저령탕](../formulas/zhuling-tang.md#processing)은 네 약을 달인 뒤 아교를 녹입니다. 같은 ‘후입’이라도 실제 원료·포제품과 탕전·추출 공정을 남겨야 처방을 재현할 수 있습니다.
 
 ## 기원·포제·사용 시 확인점 {#identity-processing}
 
