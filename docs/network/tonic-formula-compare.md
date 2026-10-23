@@ -49,6 +49,9 @@ last_reviewed: 2026-10-23
 | 익정·고삽과 보신윤장 | [토사자](../herbs/cuscuta-seed.md#species-chemistry)·[육종용](../herbs/cistanche.md#species-extracts) | 작은 종자의 익정·고삽과 육질 줄기의 보신·윤장; 좌귀·우귀·수태환과 제천전 구분 |
 | 양심안신·건비와 부위 감별 | [백자인](../herbs/thuja-seed.md#tonic-original)·[복신](../herbs/poria-spirit.md#part-chemistry) | 종인의 유지·거유와 균핵의 부위·去木; 천왕보심단의 복령/복신 수록형 |
 | 보비·자윤과 연구 제제 | [황정](../herbs/polygonatum-sibiricum.md#sleep-human-trial) | 증숙품·다당류와 특정 추출물의 경증 불면 시험; 경옥고·귀비탕 원방과 구분 |
+| 보기·생진의 약재 감별 | [당삼](../herbs/codonopsis.md#qi-fluid-identity)·[태자삼](../herbs/pseudostellaria.md#identity-peptides) | 인삼과 다른 기원종·성분; 후대 대체·가감과 원방을 구분 |
+| 양음·윤조의 근경과 괴근 | [옥죽](../herbs/polygonatum-odoratum.md#rhizome-fructans)·[천문동](../herbs/ophiopogon-extra.md#saponin-fractions) | 황정·맥문동과 식물·부위·성분을 나누고 처방 전체의 병기를 확인 |
+| 건비·화습·고삽 배합 | [연자육](../herbs/lotus-seed.md#seed-embryo-chemistry)·[백편두](../herbs/lablab-seed.md#seed-processing) | 종자와 배아·포제 차이; 삼령백출산과 사상 처방의 해석 틀 구분 |
 | 생맥산·기음 보완 계열 | [인삼](../herbs/ginseng.md)·[맥문동](../herbs/ophiopogon.md#species-and-fractions)·[오미자](../herbs/schisandra.md#lignans-interactions) | 보기·양음·수렴; 기원종·추출 분획과 병용약 |
 
 각 본초 문서는 고전의 짧은 원문을 원문 뷰어와 연결하고, 성분·포제·배합 및 사람 연구의 범위를 나누어 설명합니다. **원약재 → 추출·분획 → 분리성분 → 복합처방 완제품**을 구분하면 실험 결과를 실제 처방에 어디까지 연결할 수 있는지 판단하기 쉽습니다.
@@ -78,6 +81,21 @@ last_reviewed: 2026-10-23
 | [제천전](../formulas/jichuan-jian.md#original-pattern-course) | 당귀·육종용의 보허윤장과 승마·지각의 승강 | 원전·후대 용량 및 허약이 심할 때 지각 생략 조건 |
 
 [토사자](../herbs/cuscuta-seed.md#formula-context)의 익정·고삽과 육종용의 익정·윤장은 배출을 다루는 방향이 다릅니다. 식사·수분·변 형태·힘주기·복용약을 함께 살피며, [변비의 원인 평가](../conditions/constipation.md)와 각 처방의 구성을 연결합니다.
+
+## 보기·생진과 건비 배합을 구분하기 {#tonic-qi-digestion}
+
+| 비교할 본초 | 배합에서 묻는 질문 | 실제 원료·제형에서 확인할 점 |
+|---|---|---|
+| [인삼](../herbs/ginseng.md)·[당삼](../herbs/codonopsis.md)·[태자삼](../herbs/pseudostellaria.md) | 보기와 생진을 어떤 비중으로 결합하는가? | Panax·Codonopsis·Pseudostellaria는 서로 다른 식물; 인삼 원방을 당삼·태자삼으로 바꾼 경우 대체·가감방으로 기록 |
+| [옥죽](../herbs/polygonatum-odoratum.md)·[황정](../herbs/polygonatum-sibiricum.md) | 양음윤조와 보비·보신의 비중은 어떻게 다른가? | 같은 Polygonatum속이라도 기원종·약용 근경·증숙 여부와 시험한 다당류 분획을 구분 |
+| [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md) | 폐조·진액손상과 청열·안신 배합은 어떻게 연결되는가? | Asparagus와 Ophiopogon의 괴근; 거심 등 포제와 스테로이드 사포닌의 개별 구조를 확인 |
+| [산약](../herbs/dioscorea.md)·[연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md) | 비허·습·고삽 가운데 어떤 축을 보완하는가? | 산약의 근경, 연자육의 종자와 연자심의 배아, 백편두의 종자·거피·초제를 구별 |
+
+[삼령백출산](../formulas/shenling-baizhu-san.md#original-pattern-course)은 사군자탕의 보기건비에 산약·연육·백편두 등의 배합을 더합니다. 국방의 대량 산제와 동의보감 수록형의 비율·포제 차이도 함께 읽습니다. [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md)은 연육·산약·천문동 등을 포함하지만 태음인 간열폐조·조열의 병증 체계에서 설명하므로, 공통 약재만으로 두 처방을 같은 건비지사방으로 묶지 않습니다.
+
+성분 분석은 원료 동정과 품질의 단서입니다. 당삼의 lobetyolin, 태자삼의 heterophyllin B, 옥죽의 프룩탄, 천문동의 사포닌 연구가 각각 보기·보음의 임상효과 전체를 입증하는 것은 아닙니다. 연자심 알칼로이드 연구를 연자육 종자 전체의 결과로 옮기지 않는 것도 같은 원칙입니다.
+
+보기·보음이라는 용어의 의학사적 차이는 [왕기의 영위론과 인삼·황기](../physicians/zhu-danxi.md#wang-ji), 좌귀·우귀의 보법은 [장경악의 진음·진양 논의](../physicians/zhang-jingyue.md#danxi-debate)에서 이어 읽습니다. 학설의 이름보다 실제 처방의 구성·병증을 함께 비교합니다.
 
 ## 익기보혈탕·보중익기탕·자음건비탕과 기혈 보약 비교 {#five-tonic-contexts}
 

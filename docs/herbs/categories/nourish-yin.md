@@ -36,6 +36,8 @@ last_reviewed: '2026-10-07'
 
 [당삼](../codonopsis.md)·[태자삼](../pseudostellaria.md)은 기허와 진액 부족이 함께 있는 배합을, [황정](../polygonatum-sibiricum.md)·[옥죽](../polygonatum-odoratum.md)은 보익·윤조의 차이를 살핍니다. [여정실](../ligustrum-fruit.md)·[한련초](../eclipta.md)는 간신 음혈을 함께 보는 전통 배합에 연결되며, 인삼·맥문동·생지황과 원방·약용부위를 구분합니다.
 
+[옥죽의 근경·프룩탄](../polygonatum-odoratum.md#rhizome-fructans)과 [천문동의 사포닌 분획](../ophiopogon-extra.md#saponin-fractions)은 원료와 연구 시료를 구분하는 사례입니다. [보익 처방의 보기·생진·건비 비교](../../network/tonic-formula-compare.md#tonic-qi-digestion)에서 맥문동·인삼 및 삼령백출산의 건비 배합과 차이를 이어 볼 수 있습니다.
+
 ## 용량·제형과 품질
 고전 처방은 판본·고전 단위·제법 차이가 있으므로 현대 g 단위와 단순 동일시하지 않습니다. 본초 역시 기원식물·약용부위·법제·추출법에 따라 연구 결과와 실제 사용이 달라질 수 있습니다.
 
