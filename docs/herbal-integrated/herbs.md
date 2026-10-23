@@ -39,11 +39,12 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [녹용](../herbs/cervi-parvum-cornu.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md) | 보익간신·정혈·비신을 나누어 봄 | [공진단](../formulas/gongjin-dan.md) · [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | [오미자](../herbs/schisandra.md)·[맥문동](../herbs/ophiopogon.md) | 수렴과 양음·생진의 배합 | [생맥산](../formulas/shengmai-san.md) |
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
+| [황정](../herbs/polygonatum-sibiricum.md#processing-chemistry) | 보비·윤폐·보신과 증숙·자윤 | [보익약의 생진·자윤 비교](../herbs/categories/tonics.md) |
 | [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | [연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md)·[산약](../herbs/dioscorea.md) | 보비·건비와 지사 배합 | [삼령백출산](../formulas/shenling-baizhu-san.md) |
 | [구기자](../herbs/cornus-extra.md)·[숙지황](../herbs/prepared-rehmannia.md)·[국화](../herbs/chrysanthemum.md) | 자보간신·정혈과 명목 배합; 건조·허열의 동반 여부를 구분 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) · [기국지황환](../formulas/qiju-dihuang-wan.md) |
 | [토사자](../herbs/cuscuta-seed.md)·[구기자](../herbs/cornus-extra.md) | 보신익정·정혈과 수렴 배합 | [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |
-| [육종용](../herbs/cistanche.md)·[당귀](../herbs/angelica.md) | 익정혈과 윤장통변 | [제천전](../formulas/jichuan-jian.md) |
+| [육종용](../herbs/cistanche.md)·[당귀](../herbs/angelica.md) | 익정혈과 윤장통변 | [제천전](../formulas/jichuan-jian.md) · [보익·윤장 본초 비교](../network/tonic-formula-compare.md#tonic-bowel-herbs) |
 
 ## 이기·소화 {#_2}
 

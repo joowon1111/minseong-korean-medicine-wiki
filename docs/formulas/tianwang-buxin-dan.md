@@ -64,6 +64,8 @@ last_reviewed: 2026-09-06
 
 ## 처방 구조
 
+[백자인의 종인·거유·유지 품질](../herbs/thuja-seed.md#tonic-original)과 [복신의 부위·성분 비교](../herbs/poria-spirit.md#part-chemistry)를 함께 보면 炒研去油와 茯苓一用茯神이라는 원문의 차이를 구체적으로 확인할 수 있습니다. [보익·안신 본초 비교](../network/tonic-formula-compare.md#tonic-sleep-herbs)에서는 산조인·원지·용안육과 대조합니다.
+
 출전과 제형에 따라 약미가 달라질 수 있지만, 임상 구조는 다음 네 층으로 이해할 수 있습니다.
 
 아래 표는 위 수록본의 배합 역할을 설명합니다. 복령·복신의 선택과 후대 가미는 실제 수록본·제제에 따라 구분합니다.

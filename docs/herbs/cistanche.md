@@ -18,6 +18,17 @@ last_reviewed: '2026-10-07'
 | 성미 | 감·함, 온 |
 | 전통 효능 | 보신양·익정혈·윤장통변 |
 
+## 원문으로 읽는 약재와 포제 {#tonic-original}
+
+《동의보감》 탕액편 「肉蓯蓉」의 공개 전사입니다.
+
+> 潤五藏 長肌肉 煖腰膝
+
+**우리말 풀이:** 오장을 윤택하게 하고 몸의 소모와 허리·무릎의 냉함을 보완한다는 전통적 설명입니다. 항목의 酒浸去鱗甲은 술을 이용한 가공과 비늘 모양 부분의 처리를 기록합니다. 제천전의 酒洗去咸과는 문헌·공정 표기를 나누어 읽습니다.
+
+[원문 항목·영인 위치](../classics/donguibogam/original.md?record=tangaek-2-5a107c65bedb#reader) · [사용 전사의 고정판](https://ko.wikisource.org/w/index.php?oldid=417205). 한국어 풀이는 자체 작성했으며 전사 기여 이력·CC BY-SA 4.0 이용조건은 [자료 안내](../classics/donguibogam/original.md#sources)에 표시합니다.
+
+
 ## 대표 처방에서 맡는 역할
 
 | 처방 | 배합에서 읽는 역할 |
@@ -31,6 +42,26 @@ last_reviewed: '2026-10-07'
 ## 비슷한 본초와 구분
 
 [대황](rhubarb.md)의 공하와 달리 보익·윤장의 방향에서 봅니다. [당귀](angelica.md)는 보혈과 윤장, [숙지황](prepared-rehmannia.md)은 보혈자음을 함께 비교합니다. 같은 변비라도 실열·기체·정혈부족의 처방 구조가 다릅니다.
+
+## 육질 줄기·기원종·성분을 구분하기 {#species-extracts}
+
+육종용은 기생식물의 **육질 줄기**를 쓰며 뿌리·꽃·추출물만을 뜻하지 않습니다. 현대 연구는 *Cistanche deserticola*·*C. tubulosa* 등을 구분하므로 해당 공정서의 원료와 시험 재료를 확인합니다.
+
+| 성분·재료 | 연구에서 구별할 내용 |
+|---|---|
+| phenylethanoid glycosides | echinacoside·acteoside(verbascoside)·isoacteoside 등 |
+| 수용성 다당류 분획 | 추출·정제·구성당과 장·면역 모델 |
+| 생품·주제품·절편 | 수분·포제·건조·보관 및 원생약량 |
+| 표준화 추출물·은행잎 병용 제품 | 각 추출물의 함량·조성, 단미와 복합 중재의 차이 |
+
+2019년 UPLC 연구는 세 Cistanche 종의 일곱 지표와 성분비를 비교했습니다. 지표성분 비율은 기원 감별에 유용하지만 정량값만으로 임상적 우열을 정하지 않습니다. [원료 비교 원 논문](https://pubmed.ncbi.nlm.nih.gov/31602949/)
+
+## 사람 연구와 제천전의 연결 {#human-formula-evidence}
+
+2024년 무작위 이중맹검 위약대조시험은 중장년층의 인지기능에 대해 **C. tubulosa와 은행잎 추출물을 함께 사용한 제제**를 평가했습니다. 단미 육종용이나 제천전의 윤장통변 시험으로 인용하지 않습니다. 기억검사·삶의 질과 실제 배변·일상 기능은 각각의 결과입니다. [복합제 원 논문·PMID 38972848](https://pubmed.ncbi.nlm.nih.gov/38972848/)
+
+제천전에서는 당귀의 양혈윤장과 육종용의 익정·윤장에 승마·지각의 승강, 우슬·택사의 하초 조절을 결합합니다. 변의 굳음·힘주기·자발배변 횟수·배변 뒤 피로를 나누어 보면 ‘보신약이면서 통변한다’는 설명이 구체화됩니다. [제천전 원문의 허비](../formulas/jichuan-jian.md#original-pattern-course) · [보익·윤장 본초 비교](../network/tonic-formula-compare.md#tonic-bowel-herbs)
+
 
 ## 실제 활용에서 확인할 점
 
