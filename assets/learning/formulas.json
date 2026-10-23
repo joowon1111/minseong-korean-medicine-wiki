@@ -208,10 +208,6 @@
         {
           "label": "수치·법제 확인",
           "value": "인삼·황기와 숙지황·당귀의 실제 원료·포제 확인"
-        },
-        {
-          "label": "원문 배합축",
-          "value": "보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌"
         }
       ],
       "source": "/formulas/renshen-yangrong-tang/",
@@ -3241,16 +3237,16 @@
           "source": "/formulas/buzhong-yiqi-tang/"
         },
         {
+          "text": "보기보폐 — 인삼·황기 — 폐기와 전신 기력을 보강 / 자음·정기 보완 — 숙지황 — 오래된 소모와 허손의 바탕을 돌봄 / 수렴 — 오미자 — 흩어지는 폐기를 거두고 오래된 기침을 도움 / 지해·폐기 조절 — 자완·상백피 — 기침과 폐기의 상역을 조절",
+          "owner": "보폐탕",
+          "ownerId": "formula-bufei-tang",
+          "source": "/formulas/bufei-tang/"
+        },
+        {
           "text": "인삼 — 원기·비기를 보함 — 기를 보하는 중심 / 백출 — 건비·조습 — 비위를 보하면서 습을 살핌 / 복령 — 건비·삼습 — 비위와 수습의 조절을 함께 받침 / 자감초 — 보기·조화제약 — 보기·완급을 돕고 전체 배합을 조화",
           "owner": "사군자탕",
           "ownerId": "formula-sijunzi-tang",
           "source": "/formulas/sijunzi-tang/"
-        },
-        {
-          "text": "보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
         }
       ],
       "answer": 1,
@@ -3278,10 +3274,10 @@
           "source": "/formulas/sijunzi-tang/"
         },
         {
-          "text": "인삼양영탕",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
+          "text": "보폐탕",
+          "owner": "보폐탕",
+          "ownerId": "formula-bufei-tang",
+          "source": "/formulas/bufei-tang/"
         },
         {
           "text": "보중익기탕",
@@ -3411,16 +3407,16 @@
       "prompt": "귀비탕의 원문 배합축으로 정리된 것은?",
       "options": [
         {
+          "text": "보기·건비 — 황기·인삼·백출·감초 — 중초의 기와 식사·활동을 받치는 중심축 / 승양거함 — 승마·시호 — 처지고 내려앉는 청양을 들어 올리는 방향 / 양혈 — 당귀 — 오래된 기허와 함께 소모된 혈분을 보조 / 이기 — 진피 — 보약의 체기를 줄이고 비위의 기기운행을 도움",
+          "owner": "보중익기탕",
+          "ownerId": "formula-buzhong-yiqi-tang",
+          "source": "/formulas/buzhong-yiqi-tang/"
+        },
+        {
           "text": "보기건비 — 인삼·황기·백출·감초 — 비기를 보해 기혈 생성과 식욕·회복의 바탕을 세움 / 보혈양심 — 당귀·용안육 — 심혈을 보완해 심계·건망·안색저하와 수면을 받침 / 양심안신 — 산조인·원지·복신 — 생각이 많고 꿈이 잦으며 쉽게 깨는 양상을 안정 / 이기성비 — 목향 — 보익약이 소화에 부담을 주지 않도록 기기를 조절",
           "owner": "귀비탕",
           "ownerId": "formula-guibi-tang",
           "source": "/formulas/guibi-tang/"
-        },
-        {
-          "text": "보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
         },
         {
           "text": "보기축 — 인삼·백출·복령·자감초 — 비위를 돕고 기혈 회복의 기반을 마련 / 보혈축 — 숙지황·당귀·백작약·천궁 — 혈을 기르고 조화하며 순환을 보조",
@@ -3435,7 +3431,7 @@
           "source": "/formulas/sijunzi-tang/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "귀비탕 — 원문 배합축: 보기건비 — 인삼·황기·백출·감초 — 비기를 보해 기혈 생성과 식욕·회복의 바탕을 세움 / 보혈양심 — 당귀·용안육 — 심혈을 보완해 심계·건망·안색저하와 수면을 받침 / 양심안신 — 산조인·원지·복신 — 생각이 많고 꿈이 잦으며 쉽게 깨는 양상을 안정 / 이기성비 — 목향 — 보익약이 소화에 부담을 주지 않도록 기기를 조절",
       "source": "/formulas/guibi-tang/"
     },
@@ -3466,10 +3462,10 @@
           "source": "/formulas/guibi-tang/"
         },
         {
-          "text": "인삼양영탕",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
+          "text": "보중익기탕",
+          "owner": "보중익기탕",
+          "ownerId": "formula-buzhong-yiqi-tang",
+          "source": "/formulas/buzhong-yiqi-tang/"
         }
       ],
       "answer": 2,
@@ -3804,79 +3800,6 @@
       "source": "/formulas/renshen-yangrong-tang/"
     },
     {
-      "id": "formula-renshen-yangrong-tang-fact-원문 배합축",
-      "cardId": "formula-renshen-yangrong-tang",
-      "category": "보기·기혈·회복",
-      "kind": "fact",
-      "prompt": "인삼양영탕의 원문 배합축으로 정리된 것은?",
-      "options": [
-        {
-          "text": "보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
-        },
-        {
-          "text": "보기·건비 — 황기·인삼·백출·감초 — 중초의 기와 식사·활동을 받치는 중심축 / 승양거함 — 승마·시호 — 처지고 내려앉는 청양을 들어 올리는 방향 / 양혈 — 당귀 — 오래된 기허와 함께 소모된 혈분을 보조 / 이기 — 진피 — 보약의 체기를 줄이고 비위의 기기운행을 도움",
-          "owner": "보중익기탕",
-          "ownerId": "formula-buzhong-yiqi-tang",
-          "source": "/formulas/buzhong-yiqi-tang/"
-        },
-        {
-          "text": "양혈·유근 — 백작약·당귀·숙지황·천궁 — 소모된 혈분을 보완하고 근육의 당김과 회복을 도움 / 보기 — 황기 — 과로 뒤 무력감과 회복력 저하를 받침 / 온통·영위조화 — 계피·감초·생강·대조 — 따뜻하게 순환시키고 영위와 처방 전체를 조화",
-          "owner": "쌍화탕",
-          "ownerId": "formula-ssanghwa-tang",
-          "source": "/formulas/ssanghwa-tang/"
-        },
-        {
-          "text": "보기건비 — 인삼·황기·백출·감초 — 비기를 보해 기혈 생성과 식욕·회복의 바탕을 세움 / 보혈양심 — 당귀·용안육 — 심혈을 보완해 심계·건망·안색저하와 수면을 받침 / 양심안신 — 산조인·원지·복신 — 생각이 많고 꿈이 잦으며 쉽게 깨는 양상을 안정 / 이기성비 — 목향 — 보익약이 소화에 부담을 주지 않도록 기기를 조절",
-          "owner": "귀비탕",
-          "ownerId": "formula-guibi-tang",
-          "source": "/formulas/guibi-tang/"
-        }
-      ],
-      "answer": 0,
-      "explanation": "인삼양영탕 — 원문 배합축: 보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-      "source": "/formulas/renshen-yangrong-tang/"
-    },
-    {
-      "id": "formula-renshen-yangrong-tang-recall-원문 배합축",
-      "cardId": "formula-renshen-yangrong-tang",
-      "category": "보기·기혈·회복",
-      "kind": "recall",
-      "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "원문 배합축: 보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-      "options": [
-        {
-          "text": "인삼양영탕",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
-        },
-        {
-          "text": "쌍화탕",
-          "owner": "쌍화탕",
-          "ownerId": "formula-ssanghwa-tang",
-          "source": "/formulas/ssanghwa-tang/"
-        },
-        {
-          "text": "보중익기탕",
-          "owner": "보중익기탕",
-          "ownerId": "formula-buzhong-yiqi-tang",
-          "source": "/formulas/buzhong-yiqi-tang/"
-        },
-        {
-          "text": "귀비탕",
-          "owner": "귀비탕",
-          "ownerId": "formula-guibi-tang",
-          "source": "/formulas/guibi-tang/"
-        }
-      ],
-      "answer": 0,
-      "explanation": "인삼양영탕 — 원문 배합축: 보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-      "source": "/formulas/renshen-yangrong-tang/"
-    },
-    {
       "id": "formula-ssanghwa-tang-fact-구조 읽기",
       "cardId": "formula-ssanghwa-tang",
       "category": "보기·기혈·회복",
@@ -3993,10 +3916,10 @@
       "prompt": "쌍화탕의 원문 배합축으로 정리된 것은?",
       "options": [
         {
-          "text": "보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
+          "text": "인삼 — 보기·원기 — 활동과 회복을 지지하는 기의 축 / 생지황 — 양음·생진 — 소모된 진액과 정을 보조하는 축 / 복령 — 건비·수습 — 보하는 약을 받아들이는 비위와 수분대사를 고려 / 봉밀 — 보중·윤조·완급 — 네 재료를 조화시키고 고제의 바탕을 형성",
+          "owner": "경옥고",
+          "ownerId": "formula-gyeongok-go",
+          "source": "/formulas/gyeongok-go/"
         },
         {
           "text": "양혈·유근 — 백작약·당귀·숙지황·천궁 — 소모된 혈분을 보완하고 근육의 당김과 회복을 도움 / 보기 — 황기 — 과로 뒤 무력감과 회복력 저하를 받침 / 온통·영위조화 — 계피·감초·생강·대조 — 따뜻하게 순환시키고 영위와 처방 전체를 조화",
@@ -4030,12 +3953,6 @@
       "context": "원문 배합축: 양혈·유근 — 백작약·당귀·숙지황·천궁 — 소모된 혈분을 보완하고 근육의 당김과 회복을 도움 / 보기 — 황기 — 과로 뒤 무력감과 회복력 저하를 받침 / 온통·영위조화 — 계피·감초·생강·대조 — 따뜻하게 순환시키고 영위와 처방 전체를 조화",
       "options": [
         {
-          "text": "인삼양영탕",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
-        },
-        {
           "text": "쌍화탕",
           "owner": "쌍화탕",
           "ownerId": "formula-ssanghwa-tang",
@@ -4048,13 +3965,19 @@
           "source": "/formulas/bazhen-tang/"
         },
         {
+          "text": "경옥고",
+          "owner": "경옥고",
+          "ownerId": "formula-gyeongok-go",
+          "source": "/formulas/gyeongok-go/"
+        },
+        {
           "text": "자감초탕",
           "owner": "자감초탕",
           "ownerId": "formula-zhigancao-tang",
           "source": "/formulas/zhigancao-tang/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "쌍화탕 — 원문 배합축: 양혈·유근 — 백작약·당귀·숙지황·천궁 — 소모된 혈분을 보완하고 근육의 당김과 회복을 도움 / 보기 — 황기 — 과로 뒤 무력감과 회복력 저하를 받침 / 온통·영위조화 — 계피·감초·생강·대조 — 따뜻하게 순환시키고 영위와 처방 전체를 조화",
       "source": "/formulas/ssanghwa-tang/"
     },
@@ -4284,12 +4207,6 @@
       "prompt": "보폐탕의 원문 배합축으로 정리된 것은?",
       "options": [
         {
-          "text": "보기·건비 — 인삼·황기·백출·감초 — 기력·식욕과 비위의 운화를 받침 / 양혈·화영 — 백작약·당귀·숙지황 — 혈과 영분의 부족, 안색·근육의 영양을 보완 / 온통·이기 — 육계·진피 — 허한을 덥히고 보약의 체기를 줄임 / 양심·수렴 — 원지·오미자 — 심계·건망·불안정한 수면과 소모를 함께 살핌",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
-        },
-        {
           "text": "보기보폐 — 인삼·황기 — 폐기와 전신 기력을 보강 / 자음·정기 보완 — 숙지황 — 오래된 소모와 허손의 바탕을 돌봄 / 수렴 — 오미자 — 흩어지는 폐기를 거두고 오래된 기침을 도움 / 지해·폐기 조절 — 자완·상백피 — 기침과 폐기의 상역을 조절",
           "owner": "보폐탕",
           "ownerId": "formula-bufei-tang",
@@ -4306,9 +4223,15 @@
           "owner": "쌍화탕",
           "ownerId": "formula-ssanghwa-tang",
           "source": "/formulas/ssanghwa-tang/"
+        },
+        {
+          "text": "인삼 — 보기·원기 — 활동과 회복을 지지하는 기의 축 / 생지황 — 양음·생진 — 소모된 진액과 정을 보조하는 축 / 복령 — 건비·수습 — 보하는 약을 받아들이는 비위와 수분대사를 고려 / 봉밀 — 보중·윤조·완급 — 네 재료를 조화시키고 고제의 바탕을 형성",
+          "owner": "경옥고",
+          "ownerId": "formula-gyeongok-go",
+          "source": "/formulas/gyeongok-go/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "보폐탕 — 원문 배합축: 보기보폐 — 인삼·황기 — 폐기와 전신 기력을 보강 / 자음·정기 보완 — 숙지황 — 오래된 소모와 허손의 바탕을 돌봄 / 수렴 — 오미자 — 흩어지는 폐기를 거두고 오래된 기침을 도움 / 지해·폐기 조절 — 자완·상백피 — 기침과 폐기의 상역을 조절",
       "source": "/formulas/bufei-tang/"
     },
@@ -4333,16 +4256,16 @@
           "source": "/formulas/ssanghwa-tang/"
         },
         {
+          "text": "경옥고",
+          "owner": "경옥고",
+          "ownerId": "formula-gyeongok-go",
+          "source": "/formulas/gyeongok-go/"
+        },
+        {
           "text": "보중익기탕",
           "owner": "보중익기탕",
           "ownerId": "formula-buzhong-yiqi-tang",
           "source": "/formulas/buzhong-yiqi-tang/"
-        },
-        {
-          "text": "인삼양영탕",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
         }
       ],
       "answer": 0,
@@ -4394,16 +4317,16 @@
       "context": "구조 읽기: 기혈음양을 함께 보하며 복맥",
       "options": [
         {
-          "text": "인삼양영탕",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
-        },
-        {
           "text": "공진단",
           "owner": "공진단",
           "ownerId": "formula-gongjin-dan",
           "source": "/formulas/gongjin-dan/"
+        },
+        {
+          "text": "인삼양영탕",
+          "owner": "인삼양영탕",
+          "ownerId": "formula-renshen-yangrong-tang",
+          "source": "/formulas/renshen-yangrong-tang/"
         },
         {
           "text": "자감초탕",
@@ -4576,16 +4499,16 @@
       "context": "구조 읽기: 영위기혈허·혈비",
       "options": [
         {
-          "text": "황기계지오물탕",
-          "owner": "황기계지오물탕",
-          "ownerId": "formula-huangqi-guizhi-wuwu-tang",
-          "source": "/formulas/huangqi-guizhi-wuwu-tang/"
-        },
-        {
           "text": "인삼양영탕",
           "owner": "인삼양영탕",
           "ownerId": "formula-renshen-yangrong-tang",
           "source": "/formulas/renshen-yangrong-tang/"
+        },
+        {
+          "text": "황기계지오물탕",
+          "owner": "황기계지오물탕",
+          "ownerId": "formula-huangqi-guizhi-wuwu-tang",
+          "source": "/formulas/huangqi-guizhi-wuwu-tang/"
         },
         {
           "text": "쌍화탕",
@@ -4600,7 +4523,7 @@
           "source": "/formulas/gongjin-dan/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "황기계지오물탕 — 구조 읽기: 영위기혈허·혈비",
       "source": "/formulas/huangqi-guizhi-wuwu-tang/"
     },
@@ -4697,19 +4620,19 @@
           "source": "/formulas/huangqi-guizhi-wuwu-tang/"
         },
         {
-          "text": "공진단",
-          "owner": "공진단",
-          "ownerId": "formula-gongjin-dan",
-          "source": "/formulas/gongjin-dan/"
-        },
-        {
           "text": "인삼양영탕",
           "owner": "인삼양영탕",
           "ownerId": "formula-renshen-yangrong-tang",
           "source": "/formulas/renshen-yangrong-tang/"
+        },
+        {
+          "text": "공진단",
+          "owner": "공진단",
+          "ownerId": "formula-gongjin-dan",
+          "source": "/formulas/gongjin-dan/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "공진단 — 구조 읽기: 정혈·기혈을 함께 보는 환제",
       "source": "/formulas/gongjin-dan/"
     },
