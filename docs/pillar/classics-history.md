@@ -23,6 +23,7 @@ last_reviewed: 2026-08-29
 | 처방의 구성과 출전 | [고전 처방 읽기](../classics/classical-formula-reading.md) | 원문 병증·약재·용량·제법·이본 |
 | 사상체질과 소증·병증 | [사상의학](../sasang/index.md) | 체질별 소증·현재 병증·원전·처방 |
 | 침구 고전과 경혈 | [침구갑을경](../classics/zhenjiu-jiayi-jing.md) · [침구대성](../classics/zhenjiu-dacheng.md) | 경혈·배혈의 출처와 현대 해부학 자료 |
+| 금원사대가와 음양·상화 논쟁 | [주단계의 양유여음부족론·상화론](../physicians/zhu-danxi.md#yang-yin-thesis) | [영위·온보·부양으로 이어진 전개](../history/index.md#danxi-reception) |
 | 배운 내용을 확인 | [학습실](../learning/index.md) | 관심 분야의 문제와 해설 |
 
 ## 주요 고전과 임상서의 위치 {#books}

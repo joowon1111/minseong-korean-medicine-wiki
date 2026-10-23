@@ -39,6 +39,7 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [녹용](../herbs/cervi-parvum-cornu.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md) | 보익간신·정혈·비신을 나누어 봄 | [공진단](../formulas/gongjin-dan.md) · [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) |
 | [오미자](../herbs/schisandra.md)·[맥문동](../herbs/ophiopogon.md) | 수렴과 양음·생진의 배합 | [생맥산](../formulas/shengmai-san.md) |
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | [귀비탕](../formulas/guibi-tang.md) |
+| [당삼](../herbs/codonopsis.md)·[태자삼](../herbs/pseudostellaria.md)·[옥죽](../herbs/polygonatum-odoratum.md) | 보기생진·양음윤조의 차이 | [기원·대체와 건비 배합 비교](../network/tonic-formula-compare.md#tonic-qi-digestion) |
 | [황정](../herbs/polygonatum-sibiricum.md#processing-chemistry) | 보비·윤폐·보신과 증숙·자윤 | [보익약의 생진·자윤 비교](../herbs/categories/tonics.md) |
 | [천문동](../herbs/ophiopogon-extra.md)·[맥문동](../herbs/ophiopogon.md)·[생지황](../herbs/rehmannia-root-fresh.md) | 양음·윤조와 양심안신 배합 | [천왕보심단](../formulas/tianwang-buxin-dan.md) |
 | [연자육](../herbs/lotus-seed.md)·[백편두](../herbs/lablab-seed.md)·[산약](../herbs/dioscorea.md) | 보비·건비와 지사 배합 | [삼령백출산](../formulas/shenling-baizhu-san.md) |

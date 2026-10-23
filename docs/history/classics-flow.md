@@ -15,6 +15,7 @@ last_reviewed: 2026-08-29
 | [상한론](../classics/shanghanlun.md) | 육경·맥증과 고방의 연결 |
 | [금궤요략](../classics/jinkui-yaolue.md) | 허로·담음·흉비·수기 등 잡병 임상 |
 | [비급천금요방](../classics/beiji-qianjin-yaofang.md) | 종합 임상·식치·양생·의덕 |
+| [격치여론·단계심법](../physicians/zhu-danxi.md#yang-yin-thesis) | 음정의 소모·상화·담울과 후대의 재해석 |
 | [비위론](../classics/piwei-lun.md) | 비위·원기·내상·보기승양 |
 | [의학입문](../classics/uihak-ipmun.md) | 기초·진단·본초·각과 임상을 연결한 종합 학습서 |
 | [동의보감](../classics/donguibogam.md) | 조선 한의학 지식의 체계적 집대성 |
@@ -39,6 +40,12 @@ last_reviewed: 2026-08-29
 - 근대 한국의 내경 해석은 소문대요
 - 근현대 한국 임상은 청강의감
 - 체질의학은 동의수세보원
+
+## 화·음양·보법의 논쟁을 따라 읽기 {#fire-tonification-debate}
+
+[《격치여론》](../physicians/zhu-danxi.md#ministerial-fire)의 상화는 정상적인 생명활동과 망동을 함께 설명합니다. 이후 [《석산의안》의 영위론](../physicians/zhu-danxi.md#wang-ji)은 영위의 기를 통해, [《의학정전》의 의학혹문](../physicians/zhu-danxi.md#yu-tuan)은 기허·혈허·양허·음허를 구별하여 단계의 문장을 다시 읽습니다.
+
+[《경악전서》의 진음·진양과 보법](../classics/jingyue-quanshu.md#danxi-context), [《소문대요》의 부양론](../classics/somun-daeyo.md#danxi-context)으로 이어가면 같은 《내경》이 서로 다른 치료 우선순위를 설명하는 데 활용된 과정을 볼 수 있습니다. 연대가 뒤라는 이유만으로 앞선 의학을 전부 대체한 것은 아니며, 각 문헌의 논증과 처방을 함께 비교합니다. [의학사의 전승·재해석 표](index.md#danxi-reception)
 
 ## 같은 지식도 편찬 목적에 따라 달라집니다 {#compilation-comparison}
 

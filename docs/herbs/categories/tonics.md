@@ -76,6 +76,8 @@ last_reviewed: '2026-10-07'
 
 [당삼](../codonopsis.md)·[태자삼](../pseudostellaria.md)은 보기와 생진의 결합, [황정](../polygonatum-sibiricum.md)은 비·폐·신 보익, [옥죽](../polygonatum-odoratum.md)은 양음윤조의 방향으로 읽습니다. 인삼·황기와 이름만으로 대체하지 않고 원방·기원·약용부위를 확인합니다. [황정의 증숙·성분과 국내 경증 불면 시험](../polygonatum-sibiricum.md#processing-chemistry)은 전통 보익과 특정 추출물의 임상결과를 나누어 설명합니다.
 
+[보기·생진과 건비 배합 비교](../../network/tonic-formula-compare.md#tonic-qi-digestion)에서는 인삼·당삼·태자삼의 기원과 대체 문제, 옥죽·천문동의 자윤, 연자육·백편두의 건비 배합을 나란히 읽습니다. [연자육](../lotus-seed.md#seed-embryo-chemistry)은 종자와 배아를, [백편두](../lablab-seed.md#seed-processing)는 거피·초제와 단백질 성분을 구분합니다.
+
 ## 대표 처방
 
 [보약 처방군별 핵심 본초 비교](../../network/tonic-formula-compare.md#core-tonic-herbs)는 공진단·경옥고와 보기·양혈·익정·안신 배합을 나누어 안내합니다. [구기자](../cornus-extra.md#tonic-original)·[두충](../eucommia.md#bark-human-evidence)의 부위·원문·연구와 [원지](../polygala.md)·[용안육](../longan.md)의 심신 회복 배합도 함께 볼 수 있습니다.
