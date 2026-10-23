@@ -57,6 +57,7 @@ last_reviewed: 2026-10-12
 | 생리 전 기분·몸 상태가 달라짐 | [PMS·PMDD](../conditions/pms.md) | 주기와의 관계·증상 없는 기간·일상 기능 |
 | 주기가 불규칙함 | [월경불순](../conditions/irregular-menstruation.md) | 주기·체중·갑상선·프로락틴·배란 |
 | 다낭성난소증후군 | [다낭성난소증후군](../conditions/polycystic-ovary-syndrome.md) | 배란·인슐린저항성·체중·여드름·다모 |
+| 가르마가 넓어지거나 산후 머리카락이 빠짐 | [여성형 탈모](../conditions/hair-loss.md#female-pattern) · [휴지기탈모](../conditions/hair-loss.md#telogen-effluvium) | 월경·출산 시점·철결핍·두피 소견; 임신·수유에 맞춘 치료 선택 |
 | 임신을 준비함 | [난임·임신준비](../conditions/infertility-preconception.md) | 여성·남성요인, 검사와 치료 시점 |
 | 난임시술 중임 | [시험관·인공수정 준비](../conditions/assisted-reproduction-support.md) | 난소자극·채취·이식·투약 일정 |
 | 출산·유산 뒤 회복이 더딤 | [산후회복](../conditions/postpartum-recovery.md) · [유산 후 회복](../conditions/miscarriage-recovery.md) | 출혈·빈혈·감염·수유·수면·정서 |
