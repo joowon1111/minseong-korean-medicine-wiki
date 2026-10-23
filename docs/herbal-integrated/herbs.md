@@ -28,6 +28,8 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 
 ## 보기·보혈·보음·보양 {#_1}
 
+공진단·경옥고부터 기혈·음양 보약까지 **[보약 처방군과 핵심 본초 비교](../network/tonic-formula-compare.md#core-tonic-herbs)**에서 함께 볼 수 있습니다. 약재명을 누르면 원문·포제·성분·처방별 역할로 이어집니다.
+
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|
 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus-tonic-guide.md)·[백출](../herbs/atractylodes.md) | 보기·건비; 식욕·소화와 함께 보는 기력저하 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [귀비탕](../formulas/guibi-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [십전대보탕](../formulas/shi-quan-da-bu-tang.md) |
@@ -117,6 +119,8 @@ description: 주요 본초 효능의 공통 정의와 주치·병기에서 대�
 | [유근피](../herbs/elm-root-bark.md) | 뿌리껍질·줄기껍질을 구분해 이수·소종과 점액질 특성을 확인 | [이수·거습 본초](../herbs/categories/drain-damp.md) |
 
 ## 안신·정신 {#_7}
+
+기력·식욕 저하에 수면·심계·건망이 겹치는 배합은 [귀비탕·인삼양영탕과 안신 본초 비교](../network/tonic-formula-compare.md#tonic-sleep-herbs)에서 산조인·원지·용안육의 차이를 연결해 봅니다.
 
 | 본초군 | 핵심 | 대표 처방·관련 문서 |
 |---|---|---|

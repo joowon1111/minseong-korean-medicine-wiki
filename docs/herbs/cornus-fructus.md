@@ -43,6 +43,9 @@ last_reviewed: 2026-10-23
 
 ## 대표 처방에서 역할이 달라지는 이유
 
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
+
 | 처방 | 처방의 중심 | 산수유의 역할 |
 |---|---|---|
 | [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) | 신음부족의 삼보삼사 구조 | 숙지황의 자음익정, 산약의 보비익신과 함께 보익축을 이루며 정을 거둠 |

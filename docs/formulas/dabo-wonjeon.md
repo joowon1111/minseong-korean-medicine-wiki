@@ -75,6 +75,8 @@ last_reviewed: 2026-10-08
 
 ### 대보원전과 십전대보탕의 보익 방향 {#yuanjian-tonification-differential}
 
+[구기자의 열매·성분·사람 연구](../herbs/cornus-extra.md#tonic-original)와 [두충 수피·리그난·임상시험](../herbs/eucommia.md#bark-human-evidence)을 구분하면 정혈·근골 배합을 구체적으로 볼 수 있습니다. [보약 처방군별 본초 비교](../network/tonic-formula-compare.md#core-tonic-herbs)에서 좌귀환·우귀환과의 구성을 함께 확인합니다.
+
 대보원전은 인삼·숙지황의 기와 정혈을 중심에 놓고 산약·산수유·구기자·두충으로 허리·무릎과 장기 회복의 바탕을 받칩니다. 십전대보탕의 황기·백출·복령·작약·천궁을 기본 목록에 모두 포함하는 구조는 아니므로, 이름의 ‘대보’가 같다는 이유로 같은 기혈쌍보방으로 요약하지 않습니다.
 
 | 비교할 골격 | 대보원전과의 차이 |

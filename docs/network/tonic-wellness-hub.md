@@ -95,7 +95,10 @@ last_reviewed: 2026-08-19
 - [생맥산](../formulas/shengmai-san.md)
 
 ## 보익 처방을 한눈에 비교
-→ [보익 처방 비교](tonic-formula-compare.md)
+
+[보약 처방 비교와 핵심 본초](tonic-formula-compare.md#core-tonic-herbs)에서 공진단·경옥고, 기혈 보약, 귀비탕·인삼양영탕, 대보원전·좌귀환·우귀환을 비교합니다. 구성 본초를 누르면 원문·포제·성분과 연구로, 처방명을 누르면 출전별 배합·용량으로 이동합니다.
+
+기력과 수면을 함께 보는 [산조인·원지·용안육 배합](tonic-formula-compare.md#tonic-sleep-herbs), 정혈과 요슬을 보는 [구기자](../herbs/cornus-extra.md)·[두충](../herbs/eucommia.md)도 이 경로에서 이어집니다.
 
 ## 피로·회복으로 연결
 → [피로·회복 지식망](recovery-map.md)

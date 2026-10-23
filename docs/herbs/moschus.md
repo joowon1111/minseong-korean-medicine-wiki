@@ -59,6 +59,9 @@ tags: [사향, 공진단, 개규, 본초, 보약]
 
 
 ## 관련 문서
+
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
 - [사향을 바치던 고을에 내려온 뜻밖의 명령 — 민성의담](../classical-stories/musk-tribute-and-village.md)
 - [공진단](../formulas/gongjin-dan.md)
 - [산수유](cornus-fructus.md)

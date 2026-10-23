@@ -1,7 +1,8 @@
 ---
 title: 보익 처방 비교
-description: 공진단·경옥고·보중익기탕·십전대보탕·생맥산의 한의학적 방향과 대표 구성을 비교합니다.
-tags: [한의학지식망, 보익제, 공진단, 경옥고, 십전대보탕]
+search_title: "보약 처방 비교: 공진단·경옥고·귀비탕·인삼양영탕과 핵심 본초"
+description: 공진단·경옥고·귀비탕·인삼양영탕·대보원전과 주요 보약의 구성·배합·출전 차이를 비교하고 핵심 본초의 원문·포제·성분·임상 연구로 연결합니다.
+tags: [한의학지식망, 보약, 보익제, 공진단, 경옥고, 귀비탕, 인삼양영탕, 대보원전]
 status: 검토완료
 last_reviewed: 2026-10-23
 ---
@@ -29,6 +30,10 @@ last_reviewed: 2026-10-23
 
 ## 보약 처방군의 핵심 본초를 따라 읽기 {#core-tonic-herbs}
 
+[효능별 본초 찾기](../herbal-integrated/herbs.md#_1) · [보익 방제 찾기](../herbal-integrated/formulas.md) · [보익약 분류](../herbs/categories/tonics.md) · [피로·회복의 평가와 치료](../pillar/tonic-recovery.md#_5)
+
+본초 이름으로 찾았다면 각 약재의 **처방별 역할**에서 이 비교표로 돌아와 배합을 비교할 수 있습니다. 고전 원문은 본초의 원문 뷰어로, 실제 처방의 약미·용량은 처방 문서로 연결됩니다.
+
 같은 본초가 여러 처방에 들어가도 **짝약·비율·포제·제형**에 따라 맡는 자리가 달라집니다. 아래 표는 약재를 더 많이 넣기 위한 목록보다 처방 구조와 실제 원료를 확인하는 안내입니다.
 
 | 처방군 | 핵심 본초와 심화 문서 | 배합에서 읽을 차이 |
@@ -38,9 +43,24 @@ last_reviewed: 2026-10-23
 | 사군자탕·보중익기탕 계열 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md#fraction-human-evidence)·[백출](../herbs/atractylodes.md#species-fractions)·[복령](../herbs/poria.md)·[감초](../herbs/licorice.md#tonic-exposure) | 보기·건비·삼습·승양의 비중; 공통 약재의 중복 노출 |
 | 사물탕·십전대보탕·인삼양영탕 계열 | [당귀](../herbs/angelica.md#tonic-combinations)·[숙지황](../herbs/prepared-rehmannia.md#processing-chemistry)·[백작약](../herbs/white-peony.md#tonic-ratio)·[황기](../herbs/astragalus.md)·[육계](../herbs/cinnamon-bark.md#tonic-volatile-fraction) | 양혈과 보기·온통; 천궁 유무, 작약 비율·지황 포제·복령/방풍 이본 |
 | 육미지황환·좌귀환·우귀환 계열 | [숙지황](../herbs/prepared-rehmannia.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md#fractions-and-tonic-context) | 자음익정·수렴·보비익신; 온양약·교질약의 가감 |
+| 대보원전·간신·정혈 보익 | [구기자](../herbs/cornus-extra.md#tonic-original)·[두충](../herbs/eucommia.md#bark-human-evidence)·[숙지황](../herbs/prepared-rehmannia.md)·[산약](../herbs/dioscorea.md) | 과실의 자양·수피의 근골 보익·중초의 수용; 좌귀환·우귀환의 교류·온양축과 구분 |
+| 귀비탕·심비 보익 및 인삼양영탕 | [산조인](../herbs/ziziphus-seed.md#seed-human-trial)·[원지](../herbs/polygala.md#tonic-original)·[용안육](../herbs/longan.md#tonic-original) | 세 약재를 모두 포함하는 귀비탕 후대형과 원지·오미자 중심 인삼양영탕의 구성 차이 |
+| 보혈방의 행혈·보익방의 이기 | [천궁](../herbs/chuanxiong.md#tonic-species-chemistry)·[진피](../herbs/citrus-peel.md#tonic-aging-chemistry) | 천궁은 사물탕 계열의 행혈, 진피는 보기·기혈 보약의 이기; 둘을 보익약 한 범주로 합치지 않음 |
 | 생맥산·기음 보완 계열 | [인삼](../herbs/ginseng.md)·[맥문동](../herbs/ophiopogon.md#species-and-fractions)·[오미자](../herbs/schisandra.md#lignans-interactions) | 보기·양음·수렴; 기원종·추출 분획과 병용약 |
 
 각 본초 문서는 고전의 짧은 원문을 원문 뷰어와 연결하고, 성분·포제·배합 및 사람 연구의 범위를 나누어 설명합니다. **원약재 → 추출·분획 → 분리성분 → 복합처방 완제품**을 구분하면 실험 결과를 실제 처방에 어디까지 연결할 수 있는지 판단하기 쉽습니다.
+
+## 기력·식욕·수면이 함께 저하될 때의 본초 비교 {#tonic-sleep-herbs}
+
+| 본초·처방 | 중심 배합 | 다음에 확인할 내용 |
+|---|---|---|
+| [산조인](../herbs/ziziphus-seed.md) | 양혈안신·허번·렴한 | 종자·초제품·단미 수면시험과 복합처방 연구 |
+| [원지](../herbs/polygala.md) | 안신익지·교통심신·거담개규 | 거심·감초수 가공, 사포닌·BT-11 추출물 연구 |
+| [용안육](../herbs/longan.md) | 보익심비·양혈안신 | 가종피·당질·다당류-단백질 분획 |
+| [귀비탕](../formulas/guibi-tang.md#donguibogam-version) | 보기건비·양혈안신 | 초기 8미형과 당귀·원지가 추가된 후대형 |
+| [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants) | 익기양혈과 원지·오미자 | 작약 비중, 복령/방풍·桂心/肉桂 수록형 |
+
+귀비탕과 인삼양영탕을 ‘수면 보약’이라는 이름으로 대체하지 않습니다. 식사·기력·안색·체중과 심계·건망·수면이 함께 변하는지, 각 수록형이 어떤 약미와 비율을 택했는지 확인합니다. [안신 본초 비교](../herbs/categories/calm-spirit.md#calm-spirit-herbs)와 [귀비탕·온담탕 감별](../compare/guibi-vs-wendan.md)에서 담음·허열의 동반 차이를 이어 볼 수 있습니다.
 
 ## 익기보혈탕·보중익기탕·자음건비탕과 기혈 보약 비교 {#five-tonic-contexts}
 

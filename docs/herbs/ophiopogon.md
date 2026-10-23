@@ -48,6 +48,9 @@ last_reviewed: 2026-10-23
 
 ## 대표 처방에서의 역할
 
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
+
 | 처방 | 맥문동이 맡는 역할 | 처방 전체의 방향 |
 |---|---|---|
 | [맥문동탕](../authority/formulas/maidong-tang.md) | 폐위의 음을 기르고 윤폐하면서 반하의 강역과 균형 | 오래가는 마른기침·기역 |

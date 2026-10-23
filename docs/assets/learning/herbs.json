@@ -980,6 +980,10 @@
           "value": "Lycii Fructus"
         },
         {
+          "label": "약용 부위",
+          "value": "성숙한 열매"
+        },
+        {
           "label": "성미",
           "value": "감, 평"
         },
@@ -989,7 +993,7 @@
         },
         {
           "label": "전통 효능",
-          "value": "자보간신, 익정명목"
+          "value": "자보간신·익정명목"
         },
         {
           "label": "배합 예",
@@ -1886,6 +1890,10 @@
           "value": "Longan Arillus"
         },
         {
+          "label": "약용 부위",
+          "value": "씨를 둘러싼 가종피"
+        },
+        {
           "label": "성미",
           "value": "감, 온"
         },
@@ -1895,7 +1903,7 @@
         },
         {
           "label": "전통 효능",
-          "value": "보익심비, 양혈안신"
+          "value": "보익심비·양혈안신"
         }
       ],
       "source": "/herbs/longan/",
@@ -2486,6 +2494,10 @@
           "value": "Polygalae Radix"
         },
         {
+          "label": "약용 부위",
+          "value": "뿌리; 원지육·거심·제원지 등 가공 기록 확인"
+        },
+        {
           "label": "성미",
           "value": "고·신, 온"
         },
@@ -2495,7 +2507,7 @@
         },
         {
           "label": "전통 효능",
-          "value": "안신익지, 교통심신, 거담개규"
+          "value": "안신익지·교통심신·거담개규"
         }
       ],
       "source": "/herbs/polygala/",
@@ -6101,12 +6113,6 @@
           "source": "/herbs/alpinia-oxyphylla/"
         },
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "황기(黃芪)",
           "owner": "황기(黃芪)",
           "ownerId": "herb-astragalus",
@@ -6117,6 +6123,12 @@
           "owner": "대추·대조(大棗)",
           "ownerId": "herb-jujube-fruit",
           "source": "/herbs/jujube-fruit/"
+        },
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         }
       ],
       "answer": 0,
@@ -9263,12 +9275,6 @@
           "source": "/herbs/platycodon/"
         },
         {
-          "text": "원지(遠志)",
-          "owner": "원지(遠志)",
-          "ownerId": "herb-polygala",
-          "source": "/herbs/polygala/"
-        },
-        {
           "text": "시호(柴胡)",
           "owner": "시호(柴胡)",
           "ownerId": "herb-bupleurum",
@@ -9279,9 +9285,15 @@
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "원지(遠志)",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "시호(柴胡) — 생약명: Bupleuri Radix",
       "source": "/herbs/bupleurum/"
     },
@@ -9372,10 +9384,10 @@
           "source": "/herbs/citrus-immature/"
         },
         {
-          "text": "차조기류의 성숙한 열매",
-          "owner": "자소자·소자(紫蘇子)",
-          "ownerId": "herb-perilla-fruit",
-          "source": "/herbs/perilla-fruit/"
+          "text": "뿌리; 원지육·거심·제원지 등 가공 기록 확인",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
         },
         {
           "text": "뿌리",
@@ -11552,16 +11564,16 @@
           "source": "/herbs/acanthopanax-bark/"
         },
         {
-          "text": "자보간신, 익정명목",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "보신익정·양간명목·고삽",
           "owner": "토사자(菟絲子)",
           "ownerId": "herb-cuscuta-seed",
           "source": "/herbs/cuscuta-seed/"
+        },
+        {
+          "text": "자보간신·익정명목",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         },
         {
           "text": "보간신(補肝腎) · 강근골(強筋骨) · 안태(安胎)",
@@ -11570,8 +11582,8 @@
           "source": "/herbs/eucommia/"
         }
       ],
-      "answer": 1,
-      "explanation": "구기자(枸杞子) — 전통 효능: 자보간신, 익정명목",
+      "answer": 2,
+      "explanation": "구기자(枸杞子) — 전통 효능: 자보간신·익정명목",
       "source": "/herbs/cornus-extra/"
     },
     {
@@ -11580,7 +11592,7 @@
       "category": "보익·수삽",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "전통 효능: 자보간신, 익정명목",
+      "context": "전통 효능: 자보간신·익정명목",
       "options": [
         {
           "text": "두충(杜仲)",
@@ -11589,16 +11601,16 @@
           "source": "/herbs/eucommia/"
         },
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "토사자(菟絲子)",
           "owner": "토사자(菟絲子)",
           "ownerId": "herb-cuscuta-seed",
           "source": "/herbs/cuscuta-seed/"
+        },
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         },
         {
           "text": "오가피(五加皮)",
@@ -11607,8 +11619,44 @@
           "source": "/herbs/acanthopanax-bark/"
         }
       ],
-      "answer": 1,
-      "explanation": "구기자(枸杞子) — 전통 효능: 자보간신, 익정명목",
+      "answer": 2,
+      "explanation": "구기자(枸杞子) — 전통 효능: 자보간신·익정명목",
+      "source": "/herbs/cornus-extra/"
+    },
+    {
+      "id": "herb-cornus-extra-fact-약용 부위",
+      "cardId": "herb-cornus-extra",
+      "category": "보익·수삽",
+      "kind": "fact",
+      "prompt": "구기자(枸杞子)의 약용 부위으로 정리된 것은?",
+      "options": [
+        {
+          "text": "성숙한 열매의 과육, 통상 씨를 제거한 산수유육",
+          "owner": "산수유(山茱萸)",
+          "ownerId": "herb-cornus-fructus",
+          "source": "/herbs/cornus-fructus/"
+        },
+        {
+          "text": "편두의 성숙한 흰 씨",
+          "owner": "백편두(白扁豆)",
+          "ownerId": "herb-lablab-seed",
+          "source": "/herbs/lablab-seed/"
+        },
+        {
+          "text": "대추나무의 성숙한 열매",
+          "owner": "대추·대조(大棗)",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/herbs/jujube-fruit/"
+        },
+        {
+          "text": "성숙한 열매",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        }
+      ],
+      "answer": 3,
+      "explanation": "구기자(枸杞子) — 약용 부위: 성숙한 열매",
       "source": "/herbs/cornus-extra/"
     },
     {
@@ -11691,7 +11739,7 @@
       "prompt": "산수유(山茱萸)의 전통 효능으로 정리된 것은?",
       "options": [
         {
-          "text": "자보간신, 익정명목",
+          "text": "자보간신·익정명목",
           "owner": "구기자(枸杞子)",
           "ownerId": "herb-cornus-extra",
           "source": "/herbs/cornus-extra/"
@@ -11703,7 +11751,7 @@
           "source": "/herbs/cornus-fructus/"
         },
         {
-          "text": "보익심비, 양혈안신",
+          "text": "보익심비·양혈안신",
           "owner": "용안육(龍眼肉)",
           "ownerId": "herb-longan",
           "source": "/herbs/longan/"
@@ -11728,12 +11776,6 @@
       "context": "전통 효능: 보익간신, 수렴고삽",
       "options": [
         {
-          "text": "용안육(龍眼肉)",
-          "owner": "용안육(龍眼肉)",
-          "ownerId": "herb-longan",
-          "source": "/herbs/longan/"
-        },
-        {
           "text": "두충(杜仲)",
           "owner": "두충(杜仲)",
           "ownerId": "herb-eucommia",
@@ -11746,13 +11788,19 @@
           "source": "/herbs/cornus-fructus/"
         },
         {
+          "text": "용안육(龍眼肉)",
+          "owner": "용안육(龍眼肉)",
+          "ownerId": "herb-longan",
+          "source": "/herbs/longan/"
+        },
+        {
           "text": "구기자(枸杞子)",
           "owner": "구기자(枸杞子)",
           "ownerId": "herb-cornus-extra",
           "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "산수유(山茱萸) — 전통 효능: 보익간신, 수렴고삽",
       "source": "/herbs/cornus-fructus/"
     },
@@ -12127,6 +12175,12 @@
       "prompt": "토사자(菟絲子)의 전통 효능으로 정리된 것은?",
       "options": [
         {
+          "text": "자보간신·익정명목",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        },
+        {
           "text": "보신양·익정혈·강근골·조충임·탁창독",
           "owner": "녹용(鹿茸)",
           "ownerId": "herb-cervi-parvum-cornu",
@@ -12143,15 +12197,9 @@
           "owner": "육종용(肉蓯蓉)",
           "ownerId": "herb-cistanche",
           "source": "/herbs/cistanche/"
-        },
-        {
-          "text": "자보간신, 익정명목",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "토사자(菟絲子) — 전통 효능: 보신익정·양간명목·고삽",
       "source": "/herbs/cuscuta-seed/"
     },
@@ -12163,6 +12211,12 @@
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
       "context": "전통 효능: 보신익정·양간명목·고삽",
       "options": [
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        },
         {
           "text": "육종용(肉蓯蓉)",
           "owner": "육종용(肉蓯蓉)",
@@ -12180,15 +12234,9 @@
           "owner": "녹용(鹿茸)",
           "ownerId": "herb-cervi-parvum-cornu",
           "source": "/herbs/cervi-parvum-cornu/"
-        },
-        {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "토사자(菟絲子) — 전통 효능: 보신익정·양간명목·고삽",
       "source": "/herbs/cuscuta-seed/"
     },
@@ -14278,12 +14326,6 @@
           "source": "/herbs/eucommia/"
         },
         {
-          "text": "약전에서 정한 마과 식물의 뿌리줄기",
-          "owner": "산약(山藥)",
-          "ownerId": "herb-dioscorea",
-          "source": "/herbs/dioscorea/"
-        },
-        {
           "text": "익지의 성숙한 열매; 과피와 종자부의 규격 확인",
           "owner": "익지인(益智仁)",
           "ownerId": "herb-alpinia-oxyphylla",
@@ -14294,6 +14336,12 @@
           "owner": "산수유(山茱萸)",
           "ownerId": "herb-cornus-fructus",
           "source": "/herbs/cornus-fructus/"
+        },
+        {
+          "text": "씨를 둘러싼 가종피",
+          "owner": "용안육(龍眼肉)",
+          "ownerId": "herb-longan",
+          "source": "/herbs/longan/"
         }
       ],
       "answer": 0,
@@ -17118,16 +17166,16 @@
           "source": "/herbs/alpinia-oxyphylla/"
         },
         {
-          "text": "연자육·연자(蓮子肉)",
-          "owner": "연자육·연자(蓮子肉)",
-          "ownerId": "herb-lotus-seed",
-          "source": "/herbs/lotus-seed/"
-        },
-        {
           "text": "구기자(枸杞子)",
           "owner": "구기자(枸杞子)",
           "ownerId": "herb-cornus-extra",
           "source": "/herbs/cornus-extra/"
+        },
+        {
+          "text": "연자육·연자(蓮子肉)",
+          "owner": "연자육·연자(蓮子肉)",
+          "ownerId": "herb-lotus-seed",
+          "source": "/herbs/lotus-seed/"
         }
       ],
       "answer": 0,
@@ -17160,7 +17208,7 @@
           "source": "/herbs/jujube-fruit/"
         },
         {
-          "text": "보익심비, 양혈안신",
+          "text": "보익심비·양혈안신",
           "owner": "용안육(龍眼肉)",
           "ownerId": "herb-longan",
           "source": "/herbs/longan/"
@@ -17191,19 +17239,19 @@
           "source": "/herbs/lily/"
         },
         {
-          "text": "대추·대조(大棗)",
-          "owner": "대추·대조(大棗)",
-          "ownerId": "herb-jujube-fruit",
-          "source": "/herbs/jujube-fruit/"
-        },
-        {
           "text": "용안육(龍眼肉)",
           "owner": "용안육(龍眼肉)",
           "ownerId": "herb-longan",
           "source": "/herbs/longan/"
+        },
+        {
+          "text": "대추·대조(大棗)",
+          "owner": "대추·대조(大棗)",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/herbs/jujube-fruit/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "대추·대조(大棗) — 전통 효능: 보중익기·양혈안신",
       "source": "/herbs/jujube-fruit/"
     },
@@ -17222,9 +17270,9 @@
         },
         {
           "text": "성숙한 열매",
-          "owner": "오미자(五味子)",
-          "ownerId": "herb-schisandra",
-          "source": "/herbs/schisandra/"
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         },
         {
           "text": "대추나무의 성숙한 열매",
@@ -18087,6 +18135,12 @@
       "prompt": "용안육(龍眼肉)의 전통 효능으로 정리된 것은?",
       "options": [
         {
+          "text": "보익심비·양혈안신",
+          "owner": "용안육(龍眼肉)",
+          "ownerId": "herb-longan",
+          "source": "/herbs/longan/"
+        },
+        {
           "text": "보익간신, 수렴고삽",
           "owner": "산수유(山茱萸)",
           "ownerId": "herb-cornus-fructus",
@@ -18103,16 +18157,10 @@
           "owner": "백합(百合)",
           "ownerId": "herb-lily",
           "source": "/herbs/lily/"
-        },
-        {
-          "text": "보익심비, 양혈안신",
-          "owner": "용안육(龍眼肉)",
-          "ownerId": "herb-longan",
-          "source": "/herbs/longan/"
         }
       ],
-      "answer": 3,
-      "explanation": "용안육(龍眼肉) — 전통 효능: 보익심비, 양혈안신",
+      "answer": 0,
+      "explanation": "용안육(龍眼肉) — 전통 효능: 보익심비·양혈안신",
       "source": "/herbs/longan/"
     },
     {
@@ -18121,7 +18169,7 @@
       "category": "보익·수삽",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "전통 효능: 보익심비, 양혈안신",
+      "context": "전통 효능: 보익심비·양혈안신",
       "options": [
         {
           "text": "대추·대조(大棗)",
@@ -18149,7 +18197,43 @@
         }
       ],
       "answer": 2,
-      "explanation": "용안육(龍眼肉) — 전통 효능: 보익심비, 양혈안신",
+      "explanation": "용안육(龍眼肉) — 전통 효능: 보익심비·양혈안신",
+      "source": "/herbs/longan/"
+    },
+    {
+      "id": "herb-longan-fact-약용 부위",
+      "cardId": "herb-longan",
+      "category": "보익·수삽",
+      "kind": "fact",
+      "prompt": "용안육(龍眼肉)의 약용 부위으로 정리된 것은?",
+      "options": [
+        {
+          "text": "성숙한 열매의 과육, 통상 씨를 제거한 산수유육",
+          "owner": "산수유(山茱萸)",
+          "ownerId": "herb-cornus-fructus",
+          "source": "/herbs/cornus-fructus/"
+        },
+        {
+          "text": "성숙한 열매",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        },
+        {
+          "text": "새삼류의 성숙한 씨; 사용 원료의 기원 확인",
+          "owner": "토사자(菟絲子)",
+          "ownerId": "herb-cuscuta-seed",
+          "source": "/herbs/cuscuta-seed/"
+        },
+        {
+          "text": "씨를 둘러싼 가종피",
+          "owner": "용안육(龍眼肉)",
+          "ownerId": "herb-longan",
+          "source": "/herbs/longan/"
+        }
+      ],
+      "answer": 3,
+      "explanation": "용안육(龍眼肉) — 약용 부위: 씨를 둘러싼 가종피",
       "source": "/herbs/longan/"
     },
     {
@@ -18391,9 +18475,9 @@
         },
         {
           "text": "성숙한 열매",
-          "owner": "오미자(五味子)",
-          "ownerId": "herb-schisandra",
-          "source": "/herbs/schisandra/"
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         },
         {
           "text": "연꽃의 성숙한 씨에서 연자심을 제거한 부분",
@@ -22158,12 +22242,6 @@
       "context": "생약명: Platycodi Radix",
       "options": [
         {
-          "text": "원지(遠志)",
-          "owner": "원지(遠志)",
-          "ownerId": "herb-polygala",
-          "source": "/herbs/polygala/"
-        },
-        {
           "text": "시호(柴胡)",
           "owner": "시호(柴胡)",
           "ownerId": "herb-bupleurum",
@@ -22180,9 +22258,15 @@
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "원지(遠志)",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "길경(桔梗) — 생약명: Platycodi Radix",
       "source": "/herbs/platycodon/"
     },
@@ -22193,12 +22277,6 @@
       "kind": "fact",
       "prompt": "길경(桔梗)의 전통 효능으로 정리된 것은?",
       "options": [
-        {
-          "text": "안신익지, 교통심신, 거담개규",
-          "owner": "원지(遠志)",
-          "ownerId": "herb-polygala",
-          "source": "/herbs/polygala/"
-        },
         {
           "text": "이기건비(理氣健脾), 조습화담(燥濕化痰)",
           "owner": "진피(陳皮)",
@@ -22212,13 +22290,19 @@
           "source": "/herbs/platycodon/"
         },
         {
+          "text": "안신익지·교통심신·거담개규",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
+        },
+        {
           "text": "소간파기·소적화체",
           "owner": "청피(靑皮)",
           "ownerId": "herb-green-citrus-peel",
           "source": "/herbs/green-citrus-peel/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "길경(桔梗) — 전통 효능: 선폐(宣肺) · 이인(利咽) · 거담(祛痰) · 배농(排膿)",
       "source": "/herbs/platycodon/"
     },
@@ -22230,6 +22314,12 @@
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
       "context": "전통 효능: 선폐(宣肺) · 이인(利咽) · 거담(祛痰) · 배농(排膿)",
       "options": [
+        {
+          "text": "원지(遠志)",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
+        },
         {
           "text": "길경(桔梗)",
           "owner": "길경(桔梗)",
@@ -22243,19 +22333,13 @@
           "source": "/herbs/citrus-peel/"
         },
         {
-          "text": "원지(遠志)",
-          "owner": "원지(遠志)",
-          "ownerId": "herb-polygala",
-          "source": "/herbs/polygala/"
-        },
-        {
           "text": "청피(靑皮)",
           "owner": "청피(靑皮)",
           "ownerId": "herb-green-citrus-peel",
           "source": "/herbs/green-citrus-peel/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "길경(桔梗) — 전통 효능: 선폐(宣肺) · 이인(利咽) · 거담(祛痰) · 배농(排膿)",
       "source": "/herbs/platycodon/"
     },
@@ -22273,10 +22357,10 @@
           "source": "/herbs/bupleurum/"
         },
         {
-          "text": "무의 성숙한 씨",
-          "owner": "나복자(萊菔子·蘿蔔子)",
-          "ownerId": "herb-raphanus-seed",
-          "source": "/herbs/raphanus-seed/"
+          "text": "뿌리; 원지육·거심·제원지 등 가공 기록 확인",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
         },
         {
           "text": "산사나무류 Crataegus의 성숙한 열매",
@@ -22376,6 +22460,12 @@
       "context": "생약명: Polygalae Radix",
       "options": [
         {
+          "text": "원지(遠志)",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
+        },
+        {
           "text": "시호(柴胡)",
           "owner": "시호(柴胡)",
           "ownerId": "herb-bupleurum",
@@ -22388,19 +22478,13 @@
           "source": "/herbs/platycodon/"
         },
         {
-          "text": "원지(遠志)",
-          "owner": "원지(遠志)",
-          "ownerId": "herb-polygala",
-          "source": "/herbs/polygala/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
         }
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "원지(遠志) — 생약명: Polygalae Radix",
       "source": "/herbs/polygala/"
     },
@@ -22412,16 +22496,16 @@
       "prompt": "원지(遠志)의 전통 효능으로 정리된 것은?",
       "options": [
         {
+          "text": "안신익지·교통심신·거담개규",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
+        },
+        {
           "text": "조습화담(燥濕化痰), 강역지구(降逆止嘔), 소비산결(消痞散結)",
           "owner": "반하(半夏)",
           "ownerId": "herb-pinellia",
           "source": "/herbs/pinellia/"
-        },
-        {
-          "text": "안신익지, 교통심신, 거담개규",
-          "owner": "원지(遠志)",
-          "ownerId": "herb-polygala",
-          "source": "/herbs/polygala/"
         },
         {
           "text": "선폐(宣肺) · 이인(利咽) · 거담(祛痰) · 배농(排膿)",
@@ -22436,8 +22520,8 @@
           "source": "/herbs/massa-medicata-fermentata/"
         }
       ],
-      "answer": 1,
-      "explanation": "원지(遠志) — 전통 효능: 안신익지, 교통심신, 거담개규",
+      "answer": 0,
+      "explanation": "원지(遠志) — 전통 효능: 안신익지·교통심신·거담개규",
       "source": "/herbs/polygala/"
     },
     {
@@ -22446,7 +22530,7 @@
       "category": "화담·이기·소식",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "전통 효능: 안신익지, 교통심신, 거담개규",
+      "context": "전통 효능: 안신익지·교통심신·거담개규",
       "options": [
         {
           "text": "신곡·신국(神麴)",
@@ -22474,7 +22558,43 @@
         }
       ],
       "answer": 3,
-      "explanation": "원지(遠志) — 전통 효능: 안신익지, 교통심신, 거담개규",
+      "explanation": "원지(遠志) — 전통 효능: 안신익지·교통심신·거담개규",
+      "source": "/herbs/polygala/"
+    },
+    {
+      "id": "herb-polygala-fact-약용 부위",
+      "cardId": "herb-polygala",
+      "category": "화담·이기·소식",
+      "kind": "fact",
+      "prompt": "원지(遠志)의 약용 부위으로 정리된 것은?",
+      "options": [
+        {
+          "text": "시호속 식물의 뿌리. 실제 원료는 적용 공정서의 허용 기원종을 확인합니다.",
+          "owner": "시호(柴胡)",
+          "ownerId": "herb-bupleurum",
+          "source": "/herbs/bupleurum/"
+        },
+        {
+          "text": "뿌리; 원지육·거심·제원지 등 가공 기록 확인",
+          "owner": "원지(遠志)",
+          "ownerId": "herb-polygala",
+          "source": "/herbs/polygala/"
+        },
+        {
+          "text": "성숙한 감귤류 열매의 말린 과피",
+          "owner": "진피(陳皮)",
+          "ownerId": "herb-citrus-peel",
+          "source": "/herbs/citrus-peel/"
+        },
+        {
+          "text": "뿌리",
+          "owner": "길경(桔梗)",
+          "ownerId": "herb-platycodon",
+          "source": "/herbs/platycodon/"
+        }
+      ],
+      "answer": 1,
+      "explanation": "원지(遠志) — 약용 부위: 뿌리; 원지육·거심·제원지 등 가공 기록 확인",
       "source": "/herbs/polygala/"
     },
     {
@@ -22709,7 +22829,7 @@
           "source": "/herbs/cistanche/"
         },
         {
-          "text": "자보간신, 익정명목",
+          "text": "자보간신·익정명목",
           "owner": "구기자(枸杞子)",
           "ownerId": "herb-cornus-extra",
           "source": "/herbs/cornus-extra/"
@@ -22746,12 +22866,6 @@
           "source": "/herbs/cuscuta-seed/"
         },
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "육종용(肉蓯蓉)",
           "owner": "육종용(肉蓯蓉)",
           "ownerId": "herb-cistanche",
@@ -22762,9 +22876,15 @@
           "owner": "숙지황(熟地黃)",
           "ownerId": "herb-prepared-rehmannia",
           "source": "/herbs/prepared-rehmannia/"
+        },
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "숙지황(熟地黃) — 전통 효능: 보혈자음(補血滋陰), 익정전수(益精填髓)",
       "source": "/herbs/prepared-rehmannia/"
     },

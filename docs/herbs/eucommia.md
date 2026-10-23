@@ -21,6 +21,17 @@ last_reviewed: 2026-09-18
 
 《동의보감》은 두충을 꺾었을 때 **백색 실이 이어지는 모습**으로 감별하고, 포제에서는 **실이 끊어지는 정도**를 기록합니다. 현대의 염수제 두충과 원문의 소밀·생강즙 가공을 하나의 공정으로 합치지 않습니다. [원문의 감별·포제 풀이](../classics/donguibogam/tangyeok/eucommia.md#bark-identification)에서 《본초》와 《단심》 인용을 나누어 읽을 수 있습니다.
 
+## 원문과 약용부위를 함께 읽기 {#tonic-original}
+
+《동의보감》 탕액편 「杜仲」에는 다음과 같이 기록되어 있습니다.
+
+> 治腎勞 腰脊攣痛 脚中痠疼 堅筋骨
+
+**우리말 풀이:** 신로의 문맥에서 허리·등의 당김과 통증, 다리의 시큰함과 근골 허약을 기록합니다. 통증의 위치뿐 아니라 오래된 소모·허약이라는 조건을 함께 읽습니다. [두충 원문 심화](../classics/donguibogam/tangyeok/eucommia.md#original-reading)는 수피 감별·포제까지 이어 설명합니다.
+
+[원문 뷰어·영인 위치](../classics/donguibogam/original.md?record=tangaek-3-181a385b3832#reader) · [공개 전사의 고정판](https://ko.wikisource.org/w/index.php?oldid=417273). 원문 기여 이력·CC BY-SA 4.0 이용조건은 [자료 안내](../classics/donguibogam/original.md#sources)에 표시하며 풀이는 자체 작성했습니다.
+
+
 ## 효능에서 주치로 읽기
 
 | 전통 효능 | 핵심 뜻 | 전통적으로 살피는 주치·병기 |
@@ -32,6 +43,9 @@ last_reviewed: 2026-09-18
 보간신·강근골은 현대의 신장기능 수치나 골밀도 한 항목과 같은 개념이 아닙니다. 통증 위치만으로 판단하지 않고 병정, 냉감, 무력감, 보행·근력과 기혈허 동반 여부를 함께 봅니다.
 
 ## 대표 처방에서 달라지는 역할
+
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
 
 | 대표 처방 | 함께 보는 배합 | 두충의 역할 |
 |---|---|---|
@@ -56,6 +70,20 @@ last_reviewed: 2026-09-18
 두충 수피와 잎에서는 lignans, iridoids, phenolics, flavonoids와 gutta-percha 등 다양한 성분이 연구되었습니다. 전임상 연구는 **골형성·골흡수 표지자, 골밀도·미세구조, 염증·연골 지표, 혈압과 혈관·대사 지표**를 측정해 왔습니다.
 
 이 결과를 보간신·강근골 전체와 동일시하거나 사람의 골절 예방·통증·혈압 개선으로 바로 옮기지 않습니다. 수피와 잎, 생약·포제품·추출물, 두충 단독과 독활기생탕 같은 복합처방을 구분하고, 사람 연구에서는 보행·기능·통증·골밀도·실제 골절을 서로 다른 결과로 봅니다.
+
+### 리그난·이리도이드와 수피 임상시험 {#bark-human-evidence}
+
+| 성분·원료 | 분석·연구의 중심 |
+|---|---|
+| 리그난 배당체 | pinoresinol diglucoside 등과 수피 표준화 |
+| 이리도이드 | aucubin·geniposidic acid 등의 부위·추출법 차이 |
+| phenolic acids·flavonoids | 잎·수피와 물·알코올 추출의 조성 차이 |
+| 고무질 gutta-percha | 절단면의 실 모양과 조직 감별; 함량을 약효 점수로 쓰지 않음 |
+
+미국 Pennington 연구진의 2011년 논문은 **pinoresinol diglucoside 8%로 표준화한 수피 물 추출물**을 평가했습니다. 24명·8주 시험에서는 혈압의 군간 차이가 없었고, 별도의 30명·2주 시험에서는 혈압 감소를 보고했습니다. 투여량·기간이 다른 소규모 연구를 한 개의 일관된 결과로 합치지 않습니다. [기관 수록 원 논문](https://repository.lsu.edu/agrnr_pubs/507/) · [PMID 22214253](https://pubmed.ncbi.nlm.nih.gov/22214253/)
+
+이 연구는 혈압·혈관 관련 사람 자료이며 강근골·골절 예방이나 임신 중 안태의 임상시험은 아닙니다. [대보원전](../formulas/dabo-wonjeon.md#yuanjian-tonification-differential)의 두충은 구기자·숙지황과 요슬·정혈을 받치는 위치에서, [우귀환](../formulas/yougui-wan.md)에서는 온양·익정 구조에서 비교합니다.
+
 
 ## 안전하게 읽기
 
