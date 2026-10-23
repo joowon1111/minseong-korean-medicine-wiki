@@ -270,7 +270,8 @@ def on_post_page(output, page, config):
     if not (article.types & PAGE_TYPES):
         node = {"@type": "MedicalWebPage" if page.file.src_uri.startswith(("conditions/", "symptoms/", "herbs/", "formulas/", "authority/")) else "WebPage",
                 "@id": url + "#webpage", "url": url, "name": title,
-                "inLanguage": language, "isPartOf": {"@id": root + "#website"}}
+                "inLanguage": language, "isPartOf": {"@id": root + "#website"},
+                "publisher": {"@id": root + "#publisher"}}
         if description:
             node["description"] = description
         if data["related"]:
@@ -289,9 +290,13 @@ def on_post_page(output, page, config):
     head = '<link rel="alternate" type="application/json" title="' + export_title + '" href="' + escape(document_url, quote=True) + '">\n'
     if graph:
         head += '<script type="application/ld+json">' + json_text({"@context": "https://schema.org", "@graph": graph}) + '</script>\n'
-    for name, value in {"og:title": title, "og:url": url, "og:type": "website", "og:site_name": config["site_name"], "og:description": description}.items():
-        if value and f'property="{name}"' not in output:
-            head += f'<meta property="{name}" content="{escape(value, quote=True)}">\n'
+    for name, value in {"og:title": title, "og:url": url, "og:type": "website", "og:site_name": config["site_name"], "og:description": description,
+                        "og:locale": "en_US" if language == "en" else "ko_KR",
+                        "twitter:card": "summary", "twitter:title": title,
+                        "twitter:description": description}.items():
+        if value and not re.search(r"<meta\b[^>]*(?:name|property)\s*=\s*([\"\'])" + re.escape(name) + r"\1", output, re.I):
+            attribute = "name" if name.startswith("twitter:") else "property"
+            head += f'<meta {attribute}="{name}" content="{escape(value, quote=True)}">\n'
     links = sorted({target for link in article.links if (target := http_url(link, url))})
     payload = {"schema_version": "1.0", "url": url, "title": title,
                "language": language, "description": description,

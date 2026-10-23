@@ -137,6 +137,17 @@ class DiscoveryTests(unittest.TestCase):
             self.assertNotIn(field, output)
         self.assertEqual(payload['text'], '본문')
 
+    def test_publisher_and_social_metadata_match_public_identity(self):
+        _, output, _ = self.render('<p>본문</p>')
+        self.assertIn('"publisher":{"@id":"https://example.org/wiki/#publisher"}', output)
+        self.assertIn('property="og:locale" content="ko_KR"', output)
+        self.assertIn('name="twitter:card" content="summary"', output)
+        content = discovery.on_page_content('<p>본문</p>', self.page, self.config, self.files)
+        existing = "<meta property='og:title' content='기존 제목'><meta name='twitter:title' content='기존 제목'>"
+        output = discovery.on_post_page('<head>' + existing + '</head>' + content, self.page, self.config)
+        self.assertEqual(output.count('og:title'), 1)
+        self.assertEqual(output.count('twitter:title'), 1)
+
     def test_citation_is_opt_in_and_title_falls_back(self):
         for value in (None, False, 'true'):
             self.page.meta['reader_tools'] = value
