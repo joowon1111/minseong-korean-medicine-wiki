@@ -80,6 +80,9 @@ last_reviewed: 2026-09-06
 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 기혈쌍보+온보 | 병후·수술 후·산후의 냉감 동반 쇠약 | 열감·염증보다 허한과 회복저하가 중심 |
 | [인삼양영탕](../formulas/renshen-yangrong-tang.md) | 익기양혈+양심안신 | 오래된 허손에 식욕저하·심계·수면저하가 동반 | 국내 고전 수록본과 연구 제제의 구성 차이를 확인 |
 | [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) | 익기보혈+건비이기 | 피로·무력과 두중·현훈·소화저하가 함께 | 당귀보혈탕과 구분하고 녹용 병용 여부를 확인 |
+| [자음건비탕](../formulas/jaeum-geonbi-tang.md#tonic-context) | 자음양혈+건비화담·안신 | 어지럼·심계·수면과 소화저하가 겹침 | 단순 기허·회전성 현훈과 구분 |
+| [가미대보탕 · 청강의감](../formulas/gami-daebo-tang-cheonggang.md) | 기혈쌍보 | 식소·자한·권태·어지럼이 겹치는 허손 | 해당 수록본의 숙지황·인삼 상대량 확인 |
+| [쌍보익기탕](../formulas/ssangbo-ikgi-tang.md) | 개별 보약 상담 | 식사·수면·활동 후 회복 목표를 함께 확인 | 이름만으로 배합이나 적응증을 확정하지 않음 |
 | [대보원전](../formulas/dabo-wonjeon.md) | 기혈·정수 보익 | 큰 허손에 어지럼·요슬무력이 동반 | 단순 기허보다 간신·정혈 소모가 뚜렷 |
 | [인삼황기탕](../formulas/renshen-huangqi-tang.md) | 보기건비+양혈 | 기허·식욕저하·자한 | 동명 처방 중 동의보감 기문 계통을 확인 |
 | [소건중탕](../formulas/xiaojianzhong-tang.md) | 온중보허+완급 | 허로성 복통·복부 긴장과 피로 | 급성 복증을 먼저 배제 |
