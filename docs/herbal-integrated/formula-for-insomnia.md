@@ -38,6 +38,12 @@ last_reviewed: 2026-09-06
 
 이런 처방 차이는 잠드는 데 걸리는 시간뿐 아니라 수면을 방해하는 동반 불편까지 치료 목표로 삼기 때문입니다. [귀비탕에는 왜 식욕·소화와 관련된 약재도 들어가나요?](../formulas/guibi-tang.md#sleep-and-digestion)에서 배합을 읽고, [다른 증상에서도 같은 원리를 어떻게 적용하나요?](formula-selection-guide.md#symptom-treatment-comparison)로 연결할 수 있습니다.
 
+## 환제·상품명과 처방을 함께 확인하기 {#pill-formula-comparison}
+
+천왕보심단은 환제로 사용되며 액제 제품도 있습니다. 천왕안심환 등 개별 상품명과 처방명은 구별하고, 같은 이름이라도 구성·1회량이 같은지 확인합니다. [천왕보심단의 제형·상품명](../formulas/tianwang-buxin-dan.md#dosage-forms)에서 실제 확인 항목을 볼 수 있습니다.
+
+두근거림과 긴장 때문에 우황청심원을 문의하더라도 천왕보심단과 같은 약으로 취급하지 않습니다. 전자는 우황 등을 포함한 복합 배합과 제품별 허가사항을, 후자는 음혈부족·건조·허열과 수면의 관계를 살피며 개인의 적합성을 판단합니다. [천왕보심단·우황청심원 비교](../formulas/tianwang-buxin-dan.md#cheonwang-vs-uhwang) · [진찰 후 복용 계획과 재평가](../formulas/tianwang-buxin-dan.md#prescription-followup)
+
 ## 수면 한약 연구가 보여주는 변화 {#sleep-treatment-evidence}
 
 산조인탕 연구 12편·1,311명을 종합한 메타분석에서는 수면의 질 설문인 **PSQI 점수가 대조군보다 낮아지는 결과**가 보고됐습니다. PSQI는 낮을수록 수면 문제가 적다는 뜻이며, 단독 사용과 기존 약물에 더한 사용을 나누어 읽습니다. 연구의 질과 처방 구성이 달라 개인의 반응은 경과로 확인합니다. [PMID 36459033](https://pubmed.ncbi.nlm.nih.gov/36459033/)
