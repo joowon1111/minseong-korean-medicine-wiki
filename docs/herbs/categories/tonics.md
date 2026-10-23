@@ -78,6 +78,8 @@ last_reviewed: '2026-10-07'
 
 [보기·생진과 건비 배합 비교](../../network/tonic-formula-compare.md#tonic-qi-digestion)에서는 인삼·당삼·태자삼의 기원과 대체 문제, 옥죽·천문동의 자윤, 연자육·백편두의 건비 배합을 나란히 읽습니다. [연자육](../lotus-seed.md#seed-embryo-chemistry)은 종자와 배아를, [백편두](../lablab-seed.md#seed-processing)는 거피·초제와 단백질 성분을 구분합니다.
 
+[교질 본초 3종 비교](../../network/tonic-formula-compare.md#gelatin-herbs)에서는 [아교](../donkey-hide-gelatin.md)·[녹각교](../deer-antler-gelatin.md)·[귀판교](../turtle-plastron-gelatin.md)의 가죽·뿔·갑 원료, 추출 교질과 초주·용화, 좌귀환·우귀환·자감초탕의 역할을 구분합니다.
+
 ## 대표 처방
 
 [보약 처방군별 핵심 본초 비교](../../network/tonic-formula-compare.md#core-tonic-herbs)는 공진단·경옥고와 보기·양혈·익정·안신 배합을 나누어 안내합니다. [구기자](../cornus-extra.md#tonic-original)·[두충](../eucommia.md#bark-human-evidence)의 부위·원문·연구와 [원지](../polygala.md)·[용안육](../longan.md)의 심신 회복 배합도 함께 볼 수 있습니다.
