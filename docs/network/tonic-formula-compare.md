@@ -46,6 +46,9 @@ last_reviewed: 2026-10-23
 | 대보원전·간신·정혈 보익 | [구기자](../herbs/cornus-extra.md#tonic-original)·[두충](../herbs/eucommia.md#bark-human-evidence)·[숙지황](../herbs/prepared-rehmannia.md)·[산약](../herbs/dioscorea.md) | 과실의 자양·수피의 근골 보익·중초의 수용; 좌귀환·우귀환의 교류·온양축과 구분 |
 | 귀비탕·심비 보익 및 인삼양영탕 | [산조인](../herbs/ziziphus-seed.md#seed-human-trial)·[원지](../herbs/polygala.md#tonic-original)·[용안육](../herbs/longan.md#tonic-original) | 세 약재를 모두 포함하는 귀비탕 후대형과 원지·오미자 중심 인삼양영탕의 구성 차이 |
 | 보혈방의 행혈·보익방의 이기 | [천궁](../herbs/chuanxiong.md#tonic-species-chemistry)·[진피](../herbs/citrus-peel.md#tonic-aging-chemistry) | 천궁은 사물탕 계열의 행혈, 진피는 보기·기혈 보약의 이기; 둘을 보익약 한 범주로 합치지 않음 |
+| 익정·고삽과 보신윤장 | [토사자](../herbs/cuscuta-seed.md#species-chemistry)·[육종용](../herbs/cistanche.md#species-extracts) | 작은 종자의 익정·고삽과 육질 줄기의 보신·윤장; 좌귀·우귀·수태환과 제천전 구분 |
+| 양심안신·건비와 부위 감별 | [백자인](../herbs/thuja-seed.md#tonic-original)·[복신](../herbs/poria-spirit.md#part-chemistry) | 종인의 유지·거유와 균핵의 부위·去木; 천왕보심단의 복령/복신 수록형 |
+| 보비·자윤과 연구 제제 | [황정](../herbs/polygonatum-sibiricum.md#sleep-human-trial) | 증숙품·다당류와 특정 추출물의 경증 불면 시험; 경옥고·귀비탕 원방과 구분 |
 | 생맥산·기음 보완 계열 | [인삼](../herbs/ginseng.md)·[맥문동](../herbs/ophiopogon.md#species-and-fractions)·[오미자](../herbs/schisandra.md#lignans-interactions) | 보기·양음·수렴; 기원종·추출 분획과 병용약 |
 
 각 본초 문서는 고전의 짧은 원문을 원문 뷰어와 연결하고, 성분·포제·배합 및 사람 연구의 범위를 나누어 설명합니다. **원약재 → 추출·분획 → 분리성분 → 복합처방 완제품**을 구분하면 실험 결과를 실제 처방에 어디까지 연결할 수 있는지 판단하기 쉽습니다.
@@ -57,10 +60,24 @@ last_reviewed: 2026-10-23
 | [산조인](../herbs/ziziphus-seed.md) | 양혈안신·허번·렴한 | 종자·초제품·단미 수면시험과 복합처방 연구 |
 | [원지](../herbs/polygala.md) | 안신익지·교통심신·거담개규 | 거심·감초수 가공, 사포닌·BT-11 추출물 연구 |
 | [용안육](../herbs/longan.md) | 보익심비·양혈안신 | 가종피·당질·다당류-단백질 분획 |
+| [백자인](../herbs/thuja-seed.md) | 양심안신·윤장 | 종인·측백엽 구분, 거유·유지와 품질 분석 |
+| [복신](../herbs/poria-spirit.md) | 영심안신과 건비 배합 | 복령·복신·복신목, 귀비탕 去木과 부위 성분 비교 |
+| [황정](../herbs/polygonatum-sibiricum.md) | 보비·윤폐·보신의 자윤 | 특정 추출물의 경증 불면 80명·4주 시험; 처방 원방과 구분 |
 | [귀비탕](../formulas/guibi-tang.md#donguibogam-version) | 보기건비·양혈안신 | 초기 8미형과 당귀·원지가 추가된 후대형 |
 | [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants) | 익기양혈과 원지·오미자 | 작약 비중, 복령/방풍·桂心/肉桂 수록형 |
 
 귀비탕과 인삼양영탕을 ‘수면 보약’이라는 이름으로 대체하지 않습니다. 식사·기력·안색·체중과 심계·건망·수면이 함께 변하는지, 각 수록형이 어떤 약미와 비율을 택했는지 확인합니다. [안신 본초 비교](../herbs/categories/calm-spirit.md#calm-spirit-herbs)와 [귀비탕·온담탕 감별](../compare/guibi-vs-wendan.md)에서 담음·허열의 동반 차이를 이어 볼 수 있습니다.
+
+## 허약에 건조한 변이 겹칠 때의 배합 {#tonic-bowel-herbs}
+
+| 본초·처방 | 보익과 통변을 연결하는 방식 | 구분할 점 |
+|---|---|---|
+| [육종용](../herbs/cistanche.md#human-formula-evidence) | 보신·익정혈에 윤장 | 육질 줄기·주제품과 표준화 추출물 |
+| [당귀](../herbs/angelica.md#tonic-combinations) | 양혈·행혈에 윤장 | 기원종과 보혈·활혈 배합의 비중 |
+| [백자인](../herbs/thuja-seed.md) | 양심안신에 윤장 | 수면·심계와 장조, 종인의 포제·내약성 |
+| [제천전](../formulas/jichuan-jian.md#original-pattern-course) | 당귀·육종용의 보허윤장과 승마·지각의 승강 | 원전·후대 용량 및 허약이 심할 때 지각 생략 조건 |
+
+[토사자](../herbs/cuscuta-seed.md#formula-context)의 익정·고삽과 육종용의 익정·윤장은 배출을 다루는 방향이 다릅니다. 식사·수분·변 형태·힘주기·복용약을 함께 살피며, [변비의 원인 평가](../conditions/constipation.md)와 각 처방의 구성을 연결합니다.
 
 ## 익기보혈탕·보중익기탕·자음건비탕과 기혈 보약 비교 {#five-tonic-contexts}
 

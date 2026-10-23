@@ -18,6 +18,17 @@ last_reviewed: '2026-10-07'
 | 성미 | 감, 온 |
 | 전통 효능 | 보신익정·양간명목·고삽 |
 
+## 원문으로 읽는 약재와 포제 {#tonic-original}
+
+《동의보감》 탕액편 「兎絲子」의 공개 전사입니다.
+
+> 添精益髓 去腰痛膝冷
+
+**우리말 풀이:** 정과 수를 보완하고 허리 통증·무릎의 냉감을 다룬다는 기록입니다. 같은 항목의 水淘洗·去沙土와 酒浸·蒸熟은 작은 종자의 이물 제거와 가공을 함께 설명합니다. 고전의 성미는 平·辛甘으로, 현대 분류의 甘·溫과 문헌을 나누어 보존합니다.
+
+[원문 항목·영인 위치](../classics/donguibogam/original.md?record=tangaek-2-32ea7cdf759b#reader) · [사용 전사의 고정판](https://ko.wikisource.org/w/index.php?oldid=417205). 한국어 풀이는 자체 작성했으며 전사 기여 이력·CC BY-SA 4.0 이용조건은 [자료 안내](../classics/donguibogam/original.md#sources)에 표시합니다.
+
+
 ## 대표 처방에서 맡는 역할
 
 | 처방 | 배합에서 읽는 역할 |
@@ -32,7 +43,27 @@ last_reviewed: '2026-10-07'
 
 ## 비슷한 본초와 구분
 
-[구기자](cornus-extra.md)는 자보간신, [산수유](cornus-fructus.md)는 보익과 수렴, [산약](dioscorea.md)은 비·폐·신의 보익을 중심으로 비교합니다. 토사자가 포함된 처방도 음허·양허와 출전별 구성이 다릅니다.
+[산약](dioscorea.md)은 비·폐·신의 보익과 고삽, [두충](eucommia.md)은 수피의 강근골에 무게를 둡니다. 토사자는 씨의 익정·고삽으로 비교하며, 요슬무력이나 배뇨증상 하나가 같아도 전체 배합은 달라집니다.
+
+## 기원종과 성분 지문 {#species-chemistry}
+
+토사자는 씨앗의 크기·색만으로 확정하지 않고 기원종과 규격을 확인합니다. **Cuscutae Semen** 연구에 사용되는 *Cuscuta chinensis*·*C. australis*와 국내 새삼류 유통 원료를 이름만으로 합치지 않습니다. 각 국가 공정서의 허용 기원과 실제 표시를 대조합니다.
+
+| 성분·연구 단위 | 원료 비교에서 확인할 내용 |
+|---|---|
+| flavonoids | hyperoside·astragalin·kaempferol 등의 상대 함량·분석 전처리 |
+| phenolic compounds | 배당체·페놀성 화합물의 지문과 추출 용매 |
+| 종자 원료·포제품 | 이물·기원 감별, 술·염수 등 보조재와 실제 가열 공정 |
+| 다당류 등 분획 | 정제도·분자량과 원약재 대비 수율 |
+
+2005년 HPLC-MS 분석은 *C. australis*의 kaempferol·astragalin과 *C. chinensis*의 hyperoside 비중 차이를 보고했고, 2011년 연구도 두 종의 정성·정량 감별을 검토했습니다. 이는 **원료 확인·품질 평가** 자료이며 한 종의 생식·안태 효과가 더 좋다는 사람 비교시험은 아닙니다. [2005년 원 논문](https://pubmed.ncbi.nlm.nih.gov/15880618/) · [2011년 원 논문](https://pubmed.ncbi.nlm.nih.gov/21674437/)
+
+## 익정·고삽·안태를 나누어 보기 {#formula-context}
+
+좌귀환에서는 숙지황·구기자·교류 등과 익정, 우귀환에서는 부자·육계의 온양축과 함께 배치됩니다. 수태환의 전통적 안태는 토사자·상기생·속단·아교의 **전체 배합**으로 읽습니다. 생식세포·호르몬·배아 관련 동물 지표와 사람의 임신 유지·출생 결과는 구분합니다.
+
+[보약 처방군의 핵심 본초 비교](../network/tonic-formula-compare.md#core-tonic-herbs)에서 구기자·산수유·두충과의 짝약을, [보익약의 익정·고삽 비교](categories/tonics.md#yang-tonic-herbs)에서 전통적 역할을 함께 확인합니다.
+
 
 ## 실제 활용에서 확인할 점
 

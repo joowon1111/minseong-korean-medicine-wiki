@@ -56,7 +56,7 @@ last_reviewed: '2026-10-07'
 | [녹용](../cervi-parvum-cornu.md) | 보신양·익정혈·강근골을 함께 보는 동물성 보익 본초 | [공진단](../../formulas/gongjin-dan.md) 및 녹용 가미 보익 처방에서 전체 허약 양상과 함께 판단 |
 | [두충](../eucommia.md) | 보간신·강근골; 오래된 요슬무력과 근골 허약의 배합축 | [독활기생탕](../../formulas/duhuo-jisheng-tang.md) · [우귀환](../../formulas/yougui-wan.md) |
 | [토사자](../cuscuta-seed.md) | 보신익정·양간명목에 고삽을 겸함 | [좌귀환](../../formulas/zuogui-wan.md) · [우귀환](../../formulas/yougui-wan.md) · [수태환](../../formulas/shoutai-wan.md) |
-| [육종용](../cistanche.md) | 보신양·익정혈과 윤장통변을 함께 봄 | [제천전](../../formulas/jichuan-jian.md)에서 보익과 윤장의 연결축 |
+| [육종용](../cistanche.md) | 보신양·익정혈과 윤장통변을 함께 봄 | [제천전](../../formulas/jichuan-jian.md)에서 보익과 윤장의 연결축; [육종용·당귀·백자인의 차이](../../network/tonic-formula-compare.md#tonic-bowel-herbs) |
 | [산수유](../cornus-fructus.md) | 간신을 보하면서 정·땀·소변 등의 허증성 누출을 거두는 수렴축 | [육미지황환](../../authority/formulas/liuwei-dihuang-wan.md) · [공진단](../../formulas/gongjin-dan.md) |
 
 같은 ‘신허’ 관련 본초라도 녹용은 양과 정혈을 함께 보하는 비중, 두충은 근골, 토사자는 익정·고삽, 육종용은 윤장, 산수유는 수렴의 겸효능이 다릅니다. 따뜻한 성질이나 생식·골 관련 실험지표 하나로 보양 전체를 설명하지 않습니다.
@@ -74,7 +74,7 @@ last_reviewed: '2026-10-07'
 
 ## 더해진 보익·생진 본초
 
-[당삼](../codonopsis.md)·[태자삼](../pseudostellaria.md)은 보기와 생진의 결합, [황정](../polygonatum-sibiricum.md)은 비·폐·신 보익, [옥죽](../polygonatum-odoratum.md)은 양음윤조의 방향으로 읽습니다. 인삼·황기와 이름만으로 대체하지 않고 원방·기원·약용부위를 확인합니다.
+[당삼](../codonopsis.md)·[태자삼](../pseudostellaria.md)은 보기와 생진의 결합, [황정](../polygonatum-sibiricum.md)은 비·폐·신 보익, [옥죽](../polygonatum-odoratum.md)은 양음윤조의 방향으로 읽습니다. 인삼·황기와 이름만으로 대체하지 않고 원방·기원·약용부위를 확인합니다. [황정의 증숙·성분과 국내 경증 불면 시험](../polygonatum-sibiricum.md#processing-chemistry)은 전통 보익과 특정 추출물의 임상결과를 나누어 설명합니다.
 
 ## 대표 처방
 
