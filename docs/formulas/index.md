@@ -97,6 +97,12 @@ last_reviewed: '2026-09-21'
 - [천궁다조산](chuanxiong-chatiao-san.md) · [청상견통탕](qingshang-juantong-tang.md#headache-formula-layers) — 소풍지통과 청열·자윤의 비중 비교
 - [소경활혈탕](shujing-huoxue-tang.md#source-herbs-and-bi-pattern) · [당귀수산](danggui-susan.md) — 오래된 복합 비증과 타박 뒤 어혈 비교
 
+### 피부의 가려움·건조·열감 {#skin-formulas}
+
+- [당귀음자](danggui-yinzi.md) — 양혈윤조·소풍, 원방과 일본 제제 및 건조성 소양증 연구
+- [온청음](wenqing-yin.md) — 양혈청열, 원전 온청산과 제제 차이 및 아토피 추가치료 연구
+- [소풍산](xiaofeng-san.md) · [황련해독탕](huanglian-jiedu-tang.md) · [피부 처방 비교](../pillar/skin-hair.md#skin-formula-comparison)
+
 ### 눈피로·더위 뒤 기음소모 {#_12}
 
 - [기국지황환·기국지황탕](qiju-dihuang-wan.md) — 육미지황환 계열 + 구기자·국화의 명목 배합
