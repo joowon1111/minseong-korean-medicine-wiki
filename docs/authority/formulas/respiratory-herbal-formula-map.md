@@ -21,6 +21,12 @@ last_reviewed: 2026-09-17
 
 두 처방을 같이 복용한 연구가 아니며, 처방별 결과를 구별합니다. 규모가 작은 단기시험이므로 모든 감기 환자에서 같은 효과나 장기 안전성을 확정하지 않습니다. 원전 연결은 [은교산의 상초 4조](../../classics/wenbing-tiaobian.md#upper-004), 실제 증상 평가는 [감기](../../conditions/common-cold.md)·[인후통](../../conditions/sore-throat.md)에서 이어집니다.
 
+## 쌍패탕과 구성 처방의 연구 {#ssangpae-components}
+
+[쌍패탕](../../formulas/ssangpae-tang.md)은 여기서는 쌍화탕 합 연교패독산을 뜻합니다. 연교패독산의 2011년 위약대조 감기 시험은 일부 평가일의 증상점수 개선을 보고했지만 완전 회복 기간의 유의한 단축은 확인하지 못했습니다. **쌍화탕을 함께 투여한 시험은 아니므로 합방의 효과로 인용하지 않습니다.** [원 논문](https://doi.org/10.1016/j.jep.2010.10.056) · [연교패독산 시험 상세](../../formulas/lianqiao-baidu-san.md#common-cold-trial)
+
+[소시호탕](../../formulas/xiaochaihu-tang.md#respiratory-context)은 오한·열감의 변화와 식욕저하·구역·흉협 불편을 함께 살피는 처방입니다. 2016년 만성기침 1례에서 50일 투여 후 호전을 보고했으나, 단일 증례의 관찰입니다. [원 논문](https://doi.org/10.22891/kmedia.2016.8.1.99) · [증례 해설](../../formulas/xiaochaihu-tang.md#cough-case-report)
+
 ## 소아 감기 · PEACH 메타분석 {#pediatric-cold-peach}
 
 Kim 등은 19세 미만 감기의 경구 한약 무작위시험을 2024년 10월까지 검색해 **66개 시험·7,176명**을 분석했습니다. 논문은 *Frontiers in Pharmacology*에 **2026년 1월 14일** 발표됐으며 DOI의 `2025`는 실제 발표일과 구분합니다. [PEACH 원문·DOI 10.3389/fphar.2025.1703997](https://doi.org/10.3389/fphar.2025.1703997)
@@ -90,6 +96,12 @@ COPD는 안정기와 급성악화를 나누어 연구를 읽습니다. 안정기
 | 허약과 활동 제한을 함께 관리하는가 | [보중익기탕](../../formulas/buzhong-yiqi-tang.md), [인삼양영탕](../../formulas/renshen-yangrong-tang.md) | 안정기 COPD의 보행·피로·식욕·근력; 각 처방 연구를 구분 |
 
 고전은 처방의 배합과 주치 문맥을, 현대 연구는 실제 환자의 결과를 설명합니다. [호흡기 허브](../../pillar/respiratory-rhinitis-immune.md#classical-cough-paths)에서 동반 증상과 본초의 역할을 함께 읽습니다.
+
+## 호흡기 회복기와 경옥고 {#recovery-gyeongokgo}
+
+[경옥고](../../formulas/gyeongok-go.md#respiratory-preclinical)의 2019년 세포·생쥐 연구에서는 PM2.5에 따른 산화스트레스·폐혈관 누출·염증반응 감소를 보고했습니다. 이는 폐 보호 기전의 가능성을 다룬 전임상 자료입니다. [원 논문](https://doi.org/10.1080/09603123.2018.1542490)
+
+사람의 감염 후 회복에서는 기침 원인, 목 건조·식사·수면·활동과 피로를 함께 평가합니다. [생지황 성분 연구](../../herbs/fresh-rehmannia.md#respiratory-research), 원방 경옥고, 단삼 등을 더한 가감방은 서로 다른 중재입니다. [감염 후 피로](../../conditions/post-viral-fatigue.md)와 연결해 실제 회복 경과를 살핍니다.
 
 ## 한의학 지식망
 `기침·담·천식·호흡곤란 → 한열·담음·폐기허 등 변증 → 처방 → 구성 본초 → 폐기능·기침·삶의 질`
