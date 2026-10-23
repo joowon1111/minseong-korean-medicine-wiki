@@ -66,6 +66,9 @@ polysaccharides와 triterpenoids가 주요 연구 성분군이며 면역·염증
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 대표 처방에서의 배합 역할
 
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
+
 보익·수분대사·안신 처방은 복령의 공통 약성을 서로 다른 배합으로 활용합니다.
 
 | 대표 처방 | 본초의 역할 |

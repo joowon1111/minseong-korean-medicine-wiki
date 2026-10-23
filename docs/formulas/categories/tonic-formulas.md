@@ -25,6 +25,8 @@ last_reviewed: 2026-08-22
 
 ## 본초 구조
 
+[보약 처방 비교와 구성 본초 심화](../../network/tonic-formula-compare.md#core-tonic-herbs)에서 각 본초의 기원·포제·성분과 처방별 역할을 연결할 수 있습니다. 불면·심계가 겹친 보익 배합은 [귀비탕·인삼양영탕 비교](../../network/tonic-formula-compare.md#tonic-sleep-herbs)로 이어집니다.
+
 인삼·황기·백출·복령의 보기축, 당귀·숙지황·백작약의 보혈축, 녹용·산수유·두충의 보신축이 처방에서 어떻게 조합되는지 살펴봅니다.
 
 → [보익약](../../herbs/categories/tonics.md)  

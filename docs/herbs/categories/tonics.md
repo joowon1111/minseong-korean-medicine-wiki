@@ -78,6 +78,8 @@ last_reviewed: '2026-10-07'
 
 ## 대표 처방
 
+[보약 처방군별 핵심 본초 비교](../../network/tonic-formula-compare.md#core-tonic-herbs)는 공진단·경옥고와 보기·양혈·익정·안신 배합을 나누어 안내합니다. [구기자](../cornus-extra.md#tonic-original)·[두충](../eucommia.md#bark-human-evidence)의 부위·원문·연구와 [원지](../polygala.md)·[용안육](../longan.md)의 심신 회복 배합도 함께 볼 수 있습니다.
+
 [사군자탕](../../formulas/sijunzi-tang.md) · [보중익기탕](../../formulas/buzhong-yiqi-tang.md) · [팔물탕](../../formulas/bazhen-tang.md) · [십전대보탕](../../formulas/shi-quan-da-bu-tang.md) · [공진단](../../formulas/gongjin-dan.md) · [경옥고](../../formulas/gyeongok-go.md)
 
 ## 임상에서 연결하는 질문

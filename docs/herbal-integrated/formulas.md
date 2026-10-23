@@ -120,6 +120,8 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 
 ## 보익·기혈·음양
 
+**[보약 처방 비교—공진단·경옥고·귀비탕·인삼양영탕과 핵심 본초](../network/tonic-formula-compare.md#core-tonic-herbs)**에서 구성과 배합의 차이를 먼저 살펴볼 수 있습니다. 비교표의 처방명은 출전·용량으로, 본초명은 원문·기원·포제로 연결됩니다.
+
 **기본 계보:** [사군자탕](../formulas/sijunzi-tang.md)(보기) + [사물탕](../formulas/siwu-tang.md)(보혈) → [팔물탕](../formulas/bazhen-tang.md)(기혈쌍보) → [십전대보탕](../formulas/shi-quan-da-bu-tang.md)(온보기혈)
 
 - [사군자탕](../formulas/sijunzi-tang.md) — 비위기허·보기의 기본방

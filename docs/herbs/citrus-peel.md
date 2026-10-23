@@ -21,6 +21,17 @@ last_reviewed: 2026-09-18
 
 국가별 약전은 허용 식물 기원과 규격을 다르게 정할 수 있습니다. 따라서 연구의 *Citrus reticulata* 과피와 국내 유통 진피를 자동으로 같은 시료로 보지 않고 **학명·약용부위·산지·가공·지표성분**을 함께 확인합니다.
 
+## 원문과 약용부위를 함께 읽기 {#tonic-original}
+
+《동의보감》 탕액편 「橘皮」에는 다음과 같이 기록되어 있습니다.
+
+> 能治胸膈間氣 開胃止痢 消痰涎
+
+**우리말 풀이:** 흉격 사이의 기를 다루고 음식을 받아들이게 하며 담연을 조절한다고 기록합니다. 기체·식사·담이 한 항목 안에 연결된 기록으로, 보익 처방 안에서도 진피를 쓰는 이유를 설명합니다. 급성 설사의 원인 평가와 치료는 별도로 확인합니다.
+
+[원문 뷰어·영인 위치](../classics/donguibogam/original.md?record=tangaek-2-67754e79041c#reader) · [공개 전사의 고정판](https://ko.wikisource.org/w/index.php?oldid=417174). 원문 기여 이력·CC BY-SA 4.0 이용조건은 [자료 안내](../classics/donguibogam/original.md#sources)에 표시하며 풀이는 자체 작성했습니다.
+
+
 ## 효능을 주치로 읽기
 
 ### 이기건비
@@ -34,6 +45,9 @@ last_reviewed: 2026-09-18
 → 공통 개념은 [이기 효능 표준](../herbal-integrated/efficacy-indication-standard.md#qi-blood-digestion)과 [화담 효능 표준](../herbal-integrated/efficacy-indication-standard.md#damp-phlegm)에서 확인할 수 있습니다.
 
 ## 대표 처방에서의 역할
+
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
 
 | 처방 | 진피가 맡는 역할 | 처방 전체의 방향 |
 |---|---|---|
@@ -64,6 +78,19 @@ last_reviewed: 2026-09-18
 | 처방 임상 | 육군자탕·이진탕 계열의 식욕·오심·복부 증상 점수 | 진피 단독 연구와 분리하여 해석 |
 
 현대 리뷰들은 소화기·호흡기·대사 관련 연구축을 폭넓게 정리합니다. 이 결과를 이기건비나 조습화담과 바로 같은 말로 바꾸기보다, **무엇을 투여하고 어떤 지표가 변했는지**를 전통 주치와 나란히 살핍니다.
+
+### 숙성 분석과 보약 속 진피의 자리 {#tonic-aging-chemistry}
+
+| 성분군 | 대표 지표 | 숙성·추출에서 볼 점 |
+|---|---|---|
+| flavanone 배당체 | hesperidin 등 | 기원·품종·저장·전처리에 따른 양 변화 |
+| polymethoxyflavones | nobiletin·tangeretin 등 | 알코올·지용성 분획과 물 추출의 차이 |
+| 휘발성 성분 | limonene 등 여러 terpene | 향의 세기·조성과 가열·보관 영향 |
+
+2023년 광진피 연구는 **1·3·5·10·15·30년 저장 시료**를 성분·미생물 분석으로 비교했습니다. 저장에 따른 조성 변화를 설명하는 연구이며 모든 진피의 연수를 임상효과 순위로 바꾸는 자료는 아닙니다. 원료 품종과 보관 조건, 수분·오염·변질도 함께 봅니다. [원 논문·PMID 37689884](https://pubmed.ncbi.nlm.nih.gov/37689884/)
+
+[보중익기탕](../formulas/buzhong-yiqi-tang.md)에서는 보기·승양약 사이의 이기, [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants)에서는 기혈 보익과 허손 배합의 조절, [육군자탕](../formulas/liujunzi-tang.md)에서는 반하·복령과 담습·오심을 함께 봅니다. ‘다른 보약의 흡수를 높인다’는 정량적 결론보다 **비허와 기체·담습을 함께 다루는 역할**로 설명합니다.
+
 
 ## 비슷한 본초와 구분
 

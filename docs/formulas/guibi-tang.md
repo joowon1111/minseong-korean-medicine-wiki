@@ -67,6 +67,8 @@ last_reviewed: 2026-09-06
 
 ## 처방 구조 {#_3}
 
+[보익·안신 본초 비교](../network/tonic-formula-compare.md#tonic-sleep-herbs)에서 산조인·원지·용안육을 나누어 읽고 인삼양영탕과 비교할 수 있습니다. [원지](../herbs/polygala.md#tonic-original)의 포제·추출물 연구와 [용안육](../herbs/longan.md#tonic-original)의 가종피·성분은 개별 본초 문서로 이어집니다.
+
 | 구성축 | 주요 본초 | 처방 안에서 보는 역할 |
 |---|---|---|
 | 보기건비 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md)·[백출](../herbs/atractylodes.md)·[감초](../herbs/licorice.md) | 비기를 보해 기혈 생성과 식욕·회복의 바탕을 세움 |

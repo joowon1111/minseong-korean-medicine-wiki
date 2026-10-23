@@ -16,6 +16,17 @@ last_reviewed: 2026-09-16
 - **전통적 주치 범위:** 월경불순·월경통·산후어혈, 흉협·지체 통증, 두통 등
 - **효능 기준:** [활혈거어의 공통 정의](../herbal-integrated/efficacy-indication-standard.md#qi-blood-digestion)
 
+## 원문과 약용부위를 함께 읽기 {#tonic-original}
+
+《동의보감》 탕액편 「芎藭」에는 다음과 같이 기록되어 있습니다.
+
+> 破宿血 養新血
+
+**우리말 풀이:** 묵은 혈을 다루고 새 혈을 기른다고 기록합니다. 같은 항목은 두통과 냉통을 다루며, 후대 처방에서는 보혈약과 행혈약의 균형으로 이어 읽습니다. 원문의 넓은 주치 문구를 현대의 모든 두통·출혈 질환에 적용하는 뜻으로 읽지는 않습니다.
+
+[원문 뷰어·영인 위치](../classics/donguibogam/original.md?record=tangaek-2-af67de55e296#reader) · [공개 전사의 고정판](https://ko.wikisource.org/w/index.php?oldid=417205). 원문 기여 이력·CC BY-SA 4.0 이용조건은 [자료 안내](../classics/donguibogam/original.md#sources)에 표시하며 풀이는 자체 작성했습니다.
+
+
 ## 같은 활혈약과 어떻게 다른가
 
 | 비교 본초 | 중심 차이 |
@@ -28,6 +39,9 @@ last_reviewed: 2026-09-16
 천궁은 혈분만 움직이는 약재로 보기보다 **혈중지기약(血中之氣藥)**이라는 전통적 설명처럼 기와 혈의 울체를 함께 읽을 때 처방 역할이 선명해집니다.
 
 ## 대표 처방에서의 역할
+
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
 
 | 대표 처방 | 천궁의 역할 |
 |---|---|
@@ -47,6 +61,20 @@ last_reviewed: 2026-09-16
 천궁은 뿌리줄기를 사용하며 정유성분이 품질과 연구 결과에 영향을 줄 수 있습니다. 절편의 과도한 건조·장기 보관, 주세·주초 등 포제, 분말·추출물 여부를 기록합니다. 향기성분 보존을 이유로 특정 전탕 시간을 일률적으로 제시하기보다 실제 처방 출전과 조제법을 따릅니다.
 
 [사물탕](../formulas/siwu-tang.md)에서는 숙지황·당귀·백작약의 자윤함을 조절하는 행혈축, [혈부축어탕](../formulas/xuefu-zhuyu-tang.md)·[당귀수산](../formulas/danggui-susan.md)에서는 어혈성 통증의 활혈지통축으로 비중이 달라집니다.
+
+### 기원종과 성분 지문: 보혈방의 행혈축 {#tonic-species-chemistry}
+
+| 재료·성분군 | 실제로 확인할 내용 |
+|---|---|
+| *Cnidium officinale*·*Ligusticum chuanxiong* | 학명·약용 뿌리줄기와 적용 공정서; 국내 천궁과 중국 Chuanxiong의 원료 차이 |
+| phthalides | ligustilide·senkyunolide류 등과 산화·가열·저장 조건 |
+| phenolic acids | ferulic acid 등; 추출·정량법과 지표성분 |
+| 정유·물 추출·분리성분 | 실제 농도·수율·노출이 다른 시험물 |
+
+2007년 HPLC-MS 비교 연구는 *L. chuanxiong*·*C. officinale* 및 두 당귀 종을 포함한 20개 시료의 성분을 대조했습니다. senkyunolide A 등의 상대량 차이는 원료 구별의 단서이며 임상적 동등성이나 우열의 증명은 아닙니다. [원 논문·PMID 17372865](https://pubmed.ncbi.nlm.nih.gov/17372865/)
+
+사물탕·팔물탕·십전대보탕은 천궁의 행혈을 양혈과 함께 배치합니다. [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants)은 사물탕의 네 약미를 그대로 복제한 구성이 아니므로 천궁 유무와 원지·오미자·복령/방풍의 자리를 대조합니다. [산조인탕](../formulas/suanzaoren-tang.md)에서도 천궁은 산조인의 양혈안신과 함께 배치되며, 천궁이 들어간다는 이유로 활혈 처방 하나로 묶지 않습니다.
+
 
 ## 안전과 감별
 

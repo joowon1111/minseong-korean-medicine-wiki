@@ -87,6 +87,9 @@ PMID 18407446; PMID 36634722; PMID 41420949
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서 {#_8}
 
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
+
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 - [보혈·활혈 본초 비교](categories/blood.md)

@@ -73,6 +73,9 @@ Astragalus polysaccharides 역시 면역조절을 비롯한 다양한 생리활�
 
 ## 처방 속 황기
 
+[공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
+
+
 | 처방 | 황기의 배합 역할 | 함께 확인할 점 |
 |---|---|---|
 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 보기·승양의 중심축 | 승마·시호와 원방 상대비 |
