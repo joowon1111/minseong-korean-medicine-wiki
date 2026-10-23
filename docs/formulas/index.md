@@ -33,6 +33,7 @@ last_reviewed: '2026-09-21'
 - [십전대보탕](shi-quan-da-bu-tang.md) · [보중익기탕](buzhong-yiqi-tang.md) · [귀비탕](guibi-tang.md) · [생맥산](shengmai-san.md)
 - [자감초탕](zhigancao-tang.md) · [황기계지오물탕](huangqi-guizhi-wuwu-tang.md)
 - [인삼양영탕](renshen-yangrong-tang.md) · [익기보혈탕](ikgi-bohyeol-tang.md) · [당귀보혈탕](danggui-buxue-tang.md) · [인삼황기탕](renshen-huangqi-tang.md)
+- [자음건비탕](jaeum-geonbi-tang.md) · [가미대보탕 · 청강의감](gami-daebo-tang-cheonggang.md) · [쌍보익기탕](ssangbo-ikgi-tang.md)
 - [대보원전](dabo-wonjeon.md) · [좌귀환](zuogui-wan.md) · [우귀환](yougui-wan.md)
 - [공진단](gongjin-dan.md) · [경옥고](gyeongok-go.md)
 

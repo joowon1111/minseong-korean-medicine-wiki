@@ -137,6 +137,9 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) — 기혈·영위허 + 혈비·저림
 - [인삼양영탕](../formulas/renshen-yangrong-tang.md) — 기혈양허 + 허손·식욕저하·심신 소모
 - [익기보혈탕](../formulas/ikgi-bohyeol-tang.md) — 기혈부족 + 비위허약·담습·기체
+- [가미대보탕 · 청강의감](../formulas/gami-daebo-tang-cheonggang.md) — 기혈양허·허손과 숙지황·인삼 중심 배합
+- [쌍보익기탕](../formulas/ssangbo-ikgi-tang.md) — 보약 상담과 식사·수면·일상 기능의 경과 평가
+- [자음건비탕의 보익 맥락](../formulas/jaeum-geonbi-tang.md#tonic-context) — 음혈·비위·담음과 어지럼·심신 증상
 - [대보원전](../formulas/dabo-wonjeon.md) — 기혈·정수의 큰 허손 + 요슬무력
 - [인삼황기탕](../formulas/renshen-huangqi-tang.md) — 비위기허 + 자한·회복저하
 - [고진음자](../formulas/gojin-eumja.md) — 기혈·비신허 + 자한·유정·빈뇨의 불고
