@@ -50,6 +50,12 @@ last_reviewed: 2026-09-06
 
 진통소염제·철분제·일부 항생제·골다공증 약, GLP-1 수용체 작용제 등도 소화불편과 관련될 수 있습니다. 약 이름만으로 원인이라 단정하지 않고 **복용 시작·증량과 불편의 시작이 겹치는지** 확인합니다. 처방약을 임의로 중단하지 않습니다. [NIDDK 약물·감염 관련 원인](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/symptoms-causes)
 
+### 발한·불면·어지럼이 겹칠 때 확인할 시간 관계 {#combined-symptoms}
+
+식후 그득함과 별개로 식사 뒤 일어설 때 아찔한지, 어지럼·구토 뒤 섭취가 줄었는지, 야간홍조로 잠을 설친 뒤 소화가 더 불편한지 나누어 봅니다. 섭취저하·이뇨제·설사에 따른 탈수나 약물 영향이 겹칠 수 있어 내시경 정상만으로 모두 자율신경 문제라 단정하지 않습니다.
+
+[소화불량 전체 감별](dyspepsia.md)과 [자율신경 통합 지도: 복합증상의 진료 경로](../autonomic/integrated-map.md#combined-symptoms)를 연결합니다. [갱년기](menopause.md#combined-symptoms)·[불면](insomnia.md)의 동반 문제도 평가하되, 치료 후에는 실제 식사량·체중과 식후불편을 함께 비교합니다.
+
 ## 먼저 확인해야 할 신호
 
 - 체중감소
