@@ -3,7 +3,7 @@ title: 보익 처방 비교
 description: 공진단·경옥고·보중익기탕·십전대보탕·생맥산의 한의학적 방향과 대표 구성을 비교합니다.
 tags: [한의학지식망, 보익제, 공진단, 경옥고, 십전대보탕]
 status: 검토완료
-last_reviewed: 2026-08-19
+last_reviewed: 2026-10-23
 ---
 
 # 보익 처방 비교
@@ -26,6 +26,21 @@ last_reviewed: 2026-08-19
 | [좌귀환](../formulas/zuogui-wan.md) | 숙지황·산약·산수유·구기자·교질약 | 자신익정 | 신음·정혈부족 |
 | [우귀환](../formulas/yougui-wan.md) | 숙지황·녹각교·두충 + 부자·육계 | 온보신양·익정 | 신양허 + 정혈부족 |
 | [생맥산](../formulas/shengmai-san.md) | 인삼·맥문동·오미자 | 익기양음·생진 | 기음양허·소모·구갈 |
+
+## 보약 처방군의 핵심 본초를 따라 읽기 {#core-tonic-herbs}
+
+같은 본초가 여러 처방에 들어가도 **짝약·비율·포제·제형**에 따라 맡는 자리가 달라집니다. 아래 표는 약재를 더 많이 넣기 위한 목록보다 처방 구조와 실제 원료를 확인하는 안내입니다.
+
+| 처방군 | 핵심 본초와 심화 문서 | 배합에서 읽을 차이 |
+|---|---|---|
+| 공진단 | [녹용](../herbs/cervi-parvum-cornu.md)·[당귀](../herbs/angelica.md#species-chemistry)·[산수유](../herbs/cornus-fructus.md#constituent-quality)·[사향](../herbs/moschus.md#material-identity) | 정혈 보익·행혈·수렴·통달; 원료종과 별연·환제 |
+| 경옥고 | [인삼](../herbs/ginseng.md#tonic-preparation-context)·[생지황](../herbs/fresh-rehmannia.md)·[복령](../herbs/poria.md#gyeongok-powder)·[봉밀](../herbs/honey.md#honey-processing) | 즙·분말·정련 꿀의 중탕 고제; 제형·농축·당 노출 |
+| 사군자탕·보중익기탕 계열 | [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md#fraction-human-evidence)·[백출](../herbs/atractylodes.md#species-fractions)·[복령](../herbs/poria.md)·[감초](../herbs/licorice.md#tonic-exposure) | 보기·건비·삼습·승양의 비중; 공통 약재의 중복 노출 |
+| 사물탕·십전대보탕·인삼양영탕 계열 | [당귀](../herbs/angelica.md#tonic-combinations)·[숙지황](../herbs/prepared-rehmannia.md#processing-chemistry)·[백작약](../herbs/white-peony.md#tonic-ratio)·[황기](../herbs/astragalus.md)·[육계](../herbs/cinnamon-bark.md#tonic-volatile-fraction) | 양혈과 보기·온통; 천궁 유무, 작약 비율·지황 포제·복령/방풍 이본 |
+| 육미지황환·좌귀환·우귀환 계열 | [숙지황](../herbs/prepared-rehmannia.md)·[산수유](../herbs/cornus-fructus.md)·[산약](../herbs/dioscorea.md#fractions-and-tonic-context) | 자음익정·수렴·보비익신; 온양약·교질약의 가감 |
+| 생맥산·기음 보완 계열 | [인삼](../herbs/ginseng.md)·[맥문동](../herbs/ophiopogon.md#species-and-fractions)·[오미자](../herbs/schisandra.md#lignans-interactions) | 보기·양음·수렴; 기원종·추출 분획과 병용약 |
+
+각 본초 문서는 고전의 짧은 원문을 원문 뷰어와 연결하고, 성분·포제·배합 및 사람 연구의 범위를 나누어 설명합니다. **원약재 → 추출·분획 → 분리성분 → 복합처방 완제품**을 구분하면 실험 결과를 실제 처방에 어디까지 연결할 수 있는지 판단하기 쉽습니다.
 
 ## 익기보혈탕·보중익기탕·자음건비탕과 기혈 보약 비교 {#five-tonic-contexts}
 
