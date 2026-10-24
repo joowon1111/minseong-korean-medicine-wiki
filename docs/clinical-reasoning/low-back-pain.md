@@ -32,4 +32,4 @@ last_reviewed: 2026-08-19
 방제:
 → [독활기생탕](../formulas/duhuo-jisheng-tang.md)
 
-→ [요통 근거 카드](../authority/low-back-pain.md)
+→ [요통 근거 카드](../conditions/low-back-pain.md#back-research)

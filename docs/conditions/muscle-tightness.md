@@ -52,7 +52,7 @@ last_reviewed: 2026-08-21
 
 침 치료로 통증이 줄었다면 같은 자세로 버티는 시간을 늘리기보다, 자세를 바꾸고 움직임·운동을 회복하는 데 활용합니다. 목·어깨 통증에서는 편안한 범위의 움직임과 업무 자세를 함께 관리합니다. [NHS 목통증 관리](https://www.nhs.uk/symptoms/neck-pain-and-stiff-neck/)
 
-연구는 통증 부위·기간과 비교치료가 중요합니다. [만성 목통증 침치료 근거](../authority/conditions/chronic-neck-pain.md)와 [추적 효과 연구](../authority/conditions/chronic-neck-pain-update.md)는 만성 목통증 집단의 자료이며, 모든 ‘근육 뭉침’에 같은 결과를 적용하는 근거로 읽지 않습니다.
+연구는 통증 부위·기간과 비교치료가 중요합니다. [만성 목통증 침치료 근거](neck-pain.md#_8)와 [추적 효과 연구](neck-pain.md#_8)는 만성 목통증 집단의 자료이며, 모든 ‘근육 뭉침’에 같은 결과를 적용하는 근거로 읽지 않습니다.
 
 ## MPS·기능평가와 함께 보기 {#mps}
 

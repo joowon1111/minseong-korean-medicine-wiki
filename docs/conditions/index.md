@@ -473,7 +473,7 @@ last_reviewed: 2026-09-21
 - [소아 두통·아이 머리아픔](child-headache.md)
 - [안면통증·얼굴통증](facial-pain.md)
 - [발저림·발바닥 저림](foot-numbness.md)
-- [오십견·어깨가 안 올라가요](/authority/conditions/frozen-shoulder/)
+- [오십견·어깨가 안 올라가요](frozen-shoulder.md#pain-research)
 - [골프엘보·팔꿈치 안쪽 통증](golfer-elbow.md)
 - [성장통·아이 다리통증](growing-pains.md)
 - [뒤꿈치 통증·걸을 때 발뒤꿈치 아픔](heel-pain.md)

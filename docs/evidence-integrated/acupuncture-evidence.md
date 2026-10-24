@@ -26,7 +26,7 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 | 대상포진 뒤 지속되는 신경통도 완화되는가 | [JAMA Neurology 448명 다기관 전침 시험](../authority/electroacupuncture.md#ea-postherpetic-trial) |
 | 디스크성 좌골신경통의 통증·기능도 좋아지는가 | [4주 치료와 52주 추적](#sciatica-landmark) |
 | 고령자 요통에서 일상 기능이 회복되는가 | [미국 800명 실용적 시험](#older-adult-back-trial) |
-| 무릎 골관절염의 통증·관절기능도 개선되는가 | [Annals 570명·Lancet 294명 시험](../authority/conditions/knee-osteoarthritis.md#knee-landmark-trials) |
+| 무릎 골관절염의 통증·관절기능도 개선되는가 | [Annals 570명·Lancet 294명 시험](../conditions/knee-pain.md#knee-landmark-trials) |
 | 편두통의 발작 횟수·두통일수를 줄일 수 있는가 | [JAMA Internal Medicine 발작 횟수](../authority/conditions/migraine.md#jama-migraine-prevention) · [BMJ 두통일수](#migraine-prevention-trial) |
 | 우울증 동반 불면에서 수면 개선이 이어지는가 | [JAMA Network Open 270명 전침·32주 추적](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) |
 | 식후 더부룩함과 조기포만이 개선되는가 | [소화불량 반응과 증상 소실](#pds-landmark) |
@@ -105,18 +105,18 @@ Tu 등의 2024년 *JAMA Internal Medicine* 시험은 만성 디스크성 좌골�
 - **평가 지표:** 통증, WOMAC, 보행, 계단, 관절기능, 진통제 사용
 - **프로토콜:** 국소 경혈과 원위혈, 전침 여부, 주당 횟수와 전체 치료기간
 - **연구 해석:** 침 단독과 운동·통상치료 병행을 구분
-- **근거 연결:** [무릎 골관절염 근거카드](../authority/conditions/knee-osteoarthritis.md)
+- **근거 연결:** [무릎 골관절염 근거카드](../conditions/knee-pain.md#_9)
 
-[Annals·Lancet의 무릎 골관절염 대표 RCT](../authority/conditions/knee-osteoarthritis.md#knee-landmark-trials)에서 직접 비교한 통증·WOMAC 기능 결과와 평가 시점을 확인합니다. 만성통증 전체 지형은 [39개 시험 개인자료 메타분석](#chronic-pain-ipd)에서 먼저 읽고, 무릎 골관절염에 해당하는 세부 시험과 비교군으로 좁혀갑니다.
+[Annals·Lancet의 무릎 골관절염 대표 RCT](../conditions/knee-pain.md#knee-landmark-trials)에서 직접 비교한 통증·WOMAC 기능 결과와 평가 시점을 확인합니다. 만성통증 전체 지형은 [39개 시험 개인자료 메타분석](#chronic-pain-ipd)에서 먼저 읽고, 무릎 골관절염에 해당하는 세부 시험과 비교군으로 좁혀갑니다.
 
 ### 목·어깨·턱·상지 통증
 
 | 증상·질환 | 근거카드 |
 |---|---|
-| 만성 목통증 | [만성 목통증](../authority/conditions/chronic-neck-pain.md) |
-| 어깨통증·충돌증후군 | [어깨통증](../authority/conditions/shoulder-pain.md) |
+| 만성 목통증 | [만성 목통증](../conditions/neck-pain.md#_8) |
+| 어깨통증·충돌증후군 | [어깨통증](../conditions/shoulder-pain.md#pain-research) |
 | 턱관절장애 | [턱관절장애 TMD](../authority/conditions/tmd.md) |
-| 손목터널증후군 | [손목터널증후군](../authority/conditions/carpal-tunnel.md) |
+| 손목터널증후군 | [손목터널증후군](../conditions/carpal-tunnel.md#pain-research) |
 | 테니스엘보 | [외측상과통](../conditions/tennis-elbow.md#elbow-evidence) |
 
 통증점수 외에 목·어깨 가동범위, 악력, 수면방해와 업무·일상기능을 함께 봅니다.

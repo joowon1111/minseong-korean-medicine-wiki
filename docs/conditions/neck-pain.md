@@ -126,7 +126,9 @@ MRI는 모든 목통증에 즉시 필요한 검사는 아닙니다. 위험신호
 
 **Fang 등(2024)**은 단일 임상시험이 아니라 **18개 무작위시험을 종합한 체계적 문헌고찰·메타분석**입니다. 기존 치료에 침을 더한 비교에서는 치료 종료 3개월 이후에도 통증·기능 개선 가능성이 관찰됐습니다. 다만 가짜침과 비교한 통증 차이는 유의하지 않았고, 비교 조건과 평가 항목에 따라 결과를 구분해야 합니다. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC11416387/) · [PMID 38856887](https://pubmed.ncbi.nlm.nih.gov/38856887/)
 
-**Xie 등(2025)**의 체계적 문헌고찰은 침을 비활성 대조·수기치료·다른 능동 치료와 비교하고 시험순차분석을 함께 시행했습니다. 침법·비교군·추적기간이 서로 다르므로, 침 치료 연구를 전침·약침·부항 전체의 효과로 묶거나 모든 목디스크에 같은 결과를 보장하는 자료로 읽지 않습니다. [PMID 41322280](https://pubmed.ncbi.nlm.nih.gov/41322280/) · [만성 목통증 근거 카드](../authority/conditions/chronic-neck-pain.md)
+**Xie 등(2025)**의 체계적 문헌고찰은 **26개 시험·3,520명**을 포함하며 침을 비활성 대조·수기치료·다른 능동 치료와 비교하고 시험순차분석을 함께 시행했습니다. 침법·비교군·추적기간이 서로 다르므로, 침 치료 연구를 전침·약침·부항 전체의 효과로 묶거나 모든 목디스크에 같은 결과를 보장하는 자료로 읽지 않습니다. [PMID 41322280](https://pubmed.ncbi.nlm.nih.gov/41322280/)
+
+2024년 낙침·급성 목 경직 종합연구는 **10개 시험·754명**의 통증·NDI·가동범위를 평가했습니다. 만성 경항통·신경근병증 연구와 대상이 달라 결과를 서로 바꾸어 적용하지 않습니다. [PMID 39533561](https://pubmed.ncbi.nlm.nih.gov/39533561/)
 
 치료로 통증을 낮춘 뒤 경추·견갑대 운동과 업무 부하 조정을 이어갑니다. 연구 설계별 출처는 [근거와 참고자료](#_25)에 정리했습니다.
 
@@ -140,7 +142,7 @@ MRI는 모든 목통증에 즉시 필요한 검사는 아닙니다. 위험신호
 
 약침은 국소 통증점이나 경혈에 소량의 약침액을 사용하는 치료입니다. 급성 염좌, 만성 근막통증, 신경근 주변의 염증성 통증 등에서 임상적으로 활용됩니다. 사용 성분, 알레르기 병력, 시술 깊이와 해부학적 안전성을 확인해야 하며, 통증·가동범위·업무 기능의 변화를 함께 기록합니다. 봉약침은 다른 약침과 성분·알레르기 위험이 다르며, 항응고제 복용·시술 부위 피부 상태도 확인합니다. [약침의 제제·안전성](../treatments/pharmacopuncture.md)
 
-국내 만성 목통증 **101명** 실용적 무작위시험은 약침과 물리치료를 비교해 통증·기능과 추적 경과를 평가했습니다. 해당 대상군과 치료 조건의 결과이며 진행성 신경마비나 모든 약침 제제에 그대로 적용하지 않습니다. [연구 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC8745044/) · [약침 근거 카드](../authority/pharmacopuncture.md#pharmaco-neck-trial)
+국내 만성 목통증 **101명** 실용적 무작위시험은 약침과 물리치료를 비교해 통증·기능과 추적 경과를 평가했습니다. 해당 대상군과 치료 조건의 결과이며 진행성 신경마비나 모든 약침 제제에 그대로 적용하지 않습니다. [연구 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC8745044/) · [약침 연구 설명](../authority/pharmacopuncture.md#pharmaco-neck-trial)
 
 ### 부항 {#_12}
 
@@ -161,6 +163,14 @@ MRI는 모든 목통증에 즉시 필요한 검사는 아닙니다. 위험신호
 | [가미소요산](../formulas/jiawei-xiaoyao-san.md)·시호계 처방 | 정서·수면·소화 등 변증 단서가 통증과 함께 나타남 | 스트레스가 있다는 이유 하나로 처방하지 않음 |
 
 위 표는 전통적 변증에 따른 처방 비교입니다. 특정 제조 한약제제의 목통증·신경근병증 연구 결과와 구분하며, 그 결과를 표의 모든 처방에 옮기지 않습니다. [목·경추 한약 임상연구](../authority/formulas/musculoskeletal-herbal-evidence.md#neck)
+
+### 목통증의 한약 연구와 시험 제제 {#neck-herbal-research}
+
+경구 한약의 체계적 문헌고찰은 **16개 연구**에서 한약 단독 또는 표준치료에 더하는 방식을 평가했습니다. [DOI 10.1016/j.hermed.2020.100416](https://doi.org/10.1016/j.hermed.2020.100416)
+
+목·요통 한의치료 종합연구의 **75개 RCT·11,077명**은 침·부항·한약과 여러 질환을 합한 전체 표본입니다. 이 중 Compound Qishe Tablet의 위약 비교에서 단기 목통증 개선이 보고됐으며, 경추 퇴행성 질환 Cochrane 고찰에서도 해당 복합제제의 비교시험을 다뤘습니다. 전체 표본을 Qishe 임상시험의 규모로 읽거나 그 제제의 결과를 위 처방표의 모든 탕약에 적용하지 않습니다. [PMID 25710765](https://pubmed.ncbi.nlm.nih.gov/25710765/) · [PMID 20091597](https://pubmed.ncbi.nlm.nih.gov/20091597/)
+
+팔 방사통이 중심인 제조 한약제제 연구는 [목디스크 본문의 연구 설명](cervical-disc-herniation.md#cervical-herbal-research)에서 대상·제제를 구분합니다.
 
 복용 전 진통소염제·항응고제·이뇨제 등 약물과 건강기능식품, 임신 가능성, 간·신장질환을 확인합니다. 처방명만 보고 자가 복용하기보다 치료 반응과 새로운 이상 증상에 따라 조정합니다.
 
@@ -323,7 +333,7 @@ MRI는 모든 목통증에 즉시 필요한 검사는 아닙니다. 위험신호
 
 침·전침의 추가 종합자료: Seo SY, et al. *Effectiveness of Acupuncture and Electroacupuncture for Chronic Neck Pain*. 2017. [PMID 29121797](https://pubmed.ncbi.nlm.nih.gov/29121797/). 정책·기술평가 자료: Singapore Agency for Care Effectiveness. [Acupuncture for adults with low back pain and neck pain](https://www.ace-hta.gov.sg/healthcare-professionals/ace-technology-guidance/medical-technology-guidance/acupuncture-for-adults-with-low-back-pain-and-neck-pain/). 2023.
 
-[만성 목통증 연구 상세](../authority/conditions/chronic-neck-pain.md) · [목디스크·신경근병증 근거](../authority/conditions/cervical-radiculopathy.md)
+[만성 목통증 연구 상세](neck-pain.md#_8) · [목디스크·신경근병증 근거](cervical-disc-herniation.md#pain-research)
 
 ## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
 

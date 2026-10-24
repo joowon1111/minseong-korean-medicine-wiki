@@ -92,7 +92,7 @@ last_reviewed: 2026-09-19
 - [발목통증](ankle-pain.md)
 - [발·하지 저림](foot-numbness.md)
 - [종아리·발뒤꿈치 MPS 아틀라스](../clinical-anatomy/mps-calf.md)
-- [발목 재활 근거 지도](../authority/conditions/ankle-rehabilitation-evidence-map.md)
+- [발목 재활 근거 지도](ankle-instability.md#pain-research)
 
 ## 주요 근거
 

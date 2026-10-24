@@ -245,5 +245,243 @@
       "_6": "conditions/tennis-elbow.md#_8",
       "_7": "conditions/tennis-elbow.md#_13"
     }
+  },
+  "authority/low-back-pain.md": {
+    "target": "conditions/low-back-pain.md#back-research",
+    "anchors": {
+      "_1": "conditions/low-back-pain.md#back-research",
+      "_2": "conditions/low-back-pain.md#back-research",
+      "_3": "conditions/low-back-pain.md#back-research",
+      "acupuncture-trials": "conditions/low-back-pain.md#back-research",
+      "international-back-guidelines": "conditions/low-back-pain.md#back-systematic-reviews",
+      "pharmacopuncture-trials": "conditions/low-back-pain.md#back-pharmacopuncture-research",
+      "_4": "conditions/low-back-pain.md#back-research",
+      "_5": "conditions/low-back-pain.md#back-research",
+      "_6": "conditions/low-back-pain.md#back-research",
+      "_7": "conditions/low-back-pain.md#back-research",
+      "modality-care-routes": "conditions/low-back-pain.md#modality-care-routes",
+      "_8": "conditions/low-back-pain.md#back-research"
+    }
+  },
+  "authority/conditions/chronic-neck-pain.md": {
+    "target": "conditions/neck-pain.md#_8",
+    "anchors": {
+      "_1": "conditions/neck-pain.md#_8",
+      "_2": "conditions/neck-pain.md#_8",
+      "2024-systematic-reviewmeta-analysis": "conditions/neck-pain.md#_8",
+      "_3": "conditions/neck-pain.md#_8",
+      "_4": "conditions/neck-pain.md#_8",
+      "_5": "conditions/neck-pain.md#_8"
+    }
+  },
+  "authority/conditions/chronic-neck-pain-update.md": {
+    "target": "conditions/neck-pain.md#_8",
+    "anchors": {
+      "_1": "conditions/neck-pain.md#_8",
+      "_2": "conditions/neck-pain.md#_8",
+      "_3": "conditions/neck-pain.md#_8",
+      "_4": "conditions/neck-pain.md#_8",
+      "_5": "conditions/neck-pain.md#_8"
+    }
+  },
+  "authority/conditions/shoulder-pain.md": {
+    "target": "conditions/shoulder-pain.md#pain-research",
+    "anchors": {
+      "_1": "conditions/shoulder-pain.md#pain-research",
+      "_2": "conditions/shoulder-pain.md#pain-research",
+      "_3": "conditions/shoulder-pain.md#pain-research",
+      "_4": "conditions/shoulder-pain.md#pain-research",
+      "_5": "conditions/shoulder-pain.md#pain-research"
+    }
+  },
+  "authority/conditions/frozen-shoulder.md": {
+    "target": "conditions/frozen-shoulder.md#pain-research",
+    "anchors": {
+      "_1": "conditions/frozen-shoulder.md#pain-research",
+      "_2": "conditions/frozen-shoulder.md#pain-research",
+      "_3": "conditions/frozen-shoulder.md#pain-research",
+      "_4": "conditions/frozen-shoulder.md#pain-research",
+      "_5": "conditions/frozen-shoulder.md#pain-research",
+      "_6": "conditions/frozen-shoulder.md#pain-research",
+      "next-clinical-routes": "conditions/frozen-shoulder.md#pain-research",
+      "modality-care-routes": "conditions/frozen-shoulder.md#pain-research"
+    }
+  },
+  "authority/conditions/rotator-cuff-disease.md": {
+    "target": "conditions/rotator-cuff-pain.md#pain-research",
+    "anchors": {
+      "_1": "conditions/rotator-cuff-pain.md#pain-research",
+      "_2": "conditions/rotator-cuff-pain.md#pain-research",
+      "_3": "conditions/rotator-cuff-pain.md#pain-research",
+      "_4": "conditions/rotator-cuff-pain.md#pain-research",
+      "_5": "conditions/rotator-cuff-pain.md#pain-research",
+      "_6": "conditions/rotator-cuff-pain.md#pain-research",
+      "next-clinical-routes": "conditions/rotator-cuff-pain.md#pain-research"
+    }
+  },
+  "authority/conditions/ankle-sprain.md": {
+    "target": "conditions/ankle-pain.md#pain-research",
+    "anchors": {
+      "_1": "conditions/ankle-pain.md#pain-research",
+      "_2": "conditions/ankle-pain.md#pain-research",
+      "_3": "conditions/ankle-pain.md#pain-research",
+      "_4": "conditions/ankle-pain.md#pain-research",
+      "_5": "conditions/ankle-pain.md#pain-research"
+    }
+  },
+  "authority/conditions/chronic-ankle-instability.md": {
+    "target": "conditions/ankle-instability.md#pain-research",
+    "anchors": {
+      "_1": "conditions/ankle-instability.md#pain-research",
+      "_2": "conditions/ankle-instability.md#pain-research",
+      "_3": "conditions/ankle-instability.md#pain-research",
+      "_4": "conditions/ankle-instability.md#pain-research",
+      "_5": "conditions/ankle-instability.md#pain-research"
+    }
+  },
+  "authority/conditions/ankle-rehabilitation-evidence-map.md": {
+    "target": "conditions/ankle-instability.md#pain-research",
+    "anchors": {
+      "_1": "conditions/ankle-instability.md#pain-research",
+      "_2": "conditions/ankle-instability.md#pain-research",
+      "_3": "conditions/ankle-instability.md#pain-research",
+      "_4": "conditions/ankle-instability.md#pain-research",
+      "_5": "conditions/ankle-instability.md#pain-research",
+      "_6": "conditions/ankle-instability.md#pain-research"
+    }
+  },
+  "authority/conditions/plantar-fasciitis.md": {
+    "target": "conditions/plantar-fasciitis.md#pain-research",
+    "anchors": {
+      "_1": "conditions/plantar-fasciitis.md#pain-research",
+      "_2": "conditions/plantar-fasciitis.md#pain-research",
+      "research": "conditions/plantar-fasciitis.md#pain-research",
+      "_3": "conditions/plantar-fasciitis.md#pain-research",
+      "_4": "conditions/plantar-fasciitis.md#pain-research",
+      "_5": "conditions/plantar-fasciitis.md#pain-research",
+      "_6": "conditions/plantar-fasciitis.md#pain-research",
+      "symptom-care-routes": "conditions/plantar-fasciitis.md#pain-research"
+    }
+  },
+  "authority/conditions/sciatica.md": {
+    "target": "conditions/sciatica.md#pain-research",
+    "anchors": {
+      "_1": "conditions/sciatica.md#pain-research",
+      "_2": "conditions/sciatica.md#pain-research",
+      "_3": "conditions/sciatica.md#pain-research",
+      "_4": "conditions/sciatica.md#pain-research",
+      "_5": "conditions/sciatica.md#pain-research",
+      "symptom-care-routes": "conditions/sciatica.md#pain-research"
+    }
+  },
+  "authority/conditions/cervical-radiculopathy.md": {
+    "target": "conditions/cervical-disc-herniation.md#pain-research",
+    "anchors": {
+      "_1": "conditions/cervical-disc-herniation.md#pain-research",
+      "_2": "conditions/cervical-disc-herniation.md#pain-research",
+      "_3": "conditions/cervical-disc-herniation.md#pain-research",
+      "_4": "conditions/cervical-disc-herniation.md#pain-research",
+      "_5": "conditions/cervical-disc-herniation.md#pain-research",
+      "symptom-care-routes": "conditions/cervical-disc-herniation.md#pain-research"
+    }
+  },
+  "authority/conditions/carpal-tunnel.md": {
+    "target": "conditions/carpal-tunnel.md#pain-research",
+    "anchors": {
+      "_1": "conditions/carpal-tunnel.md#pain-research",
+      "2023-rct-systematic-reviewmeta-analysis": "conditions/carpal-tunnel.md#pain-research",
+      "2024": "conditions/carpal-tunnel.md#pain-research",
+      "_2": "conditions/carpal-tunnel.md#carpal-electroacupuncture",
+      "_3": "conditions/carpal-tunnel.md#pain-research",
+      "_4": "conditions/carpal-tunnel.md#pain-research",
+      "_5": "conditions/carpal-tunnel.md#pain-research",
+      "symptom-care-routes": "conditions/carpal-tunnel.md#pain-research"
+    }
+  },
+  "authority/conditions/knee-osteoarthritis.md": {
+    "target": "conditions/knee-pain.md#_9",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#_9",
+      "_2": "conditions/knee-pain.md#_9",
+      "knee-landmark-trials": "conditions/knee-pain.md#knee-landmark-trials",
+      "berman-knee-trial": "conditions/knee-pain.md#berman-knee-trial",
+      "witt-knee-trial": "conditions/knee-pain.md#witt-knee-trial",
+      "2024-meta-analysis": "conditions/knee-pain.md#_9",
+      "_3": "conditions/knee-pain.md#_9",
+      "landmark": "conditions/knee-pain.md#_9"
+    }
+  },
+  "authority/conditions/knee-osteoarthritis-update.md": {
+    "target": "conditions/knee-pain.md#_9",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#_9",
+      "_2": "conditions/knee-pain.md#_9",
+      "_3": "conditions/knee-pain.md#_9",
+      "_4": "conditions/knee-pain.md#_9",
+      "_5": "conditions/knee-pain.md#_9"
+    }
+  },
+  "authority/conditions/knee-osteoarthritis-acupuncture-moxibustion.md": {
+    "target": "conditions/knee-pain.md#_9",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#_9",
+      "_2": "conditions/knee-pain.md#_9",
+      "_3": "conditions/knee-pain.md#_9",
+      "_4": "conditions/knee-pain.md#_9",
+      "_5": "conditions/knee-pain.md#_9"
+    }
+  },
+  "authority/conditions/acupuncture-dose-response-knee-oa.md": {
+    "target": "conditions/knee-pain.md#_9",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#_9",
+      "_2": "conditions/knee-pain.md#_9",
+      "_3": "conditions/knee-pain.md#_9",
+      "_4": "conditions/knee-pain.md#_9",
+      "_5": "conditions/knee-pain.md#_9"
+    }
+  },
+  "authority/formulas/neck-pain-herbal-map.md": {
+    "target": "conditions/neck-pain.md#neck-herbal-research",
+    "anchors": {
+      "_1": "conditions/neck-pain.md#neck-herbal-research",
+      "_2": "conditions/neck-pain.md#neck-herbal-research",
+      "_3": "conditions/neck-pain.md#neck-herbal-research",
+      "_4": "conditions/neck-pain.md#neck-herbal-research",
+      "_5": "conditions/neck-pain.md#neck-herbal-research"
+    }
+  },
+  "authority/formulas/qishe-tablet-neck-pain.md": {
+    "target": "conditions/neck-pain.md#neck-herbal-research",
+    "anchors": {
+      "qishe": "conditions/neck-pain.md#neck-herbal-research",
+      "_1": "conditions/neck-pain.md#neck-herbal-research",
+      "_2": "conditions/neck-pain.md#neck-herbal-research",
+      "_3": "conditions/neck-pain.md#neck-herbal-research",
+      "_4": "conditions/neck-pain.md#neck-herbal-research"
+    }
+  },
+  "authority/formulas/cervical-radiculopathy-herbal.md": {
+    "target": "conditions/cervical-disc-herniation.md#cervical-herbal-research",
+    "anchors": {
+      "_1": "conditions/cervical-disc-herniation.md#cervical-herbal-research",
+      "_2": "conditions/cervical-disc-herniation.md#cervical-herbal-research",
+      "_3": "conditions/cervical-disc-herniation.md#cervical-herbal-research",
+      "_4": "conditions/cervical-disc-herniation.md#cervical-herbal-research",
+      "_5": "conditions/cervical-disc-herniation.md#cervical-herbal-research"
+    }
+  },
+  "authority/formulas/knee-osteoarthritis-herbal-map.md": {
+    "target": "conditions/knee-pain.md#knee-herbal-research",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#knee-herbal-research",
+      "_2": "conditions/knee-pain.md#knee-herbal-research",
+      "_3": "conditions/knee-pain.md#knee-herbal-research",
+      "botanical-clinical-guide": "conditions/knee-pain.md#botanical-clinical-guide",
+      "_4": "conditions/knee-pain.md#knee-herbal-research",
+      "_5": "conditions/knee-pain.md#knee-herbal-research",
+      "_6": "conditions/knee-pain.md#knee-herbal-research",
+      "_7": "conditions/knee-pain.md#knee-herbal-research"
+    }
   }
 }

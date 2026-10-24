@@ -15,8 +15,8 @@ last_reviewed: 2026-08-19
 
 | 연도 | 연구·대상 | 원문 식별자 | 결과와 적용 범위 |
 |---|---|---|---|
-| 2004 | Berman · Annals of Internal Medicine · 무릎 골관절염 570명 | [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) · [DOI](https://doi.org/10.7326/0003-4819-141-12-200412210-00006) | [26주 통증·기능 평가](../authority/conditions/knee-osteoarthritis.md#berman-knee-trial) |
-| 2005 | Witt · The Lancet · 무릎 골관절염 294명 | [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) · [DOI](https://doi.org/10.1016/S0140-6736(05)66871-7) | [8주 비교·52주 추적](../authority/conditions/knee-osteoarthritis.md#witt-knee-trial) |
+| 2004 | Berman · Annals of Internal Medicine · 무릎 골관절염 570명 | [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) · [DOI](https://doi.org/10.7326/0003-4819-141-12-200412210-00006) | [26주 통증·기능 평가](../conditions/knee-pain.md#berman-knee-trial) |
+| 2005 | Witt · The Lancet · 무릎 골관절염 294명 | [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) · [DOI](https://doi.org/10.1016/S0140-6736(05)66871-7) | [8주 비교·52주 추적](../conditions/knee-pain.md#witt-knee-trial) |
 | 2017 | Zhao · JAMA Internal Medicine · 편두통 249명 배정·245명 분석 | [PMID 28241154](https://pubmed.ncbi.nlm.nih.gov/28241154/) · [DOI](https://doi.org/10.1001/jamainternmed.2016.9378) | [발작 횟수·24주 추적](../authority/conditions/migraine.md#jama-migraine-prevention) |
 | 2026 | Chen · JAMA Neurology · 대상포진후신경통 448명 | [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) · [DOI](https://doi.org/10.1001/jamaneurol.2026.1443) | [전침 통증·반응률](../authority/electroacupuncture.md#ea-postherpetic-trial) |
 | 2018 | Hershman · JAMA · 유방암 호르몬치료 관련 관절통 226명 | [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [DOI](https://doi.org/10.1001/jama.2018.8907) | [본시험 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |

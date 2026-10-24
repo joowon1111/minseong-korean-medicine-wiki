@@ -52,7 +52,7 @@ RMDQ는 요통 관련 일상 기능장애 설문입니다. 기능의 상대적 �
 
 중대한 이상사건은 드물고 군 간 비슷했으며 침 중재와 관련 가능성이 있는 중대한 이상사건은 1% 미만이었습니다. 고령자의 요통에서 **통증을 넘어 기능 회복과 지속성**을 평가한 미국 근거입니다. [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) · [DOI 10.1001/jamanetworkopen.2025.31348](https://doi.org/10.1001/jamanetworkopen.2025.31348) · [공개 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC12432643/)
 
-→ [요통의 다른 RCT·약침·국제 지침](low-back-pain.md)
+→ [요통의 다른 RCT·약침·국제 지침](../conditions/low-back-pain.md#back-research)
 
 ## 디스크성 좌골신경통: 가짜침 비교와 52주 추적 {#acupuncture-sciatica}
 
@@ -74,7 +74,7 @@ Xu 등의 2020년 *BMJ* 시험은 중국 7개 병원에서 **전조 없는 삽�
 
 Berman 등의 미국 *Annals of Internal Medicine* 2004년 RCT는 **570명**을 침·가짜침·교육으로 배정했습니다. 침과 가짜침은 26주간 23회 시행했습니다. **26주 WOMAC 기능점수는 가짜침보다 2.5점, 통증점수는 0.87점 더 개선**됐습니다. 8주에는 기능의 차이는 유의했지만 통증 차이는 유의하지 않아 평가 시점을 구분합니다. 26주 침·가짜침군의 약 25%가 분석에 참여하지 못한 점도 확인합니다.
 
-이 연구는 관절기능과 통증의 병행 개선을 보여주며 연골 재생을 입증한 연구는 아닙니다. [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) · [DOI 원문](https://doi.org/10.7326/0003-4819-141-12-200412210-00006) · [무릎 골관절염 카드·독일 Lancet 시험](conditions/knee-osteoarthritis.md#knee-landmark-trials)
+이 연구는 관절기능과 통증의 병행 개선을 보여주며 연골 재생을 입증한 연구는 아닙니다. [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) · [DOI 원문](https://doi.org/10.7326/0003-4819-141-12-200412210-00006) · [무릎 골관절염 카드·독일 Lancet 시험](../conditions/knee-pain.md#knee-landmark-trials)
 
 ## 식후불편감증후군: 전체 호전과 증상 소실 {#acupuncture-dyspepsia}
 

@@ -25,7 +25,7 @@ last_reviewed: '2026-08-23'
 | 고전의 한 구절과 해석 | [고전 원문·해석](../classics-reader/index.md) | 서명·편목·조문·판본과 전후 문맥 |
 | 한 문서를 도구에서 읽기 | [페이지 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json) | 대표 주소와 페이지별 JSON |
 
-예를 들어 ‘허리가 아플 때 침 연구’를 찾으면 [요통 문서](../conditions/low-back-pain.md)에서 증상의 범위를 확인하고, [요통 근거 카드](../authority/low-back-pain.md)에서 해당 연구의 대상과 치료 조건을 읽습니다. 두 문서가 연결되어 있다는 사실과 개별 연구의 결론은 구분해 정리합니다.
+예를 들어 ‘허리가 아플 때 침 연구’를 찾으면 [요통 문서](../conditions/low-back-pain.md)에서 증상의 범위를 확인하고, [요통 근거 카드](../conditions/low-back-pain.md#back-research)에서 해당 연구의 대상과 치료 조건을 읽습니다. 두 문서가 연결되어 있다는 사실과 개별 연구의 결론은 구분해 정리합니다.
 
 ## 1. 환자 언어와 증상 {#1}
 

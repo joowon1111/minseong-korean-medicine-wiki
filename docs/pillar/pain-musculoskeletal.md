@@ -95,9 +95,9 @@ last_reviewed: 2026-09-20
 
 | 주제 | 대표 근거 문서 | 함께 읽을 결과 |
 |---|---|---|
-| 요통·하지 방사통 | [요통 임상 지식망](../network/low-back-pain-map.md) · [요통 임상근거](../authority/low-back-pain.md) · [좌골신경통 근거](../authority/conditions/sciatica.md) | 허리와 다리 통증을 구분하고 기능·보행, 신경학적 상태를 확인 |
-| 목·어깨·상지 통증 | [목통증 근거](../authority/conditions/chronic-neck-pain.md) · [상지 통증 근거 지도](../authority/conditions/upper-limb-pain-evidence-map.md) | 가동범위·옷 입기·팔 사용과 통증의 변화 |
-| 무릎·하지 통증 | [무릎 골관절염](../authority/conditions/knee-osteoarthritis.md) · [하지 근골격 근거 지도](../authority/conditions/lower-limb-musculoskeletal-evidence-map.md) | 통증·WOMAC 기능·보행·계단과 평가 시점 |
+| 요통·하지 방사통 | [요통 임상 지식망](../network/low-back-pain-map.md) · [요통 임상근거](../conditions/low-back-pain.md#back-research) · [좌골신경통 근거](../conditions/sciatica.md#pain-research) | 허리와 다리 통증을 구분하고 기능·보행, 신경학적 상태를 확인 |
+| 목·어깨·상지 통증 | [목통증 근거](../conditions/neck-pain.md#_8) · [상지 통증 근거 지도](../authority/conditions/upper-limb-pain-evidence-map.md) | 가동범위·옷 입기·팔 사용과 통증의 변화 |
+| 무릎·하지 통증 | [무릎 골관절염](../conditions/knee-pain.md#_9) · [하지 근골격 근거 지도](../authority/conditions/lower-limb-musculoskeletal-evidence-map.md) | 통증·WOMAC 기능·보행·계단과 평가 시점 |
 | 한약·처방 연구 | [근골격 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md) | 연구한 제제·대상·비교약·병용 조건과 실제 처방의 차이 |
 
 WHO의 성인 **만성 일차성 요통** 지침은 구조화된 운동과 침 등의 자침치료를 돌봄의 일부로 제공할 수 있다고 조건부 권고하며, 해당 근거 확실성은 낮음으로 평가합니다. 이는 모든 척추질환이나 모든 한의치료를 같은 효과로 권고한다는 뜻이 아니며, 개인의 상태에 맞춘 복합 관리로 읽습니다. [WHO 권고표](https://www.ncbi.nlm.nih.gov/books/NBK599210/table/fm-ch2.tab1/) · [현대 임상근거 허브](clinical-evidence.md)

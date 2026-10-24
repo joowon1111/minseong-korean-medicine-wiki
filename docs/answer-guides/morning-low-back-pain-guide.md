@@ -24,7 +24,7 @@ tags: [아침허리통증, 요통, 허리통증, 다리저림]
 ## 더 깊게 보기
 - [허리디스크](../conditions/lumbar-disc-herniation.md)
 - [협착증](../conditions/lumbar-spinal-stenosis.md)
-- [요통 치료 근거](../authority/low-back-pain.md)
+- [요통 치료 근거](../conditions/low-back-pain.md#back-research)
 - [요통](../conditions/low-back-pain.md)
 - [오래 앉으면 허리통증](../conditions/low-back-pain-sitting.md)
 - [근골격 통증 핵심](../acupuncture-integrated/musculoskeletal.md)

@@ -116,9 +116,9 @@ WHO 361경혈은 [표준 경혈 아틀라스](../acupoint-network/standard-atlas
 
 | 살펴볼 주제 | 동씨 혈군을 읽는 출발점 | 함께 확인할 기존 자료 |
 |---|---|---|
-| 허리·하지 통증 | [영골·대백·완순](hand-dorsal.md), [수오금·수천금](forearm.md) | [요통](../conditions/low-back-pain.md), [좌골신경통 근거](../authority/conditions/sciatica.md) |
+| 허리·하지 통증 | [영골·대백·완순](hand-dorsal.md), [수오금·수천금](forearm.md) | [요통](../conditions/low-back-pain.md), [좌골신경통 근거](../conditions/sciatica.md#pain-research) |
 | 어깨·견갑부 | [중자·중선](hand-palmar.md) | [어깨통증](../conditions/shoulder-pain.md), [임상해부학](../clinical-anatomy/index.md) |
-| 무릎·보행 | [견중·건중](upper-arm.md), [통관·통산·통천](thigh.md) | [무릎통증](../conditions/knee-pain.md), [무릎 골관절염 근거](../authority/conditions/knee-osteoarthritis.md) |
+| 무릎·보행 | [견중·건중](upper-arm.md), [통관·통산·통천](thigh.md) | [무릎통증](../conditions/knee-pain.md), [무릎 골관절염 근거](../conditions/knee-pain.md#_9) |
 | 월경 관련 복통·소화 불편 | [문금·목두·목류](foot.md), [토수](hand-palmar.md), [사화혈](lower-leg-front.md) | [월경통 근거](../authority/conditions/primary-dysmenorrhea.md) |
 | 피로·눈의 불편 | [상삼황](thigh-medial.md) | [피로·원기회복](../conditions/energy-recovery.md) |
 | 비염·피부 불편 | [사마혈](thigh.md) | [알레르기비염 근거](../conditions/rhinitis.md#evidence) |

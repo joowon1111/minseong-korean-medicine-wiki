@@ -47,6 +47,27 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      authority/low-back-pain.md: conditions/low-back-pain.md#back-research
+      authority/conditions/chronic-neck-pain.md: conditions/neck-pain.md#_8
+      authority/conditions/chronic-neck-pain-update.md: conditions/neck-pain.md#_8
+      authority/conditions/shoulder-pain.md: conditions/shoulder-pain.md#pain-research
+      authority/conditions/frozen-shoulder.md: conditions/frozen-shoulder.md#pain-research
+      authority/conditions/rotator-cuff-disease.md: conditions/rotator-cuff-pain.md#pain-research
+      authority/conditions/ankle-sprain.md: conditions/ankle-pain.md#pain-research
+      authority/conditions/chronic-ankle-instability.md: conditions/ankle-instability.md#pain-research
+      authority/conditions/ankle-rehabilitation-evidence-map.md: conditions/ankle-instability.md#pain-research
+      authority/conditions/plantar-fasciitis.md: conditions/plantar-fasciitis.md#pain-research
+      authority/conditions/sciatica.md: conditions/sciatica.md#pain-research
+      authority/conditions/cervical-radiculopathy.md: conditions/cervical-disc-herniation.md#pain-research
+      authority/conditions/carpal-tunnel.md: conditions/carpal-tunnel.md#pain-research
+      authority/conditions/knee-osteoarthritis.md: conditions/knee-pain.md#_9
+      authority/conditions/knee-osteoarthritis-update.md: conditions/knee-pain.md#_9
+      authority/conditions/knee-osteoarthritis-acupuncture-moxibustion.md: conditions/knee-pain.md#_9
+      authority/conditions/acupuncture-dose-response-knee-oa.md: conditions/knee-pain.md#_9
+      authority/formulas/neck-pain-herbal-map.md: conditions/neck-pain.md#neck-herbal-research
+      authority/formulas/qishe-tablet-neck-pain.md: conditions/neck-pain.md#neck-herbal-research
+      authority/formulas/cervical-radiculopathy-herbal.md: conditions/cervical-disc-herniation.md#cervical-herbal-research
+      authority/formulas/knee-osteoarthritis-herbal-map.md: conditions/knee-pain.md#knee-herbal-research
       authority/conditions/lateral-epicondylitis.md: conditions/tennis-elbow.md#elbow-evidence
       authority/conditions/lateral-epicondylitis-update.md: conditions/tennis-elbow.md#elbow-evidence
       network/clinical-map.md: network/condition-to-treatment-map.md#_1
@@ -69,8 +90,8 @@ plugins:
       network/navigation-guide.md: guide/taxonomy.md#herb-formula-navigation
       conditions/heartburn.md: conditions/gastritis-symptoms.md
       conditions/stress-gut.md: autonomic/stress-digestion.md
-      authority/conditions/plantar-heel-pain-update.md: authority/conditions/plantar-fasciitis.md
-      authority/conditions/chronic-low-back-pain-update.md: authority/low-back-pain.md
+      authority/conditions/plantar-heel-pain-update.md: conditions/plantar-fasciitis.md#pain-research
+      authority/conditions/chronic-low-back-pain-update.md: conditions/low-back-pain.md#back-research
       authority/insomnia.md: authority/conditions/insomnia.md
       conditions/pcos.md: conditions/polycystic-ovary-syndrome.md
       conditions/preconception-herbal.md: conditions/infertility-preconception.md#preconception-herbal

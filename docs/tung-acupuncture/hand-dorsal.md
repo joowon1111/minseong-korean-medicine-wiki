@@ -143,6 +143,6 @@ tags: [동씨침법, 동씨기혈, 경혈, 침구]
 
 ## 임상에서 함께 확인할 것 {#clinical}
 
-요통·하지 통증에 손의 원위 혈군을 사용하는 예로 읽습니다. [요통](../conditions/low-back-pain.md)의 통증·앉기·보행과 [좌골신경통 근거](../authority/conditions/sciatica.md)를 연결하고, 동씨침 자체의 비교연구는 [침구 근거](../acupuncture-integrated/evidence.md#tung-study)에서 따로 확인합니다.
+요통·하지 통증에 손의 원위 혈군을 사용하는 예로 읽습니다. [요통](../conditions/low-back-pain.md)의 통증·앉기·보행과 [좌골신경통 근거](../conditions/sciatica.md#pain-research)를 연결하고, 동씨침 자체의 비교연구는 [침구 근거](../acupuncture-integrated/evidence.md#tung-study)에서 따로 확인합니다.
 
 전승의 활용 설명을 실제 치료에 연결할 때는 현재 진단·증상·기능과 적용한 혈군·좌우·자극법을 함께 기록합니다. [배혈과 동기요법 읽기](index.md#principles), [치료 후 재평가](../acupuncture-integrated/followup.md), [시술 전 안전 확인](../acupuncture-integrated/safety.md)으로 이어서 볼 수 있습니다.
