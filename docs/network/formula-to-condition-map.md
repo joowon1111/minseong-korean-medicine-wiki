@@ -77,6 +77,6 @@ last_reviewed: 2026-09-18
 | [마황탕](../formulas/mahuang-tang.md) | 태양상한·표실, 무한·오한·신통 등의 조합 | [감기 증상 안내](../conditions/common-cold.md) |
 | [소청룡탕](../formulas/xiaoqinglong-tang.md) | 표증과 수음이 겹친 양상 | [알레르기 비염](../conditions/rhinitis.md#allergic-rhinitis)·[기침](../conditions/cough.md) |
 | [소시호탕](../formulas/xiaochaihu-tang.md) | 소양병, 왕래한열·흉협고만·오심 등의 맥락 | [상한론 육경변증](../classics/shanghan-six-channels.md) |
-| [오령산](../formulas/wuling-san.md) | 수기불리, 갈증·소변·수분 분포의 관계 | [부종](../conditions/edema-swelling.md)·[오령산 구성](wuling-composition.md) |
+| [오령산](../formulas/wuling-san.md) | 수기불리, 갈증·소변·수분 분포의 관계 | [부종](../conditions/edema-swelling.md)·[오령산 구성](formula-composition-hub.md#wuling) |
 
 각 처방의 고전 설명과 현대 연구는 대상·구성·평가지표를 구분해 읽습니다. 원문에서 연구로 넘어가는 방법은 [고전→현대 연구 연결](classic-to-evidence-map.md), 전체 관계는 [통합 한의학 지식 그래프](integrated-knowledge-graph.md)를 참고합니다.

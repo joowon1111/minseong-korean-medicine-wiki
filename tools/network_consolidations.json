@@ -1,0 +1,221 @@
+{
+  "network/clinical-map.md": {
+    "target": "network/condition-to-treatment-map.md#_1",
+    "anchors": {
+      "_1": "network/condition-to-treatment-map.md#_1",
+      "_2": "network/condition-to-treatment-map.md#_3",
+      "_3": "network/condition-to-treatment-map.md#_5",
+      "_4": "network/condition-to-treatment-map.md#_4",
+      "_5": "network/condition-to-treatment-map.md#_2"
+    }
+  },
+  "network/fatigue-map.md": {
+    "target": "network/recovery-map.md#_1",
+    "anchors": {
+      "_1": "network/recovery-map.md#_1",
+      "_2": "network/recovery-map.md#_1",
+      "_3": "network/recovery-map.md#_1",
+      "_4": "network/recovery-map.md#_1",
+      "_5": "network/recovery-map.md#_1",
+      "_6": "network/recovery-map.md#_1"
+    }
+  },
+  "network/gongjin-dan-map.md": {
+    "target": "formulas/gongjin-dan.md#source-dose-original",
+    "anchors": {
+      "_1": "formulas/gongjin-dan.md#source-dose-original",
+      "_2": "formulas/gongjin-dan.md#source-dose-original",
+      "_3": "formulas/gongjin-dan.md#source-dose-original",
+      "_4": "formulas/gongjin-dan.md#source-dose-original",
+      "_5": "formulas/gongjin-dan.md#source-dose-original",
+      "_6": "formulas/gongjin-dan.md#source-dose-original"
+    }
+  },
+  "network/gyeongok-go-map.md": {
+    "target": "formulas/gyeongok-go.md#source-dose-original",
+    "anchors": {
+      "_1": "formulas/gyeongok-go.md#source-dose-original",
+      "_2": "formulas/gyeongok-go.md#source-dose-original",
+      "_3": "formulas/gyeongok-go.md#source-dose-original",
+      "_4": "formulas/gyeongok-go.md#source-dose-original",
+      "_5": "formulas/gyeongok-go.md#source-dose-original",
+      "_6": "formulas/gyeongok-go.md#source-dose-original"
+    }
+  },
+  "network/gongjin-vs-gyeongok.md": {
+    "target": "compare/gongjin-vs-gyeongok.md#composition",
+    "anchors": {
+      "_1": "compare/gongjin-vs-gyeongok.md#composition",
+      "_2": "compare/gongjin-vs-gyeongok.md#composition",
+      "_3": "compare/gongjin-vs-gyeongok.md#composition",
+      "_4": "compare/gongjin-vs-gyeongok.md#composition"
+    }
+  },
+  "network/ginseng-formulas.md": {
+    "target": "network/herb-to-formula-map.md#_2",
+    "anchors": {
+      "_1": "network/herb-to-formula-map.md#_2",
+      "_2": "network/herb-to-formula-map.md#_2",
+      "_3": "network/herb-to-formula-map.md#_2",
+      "_4": "network/herb-to-formula-map.md#_2",
+      "_5": "network/herb-to-formula-map.md#_2",
+      "_6": "network/herb-to-formula-map.md#_2",
+      "_7": "network/herb-to-formula-map.md#_2",
+      "_8": "network/herb-to-formula-map.md#_2",
+      "_9": "network/herb-to-formula-map.md#_2",
+      "_10": "network/herb-to-formula-map.md#_2",
+      "_11": "network/herb-to-formula-map.md#_2"
+    }
+  },
+  "network/astragalus-formulas.md": {
+    "target": "network/herb-to-formula-map.md#_3",
+    "anchors": {
+      "_1": "network/herb-to-formula-map.md#_3",
+      "_2": "network/herb-to-formula-map.md#_3",
+      "_3": "network/herb-to-formula-map.md#_3",
+      "_4": "network/herb-to-formula-map.md#_3",
+      "_5": "network/herb-to-formula-map.md#_3",
+      "_6": "network/herb-to-formula-map.md#_3"
+    }
+  },
+  "network/angelica-formulas.md": {
+    "target": "network/herb-to-formula-map.md#_4",
+    "anchors": {
+      "_1": "network/herb-to-formula-map.md#_4",
+      "_2": "network/herb-to-formula-map.md#_4",
+      "_3": "network/herb-to-formula-map.md#_4",
+      "_4": "network/herb-to-formula-map.md#_4",
+      "_5": "network/herb-to-formula-map.md#_4",
+      "_6": "network/herb-to-formula-map.md#_4",
+      "_7": "network/herb-to-formula-map.md#_4",
+      "_8": "network/herb-to-formula-map.md#_4",
+      "_9": "network/herb-to-formula-map.md#_4"
+    }
+  },
+  "network/atractylodes-formulas.md": {
+    "target": "network/herb-to-formula-map.md#atractylodes-poria",
+    "anchors": {
+      "_1": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_2": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_3": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_4": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_5": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_6": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_7": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_8": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_9": "network/herb-to-formula-map.md#atractylodes-poria"
+    }
+  },
+  "network/poria-formulas.md": {
+    "target": "network/herb-to-formula-map.md#atractylodes-poria",
+    "anchors": {
+      "_1": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_2": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_3": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_4": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_5": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_6": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_7": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_8": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_9": "network/herb-to-formula-map.md#atractylodes-poria",
+      "_10": "network/herb-to-formula-map.md#atractylodes-poria"
+    }
+  },
+  "network/licorice-formulas.md": {
+    "target": "network/herb-to-formula-map.md#licorice",
+    "anchors": {
+      "_1": "network/herb-to-formula-map.md#licorice",
+      "_2": "network/herb-to-formula-map.md#licorice",
+      "_3": "network/herb-to-formula-map.md#licorice",
+      "_4": "network/herb-to-formula-map.md#licorice",
+      "_5": "network/herb-to-formula-map.md#licorice",
+      "_6": "network/herb-to-formula-map.md#licorice",
+      "_7": "network/herb-to-formula-map.md#licorice",
+      "_8": "network/herb-to-formula-map.md#licorice",
+      "_9": "network/herb-to-formula-map.md#licorice",
+      "_10": "network/herb-to-formula-map.md#licorice",
+      "_11": "network/herb-to-formula-map.md#licorice",
+      "_12": "network/herb-to-formula-map.md#licorice",
+      "_13": "network/herb-to-formula-map.md#licorice"
+    }
+  },
+  "network/pinellia-formulas.md": {
+    "target": "network/herb-to-formula-map.md#_6",
+    "anchors": {
+      "_1": "network/herb-to-formula-map.md#_6",
+      "_2": "network/herb-to-formula-map.md#_6",
+      "_3": "network/herb-to-formula-map.md#_6",
+      "_4": "network/herb-to-formula-map.md#_6",
+      "_5": "network/herb-to-formula-map.md#_6",
+      "_6": "network/herb-to-formula-map.md#_6",
+      "_7": "network/herb-to-formula-map.md#_6",
+      "_8": "network/herb-to-formula-map.md#_6"
+    }
+  },
+  "network/gongjin-composition.md": {
+    "target": "network/formula-composition-hub.md#gongjin",
+    "anchors": {
+      "_1": "network/formula-composition-hub.md#gongjin",
+      "_2": "network/formula-composition-hub.md#gongjin",
+      "_3": "network/formula-composition-hub.md#gongjin",
+      "_4": "network/formula-composition-hub.md#gongjin",
+      "_5": "network/formula-composition-hub.md#gongjin",
+      "_6": "network/formula-composition-hub.md#gongjin",
+      "_7": "network/formula-composition-hub.md#gongjin"
+    }
+  },
+  "network/gyeongok-composition.md": {
+    "target": "network/formula-composition-hub.md#gyeongok",
+    "anchors": {
+      "_1": "network/formula-composition-hub.md#gyeongok",
+      "_2": "network/formula-composition-hub.md#gyeongok",
+      "_3": "network/formula-composition-hub.md#gyeongok",
+      "_4": "network/formula-composition-hub.md#gyeongok",
+      "_5": "network/formula-composition-hub.md#gyeongok",
+      "_6": "network/formula-composition-hub.md#gyeongok",
+      "_7": "network/formula-composition-hub.md#gyeongok"
+    }
+  },
+  "network/shengmai-composition.md": {
+    "target": "network/formula-composition-hub.md#shengmai",
+    "anchors": {
+      "_1": "network/formula-composition-hub.md#shengmai",
+      "_2": "network/formula-composition-hub.md#shengmai",
+      "_3": "network/formula-composition-hub.md#shengmai",
+      "_4": "network/formula-composition-hub.md#shengmai",
+      "_5": "network/formula-composition-hub.md#shengmai"
+    }
+  },
+  "network/wuling-composition.md": {
+    "target": "network/formula-composition-hub.md#wuling",
+    "anchors": {
+      "_1": "network/formula-composition-hub.md#wuling",
+      "_2": "network/formula-composition-hub.md#wuling",
+      "_3": "network/formula-composition-hub.md#wuling",
+      "_4": "network/formula-composition-hub.md#wuling",
+      "_5": "network/formula-composition-hub.md#wuling",
+      "_6": "network/formula-composition-hub.md#wuling",
+      "_7": "network/formula-composition-hub.md#wuling"
+    }
+  },
+  "network/shipjeondaebo-composition.md": {
+    "target": "network/formula-composition-hub.md#shipjeondaebo",
+    "anchors": {
+      "_1": "network/formula-composition-hub.md#shipjeondaebo",
+      "_2": "network/formula-composition-hub.md#shipjeondaebo",
+      "_3": "network/formula-composition-hub.md#shipjeondaebo",
+      "_4": "network/formula-composition-hub.md#shipjeondaebo",
+      "_5": "network/formula-composition-hub.md#shipjeondaebo"
+    }
+  },
+  "network/navigation-guide.md": {
+    "target": "guide/taxonomy.md#herb-formula-navigation",
+    "anchors": {
+      "_1": "guide/taxonomy.md#herb-formula-navigation",
+      "_2": "guide/taxonomy.md#herb-formula-navigation",
+      "_3": "guide/taxonomy.md#herb-formula-navigation",
+      "_4": "guide/taxonomy.md#herb-formula-navigation",
+      "_5": "guide/taxonomy.md#herb-formula-navigation"
+    }
+  }
+}

@@ -25,7 +25,7 @@ last_reviewed: 2026-08-19
 
 공진단은 정혈·간신·정기 소모를 보하는 방향이 두드러지고, 경옥고는 기와 진액을 함께 돌보는 양생적 성격이 두드러집니다. 어느 한쪽이 항상 더 좋다기보다 허손의 양상과 치료 목적에 따라 선택 방향이 달라집니다.
 
-→ [자세히 보기](../network/gongjin-vs-gyeongok.md)
+→ [자세히 보기](../compare/gongjin-vs-gyeongok.md#composition)
 
 ## 십전대보탕은 어떤 처방인가?
 

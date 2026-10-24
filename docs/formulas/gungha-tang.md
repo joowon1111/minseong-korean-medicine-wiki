@@ -113,5 +113,5 @@ last_reviewed: 2026-10-08
 - [옆구리 통증](../conditions/flank-pain.md)
 - [이진탕](erchen-tang.md)
 - [비위·담음 처방군](../formula-architecture/spleen-phlegm-family.md)
-- [반하를 쓰는 처방](../network/pinellia-formulas.md)
+- [반하를 쓰는 처방](../network/herb-to-formula-map.md#_6)
 - [방제 찾기](../herbal-integrated/formulas.md)

@@ -69,4 +69,4 @@ tags: [봉밀, 꿀, 경옥고, 고제, 보약, 본초]
 - [생지황](rehmannia-root-fresh.md)
 - [인삼](ginseng.md)
 - [복령](poria.md)
-- [경옥고 구성 본초](../network/gyeongok-composition.md)
+- [경옥고 구성 본초](../network/formula-composition-hub.md#gyeongok)

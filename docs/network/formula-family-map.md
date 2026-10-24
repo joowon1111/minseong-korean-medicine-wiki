@@ -1,122 +1,88 @@
 ---
 title: 처방군 지도
-description: 보익제·화담제·해표제·이수제·거풍습제를 중심으로 대표 처방과 연결 구조를 한눈에 정리합니다.
+description: 보익·화담이기·해표·이수·거풍습 처방군을 핵심 증후, 배합 차이, 혼동할 처방과 원전·임상근거 경로로 비교합니다.
 tags: [한의학지식망, 방제학, 처방분류]
 status: 검토완료
 last_reviewed: 2026-08-19
 ---
-# 처방군 지도
+# 처방군 지도 {#_1}
 
-한의학 처방은 개별 처방만 외우는 것보다 **처방군의 방향과 서로의 관계**를 함께 보면 훨씬 이해하기 쉽다.
+처방군은 치료 방향이 비슷한 처방을 묶어 이해하는 분류입니다. **같은 군의 처방이 서로 대체 가능하거나, 같은 증상에 전부 필요하다는 뜻은 아닙니다.** 허실·한열·표리와 동반 증상, 구성·비율·제형을 확인해 다른 선택 이유를 읽습니다.
 
----
+## 1. 보익제 {#1}
 
-## 1. 보익제
+### 보기 {#_2}
 
-### 보기
-- [사군자탕](../formulas/sijunzi-tang.md)
-- [육군자탕](../formulas/liujunzi-tang.md)
-- [보중익기탕](../formulas/buzhong-yiqi-tang.md)
+[사군자탕](../formulas/sijunzi-tang.md)은 보기건비의 기본 골격, [육군자탕](../formulas/liujunzi-tang.md)은 기허에 담습·오심을 함께 살피는 배합, [보중익기탕](../formulas/buzhong-yiqi-tang.md)은 황기 중심의 보기승양이라는 다른 구조입니다. 피곤하다는 공통 증상보다 식욕·식후 불편·땀·활동과 중기하함의 단서를 비교합니다.
 
-### 보혈
-- [사물탕](../formulas/siwu-tang.md)
+### 보혈 {#_3}
 
-### 기혈쌍보
-- [팔물탕](../formulas/bazhen-tang.md)
-- [십전대보탕](../formulas/shi-quan-da-bu-tang.md)
-- [귀비탕](../formulas/guibi-tang.md)
+[사물탕](../formulas/siwu-tang.md)은 숙지황·당귀·백작약·천궁으로 보혈·조혈을 함께 봅니다. 출전별 지황·용량을 확인하고, 혈허라는 변증과 혈액검사로 확인하는 빈혈을 구분합니다.
 
-### 익기양음
-- [생맥산](../formulas/shengmai-san.md)
+### 기혈쌍보 {#_4}
 
-→ [보기·기혈쌍보 처방 계보](tonic-formula-lineage.md)
+[팔물탕](../formulas/bazhen-tang.md)은 사군자·사물의 골격을, [십전대보탕](../formulas/shi-quan-da-bu-tang.md)은 황기·육계의 추가 의미를 비교합니다. [귀비탕](../formulas/guibi-tang.md)은 단순 기혈보충 외에 심계·건망·불면과 안신의 비중을 함께 읽습니다. 소화가 약하거나 열감이 있는 상황을 같은 온보 방향으로 묶지 않습니다.
 
----
+### 익기양음 {#_5}
 
-## 2. 화담·이기 계열
+[생맥산](../formulas/shengmai-san.md)은 인삼·맥문동·오미자로 기력과 진액 소모를 함께 살피고, [경옥고](../formulas/gyeongok-go.md)는 생지황즙·인삼·복령·봉밀의 고제로 보기·양음·건비·윤조를 결합합니다. 이름·제형·출전과 당류·복용량을 확인하며 [보기·기혈쌍보 계보](tonic-formula-lineage.md)와 [보익 처방 비교](tonic-formula-compare.md)로 이어집니다.
 
-- [온담탕](../formulas/wendan-tang.md)
-- [육군자탕](../formulas/liujunzi-tang.md)
-- [소청룡탕](../formulas/xiaoqinglong-tang.md)
+## 2. 화담·이기 계열 {#2}
 
-중심 본초:
-- [반하](../herbs/pinellia.md)
-- [진피](../herbs/citrus-peel.md)
-- [복령](../herbs/poria.md)
+| 처방 | 배합의 중심 | 혼동하지 않을 차이 |
+|---|---|---|
+| [이진탕](../formulas/erchen-tang.md) | 반하·진피·복령·감초의 화담·이기·조화 | 기허를 보하는 골격이 중심인 육군자탕과 구분 |
+| [육군자탕](../formulas/liujunzi-tang.md) | 보기건비 + 반하·진피 | 허약·식욕과 담습·오심을 함께 평가 |
+| [온담탕](../formulas/wendan-tang.md) | 화담·이기와 위기불화 | 흉민·오심·심계·수면 동반; 귀비탕과 다른 구조 |
+| [소청룡탕](../formulas/xiaoqinglong-tang.md) | 표증에 수음이 겹친 배합 | 반하가 들어가도 단순 소화기 화담 처방과 같지 않음 |
 
----
+[반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)의 공통 포함 여부보다 짝약재와 용량을 봅니다. 담음은 가래나 특정 소화기 질환과 같은 뜻이 아니며 [담음 변증](../diagnostics/phlegm-fluid.md)·[소화불량 임상 지도](dyspepsia-map.md)에서 구체적 증후로 돌아갑니다.
 
-## 3. 해표제·상한론 처방군
+## 3. 해표제·상한론 처방군 {#3}
 
-### 태양병 계열
-- [계지탕](../formulas/guizhi-tang.md)
-- [마황탕](../formulas/mahuang-tang.md)
-- [계지가갈근탕](../formulas/guizhi-jia-gegen-tang.md)
-- [갈근탕](../formulas/gegen-tang.md)
-- [대청룡탕](../formulas/daqinglong-tang.md)
-- [소청룡탕](../formulas/xiaoqinglong-tang.md)
-- [마행감석탕](../formulas/maxing-ganshi-tang.md)
+### 태양병 계열 {#_6}
 
-→ [상한론](../classics/shanghanlun.md)
+| 비교할 처방 | 원전에서 읽는 주요 갈림점 | 확인할 문서 |
+|---|---|---|
+| 계지탕 ↔ 마황탕 | 땀·오풍과 무한·오한·신통 등 증상 조합 | [계지탕](../formulas/guizhi-tang.md)·[마황탕](../formulas/mahuang-tang.md) |
+| 계지가갈근탕 ↔ 갈근탕 | 항배강에 땀 유무·구성과 판본을 함께 확인 | [계지가갈근탕](../formulas/guizhi-jia-gegen-tang.md)·[갈근탕](../formulas/gegen-tang.md) |
+| 대청룡탕 ↔ 소청룡탕 | 번조·내열을 동반하는 표실과 수음 동반의 차이 | [대청룡탕](../formulas/daqinglong-tang.md)·[소청룡탕](../formulas/xiaoqinglong-tang.md) |
+| 마황탕 ↔ 마행감석탕 | 발한·표증과 폐열·천증 문맥의 차이 | [마행감석탕](../formulas/maxing-ganshi-tang.md) |
 
----
+이 처방들이 《상한론》에 연결된다고 모두 같은 해표·발한제로 분류하지 않습니다. 마행감석탕의 석고 배합·폐열 문맥처럼 치료 뒤 변화도 확인합니다. 감기·비염·목결림이라는 현대 명칭만으로 고방을 고르지 않고 [전체 조문 지도](shanghan-taiyang-map.md)에서 맥증·땀·갈증·수음과 치료 전후를 읽습니다.
 
-## 4. 이수제
+마황 함유 처방은 심혈관질환·불면·다른 자극 성분·병용약을 확인합니다. 소청룡탕의 세신·감초 등도 규격과 전체 구성·용량으로 확인합니다. [한약 안전성](../herbal-integrated/safety.md)
 
-- [오령산](../formulas/wuling-san.md)
+## 4. 이수제 {#4}
 
-주요 본초:
-- [복령](../herbs/poria.md)
-- 백출
-- 저령
-- 택사
+[오령산](../formulas/wuling-san.md)은 택사·저령·복령·백출·계지의 이수·건비·기화 구조입니다. 소변량·갈증·음수 뒤 반응과 표리 맥락이 중요하며, ‘몸이 붓는다’는 이유만으로 이뇨제처럼 쓰는 처방은 아닙니다.
 
-오령산은 단순한 '이뇨 처방'보다 상한론의 표리·갈증·수액대사 맥락 속에서 이해하는 것이 중요하다.
+| 비교할 처방 | 배합과 병증의 차이 |
+|---|---|
+| [오령산](../formulas/wuling-san.md) | 수기불리와 갈증·소변·음수 반응을 함께 봄 |
+| [영계출감탕](../formulas/linggui-zhugan-tang.md) | 심하역만·기상충·현훈과 수음·양기의 조합 |
+| [진무탕](../formulas/zhenwu-tang.md) | 양허·수기와 냉감·무력·부종 등의 복합 맥락 |
 
----
+처방의 유사한 이름·본초보다 소변·부종의 원인, 냉열·전신상태·약물을 확인합니다. 현대 신장·심장질환·탈수 평가와 수기 변증을 구분하며, 원방의 제형과 현대 제제의 연구도 따로 읽습니다. [다섯 본초와 원문](formula-composition-hub.md#wuling)
 
-## 5. 거풍습·근골계 처방
+## 5. 거풍습·근골계 처방 {#5}
 
-- [독활기생탕](../formulas/duhuo-jisheng-tang.md)
+| 처방 | 중심에 두는 양상 | 비교 이유 |
+|---|---|---|
+| [독활기생탕](../formulas/duhuo-jisheng-tang.md) | 오래된 통증·풍한습비에 간신·기혈허 동반 | 거풍습과 보익이 함께 있는 구조 |
+| [오적산](../formulas/wuji-san.md) | 한습·기혈·담식이 얽힌 통증·냉감 | 소화·냉열·급만성과 전체 증후 비교 |
+| [소경활혈탕](../formulas/shujing-huoxue-tang.md) | 혈허·어혈·풍습이 겹친 사지 통증 | 보혈·활혈·통락의 비중 |
+| [당귀수산](../formulas/danggui-susan.md) | 외상 뒤 멍·고정 압통 | 만성 허손 중심의 처방과 구분 |
+| [작약감초탕](../formulas/shaoyao-gancao-tang.md) | 근육 경련·당김·급박 | 관절·신경 질환 전체를 포괄하는 처방과 구분 |
 
-주요 연결 본초:
-- [당귀](../herbs/angelica.md)
-- [인삼](../herbs/ginseng.md)
-- [두충](../herbs/eucommia.md)
-- [우슬](../herbs/achyranthes.md)
+두충·우슬을 포함한다는 사실만으로 모든 디스크·관절염에 같은 보익 처방을 적용하지 않습니다. [통증의 원인·침구·운동](condition-expansion-map.md#_2)과 [근골격 처방 감별](formula-to-condition-map.md#_5)에서 다시 확인합니다.
 
----
+## 6. 처방군 간 연결 {#6}
 
-## 6. 처방군 간 연결
+한 처방은 여러 기능을 가질 수 있습니다. 육군자탕은 보기와 화담, 소청룡탕은 표증과 수음, 독활기생탕은 거풍습과 보익을 함께 설명합니다. 군을 하나 골라야 하는 배타적인 분류가 아니라 **주된 치료 목표와 그 목표를 보완하는 배합**을 비교하는 지도입니다.
 
-```text
-보기
-사군자탕
-├─ + 반하·진피 → 육군자탕
-├─ + 사물탕 → 팔물탕 → 십전대보탕
-├─ 변형 → 보중익기탕
-└─ 보기+보혈+안신 → 귀비탕
+임상시험은 해당 구성·제형·환자군을 대상으로 하므로 같은 군 전체의 효과로 확대하지 않습니다. 원문·가감·제제 차이는 [구성 네트워크](formula-composition-hub.md), 실제 증상과 비교는 [방제→질환·변증](formula-to-condition-map.md), 연구의 적용 범위는 [고전→현대 연구](classic-to-evidence-map.md)로 이어집니다.
 
-화담
-반하·진피·복령
-├─ 온담탕
-├─ 육군자탕
-└─ 소청룡탕
+## 본초에서 역으로 보기 {#_7}
 
-상한론 태양병
-계지탕 ↔ 마황탕
-├─ 계지가갈근탕
-├─ 갈근탕
-├─ 대청룡탕
-├─ 소청룡탕
-└─ 마행감석탕
-```
-
-## 본초에서 역으로 보기
-- [인삼을 쓰는 처방](ginseng-formulas.md)
-- [황기를 쓰는 처방](astragalus-formulas.md)
-- [당귀를 쓰는 처방](angelica-formulas.md)
-- [백출을 쓰는 처방](atractylodes-formulas.md)
-- [복령을 쓰는 처방](poria-formulas.md)
-- [감초를 쓰는 처방](licorice-formulas.md)
-- [반하를 쓰는 처방](pinellia-formulas.md)
+[본초→방제 역탐색](herb-to-formula-map.md)에서 인삼·황기·당귀·백출·복령·감초·반하를 같은 화면에서 비교합니다. 개별 본초의 출전·기원·포제와 처방 전체를 왕복해 보며, 이름이 같은 처방도 출전·비율이 다르면 구분해 보존합니다.

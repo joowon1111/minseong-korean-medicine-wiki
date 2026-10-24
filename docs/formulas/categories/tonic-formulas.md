@@ -34,4 +34,4 @@ last_reviewed: 2026-08-22
 
 ## 임상 연결
 
-→ [피로·회복 임상 연결](/network/fatigue-map/)
+→ [피로·회복 임상 연결](/network/recovery-map/#_1)

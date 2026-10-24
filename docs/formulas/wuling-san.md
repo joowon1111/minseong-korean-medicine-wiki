@@ -146,7 +146,7 @@ last_reviewed: 2026-09-06
 - [상한론 네 수기 처방의 감별](../formula-architecture/shanghan-family.md#water-formula-differential)
 - [두통](../conditions/headache.md)
 - [본초·방제 수분대사 지도](../herbal-integrated/herbs-for-edema.md)
-- [오령산 구성 본초 지식망](../network/wuling-composition.md)
+- [오령산 구성 본초 지식망](../network/formula-composition-hub.md#wuling)
 
 ## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
 

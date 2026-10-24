@@ -69,4 +69,4 @@ last_reviewed: 2026-08-22
 
 상담에서는 “어느 것이 더 좋나요?”에 더해 **왜 이 구성이 필요한지, 무엇이 얼마나 달라지면 도움이 된 것으로 볼지, 언제 다시 평가할지**를 물어보세요.
 
-[한약 복용 후 경과 기록](../conditions/herbal-followup.md) · [공진단·경옥고의 고전적 맥락](../network/gongjin-vs-gyeongok.md) · [보익·회복 처방 전체 비교](../formula-architecture/tonic-family.md)
+[한약 복용 후 경과 기록](../conditions/herbal-followup.md) · [공진단·경옥고의 고전적 맥락](gongjin-vs-gyeongok.md#composition) · [보익·회복 처방 전체 비교](../formula-architecture/tonic-family.md)

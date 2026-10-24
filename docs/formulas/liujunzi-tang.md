@@ -101,7 +101,7 @@ last_reviewed: 2026-09-06
 - [기능성소화불량](../conditions/functional-dyspepsia.md)
 - [육군자탕 현대 임상근거](../research/formulas/rikkunshito.md)
 - [담음](../diagnostics/phlegm-fluid.md)
-- [인삼을 쓰는 처방](../network/ginseng-formulas.md)
+- [인삼을 쓰는 처방](../network/herb-to-formula-map.md#_2)
 - [수치·법제·용량 기록 표준](../herbal-integrated/evidence.md#processing-standard)
 
 ## 변증·처방·치료를 이어서 보기 {#pattern-care-network}

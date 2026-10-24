@@ -32,7 +32,7 @@ last_reviewed: 2026-08-19
 공진단에서는 녹용·당귀·산수유와 함께 배합되어, 보익 약재의 밀도 높은 구성에 **개규·행기·통락의 방향**을 더한다.
 
 → [공진단](../formulas/gongjin-dan.md)  
-→ [공진단 지식망](../network/gongjin-dan-map.md)
+→ [공진단 지식망](../formulas/gongjin-dan.md#source-dose-original)
 
 ## 원료와 관리
 사향은 야생동물 보호와 관련된 국제·국내 규정 및 원료 관리가 매우 중요한 약재다. 실제 의료용 제제에서는 합법적인 유통·관리 기준에 맞는 원료 사용이 전제된다.

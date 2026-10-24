@@ -39,6 +39,7 @@ hooks:
 - tools/acupoint_diagrams.py
 - tools/sitemap_lastmod.py
 - tools/page_discovery.py
+- tools/network_redirects.py
 plugins:
 - search:
     lang: ko
@@ -46,6 +47,24 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      network/clinical-map.md: network/condition-to-treatment-map.md#_1
+      network/fatigue-map.md: network/recovery-map.md#_1
+      network/gongjin-dan-map.md: formulas/gongjin-dan.md#source-dose-original
+      network/gyeongok-go-map.md: formulas/gyeongok-go.md#source-dose-original
+      network/gongjin-vs-gyeongok.md: compare/gongjin-vs-gyeongok.md#composition
+      network/ginseng-formulas.md: network/herb-to-formula-map.md#_2
+      network/astragalus-formulas.md: network/herb-to-formula-map.md#_3
+      network/angelica-formulas.md: network/herb-to-formula-map.md#_4
+      network/atractylodes-formulas.md: network/herb-to-formula-map.md#atractylodes-poria
+      network/poria-formulas.md: network/herb-to-formula-map.md#atractylodes-poria
+      network/licorice-formulas.md: network/herb-to-formula-map.md#licorice
+      network/pinellia-formulas.md: network/herb-to-formula-map.md#_6
+      network/gongjin-composition.md: network/formula-composition-hub.md#gongjin
+      network/gyeongok-composition.md: network/formula-composition-hub.md#gyeongok
+      network/shengmai-composition.md: network/formula-composition-hub.md#shengmai
+      network/wuling-composition.md: network/formula-composition-hub.md#wuling
+      network/shipjeondaebo-composition.md: network/formula-composition-hub.md#shipjeondaebo
+      network/navigation-guide.md: guide/taxonomy.md#herb-formula-navigation
       conditions/heartburn.md: conditions/gastritis-symptoms.md
       conditions/stress-gut.md: autonomic/stress-digestion.md
       authority/conditions/plantar-heel-pain-update.md: authority/conditions/plantar-fasciitis.md
@@ -1190,35 +1209,17 @@ nav:
     - network/index.md
     - 임상 증상·질환 지도:
       - 불면 임상 지식망: network/insomnia-map.md
-      - 만성피로 임상 지식망: network/fatigue-map.md
       - 소화불량 임상 지식망: network/dyspepsia-map.md
       - 요통 임상 지식망: network/low-back-pain-map.md
-      - 증상별 임상 지도: network/clinical-map.md
       - 질환·증상 확장 지도: network/condition-expansion-map.md
       - 질환→치료 통합 지도: network/condition-to-treatment-map.md
     - 본초·방제 연결:
       - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
-      - 인삼을 쓰는 처방: network/ginseng-formulas.md
-      - 황기를 쓰는 처방: network/astragalus-formulas.md
-      - 당귀를 쓰는 처방: network/angelica-formulas.md
-      - 백출을 쓰는 처방: network/atractylodes-formulas.md
-      - 복령을 쓰는 처방: network/poria-formulas.md
-      - 감초를 쓰는 처방: network/licorice-formulas.md
-      - 반하를 쓰는 처방: network/pinellia-formulas.md
       - 처방군 지도: network/formula-family-map.md
-      - 공진단 지식망: network/gongjin-dan-map.md
-      - 경옥고 지식망: network/gyeongok-go-map.md
-      - 공진단과 경옥고 비교: network/gongjin-vs-gyeongok.md
       - 보익·양생 허브: network/tonic-wellness-hub.md
       - 보익 처방 비교: network/tonic-formula-compare.md
       - 피로·회복 지식망: network/recovery-map.md
       - 처방 구성 네트워크: network/formula-composition-hub.md
-      - 공진단 구성 본초: network/gongjin-composition.md
-      - 경옥고 구성 본초: network/gyeongok-composition.md
-      - 생맥산 구성 본초: network/shengmai-composition.md
-      - 오령산 구성 본초: network/wuling-composition.md
-      - 십전대보탕 구성 본초: network/shipjeondaebo-composition.md
-      - 본초·방제 분류 안내: network/navigation-guide.md
       - 본초→방제 역탐색: network/herb-to-formula-map.md
       - 방제→질환·변증 지도: network/formula-to-condition-map.md
     - 침구·치료 연결:

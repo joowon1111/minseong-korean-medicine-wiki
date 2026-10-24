@@ -116,7 +116,7 @@ hide:
 - [녹용](../herbs/cervi-parvum-cornu.md) — 기원·부위·품질·처방 속 역할
 - [공진단](../formulas/gongjin-dan.md) — 녹용·당귀·산수유·사향의 배합 구조
 - [경옥고](../formulas/gyeongok-go.md) — 인삼·생지황·복령·봉밀의 구성과 회복 맥락
-- [공진단과 경옥고 비교](../network/gongjin-vs-gyeongok.md)
+- [공진단과 경옥고 비교](../compare/gongjin-vs-gyeongok.md#composition)
 - [대표 보약 처방 비교표](../clinical-guides/tonic-comparison-matrix.md)
 - [녹용보약 통합 가이드](../clinical-guides/deer-antler-tonic-guide.md)
 

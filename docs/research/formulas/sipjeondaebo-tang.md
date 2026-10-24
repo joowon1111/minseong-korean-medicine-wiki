@@ -1,4 +1,4 @@
-﻿---
+---
 title: 십전대보탕 임상근거
 description: 십전대보탕의 암 관련 피로·식욕·삶의 질에 대한 systematic review와 임상시험을 정리합니다.
 tags: [십전대보탕, 임상근거, 피로]
@@ -30,7 +30,7 @@ last_reviewed: 2026-08-19
 1. Park J, et al. *Efficacy and safety of Sipjeondaebo-tang for cancer-related fatigue: A systematic review and meta-analysis.* [PMID 39368761](https://pubmed.ncbi.nlm.nih.gov/39368761/).
 2. *Efficacy and Safety of Sipjeondaebo-Tang for Anorexia in Patients with Cancer: A Pilot, Randomized, Double-Blind, Placebo-Controlled Trial.* [PMID 29441116](https://pubmed.ncbi.nlm.nih.gov/29441116/), [DOI 10.1155/2017/8780325](https://doi.org/10.1155/2017/8780325).
 
-→ [십전대보탕 구성 본초](../../network/shipjeondaebo-composition.md)
+→ [십전대보탕 구성 본초](../../network/formula-composition-hub.md#shipjeondaebo)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

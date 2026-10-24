@@ -1,4 +1,4 @@
-﻿---
+---
 title: 경옥고 임상근거
 description: 경옥고의 무작위시험 고찰·면역 연구·건강인 시험·롱코비드 연구와 이중맹검 계획서를 대상·결과·예방 및 병후 회복 질문별로 구분합니다.
 tags: [경옥고, 임상근거, 보익]
@@ -63,7 +63,7 @@ last_reviewed: 2026-08-19
 2. Sunwoo YY, et al. *Hematologic and Serological Investigation of Effect on Gyeongokgo in Healthy Individuals: a Randomized, Subject-assessor-blind, Placebo-controlled, Single-center Pilot Study.* 2019. [DOI 10.15188/kjopp.2019.08.33.4.239](https://doi.org/10.15188/kjopp.2019.08.33.4.239).
 3. Kim TH, et al. *Herbal medicine (Kyungok-go) for fatigue in Long COVID patients: A prospective multicenter pilot study.* 2026. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13137889/).
 
-→ [경옥고 지식망](../../network/gyeongok-go-map.md)
+→ [경옥고 지식망](../../formulas/gyeongok-go.md#source-dose-original)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서 {#_3}
