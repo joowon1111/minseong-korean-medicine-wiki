@@ -87,7 +87,7 @@ MRI는 추간판과 신경을 보는 데 유용하지만 모든 급성요통에 
 - 약침은 제제·알레르기·항응고제와 시술 깊이를 확인하며, 척추관 안으로 주입하는 치료와 구분합니다.
 - 부항은 넓은 요둔부 근긴장 완화를 목표로 활용합니다.
 
-침 관련 연구는 [좌골신경통 현대 임상근거](../authority/conditions/sciatica.md), 치료별 차이는 [침·전침 비교](../compare/acupuncture-vs-electroacupuncture.md)에서 이어서 봅니다. 통증 완화와 근력 회복은 별도로 평가합니다.
+침 관련 연구는 [좌골신경통 현대 임상근거](sciatica.md#pain-research), 치료별 차이는 [침·전침 비교](../compare/acupuncture-vs-electroacupuncture.md)에서 이어서 봅니다. 통증 완화와 근력 회복은 별도로 평가합니다.
 
 ### 한약치료 {#patterns-formulas}
 

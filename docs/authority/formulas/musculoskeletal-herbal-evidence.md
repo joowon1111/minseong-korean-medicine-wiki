@@ -16,7 +16,7 @@ last_reviewed: 2026-09-06
 | 지금 궁금한 증상 | 이 페이지에서 보기 | 질환·증상 상세 |
 |---|---|---|
 | 허리가 아프고 엉덩이·다리로 뻗침 | [요통·디스크·좌골신경통](#low-back) | [요통](../../conditions/low-back-pain.md) · [좌골신경통](../../conditions/sciatica.md) |
-| 목이 굳고 어깨·팔이 당기거나 저림 | [목·경추](#neck) | [목통증](../../conditions/neck-pain.md) · [경추 신경근병증](../conditions/cervical-radiculopathy.md) |
+| 목이 굳고 어깨·팔이 당기거나 저림 | [목·경추](#neck) | [목통증](../../conditions/neck-pain.md) · [경추 신경근병증](../../conditions/cervical-disc-herniation.md#pain-research) |
 | 어깨·견갑골이 아프고 팔 올리기가 불편함 | [어깨·등·상지](#shoulder) | [어깨통증](../../conditions/shoulder-pain.md) · [견갑골 통증](../../conditions/scapular-pain.md) |
 | 무릎이 뻣뻣하고 걷기·계단이 힘듦 | [무릎 골관절염](#knee) | [무릎통증](../../conditions/knee-pain.md) · [계단에서 무릎통증](../../conditions/stairs-knee-pain.md) |
 | 삐거나 부딪힌 뒤 멍·부종·통증이 남음 | [염좌·타박·사고 후 통증](#injury) | [발목통증](../../conditions/ankle-pain.md) · [교통사고 후유증](../../conditions/traffic-accident-sequelae.md) |
@@ -66,7 +66,7 @@ last_reviewed: 2026-09-06
 
 치료 전후에는 목 회전범위, 운전·컴퓨터 작업의 불편, 야간 통증과 팔 저림을 함께 봅니다.
 
-→ [목통증 한약 지도](neck-pain-herbal-map.md) · [경추 신경근병증 한약](cervical-radiculopathy-herbal.md) · [회수산](../../formulas/huishou-san.md) · [컴퓨터 목·어깨통증](../../conditions/neck-pain.md#work-posture-patterns)
+→ [목통증 한약 지도](../../conditions/neck-pain.md#neck-herbal-research) · [경추 신경근병증 한약](../../conditions/cervical-disc-herniation.md#cervical-herbal-research) · [회수산](../../formulas/huishou-san.md) · [컴퓨터 목·어깨통증](../../conditions/neck-pain.md#work-posture-patterns)
 
 ## 어깨·견갑골·등·상지 통증 {#shoulder}
 
@@ -96,7 +96,7 @@ last_reviewed: 2026-09-06
 
 국내 표준화 복합 생약 추출물 **SKI306X·GCSB-5·PG201**의 사람 대상 비교시험도 기존 자료에 정리되어 있습니다. 연구에 사용한 경구 제제와 탕약·보험 한약·약침을 구분해 읽습니다.
 
-→ [무릎 골관절염 한약 지도](knee-osteoarthritis-herbal-map.md) · [SKI306X 비교시험](../../herbal-integrated/formula-for-pain.md#ski306x-clinical-trial) · [GCSB-5 비교시험](../../herbal-integrated/formula-for-pain.md#gcsb5-clinical-trials) · [PG201 비교시험](../../herbal-integrated/formula-for-pain.md#pg201-knee-trial) · [손 골관절염 GCSB-5 연구](../../herbal-integrated/formula-for-pain.md#gcsb5-hand-trial)
+→ [무릎 골관절염 한약 지도](../../conditions/knee-pain.md#knee-herbal-research) · [SKI306X 비교시험](../../herbal-integrated/formula-for-pain.md#ski306x-clinical-trial) · [GCSB-5 비교시험](../../herbal-integrated/formula-for-pain.md#gcsb5-clinical-trials) · [PG201 비교시험](../../herbal-integrated/formula-for-pain.md#pg201-knee-trial) · [손 골관절염 GCSB-5 연구](../../herbal-integrated/formula-for-pain.md#gcsb5-hand-trial)
 
 ## 염좌·타박·교통사고 후 통증 {#injury}
 

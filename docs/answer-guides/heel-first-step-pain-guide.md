@@ -25,5 +25,5 @@ tags: [발뒤꿈치통증, 아침첫발통증, 족저통증, 보행]
 - [족저근막염](../conditions/plantar-fasciitis.md)
 - [아킬레스건 통증](../conditions/achilles-pain.md)
 - [종아리·발뒤꿈치 MPS](../clinical-anatomy/mps-calf.md)
-- [족저근막염 치료 근거](../authority/conditions/plantar-fasciitis.md)
+- [족저근막염 치료 근거](../conditions/plantar-fasciitis.md#pain-research)
 - [근골격 통증 핵심](../acupuncture-integrated/musculoskeletal.md)

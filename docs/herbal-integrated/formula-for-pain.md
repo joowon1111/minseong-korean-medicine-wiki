@@ -73,7 +73,7 @@ last_reviewed: 2026-09-18
 
 | 주로 불편한 곳 | 먼저 확인할 문서 |
 |---|---|
-| 목·어깨와 팔 저림 | [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md) · [경추 신경근병증](../authority/conditions/cervical-radiculopathy.md) |
+| 목·어깨와 팔 저림 | [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md) · [경추 신경근병증](../conditions/cervical-disc-herniation.md#pain-research) |
 | 허리와 다리로 뻗치는 통증 | [요통](../conditions/low-back-pain.md) · [좌골신경통](../conditions/sciatica.md) |
 | 무릎·발목·외상 뒤 통증 | [무릎통증](../conditions/knee-pain.md) · [발목통증](../conditions/ankle-pain.md) · [교통사고 후유증](../conditions/traffic-accident-sequelae.md) |
 | 두통과 목 긴장 | [두통 한약](formula-for-headache.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) · [천궁다조산](../formulas/chuanxiong-chatiao-san.md) |

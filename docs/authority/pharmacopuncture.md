@@ -59,7 +59,7 @@ last_reviewed: 2026-09-29
 
 2024년 유착성관절낭염 연구는 **50명**에서 6주간 주 2회 약침과 물리치료를 비교했습니다. 7주 통증·SPADI와 어깨 굴곡·외전 등의 개선이 보고됐습니다. 후속 본시험의 실행 가능성을 살핀 **예비시험**이라는 점을 함께 표시합니다. [Kim 등, PMID 39224580](https://pubmed.ncbi.nlm.nih.gov/39224580/)
 
-야간통·옷 입기·머리 감기와 능동·수동 가동범위를 함께 평가합니다. → [오십견 안내](../conditions/frozen-shoulder.md) · [오십견 전체 근거](conditions/frozen-shoulder.md)
+야간통·옷 입기·머리 감기와 능동·수동 가동범위를 함께 평가합니다. → [오십견 안내](../conditions/frozen-shoulder.md) · [오십견 전체 근거](../conditions/frozen-shoulder.md#pain-research)
 
 ## 초음파 유도 연구의 의미 {#ultrasound-pharmacopuncture-evidence}
 

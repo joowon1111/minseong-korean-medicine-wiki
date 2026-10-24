@@ -42,8 +42,8 @@ last_reviewed: '2026-09-05'
 
 | 핵심 논문·규모 | 확인된 주요 성과 | 상세 결과·원문 |
 |---|---|---|
-| Berman 등, *Annals of Internal Medicine*, 2004 · 무릎 골관절염 570명 | 26주 WOMAC 개선이 가짜침보다 기능 2.5점·통증 0.87점 더 큼 | [평가 시점·척도·탈락률](../authority/conditions/knee-osteoarthritis.md#berman-knee-trial) · [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) |
-| Witt 등, *The Lancet*, 2005 · 무릎 골관절염 294명, 28개 기관 | 8주 WOMAC 지수가 최소침보다 8.8점·대기군보다 22.7점 유리 | [비교군과 장기 결과](../authority/conditions/knee-osteoarthritis.md#witt-knee-trial) · [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) |
+| Berman 등, *Annals of Internal Medicine*, 2004 · 무릎 골관절염 570명 | 26주 WOMAC 개선이 가짜침보다 기능 2.5점·통증 0.87점 더 큼 | [평가 시점·척도·탈락률](../conditions/knee-pain.md#berman-knee-trial) · [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) |
+| Witt 등, *The Lancet*, 2005 · 무릎 골관절염 294명, 28개 기관 | 8주 WOMAC 지수가 최소침보다 8.8점·대기군보다 22.7점 유리 | [비교군과 장기 결과](../conditions/knee-pain.md#witt-knee-trial) · [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) |
 | Zhao 등, *JAMA Internal Medicine*, 2017 · 편두통 249명 배정·245명 분석 | 13–16주의 4주당 발작 횟수 감소가 가짜침보다 1.1회 더 큼 | [발작 횟수와 두통일수 구분](../authority/conditions/migraine.md#jama-migraine-prevention) · [PMID 28241154](https://pubmed.ncbi.nlm.nih.gov/28241154/) |
 | Chen 등, *JAMA Neurology*, 2026 · 대상포진후신경통 448명, 7개 병원 | 4주 통증점수 감소의 조정 군 간 차이 0.53점; 30% 이상 통증 감소 반응률 46.68% 대 24.28% | [평균 차이와 반응률을 함께 읽기](../authority/electroacupuncture.md#ea-postherpetic-trial) · [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) |
 | Liu 등, *JAMA*, 2017 · 복압성 요실금 여성 504명 | 6주 패드검사 누출량 감소의 군 간 차이 7.4g; 누출량 50% 이상 감소 64.6% 대 21.7% | [객관적 누출량 평가](../authority/electroacupuncture.md#ea-incontinence-trial) · [PMID 28655016](https://pubmed.ncbi.nlm.nih.gov/28655016/) |
@@ -145,7 +145,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 | 발행기관·지침 | 확인할 치료 역할 | 원문·임상 연결 |
 |---|---|---|
-| **미국내과학회 ACP, 2017** · Annals of Internal Medicine | 성인 만성요통의 초기 비약물치료 선택지에 침 포함; 권고 2는 강한 권고, 침 관련 근거는 중간 수준 | [PMID 28192789](https://pubmed.ncbi.nlm.nih.gov/28192789/) · [요통 연구·권고 연결](../authority/low-back-pain.md#international-back-guidelines) |
+| **미국내과학회 ACP, 2017** · Annals of Internal Medicine | 성인 만성요통의 초기 비약물치료 선택지에 침 포함; 권고 2는 강한 권고, 침 관련 근거는 중간 수준 | [PMID 28192789](https://pubmed.ncbi.nlm.nih.gov/28192789/) · [요통 연구·권고 연결](../conditions/low-back-pain.md#back-systematic-reviews) |
 | **WHO, 2023** · 만성 일차성 요통 | 고령자를 포함한 성인의 치료계획 일부로 침 등 자침치료 제공 가능; 사용에 찬성하는 조건부 권고·낮은 근거확실성 | [WHO 원문](https://www.who.int/publications/i/item/9789240081789) · [권고표 B.2](https://www.ncbi.nlm.nih.gov/books/NBK599210/table/fm-ch2.tab1/) |
 | **영국 NICE NG193, 2021** · 만성 일차성 통증 | 16세 이상에서 침 또는 드라이니들링 한 과정 고려; 의료진 시간·훈련·제공비용 조건 확인 | [권고 1.2.5](https://www.nice.org.uk/guidance/ng193/chapter/recommendations#managing-chronic-primary-pain) · [대상·제공 조건](../evidence-clinical/guidelines.md#international-recommendations) |
 | **SIO–ASCO, 2022** · Journal of Clinical Oncology | 성인 유방암 호르몬치료 관련 관절통에 침 권고; 중간 근거·중등도 권고 | [PMID 36122322](https://pubmed.ncbi.nlm.nih.gov/36122322/) · [다기관 시험·52주 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |

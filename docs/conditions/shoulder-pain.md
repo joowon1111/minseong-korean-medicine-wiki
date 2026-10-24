@@ -143,11 +143,17 @@ last_reviewed: 2026-09-06
 
 ### 침 치료의 현대 근거 {#_8}
 
-2024년 회전근개 질환 메타분석은 침 단독 또는 물리치료 병행이 단기·중기 통증·기능과 일부 가동범위에 도움이 될 수 있다고 보고했습니다. 장기 결과와 비교 조건은 구분해야 하며, 파열된 힘줄이 다시 이어졌는지를 입증한 자료는 아닙니다. [PMID 38463603](https://pubmed.ncbi.nlm.nih.gov/38463603/) · [회전근개 근거 카드](../authority/conditions/rotator-cuff-disease.md)
+2024년 회전근개 질환 메타분석은 침 단독 또는 물리치료 병행이 단기·중기 통증·기능과 일부 가동범위에 도움이 될 수 있다고 보고했습니다. 장기 결과와 비교 조건은 구분해야 하며, 파열된 힘줄이 다시 이어졌는지를 입증한 자료는 아닙니다. [PMID 38463603](https://pubmed.ncbi.nlm.nih.gov/38463603/) · [회전근개 연구 설명](rotator-cuff-pain.md#pain-research)
 
 오십견 약침의 2024년 **완료된 체계적 문헌고찰**은 13개 RCT·1,034명을 포함했고, 이 중 11개 시험·872명이 메타분석에 들어갔습니다. 통증과 일부 기능·움직임에서 유리한 결과가 보고됐으나 근력 항목의 차이는 뚜렷하지 않았고 근거 확실성은 항목별로 낮음~중등도였습니다. 봉약침 관련 알레르기 이상반응도 보고돼 제제별 안전성 평가가 필요합니다. [PMID 39096470](https://pubmed.ncbi.nlm.nih.gov/39096470/)
 
-침·약침·전침은 각각의 연구 조건에 맞춰 읽고, 통증 조절 뒤 가동범위·근력과 실제 기능을 회복하는 운동을 연결합니다. [오십견 근거 카드](../authority/conditions/frozen-shoulder.md) · [연구 유형별 참고자료](#_27)
+침·약침·전침은 각각의 연구 조건에 맞춰 읽고, 통증 조절 뒤 가동범위·근력과 실제 기능을 회복하는 운동을 연결합니다. [오십견 연구 설명](frozen-shoulder.md#pain-research) · [연구 유형별 참고자료](#_27)
+
+#### 목·어깨 근막통증 연구 {#pain-research}
+
+2025년 네트워크 메타분석은 목·어깨 근막통증의 **29개 RCT·2,424명**에서 전침·뜸·침+운동·침+추나 등 여러 중재를 비교했습니다. 목·견갑대 근막통증의 통증·기능을 다룬 자료이며 오십견의 관절낭 강직, 회전근개파열 전체의 결과로 일반화하지 않습니다. 직접 비교와 간접 비교가 함께 포함된 치료 순위를 개인에게 가장 좋은 치료의 확정 순서로 읽지 않습니다. [PMID 40893120](https://pubmed.ncbi.nlm.nih.gov/40893120/)
+
+회전근개와 오십견은 각각 [회전근개 본문의 연구](rotator-cuff-pain.md#pain-research), [오십견 본문의 침·약침 연구](frozen-shoulder.md#pain-research)에서 해당 질환의 치료 설명과 함께 읽습니다.
 
 ## 전침·약침·부항은 언제 고려하나요? {#_9}
 
@@ -332,14 +338,14 @@ last_reviewed: 2026-09-06
 |---|---|---|
 | **Desmeules 등, 2025** | 회전근개 건병증의 평가·비수술 치료·재활·기능 및 스포츠 복귀를 다룬 임상진료지침 | 모든 외상성 전층파열·수술 후 재활에 그대로 적용하지 않음. [PMID 40165544](https://pubmed.ncbi.nlm.nih.gov/40165544/) |
 | **Kelley 등, 2013** | 유착성관절낭염의 평가와 통증 민감도에 맞춘 가동범위·스트레칭을 다룬 임상진료지침 | 달력상의 시기보다 현재 통증·강직과 운동 반응을 함께 확인. [PMID 23636125](https://pubmed.ncbi.nlm.nih.gov/23636125/) |
-| **Zhang 등, 2024** | 회전근개 질환에서 침과 다른 치료를 비교한 무작위시험 메타분석 | 단기·중기 통증·기능과 가동범위, 장기 결과를 구분. [PMID 38463603](https://pubmed.ncbi.nlm.nih.gov/38463603/) · [상세 근거](../authority/conditions/rotator-cuff-disease.md) |
+| **Zhang 등, 2024** | 회전근개 질환에서 침과 다른 치료를 비교한 무작위시험 메타분석 | 단기·중기 통증·기능과 가동범위, 장기 결과를 구분. [PMID 38463603](https://pubmed.ncbi.nlm.nih.gov/38463603/) · [상세 근거](rotator-cuff-pain.md#pain-research) |
 | **Lee 등, 2024** | 오십견 약침의 완료된 체계적 문헌고찰·메타분석. 13개 시험 포함, 11개 시험 정량 종합 | 연구계획서와 별도 논문. 제제·비교군·근거 확실성과 알레르기 보고를 함께 확인. [PMID 39096470](https://pubmed.ncbi.nlm.nih.gov/39096470/) |
 | **Kim 등, 2024** | 오십견 50명의 약침 대 물리치료 실용적 무작위 예비시험 | 통증·SPADI·가동범위와 후속 시험 가능성 평가. [PMID 39224580](https://pubmed.ncbi.nlm.nih.gov/39224580/) · [근거 카드](../authority/pharmacopuncture.md#pharmaco-shoulder-trial) |
 | **AAOS 환자·운동 안내** | 오십견의 경과·치료와 다양한 어깨 스트레칭·강화 동작 | 개인의 손상·강직·수술 여부에 맞는 동작을 선택. [오십견](https://www.orthoinfo.org/diseases--conditions/frozen-shoulder/) · [어깨 운동](https://www.orthoinfo.org/recovery/rotator-cuff-and-shoulder-conditioning-program/) |
 | **한약 임상근거 연결** | 어깨·견갑골 통증의 변증·처방과 사람 대상 연구를 구분한 아카이브 안내 | 목통증·다른 관절의 연구를 모든 어깨질환 처방의 직접 근거로 확대하지 않음. [한약 연구](../authority/formulas/musculoskeletal-herbal-evidence.md#shoulder) |
 | **NHS 생활관리** | 활동 조정, 팔 지지·찜질과 진료가 필요한 신호 | 진찰·손상별 재활을 대신하지 않음. [Shoulder pain](https://www.nhs.uk/symptoms/shoulder-pain/) |
 
-침·약침 연구의 통증·기능 결과와 구조적 회복, 운동재활 지침과 개별 시술의 효과는 각각 구분합니다. [오십견 근거 전체](../authority/conditions/frozen-shoulder.md)
+침·약침 연구의 통증·기능 결과와 구조적 회복, 운동재활 지침과 개별 시술의 효과는 각각 구분합니다. [오십견 연구 설명](frozen-shoulder.md#pain-research)
 
 ## 관련 증상·변증·치료를 함께 보기 {#next-clinical-routes}
 
