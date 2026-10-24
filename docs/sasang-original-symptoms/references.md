@@ -3,6 +3,7 @@ title: 사상의학 소증 근거·참고문헌
 tags: [사상체질, 소증, 문진]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: "사상의학 소증의 진단·치료 원칙과 소화·땀·대소변·한열 연구를 모아, 평소 증상과 표리병증 진단지표를 확인할 수 있는 참고문헌을 제공합니다."
 ---
 # 사상의학 소증 근거·참고문헌
 1. Shin S, Kim YH, Hwang MW. *Diagnosis and treatment principle in Sasang medicine: original symptom.* Integr Med Res. 2016;5(2):99-104. PMID 28462103. DOI 10.1016/j.imr.2016.03.005.

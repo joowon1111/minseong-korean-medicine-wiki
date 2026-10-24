@@ -1,3 +1,6 @@
+---
+description: "뇌졸중 후 우울·인지장애·회복의 한약 근거를 보양환오탕·시호가용골모려탕 등으로 탐색하고, HAMD·MoCA·MMSE·Barthel 지표를 구분합니다."
+---
 # 뇌졸중 후 회복 — 한약 현대 임상근거 지도
 ## 뇌졸중 후 우울
 - 한약+기존치료 meta-analysis: **18 RCT·1,367명**. 전체 임상반응, HAMD, Scandinavian Stroke Scale, Barthel Index 개선. PMID `33429802`.

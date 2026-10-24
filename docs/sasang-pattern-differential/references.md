@@ -3,6 +3,7 @@ title: 사상 병증 감별 근거·참고문헌
 tags: [사상의학, 체질병증, 감별]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: "소음인·소양인·태양인 병증 감별의 임상진료지침을 모으고, 사상체질 원전·진단 알고리즘과 별도의 침·약침·한약 대표 임상연구를 구분해 안내합니다."
 ---
 # 사상 병증 감별 근거·참고문헌
 - Lee JH, Lee EJ. Clinical Practice Guideline for Soeumin Disease: Diagnosis and Algorithm. JSCIM. 2014;26(1):11-26. DOI 10.7730/JSCM.2014.26.1.011.

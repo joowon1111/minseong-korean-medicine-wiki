@@ -1,3 +1,6 @@
+---
+description: "당뇨병성 말초신경병증의 한약 단독·약물 병용·침구 병용 종합근거를 살펴보고, 신경전도속도·통증·감각저하와 익기·활혈 본초를 연결합니다."
+---
 # 당뇨병성 말초신경병증 — 한약 현대 임상근거 카드
 ## 현대 임상연구
 - 경희대 한의대 연구진이 참여한 2022 systematic review/meta-analysis: **72 RCT·6,260명**. 한약 단독 또는 methylcobalamin 병용치료는 median/common peroneal nerve의 sensory·motor nerve conduction velocity와 전체 임상반응을 유의하게 개선했습니다. PMID `36007447`, DOI `10.1016/j.ctcp.2022.101657`.
