@@ -98,6 +98,8 @@ AAOS의 [테니스·골프엘보 운동 안내](https://www.orthoinfo.org/recove
 
 처방은 국소 압통 하나가 아니라 냉열·외상·피로·소화와 기존 약을 함께 확인해 선택합니다. 표의 변증은 전통적 처방 판단의 맥락이며, 나열된 처방이 외측상과 힘줄을 재생시킨다는 근거를 뜻하지 않습니다.
 
+국제 4개 기관의 96명 무작위시험에서는 수기침을 가짜 레이저침과 비교해 치료 종료 3주 후 팔 기능장애(DASH)와 통증에서 더 유리한 결과를 보고했습니다. 이는 쥐기·물건 들기 같은 기능 회복을 함께 평가할 이유입니다. 장기 재발이나 약침의 효과까지 같은 수치로 설명하지 않습니다. [대상·비교군·결과 상세](../authority/conditions/lateral-epicondylitis.md#international-rct)
+
 현대 임상연구는 [외측상과염 근거 카드](../authority/conditions/lateral-epicondylitis.md)와 [최신 연구 확장](../authority/conditions/lateral-epicondylitis-update.md)에서 침치료의 통증·기능·안전성 결과를 구분해 볼 수 있습니다.
 
 ## 치료 반응은 무엇으로 판단하나요? {#_8}

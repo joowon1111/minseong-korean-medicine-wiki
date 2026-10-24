@@ -9,6 +9,9 @@ description: "테니스엘보 침 메타분석과 사지 통증 근거 종합을
 외측상과염에서는 외측 팔꿈치 통증과 함께 악력, 손목 신전 시 통증, 물건 들기·비틀기 기능을 함께 봅니다.
 
 ## 현대 임상연구
+
+수기침의 직접 결과는 [국제 4개 기관·96명 시험](lateral-epicondylitis.md#international-rct)에서 먼저 확인합니다. 아래 종합근거와 연구 대상이 겹칠 수 있으므로 표본수를 합산하지 않습니다.
+
 - systematic review/meta-analysis: **10 RCT·796명**. 침 치료는 약물치료 및 국소차단치료와 비교해 전체 임상반응과 VAS 통증에서 유의하게 좋은 결과를 보였습니다. PMID `32318130`, DOI `10.1155/2020/8506591`.
 - 2025 extremity musculoskeletal pain evidence synthesis에서도 외측상과염은 침 치료의 긍정적 임상근거가 비교적 뚜렷한 상지질환으로 정리되었습니다. PMID `41164823`.
 
