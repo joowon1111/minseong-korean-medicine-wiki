@@ -3,6 +3,7 @@ title: 사상 병증 중증도 근거·참고문헌
 tags: [사상의학, 중증도, 위험신호, 체질병증]
 status: 검토완료
 last_reviewed: 2026-08-20
+description: "사상 병증 중증도의 진단 알고리즘·검사·예방·위험요인과 진단도구 연구를 모아, 체질병증의 경중·위험신호 판단에 참고할 출처를 안내합니다."
 ---
 # 사상 병증 중증도 근거·참고문헌
 1. Lee JH, Lee EJ. Clinical Practice Guideline for Soeumin Disease: Diagnosis and Algorithm. JSCIM. 2014;26(1):11-26. DOI 10.7730/JSCM.2014.26.1.011.

@@ -1,6 +1,8 @@
 """Protect canonical identity and prevent accidental de-indexing."""
 import unittest
-from audit_seo import validate
+from pathlib import Path
+import tempfile
+from audit_seo import description_inventory, validate
 
 
 class SEOTests(unittest.TestCase):
@@ -27,3 +29,24 @@ class SEOTests(unittest.TestCase):
                 with self.assertRaisesRegex(ValueError, 'Non-indexable'):
                     validate(self.html + f'<meta name="{key}" content="{directive}">', self.url)
         validate(self.html + '<meta name="robots" content="index,follow">', self.url)
+
+    def test_inventory_distinguishes_empty_fallback_and_shared_descriptions(self):
+        with tempfile.TemporaryDirectory() as directory:
+            site = Path(directory)
+            urls = []
+            for slug, description in (('home', '공통 설명'), ('fallback', ' 공통  설명 '),
+                                      ('empty', '  \n '), ('unique', '무릎 침 연구의 통증과 기능 평가')):
+                url = f'https://example.org/{slug}/'
+                urls.append(url)
+                target = site / slug / 'index.html'
+                target.parent.mkdir()
+                target.write_text(self.html.replace(self.url, url).replace(
+                    '</head>', f'<meta name="description" content="{description}"></head>'), encoding='utf-8')
+            (site / 'sitemap.xml').write_text(
+                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
+                ''.join(f'<url><loc>{url}</loc></url>' for url in urls) + '</urlset>', encoding='utf-8')
+            result = description_inventory(site, '공통 설명')
+            self.assertEqual(result['empty_urls'], [urls[2]])
+            self.assertEqual(result['site_description_urls'], urls[:2])
+            self.assertEqual(result['duplicate_groups'], [{'description': '공통 설명', 'urls': urls[:2]}])
+            self.assertEqual(result['page_count'], 4)
