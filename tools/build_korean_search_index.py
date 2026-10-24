@@ -119,14 +119,22 @@ def main():
         excerpt = plain if selected_classics else plain[:5000]
 
         # 검색 품질을 위해 너무 짧은 문서도 유지하되, 텍스트는 충분히 수록한다.
-        rows.append({
+        row = {
             "title": title,
             "url": url_from(p),
             "keywords": keys,
             "text": excerpt,
             "snippet": plain[:260],
             "boost": path_boost(p),
-        })
+        }
+        # Only explicitly authored whole queries promote a representative page.
+        # General keyword matches and more specific questions keep normal ranking.
+        primary = fm.get("search_primary_queries", [])
+        if isinstance(primary, list):
+            primary = sorted({q.strip() for q in primary if isinstance(q, str) and q.strip()})
+            if primary:
+                row["primary_queries"] = primary
+        rows.append(row)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     write_bytes(OUT, json.dumps(rows, ensure_ascii=False, separators=(",", ":")).encode("utf-8"))

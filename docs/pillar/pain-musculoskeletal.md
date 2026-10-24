@@ -17,8 +17,8 @@ last_reviewed: 2026-09-20
 | 부위 | 대표 문서 |
 |---|---|
 | 머리·뒤통수 | [두통](../conditions/headache.md) · [편두통](../conditions/migraine.md) · [긴장형두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md) |
-| 허리·등·옆구리 | [요통](../conditions/low-back-pain.md) · [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [늑간신경통](../conditions/intercostal-neuralgia.md) · [옆구리통증](../conditions/flank-pain.md) |
-| 목·어깨·견갑 | [목통증](../conditions/neck-pain.md) · [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [어깨통증](../conditions/shoulder-pain.md) · [견갑골 안쪽 통증](../conditions/scapular-pain.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) |
+| 허리·등·옆구리 | [허리통증·요통: 치료와 운동](../conditions/low-back-pain.md) · [허리디스크](../conditions/lumbar-disc-herniation.md) · [척추관협착증](../conditions/lumbar-spinal-stenosis.md) · [등통증·흉추통증](../conditions/thoracic-back-pain.md) · [늑간신경통](../conditions/intercostal-neuralgia.md) · [옆구리통증](../conditions/flank-pain.md) |
+| 목·어깨·견갑 | [목통증·경항통: 치료와 운동](../conditions/neck-pain.md) · [목디스크·경추 신경근병증](../conditions/cervical-disc-herniation.md) · [어깨통증: 오십견·회전근개와 운동](../conditions/shoulder-pain.md) · [견갑골 안쪽 통증](../conditions/scapular-pain.md) · [오십견](../conditions/frozen-shoulder.md) · [회전근개 통증·파열](../conditions/rotator-cuff-pain.md) |
 | 얼굴·턱 | [턱관절통증](../conditions/temporomandibular-disorder.md) |
 | 팔꿈치·손목·손가락 | [테니스엘보](../conditions/tennis-elbow.md) · [골프엘보](../conditions/golfer-elbow.md) · [팔·손 저림](../conditions/arm-numbness.md) · [손목통증](../conditions/wrist-pain.md) · [손목터널증후군](../conditions/carpal-tunnel.md) · [드퀘르벵](../conditions/dequervain.md) · [방아쇠수지](../conditions/trigger-finger.md) |
 | 둔부·고관절·무릎 | [엉치·둔부 통증](../conditions/buttock-pain.md) · [이상근·심부둔부증후군](../conditions/piriformis-syndrome.md) · [고관절·엉덩관절 통증](../conditions/hip-pain.md) · [무릎통증](../conditions/knee-pain.md) |

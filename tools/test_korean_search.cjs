@@ -4,6 +4,8 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { test } = require('node:test');
 const vm = require('node:vm');
+const os = require('node:os');
+const { execFileSync } = require('node:child_process');
 
 const script = fs.readFileSync(path.join(__dirname, '../docs/assets/korean-search-185.js'), 'utf8');
 const rows = [
@@ -14,6 +16,51 @@ const rows = [
 ];
 
 const resultUrls = (b) => [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
+
+test('the complete current archive ranks the three pain guides first for their authored queries', async () => {
+  const root = path.join(__dirname, '..');
+  const folder = fs.mkdtempSync(path.join(os.tmpdir(), 'pain-search-'));
+  try {
+    const output = path.join(folder, 'index.json');
+    execFileSync(process.env.PYTHON || 'python', ['-c',
+      'import sys; from pathlib import Path; sys.path.insert(0,"tools"); import build_korean_search_index as m; m.OUT=Path(sys.argv[1]); m.main()', output], {cwd: root});
+    const archive = JSON.parse(fs.readFileSync(output, 'utf8'));
+    const b = browser(async () => ({ok: true, json: async () => archive}));
+    for (const [slug, queries] of [
+      ['low-back-pain', ['허리통증', '허리 통증', '요통', '허리가 아파요', '허리 아픔']],
+      ['neck-pain', ['목통증', '목 통증', '경항통', '뒷목통증', '목결림', '목이 아파요']],
+      ['shoulder-pain', ['어깨통증', '어깨 통증', '견비통', '어깨결림', '어깨가 아파요']],
+    ]) {
+      for (const query of queries) {
+        await b.enter(query);
+        assert.equal(resultUrls(b)[0], `/conditions/${slug}/`, query);
+        assert.equal(new Set(resultUrls(b)).size, resultUrls(b).length, query);
+      }
+    }
+    // A broad symptom hub must not replace the intent of a named disease.
+    for (const [query, url] of [['오십견', '/conditions/frozen-shoulder/'],
+      ['허리디스크', '/conditions/lumbar-disc-herniation/'],
+      ['목디스크', '/conditions/cervical-disc-herniation/']]) {
+      await b.enter(query);
+      assert.notEqual(resultUrls(b)[0], '/conditions/shoulder-pain/', query);
+      assert.ok(resultUrls(b).includes(url), query);
+    }
+  } finally {
+    fs.rmSync(folder, {recursive: true, force: true});
+  }
+});
+
+test('authored primary queries outrank exact duplicate titles only for the whole query', async () => {
+  const b = browser(async () => ({ok: true, json: async () => [
+    {title: '허리통증 상세 안내', url: '/conditions/low-back-pain/', primary_queries: ['허리통증'], text: ''},
+    {title: '허리통증', url: '/legacy/', text: '허리통증', boost: 9999},
+    {title: '허리통증 약침 연구', url: '/research/specific/', text: '허리통증'},
+  ]}));
+  await b.enter('허리 통증');
+  assert.equal(resultUrls(b)[0], '/conditions/low-back-pain/');
+  await b.enter('허리통증 약침 연구');
+  assert.equal(resultUrls(b)[0], '/research/specific/');
+});
 
 test('broad research queries put the evidence hub before even an exact-title match', async () => {
   for (const query of ['연구', '논문', '임상 근거', '연구·근거', '논 문 검색', '한약 논문', '침치료 연구',
@@ -201,6 +248,7 @@ test('instant navigation installs only one global listener and subscription', ()
 
 test('invalid rows and executable URLs cannot break or inject search results', async () => {
   const invalid = [null, {}, { ...rows[0], keywords: {} },
+    { ...rows[0], primary_queries: '불면' }, { ...rows[0], primary_queries: [null] },
     ...['javascript:alert(1)', 'data:text/html,evil', '//evil.test/', '/\\evil.test/', '/\nevil.test/'].map(url => ({ ...rows[0], url }))];
   const b = browser(async () => ({ ok: true, json: async () => [...invalid, ...rows] }));
   await b.enter('불면');

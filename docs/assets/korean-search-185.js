@@ -79,6 +79,8 @@
       typeof doc.url === 'string' && /^\/(?!\/)/.test(doc.url) &&
       !/[\\\x00-\x20\x7f]/.test(doc.url) &&
       (doc.keywords == null || Array.isArray(doc.keywords)) &&
+      (doc.primary_queries == null || (Array.isArray(doc.primary_queries) &&
+        doc.primary_queries.every((query) => typeof query === 'string'))) &&
       (doc.text == null || typeof doc.text === 'string') &&
       Number.isFinite(Number(doc.boost || 0));
   }
@@ -123,7 +125,8 @@
     const keysC = keys.map((key) => key.replace(/\s+/g, ""));
     const text = normalize(doc.text);
     const textC = text.replace(/\s+/g, "");
-    return { doc, title, titleC, primaryTitle, keys, keysC, text, textC };
+    const primaryQueries = new Set((doc.primary_queries || []).map(compact).filter(Boolean));
+    return { doc, title, titleC, primaryTitle, primaryQueries, keys, keysC, text, textC };
   }
 
   function scoreDoc(prepared, query) {
@@ -170,7 +173,8 @@
     const evidenceFirst = evidenceQueries.has(query.qc);
     return data
       .map((prepared) => ({ doc: prepared.doc, score: scoreDoc(prepared, query),
-        preferred: evidenceFirst && prepared.doc.url === '/portal/evidence/',
+        preferred: (evidenceFirst && prepared.doc.url === '/portal/evidence/') ||
+          prepared.primaryQueries.has(query.qc),
         exact: prepared.titleC === query.qc || prepared.primaryTitle === query.qc }))
       .filter((x) => x.preferred || x.score > 0)
       .sort((a, b) => Number(b.preferred) - Number(a.preferred) || Number(b.exact) - Number(a.exact) ||
