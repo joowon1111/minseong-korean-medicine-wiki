@@ -14,7 +14,9 @@ last_reviewed: 2026-08-19
 
 **바로 찾기:** [피로 유형](#fatigue-patterns) · [대표 경혈](#_2) · [배혈 이유](#fatigue-combinations) · [본초·방제](#_3) · [임상근거](#fatigue-evidence) · [회복 기록](#fatigue-followup)
 
-## 지침·졸림·힘 빠짐을 구분합니다 {#fatigue-patterns}
+<span id="fatigue-patterns"></span>
+
+## 원인과 활동 후 반응을 먼저 확인 {#fatigue-assessment}
 
 | 주된 표현 | 먼저 확인할 내용 | 치료·회복 목표 |
 |---|---|---|
@@ -43,10 +45,12 @@ last_reviewed: 2026-08-19
 | [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md) · [3D 위치](/assets/acupoint-3d/?point=SP6) | 비·간·신과 음혈·비위 증후의 연결 | 수면·소화·월경·열감 등 동반 양상과 임신 여부 |
 | [비수 BL20](../acupuncture/points/bl20-pishu.md) · [3D 위치](/assets/acupoint-3d/?point=BL20) | 비의 배수혈, 비위·기혈 허약 | 식욕·무른 변·피로와 등 부위 상태 |
 | [신수 BL23](../acupuncture/points/bl23-shenshu.md) · [3D 위치](/assets/acupoint-3d/?point=BL23) | 신의 배수혈, 허리무릎 무력·허손 | 허리·하지 기능과 만성 회복 저하의 문맥 |
+| [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [3D 위치](/assets/acupoint-3d/?point=PC6) | 흉민·오심·긴장이 회복을 방해할 때의 배혈 | 소화·긴장과 피로의 변화, 전완 신경·힘줄 관계 |
+| [신문 HT7](../acupuncture/points/ht7-shenmen.md) · [3D 위치](/assets/acupoint-3d/?point=HT7) | 심계·얕은 잠과 피로가 겹치는 안신 문맥 | 수면 연속성·낮 기능, 손목 척측 신경·혈관 |
 
 ‘보기·원기·승양’은 전통적인 치료 방향입니다. 경혈 이름이나 위치만으로 면역력·호르몬·신장기능의 향상을 판단하지 않으며, 실제 효과는 어떤 환자에게 어떤 치료를 시행했는지에 따라 확인합니다.
 
-## 동반 증후에서 배혈을 읽는 방법 {#fatigue-combinations}
+## 배혈과 자극량을 정하는 이유 {#fatigue-combinations}
 
 | 두드러지는 양상 | 함께 읽을 변증축 | 경혈 선택의 맥락 |
 |---|---|---|
@@ -66,11 +70,12 @@ last_reviewed: 2026-08-19
 | 기혈 소모·허약 | [당귀](../herbs/angelica.md)·[숙지황](../herbs/prepared-rehmannia.md), [팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 빈혈 등 원인 평가와 전통적 기혈허의 차이 |
 | 정혈·허손 | [녹용](../herbs/cervi-parvum-cornu.md)·[공진단](../formulas/gongjin-dan.md) | 장기 소모·허약의 문맥과 복용약·대사질환 |
 | 기음양허·진액 소모 | [맥문동](../herbs/ophiopogon.md)·[생맥산](../formulas/shengmai-san.md)·[경옥고](../formulas/gyeongok-go.md) | 갈증·건조·열감, 소화·혈당·제형·배합 |
+| 심계·건망·얕은 잠과 피로 | [귀비탕](../formulas/guibi-tang.md)과 신문·내관의 안신 문맥 | 수면·식욕·피로의 동시 변화와 원인 평가 |
 | 비위기허에 담습·오심 | [육군자탕](../formulas/liujunzi-tang.md) | 보기와 화담의 배합, 식사량·체중·배변 |
 
-경혈과 보익 처방은 전신 상태를 함께 읽는 연결 자료입니다. 각 처방·제제의 근거를 따로 확인하고, 일반 피로·감염 후 피로·암 관련 피로의 결과를 서로 바꾸어 쓰지 않습니다. 기존 약·한약·건강기능식품의 중복과 간·신장·혈당·혈압·임신·수유 상태도 살핍니다.
+경혈과 보익 처방은 전신 상태를 함께 읽는 연결 자료입니다. 이 연결 자체가 해당 침·처방 병용의 임상시험을 뜻하지는 않습니다. [피로 처방의 선택지 비교](../herbal-integrated/formula-for-fatigue.md#formula-options) 각 처방·제제의 근거를 따로 확인하고, 일반 피로·감염 후 피로·암 관련 피로의 결과를 서로 바꾸어 쓰지 않습니다. 기존 약·한약·건강기능식품의 중복과 간·신장·혈당·혈압·임신·수유 상태도 살핍니다.
 
-## 피로의 침 연구는 대상별로 읽습니다 {#fatigue-evidence}
+## 연구 대상에 따라 다르게 읽기 {#fatigue-evidence}
 
 | 자료 | 연구가 다루는 대상·질문 | 이 페이지에 적용하는 범위 |
 |---|---|---|
@@ -78,6 +83,8 @@ last_reviewed: 2026-08-19
 | Molassiotis 등, JCO 2012, PMID 23109700 | 유방암 관련 피로 302명, 침+통상관리와 통상관리 비교 | 6주 피로·정서·삶의 질의 개선을 보고. 가짜침 비교나 일반 직장인의 피로·ME/CFS 시험과는 다름 |
 | ASCO–SIO 2024 피로 지침 | 성인 암 생존자의 피로 관리 | 운동·CBT·마음챙김 등 통합 관리의 권고를 확인. 개별 침 RCT의 결과와 지침의 권고는 별도로 읽음 |
 | CDC의 ME/CFS 활동 관리 안내 | PEM의 지연 악화와 활동·휴식 조정 | 자극·활동을 늘리는 것보다 악화 방지와 개인별 페이싱을 우선 |
+
+국내 지침의 권고와 적용 조건은 [만성피로 침구치료](../conditions/chronic-fatigue.md#acupuncture-care)에서 확인합니다.
 
 암 관련 피로의 [연구와 지지치료](../authority/conditions/cancer-related-fatigue.md), [암 치료 후 회복](../conditions/cancer-treatment-recovery.md)을 이어 읽을 수 있습니다. 이 경우 침치료는 암 자체의 치료나 원인 검사·항암치료를 대체하는 의미가 아닙니다.
 
@@ -98,7 +105,7 @@ PEM은 신체·인지 활동 뒤 피로뿐 아니라 통증·수면·인지·기
 
 관원·기해 등 하복부는 임신 가능성·복부 수술·방광과 장기의 관계를, 비수·신수 등 후면은 흉곽·신장과 체형을 고려합니다. 암 치료 중에는 혈소판·호중구 등 상태와 치료팀의 주의사항도 함께 확인합니다. [침구 안전](../acupuncture-integrated/safety.md) · [치료 전 확인](../clinical-safety/treatment-checklist.md)
 
-## 회복을 같은 활동으로 비교합니다 {#fatigue-followup}
+## 회복은 무엇으로 확인하나요? {#fatigue-followup}
 
 | 회복 영역 | 기록할 예 |
 |---|---|
@@ -108,6 +115,8 @@ PEM은 신체·인지 활동 뒤 피로뿐 아니라 통증·수면·인지·기
 | 수면·영양 | 실제 수면량·개운함, 식사량·체중·소화 |
 | 동반 증상 | 통증·두근거림·기립 어지럼·인지 불편 |
 | 치료 부담·지속성 | 시술 당일 느낌과 며칠 뒤 상태, 이동·방문 부담 |
+
+활동 후 악화가 없는 수면 부족·과로성 피로에서는 수면·식사·업무 부담을 조정하며 감당 가능한 활동을 회복합니다. [감염 후 피로](../conditions/post-viral-fatigue.md) · [기력회복 관리](../conditions/energy-recovery.md)
 
 목표는 활동량 수치를 무조건 키우는 것이 아니라, 현재 가능한 생활을 안정적으로 유지하고 회복 가능한 범위를 찾는 것입니다. 피로가 지속·악화되거나 새 전신 증상이 나타나면 원인 평가와 치료 목표를 다시 정합니다.
 

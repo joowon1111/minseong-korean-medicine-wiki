@@ -14,7 +14,9 @@ last_reviewed: 2026-08-19
 
 **바로 찾기:** [증상 구분](#digestive-patterns) · [대표 경혈](#_2) · [배혈·변증](#digestive-combinations) · [임상시험](#digestive-evidence) · [식사와 경과](#digestive-followup)
 
-## 식후불편·명치통증·오심을 나누어 봅니다 {#digestive-patterns}
+<span id="digestive-patterns"></span>
+
+## 식사와 증상의 관계부터 확인 {#digestive-assessment}
 
 | 중심 양상 | 함께 확인할 것 | 치료 전 정할 목표 |
 |---|---|---|
@@ -41,10 +43,11 @@ last_reviewed: 2026-08-19
 | [태충 LR3](../acupuncture/points/lr3-taichong.md) · [3D 위치](/assets/acupoint-3d/?point=LR3) | 간경 원혈, 소간이기 문맥 | 긴장에 연동되는 팽만·답답함 등 전신 증후와 함께 검토 |
 | [비수 BL20](../acupuncture/points/bl20-pishu.md) · [3D 위치](/assets/acupoint-3d/?point=BL20) | 방광경의 비 배수혈 | 식욕·피로·무른 변 등 비위 허약 증후를 함께 읽는 후면 축 |
 | [위수 BL21](../acupuncture/points/bl21.md) · [3D 위치](/assets/acupoint-3d/?point=BL21) | 방광경의 위 배수혈 | 전통적 위완부·소화 증후와 등 부위 배혈의 관계 |
+| [천추 ST25](../acupuncture/points/st25-tianshu.md) · [3D 위치](/assets/acupoint-3d/?point=ST25) | 위경·대장의 모혈, 배꼽 가쪽 복부 | 배변 이상·팽만이 겹칠 때 별도 축으로 검토; 상복부 증상과 배변을 나누어 평가 |
 
 경혈 상세는 표준 위치와 출처를, 3D 지도는 복부·등·팔다리의 위치 관계를 보여줍니다. 복부 경혈을 눌러 아픈 정도만으로 위·간·담낭·췌장 질환을 확정하지 않습니다.
 
-## 경혈을 묶는 이유와 동반 증후 {#digestive-combinations}
+## 국소혈·원위혈과 변증을 함께 읽기 {#digestive-combinations}
 
 | 읽는 축 | 연결의 예 | 확인할 차이 |
 |---|---|---|
@@ -58,7 +61,8 @@ last_reviewed: 2026-08-19
 
 ### 본초·방제와 함께 읽는 길 {#digestive-herbal-routes}
 
-- **식욕·기력 저하에 팽만·오심:** [사군자탕](../formulas/sijunzi-tang.md)과 [육군자탕](../formulas/liujunzi-tang.md)의 보기·화담 구조를 비교합니다.
+- **식욕·기력 저하에 팽만·오심:** [사군자탕](../formulas/sijunzi-tang.md)과 [육군자탕](../formulas/liujunzi-tang.md)의 보기·화담 구조와 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)의 기체 동반 문맥을 비교합니다.
+- **담습·오심·몸 무거움:** [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)의 역할과 [스트레스성 소화불편](../autonomic/stress-digestion.md)의 양상을 함께 읽습니다.
 - **습체·그득함 또는 과식 뒤 정체:** [평위산](../formulas/pingwei-san.md)·[보화환](../formulas/baohe-wan.md)의 차이를 봅니다.
 - **명치 비만에 오심·장명·설사:** [반하사심탕](../formulas/banxia-xiexin-tang.md)의 상하부 증후와 한열 조합을 읽습니다.
 - **흉민·오심·담음과 수면 불편:** [온담탕](../formulas/wendan-tang.md)과 [소화불량 임상 지식망](dyspepsia-map.md)으로 연결합니다.
@@ -73,15 +77,15 @@ last_reviewed: 2026-08-19
 | Yang 등, Annals 2020, PMID 32422066 | PDS 환자 278명, 침과 가짜침을 4주 12회 비교하고 16주까지 추적 | 전체 반응과 식후포만·팽만·조기포만 모두 소실을 별도로 평가. 침군의 유리한 결과를 보고했지만 모든 소화기 질환의 완치율은 아님 |
 | Liu 등, 2008, PMID 18694444 | 기능성소화불량에서 경피 전기자극 연구 | 소화 증상과 HRV를 평가. 피부 표면 전기자극은 바늘을 이용한 일반침·전침과 구분 |
 
-Annals 시험의 [대상·반응률·추적과 한계](../authority/conditions/functional-dyspepsia.md#pds-direct-trial)를 이어 읽을 수 있습니다. 식사 기능의 호전과 HRV 같은 생리 지표는 다른 결과이며, HRV가 달라졌다고 그 자체로 소화불량의 원인이나 치료 성공을 확정하지 않습니다.
+Annals 시험의 [대상·반응률·추적과 한계](../authority/conditions/functional-dyspepsia.md#pds-direct-trial)를 이어 읽을 수 있습니다. 식사 기능의 호전과 HRV 같은 생리 지표는 다른 결과이며, HRV가 달라졌다고 그 자체로 소화불량의 원인이나 치료 성공을 확정하지 않습니다. [수술 후 장운동의 전침 시험](../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial)은 환자군·목적이 달라 별도로 읽습니다.
 
 ## 일반침·전침과 해부학적 안전 {#digestive-treatment-safety}
 
-복부 중완은 체형·복부 긴장·수술력·임신 가능성 등을 확인하고 심부 장기와의 관계를 고려해 시술합니다. 비수·위수의 후면 부위도 흉곽·장기 위치를 함께 봅니다. 내관에는 신경·혈관·힘줄이, 족삼리에는 하지 근육·신경 구조가 지나갑니다.
+복부 중완·천추는 체형·복부 긴장·수술력·탈장·임신 가능성 등을 확인하고 심부 장기와의 관계를 고려해 시술합니다. 비수·위수의 후면 부위도 흉곽·장기 위치를 함께 봅니다. 내관에는 신경·혈관·힘줄이, 족삼리에는 하지 근육·신경 구조가 지나갑니다.
 
 일반침·전침은 방법·강도·치료 간격을 증상과 허용 반응에 맞춰 조정합니다. 경피 전기자극·약침·뜸은 서로 다른 치료이므로 성분·전기기기·피부 감각과 각각의 안전성을 따로 판단합니다. [침구 시술 안전](../acupuncture-integrated/safety.md) · [치료량·간격](../acupuncture-clinical/dose-followup.md)
 
-## 식사와 생활기능으로 경과를 확인합니다 {#digestive-followup}
+## 치료 경과와 식사 관리 {#digestive-followup}
 
 | 기록할 항목 | 비교 방법 |
 |---|---|
@@ -92,7 +96,7 @@ Annals 시험의 [대상·반응률·추적과 한계](../authority/conditions/f
 | 병행 변화 | 약물·한약·카페인·음주·식사 속도·운동의 변화 |
 | 치료 지속성 | 치료 직후만이 아니라 다음 식사·다음 날의 상태 |
 
-먹는 양을 무조건 줄이기보다 식사량·속도·구성에 따른 개인 반응을 확인합니다. 지나친 제한으로 체중·영양 상태가 나빠지면 식사 관리도 다시 조정합니다. 치료 중 출혈·체중감소·지속 구토 등 새 신호가 생기면 기존 기능성소화불량 진단만 믿고 기다리지 않습니다.
+치료 효과를 확인하려고 일부러 과식하지 않습니다. 먹는 양을 무조건 줄이기보다 식사량·속도·구성에 따른 개인 반응을 확인합니다. 지나친 제한으로 체중·영양 상태가 나빠지면 식사 관리도 다시 조정합니다. 치료 중 출혈·체중감소·지속 구토 등 새 신호가 생기면 기존 기능성소화불량 진단만 믿고 기다리지 않습니다. [기능성소화불량 경과평가](../conditions/functional-dyspepsia.md#outcomes)
 
 ## 자주 묻는 질문 {#digestive-faq}
 
