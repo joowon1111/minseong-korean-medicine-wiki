@@ -7,7 +7,8 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    # Browser dependency downloads and all responsive checks can exceed 15 minutes.
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
         with:
