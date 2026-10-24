@@ -3,7 +3,7 @@ title: 통증
 tags: [증상, 통증, 환자검색, 한약, 침구, 경과]
 status: 검토완료
 last_reviewed: 2026-08-20
-description: 허리·목·어깨·무릎·팔꿈치 통증의 감별, 한의치료와 운동·생활관리를 연결합니다. 관절염·테니스엘보·골프엘보의 상세 치료와 재평가 기준을 찾아볼 수 있습니다.
+description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈치 통증의 감별과 한의치료, 운동·생활관리를 연결합니다. 부위별 상세 치료·회복·재평가 기준을 찾아볼 수 있습니다.
 ---
 # 통증 {#_1}
 
@@ -61,6 +61,18 @@ description: 허리·목·어깨·무릎·팔꿈치 통증의 감별, 한의치�
 
 - **치료·운동:** 침·전침·약침·한약은 통증과 전신 증후에 맞춰 구성하며, [손목폄근 운동](../conditions/tennis-elbow.md#elbow-exercise-options)과 [손목굽힘·회내 운동](../conditions/golfer-elbow.md#medial-elbow-exercise-options)을 구분합니다.
 - **회복·재평가:** [업무·라켓·웨이트 복귀](../conditions/tennis-elbow.md#elbow-return-to-activity)는 쥐기 기능과 다음 날 반응을 기준으로 조절합니다. [약지·새끼손가락 저림과 집기 힘 저하](../conditions/golfer-elbow.md#medial-elbow-return-to-activity)가 진행되면 신경 평가가 우선입니다.
+
+## 손목통증·손저림 {#wrist-pain}
+
+엄지 동작의 통증, 야간 손저림, 새끼손가락쪽 회전 통증은 치료 목표가 다릅니다. [손목 원인별 보호·치료](../conditions/wrist-pain.md#wrist-type-care)를 비교하고, [육아·컴퓨터·집안일 조절](../conditions/wrist-pain.md#wrist-daily-care)과 [단계별 운동](../conditions/wrist-pain.md#wrist-exercise-options)으로 이어갑니다. 지속적 감각저하·엄지 근력 감소는 [손목터널증후군](../conditions/carpal-tunnel.md)에서 신경 평가와 함께 살핍니다.
+
+## 발목통증·반복 접질림 {#ankle-pain}
+
+급성 접질림은 골절·중대한 손상을 먼저 확인합니다. [발목통증 전체 안내](../conditions/ankle-pain.md)에서 보호·체중부하를 살피고, [근력·균형훈련](../conditions/ankle-pain.md#ankle-exercise-options)과 [재접질림 방지](../conditions/ankle-pain.md#ankle-recurrence-care)로 연결합니다. 통증이 줄어도 부종·절뚝거림·잠김이 반복되면 재평가합니다.
+
+## 발뒤꿈치통증·아침 첫발 {#plantar-heel-pain}
+
+첫발 통증은 족저근막·아킬레스건·지방패드·신경 원인을 구분합니다. [족저근막염 상세 안내](../conditions/plantar-fasciitis.md)에서 [스트레칭·근력운동](../conditions/plantar-fasciitis.md#heel-exercise-options), [신발·깔창·야간 부목](../conditions/plantar-fasciitis.md#heel-support-options), [보행·달리기 복귀](../conditions/plantar-fasciitis.md#heel-return-to-activity)를 확인합니다.
 
 ## 두통 {#두통}
 - **외풍:** [천궁다조산](../formulas/chuanxiong-chatiao-san.md)
