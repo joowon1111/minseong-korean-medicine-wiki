@@ -1,31 +1,67 @@
 ---
 title: 소화불량 경혈 지식망
-description: 기능성 소화불량을 족삼리·내관·중완 등의 대표 경혈과 연결합니다.
+description: 식후포만·조기포만·오심·명치통증에서 중완·족삼리·내관 등의 선택 이유, 복부 해부·3D 지도, 변증과 침치료 근거를 연결합니다.
 tags: [침구학, 소화불량, 경혈]
 status: 검토완료
 last_reviewed: 2026-08-19
 ---
-# 소화불량 경혈 지식망
+# 소화불량 경혈 지식망 {#_1}
 
-소화불량 침구치료에서는 비위의 운화와 위기의 강역을 조절하는 경혈이 중심이 된다.
+소화불량에 사용하는 중완·족삼리·내관은 각각 상복부, 하지, 전완에 있습니다. 서로 떨어진 혈을 조합하는 이유는 **명치의 국소 불편과 식욕·오심·전신 상태를 함께 살피기 때문**입니다. ‘체했다’는 말 안에서도 식후포만, 조금만 먹어도 배부른 조기포만, 명치통증·작열감과 구토를 구분해야 배혈의 목적이 분명해집니다.
 
-## 대표 경혈
-- [족삼리 ST36](../acupuncture/points/st36-zusanli.md) — 건비화위
-- [내관 PC6](../acupuncture/points/pc6-neiguan.md) — 화위강역
-- [중완 CV12](../acupuncture/points/cv12-zhongwan.md) — 화위건비
+## 식사와 증상의 관계부터 확인 {#digestive-assessment}
 
-기능성 위장질환 경혈 네트워크 연구에서는 CV12가 기능성 소화불량의 주요 복부 경혈로, ST36·LR3·PC6가 주요 원위 경혈로 확인되었다. ST36과 PC6 자극은 소화불량 관련 임상연구에서도 반복적으로 활용되어 왔다.
+| 주된 증상 | 확인할 내용 | 치료 후 비교할 변화 |
+|---|---|---|
+| 식후 더부룩함·조기포만 | 평소 먹는 양, 식후 불편 지속시간, 체중 변화 | 편하게 먹을 수 있는 양·식후 활동 |
+| 명치통증·화끈거림 | 공복·식후 관계, 역류, 진통소염제 등 약물 | 통증 빈도·야간 각성·식사 방해 |
+| 오심·트림·구토감 | 실제 구토, 임신 가능성, 약물, 두통·어지럼 동반 | 오심 빈도와 수분·식사 유지 |
+| 팽만과 설사·변비 동반 | 배변 형태·빈도, 복통과 배변 관계 | 상복부 불편과 배변을 별도로 기록 |
 
-```text
-소화불량
-├─ 비위기허 → 족삼리
-├─ 위기상역·오심 → 내관
-└─ 상복부·위 기능 → 중완
-```
+토혈·흑색변, 진행하는 연하곤란, 반복 구토, 설명되지 않는 체중감소·빈혈, 심한 지속 복통은 [소화기 위험신호](../clinical-safety/digestive-red-flags.md)를 먼저 평가합니다. 기능성소화불량은 필요한 검사를 거친 뒤 판단하며, 내시경이 정상이라는 이유만으로 모든 증상을 같은 질환으로 묶지 않습니다. [기능성소화불량](../conditions/functional-dyspepsia.md)에서 PDS·EPS와 헬리코박터·약물 평가를 읽을 수 있습니다.
 
-→ [소화불량 임상 지식망](dyspepsia-map.md)  
-→ [육군자탕](../formulas/liujunzi-tang.md)
+## 대표 경혈 {#_2}
 
-## 참고문헌
-1. Moon H, et al. *Identification of major acupoints for functional gastrointestinal disorders using network analysis.* 2023. PMID **37559923**.
-2. Liu S, et al. *Transcutaneous electroacupuncture improves dyspeptic symptoms and increases high frequency heart rate variability in patients with functional dyspepsia.* 2008. PMID **18694444**.
+| 경혈 | 선택을 설명하는 이유 | 해부학과 안전 | 위치 탐색 |
+|---|---|---|---|
+| [중완 CV12](../acupuncture/points/cv12-zhongwan.md) | 위의 모혈로 상복부 불편·식후팽만을 살피는 복부 축 | 배꼽 위 정중선. 복벽 두께, 수술·탈장과 심부 장기 고려 | [3D 중완](../assets/acupoint-3d/index.html?point=CV12) |
+| [족삼리 ST36](../acupuncture/points/st36-zusanli.md) | 위경의 합혈·위의 하합혈로 식욕·소화와 기력저하를 함께 검토 | 경골 앞가쪽 근육과 심부 신경·혈관 | [3D 족삼리](../assets/acupoint-3d/index.html?point=ST36) |
+| [내관 PC6](../acupuncture/points/pc6-neiguan.md) | 화위강역의 전통적 역할로 오심·흉격 불편을 함께 살피는 원위혈 | 전완의 힘줄 사이, 정중신경과 주변 혈관 | [3D 내관](../assets/acupoint-3d/index.html?point=PC6) |
+| [공손 SP4](../acupuncture/points/sp4-gongsun.md) | 비경의 락혈·충맥 교회혈로 내관과 상복부·흉격 증상을 연결 | 발 안쪽 제1중족골 기저부 주변, 피부·힘줄·혈관 확인 | [3D 공손](../assets/acupoint-3d/index.html?point=SP4) |
+| [태충 LR3](../acupuncture/points/lr3-taichong.md) | 긴장과 함께 명치 답답함·트림이 변동할 때 소간이기의 맥락 | 발등 제1·2중족골 사이, 혈관과 신경 분지 | [3D 태충](../assets/acupoint-3d/index.html?point=LR3) |
+| [천추 ST25](../acupuncture/points/st25-tianshu.md) | 배변 이상·복부팽만이 겹칠 때 하부 소화 증상의 별도 축 | 배꼽 가쪽 복벽, 복강 장기·수술력·체형 고려 | [3D 천추](../assets/acupoint-3d/index.html?point=ST25) |
+
+3D는 표면 위치를 이해하기 위한 지도입니다. 배의 아픈 지점을 강하게 누르거나 직접 자침하는 지침으로 쓰지 않습니다. 임신·수술 이력·항응고제·급성 복부 증상에 따라 복부 시술 가능 여부와 자극법이 달라집니다.
+
+## 국소혈·원위혈과 변증을 함께 읽기 {#digestive-combinations}
+
+**중완+족삼리**는 상복부와 원위 하지혈을 함께 구성해 식후 그득함·섭취·피로를 평가하는 틀입니다. 모혈·하합혈이라는 전통 분류가 선택 이유를 설명하지만, 특정 두 혈이 모든 위장질환을 같은 방식으로 치료한다는 뜻은 아닙니다.
+
+**내관+족삼리**는 오심과 소화불편을 함께 다룬 연구에 등장합니다. 일반 자침·전침과 피부 전극을 이용하는 경피 전기자극은 방법이 다르므로 같은 경혈명만으로 결과를 합치지 않습니다. **공손+내관**은 충맥·음유맥의 팔맥교회혈 배합으로 흉격·상복부 증상을 연결하는 전통적 설명이며, 현대 진단이나 미주신경의 직접 해부학 경로와 동일하지 않습니다.
+
+| 전신·소화 양상 | 변증·배혈의 생각 | 본초·방제의 비교 |
+|---|---|---|
+| 식욕·기력 저하, 식후팽만·무른 변 | 비위기허에서 족삼리를 중심으로 섭취·회복을 함께 평가 | [육군자탕](../formulas/liujunzi-tang.md)·[향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) |
+| 오심·그득함·가래감·몸 무거움 | 담습·위기상역에서 내관과 복부 불편을 연결 | [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[평위산](../formulas/pingwei-san.md) |
+| 긴장 때 트림·명치 답답함 악화 | 간위불화·기체의 맥락에서 태충 등과 수면·긴장 평가 | [스트레스성 소화불편](../autonomic/stress-digestion.md) |
+| 명치 그득함과 장명·설사·오심 | 상부와 하부 증상을 나누어 변증·배혈 검토 | [반하사심탕](../formulas/banxia-xiexin-tang.md) |
+
+[소화불량 임상 지식망](dyspepsia-map.md)에서는 증후에서 본초·방제로 이동합니다. PDS·EPS라는 현대 증상형과 기허·담습 등의 변증을 일대일로 대응시키지 않습니다.
+
+## 치료 경과와 식사 관리 {#digestive-followup}
+
+첫 진료에서 불편한 식사의 종류·양과 증상이 지속되는 시간을 정해 기록합니다. 치료 후 같은 정도의 식사에서 포만·오심·통증이 덜한지, 식사량과 체중이 안정되는지 봅니다. 일부러 과식해 치료 효과를 시험하지 않습니다.
+
+규칙적인 식사, 개인적으로 증상을 유발하는 음식·지방량·음주 조절과 식후 편한 활동을 함께 계획합니다. 음식을 과도하게 제한해 섭취 부족과 피로가 커지지 않는지도 확인합니다. 침·한약·약물·식사 변화가 동시에 있었다면 무엇이 바뀌었는지 함께 기록합니다.
+
+치료를 반복해도 먹는 양·식후 활동·증상 빈도가 변하지 않거나 새 구토·체중감소가 생기면 진단과 검사·치료계획을 다시 봅니다. [기능성소화불량의 경과평가](../conditions/functional-dyspepsia.md#outcomes)·[침구 임상 지도](acupuncture-clinical-map.md)
+
+## 참고문헌 {#_3}
+
+| 자료 | 확인한 결과·설계 | 적용 범위 |
+|---|---|---|
+| Moon 등, 2023, [PMID 37559923](https://pubmed.ncbi.nlm.nih.gov/37559923/) | 기능성 위장관질환 연구에서 경혈 사용 네트워크 분석, 중완·족삼리·내관 등의 연결 | 빈번하게 함께 사용한 패턴이며 개별 경혈 효과의 직접 검증과 구분 |
+| Liu 등, 2008, [PMID 18694444](https://pubmed.ncbi.nlm.nih.gov/18694444/) | 27명의 이중눈가림 교차 연구. PC6·ST36의 비침습 피부 전기자극으로 증상·HRV 등을 평가 | 침을 삽입한 전침과 다른 중재. HRV 변화만으로 자율신경 기능 정상화나 증상 개선의 원인을 확정하지 않음 |
+| Yang 등, 2020, [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) | PDS 환자 278명, 4주 12회 침·가짜침 비교. 전체 반응률과 주증상 소실을 평가하고 16주까지 추적 | PDS에 대한 복합 배혈 치료의 근거. 모든 소화불량이나 한 혈의 효과로 확대하지 않음 |
+
+실제 반응률과 비교군 차이·추적 탈락은 [PDS 직접 비교시험](../authority/conditions/functional-dyspepsia.md#pds-direct-trial)에서, 수술 뒤 장운동은 대상과 목적이 다른 [수술 후 전침 시험](../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial)에서 구분해 읽습니다.
