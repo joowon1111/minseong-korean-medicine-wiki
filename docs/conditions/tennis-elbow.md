@@ -1,6 +1,6 @@
 ---
 title: 테니스엘보 — 외측상과염과 팔꿈치 바깥쪽 통증
-description: 테니스엘보의 쥐기·손목 사용 통증을 요골신경·목디스크·관절 문제와 구분하고 부하 관리, 운동, 침·약침·한약과 회복 기준을 안내합니다.
+description: 테니스엘보의 감별, 침·전침·약침·한약, 단계별 운동과 부하 관리를 설명하고 96명 임상시험·메타분석의 통증·기능 결과와 회복 기준을 함께 안내합니다.
 tags: [테니스엘보, 외측상과염, 팔꿈치통증, 팔꿈치바깥쪽통증, 테니스엘보침치료]
 status: 검토완료
 last_reviewed: 2026-09-19
@@ -83,7 +83,7 @@ AAOS의 [테니스·골프엘보 운동 안내](https://www.orthoinfo.org/recove
 
 ## 침·전침·약침과 한약 {#_7}
 
-침치료는 외측상과 한 점만 반복 자극하기보다 단요측수근신근·총지신근·회외근과 어깨·견갑·목의 기능을 함께 평가합니다. 곡지(LI11)·수삼리(LI10)·외관(TE5)·합곡(LI4)과 팔꿈치·전완의 아시혈 등을 통증 분포에 따라 구성할 수 있습니다. [팔꿈치·아래팔 MPS 아틀라스](../clinical-anatomy/mps-forearm.md)에서 주요 근육과 연관통을 확인할 수 있습니다.
+침치료는 외측상과 한 점만 반복 자극하기보다 단요측수근신근·총지신근·회외근과 어깨·견갑·목의 기능을 함께 평가합니다. [곡지 LI11](../acupuncture/points/li11-quchi.md)·[수삼리 LI10](../acupuncture/points/li10-shousanli.md)·외관(TE5)·합곡(LI4)과 팔꿈치·전완의 아시혈 등을 통증 분포에 따라 구성할 수 있습니다. [팔꿈치·아래팔 MPS 아틀라스](../clinical-anatomy/mps-forearm.md)에서 주요 근육과 연관통을, [3D 곡지 지도](/assets/acupoint-3d/?point=LI11)에서 위치를 확인할 수 있습니다.
 
 전침은 통증·근긴장 조절을 목표로 자극량을 조절합니다. 약침은 목표 연부조직과 힘줄·관절·요골신경의 위치를 확인해 시행하며 제제 성분·알레르기·항응고제·피부 감염 여부를 점검합니다. 전완 근육의 건식부항은 긴장 완화를 위한 보조치료로 고려하고, 습식부항은 출혈·감염 위험을 따로 평가합니다. 통증이 줄어들면 손목 저항운동과 작업량을 조절해 실제 쥐기 기능을 회복합니다.
 
@@ -98,9 +98,26 @@ AAOS의 [테니스·골프엘보 운동 안내](https://www.orthoinfo.org/recove
 
 처방은 국소 압통 하나가 아니라 냉열·외상·피로·소화와 기존 약을 함께 확인해 선택합니다. 표의 변증은 전통적 처방 판단의 맥락이며, 나열된 처방이 외측상과 힘줄을 재생시킨다는 근거를 뜻하지 않습니다.
 
-국제 4개 기관의 96명 무작위시험에서는 수기침을 가짜 레이저침과 비교해 치료 종료 3주 후 팔 기능장애(DASH)와 통증에서 더 유리한 결과를 보고했습니다. 이는 쥐기·물건 들기 같은 기능 회복을 함께 평가할 이유입니다. 장기 재발이나 약침의 효과까지 같은 수치로 설명하지 않습니다. [대상·비교군·결과 상세](../authority/conditions/lateral-epicondylitis.md#international-rct)
+## 테니스엘보 침치료 연구는 무엇을 보여주나요? {#elbow-evidence}
 
-현대 임상연구는 [외측상과염 근거 카드](../authority/conditions/lateral-epicondylitis.md)와 [최신 연구 확장](../authority/conditions/lateral-epicondylitis-update.md)에서 침치료의 통증·기능·안전성 결과를 구분해 볼 수 있습니다.
+침치료 연구에서는 통증 감소와 함께 **컵 들기·쥐기·비틀기 같은 팔 사용 기능**이 좋아지는지를 평가합니다. 아래 임상시험과 종합연구는 연구 대상이 겹칠 수 있으므로 참여자 수를 더해 별도의 효과로 계산하지 않습니다.
+
+### 96명 국제 임상시험: 통증과 팔 기능 {#international-rct}
+
+Gadau 등의 2020년 국제 다기관 무작위시험은 **3개월 이상 한쪽 팔꿈치 바깥 통증이 있는 96명**을 수기침 47명과 가짜 레이저침 49명으로 배정했습니다. 호주·중국·홍콩·이탈리아 4개 기관이 참여했으며, 수기침은 환측 수삼리(LI10)·곡지(LI11)에 시행했습니다.
+
+주평가는 **치료 종료 3주 후 DASH 팔 기능장애 점수**였습니다. 기저치 대비 변화 중앙값은 수기침 -11.7점, 가짜 레이저침 -7.5점으로 침군에서 기능 개선이 더 컸습니다(P=0.015). 통증 지표도 유리했고 중증 이상반응은 보고되지 않았습니다. [Gadau 등. European Journal of Pain. 2020;24:1458–1470. DOI 10.1002/ejp.1574](https://doi.org/10.1002/ejp.1574) · [저자 소속 대학의 연구 초록](https://scholars.hkbu.edu.hk/en/publications/a-multi-center-international-study-of-acupuncture-for-lateral-elb-2/)
+
+이 결과는 통증 완화와 팔 사용 기능을 함께 목표로 삼을 근거입니다. 비교군은 가짜 **레이저**침이며 가짜 바늘침·운동·약침과의 직접 비교는 아닙니다. 96명의 비교적 짧은 추적 결과로 장기 재발 예방이나 힘줄 재생을 입증하지 않습니다.
+
+### 여러 임상시험을 종합한 결과 {#elbow-systematic-reviews}
+
+- **Zhou 등, 2020: 10개 무작위시험·796명.** 약물·국소차단치료와 비교한 일부 분석에서 침에 유리한 임상반응·통증 결과가 보고됐습니다. 가짜침 비교의 통증 분석은 이질성이 컸고 신뢰구간이 효과 없음도 포함했습니다. 따라서 모든 비교에서 우월했다고 표현하지 않습니다. [PMID 32318130](https://pubmed.ncbi.nlm.nih.gov/32318130/) · [공개 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC7114772/)
+- **수기침·전침 메타분석, 2021.** 수기침의 통증 감소에 긍정적인 결과가 있었지만, 전침의 통합 추정치는 불확실했습니다. 치료 종류·병행치료·추적기간을 구분해 읽습니다. [PMID 33334116](https://pubmed.ncbi.nlm.nih.gov/33334116/)
+- **사지 근골격 통증 근거 종합, 2025.** 19개 연구(무작위시험 10개·고찰 9개)를 서술적으로 종합했으며, 외측상과염에서는 수기침의 단기 통증·기능 개선을 긍정적으로 정리했습니다. 여러 질환과 시술 방식을 다룬 고찰이므로 19개 모두가 엘보 시험이거나 새로운 단일 임상시험인 것은 아닙니다. [PMID 41164823](https://pubmed.ncbi.nlm.nih.gov/41164823/) · [DOI 10.2147/JPR.S551446](https://doi.org/10.2147/JPR.S551446)
+- 2015년 체계적 문헌고찰과 수기침·레이저침 종합근거는 연구의 방법론적 제약과 후속시험 필요성도 함께 다뤘습니다. [PMID 26843886](https://pubmed.ncbi.nlm.nih.gov/26843886/) · [PMID 25384448](https://pubmed.ncbi.nlm.nih.gov/25384448/)
+
+통증 감소가 실제 회복으로 이어지는지는 통증 없는 악력, 물건 들기, 연속 작업시간과 다음 날 반응으로 확인합니다. 자연경과와 운동·부하관리의 영향도 함께 고려하며, 전침·약침은 해당 자극 방식과 제제의 근거를 따로 판단합니다.
 
 ## 치료 반응은 무엇으로 판단하나요? {#_8}
 
@@ -135,10 +152,13 @@ AAOS의 [테니스·골프엘보 운동 안내](https://www.orthoinfo.org/recove
 - [골프엘보](golfer-elbow.md)
 - [손목통증](wrist-pain.md)
 - [팔꿈치·아래팔 MPS 아틀라스](../clinical-anatomy/mps-forearm.md)
-- [외측상과염 현대 임상근거](../authority/conditions/lateral-epicondylitis.md)
+- [오십견](frozen-shoulder.md) · [회전근개 통증·파열](rotator-cuff-pain.md) — 팔을 들기 어렵거나 어깨도 함께 아플 때
 
 ## 주요 근거 {#_14}
 
+- Gadau M, et al. [국제 다기관 테니스엘보 침치료 무작위시험](https://doi.org/10.1002/ejp.1574). European Journal of Pain. 2020;24:1458–1470. 96명, 가짜 레이저침 대조.
+- Zhou Y, et al. [테니스엘보 침치료 체계적 문헌고찰·메타분석](https://doi.org/10.1155/2020/8506591). Pain Research and Management. 2020:8506591. 10시험·796명.
+- [수기침·전침 메타분석](https://pubmed.ncbi.nlm.nih.gov/33334116/). 2021. 치료 방식별 결과 비교.
 - American Academy of Orthopaedic Surgeons. [Tennis Elbow](https://www.orthoinfo.org/diseases--conditions/tennis-elbow-lateral-epicondylitis/).
 - Lucado AM, et al. [Lateral Elbow Pain and Muscle Function Impairments](https://doi.org/10.2519/jospt.2022.0302). JOSPT, 2022. 손목폄근 저항운동과 기능평가.
 - American Academy of Orthopaedic Surgeons. [Therapeutic Exercise Program for Epicondylitis](https://www.orthoinfo.org/recovery/epicondylitis-therapeutic-exercise-program/). 테니스·골프엘보 운동 안내.

@@ -47,6 +47,8 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      authority/conditions/lateral-epicondylitis.md: conditions/tennis-elbow.md#elbow-evidence
+      authority/conditions/lateral-epicondylitis-update.md: conditions/tennis-elbow.md#elbow-evidence
       network/clinical-map.md: network/condition-to-treatment-map.md#_1
       network/fatigue-map.md: network/recovery-map.md#_1
       network/gongjin-dan-map.md: formulas/gongjin-dan.md#source-dose-original
