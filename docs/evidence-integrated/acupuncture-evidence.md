@@ -117,7 +117,7 @@ Tu 등의 2024년 *JAMA Internal Medicine* 시험은 만성 디스크성 좌골�
 | 어깨통증·충돌증후군 | [어깨통증](../authority/conditions/shoulder-pain.md) |
 | 턱관절장애 | [턱관절장애 TMD](../authority/conditions/tmd.md) |
 | 손목터널증후군 | [손목터널증후군](../authority/conditions/carpal-tunnel.md) |
-| 테니스엘보 | [외측상과통](../authority/conditions/lateral-epicondylitis.md) |
+| 테니스엘보 | [외측상과통](../conditions/tennis-elbow.md#elbow-evidence) |
 
 통증점수 외에 목·어깨 가동범위, 악력, 수면방해와 업무·일상기능을 함께 봅니다.
 

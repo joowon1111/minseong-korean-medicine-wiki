@@ -40,7 +40,7 @@ last_reviewed: 2026-08-30
 | 목·신경근 통증 | [만성 목통증](chronic-neck-pain.md) · [최신 근거](chronic-neck-pain-update.md) · [경추 신경근병증](cervical-radiculopathy.md) |
 | 무릎·고관절 | [무릎 골관절염](knee-osteoarthritis.md) · [침·뜸 근거](knee-osteoarthritis-acupuncture-moxibustion.md) · [고관절 골관절염](hip-osteoarthritis.md) |
 | 어깨 | [어깨통증](shoulder-pain.md) · [오십견](frozen-shoulder.md) · [회전근개질환](rotator-cuff-disease.md) |
-| 팔·손 | [손목터널증후군](carpal-tunnel.md) · [테니스엘보](lateral-epicondylitis.md) |
+| 팔·손 | [손목터널증후군](carpal-tunnel.md) · [테니스엘보](../../conditions/tennis-elbow.md#elbow-evidence) |
 | 발목·발 | [발목염좌](ankle-sprain.md) · [만성 발목불안정](chronic-ankle-instability.md) · [족저근막염](plantar-fasciitis.md) |
 | 전신·턱관절 | [섬유근육통](fibromyalgia.md) · [턱관절장애](tmd.md) |
 

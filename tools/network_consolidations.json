@@ -217,5 +217,33 @@
       "_4": "guide/taxonomy.md#herb-formula-navigation",
       "_5": "guide/taxonomy.md#herb-formula-navigation"
     }
+  },
+  "authority/conditions/lateral-epicondylitis.md": {
+    "target": "conditions/tennis-elbow.md#elbow-evidence",
+    "anchors": {
+      "international-rct": "conditions/tennis-elbow.md#international-rct",
+      "next-clinical-routes": "conditions/tennis-elbow.md#_13",
+      "_1": "conditions/tennis-elbow.md#_1",
+      "_2": "conditions/tennis-elbow.md#_2",
+      "_3": "conditions/tennis-elbow.md#elbow-evidence",
+      "_4": "conditions/tennis-elbow.md#_7",
+      "_5": "conditions/tennis-elbow.md#_7",
+      "_6": "conditions/tennis-elbow.md#_8",
+      "_7": "conditions/tennis-elbow.md#_13"
+    }
+  },
+  "authority/conditions/lateral-epicondylitis-update.md": {
+    "target": "conditions/tennis-elbow.md#elbow-evidence",
+    "anchors": {
+      "international-rct": "conditions/tennis-elbow.md#international-rct",
+      "next-clinical-routes": "conditions/tennis-elbow.md#_13",
+      "_1": "conditions/tennis-elbow.md#_1",
+      "_2": "conditions/tennis-elbow.md#_2",
+      "_3": "conditions/tennis-elbow.md#elbow-evidence",
+      "_4": "conditions/tennis-elbow.md#_7",
+      "_5": "conditions/tennis-elbow.md#_7",
+      "_6": "conditions/tennis-elbow.md#_8",
+      "_7": "conditions/tennis-elbow.md#_13"
+    }
   }
 }
