@@ -1,4 +1,4 @@
-﻿---
+---
 title: 생맥산 임상근거
 description: 생맥산의 바이러스성 심근염과 심혈관 영역에 대한 RCT systematic review·meta-analysis를 정리합니다.
 tags: [생맥산, 임상근거, 심혈관]
@@ -22,7 +22,7 @@ last_reviewed: 2026-09-17
 1. Zhang BR, et al. *Effectiveness and Safety of Shengmai San for Viral Myocarditis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.* 2024. **PMID 39742019**, DOI **10.1155/2024/2127018**.
 2. Wang Y, et al. *Efficacy and Safety of Shengmai Injection for Chronic Heart Failure: A Systematic Review of Randomized Controlled Trials.* 2020. **PMID 32655670**, DOI **10.1155/2020/9571627**.
 
-→ [생맥산 구성 본초](../../network/shengmai-composition.md)
+→ [생맥산 구성 본초](../../network/formula-composition-hub.md#shengmai)
 
 ## 관련 핵심 문서
 

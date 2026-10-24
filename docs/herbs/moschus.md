@@ -67,4 +67,4 @@ tags: [사향, 공진단, 개규, 본초, 보약]
 - [산수유](cornus-fructus.md)
 - [녹용](cervi-parvum-cornu.md)
 - [당귀](angelica.md)
-- [공진단 구성 본초](../network/gongjin-composition.md)
+- [공진단 구성 본초](../network/formula-composition-hub.md#gongjin)

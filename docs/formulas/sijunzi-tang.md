@@ -105,5 +105,5 @@ last_reviewed: 2026-09-16
 
 ## 관련 문서
 - [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
-- [인삼을 쓰는 처방](../network/ginseng-formulas.md)
+- [인삼을 쓰는 처방](../network/herb-to-formula-map.md#_2)
 - [임상 핵심 처방 100선과 수치·법제 확인점](../herbal-integrated/general-formulary.md#core-formulas-100)

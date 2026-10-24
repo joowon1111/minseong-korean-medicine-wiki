@@ -38,7 +38,7 @@ last_reviewed: 2026-09-05
 | [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) | 자보신음 | 신음부족·허열·요슬산연 |
 | 팔미지황환 | 온보신양 | 신양부족·냉감·배뇨·하체무력 |
 
-→ [공진단과 경옥고 비교](../network/gongjin-vs-gyeongok.md)
+→ [공진단과 경옥고 비교](../compare/gongjin-vs-gyeongok.md#composition)
 
 ## 만성피로와 보약
 

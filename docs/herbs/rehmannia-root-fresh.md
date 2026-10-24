@@ -77,7 +77,7 @@ last_reviewed: 2026-09-18
 ## 이어 보기 {#_7}
 
 - [청열약 5분류 비교](../herbal-integrated/heat-clearing-herbs.md#clear-heat-cool-blood)
-- [경옥고 구성 본초](../network/gyeongok-composition.md)
+- [경옥고 구성 본초](../network/formula-composition-hub.md#gyeongok)
 - [본초 효능·주치 표준](../herbal-integrated/efficacy-indication-standard.md)
 - [본초·방제 안전·복용 주의](../herbal-integrated/safety.md)
 

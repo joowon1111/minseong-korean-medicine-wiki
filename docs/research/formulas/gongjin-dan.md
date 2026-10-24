@@ -48,7 +48,7 @@ last_reviewed: 2026-08-19
 
 사람 대상 임상시험은 피로의 강도, 사회기능, 수면 관련 지표를 실제 참가자에게서 평가했습니다. 세포·동물 연구는 기억·학습과 신경영양인자에 관한 기초 질문을 다루며, 임상시험 계획은 다음 연구에서 어떤 환자 지표를 살필지 보여줍니다. 서로 다른 연구 단계가 공진단을 둘러싼 임상 질문을 넓혀 가는 흐름으로 볼 수 있습니다.
 
-→ [공진단 지식망](../../network/gongjin-dan-map.md)
+→ [공진단 지식망](../../formulas/gongjin-dan.md#source-dose-original)
 → [공진단 상세](../../formulas/gongjin-dan.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

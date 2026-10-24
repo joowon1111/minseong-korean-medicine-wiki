@@ -75,7 +75,7 @@ last_reviewed: 2026-08-30
 
 즉 **보익하는 녹용**, **혈을 보하고 움직이는 당귀**, **간신의 정기를 보조하는 산수유**, **기혈의 흐름을 여는 사향**이 한 처방 안에서 역할을 나눕니다.
 
-→ [공진단 구성 본초 네트워크](../network/gongjin-composition.md)
+→ [공진단 구성 본초 네트워크](../network/formula-composition-hub.md#gongjin)
 
 [민성의담 — 보약에도 흐름이 있다](../classical-stories/gongjindan-four-directions.md)에서는 『시재백일선방』의 짧은 구절과 옛 환제의 제법을 따라 네 약재의 배합을 읽습니다.
 
@@ -146,7 +146,7 @@ last_reviewed: 2026-08-30
 
 공진단은 **녹용·당귀·산수유·사향**을 중심으로 정혈·간신·회복력을 보하는 방향이 두드러집니다. [경옥고](gyeongok-go.md)는 **인삼·생지황·복령·봉밀**을 중심으로 기와 진액을 함께 보하며 장기적인 양생을 돕는 성격이 뚜렷합니다.
 
-→ [공진단과 경옥고 비교](../network/gongjin-vs-gyeongok.md)
+→ [공진단과 경옥고 비교](../compare/gongjin-vs-gyeongok.md#composition)
 
 ## 함께 보면 좋은 문서
 
@@ -154,7 +154,7 @@ last_reviewed: 2026-08-30
 - [만성피로](../conditions/chronic-fatigue.md)
 - [수술 후 회복](../conditions/postoperative-recovery.md)
 - [녹용](../herbs/cervi-parvum-cornu.md)
-- [공진단 지식망](../network/gongjin-dan-map.md)
+- [공진단 지식망](gongjin-dan.md#source-dose-original)
 
 ## 참고문헌
 

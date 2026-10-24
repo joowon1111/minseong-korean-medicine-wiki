@@ -111,8 +111,8 @@ last_reviewed: 2026-10-23
 ## 관련 문서
 
 - [보익약 임상 지식망](categories/tonics.md)
-- [공진단 지식망](../network/gongjin-dan-map.md)
-- [공진단 구성 본초](../network/gongjin-composition.md)
+- [공진단 지식망](../formulas/gongjin-dan.md#source-dose-original)
+- [공진단 구성 본초](../network/formula-composition-hub.md#gongjin)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
 
 > 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.

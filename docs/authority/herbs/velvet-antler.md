@@ -51,6 +51,6 @@ last_reviewed: 2026-08-19
 ## 관련 문서
 
 - [녹용 본초 상세](../../herbs/cervi-parvum-cornu.md)
-- [공진단](../../formulas/gongjin-dan.md) · [공진단 지식망](../../network/gongjin-dan-map.md)
+- [공진단](../../formulas/gongjin-dan.md) · [공진단 지식망](../../formulas/gongjin-dan.md#source-dose-original)
 - [녹용 품질 지도](../../clinical-guides/deer-antler-quality-map.md)
 - [보익·회복 허브](../../pillar/tonic-recovery.md)

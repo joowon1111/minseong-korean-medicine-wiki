@@ -90,7 +90,7 @@ last_reviewed: '2026-10-07'
 
 보익약은 **피로의 원인, 소화력, 수면, 냉감, 어지럼, 회복속도, 연령과 병력**을 함께 보아야 합니다.
 
-→ [피로·회복 임상 연결](/network/fatigue-map/)  
+→ [피로·회복 임상 연결](/network/recovery-map/#_1)
 → [보익·양생 허브](../../network/tonic-wellness-hub.md)
 
 ## 현대 연구

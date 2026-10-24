@@ -184,7 +184,7 @@ Lee·Bae의 2019년 세포·생쥐 연구는 미세먼지(PM2.5)로 유발한 �
 
 경옥고는 **인삼·생지황·복령·봉밀**을 중심으로 기와 진액을 함께 돌보며 장기적인 양생과 회복을 고려합니다. [공진단](gongjin-dan.md)은 **녹용·당귀·산수유·사향**을 중심으로 정혈·간신·회복력을 보하는 방향이 두드러집니다.
 
-→ [공진단과 경옥고 비교](../network/gongjin-vs-gyeongok.md)
+→ [공진단과 경옥고 비교](../compare/gongjin-vs-gyeongok.md#composition)
 
 ## 함께 보면 좋은 문서 {#_15}
 
@@ -193,7 +193,7 @@ Lee·Bae의 2019년 세포·생쥐 연구는 미세먼지(PM2.5)로 유발한 �
 - [수술 후 회복](../conditions/postoperative-recovery.md)
 - [경옥고는 어떤 경우에 선택하나요?](../conditions/gyeongokgo-guide.md)
 - [인삼](../herbs/ginseng.md)
-- [경옥고 지식망](../network/gyeongok-go-map.md)
+- [경옥고 지식망](gyeongok-go.md#source-dose-original)
 
 ## 참고문헌 {#_16}
 

@@ -20,9 +20,11 @@ last_reviewed: 2026-08-19
 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기 중심의 보기와 승마·시호의 승양 구조를 함께 봄 |
 | [귀비탕](../formulas/guibi-tang.md) | 보기건비에 보혈·안신의 배합이 더해져 심비양허를 다룸 |
 | [생맥산](../formulas/shengmai-san.md) | 맥문동·오미자와 배합해 기와 진액의 소모를 함께 봄 |
+| [팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 보기 골격에 보혈을 결합하고 황기·육계의 온보 차이를 비교 |
+| [소시호탕](../formulas/xiaochaihu-tang.md) | 화해소양의 배합 안에서 인삼의 정기·비위 보조 역할을 읽음 |
 | [경옥고](../formulas/gyeongok-go.md) | 생지황·복령·봉밀과 고제로 구성되어 보기와 윤조·양생을 함께 봄 |
 
-사군자탕에서 다른 처방으로 갈라지는 구조는 [인삼을 쓰는 처방](ginseng-formulas.md), 소화 증상의 차이는 [사군자탕과 육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)에서 자세히 확인합니다.
+사군자탕에서 다른 처방으로 갈라지는 구조는 [인삼을 쓰는 처방](herb-to-formula-map.md#_2), 소화 증상의 차이는 [사군자탕과 육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)에서 자세히 확인합니다.
 
 ## 황기 {#_3}
 
@@ -35,7 +37,7 @@ last_reviewed: 2026-08-19
 | [귀비탕](../formulas/guibi-tang.md) | 피로·식욕저하와 불면·심계가 함께 있는 심비양허의 맥락 |
 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 팔물탕 골격에 황기·육계를 더한 기혈쌍보·온보의 방향 |
 
-배합군별 설명은 [황기를 쓰는 처방](astragalus-formulas.md), 보익 처방의 갈림점은 [보중익기탕과 십전대보탕 비교](../compare/buzhong-vs-sipjeondaebo.md)로 연결됩니다.
+배합군별 설명은 [황기를 쓰는 처방](herb-to-formula-map.md#_3), 보익 처방의 갈림점은 [보중익기탕과 십전대보탕 비교](../compare/buzhong-vs-sipjeondaebo.md)로 연결됩니다.
 
 ## 당귀 {#_4}
 
@@ -48,9 +50,10 @@ last_reviewed: 2026-08-19
 | [귀비탕](../formulas/guibi-tang.md) | 보기·안신 약재와 배합하여 심비의 기혈부족을 함께 봄 |
 | [독활기생탕](../formulas/duhuo-jisheng-tang.md)·[소경활혈탕](../formulas/shujing-huoxue-tang.md) | 보혈에 거풍습·통락을 결합하되 두 처방의 허손·울체 비중을 구분 |
 | [당귀수산](../formulas/danggui-susan.md) | 타박 뒤 멍·국소 압통 등 어혈의 맥락에서 활혈 배합을 살핌 |
+| [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기 중심 보기승양 배합에서 당귀가 혈을 보조하는 역할 |
 | [공진단](../formulas/gongjin-dan.md) | 녹용·산수유·사향과 배합해 허손·정혈을 다루는 구조 |
 
-생리·통증·보익으로 갈라지는 더 자세한 연결은 [당귀를 쓰는 처방](angelica-formulas.md)에서 볼 수 있습니다.
+생리·통증·보익으로 갈라지는 더 자세한 연결은 [당귀를 쓰는 처방](herb-to-formula-map.md#_4)에서 볼 수 있습니다.
 
 ## 녹용 {#_5}
 
@@ -58,6 +61,7 @@ last_reviewed: 2026-08-19
 
 | 연결할 문서 | 구분해서 볼 내용 |
 |---|---|
+| [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기 중심 보기승양 배합에서 당귀가 혈을 보조하는 역할 |
 | [공진단](../formulas/gongjin-dan.md) | 녹용·당귀·산수유·사향의 기본 구성과 제품·가감에 따른 차이 |
 | [녹용보약 안내](../conditions/deer-antler-tonic-guide.md) | 연령·소화·수면·기저질환에 따라 전체 처방을 검토하는 과정 |
 | [소아보약의 귀룡탕 설명](../conditions/child-parent-tonic-guide.md#guiryong-tang) | 명칭만으로 동일한 구성·용량을 뜻하지 않는다는 점과 아이의 식사·성장 경과 확인 |
@@ -74,9 +78,11 @@ last_reviewed: 2026-08-19
 | [육군자탕](../formulas/liujunzi-tang.md) | 비위기허를 받치면서 담습·오심을 함께 살핌 |
 | [온담탕](../formulas/wendan-tang.md) | 담위불화와 명치 답답함·오심·심계·수면의 연결을 살핌 |
 | [반하사심탕](../formulas/banxia-xiexin-tang.md) | 명치의 막힘과 구역·장명·묽은 변을 한열착잡의 구조에서 봄 |
+| [궁하탕](../formulas/gungha-tang.md) | 반하·복령·진피의 화담축에 천궁·청피·지각을 연결해 흉협·기체를 비교 |
+| [소시호탕](../formulas/xiaochaihu-tang.md) | 시호·황금·인삼 등과 화해소양 배합을 이루며 오심·소화의 문맥을 함께 봄 |
 | [소청룡탕](../formulas/xiaoqinglong-tang.md) | 표증과 수음이 겹친 호흡기 증상 맥락에서 다른 배합을 이룸 |
 
-세부 처방군은 [반하를 쓰는 처방](pinellia-formulas.md)에서 비교합니다. 반하는 법제와 규격을 확인해야 하는 약재이므로 이 구성표를 생약 자가 배합 안내로 사용하지 않습니다.
+세부 처방군은 [반하를 쓰는 처방](herb-to-formula-map.md#_6)에서 비교합니다. 반하는 법제와 규격을 확인해야 하는 약재이므로 이 구성표를 생약 자가 배합 안내로 사용하지 않습니다.
 
 ## 백출·복령 {#atractylodes-poria}
 
@@ -86,9 +92,11 @@ last_reviewed: 2026-08-19
 |---|---|---|
 | 백출·복령을 함께 포함 | [사군자탕](../formulas/sijunzi-tang.md)·[육군자탕](../formulas/liujunzi-tang.md)·[팔물탕](../formulas/bazhen-tang.md) | 건비의 바탕 위에 화담이나 보혈이 더해지는 차이 |
 | 백출을 포함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기·인삼과 보기건비를 이루며 기본 구성에 복령이 반드시 들어가는 것은 아님 |
+| 백출·복령 계열을 비교 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md)·[귀비탕](../formulas/guibi-tang.md) | 기혈·온보와 안신의 비중, 복령·복신 표기를 출전별로 구분 |
+| 복령을 포함 | [오령산](../formulas/wuling-san.md) | 저령·택사·백출·계지와 이수·건비·기화의 구조를 읽음 |
 | 복령을 포함 | [온담탕](../formulas/wendan-tang.md)·[경옥고](../formulas/gyeongok-go.md) | 화담·이기 처방과 보익 고제 안에서 맡는 역할의 차이 |
 
-더 넓은 연결은 [백출을 쓰는 처방](atractylodes-formulas.md)·[복령을 쓰는 처방](poria-formulas.md)으로 이어집니다. 귀비탕의 구성에 표시된 **복신**도 복령이라는 이름으로 단순히 바꾸어 읽지 않고 해당 문서의 표기를 확인합니다.
+더 넓은 연결은 [백출을 쓰는 처방](herb-to-formula-map.md#atractylodes-poria)·[복령을 쓰는 처방](herb-to-formula-map.md#atractylodes-poria)으로 이어집니다. 귀비탕의 구성에 표시된 **복신**도 복령이라는 이름으로 단순히 바꾸어 읽지 않고 해당 문서의 표기를 확인합니다.
 
 ## 작약·숙지황 {#peony-prepared-rehmannia}
 
@@ -110,6 +118,21 @@ last_reviewed: 2026-08-19
 | [생맥산](../formulas/shengmai-san.md) | 인삼·맥문동·오미자의 보기·생진·수렴 구조 |
 | [맥문동탕](../formulas/maidong-tang.md) | 건조한 기침과 위기상역을 살피는 배합 |
 | [천왕보심단](../formulas/tianwang-buxin-dan.md) | 자음·양혈·안신 약재와 함께 불면·심계·건조감의 조합을 봄 |
+
+## 감초 {#licorice}
+
+[감초](../herbs/licorice.md)는 ‘조화약’이라는 말만으로 역할이 끝나지 않습니다. 보기·완급·윤폐 등 배합 속 위치를 살피고, **원료·포제·1일량·복용기간과 중복 성분**을 확인합니다.
+
+| 감초를 포함하는 처방 | 배합에서 읽는 차이 |
+|---|---|
+| [사군자탕](../formulas/sijunzi-tang.md)·[육군자탕](../formulas/liujunzi-tang.md) | 보기건비의 골격과 화담·오심 조절의 결합 |
+| [팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 기혈쌍보와 온보를 받치는 배합 |
+| [귀비탕](../formulas/guibi-tang.md)·[보중익기탕](../formulas/buzhong-yiqi-tang.md) | 보기·안신과 보기승양이라는 다른 치료 방향 |
+| [계지탕](../formulas/guizhi-tang.md)·[마황탕](../formulas/mahuang-tang.md) | 영위 조화와 표실의 서로 다른 고방 구성 |
+| [소청룡탕](../formulas/xiaoqinglong-tang.md)·[마행감석탕](../formulas/maxing-ganshi-tang.md) | 수음과 폐열·천증이라는 다른 문맥 |
+| [작약감초탕](../formulas/shaoyao-gancao-tang.md) | 작약과의 완급 배합; 전체 감초 섭취량·기간 확인 |
+
+감초가 들어간 여러 처방·제품을 함께 쓰면 이름이 달라도 성분이 겹칠 수 있습니다. 부종·혈압 상승·근력저하와 전해질 문제 등은 [감초 안전성](../herbs/licorice.md)에서 병용약·용량과 함께 읽습니다. 많은 처방에 포함된다는 사실이 장기간 무제한 사용해도 된다는 뜻은 아닙니다. [NCCIH 감초 안전성](https://www.nccih.nih.gov/health/licorice-root)
 
 ## 본초를 기준으로 보는 의미 {#_7}
 

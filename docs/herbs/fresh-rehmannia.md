@@ -137,7 +137,7 @@ last_reviewed: '2026-10-07'
 경옥고에서는 인삼의 보기와 함께 생지황이 **자음·생진**의 축을 담당하여 기와 진액을 함께 돌보는 구조를 만든다.
 
 → [경옥고](../formulas/gyeongok-go.md)  
-→ [경옥고 지식망](../network/gyeongok-go-map.md)
+→ [경옥고 지식망](../formulas/gyeongok-go.md#source-dose-original)
 
 ## 참고문헌 {#_8}
 1. Jia J, et al. *Progress of research into the pharmacological effect and clinical application of Rehmanniae Radix.* 2023. PMID **37907043**.
