@@ -52,7 +52,7 @@ last_reviewed: 2026-08-30
 - [편두통](migraine.md) · [이침 근거](migraine-auricular-acupuncture.md)
 - [경추성 어지럼](cervicogenic-vertigo.md) · [이명](tinnitus.md)
 - [대상포진 후 신경통](postherpetic-neuralgia.md) · [당뇨병성 말초신경병증](diabetic-peripheral-neuropathy.md)
-- [말초성 안면마비](peripheral-facial-palsy.md) · [급성기 침 치료](bell-palsy-acute-acupuncture.md)
+- [말초성 안면마비](../../conditions/facial-palsy.md#facial-differential) · [급성기 침 치료](../../conditions/facial-palsy.md#facial-acute-acupuncture-2025)
 - [파킨슨병](parkinson-disease.md)
 
 ### 소화기·장–뇌축

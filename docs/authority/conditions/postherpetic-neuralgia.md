@@ -79,7 +79,7 @@ last_reviewed: 2026-08-28
 
 - [급성 대상포진](../../conditions/shingles.md)
 - [대상포진 후 신경통](../../conditions/postherpetic-neuralgia.md)
-- [안면마비 근거](peripheral-facial-palsy.md)
+- [안면마비 근거](../../conditions/facial-palsy.md#facial-evidence)
 - [당뇨병성 말초신경병증 근거](diabetic-peripheral-neuropathy.md)
 - [침구치료 안전](../../acupuncture-integrated/safety.md)
 

@@ -99,7 +99,7 @@ last_reviewed: 2026-09-21
 
 - [다리에 쥐가 나요·근육경련](muscle-cramps.md)
 - [하지불안증후군·밤에 다리가 불편해요](restless-legs-syndrome.md)
-- [말초성 안면마비의 연구 근거](../authority/conditions/peripheral-facial-palsy.md)
+- [말초성 안면마비의 연구 근거](facial-palsy.md#facial-evidence)
 
 - [이석증](bppv.md)
 - [메니에르병](menieres-disease.md)
