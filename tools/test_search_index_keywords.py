@@ -18,11 +18,13 @@ class AuthoredKeywordsTests(unittest.TestCase):
         self.assertEqual(clean_markdown('용량 {1, 2}와 원문 {참고}'), '용량 {1, 2}와 원문 {참고}')
 
     def test_keywords_only_facial_palsy_metadata_remains_searchable(self):
-        path = Path(__file__).resolve().parents[1] / "docs/authority/conditions/peripheral-facial-palsy.md"
+        path = Path(__file__).resolve().parents[1] / "docs/conditions/facial-palsy.md"
         fm, _ = strip_frontmatter(path.read_text(encoding="utf-8-sig"))
         # The term may exist only in metadata; neither tags nor body may supply it.
         keys = keyword_set("말초성 안면마비", "", {"keywords": fm["keywords"]})
         self.assertIn("구안와사", keys)
+        for term in fm["keywords"]:
+            self.assertIn(term, keys)
 
     def test_mixed_fields_trim_deduplicate_and_ignore_empty_values(self):
         keys = keyword_set("", "", {"tags": [" 안면마비 ", None, ""],
