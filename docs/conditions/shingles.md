@@ -147,7 +147,7 @@ last_reviewed: 2026-08-28
 - [대상포진 후 신경통](postherpetic-neuralgia.md)
 - [대상포진 후 신경통 현대근거](../authority/conditions/postherpetic-neuralgia.md)
 - [발진·가려움 R21 증상 안내](../symptom-herbal-guide/systemic-skin/r21-rash-itch.md)
-- [안면마비](../authority/conditions/peripheral-facial-palsy.md)
+- [안면마비](facial-palsy.md#facial-differential)
 - [안면통증](facial-pain.md)
 - [삼차신경통](trigeminal-neuralgia.md)
 - [침구치료 안전](../acupuncture-integrated/safety.md)

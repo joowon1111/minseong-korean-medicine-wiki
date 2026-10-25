@@ -211,7 +211,7 @@ MRI는 종양·염증·탈수초성 질환 같은 이차성 원인을 확인하�
 
 ### 안면마비 후 웃을 때 눈이 감기면 다시 마비가 온 건가요?
 
-회복 과정의 연합운동일 수 있습니다. 새로 얼굴 힘이 떨어진 것인지, 남은 약화·구축과 공동수축인지 구분해 [안면신경마비 단계별 안내](../authority/conditions/peripheral-facial-palsy.md)와 연결합니다.
+회복 과정의 연합운동일 수 있습니다. 새로 얼굴 힘이 떨어진 것인지, 남은 약화·구축과 공동수축인지 구분해 [안면신경마비 단계별 안내](facial-palsy.md#facial-synkinesis)와 연결합니다.
 
 ### 침치료와 보툴리눔독소를 같이 받을 수 있나요?
 
@@ -219,7 +219,7 @@ MRI는 종양·염증·탈수초성 질환 같은 이차성 원인을 확인하�
 
 ## 함께 보면 좋은 문서
 
-- [안면신경마비·구안와사](../authority/conditions/peripheral-facial-palsy.md)
+- [안면신경마비·구안와사](facial-palsy.md)
 - [안면통증·얼굴통증](facial-pain.md)
 - [삼차신경통·얼굴 전기통증](trigeminal-neuralgia.md)
 - [안구건조증](dry-eye.md)

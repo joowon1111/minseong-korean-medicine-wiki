@@ -47,6 +47,8 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      authority/conditions/peripheral-facial-palsy.md: conditions/facial-palsy.md
+      authority/conditions/bell-palsy-acute-acupuncture.md: conditions/facial-palsy.md#facial-acute-acupuncture-2025
       authority/low-back-pain.md: conditions/low-back-pain.md#back-research
       authority/conditions/chronic-neck-pain.md: conditions/neck-pain.md#_8
       authority/conditions/chronic-neck-pain-update.md: conditions/neck-pain.md#_8

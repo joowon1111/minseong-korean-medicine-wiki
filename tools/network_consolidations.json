@@ -483,5 +483,65 @@
       "_6": "conditions/knee-pain.md#knee-herbal-research",
       "_7": "conditions/knee-pain.md#knee-herbal-research"
     }
+  },
+  "authority/conditions/peripheral-facial-palsy.md": {
+    "target": "conditions/facial-palsy.md#_1",
+    "anchors": {
+      "_1": "conditions/facial-palsy.md#_1",
+      "_2": "conditions/facial-palsy.md#_3",
+      "_3": "conditions/facial-palsy.md#facial-red-flags",
+      "_4": "conditions/facial-palsy.md#bell-ramsay-hunt",
+      "_5": "conditions/facial-palsy.md#bell-ramsay-hunt",
+      "_6": "conditions/facial-palsy.md#bell-ramsay-hunt",
+      "_7": "conditions/facial-palsy.md#facial-additional-evaluation",
+      "_8": "conditions/facial-palsy.md#eye-protection",
+      "_9": "conditions/facial-palsy.md#acute-treatment",
+      "_10": "conditions/facial-palsy.md#acute-treatment",
+      "_11": "conditions/facial-palsy.md#acute-treatment",
+      "_12": "conditions/facial-palsy.md#facial-additional-evaluation",
+      "_13": "conditions/facial-palsy.md#stages",
+      "_14": "conditions/facial-palsy.md#facial-pattern-treatment",
+      "_15": "conditions/facial-palsy.md#facial-pattern-treatment",
+      "_16": "conditions/facial-palsy.md#facial-acupuncture",
+      "_17": "conditions/facial-palsy.md#facial-electroacupuncture",
+      "_18": "conditions/facial-palsy.md#facial-pharmacopuncture",
+      "_19": "conditions/facial-palsy.md#facial-evidence",
+      "_20": "conditions/facial-palsy.md#facial-acute-acupuncture-2025",
+      "_21": "conditions/facial-palsy.md#facial-overview-2025",
+      "_22": "conditions/facial-palsy.md#facial-electric-stimulation",
+      "_23": "conditions/facial-palsy.md#facial-rehabilitation",
+      "_24": "conditions/facial-palsy.md#facial-early-rehabilitation",
+      "_25": "conditions/facial-palsy.md#facial-early-rehabilitation",
+      "_26": "conditions/facial-palsy.md#facial-synkinesis",
+      "_27": "conditions/facial-palsy.md#facial-daily-care",
+      "1": "conditions/facial-palsy.md#facial-daily-care",
+      "2": "conditions/facial-palsy.md#facial-daily-care",
+      "3": "conditions/facial-palsy.md#facial-daily-care",
+      "4": "conditions/facial-palsy.md#facial-daily-care",
+      "5": "conditions/facial-palsy.md#facial-baseline",
+      "_28": "conditions/facial-palsy.md#facial-baseline",
+      "_29": "conditions/facial-palsy.md#reassessment-timing",
+      "_30": "conditions/facial-palsy.md#facial-questions",
+      "_31": "conditions/facial-palsy.md#facial-red-flags",
+      "_32": "conditions/facial-palsy.md#facial-modalities",
+      "_33": "conditions/facial-palsy.md#_6",
+      "_34": "conditions/facial-palsy.md#eye-protection",
+      "_35": "conditions/facial-palsy.md#_7",
+      "_36": "conditions/facial-palsy.md#facial-acupuncture",
+      "_37": "conditions/facial-palsy.md#facial-synkinesis",
+      "3_1": "conditions/facial-palsy.md#reassessment-timing",
+      "_38": "conditions/facial-palsy.md#_4",
+      "symptom-care-routes": "conditions/facial-palsy.md#facial-care-route"
+    }
+  },
+  "authority/conditions/bell-palsy-acute-acupuncture.md": {
+    "target": "conditions/facial-palsy.md#facial-acute-acupuncture-2025",
+    "anchors": {
+      "_1": "conditions/facial-palsy.md#facial-acute-acupuncture-2025",
+      "_2": "conditions/facial-palsy.md#facial-baseline",
+      "_3": "conditions/facial-palsy.md#facial-acute-acupuncture-2025",
+      "_4": "conditions/facial-palsy.md#facial-pattern-treatment",
+      "_5": "conditions/facial-palsy.md#facial-acupuncture"
+    }
   }
 }
