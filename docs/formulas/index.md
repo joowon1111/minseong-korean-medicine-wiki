@@ -97,6 +97,9 @@ last_reviewed: '2026-09-21'
 - [여신탕](yeosin-tang.md) — 좌섬·염좌 뒤 국소 요통과 움직임 제한
 - [천궁다조산](chuanxiong-chatiao-san.md) · [청상견통탕](qingshang-juantong-tang.md#headache-formula-layers) — 소풍지통과 청열·자윤의 비중 비교
 - [소경활혈탕](shujing-huoxue-tang.md#source-herbs-and-bi-pattern) · [당귀수산](danggui-susan.md) — 오래된 복합 비증과 타박 뒤 어혈 비교
+- [오수유탕](wuzhuyu-tang.md) · [조등산](gouteng-san.md) — 냉감·구역과 식풍·청열·담음 배합, 두통 연구 비교
+- [계지가출부탕](guizhi-jia-shu-fu-tang.md) · [계지작약지모탕](guizhi-shaoyao-zhimu-tang.md) · [월비가출탕](yuebi-jia-shu-tang.md) — 냉통·다관절통·부종의 배합 비교
+- [두통·두면부 처방 비교](../herbal-integrated/formula-for-headache.md#headache-formula-comparison) · [근골격 통증 처방 비교](../herbal-integrated/formula-for-pain.md#pain-formula-comparison)
 
 ### 피부의 가려움·건조·열감 {#skin-formulas}
 
