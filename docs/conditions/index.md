@@ -327,8 +327,8 @@ last_reviewed: 2026-09-21
 
 ### 눈·입의 불편 {#eye-oral-symptom-routes}
 
-- [안구건조증](dry-eye.md)
-- [눈피로](eye-fatigue.md)
+- [안구건조증·눈물흘림의 원인 감별](dry-eye.md#watery-eyes-differential) — 반사성 눈물·알레르기·눈물길·눈꺼풀 구분
+- [눈피로·안구피로](eye-fatigue.md) — 화면 작업·도수·건조와 변증별 치료
 - [구강건조증·입마름](dry-mouth.md)
 - [구내염](mouth-ulcer.md)
 
