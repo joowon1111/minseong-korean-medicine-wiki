@@ -112,6 +112,20 @@ last_reviewed: 2026-09-06
 
 [원 논문](https://pubmed.ncbi.nlm.nih.gov/32422066/)과 [시험 결과·탈락률·적용 범위](../authority/conditions/functional-dyspepsia.md#pds-direct-trial)에서 군별 수치를 확인할 수 있습니다. 같은 환자 보고 지표를 비교했고 시술자 눈가림의 제약이 있으며, 이 PDS 환자군의 결과를 모든 소화기 질환이나 모든 침 시술에 그대로 적용하지 않습니다.
 
+### 증상 아형에 따라 치료를 비교한 문헌고찰 {#subtype-therapy-review}
+
+Aragunde Marcos 등의 2026년 체계적 문헌고찰은 **Rome III/IV 기준의 성인 기능성소화불량**에서 최근 10년간의 무작위시험을 검토했습니다. 약물·식사·한약·전침 등 여러 치료를 다뤄, 한 가지 중재의 효과를 합산한 침 메타분석과는 목적이 다릅니다.
+
+| 연구가 다룬 질문 | 진료에서 읽을 의미 |
+|---|---|
+| 식후불편·조기포만과 명치통증에서 치료 반응이 같은가 | PDS·EPS 및 겹침을 나누어 증상·섭취·삶의 질을 평가 |
+| 한약·전침 등 비약물적 접근의 결과는 어떤가 | 유익한 신호가 있었으나 상당 부분 개별 시험에 근거; 처방·자극 방식·비교군을 따로 확인 |
+| 모든 치료에 공통된 효과 크기를 정할 수 있는가 | 초록에 전체 시험 수·표본수·통합 효과값이 없어 수치나 치료 순위를 추정하지 않음 |
+
+이는 **증상에 맞춘 단계적·다각적 치료**를 뒷받침하는 종합 자료입니다. 특정 한약의 구성·용량이나 약침의 효과를 증명하는 자료로 사용하지 않습니다. 아래의 처방별 직접시험과 함께 읽습니다.
+
+*Revisión sistemática sobre las estrategias terapéuticas en la dispepsia funcional: abordajes farmacológicos y no farmacológicos según el subtipo clínico.* [PMID 42843625](https://pubmed.ncbi.nlm.nih.gov/42843625/) · [DOI 10.1016/j.gastrohep.2026.502870](https://doi.org/10.1016/j.gastrohep.2026.502870). PubMed의 스페인어 원제·영문 초록을 확인했으며 **전문의 포함시험표·편향평가는 확인하지 못했습니다**.
+
 ### 한약·식물성 제제 연구를 구분해 읽기 {#herbal-research}
 
 **일본 DREAM 시험(Tominaga 등, 2018)**은 위약 준비기간 뒤 증상이 남은 기능성소화불량 환자 128명을 배정해 육군자탕과 위약을 8주 비교했습니다. 전체 치료효과 평가가 개선됐고(P=0.019), 조기포만·식후포만·팽만에서도 차이가 있었습니다. 소화가 불편한 환자의 식사 기능을 치료 목표로 평가한 사례입니다. [원 논문](https://doi.org/10.1111/nmo.13319) · [육군자탕의 시험 조건·일본소화기학회 권고](../research/formulas/rikkunshito.md#japanese-fd-trials). 해당 모집 조건과 일본 시험제제에 대한 결과로 읽고, 국내 탕약·가감방의 구성은 별도로 확인합니다.
