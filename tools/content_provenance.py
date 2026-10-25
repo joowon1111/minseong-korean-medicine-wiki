@@ -89,7 +89,7 @@ def on_page_content(html, page, config, files):
     dataset = ' '.join(f'data-provenance-{key}="{escape(value, quote=True)}"' for key, value in attrs.items())
     guide = config['site_url'].rstrip('/') + '/guide/content-use/'
     footer = (
-        f'<aside class="archive-provenance" data-archive-provenance {dataset} aria-label="{version_label}">'
+        f'<aside class="archive-provenance" data-search-exclude data-archive-provenance {dataset} aria-label="{version_label}">'
         f'<p>{source_label}: <a href="{escape(url, quote=True)}">민성 한의학 아카이브</a> · '
         f'<a href="{escape(guide, quote=True)}">{use_label}</a><br><small>{notice}</small></p>'
         f'<details><summary>{version_label}</summary><p><code>{record["document_id"]}</code><br>'

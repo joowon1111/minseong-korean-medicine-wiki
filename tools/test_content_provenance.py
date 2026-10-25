@@ -46,6 +46,11 @@ class ProvenanceTests(unittest.TestCase):
             self.assertIn('archive:document-id',output)
             self.assertIn('data-archive-provenance',output)
             self.assertNotIn('visitor',payload['provenance'])
+            from material.plugins.search.plugin import Parser
+            search = Parser(); search.feed(content)
+            indexed = ''.join(''.join(section.text) for section in search.data)
+            self.assertIn('시험 내용', indexed)
+            self.assertNotIn(page.archive_provenance['document_id'], indexed)
 
     def test_local_overlap_detects_copied_paragraph_in_larger_text(self):
         prose = '눈물흘림은 반사성 눈물과 눈물길 배출장애를 구분하고 눈꺼풀의 위치와 눈감김을 함께 살핍니다.'

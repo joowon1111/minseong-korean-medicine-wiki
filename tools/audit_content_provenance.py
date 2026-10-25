@@ -13,6 +13,8 @@ from content_provenance import ROOT, MANIFEST, digest, document_id
 def audit(site):
     data = json.loads((site / MANIFEST).read_text())
     index = json.loads((site / 'assets/ai/page-index.json').read_text())['pages']
+    search = (site/'search/search_index.json').read_text()
+    assert not re.search(r'MSA-[0-9A-F]{16}', search), 'Provenance IDs leaked into normal article search'
     records = {row['url']: row for row in data['documents']}
     search_index = json.loads((site/'assets/provenance/search-index.json').read_text())
     batched = [row for batch in search_index['batches'] for row in json.loads((site/batch['path']).read_text())['documents']]
