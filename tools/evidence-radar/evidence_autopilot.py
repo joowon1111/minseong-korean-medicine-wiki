@@ -17,6 +17,7 @@ import logging
 from functools import lru_cache
 from collections import defaultdict
 from datetime import datetime
+from review_rules import review_reasons
 
 SOURCES=[
  ("pharmacopuncture",[
@@ -100,7 +101,7 @@ def modality_ok(kind,r):
     return False
 
 def quality_reasons(kind,r,target):
-    reasons=[]
+    reasons=review_reasons(r)
     title=str(r.get("title","")).lower()
     if any(x in title for x in BAD_TITLE):reasons.append("unsafe-publication-type")
     if r.get("study_type") in PROTOCOL or r.get("evidence_level")=="P":reasons.append("protocol")
@@ -159,7 +160,7 @@ def main():
                     target=str(p.relative_to(docs)).replace("\\","/");break
             reasons=quality_reasons(kind,r,target)
             item={**r,"kind":kind,"target":target,"reasons":reasons,
-                  "approved":False}
+                  "approved":False,"effect_certainty":"not-assessed"}
             if reasons:holds.append(item)
             else:candidates.append(item)
 

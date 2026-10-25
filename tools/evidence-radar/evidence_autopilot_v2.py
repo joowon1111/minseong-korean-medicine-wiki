@@ -9,6 +9,7 @@ from pathlib import Path
 import logging
 from functools import lru_cache
 from datetime import datetime
+from review_rules import review_reasons
 
 SOURCES=[
  ("pharmacopuncture",["evidence-pharmacopuncture-clinical.json","evidence-radar-work/pharmacopuncture/evidence-pharmacopuncture-clinical.json"]),
@@ -78,7 +79,7 @@ def modality_ok(kind,r):
         return not bool(r.get("refine_reasons"))
     return False
 def reasons(kind,r,target):
-    t=str(r.get("title","")).lower(); rs=[]
+    t=str(r.get("title","")).lower(); rs=review_reasons(r)
     if any(x in t for x in BAD):rs.append("unsafe-publication-type")
     if r.get("study_type") in {"RCT protocol","SR/MA protocol"} or r.get("evidence_level")=="P":rs.append("protocol")
     if r.get("evidence_level") not in {"A","B"}:rs.append("not-A/B")
@@ -106,7 +107,7 @@ def main():
                 p=resolve_cached(m.get("archive_path")) if isinstance(m, dict) and isinstance(m.get("archive_path"), str) else None
                 if p:target=str(p.relative_to(docs)).replace("\\","/");break
             rs=reasons(kind,r,target)
-            item={**r,"kind":kind,"target":target,"reasons":rs,"approved":False}
+            item={**r,"kind":kind,"target":target,"reasons":rs,"approved":False,"effect_certainty":"not-assessed"}
             (hold if rs else cand).append(item)
     out=Path(a.outdir);out.mkdir(parents=True,exist_ok=True)
     for n,data in [("high-confidence-candidates",cand),("hold-queue",hold),("already-existing",existing),("source-status",status)]:

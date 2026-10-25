@@ -18,6 +18,7 @@ import xml.etree.ElementTree as ET
 from datetime import date, timedelta, datetime
 from pathlib import Path
 from collections import defaultdict
+from review_rules import review_reasons, valid_title, is_protocol
 
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
@@ -71,11 +72,12 @@ HERBAL_HOLD = [
 # Conservative disease map. More can be added later without changing the workflow.
 CONDITIONS = [
     (["low back pain", "chronic low back pain"], "M54", "요통", "conditions/low-back-pain/"),
-    (["knee osteoarthritis"], "M17", "무릎 골관절염", "conditions/knee-osteoarthritis/"),
+    (["knee osteoarthritis"], "M17", "무릎 골관절염", "conditions/knee-pain/"),
     (["frozen shoulder", "adhesive capsulitis"], "M75.0", "유착성 관절낭염", "conditions/frozen-shoulder/"),
     (["rotator cuff"], "M75.1", "회전근개 질환", "conditions/rotator-cuff-disease/"),
     (["migraine"], "G43", "편두통", "conditions/migraine/"),
     (["tension-type headache", "tension headache"], "G44.2", "긴장형두통", "conditions/tension-type-headache/"),
+    (["shift work", "shift-work", "circadian rhythm sleep-wake", "sleep-wake disorder"], "G47", "교대근무·일주기 수면장애", "conditions/insomnia/"),
     (["insomnia"], "G47", "불면", "conditions/insomnia/"),
     (["anxiety disorder", "generalized anxiety"], "F41", "불안장애", "conditions/anxiety/"),
     (["depression", "major depressive disorder"], "F32", "우울증", "conditions/depression/"),
@@ -128,16 +130,14 @@ def text_of(node):
 
 def study_type(title, abstract, pubtypes):
     t = (title + " " + abstract + " " + " ".join(pubtypes)).lower()
-    if "protocol" in t and ("systematic review" in t or "meta-analysis" in t):
-        return "SR/MA protocol"
+    if is_protocol(title, abstract, pubtypes):
+        return "SR/MA protocol" if "review" in t or "meta-analysis" in t else "RCT protocol"
     if "systematic review" in t and "meta-analysis" in t:
         return "Systematic review & meta-analysis"
     if "systematic review" in t:
         return "Systematic review"
     if "meta-analysis" in t:
         return "Meta-analysis"
-    if "protocol" in t and ("randomized" in t or "randomised" in t):
-        return "RCT protocol"
     if ("randomized controlled trial" in t or "randomised controlled trial" in t
             or "randomized clinical trial" in t):
         return "RCT"
@@ -158,7 +158,11 @@ def evidence_level(st):
         return "P"
     return "C"
 
-def map_conditions(t):
+def map_conditions(t, abstract=None):
+    # The studied population in the title outranks secondary outcome scales.
+    if abstract is not None:
+        return map_conditions(t.lower()) or map_conditions(abstract.lower())
+    t = t.lower()
     out = []
     for terms, code, label, path in CONDITIONS:
         if any(x in t for x in terms):
@@ -248,7 +252,10 @@ def fetch_kind(kind, query, mindate, maxdate, retmax):
         if med is None or art is None:
             continue
         pmid = text_of(med.find("PMID"))
-        title = text_of(art.find("ArticleTitle"))
+        article_title = text_of(art.find("ArticleTitle"))
+        vernacular_title = text_of(art.find("VernacularTitle"))
+        title = article_title if valid_title(article_title) else vernacular_title
+        title_source = "ArticleTitle" if valid_title(article_title) else "VernacularTitle" if valid_title(vernacular_title) else "missing"
         abstract = " ".join(text_of(x) for x in art.findall("Abstract/AbstractText"))
         journal = text_of(art.find("Journal/Title"))
         pubtypes = [text_of(x) for x in art.findall("PublicationTypeList/PublicationType")]
@@ -266,7 +273,9 @@ def fetch_kind(kind, query, mindate, maxdate, retmax):
                 text_of(pd.find("Day"))
             ]))
         rows.append({
-            "kind": kind, "title": title, "abstract": abstract, "journal": journal,
+            "kind": kind, "title": title, "article_title": article_title,
+            "vernacular_title": vernacular_title, "title_source": title_source,
+            "abstract": abstract, "journal": journal,
             "pmid": pmid, "doi": doi, "published_date": pubdate,
             "publication_types": pubtypes
         })
@@ -320,7 +329,8 @@ def main():
         level = evidence_level(st)
         r["study_type"] = st
         r["evidence_level"] = level
-        r["kcd_candidates"] = map_conditions(t)
+        r["kcd_candidates"] = map_conditions(r["title"], r["abstract"])
+        r["kcd_mapping_status"] = "title-supported" if map_conditions(r["title"]) else "abstract-only"
         r["formula_candidates"] = map_formulas(t)
 
         identifiers = [x for x in [r["doi"].lower().strip(), r["pmid"].strip()] if x]
@@ -330,11 +340,15 @@ def main():
 
         target = resolve_target(docs, r["kcd_candidates"])
         r["target"] = target
-        reasons = []
+        reasons = review_reasons(r)
+        if r["kcd_mapping_status"] != "title-supported":
+            reasons.append("condition-mapping-review")
+        if len({m["archive_path"] for m in r["kcd_candidates"]}) > 1:
+            reasons.append("condition-mapping-ambiguous")
 
         if any(x in t for x in BAD):
             reasons.append("unsafe-publication-type")
-        if any(x in t for x in PROTOCOL) or level == "P":
+        if is_protocol(r["title"], r["abstract"], r["publication_types"]) or level == "P":
             reasons.append("protocol")
         if level not in {"A", "B"}:
             reasons.append("not-A/B")
@@ -353,6 +367,7 @@ def main():
 
         r["reasons"] = list(dict.fromkeys(reasons))
         r["approved"] = False
+        r["effect_certainty"] = "not-assessed"
         if r["reasons"]:
             holds.append(r)
         else:
@@ -384,7 +399,7 @@ def main():
         "- PubMed를 직접 정기 조회",
         "- 공개 docs는 자동 수정하지 않음",
         "- 철회/논평/protocol/낮은 연구유형/중복/복합중재/모달리티 혼입 자동 보류",
-        "- 고신뢰 후보만 batch 검토 대상으로 남김",
+        "- 고신뢰 후보도 원문 검토 전 승인되지 않음; A/B는 연구설계 분류이며 효과의 확실성 등급이 아님",
         "- 사용자가 논문을 한 건씩 심사하지 않음"
     ]
     (out / "WEEKLY-SUMMARY.md").write_text("\n".join(summary), encoding="utf-8")
