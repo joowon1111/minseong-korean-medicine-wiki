@@ -36,6 +36,7 @@ jobs:
       - run: mkdocs build
       - run: python tools/audit_internal_links.py --site
       - run: python tools/audit_page_discovery.py
+      - run: python tools/audit_content_provenance.py
       - run: python tools/audit_seo.py
       - name: Check English guide on mobile and desktop
         run: |
@@ -57,6 +58,7 @@ jobs:
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_sasang_explorer.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_sidebar_scroll.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_responsive_reading.cjs
+          NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_content_provenance.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_network_consolidation.cjs
       - name: Keep archive browser screenshots
         if: always()

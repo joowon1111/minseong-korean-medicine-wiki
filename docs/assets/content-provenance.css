@@ -1,0 +1,3 @@
+.archive-provenance{margin-top:2rem;padding-top:.8rem;border-top:1px solid var(--md-default-fg-color--lightest);color:var(--md-default-fg-color--light);font-size:.72rem;line-height:1.6}
+.archive-provenance p{margin:.4rem 0}.archive-provenance summary{cursor:pointer}.archive-provenance code{overflow-wrap:anywhere;white-space:normal;font-size:.66rem}
+@media print{.archive-provenance{break-inside:avoid}.archive-provenance details>p{display:block}.archive-provenance a:after{content:" (" attr(href) ")"}}

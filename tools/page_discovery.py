@@ -305,6 +305,10 @@ def on_post_page(output, page, config):
                "headings": [{"level": h["level"], "title": h["text"], "url": url + "#" + quote(h["id"])} for h in article.headings],
                "links": links, "related_reading": data["related"],
                "interpretation": "Public article text and navigation only; links do not establish clinical equivalence or treatment recommendations."}
+    provenance = getattr(page, "archive_provenance", None)
+    if provenance:
+        payload["provenance"] = {key: provenance[key] for key in (
+            "document_id", "url", "text_sha256", "source_sha256", "commit") if key in provenance}
     write_document(config["site_dir"], data["document_path"], payload)
     _page_index[url] = {"url": url, "title": title, "document": document_url}
     del page.archive_discovery  # Do not retain every article's parsed text after rendering.
