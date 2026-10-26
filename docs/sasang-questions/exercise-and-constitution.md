@@ -20,7 +20,7 @@ last_reviewed: 2026-08-19
 ```
 
 → [체질운동요법](../sasang-treatment/exercise.md)
-→ [피로·회복과 자율조절](../autonomic/fatigue-recovery.md)
+→ [피로·회복과 자율조절](../conditions/chronic-fatigue.md#stress-recovery)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
