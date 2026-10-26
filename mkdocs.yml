@@ -1056,7 +1056,7 @@ nav:
       - R51 두통: symptom-herbal-guide/neuro-mental/r51-headache.md
       - R42 현기증 및 어지러움: symptom-herbal-guide/neuro-mental/r42-dizziness.md
       - R45 정서와 관련된 증상: symptom-herbal-guide/neuro-mental/r45-emotional.md
-      - R46 수면 관련 증상: symptom-herbal-guide/neuro-mental/r46-sleep.md
+      - 수면 관련 증상: symptom-herbal-guide/neuro-mental/r46-sleep.md
     - 호흡기·이비인후과:
       - symptom-herbal-guide/respiratory-ent/index.md
       - R05 기침: symptom-herbal-guide/respiratory-ent/r05-cough.md
@@ -1068,7 +1068,7 @@ nav:
       - R21 발진 및 피부 분출: symptom-herbal-guide/systemic-skin/r21-rash-itch.md
     - 비뇨·생식기계:
       - symptom-herbal-guide/urogenital/index.md
-      - R11 골반 및 회음부 통증: symptom-herbal-guide/urogenital/r11-pelvic-perineal.md
+      - 골반 및 회음부 통증: symptom-herbal-guide/urogenital/r11-pelvic-perineal.md
       - R30 소변볼 때의 통증·배뇨 증상: symptom-herbal-guide/urogenital/r30-urinary.md
   - 상세 자료실:
     - portal/conditions.md
