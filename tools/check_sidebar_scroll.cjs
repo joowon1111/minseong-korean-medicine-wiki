@@ -10,6 +10,28 @@ const cases=[['desktop',1440,900,1],['short-desktop',1280,360,1],['desktop-edge'
  fs.mkdirSync('archive-browser-results',{recursive:true});
  const browser=await chromium.launch({headless:true});
  try{
+  // The clinic's five core symptoms must be reachable in the first menu group.
+  for(const width of [390,1440]){
+   const page=await browser.newPage({viewport:{width,height:900}});
+   await page.route('**/*',route=>new URL(route.request().url()).origin===new URL(base).origin?route.continue():route.abort());
+   await page.goto(base+'/autonomic/',{waitUntil:'domcontentloaded'});
+   if(width<1220)await page.locator('header label[for="__drawer"]').click();
+   const entry=page.locator('.md-sidebar--primary').getByRole('link',{name:'자율신경·스트레스',exact:true});
+   await entry.waitFor({state:'visible'});
+   const position=await entry.evaluate(a=>{
+    const group=a.closest('li.md-nav__item'),r=a.getBoundingClientRect();
+    return {first:group===group.parentElement.firstElementChild,top:r.top,bottom:r.bottom,links:[...group.querySelectorAll('a[href]')].map(a=>new URL(a.href).pathname)};
+   });
+   assert(position.first,'Autonomic must be the first symptoms menu group at '+width);
+   assert(position.top>=0&&position.bottom<900,'Autonomic entry must be visible without scrolling at '+width);
+   for(const name of ['chronic-fatigue','functional-dyspepsia','palpitation','headache','insomnia']){
+    assert(position.links.includes('/conditions/'+name+'/'),'Core symptom must be in the promoted group: '+name);
+    const link=page.locator('.md-sidebar--primary').getByRole('link',{name:'자율신경·스트레스',exact:true}).locator('xpath=ancestor::li[1]').locator('a[href$="/conditions/'+name+'/"]');
+    assert(await link.isVisible(),'Core symptom must be visible in the open group: '+name);
+   }
+   await page.screenshot({path:`archive-browser-results/autonomic-menu-priority-${width}.png`});
+   await page.close();
+  }
   for(const [name,width,height,deviceScaleFactor] of cases){
    const page=await browser.newPage({viewport:{width:1440,height:900},deviceScaleFactor});
    // External font/analytics latency must not determine menu geometry tests.
