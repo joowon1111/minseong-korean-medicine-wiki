@@ -51,7 +51,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
         ['/symptom-integrated/treatment-evidence/', '_1'],
       ]) {
         await page.goto(base + path + '#' + anchor, {waitUntil:'networkidle'});
-        await page.locator('#' + anchor).waitFor();
+        await page.locator(`[id="${anchor}"]`).waitFor();
         assert.equal(await page.locator('article h1').count(), 1, `One article title: ${path}`);
         assert(!(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1)), `Hub overflow: ${path} at ${width}`);
         const hubTables = await page.locator('.md-typeset__scrollwrap').evaluateAll(nodes => nodes.map(n => ({overflow:n.scrollWidth>n.clientWidth+1,tabindex:n.getAttribute('tabindex'),role:n.getAttribute('role')})));
