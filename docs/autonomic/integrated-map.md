@@ -137,7 +137,7 @@ HRV는 박동 사이 간격의 변동을 통해 **심장 자율조절의 한 단
 ### 결과지표가 다른 연구를 구분합니다 {#evidence-reading}
 
 - **폐경 이행기 불면·전침:** Li 등(2020)은 84명을 8주·18회 치료 또는 비침습 가짜침으로 배정했습니다. 8주 PSQI 변화의 군 간 차이는 −2.38점(95% CI −3.46~−1.30)으로 치료군에 유리했습니다. 작은 규모와 시술자 눈가림의 한계가 있고, 복합증상 전체나 내이질환의 효과를 검증한 시험은 아닙니다. [PMID 33376432](https://pubmed.ncbi.nlm.nih.gov/33376432/)
-- **식후불편·침:** Yang 등(2020)의 278명 다기관 가짜침 대조시험은 4주·12회 치료 뒤 PDS 증상 호전을 보고했습니다. 식후불편 환자의 결과로, 폐경기 복합증상이나 전침·약침의 직접 근거로 바꾸지 않습니다. [시험 결과·탈락과 적용 범위](../authority/conditions/functional-dyspepsia.md#pds-direct-trial) · [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/)
+- **식후불편·침:** Yang 등(2020)의 278명 다기관 가짜침 대조시험은 4주·12회 치료 뒤 PDS 증상 호전을 보고했습니다. 식후불편 환자의 결과로, 폐경기 복합증상이나 전침·약침의 직접 근거로 바꾸지 않습니다. [시험 결과·탈락과 적용 범위](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/)
 - **한약의 수면·소화 연구:** [불면 한약 근거 지도](../authority/formulas/insomnia-herbal-formula-map.md)와 [기능성소화불량의 한약 연구](../conditions/functional-dyspepsia.md#herbal-research)에서 대상·제형·단독/병용을 확인합니다. 자음건비탕의 [만성 주관적 어지럼 예비시험](../formulas/jaeum-geonbi-tang.md#csd-trial)은 내이질환을 제외했고 혈액지표를 중점 평가한 소규모 연구이므로 메니에르병 치료·재발 예방의 근거로 확장하지 않습니다.
 - **홍조·야간발한:** NAMS 2023 성명은 혈관운동 증상에 대한 효과의 일관성·확실성을 기준으로 침과 허브·보충제를 권고하지 않았습니다. 일부 수면·소화 연구의 긍정 결과와 평가 대상이 다릅니다. 이 성명과 개별 연구를 함께 설명하고, 한약 처방별 자료도 따로 검토합니다. [PMID 37252752](https://pubmed.ncbi.nlm.nih.gov/37252752/)
 

@@ -172,7 +172,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 | 찾는 내용 | 대표 자료실 |
 |---|---|
-| 식후불편감·복통과 설사·배변곤란의 직접 비교시험 | [소화불량: 침·국내 한약·일본 육군자탕](../authority/conditions/functional-dyspepsia.md) · [IBS ACTION](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [변비: 전침·마자인환](../authority/conditions/functional-constipation.md) |
+| 식후불편감·복통과 설사·배변곤란의 직접 비교시험 | [소화불량: 침·국내 한약·일본 육군자탕](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [IBS ACTION](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [변비: 전침·마자인환](../authority/conditions/functional-constipation.md) |
 | 불면의 침·한약 연구와 수면 결과 | [전침 다기관 시험](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) · [산조인탕 단독·병용](../authority/formulas/suanzaoren-tang.md#szrd-results) · [수면 한약 비교](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary) |
 | 암 치료 후 통증·방사선 구강건조의 비교시험 | [PEACE 통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [만성 구강건조](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading) |
 | 질환·증상별 핵심 연구와 진료 시 확인점 | [질환별 임상근거](../authority/conditions/index.md) |
@@ -199,7 +199,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 |---|---|---|
 | 피로에 공진단을 연구한 자료가 있나요? | [피로·기력회복](../conditions/energy-recovery.md) → [공진단의 구성과 전통 맥락](../formulas/gongjin-dan.md) | [공진단 사람 대상 연구와 원문](../research/formulas/gongjin-dan.md) |
 | 잠들기 어렵고 자주 깨는 증상을 어떻게 살피나요? | [불면·수면장애 안내](../conditions/insomnia.md) | [불면 임상근거와 평가 지표](../authority/conditions/insomnia.md) |
-| 먹고 나면 더부룩한 증상의 치료 근거가 궁금해요 | [소화불량 안내](../conditions/dyspepsia.md) | [기능성소화불량 임상근거](../authority/conditions/functional-dyspepsia.md) |
+| 먹고 나면 더부룩한 증상의 치료 근거가 궁금해요 | [소화불량 안내](../conditions/dyspepsia.md) | [기능성소화불량 임상근거](../conditions/functional-dyspepsia.md#pds-acupuncture-results) |
 | 복통과 설사가 반복될 때 침치료 근거가 있나요? | [과민성장증후군 안내](../conditions/ibs.md) | [ACTION의 복통·설사 복합 반응](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | 변비 치료는 배변 횟수만 좋아지면 되나요? | [변비의 원인·치료 안내](../conditions/constipation.md) | [완전자발배변·반응률·추적 읽기](../authority/conditions/functional-constipation.md#csbm-reading) |
 

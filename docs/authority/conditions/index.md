@@ -59,7 +59,7 @@ last_reviewed: 2026-08-30
 
 | 질환 | 근거 카드 |
 |---|---|
-| 기능성 소화불량 | [기능성 소화불량](functional-dyspepsia.md) |
+| 기능성 소화불량 | [기능성 소화불량](../../conditions/functional-dyspepsia.md#pds-acupuncture-results) |
 | 위식도역류질환 | [위식도역류질환](gastroesophageal-reflux-disease.md) · [수기침 연구](gerd-manual-acupuncture.md) |
 | 과민성장증후군 | [과민성장증후군](irritable-bowel-syndrome.md) · [정서·삶의 질](ibs-mental-quality-of-life.md) |
 | 기능성 변비 | [기능성 변비](functional-constipation.md) |

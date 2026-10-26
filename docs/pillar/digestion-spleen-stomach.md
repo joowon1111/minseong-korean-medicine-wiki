@@ -147,7 +147,7 @@ last_reviewed: 2026-09-06
 
 | 임상 질문 | 대표 근거 | 읽을 결과 |
 |---|---|---|
-| 식후 그득함·조기포만에 침이나 한약이 도움이 되나요? | [기능성소화불량의 직접 비교시험](../authority/conditions/functional-dyspepsia.md) · [육군자탕 연구](../research/formulas/rikkunshito.md) | 식후 증상·전체 호전·삶의 질과 연구 제제를 구분 |
+| 식후 그득함·조기포만에 침이나 한약이 도움이 되나요? | [기능성소화불량의 직접 비교시험](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [육군자탕 연구](../research/formulas/rikkunshito.md) | 식후 증상·전체 호전·삶의 질과 연구 제제를 구분 |
 | 복통과 배변 변화가 반복될 때 어떤 근거가 있나요? | [IBS 침 근거](../authority/conditions/irritable-bowel-syndrome.md) · [IBS 한약 지도](../authority/formulas/ibs-herbal-formula-map.md) | 설사형·변비형·혼합형, 복통·변 상태와 비교군 |
 | 건조변·배변곤란에서 한약을 어떻게 평가했나요? | [마자인환의 임상시험](../formulas/mazi-ren-wan.md) · [변비 한약 지도](../authority/formulas/functional-constipation-herbal-map.md) | 완전자발배변·변 형태·힘주기·구제약과 추적기간 |
 | 장 점막·미생물·면역의 변화는 무엇을 뜻하나요? | [소화·장 점막·면역](../immune-allergy/gut-recovery.md#gut-mucosal-immunity) | 기전·검사 변화와 실제 증상·섭취 회복을 구분 |

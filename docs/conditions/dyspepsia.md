@@ -139,7 +139,7 @@ last_reviewed: 2026-09-06
 
 ### 식후 더부룩함의 침 연구는 무엇을 보여주나요? {#pds-trial-route}
 
-식후불편증후군 278명을 비교한 2020년 *Annals of Internal Medicine* 시험은 **4주 12회 침치료** 후 전체 호전과 세 주증상 소실을 따로 평가했습니다. 침군에서 두 지표가 더 유리했지만, 전체 호전이 모든 증상 소실을 뜻하지는 않습니다. [기능성소화불량 본문의 시험 설명](functional-dyspepsia.md#pds-acupuncture-results)과 [군별 수치·추적기간·탈락률](../authority/conditions/functional-dyspepsia.md#pds-direct-trial)로 이어 읽을 수 있습니다.
+식후불편증후군 278명을 비교한 2020년 *Annals of Internal Medicine* 시험은 **4주 12회 침치료** 후 전체 호전과 세 주증상 소실을 따로 평가했습니다. 침군에서 두 지표가 더 유리했지만, 전체 호전이 모든 증상 소실을 뜻하지는 않습니다. [기능성소화불량 본문의 시험 설명](functional-dyspepsia.md#pds-acupuncture-results)과 [군별 수치·추적기간·탈락률](functional-dyspepsia.md#pds-acupuncture-results)로 이어 읽을 수 있습니다.
 
 치료 전후에는 식후불편이 줄었는지와 함께 **비슷한 양을 편하게 먹는지**를 비교합니다. 이 시험의 침 결과를 구성·자극 방식이 다른 약침이나 모든 위장질환의 효과 수치로 옮기지 않습니다. [원 논문: Yang 등, 2020, DOI 10.7326/M19-2880](https://doi.org/10.7326/M19-2880)
 

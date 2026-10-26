@@ -78,7 +78,7 @@ Yang 등의 2020년 *Annals of Internal Medicine* RCT는 Rome IV 식후불편감
 
 식후포만·상복부팽만·조기포만 세 증상이 모두 소실된 추정 비율은 별도로 **27.8% 대 17.3%**였습니다. 전체 호전을 ‘증상이 전부 없어짐’과 동일시하지 않습니다. 치료 종료 후 12주까지 효과를 추적했고, 16주 평가 완료자는 228명(82%)이었습니다. 환자보고 지표와 탈락을 함께 고려합니다.
 
-식사 후 불편과 조금만 먹어도 배부른 증상을 구체적으로 평가한 근거입니다. [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) · [DOI 10.7326/M19-2880](https://doi.org/10.7326/M19-2880) · [침·육군자탕을 구분해 읽는 소화불량 카드](conditions/functional-dyspepsia.md)
+식사 후 불편과 조금만 먹어도 배부른 증상을 구체적으로 평가한 근거입니다. [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) · [DOI 10.7326/M19-2880](https://doi.org/10.7326/M19-2880) · [침·육군자탕을 구분해 읽는 소화불량 안내](../conditions/functional-dyspepsia.md#pds-acupuncture-results)
 
 ## 만성골반통: 의미 있는 증상 개선과 치료 후 지속성 {#acupuncture-cpps}
 
