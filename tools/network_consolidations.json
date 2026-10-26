@@ -610,5 +610,13 @@
       "_7": "autonomic/stress-digestion.md#gut-brain",
       "_8": "autonomic/stress-digestion.md#meal-palpitations"
     }
+  },
+  "tonic-masterpieces/deer-antler/quality-parts.md": {
+    "target": "clinical-guides/deer-antler-quality-map.md",
+    "anchors": {
+      "_1": "clinical-guides/deer-antler-quality-map.md#_1",
+      "_2": "clinical-guides/deer-antler-quality-map.md#quality-records",
+      "_3": "clinical-guides/deer-antler-quality-map.md#_4"
+    }
   }
 }

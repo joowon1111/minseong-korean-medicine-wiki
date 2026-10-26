@@ -50,6 +50,7 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      tonic-masterpieces/deer-antler/quality-parts.md: clinical-guides/deer-antler-quality-map.md
       conditions/anxiety-somatic.md: conditions/anxiety.md#somatic-assessment
       authority/conditions/anxiety.md: conditions/anxiety.md#anxiety-research
       authority/conditions/insomnia.md: conditions/insomnia.md#sleep-research

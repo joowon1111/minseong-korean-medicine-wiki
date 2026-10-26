@@ -24,7 +24,7 @@ function targetParts(target) {const [source,hash=''] = target.split('#');return 
   let checked=0;
   for(const [source,route] of Object.entries(routes)) {
    const legacy=Object.keys(route.anchors).at(-1);
-   const fragments=source.includes('facial-palsy')||source.includes('bell-palsy-acute-acupuncture')||['authority/conditions/functional-dyspepsia.md','authority/conditions/anxiety.md','authority/conditions/insomnia.md','conditions/anxiety-somatic.md','conditions/stress-palpitations-digestion.md'].includes(source)
+   const fragments=source.includes('facial-palsy')||source.includes('bell-palsy-acute-acupuncture')||['authority/conditions/functional-dyspepsia.md','authority/conditions/anxiety.md','authority/conditions/insomnia.md','conditions/anxiety-somatic.md','conditions/stress-palpitations-digestion.md','tonic-masterpieces/deer-antler/quality-parts.md'].includes(source)
     ? ['',...Object.keys(route.anchors).map(id=>'#'+encodeURIComponent(id)),'#unknown-fragment']
     : ['',legacy?'#'+encodeURIComponent(legacy):''];
    for(const hash of fragments) {
