@@ -21,5 +21,5 @@ description: 녹용을 허약·기력저하·회복상태와 처방 배합 속�
 ## 더 깊게 보기
 - [녹용 심화](../tonic-masterpieces/deer-antler/index.md)
 - [녹용 임상 활용](../tonic-masterpieces/deer-antler/clinical-map.md)
-- [녹용 부위·품질·분골](../tonic-masterpieces/deer-antler/quality-parts.md)
+- [녹용 부위·품질·분골](../clinical-guides/deer-antler-quality-map.md)
 - [맞춤한약](../conditions/custom-herbal-medicine.md)
