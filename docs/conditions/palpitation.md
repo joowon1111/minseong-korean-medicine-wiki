@@ -128,4 +128,4 @@ last_reviewed: 2026-09-21
 
 병용 여부는 처방 구성과 심장약 종류, 혈압·맥박·전해질·간신장기능에 따라 달라집니다. 두 의료진에게 전체 복용 목록을 공유하고, 임의로 심장약을 줄이거나 중단하지 않은 상태에서 경과를 함께 확인합니다.
 
-→ [스트레스성 두근거림·소화불량](stress-palpitations-digestion.md) · [가슴답답함](chest-tightness.md) · [불면](insomnia.md) · [화병](hwabyeong.md)
+→ [스트레스성 두근거림·소화불량](../autonomic/stress-digestion.md#meal-palpitations) · [가슴답답함](chest-tightness.md) · [불면](insomnia.md) · [화병](hwabyeong.md)

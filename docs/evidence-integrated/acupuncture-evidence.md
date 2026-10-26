@@ -28,7 +28,7 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 | 고령자 요통에서 일상 기능이 회복되는가 | [미국 800명 실용적 시험](#older-adult-back-trial) |
 | 무릎 골관절염의 통증·관절기능도 개선되는가 | [Annals 570명·Lancet 294명 시험](../conditions/knee-pain.md#knee-landmark-trials) |
 | 편두통의 발작 횟수·두통일수를 줄일 수 있는가 | [JAMA Internal Medicine 발작 횟수](../authority/conditions/migraine.md#jama-migraine-prevention) · [BMJ 두통일수](#migraine-prevention-trial) |
-| 우울증 동반 불면에서 수면 개선이 이어지는가 | [JAMA Network Open 270명 전침·32주 추적](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) |
+| 우울증 동반 불면에서 수면 개선이 이어지는가 | [JAMA Network Open 270명 전침·32주 추적](../conditions/insomnia.md#jama-depression-insomnia-trial) |
 | 식후 더부룩함과 조기포만이 개선되는가 | [소화불량 반응과 증상 소실](#pds-landmark) |
 | 설사형 IBS의 복통과 설사가 함께 줄어드는가 | [Gastroenterology ACTION 다기관 시험](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | 골반통·배뇨 증상의 의미 있는 개선이 이어지는가 | [8주 치료와 32주 결과](#cpps-landmark) |
@@ -146,7 +146,7 @@ Xu 등의 2020년 *BMJ* 다기관 RCT는 전조 없는 삽화성 편두통 **150
 
 → [불면 임상 지식망](../network/insomnia-map.md) · [불면 경혈 지식망](../network/insomnia-acupoints.md)
 
-**우울증 동반 불면의 270명 전침 시험**은 표준관리와 가짜침을 함께 비교했습니다. [8주 수면의 질과 32주 추적](../authority/conditions/insomnia.md#jama-depression-insomnia-trial)에서 병행치료의 효과를 확인하고, [수면 결과 읽기](../authority/conditions/insomnia.md#sleep-results-reading)에서 PSQI·ISI·활동기록을 구분합니다.
+**우울증 동반 불면의 270명 전침 시험**은 표준관리와 가짜침을 함께 비교했습니다. [8주 수면의 질과 32주 추적](../conditions/insomnia.md#jama-depression-insomnia-trial)에서 병행치료의 효과를 확인하고, [수면 결과 읽기](../conditions/insomnia.md#sleep-results-reading)에서 PSQI·ISI·활동기록을 구분합니다.
 
 2026년 만성 불면 환자 201명의 치료기간 비교 RCT에서는 같은 경혈을 주 3회 적용했을 때 6주와 8주 과정이 4주보다 ISI 개선에 유리했고, 6주 이후의 추가 이점은 제한적이었습니다. [PMID 42697250](https://pubmed.ncbi.nlm.nih.gov/42697250/)
 

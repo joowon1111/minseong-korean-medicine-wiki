@@ -17,7 +17,7 @@ last_reviewed: 2026-09-04
 - [천왕보심단](../../formulas/tianwang-buxin-dan.md): 원발성 불면 56명·6주 연구, PMID `33919176`; 암 관련 불면 22명 무작위 예비시험, PMID `32627605`. 서로 다른 환자군을 한 결과로 합치지 않습니다.
 - [귀비탕](../../formulas/guibi-tang.md): 불면과 심비양허·두근거림·피로의 연결을 함께 살핍니다.
 
-→ [불면 한약 처방 지도](insomnia-herbal-formula-map.md) · [귀비탕 근거](guipi-tang-evidence.md) · [불면증 현대 임상근거](../conditions/insomnia.md)
+→ [불면 한약 처방 지도](insomnia-herbal-formula-map.md) · [귀비탕 근거](guipi-tang-evidence.md) · [불면증 현대 임상근거](../../conditions/insomnia.md#sleep-research)
 
 ### 수면 한약 연구를 쉬운 말로 비교하기 {#patient-study-summary}
 
@@ -39,7 +39,7 @@ last_reviewed: 2026-09-04
 
 **위약대조**는 치료 제제와 위약을 비교하고, **기존 약물 병용**은 같은 기존 치료에 한약을 더했는지 비교합니다. **전후 연구**는 복용 전후 변화를 살피므로 생활 변화·자연 경과를 분리하기 어렵습니다. 네트워크 메타분석의 순위는 서로 다른 시험을 연결한 추정으로, 해당 환자에게 가장 맞는 처방의 순위와 구분합니다.
 
-한약의 목표를 정할 때는 입면·수면 유지뿐 아니라 소화·식욕·심계·열감·긴장과 낮 기능을 함께 기록합니다. 침치료를 병행한다면 [270명 전침 시험](../conditions/insomnia.md#jama-depression-insomnia-trial)처럼 표준관리와 추가 치료를 구분하고, 각각의 연구 숫자를 복합치료 전체의 효과로 합치지 않습니다.
+한약의 목표를 정할 때는 입면·수면 유지뿐 아니라 소화·식욕·심계·열감·긴장과 낮 기능을 함께 기록합니다. 침치료를 병행한다면 [270명 전침 시험](../../conditions/insomnia.md#jama-depression-insomnia-trial)처럼 표준관리와 추가 치료를 구분하고, 각각의 연구 숫자를 복합치료 전체의 효과로 합치지 않습니다.
 
 ## 정서 증상과 처방 연결 {#_3}
 

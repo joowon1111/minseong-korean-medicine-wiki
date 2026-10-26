@@ -55,7 +55,7 @@ last_reviewed: '2026-09-05'
 | Yang 등, *Gastroenterology*, 2025 · ACTION 설사형 IBS 280명, 6개 병원 | 6주 복통·설사 복합 반응률 57.9% 대 가짜침 41.4%, RR 1.40 | [반응 기준·치료와 추적](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [PMID 40441496](https://pubmed.ncbi.nlm.nih.gov/40441496/) |
 | Sun 등, *Annals of Internal Medicine*, 2021 · 만성골반통 440명 | 8주 임상적으로 의미 있는 증상 개선 60.6% 대 가짜침 36.8%; 32주에도 차이 유지 | [골반통 시험](../evidence-integrated/acupuncture-evidence.md#cpps-landmark) · [PMID 34399062](https://pubmed.ncbi.nlm.nih.gov/34399062/) |
 | Liu 등, *Annals of Internal Medicine*, 2016 · 중증 기능성변비 1,075명 | 주당 완전자발배변 증가가 가짜침보다 0.90회 더 큼; 배변 기능을 직접 평가 | [변비 시험](../authority/electroacupuncture.md#ea-constipation-trial) · [PMID 27618593](https://pubmed.ncbi.nlm.nih.gov/27618593/) |
-| Yin 등, *JAMA Network Open*, 2022 · 우울증 동반 불면 270명, 3개 병원 | 표준관리에 전침 추가: 8주 PSQI 군 간 차이 가짜침 대비 -3.6점, 표준관리 단독 대비 -5.1점; 32주 추적 | [수면척도·비교군·추적 결과](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) · [PMID 35797047](https://pubmed.ncbi.nlm.nih.gov/35797047/) |
+| Yin 등, *JAMA Network Open*, 2022 · 우울증 동반 불면 270명, 3개 병원 | 표준관리에 전침 추가: 8주 PSQI 군 간 차이 가짜침 대비 -3.6점, 표준관리 단독 대비 -5.1점; 32주 추적 | [수면척도·비교군·추적 결과](../conditions/insomnia.md#jama-depression-insomnia-trial) · [PMID 35797047](https://pubmed.ncbi.nlm.nih.gov/35797047/) |
 | DeBar 등, *JAMA Network Open*, 2025 · 미국 고령자 요통 800명 | 6개월 기능장애가 30% 이상 개선된 조정 비율: 침 39.1%·유지치료 추가 침 43.8%, 통상진료 29.4% | [고령자 요통 시험](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) · [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) |
 | Mao 등, *JAMA Oncology*, 2021 · PEACE 암 생존자 만성 근골격통 360명 | 12주 BPI 통증강도 감소가 통상진료보다 전침 1.9점·이침 1.6점 더 큼 | [치료·비교군·추적 조건](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [PMID 33734288](https://pubmed.ncbi.nlm.nih.gov/33734288/) |
 | Cohen 등, *JAMA Network Open*, 2024 · 만성 방사선 구강건조 258명, 미국 33개 기관 | 4주 환자보고 구강건조 XQ가 표준 구강관리보다 6.67점 낮음; 가짜침 비교는 다중비교 보정 후 유의하지 않음 | [증상·삶의 질·평가 시점](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [PMID 38739392](https://pubmed.ncbi.nlm.nih.gov/38739392/) |
@@ -173,7 +173,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | 찾는 내용 | 대표 자료실 |
 |---|---|
 | 식후불편감·복통과 설사·배변곤란의 직접 비교시험 | [소화불량: 침·국내 한약·일본 육군자탕](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [IBS ACTION](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [변비: 전침·마자인환](../authority/conditions/functional-constipation.md) |
-| 불면의 침·한약 연구와 수면 결과 | [전침 다기관 시험](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) · [산조인탕 단독·병용](../authority/formulas/suanzaoren-tang.md#szrd-results) · [수면 한약 비교](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary) |
+| 불면의 침·한약 연구와 수면 결과 | [전침 다기관 시험](../conditions/insomnia.md#jama-depression-insomnia-trial) · [산조인탕 단독·병용](../authority/formulas/suanzaoren-tang.md#szrd-results) · [수면 한약 비교](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary) |
 | 암 치료 후 통증·방사선 구강건조의 비교시험 | [PEACE 통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [만성 구강건조](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading) |
 | 질환·증상별 핵심 연구와 진료 시 확인점 | [질환별 임상근거](../authority/conditions/index.md) |
 | 한약의 간·신장 기능과 양약 병용 안전성 | [한약 안전성 연구 한눈에 보기](../herbal-integrated/safety.md#safety-evidence-guide) |
@@ -198,7 +198,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | 시작 질문 | 증상·치료 설명 | 연구를 더 읽으려면 |
 |---|---|---|
 | 피로에 공진단을 연구한 자료가 있나요? | [피로·기력회복](../conditions/energy-recovery.md) → [공진단의 구성과 전통 맥락](../formulas/gongjin-dan.md) | [공진단 사람 대상 연구와 원문](../research/formulas/gongjin-dan.md) |
-| 잠들기 어렵고 자주 깨는 증상을 어떻게 살피나요? | [불면·수면장애 안내](../conditions/insomnia.md) | [불면 임상근거와 평가 지표](../authority/conditions/insomnia.md) |
+| 잠들기 어렵고 자주 깨는 증상을 어떻게 살피나요? | [불면·수면장애 안내](../conditions/insomnia.md) | [불면 임상근거와 평가 지표](../conditions/insomnia.md#sleep-research) |
 | 먹고 나면 더부룩한 증상의 치료 근거가 궁금해요 | [소화불량 안내](../conditions/dyspepsia.md) | [기능성소화불량 임상근거](../conditions/functional-dyspepsia.md#pds-acupuncture-results) |
 | 복통과 설사가 반복될 때 침치료 근거가 있나요? | [과민성장증후군 안내](../conditions/ibs.md) | [ACTION의 복통·설사 복합 반응](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | 변비 치료는 배변 횟수만 좋아지면 되나요? | [변비의 원인·치료 안내](../conditions/constipation.md) | [완전자발배변·반응률·추적 읽기](../authority/conditions/functional-constipation.md#csbm-reading) |

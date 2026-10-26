@@ -72,7 +72,7 @@ last_reviewed: '2026-08-29'
 | 자꾸 깨요 · 새벽에 깨면 다시 못 자요 | [얕은 잠](sleep-fatigue.md#자꾸-깨요얕은-잠) | [새벽각성](../conditions/early-awakening.md) · [불면증](../conditions/insomnia.md) |
 | 충분히 잤는데도 개운하지 않아요 | [자고 나도 머리가 맑지 않을 때](../answer-guides/unclear-head-after-sleep-guide.md) | [수면회복감 저하](../conditions/nonrestorative-sleep.md) |
 | 늘 피곤해요 · 기운이 없어요 | [만성피로](sleep-fatigue.md#만성피로기운이-없어요) | [만성피로](../conditions/chronic-fatigue.md) |
-| 걱정이 많고 긴장하면 몸이 굳어요 | [수면·긴장 증상 지도](sleep-fatigue.md) | [불안](../conditions/anxiety.md) · [긴장과 신체 증상](../conditions/anxiety-somatic.md) |
+| 걱정이 많고 긴장하면 몸이 굳어요 | [수면·긴장 증상 지도](sleep-fatigue.md) | [불안](../conditions/anxiety.md) · [긴장과 신체 증상](../conditions/anxiety.md#somatic-assessment) |
 | 머리가 멍하고 집중이 어려워요 | [졸림·피로·집중 저하 구분](../answer-guides/brain-fog-focus-guide.md#_4) | [브레인포그·평가와 회복](../answer-guides/brain-fog-focus-guide.md) |
 | 의욕·즐거움이 줄고 잠·식욕도 달라졌어요 | [기분·수면을 함께 보기](../pillar/sleep-neuro.md#mood-sleep-assessment) | [우울감·우울증](../conditions/depression.md) |
 | 수술이나 입원 뒤 기력이 회복되지 않아요 | [피로·회복 증상 지도](sleep-fatigue.md) | [수술 후 회복](../conditions/postoperative-recovery.md) · [퇴원 후 회복](../conditions/post-hospitalization-recovery.md) |

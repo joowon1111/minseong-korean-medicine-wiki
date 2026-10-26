@@ -50,15 +50,15 @@ last_reviewed: 2026-08-19
 
 [불면 경혈 지식망](insomnia-acupoints.md)에서는 신문·삼음교·내관·백회를 선택하는 이유와 해부학·3D 위치를 읽습니다. 침·전침의 목표를 수면·긴장·낮 기능으로 정하고, 한약은 해당 변증과 전체 배합을 확인합니다. 두 치료의 연구를 합산해 병용 효과를 계산하지 않습니다.
 
-만성 불면의 다요소 인지행동치료(CBT-I)는 수면위생만 안내하는 것과 다릅니다. 취침·기상과 침상시간·각성에 대한 행동 계획을 함께 조율하며 수면제를 임의로 중단하지 않습니다. [불면 치료별 근거·CBT-I](../authority/conditions/insomnia.md)
+만성 불면의 다요소 인지행동치료(CBT-I)는 수면위생만 안내하는 것과 다릅니다. 취침·기상과 침상시간·각성에 대한 행동 계획을 함께 조율하며 수면제를 임의로 중단하지 않습니다. [불면 치료별 근거·CBT-I](../conditions/insomnia.md#sleep-research)
 
 ## 지식망 요약 {#_2}
 이 지도는 동반 증상에서 처방과 출전을 찾는 길잡이입니다. 수면장애의 감별과 치료 경과는 [불면 기본 문서](../conditions/insomnia.md)에서 먼저 읽습니다.
 
 | 함께 나타나는 양상 | 변증·처방으로 이동 | 원문과 해석 | 연구로 이동 |
 |---|---|---|---|
-| 피로·식욕저하·건망·심계 | [기허](../diagnostics/qi-deficiency.md)·[혈허](../diagnostics/blood-deficiency.md), [귀비탕](../formulas/guibi-tang.md) | [동의보감 귀비탕 수록본](../formulas/guibi-tang.md#donguibogam-version) | [불면 한약 임상근거](../authority/conditions/insomnia.md) |
-| 흉민·오심·어지럼·쉽게 놀람 | [담음](../diagnostics/phlegm-fluid.md), [온담탕](../formulas/wendan-tang.md) | [동의보감 온담탕 수록본](../formulas/wendan-tang.md#donguibogam-version) | [불면 치료별 근거](../authority/conditions/insomnia.md) |
+| 피로·식욕저하·건망·심계 | [기허](../diagnostics/qi-deficiency.md)·[혈허](../diagnostics/blood-deficiency.md), [귀비탕](../formulas/guibi-tang.md) | [동의보감 귀비탕 수록본](../formulas/guibi-tang.md#donguibogam-version) | [불면 한약 임상근거](../conditions/insomnia.md#sleep-research) |
+| 흉민·오심·어지럼·쉽게 놀람 | [담음](../diagnostics/phlegm-fluid.md), [온담탕](../formulas/wendan-tang.md) | [동의보감 온담탕 수록본](../formulas/wendan-tang.md#donguibogam-version) | [불면 치료별 근거](../conditions/insomnia.md#sleep-research) |
 | 허로·번조와 얕은 잠 | [산조인](../herbs/ziziphus-seed.md), [산조인탕](../formulas/suanzaoren-tang.md) | [금궤요략 6.17](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) | [산조인탕 연구 대상·결과](../authority/formulas/suanzaoren-tang.md#szrd-results) |
 
 원문에서 임상으로 옮기는 과정은 [불면의 소화·불안·허로 해석](../conditions/insomnia.md#classical-clinical-reading)에서 읽습니다. 산조인 단일 본초, 산조인을 포함한 여러 처방, 산조인탕 자체의 연구는 구분하며 같은 이름의 처방도 구성을 확인합니다.

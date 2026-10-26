@@ -21,7 +21,7 @@ last_reviewed: 2026-08-30
 | 식후 더부룩하고 조금만 먹어도 배부름 | 278명 침 시험과 일본 육군자탕 DREAM: 각각의 대상·치료·비교군 | [침 반응률](../../evidence-integrated/acupuncture-evidence.md#pds-landmark) · [일본 한약 시험](../formulas/rikkunshito-evidence.md) |
 | 복통과 설사가 반복됨 | ACTION 280명 가짜침 비교: 복통·설사의 복합 반응 | [설사형 IBS 원시험](irritable-bowel-syndrome.md#action-ibs-trial) |
 | 변비로 배변이 어려움 | 전침 1,075명·마자인환 291명 시험: 완전자발배변 | [치료별 배변 지표와 추적](functional-constipation.md#csbm-reading) |
-| 우울증과 함께 수면이 나빠짐 | 270명 전침 병행시험: 수면의 질 PSQI와 추적 | [대상·표준관리·수면 결과](insomnia.md#jama-depression-insomnia-trial) |
+| 우울증과 함께 수면이 나빠짐 | 270명 전침 병행시험: 수면의 질 PSQI와 추적 | [대상·표준관리·수면 결과](../../conditions/insomnia.md#jama-depression-insomnia-trial) |
 | 기존 COPD 치료 중 활동할 때 숨참 | 일본 68명 위약침 비교: 보행 직후 숨참과 보행거리 | [일본 CAT와 후속 종합근거](copd.md#japanese-cat-trial) |
 | 여성의 기침·웃음·활동 시 소변 누출 | 504명 JAMA 전침 시험: 패드검사 누출량 | [누출량과 배뇨일지](../electroacupuncture.md#ea-incontinence-trial) |
 | 남성의 만성 골반통·배뇨 불편 | 440명 시험: NIH-CPSI 6점 이상 개선과 지속성 | [임상적으로 의미 있는 반응](../../evidence-integrated/acupuncture-evidence.md#cpps-landmark) |
@@ -70,8 +70,8 @@ last_reviewed: 2026-08-30
 
 ### 수면·정서·피로
 
-- [불면](insomnia.md) · [고혈압 동반 불면](hypertension-with-insomnia.md)
-- [불안](anxiety.md) · [우울](depression.md)
+- [불면](../../conditions/insomnia.md#sleep-research) · [고혈압 동반 불면](hypertension-with-insomnia.md)
+- [불안](../../conditions/anxiety.md#anxiety-research) · [우울](depression.md)
 - [하지불안증후군](restless-legs-syndrome.md)
 - [피로](../../conditions/chronic-fatigue.md#evidence) · [암 관련 피로](cancer-related-fatigue.md)
 - [산후우울](postpartum-depression.md) · [뇌졸중 후 우울](post-stroke-depression.md)

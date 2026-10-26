@@ -117,7 +117,7 @@ last_reviewed: 2026-09-22
 
 이 페이지의 **경혈 공출현 네트워크**는 혈이 함께 사용된 연결을 분석합니다. 치료들 사이의 직접·간접 효과를 비교하는 **네트워크 메타분석**과는 자료·질문·방법이 다릅니다.
 
-대표 시험은 [고령자 요통](../authority/acupuncture.md#acupuncture-older-adult-results), [PDS 침·가짜침 비교](../conditions/functional-dyspepsia.md#pds-acupuncture-results), [우울증 동반 불면](../authority/conditions/insomnia.md#jama-depression-insomnia-trial)에서 환자군·비교군·추적 결과를 확인합니다.
+대표 시험은 [고령자 요통](../authority/acupuncture.md#acupuncture-older-adult-results), [PDS 침·가짜침 비교](../conditions/functional-dyspepsia.md#pds-acupuncture-results), [우울증 동반 불면](../conditions/insomnia.md#jama-depression-insomnia-trial)에서 환자군·비교군·추적 결과를 확인합니다.
 
 침 연구 보고지침인 **STRICTA**는 침의 근거·자침 세부·치료 일정·병행치료·시술자·대조 중재를 설명하도록 합니다. 혈위명만 같다고 시험을 동일한 치료로 합치지 않는 이유입니다. [STRICTA 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC3002761/) · [한의학 연구 해석](../evidence-clinical/km-specific.md#acupuncture)
 

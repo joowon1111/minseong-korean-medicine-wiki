@@ -557,5 +557,58 @@
       "_4": "conditions/functional-dyspepsia.md#formula-composition",
       "_5": "conditions/functional-dyspepsia.md#outcomes"
     }
+  },
+  "conditions/anxiety-somatic.md": {
+    "target": "conditions/anxiety.md#somatic-assessment",
+    "anchors": {
+      "_1": "conditions/anxiety.md#somatic-assessment",
+      "_2": "conditions/anxiety.md#somatic-assessment",
+      "_3": "conditions/anxiety.md#_5",
+      "_4": "conditions/anxiety.md#_6",
+      "_5": "conditions/anxiety.md#_7",
+      "_6": "conditions/anxiety.md#anxiety-function",
+      "_7": "conditions/anxiety.md#anxiety-research"
+    }
+  },
+  "authority/conditions/anxiety.md": {
+    "target": "conditions/anxiety.md#anxiety-research",
+    "anchors": {
+      "_1": "conditions/anxiety.md#anxiety-research",
+      "_2": "conditions/anxiety.md#anxiety-function",
+      "_3": "conditions/anxiety.md#anxiety-research",
+      "_4": "conditions/anxiety.md#_5",
+      "_5": "conditions/anxiety.md#anxiety-function",
+      "_6": "conditions/anxiety.md#anxiety-research",
+      "_7": "conditions/anxiety.md#anxiety-herbal-research"
+    }
+  },
+  "authority/conditions/insomnia.md": {
+    "target": "conditions/insomnia.md#sleep-research",
+    "anchors": {
+      "_1": "conditions/insomnia.md#sleep-research",
+      "_2": "conditions/insomnia.md#_2",
+      "_3": "conditions/insomnia.md#_5",
+      "research": "conditions/insomnia.md#sleep-research",
+      "jama-depression-insomnia-trial": "conditions/insomnia.md#jama-depression-insomnia-trial",
+      "_4": "conditions/insomnia.md#sleep-review-questions",
+      "course-comparison": "conditions/insomnia.md#course-comparison",
+      "_5": "conditions/insomnia.md#_7",
+      "_6": "conditions/insomnia.md#sleep-results-reading",
+      "sleep-results-reading": "conditions/insomnia.md#sleep-results-reading",
+      "symptom-care-routes": "conditions/insomnia.md#symptom-care-routes"
+    }
+  },
+  "conditions/stress-palpitations-digestion.md": {
+    "target": "autonomic/stress-digestion.md#meal-palpitations",
+    "anchors": {
+      "_1": "autonomic/stress-digestion.md#meal-palpitations",
+      "_2": "autonomic/stress-digestion.md#meal-palpitations",
+      "_3": "autonomic/stress-digestion.md#meal-palpitations",
+      "_4": "autonomic/stress-digestion.md#_2",
+      "_5": "autonomic/stress-digestion.md#care-followup",
+      "_6": "autonomic/stress-digestion.md#gut-brain-care",
+      "_7": "autonomic/stress-digestion.md#gut-brain",
+      "_8": "autonomic/stress-digestion.md#meal-palpitations"
+    }
   }
 }
