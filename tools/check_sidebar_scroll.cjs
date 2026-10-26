@@ -16,7 +16,7 @@ const cases=[['desktop',1440,900,1],['short-desktop',1280,360,1],['desktop-edge'
    await page.route('**/*',route=>new URL(route.request().url()).origin===new URL(base).origin?route.continue():route.abort());
    await page.goto(base+'/autonomic/',{waitUntil:'domcontentloaded'});
    if(width<1220)await page.locator('header label[for="__drawer"]').click();
-   const entry=page.locator('.md-sidebar--primary').getByRole('link',{name:'자율신경·스트레스',exact:true});
+   const entry=page.locator('.md-sidebar--primary a.md-nav__link--active');
    await entry.waitFor({state:'visible'});
    const position=await entry.evaluate(a=>{
     const group=a.closest('li.md-nav__item'),r=a.getBoundingClientRect();
@@ -26,7 +26,7 @@ const cases=[['desktop',1440,900,1],['short-desktop',1280,360,1],['desktop-edge'
    assert(position.top>=0&&position.bottom<900,'Autonomic entry must be visible without scrolling at '+width);
    for(const name of ['chronic-fatigue','functional-dyspepsia','palpitation','headache','insomnia']){
     assert(position.links.includes('/conditions/'+name+'/'),'Core symptom must be in the promoted group: '+name);
-    const link=page.locator('.md-sidebar--primary').getByRole('link',{name:'자율신경·스트레스',exact:true}).locator('xpath=ancestor::li[1]').locator('a[href$="/conditions/'+name+'/"]');
+    const link=entry.locator('xpath=ancestor::li[1]').locator('a[href$="/conditions/'+name+'/"]');
     assert(await link.isVisible(),'Core symptom must be visible in the open group: '+name);
    }
    await page.screenshot({path:`archive-browser-results/autonomic-menu-priority-${width}.png`});
