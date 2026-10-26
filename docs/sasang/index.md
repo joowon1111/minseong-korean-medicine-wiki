@@ -36,6 +36,8 @@ last_reviewed: '2026-09-22'
 | 치료효과를 다룬 현대 연구 | [근거·출전](../sasang-integrated/evidence.md) |
 | 치료 뒤 무엇을 기록하는지 | [경과관찰·재평가](../sasang-followup/index.md) |
 
+땀·추위·더위가 궁금하다면 [땀의 소증·병증·원전](../sasang-original-symptoms/sweating.md#sweat-patterns)과 [냉열과 표리병증 감별](../sasang-original-symptoms/cold-heat.md#cold-heat-patterns)을 먼저 비교하세요. 두 문서는 체질별 동반 증상과 처방의 선택 맥락을 연결합니다.
+
 ### 목적에 맞게 이어 읽기 {#reading-routes}
 
 **처음 배우는 분**은 [탐색기](../sasang-explorer/index.md)에서 한 체질을 골라 소증과 큰 병증축을 살펴본 뒤, 아래 네 체질 비교로 돌아오면 용어를 정리하기 쉽습니다. 탐색기의 선택은 학습 경로이며 자신의 체질을 확정한 결과가 아닙니다.

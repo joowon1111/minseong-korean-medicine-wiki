@@ -50,6 +50,8 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      sasang/sasang-sweat.md: sasang-original-symptoms/sweating.md#sweat-questions
+      sasang/sasang-cold-heat.md: sasang-original-symptoms/cold-heat.md#cold-heat-questions
       tonic-masterpieces/deer-antler/quality-parts.md: clinical-guides/deer-antler-quality-map.md
       conditions/anxiety-somatic.md: conditions/anxiety.md#somatic-assessment
       authority/conditions/anxiety.md: conditions/anxiety.md#anxiety-research

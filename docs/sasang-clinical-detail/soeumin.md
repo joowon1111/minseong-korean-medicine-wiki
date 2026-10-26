@@ -161,6 +161,8 @@ last_reviewed: 2026-10-02
 **처방 연결:** 향소산·궁귀향소산.  
 **경과:** 표증이 줄면서 식욕·복만·대변·수면도 회복되는지 봅니다.
 
+**증상 비교:** [자한·배뇨와 망양의 단계](../sasang-original-symptoms/sweating.md#soeumin-sweat-treatment) · [냉감과 표열·리한 감별](../sasang-original-symptoms/cold-heat.md#soeumin-treatment)
+
 ### 12-3. 망양초증·승양
 
 **원전·CPG 직결:** [원전] 「소음인 신수열표열병론」의 亡陽·汗出 축 · [CPG] [망양병 2014](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865457) · [전체 출전 지도](pattern-source-map.md)

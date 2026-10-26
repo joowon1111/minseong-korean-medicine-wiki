@@ -175,6 +175,8 @@ last_reviewed: 2026-10-02
 **처방 연결:** [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md).  
 **경과:** 흉격 불편의 강도와 함께 수면·대변·소변·갈증이 어느 방향으로 움직이는지 기록합니다.
 
+**증상 비교:** [발한에 한열·배변을 더해 보기](../sasang-original-symptoms/sweating.md#soyangin-sweat) · [신열·신한 망음과 처방 차이](../sasang-original-symptoms/cold-heat.md#soyangin-treatment)
+
 ### 11-3. 신열두통망음·배설 변화
 
 **원전·CPG 직결:** [원전] 「소양인 비수한표한병론」의 身熱頭痛泄瀉 표지어 · [CPG] [망음병 2014](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) — 중증 신열두통망음 분기 · [전체 출전 지도](pattern-source-map.md)

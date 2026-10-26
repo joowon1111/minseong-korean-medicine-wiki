@@ -24,7 +24,7 @@ function targetParts(target) {const [source,hash=''] = target.split('#');return 
   let checked=0;
   for(const [source,route] of Object.entries(routes)) {
    const legacy=Object.keys(route.anchors).at(-1);
-   const fragments=source.includes('facial-palsy')||source.includes('bell-palsy-acute-acupuncture')||['authority/conditions/functional-dyspepsia.md','authority/conditions/anxiety.md','authority/conditions/insomnia.md','conditions/anxiety-somatic.md','conditions/stress-palpitations-digestion.md','tonic-masterpieces/deer-antler/quality-parts.md'].includes(source)
+   const fragments=source.startsWith('sasang/')||source.includes('facial-palsy')||source.includes('bell-palsy-acute-acupuncture')||['authority/conditions/functional-dyspepsia.md','authority/conditions/anxiety.md','authority/conditions/insomnia.md','conditions/anxiety-somatic.md','conditions/stress-palpitations-digestion.md','tonic-masterpieces/deer-antler/quality-parts.md'].includes(source)
     ? ['',...Object.keys(route.anchors).map(id=>'#'+encodeURIComponent(id)),'#unknown-fragment']
     : ['',legacy?'#'+encodeURIComponent(legacy):''];
    for(const hash of fragments) {
@@ -67,6 +67,18 @@ function targetParts(target) {const [source,hash=''] = target.split('#');return 
     assert.equal(await page.locator('[id]').evaluateAll((nodes,id)=>nodes.filter(n=>n.id===id).length,id),1,'Facial palsy section '+id);
    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Facial palsy fits at '+width);
    await page.screenshot({path:`archive-browser-results/facial-palsy-${width}.png`});
+  }
+  for(const width of [320,1440]) {
+   await page.setViewportSize({width,height:900});
+   for(const [name,entry,legacy] of [['sweating','sweat-patterns','taeeumin-sweat'],['cold-heat','cold-heat-patterns','soyangin-heat-cold']]) {
+    await page.goto(base+'/sasang/',{waitUntil:'domcontentloaded'});
+    await page.locator(`.md-content a[href*="sasang-original-symptoms/${name}/#${entry}"]`).first().click();
+    await page.waitForURL(url=>url.pathname===`/sasang-original-symptoms/${name}/`&&url.hash==='#'+entry);
+    for(const id of [entry,legacy,'_1','_2','related-reading'])
+     assert.equal(await page.locator('[id]').evaluateAll((nodes,id)=>nodes.filter(n=>n.id===id).length,id),1,name+' retained anchor '+id);
+    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),name+' fits at '+width);
+    await page.screenshot({path:`archive-browser-results/sasang-${name}-${width}.png`});
+   }
   }
   console.log(`Network consolidation: ${checked} legacy URL/anchor navigations; 320/1440px content and menus passed.`);
  } finally {await browser.close();}
