@@ -155,7 +155,7 @@ Xu 등의 2020년 *BMJ* 다기관 RCT는 전조 없는 삽화성 편두통 **150
 - **대상:** 기능성소화불량, 과민성장증후군, 기능성변비
 - **결과 지표:** 식후포만·조기포만·복통·팽만·배변빈도·삶의 질
 - **프로토콜:** 족삼리·중완·내관·천추 등 경혈 구성과 전침 여부
-- **근거 연결:** [기능성소화불량](../authority/conditions/functional-dyspepsia.md) · [과민성장증후군](../authority/conditions/irritable-bowel-syndrome.md) · [기능성변비](../authority/conditions/functional-constipation.md)
+- **근거 연결:** [기능성소화불량](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [과민성장증후군](../authority/conditions/irritable-bowel-syndrome.md) · [기능성변비](../authority/conditions/functional-constipation.md)
 
 #### 식후불편감증후군: 반응률과 증상 소실을 구분 {#pds-landmark}
 

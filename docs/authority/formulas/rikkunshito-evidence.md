@@ -23,4 +23,4 @@ Tominaga 등의 2018년 *Neurogastroenterology & Motility* 연구는 일본 **56
 `식후 더부룩함·조기포만 → 비위기허·담음 → 육군자탕 → 위장운동·식욕·소화증상 → 기능성소화불량`
 
 ## 연결
-[기능성소화불량 근거카드](../conditions/functional-dyspepsia.md#japan-rikkunshito)에서 임상 질문을, [육군자탕](../../formulas/liujunzi-tang.md)에서 구성 본초와 배합을, [소화불량 경혈망](../../network/dyspepsia-acupoints.md)에서 족삼리·내관·중완의 연결을 확인합니다.
+[기능성소화불량의 일본 연구](../../conditions/functional-dyspepsia.md#japan-rikkunshito)에서 임상 질문을, [육군자탕](../../formulas/liujunzi-tang.md)에서 구성 본초와 배합을, [소화불량 경혈망](../../network/dyspepsia-acupoints.md)에서 족삼리·내관·중완의 연결을 확인합니다.

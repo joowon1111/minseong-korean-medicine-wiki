@@ -48,7 +48,7 @@ last_reviewed: 2026-08-19
 
 식욕·기력이 떨어지는 바탕에 오심·그득함·무거움이 겹치면 비위를 돕는 축과 담습·기체를 조절하는 축을 함께 봅니다. [육군자탕](../formulas/liujunzi-tang.md)은 사군자탕 골격에 반하·진피를 결합한 것으로 이해할 수 있습니다.
 
-정체·기체가 중심인지, 묽은 변과 영양 회복이 중심인지에 따라 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)·[삼령백출산](../formulas/shenling-baizhu-san.md) 등과 비교합니다. 피곤하다는 이유만으로 보익약을 더하기보다 먹는 양과 식후 불편이 먼저 나아지는지 확인합니다. [소화불량 임상 지도](dyspepsia-map.md)·[기능성소화불량 사람 연구](../authority/conditions/functional-dyspepsia.md)
+정체·기체가 중심인지, 묽은 변과 영양 회복이 중심인지에 따라 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)·[삼령백출산](../formulas/shenling-baizhu-san.md) 등과 비교합니다. 피곤하다는 이유만으로 보익약을 더하기보다 먹는 양과 식후 불편이 먼저 나아지는지 확인합니다. [소화불량 임상 지도](dyspepsia-map.md)·[기능성소화불량 사람 연구](../conditions/functional-dyspepsia.md#pds-acupuncture-results)
 
 ## 한눈에 보기 {#_2}
 

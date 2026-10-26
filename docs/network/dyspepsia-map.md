@@ -64,11 +64,11 @@ last_reviewed: 2026-08-19
 
 처방 방향은 고정되지 않으며 증후와 복용약을 확인해 정합니다. 간·담낭·췌장의 구조적 질환과 소장 흡수·대장 배변 문제는 [기관별 평가 지도](../pillar/digestion-spleen-stomach.md#digestive-organ-map)로 연결합니다. 위 표의 통증·오심 하나를 모든 장기의 치료 근거로 읽지 않습니다.
 
-치료 전후에는 [식사량·식후불편·배변·생활기능](../pillar/digestion-spleen-stomach.md#digestive-followup)을 같은 조건으로 비교하고, [기능성소화불량 직접 근거](../authority/conditions/functional-dyspepsia.md)와 [소화기 한약 근거](../authority/formulas/digestive-herbal-evidence.md)에서 연구 대상과 제형을 확인합니다.
+치료 전후에는 [식사량·식후불편·배변·생활기능](../pillar/digestion-spleen-stomach.md#digestive-followup)을 같은 조건으로 비교하고, [기능성소화불량 직접 근거](../conditions/functional-dyspepsia.md#pds-acupuncture-results)와 [소화기 한약 근거](../authority/formulas/digestive-herbal-evidence.md)에서 연구 대상과 제형을 확인합니다.
 
 ## 침구·식사·한약을 같은 목표로 평가하기 {#digestive-care-goals}
 
-[중완·족삼리·내관 등의 배혈](dyspepsia-acupoints.md)은 식후포만·오심·섭취와 전신 상태에 따라 구성합니다. 침치료의 PDS 시험은 [278명 비교시험](../authority/conditions/functional-dyspepsia.md#pds-direct-trial)에서, 한약은 [국내·일본 제제 연구](../authority/conditions/functional-dyspepsia.md)에서 각각 확인합니다. 피부 전극 자극과 바늘 전침은 다른 중재입니다.
+[중완·족삼리·내관 등의 배혈](dyspepsia-acupoints.md)은 식후포만·오심·섭취와 전신 상태에 따라 구성합니다. 침치료의 PDS 시험은 [278명 비교시험](../conditions/functional-dyspepsia.md#pds-acupuncture-results)에서, 한약은 [국내·일본 제제 연구](../conditions/functional-dyspepsia.md#herbal-research)에서 각각 확인합니다. 피부 전극 자극과 바늘 전침은 다른 중재입니다.
 
 식사량을 조금씩 나누거나 증상 유발 음식·지방량을 조절할 때도 체중과 영양 부족을 살핍니다. 통증점수만 낮아지는지보다 **편하게 먹는 양·포만 지속시간·오심·배변·식후 활동**이 함께 회복되는지 비교합니다. 새로운 구토·출혈·체중감소가 생기면 정해진 치료기간을 채우기보다 다시 평가합니다.
 

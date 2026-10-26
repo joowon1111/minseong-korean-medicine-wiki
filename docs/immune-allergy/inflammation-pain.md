@@ -247,7 +247,7 @@ CRP·ESR은 염증 평가를 돕지만 위치·원인이나 통증의 강도를 
 | 오심·흉민과 불안정한 잠 | [온담탕](../formulas/wendan-tang.md) 등 화담·화위의 구조 | 위장 불편과 잠이 각각 어떻게 변하는지 |
 | 통증·근긴장이 잠과 움직임을 방해 | 침·전침·약침과 통증 원인에 맞춘 치료 | 밤에 깨는 횟수·걷기·업무 지속시간 |
 
-이 연결은 처방의 전통적인 선택 맥락과 증상별 치료 목표입니다. 해당 처방을 ‘면역을 올리는 약’이나 모든 만성염증을 낮추는 공통 처방으로 제시하는 것은 아닙니다. [소화불량 임상근거](../authority/conditions/functional-dyspepsia.md)와 [불면 한약 근거](../authority/formulas/insomnia-herbal-formula-map.md)에서 시험 대상·제제를 따로 확인합니다.
+이 연결은 처방의 전통적인 선택 맥락과 증상별 치료 목표입니다. 해당 처방을 ‘면역을 올리는 약’이나 모든 만성염증을 낮추는 공통 처방으로 제시하는 것은 아닙니다. [소화불량 임상근거](../conditions/functional-dyspepsia.md#pds-acupuncture-results)와 [불면 한약 근거](../authority/formulas/insomnia-herbal-formula-map.md)에서 시험 대상·제제를 따로 확인합니다.
 
 ### 사람 대상 근거와 기전 연구를 연결하기 {#evidence-roles}
 

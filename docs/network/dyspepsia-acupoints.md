@@ -77,7 +77,7 @@ last_reviewed: 2026-08-19
 | Yang 등, Annals 2020, PMID 32422066 | PDS 환자 278명, 침과 가짜침을 4주 12회 비교하고 16주까지 추적 | 전체 반응과 식후포만·팽만·조기포만 모두 소실을 별도로 평가. 침군의 유리한 결과를 보고했지만 모든 소화기 질환의 완치율은 아님 |
 | Liu 등, 2008, PMID 18694444 | 기능성소화불량에서 경피 전기자극 연구 | 소화 증상과 HRV를 평가. 피부 표면 전기자극은 바늘을 이용한 일반침·전침과 구분 |
 
-Annals 시험의 [대상·반응률·추적과 한계](../authority/conditions/functional-dyspepsia.md#pds-direct-trial)를 이어 읽을 수 있습니다. 식사 기능의 호전과 HRV 같은 생리 지표는 다른 결과이며, HRV가 달라졌다고 그 자체로 소화불량의 원인이나 치료 성공을 확정하지 않습니다. [수술 후 장운동의 전침 시험](../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial)은 환자군·목적이 달라 별도로 읽습니다.
+Annals 시험의 [대상·반응률·추적과 한계](../conditions/functional-dyspepsia.md#pds-acupuncture-results)를 이어 읽을 수 있습니다. 식사 기능의 호전과 HRV 같은 생리 지표는 다른 결과이며, HRV가 달라졌다고 그 자체로 소화불량의 원인이나 치료 성공을 확정하지 않습니다. [수술 후 장운동의 전침 시험](../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial)은 환자군·목적이 달라 별도로 읽습니다.
 
 ## 일반침·전침과 해부학적 안전 {#digestive-treatment-safety}
 

@@ -28,7 +28,7 @@ last_reviewed: '2026-09-05'
 | 기존 임상축 | 경혈·배혈에서 읽을 질문 | 현대 근거로 이어가기 |
 |---|---|---|
 | 두통·경항부 통증 | 국소 압통·목 기능과 원위 배혈을 어떻게 조합하는가 | [긴장형 두통 근거](../authority/conditions/tension-headache.md) · [두통 안내](../conditions/headache.md) |
-| 소화불량·식후 불편 | 중완·족삼리·내관 등의 역할을 어떤 증상·목표와 연결하는가 | [기능성소화불량 근거](../authority/conditions/functional-dyspepsia.md) |
+| 소화불량·식후 불편 | 중완·족삼리·내관 등의 역할을 어떤 증상·목표와 연결하는가 | [기능성소화불량 근거](../conditions/functional-dyspepsia.md#pds-acupuncture-results) |
 | 오심·구토 | 내관 자극의 방법과 실제 적용 상황은 무엇인가 | [수술 후 오심·구토 근거](../authority/conditions/postoperative-nausea-vomiting.md) |
 | 통증·보행·일상 기능 | 국소·원위 배혈과 통증 강도 외 기능 목표는 무엇인가 | [통증·근골격 허브](../pillar/pain-musculoskeletal.md) · [침구 근거](../evidence-integrated/acupuncture-evidence.md) |
 | 여성·산후 | 시기·출혈·임신 가능성과 치료 목표를 어떻게 구별하는가 | [여성·임신·산후 허브](../womens-health/fertility-pregnancy-postpartum.md) |

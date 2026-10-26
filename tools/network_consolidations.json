@@ -543,5 +543,19 @@
       "_4": "conditions/facial-palsy.md#facial-pattern-treatment",
       "_5": "conditions/facial-palsy.md#facial-acupuncture"
     }
+  },
+  "authority/conditions/functional-dyspepsia.md": {
+    "target": "conditions/functional-dyspepsia.md#pds-acupuncture-results",
+    "anchors": {
+      "_1": "conditions/functional-dyspepsia.md#pds-acupuncture-results",
+      "_2": "conditions/functional-dyspepsia.md#normal-endoscopy",
+      "pds-direct-trial": "conditions/functional-dyspepsia.md#pds-acupuncture-results",
+      "annals-278": "conditions/functional-dyspepsia.md#pds-acupuncture-results",
+      "korean-herbal-trial": "conditions/functional-dyspepsia.md#korean-herbal-trial",
+      "japan-rikkunshito": "conditions/functional-dyspepsia.md#japan-rikkunshito",
+      "_3": "conditions/functional-dyspepsia.md#acupuncture-reviews",
+      "_4": "conditions/functional-dyspepsia.md#formula-composition",
+      "_5": "conditions/functional-dyspepsia.md#outcomes"
+    }
   }
 }

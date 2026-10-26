@@ -18,7 +18,7 @@ last_reviewed: 2026-09-06
 - 소화증상과 정서 증상을 함께 평가한 11개 연구·951명 메타분석, PMID `35911981`
 - 2026년 육군자탕·평위산 다기관 무작위시험 140명·6주, PMID `42637062`, DOI `10.1016/j.jep.2026.122335`
 
-→ [기능성소화불량 질환 근거](../conditions/functional-dyspepsia.md) · [처방별 상세 지도](functional-dyspepsia-herbal-map.md) · [육군자탕 임상근거](../../research/formulas/rikkunshito.md) · [시호소간산](../../formulas/chaihu-shugan-san.md)
+→ [기능성소화불량 질환 근거](../../conditions/functional-dyspepsia.md#herbal-research) · [처방별 상세 지도](functional-dyspepsia-herbal-map.md) · [육군자탕 임상근거](../../research/formulas/rikkunshito.md) · [시호소간산](../../formulas/chaihu-shugan-san.md)
 
 ### 소화불량 연구를 쉬운 말로 읽기 {#patient-study-summary}
 
