@@ -35,8 +35,8 @@ description: 통증·수면·소화·피로·산후·노년·소아·수술 후 
 | 출발 증상 | 먼저 살필 내용 | 변증·처방을 비교할 문서 |
 |---|---|---|
 | [불면](../conditions/insomnia.md)·[새벽 각성](../conditions/early-awakening.md) | 수면 시간표, 카페인·음주·복용약, 낮 기능 저하 | [불면 임상 지식망](insomnia-map.md)에서 귀비탕·온담탕·천왕보심단 등의 갈림점 |
-| [두근거림](../conditions/palpitation.md)·[불안의 신체 증상](../conditions/anxiety-somatic.md) | 안정·활동 시 차이, 흉통·실신 여부, 검사와 복용약 | [귀비탕과 온담탕 비교](../compare/guibi-vs-wendan.md)에서 기혈부족과 담음·소화 동반 구분 |
-| [자도 개운하지 않음](../conditions/nonrestorative-sleep.md)·[스트레스와 소화·심계](../conditions/stress-palpitations-digestion.md) | 코골이·주간 졸림, 수면 부족, 식사·긴장과의 시간적 관계 | [수면·자율신경의 증상 연결](../autonomic/stress-sleep.md)에서 원인과 동반 양상 확인 |
+| [두근거림](../conditions/palpitation.md)·[불안의 신체 증상](../conditions/anxiety.md#somatic-assessment) | 안정·활동 시 차이, 흉통·실신 여부, 검사와 복용약 | [귀비탕과 온담탕 비교](../compare/guibi-vs-wendan.md)에서 기혈부족과 담음·소화 동반 구분 |
+| [자도 개운하지 않음](../conditions/nonrestorative-sleep.md)·[스트레스와 소화·심계](../autonomic/stress-digestion.md#meal-palpitations) | 코골이·주간 졸림, 수면 부족, 식사·긴장과의 시간적 관계 | [수면·자율신경의 증상 연결](../autonomic/stress-sleep.md)에서 원인과 동반 양상 확인 |
 
 [불면 경혈 지식망](insomnia-acupoints.md)에서는 신문·내관 등 경혈의 연결을 읽을 수 있습니다. 이는 수면 습관과 원인 평가를 포함한 치료의 한 부분이며, 수면 문제를 모두 자율신경 이상 하나로 설명하지 않습니다.
 

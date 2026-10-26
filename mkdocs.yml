@@ -50,6 +50,10 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      conditions/anxiety-somatic.md: conditions/anxiety.md#somatic-assessment
+      authority/conditions/anxiety.md: conditions/anxiety.md#anxiety-research
+      authority/conditions/insomnia.md: conditions/insomnia.md#sleep-research
+      conditions/stress-palpitations-digestion.md: autonomic/stress-digestion.md#meal-palpitations
       authority/conditions/functional-dyspepsia.md: conditions/functional-dyspepsia.md#pds-acupuncture-results
       authority/conditions/peripheral-facial-palsy.md: conditions/facial-palsy.md
       authority/conditions/bell-palsy-acute-acupuncture.md: conditions/facial-palsy.md#facial-acute-acupuncture-2025
@@ -98,7 +102,7 @@ plugins:
       conditions/stress-gut.md: autonomic/stress-digestion.md
       authority/conditions/plantar-heel-pain-update.md: conditions/plantar-fasciitis.md#pain-research
       authority/conditions/chronic-low-back-pain-update.md: conditions/low-back-pain.md#back-research
-      authority/insomnia.md: authority/conditions/insomnia.md
+      authority/insomnia.md: conditions/insomnia.md#sleep-research
       conditions/pcos.md: conditions/polycystic-ovary-syndrome.md
       conditions/preconception-herbal.md: conditions/infertility-preconception.md#preconception-herbal
       conditions/fertility-fatigue.md: conditions/infertility-preconception.md#whole-health

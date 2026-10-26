@@ -61,7 +61,7 @@ last_reviewed: 2026-09-19
 | 두중·오심·식욕저하와 어지럼 | 비허·담습; 건비화담·식풍 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md): 전정·신경 평가와 별도로 증후 비교 |
 | 두통·어지럼·열감과 간양 단서 | 간양상항; 평간식풍·청열 | [천마구등음](../formulas/tianma-gouteng-yin.md): 혈압·기립·청력 원인도 함께 평가 |
 
-처방을 선택하는 데에는 증상 조합과 현재 상태가 필요합니다. 불면 하나를 특정 체질이나 병증으로 단정하지 않고, [불면 근거 카드](../authority/conditions/insomnia.md)에서 치료별 연구 대상·지표도 함께 확인합니다.
+처방을 선택하는 데에는 증상 조합과 현재 상태가 필요합니다. 불면 하나를 특정 체질이나 병증으로 단정하지 않고, [불면 임상연구](../conditions/insomnia.md#sleep-research)에서 치료별 연구 대상·지표도 함께 확인합니다.
 
 ## 원문과 연구를 치료 목표로 연결하기 {#prevention-recovery-paths}
 
@@ -109,11 +109,11 @@ last_reviewed: 2026-09-19
 
 | 연구 질문 | 대표 근거 | 결과를 읽는 기준 |
 |---|---|---|
-| 우울증 동반 불면에 전침을 더하면? | [JAMA Network Open 2022, 270명 시험](../authority/conditions/insomnia.md#jama-depression-insomnia-trial) | 표준관리 병용의 수면의 질 개선; 우울 동반 대상·8주 치료·32주 추적 구분 |
+| 우울증 동반 불면에 전침을 더하면? | [JAMA Network Open 2022, 270명 시험](../conditions/insomnia.md#jama-depression-insomnia-trial) | 표준관리 병용의 수면의 질 개선; 우울 동반 대상·8주 치료·32주 추적 구분 |
 | 산조인탕 처방 연구는 무엇을 비교했나요? | [12개 시험·1,311명 메타분석](../authority/formulas/suanzaoren-tang.md#szrd-results) | PSQI 수면의 질 개선; 단독·기존 약물 병용과 원방·가감방 구분 |
 | 편두통 발작 사이 침치료를 하면? | [BMJ 2020 예방시험](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) · [편두통 근거](../authority/conditions/migraine.md#jama-migraine-prevention) | 편두통일수·발작 횟수·약 복용일; 급성 진통과 예방은 별도 결과 |
 | 긴장형두통·목 긴장은 어떤 자료가 있나요? | [긴장형두통 근거](../authority/conditions/tension-headache.md) | 해당 두통 유형의 빈도·강도·생활 지장; 편두통 수치와 섞지 않음 |
-| 불안·우울의 치료 연구는? | [불안](../authority/conditions/anxiety.md) · [우울](../authority/conditions/depression.md) · [정서 처방 연구](../authority/formulas/depression-herbal-formula-map.md) | 기분척도·수면·회피·생활기능을 구분하고 병용 조건 확인 |
+| 불안·우울의 치료 연구는? | [불안](../conditions/anxiety.md#anxiety-research) · [우울](../authority/conditions/depression.md) · [정서 처방 연구](../authority/formulas/depression-herbal-formula-map.md) | 기분척도·수면·회피·생활기능을 구분하고 병용 조건 확인 |
 | 이명·하지불안은 어떻게 평가했나요? | [이명](../authority/conditions/tinnitus.md) · [하지불안](../authority/conditions/restless-legs-syndrome.md) | 이명 부담·수면과 청력, 하지불안 중증도와 철 상태를 각각 확인 |
 
 설문 점수와 수면·신경검사의 결과, 한 사람의 전후 변화와 비교군 대비 효과는 구분합니다. 전침 연구의 결과를 모든 약침·한약 또는 복합치료 전체의 효과로 옮기지 않습니다. 원 논문은 [불면 전침시험](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793930), [산조인탕 종합연구](https://pubmed.ncbi.nlm.nih.gov/36459033/), [편두통 예방시험](https://www.bmj.com/content/368/bmj.m697)에서 확인할 수 있습니다.
@@ -131,7 +131,7 @@ last_reviewed: 2026-09-19
 | 감각·균형 | 저림 분포·손 기능·보행, 어지럼의 지속시간·유발 자세·청력 변화 |
 | 치료·노출 | 한약·약·침구 시작·변경 시점, 카페인·음주·근무와 이상반응 |
 
-PSQI는 수면의 질, ISI는 불면의 심한 정도와 생활 영향을 보는 설문입니다. 치료 전후 같은 자료를 사용하고 **잠은 빨리 드는데 낮 졸림이 늘거나, 통증은 줄지만 근력·보행이 나빠지는 변화**는 별도로 재평가합니다. [수면 지표 해석](../authority/conditions/insomnia.md#sleep-results-reading)
+PSQI는 수면의 질, ISI는 불면의 심한 정도와 생활 영향을 보는 설문입니다. 치료 전후 같은 자료를 사용하고 **잠은 빨리 드는데 낮 졸림이 늘거나, 통증은 줄지만 근력·보행이 나빠지는 변화**는 별도로 재평가합니다. [수면 지표 해석](../conditions/insomnia.md#sleep-results-reading)
 
 낮에는 기상·빛·식사·활동의 리듬을 맞추고, 밤에는 업무·화면·카페인 등의 각성 요인을 개인 반응에 맞춰 조절합니다. 활동 후 피로·멍함이 지연 악화되는 경우는 [피로·회복 계획](tonic-recovery.md)에서 활동량 조절을 함께 봅니다. 호전이 없으면 원인·병용약·치료 목표를 다시 확인합니다.
 

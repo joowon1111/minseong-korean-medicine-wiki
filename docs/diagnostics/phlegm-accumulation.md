@@ -38,7 +38,7 @@ last_reviewed: 2026-09-06
 | 명치 답답함·팽만 | 식전·식후 중 언제 심한가, 트림 후 달라지는가 | [복부팽만](../conditions/bloating.md) · [트림](../conditions/belching.md) |
 | 메스꺼움·속쓰림 | 구토·신물·야간 역류가 동반되는가 | [오심](../conditions/nausea.md) · [속쓰림](../conditions/gastritis-symptoms.md#heartburn-route) |
 | 소화불편과 두통·어지럼 | 동시에 시작하는가, 자세·식사·약물과 관계가 있는가 | [소화불량과 두통](../conditions/indigestion-headache.md) · [어지럼](../conditions/dizziness.md) |
-| 목 이물감·긴장·불면 | 삼킴 자체가 어려운가, 스트레스와 함께 변하는가 | [목 이물감](../conditions/globus.md) · [스트레스·두근거림·소화](../conditions/stress-palpitations-digestion.md) |
+| 목 이물감·긴장·불면 | 삼킴 자체가 어려운가, 스트레스와 함께 변하는가 | [목 이물감](../conditions/globus.md) · [스트레스·두근거림·소화](../autonomic/stress-digestion.md#meal-palpitations) |
 
 두통·어지럼·불면이 소화불편과 함께 나타날 수는 있지만, 동반된다는 사실만으로 위장의 담적이 모든 증상의 원인이라고 확정하지 않습니다. 각 증상의 감별을 병행합니다.
 

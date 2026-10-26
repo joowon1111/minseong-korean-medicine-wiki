@@ -44,7 +44,7 @@ last_reviewed: 2026-08-21
 
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
 - [수면·피로](../symptom-integrated/sleep-fatigue.md)
-- [불면증·수면장애](/authority/conditions/insomnia/)
+- [불면증·수면장애](insomnia.md#sleep-research)
 - [만성피로](chronic-fatigue.md)
 - [두근거림·심계](palpitation.md)
 - [소화불량](dyspepsia.md)

@@ -249,7 +249,7 @@ last_reviewed: 2026-08-28
 
 ## 관련 문서
 
-- [긴장·불안과 신체증상](../../conditions/anxiety-somatic.md)
+- [긴장·불안과 신체증상](../../conditions/anxiety.md#somatic-assessment)
 - [자율신경·스트레스](../../symptom-integrated/autonomic-stress.md)
 - [갑작스러운 불안과 신체증상](../../answer-guides/sudden-anxiety-body-symptoms-guide.md)
 - [과호흡·숨이 답답하고 손발저림](../../conditions/hyperventilation.md)

@@ -87,7 +87,7 @@ last_reviewed: '2026-08-29'
 | 진료 분야 | 함께 평가할 결과 | 상세 카드 |
 |---|---|---|
 | 통증·근골격 | 통증·보행·앉기·가동범위·일상 기능 | [요통](../conditions/low-back-pain.md#back-research) · [좌골신경통](../conditions/sciatica.md#pain-research) · [무릎 골관절염](../conditions/knee-pain.md#_9) · [독활기생탕](duhuo-jisheng-tang.md) |
-| 두통·수면·정서 | 두통일수·급성약 사용·수면의 질·낮 기능 | [편두통](conditions/migraine.md) · [불면](conditions/insomnia.md) · [불안](conditions/anxiety.md) · [귀비탕](formulas/guipi-tang-evidence.md) |
+| 두통·수면·정서 | 두통일수·급성약 사용·수면의 질·낮 기능 | [편두통](conditions/migraine.md) · [불면](../conditions/insomnia.md#sleep-research) · [불안](../conditions/anxiety.md#anxiety-research) · [귀비탕](formulas/guipi-tang-evidence.md) |
 | 소화기 | 식후포만·조기포만·복통·변 상태·배변 반응 | [기능성소화불량](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [IBS](conditions/irritable-bowel-syndrome.md) · [기능성변비](conditions/functional-constipation.md) · [반하사심탕](formulas/banxia-xiexin-tang.md) |
 | 호흡·비염 | 코 증상·삶의 질·활동 시 호흡곤란·운동능력 | [비염](../conditions/rhinitis.md#evidence) · [천식](conditions/asthma.md) · [COPD](conditions/copd.md) · [소청룡탕](formulas/xiao-qing-long-tang.md) |
 | 여성건강 | 생리통·생활 방해·갱년기 증상·배뇨일지 | [생리통](conditions/primary-dysmenorrhea.md) · [갱년기](conditions/menopause.md) · [온경탕](formulas/wenjing-tang.md) · [복압성 요실금](electroacupuncture.md#ea-incontinence-trial) |

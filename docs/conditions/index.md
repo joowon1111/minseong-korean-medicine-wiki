@@ -523,7 +523,7 @@ last_reviewed: 2026-09-21
 - [아침설사·식후설사](morning-diarrhea.md)
 - [메스꺼움·오심](nausea.md)
 - [식후 졸림·밥 먹으면 피곤](chronic-fatigue.md#time-patterns)
-- [두근거림 + 소화불량·스트레스](stress-palpitations-digestion.md)
+- [두근거림 + 소화불량·스트레스](../autonomic/stress-digestion.md#meal-palpitations)
 - [체중감소·살이 빠져요](unintentional-weight-loss.md)
 - [다이어트 정체기·체중이 안 빠져요](weight-plateau.md)
 - [요요·다이어트 후 체중증가](weight-regain.md)
@@ -531,7 +531,7 @@ last_reviewed: 2026-09-21
 ### 수면·자율신경·피로 {#condition-directory-4}
 
 - [자율신경 기능 이상·여러 증상을 함께 보는 방법](../autonomic/index.md)
-- [긴장하면 몸이 불편해요·신체화 증상](anxiety-somatic.md)
+- [긴장하면 몸이 불편해요·신체화 증상](anxiety.md#somatic-assessment)
 - [머리가 멍해요·브레인포그](brain-fog.md)
 - [기관지염 후 기침·회복](bronchitis-recovery.md)
 - [암 치료 후 회복·기력저하](cancer-treatment-recovery.md)

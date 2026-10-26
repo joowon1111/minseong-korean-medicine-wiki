@@ -86,7 +86,7 @@ last_reviewed: 2026-09-06
 | 허약한 바탕에 번조·건조감과 불면 | 음혈부족 맥락의 [산조인탕](../formulas/suanzaoren-tang.md) | 야간 불편, 잠드는 시간과 아침 회복감 |
 | 목·어깨·허리 통증이 잠을 끊음 | 통증 부위·기능에 맞춘 침·전침 등과 원인 치료 | 밤에 깬 시간, 편하게 눕는 자세와 낮 움직임 |
 
-[수면 한약 처방 지도](../herbal-integrated/formula-for-insomnia.md)와 [불면 경혈](../acupuncture-integrated/points-for-insomnia.md)에서 이어 읽을 수 있습니다. 불면 환자를 대상으로 한 [침·한약 임상근거](../authority/conditions/insomnia.md)의 결과를 수면무호흡·모든 비회복성 수면의 효과로 확대하지 않고 실제 동반 불면과 치료 목표에 맞춰 적용합니다.
+[수면 한약 처방 지도](../herbal-integrated/formula-for-insomnia.md)와 [불면 경혈](../acupuncture-integrated/points-for-insomnia.md)에서 이어 읽을 수 있습니다. 불면 환자를 대상으로 한 [침·한약 임상근거](insomnia.md#sleep-research)의 결과를 수면무호흡·모든 비회복성 수면의 효과로 확대하지 않고 실제 동반 불면과 치료 목표에 맞춰 적용합니다.
 
 ### 치료 뒤에는 수면과 낮 기능을 나누어 봅니다 {#recovery-followup}
 
@@ -113,7 +113,7 @@ last_reviewed: 2026-09-06
 
 - [자율신경·스트레스](../symptom-integrated/autonomic-stress.md)
 - [수면·피로](../symptom-integrated/sleep-fatigue.md)
-- [불면증·수면장애](/authority/conditions/insomnia/)
+- [불면증·수면장애](insomnia.md#sleep-research)
 - [만성피로](chronic-fatigue.md)
 - [두근거림·심계](palpitation.md)
 - [소화불량](dyspepsia.md)
