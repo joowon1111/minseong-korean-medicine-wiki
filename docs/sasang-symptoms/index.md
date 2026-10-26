@@ -62,7 +62,7 @@ last_reviewed: '2026-09-22'
 
 두근거림이 함께 있으면 시작 시점·지속시간·맥박의 규칙성, 흉통·호흡곤란·실신 여부, 카페인·음주·약물과의 관계를 먼저 확인합니다. 체질성정이나 스트레스만으로 돌리지 않고 부정맥·갑상선·빈혈 등 필요한 평가를 병행합니다.
 
-→ [불면·수면저하](../conditions/insomnia.md) · [심계·두근거림](../autonomic/palpitations.md) · [체질성정요법](../sasang-treatment/emotion.md)
+→ [불면·수면저하](../conditions/insomnia.md) · [심계·두근거림](../conditions/palpitation.md#stress-five-core) · [체질성정요법](../sasang-treatment/emotion.md)
 
 ## 소화불량·피로 {#digestion-fatigue}
 

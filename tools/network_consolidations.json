@@ -640,5 +640,29 @@
       "_5": "sasang-original-symptoms/cold-heat.md#related-reading",
       "_6": "sasang-original-symptoms/cold-heat.md#cold-heat-questions"
     }
+  },
+  "autonomic/fatigue-recovery.md": {
+    "target": "conditions/chronic-fatigue.md#stress-recovery",
+    "anchors": {
+      "_1": "conditions/chronic-fatigue.md#stress-recovery",
+      "_2": "conditions/chronic-fatigue.md#_6",
+      "_3": "conditions/chronic-fatigue.md#_7",
+      "_4": "conditions/chronic-fatigue.md#fatigue-acupoints",
+      "fatigue-patterns": "conditions/chronic-fatigue.md#autonomic-fatigue-patterns",
+      "formula-context": "conditions/chronic-fatigue.md#autonomic-fatigue-patterns",
+      "musk-gongjindan": "conditions/chronic-fatigue.md#musk-gongjindan",
+      "recovery-plan": "conditions/chronic-fatigue.md#follow-up"
+    }
+  },
+  "autonomic/palpitations.md": {
+    "target": "conditions/palpitation.md#stress-five-core",
+    "anchors": {
+      "_1": "conditions/palpitation.md#stress-five-core",
+      "_2": "conditions/palpitation.md#red-flags",
+      "_3": "conditions/palpitation.md#patient-words",
+      "_4": "conditions/palpitation.md#patterns",
+      "assessment": "conditions/palpitation.md#assessment",
+      "formula-context": "conditions/palpitation.md#herbal-treatment"
+    }
   }
 }

@@ -23,7 +23,7 @@ last_reviewed: 2026-08-19
 
 사상의학적 운동관리는 체질만 보는 것이 아니라 피로·회복·발한·호흡·소화 등 현재 상태를 함께 고려하는 방식으로 이해한다.
 
-→ [피로·회복과 자율조절](../autonomic/fatigue-recovery.md)
+→ [피로·회복과 자율조절](../conditions/chronic-fatigue.md#stress-recovery)
 → [보익·회복 허브](../pillar/tonic-recovery.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

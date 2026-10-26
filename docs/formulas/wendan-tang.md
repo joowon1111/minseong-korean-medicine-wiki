@@ -148,7 +148,7 @@ last_reviewed: 2026-09-06
 
 담음과 관련된 불면·심계·소화불편은 각 증상의 원인을 먼저 구분하고 전체 조합을 살핍니다.
 
-[스트레스성 불면](../autonomic/stress-sleep.md) · [두근거림과 자율신경](../autonomic/palpitations.md) · [스트레스성 소화불량](../autonomic/stress-digestion.md)
+[스트레스성 불면](../autonomic/stress-sleep.md) · [두근거림과 자율신경](../conditions/palpitation.md#stress-five-core) · [스트레스성 소화불량](../autonomic/stress-digestion.md)
 
 ## 관련 증상의 감별·처방·경과로 이어가기 {#digestive-sensory-care}
 
