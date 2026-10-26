@@ -19,7 +19,7 @@ class ConsolidatedNetworkRedirects(unittest.TestCase):
 
     def test_all_destinations_are_real_and_not_redirect_chains(self):
         routes = redirects.load_routes()
-        self.assertEqual(len(routes), 49)
+        self.assertEqual(len(routes), 51)
         for source, route in routes.items():
             for target in [route['target'], *route['anchors'].values()]:
                 path = target.split('#')[0]

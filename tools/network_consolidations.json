@@ -618,5 +618,27 @@
       "_2": "clinical-guides/deer-antler-quality-map.md#quality-records",
       "_3": "clinical-guides/deer-antler-quality-map.md#_4"
     }
+  },
+  "sasang/sasang-sweat.md": {
+    "target": "sasang-original-symptoms/sweating.md#sweat-questions",
+    "anchors": {
+      "_1": "sasang-original-symptoms/sweating.md#sweat-questions",
+      "_2": "sasang-original-symptoms/sweating.md#sweat-questions",
+      "_3": "sasang-original-symptoms/sweating.md#sweat-interview",
+      "_4": "sasang-original-symptoms/sweating.md#sweat-patterns",
+      "_5": "sasang-original-symptoms/sweating.md#related-reading",
+      "_6": "sasang-original-symptoms/sweating.md#sweat-questions"
+    }
+  },
+  "sasang/sasang-cold-heat.md": {
+    "target": "sasang-original-symptoms/cold-heat.md#cold-heat-questions",
+    "anchors": {
+      "_1": "sasang-original-symptoms/cold-heat.md#cold-heat-questions",
+      "_2": "sasang-original-symptoms/cold-heat.md#cold-heat-questions",
+      "_3": "sasang-original-symptoms/cold-heat.md#interview",
+      "_4": "sasang-original-symptoms/cold-heat.md#cold-heat-patterns",
+      "_5": "sasang-original-symptoms/cold-heat.md#related-reading",
+      "_6": "sasang-original-symptoms/cold-heat.md#cold-heat-questions"
+    }
   }
 }
