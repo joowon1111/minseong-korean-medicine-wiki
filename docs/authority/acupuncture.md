@@ -56,11 +56,7 @@ RMDQ는 요통 관련 일상 기능장애 설문입니다. 기능의 상대적 �
 
 ## 디스크성 좌골신경통: 가짜침 비교와 52주 추적 {#acupuncture-sciatica}
 
-Tu 등의 2024년 *JAMA Internal Medicine* 다기관 시험은 중국 6개 병원에서 **220명을 배정하고 216명을 분석**했습니다. 4주 동안 10회 침 또는 가짜침을 시행하고 참여자·평가자·통계분석자의 눈가림을 적용했습니다.
-
-4주 다리 통증 VAS(100mm 척도)의 감소는 침 **30.8mm**, 가짜침 **14.9mm**였고 군 간 추정 차이는 **16.0mm(95% CI 10.6–21.3)**였습니다. ODI 기능장애 감소의 군 간 차이도 **8.1점(5.1–11.1)**으로 침군에 유리했습니다. 52주 표 2의 차이는 VAS **10.8mm**, ODI **4.7점**으로 이점이 지속됐습니다.
-
-다리 통증과 기능장애를 함께 개선한 근거이며 디스크 자체의 소실을 입증한 결과는 아닙니다. [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) · [논문 원문·표 2](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825064) · [허리디스크·신경 증상 안내](../conditions/lumbar-disc-herniation.md)
+디스크 관련 만성 좌골신경통에서 4주간 침과 가짜침을 비교한 2024년 다기관 시험은 다리 통증과 기능장애에서 침군의 이점을 보고했습니다. **220명 배정·216명 분석, 4주 결과와 52주 추적**의 구체적인 치료 조건·수치는 [좌골신경통 문서의 원시험 해설](../conditions/sciatica.md#disc-sciatica-rct)에서 함께 읽습니다. 디스크 자체의 소실을 평가한 결과와 구분합니다. [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) · [논문 원문·표 2](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825064)
 
 ## 편두통 예방: 두통이 발생하는 날을 줄이는 연구 {#acupuncture-migraine}
 
