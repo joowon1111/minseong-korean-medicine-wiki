@@ -38,6 +38,20 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       await page.evaluate(() => document.body.setAttribute('data-md-color-scheme', 'slate'));
       await publisher.screenshot({path:`archive-browser-results/publisher-dark-${width}.png`});
       await page.evaluate(() => document.body.setAttribute('data-md-color-scheme', 'default'));
+      for (const [path, anchor] of [
+        ['/conditions/', 'combined-care-paths'],
+        ['/portal/herbs-formulas/', 'compare-formulas'],
+        ['/sasang-integrated/', 'ordinary-current-record'],
+        ['/classics-reader/', 'shanghan-reading-paths'],
+      ]) {
+        await page.goto(base + path + '#' + anchor, {waitUntil:'networkidle'});
+        await page.locator('#' + anchor).waitFor();
+        assert.equal(await page.locator('article h1').count(), 1, `One article title: ${path}`);
+        assert(!(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1)), `Hub overflow: ${path} at ${width}`);
+        const hubTables = await page.locator('.md-typeset__scrollwrap').evaluateAll(nodes => nodes.map(n => ({overflow:n.scrollWidth>n.clientWidth+1,tabindex:n.getAttribute('tabindex'),role:n.getAttribute('role')})));
+        hubTables.filter(table => table.overflow).forEach(table => {assert.equal(table.tabindex,'0'); assert.equal(table.role,'region');});
+        await page.screenshot({path:`archive-browser-results/hub-${anchor}-${width}.png`});
+      }
       await page.goto(base + '/acupuncture/points/lu2/', {waitUntil:'networkidle'});
       assert.equal(await page.locator('link[href*="acupoint-atlas/explorer.css"]').count(), 1, 'Point detail must load its navigation styles');
       const parent = page.locator('.acupoint-meridian-parent');

@@ -2,7 +2,7 @@
 title: 고전 원문·해석
 description: 상한론·금궤요략·동의수세보원·동의보감의 원문 목차, 한국어 독해와 처음 읽을 대목을 한곳에서 찾습니다.
 ---
-# 고전 원문·해석
+# 고전 원문·해석 {#_1}
 
 **읽고 싶은 책을 선택하세요.** 원문을 바로 열거나, 아래 책별 안내에서 처음 읽을 대목과 해석을 고를 수 있습니다. 한문이 익숙하지 않다면 **처음 읽기** 안내부터 시작하세요.
 
@@ -44,6 +44,19 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 - **육경병으로 바로 가기:** [태양 상](../classics/shanghanlun/clauses/taiyang-upper.md) · [태양 중](../classics/shanghanlun/clauses/taiyang-middle.md) · [태양 하](../classics/shanghanlun/clauses/taiyang-lower.md) · [양명](../classics/shanghanlun/clauses/yangming.md) · [소양](../classics/shanghanlun/clauses/shaoyang.md) · [태음](../classics/shanghanlun/clauses/taiyin.md) · [소음](../classics/shanghanlun/clauses/shaoyin.md) · [궐음](../classics/shanghanlun/clauses/jueyin.md).
 - **책을 먼저 이해하기:** [상한론 소개](../classics/shanghanlun.md) · [처방 계열 비교](../formula-architecture/shanghan-family.md).
 
+### 증후·배합·치료 순서로 읽는 네 경로 {#shanghan-reading-paths}
+
+조문 번호를 찾은 뒤에는 **어떤 조건에서 처방이 등장하고, 앞뒤 문장과 무엇이 달라지는지** 읽습니다. 아래 경로는 임상 처방을 고르는 자가진단표가 아니라 원문의 비교 대목을 찾는 안내입니다.
+
+| 읽을 주제 | 원문에서 출발 | 처방·현대 문서에서 이어 읽기 |
+|---|---|---|
+| 계지탕의 증후와 복용 뒤 관찰 | [12조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-012) | [계지탕](../formulas/guizhi-tang.md): 구성과 원문에 붙은 조제·복용 조건 |
+| 치료 뒤 증상이 바뀌는 순서 | [29조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-029) | [상한론 처방 계열](../formula-architecture/shanghan-family.md): 같은 경과 안에서 처방을 나누는 이유 |
+| 소시호탕의 중심 증후와 겸증 | [96조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-096) | [소시호탕](../formulas/xiaochaihu-tang.md): 원방과 조건부 가감의 구별 |
+| 결흉과 심하비의 갈림점 | [149조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149) | [반하사심탕류 비교](../formulas/banxia-xiexin-tang.md#shanghan-xiexin-family) → [현대 소화불량의 처방 구성](../conditions/functional-dyspepsia.md#formula-composition) |
+
+마지막 경로의 고전 심하비와 현대 기능성소화불량은 같은 진단명이 아닙니다. 원문은 증후와 배합을 이해하는 자료로, 질환 문서는 현재의 평가·치료·연구를 읽는 자료로 이어집니다. 각 조문에서 대조 원문과 판본 안내를 확인할 수 있습니다.
+
 ## 금궤요략 — 편명과 관심 병증으로 읽기 {#jingui}
 
 **수록:** 서문과 제1–22편 임상 원문, 398개 항목의 한국어 독해 요지. 이 항목 수는 해당 전사문의 구분이며 상한론의 398조와는 별개입니다. 독해 요지는 전 문장의 완역·교감본과 구분합니다.
@@ -52,6 +65,16 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 - **전체 목차:** [제1–22편 원문 목록](../jingui-network/index.md#complete-chapters).
 - **관심 주제로 바로 가기:** [혈비·허로](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md) · [기침·상기](../classics/jinkui-yaolue/chapters/lung-cough.md) · [흉비·심통](../classics/jinkui-yaolue/chapters/chest-pain.md) · [담음](../classics/jinkui-yaolue/chapters/fluid-cough.md) · [부인 잡병](../classics/jinkui-yaolue/chapters/gynecology.md).
 - **책을 먼저 이해하기:** [금궤요략 소개](../classics/jinkui-yaolue.md).
+
+### 허로·불면·담음을 처방과 함께 읽기 {#jingui-reading-paths}
+
+| 읽을 질문 | 원문과 비교 대목 | 다음 자료 |
+|---|---|---|
+| 허로의 복부 불편과 보하는 배합은 어떻게 이어지나요? | [제6편 소건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-013) → [황기건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-014) | [소건중탕 구성](../formulas/xiaojianzhong-tang.md) · [황기건중탕 구성](../formulas/huangqi-jianzhong-tang.md) |
+| 허번과 불면을 왜 함께 적었나요? | [제6편 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) | [원방의 다섯 약과 선전](../formulas/suanzaoren-tang.md#jinkui-preparation) → [불면의 고전·임상 연결](../conditions/insomnia.md#classical-clinical-reading) |
+| 담음에서는 증상의 위치와 경과를 어떻게 읽나요? | [제12편 핵심 조문 연결](../classics/jinkui-yaolue/chapters/fluid-cough.md#reading-patterns) → [영계출감탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-016) | [영계출감탕](../formulas/linggui-zhugan-tang.md): 배합·감별·연구 대상 확인 |
+
+각 처방을 약재 하나의 효능으로 요약하기보다 함께 쓰는 약재와 조제 순서를 읽습니다. 임상연구가 연결돼 있으면 연구에서 사용한 제제·대상·비교군을 해당 상세 문서에서 확인하세요.
 
 ## 동의수세보원 — 개념·소증·병증을 함께 읽기 {#donguisusebowon}
 
@@ -116,6 +139,16 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 | 같은 처방명 | 출전·약미·포제·가미의 조건 | 선행 처방의 인용과 이제마의 수정·논평 |
 
 예를 들어 《동의보감》의 **자한·도한**은 증상과 병기를 읽는 분류이고, 《동의수세보원》의 **태음인 쾌한·소양인 손발바닥 발한**은 각 체질 병론의 경과 판단입니다. 모두 땀에 관한 문장이어도 같은 진단표로 합치지 않습니다. 원문 옆의 문장 구조와 비교 해설에서 그 차이를 확인할 수 있습니다.
+
+## 처방 원문을 읽을 때 확인할 다섯 가지 {#formula-reading-steps}
+
+1. **어느 책·편·조문인가:** 책 이름뿐 아니라 편명과 대조 판본을 확인합니다. 같은 이름의 책이나 후대 인용을 구분합니다.
+2. **어떤 조건에서 등장하는가:** 증후의 나열, 앞선 치료, ‘만약’에 해당하는 분기와 치료 뒤 경과를 나누어 읽습니다.
+3. **무엇을 배합했는가:** 기본 약미와 가감, 별도 전승의 부기를 구분합니다. 다른 출전의 약량으로 빈칸을 채우지 않습니다.
+4. **어떻게 가공·조제했는가:** 법제, 먼저 달일 약재, 제형·복용 단위가 원문의 어느 부분에 적혔는지 확인합니다. 옛 단위를 숫자만 보고 현대 그램으로 바꾸지 않습니다.
+5. **어떤 현대 자료로 이어지는가:** [처방 비교](../portal/herbs-formulas.md#compare-formulas)에서 배합 차이를, [질환별 안내](../conditions/index.md#2)에서 현재의 치료·임상연구를 확인합니다.
+
+예를 들어 [《금궤요략》 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017)과 [《동의보감》 몽문의 동명 처방](../formulas/suanzaoren-tang.md#donguibogam-version)은 구성부터 비교해야 합니다. 처방명이 같아도 출전과 실제 약미를 확인하는 습관이 원문 독해와 현대 연구 해석을 함께 돕습니다.
 
 ## 원문을 찾은 다음에는 {#reading}
 

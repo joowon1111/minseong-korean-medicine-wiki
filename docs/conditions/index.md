@@ -21,6 +21,20 @@ last_reviewed: 2026-09-21
 
 [통증·근골격](#_4) · [신경·감각](#_5) · [순환기·심혈관](#cardiovascular-conditions) · [수면·정서·회복](#_6) · [소화·호흡·피부](#_7) · [여성·산후](#_8) · [소아·성장](#_9) · [검사·대사·신장](#_10) · [비뇨·배뇨](#_11) · [눈·입](#eye-oral-symptom-routes)
 
+## 여러 불편이 함께 있을 때 읽는 순서 {#combined-care-paths}
+
+**지금 가장 불편한 증상 하나를 출발점으로 정하고, 함께 변한 증상은 다음 문서에서 연결해 읽습니다.** 같은 시기에 나타났다는 사실만으로 원인이 같다고 정하지 않고, 식사·수면·활동 중 어느 상황에서 달라지는지 비교하면 진료에서 설명할 내용도 구체적이 됩니다.
+
+| 함께 나타나는 불편 | 먼저 읽을 내용 | 다음에 연결할 내용 |
+|---|---|---|
+| 허리통증과 다리 당김·저림 | [요통의 유형별 치료](low-back-pain.md#pain-type-treatment) | [좌골신경통](sciatica.md): 통증 범위·근력·보행을 함께 확인 |
+| 목·어깨 통증과 팔저림 | [목통증의 작업·자세 양상](neck-pain.md#work-posture-patterns) | [목디스크](cervical-disc-herniation.md)와 [어깨통증](shoulder-pain.md): 목 움직임과 어깨 움직임에 따른 차이 |
+| 식후 불편과 불면·두근거림 | [소화불량에 동반된 증상](functional-dyspepsia.md#combined-symptoms) | [소화·수면·불안 통합 안내](../autonomic/integrated-map.md#gut-sleep-panic): 식사·긴장·수면의 시간 관계 |
+| 갱년기 열감과 불면·어지럼 | [갱년기 복합 증상](menopause.md#combined-symptoms) | [불면의 동반 증상](insomnia.md#menopause-overlap)과 [어지럼](dizziness.md): 각각의 경과와 원인 평가 |
+| 피로와 식욕저하·회복 지연 | [하루 중 피로 양상](chronic-fatigue.md#time-patterns) | [보익·회복 안내](../pillar/tonic-recovery.md): 섭취·활동·휴식과 회복 목표 |
+
+질환 문서에서는 침·약침·한약·운동 등의 역할과 연구를 함께 읽을 수 있습니다. 처방의 배합이 궁금하면 [본초·방제 포털](../portal/herbs-formulas.md#compare-formulas), 평소 소증과 현재 변화가 궁금하면 [사상의학의 비교 기록](../sasang-integrated/index.md#ordinary-current-record)으로 이어가세요.
+
 ## 면역·만성염증·질병·노화 {#_2}
 
 만성질환은 병명별 문서로 살펴보되, **면역조절·저등급 염증·대사·혈관·신경·통증·회복**이 서로 연결되는 공통 경로도 함께 볼 수 있습니다.
@@ -375,7 +389,7 @@ last_reviewed: 2026-09-21
 
 ### 2. 질환별 현대 임상근거 보기 {#2}
 
-질환별 근거 카드는 무작위 임상시험, 체계적 문헌고찰·메타분석과 실제 환자 결과를 연결합니다. [연구·근거 통합 안내](../portal/evidence.md)에서 주요 연구·국제 지침·미국·일본 자료를 찾고, [출처·근거 카드](../authority/index.md)에서 대상·치료·비교군·기간·결과와 원 논문을 확인합니다.
+질환의 설명과 연구는 **해당 질환의 본문에서 함께 읽는 것**을 기본으로 합니다. 무작위 임상시험과 체계적 문헌고찰·메타분석은 연구 대상·치료 방법·결과를 구분해 연결합니다. [연구·근거 통합 안내](../portal/evidence.md)에서 주요 연구·국제 지침·미국·일본 자료를 찾고, [출처·근거 카드](../authority/index.md)에서 대상·치료·비교군·기간·결과와 원 논문을 확인합니다.
 
 - **통증·근골격** — 만성 요통, 만성 목통증, 무릎 골관절염, 경추 신경근병증, 회전근개질환, 턱관절장애, 외측상과염, 족저근막염
 - **신경·재활** — 뇌졸중 후 연하장애·인지장애·우울·피로·경직, 안면마비
@@ -385,7 +399,15 @@ last_reviewed: 2026-09-21
 - **호흡·알레르기** — 알레르기비염, 천식, COPD
 - **암 치료 보조영역** — 항암치료 관련 오심·구토·말초신경병증, 암 관련 피로·통증·불면, 방사선치료 후 구강건조
 
-→ [질환별 현대 근거 카드](/authority/conditions/)
+| 질환 본문에서 연구까지 읽기 | 확인할 질문 |
+|---|---|
+| [요통 침·약침 연구](low-back-pain.md#back-research) | 급성·만성, 연령과 기능 제한이 나와 비슷한 대상인가? |
+| [기능성소화불량 한약 연구](functional-dyspepsia.md#herbal-research) · [침 연구](functional-dyspepsia.md#pds-acupuncture-results) | 식후불편 등 증상 아형과 평가한 식사·증상 지표가 무엇인가? |
+| [불면 침·전침 연구](insomnia.md#sleep-research) | 동반질환·치료기간과 수면·낮 기능을 어떻게 평가했는가? |
+| [피로 한약 연구](chronic-fatigue.md#fatigue-herbal-trial) · [침 연구](chronic-fatigue.md#fatigue-acupuncture-trial) | 어떤 피로 환자와 제제·치료 방법을 비교했는가? |
+| [안면마비 치료 근거](facial-palsy.md#facial-evidence) | 발병 시점·기본 치료·안면 기능과 추적기간이 어떻게 다른가? |
+
+주제별 연구 목록은 [질환별 근거 색인](/authority/conditions/)에서 찾을 수 있습니다. 위 표는 효과의 순위가 아니라 **기존 질환 설명 안의 연구로 바로 가는 경로**입니다.
 
 ### 3. 한약 처방과 본초 근거로 연결하기 {#3}
 
@@ -448,7 +470,7 @@ last_reviewed: 2026-09-21
 - [아카이브 안내](../guide/index.md)
 - [본초·방제](../herbal-integrated/index.md)
 - [침구·치료](../acupuncture-integrated/index.md)
-- [질환별 현대 근거 카드](/authority/conditions/)
+- [질환별 연구 색인](/authority/conditions/)
 - [WHO 표준 361경혈 임상 아틀라스](/acupoint-network/standard-atlas/)
 
 <!-- ORPHAN_CONDITIONS_HUB_START -->
