@@ -95,7 +95,7 @@ last_reviewed: '2026-09-05'
 
 이 시험은 분리 성분 정제의 연구로 위의 **핵심 30편이나 복합 한약 9편에 포함하지 않습니다**. 한약 복합처방의 효과, 대장암 예방이나 생존 향상과 구분해 읽습니다.
 
-### 일본 Kampo: 내과·소화기 진료와 처방 연구 {#japan-kampo-studies}
+### 일본 Kampo: 소화·두통·수면과 전문 진료의 연구 {#japan-kampo-studies}
 
 **일본의 한약 연구는 내과·소화기 전문 진료, 다기관 위약대조시험, 학회 진료지침으로 이어집니다.** 일본내과학회지의 2021년 「내과 진료에서 한방의 역할: 최신 정보」는 내과의를 포함한 임상의의 의료용 한방제제 활용과 육군자탕·억간산 연구를 설명합니다. 학회의 임상 해설과 실제 효과를 비교한 RCT를 함께 읽으면 일본 의료계에서 한약을 어떻게 연구하고 사용하는지 구체적으로 확인할 수 있습니다.
 
@@ -112,6 +112,23 @@ last_reviewed: '2026-09-05'
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
 [일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)에서 대상·결과·저널 지표를 함께 확인하세요. 위의 국제·국내 핵심 30편과 별도의 일본 연구 묶음으로 안내하며, 월비가출탕의 비무작위시험도 RCT와 구분해 연결합니다.
+
+#### 일본 연구진의 두통·복부팽만·수면 연구 {#japan-symptom-studies}
+
+**일본 대학병원·전문 진료과가 한방제제를 일상 진료의 문제에 적용하고 결과를 발표했다는 점**은 이 자료들의 중요한 가치입니다. 연구기관과 저널을 확인한 뒤, 무작위배정·눈가림·주평가·표본 규모를 함께 살피면 신뢰성을 더 구체적으로 판단할 수 있습니다. 국제 저널에 발표한 일본 연구와 일본 학회가 발행한 자료도 구분해 표시합니다.
+
+| 연구기관·전문 저널 | 임상 질문과 설계 | 결과·상세 해설 |
+|---|---|---|
+| **기타사토대**, Odaguchi 등 · *Current Medical Research and Opinion*, 2006 | 오수유탕 반응자 53명에서 12주 위약대조 두통 예방 | 두통일수 감소에 유리; 사전 반응자 선별의 의미와 구제약 결과는 [오수유탕 시험](../formulas/wuzhuyu-tang.md#headache-trial) |
+| **가와사키의과대·요코하마시립대 등**, Manabe 등 · *JGH Open*, 2023 | 팽만을 동반한 만성변비 63명, 다기관 이중눈가림·위약대조 | 전반적 개선과 복부팽만에서 이점; 배변 횟수와 구분한 [대건중탕 시험](../formulas/dajianzhong-tang.md#japanese-constipation-trial) |
+| **도쿄의과치과대 산부인과**, Terauchi 등 · *Archives of Gynecology and Obstetrics*, 2011 | 갱년기 여성 151명의 후향적 기록 분석; 교육·변증별 한방제제 | 당귀작약산·가미소요산·계지복령환의 [수면 관련 관찰 결과](../authority/formulas/sleep-emotion-herbal-evidence.md#japanese-menopause-sleep) |
+| **류큐대·교린대 등 공동 연구진**, Takaesu 등 · *Frontiers in Psychiatry*, 2023 | 일본 전문가 195명의 불면 치료 설문·합의 | 입면·수면유지불면에서 Kampo의 [2차 선택지 분류와 적용 범위](../authority/formulas/sleep-emotion-herbal-evidence.md#japanese-insomnia-consensus) |
+
+위 자료는 **임상시험·관찰연구·전문가 합의라는 서로 다른 역할**을 갖습니다. 논문에 기재된 당시 기관명을 사용했으며, 연구기관·정확한 저널명과 함께 설계·결과를 표시했습니다. 일본 연구를 한국의 진료에 연결할 때는 실제 제제·가감·대상·복용 조건을 대조합니다.
+
+**진료지침까지 이어 읽기:** 일본동양의학회의 [KCPG 공식 자료실](https://www.jsom.or.jp/ebm/cpg/)은 여러 전문과 지침에서 한방제제가 다뤄지는 위치를 보여 줍니다. [KCPG의 판본·A/B/C 유형과 소화·두통·수면·통증 연결](../evidence-clinical/guidelines.md#japan-kcpg)에서 2019 보고서와 이후 개정판을 구분하고, 실제 권고문을 읽는 방법을 설명합니다.
+
+**자료를 찾는 순서:** [일본동양의학회 EKAT](https://www.jsom.or.jp/ebm/ekat/)에서 처방·질환을 찾고 → 위 상세 문서의 PMID·DOI로 원 논문을 확인하고 → [소화불량](../conditions/functional-dyspepsia.md)·[두통](../conditions/headache.md)·[불면](../conditions/insomnia.md)의 치료 목표와 연결합니다. 학회 보고서·종설의 소개와 원저 결과를 나누고, 같은 환자를 다룬 후속 논문은 독립 시험으로 중복 계산하지 않습니다.
 
 ### 규모·설계·저널을 함께 읽는 방법 {#study-design-reading}
 

@@ -9,12 +9,24 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 
 환자가 말하는 통증 부위에서 바로 치료명을 고르지 않고 **위험신호 → 통증 양상 → 병증축 → 한약·본초·침구 → 기능회복**으로 연결합니다.
 
+## 관절이 붓는 통증과 근육이 당기는 통증 {#joint-muscle-formulas}
+
+통증 한약을 찾을 때 **관절의 열감·종창, 근육의 경련·당김, 오래된 허약**을 먼저 구분하면 처방의 역할이 선명해집니다. 같은 부위에서도 관절과 주변 근육의 문제가 겹칠 수 있습니다.
+
+| 현재 두드러진 양상 | 비교할 처방 | 치료 경과에서 볼 것 |
+|---|---|---|
+| 관절에서 비롯된 통증에 국소 열감·붓기가 동반 | [월비가출탕](../formulas/yuebi-jia-shu-tang.md#joint-muscle-selection) — 청열·수습 조절의 배합 | 붓기·열감, 굽힘과 폄, 체중부하 |
+| 근육이 갑자기 뭉치거나 쥐가 나며 아프게 당김 | [작약감초탕](../formulas/shaoyao-gancao-tang.md#japanese-cramp-trial) — 완급지통의 배합 | 경련 횟수·지속시간, 수면·동작 방해 |
+| 오래된 비증에 냉감·요슬 무력·전신 허약이 겹침 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) — 거풍습과 보익의 배합 | 보행·지구력·냉감과 일상기능 |
+
+월비가출탕과 작약감초탕을 나누어 보는 임상 관점과 연구의 차이는 [통증 처방 비교](../herbal-integrated/formula-for-pain.md#joint-versus-muscle-pain)에서 설명합니다. 열감·종창은 감염·통풍·외상에서도 생기므로 원인을 먼저 확인하며, 근육통도 경련·손상·신경병성 통증을 구분합니다.
+
 ## 허리통증·요통 {#허리통증요통}
 **환자가 자주 묻는 것:** “디스크인가요?”, “앉아 있으면 더 아파요”, “다리까지 당겨요.”
 
 - **확인:** 방사통·저림·근력·보행·외상·발열·대소변 변화.
 - **병증축:** 한습·기혈울체·어혈 / 만성에서는 간신기혈허.
-- **방제 감별:** [오적산](../formulas/wujisan.md) ↔ [독활기생탕](../formulas/duhuo-jisheng-tang.md).
+- **방제 감별:** 한습·복합 증후는 [오적산](../formulas/wujisan.md), 경련·급박한 당김은 [작약감초탕](../formulas/shaoyao-gancao-tang.md), 만성 허약은 [독활기생탕](../formulas/duhuo-jisheng-tang.md)을 비교.
 - **본초:** 두충·우슬·속단·골쇄보 → [본초 비교](../herbal-integrated/herb-comparisons.md).
 - **침구:** 요부 압통점만이 아니라 둔부·하지 방사경로와 움직임 제한을 함께 평가.
 - **회복 신호:** 앉아있는 시간↑, 걷기↑, 굴신 회복, 야간통↓.
@@ -39,7 +51,7 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 ## 어깨통증·오십견 {#어깨통증오십견}
 - **확인:** 능동/수동 가동범위, 야간통, 외상, 근력저하.
 - **병증:** 풍한습비·기혈불통 / 오래되면 허증.
-- **방제:** [독활기생탕](../formulas/duhuo-jisheng-tang.md) 등 비증 처방군.
+- **방제:** 관절 열감·종창은 [월비가출탕](../formulas/yuebi-jia-shu-tang.md), 주변 근육의 경련·당김은 [작약감초탕](../formulas/shaoyao-gancao-tang.md), 냉감·허약을 동반한 만성 비증은 [독활기생탕](../formulas/duhuo-jisheng-tang.md)을 감별.
 - **회복:** 통증보다 먼저 빗질·옷입기·등뒤 손올리기 범위가 변할 수 있음.
 
 밤에 아프거나 팔이 안 올라간다는 사실만으로 병명을 정하지 않습니다. **[어깨통증 상세 안내](../conditions/shoulder-pain.md)**에서 [유형별 치료·운동 방향](../conditions/shoulder-pain.md#shoulder-type-treatment)을 비교하고, 다음 양상에 맞춰 개별 문서로 이동합니다.
@@ -50,7 +62,7 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 
 ## 무릎통증 {#무릎통증}
 - 풍한습비·어혈·간신허를 구분.
-- [독활기생탕](../formulas/duhuo-jisheng-tang.md), 두충·우슬·속단·골쇄보를 연결.
+- 열감·종창이 있는 관절통은 [월비가출탕](../formulas/yuebi-jia-shu-tang.md), 주변 근육경련은 [작약감초탕](../formulas/shaoyao-gancao-tang.md), 냉감·하지 무력과 허약이 겹치면 [독활기생탕](../formulas/duhuo-jisheng-tang.md)을 비교.
 - 침구는 무릎만이 아니라 대퇴·둔근 기능과 보행을 함께 평가.
 
 **[무릎통증 상세 안내](../conditions/knee-pain.md)**에서 [관절염·앞무릎통증·연골 손상별 치료](../conditions/knee-pain.md#knee-type-treatment)를 비교합니다. [근력·가동범위 운동](../conditions/knee-pain.md#knee-exercise-options), [계단·등산·찜질](../conditions/knee-pain.md#knee-daily-care)과 [붓기·잠김 재평가 기준](../conditions/knee-pain.md#knee-exercise-response)을 함께 확인합니다.
