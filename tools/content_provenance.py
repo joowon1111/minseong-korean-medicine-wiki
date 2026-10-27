@@ -81,19 +81,13 @@ def on_page_content(html, page, config, files):
     page.archive_provenance = record
     _documents[url] = record
     english = page.meta.get('lang') == 'en'
-    source_label, use_label = ('Source', 'Content use') if english else ('출처', '콘텐츠 이용 안내')
-    notice = ('Copying 80 or more characters of article text also includes its source.' if english else
-              '본문을 80자 이상 복사하면 문서명과 원문 주소가 함께 표시됩니다.')
-    version_label = 'Document ID and version' if english else '문서 식별·버전'
+    use_label = 'Content use' if english else '콘텐츠 이용 안내'
     attrs = {'url': url, 'title': title, 'id': record['document_id'], 'version': record['text_sha256'][:12]}
     dataset = ' '.join(f'data-provenance-{key}="{escape(value, quote=True)}"' for key, value in attrs.items())
     guide = config['site_url'].rstrip('/') + '/guide/content-use/'
     footer = (
-        f'<aside class="archive-provenance" data-search-exclude data-archive-provenance {dataset} aria-label="{version_label}">'
-        f'<p>{source_label}: <a href="{escape(url, quote=True)}">민성 한의학 아카이브</a> · '
-        f'<a href="{escape(guide, quote=True)}">{use_label}</a><br><small>{notice}</small></p>'
-        f'<details><summary>{version_label}</summary><p><code>{record["document_id"]}</code><br>'
-        f'SHA-256: <code>{record["text_sha256"]}</code></p></details></aside>'
+        f'<aside class="archive-provenance" data-search-exclude data-archive-provenance {dataset} aria-label="{use_label}">'
+        f'<p><a href="{escape(guide, quote=True)}">{use_label}</a></p></aside>'
     )
     return html + footer
 
