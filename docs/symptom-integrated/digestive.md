@@ -3,7 +3,7 @@ title: 소화
 tags: [증상, 소화, 환자검색, 한약, 본초, 방제, 침구]
 status: 검토완료
 last_reviewed: 2026-08-20
-description: 식후 더부룩함·조기포만·오심·설사·변비를 위치와 시간, 배변 변화로 구분하고 검사·변증별 처방·침치료·섭취와 일상 회복을 연결하는 소화 증상 통합 안내입니다.
+description: 소화불량·속쓰림·설사·변비의 증상 감별과 위내시경·조직검사 결과를 구분하고, 위염·위축성위염·장상피화생·기능성소화불량 상세 자료와 변증별 치료로 연결합니다.
 ---
 # 소화
 
@@ -24,6 +24,14 @@ description: 식후 더부룩함·조기포만·오심·설사·변비를 위치
 | 울렁거림·구토 | 실제 구토가 반복되는가, 어지럼·약물·임신 가능성과 관계가 있는가? | [메스꺼움](../conditions/nausea.md) |
 
 소화불량과 가슴쓰림은 겹칠 수 있지만 같은 증상은 아닙니다. 또한 식후 배변이 급해진다고 방금 먹은 음식이 즉시 배출되는 것은 아니므로, 음식 종류만 탓하기보다 식후 반응과 평소 변 상태를 같이 봅니다. [NIDDK 소화불량 증상](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/symptoms-causes) · [IBS의 식사·배변 관리](../conditions/ibs.md#meal-response)
+
+**증상과 검사 결과 중 무엇이 궁금한가요?**
+
+- **속쓰림·명치통증이 불편하다면:** [위염·속쓰림 상세 안내](../conditions/gastritis-symptoms.md#differential)에서 위염·궤양·역류·기능성소화불량을 구분합니다.
+- **검진 결과에 위염이 적혀 있다면:** [건강검진 위염·위내시경 소견](../conditions/checkup-gastritis.md)에서 내시경 소견과 조직검사, 헬리코박터 결과를 나누어 읽습니다. [만성위염·위축성위염·장상피화생의 차이](../conditions/gastritis-symptoms.md#chronic-atrophy-metaplasia)도 확인할 수 있습니다.
+- **검사로 설명되지 않는 식후 불편이 계속된다면:** [기능성소화불량](../conditions/functional-dyspepsia.md)에서 조기포만·식후팽만·명치통증의 평가와 치료를 살핍니다.
+
+증상의 정도와 내시경·조직검사 소견은 따로 확인합니다. 검사 결과를 읽은 뒤에는 [위염의 변증별 한약 비교](../conditions/gastritis-symptoms.md#herbal-treatment)에서 현재 증상 조합에 따른 치료 방향을 이어 볼 수 있습니다.
 
 ## 증상을 기록하기 전에 확인할 신호 {#digestive-triage}
 
