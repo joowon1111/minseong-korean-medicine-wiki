@@ -47,6 +47,8 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
         ['/symptom-herbal-guide/neuro-mental/', 'clinical-route'],
         ['/symptom-herbal-guide/urogenital/', '_1'],
         ['/symptom-integrated/sleep-fatigue/', '자고-나도-피곤해요'],
+        ['/symptom-integrated/digestive/', 'symptom-entry'],
+        ['/symptom-integrated/respiratory-rhinitis/', 'early-cold-formula-route'],
         ['/symptom-integrated/respiratory-rhinitis/', '기침이-오래가요'],
         ['/symptom-integrated/treatment-evidence/', '_1'],
       ]) {
