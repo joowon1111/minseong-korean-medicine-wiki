@@ -21,6 +21,43 @@ description: ACP·WHO·NICE·SIO–ASCO와 일본소화기학회의 침·한약 
 
 기관·국가가 다르면 연구 검색 종료일, 대상 정의, 비교 치료와 자원 조건도 달라집니다. 같은 권고 등급이라는 이유만으로 여러 지침의 등급을 동일 척도로 합치지 않습니다.
 
+## 일본 KCPG: 전문과 진료지침 속 한방제제 찾기 {#japan-kcpg}
+
+**KCPG(Kampo medicine in Clinical Practice Guidelines)**는 일본동양의학회 EBM위원회 진료가이드라인 태스크포스(CPG-TF)가 일본의 여러 진료지침에서 한방제제 관련 기술을 찾아 분류한 자료입니다. 한방 단독 진료지침이 아니라, 소화기·신경·산부인과 등 각 분야의 치료체계 안에서 한방의 위치를 찾아가는 색인입니다. [학회 공식 설명](https://www.jsom.or.jp/ebm/cpg/)
+
+### 2019 보고서와 이후 판본 {#kcpg-versions}
+
+학회 이력상 **KCPG 2019는 2020년 3월 31일 공개**됐습니다. 이후 부록과 개정판이 이어졌고, 2026년 10월 확인한 이력에는 **2026년 5월 15일 KCPG 2025 H1, 5월 28일 CPG Table**이 올라 있습니다. 보고서명에 들어간 연도·게시일·개별 지침의 발행연도는 서로 다릅니다. [판본 이력](https://www.jsom.or.jp/ebm/cpg/version.html)
+
+2025 H1 설명은 **2025년 9월 30일까지** 데이터베이스에 등재된 자료를 조사했다고 밝힙니다. 따라서 2019 보고서는 당시 수록 상황을 확인할 때 사용하고, 현재의 임상 권고는 최신 KCPG 표에서 원 지침의 개정 여부를 다시 확인합니다. [해당 판의 조사 범위](https://www.jsom.or.jp/ebm/cpg/about.html)
+
+### A·B·C는 무엇을 뜻하나요? {#kcpg-types}
+
+| KCPG 유형 | 분류 기준 |
+|---|---|
+| A | 인용 논문과 근거수준·권고등급의 기술이 있음 |
+| B | 인용 논문은 있으나 근거수준·권고등급의 기술이 없음 |
+| C | 인용 논문과 근거수준·권고등급의 기술이 없음 |
+
+**유형 A는 치료효과 A등급이나 강한 찬성 권고라는 뜻이 아닙니다.** 긍정·조건부·비권고 여부는 원 지침의 문장과 해당 임상 질문(CQ)에서 확인합니다. 학회도 발췌표만으로 치료를 결정하지 않고 원 지침 전체의 맥락을 읽도록 안내합니다. [공식 CPG Table](https://www.jsom.or.jp/ebm/cpg/list.html)
+
+### 소화·두통·수면·만성통증에서 찾아갈 자료 {#kcpg-clinical-paths}
+
+아래는 KCPG의 수록 현황을 기존 임상 문서와 연결한 안내입니다. **수록 사실과 유형을 표시한 것이며, 아래 모든 질환에 한약을 권고한다는 표가 아닙니다.**
+
+| KCPG에서 찾을 원 지침 | 표의 유형 | 함께 읽을 아카이브 자료 |
+|---|---|---|
+| 기능성소화불량 2021 | A | [육군자탕의 지침·위약대조시험](../research/formulas/rikkunshito.md#japanese-fd-trials) |
+| 만성변비 2023 | A | [변비의 치료 목표](../conditions/constipation.md) · [대건중탕 2023 RCT](../formulas/dajianzhong-tang.md#japanese-constipation-trial) |
+| 두통 2021 | A | [두통 유형](../conditions/headache.md) · [오수유탕의 반응자 선별시험](../formulas/wuzhuyu-tang.md#headache-trial) |
+| 만성통증 2021 | A | [만성통증 치료·기능 평가](../symptom-integrated/pain.md) |
+| 수면장애 대응·치료 제3판 2019 | C | [수면 한약의 직접 임상자료](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary) |
+| 소아 기립성조절장애 제3판 2023 | A | [자율신경 증상의 감별](../autonomic/index.md) |
+
+소아 기립성조절장애 지침을 성인의 스트레스성 심계·불면 전체에 적용하지 않습니다. 연결한 RCT는 임상 질문을 더 읽는 자료이며 해당 지침이 그 시험을 인용했다는 뜻은 아닙니다.
+
+**KCPG → 원 지침의 CQ·권고문 → EKAT·원 논문 → 실제 제제와 환자 조건**의 순서로 읽습니다. [EKAT](https://www.jsom.or.jp/ebm/ekat/)는 임상시험의 조건과 결과를 찾는 데, KCPG는 전문 진료지침에서의 위치를 찾는 데 유용합니다. [일본 연구기관·저널별 안내](../portal/evidence.md#japan-symptom-studies)에서 직접 임상시험·관찰연구·전문가 합의로 이어집니다.
+
 ## 먼저 확인할 일곱 가지
 
 | 항목 | 확인 질문 |
