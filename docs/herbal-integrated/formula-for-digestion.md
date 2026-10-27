@@ -36,6 +36,9 @@ last_reviewed: 2026-09-06
 - [육군자탕](../formulas/liujunzi-tang.md) — 비위기허·식욕저하·조기포만; [사군자탕과 배합 비교](../compare/sijunzi-vs-liujunzi.md#pinellia-citrus) · [임상근거](../research/formulas/rikkunshito.md)
 - [삼령백출산](../formulas/shenling-baizhu-san.md) — 비위기허와 수습이 함께 있는 만성 묽은변·식욕저하·피로
 
+- [이중탕](../formulas/lizhong-tang.md) — 복부 냉감·허약·묽은변이 함께 있는 비위허한
+- [맥문동탕](../formulas/maidong-tang.md) — 건조·진액 부족과 기역을 함께 살피는 배합
+
 ## 처방을 고르는 관점 {#_4}
 
 식후더부룩함·조기포만·트림·체기·묽은변 등 증상조합과 비허·담습·식적·한열착잡 등을 구분해 처방군을 비교합니다. 묽은변이 4주 이상 지속되면 배변횟수와 변 형태, 야간설사·혈변·체중감소 같은 위험신호를 먼저 확인합니다.
@@ -52,10 +55,18 @@ last_reviewed: 2026-09-06
 | 신물과 열감·흉협 불편 등 전통 증후가 겹침 | 황련을 주축으로 오수유를 소량 배합한 청열·강역 | [좌금환](../formulas/zuojin-wan.md#acid-pattern); 속쓰림 하나로 선택하지 않음 |
 | 명치가 막히고 트림이 지속되며 회복·섭취가 약함 | 중허를 보완하면서 담·기역을 함께 조절 | [선복대자탕](../formulas/xuanfu-daizhe-tang.md#descending-tonification) |
 | 냉감·식욕저하에 팽만·기체가 겹침 | 비위허한을 돕고 습체·기체 조절 | 향사양위탕 |
+| 복부 냉감·허약·묽은변이 중심 | 온중·건비; 급성 감염·탈수와 구별 | [이중탕](../formulas/lizhong-tang.md) |
+| 입마름·건조와 구역 등 기역이 겹침 | 위음·진액을 돌보고 상역을 조절 | [맥문동탕](../formulas/maidong-tang.md); 위축 소견만으로 선택하지 않음 |
 
 냉감이나 스트레스 한 가지로 처방을 정하지 않고 식욕·대변·갈증·복용약과 진찰을 함께 봅니다. [향사육군자탕은 보하는 약과 팽만을 푸는 약을 왜 함께 쓰나요?](../formulas/xiangsha-liujunzi-tang.md#tonification-and-digestion)에서 배합을 읽고, [동반 불편에 따라 기본방은 어떻게 가감하나요?](formula-selection-guide.md#formula-adjustment)로 이어갈 수 있습니다.
 
 처방명은 검색을 위한 출발점이며 실제 처방은 개인의 현재 상태와 병증을 평가해 구성합니다. [소화기관별 역할·증상](../pillar/digestion-spleen-stomach.md#digestive-organ-map)과 [간담 본초·방제 비교](../pillar/digestion-spleen-stomach.md#hepatobiliary-care)를 함께 보면 위의 식후불편, 간담 질환, 배변 문제를 나누어 연결할 수 있습니다.
+
+### 병명과 변증을 나란히 기록하기 {#diagnosis-and-pattern}
+
+소화불량·담적병이라는 검색어로 처방을 찾거나, 만성위염·역류성식도염 진단을 받았더라도 같은 처방을 일괄 적용하지 않습니다. 식후팽만·속쓰림·신물·오심·냉감·갈증·배변을 묶어 치료 목표를 정합니다. 위축성위염이나 장상피화생은 한의학의 위음허와 일대일로 대응하지 않으며, [검사 소견에 따른 추적](../conditions/gastritis-symptoms.md#chronic-atrophy-metaplasia)은 계속합니다.
+
+예를 들어 식욕저하·피로·조기포만이 중심이면 육군자탕 계열을, 신물과 열 증후가 중심이면 좌금환을, 냉감·묽은변이 중심이면 이중탕을 비교합니다. 이는 변증에 따른 비교 예시이며 개인에게 복용할 처방을 지정한 것은 아닙니다. [기능성소화불량의 처방 연구와 평가](../conditions/functional-dyspepsia.md)에서 실제 임상시험 대상·제형·결과를 함께 확인할 수 있습니다.
 
 ## 소화 연구를 실제 불편과 연결합니다 {#digestive-treatment-evidence}
 
