@@ -51,6 +51,7 @@ last_reviewed: '2026-09-21'
 - [임신 준비·난임·임신·산후 통합 허브](../womens-health/fertility-pregnancy-postpartum.md)
 
 ### 감기·호흡기·표증 {#_6}
+- [인삼패독산](renshen-baidu-san.md) · [향소산](xiangsu-san.md) · [시갈해기탕](chaige-jieji-tang.md) · [궁소산 · 의학정전](xiongsu-san.md) — 외감·몸살, 기체·소화불편, 해기청열, 임신 외감의 출전별 구성
 - [계지탕](guizhi-tang.md) · [마황탕](mahuang-tang.md) · [계지가갈근탕](guizhi-jia-gegen-tang.md) · [갈근탕](gegen-tang.md)
 - [대청룡탕](daqinglong-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [마행감석탕](maxing-ganshi-tang.md) · [소시호탕](xiaochaihu-tang.md) · [시호계지탕](chaihu-guizhi-tang.md)
 - [행소산](xingsu-san.md) · [상국음](sangju-yin.md) · [맥문동탕](maidong-tang.md) — 량조·풍온·폐위음손의 기침 감별

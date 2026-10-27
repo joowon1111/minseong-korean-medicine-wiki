@@ -25,9 +25,24 @@ last_reviewed: '2026-09-05'
 - [삼소음](../formulas/renshen-suyin.md) — 체력저하와 기침·가래·식욕저하
 - [보폐탕](../formulas/bufei-tang.md) — 병후·만성 경과의 힘없는 기침·숨참·기력저하
 - [자음강화탕](../formulas/ziyin-jianghuo-tang.md) — 음허성 마른기침·야간열감·구건
-- 인삼패독산 — 허약을 바탕으로 한 풍한습 외감
+- [인삼패독산](../formulas/renshen-baidu-san.md) — 허약을 바탕으로 한 풍한습 외감
 - [연교패독산](../formulas/lianqiao-baidu-san.md) — 인후통·열감·종통이 함께한 풍열독
 - [형개연교탕](../formulas/jingjie-lianqiao-tang.md) — 반복되는 이비인후·피부의 풍열·울열
+
+### 증상과 시기에 따라 더 비교하기
+
+| 증상·상황 | 원문과 처방 해설 |
+|---|---|
+| 인후통·열감, 코·목의 반복 불편 | [은교산](../formulas/yinqiao-san.md) · [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
+| 열·두통·몸살에 구역 등이 겹침 | [시호계지탕](../formulas/chaihu-guizhi-tang.md) · [시갈해기탕](../formulas/chaige-jieji-tang.md) |
+| 사상의학 변증에서 보는 외감 | [갈근해기탕 · 동의사상신편 수록형](../sasang-formula-library/galgeunhaegi-tang.md) |
+| 기침·천명·열의 비중 | [마행감석탕](../formulas/maxing-ganshi-tang.md) |
+| 마른기침·건조, 열병 뒤 진액·기력 소모 | [맥문동탕](../formulas/maidong-tang.md) · [죽엽석고탕](../formulas/zhuye-shigao-tang.md) |
+| 목 이물감·긴장과 담기울결 | [반하후박탕](../formulas/banxia-houpo-tang.md) |
+| 더부룩함·식욕저하, 구토·설사를 동반 | [향소산](../formulas/xiangsu-san.md) · [불환금정기산](../formulas/buhuanjin-zhengqi-san.md) · [곽향정기산](../formulas/huoxiang-zhengqi-san.md) |
+| 임신 중 외감의 문헌과 실제 평가 | [궁소산](../formulas/xiongsu-san.md) · [삼소음](../formulas/renshen-suyin.md#pregnancy-scope) |
+
+같은 기침이라도 맑은 가래·마른기침·숨참·목 이물감은 서로 다른 평가가 필요합니다. 증상 하나로 표의 처방을 고르는 방식이 아니라 해당 문서에서 구성과 감별점을 함께 확인합니다.
 
 ## 처방을 고르는 관점
 
