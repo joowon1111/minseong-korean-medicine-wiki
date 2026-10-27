@@ -28,7 +28,7 @@ last_reviewed: 2026-09-06
 약침은 주입 치료이므로 **무균적인 제조·시술과 알레르기·과민반응 확인**이 중요하다. 봉약침과 같이 특정 성분에 과민반응 가능성이 있는 약침은 특히 세심한 평가가 필요하다.
 
 ## 관련 문서
-- [요통 임상 지식망](../network/low-back-pain-map.md)
+- [요통 임상 지식망](../conditions/low-back-pain.md)
 - [침 치료](acupuncture.md)
 - [전침](electroacupuncture.md)
 

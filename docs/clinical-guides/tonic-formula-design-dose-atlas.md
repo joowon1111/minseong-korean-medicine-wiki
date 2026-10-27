@@ -119,4 +119,4 @@ tags: [보익처방, 보약, 처방용량, 원방, 녹용보약]
 - [보약 처방의 용량·출전·품질](tonic-formula-dose-source-quality.md)
 - [대표 보약 처방 비교표](tonic-comparison-matrix.md)
 - [보익 처방 현대 연구 대시보드](tonic-evidence-dashboard.md)
-- [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
+- [보기·기혈쌍보 처방 계보](../network/tonic-formula-compare.md#formula-structure)

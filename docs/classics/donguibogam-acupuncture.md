@@ -60,7 +60,7 @@ last_reviewed: '2026-09-05'
 |---|---|---|
 | 경혈명·표준 위치 | [WHO 표준 경혈 아틀라스](../acupoint-network/standard-atlas.md) | 혈명·코드·해부학적 기준 |
 | 경맥과 증상의 연결 | [경맥→증상 지도](../acupoint-network/by-condition.md) | 국소 부위와 경맥의 관계 |
-| 여러 혈의 배합 | [핵심 배혈 조합](../network/acupoint-combinations.md) | 국소·원위혈과 치료 목표 |
+| 여러 혈의 배합 | [핵심 배혈 조합](../network/acupuncture-clinical-map.md#_4) | 국소·원위혈과 치료 목표 |
 | 원혈·락혈 등 분류 | [특정혈 지식망](../meridian-network/special-points/index.md) | 분류의 의미와 배합에서의 역할 |
 | 사람 대상 임상연구 | [침구 임상근거](../evidence-integrated/acupuncture-evidence.md) | 질환·비교군·치료 횟수·평가 결과 |
 

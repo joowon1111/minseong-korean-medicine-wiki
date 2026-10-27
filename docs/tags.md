@@ -34,7 +34,7 @@ search:
 - PMID
 - meta-analysis
 
-→ [통합 한의학 지식 그래프](network/integrated-knowledge-graph.md)  
+→ [통합 한의학 지식 그래프](network/index.md)
 → [핵심 주제 허브](pillar/index.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

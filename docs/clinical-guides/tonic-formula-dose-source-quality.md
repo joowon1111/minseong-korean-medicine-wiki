@@ -117,9 +117,9 @@ tags: [보약, 보익처방, 처방용량, 처방출전, 한약품질, 첩, 제,
 
 ## 대표 처방을 더 깊게 보기
 
-- [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
+- [보기·기혈쌍보 처방 계보](../network/tonic-formula-compare.md#formula-structure)
 - [보익 처방 비교](../network/tonic-formula-compare.md)
-- [보익·양생 허브](../network/tonic-wellness-hub.md)
+- [보익·양생 허브](../network/recovery-map.md)
 - [처방 구성 네트워크](../network/formula-composition-hub.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
 

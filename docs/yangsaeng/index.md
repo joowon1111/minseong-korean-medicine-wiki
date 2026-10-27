@@ -222,7 +222,7 @@ tags: [양생, 養生, 치미병, 治未病, 예방의학, 고전 원문, 만성
 | 먹는 양과 식후 불편을 함께 살피기 | [기능성소화불량의 원문·처방·일본 연구](../conditions/functional-dyspepsia.md#classical-function) |
 | 초기 움직임 변화와 일상기능 보존 | [근감소증·노쇠의 기능 관리](../conditions/frailty-sarcopenia.md#classical-functional-care) |
 | 병후 소화 적응과 회복 단계 | [수술 후 식사·장기능 연구](../conditions/postoperative-recovery.md#classical-gut-recovery) |
-| 양생과 보익의 역할 구분 | [보익·양생 허브](../network/tonic-wellness-hub.md#prevention-functional-care) |
+| 양생과 보익의 역할 구분 | [보익·양생 허브](../network/recovery-map.md#prevention-functional-care) |
 
 ## 출전과 인용 범위 {#sources}
 

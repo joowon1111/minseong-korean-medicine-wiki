@@ -73,7 +73,7 @@ This atlas indexes the existing canonical point pages and does not create a dupl
 - 여성·하복부: 삼음교 · 관원 · 기해 · 태충 · 혈해
 - 호흡기·비부: 중부 · 척택 · 열결 · 합곡 · 영향 · 인당
 
-→ [임상 핵심 배혈 조합](../network/acupoint-combinations.md)  
+→ [임상 핵심 배혈 조합](../network/acupuncture-clinical-map.md#_4)
 → [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 
 ## 치료와 연구

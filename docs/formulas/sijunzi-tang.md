@@ -104,6 +104,6 @@ last_reviewed: 2026-09-16
 탕제·산제·과립제는 같은 약미라도 추출률과 1일 원생약량이 다릅니다. 인삼은 실제 원료와 가공, 감초는 다른 처방·건강제품과의 중복을 확인합니다. 고혈압·부종·저칼륨혈증 위험이 있거나 이뇨제·스테로이드 등을 복용한다면 감초 총량과 복용기간을 살핍니다.
 
 ## 관련 문서
-- [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
+- [보기·기혈쌍보 처방 계보](../network/tonic-formula-compare.md#formula-structure)
 - [인삼을 쓰는 처방](../network/herb-to-formula-map.md#_2)
 - [임상 핵심 처방 100선과 수치·법제 확인점](../herbal-integrated/general-formulary.md#core-formulas-100)

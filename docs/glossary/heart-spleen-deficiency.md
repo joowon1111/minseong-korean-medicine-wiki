@@ -18,7 +18,7 @@ last_reviewed: 2026-08-19
 - [혈허](../diagnostics/blood-deficiency.md)
 - [귀비탕](../formulas/guibi-tang.md)
 - [산조인](../herbs/ziziphus-seed.md)
-- [불면 임상 지식망](../network/insomnia-map.md)
+- [불면 임상 지식망](../conditions/insomnia.md)
 
 !!! note "용어 해석"
     이 개념은 전통 한의학의 생리·병리 언어다. 현대 의학의 특정 질환이나 검사수치와 단순히 동일시하기보다 변증과 처방의 맥락 속에서 이해한다.

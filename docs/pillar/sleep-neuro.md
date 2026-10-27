@@ -73,7 +73,7 @@ last_reviewed: 2026-09-19
 | 피로·번조와 불면 함께 살피기 | [금궤요략·동의보감의 갈림점](../conditions/insomnia.md#classical-clinical-reading) | [산조인탕 처방별 연구](../authority/formulas/suanzaoren-tang.md#szrd-results); 입면·각성·낮 기능 |
 | 수면 리듬과 활동 회복 | [기거유상·활동과 회복](../yangsaeng/index.md#daily-rhythm) | [고령자 불면 운동시험](../conditions/insomnia.md#movement-sleep-trial); 수면효율·활동 지속 가능성 |
 
-[불면 지식망](../network/insomnia-map.md)은 변증·본초·처방의 연결을, [예방·기능 회복 연구 지도](../research/prevention-function.md)는 다른 분야의 비교시험을 찾는 데 사용합니다.
+[불면 지식망](../conditions/insomnia.md)은 변증·본초·처방의 연결을, [예방·기능 회복 연구 지도](../research/prevention-function.md)는 다른 분야의 비교시험을 찾는 데 사용합니다.
 
 ## 본초·방제·경혈 {#_4}
 
@@ -118,7 +118,7 @@ last_reviewed: 2026-09-19
 
 설문 점수와 수면·신경검사의 결과, 한 사람의 전후 변화와 비교군 대비 효과는 구분합니다. 전침 연구의 결과를 모든 약침·한약 또는 복합치료 전체의 효과로 옮기지 않습니다. 원 논문은 [불면 전침시험](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793930), [산조인탕 종합연구](https://pubmed.ncbi.nlm.nih.gov/36459033/), [편두통 예방시험](https://www.bmj.com/content/368/bmj.m697)에서 확인할 수 있습니다.
 
-[불면 임상 지식망](../network/insomnia-map.md) · [화병의 통합치료](../conditions/hwabyeong.md) · [현대 임상근거 허브](clinical-evidence.md)
+[불면 임상 지식망](../conditions/insomnia.md) · [화병의 통합치료](../conditions/hwabyeong.md) · [현대 임상근거 허브](clinical-evidence.md)
 
 ## 치료 계획과 경과를 연결합니다 {#symptom-care-routes}
 

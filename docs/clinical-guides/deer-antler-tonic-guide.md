@@ -27,7 +27,7 @@ tags: [녹용보약, 녹용, 보약, 보익, 기력회복, 맞춤한약]
 - [녹용(鹿茸) 약재 상세](../herbs/cervi-parvum-cornu.md)
 - [보익·회복 허브](../pillar/tonic-recovery.md)
 - [보익 처방 비교](../network/tonic-formula-compare.md)
-- [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
+- [보기·기혈쌍보 처방 계보](../network/tonic-formula-compare.md#formula-structure)
 
 <span id="quality-parts"></span>
 

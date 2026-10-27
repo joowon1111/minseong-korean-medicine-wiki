@@ -25,7 +25,7 @@ last_reviewed: 2026-08-19
 
 ### 익기양음 {#_5}
 
-[생맥산](../formulas/shengmai-san.md)은 인삼·맥문동·오미자로 기력과 진액 소모를 함께 살피고, [경옥고](../formulas/gyeongok-go.md)는 생지황즙·인삼·복령·봉밀의 고제로 보기·양음·건비·윤조를 결합합니다. 이름·제형·출전과 당류·복용량을 확인하며 [보기·기혈쌍보 계보](tonic-formula-lineage.md)와 [보익 처방 비교](tonic-formula-compare.md)로 이어집니다.
+[생맥산](../formulas/shengmai-san.md)은 인삼·맥문동·오미자로 기력과 진액 소모를 함께 살피고, [경옥고](../formulas/gyeongok-go.md)는 생지황즙·인삼·복령·봉밀의 고제로 보기·양음·건비·윤조를 결합합니다. 이름·제형·출전과 당류·복용량을 확인하며 [보기·기혈쌍보 계보](tonic-formula-compare.md#formula-structure)와 [보익 처방 비교](tonic-formula-compare.md)로 이어집니다.
 
 ## 2. 화담·이기 계열 {#2}
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-08-19
 | [온담탕](../formulas/wendan-tang.md) | 화담·이기와 위기불화 | 흉민·오심·심계·수면 동반; 귀비탕과 다른 구조 |
 | [소청룡탕](../formulas/xiaoqinglong-tang.md) | 표증에 수음이 겹친 배합 | 반하가 들어가도 단순 소화기 화담 처방과 같지 않음 |
 
-[반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)의 공통 포함 여부보다 짝약재와 용량을 봅니다. 담음은 가래나 특정 소화기 질환과 같은 뜻이 아니며 [담음 변증](../diagnostics/phlegm-fluid.md)·[소화불량 임상 지도](dyspepsia-map.md)에서 구체적 증후로 돌아갑니다.
+[반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)의 공통 포함 여부보다 짝약재와 용량을 봅니다. 담음은 가래나 특정 소화기 질환과 같은 뜻이 아니며 [담음 변증](../diagnostics/phlegm-fluid.md)·[소화불량 임상 지도](../conditions/dyspepsia.md)에서 구체적 증후로 돌아갑니다.
 
 ## 3. 해표제·상한론 처방군 {#3}
 
@@ -75,7 +75,7 @@ last_reviewed: 2026-08-19
 | [당귀수산](../formulas/danggui-susan.md) | 외상 뒤 멍·고정 압통 | 만성 허손 중심의 처방과 구분 |
 | [작약감초탕](../formulas/shaoyao-gancao-tang.md) | 근육 경련·당김·급박 | 관절·신경 질환 전체를 포괄하는 처방과 구분 |
 
-두충·우슬을 포함한다는 사실만으로 모든 디스크·관절염에 같은 보익 처방을 적용하지 않습니다. [통증의 원인·침구·운동](condition-expansion-map.md#_2)과 [근골격 처방 감별](formula-to-condition-map.md#_5)에서 다시 확인합니다.
+두충·우슬을 포함한다는 사실만으로 모든 디스크·관절염에 같은 보익 처방을 적용하지 않습니다. [통증의 원인·침구·운동](condition-to-treatment-map.md#_2)과 [근골격 처방 감별](formula-to-condition-map.md#_5)에서 다시 확인합니다.
 
 ## 6. 처방군 간 연결 {#6}
 

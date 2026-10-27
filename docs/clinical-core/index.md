@@ -47,9 +47,9 @@ tags: [임상한의학, 본초, 방제, 경혈]
 
 <!-- COMBINATION_NETWORK_14_START -->
 ## 임상 조합 네트워크
-- [임상 핵심 배혈 조합 지도](../network/acupoint-combinations.md)
+- [임상 핵심 배혈 조합 지도](../network/acupuncture-clinical-map.md#_4)
 - [임상 핵심 본초 배합 지도 — 약대](../network/herb-pair-combinations.md)
-- [방제·경혈 임상 조합 지도](../network/formula-acupoint-combinations.md)
+- [방제·경혈 임상 조합 지도](../network/acupuncture-clinical-map.md#combined-care)
 <!-- COMBINATION_NETWORK_14_END -->
 
 <!-- PATTERN_CLINICAL_CORE_15_START -->

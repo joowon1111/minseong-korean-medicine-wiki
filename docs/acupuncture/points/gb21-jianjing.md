@@ -75,7 +75,7 @@ tags: [경혈, 침구, 임상한의학]
 - [WHO 표준 361경혈 아틀라스](../../acupoint-network/standard-atlas.md)
 - [경맥→증상 임상 지도](../../acupoint-network/by-condition.md)
 - [특정혈 임상 지식망](../../meridian-network/special-points/index.md)
-- [임상 핵심 배혈](../../network/acupoint-combinations.md)
+- [임상 핵심 배혈](../../network/acupuncture-clinical-map.md#_4)
 - [침구 임상 지식망](../../network/acupuncture-clinical-map.md)
 
 ## 현대 연구를 읽는 법

@@ -89,13 +89,13 @@ last_reviewed: 2026-09-20
 | 부항·뜸 | 근육 긴장·냉감과 피부 상태, 출혈 위험·감각저하를 함께 확인 | [부항](../treatments/cupping.md) · [뜸](../treatments/moxibustion.md) |
 | 운동·재활·생활 조정 | 손상 단계에 맞춘 가동범위·근력·부하와 업무·수면 환경 조정 | [단계별 치료와 기능 회복](../acupuncture-integrated/musculoskeletal.md#recovery-stages) |
 
-근육·근막과 경혈의 연결은 [MPS 해부 아틀라스](../clinical-anatomy/mps-atlas.md), [경맥→증상 지도](../acupoint-network/by-condition.md), [핵심 배혈 조합](../network/acupoint-combinations.md)에서 확인합니다. 경혈 이름만으로 치료 부위·깊이·자극량을 정하지 않고 실제 진찰과 해부학적 구조를 함께 봅니다.
+근육·근막과 경혈의 연결은 [MPS 해부 아틀라스](../clinical-anatomy/mps-atlas.md), [경맥→증상 지도](../acupoint-network/by-condition.md), [핵심 배혈 조합](../network/acupuncture-clinical-map.md#_4)에서 확인합니다. 경혈 이름만으로 치료 부위·깊이·자극량을 정하지 않고 실제 진찰과 해부학적 구조를 함께 봅니다.
 
 ### 질환과 평가 지표에 맞춰 근거를 찾습니다 {#pain-evidence-routes}
 
 | 주제 | 대표 근거 문서 | 함께 읽을 결과 |
 |---|---|---|
-| 요통·하지 방사통 | [요통 임상 지식망](../network/low-back-pain-map.md) · [요통 임상근거](../conditions/low-back-pain.md#back-research) · [좌골신경통 근거](../conditions/sciatica.md#pain-research) | 허리와 다리 통증을 구분하고 기능·보행, 신경학적 상태를 확인 |
+| 요통·하지 방사통 | [요통 임상 지식망](../conditions/low-back-pain.md) · [요통 임상근거](../conditions/low-back-pain.md#back-research) · [좌골신경통 근거](../conditions/sciatica.md#pain-research) | 허리와 다리 통증을 구분하고 기능·보행, 신경학적 상태를 확인 |
 | 목·어깨·상지 통증 | [목통증 근거](../conditions/neck-pain.md#_8) · [상지 통증 근거 지도](../authority/conditions/upper-limb-pain-evidence-map.md) | 가동범위·옷 입기·팔 사용과 통증의 변화 |
 | 무릎·하지 통증 | [무릎 골관절염](../conditions/knee-pain.md#_9) · [하지 근골격 근거 지도](../authority/conditions/lower-limb-musculoskeletal-evidence-map.md) | 통증·WOMAC 기능·보행·계단과 평가 시점 |
 | 한약·처방 연구 | [근골격 한약 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md) | 연구한 제제·대상·비교약·병용 조건과 실제 처방의 차이 |

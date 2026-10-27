@@ -36,14 +36,14 @@ last_reviewed: 2026-09-06
 ## 감별
 
 → [어혈성 통증 vs 한습성 통증](../../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)  
-→ [요통 임상 연결](/network/low-back-pain-map/)
+→ [요통 임상 연결](/conditions/low-back-pain/)
 → [근골격 통증 한약 처방 찾기](../../herbal-integrated/formula-for-pain.md)
 
 ## 경혈과 함께 보기
 
 대장수 BL25 · 위중 BL40 · 곤륜 BL60 · 양릉천 GB34 · 태계 KI3
 
-→ [방제·경혈 임상 조합](../../network/formula-acupoint-combinations.md)
+→ [방제·경혈 임상 조합](../../network/acupuncture-clinical-map.md#combined-care)
 
 ## 관절·골밀도·회복을 이어서 보기 {#joint-bone-care}
 

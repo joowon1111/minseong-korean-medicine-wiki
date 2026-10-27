@@ -24,7 +24,7 @@ last_reviewed: 2026-09-18
 | [팔물탕](../formulas/bazhen-tang.md) | 사군자탕과 사물탕의 골격을 합친 기혈쌍보 | [병후 회복](../conditions/post-hospitalization-recovery.md) |
 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 기혈양허에 냉감·오래된 쇠약을 함께 보는 온보의 방향 | [노인보약](../conditions/elderly-tonic.md)·[수술 후 회복](../conditions/postoperative-recovery.md) |
 
-소화 증상이 갈림점이면 [사군자탕과 육군자탕](../compare/sijunzi-vs-liujunzi.md), 보기와 기혈쌍보의 차이가 궁금하면 [보중익기탕과 십전대보탕](../compare/buzhong-vs-sipjeondaebo.md)을 비교합니다. 처방의 구성 계보는 [보기·기혈쌍보 처방 계보](tonic-formula-lineage.md)에 정리되어 있습니다.
+소화 증상이 갈림점이면 [사군자탕과 육군자탕](../compare/sijunzi-vs-liujunzi.md), 보기와 기혈쌍보의 차이가 궁금하면 [보중익기탕과 십전대보탕](../compare/buzhong-vs-sipjeondaebo.md)을 비교합니다. 처방의 구성 계보는 [보기·기혈쌍보 처방 계보](tonic-formula-compare.md#formula-structure)에 정리되어 있습니다.
 
 ## 허손·회복 {#_3}
 
@@ -79,4 +79,4 @@ last_reviewed: 2026-09-18
 | [소시호탕](../formulas/xiaochaihu-tang.md) | 소양병, 왕래한열·흉협고만·오심 등의 맥락 | [상한론 육경변증](../classics/shanghan-six-channels.md) |
 | [오령산](../formulas/wuling-san.md) | 수기불리, 갈증·소변·수분 분포의 관계 | [부종](../conditions/edema-swelling.md)·[오령산 구성](formula-composition-hub.md#wuling) |
 
-각 처방의 고전 설명과 현대 연구는 대상·구성·평가지표를 구분해 읽습니다. 원문에서 연구로 넘어가는 방법은 [고전→현대 연구 연결](classic-to-evidence-map.md), 전체 관계는 [통합 한의학 지식 그래프](integrated-knowledge-graph.md)를 참고합니다.
+각 처방의 고전 설명과 현대 연구는 대상·구성·평가지표를 구분해 읽습니다. 원문에서 연구로 넘어가는 방법은 [고전→현대 연구 연결](classic-to-evidence-map.md), 전체 관계는 [통합 한의학 지식 그래프](index.md)를 참고합니다.

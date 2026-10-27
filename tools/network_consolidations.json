@@ -664,5 +664,122 @@
       "assessment": "conditions/palpitation.md#assessment",
       "formula-context": "conditions/palpitation.md#herbal-treatment"
     }
+  },
+  "network/insomnia-map.md": {
+    "target": "conditions/insomnia.md",
+    "anchors": {
+      "_1": "conditions/insomnia.md",
+      "sleep-pattern-reading": "conditions/insomnia.md#_2",
+      "1": "conditions/insomnia.md#formula-composition",
+      "2": "conditions/insomnia.md#formula-composition",
+      "3": "conditions/insomnia.md#formula-composition",
+      "sleep-integrated-goals": "conditions/insomnia.md#_8",
+      "_2": "conditions/insomnia.md#classical-clinical-reading"
+    }
+  },
+  "network/dyspepsia-map.md": {
+    "target": "conditions/dyspepsia.md",
+    "anchors": {
+      "_1": "conditions/dyspepsia.md",
+      "1": "conditions/dyspepsia.md#formula-comparison",
+      "2": "conditions/dyspepsia.md#formula-comparison",
+      "3": "conditions/dyspepsia.md#formula-comparison",
+      "fd-pattern-difference": "conditions/dyspepsia.md#formula-comparison",
+      "_2": "conditions/dyspepsia.md#formula-comparison",
+      "digestive-care-goals": "conditions/dyspepsia.md"
+    }
+  },
+  "network/low-back-pain-map.md": {
+    "target": "conditions/low-back-pain.md",
+    "anchors": {
+      "_1": "conditions/low-back-pain.md",
+      "_2": "conditions/low-back-pain.md#_3",
+      "_3": "conditions/low-back-pain.md#_2",
+      "_4": "conditions/low-back-pain.md#_5",
+      "_5": "conditions/low-back-pain.md#herbal-care",
+      "_6": "conditions/low-back-pain.md#acupuncture-care",
+      "_7": "conditions/low-back-pain.md#_12",
+      "_8": "conditions/low-back-pain.md#differential-routes",
+      "_9": "conditions/low-back-pain.md#_21"
+    }
+  },
+  "network/tonic-wellness-hub.md": {
+    "target": "network/recovery-map.md",
+    "anchors": {
+      "_1": "network/recovery-map.md",
+      "prevention-functional-care": "network/recovery-map.md#prevention-functional-care",
+      "_2": "network/recovery-map.md",
+      "1": "network/recovery-map.md#1",
+      "2": "network/recovery-map.md#2",
+      "3": "network/recovery-map.md#3",
+      "4": "network/recovery-map.md#4",
+      "_3": "network/tonic-formula-compare.md",
+      "tonic-followup-goals": "network/recovery-map.md#recovery-followup",
+      "_4": "network/recovery-map.md"
+    }
+  },
+  "network/tonic-formula-lineage.md": {
+    "target": "network/tonic-formula-compare.md#formula-structure",
+    "anchors": {
+      "_1": "network/tonic-formula-compare.md#formula-structure",
+      "1": "network/tonic-formula-compare.md#formula-structure",
+      "_2": "network/tonic-formula-compare.md#formula-structure",
+      "2": "network/tonic-formula-compare.md#formula-structure",
+      "3": "network/tonic-formula-compare.md#formula-structure",
+      "_3": "network/tonic-formula-compare.md#formula-structure",
+      "4": "network/tonic-formula-compare.md#formula-structure",
+      "5": "network/tonic-formula-compare.md#formula-structure",
+      "_4": "network/tonic-formula-compare.md#formula-structure",
+      "_5": "network/tonic-formula-compare.md#formula-structure"
+    }
+  },
+  "network/integrated-knowledge-graph.md": {
+    "target": "network/index.md",
+    "anchors": {
+      "_1": "network/index.md",
+      "_2": "network/index.md#_3",
+      "_3": "network/index.md#_3",
+      "_4": "network/index.md#_2",
+      "_5": "network/index.md#_5",
+      "_6": "network/physician-classic-formula-lineage.md",
+      "_7": "network/classic-to-evidence-map.md#evidence-reading"
+    }
+  },
+  "network/condition-expansion-map.md": {
+    "target": "network/condition-to-treatment-map.md",
+    "anchors": {
+      "_1": "network/condition-to-treatment-map.md",
+      "_2": "network/condition-to-treatment-map.md#_2",
+      "_3": "network/condition-to-treatment-map.md#neurology",
+      "_4": "network/condition-to-treatment-map.md#respiratory",
+      "_5": "network/condition-to-treatment-map.md#womens-health",
+      "_6": "network/condition-to-treatment-map.md"
+    }
+  },
+  "network/acupoint-combinations.md": {
+    "target": "network/acupuncture-clinical-map.md#_4",
+    "anchors": {
+      "_1": "network/acupuncture-clinical-map.md#_4",
+      "_2": "network/acupuncture-clinical-map.md#_4",
+      "_3": "network/acupuncture-clinical-map.md#_4",
+      "_4": "network/acupuncture-clinical-map.md#_4",
+      "_5": "network/acupuncture-clinical-map.md#_4",
+      "_6": "network/acupuncture-clinical-map.md#_4",
+      "_7": "network/acupuncture-clinical-map.md#_4",
+      "_8": "network/acupuncture-clinical-map.md#_4",
+      "_9": "network/acupuncture-clinical-map.md#_4"
+    }
+  },
+  "network/formula-acupoint-combinations.md": {
+    "target": "network/acupuncture-clinical-map.md#combined-care",
+    "anchors": {
+      "_1": "network/acupuncture-clinical-map.md#combined-care",
+      "_2": "network/acupuncture-clinical-map.md#combined-care",
+      "_3": "network/acupuncture-clinical-map.md#combined-care",
+      "_4": "network/acupuncture-clinical-map.md#combined-care",
+      "_5": "network/acupuncture-clinical-map.md#combined-care",
+      "_6": "network/acupuncture-clinical-map.md#combined-care",
+      "_7": "network/acupuncture-clinical-map.md#combined-care"
+    }
   }
 }

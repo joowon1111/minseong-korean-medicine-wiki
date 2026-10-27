@@ -132,7 +132,7 @@ last_reviewed: 2026-09-16
 
 - [산후보약에서 팔물탕과 다른 처방 비교](../conditions/postpartum-herbal.md#formula-selection)
 - [보익·피로·회복 한의학 허브](../pillar/tonic-recovery.md)
-- [보기·기혈쌍보 처방 계보](../network/tonic-formula-lineage.md)
+- [보기·기혈쌍보 처방 계보](../network/tonic-formula-compare.md#formula-structure)
 - [사물탕·기혈쌍보 계열](../formula-architecture/siwu-qi-blood-family.md)
 - [수치·법제·용량 기록 표준](../herbal-integrated/evidence.md#processing-standard)
 

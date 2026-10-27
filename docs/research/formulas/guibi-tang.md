@@ -32,7 +32,7 @@ last_reviewed: 2026-08-19
 2. Li M, et al. *Guipi decoction for insomnia: Systematic review and meta-analysis.* 2020. **연구계획**. [PMID 32629727](https://pubmed.ncbi.nlm.nih.gov/32629727/).
 3. Sheng CX, et al. *Is the Chinese medicinal formula Guipi Decoction effective as an adjunctive treatment for depression?* 2017 (online 2015). [PMID 26453561](https://pubmed.ncbi.nlm.nih.gov/26453561/).
 
-→ [불면 임상 지식망](../../network/insomnia-map.md)
+→ [불면 임상 지식망](../../conditions/insomnia.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

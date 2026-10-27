@@ -55,6 +55,12 @@ last_reviewed: 2026-09-29
 | **염증성 요통** | 젊은 연령에 시작, 새벽통·장시간 조조강직, 움직이면 호전 | 척추관절염 |
 | **내장 연관통** | 자세와 무관하거나 복부·비뇨기 증상 동반 | 신장·요로·복부 질환 |
 
+### 허리 밖의 증상까지 이어서 구분하기 {#differential-routes}
+
+양발 끝부터 대칭적으로 저리면 [발·하지 저림](foot-numbness.md)에서 말초신경·영양·대사·약물 원인을 함께 확인합니다. 허리보다 등 가운데나 갈비뼈 주변이 아프면 [흉추·등통증](thoracic-back-pain.md), 엉덩이에서 다리로 뻗는 원인이 불분명하면 [좌골신경통](sciatica.md)에서 신경근·심부둔부·고관절의 차이를 살핍니다.
+
+한쪽 다리가 갑자기 차고 창백해지거나 맥박이 약해지는 변화는 일반적인 신경통으로 넘기지 않고 신속히 평가합니다. [통증 위험신호](../clinical-safety/pain-red-flags.md)
+
 ### 통증 유형별 치료 방향 {#pain-type-treatment}
 
 아래 구분은 진찰에서 치료의 우선순위를 정하는 틀입니다. 자세 하나로 원인을 확정하지 않으며 디스크·관절·근육 문제가 함께 있을 수도 있습니다.
@@ -383,13 +389,17 @@ ACP 2017 지침은 만성요통의 초기 비약물치료에 침을 포함하며
 
 ## 관련 문서 {#_20}
 
-- [요통 임상 지식망](../network/low-back-pain-map.md)
+- [요통 경혈·배혈·해부학](../network/low-back-pain-acupoints.md)
 - [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 - [비증·근골격 처방](../formula-architecture/bi-syndrome-family.md)
 - [무릎통증](./knee-pain.md)
 - [전신통증 R52 안내](../symptom-herbal-guide/systemic-skin/r52-generalized-pain.md)
 
 ## 근거와 참고자료 {#_21}
+
+- Brinjikji W, et al. Imaging features of spinal degeneration in asymptomatic populations. [PMID 25430861](https://pubmed.ncbi.nlm.nih.gov/25430861/).
+- NICE. [Low back pain and sciatica, NG59](https://www.nice.org.uk/guidance/ng59).
+- AAOS. [Herniated Disk in the Lower Back](https://www.orthoinfo.org/diseases--conditions/herniated-disk-in-the-lower-back/).
 
 - World Health Organization. [Guideline for non-surgical management of chronic primary low back pain](https://www.who.int/publications/i/item/9789240081789). 2023.
 - Qaseem A, et al. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain. *Ann Intern Med*. 2017.

@@ -11,7 +11,7 @@ last_reviewed: '2026-09-05'
 → [침구·한의치료 허브](../pillar/acupuncture-treatment.md)  
 → [침구 임상 지식망](../network/acupuncture-clinical-map.md)  
 → [경맥→증상 임상 지도](../acupoint-network/by-condition.md)  
-→ [임상 핵심 배혈](../network/acupoint-combinations.md)
+→ [임상 핵심 배혈](../network/acupuncture-clinical-map.md#_4)
 
 ## 무엇을 확인하고 싶나요? {#_2}
 
@@ -20,7 +20,7 @@ last_reviewed: '2026-09-05'
 | 아픈 부위에 어떤 경맥이 연결되나요? | [경맥→증상 지도](../acupoint-network/by-condition.md) | 부위·동작·증상과 국소·원위 배혈 |
 | 특정 경혈의 위치와 의미는 무엇인가요? | [표준 경혈 아틀라스](../acupoint-network/standard-atlas.md) | 경혈 코드·위치·특정혈 분류 |
 | 침과 전침·약침은 어떻게 다른가요? | [침구·한의치료 허브](../pillar/acupuncture-treatment.md) | 자극 방식과 치료 목적 |
-| 여러 경혈은 왜 함께 쓰나요? | [핵심 배혈](../network/acupoint-combinations.md) | 치료 목표와 배합의 이유 |
+| 여러 경혈은 왜 함께 쓰나요? | [핵심 배혈](../network/acupuncture-clinical-map.md#_4) | 치료 목표와 배합의 이유 |
 | 연구 결과와 출처를 보고 싶어요 | [침구 임상근거](../evidence-integrated/acupuncture-evidence.md) | 대상 질환·대조군·평가 시점 |
 
 ## 경혈 선택을 이해하는 네 가지 관점 {#point-selection}

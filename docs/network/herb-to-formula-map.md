@@ -140,4 +140,4 @@ last_reviewed: 2026-08-19
 
 약재의 공통점은 **처방을 비교할 출발점**이지 같은 치료 효과를 보장하는 근거는 아닙니다. 원료의 종류·포제·비율·함께 쓰는 약재가 달라지면 처방 전체의 성격도 달라집니다. 여러 한약·보충제를 함께 복용한다면 이름이 다른 제품에 같은 성분이 겹치는지도 [병용 상담 안내](../conditions/supplements-herbal-medicine.md)에서 확인합니다.
 
-구성을 확인했다면 [방제→질환·변증 지도](formula-to-condition-map.md)에서 임상적 맥락을 비교하고, 증상에서 다시 찾아가려면 [질환·증상→치료 임상 지도](condition-to-treatment-map.md)를 이용합니다. 전체 탐색 방향은 [통합 한의학 지식 그래프](integrated-knowledge-graph.md)에 정리했습니다.
+구성을 확인했다면 [방제→질환·변증 지도](formula-to-condition-map.md)에서 임상적 맥락을 비교하고, 증상에서 다시 찾아가려면 [질환·증상→치료 임상 지도](condition-to-treatment-map.md)를 이용합니다. 전체 탐색 방향은 [통합 한의학 지식 그래프](index.md)에 정리했습니다.

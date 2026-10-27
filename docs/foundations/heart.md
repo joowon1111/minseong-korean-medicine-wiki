@@ -19,7 +19,7 @@ last_reviewed: 2026-08-19
 ## 관련 문서
 - [산조인](../herbs/ziziphus-seed.md)
 - [귀비탕](../formulas/guibi-tang.md)
-- [불면 임상 지식망](../network/insomnia-map.md)
+- [불면 임상 지식망](../conditions/insomnia.md)
 - [심비양허](../glossary/heart-spleen-deficiency.md)
 
 ## 고전 연결

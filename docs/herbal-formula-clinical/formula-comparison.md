@@ -63,7 +63,7 @@ description: 사군자탕·육군자탕·향사육군자탕, 사물탕·팔물�
 
 귀비탕의 초기 《제생방》 8미에는 당귀·원지가 없으며 [《동의보감》형](../formulas/guibi-tang.md#donguibogam-version)과 구분합니다. 산조인탕도 [금궤요략형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 동명방](../formulas/suanzaoren-tang.md#donguibogam-version)이 다릅니다. 온담탕은 [삼인방의 구성·약량](../formulas/wendan-tang.md#source-dose-original)과 동의보감형을 각각 확인합니다.
 
-현재 불면의 감별·수면일지·인지행동치료와의 병행은 [불면 기본 문서](../conditions/insomnia.md#classical-clinical-reading)에서, 산조인탕 자체의 연구는 [처방별 수면 결과](../authority/formulas/suanzaoren-tang.md#szrd-results)에서 읽습니다. 산조인을 공통으로 포함한다고 귀비탕에 산조인탕 시험 결과를 적용하지 않습니다. [불면 지식망](../network/insomnia-map.md)은 동반 양상에서 본초·처방·출전으로 돌아가는 길을 안내합니다.
+현재 불면의 감별·수면일지·인지행동치료와의 병행은 [불면 기본 문서](../conditions/insomnia.md#classical-clinical-reading)에서, 산조인탕 자체의 연구는 [처방별 수면 결과](../authority/formulas/suanzaoren-tang.md#szrd-results)에서 읽습니다. 산조인을 공통으로 포함한다고 귀비탕에 산조인탕 시험 결과를 적용하지 않습니다. [불면 지식망](../conditions/insomnia.md)은 동반 양상에서 본초·처방·출전으로 돌아가는 길을 안내합니다.
 
 ## 관련 핵심 문서
 

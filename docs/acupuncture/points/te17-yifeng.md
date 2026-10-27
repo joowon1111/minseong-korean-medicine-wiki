@@ -41,7 +41,7 @@ tags: [경혈, 수소양삼초경, 특정혈, 침구]
 - [WHO 표준 361경혈 아틀라스](../../acupoint-network/standard-atlas.md)
 - [경맥→증상 임상 지도](../../acupoint-network/by-condition.md)
 - [특정혈 임상 지식망](../../meridian-network/special-points/index.md)
-- [임상 핵심 배혈](../../network/acupoint-combinations.md)
+- [임상 핵심 배혈](../../network/acupuncture-clinical-map.md#_4)
 - [침구 임상 지식망](../../network/acupuncture-clinical-map.md)
 
 ## 현대 연구를 읽는 법
@@ -122,7 +122,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 
 - [경혈 임상 지식망](../../acupoint-network/index.md)
 - [경락·경맥 지식망](../../meridian-network/index.md)
-- [임상 핵심 배혈 조합](../../network/acupoint-combinations.md)
+- [임상 핵심 배혈 조합](../../network/acupuncture-clinical-map.md#_4)
 - [현대 임상근거](../../pillar/clinical-evidence.md)
 
 

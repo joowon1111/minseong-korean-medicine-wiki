@@ -65,7 +65,7 @@ last_reviewed: 2026-08-19
 - **담습·오심·몸 무거움:** [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)의 역할과 [스트레스성 소화불편](../autonomic/stress-digestion.md)의 양상을 함께 읽습니다.
 - **습체·그득함 또는 과식 뒤 정체:** [평위산](../formulas/pingwei-san.md)·[보화환](../formulas/baohe-wan.md)의 차이를 봅니다.
 - **명치 비만에 오심·장명·설사:** [반하사심탕](../formulas/banxia-xiexin-tang.md)의 상하부 증후와 한열 조합을 읽습니다.
-- **흉민·오심·담음과 수면 불편:** [온담탕](../formulas/wendan-tang.md)과 [소화불량 임상 지식망](dyspepsia-map.md)으로 연결합니다.
+- **흉민·오심·담음과 수면 불편:** [온담탕](../formulas/wendan-tang.md)과 [소화불량 임상 지식망](../conditions/dyspepsia.md)으로 연결합니다.
 
 처방과 침을 함께 사용할 때는 무엇을 목표로 각각 적용하는지 정합니다. 한약의 제형·구성·가감과 임신·수유·복용약·간신장 상태를 확인하며, 침 연구의 효과 수치를 한약·약침의 효과로 바꾸어 설명하지 않습니다.
 
@@ -119,4 +119,4 @@ Annals 시험의 [대상·반응률·추적과 한계](../conditions/functional-
 3. Liu S, et al. [Transcutaneous electroacupuncture and dyspeptic symptoms·HRV](https://pubmed.ncbi.nlm.nih.gov/18694444/). 2008. 경피 자극 연구.
 4. 국가한의임상정보포털. [기능성소화불량 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14). 경혈별 상세의 지침·원문 연결 참고.
 
-[소화불량 임상 지식망](dyspepsia-map.md) · [소화불량 기본 안내](../conditions/dyspepsia.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) · [침구 임상 지식망](acupuncture-clinical-map.md)
+[소화불량 임상 지식망](../conditions/dyspepsia.md) · [소화불량 기본 안내](../conditions/dyspepsia.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) · [침구 임상 지식망](acupuncture-clinical-map.md)

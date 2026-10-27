@@ -32,7 +32,7 @@ last_reviewed: 2026-08-19
 습식 부항은 피부를 자극하는 시술이므로 위생·감염관리와 출혈 위험 평가가 중요하다.
 
 ## 관련 문서
-- [요통 임상 지식망](../network/low-back-pain-map.md)
+- [요통 임상 지식망](../conditions/low-back-pain.md)
 - [침 치료](acupuncture.md)
 
 ## 참고문헌
