@@ -29,6 +29,7 @@ last_reviewed: 2026-09-18
 | 갑자기 목이 굳고 회전이 제한되며 견배부가 당김 | 순기소풍·산한서근 | [회수산](../formulas/huishou-san.md) |
 | 목덜미·등 강직에 오한·무한·몸살이 겹침 | 해표·서근 | [갈근탕](../formulas/gegen-tang.md) |
 | 항배강에 땀·오풍이 있고 영위불화 단서가 있음 | 해기조영위·서근 | [계지가갈근탕](../formulas/guizhi-jia-gegen-tang.md) |
+| 허리를 들기·비틀기 뒤 삐끗하고 국소 통증이 뚜렷함 | 활혈행기·온통·강근골 | [여신탕](../formulas/yeosin-tang.md) |
 | 삐거나 부딪힌 뒤 멍·고정통이 남음 | 활혈거어·이기지통 | [당귀수산](../formulas/danggui-susan.md) |
 | 차고 습할 때 심하고 몸이 무거우며 여러 부위가 뻣뻣함 | 산한조습·이기활혈 | [오적산](../formulas/wuji-san.md) |
 | 감기·외감 뒤 오한·몸살과 관절통이 함께 나타남 | 해표·거풍습 | [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) 등 |
@@ -45,6 +46,10 @@ last_reviewed: 2026-09-18
 사람 대상 연구를 함께 보려면 [통증·근골격 한약 현대 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md)에서 요통·목·무릎·염좌·경련별 연구와 실제 평가 지표를 확인할 수 있습니다.
 
 독활기생탕은 이 가운데 **오래된 풍한습비에 간신·기혈의 허약이 겹친 경우를 설명하는 한 처방**입니다. 통증이 오래됐다는 이유만으로 먼저 선택하지 않고, 외상성 어혈·한습·경련·신경학적 증상과 기능 저하를 각각 비교합니다.
+
+### 습열성 통증과 용담사간탕 {#damp-heat-pain}
+
+통증의 **열감·화끈거림에 하초 습열 증후가 동반**되면 [용담사간탕](../formulas/longdan-xiegan-tang.md#damp-heat-pain)의 청간사화·청리습열 배합도 비교합니다. 음부 소양·열감, 소변불편·분비물 변화가 구체적인 단서입니다. 관절 자체의 열감·종창을 살피는 월비가출탕과 함께, **통증이 생긴 조직과 동반 증상**에 따라 선택 관점을 넓힙니다. 일본 TJ-76의 공식 적응 증상인 배뇨통·잔뇨감·혼탁뇨·대하는 처방 상세 문서에서 구성과 함께 확인할 수 있습니다.
 
 ### 월비가출탕과 작약감초탕: 관절과 근육의 갈림점 {#joint-versus-muscle-pain}
 
@@ -109,11 +114,41 @@ last_reviewed: 2026-09-18
 | 쥐·경련·당김 | [백작약](../herbs/white-peony.md)·[감초](../herbs/licorice.md) | [작약감초탕](../formulas/shaoyao-gancao-tang.md)의 완급지통 구조와 실제 근육경련 여부를 확인 |
 | 오래된 요슬부 무력·근골 허약 | [두충](../herbs/eucommia.md)·[우슬](../herbs/achyranthes.md)·[속단](../herbs/dipsacus.md) | 보간신·강근골을 회복 저하와 연결하되 급성 손상 처방과 구분 |
 
-같은 본초도 처방에 따라 역할이 달라집니다. 예를 들어 우슬은 근골을 보하는 배합뿐 아니라 활혈·하행을 돕는 배합에도 들어가고, 천궁은 외상통·월경통·두통 처방에서 함께 쓰는 약재가 달라집니다. 따라서 약재를 ‘관절에 좋은 한약재’ 하나의 범주로 묶거나 단독 복용 대상으로 읽지 않습니다.
+### 속단·두충·우슬·위령선·현호색·오가피·창출 {#seven-pain-herbs}
+
+아래는 **전통 본초 효능을 통증 진찰과 처방 배합에 연결한 설명**입니다. 강근골은 근골 허약을 보완하는 치법, 통락은 경락의 막힘과 움직임 불편을 풀어가는 치법입니다. 임상에서는 통증과 함께 보행·가동범위·근력·회복 상태를 평가합니다.
+
+| 본초·약용부위 | 통증에서 맡는 역할 | 함께 살피는 양상·배합 |
+|---|---|---|
+| [속단](../herbs/dipsacus.md) · 뿌리 | **보간신·강근골·속절상**: 근골 허약과 손상 후 회복을 함께 살핌 | 오래된 요슬산연과 손상 회복기. 두충·우슬과 비교하며 [여신양영전의 배합](../conditions/low-back-pain.md#blood-deficiency-lumbar-formulas)으로 연결 |
+| [두충](../herbs/eucommia.md) · 수피 | **보간신·강근골**: 허리·무릎의 시큰함과 무력감을 보완하는 축 | [여신탕](../formulas/yeosin-tang.md)에서는 현호색·당귀·계심의 통증 조절을 받치고, 독활기생탕에서는 만성 비증의 허약을 보완 |
+| [우슬](../herbs/achyranthes.md) · 뿌리 | **활혈통경·강근골·인혈하행**: 혈행과 요슬·하지의 방향을 함께 봄 | 소경활혈탕에서는 도인·천궁 등과 활혈통락, 독활기생탕에서는 두충·상기생과 근골 보강. 기원·포제에 따라 배합 비중 확인 |
+| [위령선](../herbs/clematis-root.md) · 뿌리·뿌리줄기 | **거풍습·통락지통**: 풍습성 통증과 굽힘·폄의 불편을 다룸 | 소경활혈탕에서 강활·방풍과 거풍습, 당귀·작약·지황과 혈분 조절을 함께 구성 |
+| [현호색](../herbs/corydalis.md) · 덩이줄기 | **활혈행기·지통**: 기체와 어혈이 겹친 고정통·창통을 살핌 | 여신탕의 좌섬요통 배합. 당귀와 혈분, 계심과 온통, 두충과 근골을 함께 연결 |
+| [오가피](../herbs/acanthopanax-bark.md) · 규격에 따른 뿌리껍질 등 | **거풍습·보간신·강근골**: 풍습성 불편과 근골 허약을 함께 봄 | 두충의 보익축·위령선의 통락축과 비교. 오가피장척탕은 태양인의 소증·현증을 따로 평가하는 사상처방 |
+| [창출](../herbs/atractylodes-lancea.md) · 뿌리줄기 | **조습건비·거풍산한**: 무겁고 뻣뻣한 통증과 중초의 습체를 함께 다룸 | 오적산에서는 한습·소화불편, 소경활혈탕에서는 풍습·혈분 배합을 보조. 구갈·건조와 소화 반응도 관찰 |
+
+**속단·두충·우슬의 차이:** 두충은 요슬 허약을 보하는 축, 속단은 근골과 손상 회복의 연결, 우슬은 활혈과 하행까지 함께 읽습니다. **위령선·오가피·창출의 차이:** 위령선은 통락지통, 오가피는 풍습과 근골 허약, 창출은 습체와 비위 운화에 각각 무게가 있습니다. 현호색은 이들과 배합하면서 기혈의 울체로 생기는 통증을 조절하는 역할을 맡습니다.
+
+### 실제 처방 안에서 함께 읽기 {#pain-herb-pairings}
+
+| 처방·배합 | 약재들이 함께 맡는 역할 |
+|---|---|
+| [소경활혈탕](../formulas/shujing-huoxue-tang.md#source-dose-original)의 우슬·위령선·창출 | 우슬의 혈행·요슬, 위령선의 통락, 창출의 조습을 당귀·작약·지황의 혈분 배합과 결합 |
+| [여신탕](../formulas/yeosin-tang.md)의 현호색·당귀·계심·두충 | 좌섬요통에서 활혈행기와 온통, 근골 보강을 간결하게 구성 |
+| [여신양영전](../conditions/low-back-pain.md#blood-deficiency-lumbar-formulas)의 속단·두충·우슬 | 보혈약을 바탕으로 강근골과 활혈의 비중을 함께 배치 |
+| [오적산](../formulas/wujisan.md)의 창출과 온중·혈분 약재 | 냉감·무거움, 소화불편과 근육·관절통이 겹친 복합 증후를 다룸 |
+| [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md)의 오가피·모과·송절 | 태양인 요척·하지 기능을 살피는 사상처방의 구성으로 이해 |
+
+소경활혈탕의 우슬·위령선·창출은 일본 TJ-53 공식 구성표에서도 확인할 수 있습니다. 실제 원방·가감방과 국내외 제품의 기원·포제·배합비를 대조하면 약재가 맡는 역할을 더 정확히 이해할 수 있습니다. [일본 TJ-53 구성표](https://www.tsumura.co.jp/english/products/pi/JPR_T053.pdf) · [방약합편 여신탕 구성](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=303)
+
+배합을 정할 때는 임신·출혈 상태와 항응고제 등 복용약, 간·신장기능을 함께 확인합니다. 오가피와 가시오가피, 창출과 백출은 실제 규격을 구분하며, 부자를 포함한 온통 처방은 포제·용량과 병용약을 확인해 사용합니다. 구체적인 확인점은 각 본초·처방 문서에 연결했습니다.
 
 → [본초 찾기 — 활혈·거어](herbs.md#_5) · [보혈·활혈 본초 비교](../herbs/categories/blood.md) · [해표·외감·몸살](herbs.md#exterior-herbs) · [보기·보혈·보음·보양](herbs.md#_1)
 
 ## 통증 부위와 기능에서 이어서 찾기 {#_6}
+
+통증 허브의 [허리](../symptom-integrated/pain.md#low-back-herbal-options)·[목](../symptom-integrated/pain.md#neck-herbal-options)·[어깨](../symptom-integrated/pain.md#shoulder-herbal-options)·[무릎](../symptom-integrated/pain.md#knee-herbal-options)·[팔꿈치](../symptom-integrated/pain.md#elbow-herbal-options)·[손목](../symptom-integrated/pain.md#wrist-herbal-options)·[발목](../symptom-integrated/pain.md#ankle-herbal-options)·[발뒤꿈치](../symptom-integrated/pain.md#heel-herbal-options)에서 동반 양상별 처방을 비교할 수 있습니다.
 
 | 주로 불편한 곳 | 먼저 확인할 문서 |
 |---|---|
@@ -148,6 +183,22 @@ last_reviewed: 2026-09-18
 - [GCSB-5와 celecoxib 비교 무작위시험, PMID 23954277](https://pubmed.ncbi.nlm.nih.gov/23954277/)
 - [근골격 통증 처방 임상 지식망](../formulas/categories/wind-damp-musculoskeletal.md)
 
+### 위령선·괄루근·하고초: 조인스정과 염증·관절통 연구 {#joins-three-herbs}
+
+**조인스정200 mg은 위령선·괄루근·하고초의 30% 에탄올 건조엑스(40→1) 200 mg을 함유한 전문의약품**입니다. 제조사 제품정보에는 골관절증과 류마티스관절염의 증상 완화가 효능·효과로 기재되어 있습니다. 한의학에서 사용하는 세 본초가 표준화 복합 추출물 연구와 관절염 진료로 이어진 사례입니다. [제조사 성분·효능 정보](https://www.skchemicals.com/ls/product_view.aspx?serno=924)
+
+| 구성 본초 | 전통 효능과 배합에서 읽는 역할 |
+|---|---|
+| [위령선](../herbs/clematis-root.md) | 거풍습·통락지통: 풍습성 관절·근육 통증과 움직임 불편을 살핌 |
+| [괄루근·천화분](../herbs/trichosanthes-root.md) | 청열생진·소종배농: 열·진액 소모와 종창을 함께 살핌. 과루근으로도 검색되는 뿌리 약재 |
+| **하고초(夏枯草)** | 청화·명목·산결소종: 열과 뭉침·종창을 다루는 본초. 꿀풀의 말린 과수 등 실제 약용부위·규격을 확인 |
+
+전통적 역할은 **통락지통과 청열·소종의 조합**으로 이해할 수 있습니다. [괄루근의 전통 효능](https://herbaltcm.sn.polyu.edu.hk/tc/herbal/snakegourd-root) · [하고초의 기원·효능](https://herbaltcm.sn.polyu.edu.hk/tc/herbal/common-selfheal-fruit-spike)
+
+**염증 관련 기전:** Hartog 등의 *Phytomedicine* 2008년 연구는 소 연골 조직과 사람 말초혈액 단핵세포를 이용한 실험입니다. SKI306X에서 연골 기질 분해와 PGE₂·TNF-α·IL-1β 등 염증 매개물질 생성의 억제가 관찰됐습니다. 염증 조절과 연골 보호 가능성을 설명하는 **실험실 연구**이며, 환자의 통증·기능 개선은 아래 임상시험에서 확인합니다. [PMID 17949960](https://pubmed.ncbi.nlm.nih.gov/17949960/) · [DOI 10.1016/j.phymed.2007.09.005](https://doi.org/10.1016/j.phymed.2007.09.005)
+
+**무릎 골관절염 임상자료:** [96명 위약대조시험](../conditions/knee-pain.md#ski306x-placebo-trial)과 아래 249명 디클로페낙 비교시험이 통증·기능의 개선을 평가했습니다. 임상 결과는 원료·추출법·용량이 정해진 **세 본초의 복합제제 SKI306X**에 해당합니다. 진료에서는 통증점수, 걷기·계단과 소화 상태를 함께 추적합니다.
+
 ### SKI306X와 기존 소염진통제를 비교한 연구 {#ski306x-clinical-trial}
 
 중앙대 **정형외과 연구진 등**이 참여한 2004년 *American Journal of Chinese Medicine* 다기관 무작위 이중눈가림 시험은 무릎 골관절염 환자 **249명**에서 복합 생약 추출물 SKI306X와 디클로페낙 서방제를 **4주**간 비교했습니다.
@@ -181,6 +232,8 @@ GCSB-5는 여섯 가지 생약을 추출·표준화한 경구 제제입니다. *
 *Efficacy and Tolerability of GCSB-5 for Hand Osteoarthritis: A Randomized, Controlled Trial.* [PMID 27449412](https://pubmed.ncbi.nlm.nih.gov/27449412/) · [DOI 10.1016/j.clinthera.2016.06.016](https://doi.org/10.1016/j.clinthera.2016.06.016)
 
 ### PG201·레일라의 무릎 통증 비교시험 {#pg201-knee-trial}
+
+**레일라정의 원료는 당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화의 12개 본초**입니다. 1정에는 이들의 25% 에탄올 연조엑스(3.5→1) 405.4 mg이 들어 있습니다. [12개 본초의 배합 역할](../conditions/natural-products-herbal.md#layla-twelve-herbs)에서 활혈·강근골·거풍습·온경의 축을 비교하고, 아래에서 완제품의 임상연구를 확인할 수 있습니다.
 
 전북대병원·서울대병원·분당서울대병원·가톨릭대 등의 연구진이 참여한 2014년 *Rheumatology International* 다기관 이중눈가림 3상시험은 무릎 골관절염 환자 **309명**을 복합 생약 추출물 PG201군 154명과 세레콕시브군 155명으로 무작위 배정했습니다.
 

@@ -29,7 +29,8 @@ last_reviewed: '2026-09-18'
 | 통증의 맥락 | 현호색을 읽는 방법 | 함께 비교할 본초·처방 |
 |---|---|---|
 | 기체와 어혈이 겹친 고정통·창통 | 행기와 활혈을 함께 써서 지통하는 중심 역할 | [향부자](cyperus.md)·[천궁](chuanxiong.md) |
-| 월경·하복부 통증 | 한응·기체·어혈 가운데 어느 축이 큰지 처방 전체에서 확인 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) |
+| 월경·하복부 통증 | 한응·기체·어혈 가운데 어느 축이 큰지 처방 전체에서 확인 | [여신탕](../formulas/yeosin-tang.md) | 좌섬요통에서 당귀의 혈분·계심의 온통·두충의 강근골과 활혈행기지통을 결합 |
+| [소복축어탕](../formulas/shaofu-zhuyu-tang.md) |
 | 흉협·상복부 통증 | 현호색과 천련자를 짝짓는 금령자산 계열의 이기·설열·지통 구조를 살핌 | 간담·소화기 위험신호와 감별 |
 | 타박·근골격 통증 | 외상 여부와 멍·종창·고정통을 확인하고 다른 활혈약과 배합 | [도인](peach-kernel.md)·[홍화](safflower.md)·[당귀수산](../formulas/danggui-susan.md) |
 
@@ -41,6 +42,12 @@ last_reviewed: '2026-09-18'
 |---|---|
 | [소복축어탕](../formulas/shaofu-zhuyu-tang.md) | 건강·육계의 온경과 활혈 본초의 지통 구조를 연결 |
 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) | 향부자·진피 등의 이기와 월경 관련 통증 배합을 살핌 |
+
+### 근골격 통증에서 배합을 읽는 예 {#musculoskeletal-pairing}
+
+여신탕의 네 약은 **현호색의 행기지통, 당귀의 혈분 조절, 계심의 온통, 두충의 근골 보강**으로 설명할 수 있습니다. 허리를 삐끗한 뒤의 국소 압통과 움직임 제한을 살피면서 냉감·평소 허약을 함께 반영하는 구조입니다. [방약합편 수록 구성](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=303)
+
+현호색을 [위령선](clematis-root.md)과 비교하면 기체·어혈과 풍습·통락의 차이가, [작약](white-peony.md)과 비교하면 활혈행기와 완급·유근의 차이가 드러납니다. 복용 후에는 통증 강도와 허리 굽힘·회전·앉기 기능을 함께 기록합니다. [통증 본초·배합 비교](../herbal-integrated/formula-for-pain.md#pain-herb-pairings)
 
 ## 비슷한 본초와 구분
 

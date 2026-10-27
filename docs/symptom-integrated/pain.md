@@ -7,26 +7,46 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 ---
 # 통증 {#_1}
 
-환자가 말하는 통증 부위에서 바로 치료명을 고르지 않고 **위험신호 → 통증 양상 → 병증축 → 한약·본초·침구 → 기능회복**으로 연결합니다.
+통증의 위치와 양상, 냉감·부종·저림·피로를 함께 살펴 **원인 평가 → 변증 → 한약·본초·침구 → 기능회복**으로 연결합니다. 아래 처방 비교는 전통적 변증과 배합을 이해하는 안내이며, 사람 대상 연구는 각 처방·질환 문서에서 별도로 확인할 수 있습니다.
 
 ## 관절이 붓는 통증과 근육이 당기는 통증 {#joint-muscle-formulas}
 
-통증 한약을 찾을 때 **관절의 열감·종창, 근육의 경련·당김, 오래된 허약**을 먼저 구분하면 처방의 역할이 선명해집니다. 같은 부위에서도 관절과 주변 근육의 문제가 겹칠 수 있습니다.
+통증 한약을 찾을 때 **외상·어혈, 냉감·무거움, 열감·종창, 경련·당김, 저림과 허약**을 구분하면 처방의 역할이 선명해집니다. 같은 부위에서도 관절과 주변 근육의 문제가 겹칠 수 있습니다.
 
 | 현재 두드러진 양상 | 비교할 처방 | 치료 경과에서 볼 것 |
 |---|---|---|
 | 관절에서 비롯된 통증에 국소 열감·붓기가 동반 | [월비가출탕](../formulas/yuebi-jia-shu-tang.md#joint-muscle-selection) — 청열·수습 조절의 배합 | 붓기·열감, 굽힘과 폄, 체중부하 |
 | 근육이 갑자기 뭉치거나 쥐가 나며 아프게 당김 | [작약감초탕](../formulas/shaoyao-gancao-tang.md#japanese-cramp-trial) — 완급지통의 배합 | 경련 횟수·지속시간, 수면·동작 방해 |
+| 삐거나 부딪힌 뒤 멍·고정 압통 | [당귀수산](../formulas/danggui-susan.md)·[여신탕](../formulas/yeosin-tang.md) — 외상성 어혈·좌섬의 배합 | 압통·움직임과 일상 복귀 |
+| 차고 습할 때 무겁고 뻣뻣함 | [오적산](../formulas/wujisan.md)·[계지가출부탕](../formulas/guizhi-jia-shu-fu-tang.md) — 산한·거습 | 냉감·아침 뻣뻣함·가동범위 |
+| 오래된 통증에 혈허·어혈·풍습이 겹침 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) — 보혈·활혈·통락 | 통증 분포·야간통·활동 후 회복 |
+| 붓고 무거우면서 땀·피로가 동반 | [방기황기탕](../formulas/fangji-huangqi-tang.md) — 보기와 수습 조절 | 붓기·계단·기력 |
+| 저림·냉감에 피로·자한이 겹침 | [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md) — 익기온경·화영통비 | 감각 범위·손발 기능·체력 |
 | 오래된 비증에 냉감·요슬 무력·전신 허약이 겹침 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) — 거풍습과 보익의 배합 | 보행·지구력·냉감과 일상기능 |
 
 월비가출탕과 작약감초탕을 나누어 보는 임상 관점과 연구의 차이는 [통증 처방 비교](../herbal-integrated/formula-for-pain.md#joint-versus-muscle-pain)에서 설명합니다. 열감·종창은 감염·통풍·외상에서도 생기므로 원인을 먼저 확인하며, 근육통도 경련·손상·신경병성 통증을 구분합니다.
+
+**습열성 통증까지 함께 보기:** 열감·화끈거림에 음부 소양·소변불편 등 하초 습열의 단서가 겹치면 [용담사간탕의 통증 적용 관점](../formulas/longdan-xiegan-tang.md#damp-heat-pain)을 함께 살핍니다. [양상별 처방 비교](../herbal-integrated/formula-for-pain.md#damp-heat-pain)에서 관절의 종창·근육경련과 비교할 수 있습니다.
 
 ## 허리통증·요통 {#허리통증요통}
 **환자가 자주 묻는 것:** “디스크인가요?”, “앉아 있으면 더 아파요”, “다리까지 당겨요.”
 
 - **확인:** 방사통·저림·근력·보행·외상·발열·대소변 변화.
 - **병증축:** 한습·기혈울체·어혈 / 만성에서는 간신기혈허.
-- **방제 감별:** 한습·복합 증후는 [오적산](../formulas/wujisan.md), 경련·급박한 당김은 [작약감초탕](../formulas/shaoyao-gancao-tang.md), 만성 허약은 [독활기생탕](../formulas/duhuo-jisheng-tang.md)을 비교.
+
+### 허리의 발병 계기와 한약 선택 {#low-back-herbal-options}
+
+| 양상 | 비교할 처방과 배합 이유 |
+|---|---|
+| 들기·비틀기 뒤 삐끗한 국소 통증 | [여신탕](../formulas/yeosin-tang.md): 현호색·당귀의 활혈행기에 계심의 온통, 두충의 근골 보강을 결합 |
+| 타박·염좌 뒤 멍·종창·고정통 | [당귀수산](../formulas/danggui-susan.md): 손상 후 어혈과 기체를 풀어가는 방향 |
+| 허리가 차고 무거우며 소화·복부냉감 동반 | [오적산](../formulas/wujisan.md): 창출 등으로 한습과 기혈·담식의 복합 양상을 함께 조절 |
+| 오래된 요둔부·하지 통증에 뻣뻣함·혈허·어혈 동반 | [소경활혈탕](../formulas/shujing-huoxue-tang.md): 우슬·위령선·창출과 혈분 약재의 활혈·거풍습 배합 |
+| 요슬 무력·냉감과 신양허 양상 | [팔미지황탕](../formulas/bawei-dihuang-wan.md): 온보신양의 방향을 소변·냉감·체력과 함께 판단 |
+| 과로 뒤 근육 당김과 기혈 소모·피로 | [쌍화탕](../formulas/ssanghwa-tang.md): 보혈·보기와 완급을 함께 구성 |
+
+실제 경련이 중심이면 작약감초탕을, 풍한습비에 기혈·간신허가 겹치면 독활기생탕을 함께 비교합니다. [요통의 한약치료 상세](../conditions/low-back-pain.md#herbal-care)에서 신착탕·여신양영전 등으로 이어집니다.
+
 - **본초:** 두충·우슬·속단·골쇄보 → [본초 비교](../herbal-integrated/herb-comparisons.md).
 - **침구:** 요부 압통점만이 아니라 둔부·하지 방사경로와 움직임 제한을 함께 평가.
 - **회복 신호:** 앉아있는 시간↑, 걷기↑, 굴신 회복, 야간통↓.
@@ -40,7 +60,18 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 **질문:** “거북목 때문인가요?”, “머리까지 아파요.”
 
 - 경항부 근긴장·견갑대 기능·두통 동반 여부를 구분.
-- 한습·담·기혈불통 → 오적산 계열, 두통축 → [청상견통탕](../formulas/qingshang-juantong-tang.md)·[천궁다조산](../formulas/chuanxiong-chatiao-san.md).
+
+### 목·견갑대의 한약 선택 {#neck-herbal-options}
+
+| 양상 | 비교할 처방과 확인점 |
+|---|---|
+| 갑자기 고개 돌리기가 어렵고 견배부가 당김 | [회수산](../formulas/huishou-san.md): 풍한·기체성 목결림과 회전 제한을 살핌 |
+| 뒷목·등의 강직에 오한·무한·몸살 동반 | [갈근탕](../formulas/gegen-tang.md): 갈근의 서근과 해표 배합 |
+| 항배강에 땀·오풍이 동반 | [계지가갈근탕](../formulas/guizhi-jia-gegen-tang.md): 영위조화와 서근. 실제 제제의 마황 포함 여부를 확인 |
+| 냉감·무거움과 소화불편이 함께 나타남 | [오적산](../formulas/wujisan.md): 한습과 중초의 불편을 함께 다룸 |
+| 목·어깨 긴장에 두통이 겹침 | [청상견통탕](../formulas/qingshang-juantong-tang.md)·[천궁다조산](../formulas/chuanxiong-chatiao-san.md): 두통 양상과 풍·한열·담습을 비교 |
+| 사고 후 멍·고정 압통 또는 오래된 혈허·풍습 | [당귀수산](../formulas/danggui-susan.md)과 [소경활혈탕](../formulas/shujing-huoxue-tang.md)을 각각 손상 시점·통증 양상에 맞춰 비교 |
+
 - 침구는 경항부와 견갑대 움직임을 함께 봄.
 
 목 움직임에 따른 근육통·두통과 팔·손으로 퍼지는 신경 증상을 구분합니다. **[목통증·경항통 상세 안내](../conditions/neck-pain.md)**에서 감별과 [유형별 치료·운동 방향](../conditions/neck-pain.md#pain-type-treatment)을 함께 살펴봅니다.
@@ -51,7 +82,19 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 ## 어깨통증·오십견 {#어깨통증오십견}
 - **확인:** 능동/수동 가동범위, 야간통, 외상, 근력저하.
 - **병증:** 풍한습비·기혈불통 / 오래되면 허증.
-- **방제:** 관절 열감·종창은 [월비가출탕](../formulas/yuebi-jia-shu-tang.md), 주변 근육의 경련·당김은 [작약감초탕](../formulas/shaoyao-gancao-tang.md), 냉감·허약을 동반한 만성 비증은 [독활기생탕](../formulas/duhuo-jisheng-tang.md)을 감별.
+
+### 어깨의 냉통·외상·관절 부종을 나누어 보기 {#shoulder-herbal-options}
+
+| 양상 | 한약치료에서 비교할 방향 |
+|---|---|
+| 차가운 환경에 악화하고 따뜻하면 편한 관절·근육통 | [계지가출부탕](../formulas/guizhi-jia-shu-fu-tang.md)의 온경거습과 [오적산](../formulas/wujisan.md)의 한습·복합 증후를 비교 |
+| 오래된 어깨·팔 통증에 저림·뻣뻣함·혈허·어혈 | [소경활혈탕](../formulas/shujing-huoxue-tang.md)의 보혈·활혈·거풍습 |
+| 어깨보다 목·견갑대 회전 제한과 당김이 뚜렷함 | [회수산](../formulas/huishou-san.md), 땀·오한 등 표증에 따라 갈근탕·계지가갈근탕 |
+| 넘어짐·충돌 뒤 멍·고정 압통 | [당귀수산](../formulas/danggui-susan.md)의 활혈거어 |
+| 관절에 열감·종창이 두드러짐 | [월비가출탕](../formulas/yuebi-jia-shu-tang.md)의 청열·수습 조절 |
+
+주변 근육의 경련은 작약감초탕, 만성 허약이 겹친 비증은 독활기생탕을 비교하며 팔 올리기·옷 입기·야간 수면을 함께 추적합니다.
+
 - **회복:** 통증보다 먼저 빗질·옷입기·등뒤 손올리기 범위가 변할 수 있음.
 
 밤에 아프거나 팔이 안 올라간다는 사실만으로 병명을 정하지 않습니다. **[어깨통증 상세 안내](../conditions/shoulder-pain.md)**에서 [유형별 치료·운동 방향](../conditions/shoulder-pain.md#shoulder-type-treatment)을 비교하고, 다음 양상에 맞춰 개별 문서로 이동합니다.
@@ -62,10 +105,25 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 
 ## 무릎통증 {#무릎통증}
 - 풍한습비·어혈·간신허를 구분.
-- 열감·종창이 있는 관절통은 [월비가출탕](../formulas/yuebi-jia-shu-tang.md), 주변 근육경련은 [작약감초탕](../formulas/shaoyao-gancao-tang.md), 냉감·하지 무력과 허약이 겹치면 [독활기생탕](../formulas/duhuo-jisheng-tang.md)을 비교.
+
+### 무릎의 붓기·냉감·무력에 따른 한약 선택 {#knee-herbal-options}
+
+| 양상 | 비교할 처방과 치료 목표 |
+|---|---|
+| 붓고 무거우며 땀·피로·표허가 함께 있음 | [방기황기탕](../formulas/fangji-huangqi-tang.md): 수습 조절과 기력 보완. [관절삼출 비교시험](../formulas/fangji-huangqi-tang.md#modern-evidence)과 연결 |
+| 무릎 관절의 열감·종창 | [월비가출탕](../formulas/yuebi-jia-shu-tang.md): 청열·수습 조절 |
+| 냉감이 뚜렷하고 온열에 편해지는 관절통 | [계지가출부탕](../formulas/guizhi-jia-shu-fu-tang.md): 온경산한·거습 |
+| 여러 관절의 통증·붓기와 쇠약, 한열 양상이 겹침 | [계지작약지모탕](../formulas/guizhi-shaoyao-zhimu-tang.md): 온통·거풍습에 청열·완급을 결합 |
+| 오래된 통증에 어혈·혈허·풍습이 함께 있음 | [소경활혈탕](../formulas/shujing-huoxue-tang.md): 혈분과 경락의 통증을 함께 조절 |
+| 삐거나 부딪힌 뒤 멍·고정 압통 | [당귀수산](../formulas/danggui-susan.md): 외상성 어혈을 살핌 |
+
+오래된 요슬 무력에는 두충·속단·우슬 등의 보익·강근골 배합을 함께 검토합니다. [일곱 본초의 차이](../herbal-integrated/formula-for-pain.md#seven-pain-herbs)에서 각각의 역할을 비교할 수 있습니다.
+
 - 침구는 무릎만이 아니라 대퇴·둔근 기능과 보행을 함께 평가.
 
 **[무릎통증 상세 안내](../conditions/knee-pain.md)**에서 [관절염·앞무릎통증·연골 손상별 치료](../conditions/knee-pain.md#knee-type-treatment)를 비교합니다. [근력·가동범위 운동](../conditions/knee-pain.md#knee-exercise-options), [계단·등산·찜질](../conditions/knee-pain.md#knee-daily-care)과 [붓기·잠김 재평가 기준](../conditions/knee-pain.md#knee-exercise-response)을 함께 확인합니다.
+
+**한약재와 현대 관절염약의 연결:** 위령선·괄루근(과루근)·하고초는 조인스정의 구성 본초입니다. [세 본초의 전통 역할·염증 관련 연구](../herbal-integrated/formula-for-pain.md#joins-three-herbs)와 [무릎 골관절염의 위약대조시험](../conditions/knee-pain.md#ski306x-placebo-trial)을 함께 살펴볼 수 있습니다.
 
 ## 팔꿈치통증·테니스엘보·골프엘보 {#elbow-pain}
 
@@ -74,17 +132,33 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 - **치료·운동:** 침·전침·약침·한약은 통증과 전신 증후에 맞춰 구성하며, [손목폄근 운동](../conditions/tennis-elbow.md#elbow-exercise-options)과 [손목굽힘·회내 운동](../conditions/golfer-elbow.md#medial-elbow-exercise-options)을 구분합니다.
 - **회복·재평가:** [업무·라켓·웨이트 복귀](../conditions/tennis-elbow.md#elbow-return-to-activity)는 쥐기 기능과 다음 날 반응을 기준으로 조절합니다. [약지·새끼손가락 저림과 집기 힘 저하](../conditions/golfer-elbow.md#medial-elbow-return-to-activity)가 진행되면 신경 평가가 우선입니다.
 
+### 팔꿈치의 한약치료 연결 {#elbow-herbal-options}
+
+국소 힘줄의 부하와 함께 **손상 시점·냉감·전신 회복 상태**를 살핍니다. 타박·염좌 뒤 멍과 압통은 [당귀수산](../formulas/danggui-susan.md), 오래된 뻣뻣함에 혈허·어혈·풍습이 겹치면 [소경활혈탕](../formulas/shujing-huoxue-tang.md), 냉감·한습은 [계지가출부탕](../formulas/guizhi-jia-shu-fu-tang.md)을 비교합니다. 전완부에 실제 경련이 생기면 작약감초탕의 완급지통을 연결합니다. 쥐기 통증과 다음 날 작업 가능 시간을 함께 평가합니다.
+
 ## 손목통증·손저림 {#wrist-pain}
 
 엄지 동작의 통증, 야간 손저림, 새끼손가락쪽 회전 통증은 치료 목표가 다릅니다. [손목 원인별 보호·치료](../conditions/wrist-pain.md#wrist-type-care)를 비교하고, [육아·컴퓨터·집안일 조절](../conditions/wrist-pain.md#wrist-daily-care)과 [단계별 운동](../conditions/wrist-pain.md#wrist-exercise-options)으로 이어갑니다. 지속적 감각저하·엄지 근력 감소는 [손목터널증후군](../conditions/carpal-tunnel.md)에서 신경 평가와 함께 살핍니다.
+
+### 손목·손가락에서 처방을 나누는 단서 {#wrist-herbal-options}
+
+[당귀수산](../formulas/danggui-susan.md)은 외상 후 멍·고정통, [계지가출부탕](../formulas/guizhi-jia-shu-fu-tang.md)은 냉감·한습성 통증, [소경활혈탕](../formulas/shujing-huoxue-tang.md)은 혈허·어혈·풍습이 겹친 오래된 뻣뻣함을 살핍니다. 저림·냉감에 피로·자한·오풍이 함께 있으면 [황기계지오물탕](../formulas/huangqi-guizhi-wuwu-tang.md)의 익기온경 배합을 비교합니다. 손목터널의 신경 압박 정도와 쥐기·집기 기능도 함께 확인합니다.
 
 ## 발목통증·반복 접질림 {#ankle-pain}
 
 급성 접질림은 골절·중대한 손상을 먼저 확인합니다. [발목통증 전체 안내](../conditions/ankle-pain.md)에서 보호·체중부하를 살피고, [근력·균형훈련](../conditions/ankle-pain.md#ankle-exercise-options)과 [재접질림 방지](../conditions/ankle-pain.md#ankle-recurrence-care)로 연결합니다. 통증이 줄어도 부종·절뚝거림·잠김이 반복되면 재평가합니다.
 
+### 발목의 손상기와 회복기 한약 {#ankle-herbal-options}
+
+접질린 직후 멍·종창·고정 압통에는 [당귀수산](../formulas/danggui-susan.md)의 활혈거어를, 오래된 냉감·무거움에는 [오적산](../formulas/wujisan.md)·[계지가출부탕](../formulas/guizhi-jia-shu-fu-tang.md)을 비교합니다. 혈허·풍습과 뻣뻣함이 남으면 [소경활혈탕](../formulas/shujing-huoxue-tang.md), 회복기에 근골 허약이 겹치면 속단·두충·우슬의 배합을 검토합니다. 한약치료는 붓기·통증 조절과 함께 균형·근력훈련을 이어가는 데 목표를 둡니다.
+
 ## 발뒤꿈치통증·아침 첫발 {#plantar-heel-pain}
 
 첫발 통증은 족저근막·아킬레스건·지방패드·신경 원인을 구분합니다. [족저근막염 상세 안내](../conditions/plantar-fasciitis.md)에서 [스트레칭·근력운동](../conditions/plantar-fasciitis.md#heel-exercise-options), [신발·깔창·야간 부목](../conditions/plantar-fasciitis.md#heel-support-options), [보행·달리기 복귀](../conditions/plantar-fasciitis.md#heel-return-to-activity)를 확인합니다.
+
+### 발뒤꿈치·종아리의 한약치료 연결 {#heel-herbal-options}
+
+족저부 통증은 첫발·장시간 보행의 부하 반응을 기준으로 치료하고, 한약은 동반 양상에 맞춥니다. 냉감·무거움이 크면 [오적산](../formulas/wujisan.md), 혈허·어혈·풍습이 겹친 오래된 통증이면 [소경활혈탕](../formulas/shujing-huoxue-tang.md), 요슬 무력과 냉감·신허가 동반되면 [팔미지황탕](../formulas/bawei-dihuang-wan.md) 등의 온보 방향을 비교합니다. 종아리에 쥐가 나는 증상에는 작약감초탕을 별도 목표로 연결합니다. 첫발 통증과 걷는 거리, 경련 빈도를 각각 기록합니다.
 
 ## 두통 {#두통}
 - **외풍:** [천궁다조산](../formulas/chuanxiong-chatiao-san.md)
@@ -98,6 +172,16 @@ description: 허리·목·어깨·무릎·팔꿈치·손목·발목·발뒤꿈�
 - 어혈·기혈불통 → [혈부축어탕](../formulas/xuefu-zhuyu-tang.md), 기허혈어·통락 → [보양환오탕](../formulas/buyang-huanwu-tang.md).
 - **회복:** 저림 강도 + 감각범위 + 근력 + 일상동작.
 
+
+## 통증에서 본초가 맡는 역할 {#pain-herb-roles}
+
+**속단·두충·우슬**은 요슬과 근골의 회복, **위령선·오가피**는 풍습성 통증과 근골 기능, **현호색**은 기체·어혈성 통증, **창출**은 습체·무거움과 소화 상태를 함께 살피는 데 연결됩니다. 각 약의 성격은 함께 배합하는 약재에 따라 구체화됩니다.
+
+[속단·두충 등 일곱 본초의 효능·차이와 처방 속 배합](../herbal-integrated/formula-for-pain.md#seven-pain-herbs)에서 소경활혈탕의 우슬·위령선·창출, 여신탕의 현호색·두충, 여신양영전의 속단·두충·우슬을 비교합니다.
+
+여기에 **괄루근·하고초의 청열·소종**을 더해, [위령선·괄루근·하고초와 조인스정](../herbal-integrated/formula-for-pain.md#joins-three-herbs)에서 전통 본초와 무릎 골관절염 연구의 연결을 확인할 수 있습니다.
+
+**레일라정의 12개 본초**에도 속단·오가피·우슬·위령선이 포함됩니다. [전체 구성과 배합 역할](../conditions/natural-products-herbal.md#layla-twelve-herbs), [무릎 골관절염 비교시험](../herbal-integrated/formula-for-pain.md#pg201-knee-trial)을 연결해 볼 수 있습니다.
 
 ## 기존 지식망으로 이동 {#_2}
 → [증상·치법으로 방제 찾기](../herbal-integrated/by-symptom-treatment.md)  

@@ -64,6 +64,20 @@ last_reviewed: 2026-10-04
 
 제품명과 연구명을 연결하면 자료를 찾기 쉽습니다. **조인스 = SKI306X, 신바로 = GCSB-5, 레일라 = PG201**의 연구 연결은 [근골격 통증 처방·임상시험](../herbal-integrated/formula-for-pain.md#_7)에서 볼 수 있습니다. 신바로정의 경구 복용 연구와 신바로라는 이름을 쓰는 약침 연구는 투여경로·제제가 다른 자료입니다.
 
+### 레일라정의 12개 본초를 배합으로 읽기 {#layla-twelve-herbs}
+
+레일라정 1정에는 **당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화의 25% 에탄올 연조엑스(3.5→1) 405.4 mg**이 들어 있습니다. 405.4 mg은 열두 본초를 함께 추출한 성분의 함량입니다. 제품의 허가 효능은 **골관절증의 증상 완화**입니다. [제조사 제품정보](https://pmgpharm.co.kr/product/product_detail.php?idx=11) · [성분·함량 정보](https://www.health.kr/drug/2012031500004)
+
+| 전통 본초를 읽는 축 | 구성 본초 | 통증 배합에서 이해할 역할 |
+|---|---|---|
+| 보혈·활혈·통락 | [당귀](../herbs/angelica.md)·[천궁](../herbs/chuanxiong.md)·[홍화](../herbs/safflower.md) | 당귀의 보혈·활혈, 천궁의 행기활혈, 홍화의 활혈거어를 함께 읽음 |
+| 강근골·요슬부 회복 | [속단](../herbs/dipsacus.md)·[오가피](../herbs/acanthopanax-bark.md)·[우슬](../herbs/achyranthes.md) | 근골 허약을 보완하는 축에 오가피의 거풍습, 우슬의 활혈·하행을 함께 둠 |
+| 거풍습·서근·통락 | [모과](../herbs/chaenomeles-fruit.md)·[방풍](../herbs/saposhnikovia.md)·[위령선](../herbs/clematis-root.md)·[진교](../herbs/gentiana-macrophylla.md) | 모과의 서근, 방풍의 거풍, 위령선의 통락, 진교의 거풍습·청허열이라는 각 역할을 비교 |
+| 온경·통맥 | [육계](../herbs/cinnamon-bark.md) | 냉감과 한성 통증을 살피는 온통의 축 |
+| 식풍·통락 | [천마](../herbs/gastrodia.md) | 경련·마목 등에서 식풍·통락의 전통적 쓰임을 읽음 |
+
+이 표는 **제품 원료를 전통 본초 지식으로 풀어 읽은 설명**입니다. 완제품의 치료 결과는 [PG201·레일라 무릎 골관절염 비교시험](../herbal-integrated/formula-for-pain.md#pg201-knee-trial)에서 따로 확인합니다. [조인스의 세 본초](../herbal-integrated/formula-for-pain.md#joins-three-herbs)와 함께 보면 위령선처럼 공통으로 쓰이는 본초와 각 제품의 전체 배합을 비교하기 좋습니다.
+
 ### 기침·가래 약에서도 만나는 본초 {#respiratory-products}
 
 | 회사·제품 | 들어가는 본초·식물 원료 | 제품의 효능·치료 목적 |
