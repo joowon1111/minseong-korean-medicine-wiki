@@ -65,7 +65,8 @@ function targetParts(target) {const [source,hash=''] = target.split('#');return 
    await page.setViewportSize({width,height:900});
    await page.goto(base+'/classical-stories/',{waitUntil:'domcontentloaded'});
    const labels=await page.locator('.md-nav--primary > .md-nav__list > .md-nav__item').evaluateAll(nodes=>nodes.map(n=>n.textContent.trim()));
-   assert(labels[0].startsWith('홈')&&labels[1].startsWith('민성의담'),'Uidam must be independent immediately after Home');
+   const uidam=labels.findIndex(label=>label.startsWith('민성의담'));
+   assert(uidam>0&&labels[uidam-1].startsWith('연구·근거')&&labels[uidam+1].startsWith('전체 둘러보기'),'Uidam must be between Evidence and Browse');
    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Uidam fits '+width);
    await page.screenshot({path:`archive-browser-results/uidam-navigation-${width}.png`});
    await page.goto(base+'/conditions/facial-palsy/',{waitUntil:'domcontentloaded'});
