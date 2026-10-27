@@ -39,6 +39,8 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       await publisher.screenshot({path:`archive-browser-results/publisher-dark-${width}.png`});
       await page.evaluate(() => document.body.setAttribute('data-md-color-scheme', 'default'));
       for (const [path, anchor] of [
+        ['/classical-stories/', 'ssanghwa-twofold-care'],
+        ['/classical-stories/ssanghwa-twofold-care/', '_1'],
         ['/conditions/', 'combined-care-paths'],
         ['/portal/herbs-formulas/', 'compare-formulas'],
         ['/sasang-integrated/', 'ordinary-current-record'],
@@ -109,3 +111,4 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
     }
   } finally { await browser.close(); }
 })().catch(error => {console.error(error); process.exitCode=1;});
+
