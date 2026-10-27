@@ -181,6 +181,9 @@ last_reviewed: 2026-09-06
 
 | 처방 계열 | 먼저 살피는 양상 | 선택할 때 구분할 점 |
 |---|---|---|
+| [월비가출탕](../formulas/yuebi-jia-shu-tang.md) | 관절 국소의 열감·종창 | 청열·수습 조절과 굽힘·폄의 회복을 함께 평가 |
+| [계지가출부탕](../formulas/guizhi-jia-shu-fu-tang.md) | 냉감·한습과 온열에 편해지는 통증 | 계지탕 계열에 출·포제 부자의 온경거습을 결합 |
+| [계지작약지모탕](../formulas/guizhi-shaoyao-zhimu-tang.md) | 다관절 통증·부종·쇠약과 한열 복합 양상 | 거풍습·온통과 청열·완급의 비중을 함께 판단 |
 | [독활기생탕](../formulas/duhuo-jisheng-tang.md) | 오래된 하지 관절통에 냉감·허리와 다리의 무력·허약 동반 | 거풍습과 간신·기혈 보완의 배합; 갑자기 붉고 뜨거운 단일 관절은 먼저 감별 |
 | [소경활혈탕](../formulas/shujing-huoxue-tang.md) | 오래된 근육·관절통에 뻣뻣함과 혈허·어혈·풍습이 겹침 | 무력만 있는지, 고정통·근육 당김이 함께 있는지 비교 |
 | [오적산](../formulas/wujisan.md) | 차고 무겁고 뻣뻣하며 복부냉감·소화불편 동반 | 한습과 기·혈·담식의 복합 양상; 무릎 위치만으로 선택하지 않음 |
@@ -201,6 +204,14 @@ last_reviewed: 2026-09-06
 
 - 독활기생탕 → 무릎 골관절염 12개 연구·982명, PMID `26729379`
 - 한약+침도 병용 → 최신 meta-analysis에서 무릎 골관절염 통증·기능 개선을 평가, PMID `39822562`
+
+#### 위령선·괄루근·하고초 복합제제의 위약대조시험 {#ski306x-placebo-trial}
+
+**SKI306X는 조인스정으로 연결되는 위령선·괄루근·하고초 복합 추출물**입니다. Jung 등의 *American Journal of Chinese Medicine* 2001년 시험은 무릎 골관절염 환자 **96명**을 위약과 세 용량의 시험약군에 무작위 배정해 4주간 이중눈가림으로 비교했습니다.
+
+통증 VAS, 통증·보행·일상기능을 평가하는 Lequesne 지수와 환자·연구자의 치료효과 평가에서 위약 대비 개선을 보고했습니다(P<0.01). 짧은 기간의 증상·기능 개선을 보여주는 임상자료입니다. [PMID 11789591](https://pubmed.ncbi.nlm.nih.gov/11789591/) · [연구기관 수록 초록](https://pure.ewha.ac.kr/en/publications/effect-of-ski-306x-a-new-herbal-anti-arthritic-agent-in-patients-/)
+
+세 본초의 배합을 **위령선의 통락지통, 괄루근의 청열생진·소종, 하고초의 청열·산결소종**과 연결해 읽을 수 있습니다. [본초별 역할과 염증 관련 기전 연구](../herbal-integrated/formula-for-pain.md#joins-three-herbs)에서 실험실 자료와 사람 대상 결과를 구분합니다. 위 시험은 표준화 복합제제의 연구이며, 실제 진료에서는 복용약과 통증·보행·계단 기능을 함께 확인합니다.
 
 #### 국내 복합 생약 추출물의 임상시험 {#botanical-clinical-guide}
 
