@@ -471,42 +471,6 @@ markdown_extensions:
     custom_checkbox: true
 nav:
 - 홈: index.md
-- 민성의담:
-  - 연재 모아보기: classical-stories/index.md
-  - 기침은 같아도 약첩은 달랐다: classical-stories/cough-formulas.md
-  - 다리를 펴기 전에, 발이 따뜻해지기를 기다리다: classical-stories/cramps-treatment-order.md
-  - 지친 몸에 잠이 오지 않는 밤: classical-stories/insomnia-fatigue.md
-  - 탕약에 엿을 녹여 넣던 까닭: classical-stories/abdominal-pain-malt-syrup.md
-  - 한 약첩에 담긴 차가움과 따뜻함: classical-stories/digestive-cold-warm-pairing.md
-  - 구토와 설사 사이, 물을 찾는 사람: classical-stories/vomiting-diarrhea-thirst.md
-  - 생강과 말린 생강이 만난 약첩: classical-stories/ginger-fresh-dried.md
-  - 목은 마른데 물을 마시면 토할 때: classical-stories/water-thirst-vomiting.md
-  - 반하 옆에 놓인 귤껍질: classical-stories/phlegm-citrus-peel.md
-  - 잠 못 드는 밤의 처방, 마지막 재료는 노른자: classical-stories/insomnia-egg-yolk.md
-  - 변비 처방 속 씨앗 둘과 꿀 한 가지: classical-stories/constipation-seeds.md
-  - 사흘 밤낮, 경옥고 한 항아리에 담긴 시간: classical-stories/gyeongokgo-slow-preparation.md
-  - 보약에도 흐름이 있다 — 공진단의 네 약재: classical-stories/gongjindan-four-directions.md
-  - 녹용대보탕, 보하는 약 사이에 반하를 놓다: classical-stories/deer-antler-tonic-digestion.md
-  - 돌봄을 받은 아이가, 아이들을 위한 의서를 남기다: classical-stories/childhood-care-book.md
-  - 영조가 약에 이름을 내린 날: classical-stories/yeongjo-geongong-tang.md
-  - 아이에게 죽을, 돌보는 이에게도 한 끼를: classical-stories/jeongjo-child-care.md
-  - 세종이 약초를 캔 사람의 이름까지 적게 한 이유: classical-stories/sejong-herb-collectors.md
-  - 당귀는 왜 ‘돌아온다’는 이름을 얻었을까: classical-stories/angelica-returning-name.md
-  - 소요산, 느긋한 이름 아래 모인 여덟 약재: classical-stories/xiaoyao-name-and-rest.md
-  - 허준이 책머리에서 걱정한 것은 약값이었다: classical-stories/heo-jun-book-and-reader.md
-  - 사향을 바치던 고을에 내려온 뜻밖의 명령: classical-stories/musk-tribute-and-village.md
-  - 계지탕 한 사발 뒤에 이어진 따뜻한 죽: classical-stories/guizhi-warm-rice-gruel.md
-  - 가을밤, 잠자리에 드는 시간을 바꾸다: classical-stories/autumn-evening-rest.md
-  - 세종의 초수, 효험이 엇갈리자 다시 조사하다: classical-stories/sejong-chosu-outcomes.md
-  - 찬바람이 들면, 옷 한 겹을 더: classical-stories/first-cold-extra-layer.md
-  - 쌍화탕, 두 가지를 함께 보하는 한 사발: classical-stories/ssanghwa-twofold-care.md
-  - 사상의학 이야기:
-    - 열일곱 소녀의 설사, 그보다 오래된 소화불량: classical-stories/sasang/soyangin-diarrhea-case.md
-    - 새 병이 나은 뒤에도 평소의 불편을 살피다: classical-stories/sasang/taeeumin-baseline-recovery.md
-    - 다시 죽을 먹고 문밖을 걷기까지: classical-stories/sasang/soeumin-sweating-case.md
-    - 세 사람의 복통, 서로 달랐던 회복의 시간: classical-stories/sasang/soyangin-recurring-abdominal-pain.md
-    - 회복하는 동안 약첩에서 빠진 대황: classical-stories/sasang/taeeumin-formula-adjustment.md
-    - 숨이 가라앉은 뒤에도 진료는 끝나지 않았다: classical-stories/sasang/soyangin-breathing-reassessment.md
 - 한의학 기초:
   - 한의학 기초 한눈에 보기: foundations-integrated/index.md
   - 장부·기혈진액: foundations-integrated/zangfu-qi-blood-fluids.md
@@ -1262,6 +1226,42 @@ nav:
     - 논문 검색 안내: evidence-integrated/find-research.md
     - 현대 연구 데이터베이스: research/index.md
     - 참고문헌 데이터베이스: research/references/index.md
+- 민성의담:
+  - 연재 모아보기: classical-stories/index.md
+  - 기침은 같아도 약첩은 달랐다: classical-stories/cough-formulas.md
+  - 다리를 펴기 전에, 발이 따뜻해지기를 기다리다: classical-stories/cramps-treatment-order.md
+  - 지친 몸에 잠이 오지 않는 밤: classical-stories/insomnia-fatigue.md
+  - 탕약에 엿을 녹여 넣던 까닭: classical-stories/abdominal-pain-malt-syrup.md
+  - 한 약첩에 담긴 차가움과 따뜻함: classical-stories/digestive-cold-warm-pairing.md
+  - 구토와 설사 사이, 물을 찾는 사람: classical-stories/vomiting-diarrhea-thirst.md
+  - 생강과 말린 생강이 만난 약첩: classical-stories/ginger-fresh-dried.md
+  - 목은 마른데 물을 마시면 토할 때: classical-stories/water-thirst-vomiting.md
+  - 반하 옆에 놓인 귤껍질: classical-stories/phlegm-citrus-peel.md
+  - 잠 못 드는 밤의 처방, 마지막 재료는 노른자: classical-stories/insomnia-egg-yolk.md
+  - 변비 처방 속 씨앗 둘과 꿀 한 가지: classical-stories/constipation-seeds.md
+  - 사흘 밤낮, 경옥고 한 항아리에 담긴 시간: classical-stories/gyeongokgo-slow-preparation.md
+  - 보약에도 흐름이 있다 — 공진단의 네 약재: classical-stories/gongjindan-four-directions.md
+  - 녹용대보탕, 보하는 약 사이에 반하를 놓다: classical-stories/deer-antler-tonic-digestion.md
+  - 돌봄을 받은 아이가, 아이들을 위한 의서를 남기다: classical-stories/childhood-care-book.md
+  - 영조가 약에 이름을 내린 날: classical-stories/yeongjo-geongong-tang.md
+  - 아이에게 죽을, 돌보는 이에게도 한 끼를: classical-stories/jeongjo-child-care.md
+  - 세종이 약초를 캔 사람의 이름까지 적게 한 이유: classical-stories/sejong-herb-collectors.md
+  - 당귀는 왜 ‘돌아온다’는 이름을 얻었을까: classical-stories/angelica-returning-name.md
+  - 소요산, 느긋한 이름 아래 모인 여덟 약재: classical-stories/xiaoyao-name-and-rest.md
+  - 허준이 책머리에서 걱정한 것은 약값이었다: classical-stories/heo-jun-book-and-reader.md
+  - 사향을 바치던 고을에 내려온 뜻밖의 명령: classical-stories/musk-tribute-and-village.md
+  - 계지탕 한 사발 뒤에 이어진 따뜻한 죽: classical-stories/guizhi-warm-rice-gruel.md
+  - 가을밤, 잠자리에 드는 시간을 바꾸다: classical-stories/autumn-evening-rest.md
+  - 세종의 초수, 효험이 엇갈리자 다시 조사하다: classical-stories/sejong-chosu-outcomes.md
+  - 찬바람이 들면, 옷 한 겹을 더: classical-stories/first-cold-extra-layer.md
+  - 쌍화탕, 두 가지를 함께 보하는 한 사발: classical-stories/ssanghwa-twofold-care.md
+  - 사상의학 이야기:
+    - 열일곱 소녀의 설사, 그보다 오래된 소화불량: classical-stories/sasang/soyangin-diarrhea-case.md
+    - 새 병이 나은 뒤에도 평소의 불편을 살피다: classical-stories/sasang/taeeumin-baseline-recovery.md
+    - 다시 죽을 먹고 문밖을 걷기까지: classical-stories/sasang/soeumin-sweating-case.md
+    - 세 사람의 복통, 서로 달랐던 회복의 시간: classical-stories/sasang/soyangin-recurring-abdominal-pain.md
+    - 회복하는 동안 약첩에서 빠진 대황: classical-stories/sasang/taeeumin-formula-adjustment.md
+    - 숨이 가라앉은 뒤에도 진료는 끝나지 않았다: classical-stories/sasang/soyangin-breathing-reassessment.md
 - 전체 둘러보기:
   - portal/maps.md
   - "기초 한의학 퀴즈 & 학습실":
