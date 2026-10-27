@@ -1337,6 +1337,17 @@ nav:
     - 어혈(瘀血): diagnostics/blood-stasis.md
     - 담음(痰飮): diagnostics/phlegm-fluid.md
     - 담적(痰積): diagnostics/phlegm-accumulation.md
+    - 용어사전:
+      - glossary/index.md
+      - 기(氣): glossary/qi.md
+      - 혈(血): glossary/blood.md
+      - 정(精): glossary/essence.md
+      - 진액(津液): glossary/body-fluids.md
+      - 담음(痰飮): glossary/phlegm-fluid.md
+      - 어혈(瘀血): glossary/blood-stasis.md
+      - 신양(腎陽): glossary/kidney-yang.md
+      - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
+      - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
   - 한의치료 방법:
     - treatments/index.md
     - 침 치료: treatments/acupuncture.md
@@ -1355,17 +1366,6 @@ nav:
     - 사상의학: faq/sasang-faq.md
     - 증상·치료: faq/conditions-faq.md
     - 고전·현대 연구: faq/classics-evidence-faq.md
-  - 용어사전:
-    - glossary/index.md
-    - 기(氣): glossary/qi.md
-    - 혈(血): glossary/blood.md
-    - 정(精): glossary/essence.md
-    - 진액(津液): glossary/body-fluids.md
-    - 담음(痰飮): glossary/phlegm-fluid.md
-    - 어혈(瘀血): glossary/blood-stasis.md
-    - 신양(腎陽): glossary/kidney-yang.md
-    - 심비양허(心脾兩虛): glossary/heart-spleen-deficiency.md
-    - 중기하함(中氣下陷): glossary/sinking-middle-qi.md
   - 고전·의학사 자료실:
     - 의가·인물:
       - physicians/index.md
