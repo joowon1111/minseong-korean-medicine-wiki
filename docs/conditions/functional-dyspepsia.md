@@ -33,6 +33,12 @@ last_reviewed: 2026-09-06
 
 간담·췌장·소장과 위의 역할 차이는 [소화기관별 지도](../pillar/digestion-spleen-stomach.md#digestive-organ-map)에서 확인할 수 있습니다. PDS·EPS는 임상 증상 유형이며 비위기허·기체 등 한의학 변증과 일대일 대응하지 않습니다. 진료에서 두 체계의 정보를 함께 활용합니다. [NIDDK 정의·검사](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/diagnosis)
 
+## 만성위염이 있으면 기능성소화불량이 아닌가요? {#gastritis-overlap}
+
+경미한 만성위염 소견과 기능성소화불량 증상은 함께 있을 수 있습니다. 내시경·조직검사에서 보이는 염증이 현재의 식후팽만·조기포만·명치통증을 충분히 설명하는지, 헬리코박터 감염과 약물 등 다른 원인이 있는지를 먼저 살핍니다. ‘위염이 있으니 모두 위염 때문’ 또는 ‘검사가 정상이니 마음의 문제’로 단정하지 않습니다.
+
+위축성위염·장상피화생이 확인된 경우에는 증상 관리와 검사 추적을 함께 진행합니다. 식사량·체중·통증·포만감의 호전은 중요한 치료 목표지만 조직 변화의 회복을 대신 입증하지는 않습니다. [만성위염·위축·장상피화생 구분](gastritis-symptoms.md#chronic-atrophy-metaplasia) · [검진 결과지에서 확인할 항목](checkup-gastritis.md)
+
 ## 내시경이 정상인데도 왜 불편한가요? {#normal-endoscopy}
 
 내시경은 점막의 궤양·염증·종양 등을 살피는 데 중요하지만, 음식이 들어올 때 위가 편안하게 늘어나는 기능이나 정상적인 위장 자극을 얼마나 불편하게 느끼는지까지 모두 보여주지는 않습니다. 기능성소화불량에서는 **위의 식사 적응, 감각의 예민함과 장–뇌 상호작용** 등 여러 요소를 살핍니다. 같은 포만감이라도 한 가지 기전으로 설명되지 않으며, 특정 기전이 모든 환자에게 확인되는 것은 아닙니다. [NIDDK 기능성소화불량의 원인](https://www.niddk.nih.gov/health-information/digestive-diseases/indigestion-dyspepsia/symptoms-causes)
