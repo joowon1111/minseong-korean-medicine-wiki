@@ -1,6 +1,6 @@
 ---
 title: 연구·근거 안내
-description: 한약·침·전침·추나·약침의 주요 임상 성과 30편을 효과 크기와 함께 읽고, 질환·처방별 근거와 논문 원문으로 이어갑니다.
+description: 자율신경·소화·수면·가슴두근거림·두통·만성통증의 한의치료 연구를 대상·효과·평가지표로 살펴보고, 주요 임상 성과 30편과 WHO 전략·질환별 상세 근거를 연결합니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 keywords: [논문, 연구근거, 학술논문, 임상연구, 임상시험, 연구논문, 연구자료, 논문검색, 연구성과, 치료효과, 치료근거, 주요논문, 핵심논문, research, evidence, papers, PubMed, RCT, 메타분석, 코호트연구, Kampo]
 status: 검토완료
@@ -10,7 +10,7 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
+**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
@@ -168,6 +168,51 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 선별된 성과와 함께 [질환별 근거카드](../authority/conditions/index.md)의 후속 시험·메타분석을 읽으면 연구가 어떻게 축적되는지 확인할 수 있습니다. 치료의 전문성은 논문에서 확인된 성과를 환자의 진단·병증·복용약·생활과 연결해 적용하고 경과를 재평가하는 데 있습니다.
 
+## 자율신경·소화·수면·두근거림·두통·만성통증의 근거 {#symptom-focused-evidence}
+
+**한의치료 연구를 일상에 연결하려면 가장 불편한 증상과 연구가 실제로 측정한 결과를 맞춰 보는 것이 좋습니다.** 식사를 편하게 하는 것, 밤에 덜 깨는 것, 두통으로 쉬는 날이 줄어드는 것은 각각 중요한 치료 목표입니다. 여러 증상이 함께 생기더라도 한 연구의 결과를 다른 증상에 그대로 옮기지 않고, 증상별 임상자료를 연결해 치료계획을 세웁니다.
+
+| 관심 분야 | 연구에서 확인할 핵심 | 먼저 읽을 상세 문서 |
+|---|---|---|
+| 자율신경·스트레스 | HRV 변화와 수면·소화·활동 개선을 나누어 평가 | [사람 대상 HRV 연구](../acupuncture-science/autonomic.md#human-hrv-evidence) · [스트레스와 자율신경](../autonomic/index.md) |
+| 소화불량·식후 불편 | 전체 반응, 조기포만·복부팽만, 식사와 삶의 질 | [기능성소화불량 임상시험](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [육군자탕 연구](../research/formulas/rikkunshito.md#japanese-fd-trials) |
+| 수면·불면 | 수면척도, 입면·밤중 각성, 낮 기능과 추적기간 | [불면의 전침시험](../conditions/insomnia.md#jama-depression-insomnia-trial) · [수면 한약 연구](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary) |
+| 가슴두근거림·심계 | 증상 빈도와 심전도로 확인한 리듬을 각각 평가 | [심실조기수축 침시험](../conditions/palpitation.md#pvc-acupuncture-trial) · [변증별 한약](../conditions/palpitation.md#herbal-treatment) |
+| 두통 | 편두통·긴장형·경추성 구분, 월 두통일수·발작 횟수 | [두통의 유형과 치료](../conditions/headache.md) · [편두통 예방시험](../authority/conditions/migraine.md#jama-migraine-prevention) |
+| 만성통증 | 통증 강도와 걷기·업무·수면 등 기능 회복 | [만성통증 개인자료 메타분석](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [통증 통합 안내](../symptom-integrated/pain.md) |
+
+### 자율신경 연구: 생리지표에서 생활의 변화까지 {#autonomic-evidence-reading}
+
+침의 자율신경 조절은 동물의 신경회로 연구와 사람의 HRV 연구, 실제 증상 개선 연구를 통해 서로 다른 측면에서 탐색되고 있습니다. 2025년 **10개 RCT·744명 메타분석**은 SDNN 개선을 보고했습니다. 다만 다양한 질환과 치료를 모은 분석이며, 연구 간 차이가 크고 LF·HF 결과의 불확실성도 있습니다. [HRV 연구의 수치·대상·한계](../acupuncture-science/autonomic.md#human-hrv-evidence)
+
+진료에서는 이 자료를 바탕으로 HRV만 추적하기보다 **잠·식사·두근거림·활동 중 무엇이 얼마나 달라지는지** 함께 확인하는 것이 유용합니다. ‘자율신경실조증’이라는 넓은 표현 안에서도 기립성 문제와 스트레스에 연동되는 증상은 평가가 다릅니다. [자율신경 증상의 감별과 치료 목표](../autonomic/index.md#five-core-symptoms)에서 실제 상태에 가까운 설명으로 이어집니다.
+
+### 소화·수면 연구: 어떤 불편이 줄었는지 읽기 {#digestion-sleep-evidence}
+
+**소화불량:** 식후불편감증후군 278명을 대상으로 한 침시험은 4주간 12회 치료 후 전체 치료 반응과 핵심 증상 소실을 별도로 평가했습니다. 앞 표의 전체 반응률 83.0%는 ‘모든 증상이 사라진 비율’과 다릅니다. 식후포만·조기포만이 중심인 독자는 [이 시험의 결과와 치료 조건](../conditions/functional-dyspepsia.md#pds-acupuncture-results)을, 복통·설사가 중심이면 [IBS의 복합 반응 결과](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial)를 읽는 것이 더 적절합니다. [원저 PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/)
+
+한약은 [육군자탕의 일본 임상시험·진료지침](../research/formulas/rikkunshito.md#japanese-fd-trials)과 [국내 육군자탕·평위산 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials)을 함께 볼 수 있습니다. 처방 이름뿐 아니라 시험제제·대상·비교군을 확인하면 실제 진찰에서 어떤 증상에 적용할지를 이해하는 데 도움이 됩니다.
+
+**수면:** 2022년 전침 다기관시험은 우울증과 불면이 함께 있는 270명을 대상으로 표준관리에 전침을 추가한 효과를 평가했습니다. PSQI는 수면의 질을 묻는 척도로, 점수 감소를 ‘몇 시간 더 잤다’로 바꿀 수는 없습니다. [8주 결과와 32주 추적](../conditions/insomnia.md#jama-depression-insomnia-trial)에서 가짜침·표준관리 단독과의 차이를 확인합니다. 이는 해당 환자군에서의 성과이며 모든 불면 유형에 같은 크기의 효과를 뜻하지는 않습니다. [원저 PMID 35797047](https://pubmed.ncbi.nlm.nih.gov/35797047/)
+
+한약은 [산조인탕의 단독·병용 연구](../authority/formulas/suanzaoren-tang.md#szrd-results)와 [수면·정서 처방별 사람 연구](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary)를 연결합니다. 수면일지의 입면·야간각성·낮 피로를 함께 기록하면 한약·침치료 후의 변화를 구체적으로 비교할 수 있습니다.
+
+### 가슴두근거림 연구: 심계와 실제 리듬을 함께 보기 {#palpitation-evidence-reading}
+
+두근거림에는 **증상 자체의 불편과 심전도에 기록되는 부정맥**이라는 두 평가축이 있습니다. 2025년 64명 가짜침 대조시험은 기능성 빈발 심실조기수축에서 완과침 4주 치료 후 조기수축 횟수·증후점수·삶의 질의 개선을 보고했습니다. [치료 횟수·대상·결과와 적용 범위](../conditions/palpitation.md#pvc-acupuncture-trial)에 원저와 함께 정리했습니다.
+
+이처럼 리듬을 직접 측정한 자료는 HRV나 불면 연구와 구분해 볼 가치가 있습니다. 귀비탕·온담탕·천왕보심단·자감초탕 등의 선택은 [동반 증상과 변증에 따른 처방 비교](../conditions/palpitation.md#herbal-treatment)로 이어지며, 위 완과침 시험이 이 처방들의 효과까지 입증하는 것은 아닙니다. 흉통·실신·심한 숨참을 동반한 심계는 [위험신호와 검사 안내](../conditions/palpitation.md#red-flags)를 먼저 확인합니다.
+
+### 두통·만성통증 연구: 덜 아픈 날과 되찾은 기능 {#headache-pain-evidence}
+
+**두통:** 편두통 예방시험의 핵심은 치료 직후의 통증만이 아니라 이후 두통이 생긴 날과 발작 횟수입니다. 2020년 *BMJ*의 무조짐 삽화성 편두통 시험은 150명을 배정했고, 17–20주에 4주당 편두통 일수 감소가 가짜침보다 조정 평균 2.1일 더 컸습니다. [예방시험의 치료 일정과 추적](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) · [원저 PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/)
+
+긴장형두통·경추성두통은 [두통 상세 문서](../conditions/headache.md)에서 따로 구분합니다. 스트레스와 함께 두통·불면·소화불편이 반복돼도 모두 같은 종류의 두통으로 묶지 않고, 한약·경혈 선택은 [두통 처방](../herbal-integrated/formula-for-headache.md)과 [두통 경혈](../acupuncture-integrated/points-for-headache.md)로 연결합니다.
+
+**만성통증:** 39개 RCT·20,827명의 개인자료 메타분석은 근골격통·골관절염·만성두통·어깨통증에서 침의 통증·기능 개선을 확인했고, 효과는 추적에서도 대부분 유지됐습니다. 무침 대조와 가짜침 대조의 효과 크기가 다르므로 어떤 비교를 했는지 함께 읽습니다. [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [원저 PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/)
+
+실제 적용은 [요통](../conditions/low-back-pain.md#back-systematic-reviews)·[목통증](../conditions/neck-pain.md)·[어깨통증](../conditions/shoulder-pain.md)별로 이어집니다. 약침은 [국내 만성요통 비교시험](../authority/pharmacopuncture.md#pharmaco-back-trial), 추나는 [국내 비교효과 연구](#korean-treatment-results)를 별도로 확인할 수 있습니다. 통증점수와 함께 걷는 거리·앉아 있는 시간·수면·일상 복귀를 평가하면 치료의 의미가 더 분명해집니다.
+
 ## 원하는 자료 바로 찾기
 
 | 찾는 내용 | 대표 자료실 |
@@ -236,6 +281,17 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 ## WHO 전통의학 전략과 근거 중심의 통합 {#who-tm-context}
 
 WHO의 [Global Traditional Medicine Strategy 2025–2034](https://www.who.int/publications/i/item/9789240113176)는 전통·보완·통합의학(TCIM)의 과학적 근거 강화, 안전성과 효과성, 적절한 규제와 보건의료체계 통합을 주요 방향으로 제시합니다. 아카이브는 이 방향을 참고하여 문헌에서 선별한 지식을 실제 임상연구·진료지침·안전성 자료와 연결합니다.
+
+이 전략은 제78차 세계보건총회에서 채택됐습니다. WHO의 네 목표는 **과학적 근거 강화, 안전성과 규제, 보건의료체계 통합, 부문 간 가치와 협력의 확대**입니다. 이는 개별 치료의 인증 목록이 아니라 연구와 제도를 발전시키는 국제적 방향입니다.
+
+| WHO 전략의 방향 | 이 페이지에서 구체적으로 확인할 내용 |
+|---|---|
+| 근거 강화 | 소화·수면·두통·통증에서 실제 환자를 비교한 시험과 효과 크기 |
+| 안전성과 규제 | 시험제제·시술 구성, 이상반응·병용약·시술자와 품질관리 |
+| 보건의료체계 통합 | 진단·검사와 한의치료 목표를 연결하고 경과를 함께 평가하는 방법 |
+| 부문 간 가치와 협력 | 전통 지식·연구·교육을 연결하고 출처와 지식의 맥락을 보존하는 일 |
+
+이 표는 WHO 목표를 아카이브의 읽기 방식에 연결한 설명입니다. [자율신경·소화·수면·심계·두통·만성통증의 근거](#symptom-focused-evidence)에서 개별 임상자료로 이어지며, WHO가 이 아카이브나 특정 처방·시술을 승인했다는 의미는 아닙니다.
 
 **Evidence-informed TCIM**, **Integrative Medicine**, **Traditional Medicine Research**는 이 국제적 맥락을 이해하는 표현입니다. 이곳에서는 연구의 대상·중재·결과를 확인하고 환자의 상태·선호·치료 목표와 함께 읽는 방식으로 구체화합니다.
 
