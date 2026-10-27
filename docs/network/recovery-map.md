@@ -1,11 +1,11 @@
 ---
-title: 피로·회복 지식망
+title: 피로·보익·회복 지식망
 description: 피로의 원인·활동 후 악화와 회복 목표를 확인하고 기허·기혈양허·허손·기음양허·비위기허의 본초·처방·침구와 연구를 비교합니다.
 tags: [한의학지식망, 피로, 회복, 보익]
 status: 검토완료
 last_reviewed: 2026-08-19
 ---
-# 피로·회복 지식망 {#_1}
+# 피로·보익·회복 지식망 {#_1}
 
 피로는 모두 같은 허약을 뜻하지 않습니다. 수면 부족, 식사량 감소, 빈혈·갑상선질환, 약물, 감염·수술 뒤 회복과 활동 후 악화가 각각 어떤 비중인지 먼저 확인합니다. 이 지도는 **원인 평가 → 동반 증후 → 처방의 배합 이유 → 침구·생활관리 → 기능 회복**을 연결합니다.
 
@@ -19,6 +19,19 @@ last_reviewed: 2026-08-19
 | 병후·수술·산후부터 허약함 | 합병증·출혈·영양·수유·현재 진료 | 걷기·돌봄·상처·식사와 수면 |
 
 [만성피로 감별](../conditions/chronic-fatigue.md#cause-check)과 [피로·기력회복](../conditions/energy-recovery.md)에서 검사·증상 평가를 먼저 읽습니다. 호흡곤란·흉통·실신·출혈·지속 발열·체중감소는 보약을 정하기 전에 원인을 확인합니다.
+
+## 양생·만성 관리·회복을 함께 보는 이유 {#prevention-functional-care}
+
+《내경》의 「食飲有節，起居有常，不妄作勞」는 **식사에 절도가 있고 생활이 일정하며 무리하게 소모하지 않는다**는 뜻이다. 《금궤요략》 치미병 조문은 「即勿補之」라는 보하지 않는 조건도 함께 제시한다. 양생은 생활의 리듬과 몸 상태를 돌보는 관점이며, 보익은 현재 부족한 기능과 증후에 맞춰 선택하는 치료 방향이다. [원문·출전과 자체 풀이](../yangsaeng/index.md#conditional-care)
+
+| 현재의 목표 | 한의학에서 함께 살피는 것 | 임상 설명·대표 연구 |
+|---|---|---|
+| 평소 건강 위험 관리 | 식사·수면·활동과 검사 결과 | [당뇨전단계 생활관리](../conditions/prediabetes.md#diabetes-prevention-trial): 생활중재 시험과 한약 연구 구분 |
+| 식사와 소화 기능 회복 | 조기포만·오심·담습·기체·허약 | [기능성소화불량](../conditions/functional-dyspepsia.md#classical-function): 육군자탕 등 처방과 일본 위약대조시험 |
+| 만성질환에 동반된 허약 | 식욕·피로·수면과 실제 근력·보행 | [근감소증·노쇠](../conditions/frailty-sarcopenia.md#sarcopenia-formulas): 인삼양영탕의 COPD 환자 연구 |
+| 수술·큰 치료 뒤 생활 복귀 | 섭취·배변·통증·활동과 회복 단계 | [수술 후 회복](../conditions/postoperative-recovery.md#classical-gut-recovery): 대건중탕의 장기능 결과 |
+
+한의학의 보익·회복 관점은 ‘기운’ 하나에 머물지 않고 먹고 움직이고 잠드는 생활을 함께 살핀다는 데 특징이 있다. 어떤 치료의 이점이 직접 확인됐는지는 대상과 비교군에 맞춰 읽는다. 여러 분야를 비교하려면 [예방·기능 회복 연구 지도](../research/prevention-function.md)를 이용한다.
 
 ## 1. 기허 중심 {#1}
 
@@ -48,7 +61,7 @@ last_reviewed: 2026-08-19
 
 식욕·기력이 떨어지는 바탕에 오심·그득함·무거움이 겹치면 비위를 돕는 축과 담습·기체를 조절하는 축을 함께 봅니다. [육군자탕](../formulas/liujunzi-tang.md)은 사군자탕 골격에 반하·진피를 결합한 것으로 이해할 수 있습니다.
 
-정체·기체가 중심인지, 묽은 변과 영양 회복이 중심인지에 따라 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)·[삼령백출산](../formulas/shenling-baizhu-san.md) 등과 비교합니다. 피곤하다는 이유만으로 보익약을 더하기보다 먹는 양과 식후 불편이 먼저 나아지는지 확인합니다. [소화불량 임상 지도](dyspepsia-map.md)·[기능성소화불량 사람 연구](../conditions/functional-dyspepsia.md#pds-acupuncture-results)
+정체·기체가 중심인지, 묽은 변과 영양 회복이 중심인지에 따라 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)·[삼령백출산](../formulas/shenling-baizhu-san.md) 등과 비교합니다. 피곤하다는 이유만으로 보익약을 더하기보다 먹는 양과 식후 불편이 먼저 나아지는지 확인합니다. [소화불량 임상 지도](../conditions/dyspepsia.md)·[기능성소화불량 사람 연구](../conditions/functional-dyspepsia.md#pds-acupuncture-results)
 
 ## 한눈에 보기 {#_2}
 

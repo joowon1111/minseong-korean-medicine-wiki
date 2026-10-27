@@ -65,7 +65,7 @@ last_reviewed: 2026-08-19
 | **국소 통증 + 전신 허약** | 요부 경혈에 허약·소화 증후에 따른 경혈 검토 | 냉감·피로·활동량과 회복시간도 나아지는가? |
 | **근육·경근 + 관절 기능** | 압통점·근막통증점과 관련 경혈 | 한 근육의 압통 감소가 실제 고관절·몸통 움직임으로 이어지는가? |
 
-이 표는 고정된 시술 처방이 아니라 조합의 목적을 설명한 것입니다. 감각·근력의 악화, 통증이 다리 끝으로 더 퍼지는 변화가 있으면 혈 수를 늘리기 전에 진단·활동 부하와 치료 전략을 다시 봅니다. [허리 근막통증 해부](../clinical-anatomy/mps-lumbar.md) · [임상 핵심 배혈](acupoint-combinations.md)
+이 표는 고정된 시술 처방이 아니라 조합의 목적을 설명한 것입니다. 감각·근력의 악화, 통증이 다리 끝으로 더 퍼지는 변화가 있으면 혈 수를 늘리기 전에 진단·활동 부하와 치료 전략을 다시 봅니다. [허리 근막통증 해부](../clinical-anatomy/mps-lumbar.md) · [임상 핵심 배혈](acupuncture-clinical-map.md#_4)
 
 <span id="back-pattern-selection"></span>
 
@@ -138,7 +138,7 @@ last_reviewed: 2026-08-19
 
 ## 관련 문서를 이어서 읽기 {#back-related}
 
-[요통 임상 지식망](low-back-pain-map.md) · [요통 상세 치료·운동](../conditions/low-back-pain.md) · [침구 임상 지식망](acupuncture-clinical-map.md) · [3D 경혈 지도](/assets/acupoint-3d/?point=BL23)
+[요통 임상 지식망](../conditions/low-back-pain.md) · [요통 상세 치료·운동](../conditions/low-back-pain.md) · [침구 임상 지식망](acupuncture-clinical-map.md) · [3D 경혈 지도](/assets/acupoint-3d/?point=BL23)
 
 ## 참고문헌 {#_3}
 

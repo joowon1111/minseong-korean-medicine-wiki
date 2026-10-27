@@ -62,7 +62,7 @@ Takiguchi 등의 2013년 연구는 위암으로 **원위부 위절제 17명·위
 2. Ko SJ, et al. *Effects of the herbal medicine Rikkunshito for functional dyspepsia: A systematic review and meta-analysis.* **PMID 32767596**.
 3. Hoshino N, et al. *Rikkunshito for upper gastrointestinal symptoms: a systematic review and meta-analysis.* **PMID 30670250**.
 
-→ [소화불량 임상 지식망](../../network/dyspepsia-map.md)
+→ [소화불량 임상 지식망](../../conditions/dyspepsia.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

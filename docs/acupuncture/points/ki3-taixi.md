@@ -103,6 +103,6 @@ last_reviewed: 2026-08-22
 
 - [경혈 임상 지식망](../../acupoint-network/index.md)
 - [경락·경맥 임상 지식망](../../meridian-network/index.md)
-- [임상 핵심 배혈](../../network/acupoint-combinations.md)
+- [임상 핵심 배혈](../../network/acupuncture-clinical-map.md#_4)
 - [침구·한의치료 허브](../../pillar/acupuncture-treatment.md)
 - [현대 임상근거](../../pillar/clinical-evidence.md)

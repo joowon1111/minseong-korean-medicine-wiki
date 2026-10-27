@@ -40,18 +40,19 @@ function targetParts(target) {const [source,hash=''] = target.split('#');return 
   for(const width of [320,1440]) {
    await page.setViewportSize({width,height:900});
    await page.goto(base+'/network/condition-expansion-map/#_4',{waitUntil:'domcontentloaded'});
-   assert.match(await page.locator('#_4').textContent(),/호흡기/);
+   await page.waitForURL(url=>url.pathname==='/network/condition-to-treatment-map/'&&url.hash==='#respiratory');
+   assert.match(await page.locator('#respiratory').textContent(),/호흡기/);
    assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'No page overflow at '+width);
    const links=await page.locator('.md-nav--primary a[href]').evaluateAll(nodes=>nodes.map(n=>new URL(n.href).pathname));
    for(const old of Object.keys(routes)) assert(!links.includes(pathname(old)),old+' removed from menu');
-   assert(links.includes('/network/condition-expansion-map/'),'Current clinical map remains in its active menu branch');
+   assert(links.includes('/network/condition-to-treatment-map/'),'Current clinical map remains in its active menu branch');
    await page.evaluate(()=>document.fonts.ready);
    await page.screenshot({path:`archive-browser-results/network-consolidation-${width}.png`});
    // Material prunes inactive menu branches. Exercise the actual entry links,
    // then verify each destination's own active branch instead of assuming it is open.
    for(const current of ['formula-composition-hub','herb-to-formula-map','recovery-map']) {
     await page.goto(base+'/network/',{waitUntil:'domcontentloaded'});
-    const link=page.locator('.md-content a').filter({hasText:current==='formula-composition-hub'?'처방 구성 네트워크':current==='herb-to-formula-map'?'본초→방제 역탐색':'피로·회복'}).first();
+    const link=page.locator(`.md-content a[href*='${current}/']`).first();
     await link.click();
     await page.waitForURL(url=>url.pathname==='/network/'+current+'/',{waitUntil:'domcontentloaded'});
     await page.locator('.md-content h1').waitFor();
@@ -62,6 +63,11 @@ function targetParts(target) {const [source,hash=''] = target.split('#');return 
   }
   for(const width of [320,1440]) {
    await page.setViewportSize({width,height:900});
+   await page.goto(base+'/classical-stories/',{waitUntil:'domcontentloaded'});
+   const labels=await page.locator('.md-nav--primary > .md-nav__list > .md-nav__item').evaluateAll(nodes=>nodes.map(n=>n.textContent.trim()));
+   assert(labels[0].startsWith('홈')&&labels[1].startsWith('민성의담'),'Uidam must be independent immediately after Home');
+   assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)),'Uidam fits '+width);
+   await page.screenshot({path:`archive-browser-results/uidam-navigation-${width}.png`});
    await page.goto(base+'/conditions/facial-palsy/',{waitUntil:'domcontentloaded'});
    for(const id of ['acute-treatment','eye-protection','facial-pattern-treatment','facial-acute-acupuncture-2025','facial-ea-2026','facial-synkinesis','_6','_7','_8'])
     assert.equal(await page.locator('[id]').evaluateAll((nodes,id)=>nodes.filter(n=>n.id===id).length,id),1,'Facial palsy section '+id);

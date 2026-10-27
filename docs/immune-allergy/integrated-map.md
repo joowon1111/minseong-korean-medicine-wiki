@@ -24,7 +24,7 @@ last_reviewed: 2026-09-06
 → [만성염증·면역·통증과 회복](inflammation-pain.md) · [만성염증·CRP·ESR 해석](../conditions/inflammation-markers.md)
 
 → [자율신경·스트레스 지식망](../autonomic/index.md)
-→ [통합 한의학 지식 그래프](../network/integrated-knowledge-graph.md)
+→ [통합 한의학 지식 그래프](../network/index.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

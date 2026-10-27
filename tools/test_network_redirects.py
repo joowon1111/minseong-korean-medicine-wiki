@@ -14,12 +14,12 @@ ROOT = Path(__file__).resolve().parents[1]
 class ConsolidatedNetworkRedirects(unittest.TestCase):
     def test_retired_sources_are_not_rendered_as_duplicate_articles(self):
         files = [SimpleNamespace(src_uri=source) for source in redirects.load_routes()]
-        files += [SimpleNamespace(src_uri='network/condition-expansion-map.md')]
-        self.assertEqual([file.src_uri for file in redirects.on_files(files, {})], ['network/condition-expansion-map.md'])
+        files += [SimpleNamespace(src_uri='network/condition-to-treatment-map.md')]
+        self.assertEqual([file.src_uri for file in redirects.on_files(files, {})], ['network/condition-to-treatment-map.md'])
 
     def test_all_destinations_are_real_and_not_redirect_chains(self):
         routes = redirects.load_routes()
-        self.assertEqual(len(routes), 53)
+        self.assertEqual(len(routes), 62)
         for source, route in routes.items():
             for target in [route['target'], *route['anchors'].values()]:
                 path = target.split('#')[0]

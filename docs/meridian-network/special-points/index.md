@@ -50,5 +50,5 @@ tags: [특정혈, 오수혈, 원혈, 락혈, 극혈, 배수혈, 모혈, 팔회�
 - [경락·경맥 임상 지식망](../index.md)
 - [경혈 임상 지식망](../../acupoint-network/index.md)
 - [기경팔맥](../extraordinary-vessels.md)
-- [임상 핵심 배혈 조합](../../network/acupoint-combinations.md)
+- [임상 핵심 배혈 조합](../../network/acupuncture-clinical-map.md#_4)
 - [임상 핵심 변증](../../diagnostics/patterns/index.md)

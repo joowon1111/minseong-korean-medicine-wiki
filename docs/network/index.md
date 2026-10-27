@@ -1,63 +1,58 @@
 ---
-title: 한의학 통합 지식망
-description: 증상·변증·본초·방제·경락·경혈·고전·현대 근거를 임상추론 흐름으로 연결합니다.
+title: 한의학 지식망 — 증상·처방·경혈·고전 연결
+description: 증상에서 치료로, 본초에서 처방으로, 경혈에서 배혈로 이어지는 대표 경로를 안내합니다. 원전·구성·임상연구를 비교하는 방법과 분야별 상세 자료를 함께 찾을 수 있습니다.
 ---
-# 한의학 통합 지식망 {#_1}
+# 한의학 지식망 {#_1}
 
-이 지식망은 문서 목록이 아니라 **환자가 쓰는 말 → 위험신호·감별 → 한의학적 변증 → 본초·방제·경혈 → 치료 → 현대 근거 → 재평가**의 흐름으로 연결합니다.
+증상, 약재, 처방, 경혈, 고전 가운데 **지금 알고 있는 것에서 출발해 다음 질문으로 이어가는 안내**입니다. 질환의 감별과 치료는 해당 질환 문서에 모으고, 이곳에서는 여러 문서를 비교해야 이해되는 배합·배혈·출전의 관계를 살펴봅니다.
 
-## 지금 아는 정보에서 출발하기 {#starting-points}
+## 어디에서 시작할까요? {#starting-points}
 
-| 지금 알고 있는 정보 | 먼저 읽을 문서 | 그다음 확인할 것 |
+| 알고 있는 것 | 대표 경로 | 확인할 내용 |
 |---|---|---|
-| 피로·불면·통증 등 불편한 증상 | [증상·질환](../conditions/index.md) | 발병·경과·동반 증상과 감별 |
-| 기허·담음·어혈 같은 용어 | [진단·변증](../diagnostics/index.md) | 용어의 뜻과 비슷한 변증의 차이 |
-| 약재 이름 | [본초 찾기](../herbal-integrated/herbs.md) | 기원·법제·배합 속 역할 |
-| 처방 이름 | [방제 찾기](../herbal-integrated/formulas.md) | 출전·구성·유사 처방 |
-| 경혈 코드·아픈 부위 | [경락·경맥](../meridian-network/index.md) | 위치·특정혈·증상과 해부학 |
-| 고전·의가의 이름 | [의가·인물](../physicians/index.md) | 저술이 다루는 질문과 처방 계보 |
-| 효과를 평가한 논문 | [근거 읽는 법](../evidence-guide/index.md) | 연구 대상·중재·결과·적용 범위 |
+| 아픈 부위·불편한 증상 | [증상별 감별·치료 지도](condition-to-treatment-map.md) | 통증·수면·소화·호흡기·여성건강의 원인과 치료 목표 |
+| 피로와 회복 지연 | [피로·보익·회복](recovery-map.md) | 수면·섭취·활동과 보익 처방, 회복 단계 |
+| 약재 이름 | [본초에서 처방 찾기](herb-to-formula-map.md) | 같은 약재가 처방마다 맡는 역할 |
+| 처방 이름 | [처방에서 변증 찾기](formula-to-condition-map.md) | 구성·동반 증후·유사 처방과의 차이 |
+| 경혈 이름·코드 | [배혈과 치료 설계](acupuncture-clinical-map.md) | 위치·해부학·국소와 원위 배혈·자극법 |
+| 고전·의가 | [의가·저술·처방의 전승](physician-classic-formula-lineage.md) | 저술·편찬·의안·후대 정리의 구분 |
+| 연구 논문 | [원전과 현대 연구 대조](classic-to-evidence-map.md) | 대상·실제 제제·비교치료·평가 결과 |
 
-서로 연결되어 있다는 사실이 같은 의미나 같은 근거라는 뜻은 아닙니다. 예를 들어 본초의 성분 연구, 그 본초가 든 처방의 연구, 특정 환자의 치료 판단은 질문과 확인할 자료가 다릅니다.
+## 증상에서 치료와 경과로 {#_2}
 
-## 지도를 고르는 기준 {#choose-network}
+[불면](../conditions/insomnia.md), [소화불량](../conditions/dyspepsia.md), [요통](../conditions/low-back-pain.md)은 각 본문에서 원인·변증·한약·침구·연구·생활관리를 이어 읽을 수 있습니다. 증상이 여럿 겹치면 [증상별 감별·치료 지도](condition-to-treatment-map.md)에서 어느 평가를 먼저 할지 살펴봅니다.
 
-| 지금 풀고 싶은 질문 | 설명을 모은 대표 지도 | 다른 지도와의 차이 |
+예를 들어 ‘허리가 아프고 다리가 저리다’는 표현에서는 [요통의 유형](../conditions/low-back-pain.md#_3)을 먼저 보고 [허리디스크](../conditions/lumbar-disc-herniation.md)·[협착증](../conditions/lumbar-spinal-stenosis.md)의 차이를 확인합니다. 이어 [요통 배혈](low-back-pain-acupoints.md#point-combinations)과 [운동의 방향](../conditions/low-back-pain.md#mckenzie-extension), [치료 후 기능](../conditions/low-back-pain.md#_12)을 연결합니다.
+
+## 본초·방제를 비교하며 읽기 {#_3}
+
+| 비교하는 단위 | 대표 문서 | 그 문서가 답하는 질문 |
 |---|---|---|
-| 목·어깨·허리부터 비염·갱년기까지 어디서 시작할까? | [질환·증상 확장 지도](condition-expansion-map.md) | 부위·기간·동반 증상의 감별 질문과 분야별 상세 문서 |
-| 증상에서 치료·경과까지 어떻게 이어지는가? | [질환→치료 통합 지도](condition-to-treatment-map.md) | 원인·변증·한약·침구·기능 회복의 전체 순서 |
-| 불면·소화·피로의 처방이 왜 다른가? | [불면](insomnia-map.md)·[소화불량](dyspepsia-map.md)·[피로·회복](recovery-map.md) | 동반 증후가 바뀔 때 비교할 배합과 경과 |
-| 같은 본초가 처방마다 다른 역할을 하는가? | [본초→방제 역탐색](herb-to-formula-map.md) | 인삼·황기·당귀·백출·복령·감초·반하를 함께 비교 |
-| 비슷한 처방이 어떻게 갈라지는가? | [처방군 지도](formula-family-map.md)·[보기 처방 계보](tonic-formula-lineage.md) | 분류와 기본 골격·가감 관계의 차이 |
-| 약재 목록 외에 무엇을 확인해야 하나? | [처방 구성 네트워크](formula-composition-hub.md) | 공진단·경옥고·생맥산·오령산·십전대보탕의 원료·비율·제형 |
-| 침자리는 어떤 이유로 조합하는가? | [침구 임상 지식망](acupuncture-clinical-map.md) | 증상·해부학·자극량·3D와 반응 평가 |
+| 한 약재와 여러 처방 | [본초→방제](herb-to-formula-map.md) | 인삼·황기·당귀 등이 배합에 따라 어떤 역할을 맡는가? |
+| 두 약재의 관계 | [약대와 배합](herb-pair-combinations.md) | 반하·진피처럼 함께 쓰는 약재는 무엇을 보완하는가? |
+| 처방군 | [처방군별 차이](formula-family-map.md) | 보기·화담·해표·이수·거풍습의 갈림점은 무엇인가? |
+| 기본방과 변형 | [보익 처방의 구조·비교](tonic-formula-compare.md#formula-structure) | 사군자탕·육군자탕·팔물탕·십전대보탕은 어떻게 다른가? |
+| 실제 조제 내용 | [원료·비율·제형](formula-composition-hub.md) | 같은 처방명이라도 생즙·분말·탕·환·고는 무엇이 다른가? |
 
-개별 본초·처방·질환의 상세 설명은 원래 기준문서에서 읽습니다. 이곳의 비교 지도는 서로 겹치는 자료를 반복하기보다 **무엇이 다른지와 다음에 어디로 갈지**를 설명합니다.
+인삼에서 출발했다면 [인삼 본초](../herbs/ginseng.md) → [사군자탕과 육군자탕](../compare/sijunzi-vs-liujunzi.md) → [소화불량의 처방 비교](../conditions/dyspepsia.md#formula-comparison) 순서로 읽어 보세요. 공통 약재를 확인한 뒤 반하·진피가 더해진 이유와 실제 증후를 비교할 수 있습니다.
 
-## 증상과 변증 {#_2}
-- [질환·증상→치료 지도](condition-to-treatment-map.md)
-- [임상 핵심 변증](../diagnostics/patterns/index.md)
-- [경맥→증상 지도](../acupoint-network/by-condition.md)
+## 경혈에서 배혈·해부학으로 {#_4}
 
-피로와 소화불편이 함께 있으면 증상 문서에서 경과를 확인하고, 변증 비교에서 허약·담음·식적 등 구별할 질문을 정리한 뒤 처방 구조로 넘어갑니다. [복합 증상 예시](../questions/choice/fatigue-poor-digestion.md)를 따라가면 증상과 처방 사이에 어떤 판단이 필요한지 확인할 수 있습니다.
+[침구 임상 지식망](acupuncture-clinical-map.md)은 경혈 선택의 이유와 일반침·전침·약침의 차이, 한약과 병행할 때의 목표를 설명합니다. 상세 자료는 [불면](insomnia-acupoints.md)·[소화불량](dyspepsia-acupoints.md)·[요통](low-back-pain-acupoints.md)·[피로](fatigue-acupoints.md)로 나누어 경혈별 위치·배혈·해부학·연구를 확인합니다.
 
-## 본초와 방제 {#_3}
-- [본초→방제](herb-to-formula-map.md)
-- [본초 배합](herb-pair-combinations.md)
-- [방제→질환·변증](formula-to-condition-map.md)
-- [방제·경혈 조합](formula-acupoint-combinations.md)
+경혈의 위치는 [표준 아틀라스](../acupoint-network/standard-atlas.md), 유주는 [경락·경맥](../meridian-network/index.md), 실제 근육·신경과의 관계는 [임상 해부학](../clinical-anatomy/index.md)에서 읽습니다. 세 자료는 위치를 설명하는 관점이 다르므로 같은 정보로 바꾸어 읽지 않습니다.
 
-처방에서 낯선 본초를 만났다면 해당 본초 문서로 이동해 기원·주의점과 배합 속 역할을 확인합니다. 다시 처방으로 돌아와 전체 구성과 비교하면 개별 약재의 효능을 처방 전체의 효과로 오해하기 어렵습니다. 실제 읽는 순서는 [본초·방제 임상 연결](../herbal-formula-clinical/index.md)에 모았습니다.
+## 고전에서 구성과 연구로 {#_5}
 
-## 경락·경혈 {#_4}
-- [경락·경맥 지식망](../meridian-network/index.md)
-- [경혈 임상 지식망](../acupoint-network/index.md)
-- [특정혈](../meridian-network/special-points/index.md)
-- [배혈 조합](acupoint-combinations.md)
+[상한론 조문별 탐색](shanghan-taiyang-map.md)은 같은 처방이 등장하는 앞뒤 맥증과 치료 경과를 연결합니다. [고전→현대 연구](classic-to-evidence-map.md)는 그 질문을 현재의 질환·연구와 대조합니다. [예방·기능 회복 연구](../research/prevention-function.md)는 일상 기능과 생활 복귀를 중심으로 읽는 경로입니다.
 
-경혈을 찾은 뒤에는 같은 이름의 위치 자료와 치료 근거를 구분합니다. 경혈표는 위치·분류를 확인하는 자료이며, 치료 효과를 판단할 때는 어떤 질환에서 어떤 자극 방식과 배혈을 연구했는지 확인해야 합니다.
+예를 들어 《금궤요략》의 [허로허번불면](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017)에서 시작해 [산조인탕의 구성](../formulas/suanzaoren-tang.md), [불면의 변증과 동반 증상](../conditions/insomnia.md#classical-clinical-reading), [산조인탕 임상연구](../authority/formulas/suanzaoren-tang.md#szrd-results)를 차례로 확인합니다. 고전의 병증과 현대 시험의 모집 기준, 원방과 시험 제제의 구성은 각각 확인합니다.
 
-## 고전과 근거 {#_5}
-- [고전→현대 연구](classic-to-evidence-map.md)
-- [현대 임상근거](../pillar/clinical-evidence.md)
-- [연구·근거 임상 해석](../evidence-integrated/index.md)
+## 연결 자료를 읽는 기준 {#choose-network}
+
+- **포함 관계:** 어떤 본초가 들어 있다는 사실은 처방 전체의 효과와 다릅니다.
+- **문헌 관계:** 수록·인용·후대 가감은 최초 창안이나 직접 사제 관계와 구분합니다.
+- **치료 관계:** 함께 쓰인 경혈·치료의 빈도와 비교시험의 효과는 다른 정보입니다.
+- **연구 관계:** 세포·동물·건강인·환자 연구의 질문을 나누고, 실제 제형·기간·비교군을 확인합니다.
+
+검증할 원자료가 필요하면 [참고문헌 데이터베이스](../research/references/index.md), 개념이 낯설면 [진단·변증](../diagnostics/index.md), 사람과 약재의 이야기를 읽고 싶다면 [민성의담](../classical-stories/index.md)으로 이어갈 수 있습니다.

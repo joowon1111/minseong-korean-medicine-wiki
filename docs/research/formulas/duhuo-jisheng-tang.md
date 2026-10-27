@@ -30,7 +30,7 @@ bisphosphonate 치료에 독활기생탕을 병용한 골다공증 연구와 강
 3. Qu P, et al. *Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials.* **PMID 37933004**.
 4. Huang CY, et al. Duhuo Jisheng Decoction add-on bisphosphonate medications in osteoporosis. **PMID 34637967**.
 
-→ [요통 임상 지식망](../../network/low-back-pain-map.md)
+→ [요통 임상 지식망](../../conditions/low-back-pain.md)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

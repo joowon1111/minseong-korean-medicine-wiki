@@ -44,8 +44,8 @@ reader_tools: true
 
 | 공부할 내용 | 읽을 자료 | 비교할 질문 |
 |---|---|---|
-| 기본 배혈 | [임상 핵심 배혈 조합](../network/acupoint-combinations.md) | 어떤 증상·부위를 중심으로 구성했는가 |
-| 한약과 침구의 연결 | [방제·경혈 임상 조합](../network/formula-acupoint-combinations.md) | 각 치료가 맡는 목표는 무엇인가 |
+| 기본 배혈 | [임상 핵심 배혈 조합](../network/acupuncture-clinical-map.md#_4) | 어떤 증상·부위를 중심으로 구성했는가 |
+| 한약과 침구의 연결 | [방제·경혈 임상 조합](../network/acupuncture-clinical-map.md#combined-care) | 각 치료가 맡는 목표는 무엇인가 |
 | 사암침법 | [정격·승격 구성](../acupuncture-specific/saam-12-meridians.md) | 보사·자경·타경의 구성을 어떻게 설명하는가 |
 | 동씨침법 | [동씨기혈 아틀라스](../tung-acupuncture/index.md) | 혈군의 위치·출처와 활용 맥락은 무엇인가 |
 | 태극침법 | [체질별 구성](../taegeuk-acupuncture/constitutions.md) | 체질 판단·배혈·반응 관찰을 어떻게 구분하는가 |

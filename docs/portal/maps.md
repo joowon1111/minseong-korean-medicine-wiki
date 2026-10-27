@@ -231,7 +231,7 @@ hide:
 
 - [민성 한의학 아카이브 안내](../guide/index.md)
 - [분류 체계와 문서 구조](../guide/taxonomy.md)
-- [통합 지식 그래프](../network/integrated-knowledge-graph.md)
+- [통합 지식 그래프](../network/index.md)
 - [핵심 주제 허브](../pillar/index.md)
 - [태그 지식 색인](../tags.md)
 - [사이트 검색 안내](../search-guide.md)

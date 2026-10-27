@@ -188,7 +188,7 @@ last_reviewed: '2026-09-21'
 
 <!-- COMBO_FORMULA_14_START -->
 ## 방제와 경혈을 함께 보기 {#_21}
-- [방제·경혈 임상 조합 지도](../network/formula-acupoint-combinations.md)
+- [방제·경혈 임상 조합 지도](../network/acupuncture-clinical-map.md#combined-care)
 <!-- COMBO_FORMULA_14_END -->
 
 <!-- THREE_CORE_FORMULA_HUB_18_START -->
@@ -207,7 +207,7 @@ last_reviewed: '2026-09-21'
 
 ### 변증·경혈·연구로 더 깊게 {#_24}
 - [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
-- [방제·경혈 임상 조합 지도](../network/formula-acupoint-combinations.md)
+- [방제·경혈 임상 조합 지도](../network/acupuncture-clinical-map.md#combined-care)
 - [처방 구조 비교](../formula-architecture/index.md)
 - [현대 임상근거](../pillar/clinical-evidence.md)
 <!-- THREE_CORE_FORMULA_HUB_18_END -->

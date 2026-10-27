@@ -22,7 +22,7 @@ last_reviewed: 2026-09-06
 - [당귀](../herbs/angelica.md)
 - [천궁](../herbs/chuanxiong.md)
 - [우슬](../herbs/achyranthes.md)
-- [요통 임상 지식망](../network/low-back-pain-map.md)
+- [요통 임상 지식망](../conditions/low-back-pain.md)
 
 !!! note "용어 해석"
     이 개념은 전통 한의학의 생리·병리 언어다. 현대 의학의 특정 질환이나 검사수치와 단순히 동일시하기보다 변증과 처방의 맥락 속에서 이해한다.

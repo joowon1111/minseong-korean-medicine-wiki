@@ -393,4 +393,4 @@ WHO 표준 361경혈 체계에 따라 각 경혈의 상세 페이지를 경락�
 - [증상별 경혈 지도](by-condition.md)
 - [경락·경맥 지식망](../meridian-network/index.md)
 - [특정혈·특수혈 지식망](../meridian-network/special-points/index.md)
-- [임상 배혈 조합](../network/acupoint-combinations.md)
+- [임상 배혈 조합](../network/acupuncture-clinical-map.md#_4)

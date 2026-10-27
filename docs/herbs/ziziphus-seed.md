@@ -105,7 +105,7 @@ PSQI·ISI·수면일지처럼 **사람이 보고한 수면 지표**, 활동기�
 ## 관련 문서
 
 - [안신 본초 임상 지식망](categories/calm-spirit.md)
-- [불면 임상 지식망](../network/insomnia-map.md)
+- [불면 임상 지식망](../conditions/insomnia.md)
 - [산조인 + 원지 배합](../network/herb-pair-combinations.md#ziziphus-polygala-pair)
 - [《동의보감》 탕액편의 산조인](../classics/donguibogam/tangyeok/ziziphus-seed.md)
 

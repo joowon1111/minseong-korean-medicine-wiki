@@ -59,7 +59,7 @@ last_reviewed: 2026-08-19
 
 [귀비탕 수록형](../formulas/guibi-tang.md#donguibogam-version)은 피로·식욕저하·심계가 함께 나타나는 심비양허 문맥, [온담탕](../formulas/wendan-tang.md)은 오심·답답함·담음과 수면의 문맥을 비교할 때 읽습니다. 허로·번조의 [산조인탕](../formulas/suanzaoren-tang.md), 열감·건조와 음혈부족의 [천왕보심단](../formulas/tianwang-buxin-dan.md)도 증후에 따라 구분합니다.
 
-이 연결은 경혈과 처방이 어떤 전신 문제를 함께 보려는지 설명하는 자료입니다. 수면제·항우울제 등의 복용은 임의로 중단하지 않고, 한약·건강기능식품의 병용 가능성과 졸림·위장 증상 등 반응을 확인합니다. [불면 임상 지식망](insomnia-map.md) · [고전의 임상적 해석](../conditions/insomnia.md#classical-clinical-reading)
+이 연결은 경혈과 처방이 어떤 전신 문제를 함께 보려는지 설명하는 자료입니다. 수면제·항우울제 등의 복용은 임의로 중단하지 않고, 한약·건강기능식품의 병용 가능성과 졸림·위장 증상 등 반응을 확인합니다. [불면 임상 지식망](../conditions/insomnia.md) · [고전의 임상적 해석](../conditions/insomnia.md#classical-clinical-reading)
 
 ## 침치료와 수면 관리는 어떤 관계인가요? {#sleep-integrated-care}
 
@@ -124,4 +124,4 @@ last_reviewed: 2026-08-19
 4. Qaseem A, et al. [Management of Chronic Insomnia Disorder in Adults](https://pubmed.ncbi.nlm.nih.gov/27136449/). ACP, 2016. CBT-I 권고.
 5. 국가한의임상정보포털. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 경혈별 상세의 지침·원문 연결 참고.
 
-[불면 임상 지식망](insomnia-map.md) · [불면 전체 안내](../conditions/insomnia.md) · [침구 임상 지식망](acupuncture-clinical-map.md)
+[불면 임상 지식망](../conditions/insomnia.md) · [불면 전체 안내](../conditions/insomnia.md) · [침구 임상 지식망](acupuncture-clinical-map.md)

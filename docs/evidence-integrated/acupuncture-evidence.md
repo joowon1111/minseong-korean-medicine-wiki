@@ -144,7 +144,7 @@ Xu 등의 2020년 *BMJ* 다기관 RCT는 전조 없는 삽화성 편두통 **150
 - **치료 구분:** 수기침과 전침, 단독치료와 한약·통상치료 병행
 - **임상 연결:** 불안·우울·수면무호흡·약물과 생활리듬을 함께 확인
 
-→ [불면 임상 지식망](../network/insomnia-map.md) · [불면 경혈 지식망](../network/insomnia-acupoints.md)
+→ [불면 임상 지식망](../conditions/insomnia.md) · [불면 경혈 지식망](../network/insomnia-acupoints.md)
 
 **우울증 동반 불면의 270명 전침 시험**은 표준관리와 가짜침을 함께 비교했습니다. [8주 수면의 질과 32주 추적](../conditions/insomnia.md#jama-depression-insomnia-trial)에서 병행치료의 효과를 확인하고, [수면 결과 읽기](../conditions/insomnia.md#sleep-results-reading)에서 PSQI·ISI·활동기록을 구분합니다.
 

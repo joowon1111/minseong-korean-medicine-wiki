@@ -141,6 +141,6 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 ## 관련 핵심 문서
 - [경락·경맥 임상 지식망](../meridian-network/index.md)
 - [경혈 임상 지식망](index.md)
-- [임상 핵심 배혈 조합](../network/acupoint-combinations.md)
+- [임상 핵심 배혈 조합](../network/acupuncture-clinical-map.md#_4)
 - [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 - [침구·한의치료 허브](../pillar/acupuncture-treatment.md)

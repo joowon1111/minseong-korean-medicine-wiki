@@ -152,7 +152,7 @@ last_reviewed: 2026-09-06
 | 건조변·배변곤란에서 한약을 어떻게 평가했나요? | [마자인환의 임상시험](../formulas/mazi-ren-wan.md) · [변비 한약 지도](../authority/formulas/functional-constipation-herbal-map.md) | 완전자발배변·변 형태·힘주기·구제약과 추적기간 |
 | 장 점막·미생물·면역의 변화는 무엇을 뜻하나요? | [소화·장 점막·면역](../immune-allergy/gut-recovery.md#gut-mucosal-immunity) | 기전·검사 변화와 실제 증상·섭취 회복을 구분 |
 
-연구 대상·처방 구성·용량·기간·비교군을 함께 읽습니다. 위장관 증상 연구의 결과를 간 섬유화·담석·췌장 기능 개선의 근거로 옮기지 않습니다. [소화불량 임상 지식망](../network/dyspepsia-map.md) · [현대 임상근거 허브](clinical-evidence.md)
+연구 대상·처방 구성·용량·기간·비교군을 함께 읽습니다. 위장관 증상 연구의 결과를 간 섬유화·담석·췌장 기능 개선의 근거로 옮기지 않습니다. [소화불량 임상 지식망](../conditions/dyspepsia.md) · [현대 임상근거 허브](clinical-evidence.md)
 
 ## 식사와 배변을 같은 기준으로 기록합니다 {#digestive-followup}
 

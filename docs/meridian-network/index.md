@@ -83,6 +83,6 @@ tags: [경락, 십이경맥, 기경팔맥, 특정혈, 침구지식망]
 
 
 - [경혈 임상 지식망](../acupoint-network/index.md)
-- [임상 핵심 배혈 조합](../network/acupoint-combinations.md)
+- [임상 핵심 배혈 조합](../network/acupuncture-clinical-map.md#_4)
 - [임상 핵심 변증 지도](../diagnostics/patterns/index.md)
 - [침구·한의치료 허브](../pillar/acupuncture-treatment.md)

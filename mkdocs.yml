@@ -50,6 +50,15 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      network/formula-acupoint-combinations.md: network/acupuncture-clinical-map.md#combined-care
+      network/acupoint-combinations.md: network/acupuncture-clinical-map.md#_4
+      network/condition-expansion-map.md: network/condition-to-treatment-map.md
+      network/integrated-knowledge-graph.md: network/index.md
+      network/tonic-formula-lineage.md: network/tonic-formula-compare.md#formula-structure
+      network/tonic-wellness-hub.md: network/recovery-map.md
+      network/low-back-pain-map.md: conditions/low-back-pain.md
+      network/dyspepsia-map.md: conditions/dyspepsia.md
+      network/insomnia-map.md: conditions/insomnia.md
       autonomic/fatigue-recovery.md: conditions/chronic-fatigue.md#stress-recovery
       autonomic/palpitations.md: conditions/palpitation.md#stress-five-core
       sasang/sasang-sweat.md: sasang-original-symptoms/sweating.md#sweat-questions
@@ -60,7 +69,7 @@ plugins:
       authority/conditions/insomnia.md: conditions/insomnia.md#sleep-research
       conditions/stress-palpitations-digestion.md: autonomic/stress-digestion.md#meal-palpitations
       authority/conditions/functional-dyspepsia.md: conditions/functional-dyspepsia.md#pds-acupuncture-results
-      authority/conditions/peripheral-facial-palsy.md: conditions/facial-palsy.md
+      authority/conditions/peripheral-facial-palsy.md: conditions/facial-palsy.md#_1
       authority/conditions/bell-palsy-acute-acupuncture.md: conditions/facial-palsy.md#facial-acute-acupuncture-2025
       authority/low-back-pain.md: conditions/low-back-pain.md#back-research
       authority/conditions/chronic-neck-pain.md: conditions/neck-pain.md#_8
@@ -462,6 +471,42 @@ markdown_extensions:
     custom_checkbox: true
 nav:
 - 홈: index.md
+- 민성의담:
+  - 연재 모아보기: classical-stories/index.md
+  - 기침은 같아도 약첩은 달랐다: classical-stories/cough-formulas.md
+  - 다리를 펴기 전에, 발이 따뜻해지기를 기다리다: classical-stories/cramps-treatment-order.md
+  - 지친 몸에 잠이 오지 않는 밤: classical-stories/insomnia-fatigue.md
+  - 탕약에 엿을 녹여 넣던 까닭: classical-stories/abdominal-pain-malt-syrup.md
+  - 한 약첩에 담긴 차가움과 따뜻함: classical-stories/digestive-cold-warm-pairing.md
+  - 구토와 설사 사이, 물을 찾는 사람: classical-stories/vomiting-diarrhea-thirst.md
+  - 생강과 말린 생강이 만난 약첩: classical-stories/ginger-fresh-dried.md
+  - 목은 마른데 물을 마시면 토할 때: classical-stories/water-thirst-vomiting.md
+  - 반하 옆에 놓인 귤껍질: classical-stories/phlegm-citrus-peel.md
+  - 잠 못 드는 밤의 처방, 마지막 재료는 노른자: classical-stories/insomnia-egg-yolk.md
+  - 변비 처방 속 씨앗 둘과 꿀 한 가지: classical-stories/constipation-seeds.md
+  - 사흘 밤낮, 경옥고 한 항아리에 담긴 시간: classical-stories/gyeongokgo-slow-preparation.md
+  - 보약에도 흐름이 있다 — 공진단의 네 약재: classical-stories/gongjindan-four-directions.md
+  - 녹용대보탕, 보하는 약 사이에 반하를 놓다: classical-stories/deer-antler-tonic-digestion.md
+  - 돌봄을 받은 아이가, 아이들을 위한 의서를 남기다: classical-stories/childhood-care-book.md
+  - 영조가 약에 이름을 내린 날: classical-stories/yeongjo-geongong-tang.md
+  - 아이에게 죽을, 돌보는 이에게도 한 끼를: classical-stories/jeongjo-child-care.md
+  - 세종이 약초를 캔 사람의 이름까지 적게 한 이유: classical-stories/sejong-herb-collectors.md
+  - 당귀는 왜 ‘돌아온다’는 이름을 얻었을까: classical-stories/angelica-returning-name.md
+  - 소요산, 느긋한 이름 아래 모인 여덟 약재: classical-stories/xiaoyao-name-and-rest.md
+  - 허준이 책머리에서 걱정한 것은 약값이었다: classical-stories/heo-jun-book-and-reader.md
+  - 사향을 바치던 고을에 내려온 뜻밖의 명령: classical-stories/musk-tribute-and-village.md
+  - 계지탕 한 사발 뒤에 이어진 따뜻한 죽: classical-stories/guizhi-warm-rice-gruel.md
+  - 가을밤, 잠자리에 드는 시간을 바꾸다: classical-stories/autumn-evening-rest.md
+  - 세종의 초수, 효험이 엇갈리자 다시 조사하다: classical-stories/sejong-chosu-outcomes.md
+  - 찬바람이 들면, 옷 한 겹을 더: classical-stories/first-cold-extra-layer.md
+  - 쌍화탕, 두 가지를 함께 보하는 한 사발: classical-stories/ssanghwa-twofold-care.md
+  - 사상의학 이야기:
+    - 열일곱 소녀의 설사, 그보다 오래된 소화불량: classical-stories/sasang/soyangin-diarrhea-case.md
+    - 새 병이 나은 뒤에도 평소의 불편을 살피다: classical-stories/sasang/taeeumin-baseline-recovery.md
+    - 다시 죽을 먹고 문밖을 걷기까지: classical-stories/sasang/soeumin-sweating-case.md
+    - 세 사람의 복통, 서로 달랐던 회복의 시간: classical-stories/sasang/soyangin-recurring-abdominal-pain.md
+    - 회복하는 동안 약첩에서 빠진 대황: classical-stories/sasang/taeeumin-formula-adjustment.md
+    - 숨이 가라앉은 뒤에도 진료는 끝나지 않았다: classical-stories/sasang/soyangin-breathing-reassessment.md
 - 한의학 기초:
   - 한의학 기초 한눈에 보기: foundations-integrated/index.md
   - 장부·기혈진액: foundations-integrated/zangfu-qi-blood-fluids.md
@@ -1260,34 +1305,27 @@ nav:
   - 태그: tags.md
   - 한의학 지식망:
     - network/index.md
-    - 임상 증상·질환 지도:
-      - 불면 임상 지식망: network/insomnia-map.md
-      - 소화불량 임상 지식망: network/dyspepsia-map.md
-      - 요통 임상 지식망: network/low-back-pain-map.md
-      - 질환·증상 확장 지도: network/condition-expansion-map.md
-      - 질환→치료 통합 지도: network/condition-to-treatment-map.md
-    - 본초·방제 연결:
-      - 보기·기혈쌍보 처방 계보: network/tonic-formula-lineage.md
-      - 처방군 지도: network/formula-family-map.md
-      - 보익·양생 허브: network/tonic-wellness-hub.md
-      - 보익 처방 비교: network/tonic-formula-compare.md
-      - 피로·회복 지식망: network/recovery-map.md
-      - 처방 구성 네트워크: network/formula-composition-hub.md
-      - 본초→방제 역탐색: network/herb-to-formula-map.md
-      - 방제→질환·변증 지도: network/formula-to-condition-map.md
-    - 침구·치료 연결:
-      - 침구 임상 지식망: network/acupuncture-clinical-map.md
-      - 불면 경혈 지식망: network/insomnia-acupoints.md
-      - 소화불량 경혈 지식망: network/dyspepsia-acupoints.md
-      - 요통 경혈 지식망: network/low-back-pain-acupoints.md
-      - 피로·회복 경혈 지식망: network/fatigue-acupoints.md
-    - 의가·고전·연구 연결:
-      - 의가·고전·처방 계보: network/physician-classic-formula-lineage.md
-      - 상한론 전체 조문 지도: network/shanghan-taiyang-map.md
-      - 고전→현대 연구 연결: network/classic-to-evidence-map.md
-      - 예방·기능 회복 연구 지도: research/prevention-function.md
-    - 통합 지식 그래프:
-      - 통합 한의학 지식 그래프: network/integrated-knowledge-graph.md
+    - 증상에서 치료로:
+      - 증상별 감별·치료 지도: network/condition-to-treatment-map.md
+      - 피로·보익·회복: network/recovery-map.md
+    - 본초·방제 비교:
+      - 본초에서 처방 찾기: network/herb-to-formula-map.md
+      - 약대와 배합: network/herb-pair-combinations.md
+      - 처방군별 차이: network/formula-family-map.md
+      - 보익 처방의 구조·비교: network/tonic-formula-compare.md
+      - 원료·비율·제형 비교: network/formula-composition-hub.md
+      - 처방에서 변증 찾기: network/formula-to-condition-map.md
+    - 경혈·배혈·치료:
+      - 배혈과 치료 설계: network/acupuncture-clinical-map.md
+      - 불면 경혈: network/insomnia-acupoints.md
+      - 소화불량 경혈: network/dyspepsia-acupoints.md
+      - 요통 경혈: network/low-back-pain-acupoints.md
+      - 피로·회복 경혈: network/fatigue-acupoints.md
+    - 고전·의가·연구:
+      - 의가·저술·처방의 전승: network/physician-classic-formula-lineage.md
+      - 상한론 조문별 탐색: network/shanghan-taiyang-map.md
+      - 원전과 현대 연구 대조: network/classic-to-evidence-map.md
+      - 예방·기능 회복 연구: research/prevention-function.md
   - 진단·변증:
     - diagnostics/index.md
     - 사진: diagnostics/four-examinations.md
@@ -1350,42 +1388,6 @@ nav:
         - 장경악: physicians/zhang-jingyue.md
         - 엽천사: physicians/ye-tianshi.md
         - 오국통: physicians/wu-jutong.md
-    - 민성의담:
-      - 연재 모아보기: classical-stories/index.md
-      - 기침은 같아도 약첩은 달랐다: classical-stories/cough-formulas.md
-      - 다리를 펴기 전에, 발이 따뜻해지기를 기다리다: classical-stories/cramps-treatment-order.md
-      - 지친 몸에 잠이 오지 않는 밤: classical-stories/insomnia-fatigue.md
-      - 탕약에 엿을 녹여 넣던 까닭: classical-stories/abdominal-pain-malt-syrup.md
-      - 한 약첩에 담긴 차가움과 따뜻함: classical-stories/digestive-cold-warm-pairing.md
-      - 구토와 설사 사이, 물을 찾는 사람: classical-stories/vomiting-diarrhea-thirst.md
-      - 생강과 말린 생강이 만난 약첩: classical-stories/ginger-fresh-dried.md
-      - 목은 마른데 물을 마시면 토할 때: classical-stories/water-thirst-vomiting.md
-      - 반하 옆에 놓인 귤껍질: classical-stories/phlegm-citrus-peel.md
-      - 잠 못 드는 밤의 처방, 마지막 재료는 노른자: classical-stories/insomnia-egg-yolk.md
-      - 변비 처방 속 씨앗 둘과 꿀 한 가지: classical-stories/constipation-seeds.md
-      - 사흘 밤낮, 경옥고 한 항아리에 담긴 시간: classical-stories/gyeongokgo-slow-preparation.md
-      - 보약에도 흐름이 있다 — 공진단의 네 약재: classical-stories/gongjindan-four-directions.md
-      - 녹용대보탕, 보하는 약 사이에 반하를 놓다: classical-stories/deer-antler-tonic-digestion.md
-      - 돌봄을 받은 아이가, 아이들을 위한 의서를 남기다: classical-stories/childhood-care-book.md
-      - 영조가 약에 이름을 내린 날: classical-stories/yeongjo-geongong-tang.md
-      - 아이에게 죽을, 돌보는 이에게도 한 끼를: classical-stories/jeongjo-child-care.md
-      - 세종이 약초를 캔 사람의 이름까지 적게 한 이유: classical-stories/sejong-herb-collectors.md
-      - 당귀는 왜 ‘돌아온다’는 이름을 얻었을까: classical-stories/angelica-returning-name.md
-      - 소요산, 느긋한 이름 아래 모인 여덟 약재: classical-stories/xiaoyao-name-and-rest.md
-      - 허준이 책머리에서 걱정한 것은 약값이었다: classical-stories/heo-jun-book-and-reader.md
-      - 사향을 바치던 고을에 내려온 뜻밖의 명령: classical-stories/musk-tribute-and-village.md
-      - 계지탕 한 사발 뒤에 이어진 따뜻한 죽: classical-stories/guizhi-warm-rice-gruel.md
-      - 가을밤, 잠자리에 드는 시간을 바꾸다: classical-stories/autumn-evening-rest.md
-      - 세종의 초수, 효험이 엇갈리자 다시 조사하다: classical-stories/sejong-chosu-outcomes.md
-      - 찬바람이 들면, 옷 한 겹을 더: classical-stories/first-cold-extra-layer.md
-      - 쌍화탕, 두 가지를 함께 보하는 한 사발: classical-stories/ssanghwa-twofold-care.md
-      - 사상의학 이야기:
-        - 열일곱 소녀의 설사, 그보다 오래된 소화불량: classical-stories/sasang/soyangin-diarrhea-case.md
-        - 새 병이 나은 뒤에도 평소의 불편을 살피다: classical-stories/sasang/taeeumin-baseline-recovery.md
-        - 다시 죽을 먹고 문밖을 걷기까지: classical-stories/sasang/soeumin-sweating-case.md
-        - 세 사람의 복통, 서로 달랐던 회복의 시간: classical-stories/sasang/soyangin-recurring-abdominal-pain.md
-        - 회복하는 동안 약첩에서 빠진 대황: classical-stories/sasang/taeeumin-formula-adjustment.md
-        - 숨이 가라앉은 뒤에도 진료는 끝나지 않았다: classical-stories/sasang/soyangin-breathing-reassessment.md
     - 한의학 고전:
       - classics/index.md
       - 황제내경: classics/huangdi-neijing.md

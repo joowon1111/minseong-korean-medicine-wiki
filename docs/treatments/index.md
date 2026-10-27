@@ -73,7 +73,7 @@ last_reviewed: 2026-09-06
 | 통증에 어떤 치료를 함께 쓰는지 | [복합 치료 전략](integrated-treatment.md) | 통증과 생활 기능의 변화 |
 | 치료를 얼마나 자주 받는지 | [치료 횟수·간격](../acupuncture-clinical/dose-followup.md) | 재평가 목표와 시점 |
 
-요통이 중심이면 [요통 임상 지도](../network/low-back-pain-map.md), 냉감·피로와 회복이 중심이면 [피로·회복 지식망](../network/recovery-map.md)에서 증상과 치료의 관계를 이어 볼 수 있습니다.
+요통이 중심이면 [요통 임상 지도](../conditions/low-back-pain.md), 냉감·피로와 회복이 중심이면 [피로·회복 지식망](../network/recovery-map.md)에서 증상과 치료의 관계를 이어 볼 수 있습니다.
 
 ## 치료 방법·연구·경과로 이어가기 {#modality-care-routes}
 

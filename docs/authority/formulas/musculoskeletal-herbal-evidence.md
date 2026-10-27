@@ -52,7 +52,7 @@ last_reviewed: 2026-09-06
 
 국내 **오적산 요통 설문도구 연구**는 만성요통 환자에서 처방에 맞는 증상을 구조적으로 평가하기 위해 개발됐습니다. 이는 냉감·복합 증상의 평가를 구체화한 자료로, 오적산의 진통효과를 위약과 비교해 확정한 시험은 아닙니다. [PMID 23373442](https://pubmed.ncbi.nlm.nih.gov/23373442/)
 
-→ [요통 상세](../../conditions/low-back-pain.md) · [좌골신경통](../../conditions/sciatica.md) · [요통 임상 지식망](../../network/low-back-pain-map.md) · [오적산](../../formulas/wujisan.md)
+→ [요통 상세](../../conditions/low-back-pain.md) · [좌골신경통](../../conditions/sciatica.md) · [요통 임상 지식망](../../conditions/low-back-pain.md) · [오적산](../../formulas/wujisan.md)
 
 <span id="_2"></span>
 

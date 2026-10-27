@@ -134,6 +134,8 @@ last_reviewed: 2026-09-15
 
 최근 체계적 문헌고찰과 네트워크 메타분석에서는 여러 한약 처방이 불면 증상 개선 가능성을 보였지만, 처방별 근거의 양과 연구 품질에는 차이가 있습니다. 따라서 “불면에 가장 좋은 한 처방”을 고르기보다 개인의 증상군과 안전성을 기준으로 선택하는 것이 실제 진료에 더 적합합니다.
 
+[귀비탕과 온담탕 비교](../compare/guibi-vs-wendan.md)에서는 피로·식욕저하가 중심인 경우와 흉민·오심이 중심인 경우의 배합을 대조합니다. 산조인을 포함한다고 모두 산조인탕은 아니며, [산조인 본초](../herbs/ziziphus-seed.md)와 처방 전체의 연구를 나누어 읽습니다.
+
 ## 침·전침 치료 {#_7}
 
 침 치료는 과도하게 높아진 각성, 목·어깨 긴장, 두통·통증, 소화 불편 등 수면을 방해하는 증상을 함께 다루는 데 활용합니다. 신문(HT7), 내관(PC6), 삼음교(SP6), 조해(KI6), 백회(GV20), 인당, 안면 등의 혈자리를 환자 상태에 맞추어 조합하며, 필요하면 전침·뜸·이침 등을 검토합니다.
@@ -311,7 +313,7 @@ Xu 등. *Tiaoshen acupuncture for shift work circadian rhythm sleep-wake disorde
 - [R46 수면 관련 증상에서 한약 탐색](../symptom-herbal-guide/neuro-mental/r46-sleep.md)
 - [갱년기](menopause.md)
 - [만성피로](chronic-fatigue.md)
-- [불면 네트워크 맵](../network/insomnia-map.md)
+- [불면 경혈·배혈·해부학](../network/insomnia-acupoints.md)
 - [수면·신경계 치료 축](../pillar/sleep-neuro.md)
 - [귀비탕](../formulas/guibi-tang.md)
 - [침 치료](../treatments/acupuncture.md)

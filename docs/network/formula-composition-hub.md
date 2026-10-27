@@ -88,7 +88,7 @@ last_reviewed: 2026-09-22
 
 | 출발점 | 다음 질문 | 연결 문서 |
 |---|---|---|
-| 처방의 골격 | 무엇을 더하거나 바꾸면 성격이 달라지는가? | [처방군 지도](formula-family-map.md)·[보기 처방 계보](tonic-formula-lineage.md) |
+| 처방의 골격 | 무엇을 더하거나 바꾸면 성격이 달라지는가? | [처방군 지도](formula-family-map.md)·[보기 처방 계보](tonic-formula-compare.md#formula-structure) |
 | 본초 | 같은 재료가 다른 처방에서는 무슨 역할인가? | [본초→방제 역탐색](herb-to-formula-map.md) |
 | 실제 증상 | 배합을 어떤 변증과 연결하는가? | [방제→질환·변증](formula-to-condition-map.md) |
 | 사람 연구 | 실제 시험한 제제가 원방과 같은가? | [연구 해석](../evidence-clinical/km-specific.md) |

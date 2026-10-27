@@ -17,12 +17,12 @@ tags: [양생, 치미병, 예방의학, 만성질환 관리, 기능 회복, 일�
 | 적게 먹어도 배부르고 식후 불편이 반복됨 | [기능성소화불량](../conditions/functional-dyspepsia.md#classical-function) | [육군자탕 일본 시험·지침](formulas/rikkunshito.md#japanese-fd-trials) |
 | 만성질환과 함께 식욕·기력·근력이 떨어짐 | [근감소증·노쇠](../conditions/frailty-sarcopenia.md#sarcopenia-formulas) | [인삼양영탕의 COPD 연구](../formulas/renshen-yangrong-tang.md#frailty-trials) |
 | 수술 뒤 식사·가스·배변 회복이 더딤 | [수술 후 회복](../conditions/postoperative-recovery.md#classical-gut-recovery) | [대건중탕의 간절제 시험](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial) |
-| 잠들기 어렵고 피로·번조가 겹침 | [불면의 원문·임상 해석](../conditions/insomnia.md#classical-clinical-reading) | [불면 처방 지식망](../network/insomnia-map.md) |
+| 잠들기 어렵고 피로·번조가 겹침 | [불면의 원문·임상 해석](../conditions/insomnia.md#classical-clinical-reading) | [불면 처방 지식망](../conditions/insomnia.md) |
 | 두통 발작이 반복되어 생활이 어려움 | [편두통 예방 관리](../conditions/migraine.md#prevention-classical-context) | [침 예방시험](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) |
 | 넓은 통증·피로와 활동 곤란이 겹침 | [섬유근육통의 통증·수면·활동 관리](../authority/conditions/fibromyalgia.md#fibromyalgia-care) | [태극권·유산소운동 직접 비교](../authority/conditions/fibromyalgia.md#tai-chi-aerobic-comparison) |
 | 반복 통증으로 일상 동작이 어려움 | [고령자 요통의 기능 결과](../conditions/low-back-pain.md#older-adult-functional-trial) | [침 대표 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading) |
 
-[현대 임상근거 허브](../pillar/clinical-evidence.md#strengths-and-comparators)는 예방·통증·소화·수면·노년기 회복을 한눈에 연결합니다. [보익·양생 허브](../network/tonic-wellness-hub.md#prevention-functional-care)에서는 현재 회복 목표에 따라 처방·본초로 이동할 수 있습니다.
+[현대 임상근거 허브](../pillar/clinical-evidence.md#strengths-and-comparators)는 예방·통증·소화·수면·노년기 회복을 한눈에 연결합니다. [보익·양생 허브](../network/recovery-map.md#prevention-functional-care)에서는 현재 회복 목표에 따라 처방·본초로 이동할 수 있습니다.
 
 ## 어떤 의미의 예방과 회복인가 {#outcomes}
 

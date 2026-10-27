@@ -57,4 +57,4 @@ last_reviewed: 2026-08-29
 | 사상체질과 회복 경과 | [체질개선의 목표](../sasang-followup/constitution-recovery.md#care-goals) · [초진부터 재평가까지](../sasang-followup/index.md) |
 | 환자 질문형 안내 | [환자 질문으로 찾기](../answer-guides/index.md) |
 | 질환에서 치료로 연결 | [질환→치료 통합 지도](../network/condition-to-treatment-map.md) |
-| 전체 지식 관계 | [통합 한의학 지식 그래프](../network/integrated-knowledge-graph.md) |
+| 전체 지식 관계 | [통합 한의학 지식 그래프](../network/index.md) |

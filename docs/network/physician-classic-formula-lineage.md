@@ -31,6 +31,20 @@ last_reviewed: 2026-08-29
 | [이규준](../physicians/lee-gyujun.md) | [소문대요](../classics/somun-daeyo.md) | 소문 교정·부양론·기혈론·맥진·병기 |
 | [김영훈](../physicians/kim-young-hoon.md)·이종형 | [청강의감](../classics/cheonggang-uigam.md) | 김영훈의 임상 경험·유고를 이종형이 정리해 전승 |
 
+## 처방 하나에서 저술의 성격까지 읽기 {#reading-examples}
+
+| 출발점 | 실제로 따라갈 경로 | 비교할 내용 |
+|---|---|---|
+| 보중익기탕 | [이동원](../physicians/li-dongyuan.md#formula-lineage) → [비위론](../classics/piwei-lun.md) → [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 비위·내상의 질문과 황기·승마·시호의 배합, 후대 수록형 |
+| 공진단·경옥고 | [허준](../physicians/heo-jun.md#formula-lineage) → [동의보감 5편](../donguibogam-network/index.md) → [처방 구성 비교](formula-composition-hub.md) | 편찬서에 수록된 처방의 선행 출전과 원료·제법 |
+| 좌귀환·우귀환 | [장경악](../physicians/zhang-jingyue.md) → [경악전서](../classics/jingyue-quanshu.md) → [보익 처방 비교](tonic-formula-compare.md) | 허손을 보는 관점과 교질약·온양약의 배합 차이 |
+| 사상 처방 | [이제마](../physicians/lee-je-ma.md#formula-lineage) → [동의수세보원](../classics/donguisusebowon.md) → [소증·체질병증](../sasang-integrated/index.md) | 체질 이름뿐 아니라 평소 소증·현재 병증·순역을 함께 읽기 |
+| 한국 임상서의 처방 | [황도연·황필수](../physicians/hwang-doyeon.md#hwang-pilsu)와 [김영훈·청강의감](../classics/cheonggang-uigam.md) | 저술과 후대 편집·간행의 주체, 동명 처방의 구성 차이 |
+
+처방을 만났을 때는 **창안·최초 수록·재수록·가감·의안의 사용 기록** 중 어떤 관계인지 구분합니다. 《동의보감》에 실렸다는 사실만으로 허준의 창안이라고 설명하지 않고, 의안에서 사용했다는 기록도 해당 의가가 그 처방을 처음 만들었다는 근거로 바꾸지 않습니다.
+
+시대 순서는 [의학사 타임라인](../history/index.md#timeline)에서, 짧은 원문과 이야기는 [민성의담](../classical-stories/index.md)에서 읽습니다. 출전별 본문·판본은 위의 의가와 고전 문서에 연결된 자료를 기준으로 확인합니다.
+
 ## 이 지식망의 의미 {#_3}
 
 처방에서 출발했다면 **어느 문헌의 어떤 병증에 실렸는지**를 먼저 확인하고, 이어 저자나 편집자가 강조한 관점을 살핍니다. 인물에서 출발했다면 대표 저술의 성격을 읽은 뒤 실제 처방의 배합으로 내려가면 됩니다.
