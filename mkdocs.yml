@@ -1402,6 +1402,7 @@ nav:
       - 수세보원 · 공정현: classics/susebowon.md
       - 경악전서: classics/jingyue-quanshu.md
       - 온병조변: classics/wenbing-tiaobian.md
+      - 온병학 핵심 지식망: wenbing-network/index.md
     - 한국 한의학 임상서·처방서:
       - modern-korean-medicine/index.md
       - 방약합편 임상 지식망: bangyakhappyeon-network/index.md
@@ -1413,7 +1414,6 @@ nav:
       - 고금의감 → 만병회춘 → 수세보원: classics-network/gong-medical-lineage.md
       - 양생·치미병 원문과 해석: yangsaeng/index.md
     - 황제내경 핵심 지식망: neijing-network/index.md
-    - 온병학 핵심 지식망: wenbing-network/index.md
 - 민성한의원 ↗: https://www.minseong.co.kr/
 not_in_nav: '/ai-index.md
 
