@@ -3083,7 +3083,7 @@
         },
         {
           "label": "배합 예",
-          "value": "향사육군자탕 — 국내 방약합편 계통에서 사인·익지인 등과 온중화습하고 보기약과 배합 / 향사양위탕 — 사인·향부자·진피의 이기와 인삼·백출·건강의 온중건비를 연결"
+          "value": "향사육군자탕 — 국내 방약합편 계통에서 사인·익지인 등과 온중화습하고 보기약과 배합 / 향사양위탕 소음인 신축본 — 사인·향부자·진피와 함께 쓰이며 인삼·백출·건강의 배합을 확인"
         }
       ],
       "source": "/herbs/white-cardamom/",
@@ -6410,16 +6410,16 @@
           "source": "/herbs/amomum/"
         },
         {
-          "text": "백두구(白豆蔻)",
-          "owner": "백두구(白豆蔻)",
-          "ownerId": "herb-white-cardamom",
-          "source": "/herbs/white-cardamom/"
-        },
-        {
           "text": "진피(陳皮)",
           "owner": "진피(陳皮)",
           "ownerId": "herb-citrus-peel",
           "source": "/herbs/citrus-peel/"
+        },
+        {
+          "text": "백두구(白豆蔻)",
+          "owner": "백두구(白豆蔻)",
+          "ownerId": "herb-white-cardamom",
+          "source": "/herbs/white-cardamom/"
         }
       ],
       "answer": 1,
@@ -8984,16 +8984,16 @@
           "source": "/herbs/massa-medicata-fermentata/"
         },
         {
-          "text": "백두구(白豆蔻)",
-          "owner": "백두구(白豆蔻)",
-          "ownerId": "herb-white-cardamom",
-          "source": "/herbs/white-cardamom/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "백두구(白豆蔻)",
+          "owner": "백두구(白豆蔻)",
+          "ownerId": "herb-white-cardamom",
+          "source": "/herbs/white-cardamom/"
         },
         {
           "text": "맥아(麥芽)",
@@ -9342,16 +9342,16 @@
       "context": "전통 효능: 화해퇴열, 소간해울, 승거양기",
       "options": [
         {
-          "text": "향부자(香附子)",
-          "owner": "향부자(香附子)",
-          "ownerId": "herb-cyperus",
-          "source": "/herbs/cyperus/"
-        },
-        {
           "text": "백두구(白豆蔻)",
           "owner": "백두구(白豆蔻)",
           "ownerId": "herb-white-cardamom",
           "source": "/herbs/white-cardamom/"
+        },
+        {
+          "text": "향부자(香附子)",
+          "owner": "향부자(香附子)",
+          "ownerId": "herb-cyperus",
+          "source": "/herbs/cyperus/"
         },
         {
           "text": "시호(柴胡)",
@@ -16463,6 +16463,12 @@
       "context": "전통 효능: 소식화적·행기산어",
       "options": [
         {
+          "text": "백두구(白豆蔻)",
+          "owner": "백두구(白豆蔻)",
+          "ownerId": "herb-white-cardamom",
+          "source": "/herbs/white-cardamom/"
+        },
+        {
           "text": "신곡·신국(神麴)",
           "owner": "신곡·신국(神麴)",
           "ownerId": "herb-massa-medicata-fermentata",
@@ -16475,19 +16481,13 @@
           "source": "/herbs/hawthorn/"
         },
         {
-          "text": "백두구(白豆蔻)",
-          "owner": "백두구(白豆蔻)",
-          "ownerId": "herb-white-cardamom",
-          "source": "/herbs/white-cardamom/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "산사(山楂) — 전통 효능: 소식화적·행기산어",
       "source": "/herbs/hawthorn/"
     },
@@ -26784,6 +26784,12 @@
       "context": "생약명: Amomi Fructus Rotundus",
       "options": [
         {
+          "text": "백두구(白豆蔻)",
+          "owner": "백두구(白豆蔻)",
+          "ownerId": "herb-white-cardamom",
+          "source": "/herbs/white-cardamom/"
+        },
+        {
           "text": "자소자·소자(紫蘇子)",
           "owner": "자소자·소자(紫蘇子)",
           "ownerId": "herb-perilla-fruit",
@@ -26800,15 +26806,9 @@
           "owner": "사인(砂仁)",
           "ownerId": "herb-amomum",
           "source": "/herbs/amomum/"
-        },
-        {
-          "text": "백두구(白豆蔻)",
-          "owner": "백두구(白豆蔻)",
-          "ownerId": "herb-white-cardamom",
-          "source": "/herbs/white-cardamom/"
         }
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "백두구(白豆蔻) — 생약명: Amomi Fructus Rotundus",
       "source": "/herbs/white-cardamom/"
     },
@@ -26857,6 +26857,12 @@
       "context": "전통 효능: 화습소비·행기온중·개위소식",
       "options": [
         {
+          "text": "백두구(白豆蔻)",
+          "owner": "백두구(白豆蔻)",
+          "ownerId": "herb-white-cardamom",
+          "source": "/herbs/white-cardamom/"
+        },
+        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
@@ -26873,15 +26879,9 @@
           "owner": "산사(山楂)",
           "ownerId": "herb-hawthorn",
           "source": "/herbs/hawthorn/"
-        },
-        {
-          "text": "백두구(白豆蔻)",
-          "owner": "백두구(白豆蔻)",
-          "ownerId": "herb-white-cardamom",
-          "source": "/herbs/white-cardamom/"
         }
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "백두구(白豆蔻) — 전통 효능: 화습소비·행기온중·개위소식",
       "source": "/herbs/white-cardamom/"
     },
