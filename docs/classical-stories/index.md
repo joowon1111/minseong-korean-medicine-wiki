@@ -191,6 +191,12 @@ status: 검토완료
 
 사상의학 이야기는 별도 회차로 이어집니다. 최신 이야기부터 읽을 수 있습니다.
 
+### [7. 목이 마르던 사람, 긴 병을 건너 다시 일어서다](sasang/taeeumin-dry-throat-long-recovery.md) {#taeeumin-dry-throat-long-recovery}
+
+평소 목은 마르면서 몸은 차고 때로 설사하던 사람이 온병을 앓았습니다. 숨과 가래, 말과 청력의 변화를 지켜본 스무 날과 그 뒤 마흔 날의 조리를 따라갑니다.
+
+**주제** 태음인 · 목 건조와 소병 · 한다열소탕 · 조리폐원탕 · 긴 회복
+
 ### [6. 숨이 가라앉은 뒤에도 진료는 끝나지 않았다](sasang/soyangin-breathing-reassessment.md) {#soyangin-breathing-reassessment}
 
 육미탕 한 첩으로 가라앉았던 숨이 다시 가빠졌습니다. 같은 약의 반응이 달라진 뒤 백호탕으로 바꾼 경과와 이제마가 뒤늦게 돌아본 배변 기록입니다.
