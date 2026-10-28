@@ -1,6 +1,6 @@
 ---
 title: AI·검색엔진용 사이트 구조
-description: 민성 한의학 아카이브의 임상 허브·본초·방제·침구·사상의학·고전·학습·양생과 현대 근거를 탐색하고 페이지별 JSON·대표 주소·출처를 확인하는 방법을 안내합니다.
+description: 민성 한의학 아카이브의 임상 허브·질환 본문의 통합 근거·본초와 처방 비교·경혈 탐색·사상의학·고전·민성의담·학습·24절기 생활 카드를 탐색하고 페이지별 JSON·대표 주소·출처를 확인하는 방법을 안내합니다.
 tags: [AI검색, AEO, GEO, SEO, 사이트구조, 내부링크, 지식망]
 last_reviewed: '2026-08-23'
 ---
@@ -20,20 +20,24 @@ last_reviewed: '2026-08-23'
 | 지금 찾는 것 | 먼저 읽을 자료 | 이어서 확인할 내용 |
 |---|---|---|
 | 증상은 알지만 진단명은 모름 | [증상으로 찾기](../symptom-integrated/index.md) | 관련 질환·감별·위험신호 |
-| 특정 질환의 치료 연구 | [질환별 근거 카드](../authority/conditions/index.md) | 실제 대상·중재·비교군·결과와 원 논문 |
+| 특정 질환의 치료 연구 | [질환별 근거 안내](../authority/conditions/index.md) | 질환 본문의 연구 절 또는 고유한 근거 자료에서 대상·중재·비교군·결과 확인 |
 | 같은 이름의 처방이 서로 다른 이유 | [처방 출전·구성](../herbal-integrated/general-formulary.md) | 수록본·약량·제형·가감과 비교 문서 |
+| 비슷한 약재·처방의 차이 | [본초 비교](../herbal-integrated/herb-comparisons.md#interactive-comparison) · [처방 비교](../herbal-integrated/formula-structure.md#interactive-comparison) | 약용 부위·배합·출전·약량과 유사 처방의 감별 |
 | 고전의 한 구절과 해석 | [고전 원문·해석](../classics-reader/index.md) | 서명·편목·조문·판본과 전후 문맥 |
+| 사람과 사건으로 고전을 읽기 | [민성의담](../classical-stories/index.md) | 왕실 진료·돌봄·본초와 처방 이야기에서 실제 기록과 관련 문서 확인 |
+| 매일 읽고 복습하기 | [오늘의 한의학](../daily-korean-medicine/index.md) · [학습실](../learning/index.md) | 날짜별 카드·생활 실천·원문 풀이와 과목별 복습 |
 | 한 문서를 도구에서 읽기 | [페이지 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json) | 대표 주소와 페이지별 JSON |
 
-예를 들어 ‘허리가 아플 때 침 연구’를 찾으면 [요통 문서](../conditions/low-back-pain.md)에서 증상의 범위를 확인하고, [요통 근거 카드](../conditions/low-back-pain.md#back-research)에서 해당 연구의 대상과 치료 조건을 읽습니다. 두 문서가 연결되어 있다는 사실과 개별 연구의 결론은 구분해 정리합니다.
+예를 들어 ‘허리가 아플 때 침 연구’를 찾으면 [요통 문서](../conditions/low-back-pain.md)에서 증상의 범위를 확인하고, [같은 문서의 요통 연구 절](../conditions/low-back-pain.md#back-research)에서 해당 연구의 대상과 치료 조건을 읽습니다. 질환 설명과 연구 절을 함께 읽고, 탐색 링크의 연결과 개별 연구의 결론은 구분해 정리합니다.
 
 ## 1. 환자 언어와 증상 {#1}
 
+- [증상으로 찾기](../symptom-integrated/index.md)
 - [증상·질환](../conditions/index.md)
 - [증상 기반 한약 탐색](../symptom-herbal-guide/index.md)
 - [질문형 답변 가이드](../answer-guides/index.md)
 
-질환명을 모르는 사용자도 “속이 더부룩해요”, “잠이 안 와요”, “허리가 오래 아파요”, “기침이 계속돼요” 같은 표현에서 시작하도록 설계합니다.
+질환명을 모르는 사용자도 “속이 더부룩해요”, “잠이 안 와요”, “허리가 오래 아파요”, “기침이 계속돼요” 같은 표현에서 시작하도록 설계합니다. 증상 안내에서 [진료 분야별 핵심 허브](../ai-index.md#clinical-hubs)와 대표 질환 본문으로 이어지며, 통합된 짧은 안내의 기존 주소는 해당 본문이나 관련 절로 연결합니다. 예를 들어 무릎의 동작별 통증은 [무릎통증](../conditions/knee-pain.md)에서 평가·치료·경과와 함께 읽습니다.
 
 ## 2. 질환과 현대 임상근거 {#2}
 
@@ -43,12 +47,22 @@ last_reviewed: '2026-08-23'
 - [근거 가이드](../evidence-guide/index.md)
 - [참고문헌 데이터베이스](../research/references/index.md)
 
-질환 페이지와 authority 근거 카드를 분리하면서 서로 연결해, 임상 맥락과 근거 요약을 모두 탐색할 수 있게 합니다. 통합 안내에서 연구 성과·국제 지침·Kampo 등을 찾고, 개별 카드에서 실제 대상·치료·비교군·기간·결과·원 논문을 확인합니다.
+**질환의 평가·변증·치료와 해당 임상근거를 함께 읽는 구조**를 우선합니다. 같은 질환을 반복 설명하던 확장·근거 카드는 기존 질환 본문의 연구 절로 통합하고, 기존 주소와 유입 링크는 대표 문서·해당 절로 이어지도록 유지합니다. 고유한 연구 질문을 다루는 자료와 여러 질환을 잇는 근거 허브는 관련 본문으로 연결합니다.
+
+| 질문 | 현재 대표 경로 |
+|---|---|
+| 허리·목·어깨·무릎 통증의 평가와 치료 연구 | [요통 연구](../conditions/low-back-pain.md#back-research) · [목통증](../conditions/neck-pain.md) · [어깨통증 연구](../conditions/shoulder-pain.md#pain-research) · [무릎통증 연구](../conditions/knee-pain.md#_9) |
+| 잠들기 어렵거나 식후 더부룩할 때의 치료 연구 | [불면 연구](../conditions/insomnia.md#sleep-research) · [기능성소화불량 연구](../conditions/functional-dyspepsia.md#pds-acupuncture-results) |
+| 국내 한의치료·일본 Kampo·국제 지침을 함께 찾기 | [연구·근거 통합 안내](../portal/evidence.md) → 실제 대상·제제·치료·비교군·기간·결과·원 논문 |
+
+연구를 인용할 때는 현재 도착한 대표 문서의 해당 절을 확인합니다. CPG·체계적 문헌고찰·무작위시험·관찰연구·기전연구는 서로 다른 질문에 답하는 자료이며, 원방·가감방·시험제제의 차이도 함께 표시합니다.
 
 ## 3. 본초와 방제 {#3}
 
 - [본초학](../herbs/index.md)
 - [방제학](../formulas/index.md)
+- [임상 핵심 처방 100선: 출전·구성·용량](../herbal-integrated/general-formulary.md)
+- [본초 비교·감별](../herbal-integrated/herb-comparisons.md#interactive-comparison) · [처방 구조·비교](../herbal-integrated/formula-structure.md#interactive-comparison)
 - [대표 본초 근거 카드](../authority/herbs/index.md)
 - [한약 처방 임상근거](../research/formulas/index.md)
 
@@ -60,7 +74,7 @@ last_reviewed: '2026-08-23'
 - [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)
 - [침 치료 근거 카드](../authority/acupuncture.md)
 
-경혈은 한글명과 WHO 국제 표준 코드를 함께 사용해 국내 검색과 국제 논문 탐색을 동시에 지원합니다.
+경혈은 한글명과 WHO 국제 표준 코드를 함께 사용해 국내 검색과 국제 논문 탐색을 동시에 지원합니다. [경혈·침법 통합 탐색](../acupoint-network/standard-atlas.md#clinical-explorer)에서 경혈명·증상·근육·신경을 검색하고 경락·부위로 좁혀 표준경혈·사암침·동씨기혈의 기존 상세 문서로 이동합니다. [부위별 비교 학습](../acupoint-network/standard-atlas.md#regional-learning)과 [3D 경혈 지도](../acupoint-network/3d-map.md)는 위치 이해를 돕고, 상세 본문은 위치·주치 출처·해부학·임상근거를 구분해 제공합니다.
 
 ## 5. 지식그래프 {#5}
 
@@ -150,6 +164,9 @@ last_reviewed: '2026-08-23'
 - [태음인](../sasang-integrated/taeeumin.md)
 - [태양인](../sasang-integrated/taeyangin.md)
 - [증상으로 사상체질 이해하기](../sasang-symptoms/index.md)
+- [사상체질·병증 처방 탐색기](../sasang-explorer/index.md) · [사상체질 임상 감별](../sasang-pattern-differential/index.md)
+
+탐색기에서는 체질 → 소증·현재 병증 → 원문·유사 병증 감별 → 대표 처방으로 이동하고, 체질별 음식·양생·운동 자료를 함께 읽습니다.
 
 #### AEO 질문 의도 {#aeo_1}
 - 사상의학이란 무엇인가?
@@ -183,10 +200,26 @@ last_reviewed: '2026-08-23'
 | 증상과 진료 분야별 평가·치료 | [AI 색인의 임상 허브 지도](../ai-index.md#clinical-hubs) · [핵심 주제 허브](../pillar/index.md) |
 | 호흡기와 별도 순환기·심혈관 자료 | [호흡·인후·성대](../pillar/respiratory-rhinitis-immune.md) · [혈압·심장·혈관](../pillar/circulation-cardiovascular.md) |
 | 수면·정서·신경과 기능 경과 | [수면 허브](../pillar/sleep-neuro.md) · [브레인포그](../answer-guides/brain-fog-focus-guide.md) |
-| 고전·학습·하루 카드·양생 | [AI 색인의 읽기·복습 지도](../ai-index.md#classics-learning-daily) |
+| 고전 원문·임상 연결 | [고전 원문·해석](../classics-reader/index.md) · [AI 색인의 읽기·복습 지도](../ai-index.md#classics-learning-daily) |
+| 인물·왕실 진료·본초·처방 이야기 | [민성의담](../classical-stories/index.md) |
+| 날짜별 지식·생활 카드와 24절기 | [오늘의 한의학](../daily-korean-medicine/index.md) · [24절기 생활 일력](../daily-korean-medicine/index.md#daily-solar-terms) |
+| 일곱 과목 학습·오답 복습 | [기초 한의학 퀴즈 & 학습실](../learning/index.md) |
 | 영어로 한의학을 처음 이해하기 | [Korean Medicine Guide](../korean-medicine-guide/index.md) |
 
 관련 문서의 연결은 주제를 더 살펴보기 위한 안내입니다. 개별 환자에게 맞는 진단·치료 여부는 본문의 적용 맥락과 함께 판단합니다.
+
+### 고전·이야기·생활 카드에서 본문으로 이어 읽기 {#classics-stories-daily}
+
+상단 메뉴는 **홈 → 한의학 기초 → 고전 원문·해석 → 본초·방제 → 침구·치료 → 증상·질환 → 사상의학 → 연구·근거 → 민성의담 → 전체 둘러보기**로 구성합니다. 전체 둘러보기에서는 지식망·학습실·안내를 찾고, 용어사전은 진단·변증 하위에서, 온병학 지식망은 한의학 고전 하위에서 탐색합니다.
+
+| 자료 | 읽고 확인할 내용 | 다음 문서 |
+|---|---|---|
+| 고전 원문·해석 | 상한론·금궤요략·동의보감·동의수세보원의 조문·편목·판본, 원문과 한국어 풀이 | [원문을 깊이 읽는 관점](../classics-reader/index.md#close-reading) → 병증·치법·본초·처방과 현대 임상 자료 |
+| 민성의담 | 일반 칼럼과 사상의학 이야기의 별도 회차, 최신순 목록, 실제 인물·사건·기록과 해석 | [민성의담 목록](../classical-stories/index.md) → 각 이야기의 원출전과 관련 본문 |
+| 오늘의 한의학 | 날짜별 경혈·본초·상한론·사상의학, 원문 풀이·복습 문답 | [날짜별 카드](../daily-korean-medicine/index.md) → 경혈·본초·조문·사상병증 상세 문서 |
+| 양생·24절기 생활 일력 | 240개 생활 카드의 구체적인 해설·작은 실천, 24절기 이름·뜻·생활 이야기 | [양생 카드 검색](../daily-korean-medicine/index.md#daily-yangsheng-library) · [24절기 목록](../daily-korean-medicine/index.md#daily-solar-terms) → 고전 원문과 현대 생활 자료 |
+
+하루 카드의 날짜는 한국 시간을 기준으로 하며, 절기 당일에는 해당 절기 안내를 우선 표시합니다. 다른 날짜에 순환해서 읽는 절기 카드와 당일 안내를 구분합니다. 고전 원문·아카이브의 풀이·현대 생활 제안의 역할을 나누어 읽고, 역사적 치료 기록을 현대 치료의 효과 입증으로 바꾸어 인용하지 않습니다.
 
 ### 페이지별 본문과 지식 그래프를 구분해 사용합니다 {#page-json-navigation}
 
@@ -224,8 +257,10 @@ last_reviewed: '2026-08-23'
 ## 문서 주소와 출처 {#_2}
 
 - 문서의 대표 주소와 제목 링크로 내용을 공유할 수 있습니다.
-- 질환 페이지는 환자 증상·임상 맥락을 설명합니다.
-- 근거 페이지에서는 현대 임상연구의 핵심 요약과 출처를 확인할 수 있습니다.
+- 질환 페이지는 환자 증상·감별·변증·치료·경과와 통합된 임상근거를 설명합니다.
+- 통합 전 주소로 들어왔으면 최종 도착한 대표 문서의 제목·해당 절을 확인해 인용합니다.
+- 고유한 근거 페이지와 근거 허브에서는 연구 요약·대상·치료 조건·원출처를 확인합니다.
+- 고전·민성의담은 서명·편목·판본 또는 날짜가 확인되는 기록을, 하루 카드는 해당 날짜·카드의 공유 링크와 연결 출처를 함께 확인합니다.
 - 참고문헌 DB는 PMID·DOI 추적의 기준 허브로 사용합니다.
 - 전통적 활용과 현대 임상근거를 구분합니다.
 
