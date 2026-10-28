@@ -92,6 +92,19 @@
     return { item: items[index], season: season, index: index, count: items.length };
   }
   const seasons = { spring: "봄", summer: "여름", autumn: "가을", winter: "겨울" };
+  function solarTermFor(date, data) {
+    if (!(date instanceof Date) || !Number.isFinite(date.getTime())) return null;
+    const calendar = data.solarCalendar;
+    if (!calendar || calendar.timezone !== "Asia/Seoul") return null;
+    const key = date.toISOString().slice(0, 10);
+    const dates = (calendar.years || {})[key.slice(0, 4)];
+    if (!Array.isArray(dates) || dates.length !== 24) return null;
+    const index = dates.indexOf(key.slice(5));
+    if (index < 0) return null;
+    const name = (calendar.order || [])[index];
+    const item = (data.cards || []).find(function (card) { return card.solarTerm === name; });
+    return item ? { item: item, date: key, sourceHref: calendar.sourceHref } : null;
+  }
   function almanacFrom(value, data) {
     if (typeof value !== "string" || !/^(spring|summer|autumn|winter)-[0-9]{2,3}$/.test(value)) return null;
     return (data.cards || []).find(function (item) { return item.id === value; }) || null;
@@ -103,6 +116,7 @@
       if (topic && topic !== "all" && item.topic !== topic) return false;
       const source = (data.sources || {})[item.source] || {};
       const text = normalize([seasons[item.season], (data.topics || {})[item.topic], item.theme, item.line, item.practice, item.story, item.solarTerm,
+        item.termHanja, item.termMeaning, item.termKnowledge, item.termMedicine,
         source.original, source.translation, source.words, source.label, source.context].filter(Boolean).join(" "));
       return terms.every(function (term) { return text.includes(term); });
     });
@@ -112,6 +126,9 @@
     const lines = ["양생(養生) · " + seasons[item.season] + " · " + item.theme,
       "생활 제안 — " + item.line];
     if (item.story) lines.push("오늘의 한의학 이야기 — " + item.story);
+    if (item.solarTerm && item.termMeaning) lines.push("절기의 이름과 뜻 — " + item.solarTerm + "(" + item.termHanja + ") · " + item.termMeaning,
+      "알아두면 좋은 이야기 — " + item.termKnowledge, "한의학과 오늘의 생활 — " + item.termMedicine,
+      "절기 자료 — " + item.termSource, "절기 날짜 자료 — " + data.solarCalendar.sourceHref);
     lines.push("오늘의 작은 실천 — " + item.practice);
     if (source) lines.push("고전 원문 — " + source.original, "원문 풀이 — " + source.translation,
       "출처 — " + source.label, source.href);
@@ -136,6 +153,6 @@
   return { labels: labels, chapters: chapters, chapterFor: chapterFor, clauseFrom: clauseFrom,
     parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor,
     titleFor: titleFor, reviewFor: reviewFor, search: search, cardFrom: cardFrom, savedCards: savedCards,
-    seasonalCard: seasonalCard, seasons: seasons, almanacFrom: almanacFrom,
+    seasonalCard: seasonalCard, solarTermFor: solarTermFor, seasons: seasons, almanacFrom: almanacFrom,
     searchAlmanac: searchAlmanac, almanacText: almanacText, copyLink: copyLink };
 });
