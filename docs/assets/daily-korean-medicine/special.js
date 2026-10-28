@@ -129,7 +129,7 @@
   }
 
   function loadAlmanac() {
-    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261014-reading", {credentials: "same-origin"})
+    if (!yangshengPromise) yangshengPromise = fetch("/assets/daily-korean-medicine/yangsheng.json?v=20261028-practical-terms", {credentials: "same-origin"})
       .then(function (response) { if (!response.ok) throw new Error("Almanac unavailable"); return response.json(); })
       .then(function (data) {
         if (!Array.isArray(data.cards) || !data.cards.length || !data.sources || !data.modern ||
@@ -155,6 +155,20 @@
       root.querySelector("[data-yangsheng-line]").after(story);
     }
     setOptional(root, "[data-yangsheng-story]", item.story ? "오늘의 한의학 이야기 — " + item.story : "");
+    let termBox = root.querySelector("[data-yangsheng-term-details]");
+    if (!termBox) {
+      termBox = document.createElement("div");
+      termBox.setAttribute("data-yangsheng-term-details", "");
+      termBox.innerHTML = '<h3 data-term-name></h3><p data-term-meaning></p><p data-term-knowledge></p><p data-term-medicine></p><p><a data-term-source hidden></a> <a data-term-calendar-source hidden></a></p>';
+      root.querySelector("[data-yangsheng-practice]").before(termBox);
+    }
+    termBox.hidden = !item.termMeaning;
+    setText(termBox, "[data-term-name]", item.solarTerm ? item.solarTerm + "(" + item.termHanja + ") · 이름과 뜻" : "");
+    setText(termBox, "[data-term-meaning]", item.termMeaning);
+    setText(termBox, "[data-term-knowledge]", item.termKnowledge ? "알아두면 좋은 이야기 — " + item.termKnowledge : "");
+    setText(termBox, "[data-term-medicine]", item.termMedicine ? "한의학과 오늘의 생활 — " + item.termMedicine : "");
+    setLink(termBox, "[data-term-source]", item.termSource, "기상청 · 절기 자료 ↗");
+    setLink(termBox, "[data-term-calendar-source]", item.solarTerm && data.solarCalendar ? data.solarCalendar.sourceHref : "", "한국천문연구원 · 절기 날짜 자료 ↗");
     const sourceBox = root.querySelector(".daily-km-almanac-source");
     if (sourceBox) {
       sourceBox.hidden = !source.original;
@@ -288,10 +302,21 @@
     loadAlmanac().then(function (data) {
       // Ignore an older date's pending render when the reader moves quickly.
       if (date.getTime() !== kstDate(dayOffset).getTime()) return;
-      const selected = reader.seasonalCard(date, data);
+      const term = reader.solarTermFor(date, data);
+      const selected = term || reader.seasonalCard(date, data);
       if (!selected) throw new Error("Almanac incomplete");
       roots.forEach(function (root) {
         renderAlmanacContent(root, selected.item, data);
+        let badge = root.querySelector("[data-yangsheng-term-day]");
+        if (!badge) {
+          badge = document.createElement("p");
+          badge.setAttribute("data-yangsheng-term-day", "");
+          badge.className = "daily-km-almanac-label";
+          root.querySelector("[data-yangsheng-line]").before(badge);
+        }
+        badge.textContent = term ? formatDate(date) + " · 오늘은 " + term.item.solarTerm + "(" + term.item.termHanja + ")입니다." :
+          selected.item.solarTerm ? "절기 읽기 · 날짜와 별도로 순환하는 카드입니다." : "";
+        badge.hidden = !badge.textContent;
         const node = root.querySelector("[data-yangsheng-date]");
         node.textContent = formatDate(date);
         node.setAttribute("datetime", date.toISOString().slice(0, 10));
@@ -417,7 +442,7 @@
         if (todayButton) {
           todayButton.disabled = false;
           todayButton.addEventListener("click", function () {
-            const current = reader.seasonalCard(kstDate(dayOffset), data);
+            const current = reader.solarTermFor(kstDate(dayOffset), data) || reader.seasonalCard(kstDate(dayOffset), data);
             if (!current) return;
             root.open = true; query.value = ""; season.value = "all"; limit = 12;
             if (topic) topic.value = "all";
