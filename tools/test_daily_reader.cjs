@@ -249,3 +249,38 @@ test('life expansion preserves dated readings and gives every term a stable sour
   assert(reader.searchAlmanac(almanac,'all','천금요방').length>=3);
   assert.equal(reader.seasonalCard(reader.parseDate('2026-10-14'),almanac).count,60);
 });
+
+test('solar terms use KASI KST dates, including year changes, rather than a fixed annual date', () => {
+  const almanac=JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  for(const [date,name] of [['2026-02-04','입춘'],['2026-03-05','경칩'],['2027-03-06','경칩'],['2026-10-23','상강'],['2027-10-24','상강'],['2026-11-07','입동'],['2027-11-08','입동'],['2026-12-22','동지'],['2027-01-05','소한']]) {
+    const result=reader.solarTermFor(reader.parseDate(date),almanac);
+    assert.equal(result.item.solarTerm,name,date);
+    assert.equal(result.date,date);
+  }
+  for(const date of ['2026-10-28','2027-03-05','1919-11-08','2101-11-08']) assert.equal(reader.solarTermFor(reader.parseDate(date),almanac),null,date);
+  assert.equal(reader.solarTermFor(new Date(NaN),almanac),null);
+  assert.equal(reader.solarTermFor(reader.parseDate('2026-02-04'),{}),null);
+  const before=reader.today(new Date('2026-11-06T14:59:59Z'));
+  const after=reader.today(new Date('2026-11-06T15:00:00Z'));
+  assert.equal(reader.solarTermFor(before,almanac),null);
+  assert.equal(reader.solarTermFor(after,almanac).item.solarTerm,'입동');
+});
+
+test('the full KASI date table maps 24 unique dates in each year to 24 readable terms', () => {
+  const almanac=JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8'));
+  assert.equal(Object.keys(almanac.solarCalendar.years).length,181);
+  for(const [year,dates] of Object.entries(almanac.solarCalendar.years)) {
+    assert.equal(dates.length,24,year);
+    assert.equal(new Set(dates).size,24,year);
+    dates.forEach((date,i)=>{
+      const parsed=reader.parseDate(year+'-'+date);assert(parsed,year+'-'+date);
+      assert.equal(reader.solarTermFor(parsed,almanac).item.solarTerm,almanac.solarCalendar.order[i]);
+    });
+  }
+  for(const item of almanac.cards.filter(c=>c.solarTerm)) {
+    assert(item.termHanja && item.termMeaning && item.termKnowledge && item.termMedicine,item.id);
+    const copy=reader.almanacText(item,almanac);
+    for(const field of ['termMeaning','termKnowledge','termMedicine']) assert(copy.includes(item[field]),field);
+    assert(reader.searchAlmanac(almanac,'all',item.termHanja).some(c=>c.id===item.id));
+  }
+});
