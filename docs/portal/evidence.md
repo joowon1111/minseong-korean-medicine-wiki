@@ -1,6 +1,6 @@
 ---
 title: 연구·근거 안내
-description: 자율신경·소화·수면·가슴두근거림·두통·만성통증의 한의치료 연구를 대상·효과·평가지표로 살펴보고, 주요 임상 성과 30편과 WHO 전략·질환별 상세 근거를 연결합니다.
+description: 주요 국제저널의 침·전침·약침·한약 임상성과와 일본 의사들의 소화기·간·신장 연구를 대상·비교군·효과 크기로 살펴보고, 질환별 상세 근거와 연결합니다.
 tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 keywords: [논문, 연구근거, 학술논문, 임상연구, 임상시험, 연구논문, 연구자료, 논문검색, 연구성과, 치료효과, 치료근거, 주요논문, 핵심논문, research, evidence, papers, PubMed, RCT, 메타분석, 코호트연구, Kampo]
 status: 검토완료
@@ -10,23 +10,24 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
+**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [일본 간·신장 전문 연구진](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
-**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래 30편은 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
+**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래는 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
 
 학술지 이름에 더해 **얼마나 좋아졌는지, 무엇과 비교했는지, 효과가 얼마나 이어졌는지**를 확인합니다. 국내 한의 임상시험, 해외 침 연구, 중국의 특정 표준화 한약제제 시험은 실제 연구된 치료를 명시해 소개합니다. 해외 제제의 수치를 국내 모든 탕약의 효과로 바꾸지 않습니다.
 
 ### 인용 영향력이 높은 주요 저널에서 먼저 읽기 {#high-impact-journal-studies}
 
-**30편 중 24편은 The Lancet·JAMA·JAMA Neurology·JAMA Oncology·Nature Medicine·The BMJ·Annals of Internal Medicine·JAMA Internal Medicine·JAMA Network Open·Gastroenterology에 실린 임상시험입니다.** 이 연구들을 중심으로 치료효과를 읽고, 개인자료 메타분석과 국내 처방·약침 시험을 함께 연결합니다. 모두 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통은 JAMA 본시험과 JAMA Network Open의 52주 추적을 함께 연결하며, 같은 환자를 다시 분석한 추적 논문은 독립 시험으로 중복 집계하지 않습니다.
+**The Lancet·JAMA·Nature Medicine·The BMJ·Annals of Internal Medicine·Gastroenterology와 JAMA 계열 저널의 임상시험**, **Neurology의 만성 긴장형두통 시험**, **Journal of Hepatology의 한약 병용 장기추적**을 중심으로 치료성과를 읽습니다. 개인자료 메타분석과 국내 처방·약침 시험도 함께 연결합니다. 각 논문의 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통과 B형간염 한약 병용처럼 같은 환자를 추적한 논문은 본시험과 묶어서 읽습니다.
 
 | 저널 | 공식 안내의 IF·표기 기준 | 이 페이지에서 읽는 핵심 연구 |
 |---|---|---|
 | **The Lancet** | **109.0** — 저널 그룹의 공식 발표: 2025 Journal Citation Reports, Clarivate 2026 표기. [공식 발표](https://www.linkedin.com/posts/the-lancet_rcts-clinicaltrials-clinicalresearch-activity-7477986859466428416-hAY3) | [독일 다기관 무릎 골관절염](#landmark-acupuncture) |
 | **JAMA** | **65.4** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jama/pages/for-authors) | [통심락 심근경색](#landmark-herbal) · [IBS 복합 한약](#landmark-herbal) · [전침 요실금·호르몬치료 관절통](#landmark-acupuncture) |
 | **Nature Medicine** | **52.5** — Nature Portfolio 공식 저널 지표. [공식 지표](https://www.nature.com/nature-portfolio/about-journals/journal-metrics) | [QUEST 기력강심 심부전](#landmark-herbal) |
+| **Journal of Hepatology** | **40.1** — EASL 공식 발표의 **2025 IF, 2026 JCR**. [학회 공식 발표](https://easl.eu/news/easl-journals-ifs-2025/) | [B형간염: 별갑연간 병용시험의 7년 추적](#brc-hepatitis-trial) |
 | **The BMJ** | **55.1** — 공식 페이지의 JCR 2025 표기. [공식 안내](https://www.bmj.com/about-bmj/publishing-model?change_country=1) | [침의 편두통 예방](#landmark-acupuncture) |
 | **JAMA Internal Medicine** | **26.3** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors) | [침의 편두통·좌골신경통·안정형 협심증](#landmark-acupuncture) · [FOCUS 진리다](#landmark-herbal) |
 | **Gastroenterology** | **25.9** — AGA의 2026년 편집장 공모 안내에 명시된 **2024 Journal Impact Factor**. [AGA 공식 안내](https://aga-fileuploader-bucket.s3.us-east-2.amazonaws.com/RFA_Gastro_2026_Abbreviated.pdf) | [설사형 IBS ACTION 다기관 시험](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
@@ -34,7 +35,8 @@ last_reviewed: '2026-09-05'
 | **JAMA Oncology** | **23.9** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaoncology/pages/for-authors) | [PEACE 암 생존자 만성통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) |
 | **The Lancet Gastroenterology & Hepatology** | **39.1** — 공식 안내의 2025 Journal Citation Reports, Clarivate 2026 표기. [공식 안내](https://info.thelancet.com/langas/request-access) | [베르베린 선종 재발](#herb-derived-component-studies): 복합 한약과 구분한 성분 연구 |
 | **JAMA Neurology** | **23.6** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaneurology/pages/for-authors) | [대상포진후신경통 전침](#landmark-acupuncture) |
-| **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·불면 전침·방사선 구강건조·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) · [일본 월비가출탕 비무작위시험](../authority/formulas/herbal-formula-evidence-hub.md#japanese-eppikajutsuto-trial) |
+| **Neurology** | **10.8** — 저널 공식 안내의 **2025 IF**. [공식 저널](https://www.neurology.org/journal/wnl) | [만성 긴장형두통: 두통일수·32주 추적](#landmark-acupuncture) |
+| **JAMA Network Open** | **11.7** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamanetworkopen/pages/for-authors) | [미국 고령자 요통·불면 전침·파킨슨병 수면·방사선 구강건조·호르몬치료 관절통 추적](#landmark-acupuncture) · [국내 추나 목통증](#korean-treatment-results) · [TISS 통심락 뇌졸중](#landmark-herbal) · [일본 월비가출탕 비무작위시험](../authority/formulas/herbal-formula-evidence-hub.md#japanese-eppikajutsuto-trial) |
 
 위 수치는 **2026년 10월 확인한 저널 공식 안내**이며 논문 발표 당시의 IF나 논문 자체의 인용 횟수가 아닙니다. IF는 학술지의 인용 지표, PubMed는 논문 검색 데이터베이스입니다. JAMA 본지와 자매지는 서로 다른 저널이므로 수치를 섞지 않고, 실제 치료효과는 각 연구의 결과로 설명합니다.
 
@@ -60,6 +62,8 @@ last_reviewed: '2026-09-05'
 | Mao 등, *JAMA Oncology*, 2021 · PEACE 암 생존자 만성 근골격통 360명 | 12주 BPI 통증강도 감소가 통상진료보다 전침 1.9점·이침 1.6점 더 큼 | [치료·비교군·추적 조건](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [PMID 33734288](https://pubmed.ncbi.nlm.nih.gov/33734288/) |
 | Cohen 등, *JAMA Network Open*, 2024 · 만성 방사선 구강건조 258명, 미국 33개 기관 | 4주 환자보고 구강건조 XQ가 표준 구강관리보다 6.67점 낮음; 가짜침 비교는 다중비교 보정 후 유의하지 않음 | [증상·삶의 질·평가 시점](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [PMID 38739392](https://pubmed.ncbi.nlm.nih.gov/38739392/) |
 | Vickers 등, *Journal of Pain*, 2018 · 39개 RCT, 20,827명 개인자료 메타분석 | 무침 대비 약 0.5 SD, 가짜침 대비 약 0.2 SD의 통증·기능 개선; 1년에도 효과 대부분 유지 | [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) |
+| Zheng 등, *Neurology*, 2022 · 만성 긴장형두통 218명 | 8주 20회 침치료 후 16주에 월 두통일수 50% 이상 감소 68.2% 대 얕은 침 48.1%; 두통일수 감소의 군 간 차이 4.3일, 32주에도 반응률 차이 유지 | [대상·치료·장기 결과](../conditions/tension-headache.md#tension-acupuncture-2022) · [PMID 35732505](https://pubmed.ncbi.nlm.nih.gov/35732505/) |
+| Yan 등, *JAMA Network Open*, 2024 · 수면 불편을 동반한 파킨슨병 83명 등록·78명 분석 | 항파킨슨 약물치료에 침 또는 가짜침을 병행; 4주 PDSS 수면척도가 가짜침보다 19.75점 높고, 8주 평가에서도 차이 유지 | [원저·PMID 38922617](https://pubmed.ncbi.nlm.nih.gov/38922617/) · PDSS는 높은 점수가 좋은 방향이며 수면·삶의 질을 평가한 단일기관 시험 |
 
 ### 한약: 증상 개선과 장기 임상 결과 {#landmark-herbal}
 
@@ -74,10 +78,33 @@ last_reviewed: '2026-09-05'
 | Zhong 등, *Clinical Gastroenterology and Hepatology*, 2019 권호 · 마자인환 291명 | 8주 완전자발배변 반응률 68.0% 대 위약 33.0%; 센나와 8주 차이는 유의하지 않음 | [배변과 추적 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-digestive-trials) · [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) |
 | Kim 등, *Complementary Therapies in Medicine*, 2019 · 국내 소청룡탕 다기관 시험 | 4주 위약대조에서 통년성 비염의 코 증상과 삶의 질 개선 | [국내 처방 단위 연구](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/) |
 | Lee 등, *Journal of Ethnopharmacology*, 2026 · 국내 육군자탕·평위산 140명 | 6주 소화불량 증상점수 변화가 통상관리보다 각각 평균 1.63점·1.55점 더 유리 | [국내 비교효과 시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) |
+| Rong 등, *Journal of Infectious Diseases*, 2022 권호·2020 온라인; Ji 등, *Journal of Hepatology*, 2022 · B형간염 진행성 섬유화·간경변 1,000명 | 엔테카비르에 별갑연간 복합제(Biejia-Ruangan)를 추가: 72주 조직학적 섬유화 개선 40.0% 대 위약 병용 31.8%; 같은 시험의 장기추적에서 7년 간암 누적발생 4.7% 대 9.3%(mITT) | [본시험·장기추적 함께 읽기](#brc-hepatitis-trial) · [PMID 32437567](https://pubmed.ncbi.nlm.nih.gov/32437567/) · [PMID 35985545](https://pubmed.ncbi.nlm.nih.gov/35985545/) |
 
 ### 간·신장질환: 치료 결과와 안전성 연구 {#liver-kidney-research}
 
-간효소·알부민뇨·여과기능과 장기 생존은 서로 다른 결과입니다. 아래는 앞의 핵심 30편과 별도로 연결한 분야별 연구이며, 임상시험·관찰연구·증례·종설을 구분해 읽습니다.
+**간·신장 분야에서도 한약의 역할을 사람 대상 검사·조직·추적결과로 살펴본 연구가 있습니다.** 간효소·담즙 배출·단백뇨·여과기능·간암 발생은 각각 연구가 직접 평가한 성과입니다. 아래에서는 일본 전문 진료과의 연구와 국제 저널의 다기관 한약 병용시험을 함께 소개합니다.
+
+#### B형간염: 섬유화 개선에서 7년 추적까지 {#brc-hepatitis-trial}
+
+Rong 등의 다기관 이중눈가림시험은 진행성 섬유화·간경변을 동반한 만성 B형간염 **1,000명**을 엔테카비르와 **별갑연간 복합제(Biejia-Ruangan compound, BRC)** 병용군 또는 엔테카비르와 위약 병용군에 배정했습니다. 72주 뒤 간 조직의 Ishak 섬유화 단계가 1점 이상 개선된 비율은 **40.0% 대 31.8%**였습니다(P=0.0069). 기저 간경변 환자 388명에서는 Ishak 5점 이상에서 4점 이하로 개선된 비율이 **41.5% 대 30.7%**였습니다. 실제 간 조직을 평가한 병용치료 근거입니다. [본시험 PMID 32437567](https://pubmed.ncbi.nlm.nih.gov/32437567/)
+
+Ji 등이 *Journal of Hepatology*에 발표한 **같은 시험의 장기추적**에서는 7년 간암 누적발생이 **4.7% 대 9.3%**, 간 관련 사망 누적발생이 **0.2% 대 2.2%**였습니다(mITT 분석). 72주 눈가림 비교 뒤 공개치료 단계로 이어진 추적임을 함께 표시합니다. 중국의 해당 복합제와 항바이러스제 병용 성과이며, 항바이러스 치료를 유지한 연구입니다. [추적논문 PMID 35985545](https://pubmed.ncbi.nlm.nih.gov/35985545/) · [DOI 10.1016/j.jhep.2022.07.018](https://doi.org/10.1016/j.jhep.2022.07.018)
+
+#### 일본 간·신장 연구: 누가 무엇을 확인했나요? {#japan-liver-kidney-studies}
+
+**돗토리대 내과의 소시호탕 시험, 일본 신장 전문 연구진의 시령탕 시험, 간담도 분야의 인진호탕 연구, 게이오대의 황기 함유 처방 연구**는 한약을 실제 진료의 검사결과와 연결한 사례입니다. 연구 당시의 기관·전문과와 실제 평가항목을 아래에 표시했습니다.
+
+| 연구진·저널 | 대상·설계 | 확인된 성과·원문 |
+|---|---|---|
+| **돗토리대 제2내과 등**, Hirayama 등 · *Gastroenterologia Japonica*, 1989 | 만성 활동성 간염 **222명**, 다기관 이중눈가림시험; 소시호탕 116명과 소량 소시호탕을 포함한 위약 대조 106명을 첫 12주 비교 | 소시호탕군의 **AST·ALT 감소가 12주에 대조군보다 유의하게 큼**. 간효소를 직접 평가한 일본 내과 원저. [PMID 2691317](https://pubmed.ncbi.nlm.nih.gov/2691317/) · [제제·비교·안전성 상세](../herbal-integrated/safety.md#kampo-liver-trials) |
+| **일본 소아 IgA 신병증 연구그룹**, Yoshikawa 등 · *일본신장학회지*, 1997 | 고베대·기타사토대 Kidney Center·도쿄도립 소아병원 신장과 등 참여; 경미한 메산지움 증식 소아 IgA 신병증 **101명**, 시령탕(TJ-114) 2년 대 무투약 무작위 비교 | 완료자 46명 대 48명 중 소변검사 정상화 **21명(46%) 대 5명(10%)**; 단백뇨·혈뇨 감소. [원저 PMID 9283216](https://pubmed.ncbi.nlm.nih.gov/9283216/) · [일본신장학회지 원문·기관정보](https://www.jstage.jst.go.jp/article/jpnjnephrol1959/39/5/39_5_503/_article/-char/en/) |
+| **게이오대 한방의학센터**, Yoshino 등 · *Frontiers in Pharmacology*, 2022 | 경도·중등도 CKD **37명**, 황기 함유 처방 전후 의무기록의 자기대조 사례군 | 평균 eGFR **66±12 → 70±14mL/min/1.73m²**(P<0.001). [PMID 35300298](https://pubmed.ncbi.nlm.nih.gov/35300298/) · [검사 추적과 처방 범위](../authority/formulas/kidney-disease-herbal-map.md#astragalus-japan-series) |
+| **나고야대·아이치암센터 간담도 외과 연구진**, Yamashita 등 · *Pharmacological Research*, 2022 | 외부 담도배액을 받은 악성 폐쇄성 황달 **52명**, 인진호탕 7.5g/일의 단기 투여와 장내미생물·담즙량 연구 | 투여 2·3일째 담즙량 변화와 분변의 genipin 생성능 사이 양의 상관(r=0.40·0.29). 한약 성분의 장내 전환과 담즙 반응을 연결. [PMID 34798264](https://pubmed.ncbi.nlm.nih.gov/34798264/) |
+| **미에대 의학부 검사부 연구진**, Yamashiki 등 · *Hepatology*, 1997 | 만성간염 환자 유래 말초혈액 단핵세포의 **배양 기전연구**; 소시호탕(TJ-9) 첨가 | IL-10 생성 유도, C형간염 환자 세포에서 증가한 IL-4·IL-5 생성 조절. 한약의 면역조절 기전을 간 전문 저널에서 탐색한 원저. [PMID 9185758](https://pubmed.ncbi.nlm.nih.gov/9185758/) |
+
+**시령탕은 柴苓湯(Saireito)의 국내 통용명**으로 소시호탕·오령산 계열의 복합처방입니다. 위 시험은 소아의 특정 조직형에서 소변검사 결과를 비교했습니다. 성인 CKD의 eGFR을 살핀 게이오대 사례군과 연구 질문이 다릅니다. 인진호탕 연구는 담도배액을 받은 환자의 단기 반응, *Hepatology*의 소시호탕 연구는 환자 유래 세포의 반응으로 읽으면 각 성과의 의미가 분명해집니다. 시령탕·소시호탕 등 실제 처방의 선택과 병용 확인은 [한약 안전성 자료](../herbal-integrated/safety.md#safety-evidence-guide)와 연결합니다.
+
+**다른 간·신장 자료로 이어 읽기:**
 
 | 찾는 연구 | 기존 문서에서 확인할 내용 |
 |---|---|
@@ -93,7 +120,7 @@ last_reviewed: '2026-09-05'
 
 **베르베린의 대장선종 재발 감소**는 본초 유래 성분을 사람에게 직접 비교한 성과입니다. Chen 등의 *The Lancet Gastroenterology & Hepatology* 2020년 다기관 이중눈가림 시험은 1,108명을 배정하고 유효성 자료가 있는 891명을 분석했습니다. 선종 재발은 **36% 대 위약 47%, RR 0.77**이었습니다. [황련·베르베린의 구분과 상세 결과](../herbs/coptis.md#berberine-adenoma-trial) · [PMID 31926918](https://pubmed.ncbi.nlm.nih.gov/31926918/)
 
-이 시험은 분리 성분 정제의 연구로 위의 **핵심 30편이나 복합 한약 9편에 포함하지 않습니다**. 한약 복합처방의 효과, 대장암 예방이나 생존 향상과 구분해 읽습니다.
+이 시험은 **본초 유래 분리 성분 정제**를 평가했습니다. 위의 복합 한약처방 임상시험과 제제·연구 질문을 구분해 읽습니다.
 
 ### 일본 Kampo: 소화·두통·수면과 전문 진료의 연구 {#japan-kampo-studies}
 
@@ -104,6 +131,7 @@ last_reviewed: '2026-09-05'
 | **일본내과학회지**, Shimada, 2021;110:817–823 | 내과 진료에서 Kampo의 역할과 연구·안전성 개요; 임상 해설 | [日本内科学会雑誌 원문](https://www.jstage.jst.go.jp/article/naika/110/4/110_817/_article/-char/ja) |
 | **일본내과학회지**, Manabe·Haruma, 2019;108:55–62 | 만성변비에서 배변뿐 아니라 복부팽만·복통을 함께 다루는 처방 활용; 임상 해설 | [만성변비 한방치료 원문](https://www.jstage.jst.go.jp/article/naika/108/1/108_55/_article/-char/ja/) |
 | **일본소화기학회 지침**, 2021판·2022년 영문 논문 | 기능성소화불량의 1차 치료 선택지에 **육군자탕** 포함 | [Journal of Gastroenterology·PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/) · [RCT와 권고의 연결](../research/formulas/rikkunshito.md#japanese-fd-trials) |
+| **일본 56개 병원·소화기내과 공동연구**, Tominaga 등, *Neurogastroenterology & Motility*, 2018 · DREAM | 육군자탕의 기능성소화불량 이중눈가림·위약대조시험: 128명 무작위배정, 125명 전체분석군; **8주 전체 치료효과 평가가 위약보다 유리**(P=0.019), 식후포만·조기포만·팽만 개선 | [PMID 29498457](https://pubmed.ncbi.nlm.nih.gov/29498457/) · [대상·분석집단과 소화기 권고](../research/formulas/rikkunshito.md#japanese-fd-trials) |
 | **International Journal of Clinical Oncology**, Shimada, 2015 · 일본 26개 기관 3상 RCT | 대건중탕 간절제 시험, 231명 등록·209명 분석; 발관 뒤 첫 배변 중앙값 88.2시간 대 위약 93.1시간 | [PMID 24595550](https://pubmed.ncbi.nlm.nih.gov/24595550/) · [설계·평가항목](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial) |
 | **일본 전국 입원자료 코호트**, Yasunaga, 2015 · 36,020명 | 오령산과 경막하혈종 재수술: 성향점수 매칭 3,879쌍에서 4.8% 대 6.2%; 도구변수 분석도 같은 방향의 연관 | [PMID 26495025](https://pubmed.ncbi.nlm.nih.gov/26495025/) · [관찰연구 해석](../formulas/wuling-san.md#japanese-goreisan-cohort) |
 | **JAMA Network Open**, Ogawa-Ochiai, 2025 · 일본 다기관 비무작위시험 | 소아 림프관기형 19명 분석; 6개월 병변 부피 20% 이상 감소 10명(52.6%). 비교군 없는 전향적 시험 | [PMID 41182768](https://pubmed.ncbi.nlm.nih.gov/41182768/) · [반응 기준·설계·안전성](../authority/formulas/herbal-formula-evidence-hub.md#japanese-eppikajutsuto-trial) |
@@ -111,7 +139,7 @@ last_reviewed: '2026-09-05'
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)에서 대상·결과·저널 지표를 함께 확인하세요. 위의 국제·국내 핵심 30편과 별도의 일본 연구 묶음으로 안내하며, 월비가출탕의 비무작위시험도 RCT와 구분해 연결합니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **간·신장 분야**는 [일본 연구진·설계·검사결과](#japan-liver-kidney-studies)를, **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)을 이어 읽으세요. 월비가출탕의 비무작위시험은 RCT와 구분해 연결합니다.
 
 #### 일본 연구진의 두통·복부팽만·수면 연구 {#japan-symptom-studies}
 
@@ -153,12 +181,14 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | Lee 등, *JAMA Network Open*, 2021 · 만성 목통증 108명, 국내 5개 병원 | 추나 또는 전기치료·경구약 통상진료, 5주 10회. 5주 통증 VAS 차이 16.8mm(95% CI 10.1–23.5), NDI 기능 차이 8.6%p. 1년 누적 통증·기능도 추나군에 유리 | [PMID 34259850](https://pubmed.ncbi.nlm.nih.gov/34259850/) · [DOI 10.1001/jamanetworkopen.2021.13757](https://doi.org/10.1001/jamanetworkopen.2021.13757) · [목통증 안내](../conditions/neck-pain.md) |
 | Park 등, *Journal of Pain Research*, 2023 · 만성요통 100명, 국내 4개 한방병원 | 약침 또는 물리치료, 5주 10회. 6주 NRS 차이 1.54점(95% CI 0.94–2.13), ODI 차이 4.52%p. 25주 추적에서도 유리한 경과 | [PMID 37554434](https://pubmed.ncbi.nlm.nih.gov/37554434/) · [약침 상세 결과](../authority/pharmacopuncture.md#pharmaco-back-trial) |
 | Lee 등, *Integrative Medicine Research*, 2026 · 척추관협착증 96명 | 약침과 통상치료를 12주 비교. 13주 주된 통증 NRS 개선 차이 2.7점, 기능·삶의 질 평가와 53주 추적 | [PMID 42099446](https://pubmed.ncbi.nlm.nih.gov/42099446/) · [협착증 시험의 대상·치료 조건](../authority/pharmacopuncture.md#lumbar-spinal-stenosis-trial) |
+| Son 등, *Journal of Clinical Medicine*, 2024 · 교통사고 뒤 급성 두통 입원환자 80명 | 양 군 통합 한의치료에 **후두하근 약침 3회 추가** 여부를 비교. 입원 4일째 두통 NRS 개선이 추가군에서 2.59점 더 크고, 두통장애지수 개선도 24.78점 더 큼 | [PMID 39124723](https://pubmed.ncbi.nlm.nih.gov/39124723/) · [외상 후 급성 두통의 치료 조건](../conditions/tension-headache.md#tension-headache-modalities) |
+| Lee 등, *Journal of Pain Research*, 2025 · 목디스크 84명 무작위배정, 7개 한방병원 예비시험 | 약침·침·약물/물리치료 통상진료를 6주 비교. 7주 목통증 NRS가 통상진료보다 **2.73점**, 침군보다 **1.68점** 낮음; 25주 추적 | [PMID 40726764](https://pubmed.ncbi.nlm.nih.gov/40726764/) · [원문 본문·배정인원·표 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12302222/) · [목디스크 임상 안내](../conditions/cervical-disc-herniation.md) |
 
 이 연구들은 해당 치료 구성의 비교효과를 보여줍니다. 여러 치료를 함께 시행한 결과를 한약·침·약침 각각의 단독 효과로 분해하거나, 한 시험으로 모든 한의치료의 우열을 정하지 않습니다.
 
 ### 국제 진료지침에서 확인하는 치료의 역할 {#international-clinical-guidelines}
 
-**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 위 30편의 임상 성과 집계에 더하지 않습니다.
+**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 개별 임상시험과 역할을 나누어 읽습니다.
 
 | 발행기관·지침 | 확인할 치료 역할 | 원문·임상 연결 |
 |---|---|---|
