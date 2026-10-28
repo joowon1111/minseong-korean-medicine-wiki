@@ -781,5 +781,43 @@
       "_6": "network/acupuncture-clinical-map.md#combined-care",
       "_7": "network/acupuncture-clinical-map.md#combined-care"
     }
+  },
+  "conditions/stairs-knee-pain.md": {
+    "target": "conditions/knee-pain.md#stairs-knee-pain",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#stairs-knee-pain",
+      "_2": "conditions/knee-pain.md#stairs-knee-pain",
+      "_3": "conditions/knee-pain.md#stairs-knee-pain",
+      "_4": "conditions/knee-pain.md#_2",
+      "_5": "conditions/knee-pain.md#_8",
+      "_6": "conditions/knee-pain.md#stairs-knee-pain",
+      "_7": "conditions/knee-pain.md#_23",
+      "_8": "conditions/knee-pain.md#stairs-knee-pain"
+    }
+  },
+  "conditions/squatting-knee-pain.md": {
+    "target": "conditions/knee-pain.md#squatting-knee-pain",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#squatting-knee-pain",
+      "_2": "conditions/knee-pain.md#squatting-knee-pain",
+      "_3": "conditions/knee-pain.md#squatting-knee-pain",
+      "_4": "conditions/knee-pain.md#_2",
+      "_5": "conditions/knee-pain.md#_8",
+      "_6": "conditions/knee-pain.md#squatting-knee-pain",
+      "_7": "conditions/knee-pain.md#_23",
+      "_8": "conditions/knee-pain.md#squatting-knee-pain"
+    }
+  },
+  "answer-guides/stairs-knee-pain-guide.md": {
+    "target": "conditions/knee-pain.md#stairs-knee-pain",
+    "anchors": {
+      "_1": "conditions/knee-pain.md#stairs-knee-pain",
+      "_2": "conditions/knee-pain.md#stairs-knee-pain",
+      "_3": "conditions/knee-pain.md#stairs-knee-pain",
+      "_4": "conditions/knee-pain.md#_16",
+      "_5": "conditions/knee-pain.md#_2",
+      "_6": "conditions/knee-pain.md#stairs-knee-pain",
+      "_7": "conditions/knee-pain.md#_23"
+    }
   }
 }
