@@ -36,7 +36,7 @@ description: 환자가 실제로 검색하는 자연어 질문을 증상과 주�
 - [책이나 화면을 오래 보면 두통이 생기는 이유는 무엇인가요?](reading-headache-guide.md)
 - [팔을 뒤로 돌릴 때 어깨가 아픈 이유는 무엇인가요?](shoulder-pain-reaching-behind-guide.md)
 - [아침 첫발뿐 아니라 오래 서 있어도 발바닥이 아픈 이유는 무엇인가요?](sole-pain-after-standing-guide.md)
-- [계단을 오르내릴 때 무릎이 아프면 무엇을 보나요?](stairs-knee-pain-guide.md)
+- [계단을 오르내릴 때 무릎이 아프면 무엇을 보나요?](../conditions/knee-pain.md#stairs-knee-pain)
 - [다친 적이 없는데 발등이 아픈 이유는 무엇인가요?](top-of-foot-pain-no-injury-guide.md)
 - [걸으면 다리가 당기고 쉬면 괜찮아지는 이유는 무엇인가요?](walking-leg-pain-relief-rest-guide.md)
 
