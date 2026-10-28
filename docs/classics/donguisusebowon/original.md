@@ -1126,7 +1126,7 @@ reader_tools: true
 
 **함께 읽는 맥락** — 처방이 바뀌었다는 사실과 회복 기간이 길었다는 사실을 함께 남기는 기록입니다. 이 사례는 치료 목표가 급성 병세의 해소에서 회복 상태의 유지로 옮겨가는 과정을 보여 줍니다. 사십 일이라는 숫자를 일반적인 치료 기간으로 쓰는 대신 단계 구분의 의미를 읽습니다.
 
-**이어 읽기:** [피로·회복 소증](../../sasang-original-symptoms/fatigue-recovery.md) · [태음인 통합](../../sasang-integrated/taeeumin.md)
+**이어 읽기:** [피로·회복 소증](../../sasang-original-symptoms/fatigue-recovery.md) · [태음인 통합](../../sasang-integrated/taeeumin.md) · [이 의안의 스무 날과 병후 조리를 읽는 이야기](../../classical-stories/sasang/taeeumin-dry-throat-long-recovery.md)
 
 </section>
 
