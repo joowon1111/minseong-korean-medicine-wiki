@@ -10,7 +10,7 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [일본 간·신장 전문 연구진](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
+**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [간·신장 관찰·안전성 연구](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
@@ -78,43 +78,41 @@ last_reviewed: '2026-09-05'
 | Zhong 등, *Clinical Gastroenterology and Hepatology*, 2019 권호 · 마자인환 291명 | 8주 완전자발배변 반응률 68.0% 대 위약 33.0%; 센나와 8주 차이는 유의하지 않음 | [배변과 추적 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-digestive-trials) · [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) |
 | Kim 등, *Complementary Therapies in Medicine*, 2019 · 국내 소청룡탕 다기관 시험 | 4주 위약대조에서 통년성 비염의 코 증상과 삶의 질 개선 | [국내 처방 단위 연구](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/) |
 | Lee 등, *Journal of Ethnopharmacology*, 2026 · 국내 육군자탕·평위산 140명 | 6주 소화불량 증상점수 변화가 통상관리보다 각각 평균 1.63점·1.55점 더 유리 | [국내 비교효과 시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) |
-| Rong 등, *Journal of Infectious Diseases*, 2022 권호·2020 온라인; Ji 등, *Journal of Hepatology*, 2022 · B형간염 진행성 섬유화·간경변 1,000명 | 엔테카비르에 별갑연간 복합제(Biejia-Ruangan)를 추가: 72주 조직학적 섬유화 개선 40.0% 대 위약 병용 31.8%; 같은 시험의 장기추적에서 7년 간암 누적발생 4.7% 대 9.3%(mITT) | [본시험·장기추적 함께 읽기](#brc-hepatitis-trial) · [PMID 32437567](https://pubmed.ncbi.nlm.nih.gov/32437567/) · [PMID 35985545](https://pubmed.ncbi.nlm.nih.gov/35985545/) |
+| Rong 등, *Journal of Infectious Diseases*, 2022 권호·2020 온라인; Ji 등, *Journal of Hepatology*, 2022 · B형간염 진행성 섬유화·간경변 1,000명 | 엔테카비르에 별갑연간 복합제(Biejia-Ruangan)를 추가: 72주 조직학적 섬유화 개선 40.0% 대 위약 병용 31.8%; 같은 시험의 장기추적에서 7년 간암 누적발생 4.7% 대 9.3%(mITT) | [다기관 본시험·장기추적](#brc-hepatitis-trial) · [PMID 32437567](https://pubmed.ncbi.nlm.nih.gov/32437567/) · [PMID 35985545](https://pubmed.ncbi.nlm.nih.gov/35985545/) |
 
 ### 간·신장질환: 치료 결과와 안전성 연구 {#liver-kidney-research}
 
-**간·신장 분야에서도 한약의 역할을 사람 대상 검사·조직·추적결과로 살펴본 연구가 있습니다.** 간효소·담즙 배출·단백뇨·여과기능·간암 발생은 각각 연구가 직접 평가한 성과입니다. 아래에서는 일본 전문 진료과의 연구와 국제 저널의 다기관 한약 병용시험을 함께 소개합니다.
+**간·신장 연구는 대상·비교군·평가항목을 같은 기준으로 살펴봅니다.** 저널의 전문성과 공신력에 더해 연구 설계·규모·추적기간을 함께 고려하고, 무작위 비교시험과 장기추적을 먼저 배치했습니다. 간효소·섬유화·간암 발생·단백뇨·여과기능·복용 안전성은 각 연구가 답하는 질문에 맞춰 읽습니다.
 
-#### B형간염: 섬유화 개선에서 7년 추적까지 {#brc-hepatitis-trial}
-
-Rong 등의 다기관 이중눈가림시험은 진행성 섬유화·간경변을 동반한 만성 B형간염 **1,000명**을 엔테카비르와 **별갑연간 복합제(Biejia-Ruangan compound, BRC)** 병용군 또는 엔테카비르와 위약 병용군에 배정했습니다. 72주 뒤 간 조직의 Ishak 섬유화 단계가 1점 이상 개선된 비율은 **40.0% 대 31.8%**였습니다(P=0.0069). 기저 간경변 환자 388명에서는 Ishak 5점 이상에서 4점 이하로 개선된 비율이 **41.5% 대 30.7%**였습니다. 실제 간 조직을 평가한 병용치료 근거입니다. [본시험 PMID 32437567](https://pubmed.ncbi.nlm.nih.gov/32437567/)
-
-Ji 등이 *Journal of Hepatology*에 발표한 **같은 시험의 장기추적**에서는 7년 간암 누적발생이 **4.7% 대 9.3%**, 간 관련 사망 누적발생이 **0.2% 대 2.2%**였습니다(mITT 분석). 72주 눈가림 비교 뒤 공개치료 단계로 이어진 추적임을 함께 표시합니다. 중국의 해당 복합제와 항바이러스제 병용 성과이며, 항바이러스 치료를 유지한 연구입니다. [추적논문 PMID 35985545](https://pubmed.ncbi.nlm.nih.gov/35985545/) · [DOI 10.1016/j.jhep.2022.07.018](https://doi.org/10.1016/j.jhep.2022.07.018)
-
-#### 일본 간·신장 연구: 누가 무엇을 확인했나요? {#japan-liver-kidney-studies}
-
-**돗토리대 내과의 소시호탕 시험, 일본 신장 전문 연구진의 시령탕 시험, 간담도 분야의 인진호탕 연구, 게이오대의 황기 함유 처방 연구**는 한약을 실제 진료의 검사결과와 연결한 사례입니다. 연구 당시의 기관·전문과와 실제 평가항목을 아래에 표시했습니다.
+#### 무작위 비교시험과 장기추적 {#brc-hepatitis-trial}
 
 | 연구진·저널 | 대상·설계 | 확인된 성과·원문 |
 |---|---|---|
+| **Rong·Ji 등**, *Journal of Infectious Diseases*·*Journal of Hepatology*, 2022 권호 | 진행성 섬유화·간경변 동반 B형간염 **1,000명**; 엔테카비르+별갑연간 복합제(BRC) 대 엔테카비르+위약, 다기관 이중눈가림 72주와 같은 시험의 장기추적 | 조직학적 섬유화 개선 **40.0% 대 31.8%**; 기저 간경변 388명의 Ishak 5점 이상→4점 이하 개선 **41.5% 대 30.7%**. 72주 뒤 공개치료 단계로 이어진 추적에서 7년 간암 누적발생 **4.7% 대 9.3%**, 간 관련 사망 **0.2% 대 2.2%**(mITT). [본시험 PMID 32437567](https://pubmed.ncbi.nlm.nih.gov/32437567/) · [장기추적 PMID 35985545](https://pubmed.ncbi.nlm.nih.gov/35985545/) |
+| **Zhao 등·중국·프랑스 공동연구**, *Diabetes Care*, 2022 | 당뇨병성 신장질환 **413명**, 중국 9개 병원·24주 이중눈가림시험; 황촉규 제제·이르베사르탄·병용 비교 | 병용군의 uACR 감소가 이르베사르탄 단독보다 조정 평균 **197.94mg/g 더 큼**. [PMID 35613364](https://pubmed.ncbi.nlm.nih.gov/35613364/) · [제제·비교군·검사결과](../authority/formulas/kidney-disease-herbal-map.md#huangkui-france-china) |
+| **Chan 등**, *Phytomedicine*, 2024 | 제2형 당뇨병·CKD **118명**, 다기관 평가자 눈가림 무작위시험; 황기 과립 추가 대 표준관리, 48주 | 황기군에서 eGFR 감소 속도가 연간 **4.6mL/min/1.73m² 더 완만함**(군 간 차이). [PMID 38810556](https://pubmed.ncbi.nlm.nih.gov/38810556/) · [대상·추적·안전성](../authority/formulas/kidney-disease-herbal-map.md#astragalus-rct) |
 | **돗토리대 제2내과 등**, Hirayama 등 · *Gastroenterologia Japonica*, 1989 | 만성 활동성 간염 **222명**, 다기관 이중눈가림시험; 소시호탕 116명과 소량 소시호탕을 포함한 위약 대조 106명을 첫 12주 비교 | 소시호탕군의 **AST·ALT 감소가 12주에 대조군보다 유의하게 큼**. 간효소를 직접 평가한 일본 내과 원저. [PMID 2691317](https://pubmed.ncbi.nlm.nih.gov/2691317/) · [제제·비교·안전성 상세](../herbal-integrated/safety.md#kampo-liver-trials) |
 | **일본 소아 IgA 신병증 연구그룹**, Yoshikawa 등 · *일본신장학회지*, 1997 | 고베대·기타사토대 Kidney Center·도쿄도립 소아병원 신장과 등 참여; 경미한 메산지움 증식 소아 IgA 신병증 **101명**, 시령탕(TJ-114) 2년 대 무투약 무작위 비교 | 완료자 46명 대 48명 중 소변검사 정상화 **21명(46%) 대 5명(10%)**; 단백뇨·혈뇨 감소. [원저 PMID 9283216](https://pubmed.ncbi.nlm.nih.gov/9283216/) · [일본신장학회지 원문·기관정보](https://www.jstage.jst.go.jp/article/jpnjnephrol1959/39/5/39_5_503/_article/-char/en/) |
+| **高橋久雄·丸山勝也**, *医学のあゆみ*, 1993 | 입원 알코올의존 환자 **49명**, 소시호탕 24명 대 소시호탕·인진오령산 합방 25명 무작위 비교, 3개월 | 두 군의 증상·간검사 개선과 합방군의 ALP 감소를 평가. 입원 중 금주와 병행한 두 한약치료의 비교. [일본동양의학회 구조화 초록](https://www.jsom.or.jp/ebm/er/file/930013.pdf) · [치료 구성·결과](../herbal-integrated/safety.md#kampo-liver-trials) |
+
+위 시험의 결과는 해당 제제·환자군·평가기간에 맞춰 읽습니다. **시령탕(柴苓湯, Saireito)**은 소시호탕·오령산 계열의 복합처방이며, 소아 IgA 신병증 시험의 소변검사 결과와 성인 CKD 시험의 eGFR 결과는 각각의 치료 목표를 보여줍니다. [처방·병용과 추적검사](../herbal-integrated/safety.md#safety-evidence-guide)를 함께 확인할 수 있습니다.
+
+#### 실제 진료 관찰·안전성·기전 연구 {#japan-liver-kidney-studies}
+
+다음 자료는 실제 진료의 경과, 복용 중 검사 변화, 작용기전을 살펴봅니다. 코호트·사례군·증례·종설·세포연구를 구분하고, 각 연구가 직접 확인한 결과를 표시했습니다.
+
+| 연구진·저널 | 대상·설계 | 확인된 성과·원문 |
+|---|---|---|
+| **국내 7개 한방병원**, *Journal of Ethnopharmacology*, 2015 | 근골격계 입원환자 중 입·퇴원 간검사가 있는 **6,894명**, 후향적 실제 진료 자료 | 입원 시 간손상 354명 중 **225명이 정상 범위로 돌아오거나 유의한 회복**; 간 안전성과 검사 경과 평가. [PMID 25956676](https://pubmed.ncbi.nlm.nih.gov/25956676/) · [판정 기준·추적결과](../herbal-integrated/safety.md#liver-safety-jaseng) |
+| **Tsai 등·대만 보험자료**, *Journal of Ethnopharmacology*, 2015 | 라미부딘 치료 B형간염 **1,037명**, 추적 중앙값 5.3년 코호트 | 한약 사용과 낮은 전체 사망위험의 연관: 조정 **HR 0.45**(95% CI 0.27–0.76). [PMID 26277491](https://pubmed.ncbi.nlm.nih.gov/26277491/) · [대상·분석과 해석](../herbal-integrated/safety.md#hbv-herbal-cohort) |
+| **Gao 등**, *Scientific Reports*, 2016 | 진행성 간세포암 **288명**, 한약 병용 115명과 기존 치료군의 후향적 비교 | 생존기간 중앙값 **13개월 대 6개월**의 연관을 보고하고 네트워크 약리학으로 표적 탐색. [PMID 27143508](https://pubmed.ncbi.nlm.nih.gov/27143508/) · [생존자료·설계](../herbal-integrated/safety.md#hcc-herbal-survival) |
 | **게이오대 한방의학센터**, Yoshino 등 · *Frontiers in Pharmacology*, 2022 | 경도·중등도 CKD **37명**, 황기 함유 처방 전후 의무기록의 자기대조 사례군 | 평균 eGFR **66±12 → 70±14mL/min/1.73m²**(P<0.001). [PMID 35300298](https://pubmed.ncbi.nlm.nih.gov/35300298/) · [검사 추적과 처방 범위](../authority/formulas/kidney-disease-herbal-map.md#astragalus-japan-series) |
 | **나고야대·아이치암센터 간담도 외과 연구진**, Yamashita 등 · *Pharmacological Research*, 2022 | 외부 담도배액을 받은 악성 폐쇄성 황달 **52명**, 인진호탕 7.5g/일의 단기 투여와 장내미생물·담즙량 연구 | 투여 2·3일째 담즙량 변화와 분변의 genipin 생성능 사이 양의 상관(r=0.40·0.29). 한약 성분의 장내 전환과 담즙 반응을 연결. [PMID 34798264](https://pubmed.ncbi.nlm.nih.gov/34798264/) |
+| **국내 황기 추출물 증례**, *Endocrinology, Diabetes & Metabolism Case Reports*, 2014 | 당뇨병성 신장질환 환자 **1명**, 단기 치료·추적 | 1개월 뒤 eGFR **47→72mL/min/1.73m²**, 이후 1개월 추적 유지와 단백뇨 감소 보고. [PMID 25298884](https://pubmed.ncbi.nlm.nih.gov/25298884/) · [증례의 경과](../authority/formulas/kidney-disease-herbal-map.md#astragalus-korean-case) |
+| **Wang**, *Journal of Gastroenterology and Hepatology*, 2000 | Compound 861의 공개시험 **2,000명**과 조직검사 대조연구 등을 소개한 종설 | 공개시험의 **ALT 정상화 82%·증상 호전 83%**를 소개. 특정 제제의 결과와 원 연구 설계를 함께 확인. [PMID 10921385](https://pubmed.ncbi.nlm.nih.gov/10921385/) · [종설과 원 연구의 관계](../herbal-integrated/safety.md#liver-compound861) |
 | **미에대 의학부 검사부 연구진**, Yamashiki 등 · *Hepatology*, 1997 | 만성간염 환자 유래 말초혈액 단핵세포의 **배양 기전연구**; 소시호탕(TJ-9) 첨가 | IL-10 생성 유도, C형간염 환자 세포에서 증가한 IL-4·IL-5 생성 조절. 한약의 면역조절 기전을 간 전문 저널에서 탐색한 원저. [PMID 9185758](https://pubmed.ncbi.nlm.nih.gov/9185758/) |
 
-**시령탕은 柴苓湯(Saireito)의 국내 통용명**으로 소시호탕·오령산 계열의 복합처방입니다. 위 시험은 소아의 특정 조직형에서 소변검사 결과를 비교했습니다. 성인 CKD의 eGFR을 살핀 게이오대 사례군과 연구 질문이 다릅니다. 인진호탕 연구는 담도배액을 받은 환자의 단기 반응, *Hepatology*의 소시호탕 연구는 환자 유래 세포의 반응으로 읽으면 각 성과의 의미가 분명해집니다. 시령탕·소시호탕 등 실제 처방의 선택과 병용 확인은 [한약 안전성 자료](../herbal-integrated/safety.md#safety-evidence-guide)와 연결합니다.
-
-**다른 간·신장 자료로 이어 읽기:**
-
-| 찾는 연구 | 기존 문서에서 확인할 내용 |
-|---|---|
-| 자생한방병원 6,894명 간검사 | [입·퇴원 간손상 분류와 회복 결과](../herbal-integrated/safety.md#liver-safety-jaseng) |
-| 만성간질환 2,000명·ALT 정상화 | [Compound 861을 소개한 종설의 대상·결과](../herbal-integrated/safety.md#liver-compound861) |
-| 대만 B형간염 사망위험 연구 | [라미부딘 치료 환자 코호트와 추적기간](../herbal-integrated/safety.md#hbv-herbal-cohort) |
-| 2016년 Scientific Reports 간암 연구 | [생존 결과와 후향적 연구의 적용 범위](../herbal-integrated/safety.md#hcc-herbal-survival) |
-| 일본 소시호탕·알코올성 간질환 시험 | [간효소·바이러스 지표와 비교군](../herbal-integrated/safety.md#kampo-liver-trials) |
-| 황기: 국내 증례·일본 사례군·2024년 RCT | [연구설계별 eGFR 결과](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies) |
-| 중국·프랑스 공동 당뇨병성 신장질환 시험 | [황촉규 제제의 알부민뇨 결과](../authority/formulas/kidney-disease-herbal-map.md#huangkui-france-china) |
+관찰연구의 연관, 단기 검사 변화와 세포 반응은 각자의 연구 질문에 대한 성과입니다. 인진호탕은 담도배액을 받은 환자의 담즙 반응, *Hepatology*의 소시호탕 연구는 환자 유래 세포의 면역조절을 평가했습니다. [간질환 치료·안전성 자료](../herbal-integrated/safety.md#liver-treatment-evidence)와 [신장질환 임상연구 지도](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies)에서 세부 결과를 이어 읽을 수 있습니다.
 
 ### 본초 유래 분리 성분의 주요 임상연구 {#herb-derived-component-studies}
 
@@ -139,7 +137,7 @@ Ji 등이 *Journal of Hepatology*에 발표한 **같은 시험의 장기추적**
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **간·신장 분야**는 [일본 연구진·설계·검사결과](#japan-liver-kidney-studies)를, **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)을 이어 읽으세요. 월비가출탕의 비무작위시험은 RCT와 구분해 연결합니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **간·신장 분야**는 [임상시험·관찰·안전성 연구](#liver-kidney-research)를, **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)을 이어 읽으세요. 월비가출탕의 비무작위시험은 RCT와 구분해 연결합니다.
 
 #### 일본 연구진의 두통·복부팽만·수면 연구 {#japan-symptom-studies}
 
