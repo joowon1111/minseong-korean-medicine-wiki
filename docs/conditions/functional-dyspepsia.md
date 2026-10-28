@@ -106,6 +106,22 @@ last_reviewed: 2026-09-06
 
 반하사심탕의 따뜻한 약과 찬 약의 배합도 ‘속이 차고 뜨겁다’는 느낌만으로 고르는 기준은 아닙니다. [원문 속 명치 그득함과 한열 배합](../classical-stories/digestive-cold-warm-pairing.md)을 읽고, 실제 치료 결과는 아래의 임상연구와 구분해서 확인합니다.
 
+### 습체·담음·허약이 겹칠 때의 처방 비교 {#damp-phlegm-deficiency-formulas}
+
+식후 더부룩함이 같아도 **음식 정체를 풀어야 하는지, 담습·오심을 함께 다룰지, 약해진 식사·기력을 받칠지**에 따라 배합이 달라집니다. 다음은 다섯 고전 처방을 비교하는 학습 틀입니다. 처방은 현재의 병증과 식사 기능을 기준으로 비교합니다.
+
+| 처방 | 배합의 초점 | 함께 구분할 양상 |
+|---|---|---|
+| [향사평위산](../formulas/pingwei-san.md#xiangsha-pingwei) | 평위산에 향부자·목향·지실·곽향·사인을 배합 | 습체·창만에 기체·음식 정체가 겹침 |
+| [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md#digestive-comparison) | 이진탕 약미와 산사·신곡·맥아, 창출·백출을 결합 | 식적과 담습·오심을 함께 봄 |
+| [인삼양위탕](../formulas/renshen-yangwei-tang.md#cold-damp-digestion) | 화습·화담·온중에 인삼을 배합 | 냉감·오심·습탁과 평소 허약, 외감 동반 여부 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md#same-name-versions) | 일반방의 보기·화습·행기, 소음인 신정방은 별도 구성 | 식욕저하·비민·허한을 보되 출전과 소증을 확인 |
+| [삼출건비탕](../formulas/samchul-geonbi-tang.md#formula-selection-context) | 사군자탕의 보기건비에 소식·이기를 결합 | 평소 허약·식사량 감소에 반복 식체가 겹침 |
+
+공통 약미가 많아도 처방을 같은 것으로 보지 않습니다. **창출과 백출**, **반하를 포함한 화담축**, **산사·신곡·맥아의 소식축**, **인삼·복령·감초의 보기건비축**을 나누어 보면 감별이 쉬워집니다. [창출·백출의 병용 비교](../herbs/atractylodes-lancea.md#combined-atractylodes) · [사인](../herbs/amomum.md) · [백두구](../herbs/white-cardamom.md)
+
+세부 문서의 《동의보감》·《방약합편》 수록형과 약미를 기준으로 정리했습니다. 원전의 식상·식적담·비민·위한은 전통적 처방 판단의 맥락이며 PDS·EPS와 일대일로 같지 않습니다. 실제 치료에서는 식후불편의 지속시간, 편하게 먹는 양, 오심·배변·기력의 변화를 함께 확인합니다.
+
 ### 원문에서 식사 기능과 증상 조합을 읽기 {#classical-function}
 
 > 以病新差，人強與穀，脾胃氣尚弱，不能消穀。

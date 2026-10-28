@@ -48,6 +48,11 @@ last_reviewed: 2026-10-23
 | [삼령백출산](../formulas/shenling-baizhu-san.md) | 보기건비와 삼습지사의 연결축 |
 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 중기허약 처방에서 건비를 받침 |
 | [귀비탕](../formulas/guibi-tang.md) | 심비양허의 보기건비축 |
+| [삼출건비탕](../formulas/samchul-geonbi-tang.md#formula-selection-context) | 보기건비에 산사·신곡·맥아의 소식을 결합 |
+| [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md#source-dose-original) | 창출과 함께 쓰며 화담·소식하는 배합을 보완 |
+| [향사양위탕](../formulas/xiangsha-yangwei-tang.md#same-name-versions) | 출전별로 창출 병용형과 백출 중심 소음인 처방을 구별 |
+
+[창출·백출의 처방별 배치](atractylodes-lancea.md#combined-atractylodes)에서는 두 약재가 함께 들어가는 이유와 약미를 구분합니다. 같은 출(朮)이라는 이름만으로 서로 치환하지 않습니다.
 
 ## 백출의 기원종과 성분 지문 {#species-fractions}
 

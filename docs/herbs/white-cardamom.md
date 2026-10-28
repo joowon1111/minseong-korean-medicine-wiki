@@ -23,7 +23,8 @@ last_reviewed: '2026-10-07'
 | 처방 | 배합에서 읽는 역할 |
 |---|---|
 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 국내 방약합편 계통에서 사인·익지인 등과 온중화습하고 보기약과 배합 |
-| [향사양위탕](../formulas/xiangsha-yangwei-tang.md) | 사인·향부자·진피의 이기와 인삼·백출·건강의 온중건비를 연결 |
+| [향사양위탕 소음인 신축본](../formulas/xiangsha-yangwei-tang.md#source-dose-original) | 사인·향부자·진피와 함께 쓰이며 인삼·백출·건강의 배합을 확인 |
+| [향사양위탕 일반방](../formulas/xiangsha-yangwei-tang.md#same-name-versions) | 《방약합편》형에서는 목향·사인과 방향화습·행기, 창출·백출·후박·복령과 중초의 습체·허약을 함께 살핌 |
 
 ## 백두구·사인·초과 감별
 
@@ -32,6 +33,12 @@ last_reviewed: '2026-10-07'
 ## 비슷한 본초와 구분
 
 [사인](amomum.md)의 화습·온비, [후박](magnolia-bark.md)의 조습·제만, [목향](aucklandia.md)의 행기지통과 비교합니다. 백두구·초두구·초과는 다른 본초이며, 식용 카다멈이라는 이름만으로 원료를 대체하지 않습니다.
+
+### ‘향사’라는 이름만으로 백두구 포함 여부를 알 수 있나요?
+
+처방명을 구성표 대신 사용할 수는 없습니다. 《방약합편》 향사양위탕에는 백두구가 있지만 [향사평위산](../formulas/pingwei-san.md#xiangsha-pingwei)의 위 수록형에는 없습니다. [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md)·[삼출건비탕](../formulas/samchul-geonbi-tang.md)도 사인을 배합하지만 해당 구성표의 백두구 유무는 따로 확인합니다. 비슷한 방향성 약재를 서로 같은 원료나 동량의 대체재로 기록하지 않습니다.
+
+백두구류의 [기원·성숙 열매·화습행기와 온중지구 기록](https://sys01.lib.hkbu.edu.hk/cmed/mpid/detail.php?herb_id=D00518)을 처방별 구성과 연결해 읽습니다.
 
 ## 실제 활용에서 확인할 점
 
