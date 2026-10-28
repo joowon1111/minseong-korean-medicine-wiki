@@ -161,6 +161,24 @@ tags: [양생, 養生, 치미병, 治未病, 예방의학, 고전 원문, 만성
 
 **오늘의 실천:** 외출할 장소와 실내외 온도 차를 생각하며 덧입거나 벗기 쉬운 옷을 골라 보세요. 더위가 심한 날의 구체적인 대응은 [CDC 더위와 건강 안내](https://www.cdc.gov/heat-health/about/index.html)를 참고합니다. [옷차림 카드 읽기](../daily-korean-medicine/?almanac=autumn-51#daily-yangsheng-library) · [24절기 생활 일력](../daily-korean-medicine/#daily-solar-terms)
 
+### 절기마다 생활을 돌아보고 한약의 배합을 읽기 {#solar-term-care}
+
+24절기는 한 해의 생활을 돌아볼 때 기억하기 좋은 이름입니다. 입추에도 더울 수 있고 입춘에도 길이 얼 수 있으므로, 옷차림·활동은 실제 날씨와 몸 상태에 맞춥니다. 절기 카드를 읽은 뒤 **지금 달라진 점 하나, 오늘 바꿀 행동 하나, 뒤에 확인할 변화 하나**를 정하면 막연한 계절 관리가 구체적인 기록으로 이어집니다.
+
+| 생활 장면 | 오늘 확인할 것 | 다음에 비교할 변화 |
+|---|---|---|
+| 경칩·추분의 활동 | 지금 가능한 걷기와 근력·균형 활동, 최근 넘어짐 | 활동 뒤와 다음날의 피로·통증, 일상기능 |
+| 춘분·하지의 수면 | 잠들 준비, 실제 잠든 시각, 빛·소음 | 야간 각성과 낮 졸림 |
+| 입하·소서·대서의 더위 | 쉴 실내, 물을 마실 기회, 개인 수분 지침 | 활동을 계속할 수 있는지, 평소와 다른 불편 |
+| 백로·상강의 피부 | 씻는 온도·시간, 보습과 세제 노출 | 당김·가려움·갈라짐의 분포와 지속 |
+| 입동·대설·우수의 이동 | 야간 조명, 미끄러운 길과 난간 | 휘청한 상황과 안전하게 오간 동선 |
+
+생활 제안의 근거는 [WHO 신체활동](https://www.who.int/news-room/fact-sheets/detail/physical-activity), [CDC 수면](https://www.cdc.gov/sleep/about/index.html)·[더위](https://www.cdc.gov/heat-health/about/index.html)·[낙상 예방](https://www.cdc.gov/falls/prevention/index.html), [미국피부과학회 건조 피부 관리](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin)에서 주제별로 확인합니다. 표의 기록 방식은 아카이브의 생활 적용 제안입니다.
+
+본초와 처방도 익숙한 계절 재료에서 시작해 **약재의 상태와 처방 속 역할**로 들어가면 이해하기 쉽습니다. [한로 카드](../daily-korean-medicine/?almanac=autumn-57#daily-yangsheng-library)의 생강·건강 이야기는 같은 식물의 신선한 뿌리줄기와 말린 뿌리줄기를 《상한론》 157조에서 따로 적었다는 점에 주목합니다. [소설 카드](../daily-korean-medicine/?almanac=autumn-60#daily-yangsheng-library)의 진피는 기원·과피·가공을 확인하고, [이진탕의 귤홍과 진피 해설](../classical-stories/phlegm-citrus-peel.md)에서 문헌별 배합을 비교합니다.
+
+[소서 카드](../daily-korean-medicine/?almanac=summer-57#daily-yangsheng-library)의 [생맥산](../formulas/shengmai-san.md#dongyuan-original-rationale)은 인삼·맥문동·오미자가 기와 진액을 서로 다른 방향에서 살피는 배합입니다. 실제 처방을 이해할 때는 계절 이름보다 피로·발한·갈증 등의 조합과 현재 상태를 확인합니다. 식사·수면·활동을 조절하면서 증후에 맞는 한약·침구치료를 함께 고려하는 과정은 [보익·양생과 회복](../network/recovery-map.md#prevention-functional-care)으로 이어집니다.
+
 ### 《준생팔전》: 마음이 분주한 날에는 짧은 글 {#quiet-reading}
 
 > 心不甚定，宜看詩及雜短故事。
