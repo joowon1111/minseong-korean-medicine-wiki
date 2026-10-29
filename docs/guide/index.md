@@ -134,6 +134,8 @@ last_reviewed: "2026-08-30"
 
 세부 운영 기준은 [운영 원칙](editorial-policy.md), [분류 체계](taxonomy.md), [출처·인용 원칙](citation-policy.md)에서 확인할 수 있습니다. 자료를 공유하거나 활용하려면 [콘텐츠 이용 안내](content-use.md)를 함께 확인할 수 있습니다.
 
+문서 작성의 세부 기준은 [경혈 문서 작성 원칙](../acupuncture/acupoint-writing-guide.md)과 [문서 메타데이터 가이드](../metadata-audit-guide.md)에서 확인할 수 있습니다.
+
 ---
 
 ## AI·AEO·GEO·SEO 구조 {#aiaeogeoseo}
