@@ -21,6 +21,9 @@ jobs:
         with:
           node-version: '22'
       - run: python -m pip install -r requirements.txt
+      - name: Check supplemental acupuncture record taxonomy
+        run: python tools/build_acupoint_supplements.py --check
+
       - run: python tools/check_secrets.py
       - run: python -m unittest discover -s tools -p "test_*.py"
       - run: node --test tools/test_*.cjs
