@@ -91,6 +91,12 @@ description: 간담의 화와 습열을 나누어 읽기, 유사 처방과의 �
 
 용담사간탕은 시대·수록본에 따라 약미와 비율이 다를 수 있습니다. 특히 **목통이라는 이름만으로 약재를 정하지 않고 공정서에 맞는 정확한 기원과 aristolochic acid 비함유 여부를 확인**해야 합니다. FDA도 Aristolochia 계열 원료의 혼동·오동정과 신장독성 위험을 별도로 경고합니다. [FDA Import Alert 54-10](https://www.accessdata.fda.gov/cms_ia/importalert_141.html). 차전자는 포전 여부, 생지황·당귀의 실제 포제, 감초 총량과 탕제·엑스제의 원생약량도 기록합니다.
 
+## 배뇨불편에서 청열·이습과 혈분을 함께 보기 {#urinary-formula-comparison}
+
+용담·황금·치자의 청열과 택사·목통·차전자의 이습을 설명하는 후대 수록형에서도 생지황·당귀의 혈분 조절이 함께 배치됩니다. 다만 [난실비장 칠미형](#source-dose-original), 후대 십미형과 일본 9미 제제의 실제 약미는 각각 확인합니다. 복령·황금·치자 등을 어느 원방에나 공통으로 추가해 적지 않습니다.
+
+배뇨통·열감·음부 불편의 조합과 소변검사·잔뇨를 함께 평가하고, 스트레스가 있다는 이유만으로 용담사간탕을 고르지 않습니다. [청심연자음](qingxin-lianzi-yin.md#prostate-urinary-context)은 피로·구건·허열과 보익축, [만병회춘형 저령탕](zhuling-tang.md#wanbing-huichun-version)은 청열통림 중심의 다른 구성을 비교합니다. [전립선·배뇨 처방 해설](../conditions/prostate-urinary-symptoms.md#five-herbal-formulas)
+
 ## 감별 포인트 {#_3}
 
 황련해독탕의 삼초실열과 비교해 간담·하초 증상이 어떤 관계로 나타나는지 살핍니다. 용담사간탕의 동명 수록본은 구성 차이가 있으므로 연구나 제품의 이름만 같다고 동일 제제로 보지 않습니다. [황련해독탕(黃連解毒湯)](../formulas/huanglian-jiedu-tang.md)에서 구성과 병증을 비교할 수 있습니다.
