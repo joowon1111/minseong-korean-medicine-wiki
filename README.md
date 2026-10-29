@@ -1,36 +1,46 @@
-# 민성 한의학 아카이브 V2
+# 민성 한의학 아카이브
 
 공개 주소: https://wiki.minseong.co.kr/
 
-## 이번 버전의 핵심
-- 10개 대분류 체계 고정
-- 문서별 front matter(태그·상태·검토일)
-- Material for MkDocs 검색 + tags + meta
-- 문서 편집/출처/상태 정책
-- 본초·방제·질환·고전·연구 템플릿
-- robots.txt + llms.txt + MkDocs 자동 sitemap
-- GitHub Actions 자동 빌드/배포
+## 현재 원본과 실행 경로
 
-## 적용 방법
-현재 저장소에 이 패키지의 **내용물**을 덮어씁니다. `.github`, `docs`, `mkdocs.yml`, `requirements.txt`, `README.md`가 저장소 루트에 위치해야 합니다.
+| 경로 | 역할 |
+|---|---|
+| `docs/` | 현재 공개 문서·정적 자산·기존 URL의 원본 |
+| `mkdocs.yml` | 메뉴·플러그인·빌드 훅·리다이렉트 설정 |
+| `data/` | 학술·경혈·학습 기능의 원본 데이터 |
+| `tools/` | 생성기·검증기·MkDocs 훅·테스트 |
+| `overrides/` | 사이트 템플릿 |
+| `services/archive-ai/` | AI 서버 소스와 배포 설정 |
+| `.github/workflows/` | 실제 검증·배포·Evidence Radar 실행 경로 |
 
-GitHub Desktop에서 변경 사항을 확인한 뒤:
-1. Summary: `Upgrade archive structure to V2`
-2. Commit to main
-3. Push origin
-4. Actions에서 `Deploy MkDocs to GitHub Pages` 성공 확인
+문서를 찾거나 수정할 때는 `docs/`에서 시작합니다. 저장소 전체에서 같은 파일명을 찾아 첫 결과를 수정하지 않습니다. `_backup*`, `*_BACKUP*`, `_AUDIT_UPLOAD_SOURCE`의 남은 파일은 내용 차이가 있어 보존한 과거 자료이며 현재 페이지가 아닙니다. `_payload`와 다른 payload 폴더는 설치 스크립트의 입력일 수 있습니다. 특히 `_payload/extra_pages`는 현재 경혈 검증기에서도 검사합니다.
 
-## 권장 운영 흐름
-1. 새 문서는 `docs/templates/`의 표준 양식으로 시작
-2. 초안 → 보강중 → 검토완료 상태 관리
-3. 출처를 먼저 확보한 뒤 현대 연구 문단 작성
-4. 관련 본초·방제·변증·질환을 내부링크로 연결
-5. 공개 URL(slug)은 가급적 변경하지 않음
+## 로컬 검증
 
-## 1차 콘텐츠 목표
-- 본초 100
-- 방제 100
-- 변증 50
-- 질환·증상 100
-- 고전 20
-- 현대 연구 리뷰 100
+먼저 `AGENTS.md`를 읽고 `python -m pip install -r requirements.txt`로 의존성을 설치합니다. 배포 순서에 맞춘 검증은 다음과 같습니다.
+
+```sh
+python tools/build_acupoint_supplements.py --check
+python tools/build_korean_search_index.py
+python tools/check_secrets.py
+python tools/build_ai_knowledge_layer.py
+python tools/audit_internal_links.py
+python -m unittest discover -s tools -p 'test_*.py'
+node --test tools/test_*.cjs
+python tools/build_archive_tools.py
+python tools/build_archive_ai_config.py
+python -m mkdocs build
+python tools/audit_internal_links.py --site
+python tools/audit_page_discovery.py
+python tools/audit_content_provenance.py
+python tools/audit_seo.py
+```
+
+Node.js 22와 Python 3.12를 기준으로 GitHub Actions가 검증합니다. 브라우저 반응형·검색·출처 표시 검사와 AI 서버 번들 검증은 `.github/workflows/validate.yml`을 따릅니다. `main` 병합 후 `.github/workflows/deploy.yml`이 GitHub Pages를 배포합니다.
+
+## 변경과 복구
+
+현재 문서에 내용을 통합하고 기존 URL·앵커·내부 링크·학술 출처를 유지합니다. 원문·처방 이본·원본 데이터는 이름이 같다는 이유로 병합하지 않습니다. 과거 APPLY/INSTALL 스크립트를 실행하면 오래된 내용으로 덮어쓸 수 있으므로 현재 편집·배포 절차를 우선합니다.
+
+새 백업 복제본을 커밋하는 대신 Git 브랜치·커밋·PR을 사용합니다. 정리 전 파일은 [2026-10-29 정리 기록](reports/repository-cleanup-2026-10-29/README.md)의 기준 커밋과 파일별 blob SHA로 추적할 수 있습니다. 보안 검사는 스테이징 후 커밋·푸시 전에 반드시 다시 실행합니다.

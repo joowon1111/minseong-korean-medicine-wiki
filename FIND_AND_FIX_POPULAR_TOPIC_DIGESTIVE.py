@@ -1,7 +1,8 @@
 from pathlib import Path
 import re
 
-ROOT=Path(".")
+# Search only the current publication tree, never historical snapshots or code.
+ROOT=Path(__file__).resolve().parent / "docs"
 TEXT_EXT={".md",".html",".htm",".yml",".yaml",".css",".js",".json",".py"}
 matches=[]
 
