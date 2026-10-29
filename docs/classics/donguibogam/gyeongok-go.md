@@ -42,6 +42,8 @@ last_reviewed: 2026-08-19
 
 생지황 8근·인삼 32량·백복령 24량·백밀 5근입니다. 재료 수는 같아도 상대 비중이 달라 하나의 배합으로 합치지 않습니다. 《홍씨집험방》의 복령 49량 수록형과도 구별합니다. [처방별 약량 대조](../../formulas/gyeongok-go.md#donguibogam-variants)
 
+이 두 배합의 본초학적 차이는 [보비익기·청열생진의 배합](../../formulas/gyeongok-go.md#spleen-qi-deficiency-heat)과 [인삼 증량형·익수영진고 비교](../../formulas/gyeongok-go.md#gyeongok-variant-comparison)에서 이어서 읽을 수 있습니다.
+
 ## 중탕·냉각·재가열의 제법 {#preparation-original}
 
 > 右和勻入磁缸內
