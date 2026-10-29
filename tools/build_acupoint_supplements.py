@@ -29,6 +29,8 @@ def load_records():
     expected = {f'SA{i}' for i in range(1, 5)} | {f'AA{i}' for i in range(1, 4)}
     if set(config['records']) != expected:
         raise ValueError('Supplemental record coverage changed; review taxonomy first')
+    if {r['entity_id'] for r in rows if r['meridian_code'] in {'SA', 'AA'}} != expected:
+        raise ValueError('New SA/AA source records require classification review')
     for code in expected:
         row, info = records[code], config['records'][code]
         if row['category'] != supplementary_type(code):
@@ -46,6 +48,7 @@ def render(code, row, info):
     kind = supplementary_type(code)
     label = LABELS[kind]
     title = f"{info['title']} ({code})"
+    heading = '배혈 구성' if kind == 'auricular_point_combination' else '해부학적 위치·구조'
     section = '이침 배혈 구성' if kind == 'auricular_point_combination' else '원본의 위치·구조 설명'
     text = f'''---
 title: {title}
@@ -58,18 +61,18 @@ source_standard: KM-Agent acupoints.csv / CC BY 4.0
 ---
 # {title}
 
-## 분류
+## 분류 {{#_1}}
 **{label}** · 원본 자료 식별자 **{code}**
 
 {info['intro']}
 
-## 위치
+## {heading} {{#_2}}
 
 ### {section}
 
 {row['location_ko'].strip()}
 
-## 자료의 범위
+## 자료의 범위 {{#_3}}
 
 <span id="_4"></span>
 <span id="_5"></span>

@@ -9,19 +9,19 @@ source_standard: KM-Agent acupoints.csv / CC BY 4.0
 ---
 # 칼몸통결합의 표면해부학적 위치 확인 (SA3)
 
-## 분류
+## 분류 {#_1}
 **표면해부학적 위치 확인 자료** · 원본 자료 식별자 **SA3**
 
 복장뼈와 칼돌기가 만나는 칼몸통결합을 위치 확인의 기준점으로 설명합니다. SA3은 경혈명 대신 이 해부학 자료를 가리키는 식별자입니다.
 
-## 위치
+## 해부학적 위치·구조 {#_2}
 
 ### 원본의 위치·구조 설명
 
 1. 칼몸통결합(Xiphisternal junction) 찾기: 흉곽(rib cage)을 따라 만지면서 올라가다 보면 딱딱한 막힌 부분이 나오는데 이 부분이 복장뼈(sternum)와 칼돌기(xiphoid process)가 만나는 칼몸통결합(xiphisternal junction)이다.
 2. 칼돌기(Xiphoid process)는 사람마다 모양과 위치가 달라서 이를 기준으로 삼지 말고 반드시 흉곽(rib cage)을 짚어 올라가서 막힌 부분 즉, 흉곽칼몸통결합(xiphisternal junction)을 찾아야 한다.
 
-## 자료의 범위
+## 자료의 범위 {#_3}
 
 <span id="_4"></span>
 <span id="_5"></span>
