@@ -20,3 +20,13 @@ venv/
 site/
 __pycache__/
 *.py[cod]
+
+# Historical local snapshots: recover committed versions through Git instead.
+/_backup*/
+/*_BACKUP*/
+/_AUDIT_UPLOAD_SOURCE/
+/MINSEONG_WIKI_AUDIT_SOURCE.zip
+/mkdocs.yml.backup*
+/mkdocs.yml.before-*
+/mkdocs_*backup*.yml
+/APPLY_*_STATUS.txt

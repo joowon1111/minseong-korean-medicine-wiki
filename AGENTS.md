@@ -19,6 +19,9 @@ A failed or incomplete security check blocks publication; do not silently pass i
 
 ## Content integration
 
+- Current publication sources are `docs/` and `mkdocs.yml`; source data lives in `data/`, build hooks/generators in `tools/`, templates in `overrides/`, and the AI backend in `services/`. Scope content searches and edits to the applicable current directory. Never select a document by the first basename match in a repository-wide recursive search.
+- Backup folders, `_AUDIT_UPLOAD_SOURCE`, payloads and old root-level APPLY/INSTALL packages are historical or installer resources, not current public documents. Do not edit or restore them as if they were `docs/`. Some payloads remain required: inspect references before removing them. See `reports/repository-cleanup-2026-10-29/README.md` for the audited removals and preserved variants. Use Git history for rollback instead of committing new source snapshots.
+
 - Owner wording preference, reaffirmed 2026-10-29: describe treatment roles, formula reasoning and useful applications directly in positive language. Replace repetitive defensive sentences such as “~로 해석하지 않습니다” with specific explanations of what to assess, compare and track. Preserve material safety guidance, source/formulation distinctions and accurately reported research outcomes.
 
 - Read the whole target document before expanding it. Integrate new material into the relevant existing paragraphs, tables, and sections; merge or replace overlapping explanations.
