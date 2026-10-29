@@ -20,7 +20,7 @@ last_reviewed: '2026-09-05'
 
 ### 인용 영향력이 높은 주요 저널에서 먼저 읽기 {#high-impact-journal-studies}
 
-**The Lancet·JAMA·Nature Medicine·The BMJ·Annals of Internal Medicine·Gastroenterology와 JAMA 계열 저널의 임상시험**, **Neurology의 만성 긴장형두통 시험**, **Journal of Hepatology의 한약 병용 장기추적**을 중심으로 치료성과를 읽습니다. 개인자료 메타분석과 국내 처방·약침 시험도 함께 연결합니다. 각 논문의 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통과 B형간염 한약 병용처럼 같은 환자를 추적한 논문은 본시험과 묶어서 읽습니다.
+**The Lancet·JAMA·Nature Medicine·The BMJ·Annals of Internal Medicine·Gastroenterology와 JAMA 계열 저널의 임상시험**, **Neurology의 만성 긴장형두통 시험**, **Journal of Hepatology의 한약 병용 장기추적**을 중심으로 치료성과를 읽습니다. *Allergy*의 알레르기비염 다기관시험과 *Cancer*의 한·미·중 공동 연구, 개인자료 메타분석과 국내 처방·약침 시험도 함께 연결합니다. 각 논문의 PMID로 PubMed의 서지정보와 원문 경로를 확인할 수 있습니다. 유방암 호르몬치료 관련 관절통과 B형간염 한약 병용처럼 같은 환자를 추적한 논문은 본시험과 묶어서 읽습니다.
 
 | 저널 | 공식 안내의 IF·표기 기준 | 이 페이지에서 읽는 핵심 연구 |
 |---|---|---|
@@ -31,7 +31,7 @@ last_reviewed: '2026-09-05'
 | **The BMJ** | **55.1** — 공식 페이지의 JCR 2025 표기. [공식 안내](https://www.bmj.com/about-bmj/publishing-model?change_country=1) | [침의 편두통 예방](#landmark-acupuncture) |
 | **JAMA Internal Medicine** | **26.3** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors) | [침의 편두통·좌골신경통·안정형 협심증](#landmark-acupuncture) · [FOCUS 진리다](#landmark-herbal) |
 | **Gastroenterology** | **25.9** — AGA의 2026년 편집장 공모 안내에 명시된 **2024 Journal Impact Factor**. [AGA 공식 안내](https://aga-fileuploader-bucket.s3.us-east-2.amazonaws.com/RFA_Gastro_2026_Abbreviated.pdf) | [설사형 IBS ACTION 다기관 시험](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
-| **Annals of Internal Medicine** | **17.3** — ACP 공식 페이지의 2025 IF 표기. [공식 안내](https://www.acponline.org/clinical-information/journals-publications/annals-of-internal-medicine) | [침의 무릎 골관절염·식후불편감·골반통·전침 변비](#landmark-acupuncture) · [복합탕제 독감 연구](#landmark-herbal) |
+| **Annals of Internal Medicine** | **17.3** — ACP 공식 페이지의 2025 IF 표기. [공식 안내](https://www.acponline.org/clinical-information/journals-publications/annals-of-internal-medicine) | [침의 무릎 골관절염·식후불편감·골반통·비염·전침 변비](#landmark-acupuncture) · [복합탕제 독감 연구](#landmark-herbal) |
 | **JAMA Oncology** | **23.9** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaoncology/pages/for-authors) | [PEACE 암 생존자 만성통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) |
 | **The Lancet Gastroenterology & Hepatology** | **39.1** — 공식 안내의 2025 Journal Citation Reports, Clarivate 2026 표기. [공식 안내](https://info.thelancet.com/langas/request-access) | [베르베린 선종 재발](#herb-derived-component-studies): 복합 한약과 구분한 성분 연구 |
 | **JAMA Neurology** | **23.6** — 2026년 7월 갱신 저자 안내; IF 산정연도 별도 표기 없음. [공식 안내](https://jamanetwork.com/journals/jamaneurology/pages/for-authors) | [대상포진후신경통 전침](#landmark-acupuncture) |
@@ -64,6 +64,9 @@ last_reviewed: '2026-09-05'
 | Vickers 등, *Journal of Pain*, 2018 · 39개 RCT, 20,827명 개인자료 메타분석 | 무침 대비 약 0.5 SD, 가짜침 대비 약 0.2 SD의 통증·기능 개선; 1년에도 효과 대부분 유지 | [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) |
 | Zheng 등, *Neurology*, 2022 · 만성 긴장형두통 218명 | 8주 20회 침치료 후 16주에 월 두통일수 50% 이상 감소 68.2% 대 얕은 침 48.1%; 두통일수 감소의 군 간 차이 4.3일, 32주에도 반응률 차이 유지 | [대상·치료·장기 결과](../conditions/tension-headache.md#tension-acupuncture-2022) · [PMID 35732505](https://pubmed.ncbi.nlm.nih.gov/35732505/) |
 | Yan 등, *JAMA Network Open*, 2024 · 수면 불편을 동반한 파킨슨병 83명 등록·78명 분석 | 항파킨슨 약물치료에 침 또는 가짜침을 병행; 4주 PDSS 수면척도가 가짜침보다 19.75점 높고, 8주 평가에서도 차이 유지 | [원저·PMID 38922617](https://pubmed.ncbi.nlm.nih.gov/38922617/) · PDSS는 높은 점수가 좋은 방향이며 수면·삶의 질을 평가한 단일기관 시험 |
+| Brinkhaus 등, *Annals of Internal Medicine*, 2013 · 계절성 알레르기비염 422명 | 8주 12회 침+세티리진 구조약: 가짜침+구조약보다 RQLQ 0.5점(97.5% CI 0.2–0.8), 구조약 점수 1.1점(97.5% CI 0.4–1.9) 유리 | [3군 설계·평가시점·추적](../conditions/rhinitis.md#acusar-rhinitis-trial) · [PMID 23420231](https://pubmed.ncbi.nlm.nih.gov/23420231/) |
+| Choi 등, *Allergy*, 2013 · 알레르기비염 238명, 다기관 무작위시험 | 4주 주 3회 침치료 후 TNSS 군 간 차이: 가짜침 대비 −1.03점(95% CI −1.96~−0.09), 대기군 대비 −2.49점(95% CI −3.68~−1.29) | [배정·비교군·코 증상 평가](../conditions/rhinitis.md#allergy-rhinitis-trial) · [PMID 23253122](https://pubmed.ncbi.nlm.nih.gov/23253122/) |
+| Lu 등, *Cancer*, 2024 · 유방암 내분비치료 중 여성 158명, 한·미·중 3개 평행 RCT의 계획된 개인자료 통합분석 | 10주 20회 침치료: FACT-ESS 개선의 군 간 차이 4.9점(SE 1.3, P=0.0003); 열감점수 감소 차이 3.9점(SE 1.3, P=0.003) | [다나파버·대구 연구진·대기 대조·20주 추적](../conditions/cancer-treatment-recovery.md#multinational-hot-flash-trial) · [PMID 38924035](https://pubmed.ncbi.nlm.nih.gov/38924035/) |
 
 ### 한약: 증상 개선과 장기 임상 결과 {#landmark-herbal}
 
@@ -264,7 +267,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 |---|---|
 | 식후불편감·복통과 설사·배변곤란의 직접 비교시험 | [소화불량: 침·국내 한약·일본 육군자탕](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [IBS ACTION](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) · [변비: 전침·마자인환](../authority/conditions/functional-constipation.md) |
 | 불면의 침·한약 연구와 수면 결과 | [전침 다기관 시험](../conditions/insomnia.md#jama-depression-insomnia-trial) · [산조인탕 단독·병용](../authority/formulas/suanzaoren-tang.md#szrd-results) · [수면 한약 비교](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary) |
-| 암 치료 후 통증·방사선 구강건조의 비교시험 | [PEACE 통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [만성 구강건조](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading) |
+| 암 치료 후 통증·방사선 구강건조·내분비치료 열감의 비교시험 | [PEACE 통증](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [만성 구강건조](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [내분비치료 열감](../conditions/cancer-treatment-recovery.md#multinational-hot-flash-trial) · [회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading) |
 | 질환·증상별 핵심 연구와 진료 시 확인점 | [질환별 임상근거](../authority/conditions/index.md) |
 | 한약의 간·신장 기능과 양약 병용 안전성 | [한약 안전성 연구 한눈에 보기](../herbal-integrated/safety.md#safety-evidence-guide) |
 | 처방별·진료 분야별 한약 임상연구 | [한약·처방 임상근거](../authority/formulas/herbal-formula-evidence-hub.md) |
