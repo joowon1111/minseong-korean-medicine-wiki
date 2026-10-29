@@ -1426,8 +1426,8 @@
           "value": "Forsythiae Fructus"
         },
         {
-          "label": "약용 부위",
-          "value": "개나리속 식물의 열매. 실제 규격품의 기원종을 확인"
+          "label": "기원·약용 부위",
+          "value": "의성개나리 Forsythia viridissima 또는 연교 Forsythia suspensa의 열매. 실제 규격품의 기원종을 확인"
         },
         {
           "label": "성미",
@@ -12830,16 +12830,16 @@
       "context": "전통 효능: 청열해독, 소종산결, 이뇨통림",
       "options": [
         {
-          "text": "연교(連翹)",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
-        },
-        {
           "text": "금은화(金銀花)",
           "owner": "금은화(金銀花)",
           "ownerId": "herb-honeysuckle",
           "source": "/herbs/honeysuckle/"
+        },
+        {
+          "text": "연교(連翹)",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
         },
         {
           "text": "차전자(車前子)",
@@ -14653,12 +14653,6 @@
           "source": "/herbs/gardenia/"
         },
         {
-          "text": "연교(連翹)",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
-        },
-        {
           "text": "차전자(車前子)",
           "owner": "차전자(車前子)",
           "ownerId": "herb-plantago-seed",
@@ -14669,9 +14663,15 @@
           "owner": "천화분(天花粉)",
           "ownerId": "herb-trichosanthes-root",
           "source": "/herbs/trichosanthes-root/"
+        },
+        {
+          "text": "연교(連翹)",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
         }
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "연교(連翹) — 생약명: Forsythiae Fructus",
       "source": "/herbs/forsythia/"
     },
@@ -14749,39 +14749,39 @@
       "source": "/herbs/forsythia/"
     },
     {
-      "id": "herb-forsythia-fact-약용 부위",
+      "id": "herb-forsythia-fact-기원·약용 부위",
       "cardId": "herb-forsythia",
       "category": "청열",
       "kind": "fact",
-      "prompt": "연교(連翹)의 약용 부위으로 정리된 것은?",
+      "prompt": "연교(連翹)의 기원·약용 부위으로 정리된 것은?",
       "options": [
         {
-          "text": "현삼류의 뿌리; 기원과 규격 확인",
-          "owner": "현삼(玄參)",
-          "ownerId": "herb-scrophularia",
-          "source": "/herbs/scrophularia/"
+          "text": "황벽나무류의 줄기껍질. 규격에 따라 기원종을 확인",
+          "owner": "황백(黃柏)",
+          "ownerId": "herb-phellodendron",
+          "source": "/herbs/phellodendron/"
         },
         {
-          "text": "Uncaria 속 식물의 갈고리가 달린 어린 가지",
-          "owner": "조구등(釣鉤藤)",
-          "ownerId": "herb-uncaria",
-          "source": "/herbs/uncaria/"
+          "text": "치자나무 Gardenia jasminoides의 성숙한 열매; 실제 공정서 규격 확인",
+          "owner": "치자(梔子)",
+          "ownerId": "herb-gardenia",
+          "source": "/herbs/gardenia/"
         },
         {
-          "text": "용담류 식물의 뿌리·뿌리줄기",
-          "owner": "용담·용담초(龍膽)",
-          "ownerId": "herb-gentian-root",
-          "source": "/herbs/gentian-root/"
+          "text": "지모 Anemarrhena asphodeloides의 뿌리줄기; 실제 공정서의 기원·규격 확인",
+          "owner": "지모(知母)",
+          "ownerId": "herb-anemarrhena",
+          "source": "/herbs/anemarrhena/"
         },
         {
-          "text": "개나리속 식물의 열매. 실제 규격품의 기원종을 확인",
+          "text": "의성개나리 Forsythia viridissima 또는 연교 Forsythia suspensa의 열매. 실제 규격품의 기원종을 확인",
           "owner": "연교(連翹)",
           "ownerId": "herb-forsythia",
           "source": "/herbs/forsythia/"
         }
       ],
       "answer": 3,
-      "explanation": "연교(連翹) — 약용 부위: 개나리속 식물의 열매. 실제 규격품의 기원종을 확인",
+      "explanation": "연교(連翹) — 기원·약용 부위: 의성개나리 Forsythia viridissima 또는 연교 Forsythia suspensa의 열매. 실제 규격품의 기원종을 확인",
       "source": "/herbs/forsythia/"
     },
     {
@@ -15119,12 +15119,6 @@
       "context": "생약명: Fritillariae Cirrhosae Bulbus",
       "options": [
         {
-          "text": "연교(連翹)",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
-        },
-        {
           "text": "생지황(生地黃)",
           "owner": "생지황(生地黃)",
           "ownerId": "herb-rehmannia-root-fresh",
@@ -15137,13 +15131,19 @@
           "source": "/herbs/fritillaria/"
         },
         {
+          "text": "연교(連翹)",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
+        },
+        {
           "text": "치자(梔子)",
           "owner": "치자(梔子)",
           "ownerId": "herb-gardenia",
           "source": "/herbs/gardenia/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "천패모(川貝母) — 생약명: Fritillariae Cirrhosae Bulbus",
       "source": "/herbs/fritillaria/"
     },
@@ -15192,16 +15192,16 @@
       "context": "전통 효능: 청열윤폐(淸熱潤肺)·화담지해(化痰止咳)·산결(散結)",
       "options": [
         {
-          "text": "포공영(蒲公英)",
-          "owner": "포공영(蒲公英)",
-          "ownerId": "herb-dandelion",
-          "source": "/herbs/dandelion/"
-        },
-        {
           "text": "연교(連翹)",
           "owner": "연교(連翹)",
           "ownerId": "herb-forsythia",
           "source": "/herbs/forsythia/"
+        },
+        {
+          "text": "포공영(蒲公英)",
+          "owner": "포공영(蒲公英)",
+          "ownerId": "herb-dandelion",
+          "source": "/herbs/dandelion/"
         },
         {
           "text": "천패모(川貝母)",
@@ -15410,12 +15410,6 @@
       "prompt": "치자(梔子)의 기원·약용 부위으로 정리된 것은?",
       "options": [
         {
-          "text": "작약속 식물의 건조 뿌리; 국가별 공정서의 허용 기원종·가공 규격 확인",
-          "owner": "적작약(赤芍藥)",
-          "ownerId": "herb-red-peony",
-          "source": "/herbs/red-peony/"
-        },
-        {
           "text": "황금 Scutellaria baicalensis의 뿌리; 실제 공정서 규격 확인",
           "owner": "황금(黃芩)",
           "ownerId": "herb-scutellaria",
@@ -15428,13 +15422,19 @@
           "source": "/herbs/gardenia/"
         },
         {
+          "text": "의성개나리 Forsythia viridissima 또는 연교 Forsythia suspensa의 열매. 실제 규격품의 기원종을 확인",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
+        },
+        {
           "text": "지모 Anemarrhena asphodeloides의 뿌리줄기; 실제 공정서의 기원·규격 확인",
           "owner": "지모(知母)",
           "ownerId": "herb-anemarrhena",
           "source": "/herbs/anemarrhena/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "치자(梔子) — 기원·약용 부위: 치자나무 Gardenia jasminoides의 성숙한 열매; 실제 공정서 규격 확인",
       "source": "/herbs/gardenia/"
     },
@@ -15742,16 +15742,16 @@
           "source": "/herbs/uncaria/"
         },
         {
+          "text": "뽕나무의 뿌리껍질",
+          "owner": "상백피(桑白皮)",
+          "ownerId": "herb-mulberry-root-bark",
+          "source": "/herbs/mulberry-root-bark/"
+        },
+        {
           "text": "대황류의 뿌리 및 뿌리줄기",
           "owner": "대황(大黃)",
           "ownerId": "herb-rhubarb",
           "source": "/herbs/rhubarb/"
-        },
-        {
-          "text": "개나리속 식물의 열매. 실제 규격품의 기원종을 확인",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
         },
         {
           "text": "용담류 식물의 뿌리·뿌리줄기",
@@ -16754,6 +16754,12 @@
       "context": "전통 효능: 청열해독, 소산풍열",
       "options": [
         {
+          "text": "연교(連翹)",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
+        },
+        {
           "text": "포공영(蒲公英)",
           "owner": "포공영(蒲公英)",
           "ownerId": "herb-dandelion",
@@ -16770,15 +16776,9 @@
           "owner": "금은화(金銀花)",
           "ownerId": "herb-honeysuckle",
           "source": "/herbs/honeysuckle/"
-        },
-        {
-          "text": "연교(連翹)",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "금은화(金銀花) — 전통 효능: 청열해독, 소산풍열",
       "source": "/herbs/honeysuckle/"
     },
@@ -16789,6 +16789,12 @@
       "kind": "fact",
       "prompt": "금은화(金銀花)의 기원·약용 부위으로 정리된 것은?",
       "options": [
+        {
+          "text": "의성개나리 Forsythia viridissima 또는 연교 Forsythia suspensa의 열매. 실제 규격품의 기원종을 확인",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
+        },
         {
           "text": "국내 공정서에서는 민들레 Taraxacum platycarpum 또는 동속 식물의 전초를 중심으로 규격을 확인",
           "owner": "포공영(蒲公英)",
@@ -16806,15 +16812,9 @@
           "owner": "금은화(金銀花)",
           "ownerId": "herb-honeysuckle",
           "source": "/herbs/honeysuckle/"
-        },
-        {
-          "text": "치자나무 Gardenia jasminoides의 성숙한 열매; 실제 공정서 규격 확인",
-          "owner": "치자(梔子)",
-          "ownerId": "herb-gardenia",
-          "source": "/herbs/gardenia/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "금은화(金銀花) — 기원·약용 부위: 인동 Lonicera japonica의 꽃봉오리 또는 피기 시작한 꽃을 중심으로 규격 확인",
       "source": "/herbs/honeysuckle/"
     },
@@ -16826,6 +16826,12 @@
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
       "context": "기원·약용 부위: 인동 Lonicera japonica의 꽃봉오리 또는 피기 시작한 꽃을 중심으로 규격 확인",
       "options": [
+        {
+          "text": "연교(連翹)",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
+        },
         {
           "text": "금은화(金銀花)",
           "owner": "금은화(金銀花)",
@@ -16843,15 +16849,9 @@
           "owner": "포공영(蒲公英)",
           "ownerId": "herb-dandelion",
           "source": "/herbs/dandelion/"
-        },
-        {
-          "text": "치자(梔子)",
-          "owner": "치자(梔子)",
-          "ownerId": "herb-gardenia",
-          "source": "/herbs/gardenia/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "금은화(金銀花) — 기원·약용 부위: 인동 Lonicera japonica의 꽃봉오리 또는 피기 시작한 꽃을 중심으로 규격 확인",
       "source": "/herbs/honeysuckle/"
     },
@@ -17051,16 +17051,16 @@
           "source": "/herbs/isatis-leaf/"
         },
         {
-          "text": "현삼(玄參)",
-          "owner": "현삼(玄參)",
-          "ownerId": "herb-scrophularia",
-          "source": "/herbs/scrophularia/"
-        },
-        {
           "text": "연교(連翹)",
           "owner": "연교(連翹)",
           "ownerId": "herb-forsythia",
           "source": "/herbs/forsythia/"
+        },
+        {
+          "text": "현삼(玄參)",
+          "owner": "현삼(玄參)",
+          "ownerId": "herb-scrophularia",
+          "source": "/herbs/scrophularia/"
         },
         {
           "text": "금은화(金銀花)",
@@ -21733,10 +21733,10 @@
       "prompt": "황백(黃柏)의 기원·약용 부위으로 정리된 것은?",
       "options": [
         {
-          "text": "작약속 식물의 건조 뿌리; 국가별 공정서의 허용 기원종·가공 규격 확인",
-          "owner": "적작약(赤芍藥)",
-          "ownerId": "herb-red-peony",
-          "source": "/herbs/red-peony/"
+          "text": "의성개나리 Forsythia viridissima 또는 연교 Forsythia suspensa의 열매. 실제 규격품의 기원종을 확인",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
         },
         {
           "text": "황벽나무류의 줄기껍질. 규격에 따라 기원종을 확인",
@@ -21776,16 +21776,16 @@
           "source": "/herbs/coptis/"
         },
         {
-          "text": "적작약(赤芍藥)",
-          "owner": "적작약(赤芍藥)",
-          "ownerId": "herb-red-peony",
-          "source": "/herbs/red-peony/"
-        },
-        {
           "text": "황백(黃柏)",
           "owner": "황백(黃柏)",
           "ownerId": "herb-phellodendron",
           "source": "/herbs/phellodendron/"
+        },
+        {
+          "text": "연교(連翹)",
+          "owner": "연교(連翹)",
+          "ownerId": "herb-forsythia",
+          "source": "/herbs/forsythia/"
         },
         {
           "text": "지모(知母)",
@@ -21794,7 +21794,7 @@
           "source": "/herbs/anemarrhena/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "황백(黃柏) — 기원·약용 부위: 황벽나무류의 줄기껍질. 규격에 따라 기원종을 확인",
       "source": "/herbs/phellodendron/"
     },
@@ -23333,10 +23333,10 @@
       "prompt": "청호(靑蒿)의 약용 부위으로 정리된 것은?",
       "options": [
         {
-          "text": "개나리속 식물의 열매. 실제 규격품의 기원종을 확인",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
+          "text": "구기자나무류의 뿌리껍질",
+          "owner": "지골피(地骨皮)",
+          "ownerId": "herb-digupi",
+          "source": "/herbs/digupi/"
         },
         {
           "text": "지상부",
@@ -25568,10 +25568,10 @@
           "source": "/herbs/digupi/"
         },
         {
-          "text": "개나리속 식물의 열매. 실제 규격품의 기원종을 확인",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
+          "text": "뽕나무의 뿌리껍질",
+          "owner": "상백피(桑白皮)",
+          "ownerId": "herb-mulberry-root-bark",
+          "source": "/herbs/mulberry-root-bark/"
         }
       ],
       "answer": 1,
@@ -26511,10 +26511,10 @@
           "source": "/herbs/qinghao/"
         },
         {
-          "text": "개나리속 식물의 열매. 실제 규격품의 기원종을 확인",
-          "owner": "연교(連翹)",
-          "ownerId": "herb-forsythia",
-          "source": "/herbs/forsythia/"
+          "text": "대황류의 뿌리 및 뿌리줄기",
+          "owner": "대황(大黃)",
+          "ownerId": "herb-rhubarb",
+          "source": "/herbs/rhubarb/"
         }
       ],
       "answer": 0,
