@@ -93,8 +93,14 @@ description: 증상·치법으로 본초·방제 찾기 — 민성 한의학 아
 
 ## 열증·울열
 
+인후·피부의 홍종열통, 농성 분비, 열림과 열성 발진은 [청열해독 본초의 병위별 비교](heat-clearing-herbs.md#detox-herb-selection)에서 금은화·연교·포공영·어성초·대청엽을 대조합니다. 국소 증상에 표증·습열·진액 손상 가운데 무엇이 겹치는지 확인한 뒤 후보 배합을 좁힙니다.
+
 | 병증축 | 치법 | 대표 처방 |
 |---|---|---|
+| 풍열표증 + 인후종통·갈증 | 소산풍열·청열해독 | [은교산](../formulas/yinqiao-san.md) |
+| 초기 종창·열독 + 오한·두통·몸살 | 청열해독·소풍산결 | [연교패독산](../formulas/lianqiao-baidu-san.md) |
+| 옹종·정창의 홍종열통 | 청열해독·소종 | [오미소독음의 구성과 포공영](../herbs/dandelion.md#wuwei-xiaodu-yin) |
+| 영분열 + 진액 손상 | 청영·양음·투열 | [청영탕](../formulas/qingying-tang.md) |
 | 삼초 실열·화독 | 청열해독·사화 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) |
 | 간담실화·간경습열 | 청간사화·청리습열 | [용담사간탕](../formulas/longdan-xiegan-tang.md) |
 | 양명기분대열 | 청기분열·생진 | [백호탕](../formulas/baihu-tang.md) |

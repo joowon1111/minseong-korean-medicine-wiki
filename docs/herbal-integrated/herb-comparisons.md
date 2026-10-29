@@ -40,6 +40,17 @@ description: 계지·육계, 시호·향부자, 맥문동·천문동 등 유사 
 | 황금 | 폐·상초·간담 습열 | [용담사간탕](../formulas/longdan-xiegan-tang.md) · [반하사심탕](../formulas/banxia-xiexin-tang.md) |
 | 황백 | 하초습열·허열 | [황련해독탕](../formulas/huanglian-jiedu-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 
+### 청열조습약과 청열해독약을 이어 비교하기 {#heat-detox-herbs}
+
+| 감별할 질문 | 비교할 본초 | 차이를 확인하는 곳 |
+|---|---|---|
+| 표의 풍열과 인후통이 함께 있는가 | 금은화·연교 | [금은화의 짝약](../herbs/honeysuckle.md#pairing), [연교의 처방별 역할](../herbs/forsythia.md#formula-context) |
+| 국소 종통·유옹과 통림을 함께 보는가 | 포공영 | [오미소독음](../herbs/dandelion.md#wuwei-xiaodu-yin)과 [유옹·열림의 맥락](../herbs/dandelion.md#clinical-context) |
+| 폐의 농성 분비와 배농이 중심인가 | 어성초 | [소옹배농과 폐·통림 배합](../herbs/houttuynia.md) |
+| 열성 발진·혈열을 함께 다루는가 | 대청엽 | [량혈소반과 인후·발진의 배합](../herbs/isatis-leaf.md#pairing) |
+
+성미·귀경·약용 부위의 전체 대조는 [청열해독 다섯 본초 비교표](heat-clearing-herbs.md#detox-herb-selection)에서 확인합니다. **소산풍열·소종산결·소옹배농·통림·량혈소반** 중 어떤 역할을 더하는지 비교한 뒤 원방과 가감의 구성을 대조합니다.
+
 ## 시호 vs 향부자 {#bupleurum-cyperus}
 
 | 구분 | [시호](../herbs/bupleurum.md) | [향부자](../herbs/cyperus.md) |
