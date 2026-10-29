@@ -57,6 +57,12 @@ last_reviewed: 2026-10-23
 
 미국 연구진의 건강한 성인 **20명 단회 약동학 시험**은 참당귀 유래 성분의 흡수와 decursinol로의 대사를 측정했습니다. 사람에서 성분의 이동을 확인한 자료이며 피로·빈혈의 치료효과 시험은 아닙니다. [Zhang 등, PLoS One. 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114992)
 
+### 공진단의 당귀를 선택할 때 {#gongjin-angelica-selection}
+
+공진단의 당귀는 녹용·산수유의 보익에 **보혈과 활혈의 연결**을 더합니다. 참당귀·일당귀·중국당귀는 각 기원종과 규격, 사용 부위·포제·실제 배합량을 기록해 선택합니다. 주세·주초는 해당 공정과 목적을 함께 표시하며, 사향·침향·목향 등 다른 약미와 전체 처방의 역할을 종합해 보혈·소통의 비중을 정합니다.
+
+[공진단의 온보·음혈 배합](../formulas/gongjin-dan.md#warm-yin-yang-tonification)과 [원료 확인표](../tonic-masterpieces/gongjindan/composition.md#composition-checklist)에서 허손·냉열·소화·복용약에 맞춰 원료와 배합을 살피는 방법으로 이어집니다.
+
 ### 공진단과 기혈 보약에서의 차이 {#tonic-combinations}
 
 [공진단](../formulas/gongjin-dan.md#source-dose-original)은 녹용·산수유·사향과 당귀를 배합합니다. [십전대보탕](../formulas/shi-quan-da-bu-tang.md)은 숙지황·작약·천궁의 보혈축과 보기약·황기·육계가 결합합니다. 당귀의 역할은 같아 보여도 **자윤·행혈·온보·수렴의 상대 비중**이 다른 처방입니다. [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants)은 천궁 유무와 원지·오미자, 방풍·복령 계통까지 함께 대조합니다.
