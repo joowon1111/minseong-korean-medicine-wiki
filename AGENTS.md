@@ -19,6 +19,8 @@ A failed or incomplete security check blocks publication; do not silently pass i
 
 ## Content integration
 
+- Owner wording preference, reaffirmed 2026-10-29: describe treatment roles, formula reasoning and useful applications directly in positive language. Replace repetitive defensive sentences such as “~로 해석하지 않습니다” with specific explanations of what to assess, compare and track. Preserve material safety guidance, source/formulation distinctions and accurately reported research outcomes.
+
 - Read the whole target document before expanding it. Integrate new material into the relevant existing paragraphs, tables, and sections; merge or replace overlapping explanations.
 - Do not accumulate unrelated update blocks, repeated warnings, link lists, or duplicate summaries at the end of a page. Add a section only when it serves a distinct question in the document's reading order.
 - Place related links where readers need the next explanation. Keep the established taxonomy and URLs; verify existing heading anchors when restructuring.
