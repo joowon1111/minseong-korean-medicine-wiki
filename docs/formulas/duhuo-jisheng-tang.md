@@ -76,6 +76,8 @@ last_reviewed: 2026-09-17
 
 [《동의보감》형](#donguibogam-version)의 숙지황과 [천금요방형](#source-dose-original)의 건지황을 구분하고, 속단을 더한 가감방은 별도로 기록합니다. 허리디스크에 병행할 때에는 통증·야간 수면뿐 아니라 다리 힘·감각, 앉기·걷기 시간과 활동 뒤 회복을 함께 추적합니다. [다섯 처방의 배합 비교](../conditions/lumbar-disc-herniation.md#herbal-formula-comparison)
 
+[요통의 다섯 처방 비교](../conditions/low-back-pain.md#five-low-back-formulas)에서 냉습·기체 중심 처방과 보음 중심의 육미지황탕을 함께 살피면, 독활기생탕의 거풍습·보익 병행이 어떤 양상에 맞는지 비교할 수 있습니다.
+
 ## 수치·기원·제형 확인 {#processing}
 
 | 확인점 | 기록할 내용 |
