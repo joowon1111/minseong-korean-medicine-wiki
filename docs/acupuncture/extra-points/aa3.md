@@ -16,7 +16,7 @@ source_standard: KM-Agent acupoints.csv / CC BY 4.0
 
 ## 배혈 구성 {#_2}
 
-### 이침 배혈 구성
+### 이침 배혈 구성 {#source-record-description}
 
 비만침: 위, 비, 기점, 내분비
 

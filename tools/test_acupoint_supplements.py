@@ -4,6 +4,8 @@ import csv
 import json
 from pathlib import Path
 import tempfile
+import re
+import markdown
 from unittest.mock import patch
 
 import build_acupoint_supplements as build
@@ -30,6 +32,10 @@ class SupplementalRecordsTests(unittest.TestCase):
             self.assertNotIn('## 자침', body)
             self.assertNotIn('경외기혈은 관련', body)
             self.assertEqual(fm['record_type'], rows[code]['category'])
+            html = markdown.markdown(body, extensions=['toc', 'attr_list'])
+            ids = re.findall(r'id="([^"]+)"', html)
+            self.assertEqual(len(ids), len(set(ids)), code)
+            self.assertTrue({'_1', '_2', '_3', '_4', '_5'} <= set(ids), code)
 
     def test_ai_export_does_not_assign_who_point_codes_to_supplements(self):
         rows, config = build.load_records()

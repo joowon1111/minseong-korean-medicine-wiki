@@ -16,7 +16,7 @@ source_standard: KM-Agent acupoints.csv / CC BY 4.0
 
 ## 해부학적 위치·구조 {#_2}
 
-### 원본의 위치·구조 설명
+### 원본의 위치·구조 설명 {#source-record-description}
 
 1. 척추뼈 사이를 잡아야 할 때는 베개나 쿠션을 아랫배 밑으로 넣어주면 요추 사이가 벌어져서 촉지가 쉬워지고 환자도 편하게 된다.
 2. 4번 요추 찾기: 위앞엉덩뼈가시(Anterior superior iliac spine, ASIS)에 각각 손을 얹고 엉덩뼈능선(iliac crest)의 가장 높은 부분을 따라 뒤정중선과 만나는 지점이 4번 요추가 되고 약간 아래에 4번 요추의 가시뼈돌기(spinous process of 4th lumbar vertebra)를 잡는다.

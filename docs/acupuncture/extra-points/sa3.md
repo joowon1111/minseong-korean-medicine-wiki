@@ -16,7 +16,7 @@ source_standard: KM-Agent acupoints.csv / CC BY 4.0
 
 ## 해부학적 위치·구조 {#_2}
 
-### 원본의 위치·구조 설명
+### 원본의 위치·구조 설명 {#source-record-description}
 
 1. 칼몸통결합(Xiphisternal junction) 찾기: 흉곽(rib cage)을 따라 만지면서 올라가다 보면 딱딱한 막힌 부분이 나오는데 이 부분이 복장뼈(sternum)와 칼돌기(xiphoid process)가 만나는 칼몸통결합(xiphisternal junction)이다.
 2. 칼돌기(Xiphoid process)는 사람마다 모양과 위치가 달라서 이를 기준으로 삼지 말고 반드시 흉곽(rib cage)을 짚어 올라가서 막힌 부분 즉, 흉곽칼몸통결합(xiphisternal junction)을 찾아야 한다.

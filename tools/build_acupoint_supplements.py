@@ -68,7 +68,7 @@ source_standard: KM-Agent acupoints.csv / CC BY 4.0
 
 ## {heading} {{#_2}}
 
-### {section}
+### {section} {{#source-record-description}}
 
 {row['location_ko'].strip()}
 

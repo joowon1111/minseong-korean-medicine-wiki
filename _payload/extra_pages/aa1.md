@@ -16,7 +16,7 @@ source_standard: KM-Agent acupoints.csv / CC BY 4.0
 
 ## 해부학적 위치·구조 {#_2}
 
-### 원본의 위치·구조 설명
+### 원본의 위치·구조 설명 {#source-record-description}
 
 1. 이수(耳垂)
 2. 이륜(耳輪)
