@@ -1,6 +1,6 @@
 ---
 title: Korean Medicine Guide — An Introduction to Korean Medicine
-description: New to Korean Medicine? Explore its history, diagnosis, acupuncture, herbal formulas, pharmacopuncture, Sasang medicine and Donguibogam in plain English.
+description: "Explore Korean Medicine in plain English: clinical reasoning, acupuncture and herbal research, Gongjin-dan and Gyeongok-go, Sasang medicine, classics and archive tools."
 lang: en
 aliases: [What is Korean Medicine, Traditional Korean Medicine, Korean herbal medicine, Korean acupuncture, Sasang medicine]
 ---
@@ -32,7 +32,7 @@ This guide introduces the ideas, people and practices behind Korean Medicine. Re
 
 </nav>
 
-[Have a quick question? Read the FAQ](#questions) · [Sources and further reading](#references)
+[Have a quick question? Read the FAQ](#questions) · [Clinical research](#clinical-research) · [Explore the archive](#archive-reading-routes) · [Sources and further reading](#references)
 
 **About this archive:** Minseong Korean Medicine Archive is primarily written in Korean. This English guide is your starting point. Links marked **(Korean)** lead to the existing archive; the main site menus also remain in Korean. This page offers education and cultural context, not a personal diagnosis or prescription.
 
@@ -58,8 +58,7 @@ The unfamiliar words are easier to approach as a connected vocabulary. They help
 
 - **Qi (氣)** describes activity and functional processes in traditional theory. “Energy” is a common translation, but can suggest a measurable physical quantity that the term does not establish.
 - **Blood (血)** includes the traditional idea of nourishment. Its meaning overlaps with, but is broader than, blood as a laboratory specimen.
-- **Yin and Yang (陰陽)** express complementary relationships, such as cooling and warming, considered relative to one another.
-- **Five Phases (五行)**—wood, fire, earth, metal and water—organize relationships and change, rather than five chemical substances.
+- The term **body fluids (津液)** describes the traditional vocabulary for moisture and fluid nourishment, considered alongside thirst, dryness, sweating and everyday functioning.
 - **Zang-Fu (臟腑)** describes organ systems through traditional functions. These categories do not map exactly onto anatomical organs.
 - **Meridians and acupoints (經絡·經穴)** organize pathways and treatment locations in acupuncture theory. Meridians are not simply another name for nerves or blood vessels.
 
@@ -67,7 +66,7 @@ The unfamiliar words are easier to approach as a connected vocabulary. They help
 
 A patient brings experiences, not a ready-made theoretical category: interrupted sleep, a change in appetite, discomfort that comes and goes. **Pattern identification (辨證)** is the process of bringing the history and examination together into a traditional interpretation of the person's present condition.[^patterns]
 
-Here is an illustrative reasoning process, not a diagnostic exercise. If someone reports feeling unusually cold, the doctor still needs to know when it began, what else changed, and how the person functions day to day. “Cold” alone does not identify a pattern. Terms such as Yin and Yang, Qi and Blood, and Zang-Fu become useful only as parts of that larger assessment.
+Here is an illustrative reasoning process, not a diagnostic exercise. If someone reports feeling unusually cold, the doctor still needs to know when it began, what else changed, and how the person functions day to day. “Cold” alone does not identify a pattern. Qi, Blood, fluids and Zang-Fu help organize those observations within the larger assessment.
 
 A biomedical disease name and a traditional pattern answer different questions. A person may have an established medical diagnosis and also receive a pattern assessment; one should not be used to erase the other. Learning this vocabulary is a way to understand clinical reasoning, not a way to assign yourself a condition.
 
@@ -88,7 +87,7 @@ Traditional examination is commonly organized into **four methods**:[^patterns]
 
 **Pulse examination** considers more than beats per minute: the examiner attends to qualities felt at the wrist. **Tongue examination** considers features such as appearance and coating. Both belong to the traditional assessment and must be interpreted alongside the patient's account and other findings.[^patterns]
 
-Neither is a shortcut to knowing every disease. One pulse quality or tongue photograph cannot establish the full diagnosis. The clinical question also determines whether further examination, investigations or referral are needed.
+The doctor brings these observations together with the medical history, physical examination and relevant test results. Follow-up then checks concrete changes: sleeping more comfortably, eating without discomfort, walking further or recovering more easily after activity. The clinical question determines when investigations or referral are needed.
 
 For a first appointment, a description of what changed and a list of current medicines and supplements are more useful than arriving with a pattern label found online. Ask the doctor to explain what they have concluded and how they will assess progress.
 
@@ -102,7 +101,7 @@ A treatment name tells you what is done, but not whether it is appropriate for a
 
 **Acupuncture (침, 鍼)** uses fine needles at selected points. **Electroacupuncture** applies controlled electrical stimulation through needles. “Korean acupuncture” refers to acupuncture practiced within Korean Medicine, which includes approaches shared across East Asia as well as Korean developments. It is not one single technique.[^acupuncture][^practice]
 
-Read about [acupuncture (Korean)](../treatments/acupuncture.md), [electroacupuncture (Korean)](../treatments/electroacupuncture.md) and [points and meridians (Korean)](../acupuncture-integrated/points-meridians.md).
+Read about [acupuncture (Korean)](../treatments/acupuncture.md), [electroacupuncture (Korean)](../treatments/electroacupuncture.md) and [points and meridians (Korean)](../acupuncture-integrated/points-meridians.md). The [361-point atlas (Korean)](../acupoint-network/standard-atlas.md#clinical-explorer) connects point names and standard codes with location, anatomy and clinical discussion. The [3D point map (Korean)](../acupoint-network/3d-map.md) offers another way to explore their spatial relationships.
 
 ### Herbal medicine
 
@@ -118,9 +117,20 @@ The preparation, dose and site are part of the clinical decision. Product qualit
 
 **Moxibustion (뜸, 灸)** applies heat using prepared mugwort, with techniques that differ in how the heat reaches the skin. **Cupping (부항, 附缸)** uses suction created by cups placed on the body. Dry and wet cupping are different procedures; wet cupping also involves breaking the skin.[^practice][^cupping]
 
-These procedures require appropriate technique and attention to the skin. Cupping marks are not a measurement of “toxins leaving the body.” Read the archive's [moxibustion (Korean)](../treatments/moxibustion.md) and [cupping (Korean)](../treatments/cupping.md) introductions.
+These procedures require appropriate technique and attention to the skin, including the risk of burns with heat and infection where the skin is broken. Read the archive's [moxibustion (Korean)](../treatments/moxibustion.md) and [cupping (Korean)](../treatments/cupping.md) introductions.
 
-Evidence is best considered treatment by treatment and condition by condition. For example, research on acupuncture for a particular pain condition does not automatically establish the effectiveness of a different procedure or herbal formula. The [treatment hub (Korean)](../acupuncture-integrated/index.md) connects methods with more detailed discussions.
+### Clinical research: pain, digestion and rhinitis {#clinical-research}
+
+Clinical studies ask useful everyday questions: does pain interfere less with activity, is a meal more comfortable, or do nasal symptoms improve? The archive connects Korean studies with international research on related treatments. These examples identify the actual treatment and patient group studied.
+
+| Treatment and study | What researchers found |
+|---|---|
+| **Acupuncture for chronic pain** — *Journal of Pain*, 2018; individual patient data from 39 randomized trials, 20,827 participants | Pain and function outcomes favored acupuncture over sham and no-acupuncture controls. Differences were larger against no acupuncture, and benefits persisted over follow-up.[^pain-research] |
+| **Acupuncture for post-meal discomfort** — *Annals of Internal Medicine*, 2020; 278 adults in China | After 12 sessions over four weeks, the estimated overall response was 83.0% with acupuncture and 51.6% with sham acupuncture. The trial followed participants for another 12 weeks.[^digestion-research] |
+| **So-cheong-ryong-tang for perennial allergic rhinitis** — a Korean multicenter, double-blind, placebo-controlled trial, 2019 | The tested oral herbal preparation improved nasal symptoms and quality of life during four weeks of treatment.[^rhinitis-research] |
+| **Rikkunshito for functional dyspepsia** — Japan's DREAM placebo-controlled trial, 2018 | Among patients with persistent symptoms after a placebo run-in, eight weeks of the tested Kampo extract improved overall treatment assessment and post-meal fullness or early satiety.[^kampo-research] |
+
+Read each result with its **patient group, preparation or procedure, comparator and follow-up period**. The [research guide (Korean)](../portal/evidence.md) links major journals, Korean clinical studies and [Japanese Kampo research (Korean)](../portal/evidence.md#japan-kampo-studies) to detailed articles and original papers. The [treatment hub (Korean)](../acupuncture-integrated/index.md) explains how methods are used in clinical care.
 
 ## 5. Understanding Korean Herbal Medicine {#herbal-medicine}
 
@@ -136,15 +146,28 @@ A packet of herbal medicine can contain several ingredients. To a newcomer, it m
 
 The traditional language of **chief, deputy, assistant and envoy (君臣佐使)** describes possible roles within a combination. An ingredient may address the main treatment aim, support another ingredient, address an accompanying feature, or help coordinate the prescription. The roles concern the combination; an ingredient does not have one fixed role in every formula.[^formulas]
 
-This is why the label on a single-ingredient supplement cannot explain a whole prescription. Ingredients, proportions, processing and preparation all belong to the formula's identity. Nor does a longer ingredient list by itself make a prescription more effective.
+Ingredients, proportions, processing and preparation all belong to a formula's identity. The useful question is how the combination serves a particular treatment aim and fits the person taking it.
 
 ### What does it mean to modify a formula?
 
-**Gagam (가감, 加減)** means adding or subtracting. A clinician may adapt an established formula after assessment rather than regard its name as an unchanging recipe for everyone. Modification still needs a clinical rationale; it is not an invitation to add whatever herb sounds beneficial.[^formulas]
+**Gagam (가감, 加減)** means adding or subtracting. A clinician may adapt an established formula after assessment rather than regard its name as an unchanging recipe for everyone. The rationale explains which symptom or pattern the change addresses, how it alters the balance of the prescription, and what to observe during follow-up.[^formulas]
 
-For an everyday analogy, knowing the ingredients in a dish is different from understanding the recipe. A medicine goes further: deciding whether that recipe belongs in a particular patient's care requires professional judgment. Traditional compatibility principles are also not a guarantee against adverse effects or interactions.
+For an everyday analogy, knowing the ingredients in a dish is different from understanding the recipe. A medicine goes further: its suitability also depends on diagnosis, preparation, dose, other medicines and the person's response. Share current medicines, allergies, pregnancy or breastfeeding, and relevant medical conditions with the clinician.
 
-This guide therefore offers no symptom-to-formula table or doses. To study the subject, move from [medicinal materials (Korean)](../herbs/index.md) to [formulas (Korean)](../formulas/index.md), or use the connected [herbal medicine hub (Korean)](../herbal-integrated/index.md).
+### Two familiar formulas, two different combinations {#tonic-formula-examples}
+
+**Gongjin-dan (공진단, 拱辰丹)** and **Gyeongok-go (경옥고, 瓊玉膏)** are familiar names in Korean restorative medicine. Their traditional formulation principles provide a practical introduction to reading a prescription.
+
+| Formula | Traditional composition and reasoning |
+|---|---|
+| **Gongjin-dan** | The original combination brings together deer antler, danggui, cornus fruit and musk. Its traditional explanation combines warming support, nourishment of Blood and essence, and the moving role of musk. [Read the ingredient roles and source variants (Korean)](../formulas/gongjin-dan.md#warm-yin-yang-tonification). |
+| **Gyeongok-go** | Fresh rehmannia juice, ginseng, poria and honey form the original paste. Its traditional explanation joins support for digestive Qi with fluid nourishment and moistening. Source variants change ingredient proportions or add other medicinal materials. [Read the composition and preparation (Korean)](../formulas/gyeongok-go.md#spleen-qi-deficiency-heat). |
+
+These are descriptions of traditional composition; clinical studies are discussed separately in the formula articles. A pill, paste, extract or modified prescription is described by its actual ingredients and preparation.
+
+The same approach helps explain prescriptions for digestive symptoms: an article may compare how a combination addresses fullness and retained food, phlegm-fluid patterns or digestive weakness. [Functional dyspepsia: formula comparison (Korean)](../conditions/functional-dyspepsia.md#damp-phlegm-deficiency-formulas) places those differences beside assessment, acupuncture and clinical research.
+
+To study a particular prescription, use the [100-formula clinical reference (Korean)](../herbal-integrated/general-formulary.md), [formula comparison tool (Korean)](../herbal-integrated/formula-structure.md#interactive-comparison) or [medicinal-material comparison (Korean)](../herbal-integrated/herb-comparisons.md#interactive-comparison). Each leads back to the existing source and ingredient articles.
 
 ## 6. Sasang Constitutional Medicine {#sasang-medicine}
 
@@ -169,6 +192,8 @@ For an illustrative example, “my appetite is poor” leaves an important quest
 
 Constitution assessment and the assessment of the current illness are related but different tasks. The archive follows that distinction through ordinary symptoms, present symptoms, pattern differentiation and treatment discussions. Its constitution and prescription pages are study resources, not menus for choosing a medicine by type.
 
+The [Sasang explorer (Korean)](../sasang-explorer/index.md) lets readers follow a constitution through baseline functioning, current patterns, original passages and representative prescriptions. The [follow-up guide (Korean)](../sasang-followup/index.md) shows why changes in appetite, sweating, bowel habits, sleep and daily activity are considered together. The explorer and its controls are in Korean.
+
 **Explore further:** [Sasang medicine hub (Korean)](../sasang/index.md) · [Ordinary symptoms (Korean)](../sasang-original-symptoms/index.md) · [Constitution and pattern differentiation (Korean)](../sasang-pattern-differential/index.md) · [Sasang patterns (Korean)](../sasang-integrated/patterns.md) · [Formula reference (Korean)](../sasang-formula-cards/index.md)
 
 ## 7. Korean Medical Classics {#classics}
@@ -192,6 +217,17 @@ Read [Donguisusebowon (Korean)](../classics/donguisusebowon.md).
 The **Huangdi Neijing (黃帝內經)** and **Shanghan Lun (傷寒論)** originated in China and became influential across East Asian medicine. Korean physicians read, cited and reinterpreted these works. They should not be relabelled as Korean-authored books, just as Donguibogam should not be presented as a Chinese compilation.[^terminology]
 
 The archive connects [Huangdi Neijing (Korean)](../classics/huangdi-neijing.md) and [Shanghan Lun (Korean)](../classics/shanghanlun.md) with later Korean medical writing. Following those connections is a way to see both exchange and local development.
+
+### Reading an original passage {#classical-reading-routes}
+
+The [classics reader (Korean)](../classics-reader/index.md) brings together selected original passages, Korean explanations and clinical connections. Start with a book and chapter, read the passage with its source or edition, then follow its discussion of symptoms, treatment principles and formulas.
+
+- [Shanghan Lun (Korean)](../shanghan-network/index.md) and [Jingui Yaolue (Korean)](../jingui-network/index.md) connect classical disease patterns with treatment reasoning and formula structure.
+- [Donguibogam's original-text reader (Korean)](../classics/donguibogam/original.md) combines the available searchable transcription with facsimile access; the reader explains the scope of each.
+- [Donguisusebowon (Korean)](../classics/donguisusebowon/original.md) links selected passages and Korean explanations to constitutional patterns.
+- [Warm-disease studies and Wenbing Tiaobian (Korean)](../wenbing-network/index.md) are part of the classical-text collection, connected with their treatment principles and prescriptions.
+
+The book introductions identify which passages have original text, commentary or translations and which materials are available as scanned pages.
 
 ## 8. Korean Medicine Through Stories {#stories}
 
@@ -228,6 +264,19 @@ The regulations went beyond a first handover. Officials were told to check the c
 Neither story proves how the name first arose. One concerns people calling to one another; the other comes from a physician's understanding of an herb. The Korean column follows both trails through a Chinese materia medica that Korean readers inherited and studied. Its two characters held room for both a call to someone far away and a physician's conjecture.
 
 [Follow the name of danggui through the texts (Korean)](../classical-stories/angelica-returning-name.md), or [browse all Minseong Uidam stories (Korean)](../classical-stories/index.md).
+
+### Continue with stories, daily cards or a topic {#archive-reading-routes}
+
+The full [Minseong Uidam collection (Korean)](../classical-stories/index.md) includes general stories and a separate Sasang series. Its historical people, records and ingredients lead into the archive's clinical and classical articles.
+
+| If you would like to… | Continue here |
+|---|---|
+| Start with a symptom or clinical topic | [Clinical topic hub (Korean)](../pillar/index.md) connects digestion, pain, sleep, breathing and recovery with detailed articles. |
+| Read a little each day | [Daily Korean Medicine (Korean)](../daily-korean-medicine/index.md) offers point, herb, classical-text and Sasang cards, with seasonal-term explanations on the relevant dates. |
+| Review what you have learned | [Learning room (Korean)](../learning/index.md) organizes subject cards and explained questions. |
+| Find a passage or compare related materials | [Search guide (Korean)](../search-guide.md) explains document search, question-based excerpts and specialist tools. |
+
+These pages and their controls are primarily in Korean. This English guide introduces their purpose so that readers can choose the next step that interests them.
 
 ## 12 Questions About Korean Medicine {#questions}
 
@@ -277,7 +326,7 @@ Neither story proves how the name first arose. One concerns people calling to on
 
 ??? question "Where should I go next in this archive?"
 
-    For people and history, try [Minseong Uidam (Korean)](../classical-stories/index.md). For structured study, visit the [learning room (Korean)](../learning/index.md). The links throughout this guide lead into the existing Korean archive; you can return here whenever a term needs explaining.
+    Choose [a symptom or topic (Korean)](../pillar/index.md), [clinical research](#clinical-research), or the [stories and learning routes](#archive-reading-routes). Links marked (Korean) open the existing archive; this guide remains your English starting point.
 
 ## Sources and Further Reading {#references}
 
@@ -300,3 +349,8 @@ The sources below have different roles: terminology references explain vocabular
 [^grandson]: National Institute of Korean History, [*Annals of King Yeongjo*, volume 108, year 43, lunar month 3, day 17, second entry](https://sillok.history.go.kr/id/kua_14303017_002) and [third entry](https://sillok.history.go.kr/id/kua_14303017_003) (Korean translation and Classical Chinese original). The petitioner was Yeongjo's grandson, the future King Jeongjo.
 [^children]: National Institute of Korean History, [*Annals of King Jeongjo*, volume 16, year 7, lunar month 11, day 5, third entry](https://sillok.history.go.kr/id/kva_10711005_003) (Korean translation and Classical Chinese original), regulations for the relief of vulnerable children.
 [^danggui]: Li Shizhen, *Bencao Gangmu*, volume 14, “Danggui,” section on names. [Classical Chinese transcription of the Siku Quanshu edition](https://zh.wikisource.org/zh/本草綱目_(四庫全書本)/卷14). The older custom is reported there from *Gujin Zhu*; the medical explanation is presented as a conjecture, not an established etymology.
+
+[^pain-research]: Vickers AJ, et al. “Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis.” *Journal of Pain*. 2018;19(5):455–474. [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/). [Detailed evidence discussion (Korean)](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd).
+[^digestion-research]: Yang JW, et al. “Effect of Acupuncture for Postprandial Distress Syndrome: A Randomized Clinical Trial.” *Annals of Internal Medicine*. 2020;172(12):777–785. [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/). The reported percentages are estimated overall response rates at week four. [Trial conditions and outcomes (Korean)](../conditions/functional-dyspepsia.md#pds-acupuncture-results).
+[^rhinitis-research]: Kim MH, et al. “A multicenter study on the efficacy and safety of So-Cheong-Ryong-Tang for perennial allergic rhinitis.” *Complementary Therapies in Medicine*. 2019;45:50–56. [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/). The summary concerns the four-week treatment period; the paper separately reports an eight-week post-treatment follow-up. [Formula research and clinical context (Korean)](../conditions/rhinitis.md#evidence).
+[^kampo-research]: Tominaga K, et al. “Rikkunshito simultaneously improves dyspepsia correlated with anxiety in patients with functional dyspepsia: A randomized clinical trial (the DREAM study).” *Neurogastroenterology & Motility*. 2018;30(7):e13319. [PMID 29498457](https://pubmed.ncbi.nlm.nih.gov/29498457/). The trial enrolled 192 patients at 56 Japanese hospitals and randomized 128 after the placebo run-in. [Preparation, eligibility and outcomes (Korean)](../research/formulas/rikkunshito.md).
