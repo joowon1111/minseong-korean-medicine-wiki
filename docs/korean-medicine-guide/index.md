@@ -1,6 +1,6 @@
 ---
 title: Korean Medicine Guide — An Introduction to Korean Medicine
-description: Explore Korean Medicine in plain English: clinical reasoning, acupuncture and herbal research, Gongjin-dan and Gyeongok-go, Sasang medicine, classics and archive tools.
+description: "Explore Korean Medicine in plain English: clinical reasoning, acupuncture and herbal research, Gongjin-dan and Gyeongok-go, Sasang medicine, classics and archive tools."
 lang: en
 aliases: [What is Korean Medicine, Traditional Korean Medicine, Korean herbal medicine, Korean acupuncture, Sasang medicine]
 ---
