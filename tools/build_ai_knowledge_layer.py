@@ -20,6 +20,7 @@ import sys
 
 import yaml
 from atomic_output import write_bytes
+from acupoint_record_types import supplementary_type
 
 
 DOCS = Path("docs")
@@ -124,6 +125,10 @@ def entity_id(path: Path) -> str:
 
 def entity_type(path: Path) -> str:
     rel = path.relative_to(DOCS).as_posix()
+    if rel.startswith("acupuncture/extra-points/"):
+        kind = supplementary_type(path.stem)
+        if kind:
+            return kind
     rules = (
         ("authority/conditions/", "condition_evidence"),
         ("authority/herbs/", "herb_evidence"),

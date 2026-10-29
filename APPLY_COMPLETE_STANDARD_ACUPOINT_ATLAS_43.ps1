@@ -81,16 +81,10 @@ try{
  $lines+=@("## 함께 보기","- [경락·경맥 임상 지식망](../meridian-network/index.md)","- [특정혈 임상 지식망](../meridian-network/special-points/index.md)","- [경맥→증상 임상 지도](by-condition.md)","- [경외기혈](extra-points.md)")
  $lines|Set-Content "docs\acupoint-network\standard-atlas.md" -Encoding UTF8
 
- # Extra atlas
- $elines=@("---","title: 경외기혈 임상 아틀라스","description: 표준 14경맥 밖의 경외기혈 위치·취혈·임상 연결을 정리합니다.","status: 검토완료","last_reviewed: 2026-08-22","---","# 경외기혈 임상 아틀라스","","경외기혈을 별도 부록으로 고립시키지 않고 관련 증상·부위·14경맥 배혈과 연결합니다.","")
- foreach($f in Get-ChildItem "docs\acupuncture\extra-points" -File){
-   $txt=Get-Content $f.FullName -Raw -Encoding UTF8
-   $h=[regex]::Match($txt,'(?m)^#\s+(.+)$')
-   $name=if($h.Success){$h.Groups[1].Value}else{$f.BaseName}
-   $rel=RelPath "docs\acupoint-network\extra-points.md" $f.FullName
-   $elines+=("- ["+$name+"]("+$rel+")")
- }
- $elines|Set-Content "docs\acupoint-network\extra-points.md" -Encoding UTF8
+ # Generate the classified index and SA/AA references from maintained data.
+ # Do not rebuild this index by treating every file as an individual point.
+ python tools/build_acupoint_supplements.py
+ if($LASTEXITCODE -ne 0){throw "Supplemental record classification failed"}
 
  # Integrate into existing hubs via managed block.
  $hubBlock=@"

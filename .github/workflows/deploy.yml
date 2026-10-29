@@ -24,6 +24,9 @@ jobs:
       - run: pip install -r requirements.txt
 
       # 185: 별도 commit workflow 없이 배포 시점에 검색 인덱스를 생성
+      - name: Check supplemental acupuncture record taxonomy
+        run: python tools/build_acupoint_supplements.py --check
+
       - name: Build Korean search index
         run: python tools/build_korean_search_index.py
 

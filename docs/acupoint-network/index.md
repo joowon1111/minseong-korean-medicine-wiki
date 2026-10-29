@@ -18,6 +18,8 @@ This atlas indexes the existing canonical point pages and does not create a dupl
 
 경혈은 **소속 경맥 → 위치·해부학 → 특정혈 성격 → 증상·변증 → 배혈 조합**을 함께 볼 때 임상적 의미가 분명해집니다.
 
+[경외기혈 통합 목록](extra-points.md)에서 개별 경외기혈을 찾고, [표면해부학·귀 해부학·이침 배혈 참고자료](extra-points.md#supplementary-materials)는 별도 분류로 살펴볼 수 있습니다. SA·AA는 자료 식별자이며, 표준경혈이나 개별 경외기혈의 혈수에 합산하지 않습니다.
+
 ## 경맥별 전체 경혈
 
 [폐경 11혈](../meridian-network/lung-meridian.md) · [대장경 20혈](../meridian-network/large-intestine-meridian.md) · [위경 45혈](../meridian-network/stomach-meridian.md) · [비경 21혈](../meridian-network/spleen-meridian.md) · [심경 9혈](../meridian-network/heart-meridian.md) · [소장경 19혈](../meridian-network/small-intestine-meridian.md)
