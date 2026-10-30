@@ -38,4 +38,6 @@ tags: [본초학, 상기생, 처방구성, 원문해석]
 
 상기생·곡기생과 각 공정서 기원을 구별합니다. 《천금요방》의 속단 대체 이본은 원전 부기이며 두 약재가 항상 같은 성분이라는 뜻이 아닙니다.
 
+국내 식물분류 연구는 《향약채취월령》과 《동의보감》에 기록된 상기생의 식물학적 실체를 검토하면서, 중국 문헌에서 쓰는 *Taxillus sutchuenensis*와 옛 국내 기록의 겨우살이를 구분할 가능성을 제시했습니다. 역사적 약명을 현재 유통품의 학명과 자동으로 일치시키지 않고, **문헌의 명칭과 실제 공정서 원료**를 각각 확인할 때 참고할 자료입니다. [한국식물분류학회지 원 논문](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002427664)
+
 처방의 적용·병용약·복용기간은 [본초·방제 안전 안내](../herbal-integrated/safety.md)에서 함께 확인합니다.
