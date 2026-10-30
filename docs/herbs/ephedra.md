@@ -32,6 +32,8 @@ description: 마황의 발한해표·선폐평천·이수소종, 마황탕·소�
 | [소청룡탕](../formulas/xiaoqinglong-tang.md) | 계지·건강·세신의 온화와 반하·오미자의 화담·수렴을 연결 |
 | [마행감석탕](../formulas/maxing-ganshi-tang.md) | 석고의 청열과 배합해 폐열·해천을 다루는 한열 병용 구조 |
 
+마황탕과 마행감석탕은 마황·행인·감초를 공유합니다. 마황탕은 계지를 더해 무한·오한·신체통이 있는 표증을 다루고, 마행감석탕은 계지 대신 석고를 배합해 열과 천증의 맥락을 살핍니다. 《상한론》 수록량과 제법도 서로 다르므로 실제 제제의 원료와 배합을 함께 확인합니다. [마황탕 원문](../formulas/mahuang-tang.md#source-dose-original) · [마행감석탕 원문](../formulas/maxing-ganshi-tang.md#source-dose-original)
+
 [계지](cinnamon-twig.md)는 풍한표허의 해기와 영위 조화, [방풍](saposhnikovia.md)은 비교적 완만한 거풍해표·승습지통을 중심으로 구분합니다.
 
 → [풍한·풍열 해표 본초 비교](../herbal-integrated/herb-comparisons.md#exterior-releasing-herbs)
