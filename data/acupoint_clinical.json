@@ -888,7 +888,7 @@
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
       "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "신기능·동반 질환과 증상 변화는 담당 진료와 함께 평가합니다.",
-      "clinical_path": "acupuncture-integrated/evidence.md",
+      "clinical_path": "conditions/tennis-elbow.md",
       "profile_kind": "domestic_review",
       "references": [
         {
@@ -899,7 +899,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "팔꿈치·전완의 통증 부위와 물건을 잡거나 손목을 움직일 때의 변화, 감각·근력을 확인합니다. 수삼리는 [곡지 LI11](li11-quchi.md)보다 아래팔 쪽에 있으며, 손의 [합곡 LI4](li4-hegu.md)과도 위치를 비교합니다. 위의 만성콩팥병 자료는 혈위 사용 양상의 분석이므로 상지 증상에 대한 별도의 임상 효과로 바꾸어 읽지 않습니다. 신기능과 동반 질환은 담당 진료와 함께 확인합니다."
     },
     "SI8": {
       "name": "소해",
@@ -1529,8 +1530,8 @@
       ],
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
       "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
-      "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md",
+      "clinical": "발목 통증·압통과 보행을 확인하고 요통은 움직임과 하지 증상을 함께 평가합니다.",
+      "clinical_path": "conditions/low-back-pain.md",
       "profile_kind": "domestic_review",
       "references": [
         {
@@ -1541,7 +1542,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "바깥 복사 뒤의 곤륜은 앞아래쪽의 [구허 GB40](gb40-qiuxu.md), 안쪽 복사 뒤의 [태계 KI3](ki3-taixi.md)와 위치가 다릅니다. 발목에서는 통증과 붓기·보행을, 요통에서는 움직임과 다리 증상을 평가합니다. 위의 2020년 만성 비특이적 요통 지침은 곤륜을 포함한 전체 배혈을 제시하며, 발목염좌 자료는 임상시험의 혈위 사용 빈도 분석입니다. 임신 중에는 기존 자침 주의사항과 산과 상황을 함께 확인합니다."
     },
     "KI1": {
       "name": "용천",
@@ -2298,7 +2300,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "보행·발목 운동과 국소 압통, 저림·근력 변화를 함께 평가합니다.",
-      "clinical_path": "clinical-anatomy/mps-calf.md"
+      "clinical_path": "clinical-anatomy/mps-calf.md",
+      "clinical_detail": "종아리 통증의 발생 시점과 보행·발목 운동에 따른 변화, 국소 압통과 저림을 확인합니다. 무릎 뒤 [위중 BL40](bl40-weizhong.md), 발목 뒤가쪽 [곤륜 BL60](bl60-kunlun.md)과 같은 방광경의 위치를 비교합니다. 한쪽 종아리가 새로 붓고 아프거나 열감이 나타나면 혈전을 포함한 원인 평가가 필요하며, 숨참이나 흉통이 동반되면 응급 평가가 우선입니다. [NHS 심부정맥혈전증 안내](https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/)"
     },
     "BL58": {
       "name": "비양",
@@ -5057,7 +5060,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "팔 올리기·등 뒤로 손 보내기와 야간 통증을 비교해 배혈 목적을 정합니다.",
-      "clinical_path": "conditions/shoulder-pain.md"
+      "clinical_path": "conditions/shoulder-pain.md",
+      "clinical_detail": "견갑골 주변 압통과 팔 올리기·등 뒤로 보내기, 야간 통증을 함께 살핍니다. 천종은 견갑골 극하 부위, [견우 LI15](li15-jianyu.md)는 어깨관절 가쪽, [견정 GB21](gb21-jianjing.md)은 어깨 위쪽에 있어 불편한 위치에 따라 구분합니다. [견비통 한의표준임상진료지침 2020년판](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=141&menu_idx=14)은 천종을 포함한 근위 혈위를 전문가 합의에 근거해 제시하며, 천종 한 혈의 독립 효과를 의미하지 않습니다."
     },
     "BL23": {
       "name": "신수",
@@ -5082,7 +5086,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "허리의 통증 위치와 굽힘·젖힘, 앉기·걷기 제한을 확인하고 다리로 뻗치는 통증은 감각·근력 변화와 함께 살핍니다. 신수는 제2요추 부근, [대장수 BL25](bl25-dachangshu.md)는 제4요추 부근에 있어 표지를 구별합니다. 두 혈은 위의 2020년 만성 비특이적 요통 지침이 제시한 복합 배혈에 포함됩니다."
     },
     "BL25": {
       "name": "대장수",
@@ -5107,7 +5112,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "허리의 통증 위치와 동작, 엉덩이·다리로 이어지는 통증과 기능 제한을 기록합니다. 제4요추 부근의 대장수와 제2요추 부근의 [신수 BL23](bl23-shenshu.md)를 촉진 표지와 함께 구분하고, [위중 BL40](bl40-weizhong.md)처럼 하지의 원위혈과도 배혈 맥락을 비교합니다. 진행하는 근력 저하나 새 배뇨·배변 장애는 즉시 원인 평가가 필요합니다."
     },
     "BL11": {
       "name": "대저",
