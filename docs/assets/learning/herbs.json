@@ -557,7 +557,7 @@
         },
         {
           "label": "배합 예",
-          "value": "향사육군자탕 — 사인·향부자·후박과 이기하고 인삼·백출의 보익을 함께 살핌 / 귀비탕 — 보기양혈·양심안신의 구성 안에서 이기성비를 맡음"
+          "value": "향사육군자탕 — 『방약합편』 수록형에서 사인·향부자·후박과 이기하고 인삼·백출의 보익을 함께 살핌 / 귀비탕 — 보기양혈·양심안신의 구성 안에서 이기성비를 맡음"
         }
       ],
       "source": "/herbs/aucklandia/",
@@ -994,10 +994,6 @@
         {
           "label": "전통 효능",
           "value": "자보간신·익정명목"
-        },
-        {
-          "label": "배합 예",
-          "value": "좌귀환 — 숙지황·산약·산수유와 진음·정혈을 보하는 방향 / 우귀환 — 정혈을 받치는 배합에 부자·육계의 온양을 함께 보는 방향"
         }
       ],
       "source": "/herbs/cornus-extra/",
@@ -1023,7 +1019,7 @@
         },
         {
           "label": "배합 예",
-          "value": "육미지황환 — 신음부족의 삼보삼사 구조 — 숙지황의 자음익정, 산약의 보비익신과 함께 보익축을 이루며 정을 거둠 / 팔미지황환 — 육미지황환에 계지·부자를 더한 신양허 구조 — 온양약과 함께 쓰이지만 산수유 자체는 간신 보익·수렴의 역할을 유지"
+          "value": "육미지황환 — 신음부족의 삼보삼사 구조 — 숙지황의 자음익정, 산약의 보비익신과 함께 보익축을 이루며 정을 거둠 / 팔미지황환 — 지황·산약·산수유에 계지·부자를 배합한 신기환 계열 — 온양약과 함께 쓰이지만 산수유 자체는 간신 보익·수렴의 역할을 유지"
         }
       ],
       "source": "/herbs/cornus-fructus/",
@@ -1409,7 +1405,7 @@
         },
         {
           "label": "배합 예",
-          "value": "온경탕 — 온경산한과 당귀·작약·맥문동 등의 양혈·양음이 함께 작동하는 구조 / 조경종옥탕 — 건강 등의 온경과 이기·양혈 배합을 임신 준비 단계에서 구분"
+          "value": "온경탕 — 온경산한과 당귀·작약·맥문동 등의 양혈·양음이 함께 작동하는 구조 / 조경종옥탕 — 이기·양혈 배합에 온경산한을 더하며 건강은 수록본과 가미 조건을 확인"
         }
       ],
       "source": "/herbs/evodia-fruit/",
@@ -1534,6 +1530,10 @@
       "prompt": "천마(天麻)의 효능·약용 부위·배합을 설명해 보세요.",
       "facts": [
         {
+          "label": "생약명",
+          "value": "Gastrodiae Rhizoma"
+        },
+        {
           "label": "약용 부위",
           "value": "난초과 천마의 덩이줄기"
         },
@@ -1569,7 +1569,7 @@
         },
         {
           "label": "배합 예",
-          "value": "용담 + 황금·치자 — 쓴맛과 찬 성질로 화열·습열을 다루는 방향 / 용담 + 택사·차전자 — 청열과 습의 배출을 연결하는 방향"
+          "value": "용담 + 황금·치자 — 후대 수록형에서 화열·습열을 다루는 방향 / 용담 + 택사·차전자 — 청열과 습의 배출을 연결하는 방향"
         }
       ],
       "source": "/herbs/gentian-root/",
@@ -1613,7 +1613,7 @@
         },
         {
           "label": "배합 예",
-          "value": "분심기음 — 진피·향부자·목향·지각·대복피와 흉복부 기체를 여러 층위에서 소통 / 시호소간산 가감 — 시호·향부자·지각·천궁 등과 소간이기·지통의 방향을 강화"
+          "value": "분심기음 — 진피·향부자·목향·지각·대복피와 흉복부 기체를 여러 층위에서 소통 / 시호소간산과 비교 — 『경악전서』 수록형은 청피 대신 진피·향부자·지각 등으로 기체를 다룸; 청피 가감 여부는 실제 처방을 확인"
         }
       ],
       "source": "/herbs/green-citrus-peel/",
@@ -2233,7 +2233,7 @@
       "facts": [
         {
           "label": "생약명",
-          "value": "Ophiopogonis Radix"
+          "value": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기"
         },
         {
           "label": "성미·귀경",
@@ -3018,6 +3018,10 @@
       "prompt": "조구등(釣鉤藤)의 효능·약용 부위·배합을 설명해 보세요.",
       "facts": [
         {
+          "label": "생약명",
+          "value": "Uncariae Ramulus cum Uncus"
+        },
+        {
           "label": "약용 부위",
           "value": "Uncaria 속 식물의 갈고리가 달린 어린 가지"
         },
@@ -3165,7 +3169,7 @@
         },
         {
           "label": "배합 예",
-          "value": "산조인탕 — 허로 뒤 간혈부족·허열·허번불면 — 처방의 중심에서 양혈안신하고, 지모·천궁·복령·감초가 청열·행혈·건비를 조율 / 귀비탕 — 심비양허·기혈부족의 건망·심계·수면저하 — 인삼·황기·백출의 보기와 당귀·용안육의 보혈을 보조하며 심신을 안정"
+          "value": "산조인탕 — 허로 뒤 간혈부족·허열·허번불면 — 처방의 중심에서 양혈안신하고, 지모·천궁·복령·감초가 청열·행혈·건비를 조율 / 귀비탕 — 심비양허·기혈부족의 건망·심계·수면저하 — 인삼·황기·백출 및 용안육과 배합; 당귀·원지는 후대 수록형 여부 확인"
         }
       ],
       "source": "/herbs/ziziphus-seed/",
@@ -4689,7 +4693,7 @@
       "prompt": "오가피(五加皮)의 생약명으로 정리된 것은?",
       "options": [
         {
-          "text": "Ophiopogonis Radix",
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
           "owner": "맥문동(麥門冬)",
           "ownerId": "herb-ophiopogon",
           "source": "/herbs/ophiopogon/"
@@ -4840,7 +4844,7 @@
           "source": "/herbs/achyranthes/"
         },
         {
-          "text": "Ophiopogonis Radix",
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
           "owner": "맥문동(麥門冬)",
           "ownerId": "herb-ophiopogon",
           "source": "/herbs/ophiopogon/"
@@ -4883,19 +4887,19 @@
           "source": "/herbs/astragalus/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "우슬(牛膝)",
           "owner": "우슬(牛膝)",
           "ownerId": "herb-achyranthes",
           "source": "/herbs/achyranthes/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "우슬(牛膝) — 생약명: Achyranthis Radix / Achyranthis Bidentatae Radix 등 규격에 따라 표기가 달라질 수 있음",
       "source": "/herbs/achyranthes/"
     },
@@ -5525,16 +5529,16 @@
       "context": "전통 효능: 양음청폐 · 익위생진 · 청열거담",
       "options": [
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "사삼(沙參·남사삼)",
           "owner": "사삼(沙參·남사삼)",
           "ownerId": "herb-adenophora-root",
           "source": "/herbs/adenophora-root/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "백합(百合)",
@@ -5549,7 +5553,7 @@
           "source": "/herbs/ophiopogon-extra/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "사삼(沙參·남사삼) — 전통 효능: 양음청폐 · 익위생진 · 청열거담",
       "source": "/herbs/adenophora-root/"
     },
@@ -6107,6 +6111,12 @@
       "context": "생약명: Alpiniae Oxyphyllae Fructus",
       "options": [
         {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        },
+        {
           "text": "익지인(益智仁)",
           "owner": "익지인(益智仁)",
           "ownerId": "herb-alpinia-oxyphylla",
@@ -6123,15 +6133,9 @@
           "owner": "대추·대조(大棗)",
           "ownerId": "herb-jujube-fruit",
           "source": "/herbs/jujube-fruit/"
-        },
-        {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "익지인(益智仁) — 생약명: Alpiniae Oxyphyllae Fructus",
       "source": "/herbs/alpinia-oxyphylla/"
     },
@@ -7559,16 +7563,16 @@
       "context": "생약명: Arecae Pericarpium",
       "options": [
         {
-          "text": "청피(靑皮)",
-          "owner": "청피(靑皮)",
-          "ownerId": "herb-green-citrus-peel",
-          "source": "/herbs/green-citrus-peel/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "청피(靑皮)",
+          "owner": "청피(靑皮)",
+          "ownerId": "herb-green-citrus-peel",
+          "source": "/herbs/green-citrus-peel/"
         },
         {
           "text": "대복피(大腹皮)",
@@ -7644,16 +7648,16 @@
           "source": "/herbs/cyperus/"
         },
         {
-          "text": "후박(厚朴)",
-          "owner": "후박(厚朴)",
-          "ownerId": "herb-magnolia-bark",
-          "source": "/herbs/magnolia-bark/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "후박(厚朴)",
+          "owner": "후박(厚朴)",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/herbs/magnolia-bark/"
         }
       ],
       "answer": 0,
@@ -7922,12 +7926,6 @@
       "prompt": "황기(黃芪)의 생약명으로 정리된 것은?",
       "options": [
         {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "Asparagi Tuber 또는 Asparagi Radix로 표기",
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
@@ -7940,13 +7938,19 @@
           "source": "/herbs/astragalus/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Paeoniae Radix Alba",
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
           "source": "/herbs/white-peony/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "황기(黃芪) — 생약명: Astragali Radix",
       "source": "/herbs/astragalus/"
     },
@@ -7965,6 +7969,12 @@
           "source": "/herbs/astragalus/"
         },
         {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "천문동(天門冬)",
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
@@ -7975,12 +7985,6 @@
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
           "source": "/herbs/white-peony/"
-        },
-        {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         }
       ],
       "answer": 0,
@@ -8469,16 +8473,16 @@
       "context": "전통 효능: 행기지통, 건비소식",
       "options": [
         {
-          "text": "신곡·신국(神麴)",
-          "owner": "신곡·신국(神麴)",
-          "ownerId": "herb-massa-medicata-fermentata",
-          "source": "/herbs/massa-medicata-fermentata/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "신곡·신국(神麴)",
+          "owner": "신곡·신국(神麴)",
+          "ownerId": "herb-massa-medicata-fermentata",
+          "source": "/herbs/massa-medicata-fermentata/"
         },
         {
           "text": "산사(山楂)",
@@ -8493,7 +8497,7 @@
           "source": "/herbs/barley-malt/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "목향(木香) — 전통 효능: 행기지통, 건비소식",
       "source": "/herbs/aucklandia/"
     },
@@ -9275,16 +9279,16 @@
           "source": "/herbs/platycodon/"
         },
         {
-          "text": "시호(柴胡)",
-          "owner": "시호(柴胡)",
-          "ownerId": "herb-bupleurum",
-          "source": "/herbs/bupleurum/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "시호(柴胡)",
+          "owner": "시호(柴胡)",
+          "ownerId": "herb-bupleurum",
+          "source": "/herbs/bupleurum/"
         },
         {
           "text": "원지(遠志)",
@@ -9293,7 +9297,7 @@
           "source": "/herbs/polygala/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "시호(柴胡) — 생약명: Bupleuri Radix",
       "source": "/herbs/bupleurum/"
     },
@@ -9354,19 +9358,19 @@
           "source": "/herbs/cyperus/"
         },
         {
-          "text": "시호(柴胡)",
-          "owner": "시호(柴胡)",
-          "ownerId": "herb-bupleurum",
-          "source": "/herbs/bupleurum/"
-        },
-        {
           "text": "청피(靑皮)",
           "owner": "청피(靑皮)",
           "ownerId": "herb-green-citrus-peel",
           "source": "/herbs/green-citrus-peel/"
+        },
+        {
+          "text": "시호(柴胡)",
+          "owner": "시호(柴胡)",
+          "ownerId": "herb-bupleurum",
+          "source": "/herbs/bupleurum/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "시호(柴胡) — 전통 효능: 화해퇴열, 소간해울, 승거양기",
       "source": "/herbs/bupleurum/"
     },
@@ -9924,6 +9928,12 @@
       "context": "생약명: Cinnamomi Cortex",
       "options": [
         {
+          "text": "오수유(吳茱萸)",
+          "owner": "오수유(吳茱萸)",
+          "ownerId": "herb-evodia-fruit",
+          "source": "/herbs/evodia-fruit/"
+        },
+        {
           "text": "육계(肉桂)",
           "owner": "육계(肉桂)",
           "ownerId": "herb-cinnamon-bark",
@@ -9940,15 +9950,9 @@
           "owner": "부자(附子)",
           "ownerId": "herb-aconite",
           "source": "/herbs/aconite/"
-        },
-        {
-          "text": "오수유(吳茱萸)",
-          "owner": "오수유(吳茱萸)",
-          "ownerId": "herb-evodia-fruit",
-          "source": "/herbs/evodia-fruit/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "육계(肉桂) — 생약명: Cinnamomi Cortex",
       "source": "/herbs/cinnamon-bark/"
     },
@@ -10335,16 +10339,16 @@
           "source": "/herbs/acanthopanax-bark/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Achyranthis Radix / Achyranthis Bidentatae Radix 등 규격에 따라 표기가 달라질 수 있음",
           "owner": "우슬(牛膝)",
           "ownerId": "herb-achyranthes",
           "source": "/herbs/achyranthes/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         }
       ],
       "answer": 0,
@@ -10651,16 +10655,16 @@
       "context": "전통 효능: 파기소적, 화담산비",
       "options": [
         {
-          "text": "백강잠(白殭蠶)",
-          "owner": "백강잠(白殭蠶)",
-          "ownerId": "herb-bombyx-batryticatus",
-          "source": "/herbs/bombyx-batryticatus/"
-        },
-        {
           "text": "청피(靑皮)",
           "owner": "청피(靑皮)",
           "ownerId": "herb-green-citrus-peel",
           "source": "/herbs/green-citrus-peel/"
+        },
+        {
+          "text": "백강잠(白殭蠶)",
+          "owner": "백강잠(白殭蠶)",
+          "ownerId": "herb-bombyx-batryticatus",
+          "source": "/herbs/bombyx-batryticatus/"
         },
         {
           "text": "지실(枳實)",
@@ -10869,12 +10873,6 @@
       "context": "전통 효능: 이기건비(理氣健脾), 조습화담(燥濕化痰)",
       "options": [
         {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
-        },
-        {
           "text": "진피(陳皮)",
           "owner": "진피(陳皮)",
           "ownerId": "herb-citrus-peel",
@@ -10891,9 +10889,15 @@
           "owner": "나복자(萊菔子·蘿蔔子)",
           "ownerId": "herb-raphanus-seed",
           "source": "/herbs/raphanus-seed/"
+        },
+        {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "진피(陳皮) — 전통 효능: 이기건비(理氣健脾), 조습화담(燥濕化痰)",
       "source": "/herbs/citrus-peel/"
     },
@@ -11268,6 +11272,12 @@
       "context": "생약명: Coptidis Rhizoma",
       "options": [
         {
+          "text": "용담·용담초(龍膽)",
+          "owner": "용담·용담초(龍膽)",
+          "ownerId": "herb-gentian-root",
+          "source": "/herbs/gentian-root/"
+        },
+        {
           "text": "대황(大黃)",
           "owner": "대황(大黃)",
           "ownerId": "herb-rhubarb",
@@ -11280,19 +11290,13 @@
           "source": "/herbs/coptis/"
         },
         {
-          "text": "용담·용담초(龍膽)",
-          "owner": "용담·용담초(龍膽)",
-          "ownerId": "herb-gentian-root",
-          "source": "/herbs/gentian-root/"
-        },
-        {
           "text": "지모(知母)",
           "owner": "지모(知母)",
           "ownerId": "herb-anemarrhena",
           "source": "/herbs/anemarrhena/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "황련(黃連) — 생약명: Coptidis Rhizoma",
       "source": "/herbs/coptis/"
     },
@@ -11522,16 +11526,16 @@
       "context": "생약명: Lycii Fructus",
       "options": [
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "익지인(益智仁)",
           "owner": "익지인(益智仁)",
           "ownerId": "herb-alpinia-oxyphylla",
           "source": "/herbs/alpinia-oxyphylla/"
+        },
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         },
         {
           "text": "속단(續斷)",
@@ -11546,7 +11550,7 @@
           "source": "/herbs/jujube-fruit/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "구기자(枸杞子) — 생약명: Lycii Fructus",
       "source": "/herbs/cornus-extra/"
     },
@@ -11595,6 +11599,12 @@
       "context": "전통 효능: 자보간신·익정명목",
       "options": [
         {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        },
+        {
           "text": "두충(杜仲)",
           "owner": "두충(杜仲)",
           "ownerId": "herb-eucommia",
@@ -11607,19 +11617,13 @@
           "source": "/herbs/cuscuta-seed/"
         },
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "오가피(五加皮)",
           "owner": "오가피(五加皮)",
           "ownerId": "herb-acanthopanax-bark",
           "source": "/herbs/acanthopanax-bark/"
         }
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "구기자(枸杞子) — 전통 효능: 자보간신·익정명목",
       "source": "/herbs/cornus-extra/"
     },
@@ -12212,12 +12216,6 @@
       "context": "전통 효능: 보신익정·양간명목·고삽",
       "options": [
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "육종용(肉蓯蓉)",
           "owner": "육종용(肉蓯蓉)",
           "ownerId": "herb-cistanche",
@@ -12234,9 +12232,15 @@
           "owner": "녹용(鹿茸)",
           "ownerId": "herb-cervi-parvum-cornu",
           "source": "/herbs/cervi-parvum-cornu/"
+        },
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "토사자(菟絲子) — 전통 효능: 보신익정·양간명목·고삽",
       "source": "/herbs/cuscuta-seed/"
     },
@@ -14514,19 +14518,19 @@
           "source": "/herbs/cinnamon-bark/"
         },
         {
-          "text": "건강(乾薑)",
-          "owner": "건강(乾薑)",
-          "ownerId": "herb-dried-ginger",
-          "source": "/herbs/dried-ginger/"
-        },
-        {
           "text": "오수유(吳茱萸)",
           "owner": "오수유(吳茱萸)",
           "ownerId": "herb-evodia-fruit",
           "source": "/herbs/evodia-fruit/"
+        },
+        {
+          "text": "건강(乾薑)",
+          "owner": "건강(乾薑)",
+          "ownerId": "herb-dried-ginger",
+          "source": "/herbs/dried-ginger/"
         }
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "오수유(吳茱萸) — 전통 효능: 산한지통·강역지구",
       "source": "/herbs/evodia-fruit/"
     },
@@ -15511,6 +15515,42 @@
       "source": "/herbs/gardenia/"
     },
     {
+      "id": "herb-gastrodia-fact-생약명",
+      "cardId": "herb-gastrodia",
+      "category": "안신·개규·식풍",
+      "kind": "fact",
+      "prompt": "천마(天麻)의 생약명으로 정리된 것은?",
+      "options": [
+        {
+          "text": "Coptidis Rhizoma",
+          "owner": "황련(黃連)",
+          "ownerId": "herb-coptis",
+          "source": "/herbs/coptis/"
+        },
+        {
+          "text": "Gastrodiae Rhizoma",
+          "owner": "천마(天麻)",
+          "ownerId": "herb-gastrodia",
+          "source": "/herbs/gastrodia/"
+        },
+        {
+          "text": "Platycladi Semen",
+          "owner": "백자인(柏子仁)",
+          "ownerId": "herb-thuja-seed",
+          "source": "/herbs/thuja-seed/"
+        },
+        {
+          "text": "Dioscoreae Rhizoma",
+          "owner": "산약(山藥)",
+          "ownerId": "herb-dioscorea",
+          "source": "/herbs/dioscorea/"
+        }
+      ],
+      "answer": 1,
+      "explanation": "천마(天麻) — 생약명: Gastrodiae Rhizoma",
+      "source": "/herbs/gastrodia/"
+    },
+    {
       "id": "herb-gastrodia-fact-전통 효능",
       "cardId": "herb-gastrodia",
       "category": "안신·개규·식풍",
@@ -15633,16 +15673,16 @@
           "source": "/herbs/scrophularia/"
         },
         {
-          "text": "대황(大黃)",
-          "owner": "대황(大黃)",
-          "ownerId": "herb-rhubarb",
-          "source": "/herbs/rhubarb/"
-        },
-        {
           "text": "용담·용담초(龍膽)",
           "owner": "용담·용담초(龍膽)",
           "ownerId": "herb-gentian-root",
           "source": "/herbs/gentian-root/"
+        },
+        {
+          "text": "대황(大黃)",
+          "owner": "대황(大黃)",
+          "ownerId": "herb-rhubarb",
+          "source": "/herbs/rhubarb/"
         },
         {
           "text": "황련(黃連)",
@@ -15651,7 +15691,7 @@
           "source": "/herbs/coptis/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "용담·용담초(龍膽) — 생약명: Gentianae Radix et Rhizoma",
       "source": "/herbs/gentian-root/"
     },
@@ -17160,16 +17200,16 @@
           "source": "/herbs/jujube-fruit/"
         },
         {
-          "text": "익지인(益智仁)",
-          "owner": "익지인(益智仁)",
-          "ownerId": "herb-alpinia-oxyphylla",
-          "source": "/herbs/alpinia-oxyphylla/"
-        },
-        {
           "text": "구기자(枸杞子)",
           "owner": "구기자(枸杞子)",
           "ownerId": "herb-cornus-extra",
           "source": "/herbs/cornus-extra/"
+        },
+        {
+          "text": "익지인(益智仁)",
+          "owner": "익지인(益智仁)",
+          "ownerId": "herb-alpinia-oxyphylla",
+          "source": "/herbs/alpinia-oxyphylla/"
         },
         {
           "text": "연자육·연자(蓮子肉)",
@@ -17808,12 +17848,6 @@
       "context": "전통 효능: 보비익기(補脾益氣), 윤폐지해(潤肺止咳), 완급지통(緩急止痛), 조화제약(調和諸藥)",
       "options": [
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "인삼(人蔘)",
           "owner": "인삼(人蔘)",
           "ownerId": "herb-ginseng",
@@ -17830,9 +17864,15 @@
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
           "source": "/herbs/white-peony/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "감초(甘草) — 전통 효능: 보비익기(補脾益氣), 윤폐지해(潤肺止咳), 완급지통(緩急止痛), 조화제약(調和諸藥)",
       "source": "/herbs/licorice/"
     },
@@ -17954,12 +17994,6 @@
       "context": "전통 효능: 양음윤폐, 청심안신",
       "options": [
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "백합(百合)",
           "owner": "백합(百合)",
           "ownerId": "herb-lily",
@@ -17976,9 +18010,15 @@
           "owner": "연자육·연자(蓮子肉)",
           "ownerId": "herb-lotus-seed",
           "source": "/herbs/lotus-seed/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "백합(百合) — 전통 효능: 양음윤폐, 청심안신",
       "source": "/herbs/lily/"
     },
@@ -18971,12 +19011,6 @@
       "context": "전통 효능: 소식화중 · 건비개위 · 화약·조화",
       "options": [
         {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
-        },
-        {
           "text": "산사(山楂)",
           "owner": "산사(山楂)",
           "ownerId": "herb-hawthorn",
@@ -18989,13 +19023,19 @@
           "source": "/herbs/massa-medicata-fermentata/"
         },
         {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
+        },
+        {
           "text": "맥아(麥芽)",
           "owner": "맥아(麥芽)",
           "ownerId": "herb-barley-malt",
           "source": "/herbs/barley-malt/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "신곡·신국(神麴) — 전통 효능: 소식화중 · 건비개위 · 화약·조화",
       "source": "/herbs/massa-medicata-fermentata/"
     },
@@ -20321,16 +20361,16 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Acanthopanacis Cortex로 표기되는 오가피 계열",
           "owner": "오가피(五加皮)",
           "ownerId": "herb-acanthopanax-bark",
           "source": "/herbs/acanthopanax-bark/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "Astragali Radix",
@@ -20364,16 +20404,16 @@
           "source": "/herbs/acanthopanax-bark/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "황기(黃芪)",
           "owner": "황기(黃芪)",
           "ownerId": "herb-astragalus",
           "source": "/herbs/astragalus/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
       "answer": 0,
@@ -20431,16 +20471,16 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "사삼(沙參·남사삼)",
           "owner": "사삼(沙參·남사삼)",
           "ownerId": "herb-adenophora-root",
           "source": "/herbs/adenophora-root/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "백합(百合)",
@@ -20497,16 +20537,16 @@
       "prompt": "맥문동(麥門冬)의 생약명으로 정리된 것은?",
       "options": [
         {
+          "text": "Achyranthis Radix / Achyranthis Bidentatae Radix 등 규격에 따라 표기가 달라질 수 있음",
+          "owner": "우슬(牛膝)",
+          "ownerId": "herb-achyranthes",
+          "source": "/herbs/achyranthes/"
+        },
+        {
           "text": "Astragali Radix",
           "owner": "황기(黃芪)",
           "ownerId": "herb-astragalus",
           "source": "/herbs/astragalus/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "Asparagi Tuber 또는 Asparagi Radix로 표기",
@@ -20515,14 +20555,14 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
-          "text": "Paeoniae Radix Alba",
-          "owner": "백작약(白芍)",
-          "ownerId": "herb-white-peony",
-          "source": "/herbs/white-peony/"
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
-      "explanation": "맥문동(麥門冬) — 생약명: Ophiopogonis Radix",
+      "answer": 3,
+      "explanation": "맥문동(麥門冬) — 생약명: Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
       "source": "/herbs/ophiopogon/"
     },
     {
@@ -20531,7 +20571,7 @@
       "category": "보익·수삽",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "생약명: Ophiopogonis Radix",
+      "context": "생약명: Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
       "options": [
         {
           "text": "황기(黃芪)",
@@ -20540,10 +20580,10 @@
           "source": "/herbs/astragalus/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
+          "text": "우슬(牛膝)",
+          "owner": "우슬(牛膝)",
+          "ownerId": "herb-achyranthes",
+          "source": "/herbs/achyranthes/"
         },
         {
           "text": "천문동(天門冬)",
@@ -20552,14 +20592,14 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
-          "text": "백작약(白芍)",
-          "owner": "백작약(白芍)",
-          "ownerId": "herb-white-peony",
-          "source": "/herbs/white-peony/"
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
-      "explanation": "맥문동(麥門冬) — 생약명: Ophiopogonis Radix",
+      "answer": 3,
+      "explanation": "맥문동(麥門冬) — 생약명: Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
       "source": "/herbs/ophiopogon/"
     },
     {
@@ -20607,6 +20647,12 @@
       "context": "전통 효능: 양음생진(養陰生津), 윤폐지해(潤肺止咳), 청심제번(清心除煩)",
       "options": [
         {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "감초(甘草)",
           "owner": "감초(甘草)",
           "ownerId": "herb-licorice",
@@ -20619,19 +20665,13 @@
           "source": "/herbs/lily/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "오미자(五味子)",
           "owner": "오미자(五味子)",
           "ownerId": "herb-schisandra",
           "source": "/herbs/schisandra/"
         }
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "맥문동(麥門冬) — 전통 효능: 양음생진(養陰生津), 윤폐지해(潤肺止咳), 청심제번(清心除煩)",
       "source": "/herbs/ophiopogon/"
     },
@@ -22242,6 +22282,12 @@
       "context": "생약명: Platycodi Radix",
       "options": [
         {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
+        },
+        {
           "text": "시호(柴胡)",
           "owner": "시호(柴胡)",
           "ownerId": "herb-bupleurum",
@@ -22254,19 +22300,13 @@
           "source": "/herbs/platycodon/"
         },
         {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
-        },
-        {
           "text": "원지(遠志)",
           "owner": "원지(遠志)",
           "ownerId": "herb-polygala",
           "source": "/herbs/polygala/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "길경(桔梗) — 생약명: Platycodi Radix",
       "source": "/herbs/platycodon/"
     },
@@ -22321,6 +22361,12 @@
           "source": "/herbs/polygala/"
         },
         {
+          "text": "청피(靑皮)",
+          "owner": "청피(靑皮)",
+          "ownerId": "herb-green-citrus-peel",
+          "source": "/herbs/green-citrus-peel/"
+        },
+        {
           "text": "길경(桔梗)",
           "owner": "길경(桔梗)",
           "ownerId": "herb-platycodon",
@@ -22331,15 +22377,9 @@
           "owner": "진피(陳皮)",
           "ownerId": "herb-citrus-peel",
           "source": "/herbs/citrus-peel/"
-        },
-        {
-          "text": "청피(靑皮)",
-          "owner": "청피(靑皮)",
-          "ownerId": "herb-green-citrus-peel",
-          "source": "/herbs/green-citrus-peel/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "길경(桔梗) — 전통 효능: 선폐(宣肺) · 이인(利咽) · 거담(祛痰) · 배농(排膿)",
       "source": "/herbs/platycodon/"
     },
@@ -22466,6 +22506,12 @@
           "source": "/herbs/polygala/"
         },
         {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
+        },
+        {
           "text": "시호(柴胡)",
           "owner": "시호(柴胡)",
           "ownerId": "herb-bupleurum",
@@ -22476,12 +22522,6 @@
           "owner": "길경(桔梗)",
           "ownerId": "herb-platycodon",
           "source": "/herbs/platycodon/"
-        },
-        {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
         }
       ],
       "answer": 0,
@@ -24175,6 +24215,12 @@
           "source": "/herbs/anemarrhena/"
         },
         {
+          "text": "용담·용담초(龍膽)",
+          "owner": "용담·용담초(龍膽)",
+          "ownerId": "herb-gentian-root",
+          "source": "/herbs/gentian-root/"
+        },
+        {
           "text": "대황(大黃)",
           "owner": "대황(大黃)",
           "ownerId": "herb-rhubarb",
@@ -24185,15 +24231,9 @@
           "owner": "천화분(天花粉)",
           "ownerId": "herb-trichosanthes-root",
           "source": "/herbs/trichosanthes-root/"
-        },
-        {
-          "text": "용담·용담초(龍膽)",
-          "owner": "용담·용담초(龍膽)",
-          "ownerId": "herb-gentian-root",
-          "source": "/herbs/gentian-root/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "대황(大黃) — 생약명: Rhei Radix et Rhizoma",
       "source": "/herbs/rhubarb/"
     },
@@ -25120,12 +25160,6 @@
           "source": "/herbs/lily/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "오미자(五味子)",
           "owner": "오미자(五味子)",
           "ownerId": "herb-schisandra",
@@ -25136,9 +25170,15 @@
           "owner": "연자육·연자(蓮子肉)",
           "ownerId": "herb-lotus-seed",
           "source": "/herbs/lotus-seed/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "오미자(五味子) — 전통 효능: 렴폐지해, 생진렴한, 삽정지사, 영심안신",
       "source": "/herbs/schisandra/"
     },
@@ -25876,6 +25916,12 @@
       "prompt": "백자인(柏子仁)의 생약명으로 정리된 것은?",
       "options": [
         {
+          "text": "Gastrodiae Rhizoma",
+          "owner": "천마(天麻)",
+          "ownerId": "herb-gastrodia",
+          "source": "/herbs/gastrodia/"
+        },
+        {
           "text": "Platycladi Semen",
           "owner": "백자인(柏子仁)",
           "ownerId": "herb-thuja-seed",
@@ -25888,19 +25934,13 @@
           "source": "/herbs/lotus-seed/"
         },
         {
-          "text": "Raphani Semen",
-          "owner": "나복자(萊菔子·蘿蔔子)",
-          "ownerId": "herb-raphanus-seed",
-          "source": "/herbs/raphanus-seed/"
-        },
-        {
           "text": "Persicae Semen",
           "owner": "도인(桃仁)",
           "ownerId": "herb-peach-kernel",
           "source": "/herbs/peach-kernel/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "백자인(柏子仁) — 생약명: Platycladi Semen",
       "source": "/herbs/thuja-seed/"
     },
@@ -26411,6 +26451,79 @@
       "answer": 3,
       "explanation": "초과(草果) — 성미·귀경: 신, 온; 비·위경을 중심으로 설명",
       "source": "/herbs/tsaoko-fruit/"
+    },
+    {
+      "id": "herb-uncaria-fact-생약명",
+      "cardId": "herb-uncaria",
+      "category": "청열",
+      "kind": "fact",
+      "prompt": "조구등(釣鉤藤)의 생약명으로 정리된 것은?",
+      "options": [
+        {
+          "text": "Lonicerae Flos. 문헌·약전에서는 Lonicerae Japonicae Flos 표기도 확인",
+          "owner": "금은화(金銀花)",
+          "ownerId": "herb-honeysuckle",
+          "source": "/herbs/honeysuckle/"
+        },
+        {
+          "text": "Scrophulariae Radix",
+          "owner": "현삼(玄參)",
+          "ownerId": "herb-scrophularia",
+          "source": "/herbs/scrophularia/"
+        },
+        {
+          "text": "Phellodendri Cortex",
+          "owner": "황백(黃柏)",
+          "ownerId": "herb-phellodendron",
+          "source": "/herbs/phellodendron/"
+        },
+        {
+          "text": "Uncariae Ramulus cum Uncus",
+          "owner": "조구등(釣鉤藤)",
+          "ownerId": "herb-uncaria",
+          "source": "/herbs/uncaria/"
+        }
+      ],
+      "answer": 3,
+      "explanation": "조구등(釣鉤藤) — 생약명: Uncariae Ramulus cum Uncus",
+      "source": "/herbs/uncaria/"
+    },
+    {
+      "id": "herb-uncaria-recall-생약명",
+      "cardId": "herb-uncaria",
+      "category": "청열",
+      "kind": "recall",
+      "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
+      "context": "생약명: Uncariae Ramulus cum Uncus",
+      "options": [
+        {
+          "text": "조구등(釣鉤藤)",
+          "owner": "조구등(釣鉤藤)",
+          "ownerId": "herb-uncaria",
+          "source": "/herbs/uncaria/"
+        },
+        {
+          "text": "황백(黃柏)",
+          "owner": "황백(黃柏)",
+          "ownerId": "herb-phellodendron",
+          "source": "/herbs/phellodendron/"
+        },
+        {
+          "text": "금은화(金銀花)",
+          "owner": "금은화(金銀花)",
+          "ownerId": "herb-honeysuckle",
+          "source": "/herbs/honeysuckle/"
+        },
+        {
+          "text": "현삼(玄參)",
+          "owner": "현삼(玄參)",
+          "ownerId": "herb-scrophularia",
+          "source": "/herbs/scrophularia/"
+        }
+      ],
+      "answer": 0,
+      "explanation": "조구등(釣鉤藤) — 생약명: Uncariae Ramulus cum Uncus",
+      "source": "/herbs/uncaria/"
     },
     {
       "id": "herb-uncaria-fact-전통 효능",
@@ -26971,6 +27084,12 @@
           "source": "/herbs/astragalus/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Paeoniae Radix Alba",
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
@@ -26981,15 +27100,9 @@
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
           "source": "/herbs/ophiopogon-extra/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "백작약(白芍) — 생약명: Paeoniae Radix Alba",
       "source": "/herbs/white-peony/"
     },
@@ -27002,6 +27115,12 @@
       "context": "생약명: Paeoniae Radix Alba",
       "options": [
         {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "천문동(天門冬)",
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
@@ -27012,12 +27131,6 @@
           "owner": "황기(黃芪)",
           "ownerId": "herb-astragalus",
           "source": "/herbs/astragalus/"
-        },
-        {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "백작약(白芍)",

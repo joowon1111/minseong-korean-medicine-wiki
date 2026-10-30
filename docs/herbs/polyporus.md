@@ -11,12 +11,12 @@ last_reviewed: '2026-10-07'
 **영문명:** Polyporus / Umbrella polypore
 
 ## 개요
-저령은 약용 균류의 균핵을 사용하는 대표적인 이수삼습 본초다. [오령산](../formulas/wuling-san.md)의 핵심 구성으로, 복령·택사·백출 등과 함께 수액대사를 조절하는 처방 구조를 이룬다.
+저령은 약용 균류의 균핵을 사용하는 대표적인 이수삼습 본초입니다. [오령산](../formulas/wuling-san.md)의 핵심 구성으로, 복령·택사·백출 등과 함께 수액대사를 조절하는 처방 구조를 이룹니다.
 
 ## 전통적 효능
 - **이수삼습(利水滲濕)**
 
-소변불리, 수종, 설사 등 수습의 정체와 관련된 증후에 활용되어 왔다.
+소변불리, 수종, 설사 등 수습의 정체와 관련된 증후에 활용되어 왔습니다.
 
 ## 복령·택사와 감별
 
@@ -24,18 +24,24 @@ last_reviewed: '2026-10-07'
 
 저령의 다당체 연구는 주로 성분·전임상 연구와 종합 리뷰에 기반합니다. 해당 결과가 저령 단미나 오령산의 임상효과를 직접 입증하는 것은 아니므로, 연구 대상과 제형을 구분합니다.
 
+## 오령산과 저령탕의 배합 차이
+
+[오령산](../formulas/wuling-san.md)은 저령·복령·택사에 백출과 계지를 더합니다. 소변이 시원하지 않으면서 갈증·구토 등 수분의 분포와 관련된 증상이 나타나는 전통 병증에서 이수와 함께 비의 운화, 기화의 방향을 살피는 구성입니다. 반면 [저령탕](../formulas/zhuling-tang.md)은 저령·복령·택사에 활석·아교를 배합하여 열과 진액 손상이 겹친 수습 정체를 다루는 맥락으로 읽습니다. 같은 저령을 포함해도 동반 증후와 나머지 약재에 따라 처방의 목적이 달라집니다.
+
+부종과 소변량 변화에는 다양한 원인이 있으므로 갑작스러운 부종, 호흡곤란, 소변량의 현저한 감소가 있으면 진료가 필요합니다. 심장·신장 질환이나 이뇨제 복용 여부도 함께 확인합니다.
+
 ## 주요 성분
-polysaccharides, steroids 등 다양한 성분이 연구되며 특히 **Polyporus polysaccharides**가 주요 연구 소재다.
+polysaccharides, steroids 등 다양한 성분이 연구되며 특히 **Polyporus polysaccharides**가 주요 연구 소재입니다.
 
 ## 현대 연구
-2013년 종합 리뷰에서는 저령의 전통적 활용, phytochemistry, pharmacology, 약동학 및 품질관리를 체계적으로 정리했다. 2021년에는 저령 polysaccharides의 구조와 면역·항산화 등 생리활성을 종합한 리뷰도 발표됐다.
+2013년 종합 리뷰에서는 저령의 전통적 활용, phytochemistry, pharmacology, 약동학 및 품질관리를 체계적으로 정리했습니다. 2021년에는 저령 polysaccharides의 구조와 면역·항산화 등 생리활성을 종합한 리뷰도 발표됐습니다.
 
 ## 오령산에서의 역할
-저령은 복령·택사와 함께 이수의 중심축을 이루며, 백출·계지 계열과 결합해 오령산의 수액대사 조절 구조를 만든다.
+《상한론》 오령산 수록형의 저령은 껍질을 제거한 18수이며 복령·백출과 같은 양으로 기록됩니다. 저령탕은 저령·복령·택사·활석·아교를 각 1량으로 둡니다. 이 기록은 각 처방의 고전 배합량이며 현대 과립제나 탕약의 일일 복용량으로 바로 환산하지 않습니다. [오령산 원문](../formulas/wuling-san.md#source-dose-original) · [저령탕 원문](../formulas/zhuling-tang.md#source-dose-original)
 
 → [오령산](../formulas/wuling-san.md)  
 → [복령](poria.md)
 
 ## 참고문헌
-1. Zhao YY, et al. *Traditional uses, phytochemistry, pharmacology, pharmacokinetics and quality control of Polyporus umbellatus.* 2013. PMID **23811047**.
-2. Liu GK, et al. *Polysaccharides from Polyporus umbellatus: A review on their extraction, modification, structure, and bioactivities.* 2021. PMID **34419536**.
+1. Zhao YY, et al. *Traditional uses, phytochemistry, pharmacology, pharmacokinetics and quality control of Polyporus umbellatus.* 2013. [PMID 23811047](https://pubmed.ncbi.nlm.nih.gov/23811047/).
+2. Liu GK, et al. *Polysaccharides from Polyporus umbellatus: A review on their extraction, modification, structure, and bioactivities.* 2021. [PMID 34419536](https://pubmed.ncbi.nlm.nih.gov/34419536/).

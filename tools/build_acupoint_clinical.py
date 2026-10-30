@@ -37,7 +37,7 @@ def point_block(code, point, roles, taegeuk=None, references=None, sources=None)
     target = posixpath.relpath(point['clinical_path'], posixpath.dirname(point['path']))
     lines = [START, render_profile(code, point, references or {}, sources), '',
              '**임상 평가·배혈 연결**', '',
-             f'{point["clinical"]} [평가 자료]({target})', '',
+             f'{point.get("clinical_detail", point["clinical"])} [평가 자료]({target})', '',
              '임상 평가는 아카이브의 평가·기록 안내입니다.', '']
     if roles.get(code):
         links = [f'[{label}](../../acupuncture-specific/saam-12-meridians.md#{anchor})'

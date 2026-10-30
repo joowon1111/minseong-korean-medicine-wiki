@@ -57,7 +57,7 @@ last_reviewed: '2026-09-22'
 
 | 비교 | 천문동 | [맥문동](ophiopogon.md) |
 |---|---|---|
-| 기원 | *Asparagus cochinchinensis* | 맥문동류 *Ophiopogon* spp. |
+| 기원 | *Asparagus cochinchinensis* | 국내 약재는 맥문동 *Liriope platyphylla* 또는 소엽맥문동 *Ophiopogon japonicus*의 덩이뿌리 |
 | 전통 방향 | 양음력이 비교적 두텁고 청폐·윤조와 신음축을 함께 설명 | 폐·위의 양음생진과 청심제번을 폭넓게 설명 |
 | 공통점 | 폐의 건조·진액 소모를 살피는 자음·생진축 | 같은 축 |
 | 처방 해석 | 함께 들어가도 중복이 아니라 전체 배합의 한량·윤조 강도를 형성 | 각 수록량과 병증 위치를 따로 확인 |

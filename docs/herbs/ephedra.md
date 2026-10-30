@@ -3,7 +3,7 @@ title: 마황(麻黃)
 tags: [본초, 사상처방, 약재, 지식그래프]
 status: 검토완료
 last_reviewed: '2026-09-16'
-description: 마황(麻黃) — 본초의 성미·귀경·효능·병증·배합과 실제 방제 속 역할을 연결하는 본초 문서입니다.
+description: 마황의 발한해표·선폐평천·이수소종, 마황탕·소청룡탕 배합과 고전의 발한 주의 및 안전성을 정리합니다.
 ---
 # 마황(麻黃)
 
@@ -31,6 +31,8 @@ description: 마황(麻黃) — 본초의 성미·귀경·효능·병증·배합
 | [마황탕](../formulas/mahuang-tang.md) | 계지와 발한해표하고 행인과 선폐평천하는 풍한표실 구조 |
 | [소청룡탕](../formulas/xiaoqinglong-tang.md) | 계지·건강·세신의 온화와 반하·오미자의 화담·수렴을 연결 |
 | [마행감석탕](../formulas/maxing-ganshi-tang.md) | 석고의 청열과 배합해 폐열·해천을 다루는 한열 병용 구조 |
+
+마황탕과 마행감석탕은 마황·행인·감초를 공유합니다. 마황탕은 계지를 더해 무한·오한·신체통이 있는 표증을 다루고, 마행감석탕은 계지 대신 석고를 배합해 열과 천증의 맥락을 살핍니다. 《상한론》 수록량과 제법도 서로 다르므로 실제 제제의 원료와 배합을 함께 확인합니다. [마황탕 원문](../formulas/mahuang-tang.md#source-dose-original) · [마행감석탕 원문](../formulas/maxing-ganshi-tang.md#source-dose-original)
 
 [계지](cinnamon-twig.md)는 풍한표허의 해기와 영위 조화, [방풍](saposhnikovia.md)은 비교적 완만한 거풍해표·승습지통을 중심으로 구분합니다.
 

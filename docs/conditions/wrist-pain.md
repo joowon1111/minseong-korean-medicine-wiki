@@ -106,10 +106,10 @@ last_reviewed: 2026-09-06
 
 ## 침·전침치료 {#_8}
 
-- **양계(LI5)·열결(LU7):** 엄지쪽 손목과 드퀘르벵 양상
-- **양지(TE4)·외관(TE5):** 손등·바깥쪽과 전완 긴장
-- **대릉(PC7)·내관(PC6):** 손바닥쪽 손목과 정중신경 관련 증상
-- **신문(HT7)·양곡(SI5):** 새끼손가락쪽과 손목 관절 통증
+- **[양계 LI5](../acupuncture/points/li5.md)·[열결 LU7](../acupuncture/points/lu7-lieque.md):** 엄지쪽 손목과 드퀘르벵 양상
+- **[양지 TE4](../acupuncture/points/te4.md)·[외관 TE5](../acupuncture/points/te5-waiguan.md):** 손등·바깥쪽과 전완 긴장
+- **[대릉 PC7](../acupuncture/points/pc7-daling.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md):** 손바닥쪽 손목과 정중신경 관련 증상
+- **[신문 HT7](../acupuncture/points/ht7-shenmen.md)·[양곡 SI5](../acupuncture/points/si5.md):** 새끼손가락쪽과 손목 관절 통증
 - **합곡(LI4)·후계(SI3):** 손·상지 경락과 원위 취혈
 - **아시혈·근육 운동점:** 장무지외전근, 단무지신근, 전완 굴곡·신전근
 

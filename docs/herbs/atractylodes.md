@@ -91,6 +91,6 @@ atractylenolides와 polysaccharides 등을 중심으로 위장관 기능, 면역
 - [이수·거습 본초](categories/drain-damp.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 
-**연구 식별자:** PMID 30130541 · PMID 39473269
+**연구 자료:** [백출의 전통 활용·성분·약리 고찰, PMID 30130541](https://pubmed.ncbi.nlm.nih.gov/30130541/) · [백출 뿌리줄기 종합 고찰, PMID 39473269](https://pubmed.ncbi.nlm.nih.gov/39473269/). 두 고찰은 *A. macrocephala*의 원료와 연구를 다루므로 실제 조제 원료의 기원과 제형을 함께 확인합니다.
 
 > 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.

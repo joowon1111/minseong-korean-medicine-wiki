@@ -1135,8 +1135,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+        "path": "conditions/wrist-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
@@ -1378,7 +1378,7 @@
       ],
       "assessment": {
         "text": "신기능·동반 질환과 증상 변화는 담당 진료와 함께 평가합니다.",
-        "path": "acupuncture-integrated/evidence.md",
+        "path": "conditions/tennis-elbow.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -3049,7 +3049,7 @@
       ],
       "assessment": {
         "text": "복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다.",
-        "path": "acupuncture-integrated/evidence.md",
+        "path": "conditions/dyspepsia.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -3679,8 +3679,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-        "path": "conditions/functional-dyspepsia.md",
+        "text": "복통과 배변 빈도·변의 형태를 확인하고 체중감소·혈변 등 원인 평가가 필요한 소견을 살핍니다.",
+        "path": "symptom-integrated/digestive.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -3866,8 +3866,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "발목의 통증·부종·가동범위와 체중부하, 외상 후 골절 가능성을 확인합니다.",
+        "path": "conditions/ankle-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
@@ -4592,7 +4592,7 @@
       ],
       "assessment": {
         "text": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인해 배혈을 검토합니다.",
-        "path": "acupuncture-integrated/by-symptom.md",
+        "path": "conditions/dysmenorrhea.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -6003,8 +6003,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+        "path": "conditions/wrist-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
@@ -7499,7 +7499,7 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "가려움의 강도·범위·야간 악화와 피부 상태를 비교합니다.",
+        "text": "등 통증의 위치·움직임과 호흡과의 관계, 딸꾹질·복부팽만의 경과와 동반 증상을 확인합니다.",
         "path": "acupuncture-integrated/followup.md",
         "origin": "archive_editorial"
       },
@@ -7624,8 +7624,8 @@
       ],
       "research": [],
       "assessment": {
-        "text": "보행·발목 운동과 국소 압통, 저림·근력 변화를 함께 평가합니다.",
-        "path": "clinical-anatomy/mps-calf.md",
+        "text": "구역·흉부 불편의 양상과 수면을 확인하고, 하지 방사통은 통증 분포·감각·근력을 따로 평가합니다.",
+        "path": "conditions/insomnia.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -9716,8 +9716,8 @@
         }
       ],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "발목 통증·압통과 보행을 확인하고 요통은 움직임과 하지 증상을 함께 평가합니다.",
+        "path": "conditions/low-back-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -11877,7 +11877,7 @@
       ],
       "assessment": {
         "text": "손 저림의 분포·야간 증상·무지구 근력과 정중신경 포착 여부를 평가합니다.",
-        "path": "conditions/limb-numbness.md",
+        "path": "conditions/carpal-tunnel.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
@@ -12184,8 +12184,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+        "path": "conditions/wrist-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -15016,8 +15016,8 @@
         }
       ],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "발목의 통증·부종·압통과 체중부하, 외상 후 골절 가능성을 확인합니다.",
+        "path": "acupuncture-integrated/musculoskeletal.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -17584,7 +17584,7 @@
         }
       ],
       "assessment": {
-        "text": "배뇨 횟수·야간뇨·통증과 잔뇨감을 구분해 기록합니다.",
+        "text": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인하고, 배뇨 증상이 있으면 빈도와 통증을 기록합니다.",
         "path": "acupuncture-integrated/by-symptom.md",
         "origin": "archive_editorial"
       },
@@ -17689,7 +17689,7 @@
       ],
       "research": [],
       "assessment": {
-        "text": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
+        "text": "복통 위치와 식사·배변의 관계, 설사 횟수와 피로의 경과를 확인합니다.",
         "path": "conditions/functional-dyspepsia.md",
         "origin": "archive_editorial"
       },
@@ -17993,7 +17993,7 @@
       ],
       "assessment": {
         "text": "복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다.",
-        "path": "acupuncture-integrated/evidence.md",
+        "path": "conditions/functional-dyspepsia.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
