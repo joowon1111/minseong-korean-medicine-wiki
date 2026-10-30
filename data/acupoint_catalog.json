@@ -17584,7 +17584,7 @@
         }
       ],
       "assessment": {
-        "text": "배뇨 횟수·야간뇨·통증과 잔뇨감을 구분해 기록합니다.",
+        "text": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인하고, 배뇨 증상이 있으면 빈도와 통증을 기록합니다.",
         "path": "acupuncture-integrated/by-symptom.md",
         "origin": "archive_editorial"
       },
@@ -17689,7 +17689,7 @@
       ],
       "research": [],
       "assessment": {
-        "text": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
+        "text": "복통 위치와 식사·배변의 관계, 설사 횟수와 피로의 경과를 확인합니다.",
         "path": "conditions/functional-dyspepsia.md",
         "origin": "archive_editorial"
       },
