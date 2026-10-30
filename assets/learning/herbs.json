@@ -1530,6 +1530,10 @@
       "prompt": "천마(天麻)의 효능·약용 부위·배합을 설명해 보세요.",
       "facts": [
         {
+          "label": "생약명",
+          "value": "Gastrodiae Rhizoma"
+        },
+        {
           "label": "약용 부위",
           "value": "난초과 천마의 덩이줄기"
         },
@@ -15507,6 +15511,42 @@
       "source": "/herbs/gardenia/"
     },
     {
+      "id": "herb-gastrodia-fact-생약명",
+      "cardId": "herb-gastrodia",
+      "category": "안신·개규·식풍",
+      "kind": "fact",
+      "prompt": "천마(天麻)의 생약명으로 정리된 것은?",
+      "options": [
+        {
+          "text": "Coptidis Rhizoma",
+          "owner": "황련(黃連)",
+          "ownerId": "herb-coptis",
+          "source": "/herbs/coptis/"
+        },
+        {
+          "text": "Gastrodiae Rhizoma",
+          "owner": "천마(天麻)",
+          "ownerId": "herb-gastrodia",
+          "source": "/herbs/gastrodia/"
+        },
+        {
+          "text": "Platycladi Semen",
+          "owner": "백자인(柏子仁)",
+          "ownerId": "herb-thuja-seed",
+          "source": "/herbs/thuja-seed/"
+        },
+        {
+          "text": "Dioscoreae Rhizoma",
+          "owner": "산약(山藥)",
+          "ownerId": "herb-dioscorea",
+          "source": "/herbs/dioscorea/"
+        }
+      ],
+      "answer": 1,
+      "explanation": "천마(天麻) — 생약명: Gastrodiae Rhizoma",
+      "source": "/herbs/gastrodia/"
+    },
+    {
       "id": "herb-gastrodia-fact-전통 효능",
       "cardId": "herb-gastrodia",
       "category": "안신·개규·식풍",
@@ -25872,6 +25912,12 @@
       "prompt": "백자인(柏子仁)의 생약명으로 정리된 것은?",
       "options": [
         {
+          "text": "Gastrodiae Rhizoma",
+          "owner": "천마(天麻)",
+          "ownerId": "herb-gastrodia",
+          "source": "/herbs/gastrodia/"
+        },
+        {
           "text": "Platycladi Semen",
           "owner": "백자인(柏子仁)",
           "ownerId": "herb-thuja-seed",
@@ -25884,19 +25930,13 @@
           "source": "/herbs/lotus-seed/"
         },
         {
-          "text": "Raphani Semen",
-          "owner": "나복자(萊菔子·蘿蔔子)",
-          "ownerId": "herb-raphanus-seed",
-          "source": "/herbs/raphanus-seed/"
-        },
-        {
           "text": "Persicae Semen",
           "owner": "도인(桃仁)",
           "ownerId": "herb-peach-kernel",
           "source": "/herbs/peach-kernel/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "백자인(柏子仁) — 생약명: Platycladi Semen",
       "source": "/herbs/thuja-seed/"
     },
