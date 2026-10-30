@@ -815,7 +815,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다.",
-      "clinical_path": "clinical-anatomy/mps-forearm.md"
+      "clinical_path": "clinical-anatomy/mps-forearm.md",
+      "clinical_detail": "팔꿈치 앞안쪽의 소해(少海) HT3는 뒤안쪽 자신경고랑의 동음이혈 [소해(小海) SI8](si8.md)과 다른 혈입니다. 안쪽 압통과 굽힘·폄, 손가락 감각·쥐는 힘을 비교하고 팔오금 앞쪽의 [곡택 PC3](pc3.md)과 표지를 구분합니다."
     },
     "PC3": {
       "name": "곡택",
@@ -832,7 +833,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다.",
-      "clinical_path": "clinical-anatomy/mps-forearm.md"
+      "clinical_path": "clinical-anatomy/mps-forearm.md",
+      "clinical_detail": "팔오금 앞쪽에서 위팔두갈래근 힘줄 안쪽의 곡택은 같은 힘줄 가쪽의 [척택 LU5](lu5-chize.md)와 위치가 다릅니다. 팔꿈치 굽힘·폄과 쥐기에서 통증을 살피고, 두근거림이나 구역이 주된 경우 발생 시점과 동반 증상을 별도로 평가합니다. 두근거림에 흉통·실신·심한 호흡곤란이 동반되면 신속한 응급 평가가 필요합니다."
     },
     "LU5": {
       "name": "척택",
@@ -918,7 +920,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다.",
-      "clinical_path": "clinical-anatomy/mps-forearm.md"
+      "clinical_path": "clinical-anatomy/mps-forearm.md",
+      "clinical_detail": "팔꿈치 뒤안쪽의 소해(小海) SI8은 앞안쪽의 동음이혈 [소해(少海) HT3](ht3-shaohai.md)와 위치가 다릅니다. 새끼손가락과 약지의 저림, 손의 감각·쥐는 힘과 팔꿈치를 굽힐 때 악화하는지 살피고 필요한 경우 자신경 포착을 평가합니다. [팔·손 저림](../../conditions/arm-numbness.md)"
     },
     "TE10": {
       "name": "천정",
@@ -933,7 +936,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "쥐기·들기와 팔꿈치 굽힘·폄에서 통증이 재현되는지 확인합니다.",
-      "clinical_path": "clinical-anatomy/mps-forearm.md"
+      "clinical_path": "clinical-anatomy/mps-forearm.md",
+      "clinical_detail": "팔꿈치를 굽혔을 때 팔꿈치머리 위쪽의 천정은 뒤안쪽의 [소해 SI8](si8.md), 가쪽의 [곡지 LI11](li11-quchi.md)과 표지가 다릅니다. 펴기·굽히기와 물건을 들 때 통증이 재현되는 위치, 부종과 감각 변화를 함께 확인합니다."
     },
     "LU3": {
       "name": "천부",

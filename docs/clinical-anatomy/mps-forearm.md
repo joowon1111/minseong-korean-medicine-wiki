@@ -74,6 +74,8 @@ tags: [MPS, 근막통증증후군, 근육, 근막, 해부학, 침구]
 
 [테니스엘보](../conditions/tennis-elbow.md) · [손목 통증](../conditions/wrist-pain.md) · [팔·손 저림](../conditions/arm-numbness.md) · [원회내근증후군](../nerve-entrapment/pronator-syndrome.md) · [요골신경 포착](../nerve-entrapment/radial-entrapment.md)
 
+팔꿈치 앞쪽의 [곡택 PC3](../acupuncture/points/pc3.md)·[소해 HT3](../acupuncture/points/ht3-shaohai.md)와 뒤안쪽의 [소해 SI8](../acupuncture/points/si8.md), 뒤쪽의 [천정 TE10](../acupuncture/points/te10.md)은 표지와 인접 신경·혈관이 다릅니다. 통증·감각과 근육 기능을 살펴 해당 위치를 함께 비교합니다.
+
 근육을 대상으로 침치료를 계획할 때는 [조직층·안전](mps-atlas.md#treatment)과 [치료 전후 재평가](../acupuncture-integrated/followup.md)를 함께 읽습니다.
 
 ## 해부 출처와 도해 기준 {#sources}
