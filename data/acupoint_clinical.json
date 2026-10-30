@@ -1066,7 +1066,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "팔 올리기·등 뒤로 손 보내기와 야간 통증을 비교해 배혈 목적을 정합니다.",
-      "clinical_path": "conditions/shoulder-pain.md"
+      "clinical_path": "conditions/shoulder-pain.md",
+      "clinical_detail": "위팔 가쪽 어깨세모근 앞모서리의 비노와 어깨관절 부위의 [견우 LI15](li15-jianyu.md), 팔꿈치의 [곡지 LI11](li11-quchi.md)를 위치로 구분합니다. 팔 올리기와 물건 들기에서 통증·근력 변화를 기록하고 눈 증상이 주된 경우에는 시력 변화와 충혈의 원인을 따로 평가합니다."
     },
     "TE11": {
       "name": "청랭연",
@@ -3658,7 +3659,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "팔 올리기·등 뒤로 손 보내기와 야간 통증을 비교해 배혈 목적을 정합니다.",
-      "clinical_path": "conditions/shoulder-pain.md"
+      "clinical_path": "conditions/shoulder-pain.md",
+      "clinical_detail": "팔을 옆으로 올렸을 때 어깨뼈봉우리 뒤쪽 오목한 곳의 견료와 앞쪽 오목한 곳의 [견우 LI15](li15-jianyu.md)를 비교합니다. 팔 올리기·등 뒤 동작, 야간 통증과 능동·수동 가동범위를 기록하고 외상 후 뚜렷한 근력 저하가 있으면 구조적 평가를 연결합니다."
     },
     "SI9": {
       "name": "견정",
@@ -3675,7 +3677,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "팔 올리기·등 뒤로 손 보내기와 야간 통증을 비교해 배혈 목적을 정합니다.",
-      "clinical_path": "conditions/shoulder-pain.md"
+      "clinical_path": "conditions/shoulder-pain.md",
+      "clinical_detail": "팔을 몸통에 붙였을 때 뒤겨드랑주름 위의 견정(肩貞)은 어깨 위쪽의 동음이혈 [견정 GB21(肩井)](gb21-jianjing.md)과 다른 혈입니다. 어깨 뒤쪽 압통, 팔 올리기·등 뒤로 보내기와 야간 통증을 비교하고, 뒤쪽 위의 [노수 SI10](si10.md)·가쪽의 [견료 TE14](te14.md)와 표지를 살핍니다."
     },
     "SI10": {
       "name": "노수",
@@ -3692,7 +3695,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "팔 올리기·등 뒤로 손 보내기와 야간 통증을 비교해 배혈 목적을 정합니다.",
-      "clinical_path": "conditions/shoulder-pain.md"
+      "clinical_path": "conditions/shoulder-pain.md",
+      "clinical_detail": "뒤겨드랑주름 위와 어깨뼈가시 아래의 노수는 아래쪽 [견정 SI9](si9.md), 견갑골 극하부의 [천종 SI11](si11-tianzong.md)과 표지가 다릅니다. 팔을 들거나 뒤로 보낼 때 통증이 나타나는 부위와 견갑골 움직임, 야간 통증을 함께 확인합니다."
     },
     "SI12": {
       "name": "병풍",
@@ -3708,7 +3712,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "팔 올리기·등 뒤로 손 보내기와 야간 통증을 비교해 배혈 목적을 정합니다.",
-      "clinical_path": "conditions/shoulder-pain.md"
+      "clinical_path": "conditions/shoulder-pain.md",
+      "clinical_detail": "어깨뼈가시 위 오목한 곳의 병풍과 가시 아래의 [천종 SI11](si11-tianzong.md)을 구별합니다. 팔 올리기와 견갑부 압통·야간 통증을 기록하고, 손·팔 저림은 목 움직임과 감각·근력을 함께 살펴 신경 증상의 원인을 평가합니다."
     },
     "SI13": {
       "name": "곡원",
