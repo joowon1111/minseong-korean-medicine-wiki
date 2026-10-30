@@ -56,7 +56,7 @@ last_reviewed: 2026-08-22
 
 **임상 평가·배혈 연결**
 
-기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다. [평가 자료](../../pillar/respiratory-rhinitis-immune.md)
+기침과 가래의 빈도, 야간 각성 및 활동할 때의 숨참을 확인합니다. 코 주변 국소혈인 [영향 LI20](li20-yingxiang.md)과 손목의 열결을 비교하고, 인후·흉격과 관련된 [조해 KI6](ki6-zhaohai.md)와의 팔맥교회혈 배합은 위에 제시한 전통 문헌의 범위에서 읽습니다. [평가 자료](../../pillar/respiratory-rhinitis-immune.md)
 
 임상 평가는 아카이브의 평가·기록 안내입니다.
 

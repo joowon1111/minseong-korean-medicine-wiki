@@ -30,7 +30,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 ## 불면·수면저하
 **심경·심포경·신경·독맥·음교맥·양교맥**을 함께 봅니다.  
-신문 HT7은 심경 원혈, 내관 PC6은 심포경 락혈이자 음유맥 교회혈, 조해 KI6는 음교맥 교회혈입니다.
+[신문 HT7](../acupuncture/points/ht7-shenmen.md)은 심경 원혈, [내관 PC6](../acupuncture/points/pc6-neiguan.md)은 심포경 락혈이자 음유맥 교회혈, 조해 KI6는 음교맥 교회혈입니다.
 
 **대표 배혈:** 신문 + 내관 + 인당, 필요에 따라 조해·백회 연결.
 
@@ -39,12 +39,12 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 ## 소화불량·더부룩함
 **위경·비경·심포경·임맥**을 중심으로 봅니다.
 
-- 족삼리 ST36 — 위경 합혈·위 하합혈
-- 중완 CV12 — 위의 모혈·부회
-- 내관 PC6 — 심포경 락혈
+- [족삼리 ST36](../acupuncture/points/st36-zusanli.md) — 위경 합혈·위 하합혈
+- [중완 CV12](../acupuncture/points/cv12-zhongwan.md) — 위의 모혈·부회
+- [내관 PC6](../acupuncture/points/pc6-neiguan.md) — 심포경 락혈
 - 공손 SP4 — 비경 락혈·충맥 교회혈
-- 풍륭 ST40 — 위경 락혈
-- 천추 ST25 — 대장의 모혈
+- [풍륭 ST40](../acupuncture/points/st40-fenglong.md) — 위경 락혈
+- [천추 ST25](../acupuncture/points/st25-tianshu.md) — 대장의 모혈
 - 상거허 ST37 — 대장 하합혈
 
 **대표 배혈:** 족삼리 + 중완 + 내관을 중심으로 담음·식적·배변 양상에 따라 확장.
@@ -54,7 +54,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 ## 요통·요부 뻣뻣함
 **방광경·신경·독맥**이 중심입니다.
 
-신수 BL23 · 대장수 BL25 · 위중 BL40 · 곤륜 BL60 · 태계 KI3 · 명문 GV4
+신수 BL23 · 대장수 BL25 · [위중 BL40](../acupuncture/points/bl40-weizhong.md) · 곤륜 BL60 · [태계 KI3](../acupuncture/points/ki3-taixi.md) · 명문 GV4
 
 **대표 배혈:** 대장수 + 위중 + 곤륜. 허증·냉감·회복저하가 뚜렷하면 신수·태계·명문을 함께 봅니다.
 
@@ -63,7 +63,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 ## 비염·코막힘
 **폐경·대장경·독맥**과 비부 국소를 연결합니다.
 
-열결 LU7 · 합곡 LI4 · 영향 LI20 · 인당 EX-HN3 · 족삼리 ST36
+[열결 LU7](../acupuncture/points/lu7-lieque.md) · [합곡 LI4](../acupuncture/points/li4-hegu.md) · [영향 LI20](../acupuncture/points/li20-yingxiang.md) · 인당 EX-HN3 · 족삼리 ST36
 
 **대표 배혈:** 열결 + 합곡 + 영향/인당.
 
@@ -81,7 +81,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 독비 ST35 · 족삼리 ST36 · 양릉천 GB34 · 음릉천 SP9 · 위중 BL40 · 승산 BL57 · 환도 GB30
 
-양릉천은 근회, 족삼리는 위 하합혈, 위중은 방광경 합혈이라는 특정혈 성격까지 함께 봅니다.
+[양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md)은 근회, 족삼리는 위 하합혈, 위중은 방광경 합혈이라는 특정혈 성격까지 함께 봅니다.
 
 → [무릎·하지 임상 연결](../conditions/knee-pain.md)
 
