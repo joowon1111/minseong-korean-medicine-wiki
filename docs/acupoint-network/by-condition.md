@@ -63,7 +63,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 ## 비염·코막힘
 **폐경·대장경·독맥**과 비부 국소를 연결합니다.
 
-[열결 LU7](../acupuncture/points/lu7-lieque.md) · [합곡 LI4](../acupuncture/points/li4-hegu.md) · [영향 LI20](../acupuncture/points/li20-yingxiang.md) · 인당 EX-HN3 · 족삼리 ST36
+[열결 LU7](../acupuncture/points/lu7-lieque.md) · [합곡 LI4](../acupuncture/points/li4-hegu.md) · [영향 LI20](../acupuncture/points/li20-yingxiang.md) · [인당 EX-HN3](../acupuncture/extra-points/ex-hn3.md) · 족삼리 ST36
 
 **대표 배혈:** 열결 + 합곡 + 영향/인당.
 

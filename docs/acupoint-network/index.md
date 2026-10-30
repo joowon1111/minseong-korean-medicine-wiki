@@ -41,7 +41,7 @@ This atlas indexes the existing canonical point pages and does not create a dupl
 
 [합곡 LI4](../acupuncture/points/li4-hegu.md) · [족삼리 ST36](../acupuncture/points/st36-zusanli.md) · [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md) · [신문 HT7](../acupuncture/points/ht7-shenmen.md) · [후계 SI3](../acupuncture/points/si3-houxi.md) · [위중 BL40](../acupuncture/points/bl40-weizhong.md) · [태계 KI3](../acupuncture/points/ki3-taixi.md) · [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [외관 TE5](../acupuncture/points/te5-waiguan.md) · [양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md) · [태충 LR3](../acupuncture/points/lr3-taichong.md)
 
-[중완 CV12](../acupuncture/points/cv12-zhongwan.md) · [관원 CV4](../acupuncture/points/cv4-guanyuan.md) · [기해 CV6](../acupuncture/points/cv6-qihai.md) · [백회 GV20](../acupuncture/points/gv20-baihui.md) · [인당 EX-HN3](../acupuncture/points/ex-hn3-yintang.md)
+[중완 CV12](../acupuncture/points/cv12-zhongwan.md) · [관원 CV4](../acupuncture/points/cv4-guanyuan.md) · [기해 CV6](../acupuncture/points/cv6-qihai.md) · [백회 GV20](../acupuncture/points/gv20-baihui.md) · [인당 EX-HN3](../acupuncture/extra-points/ex-hn3.md)
 
 ## 상세 경혈 — 22단계 보강
 
