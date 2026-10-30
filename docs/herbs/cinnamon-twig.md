@@ -39,6 +39,8 @@ last_reviewed: 2026-09-18
 | [계지복령환](../formulas/guizhi-fuling-wan.md) | 복령·목단피·도인·작약 | 하복부 어혈·징가 구조에서 온통과 활혈의 연결점 |
 | [온경탕](../formulas/wenjing-tang.md) | 오수유·당귀·천궁·작약·목단피·아교·맥문동 등 | 충임허한·어혈·조열을 함께 다루는 복합 구조에서 온경통맥 |
 
+계지탕의 《상한론》 수록형은 계지와 작약을 각각 3량으로 둡니다. 소건중탕에서는 계지 3량에 작약 6량을 쓰고 교이를 더해, 영위 조화의 골격을 허로성 복통과 복부 당김을 완화하는 배합으로 바꿉니다. 소건중탕의 감초·대조 수록량은 《상한론》과 《금궤요략》 사이에 차이가 있으므로 원전을 나누어 봅니다. [계지탕 원문](../formulas/guizhi-tang.md#source-dose-original) · [소건중탕 두 수록형](../formulas/xiaojianzhong-tang.md#source-dose-original)
+
 ## 계지·육계는 왜 구분하는가
 
 | 구분 | 계지 | [육계](cinnamon-bark.md) |
