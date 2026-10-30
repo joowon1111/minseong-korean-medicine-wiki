@@ -1569,7 +1569,7 @@
         },
         {
           "label": "배합 예",
-          "value": "용담 + 황금·치자 — 쓴맛과 찬 성질로 화열·습열을 다루는 방향 / 용담 + 택사·차전자 — 청열과 습의 배출을 연결하는 방향"
+          "value": "용담 + 황금·치자 — 후대 수록형에서 화열·습열을 다루는 방향 / 용담 + 택사·차전자 — 청열과 습의 배출을 연결하는 방향"
         }
       ],
       "source": "/herbs/gentian-root/",
@@ -11268,6 +11268,12 @@
       "context": "생약명: Coptidis Rhizoma",
       "options": [
         {
+          "text": "용담·용담초(龍膽)",
+          "owner": "용담·용담초(龍膽)",
+          "ownerId": "herb-gentian-root",
+          "source": "/herbs/gentian-root/"
+        },
+        {
           "text": "대황(大黃)",
           "owner": "대황(大黃)",
           "ownerId": "herb-rhubarb",
@@ -11280,19 +11286,13 @@
           "source": "/herbs/coptis/"
         },
         {
-          "text": "용담·용담초(龍膽)",
-          "owner": "용담·용담초(龍膽)",
-          "ownerId": "herb-gentian-root",
-          "source": "/herbs/gentian-root/"
-        },
-        {
           "text": "지모(知母)",
           "owner": "지모(知母)",
           "ownerId": "herb-anemarrhena",
           "source": "/herbs/anemarrhena/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "황련(黃連) — 생약명: Coptidis Rhizoma",
       "source": "/herbs/coptis/"
     },
@@ -15633,16 +15633,16 @@
           "source": "/herbs/scrophularia/"
         },
         {
-          "text": "대황(大黃)",
-          "owner": "대황(大黃)",
-          "ownerId": "herb-rhubarb",
-          "source": "/herbs/rhubarb/"
-        },
-        {
           "text": "용담·용담초(龍膽)",
           "owner": "용담·용담초(龍膽)",
           "ownerId": "herb-gentian-root",
           "source": "/herbs/gentian-root/"
+        },
+        {
+          "text": "대황(大黃)",
+          "owner": "대황(大黃)",
+          "ownerId": "herb-rhubarb",
+          "source": "/herbs/rhubarb/"
         },
         {
           "text": "황련(黃連)",
@@ -15651,7 +15651,7 @@
           "source": "/herbs/coptis/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "용담·용담초(龍膽) — 생약명: Gentianae Radix et Rhizoma",
       "source": "/herbs/gentian-root/"
     },
@@ -24175,6 +24175,12 @@
           "source": "/herbs/anemarrhena/"
         },
         {
+          "text": "용담·용담초(龍膽)",
+          "owner": "용담·용담초(龍膽)",
+          "ownerId": "herb-gentian-root",
+          "source": "/herbs/gentian-root/"
+        },
+        {
           "text": "대황(大黃)",
           "owner": "대황(大黃)",
           "ownerId": "herb-rhubarb",
@@ -24185,15 +24191,9 @@
           "owner": "천화분(天花粉)",
           "ownerId": "herb-trichosanthes-root",
           "source": "/herbs/trichosanthes-root/"
-        },
-        {
-          "text": "용담·용담초(龍膽)",
-          "owner": "용담·용담초(龍膽)",
-          "ownerId": "herb-gentian-root",
-          "source": "/herbs/gentian-root/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "대황(大黃) — 생약명: Rhei Radix et Rhizoma",
       "source": "/herbs/rhubarb/"
     },
