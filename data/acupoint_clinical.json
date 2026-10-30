@@ -5206,7 +5206,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다.",
-      "clinical_path": "pillar/respiratory-rhinitis-immune.md"
+      "clinical_path": "pillar/respiratory-rhinitis-immune.md",
+      "clinical_detail": "기침·가래의 빈도와 야간 각성, 활동 시 숨참 및 평소 치료를 함께 확인합니다. 폐수는 제3흉추 높이의 배수혈로 제5흉추 높이의 [심수 BL15](bl15.md)와 표지를 구별합니다. 팔꿈치의 [척택 LU5](lu5-chize.md)과 호흡 증상을 다루는 국소·원위 배혈을 비교하고, 심한 호흡곤란이나 흉통은 신속히 평가합니다."
     },
     "BL14": {
       "name": "궐음수",
@@ -5239,7 +5240,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "잠드는 시간·중간 각성·낮 기능과 두근거림의 발생 상황을 기록합니다.",
-      "clinical_path": "conditions/insomnia.md"
+      "clinical_path": "conditions/insomnia.md",
+      "clinical_detail": "수면은 잠들기까지 걸리는 시간·중간 각성·낮 기능을, 두근거림은 시작과 지속시간·동반 증상을 나누어 기록합니다. 제5흉추 높이의 심수와 제3흉추 높이의 [폐수 BL13](bl13-feishu.md), 손목의 [신문 HT7](ht7-shenmen.md)을 위치와 기존 지침의 배혈 맥락에서 비교합니다. 흉통·실신이나 심한 호흡곤란이 동반된 두근거림은 신속한 평가가 필요합니다."
     },
     "BL16": {
       "name": "독수",
@@ -5389,7 +5391,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "clinical_path": "conditions/functional-dyspepsia.md",
+      "clinical_detail": "위완부·옆구리 통증은 위치와 식사·움직임의 관계, 구역·발열 등 동반 증상을 확인합니다. 제9흉추 높이의 간수와 한 마디 아래 [담수 BL19](bl19.md), 제11흉추 높이의 [비수 BL20](bl20-pishu.md)를 구별합니다. 수면 문제가 동반되면 위 지침에서 변증에 따라 추가한 배혈과 수면 경과를 함께 살핍니다."
     },
     "BL19": {
       "name": "담수",
@@ -5404,8 +5407,9 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "보행·발목 운동과 국소 압통, 저림·근력 변화를 함께 평가합니다.",
-      "clinical_path": "clinical-anatomy/mps-calf.md"
+      "clinical": "구역·흉부 불편의 양상과 수면을 확인하고, 하지 방사통은 통증 분포·감각·근력을 따로 평가합니다.",
+      "clinical_path": "conditions/insomnia.md",
+      "clinical_detail": "구역과 흉부 불편은 발생 시점·동반 증상과 원인을 살피고, 다리 방사통이 있다면 통증 분포·감각·근력을 따로 확인합니다. 제10흉추 높이의 담수는 바로 위 [간수 BL18](bl18-ganshu.md), 아래 [비수 BL20](bl20-pishu.md)와 구별합니다. 수면 불편에는 위에 소개된 심담기허 변증별 배혈의 전체 맥락을 참고합니다."
     },
     "BL20": {
       "name": "비수",

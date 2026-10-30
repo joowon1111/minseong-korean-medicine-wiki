@@ -7624,8 +7624,8 @@
       ],
       "research": [],
       "assessment": {
-        "text": "보행·발목 운동과 국소 압통, 저림·근력 변화를 함께 평가합니다.",
-        "path": "clinical-anatomy/mps-calf.md",
+        "text": "구역·흉부 불편의 양상과 수면을 확인하고, 하지 방사통은 통증 분포·감각·근력을 따로 평가합니다.",
+        "path": "conditions/insomnia.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
