@@ -1322,7 +1322,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다.",
-      "clinical_path": "conditions/headache.md"
+      "clinical_path": "conditions/headache.md",
+      "clinical_detail": "두통의 위치·빈도·동반 오심을 기록하고 발등 통증이 있으면 압통과 보행의 변화를 별도로 확인합니다. 발등의 족임읍과 손목 위의 [외관 TE5](te5-waiguan.md)은 위에 소개한 팔맥교회혈 배합입니다. 머리 옆의 [솔곡 GB8](gb8.md)과는 국소혈·원위혈의 위치를 비교합니다."
     },
     "SP1": {
       "name": "은백",
@@ -2473,7 +2474,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "시력 변화와 충혈·통증의 원인 평가를 먼저 연결하고 눈 주위 불편의 경과를 봅니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "clinical_detail": "눈썹 위 이마의 양백과 머리카락 경계에 가까운 [두유 ST8](st8.md), 눈썹 안쪽의 [찬죽 BL2](bl2.md)를 위치로 구별합니다. 두통의 시작과 빈도, 시력 변화·충혈·통증을 함께 확인하고 갑작스러운 시력 저하나 심한 눈 통증은 신속한 안과 평가로 연결합니다."
     },
     "TE23": {
       "name": "사죽공",
@@ -2755,7 +2757,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다.",
-      "clinical_path": "conditions/headache.md"
+      "clinical_path": "conditions/headache.md",
+      "clinical_detail": "이마와 관자 부위의 통증 위치, 빈도·지속시간과 빛 민감성·오심을 확인합니다. 이마 머리카락 경계의 두유는 귀 위쪽의 [솔곡 GB8](gb8.md), 눈썹 위의 [양백 GB14](gb14.md)과 표지가 다릅니다. 갑작스럽고 심한 두통이나 새로운 시력 변화에는 원인 평가가 우선입니다."
     },
     "GB4": {
       "name": "함염",
@@ -2836,7 +2839,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다.",
-      "clinical_path": "conditions/headache.md"
+      "clinical_path": "conditions/headache.md",
+      "clinical_detail": "관자와 머리 옆쪽 통증의 위치·두통일수·지속시간, 욱신거림과 오심·빛과 소리 민감성을 확인해 편두통과 다른 두통을 구분합니다. 귀 위의 솔곡은 이마 모서리의 [두유 ST8](st8.md), 목 뒤의 [풍지 GB20](gb20-fengchi.md)과 위치가 다릅니다. 갑자기 벼락처럼 시작한 두통이나 마비·의식 변화가 있으면 즉시 응급 평가가 필요합니다."
     },
     "GB9": {
       "name": "천충",

@@ -138,10 +138,10 @@ last_reviewed: 2026-09-19
 ### 침 치료 {#_11}
 
 - **풍지(GB20)·천주(BL10)**: 후두부·목 긴장과 경추성 요소
-- **[태양(EX-HN5)](../acupuncture/extra-points/ex-hn5.md)·두유(ST8)**: 측두부·전두부 통증
+- **[태양 EX-HN5](../acupuncture/extra-points/ex-hn5.md)·[두유 ST8](../acupuncture/points/st8.md)·[솔곡 GB8](../acupuncture/points/gb8.md)**: 측두부·전두부 통증
 - **백회(GV20)·[인당](../acupuncture/extra-points/ex-hn3.md)**: 두중감·수면·자율신경 증상
 - **합곡(LI4)·태충(LR3)**: 전신 긴장과 간울·상부 통증
-- **외관(TE5)·족임읍(GB41)**: 측두부 소양경 두통
+- **[외관 TE5](../acupuncture/points/te5-waiguan.md)·[족임읍 GB41](../acupuncture/points/gb41.md)**: 측두부 소양경 두통
 - **내관(PC6)·족삼리(ST36)**: 메스꺼움·소화저하 동반
 
 2025년 메타분석은 편두통 예방에서 침과 경구약을 비교해 발작 빈도·편두통일·지속시간과 삶의 질에 대한 긍정적 결과를 보고했습니다(PMID **40406034**). 2024년 연구는 편두통 침 치료의 횟수와 기간을 분석해 일정한 치료 과정의 중요성을 제시했습니다(PMID **39243985**).
