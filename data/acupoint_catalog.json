@@ -3679,8 +3679,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-        "path": "conditions/functional-dyspepsia.md",
+        "text": "복통과 배변 빈도·변의 형태를 확인하고 체중감소·혈변 등 원인 평가가 필요한 소견을 살핍니다.",
+        "path": "symptom-integrated/digestive.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
