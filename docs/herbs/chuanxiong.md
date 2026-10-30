@@ -86,6 +86,6 @@ last_reviewed: 2026-09-16
 - [보혈·활혈 본초 비교](categories/blood.md)
 - [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
 
-**연구 식별자:** PMID 40235541 · PMID 39180449
+2024년 [*Ligusticum chuanxiong* 성분·약리·독성 고찰](https://pubmed.ncbi.nlm.nih.gov/39180449/)은 중국 천궁 원료의 연구를 정리합니다. 국내에서 사용하는 천궁과 비교할 때는 앞의 기원종·성분 차이를 함께 확인합니다. **추가 연구 식별자:** PMID 40235541.
 
 > 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
