@@ -28,20 +28,6 @@ description: 의이인의 건비삼습·제비, 삼령백출산·태음조위탕
 
 삼령백출산이 비위 허약과 묽은변을 함께 살피는 데 비해, 삼인탕은 몸이 무겁고 가슴이 답답하며 식욕이 떨어지는 습온의 맥락입니다. 태음조위탕은 사상의학의 태음인 병증을 기준으로 살핍니다. 일반 방제와 사상처방은 각각의 진단 체계에 따라 읽습니다.
 
-→ [본초 찾기](../herbal-integrated/herbs.md)  
-→ [방제 찾기](../herbal-integrated/formulas.md)
-
-> 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
-
-<!-- MINSEONG_ONE_SHOT_FIX_V2 -->
-## 관련 핵심 문서
-
-- [본초 찾기](../herbal-integrated/herbs.md)
-- [본초 비교·감별](../herbal-integrated/herb-comparisons.md)
-- [방제 찾기](../herbal-integrated/formulas.md)
-
-<!-- QUALITY_DEPTH_05_START -->
-
 ## 본초를 더 깊게 이해하기
 
 의이인은 ‘물을 빼는 약’ 한 가지로 요약하기보다, **건비·삼습·제비가 어떤 배합에서 강조되는지**를 함께 읽습니다.
@@ -66,10 +52,14 @@ description: 의이인의 건비삼습·제비, 삼령백출산·태음조위탕
 - [홍콩침례대 의이인 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00219) — 기원·가공·전통 활용
 - [복용 안전 안내](../herbal-integrated/safety.md)
 
-<!-- QUALITY_DEPTH_05_END -->
-
 ## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
 
 의이인의 건비·이습 역할을 태음조위탕 등 실제 처방 배합과 연결해 봅니다. 약재 하나나 부종의 변화를 곧바로 체지방 감량 효과로 해석하지 않습니다.
 
 [비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)
+
+## 관련 핵심 문서
+
+[본초 찾기](../herbal-integrated/herbs.md) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [방제 찾기](../herbal-integrated/formulas.md)
+
+> 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
