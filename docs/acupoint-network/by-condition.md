@@ -54,7 +54,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 ## 요통·요부 뻣뻣함
 **방광경·신경·독맥**이 중심입니다.
 
-신수 BL23 · 대장수 BL25 · [위중 BL40](../acupuncture/points/bl40-weizhong.md) · 곤륜 BL60 · [태계 KI3](../acupuncture/points/ki3-taixi.md) · 명문 GV4
+[신수 BL23](../acupuncture/points/bl23-shenshu.md) · [대장수 BL25](../acupuncture/points/bl25-dachangshu.md) · [위중 BL40](../acupuncture/points/bl40-weizhong.md) · [곤륜 BL60](../acupuncture/points/bl60-kunlun.md) · [태계 KI3](../acupuncture/points/ki3-taixi.md) · 명문 GV4
 
 **대표 배혈:** 대장수 + 위중 + 곤륜. 허증·냉감·회복저하가 뚜렷하면 신수·태계·명문을 함께 봅니다.
 
@@ -72,7 +72,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 ## 목·어깨·견갑부
 **담경·방광경·소장경·대장경·삼초경**이 교차하는 영역입니다.
 
-풍지 GB20 · 천주 BL10 · 견정 GB21 · 천종 SI11 · 견우 LI15 · 후계 SI3 · 외관 TE5 · 합곡 LI4
+풍지 GB20 · 천주 BL10 · 견정 GB21 · [천종 SI11](../acupuncture/points/si11-tianzong.md) · 견우 LI15 · 후계 SI3 · 외관 TE5 · 합곡 LI4
 
 국소 압통·가동범위·방사통 방향을 먼저 확인하고 경맥 유주에 따라 원위혈을 조합합니다.
 

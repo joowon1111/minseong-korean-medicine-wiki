@@ -1378,7 +1378,7 @@
       ],
       "assessment": {
         "text": "신기능·동반 질환과 증상 변화는 담당 진료와 함께 평가합니다.",
-        "path": "acupuncture-integrated/evidence.md",
+        "path": "conditions/tennis-elbow.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -9716,8 +9716,8 @@
         }
       ],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "발목 통증·압통과 보행을 확인하고 요통은 움직임과 하지 증상을 함께 평가합니다.",
+        "path": "conditions/low-back-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
