@@ -37,7 +37,7 @@ polysaccharides, steroids 등 다양한 성분이 연구되며 특히 **Polyporu
 2013년 종합 리뷰에서는 저령의 전통적 활용, phytochemistry, pharmacology, 약동학 및 품질관리를 체계적으로 정리했습니다. 2021년에는 저령 polysaccharides의 구조와 면역·항산화 등 생리활성을 종합한 리뷰도 발표됐습니다.
 
 ## 오령산에서의 역할
-저령은 복령·택사와 함께 이수를 맡고, 백출·계지와 결합해 오령산의 수습 배합을 이룹니다.
+《상한론》 오령산 수록형의 저령은 껍질을 제거한 18수이며 복령·백출과 같은 양으로 기록됩니다. 저령탕은 저령·복령·택사·활석·아교를 각 1량으로 둡니다. 이 기록은 각 처방의 고전 배합량이며 현대 과립제나 탕약의 일일 복용량으로 바로 환산하지 않습니다. [오령산 원문](../formulas/wuling-san.md#source-dose-original) · [저령탕 원문](../formulas/zhuling-tang.md#source-dose-original)
 
 → [오령산](../formulas/wuling-san.md)  
 → [복령](poria.md)
