@@ -2635,7 +2635,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "개구량·씹을 때 통증과 치아·턱관절 원인을 함께 확인합니다.",
-      "clinical_path": "conditions/temporomandibular-disorder.md"
+      "clinical_path": "conditions/temporomandibular-disorder.md",
+      "clinical_detail": "이를 다물 때 교근의 움직임과 압통을 확인하고, 입을 벌리는 범위·씹을 때 통증을 같은 조건에서 비교합니다. 턱각 앞위쪽의 협거와 광대활 아래의 [하관 ST7](st7.md), 귀 앞의 [청궁 SI19](si19.md)은 표지가 다릅니다. 치통·부종이 뚜렷하면 치아와 잇몸의 원인도 평가합니다."
     },
     "ST7": {
       "name": "하관",
@@ -2651,7 +2652,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "개구량·씹을 때 통증과 치아·턱관절 원인을 함께 확인합니다.",
-      "clinical_path": "conditions/temporomandibular-disorder.md"
+      "clinical_path": "conditions/temporomandibular-disorder.md",
+      "clinical_detail": "입을 다문 상태에서 광대활 아래의 하관을 확인하고, 개구량·턱의 움직임·씹을 때 통증과 관절 소리를 함께 살핍니다. 턱각 부근 교근의 [협거 ST6](st6.md), 귀구슬 앞의 [청궁 SI19](si19.md)와 위치를 구별합니다. 귀 증상이 동반되면 청력과 분비물의 변화도 확인합니다."
     },
     "GB3": {
       "name": "상관",
@@ -2683,7 +2685,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "이명·청력 변화의 발생 시점, 좌우와 동반 어지럼을 구분합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "clinical_detail": "청회는 입을 벌렸을 때 귀구슬사이패임 앞쪽에 위치하며, 위의 [청궁 SI19](si19.md)·[이문 TE21](te21.md)과 취혈 표지가 다릅니다. 이명과 청력 변화의 시작·좌우·동반 어지럼을 살피고, 갑작스러운 청력 저하는 즉시 이비인후과 평가로 연결합니다. [돌발성 난청 진료지침](https://pubmed.ncbi.nlm.nih.gov/31369349/)"
     },
     "SI19": {
       "name": "청궁",
@@ -2700,7 +2703,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "이명·청력 변화의 발생 시점, 좌우와 동반 어지럼을 구분합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "clinical_detail": "청궁은 입을 약간 벌렸을 때 귀구슬 중심 앞에서 찾습니다. 위쪽의 [이문 TE21](te21.md), 아래쪽의 [청회 GB2](gb2.md), 귀 뒤의 [예풍 TE17](te17-yifeng.md)과 표지가 다릅니다. 이명·청력 변화의 시작과 좌우, 어지럼을 확인하고 갑작스러운 청력 저하는 즉시 이비인후과 평가로 연결합니다. [돌발성 난청 진료지침](https://pubmed.ncbi.nlm.nih.gov/31369349/)"
     },
     "TE21": {
       "name": "이문",
@@ -2717,7 +2721,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "이명·청력 변화의 발생 시점, 좌우와 동반 어지럼을 구분합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "clinical_detail": "입을 약간 벌려 귀구슬 위 패임의 앞쪽에 있는 이문을 확인합니다. 바로 아래 [청궁 SI19](si19.md), 그 아래 [청회 GB2](gb2.md)와 표지를 비교하고 귀 뒤 [예풍 TE17](te17-yifeng.md)과 구분합니다. 이명·청력 변화의 시작과 좌우, 어지럼을 확인하며 갑작스러운 청력 저하는 즉시 이비인후과 평가로 연결합니다. [돌발성 난청 진료지침](https://pubmed.ncbi.nlm.nih.gov/31369349/)"
     },
     "TE22": {
       "name": "화료",
