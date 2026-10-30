@@ -66,6 +66,10 @@ This atlas indexes the existing canonical point pages and does not create a dupl
 ### 임맥·독맥
 [전중 CV17](../acupuncture/points/cv17-danzhong.md) · [명문 GV4](../acupuncture/points/gv4-mingmen.md) · [대추 GV14](../acupuncture/points/gv14-dazhui.md) · [수구 GV26](../acupuncture/points/gv26-shuigou.md)
 
+### 엉치·골반 — 팔료혈 {#sacral-points}
+
+팔료혈은 좌우 뒤엉치뼈구멍에 위에서 아래로 배열됩니다. 위치와 인접 구조를 비교하려면 [상료 BL31](../acupuncture/points/bl31.md) · [차료 BL32](../acupuncture/points/bl32.md) · [중료 BL33](../acupuncture/points/bl33.md) · [하료 BL34](../acupuncture/points/bl34.md)를 차례로 살펴보세요. 허리·엉치의 움직임과 통증 분포는 [요통 평가](../conditions/low-back-pain.md)와 [엉치·둔부 통증 평가](../conditions/buttock-pain.md)로 이어집니다. 중료 문서에서는 복압성 요실금에 대한 중료·회양 전침 연구도 확인할 수 있습니다.
+
 ## 증상과 배혈로 연결
 
 - 소화·회복: 족삼리 · 중완 · 내관 · 천추 · 공손
