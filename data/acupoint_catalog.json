@@ -3049,7 +3049,7 @@
       ],
       "assessment": {
         "text": "복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다.",
-        "path": "acupuncture-integrated/evidence.md",
+        "path": "conditions/dyspepsia.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],

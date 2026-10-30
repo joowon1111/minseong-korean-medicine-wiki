@@ -364,7 +364,8 @@
         }
       ],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "수면은 잠들기까지 걸리는 시간·중간 각성·낮 기능을 나누고 두근거림이 언제 동반되는지 기록합니다. 손목 척측의 신문과 손바닥의 [소부 HT8](ht8.md)는 같은 심경의 다른 혈이며, 아래팔의 [내관 PC6](pc6-neiguan.md)은 심포경 혈입니다. 위 불면 진료지침은 여러 혈을 함께 다룬 배혈 자료입니다."
     },
     "HT5": {
       "name": "통리",
@@ -450,7 +451,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "clinical_path": "conditions/functional-dyspepsia.md",
+      "clinical_detail": "식사와 관련된 오심은 발생 시점·구토 횟수·수분 섭취를 기록하고, 수술 후라면 수술 종류와 마취·항구토제 사용을 따로 확인합니다. 앞팔의 내관은 [외관 TE5](te5-waiguan.md)와 앞뒤로 대응하며, 흉민·수면 불편을 함께 평가할 때는 [신문 HT7](ht7-shenmen.md)의 위치와 배혈 맥락도 비교합니다."
     },
     "PC5": {
       "name": "간사",
@@ -525,7 +527,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "기침과 가래의 빈도, 야간 각성 및 활동할 때의 숨참을 확인합니다. 코 주변 국소혈인 [영향 LI20](li20-yingxiang.md)과 손목의 열결을 비교하고, 인후·흉격과 관련된 [조해 KI6](ki6-zhaohai.md)와의 팔맥교회혈 배합은 위에 제시한 전통 문헌의 범위에서 읽습니다."
     },
     "TE5": {
       "name": "외관",
@@ -1743,7 +1746,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인해 배혈을 검토합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md"
+      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "clinical_detail": "월경 주기와 통증·출혈의 시점, 임신 가능성을 확인합니다. 피부 증상이 주된 경우에는 발진 부위·지속시간과 유발 요인을 따로 살핍니다. 무릎 위안쪽 혈해와 종아리 안쪽의 [삼음교 SP6](sp6-sanyinjiao.md)는 표지와 평가 부위가 다릅니다."
     },
     "ST35": {
       "name": "독비",
@@ -1829,7 +1833,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "어지럼·가래·흉부 불편은 각각 발생 양상과 동반 증상을 평가하고, 기존 정신건강 진료와 약물 사용도 확인합니다. 풍륭의 담음 관련 설명은 전통 변증의 맥락으로 읽으며, 위의 임상시험 사용 빈도 분석과 구분합니다. 같은 위경의 [족삼리 ST36](st36-zusanli.md)과 위치·특정혈 분류를 비교합니다."
     },
     "GB34": {
       "name": "양릉천",
@@ -1854,7 +1859,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "무릎 바깥쪽의 압통과 굽힘, 계단 오르기·의자에서 일어나기 제한을 비교합니다. 무릎 아래 앞가쪽의 [족삼리 ST36](st36-zusanli.md)와 비골두 앞아래의 양릉천은 표지와 주변 구조가 다릅니다. 위에 소개한 요통 지침의 배혈과 관절 연구의 사용 빈도 자료는 서로 다른 근거로 읽습니다."
     },
     "SP9": {
       "name": "음릉천",
@@ -2004,7 +2010,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "허리 통증의 위치, 다리로 뻗치는 양상, 앉기·걷기의 제한을 함께 기록합니다. 무릎 뒤 위중은 허리의 국소혈과 구분해 살피며, 2020년 만성 비특이적 요통 지침에서 제시한 것은 전체 배혈입니다. 진행하는 다리 근력 저하나 새 배뇨·배변 장애는 즉시 원인을 평가합니다."
     },
     "ST38": {
       "name": "조구",
@@ -2502,7 +2509,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "코막힘·콧물의 시간대와 수면·환경 노출과의 관계를 함께 봅니다.",
-      "clinical_path": "pillar/respiratory-rhinitis-immune.md"
+      "clinical_path": "pillar/respiratory-rhinitis-immune.md",
+      "clinical_detail": "코막힘·콧물의 좌우 차이, 시간대, 수면과 환경 노출을 기록합니다. 코옆의 영향은 국소혈이고 [합곡 LI4](li4-hegu.md)과 [열결 LU7](lu7-lieque.md)은 손·팔의 원위혈이므로 위치와 배혈 목적을 구분합니다. 한쪽의 지속적 코막힘이나 반복되는 코피는 원인 평가를 함께 고려합니다."
     },
     "ST4": {
       "name": "지창",
@@ -3264,7 +3272,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "후두부 두통과 목 통증은 시작 시점·통증 방향·목 회전 제한을 함께 기록합니다. 뒤통수 아래 풍지와 어깨 위의 [견정 GB21](gb21-jianjing.md)은 표지와 주변 해부가 달라 각각 확인합니다. 혈압 측정과 신경학적 평가가 필요한 경우를 구분하고, 갑작스럽고 심한 두통이나 마비·언어장애는 즉시 응급 평가합니다."
     },
     "GV14": {
       "name": "대추",
@@ -3795,7 +3804,7 @@
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
       "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다.",
-      "clinical_path": "acupuncture-integrated/evidence.md",
+      "clinical_path": "conditions/dyspepsia.md",
       "profile_kind": "domestic_review",
       "references": [
         {
@@ -3806,7 +3815,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "복통의 위치와 배변 전후 변화, 변의 형태·빈도를 기록합니다. 배꼽 양옆의 천추와 윗배 정중선의 [중완 CV12](cv12-zhongwan.md), 하지의 [족삼리 ST36](st36-zusanli.md)는 위치와 평가 부위가 다릅니다. 혈변·체중감소·지속적인 심한 복통은 원인 평가에 연결합니다."
     },
     "CV6": {
       "name": "기해",

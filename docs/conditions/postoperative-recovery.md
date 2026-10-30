@@ -218,11 +218,13 @@ related_reading:
 
 | 목표 | 치료 방향의 예 |
 |---|---|
-| 오심·구토 | 내관(PC6), 족삼리(ST36) 등 — [PONV 근거](../authority/conditions/postoperative-nausea-vomiting.md) |
+| 오심·구토 | [내관 PC6](../acupuncture/points/pc6-neiguan.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md) 등 — [PONV 근거](../authority/conditions/postoperative-nausea-vomiting.md) |
 | 장운동·복부팽만 | 족삼리(ST36), 상거허(ST37) 등 — [대장수술 후 전침 RCT](../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial) |
 | 통증·근육 긴장 | 상처를 피한 연관 근육과 원위 혈자리 |
 | 피로·기력 | 족삼리(ST36), 관원(CV4), 삼음교(SP6) 등 |
 | 불면·불안 | 신문(HT7), 내관(PC6), 인당 등 |
+
+수술 후 이미 발생한 중등도 이상 오심·구토에 대해서도 내관 경피 전기자극의 무작위시험이 있습니다. 갑상선·전경부 수술을 받은 여성 232명에서 착용형 자극과 메토클로프라미드를 비교한 연구로, 예방 연구나 자침 연구와 구분해 [대상·방법·결과](../acupuncture/points/pc6-neiguan.md#postoperative-nausea-treatment)를 확인할 수 있습니다.
 
 - 상처·배액관·포트·금속고정물 바로 위에는 직접 시술하지 않습니다.
 - 발열·감염, 심한 혈소판감소, 항응고제 사용 시 출혈위험을 확인합니다.
