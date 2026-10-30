@@ -1409,7 +1409,7 @@
         },
         {
           "label": "배합 예",
-          "value": "온경탕 — 온경산한과 당귀·작약·맥문동 등의 양혈·양음이 함께 작동하는 구조 / 조경종옥탕 — 건강 등의 온경과 이기·양혈 배합을 임신 준비 단계에서 구분"
+          "value": "온경탕 — 온경산한과 당귀·작약·맥문동 등의 양혈·양음이 함께 작동하는 구조 / 조경종옥탕 — 이기·양혈 배합에 온경산한을 더하며 건강은 수록본과 가미 조건을 확인"
         }
       ],
       "source": "/herbs/evodia-fruit/",
@@ -9924,6 +9924,12 @@
       "context": "생약명: Cinnamomi Cortex",
       "options": [
         {
+          "text": "오수유(吳茱萸)",
+          "owner": "오수유(吳茱萸)",
+          "ownerId": "herb-evodia-fruit",
+          "source": "/herbs/evodia-fruit/"
+        },
+        {
           "text": "육계(肉桂)",
           "owner": "육계(肉桂)",
           "ownerId": "herb-cinnamon-bark",
@@ -9940,15 +9946,9 @@
           "owner": "부자(附子)",
           "ownerId": "herb-aconite",
           "source": "/herbs/aconite/"
-        },
-        {
-          "text": "오수유(吳茱萸)",
-          "owner": "오수유(吳茱萸)",
-          "ownerId": "herb-evodia-fruit",
-          "source": "/herbs/evodia-fruit/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "육계(肉桂) — 생약명: Cinnamomi Cortex",
       "source": "/herbs/cinnamon-bark/"
     },
@@ -14514,19 +14514,19 @@
           "source": "/herbs/cinnamon-bark/"
         },
         {
-          "text": "건강(乾薑)",
-          "owner": "건강(乾薑)",
-          "ownerId": "herb-dried-ginger",
-          "source": "/herbs/dried-ginger/"
-        },
-        {
           "text": "오수유(吳茱萸)",
           "owner": "오수유(吳茱萸)",
           "ownerId": "herb-evodia-fruit",
           "source": "/herbs/evodia-fruit/"
+        },
+        {
+          "text": "건강(乾薑)",
+          "owner": "건강(乾薑)",
+          "ownerId": "herb-dried-ginger",
+          "source": "/herbs/dried-ginger/"
         }
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "오수유(吳茱萸) — 전통 효능: 산한지통·강역지구",
       "source": "/herbs/evodia-fruit/"
     },
