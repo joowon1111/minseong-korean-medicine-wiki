@@ -1,6 +1,6 @@
 ---
 title: 노근(蘆根)
-description: 노근의 뿌리줄기 약용과 청열생진·제번지구 전통 효능을 정리합니다.
+description: 노근의 갈대 뿌리줄기 기원, 청열생진·제번지구 효능, 상국음·은교산에서의 역할과 죽여·맥문동 감별을 정리합니다.
 tags: [본초학, 노근, 청열, 생진]
 status: 검토완료
 ---
@@ -35,6 +35,8 @@ status: 검토완료
 ## 처방과 품질
 
 [상국음](../formulas/sangju-yin.md)에서는 상엽·국화·행인 등과 함께 청열생진을 보완합니다. 기침과 함께 인후의 건조·갈증이 있는지, 외감과 열의 정도가 어떠한지 전체 배합 안에서 살핍니다. 생품·건조품과 절편의 형태가 다를 수 있으므로 기원식물, 약용 부위, 이물과 저장 상태를 확인합니다. 심한 탈수·고열·지속 구토는 한약재 정보만으로 판단하지 않습니다.
+
+[은교산](../formulas/yinqiao-san.md)의 《온병조변》 수록 제법에서는 신선한 노근을 달인 물로 처방 산제를 달입니다. 노근이 다른 약미와 같은 방식으로 산제에 들어가는지, 별도로 탕액을 만드는지 제법을 구분하면 원문을 더 정확하게 읽을 수 있습니다. [대만 국가중의약연구소 은교산 제법](https://www.nricm.edu.tw/p/406-1000-6552%2Cr11.php?Lang=zh-tw)
 
 - [HKBU 약용식물 자료에서 노근 검색](https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_pinyin&lang=cht&qry=蘆根)
 - [생진 본초군](../herbal-integrated/herbs.md) · [죽엽](bamboo-leaf.md) · [본초 안전](../herbal-integrated/safety.md)
