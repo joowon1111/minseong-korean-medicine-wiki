@@ -17,6 +17,8 @@ last_reviewed: 2026-09-18
 
 우슬·회우슬과 천우슬은 유통명만 비슷할 뿐 *Achyranthes*와 *Cyathula* 등 기원종과 전통적 강조점이 다를 수 있습니다. 국내 처방의 실제 원료, 연구 논문의 학명과 표본, 약전 규격을 맞춰 봅니다. → [홍콩침례대 우슬 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00016)
 
+[회우슬 약재 자료](https://www.nricm.edu.tw/htcm/catalog/tcm_herbal_details53f2.html?id=1419)와 [천우슬 약재 자료](https://www.nricm.edu.tw/htcm/catalog/tcm_herbal_detailsddd9.html?id=1418)는 각각의 원료를 따로 제시합니다. 《경악전서》 [좌귀환의 수록명은 천우슬](../formulas/zuogui-wan.md#source-dose-original)이므로, 현대 제품이나 연구에서 다른 우슬을 썼다면 그 사실을 명시합니다. 원문 약명과 현재 적용 공정서의 허용 기원은 각각 확인합니다.
+
 생용·주제·염제 등 포제품을 기록할 때는 “우슬” 한 단어로 합치지 않고 **기원, 보조재, 가열법, 처방에서 의도한 활혈·보익·하행의 비중**을 함께 적습니다. 포제 차이가 특정 임상효과를 보장한다고 단정하지 않습니다.
 
 ## 효능에서 주치로 읽기

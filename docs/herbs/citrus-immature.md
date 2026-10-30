@@ -48,6 +48,8 @@ description: 지실의 파기소적·화담산비 효능과 주치, 지각·후�
 
 → [후박·지실·목향·사인 비교](../herbal-integrated/herb-comparisons.md#qi-regulating-herbs)
 
+지실과 청피가 모두 미성숙 감귤류와 연결되더라도 같은 품목은 아닙니다. [청피](green-citrus-peel.md)는 소간파기·소적화체, 지실은 실증성 비만과 담결을 푸는 파기소적·화담산비의 배합을 중심으로 비교합니다. [진피](citrus-peel.md)는 성숙한 과피의 이기건비·조습화담을 살핍니다. 채취 시기뿐 아니라 실제 식물 기원과 과실·과피의 규격을 함께 확인합니다.
+
 ## 기원·수치·품질 기록 {#processing}
 
 한국·중국·일본 및 연구 문헌에서 `지실`, `Zhishi`, `Aurantii Fructus Immaturus`가 가리키는 원료 범위는 완전히 같지 않을 수 있습니다. *Citrus aurantium*, *Citrus sinensis*, 탱자나무 계통 등 **기원종 차이**가 성분 조성과 결과 해석에 영향을 줄 수 있으므로 원료를 먼저 확인합니다.
