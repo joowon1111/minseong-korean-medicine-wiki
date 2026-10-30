@@ -4592,7 +4592,7 @@
       ],
       "assessment": {
         "text": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인해 배혈을 검토합니다.",
-        "path": "acupuncture-integrated/by-symptom.md",
+        "path": "conditions/dysmenorrhea.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],

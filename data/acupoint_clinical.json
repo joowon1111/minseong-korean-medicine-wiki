@@ -1931,7 +1931,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "부종의 좌우·시간대·체중 변화와 동반 증상을 확인합니다.",
-      "clinical_path": "acupuncture-integrated/followup.md"
+      "clinical_path": "acupuncture-integrated/followup.md",
+      "clinical_detail": "부종은 시작 시점·좌우·하루 중 변화와 체중, 호흡곤란·복용약을 함께 확인합니다. [태계 KI3](ki3-taixi.md) 위의 복류와 무릎 아래의 [음릉천 SP9](sp9-yinlingquan.md)는 위치가 다릅니다. 갑자기 한쪽 다리가 붓고 아프면 혈전 등 원인을 신속히 평가합니다. [WHO 한쪽 다리 부종 안내](https://extranet.who.int/ncdccs/Data/BTN_D1_BHU%20PEN%20protocol.pdf)"
     },
     "KI10": {
       "name": "음곡",
@@ -1964,7 +1965,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "계단·의자에서 일어나기·무릎 굽힘을 같은 조건에서 비교합니다.",
-      "clinical_path": "conditions/knee-pain.md"
+      "clinical_path": "conditions/knee-pain.md",
+      "clinical_detail": "무릎 안쪽 통증의 위치·부종·굽힘과 계단 오르기를 확인합니다. 곡천은 무릎을 굽혔을 때 오금주름 안쪽 끝의 힘줄 안쪽이고, [음릉천 SP9](sp9-yinlingquan.md)은 정강뼈 안쪽 관절융기 아래쪽입니다. 월경이나 외음부 증상이 주된 경우에는 주기·통증·가려움과 원인을 따로 살핍니다."
     },
     "GB38": {
       "name": "양보",
@@ -2088,7 +2090,7 @@
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
       "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "월경 주기·통증 시점·출혈 양상과 임신 가능성을 확인해 배혈을 검토합니다.",
-      "clinical_path": "acupuncture-integrated/by-symptom.md",
+      "clinical_path": "conditions/dysmenorrhea.md",
       "profile_kind": "domestic_review",
       "references": [
         {
@@ -2099,7 +2101,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "월경통의 시작 시점·지속시간·출혈 양상과 진통제 사용, 일상 기능 및 임신 가능성을 확인합니다. 지기는 무릎 안쪽의 [음릉천 SP9](sp9-yinlingquan.md) 아래, [삼음교 SP6](sp6-sanyinjiao.md)는 발목 안쪽 위에 있어 표지가 다릅니다. 통증이 새롭게 심해지거나 월경과 관계없이 지속되면 이차성 원인을 평가합니다."
     },
     "KI8": {
       "name": "교신",
@@ -2328,7 +2331,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "허리 움직임·앉기·걷기와 통증 분포를 기록하고, 방사통은 근력·감각 평가를 함께 봅니다.",
-      "clinical_path": "conditions/low-back-pain.md"
+      "clinical_path": "conditions/low-back-pain.md",
+      "clinical_detail": "허리와 다리 뒤쪽의 통증 분포, 앉기·걷기의 변화와 다리의 감각·근력을 함께 살핍니다. 종아리 뒤가쪽의 비양은 [승산 BL57](bl57-chengshan.md)의 가쪽 아래, [곤륜 BL60](bl60-kunlun.md)의 위쪽에 있습니다. 진행하는 다리 근력 저하나 새로운 배뇨·배변 장애가 있으면 즉시 원인을 평가합니다."
     },
     "BL59": {
       "name": "부양",

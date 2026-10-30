@@ -11,7 +11,7 @@ tags: [경혈, 족소음신경, 특정혈, 침구]
 | 항목 | 내용 |
 |---|---|
 | WHO 코드 | **KI7** |
-| 한글명 | **부류** |
+| 한글명 | **복류(부류)** |
 | 한자 | **復溜** |
 | 소속 경맥 | **족소음신경** |
 | 특정혈 | **오수혈·경혈** |
@@ -89,7 +89,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 
 **임상 평가·배혈 연결**
 
-부종의 좌우·시간대·체중 변화와 동반 증상을 확인합니다. [평가 자료](../../acupuncture-integrated/followup.md)
+부종은 시작 시점·좌우·하루 중 변화와 체중, 호흡곤란·복용약을 함께 확인합니다. [태계 KI3](ki3-taixi.md) 위의 복류와 무릎 아래의 [음릉천 SP9](sp9-yinlingquan.md)는 위치가 다릅니다. 갑자기 한쪽 다리가 붓고 아프면 혈전 등 원인을 신속히 평가합니다. [WHO 한쪽 다리 부종 안내](https://extranet.who.int/ncdccs/Data/BTN_D1_BHU%20PEN%20protocol.pdf) [평가 자료](../../acupuncture-integrated/followup.md)
 
 임상 평가는 아카이브의 평가·기록 안내입니다.
 

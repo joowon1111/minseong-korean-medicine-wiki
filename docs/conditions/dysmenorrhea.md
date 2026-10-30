@@ -155,7 +155,7 @@ last_reviewed: 2026-09-06
 
 ## 침·전침·뜸 치료 {#_12}
 
-- **삼음교(SP6)·지기(SP8)·혈해(SP10)**: 월경통과 혈분 증상
+- **[삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md)·[지기 SP8](../acupuncture/points/sp8.md)·[혈해 SP10](../acupuncture/points/sp10-xuehai.md)**: 월경통과 혈분 증상
 - **관원(CV4)·기해(CV6)·중극(CV3)**: 하복부와 골반 증상
 - **자궁(EX-CA1)·차료(BL32)**: 골반·천골 부위의 통증
 - **태충(LR3)·합곡(LI4)**: 기체와 통증 조절
