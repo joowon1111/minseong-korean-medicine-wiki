@@ -45,6 +45,8 @@ description: 대황의 사하공적·청열·축어와 승기탕·도핵승기�
 
 탈수·전해질 이상·설사·복통을 살피며 임신, 노쇠·허약, 원인불명 급성 복통, 장폐색 가능성에서는 특히 신중해야 합니다. anthraquinone 성분이나 추출물 연구를 전통 처방 전체의 효과로 확대하지 않고, 사람 대상 연구에서는 배변 횟수·변 형태·복통·이상반응을 함께 확인합니다.
 
+[유럽의약품청 대황 뿌리 자료](https://www.ema.europa.eu/en/medicines/herbal/rhei-radix)는 해당 규격 제제의 단기간 변비 사용과 주의사항을 별도로 설명합니다. 특히 원인이 확인되지 않은 복통·구토, 장폐색 가능성 및 이뇨제·감초 등 병용약을 확인합니다. 이 자료의 제제와 고전 복합처방은 구성과 사용 목적이 다르므로 각각의 조건을 살펴야 합니다.
+
 ## 이어서 보기
 
 [사하약 표준 정의](../herbal-integrated/efficacy-indication-standard.md#purgatives) · [변비 임상 안내](../conditions/constipation.md) · [방제 찾기](../herbal-integrated/formulas.md)

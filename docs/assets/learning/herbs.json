@@ -557,7 +557,7 @@
         },
         {
           "label": "배합 예",
-          "value": "향사육군자탕 — 사인·향부자·후박과 이기하고 인삼·백출의 보익을 함께 살핌 / 귀비탕 — 보기양혈·양심안신의 구성 안에서 이기성비를 맡음"
+          "value": "향사육군자탕 — 『방약합편』 수록형에서 사인·향부자·후박과 이기하고 인삼·백출의 보익을 함께 살핌 / 귀비탕 — 보기양혈·양심안신의 구성 안에서 이기성비를 맡음"
         }
       ],
       "source": "/herbs/aucklandia/",
@@ -1613,7 +1613,7 @@
         },
         {
           "label": "배합 예",
-          "value": "분심기음 — 진피·향부자·목향·지각·대복피와 흉복부 기체를 여러 층위에서 소통 / 시호소간산 가감 — 시호·향부자·지각·천궁 등과 소간이기·지통의 방향을 강화"
+          "value": "분심기음 — 진피·향부자·목향·지각·대복피와 흉복부 기체를 여러 층위에서 소통 / 시호소간산과 비교 — 『경악전서』 수록형은 청피 대신 진피·향부자·지각 등으로 기체를 다룸; 청피 가감 여부는 실제 처방을 확인"
         }
       ],
       "source": "/herbs/green-citrus-peel/",
@@ -7559,16 +7559,16 @@
       "context": "생약명: Arecae Pericarpium",
       "options": [
         {
-          "text": "청피(靑皮)",
-          "owner": "청피(靑皮)",
-          "ownerId": "herb-green-citrus-peel",
-          "source": "/herbs/green-citrus-peel/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "청피(靑皮)",
+          "owner": "청피(靑皮)",
+          "ownerId": "herb-green-citrus-peel",
+          "source": "/herbs/green-citrus-peel/"
         },
         {
           "text": "대복피(大腹皮)",
@@ -7644,16 +7644,16 @@
           "source": "/herbs/cyperus/"
         },
         {
-          "text": "후박(厚朴)",
-          "owner": "후박(厚朴)",
-          "ownerId": "herb-magnolia-bark",
-          "source": "/herbs/magnolia-bark/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "후박(厚朴)",
+          "owner": "후박(厚朴)",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/herbs/magnolia-bark/"
         }
       ],
       "answer": 0,
@@ -8469,16 +8469,16 @@
       "context": "전통 효능: 행기지통, 건비소식",
       "options": [
         {
-          "text": "신곡·신국(神麴)",
-          "owner": "신곡·신국(神麴)",
-          "ownerId": "herb-massa-medicata-fermentata",
-          "source": "/herbs/massa-medicata-fermentata/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "신곡·신국(神麴)",
+          "owner": "신곡·신국(神麴)",
+          "ownerId": "herb-massa-medicata-fermentata",
+          "source": "/herbs/massa-medicata-fermentata/"
         },
         {
           "text": "산사(山楂)",
@@ -8493,7 +8493,7 @@
           "source": "/herbs/barley-malt/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "목향(木香) — 전통 효능: 행기지통, 건비소식",
       "source": "/herbs/aucklandia/"
     },
@@ -9275,16 +9275,16 @@
           "source": "/herbs/platycodon/"
         },
         {
-          "text": "시호(柴胡)",
-          "owner": "시호(柴胡)",
-          "ownerId": "herb-bupleurum",
-          "source": "/herbs/bupleurum/"
-        },
-        {
           "text": "목향(木香)",
           "owner": "목향(木香)",
           "ownerId": "herb-aucklandia",
           "source": "/herbs/aucklandia/"
+        },
+        {
+          "text": "시호(柴胡)",
+          "owner": "시호(柴胡)",
+          "ownerId": "herb-bupleurum",
+          "source": "/herbs/bupleurum/"
         },
         {
           "text": "원지(遠志)",
@@ -9293,7 +9293,7 @@
           "source": "/herbs/polygala/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "시호(柴胡) — 생약명: Bupleuri Radix",
       "source": "/herbs/bupleurum/"
     },
@@ -9354,19 +9354,19 @@
           "source": "/herbs/cyperus/"
         },
         {
-          "text": "시호(柴胡)",
-          "owner": "시호(柴胡)",
-          "ownerId": "herb-bupleurum",
-          "source": "/herbs/bupleurum/"
-        },
-        {
           "text": "청피(靑皮)",
           "owner": "청피(靑皮)",
           "ownerId": "herb-green-citrus-peel",
           "source": "/herbs/green-citrus-peel/"
+        },
+        {
+          "text": "시호(柴胡)",
+          "owner": "시호(柴胡)",
+          "ownerId": "herb-bupleurum",
+          "source": "/herbs/bupleurum/"
         }
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "시호(柴胡) — 전통 효능: 화해퇴열, 소간해울, 승거양기",
       "source": "/herbs/bupleurum/"
     },
@@ -10651,16 +10651,16 @@
       "context": "전통 효능: 파기소적, 화담산비",
       "options": [
         {
-          "text": "백강잠(白殭蠶)",
-          "owner": "백강잠(白殭蠶)",
-          "ownerId": "herb-bombyx-batryticatus",
-          "source": "/herbs/bombyx-batryticatus/"
-        },
-        {
           "text": "청피(靑皮)",
           "owner": "청피(靑皮)",
           "ownerId": "herb-green-citrus-peel",
           "source": "/herbs/green-citrus-peel/"
+        },
+        {
+          "text": "백강잠(白殭蠶)",
+          "owner": "백강잠(白殭蠶)",
+          "ownerId": "herb-bombyx-batryticatus",
+          "source": "/herbs/bombyx-batryticatus/"
         },
         {
           "text": "지실(枳實)",
@@ -10869,12 +10869,6 @@
       "context": "전통 효능: 이기건비(理氣健脾), 조습화담(燥濕化痰)",
       "options": [
         {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
-        },
-        {
           "text": "진피(陳皮)",
           "owner": "진피(陳皮)",
           "ownerId": "herb-citrus-peel",
@@ -10891,9 +10885,15 @@
           "owner": "나복자(萊菔子·蘿蔔子)",
           "ownerId": "herb-raphanus-seed",
           "source": "/herbs/raphanus-seed/"
+        },
+        {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "진피(陳皮) — 전통 효능: 이기건비(理氣健脾), 조습화담(燥濕化痰)",
       "source": "/herbs/citrus-peel/"
     },
@@ -18971,12 +18971,6 @@
       "context": "전통 효능: 소식화중 · 건비개위 · 화약·조화",
       "options": [
         {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
-        },
-        {
           "text": "산사(山楂)",
           "owner": "산사(山楂)",
           "ownerId": "herb-hawthorn",
@@ -18989,13 +18983,19 @@
           "source": "/herbs/massa-medicata-fermentata/"
         },
         {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
+        },
+        {
           "text": "맥아(麥芽)",
           "owner": "맥아(麥芽)",
           "ownerId": "herb-barley-malt",
           "source": "/herbs/barley-malt/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "신곡·신국(神麴) — 전통 효능: 소식화중 · 건비개위 · 화약·조화",
       "source": "/herbs/massa-medicata-fermentata/"
     },
@@ -22242,6 +22242,12 @@
       "context": "생약명: Platycodi Radix",
       "options": [
         {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
+        },
+        {
           "text": "시호(柴胡)",
           "owner": "시호(柴胡)",
           "ownerId": "herb-bupleurum",
@@ -22254,19 +22260,13 @@
           "source": "/herbs/platycodon/"
         },
         {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
-        },
-        {
           "text": "원지(遠志)",
           "owner": "원지(遠志)",
           "ownerId": "herb-polygala",
           "source": "/herbs/polygala/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "길경(桔梗) — 생약명: Platycodi Radix",
       "source": "/herbs/platycodon/"
     },
@@ -22321,6 +22321,12 @@
           "source": "/herbs/polygala/"
         },
         {
+          "text": "청피(靑皮)",
+          "owner": "청피(靑皮)",
+          "ownerId": "herb-green-citrus-peel",
+          "source": "/herbs/green-citrus-peel/"
+        },
+        {
           "text": "길경(桔梗)",
           "owner": "길경(桔梗)",
           "ownerId": "herb-platycodon",
@@ -22331,15 +22337,9 @@
           "owner": "진피(陳皮)",
           "ownerId": "herb-citrus-peel",
           "source": "/herbs/citrus-peel/"
-        },
-        {
-          "text": "청피(靑皮)",
-          "owner": "청피(靑皮)",
-          "ownerId": "herb-green-citrus-peel",
-          "source": "/herbs/green-citrus-peel/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "길경(桔梗) — 전통 효능: 선폐(宣肺) · 이인(利咽) · 거담(祛痰) · 배농(排膿)",
       "source": "/herbs/platycodon/"
     },
@@ -22466,6 +22466,12 @@
           "source": "/herbs/polygala/"
         },
         {
+          "text": "목향(木香)",
+          "owner": "목향(木香)",
+          "ownerId": "herb-aucklandia",
+          "source": "/herbs/aucklandia/"
+        },
+        {
           "text": "시호(柴胡)",
           "owner": "시호(柴胡)",
           "ownerId": "herb-bupleurum",
@@ -22476,12 +22482,6 @@
           "owner": "길경(桔梗)",
           "ownerId": "herb-platycodon",
           "source": "/herbs/platycodon/"
-        },
-        {
-          "text": "목향(木香)",
-          "owner": "목향(木香)",
-          "ownerId": "herb-aucklandia",
-          "source": "/herbs/aucklandia/"
         }
       ],
       "answer": 0,
