@@ -2233,7 +2233,7 @@
       "facts": [
         {
           "label": "생약명",
-          "value": "Ophiopogonis Radix"
+          "value": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기"
         },
         {
           "label": "성미·귀경",
@@ -4693,7 +4693,7 @@
       "prompt": "오가피(五加皮)의 생약명으로 정리된 것은?",
       "options": [
         {
-          "text": "Ophiopogonis Radix",
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
           "owner": "맥문동(麥門冬)",
           "ownerId": "herb-ophiopogon",
           "source": "/herbs/ophiopogon/"
@@ -4844,7 +4844,7 @@
           "source": "/herbs/achyranthes/"
         },
         {
-          "text": "Ophiopogonis Radix",
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
           "owner": "맥문동(麥門冬)",
           "ownerId": "herb-ophiopogon",
           "source": "/herbs/ophiopogon/"
@@ -4887,19 +4887,19 @@
           "source": "/herbs/astragalus/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "우슬(牛膝)",
           "owner": "우슬(牛膝)",
           "ownerId": "herb-achyranthes",
           "source": "/herbs/achyranthes/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "우슬(牛膝) — 생약명: Achyranthis Radix / Achyranthis Bidentatae Radix 등 규격에 따라 표기가 달라질 수 있음",
       "source": "/herbs/achyranthes/"
     },
@@ -5529,16 +5529,16 @@
       "context": "전통 효능: 양음청폐 · 익위생진 · 청열거담",
       "options": [
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "사삼(沙參·남사삼)",
           "owner": "사삼(沙參·남사삼)",
           "ownerId": "herb-adenophora-root",
           "source": "/herbs/adenophora-root/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "백합(百合)",
@@ -5553,7 +5553,7 @@
           "source": "/herbs/ophiopogon-extra/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "사삼(沙參·남사삼) — 전통 효능: 양음청폐 · 익위생진 · 청열거담",
       "source": "/herbs/adenophora-root/"
     },
@@ -7926,12 +7926,6 @@
       "prompt": "황기(黃芪)의 생약명으로 정리된 것은?",
       "options": [
         {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "Asparagi Tuber 또는 Asparagi Radix로 표기",
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
@@ -7944,13 +7938,19 @@
           "source": "/herbs/astragalus/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Paeoniae Radix Alba",
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
           "source": "/herbs/white-peony/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "황기(黃芪) — 생약명: Astragali Radix",
       "source": "/herbs/astragalus/"
     },
@@ -7969,6 +7969,12 @@
           "source": "/herbs/astragalus/"
         },
         {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "천문동(天門冬)",
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
@@ -7979,12 +7985,6 @@
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
           "source": "/herbs/white-peony/"
-        },
-        {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         }
       ],
       "answer": 0,
@@ -10339,16 +10339,16 @@
           "source": "/herbs/acanthopanax-bark/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Achyranthis Radix / Achyranthis Bidentatae Radix 등 규격에 따라 표기가 달라질 수 있음",
           "owner": "우슬(牛膝)",
           "ownerId": "herb-achyranthes",
           "source": "/herbs/achyranthes/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         }
       ],
       "answer": 0,
@@ -17848,12 +17848,6 @@
       "context": "전통 효능: 보비익기(補脾益氣), 윤폐지해(潤肺止咳), 완급지통(緩急止痛), 조화제약(調和諸藥)",
       "options": [
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "인삼(人蔘)",
           "owner": "인삼(人蔘)",
           "ownerId": "herb-ginseng",
@@ -17870,9 +17864,15 @@
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
           "source": "/herbs/white-peony/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "감초(甘草) — 전통 효능: 보비익기(補脾益氣), 윤폐지해(潤肺止咳), 완급지통(緩急止痛), 조화제약(調和諸藥)",
       "source": "/herbs/licorice/"
     },
@@ -17994,12 +17994,6 @@
       "context": "전통 효능: 양음윤폐, 청심안신",
       "options": [
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "백합(百合)",
           "owner": "백합(百合)",
           "ownerId": "herb-lily",
@@ -18016,9 +18010,15 @@
           "owner": "연자육·연자(蓮子肉)",
           "ownerId": "herb-lotus-seed",
           "source": "/herbs/lotus-seed/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "백합(百合) — 전통 효능: 양음윤폐, 청심안신",
       "source": "/herbs/lily/"
     },
@@ -20361,16 +20361,16 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Acanthopanacis Cortex로 표기되는 오가피 계열",
           "owner": "오가피(五加皮)",
           "ownerId": "herb-acanthopanax-bark",
           "source": "/herbs/acanthopanax-bark/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "Astragali Radix",
@@ -20404,16 +20404,16 @@
           "source": "/herbs/acanthopanax-bark/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "황기(黃芪)",
           "owner": "황기(黃芪)",
           "ownerId": "herb-astragalus",
           "source": "/herbs/astragalus/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
       "answer": 0,
@@ -20471,16 +20471,16 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "사삼(沙參·남사삼)",
           "owner": "사삼(沙參·남사삼)",
           "ownerId": "herb-adenophora-root",
           "source": "/herbs/adenophora-root/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "백합(百合)",
@@ -20537,16 +20537,16 @@
       "prompt": "맥문동(麥門冬)의 생약명으로 정리된 것은?",
       "options": [
         {
+          "text": "Achyranthis Radix / Achyranthis Bidentatae Radix 등 규격에 따라 표기가 달라질 수 있음",
+          "owner": "우슬(牛膝)",
+          "ownerId": "herb-achyranthes",
+          "source": "/herbs/achyranthes/"
+        },
+        {
           "text": "Astragali Radix",
           "owner": "황기(黃芪)",
           "ownerId": "herb-astragalus",
           "source": "/herbs/astragalus/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "Asparagi Tuber 또는 Asparagi Radix로 표기",
@@ -20555,14 +20555,14 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
-          "text": "Paeoniae Radix Alba",
-          "owner": "백작약(白芍)",
-          "ownerId": "herb-white-peony",
-          "source": "/herbs/white-peony/"
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
-      "explanation": "맥문동(麥門冬) — 생약명: Ophiopogonis Radix",
+      "answer": 3,
+      "explanation": "맥문동(麥門冬) — 생약명: Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
       "source": "/herbs/ophiopogon/"
     },
     {
@@ -20571,7 +20571,7 @@
       "category": "보익·수삽",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "생약명: Ophiopogonis Radix",
+      "context": "생약명: Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
       "options": [
         {
           "text": "황기(黃芪)",
@@ -20580,10 +20580,10 @@
           "source": "/herbs/astragalus/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
+          "text": "우슬(牛膝)",
+          "owner": "우슬(牛膝)",
+          "ownerId": "herb-achyranthes",
+          "source": "/herbs/achyranthes/"
         },
         {
           "text": "천문동(天門冬)",
@@ -20592,14 +20592,14 @@
           "source": "/herbs/ophiopogon-extra/"
         },
         {
-          "text": "백작약(白芍)",
-          "owner": "백작약(白芍)",
-          "ownerId": "herb-white-peony",
-          "source": "/herbs/white-peony/"
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
-      "explanation": "맥문동(麥門冬) — 생약명: Ophiopogonis Radix",
+      "answer": 3,
+      "explanation": "맥문동(麥門冬) — 생약명: Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
       "source": "/herbs/ophiopogon/"
     },
     {
@@ -20647,6 +20647,12 @@
       "context": "전통 효능: 양음생진(養陰生津), 윤폐지해(潤肺止咳), 청심제번(清心除煩)",
       "options": [
         {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "감초(甘草)",
           "owner": "감초(甘草)",
           "ownerId": "herb-licorice",
@@ -20659,19 +20665,13 @@
           "source": "/herbs/lily/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "오미자(五味子)",
           "owner": "오미자(五味子)",
           "ownerId": "herb-schisandra",
           "source": "/herbs/schisandra/"
         }
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "맥문동(麥門冬) — 전통 효능: 양음생진(養陰生津), 윤폐지해(潤肺止咳), 청심제번(清心除煩)",
       "source": "/herbs/ophiopogon/"
     },
@@ -25160,12 +25160,6 @@
           "source": "/herbs/lily/"
         },
         {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
-        },
-        {
           "text": "오미자(五味子)",
           "owner": "오미자(五味子)",
           "ownerId": "herb-schisandra",
@@ -25176,9 +25170,15 @@
           "owner": "연자육·연자(蓮子肉)",
           "ownerId": "herb-lotus-seed",
           "source": "/herbs/lotus-seed/"
+        },
+        {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "오미자(五味子) — 전통 효능: 렴폐지해, 생진렴한, 삽정지사, 영심안신",
       "source": "/herbs/schisandra/"
     },
@@ -27084,6 +27084,12 @@
           "source": "/herbs/astragalus/"
         },
         {
+          "text": "Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "Paeoniae Radix Alba",
           "owner": "백작약(白芍)",
           "ownerId": "herb-white-peony",
@@ -27094,15 +27100,9 @@
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
           "source": "/herbs/ophiopogon-extra/"
-        },
-        {
-          "text": "Ophiopogonis Radix",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "백작약(白芍) — 생약명: Paeoniae Radix Alba",
       "source": "/herbs/white-peony/"
     },
@@ -27115,6 +27115,12 @@
       "context": "생약명: Paeoniae Radix Alba",
       "options": [
         {
+          "text": "맥문동(麥門冬)",
+          "owner": "맥문동(麥門冬)",
+          "ownerId": "herb-ophiopogon",
+          "source": "/herbs/ophiopogon/"
+        },
+        {
           "text": "천문동(天門冬)",
           "owner": "천문동(天門冬)",
           "ownerId": "herb-ophiopogon-extra",
@@ -27125,12 +27131,6 @@
           "owner": "황기(黃芪)",
           "ownerId": "herb-astragalus",
           "source": "/herbs/astragalus/"
-        },
-        {
-          "text": "맥문동(麥門冬)",
-          "owner": "맥문동(麥門冬)",
-          "ownerId": "herb-ophiopogon",
-          "source": "/herbs/ophiopogon/"
         },
         {
           "text": "백작약(白芍)",
