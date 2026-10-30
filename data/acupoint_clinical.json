@@ -313,7 +313,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "문헌에서 확인한 관련 부위"
+      "indications_label": "문헌에서 확인한 관련 부위",
+      "clinical_detail": "흉부 증상은 발생 양상과 호흡·운동과의 관계를 확인하고 원인을 평가합니다. 손목 증상은 움직임과 감각을 살피고, 팔꿈치의 [척택 LU5](lu5-chize.md), 손목 위의 [열결 LU7](lu7-lieque.md)와 같은 폐경의 위치 및 특정혈 분류를 비교합니다. 갑작스러운 심한 흉통이나 호흡곤란은 응급 평가가 필요합니다."
     },
     "LU8": {
       "name": "경거",
@@ -1769,7 +1770,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "계단·의자에서 일어나기·무릎 굽힘을 같은 조건에서 비교합니다.",
-      "clinical_path": "conditions/knee-pain.md"
+      "clinical_path": "conditions/knee-pain.md",
+      "clinical_detail": "무릎 앞의 통증과 부종을 확인하고 계단 오르기·의자에서 일어나기·굽힘을 같은 조건에서 비교합니다. 슬개인대 가쪽의 독비와 안쪽의 내슬안은 위치가 다른 국소혈입니다. 안쪽 무릎 주변의 [음릉천 SP9](sp9-yinlingquan.md), 무릎 아래의 [족삼리 ST36](st36-zusanli.md)와 함께 증상 위치에 맞춰 배혈을 살핍니다."
     },
     "ST36": {
       "name": "족삼리",
@@ -1994,7 +1996,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical_path": "conditions/neck-pain.md",
+      "clinical_detail": "목 증상은 회전·굽힘과 팔의 감각·근력을, 하지 증상은 통증이 뻗는 범위와 보행을 함께 비교합니다. 발목 위 가쪽의 현종은 무릎 바깥쪽의 [양릉천 GB34](gb34-yanglingquan.md), 둔부의 [환도 GB30](gb30-huantiao.md)와 위치가 다릅니다."
     },
     "BL40": {
       "name": "위중",
@@ -5236,8 +5239,9 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "가려움의 강도·범위·야간 악화와 피부 상태를 비교합니다.",
-      "clinical_path": "acupuncture-integrated/followup.md"
+      "clinical": "등 통증의 위치·움직임과 호흡과의 관계, 딸꾹질·복부팽만의 경과와 동반 증상을 확인합니다.",
+      "clinical_path": "acupuncture-integrated/followup.md",
+      "clinical_detail": "등 통증은 움직임과 호흡에 따른 변화, 딸꾹질·복부팽만은 지속 시간과 식사·구토 등 동반 증상을 함께 확인합니다. 흉추 부위의 격수와 요부의 [신수 BL23](bl23-shenshu.md)는 위치가 다르므로 증상 부위와 해부학적 표지를 구분합니다."
     },
     "BL41": {
       "name": "부분",
@@ -6182,7 +6186,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "둔부와 다리의 통증 분포, 고관절 움직임, 보행과 다리의 감각·근력을 함께 확인합니다. 다리 바깥쪽으로 뻗는 통증은 [양릉천 GB34](gb34-yanglingquan.md)과 [현종 GB39](gb39-xuanzhong.md)의 위치를 함께 살펴 배혈할 수 있습니다. 진행하는 다리 힘 저하나 새 배뇨·배변 장애가 있으면 신속한 의학적 평가가 필요합니다."
     },
     "GV28": {
       "name": "은교",
