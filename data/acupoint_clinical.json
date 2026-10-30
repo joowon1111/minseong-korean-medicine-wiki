@@ -154,7 +154,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical_path": "conditions/neck-pain.md",
+      "clinical_detail": "목과 등 증상은 움직일 때 통증이 나타나는 위치와 가동범위를 확인하고, 팔로 뻗는 통증에는 감각·근력을 함께 살핍니다. 손의 후계와 발목의 [신맥 BL62](bl62-shenmai.md)는 위에 소개한 팔맥교회혈 배합입니다. 견갑부 불편에서는 같은 소장경의 [천종 SI11](si11-tianzong.md)과 위치를 비교합니다."
     },
     "TE1": {
       "name": "관충",
@@ -847,7 +848,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "기침 빈도·가래·야간 각성과 활동 시 숨참을 기준으로 치료 목표를 정합니다.",
-      "clinical_path": "pillar/respiratory-rhinitis-immune.md"
+      "clinical_path": "pillar/respiratory-rhinitis-immune.md",
+      "clinical_detail": "기침과 가래의 빈도, 야간 각성과 활동 시 숨참을 기록하고 팔꿈치 증상이 있으면 움직임과 압통도 따로 살핍니다. 척택은 팔오금의 위팔두갈래근 힘줄 가쪽에 있으며, 팔꿈치 가쪽의 [곡지 LI11](li11-quchi.md) 및 손목 가까이의 [열결 LU7](lu7-lieque.md)과 위치를 비교합니다."
     },
     "LI11": {
       "name": "곡지",
@@ -1467,7 +1469,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "삼킴·말하기와 건조감·통증의 관계를 기록합니다.",
-      "clinical_path": "pillar/respiratory-rhinitis-immune.md"
+      "clinical_path": "pillar/respiratory-rhinitis-immune.md",
+      "clinical_detail": "인후 불편은 삼킴·발성에 따른 변화와 건조감·통증을 기록하고, 수면 문제는 잠드는 시간·중간 각성·낮 기능을 함께 평가합니다. 조해는 안쪽 복사 아래에 있으며, 안쪽 복사 뒤의 [태계 KI3](ki3-taixi.md), 바깥 복사 아래의 [신맥 BL62](bl62-shenmai.md)와 표지가 다릅니다. [열결 LU7](lu7-lieque.md)과의 연결은 앞서 소개한 팔맥교회혈 배합입니다."
     },
     "BL67": {
       "name": "지음",
@@ -1576,7 +1579,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "clinical_path": "conditions/functional-dyspepsia.md",
+      "clinical_detail": "식후 더부룩함·명치 통증·구역의 시점과 식사량을 살핍니다. 발 안쪽의 공손과 아래팔의 [내관 PC6](pc6-neiguan.md)은 앞서 소개한 팔맥교회혈 배합이며, 기능성소화불량 지침은 여러 혈의 치료 구성을 제시합니다. 불면 지침의 담열내요 변증별 추가 혈위는 소화불량 배혈과 구분해 읽습니다."
     },
     "KI4": {
       "name": "대종",
@@ -1642,7 +1646,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "두통·어지럼의 빈도와 지속시간, 동반 목 긴장·유발 상황을 기록합니다.",
-      "clinical_path": "conditions/headache.md"
+      "clinical_path": "conditions/headache.md",
+      "clinical_detail": "발목 통증은 위치·부종·보행을, 수면 문제는 잠드는 시간과 중간 각성·낮 기능을 각각 기록합니다. 신맥은 바깥 복사 바로 아래, [조해 KI6](ki6-zhaohai.md)는 안쪽 복사 아래에 위치합니다. [후계 SI3](si3-houxi.md)와의 짝은 위의 전통적 배혈 체계이며, 불면 지침은 전체 침치료 구성을 다룹니다."
     },
     "BL63": {
       "name": "금문",
@@ -1809,8 +1814,9 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "clinical": "복통과 배변 빈도·변의 형태를 확인하고 체중감소·혈변 등 원인 평가가 필요한 소견을 살핍니다.",
+      "clinical_path": "symptom-integrated/digestive.md",
+      "clinical_detail": "복통이 배변과 관련되는지, 배변 빈도와 변의 형태가 어떻게 달라졌는지 살핍니다. 상거허는 [족삼리 ST36](st36-zusanli.md) 아래의 대장 하합혈이고, [천추 ST25](st25-tianshu.md)는 배꼽 옆의 대장 모혈이므로 위치와 특정혈 관계를 구별합니다. 혈변·체중감소·지속적인 심한 복통은 원인 평가를 우선합니다."
     },
     "ST40": {
       "name": "풍륭",
@@ -1887,7 +1893,8 @@
       ],
       "additional_evidence": [],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "무릎 안쪽의 압통·굽힘과 계단 오르기를 살피고, 부종이 있다면 한쪽인지 양쪽인지와 발생 시점을 별도로 확인합니다. 무릎 안쪽의 음릉천과 바깥쪽의 [양릉천 GB34](gb34-yanglingquan.md)는 표지가 다릅니다. 위의 『영추』 문헌 분석과 관절 임상시험의 혈위 사용 빈도 자료는 성격이 다릅니다."
     },
     "SP6": {
       "name": "삼음교",
@@ -3767,7 +3774,8 @@
       "source": "",
       "basis": "전통 주치 요약",
       "clinical": "흉부 증상의 원인 평가를 먼저 하고, 호흡·움직임·식사와의 관계를 구별해 기록합니다.",
-      "clinical_path": "acupuncture-integrated/safety.md"
+      "clinical_path": "acupuncture-integrated/safety.md",
+      "clinical_detail": "흉부 불편은 발생 시점과 지속시간, 호흡·움직임·식사와의 관계를 확인합니다. 흉통에 호흡곤란·식은땀·실신이 동반되거나 갑작스러운 심한 흉통이 지속되면 즉시 응급 평가가 필요합니다. 원인 평가 후 전중과 아래팔의 [내관 PC6](pc6-neiguan.md)의 위치와 배혈 맥락을 함께 살핍니다. [NHS 흉통 안내](https://www.nhs.uk/symptoms/chest-pain/)"
     },
     "CV12": {
       "name": "중완(中脘)",

@@ -30,7 +30,7 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 ## 불면·수면저하
 **심경·심포경·신경·독맥·음교맥·양교맥**을 함께 봅니다.  
-[신문 HT7](../acupuncture/points/ht7-shenmen.md)은 심경 원혈, [내관 PC6](../acupuncture/points/pc6-neiguan.md)은 심포경 락혈이자 음유맥 교회혈, 조해 KI6는 음교맥 교회혈입니다.
+[신문 HT7](../acupuncture/points/ht7-shenmen.md)은 심경 원혈, [내관 PC6](../acupuncture/points/pc6-neiguan.md)은 심포경 락혈이자 음유맥 교회혈, [조해 KI6](../acupuncture/points/ki6-zhaohai.md)는 음교맥 교회혈입니다.
 
 **대표 배혈:** 신문 + 내관 + 인당, 필요에 따라 조해·백회 연결.
 
@@ -42,10 +42,10 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 - [족삼리 ST36](../acupuncture/points/st36-zusanli.md) — 위경 합혈·위 하합혈
 - [중완 CV12](../acupuncture/points/cv12-zhongwan.md) — 위의 모혈·부회
 - [내관 PC6](../acupuncture/points/pc6-neiguan.md) — 심포경 락혈
-- 공손 SP4 — 비경 락혈·충맥 교회혈
+- [공손 SP4](../acupuncture/points/sp4-gongsun.md) — 비경 락혈·충맥 교회혈
 - [풍륭 ST40](../acupuncture/points/st40-fenglong.md) — 위경 락혈
 - [천추 ST25](../acupuncture/points/st25-tianshu.md) — 대장의 모혈
-- 상거허 ST37 — 대장 하합혈
+- [상거허 ST37](../acupuncture/points/st37-shangjuxu.md) — 대장 하합혈
 
 **대표 배혈:** 족삼리 + 중완 + 내관을 중심으로 담음·식적·배변 양상에 따라 확장.
 
