@@ -43,5 +43,5 @@ polysaccharides, steroids 등 다양한 성분이 연구되며 특히 **Polyporu
 → [복령](poria.md)
 
 ## 참고문헌
-1. Zhao YY, et al. *Traditional uses, phytochemistry, pharmacology, pharmacokinetics and quality control of Polyporus umbellatus.* 2013. PMID **23811047**.
-2. Liu GK, et al. *Polysaccharides from Polyporus umbellatus: A review on their extraction, modification, structure, and bioactivities.* 2021. PMID **34419536**.
+1. Zhao YY, et al. *Traditional uses, phytochemistry, pharmacology, pharmacokinetics and quality control of Polyporus umbellatus.* 2013. [PMID 23811047](https://pubmed.ncbi.nlm.nih.gov/23811047/).
+2. Liu GK, et al. *Polysaccharides from Polyporus umbellatus: A review on their extraction, modification, structure, and bioactivities.* 2021. [PMID 34419536](https://pubmed.ncbi.nlm.nih.gov/34419536/).
