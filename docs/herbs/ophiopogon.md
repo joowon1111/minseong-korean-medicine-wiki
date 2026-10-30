@@ -13,8 +13,8 @@ last_reviewed: 2026-10-23
 
 | 항목 | 내용 |
 |---|---|
-| 생약명 | Ophiopogonis Radix |
-| 대표 기원·부위 | *Ophiopogon japonicus*의 덩이뿌리 |
+| 생약명 | Liriope Tuber; 문헌에 Ophiopogonis Radix 등으로도 표기 |
+| 국내 기원·부위 | 맥문동 *Liriope platyphylla* 또는 소엽맥문동 *Ophiopogon japonicus*의 덩이뿌리 |
 | 성미·귀경 | 감·미고, 미한 / 폐·위·심경 |
 | 핵심 효능 | 양음생진(養陰生津), 윤폐지해(潤肺止咳), 청심제번(清心除煩) |
 | 주로 보는 병기 | 폐음·위음과 진액 부족, 조해, 열병 후 진액 손상, 심번 |
@@ -76,7 +76,7 @@ last_reviewed: 2026-10-23
 | 다당류 | 추출수율·분자량·구성당과 대사·면역 실험의 차이 |
 | *Ophiopogon*·*Liriope* 원료 | 지역별 약전 기원과 학명; 서로 다른 종의 시험을 한 이름으로 합치지 않음 |
 
-국내의 맥문동 관련 원료·제품과 *O. japonicus* 연구가 같은 종인지 확인합니다. [2016년 맥문동 고찰](https://pubmed.ncbi.nlm.nih.gov/26826325/)의 성분·전임상 연구를 생맥산·맥문동탕의 사람 효과로 바로 바꾸지 않습니다.
+식약처의 [맥문동 재배·품질 자료](https://www.mfds.go.kr/files/upload/herbmed/photo_data/GACP3_0023.pdf)는 국내 약재의 기원으로 *Liriope platyphylla*와 *Ophiopogon japonicus*를 함께 설명합니다. 2015년 DNA 염기서열 연구는 유통 덩이뿌리의 두 속을 구별하는 방법을 검토했습니다. 약재명과 연구의 학명을 함께 확인하면 국내 원료와 해외 논문의 시험종을 정확히 비교할 수 있습니다. [기원 감별 원 논문](https://pubmed.ncbi.nlm.nih.gov/26126769/) · [2016년 맥문동 고찰](https://pubmed.ncbi.nlm.nih.gov/26826325/)
 
 [생맥산](../formulas/shengmai-san.md)과 경옥고는 모두 기와 진액을 살피지만, 생맥산은 인삼·맥문동·오미자의 **익기·양음·수렴**, 경옥고는 인삼·생지황·복령·봉밀의 **보기·자음·건비·윤조**입니다. 비슷한 회복 목적이라도 핵심 본초·제형·대변과 소화 적합성이 다릅니다.
 
