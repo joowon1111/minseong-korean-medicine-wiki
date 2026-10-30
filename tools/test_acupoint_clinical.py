@@ -66,6 +66,15 @@ class ClinicalCoverageTests(unittest.TestCase):
                 self.assertEqual(section.count(clinical.START), 1)
         self.assertEqual(count, 50)
 
+    def test_clinical_detail_overrides_summary_only_on_point_page(self):
+        point = dict(self.points['GB40'])
+        self.assertIn('발목', point['clinical'])
+        self.assertIn('바깥 발목', point['clinical_detail'])
+        data = json.loads((ROOT / 'data/acupoint_clinical.json').read_text())
+        block = clinical.point_block('GB40', point, {}, references=data['references'], sources=clinical.load_sources())
+        self.assertIn(point['clinical_detail'], block)
+        self.assertNotIn(point['clinical'] + ' [평가 자료]', block)
+
     def test_no_stale_or_duplicate_generated_sections(self):
         for path, generated in clinical.outputs().items():
             self.assertEqual(path.read_text(), generated, str(path))

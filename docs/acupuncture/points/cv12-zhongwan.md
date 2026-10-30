@@ -59,7 +59,7 @@ last_reviewed: 2026-08-19
 
 **임상 평가·배혈 연결**
 
-복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다. [평가 자료](../../acupuncture-integrated/evidence.md)
+명치의 불편은 식사 전후 시점, 조기 포만감·구역·섭취량을 구분해 기록합니다. 복부의 중완과 하지의 [족삼리 ST36](st36-zusanli.md)를 함께 살펴볼 때는 위에 제시한 지침의 전체 배혈과 환자 상태를 확인합니다. 체중감소·반복 구토·출혈 등은 원인 평가와 연결합니다. [기능성소화불량](../../conditions/functional-dyspepsia.md) [평가 자료](../../conditions/functional-dyspepsia.md)
 
 임상 평가는 아카이브의 평가·기록 안내입니다.
 

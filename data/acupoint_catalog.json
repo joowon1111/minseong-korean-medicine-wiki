@@ -15016,8 +15016,8 @@
         }
       ],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "발목의 통증·부종·압통과 체중부하, 외상 후 골절 가능성을 확인합니다.",
+        "path": "acupuncture-integrated/musculoskeletal.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
@@ -17993,7 +17993,7 @@
       ],
       "assessment": {
         "text": "복통과 배변 빈도·변 형태의 관계, 혈변·체중감소 등 원인 평가가 필요한 소견을 확인합니다.",
-        "path": "acupuncture-integrated/evidence.md",
+        "path": "conditions/functional-dyspepsia.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
