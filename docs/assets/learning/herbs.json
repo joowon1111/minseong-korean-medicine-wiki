@@ -994,10 +994,6 @@
         {
           "label": "전통 효능",
           "value": "자보간신·익정명목"
-        },
-        {
-          "label": "배합 예",
-          "value": "좌귀환 — 숙지황·산약·산수유와 진음·정혈을 보하는 방향 / 우귀환 — 정혈을 받치는 배합에 부자·육계의 온양을 함께 보는 방향"
         }
       ],
       "source": "/herbs/cornus-extra/",
@@ -6107,6 +6103,12 @@
       "context": "생약명: Alpiniae Oxyphyllae Fructus",
       "options": [
         {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        },
+        {
           "text": "익지인(益智仁)",
           "owner": "익지인(益智仁)",
           "ownerId": "herb-alpinia-oxyphylla",
@@ -6123,15 +6125,9 @@
           "owner": "대추·대조(大棗)",
           "ownerId": "herb-jujube-fruit",
           "source": "/herbs/jujube-fruit/"
-        },
-        {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "익지인(益智仁) — 생약명: Alpiniae Oxyphyllae Fructus",
       "source": "/herbs/alpinia-oxyphylla/"
     },
@@ -11522,16 +11518,16 @@
       "context": "생약명: Lycii Fructus",
       "options": [
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "익지인(益智仁)",
           "owner": "익지인(益智仁)",
           "ownerId": "herb-alpinia-oxyphylla",
           "source": "/herbs/alpinia-oxyphylla/"
+        },
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         },
         {
           "text": "속단(續斷)",
@@ -11546,7 +11542,7 @@
           "source": "/herbs/jujube-fruit/"
         }
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "구기자(枸杞子) — 생약명: Lycii Fructus",
       "source": "/herbs/cornus-extra/"
     },
@@ -11595,6 +11591,12 @@
       "context": "전통 효능: 자보간신·익정명목",
       "options": [
         {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
+        },
+        {
           "text": "두충(杜仲)",
           "owner": "두충(杜仲)",
           "ownerId": "herb-eucommia",
@@ -11607,19 +11609,13 @@
           "source": "/herbs/cuscuta-seed/"
         },
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "오가피(五加皮)",
           "owner": "오가피(五加皮)",
           "ownerId": "herb-acanthopanax-bark",
           "source": "/herbs/acanthopanax-bark/"
         }
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "구기자(枸杞子) — 전통 효능: 자보간신·익정명목",
       "source": "/herbs/cornus-extra/"
     },
@@ -12212,12 +12208,6 @@
       "context": "전통 효능: 보신익정·양간명목·고삽",
       "options": [
         {
-          "text": "구기자(枸杞子)",
-          "owner": "구기자(枸杞子)",
-          "ownerId": "herb-cornus-extra",
-          "source": "/herbs/cornus-extra/"
-        },
-        {
           "text": "육종용(肉蓯蓉)",
           "owner": "육종용(肉蓯蓉)",
           "ownerId": "herb-cistanche",
@@ -12234,9 +12224,15 @@
           "owner": "녹용(鹿茸)",
           "ownerId": "herb-cervi-parvum-cornu",
           "source": "/herbs/cervi-parvum-cornu/"
+        },
+        {
+          "text": "구기자(枸杞子)",
+          "owner": "구기자(枸杞子)",
+          "ownerId": "herb-cornus-extra",
+          "source": "/herbs/cornus-extra/"
         }
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "토사자(菟絲子) — 전통 효능: 보신익정·양간명목·고삽",
       "source": "/herbs/cuscuta-seed/"
     },
@@ -17160,16 +17156,16 @@
           "source": "/herbs/jujube-fruit/"
         },
         {
-          "text": "익지인(益智仁)",
-          "owner": "익지인(益智仁)",
-          "ownerId": "herb-alpinia-oxyphylla",
-          "source": "/herbs/alpinia-oxyphylla/"
-        },
-        {
           "text": "구기자(枸杞子)",
           "owner": "구기자(枸杞子)",
           "ownerId": "herb-cornus-extra",
           "source": "/herbs/cornus-extra/"
+        },
+        {
+          "text": "익지인(益智仁)",
+          "owner": "익지인(益智仁)",
+          "ownerId": "herb-alpinia-oxyphylla",
+          "source": "/herbs/alpinia-oxyphylla/"
         },
         {
           "text": "연자육·연자(蓮子肉)",

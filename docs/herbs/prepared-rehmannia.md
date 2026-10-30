@@ -82,7 +82,10 @@ iridoids·당류·다당류를 비롯한 성분과 가공 전후 변화가 연�
 → [《동의보감》 탕액편의 숙지황](../classics/donguibogam/tangyeok/prepared-rehmannia.md)
 
 ## 주요 연구 식별자 {#_7}
-PMID 18407446; PMID 36634722; PMID 41420949
+
+- [지황의 식물학·성분·약리 종설, PMID 18407446](https://pubmed.ncbi.nlm.nih.gov/18407446/): 지황의 성분과 연구 분야를 폭넓게 정리합니다.
+- [생지황·숙지황 다당류의 구조와 차이 종설, PMID 41420949](https://pubmed.ncbi.nlm.nih.gov/41420949/): 가공 전후 다당류와 실험 연구를 비교합니다.
+- [지황 다당류의 추출·구조·생물활성 종설, PMID 36634722](https://pubmed.ncbi.nlm.nih.gov/36634722/): 추출·분리 방법과 연구된 생물활성을 정리합니다.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서 {#_8}
