@@ -23,7 +23,7 @@ last_reviewed: '2026-10-07'
 | 처방 | 배합에서 읽는 역할 |
 |---|---|
 | [온경탕](../formulas/wenjing-tang.md) | 온경산한과 당귀·작약·맥문동 등의 양혈·양음이 함께 작동하는 구조 |
-| [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) | 건강 등의 온경과 이기·양혈 배합을 임신 준비 단계에서 구분 |
+| [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md) | 이기·양혈 배합에 온경산한을 더하며 건강은 수록본과 가미 조건을 확인 |
 
 ## 오수유탕·좌금환에서 읽기
 
