@@ -413,7 +413,7 @@
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001",
       "basis": "국내 연구진의 문헌·임상시험 사용 양상 분석",
       "clinical": "손 저림의 분포·야간 증상·무지구 근력과 정중신경 포착 여부를 평가합니다.",
-      "clinical_path": "conditions/limb-numbness.md",
+      "clinical_path": "conditions/carpal-tunnel.md",
       "profile_kind": "domestic_review",
       "references": [
         {
@@ -435,7 +435,8 @@
         }
       ],
       "actions_label": "자료의 의미",
-      "indications_label": "임상시험에서 사용된 분야"
+      "indications_label": "임상시험에서 사용된 분야",
+      "clinical_detail": "엄지·검지·중지의 저림과 야간 각성, 물건을 놓치는지와 엄지 맞섬·집기 힘을 확인합니다. 손바닥 쪽 주름의 대릉은 아래팔의 [내관 PC6](pc6-neiguan.md), 자쪽 주름의 [신문 HT7](ht7-shenmen.md)과 위치가 다릅니다. 감각저하가 지속되거나 엄지 근육이 약해지면 정중신경 손상 정도와 전문 평가를 확인합니다."
     },
     "PC6": {
       "name": "내관",
@@ -486,8 +487,9 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+      "clinical_path": "conditions/wrist-pain.md",
+      "clinical_detail": "엄지 쪽 손목 통증은 엄지 움직임·쥐기·들기와 압통을 살피고, 외상 후 코담배갑 깊은 압통이 있으면 주상골 손상을 평가합니다. 양계는 손목 뒤 엄지 쪽, [양지 TE4](te4.md)는 손등 쪽, [양곡 SI5](si5.md)은 새끼손가락 쪽에 있어 표지가 다릅니다."
     },
     "SI5": {
       "name": "양곡",
@@ -503,8 +505,9 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+      "clinical_path": "conditions/wrist-pain.md",
+      "clinical_detail": "새끼손가락 쪽 손목의 통증은 회전·물건 들기와 손 짚기에서 비교하고 외상·불안정성 여부를 확인합니다. 양곡은 손목 뒤 자쪽, [양지 TE4](te4.md)는 손등 쪽 주름에 있습니다. 청력 저하나 이명이 주된 경우에는 발생 시점·좌우·어지럼을 별도로 살피며 갑작스러운 청력 저하는 신속한 이비인후과 평가가 필요합니다."
     },
     "LU7": {
       "name": "열결",
@@ -756,8 +759,9 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-      "clinical_path": "conditions/neck-pain.md"
+      "clinical": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+      "clinical_path": "conditions/wrist-pain.md",
+      "clinical_detail": "손등 쪽 손목 통증을 굽힘·폄, 물건 들기와 손 짚기에서 비교하고 부종·감각 변화를 확인합니다. 양지는 손등 쪽 주름에 있으며 엄지 쪽 [양계 LI5](li5.md), 새끼손가락 쪽 [양곡 SI5](si5.md)과 위치를 구분합니다."
     },
     "SI6": {
       "name": "양로",
