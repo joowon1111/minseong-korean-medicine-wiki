@@ -1135,8 +1135,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+        "path": "conditions/wrist-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
@@ -6003,8 +6003,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+        "path": "conditions/wrist-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
@@ -11877,7 +11877,7 @@
       ],
       "assessment": {
         "text": "손 저림의 분포·야간 증상·무지구 근력과 정중신경 포착 여부를 평가합니다.",
-        "path": "conditions/limb-numbness.md",
+        "path": "conditions/carpal-tunnel.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
@@ -12184,8 +12184,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "손목의 통증 위치·움직임·쥐기와 감각·근력 변화를 확인합니다.",
+        "path": "conditions/wrist-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [],
