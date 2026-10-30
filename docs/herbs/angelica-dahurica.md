@@ -34,6 +34,10 @@ last_reviewed: '2026-10-07'
 
 기원식물과 뿌리 약재의 확인에는 [대만 국가중의약연구소 백지 자료](https://www.nricm.edu.tw/htcm/catalog/tcm_herbal_details2b84.html?id=1127)를 참고합니다. 적용 공정서와 실제 원료의 학명, 건조 상태를 함께 확인합니다.
 
+《엄씨제생방》 창이산 수록형에서는 백지 1량에 신이 반량·볶은 창이자 2전 반·박하 반전을 배합해 산제로 만듭니다. 이름은 창이산이지만 이 수록형에서 가장 큰 제조 비중은 백지입니다. 처방의 전통 주치는 탁한 콧물이 계속되는 비연이며, 현대 탕제·과립제는 구성과 제조법을 별도로 확인합니다. [창이자산의 원문·비례](../formulas/cangerzi-san.md#powder-ratio-preparation)
+
+백지 뿌리의 품질 연구에서는 imperatorin·isoimperatorin 등 coumarin류를 분석합니다. 2016년 원료 분석 연구는 시료에 따라 이들 성분의 비율에 차이가 있음을 보고했습니다. 이는 원료의 성분과 분석을 다룬 연구이며 사람의 두통이나 비염 치료효과를 직접 측정한 시험은 아닙니다. [백지 뿌리 성분 분석, PMID 27442886](https://pubmed.ncbi.nlm.nih.gov/27442886/)
+
 ## 비슷한 본초와 구분
 
 [강활](notopterygium.md)·[방풍](saposhnikovia.md)의 거풍·승습과 비교합니다. [당귀](angelica.md)·[독활](angelica-pubescens.md)과도 별개 약재입니다.
