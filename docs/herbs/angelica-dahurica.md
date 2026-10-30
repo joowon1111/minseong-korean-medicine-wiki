@@ -28,11 +28,11 @@ last_reviewed: '2026-10-07'
 
 ## 백지·신이·만형자 비교
 
-백지는 거풍산한·통규·지통을 두면부와 인후의 전통 증후에서 살피며, [신이](magnolia-bud.md)와는 약용 부위 및 코 증상에서의 배합 방향을, [만형자](vitex-fruit.md)와는 두면부 풍열·두통의 전통적 역할을 구분합니다. 이 본초군은 현대 부비동염·편두통의 진단이나 치료를 단독으로 정하지 않습니다.
+백지는 뿌리를 쓰며 두면부 통증과 코막힘을 함께 살핍니다. [신이](magnolia-bud.md)는 꽃봉오리를 쓰는 통비규 본초이고, [만형자](vitex-fruit.md)는 열매를 쓰며 풍열과 머리·눈 주위의 불편을 살피는 방향이 두드러집니다.
 
 ## 비슷한 본초와 구분
 
-[강활](notopterygium.md)·[방풍](saposhnikovia.md)의 거풍·승습과 비교하고, [신이](magnolia-bud.md)는 코막힘을 다루는 꽃봉오리 본초로 구분합니다. [당귀](angelica.md)·[독활](angelica-pubescens.md)과도 별개 약재입니다.
+[강활](notopterygium.md)·[방풍](saposhnikovia.md)의 거풍·승습과 비교합니다. [당귀](angelica.md)·[독활](angelica-pubescens.md)과도 별개 약재입니다.
 
 ## 실제 활용에서 확인할 점
 
