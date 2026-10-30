@@ -3018,6 +3018,10 @@
       "prompt": "조구등(釣鉤藤)의 효능·약용 부위·배합을 설명해 보세요.",
       "facts": [
         {
+          "label": "생약명",
+          "value": "Uncariae Ramulus cum Uncus"
+        },
+        {
           "label": "약용 부위",
           "value": "Uncaria 속 식물의 갈고리가 달린 어린 가지"
         },
@@ -26447,6 +26451,79 @@
       "answer": 3,
       "explanation": "초과(草果) — 성미·귀경: 신, 온; 비·위경을 중심으로 설명",
       "source": "/herbs/tsaoko-fruit/"
+    },
+    {
+      "id": "herb-uncaria-fact-생약명",
+      "cardId": "herb-uncaria",
+      "category": "청열",
+      "kind": "fact",
+      "prompt": "조구등(釣鉤藤)의 생약명으로 정리된 것은?",
+      "options": [
+        {
+          "text": "Lonicerae Flos. 문헌·약전에서는 Lonicerae Japonicae Flos 표기도 확인",
+          "owner": "금은화(金銀花)",
+          "ownerId": "herb-honeysuckle",
+          "source": "/herbs/honeysuckle/"
+        },
+        {
+          "text": "Scrophulariae Radix",
+          "owner": "현삼(玄參)",
+          "ownerId": "herb-scrophularia",
+          "source": "/herbs/scrophularia/"
+        },
+        {
+          "text": "Phellodendri Cortex",
+          "owner": "황백(黃柏)",
+          "ownerId": "herb-phellodendron",
+          "source": "/herbs/phellodendron/"
+        },
+        {
+          "text": "Uncariae Ramulus cum Uncus",
+          "owner": "조구등(釣鉤藤)",
+          "ownerId": "herb-uncaria",
+          "source": "/herbs/uncaria/"
+        }
+      ],
+      "answer": 3,
+      "explanation": "조구등(釣鉤藤) — 생약명: Uncariae Ramulus cum Uncus",
+      "source": "/herbs/uncaria/"
+    },
+    {
+      "id": "herb-uncaria-recall-생약명",
+      "cardId": "herb-uncaria",
+      "category": "청열",
+      "kind": "recall",
+      "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
+      "context": "생약명: Uncariae Ramulus cum Uncus",
+      "options": [
+        {
+          "text": "조구등(釣鉤藤)",
+          "owner": "조구등(釣鉤藤)",
+          "ownerId": "herb-uncaria",
+          "source": "/herbs/uncaria/"
+        },
+        {
+          "text": "황백(黃柏)",
+          "owner": "황백(黃柏)",
+          "ownerId": "herb-phellodendron",
+          "source": "/herbs/phellodendron/"
+        },
+        {
+          "text": "금은화(金銀花)",
+          "owner": "금은화(金銀花)",
+          "ownerId": "herb-honeysuckle",
+          "source": "/herbs/honeysuckle/"
+        },
+        {
+          "text": "현삼(玄參)",
+          "owner": "현삼(玄參)",
+          "ownerId": "herb-scrophularia",
+          "source": "/herbs/scrophularia/"
+        }
+      ],
+      "answer": 0,
+      "explanation": "조구등(釣鉤藤) — 생약명: Uncariae Ramulus cum Uncus",
+      "source": "/herbs/uncaria/"
     },
     {
       "id": "herb-uncaria-fact-전통 효능",
