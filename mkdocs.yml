@@ -539,13 +539,6 @@ nav:
       - 20편 · 부인 임신병: classics/jinkui-yaolue/chapters/pregnancy.md
       - 21편 · 부인 산후병: classics/jinkui-yaolue/chapters/postpartum.md
       - 22편 · 부인 잡병: classics/jinkui-yaolue/chapters/gynecology.md
-  - 동의수세보원:
-    - 원문·한국어 풀이: classics/donguisusebowon/original.md
-    - 핵심 원문·개념 해석: sasang/donguisusebowon.md
-    - 책 소개·판본 안내: classics/donguisusebowon.md
-    - 병증별 원문 찾기: sasang-clinical-detail/pattern-source-map.md
-    - 평소 증상별 원문 찾기: sasang-original-symptoms/index.md
-    - 체질·병증·처방 연결: donguisusebowon-network/index.md
   - 동의보감:
     - 책 소개·집례·서문: classics/donguibogam.md
     - 핵심 원문·풀이·검색: classics/donguibogam/original.md
@@ -572,6 +565,13 @@ nav:
       - 우슬: classics/donguibogam/tangyeok/achyranthes.md
     - 공진단: classics/donguibogam/gongjin-dan.md
     - 경옥고: classics/donguibogam/gyeongok-go.md
+  - 동의수세보원:
+    - 원문·한국어 풀이: classics/donguisusebowon/original.md
+    - 핵심 원문·개념 해석: sasang/donguisusebowon.md
+    - 책 소개·판본 안내: classics/donguisusebowon.md
+    - 병증별 원문 찾기: sasang-clinical-detail/pattern-source-map.md
+    - 평소 증상별 원문 찾기: sasang-original-symptoms/index.md
+    - 체질·병증·처방 연결: donguisusebowon-network/index.md
 - 본초·방제:
   - 본초·방제 한눈에 보기: herbal-integrated/index.md
   - 본초 찾기: herbal-integrated/herbs.md
