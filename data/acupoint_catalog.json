@@ -4415,8 +4415,8 @@
       "clinical": [],
       "research": [],
       "assessment": {
-        "text": "목 회전·굽힘에 따른 통증과 팔의 감각·근력을 함께 비교합니다.",
-        "path": "conditions/neck-pain.md",
+        "text": "발목 안쪽의 압통과 붓기, 보행·체중부하와 발목 움직임을 확인합니다. 복부팽만·설사가 주된 경우에는 식사와 배변의 관계를 따로 기록합니다.",
+        "path": "conditions/ankle-pain.md",
         "origin": "archive_editorial"
       },
       "saam_roles": [
