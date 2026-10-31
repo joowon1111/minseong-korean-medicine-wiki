@@ -84,6 +84,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 | 허로의 복부 불편과 보하는 배합은 어떻게 이어지나요? | [제6편 소건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-013) → [황기건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-014) | [소건중탕 구성](../formulas/xiaojianzhong-tang.md) · [황기건중탕 구성](../formulas/huangqi-jianzhong-tang.md) |
 | 허번과 불면을 왜 함께 적었나요? | [제6편 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) | [원방의 다섯 약과 선전](../formulas/suanzaoren-tang.md#jinkui-preparation) → [불면의 고전·임상 연결](../conditions/insomnia.md#classical-clinical-reading) |
 | 같은 길경탕은 두 책에서 어떤 문맥으로 나오나요? | [상한론 311조의 인후통](../classics/shanghanlun/clauses/shaoyin.md#clause-311) → [금궤요략 7.12의 기침·배출물](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-012) | 같은 두 약과 서로 다른 병증 문맥을 비교 |
+| 설사에 구토가 겹치면 처방과 기록은 어떻게 달라지나요? | [상한론 172조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-172) → [금궤요략 17.11](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-011) | 황금탕의 가감과 두 수록본의 생강량을 비교 |
 | 구토와 갈증은 어떤 순서로 살피나요? | [구토편 17.2](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-002) → [담음편 12.28·12.30](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-028) | 증상의 선후와 소반하탕·소반하가복령탕의 구성을 비교 |
 | 담음에서는 증상의 위치와 경과를 어떻게 읽나요? | [제12편 핵심 조문 연결](../classics/jinkui-yaolue/chapters/fluid-cough.md#reading-patterns) → [영계출감탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-016) | [영계출감탕](../formulas/linggui-zhugan-tang.md): 배합·감별·연구 대상 확인 |
 
