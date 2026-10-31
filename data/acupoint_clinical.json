@@ -2071,8 +2071,8 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "식사 전후 불편·섭취량·구역 빈도를 기록하고 소화기 원인 평가와 연결합니다.",
-      "clinical_path": "conditions/functional-dyspepsia.md"
+      "clinical": "복통의 위치·지속 시간과 배변 전후의 변화, 배변 횟수·변의 형태와 동반 증상을 기록합니다. 소장 하합혈인 하거허는 대장 하합혈 상거허와 구별하며, 다리 통증은 보행·발목 움직임·감각을 함께 확인합니다.",
+      "clinical_path": "symptom-integrated/digestive.md"
     },
     "SP7": {
       "name": "누곡",
@@ -5172,8 +5172,8 @@
       ],
       "source": "",
       "basis": "전통 주치 요약",
-      "clinical": "허리 움직임·앉기·걷기와 통증 분포를 기록하고, 방사통은 근력·감각 평가를 함께 봅니다.",
-      "clinical_path": "conditions/low-back-pain.md"
+      "clinical": "목·위쪽 등·견갑부의 통증 위치와 목 회전·어깨 움직임에 따른 변화를 기록합니다. 대저는 첫째 흉추 높이의 위쪽 등 경혈이며, 팔의 저림·근력·감각 변화는 함께 평가합니다.",
+      "clinical_path": "conditions/neck-pain.md"
     },
     "BL12": {
       "name": "풍문",

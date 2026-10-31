@@ -547,8 +547,8 @@ nav:
     - 평소 증상별 원문 찾기: sasang-original-symptoms/index.md
     - 체질·병증·처방 연결: donguisusebowon-network/index.md
   - 동의보감:
-    - 원문 검색·영인본: classics/donguibogam/original.md
-    - 책 소개·선별 원문 해석: classics/donguibogam.md
+    - 책 소개·집례·서문: classics/donguibogam.md
+    - 핵심 원문·풀이·검색: classics/donguibogam/original.md
     - 5편별 주제 찾기: donguibogam-network/index.md
     - 탕액편 임상 지도: classics/donguibogam-tangaek.md
     - 침구편 임상 지도: classics/donguibogam-acupuncture.md
