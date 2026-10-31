@@ -13,6 +13,17 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 <a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 36개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
 </div>
 
+## 찾는 자료로 바로 가기 {#quick-access}
+
+| 찾는 내용 | 읽을 곳 |
+|---|---|
+| 조문 번호를 알고 있다 | [상한론 1–398조](../shanghan-network/index.md#complete-clauses) · [금궤요략 편별 목록](../jingui-network/index.md#complete-chapters) |
+| 처방의 원문과 조제법을 읽고 싶다 | [계지탕 12조의 원문·복법 풀이](../classics/shanghanlun/clauses/taiyang-upper.md#clause-012) · [금궤요략 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) |
+| 특정 글자나 약재를 찾는다 | [동의보감 전사 원문 검색](../classics/donguibogam/original.md#reader) · [동의수세보원 선별 원문](../classics/donguisusebowon/original.md) |
+| 네 책 외의 고전을 찾는다 | [한의학 고전 전체 안내](../classics/index.md) |
+
+검색 가능한 전사, 선별 풀이, 책 이미지의 수록 범위는 책마다 다릅니다. 아래 책별 안내에서 확인할 수 있습니다.
+
 ## 두 책의 전체 목차부터 보기 {#book-maps}
 
 개별 구절을 읽기 전에 **책 전체에서 어느 자리에 놓인 내용인지** 먼저 살펴보세요. 《동의보감》은 몸의 기능·부위·병증과 치료 수단으로, 《동의수세보원》은 사람을 이해하는 이론과 체질별 병론·처방으로 내려가는 구성이 핵심입니다.
