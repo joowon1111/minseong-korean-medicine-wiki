@@ -83,6 +83,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 |---|---|---|
 | 허로의 복부 불편과 보하는 배합은 어떻게 이어지나요? | [제6편 소건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-013) → [황기건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-014) | [소건중탕 구성](../formulas/xiaojianzhong-tang.md) · [황기건중탕 구성](../formulas/huangqi-jianzhong-tang.md) |
 | 허번과 불면을 왜 함께 적었나요? | [제6편 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) | [원방의 다섯 약과 선전](../formulas/suanzaoren-tang.md#jinkui-preparation) → [불면의 고전·임상 연결](../conditions/insomnia.md#classical-clinical-reading) |
+| 같은 길경탕은 두 책에서 어떤 문맥으로 나오나요? | [상한론 311조의 인후통](../classics/shanghanlun/clauses/shaoyin.md#clause-311) → [금궤요략 7.12의 기침·배출물](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-012) | 같은 두 약과 서로 다른 병증 문맥을 비교 |
 | 담음에서는 증상의 위치와 경과를 어떻게 읽나요? | [제12편 핵심 조문 연결](../classics/jinkui-yaolue/chapters/fluid-cough.md#reading-patterns) → [영계출감탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-016) | [영계출감탕](../formulas/linggui-zhugan-tang.md): 배합·감별·연구 대상 확인 |
 
 각 처방을 약재 하나의 효능으로 요약하기보다 함께 쓰는 약재와 조제 순서를 읽습니다. 임상연구가 연결돼 있으면 연구에서 사용한 제제·대상·비교군을 해당 상세 문서에서 확인하세요.
