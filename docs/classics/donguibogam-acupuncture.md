@@ -47,6 +47,8 @@ last_reviewed: '2026-09-05'
 
 양분촌법에서 부위별 기준을 설명한 뒤 덧붙인 문장입니다. 寸은 여기서 몸에 맞추어 나누는 비례의 단위입니다. 현재의 경혈 위치는 [표준 경혈 아틀라스](../acupoint-network/standard-atlas.md)에서 골도분촌과 해부학적 표지를 확인하고, 개별 문서에서 자세·촉지와 주변 신경·혈관·장기를 함께 살핍니다. 고전의 비례 독해가 위치를 찾는 원칙을 보여 준다면, 현대 표준과 해부학은 실제 적용의 기준을 구체화합니다.
 
+[구침의 문장 구조](donguibogam/original.md#nine-needle-purpose)에서는 도구마다 알맞은 쓰임을, [체격 차이와 촉지](donguibogam/original.md#point-body-variation)에서는 비례와 실제 표면 표지의 관계를 풀어 읽습니다. [동신촌의 큰 원칙과 부위별 적용](donguibogam/original.md#proportional-cun), [앞뒤 발제를 나누는 두부 비례](donguibogam/original.md#head-proportion)를 함께 읽으면 취혈의 기준과 개인차를 비교할 수 있습니다.
+
 ### 아시혈: 이름과 함께 반응 부위를 살피다 {#ashi-assessment}
 
 > 有阿是穴之法。〔資生〕
