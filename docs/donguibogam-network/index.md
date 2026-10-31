@@ -121,7 +121,7 @@ last_reviewed: 2026-10-07
 
 ## 동의보감 잡병편 임상 탐색 {#japbyeong}
 
-잡병편은 외감·내상·허로·적취·부인·소아 등 다양한 병증을 폭넓게 다루는 임상 영역입니다. [핵심 원문·한국어 풀이: 진찰·치료 순서·옹저의 단계 6대목](../classics/donguibogam/original.md#selected-misc)을 함께 읽습니다.
+잡병편은 외감·내상·허로·적취·부인·소아 등 다양한 병증을 폭넓게 다루는 임상 영역입니다. [핵심 원문·한국어 풀이: 진찰·치료 순서·옹저·구토·기침 12대목](../classics/donguibogam/original.md#selected-misc)을 함께 읽습니다.
 
 ### 읽는 방법 {#_6}
 현대 질환명을 고전 병명에 바로 대입하지 않고 **환자 증상 → 고전 병증의 핵심 양상 → 변증 → 치법 → 처방**으로 연결합니다.
@@ -134,7 +134,8 @@ last_reviewed: 2026-10-07
 |---|---|---|
 | 內傷 · 내상 | 식사·과로 이후 식욕과 소화·활동량이 어떻게 달라졌나 | [성인 식욕저하](../conditions/poor-appetite-adult.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) · [비위론](../classics/piwei-lun.md) |
 | 虛勞 · 허로 | 허약에 식욕저하·불면·건조·냉감이 어떻게 겹치나 | [피로](../conditions/chronic-fatigue.md) · [보익 처방 계열](../formula-architecture/tonic-family.md) |
-| 咳嗽 · 해수 | 기침에 담·건조·허약이 어떤 양상으로 동반되나 | [내경 폐병증과 비교](../conditions/chronic-cough.md#classical-formula-context) · [질환→치료 지도](../network/condition-to-treatment-map.md) · [담음](../diagnostics/patterns/phlegm-fluid.md) |
+| 嘔吐 · 구토 | 메스꺼움·헛구역질·실제 구토와 섭취는 어떻게 다른가 | [오심·건구 원문](../classics/donguibogam/original.md#nausea-dry-retching) · [원인을 비교한 논평](../classics/donguibogam/original.md#vomiting-multiple-causes) · [비위·소화](../pillar/digestion-spleen-stomach.md) |
+| 咳嗽 · 해수 | 기침에 담·건조·허약이 어떤 양상으로 동반되나 | [가래 배출의 원문](../classics/donguibogam/original.md#sputum-ease-dryness) · [이진탕의 조건](../classics/donguibogam/original.md#erchen-cough-conditions) · [식적수](../classics/donguibogam/original.md#food-stagnation-cough) · [내경 폐병증과 비교](../conditions/chronic-cough.md#classical-formula-context) · [질환→치료 지도](../network/condition-to-treatment-map.md) · [담음](../diagnostics/patterns/phlegm-fluid.md) |
 | 消渴 · 소갈 | 갈증·음수·배뇨·체중 변화의 조합은 무엇인가 | [제2형 당뇨병](../conditions/type-2-diabetes.md) · [심혈관·대사 한약 근거](../authority/formulas/cardiometabolic-herbal-evidence.md) |
 | 浮腫 · 부종 | 붓는 부위·시간과 호흡·소변의 변화는 무엇인가 | [부종](../conditions/edema-swelling.md) · [금궤요략 수기병](../classics/jinkui-yaolue/chapters/water-qi.md) |
 | 婦人 · 부인 | 월경·임신·산후 중 어느 시기의 문제인가 | [여성·임신·산후 허브](../womens-health/fertility-pregnancy-postpartum.md) · [산후 회복](../conditions/postpartum-recovery.md) |
