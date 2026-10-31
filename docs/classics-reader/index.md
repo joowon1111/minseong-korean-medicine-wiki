@@ -55,7 +55,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 - **육경병으로 바로 가기:** [태양 상](../classics/shanghanlun/clauses/taiyang-upper.md) · [태양 중](../classics/shanghanlun/clauses/taiyang-middle.md) · [태양 하](../classics/shanghanlun/clauses/taiyang-lower.md) · [양명](../classics/shanghanlun/clauses/yangming.md) · [소양](../classics/shanghanlun/clauses/shaoyang.md) · [태음](../classics/shanghanlun/clauses/taiyin.md) · [소음](../classics/shanghanlun/clauses/shaoyin.md) · [궐음](../classics/shanghanlun/clauses/jueyin.md).
 - **책을 먼저 이해하기:** [상한론 소개](../classics/shanghanlun.md) · [처방 계열 비교](../formula-architecture/shanghan-family.md).
 
-### 증후·배합·치료 순서로 읽는 네 경로 {#shanghan-reading-paths}
+### 증후·배합·치료 순서로 읽는 다섯 경로 {#shanghan-reading-paths}
 
 조문 번호를 찾은 뒤에는 **어떤 조건에서 처방이 등장하고, 앞뒤 문장과 무엇이 달라지는지** 읽습니다. 아래 경로는 임상 처방을 고르는 자가진단표가 아니라 원문의 비교 대목을 찾는 안내입니다.
 
@@ -65,8 +65,9 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 | 치료 뒤 증상이 바뀌는 순서 | [29조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-029) | [상한론 처방 계열](../formula-architecture/shanghan-family.md): 같은 경과 안에서 처방을 나누는 이유 |
 | 소시호탕의 중심 증후와 겸증 | [96조](../classics/shanghanlun/clauses/taiyang-middle.md#clause-096) | [소시호탕](../formulas/xiaochaihu-tang.md): 원방과 조건부 가감의 구별 |
 | 결흉과 심하비의 갈림점 | [149조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149) | [반하사심탕류 비교](../formulas/banxia-xiexin-tang.md#shanghan-xiexin-family) → [현대 소화불량의 처방 구성](../conditions/functional-dyspepsia.md#formula-composition) |
+| 병이 풀린 뒤에도 남은 허약·구역과 조제 순서 | [397조 죽엽석고탕](../classics/shanghanlun/clauses/recovery.md#clause-397) | [죽엽석고탕](../formulas/zhuye-shigao-tang.md#original-pattern-course): 본문의 증후와 배합 해설, 갱미 후입을 비교 |
 
-마지막 경로의 고전 심하비와 현대 기능성소화불량은 같은 진단명이 아닙니다. 원문은 증후와 배합을 이해하는 자료로, 질환 문서는 현재의 평가·치료·연구를 읽는 자료로 이어집니다. 각 조문에서 대조 원문과 판본 안내를 확인할 수 있습니다.
+고전 심하비와 현대 기능성소화불량은 같은 진단명이 아닙니다. 원문은 증후와 배합을 이해하는 자료로, 질환 문서는 현재의 평가·치료·연구를 읽는 자료로 이어집니다. 각 조문에서 대조 원문과 판본 안내를 확인할 수 있습니다.
 
 ## 금궤요략 — 편명과 관심 병증으로 읽기 {#jingui}
 
@@ -84,6 +85,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 | 허로의 복부 불편과 보하는 배합은 어떻게 이어지나요? | [제6편 소건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-013) → [황기건중탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-014) | [소건중탕 구성](../formulas/xiaojianzhong-tang.md) · [황기건중탕 구성](../formulas/huangqi-jianzhong-tang.md) |
 | 허번과 불면을 왜 함께 적었나요? | [제6편 산조인탕](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017) | [원방의 다섯 약과 선전](../formulas/suanzaoren-tang.md#jinkui-preparation) → [불면의 고전·임상 연결](../conditions/insomnia.md#classical-clinical-reading) |
 | 같은 길경탕은 두 책에서 어떤 문맥으로 나오나요? | [상한론 311조의 인후통](../classics/shanghanlun/clauses/shaoyin.md#clause-311) → [금궤요략 7.12의 기침·배출물](../classics/jinkui-yaolue/chapters/lung-cough.md#clause-07-012) | 같은 두 약과 서로 다른 병증 문맥을 비교 |
+| 같은 백호가인삼탕의 주치와 포제 표기는 어떻게 다른가요? | [상한론 26조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-026) → [금궤요략 2.26](../classics/jinkui-yaolue/chapters/spasm-damp-heat.md#clause-02-026) → [13.12](../classics/jinkui-yaolue/chapters/thirst-urination.md#clause-13-012) | [같은 약량과 다른 주치·부기](../formulas/baihu-tang.md#baihu-renshen-source-comparison)를 나누어 대조 |
 | 설사에 구토가 겹치면 처방과 기록은 어떻게 달라지나요? | [상한론 172조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-172) → [금궤요략 17.11](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-011) | 황금탕의 가감과 두 수록본의 생강량을 비교 |
 | 구토와 갈증은 어떤 순서로 살피나요? | [구토편 17.2](../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-002) → [담음편 12.28·12.30](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-028) | 증상의 선후와 소반하탕·소반하가복령탕의 구성을 비교 |
 | 담음에서는 증상의 위치와 경과를 어떻게 읽나요? | [제12편 핵심 조문 연결](../classics/jinkui-yaolue/chapters/fluid-cough.md#reading-patterns) → [영계출감탕](../classics/jinkui-yaolue/chapters/fluid-cough.md#clause-12-016) | [영계출감탕](../formulas/linggui-zhugan-tang.md): 배합·감별·연구 대상 확인 |
