@@ -90,8 +90,12 @@
       panel.hidden = false;
       el('p', kinds[entry.kind] + ' · ' + entry.region, panel, 'discovery-eyebrow');
       el('h3', entry.name + (entry.han ? ' ' + entry.han : '') + (entry.code ? ' · ' + entry.code : ''), panel);
+      if (entry.kind === 'standard') {
+        const detail = link(entry.name + ' 상세페이지 바로가기 →', entry.href, panel);
+        detail.className = 'discovery-detail-link';
+      }
       const actions = el('div', undefined, panel, 'discovery-actions');
-      link('상세 문서', entry.href, actions);
+      if (entry.kind !== 'standard') link('상세 문서', entry.href, actions);
       if (entry.kind === 'standard') link('3D로 보기', '/acupoint-network/3d-map/?point=' + encodeURIComponent(entry.code), actions);
       if (entry.route) link(entry.meridian_name + ' 유주', entry.route, actions);
       if (entry.standard_reference) link('표준경혈 DB', entry.standard_reference, actions);

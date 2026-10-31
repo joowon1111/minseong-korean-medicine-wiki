@@ -56,6 +56,11 @@
 .discovery-eyebrow{font-size:.65rem;color:var(--md-default-fg-color--light);margin:0 0 .2rem!important}
 .discovery-source{font-size:.65rem;color:var(--md-default-fg-color--light)}
 .discovery-actions a{padding:.4rem .6rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:6px;min-height:38px}
+/* The selected point's full article is the primary destination. */
+.md-typeset .discovery-detail-link{display:inline-flex;align-items:center;justify-content:center;min-height:48px;max-width:100%;margin:0 0 .8rem;padding:.65rem 1rem;border:2px solid #075c59;border-radius:8px;background:#075c59;color:#fff;font-weight:700;line-height:1.4;text-decoration:none}
+.md-typeset .discovery-detail-link:hover{background:#064b49;border-color:#064b49;color:#fff;text-decoration:underline;text-underline-offset:.2em}
+.md-typeset .discovery-detail-link:focus-visible{outline:3px solid var(--md-accent-fg-color);outline-offset:3px}
+@media(max-width:600px){.md-typeset .discovery-detail-link{display:flex;width:100%}}
 .discovery-figure{margin:.6rem 0!important;border:1px solid var(--md-default-fg-color--lightest);border-radius:10px;overflow:hidden}
 .discovery-figure object{display:block;width:100%;height:440px;background:#fff}
 .discovery-figure figcaption{font-size:.65rem!important;text-align:left!important;padding:.5rem;margin:0!important}
