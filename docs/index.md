@@ -8,7 +8,7 @@ hide:
 <h1>민성 한의학 아카이브</h1>
 <div class="ms-home-intro">
 <p>한의학의 기초이론부터 경혈·경락·침구치료, 본초학·한약·방제학, 사상의학, 상한론·동의보감 등 주요 한의학 고전과 <span class="ms-intro-phrase">현대 임상연구까지</span> 체계적으로 연결한 교육·학술 목적의 공개 지식 아카이브입니다.</p>
-<p>고전의 원문과 해설에서 처방의 구성과 본초의 역할을 이어 읽고, 361경혈 아틀라스와 3D 경혈 지도에서 혈자리의 위치와 해부학을 살펴볼 수 있습니다. 증상과 질환을 출발점으로 한약·침구치료와 현대 임상연구도 함께 찾아볼 수 있습니다.</p>
+<p>궁금한 증상 하나, 낯익은 처방 이름 하나에서 출발해 보세요. 관련된 병증과 치료법, 본초와 고전의 기록을 따라가다 보면 흩어져 있던 한의학 지식이 서로 연결됩니다. <strong>361경혈 아틀라스와 3D 경혈 지도에서는 혈자리의 위치를 입체적으로 익히고, 각 경혈의 의미와 임상적 활용까지 이어서 살펴볼 수 있습니다.</strong></p>
 </div>
 <p class="km-guide-entry" lang="en"><a href="korean-medicine-guide/"><span class="km-guide-label"><span>Korean Medicine Guide</span> <span class="km-guide-hint">Start here in English</span></span><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a></p>
 </div>
