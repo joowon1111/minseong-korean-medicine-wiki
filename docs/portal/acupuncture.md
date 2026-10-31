@@ -10,7 +10,9 @@ last_reviewed: '2026-09-09'
 **증상에 맞는 침구치료, 혈자리의 위치·주치, 침법별 배혈과 현대 연구를 한곳에서 찾습니다.** 361경혈 아틀라스와 사암침·동씨침·태극침 지식망을 근육·근막·말초신경 해부학에 연결해 살펴볼 수 있습니다.
 
 [**3D 경혈 지도 · 돌려보는 동인**](../acupoint-network/3d-map.md){ .md-button .md-button--primary }
+[**361경혈 임상 아틀라스**](../acupoint-network/standard-atlas.md){ .md-button .md-button--primary }
 [**사암침법 핵심 지식망**](../acupuncture-specific/saam-acupuncture.md){ .md-button .md-button--primary }
+
 [**동씨침법·50혈 아틀라스**](../tung-acupuncture/index.md){ .md-button }
 [**태극침법 핵심 지식망**](../taegeuk-acupuncture/index.md){ .md-button }
 
