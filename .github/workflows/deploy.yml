@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Serialize Pages pushes; GitHub keeps only the latest pending deployment.
+concurrency:
+  group: archive-pages-deploy
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -97,4 +102,9 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Deploy
-        run: mkdocs gh-deploy --force
+        run: |
+          # Keep the Pages branch and its history; buffer this generated-site push
+          # instead of sending a chunked HTTP request through the transport.
+          git config --local http.version HTTP/1.1
+          git config --local http.postBuffer 524288000
+          mkdocs gh-deploy --force
