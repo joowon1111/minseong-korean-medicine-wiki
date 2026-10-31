@@ -1,10 +1,10 @@
 ﻿---
-title: 행간 LR2
+title: 행간(行間) LR2
 description: 행간 LR2 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 행간 LR2
+# 행간(行間) LR2
 
 ## 혈자리 이야기 — 발가락 사이의 행간
 

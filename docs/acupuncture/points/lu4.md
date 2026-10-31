@@ -1,10 +1,10 @@
 ﻿---
-title: 협백 LU4
+title: 협백(俠白) LU4
 description: 협백 LU4 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 협백 LU4
+# 협백(俠白) LU4
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

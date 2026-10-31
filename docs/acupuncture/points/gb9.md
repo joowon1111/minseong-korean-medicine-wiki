@@ -1,10 +1,10 @@
 ﻿---
-title: 천충 GB9
+title: 천충(天衝) GB9
 description: 천충 GB9 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 천충 GB9
+# 천충(天衝) GB9
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

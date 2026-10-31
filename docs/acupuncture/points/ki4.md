@@ -1,10 +1,10 @@
 ﻿---
-title: 대종 KI4
+title: 대종(大鐘) KI4
 description: 대종 KI4 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 대종 KI4
+# 대종(大鐘) KI4
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

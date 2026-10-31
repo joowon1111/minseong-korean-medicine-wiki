@@ -1,10 +1,10 @@
 ﻿---
-title: 완골 SI4
+title: 완골(腕骨) SI4
 description: 완골 SI4 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 완골 SI4
+# 완골(腕骨) SI4
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

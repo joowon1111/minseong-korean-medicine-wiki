@@ -1,10 +1,10 @@
 ﻿---
-title: 소부 HT8
+title: 소부(少府) HT8
 description: 소부 HT8 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 소부 HT8
+# 소부(少府) HT8
 
 ## 혈자리 이야기 — 주먹을 가볍게 쥐면
 

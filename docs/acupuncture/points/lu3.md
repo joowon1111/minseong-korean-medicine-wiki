@@ -1,10 +1,10 @@
 ﻿---
-title: 천부 LU3
+title: 천부(天府) LU3
 description: 천부 LU3 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 천부 LU3
+# 천부(天府) LU3
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

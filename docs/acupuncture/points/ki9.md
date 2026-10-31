@@ -1,10 +1,10 @@
 ﻿---
-title: 축빈 KI9
+title: 축빈(築賓) KI9
 description: 축빈 KI9 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 축빈 KI9
+# 축빈(築賓) KI9
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

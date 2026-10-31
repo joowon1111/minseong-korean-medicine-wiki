@@ -1,9 +1,9 @@
 ---
-title: 기해 CV6
+title: 기해(氣海) CV6
 description: 기해 CV6의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 기해 CV6
+# 기해(氣海) CV6
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

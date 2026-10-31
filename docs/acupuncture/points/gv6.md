@@ -1,10 +1,10 @@
 ﻿---
-title: 척중 GV6
+title: 척중(脊中) GV6
 description: 척중 GV6 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 척중 GV6
+# 척중(脊中) GV6
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

@@ -1,10 +1,10 @@
 ﻿---
-title: 양계 LI5
+title: 양계(陽谿) LI5
 description: 양계 LI5 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 양계 LI5
+# 양계(陽谿) LI5
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

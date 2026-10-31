@@ -1,10 +1,10 @@
 ﻿---
-title: 현리 GB6
+title: 현리(懸釐) GB6
 description: 현리 GB6 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 현리 GB6
+# 현리(懸釐) GB6
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

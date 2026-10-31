@@ -1,10 +1,10 @@
 ﻿---
-title: 대돈 LR1
+title: 대돈(大敦) LR1
 description: 대돈 LR1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 대돈 LR1
+# 대돈(大敦) LR1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

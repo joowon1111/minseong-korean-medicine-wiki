@@ -1,10 +1,10 @@
 ﻿---
-title: 중추 GV7
+title: 중추(中樞) GV7
 description: 중추 GV7 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 중추 GV7
+# 중추(中樞) GV7
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

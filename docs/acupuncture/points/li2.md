@@ -1,10 +1,10 @@
 ﻿---
-title: 이간 LI2
+title: 이간(二間) LI2
 description: 이간 LI2 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 이간 LI2
+# 이간(二間) LI2
 
 ## 혈자리 이야기 — 검지의 두 이웃, 이간과 삼간
 

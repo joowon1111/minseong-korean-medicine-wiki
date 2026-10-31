@@ -1,10 +1,10 @@
 ﻿---
-title: 관충 TE1
+title: 관충(關衝) TE1
 description: 관충 TE1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 관충 TE1
+# 관충(關衝) TE1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

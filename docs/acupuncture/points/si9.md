@@ -1,10 +1,10 @@
 ﻿---
-title: 견정 SI9
+title: 견정(肩貞) SI9
 description: 견정 SI9 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 견정 SI9
+# 견정(肩貞) SI9
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

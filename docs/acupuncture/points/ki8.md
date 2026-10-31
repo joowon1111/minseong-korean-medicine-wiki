@@ -1,10 +1,10 @@
 ﻿---
-title: 교신 KI8
+title: 교신(交信) KI8
 description: 교신 KI8 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 교신 KI8
+# 교신(交信) KI8
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

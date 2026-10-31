@@ -1,10 +1,10 @@
 ﻿---
-title: 전곡 SI2
+title: 전곡(前谷) SI2
 description: 전곡 SI2 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 전곡 SI2
+# 전곡(前谷) SI2
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

@@ -1,10 +1,10 @@
 ﻿---
-title: 음포 LR9
+title: 음포(陰包) LR9
 description: 음포 LR9 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 음포 LR9
+# 음포(陰包) LR9
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

@@ -1,10 +1,10 @@
 ﻿---
-title: 소충 HT9
+title: 소충(少衝) HT9
 description: 소충 HT9 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 소충 HT9
+# 소충(少衝) HT9
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

@@ -1,9 +1,9 @@
 ---
-title: 공손 SP4
+title: 공손(公孫) SP4
 description: 공손 SP4의 임상 활용, 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 임상한의학]
 ---
-# 공손 SP4
+# 공손(公孫) SP4
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

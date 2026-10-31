@@ -1,10 +1,10 @@
 ﻿---
-title: 회종 TE7
+title: 회종(會宗) TE7
 description: 회종 TE7 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 회종 TE7
+# 회종(會宗) TE7
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

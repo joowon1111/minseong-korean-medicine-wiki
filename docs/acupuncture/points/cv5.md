@@ -1,10 +1,10 @@
 ﻿---
-title: 석문 CV5
+title: 석문(石門) CV5
 description: 석문 CV5 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 석문 CV5
+# 석문(石門) CV5
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

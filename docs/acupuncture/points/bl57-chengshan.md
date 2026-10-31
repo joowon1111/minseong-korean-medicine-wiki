@@ -1,9 +1,9 @@
 ---
-title: 승산 BL57
+title: 승산(承山) BL57
 description: 승산 BL57의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 승산 BL57
+# 승산(承山) BL57
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

@@ -1,10 +1,10 @@
 ﻿---
-title: 정명 BL1
+title: 정명(睛明) BL1
 description: 정명 BL1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 정명 BL1
+# 정명(睛明) BL1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

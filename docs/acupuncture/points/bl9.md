@@ -1,10 +1,10 @@
 ﻿---
-title: 옥침 BL9
+title: 옥침(玉枕) BL9
 description: 옥침 BL9 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 옥침 BL9
+# 옥침(玉枕) BL9
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

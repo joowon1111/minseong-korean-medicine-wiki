@@ -1,10 +1,10 @@
 ﻿---
-title: 극천 HT1
+title: 극천(極泉) HT1
 description: 극천 HT1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 극천 HT1
+# 극천(極泉) HT1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

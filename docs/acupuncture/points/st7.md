@@ -1,10 +1,10 @@
 ﻿---
-title: 하관 ST7
+title: 하관(下關) ST7
 description: 하관 ST7 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 하관 ST7
+# 하관(下關) ST7
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

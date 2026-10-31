@@ -1,10 +1,10 @@
 ﻿---
-title: 회음 CV1
+title: 회음(會陰) CV1
 description: 회음 CV1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 회음 CV1
+# 회음(會陰) CV1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈
