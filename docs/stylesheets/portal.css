@@ -57,6 +57,7 @@
   overflow-wrap: anywhere;
   text-wrap: pretty;
 }
+.md-typeset .ms-home-intro p + p { margin-top: 1.2em; }
 .md-typeset:has(.ms-home) .ms-grid { gap: .8rem; margin: 0 0 1.8rem; }
 .md-typeset .ms-home .km-guide-entry { margin: .8rem 0 0; text-align: left; }
 .md-typeset .ms-home .km-guide-entry a {
