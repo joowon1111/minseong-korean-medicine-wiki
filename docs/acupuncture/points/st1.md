@@ -1,10 +1,10 @@
 ﻿---
-title: 승읍 ST1
+title: 승읍(承泣) ST1
 description: 승읍 ST1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 승읍 ST1
+# 승읍(承泣) ST1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

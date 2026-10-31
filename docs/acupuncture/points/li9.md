@@ -1,10 +1,10 @@
 ﻿---
-title: 상렴 LI9
+title: 상렴(上廉) LI9
 description: 상렴 LI9 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 상렴 LI9
+# 상렴(上廉) LI9
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

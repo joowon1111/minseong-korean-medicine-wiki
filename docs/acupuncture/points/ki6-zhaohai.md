@@ -1,9 +1,9 @@
 ---
-title: 조해 KI6
+title: 조해(照海) KI6
 description: 조해 KI6의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 조해 KI6
+# 조해(照海) KI6
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

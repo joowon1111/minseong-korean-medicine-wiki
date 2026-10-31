@@ -1,9 +1,9 @@
 ---
-title: 견우 LI15
+title: 견우(肩髃) LI15
 description: 견우 LI15의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 견우 LI15
+# 견우(肩髃) LI15
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

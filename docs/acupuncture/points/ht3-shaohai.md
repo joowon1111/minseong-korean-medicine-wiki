@@ -1,9 +1,9 @@
 ---
-title: 소해 HT3
+title: 소해(少海) HT3
 description: 소해 HT3의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 소해 HT3
+# 소해(少海) HT3
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

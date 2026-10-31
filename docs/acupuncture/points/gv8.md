@@ -1,10 +1,10 @@
 ﻿---
-title: 근축 GV8
+title: 근축(筋縮) GV8
 description: 근축 GV8 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 근축 GV8
+# 근축(筋縮) GV8
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

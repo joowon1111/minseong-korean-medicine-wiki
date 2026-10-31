@@ -1,10 +1,10 @@
 ﻿---
-title: 동자료 GB1
+title: 동자료(瞳子髎) GB1
 description: 동자료 GB1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 동자료 GB1
+# 동자료(瞳子髎) GB1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

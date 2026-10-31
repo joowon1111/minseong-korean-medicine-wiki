@@ -1,10 +1,10 @@
 ﻿---
-title: 소해 SI8
+title: 소해(小海) SI8
 description: 소해 SI8 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 소해 SI8
+# 소해(小海) SI8
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

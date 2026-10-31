@@ -1,9 +1,9 @@
 ---
-title: 곤륜 BL60
+title: 곤륜(崑崙) BL60
 description: 곤륜 BL60의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 곤륜 BL60
+# 곤륜(崑崙) BL60
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

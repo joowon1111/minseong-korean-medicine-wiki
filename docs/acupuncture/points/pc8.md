@@ -1,10 +1,10 @@
 ﻿---
-title: 노궁 PC8
+title: 노궁(勞宮) PC8
 description: 노궁 PC8 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 노궁 PC8
+# 노궁(勞宮) PC8
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

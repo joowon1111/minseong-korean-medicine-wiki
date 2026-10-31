@@ -1,9 +1,9 @@
 ---
-title: 대장수 BL25
+title: 대장수(大腸兪) BL25
 description: 대장수 BL25의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 대장수 BL25
+# 대장수(大腸兪) BL25
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

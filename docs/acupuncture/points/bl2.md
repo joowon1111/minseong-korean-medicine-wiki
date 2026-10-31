@@ -1,10 +1,10 @@
 ---
-title: 찬죽 BL2
+title: 찬죽(攢竹) BL2
 description: 찬죽 BL2 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 찬죽 BL2
+# 찬죽(攢竹) BL2
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

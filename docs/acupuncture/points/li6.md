@@ -1,10 +1,10 @@
 ﻿---
-title: 편력 LI6
+title: 편력(偏歷) LI6
 description: 편력 LI6 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 편력 LI6
+# 편력(偏歷) LI6
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

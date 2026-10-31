@@ -1,9 +1,9 @@
 ---
-title: 후계 SI3
+title: 후계(後谿) SI3
 description: 후계 SI3의 임상 활용, 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 임상한의학]
 ---
-# 후계 SI3
+# 후계(後谿) SI3
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

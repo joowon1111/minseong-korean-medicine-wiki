@@ -1,10 +1,10 @@
 ﻿---
-title: 대도 SP2
+title: 대도(大都) SP2
 description: 대도 SP2 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 대도 SP2
+# 대도(大都) SP2
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

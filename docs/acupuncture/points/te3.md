@@ -1,10 +1,10 @@
 ﻿---
-title: 중저 TE3
+title: 중저(中渚) TE3
 description: 중저 TE3 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 중저 TE3
+# 중저(中渚) TE3
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

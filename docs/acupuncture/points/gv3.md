@@ -1,10 +1,10 @@
 ﻿---
-title: 요양관 GV3
+title: 요양관(腰陽關) GV3
 description: 요양관 GV3 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 요양관 GV3
+# 요양관(腰陽關) GV3
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

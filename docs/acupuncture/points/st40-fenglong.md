@@ -1,9 +1,9 @@
 ---
-title: 풍륭 ST40
+title: 풍륭(豊隆) ST40
 description: 풍륭 ST40의 임상 활용, 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 임상한의학]
 ---
-# 풍륭 ST40
+# 풍륭(豊隆) ST40
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

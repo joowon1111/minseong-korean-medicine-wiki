@@ -1,10 +1,10 @@
 ﻿---
-title: 통천 BL7
+title: 통천(通天) BL7
 description: 통천 BL7 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 통천 BL7
+# 통천(通天) BL7
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

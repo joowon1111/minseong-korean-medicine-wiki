@@ -1,10 +1,10 @@
 ﻿---
-title: 장강 GV1
+title: 장강(長强) GV1
 description: 장강 GV1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 장강 GV1
+# 장강(長强) GV1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

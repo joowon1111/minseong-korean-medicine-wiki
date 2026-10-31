@@ -1,9 +1,9 @@
 ---
-title: 외관 TE5
+title: 외관(外關) TE5
 description: 외관 TE5의 임상 활용, 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 임상한의학]
 ---
-# 외관 TE5
+# 외관(外關) TE5
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

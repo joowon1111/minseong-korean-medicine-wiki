@@ -1,10 +1,10 @@
 ﻿---
-title: 은백 SP1
+title: 은백(隱白) SP1
 description: 은백 SP1 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 은백 SP1
+# 은백(隱白) SP1
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

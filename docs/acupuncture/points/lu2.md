@@ -1,10 +1,10 @@
 ﻿---
-title: 운문 LU2
+title: 운문(雲門) LU2
 description: 운문 LU2 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 운문 LU2
+# 운문(雲門) LU2
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

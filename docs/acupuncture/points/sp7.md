@@ -1,10 +1,10 @@
 ﻿---
-title: 누곡 SP7
+title: 누곡(漏谷) SP7
 description: 누곡 SP7 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 누곡 SP7
+# 누곡(漏谷) SP7
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

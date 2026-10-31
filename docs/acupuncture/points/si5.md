@@ -1,10 +1,10 @@
 ﻿---
-title: 양곡 SI5
+title: 양곡(陽谷) SI5
 description: 양곡 SI5 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 양곡 SI5
+# 양곡(陽谷) SI5
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

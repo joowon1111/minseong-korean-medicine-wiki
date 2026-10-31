@@ -1,9 +1,9 @@
 ---
-title: 대릉 PC7
+title: 대릉(大陵) PC7
 description: 대릉 PC7의 취혈, 임상 배혈, 안전성과 관련 연구를 정리합니다.
 tags: [경혈, 침구, 임상한의학]
 ---
-# 대릉 PC7
+# 대릉(大陵) PC7
 
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->

@@ -1,10 +1,10 @@
 ﻿---
-title: 오처 BL5
+title: 오처(五處) BL5
 description: 오처 BL5 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 오처 BL5
+# 오처(五處) BL5
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

@@ -1,10 +1,10 @@
 ﻿---
-title: 사백 ST2
+title: 사백(四白) ST2
 description: 사백 ST2 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 사백 ST2
+# 사백(四白) ST2
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

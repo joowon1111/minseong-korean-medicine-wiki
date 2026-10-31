@@ -1,10 +1,10 @@
 ﻿---
-title: 낙각 BL8
+title: 낙각(絡却) BL8
 description: 낙각 BL8 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 낙각 BL8
+# 낙각(絡却) BL8
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈

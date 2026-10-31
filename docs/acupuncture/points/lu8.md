@@ -1,10 +1,10 @@
 ﻿---
-title: 경거 LU8
+title: 경거(經渠) LU8
 description: 경거 LU8 표준 위치·취혈·임상 지식망
 status: 검토완료
 last_reviewed: 2026-08-22
 ---
-# 경거 LU8
+# 경거(經渠) LU8
 
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈
