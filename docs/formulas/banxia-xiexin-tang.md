@@ -118,7 +118,7 @@ description: 반하사심탕의 신개고강·한열평조 구조와 심하비·
 |---|---|---|
 | [반하사심탕 · 149조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-149) | 만이불통의 비 | 반하·황금·건강·인삼·감초·황련·대조. 건강 3냥, 황련 1냥 |
 | [생강사심탕 · 157조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-157) | 비경·건애식취·협하수기·장명·하리 | 생강 4냥, 건강 1냥. 생강과 건강을 같은 약재·용량으로 합치지 않음 |
-| [감초사심탕 · 158조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-158) | 반복 하법 뒤 위허·객기상역과 미소화 하리·건구·심번 | 감초 4냥. 아카이브 기준 송본의 약재 목록은 인삼 없는 6미이며 다른 판본·교감의 7미 구성과 구분 |
+| [감초사심탕 · 158조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-158) | 반복 하법 뒤 위허·객기상역과 미소화 하리·건구·심번 | 감초 4냥. 송본 전사 처방문은 인삼 없는 6미이며 송대 교정자는 인삼 누락을 주석으로 논함. [금궤요략 3.10](../classics/jinkui-yaolue/chapters/lily-fox-yinyang.md#clause-03-010)은 인삼을 포함한 7미 |
 | [대황황련사심탕 · 154조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-154) | 비·안지유·관상부 | 대황 2냥·황련 1냥의 끓는 물 침출. 반하사심탕 7미나 승기탕류의 전탕과 다름 |
 | [부자사심탕 · 155조](../classics/shanghanlun/clauses/taiyang-lower.md#clause-155) | 비에 오한·한출이 겹침 | 대황·황련·황금의 침출액에 별도로 달인 부자액을 합침 |
 
