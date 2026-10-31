@@ -109,6 +109,8 @@ last_reviewed: '2026-09-05'
 
 [탕액편 16종 본초 목차](donguibogam/tangyeok/index.md#1)에서 나머지 원문 해설도 찾을 수 있습니다.
 
+본초의 짧은 구절을 더 깊이 읽으려면 [인삼의 주치와 보충 논평](donguibogam/original.md#ginseng-nourish), [감초의 조화·생용·가공](donguibogam/original.md#licorice-harmonize), [창출과 백출의 강조점](donguibogam/original.md#lancea-dampness), [황기의 기허·발한 조건](donguibogam/original.md#astragalus-sweat)을 비교합니다. [황련의 포제별 역할](donguibogam/original.md#coptis-processing)과 [반하의 주치·건조 관련 조건](donguibogam/original.md#pinellia-dryness)은 가공 형태와 환자의 상태를 함께 읽는 대목입니다.
+
 약재를 찾은 뒤에는 **생지황과 숙지황의 가공 차이, 반하의 포제, 복합 처방 안에서의 역할**을 확인합니다. 한 성분의 약리 설명만으로 그 성분을 포함한 모든 처방의 효능을 같게 보지는 않습니다.
 
 → [본초학 임상 지식망](../herbs/index.md)  
