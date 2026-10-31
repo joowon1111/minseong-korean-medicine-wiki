@@ -11,8 +11,8 @@ last_reviewed: '2026-09-09'
 
 [**3D 경혈 지도 · 돌려보는 동인**](../acupoint-network/3d-map.md){ .md-button .md-button--primary }
 [**361경혈 임상 아틀라스**](../acupoint-network/standard-atlas.md){ .md-button .md-button--primary }
-[**사암침법 핵심 지식망**](../acupuncture-specific/saam-acupuncture.md){ .md-button .md-button--primary }
 
+[**사암침법 핵심 지식망**](../acupuncture-specific/saam-acupuncture.md){ .md-button }
 [**동씨침법·50혈 아틀라스**](../tung-acupuncture/index.md){ .md-button }
 [**태극침법 핵심 지식망**](../taegeuk-acupuncture/index.md){ .md-button }
 
