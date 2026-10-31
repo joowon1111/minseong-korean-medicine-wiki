@@ -67,6 +67,8 @@ last_reviewed: 2026-10-07
 
 변은 부드러운데 배출이 어렵거나 허약이 중심이면 같은 윤장 처방을 계속 늘리기보다 원인과 다른 치료축을 다시 봅니다. 기능성변비 연구에서는 완전자발배변·구제약 사용을, 현재 진료에서는 힘주기·잔변감·일상 불편까지 함께 확인합니다.
 
+배뇨와 붓기를 함께 읽을 때는 [삼초의 물길 비유](../classics/donguibogam/original.md#fluid-waterways)와 [기행즉수행의 문장·문진 풀이](../classics/donguibogam/original.md#qi-water-movement)를 비교합니다. 전자는 수액을 잇는 기능 관계를, 후자는 흐름과 정체라는 상태를 설명합니다. 현재의 소변 횟수·양·배출감, 갈증과 붓기는 각각 나누어 기록하고 관련 질환 문서의 평가 기준과 연결합니다.
+
 ### 임상 적용 {#_3}
 내경편의 개념을 현대 장기 하나와 그대로 동일시하지 않고, 환자의 증상 패턴과 변증을 구조화하는 전통적 생리·병리 언어로 읽습니다.
 
@@ -107,6 +109,8 @@ last_reviewed: 2026-10-07
 
 급성 삐끗함은 손상과 신경학적 평가 뒤 통증·움직임 회복을, 오래된 통증은 근력·보행·수면·회복능력을 함께 봅니다. 외형편 권4 족의 독활기생탕은 「肝腎虛弱，筋攣骨痛」이라는 맥락에서 풍습을 다스리는 약재와 기혈·간신을 돕는 약재를 함께 배치합니다. [요통의 원문 해석과 감별](../conditions/low-back-pain.md#classical-clinical-reading) · [독활기생탕의 출전별 구성](../formulas/duhuo-jisheng-tang.md#donguibogam-version)
 
+[어혈요통의 동작·통증 성질](../classics/donguibogam/original.md#back-stasis-pain), [한요통의 냉온 반응](../classics/donguibogam/original.md#back-cold-response), [신착의 냉감·무거움과 보존된 식사·배뇨](../classics/donguibogam/original.md#kidney-attachment)를 함께 읽으면 같은 허리 부위에서도 비교하는 소견이 다름을 볼 수 있습니다. 이 차이는 환자가 편해지는 조건과 회복할 기능을 구체화하는 데 도움이 됩니다.
+
 고전의 신허는 신장검사 이상이나 디스크의 특정 영상 소견과 동의어가 아닙니다. 방제의 현대 연구도 대상 질환별로 구분해 읽습니다. [외형편 원문](https://ko.wikisource.org/wiki/동의보감/외형편)
 
 ### 현훈·심계를 동반 증상과 연결하기 {#dizziness-palpitations-pathway}
@@ -121,6 +125,8 @@ last_reviewed: 2026-10-07
 
 ### 읽는 방법 {#_6}
 현대 질환명을 고전 병명에 바로 대입하지 않고 **환자 증상 → 고전 병증의 핵심 양상 → 변증 → 치법 → 처방**으로 연결합니다.
+
+잡병편의 진찰 총론은 [사진의 네 접근](../classics/donguibogam/original.md#four-examinations)과 [호흡·목소리의 관찰](../classics/donguibogam/original.md#breathing-and-voice)에서 구체적으로 읽을 수 있습니다. 먼저 관찰·문진한 사실을 기술하고, 그 뒤에 병증·치법의 해석을 붙이는 순서입니다. 병의 경과에 따른 판단은 [옹저의 전후 단계와 구토](../classics/donguibogam/original.md#abscess-vomiting-stage), 상태에 따른 치법 비교는 [옹저의 한열·허실과 통증](../classics/donguibogam/original.md#abscess-pain-patterns)에서 나란히 살핍니다. 두 예는 원전의 진찰·치료 논리를 읽는 경로이며, 현재의 감염과 전신 상태 평가는 해당 진료 기준을 따릅니다.
 
 ### 현재 지식망과 연결 {#_7}
 
@@ -157,7 +163,7 @@ last_reviewed: 2026-10-07
 
 | 읽을 임상 질문 | 동의보감 수록 위치·배합 | 기존 문서 |
 |---|---|---|
-| 묽은변에 식욕저하·피로가 오래 겹치는가? | 잡병편 권3 내상, 삼령백출산의 보기건비·삼습 산제 | [삼령백출산](../formulas/shenling-baizhu-san.md#donguibogam-version) · [설사](../conditions/diarrhea.md#classical-clinical-reading) |
+| 묽은변에 식욕저하·피로가 오래 겹치는가? | 잡병편 권4 내상, 삼령백출산의 보기건비·삼습 산제 | [삼령백출산](../formulas/shenling-baizhu-san.md#donguibogam-version) · [설사](../conditions/diarrhea.md#classical-clinical-reading) |
 | 설사와 함께 명치 답답함·장명·오심이 교차하는가? | 잡병편 권3 한, 반하사심탕의 고한·신온·보익 배합 | [반하사심탕](../formulas/banxia-xiexin-tang.md#donguibogam-version) · [복통](../conditions/abdominal-pain.md#classical-clinical-reading) |
 | 월경통에 냉감·혈괴·건조·허약이 어떻게 겹치는가? | 잡병편 권10 부인, 온경탕의 온경·양혈·거어·양음 배합 | [온경탕](../formulas/wenjing-tang.md#donguibogam-version) · [월경통](../conditions/dysmenorrhea.md#classical-clinical-reading) |
 
