@@ -295,7 +295,7 @@ last_reviewed: 2026-10-07
 
 ## 원문과 상세 지식망 {#_9}
 
-[다섯 편 핵심 36대목 원문·한국어 풀이](donguibogam/original.md#selected-passages)에서 발한·월경·요통·진찰·표본·본초 배합·취혈 원칙을 읽습니다. 같은 페이지의 [전용 원문 검색](donguibogam/original.md#reader)에서는 대량 전사를 찾고 공개 영인본을 넘겨볼 수 있습니다. 검색 가능한 전사 범위와 전권 이미지 열람 범위는 화면에서 구분합니다.
+[다섯 편 핵심 42대목 원문·한국어 풀이](donguibogam/original.md#selected-passages)에서 발한·월경·요통·진찰·표본·구토·기침·본초 배합·취혈 원칙을 읽습니다. [오심·건구의 구별](donguibogam/original.md#nausea-dry-retching), [가래 배출과 건조](donguibogam/original.md#sputum-ease-dryness), [식적수와 가미 약미](donguibogam/original.md#food-stagnation-cough)는 잡병편 권5에서 이어 읽습니다. 같은 페이지의 [전용 원문 검색](donguibogam/original.md#reader)에서는 대량 전사를 찾고 공개 영인본을 넘겨볼 수 있습니다. 검색 가능한 전사 범위와 전권 이미지 열람 범위는 화면에서 구분합니다.
 
 - [한의학고전DB 동의보감](https://mediclassics.kr/books/8)
 - [내손안에 동의보감](https://app.mediclassics.kr/)
