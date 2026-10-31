@@ -28,7 +28,7 @@ extra_css:
 - assets/extra.css?v=20261022-editor-small
 - assets/acupoint-atlas/explorer.css?v=20261019-meridian
 - assets/learning/learning.css?v=20261013-import-fit
-- stylesheets/portal.css?v=20261014-life-cards
+- stylesheets/portal.css?v=20261031-home-spacing
 - stylesheets/korean-medicine-guide.css
 - assets/korean-search-185.css?v=20261018-viewport
 - assets/donguibogam/reader.css
