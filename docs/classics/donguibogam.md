@@ -282,6 +282,8 @@ last_reviewed: 2026-10-07
 
 ## 보익·본초·침구 연결 {#_8}
 
+같은 보익 처방도 **수록 문목·참조 지시·제형**을 따라 읽으면 차이가 드러납니다. [공진단 원전 해설](donguibogam/gongjin-dan.md#_3)은 장년·품부소약이라는 조건에서 출발해 간허약의 네 약 배합과 작은 환의 제법을 살핍니다. [경옥고 원전 해설](donguibogam/gyeongok-go.md#jing-cross-reference)은 신형문의 상세 기록을 정문에서 ‘方見身形’으로 다시 가리키는 편집 방식을 읽습니다. 경옥고의 생지황즙·가루·꿀과 공진단의 가루·밀가루풀은 제조 기록으로 구별하며, 실제 조제품·가감방·임상연구는 각각의 방제 문서에서 대조합니다.
+
 - [공진단](../formulas/gongjin-dan.md)
 - [경옥고](../formulas/gyeongok-go.md)
 - [동의보감 탕액편](donguibogam-tangaek.md)
