@@ -97,6 +97,10 @@ Liu 등은 기존 **9개 SR·메타분석**의 방법·보고 품질과 결과�
 
 **원문:** Liu Y, et al. *Effectiveness and safety of acupuncture for carpal tunnel syndrome: An overview of systematic reviews and meta-analyses.* Integr Med Res. 2024;13(4):101088. [PubMed 39640077](https://pubmed.ncbi.nlm.nih.gov/39640077/) · DOI `10.1016/j.imr.2024.101088`.
 
+### 노궁을 포함한 레이저·전침 비교 {#pc8-laser-ea-study}
+
+2024년 단일기관 무작위시험은 신경전도검사로 확인된 한쪽의 경증·중등도 손목터널증후군 성인 76명에게 [노궁 PC8](../acupuncture/points/pc8.md)을 포함한 10개 혈위에 레이저 자극 또는 전침을 4주간 20회 시행했습니다. 두 군의 증상과 기능 점수는 감소했으며 연구진은 레이저군에서 감소 폭이 더 컸다고 보고했습니다. 참가자는 배정된 치료를 알았고 가짜치료군은 없었으며, 치료 후 신경전도 변화와 장기 경과는 확인하지 않았습니다. 여러 혈을 사용한 치료법 간 비교이므로 노궁 단독의 효과는 구분할 수 없습니다. [Kieu 등, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11304917/)
+
 ### 전침 연구 {#carpal-electroacupuncture}
 
 Li 등의 2022년 SR·메타분석은 **26개 RCT·1,698명**을 포함했습니다. 일상적 치료와 비교해 통증·증상·기능 및 전기생리 지표에서 개선을 보고했으며, 연구진은 큰 규모의 더 엄격한 시험을 통한 확인 필요성을 함께 제시했습니다.
