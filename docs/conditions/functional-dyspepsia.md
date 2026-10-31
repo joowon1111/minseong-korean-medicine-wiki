@@ -153,6 +153,10 @@ Yang 등의 2020년 *Annals of Internal Medicine* 연구는 중국 5개 병원�
 
 [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) · [DOI 10.7326/M19-2880](https://doi.org/10.7326/M19-2880) · [침 연구 허브](../evidence-integrated/acupuncture-evidence.md#pds-landmark)
 
+#### 풍륭을 포함한 전침 배혈 연구 {#st40-fd-study}
+
+기능성소화불량 환자 116명을 대상으로 한 2012년 무작위 연구는 [풍륭 ST40](../acupuncture/points/st40-fenglong.md)·충양 ST42·족삼리 ST36·양구 ST34의 전침 조합을 같은 위경의 다른 혈 조합 및 비경혈 전기 자극과 비교했습니다. 식후 포만감과 조기포만 등 증상 및 삶의 질을 치료 후와 1·3개월에 평가했고, 연구진은 풍륭을 포함한 군의 개선이 더 컸다고 보고했습니다. 비교군에도 피부 자침과 전기 자극을 사용했고 여러 혈을 함께 사용했으므로 풍륭 단독 효과를 구분할 수 없습니다. [Wang 등, 2012](https://pubmed.ncbi.nlm.nih.gov/23072088/)
+
 ### 침치료 종합 연구를 함께 읽기 {#acupuncture-reviews}
 
 | 종합 연구 | 무엇을 확인하나요? | 출처 |
