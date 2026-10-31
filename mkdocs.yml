@@ -16,7 +16,7 @@ extra_javascript:
   - assets/donguisusebowon/reader.js
   - assets/donguibogam/bootstrap.js
   - assets/acupoint-atlas/explorer.js
-  - assets/acupoint-atlas/discovery.js?v=20261019-navigation
+  - assets/acupoint-atlas/discovery.js?v=20261031-detail-link
   - assets/learning/learning.js?v=20261004-07&ui=20261009-02
   - assets/daily-korean-medicine/reader-core.js?v=20261028-practical-terms
   - assets/daily-korean-medicine.js?v=20261028-practical-depth
@@ -26,7 +26,7 @@ extra_css:
 - assets/acupoint-3d/map.css?v=20261012-style
 - assets/archive-tools/tools.css?v=20261013-full-formulas
 - assets/extra.css?v=20261022-editor-small
-- assets/acupoint-atlas/explorer.css?v=20261019-meridian
+- assets/acupoint-atlas/explorer.css?v=20261031-detail-link
 - assets/learning/learning.css?v=20261013-import-fit
 - stylesheets/portal.css?v=20261031-home-spacing
 - stylesheets/korean-medicine-guide.css
