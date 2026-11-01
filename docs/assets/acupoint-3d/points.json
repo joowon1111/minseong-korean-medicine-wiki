@@ -33,7 +33,7 @@
       "n": 2,
       "hz": "雲門",
       "ko": "운문",
-      "loc": "앞가슴부위, 빗장아래오목(infra- clavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳.\n※주 : 氣戶(ST13), 兪府(KI27), 璇璣(CV21), 雲門(LU2)은 빗장뼈아래선을 따라 가로선 위에 위치한다.",
+      "loc": "앞가슴부위, 빗장아래오목(infraclavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳.\n※주 : 氣戶(ST13), 兪府(KI27), 璇璣(CV21), 雲門(LU2)은 빗장뼈아래선을 따라 가로선 위에 위치한다.",
       "ind": "기침 · 숨참 · 어깨 통증",
       "note": "",
       "tags": [
@@ -52,7 +52,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/LU/LU2",
       "dailyHref": "/daily-korean-medicine/?card=points-2",
-      "search": "운문 雲門 LU2 수태음폐경 가슴·배 앞가슴부위, 빗장아래오목(infra- clavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳. ※주 : 氣戶(ST13), 兪府(KI27), 璇璣(CV21), 雲門(LU2)은 빗장뼈아래선을 따라 가로선 위에 위치한다. - 直刺 0.3～0.5寸 (不宜深刺, 刺太深時 氣逆) 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 기침 숨참 어깨 통증 선폐·지해 — 기침·호흡 불편을 조절 청열 — 열 양상의 증상을 조절 대표 주치·용도 기침 · 숨참 · 어깨 통증"
+      "search": "운문 雲門 LU2 수태음폐경 가슴·배 앞가슴부위, 빗장아래오목(infraclavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳. ※주 : 氣戶(ST13), 兪府(KI27), 璇璣(CV21), 雲門(LU2)은 빗장뼈아래선을 따라 가로선 위에 위치한다. - 直刺 0.3～0.5寸 (不宜深刺, 刺太深時 氣逆) 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 기침 숨참 어깨 통증 선폐·지해 — 기침·호흡 불편을 조절 청열 — 열 양상의 증상을 조절 대표 주치·용도 기침 · 숨참 · 어깨 통증"
     },
     {
       "code": "LU3",
@@ -60,7 +60,7 @@
       "n": 3,
       "hz": "天府",
       "ko": "천부",
-      "loc": "위팔 앞가쪽면, 위팔두갈래근(biceps brachiimuscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸.",
+      "loc": "위팔 앞가쪽면, 위팔두갈래근(biceps brachii muscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸.",
       "ind": "기침 · 코피 · 팔 통증",
       "note": "",
       "tags": [
@@ -79,7 +79,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/LU/LU3",
       "dailyHref": "/daily-korean-medicine/?card=points-3",
-      "search": "천부 天府 LU3 수태음폐경 팔꿈치·위팔 위팔 앞가쪽면, 위팔두갈래근(biceps brachiimuscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸. - 直刺 0.3～0.5寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 기침 코피 팔 통증 선폐·지해 — 기침·호흡 불편을 조절 청열 — 열 양상의 증상을 조절 대표 주치·용도 기침 · 코피 · 팔 통증"
+      "search": "천부 天府 LU3 수태음폐경 팔꿈치·위팔 위팔 앞가쪽면, 위팔두갈래근(biceps brachii muscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸. - 直刺 0.3～0.5寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 기침 코피 팔 통증 선폐·지해 — 기침·호흡 불편을 조절 청열 — 열 양상의 증상을 조절 대표 주치·용도 기침 · 코피 · 팔 통증"
     },
     {
       "code": "LU4",
@@ -636,7 +636,7 @@
       "n": 11,
       "hz": "曲池",
       "ko": "곡지",
-      "loc": "팔꿈치 가쪽면, 尺澤(LU5)과 위팔뼈가쪽위관절융기(lateral epicondyle ofthe humerus)를 연결하는 선의 중점.",
+      "loc": "팔꿈치 가쪽면, 尺澤(LU5)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점.",
       "ind": "머리·얼굴를 중심으로 활용한 고전 경혈군의 해석입니다.",
       "note": "",
       "tags": [
@@ -662,7 +662,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/LI/LI11",
       "dailyHref": "/daily-korean-medicine/?card=points-22",
-      "search": "곡지 曲池 LI11 수양명대장경 팔꿈치·위팔 팔꿈치 가쪽면, 尺澤(LU5)과 위팔뼈가쪽위관절융기(lateral epicondyle ofthe humerus)를 연결하는 선의 중점. - 直刺 0.5～1.5寸 오수혈·합혈 고혈압 급성 뇌졸중 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. 천성십이혈의 관련 부위 머리·얼굴를 중심으로 활용한 고전 경혈군의 해석입니다. 임상시험에서 사용된 분야 고혈압 · 급성 뇌졸중"
+      "search": "곡지 曲池 LI11 수양명대장경 팔꿈치·위팔 팔꿈치 가쪽면, 尺澤(LU5)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. - 直刺 0.5～1.5寸 오수혈·합혈 고혈압 급성 뇌졸중 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. 천성십이혈의 관련 부위 머리·얼굴를 중심으로 활용한 고전 경혈군의 해석입니다. 임상시험에서 사용된 분야 고혈압 · 급성 뇌졸중"
     },
     {
       "code": "LI12",
@@ -832,7 +832,7 @@
       "n": 18,
       "hz": "扶突",
       "ko": "부돌",
-      "loc": "목 앞부위, 방패연골(thyriod cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle)의 앞모서리와 뒤모서리의 사이.",
+      "loc": "목 앞부위, 방패연골(thyroid cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle)의 앞모서리와 뒤모서리의 사이.",
       "ind": "쉰 목소리 · 목 건조감 · 천명·천식 증상",
       "note": "",
       "tags": [
@@ -851,7 +851,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/LI/LI18",
       "dailyHref": "/daily-korean-medicine/?card=points-29",
-      "search": "부돌 扶突 LI18 수양명대장경 목·어깨 목 앞부위, 방패연골(thyriod cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle)의 앞모서리와 뒤모서리의 사이. - 直刺 0.3～0.5寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 쉰 목소리 목 건조감 천명·천식 증상 치료 목표 — 쉰 목소리의 완화와 목 건조감의 조절 대표 주치·용도 쉰 목소리 · 목 건조감 · 천명·천식 증상"
+      "search": "부돌 扶突 LI18 수양명대장경 목·어깨 목 앞부위, 방패연골(thyroid cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle)의 앞모서리와 뒤모서리의 사이. - 直刺 0.3～0.5寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 쉰 목소리 목 건조감 천명·천식 증상 치료 목표 — 쉰 목소리의 완화와 목 건조감의 조절 대표 주치·용도 쉰 목소리 · 목 건조감 · 천명·천식 증상"
     },
     {
       "code": "LI19",
@@ -1075,7 +1075,7 @@
       "n": 7,
       "hz": "下關",
       "ko": "하관",
-      "loc": "얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibularnotch) 사이의 오목한 곳.",
+      "loc": "얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibular notch) 사이의 오목한 곳.",
       "ind": "턱 통증·개구 불편 · 치통 · 이명",
       "note": "",
       "tags": [
@@ -1094,7 +1094,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/ST/ST7",
       "dailyHref": "/daily-korean-medicine/?card=points-38",
-      "search": "하관 下關 ST7 족양명위경 머리·얼굴 얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibularnotch) 사이의 오목한 곳. - 艾炷灸 3～5壯 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 턱 통증·개구 불편 치통 이명 치료 목표 — 턱 통증·개구 불편의 완화와 치통의 조절 대표 주치·용도 턱 통증·개구 불편 · 치통 · 이명"
+      "search": "하관 下關 ST7 족양명위경 머리·얼굴 얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibular notch) 사이의 오목한 곳. - 艾炷灸 3～5壯 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 턱 통증·개구 불편 치통 이명 치료 목표 — 턱 통증·개구 불편의 완화와 치통의 조절 대표 주치·용도 턱 통증·개구 불편 · 치통 · 이명"
     },
     {
       "code": "ST8",
@@ -1129,7 +1129,7 @@
       "n": 9,
       "hz": "人迎",
       "ko": "인영",
-      "loc": "목 앞부위, 방패연골(thyroid catilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳.",
+      "loc": "목 앞부위, 방패연골(thyroid cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳.",
       "ind": "천명·천식 증상 · 숨참 · 구토·헛구역",
       "note": "",
       "tags": [
@@ -1148,7 +1148,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/ST/ST9",
       "dailyHref": "/daily-korean-medicine/?card=points-40",
-      "search": "인영 人迎 ST9 족양명위경 목·어깨 목 앞부위, 방패연골(thyroid catilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳. - 直刺 0.2～0.3寸 (不宜過深刺 혹 禁刺) 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 천명·천식 증상 숨참 구토·헛구역 치료 목표 — 천명·천식 증상의 완화와 숨참의 조절 대표 주치·용도 천명·천식 증상 · 숨참 · 구토·헛구역"
+      "search": "인영 人迎 ST9 족양명위경 목·어깨 목 앞부위, 방패연골(thyroid cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳. - 直刺 0.2～0.3寸 (不宜過深刺 혹 禁刺) 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 천명·천식 증상 숨참 구토·헛구역 치료 목표 — 천명·천식 증상의 완화와 숨참의 조절 대표 주치·용도 천명·천식 증상 · 숨참 · 구토·헛구역"
     },
     {
       "code": "ST10",
@@ -1210,7 +1210,7 @@
       "n": 12,
       "hz": "缺盆",
       "ko": "결분",
-      "loc": "목 앞부위, 큰빗장위오목(greater supraclavicular fossa), 앞정중선(anteriormedian line)에서 가쪽으로 4寸, 빗장 뼈(clavicle) 위쪽 오목한 곳.",
+      "loc": "목 앞부위, 큰빗장위오목(greater supraclavicular fossa), 앞정중선(anterior median line)에서 가쪽으로 4寸, 빗장 뼈(clavicle) 위쪽 오목한 곳.",
       "ind": "목 통증·뻣뻣함 · 천명·천식 증상 · 딸꾹질",
       "note": "",
       "tags": [
@@ -1229,7 +1229,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/ST/ST12",
       "dailyHref": "/daily-korean-medicine/?card=points-43",
-      "search": "결분 缺盆 ST12 족양명위경 목·어깨 목 앞부위, 큰빗장위오목(greater supraclavicular fossa), 앞정중선(anteriormedian line)에서 가쪽으로 4寸, 빗장 뼈(clavicle) 위쪽 오목한 곳. - 直刺 0.3～0.5寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 목 통증·뻣뻣함 천명·천식 증상 딸꾹질 통경 — 경맥의 통증·불편을 조절 지통 — 통증을 완화하는 방향 대표 주치·용도 목 통증·뻣뻣함 · 천명·천식 증상 · 딸꾹질"
+      "search": "결분 缺盆 ST12 족양명위경 목·어깨 목 앞부위, 큰빗장위오목(greater supraclavicular fossa), 앞정중선(anterior median line)에서 가쪽으로 4寸, 빗장 뼈(clavicle) 위쪽 오목한 곳. - 直刺 0.3～0.5寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 목 통증·뻣뻣함 천명·천식 증상 딸꾹질 통경 — 경맥의 통증·불편을 조절 지통 — 통증을 완화하는 방향 대표 주치·용도 목 통증·뻣뻣함 · 천명·천식 증상 · 딸꾹질"
     },
     {
       "code": "ST13",
@@ -6636,7 +6636,7 @@
       "n": 3,
       "hz": "中渚",
       "ko": "중저",
-      "loc": "손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangealjoint) 몸 쪽 오목한 곳.",
+      "loc": "손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳.",
       "ind": "이명 · 두통 · 손·손가락 통증",
       "note": "",
       "tags": [
@@ -6655,7 +6655,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/TE/TE3",
       "dailyHref": "/daily-korean-medicine/?card=points-231",
-      "search": "중저 中渚 TE3 수소양삼초경 손·손가락 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangealjoint) 몸 쪽 오목한 곳. - 直刺 0.3～0.5寸 오수혈·수혈 이명 두통 손·손가락 통증 이규 — 귀 관련 증상을 다루는 방향 청열 — 열 양상의 증상을 조절 대표 주치·용도 이명 · 두통 · 손·손가락 통증"
+      "search": "중저 中渚 TE3 수소양삼초경 손·손가락 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳. - 直刺 0.3～0.5寸 오수혈·수혈 이명 두통 손·손가락 통증 이규 — 귀 관련 증상을 다루는 방향 청열 — 열 양상의 증상을 조절 대표 주치·용도 이명 · 두통 · 손·손가락 통증"
     },
     {
       "code": "TE4",
@@ -6805,7 +6805,7 @@
       "n": 9,
       "hz": "四瀆",
       "ko": "사독",
-      "loc": "아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between theradius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸.",
+      "loc": "아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸.",
       "ind": "청력 저하 · 두통 · 어지럼",
       "note": "",
       "tags": [
@@ -6824,7 +6824,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/TE/TE9",
       "dailyHref": "/daily-korean-medicine/?card=points-237",
-      "search": "사독 四瀆 TE9 수소양삼초경 손목·아래팔 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between theradius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸. - 直刺 0.5～1寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 청력 저하 두통 어지럼 이인 — 인후 불편을 조절 대표 주치·용도 청력 저하 · 두통 · 어지럼"
+      "search": "사독 四瀆 TE9 수소양삼초경 손목·아래팔 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸. - 直刺 0.5～1寸 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 청력 저하 두통 어지럼 이인 — 인후 불편을 조절 대표 주치·용도 청력 저하 · 두통 · 어지럼"
     },
     {
       "code": "TE10",
@@ -7723,7 +7723,7 @@
       "n": 20,
       "hz": "風池",
       "ko": "풍지",
-      "loc": "목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastiod muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳.",
+      "loc": "목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastoid muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳.",
       "ind": "주치·활용은 상세 문서와 자료 출처에서 확인하세요.",
       "note": "",
       "tags": [
@@ -7742,7 +7742,7 @@
       ],
       "standardReference": "https://www.kmcric.com/database/acupoint/GB/GB20",
       "dailyHref": "/daily-korean-medicine/?card=points-271",
-      "search": "풍지 風池 GB20 족소양담경 목·어깨 목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastiod muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳. - 直刺 0.3～1寸 (반대쪽 眼球 방향으로 刺入) 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 고혈압 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. 임상시험에서 사용된 분야 고혈압"
+      "search": "풍지 風池 GB20 족소양담경 목·어깨 목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastoid muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳. - 直刺 0.3～1寸 (반대쪽 眼球 방향으로 刺入) 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석 고혈압 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다. 임상시험에서 사용된 분야 고혈압"
     },
     {
       "code": "GB21",

@@ -29,7 +29,7 @@ last_reviewed: 2026-08-22
 
 ### WHO 표준 기반 위치
 
-손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangealjoint) 몸 쪽 오목한 곳.
+손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳.
 
 ### 실제 취혈 포인트
 

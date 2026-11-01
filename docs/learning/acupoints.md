@@ -2286,7 +2286,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **운문**
 
 - **혈명·경맥:** 운문(雲門) · 수태음폐경
-- **표준 위치:** 앞가슴부위, 빗장아래오목(infra- clavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳.
+- **표준 위치:** 앞가슴부위, 빗장아래오목(infraclavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 - **위치 참고:** 氣戶(기호), 兪府(수부), 璇璣(선기), 雲門(운문)은 빗장뼈아래선을 따라 가로선 위에 위치한다.
 
@@ -2295,7 +2295,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **천부**
 
 - **혈명·경맥:** 천부(天府) · 수태음폐경
-- **표준 위치:** 위팔 앞가쪽면, 위팔두갈래근(biceps brachiimuscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸.
+- **표준 위치:** 위팔 앞가쪽면, 위팔두갈래근(biceps brachii muscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 
 [원문에서 확인](/acupuncture/points/lu3/)
@@ -2453,7 +2453,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **곡지**
 
 - **혈명·경맥:** 곡지(曲池) · 수양명대장경
-- **표준 위치:** 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle ofthe humerus)를 연결하는 선의 중점.
+- **표준 위치:** 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점.
 - **특정혈 요약:** 오수혈·합혈
 
 [원문에서 확인](/acupuncture/points/li11-quchi/)
@@ -2509,7 +2509,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **부돌**
 
 - **혈명·경맥:** 부돌(扶突) · 수양명대장경
-- **표준 위치:** 목 앞부위, 방패연골(thyriod cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle)의 앞모서리와 뒤모서리의 사이.
+- **표준 위치:** 목 앞부위, 방패연골(thyroid cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle)의 앞모서리와 뒤모서리의 사이.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 
 [원문에서 확인](/acupuncture/points/li18/)
@@ -2586,7 +2586,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **하관**
 
 - **혈명·경맥:** 하관(下關) · 족양명위경
-- **표준 위치:** 얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibularnotch) 사이의 오목한 곳.
+- **표준 위치:** 얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibular notch) 사이의 오목한 곳.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 
 [원문에서 확인](/acupuncture/points/st7/)
@@ -2602,7 +2602,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **인영**
 
 - **혈명·경맥:** 인영(人迎) · 족양명위경
-- **표준 위치:** 목 앞부위, 방패연골(thyroid catilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳.
+- **표준 위치:** 목 앞부위, 방패연골(thyroid cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 
 [원문에서 확인](/acupuncture/points/st9/)
@@ -2626,7 +2626,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **결분**
 
 - **혈명·경맥:** 결분(缺盆) · 족양명위경
-- **표준 위치:** 목 앞부위, 큰빗장위오목(greater supraclavicular fossa), 앞정중선(anteriormedian line)에서 가쪽으로 4寸, 빗장 뼈(clavicle) 위쪽 오목한 곳.
+- **표준 위치:** 목 앞부위, 큰빗장위오목(greater supraclavicular fossa), 앞정중선(anterior median line)에서 가쪽으로 4寸, 빗장 뼈(clavicle) 위쪽 오목한 곳.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 
 [원문에서 확인](/acupuncture/points/st12/)
@@ -4170,7 +4170,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **중저**
 
 - **혈명·경맥:** 중저(中渚) · 수소양삼초경
-- **표준 위치:** 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangealjoint) 몸 쪽 오목한 곳.
+- **표준 위치:** 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳.
 - **특정혈 요약:** 오수혈·수혈
 
 [원문에서 확인](/acupuncture/points/te3/)
@@ -4220,7 +4220,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **사독**
 
 - **혈명·경맥:** 사독(四瀆) · 수소양삼초경
-- **표준 위치:** 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between theradius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸.
+- **표준 위치:** 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 
 [원문에서 확인](/acupuncture/points/te9/)
@@ -4497,7 +4497,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 **풍지**
 
 - **혈명·경맥:** 풍지(風池) · 족소양담경
-- **표준 위치:** 목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastiod muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳.
+- **표준 위치:** 목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastoid muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳.
 - **특정혈 요약:** 일반 경혈 — 소속 경맥·부위·배혈 맥락에서 해석
 
 [원문에서 확인](/acupuncture/points/gb20-fengchi/)

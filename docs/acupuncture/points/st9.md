@@ -19,7 +19,7 @@ last_reviewed: 2026-08-22
 
 ### WHO 표준 기반 위치
 
-목 앞부위, 방패연골(thyroid catilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳.
+목 앞부위, 방패연골(thyroid cartilage) 위모서리와 같은 높이, 목빗근(sternocleidomastoid muscle) 앞쪽, 온목동맥(common carotid artery)이 뛰는 곳.
 
 ### 실제 취혈 포인트
 

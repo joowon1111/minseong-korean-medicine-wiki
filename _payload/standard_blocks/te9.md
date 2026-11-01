@@ -11,7 +11,7 @@
 
 ### WHO 표준 기반 위치
 
-아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between theradius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸.
+아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 팔꿈치머리 융기(prominence of the olecranon)에서 먼 쪽으로 5寸.
 
 ### 실제 취혈 포인트
 
