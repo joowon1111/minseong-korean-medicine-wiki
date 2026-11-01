@@ -46,6 +46,8 @@ last_reviewed: 2026-10-07
 
 ### 치료와 경과에 연결할 질문 {#autonomic-recovery-goals}
 
+두근거림과 기억·집중의 불편은 신문 안에서도 구별해 읽습니다. [경계](../classics/donguibogam/original.md#fright-palpitation-onset)는 갑자기 뛰는 느낌과 발생 계기를, [정충](../classics/donguibogam/original.md#persistent-palpitation-timing)은 편안하지 않은 두근거림과 반복 시점을, [건망](../classics/donguibogam/original.md#forgetfulness-deficiency-phlegm)은 정신의 부족과 담이라는 서로 다른 설명을 제시합니다. 심계·불면·식욕저하와 기억의 불편이 함께인 경우, 심계·오심·흉민이 함께인 경우를 나누면 귀비탕·온담탕 계열의 비교가 구체화됩니다. [심계의 원문과 치료 경과](../conditions/palpitation.md#classical-clinical-reading), [브레인포그의 관찰·치료 목표](../conditions/brain-fog.md#donguibogam-memory-context)에서 현재 진료와 연결합니다.
+
 치료 전에는 ‘무슨 증상이 먼저 시작됐는가’를 묻고, 재진에서는 **실제로 먹는 양, 식후 불편시간, 입면·밤중 각성, 심계의 횟수·지속시간, 가능한 활동과 다음 날 회복**을 같은 기준으로 비교합니다. 한약은 건비·이기·화담·양혈·안신 등 필요한 방향을 배합하고, 침·전침은 [수면·심계·소화에 맞춘 경혈 구성](../autonomic/acupoint-map.md)을 함께 검토합니다. 특정 처방이나 경혈 하나를 ‘자율신경실조증 공통 치료’로 고정하기보다 가장 불편한 기능과 동반 양상을 중심으로 조정합니다.
 
 고전의 치료 논리를 읽은 뒤에는 [불면 한약 연구](../authority/formulas/insomnia-herbal-formula-map.md), [소화불량의 한약·침 연구](../conditions/functional-dyspepsia.md), [피로 한약 근거](../authority/formulas/chronic-fatigue-herbal-map.md)처럼 실제 질환과 중재에 맞는 자료로 이어갑니다. 각 연구의 결과는 해당 대상·제형·비교군·평가 지표의 범위에서 확인합니다.
@@ -54,7 +56,7 @@ last_reviewed: 2026-10-07
 
 ## 동의보감 내경편 임상 탐색 {#naegyeong}
 
-내경편은 몸의 안쪽 기능과 생명의 기본 요소를 다루는 축으로 읽을 수 있습니다. [핵심 원문·한국어 풀이: 수면·비위와 잠·삼초·발한·월경·배뇨 13대목](../classics/donguibogam/original.md#selected-inner)을 함께 읽습니다.
+내경편은 몸의 안쪽 기능과 생명의 기본 요소를 다루는 축으로 읽을 수 있습니다. [핵심 원문·한국어 풀이: 경계·정충·건망·수면·삼초·발한·월경·배뇨 16대목](../classics/donguibogam/original.md#selected-inner)을 함께 읽습니다.
 
 ### 핵심 연결 {#_2}
 
@@ -150,7 +152,7 @@ last_reviewed: 2026-10-07
 
 ## 동의보감 잡병편 임상 탐색 {#japbyeong}
 
-잡병편은 외감·내상·허로·적취·부인·소아 등 다양한 병증을 폭넓게 다루는 임상 영역입니다. [핵심 원문·한국어 풀이: 내상·식후 피로·진찰·치료 순서·옹저·구토·기침 15대목](../classics/donguibogam/original.md#selected-misc)을 함께 읽습니다.
+잡병편은 외감·내상·허로·적취·부인·소아 등 다양한 병증을 폭넓게 다루는 임상 영역입니다. [핵심 원문·한국어 풀이: 허로·내상·식후 피로·진찰·옹저·구토·기침 18대목](../classics/donguibogam/original.md#selected-misc)을 함께 읽습니다.
 
 ### 읽는 방법 {#_6}
 현대 질환명을 고전 병명에 바로 대입하지 않고 **환자 증상 → 고전 병증의 핵심 양상 → 변증 → 치법 → 처방**으로 연결합니다.
@@ -173,6 +175,8 @@ last_reviewed: 2026-10-07
 ### 허로에서 회복의 임상 질문으로 {#deficiency-pathway}
 
 허로를 읽을 때는 **보기·보혈·보음·보양 중 무엇을 살필지**와 함께 식사량·체중·수면·활동 능력을 기록합니다. [인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md), [당귀](../herbs/angelica.md)·[숙지황](../herbs/prepared-rehmannia.md), [녹용](../herbs/cervi-parvum-cornu.md)은 각각의 성미·구성 역할과 사용 조건을 본초 문서에서 확인합니다.
+
+허로문의 [기허 원문](../classics/donguibogam/original.md#deficiency-breath-speech-activity)은 호흡·말·동작의 기력을 살피고, [허로치법](../classics/donguibogam/original.md#deficiency-food-temperature-care)은 섭취와 한온의 조절을 치료 안에 놓습니다. 내상의 [‘온은 기른다는 뜻’](../classics/donguibogam/original.md#exhaustion-warmth-nurturing)은 생활과 휴식을 조절해 회복을 돌본다는 논평입니다. 이 세 대목을 함께 읽으면 약재의 보익 역할에 더해 **먹고 받아들이는 기능, 실제 활동과 집중, 쉴 수 있는 여건**까지 치료 계획에 넣을 수 있습니다. [만성피로의 세 축 경과표](../conditions/chronic-fatigue.md#donguibogam-recovery-three-axes)에서 구체적인 기록으로 이어갑니다.
 
 | 읽을 방향 | 처방 구조 | 현재의 회복 상황·연구 |
 |---|---|---|

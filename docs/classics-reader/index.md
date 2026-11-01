@@ -10,7 +10,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 <a class="ms-card" href="/shanghan-network/#complete-clauses"><strong>상한론 傷寒論</strong><span>통행 398조 원문·한국어 독해<br>육경병·조문 번호로 찾기 →</span></a>
 <a class="ms-card" href="/jingui-network/#complete-chapters"><strong>금궤요략 金匱要略</strong><span>제1–22편 임상 원문·한국어 독해<br>편명·병증으로 찾기 →</span></a>
 <a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
-<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 50개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
+<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 56개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
 </div>
 
 ## 찾는 자료로 바로 가기 {#quick-access}
@@ -111,6 +111,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 
 | 읽을 주제 | 원문을 읽는 순서 | 비교할 핵심 |
 |---|---|---|
+| 심계·건망과 허로 | [경계의 발생](../classics/donguibogam/original.md#fright-palpitation-onset) → [정충의 반복 시점](../classics/donguibogam/original.md#persistent-palpitation-timing) → [건망의 부족·담](../classics/donguibogam/original.md#forgetfulness-deficiency-phlegm) → [허로의 식사·한온](../classics/donguibogam/original.md#deficiency-food-temperature-care) | 느낌·시점·동반 양상을 구별하고 실제 회복 기능으로 연결 |
 | 소음인의 소화와 반복 설사 | [음식선화](../classics/donguisusebowon/original.md#wellbeing-digestion) → [평소 설사·식사 중 땀](../classics/donguisusebowon/original.md#soeum-usual-sweat-case) → [반복 복통 병례](../classics/donguisusebowon/original.md#soeum-recurrent-abdominal-case) | 건강 기준, 기존 소증, 이번 병의 경과를 나누기 |
 | 소음인 발한과 병세 | [망양의 정의](../classics/donguisusebowon/original.md#soeum-mangyang-definition) → [위가실·비약](../classics/donguisusebowon/original.md#soeum-stomach-vs-spleen) | 땀의 유무만이 아니라 시작 시점·오한·배변 비교 |
 | 소양인의 발한과 반복 병세 | [손발바닥 발한](../classics/donguisusebowon/original.md#soyang-palm-sweat) → [다시 앓는 경과](../classics/donguisusebowon/original.md#soyang-repeated-course) | 전신 발한과 병해, 일시 호전과 전체 경과 구별 |
@@ -122,7 +123,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 
 ## 동의보감 — 원문 검색·책 이미지·해석을 골라 읽기 {#donguibogam}
 
-**수록:** 내경·외형·잡병·탕액·침구 **다섯 편의 핵심 50대목 원문·자체 한국어 풀이**와 기존 대표 처방 해설을 제공합니다. 전용 열람기로 검색 가능한 대량 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
+**수록:** 내경·외형·잡병·탕액·침구 **다섯 편의 핵심 56대목 원문·자체 한국어 풀이**와 기존 대표 처방 해설을 제공합니다. 전용 열람기로 검색 가능한 대량 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
 
 - **전체 구성 먼저:** [다섯 편·본문 23권의 목차와 풀이](../classics/donguibogam/original.md#book-contents).
 - **원문 검색:** [원문 열람기](../classics/donguibogam/original.md#reader)에서 `당귀`, `當歸`, `경옥고` 같은 이름이나 한자 구절을 입력하세요. 검색어가 없으면 ‘권별 원문 목록’을 엽니다.
@@ -130,7 +131,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 - **처음 읽기:** [다섯 편 핵심 구문 지도](../classics/donguibogam/original.md#selected-passages) → [대표 처방의 긴 해설](../classics/donguibogam.md#selected-clinical-passages).
 - **주제별로 찾기:** [내경·외형·잡병·탕액·침구 5편 색인](../donguibogam-network/index.md) · [탕액편 본초 해설](../classics/donguibogam/tangyeok/index.md).
 
-### 증상과 치료 원칙으로 읽는 열 가지 경로 {#donguibogam-reading-paths}
+### 증상과 치료 원칙으로 읽는 열한 가지 경로 {#donguibogam-reading-paths}
 
 《동의보감》은 앞선 여러 의서의 말을 문목별로 모은 책입니다. 같은 증상을 다룬 구절도 **누구의 설명인지, 어떤 조건을 붙였는지** 확인하고 비교합니다.
 

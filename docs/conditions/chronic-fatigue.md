@@ -144,6 +144,18 @@ WHO의 ICD-11에서 번아웃은 **관리되지 않은 만성 직장 스트레�
 
 고전의 허로·습담은 현대 ME/CFS·암 관련 피로·빈혈을 포괄하는 하나의 진단명이 아닙니다. 연구 대상은 별도로 구별하며, 활동 가능시간·회복시간·수면·식사량을 같은 기준으로 추적합니다. 출전·대조: [동의보감 내경편 공개 전사](https://ko.wikisource.org/wiki/동의보감/내경편), 신·귀비탕과 담음·습담. 인용의 문장부호와 우리말 풀이는 아카이브에서 작성했습니다.
 
+### 허로를 식사·활동·회복의 세 축으로 읽기 {#donguibogam-recovery-three-axes}
+
+《동의보감》 허로문의 [호흡·말·동작](../classics/donguibogam/original.md#deficiency-breath-speech-activity) 구절은 ‘기운 없다’는 말을 실제 기능으로 구체화합니다. 대화를 오래 하기 힘든지, 씻고 옷 입는 데 쉬어야 하는지, 집중해서 일한 뒤 회복에 얼마나 걸리는지 나눕니다. 이런 관찰은 빈혈·갑상선·심폐·수면 등의 원인 평가와 함께 사용합니다.
+
+| 살필 축 | 원문에서 이어 읽을 지점 | 치료 중 비교할 변화 |
+|---|---|---|
+| 식사·수용성 | 허로치법의 [음식과 한온 조절](../classics/donguibogam/original.md#deficiency-food-temperature-care) | 실제 섭취량, 식후 오심·팽만, 체중과 변 상태 |
+| 활동·집중 | 기허의 말·동작, [건망의 부족·담](../classics/donguibogam/original.md#forgetfulness-deficiency-phlegm) | 대화·읽기·외출 가능시간과 활동 후 반응 |
+| 쉬는 조건·회복 | 노권상치법의 [‘온은 기른다는 뜻’](../classics/donguibogam/original.md#exhaustion-warmth-nurturing) | 수면 기회·돌봄 부담, 다음 날 회복과 악화 횟수 |
+
+건비·보기, 양혈·안신, 화담·이기는 이 세 축 가운데 무엇이 회복을 방해하는지에 따라 비중을 정합니다. 귀비탕은 식욕·심계·건망·수면이 함께 문제인 경우를, 보중익기탕은 내상·기허와 섭취·활동 저하를 비교할 처방입니다. 약을 복용한 기간뿐 아니라 소화 수용성과 실제 생활기능을 함께 확인합니다. 활동 후 악화가 있으면 정해진 운동량을 채우기보다 위의 페이싱 원칙 안에서 회복 범위를 정합니다.
+
 ## 한약치료 {#_7}
 
 [피로·기력저하 처방 비교](../herbal-integrated/formula-for-fatigue.md#formula-options)와 [보약 복용 중 관찰](energy-recovery.md#follow-up)을 함께 참고할 수 있습니다.
