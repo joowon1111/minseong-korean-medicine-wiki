@@ -45,28 +45,32 @@ last_reviewed: 2026-08-19
 
 ## 본초별 원문·해설 {#1}
 
-아래 16종은 기존 본초 해설 전체입니다. 분류는 학습을 돕기 위한 현대 임상 색인이며 원전의 부별 편목을 바꾼 것이 아닙니다. 각 문서에서 원문 항목과 출처 쪽을 열고, 발췌·우리말 풀이·처방 속 역할을 이어 읽을 수 있습니다.
+아래 16종은 기존 본초 해설 전체입니다. 분류는 학습을 돕기 위한 현대 임상 색인이며 원전의 부별 편목을 바꾼 것이 아닙니다. 각 문서에서 원문 항목과 출처 쪽을 열고, 발췌·우리말 풀이·처방 속 역할을 이어 읽을 수 있습니다. 아래의 권·부와 표제는 각 본초 문서에 연결된 전사·영인 위치를 대조했습니다. 동일한 보기·혈분 분류에 있는 약도 원전에서는 다른 권이나 부에 나뉘므로, 효능별 색인과 수록 위치를 함께 확인할 수 있습니다.
 
-| 읽는 관점 | 본초 원문·해설 | 먼저 살필 질문 |
-|---|---|---|
-| 보기·건비 | [인삼](ginseng.md#passage-reading) | 오장 기 부족과 보익의 범위 |
-| 보기·건비 | [황기](astragalus.md#passage-reading) | 기허·자한·도한과 고표 |
-| 보기·건비 | [백출](atractylodes.md#passage-reading) | 건비강위와 습·갈증의 관계 |
-| 혈·보익 | [당귀](angelica.md#original-reading) | 혈을 기르면서 막힘을 푸는 배합 |
-| 혈·보익 | [숙지황](prepared-rehmannia.md#original-reading) | 혈쇠·허손과 복용 조건 |
-| 혈·배합 | [백작약](white-peony.md#original-reading) | 완급·지통을 처방 안에서 읽기 |
-| 혈·배합 | [천궁](chuanxiong.md#original-reading) | 숙혈·신혈과 두통·냉통의 문맥 |
-| 보익·근골 | [녹용](deer-antler.md#original-reading) | 허로·여윔·냉감과 약재 품질 |
-| 보익·근골 | [두충](eucommia.md#original-reading) | 요척 통증·근골과 수피의 감별·가공 |
-| 근골·활혈 | [우슬](achyranthes.md#original-reading) | 무릎의 굴신·활혈·하행을 구분 |
-| 이기·화담 | [진피](citrus-peel.md#original-reading) | 흉격·소화·기침을 잇는 귤피 기록 |
-| 이기·화담 | [반하](pinellia.md#original-reading) | 담·만결·구토와 포제의 문맥 |
-| 수습·안신 | [복령](poria.md#passage-reading) | 위·구토·심신을 함께 읽기 |
-| 양음·생진 | [맥문동](ophiopogon.md#original-reading) | 허로의 열·건조·갈증을 함께 살피기 |
-| 양심·안신 | [산조인](ziziphus-seed.md#original-reading) | 번심·혈·수면과 생품·가공품 |
-| 조화·배합 | [감초](licorice.md#original-reading) | 조화제약·포제와 복용 조건 |
+| 읽는 관점 | 본초 원문·해설 | 원문 표제·수록 위치 | 먼저 살필 질문 |
+|---|---|---|---|
+| 보기·건비 | [인삼](ginseng.md#passage-reading)  | 人參 · 권2 초부 상 | 오장 기 부족과 보익의 범위 |
+| 보기·건비 | [황기](astragalus.md#passage-reading)  | 黃芪 · 권2 초부 상 | 기허·자한·도한과 고표 |
+| 보기·건비 | [백출](atractylodes.md#passage-reading)  | 白朮 · 권2 초부 상 | 건비강위와 습·갈증의 관계 |
+| 혈·보익 | [당귀](angelica.md#original-reading)  | 當歸 · 권3 초부 하 | 혈을 기르면서 막힘을 푸는 배합 |
+| 혈·보익 | [숙지황](prepared-rehmannia.md#original-reading)  | 熟地黃 · 권2 초부 상 | 혈쇠·허손과 복용 조건 |
+| 혈·배합 | [백작약](white-peony.md#original-reading)  | 芍藥 · 권3 초부 하 | 완급·지통을 처방 안에서 읽기 |
+| 혈·배합 | [천궁](chuanxiong.md#original-reading)  | 芎藭 · 권2 초부 상 | 숙혈·신혈과 두통·냉통의 문맥 |
+| 보익·근골 | [녹용](deer-antler.md#original-reading)  | 鹿茸 · 권1 수부(獸) | 허로·여윔·냉감과 약재 품질 |
+| 보익·근골 | [두충](eucommia.md#original-reading)  | 杜仲 · 권3 목부 | 요척 통증·근골과 수피의 감별·가공 |
+| 근골·활혈 | [우슬](achyranthes.md#original-reading)  | 牛膝 · 권2 초부 상 | 무릎의 굴신·활혈·하행을 구분 |
+| 이기·화담 | [진피](citrus-peel.md#original-reading)  | 橘皮 · 권2 과부 | 흉격·소화·기침을 잇는 귤피 기록 |
+| 이기·화담 | [반하](pinellia.md#original-reading)  | 半夏 · 권3 초부 하 | 담·만결·구토와 포제의 문맥 |
+| 수습·안신 | [복령](poria.md#passage-reading)  | 茯苓 · 권3 목부 | 위·구토·심신을 함께 읽기 |
+| 양음·생진 | [맥문동](ophiopogon.md#original-reading)  | 麥門冬 · 권2 초부 상 | 허로의 열·건조·갈증을 함께 살피기 |
+| 양심·안신 | [산조인](ziziphus-seed.md#original-reading)  | 酸棗仁 · 권3 목부 | 번심·혈·수면과 생품·가공품 |
+| 조화·배합 | [감초](licorice.md#original-reading)  | 甘草 · 권2 초부 상 | 조화제약·포제와 복용 조건 |
 
 **비교해서 읽기:** [두충](eucommia.md#lumbar-pattern)과 [우슬](achyranthes.md#downward-direction)은 모두 허리·무릎에 연결되지만 활혈·하행의 비중이 다릅니다. [감초의 가공 기록](licorice.md#processing-reading)과 [산조인의 생용·초용 기록](ziziphus-seed.md#processing-reading)은 포제명을 현대의 동일한 공정이나 임상효과로 곧바로 옮기지 않고 문맥부터 확인합니다.
+
+**한 항목 안의 출전 표지를 읽는 예:** [감초](licorice.md#original-reading)의 조화제약과 뿌리 감별은 《본초》 인용, 생품·가공의 비교는 《탕액》 인용으로 나뉩니다. [녹용](deer-antler.md#quality-context)의 형태 설명에는 ‘或云’, 곧 다른 설명을 소개하는 표지가 있어 두 관점을 함께 읽게 합니다. 약재 항목 전체를 한 저자의 단일 발언으로 합치기보다, **표제 → 주치·감별·가공 → 인용 표지 → 다음 면의 조건**을 따라가면 설명의 층위가 드러납니다.
+
+[감초의 다음 쪽까지 이어지는 복용 조건](licorice.md#use-conditions)은 앞의 주치와 함께 읽을 부분입니다. [원문 검색·영인본](../original.md#reader)에서 항목을 찾은 뒤 출처 면과 다음 면을 나란히 확인하면, 검색 결과의 짧은 발췌와 본문 전체의 범위도 구별할 수 있습니다. 전사·영인 자료의 판본은 각 출처 표시를 따릅니다.
 
 ## 한 약재에서 배합으로 넓혀 읽기 {#paired-reading-routes}
 
