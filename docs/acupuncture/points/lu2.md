@@ -19,7 +19,7 @@ last_reviewed: 2026-08-22
 
 ### WHO 표준 기반 위치
 
-앞가슴부위, 빗장아래오목(infra- clavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳.
+앞가슴부위, 빗장아래오목(infraclavicular fossa), 어깨뼈 부리돌기(coracoid process) 안쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸 오목한 곳.
 ※주 : 氣戶(ST13), 兪府(KI27), 璇璣(CV21), 雲門(LU2)은 빗장뼈아래선을 따라 가로선 위에 위치한다.
 
 ### 실제 취혈 포인트

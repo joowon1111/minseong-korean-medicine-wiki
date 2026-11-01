@@ -33,7 +33,7 @@ last_reviewed: 2026-08-19
 
 ### WHO 표준 기반 위치
 
-목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastiod muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳.
+목 뒤부위, 뒤통수뼈(occipital bone)의 아래쪽, 목빗근이 닿는 곳(insertion of sternocleidomastoid muscle)의 뒤쪽 가장자리와 등 세모근이 이는 곳(origin of trapezius muscle)의 바깥쪽 가장자리 사이의 오목한 곳.
 
 ### 실제 취혈 포인트
 

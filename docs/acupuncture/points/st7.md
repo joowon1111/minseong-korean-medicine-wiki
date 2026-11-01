@@ -41,7 +41,7 @@ last_reviewed: 2026-08-22
 
 ### WHO 표준 기반 위치
 
-얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibularnotch) 사이의 오목한 곳.
+얼굴, 광대활(zygomatic arch) 아래모서리의 중점과 턱뼈패임(mandibular notch) 사이의 오목한 곳.
 
 ### 실제 취혈 포인트
 

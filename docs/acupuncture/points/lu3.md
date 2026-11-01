@@ -19,7 +19,7 @@ last_reviewed: 2026-08-22
 
 ### WHO 표준 기반 위치
 
-위팔 앞가쪽면, 위팔두갈래근(biceps brachiimuscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸.
+위팔 앞가쪽면, 위팔두갈래근(biceps brachii muscle)의 가쪽모서리 바로 가쪽, 앞겨드랑주름(anterior axillary fold)에서 아래쪽으로 3寸.
 
 ### 실제 취혈 포인트
 
