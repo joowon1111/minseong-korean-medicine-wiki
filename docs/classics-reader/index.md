@@ -10,7 +10,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 <a class="ms-card" href="/shanghan-network/#complete-clauses"><strong>상한론 傷寒論</strong><span>통행 398조 원문·한국어 독해<br>육경병·조문 번호로 찾기 →</span></a>
 <a class="ms-card" href="/jingui-network/#complete-chapters"><strong>금궤요략 金匱要略</strong><span>제1–22편 임상 원문·한국어 독해<br>편명·병증으로 찾기 →</span></a>
 <a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
-<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 42개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
+<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 50개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
 </div>
 
 ## 찾는 자료로 바로 가기 {#quick-access}
@@ -122,7 +122,7 @@ description: 상한론·금궤요략·동의수세보원·동의보감의 원문
 
 ## 동의보감 — 원문 검색·책 이미지·해석을 골라 읽기 {#donguibogam}
 
-**수록:** 내경·외형·잡병·탕액·침구 **다섯 편의 핵심 42대목 원문·자체 한국어 풀이**와 기존 대표 처방 해설을 제공합니다. 전용 열람기로 검색 가능한 대량 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
+**수록:** 내경·외형·잡병·탕액·침구 **다섯 편의 핵심 50대목 원문·자체 한국어 풀이**와 기존 대표 처방 해설을 제공합니다. 전용 열람기로 검색 가능한 대량 전사는 **탕액편 3권과 내경편 권1 신형·정의 확보된 부분**입니다. 전권은 **영인본(옛 책을 촬영한 이미지)**으로 볼 수 있습니다. 전권의 모든 글자가 검색되거나 한국어로 번역되어 있는 것은 아닙니다.
 
 - **전체 구성 먼저:** [다섯 편·본문 23권의 목차와 풀이](../classics/donguibogam/original.md#book-contents).
 - **원문 검색:** [원문 열람기](../classics/donguibogam/original.md#reader)에서 `당귀`, `當歸`, `경옥고` 같은 이름이나 한자 구절을 입력하세요. 검색어가 없으면 ‘권별 원문 목록’을 엽니다.

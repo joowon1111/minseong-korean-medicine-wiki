@@ -23,9 +23,38 @@ last_reviewed: 2026-10-07
 
 [양생·예방](#yangsaeng-prevention)과 [임상 탐색법](#clinical-navigation)은 다섯 편을 함께 읽는 경로입니다. 아래 처방·본초 연결은 원문의 항목을 현재 지식망으로 안내하는 색인이며, 각 처방의 정확한 출전은 방제 기준문서에서 확인합니다.
 
+## 자율신경실조·수면·소화·피로로 찾아 읽는 동의보감 {#autonomic-classical-map}
+
+**‘자율신경’, ‘자율신경실조’, ‘자율신경실조증’은 현대에 사용하는 말입니다.** 《동의보감》에서 이 이름의 병문을 찾는 대신, 실제 불편에 따라 신(神)·몽(夢)·진액·담음과 내상·허로를 함께 읽을 수 있습니다. 이 연결의 장점은 잠·식사·심계·땀·기력을 따로 관찰하면서, 함께 달라지는 생활과 회복 상태까지 살피는 데 있습니다.
+
+| 지금의 불편·질문 | 동의보감에서 찾을 문목·항목 | 원문·해석과 현재 문서 |
+|---|---|---|
+| 몸은 피곤한데 누우면 편안히 잠들기 어려움 | 내경편 권2 몽: 허번불수(虛煩不睡) | [허번·병후 허약의 원문](../classics/donguibogam/original.md#sleep-vexation-after-illness) · [스트레스성 불면](../autonomic/stress-sleep.md) |
+| 낮에는 멍하고 밤에는 잠을 설침 | 몽: 양기지출입위오매·노소지수부동 | [위기의 수면 설명](../classics/donguibogam/original.md#sleep-wake-weigi) · [밤과 낮 기능의 원문](../classics/donguibogam/original.md#sleep-aging-daytime-function) |
+| 식후 불편·오심·신물이 잠자리를 방해함 | 몽: 와불안(臥不安), 잡병편 내상 | [위불화·와불안](../classics/donguibogam/original.md#stomach-sleep-discomfort) · [소화불량](../autonomic/stress-digestion.md) |
+| 걱정이 많고 쉽게 놀라며 두근거림·건망이 겹침 | 내경편 권1 신: 경계(驚悸)·정충(怔忡)·건망, 권2 몽: 사결불수(思結不睡) | [귀비탕의 우사노상심비](../formulas/guibi-tang.md#donguibogam-version) · [온담탕의 쉽게 놀람](../formulas/wendan-tang.md#donguibogam-version) · [심계의 원인 평가](../conditions/palpitation.md) |
+| 긴장할 때 먹기 어렵고 잠·기력이 함께 나빠짐 | 잡병편 권4 내상: 안양심신조치비위(安養心神調治脾胃) | [마음의 편안함과 비위의 원문](../classics/donguibogam/original.md#calm-mind-regulate-digestion) · [소화·수면·불안의 연결](../autonomic/index.md#gut-sleep-anxiety) |
+| 먹고 나면 졸리고 몸이 무거우며 기운이 없음 | 내상: 식후혼곤(食後昏困), 허로의 기혈·음양허 구분 | [식후 졸림의 원문](../classics/donguibogam/original.md#postmeal-drowsiness-fatigue) · [식후 졸림 안내](../answer-guides/postmeal-sleepiness-guide.md) |
+| 과로·섭취저하 뒤 피로가 오래가고 회복이 늦음 | 내상: 음식상·노권상, 허로(虛勞) | [내상의 두 원인](../classics/donguibogam/original.md#internal-injury-intake-exertion) · [허로의 처방 비교](#deficiency-pathway) · [만성피로 평가](../conditions/chronic-fatigue.md) |
+| 피로와 함께 낮 땀·밤 땀·갈증이 달라짐 | 내경편 권2 진액: 자한·도한, 담음 | [자한의 여러 병기](../classics/donguibogam/original.md#spontaneous-sweat) · [잠과 각성을 가른 도한](../classics/donguibogam/original.md#night-sweat) · [발한 뒤 진액 소모](../classics/donguibogam/original.md#sweat-fluid-loss) |
+
+### 신문·몽문·내상·허로를 함께 읽는 이유 {#autonomic-reading-order}
+
+**신문**에서는 놀람·두근거림·건망과 처방의 맥락을, **몽문**에서는 잠드는 과정과 잠의 안정성·낮 기능을, **내상문**에서는 음식·과로·소화·식후 피로를 읽습니다. **허로문**은 소모와 허약을 기허·혈허·음허·양허 등으로 나누어 치법을 비교합니다. 예컨대 불면·건망에 식사량 감소와 피로가 겹친 상황은 귀비탕의 배합과, 오심·흉민·쉽게 놀람이 두드러진 상황은 온담탕의 배합과 나란히 살필 수 있습니다. 아래 [처방 갈림점](#sleep-digestion-formulas)에서 구체적인 차이를 비교합니다.
+
+이런 독해는 한 사람의 수면·소화·피로가 얽힌 상태를 자세히 듣는 방법을 풍성하게 합니다. 다만 원전의 심·담·비위·영위를 각각 심장·담낭·소화기관·자율신경 한 구조로 바꾸거나, 허실을 HRV의 높고 낮음으로 환산하면 문헌과 검사의 의미가 섞입니다. 현대의 자율신경질환·부정맥·기립성 문제 등의 평가는 [자율신경 지식망의 감별](../autonomic/index.md#_4)과 [HRV·심전도·기립 검사](../autonomic/index.md#hrv-tests-context)에서 따로 확인합니다.
+
+### 치료와 경과에 연결할 질문 {#autonomic-recovery-goals}
+
+치료 전에는 ‘무슨 증상이 먼저 시작됐는가’를 묻고, 재진에서는 **실제로 먹는 양, 식후 불편시간, 입면·밤중 각성, 심계의 횟수·지속시간, 가능한 활동과 다음 날 회복**을 같은 기준으로 비교합니다. 한약은 건비·이기·화담·양혈·안신 등 필요한 방향을 배합하고, 침·전침은 [수면·심계·소화에 맞춘 경혈 구성](../autonomic/acupoint-map.md)을 함께 검토합니다. 특정 처방이나 경혈 하나를 ‘자율신경실조증 공통 치료’로 고정하기보다 가장 불편한 기능과 동반 양상을 중심으로 조정합니다.
+
+고전의 치료 논리를 읽은 뒤에는 [불면 한약 연구](../authority/formulas/insomnia-herbal-formula-map.md), [소화불량의 한약·침 연구](../conditions/functional-dyspepsia.md), [피로 한약 근거](../authority/formulas/chronic-fatigue-herbal-map.md)처럼 실제 질환과 중재에 맞는 자료로 이어갑니다. 각 연구의 결과는 해당 대상·제형·비교군·평가 지표의 범위에서 확인합니다.
+
+출전 안내: 내경편 권1 신·권2 몽·진액 및 잡병편 권4 내상·허로. [내경편 공개 전사](https://ko.wikisource.org/wiki/동의보감/내경편) · [잡병편 권4 한문 전사](https://meridian.ai.kr/classic/東醫寶鑑/雜病篇%20卷之四) · [한의학고전DB 문목 확인](https://mediclassics.kr/books/8). 위 표는 현재의 질문에서 문헌으로 들어가는 아카이브 편집 색인이며, 원문 인용·자체 풀이와 출처는 연결된 각 대목에 표시했습니다.
+
 ## 동의보감 내경편 임상 탐색 {#naegyeong}
 
-내경편은 몸의 안쪽 기능과 생명의 기본 요소를 다루는 축으로 읽을 수 있습니다. [핵심 원문·한국어 풀이: 삼초·발한·월경·배뇨 8대목](../classics/donguibogam/original.md#selected-inner)을 함께 읽습니다.
+내경편은 몸의 안쪽 기능과 생명의 기본 요소를 다루는 축으로 읽을 수 있습니다. [핵심 원문·한국어 풀이: 수면·비위와 잠·삼초·발한·월경·배뇨 13대목](../classics/donguibogam/original.md#selected-inner)을 함께 읽습니다.
 
 ### 핵심 연결 {#_2}
 
@@ -121,7 +150,7 @@ last_reviewed: 2026-10-07
 
 ## 동의보감 잡병편 임상 탐색 {#japbyeong}
 
-잡병편은 외감·내상·허로·적취·부인·소아 등 다양한 병증을 폭넓게 다루는 임상 영역입니다. [핵심 원문·한국어 풀이: 진찰·치료 순서·옹저·구토·기침 12대목](../classics/donguibogam/original.md#selected-misc)을 함께 읽습니다.
+잡병편은 외감·내상·허로·적취·부인·소아 등 다양한 병증을 폭넓게 다루는 임상 영역입니다. [핵심 원문·한국어 풀이: 내상·식후 피로·진찰·치료 순서·옹저·구토·기침 15대목](../classics/donguibogam/original.md#selected-misc)을 함께 읽습니다.
 
 ### 읽는 방법 {#_6}
 현대 질환명을 고전 병명에 바로 대입하지 않고 **환자 증상 → 고전 병증의 핵심 양상 → 변증 → 치법 → 처방**으로 연결합니다.

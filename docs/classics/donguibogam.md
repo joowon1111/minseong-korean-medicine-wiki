@@ -269,6 +269,8 @@ last_reviewed: 2026-10-07
 
 특히 [당귀보혈탕](../formulas/danggui-buxue-tang.md)의 황기·당귀 두 약 배합과 《동의보감》의 동명 혈허두통방은 구성이 다릅니다. 처방명을 찾은 뒤 약미를 대조하는 과정이 병문별 탐색의 일부입니다.
 
+수면·소화·피로·두근거림·땀이 함께 불편할 때에는 [자율신경실조 증상에서 동의보감으로 들어가는 탐색표](../donguibogam-network/index.md#autonomic-classical-map)를 이용할 수 있습니다. 신문의 경계·정충·건망, 몽문의 허번불수·와불안, 내상·허로를 원문과 처방의 배합으로 연결합니다. [위불화와 잠](donguibogam/original.md#stomach-sleep-discomfort), [식후혼곤](donguibogam/original.md#postmeal-drowsiness-fatigue), [안양심신·조치비위](donguibogam/original.md#calm-mind-regulate-digestion)는 여러 불편을 함께 살피는 구체적인 읽기 지점입니다.
+
 ## 증상에서 탐색하는 방법 {#_7}
 
 1. 아픈 부위가 분명하면 [외형편](../donguibogam-network/index.md#oehyeong)에서 시작합니다.
@@ -295,7 +297,7 @@ last_reviewed: 2026-10-07
 
 ## 원문과 상세 지식망 {#_9}
 
-[다섯 편 핵심 42대목 원문·한국어 풀이](donguibogam/original.md#selected-passages)에서 발한·월경·요통·진찰·표본·구토·기침·본초 배합·취혈 원칙을 읽습니다. [오심·건구의 구별](donguibogam/original.md#nausea-dry-retching), [가래 배출과 건조](donguibogam/original.md#sputum-ease-dryness), [식적수와 가미 약미](donguibogam/original.md#food-stagnation-cough)는 잡병편 권5에서 이어 읽습니다. 같은 페이지의 [전용 원문 검색](donguibogam/original.md#reader)에서는 대량 전사를 찾고 공개 영인본을 넘겨볼 수 있습니다. 검색 가능한 전사 범위와 전권 이미지 열람 범위는 화면에서 구분합니다.
+[다섯 편 핵심 50대목 원문·한국어 풀이](donguibogam/original.md#selected-passages)에서 발한·월경·요통·진찰·표본·구토·기침·본초 배합·취혈 원칙을 읽습니다. [오심·건구의 구별](donguibogam/original.md#nausea-dry-retching), [가래 배출과 건조](donguibogam/original.md#sputum-ease-dryness), [식적수와 가미 약미](donguibogam/original.md#food-stagnation-cough)는 잡병편 권5에서 이어 읽습니다. 같은 페이지의 [전용 원문 검색](donguibogam/original.md#reader)에서는 대량 전사를 찾고 공개 영인본을 넘겨볼 수 있습니다. 검색 가능한 전사 범위와 전권 이미지 열람 범위는 화면에서 구분합니다.
 
 - [한의학고전DB 동의보감](https://mediclassics.kr/books/8)
 - [내손안에 동의보감](https://app.mediclassics.kr/)

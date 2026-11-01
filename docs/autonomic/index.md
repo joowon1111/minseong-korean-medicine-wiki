@@ -159,6 +159,14 @@ HRV의 LF/HF 비율을 교감·부교감의 정확한 ‘힘의 비율’로 읽
 
 한의학에서는 자율신경이라는 이름 하나보다 두근거림·흉민·수면·소화·땀·냉열·피로의 조합을 살펴 병증을 구분합니다.
 
+### 동의보감에서는 어느 부분을 읽나요? {#donguibogam-context}
+
+《동의보감》에서는 **신문의 경계·정충·건망, 몽문의 허번불수·와불안, 잡병편의 내상·허로**를 함께 읽습니다. ‘자율신경실조증’이라는 현대 병명을 책 속에서 그대로 찾기보다 실제 불편과 경과를 구체화하는 경로입니다. [동의보감의 자율신경·수면·소화·피로 탐색표](../donguibogam-network/index.md#autonomic-classical-map)에서 원문과 처방의 배합으로 이어갈 수 있습니다.
+
+몽문의 [위불화·와불안](../classics/donguibogam/original.md#stomach-sleep-discomfort)은 식사 뒤와 누운 뒤의 불편을, 내상문의 [안양심신·조치비위](../classics/donguibogam/original.md#calm-mind-regulate-digestion)는 식사와 마음의 편안함을 함께 살피게 합니다. [식후혼곤](../classics/donguibogam/original.md#postmeal-drowsiness-fatigue)은 먹은 뒤의 졸림·나른함을, [음식상·노권상](../classics/donguibogam/original.md#internal-injury-intake-exertion)은 섭취와 소모의 차이를 읽는 대목입니다. 전통의 기능 언어와 현대 자율신경검사는 각기 다른 정보를 다루므로, 원문의 병기를 HRV 수치와 일대일로 대응시키지 않습니다.
+
+### 현재 증상 조합에서 변증으로
+
 | 변증 경향 | 흔한 조합 | 치료 방향 |
 |---|---|---|
 | 간울기체 | 스트레스 후 흉민·한숨·목 이물감·복부팽만 | 긴장과 기의 울체 조절 |
