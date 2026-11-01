@@ -148,6 +148,12 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       await daily.locator('[data-yangsheng-term-day]').filter({hasText:'오늘은 입동(立冬)'}).waitFor();
       assert.match(await daily.locator('[data-term-meaning]').innerText(),/겨울/);
       assert.match(await daily.locator('[data-term-medicine]').innerText(),/보온/);
+      const fullStory=daily.locator('[data-yangsheng-full-story]');
+      await fullStory.waitFor();
+      assert.match(await fullStory.innerText(),/김장독/);
+      assert.match(await fullStory.innerText(),/도랑탕/);
+      assert(await fullStory.locator('h4').count() >= 3);
+      assert.equal(await daily.locator('[data-yangsheng-story]').isVisible(),false);
       await page.locator('[data-yangsheng-find]').click();
       assert.match(await page.locator('[data-almanac-title]').innerText(),/입동/);
       assert.equal(new URL(page.url()).searchParams.get('almanac'),'autumn-59');
@@ -159,6 +165,15 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       await picker.fill('2027-11-07'); await picker.dispatchEvent('change');
       await daily.locator('[data-yangsheng-date][datetime="2027-11-07"]').waitFor();
       assert(!(await daily.locator('[data-yangsheng-term-day]').innerText()).includes('오늘은 입동'));
+      assert.equal(await fullStory.count(),0,'ordinary days must clear the previous detailed story');
+      const calendar=JSON.parse(fs.readFileSync('docs/assets/daily-korean-medicine/yangsheng.json','utf8')).solarCalendar;
+      for (const [index,date] of calendar.years['2026'].entries()) {
+        await picker.fill('2026-'+date); await picker.dispatchEvent('change');
+        await daily.locator('[data-yangsheng-date][datetime="2026-'+date+'"]').waitFor();
+        assert.equal(await fullStory.getAttribute('data-yangsheng-full-story'),calendar.order[index]);
+        assert((await fullStory.innerText()).length > 1000,calendar.order[index]);
+        assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
+      }
       assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
       assert.deepEqual(errors,[]);
       await context.close();

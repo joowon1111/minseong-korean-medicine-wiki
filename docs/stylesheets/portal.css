@@ -304,6 +304,9 @@
 /* A quiet seasonal almanac and explicitly saved reading cards. */
 .daily-km-almanac { margin: 1.3rem 0; padding: clamp(1rem, 3vw, 1.7rem); border: 1px solid var(--md-default-fg-color--lightest); border-radius: .85rem; background: color-mix(in srgb, var(--md-primary-fg-color) 4%, var(--md-default-bg-color)); }
 .daily-km-almanac h2 { margin: .65rem 0 .5rem; font-size: 1rem; }
+.daily-km-almanac [data-yangsheng-full-story] { max-width: 42rem; margin: 1.2rem 0; padding-top: .6rem; border-top: 1px solid var(--md-default-fg-color--lightest); line-height: 1.85; word-break: keep-all; overflow-wrap: anywhere; }
+.daily-km-almanac [data-yangsheng-full-story] h3 { font-size: 1.1rem; }
+.daily-km-almanac [data-yangsheng-full-story] h4 { margin-top: 1.3rem; }
 .daily-km-almanac-label { color: var(--md-default-fg-color--light); font-size: .72rem; }
 .daily-km-almanac-line { max-width: 40rem; font-size: clamp(1rem, 2.1vw, 1.2rem); line-height: 1.85; letter-spacing: -.015em; word-break: keep-all; overflow-wrap: anywhere; text-wrap: pretty; }
 .daily-km-almanac-source { font-size: .78rem; line-height: 1.8; }

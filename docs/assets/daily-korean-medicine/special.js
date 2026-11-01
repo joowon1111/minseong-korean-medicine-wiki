@@ -307,6 +307,19 @@
       if (!selected) throw new Error("Almanac incomplete");
       roots.forEach(function (root) {
         renderAlmanacContent(root, selected.item, data);
+        // Expand the canonical story only on the actual KST solar-term day.
+        let fullStory = root.querySelector("[data-yangsheng-full-story]");
+        if (fullStory) fullStory.remove();
+        const anchor = term && (term.item.relatedHref || "").split("#")[1];
+        const template = anchor && document.getElementById("daily-term-story-" + anchor);
+        if (template) {
+          fullStory = document.createElement("article");
+          fullStory.setAttribute("data-yangsheng-full-story", term.item.solarTerm);
+          fullStory.setAttribute("aria-label", term.item.solarTerm + " 상세 이야기");
+          fullStory.appendChild(template.content.cloneNode(true));
+          root.querySelector("[data-yangsheng-term-details]").after(fullStory);
+          root.querySelector("[data-yangsheng-story]").hidden = true;
+        }
         let badge = root.querySelector("[data-yangsheng-term-day]");
         if (!badge) {
           badge = document.createElement("p");
