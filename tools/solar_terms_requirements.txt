@@ -1,0 +1,3 @@
+# Only for regenerating DE440 model data; the static site does not need these.
+skyfield==1.54
+numpy==2.3.5

@@ -51,3 +51,9 @@ class PageAssets(unittest.TestCase):
     def test_instant_navigation_keeps_shared_subscribers(self):
         config = {"theme": {"features": ["navigation.instant"]}, "extra_css": [], "extra_javascript": ["assets/learning/learning.js"]}
         self.assertEqual(self.render("", config), ["assets/learning/learning.js"])
+
+    def test_solar_calculator_assets_follow_the_widget_marker(self):
+        for marker, expected in [("<div data-solar-term-calculator></div>", True), ("<p>ordinary article</p>", False), ("<!-- <div data-solar-term-calculator> -->", False)]:
+            needed = page_assets.needed_assets(marker, "daily-korean-medicine/solar-terms.md")
+            self.assertEqual(needed["assets/solar-terms/calculator.js"], expected)
+            self.assertEqual(needed["assets/solar-terms/calculator.css"], expected)
