@@ -27,6 +27,8 @@ def needed_assets(html, source):
     atlas = bool(ids & {"acupoint-controls", "acupoint-discovery"}) or "acupoint-region" in classes
     daily = bool(attributes & {"data-daily-km", "data-daily-km-topics"})
     return {
+        "assets/solar-terms/calculator.js": "data-solar-term-calculator" in attributes,
+        "assets/solar-terms/calculator.css": "data-solar-term-calculator" in attributes,
         "assets/acupoint-3d/launch.js": "data-acupoint-3d" in attributes,
         "assets/acupoint-3d/map.css": "data-acupoint-3d" in attributes,
         "assets/archive-tools/search-core.js": tools,
