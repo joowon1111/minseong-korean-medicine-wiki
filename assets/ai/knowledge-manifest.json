@@ -2,12 +2,12 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "2c2f9dc50dc1bd5b8fe81bfab0d82c2b8ab1d40843f13f3df0ad80cb4fc737fb",
-  "entity_count": 2221,
+  "content_sha256": "46c8a77be06e2bb9f98599a2c2937e79fa80e107c87ce4e15857d5ab3e78e515",
+  "entity_count": 2222,
   "entity_types": {
     "acupoint": 410,
     "acupuncture": 48,
-    "article": 269,
+    "article": 270,
     "auricular_anatomy": 1,
     "auricular_point_combination": 2,
     "classical_source": 89,
@@ -42,14 +42,14 @@
     "ko-KR"
   ],
   "red_flag_section_entities": 281,
-  "relation_count": 28607,
+  "relation_count": 28612,
   "relation_types": {
-    "links_to": 11089,
+    "links_to": 11093,
     "links_to_acupoint": 1997,
     "links_to_condition": 5830,
     "links_to_evidence": 243,
     "links_to_formula": 5817,
-    "links_to_herb": 3457,
+    "links_to_herb": 3458,
     "links_to_pattern": 174
   },
   "safety_section_entities": 971,
