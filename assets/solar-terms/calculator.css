@@ -1,0 +1,14 @@
+.solar-term-calculator { border:1px solid var(--md-default-fg-color--lightest); border-radius:.35rem; padding:1rem; margin:1rem 0; }
+.solar-term-calculator form { display:flex; flex-wrap:wrap; align-items:end; gap:.65rem; }
+.solar-term-calculator label { display:block; font-size:.8rem; }
+.solar-term-calculator input[type=number] { display:block; width:7.5rem; max-width:100%; padding:.4rem; border:1px solid var(--md-default-fg-color--light); border-radius:.2rem; background:var(--md-default-bg-color); color:var(--md-default-fg-color); font:inherit; }
+.solar-term-calculator button { border:1px solid var(--md-primary-fg-color); border-radius:.2rem; padding:.4rem .6rem; font:inherit; font-size:.75rem; color:var(--md-primary-fg-color); background:var(--md-default-bg-color); cursor:pointer; }
+.solar-term-calculator button[type=submit] { background:var(--md-primary-fg-color); color:var(--md-primary-bg-color); }
+.solar-term-calculator button:disabled { opacity:.45; cursor:default; }
+.solar-term-calculator button:focus-visible,.solar-term-calculator input:focus-visible { outline:2px solid var(--md-accent-fg-color); outline-offset:3px; }
+.solar-term-table { max-width:100%; overflow-x:auto; margin-top:.8rem; }
+.solar-term-table table { width:100%; margin:0!important; font-variant-numeric:tabular-nums; }
+.solar-term-table caption { text-align:left; font-weight:600; padding:.5rem 0; }
+.solar-term-table th,.solar-term-table td { white-space:nowrap; }
+.solar-term-calculator [role=status] { min-height:1.5em; font-size:.8rem; }
+.solar-term-calculator .solar-term-options { margin:.8rem 0; }
