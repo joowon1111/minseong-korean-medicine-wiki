@@ -105,6 +105,16 @@ Huang 등의 2025년 무작위시험은 **기능성 빈발 심실조기수축 �
 
 《동의보감》의 귀비탕은 걱정·과로와 심비의 허손을, 이진탕은 오심·어지럼과 심계를 연결합니다. **식욕저하·피로·건망·불면**과 **오심·흉민·두중감** 가운데 무엇이 함께 움직이는지에 따라 귀비탕과 온담탕·이진탕 계열의 중심을 구분합니다. [동의보감 발췌와 해석](../classics/donguibogam.md#selected-clinical-passages)
 
+신문의 [경계 원문](../classics/donguibogam/original.md#fright-palpitation-onset)은 갑자기 뛰며 편안하지 않은 상태를, [정충 원문](../classics/donguibogam/original.md#persistent-palpitation-timing)은 반복되는 두근거림의 느낌과 시점을 설명합니다. 이름을 가벼움·심함의 두 칸으로만 외우기보다 **시작 계기 → 한 번의 지속시간 → 반복 양상 → 수면·생활 영향**으로 구체화하면 현재의 병력과 연결하기 좋습니다.
+
+| 심계와 함께 달라지는 모습 | 원문·배합에서 비교할 지점 | 경과에서 확인할 것 |
+|---|---|---|
+| 피로·식욕저하·건망·얕은 잠 | 신문의 건망과 [귀비탕](../formulas/guibi-tang.md#donguibogam-version)의 익기건비·양혈안신 | 식사량과 집중 가능한 시간, 심계와 각성 |
+| 오심·흉민·어지럼·쉽게 놀람 | 담음·심담불녕과 [온담탕](../formulas/wendan-tang.md#donguibogam-version)의 화담·화위 | 식후 불편과 심계가 같은 때 줄어드는지 |
+| 활동하면 기운이 빠지고 숨이 짧음 | [허로의 기허 관찰](../classics/donguibogam/original.md#deficiency-breath-speech-activity)과 기·진액의 부족 | 실제 심장·혈액·기립 평가와 대화·외출 가능량 |
+
+치료의 변화는 심계의 느낌과 실제 리듬을 구분해 확인합니다. 수면·소화가 좋아져도 심계가 따로 남는지, 심계가 줄었어도 활동 회피가 남는지까지 살피면 다음 치료 목표가 분명해집니다. [통합 탐색표](../donguibogam-network/index.md#autonomic-classical-map)는 신문·몽문·내상·허로 사이의 연결을 안내합니다.
+
 외형편 권3 맥에 수록된 [자감초탕](../formulas/zhigancao-tang.md#donguibogam-version)은 맥결대·심동계를 다루며, 기와 음혈을 돕는 복합 배합입니다. **맥결대는 심방세동·조기수축·방실차단 가운데 하나의 확정 진단명이 아닙니다.** 실제 리듬과 원인 평가는 위 검사 과정으로 확인하고, 처방의 목표는 허약·건조·숨참·심계의 조합에 맞춰 정합니다.
 
 ## 한약은 어떤 기준으로 구성하나요? {#herbal-treatment}
