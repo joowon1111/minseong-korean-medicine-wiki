@@ -108,7 +108,9 @@ hide:
 
 절기는 계절을 살피는 전통의 시간표입니다. 아래 카드는 **절기 이름을 계기로 읽는 생활 이야기**이며 해당 날짜의 날씨·질환을 예측하지 않습니다. 절입 날짜는 해마다 다릅니다. 한국천문연구원의 한국 표준시(KST) 날짜 자료에 맞춰 **절기 당일에는 해당 절기 카드를 우선 표시**합니다. 이름·한자·뜻, 생활 정보, 한의학과 연결해 읽을 내용을 함께 담았습니다. 날짜 선택으로 지난 절기도 다시 볼 수 있습니다. 계절 필터는 기존과 같이 한국의 달력상 월 구분을 사용하므로, 2월의 입춘·우수는 겨울 목록에서 찾을 수 있습니다.
 
-[절기 날짜 자료 · 한국천문연구원](https://astro.kasi.re.kr/kor/almanac/solarTerms/download) · [절기와 기후 · 기상청](https://data.kma.go.kr/climate/solarTerms/solarTerms.do?pgmNo=104)
+[절기 날짜·시각 자료 · 한국천문연구원](https://astro.kasi.re.kr/kor/almanac/solarTerms/download) · [절기와 기후 · 기상청](https://data.kma.go.kr/climate/solarTerms/solarTerms.do?pgmNo=104)
+
+**[24절기 이야기 · 입동의 김장과 따뜻한 한 그릇](solar-terms.md#ipdong)**에서 풍속과 본초 원문을 길게 읽어 보세요. [매년 정확한 절입 시각 확인하기](solar-terms.md#annual-time)에는 연도별 월력요항, 2026년 시각표와 NASA JPL DE440 자료를 연결했습니다. 일력은 절기가 드는 날짜 전체에 카드를 보여주며, 절입 순간의 시·분은 별도로 확인합니다.
 
 날짜 표시는 1920–2100년 계산자료에 근거합니다. 장래 날짜는 자료 갱신에 따라 달라질 수 있으며, 범위 밖의 날짜에는 일반 양생 카드를 표시합니다.
 
