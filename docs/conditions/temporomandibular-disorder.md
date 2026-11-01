@@ -141,6 +141,14 @@ last_reviewed: '2026-09-19'
 
 2023년 BMJ 턱관절장애 만성통증 진료지침은 침 치료를 조건부 권고했으며, 연계 네트워크 메타분석에서는 침을 포함한 여러 치료의 통증·기능·수면 등 환자 중요 결과를 비교했습니다(PMID **38101929**, **38101924**).
 
+#### 협거·하관·청궁을 포함한 가짜침 대조시험 {#tmd-sham-controlled-trial-2024}
+
+2024년 《QJM》에 발표된 단일기관 무작위시험은 3개월 이상 통증성 턱관절장애가 있는 성인 60명을 침치료와 비관통 가짜침에 30명씩 배정했습니다. 관절내 TMD 진단군 등은 제외했습니다. 환자·평가자·통계분석자는 배정을 모르게 했으며, 양측 합곡·양릉천과 증상측 청궁·협거·하관을 사용해 4주간 주 3회, 회당 30분 치료하고 4주 더 추적했습니다.
+
+4주째 주간 평균 통증 변화의 군간 차이는 침치료에 유리한 **−1.49점(95% 신뢰구간 −2.32~−0.65)**이었고, 통증 없는 개구량과 턱 기능도 더 개선됐습니다. 압통역치와 표면근전도에서는 유의한 군간 차이가 없었습니다. 침치료군에서 경미하고 저절로 호전된 혈종·시술 후 통증이 보고됐고 중대한 이상반응은 없었습니다. 소규모·단일기관·짧은 추적의 복합 배혈 연구이므로 각 혈의 독립 효과와 장기 결과는 별도 평가가 필요합니다. [Liu 외, 2024, 원문·방법·표 2–3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11537310/), DOI: 10.1093/qjmed/hcae094.
+
+#### 문헌고찰과 치료 빈도 연구
+
 2026년 메타분석은 19개 무작위시험·708명에서 침 치료군의 통증과 최대 개구량 개선을 보고했습니다(PMID [42362085](https://pubmed.ncbi.nlm.nih.gov/42362085/)). 2025년 동아시아 전통의학 네트워크 메타분석은 침·전침·수기·뜸·한약 등 45개 연구·2,211명을 비교해 침과 전침을 포함한 치료들의 통증·기능 결과를 정리했습니다(PMID [39926698](https://pubmed.ncbi.nlm.nih.gov/39926698/)). 턱관절 통증 환자 42명을 배정한 2025년 무작위 연구에서는 청궁·협거·하관과 합곡·양릉천을 사용해 4주간 주 1·2·3회 치료를 비교했습니다. 주 3회군의 통증·턱 기능 점수가 다른 군보다 낮았으나, 군당 14명의 소규모 연구이고 가짜침 대조군이 없어 각 혈의 독립 효과를 판단할 수는 없습니다. [Li 외, 2025](https://pubmed.ncbi.nlm.nih.gov/40229155/)
 
 실제 진료에서는 침 치료와 턱운동·자세·습관 교정을 함께 구성하고 통증과 기능을 동시에 추적합니다.
@@ -271,6 +279,7 @@ last_reviewed: '2026-09-19'
 - Yao L, et al. Management of chronic pain secondary to temporomandibular disorders: a systematic review and network meta-analysis of randomised trials. *BMJ*. 2023. PMID [38101924](https://pubmed.ncbi.nlm.nih.gov/38101924/).
 - Mohamad N, et al. The effectiveness of different types of acupuncture to reduce symptoms and disability in individuals with temporomandibular disorders: a systematic review and meta-analysis. 2024. PMID [38357796](https://pubmed.ncbi.nlm.nih.gov/38357796/).
 - Di Francesco F, et al. Acupuncture for temporomandibular disorders: a systematic review and meta-analysis of randomized controlled trials. 2024. PMID [38308258](https://pubmed.ncbi.nlm.nih.gov/38308258/).
+- Liu L, et al. Effect of acupuncture for temporomandibular disorders: a randomized clinical trial. *QJM*. 2024;117(9):647–656. DOI: [10.1093/qjmed/hcae094](https://doi.org/10.1093/qjmed/hcae094). PMID [38710498](https://pubmed.ncbi.nlm.nih.gov/38710498/).
 - Ha S, et al. Comparative effectiveness of traditional East Asian medicine treatments for temporomandibular joint disorders: a systematic review and network meta-analysis. 2025. PMID [39926698](https://pubmed.ncbi.nlm.nih.gov/39926698/).
 - Poursalehi E, et al. Is bruxism associated with temporomandibular joint disorders? A systematic review and meta-analysis. 2023. PMID [37474733](https://pubmed.ncbi.nlm.nih.gov/37474733/).
 - Mottaghi A, et al. Temporomandibular disorders in migraine and tension-type headache patients: a systematic review with meta-analysis. 2024. PMID [39801093](https://pubmed.ncbi.nlm.nih.gov/39801093/).
