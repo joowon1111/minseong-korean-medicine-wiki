@@ -76,6 +76,8 @@ IBS에서는 식사·배변 관리와 함께 장 증상에 초점을 둔 CBT·�
 
 ## 소화와 긴장을 함께 평가하는 치료 {#care-followup}
 
+《동의보감》 내상문의 [안양심신·조치비위](../classics/donguibogam/original.md#calm-mind-regulate-digestion)는 마음의 편안함과 비위의 조절을 같은 문맥에서 설명합니다. 몽문의 [위불화·와불안](../classics/donguibogam/original.md#stomach-sleep-discomfort)과 함께 읽으면 식후 불편과 잠자리의 불편을 잇는 관찰이 보입니다. [식후혼곤](../classics/donguibogam/original.md#postmeal-drowsiness-fatigue)은 먹은 뒤의 졸림·피로를 구분해 기록한 항목입니다. 이런 고전의 연결은 현재의 장–뇌 상호작용 연구와 각각의 근거를 확인하면서 비교합니다.
+
 중완·내관·족삼리 등 [소화기 경혈](../acupuncture-integrated/points-for-digestion.md)을 증상에 맞춰 구성하고, [장–뇌축 임상근거](../authority/conditions/gut-brain-axis-evidence-map.md)와 연결합니다. 식사를 지나치게 제한하기보다 규칙적인 시간·식사량·본인에게 불편한 음식을 확인합니다.
 
 한 번 체한 정도뿐 아니라 **편안하게 먹을 수 있는 양, 식후 불편 지속시간, 변 상태, 잠과 기력**을 함께 비교합니다. 체중감소·출혈·반복 구토·진행하는 삼킴장애가 있으면 스트레스 관리만으로 넘기지 않습니다.

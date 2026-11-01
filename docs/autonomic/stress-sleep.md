@@ -89,6 +89,8 @@ last_reviewed: 2026-09-06
 
 고전에서 병후 허약·담·허번을 어떻게 구분했는지는 [불면의 원문 해석](../conditions/insomnia.md#classical-clinical-reading)에서 이어 읽습니다. 전통적인 처방 선택 이유와 실제 임상효과를 검증한 연구는 각각 확인합니다.
 
+《동의보감》 몽문을 더 읽으면 [허번불수](../classics/donguibogam/original.md#sleep-vexation-after-illness)의 불안정한 잠, [위불화·와불안](../classics/donguibogam/original.md#stomach-sleep-discomfort)의 식사·누움 관계, [노소의 수면](../classics/donguibogam/original.md#sleep-aging-daytime-function)의 밤과 낮 기능을 나란히 볼 수 있습니다. 침수법의 [등불·잠자리 환경](../classics/donguibogam/original.md#sleep-bedroom-light)까지 이어 읽으면 처방과 생활을 함께 살핀 책의 구성이 드러납니다.
+
 ### 천왕보심단과 우황청심원은 같은 약인가요? {#cheonwang-cheongsim}
 
 서로 다른 처방입니다. 천왕보심단은 음혈부족과 건조·허열을 동반하는 수면·심계 양상을 살피며, 우황청심원은 우황 등을 포함하는 별도의 복합 제제입니다. 한쪽은 장기용, 다른 쪽은 즉효용으로만 나누거나 이름만 보고 함께 복용하지 않습니다. [처방별 구성·제형·복용 계획 비교](../formulas/tianwang-buxin-dan.md#cheonwang-vs-uhwang)에서 차이를 확인합니다.
