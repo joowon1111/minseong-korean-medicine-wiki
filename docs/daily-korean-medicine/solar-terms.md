@@ -53,7 +53,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 오늘 입춘 식탁을 차린다면 식용으로 확인된 나물 한 가지부터 골라 볼 만합니다. 함께 먹는 사람이 부드러운 것을 좋아하면 익히고, 향을 낯설어하면 조금만 곁들입니다. 입춘첩에 쓰는 건강의 바람은 그렇게 서로의 입맛을 묻는 작은 일에서도 시작할 수 있습니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈입춘〉](https://encykorea.aks.ac.kr/Article/E0047822). [짧은 일력 카드](../?almanac=winter-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈입춘〉](https://encykorea.aks.ac.kr/Article/E0047822). [짧은 일력 카드](index.md?almanac=winter-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 우수 — 녹는 물을 살피며 봄의 속도를 맞추다 {#usu}
 
@@ -91,7 +91,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 나들이를 다시 시작할 때에는 양지에서 녹은 물이 그늘에서는 얼 수 있다는 점도 챙깁니다. 돌아오는 길의 밝기와 노면을 살피고 서두르지 않을 시간을 남깁니다. 얼음이 풀리는 모습을 반기면서도 내 걸음은 편한 속도로 옮기는 때입니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈우수〉](https://encykorea.aks.ac.kr/Article/E0039984). [짧은 일력 카드](../?almanac=winter-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈우수〉](https://encykorea.aks.ac.kr/Article/E0039984). [짧은 일력 카드](index.md?almanac=winter-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 경칩 — 보리싹을 들여다보고 다시 걷는 날 {#gyeongchip}
 
@@ -131,7 +131,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 아이와 함께라면 같은 나무나 화단을 며칠 간격으로 찾아가 보아도 좋겠습니다. 어제는 보이지 않던 싹을 발견하는 재미가 다음 산책의 약속이 됩니다. 경칩의 ‘깨어남’은 몸을 몰아붙이는 구호보다 밖을 다시 바라보게 하는 작은 초대에 가깝습니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈경칩〉](https://encykorea.aks.ac.kr/Article/E0002973). [짧은 일력 카드](../?almanac=spring-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈경칩〉](https://encykorea.aks.ac.kr/Article/E0002973). [짧은 일력 카드](index.md?almanac=spring-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 춘분 — 밭을 깨우는 손길, 잠을 남겨 두는 저녁 {#chunbun}
 
@@ -175,7 +175,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 춘분에는 낮의 길이만큼 밤의 쓰임도 돌아볼 수 있습니다. 저녁 약속을 마치는 시간, 잠자리의 빛, 다음 날 첫 일정을 한 번 나란히 놓아 보세요. 밭에 씨를 뿌릴 자리를 마련하듯, 하루에도 쉬어 갈 자리가 필요합니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈춘분〉](https://encykorea.aks.ac.kr/Article/E0057969). [짧은 일력 카드](../?almanac=spring-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈춘분〉](https://encykorea.aks.ac.kr/Article/E0057969). [짧은 일력 카드](index.md?almanac=spring-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 청명 — 맑은 봄날, 흙을 고르고 불을 나누다 {#cheongmyeong}
 
@@ -209,7 +209,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 청명의 맑음은 그날의 날씨를 약속하는 표현이 아니라 봄을 바라보는 이름입니다. 논둑을 다듬던 손길처럼, 내가 자주 머무는 자리 하나를 정돈하고 편하게 몸을 쓸 준비를 해 보아도 좋겠습니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈청명〉](https://encykorea.aks.ac.kr/Article/E0056438). [짧은 일력 카드](../?almanac=spring-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈청명〉](https://encykorea.aks.ac.kr/Article/E0056438). [짧은 일력 카드](index.md?almanac=spring-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 곡우 — 볍씨를 담그는 물, 찻잎을 깨우는 비 {#gogu}
 
@@ -249,7 +249,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 곡우의 한 잔은 급히 많이 마시기보다 잎이 펴지고 향이 달라지는 시간을 함께 즐기기에 어울립니다. 볍씨를 담그던 기다림과 찻잎을 우려내는 기다림이 서로 다른 자리에서 봄의 물을 만나고 있습니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈곡우〉](https://encykorea.aks.ac.kr/Article/E0004135). [짧은 일력 카드](../?almanac=spring-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈곡우〉](https://encykorea.aks.ac.kr/Article/E0004135). [짧은 일력 카드](index.md?almanac=spring-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ## 여름의 절기 이야기 {#summer-stories}
 
@@ -285,7 +285,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 입하에 쑥떡을 나눈다면 ‘어떤 효능이 있는가’에 앞서 향과 식감을 함께 즐길 수 있습니다. 아이에게는 잎이 어떻게 떡의 향과 빛깔을 만드는지 보여주고, 어르신에게는 먹기 편한 크기와 부드러움을 살핍니다. 작은 잎 하나가 부엌과 진료실에서 서로 다른 모습으로 쓰인다는 사실도 한의학을 알아가는 좋은 이야기입니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈입하〉](https://encykorea.aks.ac.kr/Article/E0047827). [짧은 일력 카드](../?almanac=spring-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈입하〉](https://encykorea.aks.ac.kr/Article/E0047827). [짧은 일력 카드](index.md?almanac=spring-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 소만 — 차오르는 들판과 보리의 다른 이름 {#soman}
 
@@ -321,7 +321,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 오늘의 ‘소만’은 식탁을 무조건 가득 채우기보다 먹기 편한 구성을 찾는 계기가 될 수 있습니다. 나물의 양만 늘리느라 주식이나 단백질 반찬을 빠뜨리지는 않았는지, 식사 뒤에는 얼마나 편한지 살펴봅니다. 조금씩 차오르는 들판처럼, 한 끼도 그 사람에게 맞는 정도가 있습니다. [식사와 소화의 관찰](../conditions/functional-dyspepsia.md)
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈소만〉](https://encykorea.aks.ac.kr/Article/E0030041). [짧은 일력 카드](../?almanac=spring-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈소만〉](https://encykorea.aks.ac.kr/Article/E0030041). [짧은 일력 카드](index.md?almanac=spring-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 망종 — 보리를 거두는 손, 새참을 건네는 손 {#mangjong}
 
@@ -363,7 +363,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 밥을 차리는 사람과 일하는 사람이 번갈아 쉴 수 있다면 끼니의 의미가 더 넓어집니다. 도시락이라면 먹을 때까지의 보냉과 보관도 함께 준비합니다. 망종의 새참은 무엇을 먹었는가만큼, 바쁜 사람에게 먹을 시간을 내어 주었다는 점에서도 기억할 만합니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈망종〉](https://encykorea.aks.ac.kr/Article/E0017898). [짧은 일력 카드](../?almanac=summer-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈망종〉](https://encykorea.aks.ac.kr/Article/E0017898). [짧은 일력 카드](index.md?almanac=summer-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 하지 — 긴 햇빛 아래 캐낸 감자 한 소쿠리 {#haji}
 
@@ -399,7 +399,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 감자를 찌는 동안 상을 차리고, 함께 먹은 뒤 저녁 바람이 드는 곳에서 쉬는 시간. 하지의 긴 하루에는 일을 더 넣을 수도 있지만, 한 끼를 천천히 나눌 여유를 남길 수도 있습니다. 해가 오래 머무는 날의 즐거움을 밤의 휴식과 함께 누려 봅니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈하지〉](https://encykorea.aks.ac.kr/Article/E0060712). [짧은 일력 카드](../?almanac=summer-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈하지〉](https://encykorea.aks.ac.kr/Article/E0060712). [짧은 일력 카드](index.md?almanac=summer-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 소서 — 애호박 국 한 그릇과 생맥산의 세 약재 {#soseo}
 
@@ -435,7 +435,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 소서의 식탁과 처방 이야기를 함께 읽으면 한의학이 먹는 일, 소모되는 힘, 남아 있는 갈증을 서로 연결해 보았음을 알 수 있습니다. 국 한 그릇을 먹고도 편하지 않은지, 쉬고 나면 기력이 돌아오는지를 물어보는 일에서 이야기가 구체적으로 이어집니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈소서〉](https://encykorea.aks.ac.kr/Article/E0030120). [짧은 일력 카드](../?almanac=summer-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈소서〉](https://encykorea.aks.ac.kr/Article/E0030120). [짧은 일력 카드](index.md?almanac=summer-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 대서 — 수박을 자르는 날, 쉴 그늘을 나누다 {#daeseo}
 
@@ -473,7 +473,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 가족에게 ‘덥지 않으세요?’라고 묻는 데서 한 걸음 더 나아가, 지금 쉬는 방은 시원한지 냉방을 쓸 수 있는지 확인할 수 있습니다. 수박을 나눌 때 가까운 그늘도 함께 내어 주는 마음이 대서의 생활 양생과 잘 어울립니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈대서〉](https://encykorea.aks.ac.kr/Article/E0014489). [짧은 일력 카드](../?almanac=summer-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈대서〉](https://encykorea.aks.ac.kr/Article/E0014489). [짧은 일력 카드](index.md?almanac=summer-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ## 가을의 절기 이야기 {#autumn-stories}
 
@@ -509,7 +509,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 입추의 밭을 생각하면 준비가 반드시 서두르는 일만은 아니라는 것을 알게 됩니다. 겨울의 한 끼를 위해 지금 심어 두는 씨앗처럼, 잘 먹고 쉬는 일도 매일의 작은 여건을 마련하며 이어집니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈입추〉](https://encykorea.aks.ac.kr/Article/E0047821). [짧은 일력 카드](../?almanac=summer-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈입추〉](https://encykorea.aks.ac.kr/Article/E0047821). [짧은 일력 카드](index.md?almanac=summer-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 처서 — 책장을 말리고 약재의 상태를 살피다 {#cheoseo}
 
@@ -557,7 +557,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 처서는 물건뿐 아니라 휴가와 방학 뒤의 생활도 정돈해 보기 좋은 때입니다. 밀린 일을 한 번에 처리하기보다 잠자리 준비와 끼니를 먼저 놓아 둡니다. 책장을 한 장씩 넘겨 바람을 들이듯, 일상에도 여유가 들어갈 간격을 마련해 봅니다. [생활 리듬과 휴식](../yangsaeng/index.md#daily-rhythm)
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈처서〉](https://encykorea.aks.ac.kr/Article/E0055711). [짧은 일력 카드](../?almanac=summer-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈처서〉](https://encykorea.aks.ac.kr/Article/E0055711). [짧은 일력 카드](index.md?almanac=summer-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 백로 — 이슬 맺힌 아침, 부모님을 찾아가는 길 {#baengno}
 
@@ -601,7 +601,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 백로의 서늘한 아침에 가족을 만나러 간다면 돌아올 시간과 쉬어 갈 자리도 미리 생각해 봅니다. 여름 농사 사이에 잠깐 비워 두었던 시간처럼, 만나서 함께 좋아할 일을 할 수 있는 여백이 반가운 선물이 됩니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈백로〉](https://encykorea.aks.ac.kr/Article/E0022092). [짧은 일력 카드](../?almanac=autumn-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈백로〉](https://encykorea.aks.ac.kr/Article/E0022092). [짧은 일력 카드](index.md?almanac=autumn-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 추분 — 말린 나물 한 줌에 담은 가을걷이 {#chubun}
 
@@ -641,7 +641,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 버섯이나 산나물은 식용이 확인된 재료를 고릅니다. 여러 나물을 한 번에 많이 차리기보다 익숙한 한 가지를 먹기 편하게 조리해 보아도 좋겠습니다. 추분의 풍성함은 접시의 개수만이 아니라, 겨울에도 꺼내어 먹을 수 있도록 시간을 들여 마련한 한 줌의 재료 안에도 있습니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈추분〉](https://encykorea.aks.ac.kr/Article/E0057853). [짧은 일력 카드](../?almanac=autumn-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈추분〉](https://encykorea.aks.ac.kr/Article/E0057853). [짧은 일력 카드](index.md?almanac=autumn-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 한로 — 국화가 피면 꽃의 쓰임을 다시 묻는다 {#hallo}
 
@@ -681,7 +681,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 한로의 꽃을 보러 가는 날에는 오래 걷기보다 편히 앉아 바라볼 자리도 찾아보면 좋겠습니다. 국화가 피었다는 소식에 모여 안부를 묻던 마음을, 꽃의 향과 색을 함께 나누는 시간으로 이어 볼 수 있습니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈한로〉](https://encykorea.aks.ac.kr/Article/E0061573). [짧은 일력 카드](../?almanac=autumn-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈한로〉](https://encykorea.aks.ac.kr/Article/E0061573). [짧은 일력 카드](index.md?almanac=autumn-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 상강 — 서리 앞의 수확과 생강 두 가지 이름 {#sanggang}
 
@@ -715,7 +715,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 상강의 저녁에는 겨울 먹거리를 준비하는 사람의 손도 돌아보게 됩니다. 손질을 한 번에 오래 하기보다 나누어 하고, 차가운 곳에서 일했다면 편한 온도로 몸을 돌봅니다. 거둔 재료를 잘 보관하는 일과 그것을 다루는 사람이 쉬는 일이 함께 있어야 겨울 준비가 이어집니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈상강〉](https://encykorea.aks.ac.kr/Article/E0027000). [짧은 일력 카드](../?almanac=autumn-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈상강〉](https://encykorea.aks.ac.kr/Article/E0027000). [짧은 일력 카드](index.md?almanac=autumn-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ## 겨울의 절기 이야기 {#winter-stories}
 
@@ -763,7 +763,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 시래기를 부드럽게 익히고, 먹는 이가 좋아하는 향을 곁들여 한 그릇을 내는 일. 입동의 식탁은 겨울을 앞둔 가족과 이웃의 안부를 묻는 자리가 될 수 있습니다. 따뜻한 음식을 나누던 도랑탕의 풍속은 그렇게 오늘의 저녁으로 이어집니다.
 
-[입동 일력 카드](../?almanac=autumn-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+[입동 일력 카드](index.md?almanac=autumn-59#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 
 ### 소설 — 귤을 까는 저녁, 진피라는 이름을 읽다 {#soseol}
@@ -796,7 +796,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 귤 한 개를 나누어 먹는 저녁에는 껍질과 과육의 향이 어떻게 다른지 이야기해 볼 수 있습니다. 바깥 바람이 차다면 차 한 잔과 함께 천천히 쉬어도 좋겠습니다. 익숙한 과일의 다른 부위를 알아가는 즐거움이 겨울의 짧은 해설 한 편이 됩니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈소설〉](https://encykorea.aks.ac.kr/Article/E0030127). [짧은 일력 카드](../?almanac=autumn-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈소설〉](https://encykorea.aks.ac.kr/Article/E0030127). [짧은 일력 카드](index.md?almanac=autumn-60#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 대설 — 눈길을 살피고 따뜻한 끼니를 기다리는 시간 {#daeseol}
 
@@ -834,7 +834,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 눈이나 얼음이 있는 날에는 음식을 함께 먹을 약속에도 오가는 길이 포함됩니다. 난간이 있는 길과 덜 미끄러운 동선을 확인하고 충분한 시간을 남깁니다. 길이 부담스러운 가족에게는 집에서 만나거나 따뜻한 끼니를 전하는 방법도 있습니다. 대설의 한 끼는 그릇에 담긴 음식과 무사히 만나는 수고를 함께 떠올리게 합니다. [낙상 예방 안내](https://www.cdc.gov/falls/prevention/index.html)
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈대설〉](https://encykorea.aks.ac.kr/Article/E0014495). [짧은 일력 카드](../?almanac=winter-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈대설〉](https://encykorea.aks.ac.kr/Article/E0014495). [짧은 일력 카드](index.md?almanac=winter-55#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 동지 — 팥죽의 새알과 새 달력에 담은 안부 {#dongji}
 
@@ -870,7 +870,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 긴 밤의 일정을 다 채우지 않고 내년에 함께 하고 싶은 일을 달력에 하나 적어 보아도 좋겠습니다. 팥죽을 나누고 다음 만남을 약속하는 것, 동지의 새 달력은 그렇게 사람 사이의 시간을 이어 주는 물건이 됩니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈동지〉](https://encykorea.aks.ac.kr/Article/E0016784). [짧은 일력 카드](../?almanac=winter-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈동지〉](https://encykorea.aks.ac.kr/Article/E0016784). [짧은 일력 카드](index.md?almanac=winter-56#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 소한 — 작은 추위의 큰 이름, 계피와 계지 {#sohan}
 
@@ -910,7 +910,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 따뜻한 향의 차를 준비하고 실내에서 몸을 펴는 한겨울의 시간. 소한에는 이름의 크기보다 오늘의 추위를 직접 느끼며 옷과 활동을 조절합니다. 열감각이 둔한 사람은 핫팩을 오래 대지 않도록 피부와 사용 시간을 함께 확인합니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈소한〉](https://encykorea.aks.ac.kr/Article/E0030350). [짧은 일력 카드](../?almanac=winter-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈소한〉](https://encykorea.aks.ac.kr/Article/E0030350). [짧은 일력 카드](index.md?almanac=winter-57#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ### 대한 — 겨울을 매듭짓고 집과 일과를 손질하다 {#daehan}
 
@@ -954,7 +954,7 @@ tags: [24절기, 절기 음식, 세시풍속, 본초, 양생, 절입 시각, DE4
 
 대한에 꼭 큰 정리를 끝낼 필요는 없습니다. 자주 걸리는 물건을 치우거나, 잠들기 전 일과 하나를 정돈하는 것부터 시작해도 됩니다. 다음 절기 입춘의 문에 글을 붙이기 전에, 그 문을 드나드는 사람이 편하게 쉬고 움직일 자리를 마련해 보는 때입니다.
 
-풍속·명칭 참고: [한국민족문화대백과사전 〈대한〉](https://encykorea.aks.ac.kr/Article/E0014906). [짧은 일력 카드](../?almanac=winter-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
+풍속·명칭 참고: [한국민족문화대백과사전 〈대한〉](https://encykorea.aks.ac.kr/Article/E0014906). [짧은 일력 카드](index.md?almanac=winter-58#daily-yangsheng-library) · [절입 시각 확인](#annual-time)
 
 ## 연도별 절입 시각 자동 계산 {#solar-calculator}
 

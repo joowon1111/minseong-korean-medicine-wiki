@@ -56,7 +56,7 @@ hide:
     <a data-yangsheng-modern hidden></a>
   </details>
   <div class="daily-km-date-tools"><button type="button" data-yangsheng-find disabled>이 문구 다시 읽기·공유</button></div>
-  <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 60개 카드를 순환합니다. 240개 카드 모두 구체적인 생활 해설과 작은 실천을 담았습니다. 절기 당일에는 해당 절기 안내를 우선 표시하며, 다른 날 순환 중 만나는 절기 카드는 별도로 표시합니다. 고전 원문·자체 풀이와 현재의 생활 제안을 구분해 읽어 보세요.</p>
+  <p class="daily-km-almanac-footnote">위 날짜를 바꾸면 문구도 함께 바뀝니다. 한국의 봄(3–5월)·여름(6–8월)·가을(9–11월)·겨울(12–2월)을 기준으로 계절마다 60개 카드를 순환합니다. 240개 카드 모두 구체적인 생활 해설과 작은 실천을 담았습니다. 절기 당일에는 해당 절기의 한자·뜻과 풍속·음식·본초·고전 이야기를 이 카드 안에 자세히 펼쳐 보여주며, 다른 날 순환 중 만나는 절기 카드는 별도로 표시합니다. 고전 원문·자체 풀이와 현재의 생활 제안을 구분해 읽어 보세요.</p>
   <p class="daily-km-tool-status" data-yangsheng-error role="status" hidden>날짜별 문구를 불러오지 못해 기본 문구를 표시합니다.</p>
 </section>
 
