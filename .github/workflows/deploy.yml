@@ -19,8 +19,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # 문서별 실제 Git 수정일을 sitemap.xml의 lastmod에 반영합니다.
-          fetch-depth: 0
+          # 다음 단계에서 필요한 소스 이력만 받아 sitemap lastmod에 반영합니다.
+          fetch-depth: 1
+
+      - name: Fetch full source history only
+        run: bash tools/fetch_source_history.sh
 
       - uses: actions/setup-python@v5
         with:
@@ -107,4 +110,6 @@ jobs:
           # instead of sending a chunked HTTP request through the transport.
           git config --local http.version HTTP/1.1
           git config --local http.postBuffer 524288000
+          # Retain the current Pages commit as parent without fetching its full history.
+          git fetch --no-tags --depth=1 origin +refs/heads/gh-pages:refs/remotes/origin/gh-pages
           mkdocs gh-deploy --force
