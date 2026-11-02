@@ -24,6 +24,8 @@ last_reviewed: '2026-09-02'
 | 질문이나 전문용어로 본문과 출처를 찾고 싶어요 | [질문으로 근거 자료 찾기](search-guide.md#question-search) |
 | 약재와 한약 처방을 알고 싶어요 | [본초·방제](herbal-integrated/index.md) |
 | 침·전침·약침과 경혈을 찾고 싶어요 | [침구·치료](acupuncture-integrated/index.md) |
+| 361경혈과 위치를 입체적으로 살펴보고 싶어요 | [361경혈 임상 아틀라스](acupoint-network/standard-atlas.md) · [3D 경혈 지도](acupoint-network/3d-map.md) |
+| 사상 소증·병증·원전·처방을 함께 탐색하고 싶어요 | [사상의학 탐색기](sasang-explorer/index.md) · [소증 9항목](sasang-original-symptoms/index.md) |
 | 체질과 사상처방을 알고 싶어요 | [사상의학](sasang-integrated/index.md) |
 | 한의학 기초를 퀴즈와 학습카드로 복습하고 싶어요 | [기초 한의학 퀴즈 & 학습실](learning/index.md) |
 | 고전 속 인물·사건·처방 이야기를 읽고 싶어요 | [민성의담](classical-stories/index.md) |
