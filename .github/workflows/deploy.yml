@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 # Serialize Pages pushes; GitHub keeps only the latest pending deployment.
 concurrency:
@@ -101,6 +102,11 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
+      - name: Embed source revision for publication verification
+        run: |
+          test ! -e docs/indexnow-source-revision.txt
+          printf "%s\n" "$GITHUB_SHA" > docs/indexnow-source-revision.txt
+
       - name: Deploy
         run: |
           # Keep the Pages branch and its history; buffer this generated-site push
@@ -108,3 +114,16 @@ jobs:
           git config --local http.version HTTP/1.1
           git config --local http.postBuffer 524288000
           mkdocs gh-deploy --force
+
+      - name: Find the published Pages commit
+        id: pages
+        run: |
+          pages_sha=$(git ls-remote origin refs/heads/gh-pages | cut -f1)
+          test -n "$pages_sha"
+          echo "sha=$pages_sha" >> "$GITHUB_OUTPUT"
+
+      - name: Notify IndexNow after Pages publication
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAGES_SHA: ${{ steps.pages.outputs.sha }}
+        run: python tools/indexnow_after_pages.py
