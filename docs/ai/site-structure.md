@@ -74,6 +74,7 @@ last_reviewed: '2026-08-23'
 
 - [침구·치료 통합 허브](../acupuncture-integrated/index.md)
 - [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)
+- [3D 경혈 지도](../acupoint-network/3d-map.md)
 - [침 치료 근거 카드](../authority/acupuncture.md)
 
 경혈은 한글명과 WHO 국제 표준 코드를 함께 사용해 국내 검색과 국제 논문 탐색을 동시에 지원합니다. [경혈·침법 통합 탐색](../acupoint-network/standard-atlas.md#clinical-explorer)에서 경혈명·증상·근육·신경을 검색하고 경락·부위로 좁혀 표준경혈·사암침·동씨기혈의 기존 상세 문서로 이동합니다. [부위별 비교 학습](../acupoint-network/standard-atlas.md#regional-learning)과 [3D 경혈 지도](../acupoint-network/3d-map.md)는 위치 이해를 돕고, 상세 본문은 위치·주치 출처·해부학·임상근거를 구분해 제공합니다. 혈자리 이름과 고전 기록을 풀어낸 이야기가 있는 상세 문서에서는 이야기의 출전과 해설을 함께 확인할 수 있습니다. [경혈·침구 포털](../portal/acupuncture.md)에서도 아틀라스와 3D 지도로 이동합니다.
