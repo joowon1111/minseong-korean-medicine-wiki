@@ -13,7 +13,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-          fetch-depth: 0
+          fetch-depth: 1
+      - name: Fetch full source history only
+        run: bash tools/fetch_source_history.sh
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -60,9 +63,10 @@ jobs:
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_acupoint_3d.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_sasang_explorer.cjs
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_sidebar_scroll.cjs
-          NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_responsive_reading.cjs
+          # These two checks only read the built site and write distinct screenshots.
+          # The runner waits for both and fails if either fails.
+          NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" bash tools/run_parallel_browser_checks.sh
           NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_content_provenance.cjs
-          NODE_PATH="$RUNNER_TEMP/guide-browser/node_modules" node tools/check_network_consolidation.cjs
       - name: Keep archive browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
