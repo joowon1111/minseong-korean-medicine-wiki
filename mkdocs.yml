@@ -1269,6 +1269,17 @@ nav:
     - 1. 열일곱 소녀의 설사, 그보다 오래된 소화불량: classical-stories/sasang/soyangin-diarrhea-case.md
 - 전체 둘러보기:
   - portal/maps.md
+  - 안내:
+    - guide/index.md
+    - Korean Medicine Guide (English): korean-medicine-guide/index.md
+    - 운영 원칙: guide/editorial-policy.md
+    - 분류 체계: guide/taxonomy.md
+    - 출처·인용 원칙: guide/citation-policy.md
+    - 콘텐츠 이용 안내: guide/content-use.md
+    - 문서 상태 기준: guide/status-policy.md
+    - SEO·AEO·GEO 문서 표준: seo-aeo-standard.md
+    - AI·검색엔진용 사이트 구조: ai/site-structure.md
+    - 사이트 검색 안내: search-guide.md
   - "기초 한의학 퀴즈 & 학습실":
     - learning/index.md
     - 기초 해부학 카드·구조 식별: learning/anatomy.md
@@ -1406,17 +1417,6 @@ nav:
       - 고금의감 → 만병회춘 → 수세보원: classics-network/gong-medical-lineage.md
       - 양생·치미병 원문과 해석: yangsaeng/index.md
     - 황제내경 핵심 지식망: neijing-network/index.md
-  - 안내:
-    - guide/index.md
-    - Korean Medicine Guide (English): korean-medicine-guide/index.md
-    - 운영 원칙: guide/editorial-policy.md
-    - 분류 체계: guide/taxonomy.md
-    - 출처·인용 원칙: guide/citation-policy.md
-    - 콘텐츠 이용 안내: guide/content-use.md
-    - 문서 상태 기준: guide/status-policy.md
-    - SEO·AEO·GEO 문서 표준: seo-aeo-standard.md
-    - AI·검색엔진용 사이트 구조: ai/site-structure.md
-    - 사이트 검색 안내: search-guide.md
 - 민성한의원 ↗: https://www.minseong.co.kr/
 not_in_nav: '/ai-index.md
 
