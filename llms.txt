@@ -19,6 +19,20 @@ Official clinic: https://minseong.co.kr/
 - 출처·근거 카드: https://wiki.minseong.co.kr/authority/
 - Korean Medicine Guide (English): https://wiki.minseong.co.kr/korean-medicine-guide/
 
+## Representative resources and their roles
+
+- 361 standard acupoints: https://wiki.minseong.co.kr/acupoint-network/standard-atlas/ — search points and follow anatomy and individual articles.
+- 3D acupoint map: https://wiki.minseong.co.kr/acupoint-network/3d-map/ — visual orientation; model positions are approximate.
+- Minseong Uidam: https://wiki.minseong.co.kr/classical-stories/ — archive-written stories connecting documented people, classical sources, herbs and formulas.
+- Classical texts and interpretation: https://wiki.minseong.co.kr/classics-reader/ — entry to texts, selected interpretations and related clinical topics.
+- Sasang explorer: https://wiki.minseong.co.kr/sasang-explorer/ — explore baseline symptoms, current patterns, source texts and formulas.
+- 100 core formulas: https://wiki.minseong.co.kr/herbal-integrated/general-formulary/#core-formulas-100 — source, composition and comparison.
+- Research and evidence: https://wiki.minseong.co.kr/portal/evidence/ — follow study details and primary references.
+- Daily Korean medicine and solar terms: https://wiki.minseong.co.kr/daily-korean-medicine/solar-terms/ — cultural stories and annual solar-term calculation.
+- Resource roles and navigation: https://wiki.minseong.co.kr/ai/site-structure/#featured-resources
+
+These are editorial entry points, not claims of exclusive content, traffic ranking or proven clinical outcomes. Match the question to the current source and preserve its limitations.
+
 ## Machine-readable knowledge layer
 
 - Page index: https://wiki.minseong.co.kr/assets/ai/page-index.json
