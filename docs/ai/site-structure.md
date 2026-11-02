@@ -26,6 +26,8 @@ last_reviewed: '2026-08-23'
 | 고전의 한 구절과 해석 | [고전 원문·해석](../classics-reader/index.md) | 서명·편목·조문·판본과 전후 문맥 |
 | 사람과 사건으로 고전을 읽기 | [민성의담](../classical-stories/index.md) | 왕실 진료·돌봄·본초와 처방 이야기에서 실제 기록과 관련 문서 확인 |
 | 매일 읽고 복습하기 | [오늘의 한의학](../daily-korean-medicine/index.md) · [학습실](../learning/index.md) | 날짜별 카드·생활 실천·원문 풀이와 과목별 복습 |
+| 24절기 이야기와 절입 시각 | [24절기 이야기](../daily-korean-medicine/solar-terms.md#stories) · [절입 시각 계산](../daily-korean-medicine/solar-terms.md#solar-calculator) | 풍속·음식·본초·고전의 맥락과 연도별 한국 표준시 |
+| 아카이브 전체 탐색 | [전체 둘러보기](../portal/maps.md) | 주제별 허브·고전·학습 도구·안내 |
 | 한 문서를 도구에서 읽기 | [페이지 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json) | 대표 주소와 페이지별 JSON |
 
 예를 들어 ‘허리가 아플 때 침 연구’를 찾으면 [요통 문서](../conditions/low-back-pain.md)에서 증상의 범위를 확인하고, [같은 문서의 요통 연구 절](../conditions/low-back-pain.md#back-research)에서 해당 연구의 대상과 치료 조건을 읽습니다. 질환 설명과 연구 절을 함께 읽고, 탐색 링크의 연결과 개별 연구의 결론은 구분해 정리합니다.
@@ -74,7 +76,7 @@ last_reviewed: '2026-08-23'
 - [WHO 표준 361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md)
 - [침 치료 근거 카드](../authority/acupuncture.md)
 
-경혈은 한글명과 WHO 국제 표준 코드를 함께 사용해 국내 검색과 국제 논문 탐색을 동시에 지원합니다. [경혈·침법 통합 탐색](../acupoint-network/standard-atlas.md#clinical-explorer)에서 경혈명·증상·근육·신경을 검색하고 경락·부위로 좁혀 표준경혈·사암침·동씨기혈의 기존 상세 문서로 이동합니다. [부위별 비교 학습](../acupoint-network/standard-atlas.md#regional-learning)과 [3D 경혈 지도](../acupoint-network/3d-map.md)는 위치 이해를 돕고, 상세 본문은 위치·주치 출처·해부학·임상근거를 구분해 제공합니다.
+경혈은 한글명과 WHO 국제 표준 코드를 함께 사용해 국내 검색과 국제 논문 탐색을 동시에 지원합니다. [경혈·침법 통합 탐색](../acupoint-network/standard-atlas.md#clinical-explorer)에서 경혈명·증상·근육·신경을 검색하고 경락·부위로 좁혀 표준경혈·사암침·동씨기혈의 기존 상세 문서로 이동합니다. [부위별 비교 학습](../acupoint-network/standard-atlas.md#regional-learning)과 [3D 경혈 지도](../acupoint-network/3d-map.md)는 위치 이해를 돕고, 상세 본문은 위치·주치 출처·해부학·임상근거를 구분해 제공합니다. 혈자리 이름과 고전 기록을 풀어낸 이야기가 있는 상세 문서에서는 이야기의 출전과 해설을 함께 확인할 수 있습니다. [경혈·침구 포털](../portal/acupuncture.md)에서도 아틀라스와 3D 지도로 이동합니다.
 
 ## 5. 지식그래프 {#5}
 
@@ -166,7 +168,7 @@ last_reviewed: '2026-08-23'
 - [증상으로 사상체질 이해하기](../sasang-symptoms/index.md)
 - [사상체질·병증 처방 탐색기](../sasang-explorer/index.md) · [사상체질 임상 감별](../sasang-pattern-differential/index.md)
 
-탐색기에서는 체질 → 소증·현재 병증 → 원문·유사 병증 감별 → 대표 처방으로 이동하고, 체질별 음식·양생·운동 자료를 함께 읽습니다.
+탐색기에서는 체질 → 소증·현재 병증 → 원문·유사 병증 감별 → 대표 처방으로 이동하고, 체질별 음식·양생·운동 자료를 함께 읽습니다. [소증 9항목](../sasang-original-symptoms/index.md)은 식욕·소화부터 성정·정서까지 평소 상태를 원문과 함께 살피는 입구입니다.
 
 #### AEO 질문 의도 {#aeo_1}
 - 사상의학이란 무엇인가?
@@ -202,7 +204,8 @@ last_reviewed: '2026-08-23'
 | 수면·정서·신경과 기능 경과 | [수면 허브](../pillar/sleep-neuro.md) · [브레인포그](../answer-guides/brain-fog-focus-guide.md) |
 | 고전 원문·임상 연결 | [고전 원문·해석](../classics-reader/index.md) · [AI 색인의 읽기·복습 지도](../ai-index.md#classics-learning-daily) |
 | 인물·왕실 진료·본초·처방 이야기 | [민성의담](../classical-stories/index.md) |
-| 날짜별 지식·생활 카드와 24절기 | [오늘의 한의학](../daily-korean-medicine/index.md) · [24절기 생활 일력](../daily-korean-medicine/index.md#daily-solar-terms) |
+| 날짜별 지식·생활 카드와 24절기 | [오늘의 한의학](../daily-korean-medicine/index.md) · [24절기 생활 일력](../daily-korean-medicine/index.md#daily-solar-terms) · [절기 이야기·절입 시각](../daily-korean-medicine/solar-terms.md#stories) |
+| 전체 주제와 안내 찾아보기 | [전체 둘러보기](../portal/maps.md) · [아카이브 안내](../guide/index.md) |
 | 일곱 과목 학습·오답 복습 | [기초 한의학 퀴즈 & 학습실](../learning/index.md) |
 | 영어로 한의학을 처음 이해하기 | [Korean Medicine Guide](../korean-medicine-guide/index.md) |
 
@@ -217,9 +220,10 @@ last_reviewed: '2026-08-23'
 | 고전 원문·해석 | 상한론·금궤요략·동의보감·동의수세보원의 조문·편목·판본, 원문과 한국어 풀이 | [원문을 깊이 읽는 관점](../classics-reader/index.md#close-reading) → 병증·치법·본초·처방과 현대 임상 자료 |
 | 민성의담 | 일반 칼럼과 사상의학 이야기의 별도 회차, 최신순 목록, 실제 인물·사건·기록과 해석 | [민성의담 목록](../classical-stories/index.md) → 각 이야기의 원출전과 관련 본문 |
 | 오늘의 한의학 | 날짜별 경혈·본초·상한론·사상의학, 원문 풀이·복습 문답 | [날짜별 카드](../daily-korean-medicine/index.md) → 경혈·본초·조문·사상병증 상세 문서 |
-| 양생·24절기 생활 일력 | 240개 생활 카드의 구체적인 해설·작은 실천, 24절기 이름·뜻·생활 이야기 | [양생 카드 검색](../daily-korean-medicine/index.md#daily-yangsheng-library) · [24절기 목록](../daily-korean-medicine/index.md#daily-solar-terms) → 고전 원문과 현대 생활 자료 |
+| 양생·24절기 생활 일력 | 240개 생활 카드의 해설·작은 실천, 절기별 풍속·음식·본초·고전 이야기 | [양생 카드 검색](../daily-korean-medicine/index.md#daily-yangsheng-library) · [24절기 이야기](../daily-korean-medicine/solar-terms.md#stories) → 고전 원문과 현대 생활 자료 |
+| 연도별 절입 시각 | 1900–2100년 절입 시각을 한국 표준시(KST)로 표시 | [절입 시각 계산기와 자료·계산 근거](../daily-korean-medicine/solar-terms.md#solar-calculator) → 절기별 이야기와 공식 월력요항 |
 
-하루 카드의 날짜는 한국 시간을 기준으로 하며, 절기 당일에는 해당 절기 안내를 우선 표시합니다. 다른 날짜에 순환해서 읽는 절기 카드와 당일 안내를 구분합니다. 고전 원문·아카이브의 풀이·현대 생활 제안의 역할을 나누어 읽고, 역사적 치료 기록을 현대 치료의 효과 입증으로 바꾸어 인용하지 않습니다.
+하루 카드의 날짜는 한국 시간을 기준으로 하며, 절기 당일에는 해당 절기 안내를 우선 표시합니다. 다른 날짜에 순환해서 읽는 절기 카드와 당일 안내를 구분합니다. 일력의 절기 당일 표시는 날짜 전체에 적용되고, 계산기는 절입 시각을 별도로 보여줍니다. 고전 원문·아카이브의 풀이·현대 생활 제안의 역할을 나누어 읽고, 역사적 치료 기록을 현대 치료의 효과 입증으로 바꾸어 인용하지 않습니다.
 
 ### 페이지별 본문과 지식 그래프를 구분해 사용합니다 {#page-json-navigation}
 
