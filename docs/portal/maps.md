@@ -90,6 +90,7 @@ hide:
 
 | 출발점 | 바로가기 |
 |---|---|
+| 핵심 처방 100선 | [처방별 구성·비교](../herbal-integrated/general-formulary.md#core-formulas-100) |
 | 본초 이름·성미·귀경 | [본초학](../herbs/index.md) |
 | 처방 이름·구성·주치 | [방제학](../formulas/index.md) |
 | 증상에서 한약 찾기 | [증상 기반 한약 탐색](../symptom-herbal-guide/index.md) |
@@ -111,6 +112,8 @@ hide:
 | 침·전침·약침·뜸·부항 비교 | [침구치료 방법 비교](../acupuncture-integrated/methods.md) |
 | 경혈과 경락 | [경혈·경락 찾기](../acupuncture-integrated/acupoints-meridians.md) |
 | WHO 표준 경혈 전체 | [361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md) |
+| 입체 경혈 위치와 경락 | [3D 경혈 지도](../acupoint-network/3d-map.md) |
+| 혈자리의 이름·위치·고전 이야기 | [경혈·침구 포털](../portal/acupuncture.md) → 361경혈 아틀라스에서 상세 문서 선택 |
 | 근육·말초신경 | [임상해부학](../clinical-anatomy/index.md) |
 | 신경포착 | [신경포착증후군](../nerve-entrapment/index.md) |
 | 초음파·유도치료 | [근골격계 초음파](../musculoskeletal-ultrasound/index.md) |
@@ -131,7 +134,7 @@ hide:
 | 원전과 현대 연구 | [사상의학 근거·출전](../sasang-integrated/evidence.md) |
 | 체질·병증·대표 처방을 화면에서 비교 | [사상의학 탐색기](../sasang-explorer/index.md) |
 | 병증별 원문과 진료지침 대조 | [원전·CPG 연결표](../sasang-clinical-detail/pattern-source-map.md) |
-| 소화·땀·대변·수면의 원문·해석 | [평소 증상별 원문](../sasang-original-symptoms/index.md) |
+| 소화·대변·땀·수면·성정 등 평소 상태 | [소증 9항목 심화](../sasang-original-symptoms/index.md) |
 
 ## 연구·근거 지도 {#_9}
 
@@ -162,6 +165,8 @@ hide:
 
 상한론·금궤요략의 조문별 독해, 동의수세보원의 검색 가능한 선별 원문·자체 풀이, 동의보감의 검색 전사와 영인본은 수록 방식이 다릅니다. 네 책 모두의 전문·완역을 제공한다는 의미는 아니며 자세한 범위는 각 입구에서 안내합니다.
 
+동의보감의 편찬 의도는 [집례 원문과 풀이](../classics/donguibogam.md#jiprye)에서 살펴볼 수 있습니다.
+
 **다른 고전과 저술의 흐름**은 [한의학 고전 전체 안내](../classics/index.md)에서 찾습니다.
 
 | 찾아볼 자료 | 연결된 내용 |
@@ -178,7 +183,8 @@ hide:
 | 하고 싶은 일 | 이용할 곳 | 사용 방법 |
 |---|---|---|
 | 기초 과목과 고전 복습 | [기초 한의학 퀴즈 & 학습실](../learning/index.md) | 해부학·경혈학·침구학·본초학·방제학·상한론·사상의학 중 과목을 고르고 카드·해설형 문제·오답 복습 |
-| 하루 한 장 원문·풀이 읽기 | [오늘의 한의학](../daily-korean-medicine/index.md) | 경혈·본초·상한론·사상의학 카드와 양생 문구를 날짜별로 읽기 |
+| 하루 한 장 원문·풀이 읽기 | [오늘의 한의학](../daily-korean-medicine/index.md) | 경혈·본초·상한론·사상의학과 계절의 일력을 날짜별로 읽기 |
+| 24절기 이야기와 절입 시각 | [24절기 이야기](../daily-korean-medicine/solar-terms.md#stories) · [연도별 절입 시각 계산](../daily-korean-medicine/solar-terms.md#solar-calculator) | 풍속·음식·본초 이야기를 읽고 1900–2100년 절입 시각을 한국 표준시로 확인 |
 | 체질별 병증과 처방 대조 | [사상의학 탐색기](../sasang-explorer/index.md) | 체질 → 병증 → 원문·감별 → 대표 처방 선택 |
 | 처방·본초 나란히 비교 | [처방 구조](../herbal-integrated/formula-structure.md#interactive-comparison) · [본초 감별](../herbal-integrated/herb-comparisons.md#interactive-comparison) | 비교할 항목을 골라 구성·기원·효능·감별점 확인 |
 | 질문에 관련된 출처 찾기 | [질문으로 근거 자료 찾기](../search-guide.md#question-search) | 질문이나 핵심어를 입력하고 연결된 본문·출처 확인 |

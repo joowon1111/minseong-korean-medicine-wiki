@@ -1278,17 +1278,6 @@ nav:
     - 방제학 핵심 처방 100선 복습: learning/formulas.md
     - 상한론 원문·조문·치법 문제은행: learning/shanghanlun.md
     - 사상의학·동의수세보원 문제은행: learning/sasang.md
-  - 안내:
-    - guide/index.md
-    - Korean Medicine Guide (English): korean-medicine-guide/index.md
-    - 운영 원칙: guide/editorial-policy.md
-    - 분류 체계: guide/taxonomy.md
-    - 출처·인용 원칙: guide/citation-policy.md
-    - 콘텐츠 이용 안내: guide/content-use.md
-    - 문서 상태 기준: guide/status-policy.md
-    - SEO·AEO·GEO 문서 표준: seo-aeo-standard.md
-    - AI·검색엔진용 사이트 구조: ai/site-structure.md
-    - 사이트 검색 안내: search-guide.md
   - 핵심 주제 허브:
     - pillar/index.md
     - 보익·피로·회복 허브: pillar/tonic-recovery.md
@@ -1417,6 +1406,17 @@ nav:
       - 고금의감 → 만병회춘 → 수세보원: classics-network/gong-medical-lineage.md
       - 양생·치미병 원문과 해석: yangsaeng/index.md
     - 황제내경 핵심 지식망: neijing-network/index.md
+  - 안내:
+    - guide/index.md
+    - Korean Medicine Guide (English): korean-medicine-guide/index.md
+    - 운영 원칙: guide/editorial-policy.md
+    - 분류 체계: guide/taxonomy.md
+    - 출처·인용 원칙: guide/citation-policy.md
+    - 콘텐츠 이용 안내: guide/content-use.md
+    - 문서 상태 기준: guide/status-policy.md
+    - SEO·AEO·GEO 문서 표준: seo-aeo-standard.md
+    - AI·검색엔진용 사이트 구조: ai/site-structure.md
+    - 사이트 검색 안내: search-guide.md
 - 민성한의원 ↗: https://www.minseong.co.kr/
 not_in_nav: '/ai-index.md
 
