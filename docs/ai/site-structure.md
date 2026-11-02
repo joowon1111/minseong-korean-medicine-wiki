@@ -23,6 +23,7 @@ last_reviewed: '2026-08-23'
 | 특정 질환의 치료 연구 | [질환별 근거 안내](../authority/conditions/index.md) | 질환 본문의 연구 절 또는 고유한 근거 자료에서 대상·중재·비교군·결과 확인 |
 | 같은 이름의 처방이 서로 다른 이유 | [처방 출전·구성](../herbal-integrated/general-formulary.md) | 수록본·약량·제형·가감과 비교 문서 |
 | 비슷한 약재·처방의 차이 | [본초 비교](../herbal-integrated/herb-comparisons.md#interactive-comparison) · [처방 비교](../herbal-integrated/formula-structure.md#interactive-comparison) | 약용 부위·배합·출전·약량과 유사 처방의 감별 |
+| 경혈의 위치와 혈자리별 상세 정보 | [3D 경혈 지도](../acupoint-network/3d-map.md) · [361경혈 임상 아틀라스](../acupoint-network/standard-atlas.md) | 입체 위치·경락 → 혈명·표준 위치·해부학·상세 문서 |
 | 고전의 한 구절과 해석 | [고전 원문·해석](../classics-reader/index.md) | 서명·편목·조문·판본과 전후 문맥 |
 | 사람과 사건으로 고전을 읽기 | [민성의담](../classical-stories/index.md) | 왕실 진료·돌봄·본초와 처방 이야기에서 실제 기록과 관련 문서 확인 |
 | 매일 읽고 복습하기 | [오늘의 한의학](../daily-korean-medicine/index.md) · [학습실](../learning/index.md) | 날짜별 카드·생활 실천·원문 풀이와 과목별 복습 |
