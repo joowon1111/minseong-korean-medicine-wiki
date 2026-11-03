@@ -41,6 +41,25 @@ description: 동의수세보원 원전의 성정·장국·보명지주·소증·
 
 권1 뒤에 놓인 「의원론」은 선행 의학과 사상의학의 관계를 밝힙니다. [허준의 의학을 이어받는 대목과 병증명·사상인명 구분](../classics/donguisusebowon.md#medical-lineage)을 읽으면, 뒤의 병론에서 선행 의서 인용과 이제마의 論曰을 구별하는 기준을 얻을 수 있습니다.
 
+## 한 대목을 병론까지 연결해 읽는 예 {#reading-a-passage}
+
+「사상인변증론」에서 **소음인처럼 보이는 소양인**을 말한 대목을 읽는다고 해 봅시다. 원문의 ‘겉모습이 흡사하다’는 관찰 뒤에는 병세와 한열을 살피라는 판단이 이어집니다. [외형 예외의 원문](../classics/donguisusebowon/original.md#appearance-soyang)에서 이 두 부분을 함께 읽고, 다음 순서로 자료를 넓혀 갑니다.
+
+| 읽는 단계 | 해당 대목에서 확인하는 내용 | 이어 볼 문서 |
+|---|---|---|
+| 문장과 문맥 | 체형의 전형에서 벗어나는 사람이 있음을 기록 | [키와 체형의 예외](../classics/donguisusebowon/original.md#height-exceptions) |
+| 사람과 증의 구별 | 보이는 인상에 평소 소증·현재 병세의 관찰을 더함 | [체질 진단 과정](../sasang-questions/how-to-diagnose.md) |
+| 체질별 병론 | 소양인 표한·리열과 소음인 표열·리한을 각각 비교 | [소양인·소음인 감별 해설](../sasang-questions/soyangin-vs-soeumin.md) |
+| 처방과 경과 | 해당 병증의 치법·처방, 실제 치료 뒤 변화를 확인 | [같은 체질의 처방 차이](../sasang-questions/same-constitution-same-formula.md) |
+
+이렇게 읽으면 한 문장의 체질 특징을 외우는 데서 더 나아가, 저자가 **무엇을 관찰했고 무엇을 추가로 확인하라고 했는지**를 구분할 수 있습니다. 병례도 같은 방식으로 읽습니다. 평소 상태를 적은 문장, 이번 병의 증후, 투약 뒤 반응과 이후의 경과를 나누어 보고, 기록에 없는 진찰 소견은 빈칸으로 남깁니다.
+
+### 원전과 현대 진료지침을 나란히 놓을 때
+
+원전 편명은 책 안의 위치를, 현대 병증 지침은 표준증후와 분류를 찾는 데 사용합니다. 같은 병증명이 보이더라도 인용된 문장의 범위와 지침이 정리한 단계가 일치하는지 확인합니다. 그다음 처방의 원전 구성과 후대 수록형, 연구에서 실제 사용한 제제를 각각 대조합니다. [원전·CPG 병증 근거지도](../sasang-clinical-detail/pattern-source-map.md)에서 이 연결을 따라갈 수 있습니다.
+
+예를 들어 소양인 망음병을 읽는다면 원전의 [발열·두통·설사](../classics/donguisusebowon/original.md#soyang-fever-diarrhea)와 [신한·복통·설사](../classics/donguisusebowon/original.md#soyang-cold-abdominal-stool)를 비교한 뒤, [2014 망음병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062)의 험증·위증 분류와 표준증후를 확인합니다. 이는 자료를 비교하는 독해 순서이며, 개별 환자의 진단은 소증·현증과 필요한 검사·진찰을 더해 판단합니다.
+
 ## 네 체질의 장국과 소증 핵심
 
 | 사상인 | 장국대소 | 평소 소증에서 특히 살피는 축 | 관련 문서 |
