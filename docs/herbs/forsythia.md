@@ -30,6 +30,8 @@ description: 연교의 청열해독·소종산결·소산풍열 효능과 주치
 
 이 세 효능은 서로 다른 세 질환명이 아닙니다. 실제 처방에서는 **표증의 유무, 열독의 정도, 종창·결취의 비중**을 보고 연교의 역할을 정합니다.
 
+피부의 홍반·종창과 멍울을 살필 때 연교의 소종산결을 [금은화](honeysuckle.md)·[포공영](dandelion.md)과 비교합니다. [형개연교탕](../formulas/jingjie-lianqiao-tang.md)에서는 형개 등과 풍열·울열의 배합을 이루며, 이 문서의 [아토피 유사 병변 동물연구](#dncb-atopic-dermatitis-study)는 사람에서의 치료 효과와 구분해 읽습니다.
+
 ## 금은화와 어떻게 다른가요? {#honeysuckle-comparison}
 
 | 비교 | 연교 | [금은화](honeysuckle.md) |
