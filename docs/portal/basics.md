@@ -13,6 +13,7 @@ hide:
 </div>
 
 <div class="ms-grid">
+<a class="ms-card" href="/learning/"><strong>한의학 공부·입문 학습실</strong><span>과목별 자료·학습카드·해설 퀴즈 →</span></a>
 <a class="ms-card" href="/foundations-integrated/"><strong>기초 한눈에 보기</strong><span>개념의 전체 흐름 →</span></a>
 <a class="ms-card" href="/evidence-integrated/"><strong>근거·임상연구</strong><span>연구를 진료에 연결하기 →</span></a>
 <a class="ms-card" href="/clinical-reasoning/"><strong>임상 추론</strong><span>증상에서 판단까지 →</span></a>
@@ -32,6 +33,7 @@ hide:
 
 | 찾는 내용 | 추천 자료 |
 |---|---|
+| 한의학 공부·입문 자료와 과목별 퀴즈 | [한의학 공부·입문 학습실](../learning/index.md) |
 | 장부, 기혈진액의 기본 구조 | [장부·기혈진액](../foundations-integrated/zangfu-qi-blood-fluids.md) |
 | 왜 생기고 어떻게 진행되는지 | [병인·병기](../foundations-integrated/etiology-pathogenesis.md) |
 | 기허·혈허·어혈·담음 등 용어의 뜻과 관계 | [핵심 개념 사전](../concepts/index.md) |
