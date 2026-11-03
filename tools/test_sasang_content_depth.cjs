@@ -124,6 +124,6 @@ test("Sasang high-value routes are discoverable from homepage, portal and sideba
     assert.ok(hub.includes(term), "Sasang hub missing " + term);
     assert.ok(nav.includes(term), "sidebar missing " + term);
   }
-  assert.ok(nav.includes("핵심 탐색:"));
+  assert.ok(nav.includes("병증·치료 탐색:"));
   assert.ok(nav.indexOf("대화형 병증·처방 탐색기") < nav.indexOf("체질별 음식 가이드"));
 });
