@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 사상체질과 운동은 어떤 관계인가?
 
+활동과 과로를 다룬 원문은 [『동의수세보원』의 소로·피극 풀이](../classics/donguisusebowon/original.md#moderate-activity)에서, 책의 전체 맥락은 [『동의수세보원』 해설](../classics/donguisusebowon.md)에서 읽을 수 있습니다.
+
 사상체질별 운동관리는 체질명만으로 운동을 정하기보다 **체력·회복상태·발한·호흡·현재 병증**을 함께 고려하는 구조로 이해한다.
 
 ```text

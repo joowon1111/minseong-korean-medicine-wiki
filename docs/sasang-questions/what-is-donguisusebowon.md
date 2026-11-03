@@ -21,7 +21,8 @@ last_reviewed: 2026-08-19
 치료 원칙·처방
 ```
 
-→ [동의수세보원](../sasang/donguisusebowon.md)
+→ [『동의수세보원』 해설](../classics/donguisusebowon.md)
+→ [『동의수세보원』 전체 목차·원문·우리말 풀이](../classics/donguisusebowon/original.md#book-contents)
 → [이제마](../sasang-history/index.md#lee-je-ma)
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->

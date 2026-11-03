@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 체질침·뜸 치료
 
+체질병증의 원전 체계는 [『동의수세보원』 해설](../classics/donguisusebowon.md)과 [사람과 현재 증을 함께 살피는 원문](../classics/donguisusebowon/original.md#person-and-pattern)에서 확인합니다. 아래 태극침법의 선혈·임상연구는 해당 침법 문헌에서 별도로 살펴봅니다.
+
 국가한의임상정보포털의 사상체질병증 진료지침은 체질한약·체질침·뜸과 생활관리를 함께 다룹니다. 체질침에는 태극침법과 사암침법을 응용한 방식 등 여러 체계가 포함되므로, 실제 선택한 침법과 혈 구성을 확인합니다. [2022년 공식 지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14).
 
 ## 태극침법으로 이어가기

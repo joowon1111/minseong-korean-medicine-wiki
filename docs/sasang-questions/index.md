@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 사상의학 질문형 AEO 허브
 
+원전부터 읽고 싶다면 [『동의수세보원』 해설](../classics/donguisusebowon.md)과 [전체 목차·원문·우리말 풀이](../classics/donguisusebowon/original.md#book-contents)에서 시작할 수 있습니다.
+
 사상의학을 처음 접하는 사람이 실제로 궁금해할 만한 질문을 중심으로 **체질진단·병증·처방·식사·운동·고전**으로 연결하는 입구다.
 
 - [사상체질은 어떻게 진단하나?](how-to-diagnose.md)

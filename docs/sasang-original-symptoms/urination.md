@@ -7,6 +7,8 @@ description: 동의수세보원의 소변왕다와 태음인 다뇨·다갈, 소
 ---
 # 소변
 
+[『동의수세보원』 해설](../classics/donguisusebowon.md)에서 체질별 병론을 살펴보고, 원문 읽기의 [태양인 소변과 완실무병](../classics/donguisusebowon/original.md#wellbeing-urination)과 [태음인 갈증·배뇨](../classics/donguisusebowon/original.md#taeeum-dry-stool-thirst)를 나란히 읽을 수 있습니다.
+
 소변의 소증은 **횟수·실제 양·배뇨감**을 따로 기록합니다. 조금씩 자주 보는 빈뇨, 한 번의 양과 하루 총량이 함께 늘어난 상태, 물을 적게 마셔 양이 줄어든 상태는 서로 다릅니다. 체질별 건강 관찰점은 평소 상태와 현재 변화를 비교하는 단서입니다.
 
 ## 소변왕다의 원문과 뜻 {#taeyangin-urination}

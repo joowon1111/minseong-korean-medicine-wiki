@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 소양인과 소음인은 어떻게 다른가?
 
+원전의 체질 구조는 [『동의수세보원』 장국 비교](../classics/donguisusebowon/original.md#four-organ-configurations), 체질별 병론은 [『동의수세보원』 해설](../classics/donguisusebowon.md#clinical-routes)에서 나란히 읽을 수 있습니다.
+
 소양인과 소음인은 사상의학의 서로 다른 체질 유형이며, **평소의 소증과 병증 전개, 소화·한열·발한·대소변 등 임상적 특징**을 종합해 구분한다.
 
 단순히 성격이나 외형 하나로 비교하기보다 다음 흐름으로 이해하는 것이 좋다.

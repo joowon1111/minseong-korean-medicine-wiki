@@ -6,6 +6,8 @@ last_reviewed: 2026-08-20
 description: 네 체질 소증 9항목 비교 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 네 체질 소증 9항목 비교
+
+비교표의 건강 관찰점은 [『동의수세보원』 해설](../classics/donguisusebowon.md)과 원문 읽기의 [태양인 배뇨](../classics/donguisusebowon/original.md#wellbeing-urination)·[태음인 발한](../classics/donguisusebowon/original.md#wellbeing-sweating)·[소양인 배변](../classics/donguisusebowon/original.md#wellbeing-stool)·[소음인 소화](../classics/donguisusebowon/original.md#wellbeing-digestion)에서 문맥과 함께 확인할 수 있습니다.
 | 항목 | 소음인 | 소양인 | 태음인 | 태양인 |
 |---|---|---|---|---|
 | 소화 | 음식선화 핵심 | 열·대변과 함께 | 발한·체력과 함께 | 섭취·연하 |

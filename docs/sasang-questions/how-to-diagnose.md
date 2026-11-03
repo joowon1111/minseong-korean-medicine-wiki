@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 사상체질은 어떻게 진단하나?
 
+원전에서 사람과 병증을 함께 파악한다는 뜻은 [『동의수세보원』의 해당 조문과 풀이](../classics/donguisusebowon/original.md#person-and-pattern)에서 읽을 수 있습니다. [책 전체 해설](../classics/donguisusebowon.md)도 함께 보세요.
+
 사상체질은 외모나 성격 하나만으로 정하는 것이 아니라 **평소의 소증, 현재 병증, 체형·용모·성정, 소화·발한·대소변·수면 등 여러 정보를 종합**해 판단한다.
 
 ```text

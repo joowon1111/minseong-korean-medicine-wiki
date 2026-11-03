@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 사상체질 치료·예방 통합 지도
 
+원전과 임상자료를 함께 찾아보려면 [『동의수세보원』 임상 해설](../classics/donguisusebowon.md#clinical-routes)과 [원문·우리말 풀이](../classics/donguisusebowon/original.md)로 이어갑니다.
+
 ```text
                     사상체질
                        ↓

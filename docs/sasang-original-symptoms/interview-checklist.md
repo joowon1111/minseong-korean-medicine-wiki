@@ -6,6 +6,8 @@ last_reviewed: 2026-08-20
 description: 사상체질 소증 문진표 — 민성 한의학 아카이브의 관련 전문 지식과 연결되는 문서입니다.
 ---
 # 사상체질 소증 문진표
+
+문진의 원전 배경은 [『동의수세보원』 해설](../classics/donguisusebowon.md)과 [소음인 아이의 평소 배변·식사 중 발한 원문](../classics/donguisusebowon/original.md#soeum-usual-sweat-case)으로 이어집니다.
 발병 전 평소 상태부터 묻습니다.
 
 1. **소화·식욕:** 식욕, 식사량·속도, 더부룩함·가스

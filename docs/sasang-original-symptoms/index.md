@@ -7,6 +7,8 @@ description: 소증 9항목을 평소·발병 뒤·치료 뒤로 나누어 기�
 ---
 # 소증과 체질병증
 
+소증이 놓이는 원전의 전체 흐름은 [『동의수세보원』 해설](../classics/donguisusebowon.md)에서, 실제 한문과 우리말 풀이는 [『동의수세보원』 원문 읽기](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)에서 확인할 수 있습니다.
+
 <span id="9"></span>
 
 

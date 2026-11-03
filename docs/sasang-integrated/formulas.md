@@ -7,6 +7,8 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 ---
 # 사상체질 한약처방 찾기
 
+처방을 원전과 함께 읽으려면 [『동의수세보원』 병론·처방 해설](../classics/donguisusebowon.md#clinical-routes)과 [병론 사이의 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)를 확인하세요. [사람과 현재의 증을 함께 파악하는 구절](../classics/donguisusebowon/original.md#person-and-pattern)도 함께 읽을 수 있습니다.
+
 사상처방은 체질 이름만으로 고르지 않습니다. **평소 소증 → 현재 체질병증 → 표리·한열 → 순증·역증과 중증도 → 처방 → 회복 반응**의 순서로 읽습니다.
 
 [체질별 한약처방](../sasang-formula-cards/index.md)은 소양인·태음인·소음인·태양인의 처방을 각각 병증 흐름 안에 배치합니다. 각 처방은 적용 단계·핵심 증후·감별·구성·관찰·안전과 근거 한계로 읽으며, 태양인은 현존 자료의 한계 안에서 확인되는 처방만 다룹니다.
