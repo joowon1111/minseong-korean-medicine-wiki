@@ -1,6 +1,6 @@
 ---
 title: 한의치료 방법
-description: 침·약침·전침·부항·뜸·온열치료의 원리와 임상적 활용을 연결합니다.
+description: 침·약침·레이저·전침·부항·뜸·온열치료의 원리와 임상적 활용을 연결합니다.
 tags: [한의치료, 침구, 약침, 부항, 뜸]
 status: 검토완료
 last_reviewed: 2026-09-06
@@ -27,6 +27,13 @@ last_reviewed: 2026-09-06
   <h3>약침</h3>
   <p>한약 유래 약침액과 경혈·병변 부위 자극을 결합한 치료법.</p>
   <span>약침 →</span>
+</a>
+
+<a class="hub-card" href="laser-acupuncture/">
+  <div class="hub-icon">光</div>
+  <h3>레이저침·레이저뜸</h3>
+  <p>경혈과 치료 부위의 광 자극·온열 자극, 조사 조건과 임상연구.</p>
+  <span>레이저 치료 →</span>
 </a>
 
 <a class="hub-card" href="electroacupuncture/">
