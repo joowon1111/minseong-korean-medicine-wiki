@@ -1130,13 +1130,6 @@ nav:
       - 치료경과·재평가: symptom-clinical/followup.md
 - 사상의학:
   - 사상의학 한눈에 보기: sasang-integrated/index.md
-  - 핵심 탐색:
-    - 대화형 병증·처방 탐색기: sasang-explorer/index.md
-    - 체질별 병증 상세: sasang-clinical-detail/index.md
-    - 병증 감별 심화: sasang-pattern-differential/index.md
-    - 원전·CPG 병증 근거지도: sasang-clinical-detail/pattern-source-map.md
-    - 건강→악화→회복 지도: sasang-progression/index.md
-    - 중증도·위험신호: sasang-severity/index.md
   - 체질별 보기:
     - 소양인: sasang-integrated/soyangin.md
     - 태음인: sasang-integrated/taeeumin.md
@@ -1146,8 +1139,15 @@ nav:
     - 소증 9항목 한눈에 보기: sasang-original-symptoms/index.md
     - 평소와 현재 증상 비교: https://wiki.minseong.co.kr/sasang-original-symptoms/#baseline-current
     - 사상체질 성격·마음과 원문: sasang-original-symptoms/emotion.md
+  - 병증·치료 탐색:
+    - 대화형 병증·처방 탐색기: sasang-explorer/index.md
+    - 체질별 병증 상세: sasang-clinical-detail/index.md
+    - 비슷한 병증 감별: sasang-pattern-differential/index.md
+    - 원전·CPG 병증 근거지도: sasang-clinical-detail/pattern-source-map.md
+    - 건강→악화→회복 지도: sasang-progression/index.md
+    - 중증도·위험신호: sasang-severity/index.md
   - 한약처방 찾기: sasang-integrated/formulas.md
-  - 병증 비교: sasang-integrated/patterns.md
+  - 체질별 병증 비교: sasang-integrated/patterns.md
   - 체질별 음식 가이드: sasang-food/index.md
   - 근거·출전: sasang-integrated/evidence.md
   - 상세 자료실:
