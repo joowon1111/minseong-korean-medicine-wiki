@@ -1,14 +1,16 @@
 ---
-title: 연구·근거 안내
-description: 주요 국제저널의 침·전침·약침·한약 임상성과와 일본 의사들의 소화기·간·신장 연구를 대상·비교군·효과 크기로 살펴보고, 질환별 상세 근거와 연결합니다.
-tags: [연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
+title: 한의학 연구·근거 | 임상논문·진료지침 안내
+description: 한의학 연구와 치료 근거를 찾는 안내입니다. 침·전침·약침·한약의 임상논문, 무작위시험, 체계적 문헌고찰·메타분석, 진료지침을 질환·치료별로 찾고 대상·비교군·효과 크기·안전성을 확인합니다.
+tags: [한의학 연구, 한의학 근거, 연구, 임상근거, 한약, 본초, 침구, PMID, DOI]
 keywords: [논문, 연구근거, 학술논문, 임상연구, 임상시험, 연구논문, 연구자료, 논문검색, 연구성과, 치료효과, 치료근거, 주요논문, 핵심논문, research, evidence, papers, PubMed, RCT, 메타분석, 코호트연구, Kampo]
 status: 검토완료
 last_reviewed: '2026-09-05'
 ---
-# 연구·근거 안내
+# 한의학 연구·근거 안내 {#연구근거-안내}
 
-이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
+**한의학 연구와 치료 근거를 찾는 분을 위한 임상논문·진료지침 안내**입니다. 침·전침·약침·한약을 다룬 사람 대상 연구와 기전 연구를 구분하고, 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
+
+논문을 바로 찾으려면 [질환별 임상근거](../authority/conditions/index.md), [한약·처방 연구](../authority/formulas/herbal-formula-evidence-hub.md), [침·전침 연구](../evidence-integrated/acupuncture-evidence.md)에서 주제를 고르세요. [논문 검색 방법](../evidence-integrated/find-research.md)에서는 PMID·DOI와 원문을 확인하는 경로를 안내합니다. 기초 용어와 과목별 복습은 [한의학 공부·입문 학습실](../learning/index.md)에서 시작할 수 있습니다.
 
 **먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [침과 뇌·신경계](#acupuncture-neuroscience) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [간·신장 관찰·안전성 연구](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 

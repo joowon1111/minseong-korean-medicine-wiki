@@ -1,13 +1,13 @@
 ---
-title: 민성 한의학 아카이브
-description: 민성 한의학 아카이브는 상한론, 금궤요략, 동의보감, 동의수세보원 원문 해설과 한약 처방, 본초, 경혈 및 현대 한의학 자료를 체계적으로 연결한 공개 지식 아카이브입니다.
+title: 민성 한의학 아카이브 | 한의학 정보·자료
+description: 한의학 정보와 학습 자료를 찾는 공개 지식 아카이브입니다. 한의학 기초·입문, 고전 원문·해설, 본초·한약 처방, 361경혈·3D 지도, 사상의학과 한의학 연구·임상근거를 연결합니다.
 hide:
   - toc
 ---
 <div class="ms-hero ms-home">
 <h1>민성 한의학 아카이브</h1>
 <div class="ms-home-intro">
-<p>한의학의 기초이론부터 경혈·경락·침구치료, 본초학·한약·방제학, 사상의학, 상한론·동의보감 등 주요 한의학 고전과 <span class="ms-intro-phrase">현대 임상연구까지</span> 체계적으로 연결한 교육·학술 목적의 공개 지식 아카이브입니다.</p>
+<p>한의학 정보와 자료를 함께 찾아볼 수 있도록, 한의학의 기초이론부터 경혈·경락·침구치료, 본초학·한약·방제학, 사상의학, 상한론·동의보감 등 주요 한의학 고전과 <span class="ms-intro-phrase">현대 임상연구까지</span> 체계적으로 연결한 교육·학술 목적의 공개 지식 아카이브입니다.</p>
 <p>궁금한 증상 하나, 낯익은 처방 이름 하나에서 출발해 보세요. 관련된 병증과 치료법, 본초와 고전의 기록을 따라가다 보면 흩어져 있던 한의학 지식이 서로 연결됩니다. 361경혈 아틀라스와 3D 경혈 지도에서는 혈자리의 위치를 입체적으로 익히고, 각 경혈의 의미와 임상적 활용까지 이어서 살펴볼 수 있습니다.</p>
 </div>
 <p class="km-guide-entry" lang="en"><a href="korean-medicine-guide/"><span class="km-guide-label"><span>Korean Medicine Guide</span> <span class="km-guide-hint">Start here in English</span></span><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a></p>
@@ -19,8 +19,8 @@ hide:
 <a class="ms-card" href="symptom-integrated/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M21 11a8 8 0 0 1-8 8H9l-6 3 2-6a8 8 0 0 1-2-5 9 9 0 0 1 18 0Z"/><path d="M7 11h2l2-3 2 6 2-3h2"/></svg> 증상으로 찾기</strong><span>통증·저림·불면·피로·소화·여성 증상</span></a>
 <a class="ms-card" href="conditions/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3v5a5 5 0 0 0 10 0V3M4 3h3m6 0h3M10 13v3a5 5 0 0 0 10 0v-3"/><circle cx="20" cy="11" r="2"/></svg> 질환별 한의치료</strong><span>진단·감별·한약·침구치료·임상근거</span></a>
 <a class="ms-card" href="portal/sasang/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 3a4.5 4.5 0 0 1 0 9 4.5 4.5 0 0 0 0 9"/><circle cx="12" cy="7.5" r=".8" fill="currentColor" stroke="none"/><circle cx="12" cy="16.5" r=".8" fill="currentColor" stroke="none"/></svg> 사상의학</strong><span>체질·소증·병증 감별·처방·동의수세보원</span></a>
-<a class="ms-card" href="portal/evidence/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 3 7 7-3 3-7-7Zm-4 9 3 3m-5 6h18M7 18v3m5-6a4 4 0 0 0 7-3l-2-2M5 8l2-2"/></svg> 현대 임상연구·근거</strong><span>침·한약 연구·임상시험·메타분석·진료지침</span></a>
-<a class="ms-card" href="learning/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m2 9 10-5 10 5-10 5-10-5Z"/><path d="M6 11v6c4 3 8 3 12 0v-6M22 9v8"/></svg> 한의학 학습실·퀴즈</strong><span>해부·경혈·침구·본초·방제·상한론·사상</span></a>
+<a class="ms-card" href="portal/evidence/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 3 7 7-3 3-7-7Zm-4 9 3 3m-5 6h18M7 18v3m5-6a4 4 0 0 0 7-3l-2-2M5 8l2-2"/></svg> 한의학 연구·임상근거</strong><span>침·한약 연구·임상시험·메타분석·진료지침</span></a>
+<a class="ms-card" href="learning/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m2 9 10-5 10 5-10 5-10-5Z"/><path d="M6 11v6c4 3 8 3 12 0v-6M22 9v8"/></svg> 한의학 공부·입문 학습실</strong><span>과목별 자료·학습카드·해설 퀴즈</span></a>
 <a class="ms-card" href="classical-stories/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14M6 9h3m6 0h3M6 12h3m6 0h3"/></svg> 민성의담 旻城醫談</strong><span>왕실 진료·치험례·본초·처방 유래·한의학 칼럼</span></a>
 </div>
 
@@ -191,13 +191,13 @@ hide:
 
 | 현재 알고 있는 정보 | 가장 빠른 시작점 |
 |---|---|
-| 한의학 기초를 공부하거나 과목별로 복습하고 싶어요 | [학습카드·해설형 퀴즈](learning/index.md) |
+| 한의학 기초를 공부하거나 과목별로 복습하고 싶어요 | [한의학 공부·입문 학습실](learning/index.md) |
 | 병명은 모르지만 불편한 증상을 알아요 | [증상으로 찾기](symptom-integrated/index.md) |
 | 진단명이나 의심 질환을 알고 있어요 | [질환별 보기](conditions/index.md) |
 | 본초나 처방 이름을 알고 있어요 | [본초·방제 한눈에 보기](herbal-integrated/index.md) |
 | 침·전침·약침과 경혈이 궁금해요 | [침구·치료 한눈에 보기](acupuncture-integrated/index.md) |
 | 체질·소증·사상처방을 찾고 있어요 | [사상의학 한눈에 보기](sasang-integrated/index.md) |
-| 임상시험·메타분석과 출처를 확인하고 싶어요 | [연구·근거 한눈에 보기](portal/evidence.md) |
+| 한의학 연구·근거와 논문 출처를 확인하고 싶어요 | [한의학 연구·임상근거 안내](portal/evidence.md) |
 
 ## 핵심 주제별로 둘러보기
 
@@ -244,7 +244,7 @@ hide:
       "@id": "https://wiki.minseong.co.kr/#website",
       "url": "https://wiki.minseong.co.kr/",
       "name": "민성 한의학 아카이브",
-      "description": "민성 한의학 아카이브는 상한론, 금궤요략, 동의보감, 동의수세보원 원문 해설과 한약 처방, 본초, 경혈 및 현대 한의학 자료를 체계적으로 연결한 공개 지식 아카이브입니다.",
+      "description": "한의학 정보와 학습 자료를 찾는 공개 지식 아카이브입니다. 한의학 기초·입문, 고전 원문·해설, 본초·한약 처방, 361경혈·3D 지도, 사상의학과 한의학 연구·임상근거를 연결합니다.",
       "inLanguage": "ko-KR",
       "publisher": {
         "@id": "https://wiki.minseong.co.kr/#publisher"
