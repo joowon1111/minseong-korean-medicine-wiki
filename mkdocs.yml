@@ -1207,6 +1207,12 @@ nav:
   - 치료별 임상근거:
     - 한약·처방: authority/formulas/herbal-formula-evidence-hub.md
     - 침·전침·약침: evidence-integrated/acupuncture-evidence.md
+    - 침의 과학적 접근:
+      - 한눈에 보기: acupuncture-science/index.md
+      - 말초신경과 침 자극: acupuncture-science/peripheral-afferent.md
+      - 침과 통증조절 신경생리: acupuncture-science/pain-modulation.md
+      - 침과 뇌·중추신경계: acupuncture-science/brain-central.md
+      - 침과 자율신경계: acupuncture-science/autonomic.md
     - 대표 본초:
       - 본초 근거 한눈에 보기: authority/herbs/index.md
       - 보기·회복:
