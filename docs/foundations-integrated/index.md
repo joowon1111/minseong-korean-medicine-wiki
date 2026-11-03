@@ -35,7 +35,7 @@ last_reviewed: '2026-08-29'
 
 처음 배우는 분은 위 여섯 문서를 순서대로 읽으면 생리에서 진찰·치료까지 흐름을 잡을 수 있습니다. 궁금한 주제가 정해져 있다면 해당 단계에서 바로 시작해도 좋습니다.
 
-- **고전·이론 심화:** [경악전서](../classics/jingyue-quanshu.md)의 한열·허실과 치료 원칙, [온병조변·온병학](../wenbing-network/index.md)의 열성 병증과 진액을 고전의 문맥에서 살펴봅니다.
+- **고전·이론 심화:** [황제내경](../classics/huangdi-neijing.md)·[난경](../classics/nanjing.md)의 기초 이론에서 출발해 [상한론](../classics/shanghanlun.md)·[금궤요략](../classics/jinkui-yaolue.md)의 병증과 처방, [동의보감](../classics/donguibogam.md)의 편찬 체계로 이어집니다. [비위론](../classics/piwei-lun.md)·[경악전서](../classics/jingyue-quanshu.md)·[온병조변과 온병학](../wenbing-network/index.md)·[동의수세보원](../classics/donguisusebowon.md)은 각각 비위, 허실과 치료, 열성 병증, 사상의학의 관점을 심화합니다.
 - **상세 자료실:** [기초 자료실](../portal/basics.md)은 주제별 입구, [핵심 개념 사전](../concepts/index.md)은 용어 찾기, [팔강·장부변증 심화](../foundations-clinical/index.md)는 기초를 임상에 적용하는 데 도움을 줍니다. 판단이 어려운 증상은 [임상 추론·감별](../clinical-reasoning/index.md)과 [진료 안전·위험신호](../clinical-safety/index.md)에서 이어 확인합니다.
 
 ## 먼저 구분하면 쉬운 네 가지 {#_3}

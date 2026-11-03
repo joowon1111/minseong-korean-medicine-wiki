@@ -38,19 +38,43 @@ description: 고전→현대 연결 — 민성 한의학 아카이브의 관련 
 4. 후대 판본·주석과 처방 구성 차이를 구분합니다.
 5. 현대 임상에 적용할 때 달라진 진단환경·제형·용량을 명시합니다.
 
-## 주요 고전의 역할
+## 주요 고전은 어떤 질문에 답하나요? {#classical-reading-routes}
 
-| 고전·전통 문헌 | 주로 연결되는 내용 |
-|---|---|
-| 『황제내경』 | 장부·경락·병인병기·양생과 진단의 기본 틀 |
-| 『난경』 | 맥·경락·장부 이론의 쟁점과 보완 |
-| 『상한론』·『금궤요략』 | 병의 단계, 증후와 처방 운용의 구조 |
-| 『동의보감』 | 신형·내경·외형·잡병·탕액·침구를 아우르는 조선 의학의 체계 |
-| 『방약합편』 | 방제와 본초를 임상적으로 찾아 쓰는 구성 |
-| 『동의수세보원』 | 사상체질, 소증·병증과 체질처방 체계 |
-| 근현대 임상서 | 시대별 진료 경험과 처방 운용의 확장 |
+고전은 모두 같은 책을 반복하는 자료가 아닙니다. 인체의 생리와 병기를 설명하는 책, 증후와 처방의 결합을 보여 주는 책, 후대의 의학을 종합하거나 새로운 변증 체계를 세운 책을 나누어 읽으면 차이가 선명해집니다.
 
-→ [고전 지식망](../classics/index.md)
+| 문헌 | 먼저 읽을 질문 | 원문·심화로 이어가기 |
+|---|---|---|
+| [황제내경](../classics/huangdi-neijing.md) | 몸의 장부·기혈·경락과 허실을 어떻게 설명했는가? | [선별 원문과 임상 질문](../classics/huangdi-neijing.md#selected-clinical-passages) · [황제내경 지식망](../neijing-network/index.md) |
+| [난경](../classics/nanjing.md) | 맥·경맥·수혈과 침법의 난제를 어떻게 문답했는가? | [81난의 주제와 원문 자료](../classics/nanjing.md#_2) · [기경팔맥](../meridian-network/extraordinary-vessels.md) |
+| [상한론](../classics/shanghanlun.md) | 증후와 경과가 달라질 때 어떤 처방을 선택하는가? | [조문 읽는 방법](../classics/shanghanlun.md#reading-a-passage) · [12조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-012) |
+| [금궤요략](../classics/jinkui-yaolue.md) | 잡병을 장부·증상·처방의 관계로 어떻게 나누는가? | [임상 원문 입구](../classics/jinkui-yaolue.md#complete-text) · [장부경락선후병](../classics/jinkui-yaolue/chapters/organs-meridians.md) |
+| [동의보감](../classics/donguibogam.md) | 허준은 앞선 의서를 어떤 의도로 정리했는가? | [집례와 편찬 의도](../classics/donguibogam.md#jiprye) · [다섯 편과 원문 목차](../classics/donguibogam/original.md#book-contents) |
+| [비위론](../classics/piwei-lun.md) | 음식·노권과 비위·원기를 어떤 관계로 보았는가? | [비위와 승강](../classics/piwei-lun.md#_3) · [보중익기탕 원문](../classics/piwei-lun.md#buzhong-source) |
+| [경악전서](../classics/jingyue-quanshu.md) | 허손·음양·한열을 어떻게 살피고 치법을 나누는가? | [허손과 처방 구조](../classics/jingyue-quanshu.md#core-formulas) · [처방 감별](../classics/jingyue-quanshu.md#clinical-formula-differentials) |
+| [온병조변](../classics/wenbing-tiaobian.md) | 온열성 병증에서 병위·열·습·진액을 어떻게 비교하는가? | [상초 4조 은교산](../classics/wenbing-tiaobian.md#upper-004) · [삼초·위기영혈](../wenbing-network/index.md) |
+| [동의수세보원](../classics/donguisusebowon.md) | 체질별 평소 소증과 병증의 표리·순역을 어떻게 살피는가? | [원문과 서문](../classics/donguisusebowon/original.md) · [사상의학 병증](../sasang-integrated/patterns.md) |
+
+[고전 원문·해석 전체 보기](../classics-reader/index.md)에서 각 책의 본문을, [고전 비교](../classics-network/comparison.md)에서 문헌의 성격을 더 살펴볼 수 있습니다. 동의수세보원은 다른 고전의 병기를 그대로 대입하기보다 체질·소증·병증과 처방이 연결되는 자체 체계를 따라 읽습니다.
+
+### 짧은 원문에서 시작해 보기 {#original-passages}
+
+**통증이 있는 곳을 살피다 — 《영추》 「경근」**
+
+> 以痛為輸
+
+아픈 곳을 치료점으로 삼는다는 뜻입니다. 현재 진료에서는 환자가 가리키는 위치와 압통, 통증을 재현하는 움직임을 살펴 국소 치료점과 원위 경혈을 함께 고려하는 질문으로 이어 볼 수 있습니다. 해당 구절은 경근의 맥락에서 읽고 시술 부위의 해부학과 안전성도 확인합니다. [경근 원문과 해설](../classics/huangdi-neijing.md#_7)
+
+**보하면서 방향을 살피다 — 《비위론》 「음식노권소상시위열중론」**
+
+> 補其中而升其陽
+
+중초를 보하면서 양기를 올린다는 뜻으로, 음식·노권에 의한 내상과 처방의 방향을 설명하는 대목입니다. 보기와 승양을 함께 두는 이유를 [보중익기탕의 구성](../classics/piwei-lun.md#buzhong-source)에서 살필 수 있습니다. [대조 원문: 명 만력본 등을 저본으로 한 전사](https://jicheng.tw/tcm/book/脾胃論/index.html)
+
+**발열에 동반된 양상을 나누다 — 《온병조변》 상초 4조**
+
+> 但熱不惡寒而渴者，辛涼平劑銀翹散主之。
+
+열이 나면서 오한은 두드러지지 않고 갈증이 있는 양상에 은교산을 제시한 대목입니다. 발열 하나보다 오한·갈증을 함께 읽으며, [조문 앞뒤와 은교산 배합](../classics/wenbing-tiaobian.md#upper-004)을 확인합니다. 오늘날의 감염 진단이나 치료 효과는 별도 평가합니다. [대조 원문: 혜제창 중간본 전사](https://jicheng.tw/tcm/book/溫病條辨/index.html)
 
 ## 전통 병증과 현대 질환을 연결하는 법
 
