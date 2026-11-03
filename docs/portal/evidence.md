@@ -10,7 +10,7 @@ last_reviewed: '2026-09-05'
 
 이 페이지는 민성 한의학 아카이브의 **연구·근거 통합 안내**입니다. 질환과 증상 → 치료방법 → 논문과 출처 → 임상적 해석과 재평가 순서로 필요한 자료를 찾을 수 있습니다.
 
-**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [간·신장 관찰·안전성 연구](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
+**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [주요 저널](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [침과 뇌·신경계](#acupuncture-neuroscience) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [간·신장 관찰·안전성 연구](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
@@ -67,6 +67,21 @@ last_reviewed: '2026-09-05'
 | Brinkhaus 등, *Annals of Internal Medicine*, 2013 · 계절성 알레르기비염 422명 | 8주 12회 침+세티리진 구조약: 가짜침+구조약보다 RQLQ 0.5점(97.5% CI 0.2–0.8), 구조약 점수 1.1점(97.5% CI 0.4–1.9) 유리 | [3군 설계·평가시점·추적](../conditions/rhinitis.md#acusar-rhinitis-trial) · [PMID 23420231](https://pubmed.ncbi.nlm.nih.gov/23420231/) |
 | Choi 등, *Allergy*, 2013 · 알레르기비염 238명, 다기관 무작위시험 | 4주 주 3회 침치료 후 TNSS 군 간 차이: 가짜침 대비 −1.03점(95% CI −1.96~−0.09), 대기군 대비 −2.49점(95% CI −3.68~−1.29) | [배정·비교군·코 증상 평가](../conditions/rhinitis.md#allergy-rhinitis-trial) · [PMID 23253122](https://pubmed.ncbi.nlm.nih.gov/23253122/) |
 | Lu 등, *Cancer*, 2024 · 유방암 내분비치료 중 여성 158명, 한·미·중 3개 평행 RCT의 계획된 개인자료 통합분석 | 10주 20회 침치료: FACT-ESS 개선의 군 간 차이 4.9점(SE 1.3, P=0.0003); 열감점수 감소 차이 3.9점(SE 1.3, P=0.003) | [다나파버·대구 연구진·대기 대조·20주 추적](../conditions/cancer-treatment-recovery.md#multinational-hot-flash-trial) · [PMID 38924035](https://pubmed.ncbi.nlm.nih.gov/38924035/) |
+
+### 침·전침·약침과 뇌·신경계 연구 {#acupuncture-neuroscience}
+
+침 자극은 조직과 감각신경에서 시작해 척수·뇌 및 자율신경계와 관련된 반응으로 연구됩니다. 아래 논문들은 서로 다른 질문을 다룹니다. **생쥐의 신경회로 실험, 사람의 뇌영상·생리지표, 환자에게 중요한 증상과 기능**을 나란히 보되 각각의 근거로 읽습니다.
+
+| 연구 질문 | 대표 논문과 직접 관찰한 내용 | 자세히 읽기 |
+|---|---|---|
+| 손목과 떨어진 곳의 전침이 신경과 뇌에 미치는 영향은? | Maeda 등, *Brain*, 2017: 손목터널증후군 환자의 증상·정중신경 전도·감각피질 지도를 비교. 세 군 모두 증상이 줄었고 실제 전침군에서 일부 생리지표가 가짜침보다 개선 | [대상·비교군·3개월 경과](../acupuncture-science/brain-central.md#carpal-tunnel-study) · [원저](https://pubmed.ncbi.nlm.nih.gov/28334999/) |
+| 만성통증과 뇌의 연결은 어떻게 연구할까? | Mawla 등, 2021: 섬유근육통 76명에서 전침과 모의 레이저를 비교하고 통증·fMRI·MRS를 측정 | [통증·섬엽 GABA+·영상 해석](../acupuncture-science/brain-central.md#fibromyalgia-neuroimaging) · [원저](https://pubmed.ncbi.nlm.nih.gov/33314799/) |
+| 전침의 위치와 강도가 왜 중요할까? | Liu 등, *Nature*, 2021: 생쥐에서 특정 감각신경과 자율신경 반응의 관계를 신경세포 조작으로 조사 | [자극 부위·강도와 회로](../acupuncture-science/autonomic.md#vagal-adrenal-study) · [원저](https://pubmed.ncbi.nlm.nih.gov/34646018/) |
+| 전침과 위 운동은 어떻게 연결될까? | *Neuron*, 2025: 생쥐 감각–미주신경–위 회로를 실험하고 기능성 소화불량 환자의 위 기능도 평가 | [동물과 사람 연구의 구분](../acupuncture-science/autonomic.md#gastric-reflex-study) · [원저](https://pubmed.ncbi.nlm.nih.gov/40713955/) |
+| 자침 부위에서 국소 반응이 나타날까? | Goldman 등, *Nature Neuroscience*, 2010: 생쥐의 아데노신 A1 수용체와 국소 항통각 반응을 조사 | [동물 수용체 실험과 사람 조직액 측정](../acupuncture-science/peripheral-afferent.md#atpadenosine) · [원저](https://pubmed.ncbi.nlm.nih.gov/20512135/) |
+| 약침의 신경계 작용을 어떻게 살필까? | 자침·주입과 제제별 작용을 나누는 연구 설계와 봉독의 안전성 | [약침의 비교군·제제·안전성](../authority/pharmacopuncture.md#pharmaco-neural-research) |
+
+영상의 기능적 연결성은 뇌 영역 간 신호 변동의 관계이며 신경이 새로 자랐다는 직접 측정값이 아닙니다. 동물에서 확인한 경로도 사람의 질환 치료효과와 별도로 검증해야 합니다. [침의 과학적 접근](../acupuncture-science/index.md#neuroscience-research-map)에서 말초·척수·뇌·자율신경 연구를 순서대로 읽고, [질환별 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading)에서 실제 통증과 기능 결과를 확인합니다.
 
 ### 한약: 증상 개선과 장기 임상 결과 {#landmark-herbal}
 
