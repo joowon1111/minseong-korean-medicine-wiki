@@ -12,12 +12,14 @@ class WorkflowSecurity(unittest.TestCase):
                 for step in job['steps']:
                     self.assertNotIn('${{',step.get('run',''),str(file))
 
-    def test_indexnow_json_is_passed_as_data(self):
-        workflow=yaml.safe_load((ROOT/'.github/workflows/indexnow.yml').read_text())
-        submit=next(s for s in workflow['jobs']['indexnow']['steps'] if s.get('name')=='Submit changed URLs to IndexNow')
-        self.assertEqual(submit['env']['INDEXNOW_URLS'],'${{ steps.urls.outputs.json }}')
-        self.assertIn('json.loads(os.environ["INDEXNOW_URLS"])',submit['run'])
-        compile(submit['run'],'IndexNow','exec')
+    def test_indexnow_runs_as_script_and_pages_sha_is_environment_data(self):
+        workflow=yaml.safe_load((ROOT/'.github/workflows/deploy.yml').read_text())
+        submit=next(s for s in workflow['jobs']['deploy']['steps'] if s.get('name')=='Notify IndexNow after Pages publication')
+        self.assertEqual(submit['env']['PAGES_SHA'],'${{ steps.pages.outputs.sha }}')
+        self.assertEqual(submit['run'],'python tools/indexnow_after_pages.py')
+        source=(ROOT/'tools/indexnow_after_pages.py').read_text()
+        self.assertNotIn('${{',source)
+        compile(source,'IndexNow','exec')
 
     def test_pull_request_validation_is_read_only(self):
         workflow=yaml.load((ROOT/'.github/workflows/validate.yml').read_text(),Loader=yaml.BaseLoader)
