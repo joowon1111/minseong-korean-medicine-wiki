@@ -28,6 +28,21 @@ tags: [침, 침과학, 신경생리, 통증조절, 전침, 자율신경, MPS, �
 | 전침의 주파수와 강도는 무엇을 바꾸나요? | [전침 자극 파라미터](../treatments/electroacupuncture.md#electroacupuncture-settings) | 주파수·강도·펄스폭·연결 부위·시간 |
 | 실제 효과는 어디서 확인하나요? | [침 연구·임상근거](../acupuncture-integrated/evidence.md) | 질환별 비교군, 통증·기능, 효과 크기와 지속기간 |
 
+## 침·전침·약침과 신경계 연구 찾아보기 {#neuroscience-research-map}
+
+치료 부위에서 시작한 감각 입력을 따라가면서도 각 연구가 무엇을 직접 측정했는지 구분합니다. 예를 들어 위장 기능이 달라졌다는 임상 관찰과 특정 신경회로가 필요하다는 동물실험은 서로 보완하지만 같은 결과는 아닙니다.
+
+| 질문과 연구 | 대상·방법 | 자세히 읽기 |
+|---|---|---|
+| 침을 놓은 자리에서 무슨 일이 일어날까? | 생쥐 A1 수용체 실험과 사람 조직액 측정 | [국소 아데노신과 말초 감각](peripheral-afferent.md#atpadenosine) |
+| 손목과 떨어진 곳을 자극하면 뇌의 감각지도는? | 손목터널증후군 환자 무작위 비교·신경전도·fMRI | [손목터널증후군 연구](brain-central.md#carpal-tunnel-study) |
+| 만성통증에서 뇌와 통증은 어떻게 변할까? | 섬유근육통 환자 전침·모의 레이저 비교와 뇌영상 | [섬유근육통과 뇌영상](brain-central.md#fibromyalgia-neuroimaging) |
+| 자극 부위·강도에 따라 자율신경 반응이 달라질까? | 생쥐 신경세포 제거·활성화 실험 | [전침과 자율신경 회로](autonomic.md#vagal-adrenal-study) |
+| 전침과 위장 운동은 어떻게 연결될까? | 생쥐 회로 검증과 기능성 소화불량 환자 연구 | [체성감각–미주신경–위 반사](autonomic.md#gastric-reflex-study) |
+| 약침의 신경계 작용은 어떻게 구별할까? | 제제·주입과 대조군을 구분하는 연구 설계 | [약침의 주입 물질과 신경계 연구](../authority/pharmacopuncture.md#pharmaco-neural-research) |
+
+[연구·근거 포털의 주요 논문 지도](../portal/evidence.md#acupuncture-neuroscience)에서는 이 연구들과 환자 대상 임상시험을 나란히 살펴볼 수 있습니다.
+
 ## 현대 연구에서 반복되는 주요 축 {#_4}
 
 | 연구 층위 | 대표적인 관찰·실험 | 현재 읽을 수 있는 의미 |

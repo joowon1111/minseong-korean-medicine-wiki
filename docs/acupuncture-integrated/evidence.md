@@ -25,6 +25,10 @@ description: 침구치료 근거·연구 — 경혈·경락·해부학·침·전
 
 [국내 추나·약침의 비교효과](../portal/evidence.md#korean-treatment-results)와 [암 치료 관련 관절통의 침 권고](../portal/evidence.md#guideline-mechanism-results)도 이어 읽을 수 있습니다. 아래의 프로토콜·비교군 설명은 이 성과를 실제 진료 조건과 연결하기 위한 안내입니다.
 
+## 침과 신경계는 어떻게 연구하나요? {#neuroscience-research}
+
+말초조직에서 시작하는 감각 입력과 척수·뇌·자율신경 반응은 서로 다른 방법으로 조사합니다. 손목터널증후군의 감각지도·신경전도 연구, 섬유근육통 뇌영상 연구, 생쥐 전침 회로 실험과 사람의 위 기능 연구를 [침·전침·약침 신경과학 연구 지도](../acupuncture-science/index.md#neuroscience-research-map)에서 비교할 수 있습니다. [연구·근거 포털](../portal/evidence.md#acupuncture-neuroscience)에는 주요 원저와 읽는 순서가 정리되어 있습니다.
+
 ## 변증과 경혈 선택: 한의원 423명 자료 분석 {#pattern-profiles-2026}
 
 Yoon 등은 2022년 9월~2023년 5월 **7개 한의원 통증 환자 423명의 초진 자료**에서 경혈 처방과 변증 평가의 관계를 분석했습니다. 후향적 관찰연구이며, 실제 진료의 개별화된 경혈 선택을 정량적으로 기술했다는 의미가 있습니다. *Medicine* 2026;105(38):e50804. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42760645/) · [논문 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13593149/) · [DOI](https://doi.org/10.1097/MD.0000000000050804).
