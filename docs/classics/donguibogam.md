@@ -1,12 +1,14 @@
 ---
-title: 동의보감
-description: 허준의 집례 원문·해석에서 시작해 동의보감의 편찬 과정, 다섯 편의 구성과 읽는 법, 인용 의서와 대표 처방·본초·침구를 살펴봅니다.
+title: 동의보감 | 허준의 집례·원문·해석
+description: 허준의 동의보감 집례 원문·해석과 편찬 의도, 내경·외형·잡병·탕액·침구 다섯 편을 살펴봅니다. 선별 원문 풀이·전사 검색·전권 영인본과 처방·본초 해설로 연결합니다.
 tags: [동의보감, 허준, 한의학고전, 탕액, 침구, 양생]
 status: 검토완료
 last_reviewed: 2026-10-07
 ---
 
 # 동의보감 {#_1}
+
+**원문 바로가기:** [동의보감 선별 원문·풀이](donguibogam/original.md) · [전사 원문 검색](donguibogam/original.md#reader) · [전권 영인본](donguibogam/original.md#facsimile) · [네 고전 원문·해석 안내](../classics-reader/index.md#donguibogam)
 
 ## 집례로 읽는 허준의 편찬 의도 {#jiprye}
 
