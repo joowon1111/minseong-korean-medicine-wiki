@@ -30,7 +30,7 @@ last_reviewed: 2026-09-05
 | 원인을 확인 | 배란·난소·자궁·난관·정액을 어떻게 해석하나 | [여성 원인](../conditions/infertility-preconception.md#female-causes) · [남성 난임](../conditions/male-infertility.md) |
 | IUI·IVF | 자극·채취·수정·배양·이식·확인과 병행치료 | [보조생식](../conditions/assisted-reproduction-support.md) |
 | 실패·유산 | 착상 실패와 임신 소실을 어떻게 구분하나 | [RIF](../conditions/recurrent-implantation-failure.md) · [RPL](../conditions/recurrent-pregnancy-loss.md) |
-| 임신 확인 | 위치·주수·출혈·입덧·치료 안전은 | [임신 초기·한의진료](../conditions/pregnancy-herbal-care.md) |
+| 임신 확인 | 위치·주수·출혈·입덧·치료 안전은 | [임신 초기·한의진료](../conditions/pregnancy-herbal-care.md) · [한약 안전성 연구](../conditions/pregnancy-herbal-care.md#japan-pregnancy-kampo) |
 | 유산 후 | 출혈·감염·잔류조직과 다음 임신은 | [회복과 다음 준비](../conditions/miscarriage-recovery.md) |
 | 출산 후 | 오로·빈혈·통증·수면·수유·상처는 | [산후회복](../conditions/postpartum-recovery.md) · [산후한약](../conditions/postpartum-herbal.md) |
 
