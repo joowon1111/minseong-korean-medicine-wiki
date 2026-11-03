@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 같은 체질이면 같은 처방을 쓰나?
 
+이 원칙은 [『동의수세보원』의 사람과 증을 함께 아는 대목](../classics/donguisusebowon/original.md#person-and-pattern)과 연결됩니다. 체질별 병론과 처방의 배치는 [『동의수세보원』 해설](../classics/donguisusebowon.md#clinical-routes)에서 확인할 수 있습니다.
+
 **같은 체질이라고 해서 항상 같은 처방을 쓰는 것은 아니다.**
 
 사상의학에서는 체질을 확인한 뒤에도 현재의 표리병증·한열·경중·소증을 다시 살핀다.

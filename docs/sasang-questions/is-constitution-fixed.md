@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 사상체질은 평생 같은가?
 
+원전의 체질 구조는 [『동의수세보원』 장국 원문과 풀이](../classics/donguisusebowon/original.md#four-organ-configurations), 병증과의 연결은 [『동의수세보원』 해설](../classics/donguisusebowon.md)에서 읽을 수 있습니다.
+
 사상의학에서 체질은 기본적으로 개인의 비교적 지속적인 체질적 특성으로 이해한다. 다만 **현재 나타나는 병증과 증상의 양상은 시기와 상태에 따라 달라질 수 있다.**
 
 ```text

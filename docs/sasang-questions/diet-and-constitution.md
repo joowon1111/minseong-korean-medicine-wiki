@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 사상체질과 음식은 어떤 관계인가?
 
+원전에서 건강과 소화를 연결한 말은 [『동의수세보원』 음식선화 풀이](../classics/donguisusebowon/original.md#wellbeing-digestion)에서 읽을 수 있습니다. [『동의수세보원』 해설](../classics/donguisusebowon.md)에서 병론의 위치도 확인하세요.
+
 사상의학에서는 식사도 체질 관리의 한 요소로 본다. 다만 **체질별 음식 목록만 외우기보다 현재의 소화상태·병증·생활환경을 함께 고려**하는 것이 중요하다.
 
 ```text

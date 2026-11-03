@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 태음인과 소양인은 어떻게 다른가?
 
+발한·배변의 원전 문맥은 [태음인 한액통창](../classics/donguisusebowon/original.md#wellbeing-sweating)과 [소양인 대변선통](../classics/donguisusebowon/original.md#wellbeing-stool)에서 비교할 수 있습니다. 체질별 병론은 [『동의수세보원』 해설](../classics/donguisusebowon.md#clinical-routes)로 이어집니다.
+
 태음인과 소양인은 서로 다른 사상체질로, 체형만이 아니라 **발한·호흡·소화·대소변·수면·병증 변화** 등 여러 임상 정보를 함께 살핀다.
 
 ```text

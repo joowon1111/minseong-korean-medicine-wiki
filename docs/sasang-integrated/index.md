@@ -9,6 +9,8 @@ last_reviewed: '2026-11-01'
 
 # 사상의학 한눈에 보기 {#_1}
 
+사상의학의 바탕이 되는 책은 [『동의수세보원』 해설](../classics/donguisusebowon.md)에서 살펴볼 수 있습니다. [원문·우리말 풀이와 전체 목차](../classics/donguisusebowon/original.md#book-contents)에서는 성명론·사단론·확충론과 체질별 병론으로 바로 이동합니다.
+
 <div class="principle-box">
 <strong>사상의학 핵심 탐색</strong><br>
 체질 → 주요 병증축 → 병증 단계 → 대표 처방·감별 문서 순서로 좁혀 보는 <a href="../sasang-explorer/">대화형 병증·처방 탐색기</a>를 이용할 수 있습니다. 각 병증에서 <a href="../sasang-clinical-detail/pattern-source-map/">《동의수세보원》 원전·CPG 근거</a>까지 바로 이어집니다. 진단·개인별 처방 도구가 아니라 학습·문서 탐색용 지식망입니다.

@@ -7,6 +7,8 @@ last_reviewed: 2026-08-19
 ---
 # 사상의학 질문 통합 지도
 
+질문의 배경이 되는 책은 [『동의수세보원』 해설](../classics/donguisusebowon.md), 실제 조문은 [원문 읽기](../classics/donguisusebowon/original.md)에서 확인할 수 있습니다.
+
 ```text
 사상체질이란?
    ↓
