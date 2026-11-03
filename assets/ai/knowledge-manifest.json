@@ -2,7 +2,7 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "2a2f51527c805a2cbe33574016034a615684e387a352cc0e0d6ad5ae82f21bfe",
+  "content_sha256": "e89dd0f8722350be231513c80c547d725e38143ef2d491d9b62c4fe00ff9d7f3",
   "entity_count": 2224,
   "entity_types": {
     "acupoint": 410,
