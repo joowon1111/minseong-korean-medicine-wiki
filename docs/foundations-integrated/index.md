@@ -31,6 +31,13 @@ last_reviewed: '2026-08-29'
 | 5 | 임상 추론 — 실제 환자에서 여러 정보를 어떻게 종합하는가? | [임상 추론](clinical-reasoning.md) |
 | 6 | 고전과 현대 — 서로 다른 정보층을 어떻게 연결하는가? | [고전→현대 연결](classics-modern.md) |
 
+### 왼쪽 메뉴에서 필요한 자료 찾기
+
+처음 배우는 분은 위 여섯 문서를 순서대로 읽으면 생리에서 진찰·치료까지 흐름을 잡을 수 있습니다. 궁금한 주제가 정해져 있다면 해당 단계에서 바로 시작해도 좋습니다.
+
+- **고전·이론 심화:** [경악전서](../classics/jingyue-quanshu.md)의 한열·허실과 치료 원칙, [온병조변·온병학](../wenbing-network/index.md)의 열성 병증과 진액을 고전의 문맥에서 살펴봅니다.
+- **상세 자료실:** [기초 자료실](../portal/basics.md)은 주제별 입구, [핵심 개념 사전](../concepts/index.md)은 용어 찾기, [팔강·장부변증 심화](../foundations-clinical/index.md)는 기초를 임상에 적용하는 데 도움을 줍니다. 판단이 어려운 증상은 [임상 추론·감별](../clinical-reasoning/index.md)과 [진료 안전·위험신호](../clinical-safety/index.md)에서 이어 확인합니다.
+
 ## 먼저 구분하면 쉬운 네 가지 {#_3}
 
 | 구분 | 뜻 | 예 |
@@ -291,6 +298,10 @@ last_reviewed: '2026-08-29'
 | **한의학 학습자** | [사진](diagnosis.md) → [팔강](../eight-principles-network/index.md)·[장부변증](../zangfu-pattern-network/index.md) → [임상 추론](clinical-reasoning.md) → [학습카드·문제](../learning/index.md) |
 | **임상가** | [변증 감별](../diagnostics/differentials/index.md) → [치법 선택](pattern-treatment.md) → [한약 구성](../herbal-integrated/formula-selection-guide.md)·[침구 배합](../acupuncture-integrated/how-acupoints-combine.md) → 재평가 |
 | **고전과 연구를 연결하려는 독자** | [고전 원문·해석](../classics-reader/index.md) → [고전→현대 연결](classics-modern.md) → [현대 임상근거 허브](../pillar/clinical-evidence.md) |
+
+### 국제 분류와 용어는 어디에 쓰이나요? {#terminology-and-classification}
+
+WHO의 전통의학 표준용어 자료는 개념을 일관되게 설명하고 비교할 때 참고합니다. ICD-11의 전통의학 분류는 전통의학 진료와 병증을 기록·통계·연구에서 비교할 수 있도록 돕는 분류 체계입니다. **분류에 항목이 있다는 사실과 특정 치료의 효과가 입증되었다는 판단은 별개**입니다. 실제 진료와 연구에서는 현대 진단, 변증, 치료와 결과를 각각 구체적으로 기록합니다. [WHO 전통의학 분류 설명](https://www.who.int/standards/classifications/frequently-asked-questions/traditional-medicine) · [ICD-11 안내](https://www.who.int/news-room/fact-sheets/detail/icd-11)
 
 ## 자주 묻는 질문 {#_16}
 
