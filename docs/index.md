@@ -14,6 +14,7 @@ hide:
 </div>
 <div class="ms-grid">
 <a class="ms-card" href="portal/basics/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14"/></svg> 한의학 기초·의사학</strong><span>기초이론·변증·임상 추론·한의학사</span></a>
+<a class="ms-card" href="classics-reader/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14M6 9h3m6 0h3M6 12h3m6 0h3"/></svg> 한의학 고전 원문·해석</strong><span>상한론·금궤요략·동의보감·동의수세보원</span></a>
 <a class="ms-card" href="portal/herbs-formulas/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 4c0 10-5 15-12 12C5 9 10 4 20 4Z"/><path d="m4 20 11-11m-7 7v-5m0 5h5"/></svg> 본초·한약·방제</strong><span>효능·주치·처방 100선·배합·수치·법제</span></a>
 <a class="ms-card" href="portal/acupuncture/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M9 5h6M12 3v4m-2 0h4v9h-4Zm2 9v5"/><path d="M17 6c2 2 2 5 0 7M7 6c-2 2-2 5 0 7"/></svg> 경혈·침구치료</strong><span>361경혈·경락·사암침·동씨침·근육 해부</span></a>
 <a class="ms-card" href="symptom-integrated/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M21 11a8 8 0 0 1-8 8H9l-6 3 2-6a8 8 0 0 1-2-5 9 9 0 0 1 18 0Z"/><path d="M7 11h2l2-3 2 6 2-3h2"/></svg> 증상으로 찾기</strong><span>통증·저림·불면·피로·소화·여성 증상</span></a>
@@ -23,6 +24,17 @@ hide:
 <a class="ms-card" href="learning/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m2 9 10-5 10 5-10 5-10-5Z"/><path d="M6 11v6c4 3 8 3 12 0v-6M22 9v8"/></svg> 한의학 공부·입문 학습실</strong><span>과목별 자료·학습카드·해설 퀴즈</span></a>
 <a class="ms-card" href="classical-stories/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14M6 9h3m6 0h3M6 12h3m6 0h3"/></svg> 민성의담 旻城醫談</strong><span>왕실 진료·치험례·본초·처방 유래·한의학 칼럼</span></a>
 </div>
+
+<section aria-labelledby="home-classics-title">
+<h2 id="home-classics-title">한의학 고전 바로 읽기</h2>
+<p><a href="classics-reader/">고전 원문·해석 안내</a>에서 책과 목차를 고르거나, 아래에서 읽고 싶은 고전의 원문으로 바로 들어갈 수 있습니다.</p>
+<div class="ms-quick">
+<a href="shanghan-network/#complete-clauses">상한론 원문·398조</a>
+<a href="jingui-network/#complete-chapters">금궤요략 원문·편별 목차</a>
+<a href="classics/donguibogam/original/">동의보감 원문·풀이·영인본</a>
+<a href="classics/donguisusebowon/original/">동의수세보원 선별 원문·풀이</a>
+</div>
+</section>
 
 <div class="daily-km-home-reading">
 <section class="daily-km-card daily-km-home-card" data-daily-km aria-label="오늘의 한의학 한 장">
@@ -191,6 +203,7 @@ hide:
 
 | 현재 알고 있는 정보 | 가장 빠른 시작점 |
 |---|---|
+| 상한론·금궤요략·동의보감·동의수세보원 원문을 읽고 싶어요 | [한의학 고전 원문·해석](classics-reader/index.md) |
 | 한의학 기초를 공부하거나 과목별로 복습하고 싶어요 | [한의학 공부·입문 학습실](learning/index.md) |
 | 병명은 모르지만 불편한 증상을 알아요 | [증상으로 찾기](symptom-integrated/index.md) |
 | 진단명이나 의심 질환을 알고 있어요 | [질환별 보기](conditions/index.md) |

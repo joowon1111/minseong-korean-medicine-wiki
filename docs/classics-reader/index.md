@@ -1,16 +1,16 @@
 ---
-title: 고전 원문·해석
-description: 상한론·금궤요략·동의수세보원·동의보감의 원문 목차, 한국어 독해와 처음 읽을 대목을 한곳에서 찾습니다.
+title: 한의학 고전 원문·해석 | 상한론·금궤요략·동의보감·동의수세보원
+description: 상한론 398조, 금궤요략 제1–22편 임상 원문, 동의보감과 동의수세보원의 선별 원문·한국어 풀이를 찾아 읽습니다. 책별 목차·원문 검색·영인본·판본 안내와 관련 처방 해설을 연결합니다.
 ---
-# 고전 원문·해석 {#_1}
+# 한의학 고전 원문·해석 {#_1}
 
-**읽고 싶은 책을 선택하세요.** 원문을 바로 열거나, 아래 책별 안내에서 처음 읽을 대목과 해석을 고를 수 있습니다. 한문이 익숙하지 않다면 **처음 읽기** 안내부터 시작하세요.
+**상한론·금궤요략·동의보감·동의수세보원의 원문과 해석을 찾는 안내**입니다. 읽고 싶은 책을 선택해 조문·편별 목차로 들어가거나, 아래 책별 안내에서 처음 읽을 대목과 풀이를 고를 수 있습니다. 한문이 익숙하지 않다면 **처음 읽기** 안내부터 시작하세요.
 
 <div class="ms-grid">
 <a class="ms-card" href="/shanghan-network/#complete-clauses"><strong>상한론 傷寒論</strong><span>통행 398조 원문·한국어 독해<br>육경병·조문 번호로 찾기 →</span></a>
 <a class="ms-card" href="/jingui-network/#complete-chapters"><strong>금궤요략 金匱要略</strong><span>제1–22편 임상 원문·한국어 독해<br>편명·병증으로 찾기 →</span></a>
-<a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
 <a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 56개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
+<a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
 </div>
 
 ## 찾는 자료로 바로 가기 {#quick-access}

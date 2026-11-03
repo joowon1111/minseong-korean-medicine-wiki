@@ -1,10 +1,12 @@
 ---
-search_title: "상한론: 육경병, 398조 원문·해석과 주요 처방"
+search_title: "상한론 원문·해석 — 육경병·398조·처방"
 reader_tools: true
-title: 상한론
-description: 장중경 원서의 원문·풀이와 편찬 뜻에서 시작해 상한론의 육경병·398조·맥증·치법·대표 고방을 읽습니다.
+title: 상한론 원문·해석 | 육경병·398조·처방
+description: 장중경의 상한론을 원서·육경병·맥증·치법으로 읽습니다. 통행 398조 원문과 한국어 독해, 계지탕·소시호탕 등 처방 해설, 송본 계열 판본 안내로 연결합니다.
 ---
 # 상한론 {#_1}
+
+**원문 바로가기:** [상한론 1–398조 목차·한국어 독해](../shanghan-network/index.md#complete-clauses) · [네 고전 원문·해석 안내](../classics-reader/index.md#shanghanlun)
 
 <span id="_5"></span>
 
