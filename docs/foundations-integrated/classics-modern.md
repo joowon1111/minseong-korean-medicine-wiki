@@ -1,4 +1,4 @@
----
+﻿---
 title: 고전→현대 연결
 tags: [한의학기초, 통합허브, 임상추론]
 status: 검토완료
@@ -99,6 +99,12 @@ description: 고전→현대 연결 — 민성 한의학 아카이브의 관련 
 | “같은 처방명이므로 구성도 같다” | 출전별 구성·용량·제형을 각각 기록 |
 | “유의하지 않았다=효과가 없다” | 표본수·효과크기·신뢰구간·연구목적을 함께 해석 |
 
+## 실제로 연결해 보기: 계지탕의 원문과 현대 연구 {#guizhi-reading-example}
+
+[상한론 12조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-012)에서는 태양병의 증상과 계지탕을 연결해 기록합니다. 먼저 해당 조문의 표현과 앞뒤 문맥, [계지탕 원문·구성](../formulas/guizhi-tang.md)을 확인하고, 후대의 해석과 현대 제형을 구분합니다. 고전에서 묘사한 증후를 오늘날의 특정 감염병 진단명으로 곧바로 바꾸지 않습니다.
+
+현대 연구를 찾을 때는 논문이 평가한 **대상·제형·비교군·측정 결과·안전성**을 따로 기록합니다. 계지탕이란 이름이 같아도 출전과 가감, 용량 및 복용 방식에 차이가 있을 수 있으므로, 한 연구의 결과를 모든 제형이나 다른 질환에 옮겨 적용하지 않습니다. [상한론 지식망](../shanghan-network/index.md) · [연구 설계 읽기](../portal/evidence.md#study-design-reading)
+
 ## 아카이브 기록 원칙
 
 - 고전의 직접 인용과 현대어 해설을 구분합니다.
@@ -128,5 +134,4 @@ description: 고전→현대 연결 — 민성 한의학 아카이브의 관련 
 - [고전·전통자료 판별](../evidence-integrated/classical-sources.md)
 - [전통 문헌과 현대 연구](../evidence-guide/tradition-modern.md)
 - [근거의 임상 적용](../evidence-integrated/clinical-application.md)
-- [근거를 임상에 적용하기](../evidence-integrated/clinical-application.md)
 - [출처·인용 원칙](../research/references/index.md)
