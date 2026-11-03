@@ -146,6 +146,12 @@ last_reviewed: 2026-09-23
 
 알레르기와 이전 시술 반응, 출혈 위험·항응고제, 감염·피부장벽 상태, 멸균과 제제 관리를 확인합니다. 봉독은 중증 알레르기 가능성과 응급 대응을 고려해야 합니다. PRP(자가혈소판풍부혈장), 스테로이드 병변 내 주사, 비타민 주입 연구는 각각 다른 치료이며 한약 약침의 근거로 옮기지 않습니다.
 
+### 레이저: 출력과 연구 설계를 함께 읽습니다 {#laser-output-study}
+
+**목정일·이지은·서형식(2014)의 「탈모 치료에 사용되는 레이저 출력에 관한 논문 연구」**는 탈모 레이저 자료 43건 중 15건을 선정해 출력과 적용 방식을 검토한 문헌연구입니다. 본문의 분석 대상은 **논문 8편과 특허 7건**으로, 15개의 무작위 임상시험을 합친 효과 분석과는 성격이 다릅니다.[^mok-laser]
+
+이 연구는 ‘레이저’라는 이름만으로 기기를 비교하기보다, 파장·출력·조사 방법과 탈모 유형을 함께 확인할 이유를 보여 줍니다. 두피에 넓게 조사한 광 치료와 경혈을 자극하는 레이저침은 조사 부위·목적을 확인해 읽고, 모발 밀도·굵기와 두피 상태를 같은 조건에서 평가합니다. [레이저침·레이저뜸과 광 치료의 구분](../treatments/laser-acupuncture.md#hair-output)에서 출력 기록과 관련 연구를 이어 볼 수 있습니다.
+
 ### 사람 대상 연구에서 확인된 결과와 한계 {#clinical-evidence}
 
 | 치료·자료 | 대상·비교·기간 | 확인한 결과 | 해석의 범위 |
@@ -196,6 +202,8 @@ last_reviewed: 2026-09-23
 치료 시작 전보다 유지되는 것도 패턴형에서는 의미가 있을 수 있습니다. 반대로 두피 열감·수면이 좋아져도 범위가 넓어지면 모발 치료 계획을 다시 봅니다. 어떤 치료든 일률적으로 ‘3개월이면 발모’ 또는 ‘6개월은 무조건 기다림’으로 설명하지 않습니다.[^female][^telogen][^aa-treatment][^ffa]
 
 ## 참고자료
+
+[^mok-laser]: 목정일·이지은·서형식. [탈모 치료에 사용되는 레이저 출력에 관한 논문 연구](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001876148). *한방안이비인후피부과학회지*. 2014;27(2):33–50. [원문 PDF](https://koreascience.or.kr/article/JAKO201416760764398.pdf) · DOI: [10.6114/jkood.2014.27.2.033](https://doi.org/10.6114/jkood.2014.27.2.033).
 
 [^aad-diagnosis]: American Academy of Dermatology. [Hair loss: Diagnosis and treatment](https://www.aad.org/public/diseases/hair-loss/treatment/diagnosis-treat) · [Types of hair loss](https://www.aad.org/public/diseases/hair-loss/types). 원인별 진찰·검사와 치료·보충제 안내.
 [^pcds]: Primary Care Dermatology Society. [Hair Loss – Primary Care Treatment Pathway](https://www.pcds.org.uk/files/general/Hair-Loss-Pathway-web.pdf) · [Alopecia overview](https://www.pcds.org.uk/clinical-guidance/alopecia-an-overview). 모낭 입구·감염·혈액검사·생검과 사진 기록.
