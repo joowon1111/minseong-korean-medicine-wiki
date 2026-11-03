@@ -30,6 +30,8 @@ description: 금은화의 청열해독·소산풍열 효능과 주치, 연교와
 
 금은화의 ‘해독’은 현대 독성물질을 제거한다는 뜻이 아닙니다. [청열해독](../herbal-integrated/heat-clearing-herbs.md#clear-heat-resolve-toxin)은 **열독 병증의 홍종열통·화농·인후종통 등을 다루는 전통 효능 분류**입니다.
 
+피부의 붉음·열감과 붓기가 함께 뚜렷한 경우 금은화는 [연교](forsythia.md)·[포공영](dandelion.md)과 청열해독의 전통적 배합을 비교할 수 있습니다. [연교패독산](../formulas/lianqiao-baidu-san.md)에서는 형개·방풍 등 소풍약과 함께 쓰여 피부 및 인후의 풍열독을 살핍니다. 고름이나 빠르게 번지는 홍반이 있으면 감염 여부를 확인하고 필요한 치료를 병행합니다.
+
 ## 연교와 어떻게 다른가요? {#forsythia-comparison}
 
 | 비교 | 금은화 | [연교](forsythia.md) |

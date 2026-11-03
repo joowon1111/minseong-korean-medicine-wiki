@@ -29,6 +29,8 @@ last_reviewed: '2026-09-16'
 ## 현대 연구
 glycyrrhizin과 flavonoids를 중심으로 염증·산화스트레스·점막 관련 지표가 연구됩니다. 분리 glycyrrhizin, 감초 추출물, deglycyrrhizinated licorice 제품과 탕약 속 감초를 같은 중재로 보지 않습니다.
 
+피부 발진과 가려움을 다루는 [소풍산](../formulas/xiaofeng-san.md)에서도 감초는 여러 약재의 배합을 조화하는 역할을 맡습니다. 구성 약재 중 하나라는 사실과 감초 단독의 피부질환 치료 효과는 구분해 읽습니다. 여러 처방이나 감초 함유 제품을 함께 복용하면 노출량이 합산될 수 있으므로 부종·혈압·근력 변화와 복용 기간을 확인합니다. [미국 NCCIH 감초 안전 자료](https://www.nccih.nih.gov/health/licorice-root)
+
 ## 관련 방제
 - [귀비탕](../formulas/guibi-tang.md) · [보중익기탕](../formulas/buzhong-yiqi-tang.md): 보기와 다른 약재의 조화를 함께 살핍니다.
 - [계지탕](../formulas/guizhi-tang.md) · [마황탕](../formulas/mahuang-tang.md): 각각 영위의 조화와 풍한표실의 발산 배합에 참여합니다.
