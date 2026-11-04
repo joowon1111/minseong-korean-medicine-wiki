@@ -13,13 +13,20 @@ def story_templates(docs_dir):
     if len(sections) != 24:
         raise ValueError("The daily reader requires all 24 canonical solar-term stories")
     templates = []
-    for title, anchor, body in sections:
+    for title, anchor, _summary in sections:
+        story_path = Path(docs_dir) / "daily-korean-medicine/solar-terms" / (anchor + ".md")
+        story = story_path.read_text(encoding="utf-8")
+        match = re.search(r"(?s)<!-- solar-story:start -->\s*(.*?)\s*<!-- solar-story:end -->", story)
+        if not match:
+            raise ValueError("Missing canonical solar-term story: " + anchor)
+        # Reader cards keep their established heading hierarchy; standalone pages use h2.
+        body = re.sub(r"^## ", "#### ", match[1], flags=re.M)
         rendered = markdown.markdown(body, extensions=["extra"])
         # Resolve links relative to the canonical Markdown source.
         def resolve(match):
             url = html.unescape(match[1])
             if not re.match(r"^[a-z]+:|^//", url, re.I):
-                url = urljoin("/daily-korean-medicine/solar-terms.md", url)
+                url = urljoin("/daily-korean-medicine/solar-terms/" + anchor + ".md", url)
                 url = re.sub(r"/index\.md(?=[?#]|$)", "/", url)
                 url = re.sub(r"\.md(?=[?#]|$)", "/", url)
             return 'href="' + html.escape(url, quote=True) + '"'
