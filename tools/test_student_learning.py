@@ -300,12 +300,11 @@ class StudentLearning(unittest.TestCase):
                 for fact in c['facts']:
                     self.assertIn(fact['value'], text)
 
-    def test_month_plan_and_learning_scope_match_the_current_bank(self):
+    def test_self_paced_guidance_and_learning_scope_match_the_current_bank(self):
         hub = (study.DOCS / 'learning/index.md').read_text()
-        self.assertIn('30일 학습 계획 {#first-month}', hub)
+        self.assertIn('{#first-month}', hub)
         self.assertIn('id="first-week"', hub)  # Existing bookmarks keep working.
-        self.assertEqual(re.findall(r'^\| (\d+)일 \|', hub, re.M),
-                         [str(day) for day in range(1, 31)])
+        self.assertFalse(re.search(r'^\| \d+일 \|', hub, re.M))
         for subject in self.decks:
             self.assertIn(f']({subject}.md)', hub)
             text = (study.DOCS / 'learning' / (subject + '.md')).read_text()
