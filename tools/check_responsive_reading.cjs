@@ -55,13 +55,13 @@ async function checkSentenceLayout(page, width) {
       assert(!scripts.some(src => /learning\/learning|acupoint-atlas\/(explorer|discovery)|archive-tools\/tools/.test(src)), 'Home must not request unrelated widget code');
       await page.screenshot({path:`archive-browser-results/home-responsive-${width}.png`});
       await page.goto(base + '/daily-korean-medicine/?date=2026-11-04', {waitUntil:'networkidle'});
-      await page.locator('[data-km-note] .ms-sentence-break').first().waitFor();
+      await page.locator('[data-km-note] .ms-sentence-break').first().waitFor({state:'attached'});
       assert.equal(await page.locator('.daily-km-intro p').first().evaluate(p => getComputedStyle(p).wordBreak), 'keep-all');
       assert(await page.locator('.daily-km-intro p').first().evaluate(p => p.getBoundingClientRect().width <= 840 + 1));
       await page.screenshot({path:`archive-browser-results/daily-sentence-reading-${width}.png`});
       await page.locator('[data-km-shift="1"]').click();
       await page.locator('[data-km-date][datetime="2026-11-05"]').waitFor();
-      await page.locator('[data-km-note] .ms-sentence-break').first().waitFor();
+      await page.locator('[data-km-note] .ms-sentence-break').first().waitFor({state:'attached'});
       assert(!(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1)), `Daily sentence overflow at ${width}`);
       await page.goto(base + '/', {waitUntil:'networkidle'});
       const publisher = page.locator('.archive-publisher');
