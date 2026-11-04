@@ -235,7 +235,7 @@ last_reviewed: '2026-09-02'
 | 경혈·본초·상한론·사상의학을 하루에 하나씩 | [오늘의 한의학](daily-korean-medicine/index.md) → 날짜별 카드·출처·원문 풀이·상세 문서 |
 | 건강한 생활을 위한 짧은 문구 | [오늘의 양생(養生) 한 문장](daily-korean-medicine/index.md#daily-yangsheng-title) · [양생 원문·현대 해석](yangsaeng/index.md) |
 | 기초 일곱 과목의 복습 | [학습실](learning/index.md) → 해부학·경혈학·침구학·본초학·방제학·상한론·동의수세보원 |
-| 오답·학습기록과 학습 계획 | [개인 복습](learning/index.md#personal-study) · [30일 학습 계획](learning/index.md#first-month) |
+| 오답·학습기록과 학습 계획 | [개인 복습](learning/index.md#personal-study) · [단계별 학습 방향](learning/index.md#first-month) |
 
 고전의 원문·판본, 후대의 해설, 현대 연구는 자료의 역할을 구분해 읽습니다. 하루 카드와 학습문제에서 이해한 내용을 해당 본문·출처로 다시 확인할 수 있습니다.
 
