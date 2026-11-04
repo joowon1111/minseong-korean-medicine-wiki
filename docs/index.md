@@ -45,7 +45,7 @@ hide:
 <section class="daily-km-card daily-km-home-card" data-daily-km aria-label="오늘의 한의학 한 장">
   <div class="daily-km-meta">
     <span class="daily-km-kicker">하루 한 장 · 오늘의 한의학</span>
-    <time data-km-date>기본 카드</time>
+    <time data-km-date hidden>기본 카드</time>
   </div>
   <p class="daily-km-count" data-km-count>오늘의 카드</p>
   <h2 data-km-line>평소의 나를 알면, 오늘의 변화를 더 잘 읽을 수 있어요.</h2>
@@ -85,7 +85,7 @@ hide:
   <header class="daily-km-topics-header">
     <div><h2>매일 만나는 한의학</h2>
     <p>경혈·본초·상한론·사상의학, 오늘의 원문과 핵심 풀이를 읽어보세요.</p></div>
-    <time data-topic-date>기본 카드</time>
+    <time data-topic-date hidden>기본 카드</time>
   </header>
   <p class="daily-km-data-error" data-daily-data-error hidden></p>
   <div class="daily-km-topic-grid">
