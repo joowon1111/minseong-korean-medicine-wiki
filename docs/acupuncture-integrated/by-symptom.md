@@ -115,27 +115,23 @@ description: 통증·증상으로 침구치료 찾기 — 경혈·경락·해부
 
 ## 증상에서 경혈 상세로 내려가기
 
-침구치료 전략을 정한 뒤 실제 경혈 위치와 경락을 확인할 때는:
+증상 평가에서 치료 목표를 정한 뒤 경혈의 위치·주치·배혈을 확인합니다. 아래 경혈은 문헌과 치료 구성을 읽는 **탐색 출발점**입니다. 실제 선혈은 진단·경락·변증·해부학과 환자의 반응을 함께 보고 정합니다.
 
-→ [경혈·경락 찾기](points-meridians.md)
+| 증상·상황 | 위치·주치에서 출발할 경혈 | 평가·경과로 이어가기 |
+|---|---|---|
+| 허리 통증 | [신수 BL23](../acupuncture/points/bl23-shenshu.md) · [대장수 BL25](../acupuncture/points/bl25-dachangshu.md) · [위중 BL40](../acupuncture/points/bl40-weizhong.md) | [요통](../conditions/low-back-pain.md)의 신경·보행 평가와 앉기·걷기 변화 |
+| 목·어깨 불편 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md) · [천종 SI11](../acupuncture/points/si11-tianzong.md) | [목통증](../conditions/neck-pain.md) · [어깨통증](../conditions/shoulder-pain.md)의 가동범위·근력·야간통 |
+| 식후포만·조기포만 | [중완 CV12](../acupuncture/points/cv12-zhongwan.md) · [족삼리 ST36](../acupuncture/points/st36-zusanli.md) · [내관 PC6](../acupuncture/points/pc6-neiguan.md) | [기능성소화불량](../conditions/functional-dyspepsia.md)의 식사량·식후 불편 |
+| 불면·밤중 각성 | [신문 HT7](../acupuncture/points/ht7-shenmen.md) · [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md) | [불면증](../conditions/insomnia.md)의 입면·각성·낮 기능 |
+| 턱관절·저작근 통증 | [하관 ST7](../acupuncture/points/st7.md) · [협거 ST6](../acupuncture/points/st6.md) · [합곡 LI4](../acupuncture/points/li4-hegu.md) | [턱관절통증](../conditions/temporomandibular-disorder.md)의 개구·씹기·잠김 |
 
-경혈은 `증상 하나 = 혈위 하나`가 아니라 **국소 해부학 + 경락 + 원위부 + 전신 병증**을 조합해서 봅니다.
+[국소·원위 배혈의 역할과 비교 연구](how-acupoints-combine.md#local-distal-trial)에서 혈 구성의 의미를, [같은 동작으로 치료 전후 비교하기](followup.md#same-task-comparison)에서 평가 방법을 확인할 수 있습니다. 한 표의 경혈을 반드시 모두 쓰는 고정 처방표로 읽기보다, 각 경혈의 출처와 현재 환자의 목표를 연결합니다.
 
-예:
-- 요통 → BL23·BL25·BL40·GV3 + 아시혈
-- 목·어깨 → GB20·GB21·SI11·LI15·TE14
-- 소화불량 → CV12·ST36·PC6·SP6
-- 불면 → HT7·PC6·SP6·KI6·인당
-- 비염 → LI20·인당·LI4
+## 361경혈의 위치·해부학을 함께 찾기 {#100개-이상-핵심-경혈로-확장된-경혈망}
 
-## 100개 이상 핵심 경혈로 확장된 경혈망
+[WHO 표준 361경혈 아틀라스](../acupoint-network/standard-atlas.md)에서 경혈명·코드·부위를 찾고, [3D 경혈 지도](../acupoint-network/3d-map.md)에서 경맥과 주변 위치를 살펴보세요. 정확한 취혈과 시술 계획에는 골성 표지·근육·건·신경·혈관 및 개인차를 함께 확인합니다.
 
-경혈 허브는 기존 핵심혈과 보강 혈위를 합쳐 **100개 이상 규모의 임상 경혈망**으로 확장했습니다.
-
-→ [경혈·경락 찾기](points-meridians.md)
-
-증상에서 혈위를 찾을 때는 `증상명 → 혈자리 암기`가 아니라  
-**해부학·기능 → 경락·병증 → 국소혈 + 원위혈 + 전신 조절혈 → 안전성** 순서로 봅니다.
+[경혈·경락 찾기](points-meridians.md) · [위치·주치·지침·임상시험을 읽는 법](../portal/acupuncture.md#sources)
 
 ## 증상에서 배혈 조합으로 내려가기
 
