@@ -25764,7 +25764,7 @@
       "difficulty": "high",
       "topic": "statement-comparison",
       "prompt": "팔강과 경맥의 표리 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 팔강의 표리는 병위의 큰 범주를 살핀다.\nㄴ. 경맥의 표리는 음경과 양경의 짝 관계를 가리킨다.\nㄷ. 폐경과 대장경의 표리관계가 곧 팔강의 표증을 뜻한다.",
+      "context": "팔강과 경맥의 표리에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "팔강의 표리는 병위의 큰 범주를 살핀다.",
@@ -25850,6 +25850,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "팔강의 표리는 병위의 큰 범주를 살핀다."
+          ],
+          [
+            "ㄴ",
+            "경맥의 표리는 음경과 양경의 짝 관계를 가리킨다."
+          ],
+          [
+            "ㄷ",
+            "폐경과 대장경의 표리관계가 곧 팔강의 표증을 뜻한다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-37",
@@ -25861,7 +25882,7 @@
       "difficulty": "high",
       "topic": "statement-comparison",
       "prompt": "변증과 부위의 연결 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 기혈진액 변증은 부족·정체·역행 등의 양상을 살핀다.\nㄴ. 한 부위의 압통만으로 장부 변증의 모든 정보가 갖춰진다.\nㄷ. 경락·부위 평가는 통증이 나타나는 위치를 살핀다.",
+      "context": "변증과 부위의 연결에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "기혈진액 변증은 부족·정체·역행 등의 양상을 살핀다.",
@@ -25948,6 +25969,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "기혈진액 변증은 부족·정체·역행 등의 양상을 살핀다."
+          ],
+          [
+            "ㄴ",
+            "한 부위의 압통만으로 장부 변증의 모든 정보가 갖춰진다."
+          ],
+          [
+            "ㄷ",
+            "경락·부위 평가는 통증이 나타나는 위치를 살핀다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-38",
@@ -25959,7 +26001,7 @@
       "difficulty": "high",
       "topic": "statement-comparison",
       "prompt": "장부와 수모배혈 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 모혈은 장부 병증의 전면 접근과 연결된다.\nㄴ. 수모배혈은 같은 장부의 배수혈과 모혈을 연결한다.\nㄷ. 배수혈은 흉복부에만 분포한다.",
+      "context": "장부와 수모배혈에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "모혈은 장부 병증의 전면 접근과 연결된다.",
@@ -26048,6 +26090,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "모혈은 장부 병증의 전면 접근과 연결된다."
+          ],
+          [
+            "ㄴ",
+            "수모배혈은 같은 장부의 배수혈과 모혈을 연결한다."
+          ],
+          [
+            "ㄷ",
+            "배수혈은 흉복부에만 분포한다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-39",
@@ -26059,7 +26122,7 @@
       "difficulty": "high",
       "topic": "statement-comparison",
       "prompt": "원혈과 낙혈의 역할 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 원혈과 낙혈은 서로 다른 특정혈 분류다.\nㄴ. 원락배혈은 한 경맥의 원혈과 표리경의 낙혈을 연결한다.\nㄷ. 낙혈은 모두 원혈과 동일한 혈이다.",
+      "context": "원혈과 낙혈의 역할에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "원혈과 낙혈은 서로 다른 특정혈 분류다.",
@@ -26148,6 +26211,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "원혈과 낙혈은 서로 다른 특정혈 분류다."
+          ],
+          [
+            "ㄴ",
+            "원락배혈은 한 경맥의 원혈과 표리경의 낙혈을 연결한다."
+          ],
+          [
+            "ㄷ",
+            "낙혈은 모두 원혈과 동일한 혈이다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-40",
@@ -26159,7 +26243,7 @@
       "difficulty": "high",
       "topic": "statement-comparison",
       "prompt": "기혈과 팔회혈 분류 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 기회와 혈회는 모두 팔맥교회혈의 기경 이름이다.\nㄴ. 기회·혈회 분류와 환자의 기허·혈허 판단은 구분해 공부한다.\nㄷ. 팔회혈에는 기회와 혈회가 포함된다.",
+      "context": "기혈과 팔회혈 분류에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "기회와 혈회는 모두 팔맥교회혈의 기경 이름이다.",
@@ -26247,6 +26331,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "기회와 혈회는 모두 팔맥교회혈의 기경 이름이다."
+          ],
+          [
+            "ㄴ",
+            "기회·혈회 분류와 환자의 기허·혈허 판단은 구분해 공부한다."
+          ],
+          [
+            "ㄷ",
+            "팔회혈에는 기회와 혈회가 포함된다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "특정혈 개념",
       "source": "/learning/acupuncture/#clinical-acupuncture-41",
@@ -26258,7 +26363,7 @@
       "difficulty": "high",
       "topic": "statement-comparison",
       "prompt": "사진 정보와 경혈 선택 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 절진은 맥진·복진과 압통 확인 등을 포함한다.\nㄴ. 망진은 설색과 태 등의 관찰을 포함한다.\nㄷ. 문진(問診)은 증상의 경과와 한열·땀 등을 묻는다.",
+      "context": "사진 정보와 경혈 선택에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "절진은 맥진·복진과 압통 확인 등을 포함한다.",
@@ -26345,6 +26450,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "절진은 맥진·복진과 압통 확인 등을 포함한다."
+          ],
+          [
+            "ㄴ",
+            "망진은 설색과 태 등의 관찰을 포함한다."
+          ],
+          [
+            "ㄷ",
+            "문진(問診)은 증상의 경과와 한열·땀 등을 묻는다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-42",
@@ -26356,7 +26482,7 @@
       "difficulty": "expert",
       "topic": "statement-comparison",
       "prompt": "기허와 기체의 감별 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 활동·회복력 저하를 살피는 기허의 대표 치법은 보기·익기다.\nㄴ. 팽만·긴장·변동성 통증을 살피는 기체의 대표 치법은 이기다.\nㄷ. 기허와 기체는 동일한 병기명이다.",
+      "context": "기허와 기체의 감별에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "활동·회복력 저하를 살피는 기허의 대표 치법은 보기·익기다.",
@@ -26442,6 +26568,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "활동·회복력 저하를 살피는 기허의 대표 치법은 보기·익기다."
+          ],
+          [
+            "ㄴ",
+            "팽만·긴장·변동성 통증을 살피는 기체의 대표 치법은 이기다."
+          ],
+          [
+            "ㄷ",
+            "기허와 기체는 동일한 병기명이다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-43",
@@ -26453,7 +26600,7 @@
       "difficulty": "expert",
       "topic": "statement-comparison",
       "prompt": "혈허와 어혈의 감별 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 어혈은 활혈화어·통락과 연결한다.\nㄴ. 혈허와 어혈이 함께 있으면 두 병기를 함께 고려한다.\nㄷ. 혈허는 보혈·양혈과 연결한다.",
+      "context": "혈허와 어혈의 감별에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "어혈은 활혈화어·통락과 연결한다.",
@@ -26541,6 +26688,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "어혈은 활혈화어·통락과 연결한다."
+          ],
+          [
+            "ㄴ",
+            "혈허와 어혈이 함께 있으면 두 병기를 함께 고려한다."
+          ],
+          [
+            "ㄷ",
+            "혈허는 보혈·양혈과 연결한다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-44",
@@ -26552,7 +26720,7 @@
       "difficulty": "expert",
       "topic": "statement-comparison",
       "prompt": "음허와 양허의 한열 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 음허와 양허는 모두 같은 한증으로 분류한다.\nㄴ. 음허는 건조·허열 양상과 자음·생진을 연결해 살핀다.\nㄷ. 양허는 냉감과 온양·보양을 연결해 살핀다.",
+      "context": "음허와 양허의 한열에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "음허와 양허는 모두 같은 한증으로 분류한다.",
@@ -26641,6 +26809,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "음허와 양허는 모두 같은 한증으로 분류한다."
+          ],
+          [
+            "ㄴ",
+            "음허는 건조·허열 양상과 자음·생진을 연결해 살핀다."
+          ],
+          [
+            "ㄷ",
+            "양허는 냉감과 온양·보양을 연결해 살핀다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-45",
@@ -26652,7 +26841,7 @@
       "difficulty": "expert",
       "topic": "statement-comparison",
       "prompt": "겸증과 치법 조합 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 기허와 담습이 함께 있으면 보기와 건비·화담·이수를 함께 고려한다.\nㄴ. 겸증을 살필 때도 주병기와 치료 우선순위를 정한다.\nㄷ. 치법의 수가 많을수록 변증의 정확도가 자동으로 높아진다.",
+      "context": "겸증과 치법 조합에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "기허와 담습이 함께 있으면 보기와 건비·화담·이수를 함께 고려한다.",
@@ -26741,6 +26930,27 @@
           "url": "/foundations-integrated/diagnosis/"
         }
       ],
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "기허와 담습이 함께 있으면 보기와 건비·화담·이수를 함께 고려한다."
+          ],
+          [
+            "ㄴ",
+            "겸증을 살필 때도 주병기와 치료 우선순위를 정한다."
+          ],
+          [
+            "ㄷ",
+            "치법의 수가 많을수록 변증의 정확도가 자동으로 높아진다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "배혈 원리",
       "source": "/learning/acupuncture/#clinical-acupuncture-46",
@@ -26752,7 +26962,7 @@
       "difficulty": "expert",
       "topic": "statement-comparison",
       "prompt": "소속 경맥과 하합혈 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 상거허는 대장 하합혈이므로 대장경에 속한다.\nㄴ. 특정혈의 관련 장부와 그 혈의 소속 경맥은 따로 확인한다.\nㄷ. 족삼리는 위경의 경혈이다.",
+      "context": "소속 경맥과 하합혈에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "상거허는 대장 하합혈이므로 대장경에 속한다.",
@@ -26830,6 +27040,27 @@
       "explanation": "ㄱ: 상거허는 위경에 속하면서 대장 하합혈로 분류된다. ㄴ: 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다. ㄷ: 족삼리는 족양명위경에 속한다.",
       "discriminator": "상거허는 위경에 속하면서 대장 하합혈로 분류된다. 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다. 족삼리는 족양명위경에 속한다.",
       "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "상거허는 대장 하합혈이므로 대장경에 속한다."
+          ],
+          [
+            "ㄴ",
+            "특정혈의 관련 장부와 그 혈의 소속 경맥은 따로 확인한다."
+          ],
+          [
+            "ㄷ",
+            "족삼리는 위경의 경혈이다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "특정혈 개념",
       "source": "/learning/acupuncture/#clinical-acupuncture-47",
@@ -26841,7 +27072,7 @@
       "difficulty": "expert",
       "topic": "statement-comparison",
       "prompt": "팔회혈과 팔맥교회혈 — 옳은 설명을 모두 고른 것은?",
-      "context": "다음 세 설명을 비교하세요.\nㄱ. 열결과 조해는 독맥·양교맥의 대표 짝이다.\nㄴ. 팔회혈과 팔맥교회혈은 이름이 비슷하지만 분류 기준이 다르다.\nㄷ. 공손과 내관은 충맥·음유맥의 대표 짝이다.",
+      "context": "팔회혈과 팔맥교회혈에 관한 세 설명을 비교하고, 옳은 설명의 조합을 고르세요.",
       "statements": [
         {
           "text": "열결과 조해는 독맥·양교맥의 대표 짝이다.",
@@ -26918,6 +27149,27 @@
       "explanation": "ㄱ: 열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다. ㄴ: 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다. ㄷ: 공손은 충맥, 내관은 음유맥과 연결한다.",
       "discriminator": "열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다. 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다. 공손은 충맥, 내관은 음유맥과 연결한다.",
       "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "열결과 조해는 독맥·양교맥의 대표 짝이다."
+          ],
+          [
+            "ㄴ",
+            "팔회혈과 팔맥교회혈은 이름이 비슷하지만 분류 기준이 다르다."
+          ],
+          [
+            "ㄷ",
+            "공손과 내관은 충맥·음유맥의 대표 짝이다."
+          ]
+        ]
+      },
       "kind": "clinical",
       "category": "특정혈 개념",
       "source": "/learning/acupuncture/#clinical-acupuncture-48",
