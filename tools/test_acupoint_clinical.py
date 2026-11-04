@@ -127,15 +127,21 @@ class ClinicalCoverageTests(unittest.TestCase):
         self.assertEqual(point['references'][0]['id'], 'kim2014')
         self.assertIn('184', point['references'][0]['locator'])
 
-    def test_taegeuk_reuses_source_types_and_portal_reports_actual_coverage(self):
+    def test_taegeuk_source_types_and_reader_facing_portal(self):
         profiles = (ROOT / 'docs/taegeuk-acupuncture/points.md').read_text()
         for code in ['HT7', 'LU9', 'LR3', 'KI3', 'SP3', 'LI4']:
             section = profiles.split('{#' + code.lower() + '}', 1)[1].split('\n### ', 1)[0]
             self.assertIn(self.points[code]['indications_label'], section)
             self.assertNotIn('americandragon.com', section)
         portal = (ROOT / 'docs/portal/acupuncture.md').read_text()
-        self.assertIn('27경혈', portal)
-        self.assertIn('303경혈', portal)
+        self.assertIn('{#source-reading-examples}', portal)
+        self.assertIn('{#trial-interpretation}', portal)
+        self.assertIn('32422066', portal)
+        self.assertNotIn('기존 국내 자료 **27경혈은 보존**', portal)
+        self.assertNotIn('국내 공통 원문은 아직 확보하지 못했습니다', portal)
+        catalog = json.loads((ROOT / 'data/acupoint_catalog.json').read_text())
+        self.assertEqual(catalog['summary']['preserved_domestic_profiles'], 27)
+        self.assertEqual(catalog['summary']['legacy_content_only'], 303)
         self.assertIn('같은 421개 임상시험', portal)
 
 
