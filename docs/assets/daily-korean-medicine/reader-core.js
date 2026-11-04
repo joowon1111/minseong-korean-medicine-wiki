@@ -1,9 +1,10 @@
 /* Date and lookup helpers shared by the daily reading widgets. */
 (function (root, factory) {
-  const api = factory();
+  const api = factory(typeof module === "object" && module.exports ? require("./calendar-core.js") : root.MinseongCalendar,
+    typeof module === "object" && module.exports ? require("../solar-terms/calculator.js") : root.MinseongSolarTerms);
   if (typeof module === "object" && module.exports) module.exports = api;
   else root.MinseongDailyReader = api;
-})(typeof window !== "undefined" ? window : globalThis, function () {
+})(typeof window !== "undefined" ? window : globalThis, function (calendar, solarTerms) {
   "use strict";
   const labels = { points: "경혈", herbs: "본초", shanghan: "상한론", sasang: "사상의학" };
   const chapters = { "taiyang-upper": "태양 상편", "taiyang-middle": "태양 중편", "taiyang-lower": "태양 하편",
@@ -38,6 +39,57 @@
   function dateFor(offset, now) {
     const date = new Date(today(now).getTime() + offset * 86400000);
     return Number.isInteger(offset) && Number.isFinite(date.getTime()) ? date : null;
+  }
+  const termYears = new Map(), termDecades = new Map(), calendarNodes = new Map();
+  let termMetadata, calendarTimer;
+  function loadTermEvents(year) {
+    if (year < 1900 || year > 2100) return Promise.resolve(null);
+    if (!termYears.has(year)) {
+      function json(path) { return fetch(path, {credentials:"same-origin"}).then(r => { if(!r.ok)throw new Error("Calendar unavailable");return r.json(); }); }
+      if (!termMetadata) termMetadata = json("/assets/solar-terms/de440/metadata.json?v=20261101");
+      const decade = Math.floor(year / 10) * 10;
+      if (!termDecades.has(decade)) termDecades.set(decade, json("/assets/solar-terms/de440/" + decade + ".json?v=20261101"));
+      termYears.set(year, Promise.all([termMetadata,termDecades.get(decade)]).then(([metadata,data]) =>
+        solarTerms.calculateYear(year,data.years[String(year)],metadata)).catch(error => {
+          termYears.delete(year); termDecades.delete(decade); termMetadata = null; throw error;
+        }));
+    }
+    return termYears.get(year);
+  }
+  function renderCalendarDate(node, date, now) {
+    if (!node || !(date instanceof Date) || !Number.isFinite(date.getTime())) return;
+    now = now || new Date();
+    const key = date.toISOString().slice(0,10), doc = node.ownerDocument;
+    node.textContent = new Intl.DateTimeFormat("ko-KR", {timeZone:"UTC",year:"numeric",month:"long",day:"numeric",weekday:"short"}).format(date);
+    node.setAttribute("datetime",key); node.classList.add("daily-calendar-date");
+    node.dataset.calendarDate = key;
+    if (!calendar) return;
+    const details = doc.createElement("span");details.className = "daily-calendar-details";details.setAttribute("data-calendar-details","");
+    const lunar = calendar.lunarFor(date), moon = calendar.moonFor(date);
+    function line(text,marker) { const span=doc.createElement("span");span.textContent=text;if(marker)span.setAttribute(marker,"");details.append(span);return span; }
+    line(lunar ? "음력 " + lunar.year + "년 " + (lunar.intercalation?"윤":"") + lunar.month + "월 " + lunar.day + "일" : "음력: 1900–2050년 지원", "data-calendar-lunar");
+    if (moon) {
+      const phase=line(moon.emoji+" "+moon.label+" · 밝은 면 "+Math.round(moon.fraction*100)+"%","data-calendar-moon");
+      phase.title="한국 시간 정오 기준 달 모양의 근사 계산값";
+    }
+    const ganji=line("만세력 계산 중…","data-calendar-pillars");node.append(details);
+    const instant = key === today(now).toISOString().slice(0,10) ? now : new Date(date.getTime()+3*3600000);
+    loadTermEvents(date.getUTCFullYear()).then(events => {
+      if (!node.isConnected || node.dataset.calendarDate!==key || details.parentNode!==node) return;
+      const result=calendar.pillarsAt(instant,events);
+      ganji.textContent=result?"만세력 · "+result.year+" "+result.month+" "+result.day:"만세력: 1900–2100년 지원";
+      if (!events) return;
+      const boundary=events.find(e => e.termIndex%2===1 && new Date(e.milliseconds+9*3600000).toISOString().slice(0,10)===key);
+      if (boundary) {
+        const before=calendar.pillarsAt(new Date(boundary.milliseconds-1),events),after=calendar.pillarsAt(new Date(boundary.milliseconds+1),events);
+        line(solarTerms.TERMS[boundary.termIndex][0]+" "+solarTerms.displayTime(boundary.milliseconds).time+" · "+before.month+" → "+after.month,"data-calendar-boundary");
+      }
+    }).catch(() => { if(details.parentNode===node)ganji.textContent="만세력 계산을 불러오지 못했습니다."; });
+    calendarNodes.set(node,date);
+    if (!calendarTimer && typeof window !== "undefined") calendarTimer=window.setInterval(() => {
+      calendarNodes.forEach((value,element) => { if(!element.isConnected)calendarNodes.delete(element);else renderCalendarDate(element,value); });
+      if(!calendarNodes.size){window.clearInterval(calendarTimer);calendarTimer=null;}
+    },30000);
   }
   function titleFor(topic, item) {
     return topic === "points" ? item.name + " " + item.code + " · " + item.hanja : item.title;
@@ -151,7 +203,7 @@
     }
   }
   return { labels: labels, chapters: chapters, chapterFor: chapterFor, clauseFrom: clauseFrom,
-    parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor,
+    parseDate: parseDate, today: today, offsetFor: offsetFor, dateFor: dateFor, renderCalendarDate: renderCalendarDate,
     titleFor: titleFor, reviewFor: reviewFor, search: search, cardFrom: cardFrom, savedCards: savedCards,
     seasonalCard: seasonalCard, solarTermFor: solarTermFor, seasons: seasons, almanacFrom: almanacFrom,
     searchAlmanac: searchAlmanac, almanacText: almanacText, copyLink: copyLink };
