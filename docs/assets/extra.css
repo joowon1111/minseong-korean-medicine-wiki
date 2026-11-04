@@ -220,25 +220,6 @@
 /* Keep long Korean terms, classical passages and tables inside the reading area. */
 .md-content, .md-typeset__table { min-width: 0; }
 .md-typeset :is(p, li, td, th, h1, h2, h3, h4) { overflow-wrap: anywhere; }
-/* Korean prose: readable measure, whole words and punctuation kept with the sentence. */
-.md-typeset:lang(ko) :is(p, li) {
-  word-break: keep-all;
-  overflow-wrap: break-word;
-  line-break: strict;
-  text-wrap: pretty;
-}
-.md-typeset:lang(ko) p {
-  line-height: 1.85;
-}
-.md-typeset:lang(ko) p:not(:has(img, svg, iframe, .md-button)) { max-inline-size: 42rem; }
-.md-typeset:lang(ko) li:not(:has(p, ul, ol, table)) { max-inline-size: 42rem; line-height: 1.85; }
-.md-typeset:lang(ko) :is(h1, h2, h3, h4) {
-  word-break: keep-all;
-  line-break: strict;
-  text-wrap: balance;
-}
-.md-typeset:lang(ko) :is(td, th) p { max-inline-size: none; }
-.md-typeset .ms-sentence-break { display: initial; }
 .md-typeset__scrollwrap {
   overscroll-behavior-x: contain;
   scroll-padding-inline: .6rem;
