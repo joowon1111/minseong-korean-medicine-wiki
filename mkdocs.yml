@@ -759,6 +759,8 @@ nav:
     - 방제 구조·계보: formula-architecture/index.md
     - 임상 연결 지식망: herbal-formula-clinical/index.md
 - 침구·치료:
+  - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
+  - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
   - 경혈학·침구의학 포털:
     - 포털 한눈에 보기: portal/acupuncture.md
     - 어디서부터 찾을까요?: https://wiki.minseong.co.kr/portal/acupuncture/#_2
@@ -777,8 +779,6 @@ nav:
     - 근거와 지식망: https://wiki.minseong.co.kr/portal/acupuncture/#_11
     - 경혈 주치·효능의 출처: https://wiki.minseong.co.kr/portal/acupuncture/#sources
     - 검색으로 바로 찾기: https://wiki.minseong.co.kr/portal/acupuncture/#_12
-  - 침구·치료 한눈에 보기: acupuncture-integrated/index.md
-  - WHO 표준 361경혈 아틀라스: acupoint-network/standard-atlas.md
   - 3D 경혈 지도: acupoint-network/3d-map.md
   - 경락·경맥 한눈에 보기: meridian-network/index.md
   - 십이경맥 · 몸에서 지나가는 길:
