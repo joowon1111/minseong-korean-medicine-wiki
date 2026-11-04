@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wiki.minseong.co.kr/</loc>
-    <lastmod>2026-11-04T10:42:45+09:00</lastmod>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/ai-index/</loc>
@@ -1838,7 +1838,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/acupuncture-integrated/methods/</loc>
-    <lastmod>2026-11-04T08:37:54+09:00</lastmod>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/acupuncture-integrated/modalities/</loc>
@@ -3690,7 +3690,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/clinical-anatomy/mps-atlas/</loc>
-    <lastmod>2026-09-19T11:55:49+09:00</lastmod>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/clinical-anatomy/mps-calf/</loc>
@@ -4598,7 +4598,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/conditions/mps-treatment-question/</loc>
-    <lastmod>2026-09-09T17:02:13+09:00</lastmod>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/conditions/multi-supplement-review/</loc>
@@ -7402,7 +7402,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/musculoskeletal-ultrasound/ultrasound-guided-treatment/</loc>
-    <lastmod>2026-09-22T16:04:42+09:00</lastmod>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/neijing-network/</loc>
@@ -7670,7 +7670,7 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/portal/acupuncture/</loc>
-    <lastmod>2026-11-04T14:08:23+09:00</lastmod>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/portal/basics/</loc>
@@ -8686,7 +8686,11 @@
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/treatments/</loc>
-    <lastmod>2026-11-04T08:37:54+09:00</lastmod>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://wiki.minseong.co.kr/treatments/acupotomy/</loc>
+    <lastmod>2026-11-04T15:22:46+09:00</lastmod>
   </url>
   <url>
     <loc>https://wiki.minseong.co.kr/treatments/acupuncture/</loc>
