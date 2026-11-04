@@ -31789,6 +31789,1937 @@
       "kind": "clinical",
       "category": "특정혈 개념",
       "source": "/learning/acupuncture/#clinical-acupuncture-88"
+    },
+    {
+      "id": "clinical-acupuncture-89",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "허한과 허열의 치법을 교차 비교하기 — 옳은 설명을 모두 고른 것은?",
+      "context": "두 교육용 기록은 모두 오래된 허약을 전제로 한다. A는 냉감·무력·묽은 변, B는 건조·오열·야간 증상이 중심이다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "A와 B 모두 허증이므로 A에서도 청허열이 주된 치법이다.",
+          "correct": false,
+          "reason": "허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다."
+        },
+        {
+          "text": "B에서는 자음·생진과 허열 조절을 함께 살핀다.",
+          "correct": true,
+          "reason": "건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다."
+        },
+        {
+          "text": "두 기록은 허증이므로 한열 치법도 같아야 한다.",
+          "correct": false,
+          "reason": "허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ: 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-89"
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-89"
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ: 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-89"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-89"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ: 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-89"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "ㄱ은 다음과 같이 고친다. 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ은 옳다. 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ은 다음과 같이 고친다. 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다.",
+      "discriminator": "허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "A와 B 모두 허증이므로 A에서도 청허열이 주된 치법이다."
+          ],
+          [
+            "ㄴ",
+            "B에서는 자음·생진과 허열 조절을 함께 살핀다."
+          ],
+          [
+            "ㄷ",
+            "두 기록은 허증이므로 한열 치법도 같아야 한다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-89"
+    },
+    {
+      "id": "clinical-acupuncture-90",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "변증·치법·치료수단의 구분 — 옳은 설명을 모두 고른 것은?",
+      "context": "학습자가 기체, 소간이기, 침·한약이라는 세 항목을 진료 기록의 서로 다른 층에 배치한다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "소간이기는 개별 약재의 이름이다.",
+          "correct": false,
+          "reason": "소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다."
+        },
+        {
+          "text": "침과 한약은 치법을 구현할 때 선택하는 치료수단이다.",
+          "correct": true,
+          "reason": "주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다."
+        },
+        {
+          "text": "기체는 기의 울체를 설명하는 병기이다.",
+          "correct": true,
+          "reason": "기체는 팽만·긴장·변동성 통증을 묶는 병기이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 기체는 팽만·긴장·변동성 통증을 묶는 병기이다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-90"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄴ: 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다. ㄷ: 기체는 팽만·긴장·변동성 통증을 묶는 병기이다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-90"
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-90"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄷ: 기체는 팽만·긴장·변동성 통증을 묶는 병기이다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-90"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄴ: 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-90"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄴ은 옳다. 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다. ㄷ은 옳다. 기체는 팽만·긴장·변동성 통증을 묶는 병기이다.",
+      "discriminator": "소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다. 기체는 팽만·긴장·변동성 통증을 묶는 병기이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "소간이기는 개별 약재의 이름이다."
+          ],
+          [
+            "ㄴ",
+            "침과 한약은 치법을 구현할 때 선택하는 치료수단이다."
+          ],
+          [
+            "ㄷ",
+            "기체는 기의 울체를 설명하는 병기이다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-90"
+    },
+    {
+      "id": "clinical-acupuncture-91",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "식후 불편의 시간축과 평소 소화력 — 옳은 설명을 모두 고른 것은?",
+      "context": "A는 평소 소화가 좋다가 과식 직후 팽만·트림이 생겼고, B는 소량 식사 뒤 피로와 묽은 변이 오래 반복된다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/etiology-pathogenesis/",
+          "title": "병인·병기"
+        },
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/etiology-pathogenesis/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "급성 음식 정체와 평소 허약의 비중을 나누어 치법을 비교한다.",
+          "correct": true,
+          "reason": "과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다."
+        },
+        {
+          "text": "A의 과식 직후 발생은 식적 가설을 검토할 단서이다.",
+          "correct": true,
+          "reason": "유발 시점과 음식량을 확인하며 식적·기체를 비교한다."
+        },
+        {
+          "text": "B는 평소 비위기허와 운화 저하를 함께 살필 수 있다.",
+          "correct": true,
+          "reason": "소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. ㄴ: 유발 시점과 음식량을 확인하며 식적·기체를 비교한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-91"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-91"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. ㄴ: 유발 시점과 음식량을 확인하며 식적·기체를 비교한다. ㄷ: 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-91"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 유발 시점과 음식량을 확인하며 식적·기체를 비교한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-91"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-91"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. ㄴ은 옳다. 유발 시점과 음식량을 확인하며 식적·기체를 비교한다. ㄷ은 옳다. 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다.",
+      "discriminator": "과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. 유발 시점과 음식량을 확인하며 식적·기체를 비교한다. 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "급성 음식 정체와 평소 허약의 비중을 나누어 치법을 비교한다."
+          ],
+          [
+            "ㄴ",
+            "A의 과식 직후 발생은 식적 가설을 검토할 단서이다."
+          ],
+          [
+            "ㄷ",
+            "B는 평소 비위기허와 운화 저하를 함께 살필 수 있다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-91"
+    },
+    {
+      "id": "clinical-acupuncture-92",
+      "cardId": "research-결과",
+      "difficulty": "high",
+      "prompt": "치료 반응을 비교할 기준값 — 옳은 설명을 모두 고른 것은?",
+      "context": "한 교육용 기록에서 통증 강도만 적던 방식을 바꾸어 활동과 수면도 함께 관찰하려 한다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/diagnosis/",
+          "title": "사진·진단"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/diagnosis/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "통증 0~10점과 보행시간은 같은 척도의 다른 표현이다.",
+          "correct": false,
+          "reason": "통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다."
+        },
+        {
+          "text": "재진마다 척도를 바꾸면 경과 비교가 더 정확해진다.",
+          "correct": false,
+          "reason": "같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다."
+        },
+        {
+          "text": "각성 횟수와 총수면시간을 초진부터 남길 수 있다.",
+          "correct": true,
+          "reason": "수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-92"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄴ: 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-92"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄴ: 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-92"
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄴ: 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다. ㄷ: 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다.",
+          "owner": "정답 근거",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-92"
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄷ: 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-92"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄴ은 다음과 같이 고친다. 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다. ㄷ은 옳다. 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다.",
+      "discriminator": "통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다. 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "통증 0~10점과 보행시간은 같은 척도의 다른 표현이다."
+          ],
+          [
+            "ㄴ",
+            "재진마다 척도를 바꾸면 경과 비교가 더 정확해진다."
+          ],
+          [
+            "ㄷ",
+            "각성 횟수와 총수면시간을 초진부터 남길 수 있다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "연구 기록",
+      "source": "/learning/acupuncture/#clinical-acupuncture-92"
+    },
+    {
+      "id": "clinical-acupuncture-93",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "관찰 사실과 병기 가설을 나누기 — 옳은 설명을 모두 고른 것은?",
+      "context": "환자가 “긴장한 날 명치가 더 답답했다”고 말했고, 진찰자는 기체와 비위 기능을 함께 검토했다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/diagnosis/",
+          "title": "사진·진단"
+        },
+        {
+          "url": "/foundations-integrated/etiology-pathogenesis/",
+          "title": "병인·병기"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/diagnosis/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "기체는 그 관찰을 설명하려는 병기 가설이다.",
+          "correct": true,
+          "reason": "병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다."
+        },
+        {
+          "text": "관찰과 가설은 재진 때 같은 항목으로 합쳐 기록해야 한다.",
+          "correct": false,
+          "reason": "관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다."
+        },
+        {
+          "text": "긴장한 날 악화됐다는 말은 문진에서 얻은 관찰 정보이다.",
+          "correct": true,
+          "reason": "발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-93"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-93"
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄷ: 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-93"
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. ㄷ: 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-93"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. ㄷ: 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-93"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ은 다음과 같이 고친다. 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. ㄷ은 옳다. 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다.",
+      "discriminator": "병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "기체는 그 관찰을 설명하려는 병기 가설이다."
+          ],
+          [
+            "ㄴ",
+            "관찰과 가설은 재진 때 같은 항목으로 합쳐 기록해야 한다."
+          ],
+          [
+            "ㄷ",
+            "긴장한 날 악화됐다는 말은 문진에서 얻은 관찰 정보이다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-93"
+    },
+    {
+      "id": "clinical-acupuncture-94",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "한습 통증과 어혈 통증의 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "교육용 A는 찬 환경에서 무겁고 아프며 온열에 편해지고, B는 타박 뒤 한 부위가 고정되어 찌르듯 아프다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "통증이라는 공통점만으로 A와 B의 주병기를 같게 적는다.",
+          "correct": false,
+          "reason": "통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다."
+        },
+        {
+          "text": "A는 산한제습·온경통락을 검토하는 방향이다.",
+          "correct": true,
+          "reason": "냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다."
+        },
+        {
+          "text": "B는 활혈화어·통락을 검토하는 방향이다.",
+          "correct": true,
+          "reason": "외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. ㄴ: 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. ㄷ: 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-94"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-94"
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. ㄴ: 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. ㄷ: 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-94"
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-94"
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-94"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 다음과 같이 고친다. 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. ㄴ은 옳다. 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. ㄷ은 옳다. 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다.",
+      "discriminator": "통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "통증이라는 공통점만으로 A와 B의 주병기를 같게 적는다."
+          ],
+          [
+            "ㄴ",
+            "A는 산한제습·온경통락을 검토하는 방향이다."
+          ],
+          [
+            "ㄷ",
+            "B는 활혈화어·통락을 검토하는 방향이다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-94"
+    },
+    {
+      "id": "clinical-acupuncture-95",
+      "cardId": "shu-point-TE3",
+      "difficulty": "expert",
+      "prompt": "수혈과 원혈이 겹치는 조건 — 옳은 설명을 모두 고른 것은?",
+      "context": "오수혈의 수혈(兪穴)과 원혈을 두 분류축으로 대조한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/five-shu/",
+          "title": "오수혈 60혈"
+        },
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/five-shu/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "태백은 비경 수혈이고 원혈은 따로 공손이다.",
+          "correct": false,
+          "reason": "태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다."
+        },
+        {
+          "text": "삼간은 대장경 원혈이다.",
+          "correct": false,
+          "reason": "삼간은 대장경 수혈이고 대장경 원혈은 합곡이다."
+        },
+        {
+          "text": "중저는 삼초경 수혈이며 원혈은 양지이다.",
+          "correct": true,
+          "reason": "양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-95"
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄴ: 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+          "owner": "정답 근거",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-95"
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄴ: 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-95"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄴ: 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-95"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다.",
+          "owner": "오답 감별",
+          "ownerId": "shu-point-TE3",
+          "source": "/learning/acupuncture/#clinical-acupuncture-95"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 4,
+      "explanation": "ㄱ은 다음과 같이 고친다. 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄴ은 다음과 같이 고친다. 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ은 옳다. 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+      "discriminator": "태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "태백은 비경 수혈이고 원혈은 따로 공손이다."
+          ],
+          [
+            "ㄴ",
+            "삼간은 대장경 원혈이다."
+          ],
+          [
+            "ㄷ",
+            "중저는 삼초경 수혈이며 원혈은 양지이다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "오수혈 개별 60혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-95"
+    },
+    {
+      "id": "clinical-acupuncture-96",
+      "cardId": "meeting-장회",
+      "difficulty": "expert",
+      "prompt": "소속 경맥과 팔회혈 분류를 따로 읽기 — 옳은 설명을 모두 고른 것은?",
+      "context": "장회·부회·기회가 어떤 경맥에 속하는지 대조한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/special-points-atlas/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "중완은 위의 모혈이므로 위경에 속한다.",
+          "correct": false,
+          "reason": "중완는 임맥에 속하며 위 모혈·부회로 분류한다."
+        },
+        {
+          "text": "전중은 임맥의 경혈이며 기회이다.",
+          "correct": true,
+          "reason": "전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다."
+        },
+        {
+          "text": "장문은 간경에 속하면서 장회로 분류된다.",
+          "correct": true,
+          "reason": "장문은 간경 소속과 장회 속성을 함께 가진다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 장문은 간경 소속과 장회 속성을 함께 가진다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-장회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-96"
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-장회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-96"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄴ: 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다. ㄷ: 장문은 간경 소속과 장회 속성을 함께 가진다.",
+          "owner": "정답 근거",
+          "ownerId": "meeting-장회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-96"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄷ: 장문은 간경 소속과 장회 속성을 함께 가진다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-장회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-96"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄴ: 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다.",
+          "owner": "오답 감별",
+          "ownerId": "meeting-장회",
+          "source": "/learning/acupuncture/#clinical-acupuncture-96"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄴ은 옳다. 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다. ㄷ은 옳다. 장문은 간경 소속과 장회 속성을 함께 가진다.",
+      "discriminator": "중완는 임맥에 속하며 위 모혈·부회로 분류한다. 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다. 장문은 간경 소속과 장회 속성을 함께 가진다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "중완은 위의 모혈이므로 위경에 속한다."
+          ],
+          [
+            "ㄴ",
+            "전중은 임맥의 경혈이며 기회이다."
+          ],
+          [
+            "ㄷ",
+            "장문은 간경에 속하면서 장회로 분류된다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "팔회혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-96"
+    },
+    {
+      "id": "clinical-acupuncture-97",
+      "cardId": "lower-삼초",
+      "difficulty": "expert",
+      "prompt": "육부 대응과 경맥 소속을 교차 확인하기 — 옳은 설명을 모두 고른 것은?",
+      "context": "하합혈을 육부 이름과 소속 경맥으로 나누어 기록한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/special-points-atlas/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "양릉천은 담경 합혈과 담 하합혈을 겸한다.",
+          "correct": true,
+          "reason": "양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다."
+        },
+        {
+          "text": "위양은 삼초 하합혈이며 방광경에 속한다.",
+          "correct": true,
+          "reason": "위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다."
+        },
+        {
+          "text": "하거허는 위경에 속하며 소장 하합혈에 대응한다.",
+          "correct": true,
+          "reason": "경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. ㄴ: 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-삼초",
+          "source": "/learning/acupuncture/#clinical-acupuncture-97"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-삼초",
+          "source": "/learning/acupuncture/#clinical-acupuncture-97"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-삼초",
+          "source": "/learning/acupuncture/#clinical-acupuncture-97"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. ㄴ: 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다. ㄷ: 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다.",
+          "owner": "정답 근거",
+          "ownerId": "lower-삼초",
+          "source": "/learning/acupuncture/#clinical-acupuncture-97"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다.",
+          "owner": "오답 감별",
+          "ownerId": "lower-삼초",
+          "source": "/learning/acupuncture/#clinical-acupuncture-97"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. ㄴ은 옳다. 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다. ㄷ은 옳다. 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다.",
+      "discriminator": "양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다. 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "양릉천은 담경 합혈과 담 하합혈을 겸한다."
+          ],
+          [
+            "ㄴ",
+            "위양은 삼초 하합혈이며 방광경에 속한다."
+          ],
+          [
+            "ㄷ",
+            "하거허는 위경에 속하며 소장 하합혈에 대응한다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "육부 하합혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-97"
+    },
+    {
+      "id": "clinical-acupuncture-98",
+      "cardId": "pair-원근배혈",
+      "difficulty": "expert",
+      "prompt": "한 배혈을 두 공간 분류로 설명하기 — 옳은 설명을 모두 고른 것은?",
+      "context": "어깨 부위의 근위혈과 반대쪽 하지의 원위혈을 함께 선택한 교육용 배혈을 분류한다. 특정 원락·수모 관계는 제시하지 않았다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/pairing-principles/",
+          "title": "배혈 원리"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/pairing-principles/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "어깨 근위혈과 하지 원위혈의 조합은 같은 부위의 근위혈끼리 묶은 것이다.",
+          "correct": false,
+          "reason": "어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다."
+        },
+        {
+          "text": "상지·하지의 배치에서는 상하배혈로도 설명할 수 있다.",
+          "correct": true,
+          "reason": "같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다."
+        },
+        {
+          "text": "상하배혈로 분류되면 원근배혈로는 분류할 수 없다.",
+          "correct": false,
+          "reason": "원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ: 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-98"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-98"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-98"
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ: 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-98"
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ: 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-98"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 다음과 같이 고친다. 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ은 옳다. 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. ㄷ은 다음과 같이 고친다. 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+      "discriminator": "어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "어깨 근위혈과 하지 원위혈의 조합은 같은 부위의 근위혈끼리 묶은 것이다."
+          ],
+          [
+            "ㄴ",
+            "상지·하지의 배치에서는 상하배혈로도 설명할 수 있다."
+          ],
+          [
+            "ㄷ",
+            "상하배혈로 분류되면 원근배혈로는 분류할 수 없다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-98"
+    },
+    {
+      "id": "clinical-acupuncture-99",
+      "cardId": "electro-주파수·파형",
+      "difficulty": "expert",
+      "prompt": "전침 주파수 비교의 공통 조건 — 옳은 설명을 모두 고른 것은?",
+      "context": "두 전침군의 주파수 차이를 비교하는 교육용 연구 계획이다. A는 2Hz, B는 100Hz로 정했다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/modalities/",
+          "title": "전침 프로토콜"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/modalities/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "A만 치료 횟수가 두 배여도 군 간 차이는 주파수 차이만 나타낸다.",
+          "correct": false,
+          "reason": "횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다."
+        },
+        {
+          "text": "주파수 외 조건을 맞추면 주파수 비교의 해석이 선명해진다.",
+          "correct": true,
+          "reason": "공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다."
+        },
+        {
+          "text": "혈위·강도·시간·치료 횟수를 함께 기록한다.",
+          "correct": true,
+          "reason": "전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ: 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. ㄷ: 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다.",
+          "owner": "정답 근거",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-99"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ: 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-99"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-99"
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ: 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. ㄷ: 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-99"
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-주파수·파형",
+          "source": "/learning/acupuncture/#clinical-acupuncture-99"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 다음과 같이 고친다. 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ은 옳다. 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. ㄷ은 옳다. 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다.",
+      "discriminator": "횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "A만 치료 횟수가 두 배여도 군 간 차이는 주파수 차이만 나타낸다."
+          ],
+          [
+            "ㄴ",
+            "주파수 외 조건을 맞추면 주파수 비교의 해석이 선명해진다."
+          ],
+          [
+            "ㄷ",
+            "혈위·강도·시간·치료 횟수를 함께 기록한다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "전침 설계",
+      "source": "/learning/acupuncture/#clinical-acupuncture-99"
+    },
+    {
+      "id": "clinical-acupuncture-100",
+      "cardId": "research-결과",
+      "difficulty": "expert",
+      "prompt": "반응률의 절대 차이와 상대비 — 옳은 설명을 모두 고른 것은?",
+      "context": "교육용 시험에서 미리 정한 반응 기준을 충족한 사람이 A군 60/100명, B군 40/100명이었다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/evidence/",
+          "title": "연구 결과 읽기"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/evidence/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "절대 차이 20%포인트와 상대 증가 50%는 같은 수치 표현이다.",
+          "correct": false,
+          "reason": "절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다."
+        },
+        {
+          "text": "반응률의 절대 차이는 20%포인트이다.",
+          "correct": true,
+          "reason": "60%에서 40%를 빼면 20%포인트이다."
+        },
+        {
+          "text": "반응률의 상대비 A/B는 1.5이다.",
+          "correct": true,
+          "reason": "0.60을 0.40으로 나누면 1.5이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-100"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. ㄴ: 60%에서 40%를 빼면 20%포인트이다. ㄷ: 0.60을 0.40으로 나누면 1.5이다.",
+          "owner": "정답 근거",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-100"
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. ㄴ: 60%에서 40%를 빼면 20%포인트이다. ㄷ: 0.60을 0.40으로 나누면 1.5이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-100"
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 0.60을 0.40으로 나누면 1.5이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-100"
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 60%에서 40%를 빼면 20%포인트이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-100"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. ㄴ은 옳다. 60%에서 40%를 빼면 20%포인트이다. ㄷ은 옳다. 0.60을 0.40으로 나누면 1.5이다.",
+      "discriminator": "절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. 60%에서 40%를 빼면 20%포인트이다. 0.60을 0.40으로 나누면 1.5이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "절대 차이 20%포인트와 상대 증가 50%는 같은 수치 표현이다."
+          ],
+          [
+            "ㄴ",
+            "반응률의 절대 차이는 20%포인트이다."
+          ],
+          [
+            "ㄷ",
+            "반응률의 상대비 A/B는 1.5이다."
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "연구 기록",
+      "source": "/learning/acupuncture/#clinical-acupuncture-100"
+    },
+    {
+      "id": "clinical-acupuncture-101",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "두 불면 기록에서 치법 방향을 나누면?",
+      "context": "실제 환자와 무관한 비교이다. A는 오래된 피로·식욕저하·두근거림, B는 건조·오열·야간각성이 중심이며 각각의 주병기를 묻는다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 양심안신·익기보혈 / B 자음청열·안신",
+          "detail": "A의 기혈부족과 B의 음허·허열 단서에 맞게 치법을 나눈다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-101"
+        },
+        {
+          "text": "A 청열사화 / B 온양산한",
+          "detail": "A의 부족 단서와 B의 건조·허열 방향을 모두 바꾸어 놓았다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-101"
+        },
+        {
+          "text": "A 소식도체 / B 활혈화어",
+          "detail": "음식 정체와 외상·고정통 단서가 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-101"
+        },
+        {
+          "text": "A 익기보혈 / B 온양산한",
+          "detail": "A의 방향은 맞지만 B는 냉감보다 건조·오열이 중심이다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-101"
+        },
+        {
+          "text": "A와 B 모두 강한 소식도체",
+          "detail": "두 기록의 기혈·음액 부족을 다루는 목적이 빠졌다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-101"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "A는 심비양허·기혈부족, B는 음허·허열 방향을 비교한다.",
+      "discriminator": "잠을 못 잔다는 공통 증상에 동반하는 식욕·피로와 건조·오열이 분기점이다.",
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-101"
+    },
+    {
+      "id": "clinical-acupuncture-102",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "같은 팽만에서 새로 더해진 겸증을 반영하면?",
+      "context": "교육용 기록에서 평소 쉽게 지치고 묽은 변이 반복되던 사람이 최근 무거움·오심·가래를 함께 호소했다. 기존 기허에 담습이 겹친 것으로 정리했다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "보기만 유지하고 담습 관련 변화는 기록하지 않는다.",
+          "detail": "새로 추가된 오심·무거움·가래가 치료 목표에서 빠진다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-102"
+        },
+        {
+          "text": "건비익기와 화담·이수의 역할을 나누어 구성한다.",
+          "detail": "허약을 보완하면서 담습의 정체도 다루는 병행 방향이다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-102"
+        },
+        {
+          "text": "실열만으로 정리해 사화만 시행한다.",
+          "detail": "성한 열증 단서가 없고 평소 기허·담습 구조를 반영하지 못한다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-102"
+        },
+        {
+          "text": "음식 적체만으로 정리해 소식만 한다.",
+          "detail": "만성 허약과 담습의 비중이 모두 빠진다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-102"
+        },
+        {
+          "text": "어혈만으로 정리해 활혈만 한다.",
+          "detail": "고정된 자통·외상 등 어혈 중심 단서가 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-102"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 0,
+      "explanation": "기허와 담습이 함께 있으므로 건비익기와 화담·이수의 비중을 조절한다.",
+      "discriminator": "평소 허약과 새로 생긴 정체를 주병기·겸증으로 함께 기록한다.",
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-102"
+    },
+    {
+      "id": "clinical-acupuncture-103",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "식사·배변 기록을 치료 목표로 옮기면?",
+      "context": "자체 작성한 기록에서 주증은 식후 팽만이다. 초진에는 식사량 1/2공기, 팽만 7/10, 묽은 변 하루 3회를 기록했다. 경과를 비교할 가장 직접적인 세 항목을 고른다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/diagnosis/",
+          "title": "사진·진단"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/diagnosis/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "맥 이름·설 이름·처방 이름",
+          "detail": "진찰·치료 정보이지만 제시된 식사와 배변 기능의 직접 경과값은 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-103"
+        },
+        {
+          "text": "성별·혈액형·출생 계절",
+          "detail": "초진에서 정한 기능 목표의 전후 변화를 직접 보여주지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-103"
+        },
+        {
+          "text": "식사량·팽만 점수·변 횟수와 형태",
+          "detail": "초진의 소화·배변 기능을 같은 기준으로 추적할 수 있다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-103"
+        },
+        {
+          "text": "식사량·처방 포수·진료 횟수",
+          "detail": "식사량은 맞지만 투약·방문 횟수는 팽만과 배변의 결과값을 대신하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-103"
+        },
+        {
+          "text": "체온·키·신발 크기",
+          "detail": "이번 주증의 기준값과 직접 대응하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-103"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "식사량·팽만·대변의 변화를 같은 질문과 척도로 기록한다.",
+      "discriminator": "치료수단의 양과 실제 기능 회복을 구별한다.",
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-103"
+    },
+    {
+      "id": "clinical-acupuncture-104",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "긴장에 따른 변동과 외상 후 고정통을 구분하면?",
+      "context": "A는 긴장할 때 흉협의 팽만과 통증 위치가 변하고, B는 타박 뒤 같은 자리가 찌르듯 아프다. 현대 감별을 마친 교육용 자료에서 전통 병기 연결을 묻는다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/etiology-pathogenesis/",
+          "title": "병인·병기"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/etiology-pathogenesis/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 혈허 / B 진액부족",
+          "detail": "A의 변동성 팽만과 B의 외상 후 고정통을 설명하는 중심 연결이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-104"
+        },
+        {
+          "text": "A 어혈 / B 기체",
+          "detail": "두 기록의 중심 단서를 반대로 연결했다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-104"
+        },
+        {
+          "text": "A 기체 / B 혈허",
+          "detail": "A는 맞지만 B에는 부족·건조보다 외상과 고정된 자통이 강조된다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-104"
+        },
+        {
+          "text": "A 기체 / B 어혈",
+          "detail": "변동성 팽만과 외상 후 고정 자통을 각각 기체·어혈로 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-104"
+        },
+        {
+          "text": "A 식적 / B 한습",
+          "detail": "과식과 한습·온열 반응이라는 단서가 제시되지 않았다.",
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-104"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 2,
+      "explanation": "A는 기체, B는 어혈을 검토하는 교육용 연결이다.",
+      "discriminator": "통증의 위치 변화·정서 연동과 외상·고정 자통을 구별한다.",
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-104"
+    },
+    {
+      "id": "clinical-acupuncture-105",
+      "cardId": "yuan-LU",
+      "difficulty": "expert",
+      "prompt": "주경을 폐경에서 대장경으로 바꾼 원락배혈은?",
+      "context": "첫 기록은 폐경을 주경으로 태연·편력을 선택했다. 다음 기록은 대장경을 주경으로 하여 같은 원락배혈 규칙을 적용한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/pairing-principles/",
+          "title": "배혈 원리"
+        },
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/pairing-principles/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "태연·열결",
+          "detail": "둘 다 폐경의 원혈·낙혈이므로 대장경 원혈을 주혈로 둔 조건과 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-105"
+        },
+        {
+          "text": "합곡·편력",
+          "detail": "둘 다 대장경에 속하며 표리경 낙혈 조건을 충족하지 않는다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-105"
+        },
+        {
+          "text": "양계·열결",
+          "detail": "열결은 맞지만 양계는 대장경 경혈(經穴)이고 원혈은 합곡이다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-105"
+        },
+        {
+          "text": "태연·합곡",
+          "detail": "두 경맥의 원혈끼리 조합했으므로 원락배혈의 낙혈이 빠졌다.",
+          "owner": "오답 감별",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-105"
+        },
+        {
+          "text": "합곡·열결",
+          "detail": "대장경 원혈 합곡과 표리인 폐경 낙혈 열결을 연결한다.",
+          "owner": "정답 근거",
+          "ownerId": "yuan-LU",
+          "source": "/learning/acupuncture/#clinical-acupuncture-105"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 2,
+      "explanation": "주경을 바꾸면 주경 원혈과 표리경 낙혈의 역할도 바뀐다.",
+      "discriminator": "원락배혈은 고정된 두 혈이 아니라 주경 원혈→표리경 낙혈이라는 규칙이다.",
+      "kind": "clinical",
+      "category": "원혈·낙혈·극혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-105"
+    },
+    {
+      "id": "clinical-acupuncture-106",
+      "cardId": "back-front-폐",
+      "difficulty": "expert",
+      "prompt": "폐와 심포의 수모혈 기록을 구별하면?",
+      "context": "학습표의 A는 폐 수모배혈, B는 심포 수모배혈이다. 배수혈→모혈 순서로 두 행을 완성한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/special-points-atlas/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 폐수·중부 / B 궐음수·전중",
+          "detail": "폐수·중부, 궐음수·전중로 각 장부의 수모혈을 맞춘다.",
+          "owner": "정답 근거",
+          "ownerId": "back-front-폐",
+          "source": "/learning/acupuncture/#clinical-acupuncture-106"
+        },
+        {
+          "text": "A 폐수·전중 / B 궐음수·중부",
+          "detail": "배수혈은 맞지만 폐·심포의 모혈을 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-폐",
+          "source": "/learning/acupuncture/#clinical-acupuncture-106"
+        },
+        {
+          "text": "A 심수·거궐 / B 폐수·중부",
+          "detail": "A는 심, B는 폐의 수모혈이 되어 요구된 폐·심포 순서와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-폐",
+          "source": "/learning/acupuncture/#clinical-acupuncture-106"
+        },
+        {
+          "text": "A 폐수·중부 / B 심수·거궐",
+          "detail": "A는 맞지만 B를 심포 대신 심의 수모혈로 적었다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-폐",
+          "source": "/learning/acupuncture/#clinical-acupuncture-106"
+        },
+        {
+          "text": "A 궐음수·전중 / B 폐수·중부",
+          "detail": "두 장부의 수모혈 행 전체를 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "back-front-폐",
+          "source": "/learning/acupuncture/#clinical-acupuncture-106"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "심과 심포, 폐의 배수혈·모혈을 각각 한 쌍으로 대조한다.",
+      "discriminator": "심포의 배수혈은 궐음수, 모혈은 전중이다.",
+      "kind": "clinical",
+      "category": "배수혈·모혈",
+      "source": "/learning/acupuncture/#clinical-acupuncture-106"
+    },
+    {
+      "id": "clinical-acupuncture-107",
+      "cardId": "research-결과",
+      "difficulty": "expert",
+      "prompt": "반응자 표의 분모를 같게 읽으면?",
+      "context": "자체 작성한 연구 표에서 A군 80명 중 48명, B군 120명 중 48명이 반응 기준에 도달했다. 군별 반응률과 절대 차이를 고른다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/evidence/",
+          "title": "연구 결과 읽기"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/evidence/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 48% / B 48% / 0%포인트",
+          "detail": "반응자 수 48을 백분율로 곧바로 옮겼다. 군별 분모가 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-107"
+        },
+        {
+          "text": "A 60% / B 40% / 20%포인트",
+          "detail": "48/80=60%, 48/120=40%로 반응자 수가 같아도 반응률은 다르다.",
+          "owner": "정답 근거",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-107"
+        },
+        {
+          "text": "A 60% / B 40% / 50%포인트",
+          "detail": "반응률은 맞지만 50%는 B 기준 상대 증가이며 절대 차이는 20%포인트이다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-107"
+        },
+        {
+          "text": "A 40% / B 60% / −20%포인트",
+          "detail": "A와 B의 분모에 따른 반응률을 서로 바꾸었다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-107"
+        },
+        {
+          "text": "A 80% / B 120% / −40%포인트",
+          "detail": "군별 사람 수를 반응률로 읽었다.",
+          "owner": "오답 감별",
+          "ownerId": "research-결과",
+          "source": "/learning/acupuncture/#clinical-acupuncture-107"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "각 군의 반응자 수를 해당 군 전체 인원으로 나누어 비교한다.",
+      "discriminator": "같은 반응자 48명이라도 80명과 120명이라는 분모가 다르다.",
+      "table": {
+        "caption": "조건 비교",
+        "headers": [
+          "관찰 항목",
+          "주어진 정보"
+        ],
+        "rows": [
+          [
+            "A군",
+            "48/80명"
+          ],
+          [
+            "B군",
+            "48/120명"
+          ]
+        ]
+      },
+      "kind": "clinical",
+      "category": "연구 기록",
+      "source": "/learning/acupuncture/#clinical-acupuncture-107"
+    },
+    {
+      "id": "clinical-acupuncture-108",
+      "cardId": "electro-시간",
+      "difficulty": "expert",
+      "prompt": "전침 치료량 기록에서 서로 다른 두 축은?",
+      "context": "A군은 20분씩 12회, B군은 30분씩 8회 시술했다. 모든 수치는 교육용이며 강도·파형은 별도 기록했다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/modalities/",
+          "title": "전침 프로토콜"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/modalities/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A와 B는 1회 유침시간도 치료 횟수도 같다.",
+          "detail": "총시간은 같아도 1회 시간과 횟수는 각각 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-시간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-108"
+        },
+        {
+          "text": "A 총 120분 / B 총 240분이다.",
+          "detail": "A는 20×12=240분이다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-시간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-108"
+        },
+        {
+          "text": "총 240분은 같고, 1회 시간과 횟수는 다르다.",
+          "detail": "20×12와 30×8은 모두 240분이며 시간 배분과 방문 횟수를 함께 기록한다.",
+          "owner": "정답 근거",
+          "ownerId": "electro-시간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-108"
+        },
+        {
+          "text": "총시간이 같으므로 두 프로토콜은 모든 자극 조건이 같다.",
+          "detail": "총시간은 치료량의 한 축이며 횟수·1회 시간·강도·파형도 대조한다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-시간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-108"
+        },
+        {
+          "text": "B의 1회 시간이 길므로 총시간도 반드시 길다.",
+          "detail": "1회 시간만 보면 30분이 길지만 횟수를 곱한 총시간은 같다.",
+          "owner": "오답 감별",
+          "ownerId": "electro-시간",
+          "source": "/learning/acupuncture/#clinical-acupuncture-108"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "총 유침시간과 1회 유침시간·치료 횟수는 별도 항목이다.",
+      "discriminator": "총량의 일치와 프로토콜 전체의 일치를 구별한다.",
+      "kind": "clinical",
+      "category": "전침 설계",
+      "source": "/learning/acupuncture/#clinical-acupuncture-108"
     }
   ]
 }
