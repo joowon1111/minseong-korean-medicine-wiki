@@ -150,49 +150,60 @@ def catalog(clinical, sources, saam, taegeuk):
 
 
 def portal_sources(data, sources):
-    counts = data['summary']
-    roles = counts['by_role']
+    """Render a reader guide; keep coverage and audit history in the catalog."""
     lines = [
         '<!-- ACUPOINT_SOURCES_START -->',
-        '**위치·혈명, 전통적 주치, 진료지침의 배혈, 현대 연구를 구분해 표시합니다.** '
-        '경혈 페이지의 짧은 출처 링크로 원문을 열고, 접이식 참고문헌에서 저자·기관·논문명·해당 쪽과 표를 확인할 수 있습니다.', '',
-        '| 출처의 역할 | 반영 범위 | 읽는 방법 |', '|---|---|---|',
-        '| 표준 정보 | **361경혈**의 혈명·코드·소속 경맥 대조 및 KMCRIC 개별 링크 | 위치·취혈 DB를 주치의 근거로 대신 인용하지 않습니다. |',
-        f'| 국내 문헌의 전통적 활용 | **{roles["domestic_traditional"]}경혈** | 기본 주치 외에 관련 부위·경혈군·배혈의 문헌 해석도 포함합니다. |',
-        f'| 임상진료지침의 배혈 | **{roles["guideline"]}경혈** | 질환·대상 환자·치료 방식·변증 조건을 함께 봅니다. |',
-        f'| 현대 연구의 활용·결과 | **{roles["research"]}경혈** | 사용 빈도 분석과 치료 결과를 구분합니다. 배혈 비교시험도 단일혈의 효과를 확정하지 않습니다. |', '',
-        f'기존 국내 자료 **27경혈은 보존**했습니다. 족삼리의 기본 주치를 국내 문헌으로 교체하고, '
-        f'문헌·지침을 보완하여 현재 **{counts["any_domestic_content"]}경혈**에 국내 주치·활용 자료가 연결되어 있습니다. '
-        f'**{counts["legacy_content_only"]}경혈**에는 별도로 검증한 국내 주치·활용 출처가 연결되어 있지 않습니다. '
-        '층별 경혈 수는 서로 중복됩니다.', '',
-        '**361경혈 전체의 기본 전통 주치·효능을 포괄하고 이용 범위까지 확인한 국내 공통 원문은 아직 확보하지 못했습니다.** '
-        '기존 전통 주치 요약은 유지하되, 적합한 개별 출처가 확인되지 않으면 외부 링크를 붙이지 않습니다. 위치·취혈 DB를 주치 출처로 대신 연결하지 않습니다.', '',
-        '<details markdown="1">', '<summary>국내 문헌·진료지침과 확인한 범위</summary>', '']
+        '경혈 자료는 **위치·취혈, 전통적 주치, 진료지침의 배혈, 임상시험 결과**를 나누어 읽습니다. '
+        '경혈 페이지의 출처 링크에서 원문을 열고, 접이식 참고문헌에서 저자·논문명·해당 쪽과 표를 확인할 수 있습니다.', '',
+        '| 궁금한 내용 | 확인할 자료 | 읽을 때 살필 점 |', '|---|---|---|',
+        '| 혈자리는 어디에 있나요? | WHO 표준 위치와 KMCRIC 위치·취혈 자료 | 뼈·힘줄·근육 등의 표지와 자세, 좌우·부위 확인 |',
+        '| 전통적으로 어떤 증상에 썼나요? | 고전 원문과 경혈·경혈군의 문헌연구 | 주치가 기록된 시대·문맥과 함께 사용한 혈 구성 |',
+        '| 특정 질환에서는 어떻게 배혈하나요? | 해당 질환의 한의표준임상진료지침 | 대상 환자, 일반침·전침 등 치료 방식, 기본혈·변증별 가감 |',
+        '| 어떤 치료 결과가 보고됐나요? | 무작위시험 등 사람 대상 임상연구 | 비교군, 전체 배혈·자극량·횟수, 통증·기능·추적 결과 |', '',
+        '전통적 주치는 혈자리의 활용을 이해하는 자료이고, 진료지침과 임상시험은 특정 환자군에서 치료를 선택하고 평가하는 자료입니다. '
+        '위치 자료에서는 취혈을, 주치 문헌에서는 활용의 맥락을, 임상시험에서는 치료 결과를 확인하면 서로 다른 자료가 연결됩니다.', '',
+        '### 경혈 하나에서 배혈과 평가까지 이어 읽기 {#source-reading-examples}', '',
+        '| 경혈·혈군 | 문헌과 배혈에서 볼 내용 | 다음에 읽을 자료 |', '|---|---|---|',
+        '| 족삼리 ST36 | 복부·소화 관련 전통 주치와 기능성소화불량 지침의 배혈을 함께 읽음 | [족삼리 위치·주치](../acupuncture/points/st36-zusanli.md) · [기능성소화불량 평가·치료](../conditions/functional-dyspepsia.md) |',
+        '| 태백 SP3 | 사암침 처방에서 비경 원혈인 태백을 어떤 보사 구성으로 쓰는지 확인 | [태백 위치·문헌](../acupuncture/points/sp3.md) · [사암침 정격·승격](../acupuncture-specific/saam-12-meridians.md) |',
+        '| 합곡 LI4·태충 LR3 | 각 혈의 주치와 두 혈을 묶은 사관혈의 문헌 맥락을 구분 | [합곡](../acupuncture/points/li4-hegu.md) · [태충](../acupuncture/points/lr3-taichong.md) |',
+        '| 신문 HT7·내관 PC6 | 불면 관련 배혈에서 수면·심계·긴장을 함께 평가하는 방법을 살핌 | [신문](../acupuncture/points/ht7-shenmen.md) · [내관](../acupuncture/points/pc6-neiguan.md) · [불면증](../conditions/insomnia.md) |', '',
+        '혈자리 이름을 확인한 뒤에는 **왜 이 혈들을 함께 골랐는지, 무엇을 변화시키려는지**를 읽습니다. '
+        '복부 불편은 식후포만·조기포만·오심을, 불면은 입면·야간각성·낮 기능을 나누어 기록하면 '
+        '전통 주치와 현재 환자의 치료 목표를 구체적으로 연결할 수 있습니다. '
+        '[배혈 원리](../meridian-network/special-points/index.md) · [치료 반응과 재평가](../acupuncture-clinical/response-reassessment.md).', '',
+        '### 사용 빈도와 치료 효과는 어떻게 읽나요? {#trial-interpretation}', '',
+        '경혈 사용 빈도 분석은 어떤 질환 연구에 어떤 혈이 자주 포함됐는지를 보여 줍니다. '
+        '효과의 크기는 실제 환자시험의 치료군·비교군과 결과에서 확인합니다. '
+        '2020·2021년 경혈 사용 양상 논문은 **같은 421개 임상시험** 자료를 분석하므로 '
+        '자료의 출발점이 같은 후속 분석으로 함께 읽습니다.', '',
+        '예를 들어 2020년 식후불편증후군 무작위시험은 성인 278명을 침 또는 가짜침에 배정해 '
+        '4주간 12회 치료했습니다. 4주 전체 치료 반응률은 83.0%와 51.6%, '
+        '식후포만·상복부팽만·조기포만 세 증상의 소실률은 27.8%와 17.3%로 보고됐습니다. '
+        '전반적 호전과 세 증상의 완전 소실은 서로 다른 결과입니다. '
+        '이 시험은 전체 배혈과 치료 일정의 결과이며, 개별 혈 하나의 효과를 따로 측정한 것은 아닙니다. '
+        '16주 평가 완료는 228명으로, 탈락과 시술자 눈가림의 한계도 함께 확인합니다. '
+        '[원 논문·PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/).', '',
+        '<details markdown="1">', '<summary>경혈 문헌·진료지침·임상연구 참고문헌</summary>', '']
     for key, ref in data['references'].items():
         lines += [f'- **{ref["authors"]}**. [{ref["title"]}]({ref["url"]}). '
-                  f'{ref["publication"]}. {ref["institution"]}. '
-                  f'{ref["evidence_type"]}; {counts["by_source"][key]}경혈에 반영.'
+                  f'{ref["publication"]}. {ref["institution"]}. {ref["evidence_type"]}.'
                   + (f' DOI: {ref["doi"]}.' if ref.get('doi') else '')]
-    lines += ['', '만성요통은 공개 원문을 확인한 **2020년판**의 배혈을 소개합니다. '
-              '2025년판의 등록은 확인했지만 원문을 확보하지 못하여 최신판 권고로 표시하지 않았습니다.', '',
-              '2020·2021년 경혈 사용 양상 논문은 **같은 421개 임상시험** 자료를 분석하므로 '
-              '독립적인 효과 검증 두 건으로 합산하지 않습니다. 기관 소속 연구자의 논문과 기관·학회의 공식 진료 권고도 구분합니다.', '',
-              '</details>', '', '<details markdown="1">', '<summary>표준 자료의 출처와 이용조건</summary>', '',
-              '- **[KMCRIC 표준경혈 DB](https://www.kmcric.com/database/acupoint):** 14경맥 목록의 혈명·코드를 대조했습니다. '
-              '확인한 족삼리 상세 항목은 부위·취혈·침구법으로, 주치·효능 항목은 확인되지 않았습니다. '
-              '[이용약관](https://www.kmcric.com/etc/agreement)에 따라 DB 본문·영상·이미지를 옮기지 않고 개별 링크를 제공합니다.',
+    lines += ['', '만성요통 배혈은 **2020년판 한의표준임상진료지침**을 기준으로 소개합니다. '
+              '지침을 읽을 때에는 발행 연도·대상 질환·치료 조건을 함께 확인하세요. '
+              '기관 소속 연구자의 논문은 연구 결과로, 학회·기관의 지침은 임상 권고로 구분해 읽습니다.', '',
+              '</details>', '', '<details markdown="1">', '<summary>위치 자료·원문·이용 안내</summary>', '',
+              '- **[KMCRIC 표준경혈 DB](https://www.kmcric.com/database/acupoint):** '
+              '혈명·코드와 위치·취혈 자료. [이용약관](https://www.kmcric.com/etc/agreement).',
               '- **[KM-Agent 경혈 위치 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv):** '
               'Won-Yung Lee·Ji-Hwan Kim·Jungtae Leem·Byung-Wook Lee·Seungho Lee·Young Woo Kim, 2026. '
-              '[CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE)의 기존 위치 데이터를 사용합니다. '
-              '14경혈에서 누락된 한자 이름을 KMCRIC 목록과 대조해 수정했습니다. 이 라이선스가 KMCRIC 콘텐츠 전체에 적용되는 것은 아닙니다.',
-              '- **국내 논문:** CC BY 자료와 비영리 조건이 있는 CC BY-NC 자료를 구분했습니다. '
-              '아카이브의 비영리 지위를 가정하거나 원문 표·그림·문장을 전재하지 않고, 필요한 사실 관계를 자체 문장으로 짧게 정리했습니다. '
-              '1993·2024년 경혈 문헌은 일반 재사용 허락을 확인하지 못하여 필요한 주치·배혈 사실과 원문 링크만 사용합니다. '
-              '2012년 턱관절 배혈 비교시험은 CC BY-NC-ND 조건을 확인했으며 원문·표·그림을 전재하지 않습니다.',
-              '- **NCKM 지침:** [저작권 정책](https://nikom.or.kr/nckm/html.do?menu_idx=95)과 각 지침의 판권을 확인했습니다. '
-              '배혈의 사실을 요약하며, 권고문·표를 복제하지 않습니다. 지침과 이용조건 링크를 함께 제공합니다.',
-              '- **KIOM 한의학고전DB:** [이용 안내](https://info.mediclassics.kr/document/guide/license)의 '
-              '데이터 수집·재이용 조건에 따라 고전 원문·번역문을 대량 가져오지 않았습니다.', '',
-              '각 혈의 임상 평가는 민성 한의학 아카이브의 평가·기록 안내입니다. 원문 출처가 뒷받침하는 내용과 구별해 읽습니다.', '',
+              '[CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). '
+              '이 자료의 이용조건은 KMCRIC의 본문·영상·이미지 이용조건과 별개입니다.',
+              '- **[국가한의임상정보포털](https://nikom.or.kr/nckm/):** '
+              '질환별 한의표준임상진료지침과 [저작권 정책](https://nikom.or.kr/nckm/html.do?menu_idx=95).',
+              '- **[한의학고전DB](https://mediclassics.kr/):** '
+              '고전의 원문·번역과 [자료 이용 안내](https://info.mediclassics.kr/document/guide/license).', '',
+              '논문·지침은 각 원문의 이용조건을 따릅니다. 아카이브의 한국어 해설과 평가·기록 안내는 '
+              '출처의 원문 인용·연구 결과와 구분해 표시합니다.', '',
               '</details>', '<!-- ACUPOINT_SOURCES_END -->']
     return '\n'.join(lines)
