@@ -276,7 +276,7 @@ test('five-option cases retain level filters, structured observations and wrong-
   for (const [subject, title] of Object.entries({anatomy:'기초 해부학',acupoints:'경혈학',acupuncture:'침구학',herbs:'본초학',formulas:'방제학',shanghanlun:'상한론',sasang:'사상의학'})) {
     const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
     const cases = d.questions.filter(q => q.kind === 'clinical');
-    const perLevel = { anatomy: 42, shanghanlun: 54, sasang: 54, acupoints: 44, acupuncture: 44, herbs: 44 }[subject] || 18;
+    const perLevel = { anatomy: 42, shanghanlun: 54, sasang: 54, acupoints: 54, acupuncture: 54, herbs: 54 }[subject] || 18;
     assert.equal(cases.length, perLevel * 2);
     assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'clinical', 'expert').length, perLevel);
     const h = harness(); h.button(title).events.click();
@@ -323,9 +323,9 @@ test('statement-comparison filter keeps levels, wrong answers and concept search
   for (const [subject, title] of Object.entries({acupoints:'경혈학', acupuncture:'침구학', herbs:'본초학'})) {
     const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
     const p = study.emptyProgress();
-    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison').length, 52);
-    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison', 'high').length, 26);
-    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison', 'expert').length, 26);
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison').length, 64);
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison', 'high').length, 32);
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison', 'expert').length, 32);
     const q = d.questions.find(q => q.topic === 'statement-comparison' && q.id.endsWith('-49'));
     p.wrong.push(q.id);
     assert.deepEqual(study.filteredQuestions(d, p, '', '', true, 'comparison').map(q => q.id), [q.id]);
@@ -336,7 +336,7 @@ test('statement-comparison filter keeps levels, wrong answers and concept search
     h.select('문제 유형').value = 'comparison'; h.select('문제 유형').events.change();
     h.select('문제 난이도').value = 'expert'; h.select('문제 난이도').events.change();
     assert.equal(h.select('문제 유형').value, 'comparison');
-    assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 26문제')));
+    assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 32문제')));
     h.button('10문제 풀기').events.click();
     assert.ok(all(h.root).some(e => e.tagName === 'table'));
   }

@@ -33976,6 +33976,4933 @@
         }
       ],
       "relatedSource": "/acupuncture/points/gb39-xuanzhong/"
+    },
+    {
+      "id": "clinical-acupuncture-89",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "허한과 허열의 치법을 교차 비교하기 — 옳은 설명을 모두 고른 것은?",
+      "context": "두 교육용 기록은 모두 오래된 허약을 전제로 한다. A는 냉감·무력·묽은 변, B는 건조·오열·야간 증상이 중심이다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "A와 B 모두 허증이므로 A에서도 청허열이 주된 치법이다.",
+          "correct": false,
+          "reason": "허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다."
+        },
+        {
+          "text": "B에서는 자음·생진과 허열 조절을 함께 살핀다.",
+          "correct": true,
+          "reason": "건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다."
+        },
+        {
+          "text": "두 기록은 허증이므로 한열 치법도 같아야 한다.",
+          "correct": false,
+          "reason": "허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ: 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ: 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ: 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ: 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "ㄱ은 다음과 같이 고친다. 허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. ㄴ은 옳다. 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. ㄷ은 다음과 같이 고친다. 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다.",
+      "discriminator": "허증 안에서도 A의 냉감·무력은 온양·온리, B의 건조·오열은 자음청열로 나눈다. 건조와 허열 단서는 음액 보완과 청허열의 방향을 연결한다. 허실과 한열은 별도 축이므로 허증 안에서도 온양과 자음청열이 갈린다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "A와 B 모두 허증이므로 A에서도 청허열이 주된 치법이다."
+          ],
+          [
+            "ㄴ",
+            "B에서는 자음·생진과 허열 조절을 함께 살핀다."
+          ],
+          [
+            "ㄷ",
+            "두 기록은 허증이므로 한열 치법도 같아야 한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-90",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "변증·치법·치료수단의 구분 — 옳은 설명을 모두 고른 것은?",
+      "context": "학습자가 기체, 소간이기, 침·한약이라는 세 항목을 진료 기록의 서로 다른 층에 배치한다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "소간이기는 개별 약재의 이름이다.",
+          "correct": false,
+          "reason": "소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다."
+        },
+        {
+          "text": "침과 한약은 치법을 구현할 때 선택하는 치료수단이다.",
+          "correct": true,
+          "reason": "주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다."
+        },
+        {
+          "text": "기체는 기의 울체를 설명하는 병기이다.",
+          "correct": true,
+          "reason": "기체는 팽만·긴장·변동성 통증을 묶는 병기이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 기체는 팽만·긴장·변동성 통증을 묶는 병기이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄴ: 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다. ㄷ: 기체는 팽만·긴장·변동성 통증을 묶는 병기이다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄷ: 기체는 팽만·긴장·변동성 통증을 묶는 병기이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄴ: 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. ㄴ은 옳다. 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다. ㄷ은 옳다. 기체는 팽만·긴장·변동성 통증을 묶는 병기이다.",
+      "discriminator": "소간이기는 치료 방향인 치법이며 구체 처방·약재와 구분한다. 주병기와 목표에 맞게 침·한약 등 치료수단을 구성한다. 기체는 팽만·긴장·변동성 통증을 묶는 병기이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "소간이기는 개별 약재의 이름이다."
+          ],
+          [
+            "ㄴ",
+            "침과 한약은 치법을 구현할 때 선택하는 치료수단이다."
+          ],
+          [
+            "ㄷ",
+            "기체는 기의 울체를 설명하는 병기이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-91",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "식후 불편의 시간축과 평소 소화력 — 옳은 설명을 모두 고른 것은?",
+      "context": "A는 평소 소화가 좋다가 과식 직후 팽만·트림이 생겼고, B는 소량 식사 뒤 피로와 묽은 변이 오래 반복된다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/etiology-pathogenesis/",
+          "title": "병인·병기"
+        },
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/etiology-pathogenesis/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "급성 음식 정체와 평소 허약의 비중을 나누어 치법을 비교한다.",
+          "correct": true,
+          "reason": "과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다."
+        },
+        {
+          "text": "A의 과식 직후 발생은 식적 가설을 검토할 단서이다.",
+          "correct": true,
+          "reason": "유발 시점과 음식량을 확인하며 식적·기체를 비교한다."
+        },
+        {
+          "text": "B는 평소 비위기허와 운화 저하를 함께 살필 수 있다.",
+          "correct": true,
+          "reason": "소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. ㄴ: 유발 시점과 음식량을 확인하며 식적·기체를 비교한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. ㄴ: 유발 시점과 음식량을 확인하며 식적·기체를 비교한다. ㄷ: 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 유발 시점과 음식량을 확인하며 식적·기체를 비교한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. ㄴ은 옳다. 유발 시점과 음식량을 확인하며 식적·기체를 비교한다. ㄷ은 옳다. 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다.",
+      "discriminator": "과식 뒤 급성 정체에는 소식도체, 평소 비위기허에는 건비·보기의 필요성을 비교한다. 유발 시점과 음식량을 확인하며 식적·기체를 비교한다. 소량 식후 피로와 만성 묽은 변은 비위 기능과 기허를 살피는 단서이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "급성 음식 정체와 평소 허약의 비중을 나누어 치법을 비교한다."
+          ],
+          [
+            "ㄴ",
+            "A의 과식 직후 발생은 식적 가설을 검토할 단서이다."
+          ],
+          [
+            "ㄷ",
+            "B는 평소 비위기허와 운화 저하를 함께 살필 수 있다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-92",
+      "subject": "acupuncture",
+      "cardId": "research-결과",
+      "difficulty": "high",
+      "prompt": "치료 반응을 비교할 기준값 — 옳은 설명을 모두 고른 것은?",
+      "context": "한 교육용 기록에서 통증 강도만 적던 방식을 바꾸어 활동과 수면도 함께 관찰하려 한다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/diagnosis/",
+          "title": "사진·진단"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/diagnosis/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "통증 0~10점과 보행시간은 같은 척도의 다른 표현이다.",
+          "correct": false,
+          "reason": "통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다."
+        },
+        {
+          "text": "재진마다 척도를 바꾸면 경과 비교가 더 정확해진다.",
+          "correct": false,
+          "reason": "같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다."
+        },
+        {
+          "text": "각성 횟수와 총수면시간을 초진부터 남길 수 있다.",
+          "correct": true,
+          "reason": "수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄴ: 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄴ: 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄴ: 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다. ㄷ: 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄷ: 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. ㄴ은 다음과 같이 고친다. 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다. ㄷ은 옳다. 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다.",
+      "discriminator": "통증 강도와 활동 기능은 별도 결과지표로 각각 같은 기준을 유지해 기록한다. 같은 척도·질문·관찰 조건을 유지해야 전후 비교가 수월하다. 수면은 각성 횟수·총수면시간처럼 관찰 가능한 기준값을 기록한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "통증 0~10점과 보행시간은 같은 척도의 다른 표현이다."
+          ],
+          [
+            "ㄴ",
+            "재진마다 척도를 바꾸면 경과 비교가 더 정확해진다."
+          ],
+          [
+            "ㄷ",
+            "각성 횟수와 총수면시간을 초진부터 남길 수 있다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-93",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "관찰 사실과 병기 가설을 나누기 — 옳은 설명을 모두 고른 것은?",
+      "context": "환자가 “긴장한 날 명치가 더 답답했다”고 말했고, 진찰자는 기체와 비위 기능을 함께 검토했다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/diagnosis/",
+          "title": "사진·진단"
+        },
+        {
+          "url": "/foundations-integrated/etiology-pathogenesis/",
+          "title": "병인·병기"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/diagnosis/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "기체는 그 관찰을 설명하려는 병기 가설이다.",
+          "correct": true,
+          "reason": "병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다."
+        },
+        {
+          "text": "관찰과 가설은 재진 때 같은 항목으로 합쳐 기록해야 한다.",
+          "correct": false,
+          "reason": "관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다."
+        },
+        {
+          "text": "긴장한 날 악화됐다는 말은 문진에서 얻은 관찰 정보이다.",
+          "correct": true,
+          "reason": "발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄷ: 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. ㄷ: 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ: 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. ㄷ: 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. ㄴ은 다음과 같이 고친다. 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. ㄷ은 옳다. 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다.",
+      "discriminator": "병기는 여러 정보를 연결하는 해석으로 경과에 따라 재평가한다. 관찰된 변화와 그 의미를 나누면 재진에서 가설을 검토하기 쉽다. 발현 시점과 유발 상황은 환자가 보고한 사실로 기록한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "기체는 그 관찰을 설명하려는 병기 가설이다."
+          ],
+          [
+            "ㄴ",
+            "관찰과 가설은 재진 때 같은 항목으로 합쳐 기록해야 한다."
+          ],
+          [
+            "ㄷ",
+            "긴장한 날 악화됐다는 말은 문진에서 얻은 관찰 정보이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-94",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "한습 통증과 어혈 통증의 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "교육용 A는 찬 환경에서 무겁고 아프며 온열에 편해지고, B는 타박 뒤 한 부위가 고정되어 찌르듯 아프다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "통증이라는 공통점만으로 A와 B의 주병기를 같게 적는다.",
+          "correct": false,
+          "reason": "통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다."
+        },
+        {
+          "text": "A는 산한제습·온경통락을 검토하는 방향이다.",
+          "correct": true,
+          "reason": "냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다."
+        },
+        {
+          "text": "B는 활혈화어·통락을 검토하는 방향이다.",
+          "correct": true,
+          "reason": "외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. ㄴ: 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. ㄷ: 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. ㄴ: 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. ㄷ: 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 다음과 같이 고친다. 통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. ㄴ은 옳다. 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. ㄷ은 옳다. 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다.",
+      "discriminator": "통증의 성질·유발요인·시간축에 따라 주병기와 치법을 구분한다. 냉감·무거움·온열 반응을 묶어 한습의 비중을 살핀다. 외상 뒤 고정된 찌르는 통증은 어혈 가설을 검토하는 단서이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "통증이라는 공통점만으로 A와 B의 주병기를 같게 적는다."
+          ],
+          [
+            "ㄴ",
+            "A는 산한제습·온경통락을 검토하는 방향이다."
+          ],
+          [
+            "ㄷ",
+            "B는 활혈화어·통락을 검토하는 방향이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-95",
+      "subject": "acupuncture",
+      "cardId": "shu-point-TE3",
+      "difficulty": "expert",
+      "prompt": "수혈과 원혈이 겹치는 조건 — 옳은 설명을 모두 고른 것은?",
+      "context": "오수혈의 수혈(兪穴)과 원혈을 두 분류축으로 대조한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/five-shu/",
+          "title": "오수혈 60혈"
+        },
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/five-shu/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "태백은 비경 수혈이고 원혈은 따로 공손이다.",
+          "correct": false,
+          "reason": "태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다."
+        },
+        {
+          "text": "삼간은 대장경 원혈이다.",
+          "correct": false,
+          "reason": "삼간은 대장경 수혈이고 대장경 원혈은 합곡이다."
+        },
+        {
+          "text": "중저는 삼초경 수혈이며 원혈은 양지이다.",
+          "correct": true,
+          "reason": "양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄴ: 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄴ: 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄴ: 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ: 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 4,
+      "explanation": "ㄱ은 다음과 같이 고친다. 태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. ㄴ은 다음과 같이 고친다. 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. ㄷ은 옳다. 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+      "discriminator": "태백은 비경 수혈·원혈을 겸하고 공손은 낙혈이다. 삼간은 대장경 수혈이고 대장경 원혈은 합곡이다. 양경인 삼초경에서는 중저와 양지를 수혈·원혈로 구분한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "태백은 비경 수혈이고 원혈은 따로 공손이다."
+          ],
+          [
+            "ㄴ",
+            "삼간은 대장경 원혈이다."
+          ],
+          [
+            "ㄷ",
+            "중저는 삼초경 수혈이며 원혈은 양지이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-96",
+      "subject": "acupuncture",
+      "cardId": "meeting-장회",
+      "difficulty": "expert",
+      "prompt": "소속 경맥과 팔회혈 분류를 따로 읽기 — 옳은 설명을 모두 고른 것은?",
+      "context": "장회·부회·기회가 어떤 경맥에 속하는지 대조한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/special-points-atlas/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "중완은 위의 모혈이므로 위경에 속한다.",
+          "correct": false,
+          "reason": "중완는 임맥에 속하며 위 모혈·부회로 분류한다."
+        },
+        {
+          "text": "전중은 임맥의 경혈이며 기회이다.",
+          "correct": true,
+          "reason": "전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다."
+        },
+        {
+          "text": "장문은 간경에 속하면서 장회로 분류된다.",
+          "correct": true,
+          "reason": "장문은 간경 소속과 장회 속성을 함께 가진다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 장문은 간경 소속과 장회 속성을 함께 가진다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄴ: 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다. ㄷ: 장문은 간경 소속과 장회 속성을 함께 가진다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄷ: 장문은 간경 소속과 장회 속성을 함께 가진다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄴ: 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 중완는 임맥에 속하며 위 모혈·부회로 분류한다. ㄴ은 옳다. 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다. ㄷ은 옳다. 장문은 간경 소속과 장회 속성을 함께 가진다.",
+      "discriminator": "중완는 임맥에 속하며 위 모혈·부회로 분류한다. 전중의 소속 경맥은 임맥이고 팔회 분류는 기회이다. 장문은 간경 소속과 장회 속성을 함께 가진다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "중완은 위의 모혈이므로 위경에 속한다."
+          ],
+          [
+            "ㄴ",
+            "전중은 임맥의 경혈이며 기회이다."
+          ],
+          [
+            "ㄷ",
+            "장문은 간경에 속하면서 장회로 분류된다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-97",
+      "subject": "acupuncture",
+      "cardId": "lower-삼초",
+      "difficulty": "expert",
+      "prompt": "육부 대응과 경맥 소속을 교차 확인하기 — 옳은 설명을 모두 고른 것은?",
+      "context": "하합혈을 육부 이름과 소속 경맥으로 나누어 기록한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/special-points-atlas/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "양릉천은 담경 합혈과 담 하합혈을 겸한다.",
+          "correct": true,
+          "reason": "양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다."
+        },
+        {
+          "text": "위양은 삼초 하합혈이며 방광경에 속한다.",
+          "correct": true,
+          "reason": "위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다."
+        },
+        {
+          "text": "하거허는 위경에 속하며 소장 하합혈에 대응한다.",
+          "correct": true,
+          "reason": "경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. ㄴ: 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. ㄴ: 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다. ㄷ: 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. ㄴ은 옳다. 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다. ㄷ은 옳다. 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다.",
+      "discriminator": "양릉천은 담경 합혈·담 하합혈·근회 속성이 겹친다. 위양은 방광경 소속과 삼초 하합혈 대응을 구분해 읽는다. 경맥 소속인 위경과 육부 대응인 소장을 분리해 적는다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "양릉천은 담경 합혈과 담 하합혈을 겸한다."
+          ],
+          [
+            "ㄴ",
+            "위양은 삼초 하합혈이며 방광경에 속한다."
+          ],
+          [
+            "ㄷ",
+            "하거허는 위경에 속하며 소장 하합혈에 대응한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-98",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "expert",
+      "prompt": "한 배혈을 두 공간 분류로 설명하기 — 옳은 설명을 모두 고른 것은?",
+      "context": "어깨 부위의 근위혈과 반대쪽 하지의 원위혈을 함께 선택한 교육용 배혈을 분류한다. 특정 원락·수모 관계는 제시하지 않았다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/pairing-principles/",
+          "title": "배혈 원리"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/pairing-principles/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "어깨 근위혈과 하지 원위혈의 조합은 같은 부위의 근위혈끼리 묶은 것이다.",
+          "correct": false,
+          "reason": "어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다."
+        },
+        {
+          "text": "상지·하지의 배치에서는 상하배혈로도 설명할 수 있다.",
+          "correct": true,
+          "reason": "같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다."
+        },
+        {
+          "text": "상하배혈로 분류되면 원근배혈로는 분류할 수 없다.",
+          "correct": false,
+          "reason": "원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ: 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ: 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ: 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. ㄷ: 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 다음과 같이 고친다. 어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. ㄴ은 옳다. 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. ㄷ은 다음과 같이 고친다. 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+      "discriminator": "어깨 증상 부근의 혈과 멀리 떨어진 하지 혈은 원근 관계이다. 같은 조합을 상지·하지라는 공간축으로 보면 상하배혈이 된다. 원근과 상하는 서로 다른 기준이므로 같은 조합에 함께 적용할 수 있다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "어깨 근위혈과 하지 원위혈의 조합은 같은 부위의 근위혈끼리 묶은 것이다."
+          ],
+          [
+            "ㄴ",
+            "상지·하지의 배치에서는 상하배혈로도 설명할 수 있다."
+          ],
+          [
+            "ㄷ",
+            "상하배혈로 분류되면 원근배혈로는 분류할 수 없다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-99",
+      "subject": "acupuncture",
+      "cardId": "electro-주파수·파형",
+      "difficulty": "expert",
+      "prompt": "전침 주파수 비교의 공통 조건 — 옳은 설명을 모두 고른 것은?",
+      "context": "두 전침군의 주파수 차이를 비교하는 교육용 연구 계획이다. A는 2Hz, B는 100Hz로 정했다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/modalities/",
+          "title": "전침 프로토콜"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/modalities/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "A만 치료 횟수가 두 배여도 군 간 차이는 주파수 차이만 나타낸다.",
+          "correct": false,
+          "reason": "횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다."
+        },
+        {
+          "text": "주파수 외 조건을 맞추면 주파수 비교의 해석이 선명해진다.",
+          "correct": true,
+          "reason": "공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다."
+        },
+        {
+          "text": "혈위·강도·시간·치료 횟수를 함께 기록한다.",
+          "correct": true,
+          "reason": "전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ: 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. ㄷ: 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ: 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ: 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. ㄷ: 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 다음과 같이 고친다. 횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. ㄴ은 옳다. 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. ㄷ은 옳다. 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다.",
+      "discriminator": "횟수도 달라지면 군 간 차이에 주파수와 치료량의 차이가 함께 들어간다. 공통 조건을 맞추고 병용치료도 기록하면 비교하려는 차이를 분명히 할 수 있다. 전침 중재는 주파수와 함께 자극 부위·강도·시간·횟수를 기술한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "A만 치료 횟수가 두 배여도 군 간 차이는 주파수 차이만 나타낸다."
+          ],
+          [
+            "ㄴ",
+            "주파수 외 조건을 맞추면 주파수 비교의 해석이 선명해진다."
+          ],
+          [
+            "ㄷ",
+            "혈위·강도·시간·치료 횟수를 함께 기록한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-100",
+      "subject": "acupuncture",
+      "cardId": "research-결과",
+      "difficulty": "expert",
+      "prompt": "반응률의 절대 차이와 상대비 — 옳은 설명을 모두 고른 것은?",
+      "context": "교육용 시험에서 미리 정한 반응 기준을 충족한 사람이 A군 60/100명, B군 40/100명이었다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/evidence/",
+          "title": "연구 결과 읽기"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/evidence/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "절대 차이 20%포인트와 상대 증가 50%는 같은 수치 표현이다.",
+          "correct": false,
+          "reason": "절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다."
+        },
+        {
+          "text": "반응률의 절대 차이는 20%포인트이다.",
+          "correct": true,
+          "reason": "60%에서 40%를 빼면 20%포인트이다."
+        },
+        {
+          "text": "반응률의 상대비 A/B는 1.5이다.",
+          "correct": true,
+          "reason": "0.60을 0.40으로 나누면 1.5이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. ㄴ: 60%에서 40%를 빼면 20%포인트이다. ㄷ: 0.60을 0.40으로 나누면 1.5이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. ㄴ: 60%에서 40%를 빼면 20%포인트이다. ㄷ: 0.60을 0.40으로 나누면 1.5이다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 0.60을 0.40으로 나누면 1.5이다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 60%에서 40%를 빼면 20%포인트이다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. ㄴ은 옳다. 60%에서 40%를 빼면 20%포인트이다. ㄷ은 옳다. 0.60을 0.40으로 나누면 1.5이다.",
+      "discriminator": "절대 차이는 20%포인트, B를 기준으로 한 상대 증가는 (60−40)/40=50%이다. 60%에서 40%를 빼면 20%포인트이다. 0.60을 0.40으로 나누면 1.5이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "절대 차이 20%포인트와 상대 증가 50%는 같은 수치 표현이다."
+          ],
+          [
+            "ㄴ",
+            "반응률의 절대 차이는 20%포인트이다."
+          ],
+          [
+            "ㄷ",
+            "반응률의 상대비 A/B는 1.5이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-101",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "두 불면 기록에서 치법 방향을 나누면?",
+      "context": "실제 환자와 무관한 비교이다. A는 오래된 피로·식욕저하·두근거림, B는 건조·오열·야간각성이 중심이며 각각의 주병기를 묻는다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 양심안신·익기보혈 / B 자음청열·안신",
+          "detail": "A의 기혈부족과 B의 음허·허열 단서에 맞게 치법을 나눈다."
+        },
+        {
+          "text": "A 청열사화 / B 온양산한",
+          "detail": "A의 부족 단서와 B의 건조·허열 방향을 모두 바꾸어 놓았다."
+        },
+        {
+          "text": "A 소식도체 / B 활혈화어",
+          "detail": "음식 정체와 외상·고정통 단서가 제시되지 않았다."
+        },
+        {
+          "text": "A 익기보혈 / B 온양산한",
+          "detail": "A의 방향은 맞지만 B는 냉감보다 건조·오열이 중심이다."
+        },
+        {
+          "text": "A와 B 모두 강한 소식도체",
+          "detail": "두 기록의 기혈·음액 부족을 다루는 목적이 빠졌다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "A는 심비양허·기혈부족, B는 음허·허열 방향을 비교한다.",
+      "discriminator": "잠을 못 잔다는 공통 증상에 동반하는 식욕·피로와 건조·오열이 분기점이다."
+    },
+    {
+      "id": "clinical-acupuncture-102",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "같은 팽만에서 새로 더해진 겸증을 반영하면?",
+      "context": "교육용 기록에서 평소 쉽게 지치고 묽은 변이 반복되던 사람이 최근 무거움·오심·가래를 함께 호소했다. 기존 기허에 담습이 겹친 것으로 정리했다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/pattern-treatment/",
+          "title": "변증·치법"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/pattern-treatment/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "보기만 유지하고 담습 관련 변화는 기록하지 않는다.",
+          "detail": "새로 추가된 오심·무거움·가래가 치료 목표에서 빠진다."
+        },
+        {
+          "text": "건비익기와 화담·이수의 역할을 나누어 구성한다.",
+          "detail": "허약을 보완하면서 담습의 정체도 다루는 병행 방향이다."
+        },
+        {
+          "text": "실열만으로 정리해 사화만 시행한다.",
+          "detail": "성한 열증 단서가 없고 평소 기허·담습 구조를 반영하지 못한다."
+        },
+        {
+          "text": "음식 적체만으로 정리해 소식만 한다.",
+          "detail": "만성 허약과 담습의 비중이 모두 빠진다."
+        },
+        {
+          "text": "어혈만으로 정리해 활혈만 한다.",
+          "detail": "고정된 자통·외상 등 어혈 중심 단서가 제시되지 않았다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 0,
+      "explanation": "기허와 담습이 함께 있으므로 건비익기와 화담·이수의 비중을 조절한다.",
+      "discriminator": "평소 허약과 새로 생긴 정체를 주병기·겸증으로 함께 기록한다."
+    },
+    {
+      "id": "clinical-acupuncture-103",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "식사·배변 기록을 치료 목표로 옮기면?",
+      "context": "자체 작성한 기록에서 주증은 식후 팽만이다. 초진에는 식사량 1/2공기, 팽만 7/10, 묽은 변 하루 3회를 기록했다. 경과를 비교할 가장 직접적인 세 항목을 고른다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/diagnosis/",
+          "title": "사진·진단"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/diagnosis/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "맥 이름·설 이름·처방 이름",
+          "detail": "진찰·치료 정보이지만 제시된 식사와 배변 기능의 직접 경과값은 아니다."
+        },
+        {
+          "text": "성별·혈액형·출생 계절",
+          "detail": "초진에서 정한 기능 목표의 전후 변화를 직접 보여주지 않는다."
+        },
+        {
+          "text": "식사량·팽만 점수·변 횟수와 형태",
+          "detail": "초진의 소화·배변 기능을 같은 기준으로 추적할 수 있다."
+        },
+        {
+          "text": "식사량·처방 포수·진료 횟수",
+          "detail": "식사량은 맞지만 투약·방문 횟수는 팽만과 배변의 결과값을 대신하지 않는다."
+        },
+        {
+          "text": "체온·키·신발 크기",
+          "detail": "이번 주증의 기준값과 직접 대응하지 않는다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "식사량·팽만·대변의 변화를 같은 질문과 척도로 기록한다.",
+      "discriminator": "치료수단의 양과 실제 기능 회복을 구별한다."
+    },
+    {
+      "id": "clinical-acupuncture-104",
+      "subject": "acupuncture",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "prompt": "긴장에 따른 변동과 외상 후 고정통을 구분하면?",
+      "context": "A는 긴장할 때 흉협의 팽만과 통증 위치가 변하고, B는 타박 뒤 같은 자리가 찌르듯 아프다. 현대 감별을 마친 교육용 자료에서 전통 병기 연결을 묻는다.",
+      "references": [
+        {
+          "url": "/foundations-integrated/etiology-pathogenesis/",
+          "title": "병인·병기"
+        }
+      ],
+      "relatedSource": "/foundations-integrated/etiology-pathogenesis/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 혈허 / B 진액부족",
+          "detail": "A의 변동성 팽만과 B의 외상 후 고정통을 설명하는 중심 연결이 다르다."
+        },
+        {
+          "text": "A 어혈 / B 기체",
+          "detail": "두 기록의 중심 단서를 반대로 연결했다."
+        },
+        {
+          "text": "A 기체 / B 혈허",
+          "detail": "A는 맞지만 B에는 부족·건조보다 외상과 고정된 자통이 강조된다."
+        },
+        {
+          "text": "A 기체 / B 어혈",
+          "detail": "변동성 팽만과 외상 후 고정 자통을 각각 기체·어혈로 연결한다."
+        },
+        {
+          "text": "A 식적 / B 한습",
+          "detail": "과식과 한습·온열 반응이라는 단서가 제시되지 않았다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 2,
+      "explanation": "A는 기체, B는 어혈을 검토하는 교육용 연결이다.",
+      "discriminator": "통증의 위치 변화·정서 연동과 외상·고정 자통을 구별한다."
+    },
+    {
+      "id": "clinical-acupuncture-105",
+      "subject": "acupuncture",
+      "cardId": "yuan-LU",
+      "difficulty": "expert",
+      "prompt": "주경을 폐경에서 대장경으로 바꾼 원락배혈은?",
+      "context": "첫 기록은 폐경을 주경으로 태연·편력을 선택했다. 다음 기록은 대장경을 주경으로 하여 같은 원락배혈 규칙을 적용한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/pairing-principles/",
+          "title": "배혈 원리"
+        },
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/pairing-principles/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "태연·열결",
+          "detail": "둘 다 폐경의 원혈·낙혈이므로 대장경 원혈을 주혈로 둔 조건과 다르다."
+        },
+        {
+          "text": "합곡·편력",
+          "detail": "둘 다 대장경에 속하며 표리경 낙혈 조건을 충족하지 않는다."
+        },
+        {
+          "text": "양계·열결",
+          "detail": "열결은 맞지만 양계는 대장경 경혈(經穴)이고 원혈은 합곡이다."
+        },
+        {
+          "text": "태연·합곡",
+          "detail": "두 경맥의 원혈끼리 조합했으므로 원락배혈의 낙혈이 빠졌다."
+        },
+        {
+          "text": "합곡·열결",
+          "detail": "대장경 원혈 합곡과 표리인 폐경 낙혈 열결을 연결한다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 2,
+      "explanation": "주경을 바꾸면 주경 원혈과 표리경 낙혈의 역할도 바뀐다.",
+      "discriminator": "원락배혈은 고정된 두 혈이 아니라 주경 원혈→표리경 낙혈이라는 규칙이다."
+    },
+    {
+      "id": "clinical-acupuncture-106",
+      "subject": "acupuncture",
+      "cardId": "back-front-폐",
+      "difficulty": "expert",
+      "prompt": "폐와 심포의 수모혈 기록을 구별하면?",
+      "context": "학습표의 A는 폐 수모배혈, B는 심포 수모배혈이다. 배수혈→모혈 순서로 두 행을 완성한다.",
+      "references": [
+        {
+          "url": "/acupuncture-specific/special-points-atlas/",
+          "title": "특정혈 아틀라스"
+        }
+      ],
+      "relatedSource": "/acupuncture-specific/special-points-atlas/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 폐수·중부 / B 궐음수·전중",
+          "detail": "폐수·중부, 궐음수·전중로 각 장부의 수모혈을 맞춘다."
+        },
+        {
+          "text": "A 폐수·전중 / B 궐음수·중부",
+          "detail": "배수혈은 맞지만 폐·심포의 모혈을 바꾸었다."
+        },
+        {
+          "text": "A 심수·거궐 / B 폐수·중부",
+          "detail": "A는 심, B는 폐의 수모혈이 되어 요구된 폐·심포 순서와 다르다."
+        },
+        {
+          "text": "A 폐수·중부 / B 심수·거궐",
+          "detail": "A는 맞지만 B를 심포 대신 심의 수모혈로 적었다."
+        },
+        {
+          "text": "A 궐음수·전중 / B 폐수·중부",
+          "detail": "두 장부의 수모혈 행 전체를 바꾸었다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "심과 심포, 폐의 배수혈·모혈을 각각 한 쌍으로 대조한다.",
+      "discriminator": "심포의 배수혈은 궐음수, 모혈은 전중이다."
+    },
+    {
+      "id": "clinical-acupuncture-107",
+      "subject": "acupuncture",
+      "cardId": "research-결과",
+      "difficulty": "expert",
+      "prompt": "반응자 표의 분모를 같게 읽으면?",
+      "context": "자체 작성한 연구 표에서 A군 80명 중 48명, B군 120명 중 48명이 반응 기준에 도달했다. 군별 반응률과 절대 차이를 고른다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/evidence/",
+          "title": "연구 결과 읽기"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/evidence/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 48% / B 48% / 0%포인트",
+          "detail": "반응자 수 48을 백분율로 곧바로 옮겼다. 군별 분모가 다르다."
+        },
+        {
+          "text": "A 60% / B 40% / 20%포인트",
+          "detail": "48/80=60%, 48/120=40%로 반응자 수가 같아도 반응률은 다르다."
+        },
+        {
+          "text": "A 60% / B 40% / 50%포인트",
+          "detail": "반응률은 맞지만 50%는 B 기준 상대 증가이며 절대 차이는 20%포인트이다."
+        },
+        {
+          "text": "A 40% / B 60% / −20%포인트",
+          "detail": "A와 B의 분모에 따른 반응률을 서로 바꾸었다."
+        },
+        {
+          "text": "A 80% / B 120% / −40%포인트",
+          "detail": "군별 사람 수를 반응률로 읽었다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "각 군의 반응자 수를 해당 군 전체 인원으로 나누어 비교한다.",
+      "discriminator": "같은 반응자 48명이라도 80명과 120명이라는 분모가 다르다.",
+      "table": {
+        "caption": "조건 비교",
+        "headers": [
+          "관찰 항목",
+          "주어진 정보"
+        ],
+        "rows": [
+          [
+            "A군",
+            "48/80명"
+          ],
+          [
+            "B군",
+            "48/120명"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupuncture-108",
+      "subject": "acupuncture",
+      "cardId": "electro-시간",
+      "difficulty": "expert",
+      "prompt": "전침 치료량 기록에서 서로 다른 두 축은?",
+      "context": "A군은 20분씩 12회, B군은 30분씩 8회 시술했다. 모든 수치는 교육용이며 강도·파형은 별도 기록했다.",
+      "references": [
+        {
+          "url": "/acupuncture-integrated/modalities/",
+          "title": "전침 프로토콜"
+        }
+      ],
+      "relatedSource": "/acupuncture-integrated/modalities/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A와 B는 1회 유침시간도 치료 횟수도 같다.",
+          "detail": "총시간은 같아도 1회 시간과 횟수는 각각 다르다."
+        },
+        {
+          "text": "A 총 120분 / B 총 240분이다.",
+          "detail": "A는 20×12=240분이다."
+        },
+        {
+          "text": "총 240분은 같고, 1회 시간과 횟수는 다르다.",
+          "detail": "20×12와 30×8은 모두 240분이며 시간 배분과 방문 횟수를 함께 기록한다."
+        },
+        {
+          "text": "총시간이 같으므로 두 프로토콜은 모든 자극 조건이 같다.",
+          "detail": "총시간은 치료량의 한 축이며 횟수·1회 시간·강도·파형도 대조한다."
+        },
+        {
+          "text": "B의 1회 시간이 길므로 총시간도 반드시 길다.",
+          "detail": "1회 시간만 보면 30분이 길지만 횟수를 곱한 총시간은 같다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "총 유침시간과 1회 유침시간·치료 횟수는 별도 항목이다.",
+      "discriminator": "총량의 일치와 프로토콜 전체의 일치를 구별한다."
+    },
+    {
+      "id": "clinical-herbs-89",
+      "subject": "herbs",
+      "cardId": "herb-perilla-leaf",
+      "difficulty": "high",
+      "prompt": "자소엽과 자소자의 부위·방향 — 옳은 설명을 모두 고른 것은?",
+      "context": "같은 차조기 계열의 약재를 부위와 전통 효능으로 비교한다.",
+      "references": [
+        {
+          "url": "/herbs/perilla-leaf/",
+          "title": "자소엽(紫蘇葉)"
+        },
+        {
+          "url": "/herbs/perilla-fruit/",
+          "title": "자소자·소자(紫蘇子)"
+        }
+      ],
+      "relatedSource": "/herbs/perilla-leaf/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "자소엽은 잎을 쓰며 강기화담·윤장을 중심으로 한다.",
+          "correct": false,
+          "reason": "자소엽의 중심은 해표·행기화위이고 강기화담·윤장은 열매인 자소자와 비교한다."
+        },
+        {
+          "text": "자소자는 뿌리를 쓰며 보기건비를 중심으로 한다.",
+          "correct": false,
+          "reason": "자소자는 성숙한 열매를 쓰며 강기화담·평천·윤장을 살핀다."
+        },
+        {
+          "text": "같은 기원 계열이어도 두 약재는 처방 안의 역할을 나누어 읽는다.",
+          "correct": true,
+          "reason": "자소엽의 해표·행기와 자소자의 강기화담은 부위·배합 목적이 다르다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 자소엽의 중심은 해표·행기화위이고 강기화담·윤장은 열매인 자소자와 비교한다. ㄷ: 자소엽의 해표·행기와 자소자의 강기화담은 부위·배합 목적이 다르다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄴ: 자소자는 성숙한 열매를 쓰며 강기화담·평천·윤장을 살핀다. ㄷ: 자소엽의 해표·행기와 자소자의 강기화담은 부위·배합 목적이 다르다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 자소엽의 중심은 해표·행기화위이고 강기화담·윤장은 열매인 자소자와 비교한다. ㄴ: 자소자는 성숙한 열매를 쓰며 강기화담·평천·윤장을 살핀다. ㄷ: 자소엽의 해표·행기와 자소자의 강기화담은 부위·배합 목적이 다르다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 자소엽의 중심은 해표·행기화위이고 강기화담·윤장은 열매인 자소자와 비교한다. ㄴ: 자소자는 성숙한 열매를 쓰며 강기화담·평천·윤장을 살핀다. ㄷ: 자소엽의 해표·행기와 자소자의 강기화담은 부위·배합 목적이 다르다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 자소엽의 중심은 해표·행기화위이고 강기화담·윤장은 열매인 자소자와 비교한다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 4,
+      "explanation": "ㄱ은 다음과 같이 고친다. 자소엽의 중심은 해표·행기화위이고 강기화담·윤장은 열매인 자소자와 비교한다. ㄴ은 다음과 같이 고친다. 자소자는 성숙한 열매를 쓰며 강기화담·평천·윤장을 살핀다. ㄷ은 옳다. 자소엽의 해표·행기와 자소자의 강기화담은 부위·배합 목적이 다르다.",
+      "discriminator": "자소엽의 중심은 해표·행기화위이고 강기화담·윤장은 열매인 자소자와 비교한다. 자소자는 성숙한 열매를 쓰며 강기화담·평천·윤장을 살핀다. 자소엽의 해표·행기와 자소자의 강기화담은 부위·배합 목적이 다르다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "자소엽은 잎을 쓰며 강기화담·윤장을 중심으로 한다."
+          ],
+          [
+            "ㄴ",
+            "자소자는 뿌리를 쓰며 보기건비를 중심으로 한다."
+          ],
+          [
+            "ㄷ",
+            "같은 기원 계열이어도 두 약재는 처방 안의 역할을 나누어 읽는다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-90",
+      "subject": "herbs",
+      "cardId": "herb-bamboo-shavings",
+      "difficulty": "high",
+      "prompt": "죽엽·죽여의 부위와 기역 — 옳은 설명을 모두 고른 것은?",
+      "context": "대나무 유래 두 약재에서 잎과 줄기 중간층의 쓰임을 구분한다.",
+      "references": [
+        {
+          "url": "/herbs/bamboo-shavings/",
+          "title": "죽여(竹茹)"
+        },
+        {
+          "url": "/herbs/bamboo-leaf/",
+          "title": "죽엽(竹葉)"
+        }
+      ],
+      "relatedSource": "/herbs/bamboo-shavings/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "죽여는 줄기 중간층을 쓰며 청열화담·제번지구를 살핀다.",
+          "correct": true,
+          "reason": "죽여는 대나무 줄기 중간층의 청담·지구 역할을 중심으로 한다."
+        },
+        {
+          "text": "죽여의 대표 역할은 강한 공하·축어이다.",
+          "correct": false,
+          "reason": "죽여는 청열화담·제번지구이며 공하·축어와 구별한다."
+        },
+        {
+          "text": "죽엽은 잎을 쓰며 청열제번·생진의 방향을 본다.",
+          "correct": true,
+          "reason": "죽엽은 잎의 청열제번·생진·이뇨 역할을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 죽여는 대나무 줄기 중간층의 청담·지구 역할을 중심으로 한다. ㄴ: 죽여는 청열화담·제번지구이며 공하·축어와 구별한다. ㄷ: 죽엽은 잎의 청열제번·생진·이뇨 역할을 살핀다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 죽여는 대나무 줄기 중간층의 청담·지구 역할을 중심으로 한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄴ: 죽여는 청열화담·제번지구이며 공하·축어와 구별한다. ㄷ: 죽엽은 잎의 청열제번·생진·이뇨 역할을 살핀다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 죽여는 대나무 줄기 중간층의 청담·지구 역할을 중심으로 한다. ㄴ: 죽여는 청열화담·제번지구이며 공하·축어와 구별한다. ㄷ: 죽엽은 잎의 청열제번·생진·이뇨 역할을 살핀다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 죽여는 대나무 줄기 중간층의 청담·지구 역할을 중심으로 한다. ㄴ: 죽여는 청열화담·제번지구이며 공하·축어와 구별한다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 죽여는 대나무 줄기 중간층의 청담·지구 역할을 중심으로 한다. ㄴ은 다음과 같이 고친다. 죽여는 청열화담·제번지구이며 공하·축어와 구별한다. ㄷ은 옳다. 죽엽은 잎의 청열제번·생진·이뇨 역할을 살핀다.",
+      "discriminator": "죽여는 대나무 줄기 중간층의 청담·지구 역할을 중심으로 한다. 죽여는 청열화담·제번지구이며 공하·축어와 구별한다. 죽엽은 잎의 청열제번·생진·이뇨 역할을 살핀다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "죽여는 줄기 중간층을 쓰며 청열화담·제번지구를 살핀다."
+          ],
+          [
+            "ㄴ",
+            "죽여의 대표 역할은 강한 공하·축어이다."
+          ],
+          [
+            "ㄷ",
+            "죽엽은 잎을 쓰며 청열제번·생진의 방향을 본다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-91",
+      "subject": "herbs",
+      "cardId": "herb-digupi",
+      "difficulty": "high",
+      "prompt": "구기자 계열의 열매와 뿌리껍질 — 옳은 설명을 모두 고른 것은?",
+      "context": "구기자와 지골피를 기원 계열·약용 부위·배합 방향으로 나누어 적는다.",
+      "references": [
+        {
+          "url": "/herbs/digupi/",
+          "title": "지골피(地骨皮)"
+        },
+        {
+          "url": "/herbs/cornus-extra/",
+          "title": "구기자(枸杞子)"
+        }
+      ],
+      "relatedSource": "/herbs/digupi/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "같은 기원 계열이라도 열매와 뿌리껍질의 규격을 구분한다.",
+          "correct": true,
+          "reason": "구기자의 열매와 지골피의 뿌리껍질은 기원·부위·효능을 따로 기록한다."
+        },
+        {
+          "text": "지골피는 뿌리껍질을 쓰며 량혈제증·청폐강화를 살핀다.",
+          "correct": true,
+          "reason": "지골피의 부위는 뿌리껍질, 중심 역할은 청허열·청폐이다."
+        },
+        {
+          "text": "구기자는 성숙한 열매를 쓰며 보간신·익정명목을 살핀다.",
+          "correct": true,
+          "reason": "구기자는 열매의 보익·명목 방향으로 지골피와 비교한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 구기자의 열매와 지골피의 뿌리껍질은 기원·부위·효능을 따로 기록한다. ㄴ: 지골피의 부위는 뿌리껍질, 중심 역할은 청허열·청폐이다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 구기자는 열매의 보익·명목 방향으로 지골피와 비교한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 지골피의 부위는 뿌리껍질, 중심 역할은 청허열·청폐이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 구기자의 열매와 지골피의 뿌리껍질은 기원·부위·효능을 따로 기록한다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 구기자의 열매와 지골피의 뿌리껍질은 기원·부위·효능을 따로 기록한다. ㄴ: 지골피의 부위는 뿌리껍질, 중심 역할은 청허열·청폐이다. ㄷ: 구기자는 열매의 보익·명목 방향으로 지골피와 비교한다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 구기자의 열매와 지골피의 뿌리껍질은 기원·부위·효능을 따로 기록한다. ㄴ은 옳다. 지골피의 부위는 뿌리껍질, 중심 역할은 청허열·청폐이다. ㄷ은 옳다. 구기자는 열매의 보익·명목 방향으로 지골피와 비교한다.",
+      "discriminator": "구기자의 열매와 지골피의 뿌리껍질은 기원·부위·효능을 따로 기록한다. 지골피의 부위는 뿌리껍질, 중심 역할은 청허열·청폐이다. 구기자는 열매의 보익·명목 방향으로 지골피와 비교한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "같은 기원 계열이라도 열매와 뿌리껍질의 규격을 구분한다."
+          ],
+          [
+            "ㄴ",
+            "지골피는 뿌리껍질을 쓰며 량혈제증·청폐강화를 살핀다."
+          ],
+          [
+            "ㄷ",
+            "구기자는 성숙한 열매를 쓰며 보간신·익정명목을 살핀다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-92",
+      "subject": "herbs",
+      "cardId": "herb-polyporus",
+      "difficulty": "high",
+      "prompt": "균핵을 쓰는 복령·저령의 차이 — 옳은 설명을 모두 고른 것은?",
+      "context": "두 균류 본초의 공통 부위와 겸효능을 비교한다.",
+      "references": [
+        {
+          "url": "/herbs/polyporus/",
+          "title": "저령(猪苓)"
+        },
+        {
+          "url": "/herbs/poria/",
+          "title": "복령(茯苓)"
+        }
+      ],
+      "relatedSource": "/herbs/polyporus/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "복령과 저령은 모두 식물 뿌리의 겉껍질을 약용한다.",
+          "correct": false,
+          "reason": "두 약재는 균류의 균핵이며 식물의 뿌리껍질과 구별한다."
+        },
+        {
+          "text": "복령은 이수 외에 건비·영심안신의 방향도 살핀다.",
+          "correct": true,
+          "reason": "복령의 건비·안신은 보기·안신 처방 속 역할과 연결된다."
+        },
+        {
+          "text": "저령의 대표 효능을 보혈자음·익정전수로 적는다.",
+          "correct": false,
+          "reason": "저령은 이수삼습이 중심이며 보혈자음·익정전수는 숙지황의 중심 방향이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 두 약재는 균류의 균핵이며 식물의 뿌리껍질과 구별한다. ㄴ: 복령의 건비·안신은 보기·안신 처방 속 역할과 연결된다. ㄷ: 저령은 이수삼습이 중심이며 보혈자음·익정전수는 숙지황의 중심 방향이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 두 약재는 균류의 균핵이며 식물의 뿌리껍질과 구별한다. ㄴ: 복령의 건비·안신은 보기·안신 처방 속 역할과 연결된다. ㄷ: 저령은 이수삼습이 중심이며 보혈자음·익정전수는 숙지황의 중심 방향이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄷ: 저령은 이수삼습이 중심이며 보혈자음·익정전수는 숙지황의 중심 방향이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 두 약재는 균류의 균핵이며 식물의 뿌리껍질과 구별한다. ㄷ: 저령은 이수삼습이 중심이며 보혈자음·익정전수는 숙지황의 중심 방향이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 두 약재는 균류의 균핵이며 식물의 뿌리껍질과 구별한다. ㄴ: 복령의 건비·안신은 보기·안신 처방 속 역할과 연결된다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 다음과 같이 고친다. 두 약재는 균류의 균핵이며 식물의 뿌리껍질과 구별한다. ㄴ은 옳다. 복령의 건비·안신은 보기·안신 처방 속 역할과 연결된다. ㄷ은 다음과 같이 고친다. 저령은 이수삼습이 중심이며 보혈자음·익정전수는 숙지황의 중심 방향이다.",
+      "discriminator": "두 약재는 균류의 균핵이며 식물의 뿌리껍질과 구별한다. 복령의 건비·안신은 보기·안신 처방 속 역할과 연결된다. 저령은 이수삼습이 중심이며 보혈자음·익정전수는 숙지황의 중심 방향이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "복령과 저령은 모두 식물 뿌리의 겉껍질을 약용한다."
+          ],
+          [
+            "ㄴ",
+            "복령은 이수 외에 건비·영심안신의 방향도 살핀다."
+          ],
+          [
+            "ㄷ",
+            "저령의 대표 효능을 보혈자음·익정전수로 적는다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-93",
+      "subject": "herbs",
+      "cardId": "herb-green-citrus-peel",
+      "difficulty": "high",
+      "prompt": "청피와 진피의 채취 단계 — 옳은 설명을 모두 고른 것은?",
+      "context": "감귤류 약재의 채취 단계와 이기 역할을 비교한다.",
+      "references": [
+        {
+          "url": "/herbs/green-citrus-peel/",
+          "title": "청피(靑皮)"
+        },
+        {
+          "url": "/herbs/citrus-peel/",
+          "title": "진피(陳皮)"
+        }
+      ],
+      "relatedSource": "/herbs/green-citrus-peel/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "진피는 성숙 과피로 이기건비·조습화담을 살핀다.",
+          "correct": true,
+          "reason": "진피는 성숙 과피의 비위·담습 배합을 중심으로 한다."
+        },
+        {
+          "text": "청피의 중심 역할을 양심안신·윤장으로 적는다.",
+          "correct": false,
+          "reason": "청피는 소간파기·소적화체의 방향이며 안신·윤장 중심 본초와 구별한다."
+        },
+        {
+          "text": "청피는 미성숙 열매 또는 과피의 규격을 확인한다.",
+          "correct": true,
+          "reason": "청피는 공정서별 미성숙 열매·과피 규격을 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 진피는 성숙 과피의 비위·담습 배합을 중심으로 한다. ㄴ: 청피는 소간파기·소적화체의 방향이며 안신·윤장 중심 본초와 구별한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 진피는 성숙 과피의 비위·담습 배합을 중심으로 한다. ㄴ: 청피는 소간파기·소적화체의 방향이며 안신·윤장 중심 본초와 구별한다. ㄷ: 청피는 공정서별 미성숙 열매·과피 규격을 확인한다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄴ: 청피는 소간파기·소적화체의 방향이며 안신·윤장 중심 본초와 구별한다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄷ: 청피는 공정서별 미성숙 열매·과피 규격을 확인한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 진피는 성숙 과피의 비위·담습 배합을 중심으로 한다. ㄴ: 청피는 소간파기·소적화체의 방향이며 안신·윤장 중심 본초와 구별한다. ㄷ: 청피는 공정서별 미성숙 열매·과피 규격을 확인한다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 옳다. 진피는 성숙 과피의 비위·담습 배합을 중심으로 한다. ㄴ은 다음과 같이 고친다. 청피는 소간파기·소적화체의 방향이며 안신·윤장 중심 본초와 구별한다. ㄷ은 옳다. 청피는 공정서별 미성숙 열매·과피 규격을 확인한다.",
+      "discriminator": "진피는 성숙 과피의 비위·담습 배합을 중심으로 한다. 청피는 소간파기·소적화체의 방향이며 안신·윤장 중심 본초와 구별한다. 청피는 공정서별 미성숙 열매·과피 규격을 확인한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "진피는 성숙 과피로 이기건비·조습화담을 살핀다."
+          ],
+          [
+            "ㄴ",
+            "청피의 중심 역할을 양심안신·윤장으로 적는다."
+          ],
+          [
+            "ㄷ",
+            "청피는 미성숙 열매 또는 과피의 규격을 확인한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-94",
+      "subject": "herbs",
+      "cardId": "herb-scrophularia",
+      "difficulty": "high",
+      "prompt": "인삼·현삼의 이름과 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "두 약재의 이름에 모두 삼이 들어가지만 전통 효능과 기원이 다르다.",
+      "references": [
+        {
+          "url": "/herbs/scrophularia/",
+          "title": "현삼(玄參)"
+        },
+        {
+          "url": "/herbs/ginseng/",
+          "title": "인삼(人蔘)"
+        }
+      ],
+      "relatedSource": "/herbs/scrophularia/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "두 약재는 약명과 기원·약용 부위를 대조해 기록한다.",
+          "correct": true,
+          "reason": "이름의 일부가 같아도 약재 정체와 배합 역할을 각각 확인한다."
+        },
+        {
+          "text": "현삼은 뿌리를 쓰며 청열량혈·자음을 살핀다.",
+          "correct": true,
+          "reason": "현삼은 Scrophulariae Radix로 청열·자음 방향을 살핀다."
+        },
+        {
+          "text": "인삼의 중심 효능을 현삼과 같은 청열량혈로 적는다.",
+          "correct": false,
+          "reason": "인삼은 보기·생진의 본초이며 현삼의 청열량혈과 구별한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄷ: 인삼은 보기·생진의 본초이며 현삼의 청열량혈과 구별한다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄴ: 현삼은 Scrophulariae Radix로 청열·자음 방향을 살핀다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 이름의 일부가 같아도 약재 정체와 배합 역할을 각각 확인한다. ㄴ: 현삼은 Scrophulariae Radix로 청열·자음 방향을 살핀다. ㄷ: 인삼은 보기·생진의 본초이며 현삼의 청열량혈과 구별한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 이름의 일부가 같아도 약재 정체와 배합 역할을 각각 확인한다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 이름의 일부가 같아도 약재 정체와 배합 역할을 각각 확인한다. ㄴ: 현삼은 Scrophulariae Radix로 청열·자음 방향을 살핀다. ㄷ: 인삼은 보기·생진의 본초이며 현삼의 청열량혈과 구별한다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 옳다. 이름의 일부가 같아도 약재 정체와 배합 역할을 각각 확인한다. ㄴ은 옳다. 현삼은 Scrophulariae Radix로 청열·자음 방향을 살핀다. ㄷ은 다음과 같이 고친다. 인삼은 보기·생진의 본초이며 현삼의 청열량혈과 구별한다.",
+      "discriminator": "이름의 일부가 같아도 약재 정체와 배합 역할을 각각 확인한다. 현삼은 Scrophulariae Radix로 청열·자음 방향을 살핀다. 인삼은 보기·생진의 본초이며 현삼의 청열량혈과 구별한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "두 약재는 약명과 기원·약용 부위를 대조해 기록한다."
+          ],
+          [
+            "ㄴ",
+            "현삼은 뿌리를 쓰며 청열량혈·자음을 살핀다."
+          ],
+          [
+            "ㄷ",
+            "인삼의 중심 효능을 현삼과 같은 청열량혈로 적는다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-95",
+      "subject": "herbs",
+      "cardId": "herb-agastache",
+      "difficulty": "expert",
+      "prompt": "곽향과 광곽향의 연구 원료 — 옳은 설명을 모두 고른 것은?",
+      "context": "A 자료는 Agastache rugosa, B 자료는 Pogostemon cablin을 썼다고 명시한다.",
+      "references": [
+        {
+          "url": "/herbs/agastache/",
+          "title": "곽향·광곽향(藿香·廣藿香)"
+        }
+      ],
+      "relatedSource": "/herbs/agastache/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "A와 B는 학명이 서로 다른 식물 원료이다.",
+          "correct": true,
+          "reason": "A는 배초향, B는 패출리로 식물 기원과 정유 조성을 나누어 확인한다."
+        },
+        {
+          "text": "방향화습이라는 공통 활용이 있으므로 A와 B는 학명도 같다.",
+          "correct": false,
+          "reason": "Agastache rugosa와 Pogostemon cablin은 서로 다른 식물이며 공통 활용과 원료 동정은 별개이다."
+        },
+        {
+          "text": "영문 표기가 Huoxiang이면 두 연구의 시험물을 같은 것으로 합친다.",
+          "correct": false,
+          "reason": "번역명보다 학명·부위·추출법을 확인해 시험물을 구분한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: A는 배초향, B는 패출리로 식물 기원과 정유 조성을 나누어 확인한다. ㄴ: Agastache rugosa와 Pogostemon cablin은 서로 다른 식물이며 공통 활용과 원료 동정은 별개이다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: A는 배초향, B는 패출리로 식물 기원과 정유 조성을 나누어 확인한다. ㄷ: 번역명보다 학명·부위·추출법을 확인해 시험물을 구분한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄴ: Agastache rugosa와 Pogostemon cablin은 서로 다른 식물이며 공통 활용과 원료 동정은 별개이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: A는 배초향, B는 패출리로 식물 기원과 정유 조성을 나누어 확인한다. ㄴ: Agastache rugosa와 Pogostemon cablin은 서로 다른 식물이며 공통 활용과 원료 동정은 별개이다. ㄷ: 번역명보다 학명·부위·추출법을 확인해 시험물을 구분한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄷ: 번역명보다 학명·부위·추출법을 확인해 시험물을 구분한다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 옳다. A는 배초향, B는 패출리로 식물 기원과 정유 조성을 나누어 확인한다. ㄴ은 다음과 같이 고친다. Agastache rugosa와 Pogostemon cablin은 서로 다른 식물이며 공통 활용과 원료 동정은 별개이다. ㄷ은 다음과 같이 고친다. 번역명보다 학명·부위·추출법을 확인해 시험물을 구분한다.",
+      "discriminator": "A는 배초향, B는 패출리로 식물 기원과 정유 조성을 나누어 확인한다. Agastache rugosa와 Pogostemon cablin은 서로 다른 식물이며 공통 활용과 원료 동정은 별개이다. 번역명보다 학명·부위·추출법을 확인해 시험물을 구분한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "A와 B는 학명이 서로 다른 식물 원료이다."
+          ],
+          [
+            "ㄴ",
+            "방향화습이라는 공통 활용이 있으므로 A와 B는 학명도 같다."
+          ],
+          [
+            "ㄷ",
+            "영문 표기가 Huoxiang이면 두 연구의 시험물을 같은 것으로 합친다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-96",
+      "subject": "herbs",
+      "cardId": "herb-leonurus",
+      "difficulty": "expert",
+      "prompt": "익모초의 부위와 배합 범위 — 옳은 설명을 모두 고른 것은?",
+      "context": "익모초를 월경 관련 활용과 천마구등음의 구성 안에서 함께 읽는다.",
+      "references": [
+        {
+          "url": "/herbs/leonurus/",
+          "title": "익모초(益母草)"
+        }
+      ],
+      "relatedSource": "/herbs/leonurus/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "충위자는 익모초와 같은 지상부의 다른 이름이다.",
+          "correct": false,
+          "reason": "충위자는 열매를 쓰는 별도 본초로 지상부 익모초와 구분한다."
+        },
+        {
+          "text": "천마구등음에서는 익모초가 혈행·수습을 살피는 역할을 더한다.",
+          "correct": true,
+          "reason": "천마·조구등의 평간식풍에 익모초의 활혈·이수 역할이 결합한다."
+        },
+        {
+          "text": "익모초는 지상부를 사용하는 활혈·이수 본초이다.",
+          "correct": true,
+          "reason": "익모초는 Leonuri Herba로 지상부의 활혈조경·이수 역할을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 익모초는 Leonuri Herba로 지상부의 활혈조경·이수 역할을 살핀다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 천마·조구등의 평간식풍에 익모초의 활혈·이수 역할이 결합한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 충위자는 열매를 쓰는 별도 본초로 지상부 익모초와 구분한다. ㄷ: 익모초는 Leonuri Herba로 지상부의 활혈조경·이수 역할을 살핀다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 충위자는 열매를 쓰는 별도 본초로 지상부 익모초와 구분한다. ㄴ: 천마·조구등의 평간식풍에 익모초의 활혈·이수 역할이 결합한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 충위자는 열매를 쓰는 별도 본초로 지상부 익모초와 구분한다. ㄴ: 천마·조구등의 평간식풍에 익모초의 활혈·이수 역할이 결합한다. ㄷ: 익모초는 Leonuri Herba로 지상부의 활혈조경·이수 역할을 살핀다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 충위자는 열매를 쓰는 별도 본초로 지상부 익모초와 구분한다. ㄴ은 옳다. 천마·조구등의 평간식풍에 익모초의 활혈·이수 역할이 결합한다. ㄷ은 옳다. 익모초는 Leonuri Herba로 지상부의 활혈조경·이수 역할을 살핀다.",
+      "discriminator": "충위자는 열매를 쓰는 별도 본초로 지상부 익모초와 구분한다. 천마·조구등의 평간식풍에 익모초의 활혈·이수 역할이 결합한다. 익모초는 Leonuri Herba로 지상부의 활혈조경·이수 역할을 살핀다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "충위자는 익모초와 같은 지상부의 다른 이름이다."
+          ],
+          [
+            "ㄴ",
+            "천마구등음에서는 익모초가 혈행·수습을 살피는 역할을 더한다."
+          ],
+          [
+            "ㄷ",
+            "익모초는 지상부를 사용하는 활혈·이수 본초이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-97",
+      "subject": "herbs",
+      "cardId": "herb-alpinia-oxyphylla",
+      "difficulty": "expert",
+      "prompt": "익지인과 사인의 공통 온성과 차이 — 옳은 설명을 모두 고른 것은?",
+      "context": "두 약재의 온성 외에 무엇을 함께 살피는지 비교한다.",
+      "references": [
+        {
+          "url": "/herbs/alpinia-oxyphylla/",
+          "title": "익지인(益智仁)"
+        },
+        {
+          "url": "/herbs/amomum/",
+          "title": "사인(砂仁)"
+        }
+      ],
+      "relatedSource": "/herbs/alpinia-oxyphylla/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "온성이 같아도 화습·고삽의 목적과 기원·부위를 대조한다.",
+          "correct": true,
+          "reason": "익지인의 온신·고삽과 사인의 방향화습·온중을 나누어 비교한다."
+        },
+        {
+          "text": "익지인은 온비지사·온신고정·축뇨를 살핀다.",
+          "correct": true,
+          "reason": "익지인은 허한과 과다 배출을 함께 보는 온비·온신·수삽 방향이다."
+        },
+        {
+          "text": "사인은 화습행기·온중의 방향에서 비교한다.",
+          "correct": true,
+          "reason": "사인은 중초 습체·기체와 온중 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 익지인의 온신·고삽과 사인의 방향화습·온중을 나누어 비교한다. ㄴ: 익지인은 허한과 과다 배출을 함께 보는 온비·온신·수삽 방향이다. ㄷ: 사인은 중초 습체·기체와 온중 역할을 함께 살핀다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 익지인의 온신·고삽과 사인의 방향화습·온중을 나누어 비교한다. ㄴ: 익지인은 허한과 과다 배출을 함께 보는 온비·온신·수삽 방향이다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 사인은 중초 습체·기체와 온중 역할을 함께 살핀다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 익지인은 허한과 과다 배출을 함께 보는 온비·온신·수삽 방향이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 익지인의 온신·고삽과 사인의 방향화습·온중을 나누어 비교한다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 옳다. 익지인의 온신·고삽과 사인의 방향화습·온중을 나누어 비교한다. ㄴ은 옳다. 익지인은 허한과 과다 배출을 함께 보는 온비·온신·수삽 방향이다. ㄷ은 옳다. 사인은 중초 습체·기체와 온중 역할을 함께 살핀다.",
+      "discriminator": "익지인의 온신·고삽과 사인의 방향화습·온중을 나누어 비교한다. 익지인은 허한과 과다 배출을 함께 보는 온비·온신·수삽 방향이다. 사인은 중초 습체·기체와 온중 역할을 함께 살핀다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "온성이 같아도 화습·고삽의 목적과 기원·부위를 대조한다."
+          ],
+          [
+            "ㄴ",
+            "익지인은 온비지사·온신고정·축뇨를 살핀다."
+          ],
+          [
+            "ㄷ",
+            "사인은 화습행기·온중의 방향에서 비교한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-98",
+      "subject": "herbs",
+      "cardId": "herb-cuscuta-seed",
+      "difficulty": "expert",
+      "prompt": "토사자의 원료와 고전 성미 기록 — 옳은 설명을 모두 고른 것은?",
+      "context": "토사자 자료에서 현대 분류와 동의보감 항목의 성미가 다르게 적힌 것을 보았다.",
+      "references": [
+        {
+          "url": "/herbs/cuscuta-seed/",
+          "title": "토사자(菟絲子)"
+        }
+      ],
+      "relatedSource": "/herbs/cuscuta-seed/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "토사자의 약용 부위는 새삼류의 뿌리이다.",
+          "correct": false,
+          "reason": "토사자는 Cuscutae Semen인 성숙한 씨를 사용한다."
+        },
+        {
+          "text": "전통 효능에서 보신익정·양간명목·고삽을 함께 살핀다.",
+          "correct": true,
+          "reason": "토사자는 보익과 고삽을 함께 두어 다른 보간신 본초와 비교한다."
+        },
+        {
+          "text": "고전 성미가 현대 분류와 다르면 원문을 현대 표기로 고쳐 인용한다.",
+          "correct": false,
+          "reason": "동의보감의 평·신감 기록과 현대 감·온 분류는 문헌을 구분해 보존한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 토사자는 Cuscutae Semen인 성숙한 씨를 사용한다. ㄴ: 토사자는 보익과 고삽을 함께 두어 다른 보간신 본초와 비교한다. ㄷ: 동의보감의 평·신감 기록과 현대 감·온 분류는 문헌을 구분해 보존한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 토사자는 Cuscutae Semen인 성숙한 씨를 사용한다. ㄴ: 토사자는 보익과 고삽을 함께 두어 다른 보간신 본초와 비교한다. ㄷ: 동의보감의 평·신감 기록과 현대 감·온 분류는 문헌을 구분해 보존한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄷ: 동의보감의 평·신감 기록과 현대 감·온 분류는 문헌을 구분해 보존한다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 토사자는 Cuscutae Semen인 성숙한 씨를 사용한다. ㄷ: 동의보감의 평·신감 기록과 현대 감·온 분류는 문헌을 구분해 보존한다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 토사자는 Cuscutae Semen인 성숙한 씨를 사용한다. ㄴ: 토사자는 보익과 고삽을 함께 두어 다른 보간신 본초와 비교한다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 다음과 같이 고친다. 토사자는 Cuscutae Semen인 성숙한 씨를 사용한다. ㄴ은 옳다. 토사자는 보익과 고삽을 함께 두어 다른 보간신 본초와 비교한다. ㄷ은 다음과 같이 고친다. 동의보감의 평·신감 기록과 현대 감·온 분류는 문헌을 구분해 보존한다.",
+      "discriminator": "토사자는 Cuscutae Semen인 성숙한 씨를 사용한다. 토사자는 보익과 고삽을 함께 두어 다른 보간신 본초와 비교한다. 동의보감의 평·신감 기록과 현대 감·온 분류는 문헌을 구분해 보존한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "토사자의 약용 부위는 새삼류의 뿌리이다."
+          ],
+          [
+            "ㄴ",
+            "전통 효능에서 보신익정·양간명목·고삽을 함께 살핀다."
+          ],
+          [
+            "ㄷ",
+            "고전 성미가 현대 분류와 다르면 원문을 현대 표기로 고쳐 인용한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-99",
+      "subject": "herbs",
+      "cardId": "herb-honey",
+      "difficulty": "expert",
+      "prompt": "경옥고에서 봉밀의 제형 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "인삼·생지황·복령·봉밀을 쓰는 경옥고의 배합과 고제 물성을 함께 살핀다.",
+      "references": [
+        {
+          "url": "/herbs/honey/",
+          "title": "봉밀(蜂蜜)"
+        }
+      ],
+      "relatedSource": "/herbs/honey/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "봉밀의 수분·점도는 혼합과 보관에 영향을 준다.",
+          "correct": true,
+          "reason": "고제의 농축 종점과 균질성·저장 안정성을 함께 확인한다."
+        },
+        {
+          "text": "봉밀을 다른 당질로 바꿔도 제형 평가 항목은 그대로 생략할 수 있다.",
+          "correct": false,
+          "reason": "당질을 바꾸면 수분·점도·탄수화물 조성과 저장 안정성을 다시 확인한다."
+        },
+        {
+          "text": "봉밀은 윤조·완급·조화의 전통 역할을 가진다.",
+          "correct": true,
+          "reason": "봉밀은 고제 안에서 윤조·완급·조화의 역할을 함께 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 고제의 농축 종점과 균질성·저장 안정성을 함께 확인한다. ㄴ: 당질을 바꾸면 수분·점도·탄수화물 조성과 저장 안정성을 다시 확인한다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄴ: 당질을 바꾸면 수분·점도·탄수화물 조성과 저장 안정성을 다시 확인한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 고제의 농축 종점과 균질성·저장 안정성을 함께 확인한다. ㄴ: 당질을 바꾸면 수분·점도·탄수화물 조성과 저장 안정성을 다시 확인한다. ㄷ: 봉밀은 고제 안에서 윤조·완급·조화의 역할을 함께 읽는다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄷ: 봉밀은 고제 안에서 윤조·완급·조화의 역할을 함께 읽는다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 고제의 농축 종점과 균질성·저장 안정성을 함께 확인한다. ㄴ: 당질을 바꾸면 수분·점도·탄수화물 조성과 저장 안정성을 다시 확인한다. ㄷ: 봉밀은 고제 안에서 윤조·완급·조화의 역할을 함께 읽는다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 고제의 농축 종점과 균질성·저장 안정성을 함께 확인한다. ㄴ은 다음과 같이 고친다. 당질을 바꾸면 수분·점도·탄수화물 조성과 저장 안정성을 다시 확인한다. ㄷ은 옳다. 봉밀은 고제 안에서 윤조·완급·조화의 역할을 함께 읽는다.",
+      "discriminator": "고제의 농축 종점과 균질성·저장 안정성을 함께 확인한다. 당질을 바꾸면 수분·점도·탄수화물 조성과 저장 안정성을 다시 확인한다. 봉밀은 고제 안에서 윤조·완급·조화의 역할을 함께 읽는다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "봉밀의 수분·점도는 혼합과 보관에 영향을 준다."
+          ],
+          [
+            "ㄴ",
+            "봉밀을 다른 당질로 바꿔도 제형 평가 항목은 그대로 생략할 수 있다."
+          ],
+          [
+            "ㄷ",
+            "봉밀은 윤조·완급·조화의 전통 역할을 가진다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-100",
+      "subject": "herbs",
+      "cardId": "herb-prepared-rehmannia",
+      "difficulty": "expert",
+      "prompt": "숙지황이 들어간 보음방과 보양방 — 옳은 설명을 모두 고른 것은?",
+      "context": "좌귀환과 우귀환에 공통으로 쓰이는 숙지황을 나머지 구성과 함께 비교한다.",
+      "references": [
+        {
+          "url": "/herbs/prepared-rehmannia/",
+          "title": "숙지황(熟地黃)"
+        }
+      ],
+      "relatedSource": "/herbs/prepared-rehmannia/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "숙지황이 같으므로 두 처방의 전체 치법도 같다고 정리한다.",
+          "correct": false,
+          "reason": "공통 본초와 나머지 배합을 함께 보아 보음·온양의 차이를 구별한다."
+        },
+        {
+          "text": "숙지황은 보혈자음·익정의 바탕을 맡는다.",
+          "correct": true,
+          "reason": "숙지황은 두 처방에서 정혈·음액의 바탕을 보완하는 역할을 읽는다."
+        },
+        {
+          "text": "우귀환은 부자·육계의 온양축을 함께 확인한다.",
+          "correct": true,
+          "reason": "공통 보익 바탕에 더해지는 부자·육계의 온양 배합을 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 공통 본초와 나머지 배합을 함께 보아 보음·온양의 차이를 구별한다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 공통 본초와 나머지 배합을 함께 보아 보음·온양의 차이를 구별한다. ㄴ: 숙지황은 두 처방에서 정혈·음액의 바탕을 보완하는 역할을 읽는다. ㄷ: 공통 보익 바탕에 더해지는 부자·육계의 온양 배합을 확인한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 공통 보익 바탕에 더해지는 부자·육계의 온양 배합을 확인한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 공통 본초와 나머지 배합을 함께 보아 보음·온양의 차이를 구별한다. ㄴ: 숙지황은 두 처방에서 정혈·음액의 바탕을 보완하는 역할을 읽는다. ㄷ: 공통 보익 바탕에 더해지는 부자·육계의 온양 배합을 확인한다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 숙지황은 두 처방에서 정혈·음액의 바탕을 보완하는 역할을 읽는다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 공통 본초와 나머지 배합을 함께 보아 보음·온양의 차이를 구별한다. ㄴ은 옳다. 숙지황은 두 처방에서 정혈·음액의 바탕을 보완하는 역할을 읽는다. ㄷ은 옳다. 공통 보익 바탕에 더해지는 부자·육계의 온양 배합을 확인한다.",
+      "discriminator": "공통 본초와 나머지 배합을 함께 보아 보음·온양의 차이를 구별한다. 숙지황은 두 처방에서 정혈·음액의 바탕을 보완하는 역할을 읽는다. 공통 보익 바탕에 더해지는 부자·육계의 온양 배합을 확인한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "숙지황이 같으므로 두 처방의 전체 치법도 같다고 정리한다."
+          ],
+          [
+            "ㄴ",
+            "숙지황은 보혈자음·익정의 바탕을 맡는다."
+          ],
+          [
+            "ㄷ",
+            "우귀환은 부자·육계의 온양축을 함께 확인한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-herbs-101",
+      "subject": "herbs",
+      "cardId": "herb-bamboo-shavings",
+      "difficulty": "high",
+      "prompt": "온담탕의 청담·제번 역할을 맡는 약재는?",
+      "context": "삼인극일병증방론 계열 온담탕을 공부한다. 반하·진피·복령의 화담 구조에 더해져 청열화담·제번지구를 맡고, 대나무 줄기 중간층을 쓰는 약재를 찾는다.",
+      "references": [
+        {
+          "url": "/herbs/bamboo-shavings/",
+          "title": "죽여(竹茹)"
+        },
+        {
+          "url": "/herbs/bamboo-leaf/",
+          "title": "죽엽(竹葉)"
+        }
+      ],
+      "relatedSource": "/herbs/bamboo-shavings/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "죽엽",
+          "detail": "대나무 잎의 청열제번·생진 방향으로 부위가 다르다."
+        },
+        {
+          "text": "지실",
+          "detail": "이기·화담산비에 참여하지만 감귤류 미성숙 열매이다."
+        },
+        {
+          "text": "반하",
+          "detail": "조습화담·강역을 맡는 덩이줄기로 문제의 중간층 조건과 다르다."
+        },
+        {
+          "text": "죽여",
+          "detail": "대나무 줄기 중간층의 청열화담·제번지구가 두 조건을 충족한다."
+        },
+        {
+          "text": "진피",
+          "detail": "성숙 과피의 이기건비·조습화담으로 부위와 중심 역할이 다르다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "explanation": "죽여의 부위와 청담·지구 역할을 함께 확인한다.",
+      "discriminator": "같은 대나무 유래라도 잎인 죽엽과 줄기 중간층인 죽여를 구분한다."
+    },
+    {
+      "id": "clinical-herbs-102",
+      "subject": "herbs",
+      "cardId": "herb-perilla-fruit",
+      "difficulty": "high",
+      "prompt": "해표보다 강기화담·윤장을 맡기면?",
+      "context": "교육용 배합표에서 차조기의 잎 대신 성숙한 열매를 쓰는 약재를 찾는다. 배합 목적은 강기화담·평천에 윤장을 겸하는 것이다.",
+      "references": [
+        {
+          "url": "/herbs/perilla-fruit/",
+          "title": "자소자·소자(紫蘇子)"
+        },
+        {
+          "url": "/herbs/perilla-leaf/",
+          "title": "자소엽(紫蘇葉)"
+        }
+      ],
+      "relatedSource": "/herbs/perilla-fruit/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "자소엽",
+          "detail": "같은 기원 계열이지만 잎을 쓰며 해표·행기화위를 중심으로 한다."
+        },
+        {
+          "text": "우방자",
+          "detail": "열매를 쓰지만 풍열·인후·투진의 방향이 중심이다."
+        },
+        {
+          "text": "진피",
+          "detail": "과피의 이기·조습화담으로 차조기 열매라는 조건이 다르다."
+        },
+        {
+          "text": "오미자",
+          "detail": "수렴·생진의 방향으로 강기화담·윤장 중심과 구분한다."
+        },
+        {
+          "text": "자소자",
+          "detail": "차조기 성숙 열매를 쓰며 강기소담·평천·윤장을 살핀다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "자소자는 기의 하강·담·윤장 역할을 함께 비교하는 열매 본초이다.",
+      "discriminator": "약용 부위와 강기·윤장의 두 효능 조건을 동시에 충족한다."
+    },
+    {
+      "id": "clinical-herbs-103",
+      "subject": "herbs",
+      "cardId": "herb-digupi",
+      "difficulty": "high",
+      "prompt": "보익 열매와 청허열 뿌리껍질을 나누면?",
+      "context": "A는 구기자나무류의 열매로 보간신·익정명목, B는 뿌리껍질로 량혈제증·청폐강화를 맡긴다. A→B의 이름을 고른다.",
+      "references": [
+        {
+          "url": "/herbs/digupi/",
+          "title": "지골피(地骨皮)"
+        },
+        {
+          "url": "/herbs/cornus-extra/",
+          "title": "구기자(枸杞子)"
+        }
+      ],
+      "relatedSource": "/herbs/digupi/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "구기자→지골피",
+          "detail": "열매의 보익과 뿌리껍질의 청허열·청폐를 맞게 연결한다."
+        },
+        {
+          "text": "지골피→구기자",
+          "detail": "부위와 효능의 대응을 반대로 놓았다."
+        },
+        {
+          "text": "산수유→지골피",
+          "detail": "B는 맞지만 산수유는 구기자나무류의 열매가 아니다."
+        },
+        {
+          "text": "구기자→목단피",
+          "detail": "A는 맞지만 목단피는 모란 뿌리껍질의 청열량혈·활혈 배합이다."
+        },
+        {
+          "text": "토사자→상백피",
+          "detail": "토사자는 씨, 상백피는 뽕나무 뿌리껍질로 기원 조건과 다르다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "기원 계열과 부위를 동시에 확인하면 구기자와 지골피가 갈린다.",
+      "discriminator": "열매와 뿌리껍질, 보익과 청허열이라는 두 축을 함께 맞춘다."
+    },
+    {
+      "id": "clinical-herbs-104",
+      "subject": "herbs",
+      "cardId": "herb-polyporus",
+      "difficulty": "high",
+      "prompt": "오령산과 저령탕의 공통·차이 약재는?",
+      "context": "두 처방은 저령·복령·택사를 공유한다. 교육용 비교표에서 오령산에 더하는 두 약재와 저령탕에 더하는 두 약재를 순서대로 고른다.",
+      "references": [
+        {
+          "url": "/herbs/polyporus/",
+          "title": "저령(猪苓)"
+        }
+      ],
+      "relatedSource": "/herbs/polyporus/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "오령산 활석·아교 / 저령탕 백출·계지",
+          "detail": "두 처방의 차이 약재를 반대로 배치했다."
+        },
+        {
+          "text": "오령산 백출·계지 / 저령탕 활석·아교",
+          "detail": "오령산의 건비·기화와 저령탕의 열·진액 손상 맥락을 나누어 읽는다."
+        },
+        {
+          "text": "오령산 백출·계지 / 저령탕 인삼·감초",
+          "detail": "오령산은 맞지만 저령탕의 차이 약재는 활석·아교이다."
+        },
+        {
+          "text": "오령산 반하·진피 / 저령탕 활석·아교",
+          "detail": "저령탕은 맞지만 오령산에 더하는 약재는 백출·계지이다."
+        },
+        {
+          "text": "두 처방 모두 백출·계지·활석·아교",
+          "detail": "두 처방의 구성 차이를 합쳐 별도 구성으로 만들었다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "같은 이수 본초를 공유해도 차이 약재가 병기의 차이를 드러낸다.",
+      "discriminator": "공통 세 약재와 각 처방에만 더하는 두 약재를 분리한다."
+    },
+    {
+      "id": "clinical-herbs-105",
+      "subject": "herbs",
+      "cardId": "herb-agastache",
+      "difficulty": "expert",
+      "prompt": "해외 곽향 연구를 원료표에 연결하려면?",
+      "context": "논문은 Pogostemon cablin 지상부의 에탄올 추출물을 썼고, 비교하려는 국내 원료는 Agastache rugosa 지상부이다. 시험물 대조표에 가장 정확하게 적을 항목은?",
+      "references": [
+        {
+          "url": "/herbs/agastache/",
+          "title": "곽향·광곽향(藿香·廣藿香)"
+        }
+      ],
+      "relatedSource": "/herbs/agastache/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "한국어 이름 곽향만 같으면 같은 원료로 묶음",
+          "detail": "번역명만으로 식물 기원과 추출물 차이를 놓치게 된다."
+        },
+        {
+          "text": "향이 비슷하면 학명과 추출법 생략",
+          "detail": "향의 유사성은 원료 동정·추출 조건의 기록을 대신하지 않는다."
+        },
+        {
+          "text": "서로 다른 학명과 공통 부위, 에탄올 추출 여부를 각각 기록",
+          "detail": "기원종과 부위·추출법을 분리해 대조해야 실제 시험물을 구별할 수 있다."
+        },
+        {
+          "text": "학명만 다르게 적고 추출법은 모두 탕제로 통일",
+          "detail": "원약재 지상부와 에탄올 추출물의 제형 차이를 보존해야 한다."
+        },
+        {
+          "text": "두 학명을 한 식물의 동의어로 정리",
+          "detail": "배초향과 패출리는 서로 다른 식물 원료이다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "기원 식물·약용 부위·추출법을 별도 칸에 기록한다.",
+      "discriminator": "같은 번역명과 다른 학명·시험물 조건이 함께 제시되었다."
+    },
+    {
+      "id": "clinical-herbs-106",
+      "subject": "herbs",
+      "cardId": "herb-prepared-rehmannia",
+      "difficulty": "expert",
+      "prompt": "좌귀환·우귀환의 공통 숙지황을 해석하면?",
+      "context": "두 처방의 배합표에 모두 숙지황이 있다. 우귀환에는 부자·육계가 함께 표시되어 있다. 이 차이를 가장 잘 설명한 것은?",
+      "references": [
+        {
+          "url": "/herbs/prepared-rehmannia/",
+          "title": "숙지황(熟地黃)"
+        }
+      ],
+      "relatedSource": "/herbs/prepared-rehmannia/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "숙지황이 있으므로 두 처방은 모두 같은 온양방이다.",
+          "detail": "숙지황의 공통성만으로 처방 전체의 온양 여부를 정할 수 없다."
+        },
+        {
+          "text": "우귀환의 부자·육계를 빼도 전체 치법 설명은 동일하다.",
+          "detail": "온양축을 이루는 차이 약재가 빠지면 처방 구조의 설명이 달라진다."
+        },
+        {
+          "text": "숙지황은 보양방에 포함될 수 없으므로 표가 틀렸다.",
+          "detail": "음·정혈의 바탕을 보완하는 약재가 온양축과 함께 배합될 수 있다."
+        },
+        {
+          "text": "숙지황의 정혈·음액 바탕에 온양축이 더해지는 구조를 읽는다.",
+          "detail": "공통 본초의 역할과 부자·육계라는 차이 약재를 함께 설명한다."
+        },
+        {
+          "text": "부자·육계가 있으므로 숙지황의 약용 부위를 수피로 바꿔 적는다.",
+          "detail": "배합이 달라도 숙지황의 기원·가공근이라는 약재 정체는 유지된다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "explanation": "공통 보익 바탕과 추가 온양축을 나누어 비교한다.",
+      "discriminator": "공통약 하나가 아니라 나머지 약재와 전체 치법을 연결한다."
+    },
+    {
+      "id": "clinical-herbs-107",
+      "subject": "herbs",
+      "cardId": "herb-honey",
+      "difficulty": "expert",
+      "prompt": "경옥고의 봉밀을 줄인 제형에서 확인할 것은?",
+      "context": "제형을 비교하는 교육용 실험이다. 경옥고 배합의 봉밀 비중을 줄이고 다른 당질을 넣었다. 원약재는 동일하게 기록했으며 제품 우열을 묻는 문제가 아니다.",
+      "references": [
+        {
+          "url": "/herbs/honey/",
+          "title": "봉밀(蜂蜜)"
+        }
+      ],
+      "relatedSource": "/herbs/honey/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "단맛만 같으면 원래와 같은 제형으로 기록한다.",
+          "detail": "단맛 외에 수분·점도와 저장 안정성도 달라질 수 있다."
+        },
+        {
+          "text": "봉밀 비중이 낮으면 총 탄수화물 계산을 생략한다.",
+          "detail": "다른 당질의 조성까지 포함해 실제 탄수화물 양을 확인한다."
+        },
+        {
+          "text": "향만 비교하고 수분·혼합성은 보지 않는다.",
+          "detail": "고제에서는 점도와 수분이 혼합 균질성과 보관에 관여한다."
+        },
+        {
+          "text": "다른 당질로 바꾸면 봉밀의 전통 역할도 자동으로 그대로 이전된다.",
+          "detail": "제형 물성 및 구성 변화와 전통 배합 역할을 각각 확인한다."
+        },
+        {
+          "text": "수분·점도·혼합성·당질 조성·보관 안정성을 다시 대조한다.",
+          "detail": "고제의 물성과 실제 구성 변화를 함께 기록하는 항목이다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "봉밀 교체는 맛과 함께 고제의 물성·구성 평가를 바꾸는 조건이다.",
+      "discriminator": "감미의 유사성과 제형의 동등성을 나누어 판단한다."
+    },
+    {
+      "id": "clinical-herbs-108",
+      "subject": "herbs",
+      "cardId": "herb-leonurus",
+      "difficulty": "expert",
+      "prompt": "천마구등음에서 익모초의 역할을 고르면?",
+      "context": "천마·조구등, 황금·치자, 두충·상기생과 함께 익모초를 둔 배합을 읽는다. 익모초가 더하는 전통 역할을 고른다.",
+      "references": [
+        {
+          "url": "/herbs/leonurus/",
+          "title": "익모초(益母草)"
+        }
+      ],
+      "relatedSource": "/herbs/leonurus/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "활혈과 이수",
+          "detail": "익모초 지상부의 활혈조경·이수 역할을 처방 전체에서 읽는다."
+        },
+        {
+          "text": "평간식풍만 담당",
+          "detail": "평간식풍의 중심은 천마·조구등과 연결해 읽는다."
+        },
+        {
+          "text": "보혈자음·익정전수만 담당",
+          "detail": "숙지황의 중심 역할과 혼동한 설명이다."
+        },
+        {
+          "text": "해표산한·행기관중",
+          "detail": "자소엽과 비교하는 역할이며 익모초의 중심 효능과 다르다."
+        },
+        {
+          "text": "강한 공하·사열",
+          "detail": "대황 등 공하약의 역할로 익모초의 활혈·이수와 구분한다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "천마구등음의 여러 축 중 익모초는 활혈·이수의 역할을 더한다.",
+      "discriminator": "약재의 익숙한 월경 활용을 넘어 해당 처방 안의 역할을 읽는다."
+    },
+    {
+      "id": "clinical-acupoints-89",
+      "subject": "acupoints",
+      "cardId": "point-LU11",
+      "difficulty": "high",
+      "prompt": "엄지·집게·약손가락의 정혈 — 옳은 설명을 모두 고른 것은?",
+      "context": "손가락 이름과 손톱의 노쪽·자쪽을 함께 확인한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/lu11/",
+          "title": "소상 위치"
+        },
+        {
+          "url": "/acupuncture/points/li1/",
+          "title": "상양 위치"
+        },
+        {
+          "url": "/acupuncture/points/te1/",
+          "title": "관충 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/lu11/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "소상은 엄지손톱 자쪽 뿌리각 부근이다.",
+          "correct": false,
+          "reason": "소상의 표준 표지는 엄지손톱의 노쪽 뿌리각 부근이다."
+        },
+        {
+          "text": "상양은 집게손톱 노쪽 뿌리각 부근이다.",
+          "correct": true,
+          "reason": "상양은 집게손가락 노쪽 손톱 뿌리각을 기준으로 한다."
+        },
+        {
+          "text": "관충은 약손톱 노쪽 뿌리각 부근이다.",
+          "correct": false,
+          "reason": "관충은 약손톱의 자쪽 뿌리각을 기준으로 한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 소상의 표준 표지는 엄지손톱의 노쪽 뿌리각 부근이다. ㄴ: 상양은 집게손가락 노쪽 손톱 뿌리각을 기준으로 한다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 상양은 집게손가락 노쪽 손톱 뿌리각을 기준으로 한다. ㄷ: 관충은 약손톱의 자쪽 뿌리각을 기준으로 한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 소상의 표준 표지는 엄지손톱의 노쪽 뿌리각 부근이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 소상의 표준 표지는 엄지손톱의 노쪽 뿌리각 부근이다. ㄴ: 상양은 집게손가락 노쪽 손톱 뿌리각을 기준으로 한다. ㄷ: 관충은 약손톱의 자쪽 뿌리각을 기준으로 한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 소상의 표준 표지는 엄지손톱의 노쪽 뿌리각 부근이다. ㄴ: 상양은 집게손가락 노쪽 손톱 뿌리각을 기준으로 한다. ㄷ: 관충은 약손톱의 자쪽 뿌리각을 기준으로 한다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 다음과 같이 고친다. 소상의 표준 표지는 엄지손톱의 노쪽 뿌리각 부근이다. ㄴ은 옳다. 상양은 집게손가락 노쪽 손톱 뿌리각을 기준으로 한다. ㄷ은 다음과 같이 고친다. 관충은 약손톱의 자쪽 뿌리각을 기준으로 한다.",
+      "discriminator": "소상의 표준 표지는 엄지손톱의 노쪽 뿌리각 부근이다. 상양은 집게손가락 노쪽 손톱 뿌리각을 기준으로 한다. 관충은 약손톱의 자쪽 뿌리각을 기준으로 한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "소상은 엄지손톱 자쪽 뿌리각 부근이다."
+          ],
+          [
+            "ㄴ",
+            "상양은 집게손톱 노쪽 뿌리각 부근이다."
+          ],
+          [
+            "ㄷ",
+            "관충은 약손톱 노쪽 뿌리각 부근이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-90",
+      "subject": "acupoints",
+      "cardId": "point-HT9",
+      "difficulty": "high",
+      "prompt": "새끼손톱 양쪽의 소충·소택 — 옳은 설명을 모두 고른 것은?",
+      "context": "같은 새끼손가락에서 손톱의 어느 쪽인지와 경맥을 대조한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/ht9/",
+          "title": "소충 위치"
+        },
+        {
+          "url": "/acupuncture/points/si1/",
+          "title": "소택 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/ht9/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "소택은 새끼손톱 자쪽이며 소장경에 속한다.",
+          "correct": true,
+          "reason": "소택은 새끼손톱 자쪽의 소장경 정혈이다."
+        },
+        {
+          "text": "두 혈은 손톱의 같은 쪽에 있고 높이만 다르다.",
+          "correct": false,
+          "reason": "같은 새끼손가락에서 노쪽과 자쪽이 구분점이다."
+        },
+        {
+          "text": "소충은 새끼손톱 노쪽이며 심경에 속한다.",
+          "correct": true,
+          "reason": "소충은 새끼손톱 노쪽의 심경 정혈이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 소택은 새끼손톱 자쪽의 소장경 정혈이다. ㄴ: 같은 새끼손가락에서 노쪽과 자쪽이 구분점이다. ㄷ: 소충은 새끼손톱 노쪽의 심경 정혈이다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 소택은 새끼손톱 자쪽의 소장경 정혈이다. ㄴ: 같은 새끼손가락에서 노쪽과 자쪽이 구분점이다. ㄷ: 소충은 새끼손톱 노쪽의 심경 정혈이다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 소택은 새끼손톱 자쪽의 소장경 정혈이다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄴ: 같은 새끼손가락에서 노쪽과 자쪽이 구분점이다. ㄷ: 소충은 새끼손톱 노쪽의 심경 정혈이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 소택은 새끼손톱 자쪽의 소장경 정혈이다. ㄴ: 같은 새끼손가락에서 노쪽과 자쪽이 구분점이다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 옳다. 소택은 새끼손톱 자쪽의 소장경 정혈이다. ㄴ은 다음과 같이 고친다. 같은 새끼손가락에서 노쪽과 자쪽이 구분점이다. ㄷ은 옳다. 소충은 새끼손톱 노쪽의 심경 정혈이다.",
+      "discriminator": "소택은 새끼손톱 자쪽의 소장경 정혈이다. 같은 새끼손가락에서 노쪽과 자쪽이 구분점이다. 소충은 새끼손톱 노쪽의 심경 정혈이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "소택은 새끼손톱 자쪽이며 소장경에 속한다."
+          ],
+          [
+            "ㄴ",
+            "두 혈은 손톱의 같은 쪽에 있고 높이만 다르다."
+          ],
+          [
+            "ㄷ",
+            "소충은 새끼손톱 노쪽이며 심경에 속한다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-91",
+      "subject": "acupoints",
+      "cardId": "point-SP1",
+      "difficulty": "high",
+      "prompt": "엄지발톱의 은백·대돈 — 옳은 설명을 모두 고른 것은?",
+      "context": "엄지발톱의 안쪽과 가쪽을 기준으로 두 혈을 비교한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/sp1/",
+          "title": "은백 위치"
+        },
+        {
+          "url": "/acupuncture/points/lr1/",
+          "title": "대돈 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/sp1/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "은백은 비경, 대돈은 간경의 정혈이다.",
+          "correct": true,
+          "reason": "같은 엄지발가락에서 안쪽의 비경 은백과 가쪽의 간경 대돈을 구별한다."
+        },
+        {
+          "text": "은백은 엄지발톱 안쪽 뿌리각 부근이다.",
+          "correct": true,
+          "reason": "은백은 엄지발톱 안쪽의 비경 정혈이다."
+        },
+        {
+          "text": "대돈은 엄지발톱 가쪽 뿌리각 부근이다.",
+          "correct": true,
+          "reason": "대돈은 엄지발톱 가쪽의 간경 정혈이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 같은 엄지발가락에서 안쪽의 비경 은백과 가쪽의 간경 대돈을 구별한다. ㄴ: 은백은 엄지발톱 안쪽의 비경 정혈이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 같은 엄지발가락에서 안쪽의 비경 은백과 가쪽의 간경 대돈을 구별한다. ㄴ: 은백은 엄지발톱 안쪽의 비경 정혈이다. ㄷ: 대돈은 엄지발톱 가쪽의 간경 정혈이다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 대돈은 엄지발톱 가쪽의 간경 정혈이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 은백은 엄지발톱 안쪽의 비경 정혈이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 같은 엄지발가락에서 안쪽의 비경 은백과 가쪽의 간경 대돈을 구별한다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 옳다. 같은 엄지발가락에서 안쪽의 비경 은백과 가쪽의 간경 대돈을 구별한다. ㄴ은 옳다. 은백은 엄지발톱 안쪽의 비경 정혈이다. ㄷ은 옳다. 대돈은 엄지발톱 가쪽의 간경 정혈이다.",
+      "discriminator": "같은 엄지발가락에서 안쪽의 비경 은백과 가쪽의 간경 대돈을 구별한다. 은백은 엄지발톱 안쪽의 비경 정혈이다. 대돈은 엄지발톱 가쪽의 간경 정혈이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "은백은 비경, 대돈은 간경의 정혈이다."
+          ],
+          [
+            "ㄴ",
+            "은백은 엄지발톱 안쪽 뿌리각 부근이다."
+          ],
+          [
+            "ㄷ",
+            "대돈은 엄지발톱 가쪽 뿌리각 부근이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-92",
+      "subject": "acupoints",
+      "cardId": "point-ST45",
+      "difficulty": "high",
+      "prompt": "둘째·넷째·다섯째 발가락의 정혈 — 옳은 설명을 모두 고른 것은?",
+      "context": "각 혈의 발가락 번호를 먼저 맞춘 뒤 경맥을 확인한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/st45/",
+          "title": "여태 위치"
+        },
+        {
+          "url": "/acupuncture/points/gb44/",
+          "title": "족규음 위치"
+        },
+        {
+          "url": "/acupuncture/points/bl67/",
+          "title": "지음 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/st45/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "여태는 둘째발톱 안쪽 뿌리각 부근이다.",
+          "correct": false,
+          "reason": "여태은 둘째발톱 가쪽 뿌리각을 기준으로 한다."
+        },
+        {
+          "text": "족규음은 넷째발가락의 담경 정혈이다.",
+          "correct": true,
+          "reason": "족규음은 넷째발톱 가쪽을 기준으로 한다."
+        },
+        {
+          "text": "지음은 넷째발가락의 방광경 정혈이다.",
+          "correct": false,
+          "reason": "지음은 다섯째발톱 가쪽을 기준으로 한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 여태은 둘째발톱 가쪽 뿌리각을 기준으로 한다. ㄴ: 족규음은 넷째발톱 가쪽을 기준으로 한다. ㄷ: 지음은 다섯째발톱 가쪽을 기준으로 한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄷ: 지음은 다섯째발톱 가쪽을 기준으로 한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 여태은 둘째발톱 가쪽 뿌리각을 기준으로 한다. ㄴ: 족규음은 넷째발톱 가쪽을 기준으로 한다. ㄷ: 지음은 다섯째발톱 가쪽을 기준으로 한다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 여태은 둘째발톱 가쪽 뿌리각을 기준으로 한다. ㄷ: 지음은 다섯째발톱 가쪽을 기준으로 한다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 여태은 둘째발톱 가쪽 뿌리각을 기준으로 한다. ㄴ: 족규음은 넷째발톱 가쪽을 기준으로 한다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 다음과 같이 고친다. 여태은 둘째발톱 가쪽 뿌리각을 기준으로 한다. ㄴ은 옳다. 족규음은 넷째발톱 가쪽을 기준으로 한다. ㄷ은 다음과 같이 고친다. 지음은 다섯째발톱 가쪽을 기준으로 한다.",
+      "discriminator": "여태은 둘째발톱 가쪽 뿌리각을 기준으로 한다. 족규음은 넷째발톱 가쪽을 기준으로 한다. 지음은 다섯째발톱 가쪽을 기준으로 한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "여태는 둘째발톱 안쪽 뿌리각 부근이다."
+          ],
+          [
+            "ㄴ",
+            "족규음은 넷째발가락의 담경 정혈이다."
+          ],
+          [
+            "ㄷ",
+            "지음은 넷째발가락의 방광경 정혈이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-93",
+      "subject": "acupoints",
+      "cardId": "point-BL2",
+      "difficulty": "high",
+      "prompt": "눈썹·눈확 아래·이마의 표지 — 옳은 설명을 모두 고른 것은?",
+      "context": "찬죽·사백·양백을 세로로 배열하되 각 혈의 실제 기준점을 따로 확인한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/bl2/",
+          "title": "찬죽 위치"
+        },
+        {
+          "url": "/acupuncture/points/st2/",
+          "title": "사백 위치"
+        },
+        {
+          "url": "/acupuncture/points/gb14/",
+          "title": "양백 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/bl2/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "사백은 눈확아래구멍 부위이다.",
+          "correct": true,
+          "reason": "사백의 기준은 눈확아래구멍이다."
+        },
+        {
+          "text": "양백은 눈썹 안쪽끝 바로 아래에 있다.",
+          "correct": false,
+          "reason": "양백은 동공 중심 수직선상에서 눈썹 위 1촌이다."
+        },
+        {
+          "text": "찬죽은 눈썹 안쪽끝의 오목한 곳이다.",
+          "correct": true,
+          "reason": "찬죽의 기준은 눈썹 안쪽끝이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 사백의 기준은 눈확아래구멍이다. ㄴ: 양백은 동공 중심 수직선상에서 눈썹 위 1촌이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄴ: 양백은 동공 중심 수직선상에서 눈썹 위 1촌이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄷ: 찬죽의 기준은 눈썹 안쪽끝이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 사백의 기준은 눈확아래구멍이다. ㄴ: 양백은 동공 중심 수직선상에서 눈썹 위 1촌이다. ㄷ: 찬죽의 기준은 눈썹 안쪽끝이다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 사백의 기준은 눈확아래구멍이다. ㄴ: 양백은 동공 중심 수직선상에서 눈썹 위 1촌이다. ㄷ: 찬죽의 기준은 눈썹 안쪽끝이다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 사백의 기준은 눈확아래구멍이다. ㄴ은 다음과 같이 고친다. 양백은 동공 중심 수직선상에서 눈썹 위 1촌이다. ㄷ은 옳다. 찬죽의 기준은 눈썹 안쪽끝이다.",
+      "discriminator": "사백의 기준은 눈확아래구멍이다. 양백은 동공 중심 수직선상에서 눈썹 위 1촌이다. 찬죽의 기준은 눈썹 안쪽끝이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "사백은 눈확아래구멍 부위이다."
+          ],
+          [
+            "ㄴ",
+            "양백은 눈썹 안쪽끝 바로 아래에 있다."
+          ],
+          [
+            "ㄷ",
+            "찬죽은 눈썹 안쪽끝의 오목한 곳이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-94",
+      "subject": "acupoints",
+      "cardId": "point-LI20",
+      "difficulty": "high",
+      "prompt": "콧방울·입꼬리·광대활의 위치 구별 — 옳은 설명을 모두 고른 것은?",
+      "context": "얼굴의 영향·지창·하관을 서로 다른 뼈·연부조직 표지로 비교한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/li20-yingxiang/",
+          "title": "영향 위치"
+        },
+        {
+          "url": "/acupuncture/points/st4/",
+          "title": "지창 위치"
+        },
+        {
+          "url": "/acupuncture/points/st7/",
+          "title": "하관 위치"
+        },
+        {
+          "url": "/acupuncture/points/st6/",
+          "title": "협거 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/li20-yingxiang/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "하관은 턱뼈각 위앞쪽 1촌이다.",
+          "correct": false,
+          "reason": "턱뼈각 위앞쪽 1촌은 협거의 표지이고 하관은 광대활 아래와 턱뼈패임 사이이다."
+        },
+        {
+          "text": "영향은 코입술고랑 위, 콧방울 가쪽모서리 중점 높이이다.",
+          "correct": true,
+          "reason": "영향은 콧방울과 코입술고랑을 함께 확인한다."
+        },
+        {
+          "text": "지창은 입꼬리 가쪽 0.4촌이다.",
+          "correct": true,
+          "reason": "지창는 입꼬리를 기준으로 가쪽 0.4촌에 있다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 턱뼈각 위앞쪽 1촌은 협거의 표지이고 하관은 광대활 아래와 턱뼈패임 사이이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 턱뼈각 위앞쪽 1촌은 협거의 표지이고 하관은 광대활 아래와 턱뼈패임 사이이다. ㄴ: 영향은 콧방울과 코입술고랑을 함께 확인한다. ㄷ: 지창는 입꼬리를 기준으로 가쪽 0.4촌에 있다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄷ: 지창는 입꼬리를 기준으로 가쪽 0.4촌에 있다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄴ: 영향은 콧방울과 코입술고랑을 함께 확인한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 턱뼈각 위앞쪽 1촌은 협거의 표지이고 하관은 광대활 아래와 턱뼈패임 사이이다. ㄴ: 영향은 콧방울과 코입술고랑을 함께 확인한다. ㄷ: 지창는 입꼬리를 기준으로 가쪽 0.4촌에 있다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 다음과 같이 고친다. 턱뼈각 위앞쪽 1촌은 협거의 표지이고 하관은 광대활 아래와 턱뼈패임 사이이다. ㄴ은 옳다. 영향은 콧방울과 코입술고랑을 함께 확인한다. ㄷ은 옳다. 지창는 입꼬리를 기준으로 가쪽 0.4촌에 있다.",
+      "discriminator": "턱뼈각 위앞쪽 1촌은 협거의 표지이고 하관은 광대활 아래와 턱뼈패임 사이이다. 영향은 콧방울과 코입술고랑을 함께 확인한다. 지창는 입꼬리를 기준으로 가쪽 0.4촌에 있다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "하관은 턱뼈각 위앞쪽 1촌이다."
+          ],
+          [
+            "ㄴ",
+            "영향은 코입술고랑 위, 콧방울 가쪽모서리 중점 높이이다."
+          ],
+          [
+            "ㄷ",
+            "지창은 입꼬리 가쪽 0.4촌이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-95",
+      "subject": "acupoints",
+      "cardId": "point-SI12",
+      "difficulty": "expert",
+      "prompt": "어깨뼈가시 위아래의 병풍·천종 — 옳은 설명을 모두 고른 것은?",
+      "context": "어깨뼈가시와 아래각을 표지로 두 소장경 혈을 비교한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/si12/",
+          "title": "병풍 위치"
+        },
+        {
+          "url": "/acupuncture/points/si11-tianzong/",
+          "title": "천종 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/si12/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "병풍은 어깨뼈가시 중점 위쪽 가시위오목에 있다.",
+          "correct": true,
+          "reason": "병풍는 가시위오목의 어깨뼈가시 중점 위쪽 오목한 곳이다."
+        },
+        {
+          "text": "천종은 어깨뼈가시 중점~아래각 선의 아래쪽 1/3 지점이다.",
+          "correct": false,
+          "reason": "천종은 위쪽에서 1/3, 아래쪽에서 2/3 지점을 기준으로 한다."
+        },
+        {
+          "text": "두 혈은 모두 어깨뼈가시 위쪽 오목에 있다.",
+          "correct": false,
+          "reason": "병풍은 가시위오목, 천종은 가시 아래쪽의 표지를 사용한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 병풍는 가시위오목의 어깨뼈가시 중점 위쪽 오목한 곳이다. ㄴ: 천종은 위쪽에서 1/3, 아래쪽에서 2/3 지점을 기준으로 한다. ㄷ: 병풍은 가시위오목, 천종은 가시 아래쪽의 표지를 사용한다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 병풍는 가시위오목의 어깨뼈가시 중점 위쪽 오목한 곳이다. ㄴ: 천종은 위쪽에서 1/3, 아래쪽에서 2/3 지점을 기준으로 한다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 병풍는 가시위오목의 어깨뼈가시 중점 위쪽 오목한 곳이다. ㄷ: 병풍은 가시위오목, 천종은 가시 아래쪽의 표지를 사용한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄴ: 천종은 위쪽에서 1/3, 아래쪽에서 2/3 지점을 기준으로 한다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄷ: 병풍은 가시위오목, 천종은 가시 아래쪽의 표지를 사용한다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "ㄱ은 옳다. 병풍는 가시위오목의 어깨뼈가시 중점 위쪽 오목한 곳이다. ㄴ은 다음과 같이 고친다. 천종은 위쪽에서 1/3, 아래쪽에서 2/3 지점을 기준으로 한다. ㄷ은 다음과 같이 고친다. 병풍은 가시위오목, 천종은 가시 아래쪽의 표지를 사용한다.",
+      "discriminator": "병풍는 가시위오목의 어깨뼈가시 중점 위쪽 오목한 곳이다. 천종은 위쪽에서 1/3, 아래쪽에서 2/3 지점을 기준으로 한다. 병풍은 가시위오목, 천종은 가시 아래쪽의 표지를 사용한다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "병풍은 어깨뼈가시 중점 위쪽 가시위오목에 있다."
+          ],
+          [
+            "ㄴ",
+            "천종은 어깨뼈가시 중점~아래각 선의 아래쪽 1/3 지점이다."
+          ],
+          [
+            "ㄷ",
+            "두 혈은 모두 어깨뼈가시 위쪽 오목에 있다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-96",
+      "subject": "acupoints",
+      "cardId": "point-SI9",
+      "difficulty": "expert",
+      "prompt": "뒤겨드랑주름을 쓰는 견정·노수 — 옳은 설명을 모두 고른 것은?",
+      "context": "소장경의 견정(肩貞)과 노수를 뒤겨드랑주름 끝 기준으로 비교한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/si9/",
+          "title": "견정 · 수태양소장경 위치"
+        },
+        {
+          "url": "/acupuncture/points/si10/",
+          "title": "노수 위치"
+        },
+        {
+          "url": "/acupuncture/points/gb21-jianjing/",
+          "title": "견정 · 족소양담경 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/si9/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "노수은 같은 주름 끝의 위쪽, 어깨뼈가시 아래 오목이다.",
+          "correct": true,
+          "reason": "노수는 뒤겨드랑주름 끝의 위쪽에서 어깨뼈가시 아래 오목을 찾는다."
+        },
+        {
+          "text": "견정(肩貞)의 肩貞과 담경 견정(肩井)의 肩井은 같은 한자이다.",
+          "correct": false,
+          "reason": "은 肩貞,은 肩井으로 이름의 한자와 소속 경맥을 나누어 확인한다."
+        },
+        {
+          "text": "견정(肩貞)은 뒤겨드랑주름 끝에서 위 1촌이다.",
+          "correct": true,
+          "reason": "견정(肩貞)은 어깨관절 아래뒤쪽에서 뒤겨드랑주름 끝 위 1촌이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 노수는 뒤겨드랑주름 끝의 위쪽에서 어깨뼈가시 아래 오목을 찾는다. ㄴ:은 肩貞,은 肩井으로 이름의 한자와 소속 경맥을 나누어 확인한다. ㄷ: 견정(肩貞)은 어깨관절 아래뒤쪽에서 뒤겨드랑주름 끝 위 1촌이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 노수는 뒤겨드랑주름 끝의 위쪽에서 어깨뼈가시 아래 오목을 찾는다. ㄴ:은 肩貞,은 肩井으로 이름의 한자와 소속 경맥을 나누어 확인한다. ㄷ: 견정(肩貞)은 어깨관절 아래뒤쪽에서 뒤겨드랑주름 끝 위 1촌이다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 노수는 뒤겨드랑주름 끝의 위쪽에서 어깨뼈가시 아래 오목을 찾는다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄴ:은 肩貞,은 肩井으로 이름의 한자와 소속 경맥을 나누어 확인한다. ㄷ: 견정(肩貞)은 어깨관절 아래뒤쪽에서 뒤겨드랑주름 끝 위 1촌이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 노수는 뒤겨드랑주름 끝의 위쪽에서 어깨뼈가시 아래 오목을 찾는다. ㄴ:은 肩貞,은 肩井으로 이름의 한자와 소속 경맥을 나누어 확인한다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "ㄱ은 옳다. 노수는 뒤겨드랑주름 끝의 위쪽에서 어깨뼈가시 아래 오목을 찾는다. ㄴ은 다음과 같이 고친다.은 肩貞,은 肩井으로 이름의 한자와 소속 경맥을 나누어 확인한다. ㄷ은 옳다. 견정(肩貞)은 어깨관절 아래뒤쪽에서 뒤겨드랑주름 끝 위 1촌이다.",
+      "discriminator": "노수는 뒤겨드랑주름 끝의 위쪽에서 어깨뼈가시 아래 오목을 찾는다.은 肩貞,은 肩井으로 이름의 한자와 소속 경맥을 나누어 확인한다. 견정(肩貞)은 어깨관절 아래뒤쪽에서 뒤겨드랑주름 끝 위 1촌이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "노수은 같은 주름 끝의 위쪽, 어깨뼈가시 아래 오목이다."
+          ],
+          [
+            "ㄴ",
+            "견정(肩貞)의 肩貞과 담경 견정(肩井)의 肩井은 같은 한자이다."
+          ],
+          [
+            "ㄷ",
+            "견정(肩貞)은 뒤겨드랑주름 끝에서 위 1촌이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-97",
+      "subject": "acupoints",
+      "cardId": "point-GV20",
+      "difficulty": "expert",
+      "prompt": "백회·대추·명문의 기준점 — 옳은 설명을 모두 고른 것은?",
+      "context": "머리·목·허리의 독맥 혈을 하나의 고정 센티미터 간격으로 보지 않고 각 해부학적 기준점으로 찾는다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/gv20-baihui/",
+          "title": "백회 위치"
+        },
+        {
+          "url": "/acupuncture/points/gv14-dazhui/",
+          "title": "대추 위치"
+        },
+        {
+          "url": "/acupuncture/points/gv4-mingmen/",
+          "title": "명문 위치"
+        },
+        {
+          "url": "/acupuncture/points/gv3/",
+          "title": "요양관 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/gv20-baihui/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "명문은 제2허리뼈 가시돌기 아래의 뒤정중선이다.",
+          "correct": true,
+          "reason": "명문의 척추 높이는 L2이며 요양관의 L4와 구별한다."
+        },
+        {
+          "text": "백회는 앞머리카락 경계에서 위 5촌의 정중선 표지를 쓴다.",
+          "correct": true,
+          "reason": "백회은 앞머리카락 경계와 정중선을 기준으로 한다."
+        },
+        {
+          "text": "대추는 제7목뼈 가시돌기 아래 오목이다.",
+          "correct": true,
+          "reason": "대추은 C7 가시돌기 아래의 뒤정중선이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 명문의 척추 높이는 L2이며 요양관의 L4와 구별한다. ㄴ: 백회은 앞머리카락 경계와 정중선을 기준으로 한다."
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄷ: 대추은 C7 가시돌기 아래의 뒤정중선이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄱ: 명문의 척추 높이는 L2이며 요양관의 L4와 구별한다. ㄴ: 백회은 앞머리카락 경계와 정중선을 기준으로 한다. ㄷ: 대추은 C7 가시돌기 아래의 뒤정중선이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄴ: 백회은 앞머리카락 경계와 정중선을 기준으로 한다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 명문의 척추 높이는 L2이며 요양관의 L4와 구별한다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 명문의 척추 높이는 L2이며 요양관의 L4와 구별한다. ㄴ은 옳다. 백회은 앞머리카락 경계와 정중선을 기준으로 한다. ㄷ은 옳다. 대추은 C7 가시돌기 아래의 뒤정중선이다.",
+      "discriminator": "명문의 척추 높이는 L2이며 요양관의 L4와 구별한다. 백회은 앞머리카락 경계와 정중선을 기준으로 한다. 대추은 C7 가시돌기 아래의 뒤정중선이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "명문은 제2허리뼈 가시돌기 아래의 뒤정중선이다."
+          ],
+          [
+            "ㄴ",
+            "백회는 앞머리카락 경계에서 위 5촌의 정중선 표지를 쓴다."
+          ],
+          [
+            "ㄷ",
+            "대추는 제7목뼈 가시돌기 아래 오목이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-98",
+      "subject": "acupoints",
+      "cardId": "point-LU3",
+      "difficulty": "expert",
+      "prompt": "위팔에서 천부·협백의 기준점을 바꾸어 읽기 — 옳은 설명을 모두 고른 것은?",
+      "context": "앞겨드랑주름부터 팔오금주름까지를 9촌으로 놓는 교육용 골도분촌이다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/lu3/",
+          "title": "천부 위치"
+        },
+        {
+          "url": "/acupuncture/points/lu4/",
+          "title": "협백 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/lu3/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "천부는 앞겨드랑주름 아래 3촌이다.",
+          "correct": true,
+          "reason": "천부은 위팔두갈래근 가쪽모서리에서 앞겨드랑주름 아래 3촌이다."
+        },
+        {
+          "text": "협백은 팔오금주름에서 위 4촌이다.",
+          "correct": false,
+          "reason": "협백은 앞겨드랑주름 아래 4촌이고 전체가 9촌이면 팔오금주름 위 5촌 높이이다."
+        },
+        {
+          "text": "아래쪽 팔오금주름을 기준으로 하면 천부는 위 3촌이다.",
+          "correct": false,
+          "reason": "전체가 9촌이므로 천부는 팔오금주름에서 위 6촌, 협백은 위 5촌 높이이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄷ: 전체가 9촌이므로 천부는 팔오금주름에서 위 6촌, 협백은 위 5촌 높이이다."
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 천부은 위팔두갈래근 가쪽모서리에서 앞겨드랑주름 아래 3촌이다. ㄴ: 협백은 앞겨드랑주름 아래 4촌이고 전체가 9촌이면 팔오금주름 위 5촌 높이이다. ㄷ: 전체가 9촌이므로 천부는 팔오금주름에서 위 6촌, 협백은 위 5촌 높이이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄴ: 협백은 앞겨드랑주름 아래 4촌이고 전체가 9촌이면 팔오금주름 위 5촌 높이이다. ㄷ: 전체가 9촌이므로 천부는 팔오금주름에서 위 6촌, 협백은 위 5촌 높이이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄱ: 천부은 위팔두갈래근 가쪽모서리에서 앞겨드랑주름 아래 3촌이다. ㄴ: 협백은 앞겨드랑주름 아래 4촌이고 전체가 9촌이면 팔오금주름 위 5촌 높이이다. ㄷ: 전체가 9촌이므로 천부는 팔오금주름에서 위 6촌, 협백은 위 5촌 높이이다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 천부은 위팔두갈래근 가쪽모서리에서 앞겨드랑주름 아래 3촌이다. ㄴ: 협백은 앞겨드랑주름 아래 4촌이고 전체가 9촌이면 팔오금주름 위 5촌 높이이다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "explanation": "ㄱ은 옳다. 천부은 위팔두갈래근 가쪽모서리에서 앞겨드랑주름 아래 3촌이다. ㄴ은 다음과 같이 고친다. 협백은 앞겨드랑주름 아래 4촌이고 전체가 9촌이면 팔오금주름 위 5촌 높이이다. ㄷ은 다음과 같이 고친다. 전체가 9촌이므로 천부는 팔오금주름에서 위 6촌, 협백은 위 5촌 높이이다.",
+      "discriminator": "천부은 위팔두갈래근 가쪽모서리에서 앞겨드랑주름 아래 3촌이다. 협백은 앞겨드랑주름 아래 4촌이고 전체가 9촌이면 팔오금주름 위 5촌 높이이다. 전체가 9촌이므로 천부는 팔오금주름에서 위 6촌, 협백은 위 5촌 높이이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "천부는 앞겨드랑주름 아래 3촌이다."
+          ],
+          [
+            "ㄴ",
+            "협백은 팔오금주름에서 위 4촌이다."
+          ],
+          [
+            "ㄷ",
+            "아래쪽 팔오금주름을 기준으로 하면 천부는 위 3촌이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-99",
+      "subject": "acupoints",
+      "cardId": "point-PC5",
+      "difficulty": "expert",
+      "prompt": "같은 심포경 선의 높이와 분류 — 옳은 설명을 모두 고른 것은?",
+      "context": "긴손바닥근힘줄과 노쪽손목굽힘근힘줄 사이를 따라 내관·간사·극문을 비교한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/pc6-neiguan/",
+          "title": "내관 위치"
+        },
+        {
+          "url": "/acupuncture/points/pc5/",
+          "title": "간사 위치"
+        },
+        {
+          "url": "/acupuncture/points/pc4-ximen/",
+          "title": "극문 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/pc6-neiguan/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "간사는 경혈(經穴), 극문은 극혈(郄穴)이다.",
+          "correct": true,
+          "reason": "간사는 오수혈의 經穴이고 극문은 郄穴로 글자와 분류를 구별한다."
+        },
+        {
+          "text": "극문에서 간사까지 간격은 3촌이다.",
+          "correct": false,
+          "reason": "5촌과 3촌의 차이는 2촌이며 간사와 내관의 차이는 1촌이다."
+        },
+        {
+          "text": "손목주름에서 몸쪽 순서는 내관→간사→극문이다.",
+          "correct": true,
+          "reason": "각 높이는 손목주름 위 2·3·5촌이므로 몸쪽으로 그 순서이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "detail": "ㄱ: 간사는 오수혈의 經穴이고 극문은 郄穴로 글자와 분류를 구별한다. ㄴ: 5촌과 3촌의 차이는 2촌이며 간사와 내관의 차이는 1촌이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄴ: 5촌과 3촌의 차이는 2촌이며 간사와 내관의 차이는 1촌이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄷ: 각 높이는 손목주름 위 2·3·5촌이므로 몸쪽으로 그 순서이다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 간사는 오수혈의 經穴이고 극문은 郄穴로 글자와 분류를 구별한다. ㄴ: 5촌과 3촌의 차이는 2촌이며 간사와 내관의 차이는 1촌이다. ㄷ: 각 높이는 손목주름 위 2·3·5촌이므로 몸쪽으로 그 순서이다."
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "detail": "ㄱ: 간사는 오수혈의 經穴이고 극문은 郄穴로 글자와 분류를 구별한다. ㄴ: 5촌과 3촌의 차이는 2촌이며 간사와 내관의 차이는 1촌이다. ㄷ: 각 높이는 손목주름 위 2·3·5촌이므로 몸쪽으로 그 순서이다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 간사는 오수혈의 經穴이고 극문은 郄穴로 글자와 분류를 구별한다. ㄴ은 다음과 같이 고친다. 5촌과 3촌의 차이는 2촌이며 간사와 내관의 차이는 1촌이다. ㄷ은 옳다. 각 높이는 손목주름 위 2·3·5촌이므로 몸쪽으로 그 순서이다.",
+      "discriminator": "간사는 오수혈의 經穴이고 극문은 郄穴로 글자와 분류를 구별한다. 5촌과 3촌의 차이는 2촌이며 간사와 내관의 차이는 1촌이다. 각 높이는 손목주름 위 2·3·5촌이므로 몸쪽으로 그 순서이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "간사는 경혈(經穴), 극문은 극혈(郄穴)이다."
+          ],
+          [
+            "ㄴ",
+            "극문에서 간사까지 간격은 3촌이다."
+          ],
+          [
+            "ㄷ",
+            "손목주름에서 몸쪽 순서는 내관→간사→극문이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-100",
+      "subject": "acupoints",
+      "cardId": "point-CV13",
+      "difficulty": "expert",
+      "prompt": "상완·중완·하완을 아래 기준으로 읽기 — 옳은 설명을 모두 고른 것은?",
+      "context": "배꼽 위 2·4·5촌에 놓인 하완·중완·상완의 높이를 비교한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/cv13/",
+          "title": "상완 위치"
+        },
+        {
+          "url": "/acupuncture/points/cv12-zhongwan/",
+          "title": "중완 위치"
+        },
+        {
+          "url": "/acupuncture/points/cv10/",
+          "title": "하완 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/cv13/",
+      "batch": "reasoning-20261105",
+      "topic": "statement-comparison",
+      "format": "comparison",
+      "statements": [
+        {
+          "text": "상완에서 아래 3촌 지점은 하완 높이이다.",
+          "correct": true,
+          "reason": "상완의 5촌 높이에서 3촌을 내려가면 배꼽 위 2촌인 하완 높이이다."
+        },
+        {
+          "text": "배꼽에서 위로 가면 하완→중완→상완이다.",
+          "correct": true,
+          "reason": "배꼽 위 높이 2·4·5촌의 순서이다."
+        },
+        {
+          "text": "하완에서 중완까지와 중완에서 상완까지의 간격은 모두 2촌이다.",
+          "correct": false,
+          "reason": "하완→중완은 2촌, 중완→상완은 1촌이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "detail": "ㄱ: 상완의 5촌 높이에서 3촌을 내려가면 배꼽 위 2촌인 하완 높이이다. ㄴ: 배꼽 위 높이 2·4·5촌의 순서이다. ㄷ: 하완→중완은 2촌, 중완→상완은 1촌이다."
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "detail": "ㄷ: 하완→중완은 2촌, 중완→상완은 1촌이다."
+        },
+        {
+          "text": "ㄱ",
+          "statementIndices": [
+            0
+          ],
+          "detail": "ㄴ: 배꼽 위 높이 2·4·5촌의 순서이다."
+        },
+        {
+          "text": "ㄴ",
+          "statementIndices": [
+            1
+          ],
+          "detail": "ㄱ: 상완의 5촌 높이에서 3촌을 내려가면 배꼽 위 2촌인 하완 높이이다."
+        },
+        {
+          "text": "ㄷ",
+          "statementIndices": [
+            2
+          ],
+          "detail": "ㄱ: 상완의 5촌 높이에서 3촌을 내려가면 배꼽 위 2촌인 하완 높이이다. ㄴ: 배꼽 위 높이 2·4·5촌의 순서이다. ㄷ: 하완→중완은 2촌, 중완→상완은 1촌이다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "ㄱ은 옳다. 상완의 5촌 높이에서 3촌을 내려가면 배꼽 위 2촌인 하완 높이이다. ㄴ은 옳다. 배꼽 위 높이 2·4·5촌의 순서이다. ㄷ은 다음과 같이 고친다. 하완→중완은 2촌, 중완→상완은 1촌이다.",
+      "discriminator": "상완의 5촌 높이에서 3촌을 내려가면 배꼽 위 2촌인 하완 높이이다. 배꼽 위 높이 2·4·5촌의 순서이다. 하완→중완은 2촌, 중완→상완은 1촌이다.",
+      "table": {
+        "caption": "설명별 판단",
+        "headers": [
+          "항목",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "상완에서 아래 3촌 지점은 하완 높이이다."
+          ],
+          [
+            "ㄴ",
+            "배꼽에서 위로 가면 하완→중완→상완이다."
+          ],
+          [
+            "ㄷ",
+            "하완에서 중완까지와 중완에서 상완까지의 간격은 모두 2촌이다."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clinical-acupoints-101",
+      "subject": "acupoints",
+      "cardId": "point-LU3",
+      "difficulty": "high",
+      "prompt": "위팔 길이 27cm에서 천부·협백 높이는?",
+      "context": "교육용 도면에서 앞겨드랑주름~팔오금주름의 실제 길이는 27cm, 비례 길이는 9촌이다. 앞겨드랑주름을 기준으로 천부·협백의 아래쪽 거리를 계산한다. 표면의 위팔두갈래근 가쪽모서리 조건은 충족했다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/lu3/",
+          "title": "천부 위치"
+        },
+        {
+          "url": "/acupuncture/points/lu4/",
+          "title": "협백 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/lu3/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "천부 9cm / 협백 12cm",
+          "detail": "1촌=27/9=3cm이므로 3촌은 9cm, 4촌은 12cm이다."
+        },
+        {
+          "text": "천부 3cm / 협백 4cm",
+          "detail": "촌 숫자를 센티미터로 그대로 읽었다."
+        },
+        {
+          "text": "천부 12cm / 협백 9cm",
+          "detail": "천부와 협백의 3촌·4촌 순서를 바꾸었다."
+        },
+        {
+          "text": "천부 18cm / 협백 15cm",
+          "detail": "아래쪽 팔오금주름을 기준으로 한 남은 길이를 적었다."
+        },
+        {
+          "text": "천부 6.75cm / 협백 9cm",
+          "detail": "위팔의 9촌을 아래팔의 12촌과 혼동했다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 3,
+      "explanation": "위팔 구간을 9등분한 뒤 각 혈의 위쪽 기준 거리를 적용한다.",
+      "discriminator": "기준점이 앞겨드랑주름이고 분모가 9촌이다."
+    },
+    {
+      "id": "clinical-acupoints-102",
+      "subject": "acupoints",
+      "cardId": "point-PC5",
+      "difficulty": "high",
+      "prompt": "아래팔 24cm에서 간사·극문의 거리는?",
+      "context": "교육용 도면에서 손목주름~팔오금주름은 24cm=12촌이다. 같은 앞쪽 힘줄 사이 선에서 손목주름 위 3촌과 5촌을 표시한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/pc5/",
+          "title": "간사 위치"
+        },
+        {
+          "url": "/acupuncture/points/pc4-ximen/",
+          "title": "극문 위치"
+        },
+        {
+          "url": "/acupuncture/points/pc6-neiguan/",
+          "title": "내관 위치"
+        },
+        {
+          "url": "/acupuncture/points/te5-waiguan/",
+          "title": "외관 위치"
+        },
+        {
+          "url": "/acupuncture/points/te6/",
+          "title": "지구 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/pc5/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "내관 6cm / 간사 10cm",
+          "detail": "높이 3·5촌의 이름은 간사·극문이다. 내관은 2촌이다."
+        },
+        {
+          "text": "간사 6cm / 극문 10cm",
+          "detail": "1촌=2cm로 간사 3촌은 6cm, 극문 5촌은 10cm이다."
+        },
+        {
+          "text": "간사 3cm / 극문 5cm",
+          "detail": "촌과 센티미터를 일대일로 놓았다."
+        },
+        {
+          "text": "간사 10cm / 극문 6cm",
+          "detail": "간사·극문의 3촌·5촌을 뒤바꾸었다."
+        },
+        {
+          "text": "외관 6cm / 지구 10cm",
+          "detail": "외관·지구는 뒤쪽면 2·3촌으로 면과 높이가 모두 다르다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "전체 12촌을 24cm에 대응시키고 앞쪽 두 힘줄 조건을 유지한다.",
+      "discriminator": "높이 3·5촌과 앞쪽면이라는 두 조건이 간사·극문을 가른다."
+    },
+    {
+      "id": "clinical-acupoints-103",
+      "subject": "acupoints",
+      "cardId": "point-CV10",
+      "difficulty": "high",
+      "prompt": "윗배 24cm의 비례 도면에서 세 혈을 배치하면?",
+      "context": "복장뼈몸통·칼돌기 결합부 중점부터 배꼽 중심까지를 8촌=24cm로 놓았다. 배꼽에서 위쪽으로 하완·중완·상완을 표시한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/cv10/",
+          "title": "하완 위치"
+        },
+        {
+          "url": "/acupuncture/points/cv12-zhongwan/",
+          "title": "중완 위치"
+        },
+        {
+          "url": "/acupuncture/points/cv13/",
+          "title": "상완 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/cv10/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "하완 6cm / 중완 15cm / 상완 12cm",
+          "detail": "하완은 맞지만 중완과 상완의 4촌·5촌을 뒤바꾸었다."
+        },
+        {
+          "text": "하완 2cm / 중완 4cm / 상완 5cm",
+          "detail": "촌 숫자를 실제 센티미터로 곧바로 적었다."
+        },
+        {
+          "text": "하완 6cm / 중완 12cm / 상완 15cm",
+          "detail": "1촌=3cm로 2·4·5촌을 각각 환산한 교육용 높이이다."
+        },
+        {
+          "text": "하완 18cm / 중완 12cm / 상완 9cm",
+          "detail": "위쪽 결합부에서 아래로 잰 남은 길이로 기준점이 바뀌었다."
+        },
+        {
+          "text": "하완 9cm / 중완 12cm / 상완 18cm",
+          "detail": "하완·상완의 높이를 3·6촌으로 잘못 적용했다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 0,
+      "explanation": "배꼽을 원점으로 2·4·5촌을 적용한다.",
+      "discriminator": "전체 8촌과 출발점 배꼽을 함께 확인한다."
+    },
+    {
+      "id": "clinical-acupoints-104",
+      "subject": "acupoints",
+      "cardId": "point-SI11",
+      "difficulty": "high",
+      "prompt": "어깨뼈가시에서 천종의 분할 지점을 계산하면?",
+      "context": "교육용 표면 도면에서 어깨뼈가시 중점부터 아래각까지 선분을 12cm로 그렸다. 천종의 위쪽 1/3·아래쪽 2/3 위치를 표시한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/si11-tianzong/",
+          "title": "천종 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/si11-tianzong/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "가시 중점에서 아래 8cm / 아래각에서 위 4cm",
+          "detail": "위쪽 1/3과 아래쪽 2/3를 반대로 적용했다."
+        },
+        {
+          "text": "가시 중점에서 아래 6cm / 아래각에서 위 6cm",
+          "detail": "중점을 선택해 천종의 1/3 분할 조건과 다르다."
+        },
+        {
+          "text": "가시 중점에서 위 4cm / 아래각에서 위 8cm",
+          "detail": "가시 중점에서의 방향을 위쪽으로 바꾸었다."
+        },
+        {
+          "text": "가시 중점에서 아래 4cm / 아래각에서 위 8cm",
+          "detail": "12cm의 위쪽 1/3은 4cm이며 남은 아래쪽 구간은 8cm이다."
+        },
+        {
+          "text": "가시 중점에서 아래 3cm / 아래각에서 위 9cm",
+          "detail": "선분의 1/4을 적용했다."
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 0,
+      "explanation": "천종은 선분의 위쪽에서 1/3 지점으로, 두 기준점 거리를 함께 대조한다.",
+      "discriminator": "출발점과 분율을 함께 읽고 4+8=12cm를 확인한다."
+    },
+    {
+      "id": "clinical-acupoints-105",
+      "subject": "acupoints",
+      "cardId": "point-HT9",
+      "difficulty": "expert",
+      "prompt": "새끼손가락의 두 정혈을 노쪽→자쪽 순서로 적으면?",
+      "context": "손바닥·손등 방향을 바꾸어 보는 연습에서도 해부학적 노쪽·자쪽은 유지한다. 새끼손톱의 노쪽과 자쪽에 있는 두 정혈을 그 순서로 고른다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/ht9/",
+          "title": "소충 위치"
+        },
+        {
+          "url": "/acupuncture/points/si1/",
+          "title": "소택 위치"
+        },
+        {
+          "url": "/acupuncture/points/lu11/",
+          "title": "소상 위치"
+        },
+        {
+          "url": "/acupuncture/points/li1/",
+          "title": "상양 위치"
+        },
+        {
+          "url": "/acupuncture/points/te1/",
+          "title": "관충 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/ht9/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "소택→소충",
+          "detail": "노쪽과 자쪽의 순서를 반대로 놓았다."
+        },
+        {
+          "text": "소상→상양",
+          "detail": "두 혈은 엄지와 집게손가락에 있어 손가락 조건이 다르다."
+        },
+        {
+          "text": "관충→소택",
+          "detail": "관충은 약손가락의 자쪽이므로 새끼손가락 노쪽 조건과 다르다."
+        },
+        {
+          "text": "소충→관충",
+          "detail": "앞 항목은 맞지만 자쪽 새끼손톱의 혈은 소택이다."
+        },
+        {
+          "text": "소충→소택",
+          "detail": "새끼손톱의 노쪽은 심경 소충, 자쪽은 소장경 소택이다."
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 0,
+      "explanation": "도면을 회전해도 노쪽·자쪽의 해부학적 기준으로 구별한다.",
+      "discriminator": "같은 손가락에서 손톱의 어느 쪽인지를 확인한다."
+    },
+    {
+      "id": "clinical-acupoints-106",
+      "subject": "acupoints",
+      "cardId": "point-BL2",
+      "difficulty": "expert",
+      "prompt": "눈썹 안쪽끝과 눈확아래구멍을 맞춰 적으면?",
+      "context": "A 표지는 눈썹 안쪽끝의 오목, B 표지는 눈확아래구멍이다. 위치 명칭만으로 A→B를 식별한다. 자침 깊이를 묻는 문항은 아니다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/bl2/",
+          "title": "찬죽 위치"
+        },
+        {
+          "url": "/acupuncture/points/st2/",
+          "title": "사백 위치"
+        },
+        {
+          "url": "/acupuncture/points/bl1/",
+          "title": "정명 위치"
+        },
+        {
+          "url": "/acupuncture/points/gb14/",
+          "title": "양백 위치"
+        },
+        {
+          "url": "/acupuncture/points/li20-yingxiang/",
+          "title": "영향 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/bl2/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "찬죽→사백",
+          "detail": "찬죽의 눈썹 안쪽끝과 사백의 눈확아래구멍 표지를 맞게 연결한다."
+        },
+        {
+          "text": "정명→사백",
+          "detail": "B는 맞지만 정명은 안쪽눈구석 위안쪽과 눈확 안쪽벽 사이이다."
+        },
+        {
+          "text": "양백→찬죽",
+          "detail": "양백은 동공 수직선상 눈썹 위 1촌이며 B도 다른 표지이다."
+        },
+        {
+          "text": "사백→찬죽",
+          "detail": "두 표지를 반대로 놓았다."
+        },
+        {
+          "text": "찬죽→영향",
+          "detail": "A는 맞지만 영향은 코입술고랑의 콧방울 높이이다."
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "눈썹·눈구석·눈확아래구멍은 서로 다른 표면 기준점이다.",
+      "discriminator": "단순히 눈 주위라는 공통 부위보다 정확한 표지를 우선한다."
+    },
+    {
+      "id": "clinical-acupoints-107",
+      "subject": "acupoints",
+      "cardId": "point-SI12",
+      "difficulty": "expert",
+      "prompt": "가시위오목을 지정했을 때 천종 대신 맞는 혈은?",
+      "context": "기록에는 “어깨뼈가시 중점 위쪽의 가시위오목”이라고 적었지만 혈명은 천종이라고 썼다. 표면 표지를 유지하면서 혈명을 수정한다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/si12/",
+          "title": "병풍 위치"
+        },
+        {
+          "url": "/acupuncture/points/si11-tianzong/",
+          "title": "천종 위치"
+        },
+        {
+          "url": "/acupuncture/points/si10/",
+          "title": "노수 위치"
+        },
+        {
+          "url": "/acupuncture/points/si9/",
+          "title": "견정 · 수태양소장경 위치"
+        },
+        {
+          "url": "/acupuncture/points/gb21-jianjing/",
+          "title": "견정 · 족소양담경 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/si12/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "노수",
+          "detail": "노수는 뒤겨드랑주름 끝 위쪽의 어깨뼈가시 아래 오목으로 기준점이 다르다."
+        },
+        {
+          "text": "병풍",
+          "detail": "가시위오목의 어깨뼈가시 중점 위쪽 오목한 곳이 병풍이다."
+        },
+        {
+          "text": "소장경 견정(肩貞)",
+          "detail": "견정(肩貞)은 뒤겨드랑주름 끝 위 1촌이다."
+        },
+        {
+          "text": "천종을 유지",
+          "detail": "천종은 가시 중점~아래각 선의 위쪽 1/3로 가시 아래 표지를 쓴다."
+        },
+        {
+          "text": "담경 견정(肩井)",
+          "detail": "견정(肩井)은 별도 담경 혈로 제시한 가시위오목 표지와 다르다."
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 3,
+      "explanation": "혈명보다 적힌 해부학적 표지를 먼저 확인해 병풍으로 수정한다.",
+      "discriminator": "가시 위와 아래의 방향 차이가 천종·병풍을 가른다."
+    },
+    {
+      "id": "clinical-acupoints-108",
+      "subject": "acupoints",
+      "cardId": "point-GV4",
+      "difficulty": "expert",
+      "prompt": "명문과 신수의 같은 높이·다른 가쪽 거리는?",
+      "context": "제2허리뼈 가시돌기 아래 높이를 확인한 교육용 표면 지도이다. A는 뒤정중선, B는 같은 높이에서 가쪽 1.5촌이다.",
+      "references": [
+        {
+          "url": "/acupuncture/points/gv4-mingmen/",
+          "title": "명문 위치"
+        },
+        {
+          "url": "/acupuncture/points/bl23-shenshu/",
+          "title": "신수 위치"
+        },
+        {
+          "url": "/acupuncture/points/gv3/",
+          "title": "요양관 위치"
+        },
+        {
+          "url": "/acupuncture/points/bl25-dachangshu/",
+          "title": "대장수 위치"
+        },
+        {
+          "url": "/acupuncture/points/bl24/",
+          "title": "기해수 위치"
+        }
+      ],
+      "relatedSource": "/acupuncture/points/gv4-mingmen/",
+      "batch": "reasoning-20261105",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "options": [
+        {
+          "text": "A 요양관 / B 대장수",
+          "detail": "두 혈은 제4허리뼈 높이로 주어진 제2허리뼈와 다르다."
+        },
+        {
+          "text": "A 신수 / B 명문",
+          "detail": "정중선과 가쪽의 소속을 반대로 놓았다."
+        },
+        {
+          "text": "A 명문 / B 신수",
+          "detail": "명문은 L2 아래 뒤정중선, 신수는 같은 높이의 가쪽 1.5촌이다."
+        },
+        {
+          "text": "A 명문 / B 기해수",
+          "detail": "A는 맞지만 기해수는 제3허리뼈 높이이다."
+        },
+        {
+          "text": "A 대추 / B 폐수",
+          "detail": "목·등 위쪽 혈로 제시된 허리 높이와 다르다."
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 3,
+      "explanation": "먼저 척추 높이를 고정한 다음 정중선과 가쪽 거리를 구별한다.",
+      "discriminator": "L2 높이와 정중선·1.5촌이라는 두 좌표를 모두 맞춘다."
     }
   ],
   "questionsPerLevel": 18,
@@ -33983,8 +38910,8 @@
     "shanghanlun": 54,
     "sasang": 54,
     "anatomy": 42,
-    "acupuncture": 44,
-    "herbs": 44,
-    "acupoints": 44
+    "acupuncture": 54,
+    "herbs": 54,
+    "acupoints": 54
   }
 }
