@@ -63,7 +63,11 @@
     node.textContent = new Intl.DateTimeFormat("ko-KR", {timeZone:"UTC",year:"numeric",month:"long",day:"numeric",weekday:"short"}).format(date);
     node.setAttribute("datetime",key); node.classList.add("daily-calendar-date");
     node.dataset.calendarDate = key;
-    if (!calendar) return;
+    const almanac = node.closest("[data-daily-yangsheng]");
+    if (!calendar || !almanac) return;
+    const previousDetails = almanac.querySelector("[data-calendar-details]");
+    if (previousDetails) previousDetails.remove();
+    const heading = almanac.querySelector("h2");
     const details = doc.createElement("span");details.className = "daily-calendar-details";details.setAttribute("data-calendar-details","");
     const lunar = calendar.lunarFor(date), moon = calendar.moonFor(date);
     function line(text,marker) { const span=doc.createElement("span");span.textContent=text;if(marker)span.setAttribute(marker,"");details.append(span);return span; }
@@ -72,10 +76,10 @@
       const phase=line(moon.emoji+" "+moon.label+" · 밝은 면 "+Math.round(moon.fraction*100)+"%","data-calendar-moon");
       phase.title="한국 시간 정오 기준 달 모양의 근사 계산값";
     }
-    const ganji=line("간지 계산 중…","data-calendar-pillars");node.append(details);
+    const ganji=line("간지 계산 중…","data-calendar-pillars");if (heading) heading.after(details); else node.after(details);
     const instant = key === today(now).toISOString().slice(0,10) ? now : new Date(date.getTime()+3*3600000);
     loadTermEvents(date.getUTCFullYear()).then(events => {
-      if (!node.isConnected || node.dataset.calendarDate!==key || details.parentNode!==node) return;
+      if (!node.isConnected || node.dataset.calendarDate!==key || !details.isConnected) return;
       const result=calendar.pillarsAt(instant,events);
       ganji.textContent = result ? result.day.slice(0, -1) : "간지: 1900–2100년 지원";
       if (result) {
@@ -92,7 +96,7 @@
         const before=calendar.pillarsAt(new Date(boundary.milliseconds-1),events),after=calendar.pillarsAt(new Date(boundary.milliseconds+1),events);
         line(solarTerms.TERMS[boundary.termIndex][0]+" "+solarTerms.displayTime(boundary.milliseconds).time+" · "+before.month+" → "+after.month,"data-calendar-boundary");
       }
-    }).catch(() => { if(details.parentNode===node)ganji.textContent="간지 계산을 불러오지 못했습니다."; });
+    }).catch(() => { if(details.isConnected)ganji.textContent="간지 계산을 불러오지 못했습니다."; });
     calendarNodes.set(node,date);
     if (!calendarTimer && typeof window !== "undefined") calendarTimer=window.setInterval(() => {
       calendarNodes.forEach((value,element) => { if(!element.isConnected)calendarNodes.delete(element);else renderCalendarDate(element,value); });
