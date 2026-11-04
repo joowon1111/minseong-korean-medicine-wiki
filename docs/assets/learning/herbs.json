@@ -259,7 +259,7 @@
       "id": "herb-anemarrhena",
       "title": "지모(知母)",
       "category": "청열",
-      "prompt": "지모(知母)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "지모와 황련의 청열 비교에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "생약명",
@@ -280,6 +280,10 @@
         {
           "label": "전통 효능",
           "value": "청열사화, 자음윤조, 생진지갈"
+        },
+        {
+          "label": "비교·감별",
+          "value": "습열 등 적용 문맥에서 황련의 역할을 살핀다. 윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다. 열과 진액 손상·건조의 문맥을 함께 확인한다."
         }
       ],
       "source": "/herbs/anemarrhena/",
@@ -345,7 +349,7 @@
       "id": "herb-angelica",
       "title": "당귀(當歸)",
       "category": "보익·수삽",
-      "prompt": "당귀(當歸)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "당귀와 백작약의 보혈 비교에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "전통 효능",
@@ -354,6 +358,10 @@
         {
           "label": "배합 예",
           "value": "사물탕 — 숙지황·백작약·천궁과 보혈·양혈·행혈을 분담 / 당귀보혈탕 — 황기의 보기와 당귀의 보혈을 결합한 기혈 관계"
+        },
+        {
+          "label": "비교·감별",
+          "value": "공통점과 함께 활혈·렴음 등의 차이를 비교한다. 당귀의 배합에서는 혈의 보완과 순환·월경 관련 역할을 함께 본다. 백작약의 수렴·유간 작용은 감별할 특징이다."
         }
       ],
       "source": "/herbs/angelica/",
@@ -519,7 +527,7 @@
       "id": "herb-atractylodes",
       "title": "백출(白朮)",
       "category": "이수·거습",
-      "prompt": "백출(白朮)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "백출과 창출의 효능 비교에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "전통 효능",
@@ -528,6 +536,10 @@
         {
           "label": "배합 예",
           "value": "사군자탕 — 인삼·복령·감초와 보기건비의 기본 구조 / 삼령백출산 — 보기건비와 삼습지사의 연결축"
+        },
+        {
+          "label": "비교·감별",
+          "value": "백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다. 백출은 비기허와 습을 함께 살피는 본초다. 창출은 습체와 표증 등의 배합 문맥을 살핀다."
         }
       ],
       "source": "/herbs/atractylodes/",
@@ -793,7 +805,7 @@
       "id": "herb-cinnamon-twig",
       "title": "계지(桂枝)",
       "category": "산한해표·소산풍열",
-      "prompt": "계지(桂枝)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "계지와 육계의 약용 부위에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "생약명",
@@ -814,6 +826,10 @@
         {
           "label": "배합 예",
           "value": "계지탕 — 백작약·생강·대조·감초 — 계지의 발산과 백작약의 수렴을 조화해 영위불화의 표허를 다룸 / 소건중탕 — 백작약·교이·감초·생강·대조 — 작약을 늘리고 교이를 더해 중초허한·허로성 복통의 온중완급으로 확장"
+        },
+        {
+          "label": "비교·감별",
+          "value": "육계는 수피를 약재로 쓴다. 기원·부위·가공과 처방의 배합 목적을 함께 공부한다. 계지의 약용 부위는 어린 가지다."
         }
       ],
       "source": "/herbs/cinnamon-twig/",
@@ -943,7 +959,7 @@
       "id": "herb-coptis",
       "title": "황련(黃連)",
       "category": "청열",
-      "prompt": "황련(黃連)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "황련·황금·황백의 공통점에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "생약명",
@@ -964,6 +980,10 @@
         {
           "label": "전통 효능",
           "value": "청열조습, 사화해독"
+        },
+        {
+          "label": "비교·감별",
+          "value": "청열조습이라는 공통점을 바탕으로 비교할 수 있다. 황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다. 공통 효능과 약재별 특성을 함께 살피는 비교 방식이다."
         }
       ],
       "source": "/herbs/coptis/",
@@ -1329,7 +1349,7 @@
       "id": "herb-ephedra",
       "title": "마황(麻黃)",
       "category": "산한해표·소산풍열",
-      "prompt": "마황(麻黃)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "마황과 계지의 해표 비교에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "생약명",
@@ -1350,6 +1370,10 @@
         {
           "label": "배합 예",
           "value": "마황탕 — 계지와 발한해표하고 행인과 선폐평천하는 풍한표실 구조 / 소청룡탕 — 계지·건강·세신의 온화와 반하·오미자의 화담·수렴을 연결"
+        },
+        {
+          "label": "비교·감별",
+          "value": "공통 효능군을 먼저 확인한 뒤 차이를 살핀다. 해표와 함께 폐기·수습 관련 배합 역할을 검토한다. 발한 상태와 동반 증후는 마황·계지의 배합 문맥을 구별하는 단서다."
         }
       ],
       "source": "/herbs/ephedra/",
@@ -1445,7 +1469,7 @@
       "id": "herb-fresh-ginger",
       "title": "생강(生薑)",
       "category": "산한해표·소산풍열",
-      "prompt": "생강(生薑)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "생강과 건강의 비교에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "생약명",
@@ -1466,6 +1490,10 @@
         {
           "label": "배합 예",
           "value": "계지탕 — 대조·감초와 함께 영위·중초의 조화를 받침 / 평위산 — 창출·후박·진피 배합에서 구역과 위기 조화를 함께 봄"
+        },
+        {
+          "label": "비교·감별",
+          "value": "기원과 함께 생용·건조 상태를 확인한다. 약용 부위가 같아도 가공 상태가 다르다. 생강의 해표·온중지구와 건강의 온중산한 등 배합 역할을 구별한다."
         }
       ],
       "source": "/herbs/fresh-ginger/",
@@ -1839,7 +1867,7 @@
       "id": "herb-licorice",
       "title": "감초(甘草)",
       "category": "보익·수삽",
-      "prompt": "감초(甘草)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "감초의 법제와 처방 역할에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "전통 효능",
@@ -1848,6 +1876,10 @@
         {
           "label": "배합 예",
           "value": "사군자탕 — 자감초로 보기·완급을 돕고 인삼·백출·복령을 조화 / 작약감초탕 — 작약과 긴장·경련성 통증을 다루는 완급지통"
+        },
+        {
+          "label": "비교·감별",
+          "value": "구성 약재와 치법에 따라 어떤 역할이 중심인지 확인한다. 법제에 따른 사용 문맥과 제형을 함께 확인한다. 조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다."
         }
       ],
       "source": "/herbs/licorice/",
@@ -2405,7 +2437,7 @@
       "id": "herb-pinellia",
       "title": "반하(半夏)",
       "category": "화담·이기·소식",
-      "prompt": "반하(半夏)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "반하와 천패모의 담증 비교에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "성미·귀경",
@@ -2418,6 +2450,10 @@
         {
           "label": "배합 예",
           "value": "이진탕 — 진피·복령과 조습화담의 기본 골격 — 습담, 흉완비민, 오심 / 온담탕 — 죽여·지실과 담열·위기불화까지 조절 — 담열, 번조, 오심·불면"
+        },
+        {
+          "label": "비교·감별",
+          "value": "담의 성질과 동반 증상, 약재의 윤조 차이가 선택에 중요하다. 습담과 구역 등 배합 문맥을 함께 확인한다. 폐의 건조·열과 기침 등 배합 문맥을 함께 확인한다."
         }
       ],
       "source": "/herbs/pinellia/",
@@ -2531,7 +2567,7 @@
       "id": "herb-poria",
       "title": "복령(茯苓)",
       "category": "이수·거습",
-      "prompt": "복령(茯苓)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "복령과 택사의 감별에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "전통 효능",
@@ -2540,6 +2576,10 @@
         {
           "label": "배합 예",
           "value": "사군자탕 — 인삼·백출·감초와 건비익기를 받침 / 오령산 — 저령·택사·백출·계지와 수분대사 배합"
+        },
+        {
+          "label": "비교·감별",
+          "value": "택사는 수습과 열의 문맥을 함께 확인한다. 건비·안신 또는 설열 등 필요한 역할이 감별 단서가 된다. 복령의 전통 효능에는 건비·안신이 포함된다."
         }
       ],
       "source": "/herbs/poria/",
@@ -3097,7 +3137,7 @@
       "id": "herb-white-peony",
       "title": "백작약(白芍)",
       "category": "보익·수삽",
-      "prompt": "백작약(白芍)의 효능·약용 부위·배합을 설명해 보세요.",
+      "prompt": "백작약과 적작약의 감별에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "생약명",
@@ -3114,6 +3154,10 @@
         {
           "label": "배합 예",
           "value": "사물탕·팔물탕 — 숙지황·당귀·천궁, 또는 사군자탕 축 — 보혈·양혈·행혈의 균형. 보기약이 더해지면 기혈양허 구조로 확장 / 계지탕 — 계지·생강·대조·감초 — 계지의 발산과 작약의 수렴을 배합해 영위불화를 조화"
+        },
+        {
+          "label": "비교·감별",
+          "value": "혈열과 어혈의 문맥을 살피는 전통 역할이다. 약명·규격과 배합 목적을 함께 확인해야 비교가 구체적이다. 혈과 음을 보전하고 긴장·통증을 조절하는 전통 역할을 살핀다."
         }
       ],
       "source": "/herbs/white-peony/",
@@ -37142,6 +37186,1072 @@
       "category": "화담·이기·소식",
       "source": "/learning/herbs/#clinical-herbs-36",
       "relatedSource": "/herbs/areca-pericarp/"
+    },
+    {
+      "id": "clinical-herbs-37",
+      "cardId": "herb-fresh-ginger",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "생강과 건강의 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 생강과 건강은 같은 식물에서 유래해도 가공 상태를 구분한다.\nㄴ. 생강은 생것의 뿌리줄기, 건강은 말린 뿌리줄기를 사용한다.\nㄷ. 두 약재는 처방 안에서 언제나 같은 역할로 바꿔 쓴다.",
+      "statements": [
+        {
+          "text": "생강과 건강은 같은 식물에서 유래해도 가공 상태를 구분한다.",
+          "correct": true,
+          "reason": "기원과 함께 생용·건조 상태를 확인한다."
+        },
+        {
+          "text": "생강은 생것의 뿌리줄기, 건강은 말린 뿌리줄기를 사용한다.",
+          "correct": true,
+          "reason": "약용 부위가 같아도 가공 상태가 다르다."
+        },
+        {
+          "text": "두 약재는 처방 안에서 언제나 같은 역할로 바꿔 쓴다.",
+          "correct": false,
+          "reason": "생강의 해표·온중지구와 건강의 온중산한 등 배합 역할을 구별한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 기원과 함께 생용·건조 상태를 확인한다. ㄴ: 약용 부위가 같아도 가공 상태가 다르다. ㄷ: 생강의 해표·온중지구와 건강의 온중산한 등 배합 역할을 구별한다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-37"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 약용 부위가 같아도 가공 상태가 다르다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-37"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 기원과 함께 생용·건조 상태를 확인한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-37"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄷ: 생강의 해표·온중지구와 건강의 온중산한 등 배합 역할을 구별한다. ㄱ: 기원과 함께 생용·건조 상태를 확인한다. ㄴ: 약용 부위가 같아도 가공 상태가 다르다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-37"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 생강의 해표·온중지구와 건강의 온중산한 등 배합 역할을 구별한다. ㄴ: 약용 부위가 같아도 가공 상태가 다르다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-fresh-ginger",
+          "source": "/learning/herbs/#clinical-herbs-37"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ: 기원과 함께 생용·건조 상태를 확인한다. ㄴ: 약용 부위가 같아도 가공 상태가 다르다. ㄷ: 생강의 해표·온중지구와 건강의 온중산한 등 배합 역할을 구별한다.",
+      "discriminator": "기원과 함께 생용·건조 상태를 확인한다. 약용 부위가 같아도 가공 상태가 다르다. 생강의 해표·온중지구와 건강의 온중산한 등 배합 역할을 구별한다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-37",
+      "relatedSource": "/herbs/fresh-ginger/"
+    },
+    {
+      "id": "clinical-herbs-38",
+      "cardId": "herb-cinnamon-twig",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "계지와 육계의 약용 부위 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 육계는 수피를 사용한다.\nㄴ. 같은 계통의 약재도 약용 부위와 효능의 중점을 구별한다.\nㄷ. 계지는 어린 가지를 사용한다.",
+      "statements": [
+        {
+          "text": "육계는 수피를 사용한다.",
+          "correct": true,
+          "reason": "육계는 수피를 약재로 쓴다."
+        },
+        {
+          "text": "같은 계통의 약재도 약용 부위와 효능의 중점을 구별한다.",
+          "correct": true,
+          "reason": "기원·부위·가공과 처방의 배합 목적을 함께 공부한다."
+        },
+        {
+          "text": "계지는 어린 가지를 사용한다.",
+          "correct": true,
+          "reason": "계지의 약용 부위는 어린 가지다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 육계는 수피를 약재로 쓴다. ㄷ: 계지의 약용 부위는 어린 가지다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-38"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 육계는 수피를 약재로 쓴다. ㄴ: 기원·부위·가공과 처방의 배합 목적을 함께 공부한다. ㄷ: 계지의 약용 부위는 어린 가지다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-38"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 육계는 수피를 약재로 쓴다. ㄴ: 기원·부위·가공과 처방의 배합 목적을 함께 공부한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-38"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄷ: 계지의 약용 부위는 어린 가지다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-38"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 기원·부위·가공과 처방의 배합 목적을 함께 공부한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cinnamon-twig",
+          "source": "/learning/herbs/#clinical-herbs-38"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ: 육계는 수피를 약재로 쓴다. ㄴ: 기원·부위·가공과 처방의 배합 목적을 함께 공부한다. ㄷ: 계지의 약용 부위는 어린 가지다.",
+      "discriminator": "육계는 수피를 약재로 쓴다. 기원·부위·가공과 처방의 배합 목적을 함께 공부한다. 계지의 약용 부위는 어린 가지다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-38",
+      "relatedSource": "/herbs/cinnamon-twig/"
+    },
+    {
+      "id": "clinical-herbs-39",
+      "cardId": "herb-atractylodes",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "백출과 창출의 효능 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 두 약재의 공통점이 있으면 보익의 비중도 동일하다.\nㄴ. 백출은 건비익기·조습이수와 연결한다.\nㄷ. 창출은 조습건비·거풍산한과 연결한다.",
+      "statements": [
+        {
+          "text": "두 약재의 공통점이 있으면 보익의 비중도 동일하다.",
+          "correct": false,
+          "reason": "백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다."
+        },
+        {
+          "text": "백출은 건비익기·조습이수와 연결한다.",
+          "correct": true,
+          "reason": "백출은 비기허와 습을 함께 살피는 본초다."
+        },
+        {
+          "text": "창출은 조습건비·거풍산한과 연결한다.",
+          "correct": true,
+          "reason": "창출은 습체와 표증 등의 배합 문맥을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 백출은 비기허와 습을 함께 살피는 본초다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-39"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다. ㄷ: 창출은 습체와 표증 등의 배합 문맥을 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-39"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다. ㄴ: 백출은 비기허와 습을 함께 살피는 본초다. ㄷ: 창출은 습체와 표증 등의 배합 문맥을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-39"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다. ㄴ: 백출은 비기허와 습을 함께 살피는 본초다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-39"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-atractylodes",
+          "source": "/learning/herbs/#clinical-herbs-39"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ: 백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다. ㄴ: 백출은 비기허와 습을 함께 살피는 본초다. ㄷ: 창출은 습체와 표증 등의 배합 문맥을 살핀다.",
+      "discriminator": "백출의 보기와 창출의 조습·거풍산한 등 각자의 중점을 구분한다. 백출은 비기허와 습을 함께 살피는 본초다. 창출은 습체와 표증 등의 배합 문맥을 살핀다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#clinical-herbs-39",
+      "relatedSource": "/herbs/atractylodes/"
+    },
+    {
+      "id": "clinical-herbs-40",
+      "cardId": "herb-coptis",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "황련·황금·황백의 공통점 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 세 약재는 모두 청열조습의 설명과 연결된다.\nㄴ. 세 약재가 모두 같은 식물의 같은 부위다.\nㄷ. 같은 효능군에서도 기원·부위·적용 증후를 비교한다.",
+      "statements": [
+        {
+          "text": "세 약재는 모두 청열조습의 설명과 연결된다.",
+          "correct": true,
+          "reason": "청열조습이라는 공통점을 바탕으로 비교할 수 있다."
+        },
+        {
+          "text": "세 약재가 모두 같은 식물의 같은 부위다.",
+          "correct": false,
+          "reason": "황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다."
+        },
+        {
+          "text": "같은 효능군에서도 기원·부위·적용 증후를 비교한다.",
+          "correct": true,
+          "reason": "공통 효능과 약재별 특성을 함께 살피는 비교 방식이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다. ㄷ: 공통 효능과 약재별 특성을 함께 살피는 비교 방식이다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#clinical-herbs-40"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다. ㄱ: 청열조습이라는 공통점을 바탕으로 비교할 수 있다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#clinical-herbs-40"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#clinical-herbs-40"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 청열조습이라는 공통점을 바탕으로 비교할 수 있다. ㄴ: 황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다. ㄷ: 공통 효능과 약재별 특성을 함께 살피는 비교 방식이다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#clinical-herbs-40"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄷ: 공통 효능과 약재별 특성을 함께 살피는 비교 방식이다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coptis",
+          "source": "/learning/herbs/#clinical-herbs-40"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ: 청열조습이라는 공통점을 바탕으로 비교할 수 있다. ㄴ: 황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다. ㄷ: 공통 효능과 약재별 특성을 함께 살피는 비교 방식이다.",
+      "discriminator": "청열조습이라는 공통점을 바탕으로 비교할 수 있다. 황련은 뿌리줄기, 황금은 뿌리, 황백은 수피를 쓰며 기원도 구분한다. 공통 효능과 약재별 특성을 함께 살피는 비교 방식이다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-40",
+      "relatedSource": "/herbs/coptis/"
+    },
+    {
+      "id": "clinical-herbs-41",
+      "cardId": "herb-poria",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "복령과 택사의 감별 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 택사는 이수삼습과 설열의 역할을 살핀다.\nㄴ. 두 약재의 선택은 수습 외의 동반 양상과 배합 목적도 함께 본다.\nㄷ. 복령은 이수삼습 외에 건비·안신의 역할을 함께 살핀다.",
+      "statements": [
+        {
+          "text": "택사는 이수삼습과 설열의 역할을 살핀다.",
+          "correct": true,
+          "reason": "택사는 수습과 열의 문맥을 함께 확인한다."
+        },
+        {
+          "text": "두 약재의 선택은 수습 외의 동반 양상과 배합 목적도 함께 본다.",
+          "correct": true,
+          "reason": "건비·안신 또는 설열 등 필요한 역할이 감별 단서가 된다."
+        },
+        {
+          "text": "복령은 이수삼습 외에 건비·안신의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "복령의 전통 효능에는 건비·안신이 포함된다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 건비·안신 또는 설열 등 필요한 역할이 감별 단서가 된다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-41"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 택사는 수습과 열의 문맥을 함께 확인한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-41"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 건비·안신 또는 설열 등 필요한 역할이 감별 단서가 된다. ㄷ: 복령의 전통 효능에는 건비·안신이 포함된다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-41"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 택사는 수습과 열의 문맥을 함께 확인한다. ㄷ: 복령의 전통 효능에는 건비·안신이 포함된다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-41"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 택사는 수습과 열의 문맥을 함께 확인한다. ㄴ: 건비·안신 또는 설열 등 필요한 역할이 감별 단서가 된다. ㄷ: 복령의 전통 효능에는 건비·안신이 포함된다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-41"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ: 택사는 수습과 열의 문맥을 함께 확인한다. ㄴ: 건비·안신 또는 설열 등 필요한 역할이 감별 단서가 된다. ㄷ: 복령의 전통 효능에는 건비·안신이 포함된다.",
+      "discriminator": "택사는 수습과 열의 문맥을 함께 확인한다. 건비·안신 또는 설열 등 필요한 역할이 감별 단서가 된다. 복령의 전통 효능에는 건비·안신이 포함된다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#clinical-herbs-41",
+      "relatedSource": "/herbs/poria/"
+    },
+    {
+      "id": "clinical-herbs-42",
+      "cardId": "herb-pinellia",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "반하와 천패모의 담증 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 담증이라는 말만 확인하면 한열·윤조는 살필 필요가 없다.\nㄴ. 반하는 조습화담·강역지구의 역할을 살핀다.\nㄷ. 천패모는 청열윤폐·화담지해의 역할을 살핀다.",
+      "statements": [
+        {
+          "text": "담증이라는 말만 확인하면 한열·윤조는 살필 필요가 없다.",
+          "correct": false,
+          "reason": "담의 성질과 동반 증상, 약재의 윤조 차이가 선택에 중요하다."
+        },
+        {
+          "text": "반하는 조습화담·강역지구의 역할을 살핀다.",
+          "correct": true,
+          "reason": "습담과 구역 등 배합 문맥을 함께 확인한다."
+        },
+        {
+          "text": "천패모는 청열윤폐·화담지해의 역할을 살핀다.",
+          "correct": true,
+          "reason": "폐의 건조·열과 기침 등 배합 문맥을 함께 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 담의 성질과 동반 증상, 약재의 윤조 차이가 선택에 중요하다. ㄴ: 습담과 구역 등 배합 문맥을 함께 확인한다. ㄷ: 폐의 건조·열과 기침 등 배합 문맥을 함께 확인한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-42"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 담의 성질과 동반 증상, 약재의 윤조 차이가 선택에 중요하다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-42"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 담의 성질과 동반 증상, 약재의 윤조 차이가 선택에 중요하다. ㄴ: 습담과 구역 등 배합 문맥을 함께 확인한다. ㄷ: 폐의 건조·열과 기침 등 배합 문맥을 함께 확인한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-42"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 폐의 건조·열과 기침 등 배합 문맥을 함께 확인한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-42"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 습담과 구역 등 배합 문맥을 함께 확인한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-42"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ: 담의 성질과 동반 증상, 약재의 윤조 차이가 선택에 중요하다. ㄴ: 습담과 구역 등 배합 문맥을 함께 확인한다. ㄷ: 폐의 건조·열과 기침 등 배합 문맥을 함께 확인한다.",
+      "discriminator": "담의 성질과 동반 증상, 약재의 윤조 차이가 선택에 중요하다. 습담과 구역 등 배합 문맥을 함께 확인한다. 폐의 건조·열과 기침 등 배합 문맥을 함께 확인한다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-42",
+      "relatedSource": "/herbs/pinellia/"
+    },
+    {
+      "id": "clinical-herbs-43",
+      "cardId": "herb-ephedra",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "마황과 계지의 해표 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 마황과 계지는 모두 신온해표의 문맥에서 비교한다.\nㄴ. 마황은 선폐평천·이수소종의 역할도 살핀다.\nㄷ. 공통 해표 효능이 있으면 땀·호흡·수습 양상은 구별하지 않는다.",
+      "statements": [
+        {
+          "text": "마황과 계지는 모두 신온해표의 문맥에서 비교한다.",
+          "correct": true,
+          "reason": "공통 효능군을 먼저 확인한 뒤 차이를 살핀다."
+        },
+        {
+          "text": "마황은 선폐평천·이수소종의 역할도 살핀다.",
+          "correct": true,
+          "reason": "해표와 함께 폐기·수습 관련 배합 역할을 검토한다."
+        },
+        {
+          "text": "공통 해표 효능이 있으면 땀·호흡·수습 양상은 구별하지 않는다.",
+          "correct": false,
+          "reason": "발한 상태와 동반 증후는 마황·계지의 배합 문맥을 구별하는 단서다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 해표와 함께 폐기·수습 관련 배합 역할을 검토한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ephedra",
+          "source": "/learning/herbs/#clinical-herbs-43"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 공통 효능군을 먼저 확인한 뒤 차이를 살핀다. ㄴ: 해표와 함께 폐기·수습 관련 배합 역할을 검토한다. ㄷ: 발한 상태와 동반 증후는 마황·계지의 배합 문맥을 구별하는 단서다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-ephedra",
+          "source": "/learning/herbs/#clinical-herbs-43"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 공통 효능군을 먼저 확인한 뒤 차이를 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ephedra",
+          "source": "/learning/herbs/#clinical-herbs-43"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄷ: 발한 상태와 동반 증후는 마황·계지의 배합 문맥을 구별하는 단서다. ㄱ: 공통 효능군을 먼저 확인한 뒤 차이를 살핀다. ㄴ: 해표와 함께 폐기·수습 관련 배합 역할을 검토한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ephedra",
+          "source": "/learning/herbs/#clinical-herbs-43"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 발한 상태와 동반 증후는 마황·계지의 배합 문맥을 구별하는 단서다. ㄴ: 해표와 함께 폐기·수습 관련 배합 역할을 검토한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ephedra",
+          "source": "/learning/herbs/#clinical-herbs-43"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ: 공통 효능군을 먼저 확인한 뒤 차이를 살핀다. ㄴ: 해표와 함께 폐기·수습 관련 배합 역할을 검토한다. ㄷ: 발한 상태와 동반 증후는 마황·계지의 배합 문맥을 구별하는 단서다.",
+      "discriminator": "공통 효능군을 먼저 확인한 뒤 차이를 살핀다. 해표와 함께 폐기·수습 관련 배합 역할을 검토한다. 발한 상태와 동반 증후는 마황·계지의 배합 문맥을 구별하는 단서다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-43",
+      "relatedSource": "/herbs/ephedra/"
+    },
+    {
+      "id": "clinical-herbs-44",
+      "cardId": "herb-white-peony",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "백작약과 적작약의 감별 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 적작약은 청열양혈·산어지통과 연결한다.\nㄴ. 이름에 작약이 공통으로 들어가도 법제·규격·치법을 확인한다.\nㄷ. 백작약은 양혈렴음·유간지통과 연결한다.",
+      "statements": [
+        {
+          "text": "적작약은 청열양혈·산어지통과 연결한다.",
+          "correct": true,
+          "reason": "혈열과 어혈의 문맥을 살피는 전통 역할이다."
+        },
+        {
+          "text": "이름에 작약이 공통으로 들어가도 법제·규격·치법을 확인한다.",
+          "correct": true,
+          "reason": "약명·규격과 배합 목적을 함께 확인해야 비교가 구체적이다."
+        },
+        {
+          "text": "백작약은 양혈렴음·유간지통과 연결한다.",
+          "correct": true,
+          "reason": "혈과 음을 보전하고 긴장·통증을 조절하는 전통 역할을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 혈열과 어혈의 문맥을 살피는 전통 역할이다. ㄷ: 혈과 음을 보전하고 긴장·통증을 조절하는 전통 역할을 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-44"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 혈열과 어혈의 문맥을 살피는 전통 역할이다. ㄴ: 약명·규격과 배합 목적을 함께 확인해야 비교가 구체적이다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-44"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 혈열과 어혈의 문맥을 살피는 전통 역할이다. ㄴ: 약명·규격과 배합 목적을 함께 확인해야 비교가 구체적이다. ㄷ: 혈과 음을 보전하고 긴장·통증을 조절하는 전통 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-44"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄷ: 혈과 음을 보전하고 긴장·통증을 조절하는 전통 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-44"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 약명·규격과 배합 목적을 함께 확인해야 비교가 구체적이다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-peony",
+          "source": "/learning/herbs/#clinical-herbs-44"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ: 혈열과 어혈의 문맥을 살피는 전통 역할이다. ㄴ: 약명·규격과 배합 목적을 함께 확인해야 비교가 구체적이다. ㄷ: 혈과 음을 보전하고 긴장·통증을 조절하는 전통 역할을 살핀다.",
+      "discriminator": "혈열과 어혈의 문맥을 살피는 전통 역할이다. 약명·규격과 배합 목적을 함께 확인해야 비교가 구체적이다. 혈과 음을 보전하고 긴장·통증을 조절하는 전통 역할을 살핀다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-44",
+      "relatedSource": "/herbs/white-peony/"
+    },
+    {
+      "id": "clinical-herbs-45",
+      "cardId": "herb-angelica",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "당귀와 백작약의 보혈 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 두 약재는 보혈 관련 공통점이 있으므로 배합 목적의 차이가 없다.\nㄴ. 당귀는 보혈과 함께 활혈·조경 등의 역할을 살핀다.\nㄷ. 백작약은 양혈렴음·유간지통의 역할을 살핀다.",
+      "statements": [
+        {
+          "text": "두 약재는 보혈 관련 공통점이 있으므로 배합 목적의 차이가 없다.",
+          "correct": false,
+          "reason": "공통점과 함께 활혈·렴음 등의 차이를 비교한다."
+        },
+        {
+          "text": "당귀는 보혈과 함께 활혈·조경 등의 역할을 살핀다.",
+          "correct": true,
+          "reason": "당귀의 배합에서는 혈의 보완과 순환·월경 관련 역할을 함께 본다."
+        },
+        {
+          "text": "백작약은 양혈렴음·유간지통의 역할을 살핀다.",
+          "correct": true,
+          "reason": "백작약의 수렴·유간 작용은 감별할 특징이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 당귀의 배합에서는 혈의 보완과 순환·월경 관련 역할을 함께 본다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-45"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 공통점과 함께 활혈·렴음 등의 차이를 비교한다. ㄷ: 백작약의 수렴·유간 작용은 감별할 특징이다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-45"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 공통점과 함께 활혈·렴음 등의 차이를 비교한다. ㄴ: 당귀의 배합에서는 혈의 보완과 순환·월경 관련 역할을 함께 본다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-45"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 공통점과 함께 활혈·렴음 등의 차이를 비교한다. ㄴ: 당귀의 배합에서는 혈의 보완과 순환·월경 관련 역할을 함께 본다. ㄷ: 백작약의 수렴·유간 작용은 감별할 특징이다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-45"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 공통점과 함께 활혈·렴음 등의 차이를 비교한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica",
+          "source": "/learning/herbs/#clinical-herbs-45"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ: 공통점과 함께 활혈·렴음 등의 차이를 비교한다. ㄴ: 당귀의 배합에서는 혈의 보완과 순환·월경 관련 역할을 함께 본다. ㄷ: 백작약의 수렴·유간 작용은 감별할 특징이다.",
+      "discriminator": "공통점과 함께 활혈·렴음 등의 차이를 비교한다. 당귀의 배합에서는 혈의 보완과 순환·월경 관련 역할을 함께 본다. 백작약의 수렴·유간 작용은 감별할 특징이다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-45",
+      "relatedSource": "/herbs/angelica/"
+    },
+    {
+      "id": "clinical-herbs-46",
+      "cardId": "herb-licorice",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "감초의 법제와 처방 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 감초는 처방 안에서 보기·완급·조화 등의 배합 역할을 살핀다.\nㄴ. 생용과 자감초의 법제 상태를 구별한다.\nㄷ. 처방 속 감초는 모든 경우에 다른 약재의 독성을 완전히 없앤다.",
+      "statements": [
+        {
+          "text": "감초는 처방 안에서 보기·완급·조화 등의 배합 역할을 살핀다.",
+          "correct": true,
+          "reason": "구성 약재와 치법에 따라 어떤 역할이 중심인지 확인한다."
+        },
+        {
+          "text": "생용과 자감초의 법제 상태를 구별한다.",
+          "correct": true,
+          "reason": "법제에 따른 사용 문맥과 제형을 함께 확인한다."
+        },
+        {
+          "text": "처방 속 감초는 모든 경우에 다른 약재의 독성을 완전히 없앤다.",
+          "correct": false,
+          "reason": "조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다. ㄴ: 법제에 따른 사용 문맥과 제형을 함께 확인한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-46"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다. ㄱ: 구성 약재와 치법에 따라 어떤 역할이 중심인지 확인한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-46"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄷ: 조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-46"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 법제에 따른 사용 문맥과 제형을 함께 확인한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-46"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 구성 약재와 치법에 따라 어떤 역할이 중심인지 확인한다. ㄴ: 법제에 따른 사용 문맥과 제형을 함께 확인한다. ㄷ: 조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-46"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ: 구성 약재와 치법에 따라 어떤 역할이 중심인지 확인한다. ㄴ: 법제에 따른 사용 문맥과 제형을 함께 확인한다. ㄷ: 조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다.",
+      "discriminator": "구성 약재와 치법에 따라 어떤 역할이 중심인지 확인한다. 법제에 따른 사용 문맥과 제형을 함께 확인한다. 조화제약이라는 전통 설명을 보편적인 해독 보장으로 바꾸어 읽을 수 없다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-46",
+      "relatedSource": "/herbs/licorice/"
+    },
+    {
+      "id": "clinical-herbs-47",
+      "cardId": "herb-anemarrhena",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "지모와 황련의 청열 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 황련은 청열조습의 역할을 살핀다.\nㄴ. 둘 다 청열약이면 건조와 습의 차이는 감별에서 제외한다.\nㄷ. 지모는 청열사화와 자음윤조를 함께 살핀다.",
+      "statements": [
+        {
+          "text": "황련은 청열조습의 역할을 살핀다.",
+          "correct": true,
+          "reason": "습열 등 적용 문맥에서 황련의 역할을 살핀다."
+        },
+        {
+          "text": "둘 다 청열약이면 건조와 습의 차이는 감별에서 제외한다.",
+          "correct": false,
+          "reason": "윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다."
+        },
+        {
+          "text": "지모는 청열사화와 자음윤조를 함께 살핀다.",
+          "correct": true,
+          "reason": "열과 진액 손상·건조의 문맥을 함께 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 습열 등 적용 문맥에서 황련의 역할을 살핀다. ㄴ: 윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다. ㄷ: 열과 진액 손상·건조의 문맥을 함께 확인한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-anemarrhena",
+          "source": "/learning/herbs/#clinical-herbs-47"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다. ㄱ: 습열 등 적용 문맥에서 황련의 역할을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-anemarrhena",
+          "source": "/learning/herbs/#clinical-herbs-47"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-anemarrhena",
+          "source": "/learning/herbs/#clinical-herbs-47"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄷ: 열과 진액 손상·건조의 문맥을 함께 확인한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-anemarrhena",
+          "source": "/learning/herbs/#clinical-herbs-47"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄴ: 윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다. ㄱ: 습열 등 적용 문맥에서 황련의 역할을 살핀다. ㄷ: 열과 진액 손상·건조의 문맥을 함께 확인한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-anemarrhena",
+          "source": "/learning/herbs/#clinical-herbs-47"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ: 습열 등 적용 문맥에서 황련의 역할을 살핀다. ㄴ: 윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다. ㄷ: 열과 진액 손상·건조의 문맥을 함께 확인한다.",
+      "discriminator": "습열 등 적용 문맥에서 황련의 역할을 살핀다. 윤조와 조습의 차이가 비슷한 청열약을 구별하는 단서다. 열과 진액 손상·건조의 문맥을 함께 확인한다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-47",
+      "relatedSource": "/herbs/anemarrhena/"
+    },
+    {
+      "id": "clinical-herbs-48",
+      "cardId": "herb-pinellia",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "약명·법제·제형의 확인 순서 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 같은 본초 이름이면 모든 추출물의 투여량과 효과가 동일하다.\nㄴ. 반하의 약명을 확인한 뒤 법제·규격도 함께 확인한다.\nㄷ. 연구에 사용한 추출물과 전통 탕전 약재는 제형을 구별한다.",
+      "statements": [
+        {
+          "text": "같은 본초 이름이면 모든 추출물의 투여량과 효과가 동일하다.",
+          "correct": false,
+          "reason": "추출물과 원약재의 양·성분·시험 조건을 각각 확인한다."
+        },
+        {
+          "text": "반하의 약명을 확인한 뒤 법제·규격도 함께 확인한다.",
+          "correct": true,
+          "reason": "반하는 특히 법제와 사용 조건을 확인할 본초다."
+        },
+        {
+          "text": "연구에 사용한 추출물과 전통 탕전 약재는 제형을 구별한다.",
+          "correct": true,
+          "reason": "원료·가공·추출·제형을 맞춰 읽어야 자료를 비교할 수 있다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 추출물과 원약재의 양·성분·시험 조건을 각각 확인한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-48"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 추출물과 원약재의 양·성분·시험 조건을 각각 확인한다. ㄴ: 반하는 특히 법제와 사용 조건을 확인할 본초다. ㄷ: 원료·가공·추출·제형을 맞춰 읽어야 자료를 비교할 수 있다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-48"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 추출물과 원약재의 양·성분·시험 조건을 각각 확인한다. ㄴ: 반하는 특히 법제와 사용 조건을 확인할 본초다. ㄷ: 원료·가공·추출·제형을 맞춰 읽어야 자료를 비교할 수 있다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-48"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 원료·가공·추출·제형을 맞춰 읽어야 자료를 비교할 수 있다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-48"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 반하는 특히 법제와 사용 조건을 확인할 본초다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-48"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ: 추출물과 원약재의 양·성분·시험 조건을 각각 확인한다. ㄴ: 반하는 특히 법제와 사용 조건을 확인할 본초다. ㄷ: 원료·가공·추출·제형을 맞춰 읽어야 자료를 비교할 수 있다.",
+      "discriminator": "추출물과 원약재의 양·성분·시험 조건을 각각 확인한다. 반하는 특히 법제와 사용 조건을 확인할 본초다. 원료·가공·추출·제형을 맞춰 읽어야 자료를 비교할 수 있다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-48",
+      "relatedSource": "/herbs/pinellia/"
     }
   ]
 }

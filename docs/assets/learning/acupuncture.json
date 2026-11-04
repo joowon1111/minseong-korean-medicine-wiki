@@ -2357,7 +2357,7 @@
       "id": "class-팔회혈",
       "title": "팔회혈",
       "category": "특정혈 개념",
-      "prompt": "팔회혈의 핵심을 떠올려 보세요.",
+      "prompt": "기혈과 팔회혈 분류에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "전통적 정의",
@@ -2366,6 +2366,10 @@
         {
           "label": "연결",
           "value": "조직·기능 범주"
+        },
+        {
+          "label": "비교·감별",
+          "value": "기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다. 특정혈 속성과 기혈의 부족 여부는 서로 다른 판단 항목이다. 팔회혈은 장·부·기·혈·근·맥·골·수의 여덟 범주를 다룬다."
         }
       ],
       "source": "/acupuncture-specific/pairing-principles/",
@@ -2375,7 +2379,7 @@
       "id": "class-팔맥교회혈",
       "title": "팔맥교회혈",
       "category": "특정혈 개념",
-      "prompt": "팔맥교회혈의 핵심을 떠올려 보세요.",
+      "prompt": "팔회혈과 팔맥교회혈에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "전통적 정의",
@@ -2384,6 +2388,10 @@
         {
           "label": "연결",
           "value": "기경팔맥"
+        },
+        {
+          "label": "비교·감별",
+          "value": "열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다. 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다. 공손은 충맥, 내관은 음유맥과 연결한다."
         }
       ],
       "source": "/acupuncture-specific/pairing-principles/",
@@ -2393,7 +2401,7 @@
       "id": "class-하합혈",
       "title": "하합혈",
       "category": "특정혈 개념",
-      "prompt": "하합혈의 핵심을 떠올려 보세요.",
+      "prompt": "소속 경맥과 하합혈에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "전통적 정의",
@@ -2402,6 +2410,10 @@
         {
           "label": "연결",
           "value": "육부 병증"
+        },
+        {
+          "label": "비교·감별",
+          "value": "상거허는 위경에 속하면서 대장 하합혈로 분류된다. 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다. 족삼리는 족양명위경에 속한다."
         }
       ],
       "source": "/acupuncture-specific/pairing-principles/",
@@ -2429,11 +2441,15 @@
       "id": "pair-원락배혈",
       "title": "원락배혈",
       "category": "배혈 원리",
-      "prompt": "원락배혈의 핵심을 떠올려 보세요.",
+      "prompt": "원혈과 낙혈의 역할에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "구성 원리",
           "value": "한 경맥의 원혈과 표리경의 낙혈을 연결"
+        },
+        {
+          "label": "비교·감별",
+          "value": "각 경맥의 원혈과 낙맥의 대표혈은 분류 기준이 다르다. 원락배혈의 기본 정의에 해당한다. 원혈과 낙혈의 위치·이름을 각각 확인해야 한다."
         }
       ],
       "source": "/acupuncture-specific/pairing-principles/",
@@ -2443,11 +2459,15 @@
       "id": "pair-수모배혈",
       "title": "수모배혈",
       "category": "배혈 원리",
-      "prompt": "수모배혈의 핵심을 떠올려 보세요.",
+      "prompt": "장부와 수모배혈에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "구성 원리",
           "value": "해당 장부의 배수혈과 모혈을 함께 고려"
+        },
+        {
+          "label": "비교·감별",
+          "value": "모혈은 흉복부의 장부 관련 특정혈이다. 장부별로 등쪽 배수혈과 앞쪽 모혈을 함께 고려하는 원리다. 배수혈은 방광경상의 등쪽 경혈이다."
         }
       ],
       "source": "/acupuncture-specific/pairing-principles/",
@@ -2471,11 +2491,15 @@
       "id": "pair-원근배혈",
       "title": "원근배혈",
       "category": "배혈 원리",
-      "prompt": "원근배혈의 핵심을 떠올려 보세요.",
+      "prompt": "변증과 부위의 연결에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "구성 원리",
           "value": "증상 부위 주변 근위혈과 원위혈을 조합"
+        },
+        {
+          "label": "비교·감별",
+          "value": "기허·혈허·기체·어혈·담음 등을 살피는 분류다. 장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다. 부위와 기능장애의 분포는 경혈 선택에 필요한 정보다."
         }
       ],
       "source": "/acupuncture-specific/pairing-principles/",
@@ -2485,11 +2509,15 @@
       "id": "pair-표리경 배혈",
       "title": "표리경 배혈",
       "category": "배혈 원리",
-      "prompt": "표리경 배혈의 핵심을 떠올려 보세요.",
+      "prompt": "팔강과 경맥의 표리에서 공통점과 차이를 설명해 보세요.",
       "facts": [
         {
           "label": "구성 원리",
           "value": "음양 표리관계 경맥을 함께 고려"
+        },
+        {
+          "label": "비교·감별",
+          "value": "팔강에서는 병이 놓인 위치를 표와 리로 구분한다. 폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다. 경맥의 짝 관계와 현재 병증의 병위는 각각 확인한다."
         }
       ],
       "source": "/acupuncture-specific/pairing-principles/",
@@ -25729,6 +25757,1171 @@
       "category": "연구 기록",
       "source": "/learning/acupuncture/#clinical-acupuncture-36",
       "relatedSource": "/acupuncture-integrated/evidence/"
+    },
+    {
+      "id": "clinical-acupuncture-37",
+      "cardId": "pair-표리경 배혈",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "팔강과 경맥의 표리 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 팔강의 표리는 병위의 큰 범주를 살핀다.\nㄴ. 경맥의 표리는 음경과 양경의 짝 관계를 가리킨다.\nㄷ. 폐경과 대장경의 표리관계가 곧 팔강의 표증을 뜻한다.",
+      "statements": [
+        {
+          "text": "팔강의 표리는 병위의 큰 범주를 살핀다.",
+          "correct": true,
+          "reason": "팔강에서는 병이 놓인 위치를 표와 리로 구분한다."
+        },
+        {
+          "text": "경맥의 표리는 음경과 양경의 짝 관계를 가리킨다.",
+          "correct": true,
+          "reason": "폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다."
+        },
+        {
+          "text": "폐경과 대장경의 표리관계가 곧 팔강의 표증을 뜻한다.",
+          "correct": false,
+          "reason": "경맥의 짝 관계와 현재 병증의 병위는 각각 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 팔강에서는 병이 놓인 위치를 표와 리로 구분한다. ㄴ: 폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다. ㄷ: 경맥의 짝 관계와 현재 병증의 병위는 각각 확인한다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-표리경 배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-37"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-표리경 배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-37"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 팔강에서는 병이 놓인 위치를 표와 리로 구분한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-표리경 배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-37"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄷ: 경맥의 짝 관계와 현재 병증의 병위는 각각 확인한다. ㄱ: 팔강에서는 병이 놓인 위치를 표와 리로 구분한다. ㄴ: 폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-표리경 배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-37"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 경맥의 짝 관계와 현재 병증의 병위는 각각 확인한다. ㄴ: 폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-표리경 배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-37"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ: 팔강에서는 병이 놓인 위치를 표와 리로 구분한다. ㄴ: 폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다. ㄷ: 경맥의 짝 관계와 현재 병증의 병위는 각각 확인한다.",
+      "discriminator": "팔강에서는 병이 놓인 위치를 표와 리로 구분한다. 폐–대장처럼 짝을 이루는 경맥의 관계를 설명한다. 경맥의 짝 관계와 현재 병증의 병위는 각각 확인한다.",
+      "nearestWrong": 1,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-37",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-38",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "변증과 부위의 연결 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 기혈진액 변증은 부족·정체·역행 등의 양상을 살핀다.\nㄴ. 한 부위의 압통만으로 장부 변증의 모든 정보가 갖춰진다.\nㄷ. 경락·부위 평가는 통증이 나타나는 위치를 살핀다.",
+      "statements": [
+        {
+          "text": "기혈진액 변증은 부족·정체·역행 등의 양상을 살핀다.",
+          "correct": true,
+          "reason": "기허·혈허·기체·어혈·담음 등을 살피는 분류다."
+        },
+        {
+          "text": "한 부위의 압통만으로 장부 변증의 모든 정보가 갖춰진다.",
+          "correct": false,
+          "reason": "장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다."
+        },
+        {
+          "text": "경락·부위 평가는 통증이 나타나는 위치를 살핀다.",
+          "correct": true,
+          "reason": "부위와 기능장애의 분포는 경혈 선택에 필요한 정보다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄴ: 장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다. ㄱ: 기허·혈허·기체·어혈·담음 등을 살피는 분류다. ㄷ: 부위와 기능장애의 분포는 경혈 선택에 필요한 정보다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-38"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 기허·혈허·기체·어혈·담음 등을 살피는 분류다. ㄴ: 장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다. ㄷ: 부위와 기능장애의 분포는 경혈 선택에 필요한 정보다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-38"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 기허·혈허·기체·어혈·담음 등을 살피는 분류다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-38"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다. ㄷ: 부위와 기능장애의 분포는 경혈 선택에 필요한 정보다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-38"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다. ㄱ: 기허·혈허·기체·어혈·담음 등을 살피는 분류다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-38"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ: 기허·혈허·기체·어혈·담음 등을 살피는 분류다. ㄴ: 장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다. ㄷ: 부위와 기능장애의 분포는 경혈 선택에 필요한 정보다.",
+      "discriminator": "기허·혈허·기체·어혈·담음 등을 살피는 분류다. 장부 변증에는 동반 증상과 경과 등 여러 진찰정보가 필요하다. 부위와 기능장애의 분포는 경혈 선택에 필요한 정보다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-38",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-39",
+      "cardId": "pair-수모배혈",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "장부와 수모배혈 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 모혈은 장부 병증의 전면 접근과 연결된다.\nㄴ. 수모배혈은 같은 장부의 배수혈과 모혈을 연결한다.\nㄷ. 배수혈은 흉복부에만 분포한다.",
+      "statements": [
+        {
+          "text": "모혈은 장부 병증의 전면 접근과 연결된다.",
+          "correct": true,
+          "reason": "모혈은 흉복부의 장부 관련 특정혈이다."
+        },
+        {
+          "text": "수모배혈은 같은 장부의 배수혈과 모혈을 연결한다.",
+          "correct": true,
+          "reason": "장부별로 등쪽 배수혈과 앞쪽 모혈을 함께 고려하는 원리다."
+        },
+        {
+          "text": "배수혈은 흉복부에만 분포한다.",
+          "correct": false,
+          "reason": "배수혈은 방광경상의 등쪽 경혈이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄷ: 배수혈은 방광경상의 등쪽 경혈이다. ㄱ: 모혈은 흉복부의 장부 관련 특정혈이다. ㄴ: 장부별로 등쪽 배수혈과 앞쪽 모혈을 함께 고려하는 원리다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-수모배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-39"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 배수혈은 방광경상의 등쪽 경혈이다. ㄴ: 장부별로 등쪽 배수혈과 앞쪽 모혈을 함께 고려하는 원리다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-수모배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-39"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 모혈은 흉복부의 장부 관련 특정혈이다. ㄴ: 장부별로 등쪽 배수혈과 앞쪽 모혈을 함께 고려하는 원리다. ㄷ: 배수혈은 방광경상의 등쪽 경혈이다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-수모배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-39"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 배수혈은 방광경상의 등쪽 경혈이다. ㄱ: 모혈은 흉복부의 장부 관련 특정혈이다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-수모배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-39"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄷ: 배수혈은 방광경상의 등쪽 경혈이다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-수모배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-39"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ: 모혈은 흉복부의 장부 관련 특정혈이다. ㄴ: 장부별로 등쪽 배수혈과 앞쪽 모혈을 함께 고려하는 원리다. ㄷ: 배수혈은 방광경상의 등쪽 경혈이다.",
+      "discriminator": "모혈은 흉복부의 장부 관련 특정혈이다. 장부별로 등쪽 배수혈과 앞쪽 모혈을 함께 고려하는 원리다. 배수혈은 방광경상의 등쪽 경혈이다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-39",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-40",
+      "cardId": "pair-원락배혈",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "원혈과 낙혈의 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 원혈과 낙혈은 서로 다른 특정혈 분류다.\nㄴ. 원락배혈은 한 경맥의 원혈과 표리경의 낙혈을 연결한다.\nㄷ. 낙혈은 모두 원혈과 동일한 혈이다.",
+      "statements": [
+        {
+          "text": "원혈과 낙혈은 서로 다른 특정혈 분류다.",
+          "correct": true,
+          "reason": "각 경맥의 원혈과 낙맥의 대표혈은 분류 기준이 다르다."
+        },
+        {
+          "text": "원락배혈은 한 경맥의 원혈과 표리경의 낙혈을 연결한다.",
+          "correct": true,
+          "reason": "원락배혈의 기본 정의에 해당한다."
+        },
+        {
+          "text": "낙혈은 모두 원혈과 동일한 혈이다.",
+          "correct": false,
+          "reason": "원혈과 낙혈의 위치·이름을 각각 확인해야 한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 원혈과 낙혈의 위치·이름을 각각 확인해야 한다. ㄴ: 원락배혈의 기본 정의에 해당한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-40"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 원혈과 낙혈의 위치·이름을 각각 확인해야 한다. ㄱ: 각 경맥의 원혈과 낙맥의 대표혈은 분류 기준이 다르다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-40"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄷ: 원혈과 낙혈의 위치·이름을 각각 확인해야 한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-40"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 각 경맥의 원혈과 낙맥의 대표혈은 분류 기준이 다르다. ㄴ: 원락배혈의 기본 정의에 해당한다. ㄷ: 원혈과 낙혈의 위치·이름을 각각 확인해야 한다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-40"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 원락배혈의 기본 정의에 해당한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원락배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-40"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ: 각 경맥의 원혈과 낙맥의 대표혈은 분류 기준이 다르다. ㄴ: 원락배혈의 기본 정의에 해당한다. ㄷ: 원혈과 낙혈의 위치·이름을 각각 확인해야 한다.",
+      "discriminator": "각 경맥의 원혈과 낙맥의 대표혈은 분류 기준이 다르다. 원락배혈의 기본 정의에 해당한다. 원혈과 낙혈의 위치·이름을 각각 확인해야 한다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-40",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-41",
+      "cardId": "class-팔회혈",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "기혈과 팔회혈 분류 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 기회와 혈회는 모두 팔맥교회혈의 기경 이름이다.\nㄴ. 기회·혈회 분류와 환자의 기허·혈허 판단은 구분해 공부한다.\nㄷ. 팔회혈에는 기회와 혈회가 포함된다.",
+      "statements": [
+        {
+          "text": "기회와 혈회는 모두 팔맥교회혈의 기경 이름이다.",
+          "correct": false,
+          "reason": "기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다."
+        },
+        {
+          "text": "기회·혈회 분류와 환자의 기허·혈허 판단은 구분해 공부한다.",
+          "correct": true,
+          "reason": "특정혈 속성과 기혈의 부족 여부는 서로 다른 판단 항목이다."
+        },
+        {
+          "text": "팔회혈에는 기회와 혈회가 포함된다.",
+          "correct": true,
+          "reason": "팔회혈은 장·부·기·혈·근·맥·골·수의 여덟 범주를 다룬다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다. ㄴ: 특정혈 속성과 기혈의 부족 여부는 서로 다른 판단 항목이다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-41"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-41"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다. ㄴ: 특정혈 속성과 기혈의 부족 여부는 서로 다른 판단 항목이다. ㄷ: 팔회혈은 장·부·기·혈·근·맥·골·수의 여덟 범주를 다룬다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-41"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 팔회혈은 장·부·기·혈·근·맥·골·수의 여덟 범주를 다룬다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-41"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다. ㄴ: 특정혈 속성과 기혈의 부족 여부는 서로 다른 판단 항목이다. ㄷ: 팔회혈은 장·부·기·혈·근·맥·골·수의 여덟 범주를 다룬다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "class-팔회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-41"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ: 기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다. ㄴ: 특정혈 속성과 기혈의 부족 여부는 서로 다른 판단 항목이다. ㄷ: 팔회혈은 장·부·기·혈·근·맥·골·수의 여덟 범주를 다룬다.",
+      "discriminator": "기회·혈회는 팔회혈의 범주이고 기경팔맥의 이름이 아니다. 특정혈 속성과 기혈의 부족 여부는 서로 다른 판단 항목이다. 팔회혈은 장·부·기·혈·근·맥·골·수의 여덟 범주를 다룬다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "특정혈 개념",
+      "source": "/learning/acupuncture/#clinical-acupuncture-41",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-42",
+      "cardId": "pair-원근배혈",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "사진 정보와 경혈 선택 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 절진은 맥진·복진과 압통 확인 등을 포함한다.\nㄴ. 망진은 설색과 태 등의 관찰을 포함한다.\nㄷ. 문진(問診)은 증상의 경과와 한열·땀 등을 묻는다.",
+      "statements": [
+        {
+          "text": "절진은 맥진·복진과 압통 확인 등을 포함한다.",
+          "correct": true,
+          "reason": "만져서 얻는 정보는 경혈의 압통과 상태 평가에도 쓰인다."
+        },
+        {
+          "text": "망진은 설색과 태 등의 관찰을 포함한다.",
+          "correct": true,
+          "reason": "혀의 색·형태·태를 보는 것은 망진에 속한다."
+        },
+        {
+          "text": "문진(問診)은 증상의 경과와 한열·땀 등을 묻는다.",
+          "correct": true,
+          "reason": "질문을 통해 증상의 양상과 변화를 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 만져서 얻는 정보는 경혈의 압통과 상태 평가에도 쓰인다. ㄴ: 혀의 색·형태·태를 보는 것은 망진에 속한다. ㄷ: 질문을 통해 증상의 양상과 변화를 확인한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-42"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 만져서 얻는 정보는 경혈의 압통과 상태 평가에도 쓰인다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-42"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 혀의 색·형태·태를 보는 것은 망진에 속한다. ㄷ: 질문을 통해 증상의 양상과 변화를 확인한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-42"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 만져서 얻는 정보는 경혈의 압통과 상태 평가에도 쓰인다. ㄷ: 질문을 통해 증상의 양상과 변화를 확인한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-42"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 만져서 얻는 정보는 경혈의 압통과 상태 평가에도 쓰인다. ㄴ: 혀의 색·형태·태를 보는 것은 망진에 속한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-42"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ: 만져서 얻는 정보는 경혈의 압통과 상태 평가에도 쓰인다. ㄴ: 혀의 색·형태·태를 보는 것은 망진에 속한다. ㄷ: 질문을 통해 증상의 양상과 변화를 확인한다.",
+      "discriminator": "만져서 얻는 정보는 경혈의 압통과 상태 평가에도 쓰인다. 혀의 색·형태·태를 보는 것은 망진에 속한다. 질문을 통해 증상의 양상과 변화를 확인한다.",
+      "nearestWrong": 1,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-42",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-43",
+      "cardId": "pair-원근배혈",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "기허와 기체의 감별 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 활동·회복력 저하를 살피는 기허의 대표 치법은 보기·익기다.\nㄴ. 팽만·긴장·변동성 통증을 살피는 기체의 대표 치법은 이기다.\nㄷ. 기허와 기체는 동일한 병기명이다.",
+      "statements": [
+        {
+          "text": "활동·회복력 저하를 살피는 기허의 대표 치법은 보기·익기다.",
+          "correct": true,
+          "reason": "기허에서는 기의 부족을 보완하는 치법을 연결한다."
+        },
+        {
+          "text": "팽만·긴장·변동성 통증을 살피는 기체의 대표 치법은 이기다.",
+          "correct": true,
+          "reason": "기체에서는 기의 정체를 풀어 주는 치법을 연결한다."
+        },
+        {
+          "text": "기허와 기체는 동일한 병기명이다.",
+          "correct": false,
+          "reason": "부족과 정체는 서로 다른 병기이며 함께 나타나는지도 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 기체에서는 기의 정체를 풀어 주는 치법을 연결한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-43"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 기허에서는 기의 부족을 보완하는 치법을 연결한다. ㄴ: 기체에서는 기의 정체를 풀어 주는 치법을 연결한다. ㄷ: 부족과 정체는 서로 다른 병기이며 함께 나타나는지도 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-43"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 기허에서는 기의 부족을 보완하는 치법을 연결한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-43"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄷ: 부족과 정체는 서로 다른 병기이며 함께 나타나는지도 살핀다. ㄱ: 기허에서는 기의 부족을 보완하는 치법을 연결한다. ㄴ: 기체에서는 기의 정체를 풀어 주는 치법을 연결한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-43"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 부족과 정체는 서로 다른 병기이며 함께 나타나는지도 살핀다. ㄴ: 기체에서는 기의 정체를 풀어 주는 치법을 연결한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-43"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ: 기허에서는 기의 부족을 보완하는 치법을 연결한다. ㄴ: 기체에서는 기의 정체를 풀어 주는 치법을 연결한다. ㄷ: 부족과 정체는 서로 다른 병기이며 함께 나타나는지도 살핀다.",
+      "discriminator": "기허에서는 기의 부족을 보완하는 치법을 연결한다. 기체에서는 기의 정체를 풀어 주는 치법을 연결한다. 부족과 정체는 서로 다른 병기이며 함께 나타나는지도 살핀다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-43",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-44",
+      "cardId": "pair-원근배혈",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "혈허와 어혈의 감별 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 어혈은 활혈화어·통락과 연결한다.\nㄴ. 혈허와 어혈이 함께 있으면 두 병기를 함께 고려한다.\nㄷ. 혈허는 보혈·양혈과 연결한다.",
+      "statements": [
+        {
+          "text": "어혈은 활혈화어·통락과 연결한다.",
+          "correct": true,
+          "reason": "혈의 정체와 고정통 등을 살피는 치법이다."
+        },
+        {
+          "text": "혈허와 어혈이 함께 있으면 두 병기를 함께 고려한다.",
+          "correct": true,
+          "reason": "영양 기반의 보완과 정체의 조절을 함께 검토한다."
+        },
+        {
+          "text": "혈허는 보혈·양혈과 연결한다.",
+          "correct": true,
+          "reason": "혈의 부족을 보완하는 치법이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 혈의 정체와 고정통 등을 살피는 치법이다. ㄷ: 혈의 부족을 보완하는 치법이다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-44"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 혈의 정체와 고정통 등을 살피는 치법이다. ㄴ: 영양 기반의 보완과 정체의 조절을 함께 검토한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-44"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 혈의 정체와 고정통 등을 살피는 치법이다. ㄴ: 영양 기반의 보완과 정체의 조절을 함께 검토한다. ㄷ: 혈의 부족을 보완하는 치법이다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-44"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄷ: 혈의 부족을 보완하는 치법이다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-44"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 영양 기반의 보완과 정체의 조절을 함께 검토한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-44"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ: 혈의 정체와 고정통 등을 살피는 치법이다. ㄴ: 영양 기반의 보완과 정체의 조절을 함께 검토한다. ㄷ: 혈의 부족을 보완하는 치법이다.",
+      "discriminator": "혈의 정체와 고정통 등을 살피는 치법이다. 영양 기반의 보완과 정체의 조절을 함께 검토한다. 혈의 부족을 보완하는 치법이다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-44",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-45",
+      "cardId": "pair-원근배혈",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "음허와 양허의 한열 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 음허와 양허는 모두 같은 한증으로 분류한다.\nㄴ. 음허는 건조·허열 양상과 자음·생진을 연결해 살핀다.\nㄷ. 양허는 냉감과 온양·보양을 연결해 살핀다.",
+      "statements": [
+        {
+          "text": "음허와 양허는 모두 같은 한증으로 분류한다.",
+          "correct": false,
+          "reason": "음허의 허열과 양허의 한증은 감별할 내용이다."
+        },
+        {
+          "text": "음허는 건조·허열 양상과 자음·생진을 연결해 살핀다.",
+          "correct": true,
+          "reason": "진액 부족과 허열 여부를 함께 확인한다."
+        },
+        {
+          "text": "양허는 냉감과 온양·보양을 연결해 살핀다.",
+          "correct": true,
+          "reason": "온후 기능의 저하와 관련된 양상을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 진액 부족과 허열 여부를 함께 확인한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-45"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 음허의 허열과 양허의 한증은 감별할 내용이다. ㄷ: 온후 기능의 저하와 관련된 양상을 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-45"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 음허의 허열과 양허의 한증은 감별할 내용이다. ㄴ: 진액 부족과 허열 여부를 함께 확인한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-45"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 음허의 허열과 양허의 한증은 감별할 내용이다. ㄴ: 진액 부족과 허열 여부를 함께 확인한다. ㄷ: 온후 기능의 저하와 관련된 양상을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-45"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 음허의 허열과 양허의 한증은 감별할 내용이다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-45"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ: 음허의 허열과 양허의 한증은 감별할 내용이다. ㄴ: 진액 부족과 허열 여부를 함께 확인한다. ㄷ: 온후 기능의 저하와 관련된 양상을 살핀다.",
+      "discriminator": "음허의 허열과 양허의 한증은 감별할 내용이다. 진액 부족과 허열 여부를 함께 확인한다. 온후 기능의 저하와 관련된 양상을 살핀다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-45",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-46",
+      "cardId": "pair-원근배혈",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "겸증과 치법 조합 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 기허와 담습이 함께 있으면 보기와 건비·화담·이수를 함께 고려한다.\nㄴ. 겸증을 살필 때도 주병기와 치료 우선순위를 정한다.\nㄷ. 치법의 수가 많을수록 변증의 정확도가 자동으로 높아진다.",
+      "statements": [
+        {
+          "text": "기허와 담습이 함께 있으면 보기와 건비·화담·이수를 함께 고려한다.",
+          "correct": true,
+          "reason": "기의 부족과 담습 정체를 함께 다루는 조합을 검토한다."
+        },
+        {
+          "text": "겸증을 살필 때도 주병기와 치료 우선순위를 정한다.",
+          "correct": true,
+          "reason": "현재 불편과 기능 저하를 중심으로 우선순위를 정한다."
+        },
+        {
+          "text": "치법의 수가 많을수록 변증의 정확도가 자동으로 높아진다.",
+          "correct": false,
+          "reason": "변증은 필요한 주병기와 겸증을 구체적으로 정리하는 과정이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 변증은 필요한 주병기와 겸증을 구체적으로 정리하는 과정이다. ㄴ: 현재 불편과 기능 저하를 중심으로 우선순위를 정한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-46"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 변증은 필요한 주병기와 겸증을 구체적으로 정리하는 과정이다. ㄱ: 기의 부족과 담습 정체를 함께 다루는 조합을 검토한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-46"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄷ: 변증은 필요한 주병기와 겸증을 구체적으로 정리하는 과정이다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-46"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 현재 불편과 기능 저하를 중심으로 우선순위를 정한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-46"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 기의 부족과 담습 정체를 함께 다루는 조합을 검토한다. ㄴ: 현재 불편과 기능 저하를 중심으로 우선순위를 정한다. ㄷ: 변증은 필요한 주병기와 겸증을 구체적으로 정리하는 과정이다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "pair-원근배혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-46"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ: 기의 부족과 담습 정체를 함께 다루는 조합을 검토한다. ㄴ: 현재 불편과 기능 저하를 중심으로 우선순위를 정한다. ㄷ: 변증은 필요한 주병기와 겸증을 구체적으로 정리하는 과정이다.",
+      "discriminator": "기의 부족과 담습 정체를 함께 다루는 조합을 검토한다. 현재 불편과 기능 저하를 중심으로 우선순위를 정한다. 변증은 필요한 주병기와 겸증을 구체적으로 정리하는 과정이다.",
+      "nearestWrong": 0,
+      "references": [
+        {
+          "title": "변증·치법",
+          "url": "/foundations-integrated/pattern-treatment/"
+        },
+        {
+          "title": "한의 진단 통합 지도",
+          "url": "/foundations-integrated/diagnosis/"
+        }
+      ],
+      "kind": "clinical",
+      "category": "배혈 원리",
+      "source": "/learning/acupuncture/#clinical-acupuncture-46",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-47",
+      "cardId": "class-하합혈",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "소속 경맥과 하합혈 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 상거허는 대장 하합혈이므로 대장경에 속한다.\nㄴ. 특정혈의 관련 장부와 그 혈의 소속 경맥은 따로 확인한다.\nㄷ. 족삼리는 위경의 경혈이다.",
+      "statements": [
+        {
+          "text": "상거허는 대장 하합혈이므로 대장경에 속한다.",
+          "correct": false,
+          "reason": "상거허는 위경에 속하면서 대장 하합혈로 분류된다."
+        },
+        {
+          "text": "특정혈의 관련 장부와 그 혈의 소속 경맥은 따로 확인한다.",
+          "correct": true,
+          "reason": "하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다."
+        },
+        {
+          "text": "족삼리는 위경의 경혈이다.",
+          "correct": true,
+          "reason": "족삼리는 족양명위경에 속한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 상거허는 위경에 속하면서 대장 하합혈로 분류된다. ㄴ: 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다. ㄷ: 족삼리는 족양명위경에 속한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "class-하합혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-47"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 상거허는 위경에 속하면서 대장 하합혈로 분류된다. ㄴ: 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-하합혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-47"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 상거허는 위경에 속하면서 대장 하합혈로 분류된다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-하합혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-47"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 상거허는 위경에 속하면서 대장 하합혈로 분류된다. ㄴ: 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다. ㄷ: 족삼리는 족양명위경에 속한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-하합혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-47"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 족삼리는 족양명위경에 속한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-하합혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-47"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ: 상거허는 위경에 속하면서 대장 하합혈로 분류된다. ㄴ: 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다. ㄷ: 족삼리는 족양명위경에 속한다.",
+      "discriminator": "상거허는 위경에 속하면서 대장 하합혈로 분류된다. 하합혈처럼 분류축이 교차하는 경우에 필요한 구분이다. 족삼리는 족양명위경에 속한다.",
+      "nearestWrong": 1,
+      "kind": "clinical",
+      "category": "특정혈 개념",
+      "source": "/learning/acupuncture/#clinical-acupuncture-47",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
+    },
+    {
+      "id": "clinical-acupuncture-48",
+      "cardId": "class-팔맥교회혈",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "팔회혈과 팔맥교회혈 — 옳은 설명을 모두 고른 것은?",
+      "context": "다음 세 설명을 비교하세요.\nㄱ. 열결과 조해는 독맥·양교맥의 대표 짝이다.\nㄴ. 팔회혈과 팔맥교회혈은 이름이 비슷하지만 분류 기준이 다르다.\nㄷ. 공손과 내관은 충맥·음유맥의 대표 짝이다.",
+      "statements": [
+        {
+          "text": "열결과 조해는 독맥·양교맥의 대표 짝이다.",
+          "correct": false,
+          "reason": "열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다."
+        },
+        {
+          "text": "팔회혈과 팔맥교회혈은 이름이 비슷하지만 분류 기준이 다르다.",
+          "correct": true,
+          "reason": "팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다."
+        },
+        {
+          "text": "공손과 내관은 충맥·음유맥의 대표 짝이다.",
+          "correct": true,
+          "reason": "공손은 충맥, 내관은 음유맥과 연결한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔맥교회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-48"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다. ㄴ: 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다. ㄷ: 공손은 충맥, 내관은 음유맥과 연결한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "class-팔맥교회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-48"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다. ㄴ: 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다. ㄷ: 공손은 충맥, 내관은 음유맥과 연결한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔맥교회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-48"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 공손은 충맥, 내관은 음유맥과 연결한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔맥교회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-48"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "class-팔맥교회혈",
+          "source": "/learning/acupuncture/#clinical-acupuncture-48"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ: 열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다. ㄴ: 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다. ㄷ: 공손은 충맥, 내관은 음유맥과 연결한다.",
+      "discriminator": "열결·조해는 임맥·음교맥, 후계·신맥은 독맥·양교맥과 연결한다. 팔회혈은 조직·기능 범주, 팔맥교회혈은 기경과의 연결을 다룬다. 공손은 충맥, 내관은 음유맥과 연결한다.",
+      "nearestWrong": 0,
+      "kind": "clinical",
+      "category": "특정혈 개념",
+      "source": "/learning/acupuncture/#clinical-acupuncture-48",
+      "relatedSource": "/acupuncture-specific/pairing-principles/"
     }
   ]
 }
