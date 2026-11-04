@@ -27,7 +27,7 @@ def needed_assets(html, source):
     atlas = bool(ids & {"acupoint-controls", "acupoint-discovery"}) or "acupoint-region" in classes
     daily = bool(attributes & {"data-daily-km", "data-daily-km-topics"})
     return {
-        "assets/solar-terms/calculator.js": "data-solar-term-calculator" in attributes,
+        "assets/solar-terms/calculator.js": "data-solar-term-calculator" in attributes or daily,
         "assets/solar-terms/calculator.css": "data-solar-term-calculator" in attributes,
         "assets/acupoint-3d/launch.js": "data-acupoint-3d" in attributes,
         "assets/acupoint-3d/map.css": "data-acupoint-3d" in attributes,
@@ -44,6 +44,8 @@ def needed_assets(html, source):
         "assets/acupoint-atlas/explorer.css": atlas or bool(classes & {"acupoint-location", "acupoint-sequence"}),
         "assets/learning/learning.js": "data-learning-room" in attributes,
         "assets/learning/learning.css": "data-learning-room" in attributes,
+        "assets/daily-korean-medicine/calendar-core.js": daily,
+        "assets/daily-korean-medicine/calendar.css": daily,
         "assets/daily-korean-medicine/reader-core.js": daily,
         "assets/daily-korean-medicine.js": "data-daily-km" in attributes,
         "assets/daily-korean-medicine/special.js": "data-daily-km-topics" in attributes,
