@@ -30,7 +30,7 @@ extra_css:
 - assets/extra.css?v=20261104-acupuncture-menu
 - assets/acupoint-atlas/explorer.css?v=20261031-detail-link
 - assets/learning/learning.css?v=20261013-import-fit
-- stylesheets/portal.css?v=20261101-term-day-story
+- stylesheets/portal.css?v=20261104-daily-entry
 - stylesheets/korean-medicine-guide.css
 - assets/korean-search-185.css?v=20261018-viewport
 - assets/donguibogam/reader.css
@@ -473,7 +473,9 @@ markdown_extensions:
 - pymdownx.tasklist:
     custom_checkbox: true
 nav:
-- 홈: index.md
+- 홈:
+  - index.md
+  - 오늘의 한의학: daily-korean-medicine/index.md
 - 한의학 기초:
   - 한의학 기초 한눈에 보기: foundations-integrated/index.md
   - 장부·기혈진액: foundations-integrated/zangfu-qi-blood-fluids.md
@@ -1466,5 +1468,3 @@ validation:
     not_found: warn
   links:
     not_found: warn
-
-
