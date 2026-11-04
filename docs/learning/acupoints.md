@@ -2748,7 +2748,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 | --- | --- |
 | ㄱ | 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. |
 | ㄴ | 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이. |
-| ㄷ | 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이. |
+| ㄷ | 소해(少海) · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이. |
 
 1. ㄱ · ㄴ
 2. ㄷ
@@ -2759,22 +2759,22 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 <details markdown="1">
 <summary>정답·감별 해설 펼치기</summary>
 
-**정답: 3번** — ㄱ(옳음): 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ(수정): 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ(옳음): 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+**정답: 3번** — ㄱ(옳음): 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ(수정): 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ(옳음): 소해(少海) · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
 
-**결정적 감별 단서:** 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+**결정적 감별 단서:** 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. 소해(少海) · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
 
 **가장 가까운 오답:** 2번 — ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳.
 
-- **1번:** ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ: 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+- **1번:** ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ: 소해(少海) · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
 - **2번:** ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳.
-- **3번:** ㄱ(옳음): 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ(수정): 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ(옳음): 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
-- **4번:** ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ: 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+- **3번:** ㄱ(옳음): 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ(수정): 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ(옳음): 소해(少海) · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+- **4번:** ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ: 소해(少海) · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
 - **5번:** ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳.
 
 [연결 학습 원문](/acupuncture/points/lu5-chize/)
  · [척택 원문](/acupuncture/points/lu5-chize/)
  · [곡택 원문](/acupuncture/points/pc3/)
- · [소해 · 수소음심경 원문](/acupuncture/points/ht3-shaohai/)
+ · [소해(少海) · 수소음심경 원문](/acupuncture/points/ht3-shaohai/)
 
 </details>
 
@@ -2790,7 +2790,7 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 | --- | --- |
 | ㄱ | 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. |
 | ㄴ | 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳. |
-| ㄷ | 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. |
+| ㄷ | 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. |
 
 1. ㄷ
 2. ㄱ · ㄷ
@@ -2801,22 +2801,22 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 <details markdown="1">
 <summary>정답·감별 해설 펼치기</summary>
 
-**정답: 4번** — ㄱ(옳음): 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ(수정): 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ(수정): 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+**정답: 4번** — ㄱ(옳음): 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ(수정): 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ(수정): 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
 
-**결정적 감별 단서:** 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+**결정적 감별 단서:** 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
 
-**가장 가까운 오답:** 2번 — ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+**가장 가까운 오답:** 2번 — ㄷ: 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
 
-- **1번:** ㄱ: 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
-- **2번:** ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
-- **3번:** ㄱ: 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ: 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
-- **4번:** ㄱ(옳음): 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ(수정): 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ(수정): 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **1번:** ㄱ: 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄷ: 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **2번:** ㄷ: 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **3번:** ㄱ: 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ: 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ: 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **4번:** ㄱ(옳음): 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ(수정): 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ(수정): 소해(小海) · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
 - **5번:** ㄴ: 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳.
 
 [연결 학습 원문](/acupuncture/points/li11-quchi/)
  · [곡지 원문](/acupuncture/points/li11-quchi/)
  · [천정 · 수소양삼초경 원문](/acupuncture/points/te10/)
- · [소해 · 수태양소장경 원문](/acupuncture/points/si8/)
+ · [소해(小海) · 수태양소장경 원문](/acupuncture/points/si8/)
 
 </details>
 

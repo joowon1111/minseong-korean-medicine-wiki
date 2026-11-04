@@ -436,6 +436,9 @@ class StudentLearning(unittest.TestCase):
                 validate_clinical(broken)
         self.assertNotEqual(study.normalized('ㄱ · ㄴ'), study.normalized('ㄱ · ㄷ'))
         self.assertIn('총 **156문제**(중 78·상 78)', (study.DOCS / 'learning/index.md').read_text())
+        points_by_id = {q['id']: q for q in self.decks['acupoints']['questions']}
+        self.assertIn('소해(少海)', points_by_id['clinical-acupoints-49']['statements'][2]['reason'])
+        self.assertIn('소해(小海)', points_by_id['clinical-acupoints-50']['statements'][2]['reason'])
         for subject in ('acupuncture', 'herbs', 'acupoints'):
             added = [q for q in self.decks[subject]['questions'] if q['kind'] == 'clinical' and int(q['id'].rsplit('-', 1)[1]) >= 49]
             self.assertEqual(len(added), 40)
