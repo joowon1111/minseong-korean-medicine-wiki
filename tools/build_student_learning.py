@@ -727,7 +727,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261104-01', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261105-01', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -793,6 +793,14 @@ def main():
                       f"총 **{sum(q['kind'] == 'advanced' for d in decks.values() for q in d['questions'])}문제**", text)
         clinical = [q for d in decks.values() for q in d['questions'] if q['kind'] == 'clinical']
         clinical_counts = {s: sum(q['kind'] == 'clinical' for q in d['questions']) for s, d in decks.items()}
+        combinations = [q for q in clinical if q.get('topic') == 'statement-comparison']
+        combination_subjects = [s for s, d in decks.items() if any(q.get('topic') == 'statement-comparison' for q in d['questions'])]
+        combination_counts = {sum(q.get('topic') == 'statement-comparison' for q in decks[s]['questions']) for s in combination_subjects}
+        assert len(combination_counts) == 1
+        combination_names = '·'.join(SUBJECTS[s] for s in combination_subjects)
+        text = re.sub(r'(\*\*개념 연결·설명 조합 문제\*\*는 ).*?(입니다\.)',
+                      lambda m: m[1] + combination_names + f'에 {next(iter(combination_counts))}문제씩, 총 **{len(combinations)}문제**'
+                      f"(중 {sum(q['difficulty'] == 'high' for q in combinations)}·상 {sum(q['difficulty'] == 'expert' for q in combinations)})" + m[2], text)
         groups = {}
         for subject, count in clinical_counts.items():
             groups.setdefault(count, []).append(SUBJECTS[subject])

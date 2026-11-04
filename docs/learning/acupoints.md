@@ -7,7 +7,7 @@ tags: [경혈학, 경혈 암기, 361경혈, 경혈 위치, 학습카드, 경혈 
 
 [기초 한의학 학습실](index.md) / **경혈학**
 
-**361개 카드 · 1,164문제.** 혈명을 중심으로 표준 위치의 뼈·힘줄·주름 등 해부학적 표지를 연결하고, 같은 부위의 인접 혈을 구별합니다. 같은 혈명을 가진 경혈은 소속 경맥으로 구분합니다. 국제 표준 코드는 원문 대조·검색에 활용하며 번호 자체를 묻는 문제는 출제하지 않습니다.
+**361개 카드 · 1,204문제.** 혈명을 중심으로 표준 위치의 뼈·힘줄·주름 등 해부학적 표지를 연결하고, 같은 부위의 인접 혈을 구별합니다. 같은 혈명을 가진 경혈은 소속 경맥으로 구분합니다. 국제 표준 코드는 원문 대조·검색에 활용하며 번호 자체를 묻는 문제는 출제하지 않습니다.
 
 ## 학습 순서
 
@@ -2733,6 +2733,1686 @@ A는 안쪽복사 위 2촌, 정강뼈 안쪽모서리 뒤의 오목한 곳이다
 - **5번:** ㄱ: 소속 경맥과 특정혈의 기능 범주는 서로 다른 분류축이다. ㄴ: 양릉천은 팔회혈 중 근회로 분류된다.
 
 [연결 학습 원문](/acupuncture/points/gb34-yanglingquan/)
+
+</details>
+
+<span id="clinical-acupoints-49"></span>
+
+### 49. 중 · 팔꿈치 앞쪽 세 경혈의 위치 — 옳은 설명을 모두 고른 것은?
+
+팔꿈치 앞쪽 세 경혈의 위치을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. |
+| ㄴ | 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이. |
+| ㄷ | 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이. |
+
+1. ㄱ · ㄴ
+2. ㄷ
+3. ㄱ · ㄷ
+4. ㄴ
+5. ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(옳음): 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ(수정): 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ(옳음): 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+
+**결정적 감별 단서:** 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+
+**가장 가까운 오답:** 2번 — ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳.
+
+- **1번:** ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ: 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+- **2번:** ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳.
+- **3번:** ㄱ(옳음): 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ(수정): 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ(옳음): 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+- **4번:** ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳. ㄷ: 소해 · 수소음심경의 표준 위치는 다음과 같다: 팔꿈치 앞안쪽면, 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus) 바로 앞쪽, 팔오금주름(cubital crease)과 같은 높이.
+- **5번:** ㄱ: 척택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 가쪽 오목한 곳. ㄴ: 곡택의 표준 위치는 다음과 같다: 팔꿈치 앞쪽면, 팔오금주름(cubital crease) 위, 위팔두갈래근힘줄(biceps brachii tendon)의 안쪽 오목한 곳.
+
+[연결 학습 원문](/acupuncture/points/lu5-chize/)
+ · [척택 원문](/acupuncture/points/lu5-chize/)
+ · [곡택 원문](/acupuncture/points/pc3/)
+ · [소해 · 수소음심경 원문](/acupuncture/points/ht3-shaohai/)
+
+</details>
+
+<span id="clinical-acupoints-50"></span>
+
+### 50. 중 · 팔꿈치 가쪽·뒤쪽 경혈의 위치 — 옳은 설명을 모두 고른 것은?
+
+팔꿈치 가쪽·뒤쪽 경혈의 위치을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. |
+| ㄴ | 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳. |
+| ㄷ | 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. |
+
+1. ㄷ
+2. ㄱ · ㄷ
+3. ㄴ · ㄷ
+4. ㄱ
+5. ㄱ · ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(옳음): 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ(수정): 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ(수정): 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+
+**결정적 감별 단서:** 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+
+**가장 가까운 오답:** 2번 — ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+
+- **1번:** ㄱ: 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **2번:** ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **3번:** ㄱ: 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ: 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ: 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **4번:** ㄱ(옳음): 곡지의 표준 위치는 다음과 같다: 팔꿈치 가쪽면, 尺澤(척택)과 위팔뼈가쪽위관절융기(lateral epicondyle of the humerus)를 연결하는 선의 중점. ㄴ(수정): 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳. ㄷ(수정): 소해 · 수태양소장경의 표준 위치는 다음과 같다: 팔꿈치 뒤 안쪽면, 자뼈 팔꿈치머리(olecranon)와 위팔뼈 안쪽위관절융기(medial epicondyle of the humerus)사이의 오목한 곳.
+- **5번:** ㄴ: 천정 · 수소양삼초경의 표준 위치는 다음과 같다: 팔꿈치 뒤쪽면, 팔꿈치머리 융기(prominence of the olecranon)에서 몸 쪽으로 1寸이 되는 오목한 곳.
+
+[연결 학습 원문](/acupuncture/points/li11-quchi/)
+ · [곡지 원문](/acupuncture/points/li11-quchi/)
+ · [천정 · 수소양삼초경 원문](/acupuncture/points/te10/)
+ · [소해 · 수태양소장경 원문](/acupuncture/points/si8/)
+
+</details>
+
+<span id="clinical-acupoints-51"></span>
+
+### 51. 중 · 손목 앞쪽 세 경혈의 위치 — 옳은 설명을 모두 고른 것은?
+
+손목 앞쪽 세 경혈의 위치을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. |
+| ㄴ | 대릉의 표준 위치는 다음과 같다: 손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위. |
+| ㄷ | 신문의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. |
+
+1. ㄱ · ㄴ
+2. ㄱ · ㄴ · ㄷ
+3. ㄱ
+4. ㄷ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(옳음): 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. ㄴ(옳음): 대릉의 표준 위치는 다음과 같다: 손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위. ㄷ(수정): 신문의 표준 위치는 다음과 같다: 손목 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽모서리 노쪽, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+
+**결정적 감별 단서:** 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. 대릉의 표준 위치는 다음과 같다: 손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위. 신문의 표준 위치는 다음과 같다: 손목 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽모서리 노쪽, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+
+**가장 가까운 오답:** 2번 — ㄷ: 신문의 표준 위치는 다음과 같다: 손목 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽모서리 노쪽, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+
+- **1번:** ㄱ(옳음): 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. ㄴ(옳음): 대릉의 표준 위치는 다음과 같다: 손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위. ㄷ(수정): 신문의 표준 위치는 다음과 같다: 손목 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽모서리 노쪽, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+- **2번:** ㄷ: 신문의 표준 위치는 다음과 같다: 손목 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽모서리 노쪽, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+- **3번:** ㄴ: 대릉의 표준 위치는 다음과 같다: 손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+- **4번:** ㄱ: 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. ㄴ: 대릉의 표준 위치는 다음과 같다: 손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위. ㄷ: 신문의 표준 위치는 다음과 같다: 손목 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽모서리 노쪽, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+- **5번:** ㄴ: 대릉의 표준 위치는 다음과 같다: 손목 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 위. ㄷ: 신문의 표준 위치는 다음과 같다: 손목 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽모서리 노쪽, 손바닥 쪽 손목주름(palmar wrist crease) 위.
+
+[연결 학습 원문](/acupuncture/points/lu9-taiyuan/)
+ · [태연 원문](/acupuncture/points/lu9-taiyuan/)
+ · [대릉 원문](/acupuncture/points/pc7-daling/)
+ · [신문 원문](/acupuncture/points/ht7-shenmen/)
+
+</details>
+
+<span id="clinical-acupoints-52"></span>
+
+### 52. 중 · 손목 뒤쪽 세 경혈의 위치 — 옳은 설명을 모두 고른 것은?
+
+손목 뒤쪽 세 경혈의 위치을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 양계의 표준 위치는 다음과 같다: 손목 뒤가쪽면, 손등 쪽 손목주름(dorsal wrist crease)의 노쪽, 노뼈붓돌기(radial styloid process)에서 먼 쪽(distal), 해부학적 코담배갑(anatomical snuffbox)의 오목한 곳. |
+| ㄴ | 양지의 표준 위치는 다음과 같다: 손목 뒤쪽면, 손등 쪽 손목주름(dorsal wrist crease) 위, 손가락폄근힘줄(extensor digitorum tendon) 자쪽 오목한 곳. |
+| ㄷ | 양곡의 표준 위치는 다음과 같다: 손목 뒤 안쪽면, 자뼈붓돌기(ulnar styloid process)와 세모뼈(triquetrum bone) 사이의 오목한 곳. |
+
+1. ㄴ · ㄷ
+2. ㄱ · ㄴ · ㄷ
+3. ㄱ · ㄴ
+4. ㄱ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(옳음): 양계의 표준 위치는 다음과 같다: 손목 뒤가쪽면, 손등 쪽 손목주름(dorsal wrist crease)의 노쪽, 노뼈붓돌기(radial styloid process)에서 먼 쪽(distal), 해부학적 코담배갑(anatomical snuffbox)의 오목한 곳. ㄴ(옳음): 양지의 표준 위치는 다음과 같다: 손목 뒤쪽면, 손등 쪽 손목주름(dorsal wrist crease) 위, 손가락폄근힘줄(extensor digitorum tendon) 자쪽 오목한 곳. ㄷ(옳음): 양곡의 표준 위치는 다음과 같다: 손목 뒤 안쪽면, 자뼈붓돌기(ulnar styloid process)와 세모뼈(triquetrum bone) 사이의 오목한 곳.
+
+**결정적 감별 단서:** 양계의 표준 위치는 다음과 같다: 손목 뒤가쪽면, 손등 쪽 손목주름(dorsal wrist crease)의 노쪽, 노뼈붓돌기(radial styloid process)에서 먼 쪽(distal), 해부학적 코담배갑(anatomical snuffbox)의 오목한 곳. 양지의 표준 위치는 다음과 같다: 손목 뒤쪽면, 손등 쪽 손목주름(dorsal wrist crease) 위, 손가락폄근힘줄(extensor digitorum tendon) 자쪽 오목한 곳. 양곡의 표준 위치는 다음과 같다: 손목 뒤 안쪽면, 자뼈붓돌기(ulnar styloid process)와 세모뼈(triquetrum bone) 사이의 오목한 곳.
+
+**가장 가까운 오답:** 1번 — ㄱ: 양계의 표준 위치는 다음과 같다: 손목 뒤가쪽면, 손등 쪽 손목주름(dorsal wrist crease)의 노쪽, 노뼈붓돌기(radial styloid process)에서 먼 쪽(distal), 해부학적 코담배갑(anatomical snuffbox)의 오목한 곳.
+
+- **1번:** ㄱ: 양계의 표준 위치는 다음과 같다: 손목 뒤가쪽면, 손등 쪽 손목주름(dorsal wrist crease)의 노쪽, 노뼈붓돌기(radial styloid process)에서 먼 쪽(distal), 해부학적 코담배갑(anatomical snuffbox)의 오목한 곳.
+- **2번:** ㄱ(옳음): 양계의 표준 위치는 다음과 같다: 손목 뒤가쪽면, 손등 쪽 손목주름(dorsal wrist crease)의 노쪽, 노뼈붓돌기(radial styloid process)에서 먼 쪽(distal), 해부학적 코담배갑(anatomical snuffbox)의 오목한 곳. ㄴ(옳음): 양지의 표준 위치는 다음과 같다: 손목 뒤쪽면, 손등 쪽 손목주름(dorsal wrist crease) 위, 손가락폄근힘줄(extensor digitorum tendon) 자쪽 오목한 곳. ㄷ(옳음): 양곡의 표준 위치는 다음과 같다: 손목 뒤 안쪽면, 자뼈붓돌기(ulnar styloid process)와 세모뼈(triquetrum bone) 사이의 오목한 곳.
+- **3번:** ㄷ: 양곡의 표준 위치는 다음과 같다: 손목 뒤 안쪽면, 자뼈붓돌기(ulnar styloid process)와 세모뼈(triquetrum bone) 사이의 오목한 곳.
+- **4번:** ㄴ: 양지의 표준 위치는 다음과 같다: 손목 뒤쪽면, 손등 쪽 손목주름(dorsal wrist crease) 위, 손가락폄근힘줄(extensor digitorum tendon) 자쪽 오목한 곳. ㄷ: 양곡의 표준 위치는 다음과 같다: 손목 뒤 안쪽면, 자뼈붓돌기(ulnar styloid process)와 세모뼈(triquetrum bone) 사이의 오목한 곳.
+- **5번:** ㄴ: 양지의 표준 위치는 다음과 같다: 손목 뒤쪽면, 손등 쪽 손목주름(dorsal wrist crease) 위, 손가락폄근힘줄(extensor digitorum tendon) 자쪽 오목한 곳.
+
+[연결 학습 원문](/acupuncture/points/li5/)
+ · [양계 원문](/acupuncture/points/li5/)
+ · [양지 원문](/acupuncture/points/te4/)
+ · [양곡 원문](/acupuncture/points/si5/)
+
+</details>
+
+<span id="clinical-acupoints-53"></span>
+
+### 53. 중 · 손등의 손가락뼈 사이 표지 — 옳은 설명을 모두 고른 것은?
+
+손등의 손가락뼈 사이 표지을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 합곡의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳. |
+| ㄴ | 중저의 표준 위치는 다음과 같다: 손등, 다섯째 손허리손가락관절(the 5th metacarpophalangeal joint) 자쪽의 몸 쪽 오목한 곳, 赤白肉際. |
+| ㄷ | 후계의 표준 위치는 다음과 같다: 손등, 다섯째 손허리손가락관절(the 5th metacarpophalangeal joint) 자쪽의 몸 쪽 오목한 곳, 赤白肉際. |
+
+1. ㄱ · ㄴ · ㄷ
+2. ㄱ · ㄴ
+3. ㄴ · ㄷ
+4. ㄷ
+5. ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(수정): 합곡의 표준 위치는 다음과 같다: 손등, 둘째 손허리뼈(the 2nd metacarpal bone) 중점의 노쪽. ㄴ(수정): 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳. ㄷ(옳음): 후계의 표준 위치는 다음과 같다: 손등, 다섯째 손허리손가락관절(the 5th metacarpophalangeal joint) 자쪽의 몸 쪽 오목한 곳, 赤白肉際.
+
+**결정적 감별 단서:** 합곡의 표준 위치는 다음과 같다: 손등, 둘째 손허리뼈(the 2nd metacarpal bone) 중점의 노쪽. 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳. 후계의 표준 위치는 다음과 같다: 손등, 다섯째 손허리손가락관절(the 5th metacarpophalangeal joint) 자쪽의 몸 쪽 오목한 곳, 赤白肉際.
+
+**가장 가까운 오답:** 3번 — ㄴ: 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳.
+
+- **1번:** ㄱ: 합곡의 표준 위치는 다음과 같다: 손등, 둘째 손허리뼈(the 2nd metacarpal bone) 중점의 노쪽. ㄴ: 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳.
+- **2번:** ㄱ: 합곡의 표준 위치는 다음과 같다: 손등, 둘째 손허리뼈(the 2nd metacarpal bone) 중점의 노쪽. ㄴ: 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳. ㄷ: 후계의 표준 위치는 다음과 같다: 손등, 다섯째 손허리손가락관절(the 5th metacarpophalangeal joint) 자쪽의 몸 쪽 오목한 곳, 赤白肉際.
+- **3번:** ㄴ: 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳.
+- **4번:** ㄱ(수정): 합곡의 표준 위치는 다음과 같다: 손등, 둘째 손허리뼈(the 2nd metacarpal bone) 중점의 노쪽. ㄴ(수정): 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳. ㄷ(옳음): 후계의 표준 위치는 다음과 같다: 손등, 다섯째 손허리손가락관절(the 5th metacarpophalangeal joint) 자쪽의 몸 쪽 오목한 곳, 赤白肉際.
+- **5번:** ㄴ: 중저의 표준 위치는 다음과 같다: 손등, 넷째와 다섯째 손허리뼈(the 4th and 5th metacarpal bone) 사이, 넷째 손허리손가락관절(the 4th metacarpophalangeal joint) 몸 쪽 오목한 곳. ㄷ: 후계의 표준 위치는 다음과 같다: 손등, 다섯째 손허리손가락관절(the 5th metacarpophalangeal joint) 자쪽의 몸 쪽 오목한 곳, 赤白肉際.
+
+[연결 학습 원문](/acupuncture/points/li4-hegu/)
+ · [합곡 원문](/acupuncture/points/li4-hegu/)
+ · [중저 원문](/acupuncture/points/te3/)
+ · [후계 원문](/acupuncture/points/si3-houxi/)
+
+</details>
+
+<span id="clinical-acupoints-54"></span>
+
+### 54. 중 · 아래팔 앞면의 높이와 힘줄 표지 — 옳은 설명을 모두 고른 것은?
+
+아래팔 앞면의 높이와 힘줄 표지을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 공최의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸. |
+| ㄴ | 내관의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸. |
+| ㄷ | 통리의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon) 노쪽, 손바닥쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 1寸. |
+
+1. ㄷ
+2. ㄱ · ㄴ · ㄷ
+3. ㄴ · ㄷ
+4. ㄱ · ㄴ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(수정): 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄴ(옳음): 내관의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸. ㄷ(옳음): 통리의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon) 노쪽, 손바닥쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 1寸.
+
+**결정적 감별 단서:** 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. 내관의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸. 통리의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon) 노쪽, 손바닥쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 1寸.
+
+**가장 가까운 오답:** 1번 — ㄴ: 내관의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸.
+
+- **1번:** ㄴ: 내관의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸.
+- **2번:** ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸.
+- **3번:** ㄱ(수정): 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄴ(옳음): 내관의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸. ㄷ(옳음): 통리의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon) 노쪽, 손바닥쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 1寸.
+- **4번:** ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄷ: 통리의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon) 노쪽, 손바닥쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 1寸.
+- **5번:** ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄴ: 내관의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥쪽 손목주름(palmar wrist crease) 에서 위로 2寸.
+
+[연결 학습 원문](/acupuncture/points/lu6/)
+ · [공최 원문](/acupuncture/points/lu6/)
+ · [내관 원문](/acupuncture/points/pc6-neiguan/)
+ · [통리 원문](/acupuncture/points/ht5-tongli/)
+
+</details>
+
+<span id="clinical-acupoints-55"></span>
+
+### 55. 중 · 아래팔 뒤면의 세 경혈 — 옳은 설명을 모두 고른 것은?
+
+아래팔 뒤면의 세 경혈을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. |
+| ㄴ | 지구의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. |
+| ㄷ | 지정의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸. |
+
+1. ㄴ
+2. ㄷ
+3. ㄱ · ㄷ
+4. ㄱ · ㄴ
+5. ㄱ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(수정): 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸. ㄴ(옳음): 지구의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄷ(수정): 지정의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈 안쪽모서리(medial border of the ulna)와 자쪽손목굽힘근(flexor carpi ulnaris muscle)의 사이, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 5寸.
+
+**결정적 감별 단서:** 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸. 지구의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. 지정의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈 안쪽모서리(medial border of the ulna)와 자쪽손목굽힘근(flexor carpi ulnaris muscle)의 사이, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 5寸.
+
+**가장 가까운 오답:** 4번 — ㄱ: 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸.
+
+- **1번:** ㄱ(수정): 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸. ㄴ(옳음): 지구의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄷ(수정): 지정의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈 안쪽모서리(medial border of the ulna)와 자쪽손목굽힘근(flexor carpi ulnaris muscle)의 사이, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 5寸.
+- **2번:** ㄴ: 지구의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄷ: 지정의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈 안쪽모서리(medial border of the ulna)와 자쪽손목굽힘근(flexor carpi ulnaris muscle)의 사이, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 5寸.
+- **3번:** ㄱ: 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸. ㄴ: 지구의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄷ: 지정의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈 안쪽모서리(medial border of the ulna)와 자쪽손목굽힘근(flexor carpi ulnaris muscle)의 사이, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 5寸.
+- **4번:** ㄱ: 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸.
+- **5번:** ㄱ: 수삼리의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 팔오금주름(cubital crease)에서 아래쪽으로 2寸. ㄴ: 지구의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈와 노뼈 뼈사이공간(interosseous space between the radius and the ulna)의 중점, 손등쪽손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸.
+
+[연결 학습 원문](/acupuncture/points/li10-shousanli/)
+ · [수삼리 원문](/acupuncture/points/li10-shousanli/)
+ · [지구 원문](/acupuncture/points/te6/)
+ · [지정 원문](/acupuncture/points/si7/)
+
+</details>
+
+<span id="clinical-acupoints-56"></span>
+
+### 56. 중 · 어깨 관절 주위의 뼈 표지 — 옳은 설명을 모두 고른 것은?
+
+어깨 관절 주위의 뼈 표지을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 견우의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨뼈봉우리(acromion) 가쪽모서리의 앞쪽 끝과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. |
+| ㄴ | 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨관절(shoulder joint) 아래뒤쪽, 겨드랑주름(axillary fold) 뒤쪽끝에서 위쪽으로 1寸. |
+| ㄷ | 견정 · 수태양소장경의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨관절(shoulder joint) 아래뒤쪽, 겨드랑주름(axillary fold) 뒤쪽끝에서 위쪽으로 1寸. |
+
+1. ㄱ · ㄷ
+2. ㄴ · ㄷ
+3. ㄴ
+4. ㄱ · ㄴ · ㄷ
+5. ㄱ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(옳음): 견우의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨뼈봉우리(acromion) 가쪽모서리의 앞쪽 끝과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. ㄴ(수정): 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 봉우리각(acromial angle)과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. ㄷ(옳음): 견정 · 수태양소장경의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨관절(shoulder joint) 아래뒤쪽, 겨드랑주름(axillary fold) 뒤쪽끝에서 위쪽으로 1寸.
+
+**결정적 감별 단서:** 견우의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨뼈봉우리(acromion) 가쪽모서리의 앞쪽 끝과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 봉우리각(acromial angle)과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. 견정 · 수태양소장경의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨관절(shoulder joint) 아래뒤쪽, 겨드랑주름(axillary fold) 뒤쪽끝에서 위쪽으로 1寸.
+
+**가장 가까운 오답:** 4번 — ㄴ: 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 봉우리각(acromial angle)과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳.
+
+- **1번:** ㄱ(옳음): 견우의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨뼈봉우리(acromion) 가쪽모서리의 앞쪽 끝과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. ㄴ(수정): 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 봉우리각(acromial angle)과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. ㄷ(옳음): 견정 · 수태양소장경의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨관절(shoulder joint) 아래뒤쪽, 겨드랑주름(axillary fold) 뒤쪽끝에서 위쪽으로 1寸.
+- **2번:** ㄱ: 견우의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨뼈봉우리(acromion) 가쪽모서리의 앞쪽 끝과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. ㄴ: 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 봉우리각(acromial angle)과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳.
+- **3번:** ㄱ: 견우의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨뼈봉우리(acromion) 가쪽모서리의 앞쪽 끝과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. ㄴ: 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 봉우리각(acromial angle)과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳. ㄷ: 견정 · 수태양소장경의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨관절(shoulder joint) 아래뒤쪽, 겨드랑주름(axillary fold) 뒤쪽끝에서 위쪽으로 1寸.
+- **4번:** ㄴ: 견료의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 봉우리각(acromial angle)과 위팔뼈 큰결절(greater tubercle of the humerus) 사이의 오목한 곳.
+- **5번:** ㄷ: 견정 · 수태양소장경의 표준 위치는 다음과 같다: 팔이음뼈(shoulder girdle), 어깨관절(shoulder joint) 아래뒤쪽, 겨드랑주름(axillary fold) 뒤쪽끝에서 위쪽으로 1寸.
+
+[연결 학습 원문](/acupuncture/points/li15-jianyu/)
+ · [견우 원문](/acupuncture/points/li15-jianyu/)
+ · [견료 원문](/acupuncture/points/te14/)
+ · [견정 · 수태양소장경 원문](/acupuncture/points/si9/)
+
+</details>
+
+<span id="clinical-acupoints-57"></span>
+
+### 57. 중 · 가슴 앞쪽 경혈의 높이·정중선 거리 — 옳은 설명을 모두 고른 것은?
+
+가슴 앞쪽 경혈의 높이·정중선 거리을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 중부의 표준 위치는 다음과 같다: 앞가슴부위, 첫째 갈비사이공간(the 1st intercostal space)과 같은 높이, 빗장아래오목(infraclavicular fossa)의 가쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸. |
+| ㄴ | 유중의 표준 위치는 다음과 같다: 앞가슴부위, 둘째 갈비사이공간(the 2nd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸. |
+| ㄷ | 신장의 표준 위치는 다음과 같다: 앞가슴부위, 첫째 갈비사이공간(the 1st intercostal space)과 같은 높이, 빗장아래오목(infraclavicular fossa)의 가쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸. |
+
+1. ㄱ
+2. ㄴ
+3. ㄱ · ㄴ · ㄷ
+4. ㄱ · ㄴ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(옳음): 중부의 표준 위치는 다음과 같다: 앞가슴부위, 첫째 갈비사이공간(the 1st intercostal space)과 같은 높이, 빗장아래오목(infraclavicular fossa)의 가쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸. ㄴ(수정): 유중의 표준 위치는 다음과 같다: 앞가슴부위, 젖꼭지(nipple)의 중심. ㄷ(수정): 신장의 표준 위치는 다음과 같다: 앞가슴부위, 둘째 갈비사이공간(the 2nd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.
+
+**결정적 감별 단서:** 중부의 표준 위치는 다음과 같다: 앞가슴부위, 첫째 갈비사이공간(the 1st intercostal space)과 같은 높이, 빗장아래오목(infraclavicular fossa)의 가쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸. 유중의 표준 위치는 다음과 같다: 앞가슴부위, 젖꼭지(nipple)의 중심. 신장의 표준 위치는 다음과 같다: 앞가슴부위, 둘째 갈비사이공간(the 2nd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.
+
+**가장 가까운 오답:** 4번 — ㄴ: 유중의 표준 위치는 다음과 같다: 앞가슴부위, 젖꼭지(nipple)의 중심.
+
+- **1번:** ㄱ(옳음): 중부의 표준 위치는 다음과 같다: 앞가슴부위, 첫째 갈비사이공간(the 1st intercostal space)과 같은 높이, 빗장아래오목(infraclavicular fossa)의 가쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸. ㄴ(수정): 유중의 표준 위치는 다음과 같다: 앞가슴부위, 젖꼭지(nipple)의 중심. ㄷ(수정): 신장의 표준 위치는 다음과 같다: 앞가슴부위, 둘째 갈비사이공간(the 2nd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.
+- **2번:** ㄱ: 중부의 표준 위치는 다음과 같다: 앞가슴부위, 첫째 갈비사이공간(the 1st intercostal space)과 같은 높이, 빗장아래오목(infraclavicular fossa)의 가쪽, 앞정중선(anterior median line)에서 가쪽으로 6寸. ㄴ: 유중의 표준 위치는 다음과 같다: 앞가슴부위, 젖꼭지(nipple)의 중심.
+- **3번:** ㄴ: 유중의 표준 위치는 다음과 같다: 앞가슴부위, 젖꼭지(nipple)의 중심. ㄷ: 신장의 표준 위치는 다음과 같다: 앞가슴부위, 둘째 갈비사이공간(the 2nd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.
+- **4번:** ㄴ: 유중의 표준 위치는 다음과 같다: 앞가슴부위, 젖꼭지(nipple)의 중심.
+- **5번:** ㄷ: 신장의 표준 위치는 다음과 같다: 앞가슴부위, 둘째 갈비사이공간(the 2nd intercostal space), 앞정중선(anterior median line)에서 가쪽으로 2寸.
+
+[연결 학습 원문](/acupuncture/points/lu1-zhongfu/)
+ · [중부 원문](/acupuncture/points/lu1-zhongfu/)
+ · [유중 원문](/acupuncture/points/st17/)
+ · [신장 원문](/acupuncture/points/ki25/)
+
+</details>
+
+<span id="clinical-acupoints-58"></span>
+
+### 58. 중 · 등 위쪽 배수혈의 척추 높이 — 옳은 설명을 모두 고른 것은?
+
+등 위쪽 배수혈의 척추 높이을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 폐수의 표준 위치는 다음과 같다: 위쪽 등부위, 셋째 등뼈 가시돌기(spinous process of the 3rd thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+| ㄴ | 심수의 표준 위치는 다음과 같다: 위쪽 등부위, 다섯째등뼈가시돌기 (spinous process of the 5th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+| ㄷ | 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 셋째 등뼈 가시돌기(spinous process of the 3rd thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+
+1. ㄱ · ㄴ
+2. ㄴ · ㄷ
+3. ㄱ · ㄴ · ㄷ
+4. ㄱ
+5. ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(옳음): 폐수의 표준 위치는 다음과 같다: 위쪽 등부위, 셋째 등뼈 가시돌기(spinous process of the 3rd thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(옳음): 심수의 표준 위치는 다음과 같다: 위쪽 등부위, 다섯째등뼈가시돌기 (spinous process of the 5th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ(수정): 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+**결정적 감별 단서:** 폐수의 표준 위치는 다음과 같다: 위쪽 등부위, 셋째 등뼈 가시돌기(spinous process of the 3rd thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. 심수의 표준 위치는 다음과 같다: 위쪽 등부위, 다섯째등뼈가시돌기 (spinous process of the 5th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+**가장 가까운 오답:** 3번 — ㄷ: 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+- **1번:** ㄱ(옳음): 폐수의 표준 위치는 다음과 같다: 위쪽 등부위, 셋째 등뼈 가시돌기(spinous process of the 3rd thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(옳음): 심수의 표준 위치는 다음과 같다: 위쪽 등부위, 다섯째등뼈가시돌기 (spinous process of the 5th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ(수정): 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **2번:** ㄱ: 폐수의 표준 위치는 다음과 같다: 위쪽 등부위, 셋째 등뼈 가시돌기(spinous process of the 3rd thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ: 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **3번:** ㄷ: 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **4번:** ㄴ: 심수의 표준 위치는 다음과 같다: 위쪽 등부위, 다섯째등뼈가시돌기 (spinous process of the 5th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **5번:** ㄱ: 폐수의 표준 위치는 다음과 같다: 위쪽 등부위, 셋째 등뼈 가시돌기(spinous process of the 3rd thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ: 심수의 표준 위치는 다음과 같다: 위쪽 등부위, 다섯째등뼈가시돌기 (spinous process of the 5th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ: 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+[연결 학습 원문](/acupuncture/points/bl13-feishu/)
+ · [폐수 원문](/acupuncture/points/bl13-feishu/)
+ · [심수 원문](/acupuncture/points/bl15/)
+ · [격수 원문](/acupuncture/points/bl17-geshu/)
+
+</details>
+
+<span id="clinical-acupoints-59"></span>
+
+### 59. 중 · 허리 배수혈의 척추 높이 — 옳은 설명을 모두 고른 것은?
+
+허리 배수혈의 척추 높이을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 위수의 표준 위치는 다음과 같다: 위쪽 등부위, 열두째 등뼈 가시돌기 (spinous process of the 12th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+| ㄴ | 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+| ㄷ | 대장수의 표준 위치는 다음과 같다: 허리부위, 넷째 허리뼈 가시돌기 (spinous process of the 4th lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+
+1. ㄱ
+2. ㄱ · ㄷ
+3. ㄷ
+4. ㄴ
+5. ㄱ · ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(옳음): 위수의 표준 위치는 다음과 같다: 위쪽 등부위, 열두째 등뼈 가시돌기 (spinous process of the 12th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(옳음): 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ(옳음): 대장수의 표준 위치는 다음과 같다: 허리부위, 넷째 허리뼈 가시돌기 (spinous process of the 4th lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+**결정적 감별 단서:** 위수의 표준 위치는 다음과 같다: 위쪽 등부위, 열두째 등뼈 가시돌기 (spinous process of the 12th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. 대장수의 표준 위치는 다음과 같다: 허리부위, 넷째 허리뼈 가시돌기 (spinous process of the 4th lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+**가장 가까운 오답:** 2번 — ㄴ: 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+- **1번:** ㄴ: 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ: 대장수의 표준 위치는 다음과 같다: 허리부위, 넷째 허리뼈 가시돌기 (spinous process of the 4th lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **2번:** ㄴ: 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **3번:** ㄱ: 위수의 표준 위치는 다음과 같다: 위쪽 등부위, 열두째 등뼈 가시돌기 (spinous process of the 12th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ: 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **4번:** ㄱ: 위수의 표준 위치는 다음과 같다: 위쪽 등부위, 열두째 등뼈 가시돌기 (spinous process of the 12th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ: 대장수의 표준 위치는 다음과 같다: 허리부위, 넷째 허리뼈 가시돌기 (spinous process of the 4th lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **5번:** ㄱ(옳음): 위수의 표준 위치는 다음과 같다: 위쪽 등부위, 열두째 등뼈 가시돌기 (spinous process of the 12th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(옳음): 신수의 표준 위치는 다음과 같다: 허리부위, 둘째 허리뼈 가시돌기 (spinous process of the 2nd lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄷ(옳음): 대장수의 표준 위치는 다음과 같다: 허리부위, 넷째 허리뼈 가시돌기 (spinous process of the 4th lumbar vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+[연결 학습 원문](/acupuncture/points/bl21/)
+ · [위수 원문](/acupuncture/points/bl21/)
+ · [신수 원문](/acupuncture/points/bl23-shenshu/)
+ · [대장수 원문](/acupuncture/points/bl25-dachangshu/)
+
+</details>
+
+<span id="clinical-acupoints-60"></span>
+
+### 60. 중 · 배꼽 위 임맥 경혈의 높이 — 옳은 설명을 모두 고른 것은?
+
+배꼽 위 임맥 경혈의 높이을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 하완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. |
+| ㄴ | 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 5寸. |
+| ㄷ | 상완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 5寸. |
+
+1. ㄷ
+2. ㄴ · ㄷ
+3. ㄱ
+4. ㄱ · ㄴ
+5. ㄱ · ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(수정): 하완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 2寸. ㄴ(수정): 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. ㄷ(옳음): 상완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 5寸.
+
+**결정적 감별 단서:** 하완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 2寸. 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. 상완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 5寸.
+
+**가장 가까운 오답:** 2번 — ㄴ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸.
+
+- **1번:** ㄱ(수정): 하완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 2寸. ㄴ(수정): 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. ㄷ(옳음): 상완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 5寸.
+- **2번:** ㄴ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸.
+- **3번:** ㄱ: 하완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 2寸. ㄷ: 상완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 5寸.
+- **4번:** ㄱ: 하완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 2寸. ㄴ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. ㄷ: 상완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 5寸.
+- **5번:** ㄱ: 하완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 2寸. ㄴ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸.
+
+[연결 학습 원문](/acupuncture/points/cv10/)
+ · [하완 원문](/acupuncture/points/cv10/)
+ · [중완 원문](/acupuncture/points/cv12-zhongwan/)
+ · [상완 원문](/acupuncture/points/cv13/)
+
+</details>
+
+<span id="clinical-acupoints-61"></span>
+
+### 61. 중 · 배꼽 아래 임맥 경혈의 높이 — 옳은 설명을 모두 고른 것은?
+
+배꼽 아래 임맥 경혈의 높이을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 중극의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸. |
+| ㄴ | 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸. |
+| ㄷ | 기해의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 1.5寸. |
+
+1. ㄴ · ㄷ
+2. ㄱ
+3. ㄷ
+4. ㄱ · ㄷ
+5. ㄱ · ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(수정): 중극의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 4寸. ㄴ(옳음): 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸. ㄷ(옳음): 기해의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 1.5寸.
+
+**결정적 감별 단서:** 중극의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 4寸. 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸. 기해의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 1.5寸.
+
+**가장 가까운 오답:** 3번 — ㄴ: 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸.
+
+- **1번:** ㄱ(수정): 중극의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 4寸. ㄴ(옳음): 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸. ㄷ(옳음): 기해의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 1.5寸.
+- **2번:** ㄱ: 중극의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 4寸. ㄴ: 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸. ㄷ: 기해의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 1.5寸.
+- **3번:** ㄴ: 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸.
+- **4번:** ㄱ: 중극의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 4寸. ㄴ: 관원의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 3寸.
+- **5번:** ㄱ: 중극의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 4寸. ㄷ: 기해의 표준 위치는 다음과 같다: 아랫배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 아래쪽으로 1.5寸.
+
+[연결 학습 원문](/acupuncture/points/cv3/)
+ · [중극 원문](/acupuncture/points/cv3/)
+ · [관원 원문](/acupuncture/points/cv4-guanyuan/)
+ · [기해 원문](/acupuncture/points/cv6-qihai/)
+
+</details>
+
+<span id="clinical-acupoints-62"></span>
+
+### 62. 중 · 복부 경혈의 정중선·가쪽 위치 — 옳은 설명을 모두 고른 것은?
+
+복부 경혈의 정중선·가쪽 위치을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus) 중심에서 가쪽으로 4寸. |
+| ㄴ | 대횡의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus) 중심에서 가쪽으로 4寸. |
+| ㄷ | 황수의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸. |
+
+1. ㄱ
+2. ㄱ · ㄷ
+3. ㄱ · ㄴ · ㄷ
+4. ㄱ · ㄴ
+5. ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(수정): 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸. ㄴ(옳음): 대횡의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus) 중심에서 가쪽으로 4寸. ㄷ(수정): 황수의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 0.5寸.
+
+**결정적 감별 단서:** 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸. 대횡의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus) 중심에서 가쪽으로 4寸. 황수의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 0.5寸.
+
+**가장 가까운 오답:** 4번 — ㄱ: 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸.
+
+- **1번:** ㄱ: 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸. ㄴ: 대횡의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus) 중심에서 가쪽으로 4寸.
+- **2번:** ㄱ: 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸. ㄴ: 대횡의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus) 중심에서 가쪽으로 4寸. ㄷ: 황수의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 0.5寸.
+- **3번:** ㄱ: 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸. ㄷ: 황수의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 0.5寸.
+- **4번:** ㄱ: 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸.
+- **5번:** ㄱ(수정): 천추의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 2寸. ㄴ(옳음): 대횡의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus) 중심에서 가쪽으로 4寸. ㄷ(수정): 황수의 표준 위치는 다음과 같다: 윗배, 배꼽(umbilicus)의 중심에서 가쪽으로 0.5寸.
+
+[연결 학습 원문](/acupuncture/points/st25-tianshu/)
+ · [천추 원문](/acupuncture/points/st25-tianshu/)
+ · [대횡 원문](/acupuncture/points/sp15/)
+ · [황수 원문](/acupuncture/points/ki16/)
+
+</details>
+
+<span id="clinical-acupoints-63"></span>
+
+### 63. 중 · 무릎 주위 앞·안·가쪽 표지 — 옳은 설명을 모두 고른 것은?
+
+무릎 주위 앞·안·가쪽 표지을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 독비의 표준 위치는 다음과 같다: 무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다. |
+| ㄴ | 음릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. |
+| ㄷ | 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. |
+
+1. ㄱ · ㄴ · ㄷ
+2. ㄴ
+3. ㄱ · ㄷ
+4. ㄴ · ㄷ
+5. ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(옳음): 독비의 표준 위치는 다음과 같다: 무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다. ㄴ(수정): 음릉천의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽관절융기 아래모서리와 정강뼈 안쪽모서리(medial border of the tibia) 사이의 오목한 곳. ㄷ(옳음): 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함.
+
+**결정적 감별 단서:** 독비의 표준 위치는 다음과 같다: 무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다. 음릉천의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽관절융기 아래모서리와 정강뼈 안쪽모서리(medial border of the tibia) 사이의 오목한 곳. 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함.
+
+**가장 가까운 오답:** 1번 — ㄴ: 음릉천의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽관절융기 아래모서리와 정강뼈 안쪽모서리(medial border of the tibia) 사이의 오목한 곳.
+
+- **1번:** ㄴ: 음릉천의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽관절융기 아래모서리와 정강뼈 안쪽모서리(medial border of the tibia) 사이의 오목한 곳.
+- **2번:** ㄱ: 독비의 표준 위치는 다음과 같다: 무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다. ㄴ: 음릉천의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽관절융기 아래모서리와 정강뼈 안쪽모서리(medial border of the tibia) 사이의 오목한 곳. ㄷ: 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함.
+- **3번:** ㄱ(옳음): 독비의 표준 위치는 다음과 같다: 무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다. ㄴ(수정): 음릉천의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽관절융기 아래모서리와 정강뼈 안쪽모서리(medial border of the tibia) 사이의 오목한 곳. ㄷ(옳음): 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함.
+- **4번:** ㄱ: 독비의 표준 위치는 다음과 같다: 무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다. ㄴ: 음릉천의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽관절융기 아래모서리와 정강뼈 안쪽모서리(medial border of the tibia) 사이의 오목한 곳.
+- **5번:** ㄱ: 독비의 표준 위치는 다음과 같다: 무릎 앞쪽면, 무릎인대(patella ligament)의 가쪽 오목한 곳으로. 무릎을 굽혔을 때, 무릎뼈 아래가쪽 오목한 곳에서 취혈한다.
+
+[연결 학습 원문](/acupuncture/points/st35-dubi/)
+ · [독비 원문](/acupuncture/points/st35-dubi/)
+ · [음릉천 원문](/acupuncture/points/sp9-yinlingquan/)
+ · [양릉천 원문](/acupuncture/points/gb34-yanglingquan/)
+
+</details>
+
+<span id="clinical-acupoints-64"></span>
+
+### 64. 중 · 종아리 앞·안·가쪽 경혈의 높이 — 옳은 설명을 모두 고른 것은?
+
+종아리 앞·안·가쪽 경혈의 높이을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. |
+| ㄴ | 삼음교의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임. |
+| ㄷ | 현종의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. |
+
+1. ㄷ
+2. ㄱ · ㄴ · ㄷ
+3. ㄴ
+4. ㄱ
+5. ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(옳음): 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. ㄴ(수정): 삼음교의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기 위 3寸 부위에 취혈함. 바로 1촌 아래지점에 족소음신경의 交信(교신)이 위치한다. ㄷ(수정): 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+
+**결정적 감별 단서:** 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. 삼음교의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기 위 3寸 부위에 취혈함. 바로 1촌 아래지점에 족소음신경의 交信(교신)이 위치한다. 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+
+**가장 가까운 오답:** 1번 — ㄱ: 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. ㄷ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+
+- **1번:** ㄱ: 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. ㄷ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+- **2번:** ㄴ: 삼음교의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기 위 3寸 부위에 취혈함. 바로 1촌 아래지점에 족소음신경의 交信(교신)이 위치한다. ㄷ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+- **3번:** ㄱ: 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. ㄴ: 삼음교의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기 위 3寸 부위에 취혈함. 바로 1촌 아래지점에 족소음신경의 交信(교신)이 위치한다.
+- **4번:** ㄱ(옳음): 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. ㄴ(수정): 삼음교의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기 위 3寸 부위에 취혈함. 바로 1촌 아래지점에 족소음신경의 交信(교신)이 위치한다. ㄷ(수정): 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+- **5번:** ㄱ: 조구의 표준 위치는 다음과 같다: 종아리 앞쪽면, 犢鼻(독비)와 解谿(해계)를 연결하는 선을 16촌으로 하여, 犢鼻(독비)에서 아래쪽으로 8寸에 해당됨. ㄴ: 삼음교의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사융기 위 3寸 부위에 취혈함. 바로 1촌 아래지점에 족소음신경의 交信(교신)이 위치한다. ㄷ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+
+[연결 학습 원문](/acupuncture/points/st38/)
+ · [조구 원문](/acupuncture/points/st38/)
+ · [삼음교 원문](/acupuncture/points/sp6-sanyinjiao/)
+ · [현종 원문](/acupuncture/points/gb39-xuanzhong/)
+
+</details>
+
+<span id="clinical-acupoints-65"></span>
+
+### 65. 중 · 발목 안쪽 경혈의 힘줄·복사 표지 — 옳은 설명을 모두 고른 것은?
+
+발목 안쪽 경혈의 힘줄·복사 표지을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 태계의 표준 위치는 다음과 같다: 발목 뒤안쪽면으로, 안쪽복사 융기(prominence of the medial malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 취혈함. |
+| ㄴ | 조해의 표준 위치는 다음과 같다: 발 안쪽면에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 아래쪽으로 1寸, 안쪽복사 바로 아래 오목한 곳에 취혈함. |
+| ㄷ | 상구의 표준 위치는 다음과 같다: 발목 뒤안쪽면으로, 안쪽복사 융기(prominence of the medial malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 취혈함. |
+
+1. ㄷ
+2. ㄱ · ㄷ
+3. ㄱ · ㄴ · ㄷ
+4. ㄱ
+5. ㄱ · ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(옳음): 태계의 표준 위치는 다음과 같다: 발목 뒤안쪽면으로, 안쪽복사 융기(prominence of the medial malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 취혈함. ㄴ(옳음): 조해의 표준 위치는 다음과 같다: 발 안쪽면에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 아래쪽으로 1寸, 안쪽복사 바로 아래 오목한 곳에 취혈함. ㄷ(수정): 상구의 표준 위치는 다음과 같다: 발 안쪽면, 안쪽복사(medial malleolus) 아래앞쪽, 발배뼈거친면(tuberosity of the navicular bone)과 안쪽복사 융기(prominence of the medial malleolus)를 연결하는 선 중간의 오목한 곳이며, 中封(중봉)의 뒤쪽, 照海(조해)의 앞쪽에 위치한다.
+
+**결정적 감별 단서:** 태계의 표준 위치는 다음과 같다: 발목 뒤안쪽면으로, 안쪽복사 융기(prominence of the medial malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 취혈함. 조해의 표준 위치는 다음과 같다: 발 안쪽면에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 아래쪽으로 1寸, 안쪽복사 바로 아래 오목한 곳에 취혈함. 상구의 표준 위치는 다음과 같다: 발 안쪽면, 안쪽복사(medial malleolus) 아래앞쪽, 발배뼈거친면(tuberosity of the navicular bone)과 안쪽복사 융기(prominence of the medial malleolus)를 연결하는 선 중간의 오목한 곳이며, 中封(중봉)의 뒤쪽, 照海(조해)의 앞쪽에 위치한다.
+
+**가장 가까운 오답:** 3번 — ㄷ: 상구의 표준 위치는 다음과 같다: 발 안쪽면, 안쪽복사(medial malleolus) 아래앞쪽, 발배뼈거친면(tuberosity of the navicular bone)과 안쪽복사 융기(prominence of the medial malleolus)를 연결하는 선 중간의 오목한 곳이며, 中封(중봉)의 뒤쪽, 照海(조해)의 앞쪽에 위치한다.
+
+- **1번:** ㄱ: 태계의 표준 위치는 다음과 같다: 발목 뒤안쪽면으로, 안쪽복사 융기(prominence of the medial malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 취혈함. ㄴ: 조해의 표준 위치는 다음과 같다: 발 안쪽면에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 아래쪽으로 1寸, 안쪽복사 바로 아래 오목한 곳에 취혈함. ㄷ: 상구의 표준 위치는 다음과 같다: 발 안쪽면, 안쪽복사(medial malleolus) 아래앞쪽, 발배뼈거친면(tuberosity of the navicular bone)과 안쪽복사 융기(prominence of the medial malleolus)를 연결하는 선 중간의 오목한 곳이며, 中封(중봉)의 뒤쪽, 照海(조해)의 앞쪽에 위치한다.
+- **2번:** ㄴ: 조해의 표준 위치는 다음과 같다: 발 안쪽면에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 아래쪽으로 1寸, 안쪽복사 바로 아래 오목한 곳에 취혈함. ㄷ: 상구의 표준 위치는 다음과 같다: 발 안쪽면, 안쪽복사(medial malleolus) 아래앞쪽, 발배뼈거친면(tuberosity of the navicular bone)과 안쪽복사 융기(prominence of the medial malleolus)를 연결하는 선 중간의 오목한 곳이며, 中封(중봉)의 뒤쪽, 照海(조해)의 앞쪽에 위치한다.
+- **3번:** ㄷ: 상구의 표준 위치는 다음과 같다: 발 안쪽면, 안쪽복사(medial malleolus) 아래앞쪽, 발배뼈거친면(tuberosity of the navicular bone)과 안쪽복사 융기(prominence of the medial malleolus)를 연결하는 선 중간의 오목한 곳이며, 中封(중봉)의 뒤쪽, 照海(조해)의 앞쪽에 위치한다.
+- **4번:** ㄴ: 조해의 표준 위치는 다음과 같다: 발 안쪽면에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 아래쪽으로 1寸, 안쪽복사 바로 아래 오목한 곳에 취혈함.
+- **5번:** ㄱ(옳음): 태계의 표준 위치는 다음과 같다: 발목 뒤안쪽면으로, 안쪽복사 융기(prominence of the medial malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 취혈함. ㄴ(옳음): 조해의 표준 위치는 다음과 같다: 발 안쪽면에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 아래쪽으로 1寸, 안쪽복사 바로 아래 오목한 곳에 취혈함. ㄷ(수정): 상구의 표준 위치는 다음과 같다: 발 안쪽면, 안쪽복사(medial malleolus) 아래앞쪽, 발배뼈거친면(tuberosity of the navicular bone)과 안쪽복사 융기(prominence of the medial malleolus)를 연결하는 선 중간의 오목한 곳이며, 中封(중봉)의 뒤쪽, 照海(조해)의 앞쪽에 위치한다.
+
+[연결 학습 원문](/acupuncture/points/ki3-taixi/)
+ · [태계 원문](/acupuncture/points/ki3-taixi/)
+ · [조해 원문](/acupuncture/points/ki6-zhaohai/)
+ · [상구 원문](/acupuncture/points/sp5/)
+
+</details>
+
+<span id="clinical-acupoints-66"></span>
+
+### 66. 중 · 발목 뒤·가쪽 경혈의 위치 — 옳은 설명을 모두 고른 것은?
+
+발목 뒤·가쪽 경혈의 위치을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 곤륜의 표준 위치는 다음과 같다: 발목 뒤가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 해당됨. |
+| ㄴ | 신맥의 표준 위치는 다음과 같다: 발 가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)에서 수직으로 아래쪽, 가쪽복사의 아래모서리와 발꿈치뼈(calcaneus) 사이의 오목한 곳. |
+| ㄷ | 구허의 표준 위치는 다음과 같다: 발목 앞가쪽면, 긴발가락폄근힘줄(extensor digitorum longus tendon)의 가쪽, 가쪽복사(lateral malleolus)의 앞먼쪽(anterior and distal) 오목한 곳. |
+
+1. ㄴ · ㄷ
+2. ㄱ · ㄴ
+3. ㄱ
+4. ㄷ
+5. ㄱ · ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(옳음): 곤륜의 표준 위치는 다음과 같다: 발목 뒤가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 해당됨. ㄴ(옳음): 신맥의 표준 위치는 다음과 같다: 발 가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)에서 수직으로 아래쪽, 가쪽복사의 아래모서리와 발꿈치뼈(calcaneus) 사이의 오목한 곳. ㄷ(옳음): 구허의 표준 위치는 다음과 같다: 발목 앞가쪽면, 긴발가락폄근힘줄(extensor digitorum longus tendon)의 가쪽, 가쪽복사(lateral malleolus)의 앞먼쪽(anterior and distal) 오목한 곳.
+
+**결정적 감별 단서:** 곤륜의 표준 위치는 다음과 같다: 발목 뒤가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 해당됨. 신맥의 표준 위치는 다음과 같다: 발 가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)에서 수직으로 아래쪽, 가쪽복사의 아래모서리와 발꿈치뼈(calcaneus) 사이의 오목한 곳. 구허의 표준 위치는 다음과 같다: 발목 앞가쪽면, 긴발가락폄근힘줄(extensor digitorum longus tendon)의 가쪽, 가쪽복사(lateral malleolus)의 앞먼쪽(anterior and distal) 오목한 곳.
+
+**가장 가까운 오답:** 1번 — ㄱ: 곤륜의 표준 위치는 다음과 같다: 발목 뒤가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 해당됨.
+
+- **1번:** ㄱ: 곤륜의 표준 위치는 다음과 같다: 발목 뒤가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 해당됨.
+- **2번:** ㄷ: 구허의 표준 위치는 다음과 같다: 발목 앞가쪽면, 긴발가락폄근힘줄(extensor digitorum longus tendon)의 가쪽, 가쪽복사(lateral malleolus)의 앞먼쪽(anterior and distal) 오목한 곳.
+- **3번:** ㄴ: 신맥의 표준 위치는 다음과 같다: 발 가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)에서 수직으로 아래쪽, 가쪽복사의 아래모서리와 발꿈치뼈(calcaneus) 사이의 오목한 곳. ㄷ: 구허의 표준 위치는 다음과 같다: 발목 앞가쪽면, 긴발가락폄근힘줄(extensor digitorum longus tendon)의 가쪽, 가쪽복사(lateral malleolus)의 앞먼쪽(anterior and distal) 오목한 곳.
+- **4번:** ㄱ: 곤륜의 표준 위치는 다음과 같다: 발목 뒤가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 해당됨. ㄴ: 신맥의 표준 위치는 다음과 같다: 발 가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)에서 수직으로 아래쪽, 가쪽복사의 아래모서리와 발꿈치뼈(calcaneus) 사이의 오목한 곳.
+- **5번:** ㄱ(옳음): 곤륜의 표준 위치는 다음과 같다: 발목 뒤가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)와 발꿈치힘줄(calcaneal tendon) 사이의 오목한 곳에 해당됨. ㄴ(옳음): 신맥의 표준 위치는 다음과 같다: 발 가쪽면, 가쪽복사 융기(prominence of the lateral malleolus)에서 수직으로 아래쪽, 가쪽복사의 아래모서리와 발꿈치뼈(calcaneus) 사이의 오목한 곳. ㄷ(옳음): 구허의 표준 위치는 다음과 같다: 발목 앞가쪽면, 긴발가락폄근힘줄(extensor digitorum longus tendon)의 가쪽, 가쪽복사(lateral malleolus)의 앞먼쪽(anterior and distal) 오목한 곳.
+
+[연결 학습 원문](/acupuncture/points/bl60-kunlun/)
+ · [곤륜 원문](/acupuncture/points/bl60-kunlun/)
+ · [신맥 원문](/acupuncture/points/bl62-shenmai/)
+ · [구허 원문](/acupuncture/points/gb40-qiuxu/)
+
+</details>
+
+<span id="clinical-acupoints-67"></span>
+
+### 67. 중 · 발등의 발허리뼈 사이 표지 — 옳은 설명을 모두 고른 것은?
+
+발등의 발허리뼈 사이 표지을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 태충의 표준 위치는 다음과 같다: 발등, 둘째와 셋째 발허리뼈(the 2nd and 3rd metatarsal bones)의 사이, 둘째 발허리발가락관절(the 2nd metatarsophalangeal joint)의 몸 쪽 오목한 곳. |
+| ㄴ | 함곡의 표준 위치는 다음과 같다: 발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳. |
+| ㄷ | 족임읍의 표준 위치는 다음과 같다: 발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳. |
+
+1. ㄱ
+2. ㄱ · ㄷ
+3. ㄷ
+4. ㄴ
+5. ㄱ · ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(수정): 태충의 표준 위치는 다음과 같다: 발등, 첫째와 둘째 발허리뼈(the 1st and 2nd metatarsal bones) 사이, 두발허리뼈의 바닥 연접부에서 먼 쪽 오목한 곳, 발등동맥(dorsalis pedis artery)이 뛰는 곳. ㄴ(수정): 함곡의 표준 위치는 다음과 같다: 발등, 둘째와 셋째 발허리뼈(the 2nd and 3rd metatarsal bones)의 사이, 둘째 발허리발가락관절(the 2nd metatarsophalangeal joint)의 몸 쪽 오목한 곳. ㄷ(옳음): 족임읍의 표준 위치는 다음과 같다: 발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳.
+
+**결정적 감별 단서:** 태충의 표준 위치는 다음과 같다: 발등, 첫째와 둘째 발허리뼈(the 1st and 2nd metatarsal bones) 사이, 두발허리뼈의 바닥 연접부에서 먼 쪽 오목한 곳, 발등동맥(dorsalis pedis artery)이 뛰는 곳. 함곡의 표준 위치는 다음과 같다: 발등, 둘째와 셋째 발허리뼈(the 2nd and 3rd metatarsal bones)의 사이, 둘째 발허리발가락관절(the 2nd metatarsophalangeal joint)의 몸 쪽 오목한 곳. 족임읍의 표준 위치는 다음과 같다: 발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳.
+
+**가장 가까운 오답:** 2번 — ㄱ: 태충의 표준 위치는 다음과 같다: 발등, 첫째와 둘째 발허리뼈(the 1st and 2nd metatarsal bones) 사이, 두발허리뼈의 바닥 연접부에서 먼 쪽 오목한 곳, 발등동맥(dorsalis pedis artery)이 뛰는 곳.
+
+- **1번:** ㄱ: 태충의 표준 위치는 다음과 같다: 발등, 첫째와 둘째 발허리뼈(the 1st and 2nd metatarsal bones) 사이, 두발허리뼈의 바닥 연접부에서 먼 쪽 오목한 곳, 발등동맥(dorsalis pedis artery)이 뛰는 곳. ㄷ: 족임읍의 표준 위치는 다음과 같다: 발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳.
+- **2번:** ㄱ: 태충의 표준 위치는 다음과 같다: 발등, 첫째와 둘째 발허리뼈(the 1st and 2nd metatarsal bones) 사이, 두발허리뼈의 바닥 연접부에서 먼 쪽 오목한 곳, 발등동맥(dorsalis pedis artery)이 뛰는 곳.
+- **3번:** ㄱ(수정): 태충의 표준 위치는 다음과 같다: 발등, 첫째와 둘째 발허리뼈(the 1st and 2nd metatarsal bones) 사이, 두발허리뼈의 바닥 연접부에서 먼 쪽 오목한 곳, 발등동맥(dorsalis pedis artery)이 뛰는 곳. ㄴ(수정): 함곡의 표준 위치는 다음과 같다: 발등, 둘째와 셋째 발허리뼈(the 2nd and 3rd metatarsal bones)의 사이, 둘째 발허리발가락관절(the 2nd metatarsophalangeal joint)의 몸 쪽 오목한 곳. ㄷ(옳음): 족임읍의 표준 위치는 다음과 같다: 발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳.
+- **4번:** ㄴ: 함곡의 표준 위치는 다음과 같다: 발등, 둘째와 셋째 발허리뼈(the 2nd and 3rd metatarsal bones)의 사이, 둘째 발허리발가락관절(the 2nd metatarsophalangeal joint)의 몸 쪽 오목한 곳. ㄷ: 족임읍의 표준 위치는 다음과 같다: 발등, 넷째와 다섯째 발허리뼈바닥(the 4th and 5th metatarsal bones)의 연접부에서 먼 쪽, 다섯째 긴발가락폄근힘줄(the 5th extensor digitorum longus tendon)의 가쪽 오목한 곳.
+- **5번:** ㄱ: 태충의 표준 위치는 다음과 같다: 발등, 첫째와 둘째 발허리뼈(the 1st and 2nd metatarsal bones) 사이, 두발허리뼈의 바닥 연접부에서 먼 쪽 오목한 곳, 발등동맥(dorsalis pedis artery)이 뛰는 곳. ㄴ: 함곡의 표준 위치는 다음과 같다: 발등, 둘째와 셋째 발허리뼈(the 2nd and 3rd metatarsal bones)의 사이, 둘째 발허리발가락관절(the 2nd metatarsophalangeal joint)의 몸 쪽 오목한 곳.
+
+[연결 학습 원문](/acupuncture/points/lr3-taichong/)
+ · [태충 원문](/acupuncture/points/lr3-taichong/)
+ · [함곡 원문](/acupuncture/points/st43/)
+ · [족임읍 원문](/acupuncture/points/gb41/)
+
+</details>
+
+<span id="clinical-acupoints-68"></span>
+
+### 68. 중 · 발바닥·발 안쪽·발꿈치 표지 — 옳은 설명을 모두 고른 것은?
+
+발바닥·발 안쪽·발꿈치 표지을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 용천의 표준 위치는 다음과 같다: 발 안쪽면, 엄지발가락, 첫째 발허리발가락관절(the 1st metatarsophalangeal joint)에서 몸 쪽 오목한 곳의 赤白肉際에 취혈함. |
+| ㄴ | 태백의 표준 위치는 다음과 같다: 발 안쪽면, 엄지발가락, 첫째 발허리발가락관절(the 1st metatarsophalangeal joint)에서 몸 쪽 오목한 곳의 赤白肉際에 취혈함. |
+| ㄷ | 복삼의 표준 위치는 다음과 같다: 발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(곤륜)에서 먼 쪽, 赤白肉際에 취혈함. |
+
+1. ㄱ · ㄴ
+2. ㄱ
+3. ㄱ · ㄷ
+4. ㄴ · ㄷ
+5. ㄱ · ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(수정): 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨. ㄴ(옳음): 태백의 표준 위치는 다음과 같다: 발 안쪽면, 엄지발가락, 첫째 발허리발가락관절(the 1st metatarsophalangeal joint)에서 몸 쪽 오목한 곳의 赤白肉際에 취혈함. ㄷ(옳음): 복삼의 표준 위치는 다음과 같다: 발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(곤륜)에서 먼 쪽, 赤白肉際에 취혈함.
+
+**결정적 감별 단서:** 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨. 태백의 표준 위치는 다음과 같다: 발 안쪽면, 엄지발가락, 첫째 발허리발가락관절(the 1st metatarsophalangeal joint)에서 몸 쪽 오목한 곳의 赤白肉際에 취혈함. 복삼의 표준 위치는 다음과 같다: 발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(곤륜)에서 먼 쪽, 赤白肉際에 취혈함.
+
+**가장 가까운 오답:** 5번 — ㄱ: 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨.
+
+- **1번:** ㄱ: 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨. ㄷ: 복삼의 표준 위치는 다음과 같다: 발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(곤륜)에서 먼 쪽, 赤白肉際에 취혈함.
+- **2번:** ㄱ: 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨. ㄴ: 태백의 표준 위치는 다음과 같다: 발 안쪽면, 엄지발가락, 첫째 발허리발가락관절(the 1st metatarsophalangeal joint)에서 몸 쪽 오목한 곳의 赤白肉際에 취혈함. ㄷ: 복삼의 표준 위치는 다음과 같다: 발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(곤륜)에서 먼 쪽, 赤白肉際에 취혈함.
+- **3번:** ㄱ: 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨. ㄴ: 태백의 표준 위치는 다음과 같다: 발 안쪽면, 엄지발가락, 첫째 발허리발가락관절(the 1st metatarsophalangeal joint)에서 몸 쪽 오목한 곳의 赤白肉際에 취혈함.
+- **4번:** ㄱ(수정): 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨. ㄴ(옳음): 태백의 표준 위치는 다음과 같다: 발 안쪽면, 엄지발가락, 첫째 발허리발가락관절(the 1st metatarsophalangeal joint)에서 몸 쪽 오목한 곳의 赤白肉際에 취혈함. ㄷ(옳음): 복삼의 표준 위치는 다음과 같다: 발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(곤륜)에서 먼 쪽, 赤白肉際에 취혈함.
+- **5번:** ㄱ: 용천의 표준 위치는 다음과 같다: 발바닥 부위로서, 발가락을 굽혔을 때, 발바닥의 가장 오목한 곳에 해당됨.
+
+[연결 학습 원문](/acupuncture/points/ki1-yongquan/)
+ · [용천 원문](/acupuncture/points/ki1-yongquan/)
+ · [태백 원문](/acupuncture/points/sp3/)
+ · [복삼 원문](/acupuncture/points/bl61/)
+
+</details>
+
+<span id="clinical-acupoints-69"></span>
+
+### 69. 상 · 공최의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+공최의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 공최의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽, 손바닥 쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 0.5寸. |
+| ㄴ | 공최의 소속 경맥은 수태음폐경이다. |
+| ㄷ | 공최의 특정혈 속성: 폐경의 원혈. |
+
+1. ㄴ
+2. ㄱ · ㄴ
+3. ㄱ
+4. ㄱ · ㄷ
+5. ㄱ · ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 1번** — ㄱ(수정): 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄴ(옳음): 공최의 소속 경맥은 수태음폐경이다. ㄷ(수정): 공최의 특정혈 속성: 폐경의 극혈.
+
+**결정적 감별 단서:** 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. 공최의 소속 경맥은 수태음폐경이다. 공최의 특정혈 속성: 폐경의 극혈.
+
+**가장 가까운 오답:** 2번 — ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸.
+
+- **1번:** ㄱ(수정): 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄴ(옳음): 공최의 소속 경맥은 수태음폐경이다. ㄷ(수정): 공최의 특정혈 속성: 폐경의 극혈.
+- **2번:** ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸.
+- **3번:** ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄴ: 공최의 소속 경맥은 수태음폐경이다.
+- **4번:** ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄴ: 공최의 소속 경맥은 수태음폐경이다. ㄷ: 공최의 특정혈 속성: 폐경의 극혈.
+- **5번:** ㄱ: 공최의 표준 위치는 다음과 같다: 아래팔 앞가쪽면, 尺澤(척택)과 太淵(태연)을 연결하는 선 위, 손바닥쪽손목주름(palmar wrist crease)에서 위쪽으로 7寸. ㄷ: 공최의 특정혈 속성: 폐경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/lu6/)
+ · [공최 원문](/acupuncture/points/lu6/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-70"></span>
+
+### 70. 상 · 온류의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+온류의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 온류의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 손등 쪽 손목주름(dorsal wrist crease)에서 위쪽으로 5寸. |
+| ㄴ | 온류의 소속 경맥은 수태음폐경이다. |
+| ㄷ | 온류의 특정혈 속성: 대장경의 극혈. |
+
+1. ㄱ · ㄴ
+2. ㄴ
+3. ㄱ · ㄴ · ㄷ
+4. ㄴ · ㄷ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(옳음): 온류의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 손등 쪽 손목주름(dorsal wrist crease)에서 위쪽으로 5寸. ㄴ(수정): 온류의 소속 경맥은 수양명대장경이다. ㄷ(옳음): 온류의 특정혈 속성: 대장경의 극혈.
+
+**결정적 감별 단서:** 온류의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 손등 쪽 손목주름(dorsal wrist crease)에서 위쪽으로 5寸. 온류의 소속 경맥은 수양명대장경이다. 온류의 특정혈 속성: 대장경의 극혈.
+
+**가장 가까운 오답:** 3번 — ㄴ: 온류의 소속 경맥은 수양명대장경이다.
+
+- **1번:** ㄴ: 온류의 소속 경맥은 수양명대장경이다. ㄷ: 온류의 특정혈 속성: 대장경의 극혈.
+- **2번:** ㄱ: 온류의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 손등 쪽 손목주름(dorsal wrist crease)에서 위쪽으로 5寸. ㄴ: 온류의 소속 경맥은 수양명대장경이다. ㄷ: 온류의 특정혈 속성: 대장경의 극혈.
+- **3번:** ㄴ: 온류의 소속 경맥은 수양명대장경이다.
+- **4번:** ㄱ: 온류의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 손등 쪽 손목주름(dorsal wrist crease)에서 위쪽으로 5寸. ㄴ: 온류의 소속 경맥은 수양명대장경이다.
+- **5번:** ㄱ(옳음): 온류의 표준 위치는 다음과 같다: 아래팔 뒤가쪽면, 陽谿(양계)와 曲池(곡지)를 연결하는 선 위, 손등 쪽 손목주름(dorsal wrist crease)에서 위쪽으로 5寸. ㄴ(수정): 온류의 소속 경맥은 수양명대장경이다. ㄷ(옳음): 온류의 특정혈 속성: 대장경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/li7/)
+ · [온류 원문](/acupuncture/points/li7/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-71"></span>
+
+### 71. 상 · 양구의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+양구의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 양구의 표준 위치는 다음과 같다: 넓적다리 앞가쪽면, 가쪽넓은근(vastus lateralis muscle)과 넙다리곧은근힘줄(rectus femoris tendon) 가쪽모서리사이, 무릎뼈바닥(base of patellae)에서 위쪽으로 2寸. |
+| ㄴ | 양구의 소속 경맥은 족태음비경이다. |
+| ㄷ | 양구의 특정혈 속성: 위경의 낙혈. |
+
+1. ㄱ · ㄷ
+2. ㄱ · ㄴ
+3. ㄱ · ㄴ · ㄷ
+4. ㄴ · ㄷ
+5. ㄱ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(옳음): 양구의 표준 위치는 다음과 같다: 넓적다리 앞가쪽면, 가쪽넓은근(vastus lateralis muscle)과 넙다리곧은근힘줄(rectus femoris tendon) 가쪽모서리사이, 무릎뼈바닥(base of patellae)에서 위쪽으로 2寸. ㄴ(수정): 양구의 소속 경맥은 족양명위경이다. ㄷ(수정): 양구의 특정혈 속성: 위경의 극혈.
+
+**결정적 감별 단서:** 양구의 표준 위치는 다음과 같다: 넓적다리 앞가쪽면, 가쪽넓은근(vastus lateralis muscle)과 넙다리곧은근힘줄(rectus femoris tendon) 가쪽모서리사이, 무릎뼈바닥(base of patellae)에서 위쪽으로 2寸. 양구의 소속 경맥은 족양명위경이다. 양구의 특정혈 속성: 위경의 극혈.
+
+**가장 가까운 오답:** 1번 — ㄷ: 양구의 특정혈 속성: 위경의 극혈.
+
+- **1번:** ㄷ: 양구의 특정혈 속성: 위경의 극혈.
+- **2번:** ㄴ: 양구의 소속 경맥은 족양명위경이다.
+- **3번:** ㄴ: 양구의 소속 경맥은 족양명위경이다. ㄷ: 양구의 특정혈 속성: 위경의 극혈.
+- **4번:** ㄱ: 양구의 표준 위치는 다음과 같다: 넓적다리 앞가쪽면, 가쪽넓은근(vastus lateralis muscle)과 넙다리곧은근힘줄(rectus femoris tendon) 가쪽모서리사이, 무릎뼈바닥(base of patellae)에서 위쪽으로 2寸. ㄴ: 양구의 소속 경맥은 족양명위경이다. ㄷ: 양구의 특정혈 속성: 위경의 극혈.
+- **5번:** ㄱ(옳음): 양구의 표준 위치는 다음과 같다: 넓적다리 앞가쪽면, 가쪽넓은근(vastus lateralis muscle)과 넙다리곧은근힘줄(rectus femoris tendon) 가쪽모서리사이, 무릎뼈바닥(base of patellae)에서 위쪽으로 2寸. ㄴ(수정): 양구의 소속 경맥은 족양명위경이다. ㄷ(수정): 양구의 특정혈 속성: 위경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/st34/)
+ · [양구 원문](/acupuncture/points/st34/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-72"></span>
+
+### 72. 상 · 지기의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+지기의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 지기의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 陰陵泉(음릉천)에서 아래쪽으로 3寸 부위에 취혈함. |
+| ㄴ | 지기의 소속 경맥은 족태음비경이다. |
+| ㄷ | 지기의 특정혈 속성: 비경의 원혈. |
+
+1. ㄱ · ㄴ · ㄷ
+2. ㄱ · ㄴ
+3. ㄱ
+4. ㄴ
+5. ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(옳음): 지기의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 陰陵泉(음릉천)에서 아래쪽으로 3寸 부위에 취혈함. ㄴ(옳음): 지기의 소속 경맥은 족태음비경이다. ㄷ(수정): 지기의 특정혈 속성: 비경의 극혈.
+
+**결정적 감별 단서:** 지기의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 陰陵泉(음릉천)에서 아래쪽으로 3寸 부위에 취혈함. 지기의 소속 경맥은 족태음비경이다. 지기의 특정혈 속성: 비경의 극혈.
+
+**가장 가까운 오답:** 1번 — ㄷ: 지기의 특정혈 속성: 비경의 극혈.
+
+- **1번:** ㄷ: 지기의 특정혈 속성: 비경의 극혈.
+- **2번:** ㄱ(옳음): 지기의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 陰陵泉(음릉천)에서 아래쪽으로 3寸 부위에 취혈함. ㄴ(옳음): 지기의 소속 경맥은 족태음비경이다. ㄷ(수정): 지기의 특정혈 속성: 비경의 극혈.
+- **3번:** ㄴ: 지기의 소속 경맥은 족태음비경이다.
+- **4번:** ㄱ: 지기의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 陰陵泉(음릉천)에서 아래쪽으로 3寸 부위에 취혈함.
+- **5번:** ㄱ: 지기의 표준 위치는 다음과 같다: 종아리 정강뼈면, 정강뼈 안쪽모서리(medial border of the tibia) 뒤쪽에 해당되며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 陰陵泉(음릉천)에서 아래쪽으로 3寸 부위에 취혈함. ㄴ: 지기의 소속 경맥은 족태음비경이다. ㄷ: 지기의 특정혈 속성: 비경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/sp8/)
+ · [지기 원문](/acupuncture/points/sp8/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-73"></span>
+
+### 73. 상 · 음극의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+음극의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 음극의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽, 손바닥 쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 0.5寸. |
+| ㄴ | 음극의 소속 경맥은 수소음심경이다. |
+| ㄷ | 음극의 특정혈 속성: 심경의 극혈. |
+
+1. ㄱ · ㄷ
+2. ㄱ
+3. ㄷ
+4. ㄱ · ㄴ · ㄷ
+5. ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(옳음): 음극의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽, 손바닥 쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 0.5寸. ㄴ(옳음): 음극의 소속 경맥은 수소음심경이다. ㄷ(옳음): 음극의 특정혈 속성: 심경의 극혈.
+
+**결정적 감별 단서:** 음극의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽, 손바닥 쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 0.5寸. 음극의 소속 경맥은 수소음심경이다. 음극의 특정혈 속성: 심경의 극혈.
+
+**가장 가까운 오답:** 1번 — ㄴ: 음극의 소속 경맥은 수소음심경이다.
+
+- **1번:** ㄴ: 음극의 소속 경맥은 수소음심경이다.
+- **2번:** ㄴ: 음극의 소속 경맥은 수소음심경이다. ㄷ: 음극의 특정혈 속성: 심경의 극혈.
+- **3번:** ㄱ: 음극의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽, 손바닥 쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 0.5寸. ㄴ: 음극의 소속 경맥은 수소음심경이다.
+- **4번:** ㄱ(옳음): 음극의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽, 손바닥 쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 0.5寸. ㄴ(옳음): 음극의 소속 경맥은 수소음심경이다. ㄷ(옳음): 음극의 특정혈 속성: 심경의 극혈.
+- **5번:** ㄱ: 음극의 표준 위치는 다음과 같다: 아래팔 앞안쪽면, 자쪽손목굽힘근힘줄(flexor carpi ulnaris tendon)의 노쪽, 손바닥 쪽 손목주름(palmar wrist crease)에서 몸 쪽으로 0.5寸.
+
+[연결 학습 원문](/acupuncture/points/ht6/)
+ · [음극 원문](/acupuncture/points/ht6/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-74"></span>
+
+### 74. 상 · 양로의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+양로의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 양로의 표준 위치는 다음과 같다: 손목 뒤 안쪽면, 다섯째 손허리뼈바닥(base of the 5th metacarpal bone)과 세모뼈(triquetrum bone) 사이의 오목한 곳, 赤白肉際. |
+| ㄴ | 양로의 소속 경맥은 수소음심경이다. |
+| ㄷ | 양로의 특정혈 속성: 소장경의 극혈. |
+
+1. ㄱ · ㄷ
+2. ㄱ
+3. ㄷ
+4. ㄴ
+5. ㄱ · ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(수정): 양로의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈머리(head of the ulna)의 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 1寸 지점의 오목한 곳. ㄴ(수정): 양로의 소속 경맥은 수태양소장경이다. ㄷ(옳음): 양로의 특정혈 속성: 소장경의 극혈.
+
+**결정적 감별 단서:** 양로의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈머리(head of the ulna)의 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 1寸 지점의 오목한 곳. 양로의 소속 경맥은 수태양소장경이다. 양로의 특정혈 속성: 소장경의 극혈.
+
+**가장 가까운 오답:** 1번 — ㄱ: 양로의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈머리(head of the ulna)의 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 1寸 지점의 오목한 곳.
+
+- **1번:** ㄱ: 양로의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈머리(head of the ulna)의 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 1寸 지점의 오목한 곳.
+- **2번:** ㄱ: 양로의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈머리(head of the ulna)의 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 1寸 지점의 오목한 곳. ㄷ: 양로의 특정혈 속성: 소장경의 극혈.
+- **3번:** ㄱ(수정): 양로의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈머리(head of the ulna)의 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 1寸 지점의 오목한 곳. ㄴ(수정): 양로의 소속 경맥은 수태양소장경이다. ㄷ(옳음): 양로의 특정혈 속성: 소장경의 극혈.
+- **4번:** ㄴ: 양로의 소속 경맥은 수태양소장경이다. ㄷ: 양로의 특정혈 속성: 소장경의 극혈.
+- **5번:** ㄱ: 양로의 표준 위치는 다음과 같다: 아래팔 뒤 안쪽면, 자뼈머리(head of the ulna)의 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 1寸 지점의 오목한 곳. ㄴ: 양로의 소속 경맥은 수태양소장경이다. ㄷ: 양로의 특정혈 속성: 소장경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/si6-yanglao/)
+ · [양로 원문](/acupuncture/points/si6-yanglao/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-75"></span>
+
+### 75. 상 · 금문의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+금문의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 금문의 표준 위치는 다음과 같다: 발 가쪽면, 발꿈치뼈(calcaneus)의 가쪽으로, 崑崙(곤륜)에서 먼 쪽, 赤白肉際에 취혈함. |
+| ㄴ | 금문의 소속 경맥은 족태양방광경이다. |
+| ㄷ | 금문의 특정혈 속성: 방광경의 극혈. |
+
+1. ㄱ · ㄴ · ㄷ
+2. ㄱ · ㄷ
+3. ㄴ
+4. ㄴ · ㄷ
+5. ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(수정): 금문의 표준 위치는 다음과 같다: 발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳. ㄴ(옳음): 금문의 소속 경맥은 족태양방광경이다. ㄷ(옳음): 금문의 특정혈 속성: 방광경의 극혈.
+
+**결정적 감별 단서:** 금문의 표준 위치는 다음과 같다: 발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳. 금문의 소속 경맥은 족태양방광경이다. 금문의 특정혈 속성: 방광경의 극혈.
+
+**가장 가까운 오답:** 1번 — ㄱ: 금문의 표준 위치는 다음과 같다: 발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳.
+
+- **1번:** ㄱ: 금문의 표준 위치는 다음과 같다: 발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳.
+- **2번:** ㄱ: 금문의 표준 위치는 다음과 같다: 발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳. ㄴ: 금문의 소속 경맥은 족태양방광경이다.
+- **3번:** ㄷ: 금문의 특정혈 속성: 방광경의 극혈.
+- **4번:** ㄱ(수정): 금문의 표준 위치는 다음과 같다: 발등, 가쪽복사(lateral malleolus) 앞모서리에서 먼 쪽, 다섯째 발허리뼈거친면(tuberosity of the 5th metatarsal bone) 뒤쪽, 입방뼈(cuboid bone) 아래쪽의 오목한 곳. ㄴ(옳음): 금문의 소속 경맥은 족태양방광경이다. ㄷ(옳음): 금문의 특정혈 속성: 방광경의 극혈.
+- **5번:** ㄴ: 금문의 소속 경맥은 족태양방광경이다.
+
+[연결 학습 원문](/acupuncture/points/bl63/)
+ · [금문 원문](/acupuncture/points/bl63/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-76"></span>
+
+### 76. 상 · 수천의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+수천의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 수천의 표준 위치는 다음과 같다: 발 안쪽면, 첫째 발허리뼈바닥(base of the 1st metatarsal bone)의 아래앞쪽, 赤白肉際. |
+| ㄴ | 수천의 소속 경맥은 족소음신경이다. |
+| ㄷ | 수천의 특정혈 속성: 신경의 낙혈. |
+
+1. ㄱ · ㄴ
+2. ㄱ · ㄷ
+3. ㄴ
+4. ㄱ
+5. ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(수정): 수천의 표준 위치는 다음과 같다: 발 안쪽면으로, 太谿(태계)에서 지면까지 3촌으로 정했을 때, 태계 아래쪽으로 1寸 부위, 발꿈치뼈융기(calcaneal tuberosity)앞쪽 오목한 곳에 취혈함. ㄴ(옳음): 수천의 소속 경맥은 족소음신경이다. ㄷ(수정): 수천의 특정혈 속성: 신경의 극혈.
+
+**결정적 감별 단서:** 수천의 표준 위치는 다음과 같다: 발 안쪽면으로, 太谿(태계)에서 지면까지 3촌으로 정했을 때, 태계 아래쪽으로 1寸 부위, 발꿈치뼈융기(calcaneal tuberosity)앞쪽 오목한 곳에 취혈함. 수천의 소속 경맥은 족소음신경이다. 수천의 특정혈 속성: 신경의 극혈.
+
+**가장 가까운 오답:** 1번 — ㄱ: 수천의 표준 위치는 다음과 같다: 발 안쪽면으로, 太谿(태계)에서 지면까지 3촌으로 정했을 때, 태계 아래쪽으로 1寸 부위, 발꿈치뼈융기(calcaneal tuberosity)앞쪽 오목한 곳에 취혈함.
+
+- **1번:** ㄱ: 수천의 표준 위치는 다음과 같다: 발 안쪽면으로, 太谿(태계)에서 지면까지 3촌으로 정했을 때, 태계 아래쪽으로 1寸 부위, 발꿈치뼈융기(calcaneal tuberosity)앞쪽 오목한 곳에 취혈함.
+- **2번:** ㄱ: 수천의 표준 위치는 다음과 같다: 발 안쪽면으로, 太谿(태계)에서 지면까지 3촌으로 정했을 때, 태계 아래쪽으로 1寸 부위, 발꿈치뼈융기(calcaneal tuberosity)앞쪽 오목한 곳에 취혈함. ㄴ: 수천의 소속 경맥은 족소음신경이다. ㄷ: 수천의 특정혈 속성: 신경의 극혈.
+- **3번:** ㄱ(수정): 수천의 표준 위치는 다음과 같다: 발 안쪽면으로, 太谿(태계)에서 지면까지 3촌으로 정했을 때, 태계 아래쪽으로 1寸 부위, 발꿈치뼈융기(calcaneal tuberosity)앞쪽 오목한 곳에 취혈함. ㄴ(옳음): 수천의 소속 경맥은 족소음신경이다. ㄷ(수정): 수천의 특정혈 속성: 신경의 극혈.
+- **4번:** ㄱ: 수천의 표준 위치는 다음과 같다: 발 안쪽면으로, 太谿(태계)에서 지면까지 3촌으로 정했을 때, 태계 아래쪽으로 1寸 부위, 발꿈치뼈융기(calcaneal tuberosity)앞쪽 오목한 곳에 취혈함. ㄴ: 수천의 소속 경맥은 족소음신경이다.
+- **5번:** ㄴ: 수천의 소속 경맥은 족소음신경이다. ㄷ: 수천의 특정혈 속성: 신경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/ki5/)
+ · [수천 원문](/acupuncture/points/ki5/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-77"></span>
+
+### 77. 상 · 극문의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+극문의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 극문의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 에서 몸 쪽으로 5寸. |
+| ㄴ | 극문의 소속 경맥은 수소양삼초경이다. |
+| ㄷ | 극문의 특정혈 속성: 심포경의 극혈. |
+
+1. ㄴ · ㄷ
+2. ㄴ
+3. ㄱ · ㄴ · ㄷ
+4. ㄱ · ㄴ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(옳음): 극문의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 에서 몸 쪽으로 5寸. ㄴ(수정): 극문의 소속 경맥은 수궐음심포경이다. ㄷ(옳음): 극문의 특정혈 속성: 심포경의 극혈.
+
+**결정적 감별 단서:** 극문의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 에서 몸 쪽으로 5寸. 극문의 소속 경맥은 수궐음심포경이다. 극문의 특정혈 속성: 심포경의 극혈.
+
+**가장 가까운 오답:** 3번 — ㄴ: 극문의 소속 경맥은 수궐음심포경이다.
+
+- **1번:** ㄱ: 극문의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 에서 몸 쪽으로 5寸. ㄴ: 극문의 소속 경맥은 수궐음심포경이다.
+- **2번:** ㄱ: 극문의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 에서 몸 쪽으로 5寸. ㄴ: 극문의 소속 경맥은 수궐음심포경이다. ㄷ: 극문의 특정혈 속성: 심포경의 극혈.
+- **3번:** ㄴ: 극문의 소속 경맥은 수궐음심포경이다.
+- **4번:** ㄴ: 극문의 소속 경맥은 수궐음심포경이다. ㄷ: 극문의 특정혈 속성: 심포경의 극혈.
+- **5번:** ㄱ(옳음): 극문의 표준 위치는 다음과 같다: 아래팔 앞쪽면, 긴손바닥근힘줄(palmaris longus tendon)과 노쪽손목굽힘근힘줄(flexor carpi radialis tendon)의 사이, 손바닥 쪽 손목주름(palmar wrist crease) 에서 몸 쪽으로 5寸. ㄴ(수정): 극문의 소속 경맥은 수궐음심포경이다. ㄷ(옳음): 극문의 특정혈 속성: 심포경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/pc4-ximen/)
+ · [극문 원문](/acupuncture/points/pc4-ximen/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-78"></span>
+
+### 78. 상 · 회종의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+회종의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 회종의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈(ulna)의 바로 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. |
+| ㄴ | 회종의 소속 경맥은 수궐음심포경이다. |
+| ㄷ | 회종의 특정혈 속성: 삼초경의 낙혈. |
+
+1. ㄷ
+2. ㄱ
+3. ㄴ · ㄷ
+4. ㄴ
+5. ㄱ · ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(옳음): 회종의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈(ulna)의 바로 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄴ(수정): 회종의 소속 경맥은 수소양삼초경이다. ㄷ(수정): 회종의 특정혈 속성: 삼초경의 극혈.
+
+**결정적 감별 단서:** 회종의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈(ulna)의 바로 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. 회종의 소속 경맥은 수소양삼초경이다. 회종의 특정혈 속성: 삼초경의 극혈.
+
+**가장 가까운 오답:** 5번 — ㄴ: 회종의 소속 경맥은 수소양삼초경이다.
+
+- **1번:** ㄱ: 회종의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈(ulna)의 바로 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄷ: 회종의 특정혈 속성: 삼초경의 극혈.
+- **2번:** ㄱ(옳음): 회종의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈(ulna)의 바로 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄴ(수정): 회종의 소속 경맥은 수소양삼초경이다. ㄷ(수정): 회종의 특정혈 속성: 삼초경의 극혈.
+- **3번:** ㄱ: 회종의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈(ulna)의 바로 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄴ: 회종의 소속 경맥은 수소양삼초경이다. ㄷ: 회종의 특정혈 속성: 삼초경의 극혈.
+- **4번:** ㄱ: 회종의 표준 위치는 다음과 같다: 아래팔 뒤쪽면, 자뼈(ulna)의 바로 노쪽, 손등 쪽 손목주름(dorsal wrist crease)에서 몸 쪽으로 3寸. ㄴ: 회종의 소속 경맥은 수소양삼초경이다.
+- **5번:** ㄴ: 회종의 소속 경맥은 수소양삼초경이다.
+
+[연결 학습 원문](/acupuncture/points/te7/)
+ · [회종 원문](/acupuncture/points/te7/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-79"></span>
+
+### 79. 상 · 외구의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+외구의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 외구의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 가쪽복사 융기(prominence of the lateral malleolus)에서 몸 쪽으로 7寸되는 곳임. |
+| ㄴ | 외구의 소속 경맥은 족소양담경이다. |
+| ㄷ | 외구의 특정혈 속성: 담경의 원혈. |
+
+1. ㄴ
+2. ㄷ
+3. ㄱ · ㄴ · ㄷ
+4. ㄱ · ㄴ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(옳음): 외구의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 가쪽복사 융기(prominence of the lateral malleolus)에서 몸 쪽으로 7寸되는 곳임. ㄴ(옳음): 외구의 소속 경맥은 족소양담경이다. ㄷ(수정): 외구의 특정혈 속성: 담경의 극혈.
+
+**결정적 감별 단서:** 외구의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 가쪽복사 융기(prominence of the lateral malleolus)에서 몸 쪽으로 7寸되는 곳임. 외구의 소속 경맥은 족소양담경이다. 외구의 특정혈 속성: 담경의 극혈.
+
+**가장 가까운 오답:** 1번 — ㄱ: 외구의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 가쪽복사 융기(prominence of the lateral malleolus)에서 몸 쪽으로 7寸되는 곳임.
+
+- **1번:** ㄱ: 외구의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 가쪽복사 융기(prominence of the lateral malleolus)에서 몸 쪽으로 7寸되는 곳임.
+- **2번:** ㄱ: 외구의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 가쪽복사 융기(prominence of the lateral malleolus)에서 몸 쪽으로 7寸되는 곳임. ㄴ: 외구의 소속 경맥은 족소양담경이다. ㄷ: 외구의 특정혈 속성: 담경의 극혈.
+- **3번:** ㄷ: 외구의 특정혈 속성: 담경의 극혈.
+- **4번:** ㄱ(옳음): 외구의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 가쪽복사 융기(prominence of the lateral malleolus)에서 몸 쪽으로 7寸되는 곳임. ㄴ(옳음): 외구의 소속 경맥은 족소양담경이다. ㄷ(수정): 외구의 특정혈 속성: 담경의 극혈.
+- **5번:** ㄴ: 외구의 소속 경맥은 족소양담경이다. ㄷ: 외구의 특정혈 속성: 담경의 극혈.
+
+[연결 학습 원문](/acupuncture/points/gb36/)
+ · [외구 원문](/acupuncture/points/gb36/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-80"></span>
+
+### 80. 상 · 중도의 위치·경맥·극혈 속성 — 옳은 설명을 모두 고른 것은?
+
+중도의 위치·경맥·극혈 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 중도의 표준 위치는 다음과 같다: 종아리 앞 안쪽면, 정강뼈 안쪽모서리(medial border of the tibia)의 중앙에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사 융기에서 몸 쪽으로 7寸되는 곳에 취혈한다. |
+| ㄴ | 중도의 소속 경맥은 족궐음간경이다. |
+| ㄷ | 중도의 특정혈 속성: 간경의 극혈. |
+
+1. ㄷ
+2. ㄱ · ㄴ · ㄷ
+3. ㄴ · ㄷ
+4. ㄱ · ㄴ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(옳음): 중도의 표준 위치는 다음과 같다: 종아리 앞 안쪽면, 정강뼈 안쪽모서리(medial border of the tibia)의 중앙에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사 융기에서 몸 쪽으로 7寸되는 곳에 취혈한다. ㄴ(옳음): 중도의 소속 경맥은 족궐음간경이다. ㄷ(옳음): 중도의 특정혈 속성: 간경의 극혈.
+
+**결정적 감별 단서:** 중도의 표준 위치는 다음과 같다: 종아리 앞 안쪽면, 정강뼈 안쪽모서리(medial border of the tibia)의 중앙에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사 융기에서 몸 쪽으로 7寸되는 곳에 취혈한다. 중도의 소속 경맥은 족궐음간경이다. 중도의 특정혈 속성: 간경의 극혈.
+
+**가장 가까운 오답:** 3번 — ㄱ: 중도의 표준 위치는 다음과 같다: 종아리 앞 안쪽면, 정강뼈 안쪽모서리(medial border of the tibia)의 중앙에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사 융기에서 몸 쪽으로 7寸되는 곳에 취혈한다.
+
+- **1번:** ㄱ: 중도의 표준 위치는 다음과 같다: 종아리 앞 안쪽면, 정강뼈 안쪽모서리(medial border of the tibia)의 중앙에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사 융기에서 몸 쪽으로 7寸되는 곳에 취혈한다. ㄴ: 중도의 소속 경맥은 족궐음간경이다.
+- **2번:** ㄱ(옳음): 중도의 표준 위치는 다음과 같다: 종아리 앞 안쪽면, 정강뼈 안쪽모서리(medial border of the tibia)의 중앙에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사 융기에서 몸 쪽으로 7寸되는 곳에 취혈한다. ㄴ(옳음): 중도의 소속 경맥은 족궐음간경이다. ㄷ(옳음): 중도의 특정혈 속성: 간경의 극혈.
+- **3번:** ㄱ: 중도의 표준 위치는 다음과 같다: 종아리 앞 안쪽면, 정강뼈 안쪽모서리(medial border of the tibia)의 중앙에 있으며, 안쪽복사 융기(prominence of the medial malleolus)에서 음릉천까지 13촌으로 정했을 때 안쪽복사 융기에서 몸 쪽으로 7寸되는 곳에 취혈한다.
+- **4번:** ㄷ: 중도의 특정혈 속성: 간경의 극혈.
+- **5번:** ㄴ: 중도의 소속 경맥은 족궐음간경이다.
+
+[연결 학습 원문](/acupuncture/points/lr6/)
+ · [중도 원문](/acupuncture/points/lr6/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-81"></span>
+
+### 81. 상 · 대저의 위치·경맥·골회 속성 — 옳은 설명을 모두 고른 것은?
+
+대저의 위치·경맥·골회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 둘째 등뼈 가시돌기(spinous process of the 2nd thoracic vertebra) 아래모서리와 같은 높이,뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+| ㄴ | 대저의 소속 경맥은 족소음신경이다. |
+| ㄷ | 대저의 특정혈 속성: 팔회혈 중 골회. |
+
+1. ㄴ
+2. ㄱ · ㄴ
+3. ㄱ · ㄷ
+4. ㄱ · ㄴ · ㄷ
+5. ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 5번** — ㄱ(수정): 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(수정): 대저의 소속 경맥은 족태양방광경이다. ㄷ(옳음): 대저의 특정혈 속성: 팔회혈 중 골회.
+
+**결정적 감별 단서:** 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. 대저의 소속 경맥은 족태양방광경이다. 대저의 특정혈 속성: 팔회혈 중 골회.
+
+**가장 가까운 오답:** 3번 — ㄱ: 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+
+- **1번:** ㄴ: 대저의 소속 경맥은 족태양방광경이다. ㄷ: 대저의 특정혈 속성: 팔회혈 중 골회.
+- **2번:** ㄱ: 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ: 대저의 소속 경맥은 족태양방광경이다. ㄷ: 대저의 특정혈 속성: 팔회혈 중 골회.
+- **3번:** ㄱ: 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸.
+- **4번:** ㄱ: 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ: 대저의 소속 경맥은 족태양방광경이다.
+- **5번:** ㄱ(수정): 대저의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(수정): 대저의 소속 경맥은 족태양방광경이다. ㄷ(옳음): 대저의 특정혈 속성: 팔회혈 중 골회.
+
+[연결 학습 원문](/acupuncture/points/bl11/)
+ · [대저 원문](/acupuncture/points/bl11/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-82"></span>
+
+### 82. 상 · 격수의 위치·경맥·혈회 속성 — 옳은 설명을 모두 고른 것은?
+
+격수의 위치·경맥·혈회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 첫째 등뼈 가시돌기(spinous process of the 1st thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. |
+| ㄴ | 격수의 소속 경맥은 족태양방광경이다. |
+| ㄷ | 격수의 특정혈 속성: 팔회혈 중 혈회. |
+
+1. ㄱ · ㄷ
+2. ㄴ · ㄷ
+3. ㄱ
+4. ㄴ
+5. ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(수정): 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(옳음): 격수의 소속 경맥은 족태양방광경이다. ㄷ(옳음): 격수의 특정혈 속성: 팔회혈 중 혈회.
+
+**결정적 감별 단서:** 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. 격수의 소속 경맥은 족태양방광경이다. 격수의 특정혈 속성: 팔회혈 중 혈회.
+
+**가장 가까운 오답:** 4번 — ㄷ: 격수의 특정혈 속성: 팔회혈 중 혈회.
+
+- **1번:** ㄱ: 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ: 격수의 소속 경맥은 족태양방광경이다.
+- **2번:** ㄱ(수정): 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ(옳음): 격수의 소속 경맥은 족태양방광경이다. ㄷ(옳음): 격수의 특정혈 속성: 팔회혈 중 혈회.
+- **3번:** ㄱ: 격수의 표준 위치는 다음과 같다: 위쪽 등부위, 일곱째 등뼈 가시돌기 (spinous process of the 7th thoracic vertebra) 아래모서리와 같은 높이, 뒤정중선(posterior median line)에서 가쪽으로 1.5寸. ㄴ: 격수의 소속 경맥은 족태양방광경이다. ㄷ: 격수의 특정혈 속성: 팔회혈 중 혈회.
+- **4번:** ㄷ: 격수의 특정혈 속성: 팔회혈 중 혈회.
+- **5번:** ㄴ: 격수의 소속 경맥은 족태양방광경이다.
+
+[연결 학습 원문](/acupuncture/points/bl17-geshu/)
+ · [격수 원문](/acupuncture/points/bl17-geshu/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-83"></span>
+
+### 83. 상 · 장문의 위치·경맥·장회 속성 — 옳은 설명을 모두 고른 것은?
+
+장문의 위치·경맥·장회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 장문의 표준 위치는 다음과 같다: 가쪽가슴부위, 여섯째 갈비사이공간(the 6th intercostal space), 중간겨드랑선(midaxillary line) 위. |
+| ㄴ | 장문의 소속 경맥은 족궐음간경이다. |
+| ㄷ | 장문의 특정혈 속성: 위의 모혈이며 팔회혈 중 부회. |
+
+1. ㄷ
+2. ㄱ · ㄴ · ㄷ
+3. ㄱ · ㄴ
+4. ㄴ
+5. ㄱ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 4번** — ㄱ(수정): 장문의 표준 위치는 다음과 같다: 옆배, 열한째 갈비뼈끝(free extremity of the 11th rib)의 아래쪽. ㄴ(옳음): 장문의 소속 경맥은 족궐음간경이다. ㄷ(수정): 장문의 특정혈 속성: 비의 모혈이며 팔회혈 중 장회.
+
+**결정적 감별 단서:** 장문의 표준 위치는 다음과 같다: 옆배, 열한째 갈비뼈끝(free extremity of the 11th rib)의 아래쪽. 장문의 소속 경맥은 족궐음간경이다. 장문의 특정혈 속성: 비의 모혈이며 팔회혈 중 장회.
+
+**가장 가까운 오답:** 3번 — ㄱ: 장문의 표준 위치는 다음과 같다: 옆배, 열한째 갈비뼈끝(free extremity of the 11th rib)의 아래쪽.
+
+- **1번:** ㄴ: 장문의 소속 경맥은 족궐음간경이다. ㄷ: 장문의 특정혈 속성: 비의 모혈이며 팔회혈 중 장회.
+- **2번:** ㄱ: 장문의 표준 위치는 다음과 같다: 옆배, 열한째 갈비뼈끝(free extremity of the 11th rib)의 아래쪽. ㄷ: 장문의 특정혈 속성: 비의 모혈이며 팔회혈 중 장회.
+- **3번:** ㄱ: 장문의 표준 위치는 다음과 같다: 옆배, 열한째 갈비뼈끝(free extremity of the 11th rib)의 아래쪽.
+- **4번:** ㄱ(수정): 장문의 표준 위치는 다음과 같다: 옆배, 열한째 갈비뼈끝(free extremity of the 11th rib)의 아래쪽. ㄴ(옳음): 장문의 소속 경맥은 족궐음간경이다. ㄷ(수정): 장문의 특정혈 속성: 비의 모혈이며 팔회혈 중 장회.
+- **5번:** ㄱ: 장문의 표준 위치는 다음과 같다: 옆배, 열한째 갈비뼈끝(free extremity of the 11th rib)의 아래쪽. ㄴ: 장문의 소속 경맥은 족궐음간경이다. ㄷ: 장문의 특정혈 속성: 비의 모혈이며 팔회혈 중 장회.
+
+[연결 학습 원문](/acupuncture/points/lr13-zhangmen/)
+ · [장문 원문](/acupuncture/points/lr13-zhangmen/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-84"></span>
+
+### 84. 상 · 중완의 위치·경맥·부회 속성 — 옳은 설명을 모두 고른 것은?
+
+중완의 위치·경맥·부회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. |
+| ㄴ | 중완의 소속 경맥은 독맥이다. |
+| ㄷ | 중완의 특정혈 속성: 위의 모혈이며 팔회혈 중 부회. |
+
+1. ㄴ · ㄷ
+2. ㄷ
+3. ㄱ · ㄷ
+4. ㄴ
+5. ㄱ · ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(옳음): 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. ㄴ(수정): 중완의 소속 경맥은 임맥이다. ㄷ(옳음): 중완의 특정혈 속성: 위의 모혈이며 팔회혈 중 부회.
+
+**결정적 감별 단서:** 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. 중완의 소속 경맥은 임맥이다. 중완의 특정혈 속성: 위의 모혈이며 팔회혈 중 부회.
+
+**가장 가까운 오답:** 2번 — ㄱ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸.
+
+- **1번:** ㄱ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. ㄴ: 중완의 소속 경맥은 임맥이다.
+- **2번:** ㄱ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸.
+- **3번:** ㄱ(옳음): 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. ㄴ(수정): 중완의 소속 경맥은 임맥이다. ㄷ(옳음): 중완의 특정혈 속성: 위의 모혈이며 팔회혈 중 부회.
+- **4번:** ㄱ: 중완의 표준 위치는 다음과 같다: 윗배, 앞정중선(anterior median line) 위, 배꼽(umbilicus) 중심에서 위쪽으로 4寸. ㄴ: 중완의 소속 경맥은 임맥이다. ㄷ: 중완의 특정혈 속성: 위의 모혈이며 팔회혈 중 부회.
+- **5번:** ㄴ: 중완의 소속 경맥은 임맥이다.
+
+[연결 학습 원문](/acupuncture/points/cv12-zhongwan/)
+ · [중완 원문](/acupuncture/points/cv12-zhongwan/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-85"></span>
+
+### 85. 상 · 전중의 위치·경맥·기회 속성 — 옳은 설명을 모두 고른 것은?
+
+전중의 위치·경맥·기회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 단중의 표준 위치는 다음과 같다: 앞가슴부위, 앞정중선(anterior median line) 위, 넷째 갈비사이공간(the 4th intercostal space)과 같은 높이. |
+| ㄴ | 단중의 소속 경맥은 독맥이다. |
+| ㄷ | 단중의 특정혈 속성: 심의 모혈이며 팔회혈 중 혈회. |
+
+1. ㄱ · ㄴ · ㄷ
+2. ㄱ
+3. ㄱ · ㄷ
+4. ㄴ
+5. ㄱ · ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(옳음): 단중의 표준 위치는 다음과 같다: 앞가슴부위, 앞정중선(anterior median line) 위, 넷째 갈비사이공간(the 4th intercostal space)과 같은 높이. ㄴ(수정): 단중의 소속 경맥은 임맥이다. ㄷ(수정): 단중의 특정혈 속성: 심포의 모혈이며 팔회혈 중 기회.
+
+**결정적 감별 단서:** 단중의 표준 위치는 다음과 같다: 앞가슴부위, 앞정중선(anterior median line) 위, 넷째 갈비사이공간(the 4th intercostal space)과 같은 높이. 단중의 소속 경맥은 임맥이다. 단중의 특정혈 속성: 심포의 모혈이며 팔회혈 중 기회.
+
+**가장 가까운 오답:** 3번 — ㄷ: 단중의 특정혈 속성: 심포의 모혈이며 팔회혈 중 기회.
+
+- **1번:** ㄴ: 단중의 소속 경맥은 임맥이다. ㄷ: 단중의 특정혈 속성: 심포의 모혈이며 팔회혈 중 기회.
+- **2번:** ㄱ(옳음): 단중의 표준 위치는 다음과 같다: 앞가슴부위, 앞정중선(anterior median line) 위, 넷째 갈비사이공간(the 4th intercostal space)과 같은 높이. ㄴ(수정): 단중의 소속 경맥은 임맥이다. ㄷ(수정): 단중의 특정혈 속성: 심포의 모혈이며 팔회혈 중 기회.
+- **3번:** ㄷ: 단중의 특정혈 속성: 심포의 모혈이며 팔회혈 중 기회.
+- **4번:** ㄱ: 단중의 표준 위치는 다음과 같다: 앞가슴부위, 앞정중선(anterior median line) 위, 넷째 갈비사이공간(the 4th intercostal space)과 같은 높이. ㄴ: 단중의 소속 경맥은 임맥이다.
+- **5번:** ㄴ: 단중의 소속 경맥은 임맥이다.
+
+[연결 학습 원문](/acupuncture/points/cv17-danzhong/)
+ · [단중 원문](/acupuncture/points/cv17-danzhong/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-86"></span>
+
+### 86. 상 · 양릉천의 위치·경맥·근회 속성 — 옳은 설명을 모두 고른 것은?
+
+양릉천의 위치·경맥·근회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. |
+| ㄴ | 양릉천의 소속 경맥은 족소양담경이다. |
+| ㄷ | 양릉천의 특정혈 속성: 담경의 정혈이며 팔회혈 중 골회. |
+
+1. ㄷ
+2. ㄱ · ㄴ
+3. ㄱ
+4. ㄱ · ㄴ · ㄷ
+5. ㄴ · ㄷ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(옳음): 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. ㄴ(옳음): 양릉천의 소속 경맥은 족소양담경이다. ㄷ(수정): 양릉천의 특정혈 속성: 담경의 합혈이며 팔회혈 중 근회.
+
+**결정적 감별 단서:** 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. 양릉천의 소속 경맥은 족소양담경이다. 양릉천의 특정혈 속성: 담경의 합혈이며 팔회혈 중 근회.
+
+**가장 가까운 오답:** 3번 — ㄴ: 양릉천의 소속 경맥은 족소양담경이다.
+
+- **1번:** ㄱ: 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. ㄴ: 양릉천의 소속 경맥은 족소양담경이다. ㄷ: 양릉천의 특정혈 속성: 담경의 합혈이며 팔회혈 중 근회.
+- **2번:** ㄱ(옳음): 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. ㄴ(옳음): 양릉천의 소속 경맥은 족소양담경이다. ㄷ(수정): 양릉천의 특정혈 속성: 담경의 합혈이며 팔회혈 중 근회.
+- **3번:** ㄴ: 양릉천의 소속 경맥은 족소양담경이다.
+- **4번:** ㄷ: 양릉천의 특정혈 속성: 담경의 합혈이며 팔회혈 중 근회.
+- **5번:** ㄱ: 양릉천의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면에, 종아리뼈 머리(head of the fibula)에서 앞먼쪽(anterior and distal)의 오목한 곳에 취혈함. ㄷ: 양릉천의 특정혈 속성: 담경의 합혈이며 팔회혈 중 근회.
+
+[연결 학습 원문](/acupuncture/points/gb34-yanglingquan/)
+ · [양릉천 원문](/acupuncture/points/gb34-yanglingquan/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-87"></span>
+
+### 87. 상 · 태연의 위치·경맥·맥회 속성 — 옳은 설명을 모두 고른 것은?
+
+태연의 위치·경맥·맥회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. |
+| ㄴ | 태연의 소속 경맥은 수태음폐경이다. |
+| ㄷ | 태연의 특정혈 속성: 폐경의 원혈이며 팔회혈 중 맥회. |
+
+1. ㄱ · ㄷ
+2. ㄷ
+3. ㄱ · ㄴ · ㄷ
+4. ㄱ
+5. ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 3번** — ㄱ(옳음): 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. ㄴ(옳음): 태연의 소속 경맥은 수태음폐경이다. ㄷ(옳음): 태연의 특정혈 속성: 폐경의 원혈이며 팔회혈 중 맥회.
+
+**결정적 감별 단서:** 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. 태연의 소속 경맥은 수태음폐경이다. 태연의 특정혈 속성: 폐경의 원혈이며 팔회혈 중 맥회.
+
+**가장 가까운 오답:** 1번 — ㄴ: 태연의 소속 경맥은 수태음폐경이다.
+
+- **1번:** ㄴ: 태연의 소속 경맥은 수태음폐경이다.
+- **2번:** ㄱ: 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. ㄴ: 태연의 소속 경맥은 수태음폐경이다.
+- **3번:** ㄱ(옳음): 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. ㄴ(옳음): 태연의 소속 경맥은 수태음폐경이다. ㄷ(옳음): 태연의 특정혈 속성: 폐경의 원혈이며 팔회혈 중 맥회.
+- **4번:** ㄴ: 태연의 소속 경맥은 수태음폐경이다. ㄷ: 태연의 특정혈 속성: 폐경의 원혈이며 팔회혈 중 맥회.
+- **5번:** ㄱ: 태연의 표준 위치는 다음과 같다: 손목 앞가쪽면, 노뼈붓돌기(radial styloid process)와 손배뼈(scaphoid bone) 사이, 긴엄지벌림근힘줄(abductor pollicis longus tendon)의 자쪽 오목한 곳. ㄷ: 태연의 특정혈 속성: 폐경의 원혈이며 팔회혈 중 맥회.
+
+[연결 학습 원문](/acupuncture/points/lu9-taiyuan/)
+ · [태연 원문](/acupuncture/points/lu9-taiyuan/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
+
+</details>
+
+<span id="clinical-acupoints-88"></span>
+
+### 88. 상 · 현종의 위치·경맥·수회 속성 — 옳은 설명을 모두 고른 것은?
+
+현종의 위치·경맥·수회 속성을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.
+
+설명 비교
+
+| 기호 | 설명 |
+| --- | --- |
+| ㄱ | 현종의 표준 위치는 다음과 같다: 종아리의 종아리뼈쪽면, 종아리뼈(fibula)앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lataral malleolus)에서 몸쪽으로 4寸되는 곳임. |
+| ㄴ | 현종의 소속 경맥은 족궐음간경이다. |
+| ㄷ | 현종의 특정혈 속성: 팔회혈 중 수회. |
+
+1. ㄱ
+2. ㄷ
+3. ㄱ · ㄷ
+4. ㄴ
+5. ㄱ · ㄴ
+
+<details markdown="1">
+<summary>정답·감별 해설 펼치기</summary>
+
+**정답: 2번** — ㄱ(수정): 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임. ㄴ(수정): 현종의 소속 경맥은 족소양담경이다. ㄷ(옳음): 현종의 특정혈 속성: 팔회혈 중 수회.
+
+**결정적 감별 단서:** 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임. 현종의 소속 경맥은 족소양담경이다. 현종의 특정혈 속성: 팔회혈 중 수회.
+
+**가장 가까운 오답:** 3번 — ㄱ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+
+- **1번:** ㄱ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임. ㄷ: 현종의 특정혈 속성: 팔회혈 중 수회.
+- **2번:** ㄱ(수정): 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임. ㄴ(수정): 현종의 소속 경맥은 족소양담경이다. ㄷ(옳음): 현종의 특정혈 속성: 팔회혈 중 수회.
+- **3번:** ㄱ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임.
+- **4번:** ㄴ: 현종의 소속 경맥은 족소양담경이다. ㄷ: 현종의 특정혈 속성: 팔회혈 중 수회.
+- **5번:** ㄱ: 현종의 표준 위치는 다음과 같다: 종아리 종아리뼈쪽면, 종아리뼈(fibula) 앞쪽으로, 오금주름(popliteal crease)의 가쪽끝과 가쪽복사뼈 융기를 연결하는 선을 16촌으로 하여 가쪽복사 융기(prominence of the lateral malleolus)에서 몸쪽으로 3寸되는 곳임. ㄴ: 현종의 소속 경맥은 족소양담경이다. ㄷ: 현종의 특정혈 속성: 팔회혈 중 수회.
+
+[연결 학습 원문](/acupuncture/points/gb39-xuanzhong/)
+ · [현종 원문](/acupuncture/points/gb39-xuanzhong/)
+ · [특정혈 통합 아틀라스](/acupuncture-specific/special-points-atlas/)
+ · [오수혈 60혈 통합표](/acupuncture-specific/five-shu/)
 
 </details>
 

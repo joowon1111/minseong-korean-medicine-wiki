@@ -51,7 +51,10 @@ class StudentLearning(unittest.TestCase):
                     self.assertTrue(q['explanation'] and q['options'][q['answer']]['detail'])
                 if q['kind'] in ('advanced', 'clinical'):
                     self.assertEqual(q['source'], '/learning/' + deck['subject'] + '/#' + q['id'])
-                    self.assertEqual(q['relatedSource'], by_id[q['cardId']]['source'])
+                    if q.get('topic') == 'statement-comparison' and q.get('references'):
+                        self.assertIn(q['relatedSource'], [by_id[q['cardId']]['source']] + [r['url'] for r in q['references']])
+                    else:
+                        self.assertEqual(q['relatedSource'], by_id[q['cardId']]['source'])
                     self.assertTrue(all(o['source'] == q['source'] and o['detail'] for o in q['options']))
                     continue
                 for option in q['options']:
@@ -374,12 +377,12 @@ class StudentLearning(unittest.TestCase):
         from collections import Counter
         payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
         self.assertEqual(payload['questionsPerLevel'], 18)
-        self.assertEqual(len(payload['questions']), 480)
-        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 480)
-        self.assertEqual(len({q['context'] for q in payload['questions']}), 480)
+        self.assertEqual(len(payload['questions']), 600)
+        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 600)
+        self.assertEqual(len({q['context'] for q in payload['questions']}), 600)
         for subject, deck in self.decks.items():
             cases = [q for q in deck['questions'] if q['kind'] == 'clinical']
-            per_level = {'anatomy': 42, 'shanghanlun': 54, 'sasang': 54, 'acupoints': 24, 'acupuncture': 24, 'herbs': 24}.get(subject, 18)
+            per_level = {'anatomy': 42, 'shanghanlun': 54, 'sasang': 54, 'acupoints': 44, 'acupuncture': 44, 'herbs': 44}.get(subject, 18)
             self.assertEqual(Counter(q['difficulty'] for q in cases), {'high': per_level, 'expert': per_level})
             self.assertEqual({q['id'] for q in cases}, {f'clinical-{subject}-{n:02}' for n in range(1, per_level * 2 + 1)})
             self.assertEqual({q['answer'] for q in cases}, set(range(5)))
@@ -407,7 +410,7 @@ class StudentLearning(unittest.TestCase):
         self.assertEqual(manifest['version'], version)
         self.assertIn('assets/learning/learning.js?v=' + version, config)
         hub = (study.DOCS / 'learning/index.md').read_text()
-        self.assertIn('자체 작성한 **480문제(중 240·상 240)**', hub)
+        self.assertIn('자체 작성한 **600문제(중 300·상 300)**', hub)
         self.assertIn('기초 해부학은 **84문제**', hub)
         self.assertIn('상한론·사상의학은 각각 **108문제**', hub)
 
@@ -417,9 +420,9 @@ class StudentLearning(unittest.TestCase):
         from clinical_learning import validate_clinical
         rows = [q for deck in self.decks.values() for q in deck['questions']
                 if q.get('topic') == 'statement-comparison']
-        self.assertEqual(len(rows), 36)
+        self.assertEqual(len(rows), 156)
         self.assertEqual(Counter(q['source'].split('/')[2] for q in rows),
-                         {'acupoints': 12, 'acupuncture': 12, 'herbs': 12})
+                         {'acupoints': 52, 'acupuncture': 52, 'herbs': 52})
         for q in rows:
             validate_clinical(q)
             self.assertEqual(len({study.normalized(o['text']) for o in q['options']}), 5)
@@ -427,7 +430,26 @@ class StudentLearning(unittest.TestCase):
             broken['answer'] = (q['answer'] + 1) % 5
             with self.assertRaises(AssertionError):
                 validate_clinical(broken)
+            broken = deepcopy(q)
+            broken['table']['rows'][0][1] += ' mismatched table'
+            with self.assertRaises(AssertionError):
+                validate_clinical(broken)
         self.assertNotEqual(study.normalized('ㄱ · ㄴ'), study.normalized('ㄱ · ㄷ'))
+        self.assertIn('총 **156문제**(중 78·상 78)', (study.DOCS / 'learning/index.md').read_text())
+        for subject in ('acupuncture', 'herbs', 'acupoints'):
+            added = [q for q in self.decks[subject]['questions'] if q['kind'] == 'clinical' and int(q['id'].rsplit('-', 1)[1]) >= 49]
+            self.assertEqual(len(added), 40)
+            self.assertEqual(Counter(q['difficulty'] for q in added), {'high': 20, 'expert': 20})
+            self.assertEqual({q['answer'] for q in added}, set(range(5)))
+            self.assertEqual(len({tuple(sorted(s['text'] for s in q['statements'])) for q in added}), 40)
+            for q in added:
+                self.assertTrue(q['references'])
+                self.assertIn(q['relatedSource'], [r['url'] for r in q['references']])
+                for ref in q['references']:
+                    self.assertTrue(ref['url'].startswith('/'))
+                    path = study.DOCS / (ref['url'].strip('/') + '.md')
+                    self.assertTrue(path.exists() or (study.DOCS / ref['url'].strip('/') / 'index.md').exists(), ref)
+
 
     def test_hard_classical_cases_keep_clause_numbers_and_source_claims_precise(self):
         sh = {q['id']: q for q in self.decks['shanghanlun']['questions'] if q['kind'] == 'advanced'}

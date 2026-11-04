@@ -31,7 +31,7 @@ def clinical_questions(root, decks):
         subject = q.pop('subject')
         c = next(c for c in decks[subject]['cards'] if c['id'] == q['cardId'])
         q.update(kind='clinical', category=c['category'],
-                 source=f'/learning/{subject}/#{q["id"]}', relatedSource=c['source'])
+                 source=f'/learning/{subject}/#{q["id"]}', relatedSource=q.get('relatedSource', c['source']))
         for i, option in enumerate(q['options']):
             option.update(owner='정답 근거' if i == q['answer'] else '오답 감별',
                           ownerId=c['id'], source=q['source'])
@@ -62,6 +62,7 @@ def validate_clinical(q):
         assert len(set(combinations)) == 5
         assert combinations[q['answer']] == expected
         assert sum(c == expected for c in combinations) == 1
+        assert q['table']['rows'] == [['ㄱㄴㄷ'[i], s['text']] for i, s in enumerate(statements)]
     if 'table' in q:
         t = q['table']
         assert t['caption'] and len(t['headers']) >= 2 and t['rows']

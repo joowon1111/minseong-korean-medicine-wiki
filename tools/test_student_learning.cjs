@@ -276,7 +276,7 @@ test('five-option cases retain level filters, structured observations and wrong-
   for (const [subject, title] of Object.entries({anatomy:'기초 해부학',acupoints:'경혈학',acupuncture:'침구학',herbs:'본초학',formulas:'방제학',shanghanlun:'상한론',sasang:'사상의학'})) {
     const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
     const cases = d.questions.filter(q => q.kind === 'clinical');
-    const perLevel = { anatomy: 42, shanghanlun: 54, sasang: 54, acupoints: 24, acupuncture: 24, herbs: 24 }[subject] || 18;
+    const perLevel = { anatomy: 42, shanghanlun: 54, sasang: 54, acupoints: 44, acupuncture: 44, herbs: 44 }[subject] || 18;
     assert.equal(cases.length, perLevel * 2);
     assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'clinical', 'expert').length, perLevel);
     const h = harness(); h.button(title).events.click();
@@ -317,4 +317,32 @@ test('case tables display every observation, including the fifth choice', async 
   assert.ok(all(h.root).some(e => e.attrs['data-option'] === '4'));
   for(const row of q.table.rows) for(const value of row) assert.ok(all(h.root).some(e => e.textContent === value));
   for(const label of q.table.headers) assert.ok(all(h.root).some(e => e.tagName === 'th' && e.attrs.scope === 'col' && e.textContent === label));
+});
+
+test('statement-comparison filter keeps levels, wrong answers and concept searches', async () => {
+  for (const [subject, title] of Object.entries({acupoints:'경혈학', acupuncture:'침구학', herbs:'본초학'})) {
+    const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
+    const p = study.emptyProgress();
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison').length, 52);
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison', 'high').length, 26);
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison', 'expert').length, 26);
+    const q = d.questions.find(q => q.topic === 'statement-comparison' && q.id.endsWith('-49'));
+    p.wrong.push(q.id);
+    assert.deepEqual(study.filteredQuestions(d, p, '', '', true, 'comparison').map(q => q.id), [q.id]);
+    const h = harness(); h.button(title).events.click();
+    h.loads[h.loads.length - 1].resolve({ok: true, json: async () => d}); await h.settle();
+    h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+    assert.ok(h.select('문제 유형').children.some(o => o.attrs.value === 'comparison'));
+    h.select('문제 유형').value = 'comparison'; h.select('문제 유형').events.change();
+    h.select('문제 난이도').value = 'expert'; h.select('문제 난이도').events.change();
+    assert.equal(h.select('문제 유형').value, 'comparison');
+    assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 26문제')));
+    h.button('10문제 풀기').events.click();
+    assert.ok(all(h.root).some(e => e.tagName === 'table'));
+  }
+  const d = JSON.parse(fs.readFileSync('docs/assets/learning/acupuncture.json', 'utf8'));
+  const hits = study.filteredQuestions(d, study.emptyProgress(), '', '기역 기함', false, 'comparison');
+  assert.ok(hits.some(q => q.id === 'clinical-acupuncture-51'));
+  const narrowed = study.filteredQuestions(d, study.emptyProgress(), '존재하지 않는 분류', '기역 기함', false, 'comparison');
+  assert.equal(narrowed.length, 0);
 });
