@@ -264,7 +264,7 @@
     const countNode = widget.querySelector("[data-km-count]");
 
     if (dateNode) {
-      dateNode.textContent = formatKoreanDate(date);
+      reader.renderCalendarDate(dateNode, date);
       dateNode.setAttribute("datetime", date.toISOString().slice(0, 10));
     }
     if (lineNode) lineNode.textContent = card.line;

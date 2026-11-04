@@ -291,7 +291,7 @@
 
     const dateNode = root.querySelector("[data-topic-date]");
     if (dateNode) {
-      dateNode.textContent = formatDate(date);
+      reader.renderCalendarDate(dateNode, date);
       dateNode.setAttribute("datetime", date.toISOString().slice(0, 10));
     }
   }
@@ -331,7 +331,7 @@
           selected.item.solarTerm ? "절기 읽기 · 날짜와 별도로 순환하는 카드입니다." : "";
         badge.hidden = !badge.textContent;
         const node = root.querySelector("[data-yangsheng-date]");
-        node.textContent = formatDate(date);
+        reader.renderCalendarDate(node, date);
         node.setAttribute("datetime", date.toISOString().slice(0, 10));
         const notice = root.querySelector("[data-yangsheng-error]");
         if (notice) { notice.hidden = true; notice.textContent = ""; }
@@ -487,7 +487,7 @@
           if (data[topic]) renderTopic(root, topic, data, date);
         });
         widget.querySelectorAll("[data-topic-date]").forEach(function (node) {
-          node.textContent = formatDate(date);
+          reader.renderCalendarDate(node, date);
           node.setAttribute("datetime", date.toISOString().slice(0, 10));
         });
       });
