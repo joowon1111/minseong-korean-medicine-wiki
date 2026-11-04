@@ -264,21 +264,14 @@
 }
 
 
-/* Give the acupuncture portal's chapter links and subsections a clear hierarchy. */
-body:has(.acupuncture-portal-page) .md-sidebar--primary a[href^="https://wiki.minseong.co.kr/portal/acupuncture/#"] {
-  padding-inline-start: .75rem;
-}
+/* Keep the portal's left menu limited to its two selected section links. */
 body:has(.acupuncture-portal-page) .md-sidebar--primary a:is(
   [href$="/portal/acupuncture/#_2"],
-  [href$="/portal/acupuncture/#_6"],
-  [href$="/portal/acupuncture/#_7"],
-  [href$="/portal/acupuncture/#_8"],
-  [href$="/portal/acupuncture/#_9"],
-  [href$="/portal/acupuncture/#_10"],
-  [href$="/portal/acupuncture/#_11"],
-  [href$="/portal/acupuncture/#sources"],
-  [href$="/portal/acupuncture/#_12"]
+  [href$="/portal/acupuncture/#_9"]
 ) {
-  padding-inline-start: 0;
   font-weight: 700;
+}
+body:has(.acupuncture-portal-page) .md-sidebar--primary .md-nav--secondary,
+body:has(.acupuncture-portal-page) .md-sidebar--primary label[for="__toc"] {
+  display: none;
 }
