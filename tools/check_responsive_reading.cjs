@@ -4,6 +4,40 @@ const fs = require('node:fs');
 const {chromium} = require('playwright');
 const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
 
+async function checkSentenceLayout(page, width) {
+  await page.setContent(`<html lang="ko"><body><article class="md-content__inner md-typeset">
+    <p id="sentences"><strong>첫 문장입니다.</strong> <a href="/sasang-integrated/">관련 문서</a>를 읽습니다. 수치는 0.44 mg/dL이고 p=0.05입니다. 주소는 https://wiki.minseong.co.kr/ 입니다.</p>
+    <p id="manual">첫 문장입니다.<br> 다음 문장입니다.</p>
+    <p id="quoted">“잘 먹고 쉬세요.” 다음 문장입니다.</p>
+    <p id="english" lang="en">First sentence. Another sentence.</p>
+    <p id="code"><code>값입니다. 그대로입니다.</code></p>
+    <table><tr><td><p>표 설명입니다. 같은 셀입니다.</p></td></tr></table>
+  </article></body></html>`);
+  const original = await page.locator('#sentences').textContent();
+  await page.addScriptTag({path:'docs/assets/reading-layout.js'});
+  await page.addStyleTag({path:'docs/assets/extra.css'});
+  assert.equal(await page.locator('#sentences .ms-sentence-break').count(), 3);
+  assert.equal(await page.locator('#sentences').textContent(), original, 'Sentence layout preserves every character');
+  assert.equal(await page.locator('#sentences a').getAttribute('href'), '/sasang-integrated/');
+  assert.equal(await page.locator('#manual br').count(), 1, 'Existing line breaks are retained without duplicates');
+  assert.equal(await page.locator('#quoted .ms-sentence-break').count(), 1, 'Closing quotation stays with its sentence');
+  assert.equal(await page.locator('#english .ms-sentence-break, #code .ms-sentence-break, td .ms-sentence-break').count(), 0);
+  const lines = await page.locator('#sentences').evaluate(p => {
+    const textNodes = [...p.childNodes].filter(n => n.nodeType === Node.TEXT_NODE && n.textContent.trim());
+    const next = textNodes.find(n => n.textContent.includes('수치는'));
+    const range = document.createRange();range.setStart(next, next.textContent.indexOf('수치는'));range.setEnd(next, next.textContent.indexOf('수치는')+1);
+    return {start:range.getBoundingClientRect().left, left:p.getBoundingClientRect().left, wordBreak:getComputedStyle(p).wordBreak};
+  });
+  assert(Math.abs(lines.start-lines.left) < 2, 'Next sentence starts at the left edge');
+  assert.equal(lines.wordBreak, 'keep-all');
+  await page.locator('#sentences').evaluate(p => { p.textContent = '새로운 카드입니다. 바뀐 문장도 다음 줄입니다.'; });
+  await page.waitForFunction(() => document.querySelectorAll('#sentences .ms-sentence-break').length === 1);
+  await page.locator('#sentences').evaluate(p => { p.firstChild.textContent = '다시 바뀐 카드입니다. '; });
+  await page.waitForFunction(() => document.querySelector('#sentences').textContent.startsWith('다시 바뀐 카드'));
+  assert.equal(await page.locator('#sentences .ms-sentence-break').count(), 1, 'Repeated updates do not accumulate breaks');
+  assert(!(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1)), `Sentence fixture overflow at ${width}`);
+}
+
 (async () => {
   const browser = await chromium.launch({headless:true});
   fs.mkdirSync('archive-browser-results', {recursive:true});
@@ -12,6 +46,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       const page = await browser.newPage({viewport:{width,height}});
       const errors = [];
       page.on('pageerror', error => errors.push(error.message));
+      await checkSentenceLayout(page, width);
       await page.route('**/*', route => new URL(route.request().url()).origin === new URL(base).origin ? route.continue() : route.abort());
       await page.goto(base + '/', {waitUntil:'networkidle'});
       await page.locator('[data-topic-title]').first().waitFor();
@@ -19,6 +54,16 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       const scripts = await page.locator('script[src]').evaluateAll(nodes => nodes.map(n => n.src));
       assert(!scripts.some(src => /learning\/learning|acupoint-atlas\/(explorer|discovery)|archive-tools\/tools/.test(src)), 'Home must not request unrelated widget code');
       await page.screenshot({path:`archive-browser-results/home-responsive-${width}.png`});
+      await page.goto(base + '/daily-korean-medicine/?date=2026-11-04', {waitUntil:'networkidle'});
+      await page.locator('[data-km-note] .ms-sentence-break').first().waitFor();
+      assert.equal(await page.locator('.daily-km-intro p').first().evaluate(p => getComputedStyle(p).wordBreak), 'keep-all');
+      assert(await page.locator('.daily-km-intro p').first().evaluate(p => p.getBoundingClientRect().width <= 840 + 1));
+      await page.screenshot({path:`archive-browser-results/daily-sentence-reading-${width}.png`});
+      await page.locator('[data-km-shift="1"]').click();
+      await page.locator('[data-km-date][datetime="2026-11-05"]').waitFor();
+      await page.locator('[data-km-note] .ms-sentence-break').first().waitFor();
+      assert(!(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1)), `Daily sentence overflow at ${width}`);
+      await page.goto(base + '/', {waitUntil:'networkidle'});
       const publisher = page.locator('.archive-publisher');
       assert.match(await publisher.textContent(), /목정일 · 김문정/);
       assert.equal(await publisher.locator('a[href="https://minseong.co.kr/"]').count(), 1);
