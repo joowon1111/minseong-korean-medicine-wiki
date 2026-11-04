@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "20261105-01",
+  "version": "20261105-02",
   "subjects": [
     {
       "id": "anatomy",
@@ -13,21 +13,21 @@
       "id": "acupoints",
       "title": "경혈학",
       "cards": 361,
-      "questions": 1204,
+      "questions": 1224,
       "file": "acupoints.json"
     },
     {
       "id": "acupuncture",
       "title": "침구학",
       "cards": 169,
-      "questions": 648,
+      "questions": 668,
       "file": "acupuncture.json"
     },
     {
       "id": "herbs",
       "title": "본초학",
       "cards": 184,
-      "questions": 919,
+      "questions": 939,
       "file": "herbs.json"
     },
     {
