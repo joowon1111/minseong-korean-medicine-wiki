@@ -16,3 +16,4 @@
 }
 .daily-calendar-details [data-calendar-moon] { font-size: 1.03em; }
 .daily-calendar-details [data-calendar-boundary] { font-size: .94em; }
+.daily-calendar-details .daily-calendar-hanja { font-size: .85em; font-weight: inherit; }
