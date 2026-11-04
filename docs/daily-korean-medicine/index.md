@@ -16,7 +16,7 @@ hide:
 <p>계절의 일력에는 240개의 양생카드와 24절기 안내를 담았습니다. <a href="solar-terms/#stories">24절기 이야기</a>에서는 입춘부터 대한까지 풍속·음식과 본초·고전의 기록을 길게 읽고, <a href="solar-terms/#solar-calculator">연도별 절입 시각 계산기</a>에서는 1900–2100년의 절기 날짜와 시각을 한국 표준시(KST)로 확인할 수 있습니다. 짧은 카드에서 관심 있는 이야기로 이어 읽어 보세요.</p>
 </div>
 
-<details class="daily-km-almanac-source"><summary>음력·만세력·달 모양의 기준</summary><p>음력은 한국 음력으로 윤달을 구분해 표시합니다(1900–2050년). 날짜 아래에는 음력 월·일과 일진을 표시합니다. 일진은 임오(壬午)처럼 한글과 한자를 함께 쓰며, 한국 시간 자정을 기준으로 바뀝니다(1900–2100년). 절입일에는 절입 시각과 월주 변화도 함께 표시합니다. 달 모양과 밝은 면의 비율은 한국 시간 정오 기준 근사 계산값입니다.</p><p><a href="https://astro.kasi.re.kr/kor/life/pageView/5">한국천문연구원 음양력 자료</a> · <a href="solar-terms/#solar-calculator">연도별 절입 시각 계산</a></p></details>
+<details class="daily-km-almanac-source"><summary>음력·만세력·달 모양의 기준</summary><p>음력은 한국 음력으로 윤달을 구분해 표시합니다(1900–2050년). 날짜 아래에는 음력 월·일과 일진을 표시합니다. 일진은 한글과 한자를 함께 쓰며, 한국 시간 자정을 기준으로 바뀝니다(1900–2100년). 절입일에는 절입 시각과 월주 변화도 함께 표시합니다. 달 모양과 밝은 면의 비율은 한국 시간 정오 기준 근사 계산값입니다.</p><p><a href="https://astro.kasi.re.kr/kor/life/pageView/5">한국천문연구원 음양력 자료</a> · <a href="solar-terms/#solar-calculator">연도별 절입 시각 계산</a></p></details>
 
 <section class="daily-km-card" data-daily-km aria-label="오늘의 한의학 핵심 카드">
   <div class="daily-km-meta">
