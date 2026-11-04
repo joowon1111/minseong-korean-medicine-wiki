@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261104-01';
+  const VERSION = '20261105-01';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0, schedule: {}, days: {}, resume: null});
   function readProgress(storage) {
@@ -103,8 +103,15 @@
     return cards.sort((a, b) => rank(a) - rank(b));
   }
   function filteredQuestions(deck, progress, category, query, wrongOnly, kind = '', difficulty = '') {
-    const ids = new Set(filteredCards(deck, progress, category, query, 'cards').map(c => c.id));
-    return deck.questions.filter(q => ids.has(q.cardId) && (!wrongOnly || progress.wrong.includes(q.id)) && (!kind || q.kind === kind) && (!difficulty || (q.difficulty || 'basic') === difficulty));
+    const ids = new Set(filteredCards(deck, progress, category, '', 'cards').map(c => c.id));
+    const matching = new Set(filteredCards(deck, progress, category, query, 'cards').map(c => c.id));
+    const words = query.toLowerCase().trim().split(/\s+/);
+    const directCode = deck.cards.some(c => c.code && c.code.toLowerCase() === query.toLowerCase().trim());
+    return deck.questions.filter(q => ids.has(q.cardId) &&
+      (matching.has(q.cardId) || (!directCode && words.every(word => [q.prompt, q.context, ...(q.statements || []).map(s => s.text)].join(' ').toLowerCase().includes(word)))) &&
+      (!wrongOnly || progress.wrong.includes(q.id)) &&
+      (!kind || (kind === 'comparison' ? q.kind === 'clinical' && q.topic === 'statement-comparison' : q.kind === kind)) &&
+      (!difficulty || (q.difficulty || 'basic') === difficulty));
   }
   function shuffle(items, random = Math.random) {
     const copy = items.slice();
@@ -299,12 +306,13 @@
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
           types.push(['advanced', '통합·감별 (중·상)']);
           types.push(['clinical', '증례·배혈·본초 추론 (5지선다)']);
+          if (deck.questions.some(q => q.topic === 'statement-comparison')) types.push(['comparison', '설명 조합 (ㄱ·ㄴ·ㄷ, 5지선다)']);
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
           kinds.addEventListener('change', () => {
             questionKind = kinds.value;
-            if (questionKind && !['advanced', 'clinical'].includes(questionKind) && (difficulty === 'high' || difficulty === 'expert')) difficulty = '';
-            if (['advanced', 'clinical'].includes(questionKind) && difficulty === 'basic') difficulty = '';
+            if (questionKind && !['advanced', 'clinical', 'comparison'].includes(questionKind) && (difficulty === 'high' || difficulty === 'expert')) difficulty = '';
+            if (['advanced', 'clinical', 'comparison'].includes(questionKind) && difficulty === 'basic') difficulty = '';
             restart();
           });
           stage.append(kinds);
@@ -313,8 +321,8 @@
           levels.value = difficulty;
           levels.addEventListener('change', () => {
             difficulty = levels.value;
-            if ((difficulty === 'high' || difficulty === 'expert') && questionKind !== 'clinical') questionKind = 'advanced';
-            else if (difficulty === 'basic' && ['advanced', 'clinical'].includes(questionKind)) questionKind = '';
+            if ((difficulty === 'high' || difficulty === 'expert') && !['clinical', 'comparison'].includes(questionKind)) questionKind = 'advanced';
+            else if (difficulty === 'basic' && ['advanced', 'clinical', 'comparison'].includes(questionKind)) questionKind = '';
             restart();
           });
           stage.append(levels, node('p', '하: 단일 개념 회상 · 중: 유사 구조·병증 감별 · 상: 예외·조건 변화·복수 단서 판단. 출제 의도에 따른 난이도입니다.', {class: 'learning-note'}));
