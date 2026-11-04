@@ -18,6 +18,19 @@ last_reviewed: 2026-09-16
 
 100선의 각 처방은 이름과 주치만 나열하지 않습니다. `대표 출전 → 구성 본초의 역할 → 수치·법제와 전탕 → 유사 처방 감별 → 안전성 → 현대 연구`의 순서로 읽을 수 있으며, 증상에서 시작하려면 [증상·치법으로 찾기](by-symptom-treatment.md)에서 병증과 후보 처방군을 먼저 좁힐 수 있습니다.
 
+## 기본방에서 본초의 역할까지 이어 읽기 {#core-formula-routes}
+
+처방 이름을 익혔다면 **공통 약재가 무엇이고, 어떤 약재가 달라져 치료 목표가 바뀌는지** 비교해 보세요. 아래는 전통 방제 구조를 공부하는 길잡이입니다. 같은 질환에 어느 처방이 더 우수한지를 매긴 표와는 목적이 다릅니다.
+
+| 비교할 처방군 | 배합에서 살필 차이 | 본초로 돌아가 확인할 것 |
+|---|---|---|
+| [사군자탕](../formulas/sijunzi-tang.md)·[육군자탕](../formulas/liujunzi-tang.md)·[향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 보기건비의 골격에 화담·이기를 더하는 이유 | [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)와 목향·사인의 역할, 향사육군자탕 수록형 차이 |
+| [사군자탕](../formulas/sijunzi-tang.md)·[사물탕](../formulas/siwu-tang.md)·[팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 보기·보혈·기혈쌍보·온보의 변화 | 인삼·백출·복령·감초와 당귀·숙지황·백작약·천궁, 황기·육계의 합류 |
+| [이중탕](../formulas/lizhong-tang.md)·[반하사심탕](../formulas/banxia-xiexin-tang.md) | 중초허한을 덥히는 배합과 한열착잡을 조절하는 배합 | [건강](../herbs/dried-ginger.md#formula-comparison)이 인삼·백출 또는 황련·황금과 만나는 차이 |
+| [오령산](../formulas/wuling-san.md)·[저령탕](../formulas/zhuling-tang.md)·[진무탕](../formulas/zhenwu-tang.md)·[실비음](../formulas/shipi-yin.md) | 수습·열과 진액 손상·양허·복부 창만의 비중 | [복령의 짝약](../herbs/poria.md#formula-pairings), 온양약·행기약의 유무 |
+
+한 처방을 읽은 뒤 구성 본초 두 가지를 골라 비교하고, 다시 원방의 **포제·비율·제형**으로 돌아오면 약재 이름이 실제 배합과 연결됩니다. [기본방 감별표](formulas.md#core-formula-differences) · [본초의 배합별 역할 비교](herb-comparisons.md#same-herb-different-formula).
+
 ## 본초를 읽는 기본 틀
 
 본초는 약재 이름과 효능 목록만으로 이해하기 어렵습니다. **효능(效能)**은 본초가 전통적인 병증·병기를 어떤 방향으로 다루는지 압축한 개념이고, **주치(主治)**는 그 효능을 적용해 온 구체적인 증후 범위입니다. 효능은 현대 약리작용이나 질환명과 같지 않으며, 실제 임상에서는 약재의 기원·약용부위·가공과 배오, 처방 안에서의 역할까지 함께 봅니다.
