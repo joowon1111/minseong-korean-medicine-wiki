@@ -134,6 +134,43 @@
 }
 
 
+/* Compact daily-reading entry, independent of the existing homepage cards. */
+.md-typeset .ms-home-daily-entry {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  width: fit-content;
+  max-width: 100%;
+  min-height: 44px;
+  margin: 0 0 1.1rem;
+  padding: .65rem .8rem;
+  border: 1px solid var(--ms-home-border);
+  border-radius: .55rem;
+  background: var(--ms-home-highlight);
+  text-decoration: none;
+}
+.ms-home-daily-entry > svg { flex: none; }
+.ms-home-daily-entry > span { min-width: 0; }
+.md-typeset .ms-home-daily-entry strong {
+  display: block;
+  font-size: .8rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.md-typeset .ms-home-daily-entry small {
+  display: block;
+  margin-top: .15rem;
+  color: var(--ms-home-description);
+  font-size: .68rem;
+  line-height: 1.65;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+.md-typeset .ms-home-daily-entry:hover { border-color: var(--ms-home-link); }
+@media (forced-colors: active) {
+  .md-typeset .ms-home-daily-entry { border-color: ButtonText; }
+}
+
 /* Daily knowledge card: a small, recurring reading moment on the homepage. */
 .daily-km-card {
   margin: 1.5rem 0 2rem;

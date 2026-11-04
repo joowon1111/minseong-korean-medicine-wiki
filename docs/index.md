@@ -12,6 +12,11 @@ hide:
 </div>
 <p class="km-guide-entry" lang="en"><a href="korean-medicine-guide/"><span class="km-guide-label"><span>Korean Medicine Guide</span> <span class="km-guide-hint">Start here in English</span></span><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a></p>
 </div>
+<a class="ms-home-daily-entry" href="daily-korean-medicine/">
+<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 11h18m-13 5h2m4 0h2"/></svg>
+<span><strong>오늘의 한의학 바로가기</strong><small>하루 한 장·계절의 일력·경혈·본초·상한론·사상의학</small></span>
+<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"/></svg>
+</a>
 <div class="ms-grid">
 <a class="ms-card" href="portal/basics/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14"/></svg> 한의학 기초·의사학</strong><span>기초이론·변증·임상 추론·한의학사</span></a>
 <a class="ms-card" href="classics-reader/"><strong><svg class="ms-card-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1Z"/><path d="M12 6v14M6 9h3m6 0h3M6 12h3m6 0h3"/></svg> 한의학 고전 원문·해석</strong><span>상한론·금궤요략·동의보감·동의수세보원</span></a>
@@ -287,4 +292,3 @@ hide:
   ]
 }
 </script>
-
