@@ -12,7 +12,41 @@ from daily_solar_stories import story_templates, on_page_content
 DOCS = Path(__file__).resolve().parents[1] / "docs"
 
 
+def wrong_term_particles(text, names):
+    """Check explicit Korean term names, optionally followed by their Hanja."""
+    errors = []
+    for name in names:
+        has_final = (ord(name[-1]) - ord("가")) % 28 != 0
+        wrong = "는가를와" if has_final else "은이을과"
+        pattern = rf"(?<![가-힣]){name}(?:\([^()\n]+\))?([{wrong}])(?=\s|[.,!?])"
+        errors.extend(match.group() for match in re.finditer(pattern, text))
+    return errors
+
+
 class DailySolarStories(unittest.TestCase):
+    def test_term_particles_follow_korean_final_consonant(self):
+        stories = sorted((DOCS / "daily-korean-medicine/solar-terms").glob("*.md"))
+        self.assertEqual(len(stories), 24)
+        names = [re.search(r"^# ([가-힣]+)", path.read_text(), re.M)[1] for path in stories]
+        for path in stories:
+            # Ignore metadata and classical block quotations; check explanatory prose.
+            body = path.read_text().split("---", 2)[2]
+            prose = "\n".join(line for line in body.splitlines() if not line.startswith(">"))
+            with self.subTest(path=path.name):
+                self.assertEqual(wrong_term_particles(prose, names), [])
+
+    def test_particle_check_catches_both_final_consonant_cases(self):
+        for name, hanja, correct, incorrect in [
+            ("백로", "白露", "는가를와", "은이을과"),
+            ("입춘", "立春", "은이을과", "는가를와"),
+        ]:
+            for label in (name, f"{name}({hanja})"):
+                for particle in correct:
+                    self.assertEqual(wrong_term_particles(label + particle + " 봅니다.", [name]), [])
+                for particle in incorrect:
+                    self.assertEqual(wrong_term_particles(label + particle + " 봅니다.", [name]), [label + particle])
+        self.assertEqual(wrong_term_particles("백로가족과 입춘이야기", ["백로", "입춘"]), [])
+
     def test_detailed_stories_have_unique_documents_and_hub_links(self):
         hub = (DOCS / "daily-korean-medicine/solar-terms.md").read_text()
         anchors = re.findall(r"^### [^\n]+ — [^\n]+ \{#([a-z-]+)\}", hub, re.M)
