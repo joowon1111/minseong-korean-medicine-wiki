@@ -267,7 +267,9 @@
 /* Keep the portal's left menu limited to its two selected section links. */
 body:has(.acupuncture-portal-page) .md-sidebar--primary a:is(
   [href$="/portal/acupuncture/#_2"],
-  [href$="/portal/acupuncture/#_9"]
+  [href$="/portal/acupuncture/#_9"],
+  [href$="/acupoint-network/standard-atlas/"],
+  [href$="/acupoint-network/3d-map/"]
 ) {
   font-weight: 700;
 }
