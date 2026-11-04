@@ -38504,6 +38504,4831 @@
       "category": "화담·이기·소식",
       "source": "/learning/herbs/#clinical-herbs-48",
       "relatedSource": "/herbs/pinellia/"
+    },
+    {
+      "id": "clinical-herbs-49",
+      "cardId": "herb-jujube-fruit",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "대조·산조인·연자육의 약용 부위 — 옳은 설명을 모두 고른 것은?",
+      "context": "대조·산조인·연자육의 약용 부위을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "대조는 산조의 씨만을 쓰는 본초다.",
+          "correct": false,
+          "reason": "대조는 대추의 열매를 쓰는 본초다."
+        },
+        {
+          "text": "산조인은 대추 열매의 다른 이름이다.",
+          "correct": false,
+          "reason": "산조인은 산조의 씨를 쓰는 본초다."
+        },
+        {
+          "text": "연자육은 연꽃의 씨를 쓰는 본초다.",
+          "correct": true,
+          "reason": "연자육은 연꽃의 씨를 쓰는 본초다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 대조는 대추의 열매를 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/learning/herbs/#clinical-herbs-49"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 대조는 대추의 열매를 쓰는 본초다. ㄴ: 산조인은 산조의 씨를 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/learning/herbs/#clinical-herbs-49"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 대조는 대추의 열매를 쓰는 본초다. ㄷ: 연자육은 연꽃의 씨를 쓰는 본초다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/learning/herbs/#clinical-herbs-49"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 산조인은 산조의 씨를 쓰는 본초다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/learning/herbs/#clinical-herbs-49"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ(수정): 대조는 대추의 열매를 쓰는 본초다. ㄴ(수정): 산조인은 산조의 씨를 쓰는 본초다. ㄷ(옳음): 연자육은 연꽃의 씨를 쓰는 본초다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-jujube-fruit",
+          "source": "/learning/herbs/#clinical-herbs-49"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(수정): 대조는 대추의 열매를 쓰는 본초다. ㄴ(수정): 산조인은 산조의 씨를 쓰는 본초다. ㄷ(옳음): 연자육은 연꽃의 씨를 쓰는 본초다.",
+      "discriminator": "대조는 대추의 열매를 쓰는 본초다. 산조인은 산조의 씨를 쓰는 본초다. 연자육은 연꽃의 씨를 쓰는 본초다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "대조는 산조의 씨만을 쓰는 본초다."
+          ],
+          [
+            "ㄴ",
+            "산조인은 대추 열매의 다른 이름이다."
+          ],
+          [
+            "ㄷ",
+            "연자육은 연꽃의 씨를 쓰는 본초다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "대추·대조(大棗) 상세",
+          "url": "/herbs/jujube-fruit/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        },
+        {
+          "title": "산조인(酸棗仁) 상세",
+          "url": "/herbs/ziziphus-seed/"
+        },
+        {
+          "title": "연자육·연자(蓮子肉) 상세",
+          "url": "/herbs/lotus-seed/"
+        }
+      ],
+      "relatedSource": "/herbs/jujube-fruit/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-49"
+    },
+    {
+      "id": "clinical-herbs-50",
+      "cardId": "herb-honeysuckle",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "금은화·연교·포공영의 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "금은화·연교·포공영의 역할을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "금은화와 연교는 회양구역만을 목적으로 배합한다.",
+          "correct": false,
+          "reason": "금은화와 연교는 청열해독과 풍열의 문맥에서 함께 비교한다."
+        },
+        {
+          "text": "연교는 소종산결의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "연교는 소종산결의 역할을 함께 살핀다."
+        },
+        {
+          "text": "포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다.",
+          "correct": true,
+          "reason": "포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-honeysuckle",
+          "source": "/learning/herbs/#clinical-herbs-50"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 금은화와 연교는 청열해독과 풍열의 문맥에서 함께 비교한다. ㄴ: 연교는 소종산결의 역할을 함께 살핀다. ㄷ: 포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-honeysuckle",
+          "source": "/learning/herbs/#clinical-herbs-50"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ(수정): 금은화와 연교는 청열해독과 풍열의 문맥에서 함께 비교한다. ㄴ(옳음): 연교는 소종산결의 역할을 함께 살핀다. ㄷ(옳음): 포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-honeysuckle",
+          "source": "/learning/herbs/#clinical-herbs-50"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 금은화와 연교는 청열해독과 풍열의 문맥에서 함께 비교한다. ㄴ: 연교는 소종산결의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-honeysuckle",
+          "source": "/learning/herbs/#clinical-herbs-50"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 금은화와 연교는 청열해독과 풍열의 문맥에서 함께 비교한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-honeysuckle",
+          "source": "/learning/herbs/#clinical-herbs-50"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(수정): 금은화와 연교는 청열해독과 풍열의 문맥에서 함께 비교한다. ㄴ(옳음): 연교는 소종산결의 역할을 함께 살핀다. ㄷ(옳음): 포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다.",
+      "discriminator": "금은화와 연교는 청열해독과 풍열의 문맥에서 함께 비교한다. 연교는 소종산결의 역할을 함께 살핀다. 포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "금은화와 연교는 회양구역만을 목적으로 배합한다."
+          ],
+          [
+            "ㄴ",
+            "연교는 소종산결의 역할을 함께 살핀다."
+          ],
+          [
+            "ㄷ",
+            "포공영은 국소 종통·유옹과 통림의 문맥을 함께 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "금은화(金銀花) 상세",
+          "url": "/herbs/honeysuckle/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/honeysuckle/",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-50"
+    },
+    {
+      "id": "clinical-herbs-51",
+      "cardId": "herb-mulberry-leaf",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "상엽·상백피의 부위와 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "상엽·상백피의 부위와 역할을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "상엽은 뽕나무의 뿌리껍질을 쓰는 본초다.",
+          "correct": false,
+          "reason": "상엽은 뽕나무의 잎을 쓰는 본초다."
+        },
+        {
+          "text": "상백피는 뽕나무의 뿌리껍질을 쓰는 본초다.",
+          "correct": true,
+          "reason": "상백피는 뽕나무의 뿌리껍질을 쓰는 본초다."
+        },
+        {
+          "text": "상엽과 상백피는 부위와 전통 효능이 모두 동일하다.",
+          "correct": false,
+          "reason": "상엽은 소산풍열·청폐윤조, 상백피는 사폐평천·이수소종을 중심으로 비교한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 상엽은 소산풍열·청폐윤조, 상백피는 사폐평천·이수소종을 중심으로 비교한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mulberry-leaf",
+          "source": "/learning/herbs/#clinical-herbs-51"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 상엽은 뽕나무의 잎을 쓰는 본초다. ㄴ: 상백피는 뽕나무의 뿌리껍질을 쓰는 본초다. ㄷ: 상엽은 소산풍열·청폐윤조, 상백피는 사폐평천·이수소종을 중심으로 비교한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mulberry-leaf",
+          "source": "/learning/herbs/#clinical-herbs-51"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ(수정): 상엽은 뽕나무의 잎을 쓰는 본초다. ㄴ(옳음): 상백피는 뽕나무의 뿌리껍질을 쓰는 본초다. ㄷ(수정): 상엽은 소산풍열·청폐윤조, 상백피는 사폐평천·이수소종을 중심으로 비교한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-mulberry-leaf",
+          "source": "/learning/herbs/#clinical-herbs-51"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 상엽은 뽕나무의 잎을 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mulberry-leaf",
+          "source": "/learning/herbs/#clinical-herbs-51"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 상엽은 뽕나무의 잎을 쓰는 본초다. ㄷ: 상엽은 소산풍열·청폐윤조, 상백피는 사폐평천·이수소종을 중심으로 비교한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mulberry-leaf",
+          "source": "/learning/herbs/#clinical-herbs-51"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(수정): 상엽은 뽕나무의 잎을 쓰는 본초다. ㄴ(옳음): 상백피는 뽕나무의 뿌리껍질을 쓰는 본초다. ㄷ(수정): 상엽은 소산풍열·청폐윤조, 상백피는 사폐평천·이수소종을 중심으로 비교한다.",
+      "discriminator": "상엽은 뽕나무의 잎을 쓰는 본초다. 상백피는 뽕나무의 뿌리껍질을 쓰는 본초다. 상엽은 소산풍열·청폐윤조, 상백피는 사폐평천·이수소종을 중심으로 비교한다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "상엽은 뽕나무의 뿌리껍질을 쓰는 본초다."
+          ],
+          [
+            "ㄴ",
+            "상백피는 뽕나무의 뿌리껍질을 쓰는 본초다."
+          ],
+          [
+            "ㄷ",
+            "상엽과 상백피는 부위와 전통 효능이 모두 동일하다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "상엽(桑葉) 상세",
+          "url": "/herbs/mulberry-leaf/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        },
+        {
+          "title": "상백피(桑白皮) 상세",
+          "url": "/herbs/mulberry-root-bark/"
+        }
+      ],
+      "relatedSource": "/herbs/mulberry-leaf/",
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-51"
+    },
+    {
+      "id": "clinical-herbs-52",
+      "cardId": "herb-mint",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "박하·우방자·상엽의 풍열 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "박하·우방자·상엽의 풍열 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "박하는 소산풍열·청리두목·이인의 역할을 살핀다.",
+          "correct": true,
+          "reason": "박하는 소산풍열·청리두목·이인의 역할을 살핀다."
+        },
+        {
+          "text": "우방자는 보간신·삽정만을 목적으로 쓴다.",
+          "correct": false,
+          "reason": "우방자는 선폐이인·투진·산종의 역할을 살핀다."
+        },
+        {
+          "text": "상엽은 풍열과 폐조를 함께 살피는 비교 대상이다.",
+          "correct": true,
+          "reason": "상엽은 풍열과 폐조를 함께 살피는 비교 대상이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ(옳음): 박하는 소산풍열·청리두목·이인의 역할을 살핀다. ㄴ(수정): 우방자는 선폐이인·투진·산종의 역할을 살핀다. ㄷ(옳음): 상엽은 풍열과 폐조를 함께 살피는 비교 대상이다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-mint",
+          "source": "/learning/herbs/#clinical-herbs-52"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 박하는 소산풍열·청리두목·이인의 역할을 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mint",
+          "source": "/learning/herbs/#clinical-herbs-52"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 우방자는 선폐이인·투진·산종의 역할을 살핀다. ㄷ: 상엽은 풍열과 폐조를 함께 살피는 비교 대상이다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mint",
+          "source": "/learning/herbs/#clinical-herbs-52"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 박하는 소산풍열·청리두목·이인의 역할을 살핀다. ㄴ: 우방자는 선폐이인·투진·산종의 역할을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mint",
+          "source": "/learning/herbs/#clinical-herbs-52"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 우방자는 선폐이인·투진·산종의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-mint",
+          "source": "/learning/herbs/#clinical-herbs-52"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(옳음): 박하는 소산풍열·청리두목·이인의 역할을 살핀다. ㄴ(수정): 우방자는 선폐이인·투진·산종의 역할을 살핀다. ㄷ(옳음): 상엽은 풍열과 폐조를 함께 살피는 비교 대상이다.",
+      "discriminator": "박하는 소산풍열·청리두목·이인의 역할을 살핀다. 우방자는 선폐이인·투진·산종의 역할을 살핀다. 상엽은 풍열과 폐조를 함께 살피는 비교 대상이다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "박하는 소산풍열·청리두목·이인의 역할을 살핀다."
+          ],
+          [
+            "ㄴ",
+            "우방자는 보간신·삽정만을 목적으로 쓴다."
+          ],
+          [
+            "ㄷ",
+            "상엽은 풍열과 폐조를 함께 살피는 비교 대상이다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "박하(薄荷) 상세",
+          "url": "/herbs/mint/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/mint/",
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-52"
+    },
+    {
+      "id": "clinical-herbs-53",
+      "cardId": "herb-bupleurum",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "시호·향부자의 소간 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "시호·향부자의 소간 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다.",
+          "correct": true,
+          "reason": "시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다."
+        },
+        {
+          "text": "향부자는 청열윤폐만을 중심으로 쓴다.",
+          "correct": false,
+          "reason": "향부자는 소간이기·조경지통의 역할을 살핀다."
+        },
+        {
+          "text": "시호와 향부자는 효능이 같아 같은 처방에 함께 넣을 수 없다.",
+          "correct": false,
+          "reason": "시호와 향부자는 같은 처방에서 소간과 기체 조절의 역할을 나눌 수 있다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 향부자는 소간이기·조경지통의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-53"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ(옳음): 시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다. ㄴ(수정): 향부자는 소간이기·조경지통의 역할을 살핀다. ㄷ(수정): 시호와 향부자는 같은 처방에서 소간과 기체 조절의 역할을 나눌 수 있다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-53"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다. ㄴ: 향부자는 소간이기·조경지통의 역할을 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-53"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다. ㄷ: 시호와 향부자는 같은 처방에서 소간과 기체 조절의 역할을 나눌 수 있다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-53"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 시호와 향부자는 같은 처방에서 소간과 기체 조절의 역할을 나눌 수 있다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-53"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(옳음): 시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다. ㄴ(수정): 향부자는 소간이기·조경지통의 역할을 살핀다. ㄷ(수정): 시호와 향부자는 같은 처방에서 소간과 기체 조절의 역할을 나눌 수 있다.",
+      "discriminator": "시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다. 향부자는 소간이기·조경지통의 역할을 살핀다. 시호와 향부자는 같은 처방에서 소간과 기체 조절의 역할을 나눌 수 있다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "시호는 화해퇴열·소간해울·승거양기의 역할을 살핀다."
+          ],
+          [
+            "ㄴ",
+            "향부자는 청열윤폐만을 중심으로 쓴다."
+          ],
+          [
+            "ㄷ",
+            "시호와 향부자는 효능이 같아 같은 처방에 함께 넣을 수 없다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "시호(柴胡) 상세",
+          "url": "/herbs/bupleurum/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/bupleurum/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-53"
+    },
+    {
+      "id": "clinical-herbs-54",
+      "cardId": "herb-magnolia-bark",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "후박·지실·목향의 기체 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "후박·지실·목향의 기체 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "후박은 조습·하기·제만을 중심으로 살핀다.",
+          "correct": true,
+          "reason": "후박은 조습·하기·제만을 중심으로 살핀다."
+        },
+        {
+          "text": "지실은 파기소적·화담산비를 중심으로 살핀다.",
+          "correct": true,
+          "reason": "지실은 파기소적·화담산비를 중심으로 살핀다."
+        },
+        {
+          "text": "목향은 청열윤폐·량혈을 중심으로 살핀다.",
+          "correct": false,
+          "reason": "목향은 행기지통·건비의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 후박은 조습·하기·제만을 중심으로 살핀다. ㄴ: 지실은 파기소적·화담산비를 중심으로 살핀다. ㄷ: 목향은 행기지통·건비의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-54"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 지실은 파기소적·화담산비를 중심으로 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-54"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄷ: 목향은 행기지통·건비의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-54"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 후박은 조습·하기·제만을 중심으로 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-54"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ(옳음): 후박은 조습·하기·제만을 중심으로 살핀다. ㄴ(옳음): 지실은 파기소적·화담산비를 중심으로 살핀다. ㄷ(수정): 목향은 행기지통·건비의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-54"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(옳음): 후박은 조습·하기·제만을 중심으로 살핀다. ㄴ(옳음): 지실은 파기소적·화담산비를 중심으로 살핀다. ㄷ(수정): 목향은 행기지통·건비의 역할을 함께 살핀다.",
+      "discriminator": "후박은 조습·하기·제만을 중심으로 살핀다. 지실은 파기소적·화담산비를 중심으로 살핀다. 목향은 행기지통·건비의 역할을 함께 살핀다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "후박은 조습·하기·제만을 중심으로 살핀다."
+          ],
+          [
+            "ㄴ",
+            "지실은 파기소적·화담산비를 중심으로 살핀다."
+          ],
+          [
+            "ㄷ",
+            "목향은 청열윤폐·량혈을 중심으로 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "후박(厚朴) 상세",
+          "url": "/herbs/magnolia-bark/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/magnolia-bark/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-54"
+    },
+    {
+      "id": "clinical-herbs-55",
+      "cardId": "herb-amomum",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "사인·진피·향부자의 구분 — 옳은 설명을 모두 고른 것은?",
+      "context": "사인·진피·향부자의 구분을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "사인은 화습·행기·온중의 역할을 살핀다.",
+          "correct": true,
+          "reason": "사인은 화습·행기·온중의 역할을 살핀다."
+        },
+        {
+          "text": "진피는 이기와 조습화담의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "진피는 이기와 조습화담의 역할을 함께 살핀다."
+        },
+        {
+          "text": "향부자는 간울·월경과 연결되는 기체를 중심으로 비교한다.",
+          "correct": true,
+          "reason": "향부자는 간울·월경과 연결되는 기체를 중심으로 비교한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 진피는 이기와 조습화담의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-amomum",
+          "source": "/learning/herbs/#clinical-herbs-55"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 사인은 화습·행기·온중의 역할을 살핀다. ㄴ: 진피는 이기와 조습화담의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-amomum",
+          "source": "/learning/herbs/#clinical-herbs-55"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ(옳음): 사인은 화습·행기·온중의 역할을 살핀다. ㄴ(옳음): 진피는 이기와 조습화담의 역할을 함께 살핀다. ㄷ(옳음): 향부자는 간울·월경과 연결되는 기체를 중심으로 비교한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-amomum",
+          "source": "/learning/herbs/#clinical-herbs-55"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 사인은 화습·행기·온중의 역할을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-amomum",
+          "source": "/learning/herbs/#clinical-herbs-55"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄷ: 향부자는 간울·월경과 연결되는 기체를 중심으로 비교한다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-amomum",
+          "source": "/learning/herbs/#clinical-herbs-55"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(옳음): 사인은 화습·행기·온중의 역할을 살핀다. ㄴ(옳음): 진피는 이기와 조습화담의 역할을 함께 살핀다. ㄷ(옳음): 향부자는 간울·월경과 연결되는 기체를 중심으로 비교한다.",
+      "discriminator": "사인은 화습·행기·온중의 역할을 살핀다. 진피는 이기와 조습화담의 역할을 함께 살핀다. 향부자는 간울·월경과 연결되는 기체를 중심으로 비교한다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "사인은 화습·행기·온중의 역할을 살핀다."
+          ],
+          [
+            "ㄴ",
+            "진피는 이기와 조습화담의 역할을 함께 살핀다."
+          ],
+          [
+            "ㄷ",
+            "향부자는 간울·월경과 연결되는 기체를 중심으로 비교한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "사인(砂仁) 상세",
+          "url": "/herbs/amomum/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/amomum/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-55"
+    },
+    {
+      "id": "clinical-herbs-56",
+      "cardId": "herb-rhubarb",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "대황·마자인·육종용의 통변 방향 — 옳은 설명을 모두 고른 것은?",
+      "context": "대황·마자인·육종용의 통변 방향을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "대황은 양심안신을 통해서만 통변한다.",
+          "correct": false,
+          "reason": "대황은 실열적체에서 공하·사열의 역할을 살핀다."
+        },
+        {
+          "text": "마자인은 강한 온양작용만으로 통변한다.",
+          "correct": false,
+          "reason": "마자인은 장조에서 윤장통변의 역할을 살핀다."
+        },
+        {
+          "text": "육종용은 온양·익정과 윤장의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "육종용은 온양·익정과 윤장의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ(수정): 대황은 실열적체에서 공하·사열의 역할을 살핀다. ㄴ(수정): 마자인은 장조에서 윤장통변의 역할을 살핀다. ㄷ(옳음): 육종용은 온양·익정과 윤장의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-56"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 대황은 실열적체에서 공하·사열의 역할을 살핀다. ㄴ: 마자인은 장조에서 윤장통변의 역할을 살핀다. ㄷ: 육종용은 온양·익정과 윤장의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-56"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 마자인은 장조에서 윤장통변의 역할을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-56"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 대황은 실열적체에서 공하·사열의 역할을 살핀다. ㄴ: 마자인은 장조에서 윤장통변의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-56"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 대황은 실열적체에서 공하·사열의 역할을 살핀다. ㄷ: 육종용은 온양·익정과 윤장의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-56"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(수정): 대황은 실열적체에서 공하·사열의 역할을 살핀다. ㄴ(수정): 마자인은 장조에서 윤장통변의 역할을 살핀다. ㄷ(옳음): 육종용은 온양·익정과 윤장의 역할을 함께 살핀다.",
+      "discriminator": "대황은 실열적체에서 공하·사열의 역할을 살핀다. 마자인은 장조에서 윤장통변의 역할을 살핀다. 육종용은 온양·익정과 윤장의 역할을 함께 살핀다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "대황은 양심안신을 통해서만 통변한다."
+          ],
+          [
+            "ㄴ",
+            "마자인은 강한 온양작용만으로 통변한다."
+          ],
+          [
+            "ㄷ",
+            "육종용은 온양·익정과 윤장의 역할을 함께 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "대황(大黃) 상세",
+          "url": "/herbs/rhubarb/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/rhubarb/",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-56"
+    },
+    {
+      "id": "clinical-herbs-57",
+      "cardId": "herb-hawthorn",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "산사·맥아·나복자의 소식 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "산사·맥아·나복자의 소식 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "산사는 수면의 허번만을 다루는 안신약이다.",
+          "correct": false,
+          "reason": "산사는 육류·유지류 식적과 행기산어의 역할을 함께 살핀다."
+        },
+        {
+          "text": "맥아는 곡식 적체와 건비개위를 중심으로 살핀다.",
+          "correct": true,
+          "reason": "맥아는 곡식 적체와 건비개위를 중심으로 살핀다."
+        },
+        {
+          "text": "나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다.",
+          "correct": true,
+          "reason": "나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 산사는 육류·유지류 식적과 행기산어의 역할을 함께 살핀다. ㄷ: 나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-57"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 맥아는 곡식 적체와 건비개위를 중심으로 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-57"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ(수정): 산사는 육류·유지류 식적과 행기산어의 역할을 함께 살핀다. ㄴ(옳음): 맥아는 곡식 적체와 건비개위를 중심으로 살핀다. ㄷ(옳음): 나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-57"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-57"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 산사는 육류·유지류 식적과 행기산어의 역할을 함께 살핀다. ㄴ: 맥아는 곡식 적체와 건비개위를 중심으로 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-57"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(수정): 산사는 육류·유지류 식적과 행기산어의 역할을 함께 살핀다. ㄴ(옳음): 맥아는 곡식 적체와 건비개위를 중심으로 살핀다. ㄷ(옳음): 나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다.",
+      "discriminator": "산사는 육류·유지류 식적과 행기산어의 역할을 함께 살핀다. 맥아는 곡식 적체와 건비개위를 중심으로 살핀다. 나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "산사는 수면의 허번만을 다루는 안신약이다."
+          ],
+          [
+            "ㄴ",
+            "맥아는 곡식 적체와 건비개위를 중심으로 살핀다."
+          ],
+          [
+            "ㄷ",
+            "나복자는 식적에 기체·담과 상역이 겹치는지를 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "산사(山楂) 상세",
+          "url": "/herbs/hawthorn/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/hawthorn/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-57"
+    },
+    {
+      "id": "clinical-herbs-58",
+      "cardId": "herb-notopterygium",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "강활·독활·방풍의 풍한습 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "강활·독활·방풍의 풍한습 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "강활은 청열윤폐·양심안신만을 중심으로 쓴다.",
+          "correct": false,
+          "reason": "강활은 외감과 상부·항배부 풍한습의 배합에서 살핀다."
+        },
+        {
+          "text": "독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다.",
+          "correct": true,
+          "reason": "독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다."
+        },
+        {
+          "text": "방풍은 보익간신·삽정만을 중심으로 쓴다.",
+          "correct": false,
+          "reason": "방풍은 거풍해표·승습지통의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다. ㄷ: 방풍은 거풍해표·승습지통의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-notopterygium",
+          "source": "/learning/herbs/#clinical-herbs-58"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 강활은 외감과 상부·항배부 풍한습의 배합에서 살핀다. ㄴ: 독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-notopterygium",
+          "source": "/learning/herbs/#clinical-herbs-58"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 강활은 외감과 상부·항배부 풍한습의 배합에서 살핀다. ㄴ: 독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다. ㄷ: 방풍은 거풍해표·승습지통의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-notopterygium",
+          "source": "/learning/herbs/#clinical-herbs-58"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 강활은 외감과 상부·항배부 풍한습의 배합에서 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-notopterygium",
+          "source": "/learning/herbs/#clinical-herbs-58"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ(수정): 강활은 외감과 상부·항배부 풍한습의 배합에서 살핀다. ㄴ(옳음): 독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다. ㄷ(수정): 방풍은 거풍해표·승습지통의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-notopterygium",
+          "source": "/learning/herbs/#clinical-herbs-58"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(수정): 강활은 외감과 상부·항배부 풍한습의 배합에서 살핀다. ㄴ(옳음): 독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다. ㄷ(수정): 방풍은 거풍해표·승습지통의 역할을 함께 살핀다.",
+      "discriminator": "강활은 외감과 상부·항배부 풍한습의 배합에서 살핀다. 독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다. 방풍은 거풍해표·승습지통의 역할을 함께 살핀다.",
+      "nearestWrong": 3,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "강활은 청열윤폐·양심안신만을 중심으로 쓴다."
+          ],
+          [
+            "ㄴ",
+            "독활은 하부·요슬부 풍한습과 만성 비증의 문맥에서 살핀다."
+          ],
+          [
+            "ㄷ",
+            "방풍은 보익간신·삽정만을 중심으로 쓴다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "강활(羌活) 상세",
+          "url": "/herbs/notopterygium/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/notopterygium/",
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-58"
+    },
+    {
+      "id": "clinical-herbs-59",
+      "cardId": "herb-peach-kernel",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "도인·홍화·천궁의 활혈 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "도인·홍화·천궁의 활혈 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "도인은 활혈거어에 윤장의 역할을 겸한다.",
+          "correct": true,
+          "reason": "도인은 활혈거어에 윤장의 역할을 겸한다."
+        },
+        {
+          "text": "홍화는 온중지구만을 담당하는 본초다.",
+          "correct": false,
+          "reason": "홍화는 활혈통경·산어지통을 중심으로 살핀다."
+        },
+        {
+          "text": "천궁은 활혈행기·거풍지통의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "천궁은 활혈행기·거풍지통의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ(옳음): 도인은 활혈거어에 윤장의 역할을 겸한다. ㄴ(수정): 홍화는 활혈통경·산어지통을 중심으로 살핀다. ㄷ(옳음): 천궁은 활혈행기·거풍지통의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-peach-kernel",
+          "source": "/learning/herbs/#clinical-herbs-59"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 홍화는 활혈통경·산어지통을 중심으로 살핀다. ㄷ: 천궁은 활혈행기·거풍지통의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-peach-kernel",
+          "source": "/learning/herbs/#clinical-herbs-59"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 홍화는 활혈통경·산어지통을 중심으로 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-peach-kernel",
+          "source": "/learning/herbs/#clinical-herbs-59"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 도인은 활혈거어에 윤장의 역할을 겸한다. ㄴ: 홍화는 활혈통경·산어지통을 중심으로 살핀다. ㄷ: 천궁은 활혈행기·거풍지통의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-peach-kernel",
+          "source": "/learning/herbs/#clinical-herbs-59"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄷ: 천궁은 활혈행기·거풍지통의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-peach-kernel",
+          "source": "/learning/herbs/#clinical-herbs-59"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(옳음): 도인은 활혈거어에 윤장의 역할을 겸한다. ㄴ(수정): 홍화는 활혈통경·산어지통을 중심으로 살핀다. ㄷ(옳음): 천궁은 활혈행기·거풍지통의 역할을 함께 살핀다.",
+      "discriminator": "도인은 활혈거어에 윤장의 역할을 겸한다. 홍화는 활혈통경·산어지통을 중심으로 살핀다. 천궁은 활혈행기·거풍지통의 역할을 함께 살핀다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "도인은 활혈거어에 윤장의 역할을 겸한다."
+          ],
+          [
+            "ㄴ",
+            "홍화는 온중지구만을 담당하는 본초다."
+          ],
+          [
+            "ㄷ",
+            "천궁은 활혈행기·거풍지통의 역할을 함께 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "도인(桃仁) 상세",
+          "url": "/herbs/peach-kernel/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/peach-kernel/",
+      "kind": "clinical",
+      "category": "활혈·거풍습",
+      "source": "/learning/herbs/#clinical-herbs-59"
+    },
+    {
+      "id": "clinical-herbs-60",
+      "cardId": "herb-salvia",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "단삼·적작약·목단피의 혈분 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "단삼·적작약·목단피의 혈분 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다."
+        },
+        {
+          "text": "적작약은 회양구역만을 중심으로 살핀다.",
+          "correct": false,
+          "reason": "적작약은 청열량혈·산어지통의 역할을 살핀다."
+        },
+        {
+          "text": "목단피는 발한해표만을 담당하는 본초다.",
+          "correct": false,
+          "reason": "목단피는 청열량혈과 활혈산어의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 목단피는 청열량혈과 활혈산어의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-salvia",
+          "source": "/learning/herbs/#clinical-herbs-60"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다. ㄴ: 적작약은 청열량혈·산어지통의 역할을 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-salvia",
+          "source": "/learning/herbs/#clinical-herbs-60"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다. ㄷ: 목단피는 청열량혈과 활혈산어의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-salvia",
+          "source": "/learning/herbs/#clinical-herbs-60"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 적작약은 청열량혈·산어지통의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-salvia",
+          "source": "/learning/herbs/#clinical-herbs-60"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ(옳음): 단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다. ㄴ(수정): 적작약은 청열량혈·산어지통의 역할을 살핀다. ㄷ(수정): 목단피는 청열량혈과 활혈산어의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-salvia",
+          "source": "/learning/herbs/#clinical-herbs-60"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(옳음): 단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다. ㄴ(수정): 적작약은 청열량혈·산어지통의 역할을 살핀다. ㄷ(수정): 목단피는 청열량혈과 활혈산어의 역할을 함께 살핀다.",
+      "discriminator": "단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다. 적작약은 청열량혈·산어지통의 역할을 살핀다. 목단피는 청열량혈과 활혈산어의 역할을 함께 살핀다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "단삼은 활혈거어와 량혈·청심의 역할을 함께 살핀다."
+          ],
+          [
+            "ㄴ",
+            "적작약은 회양구역만을 중심으로 살핀다."
+          ],
+          [
+            "ㄷ",
+            "목단피는 발한해표만을 담당하는 본초다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "단삼(丹蔘) 상세",
+          "url": "/herbs/salvia/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        },
+        {
+          "title": "적작약(赤芍藥) 상세",
+          "url": "/herbs/red-peony/"
+        },
+        {
+          "title": "목단피(牡丹皮) 상세",
+          "url": "/herbs/moutan/"
+        }
+      ],
+      "relatedSource": "/herbs/salvia/",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-60"
+    },
+    {
+      "id": "clinical-herbs-61",
+      "cardId": "herb-eucommia",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "두충·속단·우슬의 근골 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "두충·속단·우슬의 근골 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "두충은 보간신·강근골의 역할을 살핀다.",
+          "correct": true,
+          "reason": "두충은 보간신·강근골의 역할을 살핀다."
+        },
+        {
+          "text": "속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다.",
+          "correct": true,
+          "reason": "속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다."
+        },
+        {
+          "text": "우슬은 기를 오직 위로 끌어올리는 승양약이다.",
+          "correct": false,
+          "reason": "우슬은 활혈·강근골과 인혈하행의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 두충은 보간신·강근골의 역할을 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-eucommia",
+          "source": "/learning/herbs/#clinical-herbs-61"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 두충은 보간신·강근골의 역할을 살핀다. ㄷ: 우슬은 활혈·강근골과 인혈하행의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-eucommia",
+          "source": "/learning/herbs/#clinical-herbs-61"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다. ㄷ: 우슬은 활혈·강근골과 인혈하행의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-eucommia",
+          "source": "/learning/herbs/#clinical-herbs-61"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ(옳음): 두충은 보간신·강근골의 역할을 살핀다. ㄴ(옳음): 속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다. ㄷ(수정): 우슬은 활혈·강근골과 인혈하행의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-eucommia",
+          "source": "/learning/herbs/#clinical-herbs-61"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 두충은 보간신·강근골의 역할을 살핀다. ㄴ: 속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다. ㄷ: 우슬은 활혈·강근골과 인혈하행의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-eucommia",
+          "source": "/learning/herbs/#clinical-herbs-61"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(옳음): 두충은 보간신·강근골의 역할을 살핀다. ㄴ(옳음): 속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다. ㄷ(수정): 우슬은 활혈·강근골과 인혈하행의 역할을 함께 살핀다.",
+      "discriminator": "두충은 보간신·강근골의 역할을 살핀다. 속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다. 우슬은 활혈·강근골과 인혈하행의 역할을 함께 살핀다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "두충은 보간신·강근골의 역할을 살핀다."
+          ],
+          [
+            "ㄴ",
+            "속단은 보간신·강근골과 손상 후 회복의 전통 배합에서 살핀다."
+          ],
+          [
+            "ㄷ",
+            "우슬은 기를 오직 위로 끌어올리는 승양약이다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "두충(杜仲) 상세",
+          "url": "/herbs/eucommia/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/eucommia/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-61"
+    },
+    {
+      "id": "clinical-herbs-62",
+      "cardId": "herb-drynaria",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "골쇄보·두충의 약용 부위 — 옳은 설명을 모두 고른 것은?",
+      "context": "골쇄보·두충의 약용 부위을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "골쇄보는 뿌리줄기를 쓰는 본초다.",
+          "correct": true,
+          "reason": "골쇄보는 뿌리줄기를 쓰는 본초다."
+        },
+        {
+          "text": "두충은 나무껍질을 쓰는 본초다.",
+          "correct": true,
+          "reason": "두충은 나무껍질을 쓰는 본초다."
+        },
+        {
+          "text": "두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다.",
+          "correct": true,
+          "reason": "두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 골쇄보는 뿌리줄기를 쓰는 본초다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-drynaria",
+          "source": "/learning/herbs/#clinical-herbs-62"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 두충은 나무껍질을 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-drynaria",
+          "source": "/learning/herbs/#clinical-herbs-62"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄷ: 두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-drynaria",
+          "source": "/learning/herbs/#clinical-herbs-62"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ(옳음): 골쇄보는 뿌리줄기를 쓰는 본초다. ㄴ(옳음): 두충은 나무껍질을 쓰는 본초다. ㄷ(옳음): 두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-drynaria",
+          "source": "/learning/herbs/#clinical-herbs-62"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 골쇄보는 뿌리줄기를 쓰는 본초다. ㄷ: 두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-drynaria",
+          "source": "/learning/herbs/#clinical-herbs-62"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(옳음): 골쇄보는 뿌리줄기를 쓰는 본초다. ㄴ(옳음): 두충은 나무껍질을 쓰는 본초다. ㄷ(옳음): 두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다.",
+      "discriminator": "골쇄보는 뿌리줄기를 쓰는 본초다. 두충은 나무껍질을 쓰는 본초다. 두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "골쇄보는 뿌리줄기를 쓰는 본초다."
+          ],
+          [
+            "ㄴ",
+            "두충은 나무껍질을 쓰는 본초다."
+          ],
+          [
+            "ㄷ",
+            "두 본초를 비교할 때 약용 부위와 근골 배합의 역할을 함께 확인한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "골쇄보(骨碎補) 상세",
+          "url": "/herbs/drynaria/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        },
+        {
+          "title": "두충(杜仲) 상세",
+          "url": "/herbs/eucommia/"
+        }
+      ],
+      "relatedSource": "/herbs/drynaria/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-62"
+    },
+    {
+      "id": "clinical-herbs-63",
+      "cardId": "herb-ophiopogon",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "맥문동·천문동·백합의 양음 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "맥문동·천문동·백합의 양음 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "맥문동은 강한 공하만을 중심으로 살핀다.",
+          "correct": false,
+          "reason": "맥문동은 폐·위의 음과 생진·윤폐를 중심으로 살핀다."
+        },
+        {
+          "text": "천문동은 회양구역만을 중심으로 살핀다.",
+          "correct": false,
+          "reason": "천문동은 폐·신의 음과 윤조를 중심으로 살핀다."
+        },
+        {
+          "text": "백합은 양음윤폐에 청심안신을 겸한다.",
+          "correct": true,
+          "reason": "백합은 양음윤폐에 청심안신을 겸한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 맥문동은 폐·위의 음과 생진·윤폐를 중심으로 살핀다. ㄷ: 백합은 양음윤폐에 청심안신을 겸한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-63"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 천문동은 폐·신의 음과 윤조를 중심으로 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-63"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 맥문동은 폐·위의 음과 생진·윤폐를 중심으로 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-63"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ(수정): 맥문동은 폐·위의 음과 생진·윤폐를 중심으로 살핀다. ㄴ(수정): 천문동은 폐·신의 음과 윤조를 중심으로 살핀다. ㄷ(옳음): 백합은 양음윤폐에 청심안신을 겸한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-63"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 맥문동은 폐·위의 음과 생진·윤폐를 중심으로 살핀다. ㄴ: 천문동은 폐·신의 음과 윤조를 중심으로 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-63"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(수정): 맥문동은 폐·위의 음과 생진·윤폐를 중심으로 살핀다. ㄴ(수정): 천문동은 폐·신의 음과 윤조를 중심으로 살핀다. ㄷ(옳음): 백합은 양음윤폐에 청심안신을 겸한다.",
+      "discriminator": "맥문동은 폐·위의 음과 생진·윤폐를 중심으로 살핀다. 천문동은 폐·신의 음과 윤조를 중심으로 살핀다. 백합은 양음윤폐에 청심안신을 겸한다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "맥문동은 강한 공하만을 중심으로 살핀다."
+          ],
+          [
+            "ㄴ",
+            "천문동은 회양구역만을 중심으로 살핀다."
+          ],
+          [
+            "ㄷ",
+            "백합은 양음윤폐에 청심안신을 겸한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "맥문동(麥門冬) 상세",
+          "url": "/herbs/ophiopogon/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/ophiopogon/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-63"
+    },
+    {
+      "id": "clinical-herbs-64",
+      "cardId": "herb-polygala",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "원지·산조인·백자인의 안신 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "원지·산조인·백자인의 안신 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "원지는 발한해표만을 목적으로 쓴다.",
+          "correct": false,
+          "reason": "원지는 교통심신·안신익지의 역할을 살핀다."
+        },
+        {
+          "text": "산조인은 양심안신과 허번불면의 문맥에서 살핀다.",
+          "correct": true,
+          "reason": "산조인은 양심안신과 허번불면의 문맥에서 살핀다."
+        },
+        {
+          "text": "백자인은 양심안신과 윤장의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "백자인은 양심안신과 윤장의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 원지는 교통심신·안신익지의 역할을 살핀다. ㄴ: 산조인은 양심안신과 허번불면의 문맥에서 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-polygala",
+          "source": "/learning/herbs/#clinical-herbs-64"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 원지는 교통심신·안신익지의 역할을 살핀다. ㄷ: 백자인은 양심안신과 윤장의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-polygala",
+          "source": "/learning/herbs/#clinical-herbs-64"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 산조인은 양심안신과 허번불면의 문맥에서 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-polygala",
+          "source": "/learning/herbs/#clinical-herbs-64"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ(수정): 원지는 교통심신·안신익지의 역할을 살핀다. ㄴ(옳음): 산조인은 양심안신과 허번불면의 문맥에서 살핀다. ㄷ(옳음): 백자인은 양심안신과 윤장의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-polygala",
+          "source": "/learning/herbs/#clinical-herbs-64"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 백자인은 양심안신과 윤장의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-polygala",
+          "source": "/learning/herbs/#clinical-herbs-64"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(수정): 원지는 교통심신·안신익지의 역할을 살핀다. ㄴ(옳음): 산조인은 양심안신과 허번불면의 문맥에서 살핀다. ㄷ(옳음): 백자인은 양심안신과 윤장의 역할을 함께 살핀다.",
+      "discriminator": "원지는 교통심신·안신익지의 역할을 살핀다. 산조인은 양심안신과 허번불면의 문맥에서 살핀다. 백자인은 양심안신과 윤장의 역할을 함께 살핀다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "원지는 발한해표만을 목적으로 쓴다."
+          ],
+          [
+            "ㄴ",
+            "산조인은 양심안신과 허번불면의 문맥에서 살핀다."
+          ],
+          [
+            "ㄷ",
+            "백자인은 양심안신과 윤장의 역할을 함께 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "원지(遠志) 상세",
+          "url": "/herbs/polygala/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/polygala/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-64"
+    },
+    {
+      "id": "clinical-herbs-65",
+      "cardId": "herb-longan",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "용안육·연자육·산약의 보익 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "용안육·연자육·산약의 보익 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "용안육은 청열조습만을 중심으로 살핀다.",
+          "correct": false,
+          "reason": "용안육은 보익심비·양혈안신을 중심으로 살핀다."
+        },
+        {
+          "text": "연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다.",
+          "correct": true,
+          "reason": "연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다."
+        },
+        {
+          "text": "산약은 발한해표만을 담당한다.",
+          "correct": false,
+          "reason": "산약은 보비·익폐·보신과 지사·삽정의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 용안육은 보익심비·양혈안신을 중심으로 살핀다. ㄴ: 연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-longan",
+          "source": "/learning/herbs/#clinical-herbs-65"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ(수정): 용안육은 보익심비·양혈안신을 중심으로 살핀다. ㄴ(옳음): 연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다. ㄷ(수정): 산약은 보비·익폐·보신과 지사·삽정의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-longan",
+          "source": "/learning/herbs/#clinical-herbs-65"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 용안육은 보익심비·양혈안신을 중심으로 살핀다. ㄷ: 산약은 보비·익폐·보신과 지사·삽정의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-longan",
+          "source": "/learning/herbs/#clinical-herbs-65"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다. ㄷ: 산약은 보비·익폐·보신과 지사·삽정의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-longan",
+          "source": "/learning/herbs/#clinical-herbs-65"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 산약은 보비·익폐·보신과 지사·삽정의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-longan",
+          "source": "/learning/herbs/#clinical-herbs-65"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(수정): 용안육은 보익심비·양혈안신을 중심으로 살핀다. ㄴ(옳음): 연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다. ㄷ(수정): 산약은 보비·익폐·보신과 지사·삽정의 역할을 함께 살핀다.",
+      "discriminator": "용안육은 보익심비·양혈안신을 중심으로 살핀다. 연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다. 산약은 보비·익폐·보신과 지사·삽정의 역할을 함께 살핀다.",
+      "nearestWrong": 4,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "용안육은 청열조습만을 중심으로 살핀다."
+          ],
+          [
+            "ㄴ",
+            "연자육은 보비지사·익신삽정·양심안신의 역할을 살핀다."
+          ],
+          [
+            "ㄷ",
+            "산약은 발한해표만을 담당한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "용안육(龍眼肉) 상세",
+          "url": "/herbs/longan/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/longan/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-65"
+    },
+    {
+      "id": "clinical-herbs-66",
+      "cardId": "herb-evodia-fruit",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "건강·부자·오수유의 온리 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "건강·부자·오수유의 온리 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "건강은 온중산한·온폐화음을 중심으로 살핀다.",
+          "correct": true,
+          "reason": "건강은 온중산한·온폐화음을 중심으로 살핀다."
+        },
+        {
+          "text": "부자는 법제와 조제 관리가 필요 없는 일반 식재료다.",
+          "correct": false,
+          "reason": "부자는 회양구역·보화조양의 전통 역할을 살피며 법제와 조제 관리를 확인한다."
+        },
+        {
+          "text": "오수유는 산한지통·강역지구의 역할을 살핀다.",
+          "correct": true,
+          "reason": "오수유는 산한지통·강역지구의 역할을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 부자는 회양구역·보화조양의 전통 역할을 살피며 법제와 조제 관리를 확인한다. ㄷ: 오수유는 산한지통·강역지구의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-evodia-fruit",
+          "source": "/learning/herbs/#clinical-herbs-66"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 건강은 온중산한·온폐화음을 중심으로 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-evodia-fruit",
+          "source": "/learning/herbs/#clinical-herbs-66"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄷ: 오수유는 산한지통·강역지구의 역할을 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-evodia-fruit",
+          "source": "/learning/herbs/#clinical-herbs-66"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 부자는 회양구역·보화조양의 전통 역할을 살피며 법제와 조제 관리를 확인한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-evodia-fruit",
+          "source": "/learning/herbs/#clinical-herbs-66"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ(옳음): 건강은 온중산한·온폐화음을 중심으로 살핀다. ㄴ(수정): 부자는 회양구역·보화조양의 전통 역할을 살피며 법제와 조제 관리를 확인한다. ㄷ(옳음): 오수유는 산한지통·강역지구의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-evodia-fruit",
+          "source": "/learning/herbs/#clinical-herbs-66"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(옳음): 건강은 온중산한·온폐화음을 중심으로 살핀다. ㄴ(수정): 부자는 회양구역·보화조양의 전통 역할을 살피며 법제와 조제 관리를 확인한다. ㄷ(옳음): 오수유는 산한지통·강역지구의 역할을 살핀다.",
+      "discriminator": "건강은 온중산한·온폐화음을 중심으로 살핀다. 부자는 회양구역·보화조양의 전통 역할을 살피며 법제와 조제 관리를 확인한다. 오수유는 산한지통·강역지구의 역할을 살핀다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "건강은 온중산한·온폐화음을 중심으로 살핀다."
+          ],
+          [
+            "ㄴ",
+            "부자는 법제와 조제 관리가 필요 없는 일반 식재료다."
+          ],
+          [
+            "ㄷ",
+            "오수유는 산한지통·강역지구의 역할을 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "오수유(吳茱萸) 상세",
+          "url": "/herbs/evodia-fruit/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/evodia-fruit/",
+      "kind": "clinical",
+      "category": "온리",
+      "source": "/learning/herbs/#clinical-herbs-66"
+    },
+    {
+      "id": "clinical-herbs-67",
+      "cardId": "herb-coix",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "의이인·택사·차전자의 이수 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "의이인·택사·차전자의 이수 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "의이인은 이수와 건비·제비의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "의이인은 이수와 건비·제비의 역할을 함께 살핀다."
+        },
+        {
+          "text": "택사는 양심안신만을 중심으로 살핀다.",
+          "correct": false,
+          "reason": "택사는 이수삼습·설열을 중심으로 살핀다."
+        },
+        {
+          "text": "차전자는 온중산한만을 중심으로 살핀다.",
+          "correct": false,
+          "reason": "차전자는 이뇨통림·삼습의 역할을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 차전자는 이뇨통림·삼습의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coix",
+          "source": "/learning/herbs/#clinical-herbs-67"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ(옳음): 의이인은 이수와 건비·제비의 역할을 함께 살핀다. ㄴ(수정): 택사는 이수삼습·설열을 중심으로 살핀다. ㄷ(수정): 차전자는 이뇨통림·삼습의 역할을 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-coix",
+          "source": "/learning/herbs/#clinical-herbs-67"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 택사는 이수삼습·설열을 중심으로 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coix",
+          "source": "/learning/herbs/#clinical-herbs-67"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 의이인은 이수와 건비·제비의 역할을 함께 살핀다. ㄴ: 택사는 이수삼습·설열을 중심으로 살핀다. ㄷ: 차전자는 이뇨통림·삼습의 역할을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coix",
+          "source": "/learning/herbs/#clinical-herbs-67"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 의이인은 이수와 건비·제비의 역할을 함께 살핀다. ㄷ: 차전자는 이뇨통림·삼습의 역할을 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-coix",
+          "source": "/learning/herbs/#clinical-herbs-67"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(옳음): 의이인은 이수와 건비·제비의 역할을 함께 살핀다. ㄴ(수정): 택사는 이수삼습·설열을 중심으로 살핀다. ㄷ(수정): 차전자는 이뇨통림·삼습의 역할을 살핀다.",
+      "discriminator": "의이인은 이수와 건비·제비의 역할을 함께 살핀다. 택사는 이수삼습·설열을 중심으로 살핀다. 차전자는 이뇨통림·삼습의 역할을 살핀다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "의이인은 이수와 건비·제비의 역할을 함께 살핀다."
+          ],
+          [
+            "ㄴ",
+            "택사는 양심안신만을 중심으로 살핀다."
+          ],
+          [
+            "ㄷ",
+            "차전자는 온중산한만을 중심으로 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "의이인(薏苡仁) 상세",
+          "url": "/herbs/coix/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/coix/",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-67"
+    },
+    {
+      "id": "clinical-herbs-68",
+      "cardId": "herb-apricot-kernel",
+      "difficulty": "high",
+      "topic": "statement-comparison",
+      "prompt": "행인·길경·전호의 선강 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "행인·길경·전호의 선강 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다.",
+          "correct": true,
+          "reason": "행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다."
+        },
+        {
+          "text": "길경은 선폐거담·이인과 상부로 인도하는 역할을 살핀다.",
+          "correct": true,
+          "reason": "길경은 선폐거담·이인과 상부로 인도하는 역할을 살핀다."
+        },
+        {
+          "text": "전호는 보익간신·삽정만을 담당한다.",
+          "correct": false,
+          "reason": "전호는 강기화담·소산풍열의 역할을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다. ㄷ: 전호는 강기화담·소산풍열의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-68"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다. ㄴ: 길경은 선폐거담·이인과 상부로 인도하는 역할을 살핀다. ㄷ: 전호는 강기화담·소산풍열의 역할을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-68"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ(옳음): 행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다. ㄴ(옳음): 길경은 선폐거담·이인과 상부로 인도하는 역할을 살핀다. ㄷ(수정): 전호는 강기화담·소산풍열의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-68"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-68"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄷ: 전호는 강기화담·소산풍열의 역할을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-68"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(옳음): 행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다. ㄴ(옳음): 길경은 선폐거담·이인과 상부로 인도하는 역할을 살핀다. ㄷ(수정): 전호는 강기화담·소산풍열의 역할을 함께 살핀다.",
+      "discriminator": "행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다. 길경은 선폐거담·이인과 상부로 인도하는 역할을 살핀다. 전호는 강기화담·소산풍열의 역할을 함께 살핀다.",
+      "nearestWrong": 3,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "행인은 폐기를 내리는 지해평천과 윤장의 역할을 함께 살핀다."
+          ],
+          [
+            "ㄴ",
+            "길경은 선폐거담·이인과 상부로 인도하는 역할을 살핀다."
+          ],
+          [
+            "ㄷ",
+            "전호는 보익간신·삽정만을 담당한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "행인(杏仁) 상세",
+          "url": "/herbs/apricot-kernel/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/apricot-kernel/",
+      "kind": "clinical",
+      "category": "사하·윤장",
+      "source": "/learning/herbs/#clinical-herbs-68"
+    },
+    {
+      "id": "clinical-herbs-69",
+      "cardId": "herb-ginseng",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "사군자탕·이중탕에서 인삼과 짝약 — 옳은 설명을 모두 고른 것은?",
+      "context": "사군자탕·이중탕에서 인삼과 짝약을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "사군자탕과 이중탕은 인삼·백출·감초를 공유한다.",
+          "correct": true,
+          "reason": "사군자탕과 이중탕은 인삼·백출·감초를 공유한다."
+        },
+        {
+          "text": "사군자탕의 복령은 건비삼습의 역할을 더한다.",
+          "correct": true,
+          "reason": "사군자탕의 복령은 건비삼습의 역할을 더한다."
+        },
+        {
+          "text": "이중탕의 건강은 온중산한의 역할을 더한다.",
+          "correct": true,
+          "reason": "이중탕의 건강은 온중산한의 역할을 더한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 사군자탕의 복령은 건비삼습의 역할을 더한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-69"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ(옳음): 사군자탕과 이중탕은 인삼·백출·감초를 공유한다. ㄴ(옳음): 사군자탕의 복령은 건비삼습의 역할을 더한다. ㄷ(옳음): 이중탕의 건강은 온중산한의 역할을 더한다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-69"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 사군자탕과 이중탕은 인삼·백출·감초를 공유한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-69"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 사군자탕과 이중탕은 인삼·백출·감초를 공유한다. ㄴ: 사군자탕의 복령은 건비삼습의 역할을 더한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-69"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 사군자탕과 이중탕은 인삼·백출·감초를 공유한다. ㄷ: 이중탕의 건강은 온중산한의 역할을 더한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ginseng",
+          "source": "/learning/herbs/#clinical-herbs-69"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(옳음): 사군자탕과 이중탕은 인삼·백출·감초를 공유한다. ㄴ(옳음): 사군자탕의 복령은 건비삼습의 역할을 더한다. ㄷ(옳음): 이중탕의 건강은 온중산한의 역할을 더한다.",
+      "discriminator": "사군자탕과 이중탕은 인삼·백출·감초를 공유한다. 사군자탕의 복령은 건비삼습의 역할을 더한다. 이중탕의 건강은 온중산한의 역할을 더한다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "사군자탕과 이중탕은 인삼·백출·감초를 공유한다."
+          ],
+          [
+            "ㄴ",
+            "사군자탕의 복령은 건비삼습의 역할을 더한다."
+          ],
+          [
+            "ㄷ",
+            "이중탕의 건강은 온중산한의 역할을 더한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "인삼(人蔘) 상세",
+          "url": "/herbs/ginseng/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/ginseng/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-69"
+    },
+    {
+      "id": "clinical-herbs-70",
+      "cardId": "herb-astragalus",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "황기의 세 처방 속 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "황기의 세 처방 속 역할을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "보중익기탕에서 황기는 공하사열의 역할로 읽는다.",
+          "correct": false,
+          "reason": "보중익기탕에서 황기는 보기승양의 역할로 읽는다."
+        },
+        {
+          "text": "당귀보혈탕에서 황기는 청열조습의 역할로 읽는다.",
+          "correct": false,
+          "reason": "당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다."
+        },
+        {
+          "text": "옥병풍산에서 황기는 보기고표의 역할로 읽는다.",
+          "correct": true,
+          "reason": "옥병풍산에서 황기는 보기고표의 역할로 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ(수정): 보중익기탕에서 황기는 보기승양의 역할로 읽는다. ㄴ(수정): 당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다. ㄷ(옳음): 옥병풍산에서 황기는 보기고표의 역할로 읽는다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-70"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 보중익기탕에서 황기는 보기승양의 역할로 읽는다. ㄴ: 당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-70"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄴ: 당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다. ㄷ: 옥병풍산에서 황기는 보기고표의 역할로 읽는다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-70"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-70"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 보중익기탕에서 황기는 보기승양의 역할로 읽는다. ㄴ: 당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다. ㄷ: 옥병풍산에서 황기는 보기고표의 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-astragalus",
+          "source": "/learning/herbs/#clinical-herbs-70"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(수정): 보중익기탕에서 황기는 보기승양의 역할로 읽는다. ㄴ(수정): 당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다. ㄷ(옳음): 옥병풍산에서 황기는 보기고표의 역할로 읽는다.",
+      "discriminator": "보중익기탕에서 황기는 보기승양의 역할로 읽는다. 당귀보혈탕에서 황기는 보기생혈의 역할로 읽는다. 옥병풍산에서 황기는 보기고표의 역할로 읽는다.",
+      "nearestWrong": 3,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "보중익기탕에서 황기는 공하사열의 역할로 읽는다."
+          ],
+          [
+            "ㄴ",
+            "당귀보혈탕에서 황기는 청열조습의 역할로 읽는다."
+          ],
+          [
+            "ㄷ",
+            "옥병풍산에서 황기는 보기고표의 역할로 읽는다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "황기(黃芪) 상세",
+          "url": "/herbs/astragalus/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/astragalus/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-70"
+    },
+    {
+      "id": "clinical-herbs-71",
+      "cardId": "herb-licorice",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "감초의 처방별 배합 목적 — 옳은 설명을 모두 고른 것은?",
+      "context": "감초의 처방별 배합 목적을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "사군자탕에서 감초는 공하축수의 역할만을 맡는다.",
+          "correct": false,
+          "reason": "사군자탕에서 감초는 보기·조화의 역할로 읽는다."
+        },
+        {
+          "text": "작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다.",
+          "correct": true,
+          "reason": "작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다."
+        },
+        {
+          "text": "자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다.",
+          "correct": true,
+          "reason": "자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 사군자탕에서 감초는 보기·조화의 역할로 읽는다. ㄷ: 자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-71"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-71"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 사군자탕에서 감초는 보기·조화의 역할로 읽는다. ㄴ: 작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다. ㄷ: 자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-71"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 사군자탕에서 감초는 보기·조화의 역할로 읽는다. ㄴ: 작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-71"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ(수정): 사군자탕에서 감초는 보기·조화의 역할로 읽는다. ㄴ(옳음): 작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다. ㄷ(옳음): 자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-licorice",
+          "source": "/learning/herbs/#clinical-herbs-71"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(수정): 사군자탕에서 감초는 보기·조화의 역할로 읽는다. ㄴ(옳음): 작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다. ㄷ(옳음): 자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다.",
+      "discriminator": "사군자탕에서 감초는 보기·조화의 역할로 읽는다. 작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다. 자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "사군자탕에서 감초는 공하축수의 역할만을 맡는다."
+          ],
+          [
+            "ㄴ",
+            "작약감초탕에서 감초는 작약과 함께 완급의 역할로 읽는다."
+          ],
+          [
+            "ㄷ",
+            "자감초탕에서는 기혈과 음을 보완하는 전체 배합을 함께 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "감초(甘草) 상세",
+          "url": "/herbs/licorice/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/licorice/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-71"
+    },
+    {
+      "id": "clinical-herbs-72",
+      "cardId": "herb-poria",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "복령의 사군자탕·오령산·온담탕 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "복령의 사군자탕·오령산·온담탕 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "사군자탕에서 복령은 소양 화해만을 담당한다.",
+          "correct": false,
+          "reason": "사군자탕에서 복령은 건비삼습의 역할을 살핀다."
+        },
+        {
+          "text": "오령산에서 복령은 수습 조절의 배합으로 읽는다.",
+          "correct": true,
+          "reason": "오령산에서 복령은 수습 조절의 배합으로 읽는다."
+        },
+        {
+          "text": "온담탕에서 복령은 해표발한만을 담당한다.",
+          "correct": false,
+          "reason": "온담탕에서 복령은 담과 비위의 기능을 함께 살피며 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 사군자탕에서 복령은 건비삼습의 역할을 살핀다. ㄴ: 오령산에서 복령은 수습 조절의 배합으로 읽는다. ㄷ: 온담탕에서 복령은 담과 비위의 기능을 함께 살피며 읽는다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-72"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 오령산에서 복령은 수습 조절의 배합으로 읽는다. ㄷ: 온담탕에서 복령은 담과 비위의 기능을 함께 살피며 읽는다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-72"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ(수정): 사군자탕에서 복령은 건비삼습의 역할을 살핀다. ㄴ(옳음): 오령산에서 복령은 수습 조절의 배합으로 읽는다. ㄷ(수정): 온담탕에서 복령은 담과 비위의 기능을 함께 살피며 읽는다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-72"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 온담탕에서 복령은 담과 비위의 기능을 함께 살피며 읽는다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-72"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 사군자탕에서 복령은 건비삼습의 역할을 살핀다. ㄴ: 오령산에서 복령은 수습 조절의 배합으로 읽는다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-poria",
+          "source": "/learning/herbs/#clinical-herbs-72"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(수정): 사군자탕에서 복령은 건비삼습의 역할을 살핀다. ㄴ(옳음): 오령산에서 복령은 수습 조절의 배합으로 읽는다. ㄷ(수정): 온담탕에서 복령은 담과 비위의 기능을 함께 살피며 읽는다.",
+      "discriminator": "사군자탕에서 복령은 건비삼습의 역할을 살핀다. 오령산에서 복령은 수습 조절의 배합으로 읽는다. 온담탕에서 복령은 담과 비위의 기능을 함께 살피며 읽는다.",
+      "nearestWrong": 3,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "사군자탕에서 복령은 소양 화해만을 담당한다."
+          ],
+          [
+            "ㄴ",
+            "오령산에서 복령은 수습 조절의 배합으로 읽는다."
+          ],
+          [
+            "ㄷ",
+            "온담탕에서 복령은 해표발한만을 담당한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "복령(茯苓) 상세",
+          "url": "/herbs/poria/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/poria/",
+      "kind": "clinical",
+      "category": "이수·거습",
+      "source": "/learning/herbs/#clinical-herbs-72"
+    },
+    {
+      "id": "clinical-herbs-73",
+      "cardId": "herb-dried-ginger",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "건강의 이중탕·반하사심탕·소청룡탕 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "건강의 이중탕·반하사심탕·소청룡탕 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "이중탕에서 건강은 중초의 허한을 다루는 배합이다.",
+          "correct": true,
+          "reason": "이중탕에서 건강은 중초의 허한을 다루는 배합이다."
+        },
+        {
+          "text": "반하사심탕은 온약만으로 구성되어 청열약이 없다.",
+          "correct": false,
+          "reason": "반하사심탕에서 건강은 황련·황금 등의 청열약과 함께 배합된다."
+        },
+        {
+          "text": "소청룡탕에서 건강은 온폐화음의 역할로 읽는다.",
+          "correct": true,
+          "reason": "소청룡탕에서 건강은 온폐화음의 역할로 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 반하사심탕에서 건강은 황련·황금 등의 청열약과 함께 배합된다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-dried-ginger",
+          "source": "/learning/herbs/#clinical-herbs-73"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄷ: 소청룡탕에서 건강은 온폐화음의 역할로 읽는다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-dried-ginger",
+          "source": "/learning/herbs/#clinical-herbs-73"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ(옳음): 이중탕에서 건강은 중초의 허한을 다루는 배합이다. ㄴ(수정): 반하사심탕에서 건강은 황련·황금 등의 청열약과 함께 배합된다. ㄷ(옳음): 소청룡탕에서 건강은 온폐화음의 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-dried-ginger",
+          "source": "/learning/herbs/#clinical-herbs-73"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 이중탕에서 건강은 중초의 허한을 다루는 배합이다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-dried-ginger",
+          "source": "/learning/herbs/#clinical-herbs-73"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 반하사심탕에서 건강은 황련·황금 등의 청열약과 함께 배합된다. ㄷ: 소청룡탕에서 건강은 온폐화음의 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-dried-ginger",
+          "source": "/learning/herbs/#clinical-herbs-73"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(옳음): 이중탕에서 건강은 중초의 허한을 다루는 배합이다. ㄴ(수정): 반하사심탕에서 건강은 황련·황금 등의 청열약과 함께 배합된다. ㄷ(옳음): 소청룡탕에서 건강은 온폐화음의 역할로 읽는다.",
+      "discriminator": "이중탕에서 건강은 중초의 허한을 다루는 배합이다. 반하사심탕에서 건강은 황련·황금 등의 청열약과 함께 배합된다. 소청룡탕에서 건강은 온폐화음의 역할로 읽는다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "이중탕에서 건강은 중초의 허한을 다루는 배합이다."
+          ],
+          [
+            "ㄴ",
+            "반하사심탕은 온약만으로 구성되어 청열약이 없다."
+          ],
+          [
+            "ㄷ",
+            "소청룡탕에서 건강은 온폐화음의 역할로 읽는다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "건강(乾薑) 상세",
+          "url": "/herbs/dried-ginger/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/dried-ginger/",
+      "kind": "clinical",
+      "category": "온리",
+      "source": "/learning/herbs/#clinical-herbs-73"
+    },
+    {
+      "id": "clinical-herbs-74",
+      "cardId": "herb-bupleurum",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "시호의 소시호탕·소요산·보중익기탕 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "시호의 소시호탕·소요산·보중익기탕 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다.",
+          "correct": true,
+          "reason": "소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다."
+        },
+        {
+          "text": "소요산은 시호와 강한 공하약만으로 구성된다.",
+          "correct": false,
+          "reason": "소요산의 시호는 당귀·백작약·백출 등과 간비의 기능을 함께 살핀다."
+        },
+        {
+          "text": "보중익기탕의 시호는 공하사열만을 목적으로 쓴다.",
+          "correct": false,
+          "reason": "보중익기탕의 시호는 황기·승마 등과 승양의 배합으로 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ(옳음): 소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다. ㄴ(수정): 소요산의 시호는 당귀·백작약·백출 등과 간비의 기능을 함께 살핀다. ㄷ(수정): 보중익기탕의 시호는 황기·승마 등과 승양의 배합으로 읽는다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-74"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다. ㄴ: 소요산의 시호는 당귀·백작약·백출 등과 간비의 기능을 함께 살핀다. ㄷ: 보중익기탕의 시호는 황기·승마 등과 승양의 배합으로 읽는다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-74"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 소요산의 시호는 당귀·백작약·백출 등과 간비의 기능을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-74"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다. ㄴ: 소요산의 시호는 당귀·백작약·백출 등과 간비의 기능을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-74"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 보중익기탕의 시호는 황기·승마 등과 승양의 배합으로 읽는다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-bupleurum",
+          "source": "/learning/herbs/#clinical-herbs-74"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(옳음): 소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다. ㄴ(수정): 소요산의 시호는 당귀·백작약·백출 등과 간비의 기능을 함께 살핀다. ㄷ(수정): 보중익기탕의 시호는 황기·승마 등과 승양의 배합으로 읽는다.",
+      "discriminator": "소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다. 소요산의 시호는 당귀·백작약·백출 등과 간비의 기능을 함께 살핀다. 보중익기탕의 시호는 황기·승마 등과 승양의 배합으로 읽는다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "소시호탕의 시호는 황금·반하 등의 배합과 함께 읽는다."
+          ],
+          [
+            "ㄴ",
+            "소요산은 시호와 강한 공하약만으로 구성된다."
+          ],
+          [
+            "ㄷ",
+            "보중익기탕의 시호는 공하사열만을 목적으로 쓴다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "시호(柴胡) 상세",
+          "url": "/herbs/bupleurum/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/bupleurum/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-74"
+    },
+    {
+      "id": "clinical-herbs-75",
+      "cardId": "herb-magnolia-bark",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "후박의 평위산·반하후박탕·대승기탕 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "후박의 평위산·반하후박탕·대승기탕 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다.",
+          "correct": true,
+          "reason": "평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다."
+        },
+        {
+          "text": "반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다.",
+          "correct": true,
+          "reason": "반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다."
+        },
+        {
+          "text": "대승기탕의 후박은 인삼·숙지황만과 배합된다.",
+          "correct": false,
+          "reason": "대승기탕에서 후박은 대황·지실 등의 배합과 함께 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-75"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다. ㄴ: 반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다. ㄷ: 대승기탕에서 후박은 대황·지실 등의 배합과 함께 읽는다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-75"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ(옳음): 평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다. ㄴ(옳음): 반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다. ㄷ(수정): 대승기탕에서 후박은 대황·지실 등의 배합과 함께 읽는다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-75"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다. ㄷ: 대승기탕에서 후박은 대황·지실 등의 배합과 함께 읽는다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-75"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-magnolia-bark",
+          "source": "/learning/herbs/#clinical-herbs-75"
+        }
+      ],
+      "answer": 2,
+      "explanation": "ㄱ(옳음): 평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다. ㄴ(옳음): 반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다. ㄷ(수정): 대승기탕에서 후박은 대황·지실 등의 배합과 함께 읽는다.",
+      "discriminator": "평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다. 반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다. 대승기탕에서 후박은 대황·지실 등의 배합과 함께 읽는다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "평위산에서 후박은 습체와 창만을 다루는 배합으로 읽는다."
+          ],
+          [
+            "ㄴ",
+            "반하후박탕에서 후박은 담과 기체를 함께 다루는 배합으로 읽는다."
+          ],
+          [
+            "ㄷ",
+            "대승기탕의 후박은 인삼·숙지황만과 배합된다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "후박(厚朴) 상세",
+          "url": "/herbs/magnolia-bark/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/magnolia-bark/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-75"
+    },
+    {
+      "id": "clinical-herbs-76",
+      "cardId": "herb-citrus-immature",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "지실·목향·사인의 처방 연결 — 옳은 설명을 모두 고른 것은?",
+      "context": "지실·목향·사인의 처방 연결을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "대승기탕의 지실은 파기소적의 역할을 살핀다.",
+          "correct": true,
+          "reason": "대승기탕의 지실은 파기소적의 역할을 살핀다."
+        },
+        {
+          "text": "귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다.",
+          "correct": true,
+          "reason": "귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다."
+        },
+        {
+          "text": "향사육군자탕의 사인은 화습행기와 온중의 역할을 살핀다.",
+          "correct": true,
+          "reason": "향사육군자탕의 사인은 화습행기와 온중의 역할을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 대승기탕의 지실은 파기소적의 역할을 살핀다. ㄴ: 귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-76"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 대승기탕의 지실은 파기소적의 역할을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-76"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄷ: 향사육군자탕의 사인은 화습행기와 온중의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-76"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ(옳음): 대승기탕의 지실은 파기소적의 역할을 살핀다. ㄴ(옳음): 귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다. ㄷ(옳음): 향사육군자탕의 사인은 화습행기와 온중의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-76"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-citrus-immature",
+          "source": "/learning/herbs/#clinical-herbs-76"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(옳음): 대승기탕의 지실은 파기소적의 역할을 살핀다. ㄴ(옳음): 귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다. ㄷ(옳음): 향사육군자탕의 사인은 화습행기와 온중의 역할을 살핀다.",
+      "discriminator": "대승기탕의 지실은 파기소적의 역할을 살핀다. 귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다. 향사육군자탕의 사인은 화습행기와 온중의 역할을 살핀다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "대승기탕의 지실은 파기소적의 역할을 살핀다."
+          ],
+          [
+            "ㄴ",
+            "귀비탕의 목향은 보기양혈 배합 속 행기의 역할을 살핀다."
+          ],
+          [
+            "ㄷ",
+            "향사육군자탕의 사인은 화습행기와 온중의 역할을 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "지실(枳實) 상세",
+          "url": "/herbs/citrus-immature/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/citrus-immature/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-76"
+    },
+    {
+      "id": "clinical-herbs-77",
+      "cardId": "herb-rhubarb",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "대황·도인의 축혈 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "대황·도인의 축혈 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "대승기탕과 도핵승기탕에는 대황이 모두 없다.",
+          "correct": false,
+          "reason": "대승기탕과 도핵승기탕은 대황의 배합 문맥을 비교할 수 있다."
+        },
+        {
+          "text": "도핵승기탕의 핵심 배합은 인삼·맥문동·오미자다.",
+          "correct": false,
+          "reason": "도핵승기탕에서는 도인과 대황을 함께 살펴 축혈과 열결의 배합을 읽는다."
+        },
+        {
+          "text": "같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다.",
+          "correct": true,
+          "reason": "같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄴ: 도핵승기탕에서는 도인과 대황을 함께 살펴 축혈과 열결의 배합을 읽는다. ㄷ: 같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-77"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ(수정): 대승기탕과 도핵승기탕은 대황의 배합 문맥을 비교할 수 있다. ㄴ(수정): 도핵승기탕에서는 도인과 대황을 함께 살펴 축혈과 열결의 배합을 읽는다. ㄷ(옳음): 같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-77"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 대승기탕과 도핵승기탕은 대황의 배합 문맥을 비교할 수 있다. ㄴ: 도핵승기탕에서는 도인과 대황을 함께 살펴 축혈과 열결의 배합을 읽는다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-77"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 도핵승기탕에서는 도인과 대황을 함께 살펴 축혈과 열결의 배합을 읽는다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-77"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 대승기탕과 도핵승기탕은 대황의 배합 문맥을 비교할 수 있다. ㄷ: 같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-rhubarb",
+          "source": "/learning/herbs/#clinical-herbs-77"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(수정): 대승기탕과 도핵승기탕은 대황의 배합 문맥을 비교할 수 있다. ㄴ(수정): 도핵승기탕에서는 도인과 대황을 함께 살펴 축혈과 열결의 배합을 읽는다. ㄷ(옳음): 같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다.",
+      "discriminator": "대승기탕과 도핵승기탕은 대황의 배합 문맥을 비교할 수 있다. 도핵승기탕에서는 도인과 대황을 함께 살펴 축혈과 열결의 배합을 읽는다. 같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다.",
+      "nearestWrong": 3,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "대승기탕과 도핵승기탕에는 대황이 모두 없다."
+          ],
+          [
+            "ㄴ",
+            "도핵승기탕의 핵심 배합은 인삼·맥문동·오미자다."
+          ],
+          [
+            "ㄷ",
+            "같은 대황도 식적·열결·어혈 중 무엇을 함께 다루는지 짝약으로 확인한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "대황(大黃) 상세",
+          "url": "/herbs/rhubarb/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/rhubarb/",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-77"
+    },
+    {
+      "id": "clinical-herbs-78",
+      "cardId": "herb-hawthorn",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "산사·나복자의 보화환 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "산사·나복자의 보화환 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "보화환은 산사와 나복자를 모두 포함하지 않는다.",
+          "correct": false,
+          "reason": "보화환에서는 산사와 나복자의 소식 역할을 함께 읽는다."
+        },
+        {
+          "text": "산사는 음식 적체와 행기산어의 특징을 살핀다.",
+          "correct": true,
+          "reason": "산사는 음식 적체와 행기산어의 특징을 살핀다."
+        },
+        {
+          "text": "나복자는 식적에 기체·담이 겹치는지를 함께 살핀다.",
+          "correct": true,
+          "reason": "나복자는 식적에 기체·담이 겹치는지를 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 보화환에서는 산사와 나복자의 소식 역할을 함께 읽는다. ㄴ: 산사는 음식 적체와 행기산어의 특징을 살핀다. ㄷ: 나복자는 식적에 기체·담이 겹치는지를 함께 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-78"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 보화환에서는 산사와 나복자의 소식 역할을 함께 읽는다. ㄴ: 산사는 음식 적체와 행기산어의 특징을 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-78"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 나복자는 식적에 기체·담이 겹치는지를 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-78"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ(수정): 보화환에서는 산사와 나복자의 소식 역할을 함께 읽는다. ㄴ(옳음): 산사는 음식 적체와 행기산어의 특징을 살핀다. ㄷ(옳음): 나복자는 식적에 기체·담이 겹치는지를 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-78"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 산사는 음식 적체와 행기산어의 특징을 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-hawthorn",
+          "source": "/learning/herbs/#clinical-herbs-78"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(수정): 보화환에서는 산사와 나복자의 소식 역할을 함께 읽는다. ㄴ(옳음): 산사는 음식 적체와 행기산어의 특징을 살핀다. ㄷ(옳음): 나복자는 식적에 기체·담이 겹치는지를 함께 살핀다.",
+      "discriminator": "보화환에서는 산사와 나복자의 소식 역할을 함께 읽는다. 산사는 음식 적체와 행기산어의 특징을 살핀다. 나복자는 식적에 기체·담이 겹치는지를 함께 살핀다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "보화환은 산사와 나복자를 모두 포함하지 않는다."
+          ],
+          [
+            "ㄴ",
+            "산사는 음식 적체와 행기산어의 특징을 살핀다."
+          ],
+          [
+            "ㄷ",
+            "나복자는 식적에 기체·담이 겹치는지를 함께 살핀다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "산사(山楂) 상세",
+          "url": "/herbs/hawthorn/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/hawthorn/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-78"
+    },
+    {
+      "id": "clinical-herbs-79",
+      "cardId": "herb-angelica-pubescens",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "독활기생탕의 풍습·보익·혈분 역할 — 옳은 설명을 모두 고른 것은?",
+      "context": "독활기생탕의 풍습·보익·혈분 역할을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "독활·방풍은 독활기생탕에서 청열윤조만을 담당한다.",
+          "correct": false,
+          "reason": "독활·방풍 등의 배합은 풍한습을 다루는 축으로 읽는다."
+        },
+        {
+          "text": "상기생·두충의 배합은 간신과 근골의 허약을 보완하는 축이다.",
+          "correct": true,
+          "reason": "상기생·두충의 배합은 간신과 근골의 허약을 보완하는 축이다."
+        },
+        {
+          "text": "독활기생탕은 보익약 없이 거풍습약만으로 구성된다.",
+          "correct": false,
+          "reason": "당귀·작약·지황·천궁 등의 배합은 오래된 병정의 혈분을 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 독활·방풍 등의 배합은 풍한습을 다루는 축으로 읽는다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica-pubescens",
+          "source": "/learning/herbs/#clinical-herbs-79"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ(수정): 독활·방풍 등의 배합은 풍한습을 다루는 축으로 읽는다. ㄴ(옳음): 상기생·두충의 배합은 간신과 근골의 허약을 보완하는 축이다. ㄷ(수정): 당귀·작약·지황·천궁 등의 배합은 오래된 병정의 혈분을 함께 살핀다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-angelica-pubescens",
+          "source": "/learning/herbs/#clinical-herbs-79"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 독활·방풍 등의 배합은 풍한습을 다루는 축으로 읽는다. ㄷ: 당귀·작약·지황·천궁 등의 배합은 오래된 병정의 혈분을 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica-pubescens",
+          "source": "/learning/herbs/#clinical-herbs-79"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄷ: 당귀·작약·지황·천궁 등의 배합은 오래된 병정의 혈분을 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica-pubescens",
+          "source": "/learning/herbs/#clinical-herbs-79"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 상기생·두충의 배합은 간신과 근골의 허약을 보완하는 축이다. ㄷ: 당귀·작약·지황·천궁 등의 배합은 오래된 병정의 혈분을 함께 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-angelica-pubescens",
+          "source": "/learning/herbs/#clinical-herbs-79"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(수정): 독활·방풍 등의 배합은 풍한습을 다루는 축으로 읽는다. ㄴ(옳음): 상기생·두충의 배합은 간신과 근골의 허약을 보완하는 축이다. ㄷ(수정): 당귀·작약·지황·천궁 등의 배합은 오래된 병정의 혈분을 함께 살핀다.",
+      "discriminator": "독활·방풍 등의 배합은 풍한습을 다루는 축으로 읽는다. 상기생·두충의 배합은 간신과 근골의 허약을 보완하는 축이다. 당귀·작약·지황·천궁 등의 배합은 오래된 병정의 혈분을 함께 살핀다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "독활·방풍은 독활기생탕에서 청열윤조만을 담당한다."
+          ],
+          [
+            "ㄴ",
+            "상기생·두충의 배합은 간신과 근골의 허약을 보완하는 축이다."
+          ],
+          [
+            "ㄷ",
+            "독활기생탕은 보익약 없이 거풍습약만으로 구성된다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "독활(獨活) 상세",
+          "url": "/herbs/angelica-pubescens/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/angelica-pubescens/",
+      "kind": "clinical",
+      "category": "산한해표·소산풍열",
+      "source": "/learning/herbs/#clinical-herbs-79"
+    },
+    {
+      "id": "clinical-herbs-80",
+      "cardId": "herb-ophiopogon",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "생맥산의 익기·양음·수렴 구조 — 옳은 설명을 모두 고른 것은?",
+      "context": "생맥산의 익기·양음·수렴 구조을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "생맥산의 인삼은 기를 보완하는 역할로 읽는다.",
+          "correct": true,
+          "reason": "생맥산의 인삼은 기를 보완하는 역할로 읽는다."
+        },
+        {
+          "text": "생맥산의 맥문동은 온중산한만을 담당한다.",
+          "correct": false,
+          "reason": "생맥산의 맥문동은 음액과 진액을 보완하는 역할로 읽는다."
+        },
+        {
+          "text": "생맥산의 오미자는 수렴과 생진의 역할로 읽는다.",
+          "correct": true,
+          "reason": "생맥산의 오미자는 수렴과 생진의 역할로 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 생맥산의 인삼은 기를 보완하는 역할로 읽는다. ㄴ: 생맥산의 맥문동은 음액과 진액을 보완하는 역할로 읽는다. ㄷ: 생맥산의 오미자는 수렴과 생진의 역할로 읽는다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-80"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ(옳음): 생맥산의 인삼은 기를 보완하는 역할로 읽는다. ㄴ(수정): 생맥산의 맥문동은 음액과 진액을 보완하는 역할로 읽는다. ㄷ(옳음): 생맥산의 오미자는 수렴과 생진의 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-80"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄷ: 생맥산의 오미자는 수렴과 생진의 역할로 읽는다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-80"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 생맥산의 인삼은 기를 보완하는 역할로 읽는다. ㄴ: 생맥산의 맥문동은 음액과 진액을 보완하는 역할로 읽는다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-80"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 생맥산의 맥문동은 음액과 진액을 보완하는 역할로 읽는다. ㄷ: 생맥산의 오미자는 수렴과 생진의 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ophiopogon",
+          "source": "/learning/herbs/#clinical-herbs-80"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(옳음): 생맥산의 인삼은 기를 보완하는 역할로 읽는다. ㄴ(수정): 생맥산의 맥문동은 음액과 진액을 보완하는 역할로 읽는다. ㄷ(옳음): 생맥산의 오미자는 수렴과 생진의 역할로 읽는다.",
+      "discriminator": "생맥산의 인삼은 기를 보완하는 역할로 읽는다. 생맥산의 맥문동은 음액과 진액을 보완하는 역할로 읽는다. 생맥산의 오미자는 수렴과 생진의 역할로 읽는다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "생맥산의 인삼은 기를 보완하는 역할로 읽는다."
+          ],
+          [
+            "ㄴ",
+            "생맥산의 맥문동은 온중산한만을 담당한다."
+          ],
+          [
+            "ㄷ",
+            "생맥산의 오미자는 수렴과 생진의 역할로 읽는다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "맥문동(麥門冬) 상세",
+          "url": "/herbs/ophiopogon/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/ophiopogon/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-80"
+    },
+    {
+      "id": "clinical-herbs-81",
+      "cardId": "herb-ziziphus-seed",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "산조인탕·귀비탕의 산조인 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "산조인탕·귀비탕의 산조인 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다.",
+          "correct": true,
+          "reason": "산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다."
+        },
+        {
+          "text": "귀비탕은 안신약을 포함하지 않는 공하 처방이다.",
+          "correct": false,
+          "reason": "귀비탕에서도 산조인의 안신 역할을 확인할 수 있다."
+        },
+        {
+          "text": "산조인이 포함되면 처방의 다른 구성약은 모두 같다.",
+          "correct": false,
+          "reason": "같은 산조인이라도 처방의 보기·보혈·청열 배합을 함께 비교한다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다. ㄷ: 같은 산조인이라도 처방의 보기·보혈·청열 배합을 함께 비교한다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ziziphus-seed",
+          "source": "/learning/herbs/#clinical-herbs-81"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 귀비탕에서도 산조인의 안신 역할을 확인할 수 있다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ziziphus-seed",
+          "source": "/learning/herbs/#clinical-herbs-81"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다. ㄴ: 귀비탕에서도 산조인의 안신 역할을 확인할 수 있다. ㄷ: 같은 산조인이라도 처방의 보기·보혈·청열 배합을 함께 비교한다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ziziphus-seed",
+          "source": "/learning/herbs/#clinical-herbs-81"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다. ㄴ: 귀비탕에서도 산조인의 안신 역할을 확인할 수 있다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-ziziphus-seed",
+          "source": "/learning/herbs/#clinical-herbs-81"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ(옳음): 산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다. ㄴ(수정): 귀비탕에서도 산조인의 안신 역할을 확인할 수 있다. ㄷ(수정): 같은 산조인이라도 처방의 보기·보혈·청열 배합을 함께 비교한다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-ziziphus-seed",
+          "source": "/learning/herbs/#clinical-herbs-81"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(옳음): 산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다. ㄴ(수정): 귀비탕에서도 산조인의 안신 역할을 확인할 수 있다. ㄷ(수정): 같은 산조인이라도 처방의 보기·보혈·청열 배합을 함께 비교한다.",
+      "discriminator": "산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다. 귀비탕에서도 산조인의 안신 역할을 확인할 수 있다. 같은 산조인이라도 처방의 보기·보혈·청열 배합을 함께 비교한다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "산조인은 산조인탕의 양심안신 배합에서 중심적으로 읽는다."
+          ],
+          [
+            "ㄴ",
+            "귀비탕은 안신약을 포함하지 않는 공하 처방이다."
+          ],
+          [
+            "ㄷ",
+            "산조인이 포함되면 처방의 다른 구성약은 모두 같다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "산조인(酸棗仁) 상세",
+          "url": "/herbs/ziziphus-seed/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/ziziphus-seed/",
+      "kind": "clinical",
+      "category": "안신·개규·식풍",
+      "source": "/learning/herbs/#clinical-herbs-81"
+    },
+    {
+      "id": "clinical-herbs-82",
+      "cardId": "herb-pinellia",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "반하의 이진탕·반하후박탕·반하사심탕 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "반하의 이진탕·반하후박탕·반하사심탕 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "이진탕의 반하는 조습화담 배합으로 읽는다.",
+          "correct": true,
+          "reason": "이진탕의 반하는 조습화담 배합으로 읽는다."
+        },
+        {
+          "text": "반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다.",
+          "correct": true,
+          "reason": "반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다."
+        },
+        {
+          "text": "반하사심탕은 반하 한 약재만으로 구성된다.",
+          "correct": false,
+          "reason": "반하사심탕에서는 반하와 한열을 조절하는 다른 약재를 함께 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄴ: 반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-82"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 이진탕의 반하는 조습화담 배합으로 읽는다. ㄷ: 반하사심탕에서는 반하와 한열을 조절하는 다른 약재를 함께 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-82"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 이진탕의 반하는 조습화담 배합으로 읽는다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-82"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ(옳음): 이진탕의 반하는 조습화담 배합으로 읽는다. ㄴ(옳음): 반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다. ㄷ(수정): 반하사심탕에서는 반하와 한열을 조절하는 다른 약재를 함께 살핀다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-82"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄴ: 반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다. ㄷ: 반하사심탕에서는 반하와 한열을 조절하는 다른 약재를 함께 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-pinellia",
+          "source": "/learning/herbs/#clinical-herbs-82"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(옳음): 이진탕의 반하는 조습화담 배합으로 읽는다. ㄴ(옳음): 반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다. ㄷ(수정): 반하사심탕에서는 반하와 한열을 조절하는 다른 약재를 함께 살핀다.",
+      "discriminator": "이진탕의 반하는 조습화담 배합으로 읽는다. 반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다. 반하사심탕에서는 반하와 한열을 조절하는 다른 약재를 함께 살핀다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "이진탕의 반하는 조습화담 배합으로 읽는다."
+          ],
+          [
+            "ㄴ",
+            "반하후박탕의 반하는 후박 등과 담·기체를 함께 다루는 배합이다."
+          ],
+          [
+            "ㄷ",
+            "반하사심탕은 반하 한 약재만으로 구성된다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "반하(半夏) 상세",
+          "url": "/herbs/pinellia/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/pinellia/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-82"
+    },
+    {
+      "id": "clinical-herbs-83",
+      "cardId": "herb-apricot-kernel",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "행인·석고·마황의 폐기·열 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "행인·석고·마황의 폐기·열 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "마행감석탕은 마황·행인·감초·석고로 구성된다.",
+          "correct": true,
+          "reason": "마행감석탕은 마황·행인·감초·석고로 구성된다."
+        },
+        {
+          "text": "이 처방에서 행인은 지해평천의 역할로 읽는다.",
+          "correct": true,
+          "reason": "이 처방에서 행인은 지해평천의 역할로 읽는다."
+        },
+        {
+          "text": "이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다.",
+          "correct": true,
+          "reason": "이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 마행감석탕은 마황·행인·감초·석고로 구성된다. ㄷ: 이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-83"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄷ: 이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-83"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 마행감석탕은 마황·행인·감초·석고로 구성된다. ㄴ: 이 처방에서 행인은 지해평천의 역할로 읽는다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-83"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ(옳음): 마행감석탕은 마황·행인·감초·석고로 구성된다. ㄴ(옳음): 이 처방에서 행인은 지해평천의 역할로 읽는다. ㄷ(옳음): 이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-83"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 마행감석탕은 마황·행인·감초·석고로 구성된다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-apricot-kernel",
+          "source": "/learning/herbs/#clinical-herbs-83"
+        }
+      ],
+      "answer": 3,
+      "explanation": "ㄱ(옳음): 마행감석탕은 마황·행인·감초·석고로 구성된다. ㄴ(옳음): 이 처방에서 행인은 지해평천의 역할로 읽는다. ㄷ(옳음): 이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다.",
+      "discriminator": "마행감석탕은 마황·행인·감초·석고로 구성된다. 이 처방에서 행인은 지해평천의 역할로 읽는다. 이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "마행감석탕은 마황·행인·감초·석고로 구성된다."
+          ],
+          [
+            "ㄴ",
+            "이 처방에서 행인은 지해평천의 역할로 읽는다."
+          ],
+          [
+            "ㄷ",
+            "이 처방에서 석고의 청열과 마황의 선폐 역할을 함께 읽는다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "행인(杏仁) 상세",
+          "url": "/herbs/apricot-kernel/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/apricot-kernel/",
+      "kind": "clinical",
+      "category": "사하·윤장",
+      "source": "/learning/herbs/#clinical-herbs-83"
+    },
+    {
+      "id": "clinical-herbs-84",
+      "cardId": "herb-gastrodia",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "천마·조구등의 식풍 배합 — 옳은 설명을 모두 고른 것은?",
+      "context": "천마·조구등의 식풍 배합을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "천마와 조구등은 공하사열약의 대표 짝이다.",
+          "correct": false,
+          "reason": "천마와 조구등은 평간식풍의 문맥에서 함께 비교한다."
+        },
+        {
+          "text": "조구등은 보혈삽정만을 담당한다.",
+          "correct": false,
+          "reason": "조구등은 청열평간·식풍정경의 비중을 살핀다."
+        },
+        {
+          "text": "반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다.",
+          "correct": true,
+          "reason": "반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ(수정): 천마와 조구등은 평간식풍의 문맥에서 함께 비교한다. ㄴ(수정): 조구등은 청열평간·식풍정경의 비중을 살핀다. ㄷ(옳음): 반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-84"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄴ: 조구등은 청열평간·식풍정경의 비중을 살핀다. ㄷ: 반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-84"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄴ: 조구등은 청열평간·식풍정경의 비중을 살핀다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-84"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 천마와 조구등은 평간식풍의 문맥에서 함께 비교한다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-84"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 천마와 조구등은 평간식풍의 문맥에서 함께 비교한다. ㄴ: 조구등은 청열평간·식풍정경의 비중을 살핀다. ㄷ: 반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-84"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(수정): 천마와 조구등은 평간식풍의 문맥에서 함께 비교한다. ㄴ(수정): 조구등은 청열평간·식풍정경의 비중을 살핀다. ㄷ(옳음): 반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다.",
+      "discriminator": "천마와 조구등은 평간식풍의 문맥에서 함께 비교한다. 조구등은 청열평간·식풍정경의 비중을 살핀다. 반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "천마와 조구등은 공하사열약의 대표 짝이다."
+          ],
+          [
+            "ㄴ",
+            "조구등은 보혈삽정만을 담당한다."
+          ],
+          [
+            "ㄷ",
+            "반하백출천마탕과 천마구등음은 천마의 짝약과 병기를 비교하는 처방이다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "천마(天麻) 상세",
+          "url": "/herbs/gastrodia/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/gastrodia/",
+      "kind": "clinical",
+      "category": "안신·개규·식풍",
+      "source": "/learning/herbs/#clinical-herbs-84"
+    },
+    {
+      "id": "clinical-herbs-85",
+      "cardId": "herb-cornus-fructus",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "산수유·산약·택사의 육미지황환 구조 — 옳은 설명을 모두 고른 것은?",
+      "context": "산수유·산약·택사의 육미지황환 구조을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "산수유는 공하사열만을 담당한다.",
+          "correct": false,
+          "reason": "산수유는 보익간신과 수삽의 역할로 읽는다."
+        },
+        {
+          "text": "산약은 보비·보신 등의 보익 역할로 읽는다.",
+          "correct": true,
+          "reason": "산약은 보비·보신 등의 보익 역할로 읽는다."
+        },
+        {
+          "text": "택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다.",
+          "correct": true,
+          "reason": "택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ(수정): 산수유는 보익간신과 수삽의 역할로 읽는다. ㄴ(옳음): 산약은 보비·보신 등의 보익 역할로 읽는다. ㄷ(옳음): 택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-cornus-fructus",
+          "source": "/learning/herbs/#clinical-herbs-85"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 산수유는 보익간신과 수삽의 역할로 읽는다. ㄷ: 택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cornus-fructus",
+          "source": "/learning/herbs/#clinical-herbs-85"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ: 산수유는 보익간신과 수삽의 역할로 읽는다. ㄴ: 산약은 보비·보신 등의 보익 역할로 읽는다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cornus-fructus",
+          "source": "/learning/herbs/#clinical-herbs-85"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄷ: 택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cornus-fructus",
+          "source": "/learning/herbs/#clinical-herbs-85"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 산약은 보비·보신 등의 보익 역할로 읽는다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-cornus-fructus",
+          "source": "/learning/herbs/#clinical-herbs-85"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(수정): 산수유는 보익간신과 수삽의 역할로 읽는다. ㄴ(옳음): 산약은 보비·보신 등의 보익 역할로 읽는다. ㄷ(옳음): 택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다.",
+      "discriminator": "산수유는 보익간신과 수삽의 역할로 읽는다. 산약은 보비·보신 등의 보익 역할로 읽는다. 택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다.",
+      "nearestWrong": 3,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "산수유는 공하사열만을 담당한다."
+          ],
+          [
+            "ㄴ",
+            "산약은 보비·보신 등의 보익 역할로 읽는다."
+          ],
+          [
+            "ㄷ",
+            "택사는 보익약과 함께 수습을 조절하는 배합으로 읽는다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "산수유(山茱萸) 상세",
+          "url": "/herbs/cornus-fructus/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        }
+      ],
+      "relatedSource": "/herbs/cornus-fructus/",
+      "kind": "clinical",
+      "category": "보익·수삽",
+      "source": "/learning/herbs/#clinical-herbs-85"
+    },
+    {
+      "id": "clinical-herbs-86",
+      "cardId": "herb-white-cardamom",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "백두구·초과·신이의 약용 부위 — 옳은 설명을 모두 고른 것은?",
+      "context": "백두구·초과·신이의 약용 부위을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "백두구는 잎만을 쓰는 본초다.",
+          "correct": false,
+          "reason": "백두구는 열매를 쓰는 본초다."
+        },
+        {
+          "text": "초과는 열매를 쓰는 본초다.",
+          "correct": true,
+          "reason": "초과는 열매를 쓰는 본초다."
+        },
+        {
+          "text": "신이는 성숙한 씨만을 쓰는 본초다.",
+          "correct": false,
+          "reason": "신이는 꽃봉오리를 쓰는 본초다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄱ: 백두구는 열매를 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-cardamom",
+          "source": "/learning/herbs/#clinical-herbs-86"
+        },
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ: 백두구는 열매를 쓰는 본초다. ㄴ: 초과는 열매를 쓰는 본초다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-cardamom",
+          "source": "/learning/herbs/#clinical-herbs-86"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄴ: 초과는 열매를 쓰는 본초다. ㄷ: 신이는 꽃봉오리를 쓰는 본초다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-cardamom",
+          "source": "/learning/herbs/#clinical-herbs-86"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄱ: 백두구는 열매를 쓰는 본초다. ㄷ: 신이는 꽃봉오리를 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-white-cardamom",
+          "source": "/learning/herbs/#clinical-herbs-86"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ(수정): 백두구는 열매를 쓰는 본초다. ㄴ(옳음): 초과는 열매를 쓰는 본초다. ㄷ(수정): 신이는 꽃봉오리를 쓰는 본초다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-white-cardamom",
+          "source": "/learning/herbs/#clinical-herbs-86"
+        }
+      ],
+      "answer": 4,
+      "explanation": "ㄱ(수정): 백두구는 열매를 쓰는 본초다. ㄴ(옳음): 초과는 열매를 쓰는 본초다. ㄷ(수정): 신이는 꽃봉오리를 쓰는 본초다.",
+      "discriminator": "백두구는 열매를 쓰는 본초다. 초과는 열매를 쓰는 본초다. 신이는 꽃봉오리를 쓰는 본초다.",
+      "nearestWrong": 0,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "백두구는 잎만을 쓰는 본초다."
+          ],
+          [
+            "ㄴ",
+            "초과는 열매를 쓰는 본초다."
+          ],
+          [
+            "ㄷ",
+            "신이는 성숙한 씨만을 쓰는 본초다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "백두구(白豆蔻) 상세",
+          "url": "/herbs/white-cardamom/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        },
+        {
+          "title": "초과(草果) 상세",
+          "url": "/herbs/tsaoko-fruit/"
+        },
+        {
+          "title": "신이(辛夷) 상세",
+          "url": "/herbs/magnolia-bud/"
+        }
+      ],
+      "relatedSource": "/herbs/white-cardamom/",
+      "kind": "clinical",
+      "category": "화담·이기·소식",
+      "source": "/learning/herbs/#clinical-herbs-86"
+    },
+    {
+      "id": "clinical-herbs-87",
+      "cardId": "herb-gastrodia",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "천마·조구등·석창포의 약용 부위 — 옳은 설명을 모두 고른 것은?",
+      "context": "천마·조구등·석창포의 약용 부위을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "천마는 덩이줄기를 쓰는 본초다.",
+          "correct": true,
+          "reason": "천마는 덩이줄기를 쓰는 본초다."
+        },
+        {
+          "text": "조구등은 꽃봉오리만을 쓰는 본초다.",
+          "correct": false,
+          "reason": "조구등은 갈고리가 달린 줄기를 쓰는 본초다."
+        },
+        {
+          "text": "석창포는 뿌리줄기를 쓰는 본초다.",
+          "correct": true,
+          "reason": "석창포는 뿌리줄기를 쓰는 본초다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 천마는 덩이줄기를 쓰는 본초다. ㄴ: 조구등은 갈고리가 달린 줄기를 쓰는 본초다. ㄷ: 석창포는 뿌리줄기를 쓰는 본초다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-87"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄱ(옳음): 천마는 덩이줄기를 쓰는 본초다. ㄴ(수정): 조구등은 갈고리가 달린 줄기를 쓰는 본초다. ㄷ(옳음): 석창포는 뿌리줄기를 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-87"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 조구등은 갈고리가 달린 줄기를 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-87"
+        },
+        {
+          "text": "ㄱ · ㄴ",
+          "detail": "ㄴ: 조구등은 갈고리가 달린 줄기를 쓰는 본초다. ㄷ: 석창포는 뿌리줄기를 쓰는 본초다.",
+          "statementIndices": [
+            0,
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-87"
+        },
+        {
+          "text": "ㄴ · ㄷ",
+          "detail": "ㄱ: 천마는 덩이줄기를 쓰는 본초다. ㄴ: 조구등은 갈고리가 달린 줄기를 쓰는 본초다.",
+          "statementIndices": [
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-gastrodia",
+          "source": "/learning/herbs/#clinical-herbs-87"
+        }
+      ],
+      "answer": 1,
+      "explanation": "ㄱ(옳음): 천마는 덩이줄기를 쓰는 본초다. ㄴ(수정): 조구등은 갈고리가 달린 줄기를 쓰는 본초다. ㄷ(옳음): 석창포는 뿌리줄기를 쓰는 본초다.",
+      "discriminator": "천마는 덩이줄기를 쓰는 본초다. 조구등은 갈고리가 달린 줄기를 쓰는 본초다. 석창포는 뿌리줄기를 쓰는 본초다.",
+      "nearestWrong": 2,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "천마는 덩이줄기를 쓰는 본초다."
+          ],
+          [
+            "ㄴ",
+            "조구등은 꽃봉오리만을 쓰는 본초다."
+          ],
+          [
+            "ㄷ",
+            "석창포는 뿌리줄기를 쓰는 본초다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "천마(天麻) 상세",
+          "url": "/herbs/gastrodia/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        },
+        {
+          "title": "조구등(釣鉤藤) 상세",
+          "url": "/herbs/uncaria/"
+        },
+        {
+          "title": "석창포(石菖蒲) 상세",
+          "url": "/herbs/acorus/"
+        }
+      ],
+      "relatedSource": "/herbs/gastrodia/",
+      "kind": "clinical",
+      "category": "안신·개규·식풍",
+      "source": "/learning/herbs/#clinical-herbs-87"
+    },
+    {
+      "id": "clinical-herbs-88",
+      "cardId": "herb-plantago-seed",
+      "difficulty": "expert",
+      "topic": "statement-comparison",
+      "prompt": "도인·행인·차전자의 종자 비교 — 옳은 설명을 모두 고른 것은?",
+      "context": "도인·행인·차전자의 종자 비교을 주제로 다음 ㄱ·ㄴ·ㄷ을 판단하고 옳은 설명의 조합을 고르세요.",
+      "statements": [
+        {
+          "text": "도인과 행인은 모두 씨를 쓰는 본초다.",
+          "correct": true,
+          "reason": "도인과 행인은 모두 씨를 쓰는 본초다."
+        },
+        {
+          "text": "도인과 행인은 약용 부위가 같으므로 전통 효능과 규격도 동일하다.",
+          "correct": false,
+          "reason": "도인은 활혈거어와 윤장, 행인은 지해평천과 윤장을 중심으로 비교한다."
+        },
+        {
+          "text": "차전자는 잎을 쓰며 회양구역만을 담당한다.",
+          "correct": false,
+          "reason": "차전자는 씨를 쓰며 이뇨통림의 역할을 살핀다."
+        }
+      ],
+      "options": [
+        {
+          "text": "ㄱ",
+          "detail": "ㄱ(옳음): 도인과 행인은 모두 씨를 쓰는 본초다. ㄴ(수정): 도인은 활혈거어와 윤장, 행인은 지해평천과 윤장을 중심으로 비교한다. ㄷ(수정): 차전자는 씨를 쓰며 이뇨통림의 역할을 살핀다.",
+          "statementIndices": [
+            0
+          ],
+          "owner": "정답 근거",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-88"
+        },
+        {
+          "text": "ㄱ · ㄷ",
+          "detail": "ㄷ: 차전자는 씨를 쓰며 이뇨통림의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-88"
+        },
+        {
+          "text": "ㄴ",
+          "detail": "ㄱ: 도인과 행인은 모두 씨를 쓰는 본초다. ㄴ: 도인은 활혈거어와 윤장, 행인은 지해평천과 윤장을 중심으로 비교한다.",
+          "statementIndices": [
+            1
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-88"
+        },
+        {
+          "text": "ㄱ · ㄴ · ㄷ",
+          "detail": "ㄴ: 도인은 활혈거어와 윤장, 행인은 지해평천과 윤장을 중심으로 비교한다. ㄷ: 차전자는 씨를 쓰며 이뇨통림의 역할을 살핀다.",
+          "statementIndices": [
+            0,
+            1,
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-88"
+        },
+        {
+          "text": "ㄷ",
+          "detail": "ㄱ: 도인과 행인은 모두 씨를 쓰는 본초다. ㄷ: 차전자는 씨를 쓰며 이뇨통림의 역할을 살핀다.",
+          "statementIndices": [
+            2
+          ],
+          "owner": "오답 감별",
+          "ownerId": "herb-plantago-seed",
+          "source": "/learning/herbs/#clinical-herbs-88"
+        }
+      ],
+      "answer": 0,
+      "explanation": "ㄱ(옳음): 도인과 행인은 모두 씨를 쓰는 본초다. ㄴ(수정): 도인은 활혈거어와 윤장, 행인은 지해평천과 윤장을 중심으로 비교한다. ㄷ(수정): 차전자는 씨를 쓰며 이뇨통림의 역할을 살핀다.",
+      "discriminator": "도인과 행인은 모두 씨를 쓰는 본초다. 도인은 활혈거어와 윤장, 행인은 지해평천과 윤장을 중심으로 비교한다. 차전자는 씨를 쓰며 이뇨통림의 역할을 살핀다.",
+      "nearestWrong": 1,
+      "table": {
+        "caption": "설명 비교",
+        "headers": [
+          "기호",
+          "설명"
+        ],
+        "rows": [
+          [
+            "ㄱ",
+            "도인과 행인은 모두 씨를 쓰는 본초다."
+          ],
+          [
+            "ㄴ",
+            "도인과 행인은 약용 부위가 같으므로 전통 효능과 규격도 동일하다."
+          ],
+          [
+            "ㄷ",
+            "차전자는 잎을 쓰며 회양구역만을 담당한다."
+          ]
+        ]
+      },
+      "references": [
+        {
+          "title": "차전자(車前子) 상세",
+          "url": "/herbs/plantago-seed/"
+        },
+        {
+          "title": "본초 비교·감별",
+          "url": "/herbal-integrated/herb-comparisons/"
+        },
+        {
+          "title": "도인(桃仁) 상세",
+          "url": "/herbs/peach-kernel/"
+        },
+        {
+          "title": "행인(杏仁) 상세",
+          "url": "/herbs/apricot-kernel/"
+        }
+      ],
+      "relatedSource": "/herbs/plantago-seed/",
+      "kind": "clinical",
+      "category": "청열",
+      "source": "/learning/herbs/#clinical-herbs-88"
     }
   ]
 }
