@@ -47,6 +47,21 @@ def validate_clinical(q):
     assert all(o['text'].strip() and o['detail'].strip() for o in q['options'])
     assert q['discriminator'] and q['nearestWrong'] in range(5) and q['nearestWrong'] != q['answer']
     assert q['source'].endswith('#' + q['id']) and q['relatedSource'].startswith('/')
+    if q.get('topic') == 'statement-comparison':
+        statements = q['statements']
+        assert len(statements) == 3
+        assert all(s['text'] and type(s['correct']) is bool and s['reason'] for s in statements)
+        expected = tuple(i for i, s in enumerate(statements) if s['correct'])
+        combinations = []
+        for option in q['options']:
+            indices = option['statementIndices']
+            assert indices and all(type(i) is int and i in range(3) for i in indices)
+            assert indices == sorted(set(indices))
+            assert option['text'] == ' · '.join('ㄱㄴㄷ'[i] for i in indices)
+            combinations.append(tuple(indices))
+        assert len(set(combinations)) == 5
+        assert combinations[q['answer']] == expected
+        assert sum(c == expected for c in combinations) == 1
     if 'table' in q:
         t = q['table']
         assert t['caption'] and len(t['headers']) >= 2 and t['rows']

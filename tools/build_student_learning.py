@@ -27,7 +27,7 @@ def clean(value):
 
 
 def normalized(value):
-    return re.sub(r'\([^)]*\)|[^a-zA-Z0-9가-힣]', '', clean(value)).lower()
+    return re.sub(r'\([^)]*\)|[^a-zA-Z0-9가-힣ㄱ-ㅎ]', '', clean(value)).lower()
 
 
 def url(path):
@@ -700,6 +700,18 @@ def build():
     from classical_learning import classical_deck
     for subject in ('shanghanlun', 'sasang'):
         decks[subject] = classical_deck(ROOT, subject, shuffled)
+    # Add focused comparison prompts after fact quizzes are generated. Existing
+    # recall items and browser progress retain their IDs and answer choices.
+    focus = json.loads((ROOT / 'data/learning_comparison_focus.json').read_text())
+    assert focus['schema'] == 1
+    seen_focus = set()
+    for row in focus['cards']:
+        key = (row['subject'], row['cardId'])
+        assert key not in seen_focus
+        seen_focus.add(key)
+        c = next(c for c in decks[row['subject']]['cards'] if c['id'] == row['cardId'])
+        c['prompt'] = row['prompt']
+        c['facts'].append({'label': '비교·감별', 'value': row['comparison']})
     from advanced_learning import advanced_questions
     advanced = advanced_questions(ROOT, decks, named_points)
     for subject, questions in advanced.items():
@@ -715,7 +727,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261004-07', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261104-01', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
