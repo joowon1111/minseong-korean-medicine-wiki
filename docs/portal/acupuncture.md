@@ -220,10 +220,10 @@ hide:
 
 | 경혈·혈군 | 문헌과 배혈에서 볼 내용 | 다음에 읽을 자료 |
 |---|---|---|
-| 족삼리 ST36 | 복부·소화 관련 전통 주치와 기능성소화불량 지침의 배혈을 함께 읽음 | [족삼리 위치·주치](../acupuncture/points/st36.md) · [기능성소화불량 평가·치료](../conditions/functional-dyspepsia.md) |
+| 족삼리 ST36 | 복부·소화 관련 전통 주치와 기능성소화불량 지침의 배혈을 함께 읽음 | [족삼리 위치·주치](../acupuncture/points/st36-zusanli.md) · [기능성소화불량 평가·치료](../conditions/functional-dyspepsia.md) |
 | 태백 SP3 | 사암침 처방에서 비경 원혈인 태백을 어떤 보사 구성으로 쓰는지 확인 | [태백 위치·문헌](../acupuncture/points/sp3.md) · [사암침 정격·승격](../acupuncture-specific/saam-12-meridians.md) |
-| 합곡 LI4·태충 LR3 | 각 혈의 주치와 두 혈을 묶은 사관혈의 문헌 맥락을 구분 | [합곡](../acupuncture/points/li4.md) · [태충](../acupuncture/points/lr3.md) |
-| 신문 HT7·내관 PC6 | 불면 관련 배혈에서 수면·심계·긴장을 함께 평가하는 방법을 살핌 | [신문](../acupuncture/points/ht7.md) · [내관](../acupuncture/points/pc6.md) · [불면증](../conditions/insomnia.md) |
+| 합곡 LI4·태충 LR3 | 각 혈의 주치와 두 혈을 묶은 사관혈의 문헌 맥락을 구분 | [합곡](../acupuncture/points/li4-hegu.md) · [태충](../acupuncture/points/lr3-taichong.md) |
+| 신문 HT7·내관 PC6 | 불면 관련 배혈에서 수면·심계·긴장을 함께 평가하는 방법을 살핌 | [신문](../acupuncture/points/ht7-shenmen.md) · [내관](../acupuncture/points/pc6-neiguan.md) · [불면증](../conditions/insomnia.md) |
 
 혈자리 이름을 확인한 뒤에는 **왜 이 혈들을 함께 골랐는지, 무엇을 변화시키려는지**를 읽습니다. 복부 불편은 식후포만·조기포만·오심을, 불면은 입면·야간각성·낮 기능을 나누어 기록하면 전통 주치와 현재 환자의 치료 목표를 구체적으로 연결할 수 있습니다. [배혈 원리](../meridian-network/special-points/index.md) · [치료 반응과 재평가](../acupuncture-clinical/response-reassessment.md).
 
