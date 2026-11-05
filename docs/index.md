@@ -252,7 +252,7 @@ hide:
       "alternateName": "민성한의학아카이브",
       "parentOrganization": {
         "@type": "Organization",
-        "@id": "https://www.minseong.co.kr/#organization",
+        "@id": "https://minseong.co.kr/#organization",
         "name": "민성한의원",
         "url": "https://minseong.co.kr/"
       }
@@ -279,7 +279,7 @@ hide:
       "name": "목정일",
       "jobTitle": "대표원장",
       "url": "https://minseong.co.kr/uiryojin/",
-      "worksFor": {"@id": "https://www.minseong.co.kr/#organization"}
+      "worksFor": {"@id": "https://minseong.co.kr/#organization"}
     },
     {
       "@type": "Person",
@@ -287,7 +287,7 @@ hide:
       "name": "김문정",
       "jobTitle": "대표원장",
       "url": "https://minseong.co.kr/uiryojin/",
-      "worksFor": {"@id": "https://www.minseong.co.kr/#organization"}
+      "worksFor": {"@id": "https://minseong.co.kr/#organization"}
     }
   ]
 }
