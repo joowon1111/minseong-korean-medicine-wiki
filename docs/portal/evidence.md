@@ -243,7 +243,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 ### 소화·수면 연구에서 확인된 증상 개선 {#digestion-sleep-evidence}
 
-**소화불량:** 식후불편감증후군 278명을 대상으로 한 침시험은 4주간 12회 치료 후 전체 치료 반응과 핵심 증상 소실을 별도로 평가했습니다. 앞 표의 전체 반응률 83.0%는 ‘모든 증상이 사라진 비율’과 다릅니다. 식후포만·조기포만이 주된 증상이면 [이 시험의 결과와 치료 조건](../conditions/functional-dyspepsia.md#pds-acupuncture-results)을, 복통·설사가 중심이면 [IBS의 복합 반응 결과](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial)에서 해당 증상을 평가한 결과를 확인할 수 있습니다. [원저 PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/)
+**소화불량:** 식후불편감증후군 278명을 대상으로 한 침시험은 4주간 12회 치료 후 전체 치료 반응과 핵심 증상 소실을 별도로 평가했습니다. 앞 표의 전체 반응률 83.0%는 ‘모든 증상이 사라진 비율’과 다릅니다. 식후포만·조기포만이 주된 증상이면 [소화불량 침시험의 결과와 치료 조건](../conditions/functional-dyspepsia.md#pds-acupuncture-results)을 확인할 수 있습니다. 복통·설사가 중심이면 [IBS의 복합 반응 결과](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial)를 참고하세요. [원저 PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/)
 
 한약은 [육군자탕의 일본 임상시험·진료지침](../research/formulas/rikkunshito.md#japanese-fd-trials)과 [국내 육군자탕·평위산 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials)을 함께 볼 수 있습니다. 처방 이름뿐 아니라 시험제제·대상·비교군을 확인하면 실제 진찰에서 어떤 증상에 적용할지를 이해하는 데 도움이 됩니다.
 
