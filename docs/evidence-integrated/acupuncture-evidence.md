@@ -7,9 +7,9 @@ last_reviewed: '2026-09-15'
 ---
 # 침·전침·약침 현대 임상근거 허브
 
-침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**을 먼저 읽고, 경혈·자극·횟수·비교군을 따라 실제 치료 조건을 확인하는 자료입니다.
+침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**, 연구에 사용한 경혈·자극법·치료 횟수·비교군을 함께 정리한 자료입니다.
 
-→ [침 대표 연구·효과 크기·국제 지침](../authority/acupuncture.md#acupuncture-key-results) · [한약·침·추나·약침 핵심 연구](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
+→ [침 대표 연구·효과 크기·국제 지침](../authority/acupuncture.md#acupuncture-key-results) · [한약·침·추나·약침 핵심 연구](../portal/evidence.md#landmark-clinical-results) · [대표 침 임상연구](#acupuncture-landmark-reading)
 
 ## 만성통증 효과와 지속성을 확인한 개인자료 메타분석 {#chronic-pain-ipd}
 
@@ -19,7 +19,7 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 
 **침의 효과를 기대감만으로 설명하기 어렵고, 치료 후 지속성도 있다는 중요한 종합 근거**입니다. 전체 표본이 모두 요통 환자는 아니며 비교군이 받은 치료의 강도에 따라 차이 크기가 달라집니다. [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) · [DOI 10.1016/j.jpain.2017.11.005](https://doi.org/10.1016/j.jpain.2017.11.005)
 
-## 대표 침 연구 바로 읽기 {#acupuncture-landmark-reading}
+## 대표 침 임상연구 {#acupuncture-landmark-reading}
 
 | 임상 질문 | 직접 비교한 핵심 결과 |
 |---|---|
@@ -64,7 +64,7 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 
 가짜침은 비경혈·얕은 자침·비관통 장치 등 방식이 다양하므로 같은 ‘sham’이라도 자극량을 확인합니다.
 
-## 프로토콜을 읽는 핵심 항목
+## 치료 프로토콜의 주요 확인 항목 {#프로토콜을-읽는-핵심-항목}
 
 - 진단기준·중증도·질환 기간
 - 경혈·아시혈·국소 조직과 원위혈 조합
@@ -109,7 +109,7 @@ Tu 등의 2024년 *JAMA Internal Medicine* 시험은 만성 디스크성 좌골�
 
 [480명 모집·442명 분석의 다기관 시험](../conditions/knee-pain.md#intensive-knee-trial)은 전침·수기침·가짜침을 주 3회 8주 비교해 통증과 기능의 동시 개선을 평가했습니다. 8주 전침 반응률은 60.3% 대 가짜침 47.3%였고, 수기침의 같은 시점 차이는 유의하지 않았습니다. 26주까지의 추적과 분석 대상도 상세 문서에서 확인할 수 있습니다.
 
-[Annals·Lancet의 무릎 골관절염 대표 RCT](../conditions/knee-pain.md#knee-landmark-trials)에서 직접 비교한 통증·WOMAC 기능 결과와 평가 시점을 확인합니다. 만성통증 전체 지형은 [39개 시험 개인자료 메타분석](#chronic-pain-ipd)에서 먼저 읽고, 무릎 골관절염에 해당하는 세부 시험과 비교군으로 좁혀갑니다.
+[Annals·Lancet의 무릎 골관절염 대표 RCT](../conditions/knee-pain.md#knee-landmark-trials)에서 직접 비교한 통증·WOMAC 기능 결과와 평가 시점을 확인합니다. [39개 시험 개인자료 메타분석](#chronic-pain-ipd)에서는 만성통증의 종합 결과를, 무릎 골관절염 시험에서는 해당 환자군의 통증·관절기능 변화를 확인할 수 있습니다.
 
 ### 목·어깨·턱·상지 통증
 
@@ -138,7 +138,7 @@ Tu 등의 2024년 *JAMA Internal Medicine* 시험은 만성 디스크성 좌골�
 
 Xu 등의 2020년 *BMJ* 다기관 RCT는 전조 없는 삽화성 편두통 **150명**을 침·가짜침·통상관리로 배정했습니다. 침과 가짜침은 통상관리에 더해 8주 동안 20회 시행했습니다. 4주당 편두통 일수 감소의 **조정 군 간 차이는 13–16주에 1.4일(95% CI 0.3–2.4), 17–20주에 2.1일(1.2–2.9)**로 침군에 유리했습니다. 17–20주 기저치 대비 평균 감소는 침 3.9일 대 가짜침 2.2일이었습니다. 단순 평균의 차이와 기저치 등을 보정한 군 간 추정치는 구분합니다.
 
-통증이 이미 생겼을 때의 즉각적 진통과 달리 **두통이 발생하는 날을 줄이는 예방효과**를 평가한 근거입니다. 연구 기간과 가짜침 비교 조건을 함께 읽고 두통일지·급성약 사용·생활 방해를 추적합니다. [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) · [DOI 10.1136/bmj.m697](https://doi.org/10.1136/bmj.m697)
+통증이 이미 생겼을 때의 즉각적 진통과 달리 **두통이 발생하는 날을 줄이는 예방효과**를 평가한 근거입니다. 연구 기간과 가짜침 비교 조건을 함께 확인하고 두통일지·급성약 사용·생활 방해를 추적합니다. [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) · [DOI 10.1136/bmj.m697](https://doi.org/10.1136/bmj.m697)
 
 2026년 전조 없는 급성 편두통 환자 80명의 sham 대조 RCT는 10분 시점의 진통 반응과 통증강도를 평가했습니다. 급성기 결과이므로 장기 예방 연구와 구분합니다. [PMID 42265857](https://pubmed.ncbi.nlm.nih.gov/42265857/)
 
@@ -203,7 +203,7 @@ Zhao 등의 2019년 *JAMA Internal Medicine* 다기관 RCT는 **404명을 배정
 
 → [항암치료 유발 오심·구토](../authority/conditions/chemotherapy-nausea-vomiting.md) · [항암치료 유발 말초신경병증](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md)
 
-암 치료 이후의 만성통증은 [PEACE·JAMA Oncology 360명 시험](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial), 오래 지속된 방사선 구강건조는 [JAMA Network Open 미국 33개 기관 시험](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial)에서 치료·비교군·증상과 삶의 질을 확인합니다. [암 치료 후 회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading)와 함께 읽습니다.
+암 치료 이후의 만성통증은 [PEACE·JAMA Oncology 360명 시험](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial), 오래 지속된 방사선 구강건조는 [JAMA Network Open 미국 33개 기관 시험](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial)에서 치료·비교군·증상과 삶의 질을 확인합니다. [암 치료 후 회복 안내](../conditions/cancer-treatment-recovery.md#oncology-landmark-reading)와 함께 확인할 수 있습니다.
 
 #### 유방암 호르몬치료 관련 관절통: 본시험과 1년 추적 {#ai-arthralgia-landmark}
 
@@ -213,7 +213,7 @@ Hershman 등의 2018년 *JAMA* RCT는 미국 **11개 기관·226명**의 폐경 
 
 같은 시험의 **2022년 JAMA Network Open 장기추적**에서는 191명(84.5%)의 기저치·52주 최악 통증 BPI-WP 자료를 분석했으며, 52주 조정 통증점수는 가짜침보다 **1.08점(95% CI 0.24–1.91; P=0.01)**, 대기군보다 **0.99점(0.12–1.86; P=0.03)** 낮았습니다. 통증 개선이 1년 시점에도 관찰된 결과이며 **2018년 본시험과 독립된 새 226명 시험으로 중복 집계하지 않습니다**. 24–52주에는 모든 군에 추가 침 10회를 제공받을 기회가 있었고 실제 추가 침 이용은 군별 약 11–13%였으므로, 모두가 치료 종료 뒤 전혀 추가 시술을 받지 않았다고 설명하지 않습니다. [PMID 36367721](https://pubmed.ncbi.nlm.nih.gov/36367721/) · [DOI 10.1001/jamanetworkopen.2022.41720](https://doi.org/10.1001/jamanetworkopen.2022.41720)
 
-**암 치료 과정의 관절통 관리**에 대한 사람 대상 근거로, [2022년 SIO–ASCO 권고](../portal/evidence.md#guideline-mechanism-results)와 함께 읽습니다. 유방암 자체의 치료효과나 호르몬치료 중단 근거로 바꾸지 않고 [암 치료 후 회복 자료](../conditions/cancer-treatment-recovery.md)로 이어갑니다.
+**암 치료 과정의 관절통 관리**에 대한 사람 대상 근거로, [2022년 SIO–ASCO 권고](../portal/evidence.md#guideline-mechanism-results)와 함께 확인할 수 있습니다. 유방암 자체의 치료효과나 호르몬치료 중단 근거로 바꾸지 않고 [암 치료 후 회복 자료](../conditions/cancer-treatment-recovery.md)로 이어갑니다.
 
 2026년 유방암 생존자 35명의 이중눈가림 예비 RCT는 증상 맞춤 전침을 10주간 시행해 주의력과 심리적 고통의 변화를 평가했습니다. 소규모 예비시험이므로 후속 다기관 검증이 필요한 신호로 봅니다. [암 치료 후 회복 연구 상세](../conditions/cancer-treatment-recovery.md) · [PMID 41926740](https://pubmed.ncbi.nlm.nih.gov/41926740/)
 
@@ -235,7 +235,7 @@ Sun 등의 2021년 *Annals of Internal Medicine* RCT는 중등도~중증 만성�
 
 → [변비 연구의 대상·횟수·추적](../authority/electroacupuncture.md#ea-constipation-trial) · [복압성 요실금 연구의 결과](../authority/electroacupuncture.md#ea-incontinence-trial)
 
-## 약침 근거를 따로 읽는 이유
+## 약침 연구에서 추가로 확인할 사항 {#약침-근거를-따로-읽는-이유}
 
 약침은 침 자극과 약침액 주입을 결합하므로 다음 정보를 추가로 확인합니다.
 
@@ -257,11 +257,11 @@ Sun 등의 2021년 *Annals of Internal Medicine* RCT는 중등도~중증 만성�
 4. 멍·출혈·어지럼·알레르기 등 이상반응을 함께 점검합니다.
 5. 경과에 따라 유지·자극량 조정·치료 전환·추가검사를 결정합니다.
 
-## 침 연구 전체 지형
+## 침 연구 분야별 자료 {#침-연구-전체-지형}
 
 2017–2022년에 발표된 체계적 문헌고찰·메타분석을 다시 검토한 2025년 review of reviews는 침 연구가 축적된 질환군과 근거의 질적 분포를 업데이트했습니다. [PMID 40021024](https://pubmed.ncbi.nlm.nih.gov/40021024/)
 
-전체 지형은 연구 분야를 조망하는 데 활용하고, 실제 질환 페이지에서는 **해당 질환의 대표 RCT와 최신 체계적 문헌고찰·메타분석**을 우선 확인합니다.
+전체 목록에서는 연구 분야별 자료를 찾을 수 있습니다. 질환별 문서에서는 **해당 질환의 대표 RCT와 최신 체계적 문헌고찰·메타분석**을 우선 확인합니다.
 
 ## 더 깊게 보기
 
