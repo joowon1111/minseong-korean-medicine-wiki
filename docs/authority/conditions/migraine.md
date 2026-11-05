@@ -38,6 +38,12 @@ last_reviewed: 2026-09-15
 
 두 시험은 참여자, 자극 방식, 대조군, 치료 횟수와 평가 지표·시점이 달라 결과를 단순 평균하거나 한 시험만으로 전체 효과를 확정하기 어렵습니다. 특히 피부를 관통하는 가짜침은 생리적으로 비활성인 대조라고 전제할 수 없습니다. 차이가 없었던 결과와 차이가 관찰된 결과를 함께 보고, 체계적 문헌고찰에서는 연구별 편향 위험과 차이를 살핍니다. [2005년 원논문](https://pubmed.ncbi.nlm.nih.gov/15870415/) · [2020년 원논문](https://pubmed.ncbi.nlm.nih.gov/32213509/) · [편두통의 진단과 약 복용일수](../../conditions/migraine.md#frequency)
 
+### Cochrane 종합근거: 예방치료의 반응률 {#cochrane-migraine-prevention}
+
+Linde 등의 2016년 Cochrane 고찰은 **삽화성 편두통 22개 시험·4,985명**을 포함했고 전체 근거의 질을 중간 수준으로 평가했습니다. 예방치료 후 두통 빈도가 50% 이상 감소한 비율은 **통상관리 비교에서 침 41% 대 17%, 가짜침 비교에서 50% 대 41%**였습니다. 두 비교는 서로 다른 시험을 묶은 결과입니다.
+
+침은 두통 빈도를 줄이는 예방 선택지로 평가됐으며, 가짜침과 비교한 추가 차이는 작았습니다. 약물 비교에서는 이상반응과 그로 인한 중단이 침군에서 적게 보고됐습니다. 검색 시점이 2016년이므로 이후의 [2017년 예방시험](#jama-migraine-prevention)과 [2020년 BMJ 시험](../../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial)을 함께 읽습니다. [Cochrane 원문](https://www.cochrane.org/evidence/CD001218_acupuncture-preventing-migraine-attacks) · [PMID 27351677](https://pubmed.ncbi.nlm.nih.gov/27351677/)
+
 ### 예방치료와 체계적 문헌고찰
 
 편두통은 침 연구가 비교적 많이 축적된 두통 영역입니다.
