@@ -24,8 +24,10 @@ last_reviewed: 2026-08-30
 | 우울증과 함께 수면이 나빠짐 | 270명 전침 병행시험: 수면의 질 PSQI와 추적 | [대상·표준관리·수면 결과](../../conditions/insomnia.md#jama-depression-insomnia-trial) |
 | 기존 COPD 치료 중 활동할 때 숨참 | 일본 68명 위약침 비교: 보행 직후 숨참과 보행거리 | [일본 CAT와 후속 종합근거](copd.md#japanese-cat-trial) |
 | 여성의 기침·웃음·활동 시 소변 누출 | 504명 JAMA 전침 시험: 패드검사 누출량 | [누출량과 배뇨일지](../electroacupuncture.md#ea-incontinence-trial) |
-| 남성의 만성 골반통·배뇨 불편 | 440명 시험: NIH-CPSI 6점 이상 개선과 지속성 | [임상적으로 의미 있는 반응](../../evidence-integrated/acupuncture-evidence.md#cpps-landmark) |
+| 남성의 만성 골반통·배뇨 불편 | 440명 시험: NIH-CPSI 6점 이상 개선과 지속성 | [직접 비교 결과·AUA 권고](../../conditions/chronic-prostatitis.md#cpps-direct-trial) |
 | 암 치료 후 지속된 근골격통 | 미국 PEACE 360명: 전침·이침 대 통상진료 | [평균 통증과 치료별 내약성](cancer-related-pain.md#peace-cancer-pain-trial) |
+| 진행암 진료 중 지속되는 통증 | IMPACT 298명: 침·마사지, 최악 통증과 피로·수면·삶의 질 | [26주 경과·활성 치료 비교](cancer-related-pain.md#impact-advanced-cancer-trial) |
+| 암 치료 중·후 피로와 활동 저하 | 유방암 침시험·대장암 홍삼·서양삼 위약대조시험 | [제제·치료 단계·주평가 구분](cancer-related-fatigue.md#herbal-supportive-evidence) |
 | 두경부 방사선치료 후 오래된 입마름 | 미국 258명: 구강건조 환자보고 점수·삶의 질 | [증상과 타액분비를 구분](radiation-xerostomia.md#chronic-xerostomia-trial) |
 
 이 표는 연구를 찾기 위한 안내입니다. 진단·중증도·병용치료가 다르면 적용 범위도 달라집니다. 한약·침·약침의 치료별 대표 성과는 [출처·근거 전체 안내](../index.md#authority-clinical-results)에서 비교할 수 있습니다.
@@ -97,7 +99,7 @@ last_reviewed: 2026-08-30
 
 ### 비뇨기·남성건강
 
-- [만성전립선염·만성골반통증후군](chronic-prostatitis-cpps.md) · [근거 업데이트](chronic-prostatitis-cpps-update.md)
+- [만성전립선염·만성골반통증후군의 치료·근거](../../conditions/chronic-prostatitis.md#cpps-direct-trial) · [AUA 지침](../../conditions/chronic-prostatitis.md#cpps-aua-guideline)
 - [과민성방광](overactive-bladder.md) · [발기부전](erectile-dysfunction.md)
 - [수술 후 요폐](postoperative-urinary-retention.md)
 
