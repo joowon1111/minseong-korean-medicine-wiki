@@ -27,7 +27,7 @@ last_reviewed: '2026-08-29'
 
 ## 임상 효과를 보여주는 대표 성과 {#clinical-effect-landmarks}
 
-**효과가 확인된 대상과 결과에서 출발**하려면 [한의학 치료 핵심 성과 30편](../portal/evidence.md#landmark-clinical-results)을 먼저 읽습니다. 침·전침은 통증과 일상 기능, 소화·배변·배뇨 기능을 평가한 시험으로, 한약은 국내 처방의 비교효과·위약대조시험과 특정 복합제제의 장기 임상 결과로 연결됩니다.
+[한의학 치료의 대표 임상연구](../portal/evidence.md#landmark-clinical-results)에서 **치료효과가 확인된 환자군과 주요 결과**를 확인할 수 있습니다. 침·전침은 통증과 일상 기능, 소화·배변·배뇨 기능을 평가한 시험으로, 한약은 국내 처방의 비교효과·위약대조시험과 특정 복합제제의 장기 임상 결과로 연결됩니다.
 
 [침의 대표 연구](acupuncture-evidence.md#acupuncture-landmark-reading) · [한약의 대표 연구](../authority/formulas/herbal-formula-evidence-hub.md#herbal-landmark-results) · [국내 추나·약침 연구](../portal/evidence.md#korean-treatment-results)에서 성과와 적용 조건을 확인한 뒤 아래 통합 임상 흐름으로 이어갑니다.
 
@@ -38,8 +38,8 @@ last_reviewed: '2026-08-29'
 | RCT·메타분석·진료지침의 차이 | [근거 수준 읽기](evidence-levels.md) |
 | 논문의 PMID·DOI와 원문 찾기 | [논문·PMID·DOI 찾기](find-research.md) |
 | 한약 연구를 올바르게 비교하기 | [한약 현대 근거](herbal-evidence.md) |
-| 침·전침·약침 연구를 읽기 | [침구 연구](acupuncture-evidence.md) |
-| 사상체질 진단·처방 연구를 읽기 | [사상의학 연구](sasang-evidence.md) |
+| 침·전침·약침의 효과와 치료 조건 | [침구 연구](acupuncture-evidence.md) |
+| 사상체질 진단·처방 연구 | [사상의학 연구](sasang-evidence.md) |
 | 고전 원문과 후대 문헌 구분하기 | [고전·전통자료](classical-sources.md) |
 | 연구 결과를 실제 환자에게 적용하기 | [근거를 임상에 적용하기](clinical-application.md) |
 | 질환별 임상근거부터 찾기 | [질환별 현대 근거 카드](../authority/conditions/index.md) |
@@ -124,7 +124,7 @@ last_reviewed: '2026-08-29'
 - 어떤 증상과 기능이
 - 어느 시점에 개선됐는지
 
-연구의 조건을 명확히 쓰는 것은 긍정적 결과를 약화하는 것이 아니라 **어떤 환자에게 활용할 수 있는지 선명하게 만드는 과정**입니다.
+연구의 대상·치료 조건·효과 크기를 구체적으로 제시하면 **어떤 환자에게 활용할 수 있는지** 더 정확하게 설명할 수 있습니다.
 
 ## 전통지식과 현대 연구의 연결
 

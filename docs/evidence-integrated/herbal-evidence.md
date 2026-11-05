@@ -9,9 +9,9 @@ last_reviewed: '2026-09-05'
 
 한약 연구는 처방 이름과 긍정적인 결론만 확인해서는 충분하지 않습니다. **무엇을 어떤 구성·제형·용량으로, 어떤 환자에게, 어느 기간 사용해 무엇과 비교했는지**를 함께 보아야 실제 임상과 연결할 수 있습니다.
 
-## 효과를 확인한 주요 연구부터 읽기 {#herbal-effect-studies}
+## 치료효과를 평가한 주요 임상연구 {#herbal-effect-studies}
 
-[한약의 핵심 임상 성과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-landmark-results)에는 국내 육군자탕·평위산·소청룡탕, 마자인환과 IBS 복합 한약의 위약대조시험, 특정 표준화 제제의 장기 임상 결과가 정리돼 있습니다. 각 자료는 실제 사용 처방·비교군·효과 크기에서 출발합니다. 성과를 먼저 읽고 이 페이지의 제형·구성·용량 해석으로 돌아오면 연구와 실제 처방의 연결이 더 분명해집니다.
+[한약의 핵심 임상 성과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-landmark-results)에는 국내 육군자탕·평위산·소청룡탕, 마자인환과 IBS 복합 한약의 위약대조시험, 특정 표준화 제제의 장기 임상 결과가 정리돼 있습니다. 이 페이지에서는 연구에 사용된 처방의 구성·제형·용량, 비교군과 효과 크기를 확인하는 방법을 설명합니다. 실제 처방과 연구 제제가 얼마나 가까운지 판단하는 데 도움이 됩니다.
 
 ## 먼저 구분합니다
 
@@ -76,7 +76,7 @@ last_reviewed: '2026-09-05'
 
 [발효한약 연구 해설](../research/fermented-herbs.md)은 쌍화탕의 성분 전환, 발효홍삼 약동학과 비염 임상시험, 발효 사료 동물연구를 비교합니다. 효소식품의 활성 단위와 환자 결과는 [곡물효소 연구](../conditions/grain-fermented-enzymes.md#research-summary)로 나누어 연결합니다.
 
-## 비교군을 읽는 법
+## 비교군에 따른 연구 목적 {#비교군을-읽는-법}
 
 - **한약 vs 위약:** 연구 처방 자체의 효과를 평가
 - **한약 vs 통상치료:** 기존 치료와 상대적 결과를 비교
@@ -99,9 +99,9 @@ last_reviewed: '2026-09-05'
 
 [한약의 간 안전성 연구](../herbal-integrated/safety.md#liver-safety-evidence)는 복용 전후 검사, 전향적 관찰, 보험자료 분석을 구분해 읽는 실제 사례입니다. 평균 간수치 변화와 인과성을 평가한 간손상 발생은 각각 확인합니다.
 
-## 대표 임상연구를 읽는 예
+## 대표 임상연구의 확인 사례 {#대표-임상연구를-읽는-예}
 
-1998년 과민성장증후군 이중맹검 RCT([PMID 9820260](https://pubmed.ncbi.nlm.nih.gov/9820260/))에서는 복합 한약과 위약을 비교했습니다. **116명·16주 시험의 상세 결과는 [IBS 임상근거 문서](../authority/conditions/irritable-bowel-syndrome.md#jama-herbal-trial)**에 모았습니다. 대상군·실제 처방·평가 시점을 따라 읽으면 결과의 적용 범위를 확인할 수 있습니다.
+1998년 과민성장증후군 이중맹검 RCT([PMID 9820260](https://pubmed.ncbi.nlm.nih.gov/9820260/))에서는 복합 한약과 위약을 비교했습니다. **116명·16주 시험의 상세 결과는 [IBS 임상근거 문서](../authority/conditions/irritable-bowel-syndrome.md#jama-herbal-trial)**에 모았습니다. 대상군·실제 처방·평가 시점을 대조하면 결과의 적용 범위를 판단할 수 있습니다.
 
 ## 긍정적 결과를 소개하는 표준
 

@@ -12,19 +12,19 @@ last_reviewed: '2026-09-05'
 
 논문을 바로 찾으려면 [질환별 임상근거](../authority/conditions/index.md), [한약·처방 연구](../authority/formulas/herbal-formula-evidence-hub.md), [침·전침 연구](../evidence-integrated/acupuncture-evidence.md)에서 주제를 고르세요. [논문 검색 방법](../evidence-integrated/find-research.md)에서는 PMID·DOI와 원문을 확인하는 경로를 안내합니다. 기초 용어와 과목별 복습은 [한의학 공부·입문 학습실](../learning/index.md)에서 시작할 수 있습니다.
 
-**먼저 읽기:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [먼저 읽을 핵심 연구](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [침과 뇌·신경계](#acupuncture-neuroscience) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [간·신장 관찰·안전성 연구](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
+**주요 연구 분야:** [자율신경·소화·수면·심계·두통·통증](#symptom-focused-evidence) · [대표 임상연구](#high-impact-journal-studies) · [침·전침](#landmark-acupuncture) · [침과 뇌·신경계](#acupuncture-neuroscience) · [변증·경혈 데이터 연구](../acupuncture-integrated/evidence.md#pattern-profiles-2026) · [한약](#landmark-herbal) · [일본 의사들의 Kampo 연구](#japan-kampo-studies) · [간·신장 연구](#liver-kidney-research) · [간·신장 관찰·안전성 연구](#japan-liver-kidney-studies) · [국내 약침 비교시험](#korean-treatment-results) · [국제 진료지침](#international-clinical-guidelines) · [코호트와 연구설계](#study-design-reading)
 
 ## 한의학 치료의 효과를 보여주는 핵심 연구 {#landmark-clinical-results}
 
-**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래는 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 읽습니다.
+**침의 통증·기능 개선, 한약의 소화기 증상 개선, 특정 복합 한약제제의 질병 진행·입원 감소는 사람 대상 비교 연구에서 확인된 중요한 성과입니다.** 아래는 무작위배정과 비교군, 환자에게 중요한 결과, 연구 규모와 추적기간을 기준으로 선별한 대표 자료입니다. 최신 국내 시험과 국제 다기관 연구, 이후 연구의 토대가 된 핵심 논문을 함께 소개합니다.
 
 학술지 이름에 더해 **얼마나 좋아졌는지, 무엇과 비교했는지, 효과가 얼마나 이어졌는지**를 확인합니다. 국내 한의 임상시험, 해외 침 연구, 중국의 특정 표준화 한약제제 시험은 실제 연구된 치료를 명시해 소개합니다. 해외 제제의 수치를 국내 모든 탕약의 효과로 바꾸지 않습니다.
 
-### 먼저 읽을 연구: 설계와 임상 성과 {#high-impact-journal-studies}
+### 대표 임상연구: 설계와 치료 성과 {#high-impact-journal-studies}
 
 **치료 후 무엇이 얼마나 좋아졌는지, 그 차이를 믿을 만한 비교로 확인했는지**를 기준으로 대표 연구를 골랐습니다. 학술지의 영향력지수(IF)보다 무작위배정·눈가림·사전 주평가·추적 결과를 먼저 봅니다.
 
-| 분야 | 우선 읽을 근거와 강점 | 환자에게 중요한 성과 |
+| 분야 | 대표 근거와 연구의 강점 | 환자에게 중요한 성과 |
 |---|---|---|
 | 만성통증 | [39개 RCT·20,827명 개인자료 메타분석](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd): 배정 은폐가 적절한 시험의 환자별 자료 분석 | 통증·기능 개선과 치료효과의 지속성 |
 | 편두통 예방 | [Cochrane 22개 시험·4,985명](../authority/conditions/migraine.md#cochrane-migraine-prevention)과 이후 가짜침 대조시험 | 두통 빈도가 절반 이상 줄어든 반응과 두통일수 감소 |
@@ -33,7 +33,7 @@ last_reviewed: '2026-09-05'
 | 기능성소화불량 | [육군자탕 DREAM·학회 지침](../research/formulas/rikkunshito.md#japanese-fd-trials): 다기관 위약대조와 진료 권고의 연결 | 전체 치료효과와 식후포만·조기포만 개선 |
 | 박출률 감소 심부전 | [QUEST 기력강심 시험](../authority/formulas/herbal-formula-evidence-hub.md#herbal-major-outcomes): 133개 기관·3,110명 주분석 | 표준치료에 시험제제를 더했을 때 입원·심혈관 사망 복합사건 감소 |
 
-이 표는 독서의 우선순위이며 개별 논문에 새 GRADE 등급을 부여한 평가는 아닙니다. 아래에서는 각 연구의 비교군과 결과를 확인하고, 소규모 예비시험·관찰·기전 연구는 해당 질문의 상세 자료로 이어집니다. [대표 근거를 고르는 기준](../guide/citation-policy.md#representative-evidence-selection)
+치료 분야별 대표 연구를 정리한 표입니다. 각 연구의 대상·비교군·치료 결과는 아래에 설명하고, 예비시험·관찰연구·기전 연구는 관련 상세 문서에서 구분해 소개합니다. [대표 근거를 고르는 기준](../guide/citation-policy.md#representative-evidence-selection)
 
 ### 침·전침: 통증에서 소화·배뇨 기능까지 {#landmark-acupuncture}
 
@@ -65,9 +65,9 @@ last_reviewed: '2026-09-05'
 
 ### 침·전침·약침과 뇌·신경계 연구 {#acupuncture-neuroscience}
 
-침 자극은 조직과 감각신경에서 시작해 척수·뇌 및 자율신경계와 관련된 반응으로 연구됩니다. 아래 논문들은 서로 다른 질문을 다룹니다. **생쥐의 신경회로 실험, 사람의 뇌영상·생리지표, 환자에게 중요한 증상과 기능**을 나란히 보되 각각의 근거로 읽습니다.
+침 자극은 조직과 감각신경에서 시작해 척수·뇌 및 자율신경계와 관련된 반응으로 연구됩니다. 아래 논문들은 서로 다른 질문을 다룹니다. **동물의 신경회로 실험, 사람의 뇌영상·생리지표 연구, 환자의 증상·기능을 평가한 임상시험**으로 나누어 소개합니다.
 
-| 연구 질문 | 대표 논문과 직접 관찰한 내용 | 자세히 읽기 |
+| 연구 질문 | 대표 논문과 직접 관찰한 내용 | 상세 내용 |
 |---|---|---|
 | 손목과 떨어진 곳의 전침이 신경과 뇌에 미치는 영향은? | Maeda 등, *Brain*, 2017: 손목터널증후군 환자의 증상·정중신경 전도·감각피질 지도를 비교. 세 군 모두 증상이 줄었고 실제 전침군에서 일부 생리지표가 가짜침보다 개선 | [대상·비교군·3개월 경과](../acupuncture-science/brain-central.md#carpal-tunnel-study) · [원저](https://pubmed.ncbi.nlm.nih.gov/28334999/) |
 | 만성통증과 뇌의 연결은 어떻게 연구할까? | Mawla 등, 2021: 섬유근육통 76명에서 전침과 모의 레이저를 비교하고 통증·fMRI·MRS를 측정 | [통증·섬엽 GABA+·영상 해석](../acupuncture-science/brain-central.md#fibromyalgia-neuroimaging) · [원저](https://pubmed.ncbi.nlm.nih.gov/33314799/) |
@@ -76,7 +76,7 @@ last_reviewed: '2026-09-05'
 | 자침 부위에서 국소 반응이 나타날까? | Goldman 등, *Nature Neuroscience*, 2010: 생쥐의 아데노신 A1 수용체와 국소 항통각 반응을 조사 | [동물 수용체 실험과 사람 조직액 측정](../acupuncture-science/peripheral-afferent.md#atpadenosine) · [원저](https://pubmed.ncbi.nlm.nih.gov/20512135/) |
 | 약침의 신경계 작용을 어떻게 살필까? | 자침·주입과 제제별 작용을 나누는 연구 설계와 봉독의 안전성 | [약침의 비교군·제제·안전성](../authority/pharmacopuncture.md#pharmaco-neural-research) |
 
-영상의 기능적 연결성은 뇌 영역 간 신호 변동의 관계이며 신경이 새로 자랐다는 직접 측정값이 아닙니다. 동물에서 확인한 경로도 사람의 질환 치료효과와 별도로 검증해야 합니다. [침의 과학적 접근](../acupuncture-science/index.md#neuroscience-research-map)에서 말초·척수·뇌·자율신경 연구를 순서대로 읽고, [질환별 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading)에서 실제 통증과 기능 결과를 확인합니다.
+영상의 기능적 연결성은 뇌 영역 간 신호 변동의 관계이며 신경이 새로 자랐다는 직접 측정값이 아닙니다. 동물에서 확인한 경로도 사람의 질환 치료효과와 별도로 검증해야 합니다. [침의 과학적 접근](../acupuncture-science/index.md#neuroscience-research-map)에서 말초·척수·뇌·자율신경 연구를 확인하고, [질환별 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading)에서 실제 통증과 기능 결과를 확인합니다.
 
 ### 한약: 증상 개선과 장기 임상 결과 {#landmark-herbal}
 
@@ -95,7 +95,7 @@ last_reviewed: '2026-09-05'
 
 ### 간·신장질환: 치료 결과와 안전성 연구 {#liver-kidney-research}
 
-**간·신장 연구는 대상·비교군·평가항목을 같은 기준으로 살펴봅니다.** 저널의 전문성과 공신력에 더해 연구 설계·규모·추적기간을 함께 고려하고, 무작위 비교시험과 장기추적을 먼저 배치했습니다. 간효소·섬유화·간암 발생·단백뇨·여과기능·복용 안전성은 각 연구가 답하는 질문에 맞춰 읽습니다.
+**간·신장 연구는 대상·비교군·평가항목을 같은 기준으로 살펴봅니다.** 저널의 전문성과 공신력에 더해 연구 설계·규모·추적기간을 함께 고려하고, 무작위 비교시험과 장기추적을 먼저 배치했습니다. 간효소·섬유화·간암 발생·단백뇨·여과기능·복용 안전성은 각 연구에서 실제로 평가한 결과를 구분해 확인합니다.
 
 #### 무작위 비교시험과 장기추적 {#brc-hepatitis-trial}
 
@@ -108,7 +108,7 @@ last_reviewed: '2026-09-05'
 | **일본 소아 IgA 신병증 연구그룹**, Yoshikawa 등 · *일본신장학회지*, 1997 | 고베대·기타사토대 Kidney Center·도쿄도립 소아병원 신장과 등 참여; 경미한 메산지움 증식 소아 IgA 신병증 **101명**, 시령탕(TJ-114) 2년 대 무투약 무작위 비교 | 완료자 46명 대 48명 중 소변검사 정상화 **21명(46%) 대 5명(10%)**; 단백뇨·혈뇨 감소. [원저 PMID 9283216](https://pubmed.ncbi.nlm.nih.gov/9283216/) · [일본신장학회지 원문·기관정보](https://www.jstage.jst.go.jp/article/jpnjnephrol1959/39/5/39_5_503/_article/-char/en/) |
 | **高橋久雄·丸山勝也**, *医学のあゆみ*, 1993 | 입원 알코올의존 환자 **49명**, 소시호탕 24명 대 소시호탕·인진오령산 합방 25명 무작위 비교, 3개월 | 두 군의 증상·간검사 개선과 합방군의 ALP 감소를 평가. 입원 중 금주와 병행한 두 한약치료의 비교. [일본동양의학회 구조화 초록](https://www.jsom.or.jp/ebm/er/file/930013.pdf) · [치료 구성·결과](../herbal-integrated/safety.md#kampo-liver-trials) |
 
-위 시험의 결과는 해당 제제·환자군·평가기간에 맞춰 읽습니다. **시령탕(柴苓湯, Saireito)**은 소시호탕·오령산 계열의 복합처방이며, 소아 IgA 신병증 시험의 소변검사 결과와 성인 CKD 시험의 eGFR 결과는 각각의 치료 목표를 보여줍니다. [처방·병용과 추적검사](../herbal-integrated/safety.md#safety-evidence-guide)를 함께 확인할 수 있습니다.
+위 시험의 결과를 적용할 때에는 사용 제제·환자군·평가기간을 확인합니다. **시령탕(柴苓湯, Saireito)**은 소시호탕·오령산 계열의 복합처방이며, 소아 IgA 신병증 시험의 소변검사 결과와 성인 CKD 시험의 eGFR 결과는 각각의 치료 목표를 보여줍니다. [처방·병용과 추적검사](../herbal-integrated/safety.md#safety-evidence-guide)를 함께 확인할 수 있습니다.
 
 #### 실제 진료 관찰·안전성·기전 연구 {#japan-liver-kidney-studies}
 
@@ -122,19 +122,19 @@ last_reviewed: '2026-09-05'
 | **게이오대 한방의학센터**, Yoshino 등 · *Frontiers in Pharmacology*, 2022 | 경도·중등도 CKD **37명**, 황기 함유 처방 전후 의무기록의 자기대조 사례군 | 평균 eGFR **66±12 → 70±14mL/min/1.73m²**(P<0.001). [PMID 35300298](https://pubmed.ncbi.nlm.nih.gov/35300298/) · [검사 추적과 처방 범위](../authority/formulas/kidney-disease-herbal-map.md#astragalus-japan-series) |
 | **나고야대·아이치암센터 간담도 외과 연구진**, Yamashita 등 · *Pharmacological Research*, 2022 | 외부 담도배액을 받은 악성 폐쇄성 황달 **52명**, 인진호탕 7.5g/일의 단기 투여와 장내미생물·담즙량 연구 | 투여 2·3일째 담즙량 변화와 분변의 genipin 생성능 사이 양의 상관(r=0.40·0.29). 한약 성분의 장내 전환과 담즙 반응을 연결. [PMID 34798264](https://pubmed.ncbi.nlm.nih.gov/34798264/) |
 
-관찰연구의 연관, 단기 검사 변화와 세포 반응은 각자의 연구 질문에 대한 성과입니다. 인진호탕은 담도배액을 받은 환자의 담즙 반응을 평가했습니다. 증례·세포 연구와 이전 종설의 세부 내용은 아래 자료실에서 연구유형별로 확인합니다. [간질환 치료·안전성 자료](../herbal-integrated/safety.md#liver-treatment-evidence)와 [신장질환 임상연구 지도](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies)에서 세부 결과를 이어 읽을 수 있습니다.
+관찰연구의 연관, 단기 검사 변화와 세포 반응은 각자의 연구 질문에 대한 성과입니다. 인진호탕은 담도배액을 받은 환자의 담즙 반응을 평가했습니다. 증례·세포 연구와 이전 종설의 세부 내용은 아래 자료실에서 연구유형별로 확인합니다. [간질환 치료·안전성 자료](../herbal-integrated/safety.md#liver-treatment-evidence)와 [신장질환 임상연구 지도](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies)에서 세부 결과를 확인할 수 있습니다.
 
 ### 본초 유래 분리 성분의 주요 임상연구 {#herb-derived-component-studies}
 
 **베르베린의 대장선종 재발 감소**는 본초 유래 성분을 사람에게 직접 비교한 성과입니다. Chen 등의 *The Lancet Gastroenterology & Hepatology* 2020년 다기관 이중눈가림 시험은 1,108명을 배정하고 유효성 자료가 있는 891명을 분석했습니다. 선종 재발은 **36% 대 위약 47%, RR 0.77**이었습니다. [황련·베르베린의 구분과 상세 결과](../herbs/coptis.md#berberine-adenoma-trial) · [PMID 31926918](https://pubmed.ncbi.nlm.nih.gov/31926918/)
 
-이 시험은 **본초 유래 분리 성분 정제**를 평가했습니다. 위의 복합 한약처방 임상시험과 제제·연구 질문을 구분해 읽습니다.
+이 시험은 **본초 유래 분리 성분 정제**를 평가했습니다. 복합 한약처방 임상시험과 제제·연구 목적이 다릅니다.
 
 ### 일본 Kampo: 소화·두통·수면과 전문 진료의 연구 {#japan-kampo-studies}
 
-**일본의 한약 연구는 내과·소화기 전문 진료, 다기관 위약대조시험, 학회 진료지침으로 이어집니다.** 일본내과학회지의 2021년 「내과 진료에서 한방의 역할: 최신 정보」는 내과의를 포함한 임상의의 의료용 한방제제 활용과 육군자탕·억간산 연구를 설명합니다. 학회의 임상 해설과 실제 효과를 비교한 RCT를 함께 읽으면 일본 의료계에서 한약을 어떻게 연구하고 사용하는지 구체적으로 확인할 수 있습니다.
+**일본의 한약 연구는 내과·소화기 전문 진료, 다기관 위약대조시험, 학회 진료지침으로 이어집니다.** 일본내과학회지의 2021년 「내과 진료에서 한방의 역할: 최신 정보」는 내과의를 포함한 임상의의 의료용 한방제제 활용과 육군자탕·억간산 연구를 설명합니다. 학회의 임상 해설과 실제 효과를 비교한 RCT를 함께 살펴보면 일본 의료계에서 한약을 어떻게 연구하고 사용하는지 구체적으로 확인할 수 있습니다.
 
-| 공신력 있는 일본 자료 | 먼저 읽을 내용 | 원문·상세 연결 |
+| 공신력 있는 일본 자료 | 주요 내용 | 원문·상세 연결 |
 |---|---|---|
 | **일본내과학회지**, Shimada, 2021;110:817–823 | 내과 진료에서 Kampo의 역할과 연구·안전성 개요; 임상 해설 | [日本内科学会雑誌 원문](https://www.jstage.jst.go.jp/article/naika/110/4/110_817/_article/-char/ja) |
 | **일본내과학회지**, Manabe·Haruma, 2019;108:55–62 | 만성변비에서 배변뿐 아니라 복부팽만·복통을 함께 다루는 처방 활용; 임상 해설 | [만성변비 한방치료 원문](https://www.jstage.jst.go.jp/article/naika/108/1/108_55/_article/-char/ja/) |
@@ -146,7 +146,7 @@ last_reviewed: '2026-09-05'
 
 **Kampo(漢方)는 현대 일본 한방의학을 가리키고, 황한의학(皇漢醫學)은 역사적 부흥과 유모토 규신의 저술을 이해할 때 쓰는 명칭입니다.** 일본동양의학회의 [역사 해설](https://www.jsom.or.jp/kampo/about/note02.html)은 고방파와 근현대 부흥을 함께 설명합니다. 대건중탕·반하사심탕은 금궤·상한론의 고방이고 육군자탕은 후세방 계열이므로, 일본 연구 전체를 고방 연구로 묶지는 않습니다.
 
-[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **간·신장 분야**는 [임상시험·관찰·안전성 연구](#liver-kidney-research)를, **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)을 이어 읽으세요. [월비가출탕의 소규모 비무작위시험](../authority/formulas/herbal-formula-evidence-hub.md#japanese-eppikajutsuto-trial)은 탐색 자료에서 연구 설계와 안전성을 함께 확인할 수 있습니다.
+[일본 처방별 임상근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서는 육군자탕의 소화불량, 대건중탕의 수술 후 섭취 회복, 반하사심탕의 구내염 지속기간을 평가한 연구를 연결합니다. **간·신장 분야**는 [임상시험·관찰·안전성 연구](#liver-kidney-research)를, **호흡기·순환기·노인의학**은 [보중익기탕의 COPD, 반하후박탕의 폐렴 예방, 목방기탕의 심부전 증상 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#japan-nongastro-trials)을 함께 확인할 수 있습니다. [월비가출탕의 소규모 비무작위시험](../authority/formulas/herbal-formula-evidence-hub.md#japanese-eppikajutsuto-trial)은 탐색 자료에서 연구 설계와 안전성을 함께 확인할 수 있습니다.
 
 #### 일본 연구진의 두통·복부팽만·수면 연구 {#japan-symptom-studies}
 
@@ -161,13 +161,13 @@ last_reviewed: '2026-09-05'
 
 위 자료는 **임상시험·관찰연구·전문가 합의라는 서로 다른 역할**을 갖습니다. 논문에 기재된 당시 기관명을 사용했으며, 연구기관·정확한 저널명과 함께 설계·결과를 표시했습니다. 일본 연구를 한국의 진료에 연결할 때는 실제 제제·가감·대상·복용 조건을 대조합니다.
 
-**진료지침까지 이어 읽기:** 일본동양의학회의 [KCPG 공식 자료실](https://www.jsom.or.jp/ebm/cpg/)은 여러 전문과 지침에서 한방제제가 다뤄지는 위치를 보여 줍니다. [KCPG의 판본·A/B/C 유형과 소화·두통·수면·통증 연결](../evidence-clinical/guidelines.md#japan-kcpg)에서 2019 보고서와 이후 개정판을 구분하고, 실제 권고문을 읽는 방법을 설명합니다.
+**진료지침 확인:** 일본동양의학회의 [KCPG 공식 자료실](https://www.jsom.or.jp/ebm/cpg/)은 여러 전문과 지침에서 한방제제가 다뤄지는 위치를 보여 줍니다. [KCPG의 판본·A/B/C 유형과 소화·두통·수면·통증 연결](../evidence-clinical/guidelines.md#japan-kcpg)에서 2019 보고서와 이후 개정판을 구분하고, 실제 권고의 대상·강도·적용 조건을 설명합니다.
 
 **자료를 찾는 순서:** [일본동양의학회 EKAT](https://www.jsom.or.jp/ebm/ekat/)에서 처방·질환을 찾고 → 위 상세 문서의 PMID·DOI로 원 논문을 확인하고 → [소화불량](../conditions/functional-dyspepsia.md)·[두통](../conditions/headache.md)·[불면](../conditions/insomnia.md)의 치료 목표와 연결합니다. 학회 보고서·종설의 소개와 원저 결과를 나누고, 같은 환자를 다룬 후속 논문은 독립 시험으로 중복 계산하지 않습니다.
 
-### 규모·설계·저널을 함께 읽는 방법 {#study-design-reading}
+### 연구 규모·설계·저널을 평가하는 기준 {#study-design-reading}
 
-**큰 표본, 정교한 설계, 공신력 있는 저널은 연구를 평가할 중요한 단서입니다.** 여기에 환자가 체감하는 효과의 크기와 지속기간을 더하면 성과가 더욱 잘 전달됩니다. 연구유형은 답하려는 질문에 맞춰 읽습니다.
+**큰 표본, 정교한 설계, 공신력 있는 저널은 연구를 평가할 중요한 단서입니다.** 여기에 환자가 체감하는 효과의 크기와 지속기간을 더하면 성과가 더욱 잘 전달됩니다. 연구유형마다 확인할 수 있는 내용이 다릅니다.
 
 | 설계 | 어떤 강점이 있나요? | 아카이브의 실제 사례 |
 |---|---|---|
@@ -194,7 +194,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 ### 국제 진료지침에서 확인하는 치료의 역할 {#international-clinical-guidelines}
 
-**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 개별 임상시험과 역할을 나누어 읽습니다.
+**침과 한약은 개별 연구뿐 아니라 전문 학회·공공기관의 진료지침에서도 구체적인 치료 선택지로 다뤄집니다.** 아래는 적용 질환과 권고 조건을 원문에서 확인할 수 있는 사례입니다. 지침은 여러 연구와 환자 가치·안전·자원을 함께 검토한 권고이며, 개별 임상시험의 결과와 함께 치료 선택에 활용합니다.
 
 | 발행기관·지침 | 확인할 치료 역할 | 원문·임상 연결 |
 |---|---|---|
@@ -204,28 +204,29 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | **SIO–ASCO, 2022** · Journal of Clinical Oncology | 성인 유방암 호르몬치료 관련 관절통에 침 권고; 중간 근거·중등도 권고 | [PMID 36122322](https://pubmed.ncbi.nlm.nih.gov/36122322/) · [다기관 시험·52주 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
 | **일본소화기학회, 2021판·2022 영문** · Journal of Gastroenterology | 기능성소화불량의 1차 선택지에 육군자탕 포함; 강한 권고·근거수준 A | [PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/) · [일본 RCT와 권고](../research/formulas/rikkunshito.md#japanese-fd-trials) |
 
-**일차성 통증**은 다른 질환으로 충분히 설명되지 않는 통증 범주입니다. NICE의 일차성 통증 권고를 무릎 골관절염이나 모든 요통의 권고로 바꾸지 않습니다. [지침의 대상·강도·실행 조건 읽기](../evidence-clinical/guidelines.md#international-recommendations)에서 원 연구와 실제 권고를 함께 확인하세요.
+**일차성 통증**은 다른 질환으로 충분히 설명되지 않는 통증 범주입니다. NICE의 일차성 통증 권고를 무릎 골관절염이나 모든 요통의 권고로 바꾸지 않습니다. [지침의 대상·권고 강도·적용 조건](../evidence-clinical/guidelines.md#international-recommendations)에서 원 연구와 실제 권고를 함께 확인하세요.
 
-### 임상 권고와 작용기전으로 이어진 성과 {#guideline-mechanism-results}
+### 임상시험·진료지침·작용기전의 관계 {#guideline-mechanism-results}
 
-**2022년 SIO–ASCO 암 통증 관리 지침**은 성인의 아로마타제 억제제 관련 관절통에 침을 권고합니다. 근거 수준은 중간, 권고 강도는 중등도입니다. 암 치료 중 증상 관리에 실제 권고로 연결된 사례이며, 암 자체를 치료한다는 의미와 구분합니다. [JAMA 다기관 시험과 52주 추적](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark)에서 권고와 이어지는 직접 임상결과를 확인할 수 있습니다. [PMID 36122322](https://pubmed.ncbi.nlm.nih.gov/36122322/) · [Journal of Clinical Oncology 원문](https://doi.org/10.1200/JCO.22.01357)
+유방암 호르몬치료 관련 관절통은 **다기관 침 임상시험과 52주 추적 결과가 진료지침의 권고로 연결된 사례**입니다. [시험의 통증 변화·추적 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark)와 위 표의 [SIO–ASCO 권고 원문](https://doi.org/10.1200/JCO.22.01357)에서 연구 결과와 실제 치료 권고를 함께 확인할 수 있습니다.
 
-2021년 *Nature* 전침 연구는 생쥐에서 특정 감각신경 경로와 미주신경–부신 축을 규명했습니다. **자극 위치·강도가 생리 반응과 연결되는 신경해부학적 근거**로 읽습니다. 사람의 질환 치료효과는 위 임상시험처럼 별도로 평가합니다. [기전 연구 상세](../research/mechanism-preclinical-index.md#electroacupuncture-neural-circuit)
+작용기전 연구는 치료 자극이 몸에서 어떤 반응을 일으키는지 설명합니다. 2021년 *Nature* 전침 연구는 생쥐에서 특정 감각신경 경로와 미주신경–부신 축을 규명했습니다. **자극 위치·강도에 따른 생리 반응을 신경해부학적으로 설명한 연구**이며, 환자의 치료효과를 평가한 임상시험과 구분합니다. [기전 연구 상세](../research/mechanism-preclinical-index.md#electroacupuncture-neural-circuit)
 
-### 결과의 크기를 쉽게 읽기 {#clinical-result-numbers}
+### 연구 결과의 숫자는 무엇을 뜻하나요? {#clinical-result-numbers}
 
 - **%p:** 두 집단의 비율 차이입니다. 25.02%와 30.03%의 차이는 5.01%p입니다.
 - **HR·RR:** 비교군 대비 상대적 위험을 표현합니다. HR 0.78은 추적 중 사건 위험이 상대적으로 낮았다는 뜻이며 ‘환자의 22%가 완치됐다’는 뜻이 아닙니다.
 - **VAS·NRS·기능점수:** 점수의 범위와 개선 방향을 확인합니다. 통증 VAS 100mm 척도와 NRS 0–10점은 그대로 같은 숫자로 비교하지 않습니다.
+- **SMD·표준화 평균차:** 서로 다른 평가척도의 결과를 공통 단위로 비교한 값입니다. 통증점수처럼 특정 척도의 점수 차이로 표시한 결과와 구분합니다.
 - **반응률:** 연구가 정한 개선 기준에 도달한 비율입니다. 소화불량의 전체 반응과 모든 증상 소실, 골반통의 6점 이상 개선은 서로 다른 기준입니다.
 
-선별된 성과와 함께 [질환별 근거카드](../authority/conditions/index.md)의 후속 시험·메타분석을 읽으면 연구가 어떻게 축적되는지 확인할 수 있습니다. 치료의 전문성은 논문에서 확인된 성과를 환자의 진단·병증·복용약·생활과 연결해 적용하고 경과를 재평가하는 데 있습니다.
+[질환별 근거카드](../authority/conditions/index.md)에는 후속 시험과 메타분석도 함께 정리돼 있습니다. 실제 진료에서는 연구 대상과 환자의 진단·병증·복용약을 대조하고, 치료 후 증상과 일상 기능의 변화를 평가합니다.
 
 ## 자율신경·소화·수면·두근거림·두통·만성통증의 근거 {#symptom-focused-evidence}
 
 **한의치료 연구를 일상에 연결하려면 가장 불편한 증상과 연구가 실제로 측정한 결과를 맞춰 보는 것이 좋습니다.** 식사를 편하게 하는 것, 밤에 덜 깨는 것, 두통으로 쉬는 날이 줄어드는 것은 각각 중요한 치료 목표입니다. 여러 증상이 함께 생기더라도 한 연구의 결과를 다른 증상에 그대로 옮기지 않고, 증상별 임상자료를 연결해 치료계획을 세웁니다.
 
-| 관심 분야 | 연구에서 확인할 핵심 | 먼저 읽을 상세 문서 |
+| 관심 분야 | 연구에서 확인할 핵심 | 관련 임상근거 |
 |---|---|---|
 | 자율신경·스트레스 | HRV 변화와 수면·소화·활동 개선을 나누어 평가 | [사람 대상 HRV 연구](../acupuncture-science/autonomic.md#human-hrv-evidence) · [스트레스와 자율신경](../autonomic/index.md) |
 | 소화불량·식후 불편 | 전체 반응, 조기포만·복부팽만, 식사와 삶의 질 | [기능성소화불량 임상시험](../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [육군자탕 연구](../research/formulas/rikkunshito.md#japanese-fd-trials) |
@@ -240,9 +241,9 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 진료에서는 이 자료를 바탕으로 HRV만 추적하기보다 **잠·식사·두근거림·활동 중 무엇이 얼마나 달라지는지** 함께 확인하는 것이 유용합니다. ‘자율신경실조증’이라는 넓은 표현 안에서도 기립성 문제와 스트레스에 연동되는 증상은 평가가 다릅니다. [자율신경 증상의 감별과 치료 목표](../autonomic/index.md#five-core-symptoms)에서 실제 상태에 가까운 설명으로 이어집니다.
 
-### 소화·수면 연구: 어떤 불편이 줄었는지 읽기 {#digestion-sleep-evidence}
+### 소화·수면 연구에서 확인된 증상 개선 {#digestion-sleep-evidence}
 
-**소화불량:** 식후불편감증후군 278명을 대상으로 한 침시험은 4주간 12회 치료 후 전체 치료 반응과 핵심 증상 소실을 별도로 평가했습니다. 앞 표의 전체 반응률 83.0%는 ‘모든 증상이 사라진 비율’과 다릅니다. 식후포만·조기포만이 중심인 독자는 [이 시험의 결과와 치료 조건](../conditions/functional-dyspepsia.md#pds-acupuncture-results)을, 복통·설사가 중심이면 [IBS의 복합 반응 결과](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial)를 읽는 것이 더 적절합니다. [원저 PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/)
+**소화불량:** 식후불편감증후군 278명을 대상으로 한 침시험은 4주간 12회 치료 후 전체 치료 반응과 핵심 증상 소실을 별도로 평가했습니다. 앞 표의 전체 반응률 83.0%는 ‘모든 증상이 사라진 비율’과 다릅니다. 식후포만·조기포만이 주된 증상이면 [이 시험의 결과와 치료 조건](../conditions/functional-dyspepsia.md#pds-acupuncture-results)을, 복통·설사가 중심이면 [IBS의 복합 반응 결과](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial)에서 해당 증상을 평가한 결과를 확인할 수 있습니다. [원저 PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/)
 
 한약은 [육군자탕의 일본 임상시험·진료지침](../research/formulas/rikkunshito.md#japanese-fd-trials)과 [국내 육군자탕·평위산 비교시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials)을 함께 볼 수 있습니다. 처방 이름뿐 아니라 시험제제·대상·비교군을 확인하면 실제 진찰에서 어떤 증상에 적용할지를 이해하는 데 도움이 됩니다.
 
@@ -262,7 +263,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 긴장형두통·경추성두통은 [두통 상세 문서](../conditions/headache.md)에서 따로 구분합니다. 스트레스와 함께 두통·불면·소화불편이 반복돼도 모두 같은 종류의 두통으로 묶지 않고, 한약·경혈 선택은 [두통 처방](../herbal-integrated/formula-for-headache.md)과 [두통 경혈](../acupuncture-integrated/points-for-headache.md)로 연결합니다.
 
-**만성통증:** 39개 RCT·20,827명의 개인자료 메타분석은 근골격통·골관절염·만성두통·어깨통증에서 침의 통증·기능 개선을 확인했고, 효과는 추적에서도 대부분 유지됐습니다. 무침 대조와 가짜침 대조의 효과 크기가 다르므로 어떤 비교를 했는지 함께 읽습니다. [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [원저 PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/)
+**만성통증:** 39개 RCT·20,827명의 개인자료 메타분석은 근골격통·골관절염·만성두통·어깨통증에서 침의 통증·기능 개선을 확인했고, 효과는 추적에서도 대부분 유지됐습니다. 무침 대조와 가짜침 대조의 효과 크기가 다르므로 실제 비교치료를 함께 확인합니다. [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [원저 PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/)
 
 실제 적용은 [요통](../conditions/low-back-pain.md#back-systematic-reviews)·[목통증](../conditions/neck-pain.md)·[어깨통증](../conditions/shoulder-pain.md)별로 이어집니다. 약침은 [국내 만성요통 비교시험](../authority/pharmacopuncture.md#pharmaco-back-trial), 추나는 [국내 비교효과 연구](#korean-treatment-results)를 별도로 확인할 수 있습니다. 통증점수와 함께 걷는 거리·앉아 있는 시간·수면·일상 복귀를 평가하면 치료의 의미가 더 분명해집니다.
 
@@ -289,19 +290,19 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 
 같은 논문은 질환·처방·치료방법 페이지에 각각 인용될 수 있습니다. 좌측 메뉴에서는 중복 노출을 줄이고, 세부 RCT·메타분석·전임상 목록은 각 대표 자료실 안에서 이어지도록 구성했습니다.
 
-## 질문에서 설명과 근거까지 이어 읽기 {#question-reading-paths}
+## 증상별 치료 설명과 연구 근거 {#question-reading-paths}
 
 짧은 증상 안내를 읽은 뒤, 궁금한 치료의 근거로 이동하세요. 마지막 자료에서는 연구 대상과 비교군, 평가한 결과를 확인할 수 있습니다.
 
-| 시작 질문 | 증상·치료 설명 | 연구를 더 읽으려면 |
+| 시작 질문 | 증상·치료 설명 | 관련 연구 근거 |
 |---|---|---|
 | 피로에 공진단을 연구한 자료가 있나요? | [피로·기력회복](../conditions/energy-recovery.md) → [공진단의 구성과 전통 맥락](../formulas/gongjin-dan.md) | [공진단 사람 대상 연구와 원문](../research/formulas/gongjin-dan.md) |
 | 잠들기 어렵고 자주 깨는 증상을 어떻게 살피나요? | [불면·수면장애 안내](../conditions/insomnia.md) | [불면 임상근거와 평가 지표](../conditions/insomnia.md#sleep-research) |
 | 먹고 나면 더부룩한 증상의 치료 근거가 궁금해요 | [소화불량 안내](../conditions/dyspepsia.md) | [기능성소화불량 임상근거](../conditions/functional-dyspepsia.md#pds-acupuncture-results) |
 | 복통과 설사가 반복될 때 침치료 근거가 있나요? | [과민성장증후군 안내](../conditions/ibs.md) | [ACTION의 복통·설사 복합 반응](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
-| 변비 치료는 배변 횟수만 좋아지면 되나요? | [변비의 원인·치료 안내](../conditions/constipation.md) | [완전자발배변·반응률·추적 읽기](../authority/conditions/functional-constipation.md#csbm-reading) |
+| 변비 치료는 배변 횟수만 좋아지면 되나요? | [변비의 원인·치료 안내](../conditions/constipation.md) | [완전자발배변·반응률·추적 결과](../authority/conditions/functional-constipation.md#csbm-reading) |
 
-논문이 낯설다면 [RCT의 비교군과 결과 숫자 읽기](../evidence-guide/rct.md#reading-results)를 먼저 보세요. 연구를 읽고 실제 상담에서 물어볼 내용은 [연구와 내 상황 비교](../evidence-integrated/clinical-application.md)로 정리할 수 있습니다.
+논문이 낯설다면 [RCT의 비교군과 결과 숫자 읽기](../evidence-guide/rct.md#reading-results)를 먼저 보세요. 연구 결과를 확인한 뒤 실제 상담에서 확인할 내용은 [연구와 내 상황 비교](../evidence-integrated/clinical-application.md)로 정리할 수 있습니다.
 
 ## 이 아카이브가 근거를 연결하는 방식
 
@@ -315,7 +316,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 !!! note "독자를 위한 안내"
     연구 결과는 모든 사람에게 동일하게 적용되는 정답이라기보다, 현재 상태와 치료 목표에 맞는 선택을 돕는 자료입니다. 진료에서는 병력·검사·복용약·치료 반응을 함께 확인합니다.
 
-## 고전에서 현대 연구로 이어 읽기 {#classical-evidence-paths}
+## 고전의 처방·치법과 현대 임상연구 {#classical-evidence-paths}
 
 고전의 주치에서 현재의 연구까지 연결하려면 **원전의 병증 → 실제 치료 구성 → 연구 대상·비교군 → 결과와 안전성**을 함께 확인합니다. [고전→현대 연구 연결 지도](../network/classic-to-evidence-map.md)에서 반하사심탕·산조인탕·대건중탕 등의 원문과 기존 근거카드를 왕복할 수 있습니다.
 
@@ -329,7 +330,7 @@ IF는 저널 전체의 지표이며 개별 논문의 인용 수와 다릅니다.
 | 침·전침의 경혈·자극·횟수는 무엇인가 | [침구 연구](../evidence-integrated/acupuncture-evidence.md) |
 | 이상반응·병용약·특별 고려군은 무엇인가 | [한약 안전성 연구](../herbal-integrated/safety.md#safety-evidence-guide) |
 
-연구들은 하나의 직선 순서로 효과를 확정하는 단계가 아니라 서로 다른 질문에 답하는 자료입니다. 개별 처방·시술의 결과는 연구 대상과 사용 조건에 맞추어 읽습니다.
+진료지침은 치료 권고를, 비교시험은 치료효과를, 기전 연구는 작용 과정을 설명합니다. 개별 처방·시술의 적용 범위는 실제 연구 대상과 사용 조건에 따라 판단합니다.
 
 ## WHO 전통의학 전략과 근거 중심의 통합 {#who-tm-context}
 
@@ -344,9 +345,9 @@ WHO의 [Global Traditional Medicine Strategy 2025–2034](https://www.who.int/pu
 | 보건의료체계 통합 | 진단·검사와 한의치료 목표를 연결하고 경과를 함께 평가하는 방법 |
 | 부문 간 가치와 협력 | 전통 지식·연구·교육을 연결하고 출처와 지식의 맥락을 보존하는 일 |
 
-이 표는 WHO 목표를 아카이브의 읽기 방식에 연결한 설명입니다. [자율신경·소화·수면·심계·두통·만성통증의 근거](#symptom-focused-evidence)에서 개별 임상자료로 이어지며, WHO가 이 아카이브나 특정 처방·시술을 승인했다는 의미는 아닙니다.
+이 표는 WHO 목표를 아카이브의 근거 정리 원칙에 연결한 설명입니다. [자율신경·소화·수면·심계·두통·만성통증의 근거](#symptom-focused-evidence)에서 개별 임상자료로 이어지며, WHO가 이 아카이브나 특정 처방·시술을 승인했다는 의미는 아닙니다.
 
-**Evidence-informed TCIM**, **Integrative Medicine**, **Traditional Medicine Research**는 이 국제적 맥락을 이해하는 표현입니다. 이곳에서는 연구의 대상·중재·결과를 확인하고 환자의 상태·선호·치료 목표와 함께 읽는 방식으로 구체화합니다.
+**Evidence-informed TCIM**, **Integrative Medicine**, **Traditional Medicine Research**는 이 국제적 맥락을 이해하는 표현입니다. 이곳에서는 연구의 대상·중재·결과를 확인하고 환자의 상태·선호·치료 목표를 함께 고려하는 진료 원칙으로 설명합니다.
 
 ### WHO ICD-11과 전통의학의 국제 표준화 {#icd11-traditional-medicine}
 

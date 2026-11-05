@@ -24,6 +24,8 @@ A failed or incomplete security check blocks publication; do not silently pass i
 
 - Owner wording preference, reaffirmed 2026-10-29: describe treatment roles, formula reasoning and useful applications directly in positive language. Replace repetitive defensive sentences such as “~로 해석하지 않습니다” with specific explanations of what to assess, compare and track. Preserve material safety guidance, source/formulation distinctions and accurately reported research outcomes.
 
+- Owner wording correction (2026-11-05): in research and evidence pages, use natural Korean that directly describes the study, result and clinical relevance. Avoid book-reading or navigation metaphors such as “독서의 우선순위”, “연구 전체 지형”, “넓혀 읽기” and “허브에서 읽는 핵심”. Prefer concrete labels such as “대표 임상연구”, “주요 결과와 적용 범위” and “임상 적용 시 확인할 사항”. Consolidate repeated editorial guidance while preserving methods, effect sizes, uncertainty, sources and material safety information.
+
 - Read the whole target document before expanding it. Integrate new material into the relevant existing paragraphs, tables, and sections; merge or replace overlapping explanations.
 - Do not accumulate unrelated update blocks, repeated warnings, link lists, or duplicate summaries at the end of a page. Add a section only when it serves a distinct question in the document's reading order.
 - Place related links where readers need the next explanation. Keep the established taxonomy and URLs; verify existing heading anchors when restructuring.
