@@ -254,7 +254,7 @@ hide:
         "@type": "Organization",
         "@id": "https://www.minseong.co.kr/#organization",
         "name": "민성한의원",
-        "url": "https://www.minseong.co.kr/"
+        "url": "https://minseong.co.kr/"
       }
     },
     {
