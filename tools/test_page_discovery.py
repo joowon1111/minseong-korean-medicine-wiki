@@ -224,7 +224,7 @@ class DiscoveryTests(unittest.TestCase):
         self.assertEqual({editors[ref['@id']]['name'] for ref in website['editor']}, {'목정일', '김문정'})
         self.assertEqual(website['publisher']['@id'], 'https://wiki.minseong.co.kr/#publisher')
         for person in editors.values():
-            self.assertEqual(person['worksFor']['@id'], 'https://www.minseong.co.kr/#organization')
+            self.assertEqual(person['worksFor']['@id'], 'https://minseong.co.kr/#organization')
             self.assertNotIn('reviewedBy', person)
 
     def test_unanchored_html_heading_ends_previous_passage_without_inventing_url(self):
