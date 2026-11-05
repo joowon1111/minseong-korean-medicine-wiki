@@ -18,7 +18,7 @@ extra_javascript:
   - assets/donguibogam/bootstrap.js
   - assets/acupoint-atlas/explorer.js
   - assets/acupoint-atlas/discovery.js?v=20261031-detail-link
-  - assets/learning/learning.js?v=20261105-03&ui=20261009-02
+  - assets/learning/learning.js?v=20261105-03&ui=20261105-conditional
   - assets/daily-korean-medicine/calendar-core.js?v=20261104-almanac-position
   - assets/daily-korean-medicine/reader-core.js?v=20261104-almanac-position
   - assets/daily-korean-medicine.js?v=20261104-almanac-position
