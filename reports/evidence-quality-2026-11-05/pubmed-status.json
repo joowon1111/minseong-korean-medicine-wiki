@@ -1,0 +1,704 @@
+{
+  "checked_on": "2026-11-05",
+  "scope": "Union of PMID links in portal/evidence.md before and after this edit; bibliographic status check only, not full-text risk-of-bias assessment",
+  "requested": 65,
+  "retrieved": 65,
+  "records": [
+    {
+      "pmid": "10921385",
+      "title": "Treatment of chronic liver diseases with traditional Chinese medicine.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "15611487",
+      "title": "Effectiveness of acupuncture as adjunctive therapy in osteoarthritis of the knee: a randomized, controlled trial.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "16005336",
+      "title": "Acupuncture in patients with osteoarthritis of the knee: a randomised trial.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "20512135",
+      "title": "Adenosine A1 receptors mediate local anti-nociceptive effects of acupuncture.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "21844547",
+      "title": "Oseltamivir compared with the Chinese traditional therapy maxingshigan-yinqiaosan in the treatment of H1N1 influenza: a randomized trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumIn",
+          "pmid": null,
+          "citation": "Ann Intern Med. 2012 Jan 3;156(1 Pt 1):71"
+        }
+      ]
+    },
+    {
+      "pmid": "23253122",
+      "title": "A multicenter, randomized, controlled trial testing the effects of acupuncture on allergic rhinitis.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "23420231",
+      "title": "Acupuncture in patients with seasonal allergic rhinitis: a randomized trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "24595550",
+      "title": "Effect of TU-100, a traditional Japanese medicine, administered after hepatic resection in patients with liver cancer: a multi-center, phase III trial (JFMC40-1001).",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "25298884",
+      "title": "Effect of Astragalus membranaceus extract on diabetic nephropathy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "25956676",
+      "title": "Liver enzyme abnormalities in taking traditional herbal medicine in Korea: A retrospective large sample cohort study of musculoskeletal disorder patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "26277491",
+      "title": "The use of Chinese herbal medicines associated with reduced mortality in chronic hepatitis B patients receiving lamivudine treatment.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "26495025",
+      "title": "Effect of Japanese Herbal Kampo Medicine Goreisan on Reoperation Rates after Burr-Hole Surgery for Chronic Subdural Hematoma: Analysis of a National Inpatient Database.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "2691317",
+      "title": "A multicenter randomized controlled clinical trial of Shosaiko-to in chronic active hepatitis.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "27143508",
+      "title": "Molecular targets of Chinese herbs: a clinical study of hepatoma based on network pharmacology.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "27618593",
+      "title": "Acupuncture for Chronic Severe Functional Constipation: A Randomized Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "28192789",
+      "title": "Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians.",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "28241154",
+      "title": "The Long-term Effect of Acupuncture for Migraine Prophylaxis: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "28334999",
+      "title": "Rewiring the primary somatosensory cortex in carpal tunnel syndrome with acupuncture.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "28655016",
+      "title": "Effect of Electroacupuncture on Urinary Leakage Among Women With Stress Urinary Incontinence: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "29198932",
+      "title": "Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "29498457",
+      "title": "Rikkunshito simultaneously improves dyspepsia correlated with anxiety in patients with functional dyspepsia: A randomized clinical trial (the DREAM study).",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "29654915",
+      "title": "Efficacy of MaZiRenWan, a Chinese Herbal Medicine, in Patients With Functional Constipation in a Randomized Controlled Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "29998338",
+      "title": "Effect of Acupuncture vs Sham Acupuncture or Waitlist Control on Joint Pain Related to Aromatase Inhibitors Among Women With Early-Stage Breast Cancer: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "31331582",
+      "title": "A multicenter study on the efficacy and safety of So-Cheong-Ryong-Tang for perennial allergic rhinitis.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "31355870",
+      "title": "Acupuncture as Adjunctive Therapy for Chronic Stable Angina: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "31926918",
+      "title": "Berberine versus placebo for the prevention of recurrence of colorectal adenoma: a multicentre, double-blinded, randomised controlled study.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "32213509",
+      "title": "Manual acupuncture versus sham acupuncture and usual care for prophylaxis of episodic migraine without aura: multicentre, randomised clinical trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "32422066",
+      "title": "Effect of Acupuncture for Postprandial Distress Syndrome: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "32437567",
+      "title": "Synergistic Effect of Biejia-Ruangan on Fibrosis Regression in Patients With Chronic Hepatitis B Treated With Entecavir: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "33174383",
+      "title": "Efficacy of Intensive Acupuncture Versus Sham Acupuncture in Knee Osteoarthritis: A Randomized Controlled Trial.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "33314799",
+      "title": "Greater Somatosensory Afference With Acupuncture Increases Primary Somatosensory Connectivity and Alleviates Fibromyalgia Pain via Insular γ-Aminobutyric Acid: A Randomized Neuroimaging Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "33734288",
+      "title": "Effectiveness of Electroacupuncture or Auricular Acupuncture vs Usual Care for Chronic Musculoskeletal Pain Among Cancer Survivors: The PEACE Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "34259850",
+      "title": "Chuna Manual Therapy vs Usual Care for Patients With Nonspecific Chronic Neck Pain: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Pragmatic Clinical Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "34399062",
+      "title": "Efficacy of Acupuncture for Chronic Prostatitis/Chronic Pelvic Pain Syndrome : A Randomized Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "34646018",
+      "title": "A neuroanatomical basis for electroacupuncture to drive the vagal-adrenal axis.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumIn",
+          "pmid": "34992295",
+          "citation": "Nature. 2022 Jan;601(7893):E9. doi: 10.1038/s41586-021-04290-9."
+        }
+      ]
+    },
+    {
+      "pmid": "34798264",
+      "title": "Predicting Inchinkoto efficacy, in patients with obstructive jaundice associated with malignant tumors, through pharmacomicrobiomics.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "35061057",
+      "title": "Evidence-based clinical practice guidelines for functional dyspepsia 2021.",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "35300298",
+      "title": "Oral Astragalus Root Supplementation for Mild to Moderate Chronic Kidney Disease: A Self-Controlled Case-Series.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "35613364",
+      "title": "Efficacy of Combined Abelmoschus manihot and Irbesartan for Reduction of Albuminuria in Patients With Type 2 Diabetes and Diabetic Kidney Disease: A Multicenter Randomized Double-Blind Parallel Controlled Clinical Trial.",
+      "publication_types": [
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Letter"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "35732505",
+      "title": "Acupuncture for Patients With Chronic Tension-Type Headache: A Randomized Controlled Trial.",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "35797047",
+      "title": "Effect of Electroacupuncture on Insomnia in Patients With Depression: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "35985545",
+      "title": "Entecavir plus Biejia-Ruangan compound reduces the risk of hepatocellular carcinoma in Chinese patients with chronic hepatitis B.",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "36122322",
+      "title": "Integrative Medicine for Pain Management in Oncology: Society for Integrative Oncology-ASCO Guideline.",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "37554434",
+      "title": "A Pragmatic Randomized Controlled Trial on the Effectiveness and Safety of Pharmacopuncture for Chronic Lower Back Pain.",
+      "publication_types": [
+        "Case Reports",
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "37874574",
+      "title": "Traditional Chinese Medicine Compound (Tongxinluo) and Clinical Outcomes of Patients With Acute Myocardial Infarction: The CTS-AMI Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "38739392",
+      "title": "Acupuncture for Chronic Radiation-Induced Xerostomia in Head and Neck Cancer: A Multicenter Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "38810556",
+      "title": "Add-on astragalus in type 2 diabetes and chronic kidney disease: A multi-center, assessor-blind, randomized controlled trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "38829648",
+      "title": "Jinlida for Diabetes Prevention in Impaired Glucose Tolerance and Multiple Metabolic Abnormalities: The FOCUS Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumIn",
+          "pmid": "38976281",
+          "citation": "JAMA Intern Med. 2024 Sep 1;184(9):1137. doi: 10.1001/jamainternmed.2024.3409."
+        },
+        {
+          "type": "ErratumIn",
+          "pmid": "39226038",
+          "citation": "JAMA Intern Med. 2024 Oct 1;184(10):1270. doi: 10.1001/jamainternmed.2024.4669."
+        }
+      ]
+    },
+    {
+      "pmid": "38922617",
+      "title": "Acupuncture and Sleep Quality Among Patients With Parkinson Disease: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "38924035",
+      "title": "Acupuncture for hot flashes in hormone receptor-positive breast cancer: A pooled analysis of individual patient data from parallel randomized trials.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "39095596",
+      "title": "The traditional Chinese medicine Qiliqiangxin in heart failure with reduced ejection fraction: a randomized, double-blind, placebo-controlled trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "39124723",
+      "title": "Effectiveness and Safety of Pharmacopuncture on Inpatients with Tension Headache Caused by Traffic Accidents: A Pragmatic Randomized Controlled Trial.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "39325453",
+      "title": "Tongxinluo and Functional Outcomes Among Patients With Acute Ischemic Stroke: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "39401008",
+      "title": "Acupuncture vs Sham Acupuncture for Chronic Sciatica From Herniated Disk: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "40441496",
+      "title": "Efficacy of ACupuncTure in Irritable bOwel syNdrome (ACTION): A Multicenter Randomized Controlled Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "40713955",
+      "title": "Neuroanatomical organization of electroacupuncture in modulating gastric function in mice and humans.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "40726764",
+      "title": "Pragmatic Randomized Controlled Trial of Pharmacopuncture Therapy for Cervical Disc Herniation: A Pilot Study.",
+      "publication_types": [
+        "Case Reports",
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "40938602",
+      "title": "Acupuncture for Chronic Low Back Pain in Older Adults: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "41182768",
+      "title": "Eppikajutsuto for Treatment of Lymphatic Malformations in Children: A Nonrandomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "42099446",
+      "title": "Pharmacopuncture therapy versus usual care for lumbar spinal stenosis: A randomized controlled trial.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "42189557",
+      "title": "Effect of Electroacupuncture on Postherpetic Neuralgia: A Randomized Clinical Trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumIn",
+          "pmid": "42931762",
+          "citation": "JAMA Neurol. 2026 Oct 26. doi: 10.1001/jamaneurol.2026.4086."
+        }
+      ]
+    },
+    {
+      "pmid": "42637062",
+      "title": "Yukgunja-tang and Pyeongwi-san improve functional dyspepsia and modulate ghrelin dynamics: A multicenter randomized controlled trial.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "9185758",
+      "title": "Effects of the Japanese herbal medicine \"Sho-saiko-to\" (TJ-9) on in vitro interleukin-10 production by peripheral blood mononuclear cells of patients with chronic hepatitis C.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "9283216",
+      "title": "[A prospective controlled study of sairei-to in childhood IgA nephropathy with focal/minimal mesangial proliferation. Japanese Pediatric IgA Nephropathy Treatment Study Group].",
+      "publication_types": [
+        "Clinical Trial",
+        "English Abstract",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "corrections": []
+    },
+    {
+      "pmid": "9820260",
+      "title": "Treatment of irritable bowel syndrome with Chinese herbal medicine: a randomized controlled trial.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "corrections": [
+        {
+          "type": "ErratumIn",
+          "pmid": "35230415",
+          "citation": "JAMA. 2022 Mar 1;327(9):880. doi: 10.1001/jama.2022.1170."
+        }
+      ]
+    }
+  ]
+}

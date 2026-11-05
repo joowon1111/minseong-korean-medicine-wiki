@@ -9,7 +9,7 @@ last_reviewed: '2026-09-15'
 
 침·전침은 만성통증뿐 아니라 소화·배변·배뇨 기능을 대상으로 한 비교 임상시험에서도 의미 있는 성과를 보여주었습니다. 이 허브는 **환자에게 확인된 효과와 지속성**을 먼저 읽고, 경혈·자극·횟수·비교군을 따라 실제 치료 조건을 확인하는 자료입니다.
 
-→ [침 대표 연구·효과 크기·국제 지침](../authority/acupuncture.md#acupuncture-key-results) · [한약·침·추나·약침 핵심 성과 30편](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
+→ [침 대표 연구·효과 크기·국제 지침](../authority/acupuncture.md#acupuncture-key-results) · [한약·침·추나·약침 핵심 연구](../portal/evidence.md#landmark-clinical-results) · [대표 침 연구 바로 읽기](#acupuncture-landmark-reading)
 
 ## 만성통증 효과와 지속성을 확인한 개인자료 메타분석 {#chronic-pain-ipd}
 
@@ -26,7 +26,7 @@ Vickers 등의 2018년 *Journal of Pain* 연구는 **39개 무작위시험·20,8
 | 대상포진 뒤 지속되는 신경통도 완화되는가 | [JAMA Neurology 448명 다기관 전침 시험](../authority/electroacupuncture.md#ea-postherpetic-trial) |
 | 디스크성 좌골신경통의 통증·기능도 좋아지는가 | [4주 치료와 52주 추적](#sciatica-landmark) |
 | 고령자 요통에서 일상 기능이 회복되는가 | [미국 800명 실용적 시험](#older-adult-back-trial) |
-| 무릎 골관절염의 통증·관절기능도 개선되는가 | [Annals 570명·Lancet 294명 시험](../conditions/knee-pain.md#knee-landmark-trials) |
+| 무릎 골관절염의 통증·관절기능도 개선되는가 | [전침 480명·Annals·Lancet 시험](../conditions/knee-pain.md#knee-landmark-trials) |
 | 편두통의 발작 횟수·두통일수를 줄일 수 있는가 | [JAMA Internal Medicine 발작 횟수](../authority/conditions/migraine.md#jama-migraine-prevention) · [BMJ 두통일수](#migraine-prevention-trial) |
 | 우울증 동반 불면에서 수면 개선이 이어지는가 | [JAMA Network Open 270명 전침·32주 추적](../conditions/insomnia.md#jama-depression-insomnia-trial) |
 | 식후 더부룩함과 조기포만이 개선되는가 | [소화불량 반응과 증상 소실](#pds-landmark) |
@@ -107,6 +107,8 @@ Tu 등의 2024년 *JAMA Internal Medicine* 시험은 만성 디스크성 좌골�
 - **연구 해석:** 침 단독과 운동·통상치료 병행을 구분
 - **근거 연결:** [무릎 골관절염 근거카드](../conditions/knee-pain.md#_9)
 
+[480명 모집·442명 분석의 다기관 시험](../conditions/knee-pain.md#intensive-knee-trial)은 전침·수기침·가짜침을 주 3회 8주 비교해 통증과 기능의 동시 개선을 평가했습니다. 8주 전침 반응률은 60.3% 대 가짜침 47.3%였고, 수기침의 같은 시점 차이는 유의하지 않았습니다. 26주까지의 추적과 분석 대상도 상세 문서에서 확인할 수 있습니다.
+
 [Annals·Lancet의 무릎 골관절염 대표 RCT](../conditions/knee-pain.md#knee-landmark-trials)에서 직접 비교한 통증·WOMAC 기능 결과와 평가 시점을 확인합니다. 만성통증 전체 지형은 [39개 시험 개인자료 메타분석](#chronic-pain-ipd)에서 먼저 읽고, 무릎 골관절염에 해당하는 세부 시험과 비교군으로 좁혀갑니다.
 
 ### 목·어깨·턱·상지 통증
@@ -127,6 +129,8 @@ Tu 등의 2024년 *JAMA Internal Medicine* 시험은 만성 디스크성 좌골�
 - **결과 지표:** 두통일수·강도·지속시간·급성약 사용·삶의 질
 - **프로토콜:** 국소 두면부 경혈과 원위혈, 치료 빈도, 예방치료와 병행 여부
 - **근거 연결:** [편두통](../authority/conditions/migraine.md) · [긴장형두통](../authority/conditions/tension-headache.md)
+
+[Cochrane의 22개 시험·4,985명 종합근거](../authority/conditions/migraine.md#cochrane-migraine-prevention)는 편두통 예방에서 침의 효과를 중간 수준의 근거로 평가했습니다. 이후의 개별 시험과 함께 보면 종합근거가 다룬 시기와 새 연구의 기여를 구분하기 쉽습니다.
 
 [2017년 JAMA Internal Medicine의 249명 시험](../authority/conditions/migraine.md#jama-migraine-prevention)은 4주당 발작 횟수를, 아래 BMJ 시험은 두통이 발생하는 일수를 주로 평가합니다.
 
