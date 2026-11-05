@@ -26,7 +26,7 @@ last_reviewed: 2026-08-30
 | 여성의 기침·웃음·활동 시 소변 누출 | 504명 JAMA 전침 시험: 패드검사 누출량 | [누출량과 배뇨일지](../electroacupuncture.md#ea-incontinence-trial) |
 | 남성의 만성 골반통·배뇨 불편 | 440명 시험: NIH-CPSI 6점 이상 개선과 지속성 | [직접 비교 결과·AUA 권고](../../conditions/chronic-prostatitis.md#cpps-direct-trial) |
 | 암 치료 후 지속된 근골격통 | 미국 PEACE 360명: 전침·이침 대 통상진료 | [평균 통증과 치료별 내약성](cancer-related-pain.md#peace-cancer-pain-trial) |
-| 진행암 진료 중 지속되는 통증 | IMPACT 298명: 침·마사지, 최악 통증과 피로·수면·삶의 질 | [26주 경과·활성 치료 비교](cancer-related-pain.md#impact-advanced-cancer-trial) |
+| 진행암 진료 중 지속되는 근골격통 | IMPACT 298명: 침·마사지, 최악 통증과 피로·수면·삶의 질 | [26주 경과·활성 치료 비교](cancer-related-pain.md#impact-advanced-cancer-trial) |
 | 암 치료 중·후 피로와 활동 저하 | 유방암 침시험·대장암 홍삼·서양삼 위약대조시험 | [제제·치료 단계·주평가 구분](cancer-related-fatigue.md#herbal-supportive-evidence) |
 | 두경부 방사선치료 후 오래된 입마름 | 미국 258명: 구강건조 환자보고 점수·삶의 질 | [증상과 타액분비를 구분](radiation-xerostomia.md#chronic-xerostomia-trial) |
 
