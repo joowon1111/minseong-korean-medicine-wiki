@@ -28,6 +28,8 @@ last_reviewed: 2026-08-30
 | 암 치료 후 지속된 근골격통 | 미국 PEACE 360명: 전침·이침 대 통상진료 | [평균 통증과 치료별 내약성](cancer-related-pain.md#peace-cancer-pain-trial) |
 | 진행암 진료 중 지속되는 근골격통 | IMPACT 298명: 침·마사지, 최악 통증과 피로·수면·삶의 질 | [26주 경과·활성 치료 비교](cancer-related-pain.md#impact-advanced-cancer-trial) |
 | 암 치료 중·후 피로와 활동 저하 | 유방암 침시험·대장암 홍삼·서양삼 위약대조시험 | [제제·치료 단계·주평가 구분](cancer-related-fatigue.md#herbal-supportive-evidence) |
+| 택산 치료 뒤 손발 저림·통증 | 유방암 생존자 40명 예비시험: 8주 침 대 대기·통상관리 | [감각·통증·신경독성 관련 삶의 질](../../conditions/cancer-treatment-recovery.md#taxane-cipn-acupuncture) |
+| 암 치료 종료 후 잠들기 어렵거나 자주 깸 | CHOICE 160명: 침과 CBT-I의 8주 비교·20주 추적 | [불면 정도·치료 조건](../../conditions/cancer-treatment-recovery.md#choice-cancer-insomnia) |
 | 두경부 방사선치료 후 오래된 입마름 | 미국 258명: 구강건조 환자보고 점수·삶의 질 | [증상과 타액분비를 구분](radiation-xerostomia.md#chronic-xerostomia-trial) |
 
 이 표는 연구를 찾기 위한 안내입니다. 진단·중증도·병용치료가 다르면 적용 범위도 달라집니다. 한약·침·약침의 치료별 대표 성과는 [출처·근거 전체 안내](../index.md#authority-clinical-results)에서 비교할 수 있습니다.
@@ -121,7 +123,7 @@ last_reviewed: 2026-08-30
 - [항암치료 유발 오심·구토](chemotherapy-nausea-vomiting.md)
 - [항암치료 유발 말초신경병증](chemotherapy-induced-peripheral-neuropathy.md)
 - [암 관련 피로](cancer-related-fatigue.md) · [암 관련 통증](cancer-related-pain.md)
-- [암 관련 불면](cancer-related-insomnia.md) · [항암치료 관련 불면](chemotherapy-related-insomnia.md)
+- [암 관련 불면의 비교시험·종합근거](cancer-related-insomnia.md) · [항암치료 중 이압·전침 연구](cancer-related-insomnia.md#oncology-sleep-modalities)
 - [방사선치료 후 구강건조](radiation-xerostomia.md)
 
 이 영역은 항암·수술·방사선치료와 한의치료를 연결해 치료 과정에서 나타나는 증상과 기능 저하를 함께 관리하기 위한 근거를 정리합니다.

@@ -5,14 +5,15 @@ description: "항암치료 유발 말초신경병증의 침 연구와 황기계�
 
 ## 임상 맥락
 
-CIPN은 항암제 종류와 누적용량, 감각·운동증상, 통증, 보행과 낙상위험을 함께 평가한다.
+CIPN은 항암제 종류와 누적용량, 감각·운동증상, 통증, 보행과 낙상위험을 함께 평가합니다. [감각·손 사용·보행을 함께 살피는 회복 안내](../../conditions/cancer-treatment-recovery.md#cipn-functional-followup)에서 경과를 기록하는 방법을 확인할 수 있습니다.
 
 ## 현대 임상연구
 
-- 2025 systematic review/meta-analysis: 18개 연구·1,048명. CIPN 증상·통증·삶의 질에서 긍정적 결과. PMID `40830723`.
-- 2024 network meta-analysis: 33개 연구·2,027명. 여러 침 관련 중재 비교. PMID `39160496`.
-- 2025 umbrella review. PMID `39900253`.
-- 비약물치료 network meta-analysis: 27개 연구·2,136명. 운동·냉각·압박·침 등을 비교. PMID `41656406`.
+[택산 치료 후 유방암 생존자 40명 침시험](../../conditions/cancer-treatment-recovery.md#taxane-cipn-acupuncture)은 감각증상·신경독성 관련 삶의 질·통증을 평가했습니다. 연구의 치료량·결과표와 SIO–ASCO 권고는 기존 회복 안내에 통합했습니다.
+
+2025년 온라인 발표·2026년 권호의 체계적 문헌고찰은 **18개 연구·1,048명**에서 CIPN 증상·통증·삶의 질의 개선을 보고했습니다. 통상관리·약물·비타민·가짜침 등 비교군이 다양하므로 종합효과를 가짜침만과의 차이로 설명하지 않습니다. [PMID 40830723](https://pubmed.ncbi.nlm.nih.gov/40830723/) · [DOI 10.1007/s11764-025-01869-3](https://doi.org/10.1007/s11764-025-01869-3)
+
+후속 연구는 [침 관련 중재 네트워크 메타분석](https://pubmed.ncbi.nlm.nih.gov/39160496/), [우산형 고찰](https://pubmed.ncbi.nlm.nih.gov/39900253/), [비약물치료 네트워크 메타분석](https://pubmed.ncbi.nlm.nih.gov/41656406/)에서 치료 구성·비교군별로 확인할 수 있습니다.
 
 ### 황기계지오물탕 — 12개 기관 위약대조시험 {#huangqi-guizhi-wuwu-trial}
 
@@ -22,14 +23,10 @@ CIPN은 항암제 종류와 누적용량, 감각·운동증상, 통증, 보행�
 
 ## 한의학 지식망
 
-`CIPN
-├─ 감각·운동증상
-├─ 신경병증성 통증
-├─ 보행·낙상
-└─ 종양학적 치료 + supportive care`
+통증과 감각 저하, 손발의 기능을 구분하고 냉열·부종·피로·식욕에 따라 침과 한약의 치료 방향을 정합니다. [한약·침치료와 기능 평가](../../conditions/cancer-treatment-recovery.md#cipn-functional-followup)를 함께 확인하세요.
 
 ## 해석
 
-항암치료 조정 여부는 종양 전문진료와 연결하고 침은 supportive symptom care로 설명한다.
+침의 지속 증상 치료시험과 황기계지오물탕의 예방시험은 **치료 시점·항암요법·중재·평가목표가 다른 연구**입니다. 치료 중 새로 생긴 근력저하·빠른 감각 악화·낙상은 담당 종양팀에 알리고, 항암제 용량과 일정을 함께 검토합니다.
 
 → [질환별 현대 임상근거 카드](../index.md)

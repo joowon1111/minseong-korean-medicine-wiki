@@ -1,14 +1,22 @@
 ---
-description: "항암치료 관련 불면에서 이압·지압·전침을 평가한 종합연구를 정리하고, 수면시간·수면효율·피로·불안과 수면 경혈의 연결을 살펴봅니다."
+description: "항암치료 중 불면의 이압·전침 연구와 수면일지, 병용약 확인 사항을 암 관련 불면 근거 및 회복 안내로 연결합니다."
 ---
-# 항암치료 관련 불면 — 현대 임상근거 카드
-## 임상 맥락
-항암치료 과정에서 나타나는 불면은 피로·불안·정서변화와 서로 영향을 주므로 수면시간과 수면효율, PSQI, 피로를 함께 평가합니다.
-## 현대 임상연구
-- 2025 이압요법 systematic review/meta-analysis: **14 RCT·1,073명**. 항암치료 관련 불면에서 PSQI 개선과 함께 불안·우울·피로 및 삶의 질 개선이 보고되었습니다. PMID `40472678`.
-- 2025 암환자 불면 침·지압 meta-analysis에서도 수면의 질 향상과 추적효과가 보고되었습니다. PMID `40449465`.
-- 2025 전침 암 관련 불면 systematic review/meta-analysis에서도 전침의 수면개선 효과가 평가되었습니다. PMID `39995786`.
-## 한의학 지식망
-`항암치료 → 불면·피로·불안 → 심신·기혈·담음 상태 탐색 → 전침·이침·지압 → 수면·피로·삶의 질 재평가`
-## 치료 연결
-신문 HT7·내관 PC6·삼음교 SP6 등과 전침·이침·수면·암 supportive-care 지식망을 연결합니다.
+# 항암치료 관련 불면 — 현대 임상근거 카드 {#_1}
+
+## 임상 맥락 {#_2}
+
+항암치료 중 불면은 치료 주기, 스테로이드 복용시간, 오심·통증·열감과 함께 살핍니다. 수면과 낮 활동을 회복하기 위한 진료는 [암 치료 회복 안내](../../conditions/cancer-treatment-recovery.md#cancer-anxiety-sleep)에 정리했습니다.
+
+## 현대 임상연구 {#_3}
+
+- [이압·전침의 대상·비교군·수면 결과](cancer-related-insomnia.md#oncology-sleep-modalities)
+- [암 치료 종료 후 CHOICE 시험](../../conditions/cancer-treatment-recovery.md#choice-cancer-insomnia): 치료 중 연구와 대상 시점을 구분합니다.
+- [비교군별 Cochrane 종합근거](cancer-related-insomnia.md#cancer-insomnia-synthesis)
+
+## 한의학 지식망 {#_4}
+
+수면과 함께 피로·식욕·냉열·정서 상태를 평가하고 [동반 증상별 치료 방향](../../conditions/cancer-treatment-recovery.md#cancer-anxiety-sleep)을 정합니다.
+
+## 치료 연결 {#_5}
+
+[수면일지와 치료 변경 기록](cancer-related-insomnia.md#_5) · [암 치료 중 침·약침의 안전 기준](../../conditions/cancer-treatment-recovery.md#_25)
