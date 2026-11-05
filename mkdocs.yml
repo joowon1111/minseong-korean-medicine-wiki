@@ -2,7 +2,7 @@ site_name: 민성 한의학 아카이브
 site_description: 한의학 정보와 학습 자료를 찾는 공개 지식 아카이브입니다. 한의학 기초·입문, 고전 원문·해설, 본초·한약 처방, 361경혈·3D 지도, 사상의학과 한의학 연구·임상근거를 연결합니다.
 site_url: https://wiki.minseong.co.kr/
 site_author: 민성 한의학 아카이브
-copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://www.minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
+copyright: © 2026 민성 한의학 아카이브 · <a href="/guide/content-use/">콘텐츠 이용 안내</a> · <a href="https://minseong.co.kr/" target="_blank" rel="noopener">민성한의원 공식 홈페이지 ↗</a>
 use_directory_urls: true
 extra_javascript:
   - assets/solar-terms/calculator.js?v=20261101
@@ -1446,7 +1446,7 @@ nav:
       - 고금의감 → 만병회춘 → 수세보원: classics-network/gong-medical-lineage.md
       - 양생·치미병 원문과 해석: yangsaeng/index.md
     - 황제내경 핵심 지식망: neijing-network/index.md
-- 민성한의원 ↗: https://www.minseong.co.kr/
+- 민성한의원 ↗: https://minseong.co.kr/
 not_in_nav: '/ai-index.md
 
   /templates/classic-template.md
