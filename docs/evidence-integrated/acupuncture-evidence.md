@@ -221,13 +221,15 @@ Hershman 등의 2018년 *JAMA* RCT는 미국 **11개 기관·226명**의 폐경 
 
 - **대상:** 만성전립선염·만성골반통증후군, 과민성방광
 - **결과 지표:** 통증·배뇨빈도·야간뇨·절박뇨·삶의 질
-- **근거 연결:** [만성전립선염·만성골반통증후군](../authority/conditions/chronic-prostatitis-cpps.md) · [과민성방광](../authority/conditions/overactive-bladder.md)
+- **근거 연결:** [만성전립선염·만성골반통증후군](../conditions/chronic-prostatitis.md#cpps-direct-trial) · [과민성방광](../authority/conditions/overactive-bladder.md)
 
 #### 만성골반통: 의미 있는 증상 개선과 지속성 {#cpps-landmark}
 
 Sun 등의 2021년 *Annals of Internal Medicine* RCT는 중등도~중증 만성전립선염·만성골반통증후군 남성 **440명**에서 8주 20회 침과 가짜침을 비교했습니다. 반응은 NIH-CPSI 증상점수가 기저치보다 **6점 이상 개선**된 경우입니다. 8주 반응률은 **60.6% 대 36.8%**, 조정 차이는 21.6%p였고, 32주에도 **61.5% 대 38.3%**, 조정 차이 21.1%p로 유지됐습니다.
 
 **환자가 느끼는 통증·배뇨·생활 불편의 의미 있는 개선이 치료 종료 뒤에도 이어진 결과**입니다. 세균성 전립선염 치료나 모든 배뇨질환의 결과로 일반화하지 않습니다. [PMID 34399062](https://pubmed.ncbi.nlm.nih.gov/34399062/) · [DOI 10.7326/M21-1814](https://doi.org/10.7326/M21-1814)
+
+[진료 안내의 결과표와 경과평가](../conditions/chronic-prostatitis.md#cpps-direct-trial)에서 치료 종료와 추적 시점을 구분하고, [AUA 2025 권고](../conditions/chronic-prostatitis.md#cpps-aua-guideline)에서 임상 적용의 대상과 권고 강도를 확인할 수 있습니다.
 
 #### 배변과 요실금: 기능과 객관적 누출량 {#pelvic-function-landmarks}
 

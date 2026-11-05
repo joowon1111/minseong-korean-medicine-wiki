@@ -1,18 +1,22 @@
 ---
-description: "만성전립선염·만성골반통증후군의 침·전침·온침·이침 종합연구를 비교하고, NIH-CPSI의 통증·배뇨·삶의 질 영역별 평가를 살펴봅니다."
+description: "만성골반통증후군의 침 임상시험과 종합연구를 통합 진료 안내에서 확인하고, 통증·배뇨·삶의 질에 따라 치료를 비교합니다."
 ---
 # 만성전립선염·만성골반통증후군 — 최신 현대근거 확장 카드
 
 ## 임상 맥락
-CP/CPPS에서는 골반통과 함께 배뇨증상·삶의 질을 NIH-CPSI의 세부 영역으로 나누어 평가합니다.
+
+CP/CPPS는 통증과 함께 배뇨·골반저근·삶의 질을 평가합니다. 이 주제의 연구와 치료 설명은 [기존 진료 안내](../../conditions/chronic-prostatitis.md)에 통합했습니다.
 
 ## 현대 임상연구
-- 2026 network meta-analysis: **45 RCT·3,534명**. 온침은 NIH-CPSI 총점과 전체 반응률에서 가장 높은 순위를 보였고, 전침도 총점·통증·삶의 질 등 여러 outcome에서 좋은 결과를 보였습니다. 전침+서양의학은 통증완화, 이침은 배뇨증상, 수기침+한약은 삶의 질에서 높은 순위를 기록했습니다. PMID `42294361`.
-- 고품질 RCT만 선별한 updated systematic review/meta-analysis: **10 RCT(11 trials)·798명**. 침 치료는 sham 및 약물치료와 비교해 통증·NIH-CPSI·삶의 질·배뇨증상을 유의하게 개선했습니다. PMID `36960418`.
-- GRADE-assessed meta-analysis에서도 NIH-CPSI 총점과 통증 감소의 긍정적인 임상효과가 확인되었습니다. PMID `36506258`.
+
+- [440명 침시험과 치료 후 지속성](../../conditions/chronic-prostatitis.md#cpps-direct-trial)
+- [AUA 지침의 권고 대상·강도](../../conditions/chronic-prostatitis.md#cpps-aua-guideline)
+- [체계적 문헌고찰·네트워크 메타분석](../../conditions/chronic-prostatitis.md#cpps-synthesis)
 
 ## 한의학 지식망
-`CP/CPPS → 골반통·배뇨·삶의 질 → 하초·경락·근육긴장·신기 탐색 → 침·전침·온침·이침·한약 → NIH-CPSI 영역별 재평가`
+
+통증·배뇨·생활 영향에 맞춰 [한의학적 평가와 변증](../../conditions/chronic-prostatitis.md#_8)을 함께 확인합니다.
 
 ## 치료 연결
-중극 CV3·관원 CV4·삼음교 SP6·태계 KI3 등 비뇨생식 경혈과 전침·온침·이침·한약 지식망을 연결합니다.
+
+[침·전침치료](../../conditions/chronic-prostatitis.md#_10) · [한약치료](../../conditions/chronic-prostatitis.md#_9) · [골반저근과 생활 관리](../../conditions/chronic-prostatitis.md#_14)
