@@ -4,6 +4,23 @@
   const KEY = 'minseong-learning-v1';
   const VERSION = '20261105-02';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
+  // Add a topic subtype here: menu, matching and level handling share this registry.
+  // clinical remains the inclusive parent, preserving the existing 660-question pool.
+  const QUESTION_TYPES = [
+    {id: 'advanced', label: '통합·감별 (중·상)', kind: 'advanced', levels: ['high', 'expert']},
+    {id: 'clinical', label: '증례·배혈·본초 추론 (5지선다)', kind: 'clinical', levels: ['high', 'expert']},
+    {id: 'comparison', label: '설명 조합 (ㄱ·ㄴ·ㄷ, 5지선다)', kind: 'clinical', topic: 'statement-comparison', levels: ['high', 'expert']},
+    {id: 'conditional', label: '조건 비교 (5지선다)', kind: 'clinical', topic: 'conditional-reasoning', levels: ['high', 'expert']}
+  ];
+  function matchesQuestionType(question, id) {
+    if (!id) return true;
+    const type = QUESTION_TYPES.find(type => type.id === id);
+    return type ? question.kind === type.kind && (!type.topic || question.topic === type.topic) : question.kind === id;
+  }
+  function supportsDifficulty(id, level) {
+    const type = QUESTION_TYPES.find(type => type.id === id);
+    return !id || (type ? type.levels.includes(level) : level === 'basic');
+  }
   const emptyProgress = () => ({known: [], again: [], saved: [], wrong: [], attempts: 0, correct: 0, schedule: {}, days: {}, resume: null});
   function readProgress(storage) {
     try {
@@ -56,7 +73,9 @@
     if (!value || !SUBJECTS[value.subject] || !Array.isArray(value.ids) || value.ids.length > 20000 || !value.ids.every(id => typeof id === 'string' && id.length <= 180) || !Number.isSafeInteger(value.index) || value.index < 0 || value.index > value.ids.length || !Number.isSafeInteger(value.correct) || value.correct < 0 || value.correct > value.ids.length) return null;
     return {subject: value.subject, ids: value.ids, index: value.index, correct: value.correct, answered: value.answered === true,
       selected: Number.isInteger(value.selected) && value.selected >= -1 && value.selected <= 10 ? value.selected : undefined,
-      mode: value.mode === 'identify' ? 'identify' : 'quiz'};
+      mode: value.mode === 'identify' ? 'identify' : 'quiz',
+      ...(typeof value.questionKind === 'string' && value.questionKind.length <= 80 ? {questionKind: value.questionKind} : {}),
+      ...(['basic', 'high', 'expert'].includes(value.difficulty) ? {difficulty: value.difficulty} : {})};
   }
   function recordAnswer(progress, question, answer, now = Date.now(), subject = '') {
     const correct = answer === question.answer;
@@ -110,7 +129,7 @@
     return deck.questions.filter(q => ids.has(q.cardId) &&
       (matching.has(q.cardId) || (!directCode && words.every(word => [q.prompt, q.context, ...(q.statements || []).map(s => s.text)].join(' ').toLowerCase().includes(word)))) &&
       (!wrongOnly || progress.wrong.includes(q.id)) &&
-      (!kind || (kind === 'comparison' ? q.kind === 'clinical' && q.topic === 'statement-comparison' : q.kind === kind)) &&
+      matchesQuestionType(q, kind) &&
       (!difficulty || (q.difficulty || 'basic') === difficulty));
   }
   function shuffle(items, random = Math.random) {
@@ -234,7 +253,7 @@
       updateStats();
     }
     function saveSession() {
-      progress.resume = session && session.index < session.questions.length ? {subject, ids: session.questions.map(q => q.id), index: session.index, correct: session.correct, answered: session.answered, selected: session.selected, mode: mode === 'identify' ? 'identify' : 'quiz'} : null;
+      progress.resume = session && session.index < session.questions.length ? {subject, ids: session.questions.map(q => q.id), index: session.index, correct: session.correct, answered: session.answered, selected: session.selected, mode: mode === 'identify' ? 'identify' : 'quiz', questionKind, difficulty} : null;
       writeProgress(storage, progress);
     }
     function updateStats() {
@@ -304,15 +323,14 @@
             : subject === 'anatomy' ? [['', '전체 문제 유형'], ['fact', '부착·작용·연결·특징'], ['identify', '설명으로 구조 식별'], ['diagram', '도해로 구조 식별']]
             : (subject === 'shanghanlun' || subject === 'sasang') ? [['', '전체 문제 유형'], ['original', '원문·표지어 → 우리말 풀이'], ['interpretation', '조문·병증 해석'], ['treatment', '치법·처방 연결'], ...(subject === 'sasang' ? [['formula', '주요 처방 감별']] : []), ['case', '증례·배합 → 조문·병증 찾기']]
             : [['', '전체 문제 유형'], ['fact', '이름 → 개념·특징'], ['recall', '설명 → 이름 찾기']];
-          types.push(['advanced', '통합·감별 (중·상)']);
-          types.push(['clinical', '증례·배혈·본초 추론 (5지선다)']);
-          if (deck.questions.some(q => q.topic === 'statement-comparison')) types.push(['comparison', '설명 조합 (ㄱ·ㄴ·ㄷ, 5지선다)']);
+          for (const type of QUESTION_TYPES) {
+            if (!type.topic || deck.questions.some(q => matchesQuestionType(q, type.id))) types.push([type.id, type.label]);
+          }
           for (const [value, label] of types) kinds.append(node('option', label, {value}));
           kinds.value = questionKind;
           kinds.addEventListener('change', () => {
             questionKind = kinds.value;
-            if (questionKind && !['advanced', 'clinical', 'comparison'].includes(questionKind) && (difficulty === 'high' || difficulty === 'expert')) difficulty = '';
-            if (['advanced', 'clinical', 'comparison'].includes(questionKind) && difficulty === 'basic') difficulty = '';
+            if (difficulty && !supportsDifficulty(questionKind, difficulty)) difficulty = '';
             restart();
           });
           stage.append(kinds);
@@ -321,8 +339,8 @@
           levels.value = difficulty;
           levels.addEventListener('change', () => {
             difficulty = levels.value;
-            if ((difficulty === 'high' || difficulty === 'expert') && !['clinical', 'comparison'].includes(questionKind)) questionKind = 'advanced';
-            else if (difficulty === 'basic' && ['advanced', 'clinical', 'comparison'].includes(questionKind)) questionKind = '';
+            if ((difficulty === 'high' || difficulty === 'expert') && (!questionKind || !supportsDifficulty(questionKind, difficulty))) questionKind = 'advanced';
+            else if (difficulty === 'basic' && !supportsDifficulty(questionKind, difficulty)) questionKind = '';
             restart();
           });
           stage.append(levels, node('p', '하: 단일 개념 회상 · 중: 유사 구조·병증 감별 · 상: 예외·조건 변화·복수 단서 판단. 출제 의도에 따른 난이도입니다.', {class: 'learning-note'}));
@@ -444,6 +462,7 @@
         const byId = new Map(deck.questions.map(q => [q.id, q]));
         if (prior.ids.every(id => byId.has(id))) {
           const resumeButton = button('풀던 문제 이어하기 (' + (prior.index + 1) + '/' + prior.ids.length + ')', () => {
+            questionKind = prior.questionKind || ''; difficulty = prior.difficulty || '';
             mode = prior.mode; modeSelect.value = mode; session = {questions: prior.ids.map(id => byId.get(id)), index: prior.index, correct: prior.correct, answered: prior.answered, selected: prior.selected};
             render(); focusHeading();
           }, {class: 'learning-primary'});

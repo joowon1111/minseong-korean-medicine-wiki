@@ -346,3 +346,131 @@ test('statement-comparison filter keeps levels, wrong answers and concept search
   const narrowed = study.filteredQuestions(d, study.emptyProgress(), '존재하지 않는 분류', '기역 기함', false, 'comparison');
   assert.equal(narrowed.length, 0);
 });
+
+test('conditional pools stay distinct and intersect level, category, search and review filters', () => {
+  let total = 0;
+  for (const subject of ['acupoints', 'acupuncture', 'herbs']) {
+    const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
+    const p = study.emptyProgress();
+    const pool = study.filteredQuestions(d, p, '', '', false, 'conditional');
+    total += pool.length;
+    assert.equal(pool.length, 8);
+    assert.ok(pool.every(q => q.kind === 'clinical' && q.topic === 'conditional-reasoning'));
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'comparison').length, 64);
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'clinical').length, 108);
+    assert.ok(study.filteredQuestions(d, p, '', '', false, 'comparison').every(q => !pool.includes(q)));
+    for (const level of ['high', 'expert']) {
+      const rows = study.filteredQuestions(d, p, '', '', false, 'conditional', level);
+      assert.equal(rows.length, 4);
+      const q = rows[0];
+      // Mixed legacy and new wrong IDs must leave only matching conditional questions.
+      p.wrong = [q.id, d.questions.find(q => q.topic === 'statement-comparison').id, 'legacy-question-id'];
+      assert.deepEqual(study.filteredQuestions(d, p, q.category, q.context, true, 'conditional', level).map(q => q.id), [q.id]);
+      assert.equal(study.filteredQuestions(d, p, 'unknown', '', true, 'conditional', level).length, 0);
+      study.recordAnswer(p, q, (q.answer + 1) % 5, 1000, subject);
+      assert.deepEqual(study.dueQuestions(rows, p, 1000).map(q => q.id), [q.id]);
+      assert.deepEqual(study.weakQuestions(rows, p).map(q => q.id), [q.id]);
+      study.recordAnswer(p, q, q.answer, 2000, subject);
+      assert.equal(study.filteredQuestions(d, p, '', '', true, 'conditional', level).length, 0);
+      assert.ok(p.wrong.includes('legacy-question-id'));
+    }
+    assert.equal(study.filteredQuestions(d, p, '', '', false, 'conditional', 'basic').length, 0);
+  }
+  assert.equal(total, 24);
+});
+
+test('conditional UI keeps both level selection orders, answer sources and wrong review', async () => {
+  for (const [subject, title] of Object.entries({acupoints:'경혈학', acupuncture:'침구학', herbs:'본초학'})) {
+    const d = JSON.parse(fs.readFileSync('docs/assets/learning/' + subject + '.json', 'utf8'));
+    const h = harness(); h.button(title).events.click();
+    h.loads.at(-1).resolve({ok:true, json:async()=>d}); await h.settle();
+    const choose = (label, value) => { const el = h.select(label); el.value = value; el.events.change(); };
+    choose('학습 방식', 'quiz');
+    assert.equal(h.select('문제 유형').children.find(e => e.value === 'conditional').textContent, '조건 비교 (5지선다)');
+    choose('문제 난이도', 'high'); choose('문제 유형', 'conditional');
+    assert.equal(h.select('문제 난이도').value, 'high');
+    choose('문제 난이도', 'expert');
+    assert.equal(h.select('문제 유형').value, 'conditional');
+    assert.ok(all(h.root).some(e => e.textContent.includes('현재 선택 범위 4문제')));
+    h.button('4문제 풀기').events.click();
+    const prompt = all(h.root).find(e => e.tagName === 'h3').textContent;
+    const q = d.questions.find(q => q.prompt === prompt);
+    assert.equal(q.topic, 'conditional-reasoning'); assert.equal(q.difficulty, 'expert');
+    all(h.root).find(e => e.attrs['data-option'] === String((q.answer + 1) % 5)).events.click();
+    for (const href of [q.source, q.relatedSource, ...q.options.map(o => o.source)]) {
+      assert.ok(all(h.root).some(e => e.tagName === 'a' && e.attrs.href === href && e.attrs.target === '_blank'));
+    }
+    choose('학습 방식', 'wrong');
+    assert.equal(h.select('문제 유형').value, 'conditional');
+    h.button('1문제 풀기').events.click();
+    all(h.root).find(e => e.attrs['data-option'] === String(q.answer)).events.click();
+    assert.ok(all(h.root).some(e => e.textContent.includes('오답 0개')));
+    h.button('퀴즈 선택으로 돌아가기').events.click();
+    choose('문제 난이도', 'basic'); assert.equal(h.select('문제 유형').value, '');
+    choose('문제 유형', 'conditional'); assert.equal(h.select('문제 난이도').value, '');
+    choose('문제 난이도', 'expert');
+    choose('문제 유형', subject === 'acupoints' ? 'name' : 'fact');
+    assert.equal(h.select('문제 난이도').value, '');
+  }
+});
+
+test('topic menus follow available questions and future kinds keep generic matching', async () => {
+  const h = harness(); h.button('기초 해부학').events.click();
+  h.loads.at(-1).resolve({ok:true,json:async()=>anatomy}); await h.settle();
+  h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+  assert.ok(!h.select('문제 유형').children.some(o => ['conditional', 'comparison'].includes(o.value)));
+  const q = {...deck.questions[0], kind: 'future-kind'};
+  const d = {...deck, questions: [q, {...q, id: 'future-topic', kind: 'clinical', topic: 'future-topic'}]};
+  assert.deepEqual(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'future-kind').map(q => q.id), [q.id]);
+  assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'clinical').length, 1);
+  assert.equal(study.filteredQuestions(d, study.emptyProgress(), '', '', false, 'conditional').length, 0);
+});
+
+test('conditional session survives reload before and after answering without losing legacy progress', async () => {
+  const old = study.emptyProgress();
+  old.known = ['point-LU1']; old.again = ['point-LU2']; old.saved = ['point-LU3']; old.wrong = ['legacy-question-id'];
+  study.recordAnswer(old, deck.questions[0], deck.questions[0].answer, 1000, 'acupoints');
+  let raw = JSON.stringify(old);
+  const start = async () => {
+    const h = harness();
+    h.context.localStorage.getItem = key => {assert.equal(key, 'minseong-learning-v1'); return raw;};
+    h.context.localStorage.setItem = (key, value) => {assert.equal(key, 'minseong-learning-v1'); raw = value;};
+    // Reinitialize to read the persisted record just as a new page does.
+    h.root.dataset.ready = '';
+    vm.runInNewContext(fs.readFileSync('docs/assets/learning/learning.js', 'utf8'), h.context);
+    h.loads.at(-1).resolve({ok:true, json:async()=>deck}); await h.settle();
+    return h;
+  };
+  let h = await start();
+  h.select('학습 방식').value = 'quiz'; h.select('학습 방식').events.change();
+  h.select('문제 유형').value = 'conditional'; h.select('문제 유형').events.change();
+  h.select('문제 난이도').value = 'high'; h.select('문제 난이도').events.change();
+  h.button('4문제 풀기').events.click();
+  const saved = JSON.parse(raw).resume;
+  assert.equal(saved.questionKind, 'conditional'); assert.equal(saved.difficulty, 'high');
+  const first = deck.questions.find(q => q.id === saved.ids[0]);
+  h = await start(); h.button('풀던 문제 이어하기 (1/4)').events.click();
+  assert.ok(all(h.root).some(e => e.tagName === 'h3' && e.textContent === first.prompt));
+  all(h.root).find(e => e.attrs['data-option'] === String((first.answer + 1) % 5)).events.click();
+  const attempts = JSON.parse(raw).attempts;
+  h = await start(); h.button('풀던 문제 이어하기 (1/4)').events.click();
+  assert.ok(all(h.root).some(e => e.attrs.class === 'learning-feedback'));
+  all(h.root).find(e => e.attrs['data-option'] === '0').events.click();
+  assert.equal(JSON.parse(raw).attempts, attempts);
+  h.button('다음 문제 →').events.click();
+  assert.equal(JSON.parse(raw).resume.index, 1);
+  h.button('퀴즈 선택으로 돌아가기').events.click();
+  assert.equal(h.select('문제 유형').value, 'conditional'); assert.equal(h.select('문제 난이도').value, 'high');
+  const restored = study.restore(study.backup(study.readProgress({getItem:()=>raw})));
+  for (const key of ['known', 'again', 'saved']) assert.deepEqual(restored[key], old[key]);
+  assert.ok(restored.wrong.includes('legacy-question-id'));
+  assert.deepEqual(restored.schedule[deck.questions[0].id], old.schedule[deck.questions[0].id]);
+  assert.equal(restored.resume.questionKind, 'conditional');
+  // Records from before the new fields remain resumable, including statement combinations.
+  for (const topic of ['statement-comparison', 'conditional-reasoning']) {
+    const legacy = {...old, resume:{subject:'acupoints', ids:[deck.questions.find(q=>q.topic===topic).id], index:0, correct:0, answered:false, mode:'quiz'}};
+    raw = JSON.stringify(legacy); h = await start();
+    h.button('풀던 문제 이어하기 (1/1)').events.click();
+    assert.ok(all(h.root).some(e => e.tagName === 'h3' && e.textContent === deck.questions.find(q=>q.topic===topic).prompt));
+  }
+});
