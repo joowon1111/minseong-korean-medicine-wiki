@@ -485,6 +485,75 @@ class StudentLearning(unittest.TestCase):
             q = by_id[qid]
             self.assertEqual(q['options'][q['answer']]['text'], correct)
 
+    def test_clinical_language_rejects_wrong_particles_in_every_text_field(self):
+        from copy import deepcopy
+        from clinical_learning import validate_clinical_language
+        names = [c['title'].split('(')[0] for s in ('acupoints', 'herbs')
+                 for c in self.decks[s]['cards']]
+        q = next(q for q in self.decks['acupoints']['questions']
+                 if q['id'] == 'clinical-acupoints-96')
+        paths = [('prompt',), ('context',), ('explanation',), ('discriminator',),
+                 ('statements', 0, 'text'), ('statements', 0, 'reason'),
+                 ('options', 0, 'text'), ('options', 0, 'detail'),
+                 ('table', 'rows', 0, 1), ('references', 0, 'title')]
+        for bad in ('여태은', '지창는', '병풍는', '노수은', '백회은',
+                    '대추은', '천부은', '중완는', '전중로',
+                    '은 肩貞,은 肩井', '고친다.은 肩貞', 'ㄴ:은 肩貞'):
+            for path in paths:
+                with self.subTest(bad=bad, path=path):
+                    broken = deepcopy(q)
+                    target = broken
+                    for key in path[:-1]:
+                        target = target[key]
+                    target[path[-1]] = bad + ' 설명이다.'
+                    with self.assertRaisesRegex(AssertionError, q['id']):
+                        validate_clinical_language(broken, names)
+        # 이 is also a demonstrative; verb endings and ㄹ+로 are valid Korean.
+        validate_clinical_language({'id': 'valid', 'text':
+            '이 근육은 움직인다. 없는 소견을 찾는 문제이다. 여태는 지창은 중완으로 길로'},
+            names + ['길'])
+
+    def test_reasoning_feedback_and_same_name_points_stay_complete(self):
+        rows = [q for d in self.decks.values() for q in d['questions']
+                if q.get('batch') == 'reasoning-20261105']
+        for q in rows:
+            if q['topic'] != 'statement-comparison':
+                continue
+            statements = q['statements']
+            expected = {i for i, s in enumerate(statements) if s['correct']}
+            self.assertEqual(q['explanation'], ' '.join(
+                'ㄱㄴㄷ'[i] + ('은 옳다. ' if s['correct'] else '은 다음과 같이 고친다. ')
+                + s['reason'] for i, s in enumerate(statements)))
+            self.assertEqual(q['discriminator'], ' '.join(s['reason'] for s in statements))
+            for option in q['options']:
+                mismatches = [i for i in range(3)
+                              if (i in option['statementIndices']) != (i in expected)]
+                self.assertEqual(option['detail'], ' '.join(
+                    f'{"ㄱㄴㄷ"[i]}: {statements[i]["reason"]}'
+                    for i in (mismatches or range(3))))
+        q = next(q for q in rows if q['id'] == 'clinical-acupoints-96')
+        for text in (q['statements'][1]['reason'], q['explanation'], q['discriminator']):
+            self.assertIn('소장경 견정은 肩貞', text)
+            self.assertIn('담경 견정은 肩井', text)
+        self.assertFalse(q['statements'][1]['correct'])
+
+    def test_reasoning_editorial_fix_preserves_answer_and_progress_identity(self):
+        import hashlib
+        payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
+        keys = ['id', 'subject', 'cardId', 'difficulty', 'answer', 'nearestWrong',
+                'references', 'relatedSource', 'batch', 'format', 'topic']
+        projection = [dict(
+            {k: q[k] for k in keys},
+            options=[{k: o[k] for k in ('text', 'statementIndices') if k in o}
+                     for o in q['options']],
+            correct=[s['correct'] for s in q.get('statements', [])])
+            for q in payload['questions'] if q.get('batch') == 'reasoning-20261105']
+        # PR #889 baseline: editorial changes must retain identifiers, sources,
+        # answer keys, statement truth values and the order/content of choices.
+        self.assertEqual(hashlib.sha256(json.dumps(
+            projection, sort_keys=True, ensure_ascii=False).encode()).hexdigest(),
+            '20223468489bbbd2c5d31d0bd7e68e605d8d5246e1a0f28c9ed9fbe494dc0bf2')
+
     def test_hard_classical_cases_keep_clause_numbers_and_source_claims_precise(self):
         sh = {q['id']: q for q in self.decks['shanghanlun']['questions'] if q['kind'] == 'advanced'}
         self.assertIn('時時惡風', sh['advanced-shanghanlun-high-05']['context'])

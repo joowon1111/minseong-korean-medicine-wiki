@@ -1,11 +1,52 @@
 """Independent five-option reasoning items with optional structured observations."""
 from collections import Counter
 from copy import deepcopy
+from functools import lru_cache
 import json
+import re
 
 START = '<!-- CLINICAL_QUESTIONS_START -->'
 END = '<!-- CLINICAL_QUESTIONS_END -->'
 LEVELS = {'high': '중', 'expert': '상'}
+
+
+def validate_clinical_language(q, names):
+    """Check noun particles, not verb endings, in authored and derived text.
+
+    Names come from the point/herb card titles. Never silently rewrite content:
+    report the question and field so the source can be reviewed and corrected.
+    """
+    def strings(value, path=''):
+        if isinstance(value, str):
+            yield path, value
+        elif isinstance(value, dict):
+            for key, child in value.items():
+                yield from strings(child, f'{path}.{key}')
+        elif isinstance(value, list):
+            for i, child in enumerate(value):
+                yield from strings(child, f'{path}[{i}]')
+
+    # The atlas title uses 단중; authored teaching material also uses 전중.
+    pattern = noun_particle_pattern(tuple(sorted(set(names) | {'전중'})))
+    for path, value in strings(q):
+        assert not re.search(r'(?:^|[.?!,:]\s*|[ㄱㄴㄷ]:\s*)[은는을를](?=\s)', value), \
+            f'{q["id"]}{path}: missing noun before particle'
+        for match in pattern.finditer(value):
+            noun, particle = match.group('noun', 'particle')
+            final = (ord(noun[-1]) - 0xAC00) % 28
+            wrong = ['는', '가', '를', '와'] if final else ['은', '이', '을', '과']
+            wrong.append('로' if final and final != 8 else '으로')
+            assert particle not in wrong, \
+                f'{q["id"]}{path}: incorrect noun particle: {match[0]}'
+
+
+@lru_cache(maxsize=4)
+def noun_particle_pattern(names):
+    nouns = sorted((n for n in names if re.fullmatch('[가-힣]+', n)),
+                   key=lambda n: (-len(n), n))
+    return re.compile(r'(?<![가-힣])(?P<noun>' + '|'.join(map(re.escape, nouns))
+                      + r')(?:\([^()]*\))?(?P<particle>으로|은|는|이|가|을|를|과|와|로)'
+                      + r'(?=$|[\s.,·?!:;])')
 
 
 def expected_counts(payload, subjects):
@@ -26,6 +67,8 @@ def clinical_questions(root, decks):
     assert Counter((r['subject'], r['difficulty']) for r in rows) == expected_counts(payload, decks)
     assert len({r['id'] for r in rows}) == len(rows)
     result = {s: [] for s in decks}
+    names = [c['title'].split('(')[0] for s in ('acupoints', 'herbs')
+             for c in decks[s]['cards']]
     for row in rows:
         q = deepcopy(row)
         subject = q.pop('subject')
@@ -36,6 +79,7 @@ def clinical_questions(root, decks):
             option.update(owner='정답 근거' if i == q['answer'] else '오답 감별',
                           ownerId=c['id'], source=q['source'])
         validate_clinical(q)
+        validate_clinical_language(q, names)
         result[subject].append(q)
     return result
 
