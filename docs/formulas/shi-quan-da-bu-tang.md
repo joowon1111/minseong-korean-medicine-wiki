@@ -113,6 +113,20 @@ last_reviewed: 2026-09-16
 
 산후·병후 모발 탈락과 허한·기혈양허가 겹칠 때의 처방 비교는 [탈모 변증·한약치료](../conditions/hair-loss.md#herbal-treatment)에서 볼 수 있습니다. 이 문서의 피로·식욕 연구는 발모 시험이 아니므로, [밀도·굵기·사진](../conditions/hair-loss.md#hair-outcomes)을 별도로 평가합니다.
 
+## 지표성분과 위점막 실험 연구 {#chemical-profile}
+
+십전대보탕은 보기약과 보혈약에 황기·육계를 더한 복합 처방입니다. 성분 분석은 각 약재의 흔적을 살펴보고 연구에 사용한 추출물의 품질을 확인하는 데 쓰입니다. 한국한의학연구원 관련 연구에서 인용한 HPLC 분석에는 페오니플로린·페룰산·노다케닌·글리시리진·신남알데히드 등을 포함한 10개 성분이 제시됩니다.
+
+| 대표 지표성분 | 관련 약재 | 개별 성분의 분자식 | 구조 |
+|---|---|---|---|
+| 페오니플로린(paeoniflorin) | 작약 | C₂₃H₂₈O₁₁ | [PubChem 분자구조](https://pubchem.ncbi.nlm.nih.gov/compound/442534) |
+| 페룰산(ferulic acid) | 당귀·천궁 등 | C₁₀H₁₀O₄ | [PubChem 분자구조](https://pubchem.ncbi.nlm.nih.gov/compound/445858) |
+| 신남알데히드(cinnamaldehyde) | 육계 | C₉H₈O | [(E)-신남알데히드 구조](https://pubchem.ncbi.nlm.nih.gov/compound/637511) |
+
+**위점막 연구:** 한의학연구원 연구진은 절식시킨 흰쥐에 십전대보탕 물 추출물을 투여하고 2시간 뒤 에탄올로 위점막 손상을 유발했습니다. 추출물 투여군에서 위점막 손상과 산화 지표인 MDA가 줄고, 글루타티온과 여러 항산화 효소의 활성은 증가했습니다. 이는 **흰쥐에서 살핀 위점막과 산화 스트레스의 기초연구**입니다. 환자의 소화 상태와 식욕 변화는 아래의 사람 대상 연구에서 별도로 살핍니다.
+
+→ [십전대보탕 위점막 동물실험 원문](https://pubmed.ncbi.nlm.nih.gov/25280763/)
+
 ## 현대 연구
 십전대보탕(Sipjeondaebo-tang / Juzen-taiho-to / Shi-Quan-Da-Bu-Tang)은 면역조절, 항암치료 보조, 피로·식욕·삶의 질 등 다양한 분야에서 연구되어 왔다.
 
