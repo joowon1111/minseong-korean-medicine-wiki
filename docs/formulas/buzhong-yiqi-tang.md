@@ -137,7 +137,11 @@ last_reviewed: 2026-09-06
 | 연구에서 확인한 성분 | 관련 약재 | 개별 성분의 분자식 | 구조 |
 |---|---|---|---|
 | 헤스페리딘(hesperidin) | 진피 | C₂₈H₃₄O₁₅ | [PubChem 분자구조](https://pubchem.ncbi.nlm.nih.gov/compound/10621) |
+| 리퀴리틴(liquiritin) | 감초 | C₂₁H₂₂O₉ | [PubChem 분자구조](https://pubchem.ncbi.nlm.nih.gov/compound/503737) |
+| 글리시리진(glycyrrhizin) | 감초 | C₄₂H₆₂O₁₆ | [PubChem 분자구조](https://pubchem.ncbi.nlm.nih.gov/compound/14982) |
 | 노다케닌(nodakenin) | 연구에 사용한 당귀 | C₂₀H₂₄O₉ | [PubChem 분자구조](https://pubchem.ncbi.nlm.nih.gov/compound/73191) |
+
+연구진은 254·280·330 nm에서 크로마토그램을 확인하고 일곱 성분을 정량했습니다. 검량선의 결정계수는 모두 0.9997 이상이었습니다. 성분 함량은 약재의 기원과 배합, 추출 조건에 따라 달라질 수 있으므로 분석 시료를 함께 확인합니다.
 
 **약리 연구의 한 장면:** 같은 연구는 아밀로이드 베타를 주입한 생쥐에서 보중익기탕 투여 후 Y-미로와 수동회피 시험, 해마의 아밀로이드 및 신경 관련 지표를 살폈습니다. 투여군에서 실험상 기억 관련 행동과 일부 조직 지표가 개선되는 양상을 보고했습니다. 이 결과는 보중익기탕의 작용을 탐색한 **동물실험**이며, 아래의 피로·호흡기 사람 대상 연구와 연구 질문이 다릅니다.
 
