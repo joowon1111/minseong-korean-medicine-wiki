@@ -308,5 +308,5 @@ hide:
 - [사상의학 한눈에 보기](../sasang-integrated/index.md) · [동의수세보원](../classics/donguisusebowon.md) · [사상학습 카드](../learning/sasang.md)
 - [증상으로 찾기](../symptom-integrated/index.md) · [질환별 보기](../conditions/index.md)
 - [24절기 풍속·음식·본초 이야기](solar-terms.md#stories) · [연도별 절입 시각 계산](solar-terms.md#solar-calculator)
-- [민성의담 旻城醫談 — 고전과 처방 이야기](../classical-stories/index.md)
+- [민성의담 旻城醫潭 — 고전과 처방 이야기](../classical-stories/index.md)
 
