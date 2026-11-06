@@ -231,7 +231,7 @@ The book introductions identify which passages have original text, commentary or
 
 ## 8. Korean Medicine Through Stories {#stories}
 
-**Minseong Uidam (민성의담, 旻城醫談)** is this archive's story series. These four introductions give English readers a scene from each column. The full stories are in Korean; each link leads to the column and its historical sources.
+**Minseong Uidam (민성의담, 旻城醫潭)** is this archive's story series. These four introductions give English readers a scene from each column. The full stories are in Korean; each link leads to the column and its historical sources.
 
 ### Heo Jun thought about the reader's purse
 
