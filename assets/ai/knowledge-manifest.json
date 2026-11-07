@@ -2,7 +2,7 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "c9ecc23dcdb87d5a14def3349512b937cb64f9a99fd18cb7aeb2371159355f14",
+  "content_sha256": "16f53bdda90f17682e6298d107fe0677b2d7cf26bd5a26bcb10b9aa49a5387d2",
   "entity_count": 2251,
   "entity_types": {
     "acupoint": 410,
@@ -42,10 +42,10 @@
     "ko-KR"
   ],
   "red_flag_section_entities": 281,
-  "relation_count": 29425,
+  "relation_count": 29433,
   "relation_types": {
     "links_to": 11548,
-    "links_to_acupoint": 2191,
+    "links_to_acupoint": 2199,
     "links_to_condition": 5884,
     "links_to_evidence": 243,
     "links_to_formula": 5893,
