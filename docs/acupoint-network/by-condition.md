@@ -11,10 +11,10 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 | 증상·영역 | 관련 경맥 | 핵심 경혈 |
 |---|---|---|
-| 불면·심계·긴장 | 심경·심포경·신경·독맥·교맥 | [신문 HT7](../acupuncture/points/ht7-shenmen.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)·[조해 KI6](../acupuncture/points/ki6-zhaohai.md)·[백회 GV20](../acupuncture/points/gv20-baihui.md)·인당 |
+| 불면·심계·긴장 | 심경·심포경·신경·독맥·교맥 | [신문 HT7](../acupuncture/points/ht7-shenmen.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)·[조해 KI6](../acupuncture/points/ki6-zhaohai.md)·[백회 GV20](../acupuncture/points/gv20-baihui.md)·[인당 EX-HN3](../acupuncture/extra-points/ex-hn3.md) |
 | 소화불량·더부룩함 | 위경·비경·심포경·임맥 | [족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)·[공손 SP4](../acupuncture/points/sp4-gongsun.md)·[풍륭 ST40](../acupuncture/points/st40-fenglong.md) |
 | 요통 | 방광경·신경·독맥 | [신수 BL23](../acupuncture/points/bl23-shenshu.md)·[대장수 BL25](../acupuncture/points/bl25-dachangshu.md)·[위중 BL40](../acupuncture/points/bl40-weizhong.md)·[곤륜 BL60](../acupuncture/points/bl60-kunlun.md)·[태계 KI3](../acupuncture/points/ki3-taixi.md)·[명문 GV4](../acupuncture/points/gv4-mingmen.md) |
-| 비염·코막힘 | 폐경·대장경·독맥 | [열결 LU7](../acupuncture/points/lu7-lieque.md)·[합곡 LI4](../acupuncture/points/li4-hegu.md)·[영향 LI20](../acupuncture/points/li20-yingxiang.md)·인당 |
+| 비염·코막힘 | 폐경·대장경·독맥 | [열결 LU7](../acupuncture/points/lu7-lieque.md)·[합곡 LI4](../acupuncture/points/li4-hegu.md)·[영향 LI20](../acupuncture/points/li20-yingxiang.md)·[인당 EX-HN3](../acupuncture/extra-points/ex-hn3.md) |
 | 목·어깨통증 | 담경·방광경·소장경·대장경·삼초경 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md)·[천주 BL10](../acupuncture/points/bl10-tianzhu.md)·[견정 GB21](../acupuncture/points/gb21-jianjing.md)·[천종 SI11](../acupuncture/points/si11-tianzong.md)·[견우 LI15](../acupuncture/points/li15-jianyu.md)·[외관 TE5](../acupuncture/points/te5-waiguan.md) |
 | 무릎통증 | 위경·비경·담경·방광경 | [독비 ST35](../acupuncture/points/st35-dubi.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md)·[음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md)·[위중 BL40](../acupuncture/points/bl40-weizhong.md) |
 | 하지저림·둔부통 | 방광경·담경 | 환도 GB30·[위중 BL40](../acupuncture/points/bl40-weizhong.md)·[승산 BL57](../acupuncture/points/bl57-chengshan.md)·[곤륜 BL60](../acupuncture/points/bl60-kunlun.md) |
