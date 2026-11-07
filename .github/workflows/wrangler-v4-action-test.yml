@@ -1,0 +1,27 @@
+name: Wrangler v4 action dry-run test
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/workflows/wrangler-v4-action-test.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+          package-manager-cache: false
+      - name: Build worker without publishing
+        uses: cloudflare/wrangler-action@953926a2e2182532811c01a25e53647d93bf07c0 # v4.1.3
+        with:
+          apiToken: test-only-no-access
+          accountId: 00000000000000000000000000000000
+          workingDirectory: services/archive-ai
+          wranglerVersion: '4.149.0'
+          command: deploy --dry-run --outdir /tmp/archive-ai-test
