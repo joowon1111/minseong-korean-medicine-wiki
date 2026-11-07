@@ -1,11 +1,13 @@
 ---
 title: 인당 EX-HN3 표준 위치
-description: 경외기혈 인당의 위치·취혈·자침 정보를 정리합니다.
+description: 인당혈의 미간 위치와 수면·긴장·코막힘에 대한 활용, 관련 진료지침과 연구·안전 정보를 확인합니다.
 status: 검토완료
 last_reviewed: 2026-08-22
 source_standard: KM-Agent CC BY 4.0 / WHO-derived metadata
 ---
 # 인당 EX-HN3 표준 위치
+
+인당혈은 양쪽 눈썹 사이의 정중선에 있는 경외기혈입니다. 수면과 긴장, 코막힘이나 미간의 불편을 살필 때 다른 혈자리와 함께 활용합니다.
 
 ## 분류
 **경외기혈** · 코드 **EX-HN3**
