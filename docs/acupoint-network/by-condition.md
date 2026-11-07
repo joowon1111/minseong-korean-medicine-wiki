@@ -11,22 +11,22 @@ tags: [경맥, 경혈, 증상, 배혈, 변증, 침구]
 
 | 증상·영역 | 관련 경맥 | 핵심 경혈 |
 |---|---|---|
-| 불면·심계·긴장 | 심경·심포경·신경·독맥·교맥 | [신문 HT7](../acupuncture/points/ht7-shenmen.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)·조해 KI6·[백회 GV20](../acupuncture/points/gv20-baihui.md)·인당 |
+| 불면·심계·긴장 | 심경·심포경·신경·독맥·교맥 | [신문 HT7](../acupuncture/points/ht7-shenmen.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)·[조해 KI6](../acupuncture/points/ki6-zhaohai.md)·[백회 GV20](../acupuncture/points/gv20-baihui.md)·인당 |
 | 소화불량·더부룩함 | 위경·비경·심포경·임맥 | [족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)·[공손 SP4](../acupuncture/points/sp4-gongsun.md)·[풍륭 ST40](../acupuncture/points/st40-fenglong.md) |
-| 요통 | 방광경·신경·독맥 | [신수 BL23](../acupuncture/points/bl23-shenshu.md)·[대장수 BL25](../acupuncture/points/bl25-dachangshu.md)·[위중 BL40](../acupuncture/points/bl40-weizhong.md)·[곤륜 BL60](../acupuncture/points/bl60-kunlun.md)·[태계 KI3](../acupuncture/points/ki3-taixi.md)·명문 GV4 |
+| 요통 | 방광경·신경·독맥 | [신수 BL23](../acupuncture/points/bl23-shenshu.md)·[대장수 BL25](../acupuncture/points/bl25-dachangshu.md)·[위중 BL40](../acupuncture/points/bl40-weizhong.md)·[곤륜 BL60](../acupuncture/points/bl60-kunlun.md)·[태계 KI3](../acupuncture/points/ki3-taixi.md)·[명문 GV4](../acupuncture/points/gv4-mingmen.md) |
 | 비염·코막힘 | 폐경·대장경·독맥 | [열결 LU7](../acupuncture/points/lu7-lieque.md)·[합곡 LI4](../acupuncture/points/li4-hegu.md)·[영향 LI20](../acupuncture/points/li20-yingxiang.md)·인당 |
-| 목·어깨통증 | 담경·방광경·소장경·대장경·삼초경 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md)·천주 BL10·[견정 GB21](../acupuncture/points/gb21-jianjing.md)·[천종 SI11](../acupuncture/points/si11-tianzong.md)·견우 LI15·[외관 TE5](../acupuncture/points/te5-waiguan.md) |
-| 무릎통증 | 위경·비경·담경·방광경 | 독비 ST35·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md)·[음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md)·[위중 BL40](../acupuncture/points/bl40-weizhong.md) |
+| 목·어깨통증 | 담경·방광경·소장경·대장경·삼초경 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md)·[천주 BL10](../acupuncture/points/bl10-tianzhu.md)·[견정 GB21](../acupuncture/points/gb21-jianjing.md)·[천종 SI11](../acupuncture/points/si11-tianzong.md)·[견우 LI15](../acupuncture/points/li15-jianyu.md)·[외관 TE5](../acupuncture/points/te5-waiguan.md) |
+| 무릎통증 | 위경·비경·담경·방광경 | [독비 ST35](../acupuncture/points/st35-dubi.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md)·[음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md)·[위중 BL40](../acupuncture/points/bl40-weizhong.md) |
 | 하지저림·둔부통 | 방광경·담경 | 환도 GB30·[위중 BL40](../acupuncture/points/bl40-weizhong.md)·[승산 BL57](../acupuncture/points/bl57-chengshan.md)·[곤륜 BL60](../acupuncture/points/bl60-kunlun.md) |
-| 두통·경항통 | 담경·방광경·독맥·대장경 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md)·천주 BL10·[백회 GV20](../acupuncture/points/gv20-baihui.md)·[합곡 LI4](../acupuncture/points/li4-hegu.md)·[태충 LR3](../acupuncture/points/lr3-taichong.md) |
+| 두통·경항통 | 담경·방광경·독맥·대장경 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md)·[천주 BL10](../acupuncture/points/bl10-tianzhu.md)·[백회 GV20](../acupuncture/points/gv20-baihui.md)·[합곡 LI4](../acupuncture/points/li4-hegu.md)·[태충 LR3](../acupuncture/points/lr3-taichong.md) |
 | 어지럼·머리 무거움 | 담경·위경·비경·독맥 | [풍지 GB20](../acupuncture/points/gb20-fengchi.md)·[풍륭 ST40](../acupuncture/points/st40-fenglong.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[백회 GV20](../acupuncture/points/gv20-baihui.md) |
 | 흉민·두근거림 | 심포경·심경·임맥 | [내관 PC6](../acupuncture/points/pc6-neiguan.md)·[신문 HT7](../acupuncture/points/ht7-shenmen.md)·[전중 CV17](../acupuncture/points/cv17-danzhong.md)·극문 PC4 |
-| 기침·호흡기 | 폐경·대장경·임맥·방광경 | 중부 LU1·척택 LU5·[열결 LU7](../acupuncture/points/lu7-lieque.md)·폐수 BL13·[전중 CV17](../acupuncture/points/cv17-danzhong.md) |
-| 복통·배변변화 | 위경·비경·임맥 | [천추 ST25](../acupuncture/points/st25-tianshu.md)·상거허 ST37·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[중완 CV12](../acupuncture/points/cv12-zhongwan.md) |
-| 냉증·기력저하 | 신경·비경·위경·임맥·독맥 | [태계 KI3](../acupuncture/points/ki3-taixi.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[기해 CV6](../acupuncture/points/cv6-qihai.md)·[관원 CV4](../acupuncture/points/cv4-guanyuan.md)·명문 GV4 |
+| 기침·호흡기 | 폐경·대장경·임맥·방광경 | 중부 LU1·[척택 LU5](../acupuncture/points/lu5-chize.md)·[열결 LU7](../acupuncture/points/lu7-lieque.md)·[폐수 BL13](../acupuncture/points/bl13-feishu.md)·[전중 CV17](../acupuncture/points/cv17-danzhong.md) |
+| 복통·배변변화 | 위경·비경·임맥 | [천추 ST25](../acupuncture/points/st25-tianshu.md)·[상거허 ST37](../acupuncture/points/st37-shangjuxu.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[중완 CV12](../acupuncture/points/cv12-zhongwan.md) |
+| 냉증·기력저하 | 신경·비경·위경·임맥·독맥 | [태계 KI3](../acupuncture/points/ki3-taixi.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[기해 CV6](../acupuncture/points/cv6-qihai.md)·[관원 CV4](../acupuncture/points/cv4-guanyuan.md)·[명문 GV4](../acupuncture/points/gv4-mingmen.md) |
 | 생리·하복부 | 비경·간경·신경·임맥·충맥 | [삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md)·[태충 LR3](../acupuncture/points/lr3-taichong.md)·[관원 CV4](../acupuncture/points/cv4-guanyuan.md)·[기해 CV6](../acupuncture/points/cv6-qihai.md)·[혈해 SP10](../acupuncture/points/sp10-xuehai.md) |
 | 부종·수분대사 | 비경·신경·방광경 | [음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md)·복류 KI7·[태계 KI3](../acupuncture/points/ki3-taixi.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md) |
-| 안면·턱·귀 | 위경·대장경·소장경·삼초경·담경 | 하관 ST7·[영향 LI20](../acupuncture/points/li20-yingxiang.md)·청궁 SI19·예풍 TE17·[풍지 GB20](../acupuncture/points/gb20-fengchi.md) |
+| 안면·턱·귀 | 위경·대장경·소장경·삼초경·담경 | 하관 ST7·[영향 LI20](../acupuncture/points/li20-yingxiang.md)·[청궁 SI19](../acupuncture/points/si19.md)·[예풍 TE17](../acupuncture/points/te17-yifeng.md)·[풍지 GB20](../acupuncture/points/gb20-fengchi.md) |
 
 ## 불면·수면저하
 **심경·심포경·신경·독맥·음교맥·양교맥**을 함께 봅니다.  
