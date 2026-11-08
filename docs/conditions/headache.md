@@ -228,6 +228,7 @@ last_reviewed: 2026-09-19
 - [어지럼](./dizziness.md)
 - [두통·어지럼 한약 처방](../herbal-integrated/formula-for-headache.md)
 - [경맥→증상 지도](../acupoint-network/by-condition.md)
+- [병풍 안, 허임이 침을 들었다](../classical-stories/heo-im-royal-acupuncture.md) — 선조의 편두통 발작 때 증세를 묻고 혈을 정해 침을 놓은 왕실 진료 기록
 
 ## 근거와 참고자료 {#_22}
 

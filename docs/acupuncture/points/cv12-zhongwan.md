@@ -19,6 +19,8 @@ last_reviewed: 2026-08-19
 
 출전: [『침구대성』 권7 중완 대목](https://ctext.org/wiki.pl?chapter=374152&if=gb); [『난경집주』 제45난](https://ctext.org/wiki.pl?chapter=327246&if=en). 고전적 명칭과 현대 진료지침은 각각의 맥락에서 읽습니다.
 
+조선의 침의 허임은 『침구경험방』에서 중완을 정해진 숫자만큼 일률적으로 찌르기보다 사람마다 다른 몸의 깊이와 시술 중 반응을 살피라고 적었습니다. [병풍 안, 허임이 침을 들었다](../../classical-stories/heo-im-royal-acupuncture.md#jungwan-technique)에서 왕실 침 치료 장면과 중완침법의 원문을 함께 읽을 수 있습니다.
+
 <!-- MS_ACUPOINT_ATLAS_43_START -->
 ## 표준 위치·취혈
 
