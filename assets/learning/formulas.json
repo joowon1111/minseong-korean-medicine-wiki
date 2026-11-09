@@ -21839,16 +21839,16 @@
       },
       "options": [
         {
-          "text": "진피·반하를 더하여 보기 골격에 이기화담을 겸한다",
-          "detail": "비기허의 보기 골격에 담습과 기체를 다루는 진피·반하가 더해진다.",
-          "owner": "정답 근거",
+          "text": "지실·대황을 더하여 통하사열을 겸한다",
+          "detail": "표의 추가 약재가 진피·반하이며 사하를 중심으로 삼는 구성은 아니다.",
+          "owner": "오답 감별",
           "ownerId": "formula-liujunzi-tang",
           "source": "/learning/formulas/#clinical-formulas-38"
         },
         {
-          "text": "지실·대황을 더하여 통하사열을 겸한다",
-          "detail": "표의 추가 약재가 진피·반하이며 사하를 중심으로 삼는 구성은 아니다.",
-          "owner": "오답 감별",
+          "text": "진피·반하를 더하여 보기 골격에 이기화담을 겸한다",
+          "detail": "비기허의 보기 골격에 담습과 기체를 다루는 진피·반하가 더해진다.",
+          "owner": "정답 근거",
           "ownerId": "formula-liujunzi-tang",
           "source": "/learning/formulas/#clinical-formulas-38"
         },
@@ -21874,8 +21874,8 @@
           "source": "/learning/formulas/#clinical-formulas-38"
         }
       ],
-      "answer": 0,
-      "nearestWrong": 1,
+      "answer": 1,
+      "nearestWrong": 0,
       "explanation": "진피·반하를 더해 사군자탕의 보기건비에 이기·조습화담의 방향을 더한다.",
       "discriminator": "보기 골격의 유지와 진피·반하의 추가를 함께 확인한다.",
       "kind": "clinical",
@@ -21910,13 +21910,6 @@
       },
       "options": [
         {
-          "text": "목향·사인을 더해 보기화담에 행기화습의 방향을 보탠다",
-          "detail": "육군자탕의 보기·화담 골격을 유지하면서 목향·사인으로 기체와 습체를 함께 다룬다.",
-          "owner": "정답 근거",
-          "ownerId": "formula-xiangsha-liujunzi-tang",
-          "source": "/learning/formulas/#clinical-formulas-39"
-        },
-        {
           "text": "목향·사인을 더해 보기약을 전부 없애고 사하를 강화한다",
           "detail": "보기 골격은 유지되며 목향·사인은 대황·망초의 사하축과 다르다.",
           "owner": "오답 감별",
@@ -21927,6 +21920,13 @@
           "text": "황련·황금을 더해 소양열을 중심으로 청한다",
           "detail": "추가된 것은 목향·사인이며 황련·황금이 아니다.",
           "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-39"
+        },
+        {
+          "text": "목향·사인을 더해 보기화담에 행기화습의 방향을 보탠다",
+          "detail": "육군자탕의 보기·화담 골격을 유지하면서 목향·사인으로 기체와 습체를 함께 다룬다.",
+          "owner": "정답 근거",
           "ownerId": "formula-xiangsha-liujunzi-tang",
           "source": "/learning/formulas/#clinical-formulas-39"
         },
@@ -21945,8 +21945,8 @@
           "source": "/learning/formulas/#clinical-formulas-39"
         }
       ],
-      "answer": 0,
-      "nearestWrong": 1,
+      "answer": 2,
+      "nearestWrong": 0,
       "explanation": "목향·사인을 추가해 육군자탕의 보기화담에 행기화습을 보탠다.",
       "discriminator": "추가 약재 두 가지와 유지되는 육군자탕 골격을 함께 확인한다.",
       "kind": "clinical",
@@ -21981,13 +21981,6 @@
       },
       "options": [
         {
-          "text": "도인·홍화를 더하여 보혈 골격에 활혈거어를 겸한다",
-          "detail": "사물탕의 보혈·조혈 배합에 도인·홍화의 활혈거어를 더한다.",
-          "owner": "정답 근거",
-          "ownerId": "formula-siwu-tang",
-          "source": "/learning/formulas/#clinical-formulas-40"
-        },
-        {
           "text": "도인·홍화를 더하여 청기분열·생진을 중심으로 한다",
           "detail": "도인·홍화는 제시된 비교에서 활혈거어를 위한 추가 약재다.",
           "owner": "오답 감별",
@@ -22009,6 +22002,13 @@
           "source": "/learning/formulas/#clinical-formulas-40"
         },
         {
+          "text": "도인·홍화를 더하여 보혈 골격에 활혈거어를 겸한다",
+          "detail": "사물탕의 보혈·조혈 배합에 도인·홍화의 활혈거어를 더한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-40"
+        },
+        {
           "text": "대황·망초를 더하여 양명부실을 통하한다",
           "detail": "대황·망초가 아니라 도인·홍화가 더해진다.",
           "owner": "오답 감별",
@@ -22016,8 +22016,8 @@
           "source": "/learning/formulas/#clinical-formulas-40"
         }
       ],
-      "answer": 0,
-      "nearestWrong": 1,
+      "answer": 3,
+      "nearestWrong": 0,
       "explanation": "도인·홍화를 더해 사물탕의 보혈 골격에 활혈거어의 방향을 더한다.",
       "discriminator": "도인·홍화의 추가와 사물탕 네 약미의 유지를 함께 본다.",
       "kind": "clinical",
