@@ -377,12 +377,12 @@ class StudentLearning(unittest.TestCase):
         from collections import Counter
         payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
         self.assertEqual(payload['questionsPerLevel'], 18)
-        self.assertEqual(len(payload['questions']), 660)
-        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 660)
-        self.assertEqual(len({q['context'] for q in payload['questions']}), 660)
+        self.assertEqual(len(payload['questions']), 664)
+        self.assertEqual(len({q['prompt'] for q in payload['questions']}), 664)
+        self.assertEqual(len({q['context'] for q in payload['questions']}), 664)
         for subject, deck in self.decks.items():
             cases = [q for q in deck['questions'] if q['kind'] == 'clinical']
-            per_level = {'anatomy': 42, 'shanghanlun': 54, 'sasang': 54, 'acupoints': 54, 'acupuncture': 54, 'herbs': 54}.get(subject, 18)
+            per_level = {'anatomy': 42, 'shanghanlun': 54, 'sasang': 54, 'acupoints': 54, 'acupuncture': 54, 'herbs': 54, 'formulas': 20}.get(subject, 18)
             self.assertEqual(Counter(q['difficulty'] for q in cases), {'high': per_level, 'expert': per_level})
             self.assertEqual({q['id'] for q in cases}, {f'clinical-{subject}-{n:02}' for n in range(1, per_level * 2 + 1)})
             self.assertEqual({q['answer'] for q in cases}, set(range(5)))
@@ -410,7 +410,7 @@ class StudentLearning(unittest.TestCase):
         self.assertEqual(manifest['version'], version)
         self.assertIn('assets/learning/learning.js?v=' + version, config)
         hub = (study.DOCS / 'learning/index.md').read_text()
-        self.assertIn('자체 작성한 **660문제(중 330·상 330)**', hub)
+        self.assertIn('자체 작성한 **664문제(중 332·상 332)**', hub)
         self.assertIn('기초 해부학은 **84문제**', hub)
         self.assertIn('경혈학·침구학·본초학·상한론·사상의학은 각각 **108문제**', hub)
 
