@@ -537,6 +537,39 @@ class StudentLearning(unittest.TestCase):
             self.assertIn('담경 견정은 肩井', text)
         self.assertFalse(q['statements'][1]['correct'])
 
+    def test_condition_comparison_counts_match_hub(self):
+        from collections import Counter
+        payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
+        questions = payload['questions']
+        comparisons = [q for q in questions if q.get('topic') == 'conditional-reasoning']
+        self.assertEqual(Counter(q['subject'] for q in comparisons),
+                         {'acupoints': 8, 'acupuncture': 8, 'herbs': 8})
+        self.assertEqual(Counter(q['difficulty'] for q in comparisons), {'high': 12, 'expert': 12})
+        hub = (study.DOCS / 'learning/index.md').read_text()
+        paragraph = next(p for p in hub.split('\\n\\n') if p.startswith('**조건 비교 문제**'))
+        self.assertIn(f'총 **{len(comparisons)}문제**(중 12·상 12)', paragraph)
+        self.assertIn(f'위의 자체 작성 {len(questions)}문제에 포함됩니다', paragraph)
+
+    def test_formula_comparison_answers_match_rendered_choices(self):
+        payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
+        originals = {q['id']: q for q in payload['questions'] if q['id'].startswith('clinical-formulas-')}
+        deck = {q['id']: q for q in self.decks['formulas']['questions']}
+        text = (study.DOCS / 'learning/formulas.md').read_text()
+        answer_positions = set()
+        for number in range(37, 41):
+            question_id = f'clinical-formulas-{number}'
+            source, question = originals[question_id], deck[question_id]
+            self.assertEqual(source['answer'], question['answer'])
+            self.assertEqual(source['nearestWrong'], question['nearestWrong'])
+            self.assertEqual([o['text'] for o in source['options']], [o['text'] for o in question['options']])
+            section = text.split(f'<span id="{question_id}"></span>', 1)[1].split('</details>', 1)[0]
+            self.assertIn(f'**정답: {question["answer"] + 1}번**', section)
+            for index, option in enumerate(question['options']):
+                self.assertIn(f'{index + 1}. {option["text"]}', section)
+                self.assertIn(f'- **{index + 1}번:** {option["detail"]}', section)
+            answer_positions.add(question['answer'])
+        self.assertGreater(len(answer_positions), 1)
+
     def test_reasoning_editorial_fix_preserves_answer_and_progress_identity(self):
         import hashlib
         payload = json.loads((study.ROOT / 'data/clinical_learning.json').read_text())
