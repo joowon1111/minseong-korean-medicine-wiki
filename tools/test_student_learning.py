@@ -546,7 +546,7 @@ class StudentLearning(unittest.TestCase):
                          {'acupoints': 8, 'acupuncture': 8, 'herbs': 8})
         self.assertEqual(Counter(q['difficulty'] for q in comparisons), {'high': 12, 'expert': 12})
         hub = (study.DOCS / 'learning/index.md').read_text()
-        paragraph = next(p for p in hub.split('\\n\\n') if p.startswith('**조건 비교 문제**'))
+        paragraph = next(p for p in hub.splitlines() if p.startswith('**조건 비교 문제**'))
         self.assertIn(f'총 **{len(comparisons)}문제**(중 12·상 12)', paragraph)
         self.assertIn(f'위의 자체 작성 {len(questions)}문제에 포함됩니다', paragraph)
 
