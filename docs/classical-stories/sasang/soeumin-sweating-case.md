@@ -59,7 +59,7 @@ status: 검토완료
 
 ## 함께 읽기
 
-[소증과 현재 상태의 기록](../../sasang-original-symptoms/index.md#baseline-current)에서 평소와 지금의 변화를 나누어 보고, [소음인 망양 중증도](../../sasang-pattern-differential/soeumin-severity-map.md)와 [인삼계지부자탕 카드](../../sasang-formula-cards/insamgyejibujatang.md)에서 병증의 위치와 별도 수록본의 구성을 비교한다. 땀을 다른 경과 속에서 읽는 사례는 [태음인의 새 병과 평소 불편](taeeumin-baseline-recovery.md)로 이어진다.
+[열 살 겨울, 늘 낫던 복통이 달라졌다](soeumin-watery-diarrhea-reassessment.md)는 같은 아이가 두 달 앞서 하리청수를 앓았을 때의 기록이다. [소증과 현재 상태의 기록](../../sasang-original-symptoms/index.md#baseline-current)에서 평소와 지금의 변화를 나누어 보고, [소음인 망양 중증도](../../sasang-pattern-differential/soeumin-severity-map.md)와 [인삼계지부자탕 카드](../../sasang-formula-cards/insamgyejibujatang.md)에서 병증의 위치와 별도 수록본의 구성을 비교한다. 땀을 다른 경과 속에서 읽는 사례는 [태음인의 새 병과 평소 불편](taeeumin-baseline-recovery.md)로 이어진다.
 
 이 글은 역사적 의안의 학습 자료이며 소아 진단이나 부자·파두의 자가복용 지침이 아니다.
 
