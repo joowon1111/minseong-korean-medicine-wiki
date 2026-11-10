@@ -28,7 +28,8 @@ last_reviewed: 2026-10-12
 | 잠들기 어렵고 자주 깨요 | [소아 수면](../conditions/child-sleep.md) | 취침·기상, 코골이, 낮 행동 |
 | 잘 때 옷이나 베개가 젖어요 | [아이 식은땀·잘 때 땀](../conditions/child-night-sweats.md) | 환경·체온, 코골이, 낮 활동·성장 |
 | 밤에 이불에 소변을 봐요 | [소아 야뇨증](../conditions/child-enuresis.md) | 젖은 밤, 낮 배뇨, 변비 |
-| 다리가 아프다고 해요 | [성장통](../conditions/growing-pains.md) | 한쪽·낮 통증, 붓기·절뚝거림 |
+| 코피가 자주 나요 | [소아 코피·반복 코피](../conditions/child-nosebleed.md) | 압박해서 멎기까지 걸린 시간, 코피가 시작된 쪽, 다른 부위 출혈 |
+| 다리가 아프다고 해요 | [성장통](../conditions/growing-pains.md) | 아픈 쪽과 시간대, 다음 날 아침 보행, 붓기 |
 | 피곤하고 집중이 오래 가지 않아요 | [소아 피로](../conditions/child-fatigue.md) · [ADHD 안내](../conditions/adhd.md) | 수면·코호흡, 학교와 가정의 변화 |
 
 ## 바로 평가할 신호 {#_3}
