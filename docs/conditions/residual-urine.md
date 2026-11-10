@@ -43,7 +43,7 @@ last_reviewed: 2026-09-06
 - [팔미지황환](../formulas/bawei-dihuang-wan.md)은 온양·기화의 맥락을 비교합니다.
 - [축천환](../formulas/suoquan-wan.md)은 원전의 허한·빈뇨·유뇨를 다룹니다. **잔뇨가 많은 상태를 소변이 잦다는 이유로 같은 적용 범위에 넣지 않습니다.**
 
-침·전침과 한약은 배출 상태·통증·냉열·생활 기능에 맞춰 목표를 정합니다. [배뇨 경혈 안내](../acupuncture-integrated/points-for-urinary.md)와 [비뇨기 치료 구성](../pillar/urology-mens-health.md#treatment-plan)에서 이어집니다.
+침·전침과 한약을 병행할 때는 남은 느낌과 배뇨 후 실제 잔뇨량을 구분해 목표를 세웁니다. 예를 들어 개운해졌더라도 줄기가 더 약해지거나 배뇨 시간이 길어지면 잔뇨량과 배출 원인을 다시 확인합니다. [배뇨 경혈 안내](../acupuncture-integrated/points-for-urinary.md)와 [비뇨기 치료 구성](../pillar/urology-mens-health.md#treatment-plan)에서 이어집니다.
 
 ## 배뇨·골반·전신상태를 함께 보기 {#_6}
 

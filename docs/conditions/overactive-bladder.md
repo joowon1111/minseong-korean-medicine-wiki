@@ -44,6 +44,17 @@ last_reviewed: 2026-09-21
 
 따갑고 아프며 갑자기 빈뇨가 시작되면 [방광염](cystitis.md), 줄기가 약하고 배출이 지연되면 [전립선비대증](benign-prostatic-hyperplasia.md), 야간 증상이 중심이면 [야간뇨](nocturia.md)를 함께 봅니다.
 
+### 소변이 샐 때 먼저 확인할 양상 {#urinary-leakage-types}
+
+| 소변이 새는 상황 | 유형 | 먼저 살필 점 |
+|---|---|---|
+| 갑자기 마렵고 화장실에 도착하기 전에 샘 | 절박성 요실금 | 절박감·누출을 일지에 기록하고 요검사와 배출 상태를 확인 |
+| 기침·재채기·운동 때 샘 | 복압성 요실금 | 출산·골반 또는 전립선 수술력, 골반저 기능 평가 |
+| 급할 때도 새고 기침할 때도 샘 | 혼합성 요실금 | 더 불편한 양상을 확인해 치료 목표를 정함 |
+| 줄기가 약하고 소변이 잘 안 나오면서 찔끔거림 | 넘침 요실금 가능성 | [배뇨 후 잔뇨량](residual-urine.md#postvoid-residual)과 배출 장애 평가 |
+
+절박뇨(요절박)는 갑자기 마려워 참기 어려운 **느낌**이고, 그때 실제로 소변이 새면 절박성 요실금이라고 부릅니다. 과민성방광에는 방광훈련을, 복압성 요실금에는 골반저근 훈련을 유형과 기능에 맞춰 검토합니다. 배출이 어렵고 잔뇨가 의심되면 소변을 참는 훈련에 앞서 비워지는 상태를 확인합니다. [NIDDK 요실금 유형](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/definition-facts) · [AUA/SUFU 과민성방광 지침](https://www.auanet.org/documents/Guidelines/PDF/2024%20Guidelines/OAB%202024%20Unabridgedv2.pdf)
+
 ## 초기 평가에서 확인할 내용 {#oab-assessment}
 
 - 요검사로 감염·혈뇨·당뇨 단서를 확인합니다.
@@ -93,6 +104,9 @@ last_reviewed: 2026-09-21
 
 - systematic review/meta-analysis는 **30개 연구**를 포함했습니다. sham 침과 비교해 OABSS와 배뇨빈도의 개선이 보고되었고, 약물치료에 침을 병행한 연구에서도 OABSS와 빈도 변화가 평가되었습니다. [PMID 36712423](https://pubmed.ncbi.nlm.nih.gov/36712423/) · [DOI 10.3389/fneur.2022.985288](https://doi.org/10.3389/fneur.2022.985288)
 - 2025년 umbrella review는 **7개 systematic review/meta-analysis**를 재평가했습니다. 34개 결과지표 중 23개에서 대조군 대비 유의한 개선이 보고되었습니다. 연구별 프로그램과 방법 차이를 고려해 실제 진료에서는 배뇨일지·OABSS·삶의 질을 같은 시점에 함께 비교합니다. [PMID 39776552](https://pubmed.ncbi.nlm.nih.gov/39776552/) · [DOI 10.1080/20905998.2024.2400628](https://doi.org/10.1080/20905998.2024.2400628)
+
+- **과민성방광과 가짜침 비교.** 2022년 코크란 고찰은 성인 1,395명이 참여한 연구 15건을 포함했습니다. 가짜침 대비 과민성방광 전체 증상, 절박감·빈뇨·야간뇨에 대한 효과는 불확실했습니다. 누출 횟수는 비교 연구 2건(121명)에서 차이가 거의 없을 가능성이 있었습니다. [코크란 고찰](https://www.cochrane.org/evidence/CD013519_acupuncture-treating-overactive-bladder-adults)
+- **여성 복압성 요실금과 전침.** 여성 504명을 대상으로 한 무작위시험에서 6주 후 1시간 패드 검사 누출량이 요천부 전침군에서 가짜전침군보다 평균 7.4g 더 줄었습니다(95% 신뢰구간 4.8~10.0g). 이 시험은 기침·운동 등으로 새는 여성 복압성 요실금을 대상으로 했으며, 절박성 요실금은 위 과민성방광 연구 결과를 참고합니다. [Liu 등, JAMA](https://pubmed.ncbi.nlm.nih.gov/28655016/)
 
 ## 치료 전후 확인할 지표 {#oab-follow-up}
 
