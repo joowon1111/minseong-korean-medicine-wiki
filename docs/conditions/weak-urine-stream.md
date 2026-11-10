@@ -11,8 +11,9 @@ last_reviewed: 2026-09-06
 
 <span id="_8"></span>
 
-- 소변줄기가 약해요
-- 소변이 늦게 나와요
+- 소변줄기가 가늘어요(세뇨)
+- 소변줄기에 힘이 없어요(약뇨)
+- 뜸을 들여야 소변이 나와요(배뇨지연·지연뇨)
 - 소변 볼 때 오래 걸려요
 - 소변 힘이 약해요
 - 전립선 소변줄기
@@ -41,7 +42,7 @@ last_reviewed: 2026-09-06
 
 [팔정산](../formulas/bazheng-san.md)의 청열통림, [팔미지황환](../formulas/bawei-dihuang-wan.md)의 온양·기화, [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 보기승양은 서로 다른 증후의 배합입니다. [축천환](../formulas/suoquan-wan.md)의 허한·빈뇨 주치를 약한 줄기나 폐색 치료와 동일시하지 않습니다.
 
-침·전침은 배뇨 불편·골반 긴장·통증 등 우선 목표를 정해 한약과 함께 구성합니다. [배뇨 경혈](../acupuncture-integrated/points-for-urinary.md)과 [치료 계획](../pillar/urology-mens-health.md#treatment-plan)에서 평가·기록을 이어갑니다.
+침·전침을 병행할 때는 배뇨 시작까지 걸리는 시간과 힘주기, 줄기 끊김을 치료 전후에 비교합니다. 회음부 불편이 있으면 골반저 긴장도 확인합니다. 요속이 낮거나 잔뇨가 많다면 비뇨의학적 원인 평가와 필요한 재검을 이어갑니다. [배뇨 경혈](../acupuncture-integrated/points-for-urinary.md)과 [치료 계획](../pillar/urology-mens-health.md#treatment-plan)에서 평가·기록을 이어갑니다.
 
 ## 배뇨·골반·전신상태를 함께 보기 {#_6}
 

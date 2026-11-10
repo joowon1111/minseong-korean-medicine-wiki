@@ -54,7 +54,7 @@ last_reviewed: 2026-09-06
 
 ## 일지와 생활 조정 {#diary-care}
 
-며칠간 마신 시간·양과 배뇨 시각·양, 잠든 시각·깬 이유를 기록합니다. 이뇨제 등 복용약의 시간은 임의로 바꾸지 않고 상담합니다. 저녁 카페인·음주와 늦은 시간에 몰아 마시는 습관을 조정하되, 하루 수분량을 무리하게 줄이지 않습니다.
+평소 생활을 하는 날을 골라 3일간 마신 시각과 양, 배뇨 시각과 양, 잠든 시각과 깬 이유를 적습니다. **기상 후 첫 소변은 야간 소변량에 포함하고 야간뇨 횟수에서는 따로 셉니다.** 밤에 한 번에 보는 양이 많으면 야간 소변량이 늘어나는 원인을 살핍니다. 반대로 낮과 밤 모두 조금씩 급하게 본다면 저장 기능을, 줄기까지 약하면 배출 기능을 함께 확인합니다. [유럽비뇨의학회 배뇨일지 지침](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation) 이뇨제 등 복용약의 시간은 임의로 바꾸지 않고 상담합니다. 저녁 카페인·음주와 늦은 시간에 몰아 마시는 습관을 조정하되, 하루 수분량을 무리하게 줄이지 않습니다.
 
 원인 감별과 배뇨 관리는 [NIDDK 방광 조절 문제](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)에서 이어볼 수 있습니다. 밤에 이동할 때 넘어지지 않도록 조명과 동선을 정리하는 것도 도움이 됩니다.
 
@@ -62,7 +62,7 @@ last_reviewed: 2026-09-06
 
 신허·기화 저하의 냉감·허약은 [팔미지황환](../formulas/bawei-dihuang-wan.md), 전반적인 기허·회복 저하는 [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 서로 다른 맥락을 비교합니다. 수습·부종의 양상과 습열·감염은 별도로 확인합니다. 여기서 신허라는 변증과 신장기능 검사 이상은 같은 의미가 아닙니다.
 
-[배뇨 경혈](../acupuncture-integrated/points-for-urinary.md)과 원인별 치료를 연결해 **야간 횟수뿐 아니라 첫 연속 수면시간·재입면·낮 피로**를 비교합니다. 혈뇨·요폐·발열·심한 숨참이 생기면 일지 관찰만 이어가지 말고 진료를 받습니다.
+[침·전침](../acupuncture-integrated/points-for-urinary.md)을 병행할 때는 밤에 깨는 횟수와 처음 깨기까지 연속으로 잔 시간, 다시 잠드는 데 걸리는 시간, 낮 피로를 함께 기록합니다. 코골이와 무호흡, 저녁 부종, 밤 소변량 증가가 두드러지면 해당 원인의 평가와 관리를 병행합니다. 과민성방광 환자의 야간뇨에 대한 침치료 효과는 현재 연구에서 불확실합니다. [코크란 고찰](https://www.cochrane.org/evidence/CD013519_acupuncture-treating-overactive-bladder-adults) 혈뇨·요폐·발열·심한 숨참이 생기면 일지 관찰만 이어가지 말고 진료를 받습니다.
 
 [비뇨·배뇨 허브의 3일 일지](../pillar/urology-mens-health.md#bladder-diary)에서 기록 항목을 확인하고, 야간 소변량·배출·수면의 평가를 함께 준비할 수 있습니다.
 
