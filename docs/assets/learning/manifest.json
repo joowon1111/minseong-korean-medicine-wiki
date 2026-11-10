@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "20261105-03",
+  "version": "20261110-01",
   "subjects": [
     {
       "id": "anatomy",
@@ -34,7 +34,7 @@
       "id": "formulas",
       "title": "방제학",
       "cards": 110,
-      "questions": 512,
+      "questions": 520,
       "file": "formulas.json"
     },
     {
