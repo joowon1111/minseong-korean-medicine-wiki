@@ -69,6 +69,8 @@ last_reviewed: '2026-09-21'
 - [이중탕](lizhong-tang.md) · [소건중탕](xiaojianzhong-tang.md) · [황기건중탕](huangqi-jianzhong-tang.md)
 
 ### 소화·담음·수습 {#_8}
+- [평위산](pingwei-san.md) · [반하사심탕](banxia-xiexin-tang.md) — 습체와 한열착잡의 소화 증후 비교
+- [진무탕](zhenwu-tang.md) · [방기황기탕](fangji-huangqi-tang.md) — 양허수범과 표허·수습의 배합 비교
 - [이진탕](erchen-tang.md) · [정전가미이진탕](jeongjeon-gami-ijin-tang.md) · [궁하탕](gungha-tang.md) · [온담탕](wendan-tang.md) · [육군자탕](liujunzi-tang.md) · [소청룡탕](xiaoqinglong-tang.md) · [오령산](wuling-san.md)
 - [전씨이공산·이공산](jeonssi-igong-san.md) · [삼출건비탕](samchul-geonbi-tang.md) · [자음건비탕](jaeum-geonbi-tang.md)
 - [개울화담전](gaeul-hwadam-jeon.md) · [소식청울탕](sosik-cheongul-tang.md) · [향사양위탕](xiangsha-yangwei-tang.md)
@@ -83,6 +85,8 @@ last_reviewed: '2026-09-21'
 - [분심기음](fenxin-qiyin.md) · [오약순기산](wuyao-shunqi-san.md) — 흉복 비체·수습과 풍사·지체통의 차이를 비교
 
 ### 윤장·변비 {#_10}
+- [대승기탕](dachengqi-tang.md) · [소승기탕](xiaochengqi-tang.md) — 양명부실에서 구성과 사용 맥락 비교
+- [대시호탕](dachaihu-tang.md) · [방풍통성산](fangfeng-tongsheng-san.md) — 소양·양명 병증과 표리의 열을 살피는 처방 비교
 - [제천전](jichuan-jian.md) · [마자인환](mazi-ren-wan.md) · [변비 임상 안내](../conditions/constipation.md)
 
 ### 장관 출혈·치핵과 배변 {#anorectal-formulas}
