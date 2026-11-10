@@ -143,6 +143,7 @@ last_reviewed: 2026-09-21
 잠드는 시간·야간 각성·낮의 활동능력을 나누어 확인합니다. 피로는 지속기간과 감염·수술·입원 이후의 시간관계, 이미 받은 검사와 복용약을 함께 보는 문서로 연결합니다. [수면·정서·신경](../pillar/sleep-neuro.md#sleep-assessment)에서 수면 평가와 치료별 역할을, [보익·피로·회복](../pillar/tonic-recovery.md)에서 섭취·활동·회복 계획을 확인합니다.
 
 - [불면증·수면장애](insomnia.md) · [충분히 자도 개운하지 않을 때](../answer-guides/unclear-head-after-sleep-guide.md)
+- [성인 폐쇄성 수면무호흡증·코골이](obstructive-sleep-apnea.md)
 - [만성피로·번아웃 감별](chronic-fatigue.md#burnout)
 - [우울감·우울증 — 직장인·갱년기·노년기](depression.md)
 - [불안·과도한 걱정](anxiety.md)
