@@ -22024,6 +22024,494 @@
       "category": "보기·기혈·회복",
       "source": "/learning/formulas/#clinical-formulas-40",
       "relatedSource": "/formulas/siwu-tang/"
+    },
+    {
+      "id": "clinical-formulas-41",
+      "cardId": "formula-liujunzi-tang",
+      "difficulty": "high",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "사군자탕과 육군자탕: 담습 조건이 더해지면?",
+      "context": "A는 비기허에 따른 피로와 식욕 저하가 중심이고, B는 여기에 오심과 담습이 두드러진다. 사군자탕의 인삼·백출·복령·감초에 진피·반하를 더한 육군자탕 비교형을 기준으로 한다.",
+      "relatedSource": "/formulas/liujunzi-tang/",
+      "references": [
+        {
+          "url": "/formulas/liujunzi-tang/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "A와 B 모두 사물탕이며 도인·홍화의 유무로 나눈다",
+          "detail": "사물탕은 보혈 계열이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-41"
+        },
+        {
+          "text": "A는 사군자탕, B는 육군자탕으로 연결한다",
+          "detail": "진피·반하가 보기건비 골격에 이기화담을 더한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-41"
+        },
+        {
+          "text": "A는 육군자탕, B는 사군자탕으로 연결한다",
+          "detail": "진피·반하가 추가되는 쪽은 육군자탕이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-41"
+        },
+        {
+          "text": "B는 인삼·백출을 빼고 대황·망초를 더한다",
+          "detail": "인삼·백출은 비교형에 공통으로 유지된다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-41"
+        },
+        {
+          "text": "B는 진피·반하를 빼어 청열사하한다",
+          "detail": "진피·반하는 B에 추가된다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-41"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "비기허에 담습이 더해진 B에서 육군자탕의 이기화담 배합을 비교한다.",
+      "discriminator": "보기 골격 유지와 진피·반하의 추가를 함께 살핀다.",
+      "kind": "clinical",
+      "category": "비위·소화·온중·변비",
+      "source": "/learning/formulas/#clinical-formulas-41"
+    },
+    {
+      "id": "clinical-formulas-42",
+      "cardId": "formula-xiangsha-liujunzi-tang",
+      "difficulty": "high",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "육군자탕에 기체가 두드러지면 어떤 배합을 비교할까?",
+      "context": "육군자탕의 보기·화담 골격을 유지하면서 식후 창만과 기체를 함께 살핀다. 향사육군자탕은 목향·사인을 가한 비교형을 기준으로 한다.",
+      "relatedSource": "/formulas/xiangsha-liujunzi-tang/",
+      "references": [
+        {
+          "url": "/formulas/xiangsha-liujunzi-tang/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "목향·사인을 더해 행기화습을 보탠다",
+          "detail": "육군자탕의 보기화담 골격에 행기화습을 더한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-42"
+        },
+        {
+          "text": "목향·사인을 빼고 통하사열을 강화한다",
+          "detail": "추가 조건과 통하사열의 설명이 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-42"
+        },
+        {
+          "text": "도인·홍화를 더해 보기화담을 중심으로 한다",
+          "detail": "도인·홍화는 활혈거어의 배합이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-42"
+        },
+        {
+          "text": "황련·황금을 더해 보혈을 중심으로 한다",
+          "detail": "황련·황금은 제시한 추가 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-42"
+        },
+        {
+          "text": "반하·진피를 빼고 회양구역으로 전환한다",
+          "detail": "반하·진피는 비교형에 유지된다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiangsha-liujunzi-tang",
+          "source": "/learning/formulas/#clinical-formulas-42"
+        }
+      ],
+      "answer": 0,
+      "nearestWrong": 1,
+      "explanation": "목향·사인을 더한 향사육군자탕은 기체와 습체를 함께 살피는 배합이다.",
+      "discriminator": "추가 약재와 유지되는 여섯 약재를 함께 확인한다.",
+      "kind": "clinical",
+      "category": "비위·소화·온중·변비",
+      "source": "/learning/formulas/#clinical-formulas-42"
+    },
+    {
+      "id": "clinical-formulas-43",
+      "cardId": "formula-dachaihu-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "소양에 리실이 겹치면 시호 처방의 구성이 어떻게 달라질까?",
+      "context": "소시호탕은 시호·황금·반하·인삼·감초·생강·대조, 대시호탕은 시호·황금·반하·작약·지실·대황·생강·대조로 비교한다. 대황을 포함한 대시호탕 수록형이다.",
+      "relatedSource": "/formulas/dachaihu-tang/",
+      "references": [
+        {
+          "url": "/formulas/dachaihu-tang/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "반하·황금을 빼고 인삼을 더해 온양회역한다",
+          "detail": "반하·황금은 두 구성에 공통이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachaihu-tang",
+          "source": "/learning/formulas/#clinical-formulas-43"
+        },
+        {
+          "text": "인삼·감초를 빼고 작약·지실·대황을 더해 화해와 통하를 겸한다",
+          "detail": "소양의 화해축에 리실을 다루는 배합이 더해진다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-dachaihu-tang",
+          "source": "/learning/formulas/#clinical-formulas-43"
+        },
+        {
+          "text": "인삼·감초를 더하고 대황을 빼 기허를 보한다",
+          "detail": "제시된 대시호탕에서는 인삼·감초가 빠진다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachaihu-tang",
+          "source": "/learning/formulas/#clinical-formulas-43"
+        },
+        {
+          "text": "시호를 빼고 망초를 더하여 보혈한다",
+          "detail": "시호는 유지되고 망초는 제시된 구성에 없다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachaihu-tang",
+          "source": "/learning/formulas/#clinical-formulas-43"
+        },
+        {
+          "text": "두 처방의 약재는 같고 제형만 다르다",
+          "detail": "제시된 구성 약재에 차이가 있다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachaihu-tang",
+          "source": "/learning/formulas/#clinical-formulas-43"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 2,
+      "explanation": "대황 포함형에서는 보익약의 제외와 작약·지실·대황의 추가를 함께 비교한다.",
+      "discriminator": "심하 긴장과 리실의 조건, 추가·제외 약미가 분기점이다.",
+      "kind": "clinical",
+      "category": "화해·공하",
+      "source": "/learning/formulas/#clinical-formulas-43"
+    },
+    {
+      "id": "clinical-formulas-44",
+      "cardId": "formula-siwu-tang",
+      "difficulty": "high",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "혈허에 어혈이 겹칠 때 사물탕의 변화를 고르면?",
+      "context": "A는 혈허를 중심으로 사물탕의 보혈 구조를 살피고, B는 같은 골격에 어혈을 함께 다룬다. 도홍사물탕은 사물탕에 도인·홍화를 더한 비교형이다.",
+      "relatedSource": "/formulas/siwu-tang/",
+      "references": [
+        {
+          "url": "/formulas/siwu-tang/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "숙지황·당귀를 빼고 대황·망초를 더한다",
+          "detail": "대황·망초는 제시된 추가 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-44"
+        },
+        {
+          "text": "인삼·백출을 더한 육군자탕으로 바뀐다",
+          "detail": "육군자탕은 사군자탕 계열이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-44"
+        },
+        {
+          "text": "황기·육계를 더한 도홍사물탕으로 바뀐다",
+          "detail": "도홍사물탕의 추가 약재는 도인·홍화다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-44"
+        },
+        {
+          "text": "도인·홍화를 더해 보혈과 활혈거어를 함께 살핀다",
+          "detail": "사물탕 골격을 유지하고 활혈거어 방향을 더한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-44"
+        },
+        {
+          "text": "네 약재를 모두 빼고 청기분열을 중심으로 한다",
+          "detail": "사물탕 골격은 유지된다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-siwu-tang",
+          "source": "/learning/formulas/#clinical-formulas-44"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 2,
+      "explanation": "사물탕에 도인·홍화를 더한 구성에서 보혈과 활혈을 함께 비교한다.",
+      "discriminator": "사물탕 골격의 유지와 도인·홍화의 추가가 핵심이다.",
+      "kind": "clinical",
+      "category": "보기·기혈·회복",
+      "source": "/learning/formulas/#clinical-formulas-44"
+    },
+    {
+      "id": "clinical-formulas-45",
+      "cardId": "formula-bazhen-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "기혈양허에 허한이 더해지면 팔물탕과 어떤 처방을 비교할까?",
+      "context": "팔물탕의 기혈쌍보 구조와 여기에 황기·육계를 더한 십전대보탕의 구조를 비교한다. 약량·포제는 해당 수록본을 따로 살핀다.",
+      "relatedSource": "/formulas/shi-quan-da-bu-tang/",
+      "references": [
+        {
+          "url": "/formulas/shi-quan-da-bu-tang/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "보혈축을 없애고 지실·대황을 더한다",
+          "detail": "제시된 비교에서는 보혈축이 유지된다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-bazhen-tang",
+          "source": "/learning/formulas/#clinical-formulas-45"
+        },
+        {
+          "text": "인삼·백출을 빼고 도인·홍화를 더한다",
+          "detail": "제시된 추가 약재는 황기·육계다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-bazhen-tang",
+          "source": "/learning/formulas/#clinical-formulas-45"
+        },
+        {
+          "text": "황기·육계를 더해 기혈쌍보에 온보 방향을 보탠다",
+          "detail": "기혈을 보하는 골격에 황기·육계가 추가된다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-bazhen-tang",
+          "source": "/learning/formulas/#clinical-formulas-45"
+        },
+        {
+          "text": "두 처방은 반하·진피만으로 구성된다",
+          "detail": "반하·진피 중심 구조와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-bazhen-tang",
+          "source": "/learning/formulas/#clinical-formulas-45"
+        },
+        {
+          "text": "육계 대신 망초를 더해 통하한다",
+          "detail": "망초는 해당 비교의 차이 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-bazhen-tang",
+          "source": "/learning/formulas/#clinical-formulas-45"
+        }
+      ],
+      "answer": 2,
+      "nearestWrong": 1,
+      "explanation": "십전대보탕의 황기·육계와 기혈쌍보 구조를 함께 살핀다.",
+      "discriminator": "기혈쌍보 골격 유지와 황기·육계 추가가 핵심이다.",
+      "kind": "clinical",
+      "category": "보기·기혈·회복",
+      "source": "/learning/formulas/#clinical-formulas-45"
+    },
+    {
+      "id": "clinical-formulas-46",
+      "cardId": "formula-wendan-tang",
+      "difficulty": "high",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "담습에 번조와 오심이 겹칠 때 이진탕과 무엇을 비교할까?",
+      "context": "이진탕의 반하·진피·복령·감초를 중심으로 담습 구조를 살핀다. 온담탕은 죽여·지실을 포함한 수록형을 기준으로 비교한다.",
+      "relatedSource": "/formulas/wendan-tang/",
+      "references": [
+        {
+          "url": "/formulas/wendan-tang/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "반하·진피를 빼고 숙지황·당귀를 더한다",
+          "detail": "보혈약으로 바꾸는 비교가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-wendan-tang",
+          "source": "/learning/formulas/#clinical-formulas-46"
+        },
+        {
+          "text": "담습 골격에 죽여·지실을 포함한 온담탕을 살핀다",
+          "detail": "화담강역에 제번·개울의 방향을 함께 살핀다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-wendan-tang",
+          "source": "/learning/formulas/#clinical-formulas-46"
+        },
+        {
+          "text": "황기·육계를 더한 십전대보탕을 살핀다",
+          "detail": "십전대보탕은 기혈쌍보·온보 구조다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-wendan-tang",
+          "source": "/learning/formulas/#clinical-formulas-46"
+        },
+        {
+          "text": "모든 약재를 대황·망초로 바꾸어 사하한다",
+          "detail": "제시된 비교형의 약재와 다르다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-wendan-tang",
+          "source": "/learning/formulas/#clinical-formulas-46"
+        },
+        {
+          "text": "죽여·지실을 더한 사물탕을 고른다",
+          "detail": "사물탕은 제시된 담습 골격이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-wendan-tang",
+          "source": "/learning/formulas/#clinical-formulas-46"
+        }
+      ],
+      "answer": 1,
+      "nearestWrong": 4,
+      "explanation": "죽여·지실 포함 온담탕 수록형에서 담울과 번조를 살핀다.",
+      "discriminator": "담습의 공통 골격과 죽여·지실의 추가를 확인한다.",
+      "kind": "clinical",
+      "category": "담음·기체·안신",
+      "source": "/learning/formulas/#clinical-formulas-46"
+    },
+    {
+      "id": "clinical-formulas-47",
+      "cardId": "formula-xiaojianzhong-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "복만 뒤 크게 실하고 아픈 조건이 더해지면?",
+      "context": "《상한론》 태음병 조문에서 태양병에 잘못 하법을 쓴 뒤 복만하고 때때로 아픈 A와, 같은 문맥에서 크게 실하고 아픈 B를 비교한다.",
+      "relatedSource": "/learning/shanghanlun/",
+      "references": [
+        {
+          "url": "/learning/shanghanlun/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "A 대승기탕 / B 사물탕",
+          "detail": "해당 조문의 처방 짝이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#clinical-formulas-47"
+        },
+        {
+          "text": "A 계지가대황탕 / B 계지가작약탕",
+          "detail": "두 조건에 대한 처방이 뒤바뀌었다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#clinical-formulas-47"
+        },
+        {
+          "text": "A 소시호탕 / B 육군자탕",
+          "detail": "해당 조문의 처방 짝이 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#clinical-formulas-47"
+        },
+        {
+          "text": "A 계지가작약탕 / B 계지가대황탕",
+          "detail": "복만과 시통, 크게 실하고 아픈 조건에 따라 조문을 구분한다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#clinical-formulas-47"
+        },
+        {
+          "text": "A 십전대보탕 / B 온담탕",
+          "detail": "기혈 보익과 담울 계열의 처방이다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-xiaojianzhong-tang",
+          "source": "/learning/formulas/#clinical-formulas-47"
+        }
+      ],
+      "answer": 3,
+      "nearestWrong": 1,
+      "explanation": "조문에서 A는 계지가작약탕, 크게 실한 B는 계지가대황탕을 연결한다.",
+      "discriminator": "태음병 조문의 복만·시통과 크게 실한 조건을 구분한다.",
+      "kind": "clinical",
+      "category": "비위·소화·온중·변비",
+      "source": "/learning/formulas/#clinical-formulas-47"
+    },
+    {
+      "id": "clinical-formulas-48",
+      "cardId": "formula-dachengqi-tang",
+      "difficulty": "expert",
+      "format": "case",
+      "topic": "conditional-reasoning",
+      "batch": "formula-conditional-20261110",
+      "prompt": "소승기탕과 대승기탕의 망초 유무를 비교하면?",
+      "context": "《상한론》 계열에서 소승기탕의 대황·후박·지실과 대승기탕의 대황·후박·지실·망초를 비교한다. 후박·지실의 약량과 조문 조건도 함께 살핀다.",
+      "relatedSource": "/learning/shanghanlun/",
+      "references": [
+        {
+          "url": "/learning/shanghanlun/",
+          "title": "연결 학습 원문"
+        }
+      ],
+      "options": [
+        {
+          "text": "인삼을 더해 보기건비한다",
+          "detail": "인삼은 제시된 차이 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachengqi-tang",
+          "source": "/learning/formulas/#clinical-formulas-48"
+        },
+        {
+          "text": "도인·홍화를 더해 보혈활혈한다",
+          "detail": "도인·홍화는 해당 승기탕의 차이 약재가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachengqi-tang",
+          "source": "/learning/formulas/#clinical-formulas-48"
+        },
+        {
+          "text": "반하·진피를 더해 보기화담한다",
+          "detail": "반하·진피는 담습 관련 비교에서 살핀다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachengqi-tang",
+          "source": "/learning/formulas/#clinical-formulas-48"
+        },
+        {
+          "text": "계지·작약을 더해 영위를 조화한다",
+          "detail": "계지·작약은 제시된 승기탕 구성의 차이가 아니다.",
+          "owner": "오답 감별",
+          "ownerId": "formula-dachengqi-tang",
+          "source": "/learning/formulas/#clinical-formulas-48"
+        },
+        {
+          "text": "망초가 추가되며 양명부실을 공하하는 구조를 비교한다",
+          "detail": "제시된 구성의 차이 약재는 망초다. 후박·지실의 약량도 다르다.",
+          "owner": "정답 근거",
+          "ownerId": "formula-dachengqi-tang",
+          "source": "/learning/formulas/#clinical-formulas-48"
+        }
+      ],
+      "answer": 4,
+      "nearestWrong": 3,
+      "explanation": "망초의 유무에 더해 후박·지실의 약량과 조문을 확인한다.",
+      "discriminator": "대황·후박·지실을 공유하며 망초 유무와 약량이 다르다.",
+      "kind": "clinical",
+      "category": "화해·공하",
+      "source": "/learning/formulas/#clinical-formulas-48"
     }
   ]
 }

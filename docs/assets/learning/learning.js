@@ -2,7 +2,7 @@
 (function (global) {
   'use strict';
   const KEY = 'minseong-learning-v1';
-  const VERSION = '20261105-03';
+  const VERSION = '20261110-01';
   const SUBJECTS = {anatomy: '기초 해부학', acupoints: '경혈학', acupuncture: '침구학', herbs: '본초학', formulas: '방제학', shanghanlun: '상한론', sasang: '사상의학'};
   // Add a topic subtype here: menu, matching and level handling share this registry.
   // clinical remains the inclusive parent, preserving the existing 660-question pool.

@@ -727,7 +727,7 @@ def main():
     decks = build()
     for subject, deck in decks.items():
         write_bytes(OUT / (subject + '.json'), (json.dumps(deck, ensure_ascii=False, indent=2) + '\n').encode())
-    manifest = {'schema': 1, 'version': '20261105-03', 'subjects': [
+    manifest = {'schema': 1, 'version': '20261110-01', 'subjects': [
         {'id': s, 'title': SUBJECTS[s], 'cards': len(d['cards']), 'questions': len(d['questions']), 'file': s + '.json'}
         for s, d in decks.items()]}
     write_bytes(OUT / 'manifest.json', (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode())
@@ -789,7 +789,7 @@ def main():
         assert len(set(advanced_counts)) == 1
         text = re.sub(r'중 \d+문제·상 \d+문제',
                       f'중 {advanced_counts[0]}문제·상 {advanced_counts[0]}문제', text)
-        text = re.sub(r'총 \*\*\d+문제\*\*',
+        text = re.sub(r'(?<=, )총 \*\*\d+문제\*\*(?=가 있습니다\. 보기는)',
                       f"총 **{sum(q['kind'] == 'advanced' for d in decks.values() for q in d['questions'])}문제**", text)
         clinical = [q for d in decks.values() for q in d['questions'] if q['kind'] == 'clinical']
         clinical_counts = {s: sum(q['kind'] == 'clinical' for q in d['questions']) for s, d in decks.items()}
