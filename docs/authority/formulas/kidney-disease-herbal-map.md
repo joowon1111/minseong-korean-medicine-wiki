@@ -17,6 +17,18 @@ description: "만성콩팥병·당뇨병성 콩팥병의 황기·황촉규 직�
 - Tangshen Formula → 4 RCT·639명, PMID `40589511`
 - 승강산 계열 → 23 RCT·1,682명, PMID `39109075`
 
+## 육미 계열·경옥고·공진단의 근거 비교 {#renal-formula-comparison}
+
+신장질환에서 처방을 선택할 때는 **CKD 환자에서 치료 결과를 평가한 연구**와 건강인·피로 환자에서 검사로 안전성을 평가한 연구를 함께 살핍니다.
+
+| 처방군 | 직접 확인할 근거 | 임상 적용 시 확인할 사항 |
+|---|---|---|
+| [육미지황탕·육미지황환](../../formulas/liu%20wei%20dihuang%20wan.md#rehmannia6-ckd) 기반 처방 | [CKD 환자 대상 무작위시험과 신장·안전성 결과](../../conditions/chronic-kidney-disease.md#rehmannia6-ckd-trial) | 연구의 기본방·가감·과립제와 실제 처방의 일치 정도, 원인질환·신장 단계 |
+| [경옥고](../../formulas/gyeongok-go.md#renal-safety) | 건강인·감염 후 피로 연구의 검사·내약성 자료 | 기력·건조·섭취 등 회복 목표와 신장기능 목표를 구분하고 당류·검사 추세 확인 |
+| [공진단](../../formulas/gongjin-dan.md#renal-safety) | 만성피로 시험의 단기 검사 자료와 개별 신장 이상반응 증례 | 원방·가감방의 실제 구성, 기저 단백뇨와 복용 후 새 부종·소변 변화 확인 |
+
+경옥고·공진단의 신장질환 단계별 치료 효과와 안전성은 직접 임상자료가 더 필요합니다. [처방별 연구 대상·기간·적용 범위](../../conditions/chronic-kidney-disease.md#tonics-renal-safety)에서 확인할 수 있습니다.
+
 ## 황기·황촉규의 직접 임상연구 {#renal-clinical-studies}
 
 ### 황기: 118명·48주 무작위시험 {#astragalus-rct}
