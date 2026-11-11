@@ -63,7 +63,9 @@ last_reviewed: 2026-09-06
 3. 운동 후라면 수분과 땀 손실을 보충하되 전해질을 무조건 과량 복용하지 않습니다.
 4. 통증이 남거나 붓기·열감이 있으면 마사지하지 말고 혈전 가능성을 평가합니다.
 
-예방을 위해 자기 전 종아리 스트레칭, 규칙적인 걷기와 발목 운동을 시행합니다. 무조건 마그네슘 부족으로 단정하지 말고 결핍·임신·신장기능과 복용량을 확인합니다.
+자기 전 종아리 스트레칭을 시도해 보고, 운동량은 경련과 남은 통증에 맞춰 조절합니다.
+
+밤에 종아리 쥐가 반복되면 [야간 다리경련 기록 예](calf-cramp.md#night-cramp-diary)를 참고해 경련이 난 밤의 수, 경련 횟수, 잠에서 깬 횟수를 적습니다.
 
 ## 치료 반응
 
@@ -73,7 +75,7 @@ last_reviewed: 2026-09-06
 
 ### 쥐가 자주 나면 마그네슘을 먹어야 하나요?
 
-모든 야간경련이 마그네슘 부족 때문은 아닙니다. 식사·임신·약물·신장기능을 확인하고 필요할 때 보충합니다.
+반복 경련의 원인을 살피고 보충이 필요한지 판단합니다. 특히 임신 중이거나 신장기능이 저하되어 있으면 검사와 복용약을 함께 확인합니다. 고령자의 야간경련에 관한 위약대조 결과는 [마그네슘 임상근거](calf-cramp.md#calf-evidence)에 정리했습니다.
 
 ### 경련에 침치료가 도움이 되나요?
 
@@ -93,5 +95,5 @@ last_reviewed: 2026-09-06
 
 ## 근거와 참고자료
 
-- Blyton F, et al. Non-drug therapies for lower limb muscle cramps. PMID [22258986](https://pubmed.ncbi.nlm.nih.gov/22258986/).
+- Hawke F, et al. Non-drug therapies for the secondary prevention of lower limb muscle cramps. Cochrane, 2021. PMID [33998664](https://pubmed.ncbi.nlm.nih.gov/33998664/).
 - Allen RE, Kirby KA. Nocturnal Leg Cramps. *Am Fam Physician*. 2012;86:350-355.
