@@ -3,7 +3,8 @@ title: 오적산(五積散)
 tags: [방제학, 오적산, 한습, 기혈담식, 통증, 소화, 방약합편, 상용처방]
 status: 검토완료
 last_reviewed: 2026-10-08
-description: 오적산의 한·습·기·혈·담식 복합 구조와 냉습성 통증·복부불편의 감별, 사람 대상 임상연구와 경과관찰을 연결합니다.
+search_title: "오적산 구성·몸이 차고 아플 때 보는 단서"
+description: "오적산의 구성과 한·습·기·혈·담식의 배합을 정리합니다. 몸이 차면서 허리·근육이 아프거나 속이 불편할 때 살피는 전통 증후와 연구를 설명합니다."
 ---
 # 오적산(五積散)
 
@@ -160,6 +161,7 @@ description: 오적산의 한·습·기·혈·담식 복합 구조와 냉습성 
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [오적산 현대 임상근거 카드](../authority/formulas/ojeok-san.md)
 - [통증·근골격 한약 현대 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md)
 - [통증 한약 처방 지도](../herbal-integrated/formula-for-pain.md)

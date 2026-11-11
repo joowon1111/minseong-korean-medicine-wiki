@@ -1,6 +1,7 @@
 ---
 title: 궁하탕(芎夏湯)
-description: 궁하탕의 축수이음·행기화담 구조와 흉협부 불편·담음의 감별, 이진탕·영계출감탕 등 인접 처방을 연결합니다.
+search_title: "궁하탕 구성·담음·이진탕과 차이"
+description: "궁하탕의 천궁·반하 배합과 수록본별 구성을 정리합니다. 담음에 가슴과 옆구리가 답답한 양상, 이진탕·영계출감탕과의 차이를 살핍니다."
 tags: [방제학, 궁하탕, 담음, 화담, 흉협통, 동의보감, 방약합편, 상용처방]
 status: 검토완료
 last_reviewed: 2026-10-08
@@ -117,6 +118,7 @@ last_reviewed: 2026-10-08
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [담음](../diagnostics/phlegm-fluid.md)
 - [옆구리 통증](../conditions/flank-pain.md)
 - [이진탕](erchen-tang.md)

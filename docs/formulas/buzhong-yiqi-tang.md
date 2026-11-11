@@ -1,6 +1,7 @@
 ---
 title: 보중익기탕(補中益氣湯)
-description: 보중익기탕의 보기승양 배합과 비위론의 감온제열 원문, 비위기허·중기하함 감별, 피로·COPD·치료 후 회복 연구를 연결합니다.
+search_title: "보중익기탕 구성·피로·식욕 저하"
+description: "보중익기탕의 황기·인삼·승마·시호 등 구성과 보기승양을 설명합니다. 피로·식욕 저하를 살피는 변증과 현대 임상연구를 정리합니다."
 tags: [방제학, 보중익기탕, 비위론, 보기, 승양, 피로, 회복, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-06
@@ -191,6 +192,7 @@ last_reviewed: 2026-09-06
 
 ## 관련 핵심 문서 {#_10}
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [보중익기탕 고전 구성·용량](buzhong-yiqi-classic.md)
 - [만성피로](../conditions/chronic-fatigue.md)
 - [보익·피로·회복 허브](../pillar/tonic-recovery.md)

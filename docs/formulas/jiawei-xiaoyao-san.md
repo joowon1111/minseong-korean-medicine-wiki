@@ -1,6 +1,7 @@
 ---
 title: 가미소요산(加味逍遙散)
-description: 가미소요산의 소간해울·양혈건비·청열 구조와 간울혈허·울열 감별, 갱년기 상열·초조·수면 관련 사람 대상 임상연구를 연결합니다.
+search_title: "가미소요산 구성·소요산과 차이"
+description: "가미소요산은 소요산에 목단피와 치자를 더한 처방입니다. 답답함·예민함에 열감이 겹칠 때 살피는 변증과 갱년기 증상 연구를 정리합니다."
 tags: [방제학, 가미소요산, 단치소요산, 간울혈허, 울열, 여성건강, 갱년기, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-06
@@ -109,6 +110,7 @@ last_reviewed: 2026-09-06
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [갱년기](../conditions/menopause.md)
 - [폐경이행기](../conditions/perimenopause.md)
 - [갱년기 한약](../conditions/menopause-herbal.md)

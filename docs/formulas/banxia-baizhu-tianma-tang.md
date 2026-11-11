@@ -1,6 +1,7 @@
 ---
 title: 반하백출천마탕(半夏白朮天麻湯)
-description: 반하백출천마탕의 건비조습·화담식풍 구조와 현훈·두중·오심·소화저하의 감별, 사람 대상 체계적 문헌고찰을 연결합니다.
+search_title: "반하백출천마탕 구성·어지럼과 메스꺼움"
+description: "반하백출천마탕은 어지럼에 머리가 무겁고 메스꺼운 양상을 함께 살피는 처방입니다. 출전별 구성과 반하·백출·천마의 배합, 임상연구를 정리합니다."
 tags: [방제학, 반하백출천마탕, 현훈, 담궐두통, 비허담습, 방약합편, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-21
@@ -124,6 +125,7 @@ last_reviewed: 2026-09-21
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [어지럼증 임상 가이드](../symptom-herbal-guide/neuro-mental/r42-dizziness.md)
 - [두통 임상 가이드](../symptom-herbal-guide/neuro-mental/r51-headache.md)
 - [담음](../diagnostics/phlegm-fluid.md)

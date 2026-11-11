@@ -3,7 +3,8 @@ title: 대시호탕(大柴胡湯)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
 last_reviewed: 2026-09-16
-description: 대시호탕의 구성 약재와 전통 효능, 흉협고만·구토·복부 불편의 주치, 소시호탕과의 차이, 대황 이본과 복용 시 주의점을 설명합니다.
+search_title: "대시호탕 구성·소시호탕과 차이"
+description: "대시호탕의 시호·황금·반하와 지실·작약·대황 배합을 정리합니다. 옆구리와 명치의 답답함에 복부 긴장이나 변비가 겹칠 때 보는 단서를 설명합니다."
 ---
 # 대시호탕(大柴胡湯)
 
@@ -115,6 +116,7 @@ description: 대시호탕의 구성 약재와 전통 효능, 흉협고만·구�
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)

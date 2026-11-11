@@ -1,6 +1,7 @@
 ---
 title: 이진탕(二陳湯)
-description: 이진탕의 조습화담·이기화중 구조와 가래·오심·흉완비민의 감별, 온담탕·육군자탕 등 파생 처방군을 연결합니다.
+search_title: "이진탕 구성·가래·메스꺼움과 담음"
+description: "이진탕의 반하·진피·복령·감초 배합을 중심으로 가래·메스꺼움·더부룩함이 겹치는 담습 증후와 온담탕·육군자탕과의 차이를 설명합니다."
 tags: [방제학, 이진탕, 담음, 화담, 비위, 방약합편, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-06
@@ -144,6 +145,7 @@ last_reviewed: 2026-09-06
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [담음](../diagnostics/phlegm-fluid.md)
 - [기침](../conditions/cough.md)
 - [메스꺼움](../conditions/nausea.md)

@@ -1,6 +1,7 @@
 ---
 title: 소시호탕(小柴胡湯)
-description: 상한론 소시호탕의 소양병 단서, 칠미 배합, 시호계지탕·대시호탕과의 감별 및 사람 대상 연구를 정리합니다.
+search_title: "소시호탕 구성·흉협고만·대시호탕 비교"
+description: "소시호탕의 일곱 약재, 옆구리가 그득하고 답답한 흉협고만과 오한·열감이 번갈아 나타나는 고전 증후를 살핍니다. 대시호탕·시호계지탕과도 비교합니다."
 tags: [방제학, 소시호탕, 상한론, 소양병, 화해제]
 status: 검토완료
 last_reviewed: 2026-09-04
@@ -139,5 +140,5 @@ last_reviewed: 2026-09-04
 
 - [상한론](../classics/shanghanlun.md)
 - [소양병 지식망](../shanghan-network/index.md#shaoyang)
-- [건강보험 한약제제](../herbal-integrated/insurance-herbal.md)
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [일반 방제 임상 지도](../herbal-integrated/general-formulary.md)
