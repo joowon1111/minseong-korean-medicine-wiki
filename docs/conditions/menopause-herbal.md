@@ -49,6 +49,10 @@ last_reviewed: 2026-09-06
 
 *Effects of red ginseng supplementation on menopausal symptoms and cardiovascular risk factors in postmenopausal women: a double-blind randomized controlled trial.* [PMID 22027944](https://pubmed.ncbi.nlm.nih.gov/22027944/) · [DOI 10.1097/gme.0b013e3182325e4b](https://doi.org/10.1097/gme.0b013e3182325e4b)
 
+## 계지복령환과 폐경 후 안면홍조 {#guizhi-fuling-hot-flashes}
+
+폐경 후 안면홍조가 있는 여성 178명을 대상으로 일본 계지복령환 엑스제를 12주간 평가한 시험에서 홍조 점수는 복용군과 위약군 모두 감소했고, 군 간 차이는 뚜렷하지 않았습니다. 안면홍조의 경과를 볼 때는 하루에 몇 번 나타나는지와 밤에 잠을 깨우는지를 함께 기록할 수 있습니다. [시험 제제·결과와 이상반응](../formulas/guizhi-fuling-wan.md#menopausal-hot-flash-trial)
+
 ## 갱년기 관리를 이어가는 방법
 
 치료 전 가장 불편한 증상 두세 가지를 정하고 **낮의 열감·밤에 깨는 횟수·낮 활동의 피로·일상생활 불편**을 같은 방식으로 기록합니다. 연구에 사용된 홍삼과 실제 복용할 제품, 기존 호르몬치료·약·영양제의 구성을 함께 확인합니다.
