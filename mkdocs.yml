@@ -598,6 +598,9 @@ nav:
     - 비위·소화·한열 조화:
       - 삼령백출산: formulas/shenling-baizhu-san.md
       - 평위산: formulas/pingwei-san.md
+      - 향사평위산: formulas/xiangsha-pingwei-san.md
+      - 내소산: formulas/naeso-san.md
+      - 대화중음: formulas/daehwa-jung-eum.md
       - 향사육군자탕: formulas/xiangsha-liujunzi-tang.md
       - 향사양위탕: formulas/xiangsha-yangwei-tang.md
       - 불환금정기산: formulas/buhuanjin-zhengqi-san.md
@@ -639,6 +642,7 @@ nav:
       - 인삼패독산: formulas/renshen-baidu-san.md
       - 향소산: formulas/xiangsu-san.md
       - 시갈해기탕: formulas/chaige-jieji-tang.md
+      - 갈근해기탕: formulas/galgeun-haegi-tang.md
       - 궁소산 · 의학정전: formulas/xiongsu-san.md
       - 구미강활탕: formulas/jiuwei-qianghuo-tang.md
       - 형개연교탕: formulas/jingjie-lianqiao-tang.md
@@ -652,6 +656,9 @@ nav:
       - 정천탕: formulas/dingchuan-tang.md
       - 소자강기탕: formulas/suzi-jiangqi-tang.md
       - 행소산: formulas/xingsu-san.md
+      - 행소탕: formulas/haengso-tang.md
+      - 백출탕: formulas/baekchul-tang.md
+      - 시경반하탕: formulas/sigyeong-banha-tang.md
     - 보기·보혈·기음 회복:
       - 사군자탕 · 보기 기본방: formulas/sijunzi-tang.md
       - 육군자탕 · 보기화담: formulas/liujunzi-tang.md
@@ -666,6 +673,8 @@ nav:
       - 익기보혈탕 · 비위·기혈회복: formulas/ikgi-bohyeol-tang.md
       - 귀비탕 · 심비양허: formulas/guibi-tang.md
       - 보중익기탕 · 보기승양: formulas/buzhong-yiqi-tang.md
+      - 익위승양탕: formulas/ikwi-seungyang-tang.md
+      - 복령보심탕: formulas/bokryeong-bosim-tang.md
       - 인삼황기탕 · 보기건비: formulas/renshen-huangqi-tang.md
       - 생맥산 · 기음회복: formulas/shengmai-san.md
       - 자감초탕 · 기혈음·복맥: formulas/zhigancao-tang.md
@@ -693,12 +702,16 @@ nav:
       - 실비음: formulas/shipi-yin.md
       - 방기황기탕: formulas/fangji-huangqi-tang.md
       - 팔정산: formulas/bazheng-san.md
+      - 오림산: formulas/orim-san.md
+      - 인진호탕: formulas/injin-ho-tang.md
     - 변비·공하:
       - 제천전: formulas/jichuan-jian.md
       - 마자인환: formulas/mazi-ren-wan.md
       - 대시호탕: formulas/dachaihu-tang.md
       - 소승기탕: formulas/xiaochengqi-tang.md
       - 대승기탕: formulas/dachengqi-tang.md
+      - 조위승기탕: formulas/tiaowei-chengqi-tang.md
+      - 대황목단피탕: formulas/dahuang-mudanpi-tang.md
     - 두통·두면·근골격 통증:
       - 청상견통탕: formulas/qingshang-juantong-tang.md
       - 두통·어지럼 처방 비교: herbal-integrated/formula-for-headache.md
@@ -718,6 +731,9 @@ nav:
     - 청열·피부·풍열:
       - 해독·청열해독 안내: herbal-integrated/detoxification.md
       - 황련해독탕: formulas/huanglian-jiedu-tang.md
+      - 삼황사심탕: formulas/samhwang-sasim-tang.md
+      - 시호청간탕: formulas/siho-cheonggan-tang.md
+      - 회춘양격산: formulas/hoechun-yanggyeok-san.md
       - 갈근금련탕: formulas/gegen-qinlian-tang.md
       - 용담사간탕: formulas/longdan-xiegan-tang.md
       - 백호탕: formulas/baihu-tang.md
@@ -741,6 +757,7 @@ nav:
       - 청경사물탕: formulas/qingjing-siwu-tang.md
       - 완대탕: formulas/wandai-tang.md
       - 교애탕: formulas/jiaoai-tang.md
+      - 보허탕: formulas/boheo-tang.md
       - 달생산 · 임신 말기 고전처방: formulas/dalsaeng-san.md
       - 불수산 · 산과·산후 고전처방: formulas/bulsu-san.md
       - 단녹용탕 · 고전 산과처방: formulas/dan-nokyong-tang.md

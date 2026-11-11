@@ -116,6 +116,8 @@ last_reviewed: 2026-09-18
 
 ### 시경반하탕: 흉협부와 담열·기침을 함께 평가 {#sigyeong-banha}
 
+[시경반하탕 상세](../formulas/sigyeong-banha-tang.md)에서 약재 배합과 소시호탕·궁하탕과의 차이를 확인할 수 있습니다.
+
 시경반하탕(柴梗半夏湯)은 시호·황금에 과루인·반하·길경·지각·청피·행인·감초와 생강을 배합하는 수록형을 비교합니다. 시호·황금의 소양·열 조절, 반하·과루인·길경의 담과 흉격, 청피·지각의 기체, 행인의 강기를 함께 읽습니다. 과루인은 씨이며, 뿌리인 괄루근·천화분과 구분합니다. [《방약합편》 기록](https://health.kr/researchInfo/herbalMedicine3_detail.asp?idx=273) · [한국전통지식포탈 수록형](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0001859&tempLang=ko)
 
 [궁하탕](../formulas/gungha-tang.md)은 담음·기체와 소화 증상, 시경반하탕은 담열·흉협부 불편과 기침의 조합을 중심으로 비교합니다. 소시호탕·길경지각탕과 공통 약미가 있다는 설명은 배합 해석이며, 실제 두 처방을 원방량 그대로 합한 것으로 적지 않습니다. 급성 흉통·호흡곤란·식은땀, 발열과 호흡 시 통증은 심폐 원인을 우선 평가합니다. [옆구리 통증 감별](../conditions/flank-pain.md)
