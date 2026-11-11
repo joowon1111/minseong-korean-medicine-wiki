@@ -162,7 +162,7 @@ last_reviewed: 2026-10-07
 |---|---|---|
 | 팔정산·저령탕 | 팔정산의 청열통림과 저령탕의 수열·진액 손상 맥락을 구분 | [팔정산](../formulas/bazheng-san.md) · [저령탕](../formulas/zhuling-tang.md) |
 | 축천환 | 《의방고》의 허한·빈뇨·유뇨; 오약·익지인 등분과 산약호 제환 | [축천환의 수록형·처방 비교](../formulas/suoquan-wan.md#source-components) |
-| 육미·팔미지황환 | 육미의 자음과 팔미의 온양·기화 조절을 냉열·갈증과 비교 | [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) · [팔미지황환](../formulas/bawei-dihuang-wan.md) |
+| 육미·팔미지황환 | 육미의 자음과 팔미의 온양·기화 조절을 냉열·갈증과 비교 | [육미지황환](../formulas/liuwei-dihuang-wan.md) · [팔미지황환](../formulas/bawei-dihuang-wan.md) |
 | 보중익기탕 | 기력·식욕·활동 뒤 변화와 보기승양의 맥락 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) |
 | 소간이기·활혈 처방군 | 긴장·팽만과 고정통 등 서로 다른 단서를 종합 | [골반통 변증·치료](../conditions/chronic-prostatitis.md) |
 | 오자연종환·좌귀환·우귀환 | 남성 생식 건강에서 보신익정·자음·온양의 배합을 비교 | [오자연종환](../formulas/wuzi-yanzong-wan.md) · [좌귀환](../formulas/zuogui-wan.md) · [우귀환](../formulas/yougui-wan.md) |

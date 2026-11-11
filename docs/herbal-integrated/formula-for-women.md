@@ -54,7 +54,7 @@ flowchart TD
 | 간울·혈허·비허: 주기성 팽만·유방창통·피로·식욕저하 | 소간양혈·건비 | [소요산](../formulas/xiaoyao-san.md); 열감·번조가 더하면 [가미소요산](../formulas/jiawei-xiaoyao-san.md), 종자문의 간울 맥락은 [개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) |
 | 혈허·기체·하초 한이 복합된 조경 맥락 | 조경양혈·이기 | [조경종옥탕](../formulas/tiaojing-zhongyu-tang.md); 난임의 보편 고정 처방 아님 |
 | 기혈양허·신허·충임부족의 복합 | 익기양혈·보신조경 | [육린주](../formulas/yulin-zhu.md); 조경종옥탕과 본초·병기 차이를 비교 |
-| 신음허·건조·허열, 홍설·세삭맥 | 자음보신 | [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md)·[좌귀환](../formulas/zuogui-wan.md); 수습·소화 허약과 구분 |
+| 신음허·건조·허열, 홍설·세삭맥 | 자음보신 | [육미지황환](../formulas/liuwei-dihuang-wan.md)·[좌귀환](../formulas/zuogui-wan.md); 수습·소화 허약과 구분 |
 | 신양허·냉감·요슬산연·야간뇨, 담반설·침약맥 | 온보신양 | [팔미지황환](../formulas/bawei-dihuang-wan.md)·[우귀환](../formulas/yougui-wan.md); 부자 등 성분·제제 안전성 확인 |
 | 기허·중기 부족, 피로·무력·소화저하 | 보기·건비·승양 | [보중익기탕](../formulas/buzhong-yiqi-tang.md); 모든 피로·난임을 승양으로 치료하지 않음 |
 | 담습·기체: 몸 무거움·백대·주기 지연·니태 | 조습화담·이기조경 | [이진탕](../formulas/erchen-tang.md) 기본 구조, [창부도담탕](../formulas/cangfu-daotan-tang.md); 비허가 주면 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)과 비교 |

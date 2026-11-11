@@ -312,6 +312,12 @@ def build():
     groups = expand_catalog(cards, by_url)
     from urllib.parse import unquote
     id_aliases = {'document-formulas-'+unquote(c['source'].strip('/').split('/')[-1]): c['id'] for c in cards if c['kind']=='formula' and c['source'].startswith('/formulas/') and '%' in c['source']}
+    # Preserve shared comparison links from before the Liuwei URL cleanup.
+    liuwei = next((c for c in cards if c['source'] == '/formulas/liuwei-dihuang-wan/'), None)
+    if liuwei:
+        for legacy in ('document-formulas-liu wei dihuang wan',
+                       'document-formulas-liu%20wei%20dihuang%20wan'):
+            id_aliases[legacy] = liuwei['id']
     return {'schema': 1, 'cards': cards, 'groups': groups, 'idAliases': id_aliases}, {'schema': 1, 'passages': passages}
 
 def main():

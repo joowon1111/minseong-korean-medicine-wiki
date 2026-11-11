@@ -23,6 +23,15 @@ class StudentLearning(unittest.TestCase):
             self.assertEqual(summary['questions'], len(deck['questions']))
         self.assertEqual(self.decks, study.build())
 
+    def test_liuwei_url_cleanup_keeps_existing_learning_identity(self):
+        deck = self.decks['formulas']
+        card = next(c for c in deck['cards'] if c['id'] == 'formula-liu-wei-dihuang-wan')
+        self.assertEqual(card['source'], '/formulas/liuwei-dihuang-wan/')
+        for question in deck['questions']:
+            if question['cardId'] == card['id']:
+                source = question.get('relatedSource', question['source'])
+                self.assertEqual(source, card['source'])
+
     def test_every_source_and_diagram_exists(self):
         for deck in self.decks.values():
             records = deck['cards'] + deck['questions']

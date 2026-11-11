@@ -49,7 +49,7 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 
 | 처방 | 구조를 읽는 핵심 | 수치·법제 확인점 | 대조 출전·원문 |
 |---|---|---|---|
-| [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) | 삼보삼사의 신음 보익 구조 | 숙지황 가공, 산수유 과육·산약 규격 확인 | [소아약증직결](../formulas/liu%20wei%20dihuang%20wan.md#source-dose-original) |
+| [육미지황환](../formulas/liuwei-dihuang-wan.md) | 삼보삼사의 신음 보익 구조 | 숙지황 가공, 산수유 과육·산약 규격 확인 | [소아약증직결](../formulas/liuwei-dihuang-wan.md#source-dose-original) |
 | [팔미지황환](../formulas/bawei-dihuang-wan.md) | 육미지황환 + 계지·부자의 온양 | 계지·육계 계통과 법제 부자의 안전관리 | [금궤요략방론](../formulas/bawei-dihuang-wan.md#source-dose-original) |
 | [좌귀환](../formulas/zuogui-wan.md) | 진음·정혈을 보하는 환제 | 숙지황·구기자·녹각교의 규격과 용화·환제 확인 | [경악전서](../formulas/zuogui-wan.md#source-dose-original) |
 | [우귀환](../formulas/yougui-wan.md) | 신양·정혈을 함께 보함 | 법제 부자, 육계와 녹각교의 실제 구성 확인 | [경악전서](../formulas/yougui-wan.md#source-dose-original) |
@@ -263,7 +263,7 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 |---|---|---|
 | 음허화왕·허열 | [자음강화탕](../formulas/ziyin-jianghuo-tang.md) | [만병회춘](../formulas/ziyin-jianghuo-tang.md#source-dose-original) |
 | 기음부족 + 심화·소변 문제 | [청심연자음](../formulas/qingxin-lianzi-yin.md) | [국방 주치·방약합편 약량](../formulas/qingxin-lianzi-yin.md#source-dose-original) |
-| 신음허 | [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) | [소아약증직결](../formulas/liu%20wei%20dihuang%20wan.md#source-dose-original) |
+| 신음허 | [육미지황환](../formulas/liuwei-dihuang-wan.md) | [소아약증직결](../formulas/liuwei-dihuang-wan.md#source-dose-original) |
 | 신양허 | [팔미지황환](../formulas/bawei-dihuang-wan.md) | [금궤요략방론](../formulas/bawei-dihuang-wan.md#source-dose-original) |
 | 신음·정혈부족 | [좌귀환](../formulas/zuogui-wan.md) | [경악전서](../formulas/zuogui-wan.md#source-dose-original) |
 | 신양허 + 정혈부족 | [우귀환](../formulas/yougui-wan.md) | [경악전서](../formulas/yougui-wan.md#source-dose-original) |

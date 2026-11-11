@@ -71,8 +71,10 @@ class ArchiveToolsTests(unittest.TestCase):
         self.assertIn('/sasang-formula-cards/dokhwaljihwang-tang/',sources)
         self.assertIn('/classics/shanghanlun/clauses/jueyin/#clause-338',sources)
         self.assertIn('/formula-architecture/shanghan-family/#waidai-fuling-yin',sources)
-        self.assertIn('/formulas/liu%20wei%20dihuang%20wan/',sources)
+        self.assertIn('/formulas/liuwei-dihuang-wan/',sources)
         self.assertIn(compare['idAliases']['document-formulas-liu wei dihuang wan'],ids)
+        self.assertEqual(compare['idAliases']['document-formulas-liu%20wei%20dihuang%20wan'],
+                         compare['idAliases']['document-formulas-liu wei dihuang wan'])
         self.assertFalse(any(c['category']=='처방 계열 비교' for c in cards))
 
     def test_annotated_primary_recipe_does_not_take_an_appended_formulas_dose(self):

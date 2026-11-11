@@ -25,7 +25,7 @@ last_reviewed: '2026-10-07'
 
 - **기음양허·진액손상:** [생맥산](../../formulas/shengmai-san.md)
 - **폐위음허·기침:** [맥문동탕](../../formulas/maidong-tang.md)
-- **신음허·정혈부족:** [육미지황환](../../formulas/liu%20wei%20dihuang%20wan.md) · [좌귀환](../../formulas/zuogui-wan.md)
+- **신음허·정혈부족:** [육미지황환](../../formulas/liuwei-dihuang-wan.md) · [좌귀환](../../formulas/zuogui-wan.md)
 - **심음혈허·안신:** [천왕보심단](../../formulas/tianwang-buxin-dan.md)
 - **폐신의 음정 보익:** [경옥고](../../formulas/gyeongok-go.md)
 

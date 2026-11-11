@@ -55,6 +55,7 @@ plugins:
 - meta
 - redirects:
     redirect_maps:
+      formulas/liu wei dihuang wan.md: formulas/liuwei-dihuang-wan.md
       network/formula-acupoint-combinations.md: network/acupuncture-clinical-map.md#combined-care
       network/acupoint-combinations.md: network/acupuncture-clinical-map.md#_4
       network/condition-expansion-map.md: network/condition-to-treatment-map.md
@@ -676,7 +677,7 @@ nav:
     - 보음·보양·간신:
       - 자음강화탕: formulas/ziyin-jianghuo-tang.md
       - 청심연자음: formulas/qingxin-lianzi-yin.md
-      - 육미지황환: formulas/liu wei dihuang wan.md
+      - 육미지황환: formulas/liuwei-dihuang-wan.md
       - 팔미지황환: formulas/bawei-dihuang-wan.md
       - 좌귀환: formulas/zuogui-wan.md
       - 우귀환: formulas/yougui-wan.md
