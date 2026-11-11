@@ -37,6 +37,17 @@ test('the complete current archive ranks the three pain guides first for their a
         assert.equal(new Set(resultUrls(b)).size, resultUrls(b).length, query);
       }
     }
+    // Exercise generated URLs through validDoc as well as ranking: the main
+    // Liuwei page has spaces in its longstanding filename.
+    for (const [url, queries] of [
+      ['/formulas/liu%20wei%20dihuang%20wan/', ['육미지황환', '육미지황탕', '육미 지황탕', '육미']],
+      ['/formulas/bawei-dihuang-wan/', ['팔미지황환', '팔미지황탕', '팔미 지황탕', '팔미', '팔미지화탕']],
+    ]) {
+      for (const query of queries) {
+        await b.enter(query);
+        assert.equal(resultUrls(b)[0], url, query);
+      }
+    }
     // A broad symptom hub must not replace the intent of a named disease.
     for (const [query, url] of [['오십견', '/conditions/frozen-shoulder/'],
       ['허리디스크', '/conditions/lumbar-disc-herniation/'],
