@@ -1,6 +1,7 @@
 ---
 title: 청상견통탕(淸上蠲痛湯)
-description: 청상견통탕의 원전·배합과 두통·안면통·경항통 감별, 오수유탕·조등산 등 두통 처방 비교와 사람 대상 임상연구를 연결합니다.
+search_title: "청상견통탕 구성·두통·목덜미 통증"
+description: "청상견통탕의 원전과 약재 배합, 머리·얼굴·목덜미 통증의 양상을 살핍니다. 오수유탕·조등산과의 차이와 사람 대상 연구를 정리합니다."
 tags: [방제학, 청상견통탕, 두통, 긴장형두통, 편두통, 방약합편, 상용처방]
 status: 검토완료
 last_reviewed: 2026-10-08
@@ -184,6 +185,7 @@ Seo 등의 논문은 반하백출천마탕과 청상견통탕의 편두통 연�
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [두통 임상 가이드](../symptom-herbal-guide/neuro-mental/r51-headache.md)
 - [긴장형두통](../conditions/tension-headache.md)
 - [편두통](../conditions/migraine.md)

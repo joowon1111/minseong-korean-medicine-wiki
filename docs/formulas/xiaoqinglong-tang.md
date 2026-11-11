@@ -1,6 +1,7 @@
 ---
 title: 소청룡탕(小青龍湯)
-description: 소청룡탕의 해표산한·온폐화음 구조와 맑은 콧물·재채기·기침·수음의 감별, 알레르기비염 사람 대상 임상근거를 연결합니다.
+search_title: "소청룡탕 구성·맑은 콧물·비염 연구"
+description: "소청룡탕의 여덟 약재와 맑은 콧물·재채기·묽은 가래를 살피는 변증을 정리합니다. 알레르기비염 임상연구와 마황 복용 주의도 확인할 수 있습니다."
 tags: [방제학, 소청룡탕, 상한론, 외한내음, 알레르기비염, 기침, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-06
@@ -153,6 +154,7 @@ last_reviewed: 2026-09-06
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [소청룡탕 원문 조문](../classics/shanghanlun/xiaoqinglong.md)
 - [알레르기비염](../conditions/rhinitis.md#allergic-rhinitis)
 - [호흡·비염·면역 허브](../pillar/respiratory-rhinitis-immune.md)

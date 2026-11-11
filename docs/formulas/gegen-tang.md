@@ -1,6 +1,7 @@
 ---
 title: 갈근탕(葛根湯)
-description: 갈근탕의 발한해표·승진서근 구조와 항배강·무한·오풍의 감별, 초기 감기 사람 대상 임상연구와 안전성을 연결합니다.
+search_title: "갈근탕 구성·감기 몸살·복용 주의"
+description: "갈근탕의 일곱 약재, 오한·몸살과 함께 목덜미가 뻣뻣할 때 살피는 단서, 계지가갈근탕과의 차이와 마황 복용 주의를 정리합니다."
 tags: [방제학, 갈근탕, 상한론, 해표제, 항배강, 감기, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-04
@@ -148,6 +149,7 @@ HPLC는 성분의 분리·정량 방법이며, 지표성분의 검출 자체가 
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [감기](../conditions/common-cold.md)
 - [목통증](../conditions/neck-pain.md)
 - [긴장성두통](../conditions/tension-headache.md)

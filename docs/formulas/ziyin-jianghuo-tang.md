@@ -3,7 +3,8 @@ title: 자음강화탕(滋陰降火湯)
 tags: [방제학, 음허화왕, 허열, 마른기침, 방약합편]
 status: 검토완료
 last_reviewed: 2026-09-06
-description: 자음강화탕의 자음양혈·강허화 구조, 음허성 마른기침과 야간열감의 감별, 구성과 안전 확인점을 정리합니다.
+search_title: "자음강화탕 구성·마른기침과 야간 열감"
+description: "자음강화탕의 자음·양혈 배합과 마른기침·야간 열감이 겹치는 전통 증후를 설명합니다. 수록 구성과 복용 시 확인할 사항을 정리합니다."
 ---
 # 자음강화탕(滋陰降火湯)
 
@@ -174,3 +175,5 @@ Lee와 Kim의 2017년 연구는 5개월령·19개월령 수컷 C57BL/6 생쥐에
 ## 눈·구강 증상과 이어서 보기 {#eye-oral-care-links}
 
 음허·허열과 건조를 함께 볼 때 [안구건조증](../conditions/dry-eye.md)·[입마름](../conditions/dry-mouth.md)·[구강작열감·설통](../conditions/tongue-burning.md)의 원인 평가를 먼저 연결합니다. 이 연결은 전통적 병증 비교이며 각 질환에 대한 임상 효과의 확정 목록은 아닙니다.
+
+[보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)

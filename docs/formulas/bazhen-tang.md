@@ -1,6 +1,7 @@
 ---
 title: 팔물탕(八物湯)
-description: 팔물탕의 구성 약재와 전통 효능, 기혈이 부족할 때 살피는 피로·식욕 저하, 사군자탕·사물탕·십전대보탕과의 차이를 설명합니다.
+search_title: "팔물탕 구성·기혈허·십전대보탕 비교"
+description: "팔물탕은 사군자탕과 사물탕을 합친 여덟 약재의 처방입니다. 피로와 식욕 저하를 살피는 기혈허 변증, 십전대보탕과의 차이를 설명합니다."
 tags: [방제학, 팔물탕, 기혈쌍보, 보익]
 status: 검토완료
 last_reviewed: 2026-09-16
@@ -150,6 +151,7 @@ last_reviewed: 2026-09-16
 
 ## 관련 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [산후보약에서 팔물탕과 다른 처방 비교](../conditions/postpartum-herbal.md#formula-selection)
 - [보익·피로·회복 한의학 허브](../pillar/tonic-recovery.md)
 - [보기·기혈쌍보 처방 계보](../network/tonic-formula-compare.md#formula-structure)

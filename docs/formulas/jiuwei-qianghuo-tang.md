@@ -1,6 +1,7 @@
 ---
 title: 구미강활탕(九味羌活湯)
-description: 구미강활탕의 발한거습·겸청리열 구조와 오한·무한·두통·전신 관절통의 감별, 구성과 안전성을 정리합니다.
+search_title: "구미강활탕 구성·오한과 전신통"
+description: "구미강활탕의 아홉 약재와 강활·방풍의 역할을 살핍니다. 오한·두통·전신통이 겹치는 풍한습 증후와 갈근탕과의 차이를 설명합니다."
 tags: [방제학, 구미강활탕, 감기, 몸살, 관절통, 풍한습, 해표, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-04
@@ -91,6 +92,7 @@ last_reviewed: 2026-09-04
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [감기](../conditions/common-cold.md)
 - [추운 날 몸살·통증](../conditions/cold-weather-body-ache.md)
 - [감기·기침 처방 찾기](../herbal-integrated/formula-for-cold-cough.md)

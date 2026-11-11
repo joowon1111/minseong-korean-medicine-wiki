@@ -1,6 +1,7 @@
 ---
 title: 형개연교탕(荊芥連翹湯)
-description: 형개연교탕의 소풍청열·해독·화혈 구조와 코·부비동·귀·피부의 풍열·울열 감별, 만성 비부비동염 사람 대상 연구를 연결합니다.
+search_title: "형개연교탕 구성·비염과 부비동염 연구"
+description: "형개연교탕의 출전별 구성과 코막힘·분비물·인후 증상을 살피는 전통 변증, 만성 비부비동염 연구와 복용 시 확인할 사항을 정리합니다."
 tags: [방제학, 형개연교탕, 풍열, 이비인후, 비부비동염, 피부, 방약합편, 상용처방]
 status: 검토완료
 last_reviewed: 2026-10-08
@@ -127,6 +128,7 @@ last_reviewed: 2026-10-08
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [비부비동염](../conditions/sinusitis.md)
 - [비염](../conditions/rhinitis.md)
 - [알레르기비염](../conditions/rhinitis.md#allergic-rhinitis)

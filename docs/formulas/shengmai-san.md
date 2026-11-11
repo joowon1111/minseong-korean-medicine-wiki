@@ -1,6 +1,7 @@
 ---
 title: 생맥산(生脈散)
-description: 생맥산의 인삼·맥문동·오미자 배합, 일보일청일렴과 생맥 명칭, 출전별 제형과 기음 소모·회복의 관계를 설명합니다.
+search_title: "생맥산 구성·인삼·맥문동·오미자"
+description: "생맥산의 인삼·맥문동·오미자 세 약재와 기음 소모를 살피는 단서를 설명합니다. 고전 수록본과 제형, 발한·회복 맥락을 정리합니다."
 tags: [방제학, 생맥산, 기음양허, 익기생진]
 status: 검토완료
 last_reviewed: 2026-10-08
@@ -146,6 +147,7 @@ last_reviewed: 2026-10-08
 
 ## 관련 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [보익·피로·회복 한의학 허브](../pillar/tonic-recovery.md)
 - [보익·회복 한약 핵심](../herbal-integrated/tonic-recovery.md)
 - [생맥산 현대 임상근거](../research/formulas/shengmai-san.md)

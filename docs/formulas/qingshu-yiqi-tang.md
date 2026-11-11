@@ -3,7 +3,8 @@ title: 청서익기탕(淸暑益氣湯)
 tags: [방제학, 일반방제, 핵심처방]
 status: 검토완료
 last_reviewed: 2026-10-08
-description: 이고의 청서익기탕 15미 구성과 청서익기·양음생진·건비제습 구조, 생맥산·보중익기탕과의 감별 및 여름철 피로 경과 관찰을 정리합니다.
+search_title: "청서익기탕 구성·더위와 기력 저하"
+description: "청서익기탕은 더위에 지치고 땀이 나며 식욕이 떨어질 때 살피는 처방입니다. 동명 처방의 출전과 약재 배합을 비교합니다."
 ---
 # 청서익기탕(淸暑益氣湯) {#_1}
 
@@ -88,6 +89,7 @@ description: 이고의 청서익기탕 15미 구성과 청서익기·양음생�
 
 ## 관련 핵심 문서 {#_6}
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)

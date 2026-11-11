@@ -1,6 +1,7 @@
 ---
 title: 인삼패독산(人參敗毒散)
-description: 태평혜민화제국방 인삼패독산의 원문·10미 등분 구성, 생강·박하 전탕법, 몸살과 기침의 감별 및 삼소음·구미강활탕과의 차이를 설명합니다.
+search_title: "인삼패독산 구성·감기 몸살·삼소음 비교"
+description: "인삼패독산의 열 가지 약재와 몸살·오한·기침을 살피는 단서를 정리합니다. 삼소음·구미강활탕과 약재와 전통 증후를 비교합니다."
 tags: [방제학, 인삼패독산, 감기, 몸살, 풍한습, 기허]
 ---
 # 인삼패독산(人參敗毒散)
@@ -72,3 +73,5 @@ tags: [방제학, 인삼패독산, 감기, 몸살, 풍한습, 기허]
 - [감기·급성 상기도감염](../conditions/common-cold.md)
 - [감기·기침 처방 찾기](../herbal-integrated/formula-for-cold-cough.md)
 - [원전: 태평혜민화제국방 인삼패독산](https://jicheng.tw/tcm/book/太平惠民和劑局方/index.html)
+
+[보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)

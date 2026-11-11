@@ -1,6 +1,7 @@
 ---
 title: 삼소음(蔘蘇飮)
-description: 삼소음의 익기해표·이기화담 구조와 허약한 사람의 감기·기침·가래 감별, 국내 다기관 위약대조 임상시험을 연결합니다.
+search_title: "삼소음 구성·감기와 기침 연구"
+description: "삼소음의 인삼·자소엽 배합과 기력이 떨어진 상태에서 감기·기침·가래가 겹치는 양상을 설명합니다. 갈근탕과의 차이와 국내 임상시험을 정리합니다."
 tags: [방제학, 삼소음, 인삼패독산, 감기, 기침, 기허외감, 상용처방]
 status: 검토완료
 last_reviewed: 2026-09-04
@@ -120,6 +121,7 @@ last_reviewed: 2026-09-04
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [감기](../conditions/common-cold.md)
 - [기침](../conditions/cough.md)
 - [기침·감기 방제 찾기](../herbal-integrated/formula-for-cold-cough.md)

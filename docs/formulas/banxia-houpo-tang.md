@@ -3,7 +3,8 @@ title: 반하후박탕(半夏厚朴湯)
 tags: [방제학, 기체, 담음, 매핵기, 인후이물감]
 status: 검토완료
 last_reviewed: 2026-09-06
-description: 반하후박탕의 구성 약재와 전통 효능, 목 이물감·매핵기와 가슴 답답함의 감별, 임상연구와 복용 시 주의점을 정리합니다.
+search_title: "반하후박탕 구성·목 이물감·매핵기"
+description: "반하후박탕의 다섯 약재와 목에 뭔가 걸린 듯한 매핵기의 특징을 정리합니다. 삼킴곤란과 구분할 단서, 임상연구와 복용 주의를 살핍니다."
 ---
 # 반하후박탕(半夏厚朴湯) {#_1}
 
@@ -143,6 +144,7 @@ Kawago 등은 2019년 *Annals of Thoracic and Cardiovascular Surgery*에 일본 
 
 ## 관련 문서 {#_12}
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [목이물감·매핵기](../conditions/globus.md)
 - [기능성소화불량](../conditions/functional-dyspepsia.md)
 - [방제 찾기](../herbal-integrated/formulas.md)

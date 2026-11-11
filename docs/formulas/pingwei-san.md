@@ -3,7 +3,8 @@ title: 평위산(平胃散)
 tags: [방제학, 일반방제, 비위, 화습, 방약합편]
 status: 검토완료
 last_reviewed: 2026-09-17
-description: 평위산의 구성 약재와 전통 효능, 식후 더부룩함·식욕 저하를 살피는 습체, 육군자탕·이진탕과의 차이 및 연구를 정리합니다.
+search_title: "평위산 구성·식후 더부룩함·보험 적용"
+description: "평위산의 창출·후박·진피·감초 배합과 식후 더부룩함을 살피는 습체 증후를 설명합니다. 반하사심탕과의 차이, 향사평위산의 배합과 보험 적용 확인 방법도 정리합니다."
 ---
 # 평위산(平胃散)
 
@@ -140,6 +141,8 @@ description: 평위산의 구성 약재와 전통 효능, 식후 더부룩함·�
 
 산사·신곡·맥아가 직접 포함된 [정전가미이진탕](jeongjeon-gami-ijin-tang.md#digestive-comparison)과는 **행기·화습을 넓히는 구성인지, 소식약과 화담약을 함께 두는 구성인지**로 비교합니다. [삼출건비탕](samchul-geonbi-tang.md)은 인삼·백출·복령의 보기건비가 바탕이고, [향사양위탕](xiangsha-yangwei-tang.md#same-name-versions)은 출전별 약미가 달라 이름만으로 같은 처방으로 취급하지 않습니다.
 
+보건복지부 고시 제2026-229호의 기준처방은 《방약합편》 수록형을 바탕으로 생강을 포함한 10가지 약재를 제시합니다. 실제 급여 적용은 제품과 제형을 확인합니다. [건강보험 한약제제 목록](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
+
 기능성소화불량에서는 식후포만·오심·트림과 평소 기력·대변을 함께 평가합니다. 원전의 식상 주치는 현재의 원인 감별·증상 기록과 연결해 읽고, 평위산과 향사평위산의 완성 제제 연구는 구분합니다. [기능성소화불량의 처방 비교](../conditions/functional-dyspepsia.md#damp-phlegm-deficiency-formulas)
 
 ## 평위산의 성분과 함께 달이는 배합 {#chemical-profile}
@@ -169,6 +172,7 @@ description: 평위산의 구성 약재와 전통 효능, 식후 더부룩함·�
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)

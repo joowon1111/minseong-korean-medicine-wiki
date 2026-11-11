@@ -3,7 +3,8 @@ title: 불환금정기산(不換金正氣散)
 tags: [방제학, 일반방제, 임상처방]
 status: 검토완료
 last_reviewed: 2026-10-08
-description: 불환금정기산의 화습이기·해표화중 구조, 평위산·곽향정기산·인삼양위탕과의 감별, 임상 선택 단서와 경과 관찰을 정리합니다.
+search_title: "불환금정기산 구성·메스꺼움과 설사"
+description: "불환금정기산의 창출·후박·진피·반하·곽향 배합을 살핍니다. 메스꺼움·복부팽만·설사가 겹치는 양상과 평위산·곽향정기산의 차이를 정리합니다."
 ---
 # 불환금정기산(不換金正氣散) {#_1}
 
@@ -100,6 +101,7 @@ description: 불환금정기산의 화습이기·해표화중 구조, 평위산�
 
 ## 관련 핵심 문서 {#_6}
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [방제 찾기](../herbal-integrated/formulas.md)
 - [본초 찾기](../herbal-integrated/herbs.md)
 - [처방 선택 원리](../herbal-integrated/formula-selection-guide.md)

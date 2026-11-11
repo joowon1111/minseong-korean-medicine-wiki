@@ -1,6 +1,7 @@
 ---
 title: 연교패독산(連翹敗毒散)
-description: 연교패독산의 청열해독·소풍산결 구조와 인후·피부의 풍열독 감별, 국내 감기 무작위시험을 연결합니다.
+search_title: "연교패독산 구성·인후통·감기 연구"
+description: "연교패독산의 배합과 인후·피부의 열성 양상을 살피는 전통 변증을 정리합니다. 인삼패독산과의 차이와 국내 감기 임상시험을 확인할 수 있습니다."
 tags: [방제학, 연교패독산, 풍열, 청열해독, 인후통, 피부, 감기, 상용처방]
 status: 검토완료
 last_reviewed: 2026-10-08
@@ -135,6 +136,7 @@ Byun 등의 시험은 **발병 48시간 이내 감기 환자 총 480명**을 모
 
 ## 관련 핵심 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [감기](../conditions/common-cold.md)
 - [감기·기침 처방 찾기](../herbal-integrated/formula-for-cold-cough.md)
 - [면역·염증·질병·노화](../immune-allergy/inflammation-pain.md)

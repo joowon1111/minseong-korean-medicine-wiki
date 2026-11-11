@@ -1,6 +1,7 @@
 ---
 title: 이중탕(理中湯)
-description: 이중탕의 이중초 명칭과 상한론 159·386조, 건강을 둔 온중건비 배합, 환제·탕법과 복통·설사·구토 감별을 설명합니다.
+search_title: "이중탕 구성·복부 냉감과 설사"
+description: "이중탕의 인삼·백출·건강·감초 배합과 배가 차면서 복통·묽은 변이 생기는 중초허한을 살핍니다. 이중환 제법과 반하사심탕과의 차이를 설명합니다."
 tags: [방제학, 이중탕, 상한론, 태음병, 비위허한, 설사]
 status: 검토완료
 last_reviewed: 2026-09-16
@@ -137,3 +138,5 @@ last_reviewed: 2026-09-16
 배변 시간만으로 처방을 정하지 않고 원인과 한열·허실을 함께 봅니다. 소아에서는 수분·성장 평가와 개별 처방이 필요합니다.
 
 [설사](../conditions/diarrhea.md) · [아침·식후설사](../conditions/morning-diarrhea.md) · [소아 설사](../conditions/child-diarrhea.md)
+
+[보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)

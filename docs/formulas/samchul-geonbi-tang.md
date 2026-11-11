@@ -1,6 +1,7 @@
 ---
 title: 삼출건비탕(參朮健脾湯)
-description: 삼출건비탕의 동의보감 원방과 방약합편 구성, 식욕부진과 식후 더부룩함에 살피는 변증, 육군자탕과의 차이, 소아 식욕부진 진료지침과 임상 근거를 정리합니다.
+search_title: "삼출건비탕 구성·식욕부진과 더부룩함"
+description: "삼출건비탕의 동의보감·방약합편 구성, 식욕부진과 식후 더부룩함을 살피는 단서, 육군자탕과의 차이와 소아 진료지침을 정리합니다."
 tags: [방제학, 삼출건비탕, 비위기허, 식욕저하, 소화불량, 식체]
 status: 검토완료
 last_reviewed: 2026-09-21
@@ -82,3 +83,5 @@ A 기록은 본방 12미에 생강과 대조를 넣어 달이는 구성이고, �
 - [동의보감 내상문과 처방 연결](../classics/donguibogam.md#selected-clinical-passages)
 - [기능성소화불량](../conditions/functional-dyspepsia.md)
 - [소화불량·더부룩함 처방 찾기](../herbal-integrated/formula-for-digestion.md)
+
+[보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)

@@ -1,6 +1,7 @@
 ---
 title: 대청룡탕(大青龍湯)
-description: 상한론 대청룡탕의 무한·번조·신동통 조문, 마황탕축과 석고의 배합, 계지탕·마황탕·마행감석탕 감별과 경과 관찰을 정리합니다.
+search_title: "대청룡탕 구성·마황탕과 차이"
+description: "대청룡탕의 마황·석고 배합을 중심으로 오한·몸살·땀이 없는 상태에 초조함이 겹친 고전 증후와 마황탕과의 차이를 설명합니다."
 tags: [방제학, 대청룡탕, 상한론, 해표제, 무한, 번조, 몸살]
 status: 검토완료
 last_reviewed: 2026-09-21
@@ -87,3 +88,5 @@ last_reviewed: 2026-09-21
 - [감기·급성 상기도감염](../conditions/common-cold.md)
 - [상한 고방 계열](../formula-architecture/shanghan-family.md)
 - [마황탕](mahuang-tang.md) · [계지탕](guizhi-tang.md) · [마행감석탕](maxing-ganshi-tang.md)
+
+[보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)

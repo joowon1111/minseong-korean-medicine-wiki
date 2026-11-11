@@ -1,6 +1,7 @@
 ---
 title: 시호계지탕(柴胡桂枝湯)
-description: 상한론 146조 시호계지탕의 소양·태양 병합 구조, 아홉 약미의 배합, 소시호탕·계지탕과의 감별 및 경과관찰을 정리합니다.
+search_title: "시호계지탕 구성·소시호탕·계지탕 비교"
+description: "시호계지탕의 아홉 약재와 소양·태양 증후가 함께 나타나는 상한론 146조를 설명합니다. 소시호탕·계지탕과 약재와 증상을 비교합니다."
 tags: [방제학, 시호계지탕, 상한론, 소양병, 태양병, 몸살]
 status: 검토완료
 last_reviewed: 2026-09-21
@@ -69,6 +70,7 @@ last_reviewed: 2026-09-21
 
 ## 관련 문서
 
+- [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
 - [상한론 146조 원문과 제법](../classics/shanghanlun/clauses/taiyang-lower.md#clause-146)
 - [소시호탕](xiaochaihu-tang.md) · [계지탕](guizhi-tang.md)
 - [감기·급성 상기도감염](../conditions/common-cold.md)
