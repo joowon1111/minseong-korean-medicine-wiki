@@ -9,6 +9,8 @@ last_reviewed: 2026-09-06
 
 한포진은 손바닥·손가락 옆·발바닥에 가려운 작은 물집이 생기는 습진입니다. 물집이 잦아든 뒤에도 각질이 일고 피부가 갈라질 수 있습니다. 새 물집과 진물이 나는지, 마르고 갈라진 곳이 남았는지에 따라 외용제와 보습 방법을 정합니다.[^dyshidrosis]
 
+[자운고 한방연고](#jaungo) · [바세린과 물일 관리](#petrolatum-wet-work) · [발바닥 물집 관리](#foot-care) · [밤 가려움과 수면](#itch-and-sleep)
+
 ## 환자가 이렇게 검색할 수 있습니다 {#_2}
 
 <span id="_8"></span>
@@ -29,15 +31,15 @@ last_reviewed: 2026-09-06
 | 같이 볼 모습 | 다음 평가 질문 |
 |---|---|
 | 손발의 반복 수포와 이후 각질·갈라짐 | 한포진의 재발 경과와 손습진 동반 |
-| 제품·장갑 사용 뒤 악화 | 접촉 자극·알레르기와 필요한 첩포검사 |
-| 한쪽의 각질, 발가락 사이·손발톱 변화 | 진균감염을 배제할 검사가 필요한지 |
+| 같은 제품·장갑을 쓸 때 반복 악화 | 닿는 위치와 병변을 대조하고, 접촉알레르기가 의심되면 [첩포검사](allergic-skin.md#allergy-testing) 고려 |
+| 한쪽 손이나 발에 집중된 물집·각질, 발가락 사이·손발톱 변화 | 무좀 등 진균감염이 의심되면 각질을 채취해 진균검사 고려 |
 | 통증이 심하고 고름·열감이 늘어남 | 감염 동반 여부 |
 
-손뿐 아니라 발의 감염·피부 상태도 확인합니다. 검사는 반복 양상·병력·진찰에 따라 선택합니다.[^dyshidrosis]
+손에만 물집이 보여도 발가락 사이와 발톱을 함께 살핍니다. 진균검사와 첩포검사는 병변 모양과 노출 이력에 따라 선택합니다.[^dyshidrosis][^dermnet]
 
 ## 먼저 확인해야 할 신호 {#_4}
 
-물집이 있던 부위에 고름·통증·열감이 늘거나 붉음이 빠르게 번지고 발열이 생기면 감염을 평가합니다. 갑자기 넓은 물집·피부 벗겨짐·입이나 눈의 점막 통증이 나타나면 한포진으로만 넘기지 말고 신속히 진료받습니다. [피부 위험신호](../pillar/skin-hair.md#_3)
+물집이 있던 부위에 고름이 보이거나 통증·열감이 심해지면 감염 여부를 확인합니다. 붉은 범위가 빠르게 넓어지거나 발열이 있으면 신속히 진료받습니다. 갑자기 넓은 물집이나 피부 벗겨짐이 생기거나 입안·눈에 통증이 있을 때도 신속한 진료가 필요합니다.[^dyshidrosis] [피부 위험신호](../pillar/skin-hair.md#_3)
 
 ## 한의치료 연결 {#_5}
 
@@ -73,9 +75,15 @@ last_reviewed: 2026-09-06
 - **손 위생은 유지하면서** 필요한 손 씻기는 미지근한 물과 순한 무향 세정제로 짧게 합니다. 뜨거운 물에 오래 담그거나 세제·청소용액을 맨손으로 만지는 일을 줄입니다.[^self-care]
 - **설거지·청소 전**에는 면장갑 위에 방수장갑을 낍니다. 장갑 안에 땀이 차거나 면장갑이 젖으면 벗어서 손을 말리고 마른 장갑으로 바꿉니다.[^self-care][^hand-eczema]
 
+### 발바닥에 물집이 생겼을 때 {#foot-care}
+
+발을 씻은 뒤에는 발가락 사이의 물기를 닦고, 땀을 잘 배출하는 양말을 신습니다. 운동이나 장시간 신발 착용으로 양말이 젖으면 마른 양말로 갈아 신습니다. 발바닥에 건조하고 갈라지는 부분이 있으면 무향 보습제를 바릅니다.[^self-care][^dermnet]
+
 ### 땀·긴장·제품 노출의 관계 {#dyshidrosis-triggers}
 
-한포진은 이름과 달리 땀관이 막혀 생기는 병으로 설명하지 않습니다. 땀·습기·날씨·긴장이 악화와 연동될 수 있고 금속·제품 성분·발의 감염 등도 살핍니다.[^cause] 모든 환자에게 금속 알레르기나 음식 제한이 필요한 것은 아닙니다. 의심되는 경우 병력과 검사를 거쳐 조정하며, 반복 수포만으로 여러 식품을 제외하지 않습니다.
+땀이 많이 난 날이나 덥고 습한 날, 긴장이 심한 때에 증상이 더 심해지는지 살핍니다. 금속·세제·장갑 같은 접촉 물질과 발의 진균감염도 확인합니다. 특정 노출 뒤에 악화가 반복된다면 제품명과 사용 시점, 물집이 생긴 부위를 기록해 진료 때 알려 주세요.[^cause][^dermnet]
+
+특정 음식이 의심될 때는 먹은 음식과 악화 시점을 기록해 식사 조정이 필요한지 진료에서 상의합니다.[^cause]
 
 ### 밤 가려움과 수면 {#itch-and-sleep}
 
@@ -100,5 +108,6 @@ last_reviewed: 2026-09-06
 [^self-care]: [AAD — Dyshidrotic eczema: self-care](https://www.aad.org/public/diseases/eczema/types/dyshidrotic-eczema/self-care). 손 씻기, 보습, 방수장갑과 면장갑 사용.
 [^petrolatum]: [AAD — 5 ways to use petroleum jelly for skin care](https://www.aad.org/public/everyday-care/skin-care-secrets/routine/petroleum-jelly). 건조한 피부에서의 페트롤라툼 사용.
 [^hand-eczema]: [Kim 등. 2020 Korean Consensus Guidelines for Diagnosis and Treatment of Chronic Hand Eczema](https://pmc.ncbi.nlm.nih.gov/articles/PMC8273322/). 만성 손습진의 접촉 원인 평가, 보습·보호 및 단계별 치료.
+[^dermnet]: [DermNet — Dyshidrotic eczema](https://dermnetnz.org/topics/dyshidrotic-eczema). 한쪽에 나타나는 병변의 진균검사, 접촉알레르기가 의심되는 경우의 첩포검사, 보습 관리.
 [^korean-cases]: [가감통청산으로 호전된 한포진 치험 2례](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002165599). 한약·한약 습포·침치료를 병행한 증례 보고.
 [^jaungo-trial]: [Ahn 등. Exploring the efficacy and safety of topical Jaungo application in patients with atopic dermatitis](https://pubmed.ncbi.nlm.nih.gov/30219454/). 아토피피부염 환자 대상 3주 무작위·이중눈가림·위약 대조 예비시험.
