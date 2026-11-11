@@ -164,7 +164,7 @@ description: 방제 찾기 — 민성 한의학 아카이브의 관련 전문 �
 - [대보원전](../formulas/dabo-wonjeon.md) — 기혈·정수의 큰 허손 + 요슬무력
 - [인삼황기탕](../formulas/renshen-huangqi-tang.md) — 비위기허 + 자한·회복저하
 - [고진음자](../formulas/gojin-eumja.md) — 기혈·비신허 + 자한·유정·빈뇨의 불고
-- [육미지황환](../authority/formulas/liuwei-dihuang-wan.md) — 신음허
+- [육미지황환·육미지황탕](../formulas/liuwei-dihuang-wan.md) — 신음허
 - [팔미지황환](../formulas/bawei-dihuang-wan.md) — 신양허
 - [좌귀환](../formulas/zuogui-wan.md) — 신음·정혈부족
 - [우귀환](../formulas/yougui-wan.md) — 신양허 + 정혈부족
