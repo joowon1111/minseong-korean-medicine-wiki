@@ -75,7 +75,7 @@ last_reviewed: 2026-09-21
 | 변증의 방향 | 임상에서 살피는 단서 | 대표적으로 비교할 처방·치법 |
 |---|---|---|
 | 신양허·방광기화 저하 | 냉감, 맑은 소변, 야간뇨, 허리·무릎 무력감 | 온보신양·기화조절, [팔미지황환](../formulas/bawei-dihuang-wan.md) 계열 |
-| 신음허·허열 | 입마름, 열감, 야간 증상, 요슬산연 | 자보신음, [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) 계열 |
+| 신음허·허열 | 입마름, 열감, 야간 증상, 요슬산연 | 자보신음, [육미지황환](../formulas/liuwei-dihuang-wan.md) 계열 |
 | 비신기허·중기부족 | 피로·식욕저하, 힘이 빠질 때 배뇨가 더 불편 | 보기승제, [보중익기탕](../formulas/buzhong-yiqi-tang.md) 계열 |
 | 하초습열 | 배뇨 시 열감·불편, 진한 소변, 급박감 | 청열이습, [팔정산](../formulas/bazheng-san.md)·[저령탕](../formulas/zhuling-tang.md) 계열 |
 | 기체어혈·골반 긴장 | 회음부 답답함, 고정된 통증, 스트레스 연동 | 이기활혈, [계지복령환](../formulas/guizhi-fuling-wan.md) 등 활혈 처방군 비교 |

@@ -49,7 +49,7 @@ tags:
 |---|---|---|---|
 | 신기허 | 보신익기·고충임 | [육린주](../formulas/yulin-zhu.md), 남성의 [오자연종환](../formulas/wuzi-yanzong-wan.md) | 음허의 건조·허열, 양허의 뚜렷한 냉증 |
 | 신양허 | 온보신양·익정 | [팔미지황환](../formulas/bawei-dihuang-wan.md)·[우귀환](../formulas/yougui-wan.md) | 수습·요증 중심과 정혈허 중심, 실한 |
-| 신음허 | 자신양음·익정 | [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md)·[좌귀환](../formulas/zuogui-wan.md) | 간울화화의 울체·실열, 단순 혈허 |
+| 신음허 | 자신양음·익정 | [육미지황환](../formulas/liuwei-dihuang-wan.md)·[좌귀환](../formulas/zuogui-wan.md) | 간울화화의 울체·실열, 단순 혈허 |
 | 간울기체 | 소간이기·양혈건비 | [소요산](../formulas/xiaoyao-san.md)·[개울종옥탕](../formulas/kaiyu-zhongyu-tang.md) | 혈허·비허의 비중, 담습·고정혈어 |
 | 간울화화 | 소간청열·조경 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) | 습열의 황니태·대하, 음허의 소태·도한 |
 | 혈허 | 양혈조경 | [사물탕](../formulas/siwu-tang.md), 수습이 겹치면 [당귀작약산](../formulas/danggui-shaoyao-san.md) | 빈혈과 동일 개념 아님, 출혈 원인 확인 |

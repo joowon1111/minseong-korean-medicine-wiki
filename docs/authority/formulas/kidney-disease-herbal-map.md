@@ -23,7 +23,7 @@ description: "만성콩팥병·당뇨병성 콩팥병의 황기·황촉규 직�
 
 | 처방군 | 직접 확인할 근거 | 임상 적용 시 확인할 사항 |
 |---|---|---|
-| [육미지황탕·육미지황환](../../formulas/liu%20wei%20dihuang%20wan.md#rehmannia6-ckd) 기반 처방 | [CKD 환자 대상 무작위시험과 신장·안전성 결과](../../conditions/chronic-kidney-disease.md#rehmannia6-ckd-trial) | 연구의 기본방·가감·과립제와 실제 처방의 일치 정도, 원인질환·신장 단계 |
+| [육미지황탕·육미지황환](../../formulas/liuwei-dihuang-wan.md#rehmannia6-ckd) 기반 처방 | [CKD 환자 대상 무작위시험과 신장·안전성 결과](../../conditions/chronic-kidney-disease.md#rehmannia6-ckd-trial) | 연구의 기본방·가감·과립제와 실제 처방의 일치 정도, 원인질환·신장 단계 |
 | [경옥고](../../formulas/gyeongok-go.md#renal-safety) | 건강인·감염 후 피로 연구의 검사·내약성 자료 | 기력·건조·섭취 등 회복 목표와 신장기능 목표를 구분하고 당류·검사 추세 확인 |
 | [공진단](../../formulas/gongjin-dan.md#renal-safety) | 만성피로 시험의 단기 검사 자료와 개별 신장 이상반응 증례 | 원방·가감방의 실제 구성, 기저 단백뇨와 복용 후 새 부종·소변 변화 확인 |
 

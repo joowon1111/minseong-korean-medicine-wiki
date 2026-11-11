@@ -113,7 +113,7 @@ last_reviewed: 2026-09-23
 | [방풍통성산](../formulas/fangfeng-tongsheng-san.md) | 표리구실·실열·변비 등 해표·청열·통리의 맥락 | 대변·복부, 체중·허리둘레와 혈압·맥박 |
 | [방기황기탕](../formulas/fangji-huangqi-tang.md) | 기허·자한·신중·수습의 보기이습 | 부종·피로·소화·활동과 수분 상태 |
 | [대시호탕](../formulas/dachaihu-tang.md) | 흉협·심하·구토·복부 소견과 소양양명의 관계 | 복부 긴장·식욕·대변·복통·설사 |
-| [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md) | 음허·신허 증후의 자음 배합 | 갈증·냉열·수면·야간 증상, 필요한 장기 검사 |
+| [육미지황환](../formulas/liuwei-dihuang-wan.md) | 음허·신허 증후의 자음 배합 | 갈증·냉열·수면·야간 증상, 필요한 장기 검사 |
 | [육군자탕](../formulas/liujunzi-tang.md) | 비위기허와 담습·오심·소화저하 | 식사량·식후 불편·대변·피로 |
 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 기력·식욕·처짐 등 보기승양의 맥락 | 활동·식사·회복과 전반적인 기능 |
 

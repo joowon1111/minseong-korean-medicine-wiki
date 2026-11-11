@@ -9,7 +9,7 @@ last_reviewed: 2026-09-21
 
 ## 어떤 처방인가요? {#qiju-dihuang-overview}
 
-기국지황환은 [육미지황환](../authority/formulas/liuwei-dihuang-wan.md)의 **삼보삼사(三補三瀉)** 구조에 [구기자](../herbs/cornus-extra.md)와 [국화](../herbs/chrysanthemum.md)를 더한 처방입니다. 눈의 피로·건조·침침함과 함께 허리·무릎의 무력감, 이명·어지럼, 오후의 열감처럼 **간신음허와 정혈 소모**를 시사하는 조합을 살핍니다.
+기국지황환은 [육미지황환](liuwei-dihuang-wan.md#dihuang-formula-family)의 **삼보삼사(三補三瀉)** 구조에 [구기자](../herbs/cornus-extra.md)와 [국화](../herbs/chrysanthemum.md)를 더한 처방입니다. 눈의 피로·건조·침침함과 함께 허리·무릎의 무력감, 이명·어지럼, 오후의 열감처럼 **간신음허와 정혈 소모**를 시사하는 조합을 살핍니다.
 
 여기서 ‘간신’은 한의학의 기능 개념입니다. 실제 진료에서는 굴절 이상, 안구표면과 눈꺼풀, 화면 작업, 수면, 복용약, 혈압·혈당 등 눈의 피로와 건조에 영향을 주는 요소를 함께 평가합니다.
 

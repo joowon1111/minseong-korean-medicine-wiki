@@ -292,7 +292,9 @@ def formula_cards():
                 if rows:
                     facts.append(('원문 배합축', ' / '.join(' — '.join(row) for row in rows[1:5])))
                     break
-        c = card('formula-' + path.stem.replace(' ', '-'), m[1], category, facts, path.relative_to(DOCS),
+        # URL cleanup must retain card/question IDs and browser review progress.
+        stable_stem = 'liu-wei-dihuang-wan' if path.stem == 'liuwei-dihuang-wan' else path.stem.replace(' ', '-')
+        c = card('formula-' + stable_stem, m[1], category, facts, path.relative_to(DOCS),
                  f'{m[1]}의 기본 구조와 가공·제형 확인점을 떠올려 보세요.')
         c['overviewSource'] = '/herbal-integrated/general-formulary/#core-formulas-100'
         result.append(c)
@@ -414,7 +416,11 @@ def herb_comparison_cards():
 
 
 def shuffled(items, seed):
-    return sorted(items, key=lambda x: hashlib.sha256((seed + str(x)).encode()).hexdigest())
+    # Keep existing answer positions when only the canonical Liuwei URL changes.
+    def identity(item):
+        return str(item).replace('/formulas/liuwei-dihuang-wan/',
+                                 '/formulas/liu%20wei%20dihuang%20wan/')
+    return sorted(items, key=lambda x: hashlib.sha256((seed + identity(x)).encode()).hexdigest())
 
 
 def anatomy_cards():

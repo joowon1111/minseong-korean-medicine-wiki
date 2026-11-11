@@ -29,6 +29,9 @@ last_reviewed: '2026-09-21'
 처방은 단순한 효능 목록보다 **어떤 병증과 증상 조합에서 활용되어 왔는지, 어떤 약재 구조를 가지는지** 함께 살펴보면 이해하기 쉽습니다.
 
 ### 보익·기력·회복 {#_4}
+
+- [육미지황환·육미지황탕](liuwei-dihuang-wan.md) — 팔미에서 육미로 이어진 역사, 삼보삼사와 지황환 계열 비교
+- [팔미지황환·팔미지황탕](bawei-dihuang-wan.md) — 신기환의 온양화기 배합과 원방·후대 제제 차이
 - [사군자탕](sijunzi-tang.md) · [육군자탕](liujunzi-tang.md) · [사물탕](siwu-tang.md) · [당귀보혈탕](danggui-buxue-tang.md) · [팔물탕](bazhen-tang.md)
 - [십전대보탕](shi-quan-da-bu-tang.md) · [보중익기탕](buzhong-yiqi-tang.md) · [귀비탕](guibi-tang.md) · [생맥산](shengmai-san.md)
 - [자감초탕](zhigancao-tang.md) · [황기계지오물탕](huangqi-guizhi-wuwu-tang.md)

@@ -133,7 +133,7 @@ Jeong JK, et al. *J Pain Res.* 2020;13:677–687. [PMID 32280270](https://pubmed
 | [오적산](../formulas/wujisan.md#lumbar-combination) | 조습·이기·화담에 온중·혈분 조절을 함께 배치 | 냉감·경직과 소화불편이 겹치는 양상 |
 | [빈소산](#binsosan-composition) | 창출의 조습, 향부자·소엽·진피·빈랑의 행기, 모과·강활·우슬의 배합 | 하지의 무거움·당김과 기체·습체의 비중 |
 | [독활기생탕](../formulas/duhuo-jisheng-tang.md#lumbar-tonification) | 독활·진교 등의 거풍습에 상기생·두충·우슬과 기혈 보익약을 결합 | 오래된 요슬통·냉감에 허약과 회복저하 동반 |
-| [육미지황환·탕 계열](../formulas/liu%20wei%20dihuang%20wan.md#lumbar-yin-deficiency) | 숙지황·산수유·산약과 택사·목단피·복령의 삼보삼사 | 요슬산연에 건조·도한·허열 등 음허 단서 동반 |
+| [육미지황환·탕 계열](../formulas/liuwei-dihuang-wan.md#lumbar-yin-deficiency) | 숙지황·산수유·산약과 택사·목단피·복령의 삼보삼사 | 요슬산연에 건조·도한·허열 등 음허 단서 동반 |
 
 담음은 디스크 수핵의 다른 이름이 아니며, 신허는 신장기능검사 이상과 다릅니다. 전통적 증후는 한약의 배합 방향을 정리하는 데 사용하고, 다리로 내려가는 통증·신경 기능과 영상의 일치 여부는 별도로 확인합니다. [요통의 변증·처방](low-back-pain.md#herbal-care)과 함께 읽을 수 있습니다.
 

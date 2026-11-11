@@ -37,10 +37,9 @@ test('the complete current archive ranks the three pain guides first for their a
         assert.equal(new Set(resultUrls(b)).size, resultUrls(b).length, query);
       }
     }
-    // Exercise generated URLs through validDoc as well as ranking: the main
-    // Liuwei page has spaces in its longstanding filename.
+    // Keep all Liuwei/Bawei names pointed to their representative formula pages.
     for (const [url, queries] of [
-      ['/formulas/liu%20wei%20dihuang%20wan/', ['육미지황환', '육미지황탕', '육미 지황탕', '육미']],
+      ['/formulas/liuwei-dihuang-wan/', ['육미지황환', '육미지황탕', '육미 지황탕', '육미']],
       ['/formulas/bawei-dihuang-wan/', ['팔미지황환', '팔미지황탕', '팔미 지황탕', '팔미', '팔미지화탕']],
     ]) {
       for (const query of queries) {

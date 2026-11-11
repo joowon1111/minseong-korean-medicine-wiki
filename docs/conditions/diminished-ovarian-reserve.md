@@ -49,7 +49,7 @@ DOR에서는 배란·월경이 유지될 수 있습니다. 조기난소기능부
 
 ## 한의학적 해석·변증
 
-전통적으로 정혈·충임의 부족을 신허·혈허 등으로 살필 수 있지만 **낮은 AMH = 腎虛**가 아닙니다. 요슬산연·도한·건조의 신음허, 냉감·허약의 신양허, 피로·월경량 감소의 기혈허를 [전체 변증](../womens-health/fertility-patterns.md)에서 감별합니다. [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md)·[좌귀환](../formulas/zuogui-wan.md)·[우귀환](../formulas/yougui-wan.md)·[육린주](../formulas/yulin-zhu.md)는 서로 다른 치법의 비교 자료입니다.
+전통적으로 정혈·충임의 부족을 신허·혈허 등으로 살필 수 있지만 **낮은 AMH = 腎虛**가 아닙니다. 요슬산연·도한·건조의 신음허, 냉감·허약의 신양허, 피로·월경량 감소의 기혈허를 [전체 변증](../womens-health/fertility-patterns.md)에서 감별합니다. [육미지황환](../formulas/liuwei-dihuang-wan.md)·[좌귀환](../formulas/zuogui-wan.md)·[우귀환](../formulas/yougui-wan.md)·[육린주](../formulas/yulin-zhu.md)는 서로 다른 치법의 비교 자료입니다.
 
 ## 한의치료 현대 연구 {#dor-evidence}
 

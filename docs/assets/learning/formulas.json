@@ -386,7 +386,7 @@
           "value": "정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절"
         }
       ],
-      "source": "/formulas/liu%20wei%20dihuang%20wan/",
+      "source": "/formulas/liuwei-dihuang-wan/",
       "sourceTitle": "육미지황환 원문",
       "overviewSource": "/herbal-integrated/general-formulary/#core-formulas-100"
     },
@@ -4950,7 +4950,7 @@
           "text": "삼보삼사의 신음 보익 구조",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "기음부족 + 심화·소변 불편",
@@ -4961,7 +4961,7 @@
       ],
       "answer": 2,
       "explanation": "육미지황환 — 구조 읽기: 삼보삼사의 신음 보익 구조",
-      "source": "/formulas/liu%20wei%20dihuang%20wan/"
+      "source": "/formulas/liuwei-dihuang-wan/"
     },
     {
       "id": "formula-liu-wei-dihuang-wan-recall-구조 읽기",
@@ -4987,7 +4987,7 @@
           "text": "육미지황환",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "자음강화탕",
@@ -4998,7 +4998,7 @@
       ],
       "answer": 2,
       "explanation": "육미지황환 — 구조 읽기: 삼보삼사의 신음 보익 구조",
-      "source": "/formulas/liu%20wei%20dihuang%20wan/"
+      "source": "/formulas/liuwei-dihuang-wan/"
     },
     {
       "id": "formula-liu-wei-dihuang-wan-fact-수치·법제 확인",
@@ -5017,7 +5017,7 @@
           "text": "숙지황 가공, 산수유 과육·산약 규격 확인",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "생지황·숙지황과 지모·황백의 포제품 구분",
@@ -5034,7 +5034,7 @@
       ],
       "answer": 1,
       "explanation": "육미지황환 — 수치·법제 확인: 숙지황 가공, 산수유 과육·산약 규격 확인",
-      "source": "/formulas/liu%20wei%20dihuang%20wan/"
+      "source": "/formulas/liuwei-dihuang-wan/"
     },
     {
       "id": "formula-liu-wei-dihuang-wan-fact-원문 배합축",
@@ -5047,7 +5047,7 @@
           "text": "정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "자음·양혈 — 백작약·당귀·맥문동·숙지황·생지황 / 강허화 — 지모·황백 / 비위 조화 — 백출·진피·감초 / 가미 — 생강·대조",
@@ -5070,7 +5070,7 @@
       ],
       "answer": 0,
       "explanation": "육미지황환 — 원문 배합축: 정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절",
-      "source": "/formulas/liu%20wei%20dihuang%20wan/"
+      "source": "/formulas/liuwei-dihuang-wan/"
     },
     {
       "id": "formula-liu-wei-dihuang-wan-recall-원문 배합축",
@@ -5102,12 +5102,12 @@
           "text": "육미지황환",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         }
       ],
       "answer": 3,
       "explanation": "육미지황환 — 원문 배합축: 정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절",
-      "source": "/formulas/liu%20wei%20dihuang%20wan/"
+      "source": "/formulas/liuwei-dihuang-wan/"
     },
     {
       "id": "formula-bawei-dihuang-wan-fact-구조 읽기",
@@ -5229,7 +5229,7 @@
           "text": "정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "보신정 — 지황(원전의 건지황, 후대형의 숙지황)·산약·산수유 — 간신의 정혈을 보하고 처방의 바탕을 형성 / 사습·조절 — 택사·복령·목단피 — 보약의 점체를 조절하고 수습·울체를 다스림 / 온양화기 — 계지·부자 — 신양을 덥히고 기화를 도와 냉감·배뇨·수분대사 축을 조절",
@@ -5284,7 +5284,7 @@
           "text": "육미지황환",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         }
       ],
       "answer": 0,
@@ -5320,7 +5320,7 @@
           "text": "삼보삼사의 신음 보익 구조",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         }
       ],
       "answer": 0,
@@ -5357,7 +5357,7 @@
           "text": "육미지황환",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         }
       ],
       "answer": 0,
@@ -5393,7 +5393,7 @@
           "text": "숙지황 가공, 산수유 과육·산약 규격 확인",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         }
       ],
       "answer": 0,
@@ -5417,7 +5417,7 @@
           "text": "삼보삼사의 신음 보익 구조",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "육미지황환 + 계지·부자의 온양",
@@ -5460,7 +5460,7 @@
           "text": "육미지황환",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "우귀환",
@@ -5605,7 +5605,7 @@
           "text": "숙지황 가공, 산수유 과육·산약 규격 확인",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "생지황·숙지황과 지모·황백의 포제품 구분",
@@ -5629,7 +5629,7 @@
           "text": "정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "자음·양혈 — 백작약·당귀·맥문동·숙지황·생지황 / 강허화 — 지모·황백 / 비위 조화 — 백출·진피·감초 / 가미 — 생강·대조",
@@ -5666,7 +5666,7 @@
           "text": "육미지황환",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "팔미지황환",
@@ -5781,7 +5781,7 @@
           "text": "숙지황 가공, 산수유 과육·산약 규격 확인",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "숙지황·구기자·녹각교의 규격과 용화·환제 확인",
@@ -5829,7 +5829,7 @@
           "text": "정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         }
       ],
       "answer": 0,
@@ -5866,7 +5866,7 @@
           "text": "육미지황환",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         }
       ],
       "answer": 1,
@@ -12842,7 +12842,7 @@
           "text": "정혈을 보함 — 숙지황 — 신음·정혈을 자보하는 중심축 / 간신을 보하고 수렴 — 산수유 — 간신을 보하며 정기의 과도한 소모를 거둠 / 비신을 함께 지지 — 산약 — 비·폐·신을 평보하고 소화의 바탕을 보완 / 습과 탁을 조절 — 택사·복령 — 보익약의 점체함과 수습 정체를 조절",
           "owner": "육미지황환",
           "ownerId": "formula-liu-wei-dihuang-wan",
-          "source": "/formulas/liu%20wei%20dihuang%20wan/"
+          "source": "/formulas/liuwei-dihuang-wan/"
         },
         {
           "text": "화담·강역 — 반하 — 담을 삭이고 오심·구역과 위기상역을 내림 / 이기·조습 — 진피 — 막힌 기를 풀고 담이 다시 생기는 중초 환경을 조절 / 건비·삼습 — 복령 — 비위를 돕고 수습을 배출해 담의 바탕을 정리 / 파기·개울 — 지실 — 흉격과 명치의 그득함, 기체를 풀어줌",
@@ -18898,7 +18898,7 @@
       "kind": "advanced",
       "category": "보음·보양·신허",
       "source": "/learning/formulas/#advanced-formulas-expert-03",
-      "relatedSource": "/formulas/liu%20wei%20dihuang%20wan/"
+      "relatedSource": "/formulas/liuwei-dihuang-wan/"
     },
     {
       "id": "advanced-formulas-expert-04",
@@ -21156,7 +21156,7 @@
       "kind": "clinical",
       "category": "보음·보양·신허",
       "source": "/learning/formulas/#clinical-formulas-25",
-      "relatedSource": "/formulas/liu%20wei%20dihuang%20wan/"
+      "relatedSource": "/formulas/liuwei-dihuang-wan/"
     },
     {
       "id": "clinical-formulas-26",

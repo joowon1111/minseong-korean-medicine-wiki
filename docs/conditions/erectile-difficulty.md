@@ -64,7 +64,7 @@ last_reviewed: 2026-09-06
 | 간울·기체 | 긴장·팽만·정서와 연동된 불편 | 긴장·수면·관계의 부담 완화 |
 | 습열·어혈 | 배뇨 자극·골반 불편 또는 오래된 고정통 | 원인 평가와 배뇨·통증 조절 |
 
-한약은 이 양상과 복용약을 종합해 구성합니다. [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 보기, [팔물탕](../formulas/bazhen-tang.md)의 보기양혈, [육미지황환](../formulas/liu%20wei%20dihuang%20wan.md)·[팔미지황환](../formulas/bawei-dihuang-wan.md)의 자음·온양을 비교할 수 있습니다. 이는 배합을 이해하는 자료이며 모든 발기력저하에 같은 보약을 쓰는 기준은 아닙니다.
+한약은 이 양상과 복용약을 종합해 구성합니다. [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 보기, [팔물탕](../formulas/bazhen-tang.md)의 보기양혈, [육미지황환](../formulas/liuwei-dihuang-wan.md)·[팔미지황환](../formulas/bawei-dihuang-wan.md)의 자음·온양을 비교할 수 있습니다. 이는 배합을 이해하는 자료이며 모든 발기력저하에 같은 보약을 쓰는 기준은 아닙니다.
 
 침·전침은 동반된 골반통·근육 긴장·수면 등 우선 목표와 연결하고, 약침은 연관 근골격 불편과 성분·부위·출혈 위험을 확인해 선택합니다. 성기능과 동반 증상의 변화는 나누어 기록합니다. [남성 비뇨생식 침구 근거](../authority/conditions/male-urologic-evidence-map.md) · [한약 안전성](../herbal-integrated/safety.md)으로 이어집니다.
 
