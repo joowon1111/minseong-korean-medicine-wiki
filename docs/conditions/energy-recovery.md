@@ -138,6 +138,7 @@ related_reading:
 | 노년기 식사·근력·보행 저하 | [노인보약](elderly-tonic.md) · [노쇠·근감소](frailty-sarcopenia.md) |
 | 수술 뒤 피로와 식욕저하 | [수술 후 회복보약](postoperative-recovery.md#herbal-care) |
 | 퇴원 뒤 체력저하 | [퇴원 후 회복](post-hospitalization-recovery.md) |
+| 감기·독감·코로나 뒤 피로가 지속됨 | [회복기 진료·검사](post-viral-fatigue.md#post-viral-assessment) · [활동 후 반응 기록](post-viral-fatigue.md#post-viral-activity-record) |
 | 출산 뒤 피로·수면·통증 | [산후보약](postpartum-herbal.md) · [산후회복](postpartum-recovery.md) |
 | 아이의 피로·성장·식욕 | [성장보약·아이 보약](child-parent-tonic-guide.md) |
 | 암 치료 뒤 기력저하 | [암 치료 후 회복](cancer-treatment-recovery.md) |
