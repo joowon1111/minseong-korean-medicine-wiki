@@ -25,6 +25,12 @@ last_reviewed: 2026-09-04
 ## 인지기능
 2026년 문헌고찰에서 육미지황 계열 병용군의 MMSE 개선이 보고됐습니다. 무작위배정·눈가림과 연구 간 이질성을 고려한 근거 확실성은 낮음에서 중간 수준이었습니다. [원문과 상세 결과](../../formulas/liuwei-dihuang-wan.md#liuwei-cognition-review)
 
+2005년 국내 대학생 35명의 위약 대조시험은 구기자를 더한 가감방을 6주간 평가했습니다. 인지검사 점수와 P300 잠복기 결과는 해당 제형과 건강한 성인에 해당합니다. [연구 제형과 결과](../../formulas/liuwei-dihuang-wan.md#yukmijihwang-young-adults) · [PMID 15844838](https://pubmed.ncbi.nlm.nih.gov/15844838/)
+
+## 약물대사와 병용
+
+건강인 교차시험 두 건에서 육미지황환 복용 후 효소별 대사 지표를 비교했습니다. 카페인으로 측정한 CYP1A2·CYP2A6·NAT2와 다른 시험 약물로 측정한 CYP2C19·CYP2D6·CYP3A4를 각각 확인할 수 있습니다. [시험별 결과와 적용 범위](../../formulas/liuwei-dihuang-wan.md#liuwei-drug-metabolism)
+
 ## 한의학 지식망
 `신허·신음허 → 신장·인지·노화 관련 기능저하 → 육미지황환 → 숙지황·산수유·산약·택사·목단피·복령 → 신기능·인지 outcome`
 
