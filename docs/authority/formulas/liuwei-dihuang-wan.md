@@ -1,13 +1,13 @@
 ---
-title: 육미지황환 현대 임상근거 카드
+title: 육미지황환·육미지황탕 현대 임상근거 카드
 description: 육미지황환 계열의 당뇨병성 신장질환·인지기능 사람 대상 연구를 원방·가감방·병용치료로 구분해 정리합니다.
 tags: [육미지황환, 임상근거, 당뇨병성신장질환, 인지기능]
 status: 검토완료
 last_reviewed: 2026-09-04
 ---
-# 육미지황환 — 현대 임상근거 카드
+# 육미지황환·육미지황탕 — 현대 임상근거 카드 {#_1}
 
-> 구성·삼보삼사 배합·임상 감별은 [육미지황환 상세 문서](../../formulas/liuwei-dihuang-wan.md)에서 먼저 확인할 수 있습니다.
+> 구성·삼보삼사 배합·임상 감별은 [육미지황환·육미지황탕 상세 문서](../../formulas/liuwei-dihuang-wan.md)에서 먼저 확인할 수 있습니다.
 
 ## 대표 임상영역
 신음허·신허와 연결되는 당뇨병성 신장질환의 단백뇨·신기능과 인지기능을 중심으로 현대 임상근거를 연결합니다.
@@ -31,7 +31,7 @@ last_reviewed: 2026-09-04
 
 ## 연결
 
-- [육미지황환 상세 문서](../../formulas/liuwei-dihuang-wan.md)
+- [육미지황환·육미지황탕 상세 문서](../../formulas/liuwei-dihuang-wan.md)
 - [만성신장질환 한약 근거지도](kidney-disease-herbal-map.md)
 - [한약·처방 현대 임상근거 허브](herbal-formula-evidence-hub.md)
 - [대표 보익 본초](../herbs/index.md)
