@@ -55,7 +55,7 @@ last_reviewed: 2026-09-04
 
 [삼소음](../formulas/renshen-suyin.md) · [소청룡탕](../formulas/xiaoqinglong-tang.md) · [이진탕](../formulas/erchen-tang.md) · [시경반하탕](../formulas/sigyeong-banha-tang.md) · [행소탕](../formulas/haengso-tang.md) · [생맥산](../formulas/shengmai-san.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) 등을 기침 성상·가래·한열·체력에 따라 비교합니다.
 
-[백출탕](../formulas/baekchul-tang.md)은 백출·반하·오미자로 습수와 몸이 무거운 양상을 살핍니다. [행소탕](../formulas/haengso-tang.md)은 동의보감 수록형과 온병조변 행소산의 구성을 대조합니다.
+[기침·가래 처방 비교](formula-for-cold-cough.md#sputum-formula-comparison)에서 행소탕·백출탕·소청룡탕·시경반하탕의 약재와 진찰 단서를 한눈에 볼 수 있습니다.
 
 → [기침](../conditions/cough.md)
 
@@ -71,7 +71,7 @@ last_reviewed: 2026-09-04
 
 [반하사심탕의 보험 제형과 구성](../formulas/banxia-xiexin-tang.md#insurance-banha)에서는 산제·연조엑스와 기준처방을 확인할 수 있습니다. 식후 더부룩함에 습체가 두드러지면 [평위산](../formulas/pingwei-san.md), 평소 입맛이 적고 식후 팽만이 반복되면 [삼출건비탕](../formulas/samchul-geonbi-tang.md), 복부 냉감과 묽은 변이 함께 나타나면 [이중탕](../formulas/lizhong-tang.md)에서 각각의 변증 단서를 비교할 수 있습니다.
 
-과식 뒤 팽만은 [대화중음](../formulas/daehwa-jung-eum.md)의 산사·맥아 배합을, 찬 음식 뒤 식체는 [내소산](../formulas/naeso-san.md)의 건강·삼릉·아출 배합을 참고할 수 있습니다.
+[소화불량 처방 비교](formula-for-digestion.md#digestive-pattern-comparison)에서 향사평위산·대화중음·내소산의 배합을 과식, 트림, 찬 음식과의 관계에 따라 살펴볼 수 있습니다.
 
 → [소화불량](../conditions/dyspepsia.md)
 
