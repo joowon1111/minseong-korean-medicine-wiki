@@ -104,6 +104,7 @@ last_reviewed: 2026-10-12
 |---|---|
 | 물일·장갑을 계속 써야 하는데 무엇을 기록하나요? | [손습진의 작업·장갑 노출과 관리](../conditions/eczema-hands.md#hand-exposure) |
 | 물집이 줄고 갈라짐이 남으면 무엇을 비교하나요? | [한포진의 수포·건조·균열기](../conditions/dyshidrotic-eczema.md#vesicle-course) |
+| 손발에 물집이 반복될 때 집에서는 어떻게 관리하나요? | [바세린과 물일 관리](../conditions/dyshidrotic-eczema.md#petrolatum-wet-work) · [발바닥 물집 관리](../conditions/dyshidrotic-eczema.md#foot-care) |
 | 민감성 피부에 알레르기 검사가 모두 필요한가요? | [첩포검사·즉시형 검사 목적](../conditions/allergic-skin.md#allergy-testing) |
 | 검사에서 양성인 물질이 실제 원인인가요? | [습진의 노출·검사 해석](../conditions/eczema.md#contact-evaluation) |
 
