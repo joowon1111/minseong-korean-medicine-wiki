@@ -296,7 +296,7 @@ last_reviewed: 2026-09-21
 - [만성염증·염증수치·CRP·ESR 상승](inflammation-markers.md)
 - [혈압이 높아요·건강검진 고혈압](high-blood-pressure-checkup.md)
 - [지방간·건강검진 지방간](fatty-liver.md)
-- [만성콩팥병·크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
+- [만성콩팥병·만성신장병 — 크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
 - [비만·체중관리](obesity.md) · [다이어트 한약 상담](weight-management-herbal.md)
 - [적게 먹어도 체중이 늘 때 확인할 기록](../answer-guides/weight-gain-despite-small-meals-guide.md)
 
@@ -623,7 +623,7 @@ last_reviewed: 2026-09-21
 
 ### 대사·신장·부종·순환 {#condition-directory-9}
 
-- [건강검진 크레아티닌·eGFR·단백뇨 이상 — 만성콩팥병 초기관리](chronic-kidney-disease.md)
+- [만성콩팥병·만성신장병 초기관리 — 신장기능 저하·단백뇨](chronic-kidney-disease.md)
 - [당뇨가 있는데 미세알부민뇨·단백뇨가 나왔어요](diabetic-kidney-disease.md)
 - [저녁 다리부종·발목붓기](leg-swelling-evening.md)
 - [혈액순환이 안 되는 느낌](poor-circulation-sensation.md)
