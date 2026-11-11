@@ -1,7 +1,7 @@
 ---
 title: 육미지황환·육미지황탕 현대 임상근거 카드
-description: 육미지황환 계열의 당뇨병성 신장질환·인지기능 사람 대상 연구를 원방·가감방·병용치료로 구분해 정리합니다.
-tags: [육미지황환, 임상근거, 당뇨병성신장질환, 인지기능]
+description: 육미지황탕 구강건조증 위약 대조시험, CJASN 만성콩팥병 다기관시험과 인지기능 메타분석의 대상·제형·주요 결과와 출처를 연결합니다.
+tags: [육미지황환, 육미지황탕, 임상근거, 구강건조증, 당뇨병성신장질환, 인지기능]
 status: 검토완료
 last_reviewed: 2026-09-04
 ---
@@ -10,14 +10,20 @@ last_reviewed: 2026-09-04
 > 구성·삼보삼사 배합·임상 감별은 [육미지황환·육미지황탕 상세 문서](../../formulas/liuwei-dihuang-wan.md)에서 먼저 확인할 수 있습니다.
 
 ## 대표 임상영역
-신음허·신허와 연결되는 당뇨병성 신장질환의 단백뇨·신기능과 인지기능을 중심으로 현대 임상근거를 연결합니다.
+육미지황탕 시험 제제, 육미 기본방 가감 프로그램과 환제·탕제 병용연구의 결과를 확인합니다.
+
+| 발표 논문 | 연구 설계와 대상 | 확인한 결과와 상세 설명 |
+|---|---|---|
+| Han 등, *Journal of Ethnopharmacology*, 2016 | 국내 두 기관 이중눈가림 위약 대조시험, 구강건조증 노인 96명·8주 | 전체군의 주관적 건조감은 군 간 차이 없음. 구강 수분도와 하위군 결과를 함께 보고. [시험 제제·평가지표](../../formulas/liuwei-dihuang-wan.md#yukmijihwang-xerostomia-rct) · [PMID 26902832](https://pubmed.ncbi.nlm.nih.gov/26902832/) |
+| Chan 등, *CJASN*, 2023 | 다기관 평가자 눈가림 시험, 당뇨병성 CKD 148명·48주 | 육미 기본방 가감 과립 프로그램 병용 시 연간 eGFR 감소 차이 2.7 mL/min/1.73㎡. [대상·효과 크기](../../formulas/liuwei-dihuang-wan.md#rehmannia6-ckd) · [PMID 37307005](https://pubmed.ncbi.nlm.nih.gov/37307005/) |
+| Hwang 등, *Pharmaceuticals*, 2026 | 인지장애 12개 무작위시험·1,137명의 체계적 문헌고찰 | 병용군의 MMSE 평균 차이 2.34점. 제형·대상 차이와 연구의 비뚤림 위험을 함께 평가. [결과와 근거 확실성](../../formulas/liuwei-dihuang-wan.md#liuwei-cognition-review) · [PMID 42198453](https://pubmed.ncbi.nlm.nih.gov/42198453/) |
 
 ## 초기 당뇨병성 신장질환
 - 2026 systematic review/meta-analysis: **11 RCT·1,007명**. 육미지황환(탕)+기존치료는 기존치료 단독보다 UAER를 유의하게 감소시켰고, serum creatinine과 BUN도 개선했습니다. 전체 임상반응률도 높았습니다. PMID `42051693`, DOI `10.3389/fmed.2026.1802975`.
 - 육미지황환 계열 처방의 당뇨병성 신증 단백뇨 meta-analysis: **14개 연구**. 24시간 요단백과 미세알부민 배설률 감소에서 긍정적인 결과가 보고되었습니다. PMID `30356440`.
 
 ## 인지기능
-- 2026 systematic review/meta-analysis: **12 RCT·1,137명**. 육미지황 계열 병용치료는 MMSE, 일상생활기능과 삶의 질을 개선했습니다. PMID `42198453`.
+2026년 문헌고찰에서 육미지황 계열 병용군의 MMSE 개선이 보고됐습니다. 무작위배정·눈가림과 연구 간 이질성을 고려한 근거 확실성은 낮음에서 중간 수준이었습니다. [원문과 상세 결과](../../formulas/liuwei-dihuang-wan.md#liuwei-cognition-review)
 
 ## 한의학 지식망
 `신허·신음허 → 신장·인지·노화 관련 기능저하 → 육미지황환 → 숙지황·산수유·산약·택사·목단피·복령 → 신기능·인지 outcome`
