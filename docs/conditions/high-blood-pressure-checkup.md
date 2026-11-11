@@ -85,7 +85,7 @@ last_reviewed: 2026-09-06
 
 앉아서 잰 평균 혈압과 일어설 때의 어지럼은 따로 기록합니다. 증상이 생긴 자세와 시간, 복약 시각, 식사나 운동과의 관계를 적어 진료 때 전달합니다. 반복되면 의료진이 누워서 잰 혈압과 일어선 뒤 1분·3분의 혈압을 비교해 기립성 저혈압을 평가할 수 있습니다. 수축기 20 mmHg 또는 이완기 10 mmHg 이상 떨어지는지가 주요 단서입니다. 혈압약이나 한약을 시작하거나 바꾼 뒤 생긴 어지럼이라면 복용 내역과 가정혈압 기록을 함께 확인합니다. [저혈압과 어지럼](low-blood-pressure-symptoms.md) · [2024 유럽심장학회 진료지침](https://academic.oup.com/eurheartj/article/45/38/3912/7741010)
 
-밤에 화장실에 자주 간다면 가정혈압 기록에 [3일 배뇨일지와 복약 시각](nocturia.md#nocturia-medication-diary)을 함께 가져갑니다. 저녁 발목 부종이나 코골이·숨 멎음이 있으면 알려 주세요. 야간 소변량과 수면 상태를 구분하는 데 도움이 됩니다.
+밤에 화장실에 자주 간다면 가정혈압 기록에 [3일 배뇨일지와 복약 시각](nocturia.md#nocturia-medication-diary)을 함께 가져갑니다. 저녁 발목 부종이나 코골이·숨 멎음이 있으면 알려 주세요. 야간 소변량과 수면 상태를 구분하는 데 도움이 됩니다. 수면무호흡이 함께 있으면 [AHI·산소포화도와 치료 경과](obstructive-sleep-apnea.md#ahi-oxygen), [고혈압 동반 환자를 포함한 침치료 직접시험](obstructive-sleep-apnea.md#acupuncture-evidence)을 확인할 수 있습니다.
 
 ### 태극권과 유산소 운동을 직접 비교한 혈압 연구 {#tai-chi-blood-pressure}
 

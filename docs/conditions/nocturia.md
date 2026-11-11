@@ -48,7 +48,7 @@ last_reviewed: 2026-09-06
 |---|---|
 | 낮에도 급하고 조금씩 자주 봄 | [과민성방광](overactive-bladder.md) |
 | 줄기가 약하고 배출이 지연됨 | [전립선비대증](benign-prostatic-hyperplasia.md) |
-| 코골이·숨 멎음·낮 졸림 | [성인 폐쇄성 수면무호흡증](obstructive-sleep-apnea.md) |
+| 코골이·숨 멎음·낮 졸림 | [수면무호흡 검사·AHI와 산소포화도 해석](obstructive-sleep-apnea.md#ahi-oxygen) |
 | 걱정·열감으로 깨고 다시 잠들기 어려움 | [새벽각성](early-awakening.md) |
 | 저녁 다리부종·숨참이나 소변량 변화 | [부종](edema-swelling.md)과 심장·신장 원인 평가 |
 
@@ -91,7 +91,7 @@ last_reviewed: 2026-09-06
 
 [침·전침](../acupuncture-integrated/points-for-urinary.md)을 병행할 때는 밤에 깨는 횟수와 처음 깨기까지 연속으로 잔 시간, 다시 잠드는 데 걸리는 시간, 낮 피로를 함께 기록합니다. 코골이와 무호흡, 저녁 부종, 밤 소변량 증가가 두드러지면 해당 원인의 평가와 관리를 병행합니다. 과민성방광 환자의 야간뇨에 대한 침치료 효과는 현재 연구에서 불확실합니다. [코크란 고찰](https://www.cochrane.org/evidence/CD013519_acupuncture-treating-overactive-bladder-adults) 혈뇨·요폐·발열·심한 숨참이 생기면 일지 관찰만 이어가지 말고 진료를 받습니다.
 
-[비뇨·배뇨 허브의 3일 일지](../pillar/urology-mens-health.md#bladder-diary)에서 기록 항목을 확인하고, 야간 소변량·배출·수면의 평가를 함께 준비할 수 있습니다.
+[비뇨·배뇨 허브의 3일 일지](../pillar/urology-mens-health.md#bladder-diary)에서 기록 항목을 확인하고, 야간 소변량·배출·수면의 평가를 함께 준비할 수 있습니다. 수면무호흡 치료를 병행한다면 [수면·혈압·야간뇨를 함께 비교하는 기록](obstructive-sleep-apnea.md#sleep-bp-nocturia-record)으로 이어집니다.
 
 ## 기존 지식망과 연결
 
