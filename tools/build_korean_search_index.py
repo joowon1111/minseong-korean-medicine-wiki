@@ -4,6 +4,7 @@ import json
 import logging
 import re
 import yaml
+from urllib.parse import quote
 from atomic_output import write_bytes
 
 DOCS = Path("docs")
@@ -70,8 +71,8 @@ def url_from(path):
     if rel == "index.md":
         return "/"
     if rel.endswith("/index.md"):
-        return "/" + rel[:-8]
-    return "/" + rel[:-3] + "/"
+        return "/" + quote(rel[:-8], safe="/")
+    return "/" + quote(rel[:-3], safe="/") + "/"
 
 def path_boost(path):
     rel = path.relative_to(DOCS).as_posix()
