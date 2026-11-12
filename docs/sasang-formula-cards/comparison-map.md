@@ -47,6 +47,8 @@ last_reviewed: 2026-09-22
 | 음허오열·습열 단서 | [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam) | 배뇨·갈증·피부와 지속 열감 |
 | 음허오열·허로 | [화석지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) | 체중·기력·야간 열감·배뇨 변화 |
 
+형방도적산·형방사백산·형방지황탕·양격산화탕은 열감이나 흉격 불편이 겹칠 수 있습니다. [망음병과 흉격열병 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)에서 표리 위치, 배합과 평소 소증의 변화를 나란히 비교합니다.
+
 ## 소음인
 
 | 병증축 | 처방 | 구분의 중심 |
