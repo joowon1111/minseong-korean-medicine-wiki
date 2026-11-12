@@ -17,16 +17,16 @@ last_reviewed: 2026-09-04
 
 | 증상군 | 대표적으로 비교할 보험한약 처방 |
 |---|---|
-| 감기·몸살 | 갈근탕 · 구미강활탕 · 삼소음 · 인삼패독산 · 소청룡탕 · 소시호탕 · 시호계지탕 · 연교패독산 · 형개연교탕 |
-| 기침·가래 | 삼소음 · 소청룡탕 · 이진탕 · [시경반하탕](../formulas/sigyeong-banha-tang.md) · [행소탕](../formulas/haengso-tang.md) · 생맥산 · 자음강화탕 |
-| 비염·콧물 | 소청룡탕 · 형개연교탕 · 연교패독산 · 이진탕 |
+| 감기·몸살 | [갈근탕](../formulas/gegen-tang.md) · [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) · [삼소음](../formulas/renshen-suyin.md) · [인삼패독산](../formulas/renshen-baidu-san.md) · [소청룡탕](../formulas/xiaoqinglong-tang.md) · [소시호탕](../formulas/xiaochaihu-tang.md) · [시호계지탕](../formulas/chaihu-guizhi-tang.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) · [형개연교탕](../formulas/jingjie-lianqiao-tang.md) |
+| 기침·가래 | [삼소음](../formulas/renshen-suyin.md) · [소청룡탕](../formulas/xiaoqinglong-tang.md) · [이진탕](../formulas/erchen-tang.md) · [시경반하탕](../formulas/sigyeong-banha-tang.md) · [행소탕](../formulas/haengso-tang.md) · [생맥산](../formulas/shengmai-san.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
+| 비염·콧물 | [소청룡탕](../formulas/xiaoqinglong-tang.md) · [형개연교탕](../formulas/jingjie-lianqiao-tang.md) · [연교패독산](../formulas/lianqiao-baidu-san.md) · [이진탕](../formulas/erchen-tang.md) |
 | 소화불량 | [반하사심탕](../formulas/banxia-xiexin-tang.md) · [평위산](../formulas/pingwei-san.md) · [향사평위산](../formulas/xiangsha-pingwei-san.md) · [삼출건비탕](../formulas/samchul-geonbi-tang.md) · [이중탕](../formulas/lizhong-tang.md) · [이진탕](../formulas/erchen-tang.md) |
 | 묽은 변·복부 냉감 | [이중탕](../formulas/lizhong-tang.md) · [삼출건비탕](../formulas/samchul-geonbi-tang.md) · [반하사심탕](../formulas/banxia-xiexin-tang.md) |
-| 통증·몸살 | 오적산 · 구미강활탕 · 갈근탕 · 청상견통탕 |
-| 두통·어지럼 | 청상견통탕 · 반하백출천마탕 · 이진탕 · [시호소간탕](../formulas/chaihu-shugan-san.md#insurance-siho-sogan) · 가미소요산 |
-| 피로·허약 | 보중익기탕 · 팔물탕 · 생맥산 · [보허탕](../formulas/boheo-tang.md) · 삼출건비탕 |
-| 스트레스·자율신경 | 가미소요산 · [시호소간탕](../formulas/chaihu-shugan-san.md#insurance-siho-sogan) · 반하후박탕 · [복령보심탕](../formulas/bokryeong-bosim-tang.md) · 생맥산 |
-| 여성·갱년기 | 가미소요산 · 팔물탕 · 자음강화탕 |
+| 통증·몸살 | [오적산](../formulas/wujisan.md) · [구미강활탕](../formulas/jiuwei-qianghuo-tang.md) · [갈근탕](../formulas/gegen-tang.md) · [청상견통탕](../formulas/qingshang-juantong-tang.md) |
+| 두통·어지럼 | [청상견통탕](../formulas/qingshang-juantong-tang.md) · [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md) · [이진탕](../formulas/erchen-tang.md) · [시호소간탕](../formulas/chaihu-shugan-san.md#insurance-siho-sogan) · [가미소요산](../formulas/jiawei-xiaoyao-san.md) |
+| 피로·허약 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) · [팔물탕](../formulas/bazhen-tang.md) · [생맥산](../formulas/shengmai-san.md) · [보허탕](../formulas/boheo-tang.md) · [삼출건비탕](../formulas/samchul-geonbi-tang.md) |
+| 스트레스·자율신경 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) · [시호소간탕](../formulas/chaihu-shugan-san.md#insurance-siho-sogan) · [반하후박탕](../formulas/banxia-houpo-tang.md) · [복령보심탕](../formulas/bokryeong-bosim-tang.md) · [생맥산](../formulas/shengmai-san.md) |
+| 여성·갱년기 | [가미소요산](../formulas/jiawei-xiaoyao-san.md) · [팔물탕](../formulas/bazhen-tang.md) · [자음강화탕](../formulas/ziyin-jianghuo-tang.md) |
 | 산후 회복 | [보허탕](../formulas/boheo-tang.md) |
 | 배뇨 불편 | [오림산](../formulas/orim-san.md) |
 
