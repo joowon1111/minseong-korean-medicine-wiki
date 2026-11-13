@@ -51,12 +51,15 @@ description: 소양인·태음인·소음인·태양인의 표리병증과 망�
 
 | 단계·병증 | 환자가 느끼기 쉬운 모습 | 대표 처방군 |
 |---|---|---|
-| 표병의 비교적 얕은 단계 | 한열왕래, 두통·신체통, 흉협 불편 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
-| 표병의 열·번조 | 두통, 번조, 구갈, 소변·대변 변화 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) · [형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek) |
-| 망음·설사와 소모 | 복통·설사, 신체통, 기력저하 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) · [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) |
+| 소양상풍병 초증·우증 | 오한·신체통과 발열·무한, 한열왕래나 흉협 불편 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
+| 소양상풍병·결흉 | 명치가 단단하게 그득하고 헛구역·숨 가쁨이 겹침 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang) |
+| 망음병·신열두통 | 신열·두통과 설사, 설사 뒤에도 번조와 변폐가 이어지는지 확인 | [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) · [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
+| 망음병·신한복통 | 신한·복통·설사, 냉감·명치의 그득함과 섭취 변화 | [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) · [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
 | 리열·흉격열 | 상열·구갈·번조·변비, 흉격의 열감 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) · [황련청장탕](../sasang-formula-library/hwangryeoncheongjang-tang.md) |
 | 강한 리열 | 심한 구갈·변폐·번조, 열증 심화 | [현삼백호탕](../sasang-formula-library/hyeonsambaekho-tang.md) · [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) |
 | 음허오열·하소 | 오후·야간 열감, 소모, 하지무력·배뇨 변화 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) · [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam) · [화석지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) |
+
+[형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek)은 두통·번조와 배설 변화가 겹칠 때 후대 수록형의 구성과 출전을 비교할 수 있습니다. [소양인 주요 처방 감별표](../sasang-formula-cards/comparison-map.md#soyang-chestbinding-differential)에서 결흉·망음·흉격열의 문진 단서를 함께 확인합니다. [소양상풍병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) · [망음병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062)
 
 ### 망음과 음허오열의 차이
 
