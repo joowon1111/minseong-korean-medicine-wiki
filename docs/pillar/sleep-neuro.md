@@ -17,6 +17,7 @@ last_reviewed: 2026-09-19
 | 잠들기 어렵거나 자주 깸 | [불면증·수면장애](../conditions/insomnia.md) |
 | 새벽에 깨서 다시 잠들기 어려움 | [새벽각성](../conditions/early-awakening.md) |
 | 충분히 잔 듯해도 피곤하거나 낮에 졸림 | [숙면·수면회복감](../conditions/nonrestorative-sleep.md) |
+| 아침 턱이 뻐근하거나 수면 중 갈리는 소리가 들림 | [이갈이·이악물기](../conditions/jaw-clenching-bruxism.md#bruxism-assessment) · [코골이·숨 멎음](../conditions/obstructive-sleep-apnea.md#symptoms) |
 | 걱정과 긴장이 지속됨 | [불안·과도한 걱정](../conditions/anxiety.md) |
 | 의욕·즐거움이 줄고 수면·식욕도 달라짐 | [우울감·우울증](../conditions/depression.md) |
 | 억울함·분노와 가슴 답답함·상열감이 반복됨 | [화병·울화·가슴답답함](../conditions/hwabyeong.md) |
