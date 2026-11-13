@@ -26,7 +26,7 @@ last_reviewed: 2026-09-22
 
 | 비교 | 공통 골격 | 구성·병증의 갈림점 |
 |---|---|---|
-| [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) ↔ [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) | 건율·의이인·나복자·길경·마황·맥문동·천문동·석창포·오미자 | 기본 조위·담습 ↔ 산조인·용안육·원지와 중소·하지무력·심신 회복 |
+| [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) ↔ [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) | 건율·의이인·나복자·길경·마황·맥문동·석창포·오미자 | 기본 조위·담습 ↔ 산조인·용안육·원지와 중소·하지무력·심신 회복 |
 | [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) ↔ [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) | 승청·폐원·안신 골격 | 전신 승청·하지 기능 ↔ 행인과 기침·담·호흡의 비중 |
 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) ↔ [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) | 갈근·고본·황금·길경·나복자·백지·승마 | 간열폐조의 기본축 ↔ 대황 추가와 변비·복만·강한 정체 |
 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) ↔ [나복자승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi) | 갈근·대황·황금·길경·백지·승마 | 열·구갈·변폐 중심 ↔ 나복자 추가와 식체·식후 복만 |
