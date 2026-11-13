@@ -84,6 +84,23 @@ last_reviewed: 2026-09-22
 | 리한·복만·황색 변화 | [십이미관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-sibimi-gwanjung) | 복만·황색 변화·부종과 간담도 감별 |
 | 리한·흉복통·배뇨 변화 | [관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gwanjung) | 흉복통·배뇨불리·사지권태 |
 
+### 소음인 주요 처방 8종의 1첩과 감별 {#soeumin-eight-formulas}
+
+| 처방 | 증상이 겹칠 때 가르는 단서 | 배합에서 먼저 볼 본초 | 1첩 중량 합계 |
+|---|---|---|---:|
+| [황기계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hwanggigyeji) | 발열·오한과 자한이 겹치는 망양초증 | 계지·백작약에 황기·백하수오 | 40 g |
+| [보중익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-bojungikgi) | 자한·오열에 복만·대변비조·번조가 겹치는 망양병중증 | 인삼·황기의 비중을 높이고 백출·진피·곽향·소엽 | 42.4 g 또는 44 g |
+| [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) | 같은 망양병중증에서 보기와 계지·백작약 배합을 함께 살필 때 | 인삼·황기·계지·백작약, 관계·백하수오 | 48 g |
+| [팔물군자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-palmulgunja) | 신열·무한·복만·굳은 변·번조가 겹치는 울광병중증 | 인삼·황기·백출에 당귀·백작약·천궁 | 36 g |
+| [향부자팔물탕](hyangbujapalmul-tang.md) | 울광병중증의 지침 후보. 흉복 답답함·두통과 긴장·소화 변화도 함께 문진 | 향부자·당귀·백작약의 비중이 큼 | 44 g |
+| [곽향정기산](gwakhyangjeonggi-san.md) | 태음병심하비만증에서 오심·구토와 한습·복만을 살핌 | 곽향·소엽에 창출·반하·대복피 | 30 g |
+| [향사양위탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangsayangwi) | 태음병심하비만증에서 식후 정체와 식욕 저하를 살핌 | 인삼·백출과 산사육·사인·백두구 | 44 g |
+| [백하오이중탕](baekhao-ijung-tang.md) | 태음병복만자리증에서 복통·설사·복만과 냉감을 살핌 | 백하수오·백출·백작약에 계지·포건강 | 48 g |
+
+중량 합계는 지침의 약량을 1돈당 4 g으로 환산한 값입니다. 생강 3쪽·대추 2개는 단위가 달라 합계에서 제외하고 각 구성표에 표기했습니다. 백하오이중탕 기본방에는 이 두 보조 약재가 기재되어 있지 않습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
+
+**발열·복만·변비**가 겹치면 현재 무한인지 자한인지와 오한이 어떻게 달라졌는지를 묻습니다. **복통·설사·명치 답답함**이 겹치면 배변이 먼저 무너졌는지, 식후 명치 답답함과 오심이 앞섰는지를 확인합니다. 곽향정기산과 향사양위탕은 모두 태음병심하비만증의 후보이며, 표의 본초 차이는 환자의 소증과 현증을 다시 확인하는 데 활용합니다.
+
 ## 태양인
 
 | 병증축 | 처방 | 구분의 중심 |

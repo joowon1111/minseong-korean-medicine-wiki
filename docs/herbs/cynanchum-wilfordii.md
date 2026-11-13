@@ -41,6 +41,8 @@ last_reviewed: '2026-09-22'
 | [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) | 3.75 g | 승양익기축에 부자의 회양을 더한 깊은 단계 | 냉감·쇠약·사지 증후와 안전관찰 |
 | [십이미관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-sibimi-gwanjung) | 3.75 g | 기체·복만·리한을 다루는 다약재 구조의 보익축 | 복만·대변·냉감·섭취 저하 |
 
+위 약량은 각 처방의 후대 수록형입니다. 백하오이중탕의 한의표준임상진료지침 기준 표에서는 백하수오 8 g을 제시합니다.
+
 같은 백하수오가 들어 있어도 백하오이중탕의 **태음병 리한**, 향부자팔물탕의 **기체·사려상비**, 승양익기계의 **망양 뒤 회복**은 같은 단계가 아닙니다.
 
 ## 포제·품질과 조제
