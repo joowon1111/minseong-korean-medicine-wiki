@@ -23,11 +23,28 @@ last_reviewed: 2026-09-22
 | 병후체허·폐원 회복 | [조리폐원탕](../sasang-formula-library/joripyewon-tang.md) | 회복기 기침·호흡·식욕·활동 |
 | 승청·폐조 | [경험승청탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-gyeongheomseungcheong) | 호흡·건조·수면·심계와 회복 지연 |
 | 간수열리열 | [열다한소탕](yeoldahanso-tang.md) | 열·갈증·다한·피부와 대변 건조 |
-| 간수열리열·양독 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) | 두면·인후·피부 열과 갈증·대변 |
+| 간열병초증·후대 양독 수록형 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) | 두면·인후·피부 열과 갈증·대변 |
 | 리열·조열·심신 | [청심연자탕](cheongsimyeonja-tang.md) | 피로·현훈·심번·수면·심계 |
 | 강한 리열·정체 | [청폐사간탕](cheongpyesagan-tang.md) | 번갈·변비·복만, 대황 포함 |
 | 리열·승기 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) | 열·구갈과 복만·변폐 |
 | 리열·식체·정체 | [나복자승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi) | 식후 복만·식체와 대변 정체 |
+
+### 태음인 주요 처방 8종의 1첩과 감별 {#taeeumin-eight-formulas}
+
+| 처방 | 병증과 문진의 갈림점 | 배합에서 먼저 볼 본초 | 1첩 약재량 |
+|---|---|---|---:|
+| [태음조위탕](taeeumjowi-tang.md) | 조한병증. 식후 명치의 그득함, 복만·설사, 소변 감소·부종 | 건율·의이인·나복자와 마황·길경 | 52 g |
+| [조위승청탕](jowiseungcheong-tang.md) | 조한병우증. 조한병증에 두근거림·수면장애·불안이 겹침 | 태음조위탕 골격에 천문동·원지·산조인·용안육, 나복자 감량 | 66 g |
+| [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md) | 후대 흉복통 수록형. 통증과 발한불리·담·호흡 변화의 관계를 살핌 | 마황·행인·길경과 건율·의이인·나복자 | 56.25 g + 건율 7개 |
+| [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) | 간열병초증. 신열·발한과 얼굴·손발 홍조, 눈 통증·비강 건조 | 갈근·황금·고본·길경·승마·백지 | 36 g |
+| [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) | 간열병우증. 조열·다한·구갈에 복만·변폐 등 배변 변화 | 갈근·황금과 대황 8 g | 44 g |
+| [열다한소탕](yeoldahanso-tang.md) | 간열폐조병의 조열병증. 다뇨·지속 갈증과 피부·대변 건조 | 갈근·황금·고본과 길경·나복자 | 48 g |
+| [청폐사간탕](cheongpyesagan-tang.md) | 조열병증에서 굳은 변·배변 곤란과 복만의 경과를 함께 살핌 | 열다한소탕의 7미에 대황 4 g | 52 g |
+| [청심연자탕](cheongsimyeonja-tang.md) | 간열폐조 문맥에서 조열과 심번·심계·수면 변화를 함께 살핌 | 연자육·산약에 천문동·맥문동과 안신약 | 53.2 g |
+
+마황정통탕은 『동의사상신편』 수록량입니다. 나머지 7종은 한의표준임상진료지침의 약량을 1돈당 4 g으로 환산했습니다. 갈근해기탕의 동명 8미형과 태음조위탕·청심연자탕의 후대 수록량은 각 상세 문서에서 볼 수 있습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
+
+두근거림과 불면이 겹치면 식후 그득함·설사·부종과 함께 변했는지, 갈증·다뇨·건조와 함께 변했는지 묻습니다. 갈근을 공유하는 리열 처방은 **두면·눈·코의 열증**, **지속 갈증과 건조**, **변폐와 복만**의 경과를 나누어 비교합니다.
 
 ## 소양인
 

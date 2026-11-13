@@ -31,5 +31,7 @@ description: 사상처방 용량 지문 표 — 민성 한의학 아카이브의
 | 태음인 | [태음조위탕(太陰調胃湯)](../sasang-formula-cards/taeeumjowi-tang.md) | 52.5 g | 건율·의이인 (11.25 g) |
 | 태음인 | [행인승청탕(杏仁升淸湯)](../sasang-formula-library/haenginseungcheong-tang.md) | 65.625 g | 건율·의이인 (11.25 g) |
 
+> 태음조위탕·조위승청탕·열다한소탕·청폐사간탕·청심연자탕은 이 표에서 『동의사상신편』 수록량으로 비교합니다. [지침 기준 1첩 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)도 함께 볼 수 있습니다.
+
 > 범위표기(예: 3.75–7.5 g), 개수단위(예: 건율 7개)처럼 단일 g값이 아닌 항목은 총량 계산에서 제외했습니다.
 

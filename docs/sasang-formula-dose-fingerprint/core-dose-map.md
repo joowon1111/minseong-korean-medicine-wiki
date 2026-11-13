@@ -21,6 +21,8 @@ description: 처방별 고용량 핵심약재 — 민성 한의학 아카이브�
 - 관계: **7.5 g** (16.7%)
 - 백출: **7.5 g** (16.7%)
 
+태음조위탕·조위승청탕·열다한소탕·청폐사간탕·청심연자탕의 아래 수치는 『동의사상신편』 수록량입니다. [지침 기준 1첩 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)에서 기준이 다른 용량을 확인할 수 있습니다.
+
 ## [나복자승기탕(蘿菔子承氣湯)](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi)
 - **정량 가능한 총량:** 48.75 g
 - 갈근: **15 g** (30.8%)
