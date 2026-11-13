@@ -136,6 +136,8 @@ last_reviewed: 2026-09-22
 
 ### 태양인 두 처방은 무엇이 다른가? {#taeyangin-formula-difference}
 
+[태양인 두 처방의 1첩과 감별](../sasang-formula-cards/comparison-map.md#taeyangin-two-formulas)에서 원자료의 약재 표기와 두 병증의 문진 단서를 확인할 수 있습니다.
+
 오가피장척탕은 요척·하지·보행 기능을, 미후등식장탕은 연하·구토·섭취 기능을 중심으로 읽습니다. 두 문제가 함께 보이면 하나의 처방명으로 묶지 않고 각각의 병증·영양·탈수·활동 상태를 평가합니다. [해역과 열격 감별](../sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md)과 [태양인 상세 카드](../sasang-clinical-detail/taeyangin.md#12)를 함께 확인합니다.
 
 ## 동명 처방과 변방을 구별하는 법 {#formula-source-check}
