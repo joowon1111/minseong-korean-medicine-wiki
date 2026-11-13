@@ -53,6 +53,22 @@ class ArchiveToolsTests(unittest.TestCase):
             self.assertNotIn('계지 7.5 g',second_text)
             self.assertTrue(all(section['url'].startswith(source+'#') for section in first['sections']))
 
+    def test_per_decoction_table_uses_grams_and_preserves_volume(self):
+        body = (
+            '## 시험탕 {#example}\n\n'
+            '### 1첩 구성·용량 {#example-dose}\n\n'
+            '| 본초 | 원문 분량 | 1첩 약재량 | 역할 |\n'
+            '|---|---|---|---|\n'
+            '| 오가피 | 4돈 | 16 g | 근골 |\n'
+            '| 곽향 | 3푼 또는 5푼 | 1.2 g 또는 2 g | 화습 |\n'
+            '| 교맥쌀 | 반 숟갈 | 반 숟갈 | 보조 |\n\n'
+            '### 후대 수록형\n\n'
+            '| 본초 | 용량 |\n|---|---|\n| 오가피 | 15 g |\n'
+        )
+        facts = builder.formula_facts(body, list(builder.sections(body)), [])
+        composition = next(fact['value'] for fact in facts if fact['label'] == '구성·약량')
+        self.assertEqual(composition, '오가피 16 g · 곽향 1.2 g 또는 2 g · 교맥쌀 반 숟갈')
+
     def test_complete_catalog_resolves_every_group_and_all_formula_sections(self):
         compare,_=builder.build()
         cards=[c for c in compare['cards'] if c['kind']=='formula']

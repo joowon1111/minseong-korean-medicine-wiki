@@ -1,21 +1,25 @@
 ---
+search_title: "사상체질 한약처방 찾기 | 체질별 대표 처방과 병증"
 title: 사상체질 한약처방 찾기
 tags: [사상의학, 한약처방, 체질병증, 망음, 망양, 위완수한표한]
 status: 검토완료
 last_reviewed: 2026-09-22
-description: 소양인·태음인·소음인·태양인의 표리병증과 망음·망양·위완수한표한·태음병의 의미를 이해하고 사상처방을 비교합니다.
+description: "사상체질 한약처방을 소양인·소음인·태음인·태양인의 소증과 표리병증으로 찾습니다. 체질별 대표 처방, 유사 처방 감별, 1첩 용량표와 동의수세보원 출전으로 연결합니다."
 ---
 # 사상체질 한약처방 찾기
 
-처방을 원전과 함께 읽으려면 [『동의수세보원』 병론·처방 해설](../classics/donguisusebowon.md#clinical-routes)과 [병론 사이의 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)를 확인하세요. [사람과 현재의 증을 함께 파악하는 구절](../classics/donguisusebowon/original.md#person-and-pattern)도 함께 읽을 수 있습니다.
+사상체질 한약처방은 **평소 소화·대변·땀·수면 같은 소증과 현재 병증**을 함께 살펴 비교합니다. 같은 체질이라도 현재 병증의 표리·한열과 진행 정도에 따라 살피는 처방군이 달라집니다.
 
-사상처방은 체질 이름만으로 고르지 않습니다. **평소 소증 → 현재 체질병증 → 표리·한열 → 순증·역증과 중증도 → 처방 → 회복 반응**의 순서로 읽습니다.
+## 체질별 대표 처방과 1첩 용량 {#formula-quick-links}
 
-[체질별 한약처방](../sasang-formula-cards/index.md)은 소양인·태음인·소음인·태양인의 처방을 각각 병증 흐름 안에 배치합니다. 각 처방은 적용 단계·핵심 증후·감별·구성·관찰·안전과 근거 한계로 읽으며, 태양인은 현존 자료의 한계 안에서 확인되는 처방만 다룹니다.
+| 체질 | 먼저 비교할 병증 | 대표 처방 | 용량과 감별 |
+|---|---|---|---|
+| 소양인 | 소양상풍·결흉·망음·흉격열 | 형방사백산·형방도적산·형방지황탕·형방패독산·양격산화탕 | [5종 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) |
+| 소음인 | 울광·망양과 태음병·리한 | 황기계지탕·팔물군자탕·향사양위탕·백하오이중탕 등 | [8종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas) |
+| 태음인 | 위완수한표한과 간수열리열 | 태음조위탕·조위승청탕·갈근해기탕·열다한소탕 등 | [8종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas) |
+| 태양인 | 해역과 열격 | 오가피장척탕·미후등식장탕 | [2종 비교](../sasang-formula-cards/comparison-map.md#taeyangin-two-formulas) |
 
-```text
-체질 확인 → 평소 소화·대변·땀·수면 → 현재 표리병증 → 순역·중증도 → 처방 → 소증 회복 재평가
-```
+[체질별 한약처방 목록](../sasang-formula-cards/index.md)에서 더 많은 처방과 명명된 변방을 볼 수 있습니다. [『동의수세보원』 병론·처방 해설](../classics/donguisusebowon.md#clinical-routes)과 [원전 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)에서 병론과 출전을 확인하고, [1첩 용량의 출처와 환산 기준](../sasang-formula-cards/comparison-map.md#dose-source)에서 표의 수치를 대조할 수 있습니다.
 
 ## 처방군을 비교하는 의사결정 지도 {#decision-map}
 

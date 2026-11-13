@@ -80,6 +80,8 @@ last_reviewed: 2026-10-02
 
 ## 승양익기탕(升陽益氣湯) {#soeum-seungyangikgi}
 
+### 1첩 구성·용량 {#soeum-seungyangikgi-dose}
+
 | 본초 | 지침의 1첩 분량 | 1첩 약재량 | 배합에서의 역할 |
 |---|---:|---:|---|
 | 인삼 | 2돈 | 8 g | 기허를 받치고 식사·활동 회복을 살피는 보기약 |
@@ -227,6 +229,8 @@ last_reviewed: 2026-10-02
 
 ## 황기계지탕(黃芪桂枝湯) {#soeum-hwanggigyeji}
 
+### 1첩 구성·용량 {#soeum-hwanggigyeji-dose}
+
 | 본초 | 지침의 1첩 분량 | 1첩 약재량 | 배합에서의 역할 |
 |---|---:|---:|---|
 | 계지 | 3돈 | 12 g | 표의 한열과 몸살을 살피며 백작약과 영위 조화를 이룸 |
@@ -248,6 +252,8 @@ last_reviewed: 2026-10-02
 [『동의사상신편』 P0018135](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018135&tempLang=ko)는 1돈을 3.75 g으로 표시하는 수록형이며, 약명에 하수오(何首烏)로 적힌 항목이 있어 위 지침의 백하수오와 구별해 확인합니다. 식은땀과 실신·흉통·심한 쇠약이 겹치면 순환·감염 등 원인 평가를 우선합니다. [소음인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 
 ## 팔물군자탕(八物君子湯) {#soeum-palmulgunja}
+
+### 1첩 구성·용량 {#soeum-palmulgunja-dose}
 
 | 본초 | 지침의 1첩 분량 | 1첩 약재량 | 배합에서의 역할 |
 |---|---:|---:|---|
@@ -291,6 +297,8 @@ last_reviewed: 2026-10-02
 
 ## 보중익기탕(補中益氣湯) {#soeum-bojungikgi}
 
+### 1첩 구성·용량 {#soeum-bojungikgi-dose}
+
 | 본초 | 지침의 1첩 분량 | 1첩 약재량 | 배합에서의 역할 |
 |---|---:|---:|---|
 | 인삼 | 3돈 | 12 g | 기허를 받치고 식사·활동 회복을 살피는 보기약 |
@@ -314,6 +322,8 @@ last_reviewed: 2026-10-02
 [『동의사상신편』 P0018133](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018133&tempLang=ko)은 곽향·소엽을 각각 1.875 g으로 기재하고 주치에 망양초증을 싣습니다. 일반 방제 [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 승마·시호 배합과 비교할 때에도 출전과 실제 조제 구성을 확인합니다. 재진에서는 땀 뒤 기력, 혈압·심계·부종, 식사와 배변을 함께 살핍니다. [소음인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 
 ## 향사양위탕(香砂養胃湯) {#soeum-hyangsayangwi}
+
+### 1첩 구성·용량 {#soeum-hyangsayangwi-dose}
 
 | 본초 | 지침의 1첩 분량 | 1첩 약재량 | 배합에서의 역할 |
 |---|---:|---:|---|
