@@ -131,7 +131,7 @@ last_reviewed: 2026-09-22
 
 중량 합계는 지침의 약량을 1돈당 4 g으로 환산한 값입니다. 생강 3쪽·대추 2개는 단위가 달라 합계에서 제외하고 각 구성표에 표기했습니다. 백하오이중탕 기본방에는 이 두 보조 약재가 기재되어 있지 않습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
-**발열·복만·변비**가 겹치면 현재 무한인지 자한인지와 오한이 어떻게 달라졌는지를 묻습니다. **복통·설사·명치 답답함**이 겹치면 배변이 먼저 무너졌는지, 식후 명치 답답함과 오심이 앞섰는지를 확인합니다. 곽향정기산과 향사양위탕은 모두 태음병심하비만증의 후보입니다. [계지반하생강탕까지 3종의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas)에서 식후 명치 답답함과 오심·구토가 겹치는 경우를 비교합니다.
+**발열·복만·변비**가 겹치면 현재 무한인지 자한인지와 오한이 어떻게 달라졌는지를 묻습니다. [울광병중증·망양병중증의 처방 4종과 1첩 용량](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas)에서 팔물군자탕·향부자팔물탕과 보중익기탕·승양익기탕을 비교할 수 있습니다. **복통·설사·명치 답답함**이 겹치면 배변이 먼저 무너졌는지, 식후 명치 답답함과 오심이 앞섰는지를 확인합니다. 곽향정기산과 향사양위탕은 모두 태음병심하비만증의 후보입니다. [계지반하생강탕까지 3종의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas)에서 식후 명치 답답함과 오심·구토가 겹치는 경우를 비교합니다.
 
 ## 태양인
 
