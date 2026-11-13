@@ -18,6 +18,8 @@ tags: [방제학, 인진호탕, 보험한약]
 
 [오령산](wuling-san.md)이 수분 분포와 소변 변화에 초점을 둔다면, 인진호탕은 황달에 열과 복부 상태를 함께 봅니다. 황달이 새로 생기거나 발열·복통이 동반되면 담도 폐쇄·담관염 등 원인 평가가 필요합니다. [질병관리청 급성 담관염 지침](https://www.kdca.go.kr/bbs/kdca/263/307009/download.do)
 
+용담사간탕도 청열·이습의 방향을 갖지만, 인진호탕은 인진호·치자·대황으로 습열발황과 복부의 그득함을 함께 다루는 배합입니다. [간담실화·습열과 습열발황의 비교](../zangfu-pattern-network/liver-gallbladder.md#biliary-pattern-formulas)
+
 ## 건강보험 기준과 제형 {#insurance-formula}
 
 별표 2의 출전은 《방약합편》이며, 기준 약재는 **인진호·대황·치자**입니다. 2026년 11월 9일 시행 고시의 별표 1에는 **산제**가 등재돼 있습니다. 진료일의 급여목록에서 제품명·제형·제품코드를 확인합니다. [보건복지부 고시 별표 1·2](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000287748) · [건강보험 한약제제 목록](../herbal-integrated/insurance-herbal.md#insurance-formula-list)

@@ -1,7 +1,7 @@
 ---
 title: 소화·비위 한의학 허브
-description: 간·담낭·췌장·위·소장·대장의 역할과 질환·검사를 구분하고 소화불량·지방간·배변 문제의 본초·방제·침구치료·임상근거를 연결합니다.
-tags: [Pillar, 소화, 비위, 간, 담낭, 췌장, 위, 소장, 대장, 본초, 방제, 한의학지식망]
+description: 간·담낭·췌장·위·장의 역할과 담낭용종·슬러지·담석·담낭염의 감별, 소화불량·배변 문제의 한의학 변증과 치료 근거를 정리합니다.
+tags: [Pillar, 소화, 비위, 간, 담낭, 담낭용종, 담낭슬러지, 담석, 담낭염, 췌장, 위, 소장, 대장, 본초, 방제, 한의학지식망]
 status: 검토완료
 last_reviewed: 2026-09-06
 ---
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-06
 | 기관 | 소화에서 맡는 역할 | 관련 불편과 다음 안내 |
 |---|---|---|
 | 간 | 담즙을 만들고 흡수한 영양소를 처리·저장 | [지방간](../conditions/fatty-liver.md) · [간수치 상승](../conditions/elevated-liver-enzymes.md); 소화불편만으로 간질환을 판단하지 않음 |
-| 담낭·담도 | 담즙을 저장·농축하고 식사 때 소장으로 보냄 | 오른쪽 윗배 통증·황달·발열은 [담낭·담도 평가](#hepatobiliary-care)로 연결 |
+| 담낭·담도 | 담즙을 저장·농축하고 식사 때 소장으로 보냄 | 오른쪽 윗배 통증·황달·발열은 [담낭·담도 평가](#gallbladder-findings)로 연결 |
 | 췌장 | 탄수화물·단백질·지방을 분해하는 효소를 소장에 공급 | 등으로 뻗는 상복부 통증, 지방변·체중감소는 [췌장·소화효소 평가](#pancreatic-care) |
 | 위 | 음식을 받아 섞고 위산·효소와 함께 소화한 뒤 소장으로 배출 | [식후불편·조기포만](../conditions/functional-dyspepsia.md) · [위염·속쓰림](../conditions/gastritis-symptoms.md) |
 | 소장 | 십이지장·공장·회장으로 이어지며 소화와 영양소 흡수의 중심 | 지속 설사·체중저하·흡수 문제는 [설사 원인 평가](../conditions/diarrhea.md)와 영양 상태를 함께 확인 |
@@ -30,6 +30,7 @@ last_reviewed: 2026-09-06
 | 불편함 | 대표 문서 |
 |---|---|
 | 먹고 나면 더부룩하고 명치가 답답함 | [소화불량](../conditions/dyspepsia.md) · [기능성소화불량](../conditions/functional-dyspepsia.md) |
+| 오른쪽 윗배 통증 또는 초음파에서 담낭 이상 소견 | [담낭용종·슬러지·담석·담낭염](#gallbladder-findings) · [담도성 통증과 검사](#biliary-pain-assessment) |
 | 배가 아프거나 반복적으로 불편함 | [복통](../conditions/abdominal-pain.md) |
 | 배에 가스가 차고 빵빵함 | [복부팽만](../conditions/bloating.md) · [장내가스](../conditions/abdominal-gas.md) |
 | 조금만 먹어도 배부름 | [조기포만 안내](../answer-guides/early-satiety-guide.md) · [성인 식욕저하](../conditions/poor-appetite-adult.md) |
@@ -113,14 +114,53 @@ last_reviewed: 2026-09-06
 | 함께 살필 병증·목표 | 연결 본초 | 비교할 한약·방제와 구분점 |
 |---|---|---|
 | 긴장·흉협 답답함과 소화·수면 변동 | [시호](../herbs/bupleurum.md)·[백작약](../herbs/white-peony.md)·[당귀](../herbs/angelica.md) | [시호소간산](../formulas/chaihu-shugan-san.md)·[소요산](../formulas/xiaoyao-san.md); 기체와 혈허·비허의 동반을 구분 |
-| 습열·열감과 황달 관련 전통 배합 | [인진](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md)·[황금](../herbs/scutellaria.md) | 인진호탕의 퇴황 배합은 [인진 문서](../herbs/artemisia-capillaris.md)에서 확인; 황달의 원인·담도 상태를 먼저 평가 |
+| 습열·열감과 황달 관련 전통 배합 | [인진](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md)·[대황](../herbs/rhubarb.md) | [인진호탕의 퇴황 배합](../formulas/injin-ho-tang.md#formula-composition); 황달의 원인·담도 상태를 먼저 평가 |
 | 간담실화·습열의 전통 병증 | [용담](../herbs/gentian-root.md)·황금·치자·[택사](../herbs/alisma.md) | [용담사간탕](../formulas/longdan-xiegan-tang.md); ‘간담’ 병위와 간수치·담석 적응증을 구분 |
 | 담습·식후팽만·식욕저하가 동반 | 반하·진피·복령·백출 | [이진탕](../formulas/erchen-tang.md)·평위산·육군자탕; 소화·수분정체·허약의 비중에 맞춰 비교 |
 | 소양병의 흉협고만·식욕저하·구역 | 시호·황금·반하·인삼 | [소시호탕](../formulas/xiaochaihu-tang.md); 고전 증후와 연구 제제·대상을 확인하고 현재 간염 치료와 조율 |
 
-담석·담낭염·담관폐쇄는 약재의 ‘간담’ 귀경만으로 치료를 정하지 않습니다. 오른쪽 윗배 통증에 발열·황달·반복 구토, 짙은 소변·회색 변이 동반되면 신속히 평가합니다. [NIDDK 담석 증상·합병증](https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/symptoms-causes)
-
 처방 전에는 기존 간질환, 음주, 처방약·한약·보충제의 구성과 시작 시점, 검사 추세를 공유합니다. [한약 간 안전성 자료](../herbal-integrated/safety.md#liver-safety-evidence)와 [간 영양제·한약 병용](../conditions/liver-supplements-herbal.md)에서 제형·병용 조건을 확인할 수 있습니다.
+
+#### 담낭용종·슬러지·담석·담낭염은 어떻게 다른가요? {#gallbladder-findings}
+
+담낭(쓸개)은 오른쪽 윗배의 간 아래에 있습니다. 간에서 만든 담즙을 저장·농축했다가 식사 뒤 내보냅니다. 담낭의 둥근 끝은 **저부**, 관으로 좁아지는 쪽은 **목**입니다. 담낭관이 간에서 내려오는 총간관과 만나 총담관이 되고, 담즙은 이 길을 따라 십이지장으로 들어갑니다. 돌이 어느 곳을 막는지에 따라 나타나는 문제가 달라집니다. [NHS 담낭과 담도 해부](https://www.nhs.uk/tests-and-treatments/gallbladder-removal/what-is-gallbladder-removal/)
+
+![담낭 저부·몸통·목, 담낭관·총간관·총담관과 십이지장의 연결](../assets/learning/anatomy-diagrams/gallbladder-bile-ducts.svg)
+
+| 소견 | 초음파·증상에서 볼 단서 | 다음에 확인할 것 |
+|---|---|---|
+| **담낭용종** | 담낭 벽에서 안쪽으로 돌출합니다. 대개 자세를 바꿔도 자리에 남으며 뒤쪽 음향 그림자가 없습니다. 콜레스테롤 용종 같은 양성 병변이 흔하고 검진에서 우연히 발견되는 경우가 많습니다. | 최대 크기·위치·모양, 인접 벽 비후와 이전 영상에서의 변화를 비교합니다. |
+| **담낭 슬러지** | 담즙 속 입자가 가라앉은 상태입니다. 흔히 중력 방향으로 층을 이루고 체위 변화에 천천히 움직이며 음향 그림자는 없습니다. 뭉친 슬러지는 용종처럼 보일 수 있습니다. | 시간이 지나며 사라지거나 지속될 수 있고 일부는 담석으로 진행합니다. 통증·염증·췌장염 동반 여부에 따라 평가합니다. |
+| **담석** | 전형적으로 밝은 돌 뒤에 음향 그림자가 생기고 체위에 따라 움직입니다. 목에 걸린 돌은 움직이지 않을 수 있습니다. | 우연히 발견된 무증상 담석과 담도성 통증을 반복하는 담석의 치료 판단은 다릅니다. |
+| **급성 담낭염** | 대개 담낭관 폐쇄 뒤 생기는 염증입니다. 오른쪽 윗배의 지속통·압통과 발열, 초음파의 벽 비후·주변 액체 등이 단서입니다. | 증상·진찰·혈액검사·영상을 종합해 신속히 평가합니다. |
+| **총담관결석·담관염** | 총담관이 막히면 황달·짙은 소변·옅은 변이 생길 수 있습니다. 감염이 겹치면 발열·오한이 나타날 수 있고, 결석은 췌장염도 일으킬 수 있습니다. | 담관 확장과 빌리루빈·간담도 수치를 확인합니다. 담관염이 의심되면 응급 평가가 필요합니다. |
+
+[대한복부영상의학회 2025 담낭용종 권고](https://doi.org/10.3348/kjr.2024.0914) · [슬러지·미세담석 국제 합의](https://pmc.ncbi.nlm.nih.gov/articles/PMC10511955/) · [슬러지의 자연 경과](https://pmc.ncbi.nlm.nih.gov/articles/PMC8341470/) · [WSES 급성 담낭염 지침](https://pubmed.ncbi.nlm.nih.gov/33153472/)
+
+#### 담낭용종은 몇 mm부터 추적하나요? {#gallbladder-polyp-followup}
+
+대한복부영상의학회 2025 권고에서 **우연히 발견된 6 mm 미만 용종**은 우려 소견이 없으면 추적을 권하지 않습니다. **6–9 mm**는 나이와 모양에 맞춰 추적합니다. 우려 소견이 없는 50세 미만은 연 1회씩 5년, 우려 소견이 있는 50세 미만이나 우려 소견이 없는 50세 이상은 첫해 6개월 간격, 이후 4년간 연 1회입니다. 50세 이상에서 우려 소견이 있으면 추적과 수술을 함께 검토합니다. 5년간 안정적이면 추적 종료를 고려할 수 있습니다. 우려 소견은 넓은 바닥으로 붙는 모양, 인접 담낭벽 비후, 뚜렷한 성장입니다. **10–14 mm**는 이런 소견과 수술 가능 여부를 함께 판단하고, **15 mm 이상**은 수술 가능한 환자에서 담낭절제술을 권고합니다. 원발성 경화성 담관염이나 담낭암이 의심되는 소견은 별도로 평가합니다. [대한복부영상의학회 권고 KQ 12·16·17](https://doi.org/10.3348/kjr.2024.0914)
+
+초음파에서 1–2 mm 차이가 보이면 이전 영상과 같은 위치의 병변인지, 가장 긴 지름을 잰 단면이 맞는지 함께 확인합니다. 여러 개라면 가장 큰 병변의 위치와 모양을 비교합니다. 뚜렷하게 커졌거나 추적 방침이 달라지는 크기 구간에 들어섰다면 작은 차이라도 이전 영상을 대조해 판단합니다. [크기 측정과 성장 판단 KQ 1·4](https://doi.org/10.3348/kjr.2024.0914)
+
+#### 오른쪽 윗배 통증은 무엇부터 확인하나요? {#biliary-pain-assessment}
+
+전형적인 담도성 통증은 오른쪽 윗배나 명치에서 시작해 수십 분에서 수시간 이어지고, 일상을 중단할 만큼 아프거나 등·오른쪽 견갑골 아래로 퍼질 수 있습니다. 수초간 스치는 뻐근함, 누르거나 몸을 돌릴 때 재현되는 통증, 배변 뒤 달라지는 통증은 각각 [늑골·복벽과 옆구리](../conditions/flank-pain.md), 위장관 등 다른 원인도 함께 살핍니다. 초음파에서 우연히 보인 용종은 통증의 지속시간·동반 증상과 따로 판단합니다. [Rome V 담도성 통증 기준](https://theromefoundation.org/rome-v-criteria/) · [NIDDK 담석 증상](https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/symptoms-causes)
+
+**수시간 가는 심한 윗배 통증, 발열·오한, 황달, 반복 구토**가 있으면 바로 진료받습니다. 담석이 의심되면 복부 초음파와 간담도 혈액검사를 먼저 시행합니다. 초음파에서 총담관결석이 보이지 않아도 담관이 넓거나 관련 혈액검사가 비정상이면 자기공명담췌관조영술(MRCP) 등을 고려합니다. [NICE 담석 평가·치료](https://www.ncbi.nlm.nih.gov/books/NBK327519/)
+
+무증상 담석은 대개 관찰하고, 증상을 일으키는 담낭결석은 복강경 담낭절제술을 논의합니다. 총담관결석은 내시경 등으로 제거할 수 있습니다. 우르소데옥시콜산(UDCA)으로 돌을 녹이는 치료는 수술이 어렵고 작은 콜레스테롤 담석이 있는 경우 등 제한된 조건에서 검토합니다. 담낭용종의 관리 기준은 위의 크기·모양·추적 영상입니다. 식후 통증을 되풀이해서 유발하는 음식이 있다면 종류와 양을 기록하고, 진료까지 그 음식을 조절합니다. [NICE 담석 치료](https://www.ncbi.nlm.nih.gov/books/NBK327519/) · [NIDDK 담석의 비수술 치료](https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/treatment/)
+
+#### 담낭·담도 평가 뒤 한의치료의 목표 {#biliary-korean-medicine}
+
+원인 평가 뒤 상태가 안정적이라면 **흉협부 불편, 오심, 식후팽만, 식사량과 변 상태** 중 일상에 가장 지장을 주는 증상을 정합니다. 옆구리가 그득하고 긴장에 따라 달라지는 경우와, 한열왕래·구역이 겹치거나 명치가 당기고 복부 긴장이 뚜렷한 경우는 변증과 처방이 달라집니다. [간·담 병증의 다섯 처방 비교](../zangfu-pattern-network/liver-gallbladder.md#biliary-pattern-formulas)
+
+침치료를 병행할 때는 전통적으로 협륵부 불편에 [양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md), 오심에 [내관 PC6](../acupuncture/points/pc6-neiguan.md), 식후 불편에 [족삼리 ST36](../acupuncture/points/st36-zusanli.md) 등을 증상과 진찰에 맞춰 검토합니다. 전침·약침을 고려할 때는 시술 부위·제제와 수술력·복용약을 확인합니다. 치료 경과는 통증의 강도·지속시간, 오심, 식사량과 배변으로 기록하고, 담낭 병변의 경과는 계획한 영상 검사로 확인합니다.
+
+- **침과 담도성 산통:** 전향적 관찰연구 59명에서 양릉천·족삼리 수기침을 받은 29명의 통증이 30분 안에 감소했습니다. 무작위 배정 없이 약물치료군과 비교했고 단기 통증을 측정했으므로 표준 진통치료와의 우열, 결석 제거 또는 재발 예방을 판단하기에는 제한이 있습니다. [PMID 42910540](https://pubmed.ncbi.nlm.nih.gov/42910540/)
+- **한약과 담석:** Cochrane 검토는 무증상 또는 경증·중등도 담석증 임상시험 11건(1,205명)을 검토했습니다. 위약 대조시험이 없었고 증상·결석 변화의 보고가 충분하지 않아, 검토한 제제의 이득을 확정하기 어려웠습니다. [Cochrane CD004547](https://www.cochrane.org/evidence/CD004547_chinese-medicinal-herbs-cholelithiasis)
+
+담낭을 절제한 뒤의 식사량·묽은 변·오심 관리는 [담낭절제 후 회복](../conditions/postoperative-recovery.md#gallbladder-recovery)에서 이어집니다.
 
 ### 췌장·소장과 소화효소·흡수를 살피는 경우 {#pancreatic-care}
 
