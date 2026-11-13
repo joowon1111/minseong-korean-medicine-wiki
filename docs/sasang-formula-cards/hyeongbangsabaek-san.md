@@ -63,4 +63,4 @@ last_reviewed: 2026-09-21
 
 ## 출전과 이어 보기
 
-- [소양인 주요 다섯 처방 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [소양인 병증·처방 허브](../sasang-integrated/soyangin.md)
+- [소양인 주요 다섯 처방 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [형방사백산·형방지황탕·양격산화탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas) · [소양인 병증·처방 허브](../sasang-integrated/soyangin.md)
