@@ -31,15 +31,15 @@ description: 형방사백산과 저령차전자탕, 태음조위탕과 조위승
 
 | 본초 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#jeoryeongchajeonja-dose) |
 |---|---:|---:|
-| 복령·택사 | 각 7.5 g | 각 7.5 g |
-| 석고·지모·강활·독활·형개·방풍 | 각 3.75 g | 각 3.75 g |
-| 생지황 | 11.25 g | — |
-| 저령·차전자 | — | 각 5.625 g |
-| **1첩 합계** | **9미, 48.75 g** | **10미, 48.75 g** |
+| 복령·택사 | 각 8 g | 각 8 g |
+| 석고·지모·강활·독활·형개·방풍 | 각 4 g | 각 4 g |
+| 생지황 | 12 g | — |
+| 저령·차전자 | — | 각 6 g |
+| **1첩 합계** | **9미, 52 g** | **10미, 52 g** |
 
 공통 약재 8미 가운데 복령·택사는 수습을, 석고·지모는 신열·번열을, 강활·독활·형개·방풍은 표병의 두통·신체통을 살피는 배합입니다. 형방사백산은 생지황을 가장 많이 두어 청열·생진을 보탭니다. 저령차전자탕은 저령·차전자를 복령·택사에 더해 이수삼습의 비중을 높입니다. 설사 환자의 소변 감소는 수분 손실을 확인할 단서이므로 음수량과 어지럼을 함께 평가합니다. [망음병과 흉격열병 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)
 
-위 비교는 형방사백산 원전 비율을 **1전당 3.75 g**으로 환산해 『동의사상신편』 저령차전자탕 수록량과 나란히 놓았습니다. 형방사백산 상세 카드의 **52 g**은 1전당 4 g으로 표기한 같은 비율입니다. [형방사백산 원전 인용 문헌](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001591067) · [저령차전자탕 P0018330](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018330&tempLang=ko)
+두 처방 모두 지침의 약량을 1돈당 4 g으로 환산했습니다. 형방사백산을 1전당 3.75 g으로 환산하면 48.75 g이며, 『동의사상신편』 저령차전자탕도 같은 비율의 48.75 g으로 수록돼 있습니다. [형방사백산 원전 인용 문헌](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001591067) · [저령차전자탕 P0018330](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018330&tempLang=ko)
 
 ## [열다한소탕(熱多寒少湯)](../sasang-formula-cards/yeoldahanso-tang.md) ↔ [청폐사간탕(淸肺瀉肝湯)](../sasang-formula-cards/cheongpyesagan-tang.md)
 

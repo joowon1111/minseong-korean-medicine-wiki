@@ -113,20 +113,20 @@ last_reviewed: 2026-10-02
 
 ### 저령차전자탕 1첩 구성과 용량 {#jeoryeongchajeonja-dose}
 
-| 본초 | 1첩 약재량 | 전통적 배합 역할 |
-|---|---:|---|
-| [복령](../herbs/poria.md) | 7.5 g | 택사와 짝을 이루어 수습을 살피고 비위를 받침 |
-| [택사](../herbs/alisma.md) | 7.5 g | 복령과 함께 수습을 소변으로 내보내는 방향 |
-| [저령](../herbs/polyporus.md) | 5.625 g | 복령·택사의 이수삼습 배합을 보강 |
-| [차전자](../herbs/plantago-seed.md) | 5.625 g | 저령과 함께 수습을 다루며, 전통적으로 이수지사에도 사용 |
-| [석고](../herbs/gypsum.md) | 3.75 g | 지모와 함께 신열·번열을 살피는 청열 배합 |
-| [지모](../herbs/anemarrhena.md) | 3.75 g | 석고와 함께 열을 식히고 진액을 살핌 |
-| [강활](../herbs/notopterygium.md) | 3.75 g | 독활과 함께 두항부와 몸의 통증을 살핌 |
-| [독활](../herbs/angelica-pubescens.md) | 3.75 g | 강활과 짝을 이루어 표병의 신체통을 살핌 |
-| [형개](../herbs/schizonepeta.md) | 3.75 g | 방풍과 함께 표부의 풍사를 흩는 방향 |
-| [방풍](../herbs/saposhnikovia.md) | 3.75 g | 형개와 짝을 이루어 표부와 두통·몸살을 살핌 |
+| 본초 | 지침 분량 | 1첩 약재량 | 전통적 배합 역할 |
+|---|---:|---:|---|
+| [복령](../herbs/poria.md) | 2돈 | 8 g | 택사와 짝을 이루어 수습을 살피고 비위를 받침 |
+| [택사](../herbs/alisma.md) | 2돈 | 8 g | 복령과 함께 수습을 소변으로 내보내는 방향 |
+| [저령](../herbs/polyporus.md) | 1돈 5푼 | 6 g | 복령·택사의 이수삼습 배합을 보강 |
+| [차전자](../herbs/plantago-seed.md) | 1돈 5푼 | 6 g | 저령과 함께 수습을 다루며, 전통적으로 이수지사에도 사용 |
+| [석고](../herbs/gypsum.md) | 1돈 | 4 g | 지모와 함께 신열·번열을 살피는 청열 배합 |
+| [지모](../herbs/anemarrhena.md) | 1돈 | 4 g | 석고와 함께 열을 식히고 진액을 살핌 |
+| [강활](../herbs/notopterygium.md) | 1돈 | 4 g | 독활과 함께 두항부와 몸의 통증을 살핌 |
+| [독활](../herbs/angelica-pubescens.md) | 1돈 | 4 g | 강활과 짝을 이루어 표병의 신체통을 살핌 |
+| [형개](../herbs/schizonepeta.md) | 1돈 | 4 g | 방풍과 함께 표부의 풍사를 흩는 방향 |
+| [방풍](../herbs/saposhnikovia.md) | 1돈 | 4 g | 형개와 짝을 이루어 표부와 두통·몸살을 살핌 |
 
-**합계 10미, 48.75 g.** 『동의사상신편』의 한국전통지식포탈 수록량을 사용했습니다. 한국민족문화대백과사전도 같은 약미와 중량을 제시합니다. [한국전통지식포탈 P0018330](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018330&tempLang=ko) · [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0049091)
+**합계 10미, 52 g.** 지침의 약량을 1돈당 4 g으로 환산했습니다. 『동의사상신편』 공개 수록형은 같은 비율로 복령·택사 각 7.5 g, 저령·차전자 각 5.625 g, 나머지 6미 각 3.75 g으로 총 48.75 g입니다. [한의표준임상진료지침 권고 요약](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do) [한국전통지식포탈 P0018330](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018330&tempLang=ko) · [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0049091)
 
 ### 형방사백산과 구분하는 문진
 
