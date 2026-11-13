@@ -8,7 +8,7 @@ last_reviewed: '2026-09-21'
 ---
 # 태음인 {#_1}
 
-[태음인 한약처방 10종의 1첩 용량과 감별](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)에서 위완수한표한과 간수열리열에 연결되는 주요 처방을 비교할 수 있습니다.
+[태음인 한약처방 12종의 1첩 용량과 감별](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)에서 위완수한표한과 간수열리열에 연결되는 주요 처방을 비교할 수 있습니다.
 
 태음인은 사상의학에서 **간대폐소(肝大肺小)**의 장부 기능 편차로 설명합니다. 해부학적 크기의 진술이 아니라 흡취하여 안에 모으는 기능과 호산하여 밖으로 펴는 기능의 상대적 경향을 나타내는 전통적 개념입니다.
 

@@ -57,4 +57,4 @@ last_reviewed: 2026-10-02
 
 [상열감을 동반한 칸디다 식도염 1례](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART002970566)는 환자의 병증 판단과 치료 경과를 담은 보고입니다. 감염에 대한 처방 단독 효과를 평가한 비교시험은 아닙니다.
 
-- [소양인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [형방사백산·형방지황탕·양격산화탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas) · [소양인 흉격열·리열 처방군](../sasang-formula-library/index.md#soyang-interior)
+- [소양인 주요 처방 11종 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [형방사백산·형방지황탕·양격산화탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas) · [소양인 흉격열·리열 처방군](../sasang-formula-library/index.md#soyang-interior)

@@ -25,7 +25,7 @@ last_reviewed: 2026-09-22
 
 위 숫자는 이 허브에서 구별해 연결한 **60종의 처방·명명된 변방**입니다. 독삼팔물군자탕 같은 명명된 변방을 포함하며, 사상처방의 역사적 전체 수나 60개의 독립 원방·임상시험을 뜻하지 않습니다. 처방 이름이 낯설면 [체질별 병증 상세](../sasang-clinical-detail/index.md#differential-questions)에서 감별 질문을 먼저 확인합니다.
 
-[주요 사상체질 처방 30종의 1첩 용량과 감별](comparison-map.md)에서 자주 비교하는 처방의 배합과 문진 단서를 한눈에 볼 수 있습니다.
+[주요 사상체질 처방 37종의 1첩 용량과 감별](comparison-map.md)에서 자주 비교하는 처방의 배합과 문진 단서를 한눈에 볼 수 있습니다.
 
 ## 처방표를 읽는 순서 {#_2}
 
@@ -64,7 +64,7 @@ last_reviewed: 2026-09-22
 
 ## 태음인 한약처방 {#taeeumin-formulas}
 
-[태음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)에서 1첩 용량과 표리·순역의 감별을 함께 볼 수 있습니다.
+[태음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)에서 1첩 용량과 표리·순역의 감별을 함께 볼 수 있습니다.
 
 태음인은 **위완수한표한병의 발한·호산·승청 저하**와 **간수열리열병의 간열·폐조·대변 정체**를 나눕니다. 땀의 양만 보지 않고 땀 뒤 몸이 가벼운지 지치는지, 식후 불편·호흡·대변·갈증이 함께 회복되는지 확인합니다.
 
@@ -92,7 +92,7 @@ last_reviewed: 2026-09-22
 
 ## 소음인 한약처방 {#soeumin-formulas}
 
-[소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)에서 표열·망양과 리한·태음병의 갈림점, 본초별 1첩 용량을 확인할 수 있습니다.
+[소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)에서 표열·망양과 리한·태음병의 갈림점, 본초별 1첩 용량을 확인할 수 있습니다.
 
 소음인은 **신수열표열병의 울광·망양**과 **위수한리한병의 태음병·소음병**을 나눕니다. 발한 전후 기력, 냉감, 식욕·식후 편안함, 복통·설사·구토와 일상기능을 함께 살핍니다. 부자·관계가 든 처방은 병증 판단과 별도로 포제·용량·심혈관 상태와 병용약을 확인해야 합니다.
 

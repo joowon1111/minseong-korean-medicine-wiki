@@ -76,4 +76,4 @@ last_reviewed: 2026-10-02
 
 ## 이어서 보기
 
-- [소양인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [소양인 처방 배합망](../sasang-formula-combination-network/soyangin-network.md)
+- [소양인 주요 처방 11종 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [소양인 처방 배합망](../sasang-formula-combination-network/soyangin-network.md)

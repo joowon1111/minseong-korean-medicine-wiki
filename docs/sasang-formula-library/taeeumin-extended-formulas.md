@@ -72,7 +72,7 @@ last_reviewed: 2026-10-02
 
 갈근승기탕은 태음인 리열에서 **열·구갈·두면부 열증과 복만·변폐가 함께 강해지는 승기 방향**을 읽습니다. 청폐사간탕과는 강한 리열·정체라는 공통점이 있고, 나복자승기탕과는 식체·복만의 비중을 비교합니다.
 
-청폐사간탕과 대황·갈근·황금을 공유합니다. 갈근승기탕은 고본·나복자 없이 대황을 2돈으로 두고, 청폐사간탕은 고본·나복자를 포함하고 대황은 1돈입니다. 간열병우증의 발열·다한과 복만·변폐의 경과를 간열폐조병의 지속되는 갈증·다뇨·건조와 비교합니다. [열다한소탕·청폐사간탕과 배합 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison) 가스·대변이 끊기고 복만·구토가 심하면 급성 복증 평가가 우선입니다. [태음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
+청폐사간탕과 대황·갈근·황금을 공유합니다. 갈근승기탕은 고본·나복자 없이 대황을 2돈으로 두고, 청폐사간탕은 고본·나복자를 포함하고 대황은 1돈입니다. 간열병우증의 발열·다한과 복만·변폐의 경과를 간열폐조병의 지속되는 갈증·다뇨·건조와 비교합니다. [열다한소탕·청폐사간탕과 배합 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison) 가스·대변이 끊기고 복만·구토가 심하면 급성 복증 평가가 우선입니다. [태음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
 
 | 항목 | 임상적으로 읽는 범위 |
 |---|---|

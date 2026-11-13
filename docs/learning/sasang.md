@@ -129,7 +129,7 @@ tags: [사상의학, 동의수세보원, 원문, 문제은행, 체질병증, 치
 ## 이어 읽기
 
 - [동의수세보원 임상 색인](../classics/donguisusebowon.md)
-- [사상체질 병증 비교](../sasang-integrated/patterns.md) · [처방 지도](../sasang-integrated/formulas.md) · [주요 사상처방 30종의 1첩 구성과 감별](../sasang-formula-cards/comparison-map.md)
+- [사상체질 병증 비교](../sasang-integrated/patterns.md) · [처방 지도](../sasang-integrated/formulas.md) · [주요 사상처방 37종의 1첩 구성과 감별](../sasang-formula-cards/comparison-map.md)
 - [표리·순역 감별](../sasang-pattern-differential/index.md) · [병증 중증도](../sasang-severity/index.md)
 - [원전·후대 문헌·임상진료지침·연구의 구분](../sasang-integrated/evidence.md)
 - [사상체질병증 한의표준임상진료지침(2022)](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14)
