@@ -16,6 +16,8 @@ last_reviewed: 2026-09-22
 
 각 처방의 표에 적힌 출전을 먼저 확인합니다. 진료지침이나 원전 인용 자료의 돈(전·錢)을 **1돈당 4 g**으로 표기한 경우에는 환산 기준을 함께 적었습니다. 후대 문헌의 수록량은 해당 자료의 값을 따릅니다. 가령 [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md#later-edition)은 지침 6미와 후대 8미의 약재 자체가 다르고, [백하오이중탕](baekhao-ijung-tang.md#later-edition)은 수록형에 따라 약재 비율이 다릅니다. 1첩의 원생약 중량과 제품의 복용량은 각각 해당 자료에서 확인합니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
+[사상처방 용량 지문 표](../sasang-formula-dose-fingerprint/formula-fingerprint-table.md)는 후대 수록량을 포함하므로 이 비교표와 숫자가 다를 수 있습니다. 양격산화탕과 형방지황탕은 같은 전 수를 각각 3.75 g과 4 g 기준으로 나타낸 차이입니다. 청심연자탕은 지침형과 후대 수록형의 약재별 비율도 달라 별도로 비교합니다. 해당 표의 출처별 설명과 각 상세 카드에서 구성과 환산 근거를 확인하세요.
+
 ## 태음인
 
 | 병증축 | 처방 | 구분의 중심 |
