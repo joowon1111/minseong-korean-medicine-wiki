@@ -97,7 +97,24 @@ def formula_facts(body, parts, legacy):
     if value:
         facts.append({'label':'출전·판본','value':value[:600]})
     field('병증·주치', r'중심 병증|중심 증후|병증 위치|적용 소증·병증 단계|주치|전통적 주치|핵심 증후|핵심 병기|대표 단서|대표 증상축', r'전통적 주치|전통적 활용|임상.*단서|임상.*선택|병증 위치|효능|주치|깊이 읽기')
-    composition = next((r[1] for r in rows if re.fullmatch(r'기본 구성|원방 약미|구성·법제|핵심 구성|구성', r[0])), '')
+    composition = ''
+    # Prefer the explicitly labelled per-decoction amount over the preceding source-unit column.
+    for heading, _, content in parts:
+        if not re.search(r'구성|약량|용량', heading):
+            continue
+        table = table_values(content)
+        if not table or table[0][0] != '본초' or '1첩 약재량' not in table[0]:
+            continue
+        amount_column = table[0].index('1첩 약재량')
+        composition = ' · '.join(
+            f'{row[0]} {row[amount_column]}'
+            for row in table[1:]
+            if len(row) == len(table[0]) and row[amount_column]
+        )
+        if composition:
+            break
+    if not composition:
+        composition = next((r[1] for r in rows if re.fullmatch(r'기본 구성|원방 약미|구성·법제|핵심 구성|구성', r[0])), '')
     if not composition:
         match=re.search(r'(?m)^\*\*구성[^\n]*?[:：]\*\*\s*([^\n]+)', body)
         composition=plain(match[1]) if match else ''

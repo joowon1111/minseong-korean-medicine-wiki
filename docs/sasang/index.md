@@ -1,4 +1,5 @@
 ---
+search_title: "사상의학 임상 가이드 | 사상체질 판단·소증·병증"
 title: 사상의학 임상 지식망
 description: 태양인·소양인·태음인·소음인의 체질, 소증, 표리·순역·중증도, 처방과 한의치료, 경과평가를 동의수세보원·진료지침과 연결합니다.
 tags: [사상의학, 사상체질, 이제마, 동의수세보원, 체질병증, 체질한약]
@@ -30,7 +31,7 @@ last_reviewed: '2026-09-22'
 | 내 체질을 무엇으로 판단하는지 | [사상체질 임상 감별](../sasang-pattern-differential/index.md) |
 | 소화·땀·대변·수면 같은 평소 반응 | [소증으로 찾기](../sasang-symptoms/index.md) |
 | 지금 나타난 병증의 표리·순역과 감별 | [체질별 증상 변화·치료 상세](../sasang-clinical-detail/index.md) |
-| 체질별 대표 처방과 차이 | [대표처방 찾기](../sasang-integrated/formulas.md) |
+| 체질별 대표 처방과 차이 | [사상체질 한약처방 찾기](../sasang-integrated/formulas.md#formula-quick-links) |
 | 한약·침·뜸·음식·운동의 구성 | [사상체질 치료·관리](../sasang-treatment/index.md) |
 | 병증의 원전 위치와 진료지침 | [병증 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md) |
 | 치료효과를 다룬 현대 연구 | [근거·출전](../sasang-integrated/evidence.md) |

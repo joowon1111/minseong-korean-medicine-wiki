@@ -1,15 +1,20 @@
 ---
+search_title: "사상체질 한약처방 비교 | 주요 23종의 1첩 구성·용량과 감별"
 title: 사상체질 처방 감별 지도
-description: 네 체질의 한약처방을 표리·한열·순역·중증도와 핵심 관찰 항목으로 비교합니다.
+description: "소양인 5종, 소음인 8종, 태음인 8종, 태양인 2종의 사상체질 한약처방을 1첩 약재량·배합·병증 감별로 비교합니다. 원전, 진료지침, 후대 수록형의 차이는 각 처방에서 확인할 수 있습니다."
 tags: [사상의학, 사상처방, 비교, 체질병증]
 status: 검토완료
 last_reviewed: 2026-09-22
 ---
 # 사상체질 처방 감별 지도
 
-이 지도는 증상 하나에 처방을 바로 붙이지 않고, **같은 체질 안에서 어느 병증축을 먼저 비교할지** 보여줍니다.
+사상체질 한약처방 23종의 **1첩 약재량, 배합 차이, 병증을 가르는 문진 단서**를 네 체질별로 비교합니다. 표에서 처방명을 누르면 본초별 용량과 출전, 가감·제제의 차이를 확인할 수 있습니다.
 
-처방의 문서 형식이나 정리 시점으로 나누지 않고, 각 체질 안에서 가까운 병증과 처방을 한 흐름으로 비교합니다. 구성·법제와 안전, 근거 층은 처방명을 눌러 상세 문서에서 확인합니다.
+[소양인 5종](#soyang-five-formulas) · [소음인 8종](#soeumin-eight-formulas) · [태음인 8종](#taeeumin-eight-formulas) · [태양인 2종](#taeyangin-two-formulas)
+
+## 1첩 용량은 어느 자료를 기준으로 하나요? {#dose-source}
+
+각 처방의 표에 적힌 출전을 먼저 확인합니다. 진료지침이나 원전 인용 자료의 돈(전·錢)을 **1돈당 4 g**으로 표기한 경우에는 환산 기준을 함께 적었습니다. 후대 문헌의 수록량은 해당 자료의 값을 따릅니다. 가령 [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md#later-edition)은 지침 6미와 후대 8미의 약재 자체가 다르고, [백하오이중탕](baekhao-ijung-tang.md#later-edition)은 수록형에 따라 약재 비율이 다릅니다. 1첩의 원생약 중량과 제품의 복용량은 각각 해당 자료에서 확인합니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
 ## 태음인
 
@@ -18,12 +23,12 @@ last_reviewed: 2026-09-22
 | 위완수한표한·흉복통 | [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md) | 흉복통·오한·무한·호흡·담습 |
 | 위완수한표한 | [태음조위탕](taeeumjowi-tang.md) | 식후 팽만·몸의 무거움·무한·담 |
 | 표한·조위 | [승지조위탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-seungjijowi) | 무한·발한불리·산증·식후 복만 |
-| 표한·승청 저하 | [조위승청탕](jowiseungcheong-tang.md) | 식후비만·중소·하지무력·회복 지연 |
+| 위완한폐조·조한병우증 | [조위승청탕](jowiseungcheong-tang.md) | 식후비만·설사·부종에 정충·수면장애·불안이 더해지는지 확인 |
 | 위완수한표한·승청 저하 | [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) | 기침·담·식후 불편과 수면·회복 |
 | 병후체허·폐원 회복 | [조리폐원탕](../sasang-formula-library/joripyewon-tang.md) | 회복기 기침·호흡·식욕·활동 |
 | 승청·폐조 | [경험승청탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-gyeongheomseungcheong) | 호흡·건조·수면·심계와 회복 지연 |
 | 간수열리열 | [열다한소탕](yeoldahanso-tang.md) | 열·갈증·다한·피부와 대변 건조 |
-| 간열병초증·후대 양독 수록형 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) | 두면·인후·피부 열과 갈증·대변 |
+| 간열병초증·후대 양독 수록형 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) | 지침형은 안면·수족 홍조와 눈 통증·비강 건조. 후대형은 양독·인후통 문맥 |
 | 리열·조열·심신 | [청심연자탕](cheongsimyeonja-tang.md) | 피로·현훈·심번·수면·심계 |
 | 강한 리열·정체 | [청폐사간탕](cheongpyesagan-tang.md) | 번갈·변비·복만, 대황 포함 |
 | 리열·승기 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) | 열·구갈과 복만·변폐 |
@@ -157,4 +162,5 @@ last_reviewed: 2026-09-22
 
 - [사상체질별 한약처방](index.md)
 - [사상체질 처방 찾기](../sasang-integrated/formulas.md)
+- [사상체질의 기본 개념과 네 체질](../sasang-integrated/index.md)
 - [사상처방 전체 색인](../sasang-formula-library/index.md)

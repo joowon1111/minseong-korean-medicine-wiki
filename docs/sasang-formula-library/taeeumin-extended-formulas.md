@@ -55,6 +55,8 @@ last_reviewed: 2026-10-02
 
 ## 갈근승기탕(葛根承氣湯) {#taeeum-galgeunseunggi}
 
+### 1첩 구성·용량 {#taeeum-galgeunseunggi-dose}
+
 | 본초 | 지침 분량 | 1첩 약재량 | 배합에서의 역할 |
 |---|---:|---:|---|
 | [갈근](../herbs/pueraria.md) | 4돈 | 16 g | 기육과 두항을 풀고 열과 갈증을 살피는 중심 약재 |

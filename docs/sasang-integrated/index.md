@@ -1,5 +1,5 @@
 ---
-search_title: "사상체질: 소양인·소음인·태음인·태양인과 소증"
+search_title: "사상의학·사상체질 | 소양인·소음인·태음인·태양인과 소증"
 reader_tools: true
 title: 사상의학 한눈에 보기
 description: 사상의학과 사상인의 의미, 태양인·소양인·태음인·소음인의 기본 정의와 장부 기능의 상대적 균형, 소증·병증·대표 처방·원전·현대 연구를 연결합니다.
@@ -43,7 +43,7 @@ last_reviewed: '2026-11-01'
 | 소화·피로·열감·땀·수면 같은 평소 증상에서 찾기 | [사상의학 소증으로 찾기](../sasang-symptoms/index.md) |
 | 네 체질의 차이를 한눈에 비교하기 | [사상체질 병증 비교](patterns.md) |
 | 소양인·태음인·소음인·태양인별로 보기 | [소양인](soyangin.md) · [태음인](taeeumin.md) · [소음인](soeumin.md) · [태양인](taeyangin.md) |
-| 체질별 대표 처방과 처방 차이 찾기 | [사상체질 대표처방 찾기](formulas.md) |
+| 체질별 대표 처방, 1첩 용량과 배합 차이 | [사상체질 한약처방 찾기](formulas.md#formula-quick-links) |
 | 한약·침·음식·운동을 어떻게 활용하는지 | [사상체질 치료·관리](../sasang-treatment/index.md) |
 | 《동의수세보원》과 현대 연구를 함께 보기 | [사상의학 근거·출전](evidence.md) |
 | 자주 묻는 질문부터 쉽게 보기 | [사상의학 질문형 안내](../sasang-questions/index.md) |

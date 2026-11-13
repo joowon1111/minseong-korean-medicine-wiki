@@ -15,7 +15,7 @@ hide:
 <a class="ms-card" href="/sasang-clinical-detail/pattern-source-map/"><strong>📜 원전·CPG 근거지도</strong><span>동의수세보원 → 병증별 CPG → 처방 연결 →</span></a>
 <a class="ms-card" href="/sasang-integrated/"><strong>사상의학 한눈에 보기</strong><span>네 체질·소증·병증의 기본 구조 →</span></a>
 <a class="ms-card" href="/sasang-symptoms/"><strong>증상·소증으로 찾기</strong><span>소화·대변·땀·수면·한열에서 시작 →</span></a>
-<a class="ms-card" href="/sasang-integrated/formulas/"><strong>대표처방 찾기</strong><span>체질·병증별 처방 비교 →</span></a>
+<a class="ms-card" href="/sasang-integrated/formulas/#formula-quick-links"><strong>대표처방 찾기</strong><span>네 체질의 대표 처방·1첩 용량·감별 →</span></a>
 <a class="ms-card" href="/sasang-food/"><strong>체질별 음식 가이드</strong><span>식사 방향·음식 반응 보기 →</span></a>
 </div>
 
