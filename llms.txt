@@ -166,7 +166,7 @@ names or links as proof of every treatment claim.
 - 증상으로 사상체질 이해하기: https://wiki.minseong.co.kr/sasang-symptoms/
 - 사상의학 대표 처방 목록: https://wiki.minseong.co.kr/sasang-formula-cards/
 - 사상체질 한약처방 찾기: https://wiki.minseong.co.kr/sasang-integrated/formulas/#formula-quick-links
-- 주요 30종의 1첩 구성·용량과 감별: https://wiki.minseong.co.kr/sasang-formula-cards/comparison-map/
+- 주요 37종의 1첩 구성·용량과 감별: https://wiki.minseong.co.kr/sasang-formula-cards/comparison-map/
 - 사상체질 임상 감별: https://wiki.minseong.co.kr/sasang-pattern-differential/
 - 사상체질·병증 처방 탐색기: https://wiki.minseong.co.kr/sasang-explorer/
 
