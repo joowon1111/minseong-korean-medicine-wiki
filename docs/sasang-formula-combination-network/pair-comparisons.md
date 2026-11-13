@@ -14,6 +14,7 @@ last_reviewed: 2026-09-22
 | 비교 | 공통 골격 | 구성·병증의 갈림점 |
 |---|---|---|
 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) ↔ [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 형방계 표병, 두통·열·배설 변화 | 현삼·목통·과루인·전호의 흉격축 ↔ 복령·택사·석고·지모의 신열·수분대사축 |
+| [형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek) ↔ [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 생지황·복령·택사·석고·지모·강활·형개·방풍 | 후대 포탈 8미와 신축본의 독활 포함 9미. 이칭으로도 쓰이는 이름이므로 배합과 출전을 확인 |
 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) ↔ [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 형방계, 표병·망음 | 신열·두통·번조 ↔ 복통·설사·진액 소모 |
 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) ↔ [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) | 숙지황·산수유·복령·택사·독활·방풍 | 표병 망음·설사와 차전자·강활·형개 ↔ 리병의 만성 소모·하지 기능과 목단피 |
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) ↔ [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 석고·지모·생지황, 흉격열·구갈 | 인동등·연교·치자·박하의 산화축 ↔ 이열변폐와 백호계 강열 |

@@ -42,6 +42,7 @@ last_reviewed: 2026-09-21
 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 표병의 두통·몸살·한열 | 발열·무한·신체통이 주된 소양상풍 초증에서는 시호·전호·지골피를 둔 형방패독산을, 신열·두통과 배변 변화가 함께 진행하면 복령·택사·석고·지모를 둔 형방사백산을 비교 |
 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) | 표병의 두통과 한열, 생지황·형방계 | 심하가 그득하고 단단한 느낌, 헛구역·숨 가쁨이 결흉의 판단에 더 직접적. 목통·현삼·과루인·전호가 두 처방을 가르는 약재 |
 | [도적강기탕](hyeongbangdojeok-san.md#dojeokganggi-tang) | 생지황·복령·택사와 강활·독활·형개·방풍 7미 | 도적강기탕은 복령·택사 각 1전에 목통·현삼·과루인·전호를 두어 결흉의 심하비경만·건구·단기를 살핍니다. 형방사백산은 복령·택사 각 2전에 석고·지모를 두며, 신열·두통·번조와 설사 뒤 배변 변화를 살핍니다. |
+| [형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek) | 생지황·복령·택사·석고·지모·강활·형개·방풍 8미 | 후대 포탈의 8미 수록형과 신축본의 독활 포함 9미를 대조합니다. 문헌에 따라 형방도백산을 이칭으로도 쓰므로 실제 배합과 출전을 확인합니다. |
 | [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) | 복령·택사·석고·지모와 형방계 | 설사가 계속되는 신열두통망음증과 설사 뒤 번조·변폐가 나타나는 우증을 구분. 저령차전자탕에는 저령·차전자, 형방사백산에는 생지황이 들어감 |
 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 망음, 복령·택사와 형방계 | 몸과 손발의 냉감·복통·비만이 뚜렷한 신한복통 쪽에서는 숙지황·산수유·차전자 배합을 비교 |
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 신열·번조·구갈, 석고·지모 | 평소 무른 변과 이번 설사 뒤 변폐인지, 처음부터 굳은 변과 흉격·두면 열감이 함께 진행한 리열인지 확인 |
