@@ -74,6 +74,8 @@ last_reviewed: 2026-09-22
 | [청심연자탕](cheongsimyeonja-tang.md) | 심번·현훈·심계·수면 증상이 겹쳐도, 간열폐조·조열의 리열병인지 표한·승청 저하인지 구분 |
 | [열다한소탕](yeoldahanso-tang.md) | 열·다한·갈증·피부와 대변 건조가 중심인 간수열리열병과 구분 |
 
+두근거림과 수면장애가 겹칠 때에는 [청심연자탕과 조위승청탕의 조열·조한 감별](cheongsimyeonja-tang.md#taeeumin-palpitations-sleep-comparison)에서 공통 약재와 배합 차이를 확인할 수 있습니다.
+
 ## 소증과 현증을 함께 묻는 법
 
 | 영역 | 평소 소증 | 현재 현증 |

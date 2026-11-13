@@ -45,7 +45,7 @@ last_reviewed: 2026-09-22
 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) | 간열병우증. 조열·다한·구갈에 복만·변폐 등 배변 변화 | 갈근·황금과 대황 8 g | 44 g |
 | [열다한소탕](yeoldahanso-tang.md) | 간열폐조병의 조열병증. 다뇨·지속 갈증과 피부·대변 건조 | 갈근·황금·고본과 길경·나복자 | 48 g |
 | [청폐사간탕](cheongpyesagan-tang.md) | 조열병증에서 굳은 변·배변 곤란과 복만의 경과를 함께 살핌 | 열다한소탕의 7미에 대황 4 g | 52 g |
-| [청심연자탕](cheongsimyeonja-tang.md) | 간열폐조 문맥에서 조열과 심번·심계·수면 변화를 함께 살핌 | 연자육·산약에 천문동·맥문동과 안신약 | 53.2 g |
+| [청심연자탕](cheongsimyeonja-tang.md) | 조열병우증. 지속 갈증·다뇨·건조에 두근거림·수면장애·불안이 더해지는지 확인 | 연자육·산약에 천문동·맥문동과 안신약 | 53.2 g |
 
 마황정통탕은 『동의사상신편』 수록량입니다. 나머지 7종은 한의표준임상진료지침의 약량을 1돈당 4 g으로 환산했습니다. 갈근해기탕의 동명 8미형과 태음조위탕·청심연자탕의 후대 수록량은 각 상세 문서에서 볼 수 있습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 

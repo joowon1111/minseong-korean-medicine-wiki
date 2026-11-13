@@ -34,6 +34,7 @@ description: "사상체질 한약처방을 소양인·소음인·태음인·태�
 | 소음인 | 식후 명치 답답함·식욕 저하·오심·구토가 겹칠 때 | [곽향정기산·향사양위탕·계지반하생강탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas) |
 | 태음인 | 식후 그득함·무른 변·부종에 두근거림·수면장애가 함께 나타날 때 | [태음조위탕·조위승청탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) |
 | 태음인 | 지속되는 갈증·다뇨·건조와 복만·배변 변화가 겹칠 때 | [열다한소탕·청폐사간탕·갈근승기탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison) |
+| 태음인 | 두근거림·수면장애에 갈증·다뇨·건조가 겹치는지, 식후 그득함·무른 변·부종이 겹치는지 살필 때 | [청심연자탕·열다한소탕·조위승청탕](../sasang-formula-cards/cheongsimyeonja-tang.md#taeeumin-palpitations-sleep-comparison) |
 | 태양인 | 서거나 걷는 힘의 저하와 삼킴·섭취의 변화를 살필 때 | [오가피장척탕·미후등식장탕](../sasang-formula-cards/comparison-map.md#taeyangin-two-formulas) |
 
 ## 처방군을 비교하는 의사결정 지도 {#decision-map}
