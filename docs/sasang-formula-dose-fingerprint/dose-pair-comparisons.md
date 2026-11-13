@@ -3,7 +3,7 @@ title: 유사 사상처방 구성비 비교
 tags: [사상의학, 처방비교, 용량]
 status: 검토완료
 last_reviewed: 2026-08-20
-description: 형방사백산과 저령차전자탕, 태음조위탕과 조위승청탕의 1첩 용량, 배합 차이와 망음병·조한병 감별을 비교합니다.
+description: 형방사백산·저령차전자탕, 태음조위탕·조위승청탕, 열다한소탕·청폐사간탕·갈근승기탕의 1첩 용량과 병증 감별을 비교합니다.
 ---
 # 유사 사상처방 구성비 비교
 
@@ -43,17 +43,23 @@ description: 형방사백산과 저령차전자탕, 태음조위탕과 조위승
 
 ## [열다한소탕(熱多寒少湯)](../sasang-formula-cards/yeoldahanso-tang.md) ↔ [청폐사간탕(淸肺瀉肝湯)](../sasang-formula-cards/cheongpyesagan-tang.md)
 
-| 본초 | 열다한소탕 | 청폐사간탕 |
-|---|---:|---:|
-| 갈근 | 15 g | 15 g |
-| 고본 | 7.5 g | 7.5 g |
-| 길경 | 3.75 g | 3.75 g |
-| 나복자 | 3.75 g | 3.75 g |
-| 대황 |  | 3.75 g |
-| 백지 | 3.75 g | 3.75 g |
-| 승마 | 3.75 g | 3.75 g |
-| 황금 | 7.5 g | 7.5 g |
+### 열다한소탕·청폐사간탕·갈근승기탕은 어떻게 다른가요? {#taeeumin-dry-heat-formula-comparison}
 
+한의표준임상진료지침은 **지속되는 갈증·다뇨와 피부·모발·손발톱 건조가 특징인 조열병증**에 열다한소탕과 청폐사간탕을 함께 제시합니다. 두 처방을 비교할 때에는 배변이 평소보다 힘들어졌는지, 변이 굳는 시기에 복만도 함께 심해졌는지 살핍니다. **갈근승기탕은 간열병우증**에 제시됩니다. 조열·다한·구갈에 대변이 굳어 막히거나 열성 설사가 동반되고, 복만과 소변이 잘 나오지 않는 양상까지 함께 보는 병증입니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=83)
+
+| 본초 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) | [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi-dose) |
+|---|---:|---:|---:|
+| 갈근 | 16 g | 16 g | 16 g |
+| 황금 | 8 g | 8 g | 8 g |
+| 길경·백지·승마 | 각 4 g | 각 4 g | 각 4 g |
+| 고본 | 8 g | 8 g | — |
+| 나복자 | 4 g | 4 g | — |
+| 대황 | — | 4 g | 8 g |
+| **1첩 합계** | **7미, 48 g** | **8미, 52 g** | **6미, 44 g** |
+
+지침의 1돈을 4 g으로 환산한 약재량입니다. 갈근·황금은 세 처방의 해기·청열 배합을 이룹니다. 열다한소탕과 청폐사간탕은 두항부에 쓰는 고본과 식후 그득함·담을 살피는 나복자를 함께 둡니다. 청폐사간탕은 이 7미를 그대로 두고 통하약인 대황을 더합니다. 갈근승기탕은 고본과 나복자가 빠지고 대황이 8 g으로 배합됩니다. 두 처방에 모두 대황이 들어갈 때에는 갈증·다뇨·건조가 지속된 경과와 발열·발한·복만·배변이 급하게 달라진 경과를 구분해 문진합니다.
+
+『동의사상신편』 수록량은 같은 비율로 **열다한소탕 45 g, 청폐사간탕 48.75 g**입니다. 신축본 13-31에서는 열다한소탕에서 갈근승기탕으로 처방을 바꾼 시기와, 열다한소탕으로 돌아온 뒤 배변에 따라 대황을 가감한 시기를 따로 기록했습니다. [열다한소탕 P0018568](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018568&tempLang=ko) · [청폐사간탕 P0018569](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018569&tempLang=ko) · [신축본 13-31 의안](../classical-stories/sasang/taeeumin-formula-adjustment.md)
 
 ## [형방지황탕(荊防地黃湯)](../sasang-formula-cards/hyeongbangjihwang-tang.md) ↔ [독활지황탕(獨活地黃湯)](../sasang-formula-cards/dokhwaljihwang-tang.md)
 
