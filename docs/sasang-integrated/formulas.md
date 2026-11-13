@@ -14,9 +14,9 @@ description: "사상체질 한약처방을 소양인·소음인·태음인·태�
 
 | 체질 | 먼저 비교할 병증 | 대표 처방 | 용량과 감별 |
 |---|---|---|---|
-| 소양인 | 소양상풍·결흉·망음·흉격열 | 형방사백산·형방도적산·형방지황탕·형방패독산·양격산화탕 | [5종 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) |
-| 소음인 | 울광·망양과 태음병·리한 | 황기계지탕·팔물군자탕·향사양위탕·백하오이중탕 등 | [8종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas) |
-| 태음인 | 위완수한표한과 간수열리열 | 태음조위탕·조위승청탕·갈근해기탕·열다한소탕 등 | [8종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas) |
+| 소양인 | 소양상풍·결흉·망음·흉격열 | 형방사백산·형방도적산·형방지황탕·형방패독산·양격산화탕 | [8종 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) |
+| 소음인 | 울광·망양과 태음병·리한 | 황기계지탕·팔물군자탕·향사양위탕·백하오이중탕 등 | [10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas) |
+| 태음인 | 위완수한표한과 간수열리열 | 태음조위탕·조위승청탕·갈근해기탕·열다한소탕 등 | [10종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas) |
 | 태양인 | 해역과 열격 | 오가피장척탕·미후등식장탕 | [2종 비교](../sasang-formula-cards/comparison-map.md#taeyangin-two-formulas) |
 
 [체질별 한약처방 목록](../sasang-formula-cards/index.md)에서 더 많은 처방과 명명된 변방을 볼 수 있습니다. [『동의수세보원』 병론·처방 해설](../classics/donguisusebowon.md#clinical-routes)과 [원전 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)에서 병론과 출전을 확인하고, [1첩 용량의 출처와 환산 기준](../sasang-formula-cards/comparison-map.md#dose-source)에서 표의 수치를 대조할 수 있습니다.

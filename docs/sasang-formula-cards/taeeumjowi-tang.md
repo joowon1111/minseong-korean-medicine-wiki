@@ -61,7 +61,7 @@ last_reviewed: 2026-10-02
 
 ## 이어서 보기
 
-- [태음인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
+- [태음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
 - [태음인 위완수한표한 처방군](../sasang-formula-library/index.md#taeeum-exterior)
 - [태음인 통합 허브](../sasang-integrated/taeeumin.md)
 

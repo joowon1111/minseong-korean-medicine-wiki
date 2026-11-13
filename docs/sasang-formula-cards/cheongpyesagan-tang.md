@@ -71,7 +71,7 @@ last_reviewed: 2026-10-02
 
 ## 이어서 보기
 
-- [태음인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
+- [태음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
 - [열다한소탕](yeoldahanso-tang.md)
 - [대황 본초 카드](../herbs/rhubarb.md)
 

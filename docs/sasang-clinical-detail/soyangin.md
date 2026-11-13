@@ -88,7 +88,7 @@ last_reviewed: 2026-10-02
 | 강한 리열·이열변폐 | 심한 구갈·변폐·번조 | 진액손상과 전신 열증의 깊이 | [현삼백호탕](../sasang-formula-library/hyeonsambaekho-tang.md) |
 | 음허오열·하소/허로 | 오후 열감·하지무력·배뇨 변화 | 만성 소모·체중·수면 변화 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) |
 
-[소양인 주요 다섯 처방의 1첩과 감별](../sasang-formula-cards/comparison-map.md#soyang-five-formulas)에서 본초 배합과 용량을 대조할 수 있습니다.
+[소양인 주요 처방 8종의 1첩과 감별](../sasang-formula-cards/comparison-map.md#soyang-five-formulas)에서 본초 배합과 용량을 대조할 수 있습니다.
 
 ## 7. 처방군을 배합 구조로 이해하기
 

@@ -1,16 +1,16 @@
 ---
-search_title: "사상체질 한약처방 비교 | 주요 23종의 1첩 구성·용량과 감별"
+search_title: "사상체질 한약처방 비교 | 주요 30종의 1첩 구성·용량과 감별"
 title: 사상체질 처방 감별 지도
-description: "소양인 5종, 소음인 8종, 태음인 8종, 태양인 2종의 사상체질 한약처방을 1첩 약재량·배합·병증 감별로 비교합니다. 원전, 진료지침, 후대 수록형의 차이는 각 처방에서 확인할 수 있습니다."
+description: "소양인 8종, 소음인 10종, 태음인 10종, 태양인 2종의 사상체질 한약처방을 1첩 약재량·배합·병증 감별로 비교합니다. 원전, 진료지침, 후대 수록형의 차이는 각 처방에서 확인할 수 있습니다."
 tags: [사상의학, 사상처방, 비교, 체질병증]
 status: 검토완료
 last_reviewed: 2026-09-22
 ---
 # 사상체질 처방 감별 지도
 
-사상체질 한약처방 23종의 **1첩 약재량, 배합 차이, 병증을 가르는 문진 단서**를 네 체질별로 비교합니다. 표에서 처방명을 누르면 본초별 용량과 출전, 가감·제제의 차이를 확인할 수 있습니다.
+사상체질 한약처방 30종의 **1첩 약재량, 배합 차이, 병증을 가르는 문진 단서**를 네 체질별로 비교합니다. 표에서 처방명을 누르면 본초별 용량과 출전, 가감·제제의 차이를 확인할 수 있습니다.
 
-[소양인 5종](#soyang-five-formulas) · [소음인 8종](#soeumin-eight-formulas) · [태음인 8종](#taeeumin-eight-formulas) · [태양인 2종](#taeyangin-two-formulas)
+[소양인 8종](#soyang-five-formulas) · [소음인 10종](#soeumin-eight-formulas) · [태음인 10종](#taeeumin-eight-formulas) · [태양인 2종](#taeyangin-two-formulas)
 
 ## 1첩 용량은 어느 자료를 기준으로 하나요? {#dose-source}
 
@@ -36,7 +36,7 @@ last_reviewed: 2026-09-22
 | 리열·승기 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) | 열·구갈과 복만·변폐 |
 | 리열·식체·정체 | [나복자승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi) | 식후 복만·식체와 대변 정체 |
 
-### 태음인 주요 처방 8종의 1첩과 감별 {#taeeumin-eight-formulas}
+### 태음인 주요 처방 10종의 1첩과 감별 {#taeeumin-eight-formulas}
 
 | 처방 | 병증과 문진의 갈림점 | 배합에서 먼저 볼 본초 | 1첩 약재량 |
 |---|---|---|---:|
@@ -48,8 +48,10 @@ last_reviewed: 2026-09-22
 | [열다한소탕](yeoldahanso-tang.md) | 간열폐조병의 조열병증. 다뇨·지속 갈증과 피부·대변 건조 | 갈근·황금·고본과 길경·나복자 | 48 g |
 | [청폐사간탕](cheongpyesagan-tang.md) | 조열병증에서 굳은 변·배변 곤란과 복만의 경과를 함께 살핌 | 열다한소탕의 7미에 대황 4 g | 52 g |
 | [청심연자탕](cheongsimyeonja-tang.md) | 조열병우증. 지속 갈증·다뇨·건조에 두근거림·수면장애·불안이 더해지는지 확인 | 연자육·산약에 천문동·맥문동과 안신약 | 53.2 g |
+| [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) | 식후 그득함과 기침·담, 수면·회복 변화를 함께 살핌 | 건율·의이인·나복자에 행인·마황·천문동 | 65.625 g · 후대 수록형 |
+| [조리폐원탕](../sasang-formula-library/joripyewon-tang.md) | 병후 기침·호흡 불편에 피로·식욕·활동 저하가 함께 남는지 확인 | 길경·맥문동·의이인에 나복자·마황·황금 | 33.75 g · 후대 수록형 |
 
-마황정통탕은 『동의사상신편』 수록량입니다. 나머지 7종은 한의표준임상진료지침의 약량을 1돈당 4 g으로 환산했습니다. 갈근해기탕의 동명 8미형과 태음조위탕·청심연자탕의 후대 수록량은 각 상세 문서에서 볼 수 있습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
+마황정통탕·행인승청탕·조리폐원탕은 『동의사상신편』 공개 수록량입니다. 나머지 7종은 한의표준임상진료지침의 약량을 1돈당 4 g으로 환산했습니다. 갈근해기탕의 동명 8미형과 태음조위탕·청심연자탕의 후대 수록량은 각 상세 문서에서 볼 수 있습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
 두근거림과 불면이 겹치면 식후 그득함·설사·부종과 함께 변했는지, 갈증·다뇨·건조와 함께 변했는지 묻습니다. [태음조위탕과 조위승청탕의 구성·용량과 조한병 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) 갈근을 공유하는 리열 처방은 **두면·눈·코의 열증**, **지속 갈증과 건조**, **변폐와 복만**의 경과를 나누어 비교합니다. [열다한소탕·청폐사간탕·갈근승기탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison)
 
@@ -71,7 +73,7 @@ last_reviewed: 2026-09-22
 | 음허오열·습열 단서 | [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam) | 배뇨·갈증·피부와 지속 열감 |
 | 음허오열·허로 | [화석지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) | 체중·기력·야간 열감·배뇨 변화 |
 
-### 소양인 주요 다섯 처방의 1첩과 감별 {#soyang-five-formulas}
+### 소양인 주요 처방 8종의 1첩과 감별 {#soyang-five-formulas}
 
 | 처방 | 증상이 겹칠 때 가르는 단서 | 배합에서 다른 본초 | 1첩 합계 |
 |---|---|---|---:|
@@ -79,9 +81,12 @@ last_reviewed: 2026-09-22
 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) | 소양상풍에 명치의 단단한 그득함, 헛구역, 숨 가쁨이 겹치는 결흉 | 생지황을 가장 많이 두고 목통·현삼·과루인·전호를 배합 | 52 g |
 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 신열·두통과 평소 설사 이력, 이번 설사 또는 설사 뒤 번조·변폐가 나타나는 신열두통망음 | 생지황·복령·택사에 석고·지모 | 52 g |
 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 냉감·복통·설사 이력에 냉감 심화와 비만·배변 변화가 겹치는 신한복통망음 | 숙지황·산수유에 복령·택사·차전자 | 52 g |
+| [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) | 신열·두통에 설사가 이어지는 신열두통망음증 | 복령·택사에 저령·차전자와 석고·지모 | 52 g · 지침 환산 |
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 상열·구갈·번조에 평소보다 굳어진 대변이 함께 나타나는 위수열리열병의 흉격열 | 생지황·인동등·연교에 치자·박하·석고·지모 | 48 g |
+| [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 흉격열에 강한 구갈과 변폐가 함께 두드러지는지 확인 | 석고·생지황·지모에 방풍·독활 | 52 g 또는 72 g · 지침 환산 |
+| [독활지황탕](dokhwaljihwang-tang.md) | 음허오열·하소의 지속 소모와 하지·배뇨 변화를 함께 살핌 | 숙지황·산수유에 독활·방풍·목단피 | 45 g · 후대 수록형 |
 
-1첩 합계는 각 상세 문서의 기본방과 현대 탕전 표기(1전당 4 g)를 따랐습니다. 같은 52 g이라도 약재와 비율이 다릅니다. 표의 순서는 병이 반드시 진행하는 순서를 뜻하지 않습니다.
+독활지황탕은 『동의사상신편』 공개 수록량이며, 저령차전자탕과 지황백호탕은 지침의 약량을 1돈당 4 g으로 환산했습니다. 나머지는 각 상세 문서의 기본방과 현대 탕전 표기(1전당 4 g)를 따랐습니다. 지황백호탕의 석고는 수록된 두 용량을 구분해 표시했습니다. 같은 52 g이라도 약재와 비율이 다릅니다. 표의 순서는 병이 반드시 진행하는 순서를 뜻하지 않습니다.
 
 [형방사백산과 저령차전자탕의 구성·용량과 망음병 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison)에서 설사가 이어질 때와 설사가 줄어든 뒤에도 신열·두통이 남을 때의 차이를 볼 수 있습니다.
 
@@ -118,7 +123,7 @@ last_reviewed: 2026-09-22
 | 리한·복만·황색 변화 | [십이미관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-sibimi-gwanjung) | 복만·황색 변화·부종과 간담도 감별 |
 | 리한·흉복통·배뇨 변화 | [관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gwanjung) | 흉복통·배뇨불리·사지권태 |
 
-### 소음인 주요 처방 8종의 1첩과 감별 {#soeumin-eight-formulas}
+### 소음인 주요 처방 10종의 1첩과 감별 {#soeumin-eight-formulas}
 
 | 처방 | 증상이 겹칠 때 가르는 단서 | 배합에서 먼저 볼 본초 | 1첩 중량 합계 |
 |---|---|---|---:|
@@ -130,8 +135,10 @@ last_reviewed: 2026-09-22
 | [곽향정기산](gwakhyangjeonggi-san.md) | 태음병심하비만증에서 오심·구토와 한습·복만을 살핌 | 곽향·소엽에 창출·반하·대복피 | 30 g |
 | [향사양위탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangsayangwi) | 태음병심하비만증에서 식후 정체와 식욕 저하를 살핌 | 인삼·백출과 산사육·사인·백두구 | 44 g |
 | [백하오이중탕](baekhao-ijung-tang.md) | 태음병복만자리증에서 복통·설사·복만과 냉감을 살핌 | 백하수오·백출·백작약에 계지·포건강 | 48 g |
+| [계지반하생강탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gyeji-banha) | 태음병심하비만증에서 오심·구토와 명치 답답함·냉감을 살핌 | 생강·반하·계지에 백작약·백출 | 44 g · 지침 환산 |
+| [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) | 표병에서 오한·발열·두통·신체통과 발한 변화를 함께 확인 | 계지·백작약에 천궁·진피·감초 | 22.5 g · 후대 수록형 |
 
-중량 합계는 지침의 약량을 1돈당 4 g으로 환산한 값입니다. 생강 3쪽·대추 2개는 단위가 달라 합계에서 제외하고 각 구성표에 표기했습니다. 백하오이중탕 기본방에는 이 두 보조 약재가 기재되어 있지 않습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
+천궁계지탕은 『동의사상신편』 공개 수록량이며 나머지는 지침의 약량을 1돈당 4 g으로 환산했습니다. 개수로 기재된 생강·대추는 해당 처방의 중량 합계에서 제외했습니다. 계지반하생강탕의 생강 12 g은 중량 합계에 포함하며 백하오이중탕 기본방에는 생강·대추가 기재되어 있지 않습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
 **발열·복만·변비**가 겹치면 현재 무한인지 자한인지와 오한이 어떻게 달라졌는지를 묻습니다. [울광병중증·망양병중증의 처방 4종과 1첩 용량](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas)에서 팔물군자탕·향부자팔물탕과 보중익기탕·승양익기탕을 비교할 수 있습니다. **복통·설사·명치 답답함**이 겹치면 배변이 먼저 무너졌는지, 식후 명치 답답함과 오심이 앞섰는지를 확인합니다. 곽향정기산과 향사양위탕은 모두 태음병심하비만증의 후보입니다. [계지반하생강탕까지 3종의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas)에서 식후 명치 답답함과 오심·구토가 겹치는 경우를 비교합니다.
 

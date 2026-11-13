@@ -17,7 +17,7 @@ description: 사상처방 용량 지문 표 — 민성 한의학 아카이브의
 | 형방지황탕 | 『동의사상신편』 수록형 48.75 g | 원전 배합의 현대 탕전 환산 52 g | 같은 9미·전 수에서 3.75 g과 4 g 기준의 차이. [출처와 배합](../sasang-formula-cards/hyeongbangjihwang-tang.md#source-layers) |
 | 청심연자탕 | 『동의사상신편』 수록형 83.625 g | 진료지침형 53.2 g | 12미의 약재별 배합 비율도 다릅니다. 지침형은 연자육·산약을 다른 9미의 두 배로 두고, 후대 수록형은 감국을 제외한 11미를 같은 양으로 기록합니다. [후대 수록형](../sasang-formula-cards/cheongsimyeonja-tang.md#later-edition) |
 
-[체질별 주요 23종의 출처와 1첩 비교](../sasang-formula-cards/comparison-map.md#dose-source)에서 지침형과 현대 환산 기준을 확인할 수 있습니다.
+[체질별 주요 30종의 출처와 1첩 비교](../sasang-formula-cards/comparison-map.md#dose-source)에서 지침형과 현대 환산 기준을 확인할 수 있습니다.
 
 | 체질 | 처방 | 정량 가능 총량 | 최고 용량 약재 |
 |---|---|---:|---|

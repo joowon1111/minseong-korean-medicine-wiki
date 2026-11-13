@@ -86,4 +86,4 @@ last_reviewed: 2026-10-02
 
 → [태음인 표한 vs 리열](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md) · [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md)
 
-[태음인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
+[태음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
