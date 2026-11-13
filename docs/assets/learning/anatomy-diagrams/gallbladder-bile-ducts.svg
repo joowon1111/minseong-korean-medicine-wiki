@@ -4,22 +4,22 @@
   <rect width="640" height="355" rx="18" fill="#f4f7f3"/>
   <path d="M63 53 Q145 13 301 28 Q380 32 430 77 Q452 99 410 106 Q323 116 241 140 Q153 166 94 152 Q48 138 63 53Z" fill="#aa6652"/>
   <path d="M437 246 C521 251 529 314 476 327 Q429 337 399 301" fill="none" stroke="#c88657" stroke-width="25" stroke-linecap="round"/>
-  <path d="M322 61 L365 114 L410 66 M365 114 V156 Q365 173 387 191 Q410 211 418 268 L438 289" fill="none" stroke="#34634b" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M322 61 L365 114 L410 66 M365 114 V156 Q365 173 387 191 Q410 211 418 268 L419 313" fill="none" stroke="#34634b" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M277 178 Q302 170 315 189 Q329 205 354 182 L365 173" fill="none" stroke="#34634b" stroke-width="11" stroke-linecap="round"/>
   <path d="M278 165 C244 160 196 183 181 219 C169 247 182 270 205 266 C239 261 237 232 251 209 Q267 190 291 186 Q297 175 278 165Z" fill="#4f8665" stroke="#34634b" stroke-width="3"/>
   <g stroke="#43584c" stroke-width="1.5" fill="none">
     <path d="M100 199 H158 L207 204 M100 267 H152 L183 252"/>
-    <path d="M244 130 H275 V167 M321 247 V206"/>
+    <path d="M238 155 H266 L276 166 M321 247 V206"/>
     <path d="M487 128 H419 L369 138 M486 208 H432 L404 211"/>
   </g>
-  <g fill="#193b30" font-family="sans-serif" font-size="19" font-weight="600">
+  <g fill="#193b30" font-family="Noto Sans CJK KR, Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="19" font-weight="600">
     <text x="122" y="83" fill="#fff8f0">간</text>
     <text x="35" y="205">담낭 몸통</text>
     <text x="35" y="274">담낭 저부</text>
-    <text x="174" y="137">담낭 목</text>
+    <text x="169" y="161">담낭 목</text>
     <text x="281" y="271">담낭관</text>
     <text x="496" y="135">총간관</text>
     <text x="496" y="215">총담관</text>
-    <text x="520" y="307">십이지장</text>
+    <text x="522" y="307">십이지장</text>
   </g>
 </svg>
