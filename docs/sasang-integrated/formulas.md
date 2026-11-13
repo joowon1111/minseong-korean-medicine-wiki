@@ -30,6 +30,7 @@ description: "사상체질 한약처방을 소양인·소음인·태음인·태�
 | 소양인 | 명치가 단단하게 그득하고 헛구역·숨 가쁨이 겹칠 때 | [형방도적산·도적강기탕과 망음·흉격열 감별](../sasang-formula-cards/comparison-map.md#soyang-chestbinding-differential) |
 | 소양인 | 신열·두통이 있고 설사가 이어지거나 멎은 뒤에도 번조가 남을 때 | [형방사백산·저령차전자탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison) |
 | 소양인 | 배변 변화에 열감·냉감·가슴의 번열이 각각 겹칠 때 | [형방사백산·형방지황탕·양격산화탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas) |
+| 소양인 | 갈증·두면 열감에 배뇨 변화가 지속되거나, 번조·변폐와 열증이 빠르게 진행할 때 | [양격산화탕·지황백호탕·양독백호탕](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md#soyang-chestheat-formulas) |
 | 소음인 | 발열·복만·굳은 변에 무한 또는 자한이 겹칠 때 | [팔물군자탕·향부자팔물탕과 보중익기탕·승양익기탕](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas) |
 | 소음인 | 식후 명치 답답함·식욕 저하·오심·구토가 겹칠 때 | [곽향정기산·향사양위탕·계지반하생강탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas) |
 | 태음인 | 식후 그득함·무른 변·부종에 두근거림·수면장애가 함께 나타날 때 | [태음조위탕·조위승청탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) |

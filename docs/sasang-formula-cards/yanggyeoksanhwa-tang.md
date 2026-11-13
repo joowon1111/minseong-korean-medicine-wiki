@@ -38,7 +38,7 @@ last_reviewed: 2026-10-02
 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 석고·지모와 생지황을 공유. 설사 이력과 신열두통이 맞물린 표병 망음은 복령·택사와 형방계, 흉격 번열·구갈과 건조한 변이 함께 진행하는 리열은 인동등·연교·치자·박하를 비교 |
 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) | 흉격 불편이 겹침. 표병의 신한·신체통과 명치의 단단한 그득함, 헛구역·숨 가쁨이 있으면 목통·현삼·과루인·전호의 결흉 배합을 살핌 |
 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 평소 무른 변·복통에 냉감·회복 저하가 주된 신한복통망음이면 숙지황·산수유·복령·택사 배합을 비교. 변폐가 나타났다면 그 이전 배변 경과까지 확인 |
-| [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 석고·지모·생지황을 공유. 구갈과 전신 열증, 배변 정체가 뚜렷한 이열변폐와 흉격·두면의 울열이 앞서는 산화 배합을 비교 |
+| [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 생지황·석고·지모·방풍을 공유. 상소증의 완만한 배뇨·두면 변화와 흉격열병우증의 변폐·심한 번조·빠른 열증을 비교. [양독백호탕까지 3종의 1첩 용량](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md#soyang-chestheat-formulas) |
 | [인동등지골피탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-indongdeungjigolpi) | 인동등을 공유. 상소·중소의 차이는 갈증과 함께 허기, 식사량, 체중, 소변의 변화를 기록해 확인 |
 
 ## 배합 구조
