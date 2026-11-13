@@ -118,18 +118,30 @@ last_reviewed: 2026-10-02
 
 ## 저령차전자탕(猪苓車前子湯) {#soyang-jeoryeongchajeonja}
 
-**병증 위치:** 망음병 지침의 신열두통망음증에서 연결합니다. 평소 설사 경향과 현재 두통·갈증·소변 변화를 함께 확인합니다.
+저령차전자탕은 소양인 비수한표한병의 **신열두통망음증**에서 신열·두통과 함께 설사가 이어질 때 지침에서 제시하는 처방입니다. 복령·택사에 저령·차전자를 더한 배합이 특징입니다.
 
-**구성·출전:** 복령·택사·저령·차전자에 석고·지모와 강활·독활·형개·방풍을 배합한 수록형입니다. 생지황 중심의 형방사백산과 약미가 다릅니다.
+### 저령차전자탕 1첩 구성과 용량 {#jeoryeongchajeonja-dose}
 
-| 비교·평가 | 확인할 내용 |
-|---|---|
-| 가까운 처방과 감별 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md)은 신열두통망음의 가까운 처방이므로 같은 병증명 안에서도 구성·세부 단계를 대조합니다. 신한·복통과 소모가 앞서면 [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md)을 비교합니다. |
-| 경과·안전 | 설사 횟수·형태, 음수·소변, 기립 어지럼·체중·섭취를 기록합니다. 소변 감소를 이수 처방의 단순 적응으로 삼지 않고 탈수·신장 원인을 확인합니다. |
+| 본초 | 지침 분량 | 1첩 약재량 | 전통적 배합 역할 |
+|---|---:|---:|---|
+| [복령](../herbs/poria.md) | 2돈 | 8 g | 택사와 짝을 이루어 수습을 살피고 비위를 받침 |
+| [택사](../herbs/alisma.md) | 2돈 | 8 g | 복령과 함께 수습을 소변으로 내보내는 방향 |
+| [저령](../herbs/polyporus.md) | 1돈 5푼 | 6 g | 복령·택사의 이수삼습 배합을 보강 |
+| [차전자](../herbs/plantago-seed.md) | 1돈 5푼 | 6 g | 저령과 함께 수습을 다루며, 전통적으로 이수지사에도 사용 |
+| [석고](../herbs/gypsum.md) | 1돈 | 4 g | 지모와 함께 신열·번열을 살피는 청열 배합 |
+| [지모](../herbs/anemarrhena.md) | 1돈 | 4 g | 석고와 함께 열을 식히고 진액을 살핌 |
+| [강활](../herbs/notopterygium.md) | 1돈 | 4 g | 독활과 함께 두항부와 몸의 통증을 살핌 |
+| [독활](../herbs/angelica-pubescens.md) | 1돈 | 4 g | 강활과 짝을 이루어 표병의 신체통을 살핌 |
+| [형개](../herbs/schizonepeta.md) | 1돈 | 4 g | 방풍과 함께 표부의 풍사를 흩는 방향 |
+| [방풍](../herbs/saposhnikovia.md) | 1돈 | 4 g | 형개와 짝을 이루어 표부와 두통·몸살을 살핌 |
 
-**문진의 초점:** 평소 묽은 변이 잦았는지, 두통·열감과 설사의 시작 시점이 같은지, 물을 마시는 양에 비해 소변이 줄었는지를 나누어 묻습니다. 이수 약미의 배합은 단순히 소변을 많이 보게 한다는 뜻으로 해석하지 않습니다. 설사 횟수만 줄어도 식사·기력이 떨어지면 전체 회복으로 평가하지 않습니다.
+**합계 10미, 52 g.** 지침의 약량을 1돈당 4 g으로 환산했습니다. 『동의사상신편』 공개 수록형은 같은 비율로 복령·택사 각 7.5 g, 저령·차전자 각 5.625 g, 나머지 6미 각 3.75 g으로 총 48.75 g입니다. [한의표준임상진료지침 권고 요약](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do) [한국전통지식포탈 P0018330](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018330&tempLang=ko) · [한국민족문화대백과사전](https://encykorea.aks.ac.kr/Article/E0049091)
 
-출전: [병증별 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) · [《동의사상신편》 공개기록 P0018330](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018330&tempLang=ko). 병증 지침과 후대 조성 기록의 역할을 구분해 읽습니다.
+### 형방사백산과 구분하는 문진
+
+신열·두통·갈증이 겹치면 평소 대변과 이번 배변의 순서를 먼저 묻습니다. 한의표준임상진료지침은 설사가 주된 신열두통망음증에 저령차전자탕을, 설사 뒤 배변이 줄거나 막히면서 신열·두통·번조가 이어지는 신열두통망음우증에 [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md)을 연결합니다. 냉감·복통과 손발의 차가움이 앞서면 신한복통망음의 [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md)을 함께 살핍니다. [한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=235&menu_idx=14) · [두 처방의 구성·용량과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison)
+
+설사가 줄어도 음수량·소변량·식사량과 기립 시 어지럼을 같이 확인합니다. 소변 감소에 어지럼이나 섭취 저하가 겹치면 탈수와 전해질 이상을 먼저 평가합니다.
 
 ## 인동등지골피탕(忍冬藤地骨皮湯) {#soyang-indongdeungjigolpi}
 

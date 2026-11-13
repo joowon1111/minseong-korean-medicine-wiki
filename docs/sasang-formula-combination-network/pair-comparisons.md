@@ -19,7 +19,7 @@ last_reviewed: 2026-09-22
 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) ↔ [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) | 숙지황·산수유·복령·택사·독활·방풍 | 표병 망음·설사와 차전자·강활·형개 ↔ 리병의 만성 소모·하지 기능과 목단피 |
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) ↔ [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 석고·지모·생지황, 흉격열·구갈 | 인동등·연교·치자·박하의 산화축 ↔ 이열변폐와 백호계 강열 |
 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) ↔ [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam) | 지황계, 음허오열·하소 | 하지·근골 기능과 목단피·독활 ↔ 고삼·지모·황백의 습열·피부 단서 |
-| [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) ↔ 형방사백산 | 석고·지모·복령·택사와 형방계 | 후대 구성의 저령·차전자와 생지황 유무, 지침의 신열두통망음증·우증을 구분 |
+| [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) ↔ 형방사백산 | 석고·지모·복령·택사와 형방계 | 저령·차전자와 생지황의 차이, 설사 지속과 설사 뒤 번조·변폐의 경과. [신열두통망음증·우증과 용량 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison) |
 | [인동등지골피탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-indongdeungjigolpi) ↔ 양격산화탕 | 인동등·생지황·지모 등 | 중소 ↔ 상소·흉격열. 갈증 하나보다 허기·섭취·체중·배뇨를 대조 |
 | [십이미지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sibimijihwang) ↔ 독활지황탕 | 숙지황·산수유·복령·택사·목단피·방풍 | 십이미 수록형의 구기자·복분자·지골피·현삼·차전자·형개와 독활 유무, 음허오열의 세부 단계 |
 
@@ -27,7 +27,7 @@ last_reviewed: 2026-09-22
 
 | 비교 | 공통 골격 | 구성·병증의 갈림점 |
 |---|---|---|
-| [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) ↔ [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) | 건율·의이인·나복자·길경·마황·맥문동·석창포·오미자 | 기본 조위·담습 ↔ 산조인·용안육·원지와 중소·하지무력·심신 회복 |
+| [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) ↔ [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) | 건율·의이인·나복자·길경·마황·맥문동·석창포·오미자 | 조한병증의 식후 그득함·설사·부종에 정충·수면장애·불안이 더해지는지 확인. [조한병증·우증과 지침형·후대 수록형 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) |
 | [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) ↔ [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) | 승청·폐원·안신 골격 | 전신 승청·하지 기능 ↔ 행인과 기침·담·호흡의 비중 |
 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) ↔ [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) | 갈근·고본·황금·길경·나복자·백지·승마 | 간열폐조의 기본축 ↔ 대황 추가와 변비·복만·강한 정체 |
 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) ↔ [나복자승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi) | 갈근·대황·황금·길경·백지·승마 | 열·구갈·변폐 중심 ↔ 나복자 추가와 식체·식후 복만 |

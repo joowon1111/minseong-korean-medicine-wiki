@@ -53,7 +53,7 @@ description: 소양인 망음병 vs 흉격열병 — 민성 한의학 아카이�
 
 ## 망음 안의 세부 분기
 
-- **신열두통망음:** 한의표준임상진료지침은 설사가 앞서는 증에 [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja), 번조와 소량의 무른 변 뒤 변폐가 겹치는 우증에 [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md)을 연결합니다.
+- **신열두통망음:** 한의표준임상진료지침은 설사가 앞서는 증에 [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja), 번조와 소량의 무른 변 뒤 변폐가 겹치는 우증에 [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md)을 연결합니다. [신열두통망음증과 우증의 1첩 구성·용량 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison)
 - **신한복통망음:** 복통이 앞서는 증은 [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam), 냉감 심화와 명치의 그득함·소량의 무른 변 또는 변폐가 나타나는 우증은 [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md)을 비교합니다.
 - 원전 9-22는 각 신열두통·신한복통 설사군 안에 두 처방을 함께 기록합니다. 지침의 증·우증 구분은 배변의 시간 경과와 동반 증상을 구체화한 분류입니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 

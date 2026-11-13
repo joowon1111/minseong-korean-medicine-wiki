@@ -49,7 +49,7 @@ last_reviewed: 2026-09-22
 
 마황정통탕은 『동의사상신편』 수록량입니다. 나머지 7종은 한의표준임상진료지침의 약량을 1돈당 4 g으로 환산했습니다. 갈근해기탕의 동명 8미형과 태음조위탕·청심연자탕의 후대 수록량은 각 상세 문서에서 볼 수 있습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
-두근거림과 불면이 겹치면 식후 그득함·설사·부종과 함께 변했는지, 갈증·다뇨·건조와 함께 변했는지 묻습니다. 갈근을 공유하는 리열 처방은 **두면·눈·코의 열증**, **지속 갈증과 건조**, **변폐와 복만**의 경과를 나누어 비교합니다.
+두근거림과 불면이 겹치면 식후 그득함·설사·부종과 함께 변했는지, 갈증·다뇨·건조와 함께 변했는지 묻습니다. [태음조위탕과 조위승청탕의 구성·용량과 조한병 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) 갈근을 공유하는 리열 처방은 **두면·눈·코의 열증**, **지속 갈증과 건조**, **변폐와 복만**의 경과를 나누어 비교합니다.
 
 ## 소양인
 
@@ -80,6 +80,8 @@ last_reviewed: 2026-09-22
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 상열·구갈·번조에 평소보다 굳어진 대변이 함께 나타나는 위수열리열병의 흉격열 | 생지황·인동등·연교에 치자·박하·석고·지모 | 48 g |
 
 1첩 합계는 각 상세 문서의 기본방과 현대 탕전 표기(1전당 4 g)를 따랐습니다. 같은 52 g이라도 약재와 비율이 다릅니다. 표의 순서는 병이 반드시 진행하는 순서를 뜻하지 않습니다.
+
+[형방사백산과 저령차전자탕의 구성·용량과 망음병 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison)에서 설사가 이어질 때와 설사가 줄어든 뒤에도 신열·두통이 남을 때의 차이를 볼 수 있습니다.
 
 ### 결흉·망음·흉격열에서 증상이 겹칠 때 {#soyang-chestbinding-differential}
 

@@ -1,6 +1,6 @@
 ---
 title: 형방사백산(荊防瀉白散) 임상 카드
-description: 소양인 형방사백산의 1첩 9미와 g 용량, 신열두통망음의 설사·번조, 형방도적산·형방지황탕·양격산화탕과의 차이를 정리합니다.
+description: 소양인 형방사백산의 1첩 9미와 g 용량, 신열두통망음의 설사·번조, 형방도적산·저령차전자탕과의 감별 및 형방지황탕·양격산화탕과의 차이를 정리합니다.
 tags: [사상의학, 소양인, 형방사백산, 망음, 신열두통, 비수한표한병]
 status: 검토완료
 last_reviewed: 2026-09-21
@@ -46,6 +46,8 @@ last_reviewed: 2026-09-21
 | [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) | 복령·택사·석고·지모와 형방계 | 설사가 계속되는 신열두통망음증과 설사 뒤 번조·변폐가 나타나는 우증을 구분. 저령차전자탕에는 저령·차전자, 형방사백산에는 생지황이 들어감 |
 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 망음, 복령·택사와 형방계 | 몸과 손발의 냉감·복통·비만이 뚜렷한 신한복통 쪽에서는 숙지황·산수유·차전자 배합을 비교 |
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 신열·번조·구갈, 석고·지모 | 평소 무른 변과 이번 설사 뒤 변폐인지, 처음부터 굳은 변과 흉격·두면 열감이 함께 진행한 리열인지 확인 |
+
+신열·두통과 설사가 함께 나타날 때는 [형방사백산과 저령차전자탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison)에서 설사 뒤 배변 변화와 생지황·저령·차전자의 배합 차이를 확인할 수 있습니다.
 
 ## 진료에서 확인하는 증상 묶음
 

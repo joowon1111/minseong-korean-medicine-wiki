@@ -119,4 +119,4 @@ last_reviewed: 2026-09-22
 - [태음인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
 - [태음인 통합 허브](../sasang-integrated/taeeumin.md)
 - [태음인 위완수한표한 처방군](../sasang-formula-library/index.md#taeeum-exterior)
-- [태음조위탕과 조위승청탕 용량 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md)
+- [태음조위탕과 조위승청탕 용량 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison)
