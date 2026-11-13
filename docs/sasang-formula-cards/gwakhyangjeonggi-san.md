@@ -77,7 +77,7 @@ last_reviewed: 2026-10-02
 
 지침은 소음인 태음병에서 명치가 막힌 듯 답답하지만 단단하게 뭉친 소견이 없는 경우를 심하비만증으로 설명합니다. 곽향·소엽은 한습을 풀고, 반하·진피·청피·대복피는 오심과 기체·복만을 살핍니다. 이 배합을 실제 문진에 연결하려면 구토와 복만이 먼저였는지, 배변이 달라진 뒤 명치가 답답해졌는지 구분해 묻습니다.
 
-- [향사양위탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangsayangwi): 식후 답답함과 식욕 저하가 중심일 때 인삼·백출·산사육·사인·백두구의 배합과 비교합니다. 두 처방 모두 지침의 심하비만증 후보입니다.
+- [향사양위탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangsayangwi): 식후 답답함과 식욕 저하가 중심일 때 인삼·백출·산사육·사인·백두구의 배합과 비교합니다. 두 처방 모두 지침의 심하비만증 후보입니다. [계지반하생강탕을 포함한 3종 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas)
 - [백하오이중탕](baekhao-ijung-tang.md): 한습·담습과 구토보다 복통·설사·냉감의 리한이 중심인지 봅니다.
 - [향부자팔물탕](hyangbujapalmul-tang.md): 기체·사려상비와 두통·구갈·정서 긴장이 소화 불편과 얽히는지 비교합니다.
 - [관계부자이중탕](gwangye-buja-ijung-tang.md): 사지궐냉·지속 설사·전신 쇠약이 더 깊은 허한 단계인지 봅니다.
