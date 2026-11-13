@@ -15,7 +15,7 @@ last_reviewed: 2026-10-02
 |---|---:|---:|---|
 | 향부자 | 2돈 | 8 g | 흉복부의 기체와 답답함을 풀어 주는 약재 |
 | 당귀 | 2돈 | 8 g | 백작약과 함께 혈을 보하고 혈행을 살피는 배합 |
-| 백작약 | 2돈 | 8 g | 계지와 함께 영위를 조화하고 복부·근육의 긴장을 완화하는 배합 |
+| 백작약 | 2돈 | 8 g | 당귀와 함께 영혈을 살피고 복부·근육의 긴장을 완화하는 배합 |
 | 백출 | 1돈 | 4 g | 비위를 돕고 수습을 조절하는 건비약 |
 | [백하수오](../herbs/cynanchum-wilfordii.md) | 1돈 | 4 g | 비위와 회복을 받치는 약재로, 적하수오와 기원을 구별 |
 | 천궁 | 1돈 | 4 g | 당귀와 함께 혈행을 살피며 두통 등 상부 증후를 고려하는 약재 |
@@ -55,7 +55,7 @@ last_reviewed: 2026-10-02
 
 ## 가까운 처방과 감별
 
-- [팔물군자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-palmulgunja): 지침은 울광병중증에 두 처방을 함께 제시합니다. 신열·무한과 복만·변비·번조의 조합을 확인한 뒤, 인삼·황기의 보기와 향부자·당귀·백작약의 이기·영혈 배합 차이를 살핍니다.
+- [팔물군자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-palmulgunja): 지침은 울광병중증에 두 처방을 함께 제시합니다. 신열·무한과 복만·변비·번조의 조합을 확인한 뒤, 인삼·황기의 보기와 향부자·당귀·백작약의 이기·영혈 배합 차이를 살핍니다. [울광병중증과 망양병중증의 처방 비교](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas)
 
 - [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso): 외감·기체와 소화기 증상의 조합을 비교합니다.
 - [곽향정기산](gwakhyangjeonggi-san.md): 한습·담습, 오심·구토·설사와 심하비만이 더 뚜렷한지 봅니다.
