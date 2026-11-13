@@ -80,13 +80,15 @@ last_reviewed: 2026-10-02
 | 병증 단계 | 중심 증후 | 가까운 단계와 가르는 단서 | 대표 처방 연결 |
 |---|---|---|---|
 | 소양상풍·얕은 표병 | 두통·한열왕래·신체통 | 설사·소모가 아직 전면이 아님 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) |
-| 표병·결흉 | 흉격 답답함·담·기역 | 리열성 흉격열보다 표증이 앞섬 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
-| 신열두통망음 | 신열·두통·번조·구갈 | 배설 변화와 망음 진행 여부 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
-| 망음·설사/복통 | 복통·설사·진액소모 | 수분·소변·기력 저하 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
+| 표병·결흉 | 명치의 단단한 그득함·헛구역·숨 가쁨 | 오한·신체통과 배뇨 불리가 겹치는지 확인 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
+| 신열두통망음 | 신열·두통과 평소 설사 | 번조와 소량의 무른 변 또는 변폐가 나타나는 우증을 감별 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
+| 신한복통망음 | 냉감·복통·설사 이력 | 냉감 심화, 명치의 그득함과 배변 변화가 겹치는 우증을 감별 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
 | 흉격열 | 상열·번조·구갈·변비 | 표병보다 리열·흉격이 중심 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) |
 | 장관 열·이질 | 열성 설사·복통·급박감 | 감염·혈변·탈수 우선 감별 | [황련청장탕](../sasang-formula-library/hwangryeoncheongjang-tang.md) |
 | 강한 리열·이열변폐 | 심한 구갈·변폐·번조 | 진액손상과 전신 열증의 깊이 | [현삼백호탕](../sasang-formula-library/hyeonsambaekho-tang.md) |
 | 음허오열·하소/허로 | 오후 열감·하지무력·배뇨 변화 | 만성 소모·체중·수면 변화 | [독활지황탕](../sasang-formula-cards/dokhwaljihwang-tang.md) |
+
+[소양인 주요 다섯 처방의 1첩과 감별](../sasang-formula-cards/comparison-map.md#soyang-five-formulas)에서 본초 배합과 용량을 대조할 수 있습니다.
 
 ## 7. 처방군을 배합 구조로 이해하기
 

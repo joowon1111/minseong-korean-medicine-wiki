@@ -7,6 +7,8 @@ last_reviewed: 2026-09-22
 ---
 # 소양인 처방 배합망 {#_1}
 
+[소양인 주요 다섯 처방의 1첩과 감별](../sasang-formula-cards/comparison-map.md#soyang-five-formulas)에서 증상과 총량을 함께 확인할 수 있습니다.
+
 소양인 처방의 반복 약물은 처방 선택의 답이 아니라 **병증이 어느 방향으로 움직이는지 보여 주는 구조 단서**입니다. 형개·방풍·강활·독활이 반복되어도 표병의 깊이와 흉격·대소변·진액 상태가 다르면 처방은 달라집니다. 숙지황·산수유·복령·택사가 겹쳐도 망음의 설사인지, 음허오열의 만성 소모인지 먼저 가릅니다.
 
 `평소 소증 → 표병/리병 → 순증/역증 → 배설·진액·열의 변화 → 배합 골격 → 가까운 처방 감별 → 재평가`
@@ -17,11 +19,11 @@ last_reviewed: 2026-09-22
 
 | 병증축 | 처방 | 중심 배합 | 처방을 가르는 단서 |
 |---|---|---|---|
-| 소양상풍·얕은 표병 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 형개·방풍·강활·독활 + 생지황·복령·차전자 | 두통·한열왕래·신체통이 앞서고 심한 설사·소모는 아직 뚜렷하지 않음 |
+| 소양상풍·얕은 표병 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 형개·방풍·강활·독활 + 시호·전호·생지황·지골피·적복령·차전자 | 오한·신체통에 발열·무한이 겹치거나 한열왕래·두통이 앞서는 소양상풍 |
 | 표병·결흉 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) | 형개·방풍·강활·독활 + 생지황·현삼·목통 + 과루인·전호 | 흉격 답답함·담·기역과 대소변 변화를 함께 봄 |
 | 표병·열과 배설 변화 | [형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek) | 생지황·복령·택사 + 석고·지모 + 형방계 | 두통·번조·구갈과 소변·대변 변화가 결합 |
-| 신열두통망음 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 형방도백산 골격 + 독활 | 신열·두통·번조·구갈과 표병의 역증 방향 |
-| 망음·설사와 소모 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 숙지황·산수유 + 복령·택사·차전자 + 형방계 | 복통·설사, 진액·기력 저하와 수분상태 |
+| 신열두통망음 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 생지황·복령·택사 + 석고·지모 + 형개·방풍·강활·독활 | 신열·두통·설사와 이후 번조·변폐가 이어지는지 확인 |
+| 신한복통망음 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 숙지황·산수유 + 복령·택사·차전자 + 형방계 | 복통·설사 이력에 냉감 심화·비만과 배변 변화가 겹치는지 확인 |
 | 망음·복통 | [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) | 고삼·황백·황련 + 복령·택사·활석 | 복통은 있으나 설사가 전면인지, 열·습과 배설 변화가 중심인지 구분 |
 | 흉격열 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 생지황·인동등·연교 + 치자·박하·석고·지모 | 상열·흉격열·번조·구갈과 대변·수면 변화 |
 | 이열변폐·백호계 | [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 석고·지모 + 생지황 + 방풍·독활 | 심한 구갈·변폐와 전신 열증의 깊이 |

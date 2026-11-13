@@ -41,8 +41,8 @@ description: 소양인 망음병 vs 흉격열병 — 민성 한의학 아카이�
 | 처방 | 병증을 살피는 위치 | 배합에서 먼저 구분할 점 | 함께 확인할 변화 |
 |---|---|---|---|
 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) | 비수한표한병·소양상풍의 결흉 방향 | 생지황·목통·현삼·과루인·전호와 강활·독활·형개·방풍 | 두통·한열과 흉격 불편, 평소 대비 대소변 |
-| [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 비수한표한병·신열두통망음 | 생지황·복령·택사·석고·지모와 강활·독활·형개·방풍 | 신열·두통·번조와 갈증·배설 변화 |
-| [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 비수한표한병·망음의 신한복통 방향 | 숙지황·산수유·복령·택사·차전자와 강활·독활·형개·방풍 | 복통·설사와 섭취·소변량·기력 |
+| [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 비수한표한병·신열두통망음 | 생지황·복령·택사·석고·지모와 강활·독활·형개·방풍 | 신열·두통·번조와 설사, 소량의 무른 변 뒤 변폐가 이어지는지 |
+| [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 비수한표한병·망음의 신한복통 방향 | 숙지황·산수유·복령·택사·차전자와 강활·독활·형개·방풍 | 복통·설사 이력, 냉감 심화와 명치의 그득함, 섭취·소변량·기력 |
 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 위수열리열병·흉격열 | 생지황·인동등·연교·치자·박하·지모·석고·방풍·형개 | 흉격·두면의 열감과 구갈·대변·수면 |
 
 이 표는 각 카드에 정리한 대표 수록형을 비교합니다. 형방도적산에 복령·택사를 더한 도적강기탕이나 처방별 가감·제제 구성은 따로 확인합니다. 형방도적산에서 흉격 답답함이 있다고 곧바로 리열로 판단하거나, 형방사백산의 석고·지모만 보고 양격산화탕과 동일시하지 않습니다. 네 처방이 반드시 이 순서대로 바뀐다는 뜻도 아닙니다.
@@ -53,9 +53,9 @@ description: 소양인 망음병 vs 흉격열병 — 민성 한의학 아카이�
 
 ## 망음 안의 세부 분기
 
-- **신열두통망음:** 신열·두통·번조와 배설 변화가 앞서면 [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md)을 비교합니다.
-- **설사·소모:** 복통·설사와 진액·기력 저하가 전면이면 [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md)의 위치를 봅니다.
-- **복통·열습 단서:** 복통과 열·습, 배설 변화가 중심이면 활석고삼탕과의 차이를 확인합니다.
+- **신열두통망음:** 한의표준임상진료지침은 설사가 앞서는 증에 [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja), 번조와 소량의 무른 변 뒤 변폐가 겹치는 우증에 [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md)을 연결합니다.
+- **신한복통망음:** 복통이 앞서는 증은 [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam), 냉감 심화와 명치의 그득함·소량의 무른 변 또는 변폐가 나타나는 우증은 [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md)을 비교합니다.
+- 원전 9-22는 각 신열두통·신한복통 설사군 안에 두 처방을 함께 기록합니다. 지침의 증·우증 구분은 배변의 시간 경과와 동반 증상을 구체화한 분류입니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
 ## 흉격열 안의 세부 분기
 

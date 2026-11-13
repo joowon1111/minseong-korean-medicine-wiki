@@ -33,11 +33,11 @@ last_reviewed: 2026-09-22
 
 | 병증축 | 처방 | 구분의 중심 |
 |---|---|---|
-| 소양상풍·표병 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 두통·한열왕래·신체통·흉협 |
-| 표병 | [형방도적산](hyeongbangdojeok-san.md) | 한열·두통·흉격·대소변 |
+| 소양상풍·표병 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 오한·신체통, 발열·무한 또는 한열왕래·흉협 불편 |
+| 소양상풍·결흉 | [형방도적산](hyeongbangdojeok-san.md) | 명치의 단단한 그득함, 헛구역·숨 가쁨, 배뇨 불리 |
 | 신열두통망음 | [형방사백산](hyeongbangsabaek-san.md) | 신열·두통·번조·복령·택사·석고·지모 축 |
 | 표병·열과 배설 변화 | [형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek) | 두통·번조·구갈과 대소변 |
-| 망음 심화 | [형방지황탕](hyeongbangjihwang-tang.md) | 복통·설사·진액 손상·기력 저하 |
+| 신한복통망음 | [형방지황탕](hyeongbangjihwang-tang.md) | 복통·설사·진액 손상·기력 저하 |
 | 표병·망음 복통 | [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) | 복통, 배설 변화와 열·습 단서 |
 | 흉격열·리열 | [양격산화탕](yanggyeoksanhwa-tang.md) | 상열·번조·구갈·대변·수면 |
 | 장관 열·이질 | [황련청장탕](../sasang-formula-library/hwangryeoncheongjang-tang.md) | 설사·복통·급박감·수분상태 |
@@ -47,7 +47,19 @@ last_reviewed: 2026-09-22
 | 음허오열·습열 단서 | [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam) | 배뇨·갈증·피부와 지속 열감 |
 | 음허오열·허로 | [화석지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) | 체중·기력·야간 열감·배뇨 변화 |
 
-형방도적산·형방사백산·형방지황탕·양격산화탕은 열감이나 흉격 불편이 겹칠 수 있습니다. [망음병과 흉격열병 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)에서 표리 위치, 배합과 평소 소증의 변화를 나란히 비교합니다.
+### 소양인 주요 다섯 처방의 1첩과 감별 {#soyang-five-formulas}
+
+| 처방 | 증상이 겹칠 때 가르는 단서 | 배합에서 다른 본초 | 1첩 합계 |
+|---|---|---|---:|
+| [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 오한·몸살에 발열·무한이 겹치거나 두통·한열왕래가 앞서는 소양상풍 | 시호·전호·지골피·적복령·차전자 | 40 g |
+| [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) | 소양상풍에 명치의 단단한 그득함, 헛구역, 숨 가쁨이 겹치는 결흉 | 생지황을 가장 많이 두고 목통·현삼·과루인·전호를 배합 | 52 g |
+| [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 신열·두통과 평소 설사 이력, 이번 설사 또는 설사 뒤 번조·변폐가 나타나는 신열두통망음 | 생지황·복령·택사에 석고·지모 | 52 g |
+| [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) | 냉감·복통·설사 이력에 냉감 심화와 비만·배변 변화가 겹치는 신한복통망음 | 숙지황·산수유에 복령·택사·차전자 | 52 g |
+| [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | 상열·구갈·번조에 평소보다 굳어진 대변이 함께 나타나는 위수열리열병의 흉격열 | 생지황·인동등·연교에 치자·박하·석고·지모 | 48 g |
+
+1첩 합계는 각 상세 문서의 기본방과 현대 탕전 표기(1전당 4 g)를 따랐습니다. 같은 52 g이라도 약재와 비율이 다릅니다. 표의 순서는 병이 반드시 진행하는 순서를 뜻하지 않습니다.
+
+**발열과 두통**이 겹칠 때는 몸살과 무한이 앞서는지, 평소 설사와 이번 배변 변화가 함께 나타났는지 살핍니다. **가슴 답답함**이 겹칠 때는 명치가 단단하고 헛구역이 나는지, 얼굴·가슴의 번열과 구갈에 대변이 굳는지를 묻습니다. **설사 뒤 변이 막힐 때**는 배변이 줄어든 시점과 신열·두통·번조가 계속되는지를 확인합니다. [망음병과 흉격열병 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)
 
 ## 소음인
 
