@@ -17,7 +17,7 @@ last_reviewed: 2026-09-19
 | 지금 가장 불편한 증상 | 먼저 볼 문서 | 구분할 핵심 |
 |---|---|---|
 | 입 벌릴 때 통증·소리·잠김 | [턱관절장애 통합 안내](temporomandibular-disorder.md) | 근육성 통증, 관절원판, 관절염과 탈구 |
-| 아침 턱 피로·치아 마모·집중할 때 악물기 | [이갈이·이악물기](jaw-clenching-bruxism.md) | 수면 이갈이와 주간 이악물기, 수면호흡장애 |
+| 아침 턱 피로·치아 마모·집중할 때 악물기 | [이갈이·이악물기](jaw-clenching-bruxism.md) | 수면 이갈이와 주간 이악물기, [수면호흡 평가](jaw-clenching-bruxism.md#bruxism-sleep-breathing) |
 | 턱·관자·볼을 누를 때 익숙한 통증 | [턱·관자 근육 MPS](../clinical-anatomy/mps-jaw.md) | 교근·측두근·익돌근의 통증유발점과 연관통 |
 | 턱을 움직일 때 이명이 변함 | [이명](tinnitus.md) | 체성감각성 이명 가능성과 귀 질환 감별 |
 | 관자놀이 두통·목과 어깨 긴장 | [두통](headache.md)·[목통증](neck-pain.md) | 측두근·경항부 연관통과 일차성 두통 구분 |

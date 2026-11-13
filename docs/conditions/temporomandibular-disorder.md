@@ -58,7 +58,7 @@ last_reviewed: '2026-09-19'
 - 아침의 턱 피로, 관자놀이 두통, 치아 마모·파절이 있으면 수면과 치과 평가를 함께 고려합니다.
 - 코골이·무호흡·심한 주간졸림이 있으면 수면호흡장애도 확인합니다.
 
-→ [이갈이·이악물기·턱근육 긴장 상세](jaw-clenching-bruxism.md)
+→ [이갈이·이악물기 평가](jaw-clenching-bruxism.md#bruxism-assessment) · [이갈이용과 수면무호흡용 구강장치 비교](jaw-clenching-bruxism.md#bruxism-oral-appliances)
 
 ## 턱관절·두통·이명·수면·피로가 함께 나타나는 이유 {#whole-body-cluster}
 

@@ -55,7 +55,7 @@ keywords: [수면 무호흡, 코골이 원인, 자다가 숨이 멎어요, 수�
 | 체중 관리 | 과체중·비만이 있으면 식사·운동·행동 조절을 수면호흡 치료와 함께 계획 | 체중·허리둘레와 증상, 호흡 지표를 함께 추적 |
 | 자세 조절 | 바로 누웠을 때 호흡 사건이 많아지는지 검사로 확인 | 옆으로 자는 자세의 효과와 지속 가능성을 평가 |
 
-구강장치는 개인에 맞춰 제작·조절하는 장치를 기준으로 검토합니다. [AASM·AADSM 구강장치 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC4481062/) 생활관리에는 규칙적인 수면, 금연과 음주 조절도 포함됩니다. [NHLBI 치료 안내](https://www.nhlbi.nih.gov/health/sleep-apnea/treatment)
+수면무호흡에 쓰는 하악전진 구강장치는 개인에 맞춰 제작·조절하고, 치아 보호가 목적이라면 치과에서 이갈이용 장치를 따로 평가합니다. [구강장치의 목적별 비교](jaw-clenching-bruxism.md#bruxism-oral-appliances) [AASM·AADSM 구강장치 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC4481062/) 생활관리에는 규칙적인 수면, 금연과 음주 조절도 포함됩니다. [NHLBI 치료 안내](https://www.nhlbi.nih.gov/health/sleep-apnea/treatment)
 
 비만이 동반된 수면무호흡의 체중 관리는 호흡과 대사 위험을 함께 개선하는 치료축입니다. 체중이 줄거나 코골이가 작아졌을 때도 **양압기 유지·조정·중단은 객관적인 수면호흡 평가를 바탕으로 결정**합니다. [대한수면호흡학회 비만 동반 성인 수면무호흡 관리 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC13256478/)
 

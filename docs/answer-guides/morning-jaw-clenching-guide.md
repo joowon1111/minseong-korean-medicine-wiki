@@ -20,7 +20,10 @@ tags: [이갈이, 이악물기, 아침턱통증, 턱관절, 수면]
 ## 먼저 평가가 필요한 경우
 치아 손상, 턱 잠김, 심한 개구 제한, 얼굴 붓기·발열이 있으면 치과·구강악안면 영역 평가가 필요합니다.
 
+갈리는 소리와 별개로 가족이 숨 멎음을 보거나, 본인이 헐떡이며 깨거나 낮에 심하게 졸린다면 [수면무호흡 평가](../conditions/jaw-clenching-bruxism.md#bruxism-sleep-breathing)를 함께 고려합니다.
+
 ## 더 깊게 보기
+- [이갈이·이악물기 평가와 치아 보호](../conditions/jaw-clenching-bruxism.md#bruxism-assessment)
 - [턱관절 통증](../conditions/tmj-pain.md)
 - [불면](../conditions/insomnia.md)
 - [경항통](../conditions/neck-pain.md)
