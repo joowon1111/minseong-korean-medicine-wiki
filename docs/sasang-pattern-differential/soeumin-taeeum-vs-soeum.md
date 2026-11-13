@@ -27,9 +27,10 @@ description: 소음인 태음병 vs 소음병 — 민성 한의학 아카이브�
 ```
 
 ### 처방 연결 예
-태음병 자리증 → 백하오이중탕  
-태음병 비만증 → 곽향정기산·계지반하생강탕  
-소음병 자리증 → 관계부자이중탕 등
+
+- 태음병 자리증 → 백하오이중탕
+- 태음병 심하비만증 → [곽향정기산·향사양위탕·계지반하생강탕 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas)
+- 소음병 자리증 → 관계부자이중탕 등
 
 → [소음인 상세](../sasang-clinical-detail/soeumin.md)
 
