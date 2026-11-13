@@ -18,9 +18,9 @@ description: 사상처방 용량 지문 표 — 민성 한의학 아카이브의
 | 소양인 | [형방패독산(荊防敗毒散)G](../sasang-formula-library/hyeongbangpaedok-san.md#source-layers) | 33.75 g | 강활·독활·방풍·생지황·시호·적복령·전호·차전자·형개 (3.75 g) |
 | 소양인 | [화석지황탕(花惜地黃湯)](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) | 46.875 g | 숙지황 (15 g) |
 | 소양인 | [활석고삼탕(滑石苦蔘湯)](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) | 41.25 g | 고삼·복령·택사·활석 (7.5 g) |
-| 소음인 | [곽향정기산(藿香正氣散) — 소음인방](../sasang-formula-cards/gwakhyangjeonggi-san.md) | 28.125 g | 곽향 (5.625 g) |
+| 소음인 | [곽향정기산(藿香正氣散) — 소음인방](../sasang-formula-cards/gwakhyangjeonggi-san.md#later-edition) | 28.125 g | 곽향 (5.625 g) |
 | 소음인 | [관계부자이중탕(官桂附子理中湯)](../sasang-formula-cards/gwangye-buja-ijung-tang.md) | 45 g | 인삼 (11.25 g) |
-| 소음인 | [백하오이중탕(白何烏理中湯)](../sasang-formula-cards/baekhao-ijung-tang.md) | 63.75 g | 백하수오·백출·백작약·계지·건강 (11.25 g) |
+| 소음인 | [백하오이중탕(白何烏理中湯)](../sasang-formula-cards/baekhao-ijung-tang.md#later-edition) | 63.75 g | 백하수오·백출·백작약·계지·건강 (11.25 g) |
 | 태음인 | [나복자승기탕(蘿菔子承氣湯)](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi) | 48.75 g | 갈근 (15 g) |
 | 태음인 | [마황정통탕(麻黃定痛湯)](../sasang-formula-library/mahwangjeongtong-tang.md) | 56.25 g | 의이인 (11.25 g) |
 | 태음인 | [열다한소탕(熱多寒少湯)](../sasang-formula-cards/yeoldahanso-tang.md) | 45 g | 갈근 (15 g) |

@@ -35,7 +35,7 @@ last_reviewed: '2026-09-22'
 
 | 처방 | 수록량·포제 | 백하수오의 배합 위치 | 함께 볼 증후 |
 |---|---:|---|---|
-| [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) | 볶음 11.25 g | 백출·백작약과 보하고 계지·건강의 온리축을 받침 | 복통·설사, 식욕저하, 복부·사지 냉감 |
+| [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) | 지침형 8 g · 『동의사상신편』 볶음 11.25 g | 백출·백작약과 보하고 계지·건강의 온리축을 받침 | 복통·설사, 식욕저하, 복부·사지 냉감 |
 | [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) | 3.75 g | 당귀·백작약·천궁과 회복을 받치고 향부자·진피의 이기축과 결합 | 소화저하, 흉복 답답함, 두통·구갈·긴장 |
 | [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) | 3.75 g | 인삼·황기·당귀와 함께 망양 뒤 기력·영혈 회복을 보조 | 땀 뒤 탈진, 식욕·기력 저하 |
 | [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) | 3.75 g | 승양익기축에 부자의 회양을 더한 깊은 단계 | 냉감·쇠약·사지 증후와 안전관찰 |
