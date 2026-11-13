@@ -37,7 +37,7 @@ last_reviewed: 2026-10-02
 | 아카이브 병증군 | 원전 위치·표지어 | 직접 연결할 CPG | 해석 메모 |
 |---|---|---|---|
 | [소양상풍·얕은 표병](soyangin.md#11-1) | 脾受寒表寒病論 · 少陽傷風 | [소양상풍병 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) | 경증·중등증과 초기/진행, 결흉 분기를 구조화 |
-| [표병·결흉](soyangin.md#11-2) | 脾受寒表寒病論 · 結胸 | [소양상풍병 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) | 소양상풍병의 중등증 분기에서 결흉을 연결 |
+| [표병·결흉](soyangin.md#11-2) | 脾受寒表寒病論 9-8·9-17 · 結胸 | [소양상풍병 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) | 9-8의 흉협만과 9-17의 복령·택사 가미를 대조. [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang)의 원전 지면과 후대 처방명 확인 |
 | [신열두통망음](soyangin.md#11-3) | 脾受寒表寒病論 · 身熱頭痛泄瀉 | [망음병 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) | 망음 중증 단계의 신열두통망음으로 분류 |
 | [망음·설사/복통](soyangin.md#11-4) | 脾受寒表寒病論 · 身寒腹痛泄瀉 | [망음병 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) | 신한복통망음은 위중 방향으로 구분 |
 | [흉격열·리열](soyangin.md#11-5) | 胃受熱裏熱病論 · 胸膈熱 | [흉격열병 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917064) | 위수열리열병의 흉격열 표준증후·단계를 연결 |

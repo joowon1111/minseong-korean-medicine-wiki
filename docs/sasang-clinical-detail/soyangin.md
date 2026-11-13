@@ -80,7 +80,7 @@ last_reviewed: 2026-10-02
 | 병증 단계 | 중심 증후 | 가까운 단계와 가르는 단서 | 대표 처방 연결 |
 |---|---|---|---|
 | 소양상풍·얕은 표병 | 두통·한열왕래·신체통 | 설사·소모가 아직 전면이 아님 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) |
-| 표병·결흉 | 명치의 단단한 그득함·헛구역·숨 가쁨 | 오한·신체통과 배뇨 불리가 겹치는지 확인 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
+| 표병·결흉 | 명치의 단단한 그득함·헛구역·숨 가쁨 | 오한·신체통, 음수 후 구토와 배뇨 불리를 함께 확인 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang) |
 | 신열두통망음 | 신열·두통과 평소 설사 | 번조와 소량의 무른 변 또는 변폐가 나타나는 우증을 감별 | [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
 | 신한복통망음 | 냉감·복통·설사 이력 | 냉감 심화, 명치의 그득함과 배변 변화가 겹치는 우증을 감별 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
 | 흉격열 | 상열·번조·구갈·변비 | 표병보다 리열·흉격이 중심 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) |
@@ -155,8 +155,7 @@ last_reviewed: 2026-10-02
 
 ### 11-2. 표병·결흉/흉격 불편
 
-**처방군 비교:** [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) · [인동등지골피탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-indongdeungjigolpi) · [십이미지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sibimijihwang).
-병증별 위치와 유사 처방 차이는 [체질별 한약처방](../sasang-formula-cards/index.md#soyangin-formulas)에서 확인합니다.
+결흉을 비교할 때는 명치가 단단하게 그득한지, 헛구역과 숨 가쁨이 함께 있는지 확인합니다. 명치 불편에 신한·복통과 설사 전후의 배변 변화가 겹치면 [신한복통망음](#11-4), 가슴의 번열·구갈과 굳은 변이 앞서면 [흉격열](#11-5) 문진을 함께 봅니다. [결흉·망음·흉격열 감별표](../sasang-formula-cards/comparison-map.md#soyang-chestbinding-differential)
 
 **원전·CPG 직결:** [원전] 「소양인 비수한표한병론」의 結胸 분기 · [CPG] [소양상풍병 2014](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) — 중등증의 결흉/진행 분기 · [전체 출전 지도](pattern-source-map.md)
 
@@ -174,7 +173,8 @@ last_reviewed: 2026-10-02
 **위치:** 표병 골격이 남아 있으면서 흉격·담·기역과 배설 변화가 커진 단계.  
 **중심:** 흉격 답답함, 두통·한열, 담·기역, 갈증과 대소변 변화를 묶어 봅니다.  
 **감별:** 상열·번조·변폐가 전면이면 흉격열 리병과, 설사·소모가 전면이면 망음과 구분합니다. 흉통은 심폐·위식도·근골격 원인을 우선 감별합니다.  
-**처방 연결:** [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md).  
+**처방 연결:** 2014년 지침은 결흉증에 [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md)을 제시합니다. 신축본 9-17은 건구·단기가 있고 약을 먹고 다시 토하지 않을 때 복령·택사 각 1전을 더한 배합을 기록합니다. [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang)에서 11미의 1첩 용량과 후대 처방명 출전을 확인할 수 있습니다.
+
 **경과:** 흉격 불편의 강도와 함께 수면·대변·소변·갈증이 어느 방향으로 움직이는지 기록합니다.
 
 **증상 비교:** [발한에 한열·배변을 더해 보기](../sasang-original-symptoms/sweating.md#soyangin-sweat) · [신열·신한 망음과 처방 차이](../sasang-original-symptoms/cold-heat.md#soyangin-treatment)

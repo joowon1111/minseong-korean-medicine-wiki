@@ -44,8 +44,8 @@ last_reviewed: 2026-09-22
 | 병증 단계 | 처방 | 핵심 증후 | 감별·경과관찰 |
 |---|---|---|---|
 | 소양상풍·표병 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 두통·한열왕래·신체통·흉협 불편 | 배설 변화와 기력; 망음으로 진행하는지 관찰 |
-| 표병·흉격 불편 | [형방도적산](hyeongbangdojeok-san.md) | 한열·두통·흉격 답답함·대소변 변화 | 결흉 양상과 리열성 흉격열을 구분 |
-| 신열두통망음 | [형방사백산](hyeongbangsabaek-san.md) | 신열·두통·번조·구갈·배설 변화 | 형방도적산보다 열·번조가 뚜렷한지 확인 |
+| 표병·결흉 | [형방도적산](hyeongbangdojeok-san.md) · [도적강기탕 가미](hyeongbangdojeok-san.md#dojeokganggi-tang) | 명치가 단단하게 그득하고 헛구역·숨 가쁨이 겹침 | 9미 기본방과 복령·택사 각 1전을 더한 11미 비교 |
+| 신열두통망음 | [형방사백산](hyeongbangsabaek-san.md) | 신열·두통·번조·구갈·배설 변화 | 신열·두통과 설사의 선후, 설사 뒤에도 번조·변폐가 이어지는지 확인 |
 | 신열두통망음 | [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) | 두통·갈증·심번과 소변·설사 변화 | 형방사백산과 배설·열의 조합을 비교 |
 | 표병·열과 배설 변화 | [형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek) | 두통·번조·구갈·소변·대변 변화 | 형방사백산·활석고삼탕과 복통·설사를 비교 |
 | 망음·설사와 소모 | [형방지황탕](hyeongbangjihwang-tang.md) | 복통·설사·신체통·기력저하 | 섭취·수분상태와 설사 뒤 회복을 관찰 |
