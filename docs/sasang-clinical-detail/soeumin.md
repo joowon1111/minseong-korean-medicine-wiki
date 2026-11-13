@@ -7,7 +7,7 @@ last_reviewed: 2026-10-02
 ---
 # 소음인: 몸이 나빠질 때 어떻게 변하나?
 
-[소음인 주요 처방 8종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)에서 표열·망양과 리한·태음병의 갈림점, 본초별 1첩 용량을 확인할 수 있습니다.
+[소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)에서 표열·망양과 리한·태음병의 갈림점, 본초별 1첩 용량을 확인할 수 있습니다.
 
 
 !!! note "읽는 방법"

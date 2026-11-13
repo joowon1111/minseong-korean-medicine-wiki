@@ -16,7 +16,7 @@ last_reviewed: 2026-09-22
 
 [사상체질별 한약처방](../sasang-formula-cards/index.md)은 모든 처방을 네 체질의 병증 흐름 안에서 한 번에 보여줍니다. 이 색인에서는 같은 처방을 표리·순역·경중에 따라 다시 묶어 가까운 처방과 감별할 수 있습니다.
 
-[주요 사상체질 처방 23종의 1첩 용량과 감별](../sasang-formula-cards/comparison-map.md)에서 본초별 용량표와 가까운 처방의 차이를 확인할 수 있습니다.
+[주요 사상체질 처방 30종의 1첩 용량과 감별](../sasang-formula-cards/comparison-map.md)에서 본초별 용량표와 가까운 처방의 차이를 확인할 수 있습니다.
 
 ## 체질·병증군으로 찾기 {#constitution-pattern-index}
 
