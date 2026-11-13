@@ -218,6 +218,7 @@ last_reviewed: '2026-09-02'
 | 태양인·소양인·태음인·소음인 비교 | [체질별 보기](sasang-integrated/patterns.md) |
 | 증상과 병증에서 체질 자료 찾기 | [증상·병증으로 찾기](sasang-symptoms/index.md) |
 | 체질별 대표 처방과 출전 | [사상체질 한약처방 찾기](sasang-integrated/formulas.md#formula-quick-links) |
+| 증상이 겹치는 주요 처방의 비교 | [증상·병증별 처방 비교](sasang-integrated/formulas.md#formula-differential-links) |
 | 주요 23종의 1첩 용량과 감별 | [사상체질 한약처방 비교표](sasang-formula-cards/comparison-map.md) |
 | 동의수세보원 원문과 현대적 연결 | [동의수세보원 지식망](donguisusebowon-network/index.md) |
 | 체질→병증→감별→처방을 탐색 | [사상체질·병증 탐색기](sasang-explorer/index.md) |

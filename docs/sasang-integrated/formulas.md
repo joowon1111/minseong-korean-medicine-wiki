@@ -21,6 +21,21 @@ description: "사상체질 한약처방을 소양인·소음인·태음인·태�
 
 [체질별 한약처방 목록](../sasang-formula-cards/index.md)에서 더 많은 처방과 명명된 변방을 볼 수 있습니다. [『동의수세보원』 병론·처방 해설](../classics/donguisusebowon.md#clinical-routes)과 [원전 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)에서 병론과 출전을 확인하고, [1첩 용량의 출처와 환산 기준](../sasang-formula-cards/comparison-map.md#dose-source)에서 표의 수치를 대조할 수 있습니다.
 
+## 증상과 병증으로 주요 처방 비교 찾기 {#formula-differential-links}
+
+같은 증상이 겹칠 때 확인하는 문진 단서와 처방별 1첩 배합을 아래 비교표에서 볼 수 있습니다.
+
+| 체질 | 비교할 증상과 경과 | 처방 비교 |
+|---|---|---|
+| 소양인 | 명치가 단단하게 그득하고 헛구역·숨 가쁨이 겹칠 때 | [형방도적산·도적강기탕과 망음·흉격열 감별](../sasang-formula-cards/comparison-map.md#soyang-chestbinding-differential) |
+| 소양인 | 신열·두통이 있고 설사가 이어지거나 멎은 뒤에도 번조가 남을 때 | [형방사백산·저령차전자탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison) |
+| 소양인 | 배변 변화에 열감·냉감·가슴의 번열이 각각 겹칠 때 | [형방사백산·형방지황탕·양격산화탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas) |
+| 소음인 | 발열·복만·굳은 변에 무한 또는 자한이 겹칠 때 | [팔물군자탕·향부자팔물탕과 보중익기탕·승양익기탕](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas) |
+| 소음인 | 식후 명치 답답함·식욕 저하·오심·구토가 겹칠 때 | [곽향정기산·향사양위탕·계지반하생강탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas) |
+| 태음인 | 식후 그득함·무른 변·부종에 두근거림·수면장애가 함께 나타날 때 | [태음조위탕·조위승청탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) |
+| 태음인 | 지속되는 갈증·다뇨·건조와 복만·배변 변화가 겹칠 때 | [열다한소탕·청폐사간탕·갈근승기탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison) |
+| 태양인 | 서거나 걷는 힘의 저하와 삼킴·섭취의 변화를 살필 때 | [오가피장척탕·미후등식장탕](../sasang-formula-cards/comparison-map.md#taeyangin-two-formulas) |
+
 ## 처방군을 비교하는 의사결정 지도 {#decision-map}
 
 같은 체질 안의 처방도 주증 하나로 서로 바꾸지 않습니다. 먼저 병증 위치와 역증 여부를 정한 뒤, 처방 구성·포제·복용약과 치료 뒤 관찰 항목을 비교합니다.
@@ -85,8 +100,9 @@ description: "사상체질 한약처방을 소양인·소음인·태음인·태�
 | 표한+비위·담습 | 몸이 무겁고 식후 더부룩함, 부종·피로 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md) · [승지조위탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-seungjijowi) |
 | 승청 기능 저하 | 식후비만, 중소, 하지무력, 오래된 회복저하 | [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md) · [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md) |
 | 폐원·병후 회복 | 호흡기 허약, 병후체허와 회복 지연 | [조리폐원탕](../sasang-formula-library/joripyewon-tang.md) · [경험승청탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-gyeongheomseungcheong) |
-| 간열·폐조 | 열감·구갈·다한, 피부·대변 건조 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) |
-| 강한 리열·조열 | 번갈·변비·두면부 열감, 열증 심화 | [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) · [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) |
+| 간열병초증 | 신열·발한과 얼굴·손발 홍조, 눈 통증·비강 건조 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) |
+| 간열폐조병의 조열병증 | 지속 갈증·다뇨·건조와 배변의 변화 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) · [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md) |
+| 간열병우증 | 조열·다한·구갈과 복만, 변폐 또는 열성 설사 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi) |
 | 리열+심신 증상 | 피로·현훈·심계·수면불편이 함께 | [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md) |
 | 식체·대변 정체 | 복만·소화장애와 대변 정체가 중심 | [나복자승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nabokjaseunggi) |
 
@@ -105,12 +121,13 @@ description: "사상체질 한약처방을 소양인·소음인·태음인·태�
 | 단계·병증 | 환자가 느끼기 쉬운 모습 | 대표 처방군 |
 |---|---|---|
 | 태양증·표병 초기 | 오한·발열, 두통·신체통, 땀의 변화 | [천궁계지탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-cheongung-gyeji) · [궁귀향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gunggwihyangso) |
+| 울광병중증 | 발열·무한에 복만·굳은 변·번조 | [팔물군자탕·향부자팔물탕](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas) |
 | 망양초증 | 신열·자한·번뇌·신체통과 오한 | 황기계지탕, [2014 망양병 지침](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=14719) |
 | 망양중증 | 자한·신열에 불오한·단오열, 복만·대변비조·번조 | 보중익기탕 · [승양익기탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi) |
 | 후대 태양양명 수록형 | 실제 약미와 판본·주치를 대조하는 별도 자료 | [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers) |
 | 망양의 심화 | 발한과 탈진, 냉감·쇠약이 더욱 뚜렷함 | [승양익기부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-seungyangikgi-buja) · [인삼관계부자탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-insam-gwangye-buja) · [인삼계지부자탕](../sasang-formula-cards/insamgyejibujatang.md) |
 | 태음병·리한 | 식욕저하, 복통·설사, 구토, 냉감 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) · [곽향정기산](../sasang-formula-cards/gwakhyangjeonggi-san.md) |
-| 리한+기체·담습 | 흉복부 답답함, 더부룩함, 오심·구토 | [향부자팔물탕](../sasang-formula-cards/hyangbujapalmul-tang.md) · [향소산](../sasang-formula-library/soeumin-extended-formulas.md#soeum-hyangso) · [계지반하생강탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gyeji-banha) |
+| 태음병심하비만증 | 명치 답답함, 식후 그득함, 오심·구토 | [곽향정기산·향사양위탕·계지반하생강탕 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas) |
 | 리한의 심화 | 심한 냉감·설사·쇠약, 양기 저하 | [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) · [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md) |
 | 복통·배뇨·사지권태 | 흉복통과 배뇨불리, 기력저하가 함께 | [관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gwanjung) · [십이미관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-sibimi-gwanjung) |
 

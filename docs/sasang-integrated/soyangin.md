@@ -132,6 +132,8 @@ last_reviewed: '2026-09-21'
 
 ## 처방을 고르는 임상 흐름 {#formula-selection}
 
+설사 전후의 신열·두통과 흉격 번열이 겹치면 [형방사백산·형방지황탕·양격산화탕 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas)에서 문진과 배합 차이를 확인할 수 있습니다.
+
 ```text
 소양인 판단 근거 → 평소 소증 → 표병/리병 → 순역·중증도
 → 처방 구성·복용약·현재 질환 확인 → 현증과 소증 재평가
