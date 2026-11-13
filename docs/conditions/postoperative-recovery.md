@@ -83,6 +83,12 @@ related_reading:
 - 심한 팽만·구토와 배변정지는 장폐색을 먼저 평가합니다.
 - 탈장수술 후 무거운 물건을 드는 시점은 수술팀 지침을 따릅니다.
 
+#### 담낭절제 뒤 식사와 설사 {#gallbladder-recovery}
+
+담낭을 제거해도 간은 담즙을 계속 만듭니다. 담즙은 저장 과정을 거치지 않고 장으로 흐릅니다. 회복 초기에는 한 번에 먹는 양을 줄여 먹고, 견딜 수 있는 음식부터 양과 종류를 늘립니다. 수술 뒤 묽은 변이 반복되면 횟수·절박감·식사와의 관계를 기록합니다. 수양성 설사가 오래가면 담즙산 설사 등 치료할 수 있는 원인을 진료에서 평가합니다. 통증이 심해지거나 발열·오한, 황달, 반복 구토가 생기면 수술팀에 바로 연락하거나 응급 평가를 받습니다. [NHS 담낭절제 회복](https://www.nhs.uk/tests-and-treatments/gallbladder-removal/recovery/) · [수술 후 합병증](https://www.nhs.uk/tests-and-treatments/gallbladder-removal/complications/) · [담즙산 설사 진료지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC6985689/)
+
+상태가 안정되면 한의치료 상담에서 식사량·오심·복부팽만·배변 가운데 회복을 가장 방해하는 증상과 복용약을 함께 확인합니다. [담낭·담도 평가와 한의치료](../pillar/digestion-spleen-stomach.md#biliary-korean-medicine)
+
 ### 허리디스크·척추수술
 
 척추수술 뒤에는 수술 전 신경압박 통증, 수술 부위 통증과 근육 약화가 함께 남을 수 있습니다. 통증이 줄었다고 갑자기 허리를 많이 쓰거나, 반대로 움직임이 두려워 계속 누워 있는 것 모두 회복을 방해할 수 있습니다.

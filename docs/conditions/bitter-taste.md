@@ -52,6 +52,8 @@ last_reviewed: 2026-09-06
 | 식후 신물·명치 불편이 겹침 | 역류·소화 증상 | [소화불량](dyspepsia.md) |
 | 다른 사람이 냄새를 말함 | 치아·잇몸·혀와 구취 | [입냄새](bad-breath.md) |
 
+입쓴맛과 별개로 오른쪽 윗배에 지속되는 통증이 있거나 발열·황달이 동반되면 [담낭·담도 증상과 진료 시점](../pillar/digestion-spleen-stomach.md#biliary-pain-assessment)을 확인합니다.
+
 ## 전통적 변증을 증상 하나에 고정하지 않기 {#bitter-taste-formulas}
 
 한의학의 간담열·위열·음허는 문진·진찰로 종합하는 변증입니다. ‘입이 쓰다=간담열’로 고정하지 않습니다. 건조·허열은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md), 명치 답답함·구역과 한열착잡은 [반하사심탕](../formulas/banxia-xiexin-tang.md), 뚜렷한 열증은 [황련해독탕](../formulas/huanglian-jiedu-tang.md)의 구성을 비교할 수 있습니다. 실제 원인 평가와 병용약 확인을 바탕으로 처방하며 특정 약이 쓴맛을 없앤다는 보장은 아닙니다.
