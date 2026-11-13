@@ -51,7 +51,7 @@ last_reviewed: 2026-09-22
 | 병증축 | 처방 | 구분의 중심 |
 |---|---|---|
 | 소양상풍·표병 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) | 오한·신체통, 발열·무한 또는 한열왕래·흉협 불편 |
-| 소양상풍·결흉 | [형방도적산](hyeongbangdojeok-san.md) | 명치의 단단한 그득함, 헛구역·숨 가쁨, 배뇨 불리 |
+| 소양상풍·결흉 | [형방도적산](hyeongbangdojeok-san.md) · [도적강기탕](hyeongbangdojeok-san.md#dojeokganggi-tang) | 명치의 단단한 그득함, 헛구역·숨 가쁨, 음수 후 구토·배뇨 변화 |
 | 신열두통망음 | [형방사백산](hyeongbangsabaek-san.md) | 신열·두통·번조·복령·택사·석고·지모 축 |
 | 표병·열과 배설 변화 | [형방도백산](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hyeongbangdobaek) | 두통·번조·구갈과 대소변 |
 | 신한복통망음 | [형방지황탕](hyeongbangjihwang-tang.md) | 복통·설사·진액 손상·기력 저하 |
@@ -76,7 +76,15 @@ last_reviewed: 2026-09-22
 
 1첩 합계는 각 상세 문서의 기본방과 현대 탕전 표기(1전당 4 g)를 따랐습니다. 같은 52 g이라도 약재와 비율이 다릅니다. 표의 순서는 병이 반드시 진행하는 순서를 뜻하지 않습니다.
 
-**발열과 두통**이 겹칠 때는 몸살과 무한이 앞서는지, 평소 설사와 이번 배변 변화가 함께 나타났는지 살핍니다. **가슴 답답함**이 겹칠 때는 명치가 단단하고 헛구역이 나는지, 얼굴·가슴의 번열과 구갈에 대변이 굳는지를 묻습니다. **설사 뒤 변이 막힐 때**는 배변이 줄어든 시점과 신열·두통·번조가 계속되는지를 확인합니다. [망음병과 흉격열병 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)
+### 결흉·망음·흉격열에서 증상이 겹칠 때 {#soyang-chestbinding-differential}
+
+| 겹치는 증상 | 문진에서 확인할 차이 | 비교할 처방 |
+|---|---|---|
+| 발열·두통 | 오한·몸살과 땀이 나지 않는 양상이 앞서는지, 설사가 먼저 있었고 배변이 줄어든 뒤에도 신열·두통·번조가 이어지는지 묻습니다. | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md) · [형방사백산](hyeongbangsabaek-san.md) |
+| 명치의 그득함 | 단단하게 그득한 명치에 헛구역·숨 가쁨과 음수 후 구토가 겹치는지, 몸이 차고 배가 아프면서 설사 전후로 배변 양상이 달라졌는지 살핍니다. | [형방도적산](hyeongbangdojeok-san.md) · [도적강기탕](hyeongbangdojeok-san.md#dojeokganggi-tang) · [형방지황탕](hyeongbangjihwang-tang.md) |
+| 가슴 답답함·갈증 | 오한·신체통과 명치 증상이 앞서는지, 얼굴과 가슴의 번열·구갈이 뚜렷하고 대변이 평소보다 굳어지는지 확인합니다. | [형방도적산](hyeongbangdojeok-san.md) · [양격산화탕](yanggyeoksanhwa-tang.md) |
+
+**도적강기탕은 형방도적산 9미에 복령·택사 각 1전을 더한 11미, 1첩 60 g**입니다. 신축본 9-17은 헛구역과 숨 가쁨이 있으면서 약을 먹고 다시 토하지 않는 경우에 이 가미를 기록했습니다. 형방사백산과 형방지황탕에는 복령·택사가 각 2전씩 들어갑니다. 배합은 [도적강기탕의 출전과 구성](hyeongbangdojeok-san.md#dojeokganggi-tang), 배변과 한열의 시간 경과는 [망음병과 흉격열병 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)에서 확인할 수 있습니다.
 
 ## 소음인
 

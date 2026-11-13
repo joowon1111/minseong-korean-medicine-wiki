@@ -109,10 +109,11 @@ last_reviewed: '2026-09-21'
 | 구분 | 중심 모습 | 함께 볼 감별 | 대표 처방 연결 |
 |---|---|---|---|
 | 소양상풍 초기·진행 | 오한·발열의 반복, 두통·신체통, 흉협 불편 | 감염, 체온, 발진, 호흡기 증상 | [형방패독산](../sasang-formula-library/hyeongbangpaedok-san.md), [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) |
-| 소양상풍 결흉 방향 | 흉격이 막힌 느낌, 번조, 구갈과 배변 변화 | 흉통·호흡곤란, 역류·소화기 질환 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md), [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
-| 망음 | 복통·설사, 오한·신체통, 기력과 진액 소모 | 탈수, 감염성 설사, 전해질 변화 | [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md), [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) |
+| 소양상풍병·결흉 | 신한·신체통과 명치의 단단한 그득함, 헛구역·숨 가쁨 | 흉통·호흡곤란의 원인, 물을 마신 뒤 구토와 배뇨 변화 | [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md) · [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang) |
+| 망음병·신열두통 | 신열·두통과 설사, 설사가 줄어든 뒤에도 번조·변폐가 이어지는지 확인 | 탈수, 감염성 설사, 평소 대변과 현재 배변의 차이 | [저령차전자탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jeoryeongchajeonja) · [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) |
+| 망음병·신한복통 | 신한·복통과 설사, 냉감이 심해지며 명치가 그득해지는지 확인 | 섭취량·소변량·기력, 탈수와 전해질 변화 | [활석고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwalseokgosam) · [형방지황탕](../sasang-formula-cards/hyeongbangjihwang-tang.md) |
 
-망음은 단순히 ‘음이 부족하다’는 말이 아니라 소양인 표병의 특정 역증입니다. 설사 횟수·양상, 복통, 갈증, 소변량, 체중과 활동 가능 범위를 함께 기록합니다.
+결흉은 소양상풍병의 표병 순증에 속하고, 망음은 표병의 역증에 속합니다. 두 병증 모두에서 명치 불편을 호소할 수 있어 헛구역·숨 가쁨과 설사·냉감 중 무엇이 먼저 나타났는지 묻습니다. 설사가 있었다면 횟수·양상과 함께 섭취량·소변량·활동 범위를 기록합니다. [소양상풍병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) · [망음병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062)
 
 ### 위수열리열병: 흉격열과 음허오열
 
