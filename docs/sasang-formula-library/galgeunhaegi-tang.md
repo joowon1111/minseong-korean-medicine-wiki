@@ -117,7 +117,7 @@ last_reviewed: 2026-09-21
 
 ## 출전과 이어 보기
 
-- [태음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
+- [태음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)
 
 - [한국전통지식포탈 갈근해기탕 P0018561](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018561&tempLang=ko)
 - [태음인 간수열리열 처방군](index.md#taeeum-interior)

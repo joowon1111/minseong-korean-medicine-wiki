@@ -105,7 +105,7 @@ last_reviewed: 2026-10-02
 
 ### 관찰 포인트 {#_9}
 
-땀의 양과 시간, 땀 뒤 기립 어지럼, 체온감, 식사량·대변, 혈압·맥박, 활동 회복을 봅니다. 실신·저혈압, 소변 감소, 고열·의식 변화는 즉시 평가합니다. 감초가 겹치는 제품과 병용약도 확인합니다. [소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
+땀의 양과 시간, 땀 뒤 기립 어지럼, 체온감, 식사량·대변, 혈압·맥박, 활동 회복을 봅니다. 실신·저혈압, 소변 감소, 고열·의식 변화는 즉시 평가합니다. 감초가 겹치는 제품과 병용약도 확인합니다. [소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 
 ## 승양익기부자탕(升陽益氣附子湯) {#soeum-seungyangikgi-buja}
 
@@ -263,7 +263,7 @@ last_reviewed: 2026-10-02
 - [천궁계지탕](#soeum-cheongung-gyeji)은 계지·백작약을 공유합니다. 오한·발열에 **무한**이 앞서는 울광 초증에서는 천궁·창출·진피가 들어가는 배합을, **자한**이 나타나는 망양 초증에서는 황기·백하수오 배합을 비교합니다.
 - [보중익기탕](#soeum-bojungikgi)·[승양익기탕](#soeum-seungyangikgi)은 자한에 오한이 사라지고 오열·복만·대변비조·번조가 더해지는 망양 중증에서 살핍니다. 땀이 나는 양과 함께 한열·배변의 변화를 확인합니다.
 
-[『동의사상신편』 P0018135](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018135&tempLang=ko)는 1돈을 3.75 g으로 표시하는 수록형이며, 약명에 하수오(何首烏)로 적힌 항목이 있어 위 지침의 백하수오와 구별해 확인합니다. 식은땀과 실신·흉통·심한 쇠약이 겹치면 순환·감염 등 원인 평가를 우선합니다. [소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
+[『동의사상신편』 P0018135](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018135&tempLang=ko)는 1돈을 3.75 g으로 표시하는 수록형이며, 약명에 하수오(何首烏)로 적힌 항목이 있어 위 지침의 백하수오와 구별해 확인합니다. 식은땀과 실신·흉통·심한 쇠약이 겹치면 순환·감염 등 원인 평가를 우선합니다. [소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 
 ## 팔물군자탕(八物君子湯) {#soeum-palmulgunja}
 
@@ -292,7 +292,7 @@ last_reviewed: 2026-10-02
 | [독삼팔물군자탕](#soeum-doksampalmulgunja) | 울광 말증이나 태양병궐음증 문맥에서 인삼의 비중을 높인 배합입니다. 극심한 번조, 의식·호흡 변화, 급격한 수족 냉감은 즉시 원인 평가가 필요합니다. |
 | [보중익기탕](#soeum-bojungikgi) | 복만·변비·번조가 겹쳐도 자한이 동반되는 망양 중증인지 확인합니다. 인삼·황기의 비중과 곽향·소엽의 유무가 다릅니다. [울광병중증과 망양병중증의 처방 4종 비교](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas) |
 
-[『동의사상신편』 P0018140](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018140&tempLang=ko)의 공개 구성에는 천궁이 표시되지 않습니다. 위 표는 천궁을 포함한 진료지침의 8미를 따릅니다. [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)은 별도의 출전과 구성을 확인할 수 있습니다. [소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
+[『동의사상신편』 P0018140](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018140&tempLang=ko)의 공개 구성에는 천궁이 표시되지 않습니다. 위 표는 천궁을 포함한 진료지침의 8미를 따릅니다. [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)은 별도의 출전과 구성을 확인할 수 있습니다. [소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 
 ## 독삼팔물군자탕(獨蔘八物君子湯) {#soeum-doksampalmulgunja}
 
@@ -333,7 +333,7 @@ last_reviewed: 2026-10-02
 - [황기계지탕](#soeum-hwanggigyeji)과는 오한이 남아 있는지와 자한·복만·변비가 어느 시점에 나타났는지를 비교합니다.
 - [승양익기탕](#soeum-seungyangikgi)과는 같은 망양병중증 안에서 배합이 갈립니다. 보중익기탕은 인삼·황기의 비중이 크고 백출·진피·곽향·소엽을 둡니다. 승양익기탕은 계지·백작약을 인삼·황기와 같은 비중으로 두고 관계·백하수오를 더합니다. 진료지침은 두 처방을 함께 제시하며, 이 배합 차이는 땀·한열과 식사·복만을 다시 확인하는 데 활용합니다. [울광병중증과 망양병중증의 처방 4종 비교](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas)
 
-[『동의사상신편』 P0018133](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018133&tempLang=ko)은 곽향·소엽을 각각 1.875 g으로 기재하고 주치에 망양초증을 싣습니다. 일반 방제 [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 승마·시호 배합과 비교할 때에도 출전과 실제 조제 구성을 확인합니다. 재진에서는 땀 뒤 기력, 혈압·심계·부종, 식사와 배변을 함께 살핍니다. [소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
+[『동의사상신편』 P0018133](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018133&tempLang=ko)은 곽향·소엽을 각각 1.875 g으로 기재하고 주치에 망양초증을 싣습니다. 일반 방제 [보중익기탕](../formulas/buzhong-yiqi-tang.md)의 승마·시호 배합과 비교할 때에도 출전과 실제 조제 구성을 확인합니다. 재진에서는 땀 뒤 기력, 혈압·심계·부종, 식사와 배변을 함께 살핍니다. [소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 
 ## 향사양위탕(香砂養胃湯) {#soeum-hyangsayangwi}
 
@@ -365,7 +365,7 @@ last_reviewed: 2026-10-02
 | [백하오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) | 냉감·복통·설사가 먼저였는지, 식후 명치 답답함과 식욕 저하가 중심인지 확인합니다. 백하오이중탕은 백하수오·계지·포건강을 둡니다. |
 | [계지반하생강탕](#soeum-gyeji-banha) | 심하비만과 오심·구역이 앞서는 경우 계지·반하·생강에 무게를 둔 배합을 살핍니다. [세 처방의 약량과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas) |
 
-[『동의사상신편』 P0018148](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018148&tempLang=ko)의 공개 DB에는 백두구 3.75 g만 수치가 표시되고 나머지 약량은 공란입니다. 위 1첩량은 진료지침의 정량 구성을 따릅니다. 먹기 전 식욕과 먹은 뒤 증상의 시점을 따로 기록하고, 구토·변의 변화와 수분 섭취를 확인합니다. 지속 구토·급격한 체중 감소·출혈·황달은 원인 평가가 우선입니다. [소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
+[『동의사상신편』 P0018148](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018148&tempLang=ko)의 공개 DB에는 백두구 3.75 g만 수치가 표시되고 나머지 약량은 공란입니다. 위 1첩량은 진료지침의 정량 구성을 따릅니다. 먹기 전 식욕과 먹은 뒤 증상의 시점을 따로 기록하고, 구토·변의 변화와 수분 섭취를 확인합니다. 지속 구토·급격한 체중 감소·출혈·황달은 원인 평가가 우선입니다. [소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 
 ## 강출관중탕(薑朮寬中湯) {#soeum-gangchulgwanjung}
 

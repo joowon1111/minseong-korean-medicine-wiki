@@ -51,7 +51,7 @@ last_reviewed: 2026-10-02
 ## 이어서 보기
 
 - [열 살 겨울, 늘 낫던 복통이 달라졌다](../classical-stories/sasang/soeumin-watery-diarrhea-reassessment.md) — 반복 복통·설사에 백하오이중탕을 쓰다가 하리청수가 멎지 않아 부자이중탕으로 전환한 『동의수세보원』 의안
-- [소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
+- [소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 - [소음인 태음병 처방군](../sasang-formula-library/index.md#soeum-taeeum)
 - [소음인 통합 허브](../sasang-integrated/soeumin.md)
 

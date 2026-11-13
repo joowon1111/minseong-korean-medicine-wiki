@@ -71,7 +71,7 @@ last_reviewed: 2026-10-02
 
 ## 이어서 보기
 
-- [소음인 주요 처방 10종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
+- [소음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#soeumin-eight-formulas)
 - [소음인 비위·기체 처방군](../sasang-formula-library/index.md#soeum-taeeum)
 - [소음인 통합 허브](../sasang-integrated/soeumin.md)
 
