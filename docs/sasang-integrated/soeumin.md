@@ -127,6 +127,8 @@ last_reviewed: '2026-09-21'
 
 ## 처방을 고르는 임상 흐름 {#formula-selection}
 
+발열·복만·변비는 [울광병과 망양병 처방 4종](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-ulgwang-mangyang-formulas), 식후 명치 답답함과 오심·구토는 [태음병심하비만증 처방 3종](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soeumin-epigastric-fullness-formulas)에서 비교할 수 있습니다.
+
 ```text
 소음인 판단 근거 → 평소 식욕·소화·대변·땀 → 표병/리병
 → 울광·망양 / 태음병·소음병 → 중증도 → 처방 → 음식선화와 기능 회복 평가

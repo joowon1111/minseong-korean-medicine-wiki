@@ -134,6 +134,8 @@ last_reviewed: '2026-09-21'
 
 ## 처방을 고르는 임상 흐름 {#formula-selection}
 
+식후 그득함과 무른 변·부종은 [태음조위탕과 조위승청탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison), 지속되는 갈증과 배변 변화는 [열다한소탕·청폐사간탕·갈근승기탕](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison)에서 배합과 함께 비교할 수 있습니다.
+
 ```text
 태음인 판단 근거 → 평소 땀·호흡·소화·대변 → 표한/리열
 → 위완한·폐조 / 간열·폐조 → 순역·중증도 → 치료 뒤 발한·소증 재평가
