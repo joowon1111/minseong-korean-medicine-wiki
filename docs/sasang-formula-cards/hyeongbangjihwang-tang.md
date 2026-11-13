@@ -52,4 +52,4 @@ last_reviewed: 2026-10-02
 ## 근거 해석과 이어서 보기
 
 - [형방지황탕 관련 문헌](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001306416)은 처방의 전통적 활용을 이해하는 자료입니다. 질환별 효과 크기와 안전성은 해당 환자군과 실제 처방을 조사한 임상연구에서 따로 확인합니다.
-- [소양인 주요 다섯 처방 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [소양인 망음과 흉격열 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)
+- [소양인 주요 다섯 처방 비교](../sasang-formula-cards/comparison-map.md#soyang-five-formulas) · [형방사백산·형방지황탕·양격산화탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas) · [소양인 망음과 흉격열 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)

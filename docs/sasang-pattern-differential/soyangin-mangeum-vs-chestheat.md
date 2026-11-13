@@ -47,6 +47,8 @@ description: 소양인 망음병 vs 흉격열병 — 민성 한의학 아카이�
 
 [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang)은 같은 결흉 계열에서 형방도적산의 9미에 복령·택사 각 1전을 더한 구성입니다. 신축본 9-17은 건구·단기가 있으면서 약을 다시 토하지 않는 경우에 이 가미를 기록했습니다. 형방사백산과 형방지황탕에도 복령·택사가 들어가지만 각 2전이고, 망음 감별에서는 **설사 전후의 신열·두통·번조** 또는 **신한·복통·명치 그득함**을 함께 봅니다. 흉격열병 쪽은 구갈·번열과 대변이 굳어지는 경과를 함께 확인합니다. [소양상풍병 진료지침의 9-17 인용](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART001917061#page=6) · [복령·택사 비교 연구](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART003188584)
 
+형방사백산·형방지황탕·양격산화탕의 [본초별 1첩 용량과 배변 경과 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#soyang-major-three-formulas)에서 세 처방의 공통 약재와 신열·신한·흉격열의 감별 단서를 함께 확인할 수 있습니다.
+
 ### 한 사람의 변화를 기록하는 방법
 
 첫 진찰에는 평소 식사·대변·소변·땀·수면과 현재의 두통·한열·흉격 불편·복통·갈증을 구분해 적습니다. 재진에서는 같은 항목을 다시 묻고, 배변 횟수만 줄었더라도 섭취가 어렵거나 소변이 감소하면 수분 상태와 병증을 다시 평가합니다. 진찰과 검사에서 확인한 감염·심폐·소화기 질환은 체질병증 기록과 함께 관리합니다.
