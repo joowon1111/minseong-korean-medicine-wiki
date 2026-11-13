@@ -49,7 +49,7 @@ last_reviewed: 2026-09-22
 
 마황정통탕은 『동의사상신편』 수록량입니다. 나머지 7종은 한의표준임상진료지침의 약량을 1돈당 4 g으로 환산했습니다. 갈근해기탕의 동명 8미형과 태음조위탕·청심연자탕의 후대 수록량은 각 상세 문서에서 볼 수 있습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
 
-두근거림과 불면이 겹치면 식후 그득함·설사·부종과 함께 변했는지, 갈증·다뇨·건조와 함께 변했는지 묻습니다. [태음조위탕과 조위승청탕의 구성·용량과 조한병 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) 갈근을 공유하는 리열 처방은 **두면·눈·코의 열증**, **지속 갈증과 건조**, **변폐와 복만**의 경과를 나누어 비교합니다.
+두근거림과 불면이 겹치면 식후 그득함·설사·부종과 함께 변했는지, 갈증·다뇨·건조와 함께 변했는지 묻습니다. [태음조위탕과 조위승청탕의 구성·용량과 조한병 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) 갈근을 공유하는 리열 처방은 **두면·눈·코의 열증**, **지속 갈증과 건조**, **변폐와 복만**의 경과를 나누어 비교합니다. [열다한소탕·청폐사간탕·갈근승기탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison)
 
 ## 소양인
 

@@ -48,7 +48,7 @@ description: 태음인 표한병 vs 리열병 — 민성 한의학 아카이브�
 - **간열·폐조:** 열·갈증·다한·피부와 대변 건조가 중심이면 [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) 계열을 봅니다.
 - **양독·두면부 열:** 인후·피부·두면부 열성 변화가 두드러지면 갈근해기탕의 위치를 비교합니다.
 - **조열·심신 증후:** 현훈·심번·심계·수면불편이 조열과 함께 움직이면 [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md)을 비교합니다.
-- **강한 리열·정체:** 번갈·변비·복만이 강하면 [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md)·승기계 처방을 비교합니다.
+- **배변 변화가 겹칠 때:** 지속 갈증·다뇨·건조가 있는 조열병증에서는 [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md)의 대황 배합을 비교합니다. 조열·다한과 함께 복만·변폐 또는 열성 설사가 진행한 간열병우증은 갈근승기탕에 연결됩니다. [태음인 리열 처방 3종 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison)
 
 ## '땀'을 단독 기준으로 쓰지 않기
 

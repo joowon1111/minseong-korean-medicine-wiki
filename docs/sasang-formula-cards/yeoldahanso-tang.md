@@ -79,7 +79,7 @@ last_reviewed: 2026-09-21
 
 | 처방 | 공통점 | 열다한소탕과 갈리는 지점 |
 |---|---|---|
-| [청폐사간탕](cheongpyesagan-tang.md) | 갈근·고본·황금·길경·나복자·백지·승마가 동일 | **대황 추가**. 변비·복만·번갈과 장부의 정체가 더 뚜렷한지 확인 |
+| [청폐사간탕](cheongpyesagan-tang.md) | 갈근·고본·황금·길경·나복자·백지·승마가 동일 | 같은 조열병증에서 **대황 4 g**이 더해짐. 굳은 변·배변 곤란·복만이 함께 변하는지 확인. [갈근승기탕까지 3종 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison) |
 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md) | 갈근·황금·길경·백지·승마의 해기청열 축 | 지침의 6미 갈근해기탕은 간열병초증의 안면·수족 홍조, 눈 통증·비강 건조에 연결. 행인·대황·산조인은 후대 8미형의 구성 |
 | [청심연자탕](cheongsimyeonja-tang.md) | 간열폐조·조열을 함께 다룸 | 심번·현훈·심계·불면·피로 같은 심신 증상과 진액 보완의 비중이 큰지 확인 |
 | [태음조위탕](taeeumjowi-tang.md) | 태음인 대표 처방 | 오한·무한·몸의 무거움·식후비만·담습이 중심인 위완수한표한병과 구분 |
