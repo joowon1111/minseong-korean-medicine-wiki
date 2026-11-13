@@ -40,7 +40,7 @@ description: 태음인 표한병 vs 리열병 — 민성 한의학 아카이브�
 
 - **표한·한궐·통증:** 오한·무한과 흉복통·신체통이 앞서면 마황정통탕 계열을 비교합니다.
 - **비위 담습·조위:** 식후 팽만·몸의 무거움·담과 발한불리가 중심이면 [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md)을 봅니다.
-- **승청 저하:** 중소·하지무력·회복 지연이 커지면 [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md)을 비교합니다.
+- **조한병우증:** 식후 그득함·설사·부종과 함께 두근거림·수면장애·불안이 뚜렷하면 [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md)을 비교합니다. 중소·하지무력은 후대 수록 자료에서 확인할 수 있습니다. [태음조위탕과 조위승청탕의 구성·용량과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison)
 - **호흡·폐원:** 기침·담·병후 회복이 전면이면 행인승청탕·조리폐원탕 계열을 함께 봅니다.
 
 ## 리열 안에서도 다시 나누기
