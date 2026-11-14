@@ -39,12 +39,12 @@ tags: [동의수세보원, 이제마, 사상의학, 사상처방, 신축본]
 | [인삼오수유탕](soeumin-extended-formulas.md#soeum-insamosuyu) | 人蔘吳茱萸湯 | [PDF 84쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=84) |
 | [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md) | 官桂附子理中湯 | [PDF 84쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=84) |
 | [오수유부자이중탕](osuyubujairijung-tang.md) | 吳茱萸附子理中湯 | [PDF 84쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=84) |
-| [백하수오부자이중탕](../sasang-formula-cards/baekhao-ijung-tang.md#baekhao-buja-cpg) | 白何首烏附子理中湯 | [PDF 84쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=84) |
-| [백하수오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) | 白何首烏理中湯 | [PDF 85쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=85) |
+| [백하수오부자이중탕](../sasang-formula-cards/baekhao-ijung-tang.md#baekhao-buja-cpg) | 白何烏附子理中湯 | [PDF 84쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=84) |
+| [백하수오이중탕](../sasang-formula-cards/baekhao-ijung-tang.md) | 白何烏理中湯 | [PDF 85쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=85) |
 
 ### 이중탕과 관중탕에서 먼저 확인할 대목 {#soeum-original-context}
 
-- **백하수오이중탕과 백하수오부자이중탕**은 각각 PDF 85쪽과 84쪽에 독립 표제로 있습니다. 현대 지침은 이름을 백하오이중탕과 백하오부자이중탕으로 줄여 쓰므로 양쪽 표기로 찾을 수 있습니다. [원전 약미와 지침의 태음병복만자리증 수록 위치](../sasang-formula-cards/baekhao-ijung-tang.md#baekhao-buja-cpg)
+- **백하수오이중탕과 백하수오부자이중탕**은 각각 PDF 85쪽과 84쪽에 독립 표제로 있습니다. 석판본 표제와 현대 지침은 백하오이중탕과 백하오부자이중탕으로 적고, 두 원전 배합의 첫 약재는 백하수오(白何首烏)로 적습니다. 두 표기로 찾을 수 있습니다. [원전 약미와 지침의 태음병복만자리증 수록 위치](../sasang-formula-cards/baekhao-ijung-tang.md#baekhao-buja-cpg)
 - **적백하오관중탕** 본문은 적하수오를 인삼으로 바꾼 인삼백하오관중탕, 당귀로 바꾼 당귀백하오관중탕을 언급합니다. 그 뒤에 고방 관중탕과 관중환도 함께 나옵니다. **팔물군자탕** 아래에는 독삼팔물군자탕의 이름이 들어 있습니다. 이 이름들은 해당 본표제 아래에서 찾습니다. [관중탕](soeumin-extended-formulas.md#soeum-gwanjung) · [독삼팔물군자탕](soeumin-extended-formulas.md#soeum-doksampalmulgunja)
 - **산밀탕·계삼고·파두단**은 같은 면에 나옵니다. ‘치리질(治痢疾)’은 산밀탕에 이어 계삼고와 파두단 쪽으로 넘어가는 병증 표기입니다. 파두단은 역사적 위치를 확인하는 항목입니다. [산밀탕 서지와 처방 해설](https://encykorea.aks.ac.kr/Article/E0026230)
 
