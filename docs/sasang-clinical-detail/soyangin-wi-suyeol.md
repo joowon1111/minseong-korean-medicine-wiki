@@ -11,6 +11,8 @@ tags: [사상의학, 소양인, 위수열리열병]
 
 [신축본 상소·중소·하소에 해당하는 원문](../classics/donguisusebowon/original.md#soyang-three-wastings) · [진료지침 병증·처방 색인으로 돌아가기](../sasang-formula-library/guideline-pattern-index.md#soyangin-cpg)
 
+**갈증과 배뇨는 횟수와 양을 나눠 묻습니다.** [상소](#chestheat-sangso)는 자주 보면서 한 번 양이 적은 소변과 입·혀의 열성 변화, [중소](#chestheat-jungso)는 허기·섭취 증가와 체중 감소, [하소](#oyeol-haso)는 소변량 증가와 하지 소모가 비교점입니다. 기록할 때는 하루 소변량과 횟수, 물을 마신 양, 실제 체중을 구분합니다. 발열·두통 전에 설사가 있었거나 배변 상태가 갑자기 바뀌었다면 [신열두통망음증](soyangin-bi-suhan.md#mangeum-heat)도 함께 살핍니다.
+
 ## 흉격열병(胸膈熱病) {#hyung-gyeok-yeol}
 
 리열병의 순증입니다. 갈증과 상부 열감이 있는 사람에서 변이 굳어지는 속도, 소변량·색, 안면과 인후의 변화를 봅니다. 지침은 초증·우증과 상소·중소를 여기에 둡니다.

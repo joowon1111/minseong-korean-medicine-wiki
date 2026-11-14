@@ -11,6 +11,8 @@ tags: [사상의학, 태양인, 내촉소장병]
 
 [신축본 삼킴과 반위를 구분한 원문](../classics/donguisusebowon/original.md#taeyang-swallow-vomit) · [진료지침 병증·처방 색인으로 돌아가기](../sasang-formula-library/guideline-pattern-index.md#taeyangin-cpg)
 
+**식후 불편이 생기는 시점을 구분합니다.** 삼키는 순간 사레가 드는지, 삼킨 뒤 가슴에 걸리는지, 시간이 지나 음식이 되올라오는지 묻습니다. 복통·복명·배변 변화가 중심이면 [소장병순증](#sojang-sun), 삼킴이나 섭취 유지가 어렵다면 [열격병](#yeolgeok)의 해설을 확인합니다. 반복되는 사레나 체중 감소가 있으면 삼킴 장애의 원인과 수분·영양 상태를 평가합니다. [연하곤란의 증상과 평가](https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/)
+
 ## 소장병순증(小腸病順病) {#sojang-sun}
 
 학회 지침의 소장병경증입니다. 배변이 순조롭지 않고 복통·복명·설사 등이 나타날 수 있습니다. 음식이 목이나 가슴에서 걸리는지, 식사를 유지할 수 있는지를 물어 열격과 구분합니다.

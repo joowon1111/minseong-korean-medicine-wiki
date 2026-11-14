@@ -105,6 +105,8 @@ last_reviewed: '2026-09-21'
 
 ### 비수한표한병: 소양상풍과 망음
 
+[비수한표한병 상세](../sasang-clinical-detail/soyangin-bi-suhan.md) · [소양상풍병](../sasang-clinical-detail/soyangin-bi-suhan.md#soyang-sangpung) · [망음병](../sasang-clinical-detail/soyangin-bi-suhan.md#mangeum)
+
 [손발바닥 발한과 병해](../classics/donguisusebowon/original.md#soyang-palm-sweat), [신한·복통과 설사 양상의 대조](../classics/donguisusebowon/original.md#soyang-cold-abdominal-stool), [육미탕 사용 뒤 판단을 수정한 병례](../classics/donguisusebowon/original.md#soyang-six-flavor-reassessment)에서 원문과 한국어 풀이를 함께 읽습니다.
 
 소양인의 표병은 비국의 음청지기가 충분히 상승·분포되지 못하는 방향으로 설명합니다. 비교적 얕은 소양상풍병에서는 한열왕래, 두통·신체통, 흉격 불편과 대변 변화를 함께 봅니다. 표병이 깊어져 **복통·설사와 전신 소모**가 두드러지는 역증의 축을 망음병이라 합니다.
@@ -119,6 +121,8 @@ last_reviewed: '2026-09-21'
 결흉은 소양상풍병의 표병 순증에 속하고, 망음은 표병의 역증에 속합니다. 두 병증 모두에서 명치 불편을 호소할 수 있어 헛구역·숨 가쁨과 설사·냉감 중 무엇이 먼저 나타났는지 묻습니다. 설사가 있었다면 횟수·양상과 함께 섭취량·소변량·활동 범위를 기록합니다. [소양상풍병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061) · [망음병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062)
 
 ### 위수열리열병: 흉격열과 음허오열
+
+[위수열리열병 상세](../sasang-clinical-detail/soyangin-wi-suyeol.md) · [흉격열병](../sasang-clinical-detail/soyangin-wi-suyeol.md#hyung-gyeok-yeol) · [음허오열병](../sasang-clinical-detail/soyangin-wi-suyeol.md#eumheo-oyeol)
 
 리병은 위국의 열기가 치성해지는 방향으로 설명합니다. 흉격열에서는 상열·번열·구갈·대변 불리와 흉격의 답답함이 중요하고, 병이 깊어져 음청지기의 소모가 커지면 음허오열·하소 방향의 하지무력, 배뇨 변화, 지속적인 소모를 살핍니다.
 

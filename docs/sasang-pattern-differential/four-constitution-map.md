@@ -39,10 +39,16 @@ description: 네 체질 병증 감별 핵심표 — 민성 한의학 아카이�
 
 ## 체질별 대표 병증 흐름
 
-- **소양인:** 소양상풍 → 결흉 → 신열두통망음 → 망음 설사·복통 / 흉격열 → 강한 리열 → 음허오열.
-- **태음인:** 표한·비위담습 → 승청 저하·호흡 → 병후 폐원 회복 / 간열·폐조 → 조열·양독 → 승기·정체.
-- **소음인:** 울광 → 망양초증 → 망양 심화 / 태음병 → 구토·토사 → 소음병·장궐.
-- **태양인:** 외감요척병·해역 ↔ 내촉소장병·열격·반위.
+표병과 리병을 구분한 뒤, 같은 축 안에서 순증과 역증을 비교합니다. 예를 들어 소양인의 결흉은 소양상풍병 안의 분기이고, 망음병은 같은 표병 축의 별도 병증군입니다. 세부 경과는 각 해설에서 확인할 수 있습니다.
+
+| 체질 | 표병과 주요 병증 | 리병과 주요 병증 |
+|---|---|---|
+| 소음인 | [신수열표열병](../sasang-clinical-detail/soeumin-sin-suyeol.md) · [울광병](../sasang-clinical-detail/soeumin-sin-suyeol.md#ulgwang) / [망양병](../sasang-clinical-detail/soeumin-sin-suyeol.md#mangyang) | [위수한리한병](../sasang-clinical-detail/soeumin-wi-suhan.md) · [태음병](../sasang-clinical-detail/soeumin-wi-suhan.md#taeeumbyeong) / [소음병](../sasang-clinical-detail/soeumin-wi-suhan.md#soeumbyeong) |
+| 소양인 | [비수한표한병](../sasang-clinical-detail/soyangin-bi-suhan.md) · [소양상풍병](../sasang-clinical-detail/soyangin-bi-suhan.md#soyang-sangpung) / [망음병](../sasang-clinical-detail/soyangin-bi-suhan.md#mangeum) | [위수열리열병](../sasang-clinical-detail/soyangin-wi-suyeol.md) · [흉격열병](../sasang-clinical-detail/soyangin-wi-suyeol.md#hyung-gyeok-yeol) / [음허오열병](../sasang-clinical-detail/soyangin-wi-suyeol.md#eumheo-oyeol) |
+| 태음인 | [위완수한표한병](../sasang-clinical-detail/taeeumin-wiwan-suhan.md) · [위완한병](../sasang-clinical-detail/taeeumin-wiwan-suhan.md#wiwan-han) / [위완한폐조병](../sasang-clinical-detail/taeeumin-wiwan-suhan.md#wiwan-han-pyejo) | [간수열리열병](../sasang-clinical-detail/taeeumin-gan-suyeol.md) · [간열병](../sasang-clinical-detail/taeeumin-gan-suyeol.md#gan-yeol) / [간열폐조병](../sasang-clinical-detail/taeeumin-gan-suyeol.md#gan-yeol-pyejo) |
+| 태양인 | [외감요척병](../sasang-clinical-detail/taeyangin-oegam-yocheok.md) · [요척병순증](../sasang-clinical-detail/taeyangin-oegam-yocheok.md#yocheok-sun) / [해역병](../sasang-clinical-detail/taeyangin-oegam-yocheok.md#haeyeok) | [내촉소장병](../sasang-clinical-detail/taeyangin-naechok-sojang.md) · [소장병순증](../sasang-clinical-detail/taeyangin-naechok-sojang.md#sojang-sun) / [열격병](../sasang-clinical-detail/taeyangin-naechok-sojang.md#yeolgeok) |
+
+[진료지침 병증·처방 전체 색인](../sasang-formula-library/guideline-pattern-index.md)에서 병증별 세부 단계와 처방을 확인할 수 있습니다.
 
 ## 자주 생기는 감별 오류
 

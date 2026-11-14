@@ -11,6 +11,8 @@ tags: [사상의학, 태음인, 위완수한표한병]
 
 [신축본 발한과 반복되는 한궐을 기록한 원문](../classics/donguisusebowon/original.md#taeeum-long-cold) · [진료지침 병증·처방 색인으로 돌아가기](../sasang-formula-library/guideline-pattern-index.md#taeeumin-cpg)
 
+**오한이 같아도 발병 전후가 다릅니다.** 몸살·발열이 시작된 뒤 땀이 잘 나지 않고 숨이 차면 [배추표병초증](#baechu-early)과 [효천병증](#hyocheon)을 비교합니다. 식후 그득함·설사·부종이 먼저였고 피로와 건조가 쌓였다면 [조한병증](#johan) 쪽 문진을 이어갑니다. 건조감이 있으면 냉감·식후 반응과 함께 오래가는 갈증·다뇨가 있는지도 물어 [간열폐조병](taeeumin-gan-suyeol.md#gan-yeol-pyejo)과 구분합니다.
+
 ## 위완한병(胃脘寒病) {#wiwan-han}
 
 표한병의 순증입니다. 오한이 발열·무한과 함께 오는지, 열 없이 지속하는지, 숨참이나 쌕쌕거림이 두드러지는지에 따라 세부 분기를 살핍니다.

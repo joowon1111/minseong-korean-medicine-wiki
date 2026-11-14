@@ -11,6 +11,8 @@ tags: [사상의학, 태양인, 외감요척병]
 
 [신축본 상체와 하체 기능을 대조한 해역 원문](../classics/donguisusebowon/original.md#taeyang-haeyeok-function) · [진료지침 병증·처방 색인으로 돌아가기](../sasang-formula-library/guideline-pattern-index.md#taeyangin-cpg)
 
+**보행과 배뇨는 각각 기록합니다.** 소변량이나 횟수 변화와 함께, 평소 걷던 거리·계단·의자에서 일어나는 동작이 어떻게 달라졌는지 묻습니다. 요척병순증에서는 오한·발열·몸살이 중심이고, 해역병에서는 기립·보행 기능의 저하가 감별 단서입니다. 음식이 걸리거나 식사를 유지하기도 어렵다면 [해역과 열격이 겹치는 경우](#haeyeok-reverse)를 함께 확인합니다. [태양인 진단 및 알고리즘](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978955)
+
 ## 요척병순증(腰脊病順病) {#yocheok-sun}
 
 학회 지침의 요척병경증에 해당합니다. 소변량과 횟수가 평소보다 줄면서 몸살·오한·발열이 나타나는 조합을 살핍니다. 자세를 유지할 수 있는지, 보행거리와 계단 오르기가 평소 수준인지 확인해 해역과 구분합니다.

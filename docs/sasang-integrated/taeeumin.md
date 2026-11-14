@@ -97,6 +97,8 @@ last_reviewed: '2026-09-21'
 
 ### 위완수한표한병
 
+[위완수한표한병 상세](../sasang-clinical-detail/taeeumin-wiwan-suhan.md) · [위완한병](../sasang-clinical-detail/taeeumin-wiwan-suhan.md#wiwan-han) · [위완한폐조병](../sasang-clinical-detail/taeeumin-wiwan-suhan.md#wiwan-han-pyejo)
+
 [장감병의 경과](../classics/donguisusebowon/original.md#taeeum-long-cold)와 [쾌한의 모양·지속시간](../classics/donguisusebowon/original.md#taeeum-sweat-quality)을 원문으로 읽으면 발한량만으로 회복을 판단하지 않는 이유를 이해할 수 있습니다.
 
 위완수한표한병은 위완의 상승·호산 기능이 충분히 펴지지 못해 표부에 한증이 나타나는 방향입니다. ‘위가 차다’는 소화기 증상 하나보다 오한, 몸살·무거움, 발한불리, 두통·신체통, 호흡기 불편과 식후 반응을 함께 봅니다.
@@ -109,6 +111,8 @@ last_reviewed: '2026-09-21'
 | 위완한폐조 | 호흡기 불편, 건조·소모와 회복 지연 | 폐질환·감염, 빈혈, 체중감소 | [조리폐원탕](../sasang-formula-library/joripyewon-tang.md), [경험승청탕](#taeeum-gyeongheomseungcheong) |
 
 ### 간수열리열병
+
+[간수열리열병 상세](../sasang-clinical-detail/taeeumin-gan-suyeol.md) · [간열병](../sasang-clinical-detail/taeeumin-gan-suyeol.md#gan-yeol) · [간열폐조병](../sasang-clinical-detail/taeeumin-gan-suyeol.md#gan-yeol-pyejo)
 
 간수열리열병은 간국의 흡취·열이 성하고 폐국의 호산·청숙 기능이 충분히 균형을 잡지 못하는 리열 방향입니다. 열감·갈증·번조뿐 아니라 땀, 대변·피부의 건조, 호흡, 수면과 대사 상태를 함께 살핍니다.
 
