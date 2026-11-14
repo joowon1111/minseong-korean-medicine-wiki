@@ -104,6 +104,8 @@ Liu et al., *Annals of Internal Medicine* 2016 다기관 RCT는 중증 기능성
 
 ## 생활관리와 경과 관찰 {#_6}
 
+성인 만성 특발성 변비에서 미국소화기학회(AGA)와 미국소화기내과학회(ACG)의 공동 지침은 폴리에틸렌글리콜(PEG)을 권고하고 센나는 조건부로 제안합니다. 마자인환 시험은 센나와 위약을 비교군으로 사용했습니다. [AGA·ACG 공동 지침](https://gastro.org/clinical-guidance/pharmacological-management-of-chronic-idiopathic-constipation-cic/)
+
 - 수분과 식이섬유는 현재 섭취량과 복부팽만 반응을 보며 점진적으로 조절합니다.
 - 규칙적인 식사·활동과 배변 시간을 만들고 변의를 오래 참지 않습니다.
 - 배변일지에는 횟수, 변 형태, 힘주기, 잔변감, 복통과 사용 약물을 함께 적습니다.

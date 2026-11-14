@@ -55,10 +55,8 @@ IBS는 **설사형·변비형·혼합형**과 복통·팽만의 비중이 다릅
 
 ## 기능성변비 {#_4}
 
-- 마자인환·센나·위약을 비교한 291명 시험에서 8주 완전자발배변 반응률은 68.0%·57.7%·33.0%였습니다. 마자인환은 위약보다 유리했고 센나와의 차이는 뚜렷하지 않았습니다. [시험과 추적 결과](../conditions/functional-constipation.md#maziren-constipation-results)
 - [마자인환](../../formulas/mazi-ren-wan.md): 291명 위약·센나 대조시험에서 8주 배변반응과 16주 추적결과를 평가했습니다. [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/)
 - 앞선 마자인환 위약대조 단계는 120명이며, 용량 탐색 96명은 별도입니다. [PMID 21045817](https://pubmed.ncbi.nlm.nih.gov/21045817/)
-- 보중익기탕 가미방 25 RCT·2,089명 메타분석, PMID `29552087`
 
 ### 마자인환 시험에서 실제로 비교한 결과 {#mazi-ren-wan-trial}
 
