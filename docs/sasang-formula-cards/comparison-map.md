@@ -12,6 +12,8 @@ last_reviewed: 2026-09-22
 
 [소양인 11종](#soyang-five-formulas) · [소음인 12종](#soeumin-eight-formulas) · [태음인 12종](#taeeumin-eight-formulas) · [태양인 2종](#taeyangin-two-formulas)
 
+[진료지침 병증·처방 전체 색인](../sasang-formula-library/guideline-pattern-index.md)에서 이 비교표에 포함되지 않은 병증 단계와 처방도 찾을 수 있습니다.
+
 ## 1첩 용량은 어느 자료를 기준으로 하나요? {#dose-source}
 
 각 처방의 표에 적힌 출전을 먼저 확인합니다. 진료지침이나 원전 인용 자료의 돈(전·錢)을 **1돈당 4 g**으로 표기한 경우에는 환산 기준을 함께 적었습니다. 후대 문헌의 수록량은 해당 자료의 값을 따릅니다. 가령 [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md#later-edition)은 지침 6미와 후대 8미의 약재 자체가 다르고, [백하오이중탕](baekhao-ijung-tang.md#later-edition)은 수록형에 따라 약재 비율이 다릅니다. 1첩의 원생약 중량과 제품의 복용량은 각각 해당 자료에서 확인합니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)

@@ -14,9 +14,11 @@ last_reviewed: 2026-09-22
 
 `체질 → 평소 소증 → 현재 체질병증 → 표리·한열 → 순증/역증·경중 → 치법 → 처방 → 경과평가`
 
-[사상체질별 한약처방](../sasang-formula-cards/index.md)은 모든 처방을 네 체질의 병증 흐름 안에서 한 번에 보여줍니다. 이 색인에서는 같은 처방을 표리·순역·경중에 따라 다시 묶어 가까운 처방과 감별할 수 있습니다.
+[사상체질별 한약처방](../sasang-formula-cards/index.md)은 이 허브에 수록된 처방을 네 체질의 병증 흐름 안에서 보여줍니다. 이 색인에서는 같은 처방을 표리·순역·경중에 따라 다시 묶어 가까운 처방과 감별할 수 있습니다.
 
 [주요 사상체질 처방 37종의 1첩 용량과 감별](../sasang-formula-cards/comparison-map.md)에서 본초별 용량표와 가까운 처방의 차이를 확인할 수 있습니다.
+
+[진료지침 병증·처방 전체 색인](guideline-pattern-index.md)에서 초증·우증·심증 등 세부 단계마다 지침에 실린 처방을 찾을 수 있습니다. [신축본 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)는 신정방과 선행 경험방의 권차를 보여 줍니다.
 
 ## 체질·병증군으로 찾기 {#constitution-pattern-index}
 
