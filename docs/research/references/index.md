@@ -44,9 +44,7 @@ last_reviewed: '2026-08-23'
 | 처방/영역 | 대표 근거 | 규모 | PMID |
 |---|---|---:|---|
 | 마자인환 · 기능성 변비 | 8개 기관 이중눈가림 무작위시험 | 291명, 8주 반응률 68.0% 대 위약 33.0%. 센나 대비 차이는 유의하지 않음 | [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) |
-| 반하사심탕 · 기능성소화불량 | 두 기관 위약대조 무작위시험 | 100명, 6주. 전체 증상·삶의 질 군 간 유의차 없음 | [PMID 23861702](https://pubmed.ncbi.nlm.nih.gov/23861702/) |
 | 육군자탕 · 기능성소화불량 | Systematic review/meta-analysis | 52 RCT·5,475명 | `32767596` |
-| 통사요방 · IBS-D | 위약대조 무작위시험 | 두 시험의 결과와 반응 정의 | [2018년·2025년 시험](../../authority/formulas/tongxie-yaofang.md#ibs-d-placebo-trial) |
 
 ### 수면·정서
 
