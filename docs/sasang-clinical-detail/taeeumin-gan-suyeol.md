@@ -11,6 +11,8 @@ tags: [사상의학, 태음인, 간수열리열병]
 
 [신축본 열과 복만·설사가 겹칠 때 표리를 가르는 원문](../classics/donguisusebowon/original.md#taeeum-heat-cold-diarrhea) · [진료지침 병증·처방 색인으로 돌아가기](../sasang-formula-library/guideline-pattern-index.md#taeeumin-cpg)
 
+**열과 갈증에 무엇이 겹치는지 봅니다.** 열·땀이 갑자기 늘고 얼굴이 붉어지거나 대변·복만이 함께 달라졌다면 [간열병](#gan-yeol)의 단계별 단서를 확인합니다. 갈증·다뇨와 피부나 모발의 건조가 지속되고 다리 힘이나 일상 활동이 떨어졌다면 [간열폐조병](#gan-yeol-pyejo)을 대조합니다. 두근거림·불면이 공통으로 나타날 수 있어, 먼저 달라진 것이 건조·갈증인지 식후 복만·설사인지 물으면 [조한병우증](taeeumin-wiwan-suhan.md#johan-progressed)과 가르는 데 도움이 됩니다.
+
 ## 간열병(肝熱病) {#gan-yeol}
 
 리열병의 순증입니다. 몸에 열이 나고 땀이 나는 바탕에서 얼굴과 손발의 붉음, 눈·코 증상, 배변 정체나 열성 설사, 두면·인후의 붓기를 구분합니다.

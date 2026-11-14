@@ -99,6 +99,8 @@ last_reviewed: '2026-09-21'
 
 ### 신수열표열병: 울광과 망양
 
+[신수열표열병 상세](../sasang-clinical-detail/soeumin-sin-suyeol.md) · [울광병](../sasang-clinical-detail/soeumin-sin-suyeol.md#ulgwang) · [망양병](../sasang-clinical-detail/soeumin-sin-suyeol.md#mangyang)
+
 원문으로는 [망양의 정의](../classics/donguisusebowon/original.md#soeum-mangyang-definition), [식사 중 발한과 평소 설사를 기록한 병례](../classics/donguisusebowon/original.md#soeum-usual-sweat-case), [화해와 사하의 순서](../classics/donguisusebowon/original.md#soeum-treatment-sequence)를 나란히 읽습니다.
 
 소음인의 표병은 신국의 양난지기가 올라와 겉을 따뜻하게 하는 흐름이 막히는 방향으로 설명합니다. 울광병에서는 오한·발열, 두통·신체통과 땀의 양상을 보고, 망양병에서는 **발한과 함께 기력·회복력이 크게 떨어지는지**를 중요하게 봅니다.
@@ -113,6 +115,8 @@ last_reviewed: '2026-09-21'
 [승양팔물탕](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)은 갑오본 계통과 후대 태양양명증 기록을 구별해 읽는 자료입니다. 신축본의 망양초증에 자동으로 넣지 않으며, 구성과 병증 출전은 처방 카드에서 대조합니다.
 
 ### 위수한리한병: 태음병과 소음병
+
+[위수한리한병 상세](../sasang-clinical-detail/soeumin-wi-suhan.md) · [태음병](../sasang-clinical-detail/soeumin-wi-suhan.md#taeeumbyeong) · [소음병](../sasang-clinical-detail/soeumin-wi-suhan.md#soeumbyeong)
 
 소음인의 태음병은 ‘태음인에게 생기는 병’이 아니라 소음인의 위수한리한병 안에서 복만·복통·설사·구토·식욕저하가 중심인 단계입니다. 더 깊어져 심한 냉감·쇠약·수족궐냉·전신통에 번조·갈증이 함께 나타나는 방향은 소음병 축으로 구분합니다.
 

@@ -11,6 +11,8 @@ tags: [사상의학, 소음인, 위수한리한병]
 
 [신축본 복통·설사의 반복을 기록한 병례](../classics/donguisusebowon/original.md#soeum-recurrent-abdominal-case) · [진료지침 병증·처방 색인으로 돌아가기](../sasang-formula-library/guideline-pattern-index.md#soeumin-cpg)
 
+**복통·설사가 겹칠 때.** 평소처럼 물을 마시고 소변을 보는지, 새 갈증·가슴 답답함·몸살이나 손발 냉감이 더해졌는지 묻습니다. 소음병의 감별에 쓰는 단서가 실제 탈수에서도 나타날 수 있으므로, 소변량 감소와 일어설 때 어지럼이 겹치면 수분 상태를 함께 확인합니다. 명치의 그득함이 앞서면 [심하비만증](#soeum-simha-biman), 복통과 설사가 앞서면 [복만자리증](#soeum-bokman-jari)의 문진을 대조합니다. [탈수 증상과 진료 기준](https://www.nhs.uk/conditions/dehydration/)
+
 ## 태음병(太陰病) {#taeeumbyeong}
 
 소음인 리한병의 순증입니다. ‘자리’는 저절로 설사하는 양상, ‘비만(痞滿)’은 막힌 듯 그득한 불편을 뜻합니다. 태음병은 이 분류에서 소음인의 병증 이름입니다.
