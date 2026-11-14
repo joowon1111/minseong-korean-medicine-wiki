@@ -2,8 +2,8 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "16f94c17759db2fce9d4545839673a96b7f3431be298a7b864c4c42ed4d7897a",
-  "entity_count": 2274,
+  "content_sha256": "10cce42d442f7fcfb1b7d075c19092d6cd00d77511fcdc24db86472f0a1393a1",
+  "entity_count": 2282,
   "entity_types": {
     "acupoint": 410,
     "acupuncture": 48,
@@ -27,7 +27,7 @@
     "question_guide": 112,
     "research": 9,
     "sasang_formula": 49,
-    "sasang_medicine": 108,
+    "sasang_medicine": 116,
     "surface_anatomy": 4,
     "symptom_guide": 47,
     "topic_hub": 15
@@ -42,13 +42,13 @@
     "ko-KR"
   ],
   "red_flag_section_entities": 279,
-  "relation_count": 29925,
+  "relation_count": 30052,
   "relation_types": {
-    "links_to": 11661,
+    "links_to": 11749,
     "links_to_acupoint": 2225,
     "links_to_condition": 5932,
     "links_to_evidence": 244,
-    "links_to_formula": 6124,
+    "links_to_formula": 6163,
     "links_to_herb": 3564,
     "links_to_pattern": 175
   },
