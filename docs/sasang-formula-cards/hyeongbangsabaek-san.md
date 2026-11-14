@@ -49,6 +49,8 @@ last_reviewed: 2026-09-21
 
 신열·두통과 설사가 함께 나타날 때는 [형방사백산과 저령차전자탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#sabaek-jeoryeong-comparison)에서 설사 뒤 배변 변화와 생지황·저령·차전자의 배합 차이를 확인할 수 있습니다.
 
+[신열두통망음과 신한복통망음의 핵심 처방 비교](../sasang-pattern-differential/soyangin-severity-map.md#soyang-core-formulas)
+
 ## 진료에서 확인하는 증상 묶음
 
 평소 대변 형태와 소화·냉감부터 묻고, 이번에 **두통과 열감이 먼저였는지, 설사가 언제 시작하거나 멈췄는지, 설사가 멈춘 뒤에도 열·두통·번조가 이어졌는지**를 확인합니다. 재진에서는 체온과 두통 강도에 더해 배변 형태·횟수, 실제 음수량, 소변량, 기립 시 어지럼, 식사량을 같은 기준으로 기록합니다.

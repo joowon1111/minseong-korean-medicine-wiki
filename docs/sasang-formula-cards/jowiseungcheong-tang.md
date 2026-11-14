@@ -76,6 +76,8 @@ last_reviewed: 2026-09-22
 
 두근거림과 수면장애가 겹칠 때에는 [청심연자탕과 조위승청탕의 조열·조한 감별](cheongsimyeonja-tang.md#taeeumin-palpitations-sleep-comparison)에서 공통 약재와 배합 차이를 확인할 수 있습니다.
 
+[태음인의 표한과 리열에서 두근거림·불면이 겹칠 때의 처방 비교](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md)
+
 ## 소증과 현증을 함께 묻는 법
 
 | 영역 | 평소 소증 | 현재 현증 |

@@ -20,6 +20,8 @@ last_reviewed: 2026-09-22
 
 ## 태음인
 
+오한·발한·호흡이 앞설 때와 갈증·건조·배변 변화가 앞설 때의 처방은 [태음인 표한·리열 감별](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md)에서 지침의 병증 단계와 함께 확인할 수 있습니다.
+
 | 병증축 | 처방 | 구분의 중심 |
 |---|---|---|
 | 위완수한표한·흉복통 | [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md) | 흉복통·오한·무한·호흡·담습 |
@@ -60,6 +62,8 @@ last_reviewed: 2026-09-22
 두근거림과 불면이 겹치면 식후 그득함·설사·부종과 함께 변했는지, 갈증·다뇨·건조와 함께 변했는지 묻습니다. [태음조위탕과 조위승청탕의 구성·용량과 조한병 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) 갈근을 공유하는 리열 처방은 **두면·눈·코의 열증**, **지속 갈증과 건조**, **변폐와 복만**의 경과를 나누어 비교합니다. [열다한소탕·청폐사간탕·갈근승기탕의 1첩 구성과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison)
 
 ## 소양인
+
+소양상풍·결흉, 망음, 흉격열, 음허오열에서 배변의 순서와 배합이 어떻게 달라지는지 [소양인 주요 병증별 핵심 처방](../sasang-pattern-differential/soyangin-severity-map.md#soyang-core-formulas)에서 비교합니다.
 
 | 병증축 | 처방 | 구분의 중심 |
 |---|---|---|
@@ -110,6 +114,8 @@ last_reviewed: 2026-09-22
 **도적강기탕은 형방도적산 9미에 복령·택사 각 1전을 더한 11미, 1첩 60 g**입니다. 신축본 9-17은 헛구역과 숨 가쁨이 있으면서 약을 먹고 다시 토하지 않는 경우에 이 가미를 기록했습니다. 형방사백산과 형방지황탕에는 복령·택사가 각 2전씩 들어갑니다. 배합은 [도적강기탕의 출전과 구성](hyeongbangdojeok-san.md#dojeokganggi-tang), 배변과 한열의 시간 경과는 [망음병과 흉격열병 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)에서 확인할 수 있습니다.
 
 ## 소음인
+
+발한과 발열이 먼저 달라진 표병, 식사·구토·배변이 먼저 달라진 리병은 [소음인 표병과 리한의 핵심 처방](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-core-formulas)에서 이어서 봅니다.
 
 | 병증축 | 처방 | 구분의 중심 |
 |---|---|---|

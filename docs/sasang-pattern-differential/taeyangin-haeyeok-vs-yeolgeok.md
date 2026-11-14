@@ -12,7 +12,7 @@ description: 태양인 해역증 vs 열격증 — 민성 한의학 아카이브�
 |---|---|---|
 | 중심 기능 | 요척·하지·보행 | 연하·섭취·구토 |
 | 주요 변화 | 다리 힘 저하, 기립·보행 불편 | 음식이 잘 내려가지 않음, 구토·섭취 감소 |
-| 대표 처방 | 오가피장척탕 | 미후등식장탕 |
+| 대표 처방 | [오가피장척탕](../sasang-formula-cards/ogapi-jangcheok-tang.md) | [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md) |
 
 태양인 CPG는 소장 기능의 유리/불리 소증과 열격 등의 병증을 표준화하여 진단하도록 제시합니다.
 
@@ -54,9 +54,13 @@ description: 태양인 해역증 vs 열격증 — 민성 한의학 아카이브�
 
 ## 처방 문서를 읽을 때
 
-오가피장척탕과 미후등식장탕은 태양인 병증 구조를 공부하기 위한 대표 처방입니다. 처방 수가 적다는 이유로 다른 체질 처방을 끌어오거나 현대 질환명을 일대일로 대응하지 않습니다. 먼저 [태양인 통합 허브](../sasang-integrated/taeyangin.md)에서 병증 구조를 확인한 뒤 각 처방의 구성·감별·안전을 읽습니다.
+**해역과 오가피장척탕.** 의자에서 일어나거나 계단을 오를 때 다리에 힘이 떨어지는지, 평소보다 소변량이나 횟수가 줄었는지 함께 묻습니다. 오가피장척탕은 오가피·모과·청송절의 비중이 크며, 지침에 실린 교맥쌀은 부피로 기록합니다.
 
-→ [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md) · [태양인 중증도](../sasang-severity/taeyangin.md)
+**열격과 미후등식장탕.** 삼키기 시작할 때 사레가 나는지, 삼킨 뒤 가슴에서 걸리는지, 음식이 나중에 되올라오는지를 나눠 기록합니다. 지침에 실린 배합에서는 미후도·모과·포도근의 비중이 크며 송화·저두강도 들어갑니다. 미후도는 열매이며, 처방명에 쓰인 미후등과 약용 부위를 확인합니다.
+
+두 처방은 모과·포도근·노근·앵도육·오가피를 공유하지만 오가피와 포도근의 비중이 서로 다릅니다. [태양인 두 처방의 1첩 구성과 감별](../sasang-formula-cards/comparison-map.md#taeyangin-two-formulas) · [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=235&menu_idx=14)
+
+→ [태양인 통합 허브](../sasang-integrated/taeyangin.md) · [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md) · [태양인 중증도](../sasang-severity/taeyangin.md)
 
 ## 원전·CPG 바로가기
 

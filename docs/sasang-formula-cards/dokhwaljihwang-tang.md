@@ -83,8 +83,10 @@ last_reviewed: 2026-09-21
 | [형방지황탕](hyeongbangjihwang-tang.md) | 숙지황·산수유·복령·택사·독활·방풍 공유 | 비수한표한병의 망음증으로 복통·설사·표병과 진액 손상이 중심. 형개·강활·차전자 포함 |
 | [숙지황고삼탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sukjihwanggosam) | 숙지황 중심의 음허·리열 축 | 고삼·지모·황백이 배합되어 피부·습열·소양과 리열의 양상을 더 세밀하게 비교 |
 | [화석지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-hwaseokjihwang) | 숙지황·산수유·목단피의 하소 축 | 구기자·천화분 등이 더해진 배뇨·갈증·열증 조합을 비교 |
-| 십이미지황탕 | 소양인 음허오열·하소 계열 | 병증의 진행도와 중풍·토혈 등 원전의 중증 증후를 함께 확인 |
+| [십이미지황탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-sibimijihwang) | 신축본 10-28의 음허오열 문맥 | 구기자·복분자·현삼과 차전자·형개가 들어가는 배합을 비교합니다. 등 냉감·구토와 함께 섭취·보행이 얼마나 떨어졌는지 확인합니다. |
 | [양격산화탕](yanggyeoksanhwa-tang.md) | 소양인 리열을 다룸 | 흉격열·두면부 열감·번조·변비가 중심이며 지속 소모와 하지·배뇨 변화는 상대적으로 뒤에 놓임 |
+
+신축본에서 숙지황고삼탕은 **10-17 하소**에, 독활지황탕·십이미지황탕은 **10-28 음허오열**에 제시됩니다. 같은 지황계 처방이라도 어느 조문에서 갈증·배뇨와 등 냉감·구토를 설명하는지 나누어 읽습니다. [소양인 하소·음허오열의 원전과 처방 비교](../sasang-clinical-detail/soyangin.md#11-8)
 
 ## 진료 흐름
 
