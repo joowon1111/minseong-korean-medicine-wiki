@@ -139,7 +139,7 @@ last_reviewed: 2026-09-06
 
 - [IBS 한약 처방 현대근거 지도](../authority/formulas/ibs-herbal-formula-map.md)
 - [한약 메타분석, PMID 34385918](https://pubmed.ncbi.nlm.nih.gov/34385918/)
-- [통사요방 이중맹검 위약대조 2상시험, PMID 39870499](https://pubmed.ncbi.nlm.nih.gov/39870499/)
+- [통사요방 과립의 4주·8주 위약대조 결과](../authority/formulas/tongxie-yaofang.md#ibs-d-placebo-trial)
 
 ### 설사형이라는 이름만으로 같은 처방을 쓰지 않습니다 {#formula-selection}
 
