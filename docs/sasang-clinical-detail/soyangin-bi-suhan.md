@@ -33,13 +33,13 @@ tags: [사상의학, 소양인, 비수한표한병]
 
 명치가 단단하고 그득해지며 헛구역이나 짧은 숨이 겹치는 분기입니다. 물을 마신 직후 토하는지, 명치의 압통과 실제 숨참이 어느 정도인지 확인합니다.
 
-**지침의 처방과 문헌 기록** · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md), [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang), 감수 관련 문헌 기록
+**지침의 처방과 문헌 기록** · [형방도적산](../sasang-formula-cards/hyeongbangdojeok-san.md), [도적강기탕](../sasang-formula-cards/hyeongbangdojeok-san.md#dojeokganggi-tang), [감수 관련 문헌 기록](../sasang-formula-library/classical-formula-index.md#soyang-historical-mineral-formulas)
 
 ### 결흉우증 {#soyang-gyeolhyung-progressed}
 
 명치 통증이 심해 손을 대기 어렵거나 심한 갈증과 말·의식의 변화가 더해질 수 있습니다. 급성 복통이나 의식 변화가 있으면 원인 평가가 우선입니다.
 
-**지침의 처방과 문헌 기록** · [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho), 감수 관련 문헌 기록
+**지침의 처방과 문헌 기록** · [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho), [감수 관련 문헌 기록](../sasang-formula-library/classical-formula-index.md#soyang-historical-mineral-formulas)
 
 [소양상풍병 학회 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061)
 
