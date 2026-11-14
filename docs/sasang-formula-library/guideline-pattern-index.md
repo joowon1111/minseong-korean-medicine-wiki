@@ -9,7 +9,7 @@ tags: [사상의학, 사상처방, 체질병증, 임상진료지침]
 
 [소음인](#soeumin-cpg) · [소양인](#soyangin-cpg) · [태음인](#taeeumin-cpg) · [태양인](#taeyangin-cpg)
 
-문헌의 처방 위치는 전문가 합의에 근거한 진료지침의 내용입니다. 처방별 임상효과나 근거 수준은 개별 자료에서 확인합니다. 약량은 상세 문서의 출전과 환산 기준을 함께 보고, 감수·파두·웅담산 등 특수 약재의 사용 기록은 아래 해당 쪽의 문헌 정보로 읽습니다. [핵심 요약집 78–84쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=78) · [신축본의 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)
+문헌의 처방 위치는 전문가 합의에 근거한 진료지침의 내용입니다. 처방별 임상효과나 근거 수준은 개별 자료에서 확인합니다. 약량은 상세 문서의 출전과 환산 기준을 함께 보고, 감수·파두·웅담산 등 특수 약재의 사용 기록은 아래 해당 쪽의 문헌 정보로 읽습니다. [핵심 요약집 78–84쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=78) · [동의수세보원 신정 67방 원전 색인](classical-formula-index.md)
 
 ## 소음인 {#soeumin-cpg}
 

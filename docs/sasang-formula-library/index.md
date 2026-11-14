@@ -18,7 +18,7 @@ last_reviewed: 2026-09-22
 
 [주요 사상체질 처방 37종의 1첩 용량과 감별](../sasang-formula-cards/comparison-map.md)에서 본초별 용량표와 가까운 처방의 차이를 확인할 수 있습니다.
 
-[진료지침 병증·처방 전체 색인](guideline-pattern-index.md)에서 초증·우증·심증 등 세부 단계마다 지침에 실린 처방을 찾을 수 있습니다. [신축본 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)는 신정방과 선행 경험방의 권차를 보여 줍니다.
+[진료지침 병증·처방 전체 색인](guideline-pattern-index.md)에서 초증·우증·심증 등 세부 단계마다 지침에 실린 처방을 찾을 수 있습니다. [동의수세보원 신정 67방 원전 색인](classical-formula-index.md)에서는 네 사상인의 신정 처방명과 원문 쪽수를 찾을 수 있습니다. [신축본 처방 수록부](../classics/donguisusebowon/original.md#formula-contents)에서 선행 경험방과 신정방의 배열을 확인합니다.
 
 ## 체질·병증군으로 찾기 {#constitution-pattern-index}
 
