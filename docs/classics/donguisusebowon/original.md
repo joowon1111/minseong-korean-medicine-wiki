@@ -106,7 +106,7 @@ reader_tools: true
 
 목차·권차 확인: [국립생물자원관 《해제로 보는 조선시대 생물자원 4》, 인쇄면 63–65쪽·PDF 79–81쪽](https://www.nibr.go.kr/aiibook/catImage/95/Joseon%204.pdf#page=79), [한국민족문화대백과사전의 구성 안내](https://encykorea.aks.ac.kr/Article/E0016732). 표의 한국어 설명은 자체 풀이이며, 개별 발췌의 정확한 위치는 각 대목에 적은 [1941년 대조본](#source)의 PDF 쪽수로 확인합니다. 제목의 이체자·표기와 편의 묶음은 판본·목록에 따라 다를 수 있습니다.
 
-[진료지침 병증·처방 전체 색인](../../sasang-formula-library/guideline-pattern-index.md)에서 현대 지침의 병증 단계와 처방을 찾을 수 있습니다. 같은 처방이라도 원전의 수록 문맥과 현대 지침의 병증 위치를 각각 확인합니다.
+[동의수세보원 신정 67방 원전 색인](../../sasang-formula-library/classical-formula-index.md)에서 네 체질의 개별 처방명과 석판본 해당 면을 찾을 수 있습니다. [진료지침 병증·처방 전체 색인](../../sasang-formula-library/guideline-pattern-index.md)에서는 현대 지침의 병증 단계와 처방을 확인합니다. 같은 처방이라도 원전의 수록 문맥과 현대 지침의 병증 위치를 각각 확인합니다.
 
 ### 처음 읽을 때의 순서
 
