@@ -25,6 +25,8 @@ last_reviewed: 2026-08-22
 후계 SI3 + 신맥 BL62 — 독맥·양교맥  
 열결 LU7 + 조해 KI6 — 임맥·음교맥
 
+[『장진요편』의 병증별 배혈](special-points/eight-confluent.md#jangjin-yopyeon)에서 조선 후기 침구서가 이 혈들을 어떻게 조합했는지 확인할 수 있습니다.
+
 ## 기경의 극혈
 음교맥 KI8 교신 · 양교맥 BL59 부양 · 음유맥 KI9 축빈 · 양유맥 GB35 양교
 
