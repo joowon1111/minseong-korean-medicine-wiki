@@ -210,7 +210,6 @@ Ogawa-Ochiai 등의 **2025년 JAMA Network Open** 연구는 히로시마대·가
 | [사물탕](../../formulas/siwu-tang.md) | 원발성 월경통 38개 RCT·3,982명 메타분석 — [PMID 32631585](https://pubmed.ncbi.nlm.nih.gov/32631585/) | 사물탕 원방과 파생처방을 구분하고 통증강도·임상반응을 평가 |
 | [당귀작약산](danggui-shaoyao-san.md) | 원발성 월경통 RCT 메타분석 — [PMID 26857875](https://pubmed.ncbi.nlm.nih.gov/26857875/) | 여성 골반·월경 증상과 혈허·수습 구조를 연결 |
 | [계지복령환](../../formulas/guizhi-fuling-wan.md) | 원발성 월경통 무작위 대조시험 — [PMID 36746293](https://pubmed.ncbi.nlm.nih.gov/36746293/) | 열작혈어형 대상의 통증과 혈괴·압통 등 어혈 단서를 함께 확인 |
-| [쌍화탕](../../formulas/ssanghwa-tang.md) | 원인불명 만성피로 성인 90명 무작위·이중맹검·위약대조시험 — [PMID 39669697](https://pubmed.ncbi.nlm.nih.gov/39669697/) · [정정문](https://pmc.ncbi.nlm.nih.gov/articles/PMC12423665/) | 피로 설문과 SF-36 평가; 쌍화탕의 정서·신체기능 우월성 해석은 정정됨 |
 | [보중익기탕](../../formulas/buzhong-yiqi-tang.md) | 안정기 COPD 16개 연구·1,400명 메타분석 — [PMID 27912964](https://pubmed.ncbi.nlm.nih.gov/27912964/) | 호흡기 기능·보행·삶의 질과 기존 치료 병용 여부를 확인 |
 | [생맥산](../../research/formulas/shengmai-san.md) | 2024년 바이러스성 심근염 44개 RCT·4,298명 메타분석 — [PMID 39742019](https://pubmed.ncbi.nlm.nih.gov/39742019/) | 증상·심전도·일부 심근손상 지표를 다룬 병용근거 |
 | [육미지황환](liuwei-dihuang-wan.md) | 2026년 초기 당뇨병성 신증 11개 RCT·1,007명 — [PMID 42051693](https://pubmed.ncbi.nlm.nih.gov/42051693/) | 신장 관련 검사와 기존 치료에 더한 병용효과를 확인 |
@@ -265,10 +264,7 @@ Ogawa-Ochiai 등의 **2025년 JAMA Network Open** 연구는 히로시마대·가
 ### 쌍화탕 — 과로 후 피로와 기능 회복 {#_10}
 
 - **처방 구조:** 사물탕 계열 양혈축에 황기·계피와 백작약·감초를 더해 기혈 소모와 근육 긴장을 함께 조절
-- **직접 임상시험:** 6개월 이상 지속된 원인불명 만성피로 성인 90명을 공진단·쌍화탕·대조군으로 나눈 국내 무작위·이중맹검·위약대조시험
-- **평가 결과:** 피로 척도·SF-36·임상검사·안전성을 평가. 2025년 정정문은 쌍화탕군의 정서적 역할 기능·신체기능이 대조군보다 우수했다는 해석을 수정했으며, 공진단군의 4주 사회적 기능 개선은 유지
 - **임상 연결:** 모든 피로가 아니라 과로 뒤 기혈구상, 근육의 당김, 식욕과 활동 후 회복시간을 함께 확인
-- **출처:** [PMID 39669697](https://pubmed.ncbi.nlm.nih.gov/39669697/) · [정정문: PMID 40949767](https://pmc.ncbi.nlm.nih.gov/articles/PMC12423665/)
 
 → [쌍화탕 핵심 문서](../../formulas/ssanghwa-tang.md) · [만성피로](../../conditions/chronic-fatigue.md)
 

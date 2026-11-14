@@ -74,8 +74,6 @@ Wu 등의 2023년 *JAMA Network Open* 시험은 중국 67개 기관에서 발병
 |---|---|---|---|---|---|
 | 2021 | 만성 경항통 | 약침 | `35011752` | `—` | [문서](../treatments/pharmacopuncture.md) |
 | 2020 | 만성 요통 | 전침 | `33107921` | `—` | [문서](../treatments/electroacupuncture.md) |
-| 2024 | 만성피로 | 공진단 | `39669697` | `10.1016/j.imr.2024.101025` | [문서](../formulas/gongjin-dan.md) |
-| 2018 | 급성피로 | 공진단 | `29867485` | `—` | [문서](../formulas/gongjin-dan.md) |
 | 2017 | 암 관련 식욕저하 | 십전대보탕 | `29441116` | `10.1155/2017/8780325` | [문서](../formulas/shi-quan-da-bu-tang.md) |
 
 → [전체 참고문헌 데이터베이스](references/index.md)
