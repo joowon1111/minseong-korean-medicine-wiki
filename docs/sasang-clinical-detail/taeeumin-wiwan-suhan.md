@@ -33,13 +33,13 @@ tags: [사상의학, 태음인, 위완수한표한병]
 
 오한만 있는 때와 발열·무한이 겹치는 때가 교대로 나타나는지 확인합니다. 여기서 한궐은 전신의 오한 경과를 표현하므로 손발의 온도와 따로 기록합니다.
 
-**지침의 처방과 문헌 기록** · [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#handayeolso-cpg-dose), [웅담산 관련 문헌 기록](../sasang-formula-library/classical-formula-index.md#taeeum-historical-powders)
+**지침의 처방과 문헌 기록** · [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#handayeolso-cpg-dose), [웅담산 관련 문헌 기록](../sasang-formula-library/classical-formula-index.md#ungdam-san)
 
 ### 한궐증우증 {#hangweol-progressed}
 
 오한이 지속되는 동안 열이 없고 땀도 나지 않는 분기입니다. 한궐증에서 교대하던 발열이 사라졌는지, 식사·활동과 기력도 함께 떨어졌는지 확인합니다.
 
-**지침의 처방과 문헌 기록** · [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#handayeolso-cpg-dose), [웅담산 관련 문헌 기록](../sasang-formula-library/classical-formula-index.md#taeeum-historical-powders)
+**지침의 처방과 문헌 기록** · [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#handayeolso-cpg-dose), [웅담산 관련 문헌 기록](../sasang-formula-library/classical-formula-index.md#ungdam-san)
 
 [위완한병 학회 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957)
 
