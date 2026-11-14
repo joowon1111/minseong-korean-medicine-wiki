@@ -7,6 +7,8 @@ last_reviewed: 2026-10-02
 ---
 # 태음인: 몸이 나빠질 때 어떻게 변하나?
 
+[위완수한표한병](taeeumin-wiwan-suhan.md) · [간수열리열병](taeeumin-gan-suyeol.md) · [진료지침 세부 병증과 처방](../sasang-formula-library/guideline-pattern-index.md#taeeumin-cpg)
+
 [태음인 주요 처방 12종 비교](../sasang-formula-cards/comparison-map.md#taeeumin-eight-formulas)에서 1첩 용량과 표리·순역의 감별을 함께 볼 수 있습니다.
 
 

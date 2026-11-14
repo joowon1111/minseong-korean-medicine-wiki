@@ -7,6 +7,8 @@ last_reviewed: 2026-10-02
 ---
 # 태양인: 몸이 나빠질 때 어떻게 변하나?
 
+[외감요척병](taeyangin-oegam-yocheok.md) · [내촉소장병](taeyangin-naechok-sojang.md) · [진료지침 세부 병증과 처방](../sasang-formula-library/guideline-pattern-index.md#taeyangin-cpg)
+
 [태양인 두 처방의 1첩과 감별](../sasang-formula-cards/comparison-map.md#taeyangin-two-formulas)에서 원자료의 약재 표기와 두 병증의 문진 단서를 확인할 수 있습니다.
 
 
