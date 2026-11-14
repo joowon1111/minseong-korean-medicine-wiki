@@ -181,7 +181,6 @@ Ogawa-Ochiai 등의 **2025년 JAMA Network Open** 연구는 히로시마대·가
 | [억간산](../../formulas/yigan-san.md) | 치매 행동심리증상 5개 RCT·381명 메타분석 — [PMID 27497482](https://pubmed.ncbi.nlm.nih.gov/27497482/) | 전체 분석의 개선과 알츠하이머병 위약대조시험 결과를 구분해 확인 |
 | [산조인탕](suanzaoren-tang.md) | 불면 12개 RCT·1,311명 메타분석 — [PMID 36459033](https://pubmed.ncbi.nlm.nih.gov/36459033/) | PSQI·수면의 질·재발과 낮 기능을 함께 확인 |
 | [귀비탕](guipi-tang-evidence.md) | 2025년 불면 처방 186개 RCT 네트워크 메타분석 — [PMID 40826721](https://pubmed.ncbi.nlm.nih.gov/40826721/) | 심비양허·기혈부족 증상과 수면 결과를 연결 |
-| [천왕보심단](cheonwangbosimdan.md) | 원발성 불면 환자 56명, 6주 임상연구 — [PMID 33919176](https://pubmed.ncbi.nlm.nih.gov/33919176/) | PSQI·ISI·총수면시간과 심음허 증상군을 평가 |
 | [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) | 불면 처방 네트워크 메타분석 — [PMID 40826721](https://pubmed.ncbi.nlm.nih.gov/40826721/) | 수면과 번조·심계·정서 증상이 함께 흔들리는 경우를 확인 |
 | [소요산](xiaoyao-san.md) | 2025년 만성피로 6개 연구·623명 메타분석 — [PMID 39981187](https://pubmed.ncbi.nlm.nih.gov/39981187/) | 피로와 불안·우울·소화 증상을 함께 평가 |
 
