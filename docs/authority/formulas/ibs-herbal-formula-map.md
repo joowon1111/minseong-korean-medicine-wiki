@@ -3,16 +3,16 @@ description: "과민성장증후군 한약 연구를 통사요방·사신환·�
 ---
 # 과민성장증후군 — 한약 처방 현대근거 지도
 
-## 한약 전체
-- 2021 meta-analysis + trial sequential analysis: **10 trials·2,501명**. 한약은 placebo보다 IBS 전체 증상 완화와 복통 완화에서 유의하게 좋은 결과를 보였습니다. PMID `34385918`.
-- IBS 한약 network meta-analysis는 여러 한약처방과 일반 약물·placebo의 상대효과를 비교했습니다. PMID `34358263`.
+## 직접 비교한 임상연구
+
+[설사형 IBS의 침·가짜침 ACTION 시험](../conditions/irritable-bowel-syndrome.md#action-ibs-trial)에서 복통·설사 복합 반응의 6주 결과와 추적 경과를 확인합니다.
 
 ## 설사형 IBS-D 대표 처방
 ### 통사요방
-- 2025년 이중눈가림 위약대조 2상시험(96명)에서는 8주 증상 반응률의 군 간 차이가 뚜렷하지 않았습니다. [위약대조시험과 이전 종합 근거](tongxie-yaofang.md#ibs-d-placebo-trial)
+- 긴장에 따른 복통과 급박변을 살핍니다. [통사요방의 임상 평가](tongxie-yaofang.md#ibs-d-placebo-trial)
 
 ### 사신환
-- 2025 meta-analysis+TSA에서 전체 임상반응과 복통·설사·복부팽만·식욕 및 재발 관련 outcome을 평가. PMID `40529486`.
+- 기존 약물치료와 비교한 소규모 시험을 종합했습니다. 위약과의 비교 및 장기 추적 자료가 부족합니다. [사신환 연구의 비교군과 한계](sishen-wan.md#sishen-wan-ibs-evidence)
 
 ## 핵심 본초쌍
 백출-작약 계열 처방 systematic review/meta-analysis+TSA에서도 IBS 전체증상 개선효과가 평가되었습니다. PMID `38186470`.

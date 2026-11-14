@@ -57,15 +57,6 @@ Yang 등의 2025년 **ACTION 다기관 무작위시험**은 중국 6개 병원�
 
 ## 한약치료 근거
 
-2021년 meta-analysis와 trial sequential analysis는 10개 시험·2,501명을 포함하여 한약이 위약보다 IBS 전체 증상과 복통 완화에서 유리한 결과를 보고했습니다.
-
-- PMID: [34385918](https://pubmed.ncbi.nlm.nih.gov/34385918/)
-
-통사요방은 간비불화로 해석되는 스트레스성 복통·설사와 연결되는 대표 처방입니다. 2025년 이중눈가림 위약대조 2상시험은 설사형 IBS 환자 96명에서 통사요방 과립을 평가했습니다. 8주 증상 반응률의 군 간 차이는 뚜렷하지 않았습니다.
-
-- PMID: [39870499](https://pubmed.ncbi.nlm.nih.gov/39870499/)
-- DOI: [10.1136/bmjopen-2024-088410](https://doi.org/10.1136/bmjopen-2024-088410)
-
 설사형 IBS의 여러 한약을 비교한 2023년 network meta-analysis도 위약대조 이중맹검 시험들을 종합했습니다.
 
 - PMID: [37328079](https://pubmed.ncbi.nlm.nih.gov/37328079/)

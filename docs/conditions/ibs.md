@@ -135,11 +135,7 @@ last_reviewed: 2026-09-06
 - **한열착잡·복명·설사와 상복부 답답함:** [반하사심탕](../formulas/banxia-xiexin-tang.md) 계열
 - **변비형의 기체·장조:** 변의 수분·복부팽만·기력에 따른 이기·윤장 방향
 
-2021년 메타분석과 순차분석은 10개 시험·2,501명을 검토하여 한약이 위약보다 IBS 전체 증상과 복통을 개선한 결과를 보고했습니다.
-
 - [IBS 한약 처방 현대근거 지도](../authority/formulas/ibs-herbal-formula-map.md)
-- [한약 메타분석, PMID 34385918](https://pubmed.ncbi.nlm.nih.gov/34385918/)
-- [통사요방 이중맹검 위약대조 2상시험, PMID 39870499](https://pubmed.ncbi.nlm.nih.gov/39870499/)
 
 ### 설사형이라는 이름만으로 같은 처방을 쓰지 않습니다 {#formula-selection}
 

@@ -41,9 +41,8 @@ last_reviewed: 2026-09-06
 
 ## 과민성장증후군 {#_3}
 
-- 한약 치료 10개 시험·2,501명 메타분석, PMID `34385918`
-- 통사요방 11 RCT·985명 메타분석, PMID `36091782`
-- 사신환 메타분석과 순차시험분석, PMID `40529486`
+[설사형 IBS의 ACTION 다기관 시험](../conditions/irritable-bowel-syndrome.md#action-ibs-trial)은 280명에서 침과 가짜침을 비교해 복통·설사의 동시 개선을 평가했습니다.
+
 - 삼령백출산을 포함한 성인 만성설사 14 RCT·1,158명 메타분석, PMID `35635135`; 만성 기능성 설사·IBS-D·궤양성대장염 등 대상군과 단독·병용치료를 나누어 읽습니다.
 
 → [과민성장증후군 처방 지도](ibs-herbal-formula-map.md) · [과민성장증후군](../../conditions/ibs.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md)
