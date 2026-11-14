@@ -11,18 +11,14 @@ last_reviewed: 2026-08-19
 
 ## 주요 치료 성과의 원문 색인 {#landmark-rcts}
 
-[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 30편 가운데 개인자료 메타분석 1편은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis), 직접 임상시험 29편은 이 표에 연결됩니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
+[핵심 성과 요약](../portal/evidence.md#landmark-clinical-results)에서 결과를 먼저 읽고 아래 PMID·DOI로 원문을 확인합니다. 아래에는 대표 무작위시험과 상세 해설을 연결했습니다. 개인자료 메타분석은 [메타분석 색인](meta-analysis-index.md#landmark-synthesis)에 있습니다. 배정·분석 표본과 권호·온라인 공개 연도를 구분합니다. 호르몬치료 관련 관절통의 2022년 논문은 2018년 시험의 같은 226명을 추적한 후속 보고로, 새 독립 시험에 포함하지 않습니다.
 
 | 연도 | 연구·대상 | 원문 식별자 | 결과와 적용 범위 |
 |---|---|---|---|
 | 2004 | Berman · Annals of Internal Medicine · 무릎 골관절염 570명 | [PMID 15611487](https://pubmed.ncbi.nlm.nih.gov/15611487/) · [DOI](https://doi.org/10.7326/0003-4819-141-12-200412210-00006) | [26주 통증·기능 평가](../conditions/knee-pain.md#berman-knee-trial) |
 | 2005 | Witt · The Lancet · 무릎 골관절염 294명 | [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) · [DOI](https://doi.org/10.1016/S0140-6736(05)66871-7) | [8주 비교·52주 추적](../conditions/knee-pain.md#witt-knee-trial) |
 | 2017 | Zhao · JAMA Internal Medicine · 편두통 249명 배정·245명 분석 | [PMID 28241154](https://pubmed.ncbi.nlm.nih.gov/28241154/) · [DOI](https://doi.org/10.1001/jamainternmed.2016.9378) | [발작 횟수·24주 추적](../authority/conditions/migraine.md#jama-migraine-prevention) |
-| 2026 | Chen · JAMA Neurology · 대상포진후신경통 448명 | [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) · [DOI](https://doi.org/10.1001/jamaneurol.2026.1443) | [전침 통증·반응률](../authority/electroacupuncture.md#ea-postherpetic-trial) |
-| 2018 | Hershman · JAMA · 유방암 호르몬치료 관련 관절통 226명 | [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [DOI](https://doi.org/10.1001/jama.2018.8907) | [본시험 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
-| 2022 후속 추적 | Hershman · JAMA Network Open · 위 226명의 52주 평가, 191명 완료 | [PMID 36367721](https://pubmed.ncbi.nlm.nih.gov/36367721/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2022.41720) | [같은 시험의 장기추적](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
 | 2019 | Zhao · JAMA Internal Medicine · 안정형 협심증 404명 배정·398명 분석 | [PMID 31355870](https://pubmed.ncbi.nlm.nih.gov/31355870/) · [DOI](https://doi.org/10.1001/jamainternmed.2019.2407) | [발작 빈도와 병행치료](../evidence-integrated/acupuncture-evidence.md#stable-angina-landmark) |
-| 2011 | Wang · Annals of Internal Medicine · H1N1 독감 복합탕제 410명 | [PMID 21844547](https://pubmed.ncbi.nlm.nih.gov/21844547/) · [DOI](https://doi.org/10.7326/0003-4819-155-4-201108160-00005) | [해열시간과 적용 범위](../authority/formulas/herbal-formula-evidence-hub.md#herbal-influenza-trial) |
 | 2024 | Tu · JAMA Internal Medicine · 디스크성 좌골신경통 216명 분석 | [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) · [DOI](https://doi.org/10.1001/jamainternmed.2024.5463) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#sciatica-landmark) |
 | 2022 | Yin · JAMA Network Open · 우울증 동반 불면 270명 | [PMID 35797047](https://pubmed.ncbi.nlm.nih.gov/35797047/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2022.20563) | [표준관리 병행·32주 추적](../conditions/insomnia.md#jama-depression-insomnia-trial) |
 | 2025 | DeBar · JAMA Network Open · 고령자 요통 800명 | [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2025.31348) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) |
@@ -30,7 +26,6 @@ last_reviewed: 2026-08-19
 | 2020 | Yang · Annals of Internal Medicine · 식후불편감 278명 | [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) · [DOI](https://doi.org/10.7326/m19-2880) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#pds-landmark) |
 | 2025 | Yang · Gastroenterology · ACTION 설사형 IBS 280명 | [PMID 40441496](https://pubmed.ncbi.nlm.nih.gov/40441496/) · [DOI](https://doi.org/10.1053/j.gastro.2025.05.016) | [복통·설사 반응과 추적](../authority/conditions/irritable-bowel-syndrome.md#action-ibs-trial) |
 | 2021 | Mao · JAMA Oncology · PEACE 암 생존자 만성통증 360명 | [PMID 33734288](https://pubmed.ncbi.nlm.nih.gov/33734288/) · [DOI](https://doi.org/10.1001/jamaoncol.2021.0310) | [통상진료 비교·치료 중단](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) |
-| 2024 | Cohen · JAMA Network Open · 만성 방사선 구강건조 258명 | [PMID 38739392](https://pubmed.ncbi.nlm.nih.gov/38739392/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2024.10421) | [XQ·삶의 질·다중비교](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) |
 | 2021 | Sun · Annals of Internal Medicine · 만성골반통 440명 | [PMID 34399062](https://pubmed.ncbi.nlm.nih.gov/34399062/) · [DOI](https://doi.org/10.7326/m21-1814) | [상세 결과](../evidence-integrated/acupuncture-evidence.md#cpps-landmark) |
 | 2017 | Liu · JAMA · 복압성 요실금 여성 504명 | [PMID 28655016](https://pubmed.ncbi.nlm.nih.gov/28655016/) · [DOI](https://doi.org/10.1001/jama.2017.7220) | [상세 결과](../authority/electroacupuncture.md#ea-incontinence-trial) |
 | 2016 | Liu · Annals of Internal Medicine · 중증 기능성변비 1,075명 | [PMID 27618593](https://pubmed.ncbi.nlm.nih.gov/27618593/) · [DOI](https://doi.org/10.7326/m15-3118) | [상세 결과](../authority/electroacupuncture.md#ea-constipation-trial) |
@@ -48,15 +43,21 @@ last_reviewed: 2026-08-19
 
 ## 본초 유래 분리 성분 시험 {#herb-component-rcts}
 
-복합 한약과 구분하는 성분 연구이며 위 핵심 30편과 별도로 안내합니다.
+본초에서 분리하거나 추출한 성분 제제를 평가한 시험입니다.
 
 | 연도·저널 | 연구·규모 | 원문 | 상세 결과 |
 |---|---|---|---|
 | 2020 · The Lancet Gastroenterology & Hepatology | 베르베린·선종 절제 후 재발, 1,108명 배정·891명 유효성 분석 | [PMID 31926918](https://pubmed.ncbi.nlm.nih.gov/31926918/) · [DOI](https://doi.org/10.1016/S2468-1253(19)30409-1) | [재발 결과·황련과의 구분](../herbs/coptis.md#berberine-adenoma-trial) |
 
+### 삼칠 사포닌 연질캡슐과 허혈성 뇌졸중 {#notoginseng-stroke-trial}
+
+Wu 등의 2023년 *JAMA Network Open* 시험은 중국 67개 기관에서 발병 14일 이내 허혈성 뇌졸중 환자 **3,072명**을 삼칠 사포닌 연질캡슐(Xuesaitong) 또는 위약에 무작위 배정했습니다. 2,966명을 대상으로 한 주분석에서 90일 기능적 독립(mRS 0–2)은 **89.3% 대 82.4%**였습니다(절대 차이 6.9%p, OR 1.95, 95% CI 1.56–2.44). 90일 중대한 이상반응은 1.0% 대 1.1%였습니다.
+
+기저 NIHSS 중앙값은 5점이었고 정맥 혈전용해술 8.9%, 혈전제거술 0.6%로 재관류치료를 받은 환자는 적었습니다. 연구 프로그램과 제조사가 연구비를 지원했고, 논문은 지원기관이 설계·분석·출판에 관여하지 않았다고 밝혔습니다. 시험 결과는 이 경구 제제와 환자군에 해당합니다. [PMID 37338907](https://pubmed.ncbi.nlm.nih.gov/37338907/) · [DOI 10.1001/jamanetworkopen.2023.17574](https://doi.org/10.1001/jamanetworkopen.2023.17574)
+
 ## 일본 Kampo 주요 무작위시험 {#japan-kampo-rcts}
 
-[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 위의 국제·국내 30편 묶음과 별도로 연결한 6개 독립 시험(Best RCTs 5편과 간절제 3상 시험)입니다.
+[일본 학회지·처방별 근거](../authority/formulas/herbal-formula-evidence-hub.md#japan-kampo-evidence)에서 선별 기준과 결과를 읽고 아래 원문을 확인합니다. 일본의 6개 독립 시험(Best RCTs 5편과 간절제 3상 시험)입니다.
 
 | 연도·저널 | 처방·연구 | PMID·DOI | 상세 결과 |
 |---|---|---|---|
@@ -78,3 +79,13 @@ last_reviewed: 2026-08-19
 | 2017 | 암 관련 식욕저하 | 십전대보탕 | `29441116` | `10.1155/2017/8780325` | [문서](../formulas/shi-quan-da-bu-tang.md) |
 
 → [전체 참고문헌 데이터베이스](references/index.md)
+
+### 질환별 상세 문서에 연결된 비교시험
+
+| 연도 | 연구·대상 | 원문 식별자 | 결과와 적용 범위 |
+|---|---|---|---|
+| 2026 | Chen · JAMA Neurology · 대상포진후신경통 448명 | [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) · [DOI](https://doi.org/10.1001/jamaneurol.2026.1443) | [전침 통증·반응률](../authority/electroacupuncture.md#ea-postherpetic-trial) |
+| 2018 | Hershman · JAMA · 유방암 호르몬치료 관련 관절통 226명 | [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) · [DOI](https://doi.org/10.1001/jama.2018.8907) | [본시험 결과](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
+| 2022 후속 추적 | Hershman · JAMA Network Open · 위 226명의 52주 평가, 191명 완료 | [PMID 36367721](https://pubmed.ncbi.nlm.nih.gov/36367721/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2022.41720) | [같은 시험의 장기추적](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) |
+| 2011 | Wang · Annals of Internal Medicine · H1N1 독감 복합탕제 410명 | [PMID 21844547](https://pubmed.ncbi.nlm.nih.gov/21844547/) · [DOI](https://doi.org/10.7326/0003-4819-155-4-201108160-00005) | [해열시간과 적용 범위](../authority/formulas/herbal-formula-evidence-hub.md#herbal-influenza-trial) |
+| 2024 | Cohen · JAMA Network Open · 만성 방사선 구강건조 258명 | [PMID 38739392](https://pubmed.ncbi.nlm.nih.gov/38739392/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2024.10421) | [XQ·삶의 질·다중비교](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) |

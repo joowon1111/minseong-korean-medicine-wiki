@@ -34,7 +34,6 @@ last_reviewed: '2026-08-29'
 | 약침 · 국내 만성요통 | *Journal of Pain Research*, 2023 · 100명 | 5주 치료 뒤 6주 통증 NRS가 물리치료보다 1.54점 유리; 기능·삶의 질도 평가. [비교효과와 추적](pharmacopuncture.md#pharmaco-back-trial) · [PMID 37554434](https://pubmed.ncbi.nlm.nih.gov/37554434/) |
 | 침 · 식후불편감증후군 | *Annals of Internal Medicine*, 2020 · 278명 | 4주 전체 반응률 모델 추정치 83.0% 대 가짜침 51.6%. [호전·소실과 추적](acupuncture.md#acupuncture-dyspepsia) |
 | 침 · 남성 만성골반통 | *Annals of Internal Medicine*, 2021 · 440명 | 8주 NIH-CPSI 6점 이상 개선 60.6% 대 가짜침 36.8%. [32주 추적](acupuncture.md#acupuncture-cpps) |
-| 침 · 미국 호르몬치료 관련 관절통 | *JAMA*, 2018 · 226명; 2022년 추적 | 같은 시험의 52주 통증이 가짜침보다 1.08점 낮음. [본시험·추적](acupuncture.md#acupuncture-oncology) |
 | 추나 · 국내 만성 목통증 | *JAMA Network Open*, 2021 · 108명 | 5주 통증 VAS 차이 16.8mm·NDI 차이 8.6%p로 통상치료보다 유리. [비교조건·1년 추적](../portal/evidence.md#korean-treatment-results) |
 
 심부전 시험은 **중국의 특정 표준화 제제**를 기존 약물치료에 더한 연구입니다. 일본 의료용 엑스제, 국내 처방·약침, 맞춤 탕약은 구성·제형·용량과 치료 맥락을 구분합니다. 표의 반응률은 해당 연구가 정한 기준이며 완치율로 바꾸지 않습니다.

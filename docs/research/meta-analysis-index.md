@@ -39,6 +39,5 @@ last_reviewed: 2026-08-19
 | 2016 | 안정기 COPD | 보중익기탕 | `27912964` | `—` | [문서](../formulas/buzhong-yiqi-tang.md) |
 | 2018 | 기능성 변비 | 가미 보중익기탕 | `29552087` | `—` | [문서](../formulas/buzhong-yiqi-tang.md) |
 | 2023 | 류마티스관절염 | 독활기생탕 | `37933004` | `—` | [문서](../formulas/duhuo-jisheng-tang.md) |
-| 2020 | 요추 추간판질환 | 독활기생탕 | `32118755` | `—` | [문서](../formulas/duhuo-jisheng-tang.md) |
 
 → [전체 참고문헌 데이터베이스](references/index.md)

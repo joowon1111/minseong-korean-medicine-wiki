@@ -22,7 +22,7 @@ last_reviewed: '2026-09-05'
 
 ### 대표 임상연구: 설계와 치료 성과 {#high-impact-journal-studies}
 
-**치료 후 무엇이 얼마나 좋아졌는지, 그 차이를 믿을 만한 비교로 확인했는지**를 기준으로 대표 연구를 골랐습니다. 학술지의 영향력지수(IF)보다 무작위배정·눈가림·사전 주평가·추적 결과를 먼저 봅니다.
+**치료 후 무엇이 얼마나 좋아졌는지, 그 차이를 믿을 만한 비교로 확인했는지**를 기준으로 대표 연구를 골랐습니다. 전문 학술지에 실린 연구라도 무작위배정·눈가림·사전 주평가와 추적 결과를 확인합니다. 위약·가짜침 대조에서는 절대 차이와 신뢰구간을 보고, 연구에서 임상적으로 의미 있는 최소 차이를 정한 경우 그 기준과 비교합니다.
 
 | 분야 | 대표 근거와 연구의 강점 | 환자에게 중요한 성과 |
 |---|---|---|
@@ -43,10 +43,8 @@ last_reviewed: '2026-09-05'
 | Tu 등, *Arthritis & Rheumatology*, 2021 · 무릎 골관절염 480명 모집·442명 분석 | 8주 통증·기능 동시 개선: 전침 60.3% 대 가짜침 47.3%, 차이 13.0%p(97.5% CI 0.2–25.9); 26주 추적 | [치료 횟수·수기침 비교·분석 대상](../conditions/knee-pain.md#intensive-knee-trial) · [PMID 33174383](https://pubmed.ncbi.nlm.nih.gov/33174383/) |
 | Witt 등, *The Lancet*, 2005 · 무릎 골관절염 294명, 28개 기관 | 8주 WOMAC 지수가 최소침보다 8.8점·대기군보다 22.7점 유리 | [비교군과 장기 결과](../conditions/knee-pain.md#witt-knee-trial) · [PMID 16005336](https://pubmed.ncbi.nlm.nih.gov/16005336/) |
 | Zhao 등, *JAMA Internal Medicine*, 2017 · 편두통 249명 배정·245명 분석 | 13–16주의 4주당 발작 횟수 감소가 가짜침보다 1.1회 더 큼 | [발작 횟수와 두통일수 구분](../authority/conditions/migraine.md#jama-migraine-prevention) · [PMID 28241154](https://pubmed.ncbi.nlm.nih.gov/28241154/) |
-| Chen 등, *JAMA Neurology*, 2026 · 대상포진후신경통 448명, 7개 병원 | 4주 통증점수 감소의 조정 군 간 차이 0.53점; 30% 이상 통증 감소 반응률 46.68% 대 24.28% | [효과 크기·반응률·정정 반영](../authority/electroacupuncture.md#ea-postherpetic-trial) · [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) |
 | Liu 등, *JAMA*, 2017 · 복압성 요실금 여성 504명 | 6주 패드검사 누출량 감소의 군 간 차이 7.4g; 누출량 50% 이상 감소 64.6% 대 21.7% | [객관적 누출량 평가](../authority/electroacupuncture.md#ea-incontinence-trial) · [PMID 28655016](https://pubmed.ncbi.nlm.nih.gov/28655016/) |
-| Hershman 등, *JAMA*, 2018 · 유방암 호르몬치료 관련 관절통 226명 | 6주 최악 통증의 조정 차이: 가짜침보다 0.92점, 대기군보다 0.96점; 사전 기준 2점과 사후 반응률·52주 추적을 구분 | [본시험·장기추적·진료지침](../evidence-integrated/acupuncture-evidence.md#ai-arthralgia-landmark) · [PMID 29998338](https://pubmed.ncbi.nlm.nih.gov/29998338/) |
-| Tu 등, *JAMA Internal Medicine*, 2024 · 좌골신경통 220명 배정, 216명 분석 | 4주 다리 통증 VAS 군 간 차이 16.0mm·ODI 8.1점; 52주 차이는 각각 10.8mm·4.7점 | [좌골신경통 시험](../evidence-integrated/acupuncture-evidence.md#sciatica-landmark) · [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) |
+| Tu 등, *JAMA Internal Medicine*, 2024 · 좌골신경통 220명 배정, 216명 분석 | 4주 가짜침 대비 다리 통증 16.0mm(95% CI 10.6–21.3)·기능장애 8.1점(95% CI 5.1–11.1) 개선. 평균 차이는 사전 설정 기준(15mm·7점)을 넘었고, 52주에는 각각 10.8mm·4.7점으로 줄어듦 | [좌골신경통 시험](../evidence-integrated/acupuncture-evidence.md#sciatica-landmark) · [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) |
 | Zhao 등, *JAMA Internal Medicine*, 2019 · 만성 안정형 협심증 404명 배정, 398명 분석 | 표준 약물치료에 전침을 추가: 13–16주의 4주당 발작 감소가 가짜침보다 5.18회 더 큼 | [병행치료·발작 빈도 평가](../evidence-integrated/acupuncture-evidence.md#stable-angina-landmark) · [PMID 31355870](https://pubmed.ncbi.nlm.nih.gov/31355870/) |
 | Xu 등, *BMJ*, 2020 · 편두통 150명 | 4주당 편두통 일수 감소의 조정 차이: 13–16주 1.4일, 17–20주 2.1일 더 큼 | [예방치료 시험](../evidence-integrated/acupuncture-evidence.md#migraine-prevention-trial) · [PMID 32213509](https://pubmed.ncbi.nlm.nih.gov/32213509/) |
 | Yang 등, *Annals of Internal Medicine*, 2020 · 식후불편감증후군 278명 | 4주 전체 치료 반응률 추정치 83.0% 대 가짜침 51.6%; 치료 뒤 12주 추적 | [소화기 기능 시험](../evidence-integrated/acupuncture-evidence.md#pds-landmark) · [PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/) |
@@ -56,11 +54,8 @@ last_reviewed: '2026-09-05'
 | Yin 등, *JAMA Network Open*, 2022 · 우울증 동반 불면 270명, 3개 병원 | 표준관리에 전침 추가: 8주 PSQI 군 간 차이 가짜침 대비 -3.6점, 표준관리 단독 대비 -5.1점; 32주 추적 | [수면척도·비교군·추적 결과](../conditions/insomnia.md#jama-depression-insomnia-trial) · [PMID 35797047](https://pubmed.ncbi.nlm.nih.gov/35797047/) |
 | DeBar 등, *JAMA Network Open*, 2025 · 미국 고령자 요통 800명 | 6개월 기능장애가 30% 이상 개선된 조정 비율: 침 39.1%·유지치료 추가 침 43.8%, 통상진료 29.4% | [고령자 요통 시험](../evidence-integrated/acupuncture-evidence.md#older-adult-back-trial) · [PMID 40938602](https://pubmed.ncbi.nlm.nih.gov/40938602/) |
 | Mao 등, *JAMA Oncology*, 2021 · PEACE 암 생존자 만성 근골격통 360명 | 12주 BPI 통증강도 감소가 통상진료보다 전침 1.9점·이침 1.6점 더 큼 | [치료·비교군·추적 조건](../authority/conditions/cancer-related-pain.md#peace-cancer-pain-trial) · [PMID 33734288](https://pubmed.ncbi.nlm.nih.gov/33734288/) |
-| Cohen 등, *JAMA Network Open*, 2024 · 만성 방사선 구강건조 258명, 미국 33개 기관 | 4주 환자보고 구강건조 XQ가 표준 구강관리보다 6.67점 낮음; 가짜침 비교는 다중비교 보정 후 유의하지 않음 | [증상·삶의 질·평가 시점](../authority/conditions/radiation-xerostomia.md#chronic-xerostomia-trial) · [PMID 38739392](https://pubmed.ncbi.nlm.nih.gov/38739392/) |
 | Vickers 등, *Journal of Pain*, 2018 · 39개 RCT, 20,827명 개인자료 메타분석 | 무침 대비 약 0.5 SD, 가짜침 대비 약 0.2 SD의 통증·기능 개선; 1년에도 효과 대부분 유지 | [효과 크기와 지속성](../evidence-integrated/acupuncture-evidence.md#chronic-pain-ipd) · [PMID 29198932](https://pubmed.ncbi.nlm.nih.gov/29198932/) |
 | Zheng 등, *Neurology*, 2022 · 만성 긴장형두통 218명 | 8주 20회 침치료 후 16주에 월 두통일수 50% 이상 감소 68.2% 대 얕은 침 48.1%; 두통일수 감소의 군 간 차이 4.3일, 32주에도 반응률 차이 유지 | [대상·치료·장기 결과](../conditions/tension-headache.md#tension-acupuncture-2022) · [PMID 35732505](https://pubmed.ncbi.nlm.nih.gov/35732505/) |
-| Brinkhaus 등, *Annals of Internal Medicine*, 2013 · 계절성 알레르기비염 422명 | 8주 12회 침+세티리진 구조약: 가짜침+구조약보다 RQLQ 0.5점(97.5% CI 0.2–0.8), 구조약 점수 1.1점(97.5% CI 0.4–1.9) 유리 | [3군 설계·평가시점·추적](../conditions/rhinitis.md#acusar-rhinitis-trial) · [PMID 23420231](https://pubmed.ncbi.nlm.nih.gov/23420231/) |
-| Choi 등, *Allergy*, 2013 · 알레르기비염 238명, 다기관 무작위시험 | 4주 주 3회 침치료 후 TNSS 군 간 차이: 가짜침 대비 −1.03점(95% CI −1.96~−0.09), 대기군 대비 −2.49점(95% CI −3.68~−1.29) | [배정·비교군·코 증상 평가](../conditions/rhinitis.md#allergy-rhinitis-trial) · [PMID 23253122](https://pubmed.ncbi.nlm.nih.gov/23253122/) |
 | Lu 등, *Cancer*, 2024 · 유방암 내분비치료 중 여성 158명, 한·미·중 3개 평행 RCT의 계획된 개인자료 통합분석 | 10주 20회 침치료: FACT-ESS 개선의 군 간 차이 4.9점(SE 1.3, P=0.0003); 열감점수 감소 차이 3.9점(SE 1.3, P=0.003) | [다나파버·대구 연구진·대기 대조·20주 추적](../conditions/cancer-treatment-recovery.md#multinational-hot-flash-trial) · [PMID 38924035](https://pubmed.ncbi.nlm.nih.gov/38924035/) |
 
 ### 침·전침·약침과 뇌·신경계 연구 {#acupuncture-neuroscience}
@@ -87,7 +82,6 @@ last_reviewed: '2026-09-05'
 | Dong 등, *JAMA Network Open*, 2024 · TISS 통심락, 2,007명 배정·1,946명 분석 | 급성 허혈성 뇌졸중 표준치료에 추가: 90일 무증상 또는 유의한 장애 없는 상태(mRS 0–1) 65.8% 대 59.1%, OR 1.33 | [뇌졸중 기능 회복 시험](../formulas/tongxinluo.md) · [PMID 39325453](https://pubmed.ncbi.nlm.nih.gov/39325453/) |
 | Ji 등, *JAMA Internal Medicine*, 2024 · FOCUS 진리다, 885명 분석 | 내당능장애·대사 이상군: 당뇨병 진행 27.83% 대 42.66%, 정정 반영 HR 0.59 | [진행 예방 연구](../authority/formulas/herbal-formula-evidence-hub.md#herbal-major-outcomes) · [PMID 38829648](https://pubmed.ncbi.nlm.nih.gov/38829648/) |
 | Bensoussan 등, *JAMA*, 1998 · IBS 복합 한약 116명 | 16주 위약대조: 환자보고 호전 표준방 76%·개별방 64%·위약 33%; 장 증상·일상생활 방해도 평가 | [IBS 본시험·추적 결과](../authority/conditions/irritable-bowel-syndrome.md#jama-herbal-trial) · [PMID 9820260](https://pubmed.ncbi.nlm.nih.gov/9820260/) |
-| Wang 등, *Annals of Internal Medicine*, 2011 · 합병증 없는 H1N1 독감 410명, 11개 병원 | 마행석감탕·은교산 기반 12미 탕제: 무중재군 대비 해열시간 추정 중앙값 37% 단축; 항바이러스제 병용도 평가 | [발열 결과·정정 반영 대상](../authority/formulas/herbal-formula-evidence-hub.md#herbal-influenza-trial) · [PMID 21844547](https://pubmed.ncbi.nlm.nih.gov/21844547/) |
 | Zhong 등, *Clinical Gastroenterology and Hepatology*, 2019 권호 · 마자인환 291명 | 8주 완전자발배변 반응률 68.0% 대 위약 33.0%; 센나와 8주 차이는 유의하지 않음 | [배변과 추적 결과](../authority/formulas/herbal-formula-evidence-hub.md#herbal-digestive-trials) · [PMID 29654915](https://pubmed.ncbi.nlm.nih.gov/29654915/) |
 | Kim 등, *Complementary Therapies in Medicine*, 2019 · 국내 소청룡탕 다기관 시험 | 4주 위약대조에서 통년성 비염의 코 증상과 삶의 질 개선 | [국내 처방 단위 연구](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 31331582](https://pubmed.ncbi.nlm.nih.gov/31331582/) |
 | Lee 등, *Journal of Ethnopharmacology*, 2026 · 국내 육군자탕·평위산 140명 | 6주 소화불량 증상점수 변화가 통상관리보다 각각 평균 1.63점·1.55점 더 유리 | [국내 비교효과 시험](../authority/formulas/herbal-formula-evidence-hub.md#korean-herbal-trials) · [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) |
@@ -104,31 +98,25 @@ last_reviewed: '2026-09-05'
 | **Rong·Ji 등**, *Journal of Infectious Diseases*·*Journal of Hepatology*, 2022 권호 | 진행성 섬유화·간경변 동반 B형간염 **1,000명**; 엔테카비르+별갑연간 복합제(BRC) 대 엔테카비르+위약, 다기관 이중눈가림 72주와 같은 시험의 장기추적 | 조직학적 섬유화 개선 **40.0% 대 31.8%**; 기저 간경변 388명의 Ishak 5점 이상→4점 이하 개선 **41.5% 대 30.7%**. 72주 뒤 공개치료 단계로 이어진 추적에서 7년 간암 누적발생 **4.7% 대 9.3%**, 간 관련 사망 **0.2% 대 2.2%**(mITT). [본시험 PMID 32437567](https://pubmed.ncbi.nlm.nih.gov/32437567/) · [장기추적 PMID 35985545](https://pubmed.ncbi.nlm.nih.gov/35985545/) |
 | **Zhao 등·중국·프랑스 공동연구**, *Diabetes Care*, 2022 | 당뇨병성 신장질환 **413명**, 중국 9개 병원·24주 이중눈가림시험; 황촉규 제제·이르베사르탄·병용 비교 | 병용군의 uACR 감소가 이르베사르탄 단독보다 조정 평균 **197.94mg/g 더 큼**. [PMID 35613364](https://pubmed.ncbi.nlm.nih.gov/35613364/) · [제제·비교군·검사결과](../authority/formulas/kidney-disease-herbal-map.md#huangkui-france-china) |
 | **Chan 등**, *Phytomedicine*, 2024 | 제2형 당뇨병·CKD **118명**, 다기관 평가자 눈가림 무작위시험; 황기 과립 추가 대 표준관리, 48주 | 황기군에서 eGFR 감소 속도가 연간 **4.6mL/min/1.73m² 더 완만함**(군 간 차이). [PMID 38810556](https://pubmed.ncbi.nlm.nih.gov/38810556/) · [대상·추적·안전성](../authority/formulas/kidney-disease-herbal-map.md#astragalus-rct) |
-| **돗토리대 제2내과 등**, Hirayama 등 · *Gastroenterologia Japonica*, 1989 | 만성 활동성 간염 **222명**, 다기관 이중눈가림시험; 소시호탕 116명과 소량 소시호탕을 포함한 위약 대조 106명을 첫 12주 비교 | 소시호탕군의 **AST·ALT 감소가 12주에 대조군보다 유의하게 큼**. 간효소를 직접 평가한 일본 내과 원저. [PMID 2691317](https://pubmed.ncbi.nlm.nih.gov/2691317/) · [제제·비교·안전성 상세](../herbal-integrated/safety.md#kampo-liver-trials) |
-| **일본 소아 IgA 신병증 연구그룹**, Yoshikawa 등 · *일본신장학회지*, 1997 | 고베대·기타사토대 Kidney Center·도쿄도립 소아병원 신장과 등 참여; 경미한 메산지움 증식 소아 IgA 신병증 **101명**, 시령탕(TJ-114) 2년 대 무투약 무작위 비교 | 완료자 46명 대 48명 중 소변검사 정상화 **21명(46%) 대 5명(10%)**; 단백뇨·혈뇨 감소. [원저 PMID 9283216](https://pubmed.ncbi.nlm.nih.gov/9283216/) · [일본신장학회지 원문·기관정보](https://www.jstage.jst.go.jp/article/jpnjnephrol1959/39/5/39_5_503/_article/-char/en/) |
-| **高橋久雄·丸山勝也**, *医学のあゆみ*, 1993 | 입원 알코올의존 환자 **49명**, 소시호탕 24명 대 소시호탕·인진오령산 합방 25명 무작위 비교, 3개월 | 두 군의 증상·간검사 개선과 합방군의 ALP 감소를 평가. 입원 중 금주와 병행한 두 한약치료의 비교. [일본동양의학회 구조화 초록](https://www.jsom.or.jp/ebm/er/file/930013.pdf) · [치료 구성·결과](../herbal-integrated/safety.md#kampo-liver-trials) |
 
-위 시험의 결과를 적용할 때에는 사용 제제·환자군·평가기간을 확인합니다. **시령탕(柴苓湯, Saireito)**은 소시호탕·오령산 계열의 복합처방이며, 소아 IgA 신병증 시험의 소변검사 결과와 성인 CKD 시험의 eGFR 결과는 각각의 치료 목표를 보여줍니다. [처방·병용과 추적검사](../herbal-integrated/safety.md#safety-evidence-guide)를 함께 확인할 수 있습니다.
+위 시험의 결과를 적용할 때에는 사용 제제·환자군·평가기간을 확인합니다. 당뇨병성 신장질환 시험의 uACR과 eGFR은 각각 알부민뇨와 여과기능을 반영합니다. 황기 시험의 두 주평가 중 eGFR 감소 속도에 군 간 차이가 있었고, uACR의 차이는 뚜렷하지 않았습니다. [처방·병용과 추적검사](../herbal-integrated/safety.md#safety-evidence-guide)를 함께 확인할 수 있습니다.
 
-#### 실제 진료 관찰·안전성·기전 연구 {#japan-liver-kidney-studies}
+#### 코호트와 전향적 안전성 연구 {#japan-liver-kidney-studies}
 
-다음 자료는 실제 진료의 경과, 복용 중 검사 변화, 작용기전을 살펴봅니다. 코호트·사례군·증례·종설·세포연구를 구분하고, 각 연구가 직접 확인한 결과를 표시했습니다.
+약을 복용한 뒤 어떤 이상이 관찰됐는지와 치료받은 집단 간 결과가 어떻게 달랐는지 살펴봅니다. 보험자료 코호트의 연관을 해석할 때는 기저 중증도, 처방 선택과 동반치료의 차이를 고려합니다.
 
 | 연구진·저널 | 대상·설계 | 확인된 성과·원문 |
 |---|---|---|
-| **국내 7개 한방병원**, *Journal of Ethnopharmacology*, 2015 | 근골격계 입원환자 중 입·퇴원 간검사가 있는 **6,894명**, 후향적 실제 진료 자료 | 입원 시 간손상 354명 중 **225명이 정상 범위로 돌아오거나 유의한 회복**; 간 안전성과 검사 경과 평가. [PMID 25956676](https://pubmed.ncbi.nlm.nih.gov/25956676/) · [판정 기준·추적결과](../herbal-integrated/safety.md#liver-safety-jaseng) |
+| **Cho 등**, *Archives of Toxicology*, 2017 | 국내 10개 한방병원 입원환자 **1,001명**, 한약 복용 중 간효소를 반복 측정한 전향적 연구 | 간손상 판정 기준에 해당한 사례 **6명(0.60%, 95% CI 0.12–1.08%)**. 1명은 Hy's law 기준에 해당. [PMID 28634823](https://pubmed.ncbi.nlm.nih.gov/28634823/) · [검사·인과성 평가](../herbal-integrated/safety.md#liver-safety-prospective) |
 | **Tsai 등·대만 보험자료**, *Journal of Ethnopharmacology*, 2015 | 라미부딘 치료 B형간염 **1,037명**, 추적 중앙값 5.3년 코호트 | 한약 사용과 낮은 전체 사망위험의 연관: 조정 **HR 0.45**(95% CI 0.27–0.76). [PMID 26277491](https://pubmed.ncbi.nlm.nih.gov/26277491/) · [대상·분석과 해석](../herbal-integrated/safety.md#hbv-herbal-cohort) |
-| **Gao 등**, *Scientific Reports*, 2016 | 진행성 간세포암 **288명**, 한약 병용 115명과 기존 치료군의 후향적 비교 | 생존기간 중앙값 **13개월 대 6개월**의 연관을 보고하고 네트워크 약리학으로 표적 탐색. [PMID 27143508](https://pubmed.ncbi.nlm.nih.gov/27143508/) · [생존자료·설계](../herbal-integrated/safety.md#hcc-herbal-survival) |
-| **게이오대 한방의학센터**, Yoshino 등 · *Frontiers in Pharmacology*, 2022 | 경도·중등도 CKD **37명**, 황기 함유 처방 전후 의무기록의 자기대조 사례군 | 평균 eGFR **66±12 → 70±14mL/min/1.73m²**(P<0.001). [PMID 35300298](https://pubmed.ncbi.nlm.nih.gov/35300298/) · [검사 추적과 처방 범위](../authority/formulas/kidney-disease-herbal-map.md#astragalus-japan-series) |
-| **나고야대·아이치암센터 간담도 외과 연구진**, Yamashita 등 · *Pharmacological Research*, 2022 | 외부 담도배액을 받은 악성 폐쇄성 황달 **52명**, 인진호탕 7.5g/일의 단기 투여와 장내미생물·담즙량 연구 | 투여 2·3일째 담즙량 변화와 분변의 genipin 생성능 사이 양의 상관(r=0.40·0.29). 한약 성분의 장내 전환과 담즙 반응을 연결. [PMID 34798264](https://pubmed.ncbi.nlm.nih.gov/34798264/) |
 
-관찰연구의 연관, 단기 검사 변화와 세포 반응은 각자의 연구 질문에 대한 성과입니다. 인진호탕은 담도배액을 받은 환자의 담즙 반응을 평가했습니다. 증례·세포 연구와 이전 종설의 세부 내용은 아래 자료실에서 연구유형별로 확인합니다. [간질환 치료·안전성 자료](../herbal-integrated/safety.md#liver-treatment-evidence)와 [신장질환 임상연구 지도](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies)에서 세부 결과를 확인할 수 있습니다.
+간손상 위험과 검사 추적은 [한약 안전성](../herbal-integrated/safety.md#safety-evidence-guide), 신장질환의 시험제제와 세부 결과는 [신장질환 임상연구](../authority/formulas/kidney-disease-herbal-map.md#renal-clinical-studies)에서 확인합니다.
 
-### 본초 유래 분리 성분의 주요 임상연구 {#herb-derived-component-studies}
+### 본초 유래 성분 제제의 주요 임상연구 {#herb-derived-component-studies}
 
 **베르베린의 대장선종 재발 감소**는 본초 유래 성분을 사람에게 직접 비교한 성과입니다. Chen 등의 *The Lancet Gastroenterology & Hepatology* 2020년 다기관 이중눈가림 시험은 1,108명을 배정하고 유효성 자료가 있는 891명을 분석했습니다. 선종 재발은 **36% 대 위약 47%, RR 0.77**이었습니다. [황련·베르베린의 구분과 상세 결과](../herbs/coptis.md#berberine-adenoma-trial) · [PMID 31926918](https://pubmed.ncbi.nlm.nih.gov/31926918/)
 
-이 시험은 **본초 유래 분리 성분 정제**를 평가했습니다. 복합 한약처방 임상시험과 제제·연구 목적이 다릅니다.
+**삼칠(Panax notoginseng) 사포닌 연질캡슐**은 중국 67개 기관의 이중눈가림 위약대조시험에서 허혈성 뇌졸중 환자 3,072명을 배정해 2,966명을 주분석했습니다. 90일에 도움 없이 생활할 수 있는 기능 수준(mRS 0–2)에 도달한 비율은 **89.3% 대 82.4%**로 6.9%p 차이였습니다(OR 1.95, 95% CI 1.56–2.44). 기저 NIHSS 중앙값은 5점이었고 혈전용해술과 혈전제거술을 받은 비율은 각각 8.9%, 0.6%였습니다. [시험제제·안전성·연구비](../research/rct-index.md#notoginseng-stroke-trial) · [PMID 37338907](https://pubmed.ncbi.nlm.nih.gov/37338907/)
 
 ### 일본 Kampo: 소화·두통·수면과 전문 진료의 연구 {#japan-kampo-studies}
 
