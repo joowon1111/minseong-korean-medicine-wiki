@@ -14,7 +14,7 @@ description: "반하사심탕의 기능성소화불량 연구를 심하비·오�
 [상한론 149조](../../classics/shanghanlun/clauses/taiyang-lower.md#clause-149)는 치료 후 남은 심하비를, [금궤요략 17.10](../../classics/jinkui-yaolue/chapters/vomiting-diarrhea.md#clause-17-010)은 구토·장명·심하비의 조합을 제시합니다. 두 원문을 [반하사심탕 구성](../../formulas/banxia-xiexin-tang.md)과 대조하고, 아래 연구에서는 기능성소화불량 진단과 실제 사용 제제를 확인합니다.
 
 ## 현대 임상근거
-- 2023 systematic review/meta-analysis: **57 RCT·5,525명**. 반하사심탕은 서양의학 치료보다 높은 total clinical efficacy를 보였고, 반하사심탕+서양의학 병용도 서양의학 단독보다 높은 임상반응을 보였습니다. 병용치료에서는 motilin과 심리증상 지표의 개선도 보고되었습니다. [PMID 37274096·원문](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1130257/full).
+- 2023 systematic review/meta-analysis: **57 RCT·5,525명**. 약물 대조에서는 반하사심탕 단독군과 병용군의 전체 임상반응률이 높았습니다. 위약 대조에서 환자가 평가한 소화불편 VAS는 유의한 차이가 없었습니다. 비교군과 평가 지표에 따라 결과가 달랐습니다. [PMID 37274096·원문](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1130257/full).
 - 기존 RCT meta-analysis: **10개 연구·972명**. 기능성소화불량에서 반하사심탕이 서양의학 치료보다 높은 임상효과를 보였습니다. PMID `24783922`.
 
 임상반응의 정의, 가감방·병용치료와 연구의 비뚤림 위험을 함께 확인합니다. 위 결과를 모든 소화기 증상이나 모든 반하사심탕 제제에 같은 크기의 효과로 적용하지 않습니다.
