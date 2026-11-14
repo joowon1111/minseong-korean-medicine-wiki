@@ -259,15 +259,11 @@ AST·ALT는 전체적으로 유의하게 감소했고, 두 검사에서 이상 �
 
 ## 간질환 치료 연구: 간효소·섬유화·생존을 나누어 읽기 {#liver-treatment-evidence}
 
-**한약·본초 유래 제제를 사용한 간질환 연구에서는 간효소 개선, 섬유화 변화, 생존과의 긍정적인 연관이 보고돼 왔습니다.** 안전성 연구는 복용 중 손상이 얼마나 발생했는지, 치료 연구는 특정 간질환의 어떤 지표가 개선됐는지에 답합니다. ALT·AST 감소, HBV DNA 억제, 조직학적 섬유화 개선과 사망위험 감소는 각각 다른 결과입니다.
+간질환 치료 연구에서는 ALT·AST, HBV DNA, 조직학적 섬유화와 간암 발생을 각각 평가합니다. 복용 중 간손상의 발생률과 위험요인은 앞의 안전성 연구에서 확인할 수 있습니다.
 
-### 2,000명·ALT 정상화 82%의 출처 {#liver-compound861}
+### 만성 B형간염의 섬유화와 간암 발생 {#liver-compound861}
 
-Wang의 2000년 종설 *Treatment of chronic liver diseases with traditional Chinese medicine*은 단삼을 중심으로 한 10종 약재의 **Compound 861** 연구를 소개합니다. 2,000명 공개시험에서 증상 호전 83%, ALT 정상화 82%를 보고했고, HBV 관련 질환 107명의 대조연구에서는 6개월 전후 조직검사로 섬유화 변화를 평가했습니다. 종설은 별도로 Phyllanthus류·oxymatrine의 HBV 관련 지표와 감초 유래 glycyrrhizin 제제 SNMC의 간효소 결과도 다룹니다.
-
-따라서 82%는 모든 한약의 효능이나 B형간염 바이러스 제거율이 아니라 **특정 제제의 공개시험에서 보고한 ALT 정상화 비율**입니다. 종설에 요약된 과거 연구이므로 현대 무작위시험과 같은 확정도로 해석하지 않습니다. NCBI는 해당 논문을 검색하는 경로이며 연구를 수행하거나 효능을 인증한 기관이 아닙니다.
-
-Wang BE. *J Gastroenterol Hepatol.* 2000;15 Suppl:E67–E70. [PMID 10921385](https://pubmed.ncbi.nlm.nih.gov/10921385/) · [출판사 초록·DOI](https://doi.org/10.1046/j.1440-1746.2000.02100.x)
+엔테카비르 치료를 받는 진행성 섬유화·간경변 동반 만성 B형간염 환자 1,000명을 별갑연간 복합제 또는 위약 추가군에 무작위 배정했습니다. 72주 조직검사에서 섬유화 개선은 **40.0% 대 31.8%**였습니다. 이후 공개치료 단계가 포함된 장기추적에서 간암 누적발생은 7년 **4.7% 대 9.3%**였습니다. 이 결과는 해당 환자군의 간암 발생을 추적한 것으로, 이미 간암을 진단받은 환자의 치료·생존 연구와는 질문이 다릅니다. [본시험과 장기추적](../portal/evidence.md#brc-hepatitis-trial)
 
 ### 대만 B형간염 코호트: 사망위험과의 연관 {#hbv-herbal-cohort}
 
@@ -277,13 +273,7 @@ Tsai 등의 2015년 연구는 대만 보험자료 표본에서 **라미부딘 �
 
 Tsai DS et al. *The use of Chinese herbal medicines associated with reduced mortality in chronic hepatitis B patients receiving lamivudine treatment.* *J Ethnopharmacol.* 2015;174:161–167. [PMID 26277491](https://pubmed.ncbi.nlm.nih.gov/26277491/) · [DOI 10.1016/j.jep.2015.08.002](https://doi.org/10.1016/j.jep.2015.08.002)
 
-### 간암 생존 연구: 2016년 Scientific Reports {#hcc-herbal-survival}
-
-Gao 등의 후향적 연구는 진행성 간세포암 288명 중 한약과 기존 치료를 함께 받은 115명과 기존 치료를 받은 나머지 환자를 비교했습니다. **생존기간 중앙값은 13개월 대 6개월**, 5년 전체 생존율은 2.61% 대 0%로 보고됐습니다. 생존과 연관된 본초를 고른 뒤 네트워크 약리학으로 가능한 표적을 탐색했습니다.
-
-임상 생존자료와 기전 가설을 연결한 연구이지만 무작위시험은 아닙니다. 한약군에 최소 2개월 복용 조건이 있었고, 치료 선택·생존기간에 따른 편향 가능성을 고려해야 합니다. 결과는 해당 환자군의 긍정적인 연관으로 설명하며, 개인의 생존기간 연장 보장이나 표준 항암치료 중단의 근거로 사용하지 않습니다.
-
-Gao L et al. *Molecular targets of Chinese herbs: a clinical study of hepatoma based on network pharmacology.* *Scientific Reports.* 2016;6:24944. [PMID 27143508](https://pubmed.ncbi.nlm.nih.gov/27143508/) · [원문·DOI 10.1038/srep24944](https://www.nature.com/articles/srep24944)
+<span id="hcc-herbal-survival"></span>
 
 ### 일본 소시호탕과 알코올성 간질환 연구 {#kampo-liver-trials}
 
