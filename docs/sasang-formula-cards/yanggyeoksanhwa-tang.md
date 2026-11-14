@@ -41,6 +41,8 @@ last_reviewed: 2026-10-02
 | [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 생지황·석고·지모·방풍을 공유. 상소증의 완만한 배뇨·두면 변화와 흉격열병우증의 변폐·심한 번조·빠른 열증을 비교. [양독백호탕까지 3종의 1첩 용량](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md#soyang-chestheat-formulas) |
 | [인동등지골피탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-indongdeungjigolpi) | 인동등을 공유. 상소·중소의 차이는 갈증과 함께 허기, 식사량, 체중, 소변의 변화를 기록해 확인 |
 
+상소와 흉격열병우증을 비교할 때는 평소보다 입이 마른 시점, 소변을 자주 보면서 한 번 양이 적은지, 변이 막히면서 번조나 인후·피부의 붉음과 부기가 빠르게 심해지는지를 나누어 묻습니다. 이 경과를 바탕으로 양격산화탕의 인동등·연교·치자·박하와 두 백호계의 석고·생지황·지모 배합을 비교합니다. [양격산화탕·지황백호탕·양독백호탕의 1첩 구성](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md#soyang-chestheat-formulas)
+
 ## 배합 구조
 
 생지황·인동등·연교가 각 8 g이고, 치자·박하는 상부의 번열과 울체를 풀어 주는 방향, 석고·지모는 번갈을 식히는 방향을 더합니다. 형개·방풍을 포함해도 전체 구성은 흉격열의 리열을 중심으로 읽습니다. 이름이 비슷한 일반 방제 **양격산**과는 출전과 약미가 다릅니다. 여기 실은 양격산화탕에는 대황·망초가 들어가지 않습니다.

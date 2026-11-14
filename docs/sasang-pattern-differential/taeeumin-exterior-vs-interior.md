@@ -38,17 +38,26 @@ description: 태음인 표한병 vs 리열병 — 민성 한의학 아카이브�
 
 ## 표한 안에서도 다시 나누기
 
-- **표한·한궐·통증:** 오한·무한과 흉복통·신체통이 앞서면 마황정통탕 계열을 비교합니다.
-- **비위 담습·조위:** 식후 팽만·몸의 무거움·담과 발한불리가 중심이면 [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md)을 봅니다.
-- **조한병우증:** 식후 그득함·설사·부종과 함께 두근거림·수면장애·불안이 뚜렷하면 [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md)을 비교합니다. 중소·하지무력은 후대 수록 자료에서 확인할 수 있습니다. [태음조위탕과 조위승청탕의 구성·용량과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison)
-- **호흡·폐원:** 기침·담·병후 회복이 전면이면 행인승청탕·조리폐원탕 계열을 함께 봅니다.
+| 지침의 병증 또는 문헌 범위 | 핵심 처방과 배합 | 감별 단서 |
+|---|---|---|
+| 배추표병초증·효천병증 | [마황발표탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-mahwangbalpyo)은 마황·길경·맥문동·행인·황금, [마황정천탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-mahwangjeongcheon)은 여기에 상백피·관동화·나복자·백과가 배합된 후대 기록이 있습니다. | 오한·몸살·발열과 호흡 변화가 함께 시작했는지, 쌕쌕거림·야간 숨참·활동 제한이 중심인지 묻습니다. |
+| 한궐증·한궐우증 | 지침은 [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-handayeolso)을 제시합니다. 후대 수록형에는 의이인·건율·나복자와 마황·길경 등이 들어갑니다. [마황정통탕](../sasang-formula-library/mahwangjeongtong-tang.md)은 흉복통이 기록된 후대 수록형으로 따로 비교합니다. | 오한이 이어지는 시간, 발열의 유무, 발한 뒤 회복을 확인합니다. 흉복통이 앞설 때는 통증과 호흡의 원인 평가를 함께 진행합니다. |
+| 조한병증·조한병우증 | [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md)의 건율·의이인·나복자 배합과, 천문동·원지·산조인·용안육을 더하고 나복자의 양을 줄인 [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md)을 비교합니다. | 식후 그득함·설사·부종이 앞서며 두근거림·불면·불안이 더해지는 시점을 봅니다. [두 처방의 1첩 구성과 출전](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison) |
+| 조한병심증·병후 회복 | [보폐원탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-bopyewon)과 [녹용대보탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nokyongdaebo)은 지침의 조한병심증에 실립니다. 보폐원탕은 맥문동·길경·오미자, 녹용대보탕은 녹용과 맥문동·의이인·산약 등을 배합합니다. [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md)·[조리폐원탕](../sasang-formula-library/joripyewon-tang.md)은 후대의 기침·담과 병후 회복 문맥에서 비교합니다. | 하지무력·요통과 피부·모발의 건조가 함께 심해지는지, 병후 기침·담과 식사 저하가 남았는지 기록하고 처방마다 병증 지침과 문헌의 주치를 확인합니다. |
+
+[태음인 표병 임상진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957) · [한의표준임상진료지침 핵심 요약집](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=83)
 
 ## 리열 안에서도 다시 나누기
 
-- **간열·폐조:** 열·갈증·다한·피부와 대변 건조가 중심이면 [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md) 계열을 봅니다.
-- **양독·두면부 열:** 인후·피부·두면부 열성 변화가 두드러지면 갈근해기탕의 위치를 비교합니다.
-- **조열병우증:** 지속 갈증·다뇨·건조에 두근거림·수면장애·불안이 더해지는지 살핍니다. [청심연자탕·열다한소탕·조위승청탕의 감별과 1첩 용량](../sasang-formula-cards/cheongsimyeonja-tang.md#taeeumin-palpitations-sleep-comparison)
-- **배변 변화가 겹칠 때:** 지속 갈증·다뇨·건조가 있는 조열병증에서는 [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md)의 대황 배합을 비교합니다. 조열·다한과 함께 복만·변폐 또는 열성 설사가 진행한 간열병우증은 갈근승기탕에 연결됩니다. [태음인 리열 처방 3종 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison)
+| 병증 | 핵심 처방과 배합 | 감별 단서 |
+|---|---|---|
+| 간열병초증 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md)은 지침의 6미형과 인후통·양독 문맥의 후대 8미형을 나누어 봅니다. | 신열·발한과 얼굴·손발 홍조, 눈 통증과 코 안 건조가 함께 시작했는지 확인합니다. |
+| 간열병우증 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi)은 갈근·황금에 대황을 배합합니다. | 갈증·다한과 복만·변폐 등 배변 변화가 함께 진행했는지 묻습니다. 청폐사간탕과는 건조의 지속 및 배합의 차이를 대조합니다. |
+| 조열병증 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md)은 갈근·황금·고본과 길경·나복자 등을 배합하며, [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md)의 지침형은 이 구성에 대황을 더합니다. | 지속 갈증·다뇨·피부와 대변의 건조를 확인하고, 굳은 변과 배변 곤란·복만이 얼마나 두드러지는지 비교합니다. |
+| 조열병우증 | [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md)은 연자육·산약과 천문동·맥문동, 원지·산조인 등을 함께 씁니다. | 두근거림·불면·불안이 지속 갈증·다뇨·건조와 함께 나타났는지 묻습니다. 식후 복만·설사·부종이 함께 시작했다면 표한 쪽 조위승청탕과 대조합니다. [두근거림·불면이 겹치는 세 처방 비교](../sasang-formula-cards/cheongsimyeonja-tang.md#taeeumin-palpitations-sleep-comparison) |
+| 조열병심증 | 지침에는 녹용·산약·천문동 등을 배합한 환제인 [공진흑원단](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-gongjinheugwon)이 실립니다. | 심해진 피부·모발·손발톱 건조와 근육 소모, 하지무력·요통의 경과를 확인합니다. |
+
+[태음인 리열 처방 3종의 구성·용량과 감별](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#taeeumin-dry-heat-formula-comparison) · [태음인 원전과 병증 해설](../sasang-clinical-detail/taeeumin.md)
 
 ## '땀'을 단독 기준으로 쓰지 않기
 
