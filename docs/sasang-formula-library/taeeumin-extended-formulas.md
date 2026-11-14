@@ -117,6 +117,10 @@ last_reviewed: 2026-10-02
 
 출전: [병증별 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957) · [《동의사상신편》 공개기록 P0018578](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018578&tempLang=ko). 병증 지침과 후대 조성 기록의 역할을 구분해 읽습니다.
 
+### 배추표병초증의 지침 약량 {#mahwangbalpyo-cpg-dose}
+
+길경 3돈, 마황 1돈 5푼, 맥문동·황금·행인 각 1돈으로, 1돈당 4 g 환산 시 **5미 30 g**입니다. 길경은 12 g, 마황은 6 g입니다. 발열·오한·몸살과 무한이 시작된 뒤 숨이 차는지를 묻고, 효천이 중심인 마황정천탕과 비교합니다. [지침 핵심 요약집](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=82)
+
 ## 마황정천탕(麻黃定喘湯) {#taeeum-mahwangjeongcheon}
 
 **병증 위치:** 표병 지침의 효천병증에서 연결하는 처방입니다. 효천이라는 전통 증후와 현대 천식의 진단·중증도는 함께 평가합니다.
@@ -132,6 +136,10 @@ last_reviewed: 2026-10-02
 
 출전: [병증별 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957) · [《동의사상신편》 공개기록 P0018566](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018566&tempLang=ko). 병증 지침과 후대 조성 기록의 역할을 구분해 읽습니다.
 
+### 효천병증의 지침 약량 {#mahwangjeongcheon-cpg-dose}
+
+지침은 마황 3돈, 행인 1돈 5푼, 황금·나복자·상백피·길경·맥문동·관동화 각 1돈과 **볶은 백과 21개**를 싣습니다. 중량 약미 8종의 합계는 1돈당 4 g 기준 **42 g**이고 백과는 개수로 따로 기록합니다. 위 후대 자료의 백과 항목에는 개수가 제시되어 있지 않습니다. 마황발표탕과 5미를 공유하며 지침형에서는 마황과 행인의 비중이 커집니다. [지침 핵심 요약집](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=82)
+
 ## 한다열소탕(寒多熱少湯) {#taeeum-handayeolso}
 
 **병증 위치:** 표병 지침은 한궐증·한궐우증에 연결합니다. 냉감을 호소한다는 사실보다 한열의 경과와 발한·호흡·활동을 함께 봅니다.
@@ -146,6 +154,10 @@ last_reviewed: 2026-10-02
 **감별을 좁히는 질문:** 평소부터 추위를 탔는지, 이번에 새로 심해졌는지부터 확인합니다. 오한만 있는 시간과 열이 오르는 시간, 땀이 난 뒤의 회복을 구분해 적고, 복약·해열제·주변 온도의 영향도 함께 남깁니다. ‘한다열소’라는 이름만으로 열다한소탕의 반대 증상에 자동 적용하는 방식은 현재 병증의 표리·순역 정보를 놓칠 수 있습니다.
 
 출전: [병증별 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957) · [《동의사상신편》 공개기록 P0018571](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018571&tempLang=ko). 병증 지침과 후대 조성 기록의 역할을 구분해 읽습니다.
+
+### 한궐증의 지침형과 후대 수록량 {#handayeolso-cpg-dose}
+
+지침형은 의이인 3돈, 나복자 2돈, 맥문동·길경·황금·행인·마황 각 1돈에 **건율 7개**를 더합니다. 1돈당 4 g 환산으로 **40 g과 건율 7개**입니다. 기존 비교표의 **37.5 g과 건율 7개**는 후대 수록형입니다. 오한만 있는 시간과 발열·무한이 나타나는 시간이 교대하는지, 오한과 무한이 지속되는지 문진합니다. [지침 핵심 요약집](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=83)
 
 ## 보폐원탕(補肺元湯) {#taeeum-bopyewon}
 
