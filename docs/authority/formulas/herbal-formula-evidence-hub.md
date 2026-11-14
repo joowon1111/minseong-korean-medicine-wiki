@@ -166,7 +166,6 @@ Ogawa-Ochiai 등의 **2025년 JAMA Network Open** 연구는 히로시마대·가
 | 주요 처방 | 사람 대상 근거 | 임상 적용 시 확인할 사항 |
 |---|---|---|
 | [대건중탕](../../formulas/dajianzhong-tang.md) | 2025년 위장관 암 수술 11개 RCT·1,413명 메타분석 — [PMID 40820043](https://pubmed.ncbi.nlm.nih.gov/40820043/) | 첫 가스 배출 평균 0.19일 단축, 수술 후 장기능 회복 보조근거 |
-| [반하사심탕](../../formulas/banxia-xiexin-tang.md) | 기능성소화불량 57개 RCT·5,525명 메타분석 — [PMID 37274096](https://pubmed.ncbi.nlm.nih.gov/37274096/) | 약물 대비 임상반응률은 유리했으며, 위약 대비 소화불편 VAS에는 유의한 차이가 없었음 |
 | [육군자탕](../../research/formulas/rikkunshito.md) | 2026년 한국 다기관 RCT, 기능성소화불량 140명·6주 — [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) | 통상관리군과 비교한 직접 임상시험으로 소화불량 증상과 식욕 관련 지표를 확인 |
 | [평위산](../../formulas/pingwei-san.md) | 같은 한국 다기관 RCT에서 평위산·육군자탕·통상관리 비교 — [PMID 42637062](https://pubmed.ncbi.nlm.nih.gov/42637062/) | 습체·창만 중심의 실제 병증과 연구 대상이 가까운지 확인 |
 | [통사요방](tongxie-yaofang.md) | 설사형 과민성장증후군 96명 이중눈가림 위약대조시험 — [PMID 39870499](https://pubmed.ncbi.nlm.nih.gov/39870499/) | 8주 증상 반응률의 군 간 차이가 뚜렷하지 않았음 |
@@ -231,13 +230,7 @@ Ogawa-Ochiai 등의 **2025년 JAMA Network Open** 연구는 히로시마대·가
 
 ### 반하사심탕 — 기능성소화불량 {#_6}
 
-- **연구 대상:** 식후 더부룩함·조기포만·상복부 불편 등 기능성소화불량 환자
-- **근거 축:** 57개 RCT, 5,525명을 종합한 메타분석
-- **평가 결과:** 약물 대조에서는 전체 임상반응률이 높았고, 위약 대조에서는 소화불편 VAS의 유의한 차이가 없었음
-- **임상 연결:** 비위불화·한열착잡·심하비 등 처방 구조와 실제 연구 대상의 증상을 구분해 연결
-- **출처:** [PMID 37274096](https://pubmed.ncbi.nlm.nih.gov/37274096/)
-
-→ [기능성소화불량](../../conditions/functional-dyspepsia.md)
+두 기관의 100명 위약대조시험에서 6주 후 전체 소화기 증상과 삶의 질은 군 간 유의한 차이가 없었습니다. [처방 문서의 위약대조시험](../../formulas/banxia-xiexin-tang.md#banha-dyspepsia-park-trial)
 
 ### 육군자탕 — 상부위장관 기능과 식욕 {#_7}
 

@@ -43,7 +43,7 @@ last_reviewed: '2026-08-23'
 
 | 처방/영역 | 대표 근거 | 규모 | PMID |
 |---|---|---:|---|
-| 반하사심탕 · 기능성소화불량 | Systematic review/meta-analysis | 57 RCT·5,525명 | `37274096` |
+| 반하사심탕 · 기능성소화불량 | 두 기관 위약대조 무작위시험 | 100명, 6주. 전체 증상·삶의 질 군 간 유의차 없음 | [PMID 23861702](https://pubmed.ncbi.nlm.nih.gov/23861702/) |
 | 육군자탕 · 기능성소화불량 | Systematic review/meta-analysis | 52 RCT·5,475명 | `32767596` |
 | 통사요방 · IBS-D | Meta-analysis | 11 RCT·985명 | `36091782` |
 | 기능성 변비 한약 전체 | Meta-analysis | 97개 연구·8,693명 | `35801027` |
