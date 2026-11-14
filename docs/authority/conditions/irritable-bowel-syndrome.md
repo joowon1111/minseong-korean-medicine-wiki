@@ -57,6 +57,8 @@ Yang 등의 2025년 **ACTION 다기관 무작위시험**은 중국 6개 병원�
 
 ## 한약치료 근거
 
+통사요방 과립은 한 위약대조시험에서 4주 증상 완화율에 차이가 있었고, 다른 시험에서는 8주 주평가지표의 차이가 유의하지 않았습니다. [두 시험의 수치와 평가 기준](../formulas/tongxie-yaofang.md#tongxie-trial-results)
+
 설사형 IBS의 여러 한약을 비교한 2023년 network meta-analysis도 위약대조 이중맹검 시험들을 종합했습니다.
 
 - PMID: [37328079](https://pubmed.ncbi.nlm.nih.gov/37328079/)

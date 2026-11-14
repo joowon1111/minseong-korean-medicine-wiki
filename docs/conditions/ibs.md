@@ -136,6 +136,7 @@ last_reviewed: 2026-09-06
 - **변비형의 기체·장조:** 변의 수분·복부팽만·기력에 따른 이기·윤장 방향
 
 - [IBS 한약 처방 현대근거 지도](../authority/formulas/ibs-herbal-formula-map.md)
+- [통사요방 과립의 4주·8주 위약대조 결과](../authority/formulas/tongxie-yaofang.md#tongxie-trial-results)
 
 ### 설사형이라는 이름만으로 같은 처방을 쓰지 않습니다 {#formula-selection}
 
