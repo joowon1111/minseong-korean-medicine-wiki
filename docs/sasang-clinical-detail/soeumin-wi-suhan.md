@@ -63,7 +63,7 @@ tags: [사상의학, 소음인, 위수한리한병]
 
 심한 물설사가 중심인 분기입니다. 횟수와 양, 마신 양, 소변량을 기록합니다. 물설사 뒤 변과 가스가 끊기고 복통·팽만·구토가 심해지면 급성 복증을 우선 평가합니다.
 
-**지침의 처방과 문헌 기록** · [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md), 파두 관련 문헌 기록, 변폐 분기의 [강출관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gangchulgwanjung)
+**지침의 처방과 문헌 기록** · [관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md), [파두 관련 문헌 기록](../sasang-formula-library/classical-formula-index.md#soeum-dysentery-records), 변폐 분기의 [강출관중탕](../sasang-formula-library/soeumin-extended-formulas.md#soeum-gangchulgwanjung)
 
 ### 장궐증 {#soeum-janggweol}
 
