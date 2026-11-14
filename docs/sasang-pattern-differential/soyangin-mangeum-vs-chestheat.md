@@ -65,7 +65,7 @@ description: 소양인 망음병의 신열두통·신한복통과 흉격열병�
 
 상소증과 흉격열병우증은 갈증과 두면부 열감이 겹칠 수 있습니다. **상소증**은 비교적 완만하게 진행하면서 소변을 자주 보되 한 번 양이 적고, 혀·입술이 붉거나 혀가 갈라지는 양상을 살핍니다. **흉격열병우증**은 짙고 적은 소변과 배변 정체에 심한 번조가 겹치며, 두면·인후·피부의 붉음·부기·열감·통증이 빠르게 진행하는지를 확인합니다. 지침은 두면부·피부 열증이 심할 때 양독백호탕을 함께 고려하도록 제시합니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=82)
 
-| 1첩 약재량 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | 양독백호탕 |
+| 1첩 약재량 | [양격산화탕](../sasang-formula-cards/yanggyeoksanhwa-tang.md) | [지황백호탕](../sasang-formula-library/soyangin-extended-formulas.md#soyang-jihwangbaekho) | [양독백호탕](../sasang-formula-library/classical-formula-index.md#yangdok-baekho-tang) |
 |---|---:|---:|---:|
 | 병증 | 상소증 | 흉격열병우증 | 흉격열병우증에서 두면·피부 열증이 심한 경우 |
 | 생지황 | 8 g | 16 g | 16 g |
