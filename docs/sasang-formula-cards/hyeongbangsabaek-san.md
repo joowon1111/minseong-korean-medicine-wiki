@@ -31,6 +31,16 @@ last_reviewed: 2026-09-21
 
 사상의학의 표한병은 평소의 냉감, 신체통, 무른 변 등 소증과 발병 후 경과를 함께 보고 판단합니다. 표음이 원활히 내려가지 않는다는 병리 설명 안에서도 신열·두통·번조가 나타날 수 있습니다. 신축본 비수한표한병론 9-22는 **신열·두통·설사**에 형방사백산과 저령차전자탕을 함께 제시합니다. 한의표준임상진료지침은 설사가 주된 **신열두통망음증에 저령차전자탕**, 신열·두통과 번조가 지속되고 소량의 무른 변 뒤 변이 막히는 **신열두통망음우증에 형방사백산**을 제시합니다. 소양상풍병 우증에서도 형방사백산을 비교 후보에 둡니다. [망음병 학회 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062) · [소양상풍병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061)
 
+### 형방사백산이 나오는 지침의 세 병증 {#sabaek-guideline-patterns}
+
+| 지침의 병증 | 먼저 확인할 변화 |
+|---|---|
+| [소양상풍병우증](../sasang-clinical-detail/soyangin-bi-suhan.md#soyang-sangpung-progressed) | 입이 쓰고 목이 마르며 가슴 옆이 그득한지, 한열왕래·구역이 있었는지 묻습니다. 지침은 이 단계의 후보 중 평소 리열 소증이 있는 경우에 형방사백산을 따로 언급합니다. |
+| [신열두통망음우증](../sasang-clinical-detail/soyangin-bi-suhan.md#mangeum-heat-progressed) | 발열·두통과 소량씩 반복되는 무른 변 또는 배변 정체가 어떤 순서로 나타났는지 살핍니다. 열과 두통에 설사가 이어지는 [신열두통망음증](../sasang-clinical-detail/soyangin-bi-suhan.md#mangeum-heat)도 함께 비교합니다. |
+| [흉격열병초증](../sasang-clinical-detail/soyangin-wi-suyeol.md#chestheat-early) | 소변이 줄고 짙어지면서 짧은 기간의 변비와 가벼운 오한이 동반되는지를 확인합니다. 설사가 앞섰는지도 물어 망음의 경과와 대조합니다. |
+
+지침의 세 항목에는 같은 9미 배합이 실려 있습니다. 진료 기록에는 처방명과 함께 병증 이름과 배변·배뇨 변화의 순서를 남기면 어느 문맥에서 고려했는지 확인할 수 있습니다. [핵심 요약집 81–82쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=81)
+
 ### 석고·지모가 있어도 백호탕과 다른 구조 {#exterior-yin-versus-baihu}
 
 석고·지모는 번열과 갈증을 살피는 전통 배합입니다. 형방사백산에서는 **생지황·복령·택사가 28 g**, 강활·독활·형개·방풍이 16 g을 차지합니다. 백호탕의 감초·갱미 배합과 달리 소양인 표병의 신체통과 배설 변화를 함께 다루는 구성이며, 같은 석고·지모를 쓰는 양격산화탕은 인동등·연교·산치자·박하를 결합합니다.

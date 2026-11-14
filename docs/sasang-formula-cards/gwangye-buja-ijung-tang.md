@@ -37,6 +37,17 @@ last_reviewed: 2026-10-02
 
 같은 수족냉·쇠약을 호소해도 발열과 자한이 앞선 경우에는 망양의 경과를, 복통·설사와 식사량 저하가 앞선 경우에는 깊은 리한의 경과를 확인합니다. [망양과 리한의 핵심 처방 비교](../sasang-pattern-differential/soeumin-severity-map.md#soeumin-core-formulas)
 
+### 관계부자이중탕이 나오는 소음병 네 단계 {#gwangye-guideline-patterns}
+
+| 지침의 병증 | 먼저 확인할 변화 |
+|---|---|
+| [자리증](../sasang-clinical-detail/soeumin-wi-suhan.md#soeum-jari) | 복통·설사에 입마름, 입안과 가슴의 불편, 전신통·관절통이 새로 겹치는지 확인합니다. |
+| [하리청수증](../sasang-clinical-detail/soeumin-wi-suhan.md#soeum-haricheongsu) | 심한 물설사의 횟수와 양, 물을 마실 수 있는지, 소변이 줄었는지를 확인합니다. 변이 갑자기 막히고 통증·구토가 심해지면 급성 복증을 평가합니다. |
+| [장궐증](../sasang-clinical-detail/soeumin-wi-suhan.md#soeum-janggweol) | 안절부절못하는 상태가 지속되면서 사지궐냉이 겹치는 경과를 봅니다. |
+| [음성격양증](../sasang-clinical-detail/soeumin-wi-suhan.md#soeum-eumseong-gyeogyang) | 장궐과 비슷한 경과에서 물을 마시기 어려울 정도로 악화되면 신속히 의식·순환·탈수 상태를 평가합니다. |
+
+지침은 네 단계에 관계부자이중탕의 같은 기본 배합을 제시하고, 장궐증과 음성격양증에는 [오수유부자이중탕](../sasang-formula-library/osuyubujairijung-tang.md)도 함께 제시합니다. [핵심 요약집 80–81쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=80)
+
 ## 부자 안전성
 
 부자는 적절한 포제와 전탕이 전제되는 전문 약재입니다. 자가 조제·임의 증량을 피하며, 두근거림·흉부 불편·입술이나 사지의 심한 저림·구역·어지럼 등 이상반응이 생기면 복용을 중단하고 의료진의 평가를 받습니다. 심혈관질환, 임신·수유, 고령, 간·신장질환, 다른 약물 복용은 처방 전 반드시 확인합니다.

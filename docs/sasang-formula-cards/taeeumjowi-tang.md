@@ -41,7 +41,14 @@ last_reviewed: 2026-10-02
 
 ## 가까운 처방과 감별
 
-지침은 식후 명치가 그득하고 무른 변·설사에 소변 감소나 부종이 겹치는 위완한폐조병의 **조한병증**에 태음조위탕을 연결합니다. 위완한증이 현재 나타나고 평소 표병 역증의 소증이 있던 경우에도 비교할 수 있습니다. [사상체질병증 한의표준임상진료지침](https://nikom.or.kr/engnckm/module/practiceGuide/download.do?file_type=pdf&guide_idx=235)
+### 태음조위탕이 나오는 지침의 두 상황 {#taeeumjowi-guideline-patterns}
+
+| 지침의 문맥 | 확인할 내용 |
+|---|---|
+| 위완한폐조병의 [조한병증](../sasang-clinical-detail/taeeumin-wiwan-suhan.md#johan) | 현재 식후 명치의 그득함과 무른 변·설사가 반복되고, 소변량 감소와 부종이 겹치는지 봅니다. |
+| [위완한병](../sasang-clinical-detail/taeeumin-wiwan-suhan.md#wiwan-han) 항목의 추가 고려 | 평소 표병역증 소증이 있었는지와 이번 위완한증의 시작을 따로 확인합니다. 지침이 두 조건을 함께 제시한 대목입니다. |
+
+두 상황에 적힌 배합은 모두 위의 8미 기본형입니다. 식후 불편과 설사에 두근거림·불면·불안이 더해지면 [조한병우증](../sasang-clinical-detail/taeeumin-wiwan-suhan.md#johan-progressed)의 단서를 확인합니다. [핵심 요약집 83쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=83)
 
 - [조위승청탕](jowiseungcheong-tang.md): 조한병의 식후비만·설사·부종에 정충(두근거림), 수면장애와 불안이 더해지는 조한병우증을 살핍니다. 지침의 8미 기본형과 비교하면 나복자는 8 g에서 6 g으로 줄고 천문동·원지·산조인·용안육이 들어갑니다. [두 처방의 지침형·후대 수록형 비교](../sasang-formula-dose-fingerprint/dose-pair-comparisons.md#jowi-seungcheong-comparison)
 - [행인승청탕](../sasang-formula-library/haenginseungcheong-tang.md): 호흡·담과 폐원 기능의 비중을 비교합니다.
