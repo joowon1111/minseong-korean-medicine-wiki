@@ -33,7 +33,7 @@ description: 장중경 의학·동의보감의 원문과 병증을 기존 본초
 
 | 원전에서 읽는 질문 | 현재 임상·처방 자료 | 확인한 현대 연구 | 적용 범위를 판단할 항목 |
 |---|---|---|---|
-| 반하사심탕의 심하비에 구토·장명이 어떻게 동반되는가 | [기능성소화불량](../conditions/functional-dyspepsia.md) → [반하사심탕 근거 카드](../authority/formulas/banxia-xiexin-tang.md) | [2023 SR·메타분석, 57 RCT·5,525명](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1130257/full) | 기능성소화불량 진단, 가감방, 단독·병용, 증상척도와 임상반응의 정의 |
+| 반하사심탕의 심하비에 구토·장명이 어떻게 동반되는가 | [기능성소화불량](../conditions/functional-dyspepsia.md) → [반하사심탕 근거 카드](../authority/formulas/banxia-xiexin-tang.md) | [국내 두 기관 위약대조시험](../formulas/banxia-xiexin-tang.md#banha-dyspepsia-park-trial) | 전체 증상과 삶의 질의 군 간 차이는 유의하지 않았으며 조기포만은 개별 결과 |
 | [6.17 허로허번불면](../classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017)에서 산조인탕을 어떻게 읽는가 | [불면](../conditions/insomnia.md) → [산조인탕 근거 카드](../authority/formulas/suanzaoren-tang.md) | [2022 SR·메타분석, 12 RCT·1,311명](https://pubmed.ncbi.nlm.nih.gov/36459033/) | 만성불면 대상, 원방·가감방, PSQI, 비교치료, 추적기간 |
 | [10.14 대건중탕](../classics/jinkui-yaolue/chapters/abdominal-cold-food.md#clause-10-014)의 냉통·구토·음식불능을 어떻게 읽는가 | [대건중탕의 현대 제제·연구](../formulas/dajianzhong-tang.md) → [수술 후 회복](../conditions/postoperative-recovery.md) | [2025 수술 후 장기능 관련 메타분석](https://pubmed.ncbi.nlm.nih.gov/40820043/) | 수술 종류, 사용 제제, 장기능 결과지표; 전체 수술 회복 효과와 구분 |
 
