@@ -31,6 +31,8 @@ last_reviewed: 2026-10-02
 
 ## 소양인 {#_2}
 
+[비수한표한병 해설](soyangin-bi-suhan.md) · [위수열리열병 해설](soyangin-wi-suyeol.md)
+
 **원전 대분류:** 《東醫壽世保元·辛丑本》 「少陽人 脾受寒表寒病論」 / 「少陽人 胃受熱裏熱病論」  
 **현대 분류 기준:** [소양인 진단 및 알고리즘 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917060)
 
@@ -50,6 +52,8 @@ last_reviewed: 2026-10-02
 **감별에 적용:** [망음과 흉격열 비교](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md)에서는 열감만으로 표리·순역을 정하지 않고 배설·소모와 평소 소증을 함께 봅니다. 표의 ‘장관 열’은 후대 처방을 탐색하는 연결축이며 망음과 같은 층위의 CPG 대병증명이 아닙니다.
 
 ## 태음인 {#_3}
+
+[위완수한표한병 해설](taeeumin-wiwan-suhan.md) · [간수열리열병 해설](taeeumin-gan-suyeol.md)
 
 **원전 대분류:** 《東醫壽世保元·辛丑本》 「太陰人 胃脘受寒表寒病論」 / 「太陰人 肝受熱裏熱病論」  
 **현대 분류 기준:** [태음인·태양인 진단 및 알고리즘 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978955)
@@ -71,6 +75,8 @@ last_reviewed: 2026-10-02
 
 ## 소음인 {#_4}
 
+[신수열표열병 해설](soeumin-sin-suyeol.md) · [위수한리한병 해설](soeumin-wi-suhan.md)
+
 **원전 대분류:** 《東醫壽世保元·辛丑本》 「少陰人 腎受熱表熱病論」 / 「少陰人 胃受寒裏寒病論」  
 **현대 분류 기준:** [소음인 진단 및 알고리즘 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001865418)
 
@@ -90,6 +96,8 @@ last_reviewed: 2026-10-02
 **처방 출전에 적용:** [망양·승양 카드](soeumin.md#12-3)의 지침 단계와 [승양팔물탕의 판본·후대 주치](../sasang-formula-cards/seungyangpalmul-tang.md#source-layers)를 구별합니다. ‘승양’이라는 이름만으로 동일한 병증 단계에 배치하지 않습니다. [태음병과 소음병 감별](../sasang-pattern-differential/soeumin-taeeum-vs-soeum.md)은 리병의 소증·현증과 기능저하를 비교하는 다음 문서입니다.
 
 ## 태양인 {#_5}
+
+[외감요척병 해설](taeyangin-oegam-yocheok.md) · [내촉소장병 해설](taeyangin-naechok-sojang.md)
 
 **원전 대분류:** 《東醫壽世保元·辛丑本》 「太陽人 外感腰脊病論」 / 「太陽人 內觸小腸病論」  
 **현대 분류 기준:** [태양인 CPG](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978960)

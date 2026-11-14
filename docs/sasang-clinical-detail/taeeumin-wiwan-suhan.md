@@ -1,0 +1,72 @@
+---
+title: 태음인 위완수한표한병
+description: 태음인 위완수한표한병(胃脘受寒表寒病)의 뜻과 위완한병·위완한폐조병의 단계별 증후, 감별 단서, 원전과 처방을 살펴봅니다.
+tags: [사상의학, 태음인, 위완수한표한병]
+---
+# 태음인 위완수한표한병
+
+태음인의 표한병입니다. ‘위완’은 명치와 위 주변을 가리키는 전통 용어이며, 이 병론에서는 겉으로 열과 기액을 펴는 작용이 원활하지 않은 상태를 다룹니다. 오한·발한불리·몸살이 중심인 **위완한병**과, 식후 불편·설사에 부종·소변 감소·기력 저하가 겹치는 **위완한폐조병**을 구분합니다.
+
+[평소 땀](../sasang-original-symptoms/sweating.md) · [평소 소변](../sasang-original-symptoms/urination.md) · [다른 병증축: 간수열리열병](taeeumin-gan-suyeol.md)
+
+[신축본 발한과 반복되는 한궐을 기록한 원문](../classics/donguisusebowon/original.md#taeeum-long-cold) · [진료지침 병증·처방 색인으로 돌아가기](../sasang-formula-library/guideline-pattern-index.md#taeeumin-cpg)
+
+## 위완한병(胃脘寒病) {#wiwan-han}
+
+표한병의 순증입니다. 오한이 발열·무한과 함께 오는지, 열 없이 지속하는지, 숨참이나 쌕쌕거림이 두드러지는지에 따라 세부 분기를 살핍니다.
+
+### 배추표병초증 {#baechu-early}
+
+오한·발열·몸살에 땀이 나지 않고 숨이 차는지 확인합니다. ‘배추’는 등과 척추를 뜻하므로 목덜미에서 등까지의 뻣뻣함·통증과 그 시작 시점을 함께 묻습니다.
+
+**지침의 관련 처방** · [마황발표탕](../sasang-formula-library/taeeumin-extended-formulas.md#mahwangbalpyo-cpg-dose)
+
+### 효천병증 {#hyocheon}
+
+배추표병의 표한 양상에서 쌕쌕거림과 숨참이 두드러지는 분기입니다. 이전 천식이나 흡입제 사용, 야간 악화 여부를 묻고, 진행하는 호흡곤란은 우선 평가합니다.
+
+**지침의 관련 처방** · [마황정천탕](../sasang-formula-library/taeeumin-extended-formulas.md#mahwangjeongcheon-cpg-dose)
+
+### 한궐증 {#hangweol}
+
+오한만 있는 때와 발열·무한이 겹치는 때가 교대로 나타나는지 확인합니다. 여기서 한궐은 전신의 오한 경과를 표현하므로 손발의 온도와 따로 기록합니다.
+
+**지침의 처방과 문헌 기록** · [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#handayeolso-cpg-dose), 웅담산 관련 문헌 기록
+
+### 한궐증우증 {#hangweol-progressed}
+
+오한이 지속되는 동안 열이 없고 땀도 나지 않는 분기입니다. 한궐증에서 교대하던 발열이 사라졌는지, 식사·활동과 기력도 함께 떨어졌는지 확인합니다.
+
+**지침의 처방과 문헌 기록** · [한다열소탕](../sasang-formula-library/taeeumin-extended-formulas.md#handayeolso-cpg-dose), 웅담산 관련 문헌 기록
+
+[위완한병 학회 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957)
+
+## 위완한폐조병(胃脘寒肺燥病) {#wiwan-han-pyejo}
+
+표한병의 역증입니다. 폐조는 사상의학에서 기액을 퍼뜨리는 기능과 관련된 병리 개념입니다. 여기서는 식후 복부 증상, 소변·부종과 함께 수면이나 하지 기능이 어떻게 변하는지 확인합니다.
+
+### 조한병증 {#johan}
+
+무른 변이나 설사와 복만, 식후 명치 답답함에 소변 감소와 부종이 나타나는 분기입니다. 배변만 묻기보다 발병 전후 식사량·체중과 배뇨를 같이 봅니다.
+
+**지침의 관련 처방** · [태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md)
+
+### 조한병우증 {#johan-progressed}
+
+조한병의 식후 불편과 배설 변화에 두근거림·수면장애·불안이 더해집니다. 심계의 지속 시간과 맥박, 숨참·어지럼 동반 여부를 따로 기록합니다.
+
+**지침의 관련 처방** · [조위승청탕](../sasang-formula-cards/jowiseungcheong-tang.md)
+
+### 조한병심증(음혈모갈한다증) {#johan-deep}
+
+피부·모발 등의 건조와 함께 요통·하지무력, 시력·청력 변화가 심해지는 단계입니다. [조열병심증](taeeumin-gan-suyeol.md#joyeol-deep)에서도 비슷한 소모가 나타날 수 있어 앞선 오한·설사·부종 또는 열·다뇨·갈증의 경과를 대조합니다.
+
+**지침의 관련 처방** · [보폐원탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-bopyewon), [녹용대보탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-nokyongdaebo)
+
+[위완한폐조병 학회 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978957)
+
+## 원전·진료지침과 감별 자료
+
+- [한의표준임상진료지침 핵심 요약집 82쪽부터](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=82)에서 병증별 처방과 적용 조건을 확인합니다. 해당 한약치료 권고는 전문가 합의에 근거합니다.
+- [태음인 표한과 리열 감별](../sasang-pattern-differential/taeeumin-exterior-vs-interior.md)에서 증상이 겹치는 병증의 감별과 경과관찰을 확인합니다.
+- [태음인 병증과 치료 상세](taeeumin.md) · [태음인 원전·진료지침 출전](pattern-source-map.md#_3)

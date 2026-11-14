@@ -28,10 +28,10 @@ last_reviewed: 2026-10-02
 
 ## 체질별 바로가기 {#_3}
 
-- [소음인: 소화·한랭·설사·기력저하가 악화될 때](soeumin.md)
-- [소양인: 열·구갈·대변·음허·망음 양상이 악화될 때](soyangin.md)
-- [태음인: 한증·호흡·발한·대사·열·조증이 악화될 때](taeeumin.md)
-- [태양인: 해역·열격 등 드문 체질병증의 변화](taeyangin.md)
+- [소음인 증상과 치료 상세](soeumin.md) · [신수열표열병](soeumin-sin-suyeol.md) · [위수한리한병](soeumin-wi-suhan.md)
+- [소양인 증상과 치료 상세](soyangin.md) · [비수한표한병](soyangin-bi-suhan.md) · [위수열리열병](soyangin-wi-suyeol.md)
+- [태음인 증상과 치료 상세](taeeumin.md) · [위완수한표한병](taeeumin-wiwan-suhan.md) · [간수열리열병](taeeumin-gan-suyeol.md)
+- [태양인 증상과 치료 상세](taeyangin.md) · [외감요척병](taeyangin-oegam-yocheok.md) · [내촉소장병](taeyangin-naechok-sojang.md)
 
 → [네 체질 비교표](four-constitution-comparison.md)  
 → [소증→현재병증→처방 알고리즘](clinical-algorithm.md)

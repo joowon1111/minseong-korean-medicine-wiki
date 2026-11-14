@@ -7,6 +7,8 @@ last_reviewed: 2026-10-02
 ---
 # 소양인: 몸이 나빠질 때 어떻게 변하나?
 
+[비수한표한병](soyangin-bi-suhan.md) · [위수열리열병](soyangin-wi-suyeol.md) · [진료지침 세부 병증과 처방](../sasang-formula-library/guideline-pattern-index.md#soyangin-cpg)
+
 
 !!! note "읽는 방법"
     아래 내용은 **체질명만으로 처방을 정하는 표가 아니라**, 사상체질 → 평소 소증(素證) → 현재 체질병증 → 중증도 → 치법·처방의 흐름을 이해하기 위한 임상 지식망입니다. 실제 진료에서는 체질 진단과 병증 진단을 함께 해야 합니다.
