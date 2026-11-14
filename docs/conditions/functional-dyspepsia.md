@@ -207,7 +207,6 @@ Aragunde Marcos 등의 2026년 체계적 문헌고찰은 **Rome III/IV 기준의
 
 - **The Efficacy of the Herbal Formula of Bunium persicum and Coriandrum sativum on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Controlled Trial.** — Bunium persicum·Coriandrum sativum 복합 식물성 제제를 평가한 시험입니다. 육군자탕·향사육군자탕 등 동아시아 처방과 구성이 다른 제제로 구분합니다. PMID `38981452` · DOI `10.1159/000539472`
 
-- **Efficacy and safety of Xiangsha liujunzi decoction for functional dyspepsia: a systematic review and meta-analysis.** — 기능성소화불량에서 향사육군자탕의 유효성과 안전성을 종합한 체계적 문헌고찰·메타분석입니다. PMID `38933675` · DOI `10.3389/fphar.2024.1356899`
 
 - **Efficacy and safety of Zhishixiaopi decoction in functional dyspepsia: A meta-analysis of randomized controlled trials.** — 기능성소화불량에서 지실소비 계열 탕제를 평가한 무작위시험 메타분석입니다. PMID `38809916` · DOI `10.1371/journal.pone.0301686`
 

@@ -115,7 +115,7 @@ last_reviewed: 2026-08-22
 
 Yang 등은 식후불편증후군 환자 278명을 대상으로 4주간 12회의 침 또는 가짜침을 비교했습니다. 시험 등록자료의 기본 배혈은 족삼리·[중완 CV12](cv12-zhongwan.md)·[내관 PC6](pc6-neiguan.md)·[공손 SP4](sp4-gongsun.md)와 백회·천추·기해·전중입니다. 환자의 변증에 따라 추가 혈을 사용했습니다. [시험 등록 ISRCTN12511434](https://www.isrctn.com/ISRCTN12511434)
 
-4주 전체 반응률 추정치는 침군 83.0%, 가짜침군 51.6%였습니다. 이는 족삼리를 포함한 치료군 전체의 반응률입니다. [기능성소화불량의 해당 시험](../../conditions/functional-dyspepsia.md#pds-acupuncture-results)에서 전체 반응과 핵심 증상 세 가지가 모두 소실된 비율을 비교할 수 있습니다. [Yang 등, 2020](https://pubmed.ncbi.nlm.nih.gov/32422066/)
+4주 전체 반응률 추정치는 침군 83.0%, 가짜침군 51.6%였습니다(차이 31.4%p, 95% 신뢰구간 20.3–42.5). 식후포만·상복부팽만·조기포만이 모두 소실된 비율은 각각 27.8%, 17.3%였습니다. 두 결과 모두 족삼리를 포함한 배혈 전체의 성과입니다. [기능성소화불량 문서의 결과와 한계](../../conditions/functional-dyspepsia.md#pds-acupuncture-results) · [Yang 등, 2020, Annals of Internal Medicine](https://doi.org/10.7326/M19-2880)
 
 ### 자침 깊이와 감각: 초음파 관찰 연구
 
