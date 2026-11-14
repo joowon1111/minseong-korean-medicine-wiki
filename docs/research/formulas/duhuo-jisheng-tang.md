@@ -13,7 +13,7 @@ last_reviewed: 2026-08-19
 독활기생탕의 무릎 골관절염 randomized clinical trials를 분석한 systematic review/meta-analysis에서는 통증과 기능 관련 지표의 개선이 보고됐다.
 
 ## 요추 추간판질환
-2020년 systematic review/meta-analysis는 lumbar disc herniation에서 독활기생탕 관련 randomized trials를 평가했다. 독활기생탕 단독 또는 병용 치료의 통증·기능 효과가 연구됐다.
+2020년 Sun 등의 논문은 문헌 검색과 분석 방법을 제안한 연구계획서입니다. 요추 추간판질환에서 독활기생탕의 임상 결과는 해당 논문으로 확인할 수 없습니다. [연구계획서 PMID 32118755](https://pubmed.ncbi.nlm.nih.gov/32118755/)
 
 ## 류마티스관절염
 2023년 systematic review/meta-analysis는 **42개 randomized controlled trials**를 포함해 독활기생탕의 류마티스관절염 관련 효과와 안전성을 분석했다.
@@ -26,9 +26,8 @@ bisphosphonate 치료에 독활기생탕을 병용한 골다공증 연구와 강
 
 ## 주요 논문
 1. Zhang W, et al. Duhuo Jisheng Decoction for knee osteoarthritis. **PMID 26729379**.
-2. Sun K, et al. Duhuo Jisheng Decoction for lumbar disc herniation. **PMID 32118755**.
-3. Qu P, et al. *Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials.* **PMID 37933004**.
-4. Huang CY, et al. Duhuo Jisheng Decoction add-on bisphosphonate medications in osteoporosis. **PMID 34637967**.
+2. Qu P, et al. *Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials.* **PMID 37933004**.
+3. Huang CY, et al. Duhuo Jisheng Decoction add-on bisphosphonate medications in osteoporosis. **PMID 34637967**.
 
 → [요통 임상 지식망](../../conditions/low-back-pain.md)
 
