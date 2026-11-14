@@ -18,7 +18,7 @@ last_reviewed: 2026-10-02
 
 ## 1. 큰 병증 구조
 
-태양인 병증은 임상진료지침에서 표리병과 순역·중증도 구조로 분류합니다. 대표적으로 **해역증**과 **열격증**이 핵심 병증으로 알려져 있습니다.
+태양인 병증은 임상진료지침에서 표리병과 순역·중증도 구조로 분류합니다. 외감요척병은 **요척병순증과 요척병역증(해역병)**으로, 내촉소장병은 **소장병순증과 소장병역증(열격병)**으로 나눕니다. [태양인 학회 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978960) · [태양인 순역과 처방 연결](../sasang-formula-library/guideline-pattern-index.md#taeyangin-cpg)
 
 ## 2. 해역증
 

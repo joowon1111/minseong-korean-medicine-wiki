@@ -53,6 +53,7 @@ description: 태음인 표한병 vs 리열병 — 민성 한의학 아카이브�
 |---|---|---|
 | 간열병초증 | [갈근해기탕](../sasang-formula-library/galgeunhaegi-tang.md)은 지침의 6미형과 인후통·양독 문맥의 후대 8미형을 나누어 봅니다. | 신열·발한과 얼굴·손발 홍조, 눈 통증과 코 안 건조가 함께 시작했는지 확인합니다. |
 | 간열병우증 | [갈근승기탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-galgeunseunggi)은 갈근·황금에 대황을 배합합니다. | 갈증·다한과 복만·변폐 등 배변 변화가 함께 진행했는지 묻습니다. 청폐사간탕과는 건조의 지속 및 배합의 차이를 대조합니다. |
+| 간열병심증 | [조각대황탕](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-jogakdaehwang)은 갈근·승마에 대황·조각을 배합합니다. | 두면·경항의 붓기와 통증이 빠르게 심해지거나 인후 증상이 겹치는지 봅니다. 호흡·삼킴 장애는 신속히 평가합니다. |
 | 조열병증 | [열다한소탕](../sasang-formula-cards/yeoldahanso-tang.md)은 갈근·황금·고본과 길경·나복자 등을 배합하며, [청폐사간탕](../sasang-formula-cards/cheongpyesagan-tang.md)의 지침형은 이 구성에 대황을 더합니다. | 지속 갈증·다뇨·피부와 대변의 건조를 확인하고, 굳은 변과 배변 곤란·복만이 얼마나 두드러지는지 비교합니다. |
 | 조열병우증 | [청심연자탕](../sasang-formula-cards/cheongsimyeonja-tang.md)은 연자육·산약과 천문동·맥문동, 원지·산조인 등을 함께 씁니다. | 두근거림·불면·불안이 지속 갈증·다뇨·건조와 함께 나타났는지 묻습니다. 식후 복만·설사·부종이 함께 시작했다면 표한 쪽 조위승청탕과 대조합니다. [두근거림·불면이 겹치는 세 처방 비교](../sasang-formula-cards/cheongsimyeonja-tang.md#taeeumin-palpitations-sleep-comparison) |
 | 조열병심증 | 지침에는 녹용·산약·천문동 등을 배합한 환제인 [공진흑원단](../sasang-formula-library/taeeumin-extended-formulas.md#taeeum-gongjinheugwon)이 실립니다. | 심해진 피부·모발·손발톱 건조와 근육 소모, 하지무력·요통의 경과를 확인합니다. |
