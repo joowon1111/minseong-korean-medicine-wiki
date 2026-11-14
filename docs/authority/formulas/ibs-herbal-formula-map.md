@@ -3,13 +3,13 @@ description: "과민성장증후군 한약 연구를 통사요방·사신환·�
 ---
 # 과민성장증후군 — 한약 처방 현대근거 지도
 
-## 한약 전체
-- 10개 시험을 검토한 2021년 메타분석에서 위약 대비 전체 증상 완화는 **1,716명**에 근거했습니다. 제제별 결과 차이가 컸고(I²=81.1%) 이상반응 보고는 위약보다 많았습니다. [증상·이상반응의 효과 크기](../conditions/irritable-bowel-syndrome.md) · [PMID 34385918](https://pubmed.ncbi.nlm.nih.gov/34385918/)
-- IBS 한약 network meta-analysis는 여러 한약처방과 일반 약물·placebo의 상대효과를 비교했습니다. PMID `34358263`.
+## 직접 비교한 임상연구
+
+[설사형 IBS의 침·가짜침 ACTION 시험](../conditions/irritable-bowel-syndrome.md#action-ibs-trial)에서 복통·설사 복합 반응의 6주 결과와 추적 경과를 확인합니다.
 
 ## 설사형 IBS-D 대표 처방
 ### 통사요방
-- 2025년 이중눈가림 위약대조 2상시험(96명)에서는 8주 증상 반응률의 군 간 차이가 뚜렷하지 않았습니다. [위약대조시험과 이전 종합 근거](tongxie-yaofang.md#ibs-d-placebo-trial)
+- 긴장에 따른 복통과 급박변을 살핍니다. [통사요방의 임상 평가](tongxie-yaofang.md#ibs-d-placebo-trial)
 
 ### 사신환
 - 기존 약물치료와 비교한 소규모 시험을 종합했습니다. 위약과의 비교 및 장기 추적 자료가 부족합니다. [사신환 연구의 비교군과 한계](sishen-wan.md#sishen-wan-ibs-evidence)

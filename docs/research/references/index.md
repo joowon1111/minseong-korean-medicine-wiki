@@ -45,7 +45,6 @@ last_reviewed: '2026-08-23'
 |---|---|---:|---|
 | 반하사심탕 · 기능성소화불량 | Systematic review/meta-analysis | 57 RCT·5,525명 | `37274096` |
 | 육군자탕 · 기능성소화불량 | Systematic review/meta-analysis | 52 RCT·5,475명 | `32767596` |
-| 통사요방 · IBS-D | Meta-analysis | 11 RCT·985명 | `36091782` |
 | 기능성 변비 한약 전체 | Meta-analysis | 97개 연구·8,693명 | `35801027` |
 | 보중익기탕 · 기능성 변비 | Meta-analysis | 25 RCT·2,089명 | `29552087` |
 
