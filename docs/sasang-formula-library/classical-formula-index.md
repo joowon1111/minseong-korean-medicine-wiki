@@ -206,6 +206,17 @@ PDF 171쪽의 태음인 신정방에는 산약·포황·우황·영양각 등 �
 
 같은 면에서 오가피장척탕 뒤에는 표증, 미후등식장탕 뒤에는 리증이라고 적혀 있습니다. 미후등식장탕은 표제에 미후등(獼猴藤), 약미 첫머리에 미후도(獼猴桃)가 적혀 있어 **처방 이름과 약미 표기**를 나누어 읽는 사례입니다. [태양인 두 병론과 병험의 범위](../classics/donguisusebowon/original.md#taeyang-evidence-limits) · [태양인 진료지침 순증 항목](guideline-pattern-index.md#taeyangin-cpg)
 
+## 원전과 진료지침의 배합을 대조하는 예 {#original-cpg-formulations}
+
+먼저 약재 이름과 원자료의 분량을 비교한 뒤 g 환산을 확인합니다. 두 출전에서 약미와 비율이 같아도 환산 기준에 따라 g 합계가 달라질 수 있습니다. 약미가 바뀌거나 분량 비율이 달라지면 별도 배합으로 확인합니다.
+
+| 체질·처방 | 대조할 지점 |
+|---|---|
+| 소음인 [천궁계지탕](soeumin-extended-formulas.md#cheongung-gyeji-sources) | 석판본과 지침의 약미와 배열이 같습니다. 후대 동명방 B는 창출·생강·대추 유무와 계지·백작약 비율이 다릅니다. |
+| 소양인 [형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md) | 석판본과 지침의 9미 비율은 같습니다. 13돈을 4 g 기준으로 환산하면 52 g, 3.75 g 기준이면 48.75 g입니다. 지침은 같은 배합을 소양상풍병우증·신열두통망음우증·흉격열병초증에서 제시합니다. [석판본 PDF 137–138쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=137) · [핵심 요약집 81–82쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=81) |
+| 태음인 [갈근해기탕](galgeunhaegi-tang.md#galgeunhaegi-original) | 원전과 지침은 고본을 포함하는 6미형입니다. 후대 8미형은 행인·대황·초산조인을 포함하고 승마 비중도 높습니다. |
+| 태양인 [오가피장척탕·미후등식장탕](#taeyang-original-context) | 원전과 지침은 청송절이 없을 때 송엽, 미후도가 없을 때 미후등을 쓰는 조건을 각각 적습니다. 원전의 교맥쌀·저두강은 반 숟갈로, 지침도 부피 단위를 보존합니다. [석판본 PDF 179쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=179) · [핵심 요약집 84쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=84) |
+
 ## 판본과 수록 범위 {#original-scope}
 
 - 대조 자료는 [1941년 석판본 공개 파일](https://commons.wikimedia.org/wiki/File:CNTS-00047980362_東醫壽世保元.pdf)입니다. [장서각의 1901년 초간본 해제](https://jsg.aks.ac.kr/dir/view?dataId=JSG_K3-328)와 [국립생물자원관의 책 구성 해제](https://www.nibr.go.kr/aiibook/catImage/95/Joseon%204.pdf#page=79)에서 서지와 권차를 확인할 수 있습니다. 한자 표기에는 검색을 위해 통용 자형을 일부 사용했습니다.

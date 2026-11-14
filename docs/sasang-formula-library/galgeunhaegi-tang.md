@@ -25,6 +25,10 @@ last_reviewed: 2026-09-21
 
 지침은 이 6미를 **간열병초증**에 연결합니다. 신열·발한과 안면·수족 홍조, 눈 통증·비강 건조가 한 시기에 나타나는지를 봅니다. 갈근·고본·백지·승마가 기육과 두면을 살피고 황금이 열, 길경이 폐기와 인후를 받치는 구조입니다.
 
+### 석판본 신정방과 진료지침 {#galgeunhaegi-original}
+
+석판본의 갈근해기탕은 갈근 3전, 황금·고본 각 1전 5분, 길경·승마·백지 각 1전입니다. 위 지침형의 약미와 분량 배열이 같습니다. 아래 후대형은 고본을 빼고 행인·대황·초산조인을 두며 승마의 비중도 높습니다. 같은 처방 이름으로 문헌이나 조제 기록을 찾을 때에는 **고본과 대황의 유무, 승마의 비중**을 확인하면 두 배합을 구분할 수 있습니다. [석판본 PDF 165쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=165) · [핵심 요약집 83쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=83) · [간열병초증 해설](../sasang-clinical-detail/taeeumin-gan-suyeol.md#ganyeol-early)
+
 ### 『동의사상신편』의 8미 갈근해기탕 {#later-edition}
 
 [『동의사상신편』 P0018561](https://koreantk.com/ktkp2014/prescription/prescription-view.view?preCd=P0018561&tempLang=ko)은 고본 없이 행인·대황·초산조인을 포함하는 별도 배합으로, 양독·인후통 등의 주치를 수록합니다.
