@@ -102,7 +102,7 @@ last_reviewed: 2026-09-06
 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md#source-dose-original) | 《시방가괄》의 8미형은 육군자탕에 목향·사인을 더해 행기·소창의 비중을 높임 | 허약과 함께 트림·팽만·답답함이 식사를 얼마나 방해하는가? |
 | [반하사심탕](../formulas/banxia-xiexin-tang.md#source-dose-original) | 《상한론》의 반하·건강, 황금·황련, 인삼·감초·대조를 함께 배치 | 명치 그득함에 오심·배에서 나는 소리·묽은 변이 어떤 조합으로 나타나는가? |
 
-위 내용은 전통적인 처방 구조의 비교입니다. 《시방가괄》은 사군자탕에 진피·반하, 다시 목향·사인을 더하는 순서를 기록합니다. 국내 《방약합편》 향사육군자탕에는 향부자·후박 등 다른 약재도 포함되므로 **8미형·국내 수록본·임상시험 제제를 같은 구성으로 취급하지 않습니다**. [대조한 《시방가괄》 원문](https://jicheng.tw/tcm/book/時方歌括/index.html)
+《시방가괄》은 사군자탕에 진피·반하, 다시 목향·사인을 더하는 순서를 기록합니다. 《방약합편》형에는 향부자·후박 등이 더 들어갑니다. 2017년 위약대조시험은 당삼·황기 등을 넣은 10미 과립제를 사용했습니다. [고전 처방과 시험 과립제의 조성 비교](../formulas/xiangsha-liujunzi-tang.md#trial-granules-composition) · [《시방가괄》 원문](https://jicheng.tw/tcm/book/時方歌括/index.html)
 
 반하사심탕의 따뜻한 약과 찬 약의 배합도 ‘속이 차고 뜨겁다’는 느낌만으로 고르는 기준은 아닙니다. [원문 속 명치 그득함과 한열 배합](../classical-stories/digestive-cold-warm-pairing.md)을 읽고, 실제 치료 결과는 아래의 임상연구와 구분해서 확인합니다.
 
@@ -142,7 +142,7 @@ last_reviewed: 2026-09-06
 
 ### 식후불편 환자를 대상으로 한 침 임상시험 {#pds-acupuncture-results}
 
-Yang 등의 2020년 *Annals of Internal Medicine* 연구는 중국 5개 병원에서 Rome IV PDS 환자 278명을 배정했습니다. 침 또는 가짜침을 **4주 12회** 시행하고 16주까지 추적했습니다.
+Yang 등의 2020년 *Annals of Internal Medicine* 연구는 중국 5개 병원에서 Rome IV PDS 환자 278명을 배정했습니다. 침 또는 가짜침을 **4주 12회** 시행하고 16주까지 추적했습니다. [족삼리에서 확인하는 시험의 기본 배혈](../acupuncture/points/st36-zusanli.md#pds-acupuncture)
 
 | 4주 주평가 | 침 | 가짜침 | 군 간 차이 |
 |---|---:|---:|---|
