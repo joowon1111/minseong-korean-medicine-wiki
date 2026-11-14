@@ -103,6 +103,16 @@ tags: [사상의학, 사상처방, 체질병증, 임상진료지침]
 
 [태양인 지침 84쪽](https://nikom.or.kr/board/boardFile/download/24/567415/36767.do#page=84) · [해역과 열격 감별](../sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md)
 
+## 한 처방이 여러 병증에 나올 때 {#formulas-across-patterns}
+
+| 처방 | 같은 처방이 나오는 문맥 |
+|---|---|
+| [소음인 관계부자이중탕](../sasang-formula-cards/gwangye-buja-ijung-tang.md#gwangye-guideline-patterns) | 소음병의 자리증·하리청수증·장궐증·음성격양증 |
+| [소양인 형방사백산](../sasang-formula-cards/hyeongbangsabaek-san.md#sabaek-guideline-patterns) | 소양상풍병우증·신열두통망음우증·흉격열병초증 |
+| [소양인 지황백호탕](soyangin-extended-formulas.md#jihwangbaekho-guideline-patterns) | 표병의 결흉우증과 리열병의 흉격열병우증 |
+| [태음인 태음조위탕](../sasang-formula-cards/taeeumjowi-tang.md#taeeumjowi-guideline-patterns) | 조한병증, 그리고 평소 표병역증 소증과 현재 위완한증이 겹치는 경우 |
+| 태양인 [오가피장척탕](../sasang-clinical-detail/taeyangin-oegam-yocheok.md#yocheok-mild)·[미후등식장탕](../sasang-clinical-detail/taeyangin-naechok-sojang.md#sojang-mild) | 핵심 요약집에서는 각각 해역병·열격병에 나옵니다. 2015년 학회 지침은 각각 요척병경증·소장병경증에서도 언급합니다. [태양인 학회 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001978960) |
+
 ## 자료의 범위 {#source-scope}
 
 - 이 색인의 전수 범위는 핵심 요약집 R3의 **병증별 한약치료 항목**입니다. 문장 안에 나오는 가감·병용 조건은 해당 지침에서 확인할 수 있습니다.
