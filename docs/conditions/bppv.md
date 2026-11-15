@@ -14,13 +14,15 @@ last_reviewed: 2026-09-06
 
 침대에서 돌아눕기, 눕거나 일어나기, 위를 보기와 연동되는 회전감이 단서입니다. 진료할 때는 **어느 동작에서 시작하는지, 회전감이 얼마나 지속되는지, 가만히 있어도 계속되는지**를 구분해 설명하면 도움이 됩니다.
 
+돌아눕는 순간 짧게 빙 돌고 가만히 있으면 가라앉는 양상이 전형적입니다. 가만히 있어도 새 어지럼이 계속되는데 고개를 돌릴 때 더 심하면 [지속성 어지럼의 원인](dizziness.md#dizziness-timing-triggers)을 평가합니다. 정복술을 반복하기 전에 처음 시작한 시각과 새로 생긴 보행·청력 변화를 확인합니다. [SAEM 급성 어지럼 지침 GRACE-3](https://www.saem.org/publications/grace/grace-3)
+
 | 함께 나타나는 양상 | 다음에 확인할 안내 |
 |---|---|
 | 귀먹먹함·이명·청력변화와 반복 발작 | [메니에르병](menieres-disease.md) |
 | 일어설 때 눈앞이 캄캄하고 앉으면 회복 | [기립성 어지럼](orthostatic-dizziness.md) |
 | 두통·빛 민감성이 동반되거나 복잡한 화면에서 악화 | [어지럼 종합 안내](dizziness.md) · [편두통](migraine.md) |
 
-**갑자기 걷기 어렵거나 말이 어눌하고 한쪽 팔다리 힘이 떨어지면 응급평가가 필요합니다.** 새로 생긴 청력저하도 이석증으로 넘기지 말고 [돌발성난청 안내](sudden-sensorineural-hearing-loss.md)를 확인합니다.
+**걷기 어려울 정도의 균형장애, 말 어눌함, 복시, 한쪽 팔다리 힘 빠짐 중 하나라도 갑자기 생기면 즉시 응급 평가가 필요합니다.** 갑자기 시작해 계속되는 어지럼과 새로운 한쪽 청력저하가 겹칠 때도 [응급 평가](../clinical-safety/headache-dizziness.md#acute-dizziness-triage)를 받습니다. 청력저하가 단독으로 나타난 경우에는 [돌발성난청 안내](sudden-sensorineural-hearing-loss.md)를 확인합니다.
 
 ## 검사와 이석정복술 {#assessment-repositioning}
 
