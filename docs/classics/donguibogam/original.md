@@ -440,9 +440,11 @@ description: 동의보감 다섯 편의 핵심 59대목을 원문·한국어 풀
 
 **이어 읽기:** [사물탕](../../formulas/siwu-tang.md) · [동의보감 외형편](../../donguibogam-network/index.md#oehyeong)
 
+세 대목은 외형편 영인본의 해당 쪽과 공개 전사를 대조했습니다. 영인본의 간행연도와 판종은 확인되지 않아 특정 초간본으로 단정하지 않습니다. 구두점은 읽기 위해 더했습니다.
+
 #### 비연: 탁한 콧물이 이어지는 양상 {#nasal-discharge-biyeon}
 
-**출전:** 외형편 권2 비·비연, 《내경》 인용 · [공개 전사](https://ko.wikisource.org/wiki/동의보감/외형편#鼻)
+**출전:** 외형편 권2 비·비연, 《내경》 인용 · [공개 전사](https://ko.wikisource.org/wiki/동의보감/외형편#鼻) · [외형편 영인본 PDF 27쪽](https://upload.wikimedia.org/wikipedia/commons/7/79/SSID-12986874_%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%91_%E5%8D%B78.pdf#page=27)
 
 > 鼻淵者，濁涕下不止也。
 
@@ -456,7 +458,7 @@ description: 동의보감 다섯 편의 핵심 59대목을 원문·한국어 풀
 
 #### 비구: 맑은 콧물을 살피다 {#nasal-discharge-bigu}
 
-**출전:** 외형편 권2 비·비구, 《입문》 인용 · [공개 전사](https://ko.wikisource.org/wiki/동의보감/외형편#鼻)
+**출전:** 외형편 권2 비·비구, 《입문》 인용 · [공개 전사](https://ko.wikisource.org/wiki/동의보감/외형편#鼻) · [외형편 영인본 PDF 28쪽](https://upload.wikimedia.org/wikipedia/commons/7/79/SSID-12986874_%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%91_%E5%8D%B78.pdf#page=28)
 
 > 鼽者，鼻流淸涕也。
 
@@ -468,7 +470,7 @@ description: 동의보감 다섯 편의 핵심 59대목을 원문·한국어 풀
 
 #### 비색: 코막힘과 냄새의 변화를 함께 살피다 {#nasal-obstruction-bisaek}
 
-**출전:** 외형편 권2 비·비색, 《입문》 인용 · [공개 전사](https://ko.wikisource.org/wiki/동의보감/외형편#鼻)
+**출전:** 외형편 권2 비·비색, 《입문》 인용 · [공개 전사](https://ko.wikisource.org/wiki/동의보감/외형편#鼻) · [외형편 영인본 PDF 29쪽](https://upload.wikimedia.org/wikipedia/commons/7/79/SSID-12986874_%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%91_%E5%8D%B78.pdf#page=29)
 
 > 寒傷皮毛，則鼻塞不利；火鬱淸道，則香臭不知。
 
