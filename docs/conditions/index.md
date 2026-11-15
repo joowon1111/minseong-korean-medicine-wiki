@@ -295,6 +295,7 @@ last_reviewed: 2026-09-21
 
 - [만성염증·염증수치·CRP·ESR 상승](inflammation-markers.md)
 - [혈압이 높아요·건강검진 고혈압](high-blood-pressure-checkup.md)
+- [간 건강·간 기능·한약과 침 임상연구](liver-health.md)
 - [지방간·건강검진 지방간](fatty-liver.md)
 - [만성콩팥병·만성신장병 — 크레아티닌·eGFR·단백뇨](chronic-kidney-disease.md)
 - [비만·체중관리](obesity.md) · [다이어트 한약 상담](weight-management-herbal.md)
