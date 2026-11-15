@@ -57,12 +57,12 @@ last_reviewed: 2026-08-19
 
 | 문목의 큰 축 | 살펴볼 질문 | 이어 읽을 자료 |
 |---|---|---|
-| 장부경락·병의 선후 | 병의 흐름과 치료 순서를 무엇으로 판단하는가 | [진단·변증](../diagnostics/index.md) |
-| 혈비·허로 | 오래된 쇠약과 혈·기능의 변화가 어떤 증후로 나타나는가 | [기혈진액변증](../diagnostics/qi-blood-fluid-patterns.md) |
-| 폐위·폐옹·해수·담음 | 기침과 호흡기 증상을 수음·허실 등과 어떻게 구별하는가 | [담음](../diagnostics/phlegm-fluid.md) |
-| 흉비·심통·복만 | 흉복부 불편의 성격과 한열·허실을 어떻게 기록하는가 | [금궤요략 상세 지식망](../jingui-network/index.md) |
-| 소갈·소변불리·수기·황달 | 갈증·배설·붓기 등 여러 단서를 어떤 조합으로 읽는가 | [기혈진액변증](../diagnostics/qi-blood-fluid-patterns.md) |
-| 부인 임신·산후·잡병 | 같은 복부 증상도 시기와 출혈·수분 상태에 따라 무엇이 달라지는가 | [어혈](../diagnostics/blood-stasis.md) |
+| 장부경락·병의 선후 | 병의 흐름과 치료 순서를 무엇으로 판단하는가 | [장부경락·선후병편 원문](jinkui-yaolue/chapters/organs-meridians.md) · [진단·변증](../diagnostics/index.md) |
+| 혈비·허로 | 오래된 쇠약과 혈·기능의 변화가 어떤 증후로 나타나는가 | [혈비·허로편 원문](jinkui-yaolue/chapters/blood-bi-deficiency.md) · [기혈진액변증](../diagnostics/qi-blood-fluid-patterns.md) |
+| 폐위·폐옹·해수·담음 | 기침과 호흡기 증상을 수음·허실 등과 어떻게 구별하는가 | [폐위·해수편](jinkui-yaolue/chapters/lung-cough.md) · [담음·해수편](jinkui-yaolue/chapters/fluid-cough.md) |
+| 흉비·심통·복만 | 흉복부 불편의 성격과 한열·허실을 어떻게 기록하는가 | [흉비·심통편 원문](jinkui-yaolue/chapters/chest-pain.md) |
+| 소갈·소변불리·수기·황달 | 갈증·배설·붓기 등 여러 단서를 어떤 조합으로 읽는가 | [소갈·소변편](jinkui-yaolue/chapters/thirst-urination.md) · [수기병편](jinkui-yaolue/chapters/water-qi.md) · [황달편](jinkui-yaolue/chapters/jaundice.md) |
+| 부인 임신·산후·잡병 | 같은 복부 증상도 시기와 출혈·수분 상태에 따라 무엇이 달라지는가 | [임신](jinkui-yaolue/chapters/pregnancy.md) · [산후](jinkui-yaolue/chapters/postpartum.md) · [부인잡병](jinkui-yaolue/chapters/gynecology.md) |
 
 이 밖에 경·습·갈, 백합병·호혹병, 학질, 중풍·역절, 한산·숙식 등을 다룹니다. 옛 병증명은 현대 진단과 범위가 다릅니다. 특히 ‘흉비’라는 문헌 용어만으로 현재의 흉통 원인을 판단해서는 안 됩니다.
 
