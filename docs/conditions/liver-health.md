@@ -85,9 +85,19 @@ aliases: ["간에 좋은 한약", "간에 좋은 본초", "간 건강 경혈", "
 
 전통적으로 소화·식후 팽만에 [중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md), 습·무거움에 [음릉천 SP9](../acupuncture/points/sp9-yinlingquan.md)·[풍륭 ST40](../acupuncture/points/st40-fenglong.md), 간울과 흉협 불편에 [태충 LR3](../acupuncture/points/lr3-taichong.md)·[양릉천 GB34](../acupuncture/points/gb34-yanglingquan.md), 간·혈 증후에 [간수 BL18](../acupuncture/points/bl18-ganshu.md) 등을 비교합니다. 경혈은 병증을 살피는 출발점이며 치료 뒤에는 처음 정한 소화·피로·활동 같은 목표를 확인합니다.
 
-Zhao 등이 《Chinese Medicine》에 발표한 2023년 가짜침 대조 **예비시험**은 지방간염 환자 60명을 무작위 배정했습니다. 12주에 MRI로 잰 간 지방량의 기저 대비 **상대 변화 중앙값은 전침군 −33.6%, 가짜침군 −15.8%**였습니다(p=0.022). 간 탄성도와 ALT에서는 유의한 개선 차이가 확인되지 않았습니다. 소규모 단일기관 연구로, 간경변 예방이나 장기 임상결과는 평가하지 않았습니다. [시험 원문](https://link.springer.com/article/10.1186/s13020-023-00724-w)
+### 지방간염 전침 시험에서 사용한 경혈과 결과 {#electroacupuncture-trial}
 
-이 시험은 중완·족삼리·태충·[삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md) 등을 포함한 자침과 전기자극을 묶어서 평가했습니다. 개별 경혈, 일반침, 약침의 효과는 각각 따로 평가할 문제입니다. [시험의 중재 방법](https://link.springer.com/article/10.1186/s13020-023-00724-w)
+베이징우의병원 간 연구진의 2023년 단일기관 예비시험은 비알코올 지방간염 기준을 충족한 성인 60명을 전침군과 가짜침군에 무작위 배정했습니다. 두 군 모두 12주 동안 36회 시술을 받았으며, 가짜침군은 경혈에서 벗어난 곳에 얕게 자침하고 전기를 흘리지 않았습니다. [시험 원문과 중재 방법](https://link.springer.com/article/10.1186/s13020-023-00724-w)
+
+| 시험에서 사용한 조합 | 실제 시술에서의 역할 |
+|---|---|
+| [천추 ST25](../acupuncture/points/st25-tianshu.md)·[대횡 SP15](../acupuncture/points/sp15.md) | 양쪽 복부의 천추와 대횡에 전극을 연결했습니다. |
+| [중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[관원 CV4](../acupuncture/points/cv4-guanyuan.md)·[장문 LR13](../acupuncture/points/lr13-zhangmen.md) | 중재군에 함께 사용한 몸통 경혈입니다. |
+| [족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[삼음교 SP6](../acupuncture/points/sp6-sanyinjiao.md)·[합곡 LI4](../acupuncture/points/li4-hegu.md)·[태충 LR3](../acupuncture/points/lr3-taichong.md) | 중재군에 함께 사용한 팔·다리 경혈입니다. |
+
+**12주 간 지방분율(MRI-PDFF)의 기저 대비 상대 변화 중앙값**은 전침군 **−33.6%**, 가짜침군 **−15.8%**였습니다(p=0.022). 30% 이상 감소한 비율은 전침군 16/30명(53.3%), 가짜침군 7/27명(25.9%)이었습니다(p=0.035). 연구진은 무작위 배정 후 선정 기준 위반으로 가짜침군 3명을 분석에서 제외했습니다. [시험 결과와 대상자 흐름](https://link.springer.com/article/10.1186/s13020-023-00724-w)
+
+시술 종료 무렵 가짜침군의 80%가 자기 배정을 맞혔고, 간 탄성도와 ALT의 군 간 차이는 유의하지 않았습니다. 중대한 이상반응은 보고되지 않았으며 멍 등 가벼운 반응이 있었습니다. 이 시험으로 판단할 수 있는 범위는 위 경혈 조합을 이용한 단기 전침 시술과 MRI 간 지방분율입니다. 개별 경혈, 일반침·약침, 장기 섬유화 결과를 판단하려면 각각의 연구가 필요합니다. [시험의 한계와 이상반응](https://link.springer.com/article/10.1186/s13020-023-00724-w) · [간 지방분율과 탄성도의 차이](fatty-liver.md#imaging-outcomes)
 
 ## 진료 전 기록과 추적 {#clinical-follow-up}
 
