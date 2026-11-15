@@ -128,6 +128,8 @@ last_reviewed: 2026-09-06
 
 ## 한의학에서는 어떻게 살피나요?
 
+《동의보감》 외형편 비문은 [맑은 콧물의 비구](../classics/donguibogam/original.md#nasal-discharge-bigu)와 [코막힘의 비색](../classics/donguibogam/original.md#nasal-obstruction-bisaek)을 기술합니다. 이는 전통 병증의 기록이며, 현대 비염의 유형은 증상과 진찰에 따라 따로 구분합니다.
+
 한의학에서는 콧물의 색과 점도, 재채기·가려움, 코막힘, 열감·냉감, 감기 빈도, 소화·피로와 수면을 함께 살펴 병증을 구분합니다.
 
 | 변증 경향 | 흔히 보이는 모습 | 치료 방향 |

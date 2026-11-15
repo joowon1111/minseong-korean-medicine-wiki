@@ -60,6 +60,8 @@ last_reviewed: 2026-09-21
 
 ## 한의학에서는 비연·비색을 어떻게 변증하나요? {#patterns}
 
+《동의보감》은 [비연의 탁한 콧물](../classics/donguibogam/original.md#nasal-discharge-biyeon)과 [비색의 코막힘](../classics/donguibogam/original.md#nasal-obstruction-bisaek)을 설명합니다. 이러한 전통 용어와 부비동염의 현대 진단은 범위가 다르며, 지속 기간과 동반 증상, 진찰을 함께 살핍니다.
+
 | 변증 경향 | 코와 전신에서 함께 보는 양상 | 치료 방향 |
 |---|---|---|
 | 풍열범폐 | 급성 코막힘, 누렇고 진한 분비물, 인후통·열감 | 풍열을 풀고 폐기의 소통을 도움 |

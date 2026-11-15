@@ -40,6 +40,8 @@ description: 통규라는 목표를 구체적으로 보기, 유사 처방과의 
 
 ## 출전 원문·약량·본초 해석 {#source-dose-original}
 
+《동의보감》 외형편 비연 항목에도 창이산이 수록되어 있으며 출처는 《삼인》으로 표기됩니다. 아래 《엄씨제생방》 원문과 각각의 출처를 구분해 살펴봅니다. [비연 원문과 한국어 풀이](../classics/donguibogam/original.md#nasal-discharge-biyeon)
+
 **대조 수록본:** 《엄씨제생방(嚴氏濟生方)》 「鼻門・蒼耳散」. [해당 문헌 확인](https://jicheng.tw/tcm/book/嚴氏濟生方/index.html)
 
 **원문 발췌**
