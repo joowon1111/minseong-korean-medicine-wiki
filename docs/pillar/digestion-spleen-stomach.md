@@ -116,6 +116,7 @@ last_reviewed: 2026-09-06
 | 긴장·흉협 답답함과 소화·수면 변동 | [시호](../herbs/bupleurum.md)·[백작약](../herbs/white-peony.md)·[당귀](../herbs/angelica.md) | [시호소간산](../formulas/chaihu-shugan-san.md)·[소요산](../formulas/xiaoyao-san.md); 기체와 혈허·비허의 동반을 구분 |
 | 습열·열감과 황달 관련 전통 배합 | [인진](../herbs/artemisia-capillaris.md)·[치자](../herbs/gardenia.md)·[대황](../herbs/rhubarb.md) | [인진호탕의 퇴황 배합](../formulas/injin-ho-tang.md#formula-composition); 황달의 원인·담도 상태를 먼저 평가 |
 | 간담실화·습열의 전통 병증 | [용담](../herbs/gentian-root.md)·황금·치자·[택사](../herbs/alisma.md) | [용담사간탕](../formulas/longdan-xiegan-tang.md); ‘간담’ 병위와 간수치·담석 적응증을 구분 |
+| 식후 팽만과 무거움에 담습·소화 정체가 겹침 | [인진](../herbs/artemisia-capillaris.md)·택사·[백출](../herbs/atractylodes.md)·산사 | [생간건비탕](../formulas/saenggangunbi-tang.md)의 이습·건비·소식 배합. [인진오령산·인진호탕과 비교](../conditions/liver-health.md#liver-formula-comparison) |
 | 담습·식후팽만·식욕저하가 동반 | 반하·진피·복령·백출 | [이진탕](../formulas/erchen-tang.md)·평위산·육군자탕; 소화·수분정체·허약의 비중에 맞춰 비교 |
 | 소양병의 흉협고만·식욕저하·구역 | 시호·황금·반하·인삼 | [소시호탕](../formulas/xiaochaihu-tang.md); 고전 증후와 연구 제제·대상을 확인하고 현재 간염 치료와 조율 |
 
