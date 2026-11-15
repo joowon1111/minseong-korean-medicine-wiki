@@ -73,6 +73,7 @@ last_reviewed: 2026-09-21
 | 치료 초점 | 임상에서 비교하는 처방 방향 | 구분할 점 |
 |---|---|---|
 | 담습·부종·더부룩함 | [이진탕](../formulas/erchen-tang.md), [평위산](../formulas/pingwei-san.md), [오령산](../formulas/wuling-san.md) 계열 | 가래·위장증상·수분정체 중 무엇이 중심인지 비교 |
+| 식후 팽만·몸의 무거움에 담습과 소화 정체가 겹침 | [생간건비탕](../formulas/saenggangunbi-tang.md#formula-structure) | 이습·건비·소식 배합을 함께 살핍니다. 국내 보고는 [제제가 특정된 단일 증례](../formulas/saenggangunbi-tang.md#clinical-evidence)로 해석합니다. |
 | 습열과 열성 증상 | 인진·치자·황금 등 청열이습 약재를 포함한 변증 처방 | 황달·담도질환이 의심되면 원인평가와 나란히 진행 |
 | 스트레스와 소화변동 | 소간이기·건비 처방군 | 불면·두근거림·월경 및 복용약을 함께 반영 |
 | 피로·식욕저하·회복 지연 | [육군자탕](../formulas/liujunzi-tang.md), [보중익기탕](../formulas/buzhong-yiqi-tang.md) 등 보기건비 방향 | 체중·혈당·소화상태와 처방 목표를 함께 정함 |

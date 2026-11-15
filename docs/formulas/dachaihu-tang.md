@@ -114,6 +114,10 @@ description: "대시호탕의 시호·황금·반하와 지실·작약·대황 �
 
 콜레스테롤 담석 환자에서 일본의 대시호탕 엑스제(Dai-saiko-to)를 비교한 연구는 담즙의 콜레스테롤 과포화와 같은 조성 지표를 다뤘습니다. 담즙 조성의 변화로 결석이 없어졌는지, 통증 재발이나 수술이 줄었는지를 판단할 수는 없습니다. 제제를 비교할 때는 대황 포함 여부와 병용치료를 확인합니다. [PMID 8677979](https://pubmed.ncbi.nlm.nih.gov/8677979/) · [담석·담낭염의 감별과 진료](../pillar/digestion-spleen-stomach.md#gallbladder-findings)
 
+### 이상지질혈증에서 LDL을 본 국내 시험 {#dyslipidemia-trial}
+
+Noh·Lee의 *Heliyon* 2023년 이중맹검 위약대조 예비시험은 치료 중이 아닌 이상지질혈증 성인 60명을 무작위 배정했습니다. 8주간 **LDL 콜레스테롤의 변화량**은 대시호탕 엑스제군 −10.1 mg/dL, 위약군 +3.9 mg/dL로, 군 간 차이는 **−14.0 mg/dL(95% 신뢰구간 −23.6~−4.5)**였습니다. 이 결과는 단기간 혈중 지질에 대한 것으로, 간 지방량·섬유화나 장기 심혈관 사건은 이 시험에서 평가하지 않았습니다. [논문 원문 표 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10465857/) · [간 건강의 처방 비교](../conditions/liver-health.md#liver-formula-comparison)
+
 ## 관련 핵심 문서
 
 - [보험 한약제제 목록에서 제품 확인](../herbal-integrated/insurance-herbal.md#insurance-formula-list)
