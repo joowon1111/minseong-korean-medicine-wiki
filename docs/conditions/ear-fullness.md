@@ -39,6 +39,8 @@ last_reviewed: 2026-09-06
 
 ‘막힌 느낌’은 귀지·중이 문제뿐 아니라 감각신경성 청력저하에서도 나타날 수 있습니다. **갑자기 생긴 먹먹함에 소리가 작게 들리거나 새로운 이명이 겹치면 당일 청력검사를 포함한 진료를 받습니다.** 감기나 피로 때문이라고 단정하고 기다리지 않습니다. [돌발성난청](sudden-sensorineural-hearing-loss.md) · [NIDCD 급성 청력저하 안내](https://www.nidcd.nih.gov/health/sudden-deafness)
 
+전화에서 한쪽 소리가 갑자기 작아졌거나, 자고 일어나 한쪽 귀의 말소리가 흐려졌다면 청력 변화가 시작된 시각을 기록하고 당일 이비인후과 진료를 받습니다. 이미 며칠 지난 경우에도 [발생 시점에 따른 진료 안내](sudden-sensorineural-hearing-loss.md#assessment-urgency)를 확인하세요. 갑자기 시작한 지속성 어지럼과 한쪽 청력저하가 함께 있으면 [응급 평가](../clinical-safety/headache-dizziness.md#acute-dizziness-triage)가 필요합니다.
+
 ## 어떤 동반 증상이 있나요? {#fullness-differential}
 
 | 동반 상황 | 구분할 방향과 다음 안내 |
