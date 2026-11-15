@@ -134,6 +134,10 @@ last_reviewed: 2026-10-07
 → [통증·근골격 허브](../pillar/pain-musculoskeletal.md)
 
 
+### 비연·비구·비색으로 코 증상 찾아보기 {#nasal-classical-pathway}
+
+외형편 권2 비문은 [비연의 탁한 콧물](../classics/donguibogam/original.md#nasal-discharge-biyeon), [비구의 맑은 콧물](../classics/donguibogam/original.md#nasal-discharge-bigu), [비색의 코막힘과 후각 변화](../classics/donguibogam/original.md#nasal-obstruction-bisaek)를 나누어 기록합니다. 비연 항목의 창이산과 황련통성산은 각각의 출처·구성을 확인합니다. 현재의 진료에서는 증상의 지속 기간과 동반 증상을 바탕으로 [비염](../conditions/rhinitis.md#allergic-rhinitis)과 [부비동염](../conditions/sinusitis.md#assessment) 등을 감별합니다.
+
 ### 요통을 병기와 기능으로 구분하기 {#low-back-patterns}
 
 외형편 권3 요의 **요통유십(腰痛有十)**은 신허·담음·식적·좌섬·어혈·풍·한·습·습열·기의 열 가지 맥락을 제시합니다. 현재 진료에 유용한 부분은 같은 허리통증도 **외상 시점, 고정통, 냉기와의 관계, 만성 허약**에 따라 질문과 치료의 비중이 달라진다는 점입니다.
