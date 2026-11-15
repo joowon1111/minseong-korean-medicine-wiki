@@ -230,7 +230,7 @@ tags: [금궤요략, 원문, 고전독해, 잡병]
 
 **치법과 처방을 구분** — 從小便去之는 배출 경로를 말하며 두 방은 그 아래 병기된 선택입니다. 이 한 줄은 두 처방을 나누는 세부 증상을 각각 적지 않았습니다. 신기환은 [허로편 6.15](blood-bi-deficiency.md#clause-06-015)의 요통·소복구급·소변불리와 여덟 약의 구성을 함께 대조하고, 영계출감탕은 바로 앞의 심하 담음·흉협지만·목현을 연결해 읽습니다. 소변을 통한 조절이라는 공통점이 두 방의 구성과 적용 조건까지 같다는 뜻은 아닙니다.
 
-**관련 처방:** [영계출감탕](../../../formulas/linggui-zhugan-tang.md)
+**관련 처방:** [영계출감탕](../../../formulas/linggui-zhugan-tang.md) · [신기환의 허로·소갈·미음 조문 비교](../../../formulas/bawei-dihuang-wan.md#jinkui-indication-contexts)
 
 [대조 원문 12.17](https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html#12.17)
 
