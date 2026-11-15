@@ -22,11 +22,18 @@ last_reviewed: 2026-08-19
 - 걷기 어려울 정도의 갑작스러운 균형장애
 - 실신·흉통·심한 두근거림과 동반
 
+### 갑자기 시작한 어지럼의 응급 평가 {#acute-dizziness-triage}
+
+가만히 있어도 어지럼이 지속되는 경우에는 안진, 균형과 보행, 신경학적 상태, 새 청력저하를 확인합니다. **혼자 서거나 걷기 어려울 정도의 새 균형장애, 복시·말 어눌함, 새로운 한쪽 청력저하**가 급성 어지럼에 겹치면 뇌간·소뇌를 포함한 뇌졸중 가능성을 응급 평가합니다. [NICE 신경계 증상 의뢰 지침](https://www.nice.org.uk/guidance/ng127/evidence/full-guideline-pdf-6775582573)
+
+[SAEM GRACE-3](https://www.saem.org/publications/grace/grace-3)은 안진이 있는 급성 지속성 어지럼에서 **검사 훈련을 받은 의료진**이 HINTS(머리충동·안진·눈의 수직 정렬 검사)를 활용하도록 권고합니다. 안진이 없으면 보행 불안정의 정도를 평가하고, HINTS에서 중추성 소견이 있거나 결과가 애매하면 응급 진료에서 MRI/MRA를 검토합니다. 뇌졸중 여부는 진찰과 필요한 영상검사를 종합해 판단합니다.
+
 위험 신호가 배제된 뒤 증상의 양상과 한열·허실·담음·기혈 상태 등을 종합해 탐색할 수 있다.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서
 
+- [어지럼·현훈의 지속시간과 유발 동작](../conditions/dizziness.md#dizziness-timing-triggers)
 - [아카이브 안내](../guide/index.md)
 - [증상·질환](../conditions/index.md)
 - [AI 검색 구조](../ai-index.md)
