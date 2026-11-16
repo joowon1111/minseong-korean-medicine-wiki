@@ -45,6 +45,14 @@ status: 검토완료
 
 20조에서는 땀을 낸 뒤의 변화를 살펴 작약을 그대로 두고, 22조에서는 하법 뒤의 증상에 맞춰 작약을 뺀다. 이름이 닮은 두 처방을 나란히 읽으면 작약 한 가지가 어디서 달라지는지 눈에 들어온다.
 
+## 땀을 낸 뒤, 손이 향한 자리
+
+『상한론』 64조에는 땀을 많이 낸 뒤 두 손을 포개 가슴을 덮는 사람이 나온다. ‘심하계(心下悸)’, 명치 부근이 두근거려 그 자리를 누르고 싶어 했다. 이때 조문에 나오는 처방은 계지와 구운 감초 두 가지로 이루어진 **계지감초탕(桂枝甘草湯)**이다.[^shanghan]
+
+바로 다음 65조에서는 두근거리는 자리가 배꼽 아래로 내려간다. 『금궤요략』 「분돈기병」에도 같은 대목이 실려 있다. 땀을 낸 뒤 배꼽 아래가 두근거리면 ‘분돈이 일어나려 한다(欲作奔豚)’고 보고 **복령계지감초대조탕(茯苓桂枝甘草大棗湯)**을 쓴다고 했다. 『금궤요략』은 분돈이 아랫배에서 시작해 목구멍까지 치밀었다가 가라앉는다고 묘사한다. 이 대목에 나온 두근거림은 그 기운이 위로 치밀기 전의 징후였다.[^shanghan][^jinkui]
+
+계지와 감초는 두 처방에 모두 들어간다. 배꼽 아래의 두근거림을 적은 처방에는 복령과 대조가 더 들어간다. 20조의 땀과 팔다리, 64조의 명치, 65조의 배꼽 아래를 차례로 읽으면 발한 뒤 무엇을 살폈는지가 구체적으로 보인다.
+
 ## 함께 읽기
 
 - [『상한론』 태양병 상편 20조](../classics/shanghanlun/clauses/taiyang-upper.md#clause-020) — 원문·처방 구성과 21·22조 대조
@@ -53,8 +61,11 @@ status: 검토완료
 - [상한론 주요 처방 계통](../formula-architecture/shanghan-family.md#_2) — 계지탕 계열에서 달라지는 약재와 증후
 - [계지탕 한 사발 뒤에 이어진 따뜻한 죽](guizhi-warm-rice-gruel.md) — 계지탕 방후문의 장식법과 중지 조건
 
+- [『금궤요략』 「분돈기병」](https://ctext.org/wiki.pl?chapter=614967&if=gb) — 분돈의 증상과 발한 뒤 배꼽 아래의 두근거림
+
 ## 출전과 참고 자료
 
-[^shanghan]: 장중경 저술로 전하는 『상한론』 송본 계열, 「辨太陽病脈證幷治上第五」 통행 20조 및 「桂枝加附子湯方」. [중의급성 송본 전사문 20조](https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#20)와 [Chinese Text Project 전사문](https://ctext.org/wiki.pl?chapter=960797&if=gb)를 대조했다.
+[^shanghan]: 장중경 저술로 전하는 『상한론』 송본 계열, 「辨太陽病脈證幷治上第五」 통행 20·22·64·65조 및 해당 처방문. [중의급성 송본 전사문 20조](https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html#20)와 [Chinese Text Project 전사문](https://ctext.org/wiki.pl?chapter=960797&if=gb)를 대조했다.
+[^jinkui]: 『금궤요략방론』 권상 「奔豚氣病脈證治第八」. [Chinese Text Project 전사문](https://ctext.org/wiki.pl?chapter=614967&if=gb)과 [위키문헌 전사문](https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5)을 대조했다.
 [^jinkam]: 오겸 등, 『의종금감』 권16 「訂正仲景全書傷寒論註·辨太陽病脈證幷治上篇」 20조 주석. [위키문헌 한문 전사](https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%8D%B716). `大發其汗，遂漏不止，衛陽已亡，津液外竭`로 시작하는 해설을 확인했다.
 [^safety]: Singhuber J, Zhu M, Prinz S, Kopp B. *Aconitum in Traditional Chinese Medicine: a valuable drug or an unpredictable risk?* Journal of Ethnopharmacology. 2009;126(1):18-30. [PMID 19651200](https://pubmed.ncbi.nlm.nih.gov/19651200/); Chan YT, Wang N, Feng Y. *The toxicology and detoxification of Aconitum: traditional and modern views.* Chinese Medicine. 2021;16:61. [PMID 34315520](https://pubmed.ncbi.nlm.nih.gov/34315520/).
