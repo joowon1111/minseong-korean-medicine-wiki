@@ -52,7 +52,7 @@ last_reviewed: '2026-10-07'
 
 - [녹용](cervi-parvum-cornu.md) — 보신양·익정혈·강근골
 - [인삼](ginseng.md) — 대보원기·보비익폐
-- [황기](astragalus-tonic-guide.md) — 보기승양·고표
+- [황기](astragalus.md) — 보기승양·고표 · [보익 처방에서 황기 배합](astragalus-tonic-guide.md)
 - [백출](atractylodes.md) — 보기건비·조습
 - [복령](poria.md) — 건비·이수·안신
 
