@@ -9,7 +9,7 @@ description: 상한론 398조, 금궤요략 제1–22편 임상 원문, 동의�
 <div class="ms-grid">
 <a class="ms-card" href="/shanghan-network/#complete-clauses"><strong>상한론 傷寒論</strong><span>통행 398조 원문·한국어 독해<br>육경병·조문 번호로 찾기 →</span></a>
 <a class="ms-card" href="/jingui-network/#complete-chapters"><strong>금궤요략 金匱要略</strong><span>제1–22편 임상 원문·한국어 독해<br>편명·병증으로 찾기 →</span></a>
-<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편 56개 핵심 원문·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
+<a class="ms-card" href="/classics/donguibogam/original/"><strong>동의보감 東醫寶鑑</strong><span>다섯 편의 핵심 원문 59대목·한국어 풀이<br>전사 검색·전권 영인본으로 이어 읽기 →</span></a>
 <a class="ms-card" href="/classics/donguisusebowon/original/"><strong>동의수세보원 東醫壽世保元</strong><span>직접 전사한 선별 원문·한국어 풀이<br>검색·책 이미지 대조·소증 연결 →</span></a>
 </div>
 
