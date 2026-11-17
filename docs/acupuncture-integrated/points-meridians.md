@@ -15,143 +15,143 @@ description: 경혈·경락 찾기 — 경혈·경락·해부학·침·전침·�
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| LU1 중부 | 제1늑간 높이, 전흉부 외측 | 기침·흉민·폐계 증상 |
-| LU5 척택 | 주와, 상완이두근건 외측 | 폐열·기침·주관절 |
-| LU7 열결 | 손목주름 위 1.5촌, 요골경상돌기 근처 | 기침·인후·두경부, 임맥 교회계 |
-| LU9 태연 | 손목주름 요측, 요골동맥 부위 | 폐기·맥·손목 |
+| [LU1 중부](../acupuncture/points/lu1-zhongfu.md) | 제1늑간 높이, 전흉부 외측 | 기침·흉민·폐계 증상 |
+| [LU5 척택](../acupuncture/points/lu5-chize.md) | 주와, 상완이두근건 외측 | 폐열·기침·주관절 |
+| [LU7 열결](../acupuncture/points/lu7-lieque.md) | 손목주름 위 1.5촌, 요골경상돌기 근처 | 기침·인후·두경부, 임맥 교회계 |
+| [LU9 태연](../acupuncture/points/lu9-taiyuan.md) | 손목주름 요측, 요골동맥 부위 | 폐기·맥·손목 |
 
 ## 수양명대장경 LI
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
 | [LI4 합곡](../acupuncture/points/li4-hegu.md) | 제1·2중수골 사이, 제2중수골 요측 중점 | 두면·통증·외감 |
-| LI10 수삼리 | 곡지 아래 2촌 | 상지·기혈 |
-| LI11 곡지 | 주관절 굴곡주름 외측 끝 | 열증·피부·상지 |
-| LI15 견우 | 견봉 전하방 함요 | 어깨통증·ROM |
-| LI20 영향 | 비익 외연 중점 옆 비순구 | 비염·코막힘 |
+| [LI10 수삼리](../acupuncture/points/li10-shousanli.md) | 곡지 아래 2촌 | 상지·기혈 |
+| [LI11 곡지](../acupuncture/points/li11-quchi.md) | 주관절 굴곡주름 외측 끝 | 열증·피부·상지 |
+| [LI15 견우](../acupuncture/points/li15-jianyu.md) | 견봉 전하방 함요 | 어깨통증·ROM |
+| [LI20 영향](../acupuncture/points/li20-yingxiang.md) | 비익 외연 중점 옆 비순구 | 비염·코막힘 |
 
 ## 족양명위경 ST
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| ST25 천추 | 배꼽 양옆 2촌 | 복통·설사·변비 |
+| [ST25 천추](../acupuncture/points/st25-tianshu.md) | 배꼽 양옆 2촌 | 복통·설사·변비 |
 | [ST36 족삼리](../acupuncture/points/st36-zusanli.md) | 독비 아래 3촌, 경골 전연 외측 | 소화·기력·전신조절 |
-| ST37 상거허 | 족삼리 아래 3촌 | 대장·설사 |
-| ST40 풍륭 | 외과첨 위 8촌, 경골 전연 외측 | 담습·현훈·가래 |
-| ST44 내정 | 제2·3중족골 사이 발가락샅 뒤 | 위열·두면 |
+| [ST37 상거허](../acupuncture/points/st37-shangjuxu.md) | 족삼리 아래 3촌 | 대장·설사 |
+| [ST40 풍륭](../acupuncture/points/st40-fenglong.md) | 외과첨 위 8촌, 경골 전연 외측 | 담습·현훈·가래 |
+| [ST44 내정](../acupuncture/points/st44-neiting.md) | 제2·3중족골 사이 발가락샅 뒤 | 위열·두면 |
 
 ## 족태음비경 SP
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| SP3 태백 | 제1중족골두 후하방 | 비허·소화 |
+| [SP3 태백](../acupuncture/points/sp3.md) | 제1중족골두 후하방 | 비허·소화 |
 | [SP6 삼음교](../acupuncture/points/sp6-sanyinjiao.md) | 내과첨 위 3촌, 경골 내측연 뒤 | 비·간·신, 소화·부인·수면 |
-| SP9 음릉천 | 경골 내측과 하연 함요 | 수습·부종·무릎 |
-| SP10 혈해 | 슬개골 내상방 2촌 | 혈분·피부·부인 |
+| [SP9 음릉천](../acupuncture/points/sp9-yinlingquan.md) | 경골 내측과 하연 함요 | 수습·부종·무릎 |
+| [SP10 혈해](../acupuncture/points/sp10-xuehai.md) | 슬개골 내상방 2촌 | 혈분·피부·부인 |
 
 ## 수소음심경 HT
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| HT5 통리 | 손목주름 위 1촌, 척측수근굴근건 요측 | 심계·언어·정신 |
+| [HT5 통리](../acupuncture/points/ht5-tongli.md) | 손목주름 위 1촌, 척측수근굴근건 요측 | 심계·언어·정신 |
 | [HT7 신문](../acupuncture/points/ht7-shenmen.md) | 손목주름 척측, 척측수근굴근건 요측 | 불면·심계·불안 |
 
 ## 수태양소장경 SI
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| SI3 후계 | 제5중수지관절 척측 후방 | 경항·요배·독맥 교회계 |
-| SI9 견정 | 후액와주름 위 1촌 | 어깨·상지 |
-| SI11 천종 | 견갑골 극하와 중심부 | 견갑·어깨통증 |
+| [SI3 후계](../acupuncture/points/si3-houxi.md) | 제5중수지관절 척측 후방 | 경항·요배·독맥 교회계 |
+| [SI9 견정](../acupuncture/points/si9.md) | 후액와주름 위 1촌 | 어깨·상지 |
+| [SI11 천종](../acupuncture/points/si11-tianzong.md) | 견갑골 극하와 중심부 | 견갑·어깨통증 |
 
 ## 족태양방광경 BL
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| BL10 천주 | 후두골 아래, 승모근 외측 | 두통·경항 |
-| BL13 폐수 | T3 극돌기 아래 양옆 1.5촌 | 폐계 |
-| BL15 심수 | T5 아래 양옆 1.5촌 | 심계·수면 |
-| BL18 간수 | T9 아래 양옆 1.5촌 | 간계·근긴장 |
-| BL20 비수 | T11 아래 양옆 1.5촌 | 소화·비허 |
-| BL23 신수 | L2 아래 양옆 1.5촌 | 요통·신계 |
-| BL25 대장수 | L4 아래 양옆 1.5촌 | 요통·장부 |
-| BL40 위중 | 슬와주름 중앙 | 요배·하지 |
-| BL57 승산 | 비복근 양 근복 아래 함요 | 하지·요통 |
-| BL60 곤륜 | 외과와 아킬레스건 사이 | 요배·하지 |
-| BL62 신맥 | 외과 바로 아래 | 수면·하지·양교맥 |
+| [BL10 천주](../acupuncture/points/bl10-tianzhu.md) | 후두골 아래, 승모근 외측 | 두통·경항 |
+| [BL13 폐수](../acupuncture/points/bl13-feishu.md) | T3 극돌기 아래 양옆 1.5촌 | 폐계 |
+| [BL15 심수](../acupuncture/points/bl15.md) | T5 아래 양옆 1.5촌 | 심계·수면 |
+| [BL18 간수](../acupuncture/points/bl18-ganshu.md) | T9 아래 양옆 1.5촌 | 간계·근긴장 |
+| [BL20 비수](../acupuncture/points/bl20-pishu.md) | T11 아래 양옆 1.5촌 | 소화·비허 |
+| [BL23 신수](../acupuncture/points/bl23-shenshu.md) | L2 아래 양옆 1.5촌 | 요통·신계 |
+| [BL25 대장수](../acupuncture/points/bl25-dachangshu.md) | L4 아래 양옆 1.5촌 | 요통·장부 |
+| [BL40 위중](../acupuncture/points/bl40-weizhong.md) | 슬와주름 중앙 | 요배·하지 |
+| [BL57 승산](../acupuncture/points/bl57-chengshan.md) | 비복근 양 근복 아래 함요 | 하지·요통 |
+| [BL60 곤륜](../acupuncture/points/bl60-kunlun.md) | 외과와 아킬레스건 사이 | 요배·하지 |
+| [BL62 신맥](../acupuncture/points/bl62-shenmai.md) | 외과 바로 아래 | 수면·하지·양교맥 |
 
 ## 족소음신경 KI
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| KI1 용천 | 발바닥 앞 1/3 함요 | 상역·안신 |
-| KI3 태계 | 내과와 아킬레스건 사이 | 신허·요슬·이명 |
-| KI6 조해 | 내과첨 아래 1촌 | 인후·수면·음교맥 |
-| KI7 부류 | 태계 위 2촌 | 수분·발한 |
+| [KI1 용천](../acupuncture/points/ki1-yongquan.md) | 발바닥 앞 1/3 함요 | 상역·안신 |
+| [KI3 태계](../acupuncture/points/ki3-taixi.md) | 내과와 아킬레스건 사이 | 신허·요슬·이명 |
+| [KI6 조해](../acupuncture/points/ki6-zhaohai.md) | 내과첨 아래 1촌 | 인후·수면·음교맥 |
+| [KI7 부류](../acupuncture/points/ki7-fuliu.md) | 태계 위 2촌 | 수분·발한 |
 
 ## 수궐음심포경 PC
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
 | [PC6 내관](../acupuncture/points/pc6-neiguan.md) | 손목주름 위 2촌, 장장근건·요측수근굴근건 사이 | 오심·심계·흉민·불안 |
-| PC7 대릉 | 손목주름 중앙, 두 건 사이 | 심계·손목·정신 |
+| [PC7 대릉](../acupuncture/points/pc7-daling.md) | 손목주름 중앙, 두 건 사이 | 심계·손목·정신 |
 
 ## 수소양삼초경 TE
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| TE5 외관 | 손목배측주름 위 2촌, 요골·척골 사이 | 외감·두면·상지 |
-| TE14 견료 | 견봉 후하방 함요 | 어깨 |
-| TE17 예풍 | 귓불 뒤, 하악각과 유양돌기 사이 | 안면·이명·귀 |
+| [TE5 외관](../acupuncture/points/te5-waiguan.md) | 손목배측주름 위 2촌, 요골·척골 사이 | 외감·두면·상지 |
+| [TE14 견료](../acupuncture/points/te14.md) | 견봉 후하방 함요 | 어깨 |
+| [TE17 예풍](../acupuncture/points/te17-yifeng.md) | 귓불 뒤, 하악각과 유양돌기 사이 | 안면·이명·귀 |
 
 ## 족소양담경 GB
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
 | [GB20 풍지](../acupuncture/points/gb20-fengchi.md) | 후두골 아래, 흉쇄유돌근·승모근 사이 | 두통·현훈·경항 |
-| GB21 견정 | C7-견봉선 중점 | 견배·근긴장 |
-| GB30 환도 | 둔부, 대전자와 천골열공 연결선 부위 | 둔부·좌골신경 경로 |
+| [GB21 견정](../acupuncture/points/gb21-jianjing.md) | C7-견봉선 중점 | 견배·근긴장 |
+| [GB30 환도](../acupuncture/points/gb30-huantiao.md) | 둔부, 대전자와 천골열공 연결선 부위 | 둔부·좌골신경 경로 |
 | [GB34 양릉천](../acupuncture/points/gb34-yanglingquan.md) | 비골두 전하방 함요 | 근건·무릎·협통 |
-| GB39 현종 | 외과첨 위 3촌, 비골 전연 | 수·골·경항·하지 |
-| GB41 족임읍 | 제4·5중족골 사이 | 협통·두면·대맥 |
+| [GB39 현종](../acupuncture/points/gb39-xuanzhong.md) | 외과첨 위 3촌, 비골 전연 | 수·골·경항·하지 |
+| [GB41 족임읍](../acupuncture/points/gb41.md) | 제4·5중족골 사이 | 협통·두면·대맥 |
 
 ## 족궐음간경 LR
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| LR2 행간 | 제1·2족지 사이 발등 | 간화·두통 |
+| [LR2 행간](../acupuncture/points/lr2.md) | 제1·2족지 사이 발등 | 간화·두통 |
 | [LR3 태충](../acupuncture/points/lr3-taichong.md) | 제1·2중족골 사이, 중족골저 앞 함요 | 간울·두통·근긴장 |
-| LR8 곡천 | 슬와 내측, 반건양근·반막양근 앞 | 간혈·무릎 |
+| [LR8 곡천](../acupuncture/points/lr8-ququan.md) | 슬와 내측, 반건양근·반막양근 앞 | 간혈·무릎 |
 
 ## 독맥 GV
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| GV3 요양관 | L4 극돌기 아래 | 요통 |
-| GV4 명문 | L2 극돌기 아래 | 요신·한증 |
-| GV14 대추 | C7 극돌기 아래 | 외감·열·경항 |
-| GV20 백회 | 정중선, 양쪽 귀끝 연결선과 교차 | 두통·현훈·승양 |
-| GV26 수구 | 인중구 상 1/3 | 의식·급증의 전통적 활용 |
+| [GV3 요양관](../acupuncture/points/gv3.md) | L4 극돌기 아래 | 요통 |
+| [GV4 명문](../acupuncture/points/gv4-mingmen.md) | L2 극돌기 아래 | 요신·한증 |
+| [GV14 대추](../acupuncture/points/gv14-dazhui.md) | C7 극돌기 아래 | 외감·열·경항 |
+| [GV20 백회](../acupuncture/points/gv20-baihui.md) | 정중선, 양쪽 귀끝 연결선과 교차 | 두통·현훈·승양 |
+| [GV26 수구](../acupuncture/points/gv26-shuigou.md) | 인중구 상 1/3 | 의식·급증의 전통적 활용 |
 
 ## 임맥 CV
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| CV4 관원 | 배꼽 아래 3촌 | 하초·허증·부인 |
-| CV6 기해 | 배꼽 아래 1.5촌 | 기허·하초 |
+| [CV4 관원](../acupuncture/points/cv4-guanyuan.md) | 배꼽 아래 3촌 | 하초·허증·부인 |
+| [CV6 기해](../acupuncture/points/cv6-qihai.md) | 배꼽 아래 1.5촌 | 기허·하초 |
 | [CV12 중완](../acupuncture/points/cv12-zhongwan.md) | 배꼽 위 4촌 | 위·소화 |
-| CV17 전중 | 전정중선, 제4늑간 높이 | 흉민·기역·호흡 |
-| CV22 천돌 | 흉골상절흔 위 함요 | 인후·기침 |
+| [CV17 전중](../acupuncture/points/cv17-danzhong.md) | 전정중선, 제4늑간 높이 | 흉민·기역·호흡 |
+| [CV22 천돌](../acupuncture/points/cv22.md) | 흉골상절흔 위 함요 | 인후·기침 |
 
 ## 상용 경외기혈
 
 | 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|
-| EX-HN1 사신총 | 백회 전후좌우 각 1촌 | 두통·현훈·수면 |
-| EX-HN3 인당 | 양 미간 중점 | 비염·두통·안신 |
-| EX-HN5 태양 | 눈썹끝과 외안각 사이 뒤쪽 함요 | 두통·안면 |
-| EX-UE9 팔사 | 손등 손가락 사이 | 손부종·저림 |
-| EX-LE10 팔풍 | 발등 발가락 사이 | 발저림·부종 |
+| [EX-HN1 사신총](../acupuncture/extra-points/ex-hn1.md) | 백회 전후좌우 각 1촌 | 두통·현훈·수면 |
+| [EX-HN3 인당](../acupuncture/points/ex-hn3-yintang.md) | 양 미간 중점 | 비염·두통·안신 |
+| [EX-HN5 태양](../acupuncture/extra-points/ex-hn5.md) | 눈썹끝과 외안각 사이 뒤쪽 함요 | 두통·안면 |
+| [EX-UE9 팔사](../acupuncture/extra-points/ex-ue9.md) | 손등 손가락 사이 | 손부종·저림 |
+| [EX-LE10 팔풍](../acupuncture/extra-points/ex-le10.md) | 발등 발가락 사이 | 발저림·부종 |
 
 
 ## 경락별 추가 핵심혈
@@ -160,69 +160,69 @@ description: 경혈·경락 찾기 — 경혈·경락·해부학·침·전침·�
 
 | 경락 | 추가 혈위 | 위치 핵심 | 임상 연결 |
 |---|---|---|---|
-| 폐경 | LU2 운문 | 쇄골 아래 전흉부 | 흉민·견부 |
-| 폐경 | LU6 공최 | 척택-태연선, 손목 위 7촌 | 급성 폐계·인후 |
-| 폐경 | LU10 어제 | 제1중수골 중점 요측 | 인후·열증 |
-| 폐경 | LU11 소상 | 엄지손톱 요측각 | 인후·급성 열증 |
-| 대장경 | LI1 상양 | 검지손톱 요측각 | 인후·열증 |
-| 대장경 | LI5 양계 | 손목 요측 함요 | 손목·두면 |
-| 대장경 | LI14 비노 | 상완 외측 삼각근 정지부 | 상완·어깨 |
-| 대장경 | LI18 부돌 | 경부 흉쇄유돌근 부위 | 인후·경부 |
-| 위경 | ST2 사백 | 안와하공 부위 | 안면·비부 |
-| 위경 | ST6 협거 | 하악각 전상방 교근 | 턱·안면 |
-| 위경 | ST7 하관 | 관골궁 아래 | 턱관절·귀 |
-| 위경 | ST21 양문 | 상복부, 중완 옆 | 위·상복부 |
-| 위경 | ST29 귀래 | 하복부 | 하복부·부인 |
-| 위경 | ST34 양구 | 슬개골 외상방 | 위통·무릎 |
-| 위경 | ST35 독비 | 슬개인대 외측 함요 | 무릎 |
-| 위경 | ST39 하거허 | 족삼리 아래 6촌 | 소장·하복부 |
-| 위경 | ST41 해계 | 발목 전면 | 발목·위경 |
-| 비경 | SP4 공손 | 제1중족골저 전하방 | 위장·충맥 |
-| 비경 | SP8 지기 | 음릉천 아래 3촌 | 복통·부인 |
-| 비경 | SP15 대횡 | 배꼽 양옆 4촌 | 복부·대장 |
-| 심경 | HT3 소해 | 주관절 내측 | 심·상지 |
-| 심경 | HT6 음극 | 손목주름 위 0.5촌 | 도한·심계 |
-| 심경 | HT8 소부 | 손바닥 제4·5중수골 사이 | 심화·수부 |
-| 소장경 | SI4 완골 | 제5중수골저 척측 | 손목·경항 |
-| 소장경 | SI6 양로 | 척골두 부근 | 급성 요배·견비 |
-| 소장경 | SI10 노수 | 견갑극 외측단 아래 | 어깨 |
-| 소장경 | SI14 견외수 | T1 높이 견갑내측 | 견배·경항 |
-| 소장경 | SI19 청궁 | 이주와 하악과 사이 | 귀·턱 |
-| 방광경 | BL2 찬죽 | 눈썹 안쪽 끝 | 두통·안면 |
-| 방광경 | BL11 대저 | T1 아래 1.5촌 | 골·경항 |
-| 방광경 | BL17 격수 | T7 아래 1.5촌 | 혈·흉격 |
-| 방광경 | BL21 위수 | T12 아래 1.5촌 | 위·소화 |
-| 방광경 | BL27 소장수 | 천골부 | 하복부·요천 |
-| 방광경 | BL28 방광수 | 천골부 | 배뇨·천골 |
-| 방광경 | BL32 차료 | 제2후천골공 | 골반·부인·요천 |
-| 방광경 | BL52 지실 | L2 아래 3촌 | 요신·허증 |
-| 방광경 | BL54 질변 | 둔부 | 둔부·좌골 |
-| 방광경 | BL67 지음 | 새끼발가락 외측 | 두면·전통적 산과 |
-| 신경 | KI10 음곡 | 슬와 내측 | 신·배뇨 |
-| 심포경 | PC3 곡택 | 주와, 이두근건 척측 | 심포·상지 |
-| 심포경 | PC4 극문 | 손목주름 위 5촌 | 흉부·심계 |
-| 심포경 | PC8 노궁 | 손바닥 중앙 | 심열·수부 |
-| 삼초경 | TE3 중저 | 제4·5중수골 사이 | 두면·상지 |
-| 삼초경 | TE6 지구 | 손목배측주름 위 3촌 | 협통·변비 |
-| 삼초경 | TE21 이문 | 이주상절흔 앞 | 귀·턱 |
-| 담경 | GB14 양백 | 눈썹 중점 위 1촌 | 전두통·안면 |
-| 담경 | GB31 풍시 | 대퇴 외측 | 하지·풍증 |
-| 담경 | GB40 구허 | 외과 전하방 | 발목·담경 |
-| 간경 | LR5 여구 | 내과 위 5촌 | 간경·하초 |
-| 간경 | LR13 장문 | 제11늑골 끝 | 비·협통 |
-| 간경 | LR14 기문 | 제6늑간 | 간울·흉협 |
-| 독맥 | GV9 지양 | T7 극돌기 아래 | 흉배 |
-| 독맥 | GV12 신주 | T3 극돌기 아래 | 폐·전신 |
-| 독맥 | GV16 풍부 | 후두골 아래 정중선 | 두통·경항 |
-| 독맥 | GV24 신정 | 전발제 위 0.5촌 | 두통·안신 |
-| 임맥 | CV3 중극 | 배꼽 아래 4촌 | 방광·하초 |
-| 임맥 | CV8 신궐 | 배꼽 중앙 | 복부·온법 |
-| 임맥 | CV10 하완 | 배꼽 위 2촌 | 위·식적 |
-| 임맥 | CV14 거궐 | 배꼽 위 6촌 | 심·상복부 |
-| 임맥 | CV23 염천 | 설골 위 정중선 | 인후·설 |
-| 경외기혈 | EX-B2 협척 | T1-L5 극돌기 옆 0.5촌 | 척추·근육·신경근 |
-| 경외기혈 | EX-LE4 내슬안 | 슬개인대 내측 함요 | 무릎 |
-| 경외기혈 | EX-LE2 학정 | 슬개골 상연 중앙 | 무릎 |
+| 폐경 | [LU2 운문](../acupuncture/points/lu2.md) | 쇄골 아래 전흉부 | 흉민·견부 |
+| 폐경 | [LU6 공최](../acupuncture/points/lu6.md) | 척택-태연선, 손목 위 7촌 | 급성 폐계·인후 |
+| 폐경 | [LU10 어제](../acupuncture/points/lu10.md) | 제1중수골 중점 요측 | 인후·열증 |
+| 폐경 | [LU11 소상](../acupuncture/points/lu11.md) | 엄지손톱 요측각 | 인후·급성 열증 |
+| 대장경 | [LI1 상양](../acupuncture/points/li1.md) | 검지손톱 요측각 | 인후·열증 |
+| 대장경 | [LI5 양계](../acupuncture/points/li5.md) | 손목 요측 함요 | 손목·두면 |
+| 대장경 | [LI14 비노](../acupuncture/points/li14.md) | 상완 외측 삼각근 정지부 | 상완·어깨 |
+| 대장경 | [LI18 부돌](../acupuncture/points/li18.md) | 경부 흉쇄유돌근 부위 | 인후·경부 |
+| 위경 | [ST2 사백](../acupuncture/points/st2.md) | 안와하공 부위 | 안면·비부 |
+| 위경 | [ST6 협거](../acupuncture/points/st6.md) | 하악각 전상방 교근 | 턱·안면 |
+| 위경 | [ST7 하관](../acupuncture/points/st7.md) | 관골궁 아래 | 턱관절·귀 |
+| 위경 | [ST21 양문](../acupuncture/points/st21.md) | 상복부, 중완 옆 | 위·상복부 |
+| 위경 | [ST29 귀래](../acupuncture/points/st29.md) | 하복부 | 하복부·부인 |
+| 위경 | [ST34 양구](../acupuncture/points/st34.md) | 슬개골 외상방 | 위통·무릎 |
+| 위경 | [ST35 독비](../acupuncture/points/st35-dubi.md) | 슬개인대 외측 함요 | 무릎 |
+| 위경 | [ST39 하거허](../acupuncture/points/st39.md) | 족삼리 아래 6촌 | 소장·하복부 |
+| 위경 | [ST41 해계](../acupuncture/points/st41.md) | 발목 전면 | 발목·위경 |
+| 비경 | [SP4 공손](../acupuncture/points/sp4-gongsun.md) | 제1중족골저 전하방 | 위장·충맥 |
+| 비경 | [SP8 지기](../acupuncture/points/sp8.md) | 음릉천 아래 3촌 | 복통·부인 |
+| 비경 | [SP15 대횡](../acupuncture/points/sp15.md) | 배꼽 양옆 4촌 | 복부·대장 |
+| 심경 | [HT3 소해](../acupuncture/points/ht3-shaohai.md) | 주관절 내측 | 심·상지 |
+| 심경 | [HT6 음극](../acupuncture/points/ht6.md) | 손목주름 위 0.5촌 | 도한·심계 |
+| 심경 | [HT8 소부](../acupuncture/points/ht8.md) | 손바닥 제4·5중수골 사이 | 심화·수부 |
+| 소장경 | [SI4 완골](../acupuncture/points/si4.md) | 제5중수골저 척측 | 손목·경항 |
+| 소장경 | [SI6 양로](../acupuncture/points/si6-yanglao.md) | 척골두 부근 | 급성 요배·견비 |
+| 소장경 | [SI10 노수](../acupuncture/points/si10.md) | 견갑극 외측단 아래 | 어깨 |
+| 소장경 | [SI14 견외수](../acupuncture/points/si14.md) | T1 높이 견갑내측 | 견배·경항 |
+| 소장경 | [SI19 청궁](../acupuncture/points/si19.md) | 이주와 하악과 사이 | 귀·턱 |
+| 방광경 | [BL2 찬죽](../acupuncture/points/bl2.md) | 눈썹 안쪽 끝 | 두통·안면 |
+| 방광경 | [BL11 대저](../acupuncture/points/bl11.md) | T1 아래 1.5촌 | 골·경항 |
+| 방광경 | [BL17 격수](../acupuncture/points/bl17-geshu.md) | T7 아래 1.5촌 | 혈·흉격 |
+| 방광경 | [BL21 위수](../acupuncture/points/bl21.md) | T12 아래 1.5촌 | 위·소화 |
+| 방광경 | [BL27 소장수](../acupuncture/points/bl27.md) | 천골부 | 하복부·요천 |
+| 방광경 | [BL28 방광수](../acupuncture/points/bl28-pangguangshu.md) | 천골부 | 배뇨·천골 |
+| 방광경 | [BL32 차료](../acupuncture/points/bl32.md) | 제2후천골공 | 골반·부인·요천 |
+| 방광경 | [BL52 지실](../acupuncture/points/bl52.md) | L2 아래 3촌 | 요신·허증 |
+| 방광경 | [BL54 질변](../acupuncture/points/bl54.md) | 둔부 | 둔부·좌골 |
+| 방광경 | [BL67 지음](../acupuncture/points/bl67.md) | 새끼발가락 외측 | 두면·전통적 산과 |
+| 신경 | [KI10 음곡](../acupuncture/points/ki10.md) | 슬와 내측 | 신·배뇨 |
+| 심포경 | [PC3 곡택](../acupuncture/points/pc3.md) | 주와, 이두근건 척측 | 심포·상지 |
+| 심포경 | [PC4 극문](../acupuncture/points/pc4-ximen.md) | 손목주름 위 5촌 | 흉부·심계 |
+| 심포경 | [PC8 노궁](../acupuncture/points/pc8.md) | 손바닥 중앙 | 심열·수부 |
+| 삼초경 | [TE3 중저](../acupuncture/points/te3.md) | 제4·5중수골 사이 | 두면·상지 |
+| 삼초경 | [TE6 지구](../acupuncture/points/te6.md) | 손목배측주름 위 3촌 | 협통·변비 |
+| 삼초경 | [TE21 이문](../acupuncture/points/te21.md) | 이주상절흔 앞 | 귀·턱 |
+| 담경 | [GB14 양백](../acupuncture/points/gb14.md) | 눈썹 중점 위 1촌 | 전두통·안면 |
+| 담경 | [GB31 풍시](../acupuncture/points/gb31.md) | 대퇴 외측 | 하지·풍증 |
+| 담경 | [GB40 구허](../acupuncture/points/gb40-qiuxu.md) | 외과 전하방 | 발목·담경 |
+| 간경 | [LR5 여구](../acupuncture/points/lr5.md) | 내과 위 5촌 | 간경·하초 |
+| 간경 | [LR13 장문](../acupuncture/points/lr13-zhangmen.md) | 제11늑골 끝 | 비·협통 |
+| 간경 | [LR14 기문](../acupuncture/points/lr14-qimen.md) | 제6늑간 | 간울·흉협 |
+| 독맥 | [GV9 지양](../acupuncture/points/gv9.md) | T7 극돌기 아래 | 흉배 |
+| 독맥 | [GV12 신주](../acupuncture/points/gv12.md) | T3 극돌기 아래 | 폐·전신 |
+| 독맥 | [GV16 풍부](../acupuncture/points/gv16.md) | 후두골 아래 정중선 | 두통·경항 |
+| 독맥 | [GV24 신정](../acupuncture/points/gv24.md) | 전발제 위 0.5촌 | 두통·안신 |
+| 임맥 | [CV3 중극](../acupuncture/points/cv3.md) | 배꼽 아래 4촌 | 방광·하초 |
+| 임맥 | [CV8 신궐](../acupuncture/points/cv8.md) | 배꼽 중앙 | 복부·온법 |
+| 임맥 | [CV10 하완](../acupuncture/points/cv10.md) | 배꼽 위 2촌 | 위·식적 |
+| 임맥 | [CV14 거궐](../acupuncture/points/cv14.md) | 배꼽 위 6촌 | 심·상복부 |
+| 임맥 | [CV23 염천](../acupuncture/points/cv23.md) | 설골 위 정중선 | 인후·설 |
+| 경외기혈 | [EX-B2 협척](../acupuncture/extra-points/ex-b2.md) | T1-L5 극돌기 옆 0.5촌 | 척추·근육·신경근 |
+| 경외기혈 | [EX-LE4 내슬안](../acupuncture/extra-points/ex-le4.md) | 슬개인대 내측 함요 | 무릎 |
+| 경외기혈 | [EX-LE2 학정](../acupuncture/extra-points/ex-le2.md) | 슬개골 상연 중앙 | 무릎 |
 
 ### 통합해서 읽는 원칙
 위 표는 '새 혈자리 목록'이 아니라 기존 12정경·독맥·임맥·경외기혈 자료에서 상대적으로 비어 있던 구간을 보완한 것입니다. 다음 구조로 탐색합니다.
