@@ -10,7 +10,7 @@ last_reviewed: 2026-08-29
 
 《동의수세보원》은 이제마가 사람의 체질적 생리와 병리, 병증과 치료를 **태양인·태음인·소양인·소음인**의 체계로 정리한 사상의학의 핵심 고전입니다. 체형이나 성격을 네 유형으로 단순 분류하는 책이 아니라, 장부 기능의 상대적 강약·성정·평소 소증·현재 병증·치료 반응을 함께 보는 임상 체계입니다.
 
-**원문을 바로 읽으려면:** [아카이브 내부 원문·한국어 풀이](donguisusebowon/original.md)에서 권1 성명론·확충론·장부론 24대목을 포함한 64대목을 검색하고 책 이미지와 대조할 수 있습니다. [권1에서 보명지주·병론으로](donguisusebowon/original.md#volume-one-clinical-bridge)에서 이론과 임상을 잇는 읽기 순서를 볼 수 있습니다.
+**원문을 바로 읽으려면:** [아카이브 내부 원문·한국어 풀이](donguisusebowon/original.md)에서 권1 성명론·확충론·장부론 24대목을 포함한 64대목을 검색하고 책 이미지와 대조할 수 있습니다. [소양인 범론 11-1~11-23](donguisusebowon/soyangin-panron.md)에는 23개 조문의 한문과 쉬운 풀이를 담았습니다. [권1에서 보명지주·병론으로](donguisusebowon/original.md#volume-one-clinical-bridge)에서 이론과 임상을 잇는 읽기 순서를 볼 수 있습니다.
 
 [네 고전 원문·해석 안내](../classics-reader/index.md#donguisusebowon)에서 다른 고전과 읽기 경로도 함께 살펴볼 수 있습니다.
 
