@@ -48,8 +48,6 @@ reader_tools: true
 
 수록 범위는 **권1 성명론 6대목·확충론 9대목·장부론 9대목과 사단론·체질별 병론·처방 논평·사상인변증론 40대목, 총 64개 핵심 대목**입니다. 1941년 석판본을 대조한 선별 독해로, 책 전체의 전사·완역과 구별합니다. [판본·출처·전사 원칙](#source)에서 옮긴 범위와 표기를 확인할 수 있습니다.
 
-[권3 소양인 범론 11-1~11-23](soyangin-panron.md)은 별도 페이지에서 한문과 쉬운 풀이를 조문 순서대로 읽을 수 있습니다.
-
 장국·소증·발한·한열·회복·처방 판단을 다룬 주요 20대목에는 **문장 구조와 함께 읽는 맥락**을 덧붙였습니다. [소증에서 병론으로 이어 읽는 여덟 경로](../../classics-reader/index.md#sasang-reading-paths)에서 비교할 대목을 고를 수 있습니다.
 
 <div class="ms-quick" aria-label="동의수세보원 읽기 안내">
@@ -64,12 +62,12 @@ reader_tools: true
 
 ### 4권의 큰 흐름
 
-| 권 | 구성 | 이 권에서 묻는 것 | 공개 한문 원문 |
-|---|---|---| --- |
-| 권1 | 성명론·사단론·확충론·장부론 | 사람의 성정·삶과 장국의 차이를 어떤 틀로 설명하는가? | [권1 원문](https://meridian.ai.kr/classic/東醫壽世保元/東醫壽世保元卷之一) |
-| 권2 | 의원론, 소음인 표열·리한병론·범론, 관련 처방 | 선행 의학을 어떻게 읽고, 소음인의 병세와 투약을 어떻게 판단하는가? | [권2 원문](https://meridian.ai.kr/classic/東醫壽世保元/東醫壽世保元卷之二) |
-| 권3 | 소양인 표한·리열병론·범론, 관련 처방 | 소양인의 소증과 발한·배변·한열의 변화가 병세 판단에 어떻게 이어지는가? | [권3 원문](https://meridian.ai.kr/classic/東醫壽世保元/東醫壽世保元卷之三) |
-| 권4 | 태음인·태양인 병론과 처방, 광제설·사상인변증론 | 다른 체질의 병증을 어떻게 구별하고 사람·증·약을 종합하는가? | [권4 원문](https://meridian.ai.kr/classic/東醫壽世保元/東醫壽世保元卷之四) |
+| 권 | 구성 | 이 권에서 묻는 것 |
+|---|---|---|
+| 권1 | 성명론·사단론·확충론·장부론 | 사람의 성정·삶과 장국의 차이를 어떤 틀로 설명하는가? |
+| 권2 | 의원론, 소음인 표열·리한병론·범론, 관련 처방 | 선행 의학을 어떻게 읽고, 소음인의 병세와 투약을 어떻게 판단하는가? |
+| 권3 | 소양인 표한·리열병론·범론, 관련 처방 | 소양인의 소증과 발한·배변·한열의 변화가 병세 판단에 어떻게 이어지는가? |
+| 권4 | 태음인·태양인 병론과 처방, 광제설·사상인변증론 | 다른 체질의 병증을 어떻게 구별하고 사람·증·약을 종합하는가? |
 
 ### 논·설의 목차와 쉬운 풀이 {#chapter-contents}
 
@@ -85,7 +83,7 @@ reader_tools: true
 | 2 | 범론 泛論 · 소음인 병론 뒤 | ‘두루 논한다’는 뜻입니다. 개별 병증의 설명을 넘어 병의 경중과 약의 강도 등 판단 원칙을 논합니다. | [병과 약의 강도](#medicine-proportionality) |
 | 3 | 소양인 비수한표한병론 少陽人脾受寒表寒病論 | 소양인의 비수한표한병을 논합니다. 표한병 편 안에서도 발열·두통·발한·설사의 조합과 경과가 중요합니다. | [손발바닥 발한](#soyang-palm-sweat) · [발열·설사](#soyang-fever-diarrhea) · [병증·단계 해설](../../sasang-clinical-detail/soyangin-bi-suhan.md) |
 | 3 | 소양인 위수열리열병론 少陽人胃受熱裏熱病論 | 소양인의 위수열리열병을 논합니다. 소갈·배변·갈증 등 리열병의 양상과 병세를 읽습니다. | [상소·중소·하소](#soyang-three-wastings) · [병증·단계 해설](../../sasang-clinical-detail/soyangin-wi-suyeol.md) |
-| 3 | 범론 泛論 · 소양인 병론 뒤 | 소양인 병론을 넓혀 논하는 별도 위치입니다. 권2의 같은 제목과 혼동하지 말고 앞뒤 병론·처방 수록부와 함께 찾습니다. | [소양인 범론 11-1~11-23](soyangin-panron.md) · [소양인 병증 안내](../../sasang-integrated/soyangin.md) |
+| 3 | 범론 泛論 · 소양인 병론 뒤 | 소양인 병론을 넓혀 논하는 별도 위치입니다. 권2의 같은 제목과 혼동하지 말고 앞뒤 병론·처방 수록부와 함께 찾습니다. | [소양인 병증 안내](../../sasang-integrated/soyangin.md) |
 | 4 | 태음인 위완수한표한병론 太陰人胃脘受寒表寒病論 | 태음인의 위완수한표한병을 논합니다. 위완은 명치·위 주변을 가리키는 전통 용어이며, 장감병과 발한·회복의 흐름을 읽습니다. | [장감병](#taeeum-long-cold) · [쾌한](#taeeum-sweat-quality) · [병증·단계 해설](../../sasang-clinical-detail/taeeumin-wiwan-suhan.md) |
 | 4 | 태음인 간수열리열병론 太陰人肝受熱裏熱病論 | 태음인의 간수열리열병을 논합니다. 한열의 우세·배변·갈증·조열을 체질의 병론 안에서 비교합니다. | [한열에 따른 표리](#taeeum-heat-cold-diarrhea) · [조열](#taeeum-dryness-vs-wasting) · [병증·단계 해설](../../sasang-clinical-detail/taeeumin-gan-suyeol.md) |
 | 4 | 태양인 외감요척병론 太陽人外感腰脊病論 | 태양인의 외감요척병을 논합니다. 요척은 허리·척추를 가리키는 제목의 말이며, 해역 등 하지·보행 기능과 관련한 설명을 함께 찾습니다. | [태양인 표리병 안내](../../sasang-integrated/taeyangin.md) · [병증·단계 해설](../../sasang-clinical-detail/taeyangin-oegam-yocheok.md) |
@@ -124,7 +122,6 @@ reader_tools: true
 | 사단론 | 1 | [네 체질의 장국](#four-organ-configurations) |
 | 소음인 병론·범론·처방 | 7 | [망양과 소증](#soeum-usual-sweat-case) · [약의 강도](#medicine-proportionality) · [곽향정기산 변경](#soeum-huoxiang-revision) |
 | 소양인 표한·리열병론 | 9 | [손발바닥의 땀](#soyang-palm-sweat) · [설사 동반](#soyang-fever-diarrhea) · [소갈 구분](#soyang-three-wastings) |
-| 소양인 범론 | 별도 23조문 | [두 갈래 병증](soyangin-panron.md#11-1) · [부종](soyangin-panron.md#11-7) · [병례](soyangin-panron.md#11-16) |
 | 태음인 표한·리열병론 | 7 | [장감병](#taeeum-long-cold) · [쾌한](#taeeum-sweat-quality) · [조열](#taeeum-dryness-vs-wasting) |
 | 태양인 병론·처방 논평 | 4 | [열격·반위](#taeyang-swallow-vomit) · [해역](#taeyang-haeyeok-function) · [경험의 범위](#taeyang-evidence-limits) |
 | 사상인변증론 | 12 | [외형의 예외](#appearance-soyang) · [완실무병](#wellbeing-urination) · [반복 감별](#careful-prescribing) |

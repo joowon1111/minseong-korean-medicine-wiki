@@ -33,7 +33,6 @@ hide:
 | 체질별 식사 방향과 음식 섭취 후 반응 | [사상체질별 음식 가이드](../sasang-food/index.md) |
 | 대표처방의 적용 맥락과 비슷한 처방 차이 | [사상처방 임상카드](../sasang-formula-cards/index.md) |
 | 더 많은 처방의 구성·병증·원전 | [사상처방 전체 색인](../sasang-formula-library/index.md) |
-| 《동의수세보원》 소양인 범론의 조문별 원문과 풀이 | [소양인 범론 11-1~11-23](../classics/donguisusebowon/soyangin-panron.md) |
 | 이제마와 《동의수세보원》의 역사 | [사상의학 역사·인물](../sasang-history/index.md) |
 | 체질진단·대사·치료 관련 연구 | [사상의학 현대 연구](../sasang-research/index.md) |
 
