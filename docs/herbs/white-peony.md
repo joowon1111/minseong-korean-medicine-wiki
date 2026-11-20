@@ -39,6 +39,12 @@ last_reviewed: 2026-10-23
 [원문 항목과 영인 위치](../classics/donguibogam/original.md?record=tangaek-3-5aeb6beab9e6#reader) · [사용 전사 고정판](https://ko.wikisource.org/w/index.php?oldid=417253). 인용 문헌·기여 이력·CC BY-SA 4.0 이용조건은 [원문 자료 안내](../classics/donguibogam/original.md#sources)에 표시하며 한국어 풀이는 자체 작성했습니다.
 
 
+### 원문이 설명하는 작약의 배합 상대 {#classical-pairings}
+
+《동의보감》 「芍藥」은 **與白朮同用則能補脾**라고 하여 백출과 함께 쓰는 배합을 설명하고, **與參朮同用則補氣**라고 하여 인삼·백출과 함께 쓰는 경우도 따로 적습니다. 한국어로 풀면 ‘백출과 함께 써 비를 보하고, 인삼·백출과 함께 써 기를 보한다’는 전통적 설명입니다. 이 문장의 **參은 인삼**이며 당삼을 가리키는 것으로 바꾸어 읽지 않습니다.
+
+이 대목은 보혈약으로 분류되는 작약도 보기·건비약과 결합해 처방의 역할을 보완한다는 점을 보여 줍니다. [팔물탕](../formulas/bazhen-tang.md)에서는 사물탕의 양혈축과 사군자탕의 보기건비축이 합쳐지고, [소건중탕](../formulas/xiaojianzhong-tang.md)에서는 작약·감초·교이의 완급 배합이 허로성 복통에 집중됩니다. 양혈·완급·건비의 비중은 함께 쓰는 약과 상대량으로 구분합니다. [작약 원문과 배합 해설](../classics/donguibogam/tangyeok/white-peony.md#original-reading)
+
 ## 주요 처방에서 맡는 역할
 
 [공진단·경옥고와 주요 보약의 핵심 본초 배합](../network/tonic-formula-compare.md#core-tonic-herbs)에서 이 약재의 짝약·포제·제형을 다른 처방군과 비교할 수 있습니다.
