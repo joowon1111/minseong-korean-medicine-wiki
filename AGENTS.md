@@ -69,6 +69,15 @@ A failed or incomplete security check blocks publication; do not silently pass i
 - Where it adds substance, place a short verified original passage within the story, followed by a readable Korean rendering and an explanation of the relevant word or context. Cite the work, volume/chapter or dated record and the checked text. Distinguish the original writer's words from later formula interpretation. Prefer meaningful excerpts to long reproduced blocks; do not use historical prestige as proof of present-day efficacy or reuse restricted modern translations.
 - Keep editorial planning, automation and verification notes out of reader-facing articles. Keep the season-neutral framing of the tonic columns and the requested emphasis on Gyeongokgo as the first standalone formula in Donguibogam's main text.
 
+### Short editorial checklist for every Uidam revision and new installment
+
+- Keep the existing natural sentences. Edit the specific repetition or awkward phrasing rather than rewriting every paragraph.
+- Describe the person, observation, ingredient or decision with concrete verbs. After a quotation, explain only the unfamiliar term or context the reader needs.
+- Check the paragraphs before and after each table: do not repeat the same list or explanation in all three places.
+- Use contrasts and negative sentences only for a necessary distinction. State the supported observation directly and retain material safety guidance.
+- End at the natural end of the event or record. Do not append another summary, moral or consultation invitation by habit.
+- Before submission, compare quotations, historical facts, references, medical safety information, URLs, links, numbering and heading anchors with the base version. Keep source and formulation distinctions intact.
+
 ## Archive publication workflow
 
 - The repository owner explicitly authorized merging and deploying requested archive work on 2026-09-09, including future archive tasks. After applicable security, test, build and link checks pass, proceed through PR merge and production deployment verification without asking for routine publication confirmation again.
