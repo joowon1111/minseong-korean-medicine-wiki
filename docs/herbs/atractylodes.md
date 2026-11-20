@@ -27,6 +27,20 @@ last_reviewed: 2026-10-23
 [원문 항목과 영인 위치](../classics/donguibogam/original.md?record=tangaek-2-7f642301d7ca#reader) · [사용 전사 고정판](https://ko.wikisource.org/w/index.php?oldid=417205). 인용 문헌·기여 이력·CC BY-SA 4.0 이용조건은 [원문 자료 안내](../classics/donguibogam/original.md#sources)에 표시하며 한국어 풀이는 자체 작성했습니다.
 
 
+### 장 기능을 설명한 고전의 구체적인 표현 {#digestion-classics}
+
+《동의보감》은 **健脾强胃，止瀉除濕，消食止汗，除心下急滿**이라고 기록합니다. 비위를 돕고 설사·습을 다루며, 소화와 땀, 명치의 당기고 그득한 상태까지 함께 설명한 문장입니다. 백출의 건비익기는 식사량만 살피는 효능보다 **식후 불편·묽은 변·수습·발한을 함께 고려하는 역할**로 이해할 수 있습니다.
+
+같은 항목이 인용한 **緩脾生津，去濕止渴**은 ‘비를 완화하고 진액을 도우며, 습을 다루고 갈증을 멎게 한다’는 뜻입니다. 소화·수습 처리와 진액의 이용을 함께 설명한 고전의 언어입니다. 현대의 장내미생물·면역 지표와 연결할 때는 각각의 연구에서 측정한 결과를 별도로 확인합니다. [백출 원문·풀이](../classics/donguibogam/tangyeok/atractylodes.md#passage-reading)
+
+| 백출이 쓰인 처방 | 함께 배합된 약과 치료의 중심 |
+|---|---|
+| [사군자탕](../formulas/sijunzi-tang.md) | 인삼·복령·감초와 비위기허의 보기건비 |
+| [이중환](../classics/shanghanlun/clauses/huoluan.md#clause-386) | 건강·인삼·감초와 중초허한의 구토·설사 |
+| [진무탕](../classics/shanghanlun/clauses/shaoyin.md#clause-316) | 법제 부자·복령·생강·작약과 양허·수기 병증 |
+
+장 증상을 다룬다는 공통점 안에서도 **기허·허한·양허수습**을 구분해 배합하는 것이 핵심입니다.
+
 ## 비슷한 본초와의 차이
 
 | 비교 본초 | 중심 차이 |

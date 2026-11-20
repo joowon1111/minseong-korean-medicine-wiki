@@ -40,6 +40,7 @@ last_reviewed: '2026-10-07'
 | [인삼](../ginseng.md) | 원기와 비·폐의 기를 보하고 진액을 돕는 축 | [사군자탕](../../formulas/sijunzi-tang.md) · [생맥산](../../formulas/shengmai-san.md) |
 | [황기](../astragalus.md) | 보기승양·고표·탁독생기 | [보중익기탕](../../formulas/buzhong-yiqi-tang.md) · [옥병풍산](../../formulas/yupingfeng-san.md) |
 | [백출](../atractylodes.md) | 건비익기와 조습·지한 | [사군자탕](../../formulas/sijunzi-tang.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) |
+| [당삼](../codonopsis.md) | 보기건비·익폐생진; Codonopsis 기원 | [《본초종신》의 당삼 원문](../codonopsis.md#codonopsis-classics)과 실제 처방 구성 확인 |
 | [산약](../dioscorea.md) | 비·폐·신을 비교적 평하게 보하면서 고삽을 겸함 | [육미지황환](../../authority/formulas/liuwei-dihuang-wan.md) · [삼령백출산](../../formulas/shenling-baizhu-san.md) |
 | [감초](../licorice.md)·[대조](../jujube-fruit.md) | 보중·완급·조화의 보조축 | 실제 처방에서 군약의 역할과 함께 해석 |
 
@@ -93,7 +94,21 @@ last_reviewed: '2026-10-07'
 → [피로·회복 임상 연결](/network/recovery-map/#_1)
 → [보익·양생 허브](../../network/recovery-map.md)
 
+## 고전 원문과 처방 배합 비교 {#tonic-source-comparison}
+
+| 본초 | 확인된 원문의 중심 | 배합에서 구분할 역할 |
+|---|---|---|
+| [인삼](../ginseng.md#qi-fluid-spirit) | 《동의보감》 氣不足·安精神 | 원기·비폐의 기·진액·정신 활동을 처방별로 고려 |
+| [당삼](../codonopsis.md#codonopsis-classics) | 《본초종신》 補中氣、生津·和脾胃 | Codonopsis 기원의 보기건비·생진 |
+| [백출](../atractylodes.md#digestion-classics) | 《동의보감》 健脾强胃·止瀉除濕 | 기허·허한·양허수습에 따른 장·수습 배합 |
+| [당귀](../angelica.md#blood-formula-roles) | 《동의보감》 破惡血 養新血 | 보혈과 활혈·조경의 결합 |
+| [숙지황](../prepared-rehmannia.md#blood-essence-formulas) | 《동의보감》 大補血衰·補虛損 | 혈허·기혈양허·정혈 부족에 따른 자윤·보익 |
+| [백작약](../white-peony.md#classical-pairings) | 《동의보감》 緩中과 參朮 배합 | 양혈·완급과 보기건비의 연결 |
+
 ## 현대 연구
+
+[인삼 문서의 홍삼 무작위시험](../ginseng.md#respiratory-rct)은 실제 호흡기 질환 발생을 평가한 연구입니다. 각 본초의 고전 주치와 현대 임상효과는 출처와 평가 대상을 구분해 설명합니다. 조혈·장·면역 연구도 실제 사용한 약재·제형과 연구 설계를 확인한 자료를 중심으로 검토합니다.
+
 
 보익 본초와 처방 연구에서는 피로·식욕·활동능력·회복·삶의 질, 대상에 따라 혈액·면역·대사·골 관련 지표 등이 평가됩니다. **보기=면역증강, 보양=호르몬 증가**로 표현하지 않으며, 시험한 원료·추출물·완성 처방, 용량·기간과 대상자의 허증 양상을 함께 살펴봅니다.
 
