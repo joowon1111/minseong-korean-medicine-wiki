@@ -133,9 +133,10 @@ class CoreFormulaNetworkTest(unittest.TestCase):
         suzi = (DOCS / "formulas/suzi-jiangqi-tang.md").read_text(encoding="utf-8-sig")
 
         self.assertIn("Boiogito 단독군이 없고", fangji)
-        self.assertIn("관절액이 줄었다는 결과를 체지방 감소", fangji)
+        self.assertIn("관절액 변화는 해당 연구의 평가 지표", fangji)
+        self.assertIn("체중·체지방 결과와 구분", fangji)
         self.assertIn("원방의 지황은 **건지황**", duhuo)
-        self.assertIn("병용 결과를 독활기생탕 단독효과", duhuo)
+        self.assertIn("기존 치료에 독활기생탕을 추가한 병용 조건", duhuo)
         self.assertIn("출전별 구성이 다릅니다", suzi)
         self.assertIn("모든 국가·수록본의 절대 표준량은 아닙니다", suzi)
 
