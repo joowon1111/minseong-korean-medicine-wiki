@@ -27,7 +27,7 @@ tags: [황기, 보기, 보중익기탕, 십전대보탕, 보약]
 | 보기생혈 | 기허가 혈의 생성을 뒷받침하지 못하는 병기 | [당귀보혈탕](../formulas/danggui-buxue-tang.md) |
 | 보기이수 | 기허와 부종·수습이 함께 있는 병기 | [방기황기탕](../formulas/fangji-huangqi-tang.md) |
 
-이 구분은 황기가 피로·부종·발한에 일괄적으로 적용된다는 뜻이 아닙니다. [보기의 공통 정의](../herbal-integrated/efficacy-indication-standard.md#tonify-astringe)에서 기허 병기를 확인하고, 황기의 겸효능과 처방 속 역할을 더해 읽습니다.
+[보기의 공통 정의](../herbal-integrated/efficacy-indication-standard.md#tonify-astringe)에서 기허 병기를 확인하고, 황기의 겸효능과 처방 속 역할을 더해 읽습니다.
 
 ## 품질
 약용 뿌리의 굵기·절편·향·건조 상태, 원료 규격과 보관을 함께 봅니다.
@@ -53,4 +53,4 @@ tags: [황기, 보기, 보중익기탕, 십전대보탕, 보약]
 - [황기 처방 연결망](../network/herb-to-formula-map.md#_3)
 - [피로·회복 임상 연결](../network/recovery-map.md#_1)
 
-> 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 효능과 처방 배합을 설명한 자료입니다. 실제 조제와 복용은 진료를 통해 정합니다.
