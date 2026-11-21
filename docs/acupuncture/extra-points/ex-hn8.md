@@ -28,7 +28,7 @@ source_standard: KM-Agent CC BY 4.0 / WHO-derived metadata
 
 ## 비염과 관련 지침
 
-코막힘의 좌우와 시간대, 콧물·재채기, 후각과 수면 방해를 확인합니다. 한쪽 코막힘이 지속되거나 반복되는 코피가 있다면 원인을 함께 평가합니다. [알레르기 비염 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=167)은 매선과 침·뜸을 병행한 연구의 침 혈위에 상영향·영향·인당 등을 제시합니다. 여러 치료를 함께 사용한 자료이므로 상영향 단독의 효과로 환산하지 않습니다. [비염 임상 안내](../../conditions/rhinitis.md)
+코막힘의 좌우와 시간대, 콧물·재채기, 후각과 수면 방해를 확인합니다. 한쪽 코막힘이 지속되거나 반복되는 코피가 있다면 원인을 함께 평가합니다. [알레르기 비염 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=167)은 매선과 침·뜸을 병행한 연구의 침 혈위에 상영향·영향·인당 등을 제시합니다. 상영향을 포함해 여러 치료를 병행한 연구입니다. [비염 임상 안내](../../conditions/rhinitis.md)
 
 ## 자침·안전
 

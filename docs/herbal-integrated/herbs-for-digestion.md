@@ -37,7 +37,7 @@ last_reviewed: 2026-08-21
 
 한약재는 단독 성분 하나로만 보기보다 **성미·귀경·효능·병증·배합관계와 실제 처방 속 역할**을 함께 보는 것이 중요합니다. 예를 들어 반하는 육군자탕에서는 보기약과 화담·강역을, 반하사심탕에서는 황금·황련과 건강 등의 한열 배합을 이루므로 오심이라는 한 증상만으로 같은 처방이 되지 않습니다.
 
-‘간에 좋은 본초’도 간울·습열의 전통 효능과 지방간·간염·담도폐쇄의 질환 효과를 나누어 봅니다. 간담 귀경을 간 보호나 담석 제거 효과로 바꾸어 설명하지 않습니다. [간·담낭·췌장·위·소장·대장 지도](../pillar/digestion-spleen-stomach.md#digestive-organ-map)와 [간담 본초·방제 비교](../pillar/digestion-spleen-stomach.md#hepatobiliary-care)를 함께 참고하세요.
+‘간에 좋은 본초’도 간울·습열의 전통 효능과 지방간·간염·담도폐쇄의 질환 효과를 나누어 봅니다. 간담 귀경은 전통적인 활용 범위로 설명하고, 간·담도 질환은 검사와 진찰을 통해 평가합니다. [간·담낭·췌장·위·소장·대장 지도](../pillar/digestion-spleen-stomach.md#digestive-organ-map)와 [간담 본초·방제 비교](../pillar/digestion-spleen-stomach.md#hepatobiliary-care)를 함께 참고하세요.
 
 본초 단독 추출물의 실험과 완성 처방의 사람 대상 시험은 다른 자료입니다. 실제 배합은 복용약·기저질환·임신·수유와 원료·포제·용량을 확인해 구성합니다. [소화기 한약 임상근거](../authority/formulas/digestive-herbal-evidence.md) · [본초·방제 복용 안전](safety.md)
 

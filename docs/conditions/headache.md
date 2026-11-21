@@ -114,7 +114,7 @@ last_reviewed: 2026-09-19
 
 편두통의 오심만으로 담음을 확정하지 않고 두통의 지속시간·박동성·활동 악화·빛과 소리에 대한 민감성을 먼저 구분합니다. 두중감·오심·흉민이 지속되는 양상은 [이진탕](../formulas/erchen-tang.md#donguibogam-version) 계열을, 불면·놀람·흉민이 겹치는 양상은 [온담탕](../formulas/wendan-tang.md#donguibogam-version) 계열을 비교합니다. 식욕저하·피로·심계·수면저하가 중심이면 [귀비탕](../formulas/guibi-tang.md#donguibogam-version)의 심비양허 구조를 따로 살핍니다.
 
-이 비교는 동반 증상에 따른 변증 선택입니다. 각 처방의 편두통 예방 효과를 원문만으로 입증하지 않으며, 치료 경과는 두통일수·진통제 사용일수·일상 기능으로 확인합니다. [발췌 출전](../classics/donguibogam.md#selected-clinical-passages)
+이 비교는 동반 증상에 따른 변증 선택입니다. 전통적인 배합 역할을 살펴보고, 치료 경과는 두통일수·진통제 사용일수·일상 기능으로 확인합니다. [발췌 출전](../classics/donguibogam.md#selected-clinical-passages)
 
 ## 한약치료 {#_9}
 
@@ -156,7 +156,7 @@ last_reviewed: 2026-09-19
 
 2020년 *BMJ* 다기관 무작위시험은 **전조 없는 삽화성 편두통 150명**을 수기침·비관통 가짜침·통상관리로 비교했습니다. 침 시술군은 8주간 20회 치료했고, 17~20주의 **4주당 편두통일수 감소**는 수기침 3.9일, 가짜침 2.2일이었습니다. 보정 군 간 차이는 2.1일로 수기침에 유리했습니다(95% CI 1.2~2.9일). [BMJ 원 논문](https://www.bmj.com/content/368/bmj.m697)
 
-이 결과는 반복 발작의 예방 가능성을 보여줍니다. 치료 직후 통증 소실률이나 만성편두통 전체의 효과로 바꾸어 읽지 않습니다. 연구의 20회는 시험 조건이며 실제 진료에서는 두통일수·급성기 약 사용일수·생활 방해와 치료 부담으로 계획을 조정합니다. [편두통 예방치료 설명](migraine.md#acute-prevention) · [직접시험과 종합근거 비교](../authority/conditions/migraine.md)
+이 결과는 반복 발작의 예방 가능성을 보여줍니다. 연구에서 정한 두통 유형과 평가 시점·지표에 맞춰 결과를 확인합니다. 연구의 20회는 시험 조건이며 실제 진료에서는 두통일수·급성기 약 사용일수·생활 방해와 치료 부담으로 계획을 조정합니다. [편두통 예방치료 설명](migraine.md#acute-prevention) · [직접시험과 종합근거 비교](../authority/conditions/migraine.md)
 
 경혈의 선택 이유와 해부학은 [풍지 GB20](../acupuncture/points/gb20-fengchi.md)·[합곡 LI4](../acupuncture/points/li4-hegu.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)에서, 위치는 [3D 풍지 지도](../assets/acupoint-3d/index.html?point=GB20)에서 확인할 수 있습니다. 위치 안내는 전문가 시술을 이해하기 위한 자료입니다.
 

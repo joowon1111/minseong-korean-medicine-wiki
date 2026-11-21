@@ -82,7 +82,7 @@ ICSI는 정자를 난자 안에 주입해 특정 수정 문제를 보완하지�
 
 2014 침 메타분석은 일부 정액 지표의 긍정적 결과를 보고했지만 시험 규모·방법과 임신 결과가 제한적입니다. 2024 umbrella review는 침·한약 등 여러 체계적 고찰을 비교합니다. 고찰이 많아도 원시험이 겹치면 독립적인 환자 자료가 늘어난 것은 아닙니다. [PMID 25038176](https://pubmed.ncbi.nlm.nih.gov/25038176/) · [PMID 38915352](https://pubmed.ncbi.nlm.nih.gov/38915352/)
 
-2025 오자연종방 보조치료 메타분석은 통상치료에 해당 제제를 추가한 시험에서 정액 지표와 임신 결과를 조사했습니다. 시험 제품·대조군·이상반응 보고를 확인하고 모든 보신방이나 생아출산 효과로 일반화하지 않습니다. [PMID 40395732](https://pubmed.ncbi.nlm.nih.gov/40395732/) · [근거카드](../authority/conditions/female-infertility-art.md#dor-male-loss-evidence)
+2025 오자연종방 보조치료 메타분석은 통상치료에 해당 제제를 추가한 시험에서 정액 지표와 임신 결과를 조사했습니다. 시험 제품·대조군·이상반응 보고와 실제 평가한 정액·임신 결과를 확인합니다. [PMID 40395732](https://pubmed.ncbi.nlm.nih.gov/40395732/) · [근거카드](../authority/conditions/female-infertility-art.md#dor-male-loss-evidence)
 
 현재는 전통적 활용과 일부 정액·임신 결과의 신호를 설명할 수 있지만, **생아출산·장기 영아 안전성과 원인별 최적 처방**은 별도 확인이 필요합니다. 정액검사·증상·부부의 임신/출산을 나누어 평가합니다.
 

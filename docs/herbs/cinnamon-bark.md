@@ -78,7 +78,7 @@ last_reviewed: 2026-10-23
 
 *Cinnamomum cassia* 연구에서는 cinnamaldehyde, cinnamic acid, 휘발성 성분과 polyphenols 등이 다뤄졌습니다. 세포·동물 연구에서는 염증·산화스트레스·미생물과 대사 지표가, cinnamon 보충제 임상연구에서는 공복혈당·HbA1c·혈중 지질·혈압 등이 주로 측정되었습니다.
 
-연구 대상은 cassia 또는 다른 cinnamon 종, 수피 추출물·분말·정유·분리성분으로 다양합니다. 이런 결과를 육계의 보화조양·인화귀원과 1:1로 대응하거나, 특정 복합처방의 효과로 옮겨 해석하지 않습니다. 임상 결과도 제제·용량·대상군·병용치료와 연구 품질을 함께 확인합니다.
+연구 대상은 cassia 또는 다른 cinnamon 종, 수피 추출물·분말·정유·분리성분으로 다양합니다. 육계의 보화조양·인화귀원은 전통 배합으로 설명하고, 성분·복합처방 연구는 실제 시험물에 맞춰 확인합니다. 임상 결과도 제제·용량·대상군·병용치료와 연구 품질을 함께 확인합니다.
 
 **지텍정75 mg**은 육계 건조엑스를 원료로 만든 급·만성위염의 위점막 병변 치료제입니다. 육계는 관절통 의약품 레일라의 12개 원료 본초에도 포함됩니다. 같은 수피 본초가 서로 다른 목적과 배합의 의약품에 활용되는 사례로, [지텍 성분·효능](../conditions/natural-products-herbal.md#digestive-products)과 [레일라 전체 구성](../conditions/natural-products-herbal.md#pain-products)을 함께 읽을 수 있습니다.
 
@@ -88,7 +88,7 @@ last_reviewed: 2026-10-23
 
 십전대보탕의 육계는 인삼·황기·당귀·숙지황 등의 기혈 보익을 온통으로 받치는 축입니다. 인삼양영탕은 출전별 桂心·肉桂, 작약 비중·복령·방풍을 함께 대조합니다. [인삼양영탕 이본 비교](../formulas/renshen-yangrong-tang.md#five-source-variants)
 
-cinnamon 임상연구의 종·분말·추출물과 처방 속 육계가 일치하는지 확인합니다. **coumarin 함량은 기원종·제품별로 다르며**, 특히 간질환에서는 장기간 농축제품 사용을 점검합니다. 육계의 전통적 온양을 혈당강하 효과와 동일하게 설명하지 않습니다. [NCCIH cinnamon 자료](https://www.nccih.nih.gov/health/cinnamon)
+cinnamon 임상연구의 종·분말·추출물과 처방 속 육계가 일치하는지 확인합니다. **coumarin 함량은 기원종·제품별로 다르며**, 특히 간질환에서는 장기간 농축제품 사용을 점검합니다. 육계의 온양은 전통 치법으로, 혈당은 현대 연구의 평가 지표로 구분해 설명합니다. [NCCIH cinnamon 자료](https://www.nccih.nih.gov/health/cinnamon)
 
 
 ## 안전하게 읽기

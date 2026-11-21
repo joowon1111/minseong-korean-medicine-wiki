@@ -211,7 +211,7 @@ last_reviewed: 2026-08-29
 ### 현대적으로 읽기
 고전의 생활규범을 현재의 수면·운동·영양 관리로 옮길 때는 **실행할 행동과 평가할 결과**를 함께 정합니다. 《금궤요략》 [제1편 1.2](../classics/jinkui-yaolue/chapters/organs-meridians.md#clause-01-002)의 「四肢才覺重滯，即導引、吐納、鍼灸、膏摩」는 사지가 무겁고 잘 움직이지 않을 때 도인·호흡·침구·고마를 언급합니다. 몸의 변화를 일찍 알아차리고 움직임과 치료를 연결하는 기록으로 읽습니다.
 
-태극권은 도인 전체와 같은 중재가 아니지만, 천천히 움직이고 균형·호흡·주의를 함께 훈련하는 현대 연구의 한 사례입니다. 실제 사람 대상 시험은 [수면](../conditions/insomnia.md#movement-sleep-trial), [혈압](../conditions/high-blood-pressure-checkup.md#tai-chi-blood-pressure), [섬유근육통](../authority/conditions/fibromyalgia.md#tai-chi-functional-trial), [낙상](../conditions/elderly-tonic.md#falls-prevention-trial)에서 각각 다른 결과를 평가합니다. 해당 결과를 모든 기공·도인·한약·침의 공통 효과로 확대하지 않습니다.
+태극권은 도인 전체와 같은 중재가 아니지만, 천천히 움직이고 균형·호흡·주의를 함께 훈련하는 현대 연구의 한 사례입니다. 실제 사람 대상 시험은 [수면](../conditions/insomnia.md#movement-sleep-trial), [혈압](../conditions/high-blood-pressure-checkup.md#tai-chi-blood-pressure), [섬유근육통](../authority/conditions/fibromyalgia.md#tai-chi-functional-trial), [낙상](../conditions/elderly-tonic.md#falls-prevention-trial)에서 각각 다른 결과를 평가합니다. 전통 운동·한약·침은 각각의 중재·대상별로 연구를 확인합니다.
 
 → [자율신경·스트레스 지식망](../autonomic/index.md)  
 → [피로·회복](../conditions/chronic-fatigue.md)

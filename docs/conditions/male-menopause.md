@@ -56,7 +56,7 @@ last_reviewed: 2026-09-06
 
 기력·식욕·회복 저하의 기허는 [보중익기탕](../formulas/buzhong-yiqi-tang.md), 기혈양허의 허약은 [팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md), 냉감·요슬산연·기화 저하가 겹치는 신양허는 [팔미지황환](../formulas/bawei-dihuang-wan.md) 등의 맥락을 비교합니다. [신음허·신양허 감별](../diagnostics/differentials/kidney-yin-vs-yang.md)
 
-이 전통적 비교를 테스토스테론 수치 상승이나 성기능 개선이 모든 처방에서 입증됐다는 뜻으로 설명하지 않습니다. 침치료도 동반 통증·수면·긴장의 실제 목표와 연결합니다.
+전통적인 처방 비교와 테스토스테론·성기능을 측정한 임상연구를 구분해 확인합니다. 침치료도 동반 통증·수면·긴장의 실제 목표와 연결합니다.
 
 ## 치료 선택과 경과 확인 {#followup}
 

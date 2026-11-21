@@ -5,7 +5,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 ---
 # 태극침법 주요 9경혈의 주치·효능
 
-태극침법의 네 기본형에 등장하는 혈은 **심경 오수혈 4개와 다른 경맥의 원혈 5개, 총 9개**입니다. 각 경혈은 361경혈 문서와 같은 데이터·출처를 사용하며, 전통적 활용·진료지침 배혈·현대 연구를 나누어 읽을 수 있습니다. **신문·태연·태충·태계·태백·합곡 6혈**은 국내 연구진의 원문으로 교체했고, 소부·영도·소해는 기존 교육자료 출처를 유지합니다. 문헌상 주치와 임상시험에서 사용된 분야를 구분했으며, 경혈 사용 빈도는 치료 효과를 뜻하지 않습니다. [출처와 해석 범위](../portal/acupuncture.md#sources)를 확인하고, 위치·취혈 도해와 해부학적 안전은 혈명을 눌러 살펴보세요.
+태극침법의 네 기본형에 등장하는 혈은 **심경 오수혈 4개와 다른 경맥의 원혈 5개, 총 9개**입니다. 각 경혈은 361경혈 문서와 같은 데이터·출처를 사용하며, 전통적 활용·진료지침 배혈·현대 연구를 나누어 읽을 수 있습니다. **신문·태연·태충·태계·태백·합곡 6혈**은 국내 연구진의 원문으로 교체했고, 소부·영도·소해는 기존 교육자료 출처를 유지합니다. 문헌상 주치·임상시험의 활용 분야·경혈 사용 빈도를 각각 구분해 정리했습니다. [출처와 해석 범위](../portal/acupuncture.md#sources)를 확인하고, 위치·취혈 도해와 해부학적 안전은 혈명을 눌러 살펴보세요.
 
 **심경혈:** [소부](#ht8) · [영도](#ht4) · [소해](#ht3) · [신문](#ht7)
 
@@ -33,7 +33,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 <summary>출처·원문과 해석 범위</summary>
 
 
-**표준 정보:** [KMCRIC 소부 HT8](https://www.kmcric.com/database/acupoint/HT/HT8)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 소부 HT8](https://www.kmcric.com/database/acupoint/HT/HT8)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -62,7 +62,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 <summary>출처·원문과 해석 범위</summary>
 
 
-**표준 정보:** [KMCRIC 영도 HT4](https://www.kmcric.com/database/acupoint/HT/HT4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 영도 HT4](https://www.kmcric.com/database/acupoint/HT/HT4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -91,7 +91,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 <summary>출처·원문과 해석 범위</summary>
 
 
-**표준 정보:** [KMCRIC 소해 HT3](https://www.kmcric.com/database/acupoint/HT/HT3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 소해 HT3](https://www.kmcric.com/database/acupoint/HT/HT3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -119,12 +119,12 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 
 - **불면장애 지침의 주요 혈위:** 성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다. [출처 2](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 불면증 [출처 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -133,7 +133,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 2. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
 3. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 신문 HT7](https://www.kmcric.com/database/acupoint/HT/HT7)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 신문 HT7](https://www.kmcric.com/database/acupoint/HT/HT7)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -156,7 +156,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 **전통적 효능·주치**
 
 - **문헌에서 확인한 관련 부위:** 흉부 · 상지 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
-- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 고전의 증상·부위별 경혈 활용을 설명합니다.
 - **오수혈 문헌의 배혈:** 태연과 어제를 함께 흉부 통증에 활용한 『영추』 「궐병」의 기록을 분석했습니다. [출처 2](https://koreascience.kr/article/JAKO202007650436656.pdf)
 
 <details markdown="1">
@@ -165,7 +165,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 1. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
 2. **황제내경의 오수혈 문헌연구** — 김도훈·백유상. [황제내경의 오수혈 임상 활용 연구 – 사용 빈도와 선혈을 중심으로](https://koreascience.kr/article/JAKO202007650436656.pdf). Korean Journal of Acupuncture. 2020;37(4):276–283. 가천대학교·경희대학교; 대한경락경혈학회. **278쪽 표 2; 281쪽 본론 2**. DOI: 10.14406/acu.2020.035.
 
-**표준 정보:** [KMCRIC 태연 LU9](https://www.kmcric.com/database/acupoint/LU/LU9)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 태연 LU9](https://www.kmcric.com/database/acupoint/LU/LU9)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -188,7 +188,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 **전통적 효능·주치**
 
 - **문헌에서 확인한 관련 부위:** 복부 · 하지 · 등 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
-- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 고전의 증상·부위별 경혈 활용을 설명합니다.
 - **천성십이혈의 관련 부위:** 머리·눈를 중심으로 활용한 고전 경혈군의 해석입니다. [출처 2](https://koreascience.kr/article/JAKO202432472148656.pdf)
 
 **현대 임상 활용**
@@ -196,7 +196,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 - **기능성소화불량 지침의 배혈:** 성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다. [출처 3](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)
 - **불면장애 지침의 주요 혈위:** 성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다. [출처 4](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 **현대 연구에서 다루어진 분야**
 
@@ -211,7 +211,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 4. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
 5. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
 
-**표준 정보:** [KMCRIC 태충 LR3](https://www.kmcric.com/database/acupoint/LR/LR3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 태충 LR3](https://www.kmcric.com/database/acupoint/LR/LR3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -239,12 +239,12 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 
 - **불면장애 지침의 변증별 추가 혈위:** 음허화왕 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다. [출처 2](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 급성 발목염좌 [출처 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -253,7 +253,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 2. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
 3. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 태계 KI3](https://www.kmcric.com/database/acupoint/KI/KI3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 태계 KI3](https://www.kmcric.com/database/acupoint/KI/KI3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -283,7 +283,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 
 1. **사암침 처방과 태백 주치의 문헌 연구** — 김송이·이순호·박지연·박히준. [사암도인침법에서 태백혈의 운용에 대한 연구](https://koreascience.kr/article/JAKO201402148668787.pdf#page=6). Korean Journal of Acupuncture. 2014;31(4):179–187. 경희대학교 침구경락과학연구센터·진안군 보건소; 대한경락경혈학회 학술지. **184쪽 고찰**. DOI: 10.14406/acu.2014.037.
 
-**표준 정보:** [KMCRIC 태백 SP3](https://www.kmcric.com/database/acupoint/SP/SP3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 태백 SP3](https://www.kmcric.com/database/acupoint/SP/SP3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -308,15 +308,15 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 - **소화기능 조절·소화기 증상 완화:** 체했을 때의 소화불량, 복통, 구토, 설사·변비 등을 다루는 대표적인 전통 주치입니다. 위장 기능을 조절하는 통강장위(通降腸胃)의 활용으로 설명합니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
 - **통증 완화:** 두통·치통·인후통·어깨 통증에 활용하며, 진통과 경락의 소통을 주요 치료 방향으로 설명합니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
 - **해열·감기 초기 증상 완화:** 발열·오한·두통·인후 증상에 활용하는 전통적 해표·해열의 의미입니다. 감기 초기의 증상 조절을 위한 주치로 읽습니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
-- **기혈 순환·사관혈 배혈:** 양손의 합곡과 양발의 태충을 합한 네 혈을 사관혈(四關穴)이라 부릅니다. 기혈의 소통을 도와 통증·막힌 듯한 불편을 다루는 전통적 배혈이며, 이 설명을 전신 노폐물 배출이나 혈류 개선의 임상적 입증으로 해석하지 않습니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
+- **기혈 순환·사관혈 배혈:** 양손의 합곡과 양발의 태충을 합한 네 혈을 사관혈(四關穴)이라 부릅니다. 기혈의 소통을 도와 통증과 막힌 듯한 불편을 다루는 전통적 배혈 설명입니다. [출처 1](https://koreascience.kr/article/JAKO199325552553741.pdf)
 - **문헌에서 확인한 관련 부위:** 치아 · 코 관련 증상 [출처 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
-- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 고전의 증상·부위별 경혈 활용을 설명합니다.
 - **사총혈의 관련 부위:** 얼굴·눈의 증상을 대표 혈로 다루는 전통적인 선혈 원리입니다. [출처 3](https://koreascience.kr/article/JAKO202432472148656.pdf)
 
 **현대 연구에서 다루어진 분야**
 
-- **부산대 연구진: 국내 합곡 임상연구 154편:** 정주현·김승태 등은 1981–2022년 국내 학술지의 합곡 자극 포함 임상연구 154편을 분석했습니다. 신경계 질환 31편, 소화기 질환 19편, 순환계 질환 16편, 근골격계·결합조직 질환 14편으로, 소화기와 통증 관련 활용을 살펴볼 수 있는 자료입니다. 이 수치는 연구 편수이며 치료 성공률이나 효과 크기가 아닙니다. [출처 4](https://www.riss.kr/link?id=A108913346)
-- **154편 분석의 해석 범위:** 합곡 단독 자극은 6편이고, 148편은 다른 경혈을 함께 사용했습니다. 증례보고·증례군 연구가 105편, 무작위 대조시험이 3편이어서 합곡의 임상 활용을 파악하는 데 유용하지만, 합곡 하나의 독립적인 효능을 확정하는 자료는 아닙니다. 해외 학술지에 발표된 연구와 건강인 연구는 이 분석에서 제외됐습니다. [출처 4](https://www.riss.kr/link?id=A108913346)
+- **부산대 연구진: 국내 합곡 임상연구 154편:** 정주현·김승태 등은 1981–2022년 국내 학술지의 합곡 자극 포함 임상연구 154편을 분석했습니다. 신경계 질환 31편, 소화기 질환 19편, 순환계 질환 16편, 근골격계·결합조직 질환 14편으로, 소화기와 통증 관련 활용을 살펴볼 수 있는 자료입니다. 이 수치는 해당 경혈을 사용한 연구의 편수입니다. [출처 4](https://www.riss.kr/link?id=A108913346)
+- **154편 분석의 해석 범위:** 합곡 단독 자극은 6편이고, 148편은 다른 경혈을 함께 사용했습니다. 증례보고·증례군 105편과 무작위 대조시험 3편을 통해 합곡의 임상 활용 양상을 파악할 수 있습니다. 해외 학술지에 발표된 연구와 건강인 연구는 이 분석에서 제외됐습니다. [출처 4](https://www.riss.kr/link?id=A108913346)
 - **부산대 공동연구: 턱관절 통증:** 부산대 연구자 Shin BC가 참여한 2012년 예비시험은 턱관절장애 환자 42명을 근위혈·원위혈·혼합 배혈의 세 군에 배정했습니다. 합곡은 원위혈·혼합군에 포함됐고, 3주간 6회 치료 후 각 군의 통증은 기저치보다 31–36% 감소했습니다. 군 간 차이는 유의하지 않았습니다(p=0.5867). 소규모이며 가짜침·무치료 대조군이 없어 합곡 단독의 진통 효과나 우월성을 확정할 수 없습니다. [출처 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/)
 - **임상시험에서 사용된 분야:** 안면신경마비 · 섬유근통 · 난임 · 분만 통증·분만 유도 — 사용 빈도 분석이며 치료 성공률이 아님 [출처 6](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6)
 
@@ -330,7 +330,7 @@ tags: [태극침법, 경혈, 주치, 효능, 오수혈, 원혈]
 5. **합곡을 포함한 턱관절장애 배혈 비교 예비 무작위 임상시험** — Kang KW·Kim WY·Kim TH·Shin BC·Jung SY·Kim AR·Choi SM. [Adjacent, distal, or combination of point-selective effects of acupuncture on temporomandibular joint disorders: A randomized, single-blind, assessor-blind controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC5481681/). Integrative Medicine Research. 2012;1(1):36–40. 한국한의학연구원·하나로동국한의원·부산대학교 한의학전문대학원 임상의학부(Shin BC). **방법 2.3–2.4; 결과 3.2·표 2; 고찰의 한계**. DOI: 10.1016/j.imr.2012.09.004.
 6. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
 
-**표준 정보:** [KMCRIC 합곡 LI4](https://www.kmcric.com/database/acupoint/LI/LI4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 합곡 LI4](https://www.kmcric.com/database/acupoint/LI/LI4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

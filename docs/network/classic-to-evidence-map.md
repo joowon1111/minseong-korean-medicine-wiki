@@ -67,7 +67,7 @@ description: 장중경 의학·동의보감의 원문과 병증을 기존 본초
 | 《동의보감》의 만성 요통·허약 구별 | 통증과 일상 동작의 기능장애 | [JAMA Network Open 고령자 요통시험](../conditions/low-back-pain.md#older-adult-functional-trial): 통상관리에 침 추가 |
 | 《소문》 「生病起於過用」와 활동·회복의 관찰 | 전신 통증에 따른 종합 생활기능 | [NEJM 섬유근육통 태극권 시험](../authority/conditions/fibromyalgia.md#tai-chi-functional-trial) |
 
-고전은 관찰과 치료 방향을 설명하고, 임상시험은 실제 시행한 중재의 결과를 설명합니다. 태극권은 전통 운동 연구의 사례이며 한의진료 전체의 효과를 대변하지 않습니다. 생활중재·침·한약·운동을 병행한 실제 진료의 총효과를 단독 중재 시험의 수치만으로 계산하지 않습니다. 원문 출전과 자체 해석은 [치미병·도인](../neijing-network/index.md#prevention), [동의보감 양생·만성 관리](../donguibogam-network/index.md#yangsaeng-chronic-care)에서 확인할 수 있습니다.
+고전은 관찰과 치료 방향을 설명하고, 임상시험은 실제 시행한 중재의 결과를 설명합니다. 태극권은 양생과 연결되는 전통 운동을 임상적으로 연구한 사례입니다. 복합 진료의 경과는 실제 병행한 생활중재·침·한약·운동의 구성과 함께 평가합니다. 원문 출전과 자체 해석은 [치미병·도인](../neijing-network/index.md#prevention), [동의보감 양생·만성 관리](../donguibogam-network/index.md#yangsaeng-chronic-care)에서 확인할 수 있습니다.
 
 ## 연구 유형에 맞춰 읽기 {#evidence-reading}
 

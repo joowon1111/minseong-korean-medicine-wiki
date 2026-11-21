@@ -78,7 +78,7 @@ last_reviewed: 2026-09-06
 
 ### 근거를 읽을 때 확인할 결과 {#evidence}
 
-[발기부전 침 임상근거](../authority/conditions/erectile-dysfunction.md)와 [발기부전 한약 연구](../authority/formulas/erectile-dysfunction-herbal.md)는 치료·비교군·평가 지표를 구분해서 봅니다. 발기기능 설문, 경도, 성욕, 만족도, 호르몬 수치는 서로 다른 결과입니다. 시험 제제·특정 추출물의 연구를 모든 보약이나 맞춤 처방의 효과로 확대하지 않습니다.
+[발기부전 침 임상근거](../authority/conditions/erectile-dysfunction.md)와 [발기부전 한약 연구](../authority/formulas/erectile-dysfunction-herbal.md)는 치료·비교군·평가 지표를 구분해서 봅니다. 발기기능 설문, 경도, 성욕, 만족도, 호르몬 수치는 서로 다른 결과입니다. 시험 제제와 추출물의 구성·용량·대상을 구분해 연구 결과를 확인합니다.
 
 ## 배뇨·골반·전신상태를 함께 보기 {#_6}
 

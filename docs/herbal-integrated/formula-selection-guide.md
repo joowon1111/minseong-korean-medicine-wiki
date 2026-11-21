@@ -114,7 +114,7 @@ last_reviewed: 2026-08-21
 
 전통 병증은 처방을 비교하는 틀을 제공하고, 임상연구는 특정 환자군에서 실제로 어떤 결과가 있었는지 보여줍니다. 연구의 대상·구성·제형·기간·병용치료가 현재 치료와 얼마나 가까운지 확인해야 두 자료를 함께 활용할 수 있습니다.
 
-예를 들어 [천왕보심단의 원발성 불면 연구](../authority/formulas/cheonwangbosimdan.md)는 심음허 양상과 수면 변화의 관계를 탐색했습니다. 이런 자료는 처방 선택의 질문을 구체화하지만, 단일 증상이나 설진만으로 개인의 효과를 예측하는 근거가 되지는 않습니다. [수면 연구의 쉬운 해설](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary)에서 연구 설계와 결과를 함께 볼 수 있습니다.
+예를 들어 [천왕보심단의 원발성 불면 연구](../authority/formulas/cheonwangbosimdan.md)는 심음허 양상과 수면 변화의 관계를 탐색했습니다. 처방 선택은 자료의 연구 질문과 함께 증상·설진·진찰·병력을 종합해 판단합니다. [수면 연구의 쉬운 해설](../authority/formulas/sleep-emotion-herbal-evidence.md#patient-study-summary)에서 연구 설계와 결과를 함께 볼 수 있습니다.
 
 ## 지식망 연결 {#_5}
 

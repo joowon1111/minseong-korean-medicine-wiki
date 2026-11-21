@@ -40,7 +40,7 @@ last_reviewed: 2026-09-06
 
 한의학에서는 음허·진액부족·기음양허, 관절의 한열·습·어혈과 소화·수면을 함께 비교합니다. 목건조·마른기침은 [맥문동탕](../formulas/maidong-tang.md), 피로·갈증·땀은 [생맥산](../formulas/shengmai-san.md), 음허와 열감은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md)의 전통적 구조로 연결됩니다.
 
-이 구분은 쇼그렌증후군의 항체나 침샘 손상을 해당 처방이 정상화한다는 뜻이 아닙니다. 처방 안약·류마티스 치료와 병행하면서 건조감·수면·식사·활동과 객관적 검사 결과를 나누어 추적합니다. [안구건조 침 병용 연구](../authority/conditions/dry-eye-acupuncture-artificial-tears.md)와 [방사선치료 후 구강건조 연구](../authority/conditions/radiation-xerostomia.md)는 연구 대상이 다르므로 쇼그렌에 대한 결과와 구분합니다.
+이 구분은 쇼그렌증후군에 동반되는 건조·허약 등 전통적인 증후에 따른 배합을 설명합니다. 처방 안약·류마티스 치료와 병행하면서 건조감·수면·식사·활동과 객관적 검사 결과를 나누어 추적합니다. [안구건조 침 병용 연구](../authority/conditions/dry-eye-acupuncture-artificial-tears.md)와 [방사선치료 후 구강건조 연구](../authority/conditions/radiation-xerostomia.md)는 연구 대상이 다르므로 쇼그렌에 대한 결과와 구분합니다.
 
 ## 꾸준한 추적에서 기록할 것 {#sjogren-follow-up}
 

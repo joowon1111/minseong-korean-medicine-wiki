@@ -55,7 +55,7 @@ Chan KW et al. *Add-on astragalus in type 2 diabetes and chronic kidney disease:
 
 게이오대 연구진의 2022년 후향적 자기대조 사례군은 경도·중등도 CKD 환자 37명에서 황기 함유 처방 전후를 비교했습니다. 평균 eGFR은 **66±12에서 70±14mL/min/1.73m²로 증가**했으며(P<0.001), 의무기록에 중증 이상반응은 보고되지 않았습니다. 처방기간 중앙값은 3.4개월이었습니다.
 
-이는 **집단 평균의 유의한 변화**이며 ‘모든 환자의 신장기능이 유의하게 개선됐다’는 뜻은 아닙니다. 비교군 부재, 검사자료 누락, 짧은 추적과 처방 차이가 있어 장기 효과·안전성은 추가 검증이 필요합니다. 크레아티닌 기반 eGFR의 변화와 실제 여과기능 변화가 일치하는지도 살펴야 합니다.
+이는 **연구 집단 평균에서 확인한 유의한 변화**입니다. 비교군 부재, 검사자료 누락, 짧은 추적과 처방 차이가 있어 장기 효과·안전성은 추가 검증이 필요합니다. 크레아티닌 기반 eGFR의 변화와 실제 여과기능 변화가 일치하는지도 살펴야 합니다.
 
 Yoshino T et al. *Oral Astragalus Root Supplementation for Mild to Moderate Chronic Kidney Disease: A Self-Controlled Case-Series.* *Front Pharmacol.* 2022;13:775798. [원문·DOI 10.3389/fphar.2022.775798](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.775798/full)
 

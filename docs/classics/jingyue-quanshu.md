@@ -86,7 +86,7 @@ last_reviewed: 2026-08-29
 | 고(固) | 새거나 빠져나가는 것을 수렴·고섭 |
 | 인(因) | 개별 병증과 상황에 따른 운용을 살핌 |
 
-이는 목차를 이해하는 안내입니다. 실제 처방은 여러 작용을 함께 가지므로 한 글자만으로 효능이나 적응증을 확정하지 않습니다. [방제 구조](../formula-architecture/index.md)에서 약물 배합과 전체 치법을 함께 확인할 수 있습니다.
+이는 목차를 이해하는 안내입니다. 실제 처방은 여러 작용을 함께 가지므로 약재 구성·상대비·병증을 종합해 적용을 살핍니다. [방제 구조](../formula-architecture/index.md)에서 약물 배합과 전체 치법을 함께 확인할 수 있습니다.
 
 ## 허손을 세 처방의 구성으로 읽기 {#core-formulas}
 
@@ -146,7 +146,7 @@ last_reviewed: 2026-08-29
 
 ## 현대 근거와 연결하기 {#modern-evidence}
 
-좌귀환의 골다공증 SR은 기존 치료에 병용했을 때의 **부위별 골밀도와 골대사 지표**를 살핀 자료입니다. [골다공증 한약 근거 지도](../authority/formulas/osteoporosis-herbal-evidence-map.md#zuogui-evidence)에서 대상·병용 조건·안전성과 해석 범위를 확인할 수 있습니다. 이 연구를 우귀환·대보원전이나 모든 노인보약의 효과로 묶지 않습니다.
+좌귀환의 골다공증 SR은 기존 치료에 병용했을 때의 **부위별 골밀도와 골대사 지표**를 살핀 자료입니다. [골다공증 한약 근거 지도](../authority/formulas/osteoporosis-herbal-evidence-map.md#zuogui-evidence)에서 대상·병용 조건·안전성과 해석 범위를 확인할 수 있습니다. 연구 결과는 실제 시험한 처방과 대상에 맞춰 확인합니다.
 
 고전의 요슬산연·정수부족과 현대의 DXA 진단은 서로 다른 평가입니다. [골다공증·골절 예방](../conditions/osteoporosis.md), [보익 처방의 현대 연구](../clinical-guides/tonic-research-deep-guide.md), [임상근거 허브](../pillar/clinical-evidence.md)로 이어서 **원문의 처방 목적과 사람 대상 연구의 실제 결과**를 함께 읽습니다.
 

@@ -39,7 +39,7 @@ last_reviewed: 2026-08-21
 | 효소역가 | 특정 기질을 분해하는 효소의 활성 |
 | 지표성분 함량 | 완제품에 들어 있는 특정 화학성분의 양 |
 
-이 네 수치는 서로 대체하지 않습니다. 균 이름이 같은 종 수준으로 적혀 있어도 연구에 사용된 균주와 동일한지 확인해야 하며, 여러 균을 섞었다는 이유만으로 효과가 더 크다고 정하지 않습니다. [NCCIH 프로바이오틱스의 균주별 근거](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety) · [발효한약 제조·흡수 해설](../herbal-integrated/fermented-herbal-medicine.md#terms)
+네 수치는 각각의 단위와 측정 목적에 따라 확인합니다. 같은 종 이름의 제품도 균주와 실제 함량·혼합 구성을 확인해 해당 연구 결과와 대조합니다. [NCCIH 프로바이오틱스의 균주별 근거](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety) · [발효한약 제조·흡수 해설](../herbal-integrated/fermented-herbal-medicine.md#terms)
 
 ## 함께 보면 좋은 기준 {#_4}
 

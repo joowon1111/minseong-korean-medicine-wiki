@@ -25,7 +25,7 @@ last_reviewed: 2026-09-06
 
 ### 질병 진행과 주요 사건: 대규모 이중맹검 연구 {#herbal-major-outcomes}
 
-네 연구는 **중국의 특정 제조·품질관리 규격을 가진 복합제제**를 평가했습니다. 한약의 사람 대상 연구가 증상점수에서 장기 임상 결과로 확장됐다는 의의가 있으며, 국내 모든 맞춤 탕약이나 구성 본초 각각의 효과를 뜻하지 않습니다.
+네 연구는 **중국의 특정 제조·품질관리 규격을 가진 복합제제**를 평가했습니다. 특정 한약 제제를 사용한 사람 대상 연구에서 증상점수와 장기 임상 결과를 평가했다는 의의가 있습니다.
 
 | 논문·설계 | 직접 확인한 임상 결과 | 결과의 의미와 적용 범위 |
 |---|---|---|
@@ -60,7 +60,7 @@ Wang 등의 2011년 *Annals of Internal Medicine* RCT는 중국 **11개 병원·
 
 ## 일본 Kampo의 주요 저널·처방별 임상근거 {#japan-kampo-evidence}
 
-일본동양의학회 EBM 위원회의 **EKAT(漢方治療エビデンスレポート)**는 한방제제 RCT의 연구 조건·결과·안전성을 구조화해 제공합니다. [공식 근거 자료실](https://www.jsom.or.jp/ebm/ekat/)에서 원 논문을 찾아 읽을 수 있습니다. 등재 자체가 모든 시험의 질이나 효과를 보증하는 것은 아닙니다.
+일본동양의학회 EBM 위원회의 **EKAT(漢方治療エビデンスレポート)**는 한방제제 RCT의 연구 조건·결과·안전성을 구조화해 제공합니다. [공식 근거 자료실](https://www.jsom.or.jp/ebm/ekat/)에서 원 논문을 찾아 읽을 수 있습니다. 등재된 시험도 연구 설계·평가 지표·결과를 개별적으로 확인합니다.
 
 Motoo 등의 *Traditional & Kampo Medicine* **2025;12:63–73** 보고는 2024년 학회에서 선별한 **Kampo Best RCTs 5편**을 소개합니다. EKAT2022의 540편에서 이중맹검·위약대조시험을 추리고, 저널 IF·Google Scholar 인용과 임상적 의미를 평가한 선별입니다. 당시의 선별 기준을 충족한 대표 연구이며 현재 모든 논문의 인용 순위는 아닙니다. [DOI 10.1002/tkm2.1438](https://doi.org/10.1002/tkm2.1438)
 
@@ -74,7 +74,7 @@ Motoo 등의 *Traditional & Kampo Medicine* **2025;12:63–73** 보고는 2024�
 | **대건중탕**, Kaido, *Nutrition*, 2018 | 간이식 뒤 112명 등록·104명 분석, 일본 14개 기관; 위약대조 | 부평가인 **수술 후 경구·경장 섭취 열량의 회복 경과 개선, P=0.023**. 주평가인 7일째 열량·복부팽만·복통은 차이 없음. [PMID 29747091](https://pubmed.ncbi.nlm.nih.gov/29747091/) · [상세](../../formulas/dajianzhong-tang.md#japanese-transplant-trial) |
 | **반하사심탕**, Matsuda, *Cancer Chemotherapy and Pharmacology*, 2015 | 대장암 항암치료 관련 구내염; 93명 배정·90명 분석, 2주 위약대조 | 부평가인 **2등급 이상 구내염 지속기간 중앙값 5.5일 대 10.5일**(P=0.018). 발생률 주평가는 차이 없음. [PMID 25983022](https://pubmed.ncbi.nlm.nih.gov/25983022/) · [상세](../../formulas/banxia-xiexin-tang.md#japanese-mucositis-trial) |
 
-주평가는 시험에서 미리 정한 핵심 질문이고 부평가는 추가 질문입니다. 긍정적인 부평가 결과도 가치가 있으나, 주평가에서 확인한 효과와 같은 강도로 설명하지 않습니다. 원문은 [일본 RCT 색인](../../research/rct-index.md#japan-kampo-rcts)에서 PMID·DOI로 이어집니다.
+주평가는 시험에서 미리 정한 핵심 질문이고 부평가는 추가 질문입니다. 주평가와 부평가 결과를 구분해 효과 크기와 임상적 의미를 설명합니다. 원문은 [일본 RCT 색인](../../research/rct-index.md#japan-kampo-rcts)에서 PMID·DOI로 이어집니다.
 
 ### 호흡기·순환기·노인의학의 일본 비교시험 {#japan-nongastro-trials}
 

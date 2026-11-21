@@ -37,7 +37,7 @@ last_reviewed: '2026-10-07'
 | 생약·식품·농축물 | 기원종·건조중량·추출수율·첨가물 |
 | 황정의 증숙 연구 | 황정 연구의 종과 가공을 옥죽에 자동으로 적용하지 않음 |
 
-2019년 연구는 옥죽과 *P. cyrtonema*에서 **POP-1·PCP-1**을 각각 정제해 fructose·glucose 중심의 약 5 kDa fructan 구조와 면역조절 실험을 평가했습니다. 분획의 구조를 설명하는 자료로, 모든 옥죽 다당류가 같은 크기·효과를 가진다는 뜻은 아닙니다. [원 논문·PMID 30926006](https://pubmed.ncbi.nlm.nih.gov/30926006/)
+2019년 연구는 옥죽과 *P. cyrtonema*에서 **POP-1·PCP-1**을 각각 정제해 fructose·glucose 중심의 약 5 kDa fructan 구조와 면역조절 실험을 평가했습니다. 분리 다당류 분획의 구조를 분석한 자료로, 각 시험물의 분자량과 조성을 확인합니다. [원 논문·PMID 30926006](https://pubmed.ncbi.nlm.nih.gov/30926006/)
 
 ## 양음·생진과 회복을 연결하는 질문 {#formula-context}
 

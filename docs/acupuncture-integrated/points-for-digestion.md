@@ -25,7 +25,7 @@ last_reviewed: 2026-09-06
 | [천추(ST25)](../acupuncture/points/st25-tianshu.md) | 배변 양상과 복부팽만 |
 | [공손(SP4)](../acupuncture/points/sp4-gongsun.md)·[태충(LR3)](../acupuncture/points/lr3-taichong.md) | 동반 증상과 변증에 따른 원위부 배혈 |
 
-전통적 배혈의 관점이며, 각 혈자리 단독의 효과를 보장하는 표는 아닙니다.
+전통적 배혈에서 각 혈위가 맡는 역할을 비교한 표입니다.
 
 ## 경혈을 이해하는 관점
 
@@ -47,7 +47,7 @@ last_reviewed: 2026-09-06
 | 첫 가스 배출까지 시간, 중앙값 | 44.3시간 | 58.9시간 |
 | 수술 후 입원기간, 중앙값 | 8일 | 8일 |
 
-배변·가스 배출은 전침군에서 빨랐지만 입원기간의 군 간 차이는 유의하지 않았습니다. 중대한 이상반응은 보고되지 않았습니다. 중완·양측 천추·족삼리·상거허를 사용한 **복합 치료**이며, 특정 한 혈이나 약침의 효과를 평가한 시험은 아닙니다. [원 논문](https://jamanetwork.com/journals/jamasurgery/fullarticle/2797968) · [PMID 36322060](https://pubmed.ncbi.nlm.nih.gov/36322060/)
+배변·가스 배출은 전침군에서 빨랐지만 입원기간의 군 간 차이는 유의하지 않았습니다. 중대한 이상반응은 보고되지 않았습니다. 중완·양측 천추·족삼리·상거허를 사용한 **복합 침치료**를 평가했습니다. [원 논문](https://jamanetwork.com/journals/jamasurgery/fullarticle/2797968) · [PMID 36322060](https://pubmed.ncbi.nlm.nih.gov/36322060/)
 
 이 결과는 병원 회복 관리에 더한 전침 근거입니다. 기계적 장폐색 치료나 퇴원 뒤 자가 자극법으로 적용하지 않습니다. [수술 후 위마비](../authority/conditions/postoperative-gastroparesis.md)와 [수술 후 오심·구토](../authority/conditions/postoperative-nausea-vomiting.md)는 대상·평가 지표가 다른 자료로 이어 봅니다.
 

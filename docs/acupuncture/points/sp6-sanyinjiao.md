@@ -25,7 +25,7 @@ last_reviewed: 2026-08-22
 
 발 안쪽 복사뼈에서 정강이를 따라 조금 올라가면 삼음교(三陰交)가 있습니다. 이름 그대로 ‘세 음경이 만나는 곳’이라는 설명이 오래전 문헌에 남아 있습니다. 작은 한 점을 세 갈래 길의 만남으로 기억한 셈입니다.
 
-『침구갑을경』 권3은 **“足太陰、厥陰、少陰之會”**라고 적었습니다. 족태음·족궐음·족소음의 만남이라는 뜻입니다. 현대에 쓰는 이름으로 풀면 비경·간경·신경의 교회혈이라는 설명입니다. 이는 경맥 체계 안에서 세 경로의 관계를 나타내는 말이며, 세 장기의 현대 해부학적 구조가 발목에서 만난다는 뜻은 아닙니다.
+『침구갑을경』 권3은 **“足太陰、厥陰、少陰之會”**라고 적었습니다. 족태음·족궐음·족소음의 만남이라는 뜻입니다. 현대에 쓰는 이름으로 풀면 비경·간경·신경의 교회혈이라는 설명입니다. 삼음교의 이름은 경맥 체계에서 세 경로가 만나는 관계를 나타냅니다.
 
 삼음교는 전통적으로 월경과 하복부의 불편, 소화와 배뇨 문제를 살필 때 폭넓게 활용되어 왔습니다. 같은 혈이라도 무엇을 치료 목표로 삼는지에 따라 함께 선택하는 혈과 평가할 변화가 달라집니다. 월경통이라면 통증이 나타나는 시점과 출혈 양상을, 잠이 불편하다면 잠드는 시간과 낮 동안의 상태를 함께 기록할 수 있습니다. 임신 중 침 자극은 산과 상황을 고려한 전문가의 판단이 필요합니다.
 
@@ -55,7 +55,7 @@ last_reviewed: 2026-08-22
 - **불면장애 지침의 변증별 추가 혈위:** 심비양허 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다. [출처 1](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
 - **만성요통 지침의 배혈 (2020년판):** 성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다. [출처 2](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=149&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -63,7 +63,7 @@ last_reviewed: 2026-08-22
 1. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
 2. **임상진료지침의 일반침 배혈·확인한 판본** — 대한침구의학회 지침 개발진. [만성요통증후군 한의표준임상진료지침 (2020년판)](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=149&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2020. 대한침구의학회·한국한의약진흥원; 국가한의임상정보포털. **67쪽(PDF 77쪽), 일반침 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=149&file_type=pdf#page=77).
 
-**표준 정보:** [KMCRIC 삼음교 SP6](https://www.kmcric.com/database/acupoint/SP/SP6)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 삼음교 SP6](https://www.kmcric.com/database/acupoint/SP/SP6)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

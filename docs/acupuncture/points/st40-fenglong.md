@@ -44,14 +44,14 @@ tags: [경혈, 임상한의학]
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 조현병 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
 
 1. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 풍륭 ST40](https://www.kmcric.com/database/acupoint/ST/ST40)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 풍륭 ST40](https://www.kmcric.com/database/acupoint/ST/ST40)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -86,7 +86,7 @@ tags: [경혈, 임상한의학]
 
 ## 현대 연구를 읽는 법
 
-기능성소화불량 환자 116명의 무작위 연구에서 풍륭은 충양 ST42·족삼리 ST36·양구 ST34와 함께 전침군에 사용됐습니다. 같은 위경의 다른 혈 조합 및 비경혈 자침과 비교한 연구이며, 풍륭만의 효과를 분리한 시험은 아닙니다. [대상과 비교군](../../conditions/functional-dyspepsia.md#st40-fd-study)
+기능성소화불량 환자 116명의 무작위 연구에서 풍륭은 충양 ST42·족삼리 ST36·양구 ST34와 함께 전침군에 사용됐습니다. 풍륭을 포함한 위경의 혈 조합을 다른 위경혈 조합 및 비경혈 자침과 비교한 연구입니다. [대상과 비교군](../../conditions/functional-dyspepsia.md#st40-fd-study)
 
 현대 침구 연구에서는 혈명뿐 아니라 표준 위치, 자침 깊이·방향, 수기·전침 조건, 유침시간, 치료 횟수와 결과지표를 함께 봅니다. WHO 표준 위치는 연구·교육에서 위치의 재현성을 높이는 기준으로 활용됩니다.
 

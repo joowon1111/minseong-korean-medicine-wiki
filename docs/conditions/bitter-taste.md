@@ -56,7 +56,7 @@ last_reviewed: 2026-09-06
 
 ## 전통적 변증을 증상 하나에 고정하지 않기 {#bitter-taste-formulas}
 
-한의학의 간담열·위열·음허는 문진·진찰로 종합하는 변증입니다. ‘입이 쓰다=간담열’로 고정하지 않습니다. 건조·허열은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md), 명치 답답함·구역과 한열착잡은 [반하사심탕](../formulas/banxia-xiexin-tang.md), 뚜렷한 열증은 [황련해독탕](../formulas/huanglian-jiedu-tang.md)의 구성을 비교할 수 있습니다. 실제 원인 평가와 병용약 확인을 바탕으로 처방하며 특정 약이 쓴맛을 없앤다는 보장은 아닙니다.
+한의학의 간담열·위열·음허는 문진·진찰로 종합하는 변증입니다. ‘입이 쓰다=간담열’로 고정하지 않습니다. 건조·허열은 [자음강화탕](../formulas/ziyin-jianghuo-tang.md), 명치 답답함·구역과 한열착잡은 [반하사심탕](../formulas/banxia-xiexin-tang.md), 뚜렷한 열증은 [황련해독탕](../formulas/huanglian-jiedu-tang.md)의 구성을 비교할 수 있습니다. 실제 원인과 병용약을 확인하고 쓴맛·소화·수면 등 동반 양상의 변화를 살펴 처방합니다.
 
 ## 경과를 확인하는 질문 {#bitter-taste-follow-up}
 

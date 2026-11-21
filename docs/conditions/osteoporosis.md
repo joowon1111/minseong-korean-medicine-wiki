@@ -66,11 +66,11 @@ T-score·Z-score와 검사 부위별 차이는 [골밀도 검사·골감소증](
 | 통증·기능 | 골절 후 회복 또는 동반 근골격 불편 | 골밀도 변화와 분리해 평가 |
 | 새 골절·재골절 | 환자에게 직접 중요한 임상 결과 | 충분한 표본과 장기 추적 여부 |
 
-골밀도·통증 변화와 **실제 골절 감소**는 서로 다른 평가 항목입니다. 연구 대상·병용치료·평가 기간을 확인하고, 특정 처방의 결과를 모든 보약이나 단독치료 효과로 확대하지 않습니다. 더 넓은 사람 대상 자료는 [통증·근골격 한약 현대 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#bone-health)에서 비교할 수 있습니다.
+골밀도·통증 변화와 **실제 골절 감소**는 서로 다른 평가 항목입니다. 연구 대상·처방·병용치료·평가 기간을 함께 확인합니다. 더 넓은 사람 대상 자료는 [통증·근골격 한약 현대 임상근거](../authority/formulas/musculoskeletal-herbal-evidence.md#bone-health)에서 비교할 수 있습니다.
 
 ## 변증·근력·골절 후 회복으로 이어가기 {#bone-recovery-routes}
 
-한의학적으로는 [간신부족](../concepts/liver-kidney-deficiency.md), 기혈허, 냉열과 소화·회복 상태를 함께 살핍니다. 전통적인 보익 구조는 [좌귀환](../formulas/zuogui-wan.md)·[우귀환](../formulas/yougui-wan.md), 만성 요슬통과 허약의 비교는 [독활기생탕](../formulas/duhuo-jisheng-tang.md)으로 이어집니다. 이 연결은 골밀도 수치만으로 처방을 정한다는 뜻이 아닙니다.
+한의학적으로는 [간신부족](../concepts/liver-kidney-deficiency.md), 기혈허, 냉열과 소화·회복 상태를 함께 살핍니다. 전통적인 보익 구조는 [좌귀환](../formulas/zuogui-wan.md)·[우귀환](../formulas/yougui-wan.md), 만성 요슬통과 허약의 비교는 [독활기생탕](../formulas/duhuo-jisheng-tang.md)으로 이어집니다. 처방은 골밀도와 함께 허약·통증·식사 등 동반 양상을 살펴 정합니다.
 
 보약·침치료를 병행한다면 통증과 식사·수면·보행 회복을 평가하면서 골절 예방 치료를 함께 유지합니다. **추적 골밀도·새 골절·낙상 횟수·의자에서 일어서기·활동량**을 나누어 확인합니다.
 

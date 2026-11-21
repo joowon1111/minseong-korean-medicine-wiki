@@ -61,7 +61,7 @@ last_reviewed: 2026-08-22
 
 ## 사상의학 장부생리 {#zangbu-physiology}
 
-사상의학의 장부론은 현대 해부학적 장기 크기를 그대로 뜻하는 개념이 아닙니다. 체질별 생리적 기능의 강약과 병리 방향을 설명하는 전통적 이론체계로 읽습니다.
+사상의학의 장부론은 장부의 기능과 체질별 관계를 설명하는 고유한 이론 체계입니다. 체질별 생리적 기능의 강약과 병리 방향을 설명하는 전통적 이론체계로 읽습니다.
 
 장부론의 [수곡 경로](../classics/donguisusebowon/original.md#jangbu-food-route) → [진·고·유·액의 네 계열](../classics/donguisusebowon/original.md#jangbu-fluid-lung) → [장부의 근본과 심](../classics/donguisusebowon/original.md#jangbu-four-roots)은 음식물의 변화·저장·분포와 몸의 여러 부위를 연결합니다. 현대 소화·순환·신경계와 기관별로 일대일 대응시키지 않고 원전 내부의 전신 관계로 읽습니다. [판본을 나눈 보명지주·병론 연결표](../classics/donguisusebowon/original.md#volume-one-clinical-bridge)에서 실제 소증·병증으로 이동합니다.
 

@@ -53,7 +53,7 @@ last_reviewed: 2026-08-19
 
 ## 자료와 적용 범위
 
-NCKM은 사상체질병증의 임상활용도구에 체질식사요법 안내문을 제공합니다. 위의 기록표는 일상에서 식사 반응을 비교하기 위한 정리이며, 개별 음식의 체질별 효과 크기를 제시하는 임상시험 결과는 아닙니다. 관련 연구는 [사상의학 연구의 소증·건강지표](../sasang-research/index.md#metabolic-health)에서 구분해 읽을 수 있습니다.
+NCKM은 사상체질병증의 임상활용도구에 체질식사요법 안내문을 제공합니다. 위 기록표는 일상에서 식사 반응과 동반 증상을 비교하기 위한 정리입니다. 관련 연구는 [사상의학 연구의 소증·건강지표](../sasang-research/index.md#metabolic-health)에서 구분해 읽을 수 있습니다.
 
 - [NCKM 사상체질병증 진료지침·체질식사요법 안내문](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=232&menu_idx=14)
 

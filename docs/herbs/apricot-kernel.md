@@ -46,4 +46,4 @@ FDA는 고함량 amygdalin을 포함한 일부 생 살구씨 제품에서 치명
 - [FDA: Toxic Amygdalin Found in Apricot Seeds](https://www.fda.gov/food/alerts-advisories-safety-information/fda-issues-warning-about-toxic-amygdalin-found-apricot-seeds)
 - [지해평천 효능 표준](../herbal-integrated/efficacy-indication-standard.md#damp-phlegm) · [복용 안전 안내](../herbal-integrated/safety.md)
 
-> 본초 지식을 설명한 자료이며 생 살구씨나 행인의 자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

@@ -124,7 +124,7 @@ last_reviewed: 2026-09-29
 
 두 군의 발생률 차이는 **17.3%포인트**입니다. 보고된 비율을 단순 계산하면 이 시험 조건에서 약 6명을 치료할 때 2등급 이상 만성 신경병증 1건을 추가로 예방하는 크기(NNT≈6)이며, 논문의 오즈비 0.43을 상대위험 감소 57%로 읽는 것과는 다릅니다.
 
-이는 처방 단위의 규모 있는 예방시험이라는 점에서 의미가 있습니다. 다만 **대장암의 XELOX 요법과 시험용 과립제**를 평가한 결과이므로 이미 발생한 모든 신경병증의 치료 효과나 다른 항암요법으로 곧바로 넓혀 해석하지 않습니다. 항암제 용량 조정과 신경학적 평가는 종양 진료팀과 협의합니다. → [항암치료 유발 말초신경병증 근거 카드](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md#huangqi-guizhi-wuwu-trial)
+이는 처방 단위의 규모 있는 예방시험이라는 점에서 의미가 있습니다. **대장암의 XELOX 요법과 시험용 과립제**를 사용한 조건에서 평가한 신경병증 예방 결과입니다. 항암제 용량 조정과 신경학적 평가는 종양 진료팀과 협의합니다. → [항암치료 유발 말초신경병증 근거 카드](../authority/conditions/chemotherapy-induced-peripheral-neuropathy.md#huangqi-guizhi-wuwu-trial)
 
 ## 안전하게 보기
 

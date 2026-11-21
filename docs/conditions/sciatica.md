@@ -84,7 +84,7 @@ Tu 등의 2024년 *JAMA Internal Medicine* 다기관 시험은 중국 6개 병�
 | 다리 통증 VAS, 100mm 척도 | 30.8mm | 14.9mm | 16.0mm, 95% CI 10.6–21.3 |
 | ODI 기능장애 | 13.0점 | 4.9점 | 8.1점, 95% CI 5.1–11.1 |
 
-다리 통증과 기능에서 침군의 이점이 52주까지 관찰됐습니다. 52주 원문 표 2의 군 간 차이는 VAS **10.8mm**, ODI **4.7점**이었습니다. 중대한 이상사건은 발생하지 않았습니다. **디스크 관련 만성 방사통에서 통증과 생활기능을 함께 평가한 근거**입니다. 급성 외상·협착증·모든 원인의 다리저림에 그대로 적용하거나 영상상 디스크 소실·신경 재생을 입증한 결과로 확대하지 않습니다. [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) · [공개 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC11581490/) · [원문 표 2](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825064) · [침 연구의 비교군을 읽는 법](../authority/acupuncture.md#_2)
+다리 통증과 기능에서 침군의 이점이 52주까지 관찰됐습니다. 52주 원문 표 2의 군 간 차이는 VAS **10.8mm**, ODI **4.7점**이었습니다. 중대한 이상사건은 발생하지 않았습니다. **디스크 관련 만성 방사통에서 통증과 생활기능을 함께 평가한 근거**입니다. 연구가 정한 좌골신경통의 대상 조건과 통증·기능 결과를 중심으로 확인합니다. [PMID 39401008](https://pubmed.ncbi.nlm.nih.gov/39401008/) · [공개 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC11581490/) · [원문 표 2](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2825064) · [침 연구의 비교군을 읽는 법](../authority/acupuncture.md#_2)
 
 #### 문헌고찰은 어떻게 함께 읽나요?
 
