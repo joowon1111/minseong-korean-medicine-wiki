@@ -135,7 +135,7 @@ last_reviewed: '2026-09-21'
 
 - [산조인탕](suanzaoren-tang.md#jinkui-preparation) · [온담탕](wendan-tang.md#wendan-name-and-components) · [소요산](xiaoyao-san.md#xiaoyao-distinct-structure) — 허번·담위불화·간울혈허의 배합 비교
 
-- [억간산](yigan-san.md) — 처방 구조와 치매 행동심리증상 연구
+- [억간산·억간산가진피반하](yigan-san.md) — 신경과민·불면, 일본 ‘짜증약’의 구성·허가사항과 임상연구
 - [시호가용골모려탕](chaihu-jia-longgu-muli-tang.md) — 흉만·번경·심계·수면 불안정의 복합 증후와 불면·정서 임상연구
 
 ### 허로·회복과 소화가 함께 있을 때 {#_15}

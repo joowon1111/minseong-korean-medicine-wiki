@@ -20,6 +20,7 @@ last_reviewed: 2026-09-19
 | 아침 턱이 뻐근하거나 수면 중 갈리는 소리가 들림 | [이갈이·이악물기](../conditions/jaw-clenching-bruxism.md#bruxism-assessment) · [코골이·숨 멎음](../conditions/obstructive-sleep-apnea.md#symptoms) |
 | 걱정과 긴장이 지속됨 | [불안·과도한 걱정](../conditions/anxiety.md) |
 | 의욕·즐거움이 줄고 수면·식욕도 달라짐 | [우울감·우울증](../conditions/depression.md) |
+| 쉽게 예민해지고 짜증·긴장과 수면 불편이 겹침 | [억간산·억간산가진피반하의 차이](../formulas/yigan-san.md#yokukansankachimpihange) · [불안](../conditions/anxiety.md) |
 | 억울함·분노와 가슴 답답함·상열감이 반복됨 | [화병·울화·가슴답답함](../conditions/hwabyeong.md) |
 | 머리가 아프고 뒷목이 당기거나 찌릿함 | [두통](../conditions/headache.md) · [편두통](../conditions/migraine.md) · [긴장형두통](../conditions/tension-headache.md) · [경추성두통](../conditions/cervicogenic-headache.md) · [후두신경통](../conditions/occipital-neuralgia.md) |
 | 빙빙 돌거나 휘청거림 | [어지럼](../conditions/dizziness.md) |
@@ -58,6 +59,7 @@ last_reviewed: 2026-09-19
 | 흉민·오심·어지럼·예민한 잠 | 담음·담열; 화담·화위·안신 | [온담탕](../formulas/wendan-tang.md)·[가미온담탕](../formulas/jiawei-wendan-tang.md): 기본방과 가감 구분 |
 | 긴장·한숨·목 이물감·소화불편 | 기울·담기울결; 이기·화담 | [반하후박탕](../formulas/banxia-houpo-tang.md): 목 이물감과 실제 삼킴장애를 감별 |
 | 스트레스·상열감과 월경 관련 변화 | 간울혈허·울열; 소간·양혈·청열 | [가미소요산](../formulas/jiawei-xiaoyao-san.md): 정서·전신 증상의 연동 |
+| 과민·흥분과 근육 긴장, 소화·수면 불편 | 조간·식풍·건비; 긴장을 조절하며 혈과 비위를 함께 돌봄 | [억간산](../formulas/yigan-san.md)·[억간산가진피반하](../formulas/yigan-san.md#yokukansankachimpihange): 진피·반하 추가와 위장 상태 확인 |
 | 심번·심계와 흉복부 긴장·과각성 | 화해·중진안신 등 복합 치법 | [시호가용골모려탕](../formulas/chaihu-jia-longgu-muli-tang.md): 소시호탕 계열과 용골·모려 배합 |
 | 두중·오심·식욕저하와 어지럼 | 비허·담습; 건비화담·식풍 | [반하백출천마탕](../formulas/banxia-baizhu-tianma-tang.md): 전정·신경 평가와 별도로 증후 비교 |
 | 두통·어지럼·열감과 간양 단서 | 간양상항; 평간식풍·청열 | [천마구등음](../formulas/tianma-gouteng-yin.md): 혈압·기립·청력 원인도 함께 평가 |
