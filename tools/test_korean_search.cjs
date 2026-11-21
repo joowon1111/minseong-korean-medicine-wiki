@@ -17,7 +17,7 @@ const rows = [
 
 const resultUrls = (b) => [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
 
-test('the complete current archive ranks the three pain guides first for their authored queries', async () => {
+test('the complete current archive ranks representative pages first for authored queries', async () => {
   const root = path.join(__dirname, '..');
   const folder = fs.mkdtempSync(path.join(os.tmpdir(), 'pain-search-'));
   try {
@@ -39,6 +39,7 @@ test('the complete current archive ranks the three pain guides first for their a
     }
     // Keep all Liuwei/Bawei names pointed to their representative formula pages.
     for (const [url, queries] of [
+      ['/conditions/belching/', ['트림', '트름', '잦은트림', '식후 트림', '신트림', '트림이 자주 나오는 이유']],
       ['/formulas/liuwei-dihuang-wan/', ['육미지황환', '육미지황탕', '육미 지황탕', '육미']],
       ['/formulas/bawei-dihuang-wan/', ['팔미지황환', '팔미지황탕', '팔미 지황탕', '팔미', '팔미지화탕']],
     ]) {
