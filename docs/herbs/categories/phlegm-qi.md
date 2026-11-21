@@ -47,7 +47,7 @@ last_reviewed: '2026-10-07'
 
 ## 이기·온중 본초 확장
 
-[지각](../citrus-aurantium-immature.md)은 지실·진피·청피와 감귤류의 채취 단계·약용부위를 비교합니다. [오약](../lindera-root.md)은 하초 냉감·기체, [정향](../clove.md)·[고량강](../lesser-galangal.md)은 온중·강역의 배합, [향유](../elsholtzia.md)는 해표·화습 구조에서 읽습니다. 이름이나 향이 비슷하다는 이유로 서로 대체하지 않습니다.
+[지각](../citrus-aurantium-immature.md)은 지실·진피·청피와 감귤류의 채취 단계·약용부위를 비교합니다. [오약](../lindera-root.md)은 하초 냉감·기체, [정향](../clove.md)·[고량강](../lesser-galangal.md)은 온중·강역의 배합, [향유](../elsholtzia.md)는 해표·화습 구조에서 읽습니다. 본초는 기원·약용부위·성미와 배합 목적을 확인해 선택합니다.
 
 ## 대표 처방
 

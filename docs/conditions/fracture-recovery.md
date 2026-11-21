@@ -67,7 +67,7 @@ last_reviewed: 2026-09-06
 
 전통적으로 손상 후 고정통·압통은 [당귀수산](../formulas/danggui-susan.md), 기혈부족·회복 저하는 [팔물탕](../formulas/bazhen-tang.md)·[인삼양영탕](../formulas/renshen-yangrong-tang.md), 오래된 요슬통·허약은 [독활기생탕](../formulas/duhuo-jisheng-tang.md) 등으로 비교합니다. [어혈과 회복 변증](../diagnostics/differentials/blood-stasis-vs-cold-damp-pain.md)도 함께 봅니다.
 
-이 처방 연결은 통증·식사·기력 등 동반 불편의 평가이며, 특정 한약이 골유합 기간을 단축한다고 보장하는 것은 아닙니다. 항응고제·수술약과 한약의 병용, 수술 부위·고정물·감염 상태를 확인하고 침치료 부위와 재활 범위를 정합니다.
+이 처방 연결은 골절 회복기에 동반되는 통증·식사·기력 저하를 함께 평가하는 안내입니다. 항응고제·수술약과 한약의 병용, 수술 부위·고정물·감염 상태를 확인하고 침치료 부위와 재활 범위를 정합니다.
 
 ### 증후와 배합을 비교하는 순서 {#fracture-patterns}
 

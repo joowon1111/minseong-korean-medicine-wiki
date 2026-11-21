@@ -22,7 +22,7 @@ description: 택사(澤瀉) 임상 확장 — 본초의 성미·귀경·효능·
 → [본초 찾기](../herbal-integrated/herbs.md)  
 → [방제 찾기](../herbal-integrated/formulas.md)
 
-> 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
 ## 관련 핵심 문서

@@ -139,7 +139,7 @@ last_reviewed: 2026-09-22
 ## 근거를 읽는 범위 {#_7}
 
 - 『동의수세보원』의 병증·처방 구조, 『동의사상신편』과 한국전통지식포탈의 후대 수록 구성은 구분해 읽습니다.
-- 2022 사상체질병증 한의표준임상진료지침은 병증 진단·치료·관리의 틀을 제공하지만, 위 모든 처방 사이의 직접 비교시험을 뜻하지 않습니다.
-- 증례·관찰연구는 실제 적용 맥락을 보여 주지만 처방 단독 효과나 다른 현대 질환으로의 일반화를 입증하지 않습니다.
+- 2022 사상체질병증 한의표준임상진료지침은 병증 진단·치료·관리의 틀을 제공하며, 처방별 임상연구는 실제 구성과 대상에 맞춰 확인합니다.
+- 증례·관찰연구는 실제 병증과 병행치료, 경과를 살펴보는 자료입니다.
 
 → [소양인 한약처방 전체](../sasang-formula-cards/index.md#soyangin-formulas) · [소양인 통합 허브](../sasang-integrated/soyangin.md) · [망음과 흉격열 감별](../sasang-pattern-differential/soyangin-mangeum-vs-chestheat.md) · [처방 유지·변경 판단](../sasang-followup/formula-decision.md) · [본초 역색인](../herbs/sasang-formula-reverse-index.md#soyangin-herbs)

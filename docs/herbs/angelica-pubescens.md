@@ -17,7 +17,7 @@ last_reviewed: 2026-09-18
 
 식약처 독활 규격은 *Aralia continentalis*의 뿌리를 수재합니다. 중국약전 계통의 *Angelica pubescens* 뿌리와 학명·과·성분 구성이 다르므로 논문의 원료 동정과 voucher specimen을 확인합니다. → [식약처 독활 규격](https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_411.pdf)
 
-절편·분말·추출물과 포제 유무를 기록하고, 국내 독활 전임상 결과를 *Angelica pubescens* 또는 독활기생탕 전체의 효과로 바꾸어 쓰지 않습니다.
+국내 독활과 Angelica pubescens, 독활기생탕의 연구는 기원·제형·포제와 구성을 구분해 확인합니다.
 
 ## 효능에서 주치로 읽기
 
@@ -52,7 +52,7 @@ last_reviewed: 2026-09-18
 
 국내 *Aralia continentalis* 뿌리에서는 continentalic acid, kaurenoic acid 등 diterpenoid 계열이 연구되었습니다. 세포·동물 연구는 **염증 매개물질, 관절염·통증행동, 산화스트레스와 조직학적 지표**를 측정했습니다. 사람 활막세포와 설치류 모델을 사용한 2018년 연구도 추출물의 염증·관절 관련 지표를 탐색한 전임상 자료입니다.
 
-이 결과는 독활의 거풍제습·지통 전체 또는 사람의 골관절염 치료효과와 동일하지 않습니다. 국내 *Aralia continentalis*, 해외 *Angelica pubescens*, 독활기생탕·청상견통탕 같은 복합처방을 각각 분리해 읽습니다.
+실험에서 측정한 염증·연골 등 지표를 확인하고 사람의 골관절염 결과는 해당 임상시험에서 살펴봅니다. 국내 *Aralia continentalis*, 해외 *Angelica pubescens*, 독활기생탕·청상견통탕 같은 복합처방을 각각 분리해 읽습니다.
 
 ## 안전하게 읽기
 

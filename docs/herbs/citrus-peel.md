@@ -87,7 +87,7 @@ last_reviewed: 2026-09-18
 | polymethoxyflavones | nobiletin·tangeretin 등 | 알코올·지용성 분획과 물 추출의 차이 |
 | 휘발성 성분 | limonene 등 여러 terpene | 향의 세기·조성과 가열·보관 영향 |
 
-2023년 광진피 연구는 **1·3·5·10·15·30년 저장 시료**를 성분·미생물 분석으로 비교했습니다. 저장에 따른 조성 변화를 설명하는 연구이며 모든 진피의 연수를 임상효과 순위로 바꾸는 자료는 아닙니다. 원료 품종과 보관 조건, 수분·오염·변질도 함께 봅니다. [원 논문·PMID 37689884](https://pubmed.ncbi.nlm.nih.gov/37689884/)
+2023년 광진피 연구는 **1·3·5·10·15·30년 저장 시료**를 성분·미생물 분석으로 비교했습니다. 진피의 저장 기간에 따른 성분 조성 변화를 분석한 품질 연구입니다. 원료 품종과 보관 조건, 수분·오염·변질도 함께 봅니다. [원 논문·PMID 37689884](https://pubmed.ncbi.nlm.nih.gov/37689884/)
 
 [보중익기탕](../formulas/buzhong-yiqi-tang.md)에서는 보기·승양약 사이의 이기, [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants)에서는 기혈 보익과 허손 배합의 조절, [육군자탕](../formulas/liujunzi-tang.md)에서는 반하·복령과 담습·오심을 함께 봅니다. ‘다른 보약의 흡수를 높인다’는 정량적 결론보다 **비허와 기체·담습을 함께 다루는 역할**로 설명합니다.
 
@@ -111,4 +111,4 @@ last_reviewed: 2026-09-18
 - [《동의보감》 탕액편의 진피](../classics/donguibogam/tangyeok/citrus-peel.md)
 - [본초 찾기](../herbal-integrated/herbs.md) · [방제 찾기](../herbal-integrated/formulas.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
-> 본초 지식을 설명한 자료이며 식용 과피의 자가 약용을 권하는 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

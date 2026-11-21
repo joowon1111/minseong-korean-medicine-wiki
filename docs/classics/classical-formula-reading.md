@@ -58,7 +58,7 @@ last_reviewed: 2026-08-22
 | [대건중탕](../formulas/dajianzhong-tang.md#source-dose-original) | 세 약을 달여 거른 뒤 교이를 넣고 조리 | ‘우삼미’와 실제 네 재료의 관계 |
 | [대황황련사심탕](../formulas/banxia-xiexin-tang.md#shanghan-xiexin-family) | 끓는 물에 침출하는 처방문 | 승기탕의 전탕·조실 문맥과 구별 |
 
-이 기록은 역사적 제법을 설명합니다. 현대의 포제·규격·추출 조건은 실제 조제 자료에서 확인하며, 추출 방식이 다르다는 사실만으로 어느 방식의 임상 효과가 더 크다고 단정하지 않습니다.
+이 기록은 역사적 제법을 설명합니다. 현대의 포제·규격·추출 조건과 실제 임상 결과를 각각의 자료에서 확인합니다.
 
 ## 판본과 가감이 갈리는 지점 {#editions-and-variants}
 

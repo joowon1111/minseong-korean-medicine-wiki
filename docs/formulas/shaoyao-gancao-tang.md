@@ -51,7 +51,7 @@ last_reviewed: 2026-09-06
 
 ### 완급과 온양을 혼동하지 않기
 
-작약·감초의 산감 배합은 근육·복부의 긴장과 급박함을 완화하는 전통적 치법으로 풀이합니다. 건강·부자가 없기 때문에 [사역탕](../classics/shanghanlun/clauses/shaoyin.md)과 같은 회양방으로 볼 수 없으며, 계지·생강·대조·교이가 있는 [소건중탕](xiaojianzhong-tang.md)과도 중초를 다루는 구조가 다릅니다. 두 약의 간결함이 모든 통증 원인을 포괄한다는 뜻은 아닙니다.
+작약·감초의 산감 배합은 근육·복부의 긴장과 급박함을 완화하는 전통적 치법으로 풀이합니다. 건강·부자가 없기 때문에 [사역탕](../classics/shanghanlun/clauses/shaoyin.md)과 같은 회양방으로 볼 수 없으며, 계지·생강·대조·교이가 있는 [소건중탕](xiaojianzhong-tang.md)과도 중초를 다루는 구조가 다릅니다. 두 약은 긴장·경련성 통증의 양상과 전체 처방 목적을 살펴 배합합니다.
 
 ### 산감상합으로 읽는 두 약재 {#sour-sweet-pair}
 
@@ -129,4 +129,4 @@ Takao 등의 *Kobe Journal of Medical Sciences* 2015년 연구는 요추척추�
 
 ## 경련과 일반 근육통을 구분하기
 
-갑자기 근육이 당기는 [근육경련](../conditions/muscle-cramps.md)과 과로 후 넓게 쑤시는 [전신근육통](../conditions/whole-body-ache.md)은 구분합니다. [백작약](../herbs/white-peony.md)이 들어가는 쌍화탕·소경활혈탕과의 차이는 [통증 본초·방제 비교](../herbal-integrated/formula-for-pain.md)에서 볼 수 있습니다. 본방의 경련 연구를 모든 운동 후 근육통의 치료 근거로 확대하지 않습니다.
+갑자기 근육이 당기는 [근육경련](../conditions/muscle-cramps.md)과 과로 후 넓게 쑤시는 [전신근육통](../conditions/whole-body-ache.md)은 구분합니다. [백작약](../herbs/white-peony.md)이 들어가는 쌍화탕·소경활혈탕과의 차이는 [통증 본초·방제 비교](../herbal-integrated/formula-for-pain.md)에서 볼 수 있습니다. 경련 연구와 운동 후 근육통 연구는 대상·평가 지표를 구분해 확인합니다.

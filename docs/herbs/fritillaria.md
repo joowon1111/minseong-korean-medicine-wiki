@@ -52,4 +52,4 @@ last_reviewed: 2026-09-16
 - [행인·천패모·반하 비교](../herbal-integrated/herb-comparisons.md#apricot-fritillaria-pinellia)
 - [기침 감별](../conditions/cough.md)
 
-> 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

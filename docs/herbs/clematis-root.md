@@ -42,7 +42,7 @@ tags: [본초학, 위령선, 처방구성, 원문해석]
 
 현대 제품에서는 위령선·괄루근·하고초 복합 추출물 SKI306X가 무릎 골관절염에서 평가됐습니다. [세 본초의 역할·염증 기전·임상시험](../herbal-integrated/formula-for-pain.md#joins-three-herbs)과 전통 배합을 나누어 읽으면, 본초가 현대 연구로 이어지는 경로를 확인할 수 있습니다.
 
-2004년의 4주 무작위 이중눈가림 시험은 무릎 골관절염 환자 249명에서 SKI306X와 디클로페낙 서방제를 비교했습니다. 위령선 한 가지가 아니라 원료와 추출법이 정해진 세 약재 복합제의 단기 연구입니다. 따라서 이 결과를 위령선 단독 탕제나 모든 관절통의 효과로 바꾸어 읽지 않습니다. [시험 원 논문·PMID 15315266](https://pubmed.ncbi.nlm.nih.gov/15315266/) · [연구 내용과 제품 구분](../herbal-integrated/formula-for-pain.md#ski306x-clinical-trial)
+2004년의 4주 무작위 이중눈가림 시험은 무릎 골관절염 환자 249명에서 SKI306X와 디클로페낙 서방제를 비교했습니다. 위령선 한 가지가 아니라 원료와 추출법이 정해진 세 약재 복합제의 단기 연구입니다. 결과는 위령선을 포함한 실제 제제와 관절통의 대상 조건에 맞춰 확인합니다. [시험 원 논문·PMID 15315266](https://pubmed.ncbi.nlm.nih.gov/15315266/) · [연구 내용과 제품 구분](../herbal-integrated/formula-for-pain.md#ski306x-clinical-trial)
 
 ## 기원·포제·사용 시 확인점 {#identity-processing}
 

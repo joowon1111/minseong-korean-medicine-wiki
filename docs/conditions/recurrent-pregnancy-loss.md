@@ -38,7 +38,7 @@ ESHRE 2022 업데이트도 두 번 이상의 임신 소실 후 평가를 논의�
 
 고전의 활태(滑胎), 태루(胎漏), 태동불안(胎動不安)은 현대 RPL의 정의·원인과 동일하지 않습니다. [신허·기혈허·혈열·혈어 등의 증후](../womens-health/fertility-patterns.md)를 감별하며 [수태환](../formulas/shoutai-wan.md)·[태산반석산](../formulas/taishan-panshi-san.md)은 서로 다른 전통 치법의 예입니다.
 
-Cochrane 2016 [CD010568](https://www.cochrane.org/evidence/CD010568_chinese-herbal-medicines-unexplained-recurrent-miscarriage)는 원인불명 반복유산의 한약 단독·병용을 검토했습니다. 병용의 유리한 출산 보고가 있지만 시험의 질·처방 이질성·안전성 보고 제한으로 효과와 안전성을 확정하기 어렵습니다. 침의 RPL 특이 생아출산 근거도 충분하지 않습니다. 연구가 부족하다는 이유로 전통 활용 자체를 지우거나, 반대로 특정 처방이 유산을 예방한다고 보장하지 않습니다.
+Cochrane 2016 [CD010568](https://www.cochrane.org/evidence/CD010568_chinese-herbal-medicines-unexplained-recurrent-miscarriage)는 원인불명 반복유산의 한약 단독·병용을 검토했습니다. 병용의 유리한 출산 보고가 있지만 시험의 질·처방 이질성·안전성 보고 제한으로 효과와 안전성을 확정하기 어렵습니다. 침의 RPL 특이 생아출산 근거도 충분하지 않습니다. 전통적인 활용은 병증과 배합으로 설명하고, 유산 예방과 안전성은 해당 임상연구와 산과 평가를 함께 확인합니다.
 
 ## 생활·안전과 FAQ
 

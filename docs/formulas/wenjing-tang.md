@@ -114,7 +114,7 @@ last_reviewed: 2026-09-06
 
 [자궁내막증](../conditions/endometriosis.md)·[선근증](../conditions/adenomyosis.md)에서는 통증 결과와 난임 결과를 구분합니다. [난임·ART 근거카드](../authority/conditions/female-infertility-art.md)의 임신·생아출산 자료와 [임신 시기 안전성](../herbal-integrated/safety.md#fertility-pregnancy-safety)을 함께 확인합니다.
 
-침과 온경탕을 함께 사용한 연구는 복합치료 근거로 별도 구분합니다. 처방 자체의 효과와 동일하게 해석하지 않습니다.
+침과 온경탕을 함께 사용한 연구는 복합치료 근거로 별도 구분합니다. 처방과 성분·기전 연구는 시험물과 평가 목적별로 구분해 확인합니다.
 
 ## 안전성과 진료 연결 {#_6}
 

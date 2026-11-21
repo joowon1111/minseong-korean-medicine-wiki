@@ -93,7 +93,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 <summary>출처·원문과 해석 범위</summary>
 
 
-**표준 정보:** [KMCRIC 상거허 ST37](https://www.kmcric.com/database/acupoint/ST/ST37)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 상거허 ST37](https://www.kmcric.com/database/acupoint/ST/ST37)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -130,7 +130,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 
 ## 현대 연구
 
-Wang 등(2023)은 복강경 대장암 절제 후 조기회복 관리에 더한 전침과 모의전침을 비교했습니다. 분석 대상은 248명이었고 첫 배변까지 중앙값은 전침군 76.4시간, 모의전침군 90.0시간이었습니다. 중완·천추·족삼리·상거허에 자침하고 족삼리에 전극을 연결한 병원 내 복합 치료이며 상거허 단독 효과를 평가한 시험은 아닙니다. [원 논문, *JAMA Surgery*](https://pubmed.ncbi.nlm.nih.gov/36322060/) · [연구의 치료 구성과 결과](../../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial)
+Wang 등(2023)은 복강경 대장암 절제 후 조기회복 관리에 더한 전침과 모의전침을 비교했습니다. 분석 대상은 248명이었고 첫 배변까지 중앙값은 전침군 76.4시간, 모의전침군 90.0시간이었습니다. 중완·천추·족삼리·상거허에 자침하고 족삼리에 전극을 연결한 병원 내 복합 치료를 평가한 시험입니다. [원 논문, *JAMA Surgery*](https://pubmed.ncbi.nlm.nih.gov/36322060/) · [연구의 치료 구성과 결과](../../acupuncture-integrated/points-for-digestion.md#postoperative-ileus-trial)
 
 ## 관련 문서
 

@@ -123,7 +123,7 @@ WHO 361경혈은 [표준 경혈 아틀라스](../acupoint-network/standard-atlas
 | 피로·눈의 불편 | [상삼황](thigh-medial.md) | [피로·원기회복](../conditions/energy-recovery.md) |
 | 비염·피부 불편 | [사마혈](thigh.md) | [알레르기비염 근거](../conditions/rhinitis.md#evidence) |
 
-표의 연결은 전승의 활용 맥락과 현재의 임상 질문을 함께 찾는 길입니다. 링크된 일반 침 연구가 해당 동씨 혈군의 효과를 직접 검증한 연구라는 뜻은 아닙니다. **동씨침과 일반 경혈침을 직접 비교한 고령자 만성요통 무작위시험**은 [기존 침구 근거 문서](../acupuncture-integrated/evidence.md#tung-study)에 대상·비교군·결과를 정리했습니다.
+표의 연결은 전승의 활용 맥락과 현재의 임상 질문을 함께 찾는 길입니다. 일반 침 연구와 동씨 혈군의 연구는 실제 사용한 혈위 구성별로 확인합니다. **동씨침과 일반 경혈침을 직접 비교한 고령자 만성요통 무작위시험**은 [기존 침구 근거 문서](../acupuncture-integrated/evidence.md#tung-study)에 대상·비교군·결과를 정리했습니다.
 
 원위 배혈 체계를 함께 공부할 때는 [사암침법](../acupuncture-specific/saam-acupuncture.md)의 정격·승격과 동씨 혈군의 구성·위치 기준을 구분합니다. [태극침법](../taegeuk-acupuncture/index.md#comparison)의 체질별 세 혈 구성도 함께 비교할 수 있습니다. 병행 치료의 기록과 재평가는 [임상 선택 문서](../acupuncture-specific/saam-clinical-selection.md#integration)에서 이어집니다.
 

@@ -48,7 +48,7 @@ tags: [양생, 치미병, 예방의학, 만성질환 관리, 기능 회복, 일�
 | 혈압 관리에서 운동 방식이 다른가 — *JAMA Network Open* 2024 | 혈압 경계 범위 성인 342명, 태극권과 유산소운동, 12개월 | 진료실 수축기혈압 변화의 군 간 차이 −2.4 mmHg. 심혈관 사건 감소를 직접 입증한 시험은 아님. [상세](../conditions/high-blood-pressure-checkup.md#tai-chi-blood-pressure) · [논문](https://doi.org/10.1001/jamanetworkopen.2023.54937) |
 | 섬유근육통에서 다른 운동보다 나은가 — Wang 등, *BMJ* 2018 | 226명, 기간·횟수가 다른 태극권 네 군과 유산소운동군 | 24주 FIQR 개선 폭은 태극권 네 군을 합친 분석에서 5.5점 더 큼. 통증·생활기능 종합척도이며 프로그램 조건을 확인. [직접 비교 상세](../authority/conditions/fibromyalgia.md#tai-chi-aerobic-comparison) · [앞선 NEJM 2010 시험](../authority/conditions/fibromyalgia.md#tai-chi-functional-trial) · [논문](https://doi.org/10.1136/bmj.k851) |
 
-전통 운동 연구는 양생과 연결되는 중재의 사례이며 한의진료 전체의 효과 수치가 아닙니다. 통상관리 추가시험은 실제 진료에서의 추가 가치를, 적극적 비교시험은 다른 선택지와의 차이를 설명합니다. 숫자만 나열한 순위보다 대상·시행 방식·추적기간을 먼저 맞춥니다.
+전통 운동 연구는 양생과 연결되는 구체적인 중재를 평가한 사례입니다. 통상관리 추가시험은 실제 진료에서의 추가 가치를, 적극적 비교시험은 다른 선택지와의 차이를 설명합니다. 숫자만 나열한 순위보다 대상·시행 방식·추적기간을 먼저 맞춥니다.
 
 ## 일본 의사·연구진의 캄포 연구 {#japan-kampo}
 
@@ -67,13 +67,13 @@ tags: [양생, 치미병, 예방의학, 만성질환 관리, 기능 회복, 일�
 | Hirai 등, 2020 | 65세 이상 노쇠·전노쇠 COPD 환자 68명 배정·62명 분석, 24주 공개 무작위시험 | 식욕·COPD 건강상태·불안·우울 지표 개선. 노쇠 체크리스트의 군 간 차이는 유의하지 않음. [논문](https://pubmed.ncbi.nlm.nih.gov/32551796/) |
 | Hiroyuki Ohbayashi — 기후현 Tohno Chuo Clinic 등, 2024 | 안정적 COPD와 피로, 53명 완료·분석. 즉시 복용과 12주 지연 복용 비교 | 처음 12주에 피로와 무릎 폄 근력 개선 차이. 보행속도 차이는 유의하지 않음. [논문](https://doi.org/10.2147/COPD.S441767) · [PMID 38737191](https://pubmed.ncbi.nlm.nih.gov/38737191/) |
 
-**인삼양영탕(Ninjin'yoeito)** 연구는 ‘기력을 보한다’는 설명을 식욕·피로·근력·보행으로 나누어 측정합니다. COPD 표준치료에 동반된 허약을 다룬 공개시험이며, 건강한 고령자의 일반적 노화 예방이나 모든 근감소증에 대한 결과로 옮기지 않습니다. 2024년 시험의 후반에는 두 군 모두 복용하므로 계속 미복용군과 비교한 효과가 아닙니다. [제제·안전성·연구 상세](../formulas/renshen-yangrong-tang.md#frailty-trials) · [근감소증·노쇠](../conditions/frailty-sarcopenia.md)
+**인삼양영탕(Ninjin'yoeito)** 연구는 ‘기력을 보한다’는 설명을 식욕·피로·근력·보행으로 나누어 측정합니다. COPD 표준치료에 동반된 허약을 다룬 공개시험이며, 건강한 고령자의 일반적 노화 예방이나 모든 근감소증에 대한 결과로 옮기지 않습니다. 2024년 시험의 후반은 두 군 모두 복용한 조건에서 경과를 관찰했습니다. [제제·안전성·연구 상세](../formulas/renshen-yangrong-tang.md#frailty-trials) · [근감소증·노쇠](../conditions/frailty-sarcopenia.md)
 
 ### Shimada 연구진: 대건중탕과 간절제 뒤 장기능 {#daikenchuto}
 
 **Mitsuo Shimada 등, 일본 26개 기관의 3상 시험**은 간절제 환자 231명 등록, **209명 분석**으로 대건중탕(Daikenchuto, TU-100)과 위약을 비교했습니다. 발관 후 첫 배변 중앙값은 **88.2시간 대 93.1시간**이었습니다. 다른 주평가인 염증·암모니아 지표에는 차이가 없었습니다. 2014년 온라인 공개, 2015년 권호 논문입니다. [원 논문](https://doi.org/10.1007/s10147-014-0678-2) · [PMID 24595550](https://pubmed.ncbi.nlm.nih.gov/24595550/)
 
-고전 처방을 현대 외과의 회복 과정에 병행하여 비교한 사례입니다. 첫 배변이 빨라지는 결과를 입원기간 단축·암 치료·생존 개선으로 확대하지 않습니다. [대건중탕 간절제 시험](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial)에서 제제와 투여 조건을, [간이식 시험](../formulas/dajianzhong-tang.md#japanese-transplant-trial)에서 다른 수술의 영양 결과를 따로 확인합니다.
+고전 처방을 현대 외과의 회복 과정에 병행하여 비교한 사례입니다. 첫 배변 시점·입원기간·생존 등은 연구가 실제 평가한 항목별로 확인합니다. [대건중탕 간절제 시험](../formulas/dajianzhong-tang.md#japanese-hepatectomy-trial)에서 제제와 투여 조건을, [간이식 시험](../formulas/dajianzhong-tang.md#japanese-transplant-trial)에서 다른 수술의 영양 결과를 따로 확인합니다.
 
 ### 일본 연구를 국내 진료에 연결할 때 {#translation-to-care}
 

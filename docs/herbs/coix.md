@@ -54,7 +54,7 @@ description: 의이인의 건비삼습·제비, 삼령백출산·태음조위탕
 
 ## 관련 변증·처방·치료로 이어가기 {#immune-metabolic-network}
 
-의이인의 건비·이습 역할을 태음조위탕 등 실제 처방 배합과 연결해 봅니다. 약재 하나나 부종의 변화를 곧바로 체지방 감량 효과로 해석하지 않습니다.
+의이인의 건비·이습 역할을 태음조위탕 등 실제 처방 배합과 연결해 봅니다. 부종·체중·체지방은 각각의 평가 지표와 경과로 확인합니다.
 
 [비만 평가·변증·치료](../conditions/obesity.md) · [다이어트 한약 비교](../conditions/weight-management-herbal.md) · [건강한 다이어트·유지](../conditions/healthy-weight-management.md)
 
@@ -62,4 +62,4 @@ description: 의이인의 건비삼습·제비, 삼령백출산·태음조위탕
 
 [본초 찾기](../herbal-integrated/herbs.md) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [방제 찾기](../herbal-integrated/formulas.md)
 
-> 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

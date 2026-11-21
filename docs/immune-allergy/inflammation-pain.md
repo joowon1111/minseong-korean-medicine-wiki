@@ -64,7 +64,7 @@ last_reviewed: 2026-09-06
 
 IBS에서는 정상 범위의 가스·변 자극에도 통증을 더 크게 느낄 수 있습니다. 이러한 장 감각과 운동의 설명은 궤양성대장염·크론병 같은 염증성장질환의 진단과 다릅니다. 혈변·야간설사·체중감소 등은 별도로 확인합니다. [NIDDK IBS 기전 안내](https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/symptoms-causes) · [IBS와 염증 감별](../conditions/ibs.md#diagnostic-tests)
 
-장내미생물·발효식품 연구에서 균 다양성이나 염증 지표가 달라졌다고, 특정 한약·효소·유산균이 같은 결과를 만든다고 단정하지 않습니다. 제품의 조성과 대상이 일치하는지 확인합니다. [장 점막·식사·효소 연구의 차이](gut-recovery.md#gut-immune-evidence)
+장내미생물·발효식품 연구는 실제 사용한 식품·제형과 미생물·염증 지표를 구분해 확인합니다. 제품의 조성과 대상이 일치하는지 확인합니다. [장 점막·식사·효소 연구의 차이](gut-recovery.md#gut-immune-evidence)
 
 ### ‘면역력이 떨어진 느낌’을 구체적인 문제로 바꾸기 {#immune-concerns}
 
@@ -275,7 +275,7 @@ CRP·ESR은 염증 평가를 돕지만 위치·원인이나 통증의 강도를 
 
 ### 유산균·효소·발효식품을 같은 것으로 보지 않습니다 {#products-and-outcomes}
 
-프로바이오틱스는 건강상 이점을 목적으로 사용하는 살아 있는 미생물이고, 프리바이오틱스는 유익한 미생물의 활동을 돕는 성분입니다. 곡물효소는 원료와 효소 활성, 살아 있는 균 포함 여부를 제품별로 확인합니다. 발효라는 제조 과정이나 ‘장 건강’이라는 이름만으로 같은 작용·효과를 가진 제품이 되지는 않습니다. [NCCIH 프로바이오틱스 정의·안전](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)
+프로바이오틱스는 건강상 이점을 목적으로 사용하는 살아 있는 미생물이고, 프리바이오틱스는 유익한 미생물의 활동을 돕는 성분입니다. 곡물효소는 원료와 효소 활성, 살아 있는 균 포함 여부를 제품별로 확인합니다. 발효 제품은 실제 원료·균주·공정·함량과 평가한 연구 결과를 확인합니다. [NCCIH 프로바이오틱스 정의·안전](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)
 
 특히 중증질환·면역저하가 있으면 살아 있는 미생물 제품의 사용을 진료에서 먼저 확인합니다. 반응은 팽만·배변 같은 증상, 섭취·체중, 원인질환 지표로 나누어 봅니다. [곡물효소의 성분·연구 범위](../conditions/grain-fermented-enzymes.md#digestive-roles)
 

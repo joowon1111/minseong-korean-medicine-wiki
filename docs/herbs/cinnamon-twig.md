@@ -84,4 +84,4 @@ Cinnamomi Ramulus 및 cinnamaldehyde를 포함한 성분 연구에서는 염증�
 - [계지와 육계의 성분 비교 연구](https://doi.org/10.3390/molecules28052015) — 약용 부위별 성분 차이
 - [해표 효능 표준](../herbal-integrated/efficacy-indication-standard.md#release-exterior) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md#exterior-releasing-herbs) · [복용 안전 안내](../herbal-integrated/safety.md)
 
-> 전통 본초와 연구 근거를 연결한 교육 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

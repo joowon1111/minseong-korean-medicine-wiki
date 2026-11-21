@@ -31,7 +31,7 @@ source_standard: KM-Agent CC BY 4.0 / WHO-derived metadata
 
 ## 진료지침에서의 배혈
 
-[알레르기 비염 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=167)은 성인 알레르기 비염의 침치료에서 인당·영향·합곡·족삼리 등을 대표적으로 사용한 혈위로 소개합니다. [불면장애 지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164)은 성인 원발성 불면의 전침 임상적 고려사항에 인당·사신총·백회·신문·삼음교를 제시합니다. 두 지침의 대상과 치료 구성이 다르며, 이는 인당 하나의 독립적 효과를 비교한 결과가 아닙니다.
+[알레르기 비염 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=167)은 성인 알레르기 비염의 침치료에서 인당·영향·합곡·족삼리 등을 대표적으로 사용한 혈위로 소개합니다. [불면장애 지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164)은 성인 원발성 불면의 전침 임상적 고려사항에 인당·사신총·백회·신문·삼음교를 제시합니다. 인당이 포함된 두 지침의 치료 구성과 대상 질환을 각각 확인할 수 있습니다.
 
 ## 수술 전 불안 연구 {#preoperative-anxiety}
 

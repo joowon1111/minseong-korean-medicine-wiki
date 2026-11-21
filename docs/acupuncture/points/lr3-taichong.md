@@ -47,7 +47,7 @@ last_reviewed: 2026-08-22
 **전통적 효능·주치**
 
 - **문헌에서 확인한 관련 부위:** 복부 · 하지 · 등 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
-- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 고전의 증상·부위별 경혈 활용을 설명합니다.
 - **천성십이혈의 관련 부위:** 머리·눈를 중심으로 활용한 고전 경혈군의 해석입니다. [출처 2](https://koreascience.kr/article/JAKO202432472148656.pdf)
 
 **현대 임상 활용**
@@ -55,7 +55,7 @@ last_reviewed: 2026-08-22
 - **기능성소화불량 지침의 배혈:** 성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다. [출처 3](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)
 - **불면장애 지침의 주요 혈위:** 성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다. [출처 4](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 **현대 연구에서 다루어진 분야**
 
@@ -70,7 +70,7 @@ last_reviewed: 2026-08-22
 4. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
 5. **임상시험의 원혈 사용 빈도 분석** — 최다현·이서영·이인선·류연희·채윤병. [데이터 마이닝을 이용한 임상연구 데이터베이스 기반 원혈의 주치 특성](https://pdf.medrang.co.kr/acu2/2021/038/acu-38-2-100.pdf#page=6). Korean Journal of Acupuncture. 2021;38(2):100–109. 경희대학교·한국한의학연구원; 대한경락경혈학회 학술지. **105쪽, 결과 1**. DOI: 10.14406/acu.2021.007.
 
-**표준 정보:** [KMCRIC 태충 LR3](https://www.kmcric.com/database/acupoint/LR/LR3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 태충 LR3](https://www.kmcric.com/database/acupoint/LR/LR3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

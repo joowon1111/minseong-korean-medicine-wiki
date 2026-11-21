@@ -13,7 +13,7 @@ last_reviewed: 2026-08-19
 
 식사 뒤 명치 아래가 더부룩하다고 표현하는 사람이 있습니다. 아픈 위치를 손으로 짚어 보게 하면 가슴뼈 아래와 배꼽 사이, 가운데를 가리키는 경우가 많습니다. 중완(中脘)은 이 부위의 앞정중선, 배꼽 위 네 촌에서 찾는 경혈입니다. 손으로 짚은 불편한 곳이 곧바로 정확한 혈자리라는 뜻은 아니므로, 실제 위치는 몸의 표지를 다시 확인합니다.
 
-『침구대성』 권7은 중완을 위의 모혈로 설명하고, 『난경』의 부회(腑會)를 함께 소개합니다. 같은 문헌에는 장위의 기운을 다루는 맥락에서 삼리와 중완을 함께 언급한 내용도 있습니다. 앞쪽 배의 혈과 무릎 아래 [족삼리 ST36](st36-zusanli.md)를 연결해 이해할 수 있는 대목입니다. 이는 고전의 선혈 기록이지, 특정 조합이 모든 소화불량에 동일한 효과를 낸다는 뜻은 아닙니다.
+『침구대성』 권7은 중완을 위의 모혈로 설명하고, 『난경』의 부회(腑會)를 함께 소개합니다. 같은 문헌에는 장위의 기운을 다루는 맥락에서 삼리와 중완을 함께 언급한 내용도 있습니다. 앞쪽 배의 혈과 무릎 아래 [족삼리 ST36](st36-zusanli.md)를 연결해 이해할 수 있는 대목입니다. 중완과 족삼리를 함께 활용한 고전의 선혈 기록입니다.
 
 현대 진료에서는 식후 바로 불편한지, 적은 양에도 빨리 배가 부른지, 명치 통증이나 타는 듯한 느낌이 주된 문제인지를 나눕니다. [내관 PC6](pc6-neiguan.md)·족삼리 등과 배혈을 검토할 때도 식사량과 식후 불편, 일상 기능이 어떻게 바뀌는지 함께 기록합니다. 지속되는 구토, 흑변, 원인 모를 체중 감소나 점점 심해지는 통증은 원인 평가가 필요합니다.
 
@@ -49,12 +49,12 @@ last_reviewed: 2026-08-19
 
 - **기능성소화불량 지침의 배혈:** 성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다. [출처 1](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 과민성장증후군 [출처 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -62,7 +62,7 @@ last_reviewed: 2026-08-19
 1. **임상진료지침의 일반침·전침 배혈** — 대한한방내과학회 지침 개발진. [기능성소화불량 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방내과학회·한국한의약진흥원; 국가한의임상정보포털. **142쪽(PDF 152쪽), R13 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=154&file_type=pdf#page=152).
 2. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 중완(中脘) CV12](https://www.kmcric.com/database/acupoint/CV/CV12)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 중완(中脘) CV12](https://www.kmcric.com/database/acupoint/CV/CV12)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

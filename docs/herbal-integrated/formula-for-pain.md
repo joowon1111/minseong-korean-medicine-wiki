@@ -249,7 +249,7 @@ last_reviewed: 2026-09-18
 
 연구진은 통증점수와 전반적 만족도에서 두 군의 효과가 비슷했다고 보고했습니다. 속쓰림 발생은 **SKI306X 4.0%, 디클로페낙 13.7%**로 추출물군에서 더 적었습니다. 통증 개선과 함께 복용 중 위장 불편을 비교했다는 점에서 참고할 수 있습니다.
 
-SKI306X는 위령선·괄루근·하고초를 바탕으로 한 표준화 복합 추출물입니다. 이 시험은 해당 제품의 단기 증상 개선 자료이며 연골 재생이나 모든 통증 처방의 장기 안전성을 입증한 연구는 아닙니다. 기존 2001년 위약 대조시험과는 별도 시험입니다.
+SKI306X는 위령선·괄루근·하고초를 바탕으로 한 표준화 복합 추출물입니다. 해당 제품의 단기 증상 변화를 평가한 자료입니다. 기존 2001년 위약 대조시험과는 별도 시험입니다.
 
 *A four-week, randomized, double-blind trial of the efficacy and safety of SKI306X: a herbal anti-arthritic agent versus diclofenac in osteoarthritis of the knee.* 2004. [PMID 15315266](https://pubmed.ncbi.nlm.nih.gov/15315266/) · [DOI 10.1142/S0192415X04001941](https://doi.org/10.1142/S0192415X04001941)
 

@@ -76,7 +76,7 @@ def render_profile(code, point, references, sources=None):
             if item.get('explanation'):
                 lines.append(f'- **{item["explanation_label"]}:** {item["explanation"]}')
         if layer == 'clinical':
-            lines += ['', '진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.']
+            lines += ['', '진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.']
         lines.append('')
     meridian = ''.join(c for c in code if c.isalpha())
     lines += ['<details markdown="1">', '<summary>출처·원문과 해석 범위</summary>', '']
@@ -92,8 +92,8 @@ def render_profile(code, point, references, sources=None):
             lines[-1] += f' [해당 쪽 PDF]({ref["pdf_url"]}).'
     lines += ['', f'**표준 정보:** [KMCRIC {point["name"]} {code}]'
               f'(https://www.kmcric.com/database/acupoint/{meridian}/{code})'
-              '에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, '
-              '이 링크를 주치·효능의 근거로 사용하지 않습니다.', '',
+              '에서 위치·취혈 정보를 확인할 수 있습니다. '
+              '혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.', '',
               '**위치 데이터:** [KM-Agent 경혈 자료]'
               '(https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), '
               'Won-Yung Lee 외 5인, 2026, [CC BY 4.0]'
@@ -181,7 +181,7 @@ def portal_sources(data, sources):
         '4주간 12회 치료했습니다. 4주 전체 치료 반응률은 83.0%와 51.6%, '
         '식후포만·상복부팽만·조기포만 세 증상의 소실률은 27.8%와 17.3%로 보고됐습니다. '
         '전반적 호전과 세 증상의 완전 소실은 서로 다른 결과입니다. '
-        '이 시험은 전체 배혈과 치료 일정의 결과이며, 개별 혈 하나의 효과를 따로 측정한 것은 아닙니다. '
+        '전체 배혈과 치료 일정에 따라 평가한 임상시험 결과입니다. '
         '16주 평가 완료는 228명으로, 탈락과 시술자 눈가림의 한계도 함께 확인합니다. '
         '[원 논문·PMID 32422066](https://pubmed.ncbi.nlm.nih.gov/32422066/).', '',
         '<details markdown="1">', '<summary>경혈 문헌·진료지침·임상연구 참고문헌</summary>', '']

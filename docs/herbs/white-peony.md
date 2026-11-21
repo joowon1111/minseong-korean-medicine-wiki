@@ -82,7 +82,7 @@ last_reviewed: 2026-10-23
 | [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants) | 보기·양혈약, 원지·오미자 | 『의학입문』 백작약 3량과 각 1량군, 1첩 배합의 2전·1전군을 구분 |
 | [소건중탕](../formulas/xiaojianzhong-tang.md) | 계지·감초·교이 | 작약 비중과 교이 첨가로 허로성 복통·완급을 중심에 둠 |
 
-백작약의 paeoniflorin과 albiflorin 같은 배당체, **총작약배당체(TGP)**는 서로 다른 연구 단위입니다. TGP 제제의 면역질환 임상자료를 백작약 절편이 들어간 보약의 ‘면역 증강’ 효과로 바꾸지 않습니다. 장관·근육의 수축 변화와 임상 통증·경련·활동 기능도 나누어 평가합니다. [TGP 성분·연구 고찰](https://pubmed.ncbi.nlm.nih.gov/27279421/)
+백작약의 paeoniflorin과 albiflorin 같은 배당체, **총작약배당체(TGP)**는 서로 다른 연구 단위입니다. TGP 제제의 면역질환 연구와 백작약 절편을 포함한 보약 연구는 시험물별로 구분합니다. 장관·근육의 수축 변화와 임상 통증·경련·활동 기능도 나누어 평가합니다. [TGP 성분·연구 고찰](https://pubmed.ncbi.nlm.nih.gov/27279421/)
 
 작약감초탕의 연구를 비교할 때도 원료 표기가 중요합니다. 2025년 혈액투석 환자의 근경련 교차시험은 논문 초록에 적작약과 감초를 사용했다고 명시합니다. [적작약의 연구 설명](red-peony.md#dialysis-trial)에서 대상·비교 기간을 확인하고, 이를 백작약 단독효과나 모든 작약감초탕 제제의 결과로 합치지 않습니다. 감초를 함께 쓰는 처방에서는 총 감초 노출과 혈압·부종·칼륨을 함께 살핍니다.
 
@@ -111,4 +111,4 @@ last_reviewed: 2026-10-23
 - [《동의보감》 탕액편의 백작약](../classics/donguibogam/tangyeok/white-peony.md)
 - [보혈·활혈 본초 지식망](categories/blood.md) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
-> 전통 본초와 연구 근거를 연결한 교육 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

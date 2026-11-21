@@ -134,7 +134,7 @@ last_reviewed: '2026-09-21'
 | 신축본 12-10 | “素有怔忡 無汗 氣短 結咳矣” — 평소 증후를 먼저 적고 새 설사와 온병, 식사 회복을 이어 기록 | [태음인의 평소 병과 새 병](../classical-stories/sasang/taeeumin-baseline-recovery.md) · [하루 카드](../daily-korean-medicine/index.md) |
 | 신축본 13-31 | “至六日 有大便一日不通之證” — 앞선 무른 변 뒤 엿새째 배변 변화가 생김 | [태음인 처방 조정 의안](../classical-stories/sasang/taeeumin-formula-adjustment.md) · [하루 카드](../daily-korean-medicine/index.md) |
 
-첫 사례는 정충·무한·기단·결해 등 평소 상태와 급성 병의 회복을 한 흐름 안에 기록하고, 둘째 사례는 대변이 변하는 시점에 처방을 조정한 경과를 적습니다. 두 기록은 각각 한 환자의 역사적 의안입니다. 오늘날의 감염, 설사, 변비를 같은 처방으로 치료하라는 지침이나 현대 임상시험의 효과 근거를 뜻하지 않습니다. 세부 처방 구성과 가감은 각 의안의 출전, [태음인 처방군](../sasang-formula-cards/index.md#taeeumin-formulas), [확장 처방](../sasang-formula-library/taeeumin-extended-formulas.md)에서 구분해 확인합니다.
+첫 사례는 정충·무한·기단·결해 등 평소 상태와 급성 병의 회복을 한 흐름 안에 기록하고, 둘째 사례는 대변이 변하는 시점에 처방을 조정한 경과를 적습니다. 두 기록은 각각 한 환자의 역사적 의안입니다. 해당 기록은 체질 병증의 문맥에서 처방 선택과 경과를 설명한 역사적 자료입니다. 세부 처방 구성과 가감은 각 의안의 출전, [태음인 처방군](../sasang-formula-cards/index.md#taeeumin-formulas), [확장 처방](../sasang-formula-library/taeeumin-extended-formulas.md)에서 구분해 확인합니다.
 
 ## 처방을 고르는 임상 흐름 {#formula-selection}
 

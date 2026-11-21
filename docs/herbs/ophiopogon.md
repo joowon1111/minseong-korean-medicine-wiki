@@ -109,4 +109,4 @@ last_reviewed: 2026-10-23
 - [《동의보감》 탕액편의 맥문동](../classics/donguibogam/tangyeok/ophiopogon.md)
 - [기침](../conditions/cough.md) · [마른기침](../conditions/dry-cough.md) · [본초 찾기](../herbal-integrated/herbs.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
-> 본초 지식을 설명한 자료이며 특정 증상에 대한 자가 처방 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

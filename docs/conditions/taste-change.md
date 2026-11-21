@@ -61,7 +61,7 @@ last_reviewed: 2026-09-06
 
 ## 한약은 동반 병증에 맞춰 비교합니다 {#taste-formulas}
 
-식욕저하·더부룩함과 비위허약은 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), 위음부족과 건조는 [맥문동탕](../formulas/maidong-tang.md), 기음부족·피로는 [생맥산](../formulas/shengmai-san.md)의 배합을 전통적으로 비교합니다. 소화나 건조의 호전과 미각 자체의 회복은 별도 목표로 평가합니다. 해당 처방들이 모든 미각장애를 회복시킨다는 의미는 아닙니다.
+식욕저하·더부룩함과 비위허약은 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md), 위음부족과 건조는 [맥문동탕](../formulas/maidong-tang.md), 기음부족·피로는 [생맥산](../formulas/shengmai-san.md)의 배합을 전통적으로 비교합니다. 소화나 건조의 호전과 미각 자체의 회복은 별도 목표로 평가합니다. 미각장애의 원인과 동반 증후에 따라 처방의 배합 역할을 비교합니다.
 
 《의학입문》의 구설순 문목과 고전의 구담·구고 같은 표현은 구강의 맛·건조·전신 증후를 관찰하는 언어입니다. 이를 현대 미각검사의 저하와 동일시하지 않고 현재 증상과 대조합니다. [구강·치아의 고전 탐색](../classics/uihak-ipmun.md#oral-dental-reading)
 

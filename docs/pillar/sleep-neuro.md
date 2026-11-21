@@ -119,7 +119,7 @@ last_reviewed: 2026-09-19
 | 불안·우울의 치료 연구는? | [불안](../conditions/anxiety.md#anxiety-research) · [우울](../authority/conditions/depression.md) · [정서 처방 연구](../authority/formulas/depression-herbal-formula-map.md) | 기분척도·수면·회피·생활기능을 구분하고 병용 조건 확인 |
 | 이명·하지불안은 어떻게 평가했나요? | [이명](../authority/conditions/tinnitus.md) · [하지불안](../authority/conditions/restless-legs-syndrome.md) | 이명 부담·수면과 청력, 하지불안 중증도와 철 상태를 각각 확인 |
 
-설문 점수와 수면·신경검사의 결과, 한 사람의 전후 변화와 비교군 대비 효과는 구분합니다. 전침 연구의 결과를 모든 약침·한약 또는 복합치료 전체의 효과로 옮기지 않습니다. 원 논문은 [불면 전침시험](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793930), [산조인탕 종합연구](https://pubmed.ncbi.nlm.nih.gov/36459033/), [편두통 예방시험](https://www.bmj.com/content/368/bmj.m697)에서 확인할 수 있습니다.
+설문 점수와 수면·신경검사의 결과, 한 사람의 전후 변화와 비교군 대비 효과는 구분합니다. 전침·약침·한약·복합치료는 실제 구성과 자극 방식에 맞춰 연구를 구분합니다. 원 논문은 [불면 전침시험](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793930), [산조인탕 종합연구](https://pubmed.ncbi.nlm.nih.gov/36459033/), [편두통 예방시험](https://www.bmj.com/content/368/bmj.m697)에서 확인할 수 있습니다.
 
 [불면 임상 지식망](../conditions/insomnia.md) · [화병의 통합치료](../conditions/hwabyeong.md) · [현대 임상근거 허브](clinical-evidence.md)
 

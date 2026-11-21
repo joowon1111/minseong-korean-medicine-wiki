@@ -11,7 +11,7 @@ tags: [경혈, 족소양담경, 특정혈, 침구]
 
 『영추』 「본수」는 **“過于丘墟”**라고 적고 구허를 바깥 복사 앞아래의 원혈로 소개합니다. 발가락 사이의 협계와 발등의 족임읍을 거쳐 구허, 다리 바깥의 양보, 무릎 바깥의 양릉천으로 이어지는 담경의 배열입니다. 이름의 글자에서 언덕과 빈터를 떠올릴 수 있지만, 이를 확인된 작명 일화로 단정하기보다 발목의 지형과 원문의 기록부터 살펴봅니다.
 
-발목이 아플 때는 접질린 방향과 부은 자리, 발을 딛고 걸을 수 있는지를 먼저 확인합니다. 골절 가능성이나 심한 보행 제한이 있으면 이에 대한 평가가 우선입니다. 아래에 연결한 연구는 임상시험에서 구허가 사용된 양상을 분석한 자료이며, 구허 단독의 치료 효과를 따로 평가한 결과는 아닙니다.
+발목이 아플 때는 접질린 방향과 부은 자리, 발을 딛고 걸을 수 있는지를 먼저 확인합니다. 골절 가능성이나 심한 보행 제한이 있으면 이에 대한 평가가 우선입니다. 아래 연구는 임상시험에서 구허를 사용한 배혈 양상을 분석한 자료입니다.
 
 출전: [『황제내경 영추』 「본수」 족소양담경 대목](https://ctext.org/wiki.pl?chapter=259343&if=en).
 
@@ -83,14 +83,14 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 급성 발목염좌 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
 
 1. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 구허 GB40](https://www.kmcric.com/database/acupoint/GB/GB40)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 구허 GB40](https://www.kmcric.com/database/acupoint/GB/GB40)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

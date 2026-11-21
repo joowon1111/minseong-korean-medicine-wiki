@@ -50,7 +50,7 @@ last_reviewed: 2026-08-22
 
 - **불면장애 지침의 변증별 추가 혈위:** 간울화화 변증에 추가하는 혈로 제시됩니다. 모든 불면 환자의 공통 배혈은 아닙니다. [출처 2](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -58,7 +58,7 @@ last_reviewed: 2026-08-22
 1. **황제내경의 오수혈 문헌연구** — 김도훈·백유상. [황제내경의 오수혈 임상 활용 연구 – 사용 빈도와 선혈을 중심으로](https://koreascience.kr/article/JAKO202007650436656.pdf). Korean Journal of Acupuncture. 2020;37(4):276–283. 가천대학교·경희대학교; 대한경락경혈학회. **281쪽 표 8**. DOI: 10.14406/acu.2020.035.
 2. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
 
-**표준 정보:** [KMCRIC 행간 LR2](https://www.kmcric.com/database/acupoint/LR/LR2)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 행간 LR2](https://www.kmcric.com/database/acupoint/LR/LR2)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -94,7 +94,7 @@ last_reviewed: 2026-08-22
 
 ## 현대 연구를 읽는 법
 
-행간은 두통의 침·한약 병용 비교시험에서 백회·풍지·솔곡 등과 함께 사용됐습니다. 연구의 혈관성 두통이라는 대상 정의와 배혈 전체를 확인하며, 현재 편두통의 진단 기준이나 행간 단독 효과로 바꾸어 읽지 않습니다. [두통 연구와 평가](../../conditions/headache.md#lr2-headache-study)
+행간은 두통의 침·한약 병용 비교시험에서 백회·풍지·솔곡 등과 함께 사용됐습니다. 연구에서 정한 혈관성 두통의 대상 정의와 행간을 포함한 배혈 구성을 함께 확인합니다. [두통 연구와 평가](../../conditions/headache.md#lr2-headache-study)
 
 현대 침구 연구에서는 혈명뿐 아니라 표준 위치, 자침 깊이·방향, 수기·전침 조건, 유침시간, 치료 횟수와 결과지표를 함께 봅니다. WHO 표준 위치는 연구·교육에서 위치의 재현성을 높이는 기준으로 활용됩니다.
 

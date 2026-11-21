@@ -66,7 +66,7 @@ description: 치자의 사화제번·청열이습·량혈해독, 주요 처방·
 
 ## 현대 연구는 무엇을 측정했나요?
 
-치자 연구에서는 **iridoid glycoside인 geniposide, crocin류 색소와 여러 phenolic compound**가 분석됩니다. 전임상 연구에서 염증·대사·신경·간담도 관련 지표가 보고되지만, 분리 성분이나 동물모델 결과가 치자 함유 처방의 사람 대상 효과를 뜻하지는 않습니다.
+치자 연구에서는 **iridoid glycoside인 geniposide, crocin류 색소와 여러 phenolic compound**가 분석됩니다. 분리 성분과 동물모델에서 염증·대사·신경·간담도 지표를 평가한 전임상 자료입니다.
 
 | 근거 층위 | 실제 연구 대상 | 읽을 수 있는 범위 | 확대하면 안 되는 결론 |
 |---|---|---|---|
@@ -94,4 +94,4 @@ description: 치자의 사화제번·청열이습·량혈해독, 주요 처방·
 - [청열약 5분류 비교](../herbal-integrated/heat-clearing-herbs.md) · [본초 효능·주치 표준](../herbal-integrated/efficacy-indication-standard.md)
 - [본초·방제 안전·복용 주의](../herbal-integrated/safety.md)
 
-> 전통 본초 지식과 현대 연구의 층위를 구분한 교육 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

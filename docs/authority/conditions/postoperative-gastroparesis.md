@@ -21,7 +21,7 @@ description: "수술 후 위마비를 장운동 저하·마취 후 오심구토�
 | 위장 기능 | 위관 유지기간·위액 배액량 등의 감소를 보고. 퇴원일이나 정상 식사 복귀와 같은 결과로 바꾸지 않음 |
 | 안전성 | 4개 연구만 이상반응 자료를 보고했고, 나머지는 보고가 부족함 |
 
-참여자·시술자 눈가림은 보고되지 않았고, 배정 은폐·평가자 눈가림도 충분히 확인되지 않았습니다. 현재 수술팀 치료에 병행하는 회복 자료로 읽되 특정 전침법이나 약침 제제의 효과·안전성으로 일괄 적용하지 않습니다. [연구 원문](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1494693/full) · [PMID 39835105](https://pubmed.ncbi.nlm.nih.gov/39835105/) · [DOI](https://doi.org/10.3389/fmed.2024.1494693)
+참여자·시술자 눈가림은 보고되지 않았고, 배정 은폐·평가자 눈가림도 충분히 확인되지 않았습니다. 수술팀의 기존 치료에 병행한 침치료의 회복 자료로, 실제 사용한 시술과 평가 결과에 맞춰 살펴봅니다. [연구 원문](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1494693/full) · [PMID 39835105](https://pubmed.ncbi.nlm.nih.gov/39835105/) · [DOI](https://doi.org/10.3389/fmed.2024.1494693)
 ## 한의학 지식망
 비위기허·위기상역·담음은 식욕·오심·냉열·피로를 함께 읽는 변증 축입니다. 구조적 원인과 수술 후 합병증을 확인한 뒤 처방과 침구치료의 목표를 정합니다. [육군자탕의 위절제 후 연구](../../research/formulas/rikkunshito.md#postgastrectomy-study)는 상부위장관 증상, [대건중탕](../../formulas/dajianzhong-tang.md)은 수술 후 가스·배변 등 장기능 연구로 구분해 연결합니다.
 ## 치료 연결

@@ -85,14 +85,14 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 만성콩팥병 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
 
 1. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 수삼리 LI10](https://www.kmcric.com/database/acupoint/LI/LI10)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 수삼리 LI10](https://www.kmcric.com/database/acupoint/LI/LI10)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 
@@ -102,7 +102,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 
 **임상 평가·배혈 연결**
 
-팔꿈치·전완의 통증 부위와 물건을 잡거나 손목을 움직일 때의 변화, 감각·근력을 확인합니다. 수삼리는 [곡지 LI11](li11-quchi.md)보다 아래팔 쪽에 있으며, 손의 [합곡 LI4](li4-hegu.md)과도 위치를 비교합니다. 위의 만성콩팥병 자료는 혈위 사용 양상의 분석이므로 상지 증상에 대한 별도의 임상 효과로 바꾸어 읽지 않습니다. 신기능과 동반 질환은 담당 진료와 함께 확인합니다. [평가 자료](../../conditions/tennis-elbow.md)
+팔꿈치·전완의 통증 부위와 물건을 잡거나 손목을 움직일 때의 변화, 감각·근력을 확인합니다. 수삼리는 [곡지 LI11](li11-quchi.md)보다 아래팔 쪽에 있으며, 손의 [합곡 LI4](li4-hegu.md)과도 위치를 비교합니다. 위 만성콩팥병 자료는 해당 질환에서 혈위를 사용한 양상을 분석한 연구입니다. 신기능과 동반 질환은 담당 진료와 함께 확인합니다. [평가 자료](../../conditions/tennis-elbow.md)
 
 임상 평가는 아카이브의 평가·기록 안내입니다.
 

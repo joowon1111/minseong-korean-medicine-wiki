@@ -96,4 +96,4 @@ last_reviewed: 2026-09-18
 - [《동의보감》 탕액편의 반하](../classics/donguibogam/tangyeok/pinellia.md)
 - [본초 찾기](../herbal-integrated/herbs.md) · [방제 찾기](../herbal-integrated/formulas.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
-> 본초 지식을 설명한 자료이며 생약의 자가법제·자가조제 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

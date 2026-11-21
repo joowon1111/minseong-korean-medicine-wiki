@@ -45,7 +45,7 @@ last_reviewed: 2026-09-06
 
 홍삼군은 위약군보다 **쿠퍼만 지수와 갱년기평가척도(MRS)의 증상 점수가 개선**됐습니다. 홍삼군에서 총콜레스테롤·LDL 감소도 보고됐고, 혈중 에스트라디올에는 변화가 없었습니다. 갱년기 증상 완화에 참고할 수 있는 연구이며, 호르몬 수치 증가나 심근경색·뇌졸중 예방을 확인한 시험은 아닙니다.
 
-시험한 홍삼 제품의 결과는 개인별 탕약과 구분합니다. 홍조·발한·수면·피로 등 여러 증상의 변화를 같은 척도로 비교하면 도움이 되며, 전체 점수 개선을 모든 개별 증상에서 같은 효과가 있었다는 뜻으로 읽지 않습니다.
+시험한 홍삼 제품의 결과는 개인별 탕약과 구분합니다. 홍조·발한·수면·피로는 같은 척도로 경과를 비교하고 전체 점수와 개별 증상 결과를 나누어 확인합니다.
 
 *Effects of red ginseng supplementation on menopausal symptoms and cardiovascular risk factors in postmenopausal women: a double-blind randomized controlled trial.* [PMID 22027944](https://pubmed.ncbi.nlm.nih.gov/22027944/) · [DOI 10.1097/gme.0b013e3182325e4b](https://doi.org/10.1097/gme.0b013e3182325e4b)
 
