@@ -1296,6 +1296,28 @@ reader_tools: true
 
 <section class="dsb-passage" data-category="태양인 병론" markdown="1">
 
+### 이제마가 직접 남긴 열격 병력 {#taeyang-own-record}
+
+**태양인 병론 · 태양인 내촉소장병론 · 석판본 화면 174면 / PDF 175쪽** · [이 대목 주소](#taeyang-own-record) · [대조본 PDF의 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=175)
+
+<div class="dsb-original" lang="zh-Hant" markdown="1">
+
+> 太陽人解㑊噎膈不至死境之前，起居飲食如常人，必易之視以例病，故入於危境而莫可挽回也。余稟臟太陽人，嘗得此病六七年，嘔吐涎沫數十年。攝身倖而免夭，錄此以爲太陽人有病者戒。
+
+</div>
+
+**한국어 풀이** — 태양인의 해역과 열격은 죽을 지경에 이르기 전까지 기거와 음식이 평소 사람과 같아 보이므로 흔한 병처럼 가볍게 보기 쉽고, 그 때문에 위태로운 지경에 들어 돌이키기 어렵다고 하였다. 이어 이제마는 자신이 태양인으로 태어나 이 병을 여섯에서 일곱 해 앓았고, 침과 거품을 토하기를 수십 년 했다고 적었다. 몸을 돌보아 다행히 일찍 죽는 일을 면했기에 태양인 환자에게 경계가 되도록 기록한다고 밝혔다.
+
+**문장 구조** — 起居飲食如常人은 위중해지기 전 겉으로 드러나는 생활 모습이고, 余稟臟太陽人 이하는 저자가 자기 병력을 밝힌 대목입니다. 六七年과 數十年은 각각 이 병을 앓은 기간과 침·거품을 토한 기간으로 나뉩니다. 攝身은 몸을 거두어 돌보았다는 말이며, 구체적인 복용 처방이나 완치 시점은 기록하지 않았습니다.
+
+**함께 읽는 맥락** — 바로 앞의 경중 논의는 해역과 열격의 병존을 살피고, 뒤의 치법은 遠嗔怒를 제시합니다. 이 기록만으로 이제마가 미후등식장탕을 직접 복용해 완치했다고 단정하지 않습니다. [사상의학 이야기 11](../../classical-stories/sasang/yi-jema-own-yeolgeok-record.md)에서 자전적 병력과 미후등식장탕 원방을 구별해 풀었습니다.
+
+**이어 읽기:** [태양인 통합](../../sasang-integrated/taeyangin.md) · [미후등식장탕](../../sasang-formula-cards/mihudeung-sikjang-tang.md)
+
+</section>
+
+<section class="dsb-passage" data-category="태양인 병론" markdown="1">
+
 ### 해역: 상체와 하체 기능의 대비 {#taeyang-haeyeok-function}
 
 **태양인 병론 · 태양인 내촉소장병론 · PDF 176쪽** · [이 대목 주소](#taeyang-haeyeok-function) · [대조본 PDF의 해당 쪽](https://upload.wikimedia.org/wikipedia/commons/1/12/CNTS-00047980362_東醫壽世保元.pdf#page=176)

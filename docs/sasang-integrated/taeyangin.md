@@ -101,6 +101,8 @@ last_reviewed: '2026-09-21'
 
 대표 처방인 [미후등식장탕](../sasang-formula-cards/mihudeung-sikjang-tang.md)은 태양인 내촉소장병·열격의 구조를 확인한 뒤 활용합니다. 연하평가·내시경·영상검사 등으로 확인한 현대 의학적 원인과 영양·수분 계획을 함께 통합합니다.
 
+이제마는 자신이 열격을 여섯에서 일곱 해 앓고 침과 거품을 토하기를 수십 년 했다고 직접 적었습니다. 다만 그 대목에는 실제 복용 처방과 완치 시점이 없습니다. [사상의학 이야기 11](../classical-stories/sasang/yi-jema-own-yeolgeok-record.md)은 이 자전적 병력, 해역과 열격의 경중 판단, 뒤이어 제시된 미후등식장탕 원방을 구별해 읽습니다.
+
 → [해역과 열격 비교](../sasang-pattern-differential/taeyangin-haeyeok-vs-yeolgeok.md) · [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md) · [태양인 병증 중증도](../sasang-severity/taeyangin.md)
 
 ## 다른 체질·증상과 감별하는 핵심

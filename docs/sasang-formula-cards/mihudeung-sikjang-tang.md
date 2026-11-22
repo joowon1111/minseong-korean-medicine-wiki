@@ -26,6 +26,8 @@ last_reviewed: 2026-10-07
 
 처방명은 **미후등(獼猴藤)식장탕**, 지침과 『동의사상신편』의 구성 표기는 **미후도(獼猴桃)**입니다. 지침은 미후도가 없을 때 미후등을 쓰는 대용 기록도 싣습니다. 2023년 오심·구토 증례는 입원 중 가감방 A에 미후등(가지), 퇴원 후 가감방 B에 미후도(열매)를 각각 기록했습니다. 두 표의 단위는 1일량이며 위 표의 1첩량과 구별합니다. 조제 기록에는 참고한 자료와 실제 약용 부위를 적습니다. [2023년 증례의 처방 구성표](https://journal.kci.go.kr/JSCIM/archive/articlePdf?artiId=ART003029951)
 
+『동의수세보원』 석판본의 원방은 **미후도 4전(錢)**을 먼저 적고 “미후도가 없으면 덩굴로 대신한다”고 덧붙입니다. 원전 단위와 처방명·약재 부위의 차이는 [“나도 이 병을 앓았다” — 이제마가 남긴 열격 기록](../classical-stories/sasang/yi-jema-own-yeolgeok-record.md#mihudeung-fruit-vine)에서 책 이미지와 함께 설명합니다.
+
 미후도·모과·포도근이 중량 48 g 가운데 32 g입니다. 오가피장척탕과 모과·포도근·노근·앵도육·오가피를 공유하지만 포도근은 8 g, 오가피는 4 g으로 비중이 달라집니다. 송화는 소나무 꽃가루이고 오가피장척탕의 청송절은 소나무 마디입니다.
 
 ## 한눈에 보기
@@ -99,6 +101,7 @@ last_reviewed: 2026-10-07
 
 ## 출전과 이어 보기
 
+- [사상의학 이야기 11: 이제마가 직접 남긴 열격 병력과 원방](../classical-stories/sasang/yi-jema-own-yeolgeok-record.md)
 - [『동의사상신편』 미후등식장탕 구성 수록](https://www.krpia.co.kr/product/detail?nodeId=NODE04084994&plctId=PLCT00004548)
 - [태양인 병증과 대표처방](../sasang-integrated/taeyangin.md)
 - [태양인 처방 배합망](../sasang-formula-combination-network/taeyangin-network.md)
