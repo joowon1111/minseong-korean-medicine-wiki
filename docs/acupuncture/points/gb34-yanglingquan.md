@@ -49,12 +49,12 @@ last_reviewed: 2026-08-22
 
 - **만성요통 지침의 배혈 (2020년판):** 성인 만성 비특이적 요통의 일반침치료에서 기본 혈위로 제시된 혈입니다. 공개 원문을 확인한 2020년판의 배혈을 소개합니다. [출처 2](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=149&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 말초관절 골관절염 [출처 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -63,7 +63,7 @@ last_reviewed: 2026-08-22
 2. **임상진료지침의 일반침 배혈·확인한 판본** — 대한침구의학회 지침 개발진. [만성요통증후군 한의표준임상진료지침 (2020년판)](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=149&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2020. 대한침구의학회·한국한의약진흥원; 국가한의임상정보포털. **67쪽(PDF 77쪽), 일반침 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=149&file_type=pdf#page=77).
 3. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 양릉천 GB34](https://www.kmcric.com/database/acupoint/GB/GB34)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 양릉천 GB34](https://www.kmcric.com/database/acupoint/GB/GB34)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

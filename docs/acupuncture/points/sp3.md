@@ -50,7 +50,7 @@ last_reviewed: 2026-08-22
 
 1. **사암침 처방과 태백 주치의 문헌 연구** — 김송이·이순호·박지연·박히준. [사암도인침법에서 태백혈의 운용에 대한 연구](https://koreascience.kr/article/JAKO201402148668787.pdf#page=6). Korean Journal of Acupuncture. 2014;31(4):179–187. 경희대학교 침구경락과학연구센터·진안군 보건소; 대한경락경혈학회 학술지. **184쪽 고찰**. DOI: 10.14406/acu.2014.037.
 
-**표준 정보:** [KMCRIC 태백 SP3](https://www.kmcric.com/database/acupoint/SP/SP3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 태백 SP3](https://www.kmcric.com/database/acupoint/SP/SP3)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

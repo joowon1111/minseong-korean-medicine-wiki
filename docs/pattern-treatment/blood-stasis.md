@@ -26,7 +26,7 @@ last_reviewed: 2026-09-06
 
 한약은 변증에 따른 배합을, [침](../treatments/acupuncture.md)·[전침](../treatments/electroacupuncture.md)은 국소 통증·압통·가동범위와 전신 상태를 보고 계획합니다. 전통적으로 혈분과 연결되는 [격수 BL17](../acupuncture/points/bl17-geshu.md)·[혈해 SP10](../acupuncture/points/sp10-xuehai.md), 기의 소통과 연결되는 [태충 LR3](../acupuncture/points/lr3-taichong.md) 등을 실제 부위 진찰과 함께 검토합니다.
 
-[부항](../treatments/cupping.md)은 증상·피부 상태·출혈 위험에 맞춰 선택합니다. 부항 자국을 어혈량이나 치료 효과의 수치로 보지 않습니다. 한약과 침구를 함께 사용한 뒤 호전됐더라도 어느 한 치료의 단독 효과로 단정하지 않습니다.
+[부항](../treatments/cupping.md)은 증상·피부 상태·출혈 위험에 맞춰 선택합니다. 부항 뒤 통증·기능과 피부 반응을 함께 기록해 경과를 평가합니다. 한약·침구를 병행한 경과는 실제 치료 구성과 생활 변화, 증상·기능을 함께 살펴 평가합니다.
 
 ## 적용과 경과 확인
 

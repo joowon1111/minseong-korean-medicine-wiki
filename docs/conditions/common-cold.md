@@ -88,7 +88,7 @@ last_reviewed: 2026-09-21
 
 소아 감기의 2026년 PEACH 메타분석은 66개 시험·7,176명을 종합해 일반 약물치료 대비 총유효율과 증상 개선 시간, 보고된 이상반응에서 한약에 유리한 결과를 제시했습니다. 근거 확실성은 대체로 중등도였지만 제제·비교약·평가법이 다양하고 장기 추적은 제한됐습니다. 총유효율을 완치율로 읽거나 특정 제제가 모든 소아에게 안전하다고 일반화하지 않습니다. [효과 크기·신뢰구간·연구의 한계](../authority/formulas/respiratory-herbal-formula-map.md#pediatric-cold-peach)
 
-독감과 코로나19 연구는 별도로 읽습니다. [H1N1 복합방 시험](../authority/formulas/respiratory-herbal-formula-map.md#h1n1-combination-trial)은 경증 환자의 해열 시간을, [NRICM101 연구](../authority/formulas/respiratory-herbal-formula-map.md#nricm101-covid)는 소규모 관찰과 실험 기전을 다뤘습니다. 감기 증상 개선 결과를 감염 예방이나 중증 독감 치료로 확대하지 않습니다.
+독감과 코로나19 연구는 별도로 읽습니다. [H1N1 복합방 시험](../authority/formulas/respiratory-herbal-formula-map.md#h1n1-combination-trial)은 경증 환자의 해열 시간을, [NRICM101 연구](../authority/formulas/respiratory-herbal-formula-map.md#nricm101-covid)는 소규모 관찰과 실험 기전을 다뤘습니다. 감기 연구는 시험에서 평가한 증상과 치료 기간에 맞춰 결과를 살펴봅니다.
 
 ## 건강보험 한약제제 {#cold-insurance-herbal}
 

@@ -50,7 +50,7 @@ last_reviewed: 2026-09-06
 
 내장지방·혈당·수면·신체활동은 만성 저등급 염증과 회복을 함께 살피는 영역입니다. 그래서 [비만·대사 관리](../conditions/obesity.md), [대사증후군](../conditions/metabolic-syndrome.md), [면역·만성염증](inflammation-pain.md)을 연결해서 볼 수 있습니다.
 
-다만 체중이 줄거나 대변을 많이 봤다는 이유만으로 ‘독소가 빠져 면역이 좋아졌다’고 해석하지 않습니다. [해독 안내](../herbal-integrated/detoxification.md)는 청열해독·습열·소화·배설의 치료 목표를 구분하며, [건강한 다이어트](../conditions/healthy-weight-management.md)는 영양·근육·수면을 지키는 체중관리로 이어집니다.
+면역 관련 경과는 감염의 빈도·기간과 피로·활동 등 목표 증상을 함께 기록해 평가합니다. [해독 안내](../herbal-integrated/detoxification.md)는 청열해독·습열·소화·배설의 치료 목표를 구분하며, [건강한 다이어트](../conditions/healthy-weight-management.md)는 영양·근육·수면을 지키는 체중관리로 이어집니다.
 
 ## 치료 경과는 어떻게 확인하나요? {#follow-up}
 

@@ -185,7 +185,7 @@ Yin 등의 2022년 연구는 중국 3개 병원에서 **우울증과 불면이 �
 | 갱년기 불면: 12개 시험·969명 | 침+약물 대 같은 약물 단독 | PSQI 평균차 **-3.12점** (95% CI -4.21~-2.03). 침을 **추가한 효과**이며 침 단독과 약물의 우열은 아님 |
 | 파킨슨병 동반 불면: 11개 시험·800명 | 침 단독 또는 기존 약물 병행 대 약물·무중재 대조 | PSQI **-2.87점** (95% CI -4.28~-1.46), 파킨슨병 수면척도(PDSS) 개선. 서로 다른 비교 설계를 포함하므로 일반 만성 불면에 수치를 적용하지 않음 |
 
-갱년기 고찰에는 진단기준이 불완전하게 보고된 시험이 있고, 약물·침법·평가 방법도 다양합니다. 파킨슨병 고찰은 하위분석이 제한되며 이상반응을 보고한 연구가 2개뿐이라 안전성을 확정할 수 없습니다. 주관적 수면척도 개선을 호르몬 정상화나 파킨슨병 진행 억제로 해석하지 않습니다. [갱년기 동반증상 평가](menopause.md#combined-symptoms)와 함께 실제 수면·낮 기능을 비교합니다.
+갱년기 고찰에는 진단기준이 불완전하게 보고된 시험이 있고, 약물·침법·평가 방법도 다양합니다. 파킨슨병 고찰은 하위분석이 제한되며 이상반응을 보고한 연구가 2개뿐이라 안전성을 확정할 수 없습니다. 주관적 수면척도와 호르몬·질병 진행 지표는 각각의 연구 결과에서 확인합니다. [갱년기 동반증상 평가](menopause.md#combined-symptoms)와 함께 실제 수면·낮 기능을 비교합니다.
 
 - *Integrated acupuncture-pharmacotherapy for perimenopausal insomnia: a systematic review and meta-analysis.* [PMID 40909006](https://pubmed.ncbi.nlm.nih.gov/40909006/) · [출판사 원문·DOI 10.3389/fneur.2025.1633794](https://www.frontiersin.org/articles/10.3389/fneur.2025.1633794/full)
 - *The efficacy and safety of acupuncture for Parkinson’s disease insomnia: a systematic review and meta-analysis.* [PMID 41255781](https://pubmed.ncbi.nlm.nih.gov/41255781/) · [출판사 원문·DOI 10.3389/fneur.2025.1697481](https://www.frontiersin.org/articles/10.3389/fneur.2025.1697481/full)
@@ -331,7 +331,7 @@ Xu 등. *Tiaoshen acupuncture for shift work circadian rhythm sleep-wake disorde
 
 ---
 
-※ 이 문서는 환자 교육과 진료 상담을 돕기 위한 자료이며 개인 진단이나 처방을 대신하지 않습니다.
+※ 이 문서는 환자 교육과 진료 상담을 돕는 자료이며, 개인별 진단과 처방은 진료를 통해 정합니다.
 
 ## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
 

@@ -61,14 +61,14 @@ last_reviewed: 2026-08-22
 **전통적 효능·주치**
 
 - **문헌에서 확인한 관련 부위:** 머리 · 귀 · 눈 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
-- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 고전의 증상·부위별 경혈 활용을 설명합니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
 
 1. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
 
-**표준 정보:** [KMCRIC 완골 SI4](https://www.kmcric.com/database/acupoint/SI/SI4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 완골 SI4](https://www.kmcric.com/database/acupoint/SI/SI4)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

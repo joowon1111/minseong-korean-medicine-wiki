@@ -45,4 +45,4 @@ description: 부자의 회양구역·온양산한과 진무탕 배합, 건강·�
 
 [온리 효능 표준](../herbal-integrated/efficacy-indication-standard.md#regulation) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [방제 찾기](../herbal-integrated/formulas.md)
 
-> 본초 지식을 설명한 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

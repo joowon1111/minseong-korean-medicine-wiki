@@ -27,7 +27,7 @@ source_standard: KM-Agent CC BY 4.0 / WHO-derived metadata
 
 ## 수면 평가와 배혈
 
-성인 원발성 불면의 [한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164)은 일반침의 주요 혈위로 사신총·백회·[신문 HT7](../points/ht7-shenmen.md)·[내관 PC6](../points/pc6-neiguan.md) 등을 제시합니다. 이는 지침의 복합 배혈을 소개한 것으로 사신총 단독의 효과를 뜻하지 않습니다. 잠들기까지의 시간, 중간 각성, 낮의 피로와 활동 기능을 함께 기록합니다. [불면 평가](../../conditions/insomnia.md)
+성인 원발성 불면의 [한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164)은 일반침의 주요 혈위로 사신총·백회·[신문 HT7](../points/ht7-shenmen.md)·[내관 PC6](../points/pc6-neiguan.md) 등을 제시합니다. 사신총을 포함한 지침의 복합 배혈을 소개한 내용입니다. 잠들기까지의 시간, 중간 각성, 낮의 피로와 활동 기능을 함께 기록합니다. [불면 평가](../../conditions/insomnia.md)
 
 ## 자침·안전
 

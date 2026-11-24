@@ -55,7 +55,7 @@ status: 검토완료
 - [산후 땀·냉증](../conditions/postpartum-sweating.md): 출산 후 경과·발열·빈혈·갑상선·수유와 처방 판단.
 - [찬 손발의 땀](../conditions/cold-sweaty-hands.md): 국소·전신 발한과 생활 방해, 다한증 치료의 구분.
 
-이 연결은 같은 처방을 세 상황에 모두 적용한다는 의미가 아닙니다. 특히 수유 중에는 산모의 정확한 구성·용량과 아기의 월령·건강, 병용약을 함께 확인합니다. [수유 중 한약 상담](../conditions/postpartum-herbal.md#breastfeeding)
+세 상황에서 각기 다른 동반 증후와 배합 조건을 비교하는 연결입니다. 특히 수유 중에는 산모의 정확한 구성·용량과 아기의 월령·건강, 병용약을 함께 확인합니다. [수유 중 한약 상담](../conditions/postpartum-herbal.md#breastfeeding)
 
 ## 치료 경과와 근거를 읽는 범위 {#follow-up-evidence}
 

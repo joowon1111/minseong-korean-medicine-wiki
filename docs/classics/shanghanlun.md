@@ -156,7 +156,7 @@ description: 장중경의 상한론을 원서·육경병·맥증·치법으로 �
 - 후시수 강의서의 서지: [KAIST 도서관 《胡希恕伤寒论讲座》 소장 정보](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=874645&se=b0&ty=B), [후시수 상한론 학술사상 연구 기록(SinoMed)](https://www.sinomed.ac.cn/article.do?ui=2025223606)
 - 유도주의 연구·전승: [《刘渡舟伤寒论讲稿》 서지 정보](https://hotbook.nbt.edu.cn/nbt/?id=36223&what=detail), [연경 유씨 상한학파의 학술 특징과 전승](https://www.cntcm.com.cn/m/content/201701/16/c123500.html)
 
-인물의 명성이나 후대 강의만으로 처방의 현대적 효과가 증명되는 것은 아닙니다. 먼저 [원문과 조문별 독해](../shanghan-network/index.md#complete-clauses)를 확인하고, 필요하면 [육경병의 병위와 맥증](shanghan-six-channels.md), [상한론 처방 계열](../formula-architecture/shanghan-family.md)을 나란히 읽어보세요.
+처방의 임상적 가치는 현대 연구의 대상·제형·평가 결과를 확인해 설명합니다. 먼저 [원문과 조문별 독해](../shanghan-network/index.md#complete-clauses)를 확인하고, 필요하면 [육경병의 병위와 맥증](shanghan-six-channels.md), [상한론 처방 계열](../formula-architecture/shanghan-family.md)을 나란히 읽어보세요.
 
 ## 현대 임상 연결 {#_4}
 

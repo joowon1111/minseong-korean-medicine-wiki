@@ -49,7 +49,7 @@ last_reviewed: 2026-08-22
 **현대 연구에서 다루어진 분야**
 
 - **임상시험에서 사용된 분야:** 만성 천식 [출처 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001)
-- **자료의 의미:** 경혈 선택과 질환의 관련성을 분석한 자료이며, 해당 혈의 치료 효과를 평가한 결과는 아닙니다.
+- **자료의 의미:** 경혈 선택과 질환의 관련성, 임상에서 활용된 배혈 양상을 분석한 자료입니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -58,7 +58,7 @@ last_reviewed: 2026-08-22
 2. **주요 경혈군의 고전 문헌연구** — 윤다은·문희영·류연희·채윤병. [주요 경혈 구성원리 고찰: 사총혈과 천성십이혈을 중심으로](https://koreascience.kr/article/JAKO202432472148656.pdf). 대한한의학회지. 2024;45(3):235–242. 경희대학교·세명대학교·한국한의학연구원; 대한한의학회. **236–237쪽, 본론 1**. DOI: 10.13048/jkm.24052.
 3. **임상시험의 경혈 사용 양상 분석** — Hwang YC·Lee IS·Ryu Y·Lee YS·Chae Y. [Identification of Acupoint Indication from Reverse Inference: Data Mining of Randomized Controlled Clinical Trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC7564320/#jcm-09-03027-t001). Journal of Clinical Medicine. 2020;9(9):3027. 경희대학교·한국한의학연구원·가천대학교. **표 1·고찰의 한계**. DOI: 10.3390/jcm9093027.
 
-**표준 정보:** [KMCRIC 열결 LU7](https://www.kmcric.com/database/acupoint/LU/LU7)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 열결 LU7](https://www.kmcric.com/database/acupoint/LU/LU7)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

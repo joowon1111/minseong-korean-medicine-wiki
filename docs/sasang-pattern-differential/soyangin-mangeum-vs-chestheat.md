@@ -100,7 +100,7 @@ description: 소양인 망음병의 신열두통·신한복통과 흉격열병�
 
 망음은 「소양인 비수한표한병론」의 **身熱頭痛泄瀉 / 身寒腹痛泄瀉** 대비와 2014 망음병 CPG를, 흉격열은 「소양인 위수열리열병론」과 2014 흉격열병 CPG를 함께 읽습니다.
 
-2014년 사상체질의학회지의 [소양상풍병 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061), [망음병 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062), [흉격열병 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917064)은 병증 분류와 처방 맥락을 살피는 자료입니다. 전통 병증에 관한 임상적 분류이며, 특정 현대 질환에 대한 처방 효과를 단독으로 입증하는 비교시험은 아닙니다.
+2014년 사상체질의학회지의 [소양상풍병 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917061), [망음병 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917062), [흉격열병 진료지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917064)은 병증 분류와 처방 맥락을 살피는 자료입니다. 전통 병증의 증후와 처방 구성을 비교하는 임상적 분류입니다.
 
 → [병증별 원전·CPG 직결 지도](../sasang-clinical-detail/pattern-source-map.md)
 

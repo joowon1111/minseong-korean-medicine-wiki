@@ -13,7 +13,7 @@ PCOS에서 침 치료는 단순 시행 여부뿐 아니라 경혈 수, 치료빈
 
 ## 순위·치료량의 해석 한계
 
-SUCRA 97.8%는 상대적 순위 지표이며 배란율·임신율이 97.8%라는 뜻이 아닙니다. 치료량 모델의 관계를 개인에게 필요한 확정 횟수로 바꾸지 않습니다. 대상·비교군·비뚤림·간접비교를 확인하고, 배란 결과를 생아출산으로 환산하지 않습니다. [Cochrane와 다른 결과의 비교](polycystic-ovary-syndrome.md), [월경·배란 확인](../../womens-health/reproductive-physiology.md#ovulation-confirmation)을 함께 읽습니다.
+SUCRA 97.8%는 비교한 중재 사이의 상대적인 순위 지표입니다. 치료량 모델의 관계를 개인에게 필요한 확정 횟수로 바꾸지 않습니다. 대상·비교군·비뚤림·간접비교를 확인하고, 배란 결과를 생아출산으로 환산하지 않습니다. [Cochrane와 다른 결과의 비교](polycystic-ovary-syndrome.md), [월경·배란 확인](../../womens-health/reproductive-physiology.md#ovulation-confirmation)을 함께 읽습니다.
 
 ## 한의학 지식망
 `배란장애 → 월경주기·난포·배란 → 변증·배혈 → 치료빈도·유침시간·총 치료기간 → 배란율 재평가`

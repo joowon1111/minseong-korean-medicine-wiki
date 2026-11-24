@@ -90,7 +90,7 @@ last_reviewed: 2026-08-29
 | 제형과 약량 | 탕·환·산·고, 원방·가감·조제법 | 고전 단위와 현대 환산을 구분하고 약재 무게의 分은 ‘푼’으로 표기 |
 | 해석의 층위 | 원문·주석·후대 처방·현대 연구 | 원전에 없는 설명은 주석 또는 현대적 해석으로 표시 |
 
-[고전 처방 읽기](../classics/classical-formula-reading.md)에서 약량·제법을, [고전→현대 연구](../network/classic-to-evidence-map.md)에서 연구 대상·구성·결과를 따로 비교합니다. 책의 권위나 반복 인용의 횟수가 현대 치료 효과의 크기를 대신하지는 않습니다.
+[고전 처방 읽기](../classics/classical-formula-reading.md)에서 약량·제법을, [고전→현대 연구](../network/classic-to-evidence-map.md)에서 연구 대상·구성·결과를 따로 비교합니다. 고전의 출전과 현대 임상연구의 결과는 각각의 자료에서 확인합니다.
 
 ## 아홉 책 밖으로 넓힐 때 {#beyond-nine}
 

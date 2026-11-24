@@ -20,7 +20,7 @@ last_reviewed: 2026-08-19
 
 Liu 등의 2021년 *Nature* 연구는 **생쥐의 특정 감각신경과 미주신경–부신 축**을 연결했습니다. 뒷다리 족삼리 부위의 저강도 전침에 반응하는 PROKR2 표지 감각신경을 제거하면 해당 자율신경 반응과 항염증 작용이 사라졌고, 자극 위치와 강도에 따라 활성화되는 경로도 달랐습니다.
 
-**침 자극의 부위·강도가 생리 반응과 연결되는 이유를 신경해부학적으로 설명**한 성과입니다. 동물의 작용경로 연구이므로 사람의 염증성 질환 치료효과나 모든 경혈의 효과를 확정하는 자료로 사용하지 않습니다. 사람 대상 결과는 [침·전침 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading)에서 확인합니다.
+**침 자극의 부위·강도가 생리 반응과 연결되는 이유를 신경해부학적으로 설명**한 성과입니다. 동물모델에서 경혈 자극과 신경·면역의 작용 경로를 탐색한 연구입니다. 사람 대상 결과는 [침·전침 임상시험](../evidence-integrated/acupuncture-evidence.md#acupuncture-landmark-reading)에서 확인합니다.
 
 Liu S et al. *A neuroanatomical basis for electroacupuncture to drive the vagal–adrenal axis.* Nature. 2021;598:641–645. [PMID 34646018](https://pubmed.ncbi.nlm.nih.gov/34646018/) · [DOI 10.1038/s41586-021-04001-4](https://doi.org/10.1038/s41586-021-04001-4) · [2022년 저자 정정](https://www.nature.com/articles/s41586-021-04290-9)
 

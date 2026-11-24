@@ -85,7 +85,7 @@ description: 약침치료 — 경혈·경락·해부학·침·전침·약침과 
 #### 일반방제와 교차 {#_7}
 → 혈부축어탕 · 보양환오탕 · 도핵승기탕 등 **어혈 처방군과 병증 차원을 비교**합니다.
 
-약침이 국소 치료라고 해서 전신의 어혈 변증과 동일하다고 단정하지 않습니다.
+약침의 국소 치료 목표와 전신의 어혈 변증을 각각 평가해 치료 계획을 세웁니다.
 
 ---
 
@@ -709,6 +709,6 @@ taut band 안의 trigger point.
 | 오십견 | [50명 예비시험](../authority/pharmacopuncture.md#pharmaco-shoulder-trial) | 야간통·옷 입기·가동범위 |
 | 영상 유도 시술 | [초음파 유도 약침 종합근거](../authority/pharmacopuncture.md#ultrasound-pharmacopuncture-evidence) | 표적 조직·기능·이상반응 |
 
-이 표는 서로 다른 연구를 한 제제의 반복 입증으로 합산하지 않습니다. 연구별 **제제·주입량·치료부위·비교군**을 확인하고 해당 환자군의 결과를 적용합니다. 소화·피로·피부 등의 임상 활용은 위 근골격 연구의 결과와 구분합니다.
+이 표는 제제·질환·투여 조건별 연구를 구분해 제시합니다. 연구별 **제제·주입량·치료부위·비교군**을 확인하고 해당 환자군의 결과를 적용합니다. 소화·피로·피부 등의 임상 활용은 위 근골격 연구의 결과와 구분합니다.
 
 환자가 처음 읽는 설명은 [약침의 원리·종류·과정](../treatments/pharmacopuncture.md), 다른 치료와의 선택은 [침과 약침 비교](../compare/acupuncture-vs-pharmacopuncture.md), 이후 계획은 [치료 반응·재평가](../acupuncture-clinical/response-reassessment.md)로 이어집니다.

@@ -3041,7 +3041,7 @@
       "facts": [
         {
           "label": "해석 범위",
-          "value": "통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다."
+          "value": "통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다."
         }
       ],
       "source": "/acupuncture-integrated/evidence/",
@@ -21842,12 +21842,6 @@
       "prompt": "무작위 임상시험의 해석 범위으로 정리된 것은?",
       "options": [
         {
-          "text": "통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
-          "owner": "기전·영상·생리 연구",
-          "ownerId": "design-기전·영상·생리 연구",
-          "source": "/acupuncture-integrated/evidence/"
-        },
-        {
           "text": "여러 연구의 전체 경향을 보지만 포함 연구의 질과 이질성을 확인해야 합니다.",
           "owner": "체계적 문헌고찰·메타분석",
           "ownerId": "design-체계적 문헌고찰·메타분석",
@@ -21864,9 +21858,15 @@
           "owner": "무작위 임상시험",
           "ownerId": "design-무작위 임상시험",
           "source": "/acupuncture-integrated/evidence/"
+        },
+        {
+          "text": "통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
+          "owner": "기전·영상·생리 연구",
+          "ownerId": "design-기전·영상·생리 연구",
+          "source": "/acupuncture-integrated/evidence/"
         }
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "무작위 임상시험 — 해석 범위: 정해진 대상과 프로토콜에서 비교효과를 평가합니다.",
       "source": "/acupuncture-integrated/evidence/"
     },
@@ -21885,15 +21885,15 @@
           "source": "/acupuncture-integrated/evidence/"
         },
         {
-          "text": "기전·영상·생리 연구",
-          "owner": "기전·영상·생리 연구",
-          "ownerId": "design-기전·영상·생리 연구",
-          "source": "/acupuncture-integrated/evidence/"
-        },
-        {
           "text": "체계적 문헌고찰·메타분석",
           "owner": "체계적 문헌고찰·메타분석",
           "ownerId": "design-체계적 문헌고찰·메타분석",
+          "source": "/acupuncture-integrated/evidence/"
+        },
+        {
+          "text": "기전·영상·생리 연구",
+          "owner": "기전·영상·생리 연구",
+          "ownerId": "design-기전·영상·생리 연구",
           "source": "/acupuncture-integrated/evidence/"
         },
         {
@@ -21927,7 +21927,7 @@
           "source": "/acupuncture-integrated/evidence/"
         },
         {
-          "text": "통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
+          "text": "통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
           "owner": "기전·영상·생리 연구",
           "ownerId": "design-기전·영상·생리 연구",
           "source": "/acupuncture-integrated/evidence/"
@@ -21988,7 +21988,7 @@
       "prompt": "체계적 문헌고찰·메타분석의 해석 범위으로 정리된 것은?",
       "options": [
         {
-          "text": "통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
+          "text": "통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
           "owner": "기전·영상·생리 연구",
           "ownerId": "design-기전·영상·생리 연구",
           "source": "/acupuncture-integrated/evidence/"
@@ -22061,21 +22061,15 @@
       "prompt": "기전·영상·생리 연구의 해석 범위으로 정리된 것은?",
       "options": [
         {
-          "text": "실제 진료와 가까운 복합치료의 유용성을 살핍니다.",
-          "owner": "실용적 임상시험",
-          "ownerId": "design-실용적 임상시험",
-          "source": "/acupuncture-integrated/evidence/"
-        },
-        {
           "text": "정해진 대상과 프로토콜에서 비교효과를 평가합니다.",
           "owner": "무작위 임상시험",
           "ownerId": "design-무작위 임상시험",
           "source": "/acupuncture-integrated/evidence/"
         },
         {
-          "text": "통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
-          "owner": "기전·영상·생리 연구",
-          "ownerId": "design-기전·영상·생리 연구",
+          "text": "실제 진료의 사용 양상과 드문 이상반응을 파악하는 데 도움이 됩니다.",
+          "owner": "관찰연구·안전성 자료",
+          "ownerId": "design-관찰연구·안전성 자료",
           "source": "/acupuncture-integrated/evidence/"
         },
         {
@@ -22083,10 +22077,16 @@
           "owner": "체계적 문헌고찰·메타분석",
           "ownerId": "design-체계적 문헌고찰·메타분석",
           "source": "/acupuncture-integrated/evidence/"
+        },
+        {
+          "text": "통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
+          "owner": "기전·영상·생리 연구",
+          "ownerId": "design-기전·영상·생리 연구",
+          "source": "/acupuncture-integrated/evidence/"
         }
       ],
-      "answer": 2,
-      "explanation": "기전·영상·생리 연구 — 해석 범위: 통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
+      "answer": 3,
+      "explanation": "기전·영상·생리 연구 — 해석 범위: 통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
       "source": "/acupuncture-integrated/evidence/"
     },
     {
@@ -22095,20 +22095,8 @@
       "category": "연구설계",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "해석 범위: 통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
+      "context": "해석 범위: 통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
       "options": [
-        {
-          "text": "기전·영상·생리 연구",
-          "owner": "기전·영상·생리 연구",
-          "ownerId": "design-기전·영상·생리 연구",
-          "source": "/acupuncture-integrated/evidence/"
-        },
-        {
-          "text": "실용적 임상시험",
-          "owner": "실용적 임상시험",
-          "ownerId": "design-실용적 임상시험",
-          "source": "/acupuncture-integrated/evidence/"
-        },
         {
           "text": "체계적 문헌고찰·메타분석",
           "owner": "체계적 문헌고찰·메타분석",
@@ -22116,14 +22104,26 @@
           "source": "/acupuncture-integrated/evidence/"
         },
         {
+          "text": "기전·영상·생리 연구",
+          "owner": "기전·영상·생리 연구",
+          "ownerId": "design-기전·영상·생리 연구",
+          "source": "/acupuncture-integrated/evidence/"
+        },
+        {
           "text": "무작위 임상시험",
           "owner": "무작위 임상시험",
           "ownerId": "design-무작위 임상시험",
           "source": "/acupuncture-integrated/evidence/"
+        },
+        {
+          "text": "관찰연구·안전성 자료",
+          "owner": "관찰연구·안전성 자료",
+          "ownerId": "design-관찰연구·안전성 자료",
+          "source": "/acupuncture-integrated/evidence/"
         }
       ],
-      "answer": 0,
-      "explanation": "기전·영상·생리 연구 — 해석 범위: 통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
+      "answer": 1,
+      "explanation": "기전·영상·생리 연구 — 해석 범위: 통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
       "source": "/acupuncture-integrated/evidence/"
     },
     {
@@ -22140,6 +22140,12 @@
           "source": "/acupuncture-integrated/evidence/"
         },
         {
+          "text": "통증조절·신경계·국소 조직 반응의 작용 경로를 탐색합니다.",
+          "owner": "기전·영상·생리 연구",
+          "ownerId": "design-기전·영상·생리 연구",
+          "source": "/acupuncture-integrated/evidence/"
+        },
+        {
           "text": "실제 진료와 가까운 복합치료의 유용성을 살핍니다.",
           "owner": "실용적 임상시험",
           "ownerId": "design-실용적 임상시험",
@@ -22149,12 +22155,6 @@
           "text": "정해진 대상과 프로토콜에서 비교효과를 평가합니다.",
           "owner": "무작위 임상시험",
           "ownerId": "design-무작위 임상시험",
-          "source": "/acupuncture-integrated/evidence/"
-        },
-        {
-          "text": "통증조절·신경계·국소 조직 반응의 가능성을 설명하지만 임상효과와 동일하지 않습니다.",
-          "owner": "기전·영상·생리 연구",
-          "ownerId": "design-기전·영상·생리 연구",
           "source": "/acupuncture-integrated/evidence/"
         }
       ],
@@ -22183,15 +22183,15 @@
           "source": "/acupuncture-integrated/evidence/"
         },
         {
-          "text": "기전·영상·생리 연구",
-          "owner": "기전·영상·생리 연구",
-          "ownerId": "design-기전·영상·생리 연구",
-          "source": "/acupuncture-integrated/evidence/"
-        },
-        {
           "text": "실용적 임상시험",
           "owner": "실용적 임상시험",
           "ownerId": "design-실용적 임상시험",
+          "source": "/acupuncture-integrated/evidence/"
+        },
+        {
+          "text": "기전·영상·생리 연구",
+          "owner": "기전·영상·생리 연구",
+          "ownerId": "design-기전·영상·생리 연구",
           "source": "/acupuncture-integrated/evidence/"
         }
       ],

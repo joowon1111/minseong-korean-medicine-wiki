@@ -112,7 +112,7 @@ last_reviewed: 2026-09-06
 | COPD·폐 회복 | [일본 COPD 침시험](../authority/conditions/copd.md#japanese-cat-trial) · [호흡곤란 근거](../authority/conditions/dyspnea.md) | 숨참·보행거리·삶의 질과 폐기능을 별도 지표로 읽음 |
 | 인후·성대 | [인후통](../conditions/sore-throat.md) · [반복 인후통](../conditions/recurrent-sore-throat.md) · [음성 회복](../conditions/hoarseness.md) | 삼킴·수분 섭취와 발성·대화 지속 능력을 구분 |
 
-침·전침·약침·한약은 각각의 제제·시술·목표를 기록하고 기존 흡입·비강 치료와 연결합니다. 한 치료의 시험 결과를 다른 제제나 모든 호흡기 질환의 효과로 옮기지 않습니다. [침구·한의치료 허브](acupuncture-treatment.md) · [현대 임상근거 허브](clinical-evidence.md)
+침·전침·약침·한약은 각각의 제제·시술·목표를 기록하고 기존 흡입·비강 치료와 연결합니다. 각 치료의 연구는 실제 제제와 호흡기 질환의 대상 조건에 맞춰 확인합니다. [침구·한의치료 허브](acupuncture-treatment.md) · [현대 임상근거 허브](clinical-evidence.md)
 
 ### 일상 회복과 재평가 {#respiratory-followup}
 

@@ -116,7 +116,8 @@ class ClinicalCoverageTests(unittest.TestCase):
             self.assertEqual(point['indications'], indications)
             self.assertEqual(point['indications_label'], '임상시험에서 사용된 분야')
             self.assertEqual(point['actions_label'], '자료의 의미')
-            self.assertIn('치료 효과를 평가한 결과는 아닙니다', point['actions'][0])
+            self.assertIn('경혈 선택과 질환의 관련성', point['actions'][0])
+            self.assertIn('배혈 양상을 분석한 자료', point['actions'][0])
         trials = [p for p in self.points.values() if p.get('indications_label') == '임상시험에서 사용된 분야']
         self.assertEqual(len(trials), 22)
 

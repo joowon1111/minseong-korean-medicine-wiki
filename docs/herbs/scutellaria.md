@@ -88,4 +88,4 @@ description: 황금의 청열조습·사화해독·지혈·안태, 황련·황�
 - [청열약 5분류 비교](../herbal-integrated/heat-clearing-herbs.md) · [본초 효능·주치 표준](../herbal-integrated/efficacy-indication-standard.md)
 - [본초·방제 안전·복용 주의](../herbal-integrated/safety.md)
 
-> 전통 본초 지식과 현대 연구의 층위를 구분한 교육 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

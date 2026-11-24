@@ -83,6 +83,6 @@ flowchart TD
 
 ## 현대 연구와 안전성
 
-전통 방제의 사용 이력, 특정 제제의 RCT, 여러 가감방을 묶은 메타분석은 서로 다른 근거입니다. [당귀작약산](../authority/formulas/danggui-shaoyao-san.md)·[온경탕](../authority/formulas/wenjing-tang.md)·[계지복령환](../formulas/guizhi-fuling-wan.md)의 월경통 연구는 통증·관련 증상과 실제 시험 제제를 확인하는 자료입니다. 이를 난임 환자의 임신·생아출산 효과로 대신하지 않습니다. ‘보신’이라는 치법이 AMH·난자 질·출산율 상승의 임상 증명이 되지 않습니다. [ART·남성·DOR·유산 근거카드](../authority/conditions/female-infertility-art.md)에서 대상·대조군·생아출산·안전성을 확인합니다. [배란 이후·채취·이식·임신 확인 시 안전성](safety.md#fertility-pregnancy-safety)을 통과해야 실제 치료 계획으로 이어집니다.
+전통 방제의 사용 이력, 특정 제제의 RCT, 여러 가감방을 묶은 메타분석은 서로 다른 근거입니다. [당귀작약산](../authority/formulas/danggui-shaoyao-san.md)·[온경탕](../authority/formulas/wenjing-tang.md)·[계지복령환](../formulas/guizhi-fuling-wan.md)의 월경통 연구는 통증·관련 증상과 실제 시험 제제를 확인하는 자료입니다. 각 시험이 평가한 증상과 임신·생아출산 결과를 구분해 확인합니다. ‘보신’이라는 치법이 AMH·난자 질·출산율 상승의 임상 증명이 되지 않습니다. [ART·남성·DOR·유산 근거카드](../authority/conditions/female-infertility-art.md)에서 대상·대조군·생아출산·안전성을 확인합니다. [배란 이후·채취·이식·임신 확인 시 안전성](safety.md#fertility-pregnancy-safety)을 통과해야 실제 치료 계획으로 이어집니다.
 
 [본초 역인덱스](herbs-for-women.md) · [침구 배합](../acupuncture-integrated/points-for-womens-health.md) · [변증](../womens-health/fertility-patterns.md) · [난임 허브](../conditions/infertility-preconception.md)

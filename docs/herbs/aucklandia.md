@@ -56,4 +56,4 @@ description: 목향의 기원과 행기지통·소화 배합, 다른 이기 본�
 
 [본초 찾기](../herbal-integrated/herbs.md) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [방제 찾기](../herbal-integrated/formulas.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
-> 이 문서는 본초 지식을 설명한 자료이며 자가조제·자가복용 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

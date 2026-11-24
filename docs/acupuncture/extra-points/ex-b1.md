@@ -27,7 +27,7 @@ source_standard: KM-Agent CC BY 4.0 / WHO-derived metadata
 
 ## 호흡기 증상과 배혈
 
-기침은 지속 기간, 가래와 발열, 밤에 깨는지, 활동 시 숨이 차는지를 나누어 평가합니다. 알레르기 비염 [한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=167)은 부항과 침을 함께 다룬 임상적 고려사항에서 정천·대추·폐수 등을 배혈에 포함합니다. 이는 병행치료의 구성 예시이며 정천 단독 효과나 모든 호흡기 질환에 대한 권고를 뜻하지 않습니다. [호흡기·비염 안내](../../pillar/respiratory-rhinitis-immune.md)
+기침은 지속 기간, 가래와 발열, 밤에 깨는지, 활동 시 숨이 차는지를 나누어 평가합니다. 알레르기 비염 [한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=167)은 부항과 침을 함께 다룬 임상적 고려사항에서 정천·대추·폐수 등을 배혈에 포함합니다. 정천을 포함한 병행치료의 구성 예시입니다. [호흡기·비염 안내](../../pillar/respiratory-rhinitis-immune.md)
 
 ## 자침·안전
 

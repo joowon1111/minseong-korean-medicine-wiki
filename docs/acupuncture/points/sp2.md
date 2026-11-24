@@ -51,7 +51,7 @@ last_reviewed: 2026-08-22
 
 1. **황제내경의 오수혈 문헌연구** — 김도훈·백유상. [황제내경의 오수혈 임상 활용 연구 – 사용 빈도와 선혈을 중심으로](https://koreascience.kr/article/JAKO202007650436656.pdf). Korean Journal of Acupuncture. 2020;37(4):276–283. 가천대학교·경희대학교; 대한경락경혈학회. **279쪽 표 4**. DOI: 10.14406/acu.2020.035.
 
-**표준 정보:** [KMCRIC 대도 SP2](https://www.kmcric.com/database/acupoint/SP/SP2)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 대도 SP2](https://www.kmcric.com/database/acupoint/SP/SP2)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

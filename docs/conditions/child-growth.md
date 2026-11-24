@@ -39,7 +39,7 @@ last_reviewed: 2026-09-06
 | 키보다 체중이 먼저 줄거나 섭취가 감소 | 식사·삼킴·복통·변 상태, 영양과 만성질환 평가 |
 | 사춘기 변화가 일찍 또는 빠르게 진행 | 시작 시점·진행 속도와 현재 성장 단계 |
 
-키를 잰 날짜와 방법이 달라 생기는 오차를 먼저 살핍니다. 성장속도는 일정 기간의 키 차이를 기간으로 나누어 읽되, 짧은 기간의 몇 mm 차이를 연간 수치로 과장하지 않습니다. 골연령은 성장 단계에 관한 자료이며 최종 키를 보장하는 값은 아닙니다. [Pediatric Endocrine Society 성장 저하 평가](https://pedsendo.org/clinical-resource/child-with-suspected-short-stature/)
+키를 잰 날짜와 방법이 달라 생기는 오차를 먼저 살핍니다. 성장속도는 일정 기간의 키 차이를 기간으로 나누어 읽되, 짧은 기간의 몇 mm 차이를 연간 수치로 과장하지 않습니다. 골연령은 성장 단계를 파악하는 자료로, 성장 곡선·사춘기 진행·영양 상태와 함께 평가합니다. [Pediatric Endocrine Society 성장 저하 평가](https://pedsendo.org/clinical-resource/child-with-suspected-short-stature/)
 
 성장 문제와 함께 식사 불편은 [소아 식욕부진의 처방 비교](child-poor-appetite.md#pediatric-patterns), 잠의 질은 [소아 수면](child-sleep.md#sleep-diary), 반복 복통은 [소아 복통](child-abdominal-pain.md#pediatric-patterns)으로 이어 살핍니다.
 

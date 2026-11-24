@@ -69,7 +69,7 @@ last_reviewed: 2026-09-06
 
 기능 손상이 큰 PMS/PMDD에는 SSRI·인지행동치료·생활관리·선택적 호르몬 치료 등을 논의합니다. 임신 시도 여부와 복용약을 공유하고 약을 임의 중단하지 않습니다. 월경 전 증후를 배란 장애나 난임 원인으로 바로 해석하지 않습니다. [정상 월경주기](../womens-health/reproductive-physiology.md)·[임신 준비](infertility-preconception.md)와 별도로 평가합니다.
 
-전통 간울 등의 설명이 모든 PMDD의 병태생리와 동일한 것은 아닙니다. 한약·침의 증상 연구도 난임·출산 효과로 일반화하지 않습니다. [ACOG 월경전 장애 지침 2023](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/12/management-of-premenstrual-disorders)을 함께 읽습니다.
+전통 간울 등의 설명이 모든 PMDD의 병태생리와 동일한 것은 아닙니다. 한약·침 연구는 월경 전 증상·임신·출산 등 실제 평가한 결과를 구분해 확인합니다. [ACOG 월경전 장애 지침 2023](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/12/management-of-premenstrual-disorders)을 함께 읽습니다.
 
 ## 경과를 비교하는 방법 {#followup}
 

@@ -9,7 +9,7 @@ last_reviewed: '2026-10-07'
 
 수습은 단순한 부종뿐 아니라 **몸이 무겁고 더부룩함, 담음, 묽은변, 관절의 무거움**과 함께 나타날 수 있습니다.
 
-이수삼습은 수습의 배출과 비위의 수분대사를 함께 보는 효능이며 단순한 ‘이뇨’의 번역어가 아닙니다. → [효능·주치 표준](../../herbal-integrated/efficacy-indication-standard.md#damp-phlegm)
+이수삼습은 수습의 배출과 비위의 수분대사를 함께 살피는 전통 효능입니다. → [효능·주치 표준](../../herbal-integrated/efficacy-indication-standard.md#damp-phlegm)
 
 ## 대표 본초
 

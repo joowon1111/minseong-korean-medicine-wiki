@@ -53,4 +53,4 @@ description: 대황의 사하공적·청열·축어와 승기탕·도핵승기�
 
 [사하약 표준 정의](../herbal-integrated/efficacy-indication-standard.md#purgatives) · [변비 임상 안내](../conditions/constipation.md) · [방제 찾기](../herbal-integrated/formulas.md)
 
-> 전통 처방·본초 지식을 설명한 자료이며 단독 복용이나 자가 사하를 위한 지침이 아닙니다.
+> 본초의 전통 효능과 처방 배합을 설명한 자료입니다. 실제 조제·법제와 복용은 의료진의 진료·조제 기준에 따라 정합니다.

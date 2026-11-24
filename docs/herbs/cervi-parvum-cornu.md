@@ -62,7 +62,7 @@ last_reviewed: 2026-10-23
 
 녹용·녹각·녹각교는 조직과 가공법, 전통적 활용이 서로 다릅니다. 현재 상태와 처방 목적에 맞는 재료를 선택합니다.
 
-예를 들어 《경악전서》의 [좌귀환](../formulas/zuogui-wan.md#jingyue-source)·[우귀환](../formulas/yougui-wan.md#jingyue-source) 원방에는 **녹각교**가 들어갑니다. 이를 녹용 함유 처방으로 표시하거나 녹각교 배합의 연구를 녹용 자체의 효과로 옮기지 않습니다. [경악전서의 보익 배합](../classics/jingyue-quanshu.md#yin-yang-pairing)에서는 약재의 명칭과 역할을 함께 확인할 수 있습니다.
+예를 들어 《경악전서》의 [좌귀환](../formulas/zuogui-wan.md#jingyue-source)·[우귀환](../formulas/yougui-wan.md#jingyue-source) 원방에는 **녹각교**가 들어갑니다. 좌귀환·우귀환의 녹각교와 녹용은 원료·제형을 구분해 처방과 연구를 설명합니다. [경악전서의 보익 배합](../classics/jingyue-quanshu.md#yin-yang-pairing)에서는 약재의 명칭과 역할을 함께 확인할 수 있습니다.
 
 ## 부위와 품질은 무엇으로 판단하나요? {#_6}
 

@@ -29,7 +29,7 @@ last_reviewed: 2026-09-22
 - [종합 리뷰 — PMID 37680711](https://pubmed.ncbi.nlm.nih.gov/37680711/) · [PMCID PMC10482111](https://pmc.ncbi.nlm.nih.gov/articles/PMC10482111/)
 - [2024 리뷰 — PMID 38493280](https://pubmed.ncbi.nlm.nih.gov/38493280/) · [DOI 10.1007/s12272-024-01489-y](https://doi.org/10.1007/s12272-024-01489-y)
 
-astragaloside IV나 황기 다당류의 전임상 결과를 황기 원약재 또는 황기 함유 복합처방의 임상효과로 바꾸어 말하지 않습니다. 사람 연구에서는 제형, 원생약 환산량, 대상 질환과 병용치료를 확인합니다.
+astragaloside IV·황기 다당류의 전임상 연구와 황기 원약재·복합처방의 임상연구를 시험물별로 구분합니다. 사람 연구에서는 제형, 원생약 환산량, 대상 질환과 병용치료를 확인합니다.
 
 ## 안전·품질 확인
 

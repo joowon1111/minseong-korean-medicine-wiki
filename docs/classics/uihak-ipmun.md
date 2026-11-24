@@ -95,7 +95,7 @@ last_reviewed: 2026-08-29
 
 이 문목의 당귀육황탕은 열의 비중을 고려하는 처방 비교로 읽습니다. 정확한 약미·약량은 [《난실비장》 대조본의 당귀육황탕](../formulas/danggui-liuhuang-tang.md#source-dose-original)에서 별도로 확인합니다. 옥병풍산의 익기고표, 생맥산의 익기생진과 같은 기능을 곧 동일 처방으로 취급하지 않습니다.
 
-현대의 [소아 밤땀](../conditions/child-night-sweats.md), [산후 발한](../conditions/postpartum-sweating.md), [국소 손발 다한](../conditions/cold-sweaty-hands.md)은 환경·수면·호르몬·약물·전신 상태의 평가를 거쳐 이 문맥과 비교합니다. 고전의 시간대 분류를 현대 원인 진단이나 특정 처방의 효과 보증으로 바꾸지 않습니다. [위키문헌 권4 원문](https://zh.wikisource.org/wiki/醫學入門/卷四)
+현대의 [소아 밤땀](../conditions/child-night-sweats.md), [산후 발한](../conditions/postpartum-sweating.md), [국소 손발 다한](../conditions/cold-sweaty-hands.md)은 환경·수면·호르몬·약물·전신 상태의 평가를 거쳐 이 문맥과 비교합니다. 고전의 시간대 분류는 당시의 병증 관점으로 설명하고, 현재 진료에서는 원인과 경과를 함께 평가합니다. [위키문헌 권4 원문](https://zh.wikisource.org/wiki/醫學入門/卷四)
 
 ## 가감·합방에서 처방의 뼈대를 보존하기 {#formula-adaptation}
 

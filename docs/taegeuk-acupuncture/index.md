@@ -38,7 +38,7 @@ tags: [태극침법, 체질침, 사상체질, 오수혈, 원혈, 침구학]
 | 보사·반응 | 처방 안에서 각 혈의 보사를 지정 | 혈군과 전승별 자극·동기요법을 구별 | 심경혈·원혈 보사 후 압통 등 변화 관찰 |
 | 임상에서 함께 볼 것 | 증상·변증·기능 변화 | 국소 기능·움직임과 원위 혈군 | 수면·긴장·통증 등 목표와 체질별 구성 |
 
-사암침법과 태극침법의 오수혈 활용 차이는 [2001년 대한침구학회 비교 논문](https://koreascience.kr/article/JAKO200110102407910.page)에서 함께 다룹니다. 동씨침법 열은 아카이브의 [동씨 혈군·배혈 설명](../tung-acupuncture/index.md#principles)을 기준으로 비교했습니다. 세 체계의 임상효과 순위를 정한 표가 아닙니다.
+사암침법과 태극침법의 오수혈 활용 차이는 [2001년 대한침구학회 비교 논문](https://koreascience.kr/article/JAKO200110102407910.page)에서 함께 다룹니다. 동씨침법 열은 아카이브의 [동씨 혈군·배혈 설명](../tung-acupuncture/index.md#principles)을 기준으로 비교했습니다. 세 체계의 구성과 선택 원리를 비교한 표입니다.
 
 [사암침법 24조합](../acupuncture-specific/saam-12-meridians.md) · [동씨침법 50혈 아틀라스](../tung-acupuncture/index.md) · [근육·근막·MPS](../clinical-anatomy/mps-atlas.md)에서 같은 증상에 접근하는 서로 다른 정보를 비교할 수 있습니다.
 
@@ -46,4 +46,4 @@ tags: [태극침법, 체질침, 사상체질, 오수혈, 원혈, 침구학]
 
 태극침법의 전통적 활용에는 수면·긴장·두근거림, 피로, 반복되는 근골격 통증 등이 등장합니다. 개별 혈의 전통 주치와 태극침법 전체의 치료 결과는 구별해서 읽습니다. [임상 활용·연구 문서](evidence.md)는 임상가의 경험 기술, 후향적 기록 연구, 건강인의 생리 연구, 진료지침을 각각 연결합니다.
 
-침 자극의 현대적 설명은 [말초 감각 입력](../acupuncture-science/peripheral-afferent.md), [척수 통증조절](../acupuncture-science/pain-modulation.md), [뇌 네트워크](../acupuncture-science/brain-central.md), [자율신경 반사](../acupuncture-science/autonomic.md)에서 읽습니다. 체질마다 특정 신경회로가 하나씩 대응한다고 해석하지 않습니다.
+침 자극의 현대적 설명은 [말초 감각 입력](../acupuncture-science/peripheral-afferent.md), [척수 통증조절](../acupuncture-science/pain-modulation.md), [뇌 네트워크](../acupuncture-science/brain-central.md), [자율신경 반사](../acupuncture-science/autonomic.md)에서 읽습니다. 체질별 선택 원리와 신경회로의 기전 연구를 각각의 자료로 살펴봅니다.

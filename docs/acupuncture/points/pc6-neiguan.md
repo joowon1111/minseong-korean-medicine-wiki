@@ -47,7 +47,7 @@ last_reviewed: 2026-08-22
 
 《침구대성》 권7 「내관」의 **“掌後去腕二寸兩筋間”**은 ‘손목 뒤로 두 촌, 두 힘줄 사이’라는 위치 설명입니다. 같은 항목은 심통·흉부의 그득함과 팔꿈치의 당김 등을 기록합니다. 현대의 오심·구토 활용만 알고 읽으면 고전의 심흉부·상지 맥락을 놓치기 쉽습니다.
 
-현재 널리 쓰는 내관–공손의 팔맥교회혈 배혈은 위의 낙혈 설명과 **별도의 배혈 체계**로 구분해 읽습니다. 고전 항목의 주치를 모두 현대 진단명으로 바꾸거나 수술 후 오심 연구가 옛 주치 전체를 검증했다고 해석하지 않습니다. [중의급성 《침구대성》 전사본](https://jicheng.tw/tcm/book/針灸大成/index.html)의 권7 「내관」을 대조했습니다. 명대 편찬 문헌을 청 강희 연간 이월계 덕린헌 각본에 기초한 전사로 읽은 것이며, 최초 출전·판본별 변화를 확정한 교감은 아닙니다. [팔맥교회혈의 배혈 체계](../../meridian-network/special-points/eight-confluent.md)에서 공손과의 관계를 확인합니다.
+현재 널리 쓰는 내관–공손의 팔맥교회혈 배혈은 위의 낙혈 설명과 **별도의 배혈 체계**로 구분해 읽습니다. 고전 항목의 주치와 수술 후 오심을 평가한 현대 임상연구를 각각의 대상·평가 지표에 맞춰 살펴봅니다. [중의급성 《침구대성》 전사본](https://jicheng.tw/tcm/book/針灸大成/index.html)의 권7 「내관」을 대조했습니다. 명대 편찬 문헌을 청 강희 연간 이월계 덕린헌 각본에 기초한 전사로 읽은 것이며, 최초 출전·판본별 변화를 확정한 교감은 아닙니다. [팔맥교회혈의 배혈 체계](../../meridian-network/special-points/eight-confluent.md)에서 공손과의 관계를 확인합니다.
 
 <!-- ACUPOINT_CLINICAL_START -->
 **전통적 효능·주치**
@@ -61,7 +61,7 @@ last_reviewed: 2026-08-22
 - **기능성소화불량 지침의 배혈:** 성인 기능성소화불량의 침치료에 제시된 혈 중 하나입니다. 증상과 배혈 전체를 고려해 사용합니다. [출처 2](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)
 - **불면장애 지침의 주요 혈위:** 성인 원발성 불면의 일반침치료에서 주요 혈위로 제시됩니다. [출처 3](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14)
 
-진료지침의 배혈에서 맡는 역할입니다. 단일혈의 독립적인 효과를 뜻하지 않습니다.
+진료지침에서 제시한 복합 배혈 안의 역할을 설명합니다.
 
 <details markdown="1">
 <summary>출처·원문과 해석 범위</summary>
@@ -70,7 +70,7 @@ last_reviewed: 2026-08-22
 2. **임상진료지침의 일반침·전침 배혈** — 대한한방내과학회 지침 개발진. [기능성소화불량 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방내과학회·한국한의약진흥원; 국가한의임상정보포털. **142쪽(PDF 152쪽), R13 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=154&file_type=pdf#page=152).
 3. **임상진료지침의 일반침 배혈** — 대한한방신경정신과학회 지침 개발진. [불면장애 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=164&menu_idx=14). 한국한의약진흥원 한의표준임상진료지침 개발사업단. 2021. 대한한방신경정신과학회·한국한의약진흥원; 국가한의임상정보포털. **124쪽(PDF 134쪽), R2-1-1 임상적 고려사항**. [이용조건](https://nikom.or.kr/nckm/html.do?menu_idx=95). [해당 쪽 PDF](https://nikom.or.kr/nckm/module/practiceGuide/download.do?guide_idx=164&file_type=pdf#page=134).
 
-**표준 정보:** [KMCRIC 내관 PC6](https://www.kmcric.com/database/acupoint/PC/PC6)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 내관 PC6](https://www.kmcric.com/database/acupoint/PC/PC6)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

@@ -76,7 +76,7 @@ last_reviewed: 2026-09-06
 
 ## 본초 배합과 침구치료 {#treatment}
 
-[반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)은 담습·오심과 관련된 배합, [백출](../herbs/atractylodes.md)·[인삼](../herbs/ginseng.md)은 비위허약, [후박](../herbs/magnolia-bark.md)·[사인](../herbs/amomum.md)은 기체·복만, [산사](../herbs/hawthorn.md)·[맥아](../herbs/barley-malt.md)는 음식 정체를 이해하는 데 연결됩니다. 약재 하나가 담적 전체를 치료한다는 뜻은 아닙니다.
+[반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)은 담습·오심과 관련된 배합, [백출](../herbs/atractylodes.md)·[인삼](../herbs/ginseng.md)은 비위허약, [후박](../herbs/magnolia-bark.md)·[사인](../herbs/amomum.md)은 기체·복만, [산사](../herbs/hawthorn.md)·[맥아](../herbs/barley-malt.md)는 음식 정체를 이해하는 데 연결됩니다. 약재의 역할은 담적 관련 증후와 처방 전체의 배합 안에서 설명합니다.
 
 [침 치료](../treatments/acupuncture.md)는 주증상과 진찰에 따라 계획합니다. 위장 증상과 관련해 [중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)을, 담습의 전통적 맥락에서는 [풍륭 ST40](../acupuncture/points/st40-fenglong.md)을 비교할 수 있습니다. [뜸](../treatments/moxibustion.md)은 한증·허증과 피부 상태를 살펴 선택합니다.
 
@@ -88,7 +88,7 @@ last_reviewed: 2026-09-06
 
 식후포만·조기포만이 주된 경우에는 [기능성소화불량의 증상 평가와 임상연구](../conditions/functional-dyspepsia.md)에서 실제 연구 대상과 평가 지표를 확인할 수 있습니다.
 
-다른 처방의 연구는 [반하사심탕](../formulas/banxia-xiexin-tang.md), [육군자탕](../formulas/liujunzi-tang.md), [기능성소화불량](../conditions/functional-dyspepsia.md)에서 볼 수 있습니다. 소화불량 임상연구를 ‘위벽의 독소가 제거됨’을 입증한 연구로 해석하지 않습니다.
+다른 처방의 연구는 [반하사심탕](../formulas/banxia-xiexin-tang.md), [육군자탕](../formulas/liujunzi-tang.md), [기능성소화불량](../conditions/functional-dyspepsia.md)에서 볼 수 있습니다. 소화불량 임상연구는 식후불편·통증·삶의 질 등 실제 평가한 결과로 설명합니다.
 
 ## 식사·생활과 경과 확인 {#follow-up}
 

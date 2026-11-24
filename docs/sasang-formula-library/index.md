@@ -67,7 +67,7 @@ last_reviewed: 2026-09-22
 
 오후·야간 열감, 갈증·배뇨, 체중·기력, 하지 기능을 함께 추적합니다. 하소·허로를 당뇨병이나 특정 소모성 질환과 일대일로 대응하지 않습니다.
 
-독활지황탕과 십이미지황탕은 이름에 지황이 들어가지만 약미·병증 단계가 같다는 뜻이 아닙니다. [음허오열병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917067)의 음허오열증·음허오열우증을 구분하고, 구토·섭취·야간 열감·체중·하지 기능을 함께 비교합니다. 십이미지황탕의 형개·방풍·차전자 배합과 독활지황탕의 독활은 [지황계 구성 비교](../sasang-formula-combination-network/soyangin-network.md#soyang-new-branches)에서 대조할 수 있습니다.
+독활지황탕과 십이미지황탕은 지황의 공통점과 약미·병증 단계의 차이를 비교합니다. [음허오열병 지침](https://journal.kci.go.kr/JSCIM/archive/articleView?artiId=ART001917067)의 음허오열증·음허오열우증을 구분하고, 구토·섭취·야간 열감·체중·하지 기능을 함께 비교합니다. 십이미지황탕의 형개·방풍·차전자 배합과 독활지황탕의 독활은 [지황계 구성 비교](../sasang-formula-combination-network/soyangin-network.md#soyang-new-branches)에서 대조할 수 있습니다.
 
 ### 태음인 위완수한표한·승청 {#taeeum-exterior}
 

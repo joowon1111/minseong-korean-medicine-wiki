@@ -91,7 +91,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 **전통적 효능·주치**
 
 - **문헌에서 확인한 관련 부위:** 흉부 · 상지 관련 증상 [출처 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3)
-- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 특정 현대 질환의 효능을 뜻하지 않습니다.
+- **자료의 의미:** 『침구경험방』의 경혈·증상 부위 대응을 분석한 내용입니다. 고전의 증상·부위별 경혈 활용을 설명합니다.
 - **오수혈 문헌의 배혈:** 태연과 어제를 함께 흉부 통증에 활용한 『영추』 「궐병」의 기록을 분석했습니다. [출처 2](https://koreascience.kr/article/JAKO202007650436656.pdf)
 
 <details markdown="1">
@@ -100,7 +100,7 @@ WHO Western Pacific Region의 361 표준경혈 체계와 이를 기반으로 정
 1. **침구경험방의 경혈·증상 부위 문헌 분석** — Jung WM 외. [Spatial Patterns of the Indications of Acupoints Using Data Mining in Classic Medical Text: A Possible Visualization of the Meridian System](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619912/#sec3). Evidence-Based Complementary and Alternative Medicine. 2015;2015:457071. 경희대학교 연구진; 한국한의학연구원 연구비 지원. **결과 3.1·고찰**. DOI: 10.1155/2015/457071.
 2. **황제내경의 오수혈 문헌연구** — 김도훈·백유상. [황제내경의 오수혈 임상 활용 연구 – 사용 빈도와 선혈을 중심으로](https://koreascience.kr/article/JAKO202007650436656.pdf). Korean Journal of Acupuncture. 2020;37(4):276–283. 가천대학교·경희대학교; 대한경락경혈학회. **278쪽 표 2; 281쪽 본론 2**. DOI: 10.14406/acu.2020.035.
 
-**표준 정보:** [KMCRIC 태연 LU9](https://www.kmcric.com/database/acupoint/LU/LU9)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 대조했으며, 이 링크를 주치·효능의 근거로 사용하지 않습니다.
+**표준 정보:** [KMCRIC 태연 LU9](https://www.kmcric.com/database/acupoint/LU/LU9)에서 위치·취혈 정보를 확인할 수 있습니다. 혈명·코드·소속 경맥을 함께 대조할 수 있는 표준 위치 자료입니다.
 
 **위치 데이터:** [KM-Agent 경혈 자료](https://github.com/wonyung-lee/km-agent/blob/main/data/acupoints.csv), Won-Yung Lee 외 5인, 2026, [CC BY 4.0](https://github.com/wonyung-lee/km-agent/blob/main/LICENSE). 기존 위치 자료를 사용하며, 일부 누락된 혈명 한자를 KMCRIC 목록과 대조하여 수정했습니다.
 

@@ -67,7 +67,7 @@ last_reviewed: 2026-09-06
 
 [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)은 화담·이기·수습 조절의 기본 배합을 이해하는 출발점입니다. 비허가 크면 [백출](../herbs/atractylodes.md)·[인삼](../herbs/ginseng.md), 기체가 크면 [후박](../herbs/magnolia-bark.md)·[사인](../herbs/amomum.md), 담열의 맥락에서는 [죽여](../herbs/bamboo-shavings.md) 등을 비교합니다.
 
-침구에서는 [풍륭 ST40](../acupuncture/points/st40-fenglong.md)을 화담의 전통적 맥락과 연결하고, 위장 증상에는 [중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)을 증상과 진찰에 맞춰 활용합니다. 경혈 자극만으로 담음이라는 물질이 제거되는 것으로 해석하지 않습니다.
+침구에서는 [풍륭 ST40](../acupuncture/points/st40-fenglong.md)을 화담의 전통적 맥락과 연결하고, 위장 증상에는 [중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md)을 증상과 진찰에 맞춰 활용합니다. 경혈 자극은 통증·소화·호흡 등 치료 목표와 실제 증상·기능의 변화를 함께 살펴 적용합니다.
 
 치료 뒤에는 어지럼·기침·구토·흉만 중 무엇이 줄고 무엇이 남았는지 나누어 봅니다. [금궤의 순차 가감](../jingui-network/index.md#pattern-care-network)은 같은 담음 문맥에서도 상충·구토·부종의 변화에 따라 배합을 다시 판단한 예입니다. 실제 치료 목표와 재평가 기준은 [담음 → 화담·이기·건비](../pattern-treatment/phlegm-fluid.md)에서 확인할 수 있습니다.
 
@@ -81,7 +81,7 @@ last_reviewed: 2026-09-06
 
 진료지침과 임상연구는 담음 전체를 하나의 병으로 묶기보다 소화불량·불면 등 구체적인 질환과 처방을 정해 평가합니다. [기능성소화불량 한의표준임상진료지침](https://nikom.or.kr/nckm/module/practiceGuide/view.do?guide_idx=154&menu_idx=14)은 증상·변증 평가와 한약·침구치료, 의뢰·병용치료를 함께 다룹니다.
 
-따라서 소화불편에는 [소화·비위 처방](../herbal-integrated/formula-for-digestion.md), 수면 증상에는 [온담탕의 임상근거](../formulas/wendan-tang.md)를 통해 해당 연구의 대상과 배합을 확인합니다. 한 처방의 연구 결과를 다른 담음 처방이나 담적 전체의 효과로 넓히지 않습니다.
+따라서 소화불편에는 [소화·비위 처방](../herbal-integrated/formula-for-digestion.md), 수면 증상에는 [온담탕의 임상근거](../formulas/wendan-tang.md)를 통해 해당 연구의 대상과 배합을 확인합니다. 담음 관련 처방 연구는 실제 구성과 대상 증후별로 구분해 확인합니다.
 
 ## 관련 핵심 문서
 
