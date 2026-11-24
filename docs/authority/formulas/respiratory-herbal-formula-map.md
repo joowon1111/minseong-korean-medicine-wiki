@@ -6,6 +6,20 @@ status: 검토완료
 last_reviewed: 2026-09-17
 ---
 # 호흡기 — 한약 처방 현대근거 지도
+
+호흡기 한약은 **감기 급성기, 가래·콧물, 목 건조와 잔기침, 감염 뒤 허약**에서 치료 목표가 달라집니다. 아래 표의 증상·배합 비교와 뒤의 임상연구를 함께 보면, 처방의 전통적 쓰임과 실제 시험한 질환·제제를 구분할 수 있습니다.
+
+## 기침·가래·목 건조에 따라 비교할 처방 {#symptom-formula-selection}
+
+| 주된 불편과 함께 볼 증상 | 전통적 배합의 초점 | 처방·진료 연결 |
+|---|---|---|
+| 맑은 콧물·묽은 가래에 오한·찬 공기 악화 | 외한과 수음에 온폐화음·해표를 결합 | [소청룡탕](../../formulas/xiaoqinglong-tang.md) · [비염](../../conditions/rhinitis.md) |
+| 목 통증·열감에 감기 증상이 시작 | 소풍청열·인후 불편을 함께 고려 | [은교산](../../formulas/yinqiao-san.md) · [연교패독산](../../formulas/lianqiao-baidu-san.md) |
+| 외감·기침에 식욕·기력 저하가 겹침 | 해표·화담과 보기의 조합 | [삼소음](../../formulas/renshen-suyin.md) |
+| 감기 뒤 가래 적은 기침·목 건조·상역 | 윤양과 강역을 함께 고려 | [맥문동탕](../../formulas/maidong-tang.md) · [마른기침](../../conditions/dry-cough.md) |
+| 잔기침에 피로·갈증·쉽게 땀남 | 기음허의 익기·양음·생진 | [생맥산](../../formulas/shengmai-san.md) · [감염 후 피로](../../conditions/post-viral-fatigue.md) |
+
+가래의 색·기침 소리 하나보다 발병 기간, 열·숨참, 비염·후비루·역류, 식사와 수면을 함께 확인합니다. 8주를 넘는 성인 기침은 [만성기침의 원인·기본검사](../../conditions/chronic-cough.md#cough-investigations)와 연결합니다. 위 표는 처방 비교이며, 개별 연구에서 확인한 효과는 아래의 모집 대상·비교군에 맞춰 읽습니다.
 ## 급성 감기 · 은교산·삼소음 시험 {#common-cold-trial}
 
 2023년 국내 다기관 무작위·환자 및 평가자 눈가림·위약대조시험은 발병 48시간 이내 성인 감기를 대상으로 [은교산](../../formulas/yinqiao-san.md), [삼소음](../../formulas/renshen-suyin.md), 위약을 비교했습니다. [논문·PMID 38033649](https://pubmed.ncbi.nlm.nih.gov/38033649/)
