@@ -109,5 +109,22 @@ class ArchiveToolsTests(unittest.TestCase):
         self.assertEqual(builder.plain('**인삼** · [백출](a.md) <span>복령</span>'), '인삼 · 백출 복령')
         self.assertEqual(builder.parse('\ufeff---\ntitle: 제목\n---\n# 본문')[0]['title'], '제목')
 
+    def test_pinned_classical_recipe_survives_dedicated_article(self):
+        with tempfile.TemporaryDirectory() as temp:
+            docs=Path(temp)
+            folder=docs/'classics/jinkui-yaolue/chapters'
+            folder.mkdir(parents=True)
+            (folder/'test.md').write_text('# 고전\n\n## 감맥대조탕 {#one}\n\n    甘麥大棗湯方：\n\n    甘草（三兩） 小麥（一升） 大棗（十枚）\n\n    右三味，煎服。\n',encoding='utf-8')
+            group_dir=docs/'assets/archive-tools'
+            group_dir.mkdir(parents=True)
+            source='/classics/jinkui-yaolue/chapters/test/#one'
+            (group_dir/'formula-groups.json').write_text(json.dumps({'groups':[{'sources':[source]}]}))
+            cards=[{'title':'감맥대조탕(甘麥大棗湯)','kind':'formula','source':'/formulas/gan-mai-da-zao-tang/'}]
+            with patch.object(builder,'DOCS',docs):
+                builder.add_classical_recipes(cards)
+            self.assertEqual(len(cards),2)
+            self.assertEqual(cards[1]['source'],source)
+            self.assertEqual(cards[1]['id'],'classical-test--one')
+
 if __name__ == '__main__':
     unittest.main()
