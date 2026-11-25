@@ -141,6 +141,11 @@ def add_classical_recipes(cards):
     """Index missing named recipes only where a clause records its own ingredients."""
     known = {re.split(r'[（( ·—]', c['title'])[0] for c in cards if c['kind']=='formula' and c['source'].startswith('/formulas/')}
     seen = set(known)
+    # Explicit comparison sources keep their stable classical IDs even after
+    # a same-name dedicated formula article is added.
+    groups_path = DOCS/'assets/archive-tools/formula-groups.json'
+    groups = json.loads(groups_path.read_text())['groups'] if groups_path.exists() else []
+    pinned_sources = {source for group in groups for source in group['sources']}
     appendix=DOCS/'formula-architecture/shanghan-family.md'
     if appendix.exists():
         _,body=parse(appendix.read_text(encoding='utf-8-sig'))
@@ -164,7 +169,8 @@ def add_classical_recipes(cards):
                 chunk=body[h.end():headings[i+1].start() if i+1<len(headings) else len(body)]
                 recipes=list(re.finditer(r'(?m)^[ \t]*([\u3400-\u9fff]+(?:湯|丸|散|飲|丹))方(?:[：:][^\n]*|[ \t]*)$',chunk))
                 names=re.findall(r'[가-힣]+(?:탕|환|산|음|단)',h[1])
-                if not recipes or len(names)!=1 or names[0] in seen or names[0] in ('수음','승기탕','청룡탕','음호산'):
+                source=url_for(path)+'#'+h[2]
+                if not recipes or len(names)!=1 or (names[0] in seen and source not in pinned_sources) or names[0] in ('수음','승기탕','청룡탕','음호산'):
                     continue
                 recipe=recipes[0]
                 recipe_text=chunk[recipe.end():recipes[1].start() if len(recipes)>1 else len(chunk)]
