@@ -23,7 +23,7 @@ last_reviewed: 2026-08-22
 
 ## 본초·방제
 
-[인삼](../../herbs/ginseng.md)·[황기](../../herbs/astragalus.md)·[백출](../../herbs/atractylodes.md)·[복령](../../herbs/poria.md)의 배합 역할과 사군자탕·육군자탕·보중익기탕·귀비탕·옥병풍산의 차이는 [기허 본문의 처방 비교](../qi-deficiency.md#관련-방제)에서 확인할 수 있습니다.
+[인삼](../../herbs/ginseng.md)·[황기](../../herbs/astragalus.md)·[백출](../../herbs/atractylodes.md)·[복령](../../herbs/poria.md)의 배합 역할과 사군자탕·육군자탕·보중익기탕·귀비탕·옥병풍산의 차이는 [기허 본문의 처방 비교](../qi-deficiency.md#_6)에서 확인할 수 있습니다.
 
 기허와 혈허가 함께 나타날 때의 팔물탕·십전대보탕 배합은 [기혈양허](qi-blood-deficiency.md)로 이어집니다.
 
