@@ -18,6 +18,8 @@ description: 스트레스와 어지럼·소화불량·목 이물감·냉증·부
 - 간양상항·간풍 → [천마구등음](../formulas/tianma-gouteng-yin.md)
 - 침구는 경항부·평형·자율신경 증상을 함께 평가.
 
+일어설 때 눈앞이 캄캄하거나 아찔하다면 [자세별 혈압·맥박 확인](../conditions/orthostatic-dizziness.md#standing-vitals)을 함께 봅니다. 식욕저하·피로, 두근거림·얕은 잠, 명치의 그득함 등 동반 증상에 따른 보중익기탕·귀비탕·영계출감탕의 차이는 [기립성 어지럼의 변증·처방 비교](../conditions/orthostatic-dizziness.md#standing-patterns)에서 확인할 수 있습니다.
+
 ## 스트레스 받으면 소화가 안 돼요 {#스트레스-받으면-소화가-안-돼요}
 긴장한 날 식후 포만이 오래가는지, 식사량이 줄어 피로와 두근거림이 생기는지, 잠을 못 잔 다음 날 악화하는지 시간 관계를 살핍니다. [기능성소화불량의 복합 증상](../conditions/functional-dyspepsia.md#combined-symptoms)과 [불면·소화불편 질문](../questions/choice/insomnia-dyspepsia.md)을 함께 읽습니다.
 
@@ -26,10 +28,14 @@ description: 스트레스와 어지럼·소화불량·목 이물감·냉증·부
 ## 목에 뭔가 걸린 느낌·매핵기 {#목에-뭔가-걸린-느낌매핵기}
 음식은 넘어가는데 목에 걸린 듯한 느낌인지, 실제 음식·물이 걸리고 삼키기 어려운지를 나눕니다. 통증·진행성 연하곤란·체중감소가 있으면 구조적 인후·식도 문제를 확인합니다. 후비루·역류·목 사용과의 관계도 묻습니다. 전통적으로 목 이물감과 흉민·담이 함께 나타나는 담기울결에서는 [반하후박탕](../formulas/banxia-houpo-tang.md)을 비교합니다. 긴장과 연동된다는 이유만으로 실제 삼킴 장애를 매핵기로 묶지 않습니다.
 
+목 이물감에 트림·가슴 답답함이 겹치는지, 식욕저하·피로가 두드러지는지에 따라 처방을 달리 살핍니다. [매핵기의 변증·처방 비교](../conditions/globus.md#formula-context)에서 반하후박탕·시호소간산·분심기음·육군자탕의 배합과 활용을 이어서 읽을 수 있습니다.
+
 ## 손발냉증·냉증 {#손발냉증냉증}
 손발만 찬지 전신이 추운지, 좌우가 같은지, 피부색 변화·통증·저림과 연결되는지 살핍니다. 피로·식사량·월경·복용약도 확인합니다. 냉감만으로 체질이나 양허를 결정하지 않으며, [사상의학 한열 원전](../sasang-original-symptoms/cold-heat.md)에서 평소 소증과 현재 병중 변화를 구분합니다.
 
 전통적 처방에서는 냉감에 수습·부종 등이 겹치는 양허수습의 진무탕과 충임허한·어혈을 살피는 온경탕의 맥락이 다릅니다. 두 처방을 단순한 손발냉증 약으로 서로 바꿔 읽지 않습니다.
+
+손발이 차면서 땀도 난다면 땀이 나는 시간과 긴장·피로·갈증·야간 열감을 함께 살핍니다. [손발의 냉감·발한과 한약처방](../conditions/cold-sweaty-hands.md#_5)에서 옥병풍산·생맥산·분심기음·당귀육황탕을 동반 증상에 따라 비교합니다.
 
 ## 부종·몸이 잘 붓는다 {#부종몸이-잘-붓는다}
 | 병증 | 처방 |
@@ -52,6 +58,7 @@ description: 스트레스와 어지럼·소화불량·목 이물감·냉증·부
 → [방제 찾기](../herbal-integrated/formulas.md)  
 → [본초 찾기](../herbal-integrated/herbs.md)  
 → [침구·치료 증상으로 찾기](../acupuncture-integrated/by-symptom.md)  
+→ [스트레스·자율신경 증상과 경혈](../acupuncture-integrated/points-for-stress-autonomic.md) · [내관 PC6](../acupuncture/points/pc6-neiguan.md) · [신문 HT7](../acupuncture/points/ht7-shenmen.md)<br>
 → [치료·경과·근거](treatment-evidence.md)
 
 ## 헷갈리기 쉬운 증상 연결 {#_3}
