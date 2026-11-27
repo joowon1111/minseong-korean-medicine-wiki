@@ -277,6 +277,22 @@ last_reviewed: '2026-08-23'
 
 [지식 그래프](https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json)는 문서 개체·동의어·분류·내부 연결을 탐색하는 자료이고, [매니페스트](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json)는 해당 빌드의 문서·관계 수와 무결성을 확인하는 자료입니다. 개별 주장을 인용할 때는 JSON 주소보다 원문 HTML의 해당 절과 연구 출처를 표시합니다. [데이터별 안내](../ai-index.md#_17) · [llms.txt](https://wiki.minseong.co.kr/llms.txt)
 
+### 온톨로지 구축을 위한 출처 기반 관계 {#explicit-relations}
+
+[한의학 지식망의 온톨로지 안내](../network/index.md#ontology)에서 설명한 구성·소속 관계 가운데, 본문에서 직접 확인한 사례는 [출처 기반 관계 자료](https://wiki.minseong.co.kr/assets/ai/knowledge-assertions.json)로 제공합니다. 기존 지식 그래프는 문서 간 탐색 링크를, 이 자료는 **관계의 종류·적용 문맥·근거 문장**을 담습니다.
+
+| 관계 이름 | 의미 | 현재 정리한 사례 |
+|---|---|---|
+| `has_ingredient` | 지정한 수록본·기본 구성에서 해당 본초를 포함 | 사군자탕·육군자탕·금궤요략 산조인탕의 구성 본초 |
+| `has_base_formula` | 배합 구조에서 기본 골격이 되는 처방 | 육군자탕의 사군자탕 골격 |
+| `belongs_to_meridian` | 표준 경혈의 소속 경맥 | 족삼리와 족양명위경, 신문과 수소음심경 |
+
+각 항목의 `source`·`target`은 지식 그래프의 개체 ID와 연결되고, `context`에는 수록본·배합의 범위를 기록합니다. `evidence`는 출처 문서의 경로·명시된 앵커·본문 발췌·대표 HTML 주소를 제공합니다. 산조인탕의 《금궤요략》 5미 구성처럼 **어느 수록형의 관계인지**를 유지하여 동명 처방과 현대 제제의 차이를 확인할 수 있게 합니다.
+
+현재 자료는 위 사례를 대상으로 정리한 초기 범위입니다. 처방의 구성 관계는 해당 수록본·구성 문맥에 적용하며, 치료효과는 질환·처방 본문의 임상연구에서 따로 확인합니다. 기존 `links_to*`는 탐색 관계로 유지하고, 구성·소속 관계는 명시적으로 기록한 항목을 사용합니다. 본문이나 명시된 앵커가 없어지거나 발췌가 달라지면 자료 생성 단계에서 오류로 알려 출처를 다시 확인하도록 합니다.
+
+파일 형식은 [관계 스키마](https://wiki.minseong.co.kr/assets/ai/knowledge-assertions-schema.json), 현재 수록 수와 관계별 범위는 [매니페스트](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json)의 `assertion_count`·`assertion_types`에서 확인합니다. 인용에는 `evidence.url`의 본문과 연결된 원출처를 사용합니다. 구성·소속의 출처 기반 데이터를 축적하여 한의학 온톨로지의 관계 정의와 검증 범위를 넓히는 기반으로 삼습니다.
+
 ## 문서 주소와 출처 {#_2}
 
 - 문서의 대표 주소와 제목 링크로 내용을 공유할 수 있습니다.

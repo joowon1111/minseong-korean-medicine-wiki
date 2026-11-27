@@ -1,0 +1,174 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wiki.minseong.co.kr/assets/ai/knowledge-assertions-schema.json",
+  "title": "Source-attributed descriptive relations in the Minseong archive",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "relation_types",
+    "assertions"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "relation_types": {
+      "type": "object",
+      "required": [
+        "has_ingredient",
+        "has_base_formula",
+        "belongs_to_meridian"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "has_ingredient": {
+          "type": "object",
+          "required": [
+            "label",
+            "meaning",
+            "source_type",
+            "target_type"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string",
+              "minLength": 1
+            },
+            "meaning": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_type": {
+              "type": "string",
+              "minLength": 1
+            },
+            "target_type": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "has_base_formula": {
+          "type": "object",
+          "required": [
+            "label",
+            "meaning",
+            "source_type",
+            "target_type"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string",
+              "minLength": 1
+            },
+            "meaning": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_type": {
+              "type": "string",
+              "minLength": 1
+            },
+            "target_type": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "belongs_to_meridian": {
+          "type": "object",
+          "required": [
+            "label",
+            "meaning",
+            "source_type",
+            "target_type"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string",
+              "minLength": 1
+            },
+            "meaning": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_type": {
+              "type": "string",
+              "minLength": 1
+            },
+            "target_type": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    "assertions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source",
+          "relation",
+          "target",
+          "context",
+          "evidence"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "source": {
+            "type": "string",
+            "pattern": "^km:"
+          },
+          "relation": {
+            "enum": [
+              "has_ingredient",
+              "has_base_formula",
+              "belongs_to_meridian"
+            ]
+          },
+          "target": {
+            "type": "string",
+            "pattern": "^km:"
+          },
+          "context": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence": {
+            "type": "object",
+            "required": [
+              "source_path",
+              "anchor",
+              "quote",
+              "url"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "source_path": {
+                "type": "string",
+                "pattern": "\\.md$"
+              },
+              "anchor": {
+                "type": "string"
+              },
+              "quote": {
+                "type": "string",
+                "minLength": 1
+              },
+              "url": {
+                "type": "string",
+                "pattern": "^https://wiki\\.minseong\\.co\\.kr/"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

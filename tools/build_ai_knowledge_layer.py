@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Build a deterministic, machine-readable knowledge layer from MkDocs pages.
 
-Only explicit document metadata and internal links are exported. Diagnostic
+Explicit document metadata and internal links form the navigation graph. A
+separate file exports selected source-attributed descriptive assertions. Diagnostic
 codes are never inferred from prose: they are included only when a document
 front matter explicitly provides them.
 """
@@ -28,6 +29,25 @@ OUT_DIR = DOCS / "assets" / "ai"
 SCHEMA_SOURCE = Path("tools/ai-knowledge/schema-v1.json")
 BASE_URL = "https://wiki.minseong.co.kr"
 SCHEMA_VERSION = "1.0"
+ASSERTION_SOURCE = Path("data/knowledge-assertions.json")
+ASSERTION_SCHEMA = Path("tools/ai-knowledge/assertions-schema-v1.json")
+RELATION_TYPES = {
+    "has_ingredient": {
+        "label": "구성 본초",
+        "meaning": "명시된 수록본·기본 구성에서 처방이 해당 본초를 포함함",
+        "source_type": "formula", "target_type": "herb",
+    },
+    "has_base_formula": {
+        "label": "기본 처방",
+        "meaning": "출처에 설명된 배합 구조에서 기본 골격이 되는 처방",
+        "source_type": "formula", "target_type": "formula",
+    },
+    "belongs_to_meridian": {
+        "label": "소속 경맥",
+        "meaning": "표준 경혈의 소속 경맥",
+        "source_type": "acupoint", "target_type": "meridian",
+    },
+}
 
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
 HTML_LINK_RE = re.compile(r"""href\s*=\s*["']([^"'#]+(?:#[^"']*)?)["']""", re.I)
@@ -129,6 +149,9 @@ def entity_type(path: Path) -> str:
         kind = supplementary_type(path.stem)
         if kind:
             return kind
+    if (path.parent == DOCS / "meridian-network"
+            and path.stem not in {"index", "extraordinary-vessels"}):
+        return "meridian"
     rules = (
         ("authority/conditions/", "condition_evidence"),
         ("authority/herbs/", "herb_evidence"),
@@ -413,6 +436,82 @@ def validate(entities: list[dict], relations: list[dict]) -> None:
         raise ValueError(f"Duplicate relations: {duplicate_relations}")
 
 
+def build_assertions(entities: list[dict], source: Path | None = None) -> dict:
+    """Export curated descriptive relations separately from navigation links.
+
+    Missing entities, invalid relation domains, stale excerpts and anchors fail
+    the build. No medical relations are inferred from links or word co-occurrence.
+    """
+    source = ASSERTION_SOURCE if source is None else source
+    data = json.loads(source.read_text(encoding="utf-8"))
+    if not isinstance(data, dict) or set(data) != {"schema_version", "assertions"}:
+        raise ValueError("Invalid assertion source structure")
+    if data["schema_version"] != "1.0" or not isinstance(data["assertions"], list):
+        raise ValueError("Invalid assertion source version or rows")
+    by_id = {item["id"]: item for item in entities}
+    by_path = {item["source_path"]: item for item in entities}
+    seen = set()
+    result = []
+    for row in data["assertions"]:
+        if (not isinstance(row, dict)
+                or set(row) != {"source", "relation", "target", "context", "evidence"}):
+            raise ValueError("Invalid assertion row")
+        for field in ("source", "relation", "target", "context"):
+            if not isinstance(row[field], str) or not row[field].strip():
+                raise ValueError(f"Invalid assertion {field}")
+        definition = RELATION_TYPES.get(row["relation"])
+        if definition is None:
+            raise ValueError(f"Unsupported assertion relation: {row['relation']}")
+        for field in ("source", "target"):
+            entity = by_id.get(row[field])
+            if entity is None or entity["type"] != definition[field + "_type"]:
+                raise ValueError(f"Unknown or incompatible assertion {field}: {row[field]}")
+        if row["source"] == row["target"]:
+            raise ValueError("Self-referential assertion")
+        evidence = row["evidence"]
+        if (not isinstance(evidence, dict)
+                or set(evidence) != {"source_path", "anchor", "quote"}
+                or any(not isinstance(evidence[k], str) for k in evidence)):
+            raise ValueError("Invalid assertion evidence")
+        cited_entity = by_path.get(evidence["source_path"])
+        if cited_entity is None:
+            raise ValueError("Assertion evidence document does not exist")
+        text = (DOCS / evidence["source_path"]).read_text(encoding="utf-8-sig")
+        _, body = parse_frontmatter(text)
+        body = re.sub(r"<!--.*?(?:-->|\Z)", "", body, flags=re.S)
+        body = re.sub(r"<(script|style|template)\b[^>]*>.*?(?:</\1\s*>|\Z)",
+                      "", body, flags=re.I | re.S)
+        anchor = evidence["anchor"]
+        passage = body
+        if anchor:
+            heading = re.search(
+                r"^(#{1,6})[ \t]+[^\n]*\{#" + re.escape(anchor) + r"\}[^\n]*(?:\n|$)",
+                body, flags=re.M,
+            )
+            if heading is None:
+                raise ValueError(f"Assertion evidence anchor is missing: {anchor}")
+            passage = body[heading.end():]
+            boundary = re.search(r"^#{1," + str(len(heading.group(1))) + r"}[ \t]+",
+                                 passage, flags=re.M)
+            if boundary:
+                passage = passage[:boundary.start()]
+        if not evidence["quote"].strip() or evidence["quote"] not in passage:
+            raise ValueError("Assertion evidence quote is missing or stale in its section")
+        key = (row["source"], row["relation"], row["target"], row["context"])
+        if key in seen:
+            raise ValueError("Duplicate assertion in the same context")
+        seen.add(key)
+        result.append({**row, "evidence": {
+            **evidence, "url": cited_entity["url"] + ("#" + anchor if anchor else ""),
+        }})
+    return {
+        "schema_version": "1.0",
+        "relation_types": RELATION_TYPES,
+        "assertions": sorted(result, key=lambda r: (
+            r["source"], r["relation"], r["target"], r["context"])),
+    }
+
+
 def json_bytes(value, *, pretty: bool = False) -> bytes:
     if pretty:
         text = json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
@@ -444,6 +543,8 @@ def main() -> int:
 
     entities, relations = build()
     validate(entities, relations)
+    assertions = build_assertions(entities)
+    assertion_bytes = json_bytes(assertions)
     entity_types = Counter(item["type"] for item in entities)
     relation_types = Counter(item["relation"] for item in relations)
     safety_count = sum(item["safety"]["has_safety_section"] for item in entities)
@@ -461,6 +562,10 @@ def main() -> int:
         "languages": sorted({item["language"] for item in entities}),
         "entity_count": len(entities),
         "relation_count": len(relations),
+        "assertion_count": len(assertions["assertions"]),
+        "assertion_types": dict(sorted(Counter(
+            row["relation"] for row in assertions["assertions"]).items())),
+        "assertion_sha256": hashlib.sha256(assertion_bytes).hexdigest(),
         "entity_types": dict(sorted(entity_types.items())),
         "relation_types": dict(sorted(relation_types.items())),
         "safety_section_entities": safety_count,
@@ -468,7 +573,9 @@ def main() -> int:
         "content_sha256": hashlib.sha256(payload_bytes).hexdigest(),
         "files": {
             "knowledge_graph": "/assets/ai/knowledge-graph.json",
-            "schema": "/assets/ai/knowledge-schema.json"
+            "schema": "/assets/ai/knowledge-schema.json",
+            "assertions": "/assets/ai/knowledge-assertions.json",
+            "assertions_schema": "/assets/ai/knowledge-assertions-schema.json"
         },
         "code_policy": "explicit_metadata_only",
         "contains_patient_data": False
@@ -476,6 +583,8 @@ def main() -> int:
 
     expected = {
         OUT_DIR / "knowledge-graph.json": payload_bytes,
+        OUT_DIR / "knowledge-assertions.json": assertion_bytes,
+        OUT_DIR / "knowledge-assertions-schema.json": ASSERTION_SCHEMA.read_bytes(),
         OUT_DIR / "knowledge-manifest.json": json_bytes(manifest, pretty=True),
         OUT_DIR / "knowledge-schema.json": SCHEMA_SOURCE.read_bytes()
     }

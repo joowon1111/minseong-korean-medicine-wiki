@@ -1,0 +1,203 @@
+{
+  "schema_version": "1.0",
+  "assertions": [
+    {
+      "source": "km:formulas/sijunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/ginseng",
+      "context": "《태평혜민화제국방》 권3 사군자탕의 4미 구성",
+      "evidence": {
+        "source_path": "formulas/sijunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 등분 | 노두 제거 | 기를 보하고 비위·회복의 바탕을 받침 |"
+      }
+    },
+    {
+      "source": "km:formulas/sijunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/atractylodes",
+      "context": "《태평혜민화제국방》 권3 사군자탕의 4미 구성",
+      "evidence": {
+        "source_path": "formulas/sijunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 등분 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+      }
+    },
+    {
+      "source": "km:formulas/sijunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/poria",
+      "context": "《태평혜민화제국방》 권3 사군자탕의 4미 구성",
+      "evidence": {
+        "source_path": "formulas/sijunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [복령](../herbs/poria.md) · 茯苓 | 등분 | 껍질 제거 | 건비·삼습으로 수습의 정체를 조절 |"
+      }
+    },
+    {
+      "source": "km:formulas/sijunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/licorice",
+      "context": "《태평혜민화제국방》 권3 사군자탕의 4미 구성",
+      "evidence": {
+        "source_path": "formulas/sijunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [감초](../herbs/licorice.md) · 甘草 | 등분 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+      }
+    },
+    {
+      "source": "km:formulas/liujunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/ginseng",
+      "context": "《의학심오》 권3 육군자탕의 6미 구성; 전탕 시 생강·대조를 더함",
+      "evidence": {
+        "source_path": "formulas/liujunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+      }
+    },
+    {
+      "source": "km:formulas/liujunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/atractylodes",
+      "context": "《의학심오》 권3 육군자탕의 6미 구성; 전탕 시 생강·대조를 더함",
+      "evidence": {
+        "source_path": "formulas/liujunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 1전 | 오래된 흙과 함께 볶음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+      }
+    },
+    {
+      "source": "km:formulas/liujunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/poria",
+      "context": "《의학심오》 권3 육군자탕의 6미 구성; 전탕 시 생강·대조를 더함",
+      "evidence": {
+        "source_path": "formulas/liujunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [복령](../herbs/poria.md) · 茯苓 | 1전 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+      }
+    },
+    {
+      "source": "km:formulas/liujunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/licorice",
+      "context": "《의학심오》 권3 육군자탕의 6미 구성; 전탕 시 생강·대조를 더함",
+      "evidence": {
+        "source_path": "formulas/liujunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1전 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+      }
+    },
+    {
+      "source": "km:formulas/liujunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/pinellia",
+      "context": "《의학심오》 권3 육군자탕의 6미 구성; 전탕 시 생강·대조를 더함",
+      "evidence": {
+        "source_path": "formulas/liujunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 1전 | 뜨거운 물에 7회 담금 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+      }
+    },
+    {
+      "source": "km:formulas/liujunzi-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/citrus-peel",
+      "context": "《의학심오》 권3 육군자탕의 6미 구성; 전탕 시 생강·대조를 더함",
+      "evidence": {
+        "source_path": "formulas/liujunzi-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 1전 | 흰 속껍질 제거 | 이기·조습으로 팽만과 담습을 조절 |"
+      }
+    },
+    {
+      "source": "km:formulas/suanzaoren-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/ziziphus-seed",
+      "context": "《금궤요략방론》 허로편 산조인탕의 5미 기본 구성",
+      "evidence": {
+        "source_path": "formulas/suanzaoren-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 2승 | 별도 포제 표기 없음 | 음혈을 바탕으로 심신을 안정시키는 축 |"
+      }
+    },
+    {
+      "source": "km:formulas/suanzaoren-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/anemarrhena",
+      "context": "《금궤요략방론》 허로편 산조인탕의 5미 기본 구성",
+      "evidence": {
+        "source_path": "formulas/suanzaoren-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [지모](../herbs/anemarrhena.md) · 知母 | 2량 | 별도 포제 표기 없음 | 열을 조절하면서 음액 소모를 함께 살핌 |"
+      }
+    },
+    {
+      "source": "km:formulas/suanzaoren-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/poria",
+      "context": "《금궤요략방론》 허로편 산조인탕의 5미 기본 구성",
+      "evidence": {
+        "source_path": "formulas/suanzaoren-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [복령](../herbs/poria.md) · 茯苓 | 2량 | 별도 포제 표기 없음 | 영심안신을 돕고 건비·삼습으로 배합을 받침 |"
+      }
+    },
+    {
+      "source": "km:formulas/suanzaoren-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/chuanxiong",
+      "context": "《금궤요략방론》 허로편 산조인탕의 5미 기본 구성",
+      "evidence": {
+        "source_path": "formulas/suanzaoren-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [천궁](../herbs/chuanxiong.md) · 芎藭 | 2량 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+      }
+    },
+    {
+      "source": "km:formulas/suanzaoren-tang",
+      "relation": "has_ingredient",
+      "target": "km:herbs/licorice",
+      "context": "《금궤요략방론》 허로편 산조인탕의 5미 기본 구성",
+      "evidence": {
+        "source_path": "formulas/suanzaoren-tang.md",
+        "anchor": "source-dose-original",
+        "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1량 | 별도 포제 표기 없음 | 중초를 돕고 완급·배합 조화를 맡음 |"
+      }
+    },
+    {
+      "source": "km:formulas/liujunzi-tang",
+      "relation": "has_base_formula",
+      "target": "km:formulas/sijunzi-tang",
+      "context": "사군자탕에 반하·진피를 더하는 육군자탕의 기본 골격",
+      "evidence": {
+        "source_path": "formulas/liujunzi-tang.md",
+        "anchor": "",
+        "quote": "육군자탕은 사군자탕에 반하·진피를 더한 후대 방제로 전승됐으며"
+      }
+    },
+    {
+      "source": "km:acupuncture/points/st36-zusanli",
+      "relation": "belongs_to_meridian",
+      "target": "km:meridian-network/stomach-meridian",
+      "context": "표준 경혈의 소속 경맥",
+      "evidence": {
+        "source_path": "acupuncture/points/st36-zusanli.md",
+        "anchor": "",
+        "quote": "| 소속 경맥 | 족양명위경 |"
+      }
+    },
+    {
+      "source": "km:acupuncture/points/ht7-shenmen",
+      "relation": "belongs_to_meridian",
+      "target": "km:meridian-network/heart-meridian",
+      "context": "표준 경혈의 소속 경맥",
+      "evidence": {
+        "source_path": "acupuncture/points/ht7-shenmen.md",
+        "anchor": "",
+        "quote": "| 소속 경맥 | 수소음심경 |"
+      }
+    }
+  ]
+}

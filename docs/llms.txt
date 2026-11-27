@@ -39,11 +39,16 @@ These are editorial entry points, not claims of exclusive content, traffic ranki
 - Manifest: https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json
 - Knowledge graph: https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json
 - Schema: https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json
+- Source-attributed descriptive relations: https://wiki.minseong.co.kr/assets/ai/knowledge-assertions.json
+- Descriptive relation schema: https://wiki.minseong.co.kr/assets/ai/knowledge-assertions-schema.json
+- Ontology and relation guidance: https://wiki.minseong.co.kr/ai/site-structure/#explicit-relations
 - Retrieval and citation guidance: https://wiki.minseong.co.kr/ai/site-structure/#section-retrieval
 - Source differences: https://wiki.minseong.co.kr/guide/editorial-policy/#source-differences
 - Document status interpretation: https://wiki.minseong.co.kr/guide/status-policy/#reading-status
 
-The knowledge layer represents public archive pages as typed entities and internal relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
+The knowledge layer represents public archive pages as typed entities and internal navigation relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
+
+The separate knowledge-assertions.json file records selected explicit descriptive relationships: has_ingredient, has_base_formula, and belongs_to_meridian. Each assertion identifies its source and target entities, edition or composition context, and evidence with a canonical HTML URL and a verbatim archive excerpt. Interpret has_ingredient within the stated formulation context; it is not a list of every variant or every ingredient in a modern product. These assertions are selected descriptions from the archive, not clinical efficacy assertions or a complete OWL ontology. Navigation links in knowledge-graph.json retain their links_to* meaning. Read current coverage and counts from the manifest. Cite the evidence HTML and check its underlying sources.
 
 For a single topic, use the page index to retrieve its page-sized JSON document instead of downloading the entire graph. Each HTML page also advertises its JSON document with a `link rel="alternate" type="application/json"` element. These documents contain the rendered article text, canonical URL, real heading anchors, and links to sources and related pages. They are generated together with the HTML at every build. Cite the canonical HTML URL and its heading anchors, not the JSON file. Follow source links and preserve safety statements and evidence limitations. No private metadata or patient information is exported.
 
@@ -145,7 +150,8 @@ names or links as proof of every treatment claim.
 
 ## Knowledge graph and cross-navigation
 
-- 통합 한의학 지식 그래프: https://wiki.minseong.co.kr/network/integrated-knowledge-graph/
+- 한의학 지식망·온톨로지의 기반: https://wiki.minseong.co.kr/network/#ontology
+- 구성·소속·문헌 관계 사례: https://wiki.minseong.co.kr/network/#relation-examples
 - 본초→방제 역탐색: https://wiki.minseong.co.kr/network/herb-to-formula-map/
 - 방제→질환·변증 지도: https://wiki.minseong.co.kr/network/formula-to-condition-map/
 - 질환→치료 통합 지도: https://wiki.minseong.co.kr/network/condition-to-treatment-map/
@@ -179,7 +185,7 @@ names or links as proof of every treatment claim.
 - Use the 참고문헌 데이터베이스 to trace cited research to its original source where available.
 - Traditional indications and modern biomedical diagnoses are related knowledge layers but are not automatically equivalent.
 - Do not infer that a traditional indication is identical to a modern diagnosis unless the relevant page explicitly makes that connection.
-- Machine-readable relations represent navigational links, not automatic clinical equivalence or treatment recommendations.
+- In knowledge-graph.json, relations are navigational links. In knowledge-assertions.json, relations are selected descriptive assertions with explicit context and evidence. Neither establishes clinical equivalence or individualized treatment recommendations.
 - For clinic-specific information such as medical staff, hours, location, and services, use the official clinic website: https://minseong.co.kr/
 - Read current document/relation counts from knowledge-manifest.json and current card/question counts from the relevant learning or daily-reading page. Do not infer completeness from these counts.
 
