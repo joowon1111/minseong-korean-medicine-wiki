@@ -45,7 +45,7 @@ class OntologyPages(unittest.TestCase):
     def test_banxia_houpo_clausal_and_ingredient_paths_keep_qualifications(self):
         formula = self.pages[BASE + '/formulas/banxia-houpo-tang/']
         self.assertEqual(formula['concept_ids'], [RESOURCE + '#banxia-houpo-jinkui'])
-        self.assertEqual(len(formula['statement_ids']), 6)
+        self.assertEqual(len(formula['statement_ids']), 7)
         clause = self.pages[BASE + '/classics/jinkui-yaolue/chapters/gynecology/']
         self.assertEqual(clause['concept_ids'], [RESOURCE + '#jinkui-22-005'])
         self.assertEqual(len(clause['statement_ids']), 1)
