@@ -632,6 +632,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#phlegm-qi-binding",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/diagnostics/patterns/phlegm-fluid/#phlegm-qi-binding"
+      },
+      "skos:altLabel": [
+        "痰氣鬱結"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "담과 기의 울체가 함께 나타나 목 이물감·흉민·한숨·오심과 긴장·식사의 관계를 살피는 한의학적 변증."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "담기울결"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pinellia",
       "@type": [
         "skos:Concept",
@@ -989,6 +1013,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-houpo-jinkui--hasTraditionalPatternContext--phlegm-qi-binding",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "[반하후박탕](../../formulas/banxia-houpo-tang.md#source-dose-original)은 이 담기울결의 맥락에서 비교하는 처방입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/diagnostics/patterns/phlegm-fluid/#phlegm-qi-binding"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#phlegm-qi-binding"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "금궤요략 5미 수록형을 담기울결의 후대 변증·배합 해설과 연결한다. 목 이물감·흉민·한숨·오심과 긴장·식사의 관계를 함께 살피며, 비허담습과 실제 연하곤란의 감별 및 시험 제형·연구 대상은 해당 본문에서 확인한다."
       }
     },
     {
