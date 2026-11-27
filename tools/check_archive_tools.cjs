@@ -40,6 +40,29 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       assert.match(projected.text,/반하후박탕 — 금궤요략 수록형/);
       assert.equal(projected.hasSource,true); assert.equal(projected.emptyLinks,0);
       assert.equal(projected.overflow,false,'ontology tables must fit the viewport');
+      const variantPairs=new Set(ontology['@graph'].filter(n=>n['@type']==='rdf:Statement'&&n['rdf:predicate']['@id']==='km:sharesNameWith').map(n=>JSON.stringify([n['rdf:subject']['@id'],n['rdf:object']['@id']].sort())));
+      const comparisons=page.locator('details.ontology-variant-comparison');
+      assert.equal(await comparisons.count(),variantPairs.size);
+      for(let i=0;i<await comparisons.count();i++){
+        const panel=comparisons.nth(i);
+        await panel.locator(':scope > summary').click();
+        const notes=panel.locator('details.ontology-variant-records');
+        await notes.locator(':scope > summary').click();
+        assert.ok((await panel.locator('a').count())>0);
+        const text=await panel.innerText();
+        assert.match(text,/공통으로 등록된 본초/);
+        assert.match(text,/구성 근거/);
+        assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+2),false,'expanded variant tables must fit the viewport');
+        await panel.locator(':scope > summary').click();
+      }
+      for(const term of ['先與小建中湯','不差者，與小柴胡湯']){
+        const note=page.locator('details.ontology-clause-context').filter({hasText:term});
+        assert.equal(await note.count(),1);
+        await note.locator(':scope > summary').click();
+        assert.equal(await note.locator('p').first().isVisible(),true);
+        assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+2),false,'expanded clause conditions must fit the viewport');
+        await note.locator(':scope > summary').click();
+      }
       await page.locator('#ontology-formula-compositions').scrollIntoViewIfNeeded();
       await page.screenshot({path:`archive-browser-results/${name}-ontology-compositions.png`,fullPage:false});
       for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark','perilla-leaf','magnolia-bark','astragalus','angelica','licorice','prepared-rehmannia']){

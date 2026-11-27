@@ -10,6 +10,7 @@ MARKER = '<!-- MINSEONG_ONTOLOGY_COMPOSITION_TABLES -->'
 HERB_MARKER = '<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->'
 MERIDIAN_MARKER = '<!-- MINSEONG_ONTOLOGY_MERIDIAN_MEMBERS -->'
 CLASSICAL_MARKER = '<!-- MINSEONG_ONTOLOGY_CLASSICAL_FORMULAS -->'
+VARIANT_MARKER = '<!-- MINSEONG_ONTOLOGY_VARIANT_COMPARISONS -->'
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -94,10 +95,78 @@ def herb_formula_table(payload, source_path):
     return '\n'.join(lines)
 
 
+def variant_comparisons(payload):
+    """Compare explicit same-name pairs using their qualified ingredient records."""
+    nodes = {node['@id']: node for node in payload['@graph']}
+    ingredients = defaultdict(set)
+    sources = defaultdict(set)
+    records = defaultdict(lambda: defaultdict(set))
+    pairs = defaultdict(set)
+    for node in nodes.values():
+        if node['@type'] != 'rdf:Statement':
+            continue
+        subject, target = node['rdf:subject']['@id'], node['rdf:object']['@id']
+        predicate = node['rdf:predicate']['@id']
+        if predicate == 'km:containsHerb':
+            ingredients[subject].add(target)
+            sources[subject].add(node['dcterms:source']['@id'])
+            records[subject][target].add((node['dcterms:source']['@id'], node['skos:scopeNote']['@value']))
+        elif predicate == 'km:sharesNameWith':
+            if any('km:Formula' not in nodes[key]['@type'] for key in (subject, target)):
+                raise ValueError('Invalid formula variant view types')
+            pairs[tuple(sorted((subject, target)))].add(
+                (node['dcterms:source']['@id'], node['skos:scopeNote']['@value']))
+
+    def label(key):
+        return nodes[key]['skos:prefLabel']['@value']
+
+    def herb_links(keys):
+        return ' · '.join(link(label(key), nodes[key]['foaf:page']['@id'])
+                          for key in sorted(keys, key=lambda key: (label(key), key))) or '—'
+
+    lines = []
+    for pair in sorted(pairs, key=lambda pair: (label(pair[0]), label(pair[1]), pair)):
+        first, second = pair
+        if not ingredients[first] or not ingredients[second]:
+            raise ValueError('Variant comparison requires registered ingredients')
+        common = ingredients[first] & ingredients[second]
+        lines += ['<details class="ontology-variant-comparison">',
+                  '<summary>' + escape(label(first) + ' ↔ ' + label(second)) + '</summary>',
+                  '<p><strong>공통으로 등록된 본초 (' + str(len(common)) + ')</strong><br>'
+                  + herb_links(common) + '</p>',
+                  '<table><thead><tr><th>수록형</th><th>한쪽에만 등록된 본초</th>'
+                  '<th>수록형의 정의·구성 출처</th></tr></thead><tbody>']
+        for key, other in [(first, second), (second, first)]:
+            refs = ' · '.join(link('구성 출처 ' + str(i), url)
+                              for i, url in enumerate(sorted(sources[key]), 1))
+            lines.append('<tr><td>' + link(label(key), nodes[key]['foaf:page']['@id'])
+                         + '</td><td>' + herb_links(ingredients[key] - ingredients[other])
+                         + '</td><td>' + escape(nodes[key]['skos:definition']['@value'])
+                         + '<br>' + refs + '</td></tr>')
+        lines.append('</tbody></table>')
+        lines += ['<details class="ontology-variant-records"><summary>약미별 수록 조건·출처</summary>',
+                  '<table><thead><tr><th>등록된 본초</th><th>' + escape(label(first))
+                  + '</th><th>' + escape(label(second)) + '</th></tr></thead><tbody>']
+        for herb in sorted(ingredients[first] | ingredients[second], key=lambda key: (label(key), key)):
+            cells = []
+            for formula in pair:
+                notes = ''.join('<p>' + escape(scope) + ' ' + link('구성 근거', source) + '</p>'
+                                for source, scope in sorted(records[formula][herb]))
+                cells.append('<td>' + (notes or '—') + '</td>')
+            lines.append('<tr><td>' + link(label(herb), nodes[herb]['foaf:page']['@id'])
+                         + '</td>' + ''.join(cells) + '</tr>')
+        lines.append('</tbody></table></details>')
+        for source, scope in sorted(pairs[pair]):
+            lines.append('<p><strong>비교할 수록 조건</strong><br>' + escape(scope)
+                         + ' ' + link('관계의 근거', source) + '</p>')
+        lines += ['</details>', '']
+    return '\n'.join(lines)
+
+
 def classical_formula_table(payload):
     """Follow explicit clause-to-formula and formula-to-herb records only."""
     nodes = {node['@id']: node for node in payload['@graph']}
-    rows = set()
+    rows = defaultdict(set)
     herbs = defaultdict(set)
     for node in nodes.values():
         if node['@type'] != 'rdf:Statement':
@@ -108,20 +177,23 @@ def classical_formula_table(payload):
             if ('km:ClassicalPassage' not in nodes[subject]['@type']
                     or 'km:Formula' not in nodes[target]['@type']):
                 raise ValueError('Invalid classical formula view types')
-            rows.add((subject, target, node['dcterms:source']['@id']))
+            rows[(subject, target, node['dcterms:source']['@id'])].add(node['skos:scopeNote']['@value'])
         elif predicate == 'km:containsHerb':
             herbs[subject].add(target)
 
     def label(key):
         return nodes[key]['skos:prefLabel']['@value']
 
-    lines = ['| 원전 조문 | 수록된 처방 | 등록된 구성 본초·보조재료 |', '|---|---|---|']
+    lines = ['| 원전 조문 | 수록된 처방 | 등록된 구성 본초·보조재료 | 조문의 조건·순서 |', '|---|---|---|---|']
     for clause, formula, source in sorted(rows):
         ingredients = ' · '.join(link(label(key), nodes[key]['foaf:page']['@id'])
                                  for key in sorted(herbs[formula], key=lambda key: (label(key), key)))
+        contexts = ''.join('<p>' + escape(scope).replace('|', '&#124;').replace('\n', '<br>') + '</p>'
+                           for scope in sorted(rows[(clause, formula, source)]))
+        note = '<details class="ontology-clause-context"><summary>조건·순서 보기</summary>' + contexts + '</details>'
         lines.append('| ' + link(label(clause), source)
                      + ' | ' + link(label(formula), nodes[formula]['foaf:page']['@id'])
-                     + ' | ' + ingredients + ' |')
+                     + ' | ' + ingredients + ' | ' + note + ' |')
     return '\n'.join(lines) + '\n'
 
 
@@ -185,6 +257,10 @@ def on_page_markdown(markdown, *, page, config, files):
     if markdown.count(MARKER) != 1:
         raise ValueError('The network page needs exactly one ontology composition marker')
     markdown = markdown.replace(MARKER, render_for_docs(str(config['docs_dir'])))
+    if VARIANT_MARKER in markdown:
+        if markdown.count(VARIANT_MARKER) != 1:
+            raise ValueError('The network page needs one formula variant marker')
+        markdown = markdown.replace(VARIANT_MARKER, variant_comparisons(herb_payload(str(config['docs_dir']))))
     if CLASSICAL_MARKER in markdown:
         if markdown.count(CLASSICAL_MARKER) != 1:
             raise ValueError('The network page needs one classical formula marker')

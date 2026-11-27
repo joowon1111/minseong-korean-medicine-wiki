@@ -341,6 +341,7 @@ last_reviewed: '2026-08-23'
 | 황기가 들어간 처방은? | 관계 `km:containsHerb`, 대상 `astragalus`인 진술의 주체를 조회 | 보중익기탕·당귀보혈탕·십전대보탕·쌍화탕·귀비탕의 수록형과 각 포제·약량 |
 | 귀비탕에는 당귀·원지가 들어가는가? | `guibi-jisheng`과 `guibi-donguibogam`을 각각 선택 | 제생방 기본 8미와 동의보감의 당귀·원지 포함 10미·생강 대추 추가형 |
 | 경옥고의 복령량은 같은가? | `gyeongok-hongshi`·`gyeongok-donguibogam-ipmun`·`gyeongok-donguibogam-wisaeng`을 구분 | 복령 49량·48량과 위생방 별기 24량 및 전체 제조 비율 |
+| 같은 이름의 처방은 무엇을 비교할까요? | 명시된 `km:sharesNameWith`의 두 대상을 선택한 뒤 각 수록형의 `km:containsHerb`를 개념 ID로 비교 | 공통·한쪽에만 등록된 본초와 각 진술의 원문 약명·약량·포제·제법. [수록형 비교 보기](../network/index.md#ontology-formula-variants) |
 | 소건중탕의 두 수록형은 어떻게 다른가? | `xiaojianzhong-shanghan`·`xiaojianzhong-jinkui`를 따로 조회 | 감초 2량·대조 20매와 감초 3량·대조 12매, 교이의 용화 제법 |
 | 상한론 100조의 처방과 구성은? | 주체 `shanghan-100`, 관계 `km:recordsFormula`인 진술을 고른 뒤 각 대상의 `km:containsHerb`를 조회 | 먼저 소건중탕, 불차 시 소시호탕이라는 조문의 순서·조건과 각 구성표. [조문→처방→본초](../network/index.md#ontology-classical-formulas) |
 | 심포경의 전체 경혈은? | 관계 `km:belongsToMeridian`, 대상 `pericardium-meridian`인 모든 진술의 주체를 선택하고 `skos:notation`의 번호순으로 정렬 | PC1–PC9의 9혈과 각 진술의 출처·근거 발췌. [경맥별 전체 소속 경혈](../network/index.md#ontology-meridian-members) |
