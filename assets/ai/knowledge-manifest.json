@@ -43,11 +43,11 @@
     "ko-KR"
   ],
   "ontology": {
-    "concept_count": 24,
+    "concept_count": 28,
     "predicate_count": 6,
-    "sha256": "c52200d8f453d4525ec376a23fde61cb4fc93f6893452dae2c96c4e20c758b4a",
+    "sha256": "b344f4731fb6f7b7b7ae55e28837c4aba658f55eb9e73ec31d517e60ecb21ac1",
     "source_version": "1.0",
-    "statement_count": 31
+    "statement_count": 37
   },
   "red_flag_section_entities": 279,
   "relation_count": 30794,

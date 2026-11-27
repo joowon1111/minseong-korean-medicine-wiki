@@ -247,6 +247,31 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "반하후박탕",
+        "半夏厚朴湯"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병편의 반하·후박·복령·생강·건소엽 5미 구성."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "반하후박탕 — 금궤요략 수록형"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chuanxiong",
       "@type": [
         "skos:Concept",
@@ -463,6 +488,28 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jinkui-22-005",
+      "@type": [
+        "skos:Concept",
+        "km:ClassicalPassage"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/classics/jinkui-yaolue/chapters/gynecology/#clause-22-005"
+      },
+      "skos:altLabel": [],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "인후에 구운 고깃덩이가 있는 듯한 감각과 반하후박탕을 연결하는 금궤요략 부인잡병편 조문."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병 반하후박탕 조문"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jujube-fruit",
       "@type": [
         "skos:Concept",
@@ -533,6 +580,55 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "육군자탕 — 의학심오 수록형"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#magnolia-bark",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/magnolia-bark/"
+      },
+      "skos:altLabel": [
+        "厚朴"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "후박의 기원·약용 부위·가공과 배합을 확인하는 나무껍질 본초 개념."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "후박"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#perilla-leaf",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/perilla-leaf/"
+      },
+      "skos:altLabel": [
+        "紫蘇葉",
+        "乾蘇葉"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "차조기의 말린 잎을 사용하는 본초 개념. 자소자·자소경과 약용 부위를 구분한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "자소엽"
       }
     },
     {
@@ -781,6 +877,121 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-houpo-jinkui--containsHerb--fresh-ginger",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 5량 | 별도 포제 표기 없음 | 위기를 조화하고 오심·상역을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-ginger"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-houpo-jinkui--containsHerb--magnolia-bark",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [후박](../herbs/magnolia-bark.md) · 厚朴 | 3량 | 별도 포제 표기 없음 | 행기·조습·제만으로 흉복부 그득함을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#magnolia-bark"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-houpo-jinkui--containsHerb--perilla-leaf",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [자소엽](../herbs/perilla-leaf.md) · 乾蘇葉 | 2량 | 별도 포제 표기 없음 | 산한·행기로 표와 중초의 기체를 함께 다룸 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#perilla-leaf"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-houpo-jinkui--containsHerb--pinellia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [반하](../herbs/pinellia.md) · 半夏 | 1승 | 별도 포제 표기 없음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pinellia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-houpo-jinkui--containsHerb--poria",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [복령](../herbs/poria.md) · 茯苓 | 4량 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#poria"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-ht7--belongsToMeridian--heart-meridian",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -824,6 +1035,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "금궤요략 혈비허로병편의 虛勞虛煩不得眠，酸棗仁湯主之. 문헌 수록 관계이며 현대 임상시험 결과는 해당 연구에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jinkui-22-005--recordsFormula--banxia-houpo-jinkui",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "> 婦人咽中如有炙臠，半夏厚朴湯主之。"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/classics/jinkui-yaolue/chapters/gynecology/#clause-22-005"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui"
+      },
+      "rdf:predicate": {
+        "@id": "km:recordsFormula"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jinkui-22-005"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "금궤요략 부인잡병편의 婦人咽中如有炙臠，半夏厚朴湯主之. 원문의 인후 감각과 처방 수록을 연결하며 현대 연구의 환자군·시험 제형은 해당 연구에서 확인한다."
       }
     },
     {
