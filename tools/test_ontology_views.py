@@ -10,6 +10,38 @@ import ontology_views as views
 
 
 class OntologyViews(unittest.TestCase):
+    def test_meridian_members_are_complete_numerically_ordered_and_source_qualified(self):
+        text = views.meridian_members(self.payload)
+        rows = [line for line in text.splitlines() if line.startswith('| <a')]
+        self.assertEqual(len(rows), 14)
+        self.assertEqual(sum(int(line.split(' | ')[1]) for line in rows), 361)
+        pc = next(line for line in rows if '>수궐음심포경</a>' in line)
+        self.assertIn(' | 9 | ', pc)
+        self.assertIn('/pericardium-meridian/#_3', pc)
+        self.assertIn('>내관 PC6</a>', pc)
+        sp = next(line for line in rows if '>족태음비경</a>' in line)
+        self.assertLess(sp.index('SP2</a>'), sp.index('SP10</a>'))
+        payload = deepcopy(self.payload)
+        record = next(n for n in payload['@graph'] if n['@type'] == 'rdf:Statement'
+                      and n['rdf:predicate']['@id'] == 'km:belongsToMeridian')
+        duplicate = deepcopy(record)
+        duplicate['@id'] += '-another-source'
+        payload['@graph'].append(duplicate)
+        self.assertEqual(text, views.meridian_members(payload))
+        duplicate['rdf:predicate']['@id'] = 'km:links_to_meridian'
+        self.assertEqual(text, views.meridian_members(payload))
+
+    def test_network_marker_uses_the_existing_payload(self):
+        page = SimpleNamespace(file=SimpleNamespace(src_uri='network/index.md'))
+        text = views.on_page_markdown(views.MARKER + '\n' + views.MERIDIAN_MARKER,
+                                      page=page, config={'docs_dir': 'docs'}, files=[])
+        self.assertNotIn(views.MERIDIAN_MARKER, text)
+        self.assertIn('>회음 CV1</a>', text)
+        self.assertIn('>은교 GV28</a>', text)
+        with self.assertRaises(ValueError):
+            views.on_page_markdown(views.MARKER + views.MERIDIAN_MARKER * 2,
+                                    page=page, config={'docs_dir': 'docs'}, files=[])
+
     @classmethod
     def setUpClass(cls):
         cls.payload, _ = build_ontology(Path('docs'), Path('data/ontology.json'))
