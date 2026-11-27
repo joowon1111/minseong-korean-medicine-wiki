@@ -194,6 +194,28 @@
       "page": "classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017",
       "definition": "허로허번불득면과 산조인탕을 연결하는 금궤요략 혈비허로병편 조문.",
       "aliases": []
+    },
+    {
+      "id": "ht7",
+      "type": "Acupoint",
+      "label": "신문 HT7",
+      "page": "acupuncture/points/ht7-shenmen.md",
+      "definition": "손목 앞주름의 새끼손가락 쪽에 위치하는 수소음심경의 경혈.",
+      "aliases": [
+        "神門",
+        "Shenmen"
+      ],
+      "notation": "HT7"
+    },
+    {
+      "id": "heart-meridian",
+      "type": "Meridian",
+      "label": "수소음심경",
+      "page": "meridian-network/heart-meridian.md",
+      "definition": "극천 HT1에서 소충 HT9까지 경혈의 소속과 유주를 정리하는 경맥.",
+      "aliases": [
+        "手少陰心經"
+      ]
     }
   ],
   "predicates": {
@@ -241,7 +263,8 @@
       "predicate": "containsHerb",
       "object": "ginseng",
       "source": "formulas/sijunzi-tang.md#source-dose-original",
-      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다."
+      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 등분 | 노두 제거 | 기를 보하고 비위·회복의 바탕을 받침 |"
     },
     {
       "id": "sijunzi-guofang--containsHerb--atractylodes",
@@ -249,7 +272,8 @@
       "predicate": "containsHerb",
       "object": "atractylodes",
       "source": "formulas/sijunzi-tang.md#source-dose-original",
-      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다."
+      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 등분 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
     },
     {
       "id": "sijunzi-guofang--containsHerb--poria",
@@ -257,7 +281,8 @@
       "predicate": "containsHerb",
       "object": "poria",
       "source": "formulas/sijunzi-tang.md#source-dose-original",
-      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다."
+      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 등분 | 껍질 제거 | 건비·삼습으로 수습의 정체를 조절 |"
     },
     {
       "id": "sijunzi-guofang--containsHerb--licorice",
@@ -265,7 +290,8 @@
       "predicate": "containsHerb",
       "object": "licorice",
       "source": "formulas/sijunzi-tang.md#source-dose-original",
-      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다."
+      "scope": "태평혜민화제국방 권3, 각 등분. 인삼 거로·복령 거피·감초 자(炙). 원문 제조 비율이며 현대 1일량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 등분 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--ginseng",
@@ -273,7 +299,8 @@
       "predicate": "containsHerb",
       "object": "ginseng",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--atractylodes",
@@ -281,7 +308,8 @@
       "predicate": "containsHerb",
       "object": "atractylodes",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 1전 | 오래된 흙과 함께 볶음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--poria",
@@ -289,7 +317,8 @@
       "predicate": "containsHerb",
       "object": "poria",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 1전 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--licorice",
@@ -297,7 +326,8 @@
       "predicate": "containsHerb",
       "object": "licorice",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1전 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--pinellia",
@@ -305,7 +335,8 @@
       "predicate": "containsHerb",
       "object": "pinellia",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 1전 | 뜨거운 물에 7회 담금 | 화담·강역으로 담습과 오심을 함께 다룸 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--citrus-peel",
@@ -313,7 +344,8 @@
       "predicate": "containsHerb",
       "object": "citrus-peel",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 1전 | 흰 속껍질 제거 | 이기·조습으로 팽만과 담습을 조절 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--fresh-ginger",
@@ -321,7 +353,8 @@
       "predicate": "containsHerb",
       "object": "fresh-ginger",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 5푼 | 별도 포제 표기 없음 | 위기를 조화하고 오심·상역을 조절 |"
     },
     {
       "id": "liujunzi-yixuexinwu--containsHerb--jujube-fruit",
@@ -329,7 +362,8 @@
       "predicate": "containsHerb",
       "object": "jujube-fruit",
       "source": "formulas/liujunzi-tang.md#source-dose-original",
-      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다."
+      "scope": "의학심오 수록형. 인삼·복령·백출·진피·감초·반하의 기본 6미에 생강·대조를 포함한다. 백출 진토초·진피 거백·감초 자·반하 탕포칠차 등 원문 포제를 확인한다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 2매 | 별도 포제 표기 없음 | 비위와 영위를 조화하는 보조축 |"
     },
     {
       "id": "suanzaoren-jinkui--containsHerb--ziziphus-seed",
@@ -337,7 +371,8 @@
       "predicate": "containsHerb",
       "object": "ziziphus-seed",
       "source": "formulas/suanzaoren-tang.md#source-dose-original",
-      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다."
+      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다.",
+      "quote": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 2승 | 별도 포제 표기 없음 | 음혈을 바탕으로 심신을 안정시키는 축 |"
     },
     {
       "id": "suanzaoren-jinkui--containsHerb--anemarrhena",
@@ -345,7 +380,8 @@
       "predicate": "containsHerb",
       "object": "anemarrhena",
       "source": "formulas/suanzaoren-tang.md#source-dose-original",
-      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다."
+      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다.",
+      "quote": "| [지모](../herbs/anemarrhena.md) · 知母 | 2량 | 별도 포제 표기 없음 | 열을 조절하면서 음액 소모를 함께 살핌 |"
     },
     {
       "id": "suanzaoren-jinkui--containsHerb--poria",
@@ -353,7 +389,8 @@
       "predicate": "containsHerb",
       "object": "poria",
       "source": "formulas/suanzaoren-tang.md#source-dose-original",
-      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다."
+      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 2량 | 별도 포제 표기 없음 | 영심안신을 돕고 건비·삼습으로 배합을 받침 |"
     },
     {
       "id": "suanzaoren-jinkui--containsHerb--chuanxiong",
@@ -361,7 +398,8 @@
       "predicate": "containsHerb",
       "object": "chuanxiong",
       "source": "formulas/suanzaoren-tang.md#source-dose-original",
-      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다."
+      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 芎藭 | 2량 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
     },
     {
       "id": "suanzaoren-jinkui--containsHerb--licorice",
@@ -369,7 +407,8 @@
       "predicate": "containsHerb",
       "object": "licorice",
       "source": "formulas/suanzaoren-tang.md#source-dose-original",
-      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다."
+      "scope": "금궤요략 5미 수록형. 深師有生薑二兩는 이본 주석으로 구별한다. 산조인 부피 단위와 다른 약미의 중량 단위를 보존한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1량 | 별도 포제 표기 없음 | 중초를 돕고 완급·배합 조화를 맡음 |"
     },
     {
       "id": "liujunzi-yixuexinwu--sharesFormulaStructureWith--sijunzi-guofang",
@@ -377,7 +416,8 @@
       "predicate": "sharesFormulaStructureWith",
       "object": "sijunzi-guofang",
       "source": "compare/sijunzi-vs-liujunzi.md#comparison",
-      "scope": "인삼·백출·복령·감초의 골격을 공유하고 반하·진피를 더하는 구조 비교. 국방과 의학심오의 약량·제법은 각각 확인한다."
+      "scope": "인삼·백출·복령·감초의 골격을 공유하고 반하·진피를 더하는 구조 비교. 국방과 의학심오의 약량·제법은 각각 확인한다.",
+      "quote": "| 핵심 구성 | 인삼·백출·복령·감초 | 사군자탕 + 반하·진피 |"
     },
     {
       "id": "suanzaoren-jinkui--sharesNameWith--suanzaoren-donguibogam",
@@ -385,7 +425,8 @@
       "predicate": "sharesNameWith",
       "object": "suanzaoren-donguibogam",
       "source": "formulas/suanzaoren-tang.md#donguibogam-version",
-      "scope": "금궤요략 5미와 동의보감 몽문 7미 및 생강 추가를 구별한다. 각 구성의 약재·제법과 연구 제제는 별도로 확인한다."
+      "scope": "금궤요략 5미와 동의보감 몽문 7미 및 생강 추가를 구별한다. 각 구성의 약재·제법과 연구 제제는 별도로 확인한다.",
+      "quote": "**같은 이름의 다른 구성입니다.** 이 수록방은 석고·인삼·계심을 포함한 7미이고, 앞에서 설명한 《금궤요략》 원방은 산조인·지모·복령·천궁·감초의 5미입니다. 석고의 청열과 인삼의 익기가 포함되는 등 배오가 달라 원방의 해석·효능·안전성 정보를 그대로 옮기지 않습니다. 아래 현대 임상연구도 실제 시험 처방이 어느 구성·가감인지 확인해야 하며, 《동의보감》 7미 구성의 효과가 입증되었다고 표시하지 않습니다."
     },
     {
       "id": "sijunzi-guofang--hasTraditionalPatternContext--qi-deficiency",
@@ -393,7 +434,8 @@
       "predicate": "hasTraditionalPatternContext",
       "object": "qi-deficiency",
       "source": "diagnostics/qi-deficiency.md#_6",
-      "scope": "기허 가운데 식욕저하·무력감·비위허약을 함께 살피는 보기건비 맥락. 현재 증상과 진찰에 따라 처방을 비교한다."
+      "scope": "기허 가운데 식욕저하·무력감·비위허약을 함께 살피는 보기건비 맥락. 현재 증상과 진찰에 따라 처방을 비교한다.",
+      "quote": "| 식욕저하·무력감·비위허약 | [사군자탕](../formulas/sijunzi-tang.md): 인삼·백출·복령·감초로 보기·건비 |"
     },
     {
       "id": "st36--belongsToMeridian--stomach-meridian",
@@ -401,7 +443,8 @@
       "predicate": "belongsToMeridian",
       "object": "stomach-meridian",
       "source": "meridian-network/stomach-meridian.md#_3",
-      "scope": "족양명위경 전체 소속 경혈표의 ST36. 경맥 소속, 해부학적 위치, 치료 연구는 각각의 정보로 확인한다."
+      "scope": "족양명위경 전체 소속 경혈표의 ST36. 경맥 소속, 해부학적 위치, 치료 연구는 각각의 정보로 확인한다.",
+      "quote": "| ST36 | [족삼리 ST36](../acupuncture/points/st36-zusanli.md) |"
     },
     {
       "id": "jinkui-06-017--recordsFormula--suanzaoren-jinkui",
@@ -409,7 +452,17 @@
       "predicate": "recordsFormula",
       "object": "suanzaoren-jinkui",
       "source": "classics/jinkui-yaolue/chapters/blood-bi-deficiency.md#clause-06-017",
-      "scope": "금궤요략 혈비허로병편의 虛勞虛煩不得眠，酸棗仁湯主之. 문헌 수록 관계이며 현대 임상시험 결과는 해당 연구에서 확인한다."
+      "scope": "금궤요략 혈비허로병편의 虛勞虛煩不得眠，酸棗仁湯主之. 문헌 수록 관계이며 현대 임상시험 결과는 해당 연구에서 확인한다.",
+      "quote": "> 虛勞虛煩不得眠，酸棗仁湯主之。"
+    },
+    {
+      "id": "ht7--belongsToMeridian--heart-meridian",
+      "subject": "ht7",
+      "predicate": "belongsToMeridian",
+      "object": "heart-meridian",
+      "source": "meridian-network/heart-meridian.md#_3",
+      "scope": "신문 HT7의 표준 경맥 소속. 혈위·해부학·치료 연구는 해당 본문에서 함께 확인한다.",
+      "quote": "| HT7 | [신문 HT7](../acupuncture/points/ht7-shenmen.md) |"
     }
   ]
 }
