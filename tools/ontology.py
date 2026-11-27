@@ -13,6 +13,7 @@ BASE = 'https://wiki.minseong.co.kr'
 RESOURCE = BASE + '/assets/ai/ontology.jsonld'
 TYPES = {
     'Formula': '처방 수록형', 'Herb': '본초', 'Pattern': '한의학 변증',
+    'TreatmentPrinciple': '치법',
     'Acupoint': '경혈', 'Meridian': '경맥', 'ClassicalPassage': '고전 조문',
 }
 IDENTIFIER = re.compile(r'^[a-z][a-z0-9-]*$')

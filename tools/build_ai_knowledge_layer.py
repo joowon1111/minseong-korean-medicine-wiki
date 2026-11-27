@@ -150,7 +150,7 @@ def entity_type(path: Path) -> str:
         ("acupuncture/meridians/", "meridian"),
         ("sasang-formula", "sasang_formula"),
         ("diagnostics/patterns/", "pattern"),
-        ("pattern-treatment/", "pattern"),
+        ("pattern-treatment/", "treatment_principle_guide"),
         ("answer-guides/", "question_guide"),
         ("classics/", "classical_source"),
         ("guide/", "guide"),
@@ -331,6 +331,8 @@ def relation_name(target_type: str) -> str:
         return "links_to_herb"
     if target_type == "acupoint":
         return "links_to_acupoint"
+    if target_type == "treatment_principle_guide":
+        return "links_to_treatment_principle"
     if target_type == "pattern":
         return "links_to_pattern"
     if target_type in {"research", "evidence_guide"}:

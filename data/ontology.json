@@ -246,6 +246,36 @@
       "aliases": [
         "桂心"
       ]
+    },
+    {
+      "id": "spleen-qi-deficiency-with-phlegm",
+      "type": "Pattern",
+      "label": "비허담습",
+      "page": "diagnostics/patterns/phlegm-fluid.md",
+      "definition": "피로·식욕저하·무른 변 등 비위허약에 오심·그득함 등 담습의 양상이 겹치는 변증.",
+      "aliases": [
+        "脾虛痰濕"
+      ]
+    },
+    {
+      "id": "tonify-qi",
+      "type": "TreatmentPrinciple",
+      "label": "보기",
+      "page": "pattern-treatment/qi-deficiency.md#treatment-principle",
+      "definition": "기허에서 기운을 보하는 전통 치법. 비위허약과 동반 증후에 따라 건비·화담·승양·양혈을 함께 살핀다.",
+      "aliases": [
+        "補氣"
+      ]
+    },
+    {
+      "id": "tonify-spleen-transform-phlegm",
+      "type": "TreatmentPrinciple",
+      "label": "익기건비·화담",
+      "page": "pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care",
+      "definition": "비허담습에서 비위의 기운을 돕는 배합과 담습·구역을 조절하는 배합을 함께 살피는 전통 치법.",
+      "aliases": [
+        "益氣健脾·化痰"
+      ]
     }
   ],
   "predicates": {
@@ -284,6 +314,12 @@
       "domain": "ClassicalPassage",
       "range": "Formula",
       "definition": "특정 고전 조문에 명시된 수록형을 연결하는 문헌 관계."
+    },
+    "hasTraditionalTreatmentPrinciple": {
+      "label": "전통 치법으로 연결함",
+      "domain": "Pattern",
+      "range": "TreatmentPrinciple",
+      "definition": "명시한 변증에서 설명하는 전통 치료 방향. 동반 증후와 적용 범위는 각 진술의 출처·조건에서 확인한다."
     }
   },
   "statements": [
@@ -565,6 +601,42 @@
       "source": "formulas/suanzaoren-tang.md#donguibogam-version",
       "scope": "동의보감 몽문·의학입문 인용형의 전탕 보조재료. 기본 7미에 생강 3편을 더해 달인다는 기록이며, 금궤요략 심사 이본의 생강 2량과 구분한다.",
       "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 3편, 달일 때 더함 |"
+    },
+    {
+      "id": "qi-deficiency--hasTraditionalTreatmentPrinciple--tonify-qi",
+      "subject": "qi-deficiency",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "tonify-qi",
+      "source": "pattern-treatment/qi-deficiency.md#treatment-principle",
+      "scope": "기허의 전통 치법. 비위허약·담습·중기하함·혈허의 동반 여부에 따라 배합을 조정하는 맥락.",
+      "quote": "기허의 기본 치법은 **보기(補氣)**입니다."
+    },
+    {
+      "id": "spleen-qi-deficiency-with-phlegm--hasTraditionalTreatmentPrinciple--tonify-spleen-transform-phlegm",
+      "subject": "spleen-qi-deficiency-with-phlegm",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "tonify-spleen-transform-phlegm",
+      "source": "pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care",
+      "scope": "비위허약에 담습·구역이 겹친 비허담습의 치료 방향. 동반 증상과 식사·배변·기력의 경과를 함께 살핀다.",
+      "quote": "이때의 전통 치법은 익기건비·화담으로, 비위의 기운을 돕는 배합과 담습·구역을 조절하는 배합을 함께 살핍니다."
+    },
+    {
+      "id": "liujunzi-yixuexinwu--hasTraditionalPatternContext--spleen-qi-deficiency-with-phlegm",
+      "subject": "liujunzi-yixuexinwu",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "spleen-qi-deficiency-with-phlegm",
+      "source": "pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care",
+      "scope": "의학심오 육군자탕의 여섯 기본 약미와 생강·대조를 보존하며, 비위허약에 오심·그득함 등 담습이 겹치는 배합 맥락을 비교한다.",
+      "quote": "[육군자탕](../formulas/liujunzi-tang.md#source-dose-original)은 이 비허담습의 맥락에서 비교하는 처방입니다."
+    },
+    {
+      "id": "liujunzi-yixuexinwu--hasTraditionalPatternContext--qi-deficiency",
+      "subject": "liujunzi-yixuexinwu",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "qi-deficiency",
+      "source": "diagnostics/qi-deficiency.md#_6",
+      "scope": "의학심오 수록형의 처방 구성은 대표 문서에서 확인한다. 기허 가운데 비위허약에 더부룩함·메스꺼움·담습이 함께 있는 조건에서 비교한다.",
+      "quote": "| 비위허약에 더부룩함·메스꺼움·담습이 겹침 | [육군자탕](../formulas/liujunzi-tang.md): 사군자탕 계열에 진피·반하를 배합해 이기·화담 |"
     }
   ]
 }

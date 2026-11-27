@@ -5,13 +5,13 @@ tags: [담음 치료, 화담, 건비, 이기, 변증, 치법]
 status: 검토완료
 last_reviewed: 2026-09-06
 ---
-# 담음 → 화담·이기·건비
+# 담음 → 화담·이기·건비 {#_1}
 
 담음 치료는 **담을 정리하는 화담, 기의 소통을 돕는 이기, 담습이 반복되는 바탕을 살피는 건비**를 주증상과 허실·한열에 맞춰 조합합니다. 한증과 수음이 중심이면 온양화음의 방향도 구분합니다.
 
 [담음 개념 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)
 
-## 담음에 무엇이 겹치는지 비교
+## 담음에 무엇이 겹치는지 비교 {#_2}
 
 | 치료 방향 | 주된 단서 | 대표 처방 |
 |---|---|---|
@@ -25,13 +25,21 @@ last_reviewed: 2026-09-06
 
 열이 뚜렷하면 열을 조절하는 배합을 따로 살피고, 한약의 온열성을 일괄 적용하지 않습니다. ‘담적 치료’라는 이름을 들었더라도 과식 뒤 식적이면 [보화환](../formulas/baohe-wan.md), 심하비·한열착잡이면 [반하사심탕](../formulas/banxia-xiexin-tang.md)처럼 갈림점이 달라집니다. [담음 vs 식적](../diagnostics/differentials/phlegm-vs-food-stagnation.md)
 
+## 비허담습에서 보기와 화담을 함께 쓰는 이유 {#spleen-qi-phlegm-care}
+
+비허담습은 **피로·식욕저하·무른 변 같은 비위허약에 오심·그득함 등 담습의 양상이 겹치는 변증**입니다. 이때의 전통 치법은 익기건비·화담으로, 비위의 기운을 돕는 배합과 담습·구역을 조절하는 배합을 함께 살핍니다.
+
+[육군자탕](../formulas/liujunzi-tang.md#source-dose-original)은 이 비허담습의 맥락에서 비교하는 처방입니다. 인삼·백출·복령·감초의 기본 골격에 법제 반하·진피를 배치하여 식욕·기력과 오심·그득함을 함께 살핍니다. 《의학심오》는 육군자탕을 ‘理脾祛痰’으로 설명하며, 같은 항목에 기본 여섯 약미와 생강·대조를 기록합니다. [의학심오 원문](https://jicheng.tw/tcm/book/醫學心悟/index.html)
+
+구성의 차이는 [사군자탕·육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)에서, 허약에 식후팽만·트림이 더 뚜렷할 때의 배합은 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)에서 확인합니다. 원문에 적힌 약량·포제와 실제 제형을 보존하며 각 처방의 쓰임을 비교합니다.
+
 ## 본초와 침구의 역할 {#combined-care}
 
 [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)은 화담·강역·이기의 기본 구조, [인삼](../herbs/ginseng.md)·[백출](../herbs/atractylodes.md)은 건비, [목향](../herbs/aucklandia.md)·[사인](../herbs/amomum.md)은 행기화중의 배합과 연결됩니다. 각 본초를 단독 효능 목록으로 더하기보다 처방 안에서의 역할을 봅니다.
 
 [침](../treatments/acupuncture.md)·[전침](../treatments/electroacupuncture.md)은 구체적인 증상과 진찰에 맞춰 선택합니다. 위장 불편에는 [중완 CV12](../acupuncture/points/cv12-zhongwan.md)·[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md), 담습의 전통적 맥락에는 [풍륭 ST40](../acupuncture/points/st40-fenglong.md)을 연결합니다. [뜸](../treatments/moxibustion.md)은 한증·허증과 피부 상태를 평가해 활용합니다.
 
-## 적용과 경과 확인
+## 적용과 경과 확인 {#_3}
 
 | 중심 증상 | 치료 목표 | 다시 확인할 항목 |
 |---|---|---|

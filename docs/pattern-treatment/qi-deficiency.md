@@ -1,43 +1,50 @@
 ---
 title: 기허 → 보기
-description: 기허의 치료 원칙인 보기를 인삼·황기·사군자탕·보중익기탕·족삼리와 연결합니다.
+description: 기허의 보기·건비를 동반 증상별 처방 배합과 침치료, 식사·피로·수면의 경과 확인으로 연결합니다.
 tags: [변증, 치법, 임상지식망]
 status: 검토완료
 last_reviewed: '2026-09-05'
 ---
-# 기허 → 보기
+# 기허 → 보기 {#_1}
 
-[기허](../diagnostics/qi-deficiency.md)의 기본 치법은 **보기(補氣)**다.
+[기허](../diagnostics/qi-deficiency.md)는 쉽게 지치고 회복이 더디면서 식욕·소화·호흡·발한의 변화가 함께 나타나는 한의학적 변증입니다. 치료에서는 기운을 보하는 방향을 정한 뒤, 어떤 불편이 겹치는지에 따라 약재와 침구치료의 목표를 구체화합니다.
 
-```text
-기허
- ↓
-보기
-├─ 인삼
-├─ 황기
-├─ 사군자탕
-├─ 보중익기탕
-└─ 족삼리 ST36
-```
+## 보기와 건비를 연결하는 원칙 {#treatment-principle}
 
-→ [인삼](../herbs/ginseng.md)
-→ [황기](../herbs/astragalus.md)
-→ [사군자탕](../formulas/sijunzi-tang.md)
-→ [보중익기탕](../formulas/buzhong-yiqi-tang.md)
-→ [족삼리 ST36](../acupuncture/points/st36-zusanli.md)
+기허의 기본 치법은 **보기(補氣)**입니다. 식욕저하·식후 피로·묽은 변 등 비위허약이 함께 있으면 소화와 운화를 돕는 건비를 함께 살핍니다. 담습·오심, 중기하함, 혈허의 동반 여부에 따라 화담·이기, 승양, 양혈의 비중을 조정합니다.
 
-## 기허 안에서 나누어 볼 배합
+[인삼](../herbs/ginseng.md)·[황기](../herbs/astragalus.md)는 보기 배합의 중심 약재로 비교하고, [백출](../herbs/atractylodes.md)·[복령](../herbs/poria.md)은 비위와 수습을 함께 살피는 배합으로 연결합니다. 실제 처방에서는 약재의 기원·법제·제형과 전체 구성을 확인합니다.
 
-| 비교 방향 | 대표 문서 | 배합에서 읽는 핵심 |
+## 기허 안에서 나누어 볼 배합 {#_2}
+
+| 함께 나타나는 양상 | 비교할 처방 | 배합에서 확인할 점 |
 |---|---|---|
-| 비위기허 | [사군자탕](../formulas/sijunzi-tang.md) | 보기건비의 기본 골격 |
-| 기허 + 담음 | [육군자탕](../formulas/liujunzi-tang.md) | 반하·진피의 화담이기를 함께 비교 |
-| 기허 + 중기하함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 보기승양의 방향 확인 |
+| 식욕·기력 저하와 비위허약 | [사군자탕](../formulas/sijunzi-tang.md#source-dose-original) | 인삼·백출·복령·자감초의 보기건비 골격 |
+| 비위허약에 오심·담습·그득함이 겹침 | [육군자탕](../formulas/liujunzi-tang.md#source-dose-original) | 반하·진피의 화담·이기를 함께 배치하는 이유 |
+| 기허에 중기하함의 양상이 동반 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 보기와 승양을 함께 살피는 배합 |
+| 식욕·피로 저하에 얕은 잠·심계·건망이 겹침 | [귀비탕](../formulas/guibi-tang.md#source-dose-original) | 기혈을 보하는 약재와 안신약의 구성, 출전별 차이 |
 
-## 적용과 경과 확인
+《태평혜민화제국방》의 사군자탕은 영위의 기허와 함께 식욕저하·복부 그득함·장명·묽은 변을 기록합니다. 《의학심오》의 육군자탕은 비위를 다스리고 담을 다루는 뜻의 ‘理脾祛痰’을 제시합니다. 두 수록형의 구성과 제법을 비교하면 **보하는 바탕에 어떤 조절을 더할지** 구체적으로 살필 수 있습니다. [국방 사군자탕 원문](https://jicheng.tw/tcm/book/太平惠民和劑局方/index.html) · [의학심오 육군자탕 원문](https://jicheng.tw/tcm/book/醫學心悟/index.html)
 
-피로를 기허 하나로 단정하지 않고 수면·식사·체중 변화와 필요한 검사를 함께 봅니다. 치료 뒤 활동량과 식사·배변의 변화가 목표에 맞는지 확인합니다.
+[사군자탕·육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)와 [기허 본문의 처방 비교](../diagnostics/qi-deficiency.md#_6)에서 식욕·오심·대변·기력의 조합에 따른 차이를 확인할 수 있습니다.
+
+## 침구치료에서 함께 정하는 목표 {#combined-care}
+
+[족삼리 ST36](../acupuncture/points/st36-zusanli.md)·[중완 CV12](../acupuncture/points/cv12-zhongwan.md)는 식후 불편·식사량·복부 상태와 연결해 살피고, [기해 CV6](../acupuncture/points/cv6-qihai.md)는 허약의 전통 배혈 맥락에서 비교합니다. 현재 증상과 진찰 결과를 바탕으로 배혈과 자극 방법을 정합니다.
+
+소화불편이 중심이면 [기능성소화불량의 침치료와 평가](../conditions/functional-dyspepsia.md#pds-acupuncture-results), 수면·심계가 겹치면 [심비양허의 치료 방향](heart-spleen-deficiency.md)으로 연결합니다. 한약의 배합과 침구의 치료 목표를 함께 기록하고 식사·활동·수면의 변화를 확인합니다.
+
+## 적용과 경과 확인 {#_3}
+
+| 치료 전 정할 기준 | 치료 후 같은 기준으로 확인할 내용 |
+|---|---|
+| 식사량·식후 불편·대변 | 먹을 수 있는 양, 팽만·오심의 빈도, 변의 형태와 횟수 |
+| 활동과 피로 | 하루 활동량, 쉬어야 하는 횟수, 활동 뒤 회복까지 걸리는 시간 |
+| 수면과 낮 기능 | 잠드는 시간·각성, 아침 회복감, 낮 졸림·집중력 |
+| 동반 증상·병용약 | 자한·심계의 유발 상황, 복용약·검사 결과와 새 증상의 변화 |
+
+수면·식사·체중 변화와 필요한 검사를 함께 보고, 치료 목표에 맞춰 배합과 치료 간격을 조정합니다. 활동 다음 날까지 피로가 크게 심해지면 [활동 후 악화와 회복 관리](../conditions/chronic-fatigue.md#post-exertional-malaise)를 함께 확인합니다.
 
 위 연결은 전통 치법과 배합의 비교입니다. 처방의 구체적 구성·감별·연구 출처는 각 대표 문서에서 확인합니다.
 
-→ [변증·치법 전체 비교](index.md) · [진료 안전·감별](../clinical-safety/index.md)
+[변증·치법 전체 비교](index.md) · [한약 복용 후 변화 기록](../conditions/herbal-followup.md#symptom-measures) · [진료 안전·감별](../clinical-safety/index.md)
