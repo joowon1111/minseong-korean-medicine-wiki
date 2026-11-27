@@ -27,7 +27,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
           overflow:document.documentElement.scrollWidth>innerWidth+2};
       });
       assert.equal(projected.formulaRows,formulaIds.size);
-      assert.equal(projected.sharedRows,[...inverse.values()].filter(ids=>ids.size>1).length);
+      assert.equal(projected.sharedRows,inverse.size);
       assert.match(projected.text,/산조인탕 — 금궤요략 수록형/);
       assert.match(projected.text,/산조인탕 — 동의보감 몽문 수록형/);
       assert.match(projected.text,/반하후박탕 — 금궤요략 수록형/);
@@ -35,7 +35,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       assert.equal(projected.overflow,false,'ontology tables must fit the viewport');
       await page.locator('#ontology-formula-compositions').scrollIntoViewIfNeeded();
       await page.screenshot({path:`archive-browser-results/${name}-ontology-compositions.png`,fullPage:false});
-      for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark','perilla-leaf','magnolia-bark']){
+      for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark','perilla-leaf','magnolia-bark','astragalus','angelica','licorice','prepared-rehmannia']){
         const herbIds=new Set(ontology['@graph'].filter(n=>Array.isArray(n['@type'])&&n['@type'].includes('km:Herb')&&new URL(n['foaf:page']['@id']).pathname==='/herbs/'+slug+'/').map(n=>n['@id']));
         const records=compositions.filter(n=>herbIds.has(n['rdf:object']['@id']));
         const expectedRows=new Set(records.map(n=>JSON.stringify([n['rdf:object']['@id'],n['rdf:subject']['@id'],n['dcterms:source']['@id']])));
