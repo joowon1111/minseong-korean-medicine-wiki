@@ -163,6 +163,21 @@ class OntologyTests(unittest.TestCase):
         self.assertEqual(clause['rdf:object']['@id'], RESOURCE + '#banxia-houpo-jinkui')
         self.assertTrue(clause['dcterms:source']['@id'].endswith('#clause-22-005'))
 
+    def test_banxia_houpo_pattern_context_keeps_formulation_and_scope(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        graph = {node['@id']: node for node in payload['@graph']}
+        pattern = graph[RESOURCE + '#phlegm-qi-binding']
+        self.assertEqual(pattern['@type'], ['skos:Concept', 'km:Pattern'])
+        self.assertTrue(pattern['foaf:page']['@id'].endswith('/diagnostics/patterns/phlegm-fluid/#phlegm-qi-binding'))
+        context = graph[RESOURCE + '#statement-banxia-houpo-jinkui--hasTraditionalPatternContext--phlegm-qi-binding']
+        self.assertEqual(context['rdf:subject']['@id'], RESOURCE + '#banxia-houpo-jinkui')
+        self.assertEqual(context['rdf:object']['@id'], pattern['@id'])
+        self.assertEqual(context['rdf:predicate']['@id'], 'km:hasTraditionalPatternContext')
+        self.assertIn('금궤요략 5미', context['skos:scopeNote']['@value'])
+        self.assertIn('후대 변증', context['skos:scopeNote']['@value'])
+        self.assertIn('실제 연하곤란', context['skos:scopeNote']['@value'])
+        self.assertIn('담기울결의 맥락', context['dcterms:description']['@value'])
+
     def test_formulation_conditions_survive_export(self):
         payload, _ = build_ontology(self.docs, self.source)
         statements = [node for node in payload['@graph'] if node['@type'] == 'rdf:Statement']

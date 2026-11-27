@@ -43,7 +43,7 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 | `containsHerb` | 특정 처방 수록형에 포함된 본초 | 수록본·법제·기본 약미와 달일 때 더하는 재료 |
 | `sharesFormulaStructureWith` | 두 처방이 공유하는 기본 약미 골격 | 수록본마다 다른 약량·제법과 추가 약재 |
 | `sharesNameWith` | 이름이 같은 서로 다른 구성 | 산조인탕 금궤요략 5미형과 동의보감 몽문 7미형·생강 추가 |
-| `hasTraditionalPatternContext` | 처방을 설명하는 전통 변증의 맥락 | 기허 가운데 식욕·기력·비위허약을 함께 보는 조건 |
+| `hasTraditionalPatternContext` | 처방을 설명하는 전통 변증의 맥락 | 사군자탕의 기허, 반하후박탕의 담기울결과 동반 증후 |
 | `belongsToMeridian` | 경혈의 소속 경맥 | 족삼리 ST36–족양명위경, 신문 HT7–수소음심경의 분류 관계 |
 | `recordsFormula` | 고전 조문에 명시된 처방 수록형 | 서명·편목·조문과 해당 구성 |
 
