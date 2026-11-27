@@ -130,6 +130,9 @@ def entity_type(path: Path) -> str:
         kind = supplementary_type(path.stem)
         if kind:
             return kind
+    if (path.parent == DOCS / "meridian-network"
+            and path.stem not in {"index", "extraordinary-vessels"}):
+        return "meridian"
     rules = (
         ("authority/conditions/", "condition_evidence"),
         ("authority/herbs/", "herb_evidence"),

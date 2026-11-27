@@ -5,7 +5,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from ontology import build_ontology, source_url, RESOURCE
+from ontology import build_ontology, source_url, source_excerpt, RESOURCE
 
 
 class OntologyTests(unittest.TestCase):
@@ -68,6 +68,82 @@ class OntologyTests(unittest.TestCase):
             mutate(data)
             with self.subTest(mutation=mutate), self.assertRaises(ValueError):
                 self.build_modified(data)
+
+    def test_exported_excerpts_match_the_source_statements(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        original = {item['id']: item for item in self.data['statements']}
+        statements = [node for node in payload['@graph'] if node['@type'] == 'rdf:Statement']
+        for node in statements:
+            key = node['@id'].split('#statement-', 1)[1]
+            self.assertEqual(node['dcterms:description']['@value'], original[key]['quote'])
+            source_excerpt(original[key]['source'], original[key]['quote'], self.docs)
+
+    def test_empty_changed_or_non_text_excerpts_fail_build(self):
+        for quote in ('', None, [], 'This excerpt no longer appears in the article.'):
+            data = deepcopy(self.data)
+            data['statements'][0]['quote'] = quote
+            with self.subTest(quote=quote), self.assertRaises(ValueError):
+                self.build_modified(data)
+
+    def test_excerpt_must_be_in_the_cited_section(self):
+        with tempfile.TemporaryDirectory() as directory:
+            docs = Path(directory)
+            page = docs / 'topic.md'
+            page.write_text('## First {#first}\nOne.\n## Second {#second}\nEvidence.\n')
+            with self.assertRaises(ValueError):
+                source_excerpt('topic.md#first', 'Evidence.', docs)
+            self.assertEqual(source_excerpt('topic.md#second', 'Evidence.', docs), 'Evidence.')
+            page.write_text('## First {#first}\n### Detail\nEvidence.\n')
+            self.assertEqual(source_excerpt('topic.md#first', 'Evidence.', docs), 'Evidence.')
+
+    def test_hidden_anchors_and_excerpts_cannot_validate_a_source(self):
+        hidden = [
+            '<!-- ## Hidden {#fake}\nEvidence. -->',
+            '<script>## Hidden {#fake}\nEvidence.</script>',
+            '<style>## Hidden {#fake}\nEvidence.</style>',
+            '<template>## Hidden {#fake}\nEvidence.</template>',
+            '```markdown\n## Hidden {#fake}\nEvidence.\n```',
+            '~~~markdown\n## Hidden {#fake}\nEvidence.\n~~~',
+            '   ```markdown\n## Hidden {#fake}\nEvidence.\n   ```',
+            '```markdown\n## Hidden {#fake}\nEvidence.',
+            '    ## Hidden {#fake} Evidence.',
+            '`## Hidden {#fake} Evidence.`',
+            '---\ntitle: "Hidden {#fake} Evidence."\n---',
+        ]
+        with tempfile.TemporaryDirectory() as directory:
+            docs = Path(directory)
+            for block in hidden:
+                (docs / 'topic.md').write_text(block + '\n# Visible\nPlain text.\n')
+                with self.subTest(block=block):
+                    with self.assertRaises(ValueError):
+                        source_url('topic.md#fake', docs)
+                    with self.assertRaises(ValueError):
+                        source_excerpt('topic.md', 'Evidence.', docs)
+
+    def test_source_symlink_cannot_escape_public_documents(self):
+        with tempfile.TemporaryDirectory() as directory:
+            docs = Path(directory) / 'docs'
+            docs.mkdir()
+            outside = Path(directory) / 'outside.md'
+            outside.write_text('Private source')
+            (docs / 'linked.md').symlink_to(outside)
+            with self.assertRaises(ValueError):
+                source_url('linked.md', docs)
+
+    def test_shenmen_has_a_distinct_heart_meridian_relationship(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        node = next(n for n in payload['@graph']
+                    if n['@id'].endswith('#statement-ht7--belongsToMeridian--heart-meridian'))
+        self.assertTrue(node['rdf:subject']['@id'].endswith('#ht7'))
+        self.assertTrue(node['rdf:object']['@id'].endswith('#heart-meridian'))
+        self.assertIn('신문 HT7', node['dcterms:description']['@value'])
+
+    def test_navigation_graph_classifies_individual_meridians(self):
+        from build_ai_knowledge_layer import entity_type, DOCS
+        self.assertEqual(entity_type(DOCS / 'meridian-network/heart-meridian.md'), 'meridian')
+        self.assertEqual(entity_type(DOCS / 'meridian-network/stomach-meridian.md'), 'meridian')
+        for name in ('index.md', 'extraordinary-vessels.md', 'special-points/index.md'):
+            self.assertNotEqual(entity_type(DOCS / 'meridian-network' / name), 'meridian')
 
     def test_formulation_conditions_survive_export(self):
         payload, _ = build_ontology(self.docs, self.source)
