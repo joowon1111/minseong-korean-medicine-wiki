@@ -16,18 +16,25 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       const ontology=JSON.parse(fs.readFileSync('docs/assets/ai/ontology.jsonld','utf8'));
       const compositions=ontology['@graph'].filter(n=>n['@type']==='rdf:Statement'&&n['rdf:predicate']['@id']==='km:containsHerb');
       const formulaIds=new Set(compositions.map(n=>n['rdf:subject']['@id']));
+      const classical=ontology['@graph'].filter(n=>n['@type']==='rdf:Statement'&&n['rdf:predicate']['@id']==='km:recordsFormula');
       const inverse=new Map();
       for(const n of compositions){const herb=n['rdf:object']['@id'];if(!inverse.has(herb))inverse.set(herb,new Set());inverse.get(herb).add(n['rdf:subject']['@id']);}
       const projected=await page.evaluate(()=>{
         const after=id=>{for(let e=document.getElementById(id).nextElementSibling;e;e=e.nextElementSibling){const t=e.matches('table')?e:e.querySelector('table');if(t)return t;}throw Error('Missing composition table');};
-        const formulas=after('ontology-formula-compositions'),shared=after('ontology-shared-herbs');
+        const formulas=after('ontology-formula-compositions'),shared=after('ontology-shared-herbs'),clauses=after('ontology-classical-formulas');
         return {formulaRows:formulas.tBodies[0].rows.length,sharedRows:shared.tBodies[0].rows.length,
+          classicalRows:clauses.tBodies[0].rows.length,classicalText:clauses.innerText,
+          classicalSources:[...clauses.querySelectorAll('a')].map(a=>a.href),
           text:formulas.innerText,hasSource:[...formulas.querySelectorAll('a')].some(a=>a.href.endsWith('#donguibogam-version')),
           emptyLinks:[...formulas.querySelectorAll('a')].filter(a=>!a.innerText.trim()).length,
           overflow:document.documentElement.scrollWidth>innerWidth+2};
       });
       assert.equal(projected.formulaRows,formulaIds.size);
       assert.equal(projected.sharedRows,inverse.size);
+      assert.equal(projected.classicalRows,new Set(classical.map(n=>JSON.stringify([n['rdf:subject']['@id'],n['rdf:object']['@id'],n['dcterms:source']['@id']]))).size);
+      assert.match(projected.classicalText,/소건중탕 — 상한론 송본 수록형/);
+      assert.match(projected.classicalText,/소건중탕 — 금궤요략 수록형/);
+      for(const record of classical)assert.ok(projected.classicalSources.includes(record['dcterms:source']['@id']));
       assert.match(projected.text,/산조인탕 — 금궤요략 수록형/);
       assert.match(projected.text,/산조인탕 — 동의보감 몽문 수록형/);
       assert.match(projected.text,/반하후박탕 — 금궤요략 수록형/);

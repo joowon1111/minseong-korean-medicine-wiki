@@ -9,6 +9,7 @@ from ontology import BASE, build_ontology
 MARKER = '<!-- MINSEONG_ONTOLOGY_COMPOSITION_TABLES -->'
 HERB_MARKER = '<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->'
 MERIDIAN_MARKER = '<!-- MINSEONG_ONTOLOGY_MERIDIAN_MEMBERS -->'
+CLASSICAL_MARKER = '<!-- MINSEONG_ONTOLOGY_CLASSICAL_FORMULAS -->'
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -93,6 +94,37 @@ def herb_formula_table(payload, source_path):
     return '\n'.join(lines)
 
 
+def classical_formula_table(payload):
+    """Follow explicit clause-to-formula and formula-to-herb records only."""
+    nodes = {node['@id']: node for node in payload['@graph']}
+    rows = set()
+    herbs = defaultdict(set)
+    for node in nodes.values():
+        if node['@type'] != 'rdf:Statement':
+            continue
+        predicate = node['rdf:predicate']['@id']
+        subject, target = node['rdf:subject']['@id'], node['rdf:object']['@id']
+        if predicate == 'km:recordsFormula':
+            if ('km:ClassicalPassage' not in nodes[subject]['@type']
+                    or 'km:Formula' not in nodes[target]['@type']):
+                raise ValueError('Invalid classical formula view types')
+            rows.add((subject, target, node['dcterms:source']['@id']))
+        elif predicate == 'km:containsHerb':
+            herbs[subject].add(target)
+
+    def label(key):
+        return nodes[key]['skos:prefLabel']['@value']
+
+    lines = ['| 원전 조문 | 수록된 처방 | 등록된 구성 본초·보조재료 |', '|---|---|---|']
+    for clause, formula, source in sorted(rows):
+        ingredients = ' · '.join(link(label(key), nodes[key]['foaf:page']['@id'])
+                                 for key in sorted(herbs[formula], key=lambda key: (label(key), key)))
+        lines.append('| ' + link(label(clause), source)
+                     + ' | ' + link(label(formula), nodes[formula]['foaf:page']['@id'])
+                     + ' | ' + ingredients + ' |')
+    return '\n'.join(lines) + '\n'
+
+
 def meridian_members(payload):
     """Browse only qualified belongsToMeridian records in the shared ontology."""
     nodes = {node['@id']: node for node in payload['@graph']}
@@ -153,6 +185,10 @@ def on_page_markdown(markdown, *, page, config, files):
     if markdown.count(MARKER) != 1:
         raise ValueError('The network page needs exactly one ontology composition marker')
     markdown = markdown.replace(MARKER, render_for_docs(str(config['docs_dir'])))
+    if CLASSICAL_MARKER in markdown:
+        if markdown.count(CLASSICAL_MARKER) != 1:
+            raise ValueError('The network page needs one classical formula marker')
+        markdown = markdown.replace(CLASSICAL_MARKER, classical_formula_table(herb_payload(str(config['docs_dir']))))
     if MERIDIAN_MARKER in markdown:
         if markdown.count(MERIDIAN_MARKER) != 1:
             raise ValueError('The network page needs one meridian membership marker')

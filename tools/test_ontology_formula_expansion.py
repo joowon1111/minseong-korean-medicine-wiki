@@ -6,7 +6,7 @@ import re
 import unittest
 
 from ontology import build_ontology, page_projections, RESOURCE, BASE, visible_source
-from ontology_views import composition_tables, herb_formula_table
+from ontology_views import composition_tables, herb_formula_table, classical_formula_table
 
 
 class FormulaExpansionTests(unittest.TestCase):
@@ -23,6 +23,111 @@ class FormulaExpansionTests(unittest.TestCase):
 
     def records(self, fid):
         return [s for s in self.members if s['subject'] == fid]
+
+    def test_added_core_formulas_preserve_basic_and_adjunct_counts(self):
+        expected = {'yupingfeng-danxi': 3, 'shaoyao-gancao-shanghan': 2,
+                    'huangqi-guizhi-wuwu-jinkui': 5, 'huangqi-jianzhong-jinkui': 7,
+                    'lizhong-shanghan': 4, 'xiaoyao-guofang': 6,
+                    'jiawei-xiaoyao-neike': 8, 'renshen-yangrong-guofang': 14,
+                    'shenling-baizhu-guofang': 10, 'huoxiang-zhengqi-guofang': 11,
+                    'xiaojianzhong-shanghan': 6, 'xiaojianzhong-jinkui': 6}
+        for fid, count in expected.items():
+            with self.subTest(formula=fid):
+                self.assertEqual(len(self.records(fid)), count)
+                self.assertEqual(len(self.herbs(fid)), count)
+
+    def test_jianzhong_versions_preserve_source_specific_amounts(self):
+        self.assertEqual(self.herbs('xiaojianzhong-shanghan'), self.herbs('xiaojianzhong-jinkui'))
+        for fid, amount, dates in [('xiaojianzhong-shanghan', '2량', '20매'),
+                                   ('xiaojianzhong-jinkui', '3량', '12매')]:
+            records = {s['object']: s for s in self.records(fid)}
+            self.assertIn('甘草 ' + amount, records['licorice']['scope'])
+            self.assertIn('大棗 ' + dates, records['jujube-fruit']['scope'])
+            self.assertIn('1승', records['maltose']['scope'])
+        base = self.herbs('xiaojianzhong-jinkui')
+        self.assertEqual(self.herbs('huangqi-jianzhong-jinkui') - base, {'astragalus'})
+        self.assertFalse({'pinellia', 'poria'}.intersection(self.herbs('huangqi-jianzhong-jinkui')))
+        # The five-herb base does not inherit ginseng from 一方有人參.
+        five = self.herbs('huangqi-guizhi-wuwu-jinkui')
+        self.assertNotIn('ginseng', five)
+        self.assertNotIn('licorice', five)
+
+    def test_processing_and_explicit_white_peony_remain_distinct(self):
+        self.assertIn('pinellia-ferment', self.herbs('huoxiang-zhengqi-guofang'))
+        self.assertNotIn('pinellia', self.herbs('huoxiang-zhengqi-guofang'))
+        ferment = next(s for s in self.records('huoxiang-zhengqi-guofang')
+                       if s['object'] == 'pinellia-ferment')
+        self.assertIn('半夏曲', ferment['quote'])
+        self.assertIn('발효', ferment['scope'])
+        self.assertIn('white-peony', self.herbs('xiaoyao-guofang'))
+        self.assertIn('shaoyao-source-name', self.herbs('jiawei-xiaoyao-neike'))
+        white = next(s for s in self.records('xiaoyao-guofang') if s['object'] == 'white-peony')
+        self.assertIn('芍藥（白）', white['quote'])
+        self.assertNotIn('chuanxiong', self.herbs('renshen-yangrong-guofang'))
+        for record in self.records('renshen-yangrong-guofang'):
+            if record['object'] in {'fresh-ginger', 'jujube-fruit'}:
+                self.assertIn('전탕 추가', record['scope'])
+
+    def test_visible_clauses_name_the_exact_source_specific_formulas(self):
+        expected = {
+            'shanghan-012': {'guizhi-shanghan'},
+            'shanghan-029': {'shaoyao-gancao-shanghan'},
+            'shanghan-031': {'gegen-shanghan'},
+            'shanghan-040': {'xiaoqinglong-shanghan'},
+            'shanghan-096': {'xiaochaihu-shanghan'},
+            'shanghan-100': {'xiaojianzhong-shanghan', 'xiaochaihu-shanghan'},
+            'shanghan-149': {'banxia-xiexin-shanghan'},
+            'jinkui-06-002': {'huangqi-guizhi-wuwu-jinkui'},
+            'jinkui-06-013': {'xiaojianzhong-jinkui'},
+            'jinkui-06-014': {'huangqi-jianzhong-jinkui'},
+            'jinkui-06-015': {'shenqi-jinkui'},
+            'jinkui-07-010': {'maimendong-jinkui'},
+            'jinkui-20-005': {'danggui-shaoyao-jinkui'},
+        }
+        for cid, targets in expected.items():
+            records = [s for s in self.data['statements'] if s['subject'] == cid
+                       and s['predicate'] == 'recordsFormula']
+            with self.subTest(clause=cid):
+                self.assertEqual({s['object'] for s in records}, targets)
+                self.assertEqual(self.concepts[cid]['type'], 'ClassicalPassage')
+                for record in records:
+                    self.assertTrue(record['quote'].startswith('> '))
+                    self.assertEqual(record['source'], self.concepts[cid]['page'])
+        records = {s['object']: s for s in self.data['statements']
+                   if s['subject'] == 'shanghan-100'}
+        self.assertIn('先與', records['xiaojianzhong-shanghan']['scope'])
+        self.assertIn('不差者', records['xiaochaihu-shanghan']['scope'])
+
+    def test_clause_and_formula_pages_share_the_same_qualified_record(self):
+        for record in self.data['statements']:
+            if record['predicate'] != 'recordsFormula':
+                continue
+            sid = RESOURCE + '#statement-' + record['id']
+            for endpoint in ['subject', 'object']:
+                path = self.concepts[record[endpoint]]['page'].split('#')[0]
+                page = self.pages[BASE + '/' + path[:-3] + '/']
+                self.assertIn(sid, page['statement_ids'])
+                exported = next(n for n in page['payload']['@graph'] if n['@id'] == sid)
+                self.assertEqual(exported['skos:scopeNote']['@value'], record['scope'])
+                self.assertEqual(exported['dcterms:description']['@value'], record['quote'])
+
+    def test_classical_table_only_follows_curated_relations(self):
+        from copy import deepcopy
+        text = classical_formula_table(self.payload)
+        expected = {(s['subject'], s['object'], s['source']) for s in self.data['statements']
+                    if s['predicate'] == 'recordsFormula'}
+        self.assertEqual(len([line for line in text.splitlines() if line.startswith('| <a')]), len(expected))
+        self.assertIn('#clause-100', text)
+        self.assertIn('소건중탕 — 상한론 송본 수록형', text)
+        self.assertIn('소건중탕 — 금궤요략 수록형', text)
+        self.assertIn('/herbs/maltose/', text)
+        payload = deepcopy(self.payload)
+        record = deepcopy(next(n for n in payload['@graph'] if n['@type'] == 'rdf:Statement'
+                               and n['rdf:predicate']['@id'] == 'km:recordsFormula'))
+        record['@id'] += '-navigation'
+        record['rdf:predicate']['@id'] = 'km:links_to_formula'
+        payload['@graph'].append(record)
+        self.assertEqual(text, classical_formula_table(payload))
 
     def test_main_formulas_have_their_expected_basic_and_explicit_adjunct_counts(self):
         expected = {
