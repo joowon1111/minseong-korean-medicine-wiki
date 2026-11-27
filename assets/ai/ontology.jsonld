@@ -271,6 +271,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cinnamon-heart",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/cinnamon-bark/#gyesim-source-name"
+      },
+      "skos:altLabel": [
+        "桂心"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "처방에 桂心으로 기록된 약재 개념. 원문 명칭과 실제 원료의 기원·약용 부위·포제를 함께 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "계심"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-peel",
       "@type": [
         "skos:Concept",
@@ -340,6 +364,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "인삼"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gypsum",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/gypsum/"
+      },
+      "skos:altLabel": [
+        "石膏"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "석고의 광물 기원·규격·가공과 처방 배합을 확인하는 본초 개념."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "석고"
       }
     },
     {
@@ -557,6 +605,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "기허"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#red-poria",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/poria/#red-poria-in-formulas"
+      },
+      "skos:altLabel": [
+        "赤茯苓"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "처방에 赤茯苓으로 기록된 복령 약재의 명칭. 복령·백복령·복신 표기와 약용 부위를 구분해 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "적복령"
       }
     },
     {
@@ -1097,6 +1169,190 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "족양명위경 전체 소속 경혈표의 ST36. 경맥 소속, 해부학적 위치, 치료 연구는 각각의 정보로 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--anemarrhena",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [지모](../herbs/anemarrhena.md) · 知母 | 1전 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#anemarrhena"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--cinnamon-heart",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [계심](../herbs/cinnamon-bark.md#gyesim-source-name) · 桂心 | 5푼 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cinnamon-heart"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--fresh-ginger",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 3편, 달일 때 더함 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-ginger"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 몽문·의학입문 인용형의 전탕 보조재료. 기본 7미에 생강 3편을 더해 달인다는 기록이며, 금궤요략 심사 이본의 생강 2량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--ginseng",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 5푼 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ginseng"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--gypsum",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [석고](../herbs/gypsum.md) · 石膏 | 2전 5푼 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gypsum"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--licorice",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 1전 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#licorice"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--red-poria",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [적복령](../herbs/poria.md#red-poria-in-formulas) · 赤茯苓 | 1전 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#red-poria"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-donguibogam--containsHerb--ziziphus-seed",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 1전 5푼; 초(炒) |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ziziphus-seed"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#suanzaoren-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다."
       }
     },
     {
