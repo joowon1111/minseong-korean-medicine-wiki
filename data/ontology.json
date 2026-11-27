@@ -296,6 +296,41 @@
       "aliases": [
         "痰氣鬱結"
       ]
+    },
+    {
+      "id": "pc6",
+      "type": "Acupoint",
+      "label": "내관 PC6",
+      "page": "acupuncture/points/pc6-neiguan.md",
+      "definition": "손바닥쪽 손목주름 위쪽의 두 힘줄 사이에 위치하는 수궐음심포경의 경혈.",
+      "aliases": [
+        "內關",
+        "Neiguan"
+      ],
+      "notation": "PC6"
+    },
+    {
+      "id": "st40",
+      "type": "Acupoint",
+      "label": "풍륭 ST40",
+      "page": "acupuncture/points/st40-fenglong.md",
+      "definition": "종아리 앞가쪽면 앞정강근의 가쪽 가장자리에 위치하는 족양명위경의 경혈.",
+      "aliases": [
+        "豊隆",
+        "豐隆",
+        "Fenglong"
+      ],
+      "notation": "ST40"
+    },
+    {
+      "id": "pericardium-meridian",
+      "type": "Meridian",
+      "label": "수궐음심포경",
+      "page": "meridian-network/pericardium-meridian.md#_3",
+      "definition": "천지 PC1에서 중충 PC9까지 9개 경혈의 소속과 유주를 정리하는 경맥.",
+      "aliases": [
+        "手厥陰心包經"
+      ]
     }
   ],
   "predicates": {
@@ -678,6 +713,24 @@
       "source": "diagnostics/patterns/phlegm-fluid.md#phlegm-qi-binding",
       "scope": "금궤요략 5미 수록형을 담기울결의 후대 변증·배합 해설과 연결한다. 목 이물감·흉민·한숨·오심과 긴장·식사의 관계를 함께 살피며, 비허담습과 실제 연하곤란의 감별 및 시험 제형·연구 대상은 해당 본문에서 확인한다.",
       "quote": "[반하후박탕](../../formulas/banxia-houpo-tang.md#source-dose-original)은 이 담기울결의 맥락에서 비교하는 처방입니다."
+    },
+    {
+      "id": "pc6--belongsToMeridian--pericardium-meridian",
+      "subject": "pc6",
+      "predicate": "belongsToMeridian",
+      "object": "pericardium-meridian",
+      "source": "meridian-network/pericardium-meridian.md#_3",
+      "scope": "표준 혈명·코드와 경맥의 소속 경혈표를 연결하는 분류 관계. KMCRIC 표준경혈 DB와 대조하며, 해부학적 위치·자극 방법·임상연구는 해당 경혈 본문에서 각각 확인한다.",
+      "quote": "| PC6 | [내관 PC6](../acupuncture/points/pc6-neiguan.md) |"
+    },
+    {
+      "id": "st40--belongsToMeridian--stomach-meridian",
+      "subject": "st40",
+      "predicate": "belongsToMeridian",
+      "object": "stomach-meridian",
+      "source": "meridian-network/stomach-meridian.md#_3",
+      "scope": "표준 혈명·코드와 경맥의 소속 경혈표를 연결하는 분류 관계. KMCRIC 표준경혈 DB와 대조하며, 해부학적 위치·자극 방법·임상연구는 해당 경혈 본문에서 각각 확인한다.",
+      "quote": "| ST40 | [풍륭 ST40](../acupuncture/points/st40-fenglong.md) |"
     }
   ]
 }
