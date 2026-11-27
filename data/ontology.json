@@ -286,6 +286,16 @@
       "page": "classics/jinkui-yaolue/chapters/gynecology.md#clause-22-005",
       "definition": "인후에 구운 고깃덩이가 있는 듯한 감각과 반하후박탕을 연결하는 금궤요략 부인잡병편 조문.",
       "aliases": []
+    },
+    {
+      "id": "phlegm-qi-binding",
+      "type": "Pattern",
+      "label": "담기울결",
+      "page": "diagnostics/patterns/phlegm-fluid.md#phlegm-qi-binding",
+      "definition": "담과 기의 울체가 함께 나타나 목 이물감·흉민·한숨·오심과 긴장·식사의 관계를 살피는 한의학적 변증.",
+      "aliases": [
+        "痰氣鬱結"
+      ]
     }
   ],
   "predicates": {
@@ -659,6 +669,15 @@
       "source": "classics/jinkui-yaolue/chapters/gynecology.md#clause-22-005",
       "scope": "금궤요략 부인잡병편의 婦人咽中如有炙臠，半夏厚朴湯主之. 원문의 인후 감각과 처방 수록을 연결하며 현대 연구의 환자군·시험 제형은 해당 연구에서 확인한다.",
       "quote": "> 婦人咽中如有炙臠，半夏厚朴湯主之。"
+    },
+    {
+      "id": "banxia-houpo-jinkui--hasTraditionalPatternContext--phlegm-qi-binding",
+      "subject": "banxia-houpo-jinkui",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "phlegm-qi-binding",
+      "source": "diagnostics/patterns/phlegm-fluid.md#phlegm-qi-binding",
+      "scope": "금궤요략 5미 수록형을 담기울결의 후대 변증·배합 해설과 연결한다. 목 이물감·흉민·한숨·오심과 긴장·식사의 관계를 함께 살피며, 비허담습과 실제 연하곤란의 감별 및 시험 제형·연구 대상은 해당 본문에서 확인한다.",
+      "quote": "[반하후박탕](../../formulas/banxia-houpo-tang.md#source-dose-original)은 이 담기울결의 맥락에서 비교하는 처방입니다."
     }
   ]
 }
