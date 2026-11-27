@@ -58,6 +58,21 @@ class OntologyPages(unittest.TestCase):
             self.assertIn('skos:scopeNote', record)
             self.assertIn('dcterms:description', record)
 
+    def test_point_and_meridian_documents_share_exact_membership_statement(self):
+        for point, slug, meridian in [('pc6', 'pc6-neiguan', 'pericardium-meridian'),
+                                      ('st40', 'st40-fenglong', 'stomach-meridian')]:
+            point_page = self.pages[BASE + '/acupuncture/points/' + slug + '/']
+            meridian_page = self.pages[BASE + '/meridian-network/' + meridian + '/']
+            statement = RESOURCE + '#statement-' + point + '--belongsToMeridian--' + meridian
+            self.assertEqual(point_page['concept_ids'], [RESOURCE + '#' + point])
+            self.assertIn(statement, point_page['statement_ids'])
+            self.assertIn(statement, meridian_page['statement_ids'])
+            a = next(n for n in point_page['payload']['@graph'] if n['@id'] == statement)
+            b = next(n for n in meridian_page['payload']['@graph'] if n['@id'] == statement)
+            self.assertEqual(a, b)
+            self.assertIn('skos:scopeNote', a)
+            self.assertIn('dcterms:description', a)
+
     def test_projection_is_deterministic_and_does_not_modify_global_payload(self):
         before = deepcopy(self.payload)
         self.assertEqual(page_projections(self.payload), self.pages)

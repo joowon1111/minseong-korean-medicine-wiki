@@ -138,6 +138,23 @@ class OntologyTests(unittest.TestCase):
         self.assertTrue(node['rdf:object']['@id'].endswith('#heart-meridian'))
         self.assertIn('신문 HT7', node['dcterms:description']['@value'])
 
+    def test_pc6_and_st40_codes_and_meridian_membership_stay_distinct(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        graph = {n['@id']: n for n in payload['@graph']}
+        for point, notation, meridian, path in [
+                ('pc6', 'PC6', 'pericardium-meridian', 'pericardium-meridian'),
+                ('st40', 'ST40', 'stomach-meridian', 'stomach-meridian')]:
+            concept = graph[RESOURCE + '#' + point]
+            self.assertIn('km:Acupoint', concept['@type'])
+            self.assertEqual(concept['skos:notation'], notation)
+            statement = graph[RESOURCE + '#statement-' + point + '--belongsToMeridian--' + meridian]
+            self.assertEqual(statement['rdf:subject']['@id'], concept['@id'])
+            self.assertEqual(statement['rdf:object']['@id'], RESOURCE + '#' + meridian)
+            self.assertEqual(statement['rdf:predicate']['@id'], 'km:belongsToMeridian')
+            self.assertTrue(statement['dcterms:source']['@id'].endswith('/' + path + '/#_3'))
+            self.assertIn(notation, statement['dcterms:description']['@value'])
+            self.assertIn('분류 관계', statement['skos:scopeNote']['@value'])
+
     def test_navigation_graph_classifies_individual_meridians(self):
         from build_ai_knowledge_layer import entity_type, DOCS
         self.assertEqual(entity_type(DOCS / 'meridian-network/heart-meridian.md'), 'meridian')
