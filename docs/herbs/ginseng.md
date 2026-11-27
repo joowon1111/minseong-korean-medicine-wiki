@@ -132,6 +132,10 @@ last_reviewed: 2026-10-23
 | [생맥산](../formulas/shengmai-san.md) | 익기의 중심 | 맥문동의 양음·오미자의 수렴 |
 | [소시호탕](../formulas/xiaochaihu-tang.md) | 화해제 안에서 정기를 받침 | 시호·황금과 법제 반하·생강의 조화 |
 
+### 수록본별 인삼 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 문서
 - [《동의보감》의 인삼](../classics/donguibogam/tangyeok/ginseng.md)
 - [만성피로](../conditions/chronic-fatigue.md)

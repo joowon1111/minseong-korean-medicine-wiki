@@ -31,6 +31,10 @@ last_reviewed: 2026-10-23
 
 [산조인탕 수록형 비교](../formulas/suanzaoren-tang.md#formula-variant-comparison)에서는 계심·석고·인삼이 포함된 몽문 수록방과 천궁을 포함한 《금궤요략》 5미 구성을 나란히 확인합니다. 계심의 원문 명칭, 수피를 쓰는 육계, 어린 가지를 쓰는 계지는 각 문헌과 원료 규격에 따라 구분합니다.
 
+### 계심의 처방 수록형과 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 원문으로 읽는 약재의 중심 {#tonic-original}
 
 《동의보감》 탕액편 「肉桂」의 공개 전사에서 다음 대목을 확인할 수 있습니다.

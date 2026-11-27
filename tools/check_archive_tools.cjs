@@ -34,6 +34,27 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       assert.equal(projected.overflow,false,'ontology tables must fit the viewport');
       await page.locator('#ontology-formula-compositions').scrollIntoViewIfNeeded();
       await page.screenshot({path:`archive-browser-results/${name}-ontology-compositions.png`,fullPage:false});
+      for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark']){
+        const herbIds=new Set(ontology['@graph'].filter(n=>Array.isArray(n['@type'])&&n['@type'].includes('km:Herb')&&new URL(n['foaf:page']['@id']).pathname==='/herbs/'+slug+'/').map(n=>n['@id']));
+        const records=compositions.filter(n=>herbIds.has(n['rdf:object']['@id']));
+        const expectedRows=new Set(records.map(n=>JSON.stringify([n['rdf:object']['@id'],n['rdf:subject']['@id'],n['dcterms:source']['@id']])));
+        await page.goto(base+'/herbs/'+slug+'/#ontology-herb-formula-sources');
+        await page.locator('#ontology-herb-formula-sources').waitFor();
+        const herbView=await page.evaluate(()=>{
+          let table;
+          for(let e=document.getElementById('ontology-herb-formula-sources').nextElementSibling;e;e=e.nextElementSibling){table=e.matches('table')?e:e.querySelector('table');if(table)break;}
+          if(!table)throw Error('Missing herb source table');
+          return {rows:table.tBodies[0].rows.length,names:[...table.tBodies[0].rows].map(r=>r.cells[0].innerText),links:[...table.querySelectorAll('a')].map(a=>a.href),overflow:document.documentElement.scrollWidth>innerWidth+2};
+        });
+        assert.equal(herbView.rows,expectedRows.size,slug+' source row count');
+        assert.equal(herbView.overflow,false,slug+' herb table must fit the viewport');
+        for(const record of records)assert.ok(herbView.links.includes(record['dcterms:source']['@id']));
+        if(slug==='poria'){
+          assert.ok(herbView.names.includes('복령')); assert.ok(herbView.names.includes('적복령'));
+          await page.locator('#ontology-herb-formula-sources').scrollIntoViewIfNeeded();
+          await page.screenshot({path:`archive-browser-results/${name}-ontology-herb-parts.png`,fullPage:false});
+        }
+      }
       const catalog=JSON.parse(fs.readFileSync('docs/assets/archive-tools/comparison.json','utf8'));
       const formulaCount=catalog.cards.filter(c=>c.kind==='formula').length;
       await page.goto(base+'/herbal-integrated/formula-structure/');
@@ -142,5 +163,5 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       assert.deepEqual(errors,[]); await context.close();
     }
   } finally {await browser.close();}
-  console.log('Archive browser checks passed: ontology composition tables, comparison, herb search, passage search, resume, export/import; mobile and desktop.');
+  console.log('Archive browser checks passed: ontology composition and herb source tables, comparison, herb search, passage search, resume, export/import; mobile and desktop.');
 })().catch(error=>{console.error(error);process.exitCode=1;});
