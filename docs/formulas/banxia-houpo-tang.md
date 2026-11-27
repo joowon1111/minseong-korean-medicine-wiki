@@ -54,7 +54,7 @@ description: "반하후박탕의 다섯 약재와 목에 뭔가 걸린 듯한 �
 
 ## 인후의 막힌 느낌과 금궤의 다섯 약 {#original-pattern-course}
 
-금궤 「부인잡병」은 인후에 구운 고깃덩이가 있는 듯한 느낌을 반하후박탕과 연결합니다. 천금 계통의 부기에는 흉만·심하의 단단함과 뱉어도 나오지 않고 삼켜도 내려가지 않는 느낌이 함께 나옵니다. 문헌의 묘사는 **인후 감각과 흉복부·기역을 함께 읽는 단서**이며 실제 이물이나 종양의 부재를 증명하는 검사가 아닙니다. [부인잡병편](../classics/jinkui-yaolue/chapters/gynecology.md)
+금궤 「부인잡병」은 인후에 구운 고깃덩이가 있는 듯한 느낌을 반하후박탕과 연결합니다. 천금 계통의 부기에는 흉만·심하의 단단함과 뱉어도 나오지 않고 삼켜도 내려가지 않는 느낌이 함께 나옵니다. 문헌의 묘사는 **인후 감각과 흉복부·기역을 함께 읽는 단서**이며 실제 이물이나 종양의 부재를 증명하는 검사가 아닙니다. [금궤요략 22.5 조문·처방 원문](../classics/jinkui-yaolue/chapters/gynecology.md#clause-22-005)
 
 | 약재 | 금궤 수록량 | 배합축 |
 |---|---|---|
@@ -154,7 +154,7 @@ Kawago 등은 2019년 *Annals of Thoracic and Cardiovascular Surgery*에 일본 
 
 담기울결의 목 이물감·흉민을 비허담습·식적과 비교하고, 실제 연하곤란 및 역류 증상의 감별로 연결합니다.
 
-[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담음 변증 지도](../diagnostics/patterns/phlegm-fluid.md) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담기울결과 비허담습 비교](../diagnostics/patterns/phlegm-fluid.md#phlegm-qi-binding) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)
 
 ## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
 

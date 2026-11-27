@@ -43,6 +43,8 @@ tags: [경락, 십이경맥, 경혈]
 | PC8 | [노궁 PC8](../acupuncture/points/pc8.md) |
 | PC9 | [중충 PC9](../acupuncture/points/pc9.md) |
 
+내관의 혈명·PC6 코드·심포경 소속은 [KMCRIC 표준경혈 DB](https://www.kmcric.com/database/acupoint/PC/PC6)에서도 대조할 수 있습니다.
+
 ## 특정혈 {#_4}
 정9 형8 수7 경5 합3 / 원7 / 락·팔맥6 / 극4
 

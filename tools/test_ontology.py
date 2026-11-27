@@ -1,6 +1,8 @@
 """Source integrity, formulation separation and qualified-assertion contracts."""
 from copy import deepcopy
 import json
+import re
+from collections import Counter
 from pathlib import Path
 import tempfile
 import unittest
@@ -9,6 +11,56 @@ from ontology import build_ontology, source_url, source_excerpt, RESOURCE
 
 
 class OntologyTests(unittest.TestCase):
+    def test_standard_memberships_cover_the_atlas_exactly_once(self):
+        from test_meridian_routes import COUNTS
+        catalog = json.loads(Path('data/acupoint_catalog.json').read_text())['points']
+        manifest = json.loads(Path('data/standard_manifest.json').read_text())
+        atlas = Path('docs/acupoint-network/standard-atlas.md').read_text()
+        atlas_rows = re.findall(r'\[([^\]]+)\]\(\.\./(acupuncture/points/[^)]+\.md)\)', atlas)
+        atlas_points = {re.search(r'([A-Z]{2}\d+)$', name)[1]: (name, path)
+                        for name, path in atlas_rows}
+        concepts = {c['id']: c for c in self.data['concepts']}
+        points = [c for c in concepts.values() if c['type'] == 'Acupoint']
+        self.assertEqual(len(points), 361)
+        self.assertEqual(len({c['notation'] for c in points}), 361)
+        self.assertEqual({c['notation'] for c in points}, set(catalog))
+        self.assertEqual(set(atlas_points), set(catalog))
+        self.assertEqual({p['code'] for p in manifest}, set(catalog))
+        for identity in manifest:
+            p = catalog[identity['code']]
+            self.assertEqual(identity, {key: p[key] for key in identity})
+        members = [s for s in self.data['statements'] if s['predicate'] == 'belongsToMeridian']
+        self.assertEqual(Counter(s['subject'] for s in members), Counter(c['id'] for c in points))
+        routes = json.loads(Path('data/meridian_routes.json').read_text())['routes']
+        route_map = {Path(r['path']).stem: r for r in routes}
+        self.assertEqual(Counter(concepts[s['subject']]['notation'].rstrip('0123456789')
+                                 for s in members), COUNTS)
+        self.assertEqual({s['object'] for s in members}, set(route_map))
+        for s in members:
+            c = concepts[s['subject']]
+            p = catalog[c['notation']]
+            route = route_map[s['object']]
+            with self.subTest(code=p['code']):
+                self.assertEqual(c['label'], p['name_ko'] + ' ' + p['code'])
+                self.assertIn(p['name_zh'], c['aliases'])
+                self.assertEqual(c['page'], p['path'])
+                self.assertEqual(p['meridian_code'], route['code'])
+                self.assertEqual(concepts[s['object']]['label'], p['meridian'])
+                self.assertEqual(s['source'], route['path'] + '#_3')
+                row = re.fullmatch(r'\| ([A-Z]+\d+) \| \[([^]]+)\]\(../([^)]*)\) \|', s['quote'])
+                self.assertIsNotNone(row)
+                self.assertEqual((row[1], row[3]), (p['code'], c['page']))
+                self.assertEqual(source_excerpt(s['source'], s['quote'], self.docs), s['quote'])
+                display = re.sub(r'\([^)]*\)', '', row[2]).removesuffix(' ' + p['code'])
+                self.assertIn(display, [p['name_ko']] + c['aliases'])
+                atlas_name, atlas_path = atlas_points[p['code']]
+                self.assertEqual(atlas_path, c['page'])
+                self.assertIn('(' + p['name_zh'] + ')', atlas_name)
+                self.assertIn(atlas_name.split('(')[0], [p['name_ko']] + c['aliases'])
+        # Exact code ranges catch missing and out-of-range points and extra points.
+        self.assertEqual(set(catalog), {prefix + str(i) for prefix, count in COUNTS.items()
+                                       for i in range(1, count + 1)})
+
     def setUp(self):
         self.docs = Path('docs')
         self.source = Path('data/ontology.json')
@@ -138,12 +190,62 @@ class OntologyTests(unittest.TestCase):
         self.assertTrue(node['rdf:object']['@id'].endswith('#heart-meridian'))
         self.assertIn('신문 HT7', node['dcterms:description']['@value'])
 
+    def test_pc6_and_st40_codes_and_meridian_membership_stay_distinct(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        graph = {n['@id']: n for n in payload['@graph']}
+        for point, notation, meridian, path in [
+                ('pc6', 'PC6', 'pericardium-meridian', 'pericardium-meridian'),
+                ('st40', 'ST40', 'stomach-meridian', 'stomach-meridian')]:
+            concept = graph[RESOURCE + '#' + point]
+            self.assertIn('km:Acupoint', concept['@type'])
+            self.assertEqual(concept['skos:notation'], notation)
+            statement = graph[RESOURCE + '#statement-' + point + '--belongsToMeridian--' + meridian]
+            self.assertEqual(statement['rdf:subject']['@id'], concept['@id'])
+            self.assertEqual(statement['rdf:object']['@id'], RESOURCE + '#' + meridian)
+            self.assertEqual(statement['rdf:predicate']['@id'], 'km:belongsToMeridian')
+            self.assertTrue(statement['dcterms:source']['@id'].endswith('/' + path + '/#_3'))
+            self.assertIn(notation, statement['dcterms:description']['@value'])
+            self.assertIn('분류 관계', statement['skos:scopeNote']['@value'])
+
     def test_navigation_graph_classifies_individual_meridians(self):
         from build_ai_knowledge_layer import entity_type, DOCS
         self.assertEqual(entity_type(DOCS / 'meridian-network/heart-meridian.md'), 'meridian')
         self.assertEqual(entity_type(DOCS / 'meridian-network/stomach-meridian.md'), 'meridian')
         for name in ('index.md', 'extraordinary-vessels.md', 'special-points/index.md'):
             self.assertNotEqual(entity_type(DOCS / 'meridian-network' / name), 'meridian')
+
+    def test_banxia_houpo_preserves_five_ingredients_and_historical_units(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        graph = {node['@id']: node for node in payload['@graph']}
+        records = [node for node in graph.values() if node['@type'] == 'rdf:Statement'
+                   and node['rdf:subject']['@id'] == RESOURCE + '#banxia-houpo-jinkui'
+                   and node['rdf:predicate']['@id'] == 'km:containsHerb']
+        self.assertEqual({node['rdf:object']['@id'].split('#')[-1] for node in records},
+                         {'pinellia', 'magnolia-bark', 'poria', 'fresh-ginger', 'perilla-leaf'})
+        for record in records:
+            self.assertIn('반하 1승은 부피', record['skos:scopeNote']['@value'])
+            self.assertIn('건소엽', record['skos:scopeNote']['@value'])
+            self.assertTrue(record['dcterms:source']['@id'].endswith('/banxia-houpo-tang/#source-dose-original'))
+        leaf = graph[RESOURCE + '#perilla-leaf']
+        self.assertIn('乾蘇葉', leaf['skos:altLabel'])
+        clause = graph[RESOURCE + '#statement-jinkui-22-005--recordsFormula--banxia-houpo-jinkui']
+        self.assertEqual(clause['rdf:object']['@id'], RESOURCE + '#banxia-houpo-jinkui')
+        self.assertTrue(clause['dcterms:source']['@id'].endswith('#clause-22-005'))
+
+    def test_banxia_houpo_pattern_context_keeps_formulation_and_scope(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        graph = {node['@id']: node for node in payload['@graph']}
+        pattern = graph[RESOURCE + '#phlegm-qi-binding']
+        self.assertEqual(pattern['@type'], ['skos:Concept', 'km:Pattern'])
+        self.assertTrue(pattern['foaf:page']['@id'].endswith('/diagnostics/patterns/phlegm-fluid/#phlegm-qi-binding'))
+        context = graph[RESOURCE + '#statement-banxia-houpo-jinkui--hasTraditionalPatternContext--phlegm-qi-binding']
+        self.assertEqual(context['rdf:subject']['@id'], RESOURCE + '#banxia-houpo-jinkui')
+        self.assertEqual(context['rdf:object']['@id'], pattern['@id'])
+        self.assertEqual(context['rdf:predicate']['@id'], 'km:hasTraditionalPatternContext')
+        self.assertIn('금궤요략 5미', context['skos:scopeNote']['@value'])
+        self.assertIn('후대 변증', context['skos:scopeNote']['@value'])
+        self.assertIn('실제 연하곤란', context['skos:scopeNote']['@value'])
+        self.assertIn('담기울결의 맥락', context['dcterms:description']['@value'])
 
     def test_pattern_principle_route_preserves_qualified_edges(self):
         payload, _ = build_ontology(self.docs, self.source)

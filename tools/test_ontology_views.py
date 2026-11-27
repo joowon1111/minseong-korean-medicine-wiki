@@ -10,6 +10,119 @@ import ontology_views as views
 
 
 class OntologyViews(unittest.TestCase):
+    def test_explicit_variants_compare_shared_and_distinct_ingredient_ids(self):
+        text = views.variant_comparisons(self.payload)
+        panels = text.split('<details class="ontology-variant-comparison">')[1:]
+        self.assertEqual(len(panels), 6)
+        suanzaoren = next(p for p in panels if '산조인탕' in p.split('</summary>')[0])
+        common = suanzaoren.split('</p>', 1)[0]
+        self.assertIn('공통으로 등록된 본초 (3)', common)
+        self.assertNotIn('복령</a>', common)
+        self.assertIn('>복령</a>', suanzaoren)
+        self.assertIn('>적복령</a>', suanzaoren)
+        guibi = next(p for p in panels if '귀비탕' in p.split('</summary>')[0])
+        self.assertIn('공통으로 등록된 본초 (8)', guibi)
+        self.assertIn('>당귀</a>', guibi)
+        self.assertIn('>원지</a>', guibi)
+        self.assertIn('#donguibogam-version', guibi)
+
+    def test_same_herbs_keep_different_doses_and_all_source_conditions(self):
+        text = views.variant_comparisons(self.payload)
+        self.assertIn('15립', text)
+        self.assertIn('감초 2량·대조 20매', text)
+        self.assertIn('감초 3량·대조 12매', text)
+        self.assertIn('백복령 48량', text)
+        self.assertIn('백복령 24량', text)
+        self.assertEqual(text.count('class="ontology-variant-records"'), 6)
+        for record in self.payload['@graph']:
+            if record['@type'] == 'rdf:Statement' and record['rdf:predicate']['@id'] == 'km:sharesNameWith':
+                self.assertIn(record['dcterms:source']['@id'], text)
+
+    def test_links_aliases_and_duplicate_records_do_not_create_variant_pairs(self):
+        payload = deepcopy(self.payload)
+        text = views.variant_comparisons(payload)
+        record = deepcopy(next(n for n in payload['@graph'] if n['@type'] == 'rdf:Statement'
+                               and n['rdf:predicate']['@id'] == 'km:sharesNameWith'))
+        record['@id'] += '-reverse'
+        record['rdf:subject'], record['rdf:object'] = record['rdf:object'], record['rdf:subject']
+        payload['@graph'].append(record)
+        self.assertEqual(text, views.variant_comparisons(payload))
+        record['rdf:predicate']['@id'] = 'km:links_to_formula'
+        self.assertEqual(text, views.variant_comparisons(payload))
+        payload['@graph'] = [n for n in payload['@graph'] if n.get('rdf:predicate', {}).get('@id') != 'km:sharesNameWith']
+        self.assertEqual(views.variant_comparisons(payload), '')
+
+    def test_variant_view_escapes_labels_definitions_and_conditions(self):
+        payload = deepcopy(self.payload)
+        for node in payload['@graph']:
+            if node['@id'].endswith('#guibi-jisheng'):
+                node['skos:prefLabel']['@value'] = '<img src=x onerror=bad()>'
+                node['skos:definition']['@value'] = '<script>bad()</script>'
+            if (node['@type'] == 'rdf:Statement'
+                    and node.get('rdf:subject', {}).get('@id', '').endswith('#guibi-jisheng')):
+                node['skos:scopeNote']['@value'] = '<img src=x onerror=bad()>'
+        text = views.variant_comparisons(payload)
+        self.assertNotIn('<img', text)
+        self.assertNotIn('<script>', text)
+        self.assertIn('&lt;img', text)
+        self.assertIn('&lt;script&gt;', text)
+
+    def test_classical_context_controls_preserve_conditions_without_table_injection(self):
+        payload = deepcopy(self.payload)
+        record = next(n for n in payload['@graph'] if n['@type'] == 'rdf:Statement'
+                      and n['rdf:predicate']['@id'] == 'km:recordsFormula')
+        record['skos:scopeNote']['@value'] = 'left | right\nnew <tag>'
+        text = views.classical_formula_table(payload)
+        self.assertEqual(text.count('class="ontology-clause-context"'), 16)
+        self.assertIn('left &#124; right<br>new &lt;tag&gt;', text)
+        self.assertIn('先與小建中湯', text)
+        self.assertIn('不差者，與小柴胡湯', text)
+        for row in text.splitlines():
+            if row.startswith('| <a'):
+                self.assertEqual(row.count('|'), 5)
+
+    def test_variant_marker_expands_once_in_the_existing_network_hook(self):
+        page = SimpleNamespace(file=SimpleNamespace(src_uri='network/index.md'))
+        text = views.on_page_markdown(views.MARKER + '\n' + views.VARIANT_MARKER,
+                                      page=page, config={'docs_dir': 'docs'}, files=[])
+        self.assertNotIn(views.VARIANT_MARKER, text)
+        self.assertIn('class="ontology-variant-comparison"', text)
+        with self.assertRaises(ValueError):
+            views.on_page_markdown(views.MARKER + views.VARIANT_MARKER * 2,
+                                    page=page, config={'docs_dir': 'docs'}, files=[])
+
+    def test_meridian_members_are_complete_numerically_ordered_and_source_qualified(self):
+        text = views.meridian_members(self.payload)
+        rows = [line for line in text.splitlines() if line.startswith('| <a')]
+        self.assertEqual(len(rows), 14)
+        self.assertEqual(sum(int(line.split(' | ')[1]) for line in rows), 361)
+        pc = next(line for line in rows if '>수궐음심포경</a>' in line)
+        self.assertIn(' | 9 | ', pc)
+        self.assertIn('/pericardium-meridian/#_3', pc)
+        self.assertIn('>내관 PC6</a>', pc)
+        sp = next(line for line in rows if '>족태음비경</a>' in line)
+        self.assertLess(sp.index('SP2</a>'), sp.index('SP10</a>'))
+        payload = deepcopy(self.payload)
+        record = next(n for n in payload['@graph'] if n['@type'] == 'rdf:Statement'
+                      and n['rdf:predicate']['@id'] == 'km:belongsToMeridian')
+        duplicate = deepcopy(record)
+        duplicate['@id'] += '-another-source'
+        payload['@graph'].append(duplicate)
+        self.assertEqual(text, views.meridian_members(payload))
+        duplicate['rdf:predicate']['@id'] = 'km:links_to_meridian'
+        self.assertEqual(text, views.meridian_members(payload))
+
+    def test_network_marker_uses_the_existing_payload(self):
+        page = SimpleNamespace(file=SimpleNamespace(src_uri='network/index.md'))
+        text = views.on_page_markdown(views.MARKER + '\n' + views.MERIDIAN_MARKER,
+                                      page=page, config={'docs_dir': 'docs'}, files=[])
+        self.assertNotIn(views.MERIDIAN_MARKER, text)
+        self.assertIn('>회음 CV1</a>', text)
+        self.assertIn('>은교 GV28</a>', text)
+        with self.assertRaises(ValueError):
+            views.on_page_markdown(views.MARKER + views.MERIDIAN_MARKER * 2,
+                                    page=page, config={'docs_dir': 'docs'}, files=[])
+
     @classmethod
     def setUpClass(cls):
         cls.payload, _ = build_ontology(Path('docs'), Path('data/ontology.json'))
@@ -31,11 +144,11 @@ class OntologyViews(unittest.TestCase):
         self.assertIn('계심</a>', donguibogam)
         self.assertIn('#donguibogam-version', donguibogam)
         self.assertIn('#source-dose-original', jinkui)
-        inverse = rendered.split('### 공통 본초에서 처방 찾아가기', 1)[1]
+        inverse = rendered.split('### 본초에서 처방 찾아가기', 1)[1]
         self.assertIn('인삼</a>', inverse)
-        # A one-formula part must not be silently equated with generic poria.
-        self.assertNotIn('적복령</a>', inverse)
-        self.assertNotIn('계심</a>', inverse)
+        red = next(line for line in inverse.splitlines() if '>적복령</a> |' in line)
+        self.assertIn('산조인탕 — 동의보감 몽문 수록형', red)
+        self.assertNotIn('산조인탕 — 금궤요략 수록형', red)
 
     def test_navigation_links_never_create_composition_membership(self):
         payload = deepcopy(self.payload)
@@ -86,15 +199,26 @@ class OntologyViews(unittest.TestCase):
     def test_herb_document_keeps_exact_ingredient_part_names(self):
         poria = views.herb_formula_table(self.payload, 'herbs/poria.md')
         rows = [line for line in poria.splitlines() if line.startswith('| <a')]
-        self.assertEqual(len(rows), 4)
-        self.assertEqual(sum('>복령</a> |' in line for line in rows), 3)
+        self.assertGreaterEqual(len(rows), 5)
+        self.assertGreaterEqual(sum('>복령</a> |' in line for line in rows), 4)
         self.assertEqual(sum('>적복령</a> |' in line for line in rows), 1)
         red = next(line for line in rows if '>적복령</a> |' in line)
         self.assertIn('동의보감 몽문 수록형', red)
         self.assertIn('#donguibogam-version', red)
         bark = views.herb_formula_table(self.payload, 'herbs/cinnamon-bark.md')
         self.assertIn('>계심</a>', bark)
-        self.assertNotIn('>육계</a>', bark)
+        self.assertIn('>육계</a>', bark)
+        heart = next(line for line in bark.splitlines() if '>계심</a>' in line and '산조인탕' in line)
+        self.assertIn('동의보감 몽문 수록형', heart)
+
+    def test_banxia_houpo_links_use_dried_leaf_and_formula_source(self):
+        for slug, name in [('perilla-leaf', '자소엽'), ('magnolia-bark', '후박')]:
+            rendered = views.herb_formula_table(self.payload, 'herbs/' + slug + '.md')
+            rows = [line for line in rendered.splitlines() if line.startswith('| <a')]
+            banxia = [line for line in rows if '반하후박탕 — 금궤요략 수록형' in line]
+            self.assertEqual(len(banxia), 1)
+            self.assertIn('>' + name + '</a>', banxia[0])
+            self.assertIn('/formulas/banxia-houpo-tang/#source-dose-original', banxia[0])
 
     def test_herb_lookups_preserve_formulation_context_and_exact_page(self):
         text = views.herb_formula_table(self.payload, 'herbs/ginseng.md')

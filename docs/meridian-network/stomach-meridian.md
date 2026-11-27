@@ -79,6 +79,8 @@ tags: [경락, 십이경맥, 경혈]
 | ST44 | [내정 ST44](../acupuncture/points/st44-neiting.md) |
 | ST45 | [여태 ST45](../acupuncture/points/st45.md) |
 
+풍륭의 혈명·ST40 코드·위경 소속은 [KMCRIC 표준경혈 DB](https://m.kmcric.com/knowledge/acupoint/ST/ST40)에서도 대조할 수 있습니다.
+
 ## 특정혈 {#_4}
 정45 형44 수43 경41 합36 / 원42 / 락40 / 극34
 

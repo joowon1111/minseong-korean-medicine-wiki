@@ -13,6 +13,27 @@ from audit_page_discovery import audit
 
 
 class OntologyPages(unittest.TestCase):
+    def test_all_meridian_pages_expose_complete_incoming_memberships(self):
+        from test_meridian_routes import COUNTS
+        routes = json.loads(Path('data/meridian_routes.json').read_text())['routes']
+        for route in routes:
+            url = BASE + '/' + route['path'][:-3] + '/'
+            page = self.pages[url]
+            graph = {node['@id']: node for node in page['payload']['@graph']}
+            statements = [graph[key] for key in page['statement_ids']
+                          if graph[key]['rdf:predicate']['@id'] == 'km:belongsToMeridian']
+            with self.subTest(meridian=route['code']):
+                self.assertEqual(len(statements), COUNTS[route['code']])
+                self.assertEqual(page['concept_ids'], [RESOURCE + '#' + Path(route['path']).stem])
+                for statement in statements:
+                    self.assertIn(statement['rdf:object']['@id'], page['concept_ids'])
+                    point = graph[statement['rdf:subject']['@id']]
+                    self.assertTrue(point['skos:notation'].startswith(route['code']))
+                    self.assertIn('dcterms:description', statement)
+                    self.assertIn('skos:scopeNote', statement)
+                    point_page = self.pages[point['foaf:page']['@id']]
+                    self.assertIn(statement['@id'], point_page['statement_ids'])
+
     @classmethod
     def setUpClass(cls):
         cls.payload, _ = build_ontology(Path('docs'), Path('data/ontology.json'))
@@ -41,6 +62,39 @@ class OntologyPages(unittest.TestCase):
         self.assertEqual(source['concept_ids'], [])
         self.assertTrue(any('sharesFormulaStructureWith' in key for key in source['statement_ids']))
         self.assertNotIn(BASE + '/conditions/insomnia/', self.pages)
+
+    def test_banxia_houpo_clausal_and_ingredient_paths_keep_qualifications(self):
+        formula = self.pages[BASE + '/formulas/banxia-houpo-tang/']
+        self.assertEqual(formula['concept_ids'], [RESOURCE + '#banxia-houpo-jinkui'])
+        self.assertGreaterEqual(len(formula['statement_ids']), 7)
+        clause = self.pages[BASE + '/classics/jinkui-yaolue/chapters/gynecology/']
+        self.assertEqual(clause['concept_ids'], [RESOURCE + '#jinkui-22-005'])
+        self.assertEqual(len(clause['statement_ids']), 1)
+        for slug in ('perilla-leaf', 'magnolia-bark'):
+            herb = self.pages[BASE + '/herbs/' + slug + '/']
+            self.assertEqual(herb['concept_ids'], [RESOURCE + '#' + slug])
+            records = [n for n in herb['payload']['@graph'] if n['@type'] == 'rdf:Statement'
+                       and n['rdf:subject']['@id'] == RESOURCE + '#banxia-houpo-jinkui']
+            self.assertEqual(len(records), 1)
+            record = records[0]
+            self.assertEqual(record['rdf:subject']['@id'], RESOURCE + '#banxia-houpo-jinkui')
+            self.assertIn('skos:scopeNote', record)
+            self.assertIn('dcterms:description', record)
+
+    def test_point_and_meridian_documents_share_exact_membership_statement(self):
+        for point, slug, meridian in [('pc6', 'pc6-neiguan', 'pericardium-meridian'),
+                                      ('st40', 'st40-fenglong', 'stomach-meridian')]:
+            point_page = self.pages[BASE + '/acupuncture/points/' + slug + '/']
+            meridian_page = self.pages[BASE + '/meridian-network/' + meridian + '/']
+            statement = RESOURCE + '#statement-' + point + '--belongsToMeridian--' + meridian
+            self.assertEqual(point_page['concept_ids'], [RESOURCE + '#' + point])
+            self.assertIn(statement, point_page['statement_ids'])
+            self.assertIn(statement, meridian_page['statement_ids'])
+            a = next(n for n in point_page['payload']['@graph'] if n['@id'] == statement)
+            b = next(n for n in meridian_page['payload']['@graph'] if n['@id'] == statement)
+            self.assertEqual(a, b)
+            self.assertIn('skos:scopeNote', a)
+            self.assertIn('dcterms:description', a)
 
     def test_projection_is_deterministic_and_does_not_modify_global_payload(self):
         before = deepcopy(self.payload)

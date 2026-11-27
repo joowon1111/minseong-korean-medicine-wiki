@@ -339,6 +339,14 @@ last_reviewed: '2026-08-23'
 | 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui`·`suanzaoren-donguibogam`을 구별하고 `km:sharesNameWith` 진술 확인 | [금궤요략 5미형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 몽문 수록형](../formulas/suanzaoren-tang.md#donguibogam-version)의 약미 대조 |
 | 기허·비허담습의 치료 방향은? | `qi-deficiency` 또는 `spleen-qi-deficiency-with-phlegm`에서 `km:hasTraditionalTreatmentPrinciple`의 대상 확인. 육군자탕은 `km:hasTraditionalPatternContext`로 변증에 연결 | [기허의 보기·건비](../pattern-treatment/qi-deficiency.md#treatment-principle), [비허담습의 익기건비·화담](../pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care)과 동반 증후·배합 조건 |
 | 족삼리는 어느 경맥에 속하는가? | 주체 `st36`, 관계 `km:belongsToMeridian`인 진술에서 대상 `stomach-meridian` 확인 | [족양명위경의 소속 경혈표](../meridian-network/stomach-meridian.md#_3)와 [족삼리의 위치·해부학](../acupuncture/points/st36-zusanli.md) |
+| 황기가 들어간 처방은? | 관계 `km:containsHerb`, 대상 `astragalus`인 진술의 주체를 조회 | 보중익기탕·당귀보혈탕·십전대보탕·쌍화탕·귀비탕의 수록형과 각 포제·약량 |
+| 귀비탕에는 당귀·원지가 들어가는가? | `guibi-jisheng`과 `guibi-donguibogam`을 각각 선택 | 제생방 기본 8미와 동의보감의 당귀·원지 포함 10미·생강 대추 추가형 |
+| 경옥고의 복령량은 같은가? | `gyeongok-hongshi`·`gyeongok-donguibogam-ipmun`·`gyeongok-donguibogam-wisaeng`을 구분 | 복령 49량·48량과 위생방 별기 24량 및 전체 제조 비율 |
+| 같은 이름의 처방은 무엇을 비교할까요? | 명시된 `km:sharesNameWith`의 두 대상을 선택한 뒤 각 수록형의 `km:containsHerb`를 개념 ID로 비교 | 공통·한쪽에만 등록된 본초와 각 진술의 원문 약명·약량·포제·제법. [수록형 비교 보기](../network/index.md#ontology-formula-variants) |
+| 소건중탕의 두 수록형은 어떻게 다른가? | `xiaojianzhong-shanghan`·`xiaojianzhong-jinkui`를 따로 조회 | 감초 2량·대조 20매와 감초 3량·대조 12매, 교이의 용화 제법 |
+| 상한론 100조의 처방과 구성은? | 주체 `shanghan-100`, 관계 `km:recordsFormula`인 진술을 고른 뒤 각 대상의 `km:containsHerb`를 조회 | 먼저 소건중탕, 불차 시 소시호탕이라는 조문의 순서·조건과 각 구성표. [조문→처방→본초](../network/index.md#ontology-classical-formulas) |
+| 심포경의 전체 경혈은? | 관계 `km:belongsToMeridian`, 대상 `pericardium-meridian`인 모든 진술의 주체를 선택하고 `skos:notation`의 번호순으로 정렬 | PC1–PC9의 9혈과 각 진술의 출처·근거 발췌. [경맥별 전체 소속 경혈](../network/index.md#ontology-meridian-members) |
+| 비경·임맥·독맥의 전체 경혈은? | 대상을 각각 `spleen-meridian`·`conception-vessel`·`governing-vessel`로 선택 | SP1–SP21의 21혈, CV1–CV24의 24혈, GV1–GV28의 28혈 |
 
 각 결과는 `dcterms:source`·`skos:scopeNote`·`dcterms:description`의 출처·조건·근거 발췌와 함께 읽고, 해당 개념의 `foaf:page`로 본문에 돌아갑니다. 산조인탕은 금궤요략 5미형과 동의보감 몽문의 7미·생강 추가 구성을 각각 연결했습니다. 동의보감형의 적복령·계심도 별도의 개념과 출처를 확인할 수 있습니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
 

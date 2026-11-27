@@ -49,6 +49,10 @@ last_reviewed: 2026-09-21
 
 세 처방의 후박은 같은 그득함을 다루더라도 주변 배합이 다릅니다. 평위산은 창출·진피와 **비위의 습체**, 반하후박탕은 반하·복령·소엽과 **인후 이물감과 흉민을 동반하는 담기울결**, 대승기탕은 지실·대황·망초와 **양명부실의 비만조실**을 살핍니다. 《화제국방》 평위산 수록본은 후박을 생강즙으로 법제해 볶는다고 기록하고, 《금궤요략》 반하후박탕의 해당 수록본에는 후박의 별도 포제 표기가 없습니다. 같은 이름의 약재라도 출전의 처리와 전체 구성은 각각 확인합니다. [평위산 원문](../formulas/pingwei-san.md#source-dose-original) · [반하후박탕 원문](../formulas/banxia-houpo-tang.md#source-dose-original) · [대승기탕 원문](../formulas/dachengqi-tang.md#source-dose-original)
 
+### 후박의 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 약용 부위·가공과 품질
 
 후박은 방향성 있는 **나무껍질 약재**입니다. 기원 식물과 채취 부위, 건조·가공, magnolol·honokiol 등의 지표성분이 품질 연구의 중심입니다. 생강즙 등을 이용한 가공품은 문헌과 규격에 따라 사용 목적이 설명되므로, 서로 다른 제품과 추출물을 같은 시료로 간주하지 않습니다.

@@ -69,6 +69,10 @@ glycyrrhizin과 flavonoids를 중심으로 염증·산화스트레스·점막 �
 | [자감초탕](../formulas/zhigancao-tang.md) | 자감초를 중심으로 기혈·음양을 함께 받치는 구성 |
 | [귀비탕](../formulas/guibi-tang.md) | 보기·양혈 약재들과 처방을 조화 |
 
+### 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 함께 구분할 점
 
 여러 탕약·보험한약·건강제품의 감초가 겹치면 총 노출량이 달라집니다. 혈압·부종·근력저하·저칼륨혈증을 확인하고, 이뇨제·스테로이드·digoxin 등 병용약을 살핍니다. [미국 NCCIH 감초 안내](https://www.nccih.nih.gov/health/licorice-root)에서 관련 안전 정보를 확인할 수 있습니다.
