@@ -343,6 +343,56 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-meridian",
+      "@type": [
+        "skos:Concept",
+        "km:Meridian"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/meridian-network/heart-meridian/"
+      },
+      "skos:altLabel": [
+        "手少陰心經"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "극천 HT1에서 소충 HT9까지 경혈의 소속과 유주를 정리하는 경맥."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "수소음심경"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ht7",
+      "@type": [
+        "skos:Concept",
+        "km:Acupoint"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/acupuncture/points/ht7-shenmen/"
+      },
+      "skos:altLabel": [
+        "神門",
+        "Shenmen"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "손목 앞주름의 새끼손가락 쪽에 위치하는 수소음심경의 경혈."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:notation": "HT7",
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "신문 HT7"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jinkui-06-017",
       "@type": [
         "skos:Concept",
@@ -659,8 +709,34 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-ht7--belongsToMeridian--heart-meridian",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| HT7 | [신문 HT7](../acupuncture/points/ht7-shenmen.md) |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/meridian-network/heart-meridian/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-meridian"
+      },
+      "rdf:predicate": {
+        "@id": "km:belongsToMeridian"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ht7"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "신문 HT7의 표준 경맥 소속. 혈위·해부학·치료 연구는 해당 본문에서 함께 확인한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jinkui-06-017--recordsFormula--suanzaoren-jinkui",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "> 虛勞虛煩不得眠，酸棗仁湯主之。"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/classics/jinkui-yaolue/chapters/blood-bi-deficiency/#clause-06-017"
       },
@@ -681,6 +757,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--atractylodes",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [백출](../herbs/atractylodes.md) · 白朮 | 1전 | 오래된 흙과 함께 볶음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -701,6 +780,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--citrus-peel",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 1전 | 흰 속껍질 제거 | 이기·조습으로 팽만과 담습을 조절 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -721,6 +803,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--fresh-ginger",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 5푼 | 별도 포제 표기 없음 | 위기를 조화하고 오심·상역을 조절 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -741,6 +826,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--ginseng",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -761,6 +849,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--jujube-fruit",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 2매 | 별도 포제 표기 없음 | 비위와 영위를 조화하는 보조축 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -781,6 +872,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--licorice",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 1전 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -801,6 +895,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--pinellia",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [반하](../herbs/pinellia.md) · 半夏 | 1전 | 뜨거운 물에 7회 담금 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -821,6 +918,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--containsHerb--poria",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [복령](../herbs/poria.md) · 茯苓 | 1전 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original"
       },
@@ -841,6 +941,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--sharesFormulaStructureWith--sijunzi-guofang",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 핵심 구성 | 인삼·백출·복령·감초 | 사군자탕 + 반하·진피 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/compare/sijunzi-vs-liujunzi/#comparison"
       },
@@ -861,6 +964,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-sijunzi-guofang--containsHerb--atractylodes",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [백출](../herbs/atractylodes.md) · 白朮 | 등분 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original"
       },
@@ -881,6 +987,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-sijunzi-guofang--containsHerb--ginseng",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [인삼](../herbs/ginseng.md) · 人參 | 등분 | 노두 제거 | 기를 보하고 비위·회복의 바탕을 받침 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original"
       },
@@ -901,6 +1010,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-sijunzi-guofang--containsHerb--licorice",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 등분 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original"
       },
@@ -921,6 +1033,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-sijunzi-guofang--containsHerb--poria",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [복령](../herbs/poria.md) · 茯苓 | 등분 | 껍질 제거 | 건비·삼습으로 수습의 정체를 조절 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original"
       },
@@ -941,6 +1056,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-sijunzi-guofang--hasTraditionalPatternContext--qi-deficiency",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 식욕저하·무력감·비위허약 | [사군자탕](../formulas/sijunzi-tang.md): 인삼·백출·복령·감초로 보기·건비 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/diagnostics/qi-deficiency/#_6"
       },
@@ -961,6 +1079,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-st36--belongsToMeridian--stomach-meridian",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| ST36 | [족삼리 ST36](../acupuncture/points/st36-zusanli.md) |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/meridian-network/stomach-meridian/#_3"
       },
@@ -981,6 +1102,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-jinkui--containsHerb--anemarrhena",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [지모](../herbs/anemarrhena.md) · 知母 | 2량 | 별도 포제 표기 없음 | 열을 조절하면서 음액 소모를 함께 살핌 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original"
       },
@@ -1001,6 +1125,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-jinkui--containsHerb--chuanxiong",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [천궁](../herbs/chuanxiong.md) · 芎藭 | 2량 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original"
       },
@@ -1021,6 +1148,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-jinkui--containsHerb--licorice",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 1량 | 별도 포제 표기 없음 | 중초를 돕고 완급·배합 조화를 맡음 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original"
       },
@@ -1041,6 +1171,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-jinkui--containsHerb--poria",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [복령](../herbs/poria.md) · 茯苓 | 2량 | 별도 포제 표기 없음 | 영심안신을 돕고 건비·삼습으로 배합을 받침 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original"
       },
@@ -1061,6 +1194,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-jinkui--containsHerb--ziziphus-seed",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 2승 | 별도 포제 표기 없음 | 음혈을 바탕으로 심신을 안정시키는 축 |"
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original"
       },
@@ -1081,6 +1217,9 @@
     {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-suanzaoren-jinkui--sharesNameWith--suanzaoren-donguibogam",
       "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "**같은 이름의 다른 구성입니다.** 이 수록방은 석고·인삼·계심을 포함한 7미이고, 앞에서 설명한 《금궤요략》 원방은 산조인·지모·복령·천궁·감초의 5미입니다. 석고의 청열과 인삼의 익기가 포함되는 등 배오가 달라 원방의 해석·효능·안전성 정보를 그대로 옮기지 않습니다. 아래 현대 임상연구도 실제 시험 처방이 어느 구성·가감인지 확인해야 하며, 《동의보감》 7미 구성의 효과가 입증되었다고 표시하지 않습니다."
+      },
       "dcterms:source": {
         "@id": "https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version"
       },
