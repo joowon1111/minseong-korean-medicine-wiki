@@ -9,6 +9,8 @@ hide:
 <div class="ms-home-intro">
 <p>한의학 정보와 자료를 함께 찾아볼 수 있도록, 한의학의 기초이론부터 경혈·경락·침구치료, 본초학·한약·방제학, 사상의학, 상한론·동의보감 등 주요 한의학 고전과 <span class="ms-intro-phrase">현대 임상연구까지</span> 체계적으로 연결한 교육·학술 목적의 공개 지식 아카이브입니다.</p>
 <p>궁금한 증상 하나, 낯익은 처방 이름 하나에서 출발해 보세요. 관련된 병증과 치료법, 본초와 고전의 기록을 따라가다 보면 흩어져 있던 한의학 지식이 서로 연결됩니다. 361경혈 아틀라스와 3D 경혈 지도에서는 혈자리의 위치를 입체적으로 익히고, 각 경혈의 의미와 임상적 활용까지 이어서 살펴볼 수 있습니다.</p>
+<p><strong>한의학 온톨로지의 기반을 쌓습니다.</strong> <a href="https://www.w3.org/TR/owl2-overview/">온톨로지(Ontology)</a>는 특정 분야의 개념과 속성, 개념 사이의 관계를 명확하게 정의하여 사람이 지식을 공유하고 컴퓨터도 해석할 수 있도록 표현하는 지식 체계입니다.</p>
+<p>민성 한의학 아카이브는 한의학 용어의 뜻과 출처를 정리하고, 본초와 처방의 구성 관계, 병증과 변증·치료의 연결, 경혈과 경락의 관계를 <a href="network/">한의학 지식망</a>으로 엮습니다. 고전의 기록과 현대 연구를 각각의 근거와 함께 연결하는 이 작업은 한의학 지식의 학습·검색·재사용을 돕고, 한의학 온톨로지 구축을 위한 기반을 쌓아갑니다.</p>
 </div>
 <p class="km-guide-entry" lang="en"><a href="korean-medicine-guide/"><span class="km-guide-label"><span>Korean Medicine Guide</span> <span class="km-guide-hint">Start here in English</span></span><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a></p>
 </div>
