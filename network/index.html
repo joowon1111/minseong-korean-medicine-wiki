@@ -97,9 +97,9 @@
 <meta name="twitter:title" content="한의학 지식망 — 증상·처방·경혈·고전 연결">
 <meta name="twitter:description" content="한의학 온톨로지의 개념·속성·관계를 실제 사례로 설명합니다. 증상·변증·본초·처방·경혈·고전·연구와 사상의학을 연결하고, 구성·배혈·출전·임상근거를 비교하는 경로를 안내합니다.">
 <meta name="archive:document-id" content="MSA-0103412B48065F13">
-<meta name="archive:text-sha256" content="e1106d8c1bdae8612f9efffa30856f5ef67eae2d4b592b464b43650c0e6bcd10">
-<meta name="archive:source-sha256" content="369f2646d65b7e3e92238e20a616e9fb1e99fb009f11a7596c3380fd746d790f">
-<meta name="archive:commit" content="eabe416e32080cc0f3e677fb617f55136d6111d0">
+<meta name="archive:text-sha256" content="b391a439db963474284ff863bbd1187d1102ac1f2be1b46e1e9a2345026fdf76">
+<meta name="archive:source-sha256" content="82994fdc1272ae2f03f45b417d0eb3e658a413a13e4e77c45df1b85f15d57dcf">
+<meta name="archive:commit" content="5698945d53dbd2f48187a30792e0738092de4813">
 </head>
   
   
@@ -4693,6 +4693,45 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#ontology-composition-tables" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        구성 관계를 표로 찾아보기
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="구성 관계를 표로 찾아보기">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ontology-formula-compositions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        수록형별 구성과 출처
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ontology-shared-herbs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        공통 본초에서 처방 찾아가기
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#starting-points" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -4994,6 +5033,81 @@
 </table>
 <p><strong>이름이 같아도 수록형의 식별자는 각각 유지합니다.</strong> 《금궤요략》 산조인탕과 《동의보감》 산조인탕은 같은 문서 안에서도 서로 다른 개념으로 연결됩니다. 인삼·감초 같은 본초 개념과 처방 안에서의 거로·자(炙) 등 가공 조건도 나누어 기록합니다. <a href="../formulas/suanzaoren-tang/#formula-variant-comparison">두 수록형의 약재 비교표</a>와 데이터에서 적복령·계심의 명칭, 7미와 생강 추가 기록을 함께 확인할 수 있습니다. 이렇게 하면 ‘어떤 산조인탕에 인삼이 들어가는가’, ‘육군자탕에서 생강·대조는 어떻게 기록되는가’처럼 출전과 구성을 함께 묻는 질문을 구체화할 수 있습니다.</p>
 <p>개념 이름과 별칭은 <a href="https://www.w3.org/TR/skos-reference/">W3C SKOS</a>로 표현합니다. 각 관계는 주체·관계명·대상과 함께 <strong>본문 출처 주소와 적용 조건</strong>을 가진 <code>rdf:Statement</code>로 제공합니다. 각 관계에는 본문에서 발췌한 근거 문장·표 행도 함께 제공합니다. 관계의 조건과 근거 발췌를 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 <a href="../assets/ai/knowledge-manifest.json">매니페스트</a>의 <code>ontology</code>에서 확인합니다. <a href="../ai/site-structure/#ontology-retrieval">AI·검색도구의 이용 순서</a></p>
+<h2 id="ontology-composition-tables">구성 관계를 표로 찾아보기<a class="headerlink" href="#ontology-composition-tables" title="Permanent link">&para;</a></h2>
+<p>아래 표는 현재 온톨로지에 등록된 구성 관계를 모은 것입니다. 처방 수록형에서 본초를 찾거나, 공통 본초에서 여러 처방을 비교할 수 있습니다. 원문 약명과 수록본을 유지해 같은 이름의 처방도 각각 확인합니다.</p>
+<h3 id="ontology-formula-compositions">수록형별 구성과 출처<a class="headerlink" href="#ontology-formula-compositions" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>처방 수록형</th>
+<th>등록된 구성 본초·보조재료</th>
+<th>구성·조건의 출처</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/ziziphus-seed/">산조인</a> · <a href="https://wiki.minseong.co.kr/herbs/anemarrhena/">지모</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-bark/#gyesim-source-name">계심</a> · <a href="https://wiki.minseong.co.kr/herbs/ziziphus-seed/">산조인</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/gypsum/">석고</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/#red-poria-in-formulas">적복령</a> · <a href="https://wiki.minseong.co.kr/herbs/anemarrhena/">지모</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+</tbody>
+</table>
+<p>각 수록형의 원문 약량·포제와 달일 때 더하는 재료는 출처 본문에서 함께 확인합니다. 산조인탕의 두 수록형은 각각의 이름과 출처를 유지하며, 복령·적복령·계심의 표기도 구분합니다.</p>
+<h3 id="ontology-shared-herbs">공통 본초에서 처방 찾아가기<a class="headerlink" href="#ontology-shared-herbs" title="Permanent link">&para;</a></h3>
+<p>현재 두 개 이상의 처방 수록형에 구성 관계가 등록된 본초입니다. 인삼·복령·감초처럼 같은 본초가 여러 처방에 포함되는 경우 전체 배합과 출처를 비교할 수 있습니다.</p>
+<table>
+<thead>
+<tr>
+<th>본초</th>
+<th>구성 관계가 등록된 처방 수록형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/ziziphus-seed/">산조인</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/anemarrhena/">지모</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+</tr>
+</tbody>
+</table>
 <h2 id="starting-points">어디에서 시작할까요?<a class="headerlink" href="#starting-points" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -5136,7 +5250,7 @@
 </ul>
 <p>검증할 원자료가 필요하면 <a href="../research/references/">참고문헌 데이터베이스</a>, 개념이 낯설면 <a href="../diagnostics/">진단·변증</a>, 사람과 약재의 이야기를 읽고 싶다면 <a href="../classical-stories/">민성의담</a>으로 이어갈 수 있습니다.</p>
 <h3 id="knowledge-reuse">검색·AI 자료로 이어지는 연결<a class="headerlink" href="#knowledge-reuse" title="Permanent link">&para;</a></h3>
-<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="e1106d8c1bda" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="b391a439db96" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 
