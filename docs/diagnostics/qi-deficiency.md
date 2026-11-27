@@ -65,4 +65,4 @@ last_reviewed: 2026-08-19
 
 기허는 증상 조합을 설명하는 변증이며, 혈액검사·혈압·심장검사 등은 구체적인 원인을 확인하는 데 활용합니다. 흉통·휴식 중 숨참·실신·출혈을 동반한 갑작스러운 무력감은 신속한 원인 평가가 필요합니다.
 
-[기허 변증·치료 연결](patterns/qi-deficiency.md) · [기허·혈허·기혈양허 비교](differentials/qi-vs-blood-vs-qi-blood.md)
+[기허 변증·치료 연결](patterns/qi-deficiency.md) · [보기·건비와 치료 후 확인](../pattern-treatment/qi-deficiency.md#treatment-principle) · [기허·혈허·기혈양허 비교](differentials/qi-vs-blood-vs-qi-blood.md)

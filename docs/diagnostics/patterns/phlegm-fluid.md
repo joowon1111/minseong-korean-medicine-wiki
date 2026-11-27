@@ -58,4 +58,4 @@ last_reviewed: 2026-09-06
 
 ## 치료 계획으로 이어가기 {#next}
 
-[담음 → 화담·이기·건비](../../pattern-treatment/phlegm-fluid.md)에서 한약·침구·생활 관리와 경과 확인을 살펴봅니다. 증상별로는 [소화·비위](../../pillar/digestion-spleen-stomach.md), [어지럼](../../conditions/dizziness.md), [목 이물감](../../conditions/globus.md), [수면·신경계](../../pillar/sleep-neuro.md)로 이어집니다.
+[담음 → 화담·이기·건비](../../pattern-treatment/phlegm-fluid.md)에서 한약·침구·생활 관리와 경과 확인을 살펴봅니다. 비위허약과 담습이 겹치면 [보기와 화담을 함께 쓰는 배합](../../pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care)을 비교합니다. 증상별로는 [소화·비위](../../pillar/digestion-spleen-stomach.md), [어지럼](../../conditions/dizziness.md), [목 이물감](../../conditions/globus.md), [수면·신경계](../../pillar/sleep-neuro.md)로 이어집니다.

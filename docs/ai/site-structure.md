@@ -309,7 +309,7 @@ last_reviewed: '2026-08-23'
 
 ### 한의학 온톨로지에서 관계 확인하기 {#ontology-retrieval}
 
-[온톨로지 JSON-LD](../assets/ai/ontology.jsonld)는 기존 본문에서 선별한 **본초·처방 수록형·변증·경혈·경맥·고전 조문**을 개념으로 구분합니다. 문서 링크를 모은 `knowledge-graph.json`과 함께 사용하되, 출전별 구성이나 소속 관계를 묻는 질문은 [관계 정의](../network/index.md#ontology-data)와 연결된 본문을 확인합니다.
+[온톨로지 JSON-LD](../assets/ai/ontology.jsonld)는 기존 본문에서 선별한 **본초·처방 수록형·변증·치법·경혈·경맥·고전 조문**을 개념으로 구분합니다. 문서 링크를 모은 `knowledge-graph.json`과 함께 사용하되, 출전별 구성이나 소속 관계를 묻는 질문은 [관계 정의](../network/index.md#ontology-data)와 연결된 본문을 확인합니다.
 
 | 항목 | 확인 방법 |
 |---|---|
@@ -337,6 +337,7 @@ last_reviewed: '2026-08-23'
 |---|---|---|
 | 인삼이 들어간 처방은? | `rdf:predicate`가 `km:containsHerb`, `rdf:object`가 `ginseng`인 진술에서 주체 선택 | 현재 구조화한 `sijunzi-guofang`·`liujunzi-yixuexinwu`·`suanzaoren-donguibogam`의 출전·법제·전체 약미. 더 넓은 처방 목록은 [인삼 역탐색](../network/herb-to-formula-map.md#_2) |
 | 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui`·`suanzaoren-donguibogam`을 구별하고 `km:sharesNameWith` 진술 확인 | [금궤요략 5미형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 몽문 수록형](../formulas/suanzaoren-tang.md#donguibogam-version)의 약미 대조 |
+| 기허·비허담습의 치료 방향은? | `qi-deficiency` 또는 `spleen-qi-deficiency-with-phlegm`에서 `km:hasTraditionalTreatmentPrinciple`의 대상 확인. 육군자탕은 `km:hasTraditionalPatternContext`로 변증에 연결 | [기허의 보기·건비](../pattern-treatment/qi-deficiency.md#treatment-principle), [비허담습의 익기건비·화담](../pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care)과 동반 증후·배합 조건 |
 | 족삼리는 어느 경맥에 속하는가? | 주체 `st36`, 관계 `km:belongsToMeridian`인 진술에서 대상 `stomach-meridian` 확인 | [족양명위경의 소속 경혈표](../meridian-network/stomach-meridian.md#_3)와 [족삼리의 위치·해부학](../acupuncture/points/st36-zusanli.md) |
 | 황기가 들어간 처방은? | 관계 `km:containsHerb`, 대상 `astragalus`인 진술의 주체를 조회 | 보중익기탕·당귀보혈탕·십전대보탕·쌍화탕·귀비탕의 수록형과 각 포제·약량 |
 | 귀비탕에는 당귀·원지가 들어가는가? | `guibi-jisheng`과 `guibi-donguibogam`을 각각 선택 | 제생방 기본 8미와 동의보감의 당귀·원지 포함 10미·생강 대추 추가형 |

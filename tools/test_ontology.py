@@ -247,6 +247,41 @@ class OntologyTests(unittest.TestCase):
         self.assertIn('실제 연하곤란', context['skos:scopeNote']['@value'])
         self.assertIn('담기울결의 맥락', context['dcterms:description']['@value'])
 
+    def test_pattern_principle_route_preserves_qualified_edges(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        nodes = {n['@id']: n for n in payload['@graph']}
+        statements = [n for n in nodes.values() if n['@type'] == 'rdf:Statement']
+        formula = RESOURCE + '#liujunzi-yixuexinwu'
+        contexts = [n for n in statements if n['rdf:subject']['@id'] == formula
+                    and n['rdf:predicate']['@id'] == 'km:hasTraditionalPatternContext']
+        self.assertEqual({n['rdf:object']['@id'].split('#')[-1] for n in contexts},
+                         {'qi-deficiency', 'spleen-qi-deficiency-with-phlegm'})
+        for context in contexts:
+            routes = [n for n in statements
+                      if n['rdf:subject'] == context['rdf:object']
+                      and n['rdf:predicate']['@id'] == 'km:hasTraditionalTreatmentPrinciple']
+            self.assertEqual(len(routes), 1)
+            target = nodes[routes[0]['rdf:object']['@id']]
+            self.assertIn('km:TreatmentPrinciple', target['@type'])
+            self.assertTrue(routes[0]['dcterms:description']['@value'])
+            self.assertTrue(context['skos:scopeNote']['@value'])
+        # A formula or herb cannot silently become the subject/target of a
+        # Pattern -> TreatmentPrinciple relationship.
+        for field, value in [('subject', 'liujunzi-yixuexinwu'), ('object', 'ginseng')]:
+            data = deepcopy(self.data)
+            relation = next(n for n in data['statements']
+                            if n['predicate'] == 'hasTraditionalTreatmentPrinciple')
+            relation[field] = value
+            with self.subTest(field=field), self.assertRaises(ValueError):
+                self.build_modified(data)
+
+    def test_navigation_distinguishes_patterns_from_treatment_guides(self):
+        from build_ai_knowledge_layer import entity_type, relation_name, DOCS
+        self.assertEqual(entity_type(DOCS / 'diagnostics/patterns/phlegm-fluid.md'), 'pattern')
+        kind = entity_type(DOCS / 'pattern-treatment/phlegm-fluid.md')
+        self.assertEqual(kind, 'treatment_principle_guide')
+        self.assertEqual(relation_name(kind), 'links_to_treatment_principle')
+
     def test_formulation_conditions_survive_export(self):
         payload, _ = build_ontology(self.docs, self.source)
         statements = [node for node in payload['@graph'] if node['@type'] == 'rdf:Statement']
