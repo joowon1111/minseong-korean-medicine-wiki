@@ -1,6 +1,7 @@
 """Build-time reader navigation and public, page-sized machine-readable documents.
 
-Exports use rendered article content, never arbitrary front matter or source files.
+Article text uses rendered content; ontology references use validated public records.
+Arbitrary front matter and local source files are never exported.
 No browser JavaScript, tracking, clinical inference, or external requests are needed.
 """
 
@@ -13,8 +14,11 @@ from urllib.parse import quote, urljoin, urlsplit
 
 from mkdocs.exceptions import PluginError
 
+from ontology import build_ontology, page_projections
+
 
 _page_index = {}
+_ontology_pages = {}
 PAGE_TYPES = {"WebPage", "MedicalWebPage", "FAQPage", "CollectionPage", "AboutPage"}
 BLOCKS = {"p", "div", "li", "tr", "blockquote", "pre", "h1", "h2", "h3", "h4", "h5", "h6"}
 
@@ -202,7 +206,15 @@ def related_items(page, files, config):
 
 
 def on_pre_build(config):
+    global _ontology_pages
     _page_index.clear()
+    _ontology_pages = {}
+    if config.get("docs_dir"):
+        docs = Path(config["docs_dir"]).resolve()
+        source = docs.parent / "data/ontology.json"
+        if source.is_file():
+            payload, _ = build_ontology(docs, source)
+            _ontology_pages = page_projections(payload)
 
 
 def on_page_content(html, page, config, files):
@@ -304,13 +316,25 @@ def on_post_page(output, page, config):
                "sections": article.passages(url),
                "headings": [{"level": h["level"], "title": h["text"], "url": url + "#" + quote(h["id"])} for h in article.headings],
                "links": links, "related_reading": data["related"],
-               "interpretation": "Public article text and navigation only; links do not establish clinical equivalence or treatment recommendations."}
+               "interpretation": "Public article text, navigation and optional source-qualified ontology references; links do not establish clinical equivalence or treatment recommendations."}
     provenance = getattr(page, "archive_provenance", None)
     if provenance:
         payload["provenance"] = {key: provenance[key] for key in (
             "document_id", "url", "text_sha256", "source_sha256", "commit") if key in provenance}
+    ontology = _ontology_pages.get(url)
+    ontology_url = None
+    if ontology:
+        relative = 'assets/ai/ontology-pages/' + PurePosixPath(page.file.dest_uri).with_suffix('.jsonld').as_posix()
+        ontology_url = urljoin(root, quote(relative))
+        payload["ontology"] = {"document": ontology_url,
+                               "concept_ids": ontology["concept_ids"],
+                               "statement_ids": ontology["statement_ids"]}
+        write_document(config["site_dir"], relative, ontology["payload"])
+        head += '<link rel="describedby" type="application/ld+json" href="' + escape(ontology_url, quote=True) + '" title="이 문서의 온톨로지 관계">\n'
     write_document(config["site_dir"], data["document_path"], payload)
     _page_index[url] = {"url": url, "title": title, "document": document_url}
+    if ontology_url:
+        _page_index[url]["ontology_document"] = ontology_url
     del page.archive_discovery  # Do not retain every article's parsed text after rendering.
     if language == "en":
         # The article is English; the shared Korean menus remain Korean.

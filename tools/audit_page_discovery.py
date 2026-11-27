@@ -7,6 +7,8 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import xml.etree.ElementTree as ET
 
+from ontology import page_projections
+
 
 class PageHTML(HTMLParser):
     def __init__(self):
@@ -14,6 +16,7 @@ class PageHTML(HTMLParser):
         self.ids = set()
         self.alternates = []
         self.schemas = []
+        self.ontologies = []
         self._script = None
 
     def handle_starttag(self, tag, attrs):
@@ -22,6 +25,8 @@ class PageHTML(HTMLParser):
             self.ids.add(attrs['id'])
         if tag == 'link' and attrs.get('rel') == 'alternate' and attrs.get('type') == 'application/json':
             self.alternates.append(attrs.get('href'))
+        if tag == 'link' and attrs.get('rel') == 'describedby' and attrs.get('type') == 'application/ld+json':
+            self.ontologies.append(attrs.get('href'))
         if tag == 'script' and attrs.get('type') == 'application/ld+json':
             self._script = []
 
@@ -54,6 +59,10 @@ def audit(site):
     documents = [row['document'] for row in pages]
     if not pages or set(urls) != expected or len(set(urls)) != len(urls) or len(set(documents)) != len(documents):
         raise ValueError('Page index must cover each sitemap URL exactly once, with unique documents')
+    global_ontology = site / 'assets/ai/ontology.jsonld'
+    projections = page_projections(json.loads(global_ontology.read_text(encoding='utf-8'))) if global_ontology.exists() else {}
+    if set(projections) - set(urls):
+        raise ValueError('Ontology source pages must be public sitemap pages')
     heading_count = 0
     for row in pages:
         parser = PageHTML()
@@ -63,6 +72,20 @@ def audit(site):
         payload = json.loads(site_path(site, row['document'], base).read_text(encoding='utf-8'))
         if payload['url'] != row['url'] or payload['title'] != row['title']:
             raise ValueError(f'Document identity mismatch: {row["url"]}')
+        projection = projections.get(row['url'])
+        if projection:
+            ontology = payload.get('ontology', {})
+            document = ontology.get('document')
+            if (not document or row.get('ontology_document') != document
+                    or parser.ontologies.count(document) != 1
+                    or ontology.get('concept_ids') != projection['concept_ids']
+                    or ontology.get('statement_ids') != projection['statement_ids']):
+                raise ValueError(f'Ontology discovery metadata mismatch: {row["url"]}')
+            projected = json.loads(site_path(site, document, base).read_text(encoding='utf-8'))
+            if projected != projection['payload']:
+                raise ValueError(f'Ontology projection mismatch: {row["url"]}')
+        elif 'ontology' in payload or 'ontology_document' in row:
+            raise ValueError(f'Unexpected ontology metadata: {row["url"]}')
         for heading in payload['headings']:
             if heading['url'].split('#', 1)[0] != row['url'] or unquote(urlsplit(heading['url']).fragment) not in parser.ids:
                 raise ValueError(f'Missing heading anchor: {heading["url"]}')

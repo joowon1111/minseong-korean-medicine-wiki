@@ -273,9 +273,10 @@ last_reviewed: '2026-08-23'
 | `sections` | `title`·`level`·`url`·`text`·`links`를 가진 H2/H3 절 목록 |
 | `links` · `sections[].links` | 각각 본문 전체·해당 절의 HTTP(S) 주소 문자열 목록. 내부 탐색·외부 원출처가 함께 포함됨 |
 | `related_reading` | 문서에 명시한 관련 읽기 자료. 항목이 있으면 다음 탐색에 활용 |
+| `ontology` | 등록된 개념·관계가 연결된 문서에서 제공. `document`는 문서별 JSON-LD, `concept_ids`는 본문에서 설명하는 개념, `statement_ids`는 관련 관계 진술 |
 | `provenance` | 제공된 문서 식별번호·본문 및 소스 지문·빌드 기준 Git 커밋. [버전 대조 방법](#version-and-citation) 참고 |
 
-색인의 `document` 주소와 제목의 `url`을 그대로 따라가면 현재 공개 파일과 실제 절을 찾을 수 있습니다. [페이지 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json)의 `pages`에는 `url`·`title`·`document`가 들어 있습니다.
+색인의 `document` 주소와 제목의 `url`을 그대로 따라가면 현재 공개 파일과 실제 절을 찾을 수 있습니다. [페이지 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json)의 `pages`에는 `url`·`title`·`document`가 들어 있습니다. 온톨로지 관계가 연결된 문서에는 `ontology_document`도 있어 문서별 JSON-LD로 바로 이동할 수 있습니다.
 
 #### 본문 절에서 근거까지 확인하기 {#section-retrieval}
 
@@ -320,17 +321,25 @@ last_reviewed: '2026-08-23'
 | `dcterms:description` | 해당 출처 절에서 그대로 가져온 근거 문장·표 행. 발췌와 앞뒤 문맥을 함께 확인 |
 | 매니페스트의 `ontology` | 현재 제공하는 개념·관계·관계 유형 수와 파일 SHA-256 |
 
+#### 한 문서에서 관련 관계만 읽기 {#page-ontology}
+
+인삼·사군자탕·산조인탕·족삼리처럼 온톨로지에 등록된 개념을 설명하는 페이지는 본문 JSON의 `ontology.document`와 HTML의 `link rel="describedby" type="application/ld+json"`에서 **그 문서와 관련된 관계만 담은 JSON-LD**로 이어집니다. 전체 온톨로지를 받지 않고도 해당 개념의 구성·소속·출처 관계를 확인할 수 있습니다.
+
+`concept_ids`는 현재 본문에서 직접 설명하는 개념이고, `statement_ids`는 그 개념을 주체·대상으로 삼거나 현재 본문을 출처로 기록한 관계입니다. 비교 문서처럼 관계의 출처 역할을 하는 페이지에는 `concept_ids`가 비어 있고 관련 진술만 연결될 수 있습니다. JSON-LD의 `@graph`에는 관계 양끝의 개념과 관계 정의를 함께 담아 이름과 의미를 확인할 수 있게 했습니다.
+
+문서별 데이터에서도 **전역 개념 ID와 관계 ID, 출처·조건·근거 발췌**를 유지합니다. 예를 들어 인삼 문서에서 사군자탕·육군자탕·동의보감 산조인탕의 구성 관계를 찾고, 각 진술의 출처 절에서 법제·약미·제법을 비교합니다. 산조인탕 페이지에서는 두 수록형의 식별자를 따로 확인합니다. 인용에는 연결된 대표 HTML의 해당 절을 사용합니다.
+
 #### 실제 관계 탐색 예시 {#ontology-query-examples}
 
 아래 ID는 `https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#` 뒤에 붙는 개념 식별자입니다. JSON-LD의 `@context`에서 `km` 접두어가 이 주소를 가리킵니다. 파일을 읽는 도구는 `@graph` 안의 개념과 관계 진술을 선택해 아래처럼 탐색할 수 있습니다.
 
 | 질문 | 데이터에서 선택할 관계 | 본문에서 확인할 내용 |
 |---|---|---|
-| 인삼이 들어간 처방은? | `rdf:predicate`가 `km:containsHerb`, `rdf:object`가 `ginseng`인 진술에서 주체 선택 | 현재 구조화한 `sijunzi-guofang`·`liujunzi-yixuexinwu`의 출전·법제·전체 약미. 더 넓은 처방 목록은 [인삼 역탐색](../network/herb-to-formula-map.md#_2) |
+| 인삼이 들어간 처방은? | `rdf:predicate`가 `km:containsHerb`, `rdf:object`가 `ginseng`인 진술에서 주체 선택 | 현재 구조화한 `sijunzi-guofang`·`liujunzi-yixuexinwu`·`suanzaoren-donguibogam`의 출전·법제·전체 약미. 더 넓은 처방 목록은 [인삼 역탐색](../network/herb-to-formula-map.md#_2) |
 | 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui`·`suanzaoren-donguibogam`을 구별하고 `km:sharesNameWith` 진술 확인 | [금궤요략 5미형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 몽문 수록형](../formulas/suanzaoren-tang.md#donguibogam-version)의 약미 대조 |
 | 족삼리는 어느 경맥에 속하는가? | 주체 `st36`, 관계 `km:belongsToMeridian`인 진술에서 대상 `stomach-meridian` 확인 | [족양명위경의 소속 경혈표](../meridian-network/stomach-meridian.md#_3)와 [족삼리의 위치·해부학](../acupuncture/points/st36-zusanli.md) |
 
-각 결과는 `dcterms:source`·`skos:scopeNote`·`dcterms:description`의 출처·조건·근거 발췌와 함께 읽고, 해당 개념의 `foaf:page`로 본문에 돌아갑니다. 현재 산조인탕의 구성 진술은 금궤요략형을 정리했으며, 동의보감형의 전체 약미는 연결한 본문 표에서 확인합니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
+각 결과는 `dcterms:source`·`skos:scopeNote`·`dcterms:description`의 출처·조건·근거 발췌와 함께 읽고, 해당 개념의 `foaf:page`로 본문에 돌아갑니다. 산조인탕은 금궤요략 5미형과 동의보감 몽문의 7미·생강 추가 구성을 각각 연결했습니다. 동의보감형의 적복령·계심도 별도의 개념과 출처를 확인할 수 있습니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
 
 관계는 조건과 출처를 보존하는 RDF 재구체화 방식으로 제공하므로, 도구는 `rdf:Statement`의 주체·관계·대상·출처·조건과 근거 발췌를 함께 읽습니다. 근거 발췌가 인용한 절에서 사라지거나 숨김 주석·코드 예제에만 남으면 빌드를 중단하여 출처를 다시 확인하도록 합니다. 별칭의 일치, 공통 본초, 경맥 소속을 서로 같은 개념이나 동일한 치료효과라는 관계로 확장하지 않습니다. 약량·제형·연구 제제가 필요한 질문은 대표 본문과 실제 연구까지 확인합니다. [SKOS 표준](https://www.w3.org/TR/skos-reference/) · [RDF 관계 진술 표현](https://www.w3.org/TR/rdf11-mt/#reification)
 

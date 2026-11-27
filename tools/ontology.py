@@ -189,3 +189,47 @@ def build_ontology(docs: Path, source: Path) -> tuple[dict, dict]:
         'concept_count': len(concepts), 'statement_count': len(seen),
         'predicate_count': len(predicates), 'source_version': data['version'],
     }
+
+
+def page_projections(payload: dict) -> dict[str, dict]:
+    """Project only curated concepts, incident statements and source-page context.
+
+    Keep global IDs and all qualifications. Neighbor concepts are included to
+    resolve statement endpoints; concept_ids identifies only this page's own
+    concepts. Ordinary document links and shared labels never create membership.
+    """
+    from collections import defaultdict
+
+    def page_url(url):
+        return url.split('#', 1)[0]
+
+    nodes = {node['@id']: node for node in payload['@graph']}
+    concepts = {key: node for key, node in nodes.items()
+                if isinstance(node.get('@type'), list) and 'skos:Concept' in node['@type']}
+    own = defaultdict(set)
+    statements = defaultdict(set)
+    for key, node in concepts.items():
+        own[page_url(node['foaf:page']['@id'])].add(key)
+    for key, node in nodes.items():
+        if node.get('@type') != 'rdf:Statement':
+            continue
+        subject, target = node['rdf:subject']['@id'], node['rdf:object']['@id']
+        pages = {page_url(concepts[subject]['foaf:page']['@id']),
+                 page_url(concepts[target]['foaf:page']['@id']),
+                 page_url(node['dcterms:source']['@id'])}
+        for url in pages:
+            statements[url].add(key)
+    vocabulary = {key for key, node in nodes.items()
+                  if node.get('@type') in ('rdfs:Class', 'rdf:Property', 'skos:ConceptScheme')}
+    result = {}
+    for url in sorted(own.keys() | statements.keys()):
+        selected = set(own[url]) | statements[url] | vocabulary
+        for key in statements[url]:
+            selected.update((nodes[key]['rdf:subject']['@id'], nodes[key]['rdf:object']['@id']))
+        result[url] = {
+            'concept_ids': sorted(own[url]),
+            'statement_ids': sorted(statements[url]),
+            'payload': {'@context': payload['@context'],
+                        '@graph': [nodes[key] for key in sorted(selected)]},
+        }
+    return result
