@@ -1,13 +1,28 @@
 ---
 title: AI·검색엔진용 사이트 구조
-description: 민성 한의학 아카이브의 임상 허브·질환 본문의 통합 근거·본초와 처방 비교·경혈 탐색·사상의학·고전·민성의담·학습·24절기 생활 카드를 탐색하고 페이지별 JSON·대표 주소·출처를 확인하는 방법을 안내합니다.
-tags: [AI검색, AEO, GEO, SEO, 사이트구조, 내부링크, 지식망]
+description: 민성 한의학 아카이브의 AI 탐색 안내. 페이지 색인·본문 JSON·한의학 온톨로지의 역할과 실제 관계 탐색, 출처 앵커·문서 버전·임상근거를 확인하는 방법을 설명합니다.
+tags: [AI검색, AEO, GEO, SEO, 사이트구조, 내부링크, 지식망, 한의학 온톨로지, JSON-LD]
 last_reviewed: '2026-08-23'
 ---
 
 # AI·검색엔진용 사이트 구조 {#ai}
 
 민성 한의학 아카이브는 개별 문서를 나열하는 방식보다 **환자의 자연어 질문에서 출발해 전문 한의학 지식과 현대 임상근거까지 이어지는 계층형·관계형 구조**를 사용합니다.
+
+## AI·검색도구 빠른 시작 {#machine-quickstart}
+
+민성 한의학 아카이브(Minseong Korean Medicine Archive)는 민성한의원이 운영하는 공개 한의학 지식 아카이브입니다. **본문을 찾을 때는 페이지 색인, 개념 사이의 관계를 물을 때는 온톨로지, 답변의 출처를 제시할 때는 대표 HTML의 해당 절**을 사용합니다.
+
+| 하려는 일 | 먼저 읽을 자료 | 다음에 확인할 항목 |
+|---|---|---|
+| 사이트의 주제와 대표 자료 파악 | [llms.txt](../llms.txt) · [핵심 색인](../ai-index.md) | 질문에 맞는 임상·본초·방제·경혈·사상의학 허브 |
+| 특정 문서의 본문 읽기 | [페이지 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json) | `pages`에서 `title`·`url` 확인 → 해당 `document`의 본문 JSON |
+| 소제목 단위로 답과 출전 찾기 | 선택한 문서 JSON의 `sections` | 절의 `text`·`links`와 인용할 HTML 앵커 `url` |
+| 처방의 구성·경혈 소속 등 관계 확인 | [온톨로지 JSON-LD](../assets/ai/ontology.jsonld) | 개념 ID → 관계 진술 → 본문 출처·적용 조건 |
+| 관련 문서로 탐색 범위 확장 | [문서 지식 그래프](../assets/ai/knowledge-graph.json) | 문서 분류·별칭·내부 탐색 연결 |
+| 데이터 범위와 파일 무결성 확인 | [매니페스트](../assets/ai/knowledge-manifest.json) | 현재 건수·파일 경로·각 데이터에 지정된 해시 |
+
+한 주제의 질문에는 필요한 본문 JSON부터 읽고, 구성·소속·동명 이방을 비교할 때 온톨로지를 함께 확인합니다. [실제 관계 탐색 예시](#ontology-query-examples)와 [본문 JSON 필드](#page-json-fields)에서 구체적인 이용 방법을 볼 수 있습니다.
 
 ## 아카이브 대표 자료와 역할 {#featured-resources}
 
@@ -24,7 +39,7 @@ last_reviewed: '2026-08-23'
 | [증상·질환](../conditions/index.md) | 불면·소화불량·비염·통증 등에서 평가·한의학적 접근·근거로 연결 |
 | [오늘의 한의학](../daily-korean-medicine/index.md) · [24절기 이야기](../daily-korean-medicine/solar-terms.md#stories) | 날짜별 학습 카드와 절기의 풍속·음식·본초·고전 이야기, 연도별 절입 시각 계산 |
 
-이 목록은 자료의 역할을 설명하는 편집상의 안내이며 검색 순위, 실제 방문량, 의료 효과 또는 다른 사이트 대비 유일성을 뜻하지 않습니다. 고전 기록·자체 풀이·현대 임상연구를 구분하고 각 문서의 원출처와 적용 범위를 확인합니다.
+각 자료의 역할에 맞춰 고전 기록·자체 풀이·현대 임상연구를 구분하고, 본문의 원출처와 적용 범위를 확인합니다.
 
 ## 핵심 탐색 흐름 {#_1}
 
@@ -248,6 +263,20 @@ last_reviewed: '2026-08-23'
 
 [page-index.json](https://wiki.minseong.co.kr/assets/ai/page-index.json)은 각 페이지의 제목·대표 HTML 주소(`url`)·JSON 주소(`document`)를 제공합니다. 한 주제의 본문을 읽을 때는 해당 `document`를 선택하거나 HTML의 JSON 대체 링크를 사용합니다. 페이지별 JSON에는 렌더링한 본문, 실제 제목 앵커, 출처·관련 링크가 담깁니다.
 
+#### 본문 JSON의 필드 {#page-json-fields}
+
+| 필드 | 실제 형식과 용도 |
+|---|---|
+| `url` · `title` · `language` · `description` | 대표 HTML 주소·제목·언어·문서 설명 |
+| `text` | 공개 본문의 전체 텍스트. 도입부와 절 사이의 문맥 확인 |
+| `headings` | `level`·`title`·`url`을 가진 제목 목록. 실제 HTML 앵커로 이동 |
+| `sections` | `title`·`level`·`url`·`text`·`links`를 가진 H2/H3 절 목록 |
+| `links` · `sections[].links` | 각각 본문 전체·해당 절의 HTTP(S) 주소 문자열 목록. 내부 탐색·외부 원출처가 함께 포함됨 |
+| `related_reading` | 문서에 명시한 관련 읽기 자료. 항목이 있으면 다음 탐색에 활용 |
+| `provenance` | 제공된 문서 식별번호·본문 및 소스 지문·빌드 기준 Git 커밋. [버전 대조 방법](#version-and-citation) 참고 |
+
+색인의 `document` 주소와 제목의 `url`을 그대로 따라가면 현재 공개 파일과 실제 절을 찾을 수 있습니다. [페이지 색인](https://wiki.minseong.co.kr/assets/ai/page-index.json)의 `pages`에는 `url`·`title`·`document`가 들어 있습니다.
+
 #### 본문 절에서 근거까지 확인하기 {#section-retrieval}
 
 페이지별 JSON의 `sections`는 실제 앵커가 있는 H2·H3 제목 단위의 **제목·앵커 주소·해당 절의 본문·링크**를 제공합니다. 다음 H2·H3가 나오기 전까지의 연속된 본문이 한 절에 담기며, H3 하위 절을 H2 본문에 다시 복사하지 않습니다. 첫 소제목 앞의 도입부나 앵커가 없는 HTML 제목의 내용은 전체 `text`에서 읽습니다. 이는 같은 공개 HTML을 다른 형식으로 제공하는 기능이며, 검색 노출을 위한 별도 요약문이나 새 의학적 판단을 생성하지 않습니다.
@@ -291,7 +320,17 @@ last_reviewed: '2026-08-23'
 | `dcterms:description` | 해당 출처 절에서 그대로 가져온 근거 문장·표 행. 발췌와 앞뒤 문맥을 함께 확인 |
 | 매니페스트의 `ontology` | 현재 제공하는 개념·관계·관계 유형 수와 파일 SHA-256 |
 
-예를 들어 ‘산조인탕에 인삼이 들어가는가’는 먼저 두 수록형을 찾고, 각각의 `foaf:page`에서 약미를 대조합니다. 현재 데이터는 《금궤요략》 5미형의 구성 관계를 정리했으며, 《동의보감》형의 전체 약미는 연결한 본문 표에서 확인합니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
+#### 실제 관계 탐색 예시 {#ontology-query-examples}
+
+아래 ID는 `https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#` 뒤에 붙는 개념 식별자입니다. JSON-LD의 `@context`에서 `km` 접두어가 이 주소를 가리킵니다. 파일을 읽는 도구는 `@graph` 안의 개념과 관계 진술을 선택해 아래처럼 탐색할 수 있습니다.
+
+| 질문 | 데이터에서 선택할 관계 | 본문에서 확인할 내용 |
+|---|---|---|
+| 인삼이 들어간 처방은? | `rdf:predicate`가 `km:containsHerb`, `rdf:object`가 `ginseng`인 진술에서 주체 선택 | 현재 구조화한 `sijunzi-guofang`·`liujunzi-yixuexinwu`의 출전·법제·전체 약미. 더 넓은 처방 목록은 [인삼 역탐색](../network/herb-to-formula-map.md#_2) |
+| 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui`·`suanzaoren-donguibogam`을 구별하고 `km:sharesNameWith` 진술 확인 | [금궤요략 5미형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 몽문 수록형](../formulas/suanzaoren-tang.md#donguibogam-version)의 약미 대조 |
+| 족삼리는 어느 경맥에 속하는가? | 주체 `st36`, 관계 `km:belongsToMeridian`인 진술에서 대상 `stomach-meridian` 확인 | [족양명위경의 소속 경혈표](../meridian-network/stomach-meridian.md#_3)와 [족삼리의 위치·해부학](../acupuncture/points/st36-zusanli.md) |
+
+각 결과는 `dcterms:source`·`skos:scopeNote`·`dcterms:description`의 출처·조건·근거 발췌와 함께 읽고, 해당 개념의 `foaf:page`로 본문에 돌아갑니다. 현재 산조인탕의 구성 진술은 금궤요략형을 정리했으며, 동의보감형의 전체 약미는 연결한 본문 표에서 확인합니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
 
 관계는 조건과 출처를 보존하는 RDF 재구체화 방식으로 제공하므로, 도구는 `rdf:Statement`의 주체·관계·대상·출처·조건과 근거 발췌를 함께 읽습니다. 근거 발췌가 인용한 절에서 사라지거나 숨김 주석·코드 예제에만 남으면 빌드를 중단하여 출처를 다시 확인하도록 합니다. 별칭의 일치, 공통 본초, 경맥 소속을 서로 같은 개념이나 동일한 치료효과라는 관계로 확장하지 않습니다. 약량·제형·연구 제제가 필요한 질문은 대표 본문과 실제 연구까지 확인합니다. [SKOS 표준](https://www.w3.org/TR/skos-reference/) · [RDF 관계 진술 표현](https://www.w3.org/TR/rdf11-mt/#reification)
 
@@ -305,7 +344,19 @@ last_reviewed: '2026-08-23'
 - 참고문헌 DB는 PMID·DOI 추적의 기준 허브로 사용합니다.
 - 전통적 활용과 현대 임상근거를 구분합니다.
 
+### 문서 버전과 인용 정보 대조 {#version-and-citation}
+
+페이지별 JSON에 `provenance`가 있으면 `document_id`로 같은 대표 주소의 문서를 식별하고, `text_sha256`·`source_sha256`로 본문과 소스의 버전을 대조합니다. `commit`은 해당 공개 자료를 만든 빌드의 기준 Git 커밋입니다. 이를 이용해 수집해 둔 자료와 현재 본문을 비교하며, 의학적 검토 시점과 검토자는 문서에 별도로 명시된 정보를 확인합니다.
+
+온톨로지 파일의 SHA-256은 매니페스트의 `ontology.sha256`과 비교합니다. 문서 탐색 그래프는 같은 파일의 `content_sha256`을 사용합니다. 각 해시는 대상으로 지정된 파일에 적용하며, 페이지 본문 지문과 구별합니다. [문서·도표 출처 기록](../guide/content-use.md#provenance)
+
+인용에는 문서 제목과 대표 HTML의 해당 절을 표시하고, 연구 결과를 설명할 때는 원논문의 PMID·DOI와 실제 대상·제제·비교군·기간을 함께 남깁니다. 예를 들어 사군자탕의 국방 구성을 설명할 때에는 [사군자탕의 출전 원문·약량 절](../formulas/sijunzi-tang.md#source-dose-original)을 출처로 연결합니다. 개념 ID와 JSON 주소는 도구의 검색·대조에 사용합니다.
+
 <span id="robotstxt"></span>
+
+### 검색·수집 도구가 찾는 공개 경로 {#crawler-discovery}
+
+[robots.txt](../robots.txt)는 공개 경로의 수집 설정과 [sitemap.xml](https://wiki.minseong.co.kr/sitemap.xml) 주소를 제공합니다. [llms.txt](../llms.txt)는 주제별 대표 자료와 기계 판독용 파일의 역할을 안내하며, 본문 HTML의 JSON 대체 링크와 온톨로지 설명 링크를 통해 실제 자료로 이어집니다. 출처 표기와 자료 활용 범위는 [콘텐츠 이용 안내](../guide/content-use.md)에서 확인할 수 있습니다.
 
 ## 최종 구조 {#_3}
 
