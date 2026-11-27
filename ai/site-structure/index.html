@@ -93,9 +93,9 @@
 <meta name="twitter:title" content="AI·검색엔진용 사이트 구조">
 <meta name="twitter:description" content="민성 한의학 아카이브의 AI 탐색 안내. 페이지 색인·본문 JSON·한의학 온톨로지의 역할과 실제 관계 탐색, 출처 앵커·문서 버전·임상근거를 확인하는 방법을 설명합니다.">
 <meta name="archive:document-id" content="MSA-9561CC9BC7568575">
-<meta name="archive:text-sha256" content="17fb6c4f26ba288642ee0e4ebbf7000b17c04b36f80da7b7209740b331af2c24">
-<meta name="archive:source-sha256" content="876cb8dc6fea790ee109217fb3f823efcbc943eda367117b0ec77b0fd2fa71c6">
-<meta name="archive:commit" content="0d18ae05bc0dd4c403a4f7daf815171fc1d7e5d6">
+<meta name="archive:text-sha256" content="2231c02904e90e975294a22eaa0323e605fb2598520a47161caec597cfd03c62">
+<meta name="archive:source-sha256" content="776fb726740d07752bf849529a8373fcd1c313f0deec62ccd435463de51e9eeb">
+<meta name="archive:commit" content="a4054a583bc503a56088f1777e474a2e82e99115">
 </head>
   
   
@@ -6310,7 +6310,7 @@
 <p>제목·본문의 일치 여부는 검색 결과의 순서보다 먼저 확인합니다. <a href="../../guide/citation-policy/#source-access">출처 확인 범위</a>와 <a href="../../guide/citation-policy/#outcome-interpretation">결과 수치 해석</a>을 함께 적용하면 요약 과정에서 근거의 범위를 유지할 수 있습니다. 페이지별 JSON은 공개 본문의 읽기 자료이며, 검색 질의를 실행하는 API나 진단·처방을 반환하는 서비스로 제공하는 것은 아닙니다.</p>
 <p><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json">지식 그래프</a>는 문서 개체·동의어·분류·내부 연결을 탐색하는 자료이고, <a href="https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json">매니페스트</a>는 해당 빌드의 문서·관계 수와 무결성을 확인하는 자료입니다. 개별 주장을 인용할 때는 JSON 주소보다 원문 HTML의 해당 절과 연구 출처를 표시합니다. <a href="../../ai-index/#_17">데이터별 안내</a> · <a href="https://wiki.minseong.co.kr/llms.txt">llms.txt</a></p>
 <h3 id="ontology-retrieval">한의학 온톨로지에서 관계 확인하기<a class="headerlink" href="#ontology-retrieval" title="Permanent link">&para;</a></h3>
-<p><a href="../../assets/ai/ontology.jsonld">온톨로지 JSON-LD</a>는 기존 본문에서 선별한 <strong>본초·처방 수록형·변증·경혈·경맥·고전 조문</strong>을 개념으로 구분합니다. 문서 링크를 모은 <code>knowledge-graph.json</code>과 함께 사용하되, 출전별 구성이나 소속 관계를 묻는 질문은 <a href="../../network/#ontology-data">관계 정의</a>와 연결된 본문을 확인합니다.</p>
+<p><a href="../../assets/ai/ontology.jsonld">온톨로지 JSON-LD</a>는 기존 본문에서 선별한 <strong>본초·처방 수록형·변증·치법·경혈·경맥·고전 조문</strong>을 개념으로 구분합니다. 문서 링크를 모은 <code>knowledge-graph.json</code>과 함께 사용하되, 출전별 구성이나 소속 관계를 묻는 질문은 <a href="../../network/#ontology-data">관계 정의</a>와 연결된 본문을 확인합니다.</p>
 <table>
 <thead>
 <tr>
@@ -6373,6 +6373,11 @@
 <td>산조인탕에 인삼이 들어가는가?</td>
 <td><code>suanzaoren-jinkui</code>·<code>suanzaoren-donguibogam</code>을 구별하고 <code>km:sharesNameWith</code> 진술 확인</td>
 <td><a href="../../formulas/suanzaoren-tang/#source-dose-original">금궤요략 5미형</a>과 <a href="../../formulas/suanzaoren-tang/#donguibogam-version">동의보감 몽문 수록형</a>의 약미 대조</td>
+</tr>
+<tr>
+<td>기허·비허담습의 치료 방향은?</td>
+<td><code>qi-deficiency</code> 또는 <code>spleen-qi-deficiency-with-phlegm</code>에서 <code>km:hasTraditionalTreatmentPrinciple</code>의 대상 확인. 육군자탕은 <code>km:hasTraditionalPatternContext</code>로 변증에 연결</td>
+<td><a href="../../pattern-treatment/qi-deficiency/#treatment-principle">기허의 보기·건비</a>, <a href="../../pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care">비허담습의 익기건비·화담</a>과 동반 증후·배합 조건</td>
 </tr>
 <tr>
 <td>족삼리는 어느 경맥에 속하는가?</td>
@@ -6441,7 +6446,7 @@
 <h3 id="crawler-discovery">검색·수집 도구가 찾는 공개 경로<a class="headerlink" href="#crawler-discovery" title="Permanent link">&para;</a></h3>
 <p><a href="../../robots.txt">robots.txt</a>는 공개 경로의 수집 설정과 <a href="https://wiki.minseong.co.kr/sitemap.xml">sitemap.xml</a> 주소를 제공합니다. <a href="../../llms.txt">llms.txt</a>는 주제별 대표 자료와 기계 판독용 파일의 역할을 안내하며, 본문 HTML의 JSON 대체 링크와 온톨로지 설명 링크를 통해 실제 자료로 이어집니다. 출처 표기와 자료 활용 범위는 <a href="../../guide/content-use/">콘텐츠 이용 안내</a>에서 확인할 수 있습니다.</p>
 <h2 id="_3">최종 구조<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="17fb6c4f26ba" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="2231c02904e9" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 

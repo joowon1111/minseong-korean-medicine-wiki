@@ -91,6 +91,17 @@
       }
     },
     {
+      "@id": "km:TreatmentPrinciple",
+      "@type": "rdfs:Class",
+      "rdfs:label": {
+        "@language": "ko",
+        "@value": "치법"
+      },
+      "rdfs:subClassOf": {
+        "@id": "skos:Concept"
+      }
+    },
+    {
       "@id": "km:belongsToMeridian",
       "@type": "rdf:Property",
       "rdfs:comment": {
@@ -142,6 +153,24 @@
       },
       "rdfs:range": {
         "@id": "km:Pattern"
+      }
+    },
+    {
+      "@id": "km:hasTraditionalTreatmentPrinciple",
+      "@type": "rdf:Property",
+      "rdfs:comment": {
+        "@language": "ko",
+        "@value": "명시한 변증에서 설명하는 전통 치료 방향. 동반 증후와 적용 범위는 각 진술의 출처·조건에서 확인한다."
+      },
+      "rdfs:domain": {
+        "@id": "km:Pattern"
+      },
+      "rdfs:label": {
+        "@language": "ko",
+        "@value": "전통 치법으로 연결함"
+      },
+      "rdfs:range": {
+        "@id": "km:TreatmentPrinciple"
       }
     },
     {
@@ -10929,6 +10958,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#spleen-qi-deficiency-with-phlegm",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/diagnostics/patterns/phlegm-fluid/"
+      },
+      "skos:altLabel": [
+        "脾虛痰濕"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "피로·식욕저하·무른 변 등 비위허약에 오심·그득함 등 담습의 양상이 겹치는 변증."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "비허담습"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ssanghwa-guofang",
       "@type": [
         "skos:Concept",
@@ -12777,6 +12830,54 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "사독 TE9"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/qi-deficiency/#treatment-principle"
+      },
+      "skos:altLabel": [
+        "補氣"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "기허에서 기운을 보하는 전통 치법. 비위허약과 동반 증후에 따라 건비·화담·승양·양혈을 함께 살핀다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "보기"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-spleen-transform-phlegm",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care"
+      },
+      "skos:altLabel": [
+        "益氣健脾·化痰"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "비허담습에서 비위의 기운을 돕는 배합과 담습·구역을 조절하는 배합을 함께 살피는 전통 치법."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "익기건비·화담"
       }
     },
     {
@@ -21937,6 +22038,52 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--hasTraditionalPatternContext--qi-deficiency",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 비위허약에 더부룩함·메스꺼움·담습이 겹침 | [육군자탕](../formulas/liujunzi-tang.md): 사군자탕 계열에 진피·반하를 배합해 이기·화담 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/diagnostics/qi-deficiency/#_6"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#qi-deficiency"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#liujunzi-yixuexinwu"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의학심오 수록형의 처방 구성은 대표 문서에서 확인한다. 기허 가운데 비위허약에 더부룩함·메스꺼움·담습이 함께 있는 조건에서 비교한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--hasTraditionalPatternContext--spleen-qi-deficiency-with-phlegm",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "[육군자탕](../formulas/liujunzi-tang.md#source-dose-original)은 이 비허담습의 맥락에서 비교하는 처방입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#spleen-qi-deficiency-with-phlegm"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#liujunzi-yixuexinwu"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의학심오 육군자탕의 여섯 기본 약미와 생강·대조를 보존하며, 비위허약에 오심·그득함 등 담습이 겹치는 배합 맥락을 비교한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liujunzi-yixuexinwu--sharesFormulaStructureWith--sijunzi-guofang",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -23199,6 +23346,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "국방 평위산의 구성표 기본 약미. 원문 약명 厚朴, 수록량 3근2량, 포제 거친 겉껍질 제거·생강즙으로 법제·향이 나게 볶음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-qi-deficiency--hasTraditionalTreatmentPrinciple--tonify-qi",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "기허의 기본 치법은 **보기(補氣)**입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/qi-deficiency/#treatment-principle"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#qi-deficiency"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "기허의 전통 치법. 비위허약·담습·중기하함·혈허의 동반 여부에 따라 배합을 조정하는 맥락."
       }
     },
     {
@@ -26051,6 +26221,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "WHO 표준 361경혈 중 족태음비경 소속 SP9의 분류 관계. 혈명·한자·코드는 기존 표준 경혈 목록과 대조하고, 소속은 해당 경맥의 전체 소속 경혈표에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-spleen-qi-deficiency-with-phlegm--hasTraditionalTreatmentPrinciple--tonify-spleen-transform-phlegm",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이때의 전통 치법은 익기건비·화담으로, 비위의 기운을 돕는 배합과 담습·구역을 조절하는 배합을 함께 살핍니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-spleen-transform-phlegm"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#spleen-qi-deficiency-with-phlegm"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위허약에 담습·구역이 겹친 비허담습의 치료 방향. 동반 증상과 식사·배변·기력의 경과를 함께 살핀다."
       }
     },
     {
