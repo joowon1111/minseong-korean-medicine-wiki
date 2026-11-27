@@ -246,6 +246,46 @@
       "aliases": [
         "桂心"
       ]
+    },
+    {
+      "id": "banxia-houpo-jinkui",
+      "type": "Formula",
+      "label": "반하후박탕 — 금궤요략 수록형",
+      "page": "formulas/banxia-houpo-tang.md#source-dose-original",
+      "definition": "금궤요략 부인잡병편의 반하·후박·복령·생강·건소엽 5미 구성.",
+      "aliases": [
+        "반하후박탕",
+        "半夏厚朴湯"
+      ]
+    },
+    {
+      "id": "magnolia-bark",
+      "type": "Herb",
+      "label": "후박",
+      "page": "herbs/magnolia-bark.md",
+      "definition": "후박의 기원·약용 부위·가공과 배합을 확인하는 나무껍질 본초 개념.",
+      "aliases": [
+        "厚朴"
+      ]
+    },
+    {
+      "id": "perilla-leaf",
+      "type": "Herb",
+      "label": "자소엽",
+      "page": "herbs/perilla-leaf.md",
+      "definition": "차조기의 말린 잎을 사용하는 본초 개념. 자소자·자소경과 약용 부위를 구분한다.",
+      "aliases": [
+        "紫蘇葉",
+        "乾蘇葉"
+      ]
+    },
+    {
+      "id": "jinkui-22-005",
+      "type": "ClassicalPassage",
+      "label": "금궤요략 부인잡병 반하후박탕 조문",
+      "page": "classics/jinkui-yaolue/chapters/gynecology.md#clause-22-005",
+      "definition": "인후에 구운 고깃덩이가 있는 듯한 감각과 반하후박탕을 연결하는 금궤요략 부인잡병편 조문.",
+      "aliases": []
     }
   ],
   "predicates": {
@@ -565,6 +605,60 @@
       "source": "formulas/suanzaoren-tang.md#donguibogam-version",
       "scope": "동의보감 몽문·의학입문 인용형의 전탕 보조재료. 기본 7미에 생강 3편을 더해 달인다는 기록이며, 금궤요략 심사 이본의 생강 2량과 구분한다.",
       "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 3편, 달일 때 더함 |"
+    },
+    {
+      "id": "banxia-houpo-jinkui--containsHerb--pinellia",
+      "subject": "banxia-houpo-jinkui",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/banxia-houpo-tang.md#source-dose-original",
+      "scope": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 1승 | 별도 포제 표기 없음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "banxia-houpo-jinkui--containsHerb--magnolia-bark",
+      "subject": "banxia-houpo-jinkui",
+      "predicate": "containsHerb",
+      "object": "magnolia-bark",
+      "source": "formulas/banxia-houpo-tang.md#source-dose-original",
+      "scope": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다.",
+      "quote": "| [후박](../herbs/magnolia-bark.md) · 厚朴 | 3량 | 별도 포제 표기 없음 | 행기·조습·제만으로 흉복부 그득함을 조절 |"
+    },
+    {
+      "id": "banxia-houpo-jinkui--containsHerb--poria",
+      "subject": "banxia-houpo-jinkui",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/banxia-houpo-tang.md#source-dose-original",
+      "scope": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 4량 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "banxia-houpo-jinkui--containsHerb--fresh-ginger",
+      "subject": "banxia-houpo-jinkui",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/banxia-houpo-tang.md#source-dose-original",
+      "scope": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 5량 | 별도 포제 표기 없음 | 위기를 조화하고 오심·상역을 조절 |"
+    },
+    {
+      "id": "banxia-houpo-jinkui--containsHerb--perilla-leaf",
+      "subject": "banxia-houpo-jinkui",
+      "predicate": "containsHerb",
+      "object": "perilla-leaf",
+      "source": "formulas/banxia-houpo-tang.md#source-dose-original",
+      "scope": "금궤요략 부인잡병편의 기본 5미. 반하 1승은 부피, 후박 3량·복령 4량·생강 5량·건소엽 2량은 중량 기록이다. 건소엽은 말린 잎의 원문 명칭으로 보존하며, 후대 대칠기탕의 조말·생강 추가 방식과 구분한다.",
+      "quote": "| [자소엽](../herbs/perilla-leaf.md) · 乾蘇葉 | 2량 | 별도 포제 표기 없음 | 산한·행기로 표와 중초의 기체를 함께 다룸 |"
+    },
+    {
+      "id": "jinkui-22-005--recordsFormula--banxia-houpo-jinkui",
+      "subject": "jinkui-22-005",
+      "predicate": "recordsFormula",
+      "object": "banxia-houpo-jinkui",
+      "source": "classics/jinkui-yaolue/chapters/gynecology.md#clause-22-005",
+      "scope": "금궤요략 부인잡병편의 婦人咽中如有炙臠，半夏厚朴湯主之. 원문의 인후 감각과 처방 수록을 연결하며 현대 연구의 환자군·시험 제형은 해당 연구에서 확인한다.",
+      "quote": "> 婦人咽中如有炙臠，半夏厚朴湯主之。"
     }
   ]
 }

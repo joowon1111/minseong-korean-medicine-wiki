@@ -42,6 +42,22 @@ class OntologyPages(unittest.TestCase):
         self.assertTrue(any('sharesFormulaStructureWith' in key for key in source['statement_ids']))
         self.assertNotIn(BASE + '/conditions/insomnia/', self.pages)
 
+    def test_banxia_houpo_clausal_and_ingredient_paths_keep_qualifications(self):
+        formula = self.pages[BASE + '/formulas/banxia-houpo-tang/']
+        self.assertEqual(formula['concept_ids'], [RESOURCE + '#banxia-houpo-jinkui'])
+        self.assertEqual(len(formula['statement_ids']), 6)
+        clause = self.pages[BASE + '/classics/jinkui-yaolue/chapters/gynecology/']
+        self.assertEqual(clause['concept_ids'], [RESOURCE + '#jinkui-22-005'])
+        self.assertEqual(len(clause['statement_ids']), 1)
+        for slug in ('perilla-leaf', 'magnolia-bark'):
+            herb = self.pages[BASE + '/herbs/' + slug + '/']
+            self.assertEqual(herb['concept_ids'], [RESOURCE + '#' + slug])
+            self.assertEqual(len(herb['statement_ids']), 1)
+            record = next(n for n in herb['payload']['@graph'] if n['@type'] == 'rdf:Statement')
+            self.assertEqual(record['rdf:subject']['@id'], RESOURCE + '#banxia-houpo-jinkui')
+            self.assertIn('skos:scopeNote', record)
+            self.assertIn('dcterms:description', record)
+
     def test_projection_is_deterministic_and_does_not_modify_global_payload(self):
         before = deepcopy(self.payload)
         self.assertEqual(page_projections(self.payload), self.pages)
