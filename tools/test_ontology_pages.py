@@ -73,8 +73,10 @@ class OntologyPages(unittest.TestCase):
         for slug in ('perilla-leaf', 'magnolia-bark'):
             herb = self.pages[BASE + '/herbs/' + slug + '/']
             self.assertEqual(herb['concept_ids'], [RESOURCE + '#' + slug])
-            self.assertEqual(len(herb['statement_ids']), 1)
-            record = next(n for n in herb['payload']['@graph'] if n['@type'] == 'rdf:Statement')
+            records = [n for n in herb['payload']['@graph'] if n['@type'] == 'rdf:Statement'
+                       and n['rdf:subject']['@id'] == RESOURCE + '#banxia-houpo-jinkui']
+            self.assertEqual(len(records), 1)
+            record = records[0]
             self.assertEqual(record['rdf:subject']['@id'], RESOURCE + '#banxia-houpo-jinkui')
             self.assertIn('skos:scopeNote', record)
             self.assertIn('dcterms:description', record)

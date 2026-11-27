@@ -91,6 +91,10 @@ iridoids·당류·다당류를 비롯한 성분과 가공 전후 변화가 연�
 
 숙지황 문서는 이 페이지로 통합했습니다. 과거 주소로 들어와도 이 문서로 연결되며, 생지황과 숙지황은 가공 전후의 명칭과 처방 역할을 구분합니다.
 
+### 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 동의보감 연결 {#_6}
 → [《동의보감》 탕액편의 숙지황](../classics/donguibogam/tangyeok/prepared-rehmannia.md)
 

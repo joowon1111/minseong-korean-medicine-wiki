@@ -338,6 +338,9 @@ last_reviewed: '2026-08-23'
 | 인삼이 들어간 처방은? | `rdf:predicate`가 `km:containsHerb`, `rdf:object`가 `ginseng`인 진술에서 주체 선택 | 현재 구조화한 `sijunzi-guofang`·`liujunzi-yixuexinwu`·`suanzaoren-donguibogam`의 출전·법제·전체 약미. 더 넓은 처방 목록은 [인삼 역탐색](../network/herb-to-formula-map.md#_2) |
 | 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui`·`suanzaoren-donguibogam`을 구별하고 `km:sharesNameWith` 진술 확인 | [금궤요략 5미형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 몽문 수록형](../formulas/suanzaoren-tang.md#donguibogam-version)의 약미 대조 |
 | 족삼리는 어느 경맥에 속하는가? | 주체 `st36`, 관계 `km:belongsToMeridian`인 진술에서 대상 `stomach-meridian` 확인 | [족양명위경의 소속 경혈표](../meridian-network/stomach-meridian.md#_3)와 [족삼리의 위치·해부학](../acupuncture/points/st36-zusanli.md) |
+| 황기가 들어간 처방은? | 관계 `km:containsHerb`, 대상 `astragalus`인 진술의 주체를 조회 | 보중익기탕·당귀보혈탕·십전대보탕·쌍화탕·귀비탕의 수록형과 각 포제·약량 |
+| 귀비탕에는 당귀·원지가 들어가는가? | `guibi-jisheng`과 `guibi-donguibogam`을 각각 선택 | 제생방 기본 8미와 동의보감의 당귀·원지 포함 10미·생강 대추 추가형 |
+| 경옥고의 복령량은 같은가? | `gyeongok-hongshi`·`gyeongok-donguibogam-ipmun`·`gyeongok-donguibogam-wisaeng`을 구분 | 복령 49량·48량과 위생방 별기 24량 및 전체 제조 비율 |
 | 심포경의 전체 경혈은? | 관계 `km:belongsToMeridian`, 대상 `pericardium-meridian`인 모든 진술의 주체를 선택하고 `skos:notation`의 번호순으로 정렬 | PC1–PC9의 9혈과 각 진술의 출처·근거 발췌. [경맥별 전체 소속 경혈](../network/index.md#ontology-meridian-members) |
 | 비경·임맥·독맥의 전체 경혈은? | 대상을 각각 `spleen-meridian`·`conception-vessel`·`governing-vessel`로 선택 | SP1–SP21의 21혈, CV1–CV24의 24혈, GV1–GV28의 28혈 |
 
