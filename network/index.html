@@ -97,9 +97,9 @@
 <meta name="twitter:title" content="한의학 지식망 — 증상·처방·경혈·고전 연결">
 <meta name="twitter:description" content="한의학 온톨로지의 개념·속성·관계를 실제 사례로 설명합니다. 증상·변증·본초·처방·경혈·고전·연구와 사상의학을 연결하고, 구성·배혈·출전·임상근거를 비교하는 경로를 안내합니다.">
 <meta name="archive:document-id" content="MSA-0103412B48065F13">
-<meta name="archive:text-sha256" content="97ef78650c86dbd3a537ae54ad61f01ecf4d80cb06aba9c538077b1394c6c60a">
-<meta name="archive:source-sha256" content="1587c2cbfb3571fde7560e7644dd97f62385afb37faf4b8cdec67379f2da4343">
-<meta name="archive:commit" content="4b6610fe3f4af9c6dde77183f8fabb9bc8b75a99">
+<meta name="archive:text-sha256" content="784ca85dfc2b6bd2ebf9826a27c972d4d93413caf9953a349925ec229e9583f1">
+<meta name="archive:source-sha256" content="39e265f77fc7aede1da2352494e54cf8503786d874f2e22eb4100b43ce77b291">
+<meta name="archive:commit" content="b35185ee5d3e7bff1a8c1b5febd0518905a7f859">
 </head>
   
   
@@ -4719,7 +4719,7 @@
   <a href="#ontology-shared-herbs" class="md-nav__link">
     <span class="md-ellipsis">
       
-        공통 본초에서 처방 찾아가기
+        본초에서 처방 찾아가기
       
     </span>
   </a>
@@ -5000,7 +5000,7 @@
 </table>
 <p>예를 들어 ‘인삼이 들어간 처방’을 찾는 질문은 <strong>구성 관계</strong>로 답하고, ‘식욕저하와 오심이 함께 있을 때 처방의 차이’를 묻는 질문은 <strong>증후·배합 관계</strong>로 살핍니다. ‘그 처방을 사용한 연구 결과’는 <strong>해당 연구의 대상과 치료 조건</strong>까지 확인합니다.</p>
 <h2 id="ontology-data">출처를 함께 담은 온톨로지 데이터<a class="headerlink" href="#ontology-data" title="Permanent link">&para;</a></h2>
-<p><a href="../assets/ai/ontology.jsonld">온톨로지 JSON-LD</a>는 <strong>개념의 이름·종류·대표 문서와 관계의 출처·적용 범위</strong>를 함께 제공합니다. 사군자탕·육군자탕·반하후박탕의 구성, 산조인탕 두 수록형의 구성과 동명 이방, 기허의 처방 맥락, 표준 361경혈과 14경맥의 소속, 《금궤요략》의 조문·처방 관계를 먼저 정리했습니다. 전체 문서의 탐색 연결은 기존 <a href="../assets/ai/knowledge-graph.json">지식 그래프</a>에서 확인할 수 있습니다.</p>
+<p><a href="../assets/ai/ontology.jsonld">온톨로지 JSON-LD</a>는 <strong>개념의 이름·종류·대표 문서와 관계의 출처·적용 범위</strong>를 함께 제공합니다. 사군자탕·사물탕·보중익기탕·십전대보탕·반하사심탕 등 주요 처방의 구성, 귀비탕·산조인탕·생맥산·경옥고의 수록형별 차이, 기허의 처방 맥락, 표준 361경혈과 14경맥의 소속, 《금궤요략》의 조문·처방 관계를 먼저 정리했습니다. 전체 문서의 탐색 연결은 기존 <a href="../assets/ai/knowledge-graph.json">지식 그래프</a>에서 확인할 수 있습니다.</p>
 <table>
 <thead>
 <tr>
@@ -5045,7 +5045,7 @@
 <p><strong>이름이 같아도 수록형의 식별자는 각각 유지합니다.</strong> 《금궤요략》 산조인탕과 《동의보감》 산조인탕은 같은 문서 안에서도 서로 다른 개념으로 연결됩니다. 인삼·감초 같은 본초 개념과 처방 안에서의 거로·자(炙) 등 가공 조건도 나누어 기록합니다. <a href="../formulas/suanzaoren-tang/#formula-variant-comparison">두 수록형의 약재 비교표</a>와 데이터에서 적복령·계심의 명칭, 7미와 생강 추가 기록을 함께 확인할 수 있습니다. 이렇게 하면 ‘어떤 산조인탕에 인삼이 들어가는가’, ‘육군자탕에서 생강·대조는 어떻게 기록되는가’처럼 출전과 구성을 함께 묻는 질문을 구체화할 수 있습니다.</p>
 <p>개념 이름과 별칭은 <a href="https://www.w3.org/TR/skos-reference/">W3C SKOS</a>로 표현합니다. 각 관계는 주체·관계명·대상과 함께 <strong>본문 출처 주소와 적용 조건</strong>을 가진 <code>rdf:Statement</code>로 제공합니다. 각 관계에는 본문에서 발췌한 근거 문장·표 행도 함께 제공합니다. 관계의 조건과 근거 발췌를 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 <a href="../assets/ai/knowledge-manifest.json">매니페스트</a>의 <code>ontology</code>에서 확인합니다. <a href="../ai/site-structure/#ontology-retrieval">AI·검색도구의 이용 순서</a></p>
 <h2 id="ontology-composition-tables">구성 관계를 표로 찾아보기<a class="headerlink" href="#ontology-composition-tables" title="Permanent link">&para;</a></h2>
-<p>아래 표는 현재 온톨로지에 등록된 구성 관계를 모은 것입니다. 처방 수록형에서 본초를 찾거나, 공통 본초에서 여러 처방을 비교할 수 있습니다. 원문 약명과 수록본을 유지해 같은 이름의 처방도 각각 확인합니다.</p>
+<p>아래 표는 현재 온톨로지에 등록된 구성 관계를 모은 것입니다. 처방 수록형에서 본초를 찾거나, 본초별로 구성 관계가 등록된 처방을 비교할 수 있습니다. 원문 약명과 수록본을 유지해 같은 이름의 처방도 각각 확인합니다.</p>
 <h3 id="ontology-formula-compositions">수록형별 구성과 출처<a class="headerlink" href="#ontology-formula-compositions" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -5057,9 +5057,74 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/pueraria/">갈근</a> · <a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-twig/">계지</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/ephedra/">마황</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/#processing">작약</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 위생방 별기 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/poria/">백복령</a> · <a href="https://wiki.minseong.co.kr/herbs/honey/">봉밀</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-rehmannia/">생지황</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 입문 인용 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/poria/">백복령</a> · <a href="https://wiki.minseong.co.kr/herbs/honey/">봉밀</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-rehmannia/">생지황</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#source-dose-original">경옥고 — 홍씨집험방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/poria/">백복령</a> · <a href="https://wiki.minseong.co.kr/herbs/honey/">봉밀</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-rehmannia/">생지황</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/guizhi-fuling-wan/#source-dose-original">계지복령환 — 금궤요략 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/cinnamon-twig/">계지</a> · <a href="https://wiki.minseong.co.kr/herbs/peach-kernel/">도인</a> · <a href="https://wiki.minseong.co.kr/herbs/moutan/">목단피</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/#processing">작약</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guizhi-fuling-wan/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/guizhi-tang/#source-dose-original">계지탕 — 상한론 송본 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-twig/">계지</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/#processing">작약</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guizhi-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
 <td><a href="https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original">공진단 — 시재백일선방 수록형</a></td>
 <td><a href="https://wiki.minseong.co.kr/herbs/cervi-parvum-cornu/">녹용</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/moschus/">사향</a> · <a href="https://wiki.minseong.co.kr/herbs/cornus-fructus/">산수유</a></td>
 <td><a href="https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/aucklandia/">목향</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria-spirit/">복신</a> · <a href="https://wiki.minseong.co.kr/herbs/ziziphus-seed/">산조인</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/longan/">용안육</a> · <a href="https://wiki.minseong.co.kr/herbs/polygala/">원지</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/astragalus/">황기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/aucklandia/">목향</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria-spirit/">복신</a> · <a href="https://wiki.minseong.co.kr/herbs/ziziphus-seed/">산조인</a> · <a href="https://wiki.minseong.co.kr/herbs/longan/">용안육</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/astragalus/">황기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/danggui-buxue-tang/#source-dose-original">당귀보혈탕 — 내외상변혹론 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/astragalus/">황기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/danggui-buxue-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">당귀작약산 — 금궤요략 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/#processing">작약</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a> · <a href="https://wiki.minseong.co.kr/herbs/alisma/">택사</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/rehmannia-root-fresh/#processing">건지황</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-bark/#gyesim-source-name">계심</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica-pubescens/">독활</a> · <a href="https://wiki.minseong.co.kr/herbs/eucommia/">두충</a> · <a href="https://wiki.minseong.co.kr/herbs/saposhnikovia/">방풍</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/taxillus/">상기생</a> · <a href="https://wiki.minseong.co.kr/herbs/asarum/">세신</a> · <a href="https://wiki.minseong.co.kr/herbs/achyranthes/">우슬</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/#processing">작약</a> · <a href="https://wiki.minseong.co.kr/herbs/gentiana-macrophylla/">진교</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">맥문동탕 — 금궤요략 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/oryza-rice/">갱미</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/ophiopogon/">맥문동</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/dried-ginger/">건강</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/scutellaria/">황금</a> · <a href="https://wiki.minseong.co.kr/herbs/coptis/">황련</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">원문·구성 확인</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a></td>
@@ -5067,9 +5132,19 @@
 <td><a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">원문·구성 확인</a></td>
 </tr>
 <tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/cimicifuga/">승마</a> · <a href="https://wiki.minseong.co.kr/herbs/bupleurum/">시호</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a> · <a href="https://wiki.minseong.co.kr/herbs/astragalus/">황기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
 <td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a></td>
 <td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
 <td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#source-dose-original">사물탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/">백작약</a> · <a href="https://wiki.minseong.co.kr/herbs/prepared-rehmannia/">숙지황</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#source-dose-original">원문·구성 확인</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a></td>
@@ -5082,15 +5157,95 @@
 <td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">원문·구성 확인</a></td>
 </tr>
 <tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#donguibogam-version">생맥산 — 동의보감 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/ophiopogon/">맥문동</a> · <a href="https://wiki.minseong.co.kr/herbs/schisandra/">오미자</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#donguibogam-version">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#source-dose-original">생맥산 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/ophiopogon/">맥문동</a> · <a href="https://wiki.minseong.co.kr/herbs/schisandra/">오미자</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/notopterygium/">강활</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/peach-kernel/">도인</a> · <a href="https://wiki.minseong.co.kr/herbs/stephania-root/">방기</a> · <a href="https://wiki.minseong.co.kr/herbs/saposhnikovia/">방풍</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/">백작약</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica-dahurica/">백지</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-rehmannia/">생지황</a> · <a href="https://wiki.minseong.co.kr/herbs/gentian-root/">용담</a> · <a href="https://wiki.minseong.co.kr/herbs/achyranthes/">우슬</a> · <a href="https://wiki.minseong.co.kr/herbs/clematis-root/">위령선</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes-lancea/">창출</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/bupleurum/">시호</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/scutellaria/">황금</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/dried-ginger/">건강</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-twig/">계지</a> · <a href="https://wiki.minseong.co.kr/herbs/ephedra/">마황</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/asarum/">세신</a> · <a href="https://wiki.minseong.co.kr/herbs/schisandra/">오미자</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/#processing">작약</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/rehmannia-root-fresh/#processing">건지황</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-twig/">계지</a> · <a href="https://wiki.minseong.co.kr/herbs/moutan/">목단피</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/aconite/">부자</a> · <a href="https://wiki.minseong.co.kr/herbs/cornus-fructus/">산수유</a> · <a href="https://wiki.minseong.co.kr/herbs/dioscorea/">산약</a> · <a href="https://wiki.minseong.co.kr/herbs/alisma/">택사</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/">백작약</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/prepared-rehmannia/">숙지황</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-bark/">육계</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a> · <a href="https://wiki.minseong.co.kr/herbs/astragalus/">황기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/">백작약</a> · <a href="https://wiki.minseong.co.kr/herbs/prepared-rehmannia/">숙지황</a> · <a href="https://wiki.minseong.co.kr/herbs/cinnamon-bark/">육계</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a> · <a href="https://wiki.minseong.co.kr/herbs/astragalus/">황기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/wuling-san/#source-dose-original">오령산 — 상한론 송본 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/cinnamon-twig/">계지</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/polyporus/">저령</a> · <a href="https://wiki.minseong.co.kr/herbs/alisma/">택사</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/wuling-san/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/bamboo-shavings/">죽여</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-immature/">지실</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#preparation-and-dose">출처 1</a> · <a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">출처 2</a></td>
+</tr>
+<tr>
 <td><a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
 <td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a></td>
 <td><a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">원문·구성 확인</a></td>
 </tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">이진탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">귤홍</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">백복령</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/mume-fruit/">오매</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">지황환(육미지황환) — 소아약증직결 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/moutan/">목단피</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">백복령</a> · <a href="https://wiki.minseong.co.kr/herbs/cornus-fructus/">산수유</a> · <a href="https://wiki.minseong.co.kr/herbs/dioscorea/">산약</a> · <a href="https://wiki.minseong.co.kr/herbs/prepared-rehmannia/">숙지황</a> · <a href="https://wiki.minseong.co.kr/herbs/alisma/">택사</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a> · <a href="https://wiki.minseong.co.kr/herbs/white-peony/">백작약</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/prepared-rehmannia/">숙지황</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/pingwei-san/#source-dose-original">평위산 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes-lancea/">창출</a> · <a href="https://wiki.minseong.co.kr/herbs/magnolia-bark/">후박</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/pingwei-san/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a> · <a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a> · <a href="https://wiki.minseong.co.kr/herbs/aucklandia/">목향</a> · <a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a> · <a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a> · <a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a> · <a href="https://wiki.minseong.co.kr/herbs/amomum/">사인</a> · <a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a> · <a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a> · <a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/huanglian-jiedu-tang/#source-dose-original">황련해독탕 — 의방집해 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/herbs/gardenia/">치자</a> · <a href="https://wiki.minseong.co.kr/herbs/scutellaria/">황금</a> · <a href="https://wiki.minseong.co.kr/herbs/coptis/">황련</a> · <a href="https://wiki.minseong.co.kr/herbs/phellodendron/">황백</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/huanglian-jiedu-tang/#source-dose-original">원문·구성 확인</a></td>
+</tr>
 </tbody>
 </table>
-<p>각 수록형의 원문 약량·포제와 달일 때 더하는 재료는 출처 본문에서 함께 확인합니다. 산조인탕의 두 수록형은 각각의 이름과 출처를 유지하며, 복령·적복령·계심의 표기도 구분합니다.</p>
-<h3 id="ontology-shared-herbs">공통 본초에서 처방 찾아가기<a class="headerlink" href="#ontology-shared-herbs" title="Permanent link">&para;</a></h3>
-<p>현재 두 개 이상의 처방 수록형에 구성 관계가 등록된 본초입니다. 인삼·복령·감초처럼 같은 본초가 여러 처방에 포함되는 경우 전체 배합과 출처를 비교할 수 있습니다.</p>
+<p>각 수록형의 원문 약량·포제와 전탕 추가재료는 구성 출처에서 확인합니다. 귀비탕·산조인탕·생맥산·경옥고의 여러 수록형은 이름과 출처를 각각 유지합니다. 작약·백작약, 복령·백복령·적복령·복신, 건지황·숙지황, 계지·계심·육계도 원문과 가공에 맞춰 구분합니다.</p>
+<h3 id="ontology-shared-herbs">본초에서 처방 찾아가기<a class="headerlink" href="#ontology-shared-herbs" title="Permanent link">&para;</a></h3>
+<p>현재 구성 관계가 등록된 본초를 모두 표시합니다. 인삼·황기·당귀처럼 여러 처방에 들어가는 약재는 수록형별 전체 배합과 출처를 비교하고, 약용 부위·가공·원문 약명이 다른 항목은 각각 확인할 수 있습니다.</p>
 <table>
 <thead>
 <tr>
@@ -5100,36 +5255,284 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/pueraria/">갈근</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/licorice/">감초</a></td>
-<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guizhi-tang/#source-dose-original">계지탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">맥문동탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">이진탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/pingwei-san/#source-dose-original">평위산 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/notopterygium/">강활</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/oryza-rice/">갱미</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">맥문동탕 — 금궤요략 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/dried-ginger/">건강</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/rehmannia-root-fresh/#processing">건지황</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/cinnamon-bark/#gyesim-source-name">계심</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/cinnamon-twig/">계지</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guizhi-fuling-wan/#source-dose-original">계지복령환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guizhi-tang/#source-dose-original">계지탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wuling-san/#source-dose-original">오령산 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">귤홍</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">이진탕 — 국방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/cervi-parvum-cornu/">녹용</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original">공진단 — 시재백일선방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/angelica/">당귀</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original">공진단 — 시재백일선방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/danggui-buxue-tang/#source-dose-original">당귀보혈탕 — 내외상변혹론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">당귀작약산 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#source-dose-original">사물탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/jujube-fruit/">대조</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guizhi-tang/#source-dose-original">계지탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">맥문동탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/peach-kernel/">도인</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guizhi-fuling-wan/#source-dose-original">계지복령환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/angelica-pubescens/">독활</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/eucommia/">두충</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/ephedra/">마황</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/ophiopogon/">맥문동</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">맥문동탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#donguibogam-version">생맥산 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#source-dose-original">생맥산 — 의학심오 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/moutan/">목단피</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guizhi-fuling-wan/#source-dose-original">계지복령환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">지황환(육미지황환) — 소아약증직결 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/aucklandia/">목향</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/pinellia/">반하</a></td>
-<td><a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">맥문동탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">이진탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/stephania-root/">방기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/saposhnikovia/">방풍</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/poria/">백복령</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 위생방 별기 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 입문 인용 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#source-dose-original">경옥고 — 홍씨집험방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">이진탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">지황환(육미지황환) — 소아약증직결 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/white-peony/">백작약</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#source-dose-original">사물탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/angelica-dahurica/">백지</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/atractylodes/">백출</a></td>
-<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">당귀작약산 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wuling-san/#source-dose-original">오령산 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/poria/">복령</a></td>
-<td><a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guizhi-fuling-wan/#source-dose-original">계지복령환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">당귀작약산 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wuling-san/#source-dose-original">오령산 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/poria-spirit/">복신</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/honey/">봉밀</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 위생방 별기 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 입문 인용 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#source-dose-original">경옥고 — 홍씨집험방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/aconite/">부자</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/amomum/">사인</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/moschus/">사향</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original">공진단 — 시재백일선방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/cornus-fructus/">산수유</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original">공진단 — 시재백일선방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">지황환(육미지황환) — 소아약증직결 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/dioscorea/">산약</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">지황환(육미지황환) — 소아약증직결 수록형</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/ziziphus-seed/">산조인</a></td>
-<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/taxillus/">상기생</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/fresh-ginger/">생강</a></td>
-<td><a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guizhi-tang/#source-dose-original">계지탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">이진탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/fresh-rehmannia/">생지황</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 위생방 별기 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 입문 인용 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#source-dose-original">경옥고 — 홍씨집험방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/gypsum/">석고</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/asarum/">세신</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/prepared-rehmannia/">숙지황</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#source-dose-original">사물탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">지황환(육미지황환) — 소아약증직결 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/cimicifuga/">승마</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/bupleurum/">시호</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/mume-fruit/">오매</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/erchen-tang/#source-dose-original">이진탕 — 국방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/schisandra/">오미자</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#donguibogam-version">생맥산 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#source-dose-original">생맥산 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/gentian-root/">용담</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/longan/">용안육</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/achyranthes/">우슬</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/polygala/">원지</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/clematis-root/">위령선</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/cinnamon-bark/">육계</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/ginseng/">인삼</a></td>
-<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 위생방 별기 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#donguibogam-variants">경옥고 — 동의보감 입문 인용 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/gyeongok-go/#source-dose-original">경옥고 — 홍씨집험방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/maidong-tang/#source-dose-original">맥문동탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#donguibogam-version">생맥산 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shengmai-san/#source-dose-original">생맥산 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/perilla-leaf/">자소엽</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/white-peony/#processing">작약</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/gegen-tang/#source-dose-original">갈근탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guizhi-fuling-wan/#source-dose-original">계지복령환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guizhi-tang/#source-dose-original">계지탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">당귀작약산 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaoqinglong-tang/#source-dose-original">소청룡탕 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/polyporus/">저령</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/wuling-san/#source-dose-original">오령산 — 상한론 송본 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/poria/#red-poria-in-formulas">적복령</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/bamboo-shavings/">죽여</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a></td>
 </tr>
 <tr>
 <td><a href="https://wiki.minseong.co.kr/herbs/anemarrhena/">지모</a></td>
 <td><a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#donguibogam-version">산조인탕 — 동의보감 몽문 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/citrus-immature/">지실</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/gentiana-macrophylla/">진교</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/citrus-peel/">진피</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original">온담탕 — 삼인극일병증방론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/pingwei-san/#source-dose-original">평위산 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiangsha-liujunzi-tang/#source-dose-original">향사육군자탕 — 시방가괄 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/atractylodes-lancea/">창출</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/pingwei-san/#source-dose-original">평위산 — 국방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/chuanxiong/">천궁</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">당귀작약산 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/duhuo-jisheng-tang/#source-dose-original">독활기생탕 — 비급천금요방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#source-dose-original">사물탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/suanzaoren-tang/#source-dose-original">산조인탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shujing-huoxue-tang/#source-dose-original">소경활혈탕 — 만병회춘 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/gardenia/">치자</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/huanglian-jiedu-tang/#source-dose-original">황련해독탕 — 의방집해 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/alisma/">택사</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/danggui-shaoyao-san/#source-dose-original">당귀작약산 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/bawei-dihuang-wan/#source-dose-original">신기환·팔미신기환 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/wuling-san/#source-dose-original">오령산 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/liuwei-dihuang-wan/#source-dose-original">지황환(육미지황환) — 소아약증직결 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/scutellaria/">황금</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/xiaochaihu-tang/#source-dose-original">소시호탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/huanglian-jiedu-tang/#source-dose-original">황련해독탕 — 의방집해 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/astragalus/">황기</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version">귀비탕 — 동의보감 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original">귀비탕 — 제생방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/danggui-buxue-tang/#source-dose-original">당귀보혈탕 — 내외상변혹론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#source-dose-original">보중익기탕 — 비위론 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/ssanghwa-tang/#source-dose-original">쌍화탕 — 국방 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/coptis/">황련</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/banxia-xiexin-tang/#source-dose-original">반하사심탕 — 상한론 송본 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/huanglian-jiedu-tang/#source-dose-original">황련해독탕 — 의방집해 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/phellodendron/">황백</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/huanglian-jiedu-tang/#source-dose-original">황련해독탕 — 의방집해 수록형</a></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/herbs/magnolia-bark/">후박</a></td>
+<td><a href="https://wiki.minseong.co.kr/formulas/banxia-houpo-tang/#source-dose-original">반하후박탕 — 금궤요략 수록형</a> · <a href="https://wiki.minseong.co.kr/formulas/pingwei-san/#source-dose-original">평위산 — 국방 수록형</a></td>
 </tr>
 </tbody>
 </table>
@@ -5373,7 +5776,7 @@
 </ul>
 <p>검증할 원자료가 필요하면 <a href="../research/references/">참고문헌 데이터베이스</a>, 개념이 낯설면 <a href="../diagnostics/">진단·변증</a>, 사람과 약재의 이야기를 읽고 싶다면 <a href="../classical-stories/">민성의담</a>으로 이어갈 수 있습니다.</p>
 <h3 id="knowledge-reuse">검색·AI 자료로 이어지는 연결<a class="headerlink" href="#knowledge-reuse" title="Permanent link">&para;</a></h3>
-<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="97ef78650c86" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="784ca85dfc2b" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 

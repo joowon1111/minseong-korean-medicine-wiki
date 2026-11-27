@@ -93,9 +93,9 @@
 <meta name="twitter:title" content="AI·검색엔진용 사이트 구조">
 <meta name="twitter:description" content="민성 한의학 아카이브의 AI 탐색 안내. 페이지 색인·본문 JSON·한의학 온톨로지의 역할과 실제 관계 탐색, 출처 앵커·문서 버전·임상근거를 확인하는 방법을 설명합니다.">
 <meta name="archive:document-id" content="MSA-9561CC9BC7568575">
-<meta name="archive:text-sha256" content="3cbb6793ace031285f8c2328f09dd3ae5c1433da960c73f90156484a8716796c">
-<meta name="archive:source-sha256" content="23d7cd756e846f5492c2cda0deb3f6ba7fff7c183f897fcff7bd84704f3c28ff">
-<meta name="archive:commit" content="4b6610fe3f4af9c6dde77183f8fabb9bc8b75a99">
+<meta name="archive:text-sha256" content="cf45a1e3bad5d14e2c8c07f6faaea62b50ec0dd38040eeeed67cb1abe1ab55af">
+<meta name="archive:source-sha256" content="33d38d75da1b8924d4a7c249743f4e9ac24df4ab85d9ef1d711041538d3e82d8">
+<meta name="archive:commit" content="b35185ee5d3e7bff1a8c1b5febd0518905a7f859">
 </head>
   
   
@@ -6380,6 +6380,21 @@
 <td><a href="../../meridian-network/stomach-meridian/#_3">족양명위경의 소속 경혈표</a>와 <a href="../../acupuncture/points/st36-zusanli/">족삼리의 위치·해부학</a></td>
 </tr>
 <tr>
+<td>황기가 들어간 처방은?</td>
+<td>관계 <code>km:containsHerb</code>, 대상 <code>astragalus</code>인 진술의 주체를 조회</td>
+<td>보중익기탕·당귀보혈탕·십전대보탕·쌍화탕·귀비탕의 수록형과 각 포제·약량</td>
+</tr>
+<tr>
+<td>귀비탕에는 당귀·원지가 들어가는가?</td>
+<td><code>guibi-jisheng</code>과 <code>guibi-donguibogam</code>을 각각 선택</td>
+<td>제생방 기본 8미와 동의보감의 당귀·원지 포함 10미·생강 대추 추가형</td>
+</tr>
+<tr>
+<td>경옥고의 복령량은 같은가?</td>
+<td><code>gyeongok-hongshi</code>·<code>gyeongok-donguibogam-ipmun</code>·<code>gyeongok-donguibogam-wisaeng</code>을 구분</td>
+<td>복령 49량·48량과 위생방 별기 24량 및 전체 제조 비율</td>
+</tr>
+<tr>
 <td>심포경의 전체 경혈은?</td>
 <td>관계 <code>km:belongsToMeridian</code>, 대상 <code>pericardium-meridian</code>인 모든 진술의 주체를 선택하고 <code>skos:notation</code>의 번호순으로 정렬</td>
 <td>PC1–PC9의 9혈과 각 진술의 출처·근거 발췌. <a href="../../network/#ontology-meridian-members">경맥별 전체 소속 경혈</a></td>
@@ -6411,7 +6426,7 @@
 <h3 id="crawler-discovery">검색·수집 도구가 찾는 공개 경로<a class="headerlink" href="#crawler-discovery" title="Permanent link">&para;</a></h3>
 <p><a href="../../robots.txt">robots.txt</a>는 공개 경로의 수집 설정과 <a href="https://wiki.minseong.co.kr/sitemap.xml">sitemap.xml</a> 주소를 제공합니다. <a href="../../llms.txt">llms.txt</a>는 주제별 대표 자료와 기계 판독용 파일의 역할을 안내하며, 본문 HTML의 JSON 대체 링크와 온톨로지 설명 링크를 통해 실제 자료로 이어집니다. 출처 표기와 자료 활용 범위는 <a href="../../guide/content-use/">콘텐츠 이용 안내</a>에서 확인할 수 있습니다.</p>
 <h2 id="_3">최종 구조<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="3cbb6793ace0" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="cf45a1e3bad5" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 
