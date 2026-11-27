@@ -75,6 +75,14 @@
     
   
   
+  
+    <link rel="describedby" type="application/ld+json" href="../assets/ai/ontology.jsonld" title="한의학 온톨로지 — 출처 기반 개념·관계" />
+  
+  
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"Dataset","name":"민성 한의학 온톨로지 — 출처 기반 개념·관계","description":"기존 아카이브 본문에서 선별한 본초·처방 수록형·변증·경혈·경맥·고전 조문과 출처·적용 조건을 함께 제공하는 개념·관계 데이터입니다.","url":"https://wiki.minseong.co.kr/network/#ontology-data","inLanguage":"ko","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"민성 한의학 아카이브","url":"https://wiki.minseong.co.kr/"},"distribution":{"@type":"DataDownload","encodingFormat":"application/ld+json","contentUrl":"https://wiki.minseong.co.kr/assets/ai/ontology.jsonld"}}
+    </script>
+  
   <meta name="google-site-verification" content="lQGiH8kyade_mMZ43jkTjY_zlgYdIhI-aNUg0w5pvfc" />
 
   <link rel="alternate" type="application/json" title="문서 읽기 자료 (JSON)" href="https://wiki.minseong.co.kr/assets/ai/pages/network/index.json">
@@ -89,9 +97,9 @@
 <meta name="twitter:title" content="한의학 지식망 — 증상·처방·경혈·고전 연결">
 <meta name="twitter:description" content="한의학 온톨로지의 개념·속성·관계를 실제 사례로 설명합니다. 증상·변증·본초·처방·경혈·고전·연구와 사상의학을 연결하고, 구성·배혈·출전·임상근거를 비교하는 경로를 안내합니다.">
 <meta name="archive:document-id" content="MSA-0103412B48065F13">
-<meta name="archive:text-sha256" content="a96b923f6cd14b80415550cd35a14a7c545f15553f759a95b4e3db37db1fa3b9">
-<meta name="archive:source-sha256" content="c3cdfb1a2acf3faf5cf834b67195a390cddc776906a646341e79e26a37e8828a">
-<meta name="archive:commit" content="366d93987e99c9a00e233360956074d00fe0ad95">
+<meta name="archive:text-sha256" content="4a8516fe0c274afc56fffc266f07fb9172dca0a9548d3e3f5d3a00531018929e">
+<meta name="archive:source-sha256" content="3fc6f79749b3dc77915c67f7600f88ecf8a2064f3d803aade79dfaf8ce3a5d7c">
+<meta name="archive:commit" content="df5bb07be460431619b5047c35d967cad65e6f78">
 </head>
   
   
@@ -4674,6 +4682,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#ontology-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        출처를 함께 담은 온톨로지 데이터
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#starting-points" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -4850,7 +4869,7 @@
 
 
 
-<nav class="archive-breadcrumbs" aria-label="현재 문서 위치"><a href="https://wiki.minseong.co.kr/">홈</a> <span aria-hidden="true">›</span> <span aria-current="page">한의학 지식망 — 증상·처방·경혈·고전 연결</span></nav><h1 id="_1">한의학 지식망<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<nav class="archive-breadcrumbs" aria-label="현재 문서 위치"><a href="https://wiki.minseong.co.kr/">홈</a> <span aria-hidden="true">›</span> <span aria-current="page">한의학 지식망 — 증상·처방·경혈·고전 연결</span></nav><div class="archive-reading-tools"><nav aria-label="본문 빠른 이동"><a href="#ontology-data">근거·출처 확인</a></nav></div><h1 id="_1">한의학 지식망<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
 <p>한의학 지식망은 <strong>증상·변증·본초·처방·경혈·고전·연구를 관계와 출처에 따라 연결한 안내</strong>입니다. 지금 알고 있는 증상이나 약재 이름에서 시작해 처방의 구성, 치료의 선택 이유, 고전 기록과 현대 연구까지 확인할 수 있습니다. 질환별 감별·치료는 해당 본문에서, 여러 문서를 함께 비교해야 하는 배합·배혈·출전의 관계는 이 지식망에서 살펴봅니다.</p>
 <h2 id="ontology">한의학 온톨로지의 기반<a class="headerlink" href="#ontology" title="Permanent link">&para;</a></h2>
 <p>온톨로지(Ontology)는 한 분야의 개념과 속성, 개념 사이의 관계를 명확하게 정의하여 지식을 공유하고 컴퓨터도 해석할 수 있도록 표현하는 체계입니다. 한의학에서는 ‘인삼’, ‘사군자탕’, ‘기허’, ‘족삼리’를 각각 어떤 종류의 개념으로 다루고, 무엇으로 연결하는지 설명하는 일이 그 출발점입니다. <a href="https://www.w3.org/TR/owl2-overview/">온톨로지 개념 참고: W3C OWL 2 개요</a></p>
@@ -4887,7 +4906,7 @@
 </tbody>
 </table>
 <h2 id="relation-examples">관계를 실제 사례로 이해하기<a class="headerlink" href="#relation-examples" title="Permanent link">&para;</a></h2>
-<p><strong>‘무엇이 무엇과 연결되는가’에 더해 ‘어떤 관계인가’를 확인하면</strong> 같은 문서를 서로 다른 질문에 활용할 수 있습니다. 아래 관계 이름은 본문을 이해하기 위한 설명입니다.</p>
+<p><strong>‘무엇이 무엇과 연결되는가’에 더해 ‘어떤 관계인가’를 확인하면</strong> 같은 문서를 서로 다른 질문에 활용할 수 있습니다. 구성·소속·수록형 관계 가운데 본문에서 확인한 항목은 아래 <a href="#ontology-data">온톨로지 데이터</a>에도 출처와 조건을 함께 제공합니다.</p>
 <table>
 <thead>
 <tr>
@@ -4930,6 +4949,51 @@
 </tbody>
 </table>
 <p>예를 들어 ‘인삼이 들어간 처방’을 찾는 질문은 <strong>구성 관계</strong>로 답하고, ‘식욕저하와 오심이 함께 있을 때 처방의 차이’를 묻는 질문은 <strong>증후·배합 관계</strong>로 살핍니다. ‘그 처방을 사용한 연구 결과’는 <strong>해당 연구의 대상과 치료 조건</strong>까지 확인합니다.</p>
+<h2 id="ontology-data">출처를 함께 담은 온톨로지 데이터<a class="headerlink" href="#ontology-data" title="Permanent link">&para;</a></h2>
+<p><a href="../assets/ai/ontology.jsonld">온톨로지 JSON-LD</a>는 <strong>개념의 이름·종류·대표 문서와 관계의 출처·적용 범위</strong>를 함께 제공합니다. 사군자탕·육군자탕의 구성, 산조인탕의 동명 이방, 기허의 처방 맥락, 족삼리의 경맥 소속, 《금궤요략》의 조문·처방 관계를 먼저 정리했습니다. 전체 문서의 탐색 연결은 기존 <a href="../assets/ai/knowledge-graph.json">지식 그래프</a>에서 확인할 수 있습니다.</p>
+<table>
+<thead>
+<tr>
+<th>관계 이름</th>
+<th>뜻</th>
+<th>출처와 함께 확인하는 조건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>containsHerb</code></td>
+<td>특정 처방 수록형에 포함된 본초</td>
+<td>수록본·법제·기본 약미와 달일 때 더하는 재료</td>
+</tr>
+<tr>
+<td><code>sharesFormulaStructureWith</code></td>
+<td>두 처방이 공유하는 기본 약미 골격</td>
+<td>수록본마다 다른 약량·제법과 추가 약재</td>
+</tr>
+<tr>
+<td><code>sharesNameWith</code></td>
+<td>이름이 같은 서로 다른 구성</td>
+<td>산조인탕 금궤요략 5미형과 동의보감 몽문 7미형·생강 추가</td>
+</tr>
+<tr>
+<td><code>hasTraditionalPatternContext</code></td>
+<td>처방을 설명하는 전통 변증의 맥락</td>
+<td>기허 가운데 식욕·기력·비위허약을 함께 보는 조건</td>
+</tr>
+<tr>
+<td><code>belongsToMeridian</code></td>
+<td>경혈의 소속 경맥</td>
+<td>족삼리 ST36과 족양명위경의 분류 관계</td>
+</tr>
+<tr>
+<td><code>recordsFormula</code></td>
+<td>고전 조문에 명시된 처방 수록형</td>
+<td>서명·편목·조문과 해당 구성</td>
+</tr>
+</tbody>
+</table>
+<p><strong>이름이 같아도 수록형의 식별자는 각각 유지합니다.</strong> 《금궤요략》 산조인탕과 《동의보감》 산조인탕은 같은 문서 안에서도 서로 다른 개념으로 연결됩니다. 인삼·감초 같은 본초 개념과 처방 안에서의 거로·자(炙) 등 가공 조건도 나누어 기록합니다. 이렇게 하면 ‘어떤 산조인탕에 인삼이 들어가는가’, ‘육군자탕에서 생강·대조는 어떻게 기록되는가’처럼 출전과 구성을 함께 묻는 질문을 구체화할 수 있습니다.</p>
+<p>개념 이름과 별칭은 <a href="https://www.w3.org/TR/skos-reference/">W3C SKOS</a>로 표현합니다. 각 관계는 주체·관계명·대상과 함께 <strong>본문 출처 주소와 적용 조건</strong>을 가진 <code>rdf:Statement</code>로 제공합니다. 관계를 이용할 때는 이 다섯 항목을 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 <a href="../assets/ai/knowledge-manifest.json">매니페스트</a>의 <code>ontology</code>에서 확인합니다. <a href="../ai/site-structure/#ontology-retrieval">AI·검색도구의 이용 순서</a></p>
 <h2 id="starting-points">어디에서 시작할까요?<a class="headerlink" href="#starting-points" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -5072,7 +5136,7 @@
 </ul>
 <p>검증할 원자료가 필요하면 <a href="../research/references/">참고문헌 데이터베이스</a>, 개념이 낯설면 <a href="../diagnostics/">진단·변증</a>, 사람과 약재의 이야기를 읽고 싶다면 <a href="../classical-stories/">민성의담</a>으로 이어갈 수 있습니다.</p>
 <h3 id="knowledge-reuse">검색·AI 자료로 이어지는 연결<a class="headerlink" href="#knowledge-reuse" title="Permanent link">&para;</a></h3>
-<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="a96b923f6cd1" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="4a8516fe0c27" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 

@@ -75,6 +75,10 @@
     
   
   
+  
+    <link rel="describedby" type="application/ld+json" href="../../assets/ai/ontology.jsonld" title="한의학 온톨로지 — 출처 기반 개념·관계" />
+  
+  
   <meta name="google-site-verification" content="lQGiH8kyade_mMZ43jkTjY_zlgYdIhI-aNUg0w5pvfc" />
 
   <link rel="alternate" type="application/json" title="문서 읽기 자료 (JSON)" href="https://wiki.minseong.co.kr/assets/ai/pages/ai/site-structure/index.json">
@@ -89,9 +93,9 @@
 <meta name="twitter:title" content="AI·검색엔진용 사이트 구조">
 <meta name="twitter:description" content="민성 한의학 아카이브의 임상 허브·질환 본문의 통합 근거·본초와 처방 비교·경혈 탐색·사상의학·고전·민성의담·학습·24절기 생활 카드를 탐색하고 페이지별 JSON·대표 주소·출처를 확인하는 방법을 안내합니다.">
 <meta name="archive:document-id" content="MSA-9561CC9BC7568575">
-<meta name="archive:text-sha256" content="9eb533bc605ca663debdc029e45b8532a13741d20e414af78593934c61ab40f7">
-<meta name="archive:source-sha256" content="9a047bc59debc7007499daf8381e299830e7390fe222b7ad692a7bb3ace1d284">
-<meta name="archive:commit" content="366d93987e99c9a00e233360956074d00fe0ad95">
+<meta name="archive:text-sha256" content="cfa0c57e11f24c041f380280c1a6027bd740dd37fcd8fcc1be080b84e4c72996">
+<meta name="archive:source-sha256" content="538fee2f2db41d413825b9754476f0e366abf7944e467d7e41ded20f45293278">
+<meta name="archive:commit" content="df5bb07be460431619b5047c35d967cad65e6f78">
 </head>
   
   
@@ -2025,6 +2029,17 @@
         
       </ul>
     </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ontology-retrieval" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        한의학 온톨로지에서 관계 확인하기
+      
+    </span>
+  </a>
   
 </li>
         
@@ -5371,6 +5386,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#ontology-retrieval" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        한의학 온톨로지에서 관계 확인하기
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -6025,6 +6051,44 @@
 </table>
 <p>제목·본문의 일치 여부는 검색 결과의 순서보다 먼저 확인합니다. <a href="../../guide/citation-policy/#source-access">출처 확인 범위</a>와 <a href="../../guide/citation-policy/#outcome-interpretation">결과 수치 해석</a>을 함께 적용하면 요약 과정에서 근거의 범위를 유지할 수 있습니다. 페이지별 JSON은 공개 본문의 읽기 자료이며, 검색 질의를 실행하는 API나 진단·처방을 반환하는 서비스로 제공하는 것은 아닙니다.</p>
 <p><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json">지식 그래프</a>는 문서 개체·동의어·분류·내부 연결을 탐색하는 자료이고, <a href="https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json">매니페스트</a>는 해당 빌드의 문서·관계 수와 무결성을 확인하는 자료입니다. 개별 주장을 인용할 때는 JSON 주소보다 원문 HTML의 해당 절과 연구 출처를 표시합니다. <a href="../../ai-index/#_17">데이터별 안내</a> · <a href="https://wiki.minseong.co.kr/llms.txt">llms.txt</a></p>
+<h3 id="ontology-retrieval">한의학 온톨로지에서 관계 확인하기<a class="headerlink" href="#ontology-retrieval" title="Permanent link">&para;</a></h3>
+<p><a href="../../assets/ai/ontology.jsonld">온톨로지 JSON-LD</a>는 기존 본문에서 선별한 <strong>본초·처방 수록형·변증·경혈·경맥·고전 조문</strong>을 개념으로 구분합니다. 문서 링크를 모은 <code>knowledge-graph.json</code>과 함께 사용하되, 출전별 구성이나 소속 관계를 묻는 질문은 <a href="../../network/#ontology-data">관계 정의</a>와 연결된 본문을 확인합니다.</p>
+<table>
+<thead>
+<tr>
+<th>항목</th>
+<th>확인 방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>개념 식별자 <code>@id</code></td>
+<td><code>ontology.jsonld#</code> 뒤의 고유 이름으로 개념을 구별. 문서 주소와 개념 식별자는 역할을 나눔</td>
+</tr>
+<tr>
+<td><code>skos:prefLabel</code> · <code>skos:altLabel</code></td>
+<td>대표 이름과 별칭으로 후보 검색. 같은 별칭이 여러 수록형에 있을 수 있으므로 출전을 비교</td>
+</tr>
+<tr>
+<td><code>@type</code> · <code>foaf:page</code></td>
+<td>개념의 종류와 내용을 확인할 대표 본문·해당 절</td>
+</tr>
+<tr>
+<td><code>rdf:Statement</code></td>
+<td><code>rdf:subject</code>·<code>rdf:predicate</code>·<code>rdf:object</code>를 한 관계로 읽음</td>
+</tr>
+<tr>
+<td><code>dcterms:source</code> · <code>skos:scopeNote</code></td>
+<td>관계를 확인한 본문과 수록본·법제·동반 증후 등의 조건</td>
+</tr>
+<tr>
+<td>매니페스트의 <code>ontology</code></td>
+<td>현재 제공하는 개념·관계·관계 유형 수와 파일 SHA-256</td>
+</tr>
+</tbody>
+</table>
+<p>예를 들어 ‘산조인탕에 인삼이 들어가는가’는 먼저 두 수록형을 찾고, 각각의 <code>foaf:page</code>에서 약미를 대조합니다. 현재 데이터는 《금궤요략》 5미형의 구성 관계를 정리했으며, 《동의보감》형의 전체 약미는 연결한 본문 표에서 확인합니다. <strong>수록되지 않은 관계는 아직 구조화하지 않은 정보</strong>로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.</p>
+<p>관계는 조건과 출처를 보존하는 RDF 재구체화 방식으로 제공하므로, 도구는 <code>rdf:Statement</code>의 다섯 필드를 함께 읽습니다. 별칭의 일치, 공통 본초, 경맥 소속을 서로 같은 개념이나 동일한 치료효과라는 관계로 확장하지 않습니다. 약량·제형·연구 제제가 필요한 질문은 대표 본문과 실제 연구까지 확인합니다. <a href="https://www.w3.org/TR/skos-reference/">SKOS 표준</a> · <a href="https://www.w3.org/TR/rdf11-mt/#reification">RDF 관계 진술 표현</a></p>
 <h2 id="_2">문서 주소와 출처<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <ul>
 <li>문서의 대표 주소와 제목 링크로 내용을 공유할 수 있습니다.</li>
@@ -6037,7 +6101,7 @@
 </ul>
 <p><span id="robotstxt"></span></p>
 <h2 id="_3">최종 구조<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="9eb533bc605c" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="cfa0c57e11f2" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 

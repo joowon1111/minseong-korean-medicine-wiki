@@ -71,6 +71,10 @@
     
   
   
+  
+    <link rel="describedby" type="application/ld+json" href="../assets/ai/ontology.jsonld" title="한의학 온톨로지 — 출처 기반 개념·관계" />
+  
+  
   <meta name="google-site-verification" content="lQGiH8kyade_mMZ43jkTjY_zlgYdIhI-aNUg0w5pvfc" />
 
   <link rel="alternate" type="application/json" title="문서 읽기 자료 (JSON)" href="https://wiki.minseong.co.kr/assets/ai/pages/ai-index/index.json">
@@ -85,9 +89,9 @@
 <meta name="twitter:title" content="민성 한의학 아카이브 핵심 색인">
 <meta name="twitter:description" content="수면·신경, 소화·간담·췌장, 호흡·인후·성대, 순환기·심혈관, 비뇨·여성·대사·회복 허브에서 본초·방제·침구·고전·임상근거·7과목 학습·하루 한의학과 출처를 찾는 핵심 색인입니다.">
 <meta name="archive:document-id" content="MSA-29D9A9527E7E2033">
-<meta name="archive:text-sha256" content="2a3ef1e8ea0e05e6d4e9310c0570e210e0eff7e2d4581e887e27bdb1c6bfdf55">
-<meta name="archive:source-sha256" content="8a1c579a38d8f6da88879e659a3bdee6c9d54f6ba35435b1fd03c3f07e530333">
-<meta name="archive:commit" content="366d93987e99c9a00e233360956074d00fe0ad95">
+<meta name="archive:text-sha256" content="4beaa3e379f91f3acdab654c741de75f45aa8497b7996b60c28a4927852119bc">
+<meta name="archive:source-sha256" content="c179ab283e7f72bc2a3a11973251f5f3958fb9f7d7e7be7ff3b1602de1fae35f">
+<meta name="archive:commit" content="df5bb07be460431619b5047c35d967cad65e6f78">
 </head>
   
   
@@ -2445,6 +2449,11 @@
 <td><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json">knowledge-graph.json</a></td>
 </tr>
 <tr>
+<td>한의학 온톨로지</td>
+<td>선별한 개념과 구성·소속·수록 관계를 출처·조건과 함께 확인</td>
+<td><a href="https://wiki.minseong.co.kr/assets/ai/ontology.jsonld">ontology.jsonld</a></td>
+</tr>
+<tr>
 <td>스키마</td>
 <td>각 필드와 데이터 형식 확인</td>
 <td><a href="https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json">knowledge-schema.json</a></td>
@@ -2457,6 +2466,7 @@
 </tbody>
 </table>
 <p>한 주제를 읽을 때는 페이지 색인의 <code>url</code>·<code>title</code>·<code>document</code>에서 해당 문서를 고르고, <code>document</code>가 가리키는 페이지별 JSON을 사용합니다. 각 HTML의 <code>link rel="alternate" type="application/json"</code>에도 같은 주소가 표시됩니다. JSON은 빌드한 본문·대표 주소·제목 앵커·연결 자료를 담습니다. <code>sections</code>에서는 소제목별 본문과 그 위치의 링크를 함께 확인할 수 있습니다. <a href="../ai/site-structure/#section-retrieval">절별 읽기와 출전 확인</a>에 따라 앞뒤 문맥과 실제 원출처를 확인하고, 인용할 때는 그 문서의 HTML 주소로 돌아갑니다. 전체 관계를 탐색할 때는 지식 그래프를 사용합니다.</p>
+<p>처방 구성이나 경혈 소속을 묻는 질문에는 <a href="../network/#ontology-data">온톨로지 관계 정의</a>를 함께 확인합니다. 같은 이름의 처방은 수록본별 개념으로 구별하고, 관계마다 연결된 본문 출처와 적용 조건을 읽습니다. <a href="../ai/site-structure/#ontology-retrieval">온톨로지 이용 방법</a></p>
 <p>문서·관계 수는 빌드된 매니페스트에서 확인합니다. 날짜별 카드나 학습문제 수는 해당 페이지의 현재 안내를 기준으로 읽습니다. <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에서 자료별 역할과 탐색 방법을 확인할 수 있습니다.</p>
 <p>이 데이터층은 다음 원칙을 따릅니다.</p>
 <ul>
@@ -2484,7 +2494,7 @@
 <li><a href="../korean-medicine-guide/">Korean Medicine Guide</a></li>
 <li><a href="../portal/maps/">전체 둘러보기</a></li>
 </ul>
-<p>민성 한의학 아카이브는 <strong>환자가 실제로 사용하는 말에서 출발해 증상과 질환을 구분하고, 한의학적 해석과 치료자료를 현대 임상근거 및 출처까지 추적할 수 있도록 연결</strong>합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai-index/" data-provenance-title="민성 한의학 아카이브 핵심 색인" data-provenance-id="MSA-29D9A9527E7E2033" data-provenance-version="2a3ef1e8ea0e" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p>민성 한의학 아카이브는 <strong>환자가 실제로 사용하는 말에서 출발해 증상과 질환을 구분하고, 한의학적 해석과 치료자료를 현대 임상근거 및 출처까지 추적할 수 있도록 연결</strong>합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai-index/" data-provenance-title="민성 한의학 아카이브 핵심 색인" data-provenance-id="MSA-29D9A9527E7E2033" data-provenance-version="4beaa3e379f9" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 

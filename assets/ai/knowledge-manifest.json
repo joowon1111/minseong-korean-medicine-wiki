@@ -2,7 +2,7 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "ab3384cbb68ed97e2b7b93b6119ccf7b75f9ba3fb1999aaaf79c5f27902126f4",
+  "content_sha256": "a2f4403f46d3f323bf924f88cb7a0eead62a027d3834816e79aefff0988cc6be",
   "entity_count": 2288,
   "entity_types": {
     "acupoint": 410,
@@ -34,6 +34,7 @@
   },
   "files": {
     "knowledge_graph": "/assets/ai/knowledge-graph.json",
+    "ontology": "/assets/ai/ontology.jsonld",
     "schema": "/assets/ai/knowledge-schema.json"
   },
   "language": "ko-KR",
@@ -41,10 +42,17 @@
     "en",
     "ko-KR"
   ],
+  "ontology": {
+    "concept_count": 19,
+    "predicate_count": 6,
+    "sha256": "cae5cf996cfbe54e920c558c2dabe8dedfdec45442196e9c7e6fa492ddb7afad",
+    "source_version": "1.0",
+    "statement_count": 22
+  },
   "red_flag_section_entities": 279,
-  "relation_count": 30777,
+  "relation_count": 30783,
   "relation_types": {
-    "links_to": 11900,
+    "links_to": 11906,
     "links_to_acupoint": 2484,
     "links_to_condition": 6009,
     "links_to_evidence": 244,
