@@ -216,6 +216,36 @@
       "aliases": [
         "手少陰心經"
       ]
+    },
+    {
+      "id": "gypsum",
+      "type": "Herb",
+      "label": "석고",
+      "page": "herbs/gypsum.md",
+      "definition": "석고의 광물 기원·규격·가공과 처방 배합을 확인하는 본초 개념.",
+      "aliases": [
+        "石膏"
+      ]
+    },
+    {
+      "id": "red-poria",
+      "type": "Herb",
+      "label": "적복령",
+      "page": "herbs/poria.md#red-poria-in-formulas",
+      "definition": "처방에 赤茯苓으로 기록된 복령 약재의 명칭. 복령·백복령·복신 표기와 약용 부위를 구분해 확인한다.",
+      "aliases": [
+        "赤茯苓"
+      ]
+    },
+    {
+      "id": "cinnamon-heart",
+      "type": "Herb",
+      "label": "계심",
+      "page": "herbs/cinnamon-bark.md#gyesim-source-name",
+      "definition": "처방에 桂心으로 기록된 약재 개념. 원문 명칭과 실제 원료의 기원·약용 부위·포제를 함께 확인한다.",
+      "aliases": [
+        "桂心"
+      ]
     }
   ],
   "predicates": {
@@ -463,6 +493,78 @@
       "source": "meridian-network/heart-meridian.md#_3",
       "scope": "신문 HT7의 표준 경맥 소속. 혈위·해부학·치료 연구는 해당 본문에서 함께 확인한다.",
       "quote": "| HT7 | [신문 HT7](../acupuncture/points/ht7-shenmen.md) |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--gypsum",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "gypsum",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다.",
+      "quote": "| [석고](../herbs/gypsum.md) · 石膏 | 2전 5푼 |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--ziziphus-seed",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "ziziphus-seed",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다.",
+      "quote": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 1전 5푼; 초(炒) |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--ginseng",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 5푼 |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--anemarrhena",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "anemarrhena",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다.",
+      "quote": "| [지모](../herbs/anemarrhena.md) · 知母 | 1전 |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--red-poria",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "red-poria",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다.",
+      "quote": "| [적복령](../herbs/poria.md#red-poria-in-formulas) · 赤茯苓 | 1전 |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--licorice",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1전 |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--cinnamon-heart",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "cinnamon-heart",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 권2 몽·의학입문 인용 수록형의 기본 7미. 산조인 초(炒), 적복령·계심의 원문 명칭과 역사적 약량을 보존한다.",
+      "quote": "| [계심](../herbs/cinnamon-bark.md#gyesim-source-name) · 桂心 | 5푼 |"
+    },
+    {
+      "id": "suanzaoren-donguibogam--containsHerb--fresh-ginger",
+      "subject": "suanzaoren-donguibogam",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/suanzaoren-tang.md#donguibogam-version",
+      "scope": "동의보감 몽문·의학입문 인용형의 전탕 보조재료. 기본 7미에 생강 3편을 더해 달인다는 기록이며, 금궤요략 심사 이본의 생강 2량과 구분한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 3편, 달일 때 더함 |"
     }
   ]
 }

@@ -156,6 +156,22 @@ class OntologyTests(unittest.TestCase):
                   and node['rdf:predicate']['@id'] == 'km:containsHerb']
         self.assertEqual(len(jinkui), 5)
         self.assertFalse(any(node['rdf:object']['@id'].endswith('#fresh-ginger') for node in jinkui))
+        donguibogam = [node for node in statements
+                       if node['rdf:subject']['@id'].endswith('#suanzaoren-donguibogam')
+                       and node['rdf:predicate']['@id'] == 'km:containsHerb']
+        ingredients = {node['rdf:object']['@id'].rsplit('#', 1)[1] for node in donguibogam}
+        self.assertEqual(ingredients, {
+            'gypsum', 'ziziphus-seed', 'ginseng', 'anemarrhena',
+            'red-poria', 'licorice', 'cinnamon-heart', 'fresh-ginger',
+        })
+        jinkui_ingredients = {node['rdf:object']['@id'].rsplit('#', 1)[1] for node in jinkui}
+        self.assertEqual(ingredients & jinkui_ingredients,
+                         {'ziziphus-seed', 'anemarrhena', 'licorice'})
+        ginger = next(node for node in donguibogam
+                      if node['rdf:object']['@id'].endswith('#fresh-ginger'))
+        self.assertIn('생강 3편', ginger['skos:scopeNote']['@value'])
+        self.assertTrue(all(node['dcterms:source']['@id'].endswith('#donguibogam-version')
+                            for node in donguibogam))
 
 
 if __name__ == '__main__':
