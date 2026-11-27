@@ -2,6 +2,57 @@
   "version": "1.0",
   "concepts": [
     {
+      "id": "gongjin-shizhai",
+      "type": "Formula",
+      "label": "공진단 — 시재백일선방 수록형",
+      "page": "formulas/gongjin-dan.md#source-dose-original",
+      "definition": "시재백일선방 권18의 녹용·산수유·당귀 각 4량과 사향 반량을 기록한 네 약미 구성.",
+      "aliases": [
+        "공진단",
+        "拱辰丹"
+      ]
+    },
+    {
+      "id": "moschus",
+      "type": "Herb",
+      "label": "사향",
+      "page": "herbs/moschus.md",
+      "definition": "사향노루 유래 사향의 기원·규격·성분과 배합을 확인하는 본초 개념.",
+      "aliases": [
+        "麝香"
+      ]
+    },
+    {
+      "id": "deer-antler",
+      "type": "Herb",
+      "label": "녹용",
+      "page": "herbs/cervi-parvum-cornu.md",
+      "definition": "골질화가 진행되기 전 사슴의 어린 뿔을 약용하는 본초 개념.",
+      "aliases": [
+        "鹿茸"
+      ]
+    },
+    {
+      "id": "cornus-fruit",
+      "type": "Herb",
+      "label": "산수유",
+      "page": "herbs/cornus-fructus.md",
+      "definition": "산수유의 기원·약용 과육·가공과 배합을 확인하는 본초 개념.",
+      "aliases": [
+        "山茱萸"
+      ]
+    },
+    {
+      "id": "angelica",
+      "type": "Herb",
+      "label": "당귀",
+      "page": "herbs/angelica.md",
+      "definition": "처방의 당귀 약미와 본초 문서를 연결하는 개념. 기원종과 수록본의 원문 약명을 각 출처에서 구분한다.",
+      "aliases": [
+        "當歸"
+      ]
+    },
+    {
       "id": "sijunzi-guofang",
       "type": "Formula",
       "label": "사군자탕 — 국방 수록형",
@@ -337,6 +388,42 @@
     }
   },
   "statements": [
+    {
+      "id": "gongjin-shizhai--containsHerb--deer-antler",
+      "subject": "gongjin-shizhai",
+      "predicate": "containsHerb",
+      "object": "deer-antler",
+      "source": "formulas/gongjin-dan.md#source-dose-original",
+      "scope": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다.",
+      "quote": "| [녹용](../herbs/cervi-parvum-cornu.md) · 鹿茸酥 | 4량 | 소(酥, 유제품 유지)를 이용해 굽고 털과 겉껍질 제거 | 정혈·기력을 보하고 근골을 도움 |"
+    },
+    {
+      "id": "gongjin-shizhai--containsHerb--cornus-fruit",
+      "subject": "gongjin-shizhai",
+      "predicate": "containsHerb",
+      "object": "cornus-fruit",
+      "source": "formulas/gongjin-dan.md#source-dose-original",
+      "scope": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다.",
+      "quote": "| [산수유](../herbs/cornus-fructus.md) · 山茱萸 | 4량 | 신선하고 과육이 충분하며 붉고 윤택한 원료 | 간신의 정혈을 돕고 수렴 |"
+    },
+    {
+      "id": "gongjin-shizhai--containsHerb--angelica",
+      "subject": "gongjin-shizhai",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/gongjin-dan.md#source-dose-original",
+      "scope": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 川當歸 | 4량 | 씻어 흙 제거 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "gongjin-shizhai--containsHerb--moschus",
+      "subject": "gongjin-shizhai",
+      "predicate": "containsHerb",
+      "object": "moschus",
+      "source": "formulas/gongjin-dan.md#source-dose-original",
+      "scope": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다.",
+      "quote": "| [사향](../herbs/moschus.md) · 麝香 | 반량 | 따로 분쇄 | 소량의 개규·통락축으로 원료와 규격 확인이 필요 |"
+    },
     {
       "id": "sijunzi-guofang--containsHerb--ginseng",
       "subject": "sijunzi-guofang",

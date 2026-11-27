@@ -42,6 +42,7 @@ description: 원지의 안신익지·거담개규, 거심·감초수 가공 원�
 | [귀비탕](../formulas/guibi-tang.md#donguibogam-version) | 산조인·복신과 안신, 인삼·황기·용안육과 기혈 보완 | 초기 《제생방》 8미형에는 원지·당귀가 없고 후대 추가형과 구분 |
 | [인삼양영탕](../formulas/renshen-yangrong-tang.md#five-source-variants) | 오미자·양혈약과 심신 소모를 받침 | 원지 去心·炒 등과 복령/방풍 계통 차이 |
 | [천왕보심단](../formulas/tianwang-buxin-dan.md) | 생지황·맥문동·백자인·산조인과 자음양혈·안신 | 기허 중심 귀비탕과 음혈·허열 비중 비교 |
+| [총명공진단 가감 사례](../formulas/gongjin-dan.md#chongmyeong-gongjindan) | 녹용 보익 배합에 석창포와 함께 안신·개규의 방향을 더함 | 민성한의원 안내는 목향 기반 녹용2배공진단에 원지·석창포를 추가한 구성; 실제 함량·포제 확인 |
 
 ## 관련 핵심 문서
 
