@@ -45,6 +45,7 @@ description: 석고의 청열사화·제번지갈 효능과 기분실열 주치,
 | [백호탕](../formulas/baihu-tang.md) | 지모·감초·갱미 | 기분의 성한 실열과 번갈을 청설하고 중초를 보호 |
 | [죽엽석고탕](../formulas/zhuye-shigao-tang.md) | 죽엽·인삼·맥문동·반하·갱미 | 열병 뒤 남은 열과 기음손상을 함께 살핌 |
 | [마행감석탕](../formulas/maxing-ganshi-tang.md) | 마황·행인·감초 | 폐열과 천급에서 선폐와 청열을 결합 |
+| [산조인탕의 동의보감 수록형](../formulas/suanzaoren-tang.md#donguibogam-version) | 산조인·인삼·지모·적복령·감초·계심 | 몽문의 7미 구성과 생강 추가를 확인하며 금궤요략 5미형과 비교 |
 
 석고가 등장하는 실제 고전 의안을 읽으려면 [민성의담의 소양인 호흡·배변 기록](../classical-stories/sasang/soyangin-breathing-reassessment.md)을 참고하세요. 백호탕으로 바꾼 뒤에도 밤과 다음 날의 변화를 살핀 이야기이며, 석고 단독의 효과를 검증한 자료는 아닙니다.
 
