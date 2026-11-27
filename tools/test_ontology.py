@@ -145,6 +145,24 @@ class OntologyTests(unittest.TestCase):
         for name in ('index.md', 'extraordinary-vessels.md', 'special-points/index.md'):
             self.assertNotEqual(entity_type(DOCS / 'meridian-network' / name), 'meridian')
 
+    def test_banxia_houpo_preserves_five_ingredients_and_historical_units(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        graph = {node['@id']: node for node in payload['@graph']}
+        records = [node for node in graph.values() if node['@type'] == 'rdf:Statement'
+                   and node['rdf:subject']['@id'] == RESOURCE + '#banxia-houpo-jinkui'
+                   and node['rdf:predicate']['@id'] == 'km:containsHerb']
+        self.assertEqual({node['rdf:object']['@id'].split('#')[-1] for node in records},
+                         {'pinellia', 'magnolia-bark', 'poria', 'fresh-ginger', 'perilla-leaf'})
+        for record in records:
+            self.assertIn('반하 1승은 부피', record['skos:scopeNote']['@value'])
+            self.assertIn('건소엽', record['skos:scopeNote']['@value'])
+            self.assertTrue(record['dcterms:source']['@id'].endswith('/banxia-houpo-tang/#source-dose-original'))
+        leaf = graph[RESOURCE + '#perilla-leaf']
+        self.assertIn('乾蘇葉', leaf['skos:altLabel'])
+        clause = graph[RESOURCE + '#statement-jinkui-22-005--recordsFormula--banxia-houpo-jinkui']
+        self.assertEqual(clause['rdf:object']['@id'], RESOURCE + '#banxia-houpo-jinkui')
+        self.assertTrue(clause['dcterms:source']['@id'].endswith('#clause-22-005'))
+
     def test_formulation_conditions_survive_export(self):
         payload, _ = build_ontology(self.docs, self.source)
         statements = [node for node in payload['@graph'] if node['@type'] == 'rdf:Statement']

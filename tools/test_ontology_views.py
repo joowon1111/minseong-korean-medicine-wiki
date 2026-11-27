@@ -86,8 +86,8 @@ class OntologyViews(unittest.TestCase):
     def test_herb_document_keeps_exact_ingredient_part_names(self):
         poria = views.herb_formula_table(self.payload, 'herbs/poria.md')
         rows = [line for line in poria.splitlines() if line.startswith('| <a')]
-        self.assertEqual(len(rows), 4)
-        self.assertEqual(sum('>복령</a> |' in line for line in rows), 3)
+        self.assertEqual(len(rows), 5)
+        self.assertEqual(sum('>복령</a> |' in line for line in rows), 4)
         self.assertEqual(sum('>적복령</a> |' in line for line in rows), 1)
         red = next(line for line in rows if '>적복령</a> |' in line)
         self.assertIn('동의보감 몽문 수록형', red)
@@ -95,6 +95,15 @@ class OntologyViews(unittest.TestCase):
         bark = views.herb_formula_table(self.payload, 'herbs/cinnamon-bark.md')
         self.assertIn('>계심</a>', bark)
         self.assertNotIn('>육계</a>', bark)
+
+    def test_banxia_houpo_links_use_dried_leaf_and_formula_source(self):
+        for slug, name in [('perilla-leaf', '자소엽'), ('magnolia-bark', '후박')]:
+            rendered = views.herb_formula_table(self.payload, 'herbs/' + slug + '.md')
+            rows = [line for line in rendered.splitlines() if line.startswith('| <a')]
+            self.assertEqual(len(rows), 1)
+            self.assertIn('>' + name + '</a>', rows[0])
+            self.assertIn('반하후박탕 — 금궤요략 수록형', rows[0])
+            self.assertIn('/formulas/banxia-houpo-tang/#source-dose-original', rows[0])
 
     def test_herb_lookups_preserve_formulation_context_and_exact_page(self):
         text = views.herb_formula_table(self.payload, 'herbs/ginseng.md')

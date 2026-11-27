@@ -36,6 +36,10 @@ description: 자소엽의 해표산한·행기화위와 반하후박탕·삼소�
 
 원전의 약재명과 실제 가감·제형을 확인하고, 목이물감·흉민·식후 불편과 수면 등 함께 치료할 증상을 정합니다.
 
+### 건소엽으로 기록된 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 핵심 문서 {#_5}
 
 - [목이물감·매핵기](../conditions/globus.md) · [스트레스와 소화](../autonomic/stress-digestion.md)
