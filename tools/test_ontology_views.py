@@ -15,7 +15,7 @@ class OntologyViews(unittest.TestCase):
         cls.payload, _ = build_ontology(Path('docs'), Path('data/ontology.json'))
 
     def tearDown(self):
-        views.render_for_docs.cache_clear()
+        views.on_pre_build({})
 
     def test_formula_variants_and_parts_remain_distinct(self):
         rendered = views.composition_tables(self.payload)
@@ -82,6 +82,57 @@ class OntologyViews(unittest.TestCase):
                     views.on_page_markdown(bad, page=page, config=config, files=[])
             page.file.src_uri = 'conditions/insomnia.md'
             self.assertEqual(views.on_page_markdown(views.MARKER, page=page, config=config, files=[]), views.MARKER)
+
+    def test_herb_document_keeps_exact_ingredient_part_names(self):
+        poria = views.herb_formula_table(self.payload, 'herbs/poria.md')
+        rows = [line for line in poria.splitlines() if line.startswith('| <a')]
+        self.assertEqual(len(rows), 4)
+        self.assertEqual(sum('>복령</a> |' in line for line in rows), 3)
+        self.assertEqual(sum('>적복령</a> |' in line for line in rows), 1)
+        red = next(line for line in rows if '>적복령</a> |' in line)
+        self.assertIn('동의보감 몽문 수록형', red)
+        self.assertIn('#donguibogam-version', red)
+        bark = views.herb_formula_table(self.payload, 'herbs/cinnamon-bark.md')
+        self.assertIn('>계심</a>', bark)
+        self.assertNotIn('>육계</a>', bark)
+
+    def test_herb_lookups_preserve_formulation_context_and_exact_page(self):
+        text = views.herb_formula_table(self.payload, 'herbs/ginseng.md')
+        self.assertIn('사군자탕 — 국방 수록형', text)
+        self.assertIn('육군자탕 — 의학심오 수록형', text)
+        self.assertIn('산조인탕 — 동의보감 몽문 수록형', text)
+        self.assertNotIn('산조인탕 — 금궤요략 수록형', text)
+        with self.assertRaises(ValueError):
+            views.herb_formula_table(self.payload, 'herbs/ginseng-extract.md')
+        seed = views.herb_formula_table(self.payload, 'herbs/ziziphus-seed.md')
+        self.assertIn('산조인탕 — 금궤요략 수록형', seed)
+        self.assertIn('산조인탕 — 동의보감 몽문 수록형', seed)
+
+    def test_herb_markers_are_explicit_and_fail_on_invalid_placement(self):
+        page = SimpleNamespace(file=SimpleNamespace(src_uri='herbs/poria.md'))
+        config = {'docs_dir': 'docs'}
+        with patch.object(views, 'herb_payload', return_value=self.payload):
+            text = views.on_page_markdown(views.HERB_MARKER, page=page, config=config, files=[])
+            self.assertIn('>복령</a>', text)
+            self.assertIn('>적복령</a>', text)
+            self.assertNotIn(views.HERB_MARKER, text)
+            self.assertEqual(views.on_page_markdown('Normal article', page=page, config=config, files=[]), 'Normal article')
+            with self.assertRaises(ValueError):
+                views.on_page_markdown(views.HERB_MARKER*2, page=page, config=config, files=[])
+            page.file.src_uri = 'conditions/insomnia.md'
+            with self.assertRaises(ValueError):
+                views.on_page_markdown(views.HERB_MARKER, page=page, config=config, files=[])
+
+    def test_next_build_refreshes_herb_payloads(self):
+        with patch.object(views, 'build_ontology', return_value=(self.payload, {})) as builder:
+            first = views.herb_payload('docs')
+            self.assertEqual(first, views.herb_payload('docs'))
+            self.assertEqual(builder.call_count, 1)
+            updated = deepcopy(self.payload)
+            builder.return_value = (updated, {'changed': True})
+            views.on_pre_build({})
+            self.assertIs(views.herb_payload('docs'), updated)
+            self.assertEqual(builder.call_count, 2)
 
     def test_next_build_refreshes_the_data_projection(self):
         with patch.object(views, 'build_ontology', return_value=(self.payload, {})) as builder:

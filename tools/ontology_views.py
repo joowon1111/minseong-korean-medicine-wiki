@@ -4,9 +4,10 @@ from functools import lru_cache
 from html import escape
 from pathlib import Path
 
-from ontology import build_ontology
+from ontology import BASE, build_ontology
 
 MARKER = '<!-- MINSEONG_ONTOLOGY_COMPOSITION_TABLES -->'
+HERB_MARKER = '<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->'
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -64,6 +65,41 @@ def composition_tables(payload):
     return '\n'.join(lines) + '\n'
 
 
+def herb_formula_table(payload, source_path):
+    """Select concepts by their exact document URI, retaining part identities."""
+    suffix = source_path[:-8] if source_path.endswith('/index.md') else source_path[:-3] + '/'
+    canonical = BASE + '/' + suffix
+    nodes = {node['@id']: node for node in payload['@graph']}
+    herbs = {key for key, node in nodes.items()
+             if 'km:Herb' in node.get('@type', [])
+             and node['foaf:page']['@id'].split('#', 1)[0] == canonical}
+    rows = set()
+    for node in payload['@graph']:
+        if (node['@type'] == 'rdf:Statement'
+                and node['rdf:predicate']['@id'] == 'km:containsHerb'
+                and node['rdf:object']['@id'] in herbs):
+            rows.add((node['rdf:object']['@id'], node['rdf:subject']['@id'],
+                      node['dcterms:source']['@id']))
+    if not rows:
+        raise ValueError('No explicit ontology composition records for ' + source_path)
+    def label(key):
+        return nodes[key]['skos:prefLabel']['@value']
+    lines = ['| 원문 약명 | 처방 수록형 | 구성 출처 |', '|---|---|---|']
+    for herb, formula, source in sorted(rows, key=lambda row: (label(row[0]), label(row[1]), row)):
+        lines.append('| ' + link(label(herb), nodes[herb]['foaf:page']['@id'])
+                     + ' | ' + link(label(formula), nodes[formula]['foaf:page']['@id'])
+                     + ' | ' + link('원문·구성 확인', source) + ' |')
+    lines += ['', '현재 온톨로지에 구성 관계가 등록된 수록형입니다. 원문 약량·포제와 달일 때 더하는 재료는 구성 출처에서 함께 확인합니다. '
+              + link('전체 수록형의 구성 비교', BASE + '/network/#ontology-formula-compositions') + '에서도 이어 볼 수 있습니다.', '']
+    return '\n'.join(lines)
+
+
+@lru_cache(maxsize=1)
+def herb_payload(docs_dir):
+    payload, _ = build_ontology(Path(docs_dir), ROOT / 'data/ontology.json')
+    return payload
+
+
 @lru_cache(maxsize=1)
 def render_for_docs(docs_dir):
     payload, _ = build_ontology(Path(docs_dir), ROOT / 'data/ontology.json')
@@ -72,11 +108,17 @@ def render_for_docs(docs_dir):
 
 def on_pre_build(config, **kwargs):
     render_for_docs.cache_clear()
+    herb_payload.cache_clear()
 
 
 def on_page_markdown(markdown, *, page, config, files):
     if page.file.src_uri != 'network/index.md':
-        return markdown
+        if HERB_MARKER not in markdown:
+            return markdown
+        if not page.file.src_uri.startswith('herbs/') or markdown.count(HERB_MARKER) != 1:
+            raise ValueError('Herb composition views require one marker in a herb document')
+        rendered = herb_formula_table(herb_payload(str(config['docs_dir'])), page.file.src_uri)
+        return markdown.replace(HERB_MARKER, rendered)
     if markdown.count(MARKER) != 1:
         raise ValueError('The network page needs exactly one ontology composition marker')
     return markdown.replace(MARKER, render_for_docs(str(config['docs_dir'])))

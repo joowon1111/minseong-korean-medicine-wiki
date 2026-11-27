@@ -88,6 +88,10 @@ last_reviewed: 2026-10-23
 
 [산조인탕 두 수록형의 비교표](../formulas/suanzaoren-tang.md#formula-variant-comparison)에서 산조인·지모·감초의 공통점, 인삼·석고·계심과 천궁의 차이를 함께 볼 수 있습니다. 본초 이름에서 처방을 역으로 찾을 때도 적복령·백복령·복신의 표기와 가공 조건을 따로 확인합니다.
 
+### 복령·적복령의 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 동의보감 연결
 → [《동의보감》 탕액편의 복령](../classics/donguibogam/tangyeok/poria.md)
 
