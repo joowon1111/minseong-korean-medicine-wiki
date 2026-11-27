@@ -51,6 +51,12 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 개념 이름과 별칭은 [W3C SKOS](https://www.w3.org/TR/skos-reference/)로 표현합니다. 각 관계는 주체·관계명·대상과 함께 **본문 출처 주소와 적용 조건**을 가진 `rdf:Statement`로 제공합니다. 각 관계에는 본문에서 발췌한 근거 문장·표 행도 함께 제공합니다. 관계의 조건과 근거 발췌를 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 [매니페스트](../assets/ai/knowledge-manifest.json)의 `ontology`에서 확인합니다. [AI·검색도구의 이용 순서](../ai/site-structure.md#ontology-retrieval)
 
+## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}
+
+아래 표는 현재 온톨로지에 등록된 구성 관계를 모은 것입니다. 처방 수록형에서 본초를 찾거나, 공통 본초에서 여러 처방을 비교할 수 있습니다. 원문 약명과 수록본을 유지해 같은 이름의 처방도 각각 확인합니다.
+
+<!-- MINSEONG_ONTOLOGY_COMPOSITION_TABLES -->
+
 ## 어디에서 시작할까요? {#starting-points}
 
 | 알고 있는 것 | 대표 경로 | 확인할 내용 |
