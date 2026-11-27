@@ -2,7 +2,7 @@
   "base_url": "https://wiki.minseong.co.kr",
   "code_policy": "explicit_metadata_only",
   "contains_patient_data": false,
-  "content_sha256": "8b6d135cfc4f29d14fc16d4b1b82363ef920b57c73ba16a44dafc3a9d3f1d58c",
+  "content_sha256": "10e6e4de27939e1ce7108d3c029c831195e07bbcebc01afe82bf4a95379781ce",
   "entity_count": 2288,
   "entity_types": {
     "acupoint": 410,
@@ -43,21 +43,21 @@
     "ko-KR"
   ],
   "ontology": {
-    "concept_count": 29,
+    "concept_count": 34,
     "predicate_count": 6,
-    "sha256": "364cb18c27dc722fae9a67c316145a0ec51ecae2f376f51e0e3803d3ce0c25d3",
+    "sha256": "99fefa23eba9519512f99a40f88bdb1f39df17aeff1ebc4f5e4616c403fe5aff",
     "source_version": "1.0",
-    "statement_count": 38
+    "statement_count": 42
   },
   "red_flag_section_entities": 279,
-  "relation_count": 30794,
+  "relation_count": 30799,
   "relation_types": {
     "links_to": 11908,
     "links_to_acupoint": 2485,
-    "links_to_condition": 6009,
+    "links_to_condition": 6010,
     "links_to_evidence": 244,
-    "links_to_formula": 6344,
-    "links_to_herb": 3620,
+    "links_to_formula": 6346,
+    "links_to_herb": 3622,
     "links_to_pattern": 184
   },
   "safety_section_entities": 966,

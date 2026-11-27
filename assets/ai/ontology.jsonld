@@ -223,6 +223,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#angelica",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/angelica/"
+      },
+      "skos:altLabel": [
+        "當歸"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "처방의 당귀 약미와 본초 문서를 연결하는 개념. 기원종과 수록본의 원문 약명을 각 출처에서 구분한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "당귀"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#atractylodes",
       "@type": [
         "skos:Concept",
@@ -344,6 +368,54 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cornus-fruit",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/cornus-fructus/"
+      },
+      "skos:altLabel": [
+        "山茱萸"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "산수유의 기원·약용 과육·가공과 배합을 확인하는 본초 개념."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "산수유"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#deer-antler",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/cervi-parvum-cornu/"
+      },
+      "skos:altLabel": [
+        "鹿茸"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "골질화가 진행되기 전 사슴의 어린 뿔을 약용하는 본초 개념."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "녹용"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-ginger",
       "@type": [
         "skos:Concept",
@@ -389,6 +461,31 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "인삼"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gongjin-shizhai",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "공진단",
+        "拱辰丹"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "시재백일선방 권18의 녹용·산수유·당귀 각 4량과 사향 반량을 기록한 네 약미 구성."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "공진단 — 시재백일선방 수록형"
       }
     },
     {
@@ -604,6 +701,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "후박"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#moschus",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/moschus/"
+      },
+      "skos:altLabel": [
+        "麝香"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "사향노루 유래 사향의 기원·규격·성분과 배합을 확인하는 본초 개념."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "사향"
       }
     },
     {
@@ -1036,6 +1157,98 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "금궤요략 5미 수록형을 담기울결의 후대 변증·배합 해설과 연결한다. 목 이물감·흉민·한숨·오심과 긴장·식사의 관계를 함께 살피며, 비허담습과 실제 연하곤란의 감별 및 시험 제형·연구 대상은 해당 본문에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-gongjin-shizhai--containsHerb--angelica",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [당귀](../herbs/angelica.md) · 川當歸 | 4량 | 씻어 흙 제거 | 혈을 기르면서 혈행을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#angelica"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gongjin-shizhai"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-gongjin-shizhai--containsHerb--cornus-fruit",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [산수유](../herbs/cornus-fructus.md) · 山茱萸 | 4량 | 신선하고 과육이 충분하며 붉고 윤택한 원료 | 간신의 정혈을 돕고 수렴 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cornus-fruit"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gongjin-shizhai"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-gongjin-shizhai--containsHerb--deer-antler",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [녹용](../herbs/cervi-parvum-cornu.md) · 鹿茸酥 | 4량 | 소(酥, 유제품 유지)를 이용해 굽고 털과 겉껍질 제거 | 정혈·기력을 보하고 근골을 도움 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#deer-antler"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gongjin-shizhai"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-gongjin-shizhai--containsHerb--moschus",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [사향](../herbs/moschus.md) · 麝香 | 반량 | 따로 분쇄 | 소량의 개규·통락축으로 원료와 규격 확인이 필요 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/gongjin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#moschus"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gongjin-shizhai"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "시재백일선방 권18 공진단 수록형. 녹용 소자·거모피, 산수유 신호·유육·홍윤, 천당귀 세거토를 각각 4량, 사향 별연 반량으로 기록한다. 술로 쑨 밀가루풀 환제의 제조 배합이며 현대 봉밀 환의 1환 함량과 구분한다."
       }
     },
     {

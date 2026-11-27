@@ -337,7 +337,7 @@
         },
         {
           "label": "원문 배합축",
-          "value": "녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 방향개규·행기통락 — 보하는 약력이 막히지 않도록 돕는 특징적 축"
+          "value": "녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 개규성신·활혈통경 — 보익 배합에 개규와 기혈 소통의 역할을 더하는 축"
         }
       ],
       "source": "/formulas/gongjin-dan/",
@@ -2685,10 +2685,10 @@
           "source": "/formulas/siwu-tang/"
         },
         {
-          "text": "녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 방향개규·행기통락 — 보하는 약력이 막히지 않도록 돕는 특징적 축",
-          "owner": "공진단",
-          "ownerId": "formula-gongjin-dan",
-          "source": "/formulas/gongjin-dan/"
+          "text": "양혈·유근 — 백작약·당귀·숙지황·천궁 — 소모된 혈분을 보완하고 근육의 당김과 회복을 도움 / 보기 — 황기 — 과로 뒤 무력감과 회복력 저하를 받침 / 온통·영위조화 — 계피·감초·생강·대조 — 따뜻하게 순환시키고 영위와 처방 전체를 조화",
+          "owner": "쌍화탕",
+          "ownerId": "formula-ssanghwa-tang",
+          "source": "/formulas/ssanghwa-tang/"
         },
         {
           "text": "보기축 — 인삼·백출·복령·자감초 — 비위를 돕고 기혈 회복의 기반을 마련 / 보혈축 — 숙지황·당귀·백작약·천궁 — 혈을 기르고 조화하며 순환을 보조",
@@ -2722,10 +2722,10 @@
           "source": "/formulas/bazhen-tang/"
         },
         {
-          "text": "공진단",
-          "owner": "공진단",
-          "ownerId": "formula-gongjin-dan",
-          "source": "/formulas/gongjin-dan/"
+          "text": "쌍화탕",
+          "owner": "쌍화탕",
+          "ownerId": "formula-ssanghwa-tang",
+          "source": "/formulas/ssanghwa-tang/"
         },
         {
           "text": "사물탕",
@@ -4499,6 +4499,12 @@
       "context": "구조 읽기: 영위기혈허·혈비",
       "options": [
         {
+          "text": "공진단",
+          "owner": "공진단",
+          "ownerId": "formula-gongjin-dan",
+          "source": "/formulas/gongjin-dan/"
+        },
+        {
           "text": "인삼양영탕",
           "owner": "인삼양영탕",
           "ownerId": "formula-renshen-yangrong-tang",
@@ -4515,15 +4521,9 @@
           "owner": "쌍화탕",
           "ownerId": "formula-ssanghwa-tang",
           "source": "/formulas/ssanghwa-tang/"
-        },
-        {
-          "text": "공진단",
-          "owner": "공진단",
-          "ownerId": "formula-gongjin-dan",
-          "source": "/formulas/gongjin-dan/"
         }
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "황기계지오물탕 — 구조 읽기: 영위기혈허·혈비",
       "source": "/formulas/huangqi-guizhi-wuwu-tang/"
     },
@@ -4620,19 +4620,19 @@
           "source": "/formulas/huangqi-guizhi-wuwu-tang/"
         },
         {
-          "text": "인삼양영탕",
-          "owner": "인삼양영탕",
-          "ownerId": "formula-renshen-yangrong-tang",
-          "source": "/formulas/renshen-yangrong-tang/"
-        },
-        {
           "text": "공진단",
           "owner": "공진단",
           "ownerId": "formula-gongjin-dan",
           "source": "/formulas/gongjin-dan/"
+        },
+        {
+          "text": "인삼양영탕",
+          "owner": "인삼양영탕",
+          "ownerId": "formula-renshen-yangrong-tang",
+          "source": "/formulas/renshen-yangrong-tang/"
         }
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "공진단 — 구조 읽기: 정혈·기혈을 함께 보는 환제",
       "source": "/formulas/gongjin-dan/"
     },
@@ -4680,10 +4680,10 @@
       "prompt": "공진단의 원문 배합축으로 정리된 것은?",
       "options": [
         {
-          "text": "숙지황 — 보혈·자음의 중심축으로 혈과 정을 보충 — 생지황과 바꾸지 않고 실제 가공법·수분·보관 상태 확인 / 당귀 — 혈을 보하면서 운행을 도와 보중유동의 구조 형성 — 국내·중국·일본의 기원종과 약용부위 차이를 기록 / 백작약 — 양혈렴음·유간완급으로 복부 긴장과 통증을 조절 — 백작약·적작약을 구분하고 포제 여부 확인 / 천궁 — 활혈행기하여 보혈약의 점체를 줄이고 혈행을 도움 — 기원·정유성분·절편의 건조와 보관 상태 확인",
-          "owner": "사물탕",
-          "ownerId": "formula-siwu-tang",
-          "source": "/formulas/siwu-tang/"
+          "text": "녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 개규성신·활혈통경 — 보익 배합에 개규와 기혈 소통의 역할을 더하는 축",
+          "owner": "공진단",
+          "ownerId": "formula-gongjin-dan",
+          "source": "/formulas/gongjin-dan/"
         },
         {
           "text": "인삼 — 원기·비기를 보함 — 기를 보하는 중심 / 백출 — 건비·조습 — 비위를 보하면서 습을 살핌 / 복령 — 건비·삼습 — 비위와 수습의 조절을 함께 받침 / 자감초 — 보기·조화제약 — 보기·완급을 돕고 전체 배합을 조화",
@@ -4698,14 +4698,14 @@
           "source": "/formulas/bazhen-tang/"
         },
         {
-          "text": "녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 방향개규·행기통락 — 보하는 약력이 막히지 않도록 돕는 특징적 축",
-          "owner": "공진단",
-          "ownerId": "formula-gongjin-dan",
-          "source": "/formulas/gongjin-dan/"
+          "text": "인삼 — 보기·원기 — 활동과 회복을 지지하는 기의 축 / 생지황 — 양음·생진 — 소모된 진액과 정을 보조하는 축 / 복령 — 건비·수습 — 보하는 약을 받아들이는 비위와 수분대사를 고려 / 봉밀 — 보중·윤조·완급 — 네 재료를 조화시키고 고제의 바탕을 형성",
+          "owner": "경옥고",
+          "ownerId": "formula-gyeongok-go",
+          "source": "/formulas/gyeongok-go/"
         }
       ],
-      "answer": 3,
-      "explanation": "공진단 — 원문 배합축: 녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 방향개규·행기통락 — 보하는 약력이 막히지 않도록 돕는 특징적 축",
+      "answer": 0,
+      "explanation": "공진단 — 원문 배합축: 녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 개규성신·활혈통경 — 보익 배합에 개규와 기혈 소통의 역할을 더하는 축",
       "source": "/formulas/gongjin-dan/"
     },
     {
@@ -4714,19 +4714,13 @@
       "category": "보기·기혈·회복",
       "kind": "recall",
       "prompt": "원문의 다음 설명과 연결된 학습 항목은?",
-      "context": "원문 배합축: 녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 방향개규·행기통락 — 보하는 약력이 막히지 않도록 돕는 특징적 축",
+      "context": "원문 배합축: 녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 개규성신·활혈통경 — 보익 배합에 개규와 기혈 소통의 역할을 더하는 축",
       "options": [
         {
-          "text": "공진단",
-          "owner": "공진단",
-          "ownerId": "formula-gongjin-dan",
-          "source": "/formulas/gongjin-dan/"
-        },
-        {
-          "text": "사물탕",
-          "owner": "사물탕",
-          "ownerId": "formula-siwu-tang",
-          "source": "/formulas/siwu-tang/"
+          "text": "경옥고",
+          "owner": "경옥고",
+          "ownerId": "formula-gyeongok-go",
+          "source": "/formulas/gyeongok-go/"
         },
         {
           "text": "팔물탕",
@@ -4739,10 +4733,16 @@
           "owner": "사군자탕",
           "ownerId": "formula-sijunzi-tang",
           "source": "/formulas/sijunzi-tang/"
+        },
+        {
+          "text": "공진단",
+          "owner": "공진단",
+          "ownerId": "formula-gongjin-dan",
+          "source": "/formulas/gongjin-dan/"
         }
       ],
-      "answer": 0,
-      "explanation": "공진단 — 원문 배합축: 녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 방향개규·행기통락 — 보하는 약력이 막히지 않도록 돕는 특징적 축",
+      "answer": 3,
+      "explanation": "공진단 — 원문 배합축: 녹용 — 보익·정혈·신양·근골 — 허약과 소모 회복의 중심축 / 당귀 — 보혈·활혈 — 혈을 보하면서 순환을 함께 고려 / 산수유 — 보간신·수렴 — 정기를 보조하고 흩어짐을 거두는 축 / 사향 — 개규성신·활혈통경 — 보익 배합에 개규와 기혈 소통의 역할을 더하는 축",
       "source": "/formulas/gongjin-dan/"
     },
     {
