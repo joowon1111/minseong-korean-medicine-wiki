@@ -728,6 +728,56 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pc6",
+      "@type": [
+        "skos:Concept",
+        "km:Acupoint"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/acupuncture/points/pc6-neiguan/"
+      },
+      "skos:altLabel": [
+        "內關",
+        "Neiguan"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "손바닥쪽 손목주름 위쪽의 두 힘줄 사이에 위치하는 수궐음심포경의 경혈."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:notation": "PC6",
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "내관 PC6"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pericardium-meridian",
+      "@type": [
+        "skos:Concept",
+        "km:Meridian"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/meridian-network/pericardium-meridian/#_3"
+      },
+      "skos:altLabel": [
+        "手厥陰心包經"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "천지 PC1에서 중충 PC9까지 9개 경혈의 소속과 유주를 정리하는 경맥."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "수궐음심포경"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#perilla-leaf",
       "@type": [
         "skos:Concept",
@@ -921,6 +971,33 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "족삼리 ST36"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#st40",
+      "@type": [
+        "skos:Concept",
+        "km:Acupoint"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/acupuncture/points/st40-fenglong/"
+      },
+      "skos:altLabel": [
+        "豊隆",
+        "豐隆",
+        "Fenglong"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "종아리 앞가쪽면 앞정강근의 가쪽 가장자리에 위치하는 족양명위경의 경혈."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:notation": "ST40",
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "풍륭 ST40"
       }
     },
     {
@@ -1528,6 +1605,29 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-pc6--belongsToMeridian--pericardium-meridian",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| PC6 | [내관 PC6](../acupuncture/points/pc6-neiguan.md) |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/meridian-network/pericardium-meridian/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pericardium-meridian"
+      },
+      "rdf:predicate": {
+        "@id": "km:belongsToMeridian"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pc6"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "표준 혈명·코드와 경맥의 소속 경혈표를 연결하는 분류 관계. KMCRIC 표준경혈 DB와 대조하며, 해부학적 위치·자극 방법·임상연구는 해당 경혈 본문에서 각각 확인한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-sijunzi-guofang--containsHerb--atractylodes",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -1663,6 +1763,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "족양명위경 전체 소속 경혈표의 ST36. 경맥 소속, 해부학적 위치, 치료 연구는 각각의 정보로 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-st40--belongsToMeridian--stomach-meridian",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| ST40 | [풍륭 ST40](../acupuncture/points/st40-fenglong.md) |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/meridian-network/stomach-meridian/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#stomach-meridian"
+      },
+      "rdf:predicate": {
+        "@id": "km:belongsToMeridian"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#st40"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "표준 혈명·코드와 경맥의 소속 경혈표를 연결하는 분류 관계. KMCRIC 표준경혈 DB와 대조하며, 해부학적 위치·자극 방법·임상연구는 해당 경혈 본문에서 각각 확인한다."
       }
     },
     {
