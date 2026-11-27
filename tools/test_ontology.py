@@ -1,6 +1,8 @@
 """Source integrity, formulation separation and qualified-assertion contracts."""
 from copy import deepcopy
 import json
+import re
+from collections import Counter
 from pathlib import Path
 import tempfile
 import unittest
@@ -9,6 +11,56 @@ from ontology import build_ontology, source_url, source_excerpt, RESOURCE
 
 
 class OntologyTests(unittest.TestCase):
+    def test_standard_memberships_cover_the_atlas_exactly_once(self):
+        from test_meridian_routes import COUNTS
+        catalog = json.loads(Path('data/acupoint_catalog.json').read_text())['points']
+        manifest = json.loads(Path('data/standard_manifest.json').read_text())
+        atlas = Path('docs/acupoint-network/standard-atlas.md').read_text()
+        atlas_rows = re.findall(r'\[([^\]]+)\]\(\.\./(acupuncture/points/[^)]+\.md)\)', atlas)
+        atlas_points = {re.search(r'([A-Z]{2}\d+)$', name)[1]: (name, path)
+                        for name, path in atlas_rows}
+        concepts = {c['id']: c for c in self.data['concepts']}
+        points = [c for c in concepts.values() if c['type'] == 'Acupoint']
+        self.assertEqual(len(points), 361)
+        self.assertEqual(len({c['notation'] for c in points}), 361)
+        self.assertEqual({c['notation'] for c in points}, set(catalog))
+        self.assertEqual(set(atlas_points), set(catalog))
+        self.assertEqual({p['code'] for p in manifest}, set(catalog))
+        for identity in manifest:
+            p = catalog[identity['code']]
+            self.assertEqual(identity, {key: p[key] for key in identity})
+        members = [s for s in self.data['statements'] if s['predicate'] == 'belongsToMeridian']
+        self.assertEqual(Counter(s['subject'] for s in members), Counter(c['id'] for c in points))
+        routes = json.loads(Path('data/meridian_routes.json').read_text())['routes']
+        route_map = {Path(r['path']).stem: r for r in routes}
+        self.assertEqual(Counter(concepts[s['subject']]['notation'].rstrip('0123456789')
+                                 for s in members), COUNTS)
+        self.assertEqual({s['object'] for s in members}, set(route_map))
+        for s in members:
+            c = concepts[s['subject']]
+            p = catalog[c['notation']]
+            route = route_map[s['object']]
+            with self.subTest(code=p['code']):
+                self.assertEqual(c['label'], p['name_ko'] + ' ' + p['code'])
+                self.assertIn(p['name_zh'], c['aliases'])
+                self.assertEqual(c['page'], p['path'])
+                self.assertEqual(p['meridian_code'], route['code'])
+                self.assertEqual(concepts[s['object']]['label'], p['meridian'])
+                self.assertEqual(s['source'], route['path'] + '#_3')
+                row = re.fullmatch(r'\| ([A-Z]+\d+) \| \[([^]]+)\]\(../([^)]*)\) \|', s['quote'])
+                self.assertIsNotNone(row)
+                self.assertEqual((row[1], row[3]), (p['code'], c['page']))
+                self.assertEqual(source_excerpt(s['source'], s['quote'], self.docs), s['quote'])
+                display = re.sub(r'\([^)]*\)', '', row[2]).removesuffix(' ' + p['code'])
+                self.assertIn(display, [p['name_ko']] + c['aliases'])
+                atlas_name, atlas_path = atlas_points[p['code']]
+                self.assertEqual(atlas_path, c['page'])
+                self.assertIn('(' + p['name_zh'] + ')', atlas_name)
+                self.assertIn(atlas_name.split('(')[0], [p['name_ko']] + c['aliases'])
+        # Exact code ranges catch missing and out-of-range points and extra points.
+        self.assertEqual(set(catalog), {prefix + str(i) for prefix, count in COUNTS.items()
+                                       for i in range(1, count + 1)})
+
     def setUp(self):
         self.docs = Path('docs')
         self.source = Path('data/ontology.json')

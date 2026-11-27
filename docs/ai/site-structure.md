@@ -338,6 +338,8 @@ last_reviewed: '2026-08-23'
 | 인삼이 들어간 처방은? | `rdf:predicate`가 `km:containsHerb`, `rdf:object`가 `ginseng`인 진술에서 주체 선택 | 현재 구조화한 `sijunzi-guofang`·`liujunzi-yixuexinwu`·`suanzaoren-donguibogam`의 출전·법제·전체 약미. 더 넓은 처방 목록은 [인삼 역탐색](../network/herb-to-formula-map.md#_2) |
 | 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui`·`suanzaoren-donguibogam`을 구별하고 `km:sharesNameWith` 진술 확인 | [금궤요략 5미형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 몽문 수록형](../formulas/suanzaoren-tang.md#donguibogam-version)의 약미 대조 |
 | 족삼리는 어느 경맥에 속하는가? | 주체 `st36`, 관계 `km:belongsToMeridian`인 진술에서 대상 `stomach-meridian` 확인 | [족양명위경의 소속 경혈표](../meridian-network/stomach-meridian.md#_3)와 [족삼리의 위치·해부학](../acupuncture/points/st36-zusanli.md) |
+| 심포경의 전체 경혈은? | 관계 `km:belongsToMeridian`, 대상 `pericardium-meridian`인 모든 진술의 주체를 선택하고 `skos:notation`의 번호순으로 정렬 | PC1–PC9의 9혈과 각 진술의 출처·근거 발췌. [경맥별 전체 소속 경혈](../network/index.md#ontology-meridian-members) |
+| 비경·임맥·독맥의 전체 경혈은? | 대상을 각각 `spleen-meridian`·`conception-vessel`·`governing-vessel`로 선택 | SP1–SP21의 21혈, CV1–CV24의 24혈, GV1–GV28의 28혈 |
 
 각 결과는 `dcterms:source`·`skos:scopeNote`·`dcterms:description`의 출처·조건·근거 발췌와 함께 읽고, 해당 개념의 `foaf:page`로 본문에 돌아갑니다. 산조인탕은 금궤요략 5미형과 동의보감 몽문의 7미·생강 추가 구성을 각각 연결했습니다. 동의보감형의 적복령·계심도 별도의 개념과 출처를 확인할 수 있습니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
 

@@ -8,6 +8,7 @@ from ontology import BASE, build_ontology
 
 MARKER = '<!-- MINSEONG_ONTOLOGY_COMPOSITION_TABLES -->'
 HERB_MARKER = '<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->'
+MERIDIAN_MARKER = '<!-- MINSEONG_ONTOLOGY_MERIDIAN_MEMBERS -->'
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -94,6 +95,38 @@ def herb_formula_table(payload, source_path):
     return '\n'.join(lines)
 
 
+def meridian_members(payload):
+    """Browse only qualified belongsToMeridian records in the shared ontology."""
+    nodes = {node['@id']: node for node in payload['@graph']}
+    groups = defaultdict(set)
+    sources = defaultdict(set)
+    for node in nodes.values():
+        if (node['@type'] != 'rdf:Statement'
+                or node['rdf:predicate']['@id'] != 'km:belongsToMeridian'):
+            continue
+        point, meridian = node['rdf:subject']['@id'], node['rdf:object']['@id']
+        if 'km:Acupoint' not in nodes[point]['@type'] or 'km:Meridian' not in nodes[meridian]['@type']:
+            raise ValueError('Invalid meridian membership view types')
+        groups[meridian].add(point)
+        sources[meridian].add(node['dcterms:source']['@id'])
+
+    def label(key):
+        return nodes[key]['skos:prefLabel']['@value']
+
+    def point_order(key):
+        notation = nodes[key]['skos:notation']
+        return (notation.rstrip('0123456789'), int(notation.lstrip('ABCDEFGHIJKLMNOPQRSTUVWXYZ')))
+
+    lines = ['| 소속 경맥 | 경혈 수 | 전체 소속 경혈 | 소속표 출처 |', '|---|---:|---|---|']
+    for meridian in sorted(groups, key=lambda key: (label(key), key)):
+        points = ' · '.join(link(label(key), nodes[key]['foaf:page']['@id'])
+                            for key in sorted(groups[meridian], key=point_order))
+        refs = ' · '.join(link('소속 경혈표', url) for url in sorted(sources[meridian]))
+        lines.append('| ' + link(label(meridian), nodes[meridian]['foaf:page']['@id'])
+                     + ' | ' + str(len(groups[meridian])) + ' | ' + points + ' | ' + refs + ' |')
+    return '\n'.join(lines) + '\n'
+
+
 @lru_cache(maxsize=1)
 def herb_payload(docs_dir):
     payload, _ = build_ontology(Path(docs_dir), ROOT / 'data/ontology.json')
@@ -121,4 +154,9 @@ def on_page_markdown(markdown, *, page, config, files):
         return markdown.replace(HERB_MARKER, rendered)
     if markdown.count(MARKER) != 1:
         raise ValueError('The network page needs exactly one ontology composition marker')
-    return markdown.replace(MARKER, render_for_docs(str(config['docs_dir'])))
+    markdown = markdown.replace(MARKER, render_for_docs(str(config['docs_dir'])))
+    if MERIDIAN_MARKER in markdown:
+        if markdown.count(MERIDIAN_MARKER) != 1:
+            raise ValueError('The network page needs one meridian membership marker')
+        markdown = markdown.replace(MERIDIAN_MARKER, meridian_members(herb_payload(str(config['docs_dir']))))
+    return markdown

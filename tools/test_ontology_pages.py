@@ -13,6 +13,27 @@ from audit_page_discovery import audit
 
 
 class OntologyPages(unittest.TestCase):
+    def test_all_meridian_pages_expose_complete_incoming_memberships(self):
+        from test_meridian_routes import COUNTS
+        routes = json.loads(Path('data/meridian_routes.json').read_text())['routes']
+        for route in routes:
+            url = BASE + '/' + route['path'][:-3] + '/'
+            page = self.pages[url]
+            graph = {node['@id']: node for node in page['payload']['@graph']}
+            statements = [graph[key] for key in page['statement_ids']
+                          if graph[key]['rdf:predicate']['@id'] == 'km:belongsToMeridian']
+            with self.subTest(meridian=route['code']):
+                self.assertEqual(len(statements), COUNTS[route['code']])
+                self.assertEqual(page['concept_ids'], [RESOURCE + '#' + Path(route['path']).stem])
+                for statement in statements:
+                    self.assertIn(statement['rdf:object']['@id'], page['concept_ids'])
+                    point = graph[statement['rdf:subject']['@id']]
+                    self.assertTrue(point['skos:notation'].startswith(route['code']))
+                    self.assertIn('dcterms:description', statement)
+                    self.assertIn('skos:scopeNote', statement)
+                    point_page = self.pages[point['foaf:page']['@id']]
+                    self.assertIn(statement['@id'], point_page['statement_ids'])
+
     @classmethod
     def setUpClass(cls):
         cls.payload, _ = build_ontology(Path('docs'), Path('data/ontology.json'))
