@@ -41,6 +41,7 @@ extra:
   generator: false
   homepage_title: 민성 한의학 아카이브 | 한의학 정보·자료·연구
 hooks:
+- tools/ontology_views.py
 - tools/daily_solar_stories.py
 - tools/page_assets.py
 - tools/acupoint_diagrams.py
