@@ -44,12 +44,12 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 | `sharesFormulaStructureWith` | 두 처방이 공유하는 기본 약미 골격 | 수록본마다 다른 약량·제법과 추가 약재 |
 | `sharesNameWith` | 이름이 같은 서로 다른 구성 | 산조인탕 금궤요략 5미형과 동의보감 몽문 7미형·생강 추가 |
 | `hasTraditionalPatternContext` | 처방을 설명하는 전통 변증의 맥락 | 기허 가운데 식욕·기력·비위허약을 함께 보는 조건 |
-| `belongsToMeridian` | 경혈의 소속 경맥 | 족삼리 ST36과 족양명위경의 분류 관계 |
+| `belongsToMeridian` | 경혈의 소속 경맥 | 족삼리 ST36–족양명위경, 신문 HT7–수소음심경의 분류 관계 |
 | `recordsFormula` | 고전 조문에 명시된 처방 수록형 | 서명·편목·조문과 해당 구성 |
 
 **이름이 같아도 수록형의 식별자는 각각 유지합니다.** 《금궤요략》 산조인탕과 《동의보감》 산조인탕은 같은 문서 안에서도 서로 다른 개념으로 연결됩니다. 인삼·감초 같은 본초 개념과 처방 안에서의 거로·자(炙) 등 가공 조건도 나누어 기록합니다. 이렇게 하면 ‘어떤 산조인탕에 인삼이 들어가는가’, ‘육군자탕에서 생강·대조는 어떻게 기록되는가’처럼 출전과 구성을 함께 묻는 질문을 구체화할 수 있습니다.
 
-개념 이름과 별칭은 [W3C SKOS](https://www.w3.org/TR/skos-reference/)로 표현합니다. 각 관계는 주체·관계명·대상과 함께 **본문 출처 주소와 적용 조건**을 가진 `rdf:Statement`로 제공합니다. 관계를 이용할 때는 이 다섯 항목을 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 [매니페스트](../assets/ai/knowledge-manifest.json)의 `ontology`에서 확인합니다. [AI·검색도구의 이용 순서](../ai/site-structure.md#ontology-retrieval)
+개념 이름과 별칭은 [W3C SKOS](https://www.w3.org/TR/skos-reference/)로 표현합니다. 각 관계는 주체·관계명·대상과 함께 **본문 출처 주소와 적용 조건**을 가진 `rdf:Statement`로 제공합니다. 각 관계에는 본문에서 발췌한 근거 문장·표 행도 함께 제공합니다. 관계의 조건과 근거 발췌를 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 [매니페스트](../assets/ai/knowledge-manifest.json)의 `ontology`에서 확인합니다. [AI·검색도구의 이용 순서](../ai/site-structure.md#ontology-retrieval)
 
 ## 어디에서 시작할까요? {#starting-points}
 

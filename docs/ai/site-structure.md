@@ -317,6 +317,7 @@ last_reviewed: '2026-08-23'
 | `@type` · `foaf:page` | 개념의 종류와 내용을 확인할 대표 본문·해당 절 |
 | `rdf:Statement` | `rdf:subject`·`rdf:predicate`·`rdf:object`를 한 관계로 읽음 |
 | `dcterms:source` · `skos:scopeNote` | 관계를 확인한 본문과 수록본·법제·동반 증후 등의 조건 |
+| `dcterms:description` | 해당 출처 절에서 그대로 가져온 근거 문장·표 행. 발췌와 앞뒤 문맥을 함께 확인 |
 | 매니페스트의 `ontology` | 현재 제공하는 개념·관계·관계 유형 수와 파일 SHA-256 |
 
 #### 실제 관계 탐색 예시 {#ontology-query-examples}
@@ -329,9 +330,9 @@ last_reviewed: '2026-08-23'
 | 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui`·`suanzaoren-donguibogam`을 구별하고 `km:sharesNameWith` 진술 확인 | [금궤요략 5미형](../formulas/suanzaoren-tang.md#source-dose-original)과 [동의보감 몽문 수록형](../formulas/suanzaoren-tang.md#donguibogam-version)의 약미 대조 |
 | 족삼리는 어느 경맥에 속하는가? | 주체 `st36`, 관계 `km:belongsToMeridian`인 진술에서 대상 `stomach-meridian` 확인 | [족양명위경의 소속 경혈표](../meridian-network/stomach-meridian.md#_3)와 [족삼리의 위치·해부학](../acupuncture/points/st36-zusanli.md) |
 
-각 결과는 `dcterms:source`·`skos:scopeNote`와 함께 읽고, 해당 개념의 `foaf:page`로 본문에 돌아갑니다. 현재 산조인탕의 구성 진술은 금궤요략형을 정리했으며, 동의보감형의 전체 약미는 연결한 본문 표에서 확인합니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
+각 결과는 `dcterms:source`·`skos:scopeNote`·`dcterms:description`의 출처·조건·근거 발췌와 함께 읽고, 해당 개념의 `foaf:page`로 본문에 돌아갑니다. 현재 산조인탕의 구성 진술은 금궤요략형을 정리했으며, 동의보감형의 전체 약미는 연결한 본문 표에서 확인합니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
 
-관계는 조건과 출처를 보존하는 RDF 재구체화 방식으로 제공하므로, 도구는 `rdf:Statement`의 다섯 필드를 함께 읽습니다. 별칭의 일치, 공통 본초, 경맥 소속을 서로 같은 개념이나 동일한 치료효과라는 관계로 확장하지 않습니다. 약량·제형·연구 제제가 필요한 질문은 대표 본문과 실제 연구까지 확인합니다. [SKOS 표준](https://www.w3.org/TR/skos-reference/) · [RDF 관계 진술 표현](https://www.w3.org/TR/rdf11-mt/#reification)
+관계는 조건과 출처를 보존하는 RDF 재구체화 방식으로 제공하므로, 도구는 `rdf:Statement`의 주체·관계·대상·출처·조건과 근거 발췌를 함께 읽습니다. 근거 발췌가 인용한 절에서 사라지거나 숨김 주석·코드 예제에만 남으면 빌드를 중단하여 출처를 다시 확인하도록 합니다. 별칭의 일치, 공통 본초, 경맥 소속을 서로 같은 개념이나 동일한 치료효과라는 관계로 확장하지 않습니다. 약량·제형·연구 제제가 필요한 질문은 대표 본문과 실제 연구까지 확인합니다. [SKOS 표준](https://www.w3.org/TR/skos-reference/) · [RDF 관계 진술 표현](https://www.w3.org/TR/rdf11-mt/#reification)
 
 ## 문서 주소와 출처 {#_2}
 

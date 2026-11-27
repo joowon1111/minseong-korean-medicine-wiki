@@ -18,6 +18,34 @@ TYPES = {
 IDENTIFIER = re.compile(r'^[a-z][a-z0-9-]*$')
 
 
+def visible_source(file: Path) -> str:
+    """Return source prose without metadata, hidden markup or code examples."""
+    text = file.read_text(encoding='utf-8-sig')
+    if text.startswith('---'):
+        parts = text.split('---', 2)
+        if len(parts) == 3:
+            text = parts[2]
+    text = re.sub(r'<!--.*?(?:-->|\Z)', '', text, flags=re.S)
+    text = re.sub(r'<(script|style|template)\b[^>]*>.*?(?:</\1\s*>|\Z)',
+                  '', text, flags=re.I | re.S)
+    lines = []
+    fence = None
+    for line in text.splitlines(keepends=True):
+        marker = re.match(r'^[ ]{0,3}(`{3,}|~{3,})', line)
+        if fence:
+            if re.fullmatch(r'[ ]{0,3}' + re.escape(fence[0])
+                            + '{' + str(len(fence)) + r',}[ \t]*', line.rstrip('\r\n')):
+                fence = None
+            continue
+        if marker:
+            fence = marker.group(1)
+            continue
+        if line.startswith(('    ', '\t')):
+            continue
+        lines.append(line)
+    return re.sub(r'(`+).*?\1', '', ''.join(lines))
+
+
 def source_url(reference: str, docs: Path) -> str:
     """Require a real public Markdown source and, when used, an explicit anchor."""
     parts = urlsplit(reference)
@@ -28,8 +56,12 @@ def source_url(reference: str, docs: Path) -> str:
     file = docs / path
     if not file.is_file():
         raise ValueError(f'Missing ontology source: {reference}')
+    try:
+        file.resolve().relative_to(docs.resolve())
+    except ValueError:
+        raise ValueError(f'Ontology source escapes public docs: {reference}')
     if parts.fragment:
-        text = file.read_text(encoding='utf-8')
+        text = visible_source(file)
         anchors = set(re.findall(r'\{#([^}\s]+)\}', text))
         anchors.update(re.findall(r'''\bid=["']([^"']+)["']''', text))
         if parts.fragment not in anchors:
@@ -41,6 +73,29 @@ def source_url(reference: str, docs: Path) -> str:
         relative = relative[:-6]
     url = BASE + '/' + (relative + '/' if relative else '')
     return url + ('#' + parts.fragment if parts.fragment else '')
+
+
+def source_excerpt(reference: str, quote: str, docs: Path) -> str:
+    """Require an exact excerpt in the cited visible heading section."""
+    source_url(reference, docs)
+    if not isinstance(quote, str) or not quote.strip():
+        raise ValueError(f'Missing ontology excerpt: {reference}')
+    parts = urlsplit(reference)
+    passage = visible_source(docs / parts.path)
+    if parts.fragment:
+        heading = re.search(
+            r'^(#{1,6})[ \t]+[^\n]*\{#' + re.escape(parts.fragment)
+            + r'\}[^\n]*(?:\n|$)', passage, flags=re.M)
+        if heading is None:
+            raise ValueError(f'Ontology excerpt needs an explicit Markdown heading: {reference}')
+        passage = passage[heading.end():]
+        boundary = re.search(r'^#{1,' + str(len(heading.group(1))) + r'}[ \t]+',
+                             passage, flags=re.M)
+        if boundary:
+            passage = passage[:boundary.start()]
+    if quote not in passage:
+        raise ValueError(f'Stale/misplaced ontology excerpt: {reference}')
+    return quote
 
 
 def build_ontology(docs: Path, source: Path) -> tuple[dict, dict]:
@@ -86,7 +141,7 @@ def build_ontology(docs: Path, source: Path) -> tuple[dict, dict]:
         triples.add(key)
         if not item['scope'].strip():
             raise ValueError(f'Missing ontology scope: {item["id"]}')
-        source_url(item['source'], docs)
+        source_excerpt(item['source'], item.get('quote'), docs)
 
     namespace = RESOURCE + '#'
     scheme = namespace + 'scheme'
@@ -123,6 +178,7 @@ def build_ontology(docs: Path, source: Path) -> tuple[dict, dict]:
                       'rdf:predicate': {'@id': 'km:' + item['predicate']},
                       'rdf:object': {'@id': namespace + item['object']},
                       'dcterms:source': {'@id': source_url(item['source'], docs)},
+                      'dcterms:description': {'@value': item['quote']},
                       'skos:scopeNote': {'@value': item['scope'], '@language': 'ko'}})
     return {'@context': {
         'km': namespace, 'skos': 'http://www.w3.org/2004/02/skos/core#',
