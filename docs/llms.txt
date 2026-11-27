@@ -39,9 +39,14 @@ These are editorial entry points, not claims of exclusive content, traffic ranki
 - Manifest: https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json
 - Knowledge graph: https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json
 - Schema: https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json
+- Korean medicine ontology (SKOS / JSON-LD): https://wiki.minseong.co.kr/assets/ai/ontology.jsonld
+- Ontology relation definitions: https://wiki.minseong.co.kr/network/#ontology-data
+- Ontology retrieval: https://wiki.minseong.co.kr/ai/site-structure/#ontology-retrieval
 - Retrieval and citation guidance: https://wiki.minseong.co.kr/ai/site-structure/#section-retrieval
 - Source differences: https://wiki.minseong.co.kr/guide/editorial-policy/#source-differences
 - Document status interpretation: https://wiki.minseong.co.kr/guide/status-policy/#reading-status
+
+The ontology is a curated subset of source-qualified concepts, separate from the document navigation graph. SKOS labels identify candidate concepts; aliases may match multiple source-specific formula variants. Read each rdf:Statement using rdf:subject, rdf:predicate, rdf:object, dcterms:source and skos:scopeNote together. Reified statements preserve qualifications and are not exported as unqualified treatment assertions. Follow foaf:page to the relevant HTML passage. A missing relation means it has not been curated; verify the source text rather than assuming absence. Current coverage and the ontology checksum are in the manifest's ontology object. Neither resource availability nor llms.txt guarantees indexing, model training or citation by an AI service.
 
 The knowledge layer represents public archive pages as typed entities and internal relations. It contains no patient records. Diagnostic and terminology codes are included only when explicitly recorded in page metadata; they are not inferred from prose.
 

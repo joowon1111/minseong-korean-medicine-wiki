@@ -295,10 +295,13 @@ AI 검색에서 중요한 관계는 다음과 같습니다.
 | 페이지 색인 | 제목·대표 HTML 주소에서 해당 문서의 JSON 주소 찾기 | [page-index.json](https://wiki.minseong.co.kr/assets/ai/page-index.json) |
 | 매니페스트 | 문서·관계 수와 데이터 무결성 확인 | [knowledge-manifest.json](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json) |
 | 지식 그래프 | 문서 개체·동의어·분류·PMID·DOI·내부 관계 탐색 | [knowledge-graph.json](https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json) |
+| 한의학 온톨로지 | 선별한 개념과 구성·소속·수록 관계를 출처·조건과 함께 확인 | [ontology.jsonld](https://wiki.minseong.co.kr/assets/ai/ontology.jsonld) |
 | 스키마 | 각 필드와 데이터 형식 확인 | [knowledge-schema.json](https://wiki.minseong.co.kr/assets/ai/knowledge-schema.json) |
 | AI용 텍스트 안내 | 핵심 주제·대표 문서·출처 해석 안내 | [llms.txt](https://wiki.minseong.co.kr/llms.txt) |
 
 한 주제를 읽을 때는 페이지 색인의 `url`·`title`·`document`에서 해당 문서를 고르고, `document`가 가리키는 페이지별 JSON을 사용합니다. 각 HTML의 `link rel="alternate" type="application/json"`에도 같은 주소가 표시됩니다. JSON은 빌드한 본문·대표 주소·제목 앵커·연결 자료를 담습니다. `sections`에서는 소제목별 본문과 그 위치의 링크를 함께 확인할 수 있습니다. [절별 읽기와 출전 확인](ai/site-structure.md#section-retrieval)에 따라 앞뒤 문맥과 실제 원출처를 확인하고, 인용할 때는 그 문서의 HTML 주소로 돌아갑니다. 전체 관계를 탐색할 때는 지식 그래프를 사용합니다.
+
+처방 구성이나 경혈 소속을 묻는 질문에는 [온톨로지 관계 정의](network/index.md#ontology-data)를 함께 확인합니다. 같은 이름의 처방은 수록본별 개념으로 구별하고, 관계마다 연결된 본문 출처와 적용 조건을 읽습니다. [온톨로지 이용 방법](ai/site-structure.md#ontology-retrieval)
 
 문서·관계 수는 빌드된 매니페스트에서 확인합니다. 날짜별 카드나 학습문제 수는 해당 페이지의 현재 안내를 기준으로 읽습니다. [AI·검색엔진용 사이트 구조](ai/site-structure.md)에서 자료별 역할과 탐색 방법을 확인할 수 있습니다.
 

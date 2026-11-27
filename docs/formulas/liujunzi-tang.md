@@ -147,9 +147,15 @@ Masuy 등은 2020년 *Neurogastroenterology & Motility*에 식후불편증후군
 조기포만과 식후포만감은 릭쿤시토 투여 전보다 감소했습니다. 위약 기간에도 여러 증상이 좋아졌고, 위내압이나 식사 후 위가 늘어나는 적응 기능은 위약과 유의한 차이가 없었습니다. 위약 대비 반응을 해석할 때는 대상 선정과 평가 방식이 다른 [일본 다기관 시험](../research/formulas/rikkunshito.md)도 함께 확인합니다. [Masuy 등 · PMID 31608532](https://pubmed.ncbi.nlm.nih.gov/31608532/) · [DOI 10.1111/nmo.13739](https://doi.org/10.1111/nmo.13739)
 
 ## 처방 네트워크
-[사군자탕](sijunzi-tang.md)
-→ **육군자탕**
-→ 비위기허 + 담습 계열
+
+| 연결할 대상 | 관계와 확인할 내용 |
+|---|---|
+| [사군자탕](sijunzi-tang.md#source-dose-original) | 인삼·백출·복령·감초의 기본 골격을 공유. 국방의 등분 구성과 의학심오의 약량은 각 출전에서 확인 |
+| [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md) | 담습·오심과 그득함을 함께 살피는 추가 약미. 반하의 법제와 진피의 가공을 구성표에서 확인 |
+| [기허](../diagnostics/qi-deficiency.md#_6)·[담음](../diagnostics/phlegm-fluid.md) | 식사·기력의 저하에 오심·담습이 함께 나타나는 전통 변증 맥락 |
+| [사군자탕·육군자탕 비교](../compare/sijunzi-vs-liujunzi.md#formula-variation) | 의학심오 수록형과 일본 연구 제제의 백출·창출 및 원료 차이 |
+
+이 구성·변증 관계는 [한의학 지식망](../network/index.md#ontology-data)에서도 출처와 조건을 함께 확인할 수 있습니다.
 
 ## 관련 문서
 - [소화불량](../conditions/dyspepsia.md)
