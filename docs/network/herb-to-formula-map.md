@@ -9,6 +9,8 @@ last_reviewed: 2026-08-19
 
 **같은 약재가 어떤 처방에 들어가며, 배합에 따라 무엇이 달라지는지** 비교하는 지도입니다. 아래는 대표적인 구성 관계이며 모든 가감방을 망라한 목록은 아닙니다. 각 처방명을 누르면 전체 구성·변증·근거·복용 시 확인할 점을 이어서 볼 수 있습니다.
 
+출전별로 등록된 본초·처방 관계는 [온톨로지 구성표](index.md#ontology-composition-tables)에서 확인합니다. 아래 표는 대표 배합의 차이를 설명하며, 각 처방 문서의 원문 구성을 기준으로 합니다.
+
 ## 인삼 {#_2}
 
 [인삼](../herbs/ginseng.md)은 여러 보기 처방의 공통 재료이지만, 함께 쓰는 본초에 따라 소화·기혈·진액·수면 등 살펴보는 방향이 달라집니다.
@@ -24,7 +26,7 @@ last_reviewed: 2026-08-19
 | [소시호탕](../formulas/xiaochaihu-tang.md) | 화해소양의 배합 안에서 인삼의 정기·비위 보조 역할을 읽음 |
 | [경옥고](../formulas/gyeongok-go.md) | 생지황·복령·봉밀과 고제로 구성되어 보기와 윤조·양생을 함께 봄 |
 
-사군자탕에서 다른 처방으로 갈라지는 구조는 [인삼을 쓰는 처방](herb-to-formula-map.md#_2), 소화 증상의 차이는 [사군자탕과 육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)에서 자세히 확인합니다.
+소화 증상에 따른 배합의 차이는 [사군자탕과 육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)에서 자세히 확인합니다.
 
 ## 황기 {#_3}
 
@@ -37,7 +39,7 @@ last_reviewed: 2026-08-19
 | [귀비탕](../formulas/guibi-tang.md) | 피로·식욕저하와 불면·심계가 함께 있는 심비양허의 맥락 |
 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 팔물탕 골격에 황기·육계를 더한 기혈쌍보·온보의 방향 |
 
-배합군별 설명은 [황기를 쓰는 처방](herb-to-formula-map.md#_3), 보익 처방의 갈림점은 [보중익기탕과 십전대보탕 비교](../compare/buzhong-vs-sipjeondaebo.md)로 연결됩니다.
+보익 처방의 갈림점은 [보중익기탕과 십전대보탕 비교](../compare/buzhong-vs-sipjeondaebo.md)에서 확인합니다.
 
 ## 당귀 {#_4}
 
@@ -47,13 +49,13 @@ last_reviewed: 2026-08-19
 |---|---|
 | [사물탕](../formulas/siwu-tang.md) | 숙지황·백작약·천궁과 보혈·혈의 조화를 이루는 기본 골격 |
 | [팔물탕](../formulas/bazhen-tang.md)·[십전대보탕](../formulas/shi-quan-da-bu-tang.md) | 보혈 골격에 보기를 결합하고, 십전대보탕은 온보를 더함 |
-| [귀비탕](../formulas/guibi-tang.md) | 보기·안신 약재와 배합하여 심비의 기혈부족을 함께 봄 |
+| [귀비탕 — 동의보감 수록형](../formulas/guibi-tang.md#donguibogam-version) | 당귀·원지를 포함한 후대 구성으로 보기·양혈·안신을 함께 살핌 |
 | [독활기생탕](../formulas/duhuo-jisheng-tang.md)·[소경활혈탕](../formulas/shujing-huoxue-tang.md) | 보혈에 거풍습·통락을 결합하되 두 처방의 허손·울체 비중을 구분 |
 | [당귀수산](../formulas/danggui-susan.md) | 타박 뒤 멍·국소 압통 등 어혈의 맥락에서 활혈 배합을 살핌 |
 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기 중심 보기승양 배합에서 당귀가 혈을 보조하는 역할 |
 | [공진단](../formulas/gongjin-dan.md) | 녹용·산수유·사향과 배합해 허손·정혈을 다루는 구조 |
 
-생리·통증·보익으로 갈라지는 더 자세한 연결은 [당귀를 쓰는 처방](herb-to-formula-map.md#_4)에서 볼 수 있습니다.
+귀비탕은 《제생방》의 초기 8미형과 《동의보감》의 당귀·원지 추가형을 구분합니다. 위 당귀 연결은 《동의보감》 수록형을 기준으로 합니다.
 
 ## 녹용 {#_5}
 
@@ -61,7 +63,6 @@ last_reviewed: 2026-08-19
 
 | 연결할 문서 | 구분해서 볼 내용 |
 |---|---|
-| [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기 중심 보기승양 배합에서 당귀가 혈을 보조하는 역할 |
 | [공진단](../formulas/gongjin-dan.md) | 녹용·당귀·산수유·사향의 기본 구성과 제품·가감에 따른 차이 |
 | [녹용보약 안내](../conditions/deer-antler-tonic-guide.md) | 연령·소화·수면·기저질환에 따라 전체 처방을 검토하는 과정 |
 | [소아보약의 귀룡탕 설명](../conditions/child-parent-tonic-guide.md#guiryong-tang) | 명칭만으로 동일한 구성·용량을 뜻하지 않는다는 점과 아이의 식사·성장 경과 확인 |
@@ -82,7 +83,7 @@ last_reviewed: 2026-08-19
 | [소시호탕](../formulas/xiaochaihu-tang.md) | 시호·황금·인삼 등과 화해소양 배합을 이루며 오심·소화의 문맥을 함께 봄 |
 | [소청룡탕](../formulas/xiaoqinglong-tang.md) | 표증과 수음이 겹친 호흡기 증상 맥락에서 다른 배합을 이룸 |
 
-세부 처방군은 [반하를 쓰는 처방](herb-to-formula-map.md#_6)에서 비교합니다. 반하는 법제와 규격을 확인해야 하는 약재이므로 이 구성표를 생약 자가 배합 안내로 사용하지 않습니다.
+반하는 법제와 규격을 확인해야 하는 약재이므로 이 구성표를 생약 자가 배합 안내로 사용하지 않습니다.
 
 ## 백출·복령 {#atractylodes-poria}
 
@@ -92,11 +93,12 @@ last_reviewed: 2026-08-19
 |---|---|---|
 | 백출·복령을 함께 포함 | [사군자탕](../formulas/sijunzi-tang.md)·[육군자탕](../formulas/liujunzi-tang.md)·[팔물탕](../formulas/bazhen-tang.md) | 건비의 바탕 위에 화담이나 보혈이 더해지는 차이 |
 | 백출을 포함 | [보중익기탕](../formulas/buzhong-yiqi-tang.md) | 황기·인삼과 보기건비를 이루며 기본 구성에 복령이 반드시 들어가는 것은 아님 |
-| 백출·복령 계열을 비교 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md)·[귀비탕](../formulas/guibi-tang.md) | 기혈·온보와 안신의 비중, 복령·복신 표기를 출전별로 구분 |
-| 복령을 포함 | [오령산](../formulas/wuling-san.md) | 저령·택사·백출·계지와 이수·건비·기화의 구조를 읽음 |
+| 백출·복령을 함께 포함 | [십전대보탕](../formulas/shi-quan-da-bu-tang.md#source-dose-original) | 기혈쌍보의 골격에 황기·육계의 보기·온보를 더함 |
+| 백출·복신을 함께 포함 | [귀비탕](../formulas/guibi-tang.md#source-dose-original) | 《제생방》의 백출·복신 배합으로 건비·안신을 함께 살핌 |
+| 백출·복령을 함께 포함 | [오령산](../formulas/wuling-san.md#source-dose-original) | 저령·택사·계지와 이수·건비·기화의 구조를 읽음 |
 | 복령을 포함 | [온담탕](../formulas/wendan-tang.md)·[경옥고](../formulas/gyeongok-go.md) | 화담·이기 처방과 보익 고제 안에서 맡는 역할의 차이 |
 
-더 넓은 연결은 [백출을 쓰는 처방](herb-to-formula-map.md#atractylodes-poria)·[복령을 쓰는 처방](herb-to-formula-map.md#atractylodes-poria)으로 이어집니다. 귀비탕의 구성에 표시된 **복신**도 복령이라는 이름으로 단순히 바꾸어 읽지 않고 해당 문서의 표기를 확인합니다.
+귀비탕은 《제생방》과 《동의보감》 수록형 모두 **복신**을 기록합니다. 백출·복령을 함께 쓰는 처방과 비교할 때 해당 수록본의 약명을 유지합니다.
 
 ## 작약·숙지황 {#peony-prepared-rehmannia}
 
