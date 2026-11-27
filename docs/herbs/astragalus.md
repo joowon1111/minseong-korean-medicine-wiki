@@ -184,6 +184,10 @@ Chan 등의 2024년 다기관시험은 제2형 당뇨병과 만성콩팥병이 �
 
 각 처방 문서에서 증상과 기허의 배경, 원전 주치와 실제 제제의 차이, 현대 연구의 대상을 이어 확인할 수 있습니다.
 
+### 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 문서
 - [《동의보감》의 황기](../classics/donguibogam/tangyeok/astragalus.md)
 - [기허](../diagnostics/qi-deficiency.md)

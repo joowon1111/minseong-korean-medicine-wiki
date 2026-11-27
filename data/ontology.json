@@ -4432,6 +4432,871 @@
         "齦交"
       ],
       "notation": "GV28"
+    },
+    {
+      "id": "siwu-guofang",
+      "type": "Formula",
+      "label": "사물탕 — 국방 수록형",
+      "page": "formulas/siwu-tang.md#source-dose-original",
+      "definition": "국방의 사물탕 수록형. 해당 구성표의 4개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "사물탕",
+        "四物湯"
+      ]
+    },
+    {
+      "id": "white-peony",
+      "type": "Herb",
+      "label": "백작약",
+      "page": "herbs/white-peony.md",
+      "definition": "처방의 백작약 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "白芍藥",
+        "白芍"
+      ]
+    },
+    {
+      "id": "prepared-rehmannia",
+      "type": "Herb",
+      "label": "숙지황",
+      "page": "herbs/prepared-rehmannia.md",
+      "definition": "처방의 숙지황 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "熟乾地黃",
+        "熟地黃",
+        "地黃"
+      ]
+    },
+    {
+      "id": "bazhen-wanbing",
+      "type": "Formula",
+      "label": "팔진탕 — 만병회춘 수록형",
+      "page": "formulas/bazhen-tang.md#source-dose-original",
+      "definition": "만병회춘의 팔진탕 수록형. 해당 구성표의 8개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "팔진탕",
+        "八珍湯",
+        "팔물탕",
+        "八物湯"
+      ]
+    },
+    {
+      "id": "shiquan-guofang",
+      "type": "Formula",
+      "label": "십전대보탕 — 국방 수록형",
+      "page": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "definition": "국방의 십전대보탕 수록형. 해당 구성표의 10개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "십전대보탕",
+        "十全大補湯"
+      ]
+    },
+    {
+      "id": "cinnamon-bark",
+      "type": "Herb",
+      "label": "육계",
+      "page": "herbs/cinnamon-bark.md",
+      "definition": "처방의 육계 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "肉桂"
+      ]
+    },
+    {
+      "id": "astragalus",
+      "type": "Herb",
+      "label": "황기",
+      "page": "herbs/astragalus.md",
+      "definition": "처방의 황기 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "黃耆",
+        "黃芪"
+      ]
+    },
+    {
+      "id": "buzhong-piwei",
+      "type": "Formula",
+      "label": "보중익기탕 — 비위론 수록형",
+      "page": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "definition": "비위론의 보중익기탕 수록형. 해당 구성표의 8개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "보중익기탕",
+        "補中益氣湯"
+      ]
+    },
+    {
+      "id": "cimicifuga",
+      "type": "Herb",
+      "label": "승마",
+      "page": "herbs/cimicifuga.md",
+      "definition": "처방의 승마 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "升麻"
+      ]
+    },
+    {
+      "id": "bupleurum",
+      "type": "Herb",
+      "label": "시호",
+      "page": "herbs/bupleurum.md",
+      "definition": "처방의 시호 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "柴胡"
+      ]
+    },
+    {
+      "id": "danggui-buxue-neiwaishang",
+      "type": "Formula",
+      "label": "당귀보혈탕 — 내외상변혹론 수록형",
+      "page": "formulas/danggui-buxue-tang.md#source-dose-original",
+      "definition": "내외상변혹론의 당귀보혈탕 수록형. 해당 구성표의 2개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "당귀보혈탕",
+        "當歸補血湯"
+      ]
+    },
+    {
+      "id": "liuwei-xiaoer",
+      "type": "Formula",
+      "label": "지황환(육미지황환) — 소아약증직결 수록형",
+      "page": "formulas/liuwei-dihuang-wan.md#source-dose-original",
+      "definition": "소아약증직결의 지황환·육미지황환 수록형. 해당 구성표의 6개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "지황환",
+        "육미지황환",
+        "地黃丸",
+        "六味地黃丸"
+      ]
+    },
+    {
+      "id": "dioscorea",
+      "type": "Herb",
+      "label": "산약",
+      "page": "herbs/dioscorea.md",
+      "definition": "처방의 산약 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "乾山藥",
+        "山藥"
+      ]
+    },
+    {
+      "id": "alisma",
+      "type": "Herb",
+      "label": "택사",
+      "page": "herbs/alisma.md",
+      "definition": "처방의 택사 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "澤瀉"
+      ]
+    },
+    {
+      "id": "moutan",
+      "type": "Herb",
+      "label": "목단피",
+      "page": "herbs/moutan.md",
+      "definition": "처방의 목단피 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "牡丹皮",
+        "牡丹"
+      ]
+    },
+    {
+      "id": "white-poria",
+      "type": "Herb",
+      "label": "백복령",
+      "page": "herbs/poria.md",
+      "definition": "처방의 백복령 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "白茯苓",
+        "雪白茯苓"
+      ]
+    },
+    {
+      "id": "shenqi-jinkui",
+      "type": "Formula",
+      "label": "신기환·팔미신기환 — 금궤요략 수록형",
+      "page": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "definition": "금궤요략의 신기환·팔미신기환 수록형. 해당 구성표의 8개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "신기환",
+        "팔미신기환",
+        "팔미지황환",
+        "腎氣丸",
+        "八味腎氣丸"
+      ]
+    },
+    {
+      "id": "dried-rehmannia",
+      "type": "Herb",
+      "label": "건지황",
+      "page": "herbs/rehmannia-root-fresh.md#processing",
+      "definition": "처방의 건지황 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "乾地黃"
+      ]
+    },
+    {
+      "id": "cinnamon-twig",
+      "type": "Herb",
+      "label": "계지",
+      "page": "herbs/cinnamon-twig.md",
+      "definition": "처방의 계지 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "桂枝"
+      ]
+    },
+    {
+      "id": "aconite",
+      "type": "Herb",
+      "label": "부자",
+      "page": "herbs/aconite.md",
+      "definition": "처방의 부자 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "附子"
+      ]
+    },
+    {
+      "id": "guibi-jisheng",
+      "type": "Formula",
+      "label": "귀비탕 — 제생방 수록형",
+      "page": "formulas/guibi-tang.md#source-dose-original",
+      "definition": "제생방의 귀비탕 수록형. 해당 구성표의 8개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "귀비탕",
+        "歸脾湯"
+      ]
+    },
+    {
+      "id": "poria-spirit",
+      "type": "Herb",
+      "label": "복신",
+      "page": "herbs/poria-spirit.md",
+      "definition": "처방의 복신 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "茯神"
+      ]
+    },
+    {
+      "id": "longan",
+      "type": "Herb",
+      "label": "용안육",
+      "page": "herbs/longan.md",
+      "definition": "처방의 용안육 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "龍眼肉"
+      ]
+    },
+    {
+      "id": "aucklandia",
+      "type": "Herb",
+      "label": "목향",
+      "page": "herbs/aucklandia.md",
+      "definition": "처방의 목향 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "木香"
+      ]
+    },
+    {
+      "id": "ssanghwa-guofang",
+      "type": "Formula",
+      "label": "쌍화탕 — 국방 수록형",
+      "page": "formulas/ssanghwa-tang.md#source-dose-original",
+      "definition": "국방의 쌍화탕 수록형. 해당 구성표의 7개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "쌍화탕",
+        "雙和湯"
+      ]
+    },
+    {
+      "id": "shengmai-yixuexinwu",
+      "type": "Formula",
+      "label": "생맥산 — 의학심오 수록형",
+      "page": "formulas/shengmai-san.md#source-dose-original",
+      "definition": "의학심오의 생맥산 수록형. 해당 구성표의 3개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "생맥산",
+        "生脈散"
+      ]
+    },
+    {
+      "id": "ophiopogon",
+      "type": "Herb",
+      "label": "맥문동",
+      "page": "herbs/ophiopogon.md",
+      "definition": "처방의 맥문동 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "麥冬",
+        "麥門冬"
+      ]
+    },
+    {
+      "id": "schisandra",
+      "type": "Herb",
+      "label": "오미자",
+      "page": "herbs/schisandra.md",
+      "definition": "처방의 오미자 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "北五味",
+        "五味子"
+      ]
+    },
+    {
+      "id": "gyeongok-hongshi",
+      "type": "Formula",
+      "label": "경옥고 — 홍씨집험방 수록형",
+      "page": "formulas/gyeongok-go.md#source-dose-original",
+      "definition": "홍씨집험방의 경옥고 수록형. 해당 구성표의 4개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "경옥고",
+        "瓊玉膏"
+      ]
+    },
+    {
+      "id": "fresh-rehmannia",
+      "type": "Herb",
+      "label": "생지황",
+      "page": "herbs/fresh-rehmannia.md",
+      "definition": "처방의 생지황 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "生地黃",
+        "生地"
+      ]
+    },
+    {
+      "id": "honey",
+      "type": "Herb",
+      "label": "봉밀",
+      "page": "herbs/honey.md",
+      "definition": "처방의 봉밀 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "白沙蜜",
+        "봉밀",
+        "백밀",
+        "白蜜",
+        "蜂蜜"
+      ]
+    },
+    {
+      "id": "erchen-guofang",
+      "type": "Formula",
+      "label": "이진탕 — 국방 수록형",
+      "page": "formulas/erchen-tang.md#source-dose-original",
+      "definition": "국방의 이진탕 수록형. 해당 구성표의 4개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "이진탕",
+        "二陳湯"
+      ]
+    },
+    {
+      "id": "citrus-red-peel",
+      "type": "Herb",
+      "label": "귤홍",
+      "page": "herbs/citrus-peel.md",
+      "definition": "처방의 귤홍 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "橘紅"
+      ]
+    },
+    {
+      "id": "wendan-sanyin",
+      "type": "Formula",
+      "label": "온담탕 — 삼인극일병증방론 수록형",
+      "page": "formulas/wendan-tang.md#source-dose-original",
+      "definition": "삼인극일병증방론의 온담탕 수록형. 해당 구성표의 6개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "온담탕",
+        "溫膽湯"
+      ]
+    },
+    {
+      "id": "bamboo-shavings",
+      "type": "Herb",
+      "label": "죽여",
+      "page": "herbs/bamboo-shavings.md",
+      "definition": "처방의 죽여 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "竹茹"
+      ]
+    },
+    {
+      "id": "citrus-immature",
+      "type": "Herb",
+      "label": "지실",
+      "page": "herbs/citrus-immature.md",
+      "definition": "처방의 지실 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "枳實"
+      ]
+    },
+    {
+      "id": "pingwei-guofang",
+      "type": "Formula",
+      "label": "평위산 — 국방 수록형",
+      "page": "formulas/pingwei-san.md#source-dose-original",
+      "definition": "국방의 평위산 수록형. 해당 구성표의 4개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "평위산",
+        "平胃散"
+      ]
+    },
+    {
+      "id": "atractylodes-lancea",
+      "type": "Herb",
+      "label": "창출",
+      "page": "herbs/atractylodes-lancea.md",
+      "definition": "처방의 창출 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "蒼朮"
+      ]
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang",
+      "type": "Formula",
+      "label": "향사육군자탕 — 시방가괄 수록형",
+      "page": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "definition": "시방가괄의 향사육군자탕 수록형. 해당 구성표의 8개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "향사육군자탕",
+        "香砂六君子湯"
+      ]
+    },
+    {
+      "id": "amomum",
+      "type": "Herb",
+      "label": "사인",
+      "page": "herbs/amomum.md",
+      "definition": "처방의 사인 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "砂仁"
+      ]
+    },
+    {
+      "id": "banxia-xiexin-shanghan",
+      "type": "Formula",
+      "label": "반하사심탕 — 상한론 송본 수록형",
+      "page": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "definition": "상한론 송본의 반하사심탕 수록형. 해당 구성표의 7개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "반하사심탕",
+        "半夏瀉心湯"
+      ]
+    },
+    {
+      "id": "scutellaria",
+      "type": "Herb",
+      "label": "황금",
+      "page": "herbs/scutellaria.md",
+      "definition": "처방의 황금 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "黃芩"
+      ]
+    },
+    {
+      "id": "dried-ginger",
+      "type": "Herb",
+      "label": "건강",
+      "page": "herbs/dried-ginger.md",
+      "definition": "처방의 건강 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "乾薑"
+      ]
+    },
+    {
+      "id": "coptis",
+      "type": "Herb",
+      "label": "황련",
+      "page": "herbs/coptis.md",
+      "definition": "처방의 황련 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "黃連"
+      ]
+    },
+    {
+      "id": "xiaochaihu-shanghan",
+      "type": "Formula",
+      "label": "소시호탕 — 상한론 송본 수록형",
+      "page": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "definition": "상한론 송본의 소시호탕 수록형. 해당 구성표의 7개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "소시호탕",
+        "小柴胡湯"
+      ]
+    },
+    {
+      "id": "guizhi-shanghan",
+      "type": "Formula",
+      "label": "계지탕 — 상한론 송본 수록형",
+      "page": "formulas/guizhi-tang.md#source-dose-original",
+      "definition": "상한론 송본의 계지탕 수록형. 해당 구성표의 5개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "계지탕",
+        "桂枝湯"
+      ]
+    },
+    {
+      "id": "shaoyao-source-name",
+      "type": "Herb",
+      "label": "작약",
+      "page": "herbs/white-peony.md#processing",
+      "definition": "처방의 작약 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "芍藥"
+      ]
+    },
+    {
+      "id": "gegen-shanghan",
+      "type": "Formula",
+      "label": "갈근탕 — 상한론 송본 수록형",
+      "page": "formulas/gegen-tang.md#source-dose-original",
+      "definition": "상한론 송본의 갈근탕 수록형. 해당 구성표의 7개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "갈근탕",
+        "葛根湯"
+      ]
+    },
+    {
+      "id": "pueraria",
+      "type": "Herb",
+      "label": "갈근",
+      "page": "herbs/pueraria.md",
+      "definition": "처방의 갈근 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "葛根"
+      ]
+    },
+    {
+      "id": "ephedra",
+      "type": "Herb",
+      "label": "마황",
+      "page": "herbs/ephedra.md",
+      "definition": "처방의 마황 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "麻黃"
+      ]
+    },
+    {
+      "id": "xiaoqinglong-shanghan",
+      "type": "Formula",
+      "label": "소청룡탕 — 상한론 송본 수록형",
+      "page": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "definition": "상한론 송본의 소청룡탕 수록형. 해당 구성표의 8개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "소청룡탕",
+        "小靑龍湯",
+        "小青龍湯"
+      ]
+    },
+    {
+      "id": "asarum",
+      "type": "Herb",
+      "label": "세신",
+      "page": "herbs/asarum.md",
+      "definition": "처방의 세신 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "細辛"
+      ]
+    },
+    {
+      "id": "maimendong-jinkui",
+      "type": "Formula",
+      "label": "맥문동탕 — 금궤요략 수록형",
+      "page": "formulas/maidong-tang.md#source-dose-original",
+      "definition": "금궤요략의 맥문동탕 수록형. 해당 구성표의 6개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "맥문동탕",
+        "麥門冬湯"
+      ]
+    },
+    {
+      "id": "oryza-rice",
+      "type": "Herb",
+      "label": "갱미",
+      "page": "herbs/oryza-rice.md",
+      "definition": "처방의 갱미 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "粳米"
+      ]
+    },
+    {
+      "id": "danggui-shaoyao-jinkui",
+      "type": "Formula",
+      "label": "당귀작약산 — 금궤요략 수록형",
+      "page": "formulas/danggui-shaoyao-san.md#source-dose-original",
+      "definition": "금궤요략의 당귀작약산 수록형. 해당 구성표의 6개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "당귀작약산",
+        "當歸芍藥散"
+      ]
+    },
+    {
+      "id": "guizhi-fuling-jinkui",
+      "type": "Formula",
+      "label": "계지복령환 — 금궤요략 수록형",
+      "page": "formulas/guizhi-fuling-wan.md#source-dose-original",
+      "definition": "금궤요략의 계지복령환 수록형. 해당 구성표의 5개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "계지복령환",
+        "桂枝茯苓丸"
+      ]
+    },
+    {
+      "id": "peach-kernel",
+      "type": "Herb",
+      "label": "도인",
+      "page": "herbs/peach-kernel.md",
+      "definition": "처방의 도인 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "桃仁"
+      ]
+    },
+    {
+      "id": "duhuo-jisheng-qianjin",
+      "type": "Formula",
+      "label": "독활기생탕 — 비급천금요방 수록형",
+      "page": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "definition": "비급천금요방의 독활기생탕 수록형. 해당 구성표의 15개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "독활기생탕",
+        "獨活寄生湯"
+      ]
+    },
+    {
+      "id": "angelica-pubescens",
+      "type": "Herb",
+      "label": "독활",
+      "page": "herbs/angelica-pubescens.md",
+      "definition": "처방의 독활 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "獨活"
+      ]
+    },
+    {
+      "id": "taxillus",
+      "type": "Herb",
+      "label": "상기생",
+      "page": "herbs/taxillus.md",
+      "definition": "처방의 상기생 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "寄生"
+      ]
+    },
+    {
+      "id": "eucommia",
+      "type": "Herb",
+      "label": "두충",
+      "page": "herbs/eucommia.md",
+      "definition": "처방의 두충 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "杜仲"
+      ]
+    },
+    {
+      "id": "achyranthes",
+      "type": "Herb",
+      "label": "우슬",
+      "page": "herbs/achyranthes.md",
+      "definition": "처방의 우슬 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "牛膝"
+      ]
+    },
+    {
+      "id": "gentiana-macrophylla",
+      "type": "Herb",
+      "label": "진교",
+      "page": "herbs/gentiana-macrophylla.md",
+      "definition": "처방의 진교 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "秦艽"
+      ]
+    },
+    {
+      "id": "saposhnikovia",
+      "type": "Herb",
+      "label": "방풍",
+      "page": "herbs/saposhnikovia.md",
+      "definition": "처방의 방풍 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "防風"
+      ]
+    },
+    {
+      "id": "shujing-huoxue-wanbing",
+      "type": "Formula",
+      "label": "소경활혈탕 — 만병회춘 수록형",
+      "page": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "definition": "만병회춘의 소경활혈탕 수록형. 해당 구성표의 16개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "소경활혈탕",
+        "疏經活血湯"
+      ]
+    },
+    {
+      "id": "clematis-root",
+      "type": "Herb",
+      "label": "위령선",
+      "page": "herbs/clematis-root.md",
+      "definition": "처방의 위령선 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "威靈仙"
+      ]
+    },
+    {
+      "id": "stephania-root",
+      "type": "Herb",
+      "label": "방기",
+      "page": "herbs/stephania-root.md",
+      "definition": "처방의 방기 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "漢防己",
+        "防己"
+      ]
+    },
+    {
+      "id": "notopterygium",
+      "type": "Herb",
+      "label": "강활",
+      "page": "herbs/notopterygium.md",
+      "definition": "처방의 강활 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "羌活"
+      ]
+    },
+    {
+      "id": "angelica-dahurica",
+      "type": "Herb",
+      "label": "백지",
+      "page": "herbs/angelica-dahurica.md",
+      "definition": "처방의 백지 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "白芷"
+      ]
+    },
+    {
+      "id": "gentian-root",
+      "type": "Herb",
+      "label": "용담",
+      "page": "herbs/gentian-root.md",
+      "definition": "처방의 용담 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "龍膽草"
+      ]
+    },
+    {
+      "id": "huanglian-jiedu-yifang",
+      "type": "Formula",
+      "label": "황련해독탕 — 의방집해 수록형",
+      "page": "formulas/huanglian-jiedu-tang.md#source-dose-original",
+      "definition": "의방집해의 황련해독탕 수록형. 해당 구성표의 4개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "황련해독탕",
+        "黃連解毒湯"
+      ]
+    },
+    {
+      "id": "phellodendron",
+      "type": "Herb",
+      "label": "황백",
+      "page": "herbs/phellodendron.md",
+      "definition": "처방의 황백 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "黃柏"
+      ]
+    },
+    {
+      "id": "gardenia",
+      "type": "Herb",
+      "label": "치자",
+      "page": "herbs/gardenia.md",
+      "definition": "처방의 치자 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "梔子"
+      ]
+    },
+    {
+      "id": "wuling-shanghan",
+      "type": "Formula",
+      "label": "오령산 — 상한론 송본 수록형",
+      "page": "formulas/wuling-san.md#source-dose-original",
+      "definition": "상한론 송본의 오령산 수록형. 해당 구성표의 5개 기본 약미와 원문 약량·포제를 확인한다.",
+      "aliases": [
+        "오령산",
+        "五苓散"
+      ]
+    },
+    {
+      "id": "polyporus",
+      "type": "Herb",
+      "label": "저령",
+      "page": "herbs/polyporus.md",
+      "definition": "처방의 저령 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "豬苓",
+        "猪苓"
+      ]
+    },
+    {
+      "id": "mume-fruit",
+      "type": "Herb",
+      "label": "오매",
+      "page": "herbs/mume-fruit.md",
+      "definition": "처방의 오매 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "烏梅"
+      ]
+    },
+    {
+      "id": "guibi-donguibogam",
+      "type": "Formula",
+      "label": "귀비탕 — 동의보감 수록형",
+      "page": "formulas/guibi-tang.md#donguibogam-version",
+      "definition": "동의보감 내경편 권1 신·건망의 귀비탕. 당귀·원지를 포함한 10미와 전탕 추가 생강·대추를 기록한 수록형.",
+      "aliases": [
+        "귀비탕",
+        "歸脾湯"
+      ]
+    },
+    {
+      "id": "polygala",
+      "type": "Herb",
+      "label": "원지",
+      "page": "herbs/polygala.md",
+      "definition": "처방의 원지 약미와 본초 문서를 연결하는 개념. 원문 약명·기원·약용 부위·가공은 각 수록본과 본문에서 확인한다.",
+      "aliases": [
+        "遠志"
+      ]
+    },
+    {
+      "id": "shengmai-donguibogam",
+      "type": "Formula",
+      "label": "생맥산 — 동의보감 수록형",
+      "page": "formulas/shengmai-san.md#donguibogam-version",
+      "definition": "동의보감 잡병편 서·하서의보기의 맥문동 2전·인삼 1전·오미자 1전 구성. 의학심오의 오미자 15립형과 구별한다.",
+      "aliases": [
+        "생맥산",
+        "生脈散"
+      ]
+    },
+    {
+      "id": "gyeongok-donguibogam-ipmun",
+      "type": "Formula",
+      "label": "경옥고 — 동의보감 입문 인용 수록형",
+      "page": "formulas/gyeongok-go.md#donguibogam-variants",
+      "definition": "동의보감 입문 인용의 경옥고 배합. 생지황 16근·인삼 24량·백복령 48량·백밀 10근의 전체 제조 비율을 보존한다.",
+      "aliases": [
+        "경옥고",
+        "瓊玉膏"
+      ]
+    },
+    {
+      "id": "gyeongok-donguibogam-wisaeng",
+      "type": "Formula",
+      "label": "경옥고 — 동의보감 위생방 별기 수록형",
+      "page": "formulas/gyeongok-go.md#donguibogam-variants",
+      "definition": "동의보감 위생방 별기의 경옥고 배합. 생지황 8근·인삼 32량·백복령 24량·백밀 5근의 전체 제조 비율을 보존한다.",
+      "aliases": [
+        "경옥고",
+        "瓊玉膏"
+      ]
     }
   ],
   "predicates": {
@@ -8081,6 +8946,1932 @@
       "source": "meridian-network/governing-vessel.md#_3",
       "scope": "WHO 표준 361경혈 중 독맥 소속 GV28의 분류 관계. 혈명·한자·코드는 기존 표준 경혈 목록과 대조하고, 소속은 해당 경맥의 전체 소속 경혈표에서 확인한다.",
       "quote": "| GV28 | [은교 GV28](../acupuncture/points/gv28.md) |"
+    },
+    {
+      "id": "siwu-guofang--containsHerb--angelica",
+      "subject": "siwu-guofang",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/siwu-tang.md#source-dose-original",
+      "scope": "국방 사물탕의 구성표 기본 약미. 원문 약명 當歸, 수록량 등분, 포제 노두 제거·술에 담금·초(볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 등분 | 노두 제거·술에 담금·초(볶음) | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "siwu-guofang--containsHerb--chuanxiong",
+      "subject": "siwu-guofang",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/siwu-tang.md#source-dose-original",
+      "scope": "국방 사물탕의 구성표 기본 약미. 원문 약명 川芎, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 등분 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "siwu-guofang--containsHerb--white-peony",
+      "subject": "siwu-guofang",
+      "predicate": "containsHerb",
+      "object": "white-peony",
+      "source": "formulas/siwu-tang.md#source-dose-original",
+      "scope": "국방 사물탕의 구성표 기본 약미. 원문 약명 白芍藥, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백작약](../herbs/white-peony.md) · 白芍藥 | 등분 | 별도 포제 표기 없음 | 양혈·유근·완급의 축을 맡음 |"
+    },
+    {
+      "id": "siwu-guofang--containsHerb--prepared-rehmannia",
+      "subject": "siwu-guofang",
+      "predicate": "containsHerb",
+      "object": "prepared-rehmannia",
+      "source": "formulas/siwu-tang.md#source-dose-original",
+      "scope": "국방 사물탕의 구성표 기본 약미. 원문 약명 熟乾地黃, 수록량 등분, 포제 술을 뿌림·찜. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [숙지황](../herbs/prepared-rehmannia.md) · 熟乾地黃 | 등분 | 술을 뿌림·찜 | 음혈·정혈을 기르는 자윤한 보익축 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--ginseng",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 人參, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--atractylodes",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 白朮, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 1전 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--poria",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 茯苓, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 1전 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--angelica",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 當歸, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 1전 | 별도 포제 표기 없음 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--chuanxiong",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 川芎, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 1전 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--white-peony",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "white-peony",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 白芍, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백작약](../herbs/white-peony.md) · 白芍 | 1전 | 별도 포제 표기 없음 | 양혈·유근·완급의 축을 맡음 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--prepared-rehmannia",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "prepared-rehmannia",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 熟地黃, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [숙지황](../herbs/prepared-rehmannia.md) · 熟地黃 | 1전 | 별도 포제 표기 없음 | 음혈·정혈을 기르는 자윤한 보익축 |"
+    },
+    {
+      "id": "bazhen-wanbing--containsHerb--licorice",
+      "subject": "bazhen-wanbing",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 5푼, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 5푼 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--ginseng",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 人參, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 등분 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--cinnamon-bark",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "cinnamon-bark",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 肉桂, 수록량 등분, 포제 거친 겉껍질 제거·직접 불에 닿지 않음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [육계](../herbs/cinnamon-bark.md) · 肉桂 | 등분 | 거친 겉껍질 제거·직접 불에 닿지 않음 | 허한을 덥히고 온통의 방향을 더함 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--chuanxiong",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 川芎, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 등분 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--prepared-rehmannia",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "prepared-rehmannia",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 地黃, 수록량 등분, 포제 씻음·술을 사용해 찜·배(약한 열로 말림). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [숙지황](../herbs/prepared-rehmannia.md) · 地黃 | 등분 | 씻음·술을 사용해 찜·배(약한 열로 말림) | 음혈·정혈을 기르는 자윤한 보익축 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--poria",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 茯苓, 수록량 등분, 포제 배(약한 열로 말림). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 등분 | 배(약한 열로 말림) | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--atractylodes",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 白朮, 수록량 등분, 포제 배(약한 열로 말림). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 등분 | 배(약한 열로 말림) | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--licorice",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 등분, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 등분 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--astragalus",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "astragalus",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 黃耆, 수록량 등분, 포제 노두 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황기](../herbs/astragalus.md) · 黃耆 | 등분 | 노두 제거 | 기를 보하고 고표·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--angelica",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 川當歸, 수록량 등분, 포제 씻음·노두 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 川當歸 | 등분 | 씻음·노두 제거 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "shiquan-guofang--containsHerb--white-peony",
+      "subject": "shiquan-guofang",
+      "predicate": "containsHerb",
+      "object": "white-peony",
+      "source": "formulas/shi-quan-da-bu-tang.md#source-dose-original",
+      "scope": "국방 십전대보탕의 구성표 기본 약미. 원문 약명 白芍藥, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백작약](../herbs/white-peony.md) · 白芍藥 | 등분 | 별도 포제 표기 없음 | 양혈·유근·완급의 축을 맡음 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--astragalus",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "astragalus",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 黃耆, 수록량 五分（병심·노역열 때 1전）, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황기](../herbs/astragalus.md) · 黃耆 | 五分（병심·노역열 때 1전） | 별도 포제 표기 없음 | 기를 보하고 고표·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--licorice",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 五分, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 五分 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--ginseng",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 人參, 수록량 三分, 포제 마디 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 三分 | 마디 제거 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--angelica",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 當歸身, 수록량 三分, 포제 술을 사용해 말림 또는 햇볕에 말림. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸身 | 三分 | 술을 사용해 말림 또는 햇볕에 말림 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--citrus-peel",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 橘皮, 수록량 二分 또는 三分, 포제 흰 속껍질을 남김. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 橘皮 | 二分 또는 三分 | 흰 속껍질을 남김 | 이기·조습으로 팽만과 담습을 조절 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--cimicifuga",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "cimicifuga",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 升麻, 수록량 二分 또는 三分, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [승마](../herbs/cimicifuga.md) · 升麻 | 二分 또는 三分 | 별도 포제 표기 없음 | 청양을 들어 올리는 승거축을 맡음 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--bupleurum",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "bupleurum",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 柴胡, 수록량 二分 또는 三分, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [시호](../herbs/bupleurum.md) · 柴胡 | 二分 또는 三分 | 별도 포제 표기 없음 | 소양·간울의 기기 조절을 맡음 |"
+    },
+    {
+      "id": "buzhong-piwei--containsHerb--atractylodes",
+      "subject": "buzhong-piwei",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/buzhong-yiqi-tang.md#source-dose-original",
+      "scope": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 白朮, 수록량 三分, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 三分 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+    },
+    {
+      "id": "danggui-buxue-neiwaishang--containsHerb--astragalus",
+      "subject": "danggui-buxue-neiwaishang",
+      "predicate": "containsHerb",
+      "object": "astragalus",
+      "source": "formulas/danggui-buxue-tang.md#source-dose-original",
+      "scope": "내외상변혹론 당귀보혈탕의 구성표 기본 약미. 원문 약명 黃耆, 수록량 1량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황기](../herbs/astragalus.md) · 黃耆 | 1량 | 별도 포제 표기 없음 | 기를 보하고 고표·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "danggui-buxue-neiwaishang--containsHerb--angelica",
+      "subject": "danggui-buxue-neiwaishang",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/danggui-buxue-tang.md#source-dose-original",
+      "scope": "내외상변혹론 당귀보혈탕의 구성표 기본 약미. 원문 약명 當歸, 수록량 2전, 포제 술로 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 2전 | 술로 씻음 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "liuwei-xiaoer--containsHerb--prepared-rehmannia",
+      "subject": "liuwei-xiaoer",
+      "predicate": "containsHerb",
+      "object": "prepared-rehmannia",
+      "source": "formulas/liuwei-dihuang-wan.md#source-dose-original",
+      "scope": "소아약증직결 지황환·육미지황환의 구성표 기본 약미. 원문 약명 熟地黃, 수록량 8전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [숙지황](../herbs/prepared-rehmannia.md) · 熟地黃 | 8전 | 별도 포제 표기 없음 | 음혈·정혈을 기르는 자윤한 보익축 |"
+    },
+    {
+      "id": "liuwei-xiaoer--containsHerb--cornus-fruit",
+      "subject": "liuwei-xiaoer",
+      "predicate": "containsHerb",
+      "object": "cornus-fruit",
+      "source": "formulas/liuwei-dihuang-wan.md#source-dose-original",
+      "scope": "소아약증직결 지황환·육미지황환의 구성표 기본 약미. 원문 약명 山萸肉, 수록량 4전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [산수유](../herbs/cornus-fructus.md) · 山萸肉 | 4전 | 별도 포제 표기 없음 | 간신의 정혈을 돕고 수렴 |"
+    },
+    {
+      "id": "liuwei-xiaoer--containsHerb--dioscorea",
+      "subject": "liuwei-xiaoer",
+      "predicate": "containsHerb",
+      "object": "dioscorea",
+      "source": "formulas/liuwei-dihuang-wan.md#source-dose-original",
+      "scope": "소아약증직결 지황환·육미지황환의 구성표 기본 약미. 원문 약명 乾山藥, 수록량 4전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [산약](../herbs/dioscorea.md) · 乾山藥 | 4전 | 별도 포제 표기 없음 | 비신을 보하고 보익약의 소화 기반을 받침 |"
+    },
+    {
+      "id": "liuwei-xiaoer--containsHerb--alisma",
+      "subject": "liuwei-xiaoer",
+      "predicate": "containsHerb",
+      "object": "alisma",
+      "source": "formulas/liuwei-dihuang-wan.md#source-dose-original",
+      "scope": "소아약증직결 지황환·육미지황환의 구성표 기본 약미. 원문 약명 澤瀉, 수록량 3전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [택사](../herbs/alisma.md) · 澤瀉 | 3전 | 별도 포제 표기 없음 | 수습을 내려 정체를 조절 |"
+    },
+    {
+      "id": "liuwei-xiaoer--containsHerb--moutan",
+      "subject": "liuwei-xiaoer",
+      "predicate": "containsHerb",
+      "object": "moutan",
+      "source": "formulas/liuwei-dihuang-wan.md#source-dose-original",
+      "scope": "소아약증직결 지황환·육미지황환의 구성표 기본 약미. 원문 약명 牡丹皮, 수록량 3전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [목단피](../herbs/moutan.md) · 牡丹皮 | 3전 | 별도 포제 표기 없음 | 혈분의 열·어체를 조절 |"
+    },
+    {
+      "id": "liuwei-xiaoer--containsHerb--white-poria",
+      "subject": "liuwei-xiaoer",
+      "predicate": "containsHerb",
+      "object": "white-poria",
+      "source": "formulas/liuwei-dihuang-wan.md#source-dose-original",
+      "scope": "소아약증직결 지황환·육미지황환의 구성표 기본 약미. 원문 약명 白茯苓, 수록량 3전, 포제 껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 白茯苓 | 3전 | 껍질 제거 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--dried-rehmannia",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "dried-rehmannia",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 乾地黃, 수록량 8량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [건지황](../herbs/rehmannia-root-fresh.md) · 乾地黃 | 8량 | 별도 포제 표기 없음 | 건조 지황의 음혈축으로 숙지황 포제와 구분 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--dioscorea",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "dioscorea",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 山藥, 수록량 4량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [산약](../herbs/dioscorea.md) · 山藥 | 4량 | 별도 포제 표기 없음 | 비신을 보하고 보익약의 소화 기반을 받침 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--cornus-fruit",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "cornus-fruit",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 山茱萸, 수록량 4량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [산수유](../herbs/cornus-fructus.md) · 山茱萸 | 4량 | 별도 포제 표기 없음 | 간신의 정혈을 돕고 수렴 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--alisma",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "alisma",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 澤瀉, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [택사](../herbs/alisma.md) · 澤瀉 | 3량 | 별도 포제 표기 없음 | 수습을 내려 정체를 조절 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--moutan",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "moutan",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 牡丹皮, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [목단피](../herbs/moutan.md) · 牡丹皮 | 3량 | 별도 포제 표기 없음 | 혈분의 열·어체를 조절 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--poria",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 茯苓, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 3량 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--cinnamon-twig",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "cinnamon-twig",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 桂枝, 수록량 1량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [계지](../herbs/cinnamon-twig.md) · 桂枝 | 1량 | 별도 포제 표기 없음 | 영위·양기의 소통과 온경을 맡음 |"
+    },
+    {
+      "id": "shenqi-jinkui--containsHerb--aconite",
+      "subject": "shenqi-jinkui",
+      "predicate": "containsHerb",
+      "object": "aconite",
+      "source": "formulas/bawei-dihuang-wan.md#source-dose-original",
+      "scope": "금궤요략 신기환·팔미신기환의 구성표 기본 약미. 원문 약명 附子, 수록량 1량, 포제 포(가열 포제). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [부자](../herbs/aconite.md) · 附子 | 1량 | 포(가열 포제) | 법제를 전제로 온양·산한을 맡음 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--atractylodes",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 白朮, 수록량 1량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 1량 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--poria-spirit",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "poria-spirit",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 茯神, 수록량 1량, 포제 목질부 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복신](../herbs/poria-spirit.md) · 茯神 | 1량 | 목질부 제거 | 복령의 건비축에 안신의 방향을 더함 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--astragalus",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "astragalus",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 黃耆, 수록량 1량, 포제 노두 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황기](../herbs/astragalus.md) · 黃耆 | 1량 | 노두 제거 | 기를 보하고 고표·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--longan",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "longan",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 龍眼肉, 수록량 1량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [용안육](../herbs/longan.md) · 龍眼肉 | 1량 | 별도 포제 표기 없음 | 심비의 혈분과 안신을 받침 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--ziziphus-seed",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "ziziphus-seed",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 酸棗仁, 수록량 1량, 포제 초(볶음)·껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 1량 | 초(볶음)·껍질 제거 | 음혈을 바탕으로 심신을 안정시키는 축 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--ginseng",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 人參, 수록량 반량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 반량 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--aucklandia",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "aucklandia",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 木香, 수록량 반량, 포제 직접 불에 닿지 않음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [목향](../herbs/aucklandia.md) · 木香 | 반량 | 직접 불에 닿지 않음 | 중초의 기체·팽만을 조절 |"
+    },
+    {
+      "id": "guibi-jisheng--containsHerb--licorice",
+      "subject": "guibi-jisheng",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 2전반, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 2전반 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "ssanghwa-guofang--containsHerb--white-peony",
+      "subject": "ssanghwa-guofang",
+      "predicate": "containsHerb",
+      "object": "white-peony",
+      "source": "formulas/ssanghwa-tang.md#source-dose-original",
+      "scope": "국방 쌍화탕의 구성표 기본 약미. 원문 약명 白芍藥, 수록량 7량반, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백작약](../herbs/white-peony.md) · 白芍藥 | 7량반 | 별도 포제 표기 없음 | 양혈·유근·완급의 축을 맡음 |"
+    },
+    {
+      "id": "ssanghwa-guofang--containsHerb--angelica",
+      "subject": "ssanghwa-guofang",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/ssanghwa-tang.md#source-dose-original",
+      "scope": "국방 쌍화탕의 구성표 기본 약미. 원문 약명 當歸, 수록량 3량, 포제 씻음·술에 담금. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 3량 | 씻음·술에 담금 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "ssanghwa-guofang--containsHerb--astragalus",
+      "subject": "ssanghwa-guofang",
+      "predicate": "containsHerb",
+      "object": "astragalus",
+      "source": "formulas/ssanghwa-tang.md#source-dose-original",
+      "scope": "국방 쌍화탕의 구성표 기본 약미. 원문 약명 黃耆, 수록량 3량, 포제 꿀로 자제. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황기](../herbs/astragalus.md) · 黃耆 | 3량 | 꿀로 자제 | 기를 보하고 고표·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "ssanghwa-guofang--containsHerb--chuanxiong",
+      "subject": "ssanghwa-guofang",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/ssanghwa-tang.md#source-dose-original",
+      "scope": "국방 쌍화탕의 구성표 기본 약미. 원문 약명 川芎, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 3량 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "ssanghwa-guofang--containsHerb--prepared-rehmannia",
+      "subject": "ssanghwa-guofang",
+      "predicate": "containsHerb",
+      "object": "prepared-rehmannia",
+      "source": "formulas/ssanghwa-tang.md#source-dose-original",
+      "scope": "국방 쌍화탕의 구성표 기본 약미. 원문 약명 熟地黃, 수록량 3량, 포제 깨끗이 씻음·술을 사용해 찜. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [숙지황](../herbs/prepared-rehmannia.md) · 熟地黃 | 3량 | 깨끗이 씻음·술을 사용해 찜 | 음혈·정혈을 기르는 자윤한 보익축 |"
+    },
+    {
+      "id": "ssanghwa-guofang--containsHerb--licorice",
+      "subject": "ssanghwa-guofang",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/ssanghwa-tang.md#source-dose-original",
+      "scope": "국방 쌍화탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 2량2전반, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 2량2전반 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "ssanghwa-guofang--containsHerb--cinnamon-bark",
+      "subject": "ssanghwa-guofang",
+      "predicate": "containsHerb",
+      "object": "cinnamon-bark",
+      "source": "formulas/ssanghwa-tang.md#source-dose-original",
+      "scope": "국방 쌍화탕의 구성표 기본 약미. 원문 약명 肉桂, 수록량 2량2전반, 포제 껍질 제거·직접 불에 닿지 않음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [육계](../herbs/cinnamon-bark.md) · 肉桂 | 2량2전반 | 껍질 제거·직접 불에 닿지 않음 | 허한을 덥히고 온통의 방향을 더함 |"
+    },
+    {
+      "id": "shengmai-yixuexinwu--containsHerb--ophiopogon",
+      "subject": "shengmai-yixuexinwu",
+      "predicate": "containsHerb",
+      "object": "ophiopogon",
+      "source": "formulas/shengmai-san.md#source-dose-original",
+      "scope": "의학심오 생맥산의 구성표 기본 약미. 원문 약명 麥冬, 수록량 2전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [맥문동](../herbs/ophiopogon.md) · 麥冬 | 2전 | 별도 포제 표기 없음 | 폐위의 음액·건조를 보완 |"
+    },
+    {
+      "id": "shengmai-yixuexinwu--containsHerb--ginseng",
+      "subject": "shengmai-yixuexinwu",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/shengmai-san.md#source-dose-original",
+      "scope": "의학심오 생맥산의 구성표 기본 약미. 원문 약명 人參, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "shengmai-yixuexinwu--containsHerb--schisandra",
+      "subject": "shengmai-yixuexinwu",
+      "predicate": "containsHerb",
+      "object": "schisandra",
+      "source": "formulas/shengmai-san.md#source-dose-original",
+      "scope": "의학심오 생맥산의 구성표 기본 약미. 원문 약명 北五味, 수록량 15립, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [오미자](../herbs/schisandra.md) · 北五味 | 15립 | 별도 포제 표기 없음 | 폐기와 진액의 소모를 거두는 수렴축 |"
+    },
+    {
+      "id": "gyeongok-hongshi--containsHerb--ginseng",
+      "subject": "gyeongok-hongshi",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/gyeongok-go.md#source-dose-original",
+      "scope": "홍씨집험방 경옥고의 구성표 기본 약미. 원문 약명 新羅人參, 수록량 24량, 포제 1,000회 찧음·가루로 만듦. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 新羅人參 | 24량 | 1,000회 찧음·가루로 만듦 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "gyeongok-hongshi--containsHerb--fresh-rehmannia",
+      "subject": "gyeongok-hongshi",
+      "predicate": "containsHerb",
+      "object": "fresh-rehmannia",
+      "source": "formulas/gyeongok-go.md#source-dose-original",
+      "scope": "홍씨집험방 경옥고의 구성표 기본 약미. 원문 약명 生地黃, 수록량 16근, 포제 9월 채취(원문 기록)·찧음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [생지황](../herbs/fresh-rehmannia.md) · 生地黃 | 16근 | 9월 채취(원문 기록)·찧음 | 음액을 보존하고 혈분의 열을 조절 |"
+    },
+    {
+      "id": "gyeongok-hongshi--containsHerb--white-poria",
+      "subject": "gyeongok-hongshi",
+      "predicate": "containsHerb",
+      "object": "white-poria",
+      "source": "formulas/gyeongok-go.md#source-dose-original",
+      "scope": "홍씨집험방 경옥고의 구성표 기본 약미. 원문 약명 雪白茯苓, 수록량 49량, 포제 나무 도구로 1,000회 찧음·가루로 만듦. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 雪白茯苓 | 49량 | 나무 도구로 1,000회 찧음·가루로 만듦 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "gyeongok-hongshi--containsHerb--honey",
+      "subject": "gyeongok-hongshi",
+      "predicate": "containsHerb",
+      "object": "honey",
+      "source": "formulas/gyeongok-go.md#source-dose-original",
+      "scope": "홍씨집험방 경옥고의 구성표 기본 약미. 원문 약명 白沙蜜, 수록량 10근, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [봉밀](../herbs/honey.md) · 白沙蜜 | 10근 | 별도 포제 표기 없음 | 윤조·보중 및 환제·고제의 매체 |"
+    },
+    {
+      "id": "erchen-guofang--containsHerb--pinellia",
+      "subject": "erchen-guofang",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/erchen-tang.md#source-dose-original",
+      "scope": "국방 이진탕의 구성표 기본 약미. 원문 약명 半夏, 수록량 5량, 포제 뜨거운 물로 7회 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 5량 | 뜨거운 물로 7회 씻음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "erchen-guofang--containsHerb--citrus-red-peel",
+      "subject": "erchen-guofang",
+      "predicate": "containsHerb",
+      "object": "citrus-red-peel",
+      "source": "formulas/erchen-tang.md#source-dose-original",
+      "scope": "국방 이진탕의 구성표 기본 약미. 원문 약명 橘紅, 수록량 5량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 橘紅 | 5량 | 별도 포제 표기 없음 | 이기·조습으로 팽만과 담습을 조절 |"
+    },
+    {
+      "id": "erchen-guofang--containsHerb--white-poria",
+      "subject": "erchen-guofang",
+      "predicate": "containsHerb",
+      "object": "white-poria",
+      "source": "formulas/erchen-tang.md#source-dose-original",
+      "scope": "국방 이진탕의 구성표 기본 약미. 원문 약명 白茯苓, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 白茯苓 | 3량 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "erchen-guofang--containsHerb--licorice",
+      "subject": "erchen-guofang",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/erchen-tang.md#source-dose-original",
+      "scope": "국방 이진탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 1량반, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1량반 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--pinellia",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/wendan-tang.md#source-dose-original",
+      "scope": "삼인극일병증방론 온담탕의 구성표 기본 약미. 원문 약명 半夏, 수록량 2량, 포제 뜨거운 물로 7회 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 2량 | 뜨거운 물로 7회 씻음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--bamboo-shavings",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "bamboo-shavings",
+      "source": "formulas/wendan-tang.md#source-dose-original",
+      "scope": "삼인극일병증방론 온담탕의 구성표 기본 약미. 원문 약명 竹茹, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [죽여](../herbs/bamboo-shavings.md) · 竹茹 | 2량 | 별도 포제 표기 없음 | 담열·위기상역과 번조를 조절 |"
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--citrus-immature",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "citrus-immature",
+      "source": "formulas/wendan-tang.md#source-dose-original",
+      "scope": "삼인극일병증방론 온담탕의 구성표 기본 약미. 원문 약명 枳實, 수록량 2량, 포제 밀기울로 볶음·속살 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [지실](../herbs/citrus-immature.md) · 枳實 | 2량 | 밀기울로 볶음·속살 제거 | 기체·비만·담적을 내려 풀어 주는 축 |"
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--citrus-peel",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/wendan-tang.md#source-dose-original",
+      "scope": "삼인극일병증방론 온담탕의 구성표 기본 약미. 원문 약명 陳皮, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 3량 | 별도 포제 표기 없음 | 이기·조습으로 팽만과 담습을 조절 |"
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--licorice",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/wendan-tang.md#source-dose-original",
+      "scope": "삼인극일병증방론 온담탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 1량, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1량 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--poria",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/wendan-tang.md#source-dose-original",
+      "scope": "삼인극일병증방론 온담탕의 구성표 기본 약미. 원문 약명 茯苓, 수록량 1량반, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 1량반 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "pingwei-guofang--containsHerb--atractylodes-lancea",
+      "subject": "pingwei-guofang",
+      "predicate": "containsHerb",
+      "object": "atractylodes-lancea",
+      "source": "formulas/pingwei-san.md#source-dose-original",
+      "scope": "국방 평위산의 구성표 기본 약미. 원문 약명 蒼朮, 수록량 5근, 포제 거친 겉껍질 제거·쌀뜨물에 2일 담금. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 5근 | 거친 겉껍질 제거·쌀뜨물에 2일 담금 | 조습·건비로 습체와 중초의 정체를 다룸 |"
+    },
+    {
+      "id": "pingwei-guofang--containsHerb--magnolia-bark",
+      "subject": "pingwei-guofang",
+      "predicate": "containsHerb",
+      "object": "magnolia-bark",
+      "source": "formulas/pingwei-san.md#source-dose-original",
+      "scope": "국방 평위산의 구성표 기본 약미. 원문 약명 厚朴, 수록량 3근2량, 포제 거친 겉껍질 제거·생강즙으로 법제·향이 나게 볶음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [후박](../herbs/magnolia-bark.md) · 厚朴 | 3근2량 | 거친 겉껍질 제거·생강즙으로 법제·향이 나게 볶음 | 행기·조습·제만으로 흉복부 그득함을 조절 |"
+    },
+    {
+      "id": "pingwei-guofang--containsHerb--citrus-peel",
+      "subject": "pingwei-guofang",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/pingwei-san.md#source-dose-original",
+      "scope": "국방 평위산의 구성표 기본 약미. 원문 약명 陳皮, 수록량 3근2량, 포제 흰 속껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 3근2량 | 흰 속껍질 제거 | 이기·조습으로 팽만과 담습을 조절 |"
+    },
+    {
+      "id": "pingwei-guofang--containsHerb--licorice",
+      "subject": "pingwei-guofang",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/pingwei-san.md#source-dose-original",
+      "scope": "국방 평위산의 구성표 기본 약미. 원문 약명 甘草, 수록량 30량, 포제 초(볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 30량 | 초(볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--ginseng",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 人參, 수록량 2전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 2전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--atractylodes",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 白朮, 수록량 2전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 2전 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--poria",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 茯苓, 수록량 2전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 2전 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--licorice",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 1전, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 1전 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--citrus-peel",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 陳皮, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 1전 | 별도 포제 표기 없음 | 이기·조습으로 팽만과 담습을 조절 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--pinellia",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 半夏, 수록량 2전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 2전 | 별도 포제 표기 없음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--aucklandia",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "aucklandia",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 木香, 수록량 8分, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [목향](../herbs/aucklandia.md) · 木香 | 8分 | 별도 포제 표기 없음 | 중초의 기체·팽만을 조절 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--amomum",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "amomum",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄 향사육군자탕의 구성표 기본 약미. 원문 약명 砂仁, 수록량 8分, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [사인](../herbs/amomum.md) · 砂仁 | 8分 | 별도 포제 표기 없음 | 방향화습·온중·행기로 소화를 받침 |"
+    },
+    {
+      "id": "banxia-xiexin-shanghan--containsHerb--pinellia",
+      "subject": "banxia-xiexin-shanghan",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "scope": "상한론 송본 반하사심탕의 구성표 기본 약미. 원문 약명 半夏, 수록량 반승, 포제 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 반승 | 씻음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "banxia-xiexin-shanghan--containsHerb--scutellaria",
+      "subject": "banxia-xiexin-shanghan",
+      "predicate": "containsHerb",
+      "object": "scutellaria",
+      "source": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "scope": "상한론 송본 반하사심탕의 구성표 기본 약미. 원문 약명 黃芩, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황금](../herbs/scutellaria.md) · 黃芩 | 3량 | 별도 포제 표기 없음 | 청열·조습으로 열과 습의 결합을 조절 |"
+    },
+    {
+      "id": "banxia-xiexin-shanghan--containsHerb--dried-ginger",
+      "subject": "banxia-xiexin-shanghan",
+      "predicate": "containsHerb",
+      "object": "dried-ginger",
+      "source": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "scope": "상한론 송본 반하사심탕의 구성표 기본 약미. 원문 약명 乾薑, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [건강](../herbs/dried-ginger.md) · 乾薑 | 3량 | 별도 포제 표기 없음 | 중초의 허한을 덥히는 온중축 |"
+    },
+    {
+      "id": "banxia-xiexin-shanghan--containsHerb--ginseng",
+      "subject": "banxia-xiexin-shanghan",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "scope": "상한론 송본 반하사심탕의 구성표 기본 약미. 원문 약명 人參, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 3량 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "banxia-xiexin-shanghan--containsHerb--licorice",
+      "subject": "banxia-xiexin-shanghan",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "scope": "상한론 송본 반하사심탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 3량, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 3량 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "banxia-xiexin-shanghan--containsHerb--coptis",
+      "subject": "banxia-xiexin-shanghan",
+      "predicate": "containsHerb",
+      "object": "coptis",
+      "source": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "scope": "상한론 송본 반하사심탕의 구성표 기본 약미. 원문 약명 黃連, 수록량 1량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황련](../herbs/coptis.md) · 黃連 | 1량 | 별도 포제 표기 없음 | 고한한 청열축으로 열과 번조를 조절 |"
+    },
+    {
+      "id": "banxia-xiexin-shanghan--containsHerb--jujube-fruit",
+      "subject": "banxia-xiexin-shanghan",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/banxia-xiexin-tang.md#source-dose-original",
+      "scope": "상한론 송본 반하사심탕의 구성표 기본 약미. 원문 약명 大棗, 수록량 12매, 포제 쪼갬. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 12매 | 쪼갬 | 비위와 영위를 조화하는 보조축 |"
+    },
+    {
+      "id": "xiaochaihu-shanghan--containsHerb--bupleurum",
+      "subject": "xiaochaihu-shanghan",
+      "predicate": "containsHerb",
+      "object": "bupleurum",
+      "source": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "scope": "상한론 송본 소시호탕의 구성표 기본 약미. 원문 약명 柴胡, 수록량 반근, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [시호](../herbs/bupleurum.md) · 柴胡 | 반근 | 별도 포제 표기 없음 | 소양·간울의 기기 조절을 맡음 |"
+    },
+    {
+      "id": "xiaochaihu-shanghan--containsHerb--scutellaria",
+      "subject": "xiaochaihu-shanghan",
+      "predicate": "containsHerb",
+      "object": "scutellaria",
+      "source": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "scope": "상한론 송본 소시호탕의 구성표 기본 약미. 원문 약명 黃芩, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황금](../herbs/scutellaria.md) · 黃芩 | 3량 | 별도 포제 표기 없음 | 청열·조습으로 열과 습의 결합을 조절 |"
+    },
+    {
+      "id": "xiaochaihu-shanghan--containsHerb--ginseng",
+      "subject": "xiaochaihu-shanghan",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "scope": "상한론 송본 소시호탕의 구성표 기본 약미. 원문 약명 人參, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 3량 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "xiaochaihu-shanghan--containsHerb--pinellia",
+      "subject": "xiaochaihu-shanghan",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "scope": "상한론 송본 소시호탕의 구성표 기본 약미. 원문 약명 半夏, 수록량 반승, 포제 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 반승 | 씻음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "xiaochaihu-shanghan--containsHerb--licorice",
+      "subject": "xiaochaihu-shanghan",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "scope": "상한론 송본 소시호탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 3량, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 3량 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "xiaochaihu-shanghan--containsHerb--fresh-ginger",
+      "subject": "xiaochaihu-shanghan",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "scope": "상한론 송본 소시호탕의 구성표 기본 약미. 원문 약명 生薑, 수록량 3량, 포제 절편. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 3량 | 절편 | 위기를 조화하고 오심·상역을 조절 |"
+    },
+    {
+      "id": "xiaochaihu-shanghan--containsHerb--jujube-fruit",
+      "subject": "xiaochaihu-shanghan",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/xiaochaihu-tang.md#source-dose-original",
+      "scope": "상한론 송본 소시호탕의 구성표 기본 약미. 원문 약명 大棗, 수록량 12매, 포제 쪼갬. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 12매 | 쪼갬 | 비위와 영위를 조화하는 보조축 |"
+    },
+    {
+      "id": "guizhi-shanghan--containsHerb--cinnamon-twig",
+      "subject": "guizhi-shanghan",
+      "predicate": "containsHerb",
+      "object": "cinnamon-twig",
+      "source": "formulas/guizhi-tang.md#source-dose-original",
+      "scope": "상한론 송본 계지탕의 구성표 기본 약미. 원문 약명 桂枝, 수록량 3량, 포제 껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [계지](../herbs/cinnamon-twig.md) · 桂枝 | 3량 | 껍질 제거 | 영위·양기의 소통과 온경을 맡음 |"
+    },
+    {
+      "id": "guizhi-shanghan--containsHerb--shaoyao-source-name",
+      "subject": "guizhi-shanghan",
+      "predicate": "containsHerb",
+      "object": "shaoyao-source-name",
+      "source": "formulas/guizhi-tang.md#source-dose-original",
+      "scope": "상한론 송본 계지탕의 구성표 기본 약미. 원문 약명 芍藥, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 원문은 芍藥으로 기록하며 백작약·적작약의 실제 원료 구분은 해당 수록본과 제제에서 확인한다.",
+      "quote": "| [작약](../herbs/white-peony.md) · 芍藥 | 3량 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |"
+    },
+    {
+      "id": "guizhi-shanghan--containsHerb--licorice",
+      "subject": "guizhi-shanghan",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/guizhi-tang.md#source-dose-original",
+      "scope": "상한론 송본 계지탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 2량, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 2량 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "guizhi-shanghan--containsHerb--fresh-ginger",
+      "subject": "guizhi-shanghan",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/guizhi-tang.md#source-dose-original",
+      "scope": "상한론 송본 계지탕의 구성표 기본 약미. 원문 약명 生薑, 수록량 3량, 포제 절편. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 3량 | 절편 | 위기를 조화하고 오심·상역을 조절 |"
+    },
+    {
+      "id": "guizhi-shanghan--containsHerb--jujube-fruit",
+      "subject": "guizhi-shanghan",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/guizhi-tang.md#source-dose-original",
+      "scope": "상한론 송본 계지탕의 구성표 기본 약미. 원문 약명 大棗, 수록량 12매, 포제 쪼갬. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 12매 | 쪼갬 | 비위와 영위를 조화하는 보조축 |"
+    },
+    {
+      "id": "gegen-shanghan--containsHerb--pueraria",
+      "subject": "gegen-shanghan",
+      "predicate": "containsHerb",
+      "object": "pueraria",
+      "source": "formulas/gegen-tang.md#source-dose-original",
+      "scope": "상한론 송본 갈근탕의 구성표 기본 약미. 원문 약명 葛根, 수록량 4량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [갈근](../herbs/pueraria.md) · 葛根 | 4량 | 별도 포제 표기 없음 | 해기·생진으로 항배 긴장과 진액축을 함께 다룸 |"
+    },
+    {
+      "id": "gegen-shanghan--containsHerb--ephedra",
+      "subject": "gegen-shanghan",
+      "predicate": "containsHerb",
+      "object": "ephedra",
+      "source": "formulas/gegen-tang.md#source-dose-original",
+      "scope": "상한론 송본 갈근탕의 구성표 기본 약미. 원문 약명 麻黃, 수록량 3량, 포제 마디 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [마황](../herbs/ephedra.md) · 麻黃 | 3량 | 마디 제거 | 표를 열고 폐기를 펼치는 선폐축 |"
+    },
+    {
+      "id": "gegen-shanghan--containsHerb--cinnamon-twig",
+      "subject": "gegen-shanghan",
+      "predicate": "containsHerb",
+      "object": "cinnamon-twig",
+      "source": "formulas/gegen-tang.md#source-dose-original",
+      "scope": "상한론 송본 갈근탕의 구성표 기본 약미. 원문 약명 桂枝, 수록량 2량, 포제 껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [계지](../herbs/cinnamon-twig.md) · 桂枝 | 2량 | 껍질 제거 | 영위·양기의 소통과 온경을 맡음 |"
+    },
+    {
+      "id": "gegen-shanghan--containsHerb--fresh-ginger",
+      "subject": "gegen-shanghan",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/gegen-tang.md#source-dose-original",
+      "scope": "상한론 송본 갈근탕의 구성표 기본 약미. 원문 약명 生薑, 수록량 3량, 포제 절편. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 3량 | 절편 | 위기를 조화하고 오심·상역을 조절 |"
+    },
+    {
+      "id": "gegen-shanghan--containsHerb--licorice",
+      "subject": "gegen-shanghan",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/gegen-tang.md#source-dose-original",
+      "scope": "상한론 송본 갈근탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 2량, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 2량 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "gegen-shanghan--containsHerb--shaoyao-source-name",
+      "subject": "gegen-shanghan",
+      "predicate": "containsHerb",
+      "object": "shaoyao-source-name",
+      "source": "formulas/gegen-tang.md#source-dose-original",
+      "scope": "상한론 송본 갈근탕의 구성표 기본 약미. 원문 약명 芍藥, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 원문은 芍藥으로 기록하며 백작약·적작약의 실제 원료 구분은 해당 수록본과 제제에서 확인한다.",
+      "quote": "| [작약](../herbs/white-peony.md) · 芍藥 | 2량 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |"
+    },
+    {
+      "id": "gegen-shanghan--containsHerb--jujube-fruit",
+      "subject": "gegen-shanghan",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/gegen-tang.md#source-dose-original",
+      "scope": "상한론 송본 갈근탕의 구성표 기본 약미. 원문 약명 大棗, 수록량 12매, 포제 쪼갬. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 12매 | 쪼갬 | 비위와 영위를 조화하는 보조축 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--ephedra",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "ephedra",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 麻黃, 수록량 3량, 포제 마디 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [마황](../herbs/ephedra.md) · 麻黃 | 3량 | 마디 제거 | 표를 열고 폐기를 펼치는 선폐축 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--shaoyao-source-name",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "shaoyao-source-name",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 芍藥, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 원문은 芍藥으로 기록하며 백작약·적작약의 실제 원료 구분은 해당 수록본과 제제에서 확인한다.",
+      "quote": "| [작약](../herbs/white-peony.md) · 芍藥 | 3량 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--asarum",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "asarum",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 細辛, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [세신](../herbs/asarum.md) · 細辛 | 3량 | 별도 포제 표기 없음 | 산한·통규·온폐의 방향을 맡음 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--dried-ginger",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "dried-ginger",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 乾薑, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [건강](../herbs/dried-ginger.md) · 乾薑 | 3량 | 별도 포제 표기 없음 | 중초의 허한을 덥히는 온중축 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--licorice",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 3량, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 3량 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--cinnamon-twig",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "cinnamon-twig",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 桂枝, 수록량 3량, 포제 껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [계지](../herbs/cinnamon-twig.md) · 桂枝 | 3량 | 껍질 제거 | 영위·양기의 소통과 온경을 맡음 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--schisandra",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "schisandra",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 五味子, 수록량 반승, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [오미자](../herbs/schisandra.md) · 五味子 | 반승 | 별도 포제 표기 없음 | 폐기와 진액의 소모를 거두는 수렴축 |"
+    },
+    {
+      "id": "xiaoqinglong-shanghan--containsHerb--pinellia",
+      "subject": "xiaoqinglong-shanghan",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/xiaoqinglong-tang.md#source-dose-original",
+      "scope": "상한론 송본 소청룡탕의 구성표 기본 약미. 원문 약명 半夏, 수록량 반승, 포제 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 반승 | 씻음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "maimendong-jinkui--containsHerb--ophiopogon",
+      "subject": "maimendong-jinkui",
+      "predicate": "containsHerb",
+      "object": "ophiopogon",
+      "source": "formulas/maidong-tang.md#source-dose-original",
+      "scope": "금궤요략 맥문동탕의 구성표 기본 약미. 원문 약명 麥門冬, 수록량 7승, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [맥문동](../herbs/ophiopogon.md) · 麥門冬 | 7승 | 별도 포제 표기 없음 | 폐위의 음액·건조를 보완 |"
+    },
+    {
+      "id": "maimendong-jinkui--containsHerb--pinellia",
+      "subject": "maimendong-jinkui",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/maidong-tang.md#source-dose-original",
+      "scope": "금궤요략 맥문동탕의 구성표 기본 약미. 원문 약명 半夏, 수록량 1승, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 1승 | 별도 포제 표기 없음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "maimendong-jinkui--containsHerb--ginseng",
+      "subject": "maimendong-jinkui",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/maidong-tang.md#source-dose-original",
+      "scope": "금궤요략 맥문동탕의 구성표 기본 약미. 원문 약명 人參, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 3량 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "maimendong-jinkui--containsHerb--licorice",
+      "subject": "maimendong-jinkui",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/maidong-tang.md#source-dose-original",
+      "scope": "금궤요략 맥문동탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 2량 | 별도 포제 표기 없음 | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "maimendong-jinkui--containsHerb--oryza-rice",
+      "subject": "maimendong-jinkui",
+      "predicate": "containsHerb",
+      "object": "oryza-rice",
+      "source": "formulas/maidong-tang.md#source-dose-original",
+      "scope": "금궤요략 맥문동탕의 구성표 기본 약미. 원문 약명 粳米, 수록량 3합, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [갱미](../herbs/oryza-rice.md) · 粳米 | 3합 | 별도 포제 표기 없음 | 위기와 진액을 받치는 조화축 |"
+    },
+    {
+      "id": "maimendong-jinkui--containsHerb--jujube-fruit",
+      "subject": "maimendong-jinkui",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/maidong-tang.md#source-dose-original",
+      "scope": "금궤요략 맥문동탕의 구성표 기본 약미. 원문 약명 大棗, 수록량 12매, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 12매 | 별도 포제 표기 없음 | 비위와 영위를 조화하는 보조축 |"
+    },
+    {
+      "id": "danggui-shaoyao-jinkui--containsHerb--angelica",
+      "subject": "danggui-shaoyao-jinkui",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/danggui-shaoyao-san.md#source-dose-original",
+      "scope": "금궤요략 당귀작약산의 구성표 기본 약미. 원문 약명 當歸, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 3량 | 별도 포제 표기 없음 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "danggui-shaoyao-jinkui--containsHerb--shaoyao-source-name",
+      "subject": "danggui-shaoyao-jinkui",
+      "predicate": "containsHerb",
+      "object": "shaoyao-source-name",
+      "source": "formulas/danggui-shaoyao-san.md#source-dose-original",
+      "scope": "금궤요략 당귀작약산의 구성표 기본 약미. 원문 약명 芍藥, 수록량 1근, 일작 6량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 원문은 芍藥으로 기록하며 백작약·적작약의 실제 원료 구분은 해당 수록본과 제제에서 확인한다. 1근과 일작 6량은 이본 기록으로 각각 보존한다.",
+      "quote": "| [작약](../herbs/white-peony.md) · 芍藥 | 1근, 일작 6량 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |"
+    },
+    {
+      "id": "danggui-shaoyao-jinkui--containsHerb--poria",
+      "subject": "danggui-shaoyao-jinkui",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/danggui-shaoyao-san.md#source-dose-original",
+      "scope": "금궤요략 당귀작약산의 구성표 기본 약미. 원문 약명 茯苓, 수록량 4량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 4량 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "danggui-shaoyao-jinkui--containsHerb--atractylodes",
+      "subject": "danggui-shaoyao-jinkui",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/danggui-shaoyao-san.md#source-dose-original",
+      "scope": "금궤요략 당귀작약산의 구성표 기본 약미. 원문 약명 白朮, 수록량 4량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 4량 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+    },
+    {
+      "id": "danggui-shaoyao-jinkui--containsHerb--alisma",
+      "subject": "danggui-shaoyao-jinkui",
+      "predicate": "containsHerb",
+      "object": "alisma",
+      "source": "formulas/danggui-shaoyao-san.md#source-dose-original",
+      "scope": "금궤요략 당귀작약산의 구성표 기본 약미. 원문 약명 澤瀉, 수록량 반근, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [택사](../herbs/alisma.md) · 澤瀉 | 반근 | 별도 포제 표기 없음 | 수습을 내려 정체를 조절 |"
+    },
+    {
+      "id": "danggui-shaoyao-jinkui--containsHerb--chuanxiong",
+      "subject": "danggui-shaoyao-jinkui",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/danggui-shaoyao-san.md#source-dose-original",
+      "scope": "금궤요략 당귀작약산의 구성표 기본 약미. 원문 약명 芎藭, 수록량 반근, 이본 부기 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 芎藭 | 반근, 이본 부기 3량 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "guizhi-fuling-jinkui--containsHerb--cinnamon-twig",
+      "subject": "guizhi-fuling-jinkui",
+      "predicate": "containsHerb",
+      "object": "cinnamon-twig",
+      "source": "formulas/guizhi-fuling-wan.md#source-dose-original",
+      "scope": "금궤요략 계지복령환의 구성표 기본 약미. 원문 약명 桂枝, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [계지](../herbs/cinnamon-twig.md) · 桂枝 | 등분 | 별도 포제 표기 없음 | 영위·양기의 소통과 온경을 맡음 |"
+    },
+    {
+      "id": "guizhi-fuling-jinkui--containsHerb--poria",
+      "subject": "guizhi-fuling-jinkui",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/guizhi-fuling-wan.md#source-dose-original",
+      "scope": "금궤요략 계지복령환의 구성표 기본 약미. 원문 약명 茯苓, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 등분 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "guizhi-fuling-jinkui--containsHerb--moutan",
+      "subject": "guizhi-fuling-jinkui",
+      "predicate": "containsHerb",
+      "object": "moutan",
+      "source": "formulas/guizhi-fuling-wan.md#source-dose-original",
+      "scope": "금궤요략 계지복령환의 구성표 기본 약미. 원문 약명 牡丹, 수록량 등분, 포제 심 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [목단피](../herbs/moutan.md) · 牡丹 | 등분 | 심 제거 | 혈분의 열·어체를 조절 |"
+    },
+    {
+      "id": "guizhi-fuling-jinkui--containsHerb--shaoyao-source-name",
+      "subject": "guizhi-fuling-jinkui",
+      "predicate": "containsHerb",
+      "object": "shaoyao-source-name",
+      "source": "formulas/guizhi-fuling-wan.md#source-dose-original",
+      "scope": "금궤요략 계지복령환의 구성표 기본 약미. 원문 약명 芍藥, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 원문은 芍藥으로 기록하며 백작약·적작약의 실제 원료 구분은 해당 수록본과 제제에서 확인한다.",
+      "quote": "| [작약](../herbs/white-peony.md) · 芍藥 | 등분 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |"
+    },
+    {
+      "id": "guizhi-fuling-jinkui--containsHerb--peach-kernel",
+      "subject": "guizhi-fuling-jinkui",
+      "predicate": "containsHerb",
+      "object": "peach-kernel",
+      "source": "formulas/guizhi-fuling-wan.md#source-dose-original",
+      "scope": "금궤요략 계지복령환의 구성표 기본 약미. 원문 약명 桃仁, 수록량 등분, 포제 껍질과 끝 제거·오(볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [도인](../herbs/peach-kernel.md) · 桃仁 | 등분 | 껍질과 끝 제거·오(볶음) | 어혈을 풀고 장의 건조를 윤택하게 함 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--angelica-pubescens",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "angelica-pubescens",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 獨活, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [독활](../herbs/angelica-pubescens.md) · 獨活 | 3량 | 별도 포제 표기 없음 | 풍한습비·하지의 오래된 통증축을 다룸 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--taxillus",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "taxillus",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 寄生, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 기생을 기록한 본문 구성이다. 속단은 고금록험의 이본 부기이며 이 수록형의 동시 구성 약미에 넣지 않는다.",
+      "quote": "| [상기생](../herbs/taxillus.md) · 寄生 | 2량 | 별도 포제 표기 없음 | 간신·근골을 받치면서 풍습을 조절 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--eucommia",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "eucommia",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 杜仲, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [두충](../herbs/eucommia.md) · 杜仲 | 2량 | 별도 포제 표기 없음 | 간신·근골을 받치는 보익축 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--achyranthes",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "achyranthes",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 牛膝, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [우슬](../herbs/achyranthes.md) · 牛膝 | 2량 | 별도 포제 표기 없음 | 혈행과 요슬을 돕고 아래로 향하는 배합축 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--asarum",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "asarum",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 細辛, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [세신](../herbs/asarum.md) · 細辛 | 2량 | 별도 포제 표기 없음 | 산한·통규·온폐의 방향을 맡음 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--gentiana-macrophylla",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "gentiana-macrophylla",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 秦艽, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [진교](../herbs/gentiana-macrophylla.md) · 秦艽 | 2량 | 별도 포제 표기 없음 | 거풍습·서근으로 오래된 비증축을 조절 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--poria",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 茯苓, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 2량 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--cinnamon-heart",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "cinnamon-heart",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 桂心, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 桂心의 약명을 보존하며 계지·육계 표기와 구분한다.",
+      "quote": "| [육계](../herbs/cinnamon-bark.md) · 桂心 | 2량 | 별도 포제 표기 없음 | 허한을 덥히고 온통의 방향을 더함 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--saposhnikovia",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "saposhnikovia",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 防風, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [방풍](../herbs/saposhnikovia.md) · 防風 | 2량 | 별도 포제 표기 없음 | 풍을 흩고 표·경락의 불편을 조절 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--chuanxiong",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 川芎, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 2량 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--dried-rehmannia",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "dried-rehmannia",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 乾地黃, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [건지황](../herbs/rehmannia-root-fresh.md) · 乾地黃 | 2량 | 별도 포제 표기 없음 | 건조 지황의 음혈축으로 숙지황 포제와 구분 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--ginseng",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 人參, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 2량 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--licorice",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 2량 | 별도 포제 표기 없음 | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--angelica",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 當歸, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 2량 | 별도 포제 표기 없음 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "duhuo-jisheng-qianjin--containsHerb--shaoyao-source-name",
+      "subject": "duhuo-jisheng-qianjin",
+      "predicate": "containsHerb",
+      "object": "shaoyao-source-name",
+      "source": "formulas/duhuo-jisheng-tang.md#source-dose-original",
+      "scope": "비급천금요방 독활기생탕의 구성표 기본 약미. 원문 약명 芍藥, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다. 원문은 芍藥으로 기록하며 백작약·적작약의 실제 원료 구분은 해당 수록본과 제제에서 확인한다.",
+      "quote": "| [작약](../herbs/white-peony.md) · 芍藥 | 2량 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--angelica",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 當歸, 수록량 1전2푼, 포제 술로 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 1전2푼 | 술로 씻음 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--white-peony",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "white-peony",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 白芍, 수록량 1전 반, 포제 술로 볶음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백작약](../herbs/white-peony.md) · 白芍 | 1전 반 | 술로 볶음 | 양혈·유근·완급의 축을 맡음 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--fresh-rehmannia",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "fresh-rehmannia",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 生地, 수록량 1전, 포제 술로 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [생지황](../herbs/fresh-rehmannia.md) · 生地 | 1전 | 술로 씻음 | 음액을 보존하고 혈분의 열을 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--atractylodes-lancea",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "atractylodes-lancea",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 蒼朮, 수록량 1전, 포제 쌀뜨물에 담금. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 1전 | 쌀뜨물에 담금 | 조습·건비로 습체와 중초의 정체를 다룸 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--achyranthes",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "achyranthes",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 牛膝, 수록량 1전, 포제 노두 제거·술로 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [우슬](../herbs/achyranthes.md) · 牛膝 | 1전 | 노두 제거·술로 씻음 | 혈행과 요슬을 돕고 아래로 향하는 배합축 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--citrus-peel",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 陳皮, 수록량 1전, 포제 흰 속껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 1전 | 흰 속껍질 제거 | 이기·조습으로 팽만과 담습을 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--peach-kernel",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "peach-kernel",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 桃仁, 수록량 1전, 포제 껍질 제거·초(볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [도인](../herbs/peach-kernel.md) · 桃仁 | 1전 | 껍질 제거·초(볶음) | 어혈을 풀고 장의 건조를 윤택하게 함 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--clematis-root",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "clematis-root",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 威靈仙, 수록량 1전, 포제 술로 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [위령선](../herbs/clematis-root.md) · 威靈仙 | 1전 | 술로 씻음 | 거풍습·통락으로 경락·관절의 정체를 다룸 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--chuanxiong",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 川芎草, 수록량 6푼, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎草 | 6푼 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--stephania-root",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "stephania-root",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 漢防己, 수록량 6푼, 포제 술로 씻음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [방기](../herbs/stephania-root.md) · 漢防己 | 6푼 | 술로 씻음 | 거풍습·이수로 신중·수종을 다룸 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--notopterygium",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "notopterygium",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 羌活, 수록량 6푼, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [강활](../herbs/notopterygium.md) · 羌活 | 6푼 | 별도 포제 표기 없음 | 표·상부의 풍한습과 통증을 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--saposhnikovia",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "saposhnikovia",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 防風, 수록량 6푼, 포제 노두 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [방풍](../herbs/saposhnikovia.md) · 防風 | 6푼 | 노두 제거 | 풍을 흩고 표·경락의 불편을 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--angelica-dahurica",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "angelica-dahurica",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 白芷, 수록량 6푼, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백지](../herbs/angelica-dahurica.md) · 白芷 | 6푼 | 별도 포제 표기 없음 | 표·두면부의 풍과 통증을 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--gentian-root",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "gentian-root",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 龍膽草, 수록량 6푼, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [용담](../herbs/gentian-root.md) · 龍膽草 | 6푼 | 별도 포제 표기 없음 | 고한한 청열·조습으로 간담·하초 습열을 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--poria",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 茯苓, 수록량 7푼, 포제 껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 7푼 | 껍질 제거 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "shujing-huoxue-wanbing--containsHerb--licorice",
+      "subject": "shujing-huoxue-wanbing",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/shujing-huoxue-tang.md#source-dose-original",
+      "scope": "만병회춘 소경활혈탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 4푼, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 4푼 | 별도 포제 표기 없음 | 중초를 돕고 완급·배합 조화를 맡음 |"
+    },
+    {
+      "id": "huanglian-jiedu-yifang--containsHerb--coptis",
+      "subject": "huanglian-jiedu-yifang",
+      "predicate": "containsHerb",
+      "object": "coptis",
+      "source": "formulas/huanglian-jiedu-tang.md#source-dose-original",
+      "scope": "의방집해 황련해독탕의 구성표 기본 약미. 원문 약명 黃連, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황련](../herbs/coptis.md) · 黃連 | 등분 | 별도 포제 표기 없음 | 고한한 청열축으로 열과 번조를 조절 |"
+    },
+    {
+      "id": "huanglian-jiedu-yifang--containsHerb--scutellaria",
+      "subject": "huanglian-jiedu-yifang",
+      "predicate": "containsHerb",
+      "object": "scutellaria",
+      "source": "formulas/huanglian-jiedu-tang.md#source-dose-original",
+      "scope": "의방집해 황련해독탕의 구성표 기본 약미. 원문 약명 黃芩, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황금](../herbs/scutellaria.md) · 黃芩 | 등분 | 별도 포제 표기 없음 | 청열·조습으로 열과 습의 결합을 조절 |"
+    },
+    {
+      "id": "huanglian-jiedu-yifang--containsHerb--phellodendron",
+      "subject": "huanglian-jiedu-yifang",
+      "predicate": "containsHerb",
+      "object": "phellodendron",
+      "source": "formulas/huanglian-jiedu-tang.md#source-dose-original",
+      "scope": "의방집해 황련해독탕의 구성표 기본 약미. 원문 약명 黃柏, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [황백](../herbs/phellodendron.md) · 黃柏 | 등분 | 별도 포제 표기 없음 | 고한한 청열·조습축 |"
+    },
+    {
+      "id": "huanglian-jiedu-yifang--containsHerb--gardenia",
+      "subject": "huanglian-jiedu-yifang",
+      "predicate": "containsHerb",
+      "object": "gardenia",
+      "source": "formulas/huanglian-jiedu-tang.md#source-dose-original",
+      "scope": "의방집해 황련해독탕의 구성표 기본 약미. 원문 약명 梔子, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [치자](../herbs/gardenia.md) · 梔子 | 등분 | 별도 포제 표기 없음 | 열·번조를 내리고 울열을 조절 |"
+    },
+    {
+      "id": "wuling-shanghan--containsHerb--polyporus",
+      "subject": "wuling-shanghan",
+      "predicate": "containsHerb",
+      "object": "polyporus",
+      "source": "formulas/wuling-san.md#source-dose-original",
+      "scope": "상한론 송본 오령산의 구성표 기본 약미. 원문 약명 豬苓, 수록량 18수, 포제 껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [저령](../herbs/polyporus.md) · 豬苓 | 18수 | 껍질 제거 | 이수·삼습으로 소변불리와 수습을 조절 |"
+    },
+    {
+      "id": "wuling-shanghan--containsHerb--alisma",
+      "subject": "wuling-shanghan",
+      "predicate": "containsHerb",
+      "object": "alisma",
+      "source": "formulas/wuling-san.md#source-dose-original",
+      "scope": "상한론 송본 오령산의 구성표 기본 약미. 원문 약명 澤瀉, 수록량 1량6수, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [택사](../herbs/alisma.md) · 澤瀉 | 1량6수 | 별도 포제 표기 없음 | 수습을 내려 정체를 조절 |"
+    },
+    {
+      "id": "wuling-shanghan--containsHerb--atractylodes",
+      "subject": "wuling-shanghan",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/wuling-san.md#source-dose-original",
+      "scope": "상한론 송본 오령산의 구성표 기본 약미. 원문 약명 白朮, 수록량 18수, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 18수 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+    },
+    {
+      "id": "wuling-shanghan--containsHerb--poria",
+      "subject": "wuling-shanghan",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/wuling-san.md#source-dose-original",
+      "scope": "상한론 송본 오령산의 구성표 기본 약미. 원문 약명 茯苓, 수록량 18수, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 18수 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "wuling-shanghan--containsHerb--cinnamon-twig",
+      "subject": "wuling-shanghan",
+      "predicate": "containsHerb",
+      "object": "cinnamon-twig",
+      "source": "formulas/wuling-san.md#source-dose-original",
+      "scope": "상한론 송본 오령산의 구성표 기본 약미. 원문 약명 桂枝, 수록량 반량, 포제 껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다.",
+      "quote": "| [계지](../herbs/cinnamon-twig.md) · 桂枝 | 반량 | 껍질 제거 | 영위·양기의 소통과 온경을 맡음 |"
+    },
+    {
+      "id": "erchen-guofang--containsHerb--fresh-ginger",
+      "subject": "erchen-guofang",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/erchen-tang.md#source-dose-original",
+      "scope": "국방 이진탕의 방후 전탕 재료. 기본 4미의 제조 배합과 매회 전탕 재료를 구분한다.",
+      "quote": "생강과 오매는 방후의 전탕 재료로 따로 기록됩니다."
+    },
+    {
+      "id": "erchen-guofang--containsHerb--mume-fruit",
+      "subject": "erchen-guofang",
+      "predicate": "containsHerb",
+      "object": "mume-fruit",
+      "source": "formulas/erchen-tang.md#source-dose-original",
+      "scope": "국방 이진탕의 방후 전탕 재료. 기본 4미의 제조 배합과 매회 전탕 재료를 구분한다.",
+      "quote": "생강과 오매는 방후의 전탕 재료로 따로 기록됩니다."
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--fresh-ginger",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/wendan-tang.md#preparation-and-dose",
+      "scope": "삼인방 온담탕의 전탕 추가 재료. 기본 6미를 조말로 준비해 每服四大錢을 취하고 생강 五片·대추 一枚를 더하는 기록.",
+      "quote": "| 전탕·복용 | 물 一盞半, 생강 五片, 대추 一枚를 더해 煎七分, 거재 후 식전에 복용 |"
+    },
+    {
+      "id": "wendan-sanyin--containsHerb--jujube-fruit",
+      "subject": "wendan-sanyin",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/wendan-tang.md#preparation-and-dose",
+      "scope": "삼인방 온담탕의 전탕 추가 재료. 기본 6미를 조말로 준비해 每服四大錢을 취하고 생강 五片·대추 一枚를 더하는 기록.",
+      "quote": "| 전탕·복용 | 물 一盞半, 생강 五片, 대추 一枚를 더해 煎七分, 거재 후 식전에 복용 |"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--fresh-ginger",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄의 사군자→육군자→향사육군자 전개에서 薑棗를 더해 달이는 기록. 기본 8미와 전탕 추가 생강·대추를 구분하며 추가량을 추정하지 않는다.",
+      "quote": "> 人參茯苓白朮各二錢。炙甘草一錢。加薑棗煎。"
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--containsHerb--jujube-fruit",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/xiangsha-liujunzi-tang.md#source-dose-original",
+      "scope": "시방가괄의 사군자→육군자→향사육군자 전개에서 薑棗를 더해 달이는 기록. 기본 8미와 전탕 추가 생강·대추를 구분하며 추가량을 추정하지 않는다.",
+      "quote": "> 人參茯苓白朮各二錢。炙甘草一錢。加薑棗煎。"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--angelica",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--longan",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "longan",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--ziziphus-seed",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "ziziphus-seed",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--polygala",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "polygala",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--ginseng",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--astragalus",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "astragalus",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--atractylodes",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--poria-spirit",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "poria-spirit",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 내경편 신·건망의 의학입문 인용 수록형. 이 행의 8미 각 1전; 산조인 초·원지 제. 제생방 8미형과 당귀·원지의 유무를 구분한다.",
+      "quote": "| 당귀·용안육·산조인·원지·인삼·황기·백출·복신 | 각 1전; 산조인은 초(炒), 원지는 제(製) |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--aucklandia",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "aucklandia",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 귀비탕의 목향 수록량. 역사적 수록량과 현대 1일량을 구분한다.",
+      "quote": "| 목향 | 5푼 |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--licorice",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 귀비탕의 감초 수록량. 역사적 수록량과 현대 1일량을 구분한다.",
+      "quote": "| 감초 | 3푼 |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--fresh-ginger",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 귀비탕의 전탕 추가 생강 5편. 역사적 수록량과 현대 1일량을 구분한다.",
+      "quote": "| 생강·대추 | 5편·2매, 달일 때 더함 |"
+    },
+    {
+      "id": "guibi-donguibogam--containsHerb--jujube-fruit",
+      "subject": "guibi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/guibi-tang.md#donguibogam-version",
+      "scope": "동의보감 귀비탕의 전탕 추가 대추 2매. 역사적 수록량과 현대 1일량을 구분한다.",
+      "quote": "| 생강·대추 | 5편·2매, 달일 때 더함 |"
+    },
+    {
+      "id": "shengmai-donguibogam--containsHerb--ophiopogon",
+      "subject": "shengmai-donguibogam",
+      "predicate": "containsHerb",
+      "object": "ophiopogon",
+      "source": "formulas/shengmai-san.md#donguibogam-version",
+      "scope": "동의보감 잡병편 서의 2:1:1 수록형. 의학심오의 2전·1전·15립형과 원 단위를 각각 보존한다.",
+      "quote": "| 맥문동 | 2전 | 양음·생진 |"
+    },
+    {
+      "id": "shengmai-donguibogam--containsHerb--ginseng",
+      "subject": "shengmai-donguibogam",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/shengmai-san.md#donguibogam-version",
+      "scope": "동의보감 잡병편 서의 2:1:1 수록형. 의학심오의 2전·1전·15립형과 원 단위를 각각 보존한다.",
+      "quote": "| 인삼 | 1전 | 익기 |"
+    },
+    {
+      "id": "shengmai-donguibogam--containsHerb--schisandra",
+      "subject": "shengmai-donguibogam",
+      "predicate": "containsHerb",
+      "object": "schisandra",
+      "source": "formulas/shengmai-san.md#donguibogam-version",
+      "scope": "동의보감 잡병편 서의 2:1:1 수록형. 의학심오의 2전·1전·15립형과 원 단위를 각각 보존한다.",
+      "quote": "| 오미자 | 1전 | 수렴·진액 보존을 돕는 역할 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-ipmun--containsHerb--fresh-rehmannia",
+      "subject": "gyeongok-donguibogam-ipmun",
+      "predicate": "containsHerb",
+      "object": "fresh-rehmannia",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 입문 인용 경옥고의 제조 배합: 생지황 16근·인삼 24량·백복령 48량·백밀 10근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-ipmun--containsHerb--ginseng",
+      "subject": "gyeongok-donguibogam-ipmun",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 입문 인용 경옥고의 제조 배합: 생지황 16근·인삼 24량·백복령 48량·백밀 10근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-ipmun--containsHerb--white-poria",
+      "subject": "gyeongok-donguibogam-ipmun",
+      "predicate": "containsHerb",
+      "object": "white-poria",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 입문 인용 경옥고의 제조 배합: 생지황 16근·인삼 24량·백복령 48량·백밀 10근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-ipmun--containsHerb--honey",
+      "subject": "gyeongok-donguibogam-ipmun",
+      "predicate": "containsHerb",
+      "object": "honey",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 입문 인용 경옥고의 제조 배합: 생지황 16근·인삼 24량·백복령 48량·백밀 10근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-wisaeng--containsHerb--fresh-rehmannia",
+      "subject": "gyeongok-donguibogam-wisaeng",
+      "predicate": "containsHerb",
+      "object": "fresh-rehmannia",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 위생방 별기 경옥고의 제조 배합: 생지황 8근·인삼 32량·백복령 24량·백밀 5근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-wisaeng--containsHerb--ginseng",
+      "subject": "gyeongok-donguibogam-wisaeng",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 위생방 별기 경옥고의 제조 배합: 생지황 8근·인삼 32량·백복령 24량·백밀 5근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-wisaeng--containsHerb--white-poria",
+      "subject": "gyeongok-donguibogam-wisaeng",
+      "predicate": "containsHerb",
+      "object": "white-poria",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 위생방 별기 경옥고의 제조 배합: 생지황 8근·인삼 32량·백복령 24량·백밀 5근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "gyeongok-donguibogam-wisaeng--containsHerb--honey",
+      "subject": "gyeongok-donguibogam-wisaeng",
+      "predicate": "containsHerb",
+      "object": "honey",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "동의보감 위생방 별기 경옥고의 제조 배합: 생지황 8근·인삼 32량·백복령 24량·백밀 5근. 표의 열 순서는 생지황·인삼·백복령·백밀이며 홍씨집험방의 복령 49량형과 구분한다. 제형·수치와 전체 제조량은 출처에서 확인한다.",
+      "quote": "| 수록형 | 생지황 | 인삼 | 백복령 | 백밀 |\n|---|---|---|---|---|\n| 《동의보감》에 인용된 《입문》 계열 | 16근, 즙 | 24량, 세말 | 48량, 세말 | 10근, 정련 |\n| 같은 조문에 별기한 《위생방》 | 8근 | 32량 | 24량 | 5근 |"
+    },
+    {
+      "id": "guibi-jisheng--sharesNameWith--guibi-donguibogam",
+      "subject": "guibi-jisheng",
+      "predicate": "sharesNameWith",
+      "object": "guibi-donguibogam",
+      "source": "formulas/guibi-tang.md#source-dose-original",
+      "scope": "같은 귀비탕 이름의 초기 8미형과 동의보감 10미·생강 대추 추가형. 약량·구성과 수록 위치를 각각 보존한다.",
+      "quote": "초기 《제생방》에는 당귀·원지가 없는 8미형이 수록됩니다. 아래 《동의보감》의 당귀·원지 추가형과 복신·복령 표기를 비교합니다."
+    },
+    {
+      "id": "shengmai-yixuexinwu--sharesNameWith--shengmai-donguibogam",
+      "subject": "shengmai-yixuexinwu",
+      "predicate": "sharesNameWith",
+      "object": "shengmai-donguibogam",
+      "source": "formulas/shengmai-san.md#source-dose-original",
+      "scope": "같은 세 약의 수록형이며 오미자의 원 단위와 양을 구별한다.",
+      "quote": "여기는 후대 《의학심오》의 2전·1전·15립형입니다. 생맥산의 성립 계통과 《동의보감》의 맥문동 2전·인삼과 오미자 각 1전형은 아래 별도 수록본에서 확인합니다."
+    },
+    {
+      "id": "gyeongok-hongshi--sharesNameWith--gyeongok-donguibogam-ipmun",
+      "subject": "gyeongok-hongshi",
+      "predicate": "sharesNameWith",
+      "object": "gyeongok-donguibogam-ipmun",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "경옥고 동명 수록형. 홍씨집험방 49량과 동의보감 입문 인용 48량, 위생방 별기 비율을 보존한다.",
+      "quote": "두 배합은 제조 규모만 다른 것이 아니라 **인삼과 다른 재료의 상대 비중도 다릅니다.** 《홍씨집험방》의 복령 49량 수록형도 앞 표대로 보존합니다."
+    },
+    {
+      "id": "gyeongok-hongshi--sharesNameWith--gyeongok-donguibogam-wisaeng",
+      "subject": "gyeongok-hongshi",
+      "predicate": "sharesNameWith",
+      "object": "gyeongok-donguibogam-wisaeng",
+      "source": "formulas/gyeongok-go.md#donguibogam-variants",
+      "scope": "경옥고 동명 수록형. 홍씨집험방 49량과 동의보감 입문 인용 48량, 위생방 별기 비율을 보존한다.",
+      "quote": "두 배합은 제조 규모만 다른 것이 아니라 **인삼과 다른 재료의 상대 비중도 다릅니다.** 《홍씨집험방》의 복령 49량 수록형도 앞 표대로 보존합니다."
     }
   ]
 }

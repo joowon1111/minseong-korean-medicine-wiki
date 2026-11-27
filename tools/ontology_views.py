@@ -50,17 +50,15 @@ def composition_tables(payload):
         source_links = ' · '.join(link('원문·구성 확인' if len(refs) == 1 else '출처 ' + str(i), url)
                                   for i, url in enumerate(refs, 1))
         lines.append('| ' + concept_link(formula) + ' | ' + herbs + ' | ' + source_links + ' |')
-    lines += ['', '각 수록형의 원문 약량·포제와 달일 때 더하는 재료는 출처 본문에서 함께 확인합니다. 산조인탕의 두 수록형은 각각의 이름과 출처를 유지하며, 복령·적복령·계심의 표기도 구분합니다.', '',
-              '### 공통 본초에서 처방 찾아가기 {#ontology-shared-herbs}', '',
-              '현재 두 개 이상의 처방 수록형에 구성 관계가 등록된 본초입니다. 인삼·복령·감초처럼 같은 본초가 여러 처방에 포함되는 경우 전체 배합과 출처를 비교할 수 있습니다.', '',
+    lines += ['', '각 수록형의 원문 약량·포제와 전탕 추가재료는 구성 출처에서 확인합니다. 귀비탕·산조인탕·생맥산·경옥고의 여러 수록형은 이름과 출처를 각각 유지합니다. 작약·백작약, 복령·백복령·적복령·복신, 건지황·숙지황, 계지·계심·육계도 원문과 가공에 맞춰 구분합니다.', '',
+              '### 본초에서 처방 찾아가기 {#ontology-shared-herbs}', '',
+              '현재 구성 관계가 등록된 본초를 모두 표시합니다. 인삼·황기·당귀처럼 여러 처방에 들어가는 약재는 수록형별 전체 배합과 출처를 비교하고, 약용 부위·가공·원문 약명이 다른 항목은 각각 확인할 수 있습니다.', '',
               '| 본초 | 구성 관계가 등록된 처방 수록형 |', '|---|---|']
     inverse = defaultdict(set)
     for formula, herbs in formulas.items():
         for herb in herbs:
             inverse[herb].add(formula)
     for herb in sorted(inverse, key=lambda key: (label(key), key)):
-        if len(inverse[herb]) < 2:
-            continue
         related = ' · '.join(concept_link(formula) for formula in sorted(inverse[herb], key=lambda key: (label(key), key)))
         lines.append('| ' + concept_link(herb) + ' | ' + related + ' |')
     return '\n'.join(lines) + '\n'
