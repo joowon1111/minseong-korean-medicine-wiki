@@ -20,6 +20,14 @@
   {% if page and page.is_homepage %}
     <meta property="og:title" content="{{ config.extra.homepage_title | default(config.site_name, true) | e }}" />
   {% endif %}
+  {% if page and page.file.src_uri in ["index.md", "network/index.md", "ai/site-structure.md", "ai-index.md"] %}
+    <link rel="describedby" type="application/ld+json" href="{{ 'assets/ai/ontology.jsonld' | url }}" title="한의학 온톨로지 — 출처 기반 개념·관계" />
+  {% endif %}
+  {% if page and page.file.src_uri == "network/index.md" %}
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"Dataset","name":"민성 한의학 온톨로지 — 출처 기반 개념·관계","description":"기존 아카이브 본문에서 선별한 본초·처방 수록형·변증·경혈·경맥·고전 조문과 출처·적용 조건을 함께 제공하는 개념·관계 데이터입니다.","url":"https://wiki.minseong.co.kr/network/#ontology-data","inLanguage":"ko","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"민성 한의학 아카이브","url":"https://wiki.minseong.co.kr/"},"distribution":{"@type":"DataDownload","encodingFormat":"application/ld+json","contentUrl":"https://wiki.minseong.co.kr/assets/ai/ontology.jsonld"}}
+    </script>
+  {% endif %}
   <meta name="google-site-verification" content="lQGiH8kyade_mMZ43jkTjY_zlgYdIhI-aNUg0w5pvfc" />
 {% endblock %}
 

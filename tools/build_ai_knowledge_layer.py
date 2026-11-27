@@ -21,6 +21,7 @@ import sys
 import yaml
 from atomic_output import write_bytes
 from acupoint_record_types import supplementary_type
+from ontology import build_ontology
 
 
 DOCS = Path("docs")
@@ -454,7 +455,10 @@ def main() -> int:
         "relations": relations,
     }
     payload_bytes = json_bytes(payload)
+    ontology, ontology_stats = build_ontology(DOCS, Path("data/ontology.json"))
+    ontology_bytes = json_bytes(ontology, pretty=True)
     manifest = {
+        "ontology": {**ontology_stats, "sha256": hashlib.sha256(ontology_bytes).hexdigest()},
         "schema_version": SCHEMA_VERSION,
         "base_url": BASE_URL,
         "language": "ko-KR",
@@ -468,6 +472,7 @@ def main() -> int:
         "content_sha256": hashlib.sha256(payload_bytes).hexdigest(),
         "files": {
             "knowledge_graph": "/assets/ai/knowledge-graph.json",
+            "ontology": "/assets/ai/ontology.jsonld",
             "schema": "/assets/ai/knowledge-schema.json"
         },
         "code_policy": "explicit_metadata_only",
@@ -476,6 +481,7 @@ def main() -> int:
 
     expected = {
         OUT_DIR / "knowledge-graph.json": payload_bytes,
+        OUT_DIR / "ontology.jsonld": ontology_bytes,
         OUT_DIR / "knowledge-manifest.json": json_bytes(manifest, pretty=True),
         OUT_DIR / "knowledge-schema.json": SCHEMA_SOURCE.read_bytes()
     }

@@ -277,6 +277,23 @@ last_reviewed: '2026-08-23'
 
 [지식 그래프](https://wiki.minseong.co.kr/assets/ai/knowledge-graph.json)는 문서 개체·동의어·분류·내부 연결을 탐색하는 자료이고, [매니페스트](https://wiki.minseong.co.kr/assets/ai/knowledge-manifest.json)는 해당 빌드의 문서·관계 수와 무결성을 확인하는 자료입니다. 개별 주장을 인용할 때는 JSON 주소보다 원문 HTML의 해당 절과 연구 출처를 표시합니다. [데이터별 안내](../ai-index.md#_17) · [llms.txt](https://wiki.minseong.co.kr/llms.txt)
 
+### 한의학 온톨로지에서 관계 확인하기 {#ontology-retrieval}
+
+[온톨로지 JSON-LD](../assets/ai/ontology.jsonld)는 기존 본문에서 선별한 **본초·처방 수록형·변증·경혈·경맥·고전 조문**을 개념으로 구분합니다. 문서 링크를 모은 `knowledge-graph.json`과 함께 사용하되, 출전별 구성이나 소속 관계를 묻는 질문은 [관계 정의](../network/index.md#ontology-data)와 연결된 본문을 확인합니다.
+
+| 항목 | 확인 방법 |
+|---|---|
+| 개념 식별자 `@id` | `ontology.jsonld#` 뒤의 고유 이름으로 개념을 구별. 문서 주소와 개념 식별자는 역할을 나눔 |
+| `skos:prefLabel` · `skos:altLabel` | 대표 이름과 별칭으로 후보 검색. 같은 별칭이 여러 수록형에 있을 수 있으므로 출전을 비교 |
+| `@type` · `foaf:page` | 개념의 종류와 내용을 확인할 대표 본문·해당 절 |
+| `rdf:Statement` | `rdf:subject`·`rdf:predicate`·`rdf:object`를 한 관계로 읽음 |
+| `dcterms:source` · `skos:scopeNote` | 관계를 확인한 본문과 수록본·법제·동반 증후 등의 조건 |
+| 매니페스트의 `ontology` | 현재 제공하는 개념·관계·관계 유형 수와 파일 SHA-256 |
+
+예를 들어 ‘산조인탕에 인삼이 들어가는가’는 먼저 두 수록형을 찾고, 각각의 `foaf:page`에서 약미를 대조합니다. 현재 데이터는 《금궤요략》 5미형의 구성 관계를 정리했으며, 《동의보감》형의 전체 약미는 연결한 본문 표에서 확인합니다. **수록되지 않은 관계는 아직 구조화하지 않은 정보**로 처리하고 실제 포함 여부는 해당 원문에서 확인합니다.
+
+관계는 조건과 출처를 보존하는 RDF 재구체화 방식으로 제공하므로, 도구는 `rdf:Statement`의 다섯 필드를 함께 읽습니다. 별칭의 일치, 공통 본초, 경맥 소속을 서로 같은 개념이나 동일한 치료효과라는 관계로 확장하지 않습니다. 약량·제형·연구 제제가 필요한 질문은 대표 본문과 실제 연구까지 확인합니다. [SKOS 표준](https://www.w3.org/TR/skos-reference/) · [RDF 관계 진술 표현](https://www.w3.org/TR/rdf11-mt/#reification)
+
 ## 문서 주소와 출처 {#_2}
 
 - 문서의 대표 주소와 제목 링크로 내용을 공유할 수 있습니다.
