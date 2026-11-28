@@ -492,6 +492,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#asparagus-root",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/ophiopogon-extra/"
+      },
+      "skos:altLabel": [
+        "天門冬"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "천문동 Asparagus cochinchinensis의 덩이뿌리. 양음윤조·청폐생진의 전통 배합과 맥문동의 기원 차이를 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "천문동"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#astragalus",
       "@type": [
         "skos:Concept",
@@ -613,6 +637,31 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "반하백출천마탕",
+        "半夏白朮天麻湯"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "비위론의 기본 13미 수록형. 원문 약량·포제·제법과 부재료·대용 조건을 각각 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "반하백출천마탕 — 비위론 수록형"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-houpo-jinkui",
       "@type": [
         "skos:Concept",
@@ -660,6 +709,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "반하사심탕 — 상한론 송본 수록형"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#barley-malt",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/barley-malt/"
+      },
+      "skos:altLabel": [
+        "麥芽"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "보리 열매를 발아·건조한 맥아. 소식건비의 배합과 생품·초품 및 수유 관련 조건을 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "맥아"
       }
     },
     {
@@ -2463,6 +2536,31 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "시호소간산",
+        "柴胡疏肝散"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "경악전서의 기본 7미 수록형. 원문 약량·포제·제법과 부재료·대용 조건을 각각 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "시호소간산 — 경악전서 수록형"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chuan-niuxi",
       "@type": [
         "skos:Concept",
@@ -2604,6 +2702,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "계지"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-aurantium-immature",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/citrus-aurantium-immature/"
+      },
+      "skos:altLabel": [
+        "枳殼"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "지각 원료의 열매. 지실·진피와 기원·채취 단계·약용 부위를 구분하고 이기·관중·행체의 배합을 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "지각"
       }
     },
     {
@@ -3425,6 +3547,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cyperus",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/cyperus/"
+      },
+      "skos:altLabel": [
+        "香附"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "향부자 Cyperus rotundus의 뿌리줄기. 소간해울·이기관중·조경지통과 생품·초제품을 구분한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "향부자"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#danggui-buxue-neiwaishang",
       "@type": [
         "skos:Concept",
@@ -3814,6 +3960,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "치자"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gastrodia",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/gastrodia/"
+      },
+      "skos:altLabel": [
+        "天麻"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "천마의 덩이줄기. 전통 식풍 배합과 풍담·간양의 동반 양상을 처방별로 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "천마"
       }
     },
     {
@@ -5963,6 +6133,54 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-gallbladder-timidity",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#traditional-pattern-care"
+      },
+      "skos:altLabel": [
+        "心膽虛怯"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "쉽게 놀람·심계·불안정한 잠과 병후 허약·담음의 동반 양상을 살피는 전통 변증 맥락."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "심담허겁"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-kidney-yin-blood-deficiency",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#traditional-pattern-care"
+      },
+      "skos:altLabel": [
+        "心腎陰血不足"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "음혈부족에 건조·야간 열감·심계·불안정한 잠이 동반되는 전통 변증 맥락."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "심신음혈부족"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-meridian",
       "@type": [
         "skos:Concept",
@@ -6362,6 +6580,56 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "곽향정기산 — 국방 수록형"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "skos:altLabel": [
+        "가미온담탕",
+        "加味溫膽湯"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114의 기본 11미와 전탕 생강·대조를 기록한 별도 수록형."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "가미온담탕 — 방약합편 향부자·맥문동 수록형"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "가미온담탕",
+        "加味溫膽湯"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "만병회춘의 기본 11미 수록형. 원문 약량·포제·제법과 부재료·대용 조건을 각각 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "가미온담탕 — 만병회춘 허번 수록형"
       }
     },
     {
@@ -8001,6 +8269,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#liver-qi-stagnation",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/diagnostics/patterns/liver-qi-stagnation/"
+      },
+      "skos:altLabel": [
+        "肝氣鬱結"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "긴장·식사와 함께 달라지는 흉협·명치 창만과 기체통을 살피는 전통 변증 맥락."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "간기울결"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#lizhong-shanghan",
       "@type": [
         "skos:Concept",
@@ -8798,6 +9090,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#massa-medicata-fermentata",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/massa-medicata-fermentata/"
+      },
+      "skos:altLabel": [
+        "神麯"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "곡물·식물성 원료를 배합해 발효한 신곡·신국. 원료·발효·볶음 가공과 소식화중 배합을 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "신곡"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#moschus",
       "@type": [
         "skos:Concept",
@@ -8940,6 +9256,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "자보신음"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#nourish-yin-blood-calm-heart",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#traditional-pattern-care"
+      },
+      "skos:altLabel": [
+        "滋陰養血·補心安神"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "심신음혈부족에서 해당 수록형과 동반 증후를 확인하며 설명하는 전통 치법."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "자음양혈·보심안신"
       }
     },
     {
@@ -9655,6 +9995,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-phlegm-calm-spirit",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#traditional-pattern-care"
+      },
+      "skos:altLabel": [
+        "理氣化痰·安神"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "심담허겁에서 해당 수록형과 동반 증후를 확인하며 설명하는 전통 치법."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "이기화담·안신"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-phlegm-harmonize-stomach",
       "@type": [
         "skos:Concept",
@@ -9704,6 +10068,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#salvia",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/salvia/"
+      },
+      "skos:altLabel": [
+        "丹參"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "단삼의 약용 뿌리. 혈분·안신의 전통 배합과 실제 원료·포제·병용 조건을 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "단삼"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#saposhnikovia",
       "@type": [
         "skos:Concept",
@@ -9750,6 +10138,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "오미자"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scrophularia",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/scrophularia/"
+      },
+      "skos:altLabel": [
+        "玄參"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "현삼의 약용 뿌리. 전통 자음·청열 배합과 처방별 볶음 등 가공 기록을 구분한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "현삼"
       }
     },
     {
@@ -10718,6 +11130,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "수태양소장경"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#soothe-liver-regulate-qi-move-blood-relieve-pain",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#traditional-pattern-care"
+      },
+      "skos:altLabel": [
+        "疏肝理氣·活血止痛"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "간기울결에서 해당 수록형과 동반 증후를 확인하며 설명하는 전통 치법."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "소간이기·활혈지통"
       }
     },
     {
@@ -13146,6 +13582,55 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#thuja-seed",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/thuja-seed/"
+      },
+      "skos:altLabel": [
+        "柏子仁"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "측백나무 계열의 종인인 백자인. 양심안신·윤장 배합과 볶음·거유·유지 품질을 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "백자인"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "천왕보심단",
+        "天王補心丹"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "의방집해의 기본 13미 수록형. 원문 약량·포제·제법과 부재료·대용 조건을 각각 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "천왕보심단 — 의방집해 수록형"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-blood",
       "@type": [
         "skos:Concept",
@@ -13736,6 +14221,328 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "좌귀환 — 경악전서 수록형"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--alisma",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [택사](../herbs/alisma.md) · 澤瀉 | 5分 | 별도 포제 표기 없음 | 수습을 내려 정체를 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#alisma"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--astragalus",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [황기](../herbs/astragalus.md) · 黃耆 | 5分 | 별도 포제 표기 없음 | 기를 보하고 고표·회복의 바탕을 받침 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#astragalus"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--atractylodes",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [백출](../herbs/atractylodes.md) · 白朮 | 1전 | 별도 포제 표기 없음 | 건비·조습으로 운화를 돕고 보기약을 보완 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#atractylodes"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--atractylodes-lancea",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 5分 | 별도 포제 표기 없음 | 조습·건비로 습체와 중초의 정체를 다룸 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#atractylodes-lancea"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--barley-malt",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [맥아](../herbs/barley-malt.md) · 大麥糵面 | 1전5分 | 별도 포제 표기 없음 | 곡류·전분성 음식의 적체를 소화하는 축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#barley-malt"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--citrus-peel",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [진피](../herbs/citrus-peel.md) · 橘皮 | 1전5分 | 별도 포제 표기 없음 | 이기·조습으로 팽만과 담습을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-peel"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--dried-ginger",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [건강](../herbs/dried-ginger.md) · 乾薑 | 3分 | 별도 포제 표기 없음 | 중초의 허한을 덥히는 온중축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#dried-ginger"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--gastrodia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [천마](../herbs/gastrodia.md) · 天麻 | 5分 | 별도 포제 표기 없음 | 풍담·현훈과 움직임의 불편을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gastrodia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--ginseng",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [인삼](../herbs/ginseng.md) · 人參 | 5分 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ginseng"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--massa-medicata-fermentata",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [신곡](../herbs/massa-medicata-fermentata.md) · 炒曲 | 1전 | 초(볶음) | 발효 약재로 식적·소화 정체를 다룸 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#massa-medicata-fermentata"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--phellodendron",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [황백](../herbs/phellodendron.md) · 黃柏 | 2分 | 약미표 뒤 해설에 주세(술로 씻음) 기록 | 고한한 청열·조습축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#phellodendron"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--pinellia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [반하](../herbs/pinellia.md) · 半夏 | 1전5分 | 뜨거운 물로 7회 씻음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pinellia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--containsHerb--white-poria",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [백복령](../herbs/poria.md) · 白茯苓 | 5分 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#white-poria"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-banxia-baizhu-tianma-piwei--hasTraditionalPatternContext--spleen-qi-deficiency-with-phlegm",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 《비위론》 수록형은 **비허담습**의 전통 변증 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/banxia-baizhu-tianma-tang/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#spleen-qi-deficiency-with-phlegm"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#banxia-baizhu-tianma-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론 13미 수록형. 황백 二分·주세, 건강 三分, 천마·창출·백복령·황기·택사·인삼 각 五分, 백출·炒曲 각 一錢, 반하 湯洗七次·대맥얼면·귤피 각 一錢五分. 매회 半兩을 물 二盞에서 一盞으로 달여 거재·열복·식전. 동의보감의 생강 5쪽 추가는 별도 수록형이며 이 기본 구성에 합치지 않는다. 원전 주치와 구별한 후대 변증·배합 맥락이며, 본문의 동반 증후·원인 평가·경과 확인을 함께 따른다."
       }
     },
     {
@@ -16013,6 +16820,190 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "비위론의 8미 구성과 승마·시호의 승양 설명을 바탕으로 한 현대 방제학적 해설. 원문 음식실절·노권·열중과 현대 중기하함 명칭을 구분하며, 원문 약량·가감 조건과 후대 수록방·현대 제제를 각각 유지한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--containsHerb--bupleurum",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [시호](../herbs/bupleurum.md) · 柴胡 | 2전 | 별도 포제 표기 없음 | 소양·간울의 기기 조절을 맡음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#bupleurum"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--containsHerb--chuanxiong",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 1전반 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chuanxiong"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--containsHerb--citrus-aurantium-immature",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 1전반 | 밀기울로 볶음 | 기체·팽만을 조절하는 행기축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-aurantium-immature"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--containsHerb--citrus-peel",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 2전 | 식초로 볶음 | 이기·조습으로 팽만과 담습을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-peel"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--containsHerb--cyperus",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [향부자](../herbs/cyperus.md) · 香附 | 1전반 | 별도 포제 표기 없음 | 기울을 풀어 흉복부와 월경의 기체를 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cyperus"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--containsHerb--licorice",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 五分 | 자(굽거나 볶음) | 중초를 돕고 완급·배합 조화를 맡음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#licorice"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--containsHerb--shaoyao-source-name",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [작약](../herbs/white-peony.md) · 芍藥 | 1전반 | 별도 포제 표기 없음 | 영혈을 조화하고 긴장·리급을 완화하는 축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#shaoyao-source-name"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-chaihu-shugan-jingyue--hasTraditionalPatternContext--liver-qi-stagnation",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 《경악전서》 수록형은 **간기울결**의 전통 변증 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#liver-qi-stagnation"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#chaihu-shugan-jingyue"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "경악전서 7미 수록형. 진피 醋炒·시호 각 二錢, 천궁·지각 麩炒·작약·향부자 각 一錢半, 감초 炙 五分. 원문 芍藥을 보존하며 지각과 지실을 구분한다. 물 一鍾半·煎八分·식전 복용은 전탕 조건으로 기록하고 감초 五分의 약량과 구분한다. 현대 급여 시호소간탕 및 연구 가감방의 약량·제형은 각각 확인한다. 원전 주치와 구별한 후대 변증·배합 맥락이며, 본문의 동반 증후·원인 평가·경과 확인을 함께 따른다."
       }
     },
     {
@@ -20248,6 +21239,52 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-heart-gallbladder-timidity--hasTraditionalTreatmentPrinciple--regulate-qi-transform-phlegm-calm-spirit",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "심담허겁에 담음·허번이 겹친 이 배합의 전통 치법은 **이기화담·안신(理氣化痰·安神)**입니다. 반하·진피·죽여·지실·복령·감초에 산조인·원지·오미자, 인삼·숙지황을 배치한 수록형을 기준으로 설명합니다. [온담탕](wendan-tang.md#source-dose-original)의 담위불화 배합과 [귀비탕](guibi-tang.md)의 심비양허 배합을 각각 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-phlegm-calm-spirit"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-gallbladder-timidity"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "심담허겁의 후대 변증·배합 해설. 원전의 주치 표현과 현대 변증 명칭을 구분하며, 이기화담·안신은 본문에 명시한 동반 증후와 해당 수록형의 배합으로 비교한다. 원전 기록과 현대 연구의 대상·제제·효과는 각각 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-heart-kidney-yin-blood-deficiency--hasTraditionalTreatmentPrinciple--nourish-yin-blood-calm-heart",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "심신음혈부족에서 이 배합을 설명하는 전통 치법은 **자음양혈·보심안신(滋陰養血·補心安神)**입니다. 생지황·천문동·맥문동·현삼의 자음과 당귀·단삼의 혈분 배합에 산조인·백자인·원지를 함께 둡니다. [귀비탕](guibi-tang.md)의 식욕저하·피로·건망을 동반한 심비양허, [가미온담탕](jiawei-wendan-tang.md#traditional-pattern-care)의 담음·쉽게 놀람·병후 허약과 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#nourish-yin-blood-calm-heart"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-kidney-yin-blood-deficiency"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "심신음혈부족의 후대 변증·배합 해설. 원전의 주치 표현과 현대 변증 명칭을 구분하며, 자음양혈·보심안신은 본문에 명시한 동반 증후와 해당 수록형의 배합으로 비교한다. 원전 기록과 현대 연구의 대상·제제·효과는 각각 확인한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-heart-spleen-deficiency--hasTraditionalTreatmentPrinciple--tonify-qi-nourish-blood-calm-spirit",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -21096,6 +22133,650 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "국방 곽향정기산의 기본 구성. 원문 약명 茯苓, 수록량 1량, 포제 껍질 제거. 역사적 배합량과 현대 제제·1일량을 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--bamboo-shavings",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [죽여](../herbs/bamboo-shavings.md) | 3 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#bamboo-shavings"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--bupleurum",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 시호 | 2.25 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#bupleurum"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--citrus-immature",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 지실 | 3 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-immature"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--citrus-red-peel",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 귤홍 | 4.5 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-red-peel"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--cyperus",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 향부자 | 9 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cyperus"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--fresh-ginger",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "**가미:** 생강 3편, 대조 2매"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-ginger"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--ginseng",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 인삼 | 2.25 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ginseng"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--jujube-fruit",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "**가미:** 생강 3편, 대조 2매"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jujube-fruit"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--licorice",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 감초 | 1.5 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#licorice"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--ophiopogon",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 맥문동 | 2.25 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ophiopogon"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--pinellia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 반하 | 3 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pinellia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--platycodon",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 길경 | 2.25 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#platycodon"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-bangyak--containsHerb--white-poria",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| 백복령 | 2.25 g |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#_3"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#white-poria"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--bamboo-shavings",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [죽여](../herbs/bamboo-shavings.md) · 竹茹 | 1전반 | 별도 포제 표기 없음 | 담열·위기상역과 번조를 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#bamboo-shavings"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--citrus-immature",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [지실](../herbs/citrus-immature.md) · 枳實 | 1전반 | 밀기울로 볶음 | 기체·비만·담적을 내려 풀어 주는 축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-immature"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--citrus-peel",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 二錢二分 | 별도 포제 표기 없음 | 이기·조습으로 팽만과 담습을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-peel"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--fresh-ginger",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "원문 제법은 「上銼一劑。薑、棗煎服。」으로, 한 제를 썰어 생강·대조와 달인다고 기록합니다. 생강·대조의 개수는 이 기록에 없습니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-ginger"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 생강·대조는 기본 11미 외 전탕 추가재료이며 개수를 추정하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--ginseng",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [인삼](../herbs/ginseng.md) · 人參 | 1전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ginseng"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--jujube-fruit",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "원문 제법은 「上銼一劑。薑、棗煎服。」으로, 한 제를 썰어 생강·대조와 달인다고 기록합니다. 생강·대조의 개수는 이 기록에 없습니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jujube-fruit"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 생강·대조는 기본 11미 외 전탕 추가재료이며 개수를 추정하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--licorice",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 一錢，一分 | 별도 포제 표기 없음 | 중초를 돕고 완급·배합 조화를 맡음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#licorice"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--pinellia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [반하](../herbs/pinellia.md) · 半夏 | 3전반 | 7회 담금 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pinellia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--polygala",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [원지](../herbs/polygala.md) · 遠志 | 1전 | 심 제거 | 담과 심신의 불안을 함께 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#polygala"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--poria",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [복령](../herbs/poria.md) · 茯苓 | 一錢，一分 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#poria"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--prepared-rehmannia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [숙지황](../herbs/prepared-rehmannia.md) · 熟地黃 | 1전 | 별도 포제 표기 없음 | 음혈·정혈을 기르는 자윤한 보익축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#prepared-rehmannia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--schisandra",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [오미자](../herbs/schisandra.md) · 五味子 | 1전 | 별도 포제 표기 없음 | 폐기와 진액의 소모를 거두는 수렴축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#schisandra"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--containsHerb--ziziphus-seed",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 1전 | 초(볶음) | 음혈을 바탕으로 심신을 안정시키는 축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ziziphus-seed"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--hasTraditionalPatternContext--heart-gallbladder-timidity",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 《만병회춘》 수록형은 **심담허겁**의 전통 변증 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-gallbladder-timidity"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 허번의 기본 11미. 반하 泡七次 三錢半, 죽여·지실 麩炒 각 一錢半, 진피 二錢二分, 복령·감초 各一錢，一分의 공개 전사 표기를 보존하고 확정량으로 정규화하지 않는다. 산조인 炒·원지 去心·오미자·인삼·숙지황 각 一錢. 上銼一劑·薑棗煎服은 생강·대조를 더하는 전탕 조건이며 개수는 미기재다. 방약합편 향부자·맥문동형과 구성·약량을 구분한다. 원전 주치와 구별한 후대 변증·배합 맥락이며, 본문의 동반 증후·원인 평가·경과 확인을 함께 따른다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-jiawei-wendan-wanbing--sharesNameWith--jiawei-wendan-bangyak",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "약미 수가 둘 다 11개라는 사실은 동일 처방의 근거가 되지 않습니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/jiawei-wendan-tang/#homonymous-formula-comparison"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-bangyak"
+      },
+      "rdf:predicate": {
+        "@id": "km:sharesNameWith"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#jiawei-wendan-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다."
       }
     },
     {
@@ -23005,6 +24686,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "소아약증직결의 숙지황 8전·산수유육과 산약 각 4전·택사와 목단피 및 백복령 각 3전 수록형을 후대 신음허의 변증·배합 해석과 연결한다. 소아 원문의 신겁·제법과 후대 성인 활용·현대 시험 제제를 구분하며, 건조·도한·허열과 요슬·소화 상태를 함께 살핀다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-liver-qi-stagnation--hasTraditionalTreatmentPrinciple--soothe-liver-regulate-qi-move-blood-relieve-pain",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "간기울결에서 기체통이 두드러질 때의 전통 치법은 **소간이기·활혈지통(疏肝理氣·活血止痛)**입니다. 시호·진피·지각·향부자의 기기 조절에 천궁과 작약·감초의 혈분·완급 배합을 함께 봅니다. 원문 芍藥은 작약으로 기록하고, 지각을 지실로 바꾸지 않습니다. [간기울결의 동반 증상과 경과](../diagnostics/patterns/liver-qi-stagnation.md)를 확인하고, 혈허·비허가 함께 두드러지는 [소요산](xiaoyao-san.md)과 구분합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/chaihu-shugan-san/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#soothe-liver-regulate-qi-move-blood-relieve-pain"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#liver-qi-stagnation"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "간기울결의 후대 변증·배합 해설. 원전의 주치 표현과 현대 변증 명칭을 구분하며, 소간이기·활혈지통은 본문에 명시한 동반 증후와 해당 수록형의 배합으로 비교한다. 원전 기록과 현대 연구의 대상·제제·효과는 각각 확인한다."
       }
     },
     {
@@ -29192,6 +30896,351 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "WHO 표준 361경혈 중 수소양삼초경 소속 TE9의 분류 관계. 혈명·한자·코드는 기존 표준 경혈 목록과 대조하고, 소속은 해당 경맥의 전체 소속 경혈표에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--angelica",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [당귀](../herbs/angelica.md) · 當歸 | 1량 | 술로 씻음 | 혈을 기르면서 혈행을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#angelica"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--asparagus-root",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [천문동](../herbs/ophiopogon-extra.md) · 天冬 | 1량 | 초(볶음) | 폐신 음액과 건조를 보완 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#asparagus-root"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--fresh-rehmannia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [생지황](../herbs/fresh-rehmannia.md) · 生地 | 4량 | 술로 씻음 | 음액을 보존하고 혈분의 열을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-rehmannia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--ginseng",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [인삼](../herbs/ginseng.md) · 人參 | 5전 | 별도 포제 표기 없음 | 기를 보하고 비위·회복의 바탕을 받침 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ginseng"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--honey",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "生地（四兩。酒洗）　人參　玄參（炒）　丹參（炒）　茯苓（一用茯神）　桔梗　遠志（炒。五錢）　酸棗仁（炒）　柏子仁（炒，研去油）　天冬（炒）　麥冬（炒）　當歸（酒洗）　五味子（一兩。炒。）蜜丸，彈子大，硃砂為衣。臨臥燈心湯下一丸，或噙含化。"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#honey"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 봉밀은 蜜丸의 제환 보조재료이며 약량은 미기재다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--ophiopogon",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [맥문동](../herbs/ophiopogon.md) · 麥冬 | 1량 | 초(볶음) | 폐위의 음액·건조를 보완 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ophiopogon"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--platycodon",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [길경](../herbs/platycodon.md) · 桔梗 | 5전 | 별도 포제 표기 없음 | 폐기를 펼치고 인후·담을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#platycodon"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--polygala",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [원지](../herbs/polygala.md) · 遠志 | 5전 | 초(볶음) | 담과 심신의 불안을 함께 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#polygala"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--poria",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [복령](../herbs/poria.md) · 茯苓 | 5전 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#poria"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--salvia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [단삼](../herbs/salvia.md) · 丹參 | 5전 | 초(볶음) | 혈행을 조절하고 혈분·안신축을 보완 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#salvia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--schisandra",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [오미자](../herbs/schisandra.md) · 五味子 | 1량 | 초(볶음) | 폐기와 진액의 소모를 거두는 수렴축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#schisandra"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--scrophularia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [현삼](../herbs/scrophularia.md) · 玄參 | 5전 | 초(볶음) | 음액을 받치면서 열·인후 불편을 조절 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scrophularia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--thuja-seed",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [백자인](../herbs/thuja-seed.md) · 柏子仁 | 1량 | 초(볶음)·갈아서 기름기 제거 | 양심안신·윤장으로 건조와 불면축을 보완 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#thuja-seed"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--containsHerb--ziziphus-seed",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [산조인](../herbs/ziziphus-seed.md) · 酸棗仁 | 1량 | 초(볶음) | 음혈을 바탕으로 심신을 안정시키는 축 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ziziphus-seed"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 이 관계의 본초·약량·포제는 인용한 구성표 행에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-tianwang-buxin-yifang--hasTraditionalPatternContext--heart-kidney-yin-blood-deficiency",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 《의방집해》 수록형은 **심신음혈부족**의 전통 변증 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/tianwang-buxin-dan/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-kidney-yin-blood-deficiency"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tianwang-buxin-yifang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "의방집해 기본 13미와 봉밀 제환. 생지황 酒洗 四兩, 인삼·현삼·단삼·복령·길경·원지 각 五錢, 산조인·백자인·천문동·맥문동·당귀·오미자 각 一兩은 원문의 연속 열거를 묶어 읽은 해석이다. 현삼·단삼·원지·산조인·백자인·천문동·맥문동·오미자의 炒, 백자인 研去油, 당귀 酒洗를 보존한다. 茯苓一用茯神은 대용 기록이다. 봉밀은 제환 재료, 硃砂為衣는 역사적 환의, 燈心湯은 복용 매개로 구분한다. 임와 一丸 또는 함화 기록이며 현대 주사 제외 제제의 실제 구성·용량은 제품별 확인한다. 원전 주치와 구별한 후대 변증·배합 맥락이며, 본문의 동반 증후·원인 평가·경과 확인을 함께 따른다."
       }
     },
     {
