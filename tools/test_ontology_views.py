@@ -13,7 +13,7 @@ class OntologyViews(unittest.TestCase):
     def test_treatment_routes_keep_exact_ids_and_both_qualified_sources(self):
         rendered = views.pattern_treatment_routes(self.payload)
         rows = [line for line in rendered.splitlines() if line.startswith('| <a')]
-        self.assertEqual(len(rows), 13)
+        self.assertEqual(len(rows), 14)
         blood = next(row for row in rows if '사물탕 — 국방 수록형' in row)
         self.assertIn('>혈허</a>', blood)
         self.assertIn('>보혈</a>', blood)
@@ -22,16 +22,15 @@ class OntologyViews(unittest.TestCase):
             row = next(row for row in rows if name in row)
             self.assertIn('>기혈양허</a>', row)
             self.assertIn('>기혈쌍보</a>', row)
-        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 13)
+        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 14)
         self.assertIn('외과이례', rendered)
         self.assertIn('五分', rendered)
         self.assertIn('냉감', rendered)
         for node in self.payload['@graph']:
             if node.get('rdf:predicate', {}).get('@id') in (
                     'km:hasTraditionalTreatmentPrinciple', 'km:hasTraditionalPatternContext'):
-                if 'phlegm-qi-binding' not in node['rdf:object']['@id']:
-                    self.assertIn(node['dcterms:source']['@id'], rendered)
-        self.assertNotIn('반하후박탕', rendered)
+                self.assertIn(node['dcterms:source']['@id'], rendered)
+        self.assertIn('반하후박탕 — 금궤요략 수록형', rendered)
         self.assertEqual(rendered, views.pattern_treatment_routes(self.payload))
 
     def test_route_join_does_not_infer_from_aliases_or_navigation(self):
@@ -66,7 +65,7 @@ class OntologyViews(unittest.TestCase):
         record['dcterms:description']['@value'] = '<img src=x onerror=bad()> | [click](javascript:bad) **excerpt**'
         payload['@graph'].append(record)
         rendered = views.pattern_treatment_routes(payload)
-        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 14)
+        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 15)
         self.assertIn(record['dcterms:source']['@id'], rendered)
         self.assertIn('left &#124; right<br>&lt;script&gt;', rendered)
         self.assertIn('&lt;img', rendered)

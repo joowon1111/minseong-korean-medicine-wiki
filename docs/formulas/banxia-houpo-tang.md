@@ -154,7 +154,7 @@ Kawago 등은 2019년 *Annals of Thoracic and Cardiovascular Surgery*에 일본 
 
 담기울결의 목 이물감·흉민을 비허담습·식적과 비교하고, 실제 연하곤란 및 역류 증상의 감별로 연결합니다.
 
-[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담기울결과 비허담습 비교](../diagnostics/patterns/phlegm-fluid.md#phlegm-qi-binding) · [화담·이기·건비 치료](../pattern-treatment/phlegm-fluid.md) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)
+[담음 전체 안내](../diagnostics/phlegm-fluid.md) · [담기울결과 비허담습 비교](../diagnostics/patterns/phlegm-fluid.md#phlegm-qi-binding) · [담기울결의 행기산결·강역화담](../pattern-treatment/phlegm-fluid.md#phlegm-qi-binding-care) · [담적과 만성 소화불편](../diagnostics/phlegm-accumulation.md)
 
 ## 증상별 감별·처방·치료로 이어가기 {#symptom-care-routes}
 

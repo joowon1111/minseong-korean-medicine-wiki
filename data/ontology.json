@@ -5865,6 +5865,16 @@
       "aliases": [
         "理氣化痰·和胃利膽"
       ]
+    },
+    {
+      "id": "move-qi-dissipate-binding-transform-phlegm",
+      "type": "TreatmentPrinciple",
+      "label": "행기산결·강역화담",
+      "page": "pattern-treatment/phlegm-fluid.md#phlegm-qi-binding-care",
+      "definition": "담기울결에서 기의 소통과 맺힌 양상을 풀고 담·기역을 함께 살피는 전통 치법. 목 이물감·흉민·오심과 긴장·식사의 관계, 실제 연하곤란의 원인 평가를 함께 확인한다.",
+      "aliases": [
+        "行氣散結·降逆化痰"
+      ]
     }
   ],
   "predicates": {
@@ -12661,6 +12671,15 @@
       "source": "formulas/wendan-tang.md#source-dose-original",
       "scope": "삼인극일병증방론 권9 허번의 기본 6미와 매회 전탕하는 생강·대조 수록형을 담위불화의 후대 변증·배합 해설과 연결한다. 원문의 대병후 허번·불면·경계 주치와 후대 해석을 구분하며, 반하 탕세칠차·지실 부초거양, 제조분·매회 四大錢을 보존한다. 동의보감형·황련온담탕·가미온담탕 및 동명 이방은 각각 확인한다.",
       "quote": "이 삼인방 권9 허번의 온담탕 수록형은 [담위불화](../pattern-treatment/phlegm-fluid.md#phlegm-stomach-care)의 후대 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "phlegm-qi-binding--hasTraditionalTreatmentPrinciple--move-qi-dissipate-binding-transform-phlegm",
+      "subject": "phlegm-qi-binding",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "move-qi-dissipate-binding-transform-phlegm",
+      "source": "pattern-treatment/phlegm-fluid.md#phlegm-qi-binding-care",
+      "scope": "담기울결의 후대 변증·치법 해설. 목 이물감·흉민·한숨·오심과 긴장·식사 전후의 변동을 함께 살핀다. 반하후박탕 금궤 5미 수록형의 화담·행기·강역 배합을 비교하며, 비허담습의 익기건비·화담 및 담위불화의 이기화담·화위이담과 구분한다. 실제 연하곤란·연하통·체중감소·출혈은 원인 평가로 연결한다.",
+      "quote": "담기울결의 전통 치법은 **행기산결·강역화담(行氣散結·降逆化痰)**입니다."
     }
   ]
 }
