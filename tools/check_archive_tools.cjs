@@ -100,7 +100,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       }
       await page.locator('#ontology-formula-compositions').scrollIntoViewIfNeeded();
       await page.screenshot({path:`archive-browser-results/${name}-ontology-compositions.png`,fullPage:false});
-      for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark','perilla-leaf','magnolia-bark','astragalus','angelica','licorice','prepared-rehmannia','atractylodes','fresh-ginger','jujube-fruit','cinnamon-twig','pinellia','moschus','cervi-parvum-cornu','cornus-fructus','dried-ginger']){
+      for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark','perilla-leaf','magnolia-bark','astragalus','angelica','licorice','prepared-rehmannia','atractylodes','fresh-ginger','jujube-fruit','cinnamon-twig','pinellia','moschus','cervi-parvum-cornu','cornus-fructus','dried-ginger','achyranthes']){
         const herbIds=new Set(ontology['@graph'].filter(n=>Array.isArray(n['@type'])&&n['@type'].includes('km:Herb')&&new URL(n['foaf:page']['@id']).pathname==='/herbs/'+slug+'/').map(n=>n['@id']));
         const records=compositions.filter(n=>herbIds.has(n['rdf:object']['@id']));
         const expectedRows=new Set(records.map(n=>JSON.stringify([n['rdf:object']['@id'],n['rdf:subject']['@id'],n['dcterms:source']['@id']])));
@@ -136,6 +136,13 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
           await page.screenshot({path:`archive-browser-results/${name}-ontology-herb-parts.png`,fullPage:false});
         }
       }
+      await page.goto(base+'/diagnostics/differentials/kidney-yin-vs-yang/#_3');
+      for(let number=1;number<=7;number++)assert.equal(await page.locator('#_'+number).count(),1,'kidney comparison keeps its prior anchors');
+      for(const anchor of ['nourish-kidney-yin','warm-kidney-yang'])assert.equal(await page.locator('#'+anchor).count(),1);
+      for(const slug of ['liuwei-dihuang-wan','bawei-dihuang-wan','zuogui-wan','yougui-wan'])assert.ok((await page.locator(`.md-content a[href*="/formulas/${slug}/"]`).count())>0);
+      assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+2),false,'kidney pattern comparison must fit the viewport');
+      await page.locator('#nourish-kidney-yin').scrollIntoViewIfNeeded();
+      await page.screenshot({path:`archive-browser-results/${name}-kidney-patterns.png`,fullPage:false});
       const catalog=JSON.parse(fs.readFileSync('docs/assets/archive-tools/comparison.json','utf8'));
       const formulaCount=catalog.cards.filter(c=>c.kind==='formula').length;
       await page.goto(base+'/herbal-integrated/formula-structure/');

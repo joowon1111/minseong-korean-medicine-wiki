@@ -5710,6 +5710,121 @@
       "aliases": [
         "氣血雙補"
       ]
+    },
+    {
+      "id": "kidney-yin-deficiency",
+      "type": "Pattern",
+      "label": "신음허",
+      "page": "diagnostics/differentials/kidney-yin-vs-yang.md#_3",
+      "definition": "요슬무력과 함께 건조·도한·허열 등 음액·정혈 부족의 조합을 살피는 전통 변증. 식사·소화·수면과 현재의 질환 평가를 함께 확인한다.",
+      "aliases": [
+        "腎陰虛"
+      ]
+    },
+    {
+      "id": "kidney-yang-deficiency",
+      "type": "Pattern",
+      "label": "신양허",
+      "page": "diagnostics/differentials/kidney-yin-vs-yang.md#_4",
+      "definition": "요슬의 시림·무력과 냉감·배뇨·부종·배변의 변화를 함께 살피는 전통 변증. 신장 여과기능 검사와는 별도로 평가한다.",
+      "aliases": [
+        "腎陽虛"
+      ]
+    },
+    {
+      "id": "nourish-kidney-yin",
+      "type": "TreatmentPrinciple",
+      "label": "자보신음",
+      "page": "diagnostics/differentials/kidney-yin-vs-yang.md#nourish-kidney-yin",
+      "definition": "신음허에서 음액·정혈을 보하는 전통 치법. 허열·수습·소화와 정혈 보충의 비중에 따라 배합을 비교한다.",
+      "aliases": [
+        "滋補腎陰"
+      ]
+    },
+    {
+      "id": "warm-kidney-yang",
+      "type": "TreatmentPrinciple",
+      "label": "온보신양",
+      "page": "diagnostics/differentials/kidney-yin-vs-yang.md#warm-kidney-yang",
+      "definition": "신양허에서 양을 따뜻하게 보하는 전통 치법. 수분대사·기화와 정혈·근골 보충의 비중을 나누어 배합한다.",
+      "aliases": [
+        "溫補腎陽"
+      ]
+    },
+    {
+      "id": "zuogui-jingyue",
+      "type": "Formula",
+      "label": "좌귀환 — 경악전서 수록형",
+      "page": "formulas/zuogui-wan.md#source-dose-original",
+      "definition": "경악전서 보진의 숙지황 중심 기본 8미 환제. 천우슬·귀판교의 사용 조건과 녹각교·귀판교의 교질 원료를 보존한다.",
+      "aliases": [
+        "좌귀환",
+        "左歸丸"
+      ]
+    },
+    {
+      "id": "yougui-jingyue",
+      "type": "Formula",
+      "label": "우귀환 — 경악전서 수록형",
+      "page": "formulas/yougui-wan.md#source-dose-original",
+      "definition": "경악전서 보진의 정혈 보익 바탕에 육계·법제 부자를 배합한 기본 10미 환제. 당귀의 사용 조건과 원전 증량 범위를 보존한다.",
+      "aliases": [
+        "우귀환",
+        "右歸丸"
+      ]
+    },
+    {
+      "id": "wolfberry-fruit",
+      "type": "Herb",
+      "label": "구기자",
+      "page": "herbs/cornus-extra.md",
+      "definition": "성숙한 붉은 열매를 약용하는 구기자. 뿌리껍질 지골피와 원료·약용 부위를 구분한다.",
+      "aliases": [
+        "枸杞",
+        "枸杞子"
+      ]
+    },
+    {
+      "id": "cuscuta-seed",
+      "type": "Herb",
+      "label": "토사자",
+      "page": "herbs/cuscuta-seed.md",
+      "definition": "토사자의 종자를 약용하는 본초 개념. 제(製)·초 등 처방의 가공 지시와 실제 원료를 확인한다.",
+      "aliases": [
+        "菟絲子"
+      ]
+    },
+    {
+      "id": "deer-antler-gelatin",
+      "type": "Herb",
+      "label": "녹각교",
+      "page": "herbs/deer-antler-gelatin.md",
+      "definition": "골질화된 녹각을 달여 얻은 교질. 어린 뿔인 녹용과 구분하고 원문의 鹿膠·鹿角膠 및 초주 기록을 보존한다.",
+      "aliases": [
+        "鹿角膠",
+        "鹿膠"
+      ]
+    },
+    {
+      "id": "turtle-plastron-gelatin",
+      "type": "Herb",
+      "label": "귀판교",
+      "page": "herbs/turtle-plastron-gelatin.md",
+      "definition": "귀판을 가공해 얻은 교질 원료. 절편·원료와 교질을 구분하며 좌귀환 원문의 龜膠·초주·사용 조건을 확인한다.",
+      "aliases": [
+        "龜板膠",
+        "龜膠"
+      ]
+    },
+    {
+      "id": "chuan-niuxi",
+      "type": "Herb",
+      "label": "천우슬",
+      "page": "herbs/achyranthes.md#processing",
+      "definition": "좌귀환 원문의 川牛膝를 구분하는 본초 개념. 우슬·회우슬과 기원·규격을 각각 확인하고 주세·증숙과 사용 조건을 보존한다.",
+      "aliases": [
+        "川牛膝"
+      ]
     }
   ],
   "predicates": {
@@ -12245,6 +12360,222 @@
       "source": "formulas/shi-quan-da-bu-tang.md#immune-metabolic-network",
       "scope": "국방의 십미 등분 제조 배합과 전탕 시 생강·대조의 별기를 보존한다. 기혈양허에 냉감·허약이 겹칠 때 황기·육계의 보기·온보를 함께 비교하며, 열감·소화력·땀과 회복 상태를 살핀다. 외과이례 수록량·포제, 현대 탕제 및 시험 제제는 각각 구분한다.",
       "quote": "기혈양허와 오래된 쇠약·회복 지연을 살피며, 열감·소화력·냉감·땀의 양상에 따라 다른 보익 처방과 비교합니다."
+    },
+    {
+      "id": "kidney-yin-deficiency--hasTraditionalTreatmentPrinciple--nourish-kidney-yin",
+      "subject": "kidney-yin-deficiency",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "nourish-kidney-yin",
+      "source": "diagnostics/differentials/kidney-yin-vs-yang.md#nourish-kidney-yin",
+      "scope": "신음허의 건조·도한·허열과 요슬무력을 함께 살피는 전통 치법. 허열·수습·소화 부담과 정혈 보충의 비중을 함께 확인한다.",
+      "quote": "신음허의 기본 치법은 **자보신음(滋補腎陰)**입니다."
+    },
+    {
+      "id": "kidney-yang-deficiency--hasTraditionalTreatmentPrinciple--warm-kidney-yang",
+      "subject": "kidney-yang-deficiency",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "warm-kidney-yang",
+      "source": "diagnostics/differentials/kidney-yin-vs-yang.md#warm-kidney-yang",
+      "scope": "신양허의 냉감·요슬무력과 배뇨·부종·배변을 함께 살피는 전통 치법. 온양화기와 보정·근골 보충의 배합 차이, 부자의 규격·법제·실제량·전탕·병용약을 확인한다.",
+      "quote": "신양허의 기본 치법은 **온보신양(溫補腎陽)**입니다."
+    },
+    {
+      "id": "liuwei-xiaoer--hasTraditionalPatternContext--kidney-yin-deficiency",
+      "subject": "liuwei-xiaoer",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "kidney-yin-deficiency",
+      "source": "formulas/liuwei-dihuang-wan.md#pediatric-original-context",
+      "scope": "소아약증직결의 숙지황 8전·산수유육과 산약 각 4전·택사와 목단피 및 백복령 각 3전 수록형을 후대 신음허의 변증·배합 해석과 연결한다. 소아 원문의 신겁·제법과 후대 성인 활용·현대 시험 제제를 구분하며, 건조·도한·허열과 요슬·소화 상태를 함께 살핀다.",
+      "quote": "이 소아 지황환 수록형은 [신음허](../diagnostics/differentials/kidney-yin-vs-yang.md#_3)의 후대 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "shenqi-jinkui--hasTraditionalPatternContext--kidney-yang-deficiency",
+      "subject": "shenqi-jinkui",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "kidney-yang-deficiency",
+      "source": "formulas/bawei-dihuang-wan.md#jinkui-shenqi-version",
+      "scope": "금궤요략의 건지황·계지·포부자 원전 수록형을 신양허의 후대 변증·온양화기 해석과 연결한다. 허로·하복부·소변의 원전 주치와 냉감·요슬무력·배뇨의 현재 평가를 구분하며, 후대 숙지황·육계형 및 현대 제제를 각각 확인한다.",
+      "quote": "이 금궤 수록형은 냉감·요슬무력·배뇨 변화가 동반되는 [신양허](../diagnostics/differentials/kidney-yin-vs-yang.md#_4)의 후대 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "zuogui-jingyue--hasTraditionalPatternContext--kidney-yin-deficiency",
+      "subject": "zuogui-jingyue",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "kidney-yin-deficiency",
+      "source": "formulas/zuogui-wan.md#original-pattern-course",
+      "scope": "경악전서 좌귀환 기본 8미의 진음·정혈 보충 맥락. 신음허의 건조·도한·허열·요슬무력과 소화 상태를 함께 살피며, 삼사약 부재, 천우슬·귀판교의 사용 조건과 녹각교·귀판교의 교질 원료를 보존한다.",
+      "quote": "이 경악전서 좌귀환 수록형은 진음·정혈의 부족을 함께 살피는 [신음허](../diagnostics/differentials/kidney-yin-vs-yang.md#_3)의 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "yougui-jingyue--hasTraditionalPatternContext--kidney-yang-deficiency",
+      "subject": "yougui-jingyue",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "kidney-yang-deficiency",
+      "source": "formulas/yougui-wan.md#original-pattern-course",
+      "scope": "경악전서 우귀환 기본 10미의 보정·온양 맥락. 냉감·요슬무력에 정혈부족이 겹친 조건을 살피며 신기환의 수분 조절 배합과 구분한다. 당귀의 便溏勿用, 법제 부자·육계의 원문 조절 범위와 실제 조제·전탕·병용약을 확인한다.",
+      "quote": "이 경악전서 우귀환 수록형은 냉감·요슬무력에 정혈부족이 겹친 [신양허](../diagnostics/differentials/kidney-yin-vs-yang.md#_4)의 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--prepared-rehmannia",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "prepared-rehmannia",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 大懷熟, 수록량 8량, 포제 별도 포제 표기 없음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [숙지황](../herbs/prepared-rehmannia.md) · 大懷熟 | 8량 | 별도 포제 표기 없음 | 음혈·정혈을 기르는 자윤한 보익축 |"
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--dioscorea",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "dioscorea",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 山藥, 수록량 4량, 포제 초(볶음). 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [산약](../herbs/dioscorea.md) · 山藥 | 4량 | 초(볶음) | 비신을 보하고 보익약의 소화 기반을 받침 |"
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--wolfberry-fruit",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "wolfberry-fruit",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 枸杞, 수록량 4량, 포제 별도 포제 표기 없음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [구기자](../herbs/cornus-extra.md) · 枸杞 | 4량 | 별도 포제 표기 없음 | 간신의 음혈과 정을 받침 |"
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--cornus-fruit",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "cornus-fruit",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 山茱萸肉, 수록량 4량, 포제 별도 포제 표기 없음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [산수유](../herbs/cornus-fructus.md) · 山茱萸肉 | 4량 | 별도 포제 표기 없음 | 간신의 정혈을 돕고 수렴 |"
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--chuan-niuxi",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "chuan-niuxi",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 川牛膝, 수록량 3량, 포제 술로 씻음·쪄서 익힘. 역사적 제조 배합이며 현대 제제·1일량과 구분한다. 원문 川牛膝의 酒洗·蒸熟과 精滑者，不用의 사용 조건을 보존하며 일반 우슬로 합치지 않는다.",
+      "quote": "| [우슬](../herbs/achyranthes.md) · 川牛膝 | 3량 | 술로 씻음·쪄서 익힘 | 혈행과 요슬을 돕고 아래로 향하는 배합축 |"
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--cuscuta-seed",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "cuscuta-seed",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 菟絲子, 수록량 4량, 포제 법제. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [토사자](../herbs/cuscuta-seed.md) · 菟絲子 | 4량 | 법제 | 간신·정기를 보하고 고삽축을 맡음 |"
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--deer-antler-gelatin",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "deer-antler-gelatin",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 鹿膠, 수록량 4량, 포제 두드려 부숨·초주(炒珠: 교질 약재를 구슬 모양으로 볶음). 역사적 제조 배합이며 현대 제제·1일량과 구분한다. 원문 鹿膠의 敲碎·炒珠를 보존하며 녹용과 구분한다.",
+      "quote": "| [녹각교](../herbs/deer-antler-gelatin.md) · 鹿膠 | 4량 | 두드려 부숨·초주(炒珠: 교질 약재를 구슬 모양으로 볶음) | 정혈·근골을 받치는 온보축 |"
+    },
+    {
+      "id": "zuogui-jingyue--containsHerb--turtle-plastron-gelatin",
+      "subject": "zuogui-jingyue",
+      "predicate": "containsHerb",
+      "object": "turtle-plastron-gelatin",
+      "source": "formulas/zuogui-wan.md#source-dose-original",
+      "scope": "경악전서 좌귀환의 기본 8미 환제. 원문 약명 龜膠, 수록량 4량, 포제 잘게 썰기·초주(炒珠: 교질 약재를 구슬 모양으로 볶음). 역사적 제조 배합이며 현대 제제·1일량과 구분한다. 원문 龜膠의 切碎·炒珠와 無火者，不必用의 사용 조건을 보존한다.",
+      "quote": "| [귀판교](../herbs/turtle-plastron-gelatin.md) · 龜膠 | 4량 | 잘게 썰기·초주(炒珠: 교질 약재를 구슬 모양으로 볶음) | 음·정혈을 기르는 자음축 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--prepared-rehmannia",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "prepared-rehmannia",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 大懷熟, 수록량 8량, 포제 별도 포제 표기 없음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [숙지황](../herbs/prepared-rehmannia.md) · 大懷熟 | 8량 | 별도 포제 표기 없음 | 음혈·정혈을 기르는 자윤한 보익축 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--dioscorea",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "dioscorea",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 山藥, 수록량 4량, 포제 초(볶음). 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [산약](../herbs/dioscorea.md) · 山藥 | 4량 | 초(볶음) | 비신을 보하고 보익약의 소화 기반을 받침 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--cornus-fruit",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "cornus-fruit",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 山茱萸, 수록량 3량, 포제 가볍게 볶음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [산수유](../herbs/cornus-fructus.md) · 山茱萸 | 3량 | 가볍게 볶음 | 간신의 정혈을 돕고 수렴 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--wolfberry-fruit",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "wolfberry-fruit",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 枸杞, 수록량 4량, 포제 가볍게 볶음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [구기자](../herbs/cornus-extra.md) · 枸杞 | 4량 | 가볍게 볶음 | 간신의 음혈과 정을 받침 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--deer-antler-gelatin",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "deer-antler-gelatin",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 鹿角膠, 수록량 4량, 포제 초주(炒珠: 교질 약재를 구슬 모양으로 볶음). 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [녹각교](../herbs/deer-antler-gelatin.md) · 鹿角膠 | 4량 | 초주(炒珠: 교질 약재를 구슬 모양으로 볶음) | 정혈·근골을 받치는 온보축 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--cuscuta-seed",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "cuscuta-seed",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 菟絲子, 수록량 4량, 포제 법제. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [토사자](../herbs/cuscuta-seed.md) · 菟絲子 | 4량 | 법제 | 간신·정기를 보하고 고삽축을 맡음 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--eucommia",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "eucommia",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 杜仲, 수록량 4량, 포제 생강탕으로 볶음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다.",
+      "quote": "| [두충](../herbs/eucommia.md) · 杜仲 | 4량 | 생강탕으로 볶음 | 간신·근골을 받치는 보익축 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--angelica",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "angelica",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 當歸, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다. 원문 便溏勿用의 사용 조건을 보존한다.",
+      "quote": "| [당귀](../herbs/angelica.md) · 當歸 | 3량 | 별도 포제 표기 없음 | 혈을 기르면서 혈행을 조절 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--cinnamon-bark",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "cinnamon-bark",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 肉桂, 수록량 2량, 포제 별도 포제 표기 없음. 역사적 제조 배합이며 현대 제제·1일량과 구분한다. 원문 二兩，漸可加至四兩의 조절 기록은 역사적 제조 배합량이며 현대의 임의 증량 안내와 구분한다.",
+      "quote": "| [육계](../herbs/cinnamon-bark.md) · 肉桂 | 2량 | 별도 포제 표기 없음 | 허한을 덥히고 온통의 방향을 더함 |"
+    },
+    {
+      "id": "yougui-jingyue--containsHerb--aconite",
+      "subject": "yougui-jingyue",
+      "predicate": "containsHerb",
+      "object": "aconite",
+      "source": "formulas/yougui-wan.md#source-dose-original",
+      "scope": "경악전서 우귀환의 기본 10미 환제. 원문 약명 製附子, 수록량 2량, 포제 법제 부자. 역사적 제조 배합이며 현대 제제·1일량과 구분한다. 원문 自二兩，漸可加至五、六兩의 조절 기록을 보존한다. 실제 사용은 법제·규격·제형·용량·전탕·병용약을 확인하며 역사적 제조량을 현대 1일량으로 환산하지 않는다.",
+      "quote": "| [부자](../herbs/aconite.md) · 製附子 | 2량 | 법제 부자 | 법제를 전제로 온양·산한을 맡음 |"
     }
   ]
 }
