@@ -344,6 +344,21 @@ last_reviewed: '2026-08-23'
 | `dcterms:description` | 해당 출처 절에서 그대로 가져온 근거 문장·표 행. 발췌와 앞뒤 문맥을 함께 확인 |
 | 매니페스트의 `ontology` | 현재 제공하는 개념·관계·관계 유형 수와 파일 SHA-256 |
 
+#### 이름에서 개념 ID 고르기 {#ontology-name-resolution}
+
+대표 이름과 별칭은 검색 후보를 찾는 단서입니다. 관계를 조회할 때는 **개념의 종류·정의·출전과 원문 약명**을 비교해 대상 ID를 고릅니다. 하나의 문서 주소를 공유하는 개념도 각각의 ID와 구성 관계를 유지합니다.
+
+| 입력한 이름·질문 | 구분할 개념 ID | 다음 확인 |
+|---|---|---|
+| 복령 계열의 약명이 들어간 처방 | `poria` · `white-poria` · `red-poria` · `poria-spirit` | 원하는 약명별로 `containsHerb`의 대상을 선택하고, 결과에 원문 약명과 해당 ID를 함께 표시. [약명별 비교](../network/index.md#ontology-name-resolution) |
+| 생강인가, 건강인가? | `fresh-ginger` · `dried-ginger` | 각 구성 진술의 `skos:scopeNote`에서 기본 약미·전탕 추가·가공 조건 확인 |
+| 반하와 반하곡의 구성 기록 | `pinellia` · `pinellia-ferment` | 반하 문서를 함께 참조하더라도 각각의 ID로 조회하고, 곽향정기산 국방형의 半夏曲 발췌 확인 |
+| 계지·육계·계심의 원문 약명 | `cinnamon-twig` · `cinnamon-bark` · `cinnamon-heart` | `skos:definition`과 해당 처방의 근거 발췌에서 명칭·원료·포제 확인 |
+| 작약과 백작약의 기록 | `shaoyao-source-name` · `white-peony` | 芍藥과 백작약 명시 여부를 수록형별로 대조 |
+| 산조인탕에 인삼이 들어가는가? | `suanzaoren-jinkui` · `suanzaoren-donguibogam` | 두 수록형을 선택한 뒤 각각의 `containsHerb`에서 `ginseng` 조회. [구성 원문 비교](../formulas/suanzaoren-tang.md#formula-variant-comparison) |
+
+구성 탐색의 응답에는 **처방 수록형 ID·본초 ID·원문 약명·관계명·출처 절·적용 조건·근거 발췌**를 함께 보존합니다. 예를 들어 ‘복령 계열 전체’를 비교할 때는 위 네 ID를 각각 조회하고 결과를 약명별로 묶습니다. ‘복신이 들어간 처방’을 물으면 `poria-spirit`을 대상으로 선택합니다. 등록 범위 밖의 구성은 실제 처방 본문에서 추가로 확인합니다.
+
 #### 한 문서에서 관련 관계만 읽기 {#page-ontology}
 
 인삼·사군자탕·산조인탕·족삼리처럼 온톨로지에 등록된 개념을 설명하는 페이지는 본문 JSON의 `ontology.document`와 HTML의 `link rel="describedby" type="application/ld+json"`에서 **그 문서와 관련된 관계만 담은 JSON-LD**로 이어집니다. 전체 온톨로지를 받지 않고도 해당 개념의 구성·소속·출처 관계를 확인할 수 있습니다.
