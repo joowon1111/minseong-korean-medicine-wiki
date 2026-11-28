@@ -41,6 +41,10 @@ description: 목향의 기원·약용 뿌리와 행기지통·건비소식, 향�
 
 - [한국전통지식포탈 목향 자료](https://koreantk.com/ktkp2014/medicine/medicine-view.view?medCd=M0001206&tempLang=ko) — 기원·약용부위와 전통 활용
 
+## 구성 처방과 출전 확인
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 본초를 더 깊게 이해하기 {#_7}
 
 ### 한의학적 활용 구조 {#_8}

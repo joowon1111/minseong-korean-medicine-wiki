@@ -92,6 +92,8 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 평소 식사량·기력이 줄고 음식 정체가 겹치는 경우에는 [삼출건비탕의 비위기허겸식적](../formulas/samchul-geonbi-tang.md#traditional-pattern-care)을, 비허담습에 오심·식후 기체가 함께 나타나는 경우에는 [향사육군자탕 시방가괄형](../formulas/xiangsha-liujunzi-tang.md#traditional-pattern-care)을 비교합니다. 구성 출처에서 인삼·산사의 비율, 지실·백작약 및 목향·사인의 배치를 확인할 수 있습니다.
 
+[향사평위산 동의보감형](../formulas/xiangsha-pingwei-san.md#traditional-pattern-care)의 식상·기체·습체와 [인삼양위탕 국방형](../formulas/renshen-yangwei-tang.md#traditional-pattern-care)의 외감풍한·내상생랭을 비교할 수 있습니다. 각 구성에서 귤홍·진피, 복령·적복령 및 생강·오매·대조의 출전별 차이를 확인합니다.
+
 <!-- MINSEONG_ONTOLOGY_PATTERN_TREATMENT_ROUTES -->
 
 ## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}

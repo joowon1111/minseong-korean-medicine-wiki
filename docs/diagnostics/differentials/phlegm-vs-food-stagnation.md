@@ -42,6 +42,8 @@ last_reviewed: 2026-09-06
 | [삼출건비탕](../../formulas/samchul-geonbi-tang.md#traditional-pattern-care) | 인삼·백출·백복령·감초에 산사·신곡·맥아와 행기·완급약을 배치 | 평소 섭취·기력이 줄어든 바탕에 식후 그득함·음식 정체가 겹침 |
 | [향사육군자탕 시방가괄형](../../formulas/xiangsha-liujunzi-tang.md#traditional-pattern-care) | 육군자탕의 비허담습 배합에 목향·사인을 더한 기본 8미 | 오심·담습에 식후 기체·팽만·트림이 함께 있음 |
 
+[향사평위산 동의보감형](../../formulas/xiangsha-pingwei-san.md#traditional-pattern-care)은 식상에 기체·습체가 겹친 배합을 비교합니다. 새 오한·발열과 생랭 뒤 오심·냉감이 겹치면 [인삼양위탕 국방형](../../formulas/renshen-yangwei-tang.md#traditional-pattern-care)의 별도 주치 맥락을 확인하고 급성 원인과 탈수를 평가합니다. 두 수록형의 생강 사용과 인삼·반하·오매의 유무는 각 구성 출처에서 확인합니다.
+
 《의방집해》의 보화환 해설은 음식 정체에 습이 겹치는 양상을 설명하면서 소식약과 복령·반하·진피의 배합을 함께 다룹니다. [《의방집해》 보화환 원문](https://jicheng.tw/tcm/book/醫方集解/index.html)
 
 [보화환 단계심법형](../../formulas/baohe-wan.md#source-dose-original)의 기본 7미와 제조 배합, [정전가미이진탕 의학정전형](../../formulas/jeongjeon-gami-ijin-tang.md#source-dose-original)의 기본 12미·생강·대조와 신곡·맥아면의 별포·조입 제법을 각각 확인합니다. 공통 약재가 있어도 귤홍·진피, 복령·백복령의 원문 약명과 실제 약량·제형을 보존해 비교합니다.
