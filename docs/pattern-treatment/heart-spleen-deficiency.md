@@ -7,23 +7,22 @@ last_reviewed: '2026-09-05'
 ---
 # 심비양허 → 보기양혈·안신
 
-[심비양허](../concepts/heart-spleen-deficiency.md)는 비기허와 심혈 부족이 함께 나타나는 구조다.
+[심비양허](../concepts/heart-spleen-deficiency.md)는 피로·식욕저하에 심계·건망·불안정한 잠이 함께 나타나는 전통 변증입니다. 식사와 기력, 수면이 어떤 순서로 달라졌는지 살피며 치료 방향을 정합니다.
 
-```text
-심비양허
- ↓
-보기 + 양혈 + 안신
-├─ 귀비탕
-├─ 산조인
-├─ 신문 HT7
-└─ 내관 PC6
-```
+## 보기양혈·안신을 함께 쓰는 이유 {#treatment-principle}
 
-→ [귀비탕](../formulas/guibi-tang.md)
-→ [산조인](../herbs/ziziphus-seed.md)
-→ [신문 HT7](../acupuncture/points/ht7-shenmen.md)
-→ [내관 PC6](../acupuncture/points/pc6-neiguan.md)
-→ [잠이 안 오면서 두근거릴 때](../questions/choice/insomnia-palpitations.md)
+심비양허의 기본 치법은 **보기양혈·안신(補氣養血·安神)**입니다. 비위의 기운을 돕고 혈을 기르며 마음과 수면을 안정시키는 배합을 함께 살핍니다. [귀비탕](../formulas/guibi-tang.md)은 이러한 맥락에서 출전별 구성을 비교하는 처방입니다.
+
+| 배합의 역할 | 확인할 본초·처방 | 함께 살필 변화 |
+|---|---|---|
+| 보기건비 | 귀비탕의 인삼·황기·백출 | 식사량·식후 피로·낮 활동 |
+| 양혈·양심 | 용안육, 후대 귀비탕 수록형의 당귀 | 안색·어지럼·심계와 회복 상태 |
+| 안신 | [산조인](../herbs/ziziphus-seed.md)·복신, 후대 수록형의 원지 | 입면·각성·꿈·건망 |
+| 이기 | 목향 | 식후 팽만·섭취량과 약을 받아들이는 상태 |
+
+《제생방》의 귀비탕은 생각과 과로로 심비가 손상된 건망·정충을 기록합니다. 이 초기 8미형과 당귀·원지가 더해진 《동의보감》형은 각각의 구성·약량으로 확인합니다. [귀비탕 출전별 원문](../formulas/guibi-tang.md#source-dose-original) · [의방집해의 귀비탕 배합 해설](https://jicheng.tw/tcm/book/醫方集解/index.html)
+
+[신문 HT7](../acupuncture/points/ht7-shenmen.md)·[내관 PC6](../acupuncture/points/pc6-neiguan.md) 등 침구치료는 수면·심계와 실제 진찰 소견에 맞춰 함께 살핍니다. [잠이 안 오면서 두근거릴 때](../questions/choice/insomnia-palpitations.md)에는 원인 평가와 동반 증상부터 정리할 수 있습니다.
 
 ## 비슷한 수면 처방과의 차이
 
