@@ -3769,6 +3769,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gallbladder-stomach-disharmony",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#phlegm-stomach-care"
+      },
+      "skos:altLabel": [
+        "膽胃不和"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "담과 기의 불화에 명치 답답함·오심·어지럼과 심계·번조·수면 불편이 함께 나타나는 양상을 살피는 전통 변증. 膽胃는 전통 기능·병증의 맥락으로 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "담위불화"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gardenia",
       "@type": [
         "skos:Concept",
@@ -5960,6 +5984,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "수소음심경"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-spleen-deficiency",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/concepts/heart-spleen-deficiency/"
+      },
+      "skos:altLabel": [
+        "心脾兩虛"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "피로·식욕저하에 심계·건망·불안정한 잠이 함께 나타나는 양상을 식사·기력·수면의 변화와 함께 살피는 전통 변증."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "심비양허"
       }
     },
     {
@@ -9583,6 +9631,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-phlegm-harmonize-stomach",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#phlegm-stomach-care"
+      },
+      "skos:altLabel": [
+        "理氣化痰·和胃利膽"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "담위불화에서 담과 기의 흐름을 조절하고 위의 불편을 함께 살피는 전통 치법. 온담탕 원방·가감방과 실제 제법을 구분한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "이기화담·화위이담"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangrong-guofang",
       "@type": [
         "skos:Concept",
@@ -13095,6 +13167,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "기혈쌍보"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi-nourish-blood-calm-spirit",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/heart-spleen-deficiency/#treatment-principle"
+      },
+      "skos:altLabel": [
+        "補氣養血·安神"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "심비양허에서 비위의 기운과 혈의 자양을 돕고 심신·수면을 안정시키는 배합을 함께 살피는 전통 치법."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "보기양혈·안신"
       }
     },
     {
@@ -17044,6 +17140,29 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-gallbladder-stomach-disharmony--hasTraditionalTreatmentPrinciple--regulate-qi-transform-phlegm-harmonize-stomach",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "담위불화의 전통 치법은 **이기화담·화위이담(理氣化痰·和胃利膽)**입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#phlegm-stomach-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-phlegm-harmonize-stomach"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gallbladder-stomach-disharmony"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "담위불화의 후대 변증·치법 해설. 명치 답답함·오심·심계·수면 불편의 동반 양상을 살피며, 비허담습·심비양허 및 황련온담탕·가미온담탕의 구성과 적용 조건을 구분한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-gb1--belongsToMeridian--gallbladder-meridian",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -18585,6 +18704,29 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-guibi-donguibogam--hasTraditionalPatternContext--heart-spleen-deficiency",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 동의보감 귀비탕 수록형은 [심비양허](../concepts/heart-spleen-deficiency.md)의 후대 변증·배합 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/guibi-tang/#donguibogam-version"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-spleen-deficiency"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#guibi-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 내경편 신·건망의 의학입문 인용 수록형을 심비양허의 후대 변증·배합 해설과 연결한다. 당귀·원지를 포함한 기본 10미와 생강·대조의 전탕 추가를 보존하며 제생방 기본 8미 및 현대 가미방과 구분한다. 식사량·낮 피로·심계·건망과 수면을 함께 살핀다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-guibi-jisheng--containsHerb--astragalus",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -18766,6 +18908,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "제생방 귀비탕의 구성표 기본 약미. 원문 약명 酸棗仁, 수록량 1량, 포제 초(볶음)·껍질 제거. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-guibi-jisheng--hasTraditionalPatternContext--heart-spleen-deficiency",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 제생방 귀비탕 수록형은 [심비양허](../concepts/heart-spleen-deficiency.md)의 후대 변증·배합 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/guibi-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-spleen-deficiency"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#guibi-jisheng"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "엄씨제생방의 당귀·원지가 없는 기본 8미형을 심비양허의 후대 변증·배합 해설과 연결한다. 원문의 생각·과로·건망·정충, 복신과 산조인의 포제 및 매회 전탕 제법을 보존한다. 동의보감의 당귀·원지 추가형 및 현대 가미귀비탕 시험 제제와 각각 구분한다."
       }
     },
     {
@@ -19985,6 +20150,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "경옥고 동명 수록형. 홍씨집험방 49량과 동의보감 입문 인용 48량, 위생방 별기 비율을 보존한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-heart-spleen-deficiency--hasTraditionalTreatmentPrinciple--tonify-qi-nourish-blood-calm-spirit",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "심비양허의 기본 치법은 **보기양혈·안신(補氣養血·安神)**입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/heart-spleen-deficiency/#treatment-principle"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi-nourish-blood-calm-spirit"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#heart-spleen-deficiency"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "심비양허의 전통 치법. 피로·식욕저하에 심계·건망·불안정한 잠이 함께 나타나는 조건을 살피며, 식사·낮 활동·수면과 출혈·복용약 평가를 함께 확인한다."
       }
     },
     {
@@ -29047,6 +29235,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "삼인극일병증방론 온담탕의 구성표 기본 약미. 원문 약명 茯苓, 수록량 1량반, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-wendan-sanyin--hasTraditionalPatternContext--gallbladder-stomach-disharmony",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 삼인방 권9 허번의 온담탕 수록형은 [담위불화](../pattern-treatment/phlegm-fluid.md#phlegm-stomach-care)의 후대 변증·배합 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/wendan-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#gallbladder-stomach-disharmony"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#wendan-sanyin"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "삼인극일병증방론 권9 허번의 기본 6미와 매회 전탕하는 생강·대조 수록형을 담위불화의 후대 변증·배합 해설과 연결한다. 원문의 대병후 허번·불면·경계 주치와 후대 해석을 구분하며, 반하 탕세칠차·지실 부초거양, 제조분·매회 四大錢을 보존한다. 동의보감형·황련온담탕·가미온담탕 및 동명 이방은 각각 확인한다."
       }
     },
     {
