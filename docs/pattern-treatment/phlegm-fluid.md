@@ -33,6 +33,16 @@ last_reviewed: 2026-09-06
 
 구성의 차이는 [사군자탕·육군자탕 비교](../compare/sijunzi-vs-liujunzi.md)에서, 허약에 식후팽만·트림이 더 뚜렷할 때의 배합은 [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md)에서 확인합니다. 원문에 적힌 약량·포제와 실제 제형을 보존하며 각 처방의 쓰임을 비교합니다.
 
+## 담위불화에서 소화와 수면을 함께 살피기 {#phlegm-stomach-care}
+
+담위불화(膽胃不和)는 담과 기의 불화로 **명치 답답함·오심·어지럼과 심계·번조·수면 불편이 함께 나타나는 양상**을 살피는 전통 변증입니다. 식욕·기력의 저하가 중심인 심비양허, 비위허약에 담습이 겹친 비허담습과 동반 증상을 비교합니다.
+
+담위불화의 전통 치법은 **이기화담·화위이담(理氣化痰·和胃利膽)**입니다. 담과 기의 흐름을 조절하고 위의 불편을 함께 다루는 배합입니다. [온담탕 삼인방 수록형](../formulas/wendan-tang.md#source-dose-original)은 반하·진피·복령·지실·죽여·감초의 기본 약미와 매회 달일 때 더하는 생강·대조를 나누어 확인합니다.
+
+《삼인극일병증방론》 권9 허번의 주치와 후대의 담위불화 해설을 함께 대조합니다. [삼인방 원문](https://jicheng.tw/tcm/book/三因極一病證方論/index.html) · [대만 국가중의약연구소의 온담탕 해설](https://www.nricm.edu.tw/p/406-1000-6608%2Cr11.php?Lang=zh-tw)
+
+황련을 더한 처방이나 안신·보익약을 가한 처방은 각각의 구성과 적용 조건으로 비교합니다. [귀비탕·온담탕 비교](../compare/guibi-vs-wendan.md#digestion-context)에서 식사량·기력과 오심·흉민의 차이를, [온담탕 제법](../formulas/wendan-tang.md#preparation-and-dose)에서 제조분·전탕분의 차이를 확인할 수 있습니다. 경과는 수면과 함께 식후 불편·오심·심계·낮 활동을 기록합니다.
+
 ## 본초와 침구의 역할 {#combined-care}
 
 [반하](../herbs/pinellia.md)·[진피](../herbs/citrus-peel.md)·[복령](../herbs/poria.md)은 화담·강역·이기의 기본 구조, [인삼](../herbs/ginseng.md)·[백출](../herbs/atractylodes.md)은 건비, [목향](../herbs/aucklandia.md)·[사인](../herbs/amomum.md)은 행기화중의 배합과 연결됩니다. 각 본초를 단독 효능 목록으로 더하기보다 처방 안에서의 역할을 봅니다.
