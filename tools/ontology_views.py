@@ -244,7 +244,7 @@ def pattern_treatment_routes(payload):
         pair[0]['@id'], pair[1]['@id']))
     lines = ['| 처방 수록형 | 전통 변증 | 치법 | 출처·적용 조건 |', '|---|---|---|---|']
     for context, treatment in routes:
-        note = ('<details class="ontology-treatment-route"><summary>근거와 조건 보기</summary>'
+        note = ('<details class="ontology-treatment-route"><summary>근거·조건</summary>'
                 + evidence(context, '처방과 변증')
                 + evidence(treatment, '변증과 치법') + '</details>')
         lines.append('| ' + concept(context['rdf:subject']['@id'])

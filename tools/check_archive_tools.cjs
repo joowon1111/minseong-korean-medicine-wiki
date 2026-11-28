@@ -54,6 +54,8 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       assert.deepEqual(actualRows,expectedRows);
       for(let i=0;i<await routePanels.count();i++){
         const panel=routePanels.nth(i);
+        const control=await panel.locator(':scope > summary').boundingBox();
+        assert.ok(control.height<=64,'treatment evidence controls must remain compact');
         await panel.locator(':scope > summary').click();
         assert.equal(await panel.locator('blockquote').count(),2);
         assert.equal(await panel.locator('a').count(),2);
