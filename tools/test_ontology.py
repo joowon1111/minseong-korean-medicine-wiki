@@ -275,6 +275,51 @@ class OntologyTests(unittest.TestCase):
             with self.subTest(field=field), self.assertRaises(ValueError):
                 self.build_modified(data)
 
+    def test_blood_pattern_routes_keep_formulation_and_qualifications(self):
+        payload, _ = build_ontology(self.docs, self.source)
+        graph = {n['@id']: n for n in payload['@graph']}
+        records = [n for n in graph.values() if n['@type'] == 'rdf:Statement']
+        expected = {
+            'siwu-guofang': ('blood-deficiency', 'tonify-blood'),
+            'bazhen-wanbing': ('qi-blood-deficiency', 'tonify-qi-and-blood'),
+            'shiquan-guofang': ('qi-blood-deficiency', 'tonify-qi-and-blood'),
+        }
+        from ontology import page_projections
+        pages = page_projections(payload)
+        for formula, (pattern, principle) in expected.items():
+            with self.subTest(formula=formula):
+                context = next(n for n in records
+                               if n['rdf:subject']['@id'] == RESOURCE + '#' + formula
+                               and n['rdf:predicate']['@id'] == 'km:hasTraditionalPatternContext')
+                self.assertEqual(context['rdf:object']['@id'], RESOURCE + '#' + pattern)
+                routes = [n for n in records
+                          if n['rdf:subject'] == context['rdf:object']
+                          and n['rdf:predicate']['@id'] == 'km:hasTraditionalTreatmentPrinciple']
+                self.assertEqual(len(routes), 1)
+                self.assertEqual(routes[0]['rdf:object']['@id'], RESOURCE + '#' + principle)
+                for record in (context, routes[0]):
+                    for field in ('rdf:subject', 'rdf:object'):
+                        page = graph[record[field]['@id']]['foaf:page']['@id'].split('#')[0]
+                        projected = {n['@id']: n for n in pages[page]['payload']['@graph']}
+                        self.assertEqual(projected[record['@id']], record)
+                    self.assertTrue(record['dcterms:description']['@value'])
+                    self.assertTrue(record['skos:scopeNote']['@value'])
+                ingredients = [n for n in records
+                               if n['rdf:subject']['@id'] == RESOURCE + '#' + formula
+                               and n['rdf:predicate']['@id'] == 'km:containsHerb']
+                self.assertEqual(len(ingredients), {'siwu-guofang': 4,
+                                                  'bazhen-wanbing': 8,
+                                                  'shiquan-guofang': 10}[formula])
+        blood = graph[RESOURCE + '#blood-deficiency']
+        self.assertIn('km:Pattern', blood['@type'])
+        self.assertNotIn('빈혈', blood['skos:altLabel'])
+        self.assertIn('빈혈', blood['skos:definition']['@value'])
+        shiquan = next(n for n in records
+                      if n['rdf:subject']['@id'] == RESOURCE + '#shiquan-guofang'
+                      and n['rdf:predicate']['@id'] == 'km:hasTraditionalPatternContext')
+        for condition in ('냉감', '황기·육계', '소화력', '생강·대조', '외과이례'):
+            self.assertIn(condition, shiquan['skos:scopeNote']['@value'])
+
     def test_navigation_distinguishes_patterns_from_treatment_guides(self):
         from build_ai_knowledge_layer import entity_type, relation_name, DOCS
         self.assertEqual(entity_type(DOCS / 'diagnostics/patterns/phlegm-fluid.md'), 'pattern')

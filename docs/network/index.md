@@ -36,7 +36,7 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 ## 출처를 함께 담은 온톨로지 데이터 {#ontology-data}
 
-[온톨로지 JSON-LD](../assets/ai/ontology.jsonld)는 **개념의 이름·종류·대표 문서와 관계의 출처·적용 범위**를 함께 제공합니다. 사군자탕·사물탕·보중익기탕·십전대보탕·반하사심탕 등 주요 처방의 구성, 귀비탕·산조인탕·생맥산·경옥고의 수록형별 차이, 기허·비허담습의 치법과 처방 맥락, 표준 361경혈과 14경맥의 소속, 《상한론》·《금궤요략》의 조문·처방 관계를 연결했습니다. 전체 문서의 탐색 연결은 기존 [지식 그래프](../assets/ai/knowledge-graph.json)에서 확인할 수 있습니다.
+[온톨로지 JSON-LD](../assets/ai/ontology.jsonld)는 **개념의 이름·종류·대표 문서와 관계의 출처·적용 범위**를 함께 제공합니다. 사군자탕·사물탕·보중익기탕·십전대보탕·반하사심탕 등 주요 처방의 구성, 귀비탕·산조인탕·생맥산·경옥고의 수록형별 차이, 기허·비허담습·혈허·기혈양허의 치법과 처방 맥락, 표준 361경혈과 14경맥의 소속, 《상한론》·《금궤요략》의 조문·처방 관계를 연결했습니다. 전체 문서의 탐색 연결은 기존 [지식 그래프](../assets/ai/knowledge-graph.json)에서 확인할 수 있습니다.
 
 | 관계 이름 | 뜻 | 출처와 함께 확인하는 조건 |
 |---|---|---|
@@ -44,7 +44,7 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 | `sharesFormulaStructureWith` | 두 처방이 공유하는 기본 약미 골격 | 수록본마다 다른 약량·제법과 추가 약재 |
 | `sharesNameWith` | 이름이 같은 서로 다른 구성 | 산조인탕 금궤요략 5미형과 동의보감 몽문 7미형·생강 추가 |
 | `hasTraditionalPatternContext` | 처방을 설명하는 전통 변증의 맥락 | 사군자탕의 기허, 반하후박탕의 담기울결과 동반 증후 |
-| `hasTraditionalTreatmentPrinciple` | 변증에 따른 전통 치법 | 기허의 보기, 비허담습의 익기건비·화담과 동반 증후 |
+| `hasTraditionalTreatmentPrinciple` | 변증에 따른 전통 치법 | 기허의 보기, 비허담습의 익기건비·화담, 혈허의 보혈·기혈양허의 기혈쌍보와 동반 증후 |
 | `belongsToMeridian` | 경혈의 소속 경맥 | 십이경맥과 임맥·독맥에 속하는 표준 361경혈의 분류 관계 |
 | `recordsFormula` | 고전 조문에 명시된 처방 수록형 | 서명·편목·조문과 해당 구성 |
 
@@ -52,7 +52,7 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 개념 이름과 별칭은 [W3C SKOS](https://www.w3.org/TR/skos-reference/)로 표현합니다. 각 관계는 주체·관계명·대상과 함께 **본문 출처 주소와 적용 조건**을 가진 `rdf:Statement`로 제공합니다. 각 관계에는 본문에서 발췌한 근거 문장·표 행도 함께 제공합니다. 관계의 조건과 근거 발췌를 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 [매니페스트](../assets/ai/knowledge-manifest.json)의 `ontology`에서 확인합니다. [AI·검색도구의 이용 순서](../ai/site-structure.md#ontology-retrieval)
 
-기허에서 출발하면 [보기·건비의 원칙](../pattern-treatment/qi-deficiency.md#treatment-principle)을 확인하고, 오심·그득함이 겹칠 때는 [비허담습의 익기건비·화담](../pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care)과 육군자탕의 반하·진피 배합을 비교할 수 있습니다. 변증과 치법은 서로 다른 개념으로 기록하고, 처방 수록형의 구성·제법은 해당 출처에서 확인합니다.
+기허에서 출발하면 [보기·건비의 원칙](../pattern-treatment/qi-deficiency.md#treatment-principle)을 확인하고, 오심·그득함이 겹칠 때는 [비허담습의 익기건비·화담](../pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care)과 육군자탕의 반하·진피 배합을 비교할 수 있습니다. 변증과 치법은 서로 다른 개념으로 기록하고, 처방 수록형의 구성·제법은 해당 출처에서 확인합니다. 혈허에서는 [보혈](../pattern-treatment/blood-deficiency.md#treatment-principle)과 사물탕 국방형을, 기혈양허에서는 기혈쌍보와 팔진탕 만병회춘형·십전대보탕 국방형을 연결합니다. 십전대보탕의 황기·육계는 냉감·소화 상태와 온보의 필요를 함께 살피는 조건으로 기록합니다.
 
 ## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}
 

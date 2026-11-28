@@ -5670,6 +5670,46 @@
       "aliases": [
         "益氣健脾·化痰"
       ]
+    },
+    {
+      "id": "blood-deficiency",
+      "type": "Pattern",
+      "label": "혈허",
+      "page": "diagnostics/blood-deficiency.md",
+      "definition": "창백·어지럼·심계·수면 불편·건조 등이 함께 나타나는 양상을 살피는 전통 변증. 빈혈의 혈액검사 진단과 구분하여 출혈·영양·소화·수면을 함께 평가한다.",
+      "aliases": [
+        "血虛"
+      ]
+    },
+    {
+      "id": "qi-blood-deficiency",
+      "type": "Pattern",
+      "label": "기혈양허",
+      "page": "diagnostics/patterns/qi-blood-deficiency.md",
+      "definition": "기허의 피로·무력감과 혈허의 창백·어지럼·건조·수면저하가 함께 나타나는 복합 허증. 식사·소화와 병후·산후의 회복 상태를 함께 살핀다.",
+      "aliases": [
+        "氣血兩虛"
+      ]
+    },
+    {
+      "id": "tonify-blood",
+      "type": "TreatmentPrinciple",
+      "label": "보혈",
+      "page": "pattern-treatment/blood-deficiency.md#treatment-principle",
+      "definition": "혈허에서 혈의 자양을 돕는 전통 치법. 안색·어지럼·건조·월경과 소화·수면을 살펴 배합을 정한다.",
+      "aliases": [
+        "補血"
+      ]
+    },
+    {
+      "id": "tonify-qi-and-blood",
+      "type": "TreatmentPrinciple",
+      "label": "기혈쌍보",
+      "page": "pattern-treatment/blood-deficiency.md#treatment-principle",
+      "definition": "기혈양허에서 보기와 보혈을 함께 적용하는 전통 치법. 피로·식욕·안색·어지럼과 냉열·소화 상태에 따라 배합의 비중을 조절한다.",
+      "aliases": [
+        "氣血雙補"
+      ]
     }
   ],
   "predicates": {
@@ -12160,6 +12200,51 @@
       "source": "diagnostics/qi-deficiency.md#_6",
       "scope": "의학심오 수록형의 처방 구성은 대표 문서에서 확인한다. 기허 가운데 비위허약에 더부룩함·메스꺼움·담습이 함께 있는 조건에서 비교한다.",
       "quote": "| 비위허약에 더부룩함·메스꺼움·담습이 겹침 | [육군자탕](../formulas/liujunzi-tang.md): 사군자탕 계열에 진피·반하를 배합해 이기·화담 |"
+    },
+    {
+      "id": "blood-deficiency--hasTraditionalTreatmentPrinciple--tonify-blood",
+      "subject": "blood-deficiency",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "tonify-blood",
+      "source": "pattern-treatment/blood-deficiency.md#treatment-principle",
+      "scope": "혈허의 전통 치법. 안색·어지럼·건조·월경과 소화·수면을 함께 살피며, 빈혈의 검사 진단과 원인 평가는 별도로 확인한다.",
+      "quote": "[혈허](../diagnostics/blood-deficiency.md)의 기본 치법은 **보혈(補血)**입니다."
+    },
+    {
+      "id": "qi-blood-deficiency--hasTraditionalTreatmentPrinciple--tonify-qi-and-blood",
+      "subject": "qi-blood-deficiency",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "tonify-qi-and-blood",
+      "source": "pattern-treatment/blood-deficiency.md#treatment-principle",
+      "scope": "기허의 피로·식욕저하에 혈허의 창백·어지럼이 함께 나타나는 기혈양허의 전통 치법. 동반 냉감·소화 상태에 따라 보기와 보혈의 비중을 조절한다.",
+      "quote": "[기혈양허](../diagnostics/patterns/qi-blood-deficiency.md)의 기본 치법은 **기혈쌍보(氣血雙補)**입니다."
+    },
+    {
+      "id": "siwu-guofang--hasTraditionalPatternContext--blood-deficiency",
+      "subject": "siwu-guofang",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "blood-deficiency",
+      "source": "formulas/siwu-tang.md#original-pattern-course",
+      "scope": "국방의 당귀·천궁·백작약·숙건지황 등분 수록형을 혈허의 후대 변증·배합 해설과 연결한다. 충임·월경·복부 불편과 혈행 조절의 맥락을 함께 보존하며, 빈혈의 진단이나 치료효과와 구분한다.",
+      "quote": "이 국방 수록형은 혈허를 바탕으로 월경·복부 불편과 혈행의 변화를 함께 살피는 맥락에서 비교합니다."
+    },
+    {
+      "id": "bazhen-wanbing--hasTraditionalPatternContext--qi-blood-deficiency",
+      "subject": "bazhen-wanbing",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "qi-blood-deficiency",
+      "source": "formulas/bazhen-tang.md#source-dose-original",
+      "scope": "만병회춘 팔진탕 수록형의 인삼·백출·복령·당귀·천궁·백작약·숙지황 각 1전과 자감초 五分의 기록을 보존한다. 기허와 혈허가 함께 나타나는 배합 맥락이며, 한국 팔물탕의 후대 수록량이나 의방고의 지황·작약 표기 및 수치와 구분한다.",
+      "quote": "**해석·주치와 배합:** 기와 혈이 함께 부족한 허손을 다루는 팔진탕 수록형입니다."
+    },
+    {
+      "id": "shiquan-guofang--hasTraditionalPatternContext--qi-blood-deficiency",
+      "subject": "shiquan-guofang",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "qi-blood-deficiency",
+      "source": "formulas/shi-quan-da-bu-tang.md#immune-metabolic-network",
+      "scope": "국방의 십미 등분 제조 배합과 전탕 시 생강·대조의 별기를 보존한다. 기혈양허에 냉감·허약이 겹칠 때 황기·육계의 보기·온보를 함께 비교하며, 열감·소화력·땀과 회복 상태를 살핀다. 외과이례 수록량·포제, 현대 탕제 및 시험 제제는 각각 구분한다.",
+      "quote": "기혈양허와 오래된 쇠약·회복 지연을 살피며, 열감·소화력·냉감·땀의 양상에 따라 다른 보익 처방과 비교합니다."
     }
   ]
 }
