@@ -45,6 +45,10 @@ last_reviewed: 2026-09-18
 | [좌귀환](../formulas/zuogui-wan.md) | 숙지황·산약·산수유·구기자·토사자·녹각교·구판교 | 정혈을 보하는 구조에서 간신·요슬을 받치며 하초로 귀착 |
 | [천마구등음](../formulas/tianma-gouteng-yin.md) | 천마·구등·석결명·두충·상기생·익모초 | 평간식풍·청열활혈 속에서 혈을 아래로 이끌고 간신을 함께 봄 |
 
+### 우슬·천우슬의 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 두충·속단·골쇄보와 구분
 
 - [두충](eucommia.md)은 보간신·강근골이 중심이며 활혈·인혈하행의 비중은 우슬보다 작습니다.
