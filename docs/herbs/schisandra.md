@@ -107,6 +107,11 @@ schisandrin·gomisin 계열의 **디벤조사이클로옥타디엔 리그난**�
 - Ehambarampillai D, et al. *A comprehensive review of Schisandra chinensis lignans.* 2025. PMCID PMC11984061.
 - 대한민국약전 및 대한민국약전외한약(생약)규격집의 기원·품질 규격을 함께 확인합니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 문서
 
 - [본초 효능·주치 표준](../herbal-integrated/efficacy-indication-standard.md)

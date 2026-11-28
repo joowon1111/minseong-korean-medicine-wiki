@@ -39,6 +39,11 @@ description: 백자인의 종인·측백엽 구분, 양심안신·윤장 배합,
 | [귀비탕과 비교](../formulas/guibi-tang.md#_3) | 귀비탕은 용안육·산조인·복신·원지와 보기건비를 결합 | 백자인을 귀비탕의 기본 구성으로 추가해 적지 않음 |
 | [육종용](cistanche.md)·[당귀](angelica.md)와 비교 | 백자인의 양심윤장과 보신·익정 또는 보혈윤장 차이 | 장조·기체·실열과 허약을 함께 감별 |
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 핵심 문서
 
 [안신 본초 비교](categories/calm-spirit.md#calm-spirit-herbs) · [보익·윤장 배합](../network/tonic-formula-compare.md#tonic-bowel-herbs) · [본초 찾기](../herbal-integrated/herbs.md) · [방제 찾기](../herbal-integrated/formulas.md)

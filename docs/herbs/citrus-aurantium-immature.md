@@ -45,6 +45,11 @@ last_reviewed: '2026-10-07'
 지각·지실·진피는 감귤류라는 공통점이 있어도 사용 부위와 조제 규격이 다릅니다. 처방에서 지각은 행기·승강 구조를 이루는 본초와 함께 읽고 단순한 복부 팽만 하나로 약재를 고르지 않습니다.
 
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 이어 읽기
 
 - [이기·소화 본초군](categories/phlegm-qi.md) · [주요 본초 비교·감별](../herbal-integrated/herb-comparisons.md)

@@ -110,3 +110,7 @@ last_reviewed: 2026-10-23
 - [기침](../conditions/cough.md) · [마른기침](../conditions/dry-cough.md) · [본초 찾기](../herbal-integrated/herbs.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
 > 본초 지식을 설명한 자료이며 특정 증상에 대한 자가 처방 지침이 아닙니다.
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

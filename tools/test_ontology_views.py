@@ -13,7 +13,7 @@ class OntologyViews(unittest.TestCase):
     def test_treatment_routes_keep_exact_ids_and_both_qualified_sources(self):
         rendered = views.pattern_treatment_routes(self.payload)
         rows = [line for line in rendered.splitlines() if line.startswith('| <a')]
-        self.assertEqual(len(rows), 15)
+        self.assertEqual(len(rows), 19)
         blood = next(row for row in rows if '사물탕 — 국방 수록형' in row)
         self.assertIn('>혈허</a>', blood)
         self.assertIn('>보혈</a>', blood)
@@ -22,7 +22,7 @@ class OntologyViews(unittest.TestCase):
             row = next(row for row in rows if name in row)
             self.assertIn('>기혈양허</a>', row)
             self.assertIn('>기혈쌍보</a>', row)
-        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 15)
+        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 19)
         self.assertIn('외과이례', rendered)
         self.assertIn('五分', rendered)
         self.assertIn('냉감', rendered)
@@ -65,7 +65,7 @@ class OntologyViews(unittest.TestCase):
         record['dcterms:description']['@value'] = '<img src=x onerror=bad()> | [click](javascript:bad) **excerpt**'
         payload['@graph'].append(record)
         rendered = views.pattern_treatment_routes(payload)
-        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 16)
+        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 20)
         self.assertIn(record['dcterms:source']['@id'], rendered)
         self.assertIn('left &#124; right<br>&lt;script&gt;', rendered)
         self.assertIn('&lt;img', rendered)
@@ -94,7 +94,7 @@ class OntologyViews(unittest.TestCase):
     def test_explicit_variants_compare_shared_and_distinct_ingredient_ids(self):
         text = views.variant_comparisons(self.payload)
         panels = text.split('<details class="ontology-variant-comparison">')[1:]
-        self.assertEqual(len(panels), 6)
+        self.assertEqual(len(panels), 7)
         suanzaoren = next(p for p in panels if '산조인탕' in p.split('</summary>')[0])
         common = suanzaoren.split('</p>', 1)[0]
         self.assertIn('공통으로 등록된 본초 (3)', common)
@@ -114,7 +114,7 @@ class OntologyViews(unittest.TestCase):
         self.assertIn('감초 3량·대조 12매', text)
         self.assertIn('백복령 48량', text)
         self.assertIn('백복령 24량', text)
-        self.assertEqual(text.count('class="ontology-variant-records"'), 6)
+        self.assertEqual(text.count('class="ontology-variant-records"'), 7)
         for record in self.payload['@graph']:
             if record['@type'] == 'rdf:Statement' and record['rdf:predicate']['@id'] == 'km:sharesNameWith':
                 self.assertIn(record['dcterms:source']['@id'], text)
@@ -329,9 +329,9 @@ class OntologyViews(unittest.TestCase):
                 views.on_page_markdown(views.HERB_MARKER, page=page, config=config, files=[])
 
     def test_priority_herb_pages_expose_every_registered_membership(self):
-        expected = {'fresh-ginger': 15, 'jujube-fruit': 14, 'cinnamon-twig': 10,
-                    'pinellia': 10, 'moschus': 1, 'cervi-parvum-cornu': 1,
-                    'cornus-fructus': 5, 'dried-ginger': 3}
+        expected = {'fresh-ginger': 17, 'jujube-fruit': 16, 'cinnamon-twig': 10,
+                    'pinellia': 13, 'moschus': 1, 'cervi-parvum-cornu': 1,
+                    'cornus-fructus': 5, 'dried-ginger': 4}
         for slug, count in expected.items():
             with self.subTest(herb=slug):
                 source = 'herbs/' + slug + '.md'
@@ -391,7 +391,7 @@ class OntologyViews(unittest.TestCase):
         text = views.herb_formula_table(payload, 'herbs/fresh-ginger.md')
         self.assertIn(statement['skos:scopeNote']['@value'], text)
         self.assertIn('추가 조건 기록', text)
-        self.assertEqual(sum(line.startswith('| <a') for line in text.splitlines()), 15)
+        self.assertEqual(sum(line.startswith('| <a') for line in text.splitlines()), 17)
         extra['rdf:predicate']['@id'] = 'km:links_to_herb'
         self.assertEqual(views.herb_formula_table(payload, 'herbs/fresh-ginger.md'), original)
 

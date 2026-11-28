@@ -73,6 +73,11 @@ last_reviewed: 2026-09-21
 
 보리·글루텐 관련 알레르기·과민반응, 임신·수유 상태, 당뇨 관리와 제형의 당류·부원료를 확인합니다. 지속적인 체중감소·연하곤란·반복 구토·토혈·흑변과 심한 복통은 필요한 원인 평가를 연결합니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 이어 보기 {#_8}
 
 - [삼출건비탕](../formulas/samchul-geonbi-tang.md) · [정전가미이진탕](../formulas/jeongjeon-gami-ijin-tang.md)

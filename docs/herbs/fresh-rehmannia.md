@@ -149,3 +149,7 @@ last_reviewed: '2026-10-07'
 7. Kong D, et al. *Rehmannia glutinosa for perimenopausal syndrome in patients with breast cancer: A systematic review and meta-analysis.* Saudi Med J. 2025;46:735–745. [DOI](https://doi.org/10.15537/smj.2025.46.7.20240572).
 8. Qiu HY, et al. *Treatment of primary chronic glomerulonephritis with Rehmannia glutinosa acteosides in combination with the angiotensin receptor blocker irbesartan: a randomized controlled trial.* Phytother Res. 2014;28:132–136. [DOI](https://doi.org/10.1002/ptr.4973).
 9. Srivastava S, et al. *Assessment of the Effect of Rehmannia glutinosa Leaf Extract in Maintaining Skin Health: A Proof-of-Concept, Double-Blind, Randomized, Placebo-Controlled Clinical Trial.* Clin Cosmet Investig Dermatol. 2024;17:863–875. [DOI](https://doi.org/10.2147/CCID.S448928).
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

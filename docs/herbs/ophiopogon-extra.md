@@ -91,6 +91,11 @@ last_reviewed: '2026-09-22'
 - 임신·수유, 간·신장질환, 다약제 복용 상태에서 농축 추출물의 안전자료는 충분하지 않습니다.
 - 호흡곤란, 객혈, 고열, 산소포화도 저하, 빠른 체중감소는 본초 선택보다 원인 평가가 우선입니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 근거와 이어 보기
 
 - [홍콩침례대 중약재 자료 — 천문동의 기원·약용 부위](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00103)
