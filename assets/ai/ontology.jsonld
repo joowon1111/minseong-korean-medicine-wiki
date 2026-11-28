@@ -8847,6 +8847,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#move-qi-dissipate-binding-transform-phlegm",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#phlegm-qi-binding-care"
+      },
+      "skos:altLabel": [
+        "行氣散結·降逆化痰"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "담기울결에서 기의 소통과 맺힌 양상을 풀고 담·기역을 함께 살피는 전통 치법. 목 이물감·흉민·오심과 긴장·식사의 관계, 실제 연하곤란의 원인 평가를 함께 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "행기산결·강역화담"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#mume-fruit",
       "@type": [
         "skos:Concept",
@@ -23922,6 +23946,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "WHO 표준 361경혈 중 수궐음심포경 소속 PC9의 분류 관계. 혈명·한자·코드는 기존 표준 경혈 목록과 대조하고, 소속은 해당 경맥의 전체 소속 경혈표에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-phlegm-qi-binding--hasTraditionalTreatmentPrinciple--move-qi-dissipate-binding-transform-phlegm",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "담기울결의 전통 치법은 **행기산결·강역화담(行氣散結·降逆化痰)**입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#phlegm-qi-binding-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#move-qi-dissipate-binding-transform-phlegm"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#phlegm-qi-binding"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "담기울결의 후대 변증·치법 해설. 목 이물감·흉민·한숨·오심과 긴장·식사 전후의 변동을 함께 살핀다. 반하후박탕 금궤 5미 수록형의 화담·행기·강역 배합을 비교하며, 비허담습의 익기건비·화담 및 담위불화의 이기화담·화위이담과 구분한다. 실제 연하곤란·연하통·체중감소·출혈은 원인 평가로 연결한다."
       }
     },
     {

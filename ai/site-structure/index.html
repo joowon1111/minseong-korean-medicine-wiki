@@ -93,9 +93,9 @@
 <meta name="twitter:title" content="AI·검색엔진용 사이트 구조">
 <meta name="twitter:description" content="민성 한의학 아카이브의 AI 탐색 안내. 페이지 색인·본문 JSON·한의학 온톨로지의 역할과 실제 관계 탐색, 출처 앵커·문서 버전·임상근거를 확인하는 방법을 설명합니다.">
 <meta name="archive:document-id" content="MSA-9561CC9BC7568575">
-<meta name="archive:text-sha256" content="5141fdba21694283faea36b17f955de30d11dccebfc32506928dbbf75a2054fc">
-<meta name="archive:source-sha256" content="7e79be2c9f5c31507e8206a647aa93df858aa3c1e7130f837a060b9f0cdff631">
-<meta name="archive:commit" content="eb74c49feddaeda131695fc35c64e04451949d63">
+<meta name="archive:text-sha256" content="e295eca4add2cd6aa7c18da1aa2ec81bdeab5c2e081c52653caf6c86d9c9c77c">
+<meta name="archive:source-sha256" content="fd4bc34bc1c4c68580ba8bcd58f3efadb77760a55014027f7d431a4051ca0bf9">
+<meta name="archive:commit" content="05011f326fa4337aea7137592b840a5a78e75694">
 </head>
   
   
@@ -6553,6 +6553,11 @@
 <td><a href="../../pattern-treatment/heart-spleen-deficiency/#treatment-principle">심비양허의 보기양혈·안신</a>과 <a href="../../pattern-treatment/phlegm-fluid/#phlegm-stomach-care">담위불화의 이기화담·화위이담</a>. 귀비탕 8미·10미와 전탕 추가, 삼인방 권9 허번 온담탕 6미·생강 대조의 제법, 후대 해설의 적용 조건 확인</td>
 </tr>
 <tr>
+<td>반하후박탕·육군자탕·온담탕은 어떤 맥락으로 구분하나요?</td>
+<td>각 수록형의 <code>hasTraditionalPatternContext</code>를 조회한 뒤 해당 변증의 <code>hasTraditionalTreatmentPrinciple</code>을 선택. <code>banxia-houpo-jinkui</code> → <code>phlegm-qi-binding</code> → <code>move-qi-dissipate-binding-transform-phlegm</code>, <code>liujunzi-yixuexinwu</code> → <code>spleen-qi-deficiency-with-phlegm</code>, <code>wendan-sanyin</code> → <code>gallbladder-stomach-disharmony</code>의 경로를 각각 유지</td>
+<td><a href="../../pattern-treatment/phlegm-fluid/#phlegm-qi-binding-care">세 변증의 갈림점</a>에서 목 이물감·긴장, 비위허약, 오심·수면불편의 중심을 비교. 각 관계의 출처·조건과 원문 약명·약량을 확인하고 공통 본초와 개별 처방의 맥락을 함께 보존</td>
+</tr>
+<tr>
 <td>족삼리는 어느 경맥에 속하는가?</td>
 <td>주체 <code>st36</code>, 관계 <code>km:belongsToMeridian</code>인 진술에서 대상 <code>stomach-meridian</code> 확인</td>
 <td><a href="../../meridian-network/stomach-meridian/#_3">족양명위경의 소속 경혈표</a>와 <a href="../../acupuncture/points/st36-zusanli/">족삼리의 위치·해부학</a></td>
@@ -6619,7 +6624,7 @@
 <h3 id="crawler-discovery">검색·수집 도구가 찾는 공개 경로<a class="headerlink" href="#crawler-discovery" title="Permanent link">&para;</a></h3>
 <p><a href="../../robots.txt">robots.txt</a>는 공개 경로의 수집 설정과 <a href="https://wiki.minseong.co.kr/sitemap.xml">sitemap.xml</a> 주소를 제공합니다. <a href="../../llms.txt">llms.txt</a>는 주제별 대표 자료와 기계 판독용 파일의 역할을 안내하며, 본문 HTML의 JSON 대체 링크와 온톨로지 설명 링크를 통해 실제 자료로 이어집니다. 출처 표기와 자료 활용 범위는 <a href="../../guide/content-use/">콘텐츠 이용 안내</a>에서 확인할 수 있습니다.</p>
 <h2 id="_3">최종 구조<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="5141fdba2169" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="e295eca4add2" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 
