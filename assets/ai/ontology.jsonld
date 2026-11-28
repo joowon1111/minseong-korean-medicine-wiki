@@ -10647,6 +10647,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#sinking-middle-qi",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/glossary/sinking-middle-qi/"
+      },
+      "skos:altLabel": [
+        "中氣下陷"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "비위의 기가 허하여 승거 기능이 약해진 양상을 설명하는 전통 변증. 식사·기력·배변과 유지하는 기능을 함께 살핀다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "중기하함"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#siwu-guofang",
       "@type": [
         "skos:Concept",
@@ -13215,6 +13239,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "보기양혈·안신"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi-raise-yang",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/sinking-middle-qi/#treatment-principle"
+      },
+      "skos:altLabel": [
+        "補氣升陽"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "중기하함에서 비위의 기를 보하면서 승거 방향을 함께 두는 전통 치법."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "보기승양"
       }
     },
     {
@@ -15942,6 +15990,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "비위론 보중익기탕의 구성표 기본 약미. 원문 약명 甘草, 수록량 五分, 포제 자(굽거나 볶음). 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-buzhong-piwei--hasTraditionalPatternContext--sinking-middle-qi",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "전통 방제학에서는 보중익기탕을 **비위기허에 중기하함이 동반되는 맥락**에서 설명합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/buzhong-yiqi-tang/#_4"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#sinking-middle-qi"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#buzhong-piwei"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "비위론의 8미 구성과 승마·시호의 승양 설명을 바탕으로 한 현대 방제학적 해설. 원문 음식실절·노권·열중과 현대 중기하함 명칭을 구분하며, 원문 약량·가감 조건과 후대 수록방·현대 제제를 각각 유지한다."
       }
     },
     {
@@ -26430,6 +26501,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "기허 가운데 식욕저하·무력감·비위허약을 함께 살피는 보기건비 맥락. 현재 증상과 진찰에 따라 처방을 비교한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-sinking-middle-qi--hasTraditionalTreatmentPrinciple--tonify-qi-raise-yang",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "중기하함의 기본 치법은 **보기승양(補氣升陽)**입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/sinking-middle-qi/#treatment-principle"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi-raise-yang"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#sinking-middle-qi"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "중기하함의 전통 치법 해설. 비위론의 원문 승양 설명을 근거로 배합을 비교하며, 식사·기력·배변과 경과를 함께 확인한다. 장기하수·직장탈출은 구조와 골반저 기능을 별도로 평가한다."
       }
     },
     {
