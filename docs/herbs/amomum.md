@@ -27,6 +27,11 @@ description: 사인의 화습행기·온비 역할을 향사평위산·정전가
 > 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
 
 <!-- MINSEONG_ONE_SHOT_FIX_V2 -->
+
+## 수록형별 처방 구성에서 찾아보기 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 핵심 문서
 
 - [본초 찾기](../herbal-integrated/herbs.md)

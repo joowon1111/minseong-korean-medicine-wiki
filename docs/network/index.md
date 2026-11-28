@@ -86,6 +86,8 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 어지럼·오심·식욕저하에서는 [반하백출천마탕 비위론형](../formulas/banxia-baizhu-tianma-tang.md#traditional-pattern-care)의 비허담습과 천마 배합을, 건조·야간 열감과 얕은 잠에서는 [천왕보심단 의방집해형](../formulas/tianwang-buxin-dan.md#traditional-pattern-care)의 심신음혈부족을 비교합니다. 긴장 뒤 창만·통증은 [시호소간산 경악전서형](../formulas/chaihu-shugan-san.md#traditional-pattern-care), 병후 쉽게 놀람·심계·허번은 [가미온담탕 만병회춘형](../formulas/jiawei-wendan-tang.md#traditional-pattern-care)의 맥락으로 연결됩니다. 가미온담탕의 만병회춘형과 방약합편형은 아래 동명방 비교에서 각각의 본초·전탕 조건을 확인합니다.
 
+[월국환 5미형](../formulas/yueju-wan.md#traditional-pattern-care)과 [육울탕의 출전별 구성](../formulas/yukwul-tang.md#donguibogam-uigam-version)은 육울·행기해울의 맥락에서 비교합니다. 반하·사인이 들어간 의학입문형과 신곡·연교·패모·지각·자소엽을 둔 동의보감 의감 인용형의 약미·약량·전탕 조건은 아래 동명방 비교에서도 확인할 수 있습니다.
+
 <!-- MINSEONG_ONTOLOGY_PATTERN_TREATMENT_ROUTES -->
 
 ## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}

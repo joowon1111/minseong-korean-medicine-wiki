@@ -139,3 +139,7 @@ description: 연교의 청열해독·소종산결·소산풍열 효능과 주치
 - [본초·방제 안전·복용 주의](../herbal-integrated/safety.md)
 
 > 전통 본초 지식과 현대 연구의 층위를 구분한 교육 자료이며 자가조제·자가복용 또는 항감염 치료의 대체 지침이 아닙니다.
+
+## 수록형별 처방 구성에서 찾아보기 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
