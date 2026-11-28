@@ -65,7 +65,7 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       }
       await page.locator('#ontology-formula-compositions').scrollIntoViewIfNeeded();
       await page.screenshot({path:`archive-browser-results/${name}-ontology-compositions.png`,fullPage:false});
-      for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark','perilla-leaf','magnolia-bark','astragalus','angelica','licorice','prepared-rehmannia']){
+      for(const slug of ['ginseng','poria','ziziphus-seed','cinnamon-bark','perilla-leaf','magnolia-bark','astragalus','angelica','licorice','prepared-rehmannia','atractylodes','fresh-ginger','jujube-fruit','cinnamon-twig','pinellia','moschus','cervi-parvum-cornu','cornus-fructus','dried-ginger']){
         const herbIds=new Set(ontology['@graph'].filter(n=>Array.isArray(n['@type'])&&n['@type'].includes('km:Herb')&&new URL(n['foaf:page']['@id']).pathname==='/herbs/'+slug+'/').map(n=>n['@id']));
         const records=compositions.filter(n=>herbIds.has(n['rdf:object']['@id']));
         const expectedRows=new Set(records.map(n=>JSON.stringify([n['rdf:object']['@id'],n['rdf:subject']['@id'],n['dcterms:source']['@id']])));
@@ -75,11 +75,26 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
           let table;
           for(let e=document.getElementById('ontology-herb-formula-sources').nextElementSibling;e;e=e.nextElementSibling){table=e.matches('table')?e:e.querySelector('table');if(table)break;}
           if(!table)throw Error('Missing herb source table');
-          return {rows:table.tBodies[0].rows.length,names:[...table.tBodies[0].rows].map(r=>r.cells[0].innerText),links:[...table.querySelectorAll('a')].map(a=>a.href),overflow:document.documentElement.scrollWidth>innerWidth+2};
+          return {rows:table.tBodies[0].rows.length,names:[...table.tBodies[0].rows].map(r=>r.cells[0].innerText),links:[...table.querySelectorAll('a')].map(a=>a.href),
+            conditions:[...table.querySelectorAll('details.ontology-herb-context')].map(d=>d.textContent),overflow:document.documentElement.scrollWidth>innerWidth+2};
         });
         assert.equal(herbView.rows,expectedRows.size,slug+' source row count');
         assert.equal(herbView.overflow,false,slug+' herb table must fit the viewport');
         for(const record of records)assert.ok(herbView.links.includes(record['dcterms:source']['@id']));
+        assert.equal(herbView.conditions.length,expectedRows.size,slug+' condition controls');
+        for(const record of records)assert.ok(herbView.conditions.some(text=>text.replace(/\s+/g,'').includes(record['skos:scopeNote']['@value'].replace(/\s+/g,''))),slug+' retains its registered source conditions');
+        const herbConditions=page.locator('details.ontology-herb-context');
+        for(const index of new Set([0,expectedRows.size-1])){
+          const condition=herbConditions.nth(index);
+          assert.equal(await condition.evaluate(el=>el.open),false);
+          await condition.locator(':scope > summary').click();
+          assert.equal(await condition.evaluate(el=>el.open),true);
+          assert.equal(await condition.locator('p').first().isVisible(),true);
+          assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+2),false,slug+' expanded conditions must fit the viewport');
+          if(slug==='fresh-ginger'&&index===0)await page.screenshot({path:`archive-browser-results/${name}-ontology-herb-conditions.png`,fullPage:false});
+          await condition.locator(':scope > summary').click();
+          assert.equal(await condition.evaluate(el=>el.open),false);
+        }
         if(slug==='poria'){
           assert.ok(herbView.names.includes('복령')); assert.ok(herbView.names.includes('적복령'));
           await page.locator('#ontology-herb-formula-sources').scrollIntoViewIfNeeded();
