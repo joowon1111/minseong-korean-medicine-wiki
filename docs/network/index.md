@@ -82,6 +82,8 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 목 이물감·오심·흉민이 겹치는 질문은 [담기울결·비허담습·담위불화의 갈림점](../pattern-treatment/phlegm-fluid.md#phlegm-qi-binding-care)으로 이어집니다. 반하후박탕 금궤형의 행기산결·강역화담, 육군자탕 의학심오형의 익기건비·화담, 온담탕 삼인방형의 이기화담·화위이담을 각각의 출처와 조건으로 비교합니다.
 
+피로·식욕저하에서는 [사군자탕·보중익기탕·십전대보탕의 선택 맥락](../compare/buzhong-vs-sipjeondaebo.md#three-tonic-contexts)을 비교합니다. 기허의 보기, 중기하함의 보기승양, 기혈양허의 기혈쌍보를 각 수록형과 연결하고, 소화·창백·냉감·회복 양상을 함께 살핍니다.
+
 <!-- MINSEONG_ONTOLOGY_PATTERN_TREATMENT_ROUTES -->
 
 ## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}
