@@ -26,7 +26,7 @@ last_reviewed: 2026-09-06
 | 입마름·밤의 열감·식은땀·심계와 각성 | [천왕보심단](../formulas/tianwang-buxin-dan.md)의 자음양혈·안신 |
 | 혈허의 월경·근육·건조 양상 | [사물탕](../formulas/siwu-tang.md)의 보혈·조혈 구조와 실제 가감 확인 |
 
-각 처방의 원전과 약재·용량은 연결 문서에서 대조합니다. 기력·소화·열감에 따라 보기·자음·이기의 비중도 달라집니다.
+각 처방의 원전과 약재·용량은 연결 문서에서 대조합니다. 기력·소화·열감에 따라 보기·자음·이기의 비중도 달라집니다. 기허가 함께 나타나면 [기혈양허](patterns/qi-blood-deficiency.md)와 비교하고, [보혈·기혈쌍보의 배합 차이](../pattern-treatment/blood-deficiency.md#treatment-principle)를 확인합니다. [처방·변증·치법 연결표](../network/index.md#ontology-pattern-treatment)에서는 사물탕 국방형과 혈허를 연결한 본문 출처·조건을 함께 볼 수 있습니다.
 
 ## 감별
 

@@ -54,6 +54,12 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 기허에서 출발하면 [보기·건비의 원칙](../pattern-treatment/qi-deficiency.md#treatment-principle)을 확인하고, 오심·그득함이 겹칠 때는 [비허담습의 익기건비·화담](../pattern-treatment/phlegm-fluid.md#spleen-qi-phlegm-care)과 육군자탕의 반하·진피 배합을 비교할 수 있습니다. 변증과 치법은 서로 다른 개념으로 기록하고, 처방 수록형의 구성·제법은 해당 출처에서 확인합니다. 혈허에서는 [보혈](../pattern-treatment/blood-deficiency.md#treatment-principle)과 사물탕 국방형을, 기혈양허에서는 기혈쌍보와 팔진탕 만병회춘형·십전대보탕 국방형을 연결합니다. 십전대보탕의 황기·육계는 냉감·소화 상태와 온보의 필요를 함께 살피는 조건으로 기록합니다.
 
+## 처방·변증·치법을 함께 비교하기 {#ontology-pattern-treatment}
+
+등록된 처방 수록형에서 변증을 거쳐 치법으로 이어지는 관계를 모았습니다. **근거와 조건 보기**를 펼치면 처방과 변증, 변증과 치법의 출처·적용 범위·본문 발췌를 각각 확인할 수 있습니다. 현재 등록된 두 관계를 이어 보여 주며, 실제 배합은 각 처방의 구성·소화 상태·냉열과 동반 증후를 함께 살펴 비교합니다.
+
+<!-- MINSEONG_ONTOLOGY_PATTERN_TREATMENT_ROUTES -->
+
 ## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}
 
 아래 표는 현재 온톨로지에 등록된 구성 관계를 모은 것입니다. 처방 수록형에서 본초를 찾거나, 본초별로 구성 관계가 등록된 처방을 비교할 수 있습니다. 원문 약명과 수록본을 유지해 같은 이름의 처방도 각각 확인합니다.

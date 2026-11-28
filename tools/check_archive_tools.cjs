@@ -40,6 +40,39 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
       assert.match(projected.text,/반하후박탕 — 금궤요략 수록형/);
       assert.equal(projected.hasSource,true); assert.equal(projected.emptyLinks,0);
       assert.equal(projected.overflow,false,'ontology tables must fit the viewport');
+      const statements=ontology['@graph'].filter(n=>n['@type']==='rdf:Statement');
+      const principles=statements.filter(n=>n['rdf:predicate']['@id']==='km:hasTraditionalTreatmentPrinciple');
+      const routes=statements.filter(n=>n['rdf:predicate']['@id']==='km:hasTraditionalPatternContext')
+        .flatMap(context=>principles.filter(p=>p['rdf:subject']['@id']===context['rdf:object']['@id']).map(treatment=>[context,treatment]));
+      const routePanels=page.locator('details.ontology-treatment-route');
+      assert.equal(await routePanels.count(),routes.length);
+      const nodeMap=new Map(ontology['@graph'].map(n=>[n['@id'],n]));
+      const expectedRows=routes.map(([c,t])=>[c['rdf:subject'],c['rdf:object'],t['rdf:object']]
+        .map(ref=>nodeMap.get(ref['@id'])['skos:prefLabel']['@value']).join(' / ')).sort();
+      const actualRows=await routePanels.evaluateAll(panels=>panels.map(panel=>
+        [...panel.closest('tr').cells].slice(0,3).map(cell=>cell.innerText.trim()).join(' / ')).sort());
+      assert.deepEqual(actualRows,expectedRows);
+      for(let i=0;i<await routePanels.count();i++){
+        const panel=routePanels.nth(i);
+        await panel.locator(':scope > summary').click();
+        assert.equal(await panel.locator('blockquote').count(),2);
+        assert.equal(await panel.locator('a').count(),2);
+        assert.equal(await panel.locator('blockquote').first().isVisible(),true);
+        assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+2),false,'expanded treatment conditions must fit the viewport');
+        await panel.locator(':scope > summary').click();
+      }
+      for(const [context,treatment] of routes){
+        const row=routePanels.filter({hasText:context['dcterms:description']['@value']})
+          .filter({hasText:treatment['dcterms:description']['@value']});
+        assert.equal(await row.count(),1);
+        const sources=await row.locator('a').evaluateAll(links=>links.map(a=>a.href));
+        assert.ok(sources.includes(context['dcterms:source']['@id']));
+        assert.ok(sources.includes(treatment['dcterms:source']['@id']));
+        const text=await row.textContent();
+        for(const record of [context,treatment])assert.ok(text.includes(record['skos:scopeNote']['@value']));
+      }
+      await page.locator('#ontology-pattern-treatment').scrollIntoViewIfNeeded();
+      await page.screenshot({path:`archive-browser-results/${name}-ontology-treatment-routes.png`,fullPage:false});
       const variantPairs=new Set(ontology['@graph'].filter(n=>n['@type']==='rdf:Statement'&&n['rdf:predicate']['@id']==='km:sharesNameWith').map(n=>JSON.stringify([n['rdf:subject']['@id'],n['rdf:object']['@id']].sort())));
       const comparisons=page.locator('details.ontology-variant-comparison');
       assert.equal(await comparisons.count(),variantPairs.size);
