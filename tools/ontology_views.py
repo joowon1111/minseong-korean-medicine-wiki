@@ -1,4 +1,4 @@
-"""Render source-qualified composition relations in the existing network page."""
+"""Render source-qualified ontology relations in existing archive pages."""
 from collections import defaultdict
 from functools import lru_cache
 from html import escape
@@ -11,6 +11,7 @@ HERB_MARKER = '<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->'
 MERIDIAN_MARKER = '<!-- MINSEONG_ONTOLOGY_MERIDIAN_MEMBERS -->'
 CLASSICAL_MARKER = '<!-- MINSEONG_ONTOLOGY_CLASSICAL_FORMULAS -->'
 VARIANT_MARKER = '<!-- MINSEONG_ONTOLOGY_VARIANT_COMPARISONS -->'
+TREATMENT_MARKER = '<!-- MINSEONG_ONTOLOGY_PATTERN_TREATMENT_ROUTES -->'
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -200,6 +201,62 @@ def classical_formula_table(payload):
     return '\n'.join(lines) + '\n'
 
 
+def pattern_treatment_routes(payload):
+    """Join two qualified statements by exact Pattern ID, retaining both records."""
+    nodes = {node['@id']: node for node in payload['@graph']}
+    contexts = []
+    principles = defaultdict(list)
+    for node in nodes.values():
+        if node['@type'] != 'rdf:Statement':
+            continue
+        predicate = node['rdf:predicate']['@id']
+        if predicate not in ('km:hasTraditionalPatternContext',
+                             'km:hasTraditionalTreatmentPrinciple'):
+            continue
+        subject, target = node['rdf:subject']['@id'], node['rdf:object']['@id']
+        expected = ('km:Formula', 'km:Pattern') if predicate.endswith('PatternContext') else (
+            'km:Pattern', 'km:TreatmentPrinciple')
+        if any(kind not in nodes[key]['@type'] for key, kind in zip((subject, target), expected)):
+            raise ValueError('Invalid pattern treatment route types')
+        if predicate.endswith('PatternContext'):
+            contexts.append(node)
+        else:
+            principles[subject].append(node)
+
+    def concept(key):
+        return link(nodes[key]['skos:prefLabel']['@value'], nodes[key]['foaf:page']['@id'])
+
+    def literal(text):
+        text = escape(text)
+        for character in '|[]*_`\\':
+            text = text.replace(character, '&#' + str(ord(character)) + ';')
+        return text.replace('\n', '<br>')
+
+    def evidence(record, label):
+        return ('<p><strong>' + label + '</strong> '
+                + link('근거 본문', record['dcterms:source']['@id'])
+                + '</p><p>' + literal(record['skos:scopeNote']['@value'])
+                + '</p><blockquote>' + literal(record['dcterms:description']['@value'])
+                + '</blockquote>')
+
+    routes = [(context, treatment) for context in contexts
+              for treatment in principles[context['rdf:object']['@id']]]
+    routes.sort(key=lambda pair: (
+        nodes[pair[0]['rdf:object']['@id']]['skos:prefLabel']['@value'],
+        nodes[pair[0]['rdf:subject']['@id']]['skos:prefLabel']['@value'],
+        pair[0]['@id'], pair[1]['@id']))
+    lines = ['| 처방 수록형 | 전통 변증 | 치법 | 출처·적용 조건 |', '|---|---|---|---|']
+    for context, treatment in routes:
+        note = ('<details class="ontology-treatment-route"><summary>근거·조건</summary>'
+                + evidence(context, '처방과 변증')
+                + evidence(treatment, '변증과 치법') + '</details>')
+        lines.append('| ' + concept(context['rdf:subject']['@id'])
+                     + ' | ' + concept(context['rdf:object']['@id'])
+                     + ' | ' + concept(treatment['rdf:object']['@id'])
+                     + ' | ' + note + ' |')
+    return '\n'.join(lines) + '\n'
+
+
 def meridian_members(payload):
     """Browse only qualified belongsToMeridian records in the shared ontology."""
     nodes = {node['@id']: node for node in payload['@graph']}
@@ -260,6 +317,10 @@ def on_page_markdown(markdown, *, page, config, files):
     if markdown.count(MARKER) != 1:
         raise ValueError('The network page needs exactly one ontology composition marker')
     markdown = markdown.replace(MARKER, render_for_docs(str(config['docs_dir'])))
+    if TREATMENT_MARKER in markdown:
+        if markdown.count(TREATMENT_MARKER) != 1:
+            raise ValueError('The network page needs one pattern treatment marker')
+        markdown = markdown.replace(TREATMENT_MARKER, pattern_treatment_routes(herb_payload(str(config['docs_dir']))))
     if VARIANT_MARKER in markdown:
         if markdown.count(VARIANT_MARKER) != 1:
             raise ValueError('The network page needs one formula variant marker')

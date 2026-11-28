@@ -10,6 +10,88 @@ import ontology_views as views
 
 
 class OntologyViews(unittest.TestCase):
+    def test_treatment_routes_keep_exact_ids_and_both_qualified_sources(self):
+        rendered = views.pattern_treatment_routes(self.payload)
+        rows = [line for line in rendered.splitlines() if line.startswith('| <a')]
+        self.assertEqual(len(rows), 6)
+        blood = next(row for row in rows if '사물탕 — 국방 수록형' in row)
+        self.assertIn('>혈허</a>', blood)
+        self.assertIn('>보혈</a>', blood)
+        self.assertNotIn('>기혈쌍보</a>', blood)
+        for name in ('팔진탕 — 만병회춘 수록형', '십전대보탕 — 국방 수록형'):
+            row = next(row for row in rows if name in row)
+            self.assertIn('>기혈양허</a>', row)
+            self.assertIn('>기혈쌍보</a>', row)
+        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 6)
+        self.assertIn('외과이례', rendered)
+        self.assertIn('五分', rendered)
+        self.assertIn('냉감', rendered)
+        for node in self.payload['@graph']:
+            if node.get('rdf:predicate', {}).get('@id') in (
+                    'km:hasTraditionalTreatmentPrinciple', 'km:hasTraditionalPatternContext'):
+                if 'phlegm-qi-binding' not in node['rdf:object']['@id']:
+                    self.assertIn(node['dcterms:source']['@id'], rendered)
+        self.assertNotIn('반하후박탕', rendered)
+        self.assertEqual(rendered, views.pattern_treatment_routes(self.payload))
+
+    def test_route_join_does_not_infer_from_aliases_or_navigation(self):
+        payload = deepcopy(self.payload)
+        for record in payload['@graph']:
+            if (record.get('rdf:predicate', {}).get('@id') == 'km:hasTraditionalTreatmentPrinciple'
+                    and record['rdf:subject']['@id'].endswith('#blood-deficiency')):
+                record['rdf:predicate']['@id'] = 'km:links_to_treatment_principle'
+        text = views.pattern_treatment_routes(payload)
+        self.assertNotIn('사물탕 — 국방 수록형', text)
+        self.assertIn('팔진탕 — 만병회춘 수록형', text)
+        alternate = deepcopy(next(n for n in payload['@graph']
+                                  if n['@id'].endswith('#blood-deficiency')))
+        alternate['@id'] += '-different-concept'
+        payload['@graph'].append(alternate)
+        record = deepcopy(next(n for n in self.payload['@graph']
+                               if n.get('rdf:predicate', {}).get('@id') == 'km:hasTraditionalTreatmentPrinciple'
+                               and n['rdf:subject']['@id'].endswith('#blood-deficiency')))
+        record['@id'] += '-other-pattern'
+        record['rdf:subject']['@id'] = alternate['@id']
+        payload['@graph'].append(record)
+        self.assertEqual(text, views.pattern_treatment_routes(payload))
+
+    def test_route_view_preserves_alternate_evidence_and_escapes_all_text(self):
+        payload = deepcopy(self.payload)
+        record = deepcopy(next(n for n in payload['@graph']
+                               if n.get('rdf:predicate', {}).get('@id') == 'km:hasTraditionalPatternContext'
+                               and n['rdf:subject']['@id'].endswith('#siwu-guofang')))
+        record['@id'] += '-alternate-evidence'
+        record['dcterms:source']['@id'] += '-alternate'
+        record['skos:scopeNote']['@value'] = 'left | right\n<script>bad()</script>'
+        record['dcterms:description']['@value'] = '<img src=x onerror=bad()> | [click](javascript:bad) **excerpt**'
+        payload['@graph'].append(record)
+        rendered = views.pattern_treatment_routes(payload)
+        self.assertEqual(rendered.count('class="ontology-treatment-route"'), 7)
+        self.assertIn(record['dcterms:source']['@id'], rendered)
+        self.assertIn('left &#124; right<br>&lt;script&gt;', rendered)
+        self.assertIn('&lt;img', rendered)
+        self.assertIn('&#91;click&#93;', rendered)
+        self.assertNotIn('[click]', rendered)
+        self.assertNotIn('<script>', rendered)
+        self.assertNotIn('<img', rendered)
+        for row in rendered.splitlines():
+            if row.startswith('| <a'):
+                self.assertEqual(row.count('|'), 5)
+        record['rdf:object']['@id'] = next(n['@id'] for n in payload['@graph']
+                                          if n['@id'].endswith('#ginseng'))
+        with self.assertRaises(ValueError):
+            views.pattern_treatment_routes(payload)
+
+    def test_treatment_marker_expands_once_from_the_shared_payload(self):
+        page = SimpleNamespace(file=SimpleNamespace(src_uri='network/index.md'))
+        rendered = views.on_page_markdown(views.MARKER + views.TREATMENT_MARKER,
+                                         page=page, config={'docs_dir': 'docs'}, files=[])
+        self.assertNotIn(views.TREATMENT_MARKER, rendered)
+        self.assertIn('class="ontology-treatment-route"', rendered)
+        with self.assertRaises(ValueError):
+            views.on_page_markdown(views.MARKER + views.TREATMENT_MARKER * 2,
+                                   page=page, config={'docs_dir': 'docs'}, files=[])
+
     def test_explicit_variants_compare_shared_and_distinct_ingredient_ids(self):
         text = views.variant_comparisons(self.payload)
         panels = text.split('<details class="ontology-variant-comparison">')[1:]
