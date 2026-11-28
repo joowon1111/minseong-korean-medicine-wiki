@@ -352,3 +352,31 @@ test('a compound symptom question keeps the surgery context despite spacing', as
     assert.equal(urls[0], '/conditions/postoperative-recovery/', query);
   }
 });
+
+test('care follow-up questions find the authored guide in the generated archive index', async () => {
+  const root = path.join(__dirname, '..');
+  const folder = fs.mkdtempSync(path.join(os.tmpdir(), 'followup-search-'));
+  try {
+    const output = path.join(folder, 'index.json');
+    execFileSync(process.env.PYTHON || 'python', ['-c',
+      'import sys; from pathlib import Path; sys.path.insert(0,"tools"); import build_korean_search_index as m; m.OUT=Path(sys.argv[1]); m.main()', output], {cwd: root});
+    const archive = JSON.parse(fs.readFileSync(output, 'utf8'));
+    const b = browser(async () => ({ok: true, json: async () => archive}));
+    const cases = [["normal-tests-persistent-fatigue-guide",["검사는 정상인데 피로와 소화불량이 계속돼요","검사는 정상인데 피곤하고 소화가 안 돼요"]],["sleep-autonomic-guide",["잠은 드는데 새벽마다 깨요","잠은 잘 드는데 새벽에 자꾸 깨요"]],["overhead-shoulder-pain-guide",["어깨 통증이 줄었는데 팔은 여전히 잘 안 올라가요","어깨는 덜 아픈데 팔이 안 올라가요"]],["tonic-fatigue-guide",["보약을 먹으면 어떤 변화를 보고 처방을 조절하나요","보약 먹고 무엇이 좋아지는지 어떻게 보나요"]]];
+    for (const [slug, queries] of cases) {
+      const expected = '/answer-guides/' + slug + '/';
+      const row = archive.find(r => r.url === expected);
+      assert.ok(row, expected);
+      assert.ok(row.text.length > 300, expected);
+      for (const query of queries) {
+        for (const variant of [query + '?', query.replace(/\s+/g, '')]) {
+          await b.enter(variant);
+          assert.equal(resultUrls(b)[0], expected, variant);
+          assert.equal(new Set(resultUrls(b)).size, resultUrls(b).length, variant);
+        }
+      }
+    }
+  } finally {
+    fs.rmSync(folder, {recursive: true, force: true});
+  }
+});

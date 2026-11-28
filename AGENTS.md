@@ -34,6 +34,15 @@ A failed or incomplete security check blocks publication; do not silently pass i
 - Prefer strengthening existing documents to creating overlapping pages. Preserve the policy against blanket public review dates and do not invent clinical experience, authorship, or credentials.
 - Owner correction (2026-11-02): never automatically interpret the classical character `分` as the modern decimal weight unit `푼` (one tenth of 錢). Preserve `分` and explain it by source, edition, context and historical system: it can be a proportional part or a historical weight (including 四分為一兩 in a specified system), as well as a length, fluid fraction or verb. For ratios such as 各等分 or 丸散 amounts distinguish the manufacturing proportions from the quantity taken at each dose. Keep the original text and label cross-text conversions as interpretations, not the quoted author's own words. Do not assign a gram value or numerical equivalence without establishing its specific historical basis. Use `푼` only where the source's decimal unit is established. For 排膿散, preserve the 金匱 text 枳實十六枚·芍藥六分·桔梗二分, and identify the 8:6:2 ratio as a cross-text interpretation applying the 千金要方 rule 枳實去穰一分準二枚, not as a direct 金匱 quotation. Document variant readings and distinguish total mixture from each dose.
 
+## Question-based quality and review workload
+
+- For recurring archive expansion, select a small coherent batch that can be reviewed together. Default to at most four core clinical documents plus necessary hubs, data and tests per batch; an explicit user request for a larger scope takes precedence.
+- Before starting another automated batch on the same topic, inspect open PRs and unresolved review findings. Finish integration and verification of the existing batch first; avoid stacking overlapping PRs. Read-only monitoring can continue.
+- Report which patient or practitioner question is now answerable, its representative page and source, and the remaining gap. Relation counts alone do not establish retrieval quality.
+- For question-oriented discovery changes, verify the actual generated search index and search ranking, including spacing variants. Check that the answer leads to relevant detailed documents and preserves clinical reassessment signals.
+- For ontology changes, also exercise a practitioner question against qualified statements: inspect exact source passage, formulation variant, predicate and scope. Navigation links do not establish efficacy. Automated checks cover retrieval and source integrity; clinical correctness still requires substantive review.
+- Keep review workload and automation notes in PRs, reports or these instructions, outside patient-facing text. Do not alter unrelated schedules as a side effect of content work.
+
 ## Classical and modern clinical knowledge expansion
 
 - Select knowledge with present clinical or scholarly value. Connect the existing archive instead of accumulating standalone classical ebooks or duplicate pages.
