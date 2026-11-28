@@ -69,6 +69,10 @@ last_reviewed: 2026-10-23
 
 [창출·백출의 처방별 배치](atractylodes-lancea.md#combined-atractylodes)에서는 두 약재가 함께 들어가는 이유와 약미를 구분합니다. 같은 출(朮)이라는 이름만으로 서로 치환하지 않습니다.
 
+### 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 백출의 기원종과 성분 지문 {#species-fractions}
 
 백출·창출의 기원 규정은 국가별 공정서와 유통 원료를 확인합니다. *A. macrocephala*뿐 아니라 *A. japonica* 원료를 다룬 국내 연구도 있으므로 학명을 생략하지 않습니다.
