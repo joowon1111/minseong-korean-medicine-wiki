@@ -6259,6 +6259,38 @@
         "정전가미이진탕",
         "正傳加味二陳湯"
       ]
+    },
+    {
+      "id": "spleen-stomach-qi-deficiency-with-food-stagnation",
+      "type": "Pattern",
+      "label": "비위기허겸식적",
+      "page": "formulas/samchul-geonbi-tang.md#traditional-pattern-care",
+      "definition": "평소 입맛·섭취량·기력 저하에 식후 그득함·음식 정체가 동반되는 변증·배합 맥락. 식적 중심 및 비허담습의 오심·기체와 비교한다.",
+      "aliases": [
+        "脾胃氣虛兼食積"
+      ]
+    },
+    {
+      "id": "tonify-spleen-digest-food-harmonize-middle",
+      "type": "TreatmentPrinciple",
+      "label": "익기건비·소식화중",
+      "page": "formulas/samchul-geonbi-tang.md#traditional-pattern-care",
+      "definition": "비위의 기운을 돕는 배합에 소식·행기·완급을 함께 두어 식사량과 식후 불편을 살피는 전통 치법.",
+      "aliases": [
+        "益氣健脾·消食和中"
+      ]
+    },
+    {
+      "id": "samchul-geonbi-donguibogam",
+      "type": "Formula",
+      "label": "삼출건비탕 — 동의보감 집략 인용 수록형",
+      "page": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "definition": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "aliases": [
+        "삼출건비탕",
+        "參朮健脾湯",
+        "蔘朮健脾湯"
+      ]
     }
   ],
   "predicates": {
@@ -14216,6 +14248,159 @@
       "source": "formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care",
       "scope": "해당 수록형의 후대 변증·배합 해설. 식적·담습과 평소 허약을 비교하고 소식·화담·건비·이기의 비중을 동반 증후에 맞춰 확인한다. 원문 제법과 현대 제제·연구 조건은 각각 확인한다.",
       "quote": "식적담습에서 이 배합을 설명하는 전통 치법은 **도담보비·소식행기(導痰補脾·消食行氣)**입니다."
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--ginseng",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "ginseng",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [인삼](../herbs/ginseng.md) · 人參 | 一錢 | 별도 포제 표기 없음 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--atractylodes",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 一錢 | 별도 포제 표기 없음 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--white-poria",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "white-poria",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [백복령](../herbs/poria.md) · 白茯苓 | 一錢 | 원문 약명 백복령 보존 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--magnolia-bark",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "magnolia-bark",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [후박](../herbs/magnolia-bark.md) · 厚朴 | 一錢 | 별도 포제 표기 없음 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--citrus-peel",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 一錢 | 별도 포제 표기 없음 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--hawthorn",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "hawthorn",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [산사](../herbs/hawthorn.md) · 山査肉 | 一錢 | 산사육이라는 원문 부위 표기 보존 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--citrus-immature",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "citrus-immature",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [지실](../herbs/citrus-immature.md) · 枳實 | 八分 | 지각과 구분하는 기본 약미 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--white-peony",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "white-peony",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [백작약](../herbs/white-peony.md) · 白芍藥 | 八分 | 원문에 백작약을 명시 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--massa-medicata-fermentata",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "massa-medicata-fermentata",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [신곡](../herbs/massa-medicata-fermentata.md) · 神麴 | 五分 | 별도 포제·조입 표기 없음 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--barley-malt",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "barley-malt",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [맥아](../herbs/barley-malt.md) · 麥芽 | 五分 | 별도 포제·조입 표기 없음 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--amomum",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "amomum",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [사인](../herbs/amomum.md) · 縮砂 | 五分 | 축사라는 원문 명칭 보존 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--licorice",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 五分 | 이 대목에 자법을 별도로 적지 않음 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--fresh-ginger",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 薑 | 三·제법 대조 3쪽 | 전탕 추가재료 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--containsHerb--jujube-fruit",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/samchul-geonbi-tang.md#source-dose-original",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 棗 | 二·제법 대조 2매 | 전탕 추가재료 |"
+    },
+    {
+      "id": "samchul-geonbi-donguibogam--hasTraditionalPatternContext--spleen-stomach-qi-deficiency-with-food-stagnation",
+      "subject": "samchul-geonbi-donguibogam",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "spleen-stomach-qi-deficiency-with-food-stagnation",
+      "source": "formulas/samchul-geonbi-tang.md#traditional-pattern-care",
+      "scope": "동의보감 잡병편 권4 내상 食傷補益之劑의 集略 인용 삼출건비탕 기본 12미와 전탕 생강·대조. 인삼·백출·白茯苓·후박·陳皮·山査肉 각 一錢, 枳實·白芍藥 각 八分, 神麴·麥芽·縮砂·甘草 각 五分. 剉作一貼·入薑三棗二水煎服 기록을 보존하고 제법 대조의 생강 3쪽·대조 2매를 전탕 추가재료로 구분한다. 해당 대목의 포제 미기재를 후대 처방으로 채우지 않는다. 지실을 뺀 2002년 해설서 B형 및 현대 DB g 환산량과 구분하며, 정전가미이진탕의 신곡·맥아면 별포·조입 조건을 가져오지 않는다. 원문 주치와 후대 변증·배합 해설을 구분하고 섭취량·식후 그득함·기력의 경과를 함께 확인한다.",
+      "quote": "이 《동의보감》 집략 인용 수록형은 **비위기허겸식적**의 전통 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "spleen-stomach-qi-deficiency-with-food-stagnation--hasTraditionalTreatmentPrinciple--tonify-spleen-digest-food-harmonize-middle",
+      "subject": "spleen-stomach-qi-deficiency-with-food-stagnation",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "tonify-spleen-digest-food-harmonize-middle",
+      "source": "formulas/samchul-geonbi-tang.md#traditional-pattern-care",
+      "scope": "원문의 健脾養胃運化飮食과 배합에 근거한 후대 치법 해설. 인삼·백출·백복령·감초의 보기건비, 산사·신곡·맥아의 소식과 동반 기체·완급을 함께 살핀다. 실제 섭취량·기력·식후 불편을 나누어 재평가한다.",
+      "quote": "비위기허겸식적에서 이 배합을 설명하는 전통 치법은 **익기건비·소식화중(益氣健脾·消食和中)**입니다."
+    },
+    {
+      "id": "xiangsha-liujunzi-shifang--hasTraditionalPatternContext--spleen-qi-deficiency-with-phlegm",
+      "subject": "xiangsha-liujunzi-shifang",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "spleen-qi-deficiency-with-phlegm",
+      "source": "formulas/xiangsha-liujunzi-tang.md#traditional-pattern-care",
+      "scope": "시방가괄의 사군자→육군자→향사육군자 전개에서 기본 8미와 薑棗 전탕 추가를 구분한다. 비허담습의 익기건비·화담을 공통 맥락으로 확인하며, 이 수록형의 木香·砂仁 각 八分 및 以行氣消脹을 기체·식후팽만의 적용 조건으로 보존한다. 방약합편 12미형·소음인 동명방·현대 시험제제는 각각의 구성을 확인한다.",
+      "quote": "이 《시방가괄》 기본 8미 수록형은 **비허담습**의 전통 변증·배합 맥락에서 비교합니다."
     }
   ]
 }

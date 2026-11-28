@@ -39,6 +39,8 @@ last_reviewed: 2026-09-06
 | [육군자탕](../../formulas/liujunzi-tang.md) | 사군자탕 계열의 보기·건비에 진피·반하의 이기·화담을 결합 | 평소 식욕저하·피로·무른변과 오심·팽만 |
 | [보화환](../../formulas/baohe-wan.md) | 산사·신곡·나복자 등의 소식약에 화담·이기약을 배합 | 과식 뒤 트림·신물·복만과 식욕 감소 |
 | [정전가미이진탕](../../formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care) | 귤홍·반하·복령과 산사·신곡·맥아, 창출·백출·향부자·사인을 함께 배치 | 식적에 오심·담습이 겹치며 창만이 남는 양상 |
+| [삼출건비탕](../../formulas/samchul-geonbi-tang.md#traditional-pattern-care) | 인삼·백출·백복령·감초에 산사·신곡·맥아와 행기·완급약을 배치 | 평소 섭취·기력이 줄어든 바탕에 식후 그득함·음식 정체가 겹침 |
+| [향사육군자탕 시방가괄형](../../formulas/xiangsha-liujunzi-tang.md#traditional-pattern-care) | 육군자탕의 비허담습 배합에 목향·사인을 더한 기본 8미 | 오심·담습에 식후 기체·팽만·트림이 함께 있음 |
 
 《의방집해》의 보화환 해설은 음식 정체에 습이 겹치는 양상을 설명하면서 소식약과 복령·반하·진피의 배합을 함께 다룹니다. [《의방집해》 보화환 원문](https://jicheng.tw/tcm/book/醫方集解/index.html)
 
