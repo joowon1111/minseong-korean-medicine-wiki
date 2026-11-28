@@ -6100,6 +6100,80 @@
         "가미온담탕",
         "加味溫膽湯"
       ]
+    },
+    {
+      "id": "forsythia",
+      "type": "Herb",
+      "label": "연교",
+      "page": "herbs/forsythia.md",
+      "definition": "연교의 열매. 청열해독·소종산결·소산풍열과 처방별 실제 배합을 확인한다.",
+      "aliases": [
+        "連翹"
+      ]
+    },
+    {
+      "id": "beimu-source-name",
+      "type": "Herb",
+      "label": "패모",
+      "page": "herbs/fritillaria.md#source-name-beimu",
+      "definition": "고전 원문 貝母라는 약명. 기원종 미기재를 보존하고 천패모·절패모의 구체 원료와 구분한다.",
+      "aliases": [
+        "貝母"
+      ]
+    },
+    {
+      "id": "six-stagnations",
+      "type": "Pattern",
+      "label": "육울",
+      "page": "formulas/yukwul-tang.md#traditional-pattern-care",
+      "definition": "기·혈·습·화·담·식의 여러 울체가 얽힌 상태를 살피는 전통 변증 맥락. 현대 우울장애 진단과 구분한다.",
+      "aliases": [
+        "六鬱",
+        "六郁"
+      ]
+    },
+    {
+      "id": "move-qi-release-stagnation",
+      "type": "TreatmentPrinciple",
+      "label": "행기해울",
+      "page": "formulas/yukwul-tang.md#traditional-pattern-care",
+      "definition": "육울의 기체를 소통시키고 동반 담·습·열·식·혈분의 배합을 조절하는 전통 치법.",
+      "aliases": [
+        "行氣解鬱"
+      ]
+    },
+    {
+      "id": "yueju-yifang",
+      "type": "Formula",
+      "label": "월국환 — 의방집해 수록형",
+      "page": "formulas/yueju-wan.md#source-dose-original",
+      "definition": "의방집해 월국환 기본 5미 등분. 향부 醋炒·창출 泔浸炒·撫芎·신곡 炒·치자 炒黑. 曲糊為丸은 곡호 제환 기록이며 단계심법의 水丸과 구분한다. 기본 5미의 상대비와 현대 1회량을 구분하고 반하·남성·과루·산사·사인 등 조건부 가미를 기본 구성으로 합치지 않는다.",
+      "aliases": [
+        "월국환",
+        "越鞠丸"
+      ]
+    },
+    {
+      "id": "liuyu-yixuerumen",
+      "type": "Formula",
+      "label": "육울탕 — 의학입문 9미 수록형",
+      "page": "formulas/yukwul-tang.md#source-dose-original",
+      "definition": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "aliases": [
+        "육울탕",
+        "六鬱湯"
+      ]
+    },
+    {
+      "id": "liuyu-donguibogam-uigam",
+      "type": "Formula",
+      "label": "육울탕 — 동의보감 의감 인용 12미 수록형",
+      "page": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "definition": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "aliases": [
+        "육울탕",
+        "六鬱湯"
+      ]
     }
   ],
   "predicates": {
@@ -13535,6 +13609,303 @@
       "source": "formulas/jiawei-wendan-tang.md#homonymous-formula-comparison",
       "scope": "방약합편 가미온담탕B P0004114에 제시된 국내 11미형과 DB 환산 용량. 향부자 9 g·귤홍 4.5 g·반하/죽여/지실 각 3 g·길경/맥문동/백복령/시호/인삼 각 2.25 g·감초 1.5 g. 생강 3편·대조 2매는 전탕 추가재료. 만병회춘의 숙지황·산조인·원지·오미자형 및 역사적 단위와 구분한다. DB 환산량을 고전 원문 g 표기로 대체하지 않는다.",
       "quote": "약미 수가 둘 다 11개라는 사실은 동일 처방의 근거가 되지 않습니다."
+    },
+    {
+      "id": "six-stagnations--hasTraditionalTreatmentPrinciple--move-qi-release-stagnation",
+      "subject": "six-stagnations",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "move-qi-release-stagnation",
+      "source": "formulas/yukwul-tang.md#traditional-pattern-care",
+      "scope": "육울의 후대 변증·배합 해설. 기체와 흉복 답답함을 중심으로 화담·조습·청열·소식·혈분 배합을 동반 증후에 맞춰 비교한다. 원전 가미와 기본 구성을 구분하며 치료효과나 현대 진단을 자동 추론하지 않는다.",
+      "quote": "육울에서 이 처방군을 설명하는 전통 치법은 **행기해울(行氣解鬱)**입니다."
+    },
+    {
+      "id": "yueju-yifang--containsHerb--cyperus",
+      "subject": "yueju-yifang",
+      "predicate": "containsHerb",
+      "object": "cyperus",
+      "source": "formulas/yueju-wan.md#source-dose-original",
+      "scope": "의방집해 월국환 기본 5미 등분. 향부 醋炒·창출 泔浸炒·撫芎·신곡 炒·치자 炒黑. 曲糊為丸은 곡호 제환 기록이며 단계심법의 水丸과 구분한다. 기본 5미의 상대비와 현대 1회량을 구분하고 반하·남성·과루·산사·사인 등 조건부 가미를 기본 구성으로 합치지 않는다.",
+      "quote": "| [향부자](../herbs/cyperus.md) · 香附 | 등분 | 식초로 볶음 | 기울을 풀어 흉복부와 월경의 기체를 조절 |"
+    },
+    {
+      "id": "yueju-yifang--containsHerb--atractylodes-lancea",
+      "subject": "yueju-yifang",
+      "predicate": "containsHerb",
+      "object": "atractylodes-lancea",
+      "source": "formulas/yueju-wan.md#source-dose-original",
+      "scope": "의방집해 월국환 기본 5미 등분. 향부 醋炒·창출 泔浸炒·撫芎·신곡 炒·치자 炒黑. 曲糊為丸은 곡호 제환 기록이며 단계심법의 水丸과 구분한다. 기본 5미의 상대비와 현대 1회량을 구분하고 반하·남성·과루·산사·사인 등 조건부 가미를 기본 구성으로 합치지 않는다.",
+      "quote": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 등분 | 쌀뜨물에 담금·초(볶음) | 조습·건비로 습체와 중초의 정체를 다룸 |"
+    },
+    {
+      "id": "yueju-yifang--containsHerb--chuanxiong",
+      "subject": "yueju-yifang",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/yueju-wan.md#source-dose-original",
+      "scope": "의방집해 월국환 기본 5미 등분. 향부 醋炒·창출 泔浸炒·撫芎·신곡 炒·치자 炒黑. 曲糊為丸은 곡호 제환 기록이며 단계심법의 水丸과 구분한다. 기본 5미의 상대비와 현대 1회량을 구분하고 반하·남성·과루·산사·사인 등 조건부 가미를 기본 구성으로 합치지 않는다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 撫芎 | 등분 | 별도 포제 표기 없음 | 혈분의 정체와 기체를 함께 풀어 줌 |"
+    },
+    {
+      "id": "yueju-yifang--containsHerb--massa-medicata-fermentata",
+      "subject": "yueju-yifang",
+      "predicate": "containsHerb",
+      "object": "massa-medicata-fermentata",
+      "source": "formulas/yueju-wan.md#source-dose-original",
+      "scope": "의방집해 월국환 기본 5미 등분. 향부 醋炒·창출 泔浸炒·撫芎·신곡 炒·치자 炒黑. 曲糊為丸은 곡호 제환 기록이며 단계심법의 水丸과 구분한다. 기본 5미의 상대비와 현대 1회량을 구분하고 반하·남성·과루·산사·사인 등 조건부 가미를 기본 구성으로 합치지 않는다.",
+      "quote": "| [신곡](../herbs/massa-medicata-fermentata.md) · 神麯 | 등분 | 초(볶음) | 발효 약재로 식적·소화 정체를 다룸 |"
+    },
+    {
+      "id": "yueju-yifang--containsHerb--gardenia",
+      "subject": "yueju-yifang",
+      "predicate": "containsHerb",
+      "object": "gardenia",
+      "source": "formulas/yueju-wan.md#source-dose-original",
+      "scope": "의방집해 월국환 기본 5미 등분. 향부 醋炒·창출 泔浸炒·撫芎·신곡 炒·치자 炒黑. 曲糊為丸은 곡호 제환 기록이며 단계심법의 水丸과 구분한다. 기본 5미의 상대비와 현대 1회량을 구분하고 반하·남성·과루·산사·사인 등 조건부 가미를 기본 구성으로 합치지 않는다.",
+      "quote": "| [치자](../herbs/gardenia.md) · 梔子 | 등분 | 검게 볶음 | 열·번조를 내리고 울열을 조절 |"
+    },
+    {
+      "id": "yueju-yifang--hasTraditionalPatternContext--six-stagnations",
+      "subject": "yueju-yifang",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "six-stagnations",
+      "source": "formulas/yueju-wan.md#traditional-pattern-care",
+      "scope": "의방집해 월국환 기본 5미 등분. 향부 醋炒·창출 泔浸炒·撫芎·신곡 炒·치자 炒黑. 曲糊為丸은 곡호 제환 기록이며 단계심법의 水丸과 구분한다. 기본 5미의 상대비와 현대 1회량을 구분하고 반하·남성·과루·산사·사인 등 조건부 가미를 기본 구성으로 합치지 않는다. 후대 육울 변증·배합 맥락이며 실제 동반 증상·원인 평가·제형·경과를 함께 확인한다.",
+      "quote": "이 《의방집해》 수록형은 **육울**의 전통 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--citrus-peel",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md)·[반하](../herbs/pinellia.md)·[천궁](../herbs/chuanxiong.md)·[창출](../herbs/atractylodes-lancea.md) | 각 1전 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--pinellia",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md)·[반하](../herbs/pinellia.md)·[천궁](../herbs/chuanxiong.md)·[창출](../herbs/atractylodes-lancea.md) | 각 1전 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--chuanxiong",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md)·[반하](../herbs/pinellia.md)·[천궁](../herbs/chuanxiong.md)·[창출](../herbs/atractylodes-lancea.md) | 각 1전 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--atractylodes-lancea",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "atractylodes-lancea",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md)·[반하](../herbs/pinellia.md)·[천궁](../herbs/chuanxiong.md)·[창출](../herbs/atractylodes-lancea.md) | 각 1전 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--red-poria",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "red-poria",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [적복령](../herbs/poria.md)·[치자](../herbs/gardenia.md) | 각 七分 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--gardenia",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "gardenia",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [적복령](../herbs/poria.md)·[치자](../herbs/gardenia.md) | 각 七分 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--cyperus",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "cyperus",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [향부자](../herbs/cyperus.md) | 2전 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--amomum",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "amomum",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [사인](../herbs/amomum.md)·[감초](../herbs/licorice.md) | 각 五分 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--licorice",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다.",
+      "quote": "| [사인](../herbs/amomum.md)·[감초](../herbs/licorice.md) | 각 五分 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--containsHerb--fresh-ginger",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/yukwul-tang.md#source-dose-original",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다. 기본 9미 외 전탕 추가재료.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) | 3편 |"
+    },
+    {
+      "id": "liuyu-yixuerumen--hasTraditionalPatternContext--six-stagnations",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "six-stagnations",
+      "source": "formulas/yukwul-tang.md#traditional-pattern-care",
+      "scope": "의학입문 郁類의 기본 9미. 진피·반하·천궁·창출 각 一錢, 적복령·산치자인 각 七分, 향부 二錢, 사인·감초 각 五分. 생강 三片은 별도 전탕 추가재료. 水煎服·隨證加減을 보존하고 개별 포제 미기재를 다른 수록형에서 채워 넣지 않는다. 동의보감 의감 인용 12미형 및 DB 환산량과 구분한다. 후대 육울 변증·배합 맥락이며 실제 동반 증상·원인 평가·제형·경과를 함께 확인한다.",
+      "quote": "《의학입문》 9미형과 《동의보감》 의감 인용 12미형은 **육울**의 전통 변증·배합 맥락에서 각각 비교합니다."
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--cyperus",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "cyperus",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [향부자](../herbs/cyperus.md) · 便香附 | 一錢·便香附 표기 보존; 세부 공정은 이 대목에 미기재 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--atractylodes-lancea",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "atractylodes-lancea",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--massa-medicata-fermentata",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "massa-medicata-fermentata",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [신곡](../herbs/massa-medicata-fermentata.md) · 神塂 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--gardenia",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "gardenia",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [치자](../herbs/gardenia.md) · 梔子 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--forsythia",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "forsythia",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [연교](../herbs/forsythia.md) · 連翹 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--citrus-peel",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--chuanxiong",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--red-poria",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "red-poria",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [적복령](../herbs/poria.md) · 赤茯巔 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--beimu-source-name",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "beimu-source-name",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [패모](../herbs/fritillaria.md#source-name-beimu) · 貝母 | 一錢·기원종은 이 대목에 미기재 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--citrus-aurantium-immature",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "citrus-aurantium-immature",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [지각](../herbs/citrus-aurantium-immature.md) · 枳殼 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--perilla-leaf",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "perilla-leaf",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [자소엽](../herbs/perilla-leaf.md) · 紫蘇葉 | 一錢 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--licorice",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 五分 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--containsHerb--fresh-ginger",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 薑 | 三片·전탕 추가재료 |"
+    },
+    {
+      "id": "liuyu-donguibogam-uigam--hasTraditionalPatternContext--six-stagnations",
+      "subject": "liuyu-donguibogam-uigam",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "six-stagnations",
+      "source": "formulas/yukwul-tang.md#traditional-pattern-care",
+      "scope": "동의보감 잡병편 적취의 醫鑑 인용 12미형과 생강. 향부자·창출·신곡·치자·연교·陳皮·천궁·적복령·貝母·지각·자소엽 각 一錢, 감초 五分, 생강 三片 전탕 추가. 便香附는 가공 표기를 보존하며 세부 공정은 해당 대목 미기재다. 神塂·赤茯巔은 전사 표기로 원문에 유지한다. 貝母는 기원종을 확정하지 않는다. 剉作一貼·水煎服을 보존하고 DB 秦皮 연결 및 현대 g 환산값을 이 고전의 기록과 구분한다. 후대 육울 변증·배합 맥락이며 실제 동반 증상·원인 평가·제형·경과를 함께 확인한다.",
+      "quote": "《의학입문》 9미형과 《동의보감》 의감 인용 12미형은 **육울**의 전통 변증·배합 맥락에서 각각 비교합니다."
+    },
+    {
+      "id": "liuyu-yixuerumen--sharesNameWith--liuyu-donguibogam-uigam",
+      "subject": "liuyu-yixuerumen",
+      "predicate": "sharesNameWith",
+      "object": "liuyu-donguibogam-uigam",
+      "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
+      "scope": "기본 9미와 12미는 약미·약량·가공과 출처가 다른 동명 수록형이다. 생강 추가를 기본 약미 수와 구분하고, 반하·사인과 신곡·연교·패모·지각·자소엽을 비교한다.",
+      "quote": "**두 수록형의 구성 차이:** 《의학입문》 9미형에는 반하·사인이 있고, 이 《동의보감》 의감 인용 12미형에는 신곡·연교·패모·지각·자소엽이 있습니다."
     }
   ]
 }

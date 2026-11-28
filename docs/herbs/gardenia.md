@@ -95,3 +95,7 @@ description: 치자의 사화제번·청열이습·량혈해독, 주요 처방·
 - [본초·방제 안전·복용 주의](../herbal-integrated/safety.md)
 
 > 전통 본초 지식과 현대 연구의 층위를 구분한 교육 자료이며 자가조제·자가복용 지침이 아닙니다.
+
+## 수록형별 처방 구성에서 찾아보기 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

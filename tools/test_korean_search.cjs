@@ -17,7 +17,7 @@ const rows = [
 
 const resultUrls = (b) => [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
 
-test('four core formula names and spacing variants reach their detailed source pages', async () => {
+test('core formula names and spacing variants reach their detailed source pages', async () => {
   const root=path.join(__dirname,'..');
   const folder=fs.mkdtempSync(path.join(os.tmpdir(),'four-formula-search-'));
   try {
@@ -31,6 +31,8 @@ test('four core formula names and spacing variants reach their detailed source p
       ['tianwang-buxin-dan', ['천왕보심단', '천왕 보심단', '천왕보심단 구성']],
       ['chaihu-shugan-san', ['시호소간산', '시호 소간산', '시호소간산 구성']],
       ['jiawei-wendan-tang', ['가미온담탕', '가미 온담탕', '가미온담탕 구성']],
+      ['yukwul-tang', ['육울탕', '육울 탕', '육울탕 구성']],
+      ['yueju-wan', ['월국환', '월국 환', '월국환 구성']],
     ]) for (const query of queries) {
       await b.enter(query);
       assert.equal(resultUrls(b)[0], '/formulas/'+slug+'/', query);
