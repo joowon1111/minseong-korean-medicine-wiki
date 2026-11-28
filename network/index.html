@@ -61,7 +61,7 @@
     
       <link rel="stylesheet" href="../assets/content-provenance.css?v=20261025">
     
-      <link rel="stylesheet" href="../assets/extra.css?v=20261104-atlas-emphasis">
+      <link rel="stylesheet" href="../assets/extra.css?v=20261128-pattern-routes">
     
       <link rel="stylesheet" href="../stylesheets/portal.css?v=20261104-daily-entry">
     
@@ -97,9 +97,9 @@
 <meta name="twitter:title" content="한의학 지식망 — 증상·처방·경혈·고전 연결">
 <meta name="twitter:description" content="한의학 온톨로지의 개념·속성·관계를 실제 사례로 설명합니다. 증상·변증·본초·처방·경혈·고전·연구와 사상의학을 연결하고, 구성·배혈·출전·임상근거를 비교하는 경로를 안내합니다.">
 <meta name="archive:document-id" content="MSA-0103412B48065F13">
-<meta name="archive:text-sha256" content="c6b3ac8382db83e9b4d5b24162aa7b2e38ceae149631fad0f8c1ab870e29e3c9">
-<meta name="archive:source-sha256" content="10255efaea1b1df07bc65aa85f5d44a324471acc2103d2e42b06e05f64ab9e79">
-<meta name="archive:commit" content="dc85a25201b2d2f71351a1b3cbc7b55c6639b4d1">
+<meta name="archive:text-sha256" content="3c3d9323cff3bbaebade3e998ce463c9f78fe2e6e7c9c8addaaa04fd83c2f557">
+<meta name="archive:source-sha256" content="c9e2c96a5b03c49c81adac708784e1a2006679ae8736294d97e88e613aa1a3e5">
+<meta name="archive:commit" content="d9eb7967a47e18ddcb061181d412d8457dd153c0">
 </head>
   
   
@@ -4693,6 +4693,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#ontology-pattern-treatment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        처방·변증·치법을 함께 비교하기
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#ontology-composition-tables" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -5072,6 +5083,56 @@
 <p><strong>이름이 같아도 수록형의 식별자는 각각 유지합니다.</strong> 《금궤요략》 산조인탕과 《동의보감》 산조인탕은 같은 문서 안에서도 서로 다른 개념으로 연결됩니다. 인삼·감초 같은 본초 개념과 처방 안에서의 거로·자(炙) 등 가공 조건도 나누어 기록합니다. <a href="../formulas/suanzaoren-tang/#formula-variant-comparison">두 수록형의 약재 비교표</a>와 데이터에서 적복령·계심의 명칭, 7미와 생강 추가 기록을 함께 확인할 수 있습니다. 이렇게 하면 ‘어떤 산조인탕에 인삼이 들어가는가’, ‘육군자탕에서 생강·대조는 어떻게 기록되는가’처럼 출전과 구성을 함께 묻는 질문을 구체화할 수 있습니다.</p>
 <p>개념 이름과 별칭은 <a href="https://www.w3.org/TR/skos-reference/">W3C SKOS</a>로 표현합니다. 각 관계는 주체·관계명·대상과 함께 <strong>본문 출처 주소와 적용 조건</strong>을 가진 <code>rdf:Statement</code>로 제공합니다. 각 관계에는 본문에서 발췌한 근거 문장·표 행도 함께 제공합니다. 관계의 조건과 근거 발췌를 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 <a href="../assets/ai/knowledge-manifest.json">매니페스트</a>의 <code>ontology</code>에서 확인합니다. <a href="../ai/site-structure/#ontology-retrieval">AI·검색도구의 이용 순서</a></p>
 <p>기허에서 출발하면 <a href="../pattern-treatment/qi-deficiency/#treatment-principle">보기·건비의 원칙</a>을 확인하고, 오심·그득함이 겹칠 때는 <a href="../pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care">비허담습의 익기건비·화담</a>과 육군자탕의 반하·진피 배합을 비교할 수 있습니다. 변증과 치법은 서로 다른 개념으로 기록하고, 처방 수록형의 구성·제법은 해당 출처에서 확인합니다. 혈허에서는 <a href="../pattern-treatment/blood-deficiency/#treatment-principle">보혈</a>과 사물탕 국방형을, 기혈양허에서는 기혈쌍보와 팔진탕 만병회춘형·십전대보탕 국방형을 연결합니다. 십전대보탕의 황기·육계는 냉감·소화 상태와 온보의 필요를 함께 살피는 조건으로 기록합니다.</p>
+<h2 id="ontology-pattern-treatment">처방·변증·치법을 함께 비교하기<a class="headerlink" href="#ontology-pattern-treatment" title="Permanent link">&para;</a></h2>
+<p>등록된 처방 수록형에서 변증을 거쳐 치법으로 이어지는 관계를 모았습니다. <strong>근거·조건</strong>을 펼치면 처방과 변증, 변증과 치법의 출처·적용 범위·본문 발췌를 각각 확인할 수 있습니다. 현재 등록된 두 관계를 이어 보여 주며, 실제 배합은 각 처방의 구성·소화 상태·냉열과 동반 증후를 함께 살펴 비교합니다.</p>
+<table>
+<thead>
+<tr>
+<th>처방 수록형</th>
+<th>전통 변증</th>
+<th>치법</th>
+<th>출처·적용 조건</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/sijunzi-tang/#source-dose-original">사군자탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/diagnostics/qi-deficiency/#_2">기허</a></td>
+<td><a href="https://wiki.minseong.co.kr/pattern-treatment/qi-deficiency/#treatment-principle">보기</a></td>
+<td><details class="ontology-treatment-route"><summary>근거·조건</summary><p><strong>처방과 변증</strong> <a href="https://wiki.minseong.co.kr/diagnostics/qi-deficiency/#_6">근거 본문</a></p><p>기허 가운데 식욕저하·무력감·비위허약을 함께 살피는 보기건비 맥락. 현재 증상과 진찰에 따라 처방을 비교한다.</p><blockquote>&#124; 식욕저하·무력감·비위허약 &#124; &#91;사군자탕&#93;(../formulas/sijunzi-tang.md): 인삼·백출·복령·감초로 보기·건비 &#124;</blockquote><p><strong>변증과 치법</strong> <a href="https://wiki.minseong.co.kr/pattern-treatment/qi-deficiency/#treatment-principle">근거 본문</a></p><p>기허의 전통 치법. 비위허약·담습·중기하함·혈허의 동반 여부에 따라 배합을 조정하는 맥락.</p><blockquote>기허의 기본 치법은 &#42;&#42;보기(補氣)&#42;&#42;입니다.</blockquote></details></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/diagnostics/qi-deficiency/#_2">기허</a></td>
+<td><a href="https://wiki.minseong.co.kr/pattern-treatment/qi-deficiency/#treatment-principle">보기</a></td>
+<td><details class="ontology-treatment-route"><summary>근거·조건</summary><p><strong>처방과 변증</strong> <a href="https://wiki.minseong.co.kr/diagnostics/qi-deficiency/#_6">근거 본문</a></p><p>의학심오 수록형의 처방 구성은 대표 문서에서 확인한다. 기허 가운데 비위허약에 더부룩함·메스꺼움·담습이 함께 있는 조건에서 비교한다.</p><blockquote>&#124; 비위허약에 더부룩함·메스꺼움·담습이 겹침 &#124; &#91;육군자탕&#93;(../formulas/liujunzi-tang.md): 사군자탕 계열에 진피·반하를 배합해 이기·화담 &#124;</blockquote><p><strong>변증과 치법</strong> <a href="https://wiki.minseong.co.kr/pattern-treatment/qi-deficiency/#treatment-principle">근거 본문</a></p><p>기허의 전통 치법. 비위허약·담습·중기하함·혈허의 동반 여부에 따라 배합을 조정하는 맥락.</p><blockquote>기허의 기본 치법은 &#42;&#42;보기(補氣)&#42;&#42;입니다.</blockquote></details></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#source-dose-original">십전대보탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/diagnostics/patterns/qi-blood-deficiency/">기혈양허</a></td>
+<td><a href="https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle">기혈쌍보</a></td>
+<td><details class="ontology-treatment-route"><summary>근거·조건</summary><p><strong>처방과 변증</strong> <a href="https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#immune-metabolic-network">근거 본문</a></p><p>국방의 십미 등분 제조 배합과 전탕 시 생강·대조의 별기를 보존한다. 기혈양허에 냉감·허약이 겹칠 때 황기·육계의 보기·온보를 함께 비교하며, 열감·소화력·땀과 회복 상태를 살핀다. 외과이례 수록량·포제, 현대 탕제 및 시험 제제는 각각 구분한다.</p><blockquote>기혈양허와 오래된 쇠약·회복 지연을 살피며, 열감·소화력·냉감·땀의 양상에 따라 다른 보익 처방과 비교합니다.</blockquote><p><strong>변증과 치법</strong> <a href="https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle">근거 본문</a></p><p>기허의 피로·식욕저하에 혈허의 창백·어지럼이 함께 나타나는 기혈양허의 전통 치법. 동반 냉감·소화 상태에 따라 보기와 보혈의 비중을 조절한다.</p><blockquote>&#91;기혈양허&#93;(../diagnostics/patterns/qi-blood-deficiency.md)의 기본 치법은 &#42;&#42;기혈쌍보(氣血雙補)&#42;&#42;입니다.</blockquote></details></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">팔진탕 — 만병회춘 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/diagnostics/patterns/qi-blood-deficiency/">기혈양허</a></td>
+<td><a href="https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle">기혈쌍보</a></td>
+<td><details class="ontology-treatment-route"><summary>근거·조건</summary><p><strong>처방과 변증</strong> <a href="https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original">근거 본문</a></p><p>만병회춘 팔진탕 수록형의 인삼·백출·복령·당귀·천궁·백작약·숙지황 각 1전과 자감초 五分의 기록을 보존한다. 기허와 혈허가 함께 나타나는 배합 맥락이며, 한국 팔물탕의 후대 수록량이나 의방고의 지황·작약 표기 및 수치와 구분한다.</p><blockquote>&#42;&#42;해석·주치와 배합:&#42;&#42; 기와 혈이 함께 부족한 허손을 다루는 팔진탕 수록형입니다.</blockquote><p><strong>변증과 치법</strong> <a href="https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle">근거 본문</a></p><p>기허의 피로·식욕저하에 혈허의 창백·어지럼이 함께 나타나는 기혈양허의 전통 치법. 동반 냉감·소화 상태에 따라 보기와 보혈의 비중을 조절한다.</p><blockquote>&#91;기혈양허&#93;(../diagnostics/patterns/qi-blood-deficiency.md)의 기본 치법은 &#42;&#42;기혈쌍보(氣血雙補)&#42;&#42;입니다.</blockquote></details></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/liujunzi-tang/#source-dose-original">육군자탕 — 의학심오 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/diagnostics/patterns/phlegm-fluid/">비허담습</a></td>
+<td><a href="https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care">익기건비·화담</a></td>
+<td><details class="ontology-treatment-route"><summary>근거·조건</summary><p><strong>처방과 변증</strong> <a href="https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care">근거 본문</a></p><p>의학심오 육군자탕의 여섯 기본 약미와 생강·대조를 보존하며, 비위허약에 오심·그득함 등 담습이 겹치는 배합 맥락을 비교한다.</p><blockquote>&#91;육군자탕&#93;(../formulas/liujunzi-tang.md#source-dose-original)은 이 비허담습의 맥락에서 비교하는 처방입니다.</blockquote><p><strong>변증과 치법</strong> <a href="https://wiki.minseong.co.kr/pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care">근거 본문</a></p><p>비위허약에 담습·구역이 겹친 비허담습의 치료 방향. 동반 증상과 식사·배변·기력의 경과를 함께 살핀다.</p><blockquote>이때의 전통 치법은 익기건비·화담으로, 비위의 기운을 돕는 배합과 담습·구역을 조절하는 배합을 함께 살핍니다.</blockquote></details></td>
+</tr>
+<tr>
+<td><a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#source-dose-original">사물탕 — 국방 수록형</a></td>
+<td><a href="https://wiki.minseong.co.kr/diagnostics/blood-deficiency/">혈허</a></td>
+<td><a href="https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle">보혈</a></td>
+<td><details class="ontology-treatment-route"><summary>근거·조건</summary><p><strong>처방과 변증</strong> <a href="https://wiki.minseong.co.kr/formulas/siwu-tang/#original-pattern-course">근거 본문</a></p><p>국방의 당귀·천궁·백작약·숙건지황 등분 수록형을 혈허의 후대 변증·배합 해설과 연결한다. 충임·월경·복부 불편과 혈행 조절의 맥락을 함께 보존하며, 빈혈의 진단이나 치료효과와 구분한다.</p><blockquote>이 국방 수록형은 혈허를 바탕으로 월경·복부 불편과 혈행의 변화를 함께 살피는 맥락에서 비교합니다.</blockquote><p><strong>변증과 치법</strong> <a href="https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle">근거 본문</a></p><p>혈허의 전통 치법. 안색·어지럼·건조·월경과 소화·수면을 함께 살피며, 빈혈의 검사 진단과 원인 평가는 별도로 확인한다.</p><blockquote>&#91;혈허&#93;(../diagnostics/blood-deficiency.md)의 기본 치법은 &#42;&#42;보혈(補血)&#42;&#42;입니다.</blockquote></details></td>
+</tr>
+</tbody>
+</table>
 <h2 id="ontology-composition-tables">구성 관계를 표로 찾아보기<a class="headerlink" href="#ontology-composition-tables" title="Permanent link">&para;</a></h2>
 <p>아래 표는 현재 온톨로지에 등록된 구성 관계를 모은 것입니다. 처방 수록형에서 본초를 찾거나, 본초별로 구성 관계가 등록된 처방을 비교할 수 있습니다. 원문 약명과 수록본을 유지해 같은 이름의 처방도 각각 확인합니다.</p>
 <h3 id="ontology-formula-compositions">수록형별 구성과 출처<a class="headerlink" href="#ontology-formula-compositions" title="Permanent link">&para;</a></h3>
@@ -6125,7 +6186,7 @@
 </ul>
 <p>검증할 원자료가 필요하면 <a href="../research/references/">참고문헌 데이터베이스</a>, 개념이 낯설면 <a href="../diagnostics/">진단·변증</a>, 사람과 약재의 이야기를 읽고 싶다면 <a href="../classical-stories/">민성의담</a>으로 이어갈 수 있습니다.</p>
 <h3 id="knowledge-reuse">검색·AI 자료로 이어지는 연결<a class="headerlink" href="#knowledge-reuse" title="Permanent link">&para;</a></h3>
-<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="c6b3ac8382db" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="3c3d9323cff3" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 

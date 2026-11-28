@@ -228,6 +228,8 @@
   outline: 2px solid var(--md-accent-fg-color);
   outline-offset: -2px;
 }
+/* Keep the evidence control readable within a narrow ontology table column. */
+.md-typeset details.ontology-treatment-route > summary { white-space: nowrap; }
 @media (max-width: 600px) {
   .md-typeset table:not([class]) :is(th, td) { padding: .65em .8em; }
   .hero-box.compact { padding: 1.25rem 1rem; }
