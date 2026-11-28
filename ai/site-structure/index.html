@@ -93,9 +93,9 @@
 <meta name="twitter:title" content="AI·검색엔진용 사이트 구조">
 <meta name="twitter:description" content="민성 한의학 아카이브의 AI 탐색 안내. 페이지 색인·본문 JSON·한의학 온톨로지의 역할과 실제 관계 탐색, 출처 앵커·문서 버전·임상근거를 확인하는 방법을 설명합니다.">
 <meta name="archive:document-id" content="MSA-9561CC9BC7568575">
-<meta name="archive:text-sha256" content="40ce53c1f7b9d4edf5ddd20f5f16736639233b65af1628ee010e3bf81eafde77">
-<meta name="archive:source-sha256" content="d46799f26a338145808d09dfd6c3da30d5fad1fd6136ca10e56dc24c212d24c1">
-<meta name="archive:commit" content="7dcbe351a666d4802a7dd2e82077b3d333a4dfc0">
+<meta name="archive:text-sha256" content="fee7b62d823729e3882716b73434715dd2b65223f8e6fb311ae7c0186e8d547b">
+<meta name="archive:source-sha256" content="ef5cec64cd6c689ae6c40c0525fd26db028ad0c2852bc7ed427edcf8c96721eb">
+<meta name="archive:commit" content="5b4f9550f0e974d3a72432c1d52cb59d32664600">
 </head>
   
   
@@ -2093,6 +2093,17 @@
   
     <nav class="md-nav" aria-label="한의학 온톨로지에서 관계 확인하기">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ontology-name-resolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        이름에서 개념 ID 고르기
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#page-ontology" class="md-nav__link">
@@ -5555,6 +5566,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#ontology-name-resolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        이름에서 개념 ID 고르기
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#page-ontology" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -6446,6 +6468,50 @@
 </tr>
 </tbody>
 </table>
+<h4 id="ontology-name-resolution">이름에서 개념 ID 고르기<a class="headerlink" href="#ontology-name-resolution" title="Permanent link">&para;</a></h4>
+<p>대표 이름과 별칭은 검색 후보를 찾는 단서입니다. 관계를 조회할 때는 <strong>개념의 종류·정의·출전과 원문 약명</strong>을 비교해 대상 ID를 고릅니다. 하나의 문서 주소를 공유하는 개념도 각각의 ID와 구성 관계를 유지합니다.</p>
+<table>
+<thead>
+<tr>
+<th>입력한 이름·질문</th>
+<th>구분할 개념 ID</th>
+<th>다음 확인</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>복령 계열의 약명이 들어간 처방</td>
+<td><code>poria</code> · <code>white-poria</code> · <code>red-poria</code> · <code>poria-spirit</code></td>
+<td>원하는 약명별로 <code>containsHerb</code>의 대상을 선택하고, 결과에 원문 약명과 해당 ID를 함께 표시. <a href="../../network/#ontology-name-resolution">약명별 비교</a></td>
+</tr>
+<tr>
+<td>생강인가, 건강인가?</td>
+<td><code>fresh-ginger</code> · <code>dried-ginger</code></td>
+<td>각 구성 진술의 <code>skos:scopeNote</code>에서 기본 약미·전탕 추가·가공 조건 확인</td>
+</tr>
+<tr>
+<td>반하와 반하곡의 구성 기록</td>
+<td><code>pinellia</code> · <code>pinellia-ferment</code></td>
+<td>반하 문서를 함께 참조하더라도 각각의 ID로 조회하고, 곽향정기산 국방형의 半夏曲 발췌 확인</td>
+</tr>
+<tr>
+<td>계지·육계·계심의 원문 약명</td>
+<td><code>cinnamon-twig</code> · <code>cinnamon-bark</code> · <code>cinnamon-heart</code></td>
+<td><code>skos:definition</code>과 해당 처방의 근거 발췌에서 명칭·원료·포제 확인</td>
+</tr>
+<tr>
+<td>작약과 백작약의 기록</td>
+<td><code>shaoyao-source-name</code> · <code>white-peony</code></td>
+<td>芍藥과 백작약 명시 여부를 수록형별로 대조</td>
+</tr>
+<tr>
+<td>산조인탕에 인삼이 들어가는가?</td>
+<td><code>suanzaoren-jinkui</code> · <code>suanzaoren-donguibogam</code></td>
+<td>두 수록형을 선택한 뒤 각각의 <code>containsHerb</code>에서 <code>ginseng</code> 조회. <a href="../../formulas/suanzaoren-tang/#formula-variant-comparison">구성 원문 비교</a></td>
+</tr>
+</tbody>
+</table>
+<p>구성 탐색의 응답에는 <strong>처방 수록형 ID·본초 ID·원문 약명·관계명·출처 절·적용 조건·근거 발췌</strong>를 함께 보존합니다. 예를 들어 ‘복령 계열 전체’를 비교할 때는 위 네 ID를 각각 조회하고 결과를 약명별로 묶습니다. ‘복신이 들어간 처방’을 물으면 <code>poria-spirit</code>을 대상으로 선택합니다. 등록 범위 밖의 구성은 실제 처방 본문에서 추가로 확인합니다.</p>
 <h4 id="page-ontology">한 문서에서 관련 관계만 읽기<a class="headerlink" href="#page-ontology" title="Permanent link">&para;</a></h4>
 <p>인삼·사군자탕·산조인탕·족삼리처럼 온톨로지에 등록된 개념을 설명하는 페이지는 본문 JSON의 <code>ontology.document</code>와 HTML의 <code>link rel="describedby" type="application/ld+json"</code>에서 <strong>그 문서와 관련된 관계만 담은 JSON-LD</strong>로 이어집니다. 전체 온톨로지를 받지 않고도 해당 개념의 구성·소속·출처 관계를 확인할 수 있습니다.</p>
 <p><code>concept_ids</code>는 현재 본문에서 직접 설명하는 개념이고, <code>statement_ids</code>는 그 개념을 주체·대상으로 삼거나 현재 본문을 출처로 기록한 관계입니다. 비교 문서처럼 관계의 출처 역할을 하는 페이지에는 <code>concept_ids</code>가 비어 있고 관련 진술만 연결될 수 있습니다. JSON-LD의 <code>@graph</code>에는 관계 양끝의 개념과 관계 정의를 함께 담아 이름과 의미를 확인할 수 있게 했습니다.</p>
@@ -6548,7 +6614,7 @@
 <h3 id="crawler-discovery">검색·수집 도구가 찾는 공개 경로<a class="headerlink" href="#crawler-discovery" title="Permanent link">&para;</a></h3>
 <p><a href="../../robots.txt">robots.txt</a>는 공개 경로의 수집 설정과 <a href="https://wiki.minseong.co.kr/sitemap.xml">sitemap.xml</a> 주소를 제공합니다. <a href="../../llms.txt">llms.txt</a>는 주제별 대표 자료와 기계 판독용 파일의 역할을 안내하며, 본문 HTML의 JSON 대체 링크와 온톨로지 설명 링크를 통해 실제 자료로 이어집니다. 출처 표기와 자료 활용 범위는 <a href="../../guide/content-use/">콘텐츠 이용 안내</a>에서 확인할 수 있습니다.</p>
 <h2 id="_3">최종 구조<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="40ce53c1f7b9" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p><strong>사람에게는 탐색하기 쉬운 임상 지식망, 검색엔진에는 주제가 명확한 내부링크 구조, AI에는 증상·질환·치료·근거 관계가 명시적인 아카이브</strong>를 목표로 합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/ai/site-structure/" data-provenance-title="AI·검색엔진용 사이트 구조" data-provenance-id="MSA-9561CC9BC7568575" data-provenance-version="fee7b62d8237" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 

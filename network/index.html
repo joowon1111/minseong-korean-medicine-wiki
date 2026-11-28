@@ -97,9 +97,9 @@
 <meta name="twitter:title" content="한의학 지식망 — 증상·처방·경혈·고전 연결">
 <meta name="twitter:description" content="한의학 온톨로지의 개념·속성·관계를 실제 사례로 설명합니다. 증상·변증·본초·처방·경혈·고전·연구와 사상의학을 연결하고, 구성·배혈·출전·임상근거를 비교하는 경로를 안내합니다.">
 <meta name="archive:document-id" content="MSA-0103412B48065F13">
-<meta name="archive:text-sha256" content="0528cd4e9d9209eb7f71d065c311bddfe5d6462a58f0df2e24812fbec047c0ba">
-<meta name="archive:source-sha256" content="f79b22dffc77c87fee15c8ad1dcb35890dabd8fbfe057822d52a8e72a0f3abf0">
-<meta name="archive:commit" content="7dcbe351a666d4802a7dd2e82077b3d333a4dfc0">
+<meta name="archive:text-sha256" content="97b3d08d2bbf4d7a48c944272e7f37c39332c0384598db56278d1dfda5e16a82">
+<meta name="archive:source-sha256" content="ce88c7daaed0ddc11a5bb335f4ce7eb84195dd2dd4d837b7bce6ba77eca412bd">
+<meta name="archive:commit" content="5b4f9550f0e974d3a72432c1d52cb59d32664600">
 </head>
   
   
@@ -4710,6 +4710,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#ontology-name-resolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        약재 이름과 수록형을 구분해 찾기
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#ontology-pattern-treatment" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -5103,6 +5114,45 @@
 <p><strong>이름이 같아도 수록형의 식별자는 각각 유지합니다.</strong> 《금궤요략》 산조인탕과 《동의보감》 산조인탕은 같은 문서 안에서도 서로 다른 개념으로 연결됩니다. 인삼·감초 같은 본초 개념과 처방 안에서의 거로·자(炙) 등 가공 조건도 나누어 기록합니다. <a href="../formulas/suanzaoren-tang/#formula-variant-comparison">두 수록형의 약재 비교표</a>와 데이터에서 적복령·계심의 명칭, 7미와 생강 추가 기록을 함께 확인할 수 있습니다. 이렇게 하면 ‘어떤 산조인탕에 인삼이 들어가는가’, ‘육군자탕에서 생강·대조는 어떻게 기록되는가’처럼 출전과 구성을 함께 묻는 질문을 구체화할 수 있습니다.</p>
 <p>개념 이름과 별칭은 <a href="https://www.w3.org/TR/skos-reference/">W3C SKOS</a>로 표현합니다. 각 관계는 주체·관계명·대상과 함께 <strong>본문 출처 주소와 적용 조건</strong>을 가진 <code>rdf:Statement</code>로 제공합니다. 각 관계에는 본문에서 발췌한 근거 문장·표 행도 함께 제공합니다. 관계의 조건과 근거 발췌를 함께 확인하고, 인용은 연결된 본문의 해당 절과 원출처로 표시합니다. 최신 개념·관계 수와 파일 무결성은 <a href="../assets/ai/knowledge-manifest.json">매니페스트</a>의 <code>ontology</code>에서 확인합니다. <a href="../ai/site-structure/#ontology-retrieval">AI·검색도구의 이용 순서</a></p>
 <p>기허에서 출발하면 <a href="../pattern-treatment/qi-deficiency/#treatment-principle">보기·건비의 원칙</a>을 확인하고, 오심·그득함이 겹칠 때는 <a href="../pattern-treatment/phlegm-fluid/#spleen-qi-phlegm-care">비허담습의 익기건비·화담</a>과 육군자탕의 반하·진피 배합을 비교할 수 있습니다. 변증과 치법은 서로 다른 개념으로 기록하고, 처방 수록형의 구성·제법은 해당 출처에서 확인합니다. 혈허에서는 <a href="../pattern-treatment/blood-deficiency/#treatment-principle">보혈</a>과 사물탕 국방형을, 기혈양허에서는 기혈쌍보와 팔진탕 만병회춘형·십전대보탕 국방형을 연결합니다. 십전대보탕의 황기·육계는 냉감·소화 상태와 온보의 필요를 함께 살피는 조건으로 기록합니다.</p>
+<h2 id="ontology-name-resolution">약재 이름과 수록형을 구분해 찾기<a class="headerlink" href="#ontology-name-resolution" title="Permanent link">&para;</a></h2>
+<p>본초의 한글명·한자명·이명으로 검색한 뒤에는 <strong>처방 원문에 어떤 약명으로 기록되어 있는지</strong> 확인합니다. 하나의 본초 문서에서 여러 약명을 설명할 수 있으며, 구성표에서는 각 명칭과 포제·약용 부위·약량을 구분해 비교합니다.</p>
+<table>
+<thead>
+<tr>
+<th>찾으려는 내용</th>
+<th>먼저 비교할 자료</th>
+<th>구성 관계에서 확인할 점</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>복령·백복령·적복령·복신</td>
+<td><a href="../herbs/poria/#red-poria-in-formulas">복령의 적복령 표기</a> · <a href="../herbs/poria-spirit/">복신</a></td>
+<td>복령 문서에 모인 관계에서도 원문 약명별 행을 확인합니다. 귀비탕의 복신, 동의보감 산조인탕의 적복령 등 수록형별 약명을 보존합니다.</td>
+</tr>
+<tr>
+<td>생강·건강</td>
+<td><a href="../herbs/fresh-ginger/">생강</a> · <a href="../herbs/dried-ginger/">건강</a></td>
+<td>약명과 가공 상태를 확인하고, 기본 약미와 매회 전탕할 때 더하는 재료를 구분합니다.</td>
+</tr>
+<tr>
+<td>반하·반하곡</td>
+<td><a href="../herbs/pinellia/">반하의 처방 구성 관계</a></td>
+<td>곽향정기산 국방형의 반하곡처럼 가공을 명시한 약미는 그 명칭과 제법으로 찾습니다.</td>
+</tr>
+<tr>
+<td>계지·육계·계심</td>
+<td><a href="../herbs/cinnamon-twig/">계지</a> · <a href="../herbs/cinnamon-bark/#gyesim-source-name">육계 문서의 계심 설명</a></td>
+<td>같은 계열의 약명도 수록형별 원문 표기와 원료·약용 부위·포제를 함께 확인합니다.</td>
+</tr>
+<tr>
+<td>작약·백작약</td>
+<td><a href="../herbs/white-peony/#processing">작약의 원문 표기와 가공</a></td>
+<td>芍藥으로 기록한 수록형과 白芍藥·芍藥（白）처럼 백작약을 명시한 수록형을 각각 비교합니다.</td>
+</tr>
+</tbody>
+</table>
+<p>처방 이름도 출전과 함께 확인합니다. 예를 들어 산조인탕은 <a href="../formulas/suanzaoren-tang/#formula-variant-comparison">금궤요략형과 동의보감형</a>을 선택한 다음 구성 본초를 비교합니다. 아래 <a href="#ontology-formula-variants">같은 이름의 처방 비교</a>에서 수록형별 조건을 펼쳐 볼 수 있습니다. AI·데이터 도구에서 이 구분을 유지하는 방법은 <a href="../ai/site-structure/#ontology-name-resolution">이름에서 개념 ID 고르기</a>를 참고합니다.</p>
 <h2 id="ontology-pattern-treatment">처방·변증·치법을 함께 비교하기<a class="headerlink" href="#ontology-pattern-treatment" title="Permanent link">&para;</a></h2>
 <p>등록된 처방 수록형에서 변증을 거쳐 치법으로 이어지는 관계를 모았습니다. <strong>근거·조건</strong>을 펼치면 처방과 변증, 변증과 치법의 출처·적용 범위·본문 발췌를 각각 확인할 수 있습니다. 현재 등록된 두 관계를 이어 보여 주며, 실제 배합은 각 처방의 구성·소화 상태·냉열과 동반 증후를 함께 살펴 비교합니다.</p>
 <table>
@@ -6260,7 +6310,7 @@
 </ul>
 <p>검증할 원자료가 필요하면 <a href="../research/references/">참고문헌 데이터베이스</a>, 개념이 낯설면 <a href="../diagnostics/">진단·변증</a>, 사람과 약재의 이야기를 읽고 싶다면 <a href="../classical-stories/">민성의담</a>으로 이어갈 수 있습니다.</p>
 <h3 id="knowledge-reuse">검색·AI 자료로 이어지는 연결<a class="headerlink" href="#knowledge-reuse" title="Permanent link">&para;</a></h3>
-<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="0528cd4e9d92" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
+<p>같은 개념의 한글명·한자명·경혈 코드와 대표 문서 주소를 함께 정리하면 여러 표현으로 같은 자료를 찾고 출처를 확인하기 쉬워집니다. 아카이브의 <a href="../ai/site-structure/">AI·검색엔진용 사이트 구조</a>에는 문서·동의어·분류·내부 연결을 제공하는 지식 그래프와 페이지별 자료의 이용 방법을 안내합니다. 기계가 읽는 자료는 문서 탐색에 활용하고, 개별 구성·치료·연구 관계를 인용할 때는 해당 본문의 설명과 원출처를 함께 확인합니다.</p><aside class="archive-provenance" data-search-exclude data-archive-provenance data-provenance-url="https://wiki.minseong.co.kr/network/" data-provenance-title="한의학 지식망 — 증상·처방·경혈·고전 연결" data-provenance-id="MSA-0103412B48065F13" data-provenance-version="97b3d08d2bbf" aria-label="콘텐츠 이용 안내"><p><a href="https://wiki.minseong.co.kr/guide/content-use/">콘텐츠 이용 안내</a></p></aside>
 
 
 
