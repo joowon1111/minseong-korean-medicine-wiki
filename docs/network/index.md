@@ -90,6 +90,8 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 과식 뒤 트림·신물·복만이 중심인 [보화환의 식적·소식화적](../formulas/baohe-wan.md#traditional-pattern-care)과 음식 정체에 오심·담습이 겹치는 [정전가미이진탕의 도담보비·소식행기](../formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care)를 비교할 수 있습니다. 두 수록형의 산사·신곡 배합, 귤홍·복령의 약명과 전탕·제환 조건은 각 구성 출처에 보존했습니다.
 
+평소 식사량·기력이 줄고 음식 정체가 겹치는 경우에는 [삼출건비탕의 비위기허겸식적](../formulas/samchul-geonbi-tang.md#traditional-pattern-care)을, 비허담습에 오심·식후 기체가 함께 나타나는 경우에는 [향사육군자탕 시방가괄형](../formulas/xiangsha-liujunzi-tang.md#traditional-pattern-care)을 비교합니다. 구성 출처에서 인삼·산사의 비율, 지실·백작약 및 목향·사인의 배치를 확인할 수 있습니다.
+
 <!-- MINSEONG_ONTOLOGY_PATTERN_TREATMENT_ROUTES -->
 
 ## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}

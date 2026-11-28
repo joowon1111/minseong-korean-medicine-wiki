@@ -13,6 +13,7 @@ last_reviewed: 2026-09-06
 | [사군자탕](../formulas/sijunzi-tang.md) | 비위기허 | 피로·식욕저하·묽은변 |
 | [육군자탕](../formulas/liujunzi-tang.md) | 비위기허 + 담음 | 기허 + 오심·더부룩함 |
 | [향사육군자탕](../formulas/xiangsha-liujunzi-tang.md) | 비위기허 + 담음 + 기체 | 복만·트림·기체가 더 뚜렷 |
+| [삼출건비탕](../formulas/samchul-geonbi-tang.md#traditional-pattern-care) | 비위기허에 식적이 동반 | 평소 섭취량·기력 저하와 식후 그득함을 함께 비교 |
 | [이진탕](../formulas/erchen-tang.md) | 담음 기본방 | 가래·오심·흉민·어지럼 |
 | [온담탕](../formulas/wendan-tang.md) | 담음/담열 + 심담불녕 | 번조·심계·수면과 연동 |
 
@@ -20,6 +21,8 @@ last_reviewed: 2026-09-06
 인삼·백출·복령·감초 → 보기건비  
 반하·진피 → 화담이기  
 목향·사인 등 → 행기·화중
+
+인삼이 들어가는지와 함께 반하·산사·신곡·맥아의 배치도 확인합니다. [삼출건비탕 동의보감형](../formulas/samchul-geonbi-tang.md#source-dose-original)은 지실·백작약을 포함한 기본 12미와 생강·대조를, [향사육군자탕 시방가괄형](../formulas/xiangsha-liujunzi-tang.md#source-dose-original)은 목향·사인을 더한 기본 8미와 薑棗 전탕을 각각 보존합니다.
 
 ## 경혈
 족삼리 ST36 · 중완 CV12 · 내관 PC6 · 공손 SP4 · 풍륭 ST40

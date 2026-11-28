@@ -33,6 +33,8 @@ test('core formula names and spacing variants reach their detailed source pages'
       ['jiawei-wendan-tang', ['가미온담탕', '가미 온담탕', '가미온담탕 구성']],
       ['yukwul-tang', ['육울탕', '육울 탕', '육울탕 구성']],
       ['yueju-wan', ['월국환', '월국 환', '월국환 구성']],
+      ['samchul-geonbi-tang', ['삼출건비탕', '삼출 건비탕', '삼출건비탕 구성']],
+      ['xiangsha-liujunzi-tang', ['향사육군자탕', '향사 육군자탕', '향사육군자탕 구성']],
       ['baohe-wan', ['보화환', '보화 환', '보화환 구성']],
       ['jeongjeon-gami-ijin-tang', ['정전가미이진탕', '정전 가미 이진탕', '정전가미이진탕 구성']],
     ]) for (const query of queries) {
