@@ -30,6 +30,10 @@ last_reviewed: '2026-09-05'
 
 《상한론》 계지탕 원문은 대조 12매를 쪼개어 쓰도록 기록합니다. 소건중탕에서는 대조의 수록량이 《상한론》 20매, 《금궤요략》 12매로 다릅니다. 약재의 개수는 열매의 크기와 제형을 함께 살펴야 하며, 서로 다른 수록형을 하나의 원방으로 합치지 않습니다. [계지탕 구성](../formulas/guizhi-tang.md#source-dose-original) · [소건중탕 수록형 비교](../formulas/xiaojianzhong-tang.md#source-dose-original)
 
+### 대조의 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 비슷한 본초와 구분
 
 대조는 대추 열매이며 산조인은 산조의 씨를 약용으로 쓰는 별도 본초입니다. 수면 관련 산조인 연구를 대추차의 효과로 옮기지 않습니다.

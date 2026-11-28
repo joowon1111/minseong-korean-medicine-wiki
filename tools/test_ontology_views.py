@@ -247,6 +247,73 @@ class OntologyViews(unittest.TestCase):
             with self.assertRaises(ValueError):
                 views.on_page_markdown(views.HERB_MARKER, page=page, config=config, files=[])
 
+    def test_priority_herb_pages_expose_every_registered_membership(self):
+        expected = {'fresh-ginger': 15, 'jujube-fruit': 14, 'cinnamon-twig': 10,
+                    'pinellia': 10, 'moschus': 1, 'cervi-parvum-cornu': 1,
+                    'cornus-fructus': 3, 'dried-ginger': 3}
+        for slug, count in expected.items():
+            with self.subTest(herb=slug):
+                source = 'herbs/' + slug + '.md'
+                markdown = (Path('docs') / source).read_text()
+                self.assertEqual(markdown.count(views.HERB_MARKER), 1)
+                page = SimpleNamespace(file=SimpleNamespace(src_uri=source))
+                text = views.on_page_markdown(markdown, page=page,
+                                              config={'docs_dir': 'docs'}, files=[])
+                self.assertNotIn(views.HERB_MARKER, text)
+                table = views.herb_formula_table(self.payload, source)
+                self.assertEqual(sum(line.startswith('| <a') for line in table.splitlines()), count)
+                self.assertEqual(table.count('class="ontology-herb-context"'), count)
+
+    def test_herb_conditions_retain_adjuncts_doses_and_preparation_identities(self):
+        fresh = views.herb_formula_table(self.payload, 'herbs/fresh-ginger.md')
+        dried = views.herb_formula_table(self.payload, 'herbs/dried-ginger.md')
+        self.assertIn('기본 4미의 제조 배합과 매회 전탕 재료를 구분', fresh)
+        self.assertIn('생강 三片·대추 二枚', fresh)
+        self.assertNotIn('반하사심탕 — 상한론 송본 수록형', fresh)
+        self.assertIn('반하사심탕 — 상한론 송본 수록형', dried)
+        dates = views.herb_formula_table(self.payload, 'herbs/jujube-fruit.md')
+        shanghan = next(line for line in dates.splitlines() if '소건중탕 — 상한론 송본 수록형</a>' in line)
+        jinkui = next(line for line in dates.splitlines() if '소건중탕 — 금궤요략 수록형</a>' in line)
+        self.assertIn('大棗 20매', shanghan)
+        self.assertIn('大棗 12매', jinkui)
+        banxia = views.herb_formula_table(self.payload, 'herbs/pinellia.md')
+        self.assertIn('>반하곡</a>', banxia)
+        self.assertIn('반하곡: 발효 가공', banxia)
+        antler = views.herb_formula_table(self.payload, 'herbs/cervi-parvum-cornu.md')
+        self.assertIn('제조 배합', antler)
+        self.assertNotIn('보중익기탕', antler)
+
+    def test_herb_conditions_escape_html_pipes_and_line_breaks(self):
+        payload = deepcopy(self.payload)
+        statement = next(n for n in payload['@graph'] if n['@type'] == 'rdf:Statement'
+                         and n['rdf:predicate']['@id'] == 'km:containsHerb'
+                         and n['rdf:object']['@id'].endswith('#fresh-ginger'))
+        statement['skos:scopeNote']['@value'] = 'left | right\nnew <script>bad()</script>'
+        text = views.herb_formula_table(payload, 'herbs/fresh-ginger.md')
+        self.assertNotIn('<script>', text)
+        self.assertIn('left &#124; right<br>new &lt;script&gt;bad()&lt;/script&gt;', text)
+        for line in text.splitlines():
+            if line.startswith('| <a'):
+                self.assertEqual(line.count('|'), 4)
+
+    def test_herb_view_keeps_multiple_qualifications_without_duplicate_rows(self):
+        payload = deepcopy(self.payload)
+        statement = next(n for n in payload['@graph'] if n['@type'] == 'rdf:Statement'
+                         and n['rdf:predicate']['@id'] == 'km:containsHerb'
+                         and n['rdf:object']['@id'].endswith('#fresh-ginger'))
+        original = views.herb_formula_table(payload, 'herbs/fresh-ginger.md')
+        extra = deepcopy(statement)
+        extra['@id'] += '-additional-qualification'
+        payload['@graph'].append(extra)
+        self.assertEqual(views.herb_formula_table(payload, 'herbs/fresh-ginger.md'), original)
+        extra['skos:scopeNote']['@value'] = '추가 조건 기록'
+        text = views.herb_formula_table(payload, 'herbs/fresh-ginger.md')
+        self.assertIn(statement['skos:scopeNote']['@value'], text)
+        self.assertIn('추가 조건 기록', text)
+        self.assertEqual(sum(line.startswith('| <a') for line in text.splitlines()), 15)
+        extra['rdf:predicate']['@id'] = 'km:links_to_herb'
+        self.assertEqual(views.herb_formula_table(payload, 'herbs/fresh-ginger.md'), original)
+
     def test_next_build_refreshes_herb_payloads(self):
         with patch.object(views, 'build_ontology', return_value=(self.payload, {})) as builder:
             first = views.herb_payload('docs')

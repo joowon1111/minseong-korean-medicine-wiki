@@ -46,6 +46,10 @@ description: 건강의 온중산한과 이중탕 배합, 생강과의 약재 처
 
 이는 전통 배합을 해설한 표입니다. 같은 건강을 쓴다고 네 처방의 적응 병증이나 현대 임상근거가 같아지는 것은 아닙니다. 각 처방의 원문·약미와 연구 제형을 대조해 읽습니다.
 
+### 건강의 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ### 생강·건강·포강의 이름을 기록하는 법 {#processing-identity}
 
 건강은 *Zingiber officinale*의 말린 뿌리줄기입니다. 생강과는 수분 상태가 다르고, 포강은 추가 가열 가공의 기록을 확인해야 합니다. 고전의 `乾薑（炮）`를 모두 같은 현대 제품명으로 통일하기보다 **원문 약명·포제 지시·실제로 사용한 규격품**을 나란히 남깁니다. 국가중의약연구소도 건강과 포강의 표본을 구분해 안내합니다. [건강 표본·기원·효능 자료](https://www.nricm.edu.tw/htcm/catalog/tcm_herbal_details1ee8.html?id=1160)

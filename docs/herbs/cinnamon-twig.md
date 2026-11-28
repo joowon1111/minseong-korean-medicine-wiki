@@ -41,6 +41,10 @@ last_reviewed: 2026-09-18
 
 계지탕의 《상한론》 수록형은 계지와 작약을 각각 3량으로 둡니다. 소건중탕에서는 계지 3량에 작약 6량을 쓰고 교이를 더해, 영위 조화의 골격을 허로성 복통과 복부 당김을 완화하는 배합으로 바꿉니다. 소건중탕의 감초·대조 수록량은 《상한론》과 《금궤요략》 사이에 차이가 있으므로 원전을 나누어 봅니다. [계지탕 원문](../formulas/guizhi-tang.md#source-dose-original) · [소건중탕 두 수록형](../formulas/xiaojianzhong-tang.md#source-dose-original)
 
+### 계지의 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 계지·육계는 왜 구분하는가
 
 | 구분 | 계지 | [육계](cinnamon-bark.md) |
