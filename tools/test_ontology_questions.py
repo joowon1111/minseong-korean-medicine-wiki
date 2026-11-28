@@ -111,6 +111,51 @@ class PractitionerQuestionTests(unittest.TestCase):
                              and n['rdf:predicate']['@id'] == 'km:hasTraditionalPatternContext'}
         self.assertEqual(liujunzi_patterns, {'qi-deficiency', 'spleen-qi-deficiency-with-phlegm'})
 
+    def test_tonic_selection_keeps_three_distinct_qualified_paths(self):
+        # 피로·식욕저하라는 공통 질문에서도 출전별 변증과 치법을 유지한다.
+        expected = {
+            'sijunzi-guofang': ('qi-deficiency', 'tonify-qi'),
+            'buzhong-piwei': ('sinking-middle-qi', 'tonify-qi-raise-yang'),
+            'shiquan-guofang': ('qi-blood-deficiency', 'tonify-qi-and-blood'),
+        }
+        rendered = pattern_treatment_routes(self.payload)
+        for fid, (pattern, principle) in expected.items():
+            contexts = [r for r in self.records
+                        if r['rdf:subject']['@id'] == RESOURCE + '#' + fid
+                        and r['rdf:predicate']['@id'] == 'km:hasTraditionalPatternContext']
+            self.assertEqual({r['rdf:object']['@id'] for r in contexts}, {RESOURCE + '#' + pattern})
+            treatments = [r for r in self.records
+                          if r['rdf:subject']['@id'] == RESOURCE + '#' + pattern
+                          and r['rdf:predicate']['@id'] == 'km:hasTraditionalTreatmentPrinciple']
+            self.assertEqual({r['rdf:object']['@id'] for r in treatments}, {RESOURCE + '#' + principle})
+            label = self.nodes[RESOURCE + '#' + fid]['skos:prefLabel']['@value']
+            row = next(r for r in rendered.splitlines() if r.startswith('| <a') and label in r)
+            for record in contexts + treatments:
+                self.assertIn(record['dcterms:source']['@id'], row)
+                self.assertIn(record['skos:scopeNote']['@value'], unescape(row))
+                self.assertIn(record['dcterms:description']['@value'], unescape(row))
+                for endpoint in ('rdf:subject', 'rdf:object'):
+                    page = self.nodes[record[endpoint]['@id']]['foaf:page']['@id'].split('#')[0]
+                    projected = {n['@id']: n for n in self.pages[page]['payload']['@graph']}
+                    self.assertEqual(projected[record['@id']], record)
+
+    def test_shared_tonic_herbs_do_not_merge_source_formulations(self):
+        def ingredients(fid):
+            return {r['rdf:object']['@id'].split('#')[-1] for r in self.records
+                    if r['rdf:subject']['@id'] == RESOURCE + '#' + fid
+                    and r['rdf:predicate']['@id'] == 'km:containsHerb'}
+        sijunzi, buzhong, shiquan = map(ingredients,
+            ['sijunzi-guofang', 'buzhong-piwei', 'shiquan-guofang'])
+        self.assertEqual(sijunzi & buzhong & shiquan, {'ginseng', 'atractylodes', 'licorice'})
+        self.assertEqual(buzhong - sijunzi - shiquan, {'citrus-peel', 'cimicifuga', 'bupleurum'})
+        self.assertNotIn('poria', buzhong)
+        self.assertNotIn('cervi-parvum-cornu', buzhong)
+        self.assertEqual(len(buzhong), 8)
+        record = next(r for r in self.ingredient_records('cimicifuga')
+                      if r['rdf:subject']['@id'] == RESOURCE + '#buzhong-piwei')
+        self.assertEqual(record['dcterms:source']['@id'], BASE + '/formulas/buzhong-yiqi-tang/#source-dose-original')
+        self.assertIn('分', record['dcterms:description']['@value'])
+
     def test_shared_herbs_preserve_the_three_different_base_formulations(self):
         def ingredients(fid):
             return {r['rdf:object']['@id'].split('#')[-1] for r in self.records

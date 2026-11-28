@@ -5875,6 +5875,26 @@
       "aliases": [
         "行氣散結·降逆化痰"
       ]
+    },
+    {
+      "id": "sinking-middle-qi",
+      "type": "Pattern",
+      "label": "중기하함",
+      "page": "glossary/sinking-middle-qi.md",
+      "definition": "비위의 기가 허하여 승거 기능이 약해진 양상을 설명하는 전통 변증. 식사·기력·배변과 유지하는 기능을 함께 살핀다.",
+      "aliases": [
+        "中氣下陷"
+      ]
+    },
+    {
+      "id": "tonify-qi-raise-yang",
+      "type": "TreatmentPrinciple",
+      "label": "보기승양",
+      "page": "pattern-treatment/sinking-middle-qi.md#treatment-principle",
+      "definition": "중기하함에서 비위의 기를 보하면서 승거 방향을 함께 두는 전통 치법.",
+      "aliases": [
+        "補氣升陽"
+      ]
     }
   ],
   "predicates": {
@@ -12680,6 +12700,24 @@
       "source": "pattern-treatment/phlegm-fluid.md#phlegm-qi-binding-care",
       "scope": "담기울결의 후대 변증·치법 해설. 목 이물감·흉민·한숨·오심과 긴장·식사 전후의 변동을 함께 살핀다. 반하후박탕 금궤 5미 수록형의 화담·행기·강역 배합을 비교하며, 비허담습의 익기건비·화담 및 담위불화의 이기화담·화위이담과 구분한다. 실제 연하곤란·연하통·체중감소·출혈은 원인 평가로 연결한다.",
       "quote": "담기울결의 전통 치법은 **행기산결·강역화담(行氣散結·降逆化痰)**입니다."
+    },
+    {
+      "id": "buzhong-piwei--hasTraditionalPatternContext--sinking-middle-qi",
+      "subject": "buzhong-piwei",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "sinking-middle-qi",
+      "source": "formulas/buzhong-yiqi-tang.md#_4",
+      "scope": "비위론의 8미 구성과 승마·시호의 승양 설명을 바탕으로 한 현대 방제학적 해설. 원문 음식실절·노권·열중과 현대 중기하함 명칭을 구분하며, 원문 약량·가감 조건과 후대 수록방·현대 제제를 각각 유지한다.",
+      "quote": "전통 방제학에서는 보중익기탕을 **비위기허에 중기하함이 동반되는 맥락**에서 설명합니다."
+    },
+    {
+      "id": "sinking-middle-qi--hasTraditionalTreatmentPrinciple--tonify-qi-raise-yang",
+      "subject": "sinking-middle-qi",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "tonify-qi-raise-yang",
+      "source": "pattern-treatment/sinking-middle-qi.md#treatment-principle",
+      "scope": "중기하함의 전통 치법 해설. 비위론의 원문 승양 설명을 근거로 배합을 비교하며, 식사·기력·배변과 경과를 함께 확인한다. 장기하수·직장탈출은 구조와 골반저 기능을 별도로 평가한다.",
+      "quote": "중기하함의 기본 치법은 **보기승양(補氣升陽)**입니다."
     }
   ]
 }
