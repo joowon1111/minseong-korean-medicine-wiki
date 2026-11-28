@@ -11,6 +11,38 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
     for (const [name, viewport] of [['mobile',{width:390,height:844}],['desktop',{width:1440,height:1000}]]) {
       const context = await browser.newContext({viewport}); const page = await context.newPage(); const errors=[];
       page.on('pageerror', e => errors.push(e.message));
+      const coverage=JSON.parse(fs.readFileSync('docs/assets/ai/core-formula-coverage.json','utf8'));
+      await page.goto(base+'/herbal-integrated/general-formulary/#core-composition-coverage');
+      await page.locator('#core-composition-coverage').waitFor();
+      const coverageView=await page.evaluate(()=>{
+        const heading=document.getElementById('core-composition-coverage');
+        const section=[]; let table;
+        for(let e=heading.nextElementSibling;e&&!/^H[1-3]$/.test(e.tagName);e=e.nextElementSibling){
+          section.push(e.textContent);table=table||(e.matches('table')?e:e.querySelector('table'));
+        }
+        if(!table)throw Error('Missing core composition coverage table');
+        return {text:section.join(' '),rows:[...table.tBodies[0].rows].map(r=>[...r.cells].slice(0,2).map(c=>c.innerText.trim())),
+          hrefs:[...table.querySelectorAll('a')].map(a=>a.href)};
+      });
+      assert.ok(coverageView.text.includes(coverage.summary.core_registered+'/'+coverage.summary.core_total+'개'));
+      const groups=[...new Set(coverage.core.map(e=>e.group))];
+      assert.deepEqual(coverageView.rows,groups.map(group=>{
+        const entries=coverage.core.filter(e=>e.group===group);
+        return [group,entries.filter(e=>e.has_composition_records).length+' / '+entries.length];
+      }));
+      for(const entry of coverage.core){
+        const urls=entry.has_composition_records?entry.variants.map(v=>v.url):[entry.url];
+        for(const url of urls)assert.ok(coverageView.hrefs.includes(url));
+      }
+      for(const label of ['등록 수록형 보기','대기 처방 보기']){
+        const control=page.locator('.md-content summary').filter({hasText:label}).first();
+        await control.click();
+        assert.equal(await control.locator('..').locator('a').first().isVisible(),true);
+        assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+2),false,'core registration table must fit the viewport');
+        await control.click();
+      }
+      await page.locator('#core-composition-coverage').scrollIntoViewIfNeeded();
+      await page.screenshot({path:`archive-browser-results/${name}-core-formula-coverage.png`,fullPage:false});
       await page.goto(base+'/network/#ontology-composition-tables');
       await page.locator('#ontology-formula-compositions').waitFor();
       const ontology=JSON.parse(fs.readFileSync('docs/assets/ai/ontology.jsonld','utf8'));

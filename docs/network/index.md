@@ -100,6 +100,8 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 아래 표는 현재 온톨로지에 등록된 구성 관계를 모은 것입니다. 처방 수록형에서 본초를 찾거나, 본초별로 구성 관계가 등록된 처방을 비교할 수 있습니다. 원문 약명과 수록본을 유지해 같은 이름의 처방도 각각 확인합니다.
 
+[핵심 처방 100선 등록 현황](../herbal-integrated/general-formulary.md#core-composition-coverage)에서는 100선 안의 등록 처방과 전체 등록 처방을 구분해 확인할 수 있습니다. 처방군별 등록 수록형과 구성 관계를 아직 등록하지 않은 처방도 함께 표시합니다.
+
 <!-- MINSEONG_ONTOLOGY_COMPOSITION_TABLES -->
 
 ## 같은 이름의 처방 수록형 비교 {#ontology-formula-variants}

@@ -22,6 +22,7 @@ import yaml
 from atomic_output import write_bytes
 from acupoint_record_types import supplementary_type
 from ontology import build_ontology
+from formula_coverage import formula_coverage
 
 
 DOCS = Path("docs")
@@ -462,8 +463,10 @@ def main() -> int:
     payload_bytes = json_bytes(payload)
     ontology, ontology_stats = build_ontology(DOCS, Path("data/ontology.json"))
     ontology_bytes = json_bytes(ontology, pretty=True)
+    coverage = formula_coverage(ontology, DOCS)
     manifest = {
         "ontology": {**ontology_stats, "sha256": hashlib.sha256(ontology_bytes).hexdigest()},
+        "core_formula_coverage": coverage["summary"],
         "schema_version": SCHEMA_VERSION,
         "base_url": BASE_URL,
         "language": "ko-KR",
@@ -478,6 +481,7 @@ def main() -> int:
         "files": {
             "knowledge_graph": "/assets/ai/knowledge-graph.json",
             "ontology": "/assets/ai/ontology.jsonld",
+            "core_formula_coverage": "/assets/ai/core-formula-coverage.json",
             "schema": "/assets/ai/knowledge-schema.json"
         },
         "code_policy": "explicit_metadata_only",
@@ -487,6 +491,7 @@ def main() -> int:
     expected = {
         OUT_DIR / "knowledge-graph.json": payload_bytes,
         OUT_DIR / "ontology.jsonld": ontology_bytes,
+        OUT_DIR / "core-formula-coverage.json": json_bytes(coverage, pretty=True),
         OUT_DIR / "knowledge-manifest.json": json_bytes(manifest, pretty=True),
         OUT_DIR / "knowledge-schema.json": SCHEMA_SOURCE.read_bytes()
     }
