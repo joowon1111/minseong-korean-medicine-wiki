@@ -2390,6 +2390,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#blood-deficiency",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/diagnostics/blood-deficiency/"
+      },
+      "skos:altLabel": [
+        "血虛"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "창백·어지럼·심계·수면 불편·건조 등이 함께 나타나는 양상을 살피는 전통 변증. 빈혈의 혈액검사 진단과 구분하여 출혈·영양·소화·수면을 함께 평가한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "혈허"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#bupleurum",
       "@type": [
         "skos:Concept",
@@ -9342,6 +9366,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#qi-blood-deficiency",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/diagnostics/patterns/qi-blood-deficiency/"
+      },
+      "skos:altLabel": [
+        "氣血兩虛"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "기허의 피로·무력감과 혈허의 창백·어지럼·건조·수면저하가 함께 나타나는 복합 허증. 식사·소화와 병후·산후의 회복 상태를 함께 살핀다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "기혈양허"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#qi-deficiency",
       "@type": [
         "skos:Concept",
@@ -12833,6 +12881,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-blood",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle"
+      },
+      "skos:altLabel": [
+        "補血"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "혈허에서 혈의 자양을 돕는 전통 치법. 안색·어지럼·건조·월경과 소화·수면을 살펴 배합을 정한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "보혈"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi",
       "@type": [
         "skos:Concept",
@@ -12854,6 +12926,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "보기"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi-and-blood",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle"
+      },
+      "skos:altLabel": [
+        "氣血雙補"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "기혈양허에서 보기와 보혈을 함께 적용하는 전통 치법. 피로·식욕·안색·어지럼과 냉열·소화 상태에 따라 배합의 비중을 조절한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "기혈쌍보"
       }
     },
     {
@@ -13686,6 +13782,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "만병회춘 팔진탕의 구성표 기본 약미. 원문 약명 白芍, 수록량 1전, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-bazhen-wanbing--hasTraditionalPatternContext--qi-blood-deficiency",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "**해석·주치와 배합:** 기와 혈이 함께 부족한 허손을 다루는 팔진탕 수록형입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/bazhen-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#qi-blood-deficiency"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#bazhen-wanbing"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "만병회춘 팔진탕 수록형의 인삼·백출·복령·당귀·천궁·백작약·숙지황 각 1전과 자감초 五分의 기록을 보존한다. 기허와 혈허가 함께 나타나는 배합 맥락이며, 한국 팔물탕의 후대 수록량이나 의방고의 지황·작약 표기 및 수치와 구분한다."
       }
     },
     {
@@ -15227,6 +15346,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "WHO 표준 361경혈 중 족태양방광경 소속 BL9의 분류 관계. 혈명·한자·코드는 기존 표준 경혈 목록과 대조하고, 소속은 해당 경맥의 전체 소속 경혈표에서 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-blood-deficiency--hasTraditionalTreatmentPrinciple--tonify-blood",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "[혈허](../diagnostics/blood-deficiency.md)의 기본 치법은 **보혈(補血)**입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-blood"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#blood-deficiency"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "혈허의 전통 치법. 안색·어지럼·건조·월경과 소화·수면을 함께 살피며, 빈혈의 검사 진단과 원인 평가는 별도로 확인한다."
       }
     },
     {
@@ -23349,6 +23491,29 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-qi-blood-deficiency--hasTraditionalTreatmentPrinciple--tonify-qi-and-blood",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "[기혈양허](../diagnostics/patterns/qi-blood-deficiency.md)의 기본 치법은 **기혈쌍보(氣血雙補)**입니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/pattern-treatment/blood-deficiency/#treatment-principle"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tonify-qi-and-blood"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#qi-blood-deficiency"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "기허의 피로·식욕저하에 혈허의 창백·어지럼이 함께 나타나는 기혈양허의 전통 치법. 동반 냉감·소화 상태에 따라 보기와 보혈의 비중을 조절한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-qi-deficiency--hasTraditionalTreatmentPrinciple--tonify-qi",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -24729,6 +24894,29 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-shiquan-guofang--hasTraditionalPatternContext--qi-blood-deficiency",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "기혈양허와 오래된 쇠약·회복 지연을 살피며, 열감·소화력·냉감·땀의 양상에 따라 다른 보익 처방과 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/shi-quan-da-bu-tang/#immune-metabolic-network"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#qi-blood-deficiency"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#shiquan-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방의 십미 등분 제조 배합과 전탕 시 생강·대조의 별기를 보존한다. 기혈양허에 냉감·허약이 겹칠 때 황기·육계의 보기·온보를 함께 비교하며, 열감·소화력·땀과 회복 상태를 살핀다. 외과이례 수록량·포제, 현대 탕제 및 시험 제제는 각각 구분한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-shujing-huoxue-wanbing--containsHerb--achyranthes",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -25738,6 +25926,29 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "국방 사물탕의 구성표 기본 약미. 원문 약명 白芍藥, 수록량 등분, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-siwu-guofang--hasTraditionalPatternContext--blood-deficiency",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 국방 수록형은 혈허를 바탕으로 월경·복부 불편과 혈행의 변화를 함께 살피는 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/siwu-tang/#original-pattern-course"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#blood-deficiency"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#siwu-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방의 당귀·천궁·백작약·숙건지황 등분 수록형을 혈허의 후대 변증·배합 해설과 연결한다. 충임·월경·복부 불편과 혈행 조절의 맥락을 함께 보존하며, 빈혈의 진단이나 치료효과와 구분한다."
       }
     },
     {
