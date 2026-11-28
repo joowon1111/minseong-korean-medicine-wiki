@@ -64,7 +64,10 @@ const base = process.env.ARCHIVE_TEST_BASE || 'http://127.0.0.1:8766';
         await panel.locator(':scope > summary').click();
       }
       for(const [context,treatment] of routes){
+        // Different source formulations may share the same explanatory passage.
+        // Their qualified scope must still select the exact source-specific route.
         const row=routePanels.filter({hasText:context['dcterms:description']['@value']})
+          .filter({hasText:context['skos:scopeNote']['@value']})
           .filter({hasText:treatment['dcterms:description']['@value']});
         assert.equal(await row.count(),1);
         const sources=await row.locator('a').evaluateAll(links=>links.map(a=>a.href));
