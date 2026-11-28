@@ -3914,6 +3914,50 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#external-wind-cold-internal-raw-cold",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#traditional-pattern-care"
+      },
+      "skos:altLabel": [],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "해당 원문 주치와 배합을 대조하는 전통 변증 맥락. 현재 한열·오심·팽만·섭취량과 경과를 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "외감풍한·내상생랭"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#food-injury-qi-damp-stagnation",
+      "@type": [
+        "skos:Concept",
+        "km:Pattern"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#traditional-pattern-care"
+      },
+      "skos:altLabel": [],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "해당 원문 주치와 배합을 대조하는 전통 변증 맥락. 현재 한열·오심·팽만·섭취량과 경과를 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "식상기체겸습체"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#food-phlegm-stagnation",
       "@type": [
         "skos:Concept",
@@ -10314,6 +10358,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-damp-harmonize-stomach",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#traditional-pattern-care"
+      },
+      "skos:altLabel": [
+        "理氣化濕·和胃"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "원문 주치·제법과 약미 배치를 바탕으로 설명한 전통 치법. 처방 수록형과 현재 증상 경과를 함께 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "이기화습·화위"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-phlegm-calm-spirit",
       "@type": [
         "skos:Concept",
@@ -10384,6 +10452,32 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "인삼양영탕 — 국방 수록형"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "인삼양위탕",
+        "人參養胃湯",
+        "人蔘養胃湯"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "인삼양위탕 — 국방 수록형"
       }
     },
     {
@@ -14218,6 +14312,30 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tsaoko-fruit",
+      "@type": [
+        "skos:Concept",
+        "km:Herb"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/herbs/tsaoko-fruit/"
+      },
+      "skos:altLabel": [
+        "草果"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "처방의 草果 약미와 초과 본초를 연결한다. 기원·부위와 去皮膜 등 원문 포제는 수록형별로 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "초과"
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#turtle-plastron-gelatin",
       "@type": [
         "skos:Concept",
@@ -14264,6 +14382,30 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "온보신양"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#warm-middle-release-exterior-transform-damp",
+      "@type": [
+        "skos:Concept",
+        "km:TreatmentPrinciple"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#traditional-pattern-care"
+      },
+      "skos:altLabel": [
+        "溫中解表·化濕"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "원문 주치·제법과 약미 배치를 바탕으로 설명한 전통 치법. 처방 수록형과 현재 증상 경과를 함께 확인한다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "온중해표·화습"
       }
     },
     {
@@ -14414,6 +14556,31 @@
       "skos:prefLabel": {
         "@language": "ko",
         "@value": "향사육군자탕 — 시방가괄 수록형"
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam",
+      "@type": [
+        "skos:Concept",
+        "km:Formula"
+      ],
+      "foaf:page": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "skos:altLabel": [
+        "향사평위산",
+        "香砂平胃散"
+      ],
+      "skos:definition": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      },
+      "skos:inScheme": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#scheme"
+      },
+      "skos:prefLabel": {
+        "@language": "ko",
+        "@value": "향사평위산 — 동의보감 회춘 인용 수록형"
       }
     },
     {
@@ -18850,6 +19017,52 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "국방 이진탕의 구성표 기본 약미. 원문 약명 白茯苓, 수록량 3량, 포제 별도 포제 표기 없음. 역사적 배합의 원 단위이며 현대 1일량·제제량과 구분한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-external-wind-cold-internal-raw-cold--hasTraditionalTreatmentPrinciple--warm-middle-release-exterior-transform-damp",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 배합의 전통 치법은 **온중해표·화습(溫中解表·化濕)**로 설명합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#warm-middle-release-exterior-transform-damp"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#external-wind-cold-internal-raw-cold"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "원문의 주치와 실제 약미 배치에 대한 후대 치법 해설. 해당 수록형의 적용 맥락과 증상·식사·배변의 경과를 함께 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-food-injury-qi-damp-stagnation--hasTraditionalTreatmentPrinciple--regulate-qi-transform-damp-harmonize-stomach",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 배합의 전통 치법은 **이기화습·화위(理氣化濕·和胃)**로 설명합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#regulate-qi-transform-damp-harmonize-stomach"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalTreatmentPrinciple"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#food-injury-qi-damp-stagnation"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "원문의 주치와 실제 약미 배치에 대한 후대 치법 해설. 해당 수록형의 적용 맥락과 증상·식사·배변의 경과를 함께 확인한다."
       }
     },
     {
@@ -27823,6 +28036,282 @@
       }
     },
     {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--agastache",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [곽향엽](../herbs/agastache.md) · 藿香葉 | 半兩 | 洗去土·잎 표기 보존 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#agastache"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--atractylodes-lancea",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 一兩 | 米泔浸一宿·洗·切·炒 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#atractylodes-lancea"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--citrus-red-peel",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [귤홍](../herbs/citrus-peel.md) · 橘紅 | 七錢半 | 진피와 원문 약명 구분 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-red-peel"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--fresh-ginger",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [생강](../herbs/fresh-ginger.md) · 姜 | 七片 | 매복 전탕 추가재료 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-ginger"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--ginseng",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [인삼](../herbs/ginseng.md) · 人參 | 半兩 | 별도 포제 표기 없음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#ginseng"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--licorice",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 二錢半 | 炙 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#licorice"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--magnolia-bark",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [후박](../herbs/magnolia-bark.md) · 厚朴 | 一兩 | 去粗皮·薑汁製 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#magnolia-bark"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--mume-fruit",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [오매](../herbs/mume-fruit.md) · 烏梅 | 一個 | 매복 전탕 추가재료 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#mume-fruit"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--pinellia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [반하](../herbs/pinellia.md) · 半夏 | 一兩 | 湯洗七次 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#pinellia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--poria",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [복령](../herbs/poria.md) · 茯苓 | 半兩 | 去黑皮·적복령과 구분 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#poria"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--containsHerb--tsaoko-fruit",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [초과](../herbs/tsaoko-fruit.md) · 草果 | 半兩 | 去皮·膜 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#tsaoko-fruit"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-renshen-yangwei-guofang--hasTraditionalPatternContext--external-wind-cold-internal-raw-cold",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 《국방》 수록형은 **외감풍한·내상생랭**의 전통 변증·배합 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/renshen-yangwei-tang/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#external-wind-cold-internal-raw-cold"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#renshen-yangwei-guofang"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "국방 淳祐新添方 인삼양위탕 기본 9미의 일괄 제조 배합. 半夏 湯洗七次·厚朴 去粗皮薑汁製·蒼朮 米泔浸一宿洗切炒 각 一兩, 藿香葉 洗去土·草果 去皮膜·茯苓 去黑皮·人參 각 半兩, 甘草 炙 二錢半, 橘紅 七錢半. 每服四錢·水一盞半·姜七片·烏梅一個·煎至六分·去滓熱服을 보존한다. 생강·오매는 매복 전탕 추가재료이며 대조는 이 수록형에 없다. 후대 방약합편의 진피·적복령·생강3편·대조2매와 구분하고 제조 총량을 현대 1일량으로 환산하지 않는다. 전통 주치·변증 맥락을 현대 질환 진단과 구분하며 현재 증상·섭취량을 재평가한다."
+      }
+    },
+    {
       "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-samchul-geonbi-donguibogam--containsHerb--amomum",
       "@type": "rdf:Statement",
       "dcterms:description": {
@@ -33823,6 +34312,259 @@
       "skos:scopeNote": {
         "@language": "ko",
         "@value": "시방가괄의 사군자→육군자→향사육군자 전개에서 기본 8미와 薑棗 전탕 추가를 구분한다. 비허담습의 익기건비·화담을 공통 맥락으로 확인하며, 이 수록형의 木香·砂仁 각 八分 및 以行氣消脹을 기체·식후팽만의 적용 조건으로 보존한다. 방약합편 12미형·소음인 동명방·현대 시험제제는 각각의 구성을 확인한다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--agastache",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [곽향](../herbs/agastache.md) · 藿香 | 八分 | 원문에 잎 부위 별도 표기 없음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#agastache"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--amomum",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [사인](../herbs/amomum.md) · 縮砂 | 七分 | 축사라는 원문 명칭 보존 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#amomum"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--atractylodes-lancea",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 二錢 | 별도 포제 표기 없음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#atractylodes-lancea"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--aucklandia",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [목향](../herbs/aucklandia.md) · 木香 | 五分 | 별도 포제 표기 없음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#aucklandia"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--citrus-immature",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [지실](../herbs/citrus-immature.md) · 枳實 | 八分 | 지각과 구분 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-immature"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--citrus-peel",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 一錢 | 별도 포제 표기 없음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#citrus-peel"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--cyperus",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [향부자](../herbs/cyperus.md) · 香附 | 一錢 | 향부라는 원문 약명 보존 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#cyperus"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--fresh-ginger",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [생강](../herbs/fresh-ginger.md) · 薑 | 三·제법 대조 3쪽 | 전탕 추가재료 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#fresh-ginger"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--licorice",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [감초](../herbs/licorice.md) · 甘草 | 五分 | 이 대목에 자법 별도 표기 없음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#licorice"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--containsHerb--magnolia-bark",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "| [후박](../herbs/magnolia-bark.md) · 厚朴 | 七分 | 별도 포제 표기 없음 |"
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#source-dose-original"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#magnolia-bark"
+      },
+      "rdf:predicate": {
+        "@id": "km:containsHerb"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다."
+      }
+    },
+    {
+      "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#statement-xiangsha-pingwei-donguibogam--hasTraditionalPatternContext--food-injury-qi-damp-stagnation",
+      "@type": "rdf:Statement",
+      "dcterms:description": {
+        "@value": "이 《동의보감》 회춘 인용 수록형은 **식상기체겸습체**의 전통 변증·배합 맥락에서 비교합니다."
+      },
+      "dcterms:source": {
+        "@id": "https://wiki.minseong.co.kr/formulas/xiangsha-pingwei-san/#traditional-pattern-care"
+      },
+      "rdf:object": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#food-injury-qi-damp-stagnation"
+      },
+      "rdf:predicate": {
+        "@id": "km:hasTraditionalPatternContext"
+      },
+      "rdf:subject": {
+        "@id": "https://wiki.minseong.co.kr/assets/ai/ontology.jsonld#xiangsha-pingwei-donguibogam"
+      },
+      "skos:scopeNote": {
+        "@language": "ko",
+        "@value": "동의보감 잡병편 권4 내상 回春 인용 향사평위산. 기본 9미: 蒼朮 二錢, 陳皮·香附 각 一錢, 枳實·藿香 각 八分, 厚朴·縮砂 각 七分, 木香·甘草 각 五分. 剉作一貼·薑三煎服의 생강은 전탕 추가재료이며 한국전통지식포탈 제법의 3쪽과 대조한다. 원문의 分을 보존하고 g 환산량·현대 시험제제와 구분한다. 이 수록형에는 대조·인삼·반하·산사·신곡·맥아가 없다. 전통 주치·변증 맥락을 현대 질환 진단과 구분하며 현재 증상·섭취량을 재평가한다."
       }
     },
     {
