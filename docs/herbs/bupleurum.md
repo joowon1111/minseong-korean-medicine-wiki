@@ -67,6 +67,11 @@ saikosaponin 또는 다른 기원종의 추출물 결과만으로 국내 시호 
 - 간질환·폐질환이 있거나 여러 약을 함께 복용하는 경우에는 이상반응 이력과 검사치를 포함해 전문가가 확인합니다.
 - 장기간 지속되는 발열, 황달, 호흡곤란, 심한 복통은 전통 병증 감별보다 현대 의학적 평가가 우선입니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 근거와 이어서 보기
 
 - [Radix Bupleuri 종합 고찰—PMC5448051](https://pmc.ncbi.nlm.nih.gov/articles/PMC5448051/) — 기원종·전통 활용·성분·실험연구와 품질 표준화

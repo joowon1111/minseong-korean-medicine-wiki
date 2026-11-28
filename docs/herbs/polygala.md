@@ -44,6 +44,11 @@ description: 원지의 안신익지·거담개규, 거심·감초수 가공 원�
 | [천왕보심단](../formulas/tianwang-buxin-dan.md) | 생지황·맥문동·백자인·산조인과 자음양혈·안신 | 기허 중심 귀비탕과 음혈·허열 비중 비교 |
 | [총명공진단 가감 사례](../formulas/gongjin-dan.md#chongmyeong-gongjindan) | 녹용 보익 배합에 석창포와 함께 안신·개규의 방향을 더함 | 기본방의 약미와 원지·석창포의 추가량·포제 확인 |
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 핵심 문서
 
 [보약 처방군과 핵심 본초 비교](../network/tonic-formula-compare.md#core-tonic-herbs) · [보익약 지식망](categories/tonics.md) · [안신 본초 비교](categories/calm-spirit.md) · [본초 찾기](../herbal-integrated/herbs.md)

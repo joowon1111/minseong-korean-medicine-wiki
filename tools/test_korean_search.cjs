@@ -17,6 +17,27 @@ const rows = [
 
 const resultUrls = (b) => [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
 
+test('four core formula names and spacing variants reach their detailed source pages', async () => {
+  const root=path.join(__dirname,'..');
+  const folder=fs.mkdtempSync(path.join(os.tmpdir(),'four-formula-search-'));
+  try {
+    const output=path.join(folder,'index.json');
+    execFileSync(process.env.PYTHON || 'python',['-c',
+      'import sys; from pathlib import Path; sys.path.insert(0,"tools"); import build_korean_search_index as m; m.OUT=Path(sys.argv[1]); m.main()',output],{cwd:root});
+    const archive=JSON.parse(fs.readFileSync(output,'utf8'));
+    const b=browser(async()=>({ok:true,json:async()=>archive}));
+    for (const [slug, queries] of [
+      ['banxia-baizhu-tianma-tang', ['반하백출천마탕', '반하 백출 천마탕', '반하백출천마탕 구성']],
+      ['tianwang-buxin-dan', ['천왕보심단', '천왕 보심단', '천왕보심단 구성']],
+      ['chaihu-shugan-san', ['시호소간산', '시호 소간산', '시호소간산 구성']],
+      ['jiawei-wendan-tang', ['가미온담탕', '가미 온담탕', '가미온담탕 구성']],
+    ]) for (const query of queries) {
+      await b.enter(query);
+      assert.equal(resultUrls(b)[0], '/formulas/'+slug+'/', query);
+    }
+  } finally {fs.rmSync(folder,{recursive:true,force:true});}
+});
+
 test('generated index resolves blood-tonifying formula aliases and treatment questions to their representative pages', async () => {
   const root=path.join(__dirname,'..');
   const folder=fs.mkdtempSync(path.join(os.tmpdir(),'blood-treatment-search-'));

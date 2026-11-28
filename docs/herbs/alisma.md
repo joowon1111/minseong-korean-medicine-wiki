@@ -73,3 +73,7 @@ last_reviewed: 2026-09-18
 5. [홍콩침례대 중의약표본관 택사 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00123) — 기원·약용 부위·전통 효능
 
 → [본초 찾기](../herbal-integrated/herbs.md) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [방제 찾기](../herbal-integrated/formulas.md)
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

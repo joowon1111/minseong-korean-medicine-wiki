@@ -46,6 +46,11 @@ last_reviewed: '2026-09-16'
 ## 안전성
 임신·수유, 출혈 위험, 심혈관·간신장 상태, 복용 중인 약물 등은 개별 본초·처방 특성에 따라 확인합니다. 위험신호가 있으면 한의학적 변증보다 의학적 감별이 우선됩니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 지식망
 - [어지럼](../conditions/dizziness.md)
 - [두통](../conditions/headache.md)

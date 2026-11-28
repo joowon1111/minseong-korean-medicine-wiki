@@ -69,3 +69,7 @@ last_reviewed: 2026-09-18
 - [본초 찾기](../herbal-integrated/herbs.md)
 
 > 이 문서는 본초 지식 정리를 위한 자료이며 자가조제·자가복용 지침이 아닙니다.
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

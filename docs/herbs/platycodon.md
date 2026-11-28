@@ -70,3 +70,7 @@ last_reviewed: 2026-09-18
 2. [PubMed Central 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC11283231/) — 길경의 기원·전통 활용·성분·전임상 연구 종합
 
 → [본초 찾기](../herbal-integrated/herbs.md) · [본초 비교·감별](../herbal-integrated/herb-comparisons.md) · [방제 찾기](../herbal-integrated/formulas.md)
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

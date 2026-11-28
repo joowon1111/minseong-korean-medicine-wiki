@@ -82,6 +82,11 @@ last_reviewed: 2026-09-21
 
 임신·수유, 위장관 질환, 간·신장 기능과 복용약을 확인하고 기원·포제·용량을 처방전과 조제기록에 남깁니다. 체중감소·흑변·연하곤란·반복 구토, 열감과 붓기를 동반한 급성 관절통은 필요한 원인 평가를 함께 진행합니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 이어 보기
 
 - [평위산](../formulas/pingwei-san.md) · [오적산](../formulas/wujisan.md)

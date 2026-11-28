@@ -105,6 +105,11 @@ last_reviewed: 2026-10-23
 - 임신·출혈성 질환·간질환, 항응고제·항혈소판제 등 복용약은 백작약 단독이 아니라 전체 처방 기준으로 확인합니다.
 - 백작약과 적작약, 식물 추출물과 표준화 의약품의 안전성 자료를 서로 바꾸어 적용하지 않습니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 근거와 이어서 보기
 
 - [*Paeonia lactiflora* 종합 고찰—PMID 39053710](https://pubmed.ncbi.nlm.nih.gov/39053710/) — 전통 활용·성분·실험 연구 범위

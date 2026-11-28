@@ -85,3 +85,7 @@ description: 지실의 파기소적·화담산비 효능과 주치, 지각·후�
 - [이기·소식 효능 표준](../herbal-integrated/efficacy-indication-standard.md#qi-blood-digestion) · [본초 찾기](../herbal-integrated/herbs.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
 > 전통 본초와 연구 근거를 연결한 교육 자료이며 자가조제·자가복용 지침이 아닙니다.
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

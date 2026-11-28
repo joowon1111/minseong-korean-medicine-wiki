@@ -73,6 +73,11 @@ last_reviewed: 2026-09-21
 
 치료 전후에는 식후팽만·트림·가스·식욕·대변 형태를 같은 기준으로 기록합니다. 밀·곡물과 발효 원료에 대한 알레르기, 보관 중 변질 여부, 혈당 관리가 필요한 경우의 제형과 부원료를 함께 확인합니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 이어 보기 {#_7}
 
 - [산사](hawthorn.md) · [맥아](barley-malt.md) · [나복자](raphanus-seed.md)

@@ -59,3 +59,7 @@ last_reviewed: '2026-10-07'
 - [효능별 본초 찾기](../herbal-integrated/herbs.md) · [본초학](index.md) · [복용 안전 안내](../herbal-integrated/safety.md)
 
 전통적 본초·처방 활용을 설명한 내용입니다. 개별 성분·추출물과 완성 처방의 임상연구는 구분해서 읽습니다.
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->

@@ -73,6 +73,11 @@ berberine은 황백에도 존재하지만 황백 자체와 같은 시험물이 �
 - 임신·수유, 신생아·영아, 간·신장질환, 다약제 복용에서는 원약재와 berberine 농축제품을 구분해 전문가가 확인합니다.
 - 배뇨통·고열·옆구리통증, 혈뇨, 심한 피부 감염은 한약 선택 전에 검사가 우선입니다.
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 근거와 이어 보기
 
 - [Phellodendri Cortex 종합 고찰—PMID 31057654](https://pubmed.ncbi.nlm.nih.gov/31057654/)

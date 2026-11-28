@@ -75,6 +75,11 @@ description: 향부자의 기원·포제, 소간해울·이기관중·조경지�
 - [한국전통지식포탈 향부자 자료](https://koreantk.com/ktkp2014/medicine/medicine-view.view?medCd=M0004188&tempLang=ko) — 기원·포제·전통적 이기 작용.
 - [홍콩침례대 본초 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00109) — 기원·약용 부위·전통 효능
 
+
+## 출전별 처방 구성에서 찾아보기 {#ontology-formula-memberships}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 관련 핵심 문서
 
 - [본초 찾기](../herbal-integrated/herbs.md)
