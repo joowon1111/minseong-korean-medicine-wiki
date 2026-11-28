@@ -17,6 +17,36 @@ const rows = [
 
 const resultUrls = (b) => [...b.panel.innerHTML.matchAll(/class="ms-ksearch-item" href="([^"]+)"/g)].map(m => m[1]);
 
+test('generated index resolves blood-tonifying formula aliases and treatment questions to their representative pages', async () => {
+  const root=path.join(__dirname,'..');
+  const folder=fs.mkdtempSync(path.join(os.tmpdir(),'blood-treatment-search-'));
+  try {
+    const output=path.join(folder,'index.json');
+    execFileSync(process.env.PYTHON || 'python',['-c',
+      'import sys; from pathlib import Path; sys.path.insert(0,"tools"); import build_korean_search_index as m; m.OUT=Path(sys.argv[1]); m.main()',output],{cwd:root});
+    const archive=JSON.parse(fs.readFileSync(output,'utf8'));
+    const b=browser(async()=>({ok:true,json:async()=>archive}));
+    for(const [url,queries] of [
+      ['/formulas/bazhen-tang/',['팔물탕','팔 물 탕','팔진탕','팔 진 탕','八物湯','八珍湯','八 珍 湯','팔진탕 구성']],
+      ['/formulas/siwu-tang/',['사물탕','사물 탕','四物湯']],
+      ['/formulas/shi-quan-da-bu-tang/',['십전대보탕','십전 대보탕','十全大補湯']],
+      ['/pattern-treatment/blood-deficiency/',['혈허 치법','혈 허 치 법','혈허 보혈','기혈양허 치법','기혈 양허 치법','기혈양허 기혈쌍보','보혈 기혈쌍보']],
+      ['/diagnostics/blood-deficiency/',['혈허']],
+      ['/diagnostics/patterns/qi-blood-deficiency/',['기혈양허']],
+      ['/herbs/categories/blood/',['보혈']],
+      ['/formulas/jaeum-geonbi-tang/',['자음건비탕']],
+    ]) for(const query of queries){
+      await b.enter(query);
+      assert.equal(resultUrls(b)[0],url,query);
+      assert.equal(new Set(resultUrls(b)).size,resultUrls(b).length,query);
+    }
+    // An authored short alias does not force a longer research question to it.
+    await b.enter('팔진탕 논문');
+    assert.notEqual(resultUrls(b)[0],'/formulas/bazhen-tang/');
+    assert.ok(resultUrls(b).includes('/formulas/bazhen-tang/'));
+  } finally {fs.rmSync(folder,{recursive:true,force:true});}
+});
+
 test('the complete current archive ranks the three pain guides first for their authored queries', async () => {
   const root = path.join(__dirname, '..');
   const folder = fs.mkdtempSync(path.join(os.tmpdir(), 'pain-search-'));
