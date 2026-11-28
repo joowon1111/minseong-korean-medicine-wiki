@@ -6,6 +6,15 @@ description: 환자가 실제로 검색하는 자연어 질문을 증상과 주�
 
 실제 환자가 묻는 자연어 질문을 분야별로 탐색할 수 있습니다.
 
+## 진료 전후에 자주 묻는 네 가지 질문
+
+| 지금 궁금한 점 | 먼저 확인할 내용 |
+| --- | --- |
+| [검사는 정상인데 피로와 소화불량이 계속돼요](normal-tests-persistent-fatigue-guide.md#fatigue-with-dyspepsia) | 검사 범위와 식사·수면·활동 후 회복 |
+| [잠은 드는데 새벽마다 깨요](sleep-autonomic-guide.md#early-awakening) | 깨어 있는 시간과 다음 날의 생활 |
+| [어깨 통증은 줄었는데 팔이 잘 안 올라가요](overhead-shoulder-pain-guide.md#pain-better-motion-limited) | 관절 움직임과 팔을 버티는 힘 |
+| [보약 복용 후 무엇을 보고 처방을 조절하나요?](tonic-fatigue-guide.md#followup-changes) | 소화·수면·피로와 복용 반응의 변화 |
+
 <!-- ORPHAN_ANSWERS_HUB_START -->
 
 ## 자연어 질문 전체 탐색
