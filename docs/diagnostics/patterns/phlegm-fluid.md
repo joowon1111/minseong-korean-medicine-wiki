@@ -31,6 +31,8 @@ last_reviewed: 2026-09-06
 
 [반하후박탕](../../formulas/banxia-houpo-tang.md#source-dose-original)은 이 담기울결의 맥락에서 비교하는 처방입니다. 반하·복령의 화담과 후박·자소엽의 행기를 생강의 강역·화중과 함께 살핍니다. 《성방편독》의 「사칠탕 — 금궤에서는 반하후박탕이라 함」은 ‘治七情氣鬱，痰涎結聚’라고 설명하며 기울과 담의 결합을 기록합니다. [성방편독 원문](https://jicheng.tw/tcm/book/成方便讀/index.html)
 
+담기울결에서 행기와 화담을 함께 쓰는 이유는 [행기산결·강역화담의 치료 방향](../../pattern-treatment/phlegm-fluid.md#phlegm-qi-binding-care)에서 확인합니다.
+
 피로·식욕저하·무른 변이 중심이면 위 표의 비허담습과 비교하고, 흉협·상복부의 팽만과 통증이 두드러지면 [간기울결과 담음 흉민의 감별](../differentials/liver-qi-vs-phlegm-chest.md)을 확인합니다. 실제 음식·물이 걸리는지와 삼킬 때 통증이 있는지는 [목 이물감의 원인 평가](../../conditions/globus.md)에서 구별하고, 치료 경과는 목의 감각·식사·흉부 불편의 변화를 함께 기록합니다.
 
 ## 함께 감별할 병증 {#differential}

@@ -2,12 +2,12 @@
 
 These are composition/source questions, not clinical efficacy assessments.
 """
-from html import escape
+from html import escape, unescape
 from pathlib import Path
 import unittest
 
 from ontology import BASE, RESOURCE, build_ontology, page_projections
-from ontology_views import herb_formula_table
+from ontology_views import herb_formula_table, pattern_treatment_routes
 
 
 class PractitionerQuestionTests(unittest.TestCase):
@@ -69,6 +69,71 @@ class PractitionerQuestionTests(unittest.TestCase):
                 self.assertIn(condition, record['skos:scopeNote']['@value'])
                 self.assertIn('白朮', record['dcterms:description']['@value'])
                 self.assert_public_answer(record, rendered)
+
+
+    def test_three_phlegm_questions_keep_distinct_qualified_treatment_routes(self):
+        expected = {
+            'banxia-houpo-jinkui': ('phlegm-qi-binding', 'move-qi-dissipate-binding-transform-phlegm'),
+            'liujunzi-yixuexinwu': ('spleen-qi-deficiency-with-phlegm', 'tonify-spleen-transform-phlegm'),
+            'wendan-sanyin': ('gallbladder-stomach-disharmony', 'regulate-qi-transform-phlegm-harmonize-stomach'),
+        }
+        rendered = pattern_treatment_routes(self.payload)
+        for fid, (pattern, principle) in expected.items():
+            with self.subTest(formula=fid):
+                contexts = [n for n in self.records
+                            if n['rdf:subject']['@id'] == RESOURCE + '#' + fid
+                            and n['rdf:predicate']['@id'] == 'km:hasTraditionalPatternContext'
+                            and n['rdf:object']['@id'] == RESOURCE + '#' + pattern]
+                self.assertEqual(len(contexts), 1)
+                context = contexts[0]
+                self.assertEqual(context['rdf:object']['@id'], RESOURCE + '#' + pattern)
+                treatments = [n for n in self.records
+                              if n['rdf:subject']['@id'] == context['rdf:object']['@id']
+                              and n['rdf:predicate']['@id'] == 'km:hasTraditionalTreatmentPrinciple']
+                self.assertEqual(len(treatments), 1)
+                self.assertEqual(treatments[0]['rdf:object']['@id'], RESOURCE + '#' + principle)
+                name = self.nodes[RESOURCE + '#' + fid]['skos:prefLabel']['@value']
+                pattern_name = self.nodes[RESOURCE + '#' + pattern]['skos:prefLabel']['@value']
+                row = next(r for r in rendered.splitlines()
+                           if r.startswith('| <a') and name in r and '>' + pattern_name + '</a>' in r)
+                for record in [context, treatments[0]]:
+                    self.assertIn(record['dcterms:source']['@id'], row)
+                    self.assertIn(record['dcterms:description']['@value'], unescape(row))
+                    self.assertIn(record['skos:scopeNote']['@value'], unescape(row))
+                    for end in ['rdf:subject', 'rdf:object']:
+                        url = self.nodes[record[end]['@id']]['foaf:page']['@id'].split('#')[0]
+                        exported = next(n for n in self.pages[url]['payload']['@graph']
+                                        if n['@id'] == record['@id'])
+                        self.assertEqual(exported, record)
+
+        liujunzi_patterns = {n['rdf:object']['@id'].split('#')[-1] for n in self.records
+                             if n['rdf:subject']['@id'] == RESOURCE + '#liujunzi-yixuexinwu'
+                             and n['rdf:predicate']['@id'] == 'km:hasTraditionalPatternContext'}
+        self.assertEqual(liujunzi_patterns, {'qi-deficiency', 'spleen-qi-deficiency-with-phlegm'})
+
+    def test_shared_herbs_preserve_the_three_different_base_formulations(self):
+        def ingredients(fid):
+            return {r['rdf:object']['@id'].split('#')[-1] for r in self.records
+                    if r['rdf:subject']['@id'] == RESOURCE + '#' + fid
+                    and r['rdf:predicate']['@id'] == 'km:containsHerb'}
+        banxia, liujunzi, wendan = map(ingredients,
+            ['banxia-houpo-jinkui', 'liujunzi-yixuexinwu', 'wendan-sanyin'])
+        self.assertEqual(banxia & liujunzi & wendan, {'pinellia', 'poria', 'fresh-ginger'})
+        self.assertEqual(banxia - liujunzi - wendan, {'magnolia-bark', 'perilla-leaf'})
+        self.assertEqual(liujunzi - banxia - wendan, {'ginseng', 'atractylodes'})
+        self.assertEqual(wendan - banxia - liujunzi, {'citrus-immature', 'bamboo-shavings'})
+        self.assertEqual([len(banxia), len(liujunzi), len(wendan)], [5, 8, 8])
+
+    def test_missing_qi_binding_principle_does_not_borrow_another_phlegm_treatment(self):
+        from copy import deepcopy
+        payload = deepcopy(self.payload)
+        payload['@graph'] = [n for n in payload['@graph']
+                            if not (n.get('rdf:predicate', {}).get('@id') == 'km:hasTraditionalTreatmentPrinciple'
+                                    and n['rdf:subject']['@id'] == RESOURCE + '#phlegm-qi-binding')]
+        rendered = pattern_treatment_routes(payload)
+        self.assertNotIn('반하후박탕 — 금궤요략 수록형', rendered)
+        self.assertIn('육군자탕 — 의학심오 수록형', rendered)
+        self.assertIn('온담탕 — 삼인극일병증방론 수록형', rendered)
 
 
 if __name__ == '__main__':
