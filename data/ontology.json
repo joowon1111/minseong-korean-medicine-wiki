@@ -6174,6 +6174,91 @@
         "육울탕",
         "六鬱湯"
       ]
+    },
+    {
+      "id": "hawthorn",
+      "type": "Herb",
+      "label": "산사",
+      "page": "herbs/hawthorn.md",
+      "definition": "산사나무류의 성숙한 열매. 산사육 등 약용부위·가공과 소식화적 배합의 실제 비율을 확인한다.",
+      "aliases": [
+        "山楂",
+        "山楂肉"
+      ]
+    },
+    {
+      "id": "raphanus-seed",
+      "type": "Herb",
+      "label": "나복자",
+      "page": "herbs/raphanus-seed.md",
+      "definition": "무의 성숙한 씨. 蘿蔔子·萊菔子 표기와 소식제창·강기화담의 배합 및 생품·포제품을 구분한다.",
+      "aliases": [
+        "蘿蔔子",
+        "萊菔子",
+        "내복자"
+      ]
+    },
+    {
+      "id": "food-stagnation",
+      "type": "Pattern",
+      "label": "식적",
+      "page": "diagnostics/differentials/phlegm-vs-food-stagnation.md#formula-pairings",
+      "definition": "음식 정체와 식후팽만·트림·신물·배변 변화의 조합을 살피는 전통 변증 맥락.",
+      "aliases": [
+        "食積"
+      ]
+    },
+    {
+      "id": "food-phlegm-stagnation",
+      "type": "Pattern",
+      "label": "식적담습",
+      "page": "formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care",
+      "definition": "음식 적체에 오심·담습·그득함이 함께 나타나는 변증·배합 맥락. 비위기허의 기반과 실제 소화기 원인을 함께 확인한다.",
+      "aliases": [
+        "食積痰濕"
+      ]
+    },
+    {
+      "id": "digest-food-harmonize-stomach",
+      "type": "TreatmentPrinciple",
+      "label": "소식화적·화위",
+      "page": "formulas/baohe-wan.md#traditional-pattern-care",
+      "definition": "식적에서 음식 정체와 동반 담습·기역·울열을 함께 살피는 전통 치법.",
+      "aliases": [
+        "消食化積·和胃"
+      ]
+    },
+    {
+      "id": "guide-phlegm-support-spleen-digest-food-regulate-qi",
+      "type": "TreatmentPrinciple",
+      "label": "도담보비·소식행기",
+      "page": "formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care",
+      "definition": "의학정전 가미이진탕의 導痰補脾·消食行氣를 바탕으로 식적담습의 배합을 설명하는 전통 치법.",
+      "aliases": [
+        "導痰補脾·消食行氣"
+      ]
+    },
+    {
+      "id": "baohe-danxi",
+      "type": "Formula",
+      "label": "보화환 — 단계심법 7미 수록형",
+      "page": "formulas/baohe-wan.md#source-dose-original",
+      "definition": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "aliases": [
+        "보화환",
+        "保和丸"
+      ]
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan",
+      "type": "Formula",
+      "label": "정전가미이진탕 — 의학정전 도담보비 수록형",
+      "page": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "definition": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "aliases": [
+        "정전가미이진탕",
+        "正傳加味二陳湯"
+      ]
     }
   ],
   "predicates": {
@@ -13906,6 +13991,231 @@
       "source": "formulas/yukwul-tang.md#donguibogam-uigam-version",
       "scope": "기본 9미와 12미는 약미·약량·가공과 출처가 다른 동명 수록형이다. 생강 추가를 기본 약미 수와 구분하고, 반하·사인과 신곡·연교·패모·지각·자소엽을 비교한다.",
       "quote": "**두 수록형의 구성 차이:** 《의학입문》 9미형에는 반하·사인이 있고, 이 《동의보감》 의감 인용 12미형에는 신곡·연교·패모·지각·자소엽이 있습니다."
+    },
+    {
+      "id": "baohe-danxi--containsHerb--hawthorn",
+      "subject": "baohe-danxi",
+      "predicate": "containsHerb",
+      "object": "hawthorn",
+      "source": "formulas/baohe-wan.md#source-dose-original",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "quote": "| [산사](../herbs/hawthorn.md) · 山楂 | 6량 | 별도 포제 표기 없음 | 음식의 적체를 소화하는 소식축 |"
+    },
+    {
+      "id": "baohe-danxi--containsHerb--massa-medicata-fermentata",
+      "subject": "baohe-danxi",
+      "predicate": "containsHerb",
+      "object": "massa-medicata-fermentata",
+      "source": "formulas/baohe-wan.md#source-dose-original",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "quote": "| [신곡](../herbs/massa-medicata-fermentata.md) · 神麯 | 2량 | 별도 포제 표기 없음 | 발효 약재로 식적·소화 정체를 다룸 |"
+    },
+    {
+      "id": "baohe-danxi--containsHerb--pinellia",
+      "subject": "baohe-danxi",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/baohe-wan.md#source-dose-original",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 3량 | 별도 포제 표기 없음 | 화담·강역으로 담습과 오심을 함께 다룸 |"
+    },
+    {
+      "id": "baohe-danxi--containsHerb--poria",
+      "subject": "baohe-danxi",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/baohe-wan.md#source-dose-original",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 3량 | 별도 포제 표기 없음 | 건비·삼습으로 수습의 정체를 조절 |"
+    },
+    {
+      "id": "baohe-danxi--containsHerb--citrus-peel",
+      "subject": "baohe-danxi",
+      "predicate": "containsHerb",
+      "object": "citrus-peel",
+      "source": "formulas/baohe-wan.md#source-dose-original",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "quote": "| [진피](../herbs/citrus-peel.md) · 陳皮 | 1량 | 별도 포제 표기 없음 | 이기·조습으로 팽만과 담습을 조절 |"
+    },
+    {
+      "id": "baohe-danxi--containsHerb--forsythia",
+      "subject": "baohe-danxi",
+      "predicate": "containsHerb",
+      "object": "forsythia",
+      "source": "formulas/baohe-wan.md#source-dose-original",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "quote": "| [연교](../herbs/forsythia.md) · 連翹 | 1량 | 별도 포제 표기 없음 | 청열·산결로 울열을 풀어 줌 |"
+    },
+    {
+      "id": "baohe-danxi--containsHerb--raphanus-seed",
+      "subject": "baohe-danxi",
+      "predicate": "containsHerb",
+      "object": "raphanus-seed",
+      "source": "formulas/baohe-wan.md#source-dose-original",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다.",
+      "quote": "| [나복자](../herbs/raphanus-seed.md) · 蘿蔔子 | 1량 | 별도 포제 표기 없음 | 소식·강기로 음식 정체와 담을 함께 조절 |"
+    },
+    {
+      "id": "baohe-danxi--hasTraditionalPatternContext--food-stagnation",
+      "subject": "baohe-danxi",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "food-stagnation",
+      "source": "formulas/baohe-wan.md#traditional-pattern-care",
+      "scope": "단계심법 積聚痞塊五十四의 기본 7미. 산사 六兩·신곡 二兩·반하와 복령 각 三兩·진피와 연교 및 蘿蔔子 각 一兩. 분말을 炊餅으로 梧子大 환제로 만들고 每服七八十丸·食遠白湯下로 기록한다. 전체 제조 배합과 매회 환수를 구분하고 현대 1환/1회량을 추정하지 않는다. 백출·황금 등의 우방과 단계치법심요의 다른 약량은 별도 기록으로 확인한다. 원전 주치와 후대 변증·배합 설명을 구분하고 동반 증후·원인 평가·섭취·기력·배변 경과를 함께 확인한다.",
+      "quote": "이 《단계심법》 기본 7미 수록형은 **식적**의 전통 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "food-stagnation--hasTraditionalTreatmentPrinciple--digest-food-harmonize-stomach",
+      "subject": "food-stagnation",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "digest-food-harmonize-stomach",
+      "source": "formulas/baohe-wan.md#traditional-pattern-care",
+      "scope": "해당 수록형의 후대 변증·배합 해설. 식적·담습과 평소 허약을 비교하고 소식·화담·건비·이기의 비중을 동반 증후에 맞춰 확인한다. 원문 제법과 현대 제제·연구 조건은 각각 확인한다.",
+      "quote": "식적에서 이 배합을 설명하는 전통 치법은 **소식화적·화위(消食化積·和胃)**입니다."
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--citrus-red-peel",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "citrus-red-peel",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [귤홍](../herbs/citrus-peel.md) · 橘紅 | 七分 | 진피·귤홍의 원문 약명을 구분 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--poria",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "poria",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [복령](../herbs/poria.md) · 茯苓 | 七分 | 이 대목은 백복령으로 표기하지 않음 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--pinellia",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "pinellia",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [반하](../herbs/pinellia.md) · 半夏 | 一錢 | 湯泡洗·뜨거운 물에 담가 씻음 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--licorice",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "licorice",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [감초](../herbs/licorice.md) · 甘草 | 三分 | 炙·자법 기록 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--chuanxiong",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "chuanxiong",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [천궁](../herbs/chuanxiong.md) · 川芎 | 八分 | 별도 포제 표기 없음 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--atractylodes-lancea",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "atractylodes-lancea",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [창출](../herbs/atractylodes-lancea.md) · 蒼朮 | 八分 | 백출과 별도 약미 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--atractylodes",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "atractylodes",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [백출](../herbs/atractylodes.md) · 白朮 | 八分 | 창출과 별도 약미 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--hawthorn",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "hawthorn",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [산사](../herbs/hawthorn.md) · 山楂肉 | 一錢五分 | 산사육이라는 원문 약용부위 표기 보존 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--amomum",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "amomum",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [사인](../herbs/amomum.md) · 砂仁 | 五分 | 별도 포제 표기 없음 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--massa-medicata-fermentata",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "massa-medicata-fermentata",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [신곡](../herbs/massa-medicata-fermentata.md) · 神麯 | 七分 | 炒·곱게 갈고 볶아 별포한 뒤 달인 약에 조입 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--cyperus",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "cyperus",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [향부자](../herbs/cyperus.md) · 香附子 | 一錢 | 별도 포제 표기 없음 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--barley-malt",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "barley-malt",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [맥아](../herbs/barley-malt.md) · 麥糵面 | 五分 | 炒·맥아면을 곱게 갈고 볶아 별포한 뒤 달인 약에 조입 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--fresh-ginger",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "fresh-ginger",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [생강](../herbs/fresh-ginger.md) · 生薑 | 三片 | 전탕 추가재료 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--containsHerb--jujube-fruit",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "containsHerb",
+      "object": "jujube-fruit",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#source-dose-original",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다.",
+      "quote": "| [대조](../herbs/jujube-fruit.md) · 大棗 | 一枚 | 전탕 추가재료 |"
+    },
+    {
+      "id": "jiawei-erchen-yixuezhengzhuan--hasTraditionalPatternContext--food-phlegm-stagnation",
+      "subject": "jiawei-erchen-yixuezhengzhuan",
+      "predicate": "hasTraditionalPatternContext",
+      "object": "food-phlegm-stagnation",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care",
+      "scope": "의학정전 加味二陳湯의 導痰補脾·消食行氣 수록형. 기본 12미의 橘紅·茯苓 각 七分, 半夏 湯泡洗 一錢, 甘草 炙 三分, 川芎·蒼朮·白朮 각 八分, 山楂肉 一錢五分, 砂仁 五分, 神麯 炒 七分, 香附子 一錢, 麥糵面 炒 五分. 生薑 三片·大棗 一枚는 전탕 추가재료. 神麯·麥糵面을 細研炒另包하고 나머지는 細切作一服하여 水二盞煎至一盞 후 두 분말을 調入한다. 모든 약미를 함께 전탕하는 것으로 바꾸지 않는다. 후대 방약합편의 백복령·대조 二枚 및 g 환산과 구분한다. 원전 주치와 후대 변증·배합 설명을 구분하고 동반 증후·원인 평가·섭취·기력·배변 경과를 함께 확인한다.",
+      "quote": "이 《의학정전》 가미이진탕 수록형은 **식적담습**의 전통 변증·배합 맥락에서 비교합니다."
+    },
+    {
+      "id": "food-phlegm-stagnation--hasTraditionalTreatmentPrinciple--guide-phlegm-support-spleen-digest-food-regulate-qi",
+      "subject": "food-phlegm-stagnation",
+      "predicate": "hasTraditionalTreatmentPrinciple",
+      "object": "guide-phlegm-support-spleen-digest-food-regulate-qi",
+      "source": "formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care",
+      "scope": "해당 수록형의 후대 변증·배합 해설. 식적·담습과 평소 허약을 비교하고 소식·화담·건비·이기의 비중을 동반 증후에 맞춰 확인한다. 원문 제법과 현대 제제·연구 조건은 각각 확인한다.",
+      "quote": "식적담습에서 이 배합을 설명하는 전통 치법은 **도담보비·소식행기(導痰補脾·消食行氣)**입니다."
     }
   ]
 }

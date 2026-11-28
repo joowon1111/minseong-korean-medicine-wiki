@@ -68,6 +68,11 @@ last_reviewed: 2026-09-21
 
 지속되는 체중감소, 진행성 연하곤란, 반복 구토, 토혈·흑변, 심한 국소 복통은 내시경·영상 등 필요한 평가를 신속히 연결합니다.
 
+
+## 수록형별 처방 구성에서 찾아보기 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 이어 보기
 
 - [보화환](../formulas/baohe-wan.md) · [삼출건비탕](../formulas/samchul-geonbi-tang.md)

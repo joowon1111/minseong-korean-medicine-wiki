@@ -88,6 +88,8 @@ description: 한의학 온톨로지의 개념·속성·관계를 실제 사례�
 
 [월국환 5미형](../formulas/yueju-wan.md#traditional-pattern-care)과 [육울탕의 출전별 구성](../formulas/yukwul-tang.md#donguibogam-uigam-version)은 육울·행기해울의 맥락에서 비교합니다. 반하·사인이 들어간 의학입문형과 신곡·연교·패모·지각·자소엽을 둔 동의보감 의감 인용형의 약미·약량·전탕 조건은 아래 동명방 비교에서도 확인할 수 있습니다.
 
+과식 뒤 트림·신물·복만이 중심인 [보화환의 식적·소식화적](../formulas/baohe-wan.md#traditional-pattern-care)과 음식 정체에 오심·담습이 겹치는 [정전가미이진탕의 도담보비·소식행기](../formulas/jeongjeon-gami-ijin-tang.md#traditional-pattern-care)를 비교할 수 있습니다. 두 수록형의 산사·신곡 배합, 귤홍·복령의 약명과 전탕·제환 조건은 각 구성 출처에 보존했습니다.
+
 <!-- MINSEONG_ONTOLOGY_PATTERN_TREATMENT_ROUTES -->
 
 ## 구성 관계를 표로 찾아보기 {#ontology-composition-tables}
