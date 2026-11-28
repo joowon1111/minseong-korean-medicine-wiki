@@ -35,6 +35,10 @@ description: 생강의 해표산한·온중지구와 처방 배합, 건강과의
 
 계지탕에서는 대조·감초와 함께 영위와 중초의 조화를 살핍니다. 반하후박탕에서는 반하·후박·복령·자소엽과 담과 기가 맺힌 양상을 다루며, 평위산에서는 창출·후박·진피와 습체와 팽만을 함께 봅니다. 같은 생강도 처방마다 함께 살피는 병증이 다릅니다.
 
+### 생강의 수록형별 구성 출처 {#ontology-herb-formula-sources}
+
+<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->
+
 ## 함께 구분할 점
 
 생강즙·말린 분말·추출물·탕약은 농도와 제형이 다릅니다. [건강](dried-ginger.md)과 [대조](jujube-fruit.md)를 함께 비교합니다. [홍콩침례대 본초 자료](https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00012)

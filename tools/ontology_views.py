@@ -74,23 +74,26 @@ def herb_formula_table(payload, source_path):
     herbs = {key for key, node in nodes.items()
              if 'km:Herb' in node.get('@type', [])
              and node['foaf:page']['@id'].split('#', 1)[0] == canonical}
-    rows = set()
+    rows = defaultdict(set)
     for node in payload['@graph']:
         if (node['@type'] == 'rdf:Statement'
                 and node['rdf:predicate']['@id'] == 'km:containsHerb'
                 and node['rdf:object']['@id'] in herbs):
-            rows.add((node['rdf:object']['@id'], node['rdf:subject']['@id'],
-                      node['dcterms:source']['@id']))
+            rows[(node['rdf:object']['@id'], node['rdf:subject']['@id'],
+                  node['dcterms:source']['@id'])].add(node['skos:scopeNote']['@value'])
     if not rows:
         raise ValueError('No explicit ontology composition records for ' + source_path)
     def label(key):
         return nodes[key]['skos:prefLabel']['@value']
-    lines = ['| 원문 약명 | 처방 수록형 | 구성 출처 |', '|---|---|---|']
+    lines = ['| 원문 약명 | 처방 수록형 | 구성 출처·수록 조건 |', '|---|---|---|']
     for herb, formula, source in sorted(rows, key=lambda row: (label(row[0]), label(row[1]), row)):
+        notes = ''.join('<p>' + escape(scope).replace('|', '&#124;').replace('\n', '<br>') + '</p>'
+                        for scope in sorted(rows[(herb, formula, source)]))
+        context = '<details class="ontology-herb-context"><summary>약량·포제·전탕 조건</summary>' + notes + '</details>'
         lines.append('| ' + link(label(herb), nodes[herb]['foaf:page']['@id'])
                      + ' | ' + link(label(formula), nodes[formula]['foaf:page']['@id'])
-                     + ' | ' + link('원문·구성 확인', source) + ' |')
-    lines += ['', '현재 온톨로지에 구성 관계가 등록된 수록형입니다. 원문 약량·포제와 달일 때 더하는 재료는 구성 출처에서 함께 확인합니다. '
+                     + ' | ' + link('원문·구성 확인', source) + context + ' |')
+    lines += ['', '현재 온톨로지에 구성 관계가 등록된 수록형입니다. 각 행의 ‘약량·포제·전탕 조건’을 펼치면 기본 약미·전탕 추가재료와 수록량·가공에 관한 등록 기록을 볼 수 있습니다. 상세 원문은 구성 출처에서 확인합니다. '
               + link('전체 수록형의 구성 비교', BASE + '/network/#ontology-formula-compositions') + '에서도 이어 볼 수 있습니다.', '']
     return '\n'.join(lines)
 
