@@ -410,3 +410,49 @@ test('care follow-up questions find the authored guide in the generated archive 
     fs.rmSync(folder, {recursive: true, force: true});
   }
 });
+
+
+test('source-specific herb names reach their explanatory pages without merging formula or herb identities', async () => {
+  const root = path.join(__dirname, '..');
+  const folder = fs.mkdtempSync(path.join(os.tmpdir(), 'herb-name-search-'));
+  try {
+    const output = path.join(folder, 'index.json');
+    execFileSync(process.env.PYTHON || 'python', ['-c',
+      'import sys; from pathlib import Path; sys.path.insert(0,"tools"); import build_korean_search_index as m; m.OUT=Path(sys.argv[1]); m.main()', output], {cwd: root});
+    const archive = JSON.parse(fs.readFileSync(output, 'utf8'));
+    const b = browser(async () => ({ok: true, json: async () => archive}));
+    for (const [url, queries] of [
+      ['/herbs/poria/', ['복령', '茯苓', '백복령', '백 복령', '白茯苓', '적복령', '적 복령', '赤茯苓']],
+      ['/herbs/cinnamon-bark/', ['육계', '肉桂', '계심', '계 심', '桂心']],
+      ['/herbs/white-peony/', ['작약', '芍藥', '백작약', '백 작약', '白芍', '白芍藥']],
+      ['/herbs/pinellia/', ['반하', '半夏', '반하곡', '반하 곡', '半夏曲']],
+      ['/herbs/poria-spirit/', ['복신']],
+      ['/herbs/cinnamon-twig/', ['계지']],
+      ['/herbs/red-peony/', ['적작약']],
+      ['/herbs/fresh-ginger/', ['생강']],
+      ['/herbs/dried-ginger/', ['건강']],
+      ['/formulas/suanzaoren-tang/', ['산조인탕']],
+      ['/formulas/shaoyao-gancao-tang/', ['작약감초탕']],
+    ]) {
+      for (const query of queries) {
+        await b.enter(query);
+        assert.equal(resultUrls(b)[0], url, query);
+      }
+    }
+    const data = JSON.parse(fs.readFileSync(path.join(root, 'data/ontology.json'), 'utf8'));
+    const concept = id => data.concepts.find(c => c.id === id);
+    // Sharing an explanatory page keeps separate ingredient and processing IDs.
+    for (const [first, second] of [['poria', 'white-poria'], ['poria', 'red-poria'],
+      ['pinellia', 'pinellia-ferment'], ['white-peony', 'shaoyao-source-name']]) {
+      assert.notEqual(concept(first).id, concept(second).id);
+      assert.equal(concept(first).page.split('#')[0], concept(second).page.split('#')[0]);
+    }
+    const herbs = fid => data.statements.filter(s => s.subject === fid && s.predicate === 'containsHerb').map(s => s.object);
+    assert.ok(herbs('huoxiang-zhengqi-guofang').includes('pinellia-ferment'));
+    assert.ok(!herbs('huoxiang-zhengqi-guofang').includes('pinellia'));
+    assert.ok(herbs('suanzaoren-donguibogam').includes('red-poria'));
+    assert.ok(!herbs('suanzaoren-jinkui').includes('red-poria'));
+  } finally {
+    fs.rmSync(folder, {recursive: true, force: true});
+  }
+});
