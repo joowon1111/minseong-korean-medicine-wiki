@@ -24,6 +24,10 @@ description: 임상 핵심 처방 100선을 병증·치법·처방 계보에 따
 
 비슷한 처방의 **공통 약재·달라지는 배합·원문 주치**를 나란히 읽으려면 [사군자·육군자·향사육군자](../herbal-formula-clinical/formula-comparison.md#digestive-family), [사물·팔물·십전대보·인삼양영](../herbal-formula-clinical/formula-comparison.md#qi-blood-family), [귀비·산조인·온담](../herbal-formula-clinical/formula-comparison.md#sleep-family) 비교로 이어집니다. 각 출전의 약량표는 아래 목록과 개별 처방 문서에서 확인합니다.
 
+### 구성 관계 등록 현황 {#core-composition-coverage}
+
+<!-- MINSEONG_ONTOLOGY_CORE_FORMULA_COVERAGE -->
+
 ### 보기·기혈·회복 16선
 
 | 처방 | 구조를 읽는 핵심 | 수치·법제 확인점 | 대조 출전·원문 |

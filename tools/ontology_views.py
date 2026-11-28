@@ -5,6 +5,7 @@ from html import escape
 from pathlib import Path
 
 from ontology import BASE, build_ontology
+from formula_coverage import FORMULARY, MARKER as COVERAGE_MARKER, formula_coverage, coverage_markdown
 
 MARKER = '<!-- MINSEONG_ONTOLOGY_COMPOSITION_TABLES -->'
 HERB_MARKER = '<!-- MINSEONG_ONTOLOGY_HERB_FORMULAS -->'
@@ -307,6 +308,11 @@ def on_pre_build(config, **kwargs):
 
 
 def on_page_markdown(markdown, *, page, config, files):
+    if page.file.src_uri == FORMULARY:
+        if markdown.count(COVERAGE_MARKER) != 1:
+            raise ValueError('Core formulary needs one composition coverage marker')
+        report = formula_coverage(herb_payload(str(config['docs_dir'])), Path(config['docs_dir']))
+        return markdown.replace(COVERAGE_MARKER, coverage_markdown(report))
     if page.file.src_uri != 'network/index.md':
         if HERB_MARKER not in markdown:
             return markdown
